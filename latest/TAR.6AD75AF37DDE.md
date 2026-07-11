@@ -36,7 +36,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-5a567dcc11c6167101db660d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2001 m. kovo 16 d. dekretą Nr. 1248, ratifikuoja Nykstančių laukinės faunos ir floros rūšių tarptautinės prekybos konvenciją, pasirašytą 1973 m. kovo 3 d. Vašingtone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2001 m. kovo 16 d. dekretą Nr. 1248](https://e-tar.lt/portal/lt/legalAct/TAR.F9637F05D765), ratifikuoja Nykstančių laukinės faunos ir floros rūšių tarptautinės prekybos konvenciją, pasirašytą 1973 m. kovo 3 d. Vašingtone.
 
 
 

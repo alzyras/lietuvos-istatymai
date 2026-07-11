@@ -77,7 +77,7 @@ Papildyti Įstatymą 371 straipsniu:
 5. Šio straipsnio nuostatos taikomos nuolatinei buveinei, išmokančiai Įstatymo 4 straipsnio 4 dalies 1, 3 ir 5 punktuose nurodytas sumas, jei šias sumas yra leidžiama atskaityti iš nuolatinės buveinės pajamų pagal šio Įstatymo ir kitų teisės aktų nuostatas. ^s-bbfc101a6c55fb141beafd33
 
 
-6. Įstatymo 4 straipsnio 4 dalies 1, 3 ir 5 punktuose nurodytas sumas išmokantis Lietuvos vienetas ar nuolatinė buveinė turi turėti dokumentus, įrodančius, kad tenkinami šio straipsnio 1–[[#^s-7acdd508ba77d7ab9b3b29b7|3 dalyse]] nustatyti kriterijai. Reikalavimus šiems dokumentams nustato centrinis mokesčių administratorius. ^s-beda0f4908980bb7c0e7353a
+6. Įstatymo 4 straipsnio 4 dalies 1, 3 ir 5 punktuose nurodytas sumas išmokantis Lietuvos vienetas ar nuolatinė buveinė turi turėti dokumentus, įrodančius, kad tenkinami šio straipsnio [[#^s-86f5100fee700f8c5b7ca877|1]]–[[#^s-7acdd508ba77d7ab9b3b29b7|3]] dalyse nustatyti kriterijai. Reikalavimus šiems dokumentams nustato centrinis mokesčių administratorius. ^s-beda0f4908980bb7c0e7353a
 
 
 7. Šio straipsnio nuostatos taikomos taip pat valstybėms ir Europos Sąjungos valstybėms narėms priklausomoms teritorijoms, jeigu toks taikymas numatytas Europos Sąjungos teisės aktuose.“ ^s-a45c505934053efe20bc3bac

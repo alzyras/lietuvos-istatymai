@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 12 straipsnio pakeitimas ^s-89962d5475cd4029f20b6539
 
 
-Pakeisti 12 straipsnio 6 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.EAA93A47BAA1#^s-2d3e95e197c81fc0ac03711a|12 straipsnio 6 punktą]] ir jį išdėstyti taip:
 
 
 „6) asmenys, kuriems nustatytas sunkaus neįgalumo lygis arba 0–25 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. 0–25 proc. darbingumo lygis arba didelių specialiųjų poreikių lygis), taip pat šiame punkte nurodytų asmenų globėjai (rūpintojai), kai valstybės garantuojama teisinė pagalba reikalinga globotinio (rūpintinio) teisėms ir interesams atstovauti bei ginti;“.
@@ -50,10 +50,10 @@ Pakeisti 12 straipsnio 6 punktą ir jį išdėstyti taip:
 ### 2 straipsnis. 13 straipsnio pakeitimas ^s-9756f1b2fdeb07b1bcce9c91
 
 
-Pakeisti 13 straipsnio 6 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.EAA93A47BAA1#^s-38bc002eecab4e5cbce857d0|13 straipsnio 6 dalį]] ir ją išdėstyti taip:
 
 
-„6. Šio įstatymo 12 straipsnio 6 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo asmens su negalia pažymėjimas (iki 2023 m. gruodžio 31 d. išduotas neįgaliojo pažymėjimas), patvirtinantis nustatytą asmens neįgalumo lygį arba dalyvumo lygį (iki 2023 m. gruodžio 31 d. – darbingumo lygį arba specialiųjų poreikių lygį).“
+„6. Šio įstatymo [[latest/TAR.EAA93A47BAA1#^s-2d3e95e197c81fc0ac03711a|12 straipsnio 6 punkte]] nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo asmens su negalia pažymėjimas (iki 2023 m. gruodžio 31 d. išduotas neįgaliojo pažymėjimas), patvirtinantis nustatytą asmens neįgalumo lygį arba dalyvumo lygį (iki 2023 m. gruodžio 31 d. – darbingumo lygį arba specialiųjų poreikių lygį).“
 
 
 

@@ -207,7 +207,7 @@ BENDROSIOS NUOSTATOS
 2. Ugdymo turinys kuriamas šio įstatymo 3 straipsnyje nurodytiems švietimo tikslams įgyvendinti. Konkretus ugdymo turinys kuriamas ir sistemingai atnaujinamas atsižvelgiant į atitinkamos grupės ar tipo mokyklai keliamus ugdymo, mokymo ir studijų tikslus, besikeičiančios socialinės ir kultūrinės aplinkos lemiamus Lietuvos visuomenės poreikius, vietos ir mokyklos bendruomenės reikmes, taip pat mokinių ir studentų turimą patirtį, ugdymosi poreikius ir interesus. ^s-181309507bdad5b68b943b34
 
 
-3. Šio straipsnio 1 ir [[#^s-181309507bdad5b68b943b34|2 dalyse]] nurodytų reikalavimų laikomasi rengiant ikimokykliniam, priešmokykliniam ugdymui, bendrajam ugdymui, profesiniam mokymui, studijoms aukštosiose mokyklose skirtas švietimo programas ar jų modulius, ugdymo planus ar studijų krypčių reglamentus, mokymosi pasiekimų patikrinimų programas, vadovėlius, kitas mokymo priemones, papildomą ugdymo medžiagą. ^s-49983495987f428ff2e9a68d
+3. Šio straipsnio [[#^s-e12b5419942f9c15d9ba5847|1]] ir [[#^s-181309507bdad5b68b943b34|2]] dalyse nurodytų reikalavimų laikomasi rengiant ikimokykliniam, priešmokykliniam ugdymui, bendrajam ugdymui, profesiniam mokymui, studijoms aukštosiose mokyklose skirtas švietimo programas ar jų modulius, ugdymo planus ar studijų krypčių reglamentus, mokymosi pasiekimų patikrinimų programas, vadovėlius, kitas mokymo priemones, papildomą ugdymo medžiagą. ^s-49983495987f428ff2e9a68d
 
 
 
@@ -631,7 +631,7 @@ Lietuvos švietimo sistema apima:
 ### 27 straipsnis. Galimybė pasirinkti švietimo programas ^s-a01ef1bfebb4d90d1a1b9e01
 
 
-1. Asmuo, rinkdamasis švietimo programas, laikosi šio įstatymo 7–[[#^s-bb88c6f6f42f0209872820d5|13 straipsniuose]] nustatyto programų nuoseklumo. ^s-d086ec6ac0edfe032d0241ea
+1. Asmuo, rinkdamasis švietimo programas, laikosi šio įstatymo [[#^s-eb857233d02f00434aba89ec|7]]–[[#^s-bb88c6f6f42f0209872820d5|13]] straipsniuose nustatyto programų nuoseklumo. ^s-d086ec6ac0edfe032d0241ea
 
 
 2. Mokiniui suteikiama galimybė pagal gebėjimus ir polinkius rinktis švietimo programas, skirtingus jų variantus, švietimo programų modulius, dalykų kursų programas. Mokinys taip pat renkasi švietimo programą vykdančią mokyklą, kitą švietimo teikėją, mokymosi formą. Mokymosi pagal formaliojo švietimo programas (išskyrus aukštojo mokslo studijų programas) formas ir mokymo organizavimo pagal mokymosi formas tvarkos aprašus tvirtina švietimo ir mokslo ministras. ^s-e3c4dcd8e74e0c148564d8c3
@@ -776,7 +776,7 @@ Lietuvos švietimo sistema apima:
 5. Tikybos mokyti pagal formaliojo švietimo programas (išskyrus aukštojo mokslo studijų programas) gali asmuo, įgijęs aukštąjį arba aukštesnįjį išsilavinimą ir pedagogo kvalifikaciją arba turintis tam reikalingą specialųjį pasirengimą. Toks asmuo privalo turėti tradicinės religinės bendruomenės ar bendrijos vadovybės nustatyta tvarka išduotą leidimą (siuntimą) mokyti tikybos. ^s-45e53e40246690c5d89ed80f
 
 
-6. Mokykla, negalinti užtikrinti mokinių ar jų tėvų (globėjų, rūpintojų) pageidaujamos tradicinės religinės bendruomenės ar bendrijos tikybos mokymo, įskaito mokiniui tikybos mokymą sekmadieninėje mokykloje ar kitoje tikybos mokymo grupėje pagal šio straipsnio 4 ir [[#^s-45e53e40246690c5d89ed80f|5 dalyse]] nustatytus reikalavimus. ^s-55e27cf94e686f2e01c53d90
+6. Mokykla, negalinti užtikrinti mokinių ar jų tėvų (globėjų, rūpintojų) pageidaujamos tradicinės religinės bendruomenės ar bendrijos tikybos mokymo, įskaito mokiniui tikybos mokymą sekmadieninėje mokykloje ar kitoje tikybos mokymo grupėje pagal šio straipsnio [[#^s-90d1388729fa508bf90c8a7a|4]] ir [[#^s-45e53e40246690c5d89ed80f|5]] dalyse nustatytus reikalavimus. ^s-55e27cf94e686f2e01c53d90
 
 
 7. Tikybai mokyti ir tikybos programą papildantiems bei mokinių saviraiškos poreikius tenkinantiems šios programos moduliams vykdyti sudaromos tokios pačios sąlygos kaip ir kitiems mokomiesiems pasirenkamiesiems dalykams mokyti bei jų programas papildantiems ir mokinių saviraiškos poreikius tenkinantiems šių programų moduliams vykdyti. ^s-f33fdf516d2d011802c0986b
@@ -1325,13 +1325,13 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 3. [[#^s-3599358aaf28096a26bcd3b4|Šio straipsnio 1 dalyje]] nurodyti mokytojai privalo turėti švietimo ir mokslo ministro nustatytą kvalifikaciją. ^s-8bed64c53560813f1e83db8d
 
 
-4. Asmuo, kuris yra įgijęs kvalifikaciją valstybėje narėje arba Šveicarijos Konfederacijoje, kuriam [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo]] nustatyta tvarka pripažinta atitinkama kvalifikacija ir kuris atitinka šio straipsnio 1 ir [[#^s-8bed64c53560813f1e83db8d|3 dalyse]] nustatytus reikalavimus, gali dirbti mokytoju Lietuvoje. ^s-adab84a1245c66ce49900d4d
+4. Asmuo, kuris yra įgijęs kvalifikaciją valstybėje narėje arba Šveicarijos Konfederacijoje, kuriam [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo]] nustatyta tvarka pripažinta atitinkama kvalifikacija ir kuris atitinka šio straipsnio [[latest/TAR.074B2F6259F9|1]] ir [[latest/TAR.074B2F6259F9|3]] dalyse nustatytus reikalavimus, gali dirbti mokytoju Lietuvoje. ^s-adab84a1245c66ce49900d4d
 
 
-5. Asmuo, kuris yra įgijęs kvalifikaciją užsienio valstybėje, išskyrus kvalifikaciją, įgytą valstybėje narėje arba Šveicarijos Konfederacijoje, kuriam Vyriausybės nustatyta tvarka pripažinta atitinkama kvalifikacija ir kuris atitinka šio straipsnio 1 ir [[#^s-8bed64c53560813f1e83db8d|3 dalyse]] nustatytus reikalavimus, gali dirbti mokytoju Lietuvoje. ^s-425ae4bc63fe4fed0325fa11
+5. Asmuo, kuris yra įgijęs kvalifikaciją užsienio valstybėje, išskyrus kvalifikaciją, įgytą valstybėje narėje arba Šveicarijos Konfederacijoje, kuriam Vyriausybės nustatyta tvarka pripažinta atitinkama kvalifikacija ir kuris atitinka šio straipsnio [[#^s-3599358aaf28096a26bcd3b4|1]] ir [[#^s-8bed64c53560813f1e83db8d|3]] dalyse nustatytus reikalavimus, gali dirbti mokytoju Lietuvoje. ^s-425ae4bc63fe4fed0325fa11
 
 
-6. Jeigu kiti įstatymai mokytojams nustato kitokius reikalavimus, negu numatyti šio straipsnio 1 ir [[#^s-8bed64c53560813f1e83db8d|3 dalyse]], taikomi kituose įstatymuose nustatyti reikalavimai. ^s-4ac080174c5c7468a316086a
+6. Jeigu kiti įstatymai mokytojams nustato kitokius reikalavimus, negu numatyti šio straipsnio [[#^s-3599358aaf28096a26bcd3b4|1]] ir [[#^s-8bed64c53560813f1e83db8d|3]] dalyse, taikomi kituose įstatymuose nustatyti reikalavimai. ^s-4ac080174c5c7468a316086a
 
 
 7. Mokykloje Lietuvos Respublikos teisės aktų ir tarptautinių sutarčių nustatyta tvarka gali dirbti užsienio valstybės pilietis ar asmuo be pilietybės. ^s-865664d720728f8c9196ce7c
@@ -1340,7 +1340,7 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 8. Mokytoju negali dirbti asmuo: ^s-be3683c9b0371534d3cbeeab
 
 
-1) neatitinkantis šio straipsnio 1, 3, 4, 5 ir [[#^s-4ac080174c5c7468a316086a|6 dalyse]] nustatytų reikalavimų; ^s-ba30a4e464ec86596d38f7d9
+1) neatitinkantis šio straipsnio [[#^s-3599358aaf28096a26bcd3b4|1]], [[#^s-8bed64c53560813f1e83db8d|3]], [[#^s-adab84a1245c66ce49900d4d|4]], [[#^s-425ae4bc63fe4fed0325fa11|5]] ir [[#^s-4ac080174c5c7468a316086a|6]] dalyse nustatytų reikalavimų; ^s-ba30a4e464ec86596d38f7d9
 
 
 2) nuteistas už tyčinę nusikalstamą veiką; ^s-443806210e88ff7c754f1c5d
@@ -1713,7 +1713,7 @@ Vyriausybė:
 8) organizuoja savivaldybės teritorijoje esančių mokyklų mokinių mokymosi pasiekimų patikrinimus; ^s-0adf7e80d458e0c3926edc57
 
 
-9) įstatymų nustatyta tvarka atsako, kad kiekvienas jos teritorijoje gyvenantis mokinys būtų vežamas į mokyklą ir atgal, pagal šio įstatymo [[#^s-b64dd3aa7fe2382305fa0866|36 straipsnio]] 1 ir [[#^s-883f00f9796cc3b58abe8844|2 dalis]] organizuoja nemokamą mokinių vežimą į mokyklas; ^s-39f78791a7d3e7760380011f
+9) įstatymų nustatyta tvarka atsako, kad kiekvienas jos teritorijoje gyvenantis mokinys būtų vežamas į mokyklą ir atgal, pagal šio įstatymo [[#^s-b64dd3aa7fe2382305fa0866|36 straipsnio]] [[#^s-7f152fa2b4f2dac6f8873e8c|1]] ir [[#^s-58b7843c3de7198069a77b0e|2]] dalis organizuoja nemokamą mokinių vežimą į mokyklas; ^s-39f78791a7d3e7760380011f
 
 
 10) teikia informaciją Švietimo ir mokslo ministerijai ir visuomenei apie švietimo būklę savivaldybėje. ^s-ffbdec50c7bc296edcb41ed6
@@ -2085,7 +2085,7 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 1. Šis įstatymas, išskyrus 2 straipsnio 1 dalį, įsigalioja 2011 m. liepos 1 d. ^s-90fdff81e1a720efc2bb4bba
 
 
-2. Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.9A3AD08EA5D0#^s-be9633fc55d33b24ba26c53a|Švietimo įstatymo 30 straipsnio]] 2 ir 3 dalių redakcija, galiojanti nuo 2011 m. rugsėjo 1 d.: ^s-bf1d952b1529a4bf28b2b1c1
+2. Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.9A3AD08EA5D0#^s-be9633fc55d33b24ba26c53a|Švietimo įstatymo 30 straipsnio]] [[latest/TAR.9A3AD08EA5D0#^s-7b8e7c369c191d021488fa0c|2]] ir [[latest/TAR.9A3AD08EA5D0#^s-e5f8e137e9c18acb058376ca|3]] dalių redakcija, galiojanti nuo 2011 m. rugsėjo 1 d.: ^s-bf1d952b1529a4bf28b2b1c1
 
 
 „2. Bendrojo ugdymo ir neformaliojo švietimo mokyklos tautinėms mažumoms priklausantiems mokiniams sudaro sąlygas puoselėti tautinį, etninį ir kalbinį identitetą, mokytis gimtosios kalbos, istorijos ir kultūros. Bendrojo ugdymo ir neformaliojo švietimo mokykloje, kurios nuostatuose (įstatuose), atsižvelgiant į tėvų (globėjų, rūpintojų) ir mokinių pageidavimą, įteisintas mokymas tautinės mažumos kalbos arba mokymas tautinės mažumos kalba, ugdymo procesas gali būti vykdomas arba kai kurie dalykai mokomi tautinės mažumos kalba. Šiose mokyklose lietuvių kalbos dalykas yra sudėtinė ugdymo programos dalis ir jos mokymui skiriama ne mažiau laiko kaip gimtosios kalbos mokymui. Tokiose mokyklose:
@@ -2112,7 +2112,7 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 4. Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.9A3AD08EA5D0#^s-b084b3cd6a8c2f62156a785b|Švietimo įstatymo 41 straipsnio 6 dalis]] pripažįstama netekusia galios 2015 m. rugsėjo 1 d. ^s-e805131579936344c4df8205
 
 
-5. Šio įstatymo 1 straipsnyje išdėstyto Švietimo įstatymo 48 straipsnio 1 dalies 6 punktas pripažįstamas netekusiu galios 2011 m. rugsėjo 1 d. ^s-b2b4bda22120edaebd0b1187
+5. Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.9A3AD08EA5D0|Švietimo įstatymo 48 straipsnio 1 dalies 6 punktas]] pripažįstamas netekusiu galios 2011 m. rugsėjo 1 d. ^s-b2b4bda22120edaebd0b1187
 
 
 
@@ -2122,7 +2122,7 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 Įsigaliojus šiam įstatymui, netenka galios:
 
 
-1) Lietuvos Respublikos specialiojo ugdymo įstatymas (Žin., 1998, Nr. 115-3228). ^s-7829100341b821a795cf3d36
+1) [Lietuvos Respublikos specialiojo ugdymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E803358CC7B7) (Žin., 1998, Nr. 115-3228). ^s-7829100341b821a795cf3d36
 
 
 2) [[latest/TAR.391A759D9506|Lietuvos Respublikos švietimo įstatymo 2, 48 ir 69 straipsnių pakeitimo įstatymo]] (Žin., 2009, Nr. 89-3802) 4 straipsnis. ^s-a39c2fd93fe3f290cd9c2486

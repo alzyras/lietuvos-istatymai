@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. 10 straipsnio pakeitimas ^s-5e5e4f437637e8e5b19c6eda
 
 
-Papildyti 10 straipsnį 6 punktu:
+Papildyti [[latest/TAR.9E28E8E2F3F3#^s-4a9cf80af221d8a9d65603f6|10 straipsnį 6 punktu]]:
 
 
 „6) Lietuvos Respublikos civilinio kodekso 6.927 straipsnio 3 dalyje nustatytu atveju.“

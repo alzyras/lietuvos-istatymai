@@ -101,7 +101,7 @@ Bendrosios nuostatos
 ### 1 straipsnis. Vilniaus universiteto statusas ^s-5d987da4399213e66044fefb
 
 
-1. Vilniaus universitetas (toliau – Universitetas), įsteigtas 1579 m. balandžio 1 d. didžiojo Lietuvos kunigaikščio ir Lenkijos karaliaus Stepono Batoro privilegija, yra valstybinė aukštoji mokykla. Universitetas turi juridinio asmens teises, yra ne pelno įstaiga, turinti Lietuvos Respublikos Konstitucijos bei Aukštojo mokslo įstatymo nustatytą statusą. Jo buveinės adresas – Universiteto g. 3, LT-2734, Vilnius. ^s-f5576d3403259a0b23d64a8d
+1. Vilniaus universitetas (toliau – Universitetas), įsteigtas 1579 m. balandžio 1 d. didžiojo Lietuvos kunigaikščio ir Lenkijos karaliaus Stepono Batoro privilegija, yra valstybinė aukštoji mokykla. Universitetas turi juridinio asmens teises, yra ne pelno įstaiga, turinti Lietuvos Respublikos Konstitucijos bei [Aukštojo mokslo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F) nustatytą statusą. Jo buveinės adresas – Universiteto g. 3, LT-2734, Vilnius. ^s-f5576d3403259a0b23d64a8d
 
 
 2. Universitetas naudojasi Lietuvos Respublikos Konstitucijos suteikta autonomija, apimančia akademinę, administracinę, ūkio ir finansų tvarkymo veiklą, grindžiamą savivaldos principu ir akademine laisve. Universiteto autonomija įgyvendinama šio Statuto ir kitų Lietuvos Respublikos įstatymų nustatyta tvarka. Kilus prieštaravimų tarp šio Statuto ir kitų Lietuvos Respublikos teisės aktų, išskyrus Lietuvos Respublikos Konstituciją ir Aukštojo mokslo įstatymą, taikomos šio Statuto nuostatos. ^s-dd0f3bc91bacfcf99fb6a9c5

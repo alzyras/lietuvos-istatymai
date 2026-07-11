@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos �
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EAA93A47BAA1#^s-0f63c27229205d79c53ad37c|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - 2 citatos - VALSTYBĖS GARANTUOJAMOS TEISINĖS PAGALBOS ĮSTATYMO 3, 5, 7, 13, 14 IR 17 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.EAA93A47BAA1#^s-bec2d66e6c1e480c7164ee42|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - 2 citatos - VALSTYBĖS GARANTUOJAMOS TEISINĖS PAGALBOS ĮSTATYMO 3, 5, 7, 13, 14 IR 17 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.EAA93A47BAA1#^s-0f63c27229205d79c53ad37c|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - VALSTYBĖS GARANTUOJAMOS TEISINĖS PAGALBOS ĮSTATYMO 3, 5, 7, 13, 14 IR 17 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

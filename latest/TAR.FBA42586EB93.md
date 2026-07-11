@@ -92,10 +92,10 @@ BENDROSIOS NUOSTATOS
 6. Dukterinė įmonė – Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme apibūdinta įmonė. ^s-d076cc69f98dda22594a1dc1
 
 
-7. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB, (OL 2010 L 331, p. 84) (toliau – Reglamentas (ES) 1095/2010) įsteigta Europos Sąjungos institucija. ^s-798bb6be204027f9e40f5f6c
+7. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB, (OL 2010 L 331, p. 84) (toliau – [Reglamentas (ES) 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj)) įsteigta Europos Sąjungos institucija. ^s-798bb6be204027f9e40f5f6c
 
 
-8. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) (toliau – Reglamentas (ES) Nr. 1092/2010) įsteigta Europos Sąjungos institucija. ^s-f94b87fedc49cde68d7aa8f0
+8. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj) dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) (toliau – [Reglamentas (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj)) įsteigta Europos Sąjungos institucija. ^s-f94b87fedc49cde68d7aa8f0
 
 
 9. Finansinis įkaitas (toliau – įkaitas) – įkeistas finansinis turtas (įskaitant pinigus), taip pat pagal atpirkimo arba panašų sandorį perleistas finansinis turtas teisėms ir įsipareigojimams, galintiems atsirasti naudojantis sistema, užtikrinti arba pateiktas Lietuvos bankui, kitų valstybių narių centriniams bankams ar Europos centriniam bankui kaip prievolės šiems bankams įvykdymo užtikrinimo priemonė. Įkaitu pagal šį įstatymą laikomas ir finansinis užstatas pagal Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymą. ^s-56a5c7e2d83756c0ca19a33a
@@ -189,7 +189,7 @@ BENDROSIOS NUOSTATOS
 2) Lietuvos Respublikoje registruotiems dalyviams, dalyvaujantiems sistemoje, kurios dalyvių teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, taikoma kitos valstybės narės teisė. ^s-9dc92ad1dbfd870f083127c4
 
 
-2. Sistemoms, kurių operatorius yra Lietuvos bankas, šio įstatymo 5 ir [[#^s-830c4c6e1f1e94cf44b97552|6 straipsniai]] netaikomi. ^s-32eeb0eac9bcadd282b9f748
+2. Sistemoms, kurių operatorius yra Lietuvos bankas, šio įstatymo [[#^s-3b317c04ec163d7324d5acb7|5]] ir [[#^s-830c4c6e1f1e94cf44b97552|6]] straipsniai netaikomi. ^s-32eeb0eac9bcadd282b9f748
 
 
 
@@ -339,7 +339,7 @@ OPERACIJŲ SUSTABDYMO IR BANKROTO PROCESO PADARINIŲ APRIBOJIMAS
 2. Pareigą informuoti Lietuvos banką, kaip nurodyta [[#^s-7bc7652a4970bc6b79017400|šio straipsnio 1 dalyje]], taip pat turi teismas arba kita institucija, priėmusi sprendimą dėl Lietuvos Respublikoje registruoto sistemos dalyvio operacijų sustabdymo. ^s-a8dd9f16d734025f2f0530c4
 
 
-3. Lietuvos bankas, gavęs šio straipsnio 1 ar [[#^s-a8dd9f16d734025f2f0530c4|2 dalyje]] nurodytą pranešimą, nedelsdamas privalo pranešti: ^s-74bb5ae78f3b53961e932888
+3. Lietuvos bankas, gavęs šio straipsnio [[#^s-7bc7652a4970bc6b79017400|1]] ar [[#^s-a8dd9f16d734025f2f0530c4|2]] dalyje nurodytą pranešimą, nedelsdamas privalo pranešti: ^s-74bb5ae78f3b53961e932888
 
 
 1) tos sistemos, kurios dalyviai teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, pasirinko Lietuvos Respublikos teisę, operatoriui; ^s-a7c10829c67dbbb6cbfadf57
@@ -391,10 +391,10 @@ BAIGIAMOSIOS NUOSTATOS
 1. Lietuvos bankas privalo teikti Europos Komisijai informaciją apie sistemas ir jų operatorius, šio įstatymo nustatyta tvarka įregistruotus Lietuvos banke, ir sistemas, kurių operatorius yra pats Lietuvos bankas, taip pat nurodyti, kad jis yra šiame įstatyme nurodyta atsakinga institucija Lietuvoje. ^s-6d966e770974a98f4bab9e1c
 
 
-2. Šio įstatymo tikslais Lietuvos bankas bendradarbiauja su Europos vertybinių popierių ir rinkų institucija pagal Reglamentą (ES) 1095/2010. ^s-a5ebd10ba1870bac36b0ea22
+2. Šio įstatymo tikslais Lietuvos bankas bendradarbiauja su Europos vertybinių popierių ir rinkų institucija pagal [Reglamentą (ES) 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj). ^s-a5ebd10ba1870bac36b0ea22
 
 
-3. Lietuvos bankas pagal Reglamento (ES) 1095/2010 35 straipsnį nedelsdamas suteikia Europos vertybinių popierių ir rinkų institucijai visą informaciją, būtiną jos užduotims vykdyti. ^s-0d7e22068005e7e8d604dc89
+3. Lietuvos bankas pagal [Reglamento (ES) 1095/2010 35 straipsnį](https://eur-lex.europa.eu/eli/reg/1095/2010/art_35/oj) nedelsdamas suteikia Europos vertybinių popierių ir rinkų institucijai visą informaciją, būtiną jos užduotims vykdyti. ^s-0d7e22068005e7e8d604dc89
 
 
 
@@ -427,10 +427,10 @@ priedas
 ### 3 straipsnis. Įstatymo įsigaliojimas ^s-52cb69f8300cb0acd33430d1
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-7d1a1b8242f7d7615ac819fc|3 dalyse]] nurodytas išimtis, įsigalioja 2011 m. birželio 30 d. ^s-52c0d4c061650a4610f54d4f
+1. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-7d1a1b8242f7d7615ac819fc|3]] dalyse nurodytas išimtis, įsigalioja 2011 m. birželio 30 d. ^s-52c0d4c061650a4610f54d4f
 
 
-2. Šio įstatymo 1 straipsniu keičiamo [[latest/TAR.D38B48DC3EF0#^s-bda10799268a3850474dea21|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo 8 straipsnio 3 dalies]] 3 ir 4 punktai įsigalioja 2011 m. gruodžio 31 d. ^s-056b1c43cb6fa38a8e8213ac
+2. Šio įstatymo 1 straipsniu keičiamo [[latest/TAR.D38B48DC3EF0#^s-bda10799268a3850474dea21|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo 8 straipsnio 3 dalies]] [[latest/TAR.D38B48DC3EF0#^s-0430e06ee1523833ac2083b9|3]] ir [[latest/TAR.D38B48DC3EF0#^s-b61083d7ef132e733695a431|4]] punktai įsigalioja 2011 m. gruodžio 31 d. ^s-056b1c43cb6fa38a8e8213ac
 
 
 3. Šio įstatymo 2 straipsnis įsigalioja 2011 m. gruodžio 31 d. ^s-7d1a1b8242f7d7615ac819fc

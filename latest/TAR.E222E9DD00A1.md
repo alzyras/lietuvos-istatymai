@@ -39,7 +39,7 @@ LIETUVOS RESPUBLIKOS ĮSTATYMAS DĖL TARPTAUTINĖS TELEKOMUNIKACIJŲ SĄJUNGOS �
 ### 1 straipsnis. Įstatų ir Konvencijos pakeitimo aktų ratifikavimas ^s-8f7a661edecfe9fb4462dda7
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. rugsėjo 11 d. dekretą Nr. 1K-106, ratifikuoja 2006 m. lapkričio 24 d. Antalijoje priimtus Tarptautinės telekomunikacijų sąjungos įstatų ir Tarptautinės telekomunikacijų sąjungos konvencijos pakeitimo aktus.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. rugsėjo 11 d. dekretą Nr. 1K-106](https://e-tar.lt/portal/lt/legalAct/TAR.DB8B3D40202C), ratifikuoja 2006 m. lapkričio 24 d. Antalijoje priimtus Tarptautinės telekomunikacijų sąjungos įstatų ir Tarptautinės telekomunikacijų sąjungos konvencijos pakeitimo aktus.
 
 
 

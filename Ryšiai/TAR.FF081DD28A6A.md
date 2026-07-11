@@ -9,10 +9,10 @@ pavadinimas: "Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 62
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C8205E261830|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo
-- [[latest/TAR.C8205E261830#^s-d7e10ad8aa8ccba8a64f584c|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - Vaiko teisių apsaugos pagrindų įstatymo 10 straipsnio
+- [[latest/TAR.C8205E261830|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - Vaiko teisių apsaugos pagrindų įstatymo
+- [[latest/TAR.C8205E261830#^s-3f91f11f204ae53526dcff19|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - 25
+- [[latest/TAR.C8205E261830#^s-5aaf2c5bf49b36cdae9e31d6|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - 23
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C8205E261830#^s-057b8bf18a25a081b5e879f1|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - 3 citatos - 0991010ISTAIII-1315
-- [[latest/TAR.C8205E261830#^s-51806eea526a2cd9afe280e6|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - 3 citatos - 0991010ISTAIII-1315
+- [[latest/TAR.C8205E261830#^s-51806eea526a2cd9afe280e6|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - 2 citatos - 0991010ISTAIII-1315

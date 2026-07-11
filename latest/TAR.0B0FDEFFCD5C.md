@@ -325,7 +325,7 @@ Vartotojų teisių apsaugą Lietuvos Respublikoje užtikrina:
 4. Valstybinei vartotojų teisių apsaugos tarnybai vadovauja direktorius. Valstybinės vartotojų teisių apsaugos tarnybos direktorių į pareigas skiria teisingumo ministras [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nustatyta tvarka. ^s-2dd76dd84c9a39b9dc26c5d0
 
 
-5. Šio įstatymo [[#^s-44c739156cad67bbb719af3e|12 straipsnio 1 dalies]] 5, 6, 7 punktuose numatytoms funkcijoms įgyvendinti Valstybinės vartotojų teisių apsaugos tarnybos direktorius iš Valstybinės vartotojų teisių apsaugos tarnybos struktūrinių padalinių vadovų sudaro kolegialų organą – komisiją. Valstybinės vartotojų teisių apsaugos tarnybos darbo tvarką nustato šis ir kiti įstatymai, Valstybinės vartotojų teisių apsaugos tarnybos nuostatai ir jos patvirtintas darbo reglamentas. ^s-5844fcb5fd92bdafa38dab77
+5. Šio įstatymo [[#^s-44c739156cad67bbb719af3e|12 straipsnio 1 dalies]] [[#^s-53fdaa6e1cce728095c3174a|5]], [[#^s-45d16422a0e7476d997ed87b|6]], [[#^s-ebae7889ee479d3bb571c968|7]] punktuose numatytoms funkcijoms įgyvendinti Valstybinės vartotojų teisių apsaugos tarnybos direktorius iš Valstybinės vartotojų teisių apsaugos tarnybos struktūrinių padalinių vadovų sudaro kolegialų organą – komisiją. Valstybinės vartotojų teisių apsaugos tarnybos darbo tvarką nustato šis ir kiti įstatymai, Valstybinės vartotojų teisių apsaugos tarnybos nuostatai ir jos patvirtintas darbo reglamentas. ^s-5844fcb5fd92bdafa38dab77
 
 
 
@@ -368,7 +368,7 @@ Vartotojų teisių apsaugą Lietuvos Respublikoje užtikrina:
 11) kartu su kitomis valstybės institucijomis organizuoja ir atlieka keitimąsi informacija su Europos Bendrijų Komisija ir valstybėmis narėmis (RAPEX sistema) Europos Sąjungos teisės aktų nustatyta tvarka; ^s-d0971cdd4e2fbc32b2ce909d
 
 
-12) kartu su Europos Bendrijų Komisija ir kitų Europos Sąjungos valstybių narių nacionalinėmis institucijomis įgyvendina Europos Parlamento ir Tarybos reglamentą (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo; ^s-51116221810d6eec3440a9f3
+12) kartu su Europos Bendrijų Komisija ir kitų Europos Sąjungos valstybių narių nacionalinėmis institucijomis įgyvendina Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo; ^s-51116221810d6eec3440a9f3
 
 
 13) atstovauja Lietuvos Respublikai tarptautinėse organizacijose vartotojų teisių gynimo srityje; ^s-46f3726ab5271ec5a2fa9ec6
@@ -386,7 +386,7 @@ Vartotojų teisių apsaugą Lietuvos Respublikoje užtikrina:
 2) gauti iš valstybės ir savivaldybių institucijų, iš įstaigų, kitų asmenų informaciją ir dokumentus, reikalingus įstatymų pažeidimams tirti, o prireikus – ir reklamuojamų prekių pavyzdžius; ^s-889f37c6583a0555c4828d20
 
 
-3) atlikti reikalingus patikrinimus vietoje, kiek to reikia Europos Parlamento ir Tarybos reglamento (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo tikslams pasiekti; ^s-1e8216803e83a211ae10415e
+3) atlikti reikalingus patikrinimus vietoje, kiek to reikia Europos Parlamento ir Tarybos [reglamento (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo tikslams pasiekti; ^s-1e8216803e83a211ae10415e
 
 
 4) reikalauti, kad gamintojai, importuotojai, pardavėjai ir paslaugų teikėjai ar jų atstovai atvyktų į Valstybinę vartotojų teisių apsaugos tarnybą ir duotų paaiškinimus žodžiu ar raštu; ^s-db79d06268f0050e37894c19
@@ -587,7 +587,7 @@ VARTOTOJŲ TEISIŲ GYNIMAS NE TEISME
 5) kitos institucijos – įstatymų nustatytais atvejais; ^s-03e0a77a5455064980778059
 
 
-6) Valstybinė vartotojų teisių apsaugos tarnyba – kitose [[#^s-d6ce4038ee42efd6637c0819|šio straipsnio 1 dalies]] 1–[[#^s-03e0a77a5455064980778059|5 punktuose]] nenumatytose vartotojų teisių apsaugos srityse. ^s-4454199bc78f92cef345834b
+6) Valstybinė vartotojų teisių apsaugos tarnyba – kitose [[#^s-d6ce4038ee42efd6637c0819|šio straipsnio 1 dalies]] [[#^s-a9f813eebcab0db5c87065cf|1]]–[[#^s-03e0a77a5455064980778059|5]] punktuose nenumatytose vartotojų teisių apsaugos srityse. ^s-4454199bc78f92cef345834b
 
 
 2. Ginčai nagrinėjami šio skirsnio nustatyta tvarka, jei kiti įstatymai nenustato kitaip. ^s-a0ab0415c145eafdded55b28
@@ -664,7 +664,7 @@ VARTOTOJŲ TEISIŲ GYNIMAS NE TEISME
 2. Jeigu vartotojas kreipiasi į ginčus nagrinėjančią instituciją prieš tai dėl prašymo dalyko nesikreipęs į pardavėją, paslaugos teikėją arba jeigu dėl to kreipėsi, bet per šio įstatymo [[#^s-d16770b0309225203caaa1d1|20 straipsnio 2 dalyje]] nustatytą terminą negavo jokio atsakymo, ginčus nagrinėjanti institucija turi vartotojo prašymą išsiųsti pardavėjui, paslaugų teikėjui ir pasiūlyti per jos nustatytą terminą ginčą išspręsti taikiai. Nesutikdamas spręsti ginčą taikiai, pardavėjas, paslaugų teikėjas pateikia ginčus nagrinėjančiai institucijai motyvuotą paaiškinimą ir jį pagrindžiančius įrodymus. Ginčus nagrinėjanti institucija nenagrinėja ginčo, jeigu pardavėjas, paslaugų teikėjas per jos nustatytą terminą pasiūlo ginčą spręsti taikiai ir vartotojas su tuo sutinka arba per ginčus nagrinėjančios institucijos nustatytą terminą nenurodo, kad nesutinka su tokiu ginčo sprendimo būdu. ^s-ff79265448cc940e3e796a58
 
 
-3. Ginčus nagrinėjanti institucija gali kreiptis į valstybės ir savivaldybės instituciją, kuri atsakinga už su ginču susijusią vartojimo sritį, prašydama išvados dėl vartotojo prašyme nurodyto reikalavimo ar pardavėjo, paslaugų teikėjo pateiktų paaiškinimų. Nurodytos institucijos prireikus atlieka ekspertizę ar laboratorinius tyrimus. Ekspertizės ir laboratoriniai tyrimai apmokami šio įstatymo [[#^s-ed182c52b3d3eb6117524ed7|21 straipsnio]] 4 ir 5 dalyse numatyta tvarka. ^s-1baa4826578d195e26a37657
+3. Ginčus nagrinėjanti institucija gali kreiptis į valstybės ir savivaldybės instituciją, kuri atsakinga už su ginču susijusią vartojimo sritį, prašydama išvados dėl vartotojo prašyme nurodyto reikalavimo ar pardavėjo, paslaugų teikėjo pateiktų paaiškinimų. Nurodytos institucijos prireikus atlieka ekspertizę ar laboratorinius tyrimus. Ekspertizės ir laboratoriniai tyrimai apmokami šio įstatymo [[#^s-ed182c52b3d3eb6117524ed7|21 straipsnio]] [[#^s-09f56553f0799dc4b586085e|4]] ir [[#^s-0f15a684e06913a28f7ebc6d|5]] dalyse numatyta tvarka. ^s-1baa4826578d195e26a37657
 
 
 4. Valstybės ir savivaldybių institucijos, atsakingos už su ginču susijusią vartojimo sritį, išvadas ginčus nagrinėjančiai institucijai jos reikalavimu pateikia per šios institucijos nustatytą terminą, bet ne vėliau kaip per 20 darbo dienų. Kai dėl objektyvių priežasčių per šį terminą išvada negali būti pateikta, šis terminas gali būti pratęstas, bet ne ilgiau kaip 10 darbo dienų. ^s-30584737422ecb2f0d3bceb5
@@ -854,17 +854,17 @@ VARTOTOJŲ VIEŠOJO INTERESO GYNIMAS
 2. Valstybinė vartotojų teisių apsaugos tarnyba, nustačiusi, kad vartojimo sutarties sąlygos yra nesąžiningos, turi kreiptis į pardavėją, paslaugų teikėją ir pasiūlyti jam per 14 dienų nuo šio pasiūlymo gavimo pakeisti, panaikinti arba nebetaikyti nesąžiningos sąlygos ar sąlygų sudarant sutartis su vartotojais, taip pat nurodyti pardavėjui ar paslaugų teikėjui, kad Valstybinė vartotojų teisių apsaugos tarnyba kreipsis į teismą su ieškiniu ar pareiškimu (skundu) dėl nesąžiningos sąlygos (sąlygų) pripažinimo negaliojančiomis ar pakeitimo, jeigu pardavėjas ar paslaugų teikėjas nevykdys Valstybinės vartotojų teisių apsaugos tarnybos pasiūlymo. ^s-bd6928ad6639485a0055d29e
 
 
-3. Gavęs šio straipsnio 1 ar [[#^s-bd6928ad6639485a0055d29e|2 dalyje]] numatytą Valstybinės vartotojų teisių apsaugos tarnybos pasiūlymą ir sutikdamas nutraukti viešojo intereso pažeidimą, pardavėjas, paslaugų teikėjas per nustatytą 14 dienų terminą nusiunčia Valstybinei vartotojų teisių apsaugos tarnybai pranešimą, kad sutinka nutraukti viešojo intereso pažeidimą arba kad pažeidimą nutraukė. Valstybinė vartotojų teisių apsaugos tarnyba, patikrinusi, kad viešojo intereso pažeidimas tikrai nutrauktas, pranešimą apie tai skelbia savo interneto tinklalapyje. Jeigu viešojo intereso pažeidimas nenutrauktas, Valstybinė vartotojų teisių apsaugos tarnyba kreipiasi į teismą dėl viešojo intereso gynimo. ^s-9cfe5aaf95078da787a09a27
+3. Gavęs šio straipsnio [[#^s-c896a2c279eb76761c707896|1]] ar [[#^s-bd6928ad6639485a0055d29e|2]] dalyje numatytą Valstybinės vartotojų teisių apsaugos tarnybos pasiūlymą ir sutikdamas nutraukti viešojo intereso pažeidimą, pardavėjas, paslaugų teikėjas per nustatytą 14 dienų terminą nusiunčia Valstybinei vartotojų teisių apsaugos tarnybai pranešimą, kad sutinka nutraukti viešojo intereso pažeidimą arba kad pažeidimą nutraukė. Valstybinė vartotojų teisių apsaugos tarnyba, patikrinusi, kad viešojo intereso pažeidimas tikrai nutrauktas, pranešimą apie tai skelbia savo interneto tinklalapyje. Jeigu viešojo intereso pažeidimas nenutrauktas, Valstybinė vartotojų teisių apsaugos tarnyba kreipiasi į teismą dėl viešojo intereso gynimo. ^s-9cfe5aaf95078da787a09a27
 
 
-4. Šio straipsnio 1–[[#^s-9cfe5aaf95078da787a09a27|3 dalių]] nuostatos mutatis mutandis taikomos ir tais atvejais, kai vartotojų viešąjį interesą įstatymų nustatytais atvejais gina kitos valstybės ir savivaldybių institucijos, o šio straipsnio 1 ir [[#^s-bd6928ad6639485a0055d29e|2 dalys]] mutatis mutandis – kai viešąjį vartotojų interesą gina vartotojų asociacijos ir įstatymų nustatytais atvejais kiti juridiniai asmenys. ^s-7682ee3f8dfb6b1ebf4b1172
+4. Šio straipsnio [[#^s-c896a2c279eb76761c707896|1]]–[[#^s-9cfe5aaf95078da787a09a27|3]] dalių nuostatos mutatis mutandis taikomos ir tais atvejais, kai vartotojų viešąjį interesą įstatymų nustatytais atvejais gina kitos valstybės ir savivaldybių institucijos, o šio straipsnio [[#^s-c896a2c279eb76761c707896|1]] ir [[#^s-bd6928ad6639485a0055d29e|2]] dalys mutatis mutandis – kai viešąjį vartotojų interesą gina vartotojų asociacijos ir įstatymų nustatytais atvejais kiti juridiniai asmenys. ^s-7682ee3f8dfb6b1ebf4b1172
 
 
 
 ### 33 straipsnis.       Europos Sąjungos valstybių narių institucijų ar organizacijų teisė pareikšti ieškinį Lietuvoje ginant viešąjį interesą ^s-0a61afe59d5aae6641b7fb88
 
 
-1. Europos Sąjungos valstybių narių institucijos ar organizacijos, kurias Europos Komisija įtraukia į Europos Parlamento ir Tarybos direktyvoje 98/27/EB dėl draudimų ginant vartotojų interesus numatytą sąrašą ir paskelbia Europos Sąjungos oficialiajame leidinyje, turi teisę pagal Civilinio proceso kodekso 49 straipsnio 1 dalį Lietuvos Respublikos teismuose pareikšti ieškinius dėl įpareigojimų prekių ar paslaugų pardavėjams (teikėjams) nutraukti viešąjį interesą pažeidžiančius veiksmus. Šios dalies nuostatos taikomos tais atvejais, kai Lietuvoje veikiančių prekių ar paslaugų pardavėjų (teikėjų) veiksmai pažeidžia Europos Sąjungos teisės aktus, kurių sąrašą pagal Europos Parlamento ir Tarybos direktyvos 98/27/EB dėl draudimų ginant vartotojų interesus priedą tvirtina Lietuvos Respublikos teisingumo ministras, ir tais veiksmais pažeidžiamas kitos valstybės narės viešasis vartotojų interesas. ^s-e02352b4be3e7fff6ca29f14
+1. Europos Sąjungos valstybių narių institucijos ar organizacijos, kurias Europos Komisija įtraukia į Europos Parlamento ir Tarybos direktyvoje 98/27/EB dėl draudimų ginant vartotojų interesus numatytą sąrašą ir paskelbia Europos Sąjungos oficialiajame leidinyje, turi teisę pagal [Civilinio proceso kodekso 49 straipsnio 1 dalį](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) Lietuvos Respublikos teismuose pareikšti ieškinius dėl įpareigojimų prekių ar paslaugų pardavėjams (teikėjams) nutraukti viešąjį interesą pažeidžiančius veiksmus. Šios dalies nuostatos taikomos tais atvejais, kai Lietuvoje veikiančių prekių ar paslaugų pardavėjų (teikėjų) veiksmai pažeidžia Europos Sąjungos teisės aktus, kurių sąrašą pagal Europos Parlamento ir Tarybos direktyvos 98/27/EB dėl draudimų ginant vartotojų interesus priedą tvirtina Lietuvos Respublikos teisingumo ministras, ir tais veiksmais pažeidžiamas kitos valstybės narės viešasis vartotojų interesas. ^s-e02352b4be3e7fff6ca29f14
 
 
 2. [[#^s-e02352b4be3e7fff6ca29f14|Šio straipsnio 1 dalyje]] nurodyta teise pareikšti ieškinį Europos Sąjungos valstybių narių institucijos ar organizacijos gali pasinaudoti tik tuo atveju, jeigu prieš tai raštu konsultavosi su Lietuvos Respublikos valstybine vartotojų teisių apsaugos tarnyba. Lietuvos Respublikos valstybinė vartotojų teisių apsaugos tarnyba privalo pateikti atsakymą Europos Sąjungos valstybių narių institucijoms ar organizacijoms per 14 dienų. Europos Sąjungos valstybių narių institucijos ar organizacijos prieš pareikšdamos ieškinį taip pat turi teisę kreiptis į pardavėją ar paslaugų teikėją dėl vartotojų viešąjį interesą pažeidžiančių veiksmų nutraukimo ir pasiūlyti jam per 14 dienų nuo šio pasiūlymo gavimo nutraukti veiksmus, pažeidžiančius vartotojų viešąjį interesą, taip pat nurodyti pardavėjui ar paslaugų teikėjui, kad jei pardavėjas ar paslaugų teikėjas nenutrauks veiksmų, pažeidžiančių viešąjį vartotojų interesą, Europos Sąjungos valstybių narių institucijos ar organizacijos kreipsis į teismą su ieškiniu viešajam interesui ginti. ^s-3d1ad5dac2b1cef3ce7ff1df
@@ -995,7 +995,7 @@ FINANSINIŲ PASLAUGŲ TEIKIMAS PAGAL SUTARTIS, SUDAROMAS NAUDOJANT RYŠIO PRIEMO
 2) draudimo (garantiniai) fondai ar kita žalos atlyginimo tvarka. ^s-6923d674c66ea7b717a5bd37
 
 
-10. Šio straipsnio 6–[[#^s-996cf3bd9bdc7ae4c052b9d8|9 dalyse]] nurodytos informacijos komercinis pobūdis turi būti aiškiai ir suprantamai išdėstytas ir tikti naudojamoms ryšio priemonėms atsižvelgiant į sutartiniams santykiams taikomus sąžiningumo ir neveiksnių ir ribotai veiksnių asmenų apsaugą užtikrinančius principus. ^s-e57d29a8a039164852023c4a
+10. Šio straipsnio [[#^s-c88e3f0426648a57f79ebe1c|6]]–[[#^s-996cf3bd9bdc7ae4c052b9d8|9]] dalyse nurodytos informacijos komercinis pobūdis turi būti aiškiai ir suprantamai išdėstytas ir tikti naudojamoms ryšio priemonėms atsižvelgiant į sutartiniams santykiams taikomus sąžiningumo ir neveiksnių ir ribotai veiksnių asmenų apsaugą užtikrinančius principus. ^s-e57d29a8a039164852023c4a
 
 
 11. Iki sutarties sudarymo vartotojui pateikiama informacija apie sutartines prievoles, kurios bus privalomos vartotojui ir paslaugos teikėjui pagal sutarčiai, jei ji būtų sudaryta, taikomą teisę. ^s-c991341931735691ba7936cc
@@ -1010,7 +1010,7 @@ FINANSINIŲ PASLAUGŲ TEIKIMAS PAGAL SUTARTIS, SUDAROMAS NAUDOJANT RYŠIO PRIEMO
 14. Sudaręs sutartį, vartotojas bet kuriuo sutarties galiojimo metu turi teisę reikalauti, kad bet kokia su sutartimi susijusi informacija jam būtų pateikta raštu. Vartotojas turi teisę keisti naudojamas ryšio priemones, jei tai neprieštarauja sudarytai sutarčiai arba teikiamų finansinių paslaugų pobūdžiui. ^s-2c4455095b92f1754b1bbbde
 
 
-15. Iki sutarties sudarymo vartotojas turi gauti šio straipsnio 6–[[#^s-996cf3bd9bdc7ae4c052b9d8|9 dalyse]] nurodytą informaciją raštu ar kitoje vartotojui prieinamoje patvariojoje laikmenoje. ^s-5cf1cd8ac5399094e714319f
+15. Iki sutarties sudarymo vartotojas turi gauti šio straipsnio [[#^s-c88e3f0426648a57f79ebe1c|6]]–[[#^s-996cf3bd9bdc7ae4c052b9d8|9]] dalyse nurodytą informaciją raštu ar kitoje vartotojui prieinamoje patvariojoje laikmenoje. ^s-5cf1cd8ac5399094e714319f
 
 
 16. Jeigu vartotojo prašymu sutartis sudaroma tokiomis ryšio priemonėmis, kuriomis neįmanoma pateikti informacijos pagal [[#^s-5cf1cd8ac5399094e714319f|šio straipsnio 15 dalies]] reikalavimus, paslaugos teikėjas nedelsdamas informaciją pateikia po sutarties sudarymo. ^s-7021df02a011f74d2c4c7410
@@ -1029,7 +1029,7 @@ FINANSINIŲ PASLAUGŲ TEIKIMAS PAGAL SUTARTIS, SUDAROMAS NAUDOJANT RYŠIO PRIEMO
 2. Vartotojas turi teisę atsisakyti gyvybės draudimo arba pensijų kaupimo sutarties, sudarytos ryšio priemonėmis, apie tai raštu pranešdamas paslaugos teikėjui per 30 dienų. Pensijų kaupimo sutarčių atsisakymo terminas pradedamas skaičiuoti nuo sutarties sudarymo dienos. Gyvybės draudimo sutarčių atsisakymo terminas pradedamas skaičiuoti nuo tos dienos, kurią vartotojas informuojamas, kad sutartis yra sudaryta. ^s-33f8c0b2bf235dab44531195
 
 
-3. Jeigu vartotojas gauna informaciją pagal šio įstatymo [[#^s-59eba3c616dc7572a1016750|36 straipsnio]] 15 ar 16 dalį po sutarties sudarymo arba vėliau negu pranešimą, kad sutartis sudaryta, atsisakymo terminas pradedamas skaičiuoti nuo informacijos gavimo dienos. ^s-258da24d6596c5e899b8c5b8
+3. Jeigu vartotojas gauna informaciją pagal šio įstatymo [[#^s-59eba3c616dc7572a1016750|36 straipsnio]] [[#^s-5cf1cd8ac5399094e714319f|15]] ar [[#^s-7021df02a011f74d2c4c7410|16]] dalį po sutarties sudarymo arba vėliau negu pranešimą, kad sutartis sudaryta, atsisakymo terminas pradedamas skaičiuoti nuo informacijos gavimo dienos. ^s-258da24d6596c5e899b8c5b8
 
 
 4. Šiame straipsnyje numatytą vartotojo teisę atsisakyti sutarties draudžiama suvaržyti papildomais įpareigojimais, įmokomis arba bet kokiu kitu būdu ją apriboti ar panaikinti, išskyrus šiame straipsnyje numatytus atvejus. ^s-54ed08a0cc933d5fe2e1fac7
@@ -1062,10 +1062,10 @@ FINANSINIŲ PASLAUGŲ TEIKIMAS PAGAL SUTARTIS, SUDAROMAS NAUDOJANT RYŠIO PRIEMO
 10. Finansinės paslaugos teikėjas sutartį, kol nepasibaigęs numatytas jos atsisakymo terminas, gali pradėti vykdyti tik vartotojo sutikimu. Kai vartotojas pasinaudoja teise atsisakyti sutarties, jis per sutartyje numatytą terminą sumoka už faktiškai jam pagal sutartį teikėjo suteiktą finansinę paslaugą. ^s-9dc96e8c48610200415ff5dc
 
 
-11. Vartotojas už faktiškai suteiktą finansinę paslaugą moka, jei jis buvo tinkamai informuotas pagal šio įstatymo [[#^s-bbde9f7a6af9c1c14bcc126a|36 straipsnio 8 dalies 1 punktą]]. Faktą, kad vartotojas buvo tinkamai informuotas, turi įrodyti finansinės paslaugos teikėjas. Finansinės paslaugos teikėjas negali reikalauti už suteiktą finansinę paslaugą mokėti, jeigu jis be išankstinio vartotojo prašymo pradėjo vykdyti sutartį nepasibaigus šio straipsnio 1 ar [[#^s-33f8c0b2bf235dab44531195|2 dalyje]] numatytam sutarties atsisakymo terminui. ^s-49945dc38a9318b5b6ea7afa
+11. Vartotojas už faktiškai suteiktą finansinę paslaugą moka, jei jis buvo tinkamai informuotas pagal šio įstatymo [[#^s-bbde9f7a6af9c1c14bcc126a|36 straipsnio 8 dalies 1 punktą]]. Faktą, kad vartotojas buvo tinkamai informuotas, turi įrodyti finansinės paslaugos teikėjas. Finansinės paslaugos teikėjas negali reikalauti už suteiktą finansinę paslaugą mokėti, jeigu jis be išankstinio vartotojo prašymo pradėjo vykdyti sutartį nepasibaigus šio straipsnio [[#^s-538819c04843d6a83af13ac0|1]] ar [[#^s-33f8c0b2bf235dab44531195|2]] dalyje numatytam sutarties atsisakymo terminui. ^s-49945dc38a9318b5b6ea7afa
 
 
-12. Finansinių paslaugų teikėjas ne vėliau kaip per 30 dienų nuo pranešimo apie sutarties atsisakymą gavimo dienos grąžina vartotojui pagal sutartį gautus pinigus (ir (ar) turtą), išskyrus nurodytus [[#^s-9dc96e8c48610200415ff5dc|šio straipsnio 10 dalyje]]. Vartotojas, atsisakęs sutarties pagal šio straipsnio 1 ir [[#^s-33f8c0b2bf235dab44531195|2 dalis]], ne vėliau kaip per 30 dienų nuo pranešimo apie sutarties atsisakymą išsiuntimo dienos grąžina finansinių paslaugų teikėjui pagal sutartį gautus pinigus (ir (ar) turtą). ^s-84d543f8b666844568cbb6ef
+12. Finansinių paslaugų teikėjas ne vėliau kaip per 30 dienų nuo pranešimo apie sutarties atsisakymą gavimo dienos grąžina vartotojui pagal sutartį gautus pinigus (ir (ar) turtą), išskyrus nurodytus [[#^s-9dc96e8c48610200415ff5dc|šio straipsnio 10 dalyje]]. Vartotojas, atsisakęs sutarties pagal šio straipsnio [[#^s-538819c04843d6a83af13ac0|1]] ir [[#^s-33f8c0b2bf235dab44531195|2]] dalis, ne vėliau kaip per 30 dienų nuo pranešimo apie sutarties atsisakymą išsiuntimo dienos grąžina finansinių paslaugų teikėjui pagal sutartį gautus pinigus (ir (ar) turtą). ^s-84d543f8b666844568cbb6ef
 
 
 
@@ -1088,7 +1088,7 @@ FINANSINIŲ PASLAUGŲ TEIKIMAS PAGAL SUTARTIS, SUDAROMAS NAUDOJANT RYŠIO PRIEMO
 2. Finansinės paslaugos teikėjas gali naudoti [[#^s-9bf0b23f5c3d1992daba5191|šio straipsnio 1 dalyje]] nenurodytas ryšio priemones, kurias vartotojas naudoja savo asmeniniams poreikiams tenkinti, tik gavęs išankstinį vartotojo sutikimą. ^s-123c8cb04f4cfd0eaebc765b
 
 
-3. Vartotojui turi būti sudarytos sąlygos šio straipsnio 1 ir [[#^s-123c8cb04f4cfd0eaebc765b|2 dalyse]] nurodytais atvejais savo valią išreikšti neatlygintinai. ^s-3181de14d499238ad4887a5e
+3. Vartotojui turi būti sudarytos sąlygos šio straipsnio [[#^s-9bf0b23f5c3d1992daba5191|1]] ir [[#^s-123c8cb04f4cfd0eaebc765b|2]] dalyse nurodytais atvejais savo valią išreikšti neatlygintinai. ^s-3181de14d499238ad4887a5e
 
 
 
@@ -1125,7 +1125,7 @@ priedas
 3. 2002 m. rugsėjo 23 d. Europos Parlamento ir Tarybos direktyva 2002/65/EB dėl nuotolinės prekybos vartotojams skirtomis finansinėmis paslaugomis ir iš dalies keičianti Tarybos direktyvą 90/619/EB ir direktyvas 97/7/EB ir 98/27/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 321). ^s-1d3b95fa7b43830c64a0f7bb
 
 
-4. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p. 1).“ ^s-aa153c49fac968ac46b15e61
+4. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p. 1).“ ^s-aa153c49fac968ac46b15e61
 
 
 

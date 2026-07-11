@@ -50,13 +50,13 @@ Papildyti [[#^s-3ec9a5532431a2a50cd3689d|2 straipsnį 2 dalimi]] ir visą straip
 
 
 1. Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip: ^s-67806fae15daea3fd370eaca
-„2. Įmokų tarifas nedarbo draudimui ir nedarbo draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti dydis kasmet tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.“
+„2. Įmokų tarifas nedarbo draudimui ir nedarbo draudimo lėšų [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti dydis kasmet tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.“
 
 
 2. Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip: ^s-99b8a478b1c655ec1ee27d45
 
 
-„2. Įmokų tarifas nedarbo draudimui ir nedarbo draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti dydis kasmet tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.“
+„2. Įmokų tarifas nedarbo draudimui ir nedarbo draudimo lėšų [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti dydis kasmet tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.“
 
 
 
@@ -70,7 +70,7 @@ Pakeisti ir papildyti 3 straipsnį ir jį išdėstyti taip:
 „3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 
-1. Šis įstatymas, išskyrus [[#^s-f68c81758438901da32c7931|2 straipsnio 1 dalį]] ir [[#^s-de55493e6e9b66bc1eb6ee17|šio straipsnio 4 dalį]], įsigalioja 2013 m. sausio 1 d. ^s-f68c81758438901da32c7931
+1. Šis įstatymas, išskyrus 2 straipsnio 1 dalį ir [[#^s-de55493e6e9b66bc1eb6ee17|šio straipsnio 4 dalį]], įsigalioja 2013 m. sausio 1 d. ^s-f68c81758438901da32c7931
 
 
 2. Šio įstatymo [[#^s-f68c81758438901da32c7931|2 straipsnio 1 dalis]] įsigalioja 2014 m. sausio 1 d. ^s-3ec9a5532431a2a50cd3689d

@@ -144,7 +144,7 @@ Notaras, gavęs hipotekos (įkeitimo) kreditoriaus prašymą dėl vykdomojo įra
 Notaras netikrina kitų, negu nurodyta šio straipsnio 1 dalyje, duomenų atitikties ir neatsako už juos.
 
 
-Notaro vykdomieji įrašai arba atsisakymas atlikti vykdomąjį įrašą dėl šio straipsnio 1 dalyje numatytų duomenų atitikties skundžiami Civilinio proceso kodekso 511 straipsnyje nustatyta tvarka. Kilus ginčui dėl priverstinio skolos išieškojimo kitais pagrindais, skolininkas, kreditorius ar įkaito davėjas turi teisę kreiptis į teismą ieškinio teisenos tvarka.“
+Notaro vykdomieji įrašai arba atsisakymas atlikti vykdomąjį įrašą dėl šio straipsnio 1 dalyje numatytų duomenų atitikties skundžiami [Civilinio proceso kodekso 511 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Kilus ginčui dėl priverstinio skolos išieškojimo kitais pagrindais, skolininkas, kreditorius ar įkaito davėjas turi teisę kreiptis į teismą ieškinio teisenos tvarka.“
 
 
 

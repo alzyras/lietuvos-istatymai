@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.67B5099C5848#^s-700e34ded2e3cb585645932c|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Įstatymas Nr. VIII-1262
-- [[latest/TAR.67B5099C5848#^s-88db2480fe771f2b851a997f|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Įstatymas Nr. VIII-1262
+_Nėra._

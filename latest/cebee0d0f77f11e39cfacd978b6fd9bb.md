@@ -38,7 +38,7 @@ KAUNO LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMO NR. I-1591 3 STRAIPSNIO PAKEITIMO
 ### 1 straipsnis. 3 straipsnio pakeitimas ^s-3ae24a6fb43c611b0fdeb5f4
 
 
-Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.C6074E202D98#^s-ec338f46c00e263aa7bda8db|3 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Zonos teritorijoje esantys žemės sklypai išnuomojami Civilinio kodekso, [[latest/TAR.CC10C5274343|Žemės įstatymo]], [[latest/TAR.E79004684F4D|Laisvųjų ekonominių zonų pagrindų įstatymo]] ir šio įstatymo nustatytomis sąlygomis ir tvarka. Zonos teritorija išnuomojama zonos valdymo bendrovei (pasibaigus zonos veiklos laikotarpiui – jos teisių ir pareigų perėmėjai) 99 metams. Pasibaigus zonos veiklos terminui, nurodytam šio įstatymo [[#^s-2f164e3a2e113e3d57ec27b2|2 straipsnyje]], išnuomotos zonos teritorijos nuomos sutartis lieka galioti likusiam nuomos laikotarpiui, o zonos teritorijos nuomininku lieka zonos valdymo bendrovė ar jos teisių ir pareigų perėmėjas.“

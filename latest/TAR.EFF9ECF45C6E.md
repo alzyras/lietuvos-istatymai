@@ -329,13 +329,13 @@ Programos finansavimo šaltiniai:
 2. Įsigaliojus šiam Įstatymui, netenka galios: ^s-5f629e58e95d4585d2921606
 
 
-1) Lietuvos Respublikos kelių fondo įstatymas (Žin., 1995, Nr. 12-259); ^s-7f7d6638ec6d10902f784c90
+1) [Lietuvos Respublikos kelių fondo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.B0656CB1A33C) (Žin., 1995, Nr. 12-259); ^s-7f7d6638ec6d10902f784c90
 
 
-2) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos kelių fondo įstatymo 9 straipsnio papildymo“ (Žin., 1995, Nr. 44-1078); ^s-ddf9503d7b5f8396ab8a51b0
+2) Lietuvos Respublikos įstatymas [„Dėl Lietuvos Respublikos kelių fondo įstatymo 9 straipsnio papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.40F71D118070) (Žin., 1995, Nr. 44-1078); ^s-ddf9503d7b5f8396ab8a51b0
 
 
-3) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos kelių fondo įstatymo 3 straipsnio pakeitimo“ (Žin., 1995, Nr. 103-2303); ^s-60cb2879c217bb9ae22404f4
+3) Lietuvos Respublikos įstatymas [„Dėl Lietuvos Respublikos kelių fondo įstatymo 3 straipsnio pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.A479332707FE) (Žin., 1995, Nr. 103-2303); ^s-60cb2879c217bb9ae22404f4
 
 
 4) Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio papildymo įstatymas (Žin., 1996, Nr. 35-863); ^s-1511b3151936b65ea75814ea
@@ -347,16 +347,16 @@ Programos finansavimo šaltiniai:
 6) Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio papildymo įstatymas (Žin., 1996, Nr. 62-1465); ^s-19abc3a4c2b35a9261abce9f
 
 
-7) Lietuvos Respublikos kelių fondo įstatymo pakeitimo įstatymas (Žin., 1997, Nr. 109-2756); ^s-f95152f3600b83dc7e1bc8fa
+7) [Lietuvos Respublikos kelių fondo įstatymo pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.7D591CEA7AE9) (Žin., 1997, Nr. 109-2756); ^s-f95152f3600b83dc7e1bc8fa
 
 
-8) Lietuvos Respublikos kelių fondo įstatymo [[#^s-0ce22f17f02874b2f15c7b93|3 straipsnio]] pakeitimo įstatymas (Žin., 1999, Nr. 113-3294); ^s-c9389999b59abf60351b3c92
+8) [Lietuvos Respublikos kelių fondo įstatymo 3 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.9A8ACEC12AF9) (Žin., 1999, Nr. 113-3294); ^s-c9389999b59abf60351b3c92
 
 
-9) Lietuvos Respublikos kelių fondo įstatymo [[#^s-809eda7d3da2bea3d5f5951a|8 straipsnio]] pakeitimo įstatymas (Žin., 2000, Nr. 90-2780); ^s-e6ff1c21cbaf506665ad20a6
+9) [Lietuvos Respublikos kelių fondo įstatymo 8 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.6520D0FA51B1) (Žin., 2000, Nr. 90-2780); ^s-e6ff1c21cbaf506665ad20a6
 
 
-10) Lietuvos Respublikos kelių fondo įstatymo 1 ir [[#^s-0ce22f17f02874b2f15c7b93|3 straipsnių]] papildymo ir pakeitimo įstatymas (Žin., 2000, Nr. 113-3609); ^s-ab9e9d509a269a0d2c5c9144
+10) [Lietuvos Respublikos kelių fondo įstatymo 1 ir 3 straipsnių papildymo ir pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.FC05C2CC6852) (Žin., 2000, Nr. 113-3609); ^s-ab9e9d509a269a0d2c5c9144
 
 
 11) Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio pakeitimo įstatymas (Žin., 2001, Nr. 45-1573); ^s-17697b16db233fcb58b8b443
@@ -365,10 +365,10 @@ Programos finansavimo šaltiniai:
 12) Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio pakeitimo įstatymas (Žin., 2001, Nr. 62-2215); ^s-fa048ce21b494110f305f4d2
 
 
-13) Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio ir 1 priedėlio pakeitimo įstatymas (Žin., 2001, Nr. 62-2237); ^s-56c8a61a07395297fc809fb2
+13) [Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio ir 1 priedėlio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.1A0938EFFA93) (Žin., 2001, Nr. 62-2237); ^s-56c8a61a07395297fc809fb2
 
 
-14) Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio ir 1 priedėlio papildymo įstatymas (Žin., 2001, Nr. 66-2408, Nr. 69). ^s-8b4bbfd862d4294474268bff
+14) [Lietuvos Respublikos kelių fondo įstatymo 2 straipsnio ir 1 priedėlio papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.B1A8F5102102) (Žin., 2001, Nr. 66-2408, Nr. 69). ^s-8b4bbfd862d4294474268bff
 
 
 

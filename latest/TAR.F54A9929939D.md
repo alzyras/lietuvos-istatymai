@@ -77,7 +77,7 @@ Vilnius
 11) suderinusi su Muitinės departamentu prie Finansų ministerijos, skelbia zonos teritorijos dalis laisvosiomis teritorijomis ir nustato šių teritorijų ribas.“ ^s-bc06163cc124cae20e1a0e66
 
 
-2. 7 straipsnio 9 dalies 4, 6 ir [[#^s-63c6ca7b22e4220bd86244b4|7 punktus]] pakeisti, [[#^s-16ca7c5ebe72b3d0b743de0d|10 punktą]] pripažinti netekusiu galios, 11 punktą laikyti [[#^s-16ca7c5ebe72b3d0b743de0d|10 punktu]] ir šią dalį išdėstyti taip: ^s-3addcbe2d996461b0baf1c68
+2. 7 straipsnio 9 dalies 4, 6 ir 7 punktus pakeisti, [[#^s-16ca7c5ebe72b3d0b743de0d|10 punktą]] pripažinti netekusiu galios, 11 punktą laikyti [[#^s-16ca7c5ebe72b3d0b743de0d|10 punktu]] ir šią dalį išdėstyti taip: ^s-3addcbe2d996461b0baf1c68
 
 
 „9. Zonos valdymo bendrovės administracija:

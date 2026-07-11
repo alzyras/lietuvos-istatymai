@@ -9,11 +9,10 @@ pavadinimas: "Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 2 citatos - Lietuvos Respublikos dokumentų ir archyvų įstatyme
-- [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymas]] - 2 citatos - Lietuvos Respublikos elektroninių ryšių įstatyme
-- [[latest/TAR.9CD153214DD1|Lietuvos Respublikos pašto įstatymas]] - 2 citatos - Lietuvos Respublikos pašto įstatyme
+- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - Lietuvos Respublikos dokumentų ir archyvų įstatyme
+- [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Lietuvos Respublikos elektroninių ryšių įstatyme
+- [[latest/TAR.9CD153214DD1|Lietuvos Respublikos pašto įstatymas]] - Lietuvos Respublikos pašto įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.8A719A97956F#^s-77173c3ba55ca006fbd91e82|Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas]] - 3 citatos - 1121010ISTA0XI-2382
-- [[latest/TAR.8A719A97956F#^s-a364accf986941955ad700f4|Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas]] - 3 citatos - 1121010ISTA0XI-2382
+- [[latest/TAR.8A719A97956F#^s-a364accf986941955ad700f4|Lietuvos Respublikos informacinės visuomenės paslaugų įstatymas]] - 2 citatos - 1121010ISTA0XI-2382

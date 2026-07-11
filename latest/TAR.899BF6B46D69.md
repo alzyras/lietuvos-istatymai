@@ -52,7 +52,7 @@ Vilnius
 ### 2 straipsnis. 11 straipsnio pakeitimas ir papildymas ^s-cd77a5dac0d2862f4e152453
 
 
-11 straipsnio 1 dalyje vietoj žodžių „Susisiekimo ministerija“ įrašyti žodžius „Susisiekimo ministerijos įgaliota institucija“, papildyti straipsnį nauja [[#^s-0705ec967d714713c519c316|2 dalimi]], buvusias 2 ir [[#^s-4e2c396f350ccd995f8d57d2|3 dalis]] laikyti atitinkamai 3 ir [[#^s-de4ec2c3914face9afe3bd7d|4 dalimis]], [[#^s-4e2c396f350ccd995f8d57d2|3 dalies]] pirmajame sakinyje vietoj žodžio „radistu“ įrašyti žodį „radiooperatoriumi“, po žodžio „turintiems“ įrašyti žodį „galiojančius“, antrajame sakinyje po žodžių „Susisiekimo ministerija“ įrašyti žodžius „vadovaudamasi 1978 m. tarptautine jūrininkų mokymo, diplomavimo ir budėjimo normų konvencija (1995 m. jos pataisomis)“ ir visą straipsnį išdėstyti taip:
+11 straipsnio 1 dalyje vietoj žodžių „Susisiekimo ministerija“ įrašyti žodžius „Susisiekimo ministerijos įgaliota institucija“, papildyti straipsnį nauja [[#^s-0705ec967d714713c519c316|2 dalimi]], buvusias [[#^s-0705ec967d714713c519c316|2]] ir [[#^s-4e2c396f350ccd995f8d57d2|3]] dalis laikyti atitinkamai [[#^s-4e2c396f350ccd995f8d57d2|3]] ir [[#^s-de4ec2c3914face9afe3bd7d|4]] dalimis, [[#^s-4e2c396f350ccd995f8d57d2|3 dalies]] pirmajame sakinyje vietoj žodžio „radistu“ įrašyti žodį „radiooperatoriumi“, po žodžio „turintiems“ įrašyti žodį „galiojančius“, antrajame sakinyje po žodžių „Susisiekimo ministerija“ įrašyti žodžius „vadovaudamasi 1978 m. tarptautine jūrininkų mokymo, diplomavimo ir budėjimo normų konvencija (1995 m. jos pataisomis)“ ir visą straipsnį išdėstyti taip:
 
 
 „11 straipsnis. Laivo įgulos sudėtis

@@ -59,7 +59,7 @@ BENDROSIOS NUOSTATOS
 2. Šiuo įstatymu siekiama užtikrinti ES teisės aktų, nurodytų šio įstatymo 2 priede (toliau – įgyvendinamieji ES teisės aktai), nuostatų taikymą. ^s-56c52787323ad57fcb79e076
 
 
-3. ES institucijų darbuotojų, išskyrus [[#^s-c5f541e686f9bb44b97fe78c|šio straipsnio 5 dalyje]] nustatytą išimtį, pensinės teisės išsaugomos ir perkeliamos pagal įgyvendinamųjų ES teisės aktų ir šio įstatymo 3–[[#^s-9725ecc9246b346e05b39dac|11 straipsnių]] nuostatas pervedant lėšas, užtikrinančias šių asmenų įgytas pensines teises. ^s-886ff9420d45a0d5bb62bf80
+3. ES institucijų darbuotojų, išskyrus [[#^s-c5f541e686f9bb44b97fe78c|šio straipsnio 5 dalyje]] nustatytą išimtį, pensinės teisės išsaugomos ir perkeliamos pagal įgyvendinamųjų ES teisės aktų ir šio įstatymo [[#^s-8174e54f06b5833802fe37c2|3]]–[[#^s-9725ecc9246b346e05b39dac|11]] straipsnių nuostatas pervedant lėšas, užtikrinančias šių asmenų įgytas pensines teises. ^s-886ff9420d45a0d5bb62bf80
 
 
 4. Europos Parlamento narių Lietuvos Respublikoje įgytos pensinės teisės išsaugomos pagal šio įstatymo [[#^s-a8d857ba7a0c3e3345f53cf5|12 straipsnio]] nuostatas, sumuojant šio įstatymo [[#^s-a8d857ba7a0c3e3345f53cf5|12 straipsnyje]] numatytu atveju įgaliojimų Europos Parlamente trukmę ir pensijų socialinio draudimo stažą. ^s-1d638cd1e374cbd29619c968
@@ -158,7 +158,7 @@ VSD FONDE IR PENSIJŲ FONDE ĮGYTŲ PENSINIŲ TEISIŲ PERKĖLIMO Į ES INSTITUCI
 3) Pensijų fonde sukauptų lėšų sumą; ^s-d2c4f83521e253a8c940e943
 
 
-4) lėšų, nurodytų šios dalies 1 ir [[#^s-d2c4f83521e253a8c940e943|3 punktuose]], apskaičiavimo datas. ^s-b998e9d9ca0b67285c05f673
+4) lėšų, nurodytų šios dalies [[#^s-4bfc6550ca8568bda5c315b9|1]] ir [[#^s-d2c4f83521e253a8c940e943|3]] punktuose, apskaičiavimo datas. ^s-b998e9d9ca0b67285c05f673
 
 
 
@@ -168,7 +168,7 @@ VSD FONDE IR PENSIJŲ FONDE ĮGYTŲ PENSINIŲ TEISIŲ PERKĖLIMO Į ES INSTITUCI
 1. VSD fondo valdyba, pervedusi šio įstatymo [[#^s-1560980b6e2160b0ac8e9a91|5 straipsnyje]] nurodytas lėšas, Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registre (toliau – Apdraustųjų registras) ir Pensijų kaupimo sutarčių registre įrašo duomenis, kad VSD fonde asmens įgytos pensinės teisės, įgytos už laikotarpį iki asmens darbo ES institucijose pradžios, ir Pensijų fonde sukauptos lėšos (jeigu jos buvo pervestos) yra perkeltos į ES institucijų pensijų sistemą, ir duomenų apie asmens pensijų socialinio draudimo ir jam prilygintus laikotarpius, taip pat duomenų apie pervestų lėšų sumą nebetikslina. ^s-06566b3c5a1f421714836773
 
 
-2. Perkėlus pensines teises į ES institucijų pensijų sistemą, asmuo netenka teisės gauti socialinio draudimo pensijas ar kompensaciją už ypatingas darbo sąlygas, išskyrus atvejus, kai jo pensinės teisės šio įstatymo 8 ir [[#^s-2013e12eaaf34cb53765f27c|10 straipsniuose]] nustatyta tvarka perkeliamos į VSD fondą arba VSD fondą ir Pensijų fondą. Jeigu asmuo, kurio pensinės teisės buvo perkeltos į ES institucijų pensijų sistemą, miršta ir jo pensinės teisės šio įstatymo 8 ir [[#^s-2013e12eaaf34cb53765f27c|10 straipsniuose]] nustatyta tvarka nebuvo perkeltos į VSD fondą arba VSD fondą ir Pensijų fondą, socialinio draudimo našlių ir (ar) našlaičių pensijos už jį neskiriamos. ^s-f26a4b73ad20f49a232aad12
+2. Perkėlus pensines teises į ES institucijų pensijų sistemą, asmuo netenka teisės gauti socialinio draudimo pensijas ar kompensaciją už ypatingas darbo sąlygas, išskyrus atvejus, kai jo pensinės teisės šio įstatymo [[#^s-9a41cf2fecfc284426aff292|8]] ir [[#^s-2013e12eaaf34cb53765f27c|10]] straipsniuose nustatyta tvarka perkeliamos į VSD fondą arba VSD fondą ir Pensijų fondą. Jeigu asmuo, kurio pensinės teisės buvo perkeltos į ES institucijų pensijų sistemą, miršta ir jo pensinės teisės šio įstatymo [[#^s-9a41cf2fecfc284426aff292|8]] ir [[#^s-2013e12eaaf34cb53765f27c|10]] straipsniuose nustatyta tvarka nebuvo perkeltos į VSD fondą arba VSD fondą ir Pensijų fondą, socialinio draudimo našlių ir (ar) našlaičių pensijos už jį neskiriamos. ^s-f26a4b73ad20f49a232aad12
 
 
 3. Asmenims, kuriems iki pensinių teisių perkėlimo į ES institucijų pensijų sistemą nesukakus [[latest/TAR.A7F77DF94F5D|Socialinio draudimo pensijų įstatymo]] nustatyto senatvės pensijos amžiaus buvo paskirta ir mokama socialinio draudimo pensija (išskyrus socialinio draudimo našlių ir (ar) našlaičių (maitintojo netekimo) pensijas) arba kompensacija už ypatingas darbo sąlygas, šios pensijos ar kompensacijos mokėjimas nutraukiamas nuo kito mėnesio po pensinių teisių perkėlimo į ES institucijų pensijų sistemą mėnesio pirmos dienos. Pensines teises perkėlus į ES institucijų pensijų sistemą, asmeniui paskirtų socialinio draudimo našlių ir (ar) našlaičių (maitintojo netekimo) pensijų mokėjimas tęsiamas [[latest/TAR.A7F77DF94F5D|Socialinio draudimo pensijų įstatymo]] nustatyta tvarka. ^s-48fecee2bf558e609a0e5579
@@ -233,14 +233,14 @@ Jeigu asmuo pasirenka šio įstatymo [[#^s-a4bab03f6922c5b4d428efdf|7 straipsnio
 2. Į Pensijų fondą pervedama lėšų suma apskaičiuojama atsižvelgiant į prašymo perkelti ES institucijų pensijų sistemoje įgytas pensines teises pateikimo dieną galiojantį Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu (toliau – Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymas) patvirtintą pensijų socialinio draudimo įmokos dalies, pervedamos pensijų kaupimo bendrovėms, tarifą ir draudėjo pensijų socialinio draudimo įmokos bei apdraustojo pensijų socialinio draudimo įmokos tarifų sumą šio įstatymo 1 priedo 3 punkte ir 5.2 papunktyje nustatyta tvarka. ^s-13117425c78e9d0e723bb05c
 
 
-3. Asmens įgytas pensijų socialinio draudimo stažas, pensijų socialinio draudimo laikotarpiai ir pensijos apskaitos vienetų skaičius nustatomi vadovaujantis šio įstatymo [[#^s-9a41cf2fecfc284426aff292|8 straipsnio]] 1 ir [[#^s-13117425c78e9d0e723bb05c|2 dalių]] nuostatomis, atsižvelgiant į lėšų sumą, įskaitomą į VSD fondą. Duomenys apie asmens darbo ES institucijose laikotarpius ir už kiekvienus kalendorinius darbo ES institucijose metus įskaitytų pensijos apskaitos vienetų skaičių įrašomi į Apdraustųjų registrą. ^s-bdaf38dd5c51b049ef1c8f2f
+3. Asmens įgytas pensijų socialinio draudimo stažas, pensijų socialinio draudimo laikotarpiai ir pensijos apskaitos vienetų skaičius nustatomi vadovaujantis šio įstatymo [[#^s-9a41cf2fecfc284426aff292|8 straipsnio]] [[#^s-eb87fd31f01d807e4c961fe8|1]] ir [[#^s-f07686bb1c6614803217698e|2]] dalių nuostatomis, atsižvelgiant į lėšų sumą, įskaitomą į VSD fondą. Duomenys apie asmens darbo ES institucijose laikotarpius ir už kiekvienus kalendorinius darbo ES institucijose metus įskaitytų pensijos apskaitos vienetų skaičių įrašomi į Apdraustųjų registrą. ^s-bdaf38dd5c51b049ef1c8f2f
 
 
 
 ### 11 straipsnis. Socialinio draudimo pensijų ES institucijų darbuotojams mokėjimo ypatumai ^s-9725ecc9246b346e05b39dac
 
 
-1. Jeigu asmuo, gaunantis (iki VSD fonde įgytų pensinių teisių perkėlimo į ES institucijų pensijų sistemą gavęs) socialinio draudimo senatvės, netekto darbingumo (invalidumo), ištarnauto laiko pensiją, senatvės pensiją neįgaliajam arba kompensaciją už ypatingas darbo sąlygas, pasirenka šio įstatymo [[#^s-5362648f941708c2d54c686c|7 straipsnio 1 dalies]] 1 ar 3 punkte nurodytą pensinių teisių perkėlimo būdą, šiam asmeniui tęsiamas (atnaujinamas) šių išmokų mokėjimas, jei teisė gauti atitinkamą išmoką yra išlikusi, o [[latest/TAR.A7F77DF94F5D|Socialinio draudimo pensijų įstatyme]] nenustatyta pagrindų vietoj ištarnauto laiko pensijos skirti senatvės arba netekto darbingumo pensiją. Pensija naujinama [[latest/TAR.A7F77DF94F5D|Socialinio draudimo pensijų įstatymo]] nustatyta tvarka ir terminais. ^s-6576265a47a47e3e8696087f
+1. Jeigu asmuo, gaunantis (iki VSD fonde įgytų pensinių teisių perkėlimo į ES institucijų pensijų sistemą gavęs) socialinio draudimo senatvės, netekto darbingumo (invalidumo), ištarnauto laiko pensiją, senatvės pensiją neįgaliajam arba kompensaciją už ypatingas darbo sąlygas, pasirenka šio įstatymo [[#^s-5362648f941708c2d54c686c|7 straipsnio 1 dalies]] [[#^s-7eb9e5ffe6c61dd8118f1420|1]] ar [[#^s-f8257ad12941fb6efc39571f|3]] punkte nurodytą pensinių teisių perkėlimo būdą, šiam asmeniui tęsiamas (atnaujinamas) šių išmokų mokėjimas, jei teisė gauti atitinkamą išmoką yra išlikusi, o [[latest/TAR.A7F77DF94F5D|Socialinio draudimo pensijų įstatyme]] nenustatyta pagrindų vietoj ištarnauto laiko pensijos skirti senatvės arba netekto darbingumo pensiją. Pensija naujinama [[latest/TAR.A7F77DF94F5D|Socialinio draudimo pensijų įstatymo]] nustatyta tvarka ir terminais. ^s-6576265a47a47e3e8696087f
 
 
 2. [[#^s-6576265a47a47e3e8696087f|Šio straipsnio 1 dalyje]] nustatytais atvejais anksčiau mokėta socialinio draudimo senatvės, netekto darbingumo (invalidumo), ištarnauto laiko pensija, senatvės pensija neįgaliajam arba kompensacija už ypatingas darbo sąlygas asmeniui tęsiama mokėti [[latest/TAR.A7F77DF94F5D|Socialinio draudimo pensijų įstatymo]] nustatyta tvarka ir terminais, bet ne anksčiau kaip nuo kito mėnesio po lėšų gavimo VSD fonde mėnesio pirmos dienos. ^s-843acfa8ab80c78e5b1b2e66
@@ -406,7 +406,7 @@ perkėlimo įstatymo
 7. 2009 m. gruodžio 1 d. Tarybos sprendimas 2009/912/ES, nustatantis Europos Sąjungos Tarybos Generalinio sekretoriaus įdarbinimo sąlygas (OL 2009 L 322, p. 38). ^s-153a643a11d356b9a37c6755
 
 
-8. 2016 m. vasario 29 d. Tarybos reglamentas (ES) 2016/300, kuriuo nustatomos ES aukšto rango pareigūnų tarnybinės pajamos (OL 2016 L 58, p. 1). ^s-54d6bc0a1baa7d49f5f6bcff
+8. 2016 m. vasario 29 d. Tarybos [reglamentas (ES) 2016/300](https://eur-lex.europa.eu/eli/reg/2016/300/oj), kuriuo nustatomos ES aukšto rango pareigūnų tarnybinės pajamos (OL 2016 L 58, p. 1). ^s-54d6bc0a1baa7d49f5f6bcff
 
 
 

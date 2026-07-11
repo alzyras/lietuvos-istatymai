@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. 6 straipsnio pakeitimas ir papildymas ^s-e50d9c276acefbd03b5fdc24
 
 
-Pakeisti 6 straipsnio 3 ir [[#^s-536a2440f8a8de97ebf099cc|4 dalis]], straipsnį papildyti 5 ir [[#^s-24d542d6fa239555e505aba0|6 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 6 straipsnio 3 ir 4 dalis, straipsnį papildyti 5 ir 6 dalimis ir visą straipsnį išdėstyti taip:
 
 
 

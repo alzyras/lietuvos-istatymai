@@ -230,7 +230,7 @@ Nr. XV-1044, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11116
 4. Policijos rėmėju negali būti: ^s-1cfaf9f0b1df18b217c4d8ef
 
 
-1) už tyčinį nusikaltimą nuteistas asmuo, kol nepraėjo 5 metai nuo teistumo išnykimo ar panaikinimo, už neatsargų nusikaltimą nuteistas asmuo, kol teistumas neišnyko arba nebuvo panaikintas, už baudžiamąjį nusižengimą nuteistas asmuo, jeigu nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai, taip pat asmuo, kuriam Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai; ^s-0e58a500f2ab29ec809e4a9e
+1) už tyčinį nusikaltimą nuteistas asmuo, kol nepraėjo 5 metai nuo teistumo išnykimo ar panaikinimo, už neatsargų nusikaltimą nuteistas asmuo, kol teistumas neišnyko arba nebuvo panaikintas, už baudžiamąjį nusižengimą nuteistas asmuo, jeigu nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai, taip pat asmuo, kuriam [Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.67E8ECAA4910) nustatyta tvarka taikomi teismo įpareigojimai; ^s-0e58a500f2ab29ec809e4a9e
 
 
 2) asmuo, kuris anksčiau dirbo statutiniu valstybės tarnautoju, teisėju, notaru, prokuroru, advokatu, antstoliu ar krašto apsaugos sistemoje ir buvo atleistas atitinkamai už pareigūno vardo pažeminimą, teisėjo vardą žeminantį poelgį, notarų profesinės etikos ir tarnybinius nusižengimus, prokuroro vardo pažeminimą, advokato profesinės etikos bei profesinės veiklos pažeidimus, antstolio profesinės ar tarnybinės veiklos pažeidimus ar kario vardą arba krašto apsaugos sistemos institucijas žeminančius teisės pažeidimus ir nuo šio atleidimo dienos nepraėjo 5 metai; ^s-21870cb4d3168846b7e66545
@@ -292,7 +292,7 @@ POLICIJOS RĖMĖJŲ SOCIALINĖS GARANTIJOS IR ATSAKOMYBĖ
 ### 10 straipsnis. Policijos rėmėjų įgaliojimai ^s-d2c3c507dcb76cd2bf572dc8
 
 
-1. Policijos rėmėjai, atlikdami savo funkcijas, vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais. ^s-dd97d8e27d1beef094f094c7
+1. Policijos rėmėjai, atlikdami savo funkcijas, vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais. ^s-dd97d8e27d1beef094f094c7
 
 
 2. Teisėti policijos rėmėjų reikalavimai ir nurodymai yra privalomi visiems fiziniams ir juridiniams  asmenims ir pareigūnams. ^s-4d7d64d35c9713576478a0bd
@@ -484,9 +484,9 @@ Lietuvos Respublikos policijos rėmėjų įstatymo Nr. VIII-800 pakeitimo įstat
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2368, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14170
-Lietuvos Respublikos policijos rėmėjų įstatymo Nr. VIII-800 2 ir [[#^s-4f2d0717d7844c594bf0a037|17 straipsnių]], šeštojo skirsnio pavadinimo pakeitimo ir [[#^s-5330cea951e967e078c443fd|18 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos policijos rėmėjų įstatymo Nr. VIII-800 [[#^s-dfd3218e9a8dd670394de688|2]] ir [[#^s-4f2d0717d7844c594bf0a037|17]] straipsnių, šeštojo skirsnio pavadinimo pakeitimo ir [[#^s-5330cea951e967e078c443fd|18 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1044, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11116
-Lietuvos Respublikos policijos rėmėjų įstatymo Nr. VIII-800 2 ir [[#^s-70d22ba015c6f53afa7c3bc2|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos policijos rėmėjų įstatymo Nr. VIII-800 [[#^s-dfd3218e9a8dd670394de688|2]] ir [[#^s-70d22ba015c6f53afa7c3bc2|7]] straipsnių pakeitimo įstatymas

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-16d53d6ae6709f5786cc1b19
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. kovo 26 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Austrijos Respublikos paskolos sutartį“, ratifikuoja Lietuvos Respublikos ir Austrijos Respublikos sutartį dėl 43 mln. Austrijos šilingų paskolos mokėjimų balanso paramai, pasirašytą 1996 m. Sausio 15 d. Vienoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. kovo 26 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Austrijos Respublikos paskolos sutartį“](https://e-tar.lt/portal/lt/legalAct/TAR.BD03D1DF4042), ratifikuoja Lietuvos Respublikos ir Austrijos Respublikos sutartį dėl 43 mln. Austrijos šilingų paskolos mokėjimų balanso paramai, pasirašytą 1996 m. Sausio 15 d. Vienoje.
 
 
 

@@ -101,7 +101,7 @@ Vilnius
 „5. Detalieji planai tvirtinti teikiami nustatyta tvarka suderinti, viešai apsvarstyti ir patikrinti teritorijų planavimo priežiūros institucijos. Detaliuosius planus tvirtina savivaldybės taryba arba valdyba tarybos pavedimu. Kai valdyba nėra sudaroma, detaliuosius planus tvirtina savivaldybės taryba. Planas patvirtinamas per vieną mėnesį nuo prašymo pateikimo dienos. Detalieji planai įsigalioja patvirtinus juos nustatyta tvarka. Kokius detaliojo planavimo objektų planus tvirtina savivaldybės taryba ar jos pavedimu valdyba, numatoma tarybos sprendimu.“
 
 
-3. Pakeisti 20 straipsnio 8 ir [[#^s-fa3a69f4eea8c3f14934adcf|9 dalis]] ir jas išdėstyti taip: ^s-36724f340fb6fd38317e0c56
+3. Pakeisti 20 straipsnio 8 ir 9 dalis ir jas išdėstyti taip: ^s-36724f340fb6fd38317e0c56
 
 
 „8. Detalusis planas netvirtinamas, jeigu jis prieštarauja bendrajam planui arba yra pažeista nustatyta derinimo, viešo svarstymo, priežiūros procedūra, detaliojo plano sprendiniai neatitinka teritorijų planavimo ar statybos normų. Atsisakiusi tvirtinti detalųjį planą, savivaldybė privalo planavimo organizatoriui pateikti motyvuotą atsakymą per vieną mėnesį nuo projekto pateikimo tvirtinti. Atsisakymą tvirtinti planavimo organizatorius gali apskųsti teritorijų planavimo priežiūros institucijai. Priežiūros institucija per vieną mėnesį nuo skundo pateikimo dienos turi pateikti planavimo organizatoriui ir savivaldybei motyvuotą išvadą dėl detaliojo plano tvirtinimo. Priežiūros institucijos sprendimas gali būti apskųstas teismui.

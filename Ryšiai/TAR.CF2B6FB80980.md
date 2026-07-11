@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.522B3E415B52#^s-16e97f1ad515a000b7f6b4e9|Lietuvos Respublikos teismų įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 62 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.522B3E415B52#^s-16e97f1ad515a000b7f6b4e9|Lietuvos Respublikos teismų įstatymas]] - LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 62 STRAIPSNIO PAKEITIMO ĮSTATYMAS

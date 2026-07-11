@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos žmonių palaikų laidojimo įstatymo 2, 6, 7
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 2 citatos - Lietuvos Respublikos dokumentų ir archyvų įstatymo
+- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - Lietuvos Respublikos dokumentų ir archyvų įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C51D9C259EFE#^s-39756cc4fb9ef153fc48535e|Lietuvos Respublikos žmonių palaikų laidojimo įstatymas]] - 2 citatos - Įstatymas Nr. XI-2377
+- [[latest/TAR.C51D9C259EFE#^s-39756cc4fb9ef153fc48535e|Lietuvos Respublikos žmonių palaikų laidojimo įstatymas]] - ŽMONIŲ PALAIKŲ LAIDOJIMO ĮSTATYMO 2, 6, 7, 14, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

@@ -542,7 +542,7 @@ Nr. XI-769, 2010-04-20, Žin. 2010, Nr. 51-2479 (2010-05-04), i. k. [[latest/TAR
 1. Savivaldybių tarybos: ^s-adb6e3456d51b2012ae216e3
 
 
-1) aglomeracijose nustato tyliąsias aglomeracijos zonas ir tyliąsias gamtos zonas; ne aglomeracijose, atsižvelgdamos į vietos gyventojų apklausos rezultatus dėl tyliųjų zonų nustatymo poreikio, – tyliąsias viešąsias zonas ir tyliąsias gamtos zonas; ^s-71656f00c7b2ce1907dd3f58
+1) aglomeracijose nustato tyliąsias aglomeracijos zonas ir tyliąsias gamtos zonas; ne aglomeracijose, atsižvelgdamos į vietos gyventojų apklausos rezultatus [dėl tyliųjų zonų nustatymo](https://e-tar.lt/portal/lt/legalAct/SAV.490776) poreikio, – tyliąsias viešąsias zonas ir tyliąsias gamtos zonas; ^s-71656f00c7b2ce1907dd3f58
 Straipsnio punkto pakeitimai:
 Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
 
@@ -1199,7 +1199,7 @@ Nr. XII-467, 2013-07-02, Žin., 2013, Nr. 79-3988 (2013-07-23), i. k. [[latest/T
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2341, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13907
-Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 2, 5, 7, 8, 9, 11, 13, 14, 17, 18, 24, 26, 27, [[#^s-5c68167689dbb85f69a0a4f7|29 straipsnių]] pakeitimo ir 19, [[#^s-050cb11e7a6e971d659451c4|20 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 [[#^s-af00de2b86283679563c67bc|2]], [[#^s-ec38b221a1fa61f4898d3629|5]], [[#^s-0139a8f832b9dfbac420f73b|7]], [[#^s-1c9925e79af980f21f5b6ff0|8]], [[#^s-acfaf2eb3c8089609f1fef46|9]], [[#^s-8347d5e22e07fd70c4d276da|11]], [[#^s-7e32370ca8fbbb257d2ca8b3|13]], [[#^s-83b4e5b59dfd3dec7ce4fdfd|14]], [[#^s-d86575c74006163b06e8f244|17]], [[#^s-26d46f330996cca6bc2e62ed|18]], [[#^s-d7606f3b42b25feaac79345b|24]], [[#^s-7b6a7a669235a569ce0e322b|26]], [[#^s-f612e6e5a9c9b9f870f404b3|27]], [[#^s-5c68167689dbb85f69a0a4f7|29]] straipsnių pakeitimo ir [[#^s-7fc55d6cfdc73dc984e98968|19]], [[#^s-050cb11e7a6e971d659451c4|20]] straipsnių pripažinimo netekusiais galios įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1214,4 +1214,4 @@ Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 [[#^s-d7606f3b42b25
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3091, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13969
-Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 9 ir [[#^s-26d46f330996cca6bc2e62ed|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos triukšmo valdymo įstatymo Nr. IX-2499 [[#^s-acfaf2eb3c8089609f1fef46|9]] ir [[#^s-26d46f330996cca6bc2e62ed|18]] straipsnių pakeitimo įstatymas

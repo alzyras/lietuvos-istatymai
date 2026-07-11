@@ -250,10 +250,10 @@ APMOKESTINAMOJO PELNO SUMAŽINIMAS
 ### 10 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-89bb6e2a5805bfc0df039330
 
 
-1. Šio įstatymo [[#^s-d10fadcac31b95d7e3e7d97b|2 straipsnio]] 1, 3, 4, 5, 6 dalių, [[#^s-ce2fb4eb57951a76f8b059f7|3 straipsnio 2 dalies]], [[#^s-8eea6ac6b036824dc39878dc|5 straipsnio]], [[#^s-4961f33f8f3bdc13e7b1b357|7 straipsnio]] 1 ir [[#^s-83a52cd789b95c7443cfe403|2 dalių]], 8 ir [[#^s-ae7901a344c4c04da2f2ddf9|9 straipsnių]] nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-ce506683015b7efde5f691ae
+1. Šio įstatymo [[#^s-d10fadcac31b95d7e3e7d97b|2 straipsnio]] [[#^s-1eeea223f567117ab33f7d78|1]], [[#^s-6a890826bb69600ef3f739e9|3]], [[#^s-83345c5f4cc8e8d86166d3d7|4]], [[#^s-1629d33bf5362a6128bb7539|5]], [[#^s-0b11b429e62670ae9505dd5c|6]] dalių, [[#^s-ce2fb4eb57951a76f8b059f7|3 straipsnio 2 dalies]], [[#^s-8eea6ac6b036824dc39878dc|5 straipsnio]], [[#^s-4961f33f8f3bdc13e7b1b357|7 straipsnio]] [[#^s-8b3ead5b6296bbbae587b080|1]] ir [[#^s-94b09e06cd4875db5fec421d|2]] dalių, [[#^s-909fc0cb72e00cedf5afdd90|8]] ir [[#^s-ae7901a344c4c04da2f2ddf9|9]] straipsnių nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-ce506683015b7efde5f691ae
 
 
-2. Šio įstatymo [[#^s-37e2afb915bd08074eed63e6|2 straipsnio 2 dalis]], 4 ir [[#^s-0cae529a7c17c14758df74bb|6 straipsniai]], [[#^s-4961f33f8f3bdc13e7b1b357|7 straipsnio]] 3 ir [[#^s-7459f85dd39d61a5da9ec823|4 dalys]] įsigalioja 2009 m. sausio 1 d. ^s-83a52cd789b95c7443cfe403
+2. Šio įstatymo [[#^s-37e2afb915bd08074eed63e6|2 straipsnio 2 dalis]], [[#^s-3f02e9fee0a60366481e7aca|4]] ir [[#^s-0cae529a7c17c14758df74bb|6]] straipsniai, [[#^s-4961f33f8f3bdc13e7b1b357|7 straipsnio]] [[#^s-62e3f1852b89370eb6e0bd51|3]] ir [[#^s-e33cf8022d74aa9e8272deb2|4]] dalys įsigalioja 2009 m. sausio 1 d. ^s-83a52cd789b95c7443cfe403
 
 
 3. Apskaičiuojant 2009 metais prasidedančio mokestinio laikotarpio avansinio pelno mokesčio sumą pagal numatomą mokestinio laikotarpio pelno mokesčio sumą, neatsižvelgiama į galimą apmokestinamojo pelno sumažinimą dėl vykdomo investicinio projekto pagal šio įstatymo [[#^s-909fc0cb72e00cedf5afdd90|8 straipsnio]] nuostatas. ^s-eaaf96a44e9445abb3e53315

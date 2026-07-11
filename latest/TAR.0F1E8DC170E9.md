@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-aeda13045ac5a2073218fa03
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 5 punktu bei atsižvelgdamas į Respublikos Prezidento 2004 m. rugsėjo 3 d. dekretą Nr. 59, ratifikuoja Danijos Karalystės, Estijos Respublikos, Islandijos Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Norvegijos Karalystės, Suomijos Respublikos ir Švedijos Karalystės susitarimą dėl Šiaurės investicijų banko, pasirašytą 2004 m. vasario 11 d. Helsinkyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 5 punktu bei atsižvelgdamas į Respublikos Prezidento [2004 m. rugsėjo 3 d. dekretą Nr. 59](https://e-tar.lt/portal/lt/legalAct/TAR.4AC64A383BAA), ratifikuoja Danijos Karalystės, Estijos Respublikos, Islandijos Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Norvegijos Karalystės, Suomijos Respublikos ir Švedijos Karalystės susitarimą dėl Šiaurės investicijų banko, pasirašytą 2004 m. vasario 11 d. Helsinkyje.
 
 
 

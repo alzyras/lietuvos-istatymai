@@ -13,4 +13,4 @@ pavadinimas: "Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo"
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F8F36D253EB1|Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo]] - 2 citatos - 1991 m. spalio 3 d. įstatymo Nr. I-1858
+- [[latest/TAR.F8F36D253EB1|Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo]] - 3 citatos - 1991 m. spalio 3 d. įstatymo Nr. I-1858

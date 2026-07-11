@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-afbdad664afda03d58987048
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugsėjo 25 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir ELPA valstybių laisvosios prekybos sutartį“, ratifikuoja Lietuvos Respublikos ir ELPA valstybių laisvosios prekybos sutartį, pasirašytą 1995 m. gruodžio 7 d. Cermate (Šveicarija).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugsėjo 25 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir ELPA valstybių laisvosios prekybos sutartį“](https://e-tar.lt/portal/lt/legalAct/TAR.0A6B8284F51C), ratifikuoja Lietuvos Respublikos ir ELPA valstybių laisvosios prekybos sutartį, pasirašytą 1995 m. gruodžio 7 d. Cermate (Šveicarija).
 
 
 

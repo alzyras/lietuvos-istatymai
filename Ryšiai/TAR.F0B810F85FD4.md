@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos pensijų kaupimo įstatymo 4 straipsnio pakei
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.6A56D29DBEE8|Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymas]] - 2 citatos - Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymo
+- [[latest/TAR.6A56D29DBEE8|Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymas]] - Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.1F58348F79F7#^s-5f19a808a95479323b734252|Lietuvos Respublikos pensijų kaupimo įstatymas]] - 2 citatos - PENSIJŲ KAUPIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.1F58348F79F7#^s-ed005d45c7f5975460eb7280|Lietuvos Respublikos pensijų kaupimo įstatymas]] - 2 citatos - PENSIJŲ KAUPIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.1F58348F79F7#^s-ed005d45c7f5975460eb7280|Lietuvos Respublikos pensijų kaupimo įstatymas]] - PENSIJŲ KAUPIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS

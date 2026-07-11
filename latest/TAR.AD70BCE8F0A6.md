@@ -101,7 +101,7 @@ BENDROSIOS NUOSTATOS
 ### 3 straipsnis. Asmens ir turto saugos teisiniai pagrindai ^s-5e3a4438b31beb8a4653d5a5
 
 
-Asmens ir turto saugos teisiniai pagrindai yra Lietuvos Respublikos Konstitucija, šis bei kiti Lietuvos Respublikos įstatymai, Lietuvos Respublikos tarptautinės sutartys, kiti teisės aktai.
+Asmens ir turto saugos teisiniai pagrindai yra [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis bei kiti Lietuvos Respublikos įstatymai, Lietuvos Respublikos tarptautinės sutartys, kiti teisės aktai.
 
 
 
@@ -157,7 +157,7 @@ ASMENS IR TURTO SAUGA
 4) asmuo, įrašytas į operatyvinės veiklos subjektų operatyvinę įskaitą; ^s-f2fc2ee92d9f0b0a48a4bc5a
 
 
-5) asmuo, kuriam Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai; ^s-fcea153629bd5a513ca089b6
+5) asmuo, kuriam [Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.67E8ECAA4910) nustatyta tvarka taikomi teismo įpareigojimai; ^s-fcea153629bd5a513ca089b6
 
 
 6) asmuo, kuriam vykdyti asmens ir turto saugą ar teikti šios srities paslaugas uždrausta teismo nuosprendžiu; ^s-044296938ce5bf4c3cf01f40
@@ -273,7 +273,7 @@ ASMENS IR TURTO SAUGOS LICENCIJAVIMO PAGRINDAI
 5. Užsienio valstybių fizinių asmenų, turinčių licencijas verstis asmens ir turto sauga kitose ES bei EEE valstybėse narėse, veikla Lietuvos Respublikoje nedraudžiama, jei ji yra susijusi su į Lietuvos Respubliką atvykstančių ir iš jos išvykstančių asmenų gyvybės, sveikatos ir turto sauga, trunkančia ne ilgiau kaip 3 mėnesius per kalendorinius metus. Šiems asmenims taip pat taikomi [[#^s-a448ef9ccd6f6fe8c6a06cf8|šio straipsnio 4 dalyje]] nustatyti reikalavimai dėl išankstinio informacijos pateikimo. ^s-efad6fa2a427ab6e2bd24f39
 
 
-6. Vyriausybės įgaliota institucija gali uždrausti šio straipsnio 4 ir [[#^s-efad6fa2a427ab6e2bd24f39|5 dalyse]] nustatytą asmens ir turto saugą, jei ji keltų grėsmę visuomenės saugumui ar viešajai tvarkai. ^s-c78b5389b54b38e32c5f199f
+6. Vyriausybės įgaliota institucija gali uždrausti šio straipsnio [[#^s-a448ef9ccd6f6fe8c6a06cf8|4]] ir [[#^s-efad6fa2a427ab6e2bd24f39|5]] dalyse nustatytą asmens ir turto saugą, jei ji keltų grėsmę visuomenės saugumui ar viešajai tvarkai. ^s-c78b5389b54b38e32c5f199f
 
 
 7. Sprendimas išduoti licenciją ar sprendimas atsisakyti išduoti licenciją priimamas per 60 kalendorinių dienų nuo būtinų dokumentų pateikimo dienos. ^s-e5ea32bea6ae846277028af1

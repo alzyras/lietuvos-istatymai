@@ -224,7 +224,7 @@ Seimo Pirmininkas laikinai eina Respublikos Prezidento pareigas Lietuvos Respubl
 Laikinai eidamas Respublikos Prezidento pareigas, Seimo Pirmininkas tam laikui netenka savo įgaliojimų Seime, jam laikinai pereina visi Respublikos Prezidento įgaliojimai. Seimo Pirmininkas Respublikos Prezidento pareigas eina tol, kol įstatymo nustatyta tvarka prisieks naujai išrinktas Respublikos Prezidentas. Šiuo laikotarpiu Seimo pavedimu Seimo Pirmininko pareigas laikinai eina vienas iš Seimo Pirmininko pavaduotojų.
 
 
-Seimo Pirmininkui pradėjus laikinai eiti Respublikos Prezidento pareigas, Seimas ne vėliau kaip per 10 dienų priima nutarimą dėl Respublikos Prezidento rinkimų paskelbimo. Šie Respublikos Prezidento rinkimai turi būti surengti ne vėliau kaip per du mėnesius. Jeigu Seimas negali susirinkti ir paskelbti Respublikos Prezidento rinkimų, šiuos rinkimus skelbia Lietuvos Respublikos Vyriausybė.
+Seimo Pirmininkui pradėjus laikinai eiti Respublikos Prezidento pareigas, Seimas ne vėliau kaip per 10 dienų priima nutarimą [dėl Respublikos Prezidento rinkimų](https://e-tar.lt/portal/lt/legalAct/TAR.3C1A4D819BDB) paskelbimo. Šie Respublikos Prezidento rinkimai turi būti surengti ne vėliau kaip per du mėnesius. Jeigu Seimas negali susirinkti ir paskelbti Respublikos Prezidento rinkimų, šiuos rinkimus skelbia Lietuvos Respublikos Vyriausybė.
 
 
 Kai šio įstatymo nustatyta tvarka prisiekia naujai išrinktas Respublikos Prezidentas, Seimo Pirmininkas nustoja laikinai eiti Respublikos Prezidento pareigas ir pradeda eiti Seimo Pirmininko pareigas.“

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Tarptautinės sutarties ratifikavimas ^s-184c74f66d992ca39d344422
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. vasario 24 d. dekretą Nr. 209, ratifikuoja Tarptautinę sutartį dėl maisto ir žemės ūkio paskirties augalų genetinių išteklių, priimtą 2002 m. lapkričio 3 d. Romoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. vasario 24 d. dekretą Nr. 209](https://e-tar.lt/portal/lt/legalAct/TAR.88AB09D5723D), ratifikuoja Tarptautinę sutartį dėl maisto ir žemės ūkio paskirties augalų genetinių išteklių, priimtą 2002 m. lapkričio 3 d. Romoje.
 
 
 

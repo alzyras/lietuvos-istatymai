@@ -82,7 +82,7 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-2004 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 2252/2004 dėl valstybių narių išduodamų pasų ir kelionės dokumentų apsauginių savybių ir biometrikos standartų.“
+2004 m. gruodžio 13 d. Tarybos [reglamentas (EB) Nr. 2252/2004](https://eur-lex.europa.eu/eli/reg/2252/2004/oj) dėl valstybių narių išduodamų pasų ir kelionės dokumentų apsauginių savybių ir biometrikos standartų.“
 
 
 

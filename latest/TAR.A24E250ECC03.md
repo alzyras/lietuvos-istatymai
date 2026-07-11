@@ -88,7 +88,7 @@ Genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų valsty
 2) genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų teikimo į rinką saugos kontrolę ir rinkos priežiūrą – pagal kompetenciją Valstybinė maisto ir veterinarijos tarnyba, Žemės ūkio ministerija ir Sveikatos apsaugos ministerija ar jų įgaliotos institucijos; ^s-237de96d7168ecdc8885cbca
 
 
-3) genetiškai modifikuotų organizmų riboto naudojimo kontrolę – pagal kompetenciją Aplinkos ministerija, Valstybinė maisto ir veterinarijos tarnyba, Žemės ūkio ministerija ir Sveikatos apsaugos ministerija ar jų įgaliotos institucijos; ^s-c22806f0011818bd932f8d0f
+3) genetiškai modifikuotų organizmų [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) kontrolę – pagal kompetenciją Aplinkos ministerija, Valstybinė maisto ir veterinarijos tarnyba, Žemės ūkio ministerija ir Sveikatos apsaugos ministerija ar jų įgaliotos institucijos; ^s-c22806f0011818bd932f8d0f
 
 
 4) žmonėms skirtų medicininių gaminių, vaistų, kurių sudėtyje yra genetiškai modifikuotų organizmų ar kurie yra iš jų pagaminti, saugos kontrolę – Sveikatos apsaugos ministerija ar jos įgaliotos institucijos; ^s-21b43bd8948ad4110f810327

@@ -60,7 +60,7 @@ BENDROSIOS NUOSTATOS
 2) pirkimus, atliekamus vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, kurių objektas yra šio įstatymo [[#^s-6afe10bd630767085d9d3bc2|2 straipsnyje]] išvardyti darbai, prekės ir paslaugos; ^s-48f805318e6d844509edd933
 
 
-3) šio straipsnio 1 ir [[#^s-48f805318e6d844509edd933|2 punktuose]] nurodytų viešųjų pirkimų ir pirkimų (toliau – pirkimai) subjektų teises, pareigas ir atsakomybę, pirkimų kontrolės ir ginčų sprendimo tvarką. ^s-82320ba26bde1db1e5524aa6
+3) šio straipsnio [[#^s-32696d2eb8506c12dde8997e|1]] ir [[#^s-48f805318e6d844509edd933|2]] punktuose nurodytų viešųjų pirkimų ir pirkimų (toliau – pirkimai) subjektų teises, pareigas ir atsakomybę, pirkimų kontrolės ir ginčų sprendimo tvarką. ^s-82320ba26bde1db1e5524aa6
 
 
 2. Įslaptintos informacijos apsaugą atliekant šio įstatymo reglamentuojamus pirkimus nustato [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]]. ^s-7f51f1706c6a354f5de9b059
@@ -90,7 +90,7 @@ Nr. XIV-2648, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09686
 2) jautrios įrangos, įskaitant bet kokias jos detales, sudedamąsias dalis ir (arba) mazgus, tiekimas; ^s-a05a268a3f1c7a88781698f3
 
 
-3) darbai, prekės ir paslaugos, tiesiogiai susiję su šio straipsnio 1 ir [[#^s-a05a268a3f1c7a88781698f3|2 punktuose]] nurodyta įranga ir perkami bet kuriuo šios įrangos gyvavimo ciklo etapu; ^s-abb938d35c9499c483dfc3f3
+3) darbai, prekės ir paslaugos, tiesiogiai susiję su šio straipsnio [[#^s-350be77de484483617ed7363|1]] ir [[#^s-a05a268a3f1c7a88781698f3|2]] punktuose nurodyta įranga ir perkami bet kuriuo šios įrangos gyvavimo ciklo etapu; ^s-abb938d35c9499c483dfc3f3
 
 
 4) išskirtinai kariniams tikslams perkami darbai ir paslaugos; ^s-a4d399054088b1c0b3764b52
@@ -159,7 +159,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 ### 4 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-a2915a7e991cf25e40957646
 
 
-1. Bendrasis viešųjų pirkimų žodynas (toliau – BVPŽ) – viešuosiuose pirkimuose taikoma prekių, paslaugų ir darbų klasifikacijos sistema, nustatyta 2002 m. lapkričio 5 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 2195/2002 dėl bendro viešųjų pirkimų žodyno (BVPŽ). ^s-18bc2beac81eb0ee1a4eedea
+1. Bendrasis viešųjų pirkimų žodynas (toliau – BVPŽ) – viešuosiuose pirkimuose taikoma prekių, paslaugų ir darbų klasifikacijos sistema, nustatyta 2002 m. lapkričio 5 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 2195/2002](https://eur-lex.europa.eu/eli/reg/2195/2002/oj) dėl bendro viešųjų pirkimų žodyno (BVPŽ). ^s-18bc2beac81eb0ee1a4eedea
 
 
 2. Centrinė perkančioji organizacija – pagal šį įstatymą veikianti Lietuvos Respublikos perkančioji organizacija arba kitos valstybės narės perkančioji organizacija, arba kitos Europos Sąjungos valstybės narės perkančioji organizacija ar Europos Sąjungos institucija, pirkimus atliekančios pagal taisykles, suderintas su 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvos 2009/81/EB dėl darbų, prekių ir paslaugų pirkimo tam tikrų sutarčių, kurias sudaro perkančiosios organizacijos ar subjektai gynybos ir saugumo srityse, sudarymo tvarkos derinimo ir iš dalies keičiančios direktyvas 2004/17/EB ir 2004/18/EB (toliau – Direktyva 2009/81/EB) nuostatomis, kurios: ^s-ad073a2115ee23bfa2b03f90
@@ -285,7 +285,7 @@ Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
 2. Jeigu dėl objektyvių ir pagrįstų priežasčių turi būti sudaroma viena pirkimo sutartis dėl pirkimo objekto, kurio vienai daliai taikomos šio įstatymo nuostatos, o kitai daliai netaikomos nei šio, nei [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo]], nei [[latest/9116a35030a011e78397ae072f58c508|Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo]] nuostatos, toks pirkimas šiuo įstatymu nereglamentuojamas. ^s-30e661834de4d006f34749d7
 
 
-3. Perkančiosios organizacijos pasirinkimo sudaryti vieną pirkimo sutartį dėl šio straipsnio 1 ir [[#^s-30e661834de4d006f34749d7|2 dalyse]] nurodyto mišraus pirkimo objekto priežastis negali būti siekis išvengti šio įstatymo, [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo]] ir [[latest/9116a35030a011e78397ae072f58c508|Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo]] nuostatų taikymo. ^s-dabac41487e53d64bd2a1e57
+3. Perkančiosios organizacijos pasirinkimo sudaryti vieną pirkimo sutartį dėl šio straipsnio [[#^s-e337f4fa0c8cade6116d6627|1]] ir [[#^s-30e661834de4d006f34749d7|2]] dalyse nurodyto mišraus pirkimo objekto priežastis negali būti siekis išvengti šio įstatymo, [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo]] ir [[latest/9116a35030a011e78397ae072f58c508|Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo]] nuostatų taikymo. ^s-dabac41487e53d64bd2a1e57
 
 
 
@@ -429,7 +429,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 11) teikia Europos Komisijai šio įstatymo [[#^s-499fa65de97e01fd85259b25|68 straipsnyje]] nurodytą informaciją apie Europos Sąjungos teisės pažeidimą; ^s-e184d393fed6e9f878bd0f39
 
 
-12) administruoja pagal šio įstatymo [[#^s-1f400892a4a577dba5893a1a|38 straipsnio 1 dalį]] paskelbtą informaciją apie tiekėjus, kurie pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šio įstatymo 34, 35, 36, [[#^s-388df325ebf1158b1567bb5e|37 straipsniuose]] nustatytiems reikalavimams, ir pagal šio įstatymo [[#^s-eb39a40833e0b9131d8858ea|55 straipsnio 1 dalį]] perkančiųjų organizacijų paskelbtą informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus; ^s-b2e0f569b766f9d28c4109f1
+12) administruoja pagal šio įstatymo [[#^s-1f400892a4a577dba5893a1a|38 straipsnio 1 dalį]] paskelbtą informaciją apie tiekėjus, kurie pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šio įstatymo [[#^s-7829defa5e47769712803f6e|34]], [[#^s-3e6ff6c997530d8217b78fe3|35]], [[#^s-610e73a778e6b419257c70be|36]], [[#^s-388df325ebf1158b1567bb5e|37]] straipsniuose nustatytiems reikalavimams, ir pagal šio įstatymo [[#^s-eb39a40833e0b9131d8858ea|55 straipsnio 1 dalį]] perkančiųjų organizacijų paskelbtą informaciją apie pirkimo sutarties neįvykdžiusius ar netinkamai ją įvykdžiusius tiekėjus; ^s-b2e0f569b766f9d28c4109f1
 Straipsnio punkto pakeitimai:
 Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 
@@ -559,7 +559,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 8. Komisijos posėdžiai gali vykti Centrinės viešųjų pirkimų informacinės sistemos priemonėmis. ^s-b9ff0d300013b6779ab2c680
 
 
-9. Perkančioji organizacija paskiria asmenį (asmenis), atsakingą (atsakingus) už pirkimo sutarties vykdymą. Šis reikalavimas gali būti netaikomas, jeigu komisijai nustatytos užduotys apima visus sutarties vykdymo etapus. Skiriant asmenį (asmenis), atsakingą (atsakingus) už pirkimo sutarties vykdymą, turi būti atsižvelgiama į pirkimo objekto ir šio įstatymo 53 ir [[#^s-c5d27e30466c59296b21442e|54 straipsnių]] nuostatų išmanymą. ^s-d1f7d8ad27edd9074bba7b13
+9. Perkančioji organizacija paskiria asmenį (asmenis), atsakingą (atsakingus) už pirkimo sutarties vykdymą. Šis reikalavimas gali būti netaikomas, jeigu komisijai nustatytos užduotys apima visus sutarties vykdymo etapus. Skiriant asmenį (asmenis), atsakingą (atsakingus) už pirkimo sutarties vykdymą, turi būti atsižvelgiama į pirkimo objekto ir šio įstatymo [[#^s-09f6494149c112791a42bd39|53]] ir [[#^s-c5d27e30466c59296b21442e|54]] straipsnių nuostatų išmanymą. ^s-d1f7d8ad27edd9074bba7b13
 Papildyta straipsnio dalimi:
 Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 
@@ -593,7 +593,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 ### 12 straipsnis. Bendravimas ir keitimasis informacija ^s-47c770fb7f38e14d9b798acb
 
 
-1. Perkančioji organizacija ir tiekėjai gali bendrauti tarpusavyje ir keistis informacija paštu arba per kurjerį, faksu, elektroninėmis priemonėmis pagal šio straipsnio 4, 5, [[#^s-7c0e08f4dc18b028b63f0e2a|6 dalių]] nuostatas, telefonu – laikantis [[#^s-78ae66905ba4b853f0e4ab7f|šio straipsnio 8 dalyje]] nurodytų reikalavimų, arba nurodytų būdų deriniu – taip, kaip pasirenka perkančioji organizacija. ^s-4132a4d5a50d7c06b9772a58
+1. Perkančioji organizacija ir tiekėjai gali bendrauti tarpusavyje ir keistis informacija paštu arba per kurjerį, faksu, elektroninėmis priemonėmis pagal šio straipsnio [[#^s-b95c9bd47c720e09a75d9e44|4]], [[#^s-63b314804da5d5bcbdd5e4e7|5]], [[#^s-7c0e08f4dc18b028b63f0e2a|6]] dalių nuostatas, telefonu – laikantis [[#^s-78ae66905ba4b853f0e4ab7f|šio straipsnio 8 dalyje]] nurodytų reikalavimų, arba nurodytų būdų deriniu – taip, kaip pasirenka perkančioji organizacija. ^s-4132a4d5a50d7c06b9772a58
 
 
 2. Bendravimo būdai turi būti visuotinai prieinami ir netrukdyti tiekėjams dalyvauti pirkimo procedūrose. ^s-9d711343310ba1c33ca4049d
@@ -614,7 +614,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 2) elektroninis pasiūlymas turi būti pasirašytas kvalifikuotu elektroniniu parašu, atitinkančiu 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamento (ES)  Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB (OL 2014 L 273, p. 73) (toliau – Reglamentas (ES) Nr. 910/2014), reikalavimus; ^s-5a1cc091f9611e2db4b173a7
 
 
-3) dalyviai ar kandidatai įsipareigoja iki pasiūlymų ar paraiškų priėmimo termino pabaigos pateikti šio įstatymo 34–37, [[#^s-073edba0b9be389bc4050765|39 straipsniuose]] nurodytus dokumentus, sertifikatus ir deklaracijas, kurių elektroninės formos neturi. ^s-cf3b6e8d678754a78dc4a5ed
+3) dalyviai ar kandidatai įsipareigoja iki pasiūlymų ar paraiškų priėmimo termino pabaigos pateikti šio įstatymo [[#^s-7829defa5e47769712803f6e|34]]–[[#^s-388df325ebf1158b1567bb5e|37]], [[#^s-073edba0b9be389bc4050765|39]] straipsniuose nurodytus dokumentus, sertifikatus ir deklaracijas, kurių elektroninės formos neturi. ^s-cf3b6e8d678754a78dc4a5ed
 
 
 6. Siekiant kelti informacinių ir ryšių technologijų priemonių sertifikavimo paslaugų lygį, gali būti diegiamos ir remiamos savanoriškos informacinių ir ryšių technologijų priemonių akreditavimo sistemos. ^s-7c0e08f4dc18b028b63f0e2a
@@ -732,7 +732,7 @@ Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
 
 
 
-8. Jeigu numatoma pirkimo vertė yra lygi tarptautinio pirkimo vertės ribai arba ją viršija ir perkančioji organizacija pasinaudoja šio straipsnio 6 ir [[#^s-ffbbc8cb1ee19b1ca859f2c8|7 dalyse]] nustatytomis teisėmis, turi būti užtikrinama, kad bendra pagal šio straipsnio 6 ir [[#^s-ffbbc8cb1ee19b1ca859f2c8|7 dalis]] atliekamo pirkimo dalių vertė būtų ne didesnė kaip 20 procentų bendros visų pirkimo dalių vertės. ^s-238b1bc561b108d016bf2e5b
+8. Jeigu numatoma pirkimo vertė yra lygi tarptautinio pirkimo vertės ribai arba ją viršija ir perkančioji organizacija pasinaudoja šio straipsnio [[#^s-2f4c169fcda1af6dea18d13c|6]] ir [[#^s-ffbbc8cb1ee19b1ca859f2c8|7]] dalyse nustatytomis teisėmis, turi būti užtikrinama, kad bendra pagal šio straipsnio [[#^s-2f4c169fcda1af6dea18d13c|6]] ir [[#^s-ffbbc8cb1ee19b1ca859f2c8|7]] dalis atliekamo pirkimo dalių vertė būtų ne didesnė kaip 20 procentų bendros visų pirkimo dalių vertės. ^s-238b1bc561b108d016bf2e5b
 
 
 9. Kai numatoma prekes įsigyti nuomos, finansinės nuomos būdu arba pirkti išsimokėtinai, pirkimo vertė apskaičiuojama: ^s-338ecca7a42217e3e20f3c16
@@ -808,7 +808,7 @@ Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
 ### 17 straipsnis. Pirkimų reglamentavimo ypatumai ^s-2fa24207d8affb0d9d3e5e32
 
 
-1. Tarptautinį ar supaprastintą pirkimą perkančioji organizacija atlieka šiame įstatyme nustatyta tvarka, išskyrus šio straipsnio 3 ir [[#^s-46484e852420087638d8bc24|4 dalyse]] nurodytus atvejus. ^s-e291b717dfce74b19be0c78a
+1. Tarptautinį ar supaprastintą pirkimą perkančioji organizacija atlieka šiame įstatyme nustatyta tvarka, išskyrus šio straipsnio [[#^s-1bd1ce02be13e57c22c8cdb4|3]] ir [[#^s-46484e852420087638d8bc24|4]] dalyse nurodytus atvejus. ^s-e291b717dfce74b19be0c78a
 
 
 2. Mišri pirkimo sutartis, kurios pirkimo objektas apima šio įstatymo 1 ir 2 prieduose nurodytas paslaugas, sudaroma vadovaujantis šiomis taisyklėmis, jeigu šio įstatymo 1 priede nurodytų paslaugų vertė: ^s-26f27ea1a0ed6ee6dab4cc3a
@@ -820,10 +820,10 @@ Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
 2) yra mažesnė už šio įstatymo 2 priede nurodytų perkamų paslaugų vertę, pirkimo sutartis sudaroma vadovaujantis supaprastintiems pirkimams taikomomis šio įstatymo nuostatomis. ^s-3a05464aa55b359bdb8e25be
 
 
-3. Perkančioji organizacija, atlikdama mažos vertės pirkimus, vadovaujasi šio įstatymo I skyriuje (išskyrus šio įstatymo [[#^s-47c770fb7f38e14d9b798acb|12 straipsnį]]), 33, [[#^s-7829defa5e47769712803f6e|34 straipsniuose]] (išskyrus [[#^s-9579f3463e4fe2e2ec5537f1|34 straipsnio 1 dalį]]), 35, 36, 37, 40, 43, 47, [[#^s-827100404b722ee46bfc3478|48 straipsniuose]], [[#^s-d95be7d61ddf60f1236b867a|52 straipsnio]] 4, 5, 6, 8, 9 dalyse, IV skyriuje nustatytais reikalavimais ir savo patvirtintomis taisyklėmis. Perkančiosios organizacijos patvirtintose taisyklėse gali būti nustatyta atvejų, kai perkančioji organizacija tiekėjams nenustato kvalifikacijos reikalavimų, išskyrus atvejus, kai perkamos prekės ar paslaugos, kurių objektų BVPŽ kodai nurodomi [[latest/TAR.C54AFFAA7622#^s-9b44e2b589b0ade3c7dd391f|Viešųjų pirkimų įstatymo 92 straipsnio 13 dalyje]] numatytame sąraše. Šio įstatymo [[#^s-9fdd7f833c26df8c344a0334|40 straipsnio 9 dalies]] reikalavimai gali būti netaikomi, kai sutarties vertė neviršija 5 000 Eur (penkių tūkstančių eurų) (be pridėtinės vertės mokesčio) ir tiekėjui, subtiekėjui ar ūkio subjektui, kurio pajėgumais yra remiamasi, nėra suteikiama teisė aptarnauti, gauti prieigą ar kitaip susipažinti su perkančiosios organizacijos vidaus dokumentuose nustatytomis ryšių ir informacinėmis sistemomis (ar jų dalimis), kurios yra reikšmingos perkančiosios organizacijos veiklai, šių ryšių ir informacinių sistemų (ar jų dalių) technologijomis, duomenų bazėmis ar jose esamais duomenimis. Tokiu atveju perkančioji organizacija iš prieinamų šaltinių įsitikina, kad prekių gamintojas ar paslaugų teikėjas nėra registruoti (jeigu fizinis asmuo – nuolat gyvenantis ar turintis pilietybę) [[latest/TAR.C54AFFAA7622#^s-41bbc16bc8b9eb84b2aea374|Viešųjų pirkimų įstatymo 92 straipsnio 14 dalyje]] numatytame sąraše nurodytose valstybėse ar teritorijose. ^s-1bd1ce02be13e57c22c8cdb4
+3. Perkančioji organizacija, atlikdama mažos vertės pirkimus, vadovaujasi šio įstatymo I skyriuje (išskyrus šio įstatymo [[#^s-47c770fb7f38e14d9b798acb|12 straipsnį]]), [[#^s-01f832b13470b85413be8adb|33]], [[#^s-7829defa5e47769712803f6e|34]] straipsniuose (išskyrus [[#^s-9579f3463e4fe2e2ec5537f1|34 straipsnio 1 dalį]]), [[#^s-3e6ff6c997530d8217b78fe3|35]], [[#^s-610e73a778e6b419257c70be|36]], [[#^s-388df325ebf1158b1567bb5e|37]], [[#^s-a7c15a9b9a543e1f8e2de067|40]], [[#^s-2946d5e1bb6d0f5ec5252421|43]], [[#^s-f5b0b5e24c7ddf93f924b840|47]], [[#^s-827100404b722ee46bfc3478|48]] straipsniuose, [[#^s-d95be7d61ddf60f1236b867a|52 straipsnio]] [[#^s-480f78679ab871c13b5ab0b0|4]], [[#^s-8c4165f211df2526b8f98171|5]], [[#^s-abb059f03ccc34895b21d112|6]], [[#^s-4bd7953cbfa1720b54a1cac2|8]], [[#^s-b7f3df8390e0c9bbfb89482e|9]] dalyse, IV skyriuje nustatytais reikalavimais ir savo patvirtintomis taisyklėmis. Perkančiosios organizacijos patvirtintose taisyklėse gali būti nustatyta atvejų, kai perkančioji organizacija tiekėjams nenustato kvalifikacijos reikalavimų, išskyrus atvejus, kai perkamos prekės ar paslaugos, kurių objektų BVPŽ kodai nurodomi [[latest/TAR.C54AFFAA7622#^s-9b44e2b589b0ade3c7dd391f|Viešųjų pirkimų įstatymo 92 straipsnio 13 dalyje]] numatytame sąraše. Šio įstatymo [[#^s-9fdd7f833c26df8c344a0334|40 straipsnio 9 dalies]] reikalavimai gali būti netaikomi, kai sutarties vertė neviršija 5 000 Eur (penkių tūkstančių eurų) (be pridėtinės vertės mokesčio) ir tiekėjui, subtiekėjui ar ūkio subjektui, kurio pajėgumais yra remiamasi, nėra suteikiama teisė aptarnauti, gauti prieigą ar kitaip susipažinti su perkančiosios organizacijos vidaus dokumentuose nustatytomis ryšių ir informacinėmis sistemomis (ar jų dalimis), kurios yra reikšmingos perkančiosios organizacijos veiklai, šių ryšių ir informacinių sistemų (ar jų dalių) technologijomis, duomenų bazėmis ar jose esamais duomenimis. Tokiu atveju perkančioji organizacija iš prieinamų šaltinių įsitikina, kad prekių gamintojas ar paslaugų teikėjas nėra registruoti (jeigu fizinis asmuo – nuolat gyvenantis ar turintis pilietybę) [[latest/TAR.C54AFFAA7622#^s-41bbc16bc8b9eb84b2aea374|Viešųjų pirkimų įstatymo 92 straipsnio 14 dalyje]] numatytame sąraše nurodytose valstybėse ar teritorijose. ^s-1bd1ce02be13e57c22c8cdb4
 
 
-4. Atliekant Lietuvos Respublikos diplomatinių atstovybių užsienio valstybėse, Lietuvos Respublikos atstovybių prie tarptautinių organizacijų, konsulinių įstaigų ir specialiųjų misijų, taip pat kitų perkančiųjų organizacijų, kurios užsienyje įsigyja prekių, paslaugų ar darbų, skirtų užsienyje esantiems jų padaliniams, kariniams atstovams ar specialiesiems atašė arba skirtų užsienyje vykdomiems vystomojo bendradarbiavimo ir kitiems projektams, supaprastintus pirkimus, taikomos šio įstatymo 1–[[#^s-92cb6cff4f6dd2c417d337e9|9 straipsnių]], [[#^s-827100404b722ee46bfc3478|48 straipsnio]], [[#^s-4bd7953cbfa1720b54a1cac2|52 straipsnio 8 dalies]] nuostatos ir Vyriausybės ar jos įgaliotos institucijos patvirtintame tokių pirkimų tvarkos apraše nustatytos taisyklės. ^s-46484e852420087638d8bc24
+4. Atliekant Lietuvos Respublikos diplomatinių atstovybių užsienio valstybėse, Lietuvos Respublikos atstovybių prie tarptautinių organizacijų, konsulinių įstaigų ir specialiųjų misijų, taip pat kitų perkančiųjų organizacijų, kurios užsienyje įsigyja prekių, paslaugų ar darbų, skirtų užsienyje esantiems jų padaliniams, kariniams atstovams ar specialiesiems atašė arba skirtų užsienyje vykdomiems vystomojo bendradarbiavimo ir kitiems projektams, supaprastintus pirkimus, taikomos šio įstatymo [[#^s-bc4b1019353b89659e29b477|1]]–[[#^s-92cb6cff4f6dd2c417d337e9|9]] straipsnių, [[#^s-827100404b722ee46bfc3478|48 straipsnio]], [[#^s-4bd7953cbfa1720b54a1cac2|52 straipsnio 8 dalies]] nuostatos ir Vyriausybės ar jos įgaliotos institucijos patvirtintame tokių pirkimų tvarkos apraše nustatytos taisyklės. ^s-46484e852420087638d8bc24
 
 
 Straipsnio pakeitimai:
@@ -905,7 +905,7 @@ PIRKIMO BŪDAI IR JŲ ATLIKIMAS
 3. Ypač sudėtingų pirkimų atvejais, kai perkančioji organizacija mano, kad atliekant pirkimą riboto konkurso būdu arba skelbiamų derybų būdu pirkimo sutarties sudaryti neįmanoma, ji gali taikyti konkurencinio dialogo būdą. Pirkimas laikomas ypač sudėtingu, jeigu perkančioji organizacija: ^s-5fb1152b9e2422b709ac87d4
 
 
-1) pagal šio įstatymo [[#^s-d98f56862cb277eda259c3c6|40 straipsnio 3 dalies]] 2, 3 ir 4 punktų nuostatas negali objektyviai nustatyti pirkimo objekto techninių reikalavimų, kurie tenkintų jos poreikius arba tikslus; ^s-058ae9f740db4e36bcf3c94c
+1) pagal šio įstatymo [[#^s-d98f56862cb277eda259c3c6|40 straipsnio 3 dalies]] [[#^s-2306e7b12a308809cc96f790|2]], [[#^s-6c9e6146fc348a75be1cb63c|3]] ir [[#^s-f17fcb5d7f0c9aa2ba00dd6f|4]] punktų nuostatas negali objektyviai nustatyti pirkimo objekto techninių reikalavimų, kurie tenkintų jos poreikius arba tikslus; ^s-058ae9f740db4e36bcf3c94c
 
 
 2) negali objektyviai apibrėžti pirkimo finansinių ir (arba) teisinių sąlygų. ^s-709a3d9672d7aded161567aa
@@ -917,7 +917,7 @@ PIRKIMO BŪDAI IR JŲ ATLIKIMAS
 1) kai paskelbus atvirą ar ribotą konkursą, skelbiamas derybas ar konkurencinį dialogą iš viso nebuvo gauta arba nebuvo gauta nė vieno tinkamo (atitinkančio keliamus reikalavimus, kurie būtini perkančiosios organizacijos poreikiams patenkinti) pasiūlymo arba paraiškos, jeigu šiuo pagrindu pasirinkus neskelbiamų derybų būdą iš esmės nepakeičiamos pradinės pirkimo sutarties sąlygos ir jeigu Europos Komisijos prašymu jai pateikiama ataskaita šio įstatymo [[#^s-827100404b722ee46bfc3478|48 straipsnyje]] nustatyta tvarka; ^s-6522985dcbe0edac8cdb11ad
 
 
-2) jeigu atviram ar ribotam konkursui, skelbiamoms deryboms ar konkurenciniam dialogui pateikti pasiūlymai nesuderinami su šio įstatymo 7, [[#^s-671ea8874d92e18e075347d9|20 straipsniuose]], [[#^s-e43e1b6d6ce7f7fcef8cc2fe|21 straipsnio]] 1, 2, 3, [[#^s-477dbd7f8972c353f1d86162|4 dalyse]], [[#^s-8ba8200e2877999c465cbf3c|22 straipsnio]] 2, 3, 4, 5, 6, 14 dalyse, [[#^s-f9c4f4223b4984f9d0ee309c|23 straipsnio]] 2, 3, 4, 5, [[#^s-e936d74ad0bb0d102fc625a8|10 dalyse]], [[#^s-f9eb8d2769618b3f139fa7d0|24 straipsnio 4 dalyje]], [[#^s-a84971503a7911d1a33541ca|28 straipsnio]] 1, [[#^s-8175192a69ca45f7510769c1|2 dalyse]], [[#^s-6b9e3525a08f7c872391c862|29 straipsnyje]], [[#^s-01f832b13470b85413be8adb|33 straipsnio]] 1, 2, 3, 4, [[#^s-651690d293829bb00e81c0e0|5 dalyse]], 34, 35, 36, 37, 39, 41, 42, 43, 44, [[#^s-c6fc9bbb28721aecd5ed1bff|50 straipsniuose]] nustatytais reikalavimais arba juose buvo nurodytos perkančiajai organizacijai nepriimtinos kainos, o pirkimo sąlygos iš esmės nekeičiamos, ir į neskelbiamas derybas kviečiami visi pasiūlymus pateikę tiekėjai, atitinkantys perkančiosios organizacijos pirkimo dokumentuose nustatytus minimalius kvalifikacinius ir pasiūlymų pateikimo reikalavimus; ^s-afa1b7be3917c4a321cf228d
+2) jeigu atviram ar ribotam konkursui, skelbiamoms deryboms ar konkurenciniam dialogui pateikti pasiūlymai nesuderinami su šio įstatymo [[#^s-5103ac4a4e65e5f8fd591eb6|7]], [[#^s-671ea8874d92e18e075347d9|20]] straipsniuose, [[#^s-e43e1b6d6ce7f7fcef8cc2fe|21 straipsnio]] [[#^s-7ea66307798aac7801823225|1]], [[#^s-2d64d5055a7790ae2b06c890|2]], [[#^s-4f0d2f817d5ab280333d1b64|3]], [[#^s-35b4805d6b6f86a19d4c4ee0|4]] dalyse, [[#^s-8ba8200e2877999c465cbf3c|22 straipsnio]] [[#^s-dcf483238141e5ee4b0679b4|2]], [[#^s-96c3b72d1950d64fea13e70f|3]], [[#^s-788a828bab22378f900bc953|4]], [[#^s-7d10a4b0e9d402b19b86ae84|5]], [[#^s-0cbe83919ec66666573a301d|6]], [[#^s-5235deeefbba6f854627a141|14]] dalyse, [[#^s-f9c4f4223b4984f9d0ee309c|23 straipsnio]] [[#^s-52f1f746feb54acad5e53ef1|2]], [[#^s-9015793ca8fdc17a867ba2d3|3]], [[#^s-3e88217473c4645019460a90|4]], [[#^s-aa63962c547cc1b102f4874e|5]], [[#^s-268f007503a28e3fdbc1a6e5|10]] dalyse, [[#^s-f9eb8d2769618b3f139fa7d0|24 straipsnio 4 dalyje]], [[#^s-a84971503a7911d1a33541ca|28 straipsnio]] [[#^s-5800826bef692ac4f9760959|1]], [[#^s-0318068f2af6d739c745b005|2]] dalyse, [[#^s-6b9e3525a08f7c872391c862|29 straipsnyje]], [[#^s-01f832b13470b85413be8adb|33 straipsnio]] [[#^s-db82ec29344fc3f206448601|1]], [[#^s-39232b919d85f812db40ac0b|2]], [[#^s-47dade57f16683191badd0f8|3]], [[#^s-1b5216d9b96bbe22fdb078d5|4]], [[#^s-3c7b8e0cb5b30f800d41aac8|5]] dalyse, [[#^s-7829defa5e47769712803f6e|34]], [[#^s-3e6ff6c997530d8217b78fe3|35]], [[#^s-610e73a778e6b419257c70be|36]], [[#^s-388df325ebf1158b1567bb5e|37]], [[#^s-073edba0b9be389bc4050765|39]], [[#^s-e4281140d3efed5e8bb550d3|41]], [[#^s-13d7a79eb3d943e9b2b1ef2f|42]], [[#^s-2946d5e1bb6d0f5ec5252421|43]], [[#^s-2a6310fdcbc241e365aa0e79|44]], [[#^s-c6fc9bbb28721aecd5ed1bff|50]] straipsniuose nustatytais reikalavimais arba juose buvo nurodytos perkančiajai organizacijai nepriimtinos kainos, o pirkimo sąlygos iš esmės nekeičiamos, ir į neskelbiamas derybas kviečiami visi pasiūlymus pateikę tiekėjai, atitinkantys perkančiosios organizacijos pirkimo dokumentuose nustatytus minimalius kvalifikacinius ir pasiūlymų pateikimo reikalavimus; ^s-afa1b7be3917c4a321cf228d
 
 
 3) jeigu dėl krizės susidarius ekstremaliajai situacijai riboto konkurso ar skelbiamų derybų nustatytų terminų, įskaitant šio įstatymo [[#^s-21b8e9eabc67d1e379d045ff|27 straipsnio 9 dalyje]] nurodytus sutrumpintus terminus, laikytis neįmanoma; ^s-0cdac1cc0f30ffd9afcc6f3c
@@ -965,7 +965,7 @@ PIRKIMO BŪDAI IR JŲ ATLIKIMAS
 9. Tarptautinis pirkimas neskelbiamų derybų būdu gali būti pradedamas tik gavus Viešųjų pirkimų tarnybos sutikimą dėl tokio pirkimo būdo pasirinkimo, išskyrus atvejus, kai perkančioji organizacija numato paskelbti skelbimą dėl savanoriško ex ante skaidrumo ir informaciją apie tai nurodo pirkimo dokumentuose arba jeigu pirkimas atliekamas pagal [[#^s-477dbd7f8972c353f1d86162|šio straipsnio 4 dalies]] 1, 3, 4 punktus. ^s-2999c0af91169d09167e359d
 
 
-10. Perkančioji organizacija, atlikusi pirkimą neskelbiamų derybų būdu, šio įstatymo [[#^s-3df2234123b4d60b1088c3fe|45 straipsnyje]] nurodytame skelbime apie sudarytą pirkimo sutartį nurodo šio straipsnio  4–[[#^s-f123470a79706b5d0790516e|8 dalyse]] nustatytą pirkimo būdo pasirinkimo pagrindą. ^s-e936d74ad0bb0d102fc625a8
+10. Perkančioji organizacija, atlikusi pirkimą neskelbiamų derybų būdu, šio įstatymo [[#^s-3df2234123b4d60b1088c3fe|45 straipsnyje]] nurodytame skelbime apie sudarytą pirkimo sutartį nurodo šio straipsnio  [[#^s-5bb4e8252b184167ddab73b0|4]]–8 dalyse nustatytą pirkimo būdo pasirinkimo pagrindą. ^s-e936d74ad0bb0d102fc625a8
 
 
 
@@ -985,19 +985,19 @@ PIRKIMO BŪDAI IR JŲ ATLIKIMAS
 ### 21 straipsnis. Ribotas konkursas ^s-e43e1b6d6ce7f7fcef8cc2fe
 
 
-1. Perkančioji organizacija gali apriboti kvalifikacijos reikalavimus atitinkančių kandidatų, kuriuos ji kvies pateikti pasiūlymus, skaičių, vadovaudamasi šio straipsnio 2, [[#^s-4f0d2f817d5ab280333d1b64|3 dalių]] nuostatomis. Skelbime apie pirkimą perkančioji organizacija nurodo objektyvius ir nediskriminacinius kriterijus ir taisykles, kurias ji ketina taikyti atrinkdama kandidatus, mažiausią ir, jeigu reikia, didžiausią kviečiamų pateikti pasiūlymus kandidatų skaičių. Mažiausias kviečiamų pateikti pasiūlymus kandidatų skaičius negali būti mažesnis kaip trys. ^s-7ea66307798aac7801823225
+1. Perkančioji organizacija gali apriboti kvalifikacijos reikalavimus atitinkančių kandidatų, kuriuos ji kvies pateikti pasiūlymus, skaičių, vadovaudamasi šio straipsnio [[#^s-2d64d5055a7790ae2b06c890|2]], [[#^s-4f0d2f817d5ab280333d1b64|3]] dalių nuostatomis. Skelbime apie pirkimą perkančioji organizacija nurodo objektyvius ir nediskriminacinius kriterijus ir taisykles, kurias ji ketina taikyti atrinkdama kandidatus, mažiausią ir, jeigu reikia, didžiausią kviečiamų pateikti pasiūlymus kandidatų skaičių. Mažiausias kviečiamų pateikti pasiūlymus kandidatų skaičius negali būti mažesnis kaip trys. ^s-7ea66307798aac7801823225
 
 
 2. Pateikti pasiūlymus turi būti pakviesta ne mažiau kandidatų, negu perkančiosios organizacijos nustatytas mažiausias kviečiamų pateikti pasiūlymus kandidatų skaičius, jeigu kvalifikacinės atrankos kriterijus atitinka pakankamai kandidatų. Jeigu kvalifikacinės atrankos kriterijus atitinka mažiau kandidatų, negu nustatytas kviečiamų kandidatų skaičius, perkančioji organizacija gali tęsti procedūrą ir kviesti pateikti pasiūlymus visus paraiškas pateikusius ir minimalius kvalifikacinius reikalavimus atitinkančius kandidatus. Šios procedūros metu perkančioji organizacija negali kviesti dalyvauti pirkime kitų, paraiškų nepateikusių, tiekėjų arba kandidatų, kurie neatitinka minimalių kvalifikacinių reikalavimų. ^s-2d64d5055a7790ae2b06c890
 
 
-3. Jeigu perkančioji organizacija mano, kad tinkamų kandidatų skaičius yra per mažas, kad būtų galima užtikrinti konkurenciją, ji gali sustabdyti pirkimo procedūrą ir paskelbti skelbimą apie naują paraiškų dalyvauti ribotame konkurse pateikimo terminą. Tokiu atveju pirmojo paskelbimo metu atrinkti kandidatai ir antrojo paskelbimo metu atrinkti kandidatai turi būti kviečiami pateikti pasiūlymus pagal šio straipsnio 4, 5, 6, 7, [[#^s-c8fa5a87df79593f237729d6|8 dalis]]. Jeigu sustabdžiusi pirkimo procedūrą ir paskelbusi apie naują paraiškų dalyvauti ribotame konkurse pateikimo terminą perkančioji organizacija turėtų neracionaliai naudoti lėšas, skirtas prekėms, paslaugoms ar darbams įsigyti, perkančioji organizacija gali nutraukti atliekamą ir pradėti naują pirkimo procedūrą. ^s-4f0d2f817d5ab280333d1b64
+3. Jeigu perkančioji organizacija mano, kad tinkamų kandidatų skaičius yra per mažas, kad būtų galima užtikrinti konkurenciją, ji gali sustabdyti pirkimo procedūrą ir paskelbti skelbimą apie naują paraiškų dalyvauti ribotame konkurse pateikimo terminą. Tokiu atveju pirmojo paskelbimo metu atrinkti kandidatai ir antrojo paskelbimo metu atrinkti kandidatai turi būti kviečiami pateikti pasiūlymus pagal šio straipsnio [[#^s-35b4805d6b6f86a19d4c4ee0|4]], [[#^s-63be5051f83d05c0ba021b2d|5]], [[#^s-d262afbdb38c9854f2ec5673|6]], [[#^s-c022fc17333d10a89c3780dc|7]], [[#^s-c8fa5a87df79593f237729d6|8]] dalis. Jeigu sustabdžiusi pirkimo procedūrą ir paskelbusi apie naują paraiškų dalyvauti ribotame konkurse pateikimo terminą perkančioji organizacija turėtų neracionaliai naudoti lėšas, skirtas prekėms, paslaugoms ar darbams įsigyti, perkančioji organizacija gali nutraukti atliekamą ir pradėti naują pirkimo procedūrą. ^s-4f0d2f817d5ab280333d1b64
 
 
 4. Perkančioji organizacija ribotą konkursą vykdo šiais etapais: ^s-35b4805d6b6f86a19d4c4ee0
 
 
-1) skelbia apie pirkimą šio įstatymo 45, [[#^s-5ebccca4bb4909fff0b3ccb9|46 straipsniuose]] nustatyta tvarka ir kviečia tiekėjus teikti paraiškas; ^s-ee3ecbc103f8ad543c0c7132
+1) skelbia apie pirkimą šio įstatymo [[#^s-3df2234123b4d60b1088c3fe|45]], [[#^s-5ebccca4bb4909fff0b3ccb9|46]] straipsniuose nustatyta tvarka ir kviečia tiekėjus teikti paraiškas; ^s-ee3ecbc103f8ad543c0c7132
 
 
 2) patikrina, ar kandidatai atitinka keliamus kvalifikacijos reikalavimus; ^s-44983604b45759bbcf54da6b
@@ -1006,7 +1006,7 @@ PIRKIMO BŪDAI IR JŲ ATLIKIMAS
 3) atlieka kandidatų kvalifikacinę atranką pagal nustatytas procedūras ir kriterijus, jeigu tokia atranka nurodyta pirkimo dokumentuose; ^s-766f99ed997e8f399951d408
 
 
-4) atrinktus kandidatus vienu metu raštu kviečia teikti pasiūlymus. Kvietime pateikiama šio straipsnio 5, 6, 7, [[#^s-c8fa5a87df79593f237729d6|8 dalyse]] nurodyta informacija; ^s-af8dc104b2cc9f58675e711a
+4) atrinktus kandidatus vienu metu raštu kviečia teikti pasiūlymus. Kvietime pateikiama šio straipsnio [[#^s-63be5051f83d05c0ba021b2d|5]], [[#^s-d262afbdb38c9854f2ec5673|6]], [[#^s-c022fc17333d10a89c3780dc|7]], [[#^s-c8fa5a87df79593f237729d6|8]] dalyse nurodyta informacija; ^s-af8dc104b2cc9f58675e711a
 
 
 5) nagrinėja, vertina ir lygina pakviestų dalyvių pateiktus pasiūlymus, vadovaudamasi pirkimo dokumentuose nustatytomis sąlygomis. ^s-443d25b58732fa77d3b07c82
@@ -1021,7 +1021,7 @@ PIRKIMO BŪDAI IR JŲ ATLIKIMAS
 7. Kai pirkimo dokumentus turi ne perkančioji organizacija, o centrinė perkančioji organizacija, kvietime nurodomas adresas, kuriuo galima kreiptis tų dokumentų, ir, jeigu reikia, – galutinis terminas, iki kurio tokių dokumentų galima prašyti, taip pat suma, mokėtina už tokių dokumentų gavimą, ir mokėjimo būdai. Pirkimo dokumentai turi būti išsiunčiami nedelsiant, gavus kandidatų prašymą arba kandidatams sumokėjus už tokių dokumentų gavimą, kai kvietime nurodyta už tokių dokumentų gavimą mokėtina suma. ^s-c022fc17333d10a89c3780dc
 
 
-8. Be šio straipsnio 5, 6, [[#^s-c022fc17333d10a89c3780dc|7 dalyse]] nurodytos informacijos, kvietime pateikti pasiūlymus turi būti nurodyta: ^s-c8fa5a87df79593f237729d6
+8. Be šio straipsnio [[#^s-63be5051f83d05c0ba021b2d|5]], [[#^s-d262afbdb38c9854f2ec5673|6]], [[#^s-c022fc17333d10a89c3780dc|7]] dalyse nurodytos informacijos, kvietime pateikti pasiūlymus turi būti nurodyta: ^s-c8fa5a87df79593f237729d6
 
 
 1) nuoroda į paskelbtą skelbimą apie pirkimą; ^s-98582fac585bafaf2d73a847
@@ -1081,19 +1081,19 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 
 
 
-4. Atliekant pirkimą skelbiamų derybų būdu, perkančioji organizacija gali apriboti kvalifikacijos reikalavimus atitinkančių kandidatų, kuriuos ji kvies pateikti pasiūlymų, skaičių vadovaudamasi šio straipsnio 5 ir [[#^s-0cbe83919ec66666573a301d|6 dalių]] nuostatomis. Perkančioji organizacija skelbime apie pirkimą nurodo objektyvius ir nediskriminacinius kriterijus ir taisykles, kuriuos ji ketina taikyti atrinkdama kandidatus, mažiausią ir, jeigu reikia, – didžiausią kviečiamų kandidatų skaičių. Mažiausias kviečiamų dalyvauti derybose kandidatų skaičius negali būti mažesnis kaip trys. ^s-788a828bab22378f900bc953
+4. Atliekant pirkimą skelbiamų derybų būdu, perkančioji organizacija gali apriboti kvalifikacijos reikalavimus atitinkančių kandidatų, kuriuos ji kvies pateikti pasiūlymų, skaičių vadovaudamasi šio straipsnio [[#^s-7d10a4b0e9d402b19b86ae84|5]] ir [[#^s-0cbe83919ec66666573a301d|6]] dalių nuostatomis. Perkančioji organizacija skelbime apie pirkimą nurodo objektyvius ir nediskriminacinius kriterijus ir taisykles, kuriuos ji ketina taikyti atrinkdama kandidatus, mažiausią ir, jeigu reikia, – didžiausią kviečiamų kandidatų skaičių. Mažiausias kviečiamų dalyvauti derybose kandidatų skaičius negali būti mažesnis kaip trys. ^s-788a828bab22378f900bc953
 
 
 5. Dalyvauti skelbiamose derybose turi būti pakviesta ne mažiau kandidatų negu perkančiosios organizacijos nustatytas mažiausias kviečiamų kandidatų skaičius, jeigu kvalifikacinės atrankos kriterijus atitinka pakankamai kandidatų. Jeigu kvalifikacinės atrankos kriterijus atitinka mažiau kandidatų, negu nustatytas kviečiamų kandidatų skaičius, perkančioji organizacija gali tęsti procedūrą ir kviesti dalyvauti skelbiamose derybose visus paraiškas pateikusius ir kvalifikacinius reikalavimus atitinkančius kandidatus. Šios procedūros metu perkančioji organizacija negali kviesti dalyvauti pirkime kitų paraiškų nepateikusių tiekėjų arba kandidatų, kurie neatitinka kvalifikacinių reikalavimų. ^s-7d10a4b0e9d402b19b86ae84
 
 
-6. Jeigu perkančioji organizacija mano, kad tinkamų kandidatų skaičius yra per mažas, kad būtų galima užtikrinti konkurenciją, ji gali sustabdyti pirkimo procedūrą ir paskelbti skelbimą apie naują paraiškų dalyvauti skelbiamose derybose pateikimo terminą. Tokiu atveju pirmojo paskelbimo metu atrinkti kandidatai ir antrojo paskelbimo metu atrinkti kandidatai turi būti kviečiami dalyvauti skelbiamose derybose pagal šio straipsnio 7, 8, 9, 10, [[#^s-6e8636fa462c2cde8a93c59f|11 dalis]]. Jeigu pirkimo procedūros sustabdymas ir skelbimo apie naują paraiškų dalyvauti skelbiamose derybose pateikimo terminą paskelbimas iš perkančiosios organizacijos pareikalautų neracionalaus lėšų, skirtų prekėms, paslaugoms ar darbams įsigyti, panaudojimo, perkančioji organizacija gali nutraukti vykdomą pirkimo procedūrą ir pradėti naują pirkimo procedūrą. ^s-0cbe83919ec66666573a301d
+6. Jeigu perkančioji organizacija mano, kad tinkamų kandidatų skaičius yra per mažas, kad būtų galima užtikrinti konkurenciją, ji gali sustabdyti pirkimo procedūrą ir paskelbti skelbimą apie naują paraiškų dalyvauti skelbiamose derybose pateikimo terminą. Tokiu atveju pirmojo paskelbimo metu atrinkti kandidatai ir antrojo paskelbimo metu atrinkti kandidatai turi būti kviečiami dalyvauti skelbiamose derybose pagal šio straipsnio [[#^s-6d018e0ae84f92efeef20a9a|7]], [[#^s-52e7e25ffb0572106ef9ccfd|8]], [[#^s-155fc948230a543146e251ec|9]], [[#^s-b87392523822182640d1517f|10]], [[#^s-6e8636fa462c2cde8a93c59f|11]] dalis. Jeigu pirkimo procedūros sustabdymas ir skelbimo apie naują paraiškų dalyvauti skelbiamose derybose pateikimo terminą paskelbimas iš perkančiosios organizacijos pareikalautų neracionalaus lėšų, skirtų prekėms, paslaugoms ar darbams įsigyti, panaudojimo, perkančioji organizacija gali nutraukti vykdomą pirkimo procedūrą ir pradėti naują pirkimo procedūrą. ^s-0cbe83919ec66666573a301d
 
 
 7. Perkančioji organizacija skelbiamas derybas vykdo šiais etapais: ^s-6d018e0ae84f92efeef20a9a
 
 
-1) skelbia apie pirkimą šio įstatymo 45, [[#^s-5ebccca4bb4909fff0b3ccb9|46 straipsniuose]] nustatyta tvarka ir kviečia tiekėjus pateikti paraiškas ar pirminius pasiūlymus, kai supaprastintų pirkimų atveju paraiškos neteikiamos; ^s-7e5facd4c12b2cfd05d9ebd5
+1) skelbia apie pirkimą šio įstatymo [[#^s-3df2234123b4d60b1088c3fe|45]], [[#^s-5ebccca4bb4909fff0b3ccb9|46]] straipsniuose nustatyta tvarka ir kviečia tiekėjus pateikti paraiškas ar pirminius pasiūlymus, kai supaprastintų pirkimų atveju paraiškos neteikiamos; ^s-7e5facd4c12b2cfd05d9ebd5
 
 
 2) patikrina, ar kandidatai atitinka keliamus kvalifikacijos reikalavimus; ^s-3d8100def03cfe66efd13d66
@@ -1102,7 +1102,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 3) atlieka kandidatų kvalifikacinę atranką pagal nustatytas procedūras ir kriterijus, jeigu tokia atranka nustatyta pirkimo dokumentuose; ^s-21feb8f6cab9e08968800323
 
 
-4) atrinktus kandidatus vienu metu raštu kviečia pateikti pirminius pasiūlymus, išskyrus atvejus, kai supaprastintų pirkimų atveju paraiškos nebuvo teikiamos. Kvietime pateikiama šio straipsnio 8, 9, 10, [[#^s-6e8636fa462c2cde8a93c59f|11 dalyse]] nurodyta informacija. Kai supaprastintų pirkimų atveju paraiškos nėra teikiamos, šio straipsnio 8, 9, 10, [[#^s-6e8636fa462c2cde8a93c59f|11 dalyse]] nurodyta informacija pateikiama kvietime pateikti pirminius pasiūlymus; ^s-9c7e89f01427a434180bf06f
+4) atrinktus kandidatus vienu metu raštu kviečia pateikti pirminius pasiūlymus, išskyrus atvejus, kai supaprastintų pirkimų atveju paraiškos nebuvo teikiamos. Kvietime pateikiama šio straipsnio [[#^s-52e7e25ffb0572106ef9ccfd|8]], [[#^s-155fc948230a543146e251ec|9]], [[#^s-b87392523822182640d1517f|10]], [[#^s-6e8636fa462c2cde8a93c59f|11]] dalyse nurodyta informacija. Kai supaprastintų pirkimų atveju paraiškos nėra teikiamos, šio straipsnio [[#^s-52e7e25ffb0572106ef9ccfd|8]], [[#^s-155fc948230a543146e251ec|9]], [[#^s-b87392523822182640d1517f|10]], [[#^s-6e8636fa462c2cde8a93c59f|11]] dalyse nurodyta informacija pateikiama kvietime pateikti pirminius pasiūlymus; ^s-9c7e89f01427a434180bf06f
 
 
 5) [[#^s-8f0047da2080d77c7fe18ca6|šio straipsnio 12 dalyje]] nustatyta tvarka derasi su dalyviais, kurių pirminiai ir vėlesni pasiūlymai atitinka pirkimo dokumentuose nustatytus minimalius reikalavimus, prašo jų pateikti galutinius pasiūlymus. Perkančioji organizacija neprivalo prašyti pateikti galutinio pasiūlymo tuo atveju, kai skelbiamose derybose dalyvauja vienas tiekėjas; ^s-7c93d2fcfe4ed6bc85b793ee
@@ -1125,7 +1125,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 10. Kai pirkimo dokumentus turi ne perkančioji organizacija, o centrinė perkančioji organizacija, kvietime nurodomas adresas, kuriuo galima kreiptis tų dokumentų, ir, jeigu reikia, – galutinis terminas, iki kurio tokių dokumentų galima prašyti, už tokių dokumentų gavimą mokėtina suma ir mokėjimo procedūros. Pirkimo dokumentai turi būti išsiunčiami nedelsiant, gavus kandidatų prašymą arba kandidatams sumokėjus už tokių dokumentų gavimą, kai kvietime nurodyta už tokių dokumentų gavimą mokėtina suma. ^s-b87392523822182640d1517f
 
 
-11. Be šio straipsnio 8, 9 ir [[#^s-b87392523822182640d1517f|10 dalyse]] nurodytos informacijos, kvietime dalyvauti derybose turi būti nurodyta: ^s-6e8636fa462c2cde8a93c59f
+11. Be šio straipsnio [[#^s-52e7e25ffb0572106ef9ccfd|8]], [[#^s-155fc948230a543146e251ec|9]] ir [[#^s-b87392523822182640d1517f|10]] dalyse nurodytos informacijos, kvietime dalyvauti derybose turi būti nurodyta: ^s-6e8636fa462c2cde8a93c59f
 
 
 1) skelbiamų derybų atveju – nuoroda į paskelbtą skelbimą apie pirkimą; ^s-255e984faab0c39b08e01c5f
@@ -1176,7 +1176,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 16. Perkančioji organizacija, ketindama baigti derybas, nustato terminą, iki kada dalyviai turi pateikti galutinius pasiūlymus, ir apie tai informuoja visus likusius dalyvius. Geriausias pasiūlymas nustatomas vadovaujantis pirkimo dokumentuose nustatyta pasiūlymų vertinimo tvarka ir kriterijais pagal derybų rezultatus, užfiksuotus pasiūlymuose ir derybų protokoluose. ^s-8a5d0eb4792df6fb7ba37c2a
 
 
-17. Supaprastinto pirkimo ir šio įstatymo 2 priede nurodytų paslaugų tarptautinio pirkimo atvejais perkančioji organizacija, vykdydama neskelbiamas derybas šio įstatymo [[#^s-477dbd7f8972c353f1d86162|19 straipsnio 4 dalies]] 3, 4, 5 punktuose ir [[#^s-0cbe83919ec66666573a301d|6 dalyje]] nustatytomis sąlygomis, gali pirkimo sutartį sudaryti nesilaikydama šiame straipsnyje nurodytiems etapams taikomų ir kitų šiame įstatyme pirkimo procedūroms bei pirkimo sutarties turiniui ir formai nustatytų reikalavimų. Šių reikalavimų perkančioji organizacija taip pat gali nesilaikyti tarptautinio pirkimo atveju, vykdydama neskelbiamas derybas šio įstatymo [[#^s-477dbd7f8972c353f1d86162|19 straipsnio 4 dalies]] 3 ir 4 punktuose nustatytomis sąlygomis, išskyrus reikalavimą sutartį pasirašyti raštu. ^s-49d1d7b2b77f35a2a86e9bdb
+17. Supaprastinto pirkimo ir šio įstatymo 2 priede nurodytų paslaugų tarptautinio pirkimo atvejais perkančioji organizacija, vykdydama neskelbiamas derybas šio įstatymo [[#^s-477dbd7f8972c353f1d86162|19 straipsnio 4 dalies]] [[#^s-0cdac1cc0f30ffd9afcc6f3c|3]], [[#^s-e28847e3181bd83246cba3b1|4]], [[#^s-ac4b5ee87712a4a90e05440f|5]] punktuose ir [[#^s-0cbe83919ec66666573a301d|6 dalyje]] nustatytomis sąlygomis, gali pirkimo sutartį sudaryti nesilaikydama šiame straipsnyje nurodytiems etapams taikomų ir kitų šiame įstatyme pirkimo procedūroms bei pirkimo sutarties turiniui ir formai nustatytų reikalavimų. Šių reikalavimų perkančioji organizacija taip pat gali nesilaikyti tarptautinio pirkimo atveju, vykdydama neskelbiamas derybas šio įstatymo [[#^s-477dbd7f8972c353f1d86162|19 straipsnio 4 dalies]] [[#^s-0cdac1cc0f30ffd9afcc6f3c|3]] ir [[#^s-e28847e3181bd83246cba3b1|4]] punktuose nustatytomis sąlygomis, išskyrus reikalavimą sutartį pasirašyti raštu. ^s-49d1d7b2b77f35a2a86e9bdb
 Papildyta straipsnio dalimi:
 Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 
@@ -1188,13 +1188,13 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 1. Atliekant pirkimą konkurencinio dialogo būdu, pasiūlymai vertinami taikant tik ekonomiškai naudingiausio pasiūlymo vertinimo kriterijų. ^s-8deaac3f09839b7f24b472ae
 
 
-2. Perkančioji organizacija, norėdama riboti kvalifikacijos reikalavimus atitinkančių kandidatų, kuriuos ji kvies pateikti pasiūlymus, skaičių vadovaudamasi šio straipsnio 4, [[#^s-aa63962c547cc1b102f4874e|5 dalių]] nuostatomis, skelbime apie pirkimą ir (arba) aprašomajame dokumente nurodo objektyvius ir nediskriminacinius kriterijus ir taisykles, kuriuos ji ketina taikyti atrinkdama kandidatus, mažiausią ir, jeigu reikia, – didžiausią kviečiamų kandidatų skaičių. Mažiausias kviečiamų dalyvauti konkurenciniame dialoge kandidatų skaičius negali būti mažesnis kaip trys. ^s-52f1f746feb54acad5e53ef1
+2. Perkančioji organizacija, norėdama riboti kvalifikacijos reikalavimus atitinkančių kandidatų, kuriuos ji kvies pateikti pasiūlymus, skaičių vadovaudamasi šio straipsnio [[#^s-3e88217473c4645019460a90|4]], [[#^s-aa63962c547cc1b102f4874e|5]] dalių nuostatomis, skelbime apie pirkimą ir (arba) aprašomajame dokumente nurodo objektyvius ir nediskriminacinius kriterijus ir taisykles, kuriuos ji ketina taikyti atrinkdama kandidatus, mažiausią ir, jeigu reikia, – didžiausią kviečiamų kandidatų skaičių. Mažiausias kviečiamų dalyvauti konkurenciniame dialoge kandidatų skaičius negali būti mažesnis kaip trys. ^s-52f1f746feb54acad5e53ef1
 
 
 3. Perkančioji organizacija konkurencinį dialogą vykdo šiais etapais: ^s-9015793ca8fdc17a867ba2d3
 
 
-1) skelbia apie pirkimą šio įstatymo 45, [[#^s-5ebccca4bb4909fff0b3ccb9|46 straipsniuose]] nustatyta tvarka ir kviečia tiekėjus pateikti paraiškas. Skelbime ir (arba) aprašomajame dokumente nurodomi perkančiosios organizacijos poreikiai ir reikalavimai; ^s-fbd576900d6c1b6f0f523588
+1) skelbia apie pirkimą šio įstatymo [[#^s-3df2234123b4d60b1088c3fe|45]], [[#^s-5ebccca4bb4909fff0b3ccb9|46]] straipsniuose nustatyta tvarka ir kviečia tiekėjus pateikti paraiškas. Skelbime ir (arba) aprašomajame dokumente nurodomi perkančiosios organizacijos poreikiai ir reikalavimai; ^s-fbd576900d6c1b6f0f523588
 
 
 2) patikrina, ar kandidatai atitinka keliamus kvalifikacijos reikalavimus; ^s-d2d0a1f3d0ce42d67378997e
@@ -1203,7 +1203,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 3) atlieka kandidatų kvalifikacinę atranką pagal nustatytas procedūras ir kriterijus, jeigu tokia atranka nurodyta pirkimo dokumentuose; ^s-192141f3beea8023cc9584d0
 
 
-4) atrinktus kandidatus vienu metu raštu kviečia pradėti dialogą ir pateikti siūlomus sprendinius, kad būtų galima nustatyti ir apibrėžti priemones, geriausiai atitinkančias perkančiosios organizacijos poreikius. Kvietime taip pat pateikiama šio straipsnio 6, 7, 8, [[#^s-9aac5a659d9fca9af8dd1684|9 dalyse]] nurodyta informacija; ^s-ef2c059efa85d8e267083f40
+4) atrinktus kandidatus vienu metu raštu kviečia pradėti dialogą ir pateikti siūlomus sprendinius, kad būtų galima nustatyti ir apibrėžti priemones, geriausiai atitinkančias perkančiosios organizacijos poreikius. Kvietime taip pat pateikiama šio straipsnio [[#^s-7f23efc83c23d3b3ebff1c38|6]], [[#^s-f217f84bb42360007972e349|7]], [[#^s-60f3b345b2b6a499ae39aa48|8]], [[#^s-9aac5a659d9fca9af8dd1684|9]] dalyse nurodyta informacija; ^s-ef2c059efa85d8e267083f40
 
 
 5) veda dialogą su atrinktais kandidatais, kurio tikslas – nustatyti ir apibrėžti priemones, geriausiai atitinkančias perkančiosios organizacijos poreikius. Dialogo metu su pasirinktais kandidatais perkančioji organizacija gali aptarti visus numatomos sudaryti pirkimo sutarties aspektus; ^s-daf5fa25aafc489b5fdee423
@@ -1218,7 +1218,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 4. Perkančioji organizacija dalyvauti konkurenciniame dialoge kviečia ne mažiau kandidatų, negu perkančiosios organizacijos nustatytas kviečiamų kandidatų skaičius, jeigu kvalifikacinės atrankos kriterijus atitinka pakankamai kandidatų. Jeigu kvalifikacinės atrankos kriterijus atitinkančių kandidatų skaičius yra mažesnis už skaičių, nurodytą skelbime apie pirkimą, perkančioji organizacija gali tęsti procedūrą ir kviesti dalyvauti konkurenciniame dialoge visus paraiškas pateikusius ir minimalius kvalifikacinius reikalavimus atitinkančius kandidatus. Šios procedūros metu perkančioji organizacija negali kviesti dalyvauti pirkime kitų paraiškų nepateikusių tiekėjų arba kandidatų, kurie neatitinka minimalių kvalifikacinių reikalavimų. ^s-3e88217473c4645019460a90
 
 
-5. Jeigu perkančioji organizacija mano, kad tinkamų kandidatų skaičius yra per mažas, kad būtų galima užtikrinti konkurenciją, ji gali sustabdyti pirkimo procedūrą ir paskelbti skelbimą apie naują paraiškų dalyvauti konkurenciniame dialoge pateikimo terminą. Tokiu atveju pirmojo paskelbimo metu atrinkti kandidatai ir antrojo paskelbimo metu atrinkti kandidatai turi būti kviečiami dalyvauti konkurenciniame dialoge pagal šio straipsnio 6, 7, 8, [[#^s-9aac5a659d9fca9af8dd1684|9 dalis]]. Jeigu sustabdžiusi pirkimo procedūrą ir paskelbusi skelbimo apie naują paraiškų dalyvauti konkurenciniame dialoge pateikimo terminą perkančioji organizacija privalėtų neracionaliai panaudoti lėšas, skirtas prekėms, paslaugoms ar darbams įsigyti, ji gali nutraukti atliekamą ir pradėti naują pirkimo procedūrą. ^s-aa63962c547cc1b102f4874e
+5. Jeigu perkančioji organizacija mano, kad tinkamų kandidatų skaičius yra per mažas, kad būtų galima užtikrinti konkurenciją, ji gali sustabdyti pirkimo procedūrą ir paskelbti skelbimą apie naują paraiškų dalyvauti konkurenciniame dialoge pateikimo terminą. Tokiu atveju pirmojo paskelbimo metu atrinkti kandidatai ir antrojo paskelbimo metu atrinkti kandidatai turi būti kviečiami dalyvauti konkurenciniame dialoge pagal šio straipsnio [[#^s-7f23efc83c23d3b3ebff1c38|6]], [[#^s-f217f84bb42360007972e349|7]], [[#^s-60f3b345b2b6a499ae39aa48|8]], [[#^s-9aac5a659d9fca9af8dd1684|9]] dalis. Jeigu sustabdžiusi pirkimo procedūrą ir paskelbusi skelbimo apie naują paraiškų dalyvauti konkurenciniame dialoge pateikimo terminą perkančioji organizacija privalėtų neracionaliai panaudoti lėšas, skirtas prekėms, paslaugoms ar darbams įsigyti, ji gali nutraukti atliekamą ir pradėti naują pirkimo procedūrą. ^s-aa63962c547cc1b102f4874e
 
 
 6. Prie kvietimo pridedama pirkimo dokumentų kopija arba, jeigu perkančioji organizacija sudaro galimybę su pirkimo dokumentais susipažinti elektroninėmis priemonėmis, pateikiama nuoroda, kur kandidatai gali su jais susipažinti. ^s-7f23efc83c23d3b3ebff1c38
@@ -1230,7 +1230,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 8. Kai pirkimo dokumentus turi ne perkančioji organizacija, o centrinė perkančioji organizacija, kvietime nurodomas adresas, kuriuo galima kreiptis tų dokumentų, ir, jeigu reikia, – galutinis terminas, iki kurio tokių dokumentų galima prašyti, suma, mokėtina už tokių dokumentų gavimą, ir mokėjimo būdai. Pirkimo dokumentai turi būti išsiunčiami nedelsiant, gavus kandidatų prašymą arba kandidatams sumokėjus už tokių dokumentų gavimą, kai kvietime nurodyta už tokių dokumentų gavimą mokėtina suma. ^s-60f3b345b2b6a499ae39aa48
 
 
-9. Be šio straipsnio 6, 7, [[#^s-60f3b345b2b6a499ae39aa48|8 dalyse]] nurodytos informacijos, kvietime dalyvauti konkurenciniame dialoge turi būti nurodyta: ^s-9aac5a659d9fca9af8dd1684
+9. Be šio straipsnio [[#^s-7f23efc83c23d3b3ebff1c38|6]], [[#^s-f217f84bb42360007972e349|7]], [[#^s-60f3b345b2b6a499ae39aa48|8]] dalyse nurodytos informacijos, kvietime dalyvauti konkurenciniame dialoge turi būti nurodyta: ^s-9aac5a659d9fca9af8dd1684
 
 
 1) kur yra paskelbtas skelbimas apie pirkimą; ^s-5a1215ec7ad1557d10527b1f
@@ -1302,7 +1302,7 @@ PIRKIMO DOKUMENTAI
 4) pirkimo procedūrose naudojamos įslaptintos informacijos apsaugos reikalavimai; ^s-7de7fb8b28bded8d79be9cc0
 
 
-5) reikalavimai, susiję su informacijos apsauga ir tiekimo patikimumu, nustatyti pagal šio įstatymo 43 ir [[#^s-2a6310fdcbc241e365aa0e79|44 straipsniuose]] nurodytus reikalavimus; ^s-4fd35651e78fbbeeb07024c6
+5) reikalavimai, susiję su informacijos apsauga ir tiekimo patikimumu, nustatyti pagal šio įstatymo [[#^s-2946d5e1bb6d0f5ec5252421|43]] ir [[#^s-2a6310fdcbc241e365aa0e79|44]] straipsniuose nurodytus reikalavimus; ^s-4fd35651e78fbbeeb07024c6
 Straipsnio punkto pakeitimai:
 Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 
@@ -1462,7 +1462,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 2) perkančioji organizacija pirkimo dokumentuose nurodo, kad pasiūlymas turi būti pateikiamas užklijuotame voke; ^s-4d64e2833310f9ddaa6bedf0
 
 
-3) jeigu pirkimo objektas suskirstytas į dalis, dėl kurių leidžiama pateikti atskirus pasiūlymus, tuo pačiu metu dėl kelių pirkimo dalių teikiami pasiūlymai pagal šios dalies 1 ir [[#^s-4d64e2833310f9ddaa6bedf0|2 punktų]] nuostatas gali būti įforminami ir pateikiami kaip vienas pasiūlymas; ^s-7c1e9cf672ff8d4d91b6f73b
+3) jeigu pirkimo objektas suskirstytas į dalis, dėl kurių leidžiama pateikti atskirus pasiūlymus, tuo pačiu metu dėl kelių pirkimo dalių teikiami pasiūlymai pagal šios dalies [[#^s-ee0d1e815f14b513b548a496|1]] ir [[#^s-4d64e2833310f9ddaa6bedf0|2]] punktų nuostatas gali būti įforminami ir pateikiami kaip vienas pasiūlymas; ^s-7c1e9cf672ff8d4d91b6f73b
 
 
 4) kai pasiūlymus numatoma vertinti pagal ekonomiškai naudingiausio pasiūlymo vertinimo kriterijų, perkančioji organizacija pirkimo dokumentuose turi nurodyti, kad tiekėjai kainos pasiūlymą ir jo priedus pateiktų viename užklijuotame voke, o likusią pasiūlymo dalį ir jos priedus – kitame užklijuotame voke. Šie abu vokai turi būti įdėti į bendrą voką, kuris taip pat užklijuojamas. Jeigu perkančioji organizacija reikalauja pasiūlymo galiojimo užtikrinimo, šį užtikrinimą patvirtinantis dokumentas dedamas į bendrą voką. Šis reikalavimas pateikti pasiūlymą dviejuose vokuose netaikomas pirkimą atliekant derybų ar konkurencinio dialogo būdu. ^s-2a27aecc793fdbadb3816a3a
@@ -1483,7 +1483,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 ### 27 straipsnis. Paraiškų ir pasiūlymų priėmimo terminai ^s-620a523ce449fa914ec62697
 
 
-1. Perkančioji organizacija privalo pirkimo dokumentuose nustatyti paraiškų ir pasiūlymų priėmimo terminus: nurodyti datą, valandą ir minutę. Perkančiosios organizacijos nustatytas paraiškų ir pasiūlymų priėmimo terminas turi būti pakankamas paraiškoms ir pasiūlymams parengti, tačiau negali būti trumpesnis, negu nurodyta šio straipsnio 2, 3, 4, 5, 6, 7, 8, [[#^s-21b8e9eabc67d1e379d045ff|9 dalyse]]. Nustatydama šį terminą perkančioji organizacija privalo atsižvelgti į pirkimo sudėtingumą ir laiką, reikalingą paraiškoms ir pasiūlymams parengti. ^s-a02ee16cf51212e3aa1be2ab
+1. Perkančioji organizacija privalo pirkimo dokumentuose nustatyti paraiškų ir pasiūlymų priėmimo terminus: nurodyti datą, valandą ir minutę. Perkančiosios organizacijos nustatytas paraiškų ir pasiūlymų priėmimo terminas turi būti pakankamas paraiškoms ir pasiūlymams parengti, tačiau negali būti trumpesnis, negu nurodyta šio straipsnio [[#^s-7344ebf711876c833bde170a|2]], [[#^s-b87dcc4a3cd16f51f376125b|3]], [[#^s-94757249a1fe76474510f774|4]], [[#^s-72e4bb83dd631c434bfa9bfd|5]], [[#^s-309a41303c430ae57c8427c8|6]], [[#^s-6b6bd16f1e7b9cd9710a287a|7]], [[#^s-faecbc28d5ad8ea1732c4346|8]], [[#^s-21b8e9eabc67d1e379d045ff|9]] dalyse. Nustatydama šį terminą perkančioji organizacija privalo atsižvelgti į pirkimo sudėtingumą ir laiką, reikalingą paraiškoms ir pasiūlymams parengti. ^s-a02ee16cf51212e3aa1be2ab
 
 
 2. Atliekant supaprastintus pirkimus riboto konkurso, skelbiamų derybų būdu, taip pat vykdant konkurencinį dialogą, paraiškų priėmimo terminas, atviro konkurso atveju – pasiūlymų pateikimo terminas negali būti trumpesnis kaip 7 darbo dienos nuo skelbimo paskelbimo Centrinėje viešųjų pirkimų informacinėje sistemoje dienos arba nuo kvietimo pateikti pasiūlymą ar dalyvauti derybose arba konkurenciniame dialoge išsiuntimo kandidatams dienos. ^s-7344ebf711876c833bde170a
@@ -1504,7 +1504,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 7. [[#^s-b87dcc4a3cd16f51f376125b|Šio straipsnio 3 dalyje]] nurodytas pasiūlymų priėmimo terminas gali būti sutrumpintas 5 dienomis, jeigu perkančioji organizacija nuo skelbimo apie pirkimą paskelbimo dienos suteikia galimybę elektroninėmis priemonėmis be apribojimų ir tiesiogiai susipažinti su visais pirkimo dokumentais. Skelbime turi būti nurodytas interneto adresas, kur galima susipažinti su pirkimo dokumentais. Šis terminas gali būti sutrumpintas ir tais atvejais, kai buvo sutrumpintas paraiškų pateikimo terminas, nustatytas [[#^s-309a41303c430ae57c8427c8|šio straipsnio 6 dalyje]]. ^s-6b6bd16f1e7b9cd9710a287a
 
 
-8. Jeigu dėl kokių nors priežasčių pirkimo dokumentai ar jų dalis buvo pareikalauti laiku, tačiau nepateikti per šio įstatymo 21, 22 ir [[#^s-f9c4f4223b4984f9d0ee309c|23 straipsniuose]] nustatytus terminus, arba jeigu pateikus pirkimo dokumentus paaiškėja, kad pasiūlymus galima parengti tik apsilankius vietoje arba vietoje susipažinus su pirkimo dokumentuose nurodyta informacija, perkančioji organizacija pasiūlymų pateikimo terminus privalo pratęsti tiek, kad visi suinteresuoti tiekėjai turėtų galimybę susipažinti su visa pasiūlymui parengti reikalinga informacija. ^s-faecbc28d5ad8ea1732c4346
+8. Jeigu dėl kokių nors priežasčių pirkimo dokumentai ar jų dalis buvo pareikalauti laiku, tačiau nepateikti per šio įstatymo [[#^s-e43e1b6d6ce7f7fcef8cc2fe|21]], [[#^s-8ba8200e2877999c465cbf3c|22]] ir [[#^s-f9c4f4223b4984f9d0ee309c|23]] straipsniuose nustatytus terminus, arba jeigu pateikus pirkimo dokumentus paaiškėja, kad pasiūlymus galima parengti tik apsilankius vietoje arba vietoje susipažinus su pirkimo dokumentuose nurodyta informacija, perkančioji organizacija pasiūlymų pateikimo terminus privalo pratęsti tiek, kad visi suinteresuoti tiekėjai turėtų galimybę susipažinti su visa pasiūlymui parengti reikalinga informacija. ^s-faecbc28d5ad8ea1732c4346
 
 
 9. Jeigu riboto konkurso ir skelbiamų derybų atvejais dėl skubos nėra įmanoma laikytis šiame straipsnyje nustatytų trumpiausių terminų, perkančioji organizacija gali nustatyti: ^s-21b8e9eabc67d1e379d045ff
@@ -1706,19 +1706,19 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 2) pareikalauti, kad kandidatai ar dalyviai turėtų teisę verstis ta veikla, kuri reikalinga pirkimo sutarčiai įvykdyti, ir šią teisę įrodytų šio įstatymo [[#^s-3e6ff6c997530d8217b78fe3|35 straipsnyje]] nurodytais būdais; ^s-d4e42dbf83d91ae47ebd17b2
 
 
-3) nustatyti minimalius kandidatų ar dalyvių ekonominės ir finansinės būklės, techninio ir profesinio pajėgumo reikalavimus ir pareikalauti, kad kandidatai ar dalyviai pateiktų pirkimo dokumentuose nurodytą informaciją ir kvalifikaciją patvirtinančius dokumentus. Minimalūs kvalifikaciniai reikalavimai ir juos patvirtinantys dokumentai nustatomi vadovaujantis šio įstatymo 36, 37, [[#^s-073edba0b9be389bc4050765|39 straipsnių]] nuostatomis; ^s-bed7bb9ae85dbd35066efb63
+3) nustatyti minimalius kandidatų ar dalyvių ekonominės ir finansinės būklės, techninio ir profesinio pajėgumo reikalavimus ir pareikalauti, kad kandidatai ar dalyviai pateiktų pirkimo dokumentuose nurodytą informaciją ir kvalifikaciją patvirtinančius dokumentus. Minimalūs kvalifikaciniai reikalavimai ir juos patvirtinantys dokumentai nustatomi vadovaujantis šio įstatymo [[#^s-610e73a778e6b419257c70be|36]], [[#^s-388df325ebf1158b1567bb5e|37]], [[#^s-073edba0b9be389bc4050765|39]] straipsnių nuostatomis; ^s-bed7bb9ae85dbd35066efb63
 
 
-4) nustatyti kandidatų ar dalyvių ekonominės ir finansinės būklės bei techninio ir profesinio pajėgumo vertinimo taisykles ir kriterijus, kuriais vadovaujantis bus atrenkami kandidatai, jeigu perkančioji organizacija numato riboti dalyvių skaičių šio įstatymo 21, 22, [[#^s-f9c4f4223b4984f9d0ee309c|23 straipsniuose]] nustatytais atvejais; ^s-3f3e23bd21d4373f007c635d
+4) nustatyti kandidatų ar dalyvių ekonominės ir finansinės būklės bei techninio ir profesinio pajėgumo vertinimo taisykles ir kriterijus, kuriais vadovaujantis bus atrenkami kandidatai, jeigu perkančioji organizacija numato riboti dalyvių skaičių šio įstatymo [[#^s-e43e1b6d6ce7f7fcef8cc2fe|21]], [[#^s-8ba8200e2877999c465cbf3c|22]], [[#^s-f9c4f4223b4984f9d0ee309c|23]] straipsniuose nustatytais atvejais; ^s-3f3e23bd21d4373f007c635d
 
 
 5) reikalauti, kad kandidatas ar dalyvis pateiktų nepriklausomos sertifikavimo įstaigos išduotus sertifikatus, patvirtinančius jo taikomos kokybės vadybos sistemos ir (arba) aplinkos apsaugos vadybos sistemos atitiktį standartams; ^s-ca12f71cf0c4014ba8523aab
 
 
-6) su įslaptinta informacija susijusių pirkimų atvejais nustatyti, kad nebus kviečiami pateikti pasiūlymų kandidatai, kurie yra registruoti ir veikia valstybėse, su kuriomis Lietuvos Respublika nėra sudariusi dvišalių sutarčių dėl abipusės informacijos apsaugos, išskyrus [[latest/TAR.F4CA26A706AF#^s-d4bbac17118a3236b19d920f|Valstybės ir tarnybos paslapčių įstatymo 4 straipsnyje]] nustatytus atvejus, taip pat kandidatai, kurie neturi [[latest/TAR.F4CA26A706AF|Valstybės ir tarnybos paslapčių įstatyme]] nustatyto tiekėjo patikimumo pažymėjimo ar įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimų atitiktį patvirtinančios pažymos ar leidimo dirbti ar susipažinti su įslaptinta informacija. ^s-a9ae823f994df69ac2f46691
+6) su įslaptinta informacija susijusių pirkimų atvejais nustatyti, kad nebus kviečiami pateikti pasiūlymų kandidatai, kurie yra registruoti ir veikia valstybėse, su kuriomis Lietuvos Respublika nėra sudariusi dvišalių sutarčių dėl abipusės informacijos apsaugos, išskyrus [[latest/TAR.F4CA26A706AF#^s-d4bbac17118a3236b19d920f|Valstybės ir tarnybos paslapčių įstatymo 4 straipsnyje]] nustatytus atvejus, taip pat kandidatai, kurie neturi [[latest/TAR.F4CA26A706AF|Valstybės ir tarnybos paslapčių įstatyme]] nustatyto tiekėjo patikimumo pažymėjimo ar įslaptintos informacijos, žymimos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), apsaugos reikalavimų atitiktį patvirtinančios pažymos ar leidimo dirbti ar susipažinti su įslaptinta informacija. ^s-a9ae823f994df69ac2f46691
 
 
-2. Perkančiosios organizacijos nustatyti minimalūs kandidatų ar dalyvių kvalifikaciniai reikalavimai negali dirbtinai riboti konkurencijos. Jie turi būti pagrįsti ir proporcingi pirkimo objektui, tikslūs ir aiškūs. Keliami reikalavimai negali pažeisti tiekėjo teisės saugoti intelektinę nuosavybę, gamybos ir komercinę paslaptį. Kvalifikacijos ir informacijos bei dokumentų, kuriuos turi pateikti kandidatai ar dalyviai, reikalavimai nustatomi vadovaujantis šio įstatymo 34–[[#^s-b22b745291440d7892cec5a4|38 straipsnių]] nuostatomis. ^s-39232b919d85f812db40ac0b
+2. Perkančiosios organizacijos nustatyti minimalūs kandidatų ar dalyvių kvalifikaciniai reikalavimai negali dirbtinai riboti konkurencijos. Jie turi būti pagrįsti ir proporcingi pirkimo objektui, tikslūs ir aiškūs. Keliami reikalavimai negali pažeisti tiekėjo teisės saugoti intelektinę nuosavybę, gamybos ir komercinę paslaptį. Kvalifikacijos ir informacijos bei dokumentų, kuriuos turi pateikti kandidatai ar dalyviai, reikalavimai nustatomi vadovaujantis šio įstatymo [[#^s-7829defa5e47769712803f6e|34]]–[[#^s-b22b745291440d7892cec5a4|38]] straipsnių nuostatomis. ^s-39232b919d85f812db40ac0b
 
 
 3. Jeigu reikia, konkretaus pirkimo atveju kandidatas ar dalyvis gali remtis kitų ūkio subjektų ekonominiais, finansiniais, techniniais ir profesiniais pajėgumais, neatsižvelgiant į tai, kokio teisinio pobūdžio būtų jo ryšiai su jais. Šiuo atveju kandidatas ar dalyvis privalo įrodyti perkančiajai organizacijai, kad vykdant sutartį tie ištekliai jam bus prieinami. Kandidatas ar dalyvis gali remtis kitų ūkio subjektų pajėgumais, jeigu šie ūkio subjektai atitinka perkančiosios organizacijos nustatytus su patikimumu susijusius reikalavimus. Tokiomis pačiomis sąlygomis ūkio subjektų grupė gali remtis ūkio subjektų grupės narių arba kitų ūkio subjektų pajėgumais. ^s-47dade57f16683191badd0f8
@@ -1757,10 +1757,10 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 3) prekių (įskaitant jų sudedamąsias dalis, pakuotes) kilmė yra ar paslaugos teikiamos iš [[latest/TAR.C54AFFAA7622#^s-cf79e4ad9ebf58f22d02ed7f|Viešųjų pirkimų įstatymo 92 straipsnio 15 dalyje]] numatytame sąraše nurodytų valstybių ar teritorijų; ^s-48db609710945cb1f2b957cf
 
 
-4) Vyriausybė, vadovaudamasi [[latest/TAR.57E0E8B29108|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme]] įtvirtintais kriterijais, yra priėmusi sprendimą, patvirtinantį, kad šios dalies 1 ir [[#^s-f2821809e61f29cfc4ee1d18|2 punktuose]] nurodyti subjektai ar su jais ketinamas sudaryti (sudarytas) sandoris neatitinka nacionalinio saugumo interesų; ^s-83cc9baa9e94f447ceead0da
+4) Vyriausybė, vadovaudamasi [[latest/TAR.57E0E8B29108|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme]] įtvirtintais kriterijais, yra priėmusi sprendimą, patvirtinantį, kad šios dalies [[latest/TAR.57E0E8B29108|1]] ir [[latest/TAR.57E0E8B29108|2]] punktuose nurodyti subjektai ar su jais ketinamas sudaryti (sudarytas) sandoris neatitinka nacionalinio saugumo interesų; ^s-83cc9baa9e94f447ceead0da
 
 
-5) perkančioji organizacija turi kompetentingų institucijų informacijos, kad šios dalies 1 ir [[#^s-f2821809e61f29cfc4ee1d18|2 punktuose]] nurodyti subjektai turi interesų, galinčių kelti grėsmę nacionaliniam saugumui; ^s-2524fb555fabf667b26f3f20
+5) perkančioji organizacija turi kompetentingų institucijų informacijos, kad šios dalies [[#^s-821332e6de2f69a3bf4ebdc3|1]] ir [[#^s-f2821809e61f29cfc4ee1d18|2]] punktuose nurodyti subjektai turi interesų, galinčių kelti grėsmę nacionaliniam saugumui; ^s-2524fb555fabf667b26f3f20
 
 
 6) tiekėjas, jo subtiekėjas, ūkio subjektas, kurio pajėgumais remiamasi, vykdo veiklą [[latest/TAR.C54AFFAA7622#^s-cf79e4ad9ebf58f22d02ed7f|Viešųjų pirkimų įstatymo 92 straipsnio 15 dalyje]] numatytame sąraše nurodytose valstybėse ar teritorijose arba yra ūkio subjektų grupės, kurios bet kuris narys vykdo veiklą [[latest/TAR.C54AFFAA7622#^s-cf79e4ad9ebf58f22d02ed7f|Viešųjų pirkimų įstatymo 92 straipsnio 15 dalyje]] numatytame sąraše nurodytose valstybėse ar teritorijose, narys arba jos vadovas, kitas valdymo ar priežiūros organo narys ar kitas (kiti) asmuo (asmenys), turintis (turintys) teisę atstovauti tiekėjui, subtiekėjui, ūkio subjektui, kurio pajėgumais remiamasi, ar jį kontroliuoti, jo vardu priimti sprendimą, sudaryti sandorį, ir tokiu būdu dalyvauja tokių ūkio subjektų grupių ir (ar) ūkio subjektų veikloje. ^s-c3c6ac8f9885e41e5262956a
@@ -1858,19 +1858,19 @@ d) tiekėjas yra neįvykdęs pirkimo sutarties, sudarytos vadovaujantis šiuo į
 7) tiekėjas nėra įvykdęs įsipareigojimų, susijusių su mokesčių mokėjimu pagal valstybės, kurioje jis registruotas, ar valstybės, kurioje yra perkančioji organizacija, reikalavimus. Tiekėjas laikomas įvykdžiusiu įsipareigojimus, susijusius su mokesčių, įskaitant socialinio draudimo įmokas, mokėjimu, jeigu jo neįvykdytų įsipareigojimų suma yra mažesnė kaip 50 eurų; ^s-79819e5512fa18471f424dc6
 
 
-8) tiekėjas pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šio įstatymo 34, 35, 36, [[#^s-388df325ebf1158b1567bb5e|37 straipsniuose]] nustatytiems reikalavimams ir tai perkančioji organizacija gali įrodyti bet kokiomis teisėtomis priemonėmis. Šiuo pagrindu tiekėjas taip pat šalinamas iš pirkimo procedūros, kai ankstesnių procedūrų, atliktų šio įstatymo, [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo]], [[latest/9116a35030a011e78397ae072f58c508|Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo]] ar [[latest/TAR.6A449FCC534B|Lietuvos Respublikos koncesijų įstatymo]] nustatyta tvarka, metu nuslėpė informaciją ar pateikė šiame punkte nurodytą melagingą informaciją ir dėl to per pastaruosius vienus metus buvo pašalintas iš pirkimo procedūrų. Šiuo pagrindu tiekėjas taip pat pašalinamas iš pirkimo procedūros, kai, vadovaujantis kitų valstybių teisės aktais, ankstesnių pirkimo procedūrų metu jis nuslėpė informaciją ar pateikė melagingą informaciją ir dėl to per pastaruosius vienus metus buvo pašalintas iš pirkimo ar koncesijos suteikimo procedūrų arba jam taikomos kitos panašios sankcijos. ^s-662cbeedab6c0424f9c5d67b
+8) tiekėjas pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šio įstatymo [[#^s-7829defa5e47769712803f6e|34]], [[#^s-3e6ff6c997530d8217b78fe3|35]], [[#^s-610e73a778e6b419257c70be|36]], [[#^s-388df325ebf1158b1567bb5e|37]] straipsniuose nustatytiems reikalavimams ir tai perkančioji organizacija gali įrodyti bet kokiomis teisėtomis priemonėmis. Šiuo pagrindu tiekėjas taip pat šalinamas iš pirkimo procedūros, kai ankstesnių procedūrų, atliktų šio įstatymo, [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo]], [[latest/9116a35030a011e78397ae072f58c508|Pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo]] ar [[latest/TAR.6A449FCC534B|Lietuvos Respublikos koncesijų įstatymo]] nustatyta tvarka, metu nuslėpė informaciją ar pateikė šiame punkte nurodytą melagingą informaciją ir dėl to per pastaruosius vienus metus buvo pašalintas iš pirkimo procedūrų. Šiuo pagrindu tiekėjas taip pat pašalinamas iš pirkimo procedūros, kai, vadovaujantis kitų valstybių teisės aktais, ankstesnių pirkimo procedūrų metu jis nuslėpė informaciją ar pateikė melagingą informaciją ir dėl to per pastaruosius vienus metus buvo pašalintas iš pirkimo ar koncesijos suteikimo procedūrų arba jam taikomos kitos panašios sankcijos. ^s-662cbeedab6c0424f9c5d67b
 
 
 3. Perkančioji organizacija pašalina tiekėją iš pirkimo procedūros pagal [[#^s-36ceca9ba12e93056359f867|šio straipsnio 1 dalies 2 punkte]] ir [[#^s-d4e9770e74b18d39ecdc53fe|2 dalyje]] nurodytus pašalinimo pagrindus ir tuo atveju, kai ji turi įtikinamų duomenų, kad tiekėjas, siekdamas išvengti [[#^s-36ceca9ba12e93056359f867|šio straipsnio 1 dalies 2 punkte]] ir [[#^s-d4e9770e74b18d39ecdc53fe|2 dalyje]] nurodytų pašalinimo pagrindų taikymo, yra įsteigtas arba dalyvauja pirkime vietoj kito asmens. ^s-ac69d7d83788978f527a0188
 
 
-4. Perkančioji organizacija, priimdama sprendimus dėl tiekėjo pašalinimo iš pirkimo procedūros pagal [[#^s-36ceca9ba12e93056359f867|šio straipsnio 1 dalies 2 punkte]] ir [[#^s-d4e9770e74b18d39ecdc53fe|2 dalyje]] nurodytus pašalinimo pagrindus, atsižvelgia į tai, ar vertinant tiekėjo patikimumą tiekėjo pašalinimas iš pirkimo procedūros proporcingas vertinamam tiekėjo elgesiui, [[#^s-167297e403ad1fb2fc1bd79e|šio straipsnio 1 dalies 3 punkto]] c papunkčio atveju – ar taikant šį tiekėjo pašalinimo iš pirkimo procedūros pagrindą būtų reikšmingai apribota konkurencija. Priimant sprendimus dėl tiekėjo pašalinimo iš pirkimo procedūros pagal [[#^s-36ceca9ba12e93056359f867|šio straipsnio 1 dalies 2 punkte]] ir [[#^s-d4e9770e74b18d39ecdc53fe|2 dalyje]] nurodytus pašalinimo pagrindus, gali būti atsižvelgiama į pagal šio įstatymo 38 ir [[#^s-dea91621090a01f642ae4640|55 straipsnius]] skelbiamą informaciją. ^s-f5771bfd96d34e8f1815e4f3
+4. Perkančioji organizacija, priimdama sprendimus dėl tiekėjo pašalinimo iš pirkimo procedūros pagal [[#^s-36ceca9ba12e93056359f867|šio straipsnio 1 dalies 2 punkte]] ir [[#^s-d4e9770e74b18d39ecdc53fe|2 dalyje]] nurodytus pašalinimo pagrindus, atsižvelgia į tai, ar vertinant tiekėjo patikimumą tiekėjo pašalinimas iš pirkimo procedūros proporcingas vertinamam tiekėjo elgesiui, [[#^s-167297e403ad1fb2fc1bd79e|šio straipsnio 1 dalies 3 punkto]] c papunkčio atveju – ar taikant šį tiekėjo pašalinimo iš pirkimo procedūros pagrindą būtų reikšmingai apribota konkurencija. Priimant sprendimus dėl tiekėjo pašalinimo iš pirkimo procedūros pagal [[#^s-36ceca9ba12e93056359f867|šio straipsnio 1 dalies 2 punkte]] ir [[#^s-d4e9770e74b18d39ecdc53fe|2 dalyje]] nurodytus pašalinimo pagrindus, gali būti atsižvelgiama į pagal šio įstatymo [[#^s-b22b745291440d7892cec5a4|38]] ir [[#^s-dea91621090a01f642ae4640|55]] straipsnius skelbiamą informaciją. ^s-f5771bfd96d34e8f1815e4f3
 
 
 5. Perkančioji organizacija, pirkimo dokumentuose reikalaudama, kad tiekėjas įrodytų, jog [[#^s-02f36b2de51538763d66fb69|šio straipsnio 1 dalies 1 punkte]] ir [[#^s-d4e9770e74b18d39ecdc53fe|2 dalies]] 1, 2, 3, 6 ir 7 punktuose nurodytų aplinkybių nėra, kaip pakankamą įrodymą priima teismo, valstybės įmonės Registrų centro ar kitos kompetentingos institucijos dokumentą. Tiekėjas nurodytoms aplinkybėms įrodyti gali pateikti valstybės įmonės Registrų centro Vyriausybės nustatyta tvarka išduotą dokumentą, patvirtinantį jungtinius kompetentingų institucijų tvarkomus duomenis. Perkančioji organizacija negali reikalauti dokumentų ir informacijos, kurie perkančiajai organizacijai pagal Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymą ar kitus teisės aktus yra neatlygintinai prieinami Lietuvos Respublikos registruose, valstybės informacinėse sistemose ir kitose informacinėse sistemose. ^s-0d2c1b4f8a0d6ad72c42af6c
 
 
-6. Perkančioji organizacija, pirkimo dokumentuose reikalaudama, kad tiekėjas ar jo subrangovas įrodytų, jog [[#^s-25f2b526f07884e76a0eeff2|šio straipsnio 2 dalies 5 punkte]] nurodytų aplinkybių nėra, pirkimų, susijusių su įslaptinta informacija, atvejais kaip įrodymą priima tiekėjo patikimumo pažymėjimą, įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimų atitiktį patvirtinančią pažymą ar tiekėjo leidimą dirbti ar susipažinti su įslaptinta informacija. Perkančioji organizacija visais atvejais gali laikyti, kad tiekėjas, jo subrangovas, ūkio subjektas, kurio pajėgumais remiamasi, gamintojas ar juos kontroliuojantis asmuo nėra patikimas ar kelia grėsmę nacionaliniam saugumui, jeigu ji gauna kompetentingų institucijų pateiktą tai patvirtinančią informaciją. Informaciją, reikalingą įvertinti, ar tiekėjas, jo subrangovas, ūkio subjektas, kurio pajėgumais remiamasi, gamintojas ar juos kontroliuojantis asmuo kelia grėsmę nacionaliniam saugumui, pagal perkančiosios organizacijos kreipimąsi teikia kompetentingos institucijos, vadovaudamosi [[latest/TAR.57E0E8B29108|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme]] nurodytais patikros dėl atitikties nacionalinio saugumo interesams vertinimo kriterijais. Perkančiųjų organizacijų, veikiančių gynybos srityje, atliekamų pirkimų atitikties nacionalinio saugumo interesams vertinimo tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-1ab4be26a9fea35fdba751b6
+6. Perkančioji organizacija, pirkimo dokumentuose reikalaudama, kad tiekėjas ar jo subrangovas įrodytų, jog [[#^s-25f2b526f07884e76a0eeff2|šio straipsnio 2 dalies 5 punkte]] nurodytų aplinkybių nėra, pirkimų, susijusių su įslaptinta informacija, atvejais kaip įrodymą priima tiekėjo patikimumo pažymėjimą, įslaptintos informacijos, žymimos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), apsaugos reikalavimų atitiktį patvirtinančią pažymą ar tiekėjo leidimą dirbti ar susipažinti su įslaptinta informacija. Perkančioji organizacija visais atvejais gali laikyti, kad tiekėjas, jo subrangovas, ūkio subjektas, kurio pajėgumais remiamasi, gamintojas ar juos kontroliuojantis asmuo nėra patikimas ar kelia grėsmę nacionaliniam saugumui, jeigu ji gauna kompetentingų institucijų pateiktą tai patvirtinančią informaciją. Informaciją, reikalingą įvertinti, ar tiekėjas, jo subrangovas, ūkio subjektas, kurio pajėgumais remiamasi, gamintojas ar juos kontroliuojantis asmuo kelia grėsmę nacionaliniam saugumui, pagal perkančiosios organizacijos kreipimąsi teikia kompetentingos institucijos, vadovaudamosi [[latest/TAR.57E0E8B29108|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme]] nurodytais patikros dėl atitikties nacionalinio saugumo interesams vertinimo kriterijais. Perkančiųjų organizacijų, veikiančių gynybos srityje, atliekamų pirkimų atitikties nacionalinio saugumo interesams vertinimo tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-1ab4be26a9fea35fdba751b6
 
 
 7. Jeigu perkančiajai organizacijai kyla abejonių dėl tiekėjo tinkamumo, ji turi teisę kreiptis į kompetentingas institucijas, kad gautų visą reikiamą informaciją. Jeigu reikalinga informacija yra susijusi su tiekėju iš kitos valstybės narės negu perkančioji organizacija, ji gali kreiptis į atitinkamas tos valstybės narės kompetentingas institucijas. ^s-c3eabca673df6d1d93bc0d34
@@ -1968,7 +1968,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 ### 38 straipsnis. Informacijos nuslėpimas ar melagingos informacijos pateikimas ^s-b22b745291440d7892cec5a4
 
 
-1. Perkančioji organizacija Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka skelbia šią informaciją apie tiekėją (jeigu pirkime dalyvauja tiekėjų grupė, – apie visus grupės narius), kuris pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šio įstatymo 34, 35, 36, [[#^s-388df325ebf1158b1567bb5e|37 straipsniuose]] nustatytiems reikalavimams: ^s-1f400892a4a577dba5893a1a
+1. Perkančioji organizacija Centrinėje viešųjų pirkimų informacinėje sistemoje Viešųjų pirkimų tarnybos nustatyta tvarka skelbia šią informaciją apie tiekėją (jeigu pirkime dalyvauja tiekėjų grupė, – apie visus grupės narius), kuris pirkimo procedūrų metu nuslėpė informaciją ar pateikė melagingą informaciją apie atitiktį šio įstatymo [[#^s-7829defa5e47769712803f6e|34]], [[#^s-3e6ff6c997530d8217b78fe3|35]], [[#^s-610e73a778e6b419257c70be|36]], [[#^s-388df325ebf1158b1567bb5e|37]] straipsniuose nustatytiems reikalavimams: ^s-1f400892a4a577dba5893a1a
 
 
 1) tiekėjo pavadinimas (jeigu tiekėjas yra fizinis asmuo, – vardas ir pavardė), perkančiosios organizacijos sprendimo pašalinti tiekėją pagal šio įstatymo [[#^s-662cbeedab6c0424f9c5d67b|34 straipsnio 2 dalies 8 punktą]] iš pirkimo procedūros priėmimo data ir priežastys, dėl kurių priimtas šis sprendimas; ^s-1213ac3547dd4474e87521be
@@ -2043,10 +2043,10 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 2) nurodyti, kad prekės ir paslaugos, pažymėtos ekologiniais ženklais, laikomos atitinkančiomis pirkimo dokumentuose nustatytas technines specifikacijas. Tokiu atveju ji privalo priimti bet kurias kitas tinkamas įrodymo priemones, įskaitant gamintojo techninius dokumentus arba paskelbtosios (notifikuotos) įstaigos atlikto bandymo protokolą. ^s-e59bbb5a26ab3bab4c4208fd
 
 
-7. Šio straipsnio 4 ir [[#^s-4c24cf6dd371259d4487fce8|5 dalyse]] nurodytos tinkamos priemonės gali būti gamintojo techniniai dokumentai arba paskelbtosios (notifikuotos) įstaigos atlikto bandymo protokolas. Paskelbtąja (notifikuota) įstaiga laikoma Europos standartus atitinkanti bandymų laboratorija, sertifikavimo ir kontrolės įstaiga. Perkančioji organizacija turi priimti kitose valstybėse narėse įsteigtų paskelbtųjų (notifikuotų) įstaigų išduotus atitiktį patvirtinančius dokumentus. ^s-81a94f076525e04d4d3a5bbb
+7. Šio straipsnio [[#^s-20e8ce80e67d6e523ae311e9|4]] ir [[#^s-4c24cf6dd371259d4487fce8|5]] dalyse nurodytos tinkamos priemonės gali būti gamintojo techniniai dokumentai arba paskelbtosios (notifikuotos) įstaigos atlikto bandymo protokolas. Paskelbtąja (notifikuota) įstaiga laikoma Europos standartus atitinkanti bandymų laboratorija, sertifikavimo ir kontrolės įstaiga. Perkančioji organizacija turi priimti kitose valstybėse narėse įsteigtų paskelbtųjų (notifikuotų) įstaigų išduotus atitiktį patvirtinančius dokumentus. ^s-81a94f076525e04d4d3a5bbb
 
 
-8. Apibūdinant pirkimo objektą, techninėje specifikacijoje negali būti nurodytas konkretus modelis ar šaltinis, konkretus procesas ar prekių ženklas, patentas, tipai, konkreti kilmė ar gamyba, dėl kurių tam tikroms įmonėms ar tam tikriems produktams būtų sudarytos palankesnės sąlygos arba jie būtų atmesti. Tokia nuoroda yra leistina išimties tvarka, kai pirkimo objekto neįmanoma tiksliai ir suprantamai apibūdinti pagal šio straipsnio 3 ir [[#^s-20e8ce80e67d6e523ae311e9|4 dalyse]] nustatytus reikalavimus. Šiuo atveju nuoroda pateikiama kartu su žodžiais „arba lygiavertis“. ^s-e0765d7678abadf2f8b56b14
+8. Apibūdinant pirkimo objektą, techninėje specifikacijoje negali būti nurodytas konkretus modelis ar šaltinis, konkretus procesas ar prekių ženklas, patentas, tipai, konkreti kilmė ar gamyba, dėl kurių tam tikroms įmonėms ar tam tikriems produktams būtų sudarytos palankesnės sąlygos arba jie būtų atmesti. Tokia nuoroda yra leistina išimties tvarka, kai pirkimo objekto neįmanoma tiksliai ir suprantamai apibūdinti pagal šio straipsnio [[#^s-d98f56862cb277eda259c3c6|3]] ir [[#^s-20e8ce80e67d6e523ae311e9|4]] dalyse nustatytus reikalavimus. Šiuo atveju nuoroda pateikiama kartu su žodžiais „arba lygiavertis“. ^s-e0765d7678abadf2f8b56b14
 
 
 9. Perkančioji organizacija, atlikdama pirkimus, kurių objektas apima [[latest/TAR.C54AFFAA7622#^s-9b44e2b589b0ade3c7dd391f|Viešųjų pirkimų įstatymo 92 straipsnio 13 dalyje]] numatytame sąraše nurodytų BVPŽ kodų prekes ar paslaugas, laiko, kad prekės ar paslaugos kelia grėsmę nacionaliniam saugumui, kai: ^s-9fdd7f833c26df8c344a0334
@@ -2125,7 +2125,7 @@ Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
 ### 42 straipsnis. Subrangos sutartys ^s-13d7a79eb3d943e9b2b1ef2f
 
 
-1. Laimėjęs dalyvis gali laisvai pasirinkti savo subrangovus visoms subrangos sutartims, išskyrus šio straipsnio 3 ir [[#^s-624f52bc82c692579c6df690|4 dalyse]] nurodytus atvejus. Pirkimo dokumentuose laimėjusiam dalyviui neturi būti nustatomi diskriminaciniai reikalavimai renkantis subrangovus. ^s-1081ec98554882f8dfc22dbb
+1. Laimėjęs dalyvis gali laisvai pasirinkti savo subrangovus visoms subrangos sutartims, išskyrus šio straipsnio [[#^s-ffdccb86c24615db4f42beec|3]] ir [[#^s-624f52bc82c692579c6df690|4]] dalyse nurodytus atvejus. Pirkimo dokumentuose laimėjusiam dalyviui neturi būti nustatomi diskriminaciniai reikalavimai renkantis subrangovus. ^s-1081ec98554882f8dfc22dbb
 
 
 2. Perkančioji organizacija pirkimo dokumentuose gali (jeigu nustato tiesioginio atsiskaitymo su subrangovais galimybę pagal [[#^s-f99461506d397b86a2d462b9|šio straipsnio 12 dalį]], – privalo) nustatyti, kad kandidatas ar dalyvis savo paraiškoje ar pasiūlyme nurodytų, kokiai ir kuriai pirkimo sutarties daliai ir kokius subrangovus jis ketina pasitelkti subrangos sutarčiai vykdyti. Pirkimo dokumentuose galima (jeigu nustato tiesioginio atsiskaitymo su subrangovais galimybę pagal [[#^s-f99461506d397b86a2d462b9|šio straipsnio 12 dalį]], – privaloma) nustatyti, kad kandidatas ar dalyvis savo paraiškoje ar pasiūlyme nurodytų įsipareigojimą pranešti perkančiajai organizacijai apie subrangovų pasikeitimą pirkimo sutarties vykdymo laikotarpiu. ^s-0508a54c837840ef2f5b2a5c
@@ -2155,10 +2155,10 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 9. Jeigu perkančioji organizacija numato, kad laimėjęs dalyvis, kuris nėra perkančioji organizacija, subrangos sutartis turi sudaryti vadovaudamasis šio įstatymo III skyriaus nuostatomis, pirkimo dokumentuose turi būti reikalaujama, kad kandidatas ar dalyvis savo pasiūlyme nurodytų su juo susijusių įmonių grupių sąrašą arba įmonių grupes, sudarytas siekiant laimėti pirkimą. Tokios įmonių grupės nelaikomos trečiaisiais asmenimis – subrangovais. Jeigu kandidatas ar dalyvis šį sąrašą pakeičia, apie sąrašo pakeitimus jis turi informuoti perkančiąją organizaciją. ^s-9528ead46607f148fcd424bd
 
 
-10. Šio straipsnio 2–[[#^s-75b9d75a72a770da9ffabe77|8 dalyse]] nustatyti reikalavimai nurodomi skelbime apie pirkimą. ^s-144c1df5c45396afb16012ff
+10. Šio straipsnio [[#^s-0508a54c837840ef2f5b2a5c|2]]–[[#^s-75b9d75a72a770da9ffabe77|8]] dalyse nustatyti reikalavimai nurodomi skelbime apie pirkimą. ^s-144c1df5c45396afb16012ff
 
 
-11. Pagal šio straipsnio 1–[[#^s-75b9d75a72a770da9ffabe77|8 dalių]] nuostatas perkančiosios organizacijos nustatyti reikalavimai nekeičia laimėjusio dalyvio atsakomybės dėl numatomos sudaryti pirkimo sutarties įvykdymo. ^s-e3438b07458248229f6c730d
+11. Pagal šio straipsnio [[#^s-1081ec98554882f8dfc22dbb|1]]–[[#^s-75b9d75a72a770da9ffabe77|8]] dalių nuostatas perkančiosios organizacijos nustatyti reikalavimai nekeičia laimėjusio dalyvio atsakomybės dėl numatomos sudaryti pirkimo sutarties įvykdymo. ^s-e3438b07458248229f6c730d
 
 
 12. Jeigu tai leidžiama dėl pirkimo sutarties pobūdžio, perkančioji organizacija pirkimo dokumentuose gali nustatyti tiesioginio atsiskaitymo su subrangovais galimybę ir tokio atsiskaitymo tvarką, kurioje, be kitų reikalavimų, turi būti nustatyta teisė tiekėjui prieštarauti nepagrįstiems mokėjimams. Perkančioji organizacija ne vėliau kaip per 3 darbo dienas nuo informacijos apie pasirinktus subrangovus gavimo dienos raštu informuoja subrangovą apie tokią tiesioginio atsiskaitymo galimybę, o subrangovas, norėdamas pasinaudoti tokia galimybe, raštu pateikia prašymą perkančiajai organizacijai. Kai subrangovas išreiškia norą pasinaudoti tiesioginio atsiskaitymo galimybe, turi būti sudaroma trišalė sutartis tarp perkančiosios organizacijos, pirkimo sutartį sudariusio tiekėjo ir jo subrangovo, kurioje aprašoma tiesioginio atsiskaitymo su subrangovu tvarka, atsižvelgiant į pirkimo dokumentuose ir subrangos sutartyje nustatytus reikalavimus. ^s-f99461506d397b86a2d462b9
@@ -2278,7 +2278,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 1. Informacija, kuri turi būti nurodyta skelbimuose, skelbimų standartinės formos ir skelbimų reikalavimai nustatyti: ^s-c007e7859ab7d73666468b2a
 
 
-1) pirkimų, kurių vertė yra didesnė už nustatytas tarptautinio pirkimo vertės ribas, atveju –2019 m. rugsėjo 23 d. Komisijos įgyvendinimo reglamente (ES) 2019/1780, kuriuo nustatomos viešųjų pirkimų skelbimo standartinės formos ir panaikinamas Įgyvendinimo reglamentas (ES) 2015/1986 (e. formos); ^s-3d0b48445d7459982c040c9e
+1) pirkimų, kurių vertė yra didesnė už nustatytas tarptautinio pirkimo vertės ribas, atveju –2019 m. rugsėjo 23 d. Komisijos įgyvendinimo [reglamente (ES) 2019/1780](https://eur-lex.europa.eu/eli/reg/2019/1780/oj), kuriuo nustatomos viešųjų pirkimų skelbimo standartinės formos ir panaikinamas Įgyvendinimo [reglamentas (ES) 2015/1986](https://eur-lex.europa.eu/eli/reg/2015/1986/oj) (e. formos); ^s-3d0b48445d7459982c040c9e
 TAR pastaba. 1 dalies 1 punktas įsigalioja 2022-12-30.
 Straipsnio punkto pakeitimai:
 Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
@@ -2331,7 +2331,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 1) kandidatams, kurių paraiškos buvo atmestos, – paraiškų atmetimo priežastis; ^s-eb481979570343fa56d2e783
 
 
-2) dalyviui, kurio pasiūlymas buvo atmestas, – pasiūlymo atmetimo priežastis, įskaitant, jeigu taikoma, informaciją apie tai, kad buvo remtasi šio įstatymo [[#^s-e45e27731a42b4727bcf81f5|28 straipsnio 6 dalies]] ir šio įstatymo [[#^s-a7c15a9b9a543e1f8e2de067|40 straipsnio]] 4 ir [[#^s-8fafbc6ecc8526d561a361ea|5 dalių]] nuostatomis; taip pat priežastis, dėl kurių priimtas sprendimas dėl nelygiavertiškumo arba sprendimas, kad prekės, paslaugos ar darbai neatitinka rezultatų apibūdinimo ar funkcinių reikalavimų, ir priežastis, dėl kurių priimtas sprendimas dėl pasiūlymų neatitikties informacijos apsaugos ir tiekimo patikimumo reikalavimams; ^s-2c32520b6cca67eff97b13e0
+2) dalyviui, kurio pasiūlymas buvo atmestas, – pasiūlymo atmetimo priežastis, įskaitant, jeigu taikoma, informaciją apie tai, kad buvo remtasi šio įstatymo [[#^s-e45e27731a42b4727bcf81f5|28 straipsnio 6 dalies]] ir šio įstatymo [[#^s-a7c15a9b9a543e1f8e2de067|40 straipsnio]] [[#^s-20e8ce80e67d6e523ae311e9|4]] ir [[#^s-4c24cf6dd371259d4487fce8|5]] dalių nuostatomis; taip pat priežastis, dėl kurių priimtas sprendimas dėl nelygiavertiškumo arba sprendimas, kad prekės, paslaugos ar darbai neatitinka rezultatų apibūdinimo ar funkcinių reikalavimų, ir priežastis, dėl kurių priimtas sprendimas dėl pasiūlymų neatitikties informacijos apsaugos ir tiekimo patikimumo reikalavimams; ^s-2c32520b6cca67eff97b13e0
 
 
 3) dalyviui, kurio pasiūlymas nebuvo atmestas, – laimėjusio pasiūlymo charakteristikas ir santykinius pranašumus, dėl kurių šis pasiūlymas buvo pripažintas geriausiu, taip pat šį pasiūlymą pateikusio dalyvio ar preliminariosios sutarties šalių pavadinimus. ^s-42009bd311972894c8ee2a21
@@ -2470,7 +2470,7 @@ KITOS PIRKIMO PROCEDŪROS
 2. Sudarant preliminariąją sutartį ir pirkimo sutartį preliminariosios sutarties pagrindu, vadovaujamasi šio įstatymo nuostatomis. ^s-df3d816273cfea148a1f3933
 
 
-3. Pirkimo sutartis preliminariosios sutarties pagrindu perkančioji organizacija gali sudaryti laikydamasi šio straipsnio 7, 8, 9, [[#^s-17e1b11bbc3c4477c1f68ba4|10 dalyse]] nustatytų reikalavimų. Šios sutartys gali būti sudaromos tik su tais tiekėjais, kurie yra preliminariosios sutarties šalys. ^s-9687b07ea44e11f32e91875e
+3. Pirkimo sutartis preliminariosios sutarties pagrindu perkančioji organizacija gali sudaryti laikydamasi šio straipsnio [[#^s-c83f0b7018621ff40bc94da3|7]], [[#^s-1b53b3b40c5b338f8d917b4c|8]], [[#^s-42c440a19437f732e521c5df|9]], [[#^s-17e1b11bbc3c4477c1f68ba4|10]] dalyse nustatytų reikalavimų. Šios sutartys gali būti sudaromos tik su tais tiekėjais, kurie yra preliminariosios sutarties šalys. ^s-9687b07ea44e11f32e91875e
 
 
 4. Kai pirkimo sutartys sudaromos preliminariosios sutarties pagrindu, šalys negali daryti esminių preliminariosios sutarties sąlygų pakeitimų. ^s-1b9df9ccb02f0cc8482e8bcc
@@ -2747,7 +2747,7 @@ Subrangos sutartys, sudaromos laimėjusių dalyvių, kuriE nėra perkančioSIOS 
 ### 56 straipsnis. Bendrieji reikalavimai ^s-522a3614c19157df6beaab77
 
 
-1. Laimėjęs dalyvis, kuris nėra perkančioji organizacija, sudarydamas subrangos sutartis, kurioms taikomi šio įstatymo [[#^s-13d7a79eb3d943e9b2b1ef2f|42 straipsnio]] 3 ir 4 dalyse nustatyti reikalavimai, vadovaujasi šio skirsnio nuostatomis. ^s-8936e41a6980f444627c17f8
+1. Laimėjęs dalyvis, kuris nėra perkančioji organizacija, sudarydamas subrangos sutartis, kurioms taikomi šio įstatymo [[#^s-13d7a79eb3d943e9b2b1ef2f|42 straipsnio]] [[#^s-ffdccb86c24615db4f42beec|3]] ir [[#^s-624f52bc82c692579c6df690|4]] dalyse nustatyti reikalavimai, vadovaujasi šio skirsnio nuostatomis. ^s-8936e41a6980f444627c17f8
 
 
 2. Laimėjęs dalyvis sudarydamas subrangos sutartį turi vadovautis skaidrumo, lygiateisiškumo ir nediskriminavimo principais. ^s-88aeb2f7a66ca101ad180b43
@@ -2757,7 +2757,7 @@ Subrangos sutartys, sudaromos laimėjusių dalyvių, kuriE nėra perkančioSIOS 
 ### 57 straipsnis. Skelbimai apie subrangos sutartį ^s-8c68eb3e852eea675b340459
 
 
-1. Laimėjęs dalyvis, kuris nėra perkančioji organizacija, apie numatomą sudaryti subrangos sutartį privalo paskelbti skelbimą, jeigu numatoma subrangos sutarties vertė, apskaičiuota pagal šio įstatymo [[#^s-fa06ab85aec1d64e7e53d747|15 straipsnio]] nuostatas, yra ne mažesnė kaip šio įstatymo [[#^s-ac08e69cb70f667102296eb1|16 straipsnio 1 dalyje]] nurodyta pirkimo vertės riba. Šis reikalavimas netaikomas, jeigu numatomai sudaryti subrangos sutarčiai galioja bent viena iš šio įstatymo [[#^s-472aebd640f8b940465ba48e|19 straipsnio]] 4, 5, 6, 7, 8 dalyse nurodytų sąlygų. ^s-9a1b16b2ccfff3091a822d66
+1. Laimėjęs dalyvis, kuris nėra perkančioji organizacija, apie numatomą sudaryti subrangos sutartį privalo paskelbti skelbimą, jeigu numatoma subrangos sutarties vertė, apskaičiuota pagal šio įstatymo [[#^s-fa06ab85aec1d64e7e53d747|15 straipsnio]] nuostatas, yra ne mažesnė kaip šio įstatymo [[#^s-ac08e69cb70f667102296eb1|16 straipsnio 1 dalyje]] nurodyta pirkimo vertės riba. Šis reikalavimas netaikomas, jeigu numatomai sudaryti subrangos sutarčiai galioja bent viena iš šio įstatymo [[#^s-472aebd640f8b940465ba48e|19 straipsnio]] [[#^s-477dbd7f8972c353f1d86162|4]], [[#^s-651690d293829bb00e81c0e0|5]], [[#^s-4ff85622a709f58e79bd6c6d|6]], [[#^s-a39c08d0779a83ab98a2f3ac|7]], [[#^s-f123470a79706b5d0790516e|8]] dalyse nurodytų sąlygų. ^s-9a1b16b2ccfff3091a822d66
 
 
 2. Skelbime turi būti nurodyta: ^s-24c34ddf9e86ba39de278aed
@@ -2787,7 +2787,7 @@ Subrangos sutartys, sudaromos laimėjusių dalyvių, kuriE nėra perkančioSIOS 
 8) skelbimo išsiuntimo data. ^s-2a886af0df2e808d49bbb65c
 
 
-3. Skelbimai apie subrangos sutarties sudarymą skelbiami šio įstatymo [[#^s-5ebccca4bb4909fff0b3ccb9|46 straipsnio]] 2–8 dalyse nustatyta tvarka. Laimėjęs dalyvis, kuris nėra perkančioji organizacija, vadovaudamasis šio įstatymo [[#^s-344a44ca7a84389e4c683723|45 straipsnio 6 dalies]] ir [[#^s-5ebccca4bb4909fff0b3ccb9|46 straipsnio]] nuostatomis, gali paskelbti skelbimą apie numatomą sudaryti subrangos sutartį, kurio skelbti nėra privaloma. ^s-b78b8860c09f594828824930
+3. Skelbimai apie subrangos sutarties sudarymą skelbiami šio įstatymo [[#^s-5ebccca4bb4909fff0b3ccb9|46 straipsnio]] [[#^s-e8f8e39d1968afe7cbd588df|2]]–[[#^s-b9e315cf114045f0f298cb8b|8]] dalyse nustatyta tvarka. Laimėjęs dalyvis, kuris nėra perkančioji organizacija, vadovaudamasis šio įstatymo [[#^s-344a44ca7a84389e4c683723|45 straipsnio 6 dalies]] ir [[#^s-5ebccca4bb4909fff0b3ccb9|46 straipsnio]] nuostatomis, gali paskelbti skelbimą apie numatomą sudaryti subrangos sutartį, kurio skelbti nėra privaloma. ^s-b78b8860c09f594828824930
 
 
 4. Laimėjęs dalyvis, sudarydamas subrangos sutartį, kurios vertė yra mažesnė už šio įstatymo [[#^s-ac08e69cb70f667102296eb1|16 straipsnio 1 dalyje]] nurodytą pirkimo vertės ribą, vadovaujasi supaprastintiems pirkimams taikomais šio įstatymo reikalavimais. ^s-02192308f13075dbbfc5f3e4
@@ -2800,7 +2800,7 @@ Subrangos sutartys, sudaromos laimėjusių dalyvių, kuriE nėra perkančioSIOS 
 1. Laimėjęs dalyvis, kuris nėra perkančioji organizacija, gali sudaryti subrangos sutartis preliminariosios sutarties pagrindu. ^s-e04a5358d9fadbb5f1f26c3b
 
 
-2. Jeigu laimėjęs dalyvis subrangos sutartis sudaro preliminariosios sutarties, sudarytos laikantis šio įstatymo [[#^s-88aeb2f7a66ca101ad180b43|56 straipsnio 2 dalyje]], [[#^s-8c68eb3e852eea675b340459|57 straipsnio]] 1, 2, [[#^s-d63407bdaf41756b40104ac6|3 dalyse]] ir [[#^s-3a768a845330e74130efb3b4|59 straipsnyje]] nustatytų reikalavimų, pagrindu, laikoma, kad subrangos sutartis atitinka šio įstatymo [[#^s-13d7a79eb3d943e9b2b1ef2f|42 straipsnio]] 3 ir [[#^s-ef2ea1b53fe21c725357e077|4 dalyse]] nustatytus reikalavimus. ^s-b2b0d579bb33d7daa92127a8
+2. Jeigu laimėjęs dalyvis subrangos sutartis sudaro preliminariosios sutarties, sudarytos laikantis šio įstatymo [[#^s-88aeb2f7a66ca101ad180b43|56 straipsnio 2 dalyje]], [[#^s-8c68eb3e852eea675b340459|57 straipsnio]] [[#^s-9a1b16b2ccfff3091a822d66|1]], [[#^s-24c34ddf9e86ba39de278aed|2]], [[#^s-b78b8860c09f594828824930|3]] dalyse ir [[#^s-3a768a845330e74130efb3b4|59 straipsnyje]] nustatytų reikalavimų, pagrindu, laikoma, kad subrangos sutartis atitinka šio įstatymo [[#^s-13d7a79eb3d943e9b2b1ef2f|42 straipsnio]] [[#^s-ffdccb86c24615db4f42beec|3]] ir [[#^s-624f52bc82c692579c6df690|4]] dalyse nustatytus reikalavimus. ^s-b2b0d579bb33d7daa92127a8
 
 
 3. Laimėjęs dalyvis, kuris nėra perkančioji organizacija, sudarydamas subrangos sutartis preliminariosios sutarties pagrindu, turi laikytis preliminariojoje sutartyje nustatytų reikalavimų. Tokios sutartys gali būti sudaromos tik su tais tiekėjais, su kuriais sudaryta preliminarioji sutartis. ^s-d63407bdaf41756b40104ac6
@@ -2819,7 +2819,7 @@ Subrangos sutartys, sudaromos laimėjusių dalyvių, kuriE nėra perkančioSIOS 
 ### 59 straipsnis. Subrangovų kvalifikacijos patikrinimas ^s-3a768a845330e74130efb3b4
 
 
-1. Laimėjęs dalyvis, kuris nėra perkančioji organizacija, privalo nustatyti, ar subrangovas yra kompetentingas, patikimas ir pajėgus įvykdyti subrangos sutarties sąlygas, todėl jis skelbime apie subrangos sutartį turi nustatyti minimalius kvalifikacinius (teisės verstis atitinkama veikla, finansinio, ekonominio ir techninio pajėgumo) reikalavimus, kurie bus taikomi atliekant subrangovų atranką. Minimalūs kvalifikaciniai reikalavimai nustatomi vadovaujantis šio įstatymo 36, 37, 39, [[#^s-a7c15a9b9a543e1f8e2de067|40 straipsnių]] nuostatomis. ^s-8ab771cc26400ad6f0dc2460
+1. Laimėjęs dalyvis, kuris nėra perkančioji organizacija, privalo nustatyti, ar subrangovas yra kompetentingas, patikimas ir pajėgus įvykdyti subrangos sutarties sąlygas, todėl jis skelbime apie subrangos sutartį turi nustatyti minimalius kvalifikacinius (teisės verstis atitinkama veikla, finansinio, ekonominio ir techninio pajėgumo) reikalavimus, kurie bus taikomi atliekant subrangovų atranką. Minimalūs kvalifikaciniai reikalavimai nustatomi vadovaujantis šio įstatymo [[#^s-610e73a778e6b419257c70be|36]], [[#^s-388df325ebf1158b1567bb5e|37]], [[#^s-073edba0b9be389bc4050765|39]], [[#^s-a7c15a9b9a543e1f8e2de067|40]] straipsnių nuostatomis. ^s-8ab771cc26400ad6f0dc2460
 
 
 2. Laimėjusio dalyvio, kuris nėra perkančioji organizacija, nustatyti minimalūs kvalifikaciniai reikalavimai turi būti objektyvūs, nediskriminaciniai ir negali dirbtinai riboti konkurencijos. Jie turi būti pagrįsti ir proporcingi subrangos sutarties objektui, tikslūs ir aiškūs. ^s-aca10cf64081236332f7c6bc
@@ -2884,7 +2884,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 5) pirkimo sutarties nutraukimo dėl esminio pirkimo sutarties pažeidimo pripažinimo nepagrįstu. ^s-86b11ed15a00d9df1d8dd686
 
 
-4. Tiekėjas gali pateikti prašymą teismui dėl laikinųjų apsaugos priemonių taikymo Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-b66b07cc1adc266582523dc8
+4. Tiekėjas gali pateikti prašymą teismui dėl laikinųjų apsaugos priemonių taikymo [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-b66b07cc1adc266582523dc8
 
 
 
@@ -3003,7 +3003,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 1. Teismas taiko alternatyvias sankcijas pagal [[#^s-b462cbba145c48a8c88f7eca|šio straipsnio 4 dalį]], jeigu perkančioji organizacija pažeidė šio įstatymo [[#^s-d7bb126eae8c4073502da28b|63 straipsnio 2 dalyje]], [[#^s-44485bc18dc8a28be5c2dd41|64 straipsnio 2 dalyje]] ar [[#^s-f980989b66dce7a85d980f32|52 straipsnio 7 dalyje]] nustatytus reikalavimus, tačiau nėra kitų šio įstatymo [[#^s-3b6c18558d002bcf9fa6ac6d|65 straipsnio 1 dalies 2 punkte]] nurodytų aplinkybių. ^s-f0cab4273ddc73e111ec3275
 
 
-2. Teismas gali nepripažinti pirkimo sutarties negaliojančia ir taikyti alternatyvias sankcijas pagal [[#^s-b462cbba145c48a8c88f7eca|šio straipsnio 4 dalį]], nors pirkimo sutartis buvo sudaryta pažeidžiant šio įstatymo reikalavimus, kaip tai nustatyta šio įstatymo [[#^s-609b1a665455c0e2edbe1682|65 straipsnio]] 1 ir [[#^s-77354094704a63b3219e3824|2 dalyse]], jeigu dėl viešojo intereso (pirmiausia dėl gynybos ir (arba) saugumo intereso), įskaitant su pirkimo sutartimi nesusijusius ekonominius interesus, dėl kurių pirkimo sutarties pripažinimas negaliojančia turėtų neproporcingų pasekmių, būtina išsaugoti pirkimo sutarties pasekmes. Tiesiogiai su pirkimo sutartimi susiję ekonominiai interesai apima, be kita ko, išlaidas, susidariusias dėl vėlavimo vykdyti pirkimo sutartį, naujos pirkimo procedūros pradėjimo, pirkimo sutartį vykdančio tiekėjo pakeitimo, teisinių pareigų, kurios atsirado pripažinus pirkimo sutartį negaliojančia. Visais atvejais pirkimo sutartis negali būti pripažįstama negaliojančia ir taikomos alternatyvios sankcijos, jeigu dėl pirkimo sutarties pripažinimo negaliojančia galėtų kilti rimtas pavojus valstybinių saugumo stiprinimo programų įgyvendinimui. ^s-77354094704a63b3219e3824
+2. Teismas gali nepripažinti pirkimo sutarties negaliojančia ir taikyti alternatyvias sankcijas pagal [[#^s-b462cbba145c48a8c88f7eca|šio straipsnio 4 dalį]], nors pirkimo sutartis buvo sudaryta pažeidžiant šio įstatymo reikalavimus, kaip tai nustatyta šio įstatymo [[#^s-609b1a665455c0e2edbe1682|65 straipsnio]] [[#^s-3329e651c834743ad51149ca|1]] ir [[#^s-6de247c033bac57a1911c1fb|2]] dalyse, jeigu dėl viešojo intereso (pirmiausia dėl gynybos ir (arba) saugumo intereso), įskaitant su pirkimo sutartimi nesusijusius ekonominius interesus, dėl kurių pirkimo sutarties pripažinimas negaliojančia turėtų neproporcingų pasekmių, būtina išsaugoti pirkimo sutarties pasekmes. Tiesiogiai su pirkimo sutartimi susiję ekonominiai interesai apima, be kita ko, išlaidas, susidariusias dėl vėlavimo vykdyti pirkimo sutartį, naujos pirkimo procedūros pradėjimo, pirkimo sutartį vykdančio tiekėjo pakeitimo, teisinių pareigų, kurios atsirado pripažinus pirkimo sutartį negaliojančia. Visais atvejais pirkimo sutartis negali būti pripažįstama negaliojančia ir taikomos alternatyvios sankcijos, jeigu dėl pirkimo sutarties pripažinimo negaliojančia galėtų kilti rimtas pavojus valstybinių saugumo stiprinimo programų įgyvendinimui. ^s-77354094704a63b3219e3824
 
 
 3. Teismas, pripažindamas pirkimo sutartį negaliojančia tik nuo jo sprendimo įsiteisėjimo, papildomai turi taikyti alternatyvias sankcijas pagal [[#^s-0ded9fa9358995f7bac1dbb2|šio straipsnio 4 dalies 2 punktą]], atsižvelgdamas į likusius neįvykdytus pirkimo sutarties įsipareigojimus. ^s-09278049e5a29ca2ab5365e2
@@ -3025,7 +3025,7 @@ Nr. XIV-1675, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27266
 ### 67 straipsnis. Žalos atlyginimas ^s-a9aa207db400db6dc057c275
 
 
-Teismas tenkina tiekėjo reikalavimą tik dėl žalos atlyginimo, jeigu pirkimo sutartis jau sudaryta, o perkančioji organizacija pirkimo procedūrų metu laikėsi šio įstatymo [[#^s-e9201f3136009875b820474d|28 straipsnio 3 dalyje]], [[#^s-a351ab85267a6629efe84062|33 straipsnio 7 dalyje]], [[#^s-fe990b607ad47e561d182811|47 straipsnio 1 dalyje]], [[#^s-d95be7d61ddf60f1236b867a|52 straipsnio]] 1 ir 7 dalyse, [[#^s-36ed04b9daeb3a1165b8b360|62 straipsnyje]], [[#^s-d7bb126eae8c4073502da28b|63 straipsnio 2 dalyje]], [[#^s-44485bc18dc8a28be5c2dd41|64 straipsnio 2 dalyje]], 65, [[#^s-04a5ed2ece3877dbc5d692de|66 straipsniuose]] nustatytų reikalavimų.
+Teismas tenkina tiekėjo reikalavimą tik dėl žalos atlyginimo, jeigu pirkimo sutartis jau sudaryta, o perkančioji organizacija pirkimo procedūrų metu laikėsi šio įstatymo [[#^s-e9201f3136009875b820474d|28 straipsnio 3 dalyje]], [[#^s-a351ab85267a6629efe84062|33 straipsnio 7 dalyje]], [[#^s-fe990b607ad47e561d182811|47 straipsnio 1 dalyje]], [[#^s-d95be7d61ddf60f1236b867a|52 straipsnio]] [[#^s-3f6668a64b0cc50a04186320|1]] ir [[#^s-f980989b66dce7a85d980f32|7]] dalyse, [[#^s-36ed04b9daeb3a1165b8b360|62 straipsnyje]], [[#^s-d7bb126eae8c4073502da28b|63 straipsnio 2 dalyje]], [[#^s-44485bc18dc8a28be5c2dd41|64 straipsnio 2 dalyje]], [[#^s-609b1a665455c0e2edbe1682|65]], [[#^s-04a5ed2ece3877dbc5d692de|66]] straipsniuose nustatytų reikalavimų.
 
 
 
@@ -3322,17 +3322,17 @@ Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje,
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1180, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13564
-Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 15, 24 ir [[#^s-c6fc9bbb28721aecd5ed1bff|50 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 [[#^s-fa06ab85aec1d64e7e53d747|15]], [[#^s-b2310550c548d4aaf3c76950|24]] ir [[#^s-c6fc9bbb28721aecd5ed1bff|50]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2381, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14742
-Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 32 ir [[#^s-01f832b13470b85413be8adb|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 [[#^s-80c7d4ec82d92b629474b655|32]] ir [[#^s-01f832b13470b85413be8adb|33]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-331, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07554
-Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 1, 2, 3, 4, 5, 9, 10, 16, 24, 25, 32, [[#^s-5d295f9ecc2078591a8b36fe|64 straipsnių]] pakeitimo ir Įstatymo papildymo nauju [[#^s-5d295f9ecc2078591a8b36fe|64 straipsniu]] įstatymas
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 [[#^s-bc4b1019353b89659e29b477|1]], [[#^s-6afe10bd630767085d9d3bc2|2]], [[#^s-2cf252e8f3ff37e3ddb8b23d|3]], [[#^s-a2915a7e991cf25e40957646|4]], [[#^s-24baa249d26f1c96a816f6df|5]], [[#^s-92cb6cff4f6dd2c417d337e9|9]], [[#^s-ad8ed2e01aff3e0c27eebbc7|10]], [[#^s-7a36d595098707682ba27c32|16]], [[#^s-b2310550c548d4aaf3c76950|24]], [[#^s-86baf11418e20f75f5fcabe2|25]], [[#^s-80c7d4ec82d92b629474b655|32]], [[#^s-5d295f9ecc2078591a8b36fe|64]] straipsnių pakeitimo ir Įstatymo papildymo nauju [[#^s-5d295f9ecc2078591a8b36fe|64 straipsniu]] įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3352,7 +3352,7 @@ Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje,
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-956, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05376
-Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 4, 6, 17, 24, 33, 34, 40, 44 ir [[#^s-c5d27e30466c59296b21442e|54 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 [[#^s-a2915a7e991cf25e40957646|4]], [[#^s-c1ab68aeec481bc9ec3a2bd8|6]], [[#^s-2fa24207d8affb0d9d3e5e32|17]], [[#^s-b2310550c548d4aaf3c76950|24]], [[#^s-01f832b13470b85413be8adb|33]], [[#^s-7829defa5e47769712803f6e|34]], [[#^s-a7c15a9b9a543e1f8e2de067|40]], [[#^s-2a6310fdcbc241e365aa0e79|44]] ir [[#^s-c5d27e30466c59296b21442e|54]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3367,7 +3367,7 @@ Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje,
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2534, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07267
-Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 15, 16, 40 ir [[#^s-d95be7d61ddf60f1236b867a|52 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 [[#^s-fa06ab85aec1d64e7e53d747|15]], [[#^s-7a36d595098707682ba27c32|16]], [[#^s-a7c15a9b9a543e1f8e2de067|40]] ir [[#^s-d95be7d61ddf60f1236b867a|52]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas

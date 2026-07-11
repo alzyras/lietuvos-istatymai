@@ -43,7 +43,7 @@ Vilnius
 1. Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip: ^s-85f0ce2e8051cbf7a5b1995f
 
 
-„2. Atleisti iš darbo darbuotojai, įsiregistravę teritorinėje darbo biržoje ne vėliau kaip per 6 mėnesius nuo atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Jų užimtumui remti aktyvios darbo rinkos politikos priemonių taikymą nustato Užimtumo rėmimo įstatymas.“
+„2. Atleisti iš darbo darbuotojai, įsiregistravę teritorinėje darbo biržoje ne vėliau kaip per 6 mėnesius nuo atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Jų užimtumui remti aktyvios darbo rinkos politikos priemonių taikymą nustato [Užimtumo rėmimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5).“
 
 
 2. 4 straipsnio 3 dalį pripažinti netekusia galios. ^s-a7dd96a30b8812416b320f97
@@ -56,7 +56,7 @@ Vilnius
 Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Atleidžiamų ar atleistų iš darbo darbuotojų nedirbantys darbingi darbingo amžiaus šeimos nariai, įsiregistravę teritorinėje darbo biržoje ne vėliau kaip per 6 mėnesius nuo atleistų iš darbo darbuotojų atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Jų užimtumui remti aktyvios darbo rinkos politikos priemonių taikymą nustato Užimtumo rėmimo įstatymas. Teritorinėje darbo biržoje įsiregistravusiems atleidžiamų ar atleistų iš darbo darbuotojų nedirbantiems šeimos nariams, kurie neturi nustatyto valstybinio socialinio draudimo stažo nedarbo socialinio draudimo išmokai gauti, valstybės remiamų pajamų dydžio nedarbo socialinio draudimo išmoka skiriama pagal [[latest/TAR.FDF42614DE52#^s-f068e99e35e012b5dcfed19a|Nedarbo socialinio draudimo įstatymo 6 straipsnio 1 dalį]], o išmokama – 7 straipsnyje nustatyta tvarka.“
+„1. Atleidžiamų ar atleistų iš darbo darbuotojų nedirbantys darbingi darbingo amžiaus šeimos nariai, įsiregistravę teritorinėje darbo biržoje ne vėliau kaip per 6 mėnesius nuo atleistų iš darbo darbuotojų atleidimo dienos, yra darbo rinkoje papildomai remiami asmenys. Jų užimtumui remti aktyvios darbo rinkos politikos priemonių taikymą nustato [Užimtumo rėmimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5). Teritorinėje darbo biržoje įsiregistravusiems atleidžiamų ar atleistų iš darbo darbuotojų nedirbantiems šeimos nariams, kurie neturi nustatyto valstybinio socialinio draudimo stažo nedarbo socialinio draudimo išmokai gauti, valstybės remiamų pajamų dydžio nedarbo socialinio draudimo išmoka skiriama pagal [[latest/TAR.FDF42614DE52#^s-f068e99e35e012b5dcfed19a|Nedarbo socialinio draudimo įstatymo 6 straipsnio 1 dalį]], o išmokama – 7 straipsnyje nustatyta tvarka.“
 
 
 

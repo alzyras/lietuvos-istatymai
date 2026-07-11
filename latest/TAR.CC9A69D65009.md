@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 6 straipsnio papildymas ir pakeitimas ^s-bce0234412fe5534f2751e7a
 
 
-Papildyti 6 straipsnį nauju [[#^s-4070c3615f5a55c3f8fba7ba|2 punktu]], buvusius 2, 3, [[#^s-7fb89150ffd52031f8c662b4|4 punktus]] laikyti atitinkamai 3, 4, [[#^s-58f56c0bf793720e4a979798|5 punktais]] ir visą straipsnį išdėstyti taip:
+Papildyti 6 straipsnį nauju [[#^s-4070c3615f5a55c3f8fba7ba|2 punktu]], buvusius 2, 3, 4 punktus laikyti atitinkamai 3, 4, 5 punktais ir visą straipsnį išdėstyti taip:
 
 
 „6 straipsnis. Tarnybos uždaviniai
@@ -67,7 +67,7 @@ Tarnybos uždaviniai:
 ### 2 straipsnis. 7 straipsnio papildymas ir pakeitimas ^s-81df1b4da400f4715d4f6185
 
 
-Papildyti 7 straipsnį naujais 3, 5, 8 ir [[#^s-8323300a5fd178e757ce4f92|9 punktais]], buvusius 3, 4, 5, 6, 7, 8, [[#^s-8323300a5fd178e757ce4f92|9 punktus]] laikyti atitinkamai 4, 6, 7, 10, 11, 12, [[#^s-03d13ff96ba0424bfd7d742f|13 punktais]], [[#^s-b3115ba854c5e439490efb68|7 punkte]] po žodžio „lėšų“ įrašyti žodžius „Europos Sąjungos ir užsienio valstybių finansinės paramos lėšų“ ir visą straipsnį išdėstyti taip:
+Papildyti 7 straipsnį naujais 3, 5, 8 ir 9 punktais, buvusius 3, 4, 5, 6, 7, 8, 9 punktus laikyti atitinkamai 4, 6, 7, 10, 11, 12, 13 punktais, [[#^s-b3115ba854c5e439490efb68|7 punkte]] po žodžio „lėšų“ įrašyti žodžius „Europos Sąjungos ir užsienio valstybių finansinės paramos lėšų“ ir visą straipsnį išdėstyti taip:
 
 
 „7 straipsnis. Tarnybos funkcijos

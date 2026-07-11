@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C6C5599DD9A1#^s-27ee327ec2e7cfcacf4e9376|Lietuvos Respublikos mokėjimų įstatymas]] - 3 citatos - 1041010ISTA0IX-2404
-- [[latest/TAR.C6C5599DD9A1#^s-5e1b8fe029130703f8ff50d2|Lietuvos Respublikos mokėjimų įstatymas]] - 3 citatos - 1041010ISTA0IX-2404
+- [[latest/TAR.C6C5599DD9A1#^s-27ee327ec2e7cfcacf4e9376|Lietuvos Respublikos mokėjimų įstatymas]] - 2 citatos - 1041010ISTA0IX-2404

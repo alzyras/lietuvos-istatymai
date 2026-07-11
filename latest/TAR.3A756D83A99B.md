@@ -66,7 +66,7 @@ BENDROSIOS NUOSTATOS
 1. Biudžetinė įstaiga – ribotos civilinės atsakomybės viešasis juridinis asmuo, išlaikomas iš valstybės ar savivaldybės biudžetų asignavimų, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ar (ir) kitų valstybės pinigų fondų lėšų ir vykdantis viešąjį administravimą, teikiantis viešąsias paslaugas, atliekantis kitas funkcijas, kurios priskiriamos prie valstybės politikos nustatytose srityse formavimo, įgyvendinimo ar šios politikos formavimo, įgyvendinimo subjektų aptarnavimo (toliau – valstybės funkcijos), arba atliekantis [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatyme]] ir kituose įstatymuose nustatytas savivaldybių savarankiškąsias ir valstybines (valstybės perduotas savivaldybėms) funkcijas. ^s-4f58116ba973a184047f0261
 
 
-2. Pagal savo prievoles biudžetinė įstaiga atsako tik savo lėšomis. Išieškojimas pagal biudžetinės įstaigos prievoles vykdomas Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka. ^s-3992d4ecbf3ca4ebd0cfd7f5
+2. Pagal savo prievoles biudžetinė įstaiga atsako tik savo lėšomis. Išieškojimas pagal biudžetinės įstaigos prievoles vykdomas [Lietuvos Respublikos civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-3992d4ecbf3ca4ebd0cfd7f5
 
 
 3. Biudžetinės įstaigos interneto svetainėje turi būti skelbiama Lietuvos Respublikos civilinio kodekso 2.44 straipsnyje nurodyta informacija. ^s-2cc410ef0c804fac364bd1f3
@@ -183,7 +183,7 @@ BIUDŽETINĖS ĮSTAIGOS STEIGIMAS IR ĮREGISTRAVIMAS
 3. Savivaldybės biudžetinę įstaigą sprendimu steigia savivaldybės taryba. ^s-9640f280e228ffa6cdbab8ce
 
 
-4. Šio straipsnio 2 ir [[#^s-9640f280e228ffa6cdbab8ce|3 dalyse]] nurodytuose teisės aktuose, kuriais steigiama biudžetinė įstaiga, nurodoma: ^s-5dcfd8a8135148837b1d897f
+4. Šio straipsnio [[#^s-98787c1277f8c083b05e2696|2]] ir [[#^s-9640f280e228ffa6cdbab8ce|3]] dalyse nurodytuose teisės aktuose, kuriais steigiama biudžetinė įstaiga, nurodoma: ^s-5dcfd8a8135148837b1d897f
 
 
 1) biudžetinės įstaigos pavadinimas; ^s-5a551fa0f0d1d5ed7641ddec
@@ -535,7 +535,7 @@ Biudžetinės įstaigos savininko teises ir pareigas įgyvendinanti institucija 
 3. Savivaldybės taryba turi teisę priimti sprendimą dėl biudžetinių įstaigų, kurių savininkė yra savivaldybė, vidaus administravimo funkcijų centralizuoto atlikimo ir dėl konkrečių biudžetinių įstaigų, kurių vidaus administravimo funkcijos bus atliekamos centralizuotai. Sprendimą dėl įstaigos (įstaigų), kuri (kurios) centralizuotai atlieka šioje dalyje nurodytas funkcijas, priima savivaldybės taryba. ^s-14f145c425b2c9da9e06a7ae
 
 
-4. Sprendimą dėl šio straipsnio 2 ir [[#^s-14f145c425b2c9da9e06a7ae|3 dalyse]] nenurodytų biudžetinių įstaigų vidaus administravimo funkcijų centralizuoto atlikimo ir dėl biudžetinės įstaigos (įstaigų), kuri (kurios) centralizuotai atliktų šioje dalyje nurodytas funkcijas, turi teisę priimti šių biudžetinių įstaigų vadovai. ^s-d4002b3f25328c8ca256f29c
+4. Sprendimą dėl šio straipsnio [[#^s-cef97c8e4998e99383192e9a|2]] ir [[#^s-14f145c425b2c9da9e06a7ae|3]] dalyse nenurodytų biudžetinių įstaigų vidaus administravimo funkcijų centralizuoto atlikimo ir dėl biudžetinės įstaigos (įstaigų), kuri (kurios) centralizuotai atliktų šioje dalyje nurodytas funkcijas, turi teisę priimti šių biudžetinių įstaigų vadovai. ^s-d4002b3f25328c8ca256f29c
 
 
 5. Centralizuoto biudžetinių įstaigų vidaus administravimo funkcijų atlikimo valstybės lygiu tvarką nustato Vyriausybė. Centralizuoto savivaldybės biudžetinių įstaigų vidaus administravimo funkcijų atlikimo savivaldybės lygiu tvarką nustato savivaldybės taryba. ^s-f38006ee8f829fa008957851
@@ -673,7 +673,7 @@ BIUDŽETINĖS ĮSTAIGOS PERTVARKYMAS IR PABAIGA
 7. Apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą viešai paskelbiama visų reorganizavime dalyvaujančių biudžetinių įstaigų nuostatuose nurodytame šaltinyje tris kartus ne mažesniais kaip 30 dienų intervalais arba paskelbiama vieną kartą ir pranešama raštu visiems biudžetinės įstaigos kreditoriams. Pranešime nurodoma: ^s-b9343b3b84dfe703dcd93fa2
 
 
-1) [[#^s-acc762ae63d388e60d08ed12|šio straipsnio 6 dalies]] 1, 2 ir 3 punktuose nurodyta informacija; ^s-d139c0adb3996e2738cf1465
+1) [[#^s-acc762ae63d388e60d08ed12|šio straipsnio 6 dalies]] 1, [[#^s-6469ed681c751cd42695419a|2]] ir 3 punktuose nurodyta informacija; ^s-d139c0adb3996e2738cf1465
 
 
 2) kur ir nuo kada galima susipažinti su biudžetinės įstaigos reorganizavimo sąlygomis, po reorganizavimo veiksiančių biudžetinių įstaigų nuostatų projektais, reorganizavime dalyvaujančių biudžetinių įstaigų paskutinių penkerių finansinių metų metinių ataskaitų rinkiniais. ^s-6469ed681c751cd42695419a
@@ -864,7 +864,7 @@ Nr. XI-609, 2009-12-22, Žin., 2010, Nr. 1-20 (2010-01-05)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-666, 2010-01-21, Žin., 2010, Nr. 15-699 (2010-02-04)
 [[latest/TAR.03A6EC49D1B2|BIUDŽETINIŲ ĮSTAIGŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus šio įstatymo [[#^s-b646af60e1fd5fd27ec7ed6a|1 straipsnyje]] nauja redakcija išdėstyto [[#^s-2fa18fcb0271f5794fe18af4|Lietuvos Respublikos biudžetinių įstaigų įstatymo 4 straipsnio]] 5 ir 6 dalis, įsigalioja 2010 m. balandžio 1 d.
+Šis įstatymas, išskyrus šio įstatymo [[#^s-b646af60e1fd5fd27ec7ed6a|1 straipsnyje]] nauja redakcija išdėstyto [[#^s-2fa18fcb0271f5794fe18af4|Lietuvos Respublikos biudžetinių įstaigų įstatymo 4 straipsnio]] [[#^s-1e8e660a763d54789d6e32c8|5]] ir [[#^s-6dfef0f329bb0d417480d9ca|6]] dalis, įsigalioja 2010 m. balandžio 1 d.
 Šio įstatymo [[#^s-b646af60e1fd5fd27ec7ed6a|1 straipsnyje]] nauja redakcija išdėstyto [[#^s-4e2635ce23802a70d6db9b83|Lietuvos Respublikos biudžetinių įstaigų įstatymo 13 straipsnis]] iki 2011 m. gruodžio 31 d. netaikomas valstybinėms aukštosioms mokykloms.
 Nauja įstatymo redakcija
 Biudžetinės įstaigos, dėl kurių steigimo, pertvarkymo, reorganizavimo ir likvidavimo sprendimai priimti iki šio įstatymo įsigaliojimo dienos, taip pat biudžetinės įstaigos, iki šio įstatymo įsigaliojimo dienos įgijusios reorganizuojamos biudžetinės įstaigos ar dalyvaujančios reorganizavime biudžetinės įstaigos teisinį statusą, steigiamos, pertvarkomos, reorganizuojamos ir likviduojamos pagal biudžetinių įstaigų steigimą, pertvarkymą, pabaigą reglamentuojančius teisės aktus, galiojusius iki šio įstatymo įsigaliojimo dienos.
@@ -883,7 +883,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1790, 2015-06-16, paskelbta TAR 2015-06-19, i. k. 2015-09812
-Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 4 ir [[#^s-4e2635ce23802a70d6db9b83|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 [[#^s-2fa18fcb0271f5794fe18af4|4]] ir [[#^s-4e2635ce23802a70d6db9b83|13]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -898,7 +898,7 @@ Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 papildymo 9-1 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1180, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09071
-Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 9, 11, 13 ir [[#^s-44f59031dd5affe272e55ffd|14 straipsnių]] ir III skyriaus pavadinimo pakeitimo įstatymas
+Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 [[#^s-1a412567d3020a7e3822f8f7|9]], [[#^s-0f3981256c0847540e7213da|11]], [[#^s-4e2635ce23802a70d6db9b83|13]] ir [[#^s-44f59031dd5affe272e55ffd|14]] straipsnių ir III skyriaus pavadinimo pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -918,7 +918,7 @@ Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 9-1 straipsnio
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3310, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21248
-Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus pavadinimo, 11, 13 ir [[#^s-44f59031dd5affe272e55ffd|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus pavadinimo, [[#^s-0f3981256c0847540e7213da|11]], [[#^s-4e2635ce23802a70d6db9b83|13]] ir [[#^s-44f59031dd5affe272e55ffd|14]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -928,7 +928,7 @@ Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 [[#^s-b1d37ea6
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-843, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27742
-Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus pavadinimo, 11, 13 ir [[#^s-44f59031dd5affe272e55ffd|14 straipsnių]] pakeitimo [[latest/640ddbf00d4011ebb74de75171d26d52|įstatymo Nr. XIII-3310]] [[#^s-b97e73cc80b639035474f796|5 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos biudžetinių įstaigų įstatymo Nr. I-1113 III skyriaus pavadinimo, [[#^s-0f3981256c0847540e7213da|11]], [[#^s-4e2635ce23802a70d6db9b83|13]] ir [[#^s-44f59031dd5affe272e55ffd|14]] straipsnių pakeitimo [[latest/640ddbf00d4011ebb74de75171d26d52|įstatymo Nr. XIII-3310]] [[#^s-b97e73cc80b639035474f796|5 straipsnio]] pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas

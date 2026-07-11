@@ -51,7 +51,7 @@ Vilnius
 „9. Atliekų eksportuotojas – įmonė, kuri priima atliekas iš jų turėtojo, jas veža ir perduoda atliekų naudotojui į Europos Sąjungos valstybes nares ar Europos ekonominės erdvės valstybes.“
 
 
-2. Buvusias [[#^s-e8072fd32531c8be1834f4dc|2 straipsnio]] 9–28 dalis laikyti atitinkamai 10–29 dalimis. ^s-690aecafd4768e6748e89bed
+2. Buvusias [[#^s-e8072fd32531c8be1834f4dc|2 straipsnio]] [[#^s-7612a10f2cbd30c9cd498e52|9]]–28 dalis laikyti atitinkamai 10–29 dalimis. ^s-690aecafd4768e6748e89bed
 
 
 3. Papildyti [[#^s-e8072fd32531c8be1834f4dc|2 straipsnį]] nauja 30 dalimi: ^s-3431af72d209914b58b58a32
@@ -108,7 +108,7 @@ Vilnius
 4) iš kitos valstybės narės įveža ir verslo tikslais Lietuvos Respublikos rinkai tiekia transporto priemones, arba ^s-5248abe0957aeb100b4333d0
 
 
-5) iš lizingo (finansinės nuomos) paslaugas teikiančios finansų įstaigos lizingo (finansinės nuomos) būdu įsigyja į Lietuvos Respublikos teritoriją importuotus ir (ar) įvežtus 1–[[#^s-5248abe0957aeb100b4333d0|4 punktuose]] išvardytus gaminius ir (ar) gaminių pripildytą pakuotę. Šiuo atveju lizingo (finansinės nuomos) paslaugas teikianti finansų įstaiga nelaikoma importuotoju. Jei lizingo (finansinės nuomos) sutartis nutraukiama, šiuo įstatymu gaminių importuotojui nustatytas pareigas, atsiradusias po sutarties nutraukimo ir turto susigrąžinimo iš buvusio lizingo gavėjo, perima lizingo (finansinės nuomos) paslaugas teikianti finansų įstaiga.“ ^s-fd0b3487db44fdbc37b6f333
+5) iš lizingo (finansinės nuomos) paslaugas teikiančios finansų įstaigos lizingo (finansinės nuomos) būdu įsigyja į Lietuvos Respublikos teritoriją importuotus ir (ar) įvežtus [[#^s-7ab2f7938741d7ac3600c1b3|1]]–[[#^s-5248abe0957aeb100b4333d0|4]] punktuose išvardytus gaminius ir (ar) gaminių pripildytą pakuotę. Šiuo atveju lizingo (finansinės nuomos) paslaugas teikianti finansų įstaiga nelaikoma importuotoju. Jei lizingo (finansinės nuomos) sutartis nutraukiama, šiuo įstatymu gaminių importuotojui nustatytas pareigas, atsiradusias po sutarties nutraukimo ir turto susigrąžinimo iš buvusio lizingo gavėjo, perima lizingo (finansinės nuomos) paslaugas teikianti finansų įstaiga.“ ^s-fd0b3487db44fdbc37b6f333
 
 
 11. Buvusias [[#^s-e8072fd32531c8be1834f4dc|2 straipsnio]] 33–49 dalis laikyti atitinkamai 39–55 dalimis. ^s-db4f63a32dc4c3c4afa2aeb5
@@ -235,7 +235,7 @@ Pakeisti [[#^s-3c9f17b1b0b10c8b2c7d01fd|12 straipsnį]] ir jį išdėstyti taip:
 5. Papildyti 30 straipsnį 9 dalimi: ^s-9bee3af2eda473c5693c8c41
 
 
-„9. Siekdamos užtikrinti geros kokybės ir prieinamų komunalinių atliekų tvarkymo paslaugų teikimą visiems savivaldybės teritorijos gyventojams, organizuodamos komunalinių atliekų sraute susidarančių elektros ir elektroninės įrangos ir pakuočių atliekų tvarkymą, savivaldybės (arba savivaldybių įsteigti juridiniai asmenys, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) privalo su gamintojais ir importuotojais, jų įsteigtomis organizacijomis sudaryti šio Įstatymo 342, [[#^s-70ddc1b7c19c465f07d39545|343 straipsniuose]] ir [[latest/TAR.9D1ADB9E1518#^s-9f37e8db1074880a64783125|Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnyje]] nurodytas gaminių ir pakuočių atliekų tvarkymo organizavimo sutartis. Komunalinių atliekų sraute susidarančių elektros ir elektroninės įrangos ir pakuočių atliekų surinkėjus savivaldybės turi išrinkti Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.“
+„9. Siekdamos užtikrinti geros kokybės ir prieinamų komunalinių atliekų tvarkymo paslaugų teikimą visiems savivaldybės teritorijos gyventojams, organizuodamos komunalinių atliekų sraute susidarančių elektros ir elektroninės įrangos ir pakuočių atliekų tvarkymą, savivaldybės (arba savivaldybių įsteigti juridiniai asmenys, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) privalo su gamintojais ir importuotojais, jų įsteigtomis organizacijomis sudaryti šio Įstatymo [[#^s-958104e513967b97fba61290|342]], [[#^s-70ddc1b7c19c465f07d39545|343]] straipsniuose ir [[latest/TAR.9D1ADB9E1518#^s-9f37e8db1074880a64783125|Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnyje]] nurodytas gaminių ir pakuočių atliekų tvarkymo organizavimo sutartis. Komunalinių atliekų sraute susidarančių elektros ir elektroninės įrangos ir pakuočių atliekų surinkėjus savivaldybės turi išrinkti Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka.“
 
 
 6. Papildyti 30 straipsnį 10 dalimi: ^s-7120c29bf9dc8bb615f78361
@@ -385,7 +385,7 @@ ELEKTROS IR ELEKTRONINĖS ĮRANGOS ATLIEKŲ TVARKYMO YPATUMAI
 8. [[#^s-cd36401642e05bcd2ec1ad0c|Šio straipsnio 7 dalyje]] nenurodytų ne buityje susidarančių elektros ir elektroninės įrangos atliekų tvarkymą turi užtikrinti šių atliekų turėtojai – perduoti tokias atliekas turinčiam teisę tvarkyti atliekų tvarkytojui. ^s-7aba7c0ad57646222d86e2e6
 
 
-9. Gamintojai ir importuotojai gali susitarti su atliekų turėtojais ir ne buityje susidarančių elektros ir elektroninės įrangos atliekų tvarkymą finansuoti kitaip, negu nurodyta šio straipsnio 7 ir [[#^s-7aba7c0ad57646222d86e2e6|8 dalyse]]. Tokie susitarimai turi užtikrinti, kad elektros ir elektroninės įrangos atliekos bus surinktos ir sutvarkytos laikantis šio Įstatymo ir kitų teisės aktų reikalavimų. ^s-095a022f7261d773ca6798e1
+9. Gamintojai ir importuotojai gali susitarti su atliekų turėtojais ir ne buityje susidarančių elektros ir elektroninės įrangos atliekų tvarkymą finansuoti kitaip, negu nurodyta šio straipsnio [[#^s-cd36401642e05bcd2ec1ad0c|7]] ir [[#^s-7aba7c0ad57646222d86e2e6|8]] dalyse. Tokie susitarimai turi užtikrinti, kad elektros ir elektroninės įrangos atliekos bus surinktos ir sutvarkytos laikantis šio Įstatymo ir kitų teisės aktų reikalavimų. ^s-095a022f7261d773ca6798e1
 
 
 10. Elektros ir elektroninės įrangos gamintojai ir importuotojai, parduodami elektros ir elektroninę įrangą, pardavimo dokumentuose vartotojams atskirai nenurodo šios įrangos atliekų tvarkymo, t. y. surinkimo, apdorojimo ir aplinkai tinkamo šalinimo, išlaidų, išskyrus laikotarpį iki 2011 m. vasario 13 d., kai leidžiama nurodyti 2, 3, 4, 5, 6, 7, 8, 9, 10 kategorijų elektros ir elektroninės įrangos atliekų surinkimo, apdorojimo ir aplinkai tinkamo šalinimo išlaidas, ir laikotarpį iki 2013 m. vasario 13 d., kai leidžiama nurodyti 1 kategorijos elektros ir elektroninės įrangos atliekų surinkimo, apdorojimo ir aplinkai tinkamo šalinimo išlaidas. Elektros ir elektroninės įrangos kategorijų sąrašą nustato aplinkos ministras. ^s-be9e6b3325e63ae11d9e7ad3
@@ -412,7 +412,7 @@ ELEKTROS IR ELEKTRONINĖS ĮRANGOS ATLIEKŲ TVARKYMO YPATUMAI
 17. Gamintojo ir importuotojo pageidavimu platintojas turi vartotojui nurodyti elektros ir elektroninės įrangos atliekų tvarkymo išlaidas. ^s-f1ef4d594060791c7bd3301f
 
 
-18. Šio straipsnio 12, 13, 14, 15, 16 ir [[#^s-f1ef4d594060791c7bd3301f|17 dalių]] reikalavimai taip pat taikomi platintojams, kurie Lietuvos Respublikos vidaus rinkai verslo tikslais tiekdami elektros ir elektroninę įrangą naudojasi nuotolinio ryšio priemonėmis. Šiuo atveju vartotojams turi būti sudarytos sąlygos atiduoti elektros ir elektroninės įrangos atliekas elektros ir elektroninės įrangos atsiėmimo vietoje. Informacija, kurioje aiškiai nurodoma, kam ir kokiais būdais vartotojas gali atiduoti elektros ir elektroninės įrangos atliekas, turi būti paskelbta gerai matomoje vietoje platintojo naudojamoje interneto parduotuvės svetainėje. ^s-33923ee389cf80e62a55bec0
+18. Šio straipsnio [[#^s-480b8c72d56cb2da7bf7cbd2|12]], [[#^s-db862b85dfebe40af5b9a2bc|13]], [[#^s-a7a56b9f5b4af6556f6102ff|14]], [[#^s-c9027fb6a2ed5e095a21abde|15]], [[#^s-46fc3b5727011dcc93da6a13|16]] ir [[#^s-f1ef4d594060791c7bd3301f|17]] dalių reikalavimai taip pat taikomi platintojams, kurie Lietuvos Respublikos vidaus rinkai verslo tikslais tiekdami elektros ir elektroninę įrangą naudojasi nuotolinio ryšio priemonėmis. Šiuo atveju vartotojams turi būti sudarytos sąlygos atiduoti elektros ir elektroninės įrangos atliekas elektros ir elektroninės įrangos atsiėmimo vietoje. Informacija, kurioje aiškiai nurodoma, kam ir kokiais būdais vartotojas gali atiduoti elektros ir elektroninės įrangos atliekas, turi būti paskelbta gerai matomoje vietoje platintojo naudojamoje interneto parduotuvės svetainėje. ^s-33923ee389cf80e62a55bec0
 
 
 19. Atliekų turėtojas privalo atskirti elektros ir elektroninės įrangos atliekas nuo kitų atliekų, nemaišyti jų su kitomis atliekomis ar medžiagomis ir pristatyti jas į tokių atliekų priėmimo vietą ar perduoti tokias atliekas turinčiam teisę tvarkyti atliekų tvarkytojui. ^s-b675b7c37d286d3a5d7e3911
@@ -504,7 +504,7 @@ ELEKTROS IR ELEKTRONINĖS ĮRANGOS ATLIEKŲ TVARKYMO YPATUMAI
 2) aplinkos ministro nustatyta tvarka kiekvienais metais pateikti elektros ir elektroninės įrangos atliekų tvarkymo organizavimo veiklos ataskaitą. ^s-54d7c200b6caa23a18217915
 
 
-4. Šio straipsnio 1, 2 ir [[#^s-d07c0d94f255791c43449905|3 dalių]] nuostatos netaikomos elektros ir elektroninę įrangą savoms reikmėms naudojantiems gamintojams ir (ar) importuotojams. Tokie gamintojai ir (ar) importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotos elektros ir elektroninės įrangos atliekas tvarkyti patys arba perduoti šias atliekas tokių atliekų tvarkytojui.“ ^s-85ac5d1c1bfdf1f0d0d12612
+4. Šio straipsnio [[#^s-a6d345d9b56c27c08cc93b7d|1]], [[#^s-9aeb63a7df50cc6e5d65941b|2]] ir [[#^s-d07c0d94f255791c43449905|3]] dalių nuostatos netaikomos elektros ir elektroninę įrangą savoms reikmėms naudojantiems gamintojams ir (ar) importuotojams. Tokie gamintojai ir (ar) importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotos elektros ir elektroninės įrangos atliekas tvarkyti patys arba perduoti šias atliekas tokių atliekų tvarkytojui.“ ^s-85ac5d1c1bfdf1f0d0d12612
 
 
 
@@ -755,14 +755,14 @@ EKSPLOATUOTI NETINKAMŲ TRANSPORTO PRIEMONIŲ TVARKYMO YPATUMAI
 2. Siekdama gauti eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo licenciją, Organizacija, be šio Įstatymo [[#^s-ebb5eebfb7cbda9be3609fde|3423 straipsnyje]] nurodytų dokumentų, turi pateikti banko garantiją ar laidavimo draudimo sutartį, įrodančią, kad visų eksploatuoti netinkamų transporto priemonių, kurios gali susidaryti per 3 mėnesius naudojant jos dalyvių ir jai organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą pavedusių gamintojų ir importuotojų tiektas Lietuvos Respublikos vidaus rinkai verslo tikslais transporto priemones, tvarkymas bus finansuojamas. Tokio dokumento sudarymo ir jo reikalavimų vykdymo tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-d4f8ce844c95bf8f7e5f81ff
 
 
-3. Siekdama įvykdyti šio Įstatymo [[#^s-d519ae378ea1475e8f9b983c|344 straipsnio 1 dalies]] 2 ir 3 punktuose transporto priemonių gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo sudaryti sutartis su pagal aplinkos ministro nustatytą tvarką Organizacijos išrinktais eksploatuoti netinkamų transporto priemonių surinkėjais dėl eksploatuoti netinkamų transporto priemonių surinkimo, vežimo, paruošimo naudoti ir su eksploatuoti netinkamų transporto priemonių naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų eksploatuoti netinkamų transporto priemonių panaudojimo. Šiose sutartyse turi būti numatyta apmokėjimo už eksploatuoti netinkamų transporto priemonių surinkimą, vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka. ^s-d8d55c36cdd79b19dbae7bdb
+3. Siekdama įvykdyti šio Įstatymo [[#^s-d519ae378ea1475e8f9b983c|344 straipsnio 1 dalies]] [[#^s-1910965914e6073ce6990da1|2]] ir [[#^s-0a1289c972840e55453c7c7e|3]] punktuose transporto priemonių gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo sudaryti sutartis su pagal aplinkos ministro nustatytą tvarką Organizacijos išrinktais eksploatuoti netinkamų transporto priemonių surinkėjais dėl eksploatuoti netinkamų transporto priemonių surinkimo, vežimo, paruošimo naudoti ir su eksploatuoti netinkamų transporto priemonių naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų eksploatuoti netinkamų transporto priemonių panaudojimo. Šiose sutartyse turi būti numatyta apmokėjimo už eksploatuoti netinkamų transporto priemonių surinkimą, vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka. ^s-d8d55c36cdd79b19dbae7bdb
 
 
 
 ### 346 straipsnis. Individualus eksploatuoti netinkamų transporto priemonių tvarkymo organizavimas ^s-316c058e22d7f117e7a0fa11
 
 
-1. Vykdydami šio Įstatymo [[#^s-d519ae378ea1475e8f9b983c|344 straipsnio 1 dalies]] 2 ir 3 punktuose nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai eksploatuoti netinkamų transporto priemonių tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo: ^s-ee96282f7aea8104a669b376
+1. Vykdydami šio Įstatymo [[#^s-d519ae378ea1475e8f9b983c|344 straipsnio 1 dalies]] [[#^s-1910965914e6073ce6990da1|2]] ir [[#^s-0a1289c972840e55453c7c7e|3]] punktuose nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai eksploatuoti netinkamų transporto priemonių tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo: ^s-ee96282f7aea8104a669b376
 
 
 1) sudaryti sutartis su eksploatuoti netinkamų transporto priemonių surinkėjais dėl eksploatuoti netinkamų transporto priemonių surinkimo, vežimo, paruošimo naudoti ir su eksploatuoti netinkamų transporto priemonių naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų eksploatuoti netinkamų transporto priemonių panaudojimo. Šiose sutartyse turi būti numatyta apmokėjimo už eksploatuoti netinkamų transporto priemonių surinkimą, vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka; ^s-becc32497e47c3321bca5889
@@ -901,7 +901,7 @@ Alyvos ir alyvos produktų platintojai alyvos ir alyvos produktų platinimo (par
 ### 3412 straipsnis. Papildomi kolektyvaus alyvos atliekų tvarkymo organizavimo reikalavimai ^s-0266721d69b6b7d328be9a8b
 
 
-1. Siekdami kolektyviai vykdyti šio Įstatymo [[#^s-a0002b32125b2337e878b4eb|347 straipsnio 1 dalies]] 3 ir 4 punktuose nurodytas pareigas, alyvos gamintojai ir (ar) importuotojai gali steigti šio Įstatymo [[#^s-bc9637ad722c54e5b495fa4c|3422 straipsnyje]] nurodytą Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais arba Organizacijai sutartiniais pagrindais pavesti organizuoti alyvos atliekų tvarkymą ir vykdyti visas ar tam tikras šio Įstatymo nustatytas pareigas netapdami Organizacijos dalyviais. ^s-bdf7e1909f9a41d6dbcc15fb
+1. Siekdami kolektyviai vykdyti šio Įstatymo [[#^s-a0002b32125b2337e878b4eb|347 straipsnio 1 dalies]] [[#^s-d62df4ef523fb288ee2bcb8d|3]] ir [[#^s-4a8b3acda4d76795783c0021|4]] punktuose nurodytas pareigas, alyvos gamintojai ir (ar) importuotojai gali steigti šio Įstatymo [[#^s-bc9637ad722c54e5b495fa4c|3422 straipsnyje]] nurodytą Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais arba Organizacijai sutartiniais pagrindais pavesti organizuoti alyvos atliekų tvarkymą ir vykdyti visas ar tam tikras šio Įstatymo nustatytas pareigas netapdami Organizacijos dalyviais. ^s-bdf7e1909f9a41d6dbcc15fb
 
 
 2. Siekdama gauti alyvos atliekų tvarkymo organizavimo licenciją, Organizacija, be šio Įstatymo [[#^s-ebb5eebfb7cbda9be3609fde|3423 straipsnyje]] nurodytų dokumentų, turi pateikti banko garantiją ar laidavimo draudimo sutartį, įrodančią, kad visų alyvos atliekų, kurios gali susidaryti per 3 mėnesius naudojant jos dalyvių ir jai organizuoti alyvos atliekų tvarkymą pavedusių gamintojų ir importuotojų tiektas Lietuvos Respublikos vidaus rinkai alyvas, tvarkymas bus finansuojamas. Tokio dokumento sudarymo ir jo reikalavimų vykdymo tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-4253ee81241dd88d0e172108
@@ -917,17 +917,17 @@ Alyvos ir alyvos produktų platintojai alyvos ir alyvos produktų platinimo (par
 1. Vykdydami šio Įstatymo [[#^s-4a8b3acda4d76795783c0021|347 straipsnio 1 dalies 4 punkte]] nustatytą pareigą, aplinkos ministro nustatyta tvarka užsiregistravę individualiai alyvos atliekų tvarkymą organizuojantys alyvos gamintojas ir (ar) importuotojas (jeigu nėra užsiregistravęs alyvos atliekų tvarkytoju) privalo sudaryti dėl alyvos atliekų surinkimo iš transporto priemonių techninės priežiūros ir remonto paslaugas teikiančių įmonių ir vežimo išlaidų kompensavimo sutartį su alyvos atliekų tvarkytoju (tvarkytojais), kuris (kurie) į jį dėl to kreipėsi (jeigu alyvos atliekos neturi vertės rinkoje arba jų vertė yra neigiama). ^s-ea670a85b41a132d7be5f5f1
 
 
-2. Individualiai alyvos atliekų tvarkymą organizuojantys alyvos gamintojas ir (ar) importuotojas privalo aplinkos ministro nustatyta tvarka kiekvienais metais pateikti alyvos atliekų tvarkymo organizavimo veiklos ataskaitą dėl šio Įstatymo [[#^s-a0002b32125b2337e878b4eb|347 straipsnio 1 dalies]] 3 ir 4 punktuose nustatytų pareigų vykdymo. ^s-64fed45711ece229e6106488
+2. Individualiai alyvos atliekų tvarkymą organizuojantys alyvos gamintojas ir (ar) importuotojas privalo aplinkos ministro nustatyta tvarka kiekvienais metais pateikti alyvos atliekų tvarkymo organizavimo veiklos ataskaitą dėl šio Įstatymo [[#^s-a0002b32125b2337e878b4eb|347 straipsnio 1 dalies]] [[#^s-d62df4ef523fb288ee2bcb8d|3]] ir [[#^s-4a8b3acda4d76795783c0021|4]] punktuose nustatytų pareigų vykdymo. ^s-64fed45711ece229e6106488
 
 
-3. Šio straipsnio 1 ir [[#^s-64fed45711ece229e6106488|2 dalių]] nuostatos netaikomos alyvas savoms reikmėms naudojantiems alyvos gamintojams ir importuotojams. Tokie alyvos gamintojai ir importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotos alyvos atliekas tvarkyti patys arba perduoti šias atliekas tokių atliekų tvarkytojui. ^s-896df2f3db1afaf31743ada7
+3. Šio straipsnio [[#^s-ea670a85b41a132d7be5f5f1|1]] ir [[#^s-64fed45711ece229e6106488|2]] dalių nuostatos netaikomos alyvas savoms reikmėms naudojantiems alyvos gamintojams ir importuotojams. Tokie alyvos gamintojai ir importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotos alyvos atliekas tvarkyti patys arba perduoti šias atliekas tokių atliekų tvarkytojui. ^s-896df2f3db1afaf31743ada7
 
 
 
 ### 3414 straipsnis. Šio Įstatymo 347 straipsnio 1 dalies 3, 4 punktų ir 348–3413 straipsnių nuostatų taikymo išimtys ^s-bb526f270362ff56501875a7
 
 
-1. Šio Įstatymo [[#^s-a0002b32125b2337e878b4eb|347 straipsnio 1 dalies]] 3, 4 punktų ir 348–[[#^s-d2e21bfc5a4f75cbddbb8f06|3413 straipsnių]] nuostatos netaikomos naudojimo procese sudegančias alyvas (dvitakčių variklių alyvas) arba savaime suyrančias alyvas (biologiškai suyrančias alyvas, pagamintas augalinio aliejaus pagrindu) tiekiantiems Lietuvos Respublikos vidaus rinkai alyvos gamintojams ir importuotojams, taip pat alyvos atliekų turėtojams, kurie turi ar naudoja tokias alyvas. ^s-f54a6c185e9bd66400d97b4b
+1. Šio Įstatymo [[#^s-a0002b32125b2337e878b4eb|347 straipsnio 1 dalies]] [[#^s-d62df4ef523fb288ee2bcb8d|3]], [[#^s-4a8b3acda4d76795783c0021|4]] punktų ir [[#^s-85272d034c8e467791be92ac|348]]–[[#^s-d2e21bfc5a4f75cbddbb8f06|3413]] straipsnių nuostatos netaikomos naudojimo procese sudegančias alyvas (dvitakčių variklių alyvas) arba savaime suyrančias alyvas (biologiškai suyrančias alyvas, pagamintas augalinio aliejaus pagrindu) tiekiantiems Lietuvos Respublikos vidaus rinkai alyvos gamintojams ir importuotojams, taip pat alyvos atliekų turėtojams, kurie turi ar naudoja tokias alyvas. ^s-f54a6c185e9bd66400d97b4b
 
 
 2. Aplinkos apsaugos valstybinę kontrolę atliekančių institucijų reikalavimu [[#^s-f54a6c185e9bd66400d97b4b|šio straipsnio 1 dalyje]] nurodytos alyvos gamintojai, importuotojai, platintojai, tokių alyvų atliekų turėtojai privalo pateikti šios alyvos techninius aprašymus ar kitus dokumentus, patvirtinančius, kad jų pagamintos, importuotos, naudojamos, platinamos alyvos atitinka [[#^s-f54a6c185e9bd66400d97b4b|šio straipsnio 1 dalyje]] nurodytą paskirtį ir (ar) cheminę sudėtį, ir (ar) fizikines savybes.“ ^s-1faccd9a3fadbd2f09d4d062
@@ -1044,14 +1044,14 @@ BATERIJŲ IR AKUMULIATORIŲ ATLIEKŲ TVARKYMO YPATUMAI
 2. Siekdama gauti baterijų ir akumuliatorių atliekų tvarkymo organizavimo licenciją, Organizacija, be šio Įstatymo [[#^s-ebb5eebfb7cbda9be3609fde|3423 straipsnyje]] nurodytų dokumentų, turi pateikti banko garantiją ar laidavimo draudimo sutartį, įrodančią, kad visų baterijų ir akumuliatorių atliekų, kurios gali susidaryti per 3 mėnesius naudojant jos dalyvių ir jai baterijų ir akumuliatorių atliekų tvarkymo organizavimą pavedusių gamintojų ir importuotojų tiektus Lietuvos Respublikos vidaus rinkai verslo tikslais baterijas ir akumuliatorius, tvarkymas bus finansuojamas. Tokio dokumento sudarymo ir jo reikalavimų vykdymo tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-e22afe26dd1bb52d6d7886a1
 
 
-3. Siekdama atlikti šio Įstatymo [[#^s-7475b5eaa77df37fa3d8feff|3415 straipsnio 1 dalies 2 punkte]] ir 7, 8, 9 dalyse baterijų ir akumuliatorių gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo sudaryti sutartis su baterijų ir akumuliatorių platintojais ir pagal aplinkos ministro nustatytą tvarką Organizacijos išrinktais baterijų ir akumuliatorių atliekų surinkėjais dėl baterijų ir akumuliatorių atliekų surinkimo iš platintojų, šių surinktų atliekų vežimo, paruošimo naudoti ir naudojimo (perdirbimo) (arba sutartis dėl baterijų ir akumuliatorių atliekų surinkimo iš baterijų ir akumuliatorių platintojų, tokių surinktų atliekų vežimo, paruošimo naudoti su baterijų ir akumuliatorių atliekų surinkėjais ir su baterijų ir akumuliatorių atliekų naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų ir paruoštų naudoti baterijų ir akumuliatorių atliekų panaudojimo). Šiose sutartyse turi būti numatyta apmokėjimo už baterijų ir akumuliatorių atliekų surinkimą iš baterijų ir akumuliatorių platintojų, tokių surinktų atliekų vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka. ^s-628b7491274f94444584042b
+3. Siekdama atlikti šio Įstatymo [[#^s-7475b5eaa77df37fa3d8feff|3415 straipsnio 1 dalies 2 punkte]] ir [[#^s-974591a636f0cd8b87779be4|7]], [[#^s-41e4353490d4ec6dab21349e|8]], [[#^s-5a0801eb8092e822c2044b53|9]] dalyse baterijų ir akumuliatorių gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo sudaryti sutartis su baterijų ir akumuliatorių platintojais ir pagal aplinkos ministro nustatytą tvarką Organizacijos išrinktais baterijų ir akumuliatorių atliekų surinkėjais dėl baterijų ir akumuliatorių atliekų surinkimo iš platintojų, šių surinktų atliekų vežimo, paruošimo naudoti ir naudojimo (perdirbimo) (arba sutartis dėl baterijų ir akumuliatorių atliekų surinkimo iš baterijų ir akumuliatorių platintojų, tokių surinktų atliekų vežimo, paruošimo naudoti su baterijų ir akumuliatorių atliekų surinkėjais ir su baterijų ir akumuliatorių atliekų naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų ir paruoštų naudoti baterijų ir akumuliatorių atliekų panaudojimo). Šiose sutartyse turi būti numatyta apmokėjimo už baterijų ir akumuliatorių atliekų surinkimą iš baterijų ir akumuliatorių platintojų, tokių surinktų atliekų vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka. ^s-628b7491274f94444584042b
 
 
 
 ### 3417 straipsnis. Individualus baterijų ir akumuliatorių atliekų tvarkymo organizavimas ^s-77fab62d387b9b54829efcdf
 
 
-1. Vykdydami šio Įstatymo [[#^s-7475b5eaa77df37fa3d8feff|3415 straipsnio 1 dalies 2 punkte]] ir 7, 8, 9 dalyse nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai baterijų ir akumuliatorių atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo: ^s-22686cb2ebdcb2a02ef16f60
+1. Vykdydami šio Įstatymo [[#^s-7475b5eaa77df37fa3d8feff|3415 straipsnio 1 dalies 2 punkte]] ir [[#^s-974591a636f0cd8b87779be4|7]], [[#^s-41e4353490d4ec6dab21349e|8]], [[#^s-5a0801eb8092e822c2044b53|9]] dalyse nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai baterijų ir akumuliatorių atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo: ^s-22686cb2ebdcb2a02ef16f60
 
 
 1) sudaryti sutartis su baterijų ir akumuliatorių platintojais ir baterijų ir akumuliatorių atliekų surinkėjais dėl baterijų ir akumuliatorių atliekų surinkimo iš platintojų, šių surinktų atliekų vežimo, paruošimo naudoti ir naudojimo (perdirbimo) (arba sutartis dėl baterijų ir akumuliatorių atliekų surinkimo iš baterijų ir akumuliatorių platintojų, tokių surinktų atliekų vežimo, paruošimo naudoti su baterijų ir akumuliatorių atliekų surinkėjais ir su baterijų ir akumuliatorių atliekų naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų ir paruoštų naudoti baterijų ir akumuliatorių atliekų panaudojimo). Šiose sutartyse turi būti numatyta apmokėjimo už baterijų ir akumuliatorių atliekų surinkimą iš baterijų ir akumuliatorių platintojų, tokių surinktų atliekų vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka; ^s-511511963a56ce8551672750
@@ -1324,7 +1324,7 @@ gaminių ir (ar) Pakuočių ATLIEKŲ TVARKYMO organizavimo licencijavimas
 3) visuomenės švietimo ir informavimo atliekų tvarkymo klausimais programą. ^s-b9a20590ddf378daa5c6bcec
 
 
-7. Tam pačiam licencijos turėtojui gali būti išduodama tik viena iš [[#^s-f1f05fbd6b96bb7e977be269|šio straipsnio 5 dalyje]] nurodytų licencijų, išskyrus šio straipsnio 8 ir [[#^s-a3a6138c3d7b3c392f76e5ef|9 dalyse]] numatytas išimtis. ^s-053e272445b6abf281bdd434
+7. Tam pačiam licencijos turėtojui gali būti išduodama tik viena iš [[#^s-f1f05fbd6b96bb7e977be269|šio straipsnio 5 dalyje]] nurodytų licencijų, išskyrus šio straipsnio [[#^s-3e534cd1f2137791d935055e|8]] ir [[#^s-a3a6138c3d7b3c392f76e5ef|9]] dalyse numatytas išimtis. ^s-053e272445b6abf281bdd434
 
 
 8. Licencijos turėtojui, kurio nariai Lietuvos Respublikos vidaus rinkai verslo tikslais tiekia ne tik transporto priemones, bet ir apmokestinamuosius gaminius ir (ar) alyvas, kartu su [[#^s-4f58e3ff17ece43b82d94fde|šio straipsnio 5 dalies 8 punkte]] nurodyta licencija gali būti išduodamos [[#^s-f1f05fbd6b96bb7e977be269|šio straipsnio 5 dalies]] 1 ir (ar) 2 punktuose nurodytos licencijos. ^s-3e534cd1f2137791d935055e
@@ -1348,7 +1348,7 @@ gaminių ir (ar) Pakuočių ATLIEKŲ TVARKYMO organizavimo licencijavimas
 4) licencijas išduodančiai institucijai aplinkos ministro nustatyta tvarka pateikti atliekų tvarkymo veiklos organizavimo plano vykdymo ataskaitą ir informaciją apie atliekų tvarkymo finansavimo schemoje, visuomenės švietimo ir informavimo atliekų tvarkymo klausimais programoje numatytų priemonių įgyvendinimą; ^s-6dfd845e2a8a4f24f35e7cdc
 
 
-5) kartu su [[#^s-6dfd845e2a8a4f24f35e7cdc|šios dalies 4 punkte]] nurodyta ataskaita licencijas išduodančiai institucijai pateikti aplinkos ministro patvirtintą ir su Lietuvos auditorių rūmais suderintą licencijos turėtojo patikrinimo techninę užduotį, nepriklausomo auditoriaus parengtą faktinių pastebėjimų ataskaitą dėl atliekų tvarkymo organizavimo veiklos atitikties atliekų tvarkymo veiklos organizavimo plane numatytoms priemonėms, atliekų tvarkymo finansavimo schemai, visuomenės švietimo ir informavimo atliekų tvarkymo klausimais programai; ^s-f656fa221077bd18d4f4444b
+5) kartu su [[#^s-6dfd845e2a8a4f24f35e7cdc|šios dalies 4 punkte]] nurodyta ataskaita licencijas išduodančiai institucijai pateikti aplinkos ministro patvirtintą ir su Lietuvos auditorių rūmais suderintą licencijos turėtojo patikrinimo techninę užduotį, nepriklausomo auditoriaus parengtą faktinių pastebėjimų ataskaitą [dėl atliekų tvarkymo](https://e-tar.lt/portal/lt/legalAct/SAV.494582) organizavimo veiklos atitikties atliekų tvarkymo veiklos organizavimo plane numatytoms priemonėms, atliekų tvarkymo finansavimo schemai, visuomenės švietimo ir informavimo atliekų tvarkymo klausimais programai; ^s-f656fa221077bd18d4f4444b
 
 
 6) kartu su [[#^s-6dfd845e2a8a4f24f35e7cdc|šios dalies 4 punkte]] nurodyta ataskaita licencijas išduodančiai institucijai pateikti nepriklausomo auditoriaus išvadą dėl licencijos turėtojo metinės finansinės ataskaitos; ^s-1511106eab695508ca366452
@@ -1525,7 +1525,7 @@ REIKALAVIMAI ATLIEKŲ TVARKYTOJAMS, KURIE IŠRAŠO GAMINIŲ IR (AR) PAKUOČIŲ A
 4) tvarko atliekų apskaitą ir teikia apskaitos ataskaitas aplinkos ministro nustatyta tvarka; ^s-b1c9e8523ab3aef46e2a0278
 
 
-5) pagal 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1013/2006 dėl atliekų vežimo (OL 2006 L 190, p. 1) nustatytus reikalavimus turi teisę išvežti gaminių ir (ar) pakuočių atliekas; ^s-e2ba4cb58c651880e2d4ea93
+5) pagal 2006 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1013/2006](https://eur-lex.europa.eu/eli/reg/1013/2006/oj) dėl atliekų vežimo (OL 2006 L 190, p. 1) nustatytus reikalavimus turi teisę išvežti gaminių ir (ar) pakuočių atliekas; ^s-e2ba4cb58c651880e2d4ea93
 
 
 6) atlieka pradinį gaminių atliekų apdorojimą ir išveža panaudoti (perdirbti) jų sudedamąsias medžiagas ar dalis į valstybes nares; ^s-fadc3d2a7347e05f3edf6aa3
@@ -1540,7 +1540,7 @@ REIKALAVIMAI ATLIEKŲ TVARKYTOJAMS, KURIE IŠRAŠO GAMINIŲ IR (AR) PAKUOČIŲ A
 9) turi atitinkamų gaminių ir (ar) pakuočių atliekų naudojimo (perdirbimo) sutartį su šias atliekas valstybėse narėse panaudosiančiu (perdirbsiančiu) atliekų tvarkytoju (toliau šiame straipsnyje – gavėjas), kurioje nurodytas gavėjo naudojamų (perdirbamų) gaminių ir (ar) pakuočių atliekų pavadinimas (pavadinimai) ir kodas (kodai), gaminių ir (ar) pakuočių atliekų naudojimo (perdirbimo) būdas ir sutarties galiojimo terminas; ^s-34a3da8cf8a696988bd98f49
 
 
-10) turi dokumentus, įrodančius, kad gavėjas turi teisę ir pakankamai pajėgumų naudoti (perdirbti) įvežamas atliekas pagal reikalavimus, nustatytus Europos Sąjungos ir (ar) nacionaliniuose aplinkos apsaugą reglamentuojančiuose teisės aktuose, ir atitinka [[#^s-d690f70604d33f77ff9192ec|šio straipsnio 2 dalies]] (išskyrus [[#^s-d690f70604d33f77ff9192ec|2 dalies]] 3 ir [[#^s-fadc3d2a7347e05f3edf6aa3|6 punktus]]) reikalavimus; ^s-30e1e5a51896021fb1a781d9
+10) turi dokumentus, įrodančius, kad gavėjas turi teisę ir pakankamai pajėgumų naudoti (perdirbti) įvežamas atliekas pagal reikalavimus, nustatytus Europos Sąjungos ir (ar) nacionaliniuose aplinkos apsaugą reglamentuojančiuose teisės aktuose, ir atitinka [[#^s-d690f70604d33f77ff9192ec|šio straipsnio 2 dalies]] (išskyrus [[#^s-d690f70604d33f77ff9192ec|2 dalies]] [[#^s-4a1890feff1ab1dcd85bbabf|3]] ir [[#^s-fadc3d2a7347e05f3edf6aa3|6]] punktus) reikalavimus; ^s-30e1e5a51896021fb1a781d9
 
 
 11) turi svėrimo įrenginį teritorijoje, kurioje laikomos ir paruošiamos išvežti gaminių ir (ar) pakuočių atliekos, arba sutartį dėl svėrimo paslaugų svėrimo įrenginiu su tokias paslaugas teikiančia įmone. ^s-b7b12bf6f399328c5907148f
@@ -1625,7 +1625,7 @@ REIKALAVIMAI ATLIEKŲ TVARKYTOJAMS, KURIE IŠRAŠO GAMINIŲ IR (AR) PAKUOČIŲ A
 ### 17 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-25646ab2f945f0077d7fe509
 
 
-1. Šio įstatymo [[#^s-028b2e533433dab08ae64006|4 straipsnio]] 5 ir 7 dalys, 5, [[#^s-d01904812449cf4678ef15d3|7 straipsniai]], 8 straipsnio 2 dalis, 9, 10, 11, 12, 13, 14, 15 ir [[#^s-604f731070d6eb888af43908|16 straipsniai]] įsigalioja 2013 m. sausio 1 d. ^s-0e6644afc7b55866af294f11
+1. Šio įstatymo [[#^s-028b2e533433dab08ae64006|4 straipsnio]] [[#^s-9bee3af2eda473c5693c8c41|5]] ir [[#^s-1194f9d913b31e66bcf2caf5|7]] dalys, [[#^s-01920a503b188a7ebf8c9f5f|5]], [[#^s-d01904812449cf4678ef15d3|7]] straipsniai, 8 straipsnio 2 dalis, [[#^s-c44edb1c44e99eca0f512eb8|9]], [[#^s-18a2bec3cf94f4991c37f726|10]], [[#^s-d39f38571ade8987fb5637bf|11]], [[#^s-3c9f17b1b0b10c8b2c7d01fd|12]], [[#^s-def9d28e325f002e39615743|13]], [[#^s-ce345a948758251fed663d21|14]], [[#^s-41475cbe18f20e74b3a270fa|15]] ir [[#^s-604f731070d6eb888af43908|16]] straipsniai įsigalioja 2013 m. sausio 1 d. ^s-0e6644afc7b55866af294f11
 
 
 2. Gamintojų ir importuotojų organizacijos, kurioms gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo licencijos išduotos iki šio įstatymo įsigaliojimo, turi: ^s-e6bdd2f19cc94dd0b924ce96
@@ -1640,7 +1640,7 @@ REIKALAVIMAI ATLIEKŲ TVARKYTOJAMS, KURIE IŠRAŠO GAMINIŲ IR (AR) PAKUOČIŲ A
 3. Šio įstatymo [[#^s-adbd7000b2f9f21dd9776957|6 straipsnis]] ir [[#^s-552e9323511f58d33cab3a17|8 straipsnio 1 dalis]] galioja iki 2012 m. gruodžio 31 d. ^s-464d8dde82e1f0476cab5f19
 
 
-4. Lietuvos Respublikos Vyriausybė ir kitos šiame įstatyme nurodytos institucijos, atsižvelgdamos į šio straipsnio 1 ir [[#^s-e6bdd2f19cc94dd0b924ce96|2 dalių]] nuostatas, priima šio įstatymo įgyvendinamuosius teisės aktus iki 2012 m. liepos 1 d. ^s-b23a5996a32dce044e4dac75
+4. Lietuvos Respublikos Vyriausybė ir kitos šiame įstatyme nurodytos institucijos, atsižvelgdamos į šio straipsnio [[#^s-0e6644afc7b55866af294f11|1]] ir [[#^s-e6bdd2f19cc94dd0b924ce96|2]] dalių nuostatas, priima šio įstatymo įgyvendinamuosius teisės aktus iki 2012 m. liepos 1 d. ^s-b23a5996a32dce044e4dac75
 
 
 

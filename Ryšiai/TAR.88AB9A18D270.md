@@ -10,8 +10,8 @@ pavadinimas: "Lietuvos Respublikos paveldimo turto mokesčio įstatymas"
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Lietuvos Respublikos mokesčių administravimo įstatymo
-- [[latest/a68ca96049fc11e483c6e89f9dba57fd|Lietuvos Respublikos paveldimo turto mokesčio įstatymo Nr. IX-1239 6 ir 7 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1132
 
 ## Šį įstatymą cituoja
 
-_Nėra._
+- [[latest/a68ca96049fc11e483c6e89f9dba57fd#^s-44246ca396776728673a2006|Lietuvos Respublikos paveldimo turto mokesčio įstatymo Nr. IX-1239 6 ir 7 straipsnių pakeitimo įstatymas]] - 7 straipsnio 1 dalies 3 punktą
+- [[latest/a68ca96049fc11e483c6e89f9dba57fd#^s-6fc4b87ef46a331731f5fe7a|Lietuvos Respublikos paveldimo turto mokesčio įstatymo Nr. IX-1239 6 ir 7 straipsnių pakeitimo įstatymas]] - 2 citatos - 6 straipsnis

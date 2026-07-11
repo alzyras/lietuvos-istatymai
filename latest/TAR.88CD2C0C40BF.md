@@ -314,7 +314,7 @@ Tarptautinis Raudonojo Kryžiaus komitetas bei Tarptautinė Raudonojo Kryžiaus 
 ### 18 straipsnis. 25 straipsnio papildymas ir pakeitimas ^s-f16ca3ea69270e4a84e1caaa
 
 
-Papildyti 25 straipsnį 3 ir [[#^s-afe55c7b72756a469729a260|6 punktais]], buvusius 3 ir [[#^s-24c3944ba50349ca90f0c20c|4 punktus]] laikyti atitinkamai 4 ir [[#^s-6e0b0803d76b50b9a1e4eaf5|5 punktais]] ir šį straipsnį išdėstyti taip:
+Papildyti 25 straipsnį 3 ir 6 punktais, buvusius 3 ir 4 punktus laikyti atitinkamai 4 ir 5 punktais ir šį straipsnį išdėstyti taip:
 
 
 

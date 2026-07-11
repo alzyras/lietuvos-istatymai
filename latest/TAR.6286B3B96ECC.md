@@ -337,7 +337,7 @@ baudžiamas laisvės atėmimu iki aštuonerių metų.
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 
 
-5. Už šio straipsnio 1 ir [[#^s-a2707d8a4765454c90ecfb50|4 dalyse]] numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.“ ^s-eadb137e7154439559977188
+5. Už šio straipsnio [[#^s-e1c3c6857434fe23f7f0f5a2|1]] ir [[#^s-a2707d8a4765454c90ecfb50|4]] dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas.“ ^s-eadb137e7154439559977188
 
 
 
@@ -907,7 +907,7 @@ priedas
 9. 2002 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2002/946/TVR dėl bausmių sistemos stiprinimo siekiant užkirsti kelią padėjimui neteisėtai atvykti, vykti tranzitu ir apsigyventi (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 61). ^s-c2e8a076ed288fe50f663f8a
 
 
-10. 2003 m. liepos 22 d. Tarybos pagrindų sprendimas 2003/568/TVR dėl kovos su korupcija privačiame sektoriuje (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 182). ^s-5bb748e966031bf6a022fe7e
+10. 2003 m. liepos 22 d. Tarybos pagrindų sprendimas 2003/568/TVR [dėl kovos su korupcija](https://e-tar.lt/portal/lt/legalAct/TAR.3CB207106C6D) privačiame sektoriuje (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 182). ^s-5bb748e966031bf6a022fe7e
 
 
 11. 2003 m. gruodžio 22 d. Tarybos pagrindų sprendimas 2004/68/TVR dėl kovos su seksualiniu vaikų išnaudojimu ir vaikų pornografija (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 10). ^s-942473057e127fd58dc647d6

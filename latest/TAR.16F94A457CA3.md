@@ -55,7 +55,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 „5 straipsnis. Priedas už ištarnautus Lietuvos valstybei metus
 
 
-1. Valstybės politikams, teisėjams ir valstybės pareigūnams mokamas priedas už ištarnautus Lietuvos valstybei metus nuo 1990 m. kovo 11 d., einant pareigas, nurodytas [[latest/TAR.D3ED3792F52B#^s-1b3fc60d66ac757df64527ed|Valstybės tarnybos įstatymo 4 straipsnio]] 1–4 dalyse ir 5 dalies 1–4 punktuose (išskyrus savivaldybės tarybos narius, kurie nebuvo merais ir mero pavaduotojais). Į ištarnautus metus įskaitomi laikotarpiai, nurodyti minėto įstatymo 42 straipsnio 1 dalyje. ^s-d91d6cc88dc6dff1ff6b8c4f
+1. Valstybės politikams, teisėjams ir valstybės pareigūnams mokamas priedas už ištarnautus Lietuvos valstybei metus nuo 1990 m. kovo 11 d., einant pareigas, nurodytas [[latest/TAR.D3ED3792F52B#^s-1b3fc60d66ac757df64527ed|Valstybės tarnybos įstatymo 4 straipsnio]] [[latest/TAR.D3ED3792F52B#^s-0e9df0b0d53cd0af846127e5|1]]–[[latest/TAR.D3ED3792F52B|4]] dalyse ir 5 dalies 1–4 punktuose (išskyrus savivaldybės tarybos narius, kurie nebuvo merais ir mero pavaduotojais). Į ištarnautus metus įskaitomi laikotarpiai, nurodyti minėto įstatymo 42 straipsnio 1 dalyje. ^s-d91d6cc88dc6dff1ff6b8c4f
 
 
 2. Tarnybos stažo skaičiavimo tvarką nustato Vyriausybė. ^s-6fdcdc1d5b5c3b5e45bb9bb5

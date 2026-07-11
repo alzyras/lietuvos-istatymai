@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 3 straipsnio pakeitimas ir papildymas ^s-cdc1876573de4cc8acbabf87
 
 
-3 straipsnio pavadinime po žodžio „skyrimo“ įrašyti žodžius „ir mokėjimo“, 1 [[#^s-d7397a23f5f561cd9ade7ecb|dalies 1 punktą]] pripažinti netekusiu galios, šios dalies buvusius 2 ir 3 punktus atitinkamai laikyti 1 ir [[#^s-a050f636ed706fa8e86d9a92|2 punktais]], straipsnį papildyti nauja 2 dalimi, buvusią 2 dalį laikyti 3 dalimi ir visą straipsnį išdėstyti taip:
+3 straipsnio pavadinime po žodžio „skyrimo“ įrašyti žodžius „ir mokėjimo“, 1 [[#^s-d7397a23f5f561cd9ade7ecb|dalies 1 punktą]] pripažinti netekusiu galios, šios dalies buvusius [[#^s-a050f636ed706fa8e86d9a92|2]] ir 3 punktus atitinkamai laikyti [[#^s-d7397a23f5f561cd9ade7ecb|1]] ir [[#^s-a050f636ed706fa8e86d9a92|2]] punktais, straipsnį papildyti nauja 2 dalimi, buvusią 2 dalį laikyti 3 dalimi ir visą straipsnį išdėstyti taip:
 
 
 „3 straipsnis. Mokslininkų valstybinės pensijos skyrimo ir mokėjimo sąlygos

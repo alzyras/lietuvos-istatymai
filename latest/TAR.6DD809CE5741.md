@@ -54,7 +54,7 @@ Vilnius
 1. Lietuvos Respublikos draudimo priežiūros komisijos (toliau – Draudimo priežiūros komisija) likvidatorius yra Draudimo priežiūros komisijos pirmininkas. Lietuvos Respublikos vertybinių popierių komisijos (toliau – Vertybinių popierių komisija) likvidatorius yra Vertybinių popierių komisijos pirmininkas. ^s-3e18848c01d92b70ed6a4e5a
 
 
-2. Priežiūros institucijų likvidatoriai yra atsakingi už sprendimo dėl priežiūros institucijų likvidavimo paskelbimą viešai, pranešimą Juridinių asmenų registrui ir visiems kreditoriams, kaip tai numatyta [[latest/TAR.3A756D83A99B#^s-eb44f9523b049d95dee532f7|Lietuvos Respublikos biudžetinių įstaigų įstatymo 15 straipsnio]] 7 ir 8 dalyse, ir turi kitas įstatymuose ir kituose teisės aktuose nustatytas pareigas ir teises. ^s-68fcaae3e491f1668b554ddd
+2. Priežiūros institucijų likvidatoriai yra atsakingi už sprendimo dėl priežiūros institucijų likvidavimo paskelbimą viešai, pranešimą Juridinių asmenų registrui ir visiems kreditoriams, kaip tai numatyta [[latest/TAR.3A756D83A99B#^s-eb44f9523b049d95dee532f7|Lietuvos Respublikos biudžetinių įstaigų įstatymo 15 straipsnio]] [[latest/TAR.3A756D83A99B|7]] ir [[latest/TAR.3A756D83A99B|8]] dalyse, ir turi kitas įstatymuose ir kituose teisės aktuose nustatytas pareigas ir teises. ^s-68fcaae3e491f1668b554ddd
 
 
 3. Nuo šio įstatymo įsigaliojimo Lietuvos Respublikos finansų ministerija įgyvendina priežiūros institucijų savininko ir priežiūros institucijų pirmininkų ir narių darbdavio teises ir pareigas, taip pat ir teisę pakeisti [[#^s-3e18848c01d92b70ed6a4e5a|šio straipsnio 1 dalyje]] nurodytus likvidatorius. ^s-36c12c332d107d7f78c7c176

@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio 8 punkto pripažinimas netekusiu galios ^s-744c4184c22b457e3e5188fb
 
 
-1 straipsnio 8 punktą pripažinti netekusiu galios, buvusius 9–13 punktus laikyti atitinkamai 8–[[#^s-326dfa340042b9f0c751adfb|12 punktais]] ir juos išdėstyti taip:
+1 straipsnio 8 punktą pripažinti netekusiu galios, buvusius [[#^s-c180747b8dda12086eb6fb75|9]]–13 punktus laikyti atitinkamai 8–[[#^s-326dfa340042b9f0c751adfb|12]] punktais ir juos išdėstyti taip:
 
 
 „8) Lietuvos Respublikos administracinių teisės pažeidimų kodeksą, priimtą 1984 m. gruodžio 13 d., (Žin., 1985, Nr. 1-1) su vėlesniais pakeitimais ir papildymais;
@@ -48,7 +48,7 @@ Vilnius
 9) Lietuvos Respublikos atmosferos oro apsaugos įstatymą, priimtą 1981 m. birželio 19 d., (Žin., 1981, Nr. 17-216; 1984, Nr. 34-391); ^s-c180747b8dda12086eb6fb75
 
 
-10) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos valstiečio ūkio“, priimtą 1989 m. liepos 4 d., (Žin., 1989, Nr. 20-242); ^s-4b0b772321654c586010250e
+10) Lietuvos Respublikos įstatymą [„Dėl Lietuvos Respublikos valstiečio ūkio“](https://e-tar.lt/portal/lt/legalAct/TAR.50CDAF4F8A19), priimtą 1989 m. liepos 4 d., (Žin., 1989, Nr. 20-242); ^s-4b0b772321654c586010250e
 
 
 11) Lietuvos Respublikos referendumo įstatymą, priimtą 1989 m. lapkričio 3 d., (Žin., 1989, Nr. 33-445) su vėlesniais pakeitimais ir papildymais; ^s-e5cdec581a61999f46e1a6eb

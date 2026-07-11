@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.2E7C18F61454#^s-64fb28afb5e999f6a88ca230|Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas]] - 2 citatos - CIVILINIO PROCESO KODEKSO 512, 609, 610, 632, 756 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR 652 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+- [[latest/TAR.2E7C18F61454#^s-64fb28afb5e999f6a88ca230|Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas]] - CIVILINIO PROCESO KODEKSO 512, 609, 610, 632, 756 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR 652 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS

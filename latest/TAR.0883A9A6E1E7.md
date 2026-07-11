@@ -162,7 +162,7 @@ REIKALAVIMAI ATLIEKŲ TVARKYTOJAMS, KURIE IŠRAŠO GAMINIŲ IR (AR) PAKUOČIŲ A
 5. Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turi teisę išrašyti ir į Atliekų tvarkytojų sąrašą įrašomi tie gaminių ir (ar) pakuočių atliekų eksportuotojai, kurie, be kitų šiame Įstatyme nustatytų reikalavimų atliekų išvežimo veiklai, atitinka šiuos reikalavimus: ^s-eb946c95a058eb159b1c6a76
 
 
-1) pagal 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1013/2006 dėl atliekų vežimo (OL 2006 L 190, p. 1) nustatytus reikalavimus turi teisę išvežti gaminių ir (ar) pakuočių atliekas; ^s-13772d6e07797fa6dedf3456
+1) pagal 2006 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1013/2006](https://eur-lex.europa.eu/eli/reg/1013/2006/oj) dėl atliekų vežimo (OL 2006 L 190, p. 1) nustatytus reikalavimus turi teisę išvežti gaminių ir (ar) pakuočių atliekas; ^s-13772d6e07797fa6dedf3456
 
 
 2) atlieka pradinį gaminių atliekų apdorojimą ir išveža panaudoti (perdirbti) jų sudedamąsias medžiagas ar dalis į valstybes nares arba į valstybes nares išveža panaudoti (perdirbti) neapdorotas gaminių atliekas, arba į valstybes nares išveža panaudoti (perdirbti) pakuočių atliekas; ^s-f5d8f8e6c61874b12ad9ec00

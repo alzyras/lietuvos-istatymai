@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-a9de6c362ab12021f6c7b58a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gegužės 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1994 m. spalio 2 d.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gegužės 8 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos“](https://e-tar.lt/portal/lt/legalAct/TAR.A1D073DCD60B), ratifikuoja Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1994 m. spalio 2 d.
 
 
 

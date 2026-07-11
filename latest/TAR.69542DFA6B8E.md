@@ -109,7 +109,7 @@ Pakeisti 34 straipsnį ir jį išdėstyti taip:
 1. Gaminių ar pakuotės atliekų tvarkymo programa (toliau – Programa) sudaroma atliekų tvarkymo finansavimo galimybėms padidinti. ^s-7c6b4631f39fda5c19518433
 
 
-2. Programos lėšas sudaro [[latest/TAR.FFF9AE9162EE|Mokesčio už aplinkos teršimą įstatyme]] nustatytas mokestis už aplinkos teršimą apmokestinamųjų gaminių ir pakuotės atliekomis, taip pat lėšos, gautos pagal šio Įstatymo 346 straipsnio 3 ir [[#^s-dcf5b93d240edc338c49b24d|4 dalyse]] nurodytas garantijas, laidavimo draudimo sutartis ir kitus dokumentus, užtikrinančius atliekų tvarkymo finansavimą. ^s-f7585ec95aa29df9f1d96651
+2. Programos lėšas sudaro [[latest/TAR.FFF9AE9162EE|Mokesčio už aplinkos teršimą įstatyme nustatytas mokestis už aplinkos teršimą apmokestinamųjų gaminių ir pakuotės atliekomis, taip pat lėšos, gautos pagal šio Įstatymo 346 straipsnio]] [[latest/TAR.FFF9AE9162EE|3]] ir [[latest/TAR.FFF9AE9162EE|4]] dalyse nurodytas garantijas, laidavimo draudimo sutartis ir kitus dokumentus, užtikrinančius atliekų tvarkymo finansavimą. ^s-f7585ec95aa29df9f1d96651
 
 
 3. Programos lėšos naudojamos finansuoti: ^s-c7b2fa38fcd33bd8ca7fba25

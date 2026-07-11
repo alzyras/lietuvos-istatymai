@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-68d1d5f7802799e40710bf10
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. kovo 21 d. dekretą Nr. 555, ratifikuoja 2005 m. spalio 19 d. Paryžiuje priimtą Tarptautinę konvenciją prieš dopingo vartojimą sporte.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. kovo 21 d. dekretą Nr. 555](https://e-tar.lt/portal/lt/legalAct/TAR.AE020D1BC744), ratifikuoja 2005 m. spalio 19 d. Paryžiuje priimtą Tarptautinę konvenciją prieš dopingo vartojimą sporte.
 
 
 

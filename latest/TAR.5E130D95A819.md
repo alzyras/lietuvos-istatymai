@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-419fc6f2a66f7443210c7d3e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. lapkričio 14 d. dekretą Nr. 1083, ratifikuoja 1959 metų Sutartį dėl Tarptautinės atominės energijos agentūros privilegijų ir imunitetų.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2000 m. lapkričio 14 d. dekretą Nr. 1083](https://e-tar.lt/portal/lt/legalAct/TAR.89A491A2F52E), ratifikuoja 1959 metų Sutartį dėl Tarptautinės atominės energijos agentūros privilegijų ir imunitetų.
 
 
 

@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos žemės įstatymo 10 straipsnio papildymo įs
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.CC10C5274343#^s-661a3638c526e781fc44ac25|Lietuvos Respublikos žemės įstatymas]] - 2 citatos - Įstatymas Nr. XI-2119
-- [[latest/TAR.CC10C5274343#^s-edac287afcc583521e2a64d9|Lietuvos Respublikos žemės įstatymas]] - 2 citatos - Įstatymas Nr. XI-2119
+- [[latest/TAR.CC10C5274343#^s-661a3638c526e781fc44ac25|Lietuvos Respublikos žemės įstatymas]] - ŽEMĖS ĮSTATYMO 10 STRAIPSNIO PAPILDYMO ĮSTATYMAS

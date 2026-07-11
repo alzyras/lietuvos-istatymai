@@ -183,7 +183,7 @@ Pakeisti [[#^s-224fd7e9d14cbdda0a1370a9|7 straipsnį]] ir jį išdėstyti taip:
 5. Valstybinės visuomenės sveikatos priežiūros tarnybos prie Sveikatos apsaugos ministerijos (toliau – Valstybinė visuomenės sveikatos priežiūros tarnyba) ir jai pavaldžių teritorinių visuomenės sveikatos priežiūros įstaigų kompetencija apibrėžta šio Įstatymo [[#^s-5938102d20f095c652271603|15 straipsnyje]]. ^s-1876bcfc2080805533fc32ce
 
 
-6. Apskrities viršininkas visuomenės sveikatos priežiūros srityje koordinuoja visuomenės sveikatos stebėseną (monitoringą), valstybinių sveikatos programų įgyvendinimą apskrities teritorijoje ir vykdo kitas Apskrities valdymo įstatyme bei kituose teisės aktuose numatytas funkcijas.“ ^s-01f0e6e2788ea0afdeaef162
+6. Apskrities viršininkas visuomenės sveikatos priežiūros srityje koordinuoja visuomenės sveikatos stebėseną (monitoringą), valstybinių sveikatos programų įgyvendinimą apskrities teritorijoje ir vykdo kitas [Apskrities valdymo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF) bei kituose teisės aktuose numatytas funkcijas.“ ^s-01f0e6e2788ea0afdeaef162
 
 
 
@@ -269,7 +269,7 @@ Pakeisti [[#^s-5938102d20f095c652271603|15 straipsnį]] ir jį išdėstyti taip:
 3. Valstybinei visuomenės sveikatos priežiūros tarnybai pavaldžios teritorinės visuomenės sveikatos priežiūros įstaigos: ^s-385387765f67bfb7fe18263c
 
 
-1) vykdo [[#^s-950b348f2d8f37023203f80a|šio straipsnio 1 dalies]] 2–7 punktuose nustatytas funkcijas; ^s-e06034d68ac5c047b875ddfc
+1) vykdo [[#^s-950b348f2d8f37023203f80a|šio straipsnio 1 dalies]] [[#^s-f79a4e18275318d88a18a08c|2]]–7 punktuose nustatytas funkcijas; ^s-e06034d68ac5c047b875ddfc
 
 
 2) šio Įstatymo [[#^s-63aa29fbcc49805817a174ab|21 straipsnio 3 dalyje]] nurodytiems asmenims išduoda leidimus–higienos pasus, vykdo jų sąlygų laikymosi priežiūrą; ^s-f79a4e18275318d88a18a08c
@@ -435,7 +435,7 @@ Papildyti 41 straipsnį 5, 6, 7, 8, 9, 10, 11 ir 12 dalimis:
 „5. Valstybinė visuomenės sveikatos saugos kontrolė vykdoma Sveikatos apsaugos ministerijos ar jos įgaliotos įstaigos nustatyta tvarka.
 
 
-6. Vykdydami valstybinę visuomenės sveikatos saugos kontrolę šio Įstatymo 15 straipsnio 1 dalies 2, 3 ir [[#^s-4ec5fa25c5687138c7b6cc15|4 punktuose]] apibrėžtuose objektuose (toliau – kontrolės objektai) Valstybinės visuomenės sveikatos priežiūros tarnybos ir jai pavaldžių teritorinių visuomenės sveikatos priežiūros įstaigų tarnautojai turi teisę: ^s-596617210548b371d321b54f
+6. Vykdydami valstybinę visuomenės sveikatos saugos kontrolę šio Įstatymo 15 straipsnio 1 dalies 2, 3 ir 4 punktuose apibrėžtuose objektuose (toliau – kontrolės objektai) Valstybinės visuomenės sveikatos priežiūros tarnybos ir jai pavaldžių teritorinių visuomenės sveikatos priežiūros įstaigų tarnautojai turi teisę: ^s-596617210548b371d321b54f
 
 
 1) pateikę tarnybinį pažymėjimą ir įstaigos vadovo ar jo įgalioto asmens išduotą pavedimą, laisvai ir be išankstinio perspėjimo įeiti į kontrolės objektus jų darbo metu; ^s-1b9b08e8156d80cb30c81b68
@@ -571,7 +571,7 @@ Pakeisti 44 straipsnį ir jį išdėstyti taip:
 1. Vyriausybė arba jos įgaliotos valstybės institucijos iki šio įstatymo įsigaliojimo dienos parengia ir patvirtina būtinus šiam įstatymui įgyvendinti teisės aktus. ^s-ee34a38e8e8891e62a90fdbc
 
 
-2. Šis įstatymas įsigalioja nuo 2007 m. liepos 1 d., išskyrus Įstatymo 3, 4, 9, 14, 19, 20, 21 ir [[#^s-0376d96002032a60fa475c2f|22 straipsnius]], kurie įsigalioja nuo 2008 m. sausio 1 d., ir Įstatymo [[#^s-4bcb6c13d8fa312d5ce6d0df|23 straipsnio]] 1 ir [[#^s-f521b87d83c35d0f0db225fd|3 dalis]]. ^s-b7946e7c433f0e2d4b25bb73
+2. Šis įstatymas įsigalioja nuo 2007 m. liepos 1 d., išskyrus Įstatymo [[#^s-7a7effa54d69bff4a24bc865|3]], [[#^s-4481c5a4d4ccf9bc756d0dd0|4]], [[#^s-969008090201850330f5aaf3|9]], [[#^s-9570ffbc970d4a7867194859|14]], [[#^s-d31dc4c21c960e7c93ad68ee|19]], [[#^s-6bfe909c8f4681681f751c5c|20]], [[#^s-2e4e6fe7ed349b7a94941708|21]] ir [[#^s-0376d96002032a60fa475c2f|22]] straipsnius, kurie įsigalioja nuo 2008 m. sausio 1 d., ir Įstatymo [[#^s-4bcb6c13d8fa312d5ce6d0df|23 straipsnio]] [[#^s-ee34a38e8e8891e62a90fdbc|1]] ir [[#^s-f521b87d83c35d0f0db225fd|3]] dalis. ^s-b7946e7c433f0e2d4b25bb73
 
 
 3. Vyriausybė, rengdama Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą, įtraukia Valstybinę visuomenės sveikatos priežiūros tarnybą prie Sveikatos apsaugos ministerijos į asignavimų valdytojus ir numato finansavimą savivaldybių vykdomai visuomenės sveikatos priežiūrai. ^s-f521b87d83c35d0f0db225fd

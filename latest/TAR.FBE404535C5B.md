@@ -213,7 +213,7 @@ Nr. XV-518, 2025-11-13, paskelbta TAR 2025-11-28, i. k. 2025-20136
 
 
 
-22. Visuomenės aptarnavimo įsipareigojimai – įsipareigojimai organizuoti darbą, vežti ir laikytis nustatytų tarifų, kurių vežėjas, atsižvelgdamas į komercinius interesus, neprisiimtų arba neprisiimtų tokiu mastu ar tokiomis pačiomis sąlygomis; įsipareigojimas organizuoti darbą – įsipareigojimas, nustatytas vežėjui, kuris turi teisę dirbti pagal licenciją ar leidimą bet kokio maršruto ar įrangos atžvilgiu, kad būtų užtikrintas transporto paslaugų teikimo nenutrūkstamumas, reguliarumas ir atitinkamas mastas; įpareigojimas vežti – įpareigojimas, nustatytas vežėjui priimti ir vežti keleivius ar krovinius, taikant konkrečius tarifus ir pagal nustatytas sąlygas; įsipareigojimas dėl tarifų – įpareigojimas, nustatytas vežėjui, kad jis tam tikroms keleivių kategorijoms, tam tikros kategorijos kroviniams arba atitinkamiems maršrutams taikytų valstybės ar savivaldybių institucijų patvirtintus tarifus, kurie neatitinka vežėjo komercinių interesų. ^s-12c7ac17aea9ad82feeef5eb
+22. Visuomenės aptarnavimo įsipareigojimai – įsipareigojimai organizuoti darbą, vežti ir laikytis nustatytų tarifų, kurių vežėjas, atsižvelgdamas į komercinius interesus, neprisiimtų arba neprisiimtų tokiu mastu ar tokiomis pačiomis sąlygomis; įsipareigojimas organizuoti darbą – įsipareigojimas, nustatytas vežėjui, kuris turi teisę dirbti pagal licenciją ar leidimą bet kokio maršruto ar įrangos atžvilgiu, kad būtų užtikrintas transporto paslaugų teikimo nenutrūkstamumas, reguliarumas ir atitinkamas mastas; įpareigojimas vežti – įpareigojimas, nustatytas vežėjui priimti ir vežti keleivius ar krovinius, taikant konkrečius tarifus ir pagal nustatytas sąlygas; įsipareigojimas [dėl tarifų](https://e-tar.lt/portal/lt/legalAct/SAV.511075) – įpareigojimas, nustatytas vežėjui, kad jis tam tikroms keleivių kategorijoms, tam tikros kategorijos kroviniams arba atitinkamiems maršrutams taikytų valstybės ar savivaldybių institucijų patvirtintus tarifus, kurie neatitinka vežėjo komercinių interesų. ^s-12c7ac17aea9ad82feeef5eb
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
 Nr. XV-518, 2025-11-13, paskelbta TAR 2025-11-28, i. k. 2025-20136
@@ -420,19 +420,19 @@ Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
 
 
 21. Viešojo transporto priemonės, vežančios keleivius automobilių ir vidaus vandenų keliais, turi būti pritaikytos neįgaliesiems ir riboto judumo asmenims – jose turi būti įrengtos šių asmenų informavimo, mobilumo užtikrinimo ir saugaus vykimo viešuoju transportu priemonės pagal susisiekimo ministro tvirtinamus viešojo transporto priemonių pritaikymo neįgaliesiems ir riboto judumo asmenims reikalavimus. Ši nuostata netaikoma tarptautiniam susisiekimui naudojamoms viešojo transporto priemonėms. ^s-c3192fc02619418daee8a594
-TAR pastaba. [[#^s-c3192fc02619418daee8a594|11 straipsnio 21 dalies]] nuostatos taikomos įsigaliojus (2022-11-01) [[latest/7445aa90f6bc11ec8fa7d02a65c371ad|įstatymui Nr. XIV-1141]] pirmą kartą Lietuvos Respublikoje registruojamoms viešojo transporto priemonėms, išskyrus atvejus, kai Lietuvos Respublikos teisės aktais reglamentuojamos transporto priemonių pirkimo procedūros buvo pradėtos iki įsigaliojant (2022-11-01) [[latest/7445aa90f6bc11ec8fa7d02a65c371ad|įstatymui Nr. XIV-1141]].
+TAR pastaba. 11 straipsnio 21 dalies nuostatos taikomos įsigaliojus (2022-11-01) [[latest/7445aa90f6bc11ec8fa7d02a65c371ad|įstatymui Nr. XIV-1141]] pirmą kartą Lietuvos Respublikoje registruojamoms viešojo transporto priemonėms, išskyrus atvejus, kai Lietuvos Respublikos teisės aktais reglamentuojamos transporto priemonių pirkimo procedūros buvo pradėtos iki įsigaliojant (2022-11-01) [[latest/7445aa90f6bc11ec8fa7d02a65c371ad|įstatymui Nr. XIV-1141]].
 Papildyta straipsnio dalimi:
 Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
 
 
 
-22. Keleiviams geležinkeliais vežti naudojami geležinkelių riedmenys, kaip jie apibrėžiami [[latest/TAR.C7A984833333|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme]], turi būti pritaikyti neįgaliesiems ir riboto judumo asmenims vadovaujantis 2014 m. lapkričio 18 d. Komisijos reglamente (ES) Nr. 1300/2014 dėl Sąjungos geležinkelių sistemos prieinamumo neįgaliesiems ir riboto judumo asmenims techninių sąveikos specifikacijų su paskutiniais pakeitimais, padarytais 2019 m. gegužės 16 d. Komisijos įgyvendinimo reglamentu (ES) 2019/772, nustatytomis sąlygomis ir tvarka. Reikalavimas pritaikyti geležinkelių riedmenis neįgaliesiems ir riboto judumo asmenims vežti netaikomas siaurųjų geležinkelių (600 mm ir 750 mm pločio vėžių) tinkluose ir tarptautiniam susisiekimui geležinkeliais su trečiosiomis šalimis naudojamoms transporto priemonėms. ^s-3023d1747bdd3e977478f140
+22. Keleiviams geležinkeliais vežti naudojami geležinkelių riedmenys, kaip jie apibrėžiami [[latest/TAR.C7A984833333|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme]], turi būti pritaikyti neįgaliesiems ir riboto judumo asmenims vadovaujantis 2014 m. lapkričio 18 d. Komisijos [reglamente (ES) Nr. 1300/2014](https://eur-lex.europa.eu/eli/reg/1300/2014/oj) dėl Sąjungos geležinkelių sistemos prieinamumo neįgaliesiems ir riboto judumo asmenims techninių sąveikos specifikacijų su paskutiniais pakeitimais, padarytais 2019 m. gegužės 16 d. Komisijos įgyvendinimo [reglamentu (ES) 2019/772](https://eur-lex.europa.eu/eli/reg/2019/772/oj), nustatytomis sąlygomis ir tvarka. Reikalavimas pritaikyti geležinkelių riedmenis neįgaliesiems ir riboto judumo asmenims vežti netaikomas siaurųjų geležinkelių (600 mm ir 750 mm pločio vėžių) tinkluose ir tarptautiniam susisiekimui geležinkeliais su trečiosiomis šalimis naudojamoms transporto priemonėms. ^s-3023d1747bdd3e977478f140
 Papildyta straipsnio dalimi:
 Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
 
 
 
-3. Asmens duomenys intelektinių transporto sistemų ir sąveikiųjų intelektinių transporto sistemų srityse tvarkomi vadovaujantis [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]], [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymo]] ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) nuostatomis. Tais atvejais, kai nėra būtini asmens tapatybę nustatantys duomenys, intelektinių transporto sistemų ir sąveikiųjų intelektinių transporto sistemų srityse tvarkomi tokie duomenys, iš kurių negalima nustatyti asmens tapatybės. ^s-3ac9226be11251501e085190
+3. Asmens duomenys intelektinių transporto sistemų ir sąveikiųjų intelektinių transporto sistemų srityse tvarkomi vadovaujantis [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]], [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymo]] ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) nuostatomis. Tais atvejais, kai nėra būtini asmens tapatybę nustatantys duomenys, intelektinių transporto sistemų ir sąveikiųjų intelektinių transporto sistemų srityse tvarkomi tokie duomenys, iš kurių negalima nustatyti asmens tapatybės. ^s-3ac9226be11251501e085190
 Straipsnio dalies pakeitimai:
 Nr. XIII-1856, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00092
 Nr. XV-104, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00714
@@ -493,7 +493,7 @@ Nr. XII-1306, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16787
 
 
 
-2. Viešųjų paslaugų sutarčių turinį, trukmę, jų sudarymo sąlygas ir tvarką, vežėjo (operatoriaus) nuostolių, patirtų vykdant viešųjų paslaugų įsipareigojimus, kompensavimo tvarką nustato Reglamentas (EB) Nr. 1370/2007 ir Reglamentas (EB) Nr. 1008/2008. ^s-734ee08d89079d4d4ce107a6
+2. Viešųjų paslaugų sutarčių turinį, trukmę, jų sudarymo sąlygas ir tvarką, vežėjo (operatoriaus) nuostolių, patirtų vykdant viešųjų paslaugų įsipareigojimus, kompensavimo tvarką nustato [Reglamentas (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) ir [Reglamentas (EB) Nr. 1008/2008](https://eur-lex.europa.eu/eli/reg/1008/2008/oj). ^s-734ee08d89079d4d4ce107a6
 
 
 3. Nuostolių, patirtų vykdant viešųjų paslaugų įsipareigojimą, kompensacijos apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-e88c0221240d38711d22b1b4
@@ -553,7 +553,7 @@ Nr. XIV-524, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19617
 1) sudaro galimybę nediskriminacinėmis sąlygomis naudotis viešosios transporto infrastruktūros objektu; ^s-d3e95740419a6d5f0113820b
 
 
-2) užtikrina, kad viešosios transporto infrastruktūros objektas atitiktų saugaus eismo, aplinkosaugos ir kitus reikalavimus, nustatytus šio Įstatymo 10 ir [[#^s-fc68f51ca9d6cfdfb6f871fd|11 straipsniuose]], tinkamai prižiūri, modernizuoja ir plėtoja viešosios transporto infrastruktūros objektus. ^s-ff61609abec02a5c36419364
+2) užtikrina, kad viešosios transporto infrastruktūros objektas atitiktų saugaus eismo, aplinkosaugos ir kitus reikalavimus, nustatytus šio Įstatymo [[#^s-27ca9ff7936299572717e07a|10]] ir [[#^s-fc68f51ca9d6cfdfb6f871fd|11]] straipsniuose, tinkamai prižiūri, modernizuoja ir plėtoja viešosios transporto infrastruktūros objektus. ^s-ff61609abec02a5c36419364
 
 
 2. Lėšas, gautas už naudojimąsi viešąja transporto infrastruktūra, viešosios transporto infrastruktūros valdytojas naudoja pagal viešosios transporto infrastruktūros savininko ar jo įgaliotos institucijos patvirtintą pajamų ir išlaidų sąmatą bei patvirtintas programas [[#^s-0564c4d94b04bec75aa679e7|šio straipsnio 1 dalyje]] numatytiems tikslams, išskyrus atvejus, kai viešosios transporto infrastruktūros savininkė yra valstybės ar savivaldybės valdoma bendrovė arba uždaroji akcinė bendrovė ar akcinė bendrovė, kurių visos akcijos nuosavybės teise priklauso valstybės ar savivaldybės valdomai bendrovei, arba kai viešosios transporto infrastruktūros valdymas perduodamas investuotojui, kaip tai numatyta šio Įstatymo [[#^s-83e19c32ae7e8f75feb20546|9 straipsnio 3 dalyje]]. ^s-7cc0450cac8037d5d181b0d7
@@ -681,10 +681,10 @@ Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 8. Šio Įstatymo 1 priede nurodyti duomenys įgaliotam padaliniui teikiami ir tvarkomi Lietuvos policijos generalinio komisaro nustatyta tvarka. ^s-8e3ecfd7cf443b98ae3b6bfc
 
 
-9. Vežėjas, kuris verčiasi keleivių vežimu oro keliais, Reglamento (ES) 2016/679 nustatyta tvarka privalo informuoti keleivius apie numatomą jų asmens duomenų, nurodytų [[#^s-a62103c6813ef76e55e45bdf|šio straipsnio 1 dalyje]], tvarkymą. ^s-bb213d0aec57448a73dd019b
+9. Vežėjas, kuris verčiasi keleivių vežimu oro keliais, [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nustatyta tvarka privalo informuoti keleivius apie numatomą jų asmens duomenų, nurodytų [[#^s-a62103c6813ef76e55e45bdf|šio straipsnio 1 dalyje]], tvarkymą. ^s-bb213d0aec57448a73dd019b
 
 
-10. Savo teises dėl asmens duomenų tvarkymo keleivis įgyvendina vadovaudamasis duomenų valdytojų, į kuriuos kreipiamasi dėl duomenų subjekto teisių įgyvendinimo, nustatyta tvarka, Reglamentu (ES) 2016/679 arba [[latest/TAR.299D835159BE|Asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu]]. ^s-0cb7af3fda63b04ee2cb553c
+10. Savo teises [dėl asmens duomenų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.CCBBCFCD3831) keleivis įgyvendina vadovaudamasis duomenų valdytojų, į kuriuos kreipiamasi dėl duomenų subjekto teisių įgyvendinimo, nustatyta tvarka, [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) arba [[latest/TAR.299D835159BE|Asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu]]. ^s-0cb7af3fda63b04ee2cb553c
 
 
 Straipsnio pakeitimai:
@@ -697,7 +697,7 @@ Nr. XV-104, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00714
 
 
 1. Vežėjai, kurie verčiasi keleivių vežimu oro ar jūros keliais ar kurie tarptautinio susisiekimo maršrutais autobusais sausuma veža keleivių grupes specialiais ir užsakomaisiais reisais, įveždami užsieniečius į Lietuvos Respublikos teritoriją per valstybės sieną, privalo užtikrinti, kad šie turėtų kelionės dokumentus, kurie reikalingi įvažiuoti į Lietuvos Respubliką. Vežėjai turi teisę tikrinti keleivių kelionės dokumentus, kad įsitikintų, ar keleivis turi kelionės dokumentus, reikalingus įvažiuoti į Lietuvos Respubliką. ^s-82aecb2dcfad1d0ebf3194c6
-TAR pastaba. Bylos dėl Lietuvos Respublikos transporto veiklos pagrindų [[#^s-82aecb2dcfad1d0ebf3194c6|20 straipsnio 1 dalies]] reikalavimų pažeidimo, pradėtos iki 2017-01-01, baigiamos nagrinėti pagal tvarką, galiojusią iki [[latest/d59730f041cf11e6a8ae9e1795984391|įstatymo Nr. XII-2483]] įsigaliojimo (2017-01-01), išskyrus [[latest/d59730f041cf11e6a8ae9e1795984391|įstatymo Nr. XII-2483]] 16  straipsnio 4 dalyje nurodytą išimtį.
+TAR pastaba. Bylos dėl Lietuvos Respublikos transporto veiklos pagrindų 20 straipsnio 1 dalies reikalavimų pažeidimo, pradėtos iki 2017-01-01, baigiamos nagrinėti pagal tvarką, galiojusią iki [[latest/d59730f041cf11e6a8ae9e1795984391|įstatymo Nr. XII-2483]] įsigaliojimo (2017-01-01), išskyrus [[latest/d59730f041cf11e6a8ae9e1795984391|įstatymo Nr. XII-2483]] 16  straipsnio 4 dalyje nurodytą išimtį.
 
 
 2. Jeigu Valstybės sienos apsaugos tarnyba nustato, kad [[#^s-82aecb2dcfad1d0ebf3194c6|šio straipsnio 1 dalyje]] nurodyto vežėjo vežamas užsienietis neturi kelionės dokumentų, kurie reikalingi įvažiuoti į Lietuvos Respubliką, vežėjui skiriama bauda nuo trijų tūkstančių šimto aštuoniasdešimt šešių iki penkių tūkstančių dviejų šimtų keturiolikos eurų už kiekvieną be reikalingų kelionės dokumentų vežamą užsienietį. ^s-1153b47f1724113d17b1abd9
@@ -732,7 +732,7 @@ Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 
 
 4. Bauda vežėjui negali būti paskirta, jeigu nuo šio Įstatymo reikalavimų pažeidimo padarymo dienos praėjo daugiau kaip dveji metai. Praėjus šiam terminui, bylos dėl šio Įstatymo reikalavimų pažeidimo nagrinėjimas nepradedamas, o pradėtas – nutraukiamas. ^s-dd8c634698c7d8b820c54757
-TAR pastaba. [[#^s-dd8c634698c7d8b820c54757|21 straipsnio 4 dalies]] nuostata taikoma ir nagrinėjant bylas dėl [[#^s-a62103c6813ef76e55e45bdf|Lietuvos Respublikos transporto veiklos pagrindų įstatymo 191 straipsnio 1 dalies]] ir [[#^s-82aecb2dcfad1d0ebf3194c6|20 straipsnio 1 dalies]] reikalavimų pažeidimų, padarytų iki 2017-01-01, jeigu bylos dėl šių pažeidimų nebuvo baigtos nagrinėti.
+TAR pastaba. 21 straipsnio 4 dalies nuostata taikoma ir nagrinėjant bylas dėl [[#^s-a62103c6813ef76e55e45bdf|Lietuvos Respublikos transporto veiklos pagrindų įstatymo 191 straipsnio 1 dalies]] ir [[#^s-82aecb2dcfad1d0ebf3194c6|20 straipsnio 1 dalies]] reikalavimų pažeidimų, padarytų iki 2017-01-01, jeigu bylos dėl šių pažeidimų nebuvo baigtos nagrinėti.
 
 
 Straipsnio pakeitimai:
@@ -846,7 +846,7 @@ Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 ### 26 straipsnis. Baudų skyrimas šio Įstatymo reikalavimus pažeidusiems vežėjams ^s-1bc702a23f7bbbf22064dab8
 
 
-1. Konkretus skiriamos baudos dydis nustatomas pagal sankcijoje numatytų minimalios ir maksimalios baudų vidurkį, atsižvelgiant į šio straipsnio 2 ir [[#^s-70dbc67bbcdf7cae7ef39487|3 dalyse]] nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas šio Įstatymo [[#^s-128e9681890dbeb07464ca67|25 straipsnio 2 dalyje]] nurodytame nutarime. ^s-cac7e27e1e0ec85670e2afa1
+1. Konkretus skiriamos baudos dydis nustatomas pagal sankcijoje numatytų minimalios ir maksimalios baudų vidurkį, atsižvelgiant į šio straipsnio [[#^s-e1d2f608ff004c57c8515eb4|2]] ir [[#^s-70dbc67bbcdf7cae7ef39487|3]] dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas šio Įstatymo [[#^s-128e9681890dbeb07464ca67|25 straipsnio 2 dalyje]] nurodytame nutarime. ^s-cac7e27e1e0ec85670e2afa1
 
 
 2. Atsakomybę lengvinančiomis aplinkybėmis laikoma: ^s-e1d2f608ff004c57c8515eb4
@@ -878,7 +878,7 @@ Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 1. Bauda turi būti sumokėta į valstybės biudžetą ne vėliau kaip per 1 mėnesį nuo nutarimo išsiuntimo dienos. ^s-f761eb0f501bee5586f9b1a4
 
 
-2. Nutarimas dėl baudos skyrimo šio Įstatymo reikalavimus pažeidusiems vežėjams yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka. ^s-818596dcc86169823cee65f4
+2. Nutarimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo šio Įstatymo reikalavimus pažeidusiems vežėjams yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir [Lietuvos Respublikos civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-818596dcc86169823cee65f4
 Straipsnio dalies pakeitimai:
 Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
 Nr. XV-892, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08222
@@ -888,7 +888,7 @@ Nr. XV-892, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08222
 ### 28 straipsnis. Nutarimų dėl baudų skyrimo apskundimas ^s-1aaede8fe7a4f678f7df2588
 
 
-1. Šio Įstatymo reikalavimus pažeidęs vežėjas, nesutinkantis su Valstybės sienos apsaugos tarnybos ar policijos įstaigos nutarimu dėl baudos skyrimo, gali apskųsti jį [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-9520f50e26a5de0de91a5725
+1. Šio Įstatymo reikalavimus pažeidęs vežėjas, nesutinkantis su Valstybės sienos apsaugos tarnybos ar policijos įstaigos nutarimu [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo, gali apskųsti jį [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-9520f50e26a5de0de91a5725
 
 
 2. Skundo padavimas administraciniam teismui sustabdo Valstybės sienos apsaugos tarnybos ar policijos įstaigos nutarimų dėl baudų skyrimo vykdymą. ^s-c99deed160f5616f0426dc5f
@@ -1045,7 +1045,7 @@ transporto veiklos pagrindų įstatymo
 2. 2004 m. balandžio 29 d. Tarybos direktyva 2004/82/EB dėl vežėjų įpareigojimo perduoti keleivių duomenis. ^s-d5f212991cb6d668ae49dce4
 
 
-3. 2010 m. liepos 7 d. Europos Parlamento ir Tarybos direktyva 2010/40/ES dėl kelių transporto ir jo sąsajų su kitų rūšių transportu srities intelektinių transporto sistemų diegimo sistemos su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2661. ^s-d42389e87c12838e676ce50b
+3. 2010 m. liepos 7 d. Europos Parlamento ir Tarybos direktyva 2010/40/ES dėl kelių transporto ir jo sąsajų su kitų rūšių transportu srities intelektinių transporto sistemų diegimo sistemos su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/2661](https://eur-lex.europa.eu/eli/dir/2023/2661/oj). ^s-d42389e87c12838e676ce50b
 Punkto pakeitimai:
 Nr. XV-518, 2025-11-13, paskelbta TAR 2025-11-28, i. k. 2025-20136
 
@@ -1075,7 +1075,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1080, 1995.10.31, Žin., 1995, Nr. 92-2056 (1995.11.10)
-DĖL KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ, SUSIJUSIŲ SU LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO IR PAPILDYMO
+DĖL KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ, SUSIJUSIŲ SU LIETUVOS RESPUBLIKOS ĮSTATYMU ["DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS"](https://e-tar.lt/portal/lt/legalAct/TAR.C640C19DFD44), PAKEITIMO IR PAPILDYMO
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1123,9 +1123,9 @@ Nr. XI-1744, 2011-11-29, Žin., 2011, Nr. 150-7049 (2011-12-08)
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1832, 2011-12-21, Žin., 2011, Nr. 163-7746 (2011-12-31)
-[[#^s-9108cb5bc3b5b16e67046c0a|TRANSPORTO VEIKLOS PAGRINDŲ ĮSTATYMO 1, 2, 3, 4, 6, 11, 13, 15 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 13(1) STRAIPSNIU IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMAS
-Šis įstatymas, išskyrus 6, 8, 10 ir [[#^s-c40914932e2f7b49a35603dc|12 straipsnius]], įsigalioja 2012 m. sausio 1 d.
-Šio įstatymo 6, 8 ir [[#^s-27ca9ff7936299572717e07a|10 straipsniai]] įsigalioja 2012 m. vasario 27 d.
+TRANSPORTO VEIKLOS PAGRINDŲ ĮSTATYMO [[#^s-7f88b8be02f44043e222d6c3|1]], [[#^s-28e4e890d4bb76c3241a2ce7|2]], [[#^s-3032d1555f33af3fe7c3addc|3]], [[#^s-ba3d4b74b2e861f7927a1f3e|4]], [[#^s-fc938d8ed31e10acf9920be0|6]], [[#^s-fc68f51ca9d6cfdfb6f871fd|11]], [[#^s-085eaa87ab18d1a13974d363|13]], [[#^s-9108cb5bc3b5b16e67046c0a|15]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 13(1) STRAIPSNIU IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMAS
+Šis įstatymas, išskyrus [[#^s-fc938d8ed31e10acf9920be0|6]], [[#^s-fc1ffe9fd2dced99488b70ec|8]], [[#^s-27ca9ff7936299572717e07a|10]] ir [[#^s-c40914932e2f7b49a35603dc|12]] straipsnius, įsigalioja 2012 m. sausio 1 d.
+Šio įstatymo [[#^s-fc938d8ed31e10acf9920be0|6]], [[#^s-fc1ffe9fd2dced99488b70ec|8]] ir [[#^s-27ca9ff7936299572717e07a|10]] straipsniai įsigalioja 2012 m. vasario 27 d.
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1145,17 +1145,17 @@ Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 [[#^s-085
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2395, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16846
-Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 9 ir [[#^s-9108cb5bc3b5b16e67046c0a|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 [[#^s-2bae805c4f8ab055dcbc8419|9]] ir [[#^s-9108cb5bc3b5b16e67046c0a|15]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2483, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18452
-Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 1, 19, 19-1, 20, 21, 22, 23, 24, 25, 26, 27 ir [[#^s-1aaede8fe7a4f678f7df2588|28 straipsnių]] pakeitimo, Įstatymo papildymo nauju 1 ir 2 priedais ir priedo pakeitimo įstatymas
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 [[#^s-7f88b8be02f44043e222d6c3|1]], [[#^s-e08bc4564cec206c7d152577|19]], 19-1, [[#^s-9af8fb7dde13464e302c5caa|20]], [[#^s-c70fe0007a618fab6ddd288c|21]], [[#^s-06706328961cc3dc7a3cd8ec|22]], [[#^s-f580dd8b640bc14f4fa7f62a|23]], [[#^s-968759aa383cb2d369629378|24]], [[#^s-e549e93840c4ccd4b73609cb|25]], [[#^s-1bc702a23f7bbbf22064dab8|26]], [[#^s-ac084ab7e5f6162689630869|27]] ir [[#^s-1aaede8fe7a4f678f7df2588|28]] straipsnių pakeitimo, Įstatymo papildymo nauju 1 ir 2 priedais ir priedo pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1856, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00092
-Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 3, 5, 11 ir [[#^s-c40914932e2f7b49a35603dc|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 [[#^s-3032d1555f33af3fe7c3addc|3]], [[#^s-bab724ce0d4f39b83f536973|5]], [[#^s-fc68f51ca9d6cfdfb6f871fd|11]] ir [[#^s-c40914932e2f7b49a35603dc|12]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1170,7 +1170,7 @@ Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 19-1 stra
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-524, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19617
-Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 2, 4, 6, 9, 14, 15 ir [[#^s-71479d40d59cf103287f0526|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 [[#^s-28e4e890d4bb76c3241a2ce7|2]], [[#^s-ba3d4b74b2e861f7927a1f3e|4]], [[#^s-fc938d8ed31e10acf9920be0|6]], [[#^s-2bae805c4f8ab055dcbc8419|9]], [[#^s-f29a0cc7b3bd65e42e2809b0|14]], [[#^s-9108cb5bc3b5b16e67046c0a|15]] ir [[#^s-71479d40d59cf103287f0526|18]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1180,12 +1180,12 @@ Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 [[#^s-c40
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1141, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13853
-Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 2 ir [[#^s-fc68f51ca9d6cfdfb6f871fd|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 [[#^s-28e4e890d4bb76c3241a2ce7|2]] ir [[#^s-fc68f51ca9d6cfdfb6f871fd|11]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-104, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00714
-Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 2, 11, 19-1, [[#^s-9af8fb7dde13464e302c5caa|20 straipsnių]] ir 1, 3 priedų pakeitimo įstatymas
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 [[#^s-28e4e890d4bb76c3241a2ce7|2]], [[#^s-fc68f51ca9d6cfdfb6f871fd|11]], 19-1, [[#^s-9af8fb7dde13464e302c5caa|20]] straipsnių ir 1, 3 priedų pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1195,7 +1195,7 @@ Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 [[#^s-c40
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-518, 2025-11-13, paskelbta TAR 2025-11-28, i. k. 2025-20136
-Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 2, 11, 13-1, [[#^s-f580dd8b640bc14f4fa7f62a|23 straipsnių]] ir 3 priedo pakeitimo įstatymas
+Lietuvos Respublikos transporto veiklos pagrindų įstatymo Nr. I-1863 [[#^s-28e4e890d4bb76c3241a2ce7|2]], [[#^s-fc68f51ca9d6cfdfb6f871fd|11]], 13-1, [[#^s-f580dd8b640bc14f4fa7f62a|23]] straipsnių ir 3 priedo pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas

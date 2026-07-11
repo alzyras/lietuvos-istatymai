@@ -146,10 +146,10 @@ TERMINŲ straipsnių teikimas, jų tvirtinimas ir skelbimas
 ### 8 straipsnis. Terminų straipsnių teikėjai ^s-1417a51a0277258aa63b501d
 
 
-1. Terminų straipsnius [[#^s-8dbd69f83901be284b61e319|9 straipsnio]] 1–[[#^s-65382ce39bedd27b97728795|3 dalyse]] nustatyta tvarka Kalbos komisijai teikia įgaliotos valstybės institucijos. ^s-d1cec59ece14a99b306742a9
+1. Terminų straipsnius [[#^s-8dbd69f83901be284b61e319|9 straipsnio]] [[#^s-694d70c2ad3b8894c7723724|1]]–[[#^s-c0692184cf5548de12dfdef8|3]] dalyse nustatyta tvarka Kalbos komisijai teikia įgaliotos valstybės institucijos. ^s-d1cec59ece14a99b306742a9
 
 
-2. Terminų straipsnius [[#^s-8dbd69f83901be284b61e319|9 straipsnio]] 4–[[#^s-c277002b7ddbfe6d79aa7328|5 dalyse]] nustatyta tvarka Kalbos komisijai gali teikti kiti fiziniai ir juridiniai asmenys. ^s-52afbe771300610ed050b61b
+2. Terminų straipsnius [[#^s-8dbd69f83901be284b61e319|9 straipsnio]] [[#^s-361248a66b5d38e430f6fd3a|4]]–[[#^s-e68a8c73f98b2b3cdcb44c18|5]] dalyse nustatyta tvarka Kalbos komisijai gali teikti kiti fiziniai ir juridiniai asmenys. ^s-52afbe771300610ed050b61b
 
 
 3. Kalbos komisijos pasiūlytose valstybės institucijose sudaromos terminijos komisijos. ^s-65382ce39bedd27b97728795

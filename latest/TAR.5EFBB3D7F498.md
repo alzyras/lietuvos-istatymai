@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos XXI straipsnio pakeitimo ratifikavimas ^s-845d418ce5f98dfeaa26d642
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. balandžio  7 d. dekretą Nr. 2, ratifikuoja 1983 m. balandžio 30 d. Gaborone priimtą Nykstančių laukinės faunos ir floros rūšių tarptautinės prekybos konvencijos XXI straipsnio pakeitimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas [2004 m. balandžio  7 d. dekretą Nr. 2](https://e-tar.lt/portal/lt/legalAct/TAR.186D2FBEAF27), ratifikuoja 1983 m. balandžio 30 d. Gaborone priimtą Nykstančių laukinės faunos ir floros rūšių tarptautinės prekybos konvencijos XXI straipsnio pakeitimą.
 
 
 

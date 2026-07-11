@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-da87536abbcc1d9ee7756338
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. sausio 20 d. dekretą Nr. 2029, ratifikuoja 1990 m. birželio 15 d. Dubline priimtą Konvenciją, nustatančią valstybę, atsakingą už vienoje iš Europos Bendrijų valstybių narių paduotų prieglobsčio prašymų nagrinėjimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. sausio 20 d. dekretą Nr. 2029](https://e-tar.lt/portal/lt/legalAct/TAR.38C6F0BF32F1), ratifikuoja 1990 m. birželio 15 d. Dubline priimtą Konvenciją, nustatančią valstybę, atsakingą už vienoje iš Europos Bendrijų valstybių narių paduotų prieglobsčio prašymų nagrinėjimą.
 
 
 

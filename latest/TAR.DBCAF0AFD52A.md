@@ -74,7 +74,7 @@ Deputatų įgaliojimų laikas 5 metai, skaičiuojant nuo tos dienos, kai naujojo
 Nuo šio momento pasibaigia ankstesniojo šaukimo Lietuvos Respublikos Aukščiausiosios Tarybos deputatų įgaliojimai.
 
 
-Deputato įgaliojimai gali būti nutraukti: 1) rinkėjams jį atšaukus; 2) Aukščiausiajai Tarybai priėmus nutarimą pagal asmeninį deputato pareiškimą, kad jis atsisako deputato įgaliojimų; 3) kai deputatas netenka Lietuvos Respublikos pilietybės; 4) įsiteisėjus teismo apkaltinamajam nuosprendžiui.
+Deputato įgaliojimai gali būti nutraukti: 1) rinkėjams jį atšaukus; 2) [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC) priėmus nutarimą pagal asmeninį deputato pareiškimą, kad jis atsisako deputato įgaliojimų; 3) kai deputatas netenka Lietuvos Respublikos pilietybės; 4) įsiteisėjus teismo apkaltinamajam nuosprendžiui.
 
 
 
@@ -115,7 +115,7 @@ II. Deputato veikla Aukščiausiojoje Taryboje
 Deputato dalyvavimas sesijoje yra privalomas.
 
 
-Apie negalėjimą atvykti į sesijos posėdžius deputatas privalo pranešti Aukščiausiajai Tarybai.
+Apie negalėjimą atvykti į sesijos posėdžius deputatas privalo pranešti [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC).
 
 
 Deputatas turi sprendžiamojo balso teisę visais svarstomais klausimais, turi teisę rinkti ir būti išrinktas į visus Aukščiausiosios Tarybos organus.
@@ -271,7 +271,7 @@ Už deputato teisėtų reikalavimų nevykdymą kaltam pareigūnui gali būti ski
 ### 18 straipsnis. Deputato asmens neliečiamybė ^s-178c3e848f131c25f6b96f44
 
 
-Deputatas negali būti patrauktas baudžiamojon atsakomybėn, suimtas, arba kitaip apribota jo asmens laisvės, jam negali būti skiriama administracinė nuobauda teismine tvarka be Aukščiausiosios Tarybos sutikimo, išskyrus atvejus, kai jis užtinkamas darant nusikaltimą (in flagranti). Šiais atvejais Lietuvos Respublikos prokuroras apie tai nedelsdamas praneša Lietuvos Respublikos Aukščiausiajai Tarybai.
+Deputatas negali būti patrauktas baudžiamojon atsakomybėn, suimtas, arba kitaip apribota jo asmens laisvės, jam negali būti skiriama administracinė nuobauda teismine tvarka be Aukščiausiosios Tarybos sutikimo, išskyrus atvejus, kai jis užtinkamas darant nusikaltimą (in flagranti). Šiais atvejais Lietuvos Respublikos prokuroras apie tai nedelsdamas praneša Lietuvos Respublikos [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC).
 
 
 Gavus Aukščiausiosios Tarybos sutikimą patraukti deputatą baudžiamojon atsakomybėn, deputatas negali būti suimtas Aukščiausiosios Tarybos rūmuose.

@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir Protokolo ratifikavimas ^s-a4d28ab3dd550c4bafd171df
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2013 m. rugsėjo 10 d. dekretą Nr. 1K-1559, ratifikuoja 1988 m. sausio 25 d. Strasbūre pasirašytą Konvenciją dėl savitarpio administracinės pagalbos mokesčių srityje, sudarytą tarp Europos Tarybos ir Ekonominio bendradarbiavimo ir plėtros organizacijos valstybių narių, ir 2010 m. gegužės 27 d. Paryžiuje pasirašytą Protokolą, kuriuo iš dalies pakeičiama Konvencija dėl savitarpio administracinės pagalbos mokesčių srityje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2013 m. rugsėjo 10 d. dekretą Nr. 1K-1559](https://e-tar.lt/portal/lt/legalAct/TAR.98F0B14EBB40), ratifikuoja 1988 m. sausio 25 d. Strasbūre pasirašytą Konvenciją dėl savitarpio administracinės pagalbos mokesčių srityje, sudarytą tarp Europos Tarybos ir Ekonominio bendradarbiavimo ir plėtros organizacijos valstybių narių, ir 2010 m. gegužės 27 d. Paryžiuje pasirašytą Protokolą, kuriuo iš dalies pakeičiama [Konvencija dėl savitarpio administracinės pagalbos mokesčių srityje](https://e-tar.lt/portal/lt/legalAct/TAR.97C67973571F).
 
 
 

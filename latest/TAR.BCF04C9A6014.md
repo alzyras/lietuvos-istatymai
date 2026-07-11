@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-74b8c9a98e2ea387a4eae9a8
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio pirmosios dalies 1 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 24 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Latvijos Respublikos sutartį dėl teritorinės jūros, išskirtinės ekonominės zonos ir kontinentinio šelfo atribojimo Baltijos jūroje“, ratifikuoja Lietuvos Respublikos ir Latvijos Respublikos sutartį dėl teritorinės jūros, išskirtinės ekonominės zonos ir kontinentinio šelfo atribojimo Baltijos jūroje, pasirašytą 1999 m. liepos 9 d. Palangoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio pirmosios dalies 1 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 24 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Latvijos Respublikos sutartį dėl teritorinės jūros, išskirtinės ekonominės zonos ir kontinentinio šelfo atribojimo Baltijos jūroje“](https://e-tar.lt/portal/lt/legalAct/TAR.386B8874F572), ratifikuoja Lietuvos Respublikos ir Latvijos Respublikos sutartį dėl teritorinės jūros, išskirtinės ekonominės zonos ir kontinentinio šelfo atribojimo Baltijos jūroje, pasirašytą 1999 m. liepos 9 d. Palangoje.
 
 
 

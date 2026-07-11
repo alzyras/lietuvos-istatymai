@@ -533,7 +533,7 @@ Radiacinės saugos įstatymas įsigalioja nuo 1999 m. balandžio 1 d.
 1) patvirtina veiklos su jonizuojančiosios spinduliuotės šaltiniais licencijavimo tvarką; ^s-c8c40c4794d2cba4143557d6
 
 
-2) pateikia Seimui Administracinių teisės pažeidimų kodekso, Branduolinės energijos, Aplinkos apsaugos bei Įmonių įstatymų pakeitimo ir papildymo įstatymų projektus; ^s-8a614a3bd48d819a0b463c88
+2) pateikia Seimui [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), Branduolinės energijos, Aplinkos apsaugos bei Įmonių įstatymų pakeitimo ir papildymo įstatymų projektus; ^s-8a614a3bd48d819a0b463c88
 
 
 3) įsteigia Valstybės jonizuojančiosios spinduliuotės šaltinių ir darbuotojų apšvitos registrą ir patvirtina jo nuostatus. ^s-a45ae667a150ee6371e9d25f

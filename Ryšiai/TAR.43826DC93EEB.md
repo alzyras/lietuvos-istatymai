@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.DCBDC82E26CD#^s-b28017e3a0462d97d121fe81|Lietuvos Respublikos gyventojų registro įstatymas]] - 3 citatos - 1121010ISTA0XI-2138
-- [[latest/TAR.DCBDC82E26CD#^s-e3fe97352bcf57a3f72e7eea|Lietuvos Respublikos gyventojų registro įstatymas]] - 3 citatos - 1121010ISTA0XI-2138
+- [[latest/TAR.DCBDC82E26CD#^s-e3fe97352bcf57a3f72e7eea|Lietuvos Respublikos gyventojų registro įstatymas]] - 2 citatos - 1121010ISTA0XI-2138

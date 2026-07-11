@@ -318,7 +318,7 @@ SPROGMENŲ gamybos, prekybos, naudojimo LICENCIJAVIMO SĄLYGOS
 2) asmuo, sergantis ligomis ar turintis fizinių trūkumų, dėl kurių jis negali tinkamai elgtis su sprogmenimis; ^s-51644ec7cda62904686615cc
 
 
-3) asmuo, kuriam Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai; ^s-2f7b5ab49f1c8c5fb0c7f4ab
+3) asmuo, kuriam [Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.67E8ECAA4910) nustatyta tvarka taikomi teismo įpareigojimai; ^s-2f7b5ab49f1c8c5fb0c7f4ab
 
 
 4) asmuo, kuriam verstis šio įstatymo nustatyta licencijuojama veikla uždrausta teismo sprendimu; ^s-90472260090aa84f643349ce
@@ -378,7 +378,7 @@ SPROGMENŲ CIVILINĖS APYVARTOS REIKALAVIMAI
 7) vykdyti teisės aktų, reglamentuojančių darbuotojų saugą ir sveikatą gaminant sprogmenis ir atliekant sprogdinimo darbus, reikalavimus; ^s-376dd030eb4726ff461721b9
 
 
-8) prieš priimdamas į darbą darbuotoją, kurio darbas bus tiesiogiai susijęs su sprogmenimis, pateikti Ginklų fondui šio asmens duomenis (vardą, pavardę, asmens kodą, gyvenamosios vietos adresą), siekiant patikrinti, ar nėra šio įstatymo [[#^s-ff1f0bcff2f4b4740835c559|7 straipsnio 1 dalies]] 3–[[#^s-376dd030eb4726ff461721b9|7 punktuose]] nurodytų aplinkybių, dėl kurių darbuotojas negalėtų dirbti su sprogmenimis susijusio darbo, ir sveikatos medicininio patikrinimo išvadas, patvirtinančias, kad jis neserga ligomis ar neturi fizinių trūkumų, trukdančių tinkamai elgtis su sprogmenimis, nėra įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos, nėra sveikatos priežiūros įstaigos prižiūrimas dėl psichikos ligos ar sutrikimo. Ginklų fondui taip pat privaloma pateikti dokumentus, patvirtinančius fizinio asmens, kuris verčiasi licencijuojama veikla, ar darbuotojo, dirbsiančio tiesiogiai su sprogmenimis, atestaciją. Asmens, dėl šiame punkte nurodytų aplinkybių jau tikrinto įsisteigimo valstybėje narėje, patikrinimo duomenys, dokumentai gaunami per Vidaus rinkos informacinę sistemą, nurodytą [[latest/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatyme]], iš įsisteigimo valstybės narės kompetentingos institucijos; ^s-0735b2b0101973903c34a16d
+8) prieš priimdamas į darbą darbuotoją, kurio darbas bus tiesiogiai susijęs su sprogmenimis, pateikti Ginklų fondui šio asmens duomenis (vardą, pavardę, asmens kodą, gyvenamosios vietos adresą), siekiant patikrinti, ar nėra šio įstatymo [[#^s-ff1f0bcff2f4b4740835c559|7 straipsnio 1 dalies]] [[#^s-2f7b5ab49f1c8c5fb0c7f4ab|3]]–[[#^s-0307729dcac39e1d3f12376f|7]] punktuose nurodytų aplinkybių, dėl kurių darbuotojas negalėtų dirbti su sprogmenimis susijusio darbo, ir sveikatos medicininio patikrinimo išvadas, patvirtinančias, kad jis neserga ligomis ar neturi fizinių trūkumų, trukdančių tinkamai elgtis su sprogmenimis, nėra įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos, nėra sveikatos priežiūros įstaigos prižiūrimas dėl psichikos ligos ar sutrikimo. Ginklų fondui taip pat privaloma pateikti dokumentus, patvirtinančius fizinio asmens, kuris verčiasi licencijuojama veikla, ar darbuotojo, dirbsiančio tiesiogiai su sprogmenimis, atestaciją. Asmens, dėl šiame punkte nurodytų aplinkybių jau tikrinto įsisteigimo valstybėje narėje, patikrinimo duomenys, dokumentai gaunami per Vidaus rinkos informacinę sistemą, nurodytą [[latest/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatyme]], iš įsisteigimo valstybės narės kompetentingos institucijos; ^s-0735b2b0101973903c34a16d
 
 
 9) sprogmenų apskaitos žurnalus, unikalius atpažinties žymenis, surinktus duomenis apie sprogmenis ir kitus dokumentus saugoti 10 metų nuo paskutinio įrašo padarymo dienos (likvidavus juridinį asmenį, mirus fiziniam asmeniui ar juridiniam, fiziniam asmeniui nutraukus licencijuojamą veiklą, apskaitos dokumentai perduodami Ginklų fondui); ^s-9f7e495e4953304cebac8a2d
@@ -428,7 +428,7 @@ SPROGMENŲ CIVILINĖS APYVARTOS REIKALAVIMAI
 1. Versdamiesi licencijuojama veikla, sprogmenų gamintojai privalo: ^s-fc9014376ccabcf15eec5056
 
 
-1) pagamintus sprogmenis ženklinti ir gauti jų atitikties įvertinimą pagal šio įstatymo 4 ir [[#^s-3c0a9eedf3297ce3efc6eb13|5 straipsnių]] reikalavimus; ^s-ac45686fbb9c1aad2ed2ce2c
+1) pagamintus sprogmenis ženklinti ir gauti jų atitikties įvertinimą pagal šio įstatymo [[#^s-533679b96d3c2b6e4144ed68|4]] ir [[#^s-3c0a9eedf3297ce3efc6eb13|5]] straipsnių reikalavimus; ^s-ac45686fbb9c1aad2ed2ce2c
 
 
 2) užtikrinti saugos sąlygas, šalinančias sprogmenų savaiminio užsidegimo ar sprogimo tikimybę; ^s-5b7dd913bf377915b9d2801b
@@ -576,7 +576,7 @@ SPROGMENŲ CIVILINĖS APYVARTOS REIKALAVIMAI
 2. Jeigu [[#^s-bb8cb2307d30f55248fb777a|šio straipsnio 1 dalyje]] nurodytą ūkinę komercinę veiklą vykdo ne valstybėje narėje įsisteigęs juridinis asmuo, jo filialas ir (ar) padalinys arba ne valstybės narės fizinis asmuo, jis, be [[#^s-bb8cb2307d30f55248fb777a|šio straipsnio 1 dalyje]] nurodytų duomenų, turi pateikti Ginklų fondui valstybės, kurioje jis yra įsisteigęs, kompetentingos institucijos patvirtinimą, kad šis fizinis ar juridinis asmuo turi reikalingas licencijas, rašytinius sutikimus ir leidimus verstis sprogmenų įvežimu (išvežimu) ar importu (eksportu) į Lietuvos Respubliką arba iš Lietuvos Respublikos. ^s-f8bdd034f48be919ab67718f
 
 
-3. Sprogmenų eksportuotojas, importuotojas, įvežantysis ar išvežantysis asmuo, sprogmenis vežantis tranzitu asmuo Ginklų fondui, be šio straipsnio 1 ar [[#^s-f8bdd034f48be919ab67718f|2 dalyje]] nurodytų dokumentų, turi pateikti šiuos dokumentus ir duomenis: ^s-d1bfd7c086ed1ef239a667a0
+3. Sprogmenų eksportuotojas, importuotojas, įvežantysis ar išvežantysis asmuo, sprogmenis vežantis tranzitu asmuo Ginklų fondui, be šio straipsnio [[#^s-bb8cb2307d30f55248fb777a|1]] ar [[#^s-f8bdd034f48be919ab67718f|2]] dalyje nurodytų dokumentų, turi pateikti šiuos dokumentus ir duomenis: ^s-d1bfd7c086ed1ef239a667a0
 
 
 1) realizuojamų sprogmenų sandorio šalių rekvizitus. Informacija apie fizinius ir juridinius asmenis turi būti išsami, kad būtų įmanoma susisiekti su šiais fiziniais ar juridiniais asmenimis ir gauti patvirtinimą, kad atitinkami asmenys teisėtai gauna konkrečią sprogmenų partiją. Ginklų fondui privaloma pateikti dokumentus, įrodančius šių asmenų teisę verstis su sprogmenų apyvarta susijusia licencijuojama veikla; ^s-6d7664866b9e0f0ebc4a7a87
@@ -642,10 +642,10 @@ SPROGMENŲ CIVILINĖS APYVARTOS REIKALAVIMAI
 ### 17 straipsnis. Licencijos ar rašytinio sutikimo galiojimo sustabdymas ir panaikinimas ^s-c917b6946c0f44dc0d9f6b4c
 
 
-1. Licencijos galiojimą sustabdo Ginklų fondas. Ginklų fondas licencijos turėtojui nustato ne trumpesnį kaip 10 darbo dienų terminą šio straipsnio 2, 3 ir [[#^s-7a93149e849f99eb43e7e380|4 dalyse]] nurodytiems pažeidimams pašalinti ir kartu įspėja, kad nepašalinus nustatytų pažeidimų bus sustabdytas licencijos galiojimas. ^s-960daa7c5e3ec6ad0b9b3764
+1. Licencijos galiojimą sustabdo Ginklų fondas. Ginklų fondas licencijos turėtojui nustato ne trumpesnį kaip 10 darbo dienų terminą šio straipsnio [[#^s-eeed4d163efb0c6eb934c941|2]], [[#^s-c066933f0869ede68d9189ee|3]] ir [[#^s-7a93149e849f99eb43e7e380|4]] dalyse nurodytiems pažeidimams pašalinti ir kartu įspėja, kad nepašalinus nustatytų pažeidimų bus sustabdytas licencijos galiojimas. ^s-960daa7c5e3ec6ad0b9b3764
 
 
-2. Sprogmenų gamybos licencijos galiojimas sustabdomas licencijos turėtojo prašymu arba kai licencijos turėtojas pažeidžia šio įstatymo [[#^s-e5508bab383a67865a8d7037|3 straipsnio 5 dalyje]], [[#^s-7ee173c8fdbe09b690b586d8|7 straipsnyje]], [[#^s-a7527a5116bc9454b7c43945|8 straipsnio 1 dalyje]], [[#^s-58ef409d168022a5fdb949ab|10 straipsnio]] 1 ir [[#^s-eeed4d163efb0c6eb934c941|2 dalyse]] bei [[#^s-65b78c4ad752b055bbc8b9dc|16 straipsnyje]] nurodytus reikalavimus. ^s-eeed4d163efb0c6eb934c941
+2. Sprogmenų gamybos licencijos galiojimas sustabdomas licencijos turėtojo prašymu arba kai licencijos turėtojas pažeidžia šio įstatymo [[#^s-e5508bab383a67865a8d7037|3 straipsnio 5 dalyje]], [[#^s-7ee173c8fdbe09b690b586d8|7 straipsnyje]], [[#^s-a7527a5116bc9454b7c43945|8 straipsnio 1 dalyje]], [[#^s-58ef409d168022a5fdb949ab|10 straipsnio]] [[#^s-fc9014376ccabcf15eec5056|1]] ir [[#^s-16db8fa0c1696bae3dcf69c2|2]] dalyse bei [[#^s-65b78c4ad752b055bbc8b9dc|16 straipsnyje]] nurodytus reikalavimus. ^s-eeed4d163efb0c6eb934c941
 
 
 3. Prekybos sprogmenimis licencijos galiojimas sustabdomas licencijos turėtojo prašymu arba licencijos turėtojui pažeidus šio įstatymo [[#^s-e5508bab383a67865a8d7037|3 straipsnio 5 dalyje]], [[#^s-7ee173c8fdbe09b690b586d8|7 straipsnyje]], [[#^s-a7527a5116bc9454b7c43945|8 straipsnio 1 dalyje]], [[#^s-151019f62fe838ea950671f9|10 straipsnio 3 dalyje]], [[#^s-bb038f393b2bd436b75652b1|12 straipsnio 3 dalies 5 punkte]] bei [[#^s-65b78c4ad752b055bbc8b9dc|16 straipsnyje]] nurodytus reikalavimus. ^s-c066933f0869ede68d9189ee
@@ -654,13 +654,13 @@ SPROGMENŲ CIVILINĖS APYVARTOS REIKALAVIMAI
 4. Sprogmenų naudojimo licencijos galiojimas sustabdomas licencijos turėtojo prašymu arba licencijos turėtojui pažeidus šio įstatymo [[#^s-e5508bab383a67865a8d7037|3 straipsnio 5 dalyje]], [[#^s-7ee173c8fdbe09b690b586d8|7 straipsnyje]], [[#^s-a7527a5116bc9454b7c43945|8 straipsnio 1 dalyje]], [[#^s-941bc04dc2d60ba467f6b963|10 straipsnio 4 dalyje]] bei [[#^s-65b78c4ad752b055bbc8b9dc|16 straipsnyje]] nurodytus reikalavimus. ^s-7a93149e849f99eb43e7e380
 
 
-5. Jeigu šio straipsnio 3 ir [[#^s-7a93149e849f99eb43e7e380|4 dalyse]] nurodytus pažeidimus padarė valstybės narės paslaugų teikėjas, licenciją, leidimą gavęs įsisteigimo valstybėje, Ginklų fondas sustabdo savo išduoto rašytinio sutikimo verstis atitinkama licencijuojama veikla galiojimą, nustatydamas paslaugos teikėjui ne trumpesnį kaip 10 darbo dienų terminą jo padarytiems pažeidimams pašalinti (kartu įspėjęs, kad nepašalinus nustatytų pažeidimų bus sustabdytas rašytinio sutikimo verstis atitinkama licencijuojama veikla galiojimas). ^s-83f73e200dc8cef865024957
+5. Jeigu šio straipsnio [[#^s-c066933f0869ede68d9189ee|3]] ir [[#^s-7a93149e849f99eb43e7e380|4]] dalyse nurodytus pažeidimus padarė valstybės narės paslaugų teikėjas, licenciją, leidimą gavęs įsisteigimo valstybėje, Ginklų fondas sustabdo savo išduoto rašytinio sutikimo verstis atitinkama licencijuojama veikla galiojimą, nustatydamas paslaugos teikėjui ne trumpesnį kaip 10 darbo dienų terminą jo padarytiems pažeidimams pašalinti (kartu įspėjęs, kad nepašalinus nustatytų pažeidimų bus sustabdytas rašytinio sutikimo verstis atitinkama licencijuojama veikla galiojimas). ^s-83f73e200dc8cef865024957
 
 
 6. Rašytinio sutikimo galiojimas sustabdomas ir tuo atveju, kai iš licencijos turėtojo įsisteigimo valstybės narės gaunama informacija apie šioje valstybėje narėje priimtą sprendimą sustabdyti licencijos galiojimą. ^s-02800a07869f14bb206452ba
 
 
-7. Licencijos ar rašytinio sutikimo turėtojui per Ginklų fondo nustatytą terminą, nurodytą šio straipsnio 1 ar [[#^s-83f73e200dc8cef865024957|5 dalyje]], pateikus dokumentus, įrodančius, kad nebėra aplinkybių, dėl kurių buvo sustabdytas licencijos ar rašytinio sutikimo galiojimas (arba Ginklų fondui atlikus patikrinimą ir tai nustačius), Ginklų fondo sprendimu licencijos ar rašytinio sutikimo galiojimo sustabdymas panaikinamas. ^s-09710fc4d3f30e9c9bdbf00a
+7. Licencijos ar rašytinio sutikimo turėtojui per Ginklų fondo nustatytą terminą, nurodytą šio straipsnio [[#^s-960daa7c5e3ec6ad0b9b3764|1]] ar [[#^s-83f73e200dc8cef865024957|5]] dalyje, pateikus dokumentus, įrodančius, kad nebėra aplinkybių, dėl kurių buvo sustabdytas licencijos ar rašytinio sutikimo galiojimas (arba Ginklų fondui atlikus patikrinimą ir tai nustačius), Ginklų fondo sprendimu licencijos ar rašytinio sutikimo galiojimo sustabdymas panaikinamas. ^s-09710fc4d3f30e9c9bdbf00a
 
 
 8. Licencijos ar rašytinio sutikimo galiojimą Ginklų fondas panaikina, jeigu: ^s-06ab418e844b55739422bc78
@@ -672,13 +672,13 @@ SPROGMENŲ CIVILINĖS APYVARTOS REIKALAVIMAI
 2) licencijos ar rašytinio sutikimo turėtojas prašo panaikinti licencijos ar rašytinio sutikimo galiojimą; ^s-b0104cea574ae11a3b9ae020
 
 
-3) licencijos ar rašytinio sutikimo turėtojas per Ginklų fondo nustatytą laiką nepašalina šio straipsnio 2–[[#^s-7a93149e849f99eb43e7e380|4 dalyse]] nurodytų pažeidimų; ^s-a0e2f2b7e977623fbf5611cb
+3) licencijos ar rašytinio sutikimo turėtojas per Ginklų fondo nustatytą laiką nepašalina šio straipsnio [[#^s-eeed4d163efb0c6eb934c941|2]]–[[#^s-7a93149e849f99eb43e7e380|4]] dalyse nurodytų pažeidimų; ^s-a0e2f2b7e977623fbf5611cb
 
 
 4) sprogmenų gamintojas pažeidžia šio įstatymo [[#^s-8eb0809e078bab168e2bb932|8 straipsnio 2 dalyje]] ar [[#^s-e5895cbc654a48b8a4df2e25|11 straipsnio 2 dalyje]] nurodytus reikalavimus arba prekiauja ar naudoja ne savo pagamintus sprogmenis; ^s-d13edeff44e21eac0e85ca85
 
 
-5) sprogmenų prekiautojas pažeidžia šio įstatymo [[#^s-8eb0809e078bab168e2bb932|8 straipsnio 2 dalyje]], [[#^s-a9a1884f8ed1a964c95705a8|12 straipsnio 2 dalyje]] ar [[#^s-c066933f0869ede68d9189ee|3 dalies]] 1–[[#^s-d13edeff44e21eac0e85ca85|4 punktuose]] nurodytus reikalavimus; ^s-b1d08b0f5674315dcb7cf6ce
+5) sprogmenų prekiautojas pažeidžia šio įstatymo [[#^s-8eb0809e078bab168e2bb932|8 straipsnio 2 dalyje]], [[#^s-a9a1884f8ed1a964c95705a8|12 straipsnio 2 dalyje]] ar [[#^s-c066933f0869ede68d9189ee|3 dalies]] 1–4 punktuose nurodytus reikalavimus; ^s-b1d08b0f5674315dcb7cf6ce
 
 
 6) sprogmenų naudotojas pažeidžia šio įstatymo [[#^s-8eb0809e078bab168e2bb932|8 straipsnio 2 dalyje]] ar [[#^s-7c2f2095a44a432ad06d332e|13 straipsnio 3 dalyje]] nurodytus reikalavimus; ^s-68f96bd36a9c592061268119
@@ -717,7 +717,7 @@ SPROGMENŲ CIVILINĖS APYVARTOS KONTROLĖ
 3) gauti iš bet kurio fizinio ar juridinio asmens, vykdančio sprogmenų civilinę apyvartą, iš kitų valstybės ir savivaldybių institucijų visą turimą informaciją apie veiksmus, susijusius su sprogmenų civiline apyvarta; ^s-ffc28d37d67f18863406dedd
 
 
-4) esant šio įstatymo [[#^s-c917b6946c0f44dc0d9f6b4c|17 straipsnio]] 2, 3, 4 ar 8 dalyje nurodytoms aplinkybėms, siūlyti licenciją ar rašytinį sutikimą išdavusiai institucijai priimti sprendimą dėl licencijos ar rašytinio sutikimo galiojimo sustabdymo ar licencijos ar rašytinio sutikimo galiojimo panaikinimo; ^s-b56e5f9072078d7824000850
+4) esant šio įstatymo [[#^s-c917b6946c0f44dc0d9f6b4c|17 straipsnio]] [[#^s-eeed4d163efb0c6eb934c941|2]], [[#^s-c066933f0869ede68d9189ee|3]], [[#^s-7a93149e849f99eb43e7e380|4]] ar [[#^s-06ab418e844b55739422bc78|8]] dalyje nurodytoms aplinkybėms, siūlyti licenciją ar rašytinį sutikimą išdavusiai institucijai priimti sprendimą dėl licencijos ar rašytinio sutikimo galiojimo sustabdymo ar licencijos ar rašytinio sutikimo galiojimo panaikinimo; ^s-b56e5f9072078d7824000850
 
 
 5) nustatę šiame įstatyme numatytų sprogmenų civilinės apyvartos tvarkos pažeidimų, duoti fiziniam ar juridiniam asmeniui privalomuosius nurodymus šiuos trūkumus pašalinti; ^s-f094eba10218cbd97c66ca9a

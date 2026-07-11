@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 6 straipsnio pakeitimas ^s-dddb38ad6a0a946416b45653
 
 
-Pakeisti 6 straipsnio 3 dalies 9 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.A7D82E8EDC6B|6 straipsnio 3 dalies 9 punktą]] ir jį išdėstyti taip:
 
 
 „9) vietinio susisiekimo maršrutais važiuojančiomis keleivinėmis transporto priemonėmis;“.
@@ -50,7 +50,7 @@ Pakeisti 6 straipsnio 3 dalies 9 punktą ir jį išdėstyti taip:
 ### 2 straipsnis. 9 straipsnio pakeitimas ^s-ea239159fe4ef614b16a2f68
 
 
-Pakeisti 9 straipsnio 9 dalies 4 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.A7D82E8EDC6B#^s-f12f9539dee50bab1d7614eb|9 straipsnio 9 dalies 4 punktą]] ir jį išdėstyti taip:
 
 
 „4) autobusų, skirtų keleiviams vežti reguliariaisiais reisais tolimojo ar vietinio susisiekimo maršrutais, dviračių, autocisternų, kuriomis vežami degalai į Kuršių neriją, ir transporto priemonių, kuriomis gabenamas biokuras į Kuršių neriją;“.

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-300fd506f9c9d93110ef4a76
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. sausio 17 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutartį dėl vokiečių karių kapų priežiūros Lietuvos Respublikoje“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutartį dėl vokiečių karių kapų priežiūros Lietuvos Respublikoje, pasirašytą 1996 m. liepos 4 d. Bonoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. sausio 17 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutartį dėl vokiečių karių kapų priežiūros Lietuvos Respublikoje“](https://e-tar.lt/portal/lt/legalAct/TAR.FE8748DD961A), ratifikuoja Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutartį dėl vokiečių karių kapų priežiūros Lietuvos Respublikoje, pasirašytą 1996 m. liepos 4 d. Bonoje.
 
 
 

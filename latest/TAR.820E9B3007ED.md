@@ -134,7 +134,7 @@ Pagrindiniai Valstybės kontrolės uždaviniai yra:
 ### 5 straipsnis. Valstybės kontrolės veiklos teisiniai pagrindai ir principai ^s-8a6a996dc58ff78fde1da52e
 
 
-1. Valstybės kontrolė savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo Įstatymu ir kitais įstatymais, tarptautinėmis sutartimis, valstybinio audito reikalavimais ir kitais teisės aktais. ^s-79898e5b2fd5ffa2093c855f
+1. Valstybės kontrolė savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo Įstatymu ir kitais įstatymais, tarptautinėmis sutartimis, valstybinio audito reikalavimais ir kitais teisės aktais. ^s-79898e5b2fd5ffa2093c855f
 
 
 2. Valstybės kontrolės veikla grindžiama nepriklausomumo, teisėtumo, viešumo, neutralumo ir profesionalumo principais. ^s-4caa3ddc8abeda6e377155f7
@@ -223,7 +223,7 @@ VALSTYBĖS KONTROLĖS IR PAREIGŪNŲ KOMPETENCIJA
 1) išvadą dėl valstybės biudžeto įvykdymo apyskaitos; ^s-f8b8a200747d86cd27743da5
 
 
-2) išvadą dėl Vyriausybės ataskaitos apie valstybės skolą; ^s-bc2bf9f4f83cc4dd3f23d0c3
+2) išvadą [dėl Vyriausybės ataskaitos](https://e-tar.lt/portal/lt/legalAct/TAR.00FC2CC2EA9A) apie valstybės skolą; ^s-bc2bf9f4f83cc4dd3f23d0c3
 
 
 3) Valstybės kontrolės veiklos ataskaitą. ^s-2268e2ae2e5faff7eeea128e
@@ -267,7 +267,7 @@ Valstybės kontrolierius:
 1. Valstybės kontrolieriaus pavaduotojų ir audito padalinių vadovų kompetenciją nustato valstybės kontrolierius. ^s-ea95870a6d02f31fefc3035b
 
 
-2. Kai valstybės kontrolieriaus nėra, įstatymų nustatyta tvarka jį pavaduojantis valstybės kontrolieriaus pavaduotojas organizuoja Valstybės kontrolės darbą, tačiau neturi įgaliojimų, nustatytų Įstatymo [[#^s-2f8ba347024372b098a93bf4|10 straipsnio 5 punkte]]. ^s-a7f19d914979b6ab7ccb3da5
+2. Kai valstybės kontrolieriaus nėra, įstatymų nustatyta tvarka jį pavaduojantis valstybės kontrolieriaus pavaduotojas organizuoja Valstybės kontrolės darbą, tačiau neturi įgaliojimų, nustatytų Įstatymo 10 straipsnio 5 punkte. ^s-a7f19d914979b6ab7ccb3da5
 
 
 
@@ -362,7 +362,7 @@ VALSTYBINIS AUDITAS
 1. Finansinis auditas baigiamas surašius audito ataskaitą ir audito išvadą, o veiklos auditas – surašius audito ataskaitą. ^s-f2a8b160ef25b07f149b9c26
 
 
-2. Dėl audito metu nustatytų ir nepašalintų teisės aktų pažeidimų audituotame subjekte priimamas sprendimas. ^s-acbe4c0133e176fc1e373640
+2. [Dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) metu nustatytų ir nepašalintų teisės aktų pažeidimų audituotame subjekte priimamas sprendimas. ^s-acbe4c0133e176fc1e373640
 
 
 3. Valstybės kontrolės sprendimus pagal audito ataskaitas priima valstybės kontrolierius ir jo pavaduotojai. ^s-0925f8477c88af606766ad1c
@@ -726,7 +726,7 @@ Valstybės kontrolės pareigūnai turi tas pačias teises kaip ir valstybės tar
 1. Valstybės kontrolės pareigūnai turi tas pačias pareigas kaip ir valstybės tarnautojai. ^s-2554383ee132307abb9b8adc
 
 
-2. Valstybės kontrolės pareigūnai privalo: gerbti audituojamo subjekto teises ir teisėtus interesus; neskelbti atlikto audito duomenų ir viešai jų nevertinti, kol nepasirašyta audito ataskaita; saugoti valstybės ir tarnybos paslaptis; nesinaudoti ir neleisti naudotis tarnybine ar su tarnyba susijusia riboto naudojimo informacija kitokia tvarka ir mastu, nei nustato įstatymai ar kiti teisės aktai. ^s-b14a212f0b5306802cf2427d
+2. Valstybės kontrolės pareigūnai privalo: gerbti audituojamo subjekto teises ir teisėtus interesus; neskelbti atlikto audito duomenų ir viešai jų nevertinti, kol nepasirašyta audito ataskaita; saugoti valstybės ir tarnybos paslaptis; nesinaudoti ir neleisti naudotis tarnybine ar su tarnyba susijusia [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) informacija kitokia tvarka ir mastu, nei nustato įstatymai ar kiti teisės aktai. ^s-b14a212f0b5306802cf2427d
 
 
 
@@ -795,7 +795,7 @@ Valstybės kontrolės pareigūno darbo užmokestį sudaro:
 2. Valstybės kontrolės pareigūnams mokamų priemokų suma negali viršyti [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymu]] nustatyto priemokų dydžio. ^s-190c8239b66b27dddfe8d1b5
 
 
-3. Valstybės kontrolieriaus ir jo pavaduotojų darbo užmokesčio dydį bei apmokėjimo sąlygas nustato Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymas. ^s-70b62d1dc348f77b4b42c42e
+3. Valstybės kontrolieriaus ir jo pavaduotojų darbo užmokesčio dydį bei apmokėjimo sąlygas nustato Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3). ^s-70b62d1dc348f77b4b42c42e
 
 
 

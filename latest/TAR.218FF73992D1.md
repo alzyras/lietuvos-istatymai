@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-cd0b0b5f1b0592f9f7576e47
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu, [[latest/TAR.5BCEC9B41811#^s-cc673decff3daac098d5c652|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 2 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2011 m. vasario 25 d. dekretą Nr. 1K-619, ratifikuoja Europos Sąjungos bei jos valstybių narių ir Norvegijos Karalystės bendradarbiavimo palydovinės navigacijos srityje susitarimą, pasirašytą 2010 m. rugsėjo 22 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu, [[latest/TAR.5BCEC9B41811#^s-cc673decff3daac098d5c652|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 2 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2011 m. vasario 25 d. dekretą Nr. 1K-619](https://e-tar.lt/portal/lt/legalAct/TAR.328310CE3E75), ratifikuoja Europos Sąjungos bei jos valstybių narių ir Norvegijos Karalystės bendradarbiavimo palydovinės navigacijos srityje susitarimą, pasirašytą 2010 m. rugsėjo 22 d. Briuselyje.
 
 
 

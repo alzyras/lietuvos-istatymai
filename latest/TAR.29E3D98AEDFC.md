@@ -130,7 +130,7 @@ Pakeisti 70 straipsnio 7 dalį ir ją išdėstyti taip:
 ### 7 straipsnis. Baigiamosios nuostatos ^s-c340eaa43ba426871b82c899
 
 
-Šio įstatymo [[#^s-7d36d07e960b041554e9bd07|6 straipsnyje]] išdėstytos Lietuvos Respublikos mokslo ir studijų įstatymo 70 straipsnio 7 dalies nuostatos taikomos ir asmenims, kurių pirmosios pakopos ar vientisosios studijos yra valstybės finansuojamos ir kurie į aukštąsias mokyklas priimti iki šio įstatymo įsigaliojimo, bet ne anksčiau kaip 2009 m. gegužės 12 d., jeigu jų studijų sutartyse nėra numatyta kitokia studijų rezultatų palyginimo tvarka.
+Šio įstatymo [[#^s-7d36d07e960b041554e9bd07|6 straipsnyje]] išdėstytos [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymo 70 straipsnio 7 dalies]] nuostatos taikomos ir asmenims, kurių pirmosios pakopos ar vientisosios studijos yra valstybės finansuojamos ir kurie į aukštąsias mokyklas priimti iki šio įstatymo įsigaliojimo, bet ne anksčiau kaip 2009 m. gegužės 12 d., jeigu jų studijų sutartyse nėra numatyta kitokia studijų rezultatų palyginimo tvarka.
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis.         Europos rekonstrukcijos ir plėtros banko steigimo sutarties 1 straipsnio pakeitimo ratifikavimas ^s-2638bfe54fe752e14b10889a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2005 m. vasario 9 d. dekretą Nr. 200, ratifikuoja Europos rekonstrukcijos ir plėtros banko steigimo sutarties 1 straipsnio pakeitimą, priimtą 2004 m. sausio 30 d. Londone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2005 m. vasario 9 d. dekretą Nr. 200](https://e-tar.lt/portal/lt/legalAct/TAR.BE3117E39383), ratifikuoja Europos rekonstrukcijos ir plėtros banko steigimo sutarties 1 straipsnio pakeitimą, priimtą 2004 m. sausio 30 d. Londone.
 
 
 

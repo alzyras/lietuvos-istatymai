@@ -129,7 +129,7 @@ BENDROSIOS NUOSTATOS
 19. Gamtinių dujų rinka – asmenų, vykdančių gamtinių dujų gavybą, perdavimą, skirstymą, tiekimą, skystinimą ir laikymą, santykių visuma, apimanti didmeninę ir mažmeninę prekybą gamtinėmis dujomis, paslaugų teikimą ir pagrįsta teisėtumo ir lygiateisiškumo principais bei reguliuojamojo trečiųjų asmenų dalyvavimo transportuojant gamtines dujas principu. ^s-dfce400a7a238345ea20d433
 
 
-20. Gamtinių dujų rinkos finansinė priemonė – finansinė priemonė, nurodyta [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] 5, 6, 7 punktuose, jeigu ta priemonė susijusi su gamtinėmis dujomis. ^s-a967d4c1ec69a4b3420797fc
+20. Gamtinių dujų rinkos finansinė priemonė – finansinė priemonė, nurodyta [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] [[latest/TAR.AB7AFE2F35B2|5]], [[latest/TAR.AB7AFE2F35B2|6]], [[latest/TAR.AB7AFE2F35B2|7]] punktuose, jeigu ta priemonė susijusi su gamtinėmis dujomis. ^s-a967d4c1ec69a4b3420797fc
 
 
 21. Gamtinių dujų rinkos operatorius (toliau – rinkos operatorius) – asmuo, organizuojantis prekybą gamtinėmis dujomis gamtinių dujų biržoje ir turintis šios veiklos licenciją. ^s-b735f83066d4933744c68765
@@ -509,10 +509,10 @@ GAMTINIŲ DUJŲ SEKTORIAUS TAISYKLĖS
 2. Gamtinių dujų sektoriuje Komisija, nustatydama konkrečias paslaugų kainas, reguliuoja gamtinių dujų sistemos balansavimo ir buitinių vartotojų prijungimo prie gamtinių dujų sistemos paslaugų kainas. ^s-37bd6f4dbbf8d4f4808f1ddc
 
 
-3. Komisija rengia ir tvirtina šio straipsnio 1 ir [[#^s-37bd6f4dbbf8d4f4808f1ddc|2 dalyse]] nurodytų paslaugų kainų nustatymo metodikas. ^s-5629c61827208f39d53c9efc
+3. Komisija rengia ir tvirtina šio straipsnio [[#^s-bd83a99ebaf52e0c61298825|1]] ir [[#^s-37bd6f4dbbf8d4f4808f1ddc|2]] dalyse nurodytų paslaugų kainų nustatymo metodikas. ^s-5629c61827208f39d53c9efc
 
 
-4. Komisija, nustatydama šio straipsnio 1 ir [[#^s-37bd6f4dbbf8d4f4808f1ddc|2 dalyse]] nurodytas reguliuojamas kainas: ^s-7fb00ecc334b5625b5f98de2
+4. Komisija, nustatydama šio straipsnio [[#^s-bd83a99ebaf52e0c61298825|1]] ir [[#^s-37bd6f4dbbf8d4f4808f1ddc|2]] dalyse nurodytas reguliuojamas kainas: ^s-7fb00ecc334b5625b5f98de2
 
 
 1) nustato reikalavimus gamtinių dujų įmonėms teikti paslaugas kainomis, pagrįstomis sąnaudomis, įskaitant protingumo kriterijų atitinkančią investicijų grąžą, ir turi teisę pareikalauti, kad gamtinių dujų įmonės įrodytų kainų pagrindimą sąnaudomis. Komisija turi teisę nustatyti privalomą protingumo kriterijų atitinkantį terminą šioms sąnaudoms pagrįsti. Jeigu per šį terminą asmuo neįrodo sąnaudų pagrįstumo, laikoma, kad asmens sąnaudos yra nepagrįstos; ^s-8e9499dbb04e5dc3866f0444
@@ -524,7 +524,7 @@ GAMTINIŲ DUJŲ SEKTORIAUS TAISYKLĖS
 3) nustato sąnaudų padengimo mechanizmą, kuris turi skatinti efektyvumą ir, kiek įmanoma, padidinti ilgalaikę naudą vartotojams. Tuo tikslu Komisija turi atsižvelgti į kainų rodiklius, taikomus palyginamose rinkose. ^s-b97350e1ffe155011b864801
 
 
-5. Nustatant šio straipsnio 1 ir [[#^s-37bd6f4dbbf8d4f4808f1ddc|2 dalyse]] nurodytas reguliuojamas viršutines paslaugų kainų ribas ar konkrečias paslaugų kainas, turi būti numatytos būtinos investicijos, užtikrinančios efektyvią gamtinių dujų įmonės veiklą. ^s-4824700bdfeb957835bbc645
+5. Nustatant šio straipsnio [[#^s-bd83a99ebaf52e0c61298825|1]] ir [[#^s-37bd6f4dbbf8d4f4808f1ddc|2]] dalyse nurodytas reguliuojamas viršutines paslaugų kainų ribas ar konkrečias paslaugų kainas, turi būti numatytos būtinos investicijos, užtikrinančios efektyvią gamtinių dujų įmonės veiklą. ^s-4824700bdfeb957835bbc645
 
 
 6. Gamtinių dujų tiekimo kaina yra reguliuojama, kai Komisijos pagal šio įstatymo [[#^s-4cc8e2559a7105517f585745|11 straipsnį]] atliekamo rinkos tyrimo metu yra nustatoma, kad dėl veiksmingos konkurencijos trūkumo asmuo taiko pernelyg dideles kainas, tai yra palyginamosios analizės metodu įvertintas vidutines kainas, viršijančias gamtinių dujų ir gamtinių dujų tiekimo paslaugos kainas, arba naudoja kainų spaudimą, tuo darydamas žalą rinkos dalyviams. ^s-c34a513ff3e0860d255d7a82
@@ -1013,7 +1013,7 @@ SISTEMŲ OPERATORIAI
 ### 27 straipsnis. Perdavimo sistemos operatorius ^s-b98193fd97c075f41eb41216
 
 
-1. Gamtinių dujų įmonė, kuriai nuosavybės teise priklauso perdavimo sistema ir kuri buvo paskirta perdavimo sistemos operatoriumi šio įstatymo 28 ir [[#^s-925fd8c29761f5dbc61065b3|29 straipsniuose]] nustatyta tvarka, veikia kaip perdavimo sistemos operatorius. ^s-94780a4c5dc71532e2c6b958
+1. Gamtinių dujų įmonė, kuriai nuosavybės teise priklauso perdavimo sistema ir kuri buvo paskirta perdavimo sistemos operatoriumi šio įstatymo [[#^s-8d222d497ba826879918f45f|28]] ir [[#^s-925fd8c29761f5dbc61065b3|29]] straipsniuose nustatyta tvarka, veikia kaip perdavimo sistemos operatorius. ^s-94780a4c5dc71532e2c6b958
 
 
 2. Komisija informuoja Europos Komisiją apie sprendimą paskirti perdavimo sistemos operatorių arba numanomą sprendimą nedelsdama, bet ne vėliau negu per vieną mėnesį nuo sprendimo priėmimo arba projekto patvirtinimo. ^s-3381989c43e503661b856ebc
@@ -1360,7 +1360,7 @@ VEIKLŲ IR APSKAITOS ATSKYRIMAS
 2. Sprendimus dėl turto, kuris reikalingas sistemai eksploatuoti, prižiūrėti ar plėtoti, panaudojimo savarankiškai priima perdavimo, laikymo, skirstymo ar SGD sistemos operatorius. ^s-b1952d675307d8ba1cea165c
 
 
-3. Šio straipsnio 1 ir [[#^s-b1952d675307d8ba1cea165c|2 dalių]] reikalavimai netaikomi integruotai gamtinių dujų įmonei, skirstančiai ir (arba) tiekiančiai gamtines dujas mažiau kaip 100 tūkstančių vartotojų. ^s-9041b9cce735c20178e9f4c7
+3. Šio straipsnio [[#^s-49c766579148024ca8c7f7ee|1]] ir [[#^s-b1952d675307d8ba1cea165c|2]] dalių reikalavimai netaikomi integruotai gamtinių dujų įmonei, skirstančiai ir (arba) tiekiančiai gamtines dujas mažiau kaip 100 tūkstančių vartotojų. ^s-9041b9cce735c20178e9f4c7
 
 
 
@@ -1385,7 +1385,7 @@ VEIKLŲ IR APSKAITOS ATSKYRIMAS
 3. [[#^s-73e42d748f6ce7e9274686d9|Šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytos įmonės, atliekančios kurią nors iš gavybos ar tiekimo funkcijų, apima įmones, atliekančias kurią nors iš gamtinių dujų gavybos ar tiekimo ir elektros gamybos ar tiekimo funkcijų. Atitinkamai [[#^s-73e42d748f6ce7e9274686d9|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodyti perdavimo sistemos operatoriai ir pačios perdavimo sistemos apima tiek gamtinių dujų, tiek elektros perdavimo sistemos operatorius ir perdavimo sistemas. ^s-6ad669f51406560dea10dd08
 
 
-4. Šio straipsnio 1 ir [[#^s-8bedc3a468cd7b06e810022b|2 dalyse]] nurodytos teisės visų pirma apima: ^s-7d109888a17dc2416429ac93
+4. Šio straipsnio [[#^s-73e42d748f6ce7e9274686d9|1]] ir [[#^s-8bedc3a468cd7b06e810022b|2]] dalyse nurodytos teisės visų pirma apima: ^s-7d109888a17dc2416429ac93
 
 
 1) įgaliojimus naudotis balsavimo teisėmis; ^s-d944e27636e903384bc44b5e
@@ -1598,10 +1598,10 @@ PRIEIGOS PRIE SISTEMOS ORGANIZAVIMAS
 ### 50 straipsnis. Teisė naudotis saugyklomis ^s-a175f9640e61dc3ecfeac7c7
 
 
-1. Suteikiant teisę asmenims naudotis gamtinių dujų įmonių saugyklomis ir gamtinių dujų laikymo vamzdynuose paslaugomis, kai tai yra būtina dėl techninių ir (arba) ekonominių priežasčių, norint užtikrinti teisę veiksmingai naudotis tiekimo vartotojams sistema, ir suteikiant teisę naudotis papildomomis paslaugomis, Komisija gali nuspręsti taikyti kurį nors vieną arba abu šio straipsnio 4 ir [[#^s-395373695f607bb8fcc373ad|5 dalyse]] nurodytus būdus. Šios procedūros įgyvendinamos laikantis objektyvių, skaidrių ir nediskriminacinių kriterijų. ^s-1c59fce284e3b3170d64c963
+1. Suteikiant teisę asmenims naudotis gamtinių dujų įmonių saugyklomis ir gamtinių dujų laikymo vamzdynuose paslaugomis, kai tai yra būtina dėl techninių ir (arba) ekonominių priežasčių, norint užtikrinti teisę veiksmingai naudotis tiekimo vartotojams sistema, ir suteikiant teisę naudotis papildomomis paslaugomis, Komisija gali nuspręsti taikyti kurį nors vieną arba abu šio straipsnio [[#^s-3b9c6100e2126b281a18ac7b|4]] ir [[#^s-395373695f607bb8fcc373ad|5]] dalyse nurodytus būdus. Šios procedūros įgyvendinamos laikantis objektyvių, skaidrių ir nediskriminacinių kriterijų. ^s-1c59fce284e3b3170d64c963
 
 
-2. Komisija apibrėžia ir paskelbia kriterijus, pagal kuriuos galima nustatyti, kuris teisės naudotis saugyklomis ir gamtinių dujų laikymo vamzdynuose paslaugomis būdas taikomas. Komisija paskelbia, kokios saugyklos ar tų saugyklų dalys ir atitinkamos gamtinių dujų laikymo vamzdyne paslaugos yra siūlomos pagal šio straipsnio 4 ir [[#^s-395373695f607bb8fcc373ad|5 dalyse]] nurodytus būdus. ^s-0c19bd27f3876f5fb74b3169
+2. Komisija apibrėžia ir paskelbia kriterijus, pagal kuriuos galima nustatyti, kuris teisės naudotis saugyklomis ir gamtinių dujų laikymo vamzdynuose paslaugomis būdas taikomas. Komisija paskelbia, kokios saugyklos ar tų saugyklų dalys ir atitinkamos gamtinių dujų laikymo vamzdyne paslaugos yra siūlomos pagal šio straipsnio [[#^s-3b9c6100e2126b281a18ac7b|4]] ir [[#^s-395373695f607bb8fcc373ad|5]] dalyse nurodytus būdus. ^s-0c19bd27f3876f5fb74b3169
 
 
 3. [[#^s-1c59fce284e3b3170d64c963|Šio straipsnio 1 dalies]] nuostatos netaikomos papildomoms ir laikinojo laikymo paslaugoms, kurios susijusios su SGD įrenginiais ir būtinos pakartotinio dujinimo procesui ir paskesniam pristatymui į perdavimo sistemą. ^s-dbdb409fcec1260e3b06fe2a

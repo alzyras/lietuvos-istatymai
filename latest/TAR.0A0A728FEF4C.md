@@ -367,7 +367,7 @@ Pakeisti [[#^s-1e6a71af29c60f83b2eecfa8|25 straipsnį]] ir jį išdėstyti taip:
 2) visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas nesinaudoja Lietuvoje įrengta siuntimo stotimi, perduodančia signalus į palydovą, bet naudojasi Lietuvos Respublikai priklausančiais ryšio palydovo ištekliais. ^s-38d2d469a45535f7885b1770
 
 
-3. Jeigu pagal šio straipsnio 1 ir [[#^s-72732d86fa5c2ef01220acbc|2 dalis]] negalima nuspręsti, kurios valstybės narės jurisdikcijai priklauso visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas, Lietuvos Respublika bus laikoma kompetentinga valstybe, jeigu visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas yra joje įsisteigęs pagal Sutarties dėl Europos Sąjungos veikimo 49–54 straipsnius (OL 2008 C 115, p. 47).“ ^s-f2fbd1082519f281b07c0ed8
+3. Jeigu pagal šio straipsnio [[#^s-c4e19c645c4b556ad839a288|1]] ir [[#^s-72732d86fa5c2ef01220acbc|2]] dalis negalima nuspręsti, kurios valstybės narės jurisdikcijai priklauso visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjas, Lietuvos Respublika bus laikoma kompetentinga valstybe, jeigu visuomenės informavimo audiovizualinėmis priemonėmis paslaugos teikėjas yra joje įsisteigęs pagal Sutarties dėl Europos Sąjungos veikimo 49–54 straipsnius (OL 2008 C 115, p. 47).“ ^s-f2fbd1082519f281b07c0ed8
 
 
 
@@ -485,7 +485,7 @@ Pakeisti [[#^s-f38ecc56c1159da7848959e9|31 straipsnį]] ir jį išdėstyti taip:
 13. Komisija savo sprendimu ne ilgiau kaip 3 mėnesiams gali sustabdyti licencijos galiojimą, jeigu Ryšių reguliavimo tarnyba panaikina teisę naudoti radijo dažnį (kanalą) ir kreipiasi į Komisiją dėl licencijos galiojimo sustabdymo arba licencijos turėtojas šiurkščiai pažeidžia šio įstatymo reikalavimus ar licencijos sąlygas: ^s-0e675ba905755fb59b0af5ff
 
 
-1) platina šio įstatymo [[#^s-90a9faebd880bc8e04c96724|19 straipsnio]] 1 ir [[#^s-5cbb2d90f93644b252b21224|2 dalyse]] nurodytą neskelbtiną ir draudžiamą informaciją; ^s-58d16caf867159bf10fb7cc0
+1) platina šio įstatymo [[#^s-90a9faebd880bc8e04c96724|19 straipsnio]] [[#^s-0a09804ba1533f7ba30b4603|1]] ir [[#^s-2cca4fc9b6756b26f9bfcffc|2]] dalyse nurodytą neskelbtiną ir draudžiamą informaciją; ^s-58d16caf867159bf10fb7cc0
 
 
 2) pažeidžia pagrindines transliavimo ir (ar) retransliavimo licencijos sąlygas ir (ar) įsipareigojimus dėl transliuojamos ir (ar) retransliuojamos radijo ir (ar) televizijos programos ir jam per paskutinius 12 mėnesių už tokį pat pažeidimą buvo pakartotinai skirta administracinė nuobauda; ^s-c30c5fa326b0663cbebdb3ab
@@ -661,7 +661,7 @@ Papildyti Įstatymą 341 straipsniu:
 1) Komisija yra pranešusi Europos Komisijai ir Europos Sąjungos valstybei narei, kurioje įsisteigęs televizijos programų transliuotojas, apie ketinimą imtis [[#^s-8b8b1e58191acbfbc1d75cb8|šio straipsnio 5 dalyje]] nurodytų priemonių, nurodydama priežastis, kuriomis ji grindžia savo vertinimą; ^s-cb257d4a0ef481c14d22e27d
 
 
-2) Europos Komisija nusprendžia, kad numatytos taikyti priemonės suderintos su Europos Sąjungos teise ir kad vertinimai, kuriuos Komisija atliko pagal šio straipsnio 4 ir [[#^s-8b8b1e58191acbfbc1d75cb8|5 dalis]] imdamasi šių priemonių, yra tinkamai pagrįsti. ^s-6b6461c245cc1fc440be343d
+2) Europos Komisija nusprendžia, kad numatytos taikyti priemonės suderintos su Europos Sąjungos teise ir kad vertinimai, kuriuos Komisija atliko pagal šio straipsnio [[#^s-6e0e0a34a358f4ea041b9f6c|4]] ir [[#^s-8b8b1e58191acbfbc1d75cb8|5]] dalis imdamasi šių priemonių, yra tinkamai pagrįsti. ^s-6b6461c245cc1fc440be343d
 
 
 7. Jeigu Europos Komisija nusprendžia, kad priemonės nesuderinamos su Europos Sąjungos teise, tai Komisija neturi teisės imtis pasiūlytų priemonių. ^s-e4568e7067c11dd7b170b09e
@@ -808,7 +808,7 @@ Pakeisti 38 straipsnį ir jį išdėstyti taip:
 12. Radijo ir (ar) televizijos programoje ne rečiau kaip vieną kartą per valandą turi būti skelbiamas transliuojamos ar retransliuojamos radijo ir (ar) televizijos programos pavadinimas. Jeigu radijo ir (ar) televizijos programos trukmė yra trumpesnė kaip viena valanda, tokios radijo ir (ar) televizijos programos pavadinimas skelbiamas jos pabaigoje. ^s-9ed0bbe50e20fc611aa5e120
 
 
-13. Šio straipsnio 8 ir [[#^s-91a9063597b2393b731d35ba|9 dalyse]] nurodyti reikalavimai netaikomi vietinėms televizijos programoms.“ ^s-375a1239370153fa0661c48f
+13. Šio straipsnio [[#^s-13835364b23b767ff6d0b618|8]] ir [[#^s-91a9063597b2393b731d35ba|9]] dalyse nurodyti reikalavimai netaikomi vietinėms televizijos programoms.“ ^s-375a1239370153fa0661c48f
 
 
 
@@ -900,13 +900,13 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 13. Kaip laikomasi šio ir kitų įstatymų nustatytų reikalavimų reklamai, kontroliuoja Valstybinė vartotojų teisių apsaugos tarnyba prie Teisingumo ministerijos, Lietuvos Respublikos konkurencijos taryba ir Komisija, bendradarbiaudamos su kitomis viešosios informacijos rengėjų ir (ar) skleidėjų veiklos reguliavimo institucijomis ir reklamos savitvarkos institucijomis. ^s-7caa2201ee7f09dc74b84cde
 
 
-14. Šio įstatymo nuostatos, išskyrus 38 straipsnio 8, [[#^s-fa3360e06a437f50c05c1f50|9 dalyse]] ir [[#^s-40ae01052989ad8529d29450|šio straipsnio 11 dalies]] 1, 3 punktuose nurodytus atvejus, mutatis mutandis taikomos televizijos programoms, skirtoms tik televizijos reklamai ir teleparduotuvėms, taip pat televizijos programoms, skirtoms tik savireklamai. ^s-15d9f8515566880e36321565
+14. Šio įstatymo nuostatos, išskyrus 38 straipsnio 8, 9 dalyse ir [[#^s-40ae01052989ad8529d29450|šio straipsnio 11 dalies]] 1, 3 punktuose nurodytus atvejus, mutatis mutandis taikomos televizijos programoms, skirtoms tik televizijos reklamai ir teleparduotuvėms, taip pat televizijos programoms, skirtoms tik savireklamai. ^s-15d9f8515566880e36321565
 
 
 15. Visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjai ar jų asociacijos turi parengti elgesio kodeksus dėl netinkamų komercinių audiovizualinių pranešimų, kurie įterpiami į vaikams skirtas programas arba yra įtraukti į tokias programas, apie maisto produktus ir gėrimus, kurių sudėtyje yra maistinių medžiagų ir maistiniu arba fiziologiniu poveikiu pasižyminčių medžiagų, ypač riebalų, riebalų rūgščių transizomerų, druskos arba natrio ir cukraus, kuriuos rekomenduojama vartoti saikingai. ^s-4798c0a1d04e359d8c6208ff
 
 
-16. Reikalavimus, keliamus politinei reklamai, jos skelbimo ir žymėjimo tvarką visuomenės informavimo priemonėse nustato Politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymas ir kiti teisės aktai. ^s-b158493582a5635650f91d89
+16. Reikalavimus, keliamus politinei reklamai, jos skelbimo ir žymėjimo tvarką visuomenės informavimo priemonėse nustato [Politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.CF812DA6E814) ir kiti teisės aktai. ^s-b158493582a5635650f91d89
 
 
 17. Atsakomybės už klaidinančios ir neleidžiamos lyginamosios reklamos naudojimo ypatumus ir jos taikymo tvarką nustato [[latest/TAR.303FC0152D04|Reklamos įstatymas]].“ ^s-cbeced4cfffa4da0a78be1e0
@@ -1144,7 +1144,7 @@ Pakeisti 44 straipsnio 3 dalį ir ją išdėstyti taip:
 12) kontroliuojant, kaip laikomasi įstatymų, Komisijos sprendimų, reglamentuojančių radijo ir (ar) televizijos programų transliuotojų, retransliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų veiklą, ir licencijų sąlygų, vykdyti elektroninių ryšių tinklais transliuojamų ar retransliuojamų audiovizualinių kūrinių, radijo ir (ar) televizijos programų stebėseną; ^s-af5395e1839b8d79afb6f416
 
 
-13) radijo ir (ar) televizijos programų transliuotojams, retransliuotojams, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjams, taip pat kitiems asmenims, elektroninių ryšių tinklais transliuojantiems ar retransliuojantiems audiovizualinius ir (ar) garso kūrinius, pažeidusiems [[latest/TAR.817CC58C1A54|Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo]], šio įstatymo reikalavimus ar licencijų sąlygas, nevykdantiems Komisijos priimtų sprendimų ar įpareigojimų, įstatymų nustatyta tvarka taikyti šias poveikio priemones: pareikšti įspėjimą, ne ilgiau kaip 3 mėnesiams sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą, skirti Administracinių teisės pažeidimų kodekse nurodytas nuobaudas, kreiptis į teismą dėl informacinės visuomenės informavimo priemonių veiklos sustabdymo ar nutraukimo šio įstatymo nustatyta tvarka; ^s-fc90845036de358477ddca45
+13) radijo ir (ar) televizijos programų transliuotojams, retransliuotojams, užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjams, taip pat kitiems asmenims, elektroninių ryšių tinklais transliuojantiems ar retransliuojantiems audiovizualinius ir (ar) garso kūrinius, pažeidusiems [[latest/TAR.817CC58C1A54|Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo]], šio įstatymo reikalavimus ar licencijų sąlygas, nevykdantiems Komisijos priimtų sprendimų ar įpareigojimų, įstatymų nustatyta tvarka taikyti šias poveikio priemones: pareikšti įspėjimą, ne ilgiau kaip 3 mėnesiams sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą, skirti [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nurodytas nuobaudas, kreiptis į teismą dėl informacinės visuomenės informavimo priemonių veiklos sustabdymo ar nutraukimo šio įstatymo nustatyta tvarka; ^s-fc90845036de358477ddca45
 
 
 14) teikti siūlymus dėl radijo ir (ar) televizijos programų transliuotojų, retransliuotojų ir užsakomųjų visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjų veiklą reglamentuojančių įstatymų ir kitų su šia veikla susijusių teisės aktų projektų rengimo; ^s-4e71a242ab9a6d4b173f6586
@@ -1219,7 +1219,7 @@ Pakeisti 49 straipsnio 9 dalį ir ją išdėstyti taip:
 52 straipsnio 1 dalyje po žodžio „išskyrus“ įrašyti žodžius „radijo ir (ar) televizijos programų“ ir šią dalį išdėstyti taip:
 
 
-„1. Viešosios informacijos rengėjo ir (ar) skleidėjo, išskyrus radijo ir (ar) televizijos programų transliuotojus ir (ar) retransliuotojus, veiklą gali laikinai sustabdyti arba nutraukti teismas, jeigu viešosios informacijos rengėjas ir (ar) skleidėjas pažeidžia šio įstatymo [[#^s-90a9faebd880bc8e04c96724|19 straipsnio]] 1 ir 2 dalių nuostatas.“
+„1. Viešosios informacijos rengėjo ir (ar) skleidėjo, išskyrus radijo ir (ar) televizijos programų transliuotojus ir (ar) retransliuotojus, veiklą gali laikinai sustabdyti arba nutraukti teismas, jeigu viešosios informacijos rengėjas ir (ar) skleidėjas pažeidžia šio įstatymo [[#^s-90a9faebd880bc8e04c96724|19 straipsnio]] [[#^s-0a09804ba1533f7ba30b4603|1]] ir [[#^s-2cca4fc9b6756b26f9bfcffc|2]] dalių nuostatas.“
 
 
 
@@ -1283,7 +1283,7 @@ priedas
 2. 1998 m. liepos 20 d. Europos Parlamento ir Tarybos direktyva 98/48/EB, iš dalies keičianti Direktyvą 98/34/EB, nustatančią informacijos apie techninius standartus ir reglamentus teikimo tvarką (OL 2004 m. specialusis leidimas, 13 skyrius, 21 tomas, p. 8). ^s-3e6697fcf123c171a4b6c5e1
 
 
-3. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p. 1).“ ^s-c2ce64209779b94a7ff3c83f
+3. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p. 1).“ ^s-c2ce64209779b94a7ff3c83f
 
 
 
@@ -1293,7 +1293,7 @@ priedas
 1. Šio įstatymo [[#^s-90a9faebd880bc8e04c96724|19 straipsnyje]] išdėstyto [[latest/TAR.065AB8483E1E#^s-2616e2663341dcc39cd3c64e|Visuomenės informavimo įstatymo 401 straipsnio]] nuostatos taikomos programoms, sukurtoms po 2009 m. gruodžio 19 d. ^s-2d9c80ed0270e38df2216622
 
 
-2. Šio įstatymo [[#^s-90a9faebd880bc8e04c96724|19 straipsnyje]] išdėstyto Visuomenės informavimo įstatymo 401 straipsnio 2 dalies 4 punktas taikomas visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo arba su juo susijusios bendrovės sukurtoms arba užsakytoms sukurti programoms nuo 2012 m. gruodžio 31 d. ^s-d2ad1e974ee6ece198a94567
+2. Šio įstatymo [[#^s-90a9faebd880bc8e04c96724|19 straipsnyje]] išdėstyto [[latest/TAR.065AB8483E1E|Visuomenės informavimo įstatymo 401 straipsnio 2 dalies 4 punktas]] taikomas visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo arba su juo susijusios bendrovės sukurtoms arba užsakytoms sukurti programoms nuo 2012 m. gruodžio 31 d. ^s-d2ad1e974ee6ece198a94567
 
 
 

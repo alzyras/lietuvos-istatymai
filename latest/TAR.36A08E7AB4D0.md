@@ -109,7 +109,7 @@ Vilnius
 ### 4 straipsnis. Įstatymo nedraudžiami tikslai ^s-8390321521d04e842b98e025
 
 
-Nuodingosios cheminės medžiagos bei jų pirmtakai, jeigu jų rūšys ir kiekiai atitinka šio straipsnio 1, 2 ir [[#^s-1bf1e9686949825d02560c34|3 punkte]] nustatytus tikslus, gali būti naudojami:
+Nuodingosios cheminės medžiagos bei jų pirmtakai, jeigu jų rūšys ir kiekiai atitinka šio straipsnio [[#^s-06cf7f08cd6839fa54a975b8|1]], [[#^s-f09abd9000e803f67056c56b|2]] ir [[#^s-1bf1e9686949825d02560c34|3]] punkte nustatytus tikslus, gali būti naudojami:
 
 
 1) pramonės, žemės ūkio, tyrimų, medicinos, farmacijos ar kitiems taikiems tikslams; ^s-06cf7f08cd6839fa54a975b8

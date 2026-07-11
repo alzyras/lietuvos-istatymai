@@ -102,7 +102,7 @@ BENDROSIOS NUOSTATOS
 8. Tarpininkavimas – Lietuvos Respublikoje gyvenančių arba registruotų fizinių ir juridinių asmenų bei užsienio juridinių asmenų ir kitų organizacijų filialų vedamos derybos arba sandorių parengimas, kurių metu į Bendrąjį karinės įrangos sąrašą įtrauktos prekės gali būti perduotos iš Lietuvos Respublikos teritorijos, kitos Europos Sąjungos valstybės teritorijos arba ne Europos Sąjungos valstybės į bet kurią kitą ne Europos Sąjungos valstybę. ^s-a3687b52ec9a8640c335fa5b
 
 
-9. Tarptautiniai neplatinimo režimai – Wassenaaro susitarimas (WA), Raketų technologijų kontrolės režimas (MTCR), Branduolinių tiekėjų grupė (NSG), Australijos grupė (AG), Konvencija dėl cheminio ginklo kūrimo, gamybos, kaupimo ir panaudojimo uždraudimo bei jo sunaikinimo (CWC), Konvencija dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo (BTWC), Branduolinio ginklo neplatinimo sutartis (NPT) ir kiti susitarimai bei tarptautiniai valstybių įsipareigojimai, kurių tikslas – politinėmis, ekonominėmis, diplomatinėmis bei teisinėmis priemonėmis užkirsti kelią cheminio, biologinio ir branduolinio ginklo ir įprastinės ginkluotės platinimui. ^s-d8df61090eea519cace2515c
+9. Tarptautiniai neplatinimo režimai – Wassenaaro susitarimas (WA), Raketų technologijų kontrolės režimas (MTCR), Branduolinių tiekėjų grupė (NSG), Australijos grupė (AG), [Konvencija dėl cheminio ginklo kūrimo, gamybos, kaupimo ir panaudojimo uždraudimo bei jo sunaikinimo](https://e-tar.lt/portal/lt/legalAct/TAR.E7384FC11497) (CWC), Konvencija dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo (BTWC), Branduolinio ginklo neplatinimo sutartis (NPT) ir kiti susitarimai bei tarptautiniai valstybių įsipareigojimai, kurių tikslas – politinėmis, ekonominėmis, diplomatinėmis bei teisinėmis priemonėmis užkirsti kelią cheminio, biologinio ir branduolinio ginklo ir įprastinės ginkluotės platinimui. ^s-d8df61090eea519cace2515c
 
 
 10. Technologija – speciali informacija, reikalinga prekėms sukurti, gaminti ir naudoti, kuri gali būti pateikiama kaip techniniai duomenys ir kaip techninė pagalba. ^s-68a17ef0de0a97ef21e2b52c
@@ -158,10 +158,10 @@ Vyriausybė ar jos įgaliota institucija, vadovaudamasi Europos Sąjungos bendru
 6. Eksporto licencija privaloma į Bendrąjį karinės įrangos sąrašą neįtrauktų prekių eksportui, jei importuojančiai valstybei arba galutinio panaudojimo valstybei taikomi prekybos ginklais apribojimai įgyvendinant tarptautines sankcijas, numatytas [[latest/TAR.F707D11C62FE|Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatyme]], ir jeigu [[#^s-5d594e46ab245ce87fd3277c|šio straipsnio 5 dalyje]] nurodytos institucijos yra raštu pranešusios juridiniam ar fiziniam asmeniui, ar užsienio juridinių asmenų ir kitų organizacijų filialui, kad atitinkamos prekės yra arba gali būti panaudotos į Bendrąjį karinės įrangos sąrašą įtrauktų prekių gamybai arba bandymų ar analitinės įrangos, naudojamos šioms prekėms kurti, gaminti ir prižiūrėti, gamybai, arba kaip nebaigtas gaminys gamykloje, kurioje gaminamos į Bendrąjį karinės įrangos sąrašą įtrauktos prekės. ^s-02efb4a210faf55f19f5a56f
 
 
-7. Jeigu juridinis ar fizinis asmuo, ar užsienio juridinių asmenų ir kitų organizacijų filialas žino, kad jo numatytos eksportuoti į Bendrąjį karinės įrangos sąrašą neįtrauktos prekės yra skirtos kuriam nors iš šio straipsnio 5 ir [[#^s-02efb4a210faf55f19f5a56f|6 dalyse]] nurodytų panaudojimo tikslų, jis turi raštu pranešti Ūkio ministerijai. Ši kartu su strateginių prekių kontrolę vykdančiomis valstybės institucijomis ir įstaigomis sprendžia, ar reikia licencijos atitinkamai prekei eksportuoti. ^s-186e60af271bfa931b2a2a35
+7. Jeigu juridinis ar fizinis asmuo, ar užsienio juridinių asmenų ir kitų organizacijų filialas žino, kad jo numatytos eksportuoti į Bendrąjį karinės įrangos sąrašą neįtrauktos prekės yra skirtos kuriam nors iš šio straipsnio [[#^s-5d594e46ab245ce87fd3277c|5]] ir [[#^s-02efb4a210faf55f19f5a56f|6]] dalyse nurodytų panaudojimo tikslų, jis turi raštu pranešti Ūkio ministerijai. Ši kartu su strateginių prekių kontrolę vykdančiomis valstybės institucijomis ir įstaigomis sprendžia, ar reikia licencijos atitinkamai prekei eksportuoti. ^s-186e60af271bfa931b2a2a35
 
 
-8. Šio straipsnio 5, 6 ir [[#^s-186e60af271bfa931b2a2a35|7 dalyse]] nustatytais atvejais eksporto licencijas išduoda Ūkio ministerija. ^s-a3e9cbc64e3e4df98b78775c
+8. Šio straipsnio [[#^s-5d594e46ab245ce87fd3277c|5]], [[#^s-02efb4a210faf55f19f5a56f|6]] ir [[#^s-186e60af271bfa931b2a2a35|7]] dalyse nustatytais atvejais eksporto licencijas išduoda Ūkio ministerija. ^s-a3e9cbc64e3e4df98b78775c
 
 
 9. Eksportuojančios šalies valstybės institucijų prašymu juridiniam ar fiziniam asmeniui, ar užsienio juridinių asmenų ir kitų organizacijų filialui, importuojančiam į Bendrąjį karinės įrangos sąrašą įtrauktas prekes, išduodamas importo sertifikatas arba galutinio panaudojimo dokumentas, patvirtinantis jų galutinį panaudojimą. ^s-eaef90bffbcd3033c21cef29
@@ -259,7 +259,7 @@ priedas
 
 ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
 
-2000 m. birželio 22 d. Tarybos reglamentas (EB) Nr. 1334/2000, nustatantis Bendrijos dvejopo naudojimo objektų ir technologijų eksporto kontrolės režimą (su paskutiniais pakeitimais, padarytais 2003 m. sausio 27 d. Tarybos reglamentu (EB) Nr. 149/2003).“
+2000 m. birželio 22 d. Tarybos [reglamentas (EB) Nr. 1334/2000](https://eur-lex.europa.eu/eli/reg/1334/2000/oj), nustatantis Bendrijos dvejopo naudojimo objektų ir technologijų eksporto kontrolės režimą (su paskutiniais pakeitimais, padarytais 2003 m. sausio 27 d. Tarybos reglamentu (EB) Nr. 149/2003).“
 
 
 

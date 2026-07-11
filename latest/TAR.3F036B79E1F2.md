@@ -126,7 +126,7 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 „2. [[#^s-14cd0de4f1690e5cb16fb490|Šio straipsnio 1 dalyje]] nurodyti duomenys apie fizinius asmenis yra fizinio asmens vardas, pavardė, asmens kodas ir gyvenamoji vieta, išskyrus [[#^s-6c3977a2b40cfcf33e4111f0|šio straipsnio 3 dalyje]] nustatytą atvejį, o duomenys apie juridinius asmenis – juridinio asmens pavadinimas, teisinė forma, kodas ir buveinė.“
 
 
-3. Papildyti [[#^s-adc8a83442cb197a9d9b0135|12 straipsnį]] nauja [[#^s-6c3977a2b40cfcf33e4111f0|3 dalimi]]: ^s-6c3977a2b40cfcf33e4111f0
+3. Papildyti [[#^s-adc8a83442cb197a9d9b0135|12 straipsnį]] nauja 3 dalimi: ^s-6c3977a2b40cfcf33e4111f0
 
 
 „3. Jeigu akcininkas – fizinis asmuo bendrovei yra nurodęs adresą korespondencijai, vietoj gyvenamosios vietos juridinių asmenų registre kaip duomuo nurodomas adresas korespondencijai.“
@@ -442,7 +442,7 @@ Papildyti Įstatymą 411 straipsniu:
 2. 53 straipsnio 6 dalyje vietoj skaičiaus „3“ įrašyti skaičių „2“, po žodžio „jeigu“ įrašyti žodžius „tenkinama bent viena iš šių sąlygų“ ir šią dalį išdėstyti taip: ^s-2e8cf6373bd9c6952f389da4
 
 
-„6. Dėl įstatinio kapitalo sumažinimo pakeisti bendrovės įstatai pateikiami juridinių asmenų registro tvarkytojui po to, kai buvo įvykdyti visi šio straipsnio 1 ir [[#^s-2e8cf6373bd9c6952f389da4|2 dalyse]] nustatyti veiksmai, bet ne anksčiau kaip praėjus 2 mėnesiams nuo juridinių asmenų registro tvarkytojo paskelbimo apie visuotinio akcininkų susirinkimo ar teismo sprendimą sumažinti bendrovės įstatinį kapitalą dienos ir ne vėliau kaip praėjus 6 mėnesiams nuo sprendimo sumažinti įstatinį kapitalą priėmimo dienos, išskyrus šio straipsnio 7 dalyje nurodytą atvejį. Pakeisti dėl įstatinio kapitalo sumažinimo bendrovės įstatai gali būti pateikti juridinių asmenų registro tvarkytojui nesilaikant šioje dalyje nustatyto 2 mėnesių termino, jeigu tenkinama bent viena iš šių sąlygų:
+„6. Dėl įstatinio kapitalo sumažinimo pakeisti bendrovės įstatai pateikiami juridinių asmenų registro tvarkytojui po to, kai buvo įvykdyti visi šio straipsnio [[#^s-3339b972bd227b9e52142b7d|1]] ir 2 dalyse nustatyti veiksmai, bet ne anksčiau kaip praėjus 2 mėnesiams nuo juridinių asmenų registro tvarkytojo paskelbimo apie visuotinio akcininkų susirinkimo ar teismo sprendimą sumažinti bendrovės įstatinį kapitalą dienos ir ne vėliau kaip praėjus 6 mėnesiams nuo sprendimo sumažinti įstatinį kapitalą priėmimo dienos, išskyrus šio straipsnio 7 dalyje nurodytą atvejį. Pakeisti dėl įstatinio kapitalo sumažinimo bendrovės įstatai gali būti pateikti juridinių asmenų registro tvarkytojui nesilaikant šioje dalyje nustatyto 2 mėnesių termino, jeigu tenkinama bent viena iš šių sąlygų:
 
 
 1) bendrovė neturi kreditorinių įsiskolinimų ir apie įstatinio kapitalo mažinimą buvo viešai paskelbta, kaip nustatyta [[#^s-3339b972bd227b9e52142b7d|šio straipsnio 1 dalyje]]; ^s-2b80d2534d8a271359c89413
@@ -522,7 +522,7 @@ Papildyti Įstatymą 411 straipsniu:
 „13. Šio straipsnio 12 dalyje nurodyto reikalavimo įvertinti tam tikrą turtą gali būti nesilaikoma, jeigu akcijos išduodamos:
 
 
-1) už šio Įstatymo 45¹ [[#^s-25c909a3f94ba319f0ca4de8|straipsnio 1 dalies]] 1 ir [[#^s-d8d3470d2a6fbda7e926d25b|2 punktuose]] nurodytą turtą, kurio vertė nustatyta laikantis to straipsnio reikalavimų ir procedūrų; ^s-60c92546e6570800c8824596
+1) už šio Įstatymo 45¹ [[#^s-25c909a3f94ba319f0ca4de8|straipsnio 1 dalies]] 1 ir [[#^s-d8d3470d2a6fbda7e926d25b|2]] punktuose nurodytą turtą, kurio vertė nustatyta laikantis to straipsnio reikalavimų ir procedūrų; ^s-60c92546e6570800c8824596
 
 
 2) už turtą, išskyrus perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones, kurio vertė nustatyta pagal atskirų turto vienetų vertes iš praėjusių finansinių metų audituotų metinių finansinių ataskaitų rinkinių, laikantis šio Įstatymo 45¹ straipsnio procedūrų, nustatytų to straipsnio 1 dalies 2 punkte nurodytam turtui.“ ^s-d8d3470d2a6fbda7e926d25b
@@ -597,17 +597,17 @@ Papildyti 78 straipsnį 3 dalimi:
 1. Vyriausybė iki 2010 m. kovo 1 d. priima šiam įstatymui, išskyrus [[#^s-58b2b06f714411eda03ab52c|šio straipsnio 2 dalyje]] nurodytus straipsnius ir jų dalis, įgyvendinti reikalingus teisės aktus. ^s-2f7e7e0e2f84e08191408902
 
 
-2. Šio įstatymo [[#^s-052e2fe1826a1fb79d6efa4c|2 straipsnio]] 1 ir [[#^s-58b2b06f714411eda03ab52c|2 dalies]], [[#^s-e873f95d4d0601fa233edb70|10 straipsnio]], [[#^s-bf197944716e6bcf1303508d|11 straipsnio]], [[#^s-8499ce493cf6e82e4ac2c7cb|15 straipsnio 5 dalies]], [[#^s-885546c8cbb86e8789d86e27|20 straipsnio]], [[#^s-3339b972bd227b9e52142b7d|21 straipsnio 1 dalies]], [[#^s-ff6cd1cc03fa0894359c53da|22 straipsnio]], [[#^s-04428c87cffc5fb802620993|23 straipsnio]], [[#^s-ba87c22ff67f500bcd050aa7|24 straipsnio]], [[#^s-a3679cc5e1abf42f8462db99|25 straipsnio]], [[#^s-25c909a3f94ba319f0ca4de8|26 straipsnio 1 dalies]], [[#^s-00c52f04389a5bf5fadfec72|27 straipsnio]] ir [[#^s-52690651e1eb4be4cab39416|29 straipsnio]] nuostatoms įgyvendinti reikalingus teisės aktus Vyriausybė priima iki 2010 m. spalio 1 d. ^s-58b2b06f714411eda03ab52c
+2. Šio įstatymo [[#^s-052e2fe1826a1fb79d6efa4c|2 straipsnio]] [[#^s-9949e5b8a05bdadec214f408|1]] ir [[#^s-b9c00b692bfd48f0bcf36d31|2]] dalies, [[#^s-e873f95d4d0601fa233edb70|10 straipsnio]], [[#^s-bf197944716e6bcf1303508d|11 straipsnio]], [[#^s-8499ce493cf6e82e4ac2c7cb|15 straipsnio 5 dalies]], [[#^s-885546c8cbb86e8789d86e27|20 straipsnio]], [[#^s-3339b972bd227b9e52142b7d|21 straipsnio 1 dalies]], [[#^s-ff6cd1cc03fa0894359c53da|22 straipsnio]], [[#^s-04428c87cffc5fb802620993|23 straipsnio]], [[#^s-ba87c22ff67f500bcd050aa7|24 straipsnio]], [[#^s-a3679cc5e1abf42f8462db99|25 straipsnio]], [[#^s-25c909a3f94ba319f0ca4de8|26 straipsnio 1 dalies]], [[#^s-00c52f04389a5bf5fadfec72|27 straipsnio]] ir [[#^s-52690651e1eb4be4cab39416|29 straipsnio]] nuostatoms įgyvendinti reikalingus teisės aktus Vyriausybė priima iki 2010 m. spalio 1 d. ^s-58b2b06f714411eda03ab52c
 
 
 
 ### 33 straipsnis. Įstatymo įsigaliojimas ^s-f17c0bb3ab14709b46371739
 
 
-1. Šis įstatymas, išskyrus šio įstatymo [[#^s-052e2fe1826a1fb79d6efa4c|2 straipsnio]] 1 ir [[#^s-5a8bf4bb5037b7375dce1243|2 dalis]], [[#^s-e873f95d4d0601fa233edb70|10 straipsnį]], [[#^s-bf197944716e6bcf1303508d|11 straipsnį]], [[#^s-8499ce493cf6e82e4ac2c7cb|15 straipsnio 5 dalį]], [[#^s-885546c8cbb86e8789d86e27|20 straipsnį]], [[#^s-3339b972bd227b9e52142b7d|21 straipsnio 1 dalį]], [[#^s-ff6cd1cc03fa0894359c53da|22 straipsnį]], [[#^s-04428c87cffc5fb802620993|23 straipsnį]], [[#^s-ba87c22ff67f500bcd050aa7|24 straipsnį]], [[#^s-a3679cc5e1abf42f8462db99|25 straipsnį]], [[#^s-25c909a3f94ba319f0ca4de8|26 straipsnio 1 dalį]], [[#^s-00c52f04389a5bf5fadfec72|27 straipsnį]], [[#^s-52690651e1eb4be4cab39416|29 straipsnį]] ir [[#^s-3e15e03d8ce334d1a19a6a49|32 straipsnį]], įsigalioja 2010 m. kovo 1 d. ^s-148cd9948ec11ef2dd2ef6b1
+1. Šis įstatymas, išskyrus šio įstatymo [[#^s-052e2fe1826a1fb79d6efa4c|2 straipsnio]] [[#^s-9949e5b8a05bdadec214f408|1]] ir [[#^s-b9c00b692bfd48f0bcf36d31|2]] dalis, [[#^s-e873f95d4d0601fa233edb70|10 straipsnį]], [[#^s-bf197944716e6bcf1303508d|11 straipsnį]], [[#^s-8499ce493cf6e82e4ac2c7cb|15 straipsnio 5 dalį]], [[#^s-885546c8cbb86e8789d86e27|20 straipsnį]], [[#^s-3339b972bd227b9e52142b7d|21 straipsnio 1 dalį]], [[#^s-ff6cd1cc03fa0894359c53da|22 straipsnį]], [[#^s-04428c87cffc5fb802620993|23 straipsnį]], [[#^s-ba87c22ff67f500bcd050aa7|24 straipsnį]], [[#^s-a3679cc5e1abf42f8462db99|25 straipsnį]], [[#^s-25c909a3f94ba319f0ca4de8|26 straipsnio 1 dalį]], [[#^s-00c52f04389a5bf5fadfec72|27 straipsnį]], [[#^s-52690651e1eb4be4cab39416|29 straipsnį]] ir [[#^s-3e15e03d8ce334d1a19a6a49|32 straipsnį]], įsigalioja 2010 m. kovo 1 d. ^s-148cd9948ec11ef2dd2ef6b1
 
 
-2. Šio įstatymo [[#^s-052e2fe1826a1fb79d6efa4c|2 straipsnio]] 1 ir [[#^s-5a8bf4bb5037b7375dce1243|2 dalys]], [[#^s-e873f95d4d0601fa233edb70|10 straipsnis]], [[#^s-bf197944716e6bcf1303508d|11 straipsnis]], [[#^s-8499ce493cf6e82e4ac2c7cb|15 straipsnio 5 dalis]], [[#^s-885546c8cbb86e8789d86e27|20 straipsnis]], [[#^s-3339b972bd227b9e52142b7d|21 straipsnio 1 dalis]], [[#^s-ff6cd1cc03fa0894359c53da|22 straipsnis]], [[#^s-04428c87cffc5fb802620993|23 straipsnis]], [[#^s-ba87c22ff67f500bcd050aa7|24 straipsnis]], [[#^s-a3679cc5e1abf42f8462db99|25 straipsnis]], [[#^s-25c909a3f94ba319f0ca4de8|26 straipsnio 1 dalis]], [[#^s-00c52f04389a5bf5fadfec72|27 straipsnis]] ir [[#^s-52690651e1eb4be4cab39416|29 straipsnis]] įsigalioja 2010 m. spalio 1 d. ^s-5a8bf4bb5037b7375dce1243
+2. Šio įstatymo [[#^s-052e2fe1826a1fb79d6efa4c|2 straipsnio]] [[#^s-9949e5b8a05bdadec214f408|1]] ir [[#^s-b9c00b692bfd48f0bcf36d31|2]] dalys, [[#^s-e873f95d4d0601fa233edb70|10 straipsnis]], [[#^s-bf197944716e6bcf1303508d|11 straipsnis]], [[#^s-8499ce493cf6e82e4ac2c7cb|15 straipsnio 5 dalis]], [[#^s-885546c8cbb86e8789d86e27|20 straipsnis]], [[#^s-3339b972bd227b9e52142b7d|21 straipsnio 1 dalis]], [[#^s-ff6cd1cc03fa0894359c53da|22 straipsnis]], [[#^s-04428c87cffc5fb802620993|23 straipsnis]], [[#^s-ba87c22ff67f500bcd050aa7|24 straipsnis]], [[#^s-a3679cc5e1abf42f8462db99|25 straipsnis]], [[#^s-25c909a3f94ba319f0ca4de8|26 straipsnio 1 dalis]], [[#^s-00c52f04389a5bf5fadfec72|27 straipsnis]] ir [[#^s-52690651e1eb4be4cab39416|29 straipsnis]] įsigalioja 2010 m. spalio 1 d. ^s-5a8bf4bb5037b7375dce1243
 
 
 

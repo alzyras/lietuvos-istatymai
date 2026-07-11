@@ -47,7 +47,7 @@ Pripažinti netekusiais galios:
 1) Lietuvos Respublikos geležinkelių transporto sektoriaus reformos įstatymą (Žin., 2004, Nr. 61-2182); ^s-c4029e974ecc18f9d809f218
 
 
-2) Lietuvos Respublikos geležinkelių transporto sektoriaus reformos įstatymo 2, 9, 12 straipsnių ir Įstatymo priedo pakeitimo įstatymą (Žin., 2009, Nr. 159-7204). ^s-b8cbffcb94e593c80566a4c0
+2) [Lietuvos Respublikos geležinkelių transporto sektoriaus reformos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.639F3DF99FF9) [2](https://e-tar.lt/portal/lt/legalAct/TAR.639F3DF99FF9), [9](https://e-tar.lt/portal/lt/legalAct/TAR.639F3DF99FF9), [12](https://e-tar.lt/portal/lt/legalAct/TAR.639F3DF99FF9) straipsnių ir Įstatymo priedo pakeitimo įstatymą (Žin., 2009, Nr. 159-7204). ^s-b8cbffcb94e593c80566a4c0
 
 
 

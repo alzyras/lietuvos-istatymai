@@ -61,7 +61,7 @@ Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
 
 
 
-4. Šio Įstatymo ketvirtasis1 skirsnis netaikomas vykdant sankcijas, kurioms taikomas 2005 m. vasario 24 d. Tarybos pamatinis sprendimas 2005/214/TVR dėl abipusio pripažinimo principo taikymo finansinėms baudoms su visais pakeitimais, 2012 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1215/2012 dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo su visais pakeitimais ar 2006 m. balandžio 27 d. Tarybos sprendimas 2006/325/EB dėl Europos bendrijos ir Danijos Karalystės susitarimo dėl jurisdikcijos ir teismų sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo sudarymo su visais pakeitimais. ^s-9d0572e1b31a10b8bbfc82b7
+4. Šio Įstatymo ketvirtasis1 skirsnis netaikomas vykdant sankcijas, kurioms taikomas 2005 m. vasario 24 d. Tarybos pamatinis sprendimas 2005/214/TVR dėl abipusio pripažinimo principo taikymo finansinėms baudoms su visais pakeitimais, 2012 m. gruodžio 12 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1215/2012](https://eur-lex.europa.eu/eli/reg/1215/2012/oj) dėl jurisdikcijos ir teismo sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo su visais pakeitimais ar 2006 m. balandžio 27 d. Tarybos sprendimas 2006/325/EB dėl Europos bendrijos ir Danijos Karalystės susitarimo dėl jurisdikcijos ir teismų sprendimų civilinėse ir komercinėse bylose pripažinimo ir vykdymo sudarymo su visais pakeitimais. ^s-9d0572e1b31a10b8bbfc82b7
 Papildyta straipsnio dalimi:
 Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
 Straipsnio dalies pakeitimai:
@@ -87,7 +87,7 @@ Nr. XI-2193, 2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
 ### 3 straipsnis. Valstybinės darbo inspekcijos veiklos teisiniai pagrindai ^s-e5cfee379dfbc54daccc9c48
 
 
-Valstybinė darbo inspekcija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodeksu]], šiuo Įstatymu, kitais įstatymais ir norminiais teisės aktais, reglamentuojančiais darbuotojų saugą ir sveikatą bei darbo santykius.
+Valstybinė darbo inspekcija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodeksu]], šiuo Įstatymu, kitais įstatymais ir norminiais teisės aktais, reglamentuojančiais darbuotojų saugą ir sveikatą bei darbo santykius.
 
 
 
@@ -398,7 +398,7 @@ Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
 
 
 
-4. Trečiosios šalies pilietis yra užsienietis, kuris nėra Europos Sąjungos valstybės narės pilietis ir kuris nesinaudoja laisvo judėjimo Europos Sąjungoje teise, kaip apibrėžta 2016 m. kovo 9 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/399 dėl taisyklių, reglamentuojančių asmenų judėjimą per sienas, Sąjungos kodekso (Šengeno sienų kodeksas) su visais pakeitimais 2 straipsnio 5 punkte. ^s-a81c243cfa958e4858bd9ed8
+4. Trečiosios šalies pilietis yra užsienietis, kuris nėra Europos Sąjungos valstybės narės pilietis ir kuris nesinaudoja laisvo judėjimo Europos Sąjungoje teise, kaip apibrėžta 2016 m. kovo 9 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/399](https://eur-lex.europa.eu/eli/reg/2016/399/oj) dėl taisyklių, reglamentuojančių asmenų judėjimą per sienas, Sąjungos kodekso (Šengeno sienų kodeksas) su visais pakeitimais 2 straipsnio 5 punkte. ^s-a81c243cfa958e4858bd9ed8
 Straipsnio dalies pakeitimai:
 Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
 
@@ -471,7 +471,7 @@ Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
 1. Kai yra sudaryti dvišaliai ar daugiašaliai susitarimai, Valstybinės darbo inspekcijos vykdomuose patikrinimuose Lietuvos Respublikos teritorijoje gali dalyvauti kitų Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių narių darbo inspektoriai ir kiti pareigūnai (toliau – užsienio valstybių darbo inspektoriai ir kiti pareigūnai). ^s-4d20bef40e2a1c4ed9990aef
 
 
-2. Kartu su Valstybinės darbo inspekcijos inspektoriais [[#^s-4d20bef40e2a1c4ed9990aef|šio straipsnio 1 dalyje]] nurodytuose patikrinimuose dalyvaujantys užsienio valstybių darbo inspektoriai ir kiti pareigūnai turi šio Įstatymo [[#^s-275f7408d8e37ace7e093d77|9 straipsnio 1 dalies]] 3 ir 12 punktuose nustatytas teises bei [[#^s-8e188a9f4376e2e240407ae5|9 straipsnio 2 dalies]] 7 ir 8 punktuose nustatytas pareigas. ^s-0463b7f2dc2e0e46dcee508f
+2. Kartu su Valstybinės darbo inspekcijos inspektoriais [[#^s-4d20bef40e2a1c4ed9990aef|šio straipsnio 1 dalyje]] nurodytuose patikrinimuose dalyvaujantys užsienio valstybių darbo inspektoriai ir kiti pareigūnai turi šio Įstatymo [[#^s-275f7408d8e37ace7e093d77|9 straipsnio 1 dalies]] [[#^s-77f436498fc6847969f7f708|3]] ir [[#^s-514f1ec8f0489a60a4433872|12]] punktuose nustatytas teises bei [[#^s-8e188a9f4376e2e240407ae5|9 straipsnio 2 dalies]] [[#^s-c13902febfe6d1c279284e77|7]] ir [[#^s-8dfca4ff87cc212427fb7b01|8]] punktuose nustatytas pareigas. ^s-0463b7f2dc2e0e46dcee508f
 
 
 Papildyta straipsniu:
@@ -563,7 +563,7 @@ TARPVALSTYBINIS PRAŠYMŲ DĖL FINANSINIŲ ADMINISTRACINIŲ SANKCIJŲ IR (AR) BA
 ### 123 straipsnis. Atsisakymo vykdyti prašymą ar pranešimą pagrindai ^s-67cdda8e1bff9caaaa27df1a
 
 
-1. Valstybinė darbo inspekcija turi teisę atsisakyti vykdyti prašančiosios institucijos prašymą dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo ar pranešimą apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo, jeigu prašančiosios institucijos prašyme nėra pateikta šio Įstatymo [[#^s-63d5890dfe5b331695e789b5|122 straipsnio]] 1 ir [[#^s-be250245a0a2490ab1e62cb1|2 dalyse]] nurodyta informacija, prašymas nėra išsamus arba akivaizdžiai neatitinka pagrindinio sprendimo. ^s-3b5dddc2d778478fcfa9c7f7
+1. Valstybinė darbo inspekcija turi teisę atsisakyti vykdyti prašančiosios institucijos prašymą dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo ar pranešimą apie sprendimą dėl tokios sankcijos ir (ar) baudos skyrimo, jeigu prašančiosios institucijos prašyme nėra pateikta šio Įstatymo [[#^s-63d5890dfe5b331695e789b5|122 straipsnio]] [[#^s-eb2e84dee8b65edc1d12f76d|1]] ir [[#^s-410cb2dd6d727bb0789e73a1|2]] dalyse nurodyta informacija, prašymas nėra išsamus arba akivaizdžiai neatitinka pagrindinio sprendimo. ^s-3b5dddc2d778478fcfa9c7f7
 
 
 2. Valstybinė darbo inspekcija gali atsisakyti vykdyti prašymą dėl finansinės administracinės sankcijos ir (ar) baudos išieškojimo šiomis aplinkybėmis: ^s-be250245a0a2490ab1e62cb1
@@ -637,10 +637,10 @@ Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
 2) darbdavio – fizinio asmens vardą, pavardę, gimimo metus ir padarytą teisės pažeidimą, jeigu darbdavys – fizinis asmuo yra baustas už padarytą administracinį nusižengimą, numatytą Administracinių nusižengimų kodekso 95, 99 ir 100 straipsniuose; ^s-282809e2613b45e7ffa12db4
 
 
-3) darbdavio – juridinio asmens teisinę formą, pavadinimą, juridinio asmens kodą ir padarytą teisės pažeidimą, jeigu darbdavys – juridinis asmuo yra baustas už padarytą teisės pažeidimą, numatytą [[latest/422c8b5042b811e6a8ae9e1795984391#^s-c32bb96d59f12719f70fa948|Lietuvos Respublikos užimtumo įstatymo 56 straipsnio]] 1 ir 7 dalyse, 561 straipsnio 1 dalyje, 57 straipsnio 1, 2 ir 3 dalyse, 58 straipsnio 1 dalyje ir 591 straipsnyje. ^s-fb0846584074eb86135a121e
+3) darbdavio – juridinio asmens teisinę formą, pavadinimą, juridinio asmens kodą ir padarytą teisės pažeidimą, jeigu darbdavys – juridinis asmuo yra baustas už padarytą teisės pažeidimą, numatytą [[latest/422c8b5042b811e6a8ae9e1795984391#^s-c32bb96d59f12719f70fa948|Lietuvos Respublikos užimtumo įstatymo 56 straipsnio]] [[latest/422c8b5042b811e6a8ae9e1795984391#^s-78c5051bb64512ee6335863e|1]] ir [[latest/422c8b5042b811e6a8ae9e1795984391#^s-74280f2a70378388ea1215d4|7]] dalyse, 561 straipsnio 1 dalyje, 57 straipsnio 1, 2 ir 3 dalyse, 58 straipsnio 1 dalyje ir 591 straipsnyje. ^s-fb0846584074eb86135a121e
 
 
-2. [[#^s-70d2c75a94c8840aff4b9338|Šio straipsnio 1 dalyje]] nurodyta informacija (fizinių asmenų – nekopijuojamu formatu) viešinama vienus metus, išskyrus informaciją dėl padarytų teisės pažeidimų, numatytų [[latest/422c8b5042b811e6a8ae9e1795984391#^s-c32bb96d59f12719f70fa948|Užimtumo įstatymo 56 straipsnio]] 1 ir 7 dalyse ir 561 straipsnio 1 dalyje, – ši informacija viešinama trejus metus, nuo Valstybinės darbo inspekcijos administracinio nurodymo įvykdymo dienos arba nuo nutarimo administracinio nusižengimo ar administracinėje byloje įsiteisėjimo dienos. Suėjus atitinkamai vienų ar trejų metų terminui, [[#^s-70d2c75a94c8840aff4b9338|šio straipsnio 1 dalyje]] nurodyta informacija pašalinama iš Valstybinės darbo inspekcijos interneto svetainės. ^s-4e205c7206f8b41065197e98
+2. [[#^s-70d2c75a94c8840aff4b9338|Šio straipsnio 1 dalyje]] nurodyta informacija (fizinių asmenų – nekopijuojamu formatu) viešinama vienus metus, išskyrus informaciją dėl padarytų teisės pažeidimų, numatytų [[latest/422c8b5042b811e6a8ae9e1795984391#^s-c32bb96d59f12719f70fa948|Užimtumo įstatymo 56 straipsnio]] [[latest/422c8b5042b811e6a8ae9e1795984391#^s-78c5051bb64512ee6335863e|1]] ir [[latest/422c8b5042b811e6a8ae9e1795984391#^s-74280f2a70378388ea1215d4|7]] dalyse ir 561 straipsnio 1 dalyje, – ši informacija viešinama trejus metus, nuo Valstybinės darbo inspekcijos administracinio nurodymo įvykdymo dienos arba nuo nutarimo administracinio nusižengimo ar administracinėje byloje įsiteisėjimo dienos. Suėjus atitinkamai vienų ar trejų metų terminui, [[#^s-70d2c75a94c8840aff4b9338|šio straipsnio 1 dalyje]] nurodyta informacija pašalinama iš Valstybinės darbo inspekcijos interneto svetainės. ^s-4e205c7206f8b41065197e98
 
 
 Papildyta straipsniu:
@@ -660,19 +660,19 @@ Nr. XIV-2658, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09699
 1) Lietuvos Respublikos valstybinės darbo inspekcijos įstatymas (Žin., 1994, Nr. 87-1644); ^s-0546d42a4bd40ed7c62c985f
 
 
-2) Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 ir 15 straipsnių pakeitimo ir papildymo įstatymas (Žin., 1996, Nr. 41-987); ^s-1c13be777f4c829fdfb45967
+2) [Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 ir 15 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.0BCF689702D5) (Žin., 1996, Nr. 41-987); ^s-1c13be777f4c829fdfb45967
 
 
-3) [[#^s-1e7c0d4940e278c714a0defe|Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 straipsnio]] pakeitimo įstatymas (Žin., 1997, Nr. 67-1654); ^s-e1a469caea4b18cd22683c0c
+3) [Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.16E4AFAD3AA5) (Žin., 1997, Nr. 67-1654); ^s-e1a469caea4b18cd22683c0c
 
 
-4) Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 4, 5, 6, 7, 8, 12, 13, 15, 18, 21, 25 straipsnių pakeitimo ir papildymo įstatymas (Žin., 1998, Nr. 98-2712); ^s-fbf28fe36f8f58d5fe96cdac
+4) [Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 4, 5, 6, 7, 8, 12, 13, 15, 18, 21, 25 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.DE6678DF867E) (Žin., 1998, Nr. 98-2712); ^s-fbf28fe36f8f58d5fe96cdac
 
 
-5) [[#^s-53f7bc4943d9c1742cb80cdd|Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 11 straipsnio]] papildymo įstatymas (Žin., 1999, Nr. 33-952); ^s-eb1bf6d0d2cabe1ad346bb42
+5) [Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 11 straipsnio papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.D189F6634014) (Žin., 1999, Nr. 33-952); ^s-eb1bf6d0d2cabe1ad346bb42
 
 
-6) [[#^s-bd69bd305676f09e098a0f32|Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 7 ir 8 straipsnių]] papildymo įstatymas (Žin., 2000, Nr.61-1829). ^s-cc00aff0eda3a8e7497d2fcf
+6) [Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 7 ir 8 straipsnių papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.DD8638B146AF) (Žin., 2000, Nr.61-1829). ^s-cc00aff0eda3a8e7497d2fcf
 
 
 
@@ -697,7 +697,7 @@ priedas
 1. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai (OL 2009 L 168, p. 24). ^s-85afe31c5b230221d629dad7
 
 
-2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/67/ES dėl Direktyvos 96/71/EB dėl darbuotojų komandiravimo paslaugų teikimo sistemoje vykdymo užtikrinimo ir kuria iš dalies keičiamas Reglamentas (ES) Nr. 1024/2012 dėl administracinio bendradarbiavimo per Vidaus rinkos informacinę sistemą (IMI reglamentas) (OL L 159, p. 11). ^s-2a0d3de012d3fa82aedb185a
+2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/67/ES dėl Direktyvos 96/71/EB dėl darbuotojų komandiravimo paslaugų teikimo sistemoje vykdymo užtikrinimo ir kuria iš dalies keičiamas [Reglamentas (ES) Nr. 1024/2012](https://eur-lex.europa.eu/eli/reg/1024/2012/oj) dėl administracinio bendradarbiavimo per Vidaus rinkos informacinę sistemą (IMI reglamentas) (OL L 159, p. 11). ^s-2a0d3de012d3fa82aedb185a
 
 
 Įstatymas papildytas priedu:
@@ -719,10 +719,10 @@ priedas
 1. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai. ^s-b39691509d164b023c4f2618
 
 
-2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/67/ES dėl Direktyvos 96/71/EB dėl darbuotojų komandiravimo paslaugų teikimo sistemoje vykdymo užtikrinimo ir kuria iš dalies keičiamas Reglamentas (ES) Nr. 1024/2012 dėl administracinio bendradarbiavimo per Vidaus rinkos informacinę sistemą (IMI reglamentas). ^s-1c4e4b783e277c5469ff3fd5
+2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/67/ES dėl Direktyvos 96/71/EB dėl darbuotojų komandiravimo paslaugų teikimo sistemoje vykdymo užtikrinimo ir kuria iš dalies keičiamas [Reglamentas (ES) Nr. 1024/2012](https://eur-lex.europa.eu/eli/reg/1024/2012/oj) dėl administracinio bendradarbiavimo per Vidaus rinkos informacinę sistemą (IMI reglamentas). ^s-1c4e4b783e277c5469ff3fd5
 
 
-3. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1149, kuriuo įsteigiama Europos darbo institucija, iš dalies keičiami reglamentai (EB) Nr. 883/2004, (ES) Nr. 492/2011 ir (ES) 2016/589 ir panaikinamas Sprendimas (ES) 2016/344. ^s-7b3e7abf0b98c42293e98e7f
+3. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2019/1149](https://eur-lex.europa.eu/eli/reg/2019/1149/oj), kuriuo įsteigiama Europos darbo institucija, iš dalies keičiami reglamentai (EB) Nr. 883/2004, (ES) Nr. 492/2011 ir (ES) 2016/589 ir panaikinamas [Sprendimas (ES) 2016/344](https://eur-lex.europa.eu/eli/dec/2016/344/oj). ^s-7b3e7abf0b98c42293e98e7f
 
 
 Papildyta priedu:
@@ -739,7 +739,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1841, 2008-11-14, Žin., 2008, Nr. 137-5385 (2008-11-29)
 [[latest/TAR.7B89D2D7AAE9|VALSTYBINĖS DARBO INSPEKCIJOS ĮSTATYMO 6 IR 8 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
 Šis įstatymas įsigalioja 2011 m. sausio 1 d.
-Valstybinės darbo inspekcijos įstatymo 6 straipsnio 24 punkto nuostatos dėl duomenų apie darbo priemonių, darbo sąlygų neatitiktį darbuotojų saugos ir sveikatos teisės aktų nustatytiems reikalavimams teikimo įsigalioja 2012 m. sausio 1 d.
+[[latest/TAR.1FD5C3A4D10A|Valstybinės darbo inspekcijos įstatymo 6 straipsnio 24 punkto]] nuostatos dėl duomenų apie darbo priemonių, darbo sąlygų neatitiktį darbuotojų saugos ir sveikatos teisės aktų nustatytiems reikalavimams teikimo įsigalioja 2012 m. sausio 1 d.
 Įstatymo įsigaliojimo pakeitimai.
 1.1.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -760,9 +760,9 @@ Nr. XI-2128, 2012-06-26, Žin., 2012, Nr. 80-4139 (2012-07-10)
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2193, 2012-06-30, Žin., 2012, Nr. 82-4272 (2012-07-13)
-[[#^s-e14fce41b6eb085d1d5f8836|VALSTYBINĖS DARBO INSPEKCIJOS ĮSTATYMO 1, 6, 9 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO KETVIRTUOJU(1) SKIRSNIU, 13(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
-Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-7b3e7abf0b98c42293e98e7f|3 dalis]], įsigalioja 2012 m. rugpjūčio 1 d.
-Šio įstatymo [[#^s-ad4bc3ab4d90275f89438beb|2 straipsnyje]] nurodyti [[#^s-1e7c0d4940e278c714a0defe|Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 straipsnio]] 25, 26 ir 27 punktai nuo 2013 m. sausio 1 d. laikomi atitinkamai [[#^s-1e7c0d4940e278c714a0defe|Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 straipsnio]] 26, 27 ir 28 punktais.
+VALSTYBINĖS DARBO INSPEKCIJOS ĮSTATYMO [[#^s-8317a75fc30c19ff1a9ac60b|1]], [[#^s-1e7c0d4940e278c714a0defe|6]], [[#^s-e14fce41b6eb085d1d5f8836|9]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO KETVIRTUOJU(1) SKIRSNIU, 13(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
+Šis įstatymas, išskyrus šio straipsnio 2 ir 3 dalis, įsigalioja 2012 m. rugpjūčio 1 d.
+Šio įstatymo [[#^s-ad4bc3ab4d90275f89438beb|2 straipsnyje]] nurodyti [[#^s-1e7c0d4940e278c714a0defe|Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 straipsnio]] [[latest/TAR.1FD5C3A4D10A|25]], [[latest/TAR.1FD5C3A4D10A|26]] ir [[latest/TAR.1FD5C3A4D10A|27]] punktai nuo 2013 m. sausio 1 d. laikomi atitinkamai [[#^s-1e7c0d4940e278c714a0defe|Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 straipsnio]] [[latest/TAR.1FD5C3A4D10A|26]], [[latest/TAR.1FD5C3A4D10A|27]] ir [[latest/TAR.1FD5C3A4D10A|28]] punktais.
 
 
 
@@ -787,7 +787,7 @@ Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 12-1 s
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1805, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10365
-Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 6, 9, 11 ir [[#^s-715c9c64307b4c20164c944a|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 [[#^s-1e7c0d4940e278c714a0defe|6]], [[#^s-e14fce41b6eb085d1d5f8836|9]], [[#^s-53f7bc4943d9c1742cb80cdd|11]] ir [[#^s-715c9c64307b4c20164c944a|12]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -807,12 +807,12 @@ Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 12-1 s
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2606, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23711
-Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 1, 6, 8, [[#^s-e14fce41b6eb085d1d5f8836|9 straipsnių]], ketvirtojo-1 skirsnio ir priedo pakeitimo bei 13-1 straipsnio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 [[#^s-8317a75fc30c19ff1a9ac60b|1]], [[#^s-1e7c0d4940e278c714a0defe|6]], [[#^s-bd69bd305676f09e098a0f32|8]], [[#^s-e14fce41b6eb085d1d5f8836|9]] straipsnių, ketvirtojo-1 skirsnio ir priedo pakeitimo bei 13-1 straipsnio pripažinimo netekusiu galios įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-135, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29839
-Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 1, 6, 8, [[#^s-e14fce41b6eb085d1d5f8836|9 straipsnių]], ketvirtojo-1 skirsnio ir priedo pakeitimo bei 13-1 straipsnio pripažinimo netekusiu galios [[latest/340b34e07e7211e6b969d7ae07280e89|įstatymo Nr. XII-2606]] 2 ir [[#^s-bd69bd305676f09e098a0f32|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 [[#^s-8317a75fc30c19ff1a9ac60b|1]], [[#^s-1e7c0d4940e278c714a0defe|6]], [[#^s-bd69bd305676f09e098a0f32|8]], [[#^s-e14fce41b6eb085d1d5f8836|9]] straipsnių, ketvirtojo-1 skirsnio ir priedo pakeitimo bei 13-1 straipsnio pripažinimo netekusiu galios [[latest/340b34e07e7211e6b969d7ae07280e89|įstatymo Nr. XII-2606]] [[#^s-ad4bc3ab4d90275f89438beb|2]] ir [[#^s-bd69bd305676f09e098a0f32|8]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -822,7 +822,7 @@ Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 [[#^s-
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1160, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08533
-Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 1, 4, 5, 6, 7, 8, 9, 10, 11 ir 12-4 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 [[#^s-8317a75fc30c19ff1a9ac60b|1]], [[#^s-bdda1b32f14525abba0e9987|4]], [[#^s-a48ae8ea99efde4c62e87177|5]], [[#^s-1e7c0d4940e278c714a0defe|6]], [[#^s-940df9a7179d17c6968f2278|7]], [[#^s-bd69bd305676f09e098a0f32|8]], [[#^s-e14fce41b6eb085d1d5f8836|9]], [[#^s-56456f90f9585c9b20415b4c|10]], [[#^s-53f7bc4943d9c1742cb80cdd|11]] ir 12-4 straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -832,7 +832,7 @@ Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 [[#^s-
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-552, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21219
-Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 1, 4, 8, 9, [[#^s-53f7bc4943d9c1742cb80cdd|11 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
+Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo Nr. IX-1768 [[#^s-8317a75fc30c19ff1a9ac60b|1]], [[#^s-bdda1b32f14525abba0e9987|4]], [[#^s-bd69bd305676f09e098a0f32|8]], [[#^s-e14fce41b6eb085d1d5f8836|9]], [[#^s-53f7bc4943d9c1742cb80cdd|11]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas

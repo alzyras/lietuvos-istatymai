@@ -8714,7 +8714,7 @@ tūkst. Lt
 
 
  1 4
- Antidempingo įstatymo priežiūra
+ [Antidempingo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.834893A1E7FD) priežiūra
    1. 1. 6 ^s-cd9fa316a893444f4deae4a5
    241
    216

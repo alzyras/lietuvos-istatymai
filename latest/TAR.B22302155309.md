@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-000f25953f0ab90159d7103e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. gruodžio 8 d. dekretą Nr. 307, ratifikuoja 1997 m. rugsėjo 5 d. Vienoje priimtą Jungtinę panaudoto kuro tvarkymo saugos ir radioaktyviųjų atliekų tvarkymo saugos konvenciją.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. gruodžio 8 d. dekretą Nr. 307](https://e-tar.lt/portal/lt/legalAct/TAR.9EE3B28C39E2), ratifikuoja 1997 m. rugsėjo 5 d. Vienoje priimtą Jungtinę panaudoto kuro tvarkymo saugos ir radioaktyviųjų atliekų tvarkymo saugos konvenciją.
 
 
 

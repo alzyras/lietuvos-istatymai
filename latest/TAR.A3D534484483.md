@@ -80,10 +80,10 @@ priedas
 
 
 
-1. 1992 m. birželio 18 d. Tarybos reglamentas (EEB) Nr. 1768/92 dėl medicinos produktų papildomos apsaugos liudijimo sukūrimo (OL 2004 m. specialusis leidimas, 13 skyrius, 11 tomas, p. 200). ^s-581ea1571ee2b892d9ad9265
+1. 1992 m. birželio 18 d. Tarybos [reglamentas (EEB) Nr. 1768/92](https://eur-lex.europa.eu/eli/reg/1768/92/oj) dėl medicinos produktų papildomos apsaugos liudijimo sukūrimo (OL 2004 m. specialusis leidimas, 13 skyrius, 11 tomas, p. 200). ^s-581ea1571ee2b892d9ad9265
 
 
-2. 1996 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1610/96 dėl augalų apsaugos priemonių papildomos apsaugos liudijimo sukūrimo (OL 2004 m. specialusis leidimas, 3 skyrius, 19 tomas, p. 335). ^s-c6dccde0ea19d575ecdd03c1
+2. 1996 m. liepos 23 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1610/96](https://eur-lex.europa.eu/eli/reg/1610/96/oj) dėl augalų apsaugos priemonių papildomos apsaugos liudijimo sukūrimo (OL 2004 m. specialusis leidimas, 3 skyrius, 19 tomas, p. 335). ^s-c6dccde0ea19d575ecdd03c1
 
 
 3. 1998 m. liepos 6 d. Europos Parlamento ir Tarybos direktyva 98/44/EB dėl teisinės biotechnologinių išradimų apsaugos (OL 2004 m. specialusis leidimas, 13 skyrius, 20 tomas, p. 395). ^s-e5d3fe1e1168cbe69e44f2e7

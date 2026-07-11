@@ -178,7 +178,7 @@ Nustatant nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio 
 ### 5 straipsnis. Viešosios informacijos nepriskyrimas neigiamą poveikį nepilnamečių vystymuisi darančios informacijos kategorijai ^s-3b6ba445b2a24de56c3c6fe4
 
 
-Viešoji informacija gali būti nepriskirta neigiamą poveikį nepilnamečių vystymuisi darančios informacijos kategorijai, jeigu ji atitinka šio įstatymo [[#^s-2236869d1212a489937a73ff|4 straipsnio 1 dalies]] 1–19 punktuose apibrėžtus kriterijus, tačiau:
+Viešoji informacija gali būti nepriskirta neigiamą poveikį nepilnamečių vystymuisi darančios informacijos kategorijai, jeigu ji atitinka šio įstatymo [[#^s-2236869d1212a489937a73ff|4 straipsnio 1 dalies]] [[#^s-55700d9130881b918e92b285|1]]–[[#^s-b1236a1917060e5b094c87d5|19]] punktuose apibrėžtus kriterijus, tačiau:
 
 
 1) jos turinį sudaro tik informacija apie įvykius, politinius, socialinius, religinius įsitikinimus ar pasaulėžiūrą; ^s-d417ca7e6f57a5a0748bde4c
@@ -219,10 +219,10 @@ Visuomenės informavimo priemonėse draudžiama skleisti neigiamą poveikį nepi
 ### 7 straipsnis. Ribojimas skleisti neigiamą poveikį nepilnamečių vystymuisi darančią informaciją ^s-039f62212b23a39153c6efbe
 
 
-1. Šio įstatymo [[#^s-2236869d1212a489937a73ff|4 straipsnio 1 dalies]] 1–19 punktuose apibrėžtą informaciją draudžiama tiesiogiai skleisti nepilnamečiams – jiems siūlyti, perleisti ar kitaip leisti asmeniškai ja naudotis. Tokia viešoji informacija turi būti skleidžiama tik vietose, į kurias nepilnamečiai negali patekti, ir (arba) tokiu laiku, kuriuo nepilnamečiai negalėtų ja naudotis, arba kai naudojant technines priemones yra ribojama tokios viešosios informacijos sklaida nepilnamečiams ar sudaromos sąlygos atsakingiems už vaikų ugdymą ir priežiūrą asmenims užtikrinti galimybę riboti tokios viešosios informacijos sklaidą nepilnamečiams. ^s-0c12b9a2457dd55de19e2a2c
+1. Šio įstatymo [[#^s-2236869d1212a489937a73ff|4 straipsnio 1 dalies]] [[#^s-55700d9130881b918e92b285|1]]–[[#^s-b1236a1917060e5b094c87d5|19]] punktuose apibrėžtą informaciją draudžiama tiesiogiai skleisti nepilnamečiams – jiems siūlyti, perleisti ar kitaip leisti asmeniškai ja naudotis. Tokia viešoji informacija turi būti skleidžiama tik vietose, į kurias nepilnamečiai negali patekti, ir (arba) tokiu laiku, kuriuo nepilnamečiai negalėtų ja naudotis, arba kai naudojant technines priemones yra ribojama tokios viešosios informacijos sklaida nepilnamečiams ar sudaromos sąlygos atsakingiems už vaikų ugdymą ir priežiūrą asmenims užtikrinti galimybę riboti tokios viešosios informacijos sklaidą nepilnamečiams. ^s-0c12b9a2457dd55de19e2a2c
 
 
-2. Programos ir laidos, kuriose skleidžiama viešoji informacija atitinka šio įstatymo [[#^s-2236869d1212a489937a73ff|4 straipsnio 1 dalies]] 1–19 punktuose numatytus vieną ar kelis kriterijus, gali būti transliuojamos nenaudojant [[#^s-0c12b9a2457dd55de19e2a2c|šio straipsnio 1 dalyje]] nurodytų techninių priemonių, jeigu jos pažymėtos indeksais ir transliuojamos atitinkamu laiku. Tokios programos ir laidos: ^s-3cf42f422fb64991ab46eb7f
+2. Programos ir laidos, kuriose skleidžiama viešoji informacija atitinka šio įstatymo [[#^s-2236869d1212a489937a73ff|4 straipsnio 1 dalies]] [[#^s-55700d9130881b918e92b285|1]]–[[#^s-b1236a1917060e5b094c87d5|19]] punktuose numatytus vieną ar kelis kriterijus, gali būti transliuojamos nenaudojant [[#^s-0c12b9a2457dd55de19e2a2c|šio straipsnio 1 dalyje]] nurodytų techninių priemonių, jeigu jos pažymėtos indeksais ir transliuojamos atitinkamu laiku. Tokios programos ir laidos: ^s-3cf42f422fb64991ab46eb7f
 
 
 1) turi būti pažymėtos indeksu „S“ ir transliuojamos nuo 23 iki 6 valandos, kai jose skleidžiama informacija daro neigiamą poveikį nepilnamečiams; ^s-871682e7bc66847d97605c5e

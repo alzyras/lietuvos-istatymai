@@ -197,7 +197,7 @@ Pakeisti [[#^s-6e1c56af2eba968c03348b33|10 straipsnį]] ir jį išdėstyti taip:
 3. Kitų valstybinėje tarnyboje dirbančių asmenų privačių interesų deklaracijų duomenys gali būti skelbiami Vyriausiosios tarnybinės etikos komisijos motyvuotu sprendimu. ^s-b369e924af05c0dd3dff6508
 
 
-4. Valstybinėje tarnyboje dirbančių asmenų privačių interesų duomenų viešumui užtikrinti Valstybės registrų įstatymo nustatyta tvarka steigiamas Privačių interesų registras.“ ^s-c712e06332430350991bef08
+4. Valstybinėje tarnyboje dirbančių asmenų privačių interesų duomenų viešumui užtikrinti [Valstybės registrų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296) nustatyta tvarka steigiamas Privačių interesų registras.“ ^s-c712e06332430350991bef08
 
 
 
@@ -298,7 +298,7 @@ Vyriausioji tarnybinės etikos komisija prižiūri, kaip asmenys vykdo šio įst
 ### 15 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-88984610484ee30c6e60b91a
 
 
-Lietuvos Respublikos Vyriausybė per metus nuo šio įstatymo įsigaliojimo dienos Valstybės registrų įstatymo nustatyta tvarka įsteigia Privačių interesų registrą.
+Lietuvos Respublikos Vyriausybė per metus nuo šio įstatymo įsigaliojimo dienos [Valstybės registrų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296) nustatyta tvarka įsteigia Privačių interesų registrą.
 
 
 

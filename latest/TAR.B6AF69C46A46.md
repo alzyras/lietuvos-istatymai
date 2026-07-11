@@ -58,7 +58,7 @@ Pakeisti 69 straipsnį ir jį išdėstyti taip:
 
 
 ### ANTRASIS SKIRSNIS ^s-d8b0d2ef8cb32fa34d69ca9e
-[[latest/TAR.0F9036415DBD#^s-d73413a7e0961809b00c271d|VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 4, 8 IR 9 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.0F9036415DBD|VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO]] [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|4]], [[latest/TAR.0F9036415DBD#^s-41445d56099cbf4732c50d87|8]] IR [[latest/TAR.0F9036415DBD#^s-d73413a7e0961809b00c271d|9]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1991, Nr. 17-447; 2004, Nr. 171-6295)
 
@@ -70,7 +70,7 @@ Pakeisti 69 straipsnį ir jį išdėstyti taip:
 4 straipsnio 2 dalyje išbraukti skaičių ir žodį „[[#^s-39df555a2fe0d1904d507d4a|1 dalies]]“, pakeisti [[#^s-0d2320203845533048407c4c|3 punktą]] ir visą [[#^s-81d8677844e190d01fbbbcc2|2 dalį]] išdėstyti taip:
 
 
-„2. Šio įstatymo [[#^s-bd98e89b93cdc78babad1ed6|3 straipsnio]] 1 ir [[#^s-0d2320203845533048407c4c|3 punktuose]] nustatytų rūšių socialiniu draudimu privalomai draudžiami:
+„2. Šio įstatymo [[#^s-bd98e89b93cdc78babad1ed6|3 straipsnio]] 1 ir 3 punktuose nustatytų rūšių socialiniu draudimu privalomai draudžiami:
 
 
 1) vidaus tarnybos sistemos pareigūnai, Valstybės saugumo departamento sistemos, Specialiųjų tyrimų tarnybos ir Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos bei jam pavaldžių įstaigų ir įmonių pareigūnai; ^s-72778f980419cea3f1993ddb

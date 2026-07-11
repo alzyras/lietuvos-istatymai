@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-44c5ffa0f38d5d9a57955816
 
 
-Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 5 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. balandžio 17 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti tarptautines sutartis intelektualinės nuosavybės apsaugos srityje“, ratifikuoja Patentinės kooperacijos sutartį, pasirašytą Vašingtone 1970 m. birželio 19 d., peržiūrėtą 1979 m. rugsėjo 28 d. ir 1984 m. vasario 3 d.
+Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 5 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. balandžio 17 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti tarptautines sutartis intelektualinės nuosavybės apsaugos srityje“](https://e-tar.lt/portal/lt/legalAct/TAR.CD66CD86D808), ratifikuoja Patentinės kooperacijos sutartį, pasirašytą Vašingtone 1970 m. birželio 19 d., peržiūrėtą 1979 m. rugsėjo 28 d. ir 1984 m. vasario 3 d.
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-ff20f79b57fa4fd090d0121a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. birželio 18 d. dekretą Nr. 115, ratifikuoja 1979 m. gruodžio 21 d. Briuselyje priimtą Protokolą (Protokolas dėl SST), iš dalies pakeičiantį 1924 m. rugpjūčio 25 d. Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu taisyklės).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. birželio 18 d. dekretą Nr. 115](https://e-tar.lt/portal/lt/legalAct/TAR.C6A96665D210), ratifikuoja 1979 m. gruodžio 21 d. Briuselyje priimtą Protokolą (Protokolas dėl SST), iš dalies pakeičiantį 1924 m. rugpjūčio 25 d. Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu taisyklės).
 
 
 

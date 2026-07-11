@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-266a7e584fa9e13f5996e6f6
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. rugpjūčio 31 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl tarptautinės jūrų laivybos sąlygų lengvinimo (FAL konvencija)“, ratifikuoja Konvenciją dėl tarptautinės jūrų laivybos sąlygų lengvinimo (FAL konvencija), priimtą 1965 m. balandžio 9 d. Londone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. rugpjūčio 31 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl tarptautinės jūrų laivybos sąlygų lengvinimo (FAL konvencija)“](https://e-tar.lt/portal/lt/legalAct/TAR.28E2CB2C38CE), ratifikuoja Konvenciją dėl tarptautinės jūrų laivybos sąlygų lengvinimo (FAL konvencija), priimtą 1965 m. balandžio 9 d. Londone.
 
 
 

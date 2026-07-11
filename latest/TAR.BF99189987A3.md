@@ -44,7 +44,7 @@ Vilnius
 1. Papildyti 18 straipsnį nauja [[#^s-32fdefab58aec7a8bef3c18d|2 dalimi]]: ^s-a38c3987c40105668d88971f
 
 
-„2. Asmeniui be pilietybės, gimusiam Lietuvos Respublikos teritorijoje, Lietuvos Respublikos pilietybė gali būti suteikiama, jeigu jis teisėtai nuolat gyvena Lietuvos Respublikoje pastaruosius 5 metus, nebuvo įgijęs kitos valstybės pilietybės, prašymo dėl Lietuvos Respublikos pilietybės suteikimo pateikimo ir sprendimo dėl Lietuvos Respublikos pilietybės suteikimo priėmimo metu turi teisę gyventi Lietuvos Respublikoje ir atitinka [[#^s-a38c3987c40105668d88971f|šio straipsnio 1 dalies]] 3, 4, 5 ir 7 punktuose nustatytas sąlygas.“
+„2. Asmeniui be pilietybės, gimusiam Lietuvos Respublikos teritorijoje, Lietuvos Respublikos pilietybė gali būti suteikiama, jeigu jis teisėtai nuolat gyvena Lietuvos Respublikoje pastaruosius 5 metus, nebuvo įgijęs kitos valstybės pilietybės, prašymo dėl Lietuvos Respublikos pilietybės suteikimo pateikimo ir sprendimo dėl Lietuvos Respublikos pilietybės suteikimo priėmimo metu turi teisę gyventi Lietuvos Respublikoje ir atitinka šio straipsnio 1 dalies 3, 4, 5 ir 7 punktuose nustatytas sąlygas.“
 
 
 2. Buvusias 18 straipsnio 2, 3, 4, 5 dalis laikyti atitinkamai 3, 4, 5, 6 dalimis. ^s-32fdefab58aec7a8bef3c18d

@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 23 straipsnio 1, 2, 4 ir 5 dalių pakeitimas ^s-26206771f176a0f67e682cc0
 
 
-23 straipsnio 1 dalyje vietoj skaičiaus „5“ įrašyti skaičių „3“, [[#^s-258144237e1235540d0726bc|2 dalyje]] išbraukti žodžius „o du teisininkus – teisingumo ministras“, 4 ir [[#^s-19592607650f665c86ca8612|5 dalis]] pakeisti ir straipsnį išdėstyti taip:
+23 straipsnio 1 dalyje vietoj skaičiaus „5“ įrašyti skaičių „3“, [[#^s-258144237e1235540d0726bc|2 dalyje]] išbraukti žodžius „o du teisininkus – teisingumo ministras“, 4 ir 5 dalis pakeisti ir straipsnį išdėstyti taip:
 
 
 „23 straipsnis. Vyriausioji tarnybinės etikos komisija

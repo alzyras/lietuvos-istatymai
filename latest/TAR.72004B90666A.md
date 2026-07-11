@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-6c19338a60726ce4422f2d3d
 
 
-Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugpjūčio 12 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Baltarusijos Respublikos sutartį dėl asmenų, kuriems paskirtas laisvės atėmimas ar pritaikytos priverčiamosios medicininio poveikio priemonės, perdavimo“, ratifikuoja Lietuvos Respublikos ir Baltarusijos Respublikos sutartį dėl asmenų, kuriems paskirtas laisvės atėmimas ar pritaikytos priverčiamosios medicininio poveikio priemonės, perdavimo, pasirašytą 1996 m. liepos 12 d. Vilniuje.
+Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugpjūčio 12 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Baltarusijos Respublikos sutartį dėl asmenų, kuriems paskirtas laisvės atėmimas ar pritaikytos priverčiamosios medicininio poveikio priemonės, perdavimo“](https://e-tar.lt/portal/lt/legalAct/TAR.FA86BAD2961F), ratifikuoja Lietuvos Respublikos ir Baltarusijos Respublikos sutartį dėl asmenų, kuriems paskirtas laisvės atėmimas ar pritaikytos priverčiamosios medicininio poveikio priemonės, perdavimo, pasirašytą 1996 m. liepos 12 d. Vilniuje.
 
 
 

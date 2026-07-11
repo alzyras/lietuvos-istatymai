@@ -42,7 +42,7 @@ Vilnius
 1. Papildyti 154 straipsnį nauja [[#^s-bee63444a2e8129676603e48|2 dalimi]]: ^s-6b4f944f67c476cd248da810
 
 
-„2. [[#^s-6b4f944f67c476cd248da810|Šio straipsnio 1 dalyje]] nustatyta tvarka gali būti kontroliuojama ir fiksuojama telekomunikacijų tinklais perduodama informacija, išskyrus jos turinį, jeigu yra pagrindas manyti, kad tokiu būdu galima gauti duomenų apie nesunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 166, 196, 197, 198(1) straipsniuose, 309 straipsnio 1 ir [[#^s-bee63444a2e8129676603e48|2 dalyse]].“
+„2. Šio straipsnio 1 dalyje nustatyta tvarka gali būti kontroliuojama ir fiksuojama telekomunikacijų tinklais perduodama informacija, išskyrus jos turinį, jeigu yra pagrindas manyti, kad tokiu būdu galima gauti duomenų apie nesunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 166, 196, 197, 198(1) straipsniuose, 309 straipsnio 1 ir 2 dalyse.“
 
 
 2. Buvusias 154 straipsnio 2, 3, 4, 5 ir 6 dalis laikyti atitinkamai 3, 4, 5, 6 ir 7 dalimis. ^s-bee63444a2e8129676603e48

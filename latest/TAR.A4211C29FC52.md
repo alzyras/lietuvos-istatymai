@@ -52,7 +52,7 @@ Mėgėjiška žvejyba leidžiama visuose žuvininkystės vandens telkiniuose [[l
 ### 2 straipsnis. 11 straipsnio pakeitimas ^s-76912d348b18fd58c4bf8de8
 
 
-11 straipsnio 7 ir [[#^s-54d2dfb9d3ffbc3edca47638|8 dalis]] pripažinti netekusiomis galios, 9, 10, 11, 12 ir 13 dalis atitinkamai laikyti 7, 8, 9, 10 ir [[#^s-cd2245101e4d18489c1faff4|11 dalimis]] ir visą straipsnį išdėstyti taip:
+11 straipsnio 7 ir 8 dalis pripažinti netekusiomis galios, 9, 10, 11, 12 ir 13 dalis atitinkamai laikyti 7, 8, 9, 10 ir 11 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „11 straipsnis. Žvejybos teisės suteikimas

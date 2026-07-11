@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-9bad8ba21d349cda3bc2f017
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. gegužės 20 d. dekretą Nr. 1772, ratifikuoja Lietuvos Respublikos Vyriausybės ir Uzbekistano Respublikos Vyriausybės susitarimą dėl bendradarbiavimo kovojant su nusikalstamumu, pasirašytą 2002 m. vasario 18 d. Taškente.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. gegužės 20 d. dekretą Nr. 1772](https://e-tar.lt/portal/lt/legalAct/TAR.F1B402962E32), ratifikuoja Lietuvos Respublikos Vyriausybės ir Uzbekistano Respublikos Vyriausybės susitarimą dėl bendradarbiavimo kovojant su nusikalstamumu, pasirašytą 2002 m. vasario 18 d. Taškente.
 
 
 

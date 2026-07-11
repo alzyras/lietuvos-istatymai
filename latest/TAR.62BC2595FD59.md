@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Nutarimo pripažinimas netekusiu galios ^s-54812f496eafb8d8f9f218b9
 
 
-Lietuvos Respublikos Aukščiausiosios Tarybos 1991 m. kovo 21 d. nutarimą Nr. I-1164 „Dėl Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo įsigaliojimo“ (Žin., 1991, Nr. 11-275) pripažinti netekusiu galios.
+Lietuvos Respublikos Aukščiausiosios Tarybos [1991 m. kovo 21 d. nutarimą Nr. I-1164](https://e-tar.lt/portal/lt/legalAct/TAR.104A1C6B89C8) [„Dėl Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo įsigaliojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.104A1C6B89C8) (Žin., 1991, Nr. 11-275) pripažinti netekusiu galios.
 
 
 

@@ -188,7 +188,7 @@ Vyriausybė, Vyriausybės įstaigos, ministerijos, prie jų įsteigti departamen
 3. Taryba ar kontrolės institucijos gali teikti bet kokią turimą informaciją Europos Komisijai apie kilusį rimtą ir tiesioginį pavojų vartotojų sveikatai ir saugai dar prieš priimdamos sprendimą taikyti [[#^s-6f3fdbf7d3e3525a01ee5414|šio straipsnio 2 dalyje]] nurodytas priemones. ^s-5968857087bd461bd9c06d08
 
 
-4. Šio straipsnio 1, 2 ir [[#^s-5968857087bd461bd9c06d08|3 dalyse]] nurodyta informacija teikiama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. ^s-6604ec618ad02c45cfebd5c8
+4. Šio straipsnio [[#^s-304ecb5dbe1d65329417f7d3|1]], [[#^s-6f3fdbf7d3e3525a01ee5414|2]] ir [[#^s-5968857087bd461bd9c06d08|3]] dalyse nurodyta informacija teikiama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. ^s-6604ec618ad02c45cfebd5c8
 
 
 
@@ -601,10 +601,10 @@ Administracinėn atsakomybėn už šio įstatymo pažeidimus asmenys traukiami �
 ### 29 straipsnis. Baudų išieškojimas ^s-347aa23fabfa758cf8306863
 
 
-1. Paskirtos baudos, numatytos šio įstatymo [[#^s-b28418b9ef6ff73e61fc0af8|23 straipsnyje]], į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo tos dienos, kurią šio įstatymo pažeidėjas gavo nutarimą dėl baudos paskyrimo. ^s-04e31980bb863ca493937136
+1. Paskirtos baudos, numatytos šio įstatymo [[#^s-b28418b9ef6ff73e61fc0af8|23 straipsnyje]], į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo tos dienos, kurią šio įstatymo pažeidėjas gavo nutarimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) paskyrimo. ^s-04e31980bb863ca493937136
 
 
-2. Nesumokėtos baudos išieškomos Civilinio proceso kodekso nustatyta tvarka.“ ^s-95347cf89b3a365a88d890b4
+2. Nesumokėtos baudos išieškomos [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.“ ^s-95347cf89b3a365a88d890b4
 
 
 

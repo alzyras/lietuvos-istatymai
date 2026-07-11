@@ -114,19 +114,19 @@ Pakeisti 19 straipsnio 4 dalį ir ją išdėstyti taip:
 2) valstybėje narėje įsteigti emitentai, kurių vertybiniais popieriais leidžiama prekiauti reguliuojamoje rinkoje tik Lietuvos Respublikoje ir kurių buveinės valstybė narė yra ne Lietuvos Respublika.“ ^s-97b7b385fbf4c6273c603201
 
 
-2. Papildyti 27 straipsnį nauja [[#^s-13bdeb12aa7816ec5a611a96|2 dalimi]]: ^s-13bdeb12aa7816ec5a611a96
+2. Papildyti 27 straipsnį nauja 2 dalimi: ^s-13bdeb12aa7816ec5a611a96
 
 
 „2. Jeigu vertybiniai popieriai viešai siūlomi tik Lietuvos Respublikoje, reglamentuojama informacija turi būti viešai paskelbta lietuvių kalba.“
 
 
-3. Buvusias 27 straipsnio 2 ir [[#^s-c388d1ee6f14fd230c65693c|3 dalis]] laikyti atitinkamai 3 ir [[#^s-8d97ae21c662797ec41d56eb|4 dalimis]]. ^s-c388d1ee6f14fd230c65693c
+3. Buvusias 27 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis. ^s-c388d1ee6f14fd230c65693c
 
 
 4. Buvusią 27 straipsnio 4 dalį laikyti [[#^s-01e075b99458445bdb0f1abb|5 dalimi]], ją pakeisti ir išdėstyti taip: ^s-8d97ae21c662797ec41d56eb
 
 
-„5. Jeigu vertybiniais popieriais reguliuojamoje rinkoje leidžiama prekiauti be emitento sutikimo, šio straipsnio 1–[[#^s-8d97ae21c662797ec41d56eb|4 dalyse]] nustatytų reikalavimų privalo laikytis asmuo, kuris kreipėsi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo ir tais vertybiniais popieriais buvo leista prekiauti.“
+„5. Jeigu vertybiniais popieriais reguliuojamoje rinkoje leidžiama prekiauti be emitento sutikimo, šio straipsnio [[#^s-16e10a68ffcf6b489333aa5b|1]]–4 dalyse nustatytų reikalavimų privalo laikytis asmuo, kuris kreipėsi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo ir tais vertybiniais popieriais buvo leista prekiauti.“
 
 
 5. Buvusias 27 straipsnio 5 ir 6 dalis laikyti atitinkamai 6 ir 7 dalimis. ^s-01e075b99458445bdb0f1abb
@@ -171,7 +171,7 @@ Papildyti Įstatymą 471 straipsniu:
 1. Piniginės baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kai asmuo gavo priežiūros institucijos sprendimą skirti baudą. ^s-672c78704db57dba4cf1485f
 
 
-2. Savanoriškai neįvykdytas priežiūros institucijos sprendimas vykdomas Civilinio proceso kodekso nustatyta tvarka.“ ^s-2ea057f327eda6d28aa62961
+2. Savanoriškai neįvykdytas priežiūros institucijos sprendimas vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.“ ^s-2ea057f327eda6d28aa62961
 
 
 

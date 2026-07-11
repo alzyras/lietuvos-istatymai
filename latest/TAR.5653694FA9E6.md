@@ -81,7 +81,7 @@ Kandidatų į notarus (asesorių) priėmimo ir atleidimo tvarką, mokymosi sąly
 „Notaras turi per tris mėnesius nuo priesaikos priėmimo dienos atidaryti savo biurą arba sudaryti bendros veiklos sutartį su kitais notarais ir apsidrausti dėl galimo ieškinio, jei notariniais veiksmais fiziniams ar juridiniams asmenims būtų padaryta žala.“
 
 
-3. 16, 19, 22, 23 ir [[#^s-416ebb3fcbccda7656bd8207|24 straipsnius]] išdėstyti taip: ^s-e13e2e0f01418e47effeda8f
+3. 16, 19, 22, [[#^s-a5ee52644c499eeab29f7673|23]] ir [[#^s-416ebb3fcbccda7656bd8207|24]] straipsnius išdėstyti taip: ^s-e13e2e0f01418e47effeda8f
 
 
 „16 straipsnis. Notaro atsakomybė
@@ -171,7 +171,7 @@ Pasibaigus notaro įgaliojimams, Lietuvos Respublikos teisingumo ministerija pri
 „13) daro vykdomuosius įrašus pagal notaro patvirtintus skolos dokumentus;“;
 
 
-4) įrašyti 15 ir [[#^s-de18349cdf5e7bbdda8dff49|16 punktus]]: ^s-68704301a976ae00350d1d8b
+4) įrašyti 15 ir [[#^s-de18349cdf5e7bbdda8dff49|16]] punktus: ^s-68704301a976ae00350d1d8b
 
 
 „15) protestuoja vekselius ir čekius;
@@ -189,7 +189,7 @@ Pasibaigus notaro įgaliojimams, Lietuvos Respublikos teisingumo ministerija pri
 „12) daro vykdomuosius įrašus pagal konsulinių įstaigų patvirtintus skolos dokumentus;“;
 
 
-2) įrašyti 14 ir [[#^s-961761510d5e0628ba17e991|15 punktus]]: ^s-e89db69ca9dfc0825cf779ad
+2) įrašyti 14 ir [[#^s-961761510d5e0628ba17e991|15]] punktus: ^s-e89db69ca9dfc0825cf779ad
 
 
 „14) protestuoja vekselius ir čekius;

@@ -144,7 +144,7 @@ Pakeisti 28 straipsnio 3 dalį ir ją išdėstyti taip:
 1. Pakeisti 32 straipsnio 1 dalį ir ją išdėstyti taip: ^s-90a2718badc94aee6c99cc5b
 
 
-„1. Metams pasibaigus, asignavimų valdytojai ir jiems pavaldžios biudžetinės įstaigos, ministrų valdymo sričių įstaigoms, vykdančioms atitinkamo asignavimų valdytojo programas, pavaldžios biudžetinės įstaigos ir kiti subjektai disponuojamose sąskaitose esančias biudžeto lėšas, skirtas programoms finansuoti, išskyrus politinėms partijoms paskirstytus valstybės biudžeto asignavimus ir nepanaudotas įmokėtas šio Įstatymo 2 straipsnio 16 dalies 1 ir [[#^s-f9403396f615da143eb3c6a8|2 punktuose]] nurodytas lėšas, naudojamas atsižvelgiant į šio Įstatymo 14 straipsnio 2 ir 3 dalių nuostatas, grąžina ne vėliau kaip iki sausio 10 dienos:
+„1. Metams pasibaigus, asignavimų valdytojai ir jiems pavaldžios biudžetinės įstaigos, ministrų valdymo sričių įstaigoms, vykdančioms atitinkamo asignavimų valdytojo programas, pavaldžios biudžetinės įstaigos ir kiti subjektai disponuojamose sąskaitose esančias biudžeto lėšas, skirtas programoms finansuoti, išskyrus politinėms partijoms paskirstytus valstybės biudžeto asignavimus ir nepanaudotas įmokėtas šio Įstatymo 2 straipsnio 16 dalies 1 ir 2 punktuose nurodytas lėšas, naudojamas atsižvelgiant į šio Įstatymo 14 straipsnio 2 ir 3 dalių nuostatas, grąžina ne vėliau kaip iki sausio 10 dienos:
 
 
 1) valstybės biudžeto lėšas pervesdami į valstybės iždo sąskaitą; ^s-4409d0c3b1adcf5131c53757
@@ -214,7 +214,7 @@ Pateisinamomis priežastimis, kai neįvykdoma tam tikrų metų valdžios sektori
 1. Šio įstatymo [[#^s-b9c69cff5a6af1b3d1a37e78|4 straipsnio 1 dalis]] įsigalioja 2016 m. sausio 1 d. ^s-3ca07452fa2c8dfaddede4a4
 
 
-2. Šio įstatymo [[#^s-5c8e599e0bce69dd48575c1e|4 straipsnio]] 2 ir 4 dalys įsigalioja 2018 m. sausio 1 d. ^s-86109595cf7c3d907a858b5b
+2. Šio įstatymo [[#^s-5c8e599e0bce69dd48575c1e|4 straipsnio]] [[#^s-74a44fbd190ae569de0b6023|2]] ir [[#^s-16d8f36b27489d9abc24d51b|4]] dalys įsigalioja 2018 m. sausio 1 d. ^s-86109595cf7c3d907a858b5b
 
 
 3. Šio įstatymo [[#^s-f3e107620bd0cb334d43f583|5 straipsnis]] įsigalioja 2016 m. balandžio 1 d. ^s-859850ee6be94b5864d628c1

@@ -128,7 +128,7 @@ Pakeisti 21 straipsnio 3 dalį ir ją išdėstyti taip:
 2. Pakeisti 23 straipsnio 3 dalį ir ją išdėstyti taip: ^s-e59f1cacede21f5fab59b3f1
 
 
-„3. Jeigu privalomąjį nurodymą davė regiono aplinkos apsaugos departamento vadovas, privalomasis nurodymas per [[#^s-e59f1cacede21f5fab59b3f1|šio straipsnio 2 dalyje]] nustatytą terminą skundžiamas regiono aplinkos apsaugos departamento aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančiai institucijai.“
+„3. Jeigu privalomąjį nurodymą davė regiono aplinkos apsaugos departamento vadovas, privalomasis nurodymas per šio straipsnio 2 dalyje nustatytą terminą skundžiamas regiono aplinkos apsaugos departamento aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančiai institucijai.“
 
 
 3. Pakeisti 23 straipsnio 5 dalį ir ją išdėstyti taip: ^s-6d8187d48f4ea2aa5b07208b
@@ -242,7 +242,7 @@ Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip:
 Papildyti Įstatymo priedą 3 punktu:
 
 
-„3. 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiantis Europos cheminių medžiagų agentūrą, iš dalies keičiantis Direktyvą 1999/45/EB bei panaikinantis Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1).“
+„3. 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiantis Europos cheminių medžiagų agentūrą, iš dalies keičiantis Direktyvą 1999/45/EB bei panaikinantis Tarybos reglamentą (EEB) Nr. 793/93, Komisijos [reglamentą (EB) Nr. 1488/94](https://eur-lex.europa.eu/eli/reg/1488/94/oj), Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1).“
 
 
 

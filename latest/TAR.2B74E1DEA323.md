@@ -122,7 +122,7 @@ Pakeisti [[#^s-81b8470284be3d2151883dc3|5 straipsnį]] ir jį išdėstyti taip:
 5) vartotojo teises, riziką, su kuria jis gali susidurti, ir skundų nagrinėjimą. ^s-401f6476144f244860fb5568
 
 
-6. Reklama bet kuriomis aplinkybėmis laikoma klaidinančia, jeigu ji turi [[latest/TAR.55FFE350795A#^s-862fad541b2060d6505a3548|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 7 straipsnio]] 1–21 punktuose nustatytų klaidinančios komercinės veiklos požymių. ^s-3f9bcd8e9fa54cd44a107c45
+6. Reklama bet kuriomis aplinkybėmis laikoma klaidinančia, jeigu ji turi [[latest/TAR.55FFE350795A#^s-862fad541b2060d6505a3548|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 7 straipsnio]] [[latest/TAR.55FFE350795A#^s-bcdbfe69810a17d05acc3466|1]]–[[latest/TAR.55FFE350795A#^s-118272753837c058769812ca|21]] punktuose nustatytų klaidinančios komercinės veiklos požymių. ^s-3f9bcd8e9fa54cd44a107c45
 
 
 7. Kai sprendžiama, ar reklama yra klaidinanti, laikoma, kad vartotojai susidaro nuomonę apie reklamoje pateikiamų teiginių teisingumą, reklamos išsamumą ir reklamos pateikimo būdą ar formą ir priima tokius sprendimus, kurių galima tikėtis iš vidutinio vartotojo. ^s-c74cbbde335d715190068c41
@@ -260,10 +260,10 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 4. Už šio įstatymo [[#^s-f1a198dcdc867e56e221e70f|9 straipsnyje]] uždraustos reklamos naudojimą reklaminės veiklos subjektams skiriama bauda nuo vieno tūkstančio iki trisdešimties tūkstančių litų. ^s-12c1ac04dc1952db2c7795ab
 
 
-5. Už šio įstatymo 4, 7, 8, 11, 13, 14, 15, 16 straipsniuose nustatytų reklamos naudojimo reikalavimų nesilaikymą reklaminės veiklos subjektams gali būti skiriama bauda nuo vieno tūkstančio iki trisdešimties tūkstančių litų. Tais atvejais, kai pažeidimas yra mažareikšmis, pažeidimu nepadaroma esminės žalos šio įstatymo saugomiems asmenų interesams, Valstybinė vartotojų teisių apsaugos tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, už šių reklamos naudojimo reikalavimų nesilaikymą gali taikyti administracinę nuobaudą – įspėjimą, neskirdama reklaminės veiklos subjektams baudos. ^s-1edfab75b8f05292596fa61f
+5. Už šio įstatymo [[#^s-28e6bd922d79eaf00e462afb|4]], [[#^s-44de1a1a139728456a582e18|7]], [[#^s-5facd089321cd3596875f620|8]], [[#^s-fad32faaecfc31fdd89793f2|11]], [[#^s-9671b56c2725e97e955efa0e|13]], 14, 15, 16 straipsniuose nustatytų reklamos naudojimo reikalavimų nesilaikymą reklaminės veiklos subjektams gali būti skiriama bauda nuo vieno tūkstančio iki trisdešimties tūkstančių litų. Tais atvejais, kai pažeidimas yra mažareikšmis, pažeidimu nepadaroma esminės žalos šio įstatymo saugomiems asmenų interesams, Valstybinė vartotojų teisių apsaugos tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, už šių reklamos naudojimo reikalavimų nesilaikymą gali taikyti administracinę nuobaudą – įspėjimą, neskirdama reklaminės veiklos subjektams baudos. ^s-1edfab75b8f05292596fa61f
 
 
-6. Šio straipsnio 2, 3 ir [[#^s-12c1ac04dc1952db2c7795ab|4 dalyse]] nurodyti pažeidimai laikomi piktybiniais ir bauda už šiuos pažeidimus skiriama be įspėjimo. Bauda be įspėjimo skiriama ir tuo atveju, kai reklaminės veiklos subjektas po įpareigojimo nutraukti reklamos naudojimą jį atnaujina pažeisdamas įpareigojimą. ^s-2888599ca559ef0dd741d7a0
+6. Šio straipsnio [[#^s-c92fd4abdc83d0afe908264c|2]], [[#^s-f161b03dacbac2dde6946c2b|3]] ir [[#^s-12c1ac04dc1952db2c7795ab|4]] dalyse nurodyti pažeidimai laikomi piktybiniais ir bauda už šiuos pažeidimus skiriama be įspėjimo. Bauda be įspėjimo skiriama ir tuo atveju, kai reklaminės veiklos subjektas po įpareigojimo nutraukti reklamos naudojimą jį atnaujina pažeisdamas įpareigojimą. ^s-2888599ca559ef0dd741d7a0
 
 
 7. Skiriamos baudos dydis nustatomas pagal baudos minimumo ir maksimumo vidurkį ir priklauso nuo atsakomybę lengvinančių ir sunkinančių aplinkybių, pažeidimo pobūdžio, pažeidimo trukmės ir masto. ^s-cdc69031624e552b7c9d7e7b
@@ -284,7 +284,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 12. Už šio įstatymo pažeidimus skiriamos baudos dydis neturi viršyti 3 procentų reklaminės veiklos subjekto metinių pajamų praėjusiais finansiniais metais. ^s-09c5230172e6d45c688e96ba
 
 
-13. Bauda gali būti skiriama ne vėliau kaip per vienerius metus nuo reklamos skleidimo paskutinės dienos, o šio straipsnio 2 ir [[#^s-f161b03dacbac2dde6946c2b|3 dalyse]] nustatytais atvejais – nuo reklamos kontrolės institucijos ar valstybės įstaigos sprendimo priėmimo dienos.“ ^s-9e18ee24b1acc16cc3bb3b10
+13. Bauda gali būti skiriama ne vėliau kaip per vienerius metus nuo reklamos skleidimo paskutinės dienos, o šio straipsnio [[#^s-c92fd4abdc83d0afe908264c|2]] ir [[#^s-f161b03dacbac2dde6946c2b|3]] dalyse nustatytais atvejais – nuo reklamos kontrolės institucijos ar valstybės įstaigos sprendimo priėmimo dienos.“ ^s-9e18ee24b1acc16cc3bb3b10
 
 
 ### 9 straipsnis. 23 straipsnio pakeitimas ^s-f1a198dcdc867e56e221e70f
@@ -296,13 +296,13 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 „23 straipsnis. [[latest/TAR.303FC0152D04|Reklamos įstatymo]] pažeidimų nagrinėjimo tvarka
 
 
-1. Šio įstatymo 22 straipsnio 1 ir [[#^s-a68134977458f92ad26e78e2|2 dalyse]] nurodytus pažeidimus tiria ir nagrinėja Konkurencijos taryba. Pažeidimų tyrimo ir nagrinėjimo tvarką bei Konkurencijos tarybos nutarimų vykdymo ir apskundimo tvarką nustato [[latest/TAR.B8B6AFC2BFF1|Konkurencijos įstatymas]]. ^s-0fb7266403ff35c688ec110c
+1. Šio įstatymo 22 straipsnio 1 ir 2 dalyse nurodytus pažeidimus tiria ir nagrinėja Konkurencijos taryba. Pažeidimų tyrimo ir nagrinėjimo tvarką bei Konkurencijos tarybos nutarimų vykdymo ir apskundimo tvarką nustato [[latest/TAR.B8B6AFC2BFF1|Konkurencijos įstatymas]]. ^s-0fb7266403ff35c688ec110c
 
 
-2. Šio įstatymo 22 straipsnio 3, 4 ir [[#^s-d28c29e58beefe6f8f29a06f|5 dalyse]] nurodytus pažeidimus nagrinėja ir baudas ar įspėjimą už juos skiria Valstybinė vartotojų teisių apsaugos tarnyba šio straipsnio nustatyta tvarka. ^s-a68134977458f92ad26e78e2
+2. Šio įstatymo 22 straipsnio 3, 4 ir 5 dalyse nurodytus pažeidimus nagrinėja ir baudas ar įspėjimą už juos skiria Valstybinė vartotojų teisių apsaugos tarnyba šio straipsnio nustatyta tvarka. ^s-a68134977458f92ad26e78e2
 
 
-3. Valstybinės vartotojų teisių apsaugos tarnybos ir (ar) Vyriausybės įgaliotų institucijų įgalioti darbuotojai dėl šio įstatymo 22 straipsnio 3, 4 ir [[#^s-d28c29e58beefe6f8f29a06f|5 dalyse]] nurodytų pažeidimų atlieka tyrimą ir surašo Valstybinės vartotojų teisių apsaugos tarnybos nustatytos formos protokolą. Baigę tyrimą, ne vėliau kaip per 30 dienų bylą su išvadomis ir pasiūlymais perduoda nagrinėti Valstybinei vartotojų teisių apsaugos tarnybai. ^s-74e0f936bd8570542cf94979
+3. Valstybinės vartotojų teisių apsaugos tarnybos ir (ar) Vyriausybės įgaliotų institucijų įgalioti darbuotojai dėl šio įstatymo 22 straipsnio 3, 4 ir 5 dalyse nurodytų pažeidimų atlieka tyrimą ir surašo Valstybinės vartotojų teisių apsaugos tarnybos nustatytos formos protokolą. Baigę tyrimą, ne vėliau kaip per 30 dienų bylą su išvadomis ir pasiūlymais perduoda nagrinėti Valstybinei vartotojų teisių apsaugos tarnybai. ^s-74e0f936bd8570542cf94979
 
 
 4. Kai Valstybinė vartotojų teisių apsaugos tarnyba nagrinėja bylą dėl pažeidimo, nagrinėjime gali dalyvauti reklaminės veiklos subjektas, dėl kurio veiksmų nagrinėjama byla, jo atstovas, kurie turi teisę susipažinti su surinkta medžiaga, duoti paaiškinimų, pateikti prašymų. Reklaminės veiklos subjekto, dėl kurio veiksmų nagrinėjama byla, jo atstovo, jeigu jie buvo laiku informuoti apie pažeidimo bylos nagrinėjimo vietą ir laiką, neatvykimas bylos nagrinėti nekliudo. ^s-f13a98020df7dff03a0333a2
@@ -344,7 +344,7 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 Papildyti Įstatymo priedą 4 punktu:
 
 
-„4. 2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/29/EB dėl nesąžiningos įmonių komercinės veiklos vartotojų atžvilgiu vidaus rinkoje ir iš dalies keičianti Tarybos direktyvą 84/450/EEB, Europos Parlamento ir Tarybos direktyvas 97/7/EB, 98/27/EB bei 2002/65/EB ir Europos Parlamento ir Tarybos reglamentą (EB) Nr. 2006/2004 (Nesąžiningos komercinės veiklos direktyva) (OL 2005 L 149, p. 22).“
+„4. 2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/29/EB dėl nesąžiningos įmonių komercinės veiklos vartotojų atžvilgiu vidaus rinkoje ir iš dalies keičianti Tarybos direktyvą 84/450/EEB, Europos Parlamento ir Tarybos direktyvas 97/7/EB, 98/27/EB bei 2002/65/EB ir Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) (Nesąžiningos komercinės veiklos direktyva) (OL 2005 L 149, p. 22).“
 
 
 ### 13 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-9671b56c2725e97e955efa0e

@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-9647dfcbf8a52063063e9137
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. rugsėjo 9 d. dekretą Nr. 1K-1500, ratifikuoja Šiaurės Atlanto Sutarties protokolą dėl Kroatijos Respublikos prisijungimo, pasirašytą 2008 m. liepos 9 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. rugsėjo 9 d. dekretą Nr. 1K-1500](https://e-tar.lt/portal/lt/legalAct/TAR.EFB9C648EC78), ratifikuoja Šiaurės Atlanto Sutarties protokolą dėl Kroatijos Respublikos prisijungimo, pasirašytą 2008 m. liepos 9 d. Briuselyje.
 
 
 

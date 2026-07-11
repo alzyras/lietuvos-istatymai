@@ -156,10 +156,10 @@ Pakeisti 17 straipsnio 2 punktą ir jį išdėstyti taip:
 „6. Licencijos turėtojas privalo laikytis Lietuvos Respublikos įstatymų, kitų teisės aktų, reglamentų, standartų ir licencijuojamos veiklos sąlygų, patvirtintų Vyriausybės ar jos įgaliotos institucijos.“
 
 
-6. Buvusias 20 straipsnio 4, 5, 6 ir [[#^s-d18e1dd88983c5ce7969d030|7 dalis]] laikyti atitinkamai 7, 8, 9 ir 10 dalimis. ^s-553d5574a194e248a5543e2c
+6. Buvusias 20 straipsnio 4, 5, 6 ir 7 dalis laikyti atitinkamai 7, 8, 9 ir 10 dalimis. ^s-553d5574a194e248a5543e2c
 
 
-7. 20 straipsnio 7 dalyje išbraukti žodžius „Įmonių įstatymu“ ir šią dalį išdėstyti taip: ^s-d18e1dd88983c5ce7969d030
+7. 20 straipsnio 7 dalyje išbraukti žodžius [„Įmonių įstatymu“](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B) ir šią dalį išdėstyti taip: ^s-d18e1dd88983c5ce7969d030
 
 
 „7. Licencijas atlikti geodezinius, topografinius ir kartografinius darbus išduoda įgaliota institucija, vadovaudamasi šiuo įstatymu bei Vyriausybės patvirtintomis licencijavimo taisyklėmis.“
@@ -246,7 +246,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 ### 15 straipsnis. 37 straipsnio pakeitimas ir papildymas ^s-53deeedab78cc48e165935c0
 
 
-Pakeisti 37 straipsnio pavadinimą, [[#^s-2410bfc58d84bf4ec525b617|2 dalį]], papildyti straipsnį 3, 4, 5, 6, 7, 8, [[#^s-ea23174a6e813b048873bc75|9 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 37 straipsnio pavadinimą, [[#^s-2410bfc58d84bf4ec525b617|2 dalį]], papildyti straipsnį 3, 4, 5, 6, 7, 8, 9 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „37 straipsnis. Ginčų sprendimas ir žalos atlyginimas
@@ -316,7 +316,7 @@ Vyriausybė ir jos įgaliota institucija per 6 mėnesius nuo šio įstatymo įsi
 ### 19 straipsnis. Įstatymo įsigaliojimas ^s-014fa502fb29f87c73d5ee3a
 
 
-Šio įstatymo 2, 4, [[#^s-fbfa35d56211cc53b48f6ced|5 straipsniai]], [[#^s-da85ee0f309802784a5b668a|9 straipsnio]] 2 ir 3 dalys bei [[#^s-53deeedab78cc48e165935c0|15 straipsnyje]] išdėstyto įstatymo 37 straipsnio 3 dalis įsigalioja po 9 mėnesių nuo šio įstatymo įsigaliojimo.
+Šio įstatymo [[#^s-1805d46045f07933def67862|2]], [[#^s-eb7f1935f610de9d3e2e61b8|4]], [[#^s-fbfa35d56211cc53b48f6ced|5]] straipsniai, [[#^s-da85ee0f309802784a5b668a|9 straipsnio]] [[#^s-8556bec071749a2e26a1c673|2]] ir [[#^s-4fd7b378e5007f2063e6ac46|3]] dalys bei [[#^s-53deeedab78cc48e165935c0|15 straipsnyje]] išdėstyto įstatymo 37 straipsnio 3 dalis įsigalioja po 9 mėnesių nuo šio įstatymo įsigaliojimo.
 
 
 

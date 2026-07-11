@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-6b3c1fd1109f339a7aca7aee
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. lapkričio 14 d. dekretą Nr. 1551, ratifikuoja 1 papildomą protokolą prie Lietuvos Respublikos ir Vengrijos Respublikos laisvosios prekybos sutarties „Lietuvos Respublikos ir Vengrijos Respublikos laisvosios prekybos sutarties 2 protokolo dėl prekių kilmės taisyklių pakeitimai“, pasirašytą 2000 m. gruodžio 19 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. lapkričio 14 d. dekretą Nr. 1551](https://e-tar.lt/portal/lt/legalAct/TAR.D14B4613B61F), ratifikuoja 1 papildomą protokolą prie Lietuvos Respublikos ir Vengrijos Respublikos laisvosios prekybos sutarties „Lietuvos Respublikos ir Vengrijos Respublikos laisvosios prekybos sutarties 2 protokolo dėl prekių kilmės taisyklių pakeitimai“, pasirašytą 2000 m. gruodžio 19 d. Vilniuje.
 
 
 

@@ -9,9 +9,10 @@ pavadinimas: "Lietuvos Respublikos energetikos įstatymo 2, 19, 23 straipsnių p
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.44235B485568#^s-99231bebc537abb12214470d|Lietuvos Respublikos energetikos įstatymas]] - 2 citatos - Lietuvos Respublikos energetikos įstatymo 30 straipsnio
+- [[latest/TAR.44235B485568#^s-5c9fe63bc17c04b0e5a0a9a7|Lietuvos Respublikos energetikos įstatymas]] - 2
+- [[latest/TAR.44235B485568#^s-99231bebc537abb12214470d|Lietuvos Respublikos energetikos įstatymas]] - Lietuvos Respublikos energetikos įstatymo 30 straipsnio
+- [[latest/TAR.44235B485568#^s-9bbb5fbaed8d58d3dc9c7f56|Lietuvos Respublikos energetikos įstatymas]] - 3
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.44235B485568#^s-59158fb07ae1834c708c727a|Lietuvos Respublikos energetikos įstatymas]] - Įstatymas Nr. XII-382
-- [[latest/TAR.44235B485568#^s-f8a571e551fcdfd0ea232567|Lietuvos Respublikos energetikos įstatymas]] - Įstatymas Nr. XII-382
+_Nėra._

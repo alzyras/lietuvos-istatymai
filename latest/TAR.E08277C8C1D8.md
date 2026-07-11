@@ -37,13 +37,13 @@ Vilnius
 ### 1 straipsnis. Sutarčių denonsavimas ^s-53120c2159c0ed5183d6acfe
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. rugsėjo 17 d. dekretą Nr. 213, nuo 2004 m. gegužės 1 d. denonsuoja šias laisvosios prekybos sutartis kartu su visais vėlesniais jų pakeitimais ir papildymais:
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. rugsėjo 17 d. dekretą Nr. 213](https://e-tar.lt/portal/lt/legalAct/TAR.F312CC838C8C), nuo 2004 m. gegužės 1 d. denonsuoja šias laisvosios prekybos sutartis kartu su visais vėlesniais jų pakeitimais ir papildymais:
 
 
-1) Susitarimą tarp Lietuvos Respublikos Vyriausybės ir Ukrainos Vyriausybės dėl laisvos prekybos, pasirašytą 1993 m. rugpjūčio 4 d. Kijeve, ratifikuotą Lietuvos Respublikos Seimo 1994 m. gruodžio 15 d. nutarimu Nr. I-703 (Žin., 1994, Nr. 98-1935); ^s-42876879f1daabf9271b72dc
+1) Susitarimą tarp Lietuvos Respublikos Vyriausybės ir Ukrainos Vyriausybės dėl laisvos prekybos, pasirašytą 1993 m. rugpjūčio 4 d. Kijeve, ratifikuotą Lietuvos Respublikos Seimo [1994 m. gruodžio 15 d. nutarimu Nr. I-703](https://e-tar.lt/portal/lt/legalAct/TAR.21E4D2A0ACC4) (Žin., 1994, Nr. 98-1935); ^s-42876879f1daabf9271b72dc
 
 
-2) Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutartį, pasirašytą 1993 m. rugsėjo 13 d. Taline, ratifikuotą Lietuvos Respublikos Seimo 1994 m. sausio 20 d. nutarimu Nr. I-379 (Žin., 1994, Nr. 8-124); ^s-d7d844d8a198cde735da234d
+2) Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutartį, pasirašytą 1993 m. rugsėjo 13 d. Taline, ratifikuotą Lietuvos Respublikos Seimo [1994 m. sausio 20 d. nutarimu Nr. I-379](https://e-tar.lt/portal/lt/legalAct/TAR.06D6F4B0E408) (Žin., 1994, Nr. 8-124); ^s-d7d844d8a198cde735da234d
 
 
 3) Lietuvos Respublikos ir ELPA valstybių laisvosios prekybos sutartį, pasirašytą 1995 m. gruodžio 7 d. Cermate (Šveicarija), ratifikuotą Lietuvos Respublikos [[latest/TAR.7324FB41296F|1996 m. spalio 8 d. įstatymu Nr. I-1566]] (Žin., 1996, Nr. 100-2271); ^s-e15d3454969b94c91c9ba55a

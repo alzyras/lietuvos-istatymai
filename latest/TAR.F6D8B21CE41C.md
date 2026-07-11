@@ -116,19 +116,19 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 10. Asmenys, eksploatuojantys dujų perdavimo, skirstymo tinklus, dujų laikymo įrenginius ar SGD sistemas, privalo turėti [[latest/TAR.44235B485568|Energetikos įstatymo]] nustatyta tvarka išduotą atitinkamą atestatą eksploatuoti dujų įrenginius. ^s-945198dfa44e5cb9245b00f9
 
 
-11. Perdavimo licencija išduodama asmeniui, atitinkančiam šio straipsnio 7–[[#^s-945198dfa44e5cb9245b00f9|10 dalyse]] nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais valdančiam pagal teisės aktų reikalavimus įrengtą gamtinių dujų perdavimo sistemą. Gamtinių dujų perdavimo sistema turi būti sujungta su veikiančia gamtinių dujų perdavimo sistema arba su gamtinių dujų saugykla, arba su SGD sistema. ^s-741afd6b54a51cc7f441ec71
+11. Perdavimo licencija išduodama asmeniui, atitinkančiam šio straipsnio [[#^s-0012d293389d3a4f41df9216|7]]–[[#^s-945198dfa44e5cb9245b00f9|10]] dalyse nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais valdančiam pagal teisės aktų reikalavimus įrengtą gamtinių dujų perdavimo sistemą. Gamtinių dujų perdavimo sistema turi būti sujungta su veikiančia gamtinių dujų perdavimo sistema arba su gamtinių dujų saugykla, arba su SGD sistema. ^s-741afd6b54a51cc7f441ec71
 
 
-12. Skirstymo licencija išduodama asmeniui, atitinkančiam šio straipsnio 7–[[#^s-945198dfa44e5cb9245b00f9|10 dalyse]] nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais valdančiam pagal teisės aktų reikalavimus įrengtą gamtinių dujų skirstymo sistemą. Gamtinių dujų skirstymo sistema turi būti sujungta su veikiančia gamtinių dujų perdavimo arba su skirstymo sistema, leidžiančia užtikrinti gamtinių dujų pristatymą vartotojams. ^s-30b1d3e78d92bdd6d9f26b71
+12. Skirstymo licencija išduodama asmeniui, atitinkančiam šio straipsnio [[#^s-0012d293389d3a4f41df9216|7]]–[[#^s-945198dfa44e5cb9245b00f9|10]] dalyse nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais valdančiam pagal teisės aktų reikalavimus įrengtą gamtinių dujų skirstymo sistemą. Gamtinių dujų skirstymo sistema turi būti sujungta su veikiančia gamtinių dujų perdavimo arba su skirstymo sistema, leidžiančia užtikrinti gamtinių dujų pristatymą vartotojams. ^s-30b1d3e78d92bdd6d9f26b71
 
 
-13. Laikymo licencija išduodama asmeniui, atitinkančiam šio straipsnio 7–[[#^s-945198dfa44e5cb9245b00f9|10 dalyse]] nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais valdančiam pagal teisės aktų reikalavimus įrengtą gamtinių dujų saugyklą, kurios įrenginiai sujungti su veikiančia gamtinių dujų perdavimo sistema. ^s-4749e8a56fd348c2e7b0a2f1
+13. Laikymo licencija išduodama asmeniui, atitinkančiam šio straipsnio [[#^s-0012d293389d3a4f41df9216|7]]–[[#^s-945198dfa44e5cb9245b00f9|10]] dalyse nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais valdančiam pagal teisės aktų reikalavimus įrengtą gamtinių dujų saugyklą, kurios įrenginiai sujungti su veikiančia gamtinių dujų perdavimo sistema. ^s-4749e8a56fd348c2e7b0a2f1
 
 
-14. Skystinimo licencija išduodama asmeniui, atitinkančiam šio straipsnio 7–[[#^s-945198dfa44e5cb9245b00f9|10 dalyse]] nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais valdančiam pagal teisės aktų reikalavimus įrengtą SGD sistemą, kuri yra sujungta su veikiančia gamtinių dujų perdavimo sistema. ^s-93e67ccf18c3e30ac69ca2b4
+14. Skystinimo licencija išduodama asmeniui, atitinkančiam šio straipsnio [[#^s-0012d293389d3a4f41df9216|7]]–[[#^s-945198dfa44e5cb9245b00f9|10]] dalyse nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais valdančiam pagal teisės aktų reikalavimus įrengtą SGD sistemą, kuri yra sujungta su veikiančia gamtinių dujų perdavimo sistema. ^s-93e67ccf18c3e30ac69ca2b4
 
 
-15. Tiekimo licencija išduodama asmeniui, atitinkančiam šio straipsnio 7 ir [[#^s-423140741acdff39bac83cda|9 dalyse]] nustatytus reikalavimus. ^s-68044f7b76e318fbeac4dbd4
+15. Tiekimo licencija išduodama asmeniui, atitinkančiam šio straipsnio [[#^s-0012d293389d3a4f41df9216|7]] ir [[#^s-423140741acdff39bac83cda|9]] dalyse nustatytus reikalavimus. ^s-68044f7b76e318fbeac4dbd4
 
 
 16. Transportuoti dujas gamtinių dujų perdavimo sistemoje Komisijos sprendimu paskiriamas vienas perdavimo sistemos operatorius. Perdavimo sistemos operatorius yra atsakingas už perdavimo sistemos darbo stabilumą ir patikimumą, balansavimo funkcijos atlikimą, sistemos eksploatavimą, priežiūrą, valdymą ir plėtrą, atsižvelgiant į perdavimo sistemos naudotojų poreikius Lietuvos Respublikos teritorijoje. ^s-c2ddfa767ee0cf21c6899ca7
@@ -287,10 +287,10 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 2) licenciją turinti dujų įmonė daugiau kaip vieną kartą per metus pažeidžia veiklos, kuriai išduota licencija, sąlygas ir po įspėjimo per licenciją išduodančios institucijos nustatytą terminą nepašalina nurodytų pažeidimų; ^s-e1710d22b29763642a2275b1
 
 
-3) licenciją turinti dujų įmonė nebeatitinka šio straipsnio 7 ir [[#^s-423140741acdff39bac83cda|9 dalių]] reikalavimų; ^s-3542b4c60b9c06ee8aa95d25
+3) licenciją turinti dujų įmonė nebeatitinka šio straipsnio [[#^s-0012d293389d3a4f41df9216|7]] ir [[#^s-423140741acdff39bac83cda|9]] dalių reikalavimų; ^s-3542b4c60b9c06ee8aa95d25
 
 
-4) licenciją turintis fizinis asmuo miršta. Šiuo atveju licencija naujam asmeniui išduodama tik tuo atveju, kai mirusio licencijos turėtojo įpėdinis, atitinkantis šio straipsnio 7 ir [[#^s-423140741acdff39bac83cda|9 dalių]] reikalavimus, atsisako įsigyti licenciją arba jos neįsigijo per 6 mėnesius nuo licencijos turėtojo mirties. ^s-d1e242999933d0655953e0da
+4) licenciją turintis fizinis asmuo miršta. Šiuo atveju licencija naujam asmeniui išduodama tik tuo atveju, kai mirusio licencijos turėtojo įpėdinis, atitinkantis šio straipsnio [[#^s-0012d293389d3a4f41df9216|7]] ir [[#^s-423140741acdff39bac83cda|9]] dalių reikalavimus, atsisako įsigyti licenciją arba jos neįsigijo per 6 mėnesius nuo licencijos turėtojo mirties. ^s-d1e242999933d0655953e0da
 
 
 28. Jeigu dujų įmonė nustatyta tvarka pateikia dokumentus, įrodančius, kad pažeidimai pašalinti, licenciją išduodančios institucijos sprendimu ne vėliau kaip per 30 kalendorinių dienų nuo dokumentų gavimo licencijas išduodančioje institucijoje dienos licencijos galiojimo sustabdymas panaikinamas. ^s-6bce3655e63fc56794a09ebc

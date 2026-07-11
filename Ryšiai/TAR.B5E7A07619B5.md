@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos vidaus tarnybos statuto 28 straipsnio pakeit
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - Valstybės tarnybos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.4FC026AC03AE#^s-0bae1da0f38246a0257d7b31|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - 2 citatos - VIDAUS TARNYBOS STATUTO 28 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.4FC026AC03AE#^s-bf920f8155f15153f8114615|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - 2 citatos - VIDAUS TARNYBOS STATUTO 28 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.4FC026AC03AE#^s-0bae1da0f38246a0257d7b31|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - VIDAUS TARNYBOS STATUTO 28 STRAIPSNIO PAKEITIMO ĮSTATYMAS

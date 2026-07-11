@@ -90,7 +90,7 @@ Nekilnojamojo turto registras steigiamas nekilnojamajam turtui, nuosavybės ir k
 ### 5 straipsnis. 17 straipsnio pakeitimas ^s-a863adea4cb51cbb41e5b91b
 
 
-[[#^s-ed48465a17119a87a1ab85e6|17 straipsnio]] 3 ir [[#^s-b0f3afcc163060d3270b8bf4|4 dalis]] pripažinti netekusiomis galios, 5 ir 6 dalis laikyti atitinkamai 3 ir [[#^s-b0f3afcc163060d3270b8bf4|4 dalimis]] ir šį straipsnį išdėstyti taip:
+[[#^s-ed48465a17119a87a1ab85e6|17 straipsnio]] 3 ir 4 dalis pripažinti netekusiomis galios, 5 ir 6 dalis laikyti atitinkamai 3 ir 4 dalimis ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-ed48465a17119a87a1ab85e6|17 straipsnis]]. Prašymų įregistruoti nekilnojamąjį turtą ir teises į jį padavimas
@@ -283,7 +283,7 @@ Nekilnojamojo turto registro duomenų originalai kaupiami ir saugomi tik Nekilno
 „35 straipsnis. Atsisakymo įregistruoti nekilnojamąjį turtą ir teises į jį apskundimas
 
 
-Atsisakymas įregistruoti nekilnojamąjį turtą ir teises į jį per 10 darbo dienų nuo atsisakymo gavimo gali būti Civilinio proceso kodekso nustatyta tvarka apskųstas apylinkės teismui pagal turto buvimo vietą.“
+Atsisakymas įregistruoti nekilnojamąjį turtą ir teises į jį per 10 darbo dienų nuo atsisakymo gavimo gali būti [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka apskųstas apylinkės teismui pagal turto buvimo vietą.“
 
 
 ### 15 straipsnis. 37 straipsnio pakeitimas ^s-b606a9ba570c5d4065207ae4

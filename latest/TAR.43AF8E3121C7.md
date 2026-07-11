@@ -224,7 +224,7 @@ Už paraiškos įregistruoti puslaidininkinių gaminių topografiją padavimą �
 1. Šis įstatymas, išskyrus [[#^s-6816505cac4bb824bc5a272c|8 straipsnį]], įsigalioja 2013 m. birželio 1 d. ^s-792e73362c99bb5a9a64df9f
 
 
-2. Šio įstatymo 1, 3, 4, 5 ir [[#^s-0c903936237805d1f99e4189|6 straipsniuose]] nurodyti mokesčiai mokami už veiksmus, kurie atliekami įsigaliojus šiam įstatymui. ^s-c71f37171d4f22405935389f
+2. Šio įstatymo [[#^s-e61d7f5537698edf433ceabd|1]], [[#^s-f8c0394cdf3fc6e048a58520|3]], [[#^s-cc909b838a101eec1fb7ecae|4]], [[#^s-0af249651f99dc8f0c0b12b9|5]] ir [[#^s-0c903936237805d1f99e4189|6]] straipsniuose nurodyti mokesčiai mokami už veiksmus, kurie atliekami įsigaliojus šiam įstatymui. ^s-c71f37171d4f22405935389f
 
 
 

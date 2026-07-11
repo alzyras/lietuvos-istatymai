@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-918aa6d7dd8782419e6b4057
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. vasario 21 d. dekretą Nr. 536, ratifikuoja 2001 m. lapkričio 6 d. Paryžiuje priimtą Povandeninio kultūros paveldo apsaugos konvenciją.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. vasario 21 d. dekretą Nr. 536](https://e-tar.lt/portal/lt/legalAct/TAR.206A90090FB1), ratifikuoja 2001 m. lapkričio 6 d. Paryžiuje priimtą Povandeninio kultūros paveldo apsaugos konvenciją.
 
 
 

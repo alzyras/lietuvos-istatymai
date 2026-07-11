@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 12, 16, 18-1, 
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9E5C5C16B6E6#^s-0ccbd22213fc90c7177d284d|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - Įstatymas Nr. XI-1179
-- [[latest/TAR.9E5C5C16B6E6#^s-13f371e051ff8112a2b3c8e0|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - Įstatymas Nr. XI-1179
+_Nėra._

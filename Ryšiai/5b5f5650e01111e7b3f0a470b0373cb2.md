@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos įstatymas dėl Europos Sąjungos bei jos val
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.5BCEC9B41811|Lietuvos Respublikos tarptautinių sutarčių įstatymas]] - Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 10 punktu
 
 ## Šį įstatymą cituoja
 

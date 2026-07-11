@@ -492,7 +492,7 @@ Nr. XI-1218, 2010-12-09, Žin., 2010, Nr. 153-7787 (2010-12-28), i. k. [[latest/
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1221, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14527
-Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 2, 4, 6, 10 ir [[#^s-8324bf85924858b92546d18a|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 [[#^s-74dbe7b5fa8e74dd29c93283|2]], [[#^s-499b3bdfc3f13a0392d05490|4]], [[#^s-59da1424d6112d9418c6cff1|6]], [[#^s-f875130b65c1ce2be5bd4b07|10]] ir [[#^s-8324bf85924858b92546d18a|13]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -507,4 +507,4 @@ Lietuvos Respublikos Šventosios valstybinio jūrų uosto įstatymo Nr. X-910 pa
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1915, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08619
-Lietuvos Respublikos Šventosios jūrų uosto įstatymo Nr. X-910 4, 5, 7 ir [[#^s-f875130b65c1ce2be5bd4b07|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Šventosios jūrų uosto įstatymo Nr. X-910 [[#^s-499b3bdfc3f13a0392d05490|4]], [[#^s-46c640d1fd5f26fb52c0d0c2|5]], [[#^s-a71cbf89129c6f4bb402ff4b|7]] ir [[#^s-f875130b65c1ce2be5bd4b07|10]] straipsnių pakeitimo įstatymas

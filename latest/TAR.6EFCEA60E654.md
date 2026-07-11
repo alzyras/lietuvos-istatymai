@@ -152,7 +152,7 @@ priima šį įstatymą.
 7. Tais atvejais, kai fondui išmokėtos nepanaudotos kompensacijos lėšos investuojamos ne į [[#^s-c0d64c82356eea74ac0c9d26|šio straipsnio 6 dalyje]] numatytus investavimo objektus, į vieną investavimo objektą gali būti investuojama ne daugiau kaip 20 procentų fondui išmokėtų nepanaudotų kompensacijos lėšų. ^s-cdaf95c3a44d92d2baf89e9e
 
 
-8. Fondui išmokėtos nepanaudotos kompensacijos lėšos negali būti investuojamos į fondo dalininkų, valdymo ir kolegialių organų narių, fonde pagal darbo sutartį dirbančių asmenų, paramos teikėjų ar su jais susijusių asmenų, kaip jie suprantami pagal Lietuvos Respublikos labdaros ir paramos fondų įstatymo 22 straipsnio 6 dalį, turtą. ^s-012a51e0ece026a6ef8b8605
+8. Fondui išmokėtos nepanaudotos kompensacijos lėšos negali būti investuojamos į fondo dalininkų, valdymo ir kolegialių organų narių, fonde pagal darbo sutartį dirbančių asmenų, paramos teikėjų ar su jais susijusių asmenų, kaip jie suprantami pagal [[latest/TAR.D2D24C160EB1|Lietuvos Respublikos labdaros ir paramos fondų įstatymo 22 straipsnio 6 dalį]], turtą. ^s-012a51e0ece026a6ef8b8605
 
 
 9. Palūkanos už kompensacijos lėšas gali būti naudojamos reinvestavimui kitų fondo veiklą reglamentuojančių teisės aktų nustatyta tvarka [[#^s-6d7529757d576bd4131ee572|šio straipsnio 1 dalies]] 1, 3, 4 punktuose nustatytiems tikslams. ^s-f7e1adbe440147be83fcb647
@@ -174,7 +174,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-905, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07400
-Lietuvos Respublikos geros valios kompensacijos už žydų religinių bendruomenių nekilnojamąjį turtą įstatymo Nr. XI-1470 2 ir [[#^s-9ba20381e96dcb589bae65e0|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos geros valios kompensacijos už žydų religinių bendruomenių nekilnojamąjį turtą įstatymo Nr. XI-1470 [[#^s-3afb8bce54495cfe66896a86|2]] ir [[#^s-9ba20381e96dcb589bae65e0|3]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas

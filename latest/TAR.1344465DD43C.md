@@ -44,7 +44,7 @@ Vilnius
 ### 1 straipsnis. Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymo pripažinimas netekusiu galios ^s-89a207d51b242fbbbf50c3f9
 
 
-Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio pakeitimo įstatymą pripažinti netekusiu galios.
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) priedėlio IV skirsnio pakeitimo įstatymą pripažinti netekusiu galios.
 
 
 

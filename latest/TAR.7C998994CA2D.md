@@ -81,7 +81,7 @@ LIETUVOS RESPUBLIKOS LIETUVOS ŽEMĖS ŪKIO BANKO PRIVATIZAVIMO
 ### 3 straipsnis. Baigiamosios nuostatos ^s-c1ea7d3d3cc57392c570720e
 
 
-Privatizuojant Lietuvos žemės ūkio banką šio įstatymo [[#^s-ee9115be34838a9bd533ec47|2 straipsnio 1 dalies]] 1 ir 2 punktuose nurodytais būdais, netaikomas Valstybės ir savivaldybių turto privatizavimo įstatymas.“
+Privatizuojant Lietuvos žemės ūkio banką šio įstatymo [[#^s-ee9115be34838a9bd533ec47|2 straipsnio 1 dalies]] [[#^s-a3bf0402b420df5499d26859|1]] ir [[#^s-04cf08672cae6db93536d756|2]] punktuose nurodytais būdais, netaikomas Valstybės ir savivaldybių turto privatizavimo įstatymas.“
 
 
 

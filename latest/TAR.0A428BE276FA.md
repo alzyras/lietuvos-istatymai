@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-3698d0442955adf04274385f
 
 
-Lietuvos Respublikos paso įstatymo įgyvendinimo įstatymą pripažinti netekusiu galios.
+[Lietuvos Respublikos paso įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.DFF9865C9935) įgyvendinimo įstatymą pripažinti netekusiu galios.
 
 
 

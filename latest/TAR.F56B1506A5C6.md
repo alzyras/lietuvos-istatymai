@@ -1295,19 +1295,19 @@ Pripažinti netekusiais galios:
 2) Lietuvos Respublikos ordinų, medalių ir kitų pasižymėjimo ženklų įstatymą (Žin., 1991, Nr. 29-787); ^s-0d74a74109d32293e8acc79f
 
 
-3) Lietuvos Respublikos įstatymą „Dėl Sausio 13-osios atminimo medalio įsteigimo ir Lietuvos Respublikos ordinų, medalių ir kitų pasižymėjimo ženklų įstatymo pakeitimo ir papildymo“ (Žin., 1991, Nr. 36-986); ^s-b462dd06c6eb718d8acbcef4
+3) Lietuvos Respublikos įstatymą [„Dėl Sausio 13-osios atminimo medalio įsteigimo ir Lietuvos Respublikos ordinų, medalių ir kitų pasižymėjimo ženklų įstatymo pakeitimo ir papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.7624020DB916) (Žin., 1991, Nr. 36-986); ^s-b462dd06c6eb718d8acbcef4
 
 
-4) Lietuvos Respublikos įstatymą „Dėl Dariaus ir Girėno medalio įsteigimo bei Lietuvos Respublikos ordinų, medalių ir kitų pasižymėjimo ženklų įstatymo pakeitimo ir papildymo“ (Žin., 1993, Nr. 28-638); ^s-6614c0ad60e13c7ba134af94
+4) Lietuvos Respublikos įstatymą [„Dėl Dariaus ir Girėno medalio įsteigimo bei Lietuvos Respublikos ordinų, medalių ir kitų pasižymėjimo ženklų įstatymo pakeitimo ir papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.F0675A1F1BF6) (Žin., 1993, Nr. 28-638); ^s-6614c0ad60e13c7ba134af94
 
 
-5) Lietuvos Respublikos ordinų, medalių ir kitų pasižymėjimo ženklų įstatymo 133 straipsnio papildymo įstatymą (Žin., 1997, Nr. 67-1675); ^s-dda83bc77da99098efabc889
+5) [Lietuvos Respublikos ordinų, medalių ir kitų pasižymėjimo ženklų įstatymo 133 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.8E4050F57F92) papildymo įstatymą (Žin., 1997, Nr. 67-1675); ^s-dda83bc77da99098efabc889
 
 
-6) Lietuvos Respublikos ordinų, medalių ir kitų pasižymėjimo ženklų įstatymo 91 straipsnio papildymo įstatymą (Žin., 1998, Nr. 99-2739); ^s-74c0656e7ac4635cbc3e992a
+6) [Lietuvos Respublikos ordinų, medalių ir kitų pasižymėjimo ženklų įstatymo 91 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.8E4050F57F92) papildymo įstatymą (Žin., 1998, Nr. 99-2739); ^s-74c0656e7ac4635cbc3e992a
 
 
-7) Lietuvos Respublikos ordinų, medalių ir kitų pasižymėjimo ženklų įstatymo 95, 96 ir 97 straipsnių pakeitimo įstatymą (Žin., 2000, Nr. 15-383). ^s-a65960e0070a8a892a15e11d
+7) [Lietuvos Respublikos ordinų, medalių ir kitų pasižymėjimo ženklų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.8E4050F57F92) [95](https://e-tar.lt/portal/lt/legalAct/TAR.8E4050F57F92), [96](https://e-tar.lt/portal/lt/legalAct/TAR.8E4050F57F92) ir [97](https://e-tar.lt/portal/lt/legalAct/TAR.8E4050F57F92) straipsnių pakeitimo įstatymą (Žin., 2000, Nr. 15-383). ^s-a65960e0070a8a892a15e11d
 
 
 

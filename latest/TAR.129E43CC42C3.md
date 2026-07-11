@@ -62,7 +62,7 @@ Aplinkos apsaugos valstybinės kontrolės priežiūrą atlieka Aplinkos minister
 ### 3 straipsnis. 8 straipsnio pakeitimas ^s-24d9f859b77294573d1e10d3
 
 
-[[#^s-4e66a5f38a490442f8fae060|8 straipsnyje]] vietoj žodžių „Aplinkos ministerija“ įrašyti žodžius „Aplinkos apsaugos valstybinės kontrolės priežiūrą atliekanti institucija“, [[#^s-e9d7d7c02422b83f79ca446c|3 punktą]] pripažinti netekusiu galios, [[#^s-7e5b46308e12fc16f3b93bf7|4 punktą]] laikyti [[#^s-e9d7d7c02422b83f79ca446c|3 punktu]] ir jame išbraukti žodžius „pagal Aplinkos ministerijos nustatytą kompetenciją“, 5 ir 6 punktus laikyti 4, [[#^s-2129978c2af77cf59d2a6f11|5 punktais]] ir šį straipsnį išdėstyti taip:
+[[#^s-4e66a5f38a490442f8fae060|8 straipsnyje]] vietoj žodžių „Aplinkos ministerija“ įrašyti žodžius „Aplinkos apsaugos valstybinės kontrolės priežiūrą atliekanti institucija“, [[#^s-e9d7d7c02422b83f79ca446c|3 punktą]] pripažinti netekusiu galios, [[#^s-7e5b46308e12fc16f3b93bf7|4 punktą]] laikyti [[#^s-e9d7d7c02422b83f79ca446c|3 punktu]] ir jame išbraukti žodžius „pagal Aplinkos ministerijos nustatytą kompetenciją“, [[#^s-2129978c2af77cf59d2a6f11|5]] ir 6 punktus laikyti [[#^s-7e5b46308e12fc16f3b93bf7|4]], [[#^s-2129978c2af77cf59d2a6f11|5]] punktais ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-4e66a5f38a490442f8fae060|8 straipsnis]]. Aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančios institucijos pagrindinės funkcijos

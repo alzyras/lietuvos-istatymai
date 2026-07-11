@@ -44,7 +44,7 @@ Vilnius
 1. Pakeisti 12 straipsnio 5 dalies 4 punktą ir jį išdėstyti taip: ^s-ab2444ed9e1ef7288c5d2805
 
 
-„4) įgyvendina Reglamento (EB) Nr. 2006/2004 nuostatas, kiek tai susiję su šio Įstatymo 69 straipsnio reguliavimo dalyku;“.
+„4) įgyvendina [Reglamento (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) nuostatas, kiek tai susiję su šio Įstatymo 69 straipsnio reguliavimo dalyku;“.
 
 
 2. Papildyti 12 straipsnio 5 dalį 5 punktu: ^s-84b8ba69a0be9ac911d9d90a
@@ -70,7 +70,7 @@ Pakeisti 62 straipsnio 7 dalį ir ją išdėstyti taip:
 1. Papildyti Įstatymo 2 priedą 13 punktu: ^s-1b1112779bdcfe003246c2bd
 
 
-„13. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p. 1).“
+„13. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 L 364, p. 1).“
 
 
 2. Buvusius Įstatymo 2 priedo 13 ir 14 punktus laikyti atitinkamai 14 ir 15 punktais. ^s-fca2aa786dd761878889ae1a

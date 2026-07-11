@@ -94,7 +94,7 @@ Pakeisti [[#^s-5e353ae009f662fdd87ea08b|2 straipsnį]] ir jį išdėstyti taip:
 ### 2 straipsnis. 5 straipsnio 2 ir 3 dalių pripažinimas netekusiomis galios ^s-5e353ae009f662fdd87ea08b
 
 
-[[#^s-4ff624195a9fb695ad5b9559|5 straipsnio]] 2 ir 3 dalis pripažinti netekusiomis galios.
+[[#^s-4ff624195a9fb695ad5b9559|5 straipsnio]] [[#^s-0494de243eb338f9b178d872|2]] ir [[#^s-e33c2757c88ced202173189c|3]] dalis pripažinti netekusiomis galios.
 
 
 

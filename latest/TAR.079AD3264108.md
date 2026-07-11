@@ -218,7 +218,7 @@ SAVIVALDYBIŲ NUOSAVYBĖN PRISKIRTO TURTO PERDAVIMO TVARKA IR SĄLYGOS
 3) [[#^s-8e6b36db4eca6168e6b6fd44|3 straipsnio 2 dalyje]] išvardytas turtas – pagal perdavimo-priėmimo aktus, kuriuose nurodoma savivaldybės biudžetinės ar viešosios įstaigos pavadinimas, adresas, turto balansinė vertė bei paskutinio ataskaitinio laikotarpio balanso duomenys; ^s-b9160270bea87a8ca03a0d00
 
 
-4) [[#^s-eb2547b561166980662ecf05|3 straipsnio 3 dalies]] 1, 2, 3 ir 4 punktuose išvardytas turtas – pagal perdavimo-priėmimo aktus, kuriuose nurodomas objekto pavadinimas, adresas (vieta), nekilnojamojo turto techninės inventorizacijos data, balansinė ir likutinė vertė; ^s-786a4e02efbf83a067c2b385
+4) [[#^s-eb2547b561166980662ecf05|3 straipsnio 3 dalies]] [[#^s-e26e181addf03083c3104ed8|1]], [[#^s-c133a81e8294a8cbfd96ed18|2]], [[#^s-2854f937795d4606097872f7|3]] ir [[#^s-ac17bdc10246c9f2a199a3eb|4]] punktuose išvardytas turtas – pagal perdavimo-priėmimo aktus, kuriuose nurodomas objekto pavadinimas, adresas (vieta), nekilnojamojo turto techninės inventorizacijos data, balansinė ir likutinė vertė; ^s-786a4e02efbf83a067c2b385
 
 
 5) [[#^s-52e3752921dd2353cb27f556|3 straipsnio 3 dalies 5 punkte]] nurodytas turtas – pagal perdavimo–priėmimo aktus, kurių sudedamoji dalis yra atliktų darbų aktai; ^s-a87a9074fd7392cb8d33f756
@@ -236,7 +236,7 @@ SAVIVALDYBIŲ NUOSAVYBĖN PRISKIRTO TURTO PERDAVIMO TVARKA IR SĄLYGOS
 5. Šio įstatymo [[#^s-e26e181addf03083c3104ed8|3 straipsnio 3 dalies 1 punkte]] nurodytas turtas perduodamas prieš tai atlikus jo techninę inventorizaciją. ^s-1333b94b7cb980ee2c4e7f80
 
 
-6. Šio įstatymo [[#^s-eb2547b561166980662ecf05|3 straipsnio 3 dalies]] 2, 3 ir 4 punktuose nurodyti objektai perduodami, neatsižvelgiant į tai, kada atlikta jų techninė inventorizacija. Techninės inventorizacijos duomenys tikslinami po turto perdavimo. Jeigu techninė inventorizacija iš viso nebuvo atlikta, turtas inventorizuojamas prieš jo perdavimą savivaldybių nuosavybėn. ^s-5cfc3a1e6e98d23f96cd5f4b
+6. Šio įstatymo [[#^s-eb2547b561166980662ecf05|3 straipsnio 3 dalies]] [[#^s-c133a81e8294a8cbfd96ed18|2]], [[#^s-2854f937795d4606097872f7|3]] ir [[#^s-ac17bdc10246c9f2a199a3eb|4]] punktuose nurodyti objektai perduodami, neatsižvelgiant į tai, kada atlikta jų techninė inventorizacija. Techninės inventorizacijos duomenys tikslinami po turto perdavimo. Jeigu techninė inventorizacija iš viso nebuvo atlikta, turtas inventorizuojamas prieš jo perdavimą savivaldybių nuosavybėn. ^s-5cfc3a1e6e98d23f96cd5f4b
 
 
 7. Turto perdavimo-priėmimo aktas yra teisinis pagrindas įstatymų nustatyta tvarka registruoti perduotą turtą turto registre. Nuosavybės teisės į perduodamą turtą, kuriam nereikalinga teisinė registracija, atsiranda nuo turto perdavimo momento. ^s-58ddcbd6323dd4e8b30a51ff
@@ -249,7 +249,7 @@ SAVIVALDYBIŲ NUOSAVYBĖN PRISKIRTO TURTO PERDAVIMO TVARKA IR SĄLYGOS
 1. Valstybės turtas savivaldybių nuosavybėn perduodamas neatlygintinai ir neatsižvelgiant į tai, kurios savivaldybės administruojamoje teritorijoje jis yra. ^s-1d5a7b94dd5d4d8a958e792e
 
 
-2. Turtas, kuris buvo priskirtas savivaldybių nuosavybėn įstatymu „Dėl dalies valstybės turto priskyrimo ir perdavimo savivaldybių nuosavybėn“, bet nebuvo perduotas, o pagal šį įstatymą nepriskiriamas savivaldybių nuosavybėn, savivaldybių nuosavybėn neperduodamas. Turtas, kuris įstatymu „Dėl dalies valstybės turto priskyrimo ir perdavimo savivaldybių nuosavybėn“ buvo priskirtas savivaldybių nuosavybėn, bet nebuvo perduotas ir pagal šį įstatymą yra priskirtas savivaldybių nuosavybėn, savivaldybių nuosavybėn perduodamas šio įstatymo nustatyta tvarka. ^s-9610b191ec520e1f9c0d1421
+2. Turtas, kuris buvo priskirtas savivaldybių nuosavybėn įstatymu [„Dėl dalies valstybės turto priskyrimo ir perdavimo savivaldybių nuosavybėn“](https://e-tar.lt/portal/lt/legalAct/TAR.0E186523A727), bet nebuvo perduotas, o pagal šį įstatymą nepriskiriamas savivaldybių nuosavybėn, savivaldybių nuosavybėn neperduodamas. Turtas, kuris įstatymu [„Dėl dalies valstybės turto priskyrimo ir perdavimo savivaldybių nuosavybėn“](https://e-tar.lt/portal/lt/legalAct/TAR.0E186523A727) buvo priskirtas savivaldybių nuosavybėn, bet nebuvo perduotas ir pagal šį įstatymą yra priskirtas savivaldybių nuosavybėn, savivaldybių nuosavybėn perduodamas šio įstatymo nustatyta tvarka. ^s-9610b191ec520e1f9c0d1421
 
 
 
@@ -281,7 +281,7 @@ Vyriausybės įgaliotų asmenų ir savivaldybių ginčus dėl dalies valstybės 
 2. Įsigaliojus šiam įstatymui, netenka galios: ^s-2c4fa64a1532f43b7daf20c9
 
 
-1) Lietuvos Respublikos įstatymas „Dėl dalies valstybės turto priskyrimo ir perdavimo savivaldybių nuosavybėn“ (Žin., 1995, Nr. 1-1, Nr. 59-1484; 1996, Nr. 64-1507); ^s-2a10855594d4f093168b3ea9
+1) Lietuvos Respublikos įstatymas [„Dėl dalies valstybės turto priskyrimo ir perdavimo savivaldybių nuosavybėn“](https://e-tar.lt/portal/lt/legalAct/TAR.0E186523A727) (Žin., 1995, Nr. 1-1, Nr. 59-1484; 1996, Nr. 64-1507); ^s-2a10855594d4f093168b3ea9
 
 
 2) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos įstatymo „Dėl dalies valstybės turto priskyrimo ir perdavimo savivaldybių nuosavybėn“ įgyvendinimo“ (Žin., 1995, Nr. 1-2, Nr. 59-1485; 1996, Nr. 64-1506). ^s-60bdee5008ccc464482881db

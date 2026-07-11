@@ -14,5 +14,4 @@ pavadinimas: "Lietuvos Respublikos teritorijų planavimo įstatymo 22 straipsnio
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.26B563184529#^s-1e52dd62843d501ee579c108|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Įstatymas Nr. X-1796
-- [[latest/TAR.26B563184529#^s-b562255577ae0aebf0e3fef3|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Įstatymas Nr. X-1796
+_Nėra._

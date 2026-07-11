@@ -444,10 +444,10 @@ Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
 
 
 
-21. Kai asmenų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas dėl ypač pavojingos užkrečiamosios ligos, dėl kurios visoje Lietuvos Respublikos teritorijoje paskelbtas karantinas, ir Vyriausybė priima motyvuotą sprendimą, kad kitų taikomų užkrečiamųjų ligų profilaktikos ir kontrolės priemonių neužtenka siekiant užkirsti kelią kilti šios užkrečiamosios ligos protrūkiui ir (arba) epidemijai, arba jau yra kilęs šios užkrečiamosios ligos protrūkis ir (arba) epidemija (toliau – protrūkis ir (arba) epidemija arba jų grėsmė), motyvuotą sprendimą dėl būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo ir jo trukmės priima gydantis gydytojas. Sprendimą taikyti būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą priėmęs gydantis gydytojas apie šį sprendimą privalo informuoti asmenį, dėl kurio priimtas sprendimas, o jei šis asmuo yra neveiksnus tam tikroje srityje arba nepilnametis, – vieną iš jo atstovų pagal įstatymą. Asmuo, kuriam taikomas būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas, turi būti pasirašytinai supažindintas su dėl jo priimtu sprendimu dėl būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo. Jei asmuo atsisako arba nesugeba pasirašyti, jo informavimą dėl būtinojo hospitalizavimo, būtinojo izoliavimo turi patvirtinti gydantis gydytojas ir bent vienas liudytojas. Apie sprendimą taikyti būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą turi būti įrašoma į paciento medicinos dokumentus. Šioje dalyje nurodytu atveju asmenų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas iki ankstesnės iš šių datų – tol, kol asmuo tampa nebepavojingas kitiems asmenims, bet be teismo sprendimo ne ilgiau kaip vieną mėnesį, įskaitant būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo dieną, arba tol, kol asmuo arba jo atstovas pagal įstatymą duoda sutikimą dėl hospitalizavimo ir (ar) izoliavimo. Jei asmuo arba jo atstovas pagal įstatymą duoda sutikimą dėl izoliavimo ar hospitalizavimo, tolesnis jo izoliavimas ar hospitalizavimas vykdomas šio Įstatymo [[#^s-7f90d17ee415847c48a5bf7d|8 straipsnio]] 3 ir 9 dalyse nustatyta tvarka. ^s-2777f4c1cb139dc6de51b572
+21. Kai asmenų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas dėl ypač pavojingos užkrečiamosios ligos, dėl kurios visoje Lietuvos Respublikos teritorijoje paskelbtas karantinas, ir Vyriausybė priima motyvuotą sprendimą, kad kitų taikomų užkrečiamųjų ligų profilaktikos ir kontrolės priemonių neužtenka siekiant užkirsti kelią kilti šios užkrečiamosios ligos protrūkiui ir (arba) epidemijai, arba jau yra kilęs šios užkrečiamosios ligos protrūkis ir (arba) epidemija (toliau – protrūkis ir (arba) epidemija arba jų grėsmė), motyvuotą sprendimą dėl būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo ir jo trukmės priima gydantis gydytojas. Sprendimą taikyti būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą priėmęs gydantis gydytojas apie šį sprendimą privalo informuoti asmenį, dėl kurio priimtas sprendimas, o jei šis asmuo yra neveiksnus tam tikroje srityje arba nepilnametis, – vieną iš jo atstovų pagal įstatymą. Asmuo, kuriam taikomas būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas, turi būti pasirašytinai supažindintas su dėl jo priimtu sprendimu dėl būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo. Jei asmuo atsisako arba nesugeba pasirašyti, jo informavimą dėl būtinojo hospitalizavimo, būtinojo izoliavimo turi patvirtinti gydantis gydytojas ir bent vienas liudytojas. Apie sprendimą taikyti būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą turi būti įrašoma į paciento medicinos dokumentus. Šioje dalyje nurodytu atveju asmenų būtinasis hospitalizavimas ir (ar) būtinasis izoliavimas taikomas iki ankstesnės iš šių datų – tol, kol asmuo tampa nebepavojingas kitiems asmenims, bet be teismo sprendimo ne ilgiau kaip vieną mėnesį, įskaitant būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo dieną, arba tol, kol asmuo arba jo atstovas pagal įstatymą duoda sutikimą dėl hospitalizavimo ir (ar) izoliavimo. Jei asmuo arba jo atstovas pagal įstatymą duoda sutikimą dėl izoliavimo ar hospitalizavimo, tolesnis jo izoliavimas ar hospitalizavimas vykdomas šio Įstatymo [[#^s-7f90d17ee415847c48a5bf7d|8 straipsnio]] [[#^s-cbe25b6c610ce7c81f1adbdf|3]] ir [[#^s-e683a2aca2d641b80e3b15ff|9]] dalyse nustatyta tvarka. ^s-2777f4c1cb139dc6de51b572
 
 
-3. Jeigu [[#^s-5a195193bda35719ec3ba7e1|šio straipsnio 2 dalyje]] nurodyta komisija, o [[#^s-2777f4c1cb139dc6de51b572|šio straipsnio 21 dalyje]] nurodytu atveju – gydantis gydytojas priima sprendimą, kad pacientas dėl sveikatos būklės tebėra pavojingas kitiems asmenims, maksimalius būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminus, nurodytus šio straipsnio 2 ir [[#^s-2777f4c1cb139dc6de51b572|21 dalyse]], gali pratęsti tik teismas savivaldybės sveikatinimo veiklos koordinatoriaus, o [[#^s-2777f4c1cb139dc6de51b572|šio straipsnio 21 dalyje]] nurodytu atveju – asmens sveikatos priežiūros įstaigos vadovo arba jo įgalioto asmens motyvuotu prašymu. Tokie prašymai išnagrinėjami Civilinio proceso kodekso 579–582 straipsniuose nustatyta tvarka per 3 dienas nuo prašymo gavimo dienos. Būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminą pratęsti galima ne ilgiau kaip 6 mėnesiams. Jeigu pacientas dėl sveikatos būklės išlieka pavojingas kitiems asmenims, būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą šioje dalyje nustatyta tvarka galima pratęsti pakartotinai iki 6 mėnesių, tačiau bendras asmens būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminas negali būti ilgesnis kaip 24 mėnesiai. Teismo sprendimas būtinai hospitalizuoti ir (ar) būtinai izoliuoti pacientą vykdomas skubiai. ^s-385a65d26711199a760508b9
+3. Jeigu [[#^s-5a195193bda35719ec3ba7e1|šio straipsnio 2 dalyje]] nurodyta komisija, o [[#^s-2777f4c1cb139dc6de51b572|šio straipsnio 21 dalyje]] nurodytu atveju – gydantis gydytojas priima sprendimą, kad pacientas dėl sveikatos būklės tebėra pavojingas kitiems asmenims, maksimalius būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminus, nurodytus šio straipsnio [[#^s-5a195193bda35719ec3ba7e1|2]] ir [[#^s-2777f4c1cb139dc6de51b572|21]] dalyse, gali pratęsti tik teismas savivaldybės sveikatinimo veiklos koordinatoriaus, o [[#^s-2777f4c1cb139dc6de51b572|šio straipsnio 21 dalyje]] nurodytu atveju – asmens sveikatos priežiūros įstaigos vadovo arba jo įgalioto asmens motyvuotu prašymu. Tokie prašymai išnagrinėjami [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) [579](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F)–[582](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) straipsniuose nustatyta tvarka per 3 dienas nuo prašymo gavimo dienos. Būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminą pratęsti galima ne ilgiau kaip 6 mėnesiams. Jeigu pacientas dėl sveikatos būklės išlieka pavojingas kitiems asmenims, būtinąjį hospitalizavimą ir (ar) būtinąjį izoliavimą šioje dalyje nustatyta tvarka galima pratęsti pakartotinai iki 6 mėnesių, tačiau bendras asmens būtinojo hospitalizavimo ir (ar) būtinojo izoliavimo terminas negali būti ilgesnis kaip 24 mėnesiai. Teismo sprendimas būtinai hospitalizuoti ir (ar) būtinai izoliuoti pacientą vykdomas skubiai. ^s-385a65d26711199a760508b9
 Straipsnio dalies pakeitimai:
 Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
 
@@ -539,7 +539,7 @@ Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
 4. Chemoprofilaktikos tvarką nustato Sveikatos apsaugos ministerija. ^s-e51b7e49f476d9202560bc6b
 
 
-5. Visuotinė chemoprofilaktika atliekama pagal šio Įstatymo [[#^s-b7fadbc315fe36a3e890e2bf|11 straipsnio]] 5 ir 6 dalies nuostatas. ^s-b7b5ddcbae6cfd55c871b194
+5. Visuotinė chemoprofilaktika atliekama pagal šio Įstatymo [[#^s-b7fadbc315fe36a3e890e2bf|11 straipsnio]] [[#^s-b1b48a7d7a31ccc2ad146d2f|5]] ir [[#^s-bfd8407bdf2cd12a6ae30564|6]] dalies nuostatas. ^s-b7b5ddcbae6cfd55c871b194
 
 
 
@@ -845,7 +845,7 @@ Nr. XIV-1654, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26613
 10. Riboto karantino skelbimo ir tokio skelbimo atšaukimo pagrindus ir tvarką nustato Sveikatos apsaugos ministerija. ^s-61e017d53312333b29b17ee3
 
 
-11. Riboto karantino režimo priemonių naudojimą [[#^s-7ee57a34e6eb4cc368c5c4b4|šio straipsnio 8 dalies 1 punkte]] išvardytiems objektams organizuoja Muitinės departamentas prie Finansų ministerijos. Riboto karantino režimo priemonių naudojimą [[#^s-950464e3a1a142e775f174af|šio straipsnio 8 dalies]] 2 ir 3 punktuose išvardytiems objektams organizuoja atitinkamos savivaldybės sveikatinimo veiklos koordinatorius ir Nacionalinis visuomenės sveikatos centras. ^s-b0fd3cca952eadbd750fba81
+11. Riboto karantino režimo priemonių naudojimą [[#^s-7ee57a34e6eb4cc368c5c4b4|šio straipsnio 8 dalies 1 punkte]] išvardytiems objektams organizuoja Muitinės departamentas prie Finansų ministerijos. Riboto karantino režimo priemonių naudojimą [[#^s-950464e3a1a142e775f174af|šio straipsnio 8 dalies]] [[#^s-021f5b417df3272152c6cd72|2]] ir 3 punktuose išvardytiems objektams organizuoja atitinkamos savivaldybės sveikatinimo veiklos koordinatorius ir Nacionalinis visuomenės sveikatos centras. ^s-b0fd3cca952eadbd750fba81
 Straipsnio dalies pakeitimai:
 Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
@@ -1112,7 +1112,7 @@ Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
 2) priimti sprendimą dėl privalomo profilaktinio aplinkos kenksmingumo pašalinimo ar privalomo aplinkos kenksmingumo pašalinimo (dezinfekcijos, dezinsekcijos, deratizacijos) užkrečiamųjų ligų židiniuose šio Įstatymo ir tarptautinės teisės aktų nustatytais pagrindais; ^s-c2a51315f1a304bf397bc0c9
 
 
-3) remdamiesi epidemiologinės diagnostikos ir (ar) laboratorinių tyrimų duomenimis, sustabdyti ar apriboti įmonių, įstaigų ar organizacijų veiklą, dėl kurios iškyla pavojus atsirasti ir išplisti pavojingoms ir ypač pavojingoms užkrečiamosioms ligoms, kaip tai nustatyta Įstatymo [[#^s-820c5836aac6f1b66c096036|21 straipsnio]] 8 ir 9 dalyse; ^s-a40c035b1c0ad0ce2c985fb1
+3) remdamiesi epidemiologinės diagnostikos ir (ar) laboratorinių tyrimų duomenimis, sustabdyti ar apriboti įmonių, įstaigų ar organizacijų veiklą, dėl kurios iškyla pavojus atsirasti ir išplisti pavojingoms ir ypač pavojingoms užkrečiamosioms ligoms, kaip tai nustatyta Įstatymo [[#^s-820c5836aac6f1b66c096036|21 straipsnio]] [[#^s-950464e3a1a142e775f174af|8]] ir [[#^s-aa146c732e0944064c496ab1|9]] dalyse; ^s-a40c035b1c0ad0ce2c985fb1
 
 
 4) Neteko galios nuo 2008-01-01 ^s-9f91f061142de70fa24867df
@@ -1179,7 +1179,7 @@ Nr. X-1149, 2007-05-24, Žin., 2007, Nr. 64-2454 (2007-06-09), i. k. [[latest/TA
 ### 31 straipsnis. Krašto apsaugos, vidaus reikalų ir teisingumo ministrų įgaliotų sveikatos priežiūros įstaigų pareigūnų, kurių pareiginiuose nuostatuose įrašytos visuomenės sveikatos priežiūros funkcijos, teisės užkrečiamųjų ligų profilaktikos ir kontrolės srityje ^s-97875ffdc514425342c0399c
 
 
-1. Krašto apsaugos, vidaus reikalų ir teisingumo ministrų įgalioti sveikatos priežiūros įstaigų pareigūnai, kurių pareiginiuose nuostatuose įrašytos visuomenės sveikatos priežiūros funkcijos, turi šio Įstatymo [[#^s-0c7a82462adecc74eb192b22|27 straipsnio 1 dalies]] 1, 2 3, 4, 5 ir 8 punktuose ir [[#^s-f474bffaa29d16d7a6647880|28 straipsnio 1 dalies]] 1 ir 2 punktuose nurodytas teises, kuriomis naudojasi tik šioms ministerijoms pavaldžiuose objektuose (įstaigose, kariniuose vienetuose ir pan.) bei šiuose objektuose dirbančių valstybės tarnautojų būstuose. ^s-df058ae0092532e8e48359ae
+1. Krašto apsaugos, vidaus reikalų ir teisingumo ministrų įgalioti sveikatos priežiūros įstaigų pareigūnai, kurių pareiginiuose nuostatuose įrašytos visuomenės sveikatos priežiūros funkcijos, turi šio Įstatymo [[#^s-0c7a82462adecc74eb192b22|27 straipsnio 1 dalies]] 1, 2 [[#^s-aec68948df54aa908d6d3165|3]], [[#^s-093c8f1538cd9ac5f0ab4d59|4]], [[#^s-d572de76cbbadc3f9ff74058|5]] ir [[#^s-efaea538811a4008e74b112b|8]] punktuose ir [[#^s-f474bffaa29d16d7a6647880|28 straipsnio 1 dalies]] [[#^s-cd0f178758f6f65abcee0800|1]] ir [[#^s-c2a51315f1a304bf397bc0c9|2]] punktuose nurodytas teises, kuriomis naudojasi tik šioms ministerijoms pavaldžiuose objektuose (įstaigose, kariniuose vienetuose ir pan.) bei šiuose objektuose dirbančių valstybės tarnautojų būstuose. ^s-df058ae0092532e8e48359ae
 
 
 2. [[#^s-df058ae0092532e8e48359ae|Šio straipsnio 1 dalyje]] nurodyti pareigūnai, remdamiesi [[latest/TAR.E2B2957B9182|Sveikatos sistemos įstatymu]], taip pat turi teisę reikalauti, kad Krašto apsaugos ministerijos ar Vidaus reikalų ministerijos valdymo srities įstaigos, Lietuvos kalėjimų tarnyba, kariniai vienetai ar kiti fiziniai ir juridiniai asmenys atlygintų išlaidas, atsiradusias dėl sveikatai neteisėta veika padarytos žalos, kurią lėmė užkrečiamoji liga. ^s-5d69c833700573431eddf7bf
@@ -1221,7 +1221,7 @@ Nr. XIII-2845, 2020-04-07, paskelbta TAR 2020-04-09, i. k. 2020-07510
 
 
 1. Lietuvos nacionalinei sveikatos sistemai priklausančių sveikatos priežiūros įstaigų darbuotojams nuo karantino visoje Lietuvos Respublikos teritorijoje, kelių savivaldybių ar vienos savivaldybės teritorijoje paskelbimo mėnesio pradžios iki karantino galiojimo mėnesio pabaigos, kai jie organizuoja ir (ar) teikia sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdo epidemijų profilaktikos priemones ypač pavojingų užkrečiamųjų ligų židiniuose, pareiginės algos (darbo užmokesčio) pastoviosios dalies koeficientai arba mėnesinė alga (priklausomai nuo įstaigoje taikomos darbuotojų darbo apmokėjimo sistemos) didinami nuo 60 iki 100 procentų, atsižvelgiant į konkretaus sveikatos priežiūros įstaigos darbuotojo atliekamų funkcijų pobūdį, sudėtingumą ir atsakomybės lygį, darbo krūvį ir veiklos mastą, Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. ^s-6b3afd58072cff210d617037
-TAR pastaba. Sveikatos priežiūros įstaigų darbuotojams darbo užmokestis perskaičiuojamas ir mokamas pagal [[#^s-6b3afd58072cff210d617037|321 straipsnio 1 dalies]] nuostatas karantino Lietuvos Respublikos teritorijoje laikotarpiu nuo Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo dienos.
+TAR pastaba. Sveikatos priežiūros įstaigų darbuotojams darbo užmokestis perskaičiuojamas ir mokamas pagal 321 straipsnio 1 dalies nuostatas karantino Lietuvos Respublikos teritorijoje laikotarpiu nuo Lietuvos Respublikos Vyriausybės [2020 m. kovo 14 d. nutarimo Nr. 207](https://e-tar.lt/portal/lt/legalAct/73c0b060663111eabee4a336e7e6fdab) „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo dienos.
 
 
 2. Lietuvos nacionalinei sveikatos sistemai priklausančių sveikatos priežiūros įstaigų  išlaidos, susijusios su šių įstaigų darbuotojų, organizuojančių ir (ar) teikiančių sveikatos priežiūros paslaugas ypač pavojingomis užkrečiamosiomis ligomis sergantiems pacientams ar vykdančių epidemijų profilaktikos priemones ypač pavojingų užkrečiamųjų ligų židiniuose, darbo užmokesčio padidinimu pagal [[#^s-6b3afd58072cff210d617037|šio straipsnio 1 dalį]], apmokamos valstybės biudžeto lėšomis sveikatos apsaugos ministro, suderinus su finansų ministru, nustatyta tvarka. ^s-a8d8b9918003bdc4b0f896c9
@@ -1480,12 +1480,12 @@ Nr. XII-466, 2013-07-02, Žin., 2013, Nr. 79-3987 (2013-07-23), i. k. [[latest/T
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1569, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05578
-Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 8, 9, 11 ir [[#^s-2ab8823e26b33d55c47a1723|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 [[#^s-7f90d17ee415847c48a5bf7d|8]], [[#^s-961b331098bd0813c3d3ef7d|9]], [[#^s-b7fadbc315fe36a3e890e2bf|11]] ir [[#^s-2ab8823e26b33d55c47a1723|12]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1716, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08060
-Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 2, 4, 5, 6, 9, 13, 14, 15, 16, 20, 21, 26, 27, 29 ir [[#^s-5ae03d0556f5d124f67fbd29|37 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 [[#^s-6afc888bad30ad3afa5fb019|2]], [[#^s-cdbe6a20c4f33f34d71b25ca|4]], [[#^s-d077cb8a9784c2654d219645|5]], [[#^s-a1c0010c160d1b8556b2d3f7|6]], [[#^s-961b331098bd0813c3d3ef7d|9]], [[#^s-8171fa9cf4a891179cd1bbdc|13]], [[#^s-36e3673f1db4ecb8a292682f|14]], [[#^s-60c16fc17276665370e4d7fa|15]], [[#^s-8db3a2f56d446f0aa41ce5b6|16]], [[#^s-5a24e70b5191c1bc7c529e99|20]], [[#^s-820c5836aac6f1b66c096036|21]], [[#^s-3dabd29df59cd7ad01577f32|26]], [[#^s-7b01967dfca1375ee538a435|27]], [[#^s-1ba0aaf101a216511dd53023|29]] ir [[#^s-5ae03d0556f5d124f67fbd29|37]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1495,12 +1495,12 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2623, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24196
-Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 2, 22, 25, 26 ir [[#^s-1ba0aaf101a216511dd53023|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 [[#^s-6afc888bad30ad3afa5fb019|2]], [[#^s-ebb48bea577013fa3fa49b4c|22]], [[#^s-e2b538775fb0aaddea40525c|25]], [[#^s-3dabd29df59cd7ad01577f32|26]] ir [[#^s-1ba0aaf101a216511dd53023|29]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2195, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09854
-Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 2 ir [[#^s-36e3673f1db4ecb8a292682f|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 [[#^s-6afc888bad30ad3afa5fb019|2]] ir [[#^s-36e3673f1db4ecb8a292682f|14]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1510,7 +1510,7 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2831, 2020-03-31, paskelbta TAR 2020-04-07, i. k. 2020-07194
-Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 2, 8, 9, 18, 21 ir [[#^s-cff45af2149195e97956a8a3|36 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 [[#^s-6afc888bad30ad3afa5fb019|2]], [[#^s-7f90d17ee415847c48a5bf7d|8]], [[#^s-961b331098bd0813c3d3ef7d|9]], [[#^s-72117a87037608bb9e14cfad|18]], [[#^s-820c5836aac6f1b66c096036|21]] ir [[#^s-cff45af2149195e97956a8a3|36]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1520,12 +1520,12 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-195, 2021-03-23, paskelbta TAR 2021-03-25, i. k. 2021-05878
-Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 18, 26 ir [[#^s-7d2cd38d6ad8e283702e1ce2|40 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 [[#^s-72117a87037608bb9e14cfad|18]], [[#^s-3dabd29df59cd7ad01577f32|26]] ir [[#^s-7d2cd38d6ad8e283702e1ce2|40]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-620, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23538
-Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 18 ir [[#^s-7d2cd38d6ad8e283702e1ce2|40 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 [[#^s-72117a87037608bb9e14cfad|18]] ir [[#^s-7d2cd38d6ad8e283702e1ce2|40]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1535,7 +1535,7 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1215, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15580
-Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 5, 9, 18 ir [[#^s-97875ffdc514425342c0399c|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 [[#^s-d077cb8a9784c2654d219645|5]], [[#^s-961b331098bd0813c3d3ef7d|9]], [[#^s-72117a87037608bb9e14cfad|18]] ir [[#^s-97875ffdc514425342c0399c|31]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1545,4 +1545,4 @@ Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1836, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05728
-Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 5, 8, 9, 14, 20, 21, 25, 26 ir [[#^s-1ba0aaf101a216511dd53023|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymo Nr. I-1553 [[#^s-d077cb8a9784c2654d219645|5]], [[#^s-7f90d17ee415847c48a5bf7d|8]], [[#^s-961b331098bd0813c3d3ef7d|9]], [[#^s-36e3673f1db4ecb8a292682f|14]], [[#^s-5a24e70b5191c1bc7c529e99|20]], [[#^s-820c5836aac6f1b66c096036|21]], [[#^s-e2b538775fb0aaddea40525c|25]], [[#^s-3dabd29df59cd7ad01577f32|26]] ir [[#^s-1ba0aaf101a216511dd53023|29]] straipsnių pakeitimo įstatymas

@@ -406,7 +406,7 @@ BENDRIJOS VALDYMAS
 10) tvirtina bendrojo naudojimo objektų aprašą; ^s-080c6bc940aec704a67da186
 
 
-11) priima sprendimus dėl lėšų bendrojo naudojimo objektams atnaujinti skolinimosi arba kitų kreditinių įsipareigojimų, išskyrus šio įstatymo [[#^s-08a5735318a87846d97c0110|12 straipsnyje]] numatytus atvejus; ^s-5d1210ecabaa2e80aada3a01
+11) priima sprendimus dėl lėšų bendrojo naudojimo objektams atnaujinti skolinimosi arba kitų kreditinių įsipareigojimų, išskyrus šio įstatymo 12 straipsnyje numatytus atvejus; ^s-5d1210ecabaa2e80aada3a01
 
 
 12) tvirtina kitas įmokas, susijusias su bendrijos administravimu, bendrojo naudojimo objektų naudojimu ir priežiūra, jeigu bendrijos įstatuose nenustatyta kitaip; ^s-d739cb1b55e4852008cda5c3
@@ -722,7 +722,7 @@ BENDRIJOS VALDYMAS
 1. Bendrijos valdymo organų veiklos priežiūrą ir kontrolę pagal Lietuvos Respublikos vietos savivaldos įstatymą atlieka savivaldybės. ^s-219f41d1e0a9df5f4e790a87
 
 
-2. Savivaldybės vykdomoji institucija ar jos įgaliotas asmuo turi teisę kontroliuoti, kaip bendrijos valdymo organai atlieka pagal šį įstatymą jiems priskirtas funkcijas ir, vadovaudamasis Lietuvos Respublikos administracinių teisės pažeidimų kodeksu, surašyti administracinių teisės pažeidimų protokolus, nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas arba perduoti administracinių teisės pažeidimų bylas nagrinėti teismui. ^s-e092eccf6c7970ab9143f9c3
+2. Savivaldybės vykdomoji institucija ar jos įgaliotas asmuo turi teisę kontroliuoti, kaip bendrijos valdymo organai atlieka pagal šį įstatymą jiems priskirtas funkcijas ir, vadovaudamasis [Lietuvos Respublikos administracinių teisės pažeidimų kodeksu](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), surašyti administracinių teisės pažeidimų protokolus, nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas arba perduoti administracinių teisės pažeidimų bylas nagrinėti teismui. ^s-e092eccf6c7970ab9143f9c3
 
 
 

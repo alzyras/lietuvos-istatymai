@@ -70,14 +70,14 @@ BENDROSIOS NUOSTATOS
 1. Suėmimas vykdomas tardymo izoliatoriuose (kardomojo kalinimo vietose) (toliau – tardymo izoliatoriai). Tardymo izoliatorius steigia, reorganizuoja, pertvarko ir likviduoja Lietuvos Respublikos Vyriausybė Teisingumo ministerijos teikimu. Tardymo izoliatorių vidaus tvarkos taisykles tvirtina teisingumo ministras. ^s-abe3a1e402a3c5ecd4831b2a
 
 
-2. Asmenys, kuriems paskirtas suėmimas, iki jų pasiuntimo į tardymo izoliatorių gali būti laikomi teritorinės policijos įstaigos areštinėje, tačiau ne ilgiau kaip penkiolika parų. Suimtieji ikiteisminio tyrimo pareigūno ar prokuroro nutarimu arba teismo nutartimi iš tardymo izoliatoriaus gali būti perkelti (uždaryti) ikiteisminio tyrimo veiksmams atlikti ar dėl bylų nagrinėjimo teisme į teritorinės policijos įstaigos areštinę, tačiau ne ilgiau kaip penkiolika parų. Toks laikymas teritorinės policijos įstaigos areštinėje turi būti nedelsiant nutrauktas, kai tai tampa nebereikalinga. Šiems asmenims taikomos šio įstatymo, išskyrus 23, 25, 26, 28, 40–[[#^s-6c31a8b844fe71eab758ba95|43 straipsnius]], nuostatos. Teritorinių policijos įstaigų areštinių vidaus tvarkos taisykles tvirtina vidaus reikalų ministras, suderinęs su teisingumo ministru. ^s-862eea6bb8e1ce247bd13a48
+2. Asmenys, kuriems paskirtas suėmimas, iki jų pasiuntimo į tardymo izoliatorių gali būti laikomi teritorinės policijos įstaigos areštinėje, tačiau ne ilgiau kaip penkiolika parų. Suimtieji ikiteisminio tyrimo pareigūno ar prokuroro nutarimu arba teismo nutartimi iš tardymo izoliatoriaus gali būti perkelti (uždaryti) ikiteisminio tyrimo veiksmams atlikti ar dėl bylų nagrinėjimo teisme į teritorinės policijos įstaigos areštinę, tačiau ne ilgiau kaip penkiolika parų. Toks laikymas teritorinės policijos įstaigos areštinėje turi būti nedelsiant nutrauktas, kai tai tampa nebereikalinga. Šiems asmenims taikomos šio įstatymo, išskyrus [[#^s-fd7ce3ac51b195459790a9ae|23]], [[#^s-93e9a72507e7a1fee485bbd8|25]], [[#^s-c08f2245b2c59f41fa4bd7ec|26]], [[#^s-5755dc732285b8ddfe30b5f0|28]], [[#^s-72ecdeb590f43b7130eabea0|40]]–[[#^s-6c31a8b844fe71eab758ba95|43]] straipsnius, nuostatos. Teritorinių policijos įstaigų areštinių vidaus tvarkos taisykles tvirtina vidaus reikalų ministras, suderinęs su teisingumo ministru. ^s-862eea6bb8e1ce247bd13a48
 
 
 
 ### 3 straipsnis. Suėmimo vykdymo tvarkos ir asmenų laikymo tardymo izoliatoriuose sąlygų užtikrinimas ^s-37b3838a5ed123faa30a6c4b
 
 
-Tardymo izoliatoriaus administracija, užtikrindama suėmimo vykdymo tvarką ir tinkamas asmenų laikymo tardymo izoliatoriuose sąlygas, vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais nacionaliniais ir Europos Sąjungos teisės aktais.
+Tardymo izoliatoriaus administracija, užtikrindama suėmimo vykdymo tvarką ir tinkamas asmenų laikymo tardymo izoliatoriuose sąlygas, vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais nacionaliniais ir Europos Sąjungos teisės aktais.
 
 
 
@@ -313,7 +313,7 @@ SUĖMIMO VYKDYMO REŽIMAS
 6. Suimtųjų dienotvarkėje privalo būti numatytas darbo, poilsio, buvimo gryname ore, mokymosi, socialinėms ir psichologinėms programoms skirtas laikas. ^s-08d4e39ec802ac1da15f76fe
 
 
-7. Tardymo izoliatoriaus administracija ypatingų situacijų metu veikia vadovaudamasi [[latest/TAR.A0A0CCC6B997#^s-34a5c7a26dd83a2e4e43e3f3|Bausmių vykdymo kodekso 118 ir 119 straipsnių]], o specialiąsias priemones ir šaunamuosius ginklus naudoja vadovaudamasi [[latest/TAR.A0A0CCC6B997#^s-30eb7441e64486668c0243e2|Bausmių vykdymo kodekso 120–124 straipsnių]] nuostatomis. ^s-bd832102c230c2c1280974fa
+7. Tardymo izoliatoriaus administracija ypatingų situacijų metu veikia vadovaudamasi [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] [[latest/TAR.A0A0CCC6B997#^s-c25673908aba489b4b34d0bf|118]] ir [[latest/TAR.A0A0CCC6B997#^s-34a5c7a26dd83a2e4e43e3f3|119]] straipsnių, o specialiąsias priemones ir šaunamuosius ginklus naudoja vadovaudamasi [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] [[latest/TAR.A0A0CCC6B997#^s-52168c8101965d7346b59451|120]]–[[latest/TAR.A0A0CCC6B997#^s-30eb7441e64486668c0243e2|124]] straipsnių nuostatomis. ^s-bd832102c230c2c1280974fa
 
 
 
@@ -429,7 +429,7 @@ TARDYMO IZOLIATORIUOSE LAIKOMŲ ASMENŲ TEISINĖ PADĖTIS
 1. Ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu suimtieji turi teisę susitikti su žurnalistais. ^s-708df3fd7c1c8503d1916790
 
 
-2. Šio įstatymo [[#^s-930ff0c240bbeef799ef776b|12 straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems susitikti su žurnalistais, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. ^s-4fa54e39944e2871ac0b453b
+2. Šio įstatymo [[#^s-930ff0c240bbeef799ef776b|12 straipsnio 2 dalies]] [[#^s-72eb214ade18ff68cc7fb574|1]], [[#^s-8566dd6a485a4b290f08945a|2]] ir [[#^s-48f7057bbbd81653894193ec|4]] punktuose nurodytiems asmenims, norintiems susitikti su žurnalistais, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. ^s-4fa54e39944e2871ac0b453b
 
 
 
@@ -456,7 +456,7 @@ Civilinio kodekso nustatyta tvarka suimtieji turi teisę disponuoti savo turtu, 
 1. Suimtieji turi teisę Civilinio kodekso nustatyta tvarka sudaryti santuoką. ^s-b98998e4a3c90eb46d769c82
 
 
-2. Apie suimtojo, išskyrus šio įstatymo [[#^s-930ff0c240bbeef799ef776b|12 straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodytus asmenis, prašymą suteikti jam galimybę sudaryti santuoką tardymo izoliatoriaus administracija privalo nedelsdama raštu pranešti šio suimtojo ikiteisminiam tyrimui vadovaujančiam ar jį atliekančiam prokurorui arba teismui, kurio žinioje yra byla. ^s-19edbe750bd96220b7484c62
+2. Apie suimtojo, išskyrus šio įstatymo [[#^s-930ff0c240bbeef799ef776b|12 straipsnio 2 dalies]] [[#^s-72eb214ade18ff68cc7fb574|1]], [[#^s-8566dd6a485a4b290f08945a|2]] ir [[#^s-48f7057bbbd81653894193ec|4]] punktuose nurodytus asmenis, prašymą suteikti jam galimybę sudaryti santuoką tardymo izoliatoriaus administracija privalo nedelsdama raštu pranešti šio suimtojo ikiteisminiam tyrimui vadovaujančiam ar jį atliekančiam prokurorui arba teismui, kurio žinioje yra byla. ^s-19edbe750bd96220b7484c62
 
 
 3. Suimtojo santuoka su kitu asmeniu sudaroma tardymo izoliatoriuje. ^s-522aa741468dd53ec5593441
@@ -491,7 +491,7 @@ Civilinio kodekso nustatyta tvarka suimtieji turi teisę disponuoti savo turtu, 
 2. Vienas suimtojo pasimatymas gali trukti ne ilgiau kaip dvi valandas. ^s-6147498eb10d64c6c1a8a95f
 
 
-3. Šio įstatymo [[#^s-930ff0c240bbeef799ef776b|12 straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems pasimatyti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. Šie asmenys turi teisę į vieną pasimatymą. ^s-01b57654189408fa52d25a02
+3. Šio įstatymo [[#^s-930ff0c240bbeef799ef776b|12 straipsnio 2 dalies]] [[#^s-72eb214ade18ff68cc7fb574|1]], [[#^s-8566dd6a485a4b290f08945a|2]] ir [[#^s-48f7057bbbd81653894193ec|4]] punktuose nurodytiems asmenims, norintiems pasimatyti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. Šie asmenys turi teisę į vieną pasimatymą. ^s-01b57654189408fa52d25a02
 
 
 4. Pasimatymų tvarka nustatyta Tardymo izoliatorių vidaus tvarkos taisyklėse. ^s-35afc64f0e4dc698e4b2a08e
@@ -501,7 +501,7 @@ Civilinio kodekso nustatyta tvarka suimtieji turi teisę disponuoti savo turtu, 
 ### 23 straipsnis. Suimtųjų teisė paskambinti telefonu ^s-fd7ce3ac51b195459790a9ae
 
 
-1. Suimtiesiems telefoninių pokalbių su giminaičiais, sutuoktiniu ar sugyventiniu skaičius neribojamas, tačiau telefoninį pokalbį tardymo izoliatoriaus administracija leidžia tik norinčio paskambinti telefonu suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu. Šis sutikimas gali būti vienkartinis arba daugkartinis. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam paskambinti, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo [[#^s-930ff0c240bbeef799ef776b|12 straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems paskambinti telefonu, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. ^s-fb423311522eafe776283abb
+1. Suimtiesiems telefoninių pokalbių su giminaičiais, sutuoktiniu ar sugyventiniu skaičius neribojamas, tačiau telefoninį pokalbį tardymo izoliatoriaus administracija leidžia tik norinčio paskambinti telefonu suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu. Šis sutikimas gali būti vienkartinis arba daugkartinis. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam paskambinti, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo [[#^s-930ff0c240bbeef799ef776b|12 straipsnio 2 dalies]] [[#^s-72eb214ade18ff68cc7fb574|1]], [[#^s-8566dd6a485a4b290f08945a|2]] ir [[#^s-48f7057bbbd81653894193ec|4]] punktuose nurodytiems asmenims, norintiems paskambinti telefonu, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. ^s-fb423311522eafe776283abb
 
 
 2. Suimtajam paskambinti telefonu leidžiama, jeigu jis tuo metu yra mokus arba naudojasi ryšio paslauga kalbėti telefonu kito abonento sąskaita. Vienas pokalbis telefonu negali trukti ilgiau kaip 15 minučių. Telefoninio pokalbio išlaidas, kai nesinaudojama ryšio paslauga kalbėti telefonu kito abonento sąskaita, apmoka pats suimtasis. ^s-ec4490be1fbbbb8928b51d0c
@@ -598,7 +598,7 @@ Civilinio kodekso nustatyta tvarka suimtieji turi teisę disponuoti savo turtu, 
 1. Suimtiesiems gali būti leidžiama išvykti už tardymo izoliatoriaus ribų ne ilgiau kaip penkioms paroms dėl sutuoktinio, sugyventinio ar artimojo giminaičio mirties ar sunkios ligos, gresiančios gyvybei, dėl gaivalinės nelaimės, padariusios didelę turtinę žalą suimtajam ar jo sutuoktiniui, sugyventiniui arba artimiesiems giminaičiams. ^s-a85d984f1f21ef628a659b5d
 
 
-2. Leidimą išvykti, gavęs suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinį sutikimą, duoda tardymo izoliatoriaus direktorius, atsižvelgdamas į suimtojo asmenybę ir jo elgesį buvimo tardymo izoliatoriuje laiku. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam išvykti už tardymo izoliatoriaus ribų, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo [[#^s-930ff0c240bbeef799ef776b|12 straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems išvykti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. Laikas, kurį suimtasis buvo išvykęs už tardymo izoliatoriaus ribų, įskaitomas į suėmimo laiką. Kelionės išlaidas apmoka pats suimtasis arba jo sutuoktinis, sugyventinis ar artimieji giminaičiai. ^s-13367445b90ff7ad9bb02dc5
+2. Leidimą išvykti, gavęs suimtojo ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinį sutikimą, duoda tardymo izoliatoriaus direktorius, atsižvelgdamas į suimtojo asmenybę ir jo elgesį buvimo tardymo izoliatoriuje laiku. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam išvykti už tardymo izoliatoriaus ribų, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo [[#^s-930ff0c240bbeef799ef776b|12 straipsnio 2 dalies]] [[#^s-72eb214ade18ff68cc7fb574|1]], [[#^s-8566dd6a485a4b290f08945a|2]] ir [[#^s-48f7057bbbd81653894193ec|4]] punktuose nurodytiems asmenims, norintiems išvykti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. Laikas, kurį suimtasis buvo išvykęs už tardymo izoliatoriaus ribų, įskaitomas į suėmimo laiką. Kelionės išlaidas apmoka pats suimtasis arba jo sutuoktinis, sugyventinis ar artimieji giminaičiai. ^s-13367445b90ff7ad9bb02dc5
 
 
 3. Pilnamečiai suimtieji ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu nurodymu vyksta su apsauga. Apsaugą atlieka tardymo izoliatorių pareigūnai. Pilnamečiai suimtieji, kuriems apsauga nebuvo paskirta, taip pat nepilnamečiai suimtieji vyksta su tardymo izoliatoriaus pareigūno ar kelių pareigūnų palyda. Pilnamečiams suimtiesiems išvykos metu gali būti uždedami antrankiai. ^s-5c7e7ed2974469b88a3119f3
@@ -700,7 +700,7 @@ Už nepriekaištingą elgesį suimtiesiems gali būti skiriamos šios paskatinim
 4) uždarymas į drausmės izoliatorių iki dešimties parų [[#^s-2f7e8967e4bee75500d7f6a2|šio straipsnio 2 dalyje]] nurodytais atvejais ir tvarka. ^s-1d6d69b114d3bbdd732d7b14
 
 
-2. Suimtieji, kurie per vienus metus padaro ne mažiau kaip tris režimo pažeidimus, taip pat šio įstatymo [[#^s-d16134e2a1cb2961edac0a69|32 straipsnio 1 dalies 2 punkte]] ir [[#^s-2f7e8967e4bee75500d7f6a2|2 dalies]] 1, 3, 7 ir 8 punktuose nurodytais atvejais motyvuotu tardymo izoliatoriaus direktoriaus nutarimu gali būti uždaryti į drausmės izoliatorių iki dešimties parų, o nepilnamečiai – iki penkių parų. Nėščioms moterims nuobauda – uždaryti į drausmės izoliatorių – neskiriama. ^s-2f7e8967e4bee75500d7f6a2
+2. Suimtieji, kurie per vienus metus padaro ne mažiau kaip tris režimo pažeidimus, taip pat šio įstatymo [[#^s-d16134e2a1cb2961edac0a69|32 straipsnio 1 dalies 2 punkte]] ir 2 dalies [[#^s-338d7065c389e28e7d64a7f4|1]], [[#^s-9921fe0c82455c45d0ea1851|3]], 7 ir 8 punktuose nurodytais atvejais motyvuotu tardymo izoliatoriaus direktoriaus nutarimu gali būti uždaryti į drausmės izoliatorių iki dešimties parų, o nepilnamečiai – iki penkių parų. Nėščioms moterims nuobauda – uždaryti į drausmės izoliatorių – neskiriama. ^s-2f7e8967e4bee75500d7f6a2
 
 
 
@@ -738,7 +738,7 @@ Už nepriekaištingą elgesį suimtiesiems gali būti skiriamos šios paskatinim
 5. Paskirta nuobauda vykdoma tuoj pat ir ne vėliau kaip per vieną mėnesį nuo jos paskyrimo. Nuobauda, kuri nebuvo pradėta vykdyti per vieną mėnesį nuo jos paskyrimo dienos, nebevykdoma. ^s-407020c94846c275c94b2770
 
 
-6. Šio įstatymo [[#^s-a6aa2c35f23c209e3cf3791f|34 straipsnio 1 dalies]] 2 ir 3 punktuose numatytos nuobaudos skiriamos tardymo izoliatoriaus direktoriaus nutarimu. ^s-249e2a1184e16b783e5270e0
+6. Šio įstatymo [[#^s-a6aa2c35f23c209e3cf3791f|34 straipsnio 1 dalies]] [[#^s-6e75bb7cfc7c1dffcb52af51|2]] ir [[#^s-d73a25a5f8b4918014ea28f1|3]] punktuose numatytos nuobaudos skiriamos tardymo izoliatoriaus direktoriaus nutarimu. ^s-249e2a1184e16b783e5270e0
 
 
 7. Suimtasis turi teisę apskųsti jam paskirtą nuobaudą šio įstatymo [[#^s-3f34c724b76ea45566eb0132|49 straipsnio]] nustatyta tvarka. Skundo pateikimas nuobaudos vykdymo nesustabdo. Aukštesnes pareigas einantis pareigūnas nuobaudą sušvelnina arba ją panaikina, jeigu ją paskyręs pareigūnas viršijo savo įgaliojimus, netinkamai įvertino visas pažeidimo padarymo aplinkybes arba jeigu nuobauda paskirta nepadariusiam pažeidimo suimtajam. ^s-20473dd993d98d8ea1aa722c
@@ -804,7 +804,7 @@ Už nepriekaištingą elgesį suimtiesiems gali būti skiriamos šios paskatinim
 2. Suimtųjų valstybei padarytos žalos atlyginimas išieškomas motyvuotu tardymo izoliatoriaus direktoriaus nutarimu, jeigu žalos dydis neviršija suimtojo asmeninėje sąskaitoje esančios pinigų sumos. Apie išieškojimą suimtajam pranešama pasirašytinai. Kitais atvejais žalos atlyginimas išieškomas bendrais Lietuvos Respublikos įstatymų nustatytais pagrindais ir tvarka. ^s-65394b10ce3ff89c02708fa6
 
 
-3. Valstybei padarytos žalos atlyginimo dalis, kurios pagal tardymo izoliatoriaus direktoriaus nutarimą išieškoti žalos atlyginimą paleistas iš tardymo izoliatoriaus asmuo iki galo neatlygino, išieškoma Civilinio proceso kodekso nustatyta tvarka. ^s-bdb28ac1351e7698ffaf42f4
+3. Valstybei padarytos žalos atlyginimo dalis, kurios pagal tardymo izoliatoriaus direktoriaus nutarimą išieškoti žalos atlyginimą paleistas iš tardymo izoliatoriaus asmuo iki galo neatlygino, išieškoma [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-bdb28ac1351e7698ffaf42f4
 
 
 
@@ -816,7 +816,7 @@ SUIMTŲJŲ UŽIMTUMAS IR JŲ SOCIALINIŲ POREIKIŲ TENKINIMAS
 ### 40 straipsnis. Suimtųjų įtraukimas į darbą ^s-72ecdeb590f43b7130eabea0
 
 
-1. Tardymo izoliatoriuose, jei yra galimybė dirbti, suimtieji gali dirbti tik jų rašytiniu prašymu ir šių suimtųjų ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam dirbti, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo [[#^s-930ff0c240bbeef799ef776b|12 straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodytiems asmenims, norintiems dirbti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. ^s-5787fcbe5f1d5fe36e0a9f9f
+1. Tardymo izoliatoriuose, jei yra galimybė dirbti, suimtieji gali dirbti tik jų rašytiniu prašymu ir šių suimtųjų ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytiniu sutikimu. Jei ikiteisminiam tyrimui vadovaujantis ar jį atliekantis prokuroras arba teismas, kurio žinioje yra byla, nesutinka leisti suimtajam dirbti, suimtajam ir tardymo izoliatoriaus administracijai turi būti pateikiamas motyvuotas sprendimas. Šio įstatymo [[#^s-930ff0c240bbeef799ef776b|12 straipsnio 2 dalies]] [[#^s-72eb214ade18ff68cc7fb574|1]], [[#^s-8566dd6a485a4b290f08945a|2]] ir [[#^s-48f7057bbbd81653894193ec|4]] punktuose nurodytiems asmenims, norintiems dirbti, nereikia gauti ikiteisminiam tyrimui vadovaujančio ar jį atliekančio prokuroro arba teismo, kurio žinioje yra byla, rašytinio sutikimo. ^s-5787fcbe5f1d5fe36e0a9f9f
 
 
 2. Suimtieji gali dirbti tik tardymo izoliatoriaus teritorijoje ir turi būti užtikrintas šio įstatymo [[#^s-b837a6125f068bd8f95b2500|10 straipsnio]] reikalavimų vykdymas. ^s-a808864d6b48c0572b7ffb14

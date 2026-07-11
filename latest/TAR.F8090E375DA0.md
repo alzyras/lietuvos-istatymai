@@ -458,13 +458,13 @@ Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
 4. Lietuvos Respublikoje draudžiama tiekti rinkai tabako gaminius, kurių bet kokiose sudedamosiose dalyse, pavyzdžiui, filtruose, popieriuje, pakuotėse, kapsulėse ar bet kuriuose techniniuose elementuose yra kvapiųjų medžiagų, leidžiančių pakeisti atitinkamo tabako gaminio kvapą ar skonį, jų stiprumą ar tabako gaminio dūmo sodrumą. Filtruose, popieriuje ir kapsulėse negali būti tabako arba nikotino. ^s-67a4cc30d42c90200954bba2
 
 
-5. Tabako gaminiams atitinkamai taikomos 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (toliau – Reglamentas (EB) Nr. 1907/2006), nuostatos ir sąlygos. ^s-d2db6704d99c1a08a6af5f3b
+5. Tabako gaminiams atitinkamai taikomos 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos [reglamentą (EB) Nr. 1488/94](https://eur-lex.europa.eu/eli/reg/1488/94/oj), Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (toliau – [Reglamentas (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj)), nuostatos ir sąlygos. ^s-d2db6704d99c1a08a6af5f3b
 
 
 6. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija, turėdama mokslinių įrodymų, kad konkrečiame tabako gaminyje esančių priedų kiekis yra toks, kad vartojimo metu žymiai ar išmatuojamai padidėja tabako gaminio priklausomybės sukėlimo geba, toksiškumas arba jo KMR savybės, turi teisę Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka uždrausti pateikti rinkai tokį tabako gaminį. Tokiais atvejais Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija praneša Europos Komisijai apie priemones, kurių ji ėmėsi pagal šią dalį. ^s-fee0fd310b5e62d4bfa7000a
 
 
-7. Šio straipsnio 1 ir [[#^s-67a4cc30d42c90200954bba2|4 dalyse]] nustatyti draudimai taikomi cigaretėms, suktinių tabakui ir kaitinamojo tabako gaminiams. ^s-0ae409d6bcb74aa02cac9506
+7. Šio straipsnio [[#^s-f84ef18642010df7ca19e3b3|1]] ir [[#^s-67a4cc30d42c90200954bba2|4]] dalyse nustatyti draudimai taikomi cigaretėms, suktinių tabakui ir kaitinamojo tabako gaminiams. ^s-0ae409d6bcb74aa02cac9506
 Straipsnio dalies pakeitimai:
 Nr. XIV-2083, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13985
 
@@ -557,7 +557,7 @@ Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
 4. Įspėjimai apie galimą žalą sveikatai ant vienetinių pakelių jokiu būdu neturi uždengti ar pertraukti banderolių, kainų ženklų, stebėjimo ir atsekimo ženklų ar saugumo elementų. ^s-30fd83e8d8f0465d8212c208
 
 
-5. Įspėjimų apie galimą žalą sveikatai dydžiai, numatyti šio Įstatymo 82, 83, 84 ir [[#^s-15ec84c4ee352f5f5fbbcee7|85 straipsniuose]], apskaičiuojami pagal atitinkamą uždaryto pakelio plotą. ^s-bb4389aaf39bae72947c2210
+5. Įspėjimų apie galimą žalą sveikatai dydžiai, numatyti šio Įstatymo [[#^s-490ff879a187bf95934b7f01|82]], [[#^s-1400f2ce35bcad0b842f54d1|83]], [[#^s-8823cb43d5a84f7ff2c0154d|84]] ir [[#^s-15ec84c4ee352f5f5fbbcee7|85]] straipsniuose, apskaičiuojami pagal atitinkamą uždaryto pakelio plotą. ^s-bb4389aaf39bae72947c2210
 
 
 6. Įspėjimai apie galimą žalą sveikatai, išskyrus įspėjimus, nustatytus šio Įstatymo [[#^s-8823cb43d5a84f7ff2c0154d|84 straipsnyje]], turi būti apvesti juoda 1 milimetro pločio linija vidinėje tų įspėjimų tekstui skirto ploto dalyje. ^s-c49aeb681f92d521ec6d3a27
@@ -589,7 +589,7 @@ Nr. XII-1917, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11095
 6. Tiek bendrasis įspėjimas, tiek informacinis pranešimas turi užimti 50 procentų paviršių, ant kurių jie spausdinami, ploto. ^s-08327a7355a1f2af25334d82
 
 
-7. Šio straipsnio 1 ir [[#^s-2264bd871a5b2554431eba77|2 dalyse]] nurodytas bendrasis įspėjimas ir informacinis pranešimas: ^s-a587dd18d4be59f5d79e2558
+7. Šio straipsnio [[#^s-b81523f823c690a7957d5e16|1]] ir [[#^s-2264bd871a5b2554431eba77|2]] dalyse nurodytas bendrasis įspėjimas ir informacinis pranešimas: ^s-a587dd18d4be59f5d79e2558
 
 
 1) spausdinami baltame fone juodos spalvos Helvetica pusjuodžiu šriftu; ^s-2c8788e196212e731c374f9c
@@ -738,7 +738,7 @@ Nr. XII-1917, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11095
 2. Vienetiniai pakeliai ir bet kokia jų išorinė pakuotė neturi sudaryti įspūdžio, kad suteikiama ekonominės naudos, todėl joje draudžiama pateikti spausdintinius kuponus, siūlyti nuolaidas, nemokamą platinimą, du gaminius už vieno kainą ar teikti kitus panašius pasiūlymus. ^s-74b366a87c8963d9b448947f
 
 
-3. Šio straipsnio 1 ir [[#^s-74b366a87c8963d9b448947f|2 dalyse]] numatytiems draudžiamiems elementams ir požymiams gali būti priskiriami tekstai, simboliai, pavadinimai, prekių ženklai, metaforiniai ar kiti ženklai. ^s-9a775e52b04821d4eed35967
+3. Šio straipsnio [[#^s-bf933d7d0f5752edb45951f9|1]] ir [[#^s-74b366a87c8963d9b448947f|2]] dalyse numatytiems draudžiamiems elementams ir požymiams gali būti priskiriami tekstai, simboliai, pavadinimai, prekių ženklai, metaforiniai ar kiti ženklai. ^s-9a775e52b04821d4eed35967
 TAR pastaba. [[#^s-ff8874358e7185eb09c75573|86 straipsnio 1 dalies 3 punkte]] nustatytas informacijos pateikimo draudimas mentolio skonio ar kvapo tabako gaminiams taikomas nuo 2020 m. gegužės 20 d.
 
 
@@ -770,7 +770,7 @@ Nr. XII-1917, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11095
 1. Tabako gaminių gamintojai ir importuotojai Narkotikų, tabako ir alkoholio kontrolės departamentui Lietuvos Respublikos Vyriausybės nustatyta tvarka pagal prekių ženklą ir rūšį privalo pateikti Europos Komisijos nustatytos formos pranešimą apie: ^s-4e102c34cbc773ac721bc403
 
 
-1) tabako gaminių gamybai naudotų visų tabako gaminių sudedamųjų dalių ir jų kiekių sudarytą sąrašą (toliau – sąrašas) kiekvienos tabako gaminių sudedamosios dalies mažėjimo tvarka pagal svorį. Sąraše turi būti nurodyta, ar šios tabako gaminių sudedamosios dalys buvo registruotos pagal Reglamentą (EB) Nr. 1907/2006 ir ar jos buvo klasifikuotos pagal 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1272/2008 dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiantį ir panaikinantį direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiantį Reglamentą (EB) Nr. 190/2006. Prie sąrašo pridedamas paaiškinimas, kuriame nurodoma, kodėl tokių tabako gaminių sudedamųjų dalių buvo dėta į atitinkamus tabako gaminius, pridedami toksikologiniai duomenys, apibūdinantys atitinkamai sudegintas ar nesudegintas šias tabako gaminių sudedamąsias dalis, nurodant jų poveikį vartotojų sveikatai ir priklausomybę sukeliantį poveikį; ^s-e46d5cb61f89653f68e7fd28
+1) tabako gaminių gamybai naudotų visų tabako gaminių sudedamųjų dalių ir jų kiekių sudarytą sąrašą (toliau – sąrašas) kiekvienos tabako gaminių sudedamosios dalies mažėjimo tvarka pagal svorį. Sąraše turi būti nurodyta, ar šios tabako gaminių sudedamosios dalys buvo registruotos pagal [Reglamentą (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir ar jos buvo klasifikuotos pagal 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiantį ir panaikinantį direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiantį Reglamentą (EB) Nr. 190/2006. Prie sąrašo pridedamas paaiškinimas, kuriame nurodoma, kodėl tokių tabako gaminių sudedamųjų dalių buvo dėta į atitinkamus tabako gaminius, pridedami toksikologiniai duomenys, apibūdinantys atitinkamai sudegintas ar nesudegintas šias tabako gaminių sudedamąsias dalis, nurodant jų poveikį vartotojų sveikatai ir priklausomybę sukeliantį poveikį; ^s-e46d5cb61f89653f68e7fd28
 
 
 2) iš cigarečių išsiskiriančių medžiagų, nurodytų šio Įstatymo [[#^s-627de4b715001d84bdca8dda|4 straipsnio 2 dalyje]], kiekius; ^s-d8f18e20f9731840c80d0f54
@@ -794,16 +794,16 @@ Nr. XII-1917, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11095
 4. Cigarečių ir suktinių tabako gamintojai ar importuotojai prieš patiekdami šiuos gaminius rinkai privalo pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui techninį dokumentą, kuriame išdėstomas naudojamų priedų ir jų savybių aprašymas ir nurodomi gamintojų ir importuotojų taikyti kitų negu dervos, nikotinas, anglies monoksidas išsiskiriančių medžiagų kiekio nustatymo matavimo metodai. ^s-ed0fe7d44e5bf0e08bb13b27
 
 
-5. Pagal šio straipsnio 1, 2 ir [[#^s-ed0fe7d44e5bf0e08bb13b27|4 dalis]] gauta informacija yra viešai prieinama Narkotikų, tabako ir alkoholio kontrolės departamento interneto svetainėje. Narkotikų, tabako ir alkoholio kontrolės departamentas, skelbdamas šią informaciją, privalo apsaugoti komercinę paslaptį. ^s-943552fcb89270efee803896
+5. Pagal šio straipsnio [[#^s-4e102c34cbc773ac721bc403|1]], [[#^s-4c2f64cbabc7cf87078b06d3|2]] ir [[#^s-ed0fe7d44e5bf0e08bb13b27|4]] dalis gauta informacija yra viešai prieinama Narkotikų, tabako ir alkoholio kontrolės departamento interneto svetainėje. Narkotikų, tabako ir alkoholio kontrolės departamentas, skelbdamas šią informaciją, privalo apsaugoti komercinę paslaptį. ^s-943552fcb89270efee803896
 
 
-6. Tabako gaminių gamintojai ir importuotojai, pateikdami informaciją pagal šio straipsnio 1, 2 ir [[#^s-ed0fe7d44e5bf0e08bb13b27|4 dalis]], privalo ne tik nurodyti, kurią informaciją jie laiko komercine paslaptimi, bet taip pat ir šią aplinkybę pagrįsti. ^s-2992b9474b21c48ac49ef517
+6. Tabako gaminių gamintojai ir importuotojai, pateikdami informaciją pagal šio straipsnio [[#^s-4e102c34cbc773ac721bc403|1]], [[#^s-4c2f64cbabc7cf87078b06d3|2]] ir [[#^s-ed0fe7d44e5bf0e08bb13b27|4]] dalis, privalo ne tik nurodyti, kurią informaciją jie laiko komercine paslaptimi, bet taip pat ir šią aplinkybę pagrįsti. ^s-2992b9474b21c48ac49ef517
 
 
 7. Visa šiame straipsnyje nurodyta privaloma pateikti informacija yra pateikiama ir saugoma elektronine forma Narkotikų, tabako ir alkoholio kontrolės departamente, kuris privalo užtikrinti, kad tabako gaminių gamintojų ir importuotojų nurodyta konfidenciali informacija nebūtų atskleista, išskyrus atvejus, kai teisėtvarkos ar kitos institucijos teisės aktų nustatyta tvarka turi teisę gauti tokią informaciją, taip pat užtikrinti, kad saugoma informacija būtų prieinama Europos Komisijai ir kitoms Europos Sąjungos valstybėms narėms Europos Komisijos priimtuose sprendimuose nustatyta tvarka. ^s-d29a28a0e3a28495cc813563
 
 
-8. Cigarečių ir suktinių tabako, kurių sudėtyje yra priedo, įtraukto į Cigaretėse ir cigaretėms sukti skirtame tabake naudojamų priedų, kuriems taikomos griežtesnės pranešimų teikimo prievolės, prioritetinį sąrašą, sudarytą 2016 m. gegužės 18 d. Komisijos įgyvendinimo sprendimu (ES) 2016/787, gamintojai ar importuotojai privalo atlikti išsamius tyrimus, kurių metu nagrinėjama, ar kiekvienas gaminio sudėtyje esantis į šį sąrašą įtrauktas priedas: ^s-6bd28266138eab83961ef0e7
+8. Cigarečių ir suktinių tabako, kurių sudėtyje yra priedo, įtraukto į Cigaretėse ir cigaretėms sukti skirtame tabake naudojamų priedų, kuriems taikomos griežtesnės pranešimų teikimo prievolės, prioritetinį sąrašą, sudarytą 2016 m. gegužės 18 d. Komisijos įgyvendinimo [sprendimu (ES) 2016/787](https://eur-lex.europa.eu/eli/dec/2016/787/oj), gamintojai ar importuotojai privalo atlikti išsamius tyrimus, kurių metu nagrinėjama, ar kiekvienas gaminio sudėtyje esantis į šį sąrašą įtrauktas priedas: ^s-6bd28266138eab83961ef0e7
 
 
 1) prisideda prie atitinkamų tabako gaminių toksiškumo ar priklausomybės sukėlimo gebos ir dėl to žymiai ar išmatuojamai padidėja bet kurio iš atitinkamų tabako gaminių toksiškumas arba priklausomybės sukėlimo geba; ^s-3841e88452444b3ea46c8865
@@ -885,7 +885,7 @@ Nr. XIV-2402, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25914
 4) nikotino kiekis įprastomis vartojimo sąlygomis nuosekliai dozuojamas elektroninėmis cigaretėmis; ^s-2603255e33fd644f84e8d546
 
 
-5) elektroninės cigaretės ir elektroninių cigarečių pildyklės turi sustiprintą apsaugą nuo vaikų (įskaitant įspėjimus apie elektroninių cigarečių keliamą grėsmę vaikams ar būtinybę jas saugoti nuo vaikų, sudėtingesnį įjungimo mechanizmą ar kitas priemones, ribojančias vaikų galimybes naudoti elektronines cigaretes ir kt.) ir yra apsaugotos nuo sugadinimo, įskilimo bei pralaidumo ir turi mechanizmą, kuris užtikrina, kad jas pildant neištekėtų skystis. Pildymo mechanizmas turi atitikti reikalavimus, nustatytus 2016 m. balandžio 14 d. Komisijos įgyvendinimo sprendime (ES) 2016/586 dėl elektroninių cigarečių pildymo mechanizmo techninių standartų. ^s-fc58c0a39422c7f819f72b00
+5) elektroninės cigaretės ir elektroninių cigarečių pildyklės turi sustiprintą apsaugą nuo vaikų (įskaitant įspėjimus apie elektroninių cigarečių keliamą grėsmę vaikams ar būtinybę jas saugoti nuo vaikų, sudėtingesnį įjungimo mechanizmą ar kitas priemones, ribojančias vaikų galimybes naudoti elektronines cigaretes ir kt.) ir yra apsaugotos nuo sugadinimo, įskilimo bei pralaidumo ir turi mechanizmą, kuris užtikrina, kad jas pildant neištekėtų skystis. Pildymo mechanizmas turi atitikti reikalavimus, nustatytus 2016 m. balandžio 14 d. Komisijos įgyvendinimo [sprendime (ES) 2016/586](https://eur-lex.europa.eu/eli/dec/2016/586/oj) dėl elektroninių cigarečių pildymo mechanizmo techninių standartų. ^s-fc58c0a39422c7f819f72b00
 
 
 3. Gaminant skystį naudojamos tik labai grynos sudedamosios dalys. Kitų medžiagų negu gaminio (pagal gaminio prekių ženklą ir rūšį) sudedamųjų dalių ir jį vartojant susidarančių išsiskiriančių medžiagų skystyje gali būti tik toks kiekis, kurio technologiškai negalima išvengti gamybos metu. ^s-4d09c91ee1528e1a592125fb
@@ -1027,7 +1027,7 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 4. Vienetiniai pakeliai ir bet kokia išorinė pakuotė neturi sudaryti įspūdžio, kad suteikiama ekonominės naudos, todėl joje draudžiama pateikti spausdintinius kuponus, siūlyti nuolaidas, nemokamą platinimą, du gaminius už vieno kainą ar teikti kitus panašius pasiūlymus. ^s-2bd339b0be639a0e469711c8
 
 
-5. Pagal šio straipsnio 3 ir [[#^s-2bd339b0be639a0e469711c8|4 dalis]] draudžiamiems elementams ir požymiams gali būti priskiriami tekstai, simboliai, pavadinimai, prekių ženklai, metaforiniai ar kiti ženklai (bet jais neapsiribojant). ^s-a113adba8d4a419ea2c54b00
+5. Pagal šio straipsnio [[#^s-8d476265ba3b4492a1bfa662|3]] ir [[#^s-2bd339b0be639a0e469711c8|4]] dalis draudžiamiems elementams ir požymiams gali būti priskiriami tekstai, simboliai, pavadinimai, prekių ženklai, metaforiniai ar kiti ženklai (bet jais neapsiribojant). ^s-a113adba8d4a419ea2c54b00
 
 
 
@@ -1113,7 +1113,7 @@ Elektroninių cigarečių ir elektroninių cigarečių pildyklių, atitinkanči�
 3.  Įspėjimas apie galimą žalą sveikatai turi atitikti šio Įstatymo [[#^s-a587dd18d4be59f5d79e2558|82 straipsnio 7 dalyje]] nustatytus reikalavimus. Įspėjimas apie galimą žalą sveikatai turi užimti 30 procentų atitinkamo vienetinio pakelio ir bet kokios jų išorinės pakuotės paviršiaus ploto. ^s-daea8f0290a0104f1ba25b29
 
 
-4.  Ant rūkomųjų žolinių gaminių vienetinių pakelių ir ant bet kokių jų išorinių pakuočių neturi būti jokių elementų ar požymių, nurodytų šio Įstatymo [[#^s-bf933d7d0f5752edb45951f9|86 straipsnio 1 dalies]] 1, 2 ir 4 punktuose, ir teiginio, kad gaminyje nėra priedų ar kvapiųjų medžiagų. ^s-5bb25e20863bae76e585ab26
+4.  Ant rūkomųjų žolinių gaminių vienetinių pakelių ir ant bet kokių jų išorinių pakuočių neturi būti jokių elementų ar požymių, nurodytų šio Įstatymo [[#^s-bf933d7d0f5752edb45951f9|86 straipsnio 1 dalies]] [[#^s-8904d3a12385d208f441769b|1]], [[#^s-cef20c0ad228643e158485ad|2]] ir [[#^s-34ff9672c34dd32cafba3939|4]] punktuose, ir teiginio, kad gaminyje nėra priedų ar kvapiųjų medžiagų. ^s-5bb25e20863bae76e585ab26
 
 
 
@@ -1126,7 +1126,7 @@ Elektroninių cigarečių ir elektroninių cigarečių pildyklių, atitinkanči�
 2. Kai Lietuvos Respublikos rinkai patiekiamas naujas ar pakeistas rūkomasis žolinis gaminys, [[#^s-e5f99e2b3301e1bbb17e61eb|šio straipsnio 1 dalyje]] nurodyta informacija turi būti pateikta prieš patiekiant šį gaminį rinkai. ^s-986aedbc1118c8f7872b6721
 
 
-3. Pagal šį straipsnį gauta informacija (išskyrus gamintojų ir importuotojų nurodytą informaciją, kurią jie laiko komercine paslaptimi) yra viešai prieinama Narkotikų, tabako ir alkoholio kontrolės departamento interneto svetainėje. Rūkomųjų žolinių gaminių gamintojai ir importuotojai, pateikdami informaciją pagal šio straipsnio 1 ir [[#^s-986aedbc1118c8f7872b6721|2 dalis]], privalo nurodyti, kokią informaciją jie laiko komercine paslaptimi, ir šią aplinkybę pagrįsti. ^s-48ec0a40e4dd7657766e302e
+3. Pagal šį straipsnį gauta informacija (išskyrus gamintojų ir importuotojų nurodytą informaciją, kurią jie laiko komercine paslaptimi) yra viešai prieinama Narkotikų, tabako ir alkoholio kontrolės departamento interneto svetainėje. Rūkomųjų žolinių gaminių gamintojai ir importuotojai, pateikdami informaciją pagal šio straipsnio [[#^s-e5f99e2b3301e1bbb17e61eb|1]] ir [[#^s-986aedbc1118c8f7872b6721|2]] dalis, privalo nurodyti, kokią informaciją jie laiko komercine paslaptimi, ir šią aplinkybę pagrįsti. ^s-48ec0a40e4dd7657766e302e
 
 
 4. Draudžiama tiekti rinkai rūkomuosius žolinius gaminius, apie kuriuos Narkotikų, tabako ir alkoholio kontrolės departamento nustatyta tvarka negauta informacija (rūkomųjų žolinių gaminių gamybai naudotų visų sudedamųjų dalių ir jų kiekių sąrašas). ^s-597c8e33805c01413dc87344
@@ -1254,13 +1254,13 @@ Nr. X-1637, 2008-06-26, Žin., 2008, Nr. 76-3006 (2008-07-05)
 3) juridiniam asmeniui, užsienio juridinio asmens filialui ar jų vadovams nėra įsiteisėjusio apkaltinamojo teismo nuosprendžio dėl bausmės skyrimo, įsiteisėjusio teismo nutarimo, nutarties, įsiteisėjusio atitinkamo Lietuvos Respublikos muitinės, Valstybinės mokesčių inspekcijos, policijos, Valstybinės vartotojų teisių apsaugos tarnybos (toliau šiame straipsnyje – Tarnyba) ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimo dėl nuobaudos skyrimo už neapdoroto tabako, tabako gaminių, su tabako gaminiais susijusių gaminių kontrabandą, falsifikuotų neapdoroto tabako, tabako gaminių, su tabako gaminiais susijusių gaminių pardavimą, laikymą ar gabenimą, neapdoroto tabako, tabako gaminių, su tabako gaminiais susijusių gaminių pardavimą, laikymą ar gabenimą be neapdoroto tabako, tabako gaminių, su tabako gaminiais susijusių gaminių įsigijimą patvirtinančių juridinę galią turinčių dokumentų, taip pat už tabako gaminių be specialių ženklų – banderolių neteisėtą laikymą, gabenimą ar pardavimą arba nuo šio apkaltinamojo teismo nuosprendžio, teismo nutarimo, nutarties, Lietuvos Respublikos muitinės, Valstybinės mokesčių inspekcijos, policijos, Tarnybos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimo dėl bausmės ar nuobaudos skyrimo įsiteisėjimo dienos yra praėję ne mažiau kaip penkeri metai; ^s-e8472e692a3e972967101c86
 
 
-4) juridinio asmens ar užsienio juridinio asmens filialo vadovai nėra (nebuvo) juridinio asmens ar užsienio juridinio asmens filialo vadovai ar kiti darbuotojai, jeigu jie veikė juridinio asmens ar užsienio juridinio asmens filialo vardu ar dėl jo interesų tuo metu, kai juridiniam asmeniui ar užsienio juridinio asmens filialui buvo panaikintas licencijos galiojimas [[#^s-48121a636936e79a29064bc4|šio straipsnio 15 dalies 3 punkte]], 16 dalies 4 punkte ar šio Įstatymo [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnio]] 5, 7 ar [[#^s-03385f9fc80925b27d3b7054|8 dalyje]] nustatytais pagrindais, o jeigu licencijos galiojimas buvo panaikintas, – nuo [[#^s-e8472e692a3e972967101c86|šio straipsnio 2 dalies 3 punkte]] nurodyto nuosprendžio, nutarties ar nutarimo įsiteisėjimo dienos yra praėję ne mažiau kaip penkeri metai; ^s-dc83c9b832a4c2bb93c8d9e4
+4) juridinio asmens ar užsienio juridinio asmens filialo vadovai nėra (nebuvo) juridinio asmens ar užsienio juridinio asmens filialo vadovai ar kiti darbuotojai, jeigu jie veikė juridinio asmens ar užsienio juridinio asmens filialo vardu ar dėl jo interesų tuo metu, kai juridiniam asmeniui ar užsienio juridinio asmens filialui buvo panaikintas licencijos galiojimas [[#^s-48121a636936e79a29064bc4|šio straipsnio 15 dalies 3 punkte]], 16 dalies 4 punkte ar šio Įstatymo [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnio]] [[#^s-3d61fced90585fa8dda58ecc|5]], [[#^s-86cda7c607bcfccb8f055b04|7]] ar [[#^s-3aab3ffc733b34f7b9600af7|8]] dalyje nustatytais pagrindais, o jeigu licencijos galiojimas buvo panaikintas, – nuo [[#^s-e8472e692a3e972967101c86|šio straipsnio 2 dalies 3 punkte]] nurodyto nuosprendžio, nutarties ar nutarimo įsiteisėjimo dienos yra praėję ne mažiau kaip penkeri metai; ^s-dc83c9b832a4c2bb93c8d9e4
 Straipsnio punkto pakeitimai:
 Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
 
 
 
-5) per pastaruosius penkerius metus juridiniam asmeniui ar užsienio juridinio asmens filialui nebuvo panaikintas licencijos galiojimas [[#^s-48121a636936e79a29064bc4|šio straipsnio 15 dalies 3 punkte]], 16 [[#^s-dc83c9b832a4c2bb93c8d9e4|dalies 4 punkte]] ar šio Įstatymo [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnio]] 5, 7 ar [[#^s-03385f9fc80925b27d3b7054|8 dalyje]] nustatytais pagrindais; ^s-538bfd25a280a95a25bc26d1
+5) per pastaruosius penkerius metus juridiniam asmeniui ar užsienio juridinio asmens filialui nebuvo panaikintas licencijos galiojimas [[#^s-48121a636936e79a29064bc4|šio straipsnio 15 dalies 3 punkte]], 16 [[#^s-dc83c9b832a4c2bb93c8d9e4|dalies 4 punkte]] ar šio Įstatymo [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnio]] [[#^s-3d61fced90585fa8dda58ecc|5]], [[#^s-86cda7c607bcfccb8f055b04|7]] ar [[#^s-3aab3ffc733b34f7b9600af7|8]] dalyje nustatytais pagrindais; ^s-538bfd25a280a95a25bc26d1
 Straipsnio punkto pakeitimai:
 Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
 
@@ -1317,7 +1317,7 @@ Nr. XIV-2105, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13998
 2) pateikiami nevisiškai arba netinkamai užpildyti dokumentai, kurių reikia licencijai išduoti, ir Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas per licencijas išduodančios institucijos nustatytą terminą, kuris negali būti trumpesnis negu 5 darbo dienos nuo licencijas išduodančios institucijos pranešimo apie dokumentų trūkumus gavimo dienos, neįvykdo licencijas išduodančios institucijos reikalavimo ištaisyti šiuos trūkumus; ^s-110c1e08ed2ab009f8997f12
 
 
-3) Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas neatitinka bent vieno iš [[#^s-3f2294bd62ebe3253944dacb|šio straipsnio 2 dalies]] 1–6 punktuose, 8 punkte (jeigu prašoma išduoti licenciją verstis didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais), 9 punkte (jeigu prašoma išduoti licenciją verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba), 11 punkte (jeigu prašoma išduoti licenciją verstis didmenine prekyba neapdorotu tabaku), 12 punkte (jeigu prašoma išduoti licenciją verstis tabako gaminių gamyba, licenciją verstis didmenine prekyba tabako gaminiais ar licenciją verstis didmenine prekyba neapdorotu tabaku) nustatytų reikalavimų; ^s-a308a79966f2197018a7c7b5
+3) Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas neatitinka bent vieno iš [[#^s-3f2294bd62ebe3253944dacb|šio straipsnio 2 dalies]] [[#^s-a2810ad0772b865393c15d10|1]]–6 punktuose, 8 punkte (jeigu prašoma išduoti licenciją verstis didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais), 9 punkte (jeigu prašoma išduoti licenciją verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba), 11 punkte (jeigu prašoma išduoti licenciją verstis didmenine prekyba neapdorotu tabaku), 12 punkte (jeigu prašoma išduoti licenciją verstis tabako gaminių gamyba, licenciją verstis didmenine prekyba tabako gaminiais ar licenciją verstis didmenine prekyba neapdorotu tabaku) nustatytų reikalavimų; ^s-a308a79966f2197018a7c7b5
 
 
 4) Lietuvos Respublikoje įsteigtas juridinis asmuo ar užsienio juridinio asmens filialas neįvykdė [[latest/TAR.41CD8BF53D8D|Lietuvos Respublikos rinkliavų įstatyme]] nustatytų reikalavimų. ^s-694d9b6aac116680a948260b
@@ -1338,7 +1338,7 @@ Nr. XIV-2105, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13998
 1) paaiškėja, kad licencijai verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba ar didmenine prekyba jais, neapdoroto tabako didmenine prekyba išduoti buvo pateikti netikslūs duomenys; ^s-fd96159ef02026ca5dcb79a3
 
 
-2) juridinis asmuo ar užsienio juridinio asmens filialas, turintis licenciją verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine ir (ar) mažmenine prekyba jais, pažeidžia šio Įstatymo 92, 94 ir [[#^s-2b5685d78c04302c17325153|99 straipsniuose]], [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] 5, 6 ir (ar) 7 punktuose nustatytus reikalavimus; ^s-da6d75892b2cc31f3ecd2d1c
+2) juridinis asmuo ar užsienio juridinio asmens filialas, turintis licenciją verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine ir (ar) mažmenine prekyba jais, pažeidžia šio Įstatymo [[#^s-dc6b47f96e0a0cd3ec7bb7dc|92]], [[#^s-30241c0c437ec6e0532fd95b|94]] ir [[#^s-2b5685d78c04302c17325153|99]] straipsniuose, [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] 5, 6 ir (ar) 7 punktuose nustatytus reikalavimus; ^s-da6d75892b2cc31f3ecd2d1c
 
 
 3) paaiškėja, kad juridinis asmuo ar užsienio juridinio asmens filialas, kuriam išduota licencija verstis mažmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais, šios veiklos nevykdo ilgiau negu vienus metus ir per šio Įstatymo [[#^s-034df7c31db17ff9318f8dd9|12 straipsnio 7 dalyje]] nurodytą terminą nesikreipė į licenciją išdavusią instituciją dėl licencijos galiojimo sustabdymo ar panaikinimo; ^s-c7c7900c39db1305a17bd408
@@ -1359,7 +1359,7 @@ Nr. XIV-2105, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13998
 2) pateikia prašymą iš licencijos verstis didmenine prekyba tabako gaminiais, su tabako gaminiais susijusiais gaminiais ar licencijos verstis didmenine prekyba neapdorotu tabaku išbraukti tabako gaminių, su tabako gaminiais susijusių gaminių ar neapdoroto tabako didmeninės prekybos sandėlio adresą ir licencijoje nebelieka įrašytų kitų sandėlių adresų; ^s-0dfc81b898d1b2328427ee85
 
 
-3) buvo įspėtas apie galimą licencijos galiojimo sustabdymą pagal [[#^s-050eeb54c9889510d28f9baf|šio straipsnio 11 dalies]] 1 ir (ar) 2, [[#^s-67bd1c45f3e3ee8844548263|4 punktus]] ir per licenciją išdavusios institucijos nustatytą terminą, kuris negali būti trumpesnis negu 10 dienų ir ilgesnis negu 30 dienų nuo licencijas išduodančios institucijos pranešimo apie įspėjimą apie galimą licencijos galiojimo sustabdymą gavimo dienos, nepašalino nurodytų pažeidimų ir nepranešė apie jų pašalinimą licenciją išdavusiai institucijai; ^s-3700c66aea177aa02c378498
+3) buvo įspėtas apie galimą licencijos galiojimo sustabdymą pagal [[#^s-050eeb54c9889510d28f9baf|šio straipsnio 11 dalies]] 1 ir (ar) [[#^s-0dfc81b898d1b2328427ee85|2]], [[#^s-67bd1c45f3e3ee8844548263|4]] punktus ir per licenciją išdavusios institucijos nustatytą terminą, kuris negali būti trumpesnis negu 10 dienų ir ilgesnis negu 30 dienų nuo licencijas išduodančios institucijos pranešimo apie įspėjimą apie galimą licencijos galiojimo sustabdymą gavimo dienos, nepašalino nurodytų pažeidimų ir nepranešė apie jų pašalinimą licenciją išdavusiai institucijai; ^s-3700c66aea177aa02c378498
 
 
 4) buvo įspėtas apie galimą licencijos galiojimo sustabdymą pagal [[#^s-c7c7900c39db1305a17bd408|šio straipsnio 11 dalies 3 punktą]] ir per licenciją išdavusios institucijos nustatytą terminą, kuris negali būti trumpesnis negu 10 dienų ir ilgesnis negu 30 dienų nuo licencijas išduodančios institucijos pranešimo apie įspėjimą apie galimą licencijos galiojimo sustabdymą gavimo dienos, neinformavo licenciją išdavusios institucijos, kad atnaujino veiklą; ^s-67bd1c45f3e3ee8844548263
@@ -1416,7 +1416,7 @@ Nr. XIV-2105, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13998
 4) jeigu juridiniam asmeniui ar užsienio juridinio asmens filialui, jų vadovams ar kitiems darbuotojams (veikusiems juridinio asmens ar užsienio juridinio asmens filialo vardu ar dėl jų interesų) yra įsiteisėjęs [[#^s-e8472e692a3e972967101c86|šio straipsnio 2 dalies 3 punkte]] nurodytas apkaltinamasis teismo nuosprendis dėl bausmės skyrimo, įsiteisėjęs teismo nutarimas, nutartis, įsiteisėjęs Lietuvos Respublikos muitinės, Valstybinės mokesčių inspekcijos, policijos, Tarnybos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimas dėl nuobaudos skyrimo; ^s-2de520b606cc0fea88210661
 
 
-5) šio Įstatymo [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnio]] 5, 7 ir [[#^s-03385f9fc80925b27d3b7054|8 dalyse]] nustatytais pagrindais; ^s-363d299540ee6e9d4c83599c
+5) šio Įstatymo [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnio]] [[#^s-3d61fced90585fa8dda58ecc|5]], [[#^s-86cda7c607bcfccb8f055b04|7]] ir [[#^s-3aab3ffc733b34f7b9600af7|8]] dalyse nustatytais pagrindais; ^s-363d299540ee6e9d4c83599c
 
 
 6) jeigu juridinis asmuo ar užsienio juridinio asmens filialas, kuris buvo įspėtas apie galimą licencijos galiojimo panaikinimą pagal [[#^s-5ef7b0ed00f05781b76342b1|šio straipsnio 12 dalį]] arba kuriam buvo sustabdytas licencijos galiojimas pagal [[#^s-3700c66aea177aa02c378498|šio straipsnio 13 dalies 3 punktą]], per licenciją išdavusios institucijos nustatytą terminą, kuris negali būti trumpesnis negu 10 dienų ir ilgesnis negu 30 dienų nuo licencijas išduodančios institucijos pranešimo apie įspėjimą apie galimą licencijos galiojimo panaikinimą gavimo dienos, nepašalino nurodytų pažeidimų ir apie jų pašalinimą nepranešė licenciją išdavusiai institucijai; ^s-1ce7d1ae5b075783973111e8
@@ -1425,7 +1425,7 @@ Nr. XIV-2105, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13998
 7) kitoje Europos ekonominės erdvės susitarimo dalyvėje įsteigtas juridinis asmuo ar kita organizacija ar jų filialas [[#^s-3070b7164a83ad4d0da321cf|šio straipsnio 10 dalyje]] nustatyta tvarka nepagrindė, kad juridiniam asmeniui ar kitai organizacijai ar jų filialui, ar jų vadovams nėra įsiteisėjusio [[#^s-e8472e692a3e972967101c86|šio straipsnio 2 dalies 3 punkte]] nurodyto apkaltinamojo teismo nuosprendžio, įsiteisėjusio teismo nutarimo, nutarties dėl bausmės ar nuobaudos skyrimo. ^s-01aed821e77a1c2060c4951a
 
 
-17. Licencijas išduodanti institucija privalo sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą ar licencijos galiojimą ir pranešti apie licencijos galiojimo sustabdymą, licencijos galiojimo sustabdymo ar licencijos galiojimo panaikinimą licencijos turėtojui ne vėliau kaip per 5 dienas nuo šio straipsnio 13, 14, 15 ar [[#^s-9cd6bcb2e8354ec7e907ea7e|16 dalyje]] nurodytų aplinkybių paaiškėjimo dienos. ^s-aadf72f21723f11afd7d5069
+17. Licencijas išduodanti institucija privalo sustabdyti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą ar licencijos galiojimą ir pranešti apie licencijos galiojimo sustabdymą, licencijos galiojimo sustabdymo ar licencijos galiojimo panaikinimą licencijos turėtojui ne vėliau kaip per 5 dienas nuo šio straipsnio 13, 14, 15 ar 16 dalyje nurodytų aplinkybių paaiškėjimo dienos. ^s-aadf72f21723f11afd7d5069
 
 
 18. Licencijos patikslinamos Lietuvos Respublikos Vyriausybės patvirtintose licencijavimo taisyklėse nustatyta tvarka. Licencijas patikslina jas išdavusios institucijos. ^s-bde2605cc834499eefd9ccc7
@@ -1598,16 +1598,16 @@ Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 3. Visi prekyboje tabako gaminiais dalyvaujantys ekonominės veiklos vykdytojai nuo tabako gaminių gamintojo iki paskutinio ekonominės veiklos vykdytojo prieš pirmą mažmeninės prekybos vietą privalo registruoti visus jų gaunamus tabako gaminių vienetinius pakelius, taip pat visus tarpinius judėjimus ir galutinį vienetinių pakelių perdavimą kitam subjektui. Ši pareiga įvykdoma Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka žymint ir registruojant didmenines tabako gaminių pakuotes, pavyzdžiui, blokus, transportavimo dėžes arba padėklus, jeigu yra įmanoma nustatyti visų vienetinių pakelių buvimo vietą ir juos atsekti. ^s-433a51729c852a13e013d4d6
 
 
-4. Tabako gaminių gamintojai ir importuotojai privalo sudaryti šio straipsnio 2 ir [[#^s-433a51729c852a13e013d4d6|3 dalyse]] nurodytų duomenų saugojimo sutartis su nuo tabako gaminių gamintojų ir importuotojų nepriklausomu subjektu, kuris prižiūrėtų duomenų saugyklą (duomenų bazę) visiems susijusiems duomenims saugoti. Duomenų saugyklos fizinė vieta (taip pat ir elektroninė įranga, skirta duomenims saugoti) turi būti Europos Sąjungos teritorijoje. Nepriklausomo subjekto tinkamumą, jo nepriklausomumą ir techninį pajėgumą, taip pat sutartis dėl duomenų saugojimo tvirtina Europos Komisija. ^s-06a669dd740fc0c143b3940d
+4. Tabako gaminių gamintojai ir importuotojai privalo sudaryti šio straipsnio [[#^s-4f8cdd33ce0f34f685b59bdd|2]] ir [[#^s-433a51729c852a13e013d4d6|3]] dalyse nurodytų duomenų saugojimo sutartis su nuo tabako gaminių gamintojų ir importuotojų nepriklausomu subjektu, kuris prižiūrėtų duomenų saugyklą (duomenų bazę) visiems susijusiems duomenims saugoti. Duomenų saugyklos fizinė vieta (taip pat ir elektroninė įranga, skirta duomenims saugoti) turi būti Europos Sąjungos teritorijoje. Nepriklausomo subjekto tinkamumą, jo nepriklausomumą ir techninį pajėgumą, taip pat sutartis dėl duomenų saugojimo tvirtina Europos Komisija. ^s-06a669dd740fc0c143b3940d
 
 
 5. [[#^s-06a669dd740fc0c143b3940d|Šio straipsnio 4 dalyje]] nurodyto nepriklausomo subjekto veiklą stebi išorės auditorius, kurį pasiūlo ir kuriam už darbą moka tabako gaminių gamintojas ar importuotojas ir kurį patvirtina Europos Komisija. Išorės auditorius Lietuvos Respublikos Vyriausybės įgaliotai institucijai ir Europos Komisijai pateikia kasmetinę ataskaitą, kurioje vertinami su duomenų saugyklos prieiga susiję pažeidimai. ^s-b5fef6c6a518a58ab84d3587
 
 
-6. [[#^s-06a669dd740fc0c143b3940d|Šio straipsnio 4 dalyje]] nurodytas nepriklausomas subjektas šio Įstatymo [[#^s-61fcaae6f62a4ad130234333|26 straipsnio 13 dalyje]] nurodytoms institucijoms, kitoms teisėsaugos institucijoms, Europos Komisijai ir išorės auditoriams privalo suteikti prieigą prie duomenų saugyklų. Šio straipsnio 2 ir [[#^s-433a51729c852a13e013d4d6|3 dalyse]] nurodyti duomenys gali būti pateikti tabako gaminių gamintojams ar importuotojams, jeigu užtikrinama, kad neskelbtina komercinė informacija bus tinkamai apsaugota laikantis atitinkamų Europos Sąjungos ir Lietuvos Respublikos teisės aktų. ^s-2ed81f8e991ddf03bb9a1374
+6. [[#^s-06a669dd740fc0c143b3940d|Šio straipsnio 4 dalyje]] nurodytas nepriklausomas subjektas šio Įstatymo [[#^s-61fcaae6f62a4ad130234333|26 straipsnio 13 dalyje]] nurodytoms institucijoms, kitoms teisėsaugos institucijoms, Europos Komisijai ir išorės auditoriams privalo suteikti prieigą prie duomenų saugyklų. Šio straipsnio [[#^s-4f8cdd33ce0f34f685b59bdd|2]] ir [[#^s-433a51729c852a13e013d4d6|3]] dalyse nurodyti duomenys gali būti pateikti tabako gaminių gamintojams ar importuotojams, jeigu užtikrinama, kad neskelbtina komercinė informacija bus tinkamai apsaugota laikantis atitinkamų Europos Sąjungos ir Lietuvos Respublikos teisės aktų. ^s-2ed81f8e991ddf03bb9a1374
 
 
-TAR pastaba. [[#^s-e3b5b76699807d82a7494078|141 straipsnio]] 2, 3, 4, 5 ir [[#^s-2ed81f8e991ddf03bb9a1374|6 dalių]] nuostatos cigaretėms ir suktinių tabakui įsigalioja 2019 m. gegužės 20 d., kitiems, negu cigaretės ir suktinių tabakas, tabako gaminiams – 2024 m. gegužės 20 d.
+TAR pastaba. [[#^s-e3b5b76699807d82a7494078|141 straipsnio]] [[#^s-4f8cdd33ce0f34f685b59bdd|2]], [[#^s-433a51729c852a13e013d4d6|3]], [[#^s-06a669dd740fc0c143b3940d|4]], [[#^s-b5fef6c6a518a58ab84d3587|5]] ir 6 dalių nuostatos cigaretėms ir suktinių tabakui įsigalioja 2019 m. gegužės 20 d., kitiems, negu cigaretės ir suktinių tabakas, tabako gaminiams – 2024 m. gegužės 20 d.
 Papildyta straipsniu:
 Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
 
@@ -1733,7 +1733,7 @@ Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
 5. Mažmeninės prekybos vietose Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatyta tvarka taip pat privalo būti pateikta informacija (įspėjimai) apie kenksmingą tabako gaminių vartojimo poveikį sveikatai ir apie draudimą parduoti tabako gaminius asmenims iki 18 metų. ^s-4e3a9cc6bfc070ca6857a08f
 
 
-6. [[#^s-c865f291a759292b8b57496d|Šio straipsnio 3 dalyje]] nurodytą informaciją leidžiama pateikti tik tose vietose, kur prekiaujama tabako gaminiais, su tabako gaminiais susijusiais gaminiais ir įrenginiais, skirtais šiems gaminiams vartoti. Ji negali būti pateikiama lankstinukuose, skrajutėse ir kitokiomis reklamos priemonėmis, skirtomis vartotojams išsinešti, be to, mažmeninės prekybos vietose draudžiama pateikti tabako gaminių, su tabako gaminiais susijusių gaminių ar jų vienetinių pakelių, ar įrenginių, skirtų šiems gaminiams vartoti, imitacijas ir atvaizdus. Mažmeninės prekybos vietose negali būti pateikiama jokia kita šio straipsnio 3 ir [[#^s-4e3a9cc6bfc070ca6857a08f|5 dalyse]] nenustatyta vaizdinė ar grafinė informacija apie tabako gaminius, su tabako gaminiais susijusius gaminius ir įrenginius, skirtus šiems gaminiams vartoti. ^s-609c51732ec5409689a95a8c
+6. [[#^s-c865f291a759292b8b57496d|Šio straipsnio 3 dalyje]] nurodytą informaciją leidžiama pateikti tik tose vietose, kur prekiaujama tabako gaminiais, su tabako gaminiais susijusiais gaminiais ir įrenginiais, skirtais šiems gaminiams vartoti. Ji negali būti pateikiama lankstinukuose, skrajutėse ir kitokiomis reklamos priemonėmis, skirtomis vartotojams išsinešti, be to, mažmeninės prekybos vietose draudžiama pateikti tabako gaminių, su tabako gaminiais susijusių gaminių ar jų vienetinių pakelių, ar įrenginių, skirtų šiems gaminiams vartoti, imitacijas ir atvaizdus. Mažmeninės prekybos vietose negali būti pateikiama jokia kita šio straipsnio [[#^s-c865f291a759292b8b57496d|3]] ir [[#^s-4e3a9cc6bfc070ca6857a08f|5]] dalyse nenustatyta vaizdinė ar grafinė informacija apie tabako gaminius, su tabako gaminiais susijusius gaminius ir įrenginius, skirtus šiems gaminiams vartoti. ^s-609c51732ec5409689a95a8c
 
 
 Straipsnio pakeitimai:
@@ -2026,10 +2026,10 @@ Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 ### 26 straipsnis. Ekonominės sankcijos ^s-7da4e3cbe31b6aac3ba185e7
 
 
-1. Už šio Įstatymo [[#^s-0b17b4aa8cbbb0d3d9886578|9 straipsnio]] 1, 2, 4, [[#^s-fedaa69acdebdef685e021f0|10 dalyse]] nurodytų reikalavimų nustatyta tvarka pateikti pranešimus, techninį dokumentą ir ataskaitą, iš kokių tabako gaminių sudedamųjų dalių pagaminti parduoti Lietuvos Respublikoje skirti tabako gaminiai, už šio Įstatymo 910 ir [[#^s-e505617795616aa4917fd552|911 straipsniuose]] nurodytų reikalavimų nustatyta tvarka pateikti pranešimus apie rūkomųjų žolinių gaminių sudedamąsias dalis ar pranešimus apie naujoviškus tabako gaminius pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. ^s-95594b5c8a854a69c7270ce0
+1. Už šio Įstatymo [[#^s-0b17b4aa8cbbb0d3d9886578|9 straipsnio]] [[#^s-4e102c34cbc773ac721bc403|1]], [[#^s-4c2f64cbabc7cf87078b06d3|2]], [[#^s-ed0fe7d44e5bf0e08bb13b27|4]], [[#^s-002c5369469f0641158ef0c1|10]] dalyse nurodytų reikalavimų nustatyta tvarka pateikti pranešimus, techninį dokumentą ir ataskaitą, iš kokių tabako gaminių sudedamųjų dalių pagaminti parduoti Lietuvos Respublikoje skirti tabako gaminiai, už šio Įstatymo [[#^s-f4670bf1defe6d320ca28664|910]] ir [[#^s-e505617795616aa4917fd552|911]] straipsniuose nurodytų reikalavimų nustatyta tvarka pateikti pranešimus apie rūkomųjų žolinių gaminių sudedamąsias dalis ar pranešimus apie naujoviškus tabako gaminius pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. ^s-95594b5c8a854a69c7270ce0
 
 
-11. Už šio Įstatymo [[#^s-dc6b47f96e0a0cd3ec7bb7dc|92 straipsnyje]], [[#^s-84b32842c570a263ef58e75e|93 straipsnio]] 1 ir [[#^s-a0ea9df1f5739f3e58ea8a35|2 dalyse]], 94, 95 ir [[#^s-ffe280b31aa3d8c62f6d0582|97 straipsniuose]] nustatytų elektroninių cigarečių sudėties, kokybės ir ženklinimo reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio penkių šimtų eurų iki trijų tūkstančių eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo keturių tūkstančių eurų iki aštuonių tūkstančių eurų bauda. ^s-5ec721a4478d090cb5fd262a
+11. Už šio Įstatymo [[#^s-dc6b47f96e0a0cd3ec7bb7dc|92 straipsnyje]], [[#^s-84b32842c570a263ef58e75e|93 straipsnio]] [[#^s-505135b9238572c5701f8e02|1]] ir [[#^s-c1d50f23623e3348ca2e548f|2]] dalyse, [[#^s-30241c0c437ec6e0532fd95b|94]], [[#^s-2778d877053d6d888e8ef76a|95]] ir [[#^s-ffe280b31aa3d8c62f6d0582|97]] straipsniuose nustatytų elektroninių cigarečių sudėties, kokybės ir ženklinimo reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio penkių šimtų eurų iki trijų tūkstančių eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo keturių tūkstančių eurų iki aštuonių tūkstančių eurų bauda. ^s-5ec721a4478d090cb5fd262a
 Straipsnio dalies pakeitimai:
 Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
 
@@ -2047,7 +2047,7 @@ Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 
 
 
-3. Už šio Įstatymo [[#^s-d5ff2d8edbd5eb0e4e900758|12 straipsnio 1 dalyje]] nustatyto draudimo įgalioti kitus asmenis ar pagal sutartį perduoti kitiems asmenims teisę verstis turimose licencijose nurodyta veikla pažeidimą, už šio Įstatymo [[#^s-18d0a24e824fcaa93b71db69|12 straipsnio]] 3, 4, 5, 6, 8, 9 ar [[#^s-fedaa69acdebdef685e021f0|10 dalyje]] nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako įsigijimo, tabako gaminių, su tabako gaminiais susijusių gaminių ar neapdoroto tabako pardavimo reikalavimų pažeidimą, už šio Įstatymo [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] 6 ar 7 punkte nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių pardavimo, laikymo ar gabenimo draudimų pažeidimą juridiniai asmenys, užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šių draudimų ir reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys, užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. ^s-a2a54024ffae28fe00f2eaf6
+3. Už šio Įstatymo [[#^s-d5ff2d8edbd5eb0e4e900758|12 straipsnio 1 dalyje]] nustatyto draudimo įgalioti kitus asmenis ar pagal sutartį perduoti kitiems asmenims teisę verstis turimose licencijose nurodyta veikla pažeidimą, už šio Įstatymo [[#^s-18d0a24e824fcaa93b71db69|12 straipsnio]] [[#^s-9fff144ef0966c3c2867d8ee|3]], [[#^s-a6d0e1d59b6c46f4d956578f|4]], [[#^s-642c90df5ab229546e3921d8|5]], [[#^s-fa663102c19c11abdc48948a|6]], [[#^s-6c86c05a658eb6c1bdf73899|8]], [[#^s-186fd1b5221fd079ed264dc6|9]] ar [[#^s-0f196b7884564ec9b5e71f51|10]] dalyje nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako įsigijimo, tabako gaminių, su tabako gaminiais susijusių gaminių ar neapdoroto tabako pardavimo reikalavimų pažeidimą, už šio Įstatymo [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] [[#^s-14fd29d73d1d2ddc1b1d653c|6]] ar [[#^s-028c463a169319d5f6111a6d|7]] punkte nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių pardavimo, laikymo ar gabenimo draudimų pažeidimą juridiniai asmenys, užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šių draudimų ir reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys, užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. ^s-a2a54024ffae28fe00f2eaf6
 Straipsnio dalies pakeitimai:
 Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 
@@ -2056,7 +2056,7 @@ Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 4. Už šio Įstatymo [[#^s-f9ef61f77569b4858e2de345|13 straipsnyje]] nustatyto draudimo parduoti oraliniam vartojimui skirtą, kramtomąjį, taip pat uostomąjį tabaką pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. ^s-545ee1eca84a296026595f90
 
 
-5. Už šio Įstatymo [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] 1 ar 4 punktuose nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako pardavimo, laikymo ar gabenimo draudimų, išskyrus [[#^s-caafef629edfeaa664fc0e1f|šio straipsnio 6 dalyje]] nustatytą atvejį, pažeidimą, už šio Įstatymo [[#^s-e3b5b76699807d82a7494078|141 straipsnio]] 1, 2, 3, [[#^s-545ee1eca84a296026595f90|4 dalyse]] nustatytų su tabako gaminių atsekamumu susijusių reikalavimų pažeidimą, jeigu tai neužtraukia baudžiamosios atsakomybės, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo  dvidešimt tūkstančių eurų iki keturiasdešimt tūkstančių eurų bauda ir panaikinamas licencijos galiojimas. Už šio Įstatymo [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] 2 ar 3 punktuose nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako pardavimo, laikymo ar gabenimo draudimų pažeidimą, jeigu tai neužtraukia baudžiamosios atsakomybės, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dvidešimt tūkstančių eurų iki keturiasdešimt tūkstančių eurų bauda ir panaikinamas visų turimų licencijų verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine ir mažmenine prekyba galiojimas, taip pat visų turimų licencijų verstis neapdoroto tabako didmenine prekyba galiojimas. ^s-3d61fced90585fa8dda58ecc
+5. Už šio Įstatymo [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] [[#^s-961ca305dc07f9ae37cf3ca4|1]] ar [[#^s-dcea82a693c5c927d72b8f02|4]] punktuose nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako pardavimo, laikymo ar gabenimo draudimų, išskyrus [[#^s-caafef629edfeaa664fc0e1f|šio straipsnio 6 dalyje]] nustatytą atvejį, pažeidimą, už šio Įstatymo [[#^s-e3b5b76699807d82a7494078|141 straipsnio]] [[#^s-ad764a1ab713a581c46a93de|1]], [[#^s-4f8cdd33ce0f34f685b59bdd|2]], [[#^s-433a51729c852a13e013d4d6|3]], [[#^s-06a669dd740fc0c143b3940d|4]] dalyse nustatytų su tabako gaminių atsekamumu susijusių reikalavimų pažeidimą, jeigu tai neužtraukia baudžiamosios atsakomybės, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo  dvidešimt tūkstančių eurų iki keturiasdešimt tūkstančių eurų bauda ir panaikinamas licencijos galiojimas. Už šio Įstatymo [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] [[#^s-94132e090af3299d2fb54cf5|2]] ar [[#^s-739d83b238a7b33045748c77|3]] punktuose nustatytų tabako gaminių, su tabako gaminiais susijusių gaminių, neapdoroto tabako pardavimo, laikymo ar gabenimo draudimų pažeidimą, jeigu tai neužtraukia baudžiamosios atsakomybės, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dvidešimt tūkstančių eurų iki keturiasdešimt tūkstančių eurų bauda ir panaikinamas visų turimų licencijų verstis tabako gaminių, su tabako gaminiais susijusių gaminių gamyba, didmenine ir mažmenine prekyba galiojimas, taip pat visų turimų licencijų verstis neapdoroto tabako didmenine prekyba galiojimas. ^s-3d61fced90585fa8dda58ecc
 Straipsnio dalies pakeitimai:
 Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
@@ -2069,13 +2069,13 @@ Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
 
 
 
-7. Už šio Įstatymo [[#^s-9d56d0a9e06df47e6abb610d|87 straipsnyje]] ir [[#^s-d109bcd366ca353f57362261|14 straipsnio 5 dalies]] 1 ar 2 punkte nustatytų reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda, už šių draudimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šio Įstatymo [[#^s-ccefc08597f0e4133e90ca6b|14 straipsnio 5 dalies 3 punkte]] nustatyto tabako gaminių, rūkomųjų žolinių gaminių, su tabako gaminiais susijusių gaminių pardavimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo keturių tūkstančių eurų iki šešių tūkstančių eurų bauda. Už šio draudimo pažeidimą, padarytą pakartotinai per trejus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo šešių tūkstančių eurų iki dešimt tūkstančių eurų bauda ir panaikinamas tik tos rūšies licencijos verstis mažmenine prekyba, pagal kurią verčiantis šia prekyba padarytas pažeidimas, galiojimas toje pačioje mažmeninės prekybos vietoje, kurioje nustatytas pakartotinis pažeidimas per trejus metus nuo baudos paskyrimo. Už šio Įstatymo [[#^s-ff17d2df85773cb6bbedcc7f|41 straipsnyje]] nustatytų tabako gaminių pateikimo rinkai draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. Už šio Įstatymo [[#^s-2b5685d78c04302c17325153|99 straipsnyje]] nustatytų rūkomųjų žolinių gaminių ženklinimo reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. ^s-86cda7c607bcfccb8f055b04
+7. Už šio Įstatymo [[#^s-9d56d0a9e06df47e6abb610d|87 straipsnyje]] ir [[#^s-d109bcd366ca353f57362261|14 straipsnio 5 dalies]] [[#^s-b2efa3b2bee371bc354638ca|1]] ar [[#^s-728bc94d5cb1470fe10184ac|2]] punkte nustatytų reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda, už šių draudimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šio Įstatymo [[#^s-ccefc08597f0e4133e90ca6b|14 straipsnio 5 dalies 3 punkte]] nustatyto tabako gaminių, rūkomųjų žolinių gaminių, su tabako gaminiais susijusių gaminių pardavimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo keturių tūkstančių eurų iki šešių tūkstančių eurų bauda. Už šio draudimo pažeidimą, padarytą pakartotinai per trejus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo šešių tūkstančių eurų iki dešimt tūkstančių eurų bauda ir panaikinamas tik tos rūšies licencijos verstis mažmenine prekyba, pagal kurią verčiantis šia prekyba padarytas pažeidimas, galiojimas toje pačioje mažmeninės prekybos vietoje, kurioje nustatytas pakartotinis pažeidimas per trejus metus nuo baudos paskyrimo. Už šio Įstatymo [[#^s-ff17d2df85773cb6bbedcc7f|41 straipsnyje]] nustatytų tabako gaminių pateikimo rinkai draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų iki dviejų tūkstančių aštuonių šimtų devyniasdešimt šešių eurų bauda. Už šio Įstatymo [[#^s-2b5685d78c04302c17325153|99 straipsnyje]] nustatytų rūkomųjų žolinių gaminių ženklinimo reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. ^s-86cda7c607bcfccb8f055b04
 Straipsnio dalies pakeitimai:
 Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
 
 
 
-8. Už šio Įstatymo [[#^s-fb88c722d15bdc86117c298d|15 straipsnio 1 dalies]] 1, 2 punktuose nustatytų prekybos tabako gaminiais, su tabako gaminiais susijusiais gaminiais draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo keturių tūkstančių eurų iki dvylikos tūkstančių eurų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per trejus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dvylikos tūkstančių eurų iki trisdešimt tūkstančių eurų bauda ir panaikinamas visų turimų licencijų verstis mažmenine prekyba tabako gaminiais ir (ar) licencijų verstis mažmenine prekyba su tabako gaminiais susijusiais gaminiais galiojimas. Už šio Įstatymo [[#^s-fb88c722d15bdc86117c298d|15 straipsnio 1 dalies]] 3, 4, 5 punktuose nustatytų prekybos tabako gaminiais, su tabako gaminiais susijusių gaminių draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šio Įstatymo [[#^s-7707541fd36c052f1cc89baf|16 straipsnyje]] nustatyto prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, pardavimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. ^s-3aab3ffc733b34f7b9600af7
+8. Už šio Įstatymo [[#^s-fb88c722d15bdc86117c298d|15 straipsnio 1 dalies]] [[#^s-1b435b48553105a131aef358|1]], [[#^s-cee532589cdffe3595db61e4|2]] punktuose nustatytų prekybos tabako gaminiais, su tabako gaminiais susijusiais gaminiais draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo keturių tūkstančių eurų iki dvylikos tūkstančių eurų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per trejus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dvylikos tūkstančių eurų iki trisdešimt tūkstančių eurų bauda ir panaikinamas visų turimų licencijų verstis mažmenine prekyba tabako gaminiais ir (ar) licencijų verstis mažmenine prekyba su tabako gaminiais susijusiais gaminiais galiojimas. Už šio Įstatymo [[#^s-fb88c722d15bdc86117c298d|15 straipsnio 1 dalies]] [[#^s-13bab64c5d9f604580df3976|3]], [[#^s-1427e89487a54fbea2972345|4]], [[#^s-b60de2c7c987051e92f77060|5]] punktuose nustatytų prekybos tabako gaminiais, su tabako gaminiais susijusių gaminių draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. Už šio Įstatymo [[#^s-7707541fd36c052f1cc89baf|16 straipsnyje]] nustatyto prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, pardavimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. ^s-3aab3ffc733b34f7b9600af7
 Straipsnio dalies pakeitimai:
 Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
 
@@ -2087,7 +2087,7 @@ Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
 
 
 
-10. Už šio Įstatymo [[#^s-f1e12a584c3bcb4f1fc0ed16|17 straipsnio]] 5 ar [[#^s-caafef629edfeaa664fc0e1f|6 dalyje]] nustatytų informacijos pateikimo reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. ^s-fedaa69acdebdef685e021f0
+10. Už šio Įstatymo [[#^s-f1e12a584c3bcb4f1fc0ed16|17 straipsnio]] [[#^s-4e3a9cc6bfc070ca6857a08f|5]] ar [[#^s-609c51732ec5409689a95a8c|6]] dalyje nustatytų informacijos pateikimo reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki aštuonių šimtų šešiasdešimt aštuonių eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių šimtų šešiasdešimt aštuonių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda. ^s-fedaa69acdebdef685e021f0
 Straipsnio dalies pakeitimai:
 Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
 
@@ -2102,7 +2102,7 @@ Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
 13. Už šio Įstatymo nuostatų pažeidimus baudas skiria: ^s-61fcaae6f62a4ad130234333
 
 
-1) Narkotikų, tabako ir alkoholio kontrolės departamentas – už [[#^s-ff17d2df85773cb6bbedcc7f|41 straipsnio]], [[#^s-9d56d0a9e06df47e6abb610d|87 straipsnio]], [[#^s-0b17b4aa8cbbb0d3d9886578|9 straipsnio]] 1, 2, 4, 10 ir 14 dalių, 93, 96, 99, 910, [[#^s-e505617795616aa4917fd552|911 straipsnių]], [[#^s-4280e510a9cfccb98c0919d1|10 straipsnio 1 dalies]], [[#^s-18d0a24e824fcaa93b71db69|12 straipsnio]] 1, 3, 4, 5, 6, 8, 9, [[#^s-fedaa69acdebdef685e021f0|10 dalių]], [[#^s-f9ef61f77569b4858e2de345|13 straipsnio]], [[#^s-c6b32810d62767c6bef1b62c|14 straipsnio 1 dalies]], [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] 1, 2, 3, 4, 6 ir 8 punktų, [[#^s-d109bcd366ca353f57362261|14 straipsnio 5 dalies]], [[#^s-e3b5b76699807d82a7494078|141 straipsnio]] 1, 2, 3, [[#^s-545ee1eca84a296026595f90|4 dalių]], 15, 151 ir [[#^s-7707541fd36c052f1cc89baf|16 straipsnių]], 161 straipsnio 1 dalies, [[#^s-4be30068b8dad69a869f7441|162 straipsnio]], [[#^s-f1e12a584c3bcb4f1fc0ed16|17 straipsnio]] 1, 4, 5 ir [[#^s-caafef629edfeaa664fc0e1f|6 dalių]], 171 ir [[#^s-55de96862069d6e0bd01232e|18 straipsnių]], [[#^s-7a174bd22826a037e13d2a46|19 straipsnio 1 dalies 5 punkto]] nuostatų pažeidimus; ^s-5fee8e5b4c4593084d72af6f
+1) Narkotikų, tabako ir alkoholio kontrolės departamentas – už [[#^s-ff17d2df85773cb6bbedcc7f|41 straipsnio]], [[#^s-9d56d0a9e06df47e6abb610d|87 straipsnio]], [[#^s-0b17b4aa8cbbb0d3d9886578|9 straipsnio]] [[#^s-4e102c34cbc773ac721bc403|1]], [[#^s-4c2f64cbabc7cf87078b06d3|2]], [[#^s-ed0fe7d44e5bf0e08bb13b27|4]], [[#^s-002c5369469f0641158ef0c1|10]] ir [[#^s-6cd9a6383caaf82dd6782205|14]] dalių, [[#^s-84b32842c570a263ef58e75e|93]], [[#^s-bd95f82391bcc47f1619ba31|96]], [[#^s-2b5685d78c04302c17325153|99]], [[#^s-f4670bf1defe6d320ca28664|910]], [[#^s-e505617795616aa4917fd552|911]] straipsnių, [[#^s-4280e510a9cfccb98c0919d1|10 straipsnio 1 dalies]], [[#^s-18d0a24e824fcaa93b71db69|12 straipsnio]] [[#^s-d5ff2d8edbd5eb0e4e900758|1]], [[#^s-9fff144ef0966c3c2867d8ee|3]], [[#^s-a6d0e1d59b6c46f4d956578f|4]], [[#^s-642c90df5ab229546e3921d8|5]], [[#^s-fa663102c19c11abdc48948a|6]], [[#^s-6c86c05a658eb6c1bdf73899|8]], [[#^s-186fd1b5221fd079ed264dc6|9]], [[#^s-0f196b7884564ec9b5e71f51|10]] dalių, [[#^s-f9ef61f77569b4858e2de345|13 straipsnio]], [[#^s-c6b32810d62767c6bef1b62c|14 straipsnio 1 dalies]], [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] [[#^s-961ca305dc07f9ae37cf3ca4|1]], [[#^s-94132e090af3299d2fb54cf5|2]], [[#^s-739d83b238a7b33045748c77|3]], [[#^s-dcea82a693c5c927d72b8f02|4]], [[#^s-14fd29d73d1d2ddc1b1d653c|6]] ir [[#^s-b589b033714c5bbb311d948b|8]] punktų, [[#^s-d109bcd366ca353f57362261|14 straipsnio 5 dalies]], [[#^s-e3b5b76699807d82a7494078|141 straipsnio]] [[#^s-ad764a1ab713a581c46a93de|1]], [[#^s-4f8cdd33ce0f34f685b59bdd|2]], [[#^s-433a51729c852a13e013d4d6|3]], [[#^s-06a669dd740fc0c143b3940d|4]] dalių, [[#^s-9b4035644d474526c1b9603e|15]], [[#^s-28600cb2760e29d2c3e15f15|151]] ir [[#^s-7707541fd36c052f1cc89baf|16]] straipsnių, 161 straipsnio 1 dalies, [[#^s-4be30068b8dad69a869f7441|162 straipsnio]], [[#^s-f1e12a584c3bcb4f1fc0ed16|17 straipsnio]] [[#^s-59fab15f84da3f5766f57f68|1]], [[#^s-2c07ed55ed20b260ae6935af|4]], [[#^s-4e3a9cc6bfc070ca6857a08f|5]] ir [[#^s-609c51732ec5409689a95a8c|6]] dalių, [[#^s-704ed496f68fc8459beceddc|171]] ir [[#^s-55de96862069d6e0bd01232e|18]] straipsnių, [[#^s-7a174bd22826a037e13d2a46|19 straipsnio 1 dalies 5 punkto]] nuostatų pažeidimus; ^s-5fee8e5b4c4593084d72af6f
 Straipsnio punkto pakeitimai:
 Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
 Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
@@ -2110,25 +2110,25 @@ Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
 
 
 
-2) Valstybinė vartotojų teisių apsaugos tarnyba – už 87, 92, 94, 95 ir [[#^s-ffe280b31aa3d8c62f6d0582|97 straipsnių]], [[#^s-2b5685d78c04302c17325153|99 straipsnio]], [[#^s-4280e510a9cfccb98c0919d1|10 straipsnio 1 dalies]], [[#^s-f9ef61f77569b4858e2de345|13 straipsnio]], [[#^s-c6b32810d62767c6bef1b62c|14 straipsnio 1 dalies]], [[#^s-a2a54024ffae28fe00f2eaf6|3 dalies]] 1–8 punktų, [[#^s-3d61fced90585fa8dda58ecc|5 dalies]] 1 ir 2 punktų, [[#^s-e3b5b76699807d82a7494078|141 straipsnio]] 1, 2, 3, [[#^s-545ee1eca84a296026595f90|4 dalių]], [[#^s-4f8238115e02101bb220630a|18 straipsnio 1 dalies]] 8 ir 9 punktų nuostatų pažeidimus; ^s-dbc279107f95c63bb60ef7df
+2) Valstybinė vartotojų teisių apsaugos tarnyba – už [[#^s-9d56d0a9e06df47e6abb610d|87]], [[#^s-dc6b47f96e0a0cd3ec7bb7dc|92]], [[#^s-30241c0c437ec6e0532fd95b|94]], [[#^s-2778d877053d6d888e8ef76a|95]] ir [[#^s-ffe280b31aa3d8c62f6d0582|97]] straipsnių, [[#^s-2b5685d78c04302c17325153|99 straipsnio]], [[#^s-4280e510a9cfccb98c0919d1|10 straipsnio 1 dalies]], [[#^s-f9ef61f77569b4858e2de345|13 straipsnio]], [[#^s-c6b32810d62767c6bef1b62c|14 straipsnio 1 dalies]], [[#^s-a2a54024ffae28fe00f2eaf6|3 dalies]] 1–8 punktų, [[#^s-3d61fced90585fa8dda58ecc|5 dalies]] 1 ir 2 punktų, [[#^s-e3b5b76699807d82a7494078|141 straipsnio]] [[#^s-ad764a1ab713a581c46a93de|1]], [[#^s-4f8cdd33ce0f34f685b59bdd|2]], [[#^s-433a51729c852a13e013d4d6|3]], [[#^s-06a669dd740fc0c143b3940d|4]] dalių, [[#^s-4f8238115e02101bb220630a|18 straipsnio 1 dalies]] [[#^s-9ee133a5392e42aebd88e20e|8]] ir [[#^s-c2b36d1c975079b3fef31f3b|9]] punktų nuostatų pažeidimus; ^s-dbc279107f95c63bb60ef7df
 
 
-3) Valstybinė mokesčių inspekcija – už [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] 1, 4 ir 8 punktų, [[#^s-e3b5b76699807d82a7494078|141 straipsnio]] 1, 2, 3, [[#^s-545ee1eca84a296026595f90|4 dalių]] nuostatų pažeidimus; ^s-3283b359e16b540bd731fa9b
+3) Valstybinė mokesčių inspekcija – už [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] [[#^s-961ca305dc07f9ae37cf3ca4|1]], [[#^s-dcea82a693c5c927d72b8f02|4]] ir [[#^s-b589b033714c5bbb311d948b|8]] punktų, [[#^s-e3b5b76699807d82a7494078|141 straipsnio]] [[#^s-ad764a1ab713a581c46a93de|1]], [[#^s-4f8cdd33ce0f34f685b59bdd|2]], [[#^s-433a51729c852a13e013d4d6|3]], [[#^s-06a669dd740fc0c143b3940d|4]] dalių nuostatų pažeidimus; ^s-3283b359e16b540bd731fa9b
 
 
-4) savivaldybių vykdomosios institucijos – už [[#^s-4280e510a9cfccb98c0919d1|10 straipsnio 1 dalyje]] ir [[#^s-c6b32810d62767c6bef1b62c|14 straipsnio 1 dalyje]] nustatytų reikalavimų pažeidimus mažmeninės prekybos vietose, taip pat už 15 ir [[#^s-7707541fd36c052f1cc89baf|16 straipsnių]], [[#^s-59fab15f84da3f5766f57f68|17 straipsnio 1 dalies]] (išorinės reklamos priemonėse), 5 ir [[#^s-caafef629edfeaa664fc0e1f|6 dalių]], [[#^s-4f8238115e02101bb220630a|18 straipsnio 1 dalies]] nuostatų pažeidimus; ^s-0020e0feb9fcc5c7047fcb34
+4) savivaldybių vykdomosios institucijos – už [[#^s-4280e510a9cfccb98c0919d1|10 straipsnio 1 dalyje]] ir [[#^s-c6b32810d62767c6bef1b62c|14 straipsnio 1 dalyje]] nustatytų reikalavimų pažeidimus mažmeninės prekybos vietose, taip pat už [[#^s-9b4035644d474526c1b9603e|15]] ir [[#^s-7707541fd36c052f1cc89baf|16]] straipsnių, [[#^s-59fab15f84da3f5766f57f68|17 straipsnio 1 dalies]] (išorinės reklamos priemonėse), [[#^s-4e3a9cc6bfc070ca6857a08f|5]] ir [[#^s-609c51732ec5409689a95a8c|6]] dalių, [[#^s-4f8238115e02101bb220630a|18 straipsnio 1 dalies]] nuostatų pažeidimus; ^s-0020e0feb9fcc5c7047fcb34
 4 punkto redakcija nuo 2025-01-02:
-4) savivaldybių administracijos – už [[#^s-4280e510a9cfccb98c0919d1|10 straipsnio 1 dalyje]] ir [[#^s-c6b32810d62767c6bef1b62c|14 straipsnio 1 dalyje]] nustatytų reikalavimų pažeidimus mažmeninės prekybos vietose, taip pat už 15 ir [[#^s-7707541fd36c052f1cc89baf|16 straipsnių]], [[#^s-59fab15f84da3f5766f57f68|17 straipsnio 1 dalies]] (išorinės reklamos priemonėse), 5 ir [[#^s-caafef629edfeaa664fc0e1f|6 dalių]], [[#^s-4f8238115e02101bb220630a|18 straipsnio 1 dalies]] nuostatų pažeidimus; ^s-0945fcf74439599d49877bad
+4) savivaldybių administracijos – už [[#^s-4280e510a9cfccb98c0919d1|10 straipsnio 1 dalyje]] ir [[#^s-c6b32810d62767c6bef1b62c|14 straipsnio 1 dalyje]] nustatytų reikalavimų pažeidimus mažmeninės prekybos vietose, taip pat už [[#^s-9b4035644d474526c1b9603e|15]] ir [[#^s-7707541fd36c052f1cc89baf|16]] straipsnių, [[#^s-59fab15f84da3f5766f57f68|17 straipsnio 1 dalies]] (išorinės reklamos priemonėse), [[#^s-4e3a9cc6bfc070ca6857a08f|5]] ir [[#^s-609c51732ec5409689a95a8c|6]] dalių, [[#^s-4f8238115e02101bb220630a|18 straipsnio 1 dalies]] nuostatų pažeidimus; ^s-0945fcf74439599d49877bad
 Straipsnio punkto pakeitimai:
 Nr. XIV-2105, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13998
 Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
 
 
 
-5) policijos įstaigų vadovai ar jų įgalioti asmenys – už [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] 1, 2, 3 ir 8 punktų ir [[#^s-e3b5b76699807d82a7494078|141 straipsnio]] 1, 2 ir [[#^s-a2a54024ffae28fe00f2eaf6|3 dalių]] nuostatų pažeidimus; ^s-8679a3e07e5c1f0bbbaf76b4
+5) policijos įstaigų vadovai ar jų įgalioti asmenys – už [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] [[#^s-961ca305dc07f9ae37cf3ca4|1]], [[#^s-94132e090af3299d2fb54cf5|2]], [[#^s-739d83b238a7b33045748c77|3]] ir [[#^s-b589b033714c5bbb311d948b|8]] punktų ir [[#^s-e3b5b76699807d82a7494078|141 straipsnio]] [[#^s-ad764a1ab713a581c46a93de|1]], [[#^s-4f8cdd33ce0f34f685b59bdd|2]] ir [[#^s-433a51729c852a13e013d4d6|3]] dalių nuostatų pažeidimus; ^s-8679a3e07e5c1f0bbbaf76b4
 
 
-6) Lietuvos Respublikos muitinės pareigūnai – už [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] 1, 3 ir 8 punktų ir [[#^s-e3b5b76699807d82a7494078|141 straipsnio]] 1, 2, 3, [[#^s-545ee1eca84a296026595f90|4 dalių]] nuostatų pažeidimus. ^s-0d5467c5d630e7cca6e11ed8
+6) Lietuvos Respublikos muitinės pareigūnai – už [[#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] [[#^s-961ca305dc07f9ae37cf3ca4|1]], [[#^s-739d83b238a7b33045748c77|3]] ir [[#^s-b589b033714c5bbb311d948b|8]] punktų ir [[#^s-e3b5b76699807d82a7494078|141 straipsnio]] [[#^s-ad764a1ab713a581c46a93de|1]], [[#^s-4f8cdd33ce0f34f685b59bdd|2]], [[#^s-433a51729c852a13e013d4d6|3]], [[#^s-06a669dd740fc0c143b3940d|4]] dalių nuostatų pažeidimus. ^s-0d5467c5d630e7cca6e11ed8
 
 
 Straipsnio pakeitimai:
@@ -2314,7 +2314,7 @@ Nr. XIV-2105, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13998
 
 
 
-2. Nesumokėtas baudas išieško antstoliai vykdydami pateiktus šio Įstatymo [[#^s-61fcaae6f62a4ad130234333|26 straipsnio 13 dalyje]] nurodytų institucijų nutarimus Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Nutarimas gali būti pateiktas vykdyti ne vėliau kaip per trejus metus nuo nutarimo priėmimo dienos. ^s-bbd720398e135c68a207872a
+2. Nesumokėtas baudas išieško antstoliai vykdydami pateiktus šio Įstatymo [[#^s-61fcaae6f62a4ad130234333|26 straipsnio 13 dalyje]] nurodytų institucijų nutarimus [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Nutarimas gali būti pateiktas vykdyti ne vėliau kaip per trejus metus nuo nutarimo priėmimo dienos. ^s-bbd720398e135c68a207872a
 
 
 
@@ -2431,13 +2431,13 @@ susijusių gaminių kontrolės
 2. 2003 m. gegužės 26 d. Europos Parlamento ir Tarybos direktyva 2003/33/EB dėl valstybių narių įstatymų ir kitų teisės aktų, reglamentuojančių tabako produktų reklamą ir rėmimą, suderinimo (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 460). ^s-71140ac8f17d7eecd532fa1c
 
 
-3. 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiantis Europos cheminių medžiagų agentūrą, iš dalies keičiantis Direktyvą 1999/45/EB bei panaikinantis Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1). ^s-308ac4518598ff4512797de3
+3. 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiantis Europos cheminių medžiagų agentūrą, iš dalies keičiantis Direktyvą 1999/45/EB bei panaikinantis Tarybos reglamentą (EEB) Nr. 793/93, Komisijos [reglamentą (EB) Nr. 1488/94](https://eur-lex.europa.eu/eli/reg/1488/94/oj), Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1). ^s-308ac4518598ff4512797de3
 
 
-4. 2012 m. kovo 7 d. Komisijos direktyva 2012/9/ES, kuria iš dalies keičiamas Europos Parlamento ir Tarybos direktyvos 2001/37/EB dėl valstybių narių įstatymų ir kitų teisės aktų, taikomų tabako gaminių gamybai, pateikimui ir pardavimui, suderinimo I priedas (OL 2012 L 69, p. 15), su paskutiniais pakeitimais, padarytais 2015 m. liepos 13 d. Komisijos direktyva (ES) 2015/1139 (OL 2015 L 185, p. 15). ^s-33ca8623c91ec49b9e912803
+4. 2012 m. kovo 7 d. Komisijos direktyva 2012/9/ES, kuria iš dalies keičiamas Europos Parlamento ir Tarybos direktyvos 2001/37/EB dėl valstybių narių įstatymų ir kitų teisės aktų, taikomų tabako gaminių gamybai, pateikimui ir pardavimui, suderinimo I priedas (OL 2012 L 69, p. 15), su paskutiniais pakeitimais, padarytais 2015 m. liepos 13 d. Komisijos [direktyva (ES) 2015/1139](https://eur-lex.europa.eu/eli/dir/2015/1139/oj) (OL 2015 L 185, p. 15). ^s-33ca8623c91ec49b9e912803
 
 
-5. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/40/ES dėl valstybių narių įstatymų ir kitų teisės aktų nuostatų, reglamentuojančių tabako ir susijusių gaminių gamybą, pateikimą ir pardavimą, suderinimo ir kuria panaikinama Direktyva 2001/37/EB su paskutiniais pakeitimais, padarytais 2022 m. birželio 29 d. Komisijos deleguotąja direktyva (ES) 2022/2100, kuria dėl tam tikrų išimčių panaikinimo kaitinamojo tabako gaminiams iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2014/40/ES. ^s-991d99e96f43dbffc2e77d6f
+5. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/40/ES dėl valstybių narių įstatymų ir kitų teisės aktų nuostatų, reglamentuojančių tabako ir susijusių gaminių gamybą, pateikimą ir pardavimą, suderinimo ir kuria panaikinama Direktyva 2001/37/EB su paskutiniais pakeitimais, padarytais 2022 m. birželio 29 d. Komisijos deleguotąja [direktyva (ES) 2022/2100](https://eur-lex.europa.eu/eli/dir/2022/2100/oj), kuria dėl tam tikrų išimčių panaikinimo kaitinamojo tabako gaminiams iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2014/40/ES. ^s-991d99e96f43dbffc2e77d6f
 Punkto pakeitimai:
 Nr. XIV-2083, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13985
 
@@ -2494,8 +2494,8 @@ Nr. IX-1336, 2003-01-28, Žin., 2003, Nr. 17-710 (2003-02-19)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1840, 2003-11-20, Žin., 2003, Nr. 117-5317 (2003-12-17)
 [[latest/TAR.084B9677FCAF|TABAKO KONTROLĖS ĮSTATYMO PAKEITIMO IR LIETUVOS RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS]]
-Šis Įstatymas, išskyrus šio Įstatymo pirmajame skirsnyje išdėstyto Tabako kontrolės įstatymo 26 straipsnio 12 dalį ir šio skirsnio [[#^s-f79bbc7298425f4b0f04aaa8|2 straipsnį]], įsigalioja nuo 2004 m. gegužės 1 d.
-Šio Įstatymo pirmajame skirsnyje išdėstyto Tabako kontrolės įstatymo 26 straipsnio 12 dalyje numatyta ekonominė sankcija juridiniams asmenims taikoma nuo 2006 m. gegužės 1 d.
+Šis Įstatymas, išskyrus šio Įstatymo pirmajame skirsnyje išdėstyto [[latest/TAR.F8090E375DA0|Tabako kontrolės įstatymo 26 straipsnio 12 dalį]] ir šio skirsnio [[#^s-f79bbc7298425f4b0f04aaa8|2 straipsnį]], įsigalioja nuo 2004 m. gegužės 1 d.
+Šio Įstatymo pirmajame skirsnyje išdėstyto [[latest/TAR.F8090E375DA0|Tabako kontrolės įstatymo 26 straipsnio 12 dalyje]] numatyta ekonominė sankcija juridiniams asmenims taikoma nuo 2006 m. gegužės 1 d.
 Nauja įstatymo redakcija nuo 2004 m. gegužės 1 d.
 
 9.
@@ -2541,7 +2541,7 @@ Nr. XI-1766, 2011-12-01, Žin., 2011, Nr. 153-7203 (2011-12-15)
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2102, 2012-06-21, Žin., 2012, Nr. 78-4024 (2012-07-04)
-[[#^s-7da4e3cbe31b6aac3ba185e7|TABAKO KONTROLĖS ĮSTATYMO 2, 4, 5, 6, 8, 9(1), 11, 12, 14, 15, 17, 18, 25, 26 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, IV SKYRIAUS PAVADINIMO PAKEITIMO ĮSTATYMAS
+TABAKO KONTROLĖS ĮSTATYMO 2, 4, 5, 6, 8, 9(1), [[#^s-b6cd6341dccf3bbcca85da15|11]], [[#^s-18d0a24e824fcaa93b71db69|12]], [[#^s-48d82886d0f62cc8fbdc57a6|14]], [[#^s-9b4035644d474526c1b9603e|15]], [[#^s-f1e12a584c3bcb4f1fc0ed16|17]], [[#^s-55de96862069d6e0bd01232e|18]], [[#^s-0cb80def816d9386fc142a9b|25]], [[#^s-7da4e3cbe31b6aac3ba185e7|26]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, IV SKYRIAUS PAVADINIMO PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-7707541fd36c052f1cc89baf|16 straipsnį]], įsigalioja 2012 m. rugsėjo 1 d.
 
 17.
@@ -2562,17 +2562,17 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 1997.02.13, Žin., 1997, Nr.15-314 (1997.02.19)
-DĖL [[latest/TAR.9E5C5C16B6E6#^s-f6ca5ba22b2d8471b501f3f7|LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 1 IR 30 STRAIPSNIŲ]], [[#^s-b6cd6341dccf3bbcca85da15|LIETUVOS RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO 1, 3 IR 11 STRAIPSNIŲ]], TAIP PAT LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1996 M. VASARIO 2 D. NUTARIMO NR. 179 “DĖL ALKOHOLIO REKLAMOS KONTROLĖS” ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+DĖL LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO [[#^s-0cf3abbe018cfb7fdeeae02f|1]] IR [[#^s-1ffef89a34088554134a04f5|30]] STRAIPSNIŲ, LIETUVOS RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO [[#^s-0cf3abbe018cfb7fdeeae02f|1]], [[#^s-8aada8566afd0837d8727085|3]] IR [[#^s-b6cd6341dccf3bbcca85da15|11]] STRAIPSNIŲ, TAIP PAT LIETUVOS RESPUBLIKOS VYRIAUSYBĖS [1996 M. VASARIO 2 D. NUTARIMO NR. 179](https://e-tar.lt/portal/lt/legalAct/TAR.31B7E19B148F) “DĖL ALKOHOLIO REKLAMOS KONTROLĖS” ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 2.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2005-11-03, Žin., 2005, Nr. 131-4743 (2005-11-05)
-DĖL LIETUVOS RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO 21 STRAIPSNIO 2 DALIES (2000 M. KOVO 16 D. REDAKCIJA), 3 DALIES (2002 M. BIRŽELIO 11 D. REDAKCIJA), 4 DALIES (1999 M. GEGUŽĖS 11 D. REDAKCIJA), [[#^s-79496f34c03a94b5d92a1bb3|7 DALIES]] (2002 M. BIRŽELIO 11 D. REDAKCIJA) IR DĖL ŠIO ĮSTATYMO (2003 M. LAPKRIČIO 20 D. REDAKCIJA) [[#^s-7da4e3cbe31b6aac3ba185e7|26 STRAIPSNIO]] 5, 7, [[#^s-744fac18c96b519998e93b26|14 DALIŲ]] ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO 21 STRAIPSNIO 2 DALIES (2000 M. KOVO 16 D. REDAKCIJA), 3 DALIES (2002 M. BIRŽELIO 11 D. REDAKCIJA), 4 DALIES (1999 M. GEGUŽĖS 11 D. REDAKCIJA), 7 DALIES (2002 M. BIRŽELIO 11 D. REDAKCIJA) IR DĖL ŠIO ĮSTATYMO (2003 M. LAPKRIČIO 20 D. REDAKCIJA) 26 STRAIPSNIO 5, 7, 14 DALIŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.C606E2FCBEF3)
 
 3.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2008-09-17, Žin., 2008, Nr. 108-4136 (2008-09-20)
-DĖL [[#^s-3d61fced90585fa8dda58ecc|LIETUVOS RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO 26 STRAIPSNIO 5 DALIES]] (2003 M. LAPKRIČIO 20 D. REDAKCIJA), 17 DALIES (2003 M. LAPKRIČIO 20 D. REDAKCIJA), [[#^s-77e1db3201863b188d0b3701|33 STRAIPSNIO]] (2003 M. LAPKRIČIO 20 D. REDAKCIJA) IR LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2004 M. BALANDŽIO 7 D. NUTARIMU NR. 383 "DĖL MAŽMENINĖS PREKYBOS TABAKO GAMINIAIS LICENCIJAVIMO TAISYKLIŲ IR TABAKO GAMINIŲ PARDAVIMO TAISYKLIŲ PATVIRTINIMO" PATVIRTINTŲ MAŽMENINĖS PREKYBOS TABAKO GAMINIAIS LICENCIJAVIMO TAISYKLIŲ 39 PUNKTO (2006 M. GRUODŽIO 18 D. REDAKCIJA), 40 PUNKTO (2006 M. GRUODŽIO 18 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+DĖL LIETUVOS RESPUBLIKOS TABAKO KONTROLĖS ĮSTATYMO [[#^s-3d61fced90585fa8dda58ecc|26 STRAIPSNIO 5 DALIES]] (2003 M. LAPKRIČIO 20 D. REDAKCIJA), 17 DALIES (2003 M. LAPKRIČIO 20 D. REDAKCIJA), [[#^s-77e1db3201863b188d0b3701|33 STRAIPSNIO]] (2003 M. LAPKRIČIO 20 D. REDAKCIJA) IR LIETUVOS RESPUBLIKOS VYRIAUSYBĖS [2004 M. BALANDŽIO 7 D. NUTARIMU NR. 383](https://e-tar.lt/portal/lt/legalAct/TAR.88E934420C76) ["DĖL MAŽMENINĖS PREKYBOS TABAKO GAMINIAIS LICENCIJAVIMO TAISYKLIŲ IR TABAKO GAMINIŲ PARDAVIMO TAISYKLIŲ PATVIRTINIMO"](https://e-tar.lt/portal/lt/legalAct/TAR.88E934420C76) PATVIRTINTŲ MAŽMENINĖS PREKYBOS TABAKO GAMINIAIS LICENCIJAVIMO TAISYKLIŲ 39 PUNKTO (2006 M. GRUODŽIO 18 D. REDAKCIJA), 40 PUNKTO (2006 M. GRUODŽIO 18 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 
 
@@ -2586,12 +2586,12 @@ Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 [[#^s-7da4e3cbe31b6a
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1526, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21287
-Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 11, 14, 26, 27, 29, 30, 31 ir [[#^s-77e1db3201863b188d0b3701|33 straipsnių]] pakeitimo ir Įstatymo papildymo 29-1 straipsniu įstatymas
+Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 [[#^s-b6cd6341dccf3bbcca85da15|11]], [[#^s-48d82886d0f62cc8fbdc57a6|14]], [[#^s-7da4e3cbe31b6aac3ba185e7|26]], [[#^s-32010ca18f17d64d33b27dca|27]], [[#^s-9c80e3b1c97ca0fdcd67af8d|29]], [[#^s-1ffef89a34088554134a04f5|30]], [[#^s-7d1f89ccfd9ad90c7ecfc4e6|31]] ir [[#^s-77e1db3201863b188d0b3701|33]] straipsnių pakeitimo ir Įstatymo papildymo 29-1 straipsniu įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1529, 2014-12-23, paskelbta TAR 2015-01-06, i. k. 2015-00098
-Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 pavadinimo, 1, 2, 3, 14, 17, 18, [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnių]], II skyriaus, III, IV skyrių, III skyriaus trečiojo skirsnio pavadinimų, priedo pakeitimo ir Įstatymo papildymo 16-1, 16-2, 17-1 straipsniais įstatymas
+Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 pavadinimo, [[#^s-0cf3abbe018cfb7fdeeae02f|1]], [[#^s-f79bbc7298425f4b0f04aaa8|2]], [[#^s-8aada8566afd0837d8727085|3]], [[#^s-48d82886d0f62cc8fbdc57a6|14]], [[#^s-f1e12a584c3bcb4f1fc0ed16|17]], [[#^s-55de96862069d6e0bd01232e|18]], [[#^s-7da4e3cbe31b6aac3ba185e7|26]] straipsnių, II skyriaus, III, IV skyrių, III skyriaus trečiojo skirsnio pavadinimų, priedo pakeitimo ir Įstatymo papildymo 16-1, 16-2, 17-1 straipsniais įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2616,42 +2616,42 @@ Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kont
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1868, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10769
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 11, 25 ir [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-b6cd6341dccf3bbcca85da15|11]], [[#^s-0cb80def816d9386fc142a9b|25]] ir [[#^s-7da4e3cbe31b6aac3ba185e7|26]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1916, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11094
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 1, 2, 10, 11, 12, 14 ir [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-0cf3abbe018cfb7fdeeae02f|1]], [[#^s-f79bbc7298425f4b0f04aaa8|2]], [[#^s-9c35701b52f38d93912b0b41|10]], [[#^s-b6cd6341dccf3bbcca85da15|11]], [[#^s-18d0a24e824fcaa93b71db69|12]], [[#^s-48d82886d0f62cc8fbdc57a6|14]] ir [[#^s-7da4e3cbe31b6aac3ba185e7|26]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1917, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11095
-Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 pavadinimo, 1, 2, 3, 14, 17, 18, [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnių]], II skyriaus, III, IV skyrių, III skyriaus trečiojo skirsnio pavadinimų, priedo pakeitimo ir Įstatymo papildymo 16-1, 16-2, 17-1 straipsniais [[latest/abfca110957511e4862ed7d5b632e0aa|įstatymo Nr. XII-1529]] [[#^s-e6332f2e56a8c1e01f8f55fe|5 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos tabako kontrolės įstatymo Nr. I-1143 pavadinimo, [[#^s-0cf3abbe018cfb7fdeeae02f|1]], [[#^s-f79bbc7298425f4b0f04aaa8|2]], [[#^s-8aada8566afd0837d8727085|3]], [[#^s-48d82886d0f62cc8fbdc57a6|14]], [[#^s-f1e12a584c3bcb4f1fc0ed16|17]], [[#^s-55de96862069d6e0bd01232e|18]], [[#^s-7da4e3cbe31b6aac3ba185e7|26]] straipsnių, II skyriaus, III, IV skyrių, III skyriaus trečiojo skirsnio pavadinimų, priedo pakeitimo ir Įstatymo papildymo 16-1, 16-2, 17-1 straipsniais [[latest/abfca110957511e4862ed7d5b632e0aa|įstatymo Nr. XII-1529]] [[#^s-e6332f2e56a8c1e01f8f55fe|5 straipsnio]] pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1918, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11096
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 1, 2, 8, [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnių]], priedo pakeitimo ir Įstatymo papildymo nauju 1 priedu įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-0cf3abbe018cfb7fdeeae02f|1]], [[#^s-f79bbc7298425f4b0f04aaa8|2]], [[#^s-5e65a04a2b238ce9179db173|8]], [[#^s-7da4e3cbe31b6aac3ba185e7|26]] straipsnių, priedo pakeitimo ir Įstatymo papildymo nauju 1 priedu įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2419, 2016-06-09, paskelbta TAR 2016-06-22, i. k. 2016-17405
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 1, 2, 4, 4-1, 6, 8, 8-1, 8-2, 8-3, 8-4, 8-7, 9, 13, 15, 16-1, 16-2, 17, 17-1, 19, [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnių]], II skyriaus pavadinimo ir antrojo skirsnio, 2 priedo pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-0cf3abbe018cfb7fdeeae02f|1]], [[#^s-f79bbc7298425f4b0f04aaa8|2]], [[#^s-2ae7d5eac9ed29aa0599dfb9|4]], 4-1, [[#^s-e248a9c93a6f44c67a66387a|6]], [[#^s-5e65a04a2b238ce9179db173|8]], 8-1, 8-2, 8-3, 8-4, 8-7, [[#^s-0b17b4aa8cbbb0d3d9886578|9]], [[#^s-f9ef61f77569b4858e2de345|13]], [[#^s-9b4035644d474526c1b9603e|15]], 16-1, 16-2, [[#^s-f1e12a584c3bcb4f1fc0ed16|17]], 17-1, [[#^s-112d424c7bd72e61e16e78a8|19]], [[#^s-7da4e3cbe31b6aac3ba185e7|26]] straipsnių, II skyriaus pavadinimo ir antrojo skirsnio, 2 priedo pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-69, 2016-12-08, paskelbta TAR 2016-12-14, i. k. 2016-28885
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 3, 17 ir [[#^s-55de96862069d6e0bd01232e|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-8aada8566afd0837d8727085|3]], [[#^s-f1e12a584c3bcb4f1fc0ed16|17]] ir [[#^s-55de96862069d6e0bd01232e|18]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-157, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29850
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 25 ir [[#^s-32010ca18f17d64d33b27dca|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-0cb80def816d9386fc142a9b|25]] ir [[#^s-32010ca18f17d64d33b27dca|27]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-345, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08030
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 5 ir [[#^s-48d82886d0f62cc8fbdc57a6|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-e6332f2e56a8c1e01f8f55fe|5]] ir [[#^s-48d82886d0f62cc8fbdc57a6|14]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2661,7 +2661,7 @@ Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kont
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2790, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02019
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 8-3 ir [[#^s-b6cd6341dccf3bbcca85da15|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 8-3 ir [[#^s-b6cd6341dccf3bbcca85da15|11]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2676,17 +2676,17 @@ Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kont
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3378, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24525
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 1, 10, 11, 12, 14, 15, 16-1, 17-1, 21, 22, 25, [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnių]], ketvirtojo skirsnio pavadinimo pakeitimo ir 16-2 straipsnio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-0cf3abbe018cfb7fdeeae02f|1]], [[#^s-9c35701b52f38d93912b0b41|10]], [[#^s-b6cd6341dccf3bbcca85da15|11]], [[#^s-18d0a24e824fcaa93b71db69|12]], [[#^s-48d82886d0f62cc8fbdc57a6|14]], [[#^s-9b4035644d474526c1b9603e|15]], 16-1, 17-1, [[#^s-ad3a9139386f35fa06265db2|21]], [[#^s-cd73217f94d7db6231a16dd0|22]], [[#^s-0cb80def816d9386fc142a9b|25]], [[#^s-7da4e3cbe31b6aac3ba185e7|26]] straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir 16-2 straipsnio pripažinimo netekusiu galios įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-295, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11763
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 2, 9, 9-2, 9-3, 9-10, 9-11, 14, 14-1, 16, 18, 25 ir [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-f79bbc7298425f4b0f04aaa8|2]], [[#^s-0b17b4aa8cbbb0d3d9886578|9]], 9-2, 9-3, 9-10, 9-11, [[#^s-48d82886d0f62cc8fbdc57a6|14]], 14-1, [[#^s-7707541fd36c052f1cc89baf|16]], [[#^s-55de96862069d6e0bd01232e|18]], [[#^s-0cb80def816d9386fc142a9b|25]] ir [[#^s-7da4e3cbe31b6aac3ba185e7|26]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-582, 2021-10-14, paskelbta TAR 2021-10-28, i. k. 2021-22388
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 1, 2, 3, 9-1, 10, 11, 12, 14, 25, [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnių]] ir II skyriaus pavadinimo, II skyriaus pirmojo skirsnio pavadinimo, IV skyriaus pavadinimo pakeitimo įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-0cf3abbe018cfb7fdeeae02f|1]], [[#^s-f79bbc7298425f4b0f04aaa8|2]], [[#^s-8aada8566afd0837d8727085|3]], 9-1, [[#^s-9c35701b52f38d93912b0b41|10]], [[#^s-b6cd6341dccf3bbcca85da15|11]], [[#^s-18d0a24e824fcaa93b71db69|12]], [[#^s-48d82886d0f62cc8fbdc57a6|14]], [[#^s-0cb80def816d9386fc142a9b|25]], [[#^s-7da4e3cbe31b6aac3ba185e7|26]] straipsnių ir II skyriaus pavadinimo, II skyriaus pirmojo skirsnio pavadinimo, IV skyriaus pavadinimo pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2701,12 +2701,12 @@ Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kont
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2105, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13998
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 11, 19, 25, 26 ir [[#^s-8a8bd0b3016c96ccd3e75479|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-b6cd6341dccf3bbcca85da15|11]], [[#^s-112d424c7bd72e61e16e78a8|19]], [[#^s-0cb80def816d9386fc142a9b|25]], [[#^s-7da4e3cbe31b6aac3ba185e7|26]] ir [[#^s-8a8bd0b3016c96ccd3e75479|32]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2083, 2023-06-22, paskelbta TAR 2023-07-05, i. k. 2023-13985
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 2, 4-1, 8-4, 8-5, 9-11 straipsnių ir 2 priedo pakeitimo įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-f79bbc7298425f4b0f04aaa8|2]], 4-1, 8-4, 8-5, 9-11 straipsnių ir 2 priedo pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2716,7 +2716,7 @@ Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kont
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1620, 2022-11-24, paskelbta TAR 2022-12-08, i. k. 2022-25044
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 2, 17, [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnių]] pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-f79bbc7298425f4b0f04aaa8|2]], [[#^s-f1e12a584c3bcb4f1fc0ed16|17]], [[#^s-7da4e3cbe31b6aac3ba185e7|26]] straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2726,7 +2726,7 @@ Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kont
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2402, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25914
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 2, 9-2, 9-5 ir [[#^s-1ffef89a34088554134a04f5|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-f79bbc7298425f4b0f04aaa8|2]], 9-2, 9-5 ir [[#^s-1ffef89a34088554134a04f5|30]] straipsnių pakeitimo įstatymas
 
 31.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2736,9 +2736,9 @@ Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kont
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3163, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20219
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 11 ir [[#^s-7da4e3cbe31b6aac3ba185e7|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 [[#^s-b6cd6341dccf3bbcca85da15|11]] ir [[#^s-7da4e3cbe31b6aac3ba185e7|26]] straipsnių pakeitimo įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-578, 2025-11-20, paskelbta TAR 2025-11-28, i. k. 2025-20159
-Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 17-1 ir [[#^s-55de96862069d6e0bd01232e|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tabako, tabako gaminių ir su jais susijusių gaminių kontrolės įstatymo Nr. I-1143 17-1 ir [[#^s-55de96862069d6e0bd01232e|18]] straipsnių pakeitimo įstatymas

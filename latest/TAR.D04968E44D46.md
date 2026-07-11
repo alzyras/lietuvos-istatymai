@@ -45,7 +45,7 @@ Papildyti [[#^s-18160796fcc39314331d4898|1 straipsnį 2 dalimi]] ir šį straips
 „1 straipsnis. Kodekso paskirtis
 
 
-1. Lietuvos Respublikos kelių transporto kodeksas (toliau – šis kodeksas) reguliuoja keleivių, bagažo, krovinių ir pašto, dokumentų siuntų vežimų organizavimą ir vykdymą, vežimų valstybinį valdymą ir kontrolę, atsakomybę už turtinę žalą. ^s-c0be0aa2f482fb532008f82e
+1. [Lietuvos Respublikos kelių transporto kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C) (toliau – [šis kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C)) reguliuoja keleivių, bagažo, krovinių ir pašto, dokumentų siuntų vežimų organizavimą ir vykdymą, vežimų valstybinį valdymą ir kontrolę, atsakomybę už turtinę žalą. ^s-c0be0aa2f482fb532008f82e
 
 
 2. Šio kodekso nuostatos suderintos su šio kodekso priede nurodytais Europos Sąjungos teisės aktais.“ ^s-18160796fcc39314331d4898
@@ -96,7 +96,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 4. Autobusų stočių naudojimo ir jų darbo tvarką reguliuoja Susisiekimo ministerijos patvirtinti Autobusų stočių nuostatai. ^s-3db8e92589d7f9d1c8498b49
 
 
-5. Keleiviams aptarnauti skirtų stotelių miestuose, gyvenvietėse ir keliuose įrengimą ir priežiūrą reguliuoja Susisiekimo ministerijos patvirtintos Keleivių ir bagažo vežimo taisyklės.“ ^s-5cc43f6a8abb6cd2da9f3ad6
+5. Keleiviams aptarnauti skirtų stotelių miestuose, gyvenvietėse ir keliuose įrengimą ir priežiūrą reguliuoja Susisiekimo ministerijos patvirtintos [Keleivių ir bagažo vežimo taisyklės](https://e-tar.lt/portal/lt/legalAct/TAR.08D39ED22C2C).“ ^s-5cc43f6a8abb6cd2da9f3ad6
 
 
 ### 5 straipsnis. 16 straipsnio papildymas ^s-88053bef9f2921b2adc7d474
@@ -120,10 +120,10 @@ Papildyti Kodeksą priedu:
 
 
 „Lietuvos Respublikos
-kelių transporto kodekso
+[kelių transporto kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C)
 priedas
 
-EUROPOS SĄJUNGOS TEISĖS AKTAI, SU KURIAIS SUDERINTAS LIETUVOS RESPUBLIKOS KELIŲ TRANSPORTO KODEKSAS
+EUROPOS SĄJUNGOS TEISĖS AKTAI, SU KURIAIS SUDERINTAS [LIETUVOS RESPUBLIKOS KELIŲ TRANSPORTO KODEKSAS](https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C)
 
 
 

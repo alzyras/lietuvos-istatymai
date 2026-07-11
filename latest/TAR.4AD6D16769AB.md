@@ -76,7 +76,7 @@ Pakeisti [[#^s-7c03d39fb1047180e031e836|2 straipsnį]] ir jį išdėstyti taip:
 6. Atsiskleidęs tarpininkas – apmokestinamasis asmuo, kuris tarpininkauja prekių tiekimo arba paslaugų teikimo sandoryje kito vardu ir sąskaita. ^s-3367eec36e9039a8b8cd6b8f
 
 
-7. Darbo veikla – veikla, vykdoma pagal darbo sutartį, taip pat bet kokia kita veikla, vykdoma teisinių santykių, kurie iš esmės (susitarimu dėl darbo apmokėjimo sąlygų, darbo vietos ir funkcijų, darbo drausmės ir kt.) atitinka darbo sutarties sukuriamus darbdavio ir darbuotojo santykius, pagrindu. ^s-e1c6571977087e0d70163874
+7. Darbo veikla – veikla, vykdoma pagal darbo sutartį, taip pat bet kokia kita veikla, vykdoma teisinių santykių, kurie iš esmės (susitarimu [dėl darbo apmokėjimo](https://e-tar.lt/portal/lt/legalAct/TAR.ECC60056592E) sąlygų, darbo vietos ir funkcijų, darbo drausmės ir kt.) atitinka darbo sutarties sukuriamus darbdavio ir darbuotojo santykius, pagrindu. ^s-e1c6571977087e0d70163874
 
 
 8. Ekonominė veikla – veikla (įskaitant gamybą, prekybą, paslaugų teikimą, žemės ūkio veiklą, žuvininkystę, kasybą, profesinę veiklą, naudojimąsi turto ir (arba) turtinių teisių turėjimu), kurią vykdant siekiama gauti bet kokių pajamų (neatsižvelgiant į tai, ar ją vykdant siekiama gauti pelno), išskyrus: ^s-345615b0074276a4a4986320
@@ -208,10 +208,10 @@ Pakeisti [[#^s-7c03d39fb1047180e031e836|2 straipsnį]] ir jį išdėstyti taip:
 12) dukterinis apmokestinamasis asmuo ir patronuojančio apmokestinamojo asmens valdymo organo narys; ^s-a96ad8811d65b80f80aea13f
 
 
-13) patronuojantis apmokestinamasis asmuo ir fizinis asmuo, susijęs su dukterinio apmokestinamojo asmens dalyviais arba valdymo organų nariais šios dalies 1 ir [[#^s-72fe9b88738fed4021c81080|3 punktuose]] nurodytais ryšiais ar santykiais, taip pat asmenys, susiję su šiais dalyviais arba valdymo organų nariais giminystės ryšiais (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) arba svainystės santykiais (fizinis asmuo ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), šių dalyvių arba valdymo organų narių sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), šių dalyvių arba valdymo organų narių giminaičių (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) sutuoktiniai ar sugyventiniai ir šių sutuoktinių ar sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio); ^s-cf3760467fb14c7eb3f26b05
+13) patronuojantis apmokestinamasis asmuo ir fizinis asmuo, susijęs su dukterinio apmokestinamojo asmens dalyviais arba valdymo organų nariais šios dalies [[#^s-c3f169cc3edce44b3ff624ab|1]] ir [[#^s-72fe9b88738fed4021c81080|3]] punktuose nurodytais ryšiais ar santykiais, taip pat asmenys, susiję su šiais dalyviais arba valdymo organų nariais giminystės ryšiais (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) arba svainystės santykiais (fizinis asmuo ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), šių dalyvių arba valdymo organų narių sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), šių dalyvių arba valdymo organų narių giminaičių (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) sutuoktiniai ar sugyventiniai ir šių sutuoktinių ar sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio); ^s-cf3760467fb14c7eb3f26b05
 
 
-14) dukterinis apmokestinamasis asmuo ir fizinis asmuo, susijęs su patronuojančio apmokestinamojo asmens dalyviais arba valdymo organų nariais šios dalies 1 ir [[#^s-72fe9b88738fed4021c81080|3 punktuose]] nurodytais ryšiais ar santykiais, taip pat asmenys, susiję su šiais dalyviais arba valdymo organų nariais giminystės ryšiais (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) arba svainystės santykiais (fizinis asmuo ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), šių dalyvių arba valdymo organų narių sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), šių dalyvių arba valdymo organų narių giminaičių (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) sutuoktiniai ar sugyventiniai ir šių sutuoktinių ar sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio); ^s-71d13c82e1db21ba58e7065f
+14) dukterinis apmokestinamasis asmuo ir fizinis asmuo, susijęs su patronuojančio apmokestinamojo asmens dalyviais arba valdymo organų nariais šios dalies [[#^s-c3f169cc3edce44b3ff624ab|1]] ir [[#^s-72fe9b88738fed4021c81080|3]] punktuose nurodytais ryšiais ar santykiais, taip pat asmenys, susiję su šiais dalyviais arba valdymo organų nariais giminystės ryšiais (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) arba svainystės santykiais (fizinis asmuo ir jo sutuoktinio giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), šių dalyvių arba valdymo organų narių sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio), šių dalyvių arba valdymo organų narių giminaičių (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio) sutuoktiniai ar sugyventiniai ir šių sutuoktinių ar sugyventinių giminaičiai (tiesiąja giminystės linija iki pirmojo laipsnio, šonine giminystės linija iki antrojo laipsnio); ^s-71d13c82e1db21ba58e7065f
 
 
 15) du apmokestinamieji asmenys, jeigu vienas iš jų tiesiogiai ar netiesiogiai (per vieną ar kelis tarpinius asmenis) valdo daugiau kaip 25 procentus kito akcijų (dalių, pajų) arba turi teises į daugiau kaip 25 procentus sprendžiamųjų balsų kitame iš jų, arba yra įsipareigojęs derinti savo veiklos sprendimus su tuo kitu asmeniu, arba yra įsipareigojęs atsakyti už to kito asmens prievolių tretiesiems asmenims įvykdymą, arba tam kitam asmeniui yra įsipareigojęs perduoti visą arba dalį pelno ar suteikęs teisę naudoti daugiau kaip 25 procentus savo turto; ^s-ceaa0dbf8c9a51bb577d1e28
@@ -235,7 +235,7 @@ Pakeisti [[#^s-7c03d39fb1047180e031e836|2 straipsnį]] ir jį išdėstyti taip:
 35. Trečiosios teritorijos – Lietuvos Respublikos finansų ministro (toliau – finansų ministras) patvirtintame sąraše nurodytos teritorijos, kurios šio Įstatymo tikslais nelaikomos valstybių narių teritorijomis. ^s-ee3db2c25e414830adf9961a
 
 
-36. Trečioji valstybė – bet kuri teritorija, kuri nėra Europos Bendrijų teritorija arba trečioji teritorija, kaip tai apibrėžta atitinkamai šio straipsnio 10 ir [[#^s-ee3db2c25e414830adf9961a|35 dalyse]]. ^s-aafbbd7aec069e1d9b9ee653
+36. Trečioji valstybė – bet kuri teritorija, kuri nėra Europos Bendrijų teritorija arba trečioji teritorija, kaip tai apibrėžta atitinkamai šio straipsnio [[#^s-9ca5ded28f66c27d34f724f1|10]] ir [[#^s-ee3db2c25e414830adf9961a|35]] dalyse. ^s-aafbbd7aec069e1d9b9ee653
 
 
 37. Užsienio apmokestinamasis asmuo – bet kokio pobūdžio ekonominę veiklą vykdantis: ^s-0098595f428d765e8d993e18
@@ -286,13 +286,13 @@ Pakeisti [[#^s-7c03d39fb1047180e031e836|2 straipsnį]] ir jį išdėstyti taip:
 11) nuoma; ^s-53fbc2a5695a7067364cf34f
 
 
-12) bet kokia šios dalies 1–[[#^s-53fbc2a5695a7067364cf34f|11 punktuose]] nenurodyta šių asmenų vykdoma veikla, jeigu ją vykdant šių asmenų tiekiamos prekės ir (arba) teikiamos paslaugos konkuruoja ar gali konkuruoti su apmokestinamųjų asmenų tiekiamomis prekėmis ir (arba) teikiamomis paslaugomis. ^s-2e3663e1421c31eacfcc6638
+12) bet kokia šios dalies [[#^s-ead3228529ce436997604760|1]]–[[#^s-53fbc2a5695a7067364cf34f|11]] punktuose nenurodyta šių asmenų vykdoma veikla, jeigu ją vykdant šių asmenų tiekiamos prekės ir (arba) teikiamos paslaugos konkuruoja ar gali konkuruoti su apmokestinamųjų asmenų tiekiamomis prekėmis ir (arba) teikiamomis paslaugomis. ^s-2e3663e1421c31eacfcc6638
 
 
 39. Valstybė narė (arba valstybės narės teritorija) – Europos Sąjungos valstybės narės teritorija, kaip ji apibrėžta Europos Bendrijos steigimo sutarties 299 straipsnyje, išskyrus trečiąsias teritorijas. Valstybės narės teritorija laikomos ir finansų ministro patvirtintame sąraše nurodytos teritorijos, kuriose sudaryti ar kurioms skirti sandoriai laikomi toje valstybėje narėje sudarytais ar jai skirtais sandoriais. ^s-0d2b22748ce7ddf687e3f750
 
 
-40. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] (toliau – [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymas]]), Europos Bendrijų muitinės kodekse (toliau – Muitinės kodeksas), taip pat Lietuvos Respublikos civiliniame kodekse (toliau – [[latest/TAR.8A39C83848CB|Civilinis kodeksas]]), – kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus), tačiau mokesčio administratoriumi šiame Įstatyme vadinama tik Valstybinė mokesčių inspekcija.“ ^s-2b5c1bfddd2b4a45d472bdde
+40. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] (toliau – [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymas]]), Europos Bendrijų [muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) (toliau – [Muitinės kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145)), taip pat Lietuvos Respublikos civiliniame kodekse (toliau – [[latest/TAR.8A39C83848CB|Civilinis kodeksas]]), – kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus), tačiau mokesčio administratoriumi šiame Įstatyme vadinama tik Valstybinė mokesčių inspekcija.“ ^s-2b5c1bfddd2b4a45d472bdde
 
 
 
@@ -302,7 +302,7 @@ Pakeisti [[#^s-7c03d39fb1047180e031e836|2 straipsnį]] ir jį išdėstyti taip:
 Pakeisti 3 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 
 
-„1) prekes iš apmokestinamojo asmens, kuris vykdo savo ekonominę veiklą, t. y. veikia kaip toks, ir kuriam netaikomos teisės aktų nuostatos, numatytos 2006 m. lapkričio 28 d. Tarybos direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos (toliau – Direktyva 2006/112/EB) XII antraštinės dalies 1 skyriuje, įsigyja apmokestinamasis asmuo, kuris sandorį sudaro vykdydamas savo ekonominę veiklą, t. y. veikdamas kaip toks, arba juridinis asmuo, kuris nėra apmokestinamasis asmuo, jeigu šis prekių tiekimas nelaikomas įvykusiu šalies teritorijoje pagal šio Įstatymo [[#^s-e21ad298edf7fc4e5aa75619|12 straipsnio]] 2 ar 3 dalies nuostatas;“.
+„1) prekes iš apmokestinamojo asmens, kuris vykdo savo ekonominę veiklą, t. y. veikia kaip toks, ir kuriam netaikomos teisės aktų nuostatos, numatytos 2006 m. lapkričio 28 d. Tarybos direktyvos 2006/112/EB dėl pridėtinės vertės mokesčio bendros sistemos (toliau – Direktyva 2006/112/EB) XII antraštinės dalies 1 skyriuje, įsigyja apmokestinamasis asmuo, kuris sandorį sudaro vykdydamas savo ekonominę veiklą, t. y. veikdamas kaip toks, arba juridinis asmuo, kuris nėra apmokestinamasis asmuo, jeigu šis prekių tiekimas nelaikomas įvykusiu šalies teritorijoje pagal šio Įstatymo [[#^s-e21ad298edf7fc4e5aa75619|12 straipsnio]] [[#^s-b741327ca83e0191ba1a3f42|2]] ar [[#^s-8669c9e225e6cacf31055bc3|3]] dalies nuostatas;“.
 
 
 
@@ -344,7 +344,7 @@ Pakeisti [[#^s-fa0d9ecef4137bca92542ac0|13 straipsnį]] ir jį išdėstyti taip:
 1. Šiame straipsnyje, be šio Įstatymo 2 straipsnio 2 dalyje nurodytojo, apmokestinamuoju asmeniu laikomas ir: ^s-12ac0118148cc601fd251af3
 
 
-1) apmokestinamasis asmuo, kuris įsigyja bet kokias paslaugas, skirtas vykdyti veiklai ar sandoriams, kurie nėra PVM objektas pagal šio Įstatymo [[#^s-47ecab55bdec67197314a28f|3 straipsnio]] 1, 2 ir [[#^s-52d526d5d4b26fe909865b47|3 dalis]]; ^s-33bccd67aa1b94afd25c5b83
+1) apmokestinamasis asmuo, kuris įsigyja bet kokias paslaugas, skirtas vykdyti veiklai ar sandoriams, kurie nėra PVM objektas pagal šio Įstatymo [[#^s-47ecab55bdec67197314a28f|3 straipsnio]] 1, 2 ir 3 dalis; ^s-33bccd67aa1b94afd25c5b83
 
 
 2) PVM mokėtoju įregistruotas juridinis asmuo, kuris nėra apmokestinamasis asmuo. ^s-1a5e93b97b0182126f995bae
@@ -475,13 +475,13 @@ Pakeisti [[#^s-fa0d9ecef4137bca92542ac0|13 straipsnį]] ir jį išdėstyti taip:
 2) kai pirkėjas (klientas) moka atlygį už patiektą prekę arba suteiktą paslaugą; ^s-1f4ee694d8194bd99207deab
 
 
-3) mokestinio laikotarpio, kurį prekės buvo patiektos arba paslaugos suteiktos, paskutinę dieną, jeigu iki šios dienos neįvyko nė vienas iš šios dalies 1 ir [[#^s-1f4ee694d8194bd99207deab|2 punktuose]] nurodytų įvykių.“ ^s-08e0c9720e93287ce527bf30
+3) mokestinio laikotarpio, kurį prekės buvo patiektos arba paslaugos suteiktos, paskutinę dieną, jeigu iki šios dienos neįvyko nė vienas iš šios dalies [[#^s-0d1a58e022983ab25655d720|1]] ir [[#^s-1f4ee694d8194bd99207deab|2]] punktuose nurodytų įvykių.“ ^s-08e0c9720e93287ce527bf30
 
 
 2. Pakeisti 14 straipsnio 4 dalį ir ją išdėstyti taip: ^s-efb8b93d3f5fb18b10fd524b
 
 
-„4. Neatsižvelgiant į šio straipsnio 1, 2 ir [[#^s-046830210b3ad2bba282c2f4|3 dalių]] nuostatas, tais atvejais, kai už prekes arba paslaugas visiškai ar iš dalies atlyginama prieš perduodant prekes ar suteikiant paslaugas, prievolė apskaičiuoti PVM atsiranda, kai gaunamas toks visiškas ar dalinis atlygis, jeigu pagal sandorio sąlygas šios prekės bus perduotos arba visos paslaugos suteiktos ne anksčiau kaip po 12 mėnesių nuo sandorio sudarymo dienos (toliau šiame Įstatyme visiškas arba dalinis atlygis, mokamas prieš prekės perdavimą arba paslaugos suteikimą, vadinamas avansu). Jeigu avansas gaunamas, kai pagal sandorio sąlygas prekės bus perduotos arba visos paslaugos suteiktos anksčiau kaip po 12 mėnesių nuo sandorio sudarymo dienos, apmokestinamasis asmuo turi teisę pasirinkti prekių tiekimo arba paslaugų teikimo apmokestinamuoju momentu laikyti avanso gavimo momentą ir nuo gauto avanso skaičiuoti PVM šiame Įstatyme nustatyta tvarka. Šios dalies nuostatos netaikomos tais atvejais, kai apmokestinamoji vertė yra marža, apskaičiuota šio Įstatymo 102 ir 107 straipsniuose nustatyta tvarka.“
+„4. Neatsižvelgiant į šio straipsnio [[#^s-4f4954662994cc4d2b981734|1]], 2 ir [[#^s-046830210b3ad2bba282c2f4|3]] dalių nuostatas, tais atvejais, kai už prekes arba paslaugas visiškai ar iš dalies atlyginama prieš perduodant prekes ar suteikiant paslaugas, prievolė apskaičiuoti PVM atsiranda, kai gaunamas toks visiškas ar dalinis atlygis, jeigu pagal sandorio sąlygas šios prekės bus perduotos arba visos paslaugos suteiktos ne anksčiau kaip po 12 mėnesių nuo sandorio sudarymo dienos (toliau šiame Įstatyme visiškas arba dalinis atlygis, mokamas prieš prekės perdavimą arba paslaugos suteikimą, vadinamas avansu). Jeigu avansas gaunamas, kai pagal sandorio sąlygas prekės bus perduotos arba visos paslaugos suteiktos anksčiau kaip po 12 mėnesių nuo sandorio sudarymo dienos, apmokestinamasis asmuo turi teisę pasirinkti prekių tiekimo arba paslaugų teikimo apmokestinamuoju momentu laikyti avanso gavimo momentą ir nuo gauto avanso skaičiuoti PVM šiame Įstatyme nustatyta tvarka. Šios dalies nuostatos netaikomos tais atvejais, kai apmokestinamoji vertė yra marža, apskaičiuota šio Įstatymo 102 ir 107 straipsniuose nustatyta tvarka.“
 
 
 3. Pakeisti 14 straipsnio 6 dalį ir ją išdėstyti taip: ^s-046830210b3ad2bba282c2f4
@@ -496,7 +496,7 @@ Pakeisti [[#^s-fa0d9ecef4137bca92542ac0|13 straipsnį]] ir jį išdėstyti taip:
 2) kai pirkėjas (klientas) moka atlygį už per atitinkamą ataskaitinį laikotarpį patiektų prekių arba suteiktų paslaugų kiekį (įskaitant avansą, mokamą pagal nuomos sutartį, kuri numato nuomojamo daikto perdavimą nuomininkui ne anksčiau kaip po 12 mėnesių nuo sandorio sudarymo dienos); ^s-ed7930bf59ed6f999e4059de
 
 
-3) kito po ataskaitinio laikotarpio mėnesio paskutinę dieną, jeigu iki šios dienos neįvyko nė vienas iš šios dalies 1 ir [[#^s-ed7930bf59ed6f999e4059de|2 punktuose]] nurodytų įvykių.“ ^s-de5b889f069209c190c8b0c9
+3) kito po ataskaitinio laikotarpio mėnesio paskutinę dieną, jeigu iki šios dienos neįvyko nė vienas iš šios dalies [[#^s-0b0f3abcbd773078570c3966|1]] ir [[#^s-ed7930bf59ed6f999e4059de|2]] punktuose nurodytų įvykių.“ ^s-de5b889f069209c190c8b0c9
 
 
 
@@ -592,7 +592,7 @@ Pakeisti 31 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 „46 straipsnis. Draudimo ir finansinės paslaugos, susijusios su prekių eksportu
 
 
-Taikant 0 procentų PVM tarifą apmokestinamos draudimo paslaugos, taip pat finansinės paslaugos, nurodytos šio Įstatymo [[#^s-2d752ced6245bbd84b72dea7|28 straipsnio]] 1–5 dalyse, kai šios draudimo ar finansinės paslaugos tiesiogiai susijusios su prekių, nenurodytų šio Įstatymo IV skyriuje, eksportu iš Europos Bendrijų teritorijos.“
+Taikant 0 procentų PVM tarifą apmokestinamos draudimo paslaugos, taip pat finansinės paslaugos, nurodytos šio Įstatymo [[#^s-2d752ced6245bbd84b72dea7|28 straipsnio]] [[#^s-7c8c0ff2e6ae4e5e93d2fb8c|1]]–5 dalyse, kai šios draudimo ar finansinės paslaugos tiesiogiai susijusios su prekių, nenurodytų šio Įstatymo IV skyriuje, eksportu iš Europos Bendrijų teritorijos.“
 
 
 
@@ -612,7 +612,7 @@ Papildyti 53 straipsnį 10 dalimi:
 58 straipsnio 1 dalies 2 punkte vietoj žodžio „straipsnyje“ įrašyti žodžius ir skaičius „straipsnio 1–5 dalyse“ ir šį punktą išdėstyti taip:
 
 
-„2) prekių tiekimui ir (arba) paslaugų teikimui už šalies teritorijos ribų tuo atveju, kai toks prekių tiekimas ir (arba) paslaugų teikimas pagal šio Įstatymo nuostatas nebūtų neapmokestinamas PVM, jeigu jis vyktų šalies teritorijoje. Ši sąlyga netaikoma, jeigu už Europos Bendrijų teritorijos ribų suteiktos draudimo ir (arba) šio Įstatymo [[#^s-2d752ced6245bbd84b72dea7|28 straipsnio]] 1–5 dalyse nurodytos finansinės paslaugos.“
+„2) prekių tiekimui ir (arba) paslaugų teikimui už šalies teritorijos ribų tuo atveju, kai toks prekių tiekimas ir (arba) paslaugų teikimas pagal šio Įstatymo nuostatas nebūtų neapmokestinamas PVM, jeigu jis vyktų šalies teritorijoje. Ši sąlyga netaikoma, jeigu už Europos Bendrijų teritorijos ribų suteiktos draudimo ir (arba) šio Įstatymo [[#^s-2d752ced6245bbd84b72dea7|28 straipsnio]] [[#^s-7c8c0ff2e6ae4e5e93d2fb8c|1]]–5 dalyse nurodytos finansinės paslaugos.“
 
 
 
@@ -833,13 +833,13 @@ Pakeisti 91 straipsnį ir jį išdėstyti taip:
 5) PVM sumą, per mokestinį laikotarpį atskaitytą už įsigytus ir (arba) importuotus degalus, trąšas, sėklas, pašarus, priemones nuo kenkėjų ir piktžolių. Šis punktas taikomas tik PVM mokėtojams, kurių pajamos iš žemės ūkio produkcijos tiekimo ir (arba) paslaugų teikimo praėjusiais kalendoriniais metais sudarė ne mažiau kaip 50 procentų visų pajamų. ^s-49f0f2587ba5db2601590346
 
 
-3. Pagal šio straipsnio 1 ir [[#^s-a3269cf3516d5d873db87aaf|2 dalių]] nuostatas neįskaityta ir negrąžinta iki kalendorinio pusmečio pabaigos susidariusio PVM skirtumo suma PVM mokėtojui gali būti grąžinta tam kalendoriniam pusmečiui pasibaigus, tačiau tik tuo atveju, jeigu asmuo buvo įregistruotas PVM mokėtoju ne vėliau kaip prieš 3 mėnesius iki to kalendorinio pusmečio pabaigos. ^s-901f677cae9c5f02e56d9f25
+3. Pagal šio straipsnio [[#^s-aa8cec043352a1c8b3ddbd1f|1]] ir [[#^s-a3269cf3516d5d873db87aaf|2]] dalių nuostatas neįskaityta ir negrąžinta iki kalendorinio pusmečio pabaigos susidariusio PVM skirtumo suma PVM mokėtojui gali būti grąžinta tam kalendoriniam pusmečiui pasibaigus, tačiau tik tuo atveju, jeigu asmuo buvo įregistruotas PVM mokėtoju ne vėliau kaip prieš 3 mėnesius iki to kalendorinio pusmečio pabaigos. ^s-901f677cae9c5f02e56d9f25
 
 
 4. [[#^s-a3269cf3516d5d873db87aaf|Šio straipsnio 2 dalyje]] nustatyti apribojimai netaikomi PVM mokėtojams, atitinkantiems centrinio mokesčių administratoriaus nustatytus reikalavimus. ^s-3e51790846a8e5cb0c8b3e22
 
 
-5. Šio straipsnio 2 ir [[#^s-901f677cae9c5f02e56d9f25|3 dalyse]] nustatyti apribojimai netaikomi grąžinant metinėje PVM deklaracijoje nurodytą grąžintiną PVM sumą, taip pat jeigu PVM mokėtojas likviduojamas arba apmokestinamasis asmuo išregistruojamas iš PVM mokėtojų. ^s-10a3cd0e69f97252b45c1069
+5. Šio straipsnio [[#^s-a3269cf3516d5d873db87aaf|2]] ir [[#^s-901f677cae9c5f02e56d9f25|3]] dalyse nustatyti apribojimai netaikomi grąžinant metinėje PVM deklaracijoje nurodytą grąžintiną PVM sumą, taip pat jeigu PVM mokėtojas likviduojamas arba apmokestinamasis asmuo išregistruojamas iš PVM mokėtojų. ^s-10a3cd0e69f97252b45c1069
 
 
 6. PVM skirtumo grąžinimas ar įskaitymas sustabdomas, kai įgaliotos tirti nusikaltimus institucijos mokesčio administratoriui pateikia duomenis apie pradėtą PVM mokėtojo veiklos tyrimą dėl nusikalstamos veikos, jeigu tai yra susiję ar gali būti susiję su netinkamu PVM mokėtojo prievolių vykdymu (įskaitant neteisėtą PVM skirtumo grąžinimą ir įskaitymą). Jeigu atsisakyta pradėti ikiteisminį tyrimą, ikiteisminis tyrimas arba iškelta baudžiamoji byla nutraukti ar baudžiamojoje byloje įsiteisėja išteisinamasis nuosprendis, PVM skirtumas grąžinamas (įskaitomas) šio ir Mokesčių administravimo įstatymų nustatyta tvarka. Įgaliotos tirti nusikaltimus institucijos mokesčio administratoriui privalo pateikti duomenis apie pradėtą PVM mokėtojo veiklos tyrimą dėl nusikalstamos veikos, jeigu tai susiję ar gali būti susiję su netinkamu PVM mokėtojo prievolių vykdymu (įskaitant neteisėtą PVM skirtumo grąžinimą bei įskaitymą).“ ^s-62c7a3ccbd79634a76f50022
@@ -895,7 +895,7 @@ Neįsikūrusiais šalies teritorijoje užsienio asmenimis šiame straipsnyje lai
 4. Pakeisti 95 straipsnio 5 dalį ir ją išdėstyti taip: ^s-80203f7eea34e52d93e700b2
 
 
-„5. Jeigu šalies teritorijoje neįsikūręs užsienio asmuo šalies teritorijoje vykdo šio straipsnio 2, 3 ir [[#^s-80203f7eea34e52d93e700b2|4 dalyse]] nenurodytą veiklą ir nėra įsiregistravęs PVM mokėtoju, jo tiekiamų prekių ir (arba) teikiamų paslaugų pirkėjas, jeigu jis yra apmokestinamasis asmuo, už šias užsienio asmens tiekiamas prekes ir (arba) teikiamas paslaugas privalo šiame Įstatyme nustatyta tvarka apskaičiuoti ir sumokėti pardavimo PVM. Šios dalies nuostatos netaikomos tuo atveju, jeigu pirkėjas yra užsienio asmuo, kuris neturi padalinio ir (arba) nėra registruotas PVM mokėtoju šalies teritorijoje.“
+„5. Jeigu šalies teritorijoje neįsikūręs užsienio asmuo šalies teritorijoje vykdo šio straipsnio [[#^s-32c63b78df70224869d9384c|2]], [[#^s-3ea39d54278dd96177859c84|3]] ir 4 dalyse nenurodytą veiklą ir nėra įsiregistravęs PVM mokėtoju, jo tiekiamų prekių ir (arba) teikiamų paslaugų pirkėjas, jeigu jis yra apmokestinamasis asmuo, už šias užsienio asmens tiekiamas prekes ir (arba) teikiamas paslaugas privalo šiame Įstatyme nustatyta tvarka apskaičiuoti ir sumokėti pardavimo PVM. Šios dalies nuostatos netaikomos tuo atveju, jeigu pirkėjas yra užsienio asmuo, kuris neturi padalinio ir (arba) nėra registruotas PVM mokėtoju šalies teritorijoje.“
 
 
 
@@ -949,7 +949,7 @@ Papildyti 116 straipsnio 2 dalį antru sakiniu ir šią dalį išdėstyti taip:
 1. Papildyti 118 straipsnį nauja [[#^s-e802ce8dc9500ec3a859bb9b|3 dalimi]]: ^s-c17f9c43d2c759817e42d8b0
 
 
-„3. [[#^s-c17f9c43d2c759817e42d8b0|Šio straipsnio 1 dalyje]] nurodytas PVM gali būti grąžinamas kitoje valstybėje narėje įsikūrusiam užsienio apmokestinamajam asmeniui tik tuo atveju, jeigu šio asmens įsigytos prekės ir (arba) paslaugos, už kurias sumokėtą PVM prašoma grąžinti, skirtos naudoti tokiai šio asmens ekonominei veiklai, kuri suteikia teisę į PVM atskaitą jo įsikūrimo valstybėje. Kai kitoje valstybėje narėje įsikūręs užsienio apmokestinamasis asmuo savo valstybėje narėje vykdo teisę į PVM atskaitą suteikiančius sandorius ir teisės į PVM atskaitą nesuteikiančius sandorius, grąžinama tik ta pirkimo ir (arba) importo PVM už įsigytas ir (arba) importuotas prekes ir (arba) paslaugas dalis, kuri pagal jo valstybės narės nuostatas yra priskiriama teisę į PVM atskaitą suteikiantiems sandoriams.“
+„3. Šio straipsnio 1 dalyje nurodytas PVM gali būti grąžinamas kitoje valstybėje narėje įsikūrusiam užsienio apmokestinamajam asmeniui tik tuo atveju, jeigu šio asmens įsigytos prekės ir (arba) paslaugos, už kurias sumokėtą PVM prašoma grąžinti, skirtos naudoti tokiai šio asmens ekonominei veiklai, kuri suteikia teisę į PVM atskaitą jo įsikūrimo valstybėje. Kai kitoje valstybėje narėje įsikūręs užsienio apmokestinamasis asmuo savo valstybėje narėje vykdo teisę į PVM atskaitą suteikiančius sandorius ir teisės į PVM atskaitą nesuteikiančius sandorius, grąžinama tik ta pirkimo ir (arba) importo PVM už įsigytas ir (arba) importuotas prekes ir (arba) paslaugas dalis, kuri pagal jo valstybės narės nuostatas yra priskiriama teisę į PVM atskaitą suteikiantiems sandoriams.“
 
 
 2. Buvusias 118 straipsnio 3 ir 4 dalis atitinkamai laikyti 4 ir 5 dalimis. ^s-44a3fcc279c97240fbfae0eb
@@ -996,7 +996,7 @@ Papildyti Įstatymą 1191 straipsniu:
 „1191 straipsnis. Lietuvos Respublikos apmokestinamųjų asmenų prašymų grąžinti PVM, sumokėtą kitose valstybėse narėse, pateikimas
 
 
-Lietuvos Respublikos apmokestinamieji asmenys, siekiantys susigrąžinti kitose valstybėse narėse sumokėtą PVM, į atitinkamos valstybės mokesčių administratorių dėl PVM grąžinimo kreipiasi centrinio mokesčio administratoriaus nustatyta tvarka.“
+Lietuvos Respublikos apmokestinamieji asmenys, siekiantys susigrąžinti kitose valstybėse narėse sumokėtą PVM, į atitinkamos valstybės mokesčių administratorių [dėl PVM grąžinimo](https://e-tar.lt/portal/lt/legalAct/TAR.06EBF638790A) kreipiasi centrinio mokesčio administratoriaus nustatyta tvarka.“
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-e4b28a1d81058234de73a54a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 6 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1930 metų Ženevos konvenciją dėl įstatymų kolizijų naudojant įsakomuosius ir paprastuosius vekselius sprendimo“, ratifikuoja 1930 metų Ženevos konvenciją dėl įstatymų kolizijų naudojant įsakomuosius ir paprastuosius vekselius sprendimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 6 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1930 metų Ženevos konvenciją dėl įstatymų kolizijų naudojant įsakomuosius ir paprastuosius vekselius sprendimo“](https://e-tar.lt/portal/lt/legalAct/TAR.4CCC98ECBA76), ratifikuoja 1930 metų Ženevos konvenciją dėl įstatymų kolizijų naudojant įsakomuosius ir paprastuosius vekselius sprendimo.
 
 
 

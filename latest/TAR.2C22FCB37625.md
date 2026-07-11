@@ -235,7 +235,7 @@ Papildyti 20 straipsnį 3 dalimi:
 ### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-a70a2ac119581ede9f47cf28
 
 
-1. Šis įstatymas, išskyrus [[#^s-e408c3ae2b2a82c6567393b7|2 straipsnį]] ir šio straipsnio 2, 3 ir [[#^s-d388676ce60af8c6972240e1|4 dalis]], įsigalioja 2010 m. liepos 1 d. ^s-022cd593920bc33be008cb06
+1. Šis įstatymas, išskyrus [[#^s-e408c3ae2b2a82c6567393b7|2 straipsnį]] ir šio straipsnio 2, 3 ir 4 dalis, įsigalioja 2010 m. liepos 1 d. ^s-022cd593920bc33be008cb06
 
 
 2. Šio įstatymo [[#^s-e408c3ae2b2a82c6567393b7|2 straipsnis]] įsigalioja 2012 m. sausio 1 d., o [[#^s-3e7fecc4c2cf1088f963b9fc|3 straipsnyje]] išdėstyto [[latest/TAR.72C31F8DD98E#^s-281c6da968d24b0522fb1ed6|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo 11 straipsnio 2 dalis]] galioja iki 2011 m. gruodžio 31 d. ^s-22922a2120ee63ddedaaa3f9

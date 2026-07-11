@@ -72,25 +72,25 @@ Papildyti [[#^s-cacbbc4bea6422e63488eeff|3 straipsnį 5 dalimi]]:
 „1. Prie šilumos tiekimo sistemos prijungtas daugiabučio namo šildymo ir karšto vandens sistemas, bendrosios dalinės nuosavybės teise priklausančias butų ir kitų patalpų savininkams, taip pat šilumos punktus, tiek nuosavybės teise priklausančius šilumos ir (ar) karšto vandens tiekėjui ar tretiesiems asmenims, tiek butų ir kitų patalpų savininkams, turi prižiūrėti (eksploatuoti) pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas). Teisę reguliuoti (nuotoliniu būdu ar kitaip daryti įtaką) namo šilumos punkto įrenginių darbą, laikydamasis nustatytų higienos normų, turi tik pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) arba atitinkamą kvalifikaciją turintys daugiabučio namo bendrijos atstovas ar daugiabučio namo butų ir kitų patalpų savininkų išrinktas jų įgaliotas atstovas. Daugiabučio namo šilumos punktus, nuosavybės teise priklausančius šilumos ir (ar) karšto vandens tiekėjui ar tretiesiems asmenims, pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) prižiūri (eksploatuoja) šio įstatymo pagrindu, nesudarydamas atskirų sutarčių su šilumos punktų savininkais. Pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) savo prievoles vykdo apdairiai, sąžiningai ir šilumos ir (ar) karšto vandens vartotojų interesais. Pastato šildymo ir karšto vandens sistemos prižiūrėtoją (eksploatuotoją) Civilinio kodekso 4.85 straipsnyje nustatyta sprendimų priėmimo tvarka pasirenka daugiabučio namo butų ir kitų patalpų savininkai, daugiabučio namo butų ir kitų patalpų savininkų bendrija arba, jeigu šie nepriima sprendimo, bendrojo naudojimo objektų administratorius. Daugiabučio namo šildymo ir karšto vandens sistemos priežiūros (eksploatavimo) sutartį su pastato šildymo ir karšto vandens sistemos prižiūrėtoju (eksploatuotoju) sudaro daugiabučio namo butų ir kitų patalpų savininkų bendrija, butų ir kitų patalpų savininkų jungtinės veiklos sutarties dalyvių įgaliotas asmuo arba bendrojo naudojimo objektų administratorius. Pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) neturi teisės įgalioti kitų asmenų verstis atestatu reguliuojama veikla arba perduoti jiems šią teisę pagal sutartį, arba kitaip pavesti vykdyti šią veiklą. Kai pastato šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) yra bendrija, ji gali pirkti atskirus darbus ar paslaugas iš subjektų, turinčių atitinkamą kompetenciją, technines priemones ir gebėjimus. Daugiabučio namo savininkų bendrija ir (ar) bendrojo naudojimo objektų administratorius gali būti pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas).“
 
 
-2. Papildyti 20 straipsnį nauja [[#^s-c22354b2a307393c0b1a51b2|2 dalimi]]: ^s-c22354b2a307393c0b1a51b2
+2. Papildyti 20 straipsnį nauja 2 dalimi: ^s-c22354b2a307393c0b1a51b2
 
 
 „2. Pastato šildymo ir karšto vandens sistemos prižiūrėtoju (eksploatuotoju) negali būti šilumos tiekėjas ar asmenys, susiję su šilumos tiekėju darbo santykiais ar tiekiantys prekes ar teikiantys paslaugas šilumos tiekėjui, ar šilumai gaminti naudojamo kuro, šilumos tiekimo veiklai naudojamų apskaitos prietaisų ar kitų įrenginių gamintojai, taip pat asmenys, kurie verčiasi šilumai gaminti naudojamo kuro didmenine ar mažmenine prekyba, ar asmenys, kartu su išvardytais asmenimis priklausantys susijusių ūkio subjektų grupei pagal Konkurencijos įstatymą.“
 
 
-3. Papildyti 20 straipsnį nauja [[#^s-fb01bce4736f9dcdd2c3d9da|3 dalimi]]: ^s-fb01bce4736f9dcdd2c3d9da
+3. Papildyti 20 straipsnį nauja 3 dalimi: ^s-fb01bce4736f9dcdd2c3d9da
 
 
 „3. Valstybinė energetikos inspekcija prie Energetikos ministerijos kontroliuoja pastato šildymo ir karšto vandens sistemos prižiūrėtojo (eksploatuotojo) veiklą ir, atlikusi patikrą, išduoda pastato parengties naujam šildymo sezonui pasą.“
 
 
-4. Papildyti 20 straipsnį nauja [[#^s-7a6a721e2b67077c1b75a5b2|4 dalimi]]: ^s-7a6a721e2b67077c1b75a5b2
+4. Papildyti 20 straipsnį nauja 4 dalimi: ^s-7a6a721e2b67077c1b75a5b2
 
 
 „4. [[#^s-c22354b2a307393c0b1a51b2|Šio straipsnio 2 dalyje]] nustatytas draudimas netaikomas prižiūrint daugiabučio namo šildymo ir karšto vandens sistemas pastatuose, esančiuose gyvenamojoje vietovėje, kurioje, Lietuvos statistikos departamento duomenimis, gyvena mažiau negu 50 000 gyventojų, jeigu savivaldybės taryba nenusprendžia kitaip. Šis draudimas taip pat netaikomas tais atvejais, kai atestuotas pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) yra fizinis asmuo, kuris gyvena tame pastate.“
 
 
-5. Buvusias šio straipsnio 2, 3 ir [[#^s-7a6a721e2b67077c1b75a5b2|4 dalis]] laikyti atitinkamai 5, 6 ir 7 dalimis. ^s-cacbbc4bea6422e63488eeff
+5. Buvusias šio straipsnio [[#^s-c22354b2a307393c0b1a51b2|2]], [[#^s-fb01bce4736f9dcdd2c3d9da|3]] ir [[#^s-7a6a721e2b67077c1b75a5b2|4]] dalis laikyti atitinkamai 5, 6 ir 7 dalimis. ^s-cacbbc4bea6422e63488eeff
 
 
 

@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo į
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.9D1ADB9E1518|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - 2 citatos - Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo
+- [[latest/TAR.9D1ADB9E1518|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - LIETUVOS RESPUBLIKOS PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 2 STRAIPSNIO 21 DALYJE
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9D1ADB9E1518#^s-dfc92c95ffac9e15fc231e6f|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - 2 citatos - PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 1, 2 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO NAUJU 1 PRIEDU ĮSTATYMAS
-- [[latest/TAR.9D1ADB9E1518#^s-eb6b4b182aa6d2084809010b|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - 2 citatos - PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 1, 2 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO NAUJU 1 PRIEDU ĮSTATYMAS
+- [[latest/TAR.9D1ADB9E1518#^s-dfc92c95ffac9e15fc231e6f|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 1, 2 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO NAUJU 1 PRIEDU ĮSTATYMAS

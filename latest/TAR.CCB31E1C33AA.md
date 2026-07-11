@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-dae413bf3e5890f646e44a68
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. sausio 23 d. dekretą Nr. 1656, ratifikuoja Lietuvos Respublikos Vyriausybės ir Slovėnijos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir apsaugos, pasirašytą 1998 m. spalio 13 d. Liublianoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. sausio 23 d. dekretą Nr. 1656](https://e-tar.lt/portal/lt/legalAct/TAR.2E734E5DF735), ratifikuoja Lietuvos Respublikos Vyriausybės ir Slovėnijos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir apsaugos, pasirašytą 1998 m. spalio 13 d. Liublianoje.
 
 
 

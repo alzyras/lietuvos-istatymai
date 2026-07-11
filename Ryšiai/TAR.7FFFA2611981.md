@@ -14,5 +14,5 @@ pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Aukščiausiosios Taryb
 ## Šį įstatymą cituoja
 
 - [[latest/TAR.DBCAF0AFD52A#^s-44049c3c2ab6ef5de2276762|Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputato statuso]] - 0901010ISTA000I-438
-- [[latest/TAR.DBCAF0AFD52A#^s-74f3ef24ca651e440c25e99f|Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputato statuso]] - 2 citatos - 0901010ISTA000I-438
-- [[latest/TAR.DBCAF0AFD52A#^s-ce24357f4e23555d68db4a20|Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputato statuso]] - 0901010ISTA000I-438
+- [[latest/TAR.DBCAF0AFD52A#^s-74f3ef24ca651e440c25e99f|Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputato statuso]] - 0901010ISTA000I-438
+- [[latest/TAR.DBCAF0AFD52A#^s-ce24357f4e23555d68db4a20|Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputato statuso]] - 3 citatos - 0901010ISTA000I-438

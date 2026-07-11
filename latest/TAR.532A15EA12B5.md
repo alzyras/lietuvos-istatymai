@@ -142,7 +142,7 @@ Vyriausybė atsiskaito už nacionalinio saugumo sistemos būklę ir plėtrą įs
 ### 8 straipsnis.         Įstatymo priedėlio 1 skyriaus 1 dalies pakeitimas ir skyriaus papildymas 6 dalimi ^s-6df515b64ba9fbf495628eb2
 
 
-1. 1 skyriaus [[#^s-da1fd98d2d86709fcfcf03de|1 dalyje]] vietoj žodžių „užtikrinti Tautos ir valstybės saugų būvį“ įrašyti žodžius „užtikrinti Tautos saugų būvį ir valstybės vidaus bei išorės saugumą“ ir šią dalį išdėstyti taip: ^s-da1fd98d2d86709fcfcf03de
+1. 1 skyriaus 1 dalyje vietoj žodžių „užtikrinti Tautos ir valstybės saugų būvį“ įrašyti žodžius „užtikrinti Tautos saugų būvį ir valstybės vidaus bei išorės saugumą“ ir šią dalį išdėstyti taip: ^s-da1fd98d2d86709fcfcf03de
 
 
 „Nacionalinio saugumo politikos tikslas – sutelktomis valstybės ir piliečių pastangomis plėtoti ir stiprinti demokratiją, užtikrinti Tautos saugų būvį ir valstybės vidaus bei išorės saugumą, atgrasyti kiekvieną potencialų užpuoliką, ginti Lietuvos valstybės nepriklausomybę, teritorijos vientisumą ir konstitucinę santvarką.“
@@ -179,7 +179,7 @@ Pagrindiniai nacionalinio saugumo objektai yra:
 ### 10 straipsnis. Įstatymo priedėlio 2 skyriaus trečiojo skirsnio pakeitimas ir papildymas ^s-7fce95c6e5511d32cf6f6a05
 
 
-1. Pakeisti ir papildyti 2 skyriaus trečiojo skirsnio [[#^s-ed043056b4e152aaa5d9c3df|1 dalies]] a punktą ir jį išdėstyti taip: ^s-ed043056b4e152aaa5d9c3df
+1. Pakeisti ir papildyti 2 skyriaus trečiojo skirsnio 1 dalies a punktą ir jį išdėstyti taip: ^s-ed043056b4e152aaa5d9c3df
 
 
 „a) VALSTYBĖ:
@@ -209,13 +209,13 @@ Pagrindiniai nacionalinio saugumo objektai yra:
 – integruodamasi į Europos Sąjungą (EU) ir Šiaurės Atlanto sutarties organizaciją (NATO) bei kaip visateisė narė aktyviai dalyvaudama šiose organizacijose;“.
 
 
-2. Pakeisti 2 skyriaus trečiojo skirsnio [[#^s-7470a3cab1223c10436a04c6|2 dalį]] ir ją išdėstyti taip: ^s-7470a3cab1223c10436a04c6
+2. Pakeisti 2 skyriaus trečiojo skirsnio 2 dalį ir ją išdėstyti taip: ^s-7470a3cab1223c10436a04c6
 
 
 „Nacionalinio saugumo institucijos veikia ir plėtojamos, saugumo stiprinimo priemonės rengiamos ir vykdomos vadovaujantis demokratinės kontrolės principais.“
 
 
-3. Pakeisti 2 skyriaus trečiojo skirsnio [[#^s-1881f36785042fd2c61ee9b6|3 dalį]] ir ją išdėstyti taip: ^s-1881f36785042fd2c61ee9b6
+3. Pakeisti 2 skyriaus trečiojo skirsnio 3 dalį ir ją išdėstyti taip: ^s-1881f36785042fd2c61ee9b6
 
 
 „Valstybės institucijų vykdomas nacionalinio saugumo priemones nustato šis įstatymas, Nacionalinio saugumo strategija, ilgalaikės valstybinės saugumo stiprinimo programos bei kiti teisės aktai. Šioms priemonėms finansuoti naudojamos nacionalinio biudžeto, kreditų bei paramos lėšos.“

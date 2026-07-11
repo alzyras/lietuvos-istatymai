@@ -159,7 +159,7 @@ Papildyti Įstatymą 60 straipsniu:
 
 
 
-2. Savanoriškai neįvykdytas priežiūros institucijos sprendimas vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.“ ^s-abba19842483f586bf34fd0b
+2. Savanoriškai neįvykdytas priežiūros institucijos sprendimas vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.“ ^s-abba19842483f586bf34fd0b
 
 
 

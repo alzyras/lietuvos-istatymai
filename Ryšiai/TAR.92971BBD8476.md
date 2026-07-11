@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.28635AB7F3EB|Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymas]] - 4 citatos - Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymas
+- [[latest/TAR.28635AB7F3EB|Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymas]] - 2 citatos - Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymas
 
 ## Šį įstatymą cituoja
 

@@ -95,7 +95,7 @@ Kariuomenės drausmės statuto (toliau – Statuto) paskirtis:
 3. Už baudžiamajame įstatyme apibrėžtą veiką karys traukiamas baudžiamojon atsakomybėn Baudžiamojo ir Baudžiamojo proceso kodeksų nustatyta tvarka. ^s-360734f4bfc4f12a2d6a611c
 
 
-4. Karys, padaręs Administracinių teisės pažeidimų kodekse apibrėžtą veiką, už kurią numatyta atsakomybė pagal drausmės statutus, atsako tik pagal šį statutą. Už kitas Administracinių teisės pažeidimų kodekse apibrėžtas veikas karys traukiamas administracinėn atsakomybėn bendrais pagrindais. ^s-be7f55da4d4cc1d49e94c14b
+4. Karys, padaręs [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) apibrėžtą veiką, už kurią numatyta atsakomybė pagal drausmės statutus, atsako tik pagal šį statutą. Už kitas [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) apibrėžtas veikas karys traukiamas administracinėn atsakomybėn bendrais pagrindais. ^s-be7f55da4d4cc1d49e94c14b
 
 
 
@@ -600,7 +600,7 @@ Drausmės pažeidimo įrodymai yra visi faktiniai duomenys, kuriais remiantis nu
 1) duomenys, apibūdinantys drausmės pažeidėją (vardas, pavardė, kario laipsnis, tarnybos vieta ir pareigos, turimos nuobaudos ir paskatinimai); ^s-dc1919d51432285f7de33b6b
 
 
-2) šio statuto arba Administracinių teisės pažeidimų kodekso straipsnis, numatantis padarytą drausmės pažeidimą. ^s-3d10d088934ab6520b9e07b4
+2) šio statuto arba [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) straipsnis, numatantis padarytą drausmės pažeidimą. ^s-3d10d088934ab6520b9e07b4
 
 
 7. Tarnybinio patikrinimo rekomendacinėje dalyje išdėstoma: ^s-2cc0b57ee378362663c7a169
@@ -862,7 +862,7 @@ DRAUSMINIŲ NUOBAUDŲ SKYRIMO IR VYKDYMO TVARKA
 1. Vadas (viršininkas) drausminę nuobaudą skiria įsakymu, vadovaudamasis šio statuto straipsniu, numatančiu atsakomybę už padarytą drausmės pažeidimą, ir šio statuto I dalies bendrosiomis nuostatomis. ^s-64485121445242cd53889303
 
 
-2. Skirdamas drausminę nuobaudą už Administracinių teisės pažeidimų kodekse apibrėžtą veiką, už kurią numatyta atsakomybė pagal drausmės statutus, vadas (viršininkas) vadovaujasi Administracinių teisės pažeidimų kodekso straipsniu, numatančiu karių atsakomybę pagal drausmės statutus, ir šio statuto I dalies bendrosiomis nuostatomis. Už administracinį teisės pažeidimą skiriama viena iš šio statuto I dalies VI skyriuje nustatytų drausminių nuobaudų. Ji parenkama atsižvelgus į [[#^s-a9501bfe3cdc31ff1b4f2487|šio straipsnio 7 dalyje]] nurodytas aplinkybes. ^s-b785c20359d4271d68fcae4c
+2. Skirdamas drausminę nuobaudą už [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) apibrėžtą veiką, už kurią numatyta atsakomybė pagal drausmės statutus, vadas (viršininkas) vadovaujasi [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) straipsniu, numatančiu karių atsakomybę pagal drausmės statutus, ir šio statuto I dalies bendrosiomis nuostatomis. Už administracinį teisės pažeidimą skiriama viena iš šio statuto I dalies VI skyriuje nustatytų drausminių nuobaudų. Ji parenkama atsižvelgus į [[#^s-a9501bfe3cdc31ff1b4f2487|šio straipsnio 7 dalyje]] nurodytas aplinkybes. ^s-b785c20359d4271d68fcae4c
 
 
 3. Pagrindas skirti drausminę nuobaudą yra šio statuto nustatyta tvarka atlikto tarnybinio patikrinimo išvada arba pažeidimą padariusio kario raštiškas paaiškinimas, patvirtinantys šiame statute numatyto drausmės pažeidimo faktą. ^s-b3a73611b27e0b5d14dcc740

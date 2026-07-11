@@ -55,7 +55,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 ### 2 straipsnis. 2 straipsnio 1, 4 ir 5 dalių pakeitimas ^s-9e0d7496b98aa5fd6d507a56
 
 
-1. Pakeisti [[#^s-dd32aa690b5713391a7f7b86|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-dd32aa690b5713391a7f7b86
+1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^s-dd32aa690b5713391a7f7b86
 
 
 „1. Atleidžiami iš darbo darbuotojai – Ignalinos AE darbuotojai, kurie yra įspėti apie darbo sutarties nutraukimą Darbo kodekso 129 straipsnyje nustatytais pagrindais dėl Ignalinos AE pirmojo ir antrojo blokų eksploatavimo užbaigimo.“

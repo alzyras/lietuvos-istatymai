@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.5D6D055CC00C#^s-538e2ea3c94a00109bb014c4|Lietuvos Respublikos miškų įstatymas]] - 2 citatos - MIŠKŲ ĮSTATYMO 8, 10, 14, 16, 17, 18, 22, 26 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.5D6D055CC00C#^s-895c88c7b403a7b955bdae1c|Lietuvos Respublikos miškų įstatymas]] - 2 citatos - MIŠKŲ ĮSTATYMO 8, 10, 14, 16, 17, 18, 22, 26 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.5D6D055CC00C#^s-538e2ea3c94a00109bb014c4|Lietuvos Respublikos miškų įstatymas]] - MIŠKŲ ĮSTATYMO 8, 10, 14, 16, 17, 18, 22, 26 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

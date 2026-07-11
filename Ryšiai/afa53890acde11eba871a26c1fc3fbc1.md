@@ -9,9 +9,14 @@ pavadinimas: "Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo į
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.9D1ADB9E1518#^s-1daca156e8a9d856e1931384|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - 2
+- [[latest/TAR.9D1ADB9E1518#^s-219814c534de91bb0842c0e9|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - 5 straipsnio 2 dalį
+- [[latest/TAR.9D1ADB9E1518#^s-2f99792ab663d521b99b1184|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - 4
+- [[latest/TAR.9D1ADB9E1518#^s-a89868092f972193ed64e36c|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - 11 straipsnio
+- [[latest/TAR.9D1ADB9E1518#^s-b2814b6d9f70d5a8d5f09623|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - 2 citatos - 1
+- [[latest/TAR.9D1ADB9E1518#^s-c36762138501c4aaae3006ef|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - 3
+- [[latest/TAR.9D1ADB9E1518#^s-d6c8d81cf4c64ec86a347764|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - 5 straipsnio 1 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9D1ADB9E1518#^s-dfc92c95ffac9e15fc231e6f|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - Įstatymas Nr. XIV-287
-- [[latest/TAR.9D1ADB9E1518#^s-eb6b4b182aa6d2084809010b|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - Įstatymas Nr. XIV-287
+_Nėra._

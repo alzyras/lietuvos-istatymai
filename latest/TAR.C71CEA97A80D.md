@@ -126,7 +126,7 @@ PARDAVĖJŲ IR PASLAUGŲ TEIKĖJŲ ATSAKOMYBĖ
 1. Valstybinė vartotojų teisių apsaugos tarnyba už Civilinio kodekso 6.369 straipsnio 3, 7–13 dalyse, 6.370 straipsnio 4–9 dalyse ir šio įstatymo 36 straipsnio 5–17 dalyse, 37 straipsnio 1–4, 8–12 dalyse, 38 straipsnio 1 dalyje, 39 straipsnyje nurodytų reikalavimų (draudimų) nesilaikymą pardavėjui, paslaugų teikėjui gali skirti nuo penkių šimtų iki penkių tūkstančių litų baudą. Jeigu pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos vartotojų interesams, Valstybinė vartotojų teisių apsaugos tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, gali taikyti įspėjimą, neskirdama pardavėjams, paslaugų teikėjams baudos. ^s-cf67ac66f09e5f5ffb0a4efb
 
 
-2. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio 3 ir [[#^s-cde941039160682ba8e643a3|4 dalyse]] nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Skiriamos baudos dydis nustatomas pagal baudos dydžio minimumo ir maksimumo vidurkį, atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidutinio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidutinio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas Valstybinės vartotojų teisių apsaugos tarnybos nutarime. ^s-b1904d4e7745ff806b2477ff
+2. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio [[#^s-adf79dacd03c7a9adf3f4a5d|3]] ir [[#^s-cde941039160682ba8e643a3|4]] dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Skiriamos baudos dydis nustatomas pagal baudos dydžio minimumo ir maksimumo vidurkį, atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidutinio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidutinio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas Valstybinės vartotojų teisių apsaugos tarnybos nutarime. ^s-b1904d4e7745ff806b2477ff
 
 
 3. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad pardavėjas, paslaugų teikėjas, padarę pažeidimą, savo noru užkirto kelią žalingoms pažeidimo pasekmėms, padėjo Valstybinei vartotojų teisių apsaugos tarnybai tyrimo metu, atlygino nuostolius ir (ar) pašalino padarytą žalą. Valstybinė vartotojų teisių apsaugos tarnyba gali pripažinti atsakomybę lengvinančiomis aplinkybėmis ir kitas šioje dalyje nenurodytas aplinkybes. ^s-adf79dacd03c7a9adf3f4a5d
@@ -308,10 +308,10 @@ Valstybinė vartotojų teisių apsaugos tarnyba, konstatavusi, kad pardavėjas, 
 ### 48 straipsnis. Nutarimo vykdymas ^s-899d0d5863da5645fe4897b3
 
 
-1. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas turi būti įvykdytas ne vėliau kaip per vieną mėnesį nuo dienos, kurią vartotojų teisių pažeidimą padariusiam pardavėjui, paslaugų teikėjui jis buvo įteiktas. Apskundus Valstybinės vartotojų teisių apsaugos tarnybos nutarimą dėl baudos skyrimo, bauda turi būti sumokėta ne vėliau kaip per 30 kalendorinių dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. ^s-9ee40dd4f252d09d11e05890
+1. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas turi būti įvykdytas ne vėliau kaip per vieną mėnesį nuo dienos, kurią vartotojų teisių pažeidimą padariusiam pardavėjui, paslaugų teikėjui jis buvo įteiktas. Apskundus Valstybinės vartotojų teisių apsaugos tarnybos nutarimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo, bauda turi būti sumokėta ne vėliau kaip per 30 kalendorinių dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. ^s-9ee40dd4f252d09d11e05890
 
 
-2. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos. ^s-ba7a3a3b6c3c2c8aa1587b25
+2. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas yra vykdomasis dokumentas, vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos. ^s-ba7a3a3b6c3c2c8aa1587b25
 
 
 
@@ -321,7 +321,7 @@ Valstybinė vartotojų teisių apsaugos tarnyba, konstatavusi, kad pardavėjas, 
 1. Pardavėjas, paslaugų teikėjas, pareiškėjas, nesutinkantys su Valstybinės vartotojų teisių apsaugos tarnybos nutarimu, turi teisę per 30 kalendorinių dienų nuo nutarimo priėmimo dienos apskųsti jį teismui [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-2ecc79827f55cd76d207f3b4
 
 
-2. Kreipimasis į teismą sustabdo Valstybinės vartotojų teisių apsaugos tarnybos nutarimo dėl baudos skyrimo vykdymą.“ ^s-a04ccd3fb3e4b64bede28a7b
+2. Kreipimasis į teismą sustabdo Valstybinės vartotojų teisių apsaugos tarnybos nutarimo [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo vykdymą.“ ^s-a04ccd3fb3e4b64bede28a7b
 
 
 

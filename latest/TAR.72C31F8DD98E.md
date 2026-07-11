@@ -368,7 +368,7 @@ d) patalpos insoliacijos norma.
 1) pastačius, rekonstravus, kapitališkai suremontavus ar nugriovus statinius, pakeitus statinių ir patalpų paskirtį, atlikus kultūros paveldo objekto (statinio) tvarkomuosius statybos darbus ir (ar) tvarkybos darbus ir jeigu šie pakitimai nebuvo nustatyti [[#^s-b68a9fafc1058c591944b344|šio straipsnio 2 dalyje]] numatytu atveju; ^s-0c369fb8bdccfb52604751ee
 
 
-2) [[latest/TAR.F31E79DEC55D#^s-5dfbac77de0ddb2cc08c40b2|Statybos įstatymo 28 straipsnio 1 dalies]] 1 ir 2 punktuose ir 39 straipsnio 1 dalyje nustatytais atvejais; ^s-706eca6d642b9fabdad834b4
+2) [[latest/TAR.F31E79DEC55D#^s-5dfbac77de0ddb2cc08c40b2|Statybos įstatymo 28 straipsnio 1 dalies]] [[latest/TAR.F31E79DEC55D#^s-865ed2245f47899a92f72b86|1]] ir [[latest/TAR.F31E79DEC55D#^s-b3c921dc192e0d35ad91b684|2]] punktuose ir 39 straipsnio 1 dalyje nustatytais atvejais; ^s-706eca6d642b9fabdad834b4
 
 
 3) statinio ar patalpos savininko ar patikėtinio, o jiems sutikus, ir naudotojo pageidavimu. ^s-7a82b203c1e3f8b65323217e
@@ -419,7 +419,7 @@ d) patalpos insoliacijos norma.
 7. Informacinėje sistemoje įregistruoto žemės sklypo, kurio ribas kerta šio įstatymo [[#^s-f5eed3780ad703409b83c1b8|11 straipsnio 4 dalies 2 punkto]] c papunktyje nustatytu atveju ir sąlygomis Nekilnojamojo turto kadastro žemėlapyje pažymėto inžinerinio statinio – kelio ribos, ribos šio žemės sklypo savininko iniciatyva turi būti patikslintos ir šie patikslinti žemės sklypo kadastro duomenys Informacinėje sistemoje įrašyti ne vėliau kaip per 3 metus nuo tokio inžinerinio statinio – kelio ir (arba) žemės sklypo ribų pažymėjimo Nekilnojamojo turto kadastro žemėlapyje dienos. ^s-ff0a8fbcd435501059b79745
 
 
-8. [[latest/TAR.CC10C5274343#^s-173b2d8ebb7c5a1a3721643e|Žemės įstatymo 32 straipsnio 3 dalies 11 punkte]], 6 dalies 23 punkte nurodyti sprendimai, jeigu tokių reikia, priimami arba [[latest/TAR.F31E79DEC55D#^s-5dfbac77de0ddb2cc08c40b2|Statybos įstatymo 28 straipsnio 1 dalies]] 1 ir 2 punktuose nurodyti dokumentai, atlikus visus statybos darbus, kurių metu pakeisti statinio kadastro duomenys, surašomi ir tvirtinami (kai juos privaloma patvirtinti), kai pagal nekilnojamojo daikto kadastro duomenų bylą Informacinėje sistemoje įrašyti patikslinti nekilnojamojo daikto kadastro duomenys ir yra nekilnojamojo daikto žyma, kad reikalingi (laukiami) [[latest/TAR.CC10C5274343#^s-173b2d8ebb7c5a1a3721643e|Žemės įstatymo 32 straipsnio 3 dalies 11 punkte]] ir 6 dalies 23 punkte nurodyti sprendimai arba [[latest/TAR.F31E79DEC55D#^s-5dfbac77de0ddb2cc08c40b2|Statybos įstatymo 28 straipsnio 1 dalies]] 1 ir 2 punktuose nurodyti dokumentai, arba dokumentas daiktinei teisei į nekilnojamąjį daiktą įregistruoti ar pakeisti. ^s-1ccb0e609965aba853450d5c
+8. [[latest/TAR.CC10C5274343|Žemės įstatymo 32 straipsnio 3 dalies 11 punkte, 6 dalies 23 punkte nurodyti sprendimai, jeigu tokių reikia, priimami arba Statybos įstatymo 28 straipsnio 1 dalies]] [[latest/TAR.CC10C5274343|1]] ir [[latest/TAR.CC10C5274343|2]] punktuose nurodyti dokumentai, atlikus visus statybos darbus, kurių metu pakeisti statinio kadastro duomenys, surašomi ir tvirtinami (kai juos privaloma patvirtinti), kai pagal nekilnojamojo daikto kadastro duomenų bylą Informacinėje sistemoje įrašyti patikslinti nekilnojamojo daikto kadastro duomenys ir yra nekilnojamojo daikto žyma, kad reikalingi (laukiami) [[latest/TAR.CC10C5274343|Žemės įstatymo 32 straipsnio 3 dalies 11 punkte ir 6 dalies 23 punkte nurodyti sprendimai arba Statybos įstatymo 28 straipsnio 1 dalies]] [[latest/TAR.CC10C5274343|1]] ir [[latest/TAR.CC10C5274343|2]] punktuose nurodyti dokumentai, arba dokumentas daiktinei teisei į nekilnojamąjį daiktą įregistruoti ar pakeisti. ^s-1ccb0e609965aba853450d5c
 
 
 9. Nekilnojamojo daikto kadastro duomenų nustatymo ir pakeitimo tvarką, reikalavimus ir leidžiamus nustatytų nekilnojamojo daikto kadastro duomenų nesutapimo dėl skirtingo tikslumo kadastrinių matavimų dydžius nustato aplinkos ministras. ^s-3ddbe4b02d7ed7ae0826fd86
@@ -520,13 +520,13 @@ NEKILNOJAMŲJŲ DAIKTŲ KADASTRINIAI MATAVIMAI, ŽEMĖS SKLYPO RIBŲ PARODYMAS I
 7. Statinio, kurio statybai nėra privalomas statybą leidžiantis dokumentas, kadastrinių matavimų metu nustačius, kad statinys patenka į Informacinėje sistemoje įregistruotos magistralinių dujotiekių vietovės klasių teritorijos ribas, matininkas rengia šio statinio kadastro duomenų bylą gavęs šių magistralinių dujotiekių savininko arba valstybinės ar savivaldybės žemės sklypo patikėtinio rašytinį pritarimą statinio projektui, o tais atvejais, kai statinio projektas nerengiamas (neprivalomas), – magistralinių dujotiekių savininko rašytinį pritarimą numatomai veiklai (statinio statybos darbams). ^s-6dbc89bb7005f9beb356eabd
 
 
-8. Šio straipsnio 3–[[#^s-6dbc89bb7005f9beb356eabd|7 dalyse]] nurodyti sutikimai ir įsipareigojimai turi būti komplektuojami matininko parengtoje nekilnojamojo daikto kadastro duomenų byloje. ^s-3622780d915148ed92cf84ef
+8. Šio straipsnio [[#^s-f324c02a9366c5ba4f1c4318|3]]–[[#^s-6dbc89bb7005f9beb356eabd|7]] dalyse nurodyti sutikimai ir įsipareigojimai turi būti komplektuojami matininko parengtoje nekilnojamojo daikto kadastro duomenų byloje. ^s-3622780d915148ed92cf84ef
 
 
 9. Matininkas atlieka nekilnojamųjų daiktų kadastrinius matavimus, parengia ir patvirtina nekilnojamojo daikto kadastro duomenų bylą, kuri yra nekilnojamojo daikto registravimo Informacinėje sistemoje pagrindas. Nekilnojamasis daiktas Informacinėje sistemoje gali būti registruojamas tik Informacinės sistemos tvarkytojui aplinkos ministro nustatyta tvarka suderinus matininko parengtą nekilnojamojo daikto kadastro duomenų bylą. Informacinėje sistemoje įregistravus nekilnojamąjį daiktą, daiktinės teisės į jį Informacinėje sistemoje turi būti įregistruotos ne vėliau kaip per 3 metus nuo šio nekilnojamojo daikto įregistravimo Informacinėje sistemoje dienos. Jei per 3 metus nuo nekilnojamojo daikto įregistravimo Informacinėje sistemoje dienos šioje sistemoje neįregistruojamos daiktinės teisės į šį nekilnojamąjį daiktą, Informacinės sistemos tvarkytojas aplinkos ministro nustatyta tvarka perkelia nekilnojamojo daikto kadastro duomenis į Informacinės sistemos duomenų bazės archyvą. Jei nekilnojamojo daikto kadastro duomenys buvo perkelti į Informacinės sistemos duomenų bazės archyvą, siekiant įregistruoti daiktines teises į šį nekilnojamąjį daiktą, nekilnojamasis daiktas Informacinėje sistemoje įregistruojamas iš naujo matininko parengtos ir patvirtintos nekilnojamojo daikto kadastro duomenų bylos pagrindu. ^s-9186fa89b53138ec4976fa22
 
 
-10. [[latest/TAR.CC10C5274343#^s-173b2d8ebb7c5a1a3721643e|Žemės įstatymo 32 straipsnio 3 dalies 11 punkte]], 6 dalies 23 punkte nurodyti sprendimai priimami arba [[latest/TAR.F31E79DEC55D#^s-5dfbac77de0ddb2cc08c40b2|Statybos įstatymo 28 straipsnio 1 dalies]] 1 ir 2 punktuose, 39 straipsnio 1 dalyje nurodyti dokumentai, atlikus visus statybos darbus, surašomi ir tvirtinami (kai juos privaloma patvirtinti), kai nekilnojamasis daiktas įregistruojamas Informacinėje sistemoje. ^s-8eb4c63872e45bb7633b9d5a
+10. [[latest/TAR.CC10C5274343|Žemės įstatymo 32 straipsnio 3 dalies 11 punkte, 6 dalies 23 punkte nurodyti sprendimai priimami arba Statybos įstatymo 28 straipsnio 1 dalies]] [[latest/TAR.CC10C5274343|1]] ir [[latest/TAR.CC10C5274343|2]] punktuose, 39 straipsnio 1 dalyje nurodyti dokumentai, atlikus visus statybos darbus, surašomi ir tvirtinami (kai juos privaloma patvirtinti), kai nekilnojamasis daiktas įregistruojamas Informacinėje sistemoje. ^s-8eb4c63872e45bb7633b9d5a
 
 
 11. Nekilnojamojo daikto kadastro duomenų byla aplinkos ministro nustatyta tvarka gali būti parengta ne visos komplektacijos, kai: ^s-09f1348a67ef9a2934b3d24d
@@ -614,7 +614,7 @@ NEKILNOJAMOJO TURTO KADASTRO ŽEMĖLAPIS
 1. Nekilnojamojo turto kadastro žemėlapis rengiamas ir tikslinamas pagal georeferencinių erdvinių duomenų rinkinius, Informacinėje sistemoje įregistruotų objektų erdvinius duomenis vadovaujantis žemės sklypo planu ir kitais formuojant nekilnojamąjį daiktą sudarytais dokumentais, kurie pateikti nekilnojamojo daikto kadastro duomenims įrašyti. ^s-17db1a91df860626fed8ce8a
 
 
-2. Nekilnojamojo turto kadastro žemėlapyje šio įstatymo [[#^s-569eb0e74d8cf9718f597ad0|3 straipsnio 1 dalies]] 1 ar [[#^s-04abb00517e10a77eee22c91|2 punkte]] nurodyto nekilnojamojo daikto, žemės servituto ir sodininkų bendrijai skirtos mėgėjų sodo teritorijos ribos pažymimos patikrinus, ar: ^s-281c6da968d24b0522fb1ed6
+2. Nekilnojamojo turto kadastro žemėlapyje šio įstatymo [[#^s-569eb0e74d8cf9718f597ad0|3 straipsnio 1 dalies]] [[#^s-31e39422ee3bb608bd5299ad|1]] ar [[#^s-8bfb65d83f1bd79368a3b5eb|2]] punkte nurodyto nekilnojamojo daikto, žemės servituto ir sodininkų bendrijai skirtos mėgėjų sodo teritorijos ribos pažymimos patikrinus, ar: ^s-281c6da968d24b0522fb1ed6
 
 
 1) nekilnojamojo daikto, žemės servituto, sodininkų bendrijai skirtos mėgėjų sodo teritorijos ribų planai parengti taip, kad naudojantis valstybinės koordinačių sistemos duomenimis būtų galima nustatyti: ^s-abad1837a91ff26eaf049e95
@@ -662,10 +662,10 @@ b) žemės sklypo, žemės servituto ir sodininkų bendrijai skirtos mėgėjų s
 13) sodininkų bendrijoms skirtų mėgėjų sodo teritorijų ribos nekerta besiribojančių Nekilnojamojo turto kadastro žemėlapyje pažymėtų žemės sklypų, sodininkų bendrijoms skirtų mėgėjų sodo teritorijų, administracinių vienetų teritorijų, gyvenamųjų vietovių teritorijų, kadastro vietovių ir blokų, kelių ir hidrografijos objektų, išskyrus hidrografijos objektus, kurie kelią kerta per pralaidas, ribų. ^s-a03601ce599d7dbc74ef73c5
 
 
-3. Nenustačius [[#^s-281c6da968d24b0522fb1ed6|šio straipsnio 2 dalyje]] nurodytų aplinkybių, draudžiančių pažymėti šio įstatymo [[#^s-569eb0e74d8cf9718f597ad0|3 straipsnio 1 dalies]] 1 ar 2 punkte nurodyto nekilnojamojo daikto, žemės servituto ar sodininkų bendrijai skirtos mėgėjų sodo teritorijos ribas, šio nekilnojamojo daikto, žemės servituto ar sodininkų bendrijai skirtos mėgėjų sodo teritorijos ribos aplinkos ministro nustatyta tvarka pažymimos Nekilnojamojo turto kadastro žemėlapyje. ^s-61621a2e398563cd744bda2f
+3. Nenustačius [[#^s-281c6da968d24b0522fb1ed6|šio straipsnio 2 dalyje]] nurodytų aplinkybių, draudžiančių pažymėti šio įstatymo [[#^s-569eb0e74d8cf9718f597ad0|3 straipsnio 1 dalies]] [[#^s-31e39422ee3bb608bd5299ad|1]] ar [[#^s-8bfb65d83f1bd79368a3b5eb|2]] punkte nurodyto nekilnojamojo daikto, žemės servituto ar sodininkų bendrijai skirtos mėgėjų sodo teritorijos ribas, šio nekilnojamojo daikto, žemės servituto ar sodininkų bendrijai skirtos mėgėjų sodo teritorijos ribos aplinkos ministro nustatyta tvarka pažymimos Nekilnojamojo turto kadastro žemėlapyje. ^s-61621a2e398563cd744bda2f
 
 
-4. Nustačius [[#^s-281c6da968d24b0522fb1ed6|šio straipsnio 2 dalyje]] nurodytų aplinkybių, draudžiančių pažymėti šio įstatymo [[#^s-569eb0e74d8cf9718f597ad0|3 straipsnio 1 dalies]] 1 ar [[#^s-f5eed3780ad703409b83c1b8|2 punkte]] nurodyto nekilnojamojo daikto, žemės servituto ar sodininkų bendrijai skirtos mėgėjų sodo teritorijos ribas, šio nekilnojamojo daikto, žemės servituto ar sodininkų bendrijai skirtos mėgėjų sodo teritorijos ribos nežymimos Nekilnojamojo turto kadastro žemėlapyje, išskyrus atvejus, kai: ^s-702f4df3fe18fa51ebc33ccd
+4. Nustačius [[#^s-281c6da968d24b0522fb1ed6|šio straipsnio 2 dalyje]] nurodytų aplinkybių, draudžiančių pažymėti šio įstatymo [[#^s-569eb0e74d8cf9718f597ad0|3 straipsnio 1 dalies]] [[#^s-31e39422ee3bb608bd5299ad|1]] ar [[#^s-8bfb65d83f1bd79368a3b5eb|2]] punkte nurodyto nekilnojamojo daikto, žemės servituto ar sodininkų bendrijai skirtos mėgėjų sodo teritorijos ribas, šio nekilnojamojo daikto, žemės servituto ar sodininkų bendrijai skirtos mėgėjų sodo teritorijos ribos nežymimos Nekilnojamojo turto kadastro žemėlapyje, išskyrus atvejus, kai: ^s-702f4df3fe18fa51ebc33ccd
 
 
 1) žemės sklypo, kuris suformuotas ar kurio kadastro duomenys keičiami tenkinant viešąjį interesą – [[latest/TAR.CC10C5274343#^s-2b4adb00df207e15b12f1bbf|Žemės įstatymo 45 straipsnio 1 dalyje]] nurodytoms reikmėms ir (ar) įgyvendinant ypatingos valstybinės svarbos projektus, ir (ar) krašto apsaugos tikslams, ribos: ^s-d46708bcb50b78ec7ed522ab
@@ -683,7 +683,7 @@ b) kerta su šio žemės sklypo ribomis besiribojančio inžinerinio statinio �
 a) valstybinės žemės sklypo ribas ir inžinerinio statinio – kelio kadastro duomenų byloje yra pateikti šio įstatymo [[#^s-f324c02a9366c5ba4f1c4318|9 straipsnio 3 dalyje]] nurodyti sutikimas ir įsipareigojimas (šio inžinerinio statinio – kelio ribos pažymimos Nekilnojamojo turto kadastro žemėlapyje);
 
 
-b) žemės sklypo, išskyrus [[#^s-f5eed3780ad703409b83c1b8|šio straipsnio 4 dalies 2 punkto]] a papunktyje nurodytą žemės sklypą, ribas ir inžinerinio statinio – kelio kadastro duomenų byloje yra pateikti šio įstatymo [[#^s-6f0e65915bd925fd3ca2edb5|9 straipsnio 4 dalyje]] nurodyti sutikimas ir įsipareigojimas (šio inžinerinio statinio – kelio ribos pažymimos Nekilnojamojo turto kadastro žemėlapyje);
+b) žemės sklypo, išskyrus šio straipsnio 4 dalies 2 punkto a papunktyje nurodytą žemės sklypą, ribas ir inžinerinio statinio – kelio kadastro duomenų byloje yra pateikti šio įstatymo [[#^s-6f0e65915bd925fd3ca2edb5|9 straipsnio 4 dalyje]] nurodyti sutikimas ir įsipareigojimas (šio inžinerinio statinio – kelio ribos pažymimos Nekilnojamojo turto kadastro žemėlapyje);
 
 
 c) kitų šio prašomo pažymėti inžinerinio statinio – kelio savininko arba valstybinės ar savivaldybės žemės sklypo patikėtinio nuosavybės ar patikėjimo teise valdomų žemės sklypų ribas ir inžinerinio statinio – kelio kadastro duomenų byloje yra pateiktas šio įstatymo [[#^s-ea7999e66ce2677ef896e601|9 straipsnio 5 dalyje]] nurodytas įsipareigojimas (šio inžinerinio statinio – kelio ribos pažymimos Nekilnojamojo turto kadastro žemėlapyje).
@@ -753,7 +753,7 @@ NEKILNOJAMŲJŲ DAIKTŲ ŽYMOS IR ĮRAŠAI
 12) kai Nekilnojamojo turto kadastro žemėlapyje pažymimos žemės sklypo ribos, kurios kerta besiribojančio žemės sklypo ribas, nustatytas neatliekant kadastrinių matavimų valstybinėje koordinačių sistemoje; ^s-c5776f85ab3ff7af4f5475ba
 
 
-13) kai Nekilnojamojo turto kadastro žemėlapyje pažymimos žemės sklypo ir (arba) inžinerinio statinio – kelio, kurie suformuoti ar kurių kadastro duomenys keičiami tenkinant viešąjį interesą – [[latest/TAR.CC10C5274343#^s-2b4adb00df207e15b12f1bbf|Žemės įstatymo 45 straipsnio 1 dalyje]] nurodytoms reikmėms ir (ar) įgyvendinant ypatingos valstybinės svarbos projektus, ir (ar) krašto apsaugos tikslams, ribos kerta besiribojančio (-ių) žemės sklypo (-ų) ir (arba) inžinerinio statinio – kelio ribas ir esant šio įstatymo [[#^s-f84dbba823ec19476d906312|9 straipsnio]] 3–6 dalyse nurodytiems sutikimams ir įsipareigojimams; ^s-2a857bb093d3736c18edb0f2
+13) kai Nekilnojamojo turto kadastro žemėlapyje pažymimos žemės sklypo ir (arba) inžinerinio statinio – kelio, kurie suformuoti ar kurių kadastro duomenys keičiami tenkinant viešąjį interesą – [[latest/TAR.CC10C5274343#^s-2b4adb00df207e15b12f1bbf|Žemės įstatymo 45 straipsnio 1 dalyje]] nurodytoms reikmėms ir (ar) įgyvendinant ypatingos valstybinės svarbos projektus, ir (ar) krašto apsaugos tikslams, ribos kerta besiribojančio (-ių) žemės sklypo (-ų) ir (arba) inžinerinio statinio – kelio ribas ir esant šio įstatymo [[#^s-f84dbba823ec19476d906312|9 straipsnio]] [[#^s-f324c02a9366c5ba4f1c4318|3]]–[[#^s-fc616d165f4ca5bebf1b38dc|6]] dalyse nurodytiems sutikimams ir įsipareigojimams; ^s-2a857bb093d3736c18edb0f2
 
 
 14) kitais įstatymų numatytais atvejais. ^s-6f73434065c4275413f672d2
@@ -888,7 +888,7 @@ MATININKO VEIKLOS SĄLYGOS, KVALIFIKACIJA, TEISĖS IR PAREIGOS
 7) aplinkos ministro nustatyta tvarka teikti matininko veiklos priežiūrą atliekančiai aplinkos ministro įgaliotai institucijai (toliau – matininko veiklos priežiūrą atliekanti institucija), teismams, kitoms valstybės ar savivaldybės institucijoms ar įstaigoms informaciją apie savo parengtus nekilnojamojo daikto kadastro duomenų byloje komplektuojamus dokumentus; ^s-5deec9e4008bf147211bb412
 
 
-8) laikytis asmens duomenų tvarkymo reikalavimų įgyvendinant tinkamas technines ir organizacines asmens duomenų saugumo priemones, kitas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente) duomenų valdytojui nustatytas prievoles (kai matininkas yra duomenų valdytojas, kaip jis suprantamas pagal Reglamentą (ES) 2016/679). ^s-8d71799642b8fcf3b5eb736e
+8) laikytis asmens duomenų tvarkymo reikalavimų įgyvendinant tinkamas technines ir organizacines asmens duomenų saugumo priemones, kitas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente) duomenų valdytojui nustatytas prievoles (kai matininkas yra duomenų valdytojas, kaip jis suprantamas pagal [Reglamentą (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj)). ^s-8d71799642b8fcf3b5eb736e
 
 
 
@@ -922,10 +922,10 @@ MATININKO VEIKLOS SĄLYGOS, KVALIFIKACIJA, TEISĖS IR PAREIGOS
 5. Matininkui pateikiamas rašytinis įspėjimas, jeigu: ^s-b53b886e767f1ae7d97bec0e
 
 
-1) įsiteisėjo nutarimas skirti administracinę nuobaudą pagal Administracinių nusižengimų kodekso 334 straipsnio 1 ar [[#^s-04d67eafd18fc548ffabb8b2|2 dalį]], bet matininkas nepašalino nešiurkštaus pažeidimo ir nepateikė matininko veiklos priežiūrą atliekančiai institucijai per [[#^s-ae5d64813934c26e3dccc16e|šio straipsnio 4 dalyje]] nustatytą terminą šio pažeidimo pašalinimą įrodančių dokumentų ar kitų įrodymų. Šiuo atveju matininkas įspėjamas, kad, jeigu nepašalins šio pažeidimo ir nepateiks jo pašalinimą įrodančių dokumentų ar kitų įrodymų per 10 darbo dienų nuo šio įspėjimo gavimo dienos, jo matininko kvalifikacijos pažymėjimo galiojimas bus sustabdytas; ^s-dde71b5f51bd3a5ac0a7e1e4
+1) įsiteisėjo nutarimas skirti administracinę nuobaudą pagal Administracinių nusižengimų kodekso 334 straipsnio 1 ar 2 dalį, bet matininkas nepašalino nešiurkštaus pažeidimo ir nepateikė matininko veiklos priežiūrą atliekančiai institucijai per [[#^s-ae5d64813934c26e3dccc16e|šio straipsnio 4 dalyje]] nustatytą terminą šio pažeidimo pašalinimą įrodančių dokumentų ar kitų įrodymų. Šiuo atveju matininkas įspėjamas, kad, jeigu nepašalins šio pažeidimo ir nepateiks jo pašalinimą įrodančių dokumentų ar kitų įrodymų per 10 darbo dienų nuo šio įspėjimo gavimo dienos, jo matininko kvalifikacijos pažymėjimo galiojimas bus sustabdytas; ^s-dde71b5f51bd3a5ac0a7e1e4
 
 
-2) įsiteisėjo nutarimas skirti administracinę nuobaudą pagal Administracinių nusižengimų kodekso 334 straipsnio 3 ar [[#^s-ae5d64813934c26e3dccc16e|4 dalį]], bet matininkas nepašalino šiurkštaus pažeidimo ir nepateikė matininko veiklos priežiūrą atliekančiai institucijai per [[#^s-ae5d64813934c26e3dccc16e|šio straipsnio 4 dalyje]] nustatytą terminą šio pažeidimo pašalinimą įrodančių dokumentų ar kitų įrodymų. Šiuo atveju matininkas įspėjamas, kad, jeigu nepašalins šio pažeidimo ir nepateiks jo pašalinimą įrodančių dokumentų ar kitų įrodymų per 10 darbo dienų nuo šio įspėjimo gavimo dienos, jo matininko kvalifikacijos pažymėjimo galiojimas bus panaikintas; ^s-5df0652725a58ac59977dceb
+2) įsiteisėjo nutarimas skirti administracinę nuobaudą pagal Administracinių nusižengimų kodekso 334 straipsnio 3 ar 4 dalį, bet matininkas nepašalino šiurkštaus pažeidimo ir nepateikė matininko veiklos priežiūrą atliekančiai institucijai per [[#^s-ae5d64813934c26e3dccc16e|šio straipsnio 4 dalyje]] nustatytą terminą šio pažeidimo pašalinimą įrodančių dokumentų ar kitų įrodymų. Šiuo atveju matininkas įspėjamas, kad, jeigu nepašalins šio pažeidimo ir nepateiks jo pašalinimą įrodančių dokumentų ar kitų įrodymų per 10 darbo dienų nuo šio įspėjimo gavimo dienos, jo matininko kvalifikacijos pažymėjimo galiojimas bus panaikintas; ^s-5df0652725a58ac59977dceb
 
 
 3) matininkas per matininko veiklos priežiūrą atliekančios institucijos nustatytą terminą nepateikė prašomų dokumentų ir duomenų, kurių reikia informacijai apie jo padarytus pažeidimus ištirti. Šiuo atveju matininkas įspėjamas, kad, jeigu nepateiks matininko veiklos priežiūrą atliekančiai institucijai prašomų dokumentų ir duomenų, kurių reikia informacijai apie jo padarytus pažeidimus ištirti, per 10 darbo dienų nuo šio įspėjimo gavimo dienos, jo matininko kvalifikacijos pažymėjimo galiojimas bus sustabdytas; ^s-9838412553257c1e2a216a2e
@@ -949,7 +949,7 @@ MATININKO VEIKLOS SĄLYGOS, KVALIFIKACIJA, TEISĖS IR PAREIGOS
 4) matininko prašyme nurodytam terminui, kai matininkas Įgaliotai institucijai pateikia prašymą sustabdyti matininko kvalifikacijos pažymėjimo galiojimą. Šiuo atveju matininko kvalifikacijos pažymėjimo galiojimas sustabdomas ne vėliau kaip per 5 darbo dienas nuo matininko prašymo gavimo Įgaliotoje institucijoje dienos. ^s-e5b59f9f3879b8cbb052a5c3
 
 
-7. Nepasibaigus [[#^s-3b9e19a6da88a628bb9fdb6d|šio straipsnio 6 dalies]] 1–[[#^s-7b27e4524cee07e565441b5a|3 punktuose]] nustatytam terminui, matininko kvalifikacijos pažymėjimo galiojimo sustabdymas panaikinamas ne vėliau kaip per 5 darbo dienas, kai matininkas: ^s-2579f779df46c9ea525e456b
+7. Nepasibaigus [[#^s-3b9e19a6da88a628bb9fdb6d|šio straipsnio 6 dalies]] [[#^s-f0c83db6f418660cd695babe|1]]–[[#^s-7b27e4524cee07e565441b5a|3]] punktuose nustatytam terminui, matininko kvalifikacijos pažymėjimo galiojimo sustabdymas panaikinamas ne vėliau kaip per 5 darbo dienas, kai matininkas: ^s-2579f779df46c9ea525e456b
 
 
 1) per [[#^s-f3874ecc2764c5d4c60773fc|šio straipsnio 6 dalies 1 punkte]] nurodytą matininko kvalifikacijos pažymėjimo galiojimo sustabdymo terminą matininko veiklos priežiūrą atliekančiai institucijai pateikia nešiurkštaus pažeidimo pašalinimą įrodančius dokumentus ar kitus įrodymus; ^s-f0c83db6f418660cd695babe
@@ -967,7 +967,7 @@ MATININKO VEIKLOS SĄLYGOS, KVALIFIKACIJA, TEISĖS IR PAREIGOS
 1) sustabdžius matininko kvalifikacijos pažymėjimo galiojimą, matininkas tęsia veiklą; ^s-5f4431d08fd34956e394dadd
 
 
-2) matininkas nepašalina šiurkštaus pažeidimo ir matininko veiklos priežiūrą atliekančiai institucijai per [[#^s-ae5d64813934c26e3dccc16e|šio straipsnio 4 dalyje]] nustatytą terminą nepateikia šio pažeidimo pašalinimą įrodančių dokumentų ar kitų įrodymų. Šiuo atveju matininko kvalifikacijos pažymėjimo galiojimas panaikinamas pasibaigus [[#^s-b53b886e767f1ae7d97bec0e|šio straipsnio 5 dalies]] 1–[[#^s-2e5251c7f5b3f0dce768539d|4 punktuose]] nurodytuose rašytiniuose įspėjimuose nustatytiems terminams; ^s-01b4afb443004ca99da104e4
+2) matininkas nepašalina šiurkštaus pažeidimo ir matininko veiklos priežiūrą atliekančiai institucijai per [[#^s-ae5d64813934c26e3dccc16e|šio straipsnio 4 dalyje]] nustatytą terminą nepateikia šio pažeidimo pašalinimą įrodančių dokumentų ar kitų įrodymų. Šiuo atveju matininko kvalifikacijos pažymėjimo galiojimas panaikinamas pasibaigus [[#^s-b53b886e767f1ae7d97bec0e|šio straipsnio 5 dalies]] [[#^s-5f4431d08fd34956e394dadd|1]]–[[#^s-2e5251c7f5b3f0dce768539d|4]] punktuose nurodytuose rašytiniuose įspėjimuose nustatytiems terminams; ^s-01b4afb443004ca99da104e4
 
 
 3) matininkas pakartotinai per vienus metus nuo šiurkštaus pažeidimo padarymo dienos padaro šiurkštų pažeidimą; ^s-0aab387db8fc14bf7f49c796
@@ -998,7 +998,7 @@ MATININKO VEIKLOS SĄLYGOS, KVALIFIKACIJA, TEISĖS IR PAREIGOS
 1. Įgaliota institucija: ^s-dda7bd77a5f69cd796fea86c
 
 
-1) aplinkos ministro nustatyta tvarka išduoda matininko kvalifikacijos pažymėjimus, šio įstatymo [[#^s-3b9e19a6da88a628bb9fdb6d|18 straipsnio 6 dalies]] 3 ir [[#^s-9aa876d59a65d59a6efc981a|4 punktuose]], 7 [[#^s-ef002944684d9f2c00bcaa7c|dalies 3 punkte]] ir 8 dalies 5–7 punktuose nustatytais atvejais sustabdo jų galiojimą, panaikina jų galiojimo sustabdymą ir galiojimą; ^s-5c87cd62a1cfb1bc8c06232f
+1) aplinkos ministro nustatyta tvarka išduoda matininko kvalifikacijos pažymėjimus, šio įstatymo [[#^s-3b9e19a6da88a628bb9fdb6d|18 straipsnio 6 dalies]] [[#^s-dd7e6e43da5dbc6cb045beee|3]] ir [[#^s-e5b59f9f3879b8cbb052a5c3|4]] punktuose, 7 [[#^s-ef002944684d9f2c00bcaa7c|dalies 3 punkte]] ir 8 dalies 5–7 punktuose nustatytais atvejais sustabdo jų galiojimą, panaikina jų galiojimo sustabdymą ir galiojimą; ^s-5c87cd62a1cfb1bc8c06232f
 
 
 2) teikia matininkams šio įstatymo [[#^s-ca10dbf4e02942dcb93dee29|18 straipsnio 5 dalies 4 punkte]] numatytus rašytinius įspėjimus; ^s-67c57d831ee548f4654dd3b1
@@ -1025,13 +1025,13 @@ MATININKO VEIKLOS SĄLYGOS, KVALIFIKACIJA, TEISĖS IR PAREIGOS
 3) teikia matininkams šio įstatymo [[#^s-ae5d64813934c26e3dccc16e|18 straipsnio 4 dalyje]] ir 5 dalies 1–3 punktuose nustatytus rašytinius nurodymus ir įspėjimus; ^s-9124a08e67a1c7a5168e694f
 
 
-4) aplinkos ministro nustatyta tvarka šio įstatymo [[#^s-3b9e19a6da88a628bb9fdb6d|18 straipsnio 6 dalies]] 1 ir [[#^s-e39dcb46c30b9103f206e618|2 punktuose]], 7 dalies 1 ir [[#^s-e39dcb46c30b9103f206e618|2 punktuose]] ir 8 dalies 1–4 punktuose nustatytais atvejais sustabdo matininko kvalifikacijos pažymėjimų galiojimą, panaikina jų galiojimo sustabdymą ir galiojimą. ^s-efdf82f541e39e219b5a3b3f
+4) aplinkos ministro nustatyta tvarka šio įstatymo [[#^s-3b9e19a6da88a628bb9fdb6d|18 straipsnio 6 dalies]] [[#^s-f3874ecc2764c5d4c60773fc|1]] ir [[#^s-378ea1c18c6a69d3011a92d3|2]] punktuose, 7 dalies [[#^s-f3874ecc2764c5d4c60773fc|1]] ir [[#^s-378ea1c18c6a69d3011a92d3|2]] punktuose ir 8 dalies [[#^s-f3874ecc2764c5d4c60773fc|1]]–[[#^s-e5b59f9f3879b8cbb052a5c3|4]] punktuose nustatytais atvejais sustabdo matininko kvalifikacijos pažymėjimų galiojimą, panaikina jų galiojimo sustabdymą ir galiojimą. ^s-efdf82f541e39e219b5a3b3f
 
 
 3. Matininko veiklos priežiūrą atliekančios institucijos vadovas tvirtina žalos, atsiradusios dėl matininko veiklos pažeidimų, dydžio nustatymo tvarkos aprašą. ^s-7a51adf97f168a68c913cd2a
 
 
-4. Vykdydamos šio straipsnio 1 ir [[#^s-f19267c356565897cea402c0|2 dalyse]] nurodytas funkcijas, Įgaliota institucija ir matininko veiklos priežiūrą atliekanti institucija laikosi asmens duomenų tvarkymo reikalavimų, įgyvendina tinkamas technines ir organizacines asmens duomenų saugumo priemones ir kitas Reglamente (ES) 2016/679 duomenų valdytojui nustatytas prievoles. ^s-3790b626cc9b17294683fd7f
+4. Vykdydamos šio straipsnio [[#^s-dda7bd77a5f69cd796fea86c|1]] ir [[#^s-f19267c356565897cea402c0|2]] dalyse nurodytas funkcijas, Įgaliota institucija ir matininko veiklos priežiūrą atliekanti institucija laikosi asmens duomenų tvarkymo reikalavimų, įgyvendina tinkamas technines ir organizacines asmens duomenų saugumo priemones ir kitas [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) duomenų valdytojui nustatytas prievoles. ^s-3790b626cc9b17294683fd7f
 
 
 
@@ -1175,7 +1175,7 @@ Nauja įstatymo redakcija
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1007, 2006-12-21, Žin., 2007, Nr. 4-159 (2007-01-11)
 [[latest/TAR.3A02F32B6AD8|NEKILNOJAMOJO TURTO KADASTRO ĮSTATYMO 1, 2, 8, 11 IR 17 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo 2 ir [[#^s-87c0a42a774320d7951e6849|4 straipsniai]] įsigalioja po 9 mėnesių nuo šio įstatymo įsigaliojimo, t.y. nuo 2007 m. spalio 11 d.
+Šio įstatymo [[#^s-87e137839990cdcaa6fcd8a3|2]] ir [[#^s-87c0a42a774320d7951e6849|4]] straipsniai įsigalioja po 9 mėnesių nuo šio įstatymo įsigaliojimo, t.y. nuo 2007 m. spalio 11 d.
 Šio įstatymo [[#^s-f6ceab592fcae0f30274d0d7|3 straipsnio 2 dalis]] įsigalioja nuo 2008 m. sausio 1 d.
 Žemės reformos metu atliekant žemės sklypų kadastrinius matavimus Žemės reformos įstatymo ir kitų teisės aktų nustatyta tvarka, žemės sklypų ribų posūkio taškų koordinatės nustatomos grafiškai pagal paskiausiai atnaujintą kartografinę medžiagą Kadastro nuostatų nustatyta tvarka. Ši nuostata taikoma iki 2008 m. sausio 1 d.
 
@@ -1188,7 +1188,7 @@ Nr. X-1406, 2007-12-21, Žin., 2008, Nr. 4-120 (2008-01-10)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-924, 2010-06-22, Žin., 2010, Nr. 76-3870 (2010-06-30)
 [[latest/TAR.2C22FCB37625|NEKILNOJAMOJO TURTO KADASTRO ĮSTATYMO 2, 8, 11 IR 20 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-87e137839990cdcaa6fcd8a3|2 straipsnį]] ir [[#^s-821395a8f63464a45128a606|5 straipsnio]] 2, 3 ir 4 dalis, įsigalioja 2010 m. liepos 1 d., [[#^s-87e137839990cdcaa6fcd8a3|2 straipsnis]] įsigalioja 2012 m. sausio 1 d., o [[#^s-2c8f4524156867f64582afa2|3 straipsnyje]] išdėstyto [[#^s-281c6da968d24b0522fb1ed6|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo 11 straipsnio 2 dalis]] galioja iki 2011 m. gruodžio 31 d.
+Šis įstatymas, išskyrus [[#^s-87e137839990cdcaa6fcd8a3|2 straipsnį]] ir [[#^s-821395a8f63464a45128a606|5 straipsnio]] [[#^s-8f0bcc86c68591e49cc94688|2]], [[#^s-48802eeea2147e90c74d69e7|3]] ir 4 dalis, įsigalioja 2010 m. liepos 1 d., [[#^s-87e137839990cdcaa6fcd8a3|2 straipsnis]] įsigalioja 2012 m. sausio 1 d., o [[#^s-2c8f4524156867f64582afa2|3 straipsnyje]] išdėstyto [[#^s-281c6da968d24b0522fb1ed6|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo 11 straipsnio 2 dalis]] galioja iki 2011 m. gruodžio 31 d.
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1210,32 +1210,32 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1427, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20552
-Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 6, 10, 13 ir [[#^s-4836260e637f776fa6521da8|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 [[#^s-9610f26da62b9b3fece877c8|6]], [[#^s-5e1ed89148ff88f1eb72a14b|10]], [[#^s-bad926ba5a95f6694e54e33a|13]] ir [[#^s-4836260e637f776fa6521da8|17]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1832, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10582
-Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 5, 9, 11 ir [[#^s-bad926ba5a95f6694e54e33a|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 [[#^s-821395a8f63464a45128a606|5]], [[#^s-f84dbba823ec19476d906312|9]], [[#^s-6d0c300e26875c3d35b7cf8e|11]] ir [[#^s-bad926ba5a95f6694e54e33a|13]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2172, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20861
-Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 8, 11 ir [[#^s-4836260e637f776fa6521da8|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 [[#^s-4f3bc4ac6f3acc8c9eacfbf0|8]], [[#^s-6d0c300e26875c3d35b7cf8e|11]] ir [[#^s-4836260e637f776fa6521da8|17]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2183, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09965
-Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 4, 6 ir [[#^s-bad926ba5a95f6694e54e33a|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 [[#^s-87c0a42a774320d7951e6849|4]], [[#^s-9610f26da62b9b3fece877c8|6]] ir [[#^s-bad926ba5a95f6694e54e33a|13]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3294, 2020-09-24, paskelbta TAR 2020-10-07, i. k. 2020-20889
-Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 1, 2, 6, 8, 11 ir [[#^s-4836260e637f776fa6521da8|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 [[#^s-2825644dcfae4db6401eae7d|1]], [[#^s-87e137839990cdcaa6fcd8a3|2]], [[#^s-9610f26da62b9b3fece877c8|6]], [[#^s-4f3bc4ac6f3acc8c9eacfbf0|8]], [[#^s-6d0c300e26875c3d35b7cf8e|11]] ir [[#^s-4836260e637f776fa6521da8|17]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-665, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24265
-Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 2, 3, 4, 6, 8, 11, 12, 13, 14, 17 ir [[#^s-23ff5c4f5435cbd2feb5c5e4|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 [[#^s-87e137839990cdcaa6fcd8a3|2]], [[#^s-2c8f4524156867f64582afa2|3]], [[#^s-87c0a42a774320d7951e6849|4]], [[#^s-9610f26da62b9b3fece877c8|6]], [[#^s-4f3bc4ac6f3acc8c9eacfbf0|8]], [[#^s-6d0c300e26875c3d35b7cf8e|11]], [[#^s-96f62ca42b414487cc1ad8f7|12]], [[#^s-bad926ba5a95f6694e54e33a|13]], [[#^s-9cdab141cb4b33c05fd033aa|14]], [[#^s-4836260e637f776fa6521da8|17]] ir [[#^s-23ff5c4f5435cbd2feb5c5e4|19]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1245,27 +1245,27 @@ Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 [[#^s-
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2128, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14317
-Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 2, 3, 6, 8, 9, 10, 11, 12, 15, 15-1 ir [[#^s-4836260e637f776fa6521da8|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 [[#^s-87e137839990cdcaa6fcd8a3|2]], [[#^s-2c8f4524156867f64582afa2|3]], [[#^s-9610f26da62b9b3fece877c8|6]], [[#^s-4f3bc4ac6f3acc8c9eacfbf0|8]], [[#^s-f84dbba823ec19476d906312|9]], [[#^s-5e1ed89148ff88f1eb72a14b|10]], [[#^s-6d0c300e26875c3d35b7cf8e|11]], [[#^s-96f62ca42b414487cc1ad8f7|12]], [[#^s-9f71782e33b2a90ae97624af|15]], 15-1 ir [[#^s-4836260e637f776fa6521da8|17]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2425, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25648
-Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 4, 7, 9, 10, 13, 15 ir [[#^s-4836260e637f776fa6521da8|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 [[#^s-87c0a42a774320d7951e6849|4]], [[#^s-b64db56e2f5955ee8aec4cab|7]], [[#^s-f84dbba823ec19476d906312|9]], [[#^s-5e1ed89148ff88f1eb72a14b|10]], [[#^s-bad926ba5a95f6694e54e33a|13]], [[#^s-9f71782e33b2a90ae97624af|15]] ir [[#^s-4836260e637f776fa6521da8|17]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2992, 2024-10-01, paskelbta TAR 2024-10-10, i. k. 2024-17762
-Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 2, 4, 7, 9, 10, 11, 12 ir [[#^s-4836260e637f776fa6521da8|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 [[#^s-87e137839990cdcaa6fcd8a3|2]], [[#^s-87c0a42a774320d7951e6849|4]], [[#^s-b64db56e2f5955ee8aec4cab|7]], [[#^s-f84dbba823ec19476d906312|9]], [[#^s-5e1ed89148ff88f1eb72a14b|10]], [[#^s-6d0c300e26875c3d35b7cf8e|11]], [[#^s-96f62ca42b414487cc1ad8f7|12]] ir [[#^s-4836260e637f776fa6521da8|17]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2578, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08219
-Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 1 ir [[#^s-87e137839990cdcaa6fcd8a3|2 straipsnių]] pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 [[#^s-2825644dcfae4db6401eae7d|1]] ir [[#^s-87e137839990cdcaa6fcd8a3|2]] straipsnių pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-781, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05184
-Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 2 ir [[#^s-4f3bc4ac6f3acc8c9eacfbf0|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 [[#^s-87e137839990cdcaa6fcd8a3|2]] ir [[#^s-4f3bc4ac6f3acc8c9eacfbf0|8]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas

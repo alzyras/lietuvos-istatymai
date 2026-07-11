@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Statuto ratifikavimas ^s-04e39dbbbd7aefa752aab208
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 5 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. gegužės 9 d. dekretą Nr. 73, ratifikuoja Tarptautinio karo medicinos komiteto (ICMM) statutą, priimtą 1996 m. spalio 11 d. Pekine.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 5 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. gegužės 9 d. dekretą Nr. 73](https://e-tar.lt/portal/lt/legalAct/TAR.7E96EC0A05B1), ratifikuoja Tarptautinio karo medicinos komiteto (ICMM) statutą, priimtą 1996 m. spalio 11 d. Pekine.
 
 
 

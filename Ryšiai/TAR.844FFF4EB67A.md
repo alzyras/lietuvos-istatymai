@@ -13,4 +13,5 @@ pavadinimas: "Lietuvos Respublikos teismų įstatymo 13, 17, 18, 19, 20, 21, 27,
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.522B3E415B52#^s-16e97f1ad515a000b7f6b4e9|Lietuvos Respublikos teismų įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 13, 17, 18, 19, 20, 21, 27, 29, 36, 42, 58, 60, 62 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.522B3E415B52#^s-16e97f1ad515a000b7f6b4e9|Lietuvos Respublikos teismų įstatymas]] - LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 13, 17, 18, 19, 20, 21, 27, 29, 36, 42, 58, 60, 62 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.D9CBFE49E508#^s-8f2ee5a8c3ba10c07579b31c|Lietuvos Respublikos teismų įstatymo 13, 17, 18, 19, 20, 21, 27, 29, 36, 42, 58, 60, 62 straipsnių pakeitimo ir papildymo, Lietuvos Aukščiausiojo Teismo statuto 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 17, 18, 20, 30 straipsnių pakeitimo ir papildymo, Baudžiamojo proceso kodekso pakeitimo ir papildymo, Civilinio proceso kodekso pakeitimo ir papildymo įstatymų įgyvendinimo įstatymas]] - 17 citatos - 15

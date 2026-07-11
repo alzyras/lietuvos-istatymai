@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. Sutarties pakeitimo ratifikavimas ^s-5dc1674d39b576cc21303346
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2011 m. rugsėjo 26 d. dekretą Nr. 1K-825, ratifikuoja Sutarties dėl Europos Sąjungos veikimo 136 straipsnio, kiek tai susiję su stabilumo mechanizmu, taikytinu valstybėms narėms, kurių valiuta yra euras (euro), pakeitimą, priimtą 2011 m. kovo 25 d. Europos Vadovų Tarybos sprendimu 2011/199/ES (OL 2011 L 303, p. 49).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2011 m. rugsėjo 26 d. dekretą Nr. 1K-825](https://e-tar.lt/portal/lt/legalAct/TAR.E0F213DF393E), ratifikuoja Sutarties dėl Europos Sąjungos veikimo 136 straipsnio, kiek tai susiję su stabilumo mechanizmu, taikytinu valstybėms narėms, kurių valiuta yra euras (euro), pakeitimą, priimtą 2011 m. kovo 25 d. Europos Vadovų Tarybos sprendimu 2011/199/ES (OL 2011 L 303, p. 49).
 
 
 

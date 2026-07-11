@@ -65,7 +65,7 @@ Pakeisti 22 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. 23 straipsnio pakeitimas ir papildymas ^s-38284768731356aaf2ae49c1
 
 
-Pakeisti 23 straipsnio 1 ir [[#^s-8f8321b0332b1da941662291|3 dalis]], straipsnį papildyti 4, 5, [[#^s-1ed9849111fcf249e371dd7e|6 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 23 straipsnio 1 ir 3 dalis, straipsnį papildyti 4, 5, 6 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „23 straipsnis.     Pajamų mokesčio iš A klasės pajamų apskaičiavimo, išskaičiavimo ir sumokėjimo tvarka

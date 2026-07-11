@@ -40,7 +40,7 @@ Vilnius
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos teismų teisėjų, prokuratūros darbuotojų, valstybinių arbitrų bei Valstybės kontrolės departamento darbuotojų tarnybinių atlyginimų“ (Žin., 1993, Nr. 6-127); ^s-1fad126e053ed6168dd2e56d
+1) Lietuvos Respublikos įstatymą [„Dėl Lietuvos Respublikos teismų teisėjų, prokuratūros darbuotojų, valstybinių arbitrų bei Valstybės kontrolės departamento darbuotojų tarnybinių atlyginimų“](https://e-tar.lt/portal/lt/legalAct/TAR.DE24CCC5A541) (Žin., 1993, Nr. 6-127); ^s-1fad126e053ed6168dd2e56d
 
 
 2) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos teismų teisėjų, prokuratūros darbuotojų, valstybinių arbitrų bei Valstybės kontrolės departamento darbuotojų tarnybinių atlyginimų“ papildymo“ (Žin., 1993, Nr. 10-237). ^s-68ff159fd846bb9b04856ff6

@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos vandens įstatymo 3, 4, 16, 19, 22, 29, 31, 3
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.0AE0464E0EDE|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas]] - 4 citatos - Geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymu
+- [[latest/TAR.0AE0464E0EDE|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas]] - 2 citatos - Geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymu
 - [[latest/TAR.B3CC2C0B9BD2|Lietuvos Respublikos vandens įstatymas]] - Lietuvos Respublikos vandens įstatymo
 
 ## Šį įstatymą cituoja

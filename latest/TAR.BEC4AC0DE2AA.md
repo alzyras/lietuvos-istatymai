@@ -697,7 +697,7 @@ KINO PAVELDO APSAUGA
 4. Jeigu nacionalinis filmas buvo pagamintas tik iš privačių lėšų, originalios filmo medžiagos saugojimo ir panaudojimo tvarka nustatoma filmo gamintojo ir valstybės archyvų sudarytoje sutartyje. ^s-343949d3155be9ffffb43475
 
 
-5. Šio straipsnio 1 ir [[#^s-1e3a203d32d757a05cf2cc42|2 dalių]] nuostatos netaikomos bendros filmo gamybos filmui, jeigu sutartyje numatoma, kad originalią filmo medžiagą saugos kita sutarties šalis. ^s-b904895fcdbb6f7366e7af95
+5. Šio straipsnio [[#^s-1788a43e99348aa3e364869e|1]] ir [[#^s-1e3a203d32d757a05cf2cc42|2]] dalių nuostatos netaikomos bendros filmo gamybos filmui, jeigu sutartyje numatoma, kad originalią filmo medžiagą saugos kita sutarties šalis. ^s-b904895fcdbb6f7366e7af95
 
 
 6. Nustatoma tokia originalios nacionalinio filmo medžiagos saugojimo tvarka: ^s-2a071ee3e12147354a82698f

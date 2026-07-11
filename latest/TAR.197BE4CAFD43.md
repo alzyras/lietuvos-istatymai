@@ -45,25 +45,25 @@ Pripažinti netekusiais galios:
 1) Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymą (Žin., 1997, Nr. 58-1330); ^s-199e1e94e72f0741806becd2
 
 
-2) Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 3, 5, 7 straipsnių pakeitimo ir papildymo įstatymą (Žin., 1997, Nr. 118-3038); ^s-2b3250bb17e154b76d262d02
+2) [Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) [3](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99), [5](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99), [7](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) straipsnių pakeitimo ir papildymo įstatymą (Žin., 1997, Nr. 118-3038); ^s-2b3250bb17e154b76d262d02
 
 
-3) Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 1 ir 7 straipsnių papildymo įstatymą (Žin., 1998, Nr. 91-2510); ^s-bb8827113734afa330709295
+3) [Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) [1](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) ir [7](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) straipsnių papildymo įstatymą (Žin., 1998, Nr. 91-2510); ^s-bb8827113734afa330709295
 
 
-4) Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 1, 2, 3, 5, 6, 8 straipsnių pakeitimo ir papildymo įstatymą (Žin., 1999, Nr. 33-951); ^s-5abc49a5517791ba5a8790f8
+4) [Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) [1](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99), [2](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99), [3](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99), [5](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99), [6](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99), [8](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) straipsnių pakeitimo ir papildymo įstatymą (Žin., 1999, Nr. 33-951); ^s-5abc49a5517791ba5a8790f8
 
 
-5) Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 4 straipsnio pakeitimo įstatymą (Žin., 1999, Nr. 105-3029); ^s-58ed09f17e3309898805910c
+5) [Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 4 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) pakeitimo įstatymą (Žin., 1999, Nr. 105-3029); ^s-58ed09f17e3309898805910c
 
 
-6) Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 6 straipsnio papildymo įstatymą (Žin., 1999, Nr. 107-3099); ^s-16d6f32b9bc0f7213662253e
+6) [Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 6 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) papildymo įstatymą (Žin., 1999, Nr. 107-3099); ^s-16d6f32b9bc0f7213662253e
 
 
-7) Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 6 straipsnio papildymo ir pakeitimo įstatymą (Žin., 2002, Nr. 123-5530); ^s-87561ddb8105b75f8198a53b
+7) [Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 6 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) papildymo ir pakeitimo įstatymą (Žin., 2002, Nr. 123-5530); ^s-87561ddb8105b75f8198a53b
 
 
-8) Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 2, 3, 4, 5, 6 ir 7 straipsnių pakeitimo įstatymą (Žin., 2005, Nr. 118-4266). ^s-da2897059548202fb79535aa
+8) [Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) [2](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99), [3](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99), [4](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99), [5](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99), [6](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) ir [7](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) straipsnių pakeitimo įstatymą (Žin., 2005, Nr. 118-4266). ^s-da2897059548202fb79535aa
 
 
 
@@ -92,7 +92,7 @@ Pripažinti netekusiais galios:
 ### 3 straipsnis. Įstatymo įsigaliojimas ^s-434e5f3c7bcb582e35ce887c
 
 
-Šis įstatymas, išskyrus [[#^s-687d5eb3172d8434d968573c|2 straipsnio]] 1, 2, 3, 4 ir 5 dalis, įsigalioja 2011 m. rugpjūčio 1 d.
+Šis įstatymas, išskyrus [[#^s-687d5eb3172d8434d968573c|2 straipsnio]] [[#^s-407c807eb390df4e871cb594|1]], [[#^s-7b1baf62808d0476d382fa40|2]], [[#^s-5eaf44d9d6a6d25150c06c5f|3]], [[#^s-21ea9f89b647d6519d9f5568|4]] ir [[#^s-d26025bf63d980ed47e88f75|5]] dalis, įsigalioja 2011 m. rugpjūčio 1 d.
 
 
 

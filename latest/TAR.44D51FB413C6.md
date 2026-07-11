@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-f594e9ba4d3ca8597f446491
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento 2004 m. birželio 4 d. dekretą Nr. 90, ratifikuoja 2003 m. lapkričio 28 d. Ženevoje pasirašytą Jungtinių Tautų 1980 metų konvencijos dėl tam tikrų įprastinių ginklų, kurie gali būti laikomi pernelyg žalojančiais arba veikia nesirinktinai, naudojimo uždraudimo arba apribojimo Protokolą dėl likusių nuo karo sprogmenų (V protokolas).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento [2004 m. birželio 4 d. dekretą Nr. 90](https://e-tar.lt/portal/lt/legalAct/TAR.6ADF72AE2AA7), ratifikuoja 2003 m. lapkričio 28 d. Ženevoje pasirašytą Jungtinių Tautų 1980 metų konvencijos dėl tam tikrų įprastinių ginklų, kurie gali būti laikomi pernelyg žalojančiais arba veikia nesirinktinai, naudojimo uždraudimo arba apribojimo Protokolą dėl likusių nuo karo sprogmenų (V protokolas).
 
 
 

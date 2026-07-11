@@ -163,7 +163,7 @@ Nr. XIV-1210, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15574
 ### 3 straipsnis. Teisiniai kriminalinės žvalgybos pagrindai ir principai ^s-52459b460ee84635f18ad074
 
 
-1. Kriminalinės žvalgybos subjektai vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-8c01ae006f1a46b857ca0873
+1. Kriminalinės žvalgybos subjektai vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-8c01ae006f1a46b857ca0873
 
 
 2. Kriminalinė žvalgyba grindžiama teisėtumo, žmogaus teisių ir laisvių užtikrinimo, viešojo intereso apsaugos, konspiracijos, konfidencialumo, viešų ir slaptų veiksmų derinimo principais. ^s-74f91f3e5a0482c2fa88d3d9
@@ -309,7 +309,7 @@ Nr. XII-1565, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05017
 14) Lietuvos Respublikos tarptautinių sutarčių ir teisės aktų numatytais atvejais bendradarbiauti su užsienio valstybių teisėsaugos institucijomis bei tarptautinėmis organizacijomis, Europos Sąjungos agentūromis, teikti paramą vieni kitiems, keistis kriminalinės žvalgybos ir kita informacija. ^s-36aa07a011631ff74dcade8d
 
 
-4. Kriminalinės žvalgybos subjektai, kai yra šio įstatymo nustatyti kriminalinės žvalgybos tyrimo pagrindai ir yra gauta prokuroro ar teismo sankcija, be teisių, nurodytų šio straipsnio 1 ir [[#^s-661b95e3a3f27d7c4fa53f61|3 dalyse]], taip pat turi teisę: ^s-1dc7f126c13ae4be3dbeb945
+4. Kriminalinės žvalgybos subjektai, kai yra šio įstatymo nustatyti kriminalinės žvalgybos tyrimo pagrindai ir yra gauta prokuroro ar teismo sankcija, be teisių, nurodytų šio straipsnio [[#^s-6b85e3bad55c74f4020b9f1a|1]] ir [[#^s-661b95e3a3f27d7c4fa53f61|3]] dalyse, taip pat turi teisę: ^s-1dc7f126c13ae4be3dbeb945
 Straipsnio dalies pakeitimai:
 Nr. XIV-2393, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25907
 
@@ -326,7 +326,7 @@ Nr. XIV-2393, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25907
 4) naudoti kriminalinės žvalgybos informacijos rinkimo būdus: kontroliuojamąjį gabenimą, nusikalstamos veikos imitavimą, sekimą, teisėsaugos institucijų užduotį. ^s-05c9261e0b993bd624ab5abc
 
 
-5. Kriminalinės žvalgybos pagrindinės institucijos nustato šio straipsnio 3 ir [[#^s-1dc7f126c13ae4be3dbeb945|4 dalyse]] išvardytų teisių įgyvendinimo tvarką. ^s-61db5542b352f9f31cbc868e
+5. Kriminalinės žvalgybos pagrindinės institucijos nustato šio straipsnio [[#^s-661b95e3a3f27d7c4fa53f61|3]] ir [[#^s-1dc7f126c13ae4be3dbeb945|4]] dalyse išvardytų teisių įgyvendinimo tvarką. ^s-61db5542b352f9f31cbc868e
 Straipsnio dalies pakeitimai:
 Nr. XIV-2393, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25907
 
@@ -362,7 +362,7 @@ Nr. XIV-2393, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25907
 8) užtikrinti, kad visa kriminalinės žvalgybos informacija būtų renkama tik siekiant įgyvendinti kriminalinės žvalgybos uždavinius, o gauta informacija būtų naudojama pagal paskirtį šio įstatymo nustatyta tvarka. ^s-b46c0469725cbd9700a46f7f
 
 
-2. Kriminalinės žvalgybos subjektai, vykdydami kriminalinę žvalgybą, pagal kompetenciją, galimybes ir tikslingumą bendradarbiauja, teikia paramą vieni kitiems ir keičiasi kriminalinės žvalgybos informacija. Kriminalinės žvalgybos subjektai Vyriausybės nustatyta tvarka taip pat teikia pagalbą žvalgybos institucijoms joms įgyvendinant Lietuvos Respublikos žvalgybos įstatymo 9 straipsnio 1 dalies 11 punkte nurodytas teises bei gamina žvalgybai ir kontržvalgybai reikalingus asmens tapatybės ir tarnybinės priklausomybės neatskleidžiančius dokumentus, dokumentų blankus ir jų rekvizitus, kitas priemones. ^s-8d4fa052a907cc1b4b5cf224
+2. Kriminalinės žvalgybos subjektai, vykdydami kriminalinę žvalgybą, pagal kompetenciją, galimybes ir tikslingumą bendradarbiauja, teikia paramą vieni kitiems ir keičiasi kriminalinės žvalgybos informacija. Kriminalinės žvalgybos subjektai Vyriausybės nustatyta tvarka taip pat teikia pagalbą žvalgybos institucijoms joms įgyvendinant [[latest/TAR.1881C195D0E2|Lietuvos Respublikos žvalgybos įstatymo 9 straipsnio 1 dalies 11 punkte]] nurodytas teises bei gamina žvalgybai ir kontržvalgybai reikalingus asmens tapatybės ir tarnybinės priklausomybės neatskleidžiančius dokumentus, dokumentų blankus ir jų rekvizitus, kitas priemones. ^s-8d4fa052a907cc1b4b5cf224
 Straipsnio dalies pakeitimai:
 Nr. XIV-2393, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25907
 
@@ -383,7 +383,7 @@ KRIMINALINĖS ŽVALGYBOS TYRIMAS
 1. Kriminalinės žvalgybos tyrimas atliekamas, kai: ^s-5c7be12408a06f3ff8139142
 
 
-1) turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 123 straipsnyje, 1231 straipsnio 1 dalyje, 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 dalyje, 151 straipsnio 1 dalyje, 1511, 153, 172, 173, 174, 175 ir 1751 straipsniuose, 178 straipsnio 2 ir [[#^s-301da88452f1d9975cbb8bc8|3 dalyse]], 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 182 straipsnio 2 dalyje, 1821 straipsnyje, 183 straipsnio 2 dalyje, 184 straipsnio 2 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 1 ir [[#^s-d7842b148d3f3f89bf1bdef2|2 dalyse]], 1891 straipsnyje, 196 straipsnio 2 dalyje, 197 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 199 straipsnio 1 ir [[#^s-d7842b148d3f3f89bf1bdef2|2 dalyse]], 1991 straipsnio 1 ir [[#^s-d7842b148d3f3f89bf1bdef2|2 dalyse]], 1992 straipsnio 1 ir [[#^s-d7842b148d3f3f89bf1bdef2|2 dalyse]], 200 straipsnio 1 ir [[#^s-d7842b148d3f3f89bf1bdef2|2 dalyse]], 207 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 1 dalyje, 226 straipsnio 1 ir [[#^s-d7842b148d3f3f89bf1bdef2|2 dalyse]], 227 straipsnio 1 ir [[#^s-d7842b148d3f3f89bf1bdef2|2 dalyse]], 228 straipsnio 1 ir [[#^s-d7842b148d3f3f89bf1bdef2|2 dalyse]], 2281 ir 240 straipsniuose, 246 straipsnio 2 dalyje, 2501, 2503 ir 2506 straipsniuose, 251 straipsnio 1 dalyje, 253 straipsnio 1 dalyje, 2532 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 266 straipsnio 2 dalyje, 2661 straipsnio 1 dalyje, 2672 straipsnio 1 dalyje, 2764 straipsnyje, 282 straipsnio 2 dalyje, 300 straipsnio 2, 3 ir [[#^s-07cb903f11b01bb62c6854e4|4 dalyse]], 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir [[#^s-d7842b148d3f3f89bf1bdef2|2 dalyse]], 308 straipsnio 1 dalyje, 309 straipsnio 3 dalyje, arba apie šias veikas rengiančius, darančius ar padariusius asmenis; ^s-44a6a432bc327dc442575e99
+1) turima informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba apie apysunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 123 straipsnyje, 1231 straipsnio 1 dalyje, 131 straipsnyje, 145 straipsnio 2 dalyje, 146 straipsnio 2 dalyje, 151 straipsnio 1 dalyje, 1511, 153, 172, 173, 174, 175 ir 1751 straipsniuose, 178 straipsnio 2 ir 3 dalyse, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 182 straipsnio 2 dalyje, 1821 straipsnyje, 183 straipsnio 2 dalyje, 184 straipsnio 2 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 1 ir 2 dalyse, 1891 straipsnyje, 196 straipsnio 2 dalyje, 197 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 199 straipsnio 1 ir 2 dalyse, 1991 straipsnio 1 ir 2 dalyse, 1992 straipsnio 1 ir 2 dalyse, 200 straipsnio 1 ir 2 dalyse, 207 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 1 dalyje, 226 straipsnio 1 ir 2 dalyse, 227 straipsnio 1 ir 2 dalyse, 228 straipsnio 1 ir 2 dalyse, 2281 ir 240 straipsniuose, 246 straipsnio 2 dalyje, 2501, 2503 ir 2506 straipsniuose, 251 straipsnio 1 dalyje, 253 straipsnio 1 dalyje, 2532 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 266 straipsnio 2 dalyje, 2661 straipsnio 1 dalyje, 2672 straipsnio 1 dalyje, 2764 straipsnyje, 282 straipsnio 2 dalyje, 300 straipsnio 2, 3 ir 4 dalyse, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, 308 straipsnio 1 dalyje, 309 straipsnio 3 dalyje, arba apie šias veikas rengiančius, darančius ar padariusius asmenis; ^s-44a6a432bc327dc442575e99
 Straipsnio punkto pakeitimai:
 Nr. XI-2394, 2012-11-08, Žin., 2012, Nr. 133-6760 (2012-11-17), i. k. [[latest/TAR.77F9CEE6FB11|1121010ISTA0XI-2394]]
 Nr. XII-730, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00066
@@ -498,7 +498,7 @@ Nr. XIII-3075, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14350
 4) numatoma [[#^s-77d0c84b75cac7ae2d68f216|šio straipsnio 1 dalyje]] nurodytų veiksmų atlikimo trukmė. ^s-94ed10275e7ac7b3db54dfa6
 
 
-5. Techninių priemonių panaudojimas specialia tvarka, slapta pašto siuntų ir jų dokumentų apžiūra, pašto siuntų kontrolė ir paėmimas, susirašinėjimo ir kitokio susižinojimo slapta kontrolė sankcionuojami ne ilgesniam kaip 3 mėnesių laikotarpiui. Šis laikotarpis gali būti pratęstas. Bendras laikotarpis negali būti ilgesnis negu 12 mėnesių, išskyrus atvejus, kai kriminalinės žvalgybos tyrimas atliekamas dėl turimos informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba kai yra kriminalinės žvalgybos tyrimo pagrindų, numatytų šio įstatymo [[#^s-5c7be12408a06f3ff8139142|8 straipsnio 1 dalies]] 2, 3 ir 4 punktuose. Šiais atvejais techninių priemonių panaudojimą specialia tvarka, slaptą pašto siuntų ir jų dokumentų apžiūrą, pašto siuntų kontrolę ir paėmimą, susirašinėjimo ir kitokio susižinojimo slaptą kontrolę ilgesniam negu 12 mėnesių laikotarpiui generalinio prokuroro ar jo įgalioto Generalinės prokuratūros prokuroro teikimu sankcionuoja apygardos teismo pirmininkas. ^s-d23ae93425f3b1a4d63d2129
+5. Techninių priemonių panaudojimas specialia tvarka, slapta pašto siuntų ir jų dokumentų apžiūra, pašto siuntų kontrolė ir paėmimas, susirašinėjimo ir kitokio susižinojimo slapta kontrolė sankcionuojami ne ilgesniam kaip 3 mėnesių laikotarpiui. Šis laikotarpis gali būti pratęstas. Bendras laikotarpis negali būti ilgesnis negu 12 mėnesių, išskyrus atvejus, kai kriminalinės žvalgybos tyrimas atliekamas dėl turimos informacijos apie rengiamą, daromą ar padarytą labai sunkų ar sunkų nusikaltimą arba kai yra kriminalinės žvalgybos tyrimo pagrindų, numatytų šio įstatymo [[#^s-5c7be12408a06f3ff8139142|8 straipsnio 1 dalies]] [[#^s-5601a13f45ce4e920edeb462|2]], [[#^s-c55bad18a29009cc0d5c2bf0|3]] ir [[#^s-3a4695e636ebca598c9052c3|4]] punktuose. Šiais atvejais techninių priemonių panaudojimą specialia tvarka, slaptą pašto siuntų ir jų dokumentų apžiūrą, pašto siuntų kontrolę ir paėmimą, susirašinėjimo ir kitokio susižinojimo slaptą kontrolę ilgesniam negu 12 mėnesių laikotarpiui generalinio prokuroro ar jo įgalioto Generalinės prokuratūros prokuroro teikimu sankcionuoja apygardos teismo pirmininkas. ^s-d23ae93425f3b1a4d63d2129
 
 
 6. [[#^s-d23ae93425f3b1a4d63d2129|Šio straipsnio 5 dalyje]] numatytas veiksmų pratęsimas sankcionuojamas ta pačia tvarka kaip ir šių veiksmų skyrimas. Pratęsimų skaičius neribojamas, tačiau kiekvienu atveju pratęsti galima ne ilgesniam negu [[#^s-d23ae93425f3b1a4d63d2129|šio straipsnio 5 dalyje]] nustatytam laikotarpiui. ^s-c0915db00cb7ff45072bac1e
@@ -817,7 +817,7 @@ KRIMINALINĖS ŽVALGYBOS informacijos PANAUDOJIMAS
 4) Lietuvos Respublikos tarptautinių sutarčių ir kitų teisės aktų numatytais atvejais keičiantis kriminalinės žvalgybos informacija su užsienio valstybių teisėsaugos institucijomis, tarptautinėmis organizacijomis ir Europos Sąjungos agentūromis; ^s-4f8f49ffdbbf9d6b868ab48c
 
 
-5) šio straipsnio 3 ir [[#^s-3594895af16688aa02cde21c|4 dalyse]] numatytais atvejais ir kitais įstatymų numatytais atvejais. ^s-7010aafa2a5f17b1affa1017
+5) šio straipsnio [[#^s-025e0155bcda3e433e7702ba|3]] ir [[#^s-3594895af16688aa02cde21c|4]] dalyse numatytais atvejais ir kitais įstatymų numatytais atvejais. ^s-7010aafa2a5f17b1affa1017
 
 
 2. Kai kriminalinės žvalgybos informacija panaudojama baudžiamajame procese, jos panaudojimo tvarką nustato generalinis prokuroras. Panaudojant kriminalinės žvalgybos informaciją baudžiamajame procese, turi būti apsaugoti kriminalinės žvalgybos subjektų teisėti interesai užtikrinant kriminalinės žvalgybos slaptųjų dalyvių saugumą ir neatskleidžiant informacijos apie naudojamas technines priemones ir (ar) detalių duomenų apie kriminalinės žvalgybos informacijos rinkimo būdų ir priemonių naudojimą. ^s-2773fff4ed7d0555eb9ea545
@@ -835,7 +835,7 @@ Nr. XIII-2827, 2020-03-31, paskelbta TAR 2020-04-03, i. k. 2020-06994
 5. Kitoms valstybės institucijoms ir asmenims, nevykdantiems kriminalinės žvalgybos, [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo]] nustatyta tvarka gali būti teikiama tik apibendrinta informacija, parengta kriminalinės žvalgybos informacijos pagrindu. ^s-5f41cbaf834de9f37cc4e47c
 
 
-6. Šio straipsnio 4 ir [[#^s-5f41cbaf834de9f37cc4e47c|5 dalyse]] numatytos kriminalinės žvalgybos informacijos pateikimo tvarką nustato Vyriausybė. ^s-96137138fbc3c6117bf2224d
+6. Šio straipsnio [[#^s-3594895af16688aa02cde21c|4]] ir [[#^s-5f41cbaf834de9f37cc4e47c|5]] dalyse numatytos kriminalinės žvalgybos informacijos pateikimo tvarką nustato Vyriausybė. ^s-96137138fbc3c6117bf2224d
 
 
 7. Detalūs duomenys apie kriminalinės žvalgybos informacijos rinkimo būdus ir priemones, kriminalinės žvalgybos informacijos rinkimo būdų taikymo taktiką, taip pat kriminalinės žvalgybos slaptųjų dalyvių tapatybę bei detalią informaciją apie šių dalyvių kiekybinę ir personalinę sudėtį, neteikiami. ^s-51c0b11ac5f9817838e51e7b
@@ -891,7 +891,7 @@ Nr. XII-729, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00067
 ### 22 straipsnis. Kriminalinės žvalgybos koordinavimas ir teisėtumo kontrolė ^s-6f13a280784b5ae147ff454a
 
 
-1. Kriminalinės žvalgybos subjektų veiklą koordinuoja ir jų veiklos teisėtumą kontroliuoja prokurorai, rengdami motyvuotus teikimus, numatytus šio įstatymo 10, 11 ir [[#^s-02ec0d5b5625c5274d23bf89|12 straipsniuose]], sankcionuodami ar atsisakydami sankcionuoti veiksmus, nustatytus šio įstatymo 13, 14 ir [[#^s-07708e0492280945780355f5|15 straipsniuose]], ir gaudami informaciją apie veiksmų, nustatytų šio įstatymo 10, 11, 12, 13, 14 ir [[#^s-07708e0492280945780355f5|15  straipsniuose]], atlikimo eigą ir rezultatus, nagrinėdami asmenų skundus dėl galimai pažeistų žmogaus teisių ir laisvių atliekant šio įstatymo 10, 11, 12, 13, 14 ir [[#^s-07708e0492280945780355f5|15 straipsniuose]] nustatytus veiksmus. Generalinis prokuroras nustato šio įstatymo 10, 11, 12, 13, 14 ir [[#^s-07708e0492280945780355f5|15 straipsniuose]] nustatytų veiksmų koordinavimo ir teisėtumo kontrolės tvarką. ^s-31e0d605ed197167964b5a3e
+1. Kriminalinės žvalgybos subjektų veiklą koordinuoja ir jų veiklos teisėtumą kontroliuoja prokurorai, rengdami motyvuotus teikimus, numatytus šio įstatymo [[#^s-0a6c86c3b8006a780a6b50d5|10]], [[#^s-d25bab6fa9a2eb312209f1fa|11]] ir [[#^s-02ec0d5b5625c5274d23bf89|12]] straipsniuose, sankcionuodami ar atsisakydami sankcionuoti veiksmus, nustatytus šio įstatymo [[#^s-7ee35ac127dd0125c377310b|13]], [[#^s-c0afb8171f9c2c88c87f3e35|14]] ir [[#^s-07708e0492280945780355f5|15]] straipsniuose, ir gaudami informaciją apie veiksmų, nustatytų šio įstatymo [[#^s-0a6c86c3b8006a780a6b50d5|10]], [[#^s-d25bab6fa9a2eb312209f1fa|11]], [[#^s-02ec0d5b5625c5274d23bf89|12]], [[#^s-7ee35ac127dd0125c377310b|13]], [[#^s-c0afb8171f9c2c88c87f3e35|14]] ir [[#^s-07708e0492280945780355f5|15]]  straipsniuose, atlikimo eigą ir rezultatus, nagrinėdami asmenų skundus dėl galimai pažeistų žmogaus teisių ir laisvių atliekant šio įstatymo [[#^s-0a6c86c3b8006a780a6b50d5|10]], [[#^s-d25bab6fa9a2eb312209f1fa|11]], [[#^s-02ec0d5b5625c5274d23bf89|12]], [[#^s-7ee35ac127dd0125c377310b|13]], [[#^s-c0afb8171f9c2c88c87f3e35|14]] ir [[#^s-07708e0492280945780355f5|15]] straipsniuose nustatytus veiksmus. Generalinis prokuroras nustato šio įstatymo [[#^s-0a6c86c3b8006a780a6b50d5|10]], [[#^s-d25bab6fa9a2eb312209f1fa|11]], [[#^s-02ec0d5b5625c5274d23bf89|12]], [[#^s-7ee35ac127dd0125c377310b|13]], [[#^s-c0afb8171f9c2c88c87f3e35|14]] ir [[#^s-07708e0492280945780355f5|15]] straipsniuose nustatytų veiksmų koordinavimo ir teisėtumo kontrolės tvarką. ^s-31e0d605ed197167964b5a3e
 Straipsnio dalies pakeitimai:
 Nr. XIII-1502, 2018-09-27, paskelbta TAR 2018-10-04, i. k. 2018-15801
 
@@ -998,31 +998,31 @@ BAIGIAMOSIOS NUOSTATOS
 1) Lietuvos Respublikos operatyvinės veiklos įstatymas (Žin., 2002, Nr. 65-2633); ^s-7fed82fac700c48a936585f0
 
 
-2) Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 7, 10, [[#^s-bbcab81b556a18b509f2674b|23 straipsnių]] pakeitimo bei papildymo ir [[#^s-362ae7694d6ca3a73da928c2|24 straipsnio]] pripažinimo netekusiu galios įstatymas (Žin., 2002, Nr. 123-5515); ^s-a7e874e2b650a1629f2b4f0a
+2) [Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 7, 10, 23 straipsnių pakeitimo bei papildymo ir 24 straipsnio pripažinimo netekusiu galios įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.F83DCA11F504) (Žin., 2002, Nr. 123-5515); ^s-a7e874e2b650a1629f2b4f0a
 
 
-3) Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 5, 9, 11, 17, [[#^s-52e16598362eb7d7f9ecbf30|19 straipsnių]] pakeitimo ir [[#^s-a0768f38cf71a40043d9c447|25 straipsnio]] pripažinimo netekusiu galios įstatymas (Žin., 2003, Nr. 47-2063); ^s-795232f89a514343e94d3684
+3) [Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 5, 9, 11, 17, 19 straipsnių pakeitimo ir 25 straipsnio pripažinimo netekusiu galios įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.6B1927C58182) (Žin., 2003, Nr. 47-2063); ^s-795232f89a514343e94d3684
 
 
-4) Lietuvos Respublikos operatyvinės veiklos įstatymo [[#^s-bbcab81b556a18b509f2674b|23 straipsnio]] pakeitimo įstatymas (Žin., 2003, Nr. 54-2369); ^s-24be903cbb0993ab57b52ea2
+4) [Lietuvos Respublikos operatyvinės veiklos įstatymo 23 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.263161458119) (Žin., 2003, Nr. 54-2369); ^s-24be903cbb0993ab57b52ea2
 
 
-5) Lietuvos Respublikos operatyvinės veiklos įstatymo 10 ir [[#^s-d25bab6fa9a2eb312209f1fa|11 straipsnių]] pakeitimo įstatymas (Žin., 2009, Nr. 141-6202); ^s-cf94c428566905246b7ee6e7
+5) [Lietuvos Respublikos operatyvinės veiklos įstatymo 10 ir 11 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.161D283A0B69) (Žin., 2009, Nr. 141-6202); ^s-cf94c428566905246b7ee6e7
 
 
-6) Lietuvos Respublikos operatyvinės veiklos įstatymo [[#^s-07708e0492280945780355f5|15 straipsnio]] pakeitimo įstatymas (Žin., 2010, Nr. 86-4515); ^s-1a38d2a24ae54f5cf5d39453
+6) [Lietuvos Respublikos operatyvinės veiklos įstatymo 15 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.953CF5034C1E) (Žin., 2010, Nr. 86-4515); ^s-1a38d2a24ae54f5cf5d39453
 
 
-7) Lietuvos Respublikos operatyvinės veiklos įstatymo 3, [[#^s-c4ae0d3278a20169409a3dc0|17 straipsnių]] ir penktojo skirsnio pavadinimo pakeitimo ir papildymo įstatymas (Žin., 2010, Nr. 86-4521); ^s-0f7d9068ec2505cd8bbf926a
+7) [Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 17 straipsnių ir penktojo skirsnio pavadinimo pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.CCAAAF4D48E9) (Žin., 2010, Nr. 86-4521); ^s-0f7d9068ec2505cd8bbf926a
 
 
-8) Lietuvos Respublikos operatyvinės veiklos įstatymo [[#^s-c4ae0d3278a20169409a3dc0|17 straipsnio]] papildymo ir pakeitimo įstatymas (Žin., 2011, Nr. 57-2704); ^s-df8c7643b8c306e5ad73d2e5
+8) [Lietuvos Respublikos operatyvinės veiklos įstatymo 17 straipsnio papildymo ir pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.1A541A3D0C19) (Žin., 2011, Nr. 57-2704); ^s-df8c7643b8c306e5ad73d2e5
 
 
-9) Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 7, 9, 10, 11, 12, 13, 21, [[#^s-bbcab81b556a18b509f2674b|23 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 2011, Nr. 65-3047); ^s-613a8265da6461e8cc942c53
+9) [Lietuvos Respublikos operatyvinės veiklos įstatymo 3, 7, 9, 10, 11, 12, 13, 21, 23 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.747C9821569C) (Žin., 2011, Nr. 65-3047); ^s-613a8265da6461e8cc942c53
 
 
-10) Lietuvos Respublikos operatyvinės veiklos įstatymo [[#^s-246dd249556f0eae7835ba97|9 straipsnio]] pakeitimo įstatymas (Žin., 2012, Nr. 42-2043). ^s-04545b546d54d2bbe046961d
+10) [Lietuvos Respublikos operatyvinės veiklos įstatymo 9 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.0A8A15AA3B07) (Žin., 2012, Nr. 42-2043). ^s-04545b546d54d2bbe046961d
 
 
 
@@ -1041,7 +1041,7 @@ priedas
 
 
 
-2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1226 dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama Direktyva (ES) 2018/1673.
+2024 m. balandžio 24 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1226](https://eur-lex.europa.eu/eli/dir/2024/1226/oj) dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama [Direktyva (ES) 2018/1673](https://eur-lex.europa.eu/eli/dir/2018/1673/oj).
 
 
 __________________
@@ -1087,7 +1087,7 @@ Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 [[#^s-4e6bbd
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1502, 2018-09-27, paskelbta TAR 2018-10-04, i. k. 2018-15801
-Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 5 ir [[#^s-6f13a280784b5ae147ff454a|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 [[#^s-4f2113aa947956f5158060c8|5]] ir [[#^s-6f13a280784b5ae147ff454a|22]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1137,7 +1137,7 @@ Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 [[#^s-4e6bbd
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2393, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25907
-Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 6 ir [[#^s-84d061bdfefee13c276ad07a|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kriminalinės žvalgybos įstatymo Nr. XI-2234 [[#^s-8b5831ee253bb268f51c6100|6]] ir [[#^s-84d061bdfefee13c276ad07a|7]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas

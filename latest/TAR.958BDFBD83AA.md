@@ -51,7 +51,7 @@ Vilnius
 2. Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip: ^s-48fab7d7d629ad83216e15dc
 
 
-„3. Vienkartinė išmoka vaikui ir išmoka vaikui skiriama, jei [[#^s-48fab7d7d629ad83216e15dc|šio straipsnio 2 dalies]] nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas nuolat gyvena Lietuvos Respublikoje. Išmoka privalomosios pradinės karo tarnybos kario vaikui (toliau – privalomosios tarnybos kario vaikui) skiriama, jei [[#^s-48fab7d7d629ad83216e15dc|šio straipsnio 2 dalies]] nuostatą atitinka nors vienas iš vaiko tėvų ir vaikas nuolat gyvena Lietuvos Respublikoje. Vienkartinė išmoka įsikurti skiriama tik nuolat Lietuvos Respublikoje gyvenantiems asmenims.“
+„3. Vienkartinė išmoka vaikui ir išmoka vaikui skiriama, jei šio straipsnio 2 dalies nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių), globėjų (rūpintojų) ir vaikas nuolat gyvena Lietuvos Respublikoje. Išmoka privalomosios pradinės karo tarnybos kario vaikui (toliau – privalomosios tarnybos kario vaikui) skiriama, jei šio straipsnio 2 dalies nuostatą atitinka nors vienas iš vaiko tėvų ir vaikas nuolat gyvena Lietuvos Respublikoje. Vienkartinė išmoka įsikurti skiriama tik nuolat Lietuvos Respublikoje gyvenantiems asmenims.“
 
 
 
@@ -132,13 +132,13 @@ VIENKARTINĖ IŠMOKA VAIKUI, IŠMOKA VAIKUI IR IŠMOKA PRIVALOMOSIOS TARNYBOS KA
 ### 5 straipsnis. 5 straipsnio 1 ir 2 dalių pakeitimas ^s-c695dc6ffbe063faac1ceb5d
 
 
-1. [[#^s-1a3c30bcb0cd537daf08ac90|5 straipsnio 1 dalyje]] vietoj skaičiaus ir santrumpos „8 MGL“ įrašyti skaičių ir žodžius „11 bazinių socialinių išmokų“ ir šią dalį išdėstyti taip: ^s-1a3c30bcb0cd537daf08ac90
+1. 5 straipsnio 1 dalyje vietoj skaičiaus ir santrumpos „8 MGL“ įrašyti skaičių ir žodžius „11 bazinių socialinių išmokų“ ir šią dalį išdėstyti taip: ^s-1a3c30bcb0cd537daf08ac90
 
 
 „1. Kiekvienam gimusiam vaikui skiriama 11 bazinių socialinių išmokų dydžio vienkartinė išmoka.“
 
 
-2. [[#^s-a991b8130cc97e2a6a96c727|5 straipsnio 2 dalyje]] vietoj skaičiaus ir santrumpos „8 MGL“ įrašyti skaičių ir žodžius „11 bazinių socialinių išmokų“ ir šią dalį išdėstyti taip: ^s-a991b8130cc97e2a6a96c727
+2. 5 straipsnio 2 dalyje vietoj skaičiaus ir santrumpos „8 MGL“ įrašyti skaičių ir žodžius „11 bazinių socialinių išmokų“ ir šią dalį išdėstyti taip: ^s-a991b8130cc97e2a6a96c727
 
 
 „2. Įvaikintam vaikui, neatsižvelgiant į tai, kad jau buvo išmokėta išmoka gimusiam vaikui, skiriama 11 bazinių socialinių išmokų dydžio vienkartinė išmoka.“

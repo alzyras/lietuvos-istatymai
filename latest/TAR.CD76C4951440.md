@@ -213,7 +213,7 @@ Pakeisti [[#^s-083d8c62c2f0b159bfbea422|9 straipsnį]] ir jį išdėstyti taip:
 1. Asmens duomenys teikiami pagal duomenų valdytojo ir duomenų gavėjo asmens duomenų teikimo sutartį, kurios formą nustato Valstybinė duomenų apsaugos inspekcija. Sutartyje turi būti nurodyta asmens duomenų teikimo tikslas, sąlygos ir tvarka. ^s-a42f941f1fc21064c6e6ac09
 
 
-2. Asmens duomenys gali būti teikiami kitiems duomenų valdytojams ir gavėjams tik gavus duomenų subjekto raštišką sutikimą, o jeigu duomenų subjektas neveiksnus, – gavus jo tėvų (įtėvių) arba globėjų sutikimą, išskyrus [[#^s-e12ad4c70e16949ce0ed0302|8 straipsnio 2 dalyje]] numatytus atvejus ir tuos atvejus, kai teikimas atitinka asmens duomenų teisėto tvarkymo kriterijus. ^s-e12ad4c70e16949ce0ed0302
+2. Asmens duomenys gali būti teikiami kitiems duomenų valdytojams ir gavėjams tik gavus duomenų subjekto raštišką sutikimą, o jeigu duomenų subjektas neveiksnus, – gavus jo tėvų (įtėvių) arba globėjų sutikimą, išskyrus 8 straipsnio 2 dalyje numatytus atvejus ir tuos atvejus, kai teikimas atitinka asmens duomenų teisėto tvarkymo kriterijus. ^s-e12ad4c70e16949ce0ed0302
 
 
 3. Už asmens duomenų teisingumą ir teikimo teisėtumą atsako duomenų valdytojas. ^s-d64b363729f12864a7ffb0ca

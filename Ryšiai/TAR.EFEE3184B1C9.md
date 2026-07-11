@@ -13,7 +13,6 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EE245B47423C#^s-3dabd29df59cd7ad01577f32|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1131010ISTA0XII-466
 - [[latest/TAR.EE245B47423C#^s-4a9399627a5069a0d7321d43|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1131010ISTA0XII-466
-- [[latest/TAR.EE245B47423C#^s-ad5b8ecacfb0dc254e31b4bb|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 3 citatos - 1131010ISTA0XII-466
+- [[latest/TAR.EE245B47423C#^s-ad5b8ecacfb0dc254e31b4bb|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 2 citatos - 1131010ISTA0XII-466
 - [[latest/TAR.EE245B47423C#^s-bf9166adf25a6b86c88ee9f8|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1131010ISTA0XII-466

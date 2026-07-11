@@ -43,13 +43,13 @@ Vilnius
 ### 1 straipsnis. 15 straipsnio pakeitimas ^s-9619c6a67a87502fa5738f9f
 
 
-Pakeisti 15 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.2E0162CE3FB9#^s-2c94eb2c4cf0701f0fdce1b1|15 straipsnį]] ir jį išdėstyti taip:
 
 
-„15 straipsnis. Metinių ataskaitų teikimas
+„[[latest/TAR.2E0162CE3FB9#^s-2c94eb2c4cf0701f0fdce1b1|15 straipsnis]]. Metinių ataskaitų teikimas
 
 
-Konkurencijos taryba iki kiekvienų metų vasario 1 dienos pateikia žemės ūkio ministro įgaliotai institucijai, kuri koordinuoja 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyvos (ES) 2019/633 dėl įmonių vienų kitoms taikomos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje teisinio reguliavimo stebėseną, informaciją apie savo veiklą, apimančią šio įstatymo įgyvendinimo ir laikymosi priežiūrą, ir nurodo per praėjusius kalendorinius metus gautų skundų skaičių, pradėtų ir baigtų tyrimų skaičių. Pateikiamas kiekvieno baigto tyrimo dalykas, tyrimo rezultatai ir, kai taikytina, nurodomas priimtas sprendimas, laikantis šio įstatymo 5 straipsnyje nustatytų konfidencialumo reikalavimų, taip pat pateikiami galimi pasiūlymai dėl teisinio reguliavimo tobulinimo tikslingumo.“
+Konkurencijos taryba iki kiekvienų metų vasario 1 dienos pateikia žemės ūkio ministro įgaliotai institucijai, kuri koordinuoja 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos [direktyvos (ES) 2019/633](https://eur-lex.europa.eu/eli/dir/2019/633/oj) dėl įmonių vienų kitoms taikomos nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje teisinio reguliavimo stebėseną, informaciją apie savo veiklą, apimančią šio įstatymo įgyvendinimo ir laikymosi priežiūrą, ir nurodo per praėjusius kalendorinius metus gautų skundų skaičių, pradėtų ir baigtų tyrimų skaičių. Pateikiamas kiekvieno baigto tyrimo dalykas, tyrimo rezultatai ir, kai taikytina, nurodomas priimtas sprendimas, laikantis šio įstatymo [[latest/TAR.2E0162CE3FB9#^s-226c15e8e6441d1f142b2cd4|5 straipsnyje]] nustatytų konfidencialumo reikalavimų, taip pat pateikiami galimi pasiūlymai dėl teisinio reguliavimo tobulinimo tikslingumo.“
 
 
 

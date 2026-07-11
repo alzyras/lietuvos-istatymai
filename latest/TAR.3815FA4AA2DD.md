@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-94ebbbc9d85905646e1201dc
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2011 m. lapkričio 16 d. dekretą Nr. 1K-859, ratifikuoja Protokolą dėl Tarptautinės jūros dugno institucijos privilegijų ir imunitetų, priimtą 1998 m. kovo 26 d. Kingstone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento [2011 m. lapkričio 16 d. dekretą Nr. 1K-859](https://e-tar.lt/portal/lt/legalAct/TAR.6342AC01898A), ratifikuoja Protokolą dėl Tarptautinės jūros dugno institucijos privilegijų ir imunitetų, priimtą 1998 m. kovo 26 d. Kingstone.
 
 
 

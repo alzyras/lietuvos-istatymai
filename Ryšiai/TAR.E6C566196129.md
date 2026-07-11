@@ -9,8 +9,7 @@ pavadinimas: "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įs
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.CB941ADCC055|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas]] - Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo
-- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - Lietuvos Respublikos baudžiamojo proceso kodekso
+- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Lietuvos Respublikos baudžiamojo proceso kodekso
 
 ## Šį įstatymą cituoja
 

@@ -49,7 +49,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio 1 ir 3 dalių pakeitimas ^s-c98b680a3bd998b2afad94e0
 
 
-1. Pakeisti [[#^s-45b3a1ff173a9898840e2cf8|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-45b3a1ff173a9898840e2cf8
+1. Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip: ^s-45b3a1ff173a9898840e2cf8
 
 
 „1. Šis įstatymas nustato ribotos civilinės atsakomybės juridinių asmenų ir neribotos civilinės atsakomybės juridinių asmenų, išteklių ir mokesčių fondų, ūkininkų ūkių, gyventojų, kurie verčiasi individualia veikla (nuolatinių Lietuvos gyventojų, kurie verčiasi individualia veikla, ir nenuolatinių Lietuvos gyventojų, veikiančių per nuolatinę bazę Lietuvos Respublikoje), užsienio juridinių asmenų filialų ir atstovybių, esančių Lietuvos Respublikoje, (toliau – ūkio subjektai) turto, nuosavo kapitalo, finansavimo sumų, įsipareigojimų buhalterinę apskaitą, jos organizavimą ir tvarkymą. Šis įstatymas netaikomas šeimynoms.“
@@ -113,7 +113,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 13. Supaprastinta apskaita – apskaita, tvarkoma darant paprastąjį įrašą. ^s-6efe17ed098b495b89247882
 
 
-14. Tarptautiniai apskaitos standartai – kaip jie apibrėžti 2002 m. liepos 19 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1606/2002 dėl tarptautinių apskaitos standartų taikymo. ^s-61511190f4ef6f4c70bdcf71
+14. Tarptautiniai apskaitos standartai – kaip jie apibrėžti 2002 m. liepos 19 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1606/2002](https://eur-lex.europa.eu/eli/reg/1606/2002/oj) dėl tarptautinių apskaitos standartų taikymo. ^s-61511190f4ef6f4c70bdcf71
 
 
 15. Tarptautiniai viešojo sektoriaus apskaitos standartai – Tarptautinės buhalterių federacijos Viešojo sektoriaus apskaitos standartų valdybos patvirtintos viešojo sektoriaus subjektų ūkinių operacijų ir ūkinių įvykių registravimo apskaitoje ir finansinių ataskaitų sudarymo taisyklės. ^s-8fd1622d3d07431b7ab24d7b
@@ -137,7 +137,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 21. Vyriausiasis buhalteris (buhalteris) – fizinis asmuo, tvarkantis ūkio subjekto buhalterinę apskaitą, arba struktūrinio buhalterinės apskaitos padalinio vadovas. ^s-260fbfd3b846579de9f5c20a
 
 
-22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme (toliau – Įmonių finansinės atskaitomybės įstatymas), [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme]] (toliau – [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatymas]]) ir kituose teisės aktuose.“ ^s-f32425229f9a93cea12010de
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C) (toliau – [Įmonių finansinės atskaitomybės įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C)), [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme]] (toliau – [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatymas]]) ir kituose teisės aktuose.“ ^s-f32425229f9a93cea12010de
 
 
 Straipsnio pakeitimai:
@@ -157,7 +157,7 @@ Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14); Žin., 2012, Nr.
 2. Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip: ^s-b85516e84929221d1695e41d
 
 
-„4. Ribotos civilinės atsakomybės juridiniai asmenys, savo veikla siekiantys pelno, išskyrus [[#^s-1a2df83ea9ece3b88a7beb8c|šio straipsnio 3 dalyje]] nurodytus ūkio subjektus, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais arba tarptautiniais apskaitos standartais. Verslo apskaitos standartus rengia, tvirtina ir „Valstybės žiniose“ skelbia Lietuvos Respublikos Vyriausybės įgaliota įstaiga. Verslo apskaitos standartų rengimo klausimais įstaigoje sudaromas kolegialus patariamasis organas – Apskaitos standartų komitetas. Verslo apskaitos standartai turi būti parengti vadovaujantis Europos Sąjungos teise ir tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės juridiniai asmenys, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansines ataskaitas arba kai Įmonių finansinės atskaitomybės įstatymas įpareigoja jas sudaryti.“
+„4. Ribotos civilinės atsakomybės juridiniai asmenys, savo veikla siekiantys pelno, išskyrus [[#^s-1a2df83ea9ece3b88a7beb8c|šio straipsnio 3 dalyje]] nurodytus ūkio subjektus, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais arba tarptautiniais apskaitos standartais. Verslo apskaitos standartus rengia, tvirtina ir „Valstybės žiniose“ skelbia Lietuvos Respublikos Vyriausybės įgaliota įstaiga. Verslo apskaitos standartų rengimo klausimais įstaigoje sudaromas kolegialus patariamasis organas – Apskaitos standartų komitetas. Verslo apskaitos standartai turi būti parengti vadovaujantis Europos Sąjungos teise ir tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės juridiniai asmenys, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansines ataskaitas arba kai [Įmonių finansinės atskaitomybės įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C) įpareigoja jas sudaryti.“
 
 
 3. Pakeisti 3 straipsnio 8 dalį ir ją išdėstyti taip: ^s-1a2df83ea9ece3b88a7beb8c
@@ -266,7 +266,7 @@ Pakeisti [[#^s-5259b797e7bc1e7acb0be7b9|9 straipsnį]] ir jį išdėstyti taip:
 2) pagal sutartį apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo. ^s-aced99034b988c0e996896b2
 
 
-2. Ūkio subjekto apskaitos tvarkyti negali ūkio subjekto vadovas, išskyrus šio straipsnio 5 ir [[#^s-d9c608ef7b1e63a024d32922|6 dalyse]] nustatytus atvejus. ^s-22298519f1ad7bed364d22d9
+2. Ūkio subjekto apskaitos tvarkyti negali ūkio subjekto vadovas, išskyrus šio straipsnio [[#^s-1efe04e1b7dae778c0e2c914|5]] ir [[#^s-d9c608ef7b1e63a024d32922|6]] dalyse nustatytus atvejus. ^s-22298519f1ad7bed364d22d9
 
 
 3. [[#^s-aced99034b988c0e996896b2|Šio straipsnio 1 dalies 2 punkte]] nurodyti asmenys turi atitikti šio įstatymo 102 straipsnyje nustatytus reikalavimus. ^s-5ae64b4a9de3e12c3b6b90cb
@@ -361,7 +361,7 @@ KLAIDŲ TAISYMAS“.
 1. Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip: ^s-7db0a40290f82ea6596e6dfb
 
 
-„2. Ūkinės operacijos ir ūkiniai įvykiai, kurie negali būti pagrįsti apskaitos dokumentais, pagrindžiami su jais susijusių ūkinių operacijų ir ūkinių įvykių apskaitos dokumentais, surašant buhalterinę pažymą, kuri turi šio įstatymo [[#^s-7db0a40290f82ea6596e6dfb|13 straipsnio 1 dalyje]] nurodytus rekvizitus.“
+„2. Ūkinės operacijos ir ūkiniai įvykiai, kurie negali būti pagrįsti apskaitos dokumentais, pagrindžiami su jais susijusių ūkinių operacijų ir ūkinių įvykių apskaitos dokumentais, surašant buhalterinę pažymą, kuri turi šio įstatymo 13 straipsnio 1 dalyje nurodytus rekvizitus.“
 
 
 2. Pakeisti 12 straipsnio 4 dalį ir ją išdėstyti taip: ^s-27164d8544008e23864963ab
@@ -381,7 +381,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 „14 straipsnis. Apskaitos dokumentų pasirašymas
 
 
-1. Ūkio subjekto vadovas nustato apskaitos dokumentų pasirašymo tvarką ir asmenų, kurie turi teisę surašyti ir pasirašyti arba tik pasirašyti apskaitos dokumentus, sąrašą. Apskaitos dokumentai pasirašomi asmeniškai arba Lietuvos Respublikos elektroninio parašo įstatymo nustatyta tvarka. Kai pagal sutartį apskaitą tvarko apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo, arba centralizuotai tvarkanti apskaitą biudžetinė įstaiga, dokumentų pasirašymo tvarka nustatoma sutartyje, sudaromoje su užsakovu. ^s-6b72b30c63b7a84451fee165
+1. Ūkio subjekto vadovas nustato apskaitos dokumentų pasirašymo tvarką ir asmenų, kurie turi teisę surašyti ir pasirašyti arba tik pasirašyti apskaitos dokumentus, sąrašą. Apskaitos dokumentai pasirašomi asmeniškai arba [Lietuvos Respublikos elektroninio parašo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.382345294FBF) nustatyta tvarka. Kai pagal sutartį apskaitą tvarko apskaitos paslaugas teikianti įmonė arba apskaitos paslaugas savarankiškai teikiantis asmuo, arba centralizuotai tvarkanti apskaitą biudžetinė įstaiga, dokumentų pasirašymo tvarka nustatoma sutartyje, sudaromoje su užsakovu. ^s-6b72b30c63b7a84451fee165
 
 
 2. Už apskaitos dokumentų surašymą laiku ir teisingai, už juose esančių duomenų tikrumą ir ūkinių operacijų teisėtumą atsako apskaitos dokumentus surašę ir pasirašę asmenys. Ūkio subjekto vadovas atsako už teisingos, tikslios, išsamios ir laiku pateiktos informacijos apie ūkinius įvykius ir ūkines operacijas pateikimą vyriausiajam buhalteriui (buhalteriui) arba apskaitos paslaugas teikiančiai įmonei, arba apskaitos paslaugas savarankiškai teikiančiam asmeniui.“ ^s-a828eb42181152696e9faebf
@@ -401,7 +401,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 1. Kai prekės grąžinamos, nukainojamos, parduodamos su nuolaida, kai suteikiamos apyvartos nuolaidos, taip pat kai taisomos apskaitos dokumentų, kuriais įforminamos pirkimo–pardavimo operacijos, išrašymo metu padarytos, bet vėliau pastebėtos klaidos ir kitais atvejais rašomi patikslinamieji apskaitos dokumentai. Patikslinamieji pinigų apskaitos dokumentai nesurašomi. Patikslinamąjį apskaitos dokumentą surašo ūkio subjektas, kuris surašė apskaitos dokumentą, kurį reikia tikslinti, arba šalių susitarimu ūkio subjektas, kuris gavo šį apskaitos dokumentą. ^s-7b78dadaa98bffc1c4965301
 
 
-2. Patikslinamajame apskaitos dokumente, be šio įstatymo [[#^s-0c033ea3466af7317bb7a3f4|13 straipsnio]] 1 ir [[#^s-aed3aa9d6170865c87a31af8|2 dalyse]] nurodytų rekvizitų, nurodomas tikslinamo dokumento pavadinimas ir jo surašymo data. Apyvartos nuolaidos suteikimo atveju surašytame patikslinamajame apskaitos dokumente nurodomas nuolaidos teikimo laikotarpis ir to laikotarpio apyvartos suma, nuo kurios teikiama nuolaida, o tikslinamo dokumento pavadinimas ir jo surašymo data nenurodomi.“ ^s-aed3aa9d6170865c87a31af8
+2. Patikslinamajame apskaitos dokumente, be šio įstatymo [[#^s-0c033ea3466af7317bb7a3f4|13 straipsnio]] [[#^s-7db0a40290f82ea6596e6dfb|1]] ir [[#^s-27164d8544008e23864963ab|2]] dalyse nurodytų rekvizitų, nurodomas tikslinamo dokumento pavadinimas ir jo surašymo data. Apyvartos nuolaidos suteikimo atveju surašytame patikslinamajame apskaitos dokumente nurodomas nuolaidos teikimo laikotarpis ir to laikotarpio apyvartos suma, nuo kurios teikiama nuolaida, o tikslinamo dokumento pavadinimas ir jo surašymo data nenurodomi.“ ^s-aed3aa9d6170865c87a31af8
 
 
 
@@ -508,7 +508,7 @@ Pakeisti 21 straipsnio pavadinimą, [[#^s-964d997247c7db1d937269d4|2 dalyje]] po
 Pakeisti Įstatymo priedo 3 punktą ir jį išdėstyti taip:
 
 
-„3. 2008 m. lapkričio 3 d. Komisijos reglamentas (EB) Nr. 1126/2008, priimantis tam tikrus tarptautinius apskaitos standartus pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002 (OL 2008 L 320, p. 1).“
+„3. 2008 m. lapkričio 3 d. Komisijos [reglamentas (EB) Nr. 1126/2008](https://eur-lex.europa.eu/eli/reg/1126/2008/oj), priimantis tam tikrus tarptautinius apskaitos standartus pagal Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 1606/2002](https://eur-lex.europa.eu/eli/reg/1606/2002/oj) (OL 2008 L 320, p. 1).“
 
 
 
@@ -556,4 +556,4 @@ Nr. XI-2174, 2012-06-29, Žin., 2012, Nr. 83-4348 (2012-07-14); Žin., 2012, Nr.
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1726, 2015-05-19, paskelbta TAR 2015-05-29, i. k. 2015-08377
-[[latest/TAR.43178AA9832E#^s-e708f0819ed8305843b44b2e|Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 5, 6, 7, 9, 10, 11, 12, 14, 15, 16, 18, 19, 20, [[#^s-0b8023c19862c145fe337542\|21 straipsnių]]]], trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymo Nr. XI-1988 8, [[#^s-60efe512b925c0f18034fd77|23 straipsnių]] pakeitimo ir [[#^s-5259b797e7bc1e7acb0be7b9|9 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos buhalterinės apskaitos įstatymo [[#^s-c98b680a3bd998b2afad94e0|1]], [[#^s-2602559115572324fa20b68d|2]], [[#^s-4f42c8300511f05fbfdb3e20|3]], [[#^s-c6ba520be9aacf216a332779|5]], [[#^s-d1d114bc3447f2e39eedf7a3|6]], [[#^s-6309dc3d9c999826740f8da4|7]], [[#^s-5259b797e7bc1e7acb0be7b9|9]], [[#^s-c997de005d542723f59c952b|10]], [[#^s-edbe8cea86d5f78e6003d584|11]], [[#^s-44c256306ba219ca864c4337|12]], [[#^s-1e268596cb594b8b56da6737|14]], [[#^s-a225beb0145c5297659d490d|15]], [[#^s-9d8f06203064e7b992f2af4e|16]], [[#^s-864eb5bad6fb0a82ab094e4e|18]], [[#^s-0518ab7ba81f93f92ecd768d|19]], [[#^s-333565e0a89a8d08f9b59a95|20]], [[#^s-0b8023c19862c145fe337542|21]] straipsnių, trečiojo, penktojo skirsnių pavadinimų ir priedo pakeitimo ir papildymo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymo Nr. XI-1988 [[#^s-b0a86797189b1e75e88639b9|8]], [[#^s-60efe512b925c0f18034fd77|23]] straipsnių pakeitimo ir [[#^s-5259b797e7bc1e7acb0be7b9|9 straipsnio]] pripažinimo netekusiu galios įstatymas

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-d6aa7ff1d1c17dad3059c80c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės susitarimą dėl nelegaliai esančių asmenų grąžinimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės susitarimą dėl nelegaliai esančių asmenų grąžinimo, pasirašytą 1998 m. gruodžio 4 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 27 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės susitarimą dėl nelegaliai esančių asmenų grąžinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.7F3AB435BAD6), ratifikuoja Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės susitarimą dėl nelegaliai esančių asmenų grąžinimo, pasirašytą 1998 m. gruodžio 4 d. Vilniuje.
 
 
 

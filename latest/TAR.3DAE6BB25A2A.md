@@ -127,7 +127,7 @@ baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
-4. Tas, kas kūrė šio straipsnio 2 ar [[#^s-1b16c17e035c3a6adab01818|3 dalyje]] numatytą teroristinę grupę arba jai vadovavo, ^s-a5cd0ac61b512237fe667873
+4. Tas, kas kūrė šio straipsnio [[#^s-e8d21d75d25d0577dab1f51d|2]] ar [[#^s-1b16c17e035c3a6adab01818|3]] dalyje numatytą teroristinę grupę arba jai vadovavo, ^s-a5cd0ac61b512237fe667873
 baudžiamas laisvės atėmimu nuo dvylikos iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
@@ -161,7 +161,7 @@ baudžiamas laisvės atėmimu nuo trejų iki penkiolikos metų.
 baudžiamas laisvės atėmimu nuo aštuonerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
-5. Tas, kas padarė šio straipsnio 2, 3 ar [[#^s-98d44fbc314516714e00d8d3|4 dalyje]] numatytą veiką, jeigu ji buvo nukreipta prieš strateginę reikšmę nacionaliniam saugumui turintį objektą arba dėl to atsirado labai sunkių padarinių, ^s-e6d538de4472e24d67ff5573
+5. Tas, kas padarė šio straipsnio [[#^s-80349a8ff2c5390cd34a4cf1|2]], [[#^s-5c76fd12a438bac86a04d8fe|3]] ar [[#^s-98d44fbc314516714e00d8d3|4]] dalyje numatytą veiką, jeigu ji buvo nukreipta prieš strateginę reikšmę nacionaliniam saugumui turintį objektą arba dėl to atsirado labai sunkių padarinių, ^s-e6d538de4472e24d67ff5573
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
@@ -281,11 +281,11 @@ baudžiamas laisvės atėmimu nuo trejų iki aštuonerių metų.
 baudžiamas laisvės atėmimu nuo penkerių iki dešimties metų.
 
 
-4. Tas, kas teroristiniais tikslais padarė šio straipsnio 1, 2 ar [[#^s-6ff7d8cdc639781474f64c9c|3 dalyje]] numatytą veiką, ^s-911347d13e98bf88ea1d57b4
+4. Tas, kas teroristiniais tikslais padarė šio straipsnio [[#^s-7d20d49cefcc51a6012d4f8f|1]], [[#^s-da0781cf7c39392bafe67801|2]] ar [[#^s-6ff7d8cdc639781474f64c9c|3]] dalyje numatytą veiką, ^s-911347d13e98bf88ea1d57b4
 baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
 
-5. Tas, kas padarė šio straipsnio 1, 2, 3 ar [[#^s-911347d13e98bf88ea1d57b4|4 dalyje]] numatytą veiką, jeigu dėl to įvyko incidentas, avarija ar atsirado kitų labai sunkių padarinių, ^s-d7f91c6e48194ecc97ec13a5
+5. Tas, kas padarė šio straipsnio [[#^s-7d20d49cefcc51a6012d4f8f|1]], [[#^s-da0781cf7c39392bafe67801|2]], [[#^s-6ff7d8cdc639781474f64c9c|3]] ar [[#^s-911347d13e98bf88ea1d57b4|4]] dalyje numatytą veiką, jeigu dėl to įvyko incidentas, avarija ar atsirado kitų labai sunkių padarinių, ^s-d7f91c6e48194ecc97ec13a5
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 

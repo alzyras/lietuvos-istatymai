@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos farmacijos įstatymo Nr. X-709 39 straipsnio 
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.FF33B3BF23DD|Lietuvos Respublikos farmacijos įstatymas]] - 39 straipsnį 12 punktu
 
 ## Šį įstatymą cituoja
 

@@ -10,7 +10,7 @@ pavadinimas: "Lietuvos Respublikos korupcijos prevencijos įstatymo 2, 3, 6, 11 
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Lietuvos Respublikos baudžiamojo proceso kodeksu
-- [[latest/TAR.C0E550D6ADF0|Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas]] - 2 citatos - Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo
+- [[latest/TAR.C0E550D6ADF0|Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas]] - Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo
 
 ## Šį įstatymą cituoja
 

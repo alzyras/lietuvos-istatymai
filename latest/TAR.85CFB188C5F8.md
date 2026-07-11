@@ -218,9 +218,9 @@ Lietuvos Respublikoje nustatomas toks išsilavinimo cenzas: pradinis, pagrindini
 
 
 4. Švietimo įstaigos gali būti steigiamos kelių steigėjų sutarties pagrindu. Tėvų pageidavimu valstybės ar savivaldybių švietimo įstaigos (klasės, grupės) gali būti sutarties pagrindu steigiamos kartu su valstybės pripažinta tradicine religine bendrija šios bendrijos, savivaldybių tarybos ar valstybės institucijos iniciatyva. Šių švietimo įstaigų steigimo, reorganizavimo ir likvidavimo tvarką, suderintą su valstybės pripažintomis tradicinėmis religinėmis bendrijomis, nustato Vyriausybė ar jos įgaliota institucija. ^s-3363e5f32c20c62cf8ff1503
-TAR pastaba. Pripažinti, kad [[latest/TAR.9A3AD08EA5D0#^s-f1466fdaaae16988a41ab7c8|Lietuvos Respublikos švietimo įstatymo 10 straipsnio 4 dalis]] ta apimtimi, kuria nustatyta, kad valstybinėse ir savivaldybių švietimo įstaigose kartu su valstybės pripažintomis tradicinėmis religinėmis bendrijomis gali būti steigiamos klasės arba grupės, taip pat [[#^s-3363e5f32c20c62cf8ff1503|10 straipsnio 4 dalies]] nuostata „suderintą su valstybės pripažintomis tradicinėmis religinėmis bendrijomis“ prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-6cfbb64f865ee479570a1415|40 straipsnio 1 daliai]].
+TAR pastaba. Pripažinti, kad [[latest/TAR.9A3AD08EA5D0#^s-f1466fdaaae16988a41ab7c8|Lietuvos Respublikos švietimo įstatymo 10 straipsnio 4 dalis]] ta apimtimi, kuria nustatyta, kad valstybinėse ir savivaldybių švietimo įstaigose kartu su valstybės pripažintomis tradicinėmis religinėmis bendrijomis gali būti steigiamos klasės arba grupės, taip pat 10 straipsnio 4 dalies nuostata „suderintą su valstybės pripažintomis tradicinėmis religinėmis bendrijomis“ prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-6cfbb64f865ee479570a1415|40 straipsnio 1 daliai]].
 Straipsnio dalies pakeitimai:
-2000-06-13, Žin., 2000, Nr. 49-1424 (2000-06-16), i. k. 1001000NUTARG001408
+2000-06-13, Žin., 2000, Nr. 49-1424 (2000-06-16), i. k. [1001000NUTARG001408](https://e-tar.lt/portal/lt/legalAct/TAR.788117AB3551)
 
 
 
@@ -578,13 +578,13 @@ Mokslo metai bendrojo lavinimo mokyklose pradedami nuo rugsėjo pirmos dienos.
 
 
 3) vadovų ir pedagogų atestaciją organizuoja abu steigėjai (pagal savo kompetenciją). ^s-88f4da66f6bdb357f516ad6d
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos švietimo įstatymo 32 straipsnio 2 dalies 1 punkto nuostata, kurioje įtvirtinta, kad skiriant ir atleidžiant valstybės ir savivaldybių švietimo įstaigų vadovus yra reikalingas tradicinės religinės bendrijos teikimas, ir [[#^s-b8e5b6895c6a25929ddc3c2b|32 straipsnio 2 dalies]] 2 ir 3 punktai prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-79cbf021e96f6d284a405496|25 straipsnio 1 daliai]], [[#^s-9f340c962ddfb889c5e5217c|26 straipsnio]] 1 bei [[#^s-b8e5b6895c6a25929ddc3c2b|2 dalims]] ir [[#^s-6cfbb64f865ee479570a1415|40 straipsnio 1 daliai]].
-Pripažinti, kad Lietuvos Respublikos švietimo įstatymo 32 straipsnio 2 dalies 2 punktas prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-79cbf021e96f6d284a405496|25 straipsnio 1 daliai]], [[#^s-9f340c962ddfb889c5e5217c|26 straipsnio]] 1 ir [[#^s-b8e5b6895c6a25929ddc3c2b|2 dalims]], [[#^s-6cfbb64f865ee479570a1415|40 straipsnio 1 daliai]] ir [[#^s-0fa74d4dc91181a907d0e82f|42 straipsnio 2 daliai]].
+TAR pastaba. Pripažinti, kad [[latest/TAR.9A3AD08EA5D0|Lietuvos Respublikos švietimo įstatymo 32 straipsnio 2 dalies 1 punkto]] nuostata, kurioje įtvirtinta, kad skiriant ir atleidžiant valstybės ir savivaldybių švietimo įstaigų vadovus yra reikalingas tradicinės religinės bendrijos teikimas, ir [[#^s-b8e5b6895c6a25929ddc3c2b|32 straipsnio 2 dalies]] [[#^s-283cce378dfb15f22f037fad|2]] ir 3 punktai prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-79cbf021e96f6d284a405496|25 straipsnio 1 daliai]], [[#^s-9f340c962ddfb889c5e5217c|26 straipsnio]] [[#^s-070cabf5303bbb501149bcbf|1]] bei [[#^s-d24b1da49d920e55458434b2|2]] dalims ir [[#^s-6cfbb64f865ee479570a1415|40 straipsnio 1 daliai]].
+Pripažinti, kad [[latest/TAR.9A3AD08EA5D0#^s-f2e9bb0e9a6e9e1dc3f452a8|Lietuvos Respublikos švietimo įstatymo 32 straipsnio 2 dalies 2 punktas prieštarauja Lietuvos Respublikos Konstitucijos 25 straipsnio 1 daliai, 26 straipsnio]] [[latest/TAR.9A3AD08EA5D0#^s-5e02a932bb5e45718e0f0211|1]] ir [[latest/TAR.9A3AD08EA5D0#^s-aa6a3d7bdef2ceb1c3e4dd6a|2]] dalims, [[#^s-6cfbb64f865ee479570a1415|40 straipsnio 1 daliai]] ir [[#^s-0fa74d4dc91181a907d0e82f|42 straipsnio 2 daliai]].
 Pripažinti, kad [[latest/TAR.9A3AD08EA5D0#^s-545453d8daaa2ef8bcca7aba|Lietuvos Respublikos švietimo įstatymo 32 straipsnio 2 dalis]] prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-6cfbb64f865ee479570a1415|40 straipsnio 1 daliai]].
 
 
 Straipsnio dalies pakeitimai:
-2000-06-13, Žin., 2000, Nr. 49-1424 (2000-06-16), i. k. 1001000NUTARG001408
+2000-06-13, Žin., 2000, Nr. 49-1424 (2000-06-16), i. k. [1001000NUTARG001408](https://e-tar.lt/portal/lt/legalAct/TAR.788117AB3551)
 
 
 
@@ -611,7 +611,7 @@ Straipsnio dalies pakeitimai:
 2. Švietimo įstaigų veiklą organizuoja ir prižiūri jų steigėjai Bendrųjų švietimo įstaigų priežiūros nuostatų nustatyta tvarka. ^s-fc499373734f82e73c33177f
 TAR pastaba. Pripažinti, kad [[latest/TAR.9A3AD08EA5D0#^s-0c21bcce8461893587bc8815|Lietuvos Respublikos švietimo įstatymo 34 straipsnio 2 dalis]] ta apimtimi, kuria įtvirtinta valstybės pripažintų tradicinių religinių bendrijų – švietimo įstaigų steigėjų teisė prižiūrėti ne tik tikybos mokymą valstybinėse ir savivaldybių mokymo ir auklėjimo įstaigose, bet ir visą šių įstaigų veiklą, prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-6cfbb64f865ee479570a1415|40 straipsnio 1 daliai]].
 Straipsnio dalies pakeitimai:
-2000-06-13, Žin., 2000, Nr. 49-1424 (2000-06-16), i. k. 1001000NUTARG001408
+2000-06-13, Žin., 2000, Nr. 49-1424 (2000-06-16), i. k. [1001000NUTARG001408](https://e-tar.lt/portal/lt/legalAct/TAR.788117AB3551)
 
 
 
@@ -912,5 +912,5 @@ Pakeitimai:
 
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2000-06-13, Žin., 2000, Nr. 49-1424 (2000-06-16), i. k. 1001000NUTARG001408
-Dėl Lietuvos Respublikos švietimo įstatymo 1 straipsnio 5 punkto, [[#^s-312af8e826e3dfe5a1a3c27d|10 straipsnio]] 3 ir 4 dalių, [[#^s-395d85c3408f788fb74bcdb3|15 straipsnio 1 dalies]], [[#^s-aedc95ddf4b23c424a217093|20 straipsnio]], [[#^s-7c3467a0805ceaa0897ed739|21 straipsnio 2 punkto]], [[#^s-b8e5b6895c6a25929ddc3c2b|32 straipsnio 2 dalies]], [[#^s-3ca93131422e2e90d1fc8c87|34 straipsnio]] 2, 3 ir 4 dalių, [[#^s-be8e92b9efc0862b70b05b6e|35 straipsnio]] 2 ir 5 punktų, [[#^s-e99520d76f55a8628e46039d|37 straipsnio 2 punkto]] ir [[#^s-93afcb0ec98d1b012e246955|38 straipsnio]] 2 ir 3 punktų atitikimo Lietuvos Respublikos Konstitucijai
+2000-06-13, Žin., 2000, Nr. 49-1424 (2000-06-16), i. k. [1001000NUTARG001408](https://e-tar.lt/portal/lt/legalAct/TAR.788117AB3551)
+[Dėl Lietuvos Respublikos švietimo įstatymo 1 straipsnio 5 punkto, 10 straipsnio 3 ir 4 dalių, 15 straipsnio 1 dalies, 20 straipsnio, 21 straipsnio 2 punkto, 32 straipsnio 2 dalies, 34 straipsnio 2, 3 ir 4 dalių, 35 straipsnio 2 ir 5 punktų, 37 straipsnio 2 punkto ir 38 straipsnio 2 ir 3 punktų atitikimo Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/TAR.788117AB3551)

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Nutarimo ratifikavimas ^s-bac15e14d861525a37b53c92
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1997 m. kovo 26 d. dekretą Nr.1251, ratifikuoja Lietuvos Respublikos ir ELPA Jungtinio komiteto nutarimą Nr.1/1997 „B protokolo pakeitimas“, pasirašytą 1997 m. kovo 6 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento [1997 m. kovo 26 d. dekretą Nr.1251](https://e-tar.lt/portal/lt/legalAct/TAR.6C68EFB40408), ratifikuoja Lietuvos Respublikos ir ELPA Jungtinio komiteto nutarimą Nr.1/1997 „B protokolo pakeitimas“, pasirašytą 1997 m. kovo 6 d. Ženevoje.
 
 
 

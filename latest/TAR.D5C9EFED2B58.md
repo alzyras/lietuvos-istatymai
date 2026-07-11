@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-0cac220d54a4a0e02a5e5a9d
 
 
-[[#^s-29c49ba7e62f6c7c8beda806|2 straipsnio]] 1 ir [[#^s-6139232df10febe2e0c10d14|2 punktuose]] vietoj žodžių „Civilinės saugos departamentas“ įrašyti žodžius „Priešgaisrinės apsaugos ir gelbėjimo departamentas“ ir šį straipsnį išdėstyti taip:
+[[#^s-29c49ba7e62f6c7c8beda806|2 straipsnio]] 1 ir 2 punktuose vietoj žodžių „Civilinės saugos departamentas“ įrašyti žodžius „Priešgaisrinės apsaugos ir gelbėjimo departamentas“ ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-29c49ba7e62f6c7c8beda806|2 straipsnis]]. Lietuvos Respublikos pareiškimas

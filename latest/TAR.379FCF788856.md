@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-3a5f5747dfd24650f5d45c9f
 
 
-1. Pakeisti 2 straipsnyje išdėstyto Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio 7 punktą ir jį išdėstyti taip: ^s-5a730df48a5c11fe210ba320
+1. Pakeisti 2 straipsnyje išdėstyto Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) priedėlio IV skirsnio 7 punktą ir jį išdėstyti taip: ^s-5a730df48a5c11fe210ba320
 
 
 
@@ -70,7 +70,7 @@ Vilnius
 
 
 
-2. 2 straipsnyje išdėstyto Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio IV skirsnio 11 punktą pripažinti netekusiu galios. ^s-b391a7b7151a115c73e2d782
+2. 2 straipsnyje išdėstyto Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) priedėlio IV skirsnio 11 punktą pripažinti netekusiu galios. ^s-b391a7b7151a115c73e2d782
 
 
 

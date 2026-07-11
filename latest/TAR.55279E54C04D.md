@@ -46,7 +46,7 @@ Vilnius
 „49 straipsnis. Prokurorų darbo užmokestis
 
 
-Prokurorų darbo užmokestį nustato Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymas.“
+Prokurorų darbo užmokestį nustato Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3).“
 
 
 

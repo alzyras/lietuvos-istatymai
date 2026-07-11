@@ -47,13 +47,13 @@ Vilnius
 1. 93 straipsnio 1 dalies 1 punktą pripažinti netekusiu galios. ^s-cd714b7e9f1796d57d3fdbe1
 
 
-2. Papildyti 93 straipsnį nauja [[#^s-40d16c3c285defbf90b1f167|2 dalimi]]: ^s-40d16c3c285defbf90b1f167
+2. Papildyti 93 straipsnį nauja 2 dalimi: ^s-40d16c3c285defbf90b1f167
 
 
 „2. Tiekėjas gali pateikti prašymą teismui dėl laikinųjų apsaugos priemonių taikymo Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.“
 
 
-3. Buvusią 93 straipsnio 2 dalį laikyti [[#^s-09e2cd1f713d97cc20c1b44a|3 dalimi]], ją pakeisti ir išdėstyti taip: ^s-09e2cd1f713d97cc20c1b44a
+3. Buvusią 93 straipsnio 2 dalį laikyti 3 dalimi, ją pakeisti ir išdėstyti taip: ^s-09e2cd1f713d97cc20c1b44a
 
 
 „3. Tiekėjas, norėdamas iki pirkimo sutarties sudarymo ginčyti perkančiosios organizacijos sprendimus ar veiksmus, pirmiausia turi pateikti pretenziją perkančiajai organizacijai šiame skyriuje nustatyta tvarka. Pretenzija turi būti pateikta faksu, elektroninėmis priemonėmis ar pasirašytinai per kurjerį. Perkančiosios organizacijos sprendimas, priimtas išnagrinėjus tiekėjo pretenziją, gali būti skundžiamas teismui šiame skyriuje nustatyta tvarka.“

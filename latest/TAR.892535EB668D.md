@@ -52,14 +52,14 @@ Papildyti 9 straipsnio 2 dalį ir ją išdėstyti taip:
 Papildyti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„Teisę gauti pareigūnų ir karių valstybinę našlių ir našlaičių pensiją turi mirusiojo (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) pareigūno ar kario sutuoktinis bei vaikai, taip pat jiems prilyginti asmenys, nurodyti [[latest/TAR.A7F77DF94F5D#^s-37fa706f93454b00e769633c|Valstybinių socialinio draudimo pensijų įstatymo 34 ir 35 straipsniuose]]. Ši pensija skiriama, jei miręs asmuo buvo įgijęs teisę gauti pareigūnų ir karių valstybinę pensiją už tarnybą arba žuvęs ar miręs nuo sužalojimų asmuo dėl priežasčių, susijusių su tarnyba, arba dėl invalidumo buvo įgijęs teisę gauti pareigūnų ir karių valstybinę invalidumo pensiją arba vieną iš šių pensijų gavo.“
+„Teisę gauti pareigūnų ir karių valstybinę našlių ir našlaičių pensiją turi mirusiojo (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) pareigūno ar kario sutuoktinis bei vaikai, taip pat jiems prilyginti asmenys, nurodyti [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] [[latest/TAR.A7F77DF94F5D#^s-5588e0dd4927669d9163f666|34]] ir [[latest/TAR.A7F77DF94F5D#^s-37fa706f93454b00e769633c|35]] straipsniuose. Ši pensija skiriama, jei miręs asmuo buvo įgijęs teisę gauti pareigūnų ir karių valstybinę pensiją už tarnybą arba žuvęs ar miręs nuo sužalojimų asmuo dėl priežasčių, susijusių su tarnyba, arba dėl invalidumo buvo įgijęs teisę gauti pareigūnų ir karių valstybinę invalidumo pensiją arba vieną iš šių pensijų gavo.“
 
 
 
 ### 3 straipsnis. 16 straipsnio 4 dalies 4 ir 5 punktų papildymas ^s-efb4a7a745585abb08ad8be4
 
 
-Papildyti 16 straipsnio 4 dalies 4 ir [[#^s-b6a2df862aac76637467eec1|5 punktus]] ir juos išdėstyti taip:
+Papildyti 16 straipsnio 4 dalies 4 ir 5 punktus ir juos išdėstyti taip:
 
 
 „4) viena tarnybos ar darbo diena Krašto apsaugos departamento struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. ir Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. įskaitoma kaip trys tarnybos dienos;

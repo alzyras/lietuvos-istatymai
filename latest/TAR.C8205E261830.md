@@ -156,7 +156,7 @@ Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
 
 
 
-17. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, [[latest/TAR.91609F53E29E|Lietuvos Respublikos socialinių paslaugų įstatyme]], [[latest/a92aa040c2bd11e79122ea2db7aeb5f0|Lietuvos Respublikos šeimos stiprinimo įstatyme]], [[latest/TAR.EAA93A47BAA1|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatyme]], [[latest/TAR.E14E65020CCC|Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme]], [[latest/599af1605b2b11eb9dc7b575f08e8bea|Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatyme]] ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). ^s-1f89b045cbae9dc2dffbe05d
+17. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, [[latest/TAR.91609F53E29E|Lietuvos Respublikos socialinių paslaugų įstatyme]], [[latest/a92aa040c2bd11e79122ea2db7aeb5f0|Lietuvos Respublikos šeimos stiprinimo įstatyme]], [[latest/TAR.EAA93A47BAA1|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatyme]], [[latest/TAR.E14E65020CCC|Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme]], [[latest/599af1605b2b11eb9dc7b575f08e8bea|Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatyme]] ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). ^s-1f89b045cbae9dc2dffbe05d
 Straipsnio dalies pakeitimai:
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 Nr. XIV-171, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00911
@@ -208,7 +208,7 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-3) teisės viršenybės – vaiko teisių apsaugą siekiama užtikrinti vadovaujantis Konstitucija, Jungtinių Tautų vaiko teisių konvencija, jos fakultatyviais protokolais, kitomis ratifikuotomis tarptautinėmis sutartimis ir Lietuvos Respublikos įstatymais; ^s-44d56894caa814bfef5aa85f
+3) teisės viršenybės – vaiko teisių apsaugą siekiama užtikrinti vadovaujantis Konstitucija, Jungtinių Tautų [vaiko teisių konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.48A4910C899F), jos fakultatyviais protokolais, kitomis ratifikuotomis tarptautinėmis sutartimis ir Lietuvos Respublikos įstatymais; ^s-44d56894caa814bfef5aa85f
 Straipsnio punkto pakeitimai:
 Nr. XIV-1376, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15468
 Straipsnio punkto numeracijos pakeitimas:
@@ -424,10 +424,10 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 4. Vaikas turi teisę į žodžio laisvę, apimančią teisę laisvai ieškoti, gauti ir skleisti informaciją ir idėjas žodine, rašytine ar kita forma arba kitais vaiko pasirinktais būdais. ^s-ec2dac33e7aec0eede0f79fb
 
 
-5. Vaiko tėvai ir kiti jo atstovai pagal įstatymą turi teisę ir pareigą vadovauti vaikui įgyvendinant šio straipsnio 1–[[#^s-ec2dac33e7aec0eede0f79fb|4 dalyse]] nustatytas teises taip, kad tai atitiktų besivystančius vaiko sugebėjimus. ^s-dbd7a5664f960f1e59a83c4a
+5. Vaiko tėvai ir kiti jo atstovai pagal įstatymą turi teisę ir pareigą vadovauti vaikui įgyvendinant šio straipsnio [[#^s-aa130e22cf47c28a6a5b4680|1]]–[[#^s-ec2dac33e7aec0eede0f79fb|4]] dalyse nustatytas teises taip, kad tai atitiktų besivystančius vaiko sugebėjimus. ^s-dbd7a5664f960f1e59a83c4a
 
 
-6. Šio straipsnio 1–[[#^s-ec2dac33e7aec0eede0f79fb|4 dalyse]] nustatytos vaiko teisės negali būti ribojamos kitaip, kaip tik įstatymu, jeigu tai būtina paties vaiko ar kito asmens pagrindinėms teisėms ir laisvėms, sveikatai, garbei ir orumui, privačiam gyvenimui, dorovei apsaugoti ar valstybės bei visuomenės saugumui, viešajai tvarkai ar konstitucinei santvarkai ginti. ^s-a3da6c4f7637530c9db1d0bc
+6. Šio straipsnio [[#^s-aa130e22cf47c28a6a5b4680|1]]–[[#^s-ec2dac33e7aec0eede0f79fb|4]] dalyse nustatytos vaiko teisės negali būti ribojamos kitaip, kaip tik įstatymu, jeigu tai būtina paties vaiko ar kito asmens pagrindinėms teisėms ir laisvėms, sveikatai, garbei ir orumui, privačiam gyvenimui, dorovei apsaugoti ar valstybės bei visuomenės saugumui, viešajai tvarkai ar konstitucinei santvarkai ginti. ^s-a3da6c4f7637530c9db1d0bc
 
 
 
@@ -696,7 +696,7 @@ VAIKAS IR SOCIALINĖ APLINKA
 3. Vaikui, atsižvelgiant į jo amžių, sveikatą, išsivystymą ir brandą, gali būti taikomos prevencinės, ugdymo, gydymo (įskaitant gydymą nuo priklausomybių ligų) ir reabilitacijos programos. ^s-893ad947d4b4df056af4b9e7
 
 
-4. Šio straipsnio 1 ir [[#^s-2af8eef61c49bff0cf091e0e|2 dalyse]] nurodyti apribojimai netaikomi, kai vaistai, turintys narkotinių ir (ar) psichotropinių medžiagų, skiriami gydytojo nurodymu pagal galiojančią gydymo tvarką vadovaujantis vaisto charakteristikų santrauka. ^s-437adc0fade7928e9f41912e
+4. Šio straipsnio [[#^s-b984ac9fb01e4d13e7360112|1]] ir [[#^s-2af8eef61c49bff0cf091e0e|2]] dalyse nurodyti apribojimai netaikomi, kai vaistai, turintys narkotinių ir (ar) psichotropinių medžiagų, skiriami gydytojo nurodymu pagal galiojančią gydymo tvarką vadovaujantis vaisto charakteristikų santrauka. ^s-437adc0fade7928e9f41912e
 
 
 
@@ -741,7 +741,7 @@ VAIKAS IR SOCIALINĖ APLINKA
 2. Vaikas taip pat saugomas nuo visų formų smurto, už kurį nenumatyta baudžiamoji atsakomybė, smurto demonstravimo vaikui bei kitų vaiko asmeninių ar turtinių teisių pažeidimų, nenumatytų [[#^s-c183963eeb13ebcd1923c481|šio straipsnio 1 dalyje]]. ^s-3977a6227e6271ffe393a300
 
 
-3. Fizinis ar juridinis asmuo, sužinojęs ir (ar) turintis pagrįstos informacijos apie vaiką, kuris nukentėjo nuo nusikalstamos veikos, nurodytos šio straipsnio 1 ir [[#^s-3977a6227e6271ffe393a300|2 dalyse]], ir (ar) dėl to jam gali būti reikalinga pagalba, privalo apie tai pranešti policijai ir (ar) Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai ar jos įgaliotam teritoriniam skyriui. ^s-2d4bc46bade8d9bacd402de2
+3. Fizinis ar juridinis asmuo, sužinojęs ir (ar) turintis pagrįstos informacijos apie vaiką, kuris nukentėjo nuo nusikalstamos veikos, nurodytos šio straipsnio [[#^s-c183963eeb13ebcd1923c481|1]] ir [[#^s-3977a6227e6271ffe393a300|2]] dalyse, ir (ar) dėl to jam gali būti reikalinga pagalba, privalo apie tai pranešti policijai ir (ar) Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai ar jos įgaliotam teritoriniam skyriui. ^s-2d4bc46bade8d9bacd402de2
 
 
 4. Už vaiko teisių pažeidimus, nurodytus [[#^s-c183963eeb13ebcd1923c481|šio straipsnio 1 dalyje]], asmuo traukiamas atsakomybėn Baudžiamajame kodekse ir [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekse]] nustatyta tvarka. Už vaiko teisių pažeidimus, nurodytus [[#^s-3977a6227e6271ffe393a300|šio straipsnio 2 dalyje]], asmuo traukiamas atsakomybėn Administracinių nusižengimų kodekse, Civiliniame kodekse ir kituose įstatymuose nustatyta tvarka. ^s-37cd5bfa5ea663991722cfcf
@@ -771,7 +771,7 @@ Nr. XIV-1376, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15468
 ### 30 straipsnis. Darbo, paslaugų teikimo, savanoriškos veiklos, individualios veiklos, praktikos ir stažuotės, susijusios su vaikais, apribojimai ^s-938be93aca6b5152a7066603
 
 
-1. Asmenims, įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu pripažintiems kaltais dėl nusikalstamų veikų žmogaus seksualinio apsisprendimo laisvei ir neliečiamumui, dėl vaiko išnaudojimo pornografijai, pelnymosi iš asmens prostitucijos, asmens įtraukimo į prostituciją ar disponavimo pornografinio turinio dalykais, kuriuose vaizduojamas vaikas arba asmuo pateikiamas kaip vaikas, vaiko pirkimo arba pardavimo (toliau kartu – seksualiniai nusikaltimai), taip pat dėl kitų tyčinių sunkių ir labai sunkių nusikaltimų: nusikaltimų žmoniškumui ir karo nusikaltimų (Baudžiamojo kodekso XV skyrius), Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai (Baudžiamojo kodekso XVI skyrius), nužudymo (Baudžiamojo kodekso 129 straipsnis), prekybos žmonėmis (Baudžiamojo kodekso 147 straipsnis), vaiko pagrobimo ar naujagimių sukeitimo (Baudžiamojo kodekso 156 straipsnio 1 dalis), visuomenės saugumui (Baudžiamojo kodekso 249, 2491, 250, 2502, 2504, 2505 straipsniai, 251 straipsnio 2, 3, 4, [[#^s-a05529799a682be03666dcff|5 dalys]], 2511 straipsnio 1, 2, [[#^s-46525c0917f67de98fdb7333|3 dalys]], 252 straipsnis), nusikaltimų, susijusių su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis (Baudžiamojo kodekso 260, 2601 straipsnio 3, 4, [[#^s-a05529799a682be03666dcff|5 dalys]], 261 straipsnis, 263 straipsnio 2, [[#^s-46525c0917f67de98fdb7333|3 dalys]], 264 straipsnio 2 dalis, 266 straipsnio 3 dalis, 2661 straipsnio 2, [[#^s-46525c0917f67de98fdb7333|3 dalis]], 267 straipsnio 2 dalis, 2671, 2672 straipsnio 2 dalis, 2673 straipsnis), arba dėl analogiškų veikų, nurodytų Baudžiamajame kodekse, galiojusiame iki 2003 m. gegužės 1 d., arba analogiškų veikų, nurodytų kitų valstybių baudžiamuosiuose įstatymuose, neatsižvelgiant į tai, ar teistumas yra išnykęs ar panaikintas, arba asmenims, padariusiems seksualinius nusikaltimus, bet atleistiems nuo baudžiamosios atsakomybės, taip pat asmenims, įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu pripažintiems kaltais dėl kitų tyčinių nusikaltimų: sunkaus sveikatos sutrikdymo (Baudžiamojo kodekso 135 straipsnis), nesunkaus sveikatos sutrikdymo (Baudžiamojo kodekso 138 straipsnio 2 dalies 1, 4, 6 punktai), fizinio skausmo sukėlimo ar nežymaus sveikatos sutrikdymo (Baudžiamojo kodekso 140 straipsnio 3 dalis), išnaudojimo priverstiniam darbui ar paslaugoms (Baudžiamojo kodekso 1471 straipsnio 2 dalis), vaiko įtraukimo į nusikalstamą veiką (Baudžiamojo kodekso 159 straipsnis), plėšimo (Baudžiamojo kodekso 180 straipsnio 2, [[#^s-46525c0917f67de98fdb7333|3 dalys]]), turto prievartavimo (Baudžiamojo kodekso 181 straipsnio 2, [[#^s-46525c0917f67de98fdb7333|3 dalys]]), nusikaltimų, susijusių su disponavimu ginklais, šaudmenimis, sprogmenimis, sprogstamosiomis ar radioaktyviosiomis medžiagomis arba karine įranga (Baudžiamojo kodekso 253 straipsnio 2 dalis, 2532 straipsnio 2 dalis, 254, 256 straipsnio 2 dalis, 2562 straipsnis), dėl neteisėto žmonių gabenimo per valstybės sieną (Baudžiamojo kodekso 292 straipsnio 2, 3, [[#^s-10945c93290ac4d9233587a1|4 dalys]]) arba dėl analogiškų veikų, nurodytų kitų valstybių baudžiamuosiuose įstatymuose, jeigu jų teistumas neišnykęs ar nepanaikintas, draudžiama: ^s-5cc86c13c375b52f1f1d554a
+1. Asmenims, įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu pripažintiems kaltais dėl nusikalstamų veikų žmogaus seksualinio apsisprendimo laisvei ir neliečiamumui, dėl vaiko išnaudojimo pornografijai, pelnymosi iš asmens prostitucijos, asmens įtraukimo į prostituciją ar disponavimo pornografinio turinio dalykais, kuriuose vaizduojamas vaikas arba asmuo pateikiamas kaip vaikas, vaiko pirkimo arba pardavimo (toliau kartu – seksualiniai nusikaltimai), taip pat dėl kitų tyčinių sunkių ir labai sunkių nusikaltimų: nusikaltimų žmoniškumui ir karo nusikaltimų (Baudžiamojo kodekso XV skyrius), Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai (Baudžiamojo kodekso XVI skyrius), nužudymo (Baudžiamojo kodekso 129 straipsnis), prekybos žmonėmis (Baudžiamojo kodekso 147 straipsnis), vaiko pagrobimo ar naujagimių sukeitimo (Baudžiamojo kodekso 156 straipsnio 1 dalis), visuomenės saugumui (Baudžiamojo kodekso 249, 2491, 250, 2502, 2504, 2505 straipsniai, 251 straipsnio 2, 3, 4, 5 dalys, 2511 straipsnio 1, 2, 3 dalys, 252 straipsnis), nusikaltimų, susijusių su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis (Baudžiamojo kodekso 260, 2601 straipsnio 3, 4, 5 dalys, 261 straipsnis, 263 straipsnio 2, 3 dalys, 264 straipsnio 2 dalis, 266 straipsnio 3 dalis, 2661 straipsnio 2, 3 dalis, 267 straipsnio 2 dalis, 2671, 2672 [[#^s-7070d79542db284ab0146c8d|straipsnio 2 dalis]], 2673 straipsnis), arba dėl analogiškų veikų, nurodytų Baudžiamajame kodekse, galiojusiame iki 2003 m. gegužės 1 d., arba analogiškų veikų, nurodytų kitų valstybių baudžiamuosiuose įstatymuose, neatsižvelgiant į tai, ar teistumas yra išnykęs ar panaikintas, arba asmenims, padariusiems seksualinius nusikaltimus, bet atleistiems nuo baudžiamosios atsakomybės, taip pat asmenims, įsiteisėjusiu apkaltinamuoju teismo nuosprendžiu pripažintiems kaltais dėl kitų tyčinių nusikaltimų: sunkaus sveikatos sutrikdymo (Baudžiamojo kodekso 135 straipsnis), nesunkaus sveikatos sutrikdymo (Baudžiamojo kodekso 138 straipsnio 2 dalies 1, 4, 6 punktai), fizinio skausmo sukėlimo ar nežymaus sveikatos sutrikdymo (Baudžiamojo kodekso 140 straipsnio 3 dalis), išnaudojimo priverstiniam darbui ar paslaugoms (Baudžiamojo kodekso 1471 straipsnio 2 dalis), vaiko įtraukimo į nusikalstamą veiką (Baudžiamojo kodekso 159 straipsnis), plėšimo (Baudžiamojo kodekso 180 straipsnio 2, 3 dalys), turto prievartavimo (Baudžiamojo kodekso 181 straipsnio 2, 3 dalys), nusikaltimų, susijusių su disponavimu ginklais, šaudmenimis, sprogmenimis, sprogstamosiomis ar radioaktyviosiomis medžiagomis arba karine įranga (Baudžiamojo kodekso 253 straipsnio 2 dalis, 2532 straipsnio 2 dalis, 254, 256 [[#^s-7070d79542db284ab0146c8d|straipsnio 2 dalis]], 2562 straipsnis), dėl neteisėto žmonių gabenimo per valstybės sieną (Baudžiamojo kodekso 292 straipsnio 2, 3, 4 dalys) arba dėl analogiškų veikų, nurodytų kitų valstybių baudžiamuosiuose įstatymuose, jeigu jų teistumas neišnykęs ar nepanaikintas, draudžiama: ^s-5cc86c13c375b52f1f1d554a
 
 
 Straipsnio dalies pakeitimai:
@@ -900,10 +900,10 @@ Nr. XV-253, 2025-06-05, paskelbta TAR 2025-06-16, i. k. 2025-10900
 3) sveikatos priežiūros įstaigose, įmonėse ir organizacijose – sveikatos apsaugos ministro įgaliota institucija; ^s-dd6bc5afa92e944db5614143
 
 
-4) jei savanoriška veikla užsiimama, praktika atliekama ir stažuojamasi, paslaugos teikiamos kitose, nei nurodyta šios dalies 1–[[#^s-dd6bc5afa92e944db5614143|3 punktuose]], įstaigose, įmonėse ir organizacijose, taip pat individualia veikla užsiimančių bei bet kokią kitą veiklą vykdančių asmenų – socialinės apsaugos ir darbo ministro įgaliota institucija; ^s-e6d817778a1348ec81215cb8
+4) jei savanoriška veikla užsiimama, praktika atliekama ir stažuojamasi, paslaugos teikiamos kitose, nei nurodyta šios dalies [[#^s-cb7a816e04266d2573ea6a24|1]]–[[#^s-dd6bc5afa92e944db5614143|3]] punktuose, įstaigose, įmonėse ir organizacijose, taip pat individualia veikla užsiimančių bei bet kokią kitą veiklą vykdančių asmenų – socialinės apsaugos ir darbo ministro įgaliota institucija; ^s-e6d817778a1348ec81215cb8
 
 
-5) jei dirbama kitose, nei nurodyta šios dalies 1–[[#^s-dd6bc5afa92e944db5614143|3 punktuose]], įstaigose, įmonėse ir organizacijose, – socialinės apsaugos ir darbo ministro įgaliota institucija. ^s-05ef9893b0e1c1b861e69328
+5) jei dirbama kitose, nei nurodyta šios dalies [[#^s-cb7a816e04266d2573ea6a24|1]]–[[#^s-dd6bc5afa92e944db5614143|3]] punktuose, įstaigose, įmonėse ir organizacijose, – socialinės apsaugos ir darbo ministro įgaliota institucija. ^s-05ef9893b0e1c1b861e69328
 
 
 Straipsnio pakeitimai:
@@ -1091,10 +1091,10 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-3. Asmuo, žinantis apie daromą ar padarytą labai sunkų nusikaltimą vaiko atžvilgiu ir be svarbios priežasties nepranešęs apie tai policijai ar Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai ar jos įgaliotam teritoriniam skyriui, atsako Baudžiamojo kodekso nustatyta tvarka. Šio straipsnio 1 ir [[#^s-fbca83eda4a80fb48a7cdb85|2 dalyse]] nurodytas asmuo, nepranešęs apie kitus vaiko teisių pažeidimus, traukiamas kituose įstatymuose numatyton atsakomybėn. ^s-0be5f9e3083ec2c14091a9c3
+3. Asmuo, žinantis apie daromą ar padarytą labai sunkų nusikaltimą vaiko atžvilgiu ir be svarbios priežasties nepranešęs apie tai policijai ar Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybai ar jos įgaliotam teritoriniam skyriui, atsako Baudžiamojo kodekso nustatyta tvarka. Šio straipsnio [[#^s-abd2f3c264189e5f612399d6|1]] ir [[#^s-fbca83eda4a80fb48a7cdb85|2]] dalyse nurodytas asmuo, nepranešęs apie kitus vaiko teisių pažeidimus, traukiamas kituose įstatymuose numatyton atsakomybėn. ^s-0be5f9e3083ec2c14091a9c3
 
 
-4. Asmens, pateikusio šio straipsnio 1 ir [[#^s-fbca83eda4a80fb48a7cdb85|2 dalyse]] nurodytą informaciją, raštu ar žodžiu aiškiai išreikštu pageidavimu turi būti išlaikytas jo anonimiškumas prieš trečiuosius asmenis, išskyrus ikiteisminio tyrimo institucijas, prokuratūrą ir teismus. Ši nuostata netaikoma šio straipsnio 1 ir [[#^s-fbca83eda4a80fb48a7cdb85|2 dalyse]] nurodytų institucijų, įstaigų, organizacijų darbuotojams. Asmens, pateikusio šio straipsnio 1 ir [[#^s-fbca83eda4a80fb48a7cdb85|2 dalyse]] nurodytą informaciją, tapatybė gali būti atskleista ir tada, kai nustatoma, kad buvo suteikta melaginga informacija. ^s-9629bbf858d8822bd688bd5f
+4. Asmens, pateikusio šio straipsnio [[#^s-abd2f3c264189e5f612399d6|1]] ir [[#^s-fbca83eda4a80fb48a7cdb85|2]] dalyse nurodytą informaciją, raštu ar žodžiu aiškiai išreikštu pageidavimu turi būti išlaikytas jo anonimiškumas prieš trečiuosius asmenis, išskyrus ikiteisminio tyrimo institucijas, prokuratūrą ir teismus. Ši nuostata netaikoma šio straipsnio [[#^s-abd2f3c264189e5f612399d6|1]] ir [[#^s-fbca83eda4a80fb48a7cdb85|2]] dalyse nurodytų institucijų, įstaigų, organizacijų darbuotojams. Asmens, pateikusio šio straipsnio [[#^s-abd2f3c264189e5f612399d6|1]] ir [[#^s-fbca83eda4a80fb48a7cdb85|2]] dalyse nurodytą informaciją, tapatybė gali būti atskleista ir tada, kai nustatoma, kad buvo suteikta melaginga informacija. ^s-9629bbf858d8822bd688bd5f
 
 
 5. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius: ^s-623e3e73bb05eed9ec9c8442
@@ -1155,7 +1155,7 @@ Nr. XIII-2414, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13751
 4. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius gali išklausyti ir kitus asmenis, tarp jų švietimo įstaigų pedagogus, sveikatos priežiūros įstaigų darbuotojus, socialinius darbuotojus, jeigu, nagrinėjančio pranešimą apie galimą vaiko teisių pažeidimą asmens manymu, šie asmenys gali turėti pranešimo nagrinėjimui reikšmingos informacijos. ^s-eec7e556a2fd91033d65325d
 
 
-5. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikdamas vaiko situacijos vertinimą, gali daryti garso ir vaizdo įrašus Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos direktoriaus nustatyta tvarka, parengta vadovaujantis Reglamento (ES) 2016/679 [[#^s-99c6af609a21d484e0ff1ce2|5 straipsnyje]] įtvirtintais su asmens duomenų tvarkymu susijusiais principais. Siekiant užtikrinti vaiko ir jo šeimos privataus gyvenimo neliečiamumą, Reglamente (ES) 2016/679 numatytą duomenų subjekto teisę susipažinti su garso ir vaizdo įrašuose esančiais asmens duomenimis turi tik vaikai, tėvai ar kiti vaiko atstovai pagal įstatymą, įgalioti valstybės ar savivaldybių institucijų atstovai, dalyvavę atliekant vaiko situacijos vertinimą, taip pat teismas ar kitos valstybės įgaliotos institucijos, priimančios su vaiko situacijos vertinimu susijusius sprendimus. ^s-5f13f44b089b5b62bd955119
+5. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius, atlikdamas vaiko situacijos vertinimą, gali daryti garso ir vaizdo įrašus Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos direktoriaus nustatyta tvarka, parengta vadovaujantis [Reglamento (ES) 2016/679 5 straipsnyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_5/oj) įtvirtintais su asmens duomenų tvarkymu susijusiais principais. Siekiant užtikrinti vaiko ir jo šeimos privataus gyvenimo neliečiamumą, [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) numatytą duomenų subjekto teisę susipažinti su garso ir vaizdo įrašuose esančiais asmens duomenimis turi tik vaikai, tėvai ar kiti vaiko atstovai pagal įstatymą, įgalioti valstybės ar savivaldybių institucijų atstovai, dalyvavę atliekant vaiko situacijos vertinimą, taip pat teismas ar kitos valstybės įgaliotos institucijos, priimančios su vaiko situacijos vertinimu susijusius sprendimus. ^s-5f13f44b089b5b62bd955119
 
 
 Straipsnio pakeitimai:
@@ -1472,7 +1472,7 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-2. Prašymas dėl leidimo paimti vaiką iš jo tėvų ar kitų jo atstovų pagal įstatymą nagrinėjamas Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka. ^s-803da41349c3b24e2b36edad
+2. Prašymas dėl leidimo paimti vaiką iš jo tėvų ar kitų jo atstovų pagal įstatymą nagrinėjamas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) XXXIX skyriuje nustatyta tvarka. ^s-803da41349c3b24e2b36edad
 
 
 3. Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba ar jos įgaliotas teritorinis skyrius ne vėliau kaip kitą darbo dieną nuo teismo leidimo paimti vaiką iš tėvų, kitų jo atstovų pagal įstatymą užregistravimo Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyboje ar jos įgaliotame teritoriniame skyriuje dienos raštu teikia nurodymą globos centrui parinkti vaikui laikinąjį globėją (rūpintoją). ^s-9c9d44088195cb258ad3b1ed
@@ -1501,7 +1501,7 @@ Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
 
 
 
-3) teismui priėmus nutartį leisti paimti vaiką iš jo tėvų ar kitų jo atstovų pagal įstatymą šios dalies 1 ir [[#^s-530814b7a0392c10216cb874|2 punktuose]] nustatytais atvejais, atlieka [[#^s-9c9d44088195cb258ad3b1ed|šio straipsnio 3 dalyje]] nurodytus veiksmus. ^s-58c36450539b001bf529dece
+3) teismui priėmus nutartį leisti paimti vaiką iš jo tėvų ar kitų jo atstovų pagal įstatymą šios dalies [[#^s-c204a8ef40d57fa24cdfd0f1|1]] ir [[#^s-530814b7a0392c10216cb874|2]] punktuose nustatytais atvejais, atlieka [[#^s-9c9d44088195cb258ad3b1ed|šio straipsnio 3 dalyje]] nurodytus veiksmus. ^s-58c36450539b001bf529dece
 Straipsnio punkto pakeitimai:
 Nr. XIII-1296, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10620
 
@@ -1620,7 +1620,7 @@ VAIKO TEISIŲ APSAUGĄ UŽTIKRINANČIOS INSTITUCIJOS
 6) savivaldybių institucijos ir įstaigos. ^s-01e55aa9b9f64a22ae0d9c39
 
 
-5. Šio straipsnio 1–[[#^s-7847559b5f96e30689fa8b6a|4 dalyse]] nurodytos institucijos, užtikrindamos vaiko teisių apsaugą, privalo tarpusavyje bendradarbiauti. ^s-a9a3939d27771b056f06c6af
+5. Šio straipsnio [[#^s-c2b6d262410b5c33a7b44c18|1]]–[[#^s-7847559b5f96e30689fa8b6a|4]] dalyse nurodytos institucijos, užtikrindamos vaiko teisių apsaugą, privalo tarpusavyje bendradarbiauti. ^s-a9a3939d27771b056f06c6af
 
 
 6. Nevyriausybinės organizacijos dalyvauja užtikrinant vaiko teises ir teikiant jiems paslaugas. ^s-05bc197429b30fa58e765eb3
@@ -1997,13 +1997,13 @@ priedas
 3. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/29/ES, kuria nustatomi būtiniausi nusikaltimų aukų teisių, paramos joms ir jų apsaugos standartai ir kuria pakeičiamas Tarybos pamatinis sprendimas 2001/220/TVR. ^s-849943b0712a19e73ff52d13
 
 
-4. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/800 dėl procesinių garantijų vaikams, kurie baudžiamajame procese yra įtariamieji ar kaltinamieji. ^s-1b2ed1b21d412b4417b30749
+4. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos [direktyva (ES) 2016/800](https://eur-lex.europa.eu/eli/dir/2016/800/oj) dėl procesinių garantijų vaikams, kurie baudžiamajame procese yra įtariamieji ar kaltinamieji. ^s-1b2ed1b21d412b4417b30749
 Papildyta punktu:
 Nr. XIV-2359, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25608
 
 
 
-5. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/541 dėl kovos su terorizmu, pakeičianti Tarybos pamatinį sprendimą 2002/475/TVR ir iš dalies keičianti Tarybos sprendimą 2005/671/TVR. ^s-51806eea526a2cd9afe280e6
+5. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos [direktyva (ES) 2017/541](https://eur-lex.europa.eu/eli/dir/2017/541/oj) dėl kovos su terorizmu, pakeičianti Tarybos pamatinį sprendimą 2002/475/TVR ir iš dalies keičianti Tarybos sprendimą 2005/671/TVR. ^s-51806eea526a2cd9afe280e6
 Punkto numeracijos pakeitimas:
 Nr. XIV-2359, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25608
 
@@ -2044,7 +2044,7 @@ Nr. X-672, 2006-06-08, Žin., 2006, Nr. 72-2688 (2006-06-28), i. k. [[latest/TAR
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1965, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16900
-Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 43, [[#^s-9fd80ea932e545ed2f9125a9|47 straipsnių]] pakeitimo ir Įstatymo papildymo 57-1 straipsniu ir priedu įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s-1e92097f64da30711702b931|1]], [[#^s-7a0c21063ad0111ef2aaf245|43]], [[#^s-9fd80ea932e545ed2f9125a9|47]] straipsnių pakeitimo ir Įstatymo papildymo 57-1 straipsniu ir priedu įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2054,7 +2054,7 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-204, 2017-02-14, paskelbta TAR 2017-02-20, i. k. 2017-02780
-Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 6, 10, 49, 56, 57 straipsnių pakeitimo ir Įstatymo papildymo 2-1 straipsniu įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s-76d1b19096ecca3c4b776d2d|2]], [[#^s-09fe025e4bcef2a0bbaf063c|6]], [[#^s-d7e10ad8aa8ccba8a64f584c|10]], [[#^s-43df8398815e369ac5f3d1c4|49]], 56, 57 straipsnių pakeitimo ir Įstatymo papildymo 2-1 straipsniu įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2069,12 +2069,12 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 pakei
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2035, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06546
-Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 3, 4, 9, 12, 14, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 42, 43, 49, [[#^s-83d61127d79a6fd18cd262b2|50 straipsnių]] pakeitimo, Įstatymo papildymo 36-1, 36-2, 36-3, 36-4, 36-5 straipsniais ir 38, 39, 40 straipsnių pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s-76d1b19096ecca3c4b776d2d|2]], [[#^s-4314046218a84cd5fff8a0fe|3]], [[#^s-9a80a23386855cf383fdf42d|4]], [[#^s-7161fb6e4053a5b31114d4a3|9]], [[#^s-c444c542a31cac45db759487|12]], [[#^s-2ebbfa7adbcc40622f1179f2|14]], [[#^s-98011e1dc32fb1aabc78c016|29]], [[#^s-938be93aca6b5152a7066603|30]], [[#^s-dc22434bc35a57dfdd4e2012|31]], [[#^s-82af40364413d8164dd23628|32]], [[#^s-ecff36126ea8f9022bb81982|33]], [[#^s-f3806993621c36d1bd66d286|34]], [[#^s-9155056119dc4bbf1650216b|35]], [[#^s-0c757b572e203a79910c51cd|36]], [[#^s-8ee205332dd22bbafd4f0700|37]], [[#^s-3fd7e688d7e467e1f72495fb|41]], [[#^s-c4918884c9f7f1c44766fcc5|42]], [[#^s-7a0c21063ad0111ef2aaf245|43]], [[#^s-43df8398815e369ac5f3d1c4|49]], [[#^s-83d61127d79a6fd18cd262b2|50]] straipsnių pakeitimo, Įstatymo papildymo 36-1, 36-2, 36-3, 36-4, 36-5 straipsniais ir 38, 39, 40 straipsnių pripažinimo netekusiais galios įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2414, 2019-08-20, paskelbta TAR 2019-08-30, i. k. 2019-13751
-Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 3, 4, 9, 12, 14, 29, 30, 31, 32, 33, 34, 35, 36, 37, 41, 42, 43, 49, [[#^s-83d61127d79a6fd18cd262b2|50 straipsnių]] pakeitimo, Įstatymo papildymo 36-1, 36-2, 36-3, 36-4, 36-5 straipsniais ir 38, 39, 40 straipsnių pripažinimo netekusiais galios [[latest/41c6f620629811e99676cb74c51fe1f4|įstatymo Nr. XIII-2035]] 14 ir [[#^s-5aaf2c5bf49b36cdae9e31d6|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s-76d1b19096ecca3c4b776d2d|2]], [[#^s-4314046218a84cd5fff8a0fe|3]], [[#^s-9a80a23386855cf383fdf42d|4]], [[#^s-7161fb6e4053a5b31114d4a3|9]], [[#^s-c444c542a31cac45db759487|12]], [[#^s-2ebbfa7adbcc40622f1179f2|14]], [[#^s-98011e1dc32fb1aabc78c016|29]], [[#^s-938be93aca6b5152a7066603|30]], [[#^s-dc22434bc35a57dfdd4e2012|31]], [[#^s-82af40364413d8164dd23628|32]], [[#^s-ecff36126ea8f9022bb81982|33]], [[#^s-f3806993621c36d1bd66d286|34]], [[#^s-9155056119dc4bbf1650216b|35]], [[#^s-0c757b572e203a79910c51cd|36]], [[#^s-8ee205332dd22bbafd4f0700|37]], [[#^s-3fd7e688d7e467e1f72495fb|41]], [[#^s-c4918884c9f7f1c44766fcc5|42]], [[#^s-7a0c21063ad0111ef2aaf245|43]], [[#^s-43df8398815e369ac5f3d1c4|49]], [[#^s-83d61127d79a6fd18cd262b2|50]] straipsnių pakeitimo, Įstatymo papildymo 36-1, 36-2, 36-3, 36-4, 36-5 straipsniais ir 38, 39, 40 straipsnių pripažinimo netekusiais galios [[latest/41c6f620629811e99676cb74c51fe1f4|įstatymo Nr. XIII-2035]] [[#^s-2ebbfa7adbcc40622f1179f2|14]] ir [[#^s-5aaf2c5bf49b36cdae9e31d6|23]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2084,12 +2084,12 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-171, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00911
-Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 2, [[#^s-5aaf2c5bf49b36cdae9e31d6|23 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s-1e92097f64da30711702b931|1]], [[#^s-76d1b19096ecca3c4b776d2d|2]], [[#^s-5aaf2c5bf49b36cdae9e31d6|23]] straipsnių ir priedo pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-890, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00072
-Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 30, 36, 36-3, 36-4, 36-5 ir [[#^s-c4918884c9f7f1c44766fcc5|42 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s-938be93aca6b5152a7066603|30]], [[#^s-0c757b572e203a79910c51cd|36]], 36-3, 36-4, 36-5 ir [[#^s-c4918884c9f7f1c44766fcc5|42]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2099,37 +2099,37 @@ Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1376, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15468
-Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 1, 4 ir [[#^s-98011e1dc32fb1aabc78c016|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s-1e92097f64da30711702b931|1]], [[#^s-9a80a23386855cf383fdf42d|4]] ir [[#^s-98011e1dc32fb1aabc78c016|29]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1512, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23363
-Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 14, [[#^s-a501fb47c2d502362bbfae50|48 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s-2ebbfa7adbcc40622f1179f2|14]], [[#^s-a501fb47c2d502362bbfae50|48]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1839, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05732
-Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 36-4, 41, 42, 43, 50 ir [[#^s-8b034c9ab6b885cfec7698ee|52 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 36-4, [[#^s-3fd7e688d7e467e1f72495fb|41]], [[#^s-c4918884c9f7f1c44766fcc5|42]], [[#^s-7a0c21063ad0111ef2aaf245|43]], [[#^s-83d61127d79a6fd18cd262b2|50]] ir [[#^s-8b034c9ab6b885cfec7698ee|52]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2116, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14032
-Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2 ir [[#^s-83d61127d79a6fd18cd262b2|50 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s-76d1b19096ecca3c4b776d2d|2]] ir [[#^s-83d61127d79a6fd18cd262b2|50]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2359, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25608
-Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 41, [[#^s-8b034c9ab6b885cfec7698ee|52 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s-76d1b19096ecca3c4b776d2d|2]], [[#^s-3fd7e688d7e467e1f72495fb|41]], [[#^s-8b034c9ab6b885cfec7698ee|52]] straipsnių ir priedo pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2915, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13511
-Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 2, 19, 30, 36, 36-3, 36-4, 45 ir [[#^s-83d61127d79a6fd18cd262b2|50 straipsnių]] pakeitimo ir Įstatymo papildymo 36-6 straipsniu įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s-76d1b19096ecca3c4b776d2d|2]], [[#^s-c6a4b5cd316421586fcd6230|19]], [[#^s-938be93aca6b5152a7066603|30]], [[#^s-0c757b572e203a79910c51cd|36]], 36-3, 36-4, [[#^s-85b908ce97cd45e619c39f27|45]] ir [[#^s-83d61127d79a6fd18cd262b2|50]] straipsnių pakeitimo ir Įstatymo papildymo 36-6 straipsniu įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-253, 2025-06-05, paskelbta TAR 2025-06-16, i. k. 2025-10900
-Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 30 ir 36-4 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo Nr. I-1234 [[#^s-938be93aca6b5152a7066603|30]] ir 36-4 straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas

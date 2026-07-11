@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 411 straipsnio pakeitimas ^s-9e84e3d1085056eeb36b7284
 
 
-Papildyti 411 straipsnio 5 dalį 4 punktu:
+Papildyti [[latest/TAR.E22116F1B0E0#^s-533597467b26bb74ba852787|411 straipsnio 5 dalį 4 punktu]]:
 
 
 „4) teikiama žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.“

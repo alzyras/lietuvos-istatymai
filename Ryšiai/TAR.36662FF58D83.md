@@ -9,11 +9,11 @@ pavadinimas: "Lietuvos Respublikos diplomatinės tarnybos įstatymo 2, 18, 23, 2
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.981F27E01089|Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymas]] - 6 citatos - Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo
-- [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatymas]] - 10 citatos - Lietuvos Respublikos diplomatinės tarnybos įstatyme
-- [[latest/TAR.46EF9E1D52E9#^s-b0779b3ee52f323d7df459e3|Lietuvos Respublikos diplomatinės tarnybos įstatymas]] - 4 citatos - Lietuvos Respublikos diplomatinės tarnybos įstatymo 23 straipsnio 3 dalyje
+- [[latest/TAR.981F27E01089|Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymas]] - 4 citatos - Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme
+- [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatymas]] - 6 citatos - Lietuvos Respublikos diplomatinės tarnybos įstatyme
+- [[latest/TAR.46EF9E1D52E9#^s-b0779b3ee52f323d7df459e3|Lietuvos Respublikos diplomatinės tarnybos įstatymas]] - 2 citatos - Lietuvos Respublikos diplomatinės tarnybos įstatymo 23 straipsnio 3 dalyje
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 3 citatos - 13
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.46EF9E1D52E9#^s-2fad47e3df75efd8489d5228|Lietuvos Respublikos diplomatinės tarnybos įstatymas]] - Įstatymas Nr. XI-870
-- [[latest/TAR.46EF9E1D52E9#^s-c18d212137e3230f24ce61dc|Lietuvos Respublikos diplomatinės tarnybos įstatymas]] - Įstatymas Nr. XI-870
+_Nėra._

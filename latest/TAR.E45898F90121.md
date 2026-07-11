@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-cb1fd15ed8470cb59ce0a9bb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. balandžio 24 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutartį dėl savitarpio teisinės pagalbos baudžiamosiose bylose“, ratifikuoja Vašingtone 1998 m. sausio 16 d. pasirašytą Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutartį dėl savitarpio teisinės pagalbos baudžiamosiose bylose.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. balandžio 24 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutartį dėl savitarpio teisinės pagalbos baudžiamosiose bylose“](https://e-tar.lt/portal/lt/legalAct/TAR.7E04D3D2B25E), ratifikuoja Vašingtone 1998 m. sausio 16 d. pasirašytą Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutartį dėl savitarpio teisinės pagalbos baudžiamosiose bylose.
 
 
 

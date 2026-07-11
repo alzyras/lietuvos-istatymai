@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-e5a6c406e8df95d8ce06f187
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. rugsėjo 3 d. dekretą Nr. 56, ratifikuoja 1994 m. birželio 21 d. Liuksemburge priimtą Konvenciją, apibrėžiančią Europos mokyklų statutą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. rugsėjo 3 d. dekretą Nr. 56](https://e-tar.lt/portal/lt/legalAct/TAR.AE8E6171F68E), ratifikuoja 1994 m. birželio 21 d. Liuksemburge priimtą Konvenciją, apibrėžiančią Europos mokyklų statutą.
 
 
 

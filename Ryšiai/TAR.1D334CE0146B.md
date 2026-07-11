@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C40F7F89A7C3#^s-0aa728236d5a2981d1a7f098|Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas]] - 3 citatos - 1081010ISTA00X-1699
-- [[latest/TAR.C40F7F89A7C3#^s-696286a5c5b921b679712673|Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas]] - 3 citatos - 1081010ISTA00X-1699
+- [[latest/TAR.C40F7F89A7C3#^s-696286a5c5b921b679712673|Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas]] - 2 citatos - 1081010ISTA00X-1699

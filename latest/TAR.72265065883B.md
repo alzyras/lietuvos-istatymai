@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sprendimo ratifikavimas ^s-f001f88e8580a6ffe681c422
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. rugsėjo 29 d. dekretą Nr. 1002, ratifikuoja Lietuvos ir ELPA jungtinio komiteto sprendimą Nr. 3/1999 „II priedo pakeitimas“, pasirašytą 1999 m. rugsėjo 22 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2000 m. rugsėjo 29 d. dekretą Nr. 1002](https://e-tar.lt/portal/lt/legalAct/TAR.2C1DD501F829), ratifikuoja Lietuvos ir ELPA jungtinio komiteto sprendimą Nr. 3/1999 „II priedo pakeitimas“, pasirašytą 1999 m. rugsėjo 22 d. Ženevoje.
 
 
 

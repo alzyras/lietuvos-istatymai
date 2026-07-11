@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-57c6414e71a0f6fc45960a0d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2006 m. lapkričio 27 d. dekretą Nr. 1K-807, ratifikuoja 1977 m. birželio 21 d. Ženevoje priimtą Slaugos personalo įdarbinimo ir darbo bei gyvenimo sąlygų konvenciją.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2006 m. lapkričio 27 d. dekretą Nr. 1K-807](https://e-tar.lt/portal/lt/legalAct/TAR.A138FA8BB947), ratifikuoja 1977 m. birželio 21 d. Ženevoje priimtą Slaugos personalo įdarbinimo ir darbo bei gyvenimo sąlygų konvenciją.
 
 
 

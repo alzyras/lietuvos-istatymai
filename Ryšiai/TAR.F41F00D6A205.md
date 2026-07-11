@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos ūkininko ūkio įstatymo 1, 2, 9 straipsnių
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Lietuvos Respublikos statybos įstatymu
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - Lietuvos Respublikos statybos įstatymu
 
 ## Šį įstatymą cituoja
 

@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-81d9ef6e142efcf48db6c89e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. spalio 22 d. dekretą Nr. 1525, ratifikuoja 1976 m. gruodžio 10 d. Konvenciją dėl aplinkos keitimo būdų naudojimo karo ar bet kokiems priešiškiems tikslams uždraudimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. spalio 22 d. dekretą Nr. 1525](https://e-tar.lt/portal/lt/legalAct/TAR.C6BE20F00B0E), ratifikuoja 1976 m. gruodžio 10 d. Konvenciją dėl aplinkos keitimo būdų naudojimo karo ar bet kokiems priešiškiems tikslams uždraudimo.
 
 
 

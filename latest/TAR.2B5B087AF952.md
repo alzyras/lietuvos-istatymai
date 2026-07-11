@@ -68,7 +68,7 @@ Pakeisti [[#^s-9d1a3a12b720776bf22095bc|3 straipsnio 2 dalį]] ir ją išdėstyt
 1) asmenims iki 18 metų, išskyrus tuos, kurie yra (buvo) draudžiami valstybiniu socialiniu draudimu, – Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigų gydytojų konsultacinės komisijos; jų nuostatus tvirtina Sveikatos apsaugos ministerija. Šie asmenys pripažįstami vaikais invalidais; ^s-b13dfaba36be9d5ebad6dd1c
 
 
-2) asmenims iki 18 metų, kurie yra (buvo) draudžiami valstybiniu socialiniu draudimu, ir asmenims nuo 18 metų – valstybinės medicininės-socialinės ekspertizės komisijos; jų nuostatus tvirtina Vyriausybė (toliau šios dalies 1 ir 2 punktuose nurodytos komisijos vadinamos invalidumą nustatančiomis komisijomis). Šie asmenys pripažįstami invalidais.“ ^s-85403e265ba7c83c4e830b6b
+2) asmenims iki 18 metų, kurie yra (buvo) draudžiami valstybiniu socialiniu draudimu, ir asmenims nuo 18 metų – valstybinės medicininės-socialinės ekspertizės komisijos; jų nuostatus tvirtina Vyriausybė (toliau šios dalies [[#^s-b13dfaba36be9d5ebad6dd1c|1]] ir 2 punktuose nurodytos komisijos vadinamos invalidumą nustatančiomis komisijomis). Šie asmenys pripažįstami invalidais.“ ^s-85403e265ba7c83c4e830b6b
 
 
 2. Pakeisti 4 straipsnio 3 dalies 1 punktą ir jį išdėstyti taip: ^s-9d1a3a12b720776bf22095bc
@@ -100,7 +100,7 @@ Nustatant invalidumą, gali dalyvauti su patariamojo balso teise asmenį gydanti
 ### 5 straipsnis. 22 straipsnio pakeitimas ^s-769d18f730a51e08fb0171e7
 
 
-Pakeisti 22 straipsnio 1 dalį, [[#^s-2bd2f2c92c043669216d246d|2 dalį]] pripažinti netekusia galios, buvusias 3 ir 4 dalis laikyti atitinkamai 2 ir [[#^s-fd75f9ace876ce453d8b99a5|3 dalimis]], [[#^s-2bd2f2c92c043669216d246d|2 dalyje]] vietoj žodžių „ar šalpos (socialinės) pensijos“ įrašyti žodžius „šalpos pensijos už invalidų slaugą namuose, socialinės pensijos ar šalpos pensijos“ ir visą straipsnį išdėstyti taip:
+Pakeisti 22 straipsnio 1 dalį, [[#^s-2bd2f2c92c043669216d246d|2 dalį]] pripažinti netekusia galios, buvusias 3 ir 4 dalis laikyti atitinkamai 2 ir 3 dalimis, [[#^s-2bd2f2c92c043669216d246d|2 dalyje]] vietoj žodžių „ar šalpos (socialinės) pensijos“ įrašyti žodžius „šalpos pensijos už invalidų slaugą namuose, socialinės pensijos ar šalpos pensijos“ ir visą straipsnį išdėstyti taip:
 
 
 „22 straipsnis. Pensijos, pašalpos, kitos išmokos invalidams, jų tėvams, globėjams, rūpintojams

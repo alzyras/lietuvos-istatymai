@@ -13,4 +13,4 @@ pavadinimas: "Dėl Lietuvos Respublikos vietos savivaldos įstatymo 7 straipsnio
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - DĖL LIETUVOS RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 7 STRAIPSNIO PAKEITIMO
+- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - DĖL LIETUVOS RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 7 STRAIPSNIO PAKEITIMO

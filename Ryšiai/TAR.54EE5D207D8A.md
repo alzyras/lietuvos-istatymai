@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D66F6A760DE7#^s-13510d89e2085b03de2c0e56|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - 2 citatos - KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 3, 5, 10, 22, 23 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.D66F6A760DE7#^s-13510d89e2085b03de2c0e56|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 3, 5, 10, 22, 23 IR 33 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

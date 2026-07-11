@@ -64,20 +64,20 @@ Vilnius
 
 10. Pripažinti netekusiais galios:
 Lietuvos Respublikos 1990 m. kovo 22 d. Vyriausybės įstatymą Nr. I-61 (Žin., 1990, Nr. 11-330);
-Lietuvos Respublikos 1990 m. balandžio 3 d. įstatymą Nr. I-108 „Dėl pakeitimų Lietuvos Respublikos Vyriausybės įstatyme“ (Žin., 1990, Nr. 11-347);
+Lietuvos Respublikos 1990 m. balandžio 3 d. įstatymą Nr. I-108 [„Dėl pakeitimų Lietuvos Respublikos Vyriausybės įstatyme“](https://e-tar.lt/portal/lt/legalAct/TAR.855F9F017E2F) (Žin., 1990, Nr. 11-347);
 Lietuvos Respublikos [[latest/TAR.C81A90CA4CCA|1990 m. balandžio 5 d. įstatymo Nr. I-112]] [[latest/TAR.C81A90CA4CCA|„Dėl Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų valstybės organų įsteigimo“]] (Žin., 1990, Nr. 11-352) – 1, 3 ir 5 straipsnius;
-Lietuvos Respublikos 1990 m. balandžio 11 d. įstatymą Nr. I-139 „Dėl Lietuvos Respublikos Vyriausybės įstatymo papildymo“ (Žin., 1990, Nr. 12-368);
+Lietuvos Respublikos [1990 m. balandžio 11 d. įstatymą Nr. I-139](https://e-tar.lt/portal/lt/legalAct/TAR.053DB58BC452) [„Dėl Lietuvos Respublikos Vyriausybės įstatymo papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.053DB58BC452) (Žin., 1990, Nr. 12-368);
 Lietuvos Respublikos 1990 m. liepos 13 d. aplinkos apsaugos departamento įstatymą Nr. I-373 (Žin., 1990, Nr. 21-526) – nuo 1994 m. rugsėjo 1 dienos;
-Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. liepos 31 d. nutarimą Nr. I-374 „Dėl Lietuvos Respublikos aplinkos apsaugos departamento įstatymo įsigaliojimo tvarkos“ (Žin., 1990, Nr. 21-527);
-Lietuvos Respublikos 1990 m. liepos 17 d. įstatymą Nr. I-382 [[latest/TAR.D988346CCFA8|„Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo“]] (Žin., 1990, Nr. 21-529);
-Lietuvos Respublikos 1990 m. spalio 23 d. įstatymą Nr. I-693 „Dėl Lietuvos Respublikos Vyriausybės įstatymo kai kurių straipsnių pakeitimo“ (Žin., 1990, Nr. 31-753);
-Lietuvos Respublikos 1991 m. sausio 9 d. įstatymą Nr. I-922 „Dėl Lietuvos Respublikos Vyriausybės įstatymo 9 straipsnio pakeitimo“ (Žin., 1991, Nr. 2-45);
-Lietuvos Respublikos 1991 m. sausio 22 d. įstatymą Nr. I-979 „Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo ir papildymo“ (Žin., 1991, Nr. 4-109);
-Lietuvos Respublikos 1991 m. liepos 30 d. įstatymą Nr. I-1628 „Dėl Lietuvos Respublikos Vyriausybės įstatymo 4 straipsnio pakeitimo“ (Žin., 1991, Nr. 23-598);
-Lietuvos Respublikos 1991 m. rugsėjo 12 d. įstatymą Nr. I-1795 „Dėl Lietuvos Respublikos Vyriausybės įstatymo 19 straipsnio papildymo“ (Žin., 1991, Nr. 27-737);
+Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. liepos 31 d. nutarimą Nr. I-374 [„Dėl Lietuvos Respublikos aplinkos apsaugos departamento įstatymo įsigaliojimo tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.15FA7B2313E9) (Žin., 1990, Nr. 21-527);
+Lietuvos Respublikos [1990 m. liepos 17 d. įstatymą Nr. I-382](https://e-tar.lt/portal/lt/legalAct/TAR.4B0C7626998D) [[latest/TAR.D988346CCFA8|„Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo“]] (Žin., 1990, Nr. 21-529);
+Lietuvos Respublikos [1990 m. spalio 23 d. įstatymą Nr. I-693](https://e-tar.lt/portal/lt/legalAct/TAR.DAA693DF9CF5) [„Dėl Lietuvos Respublikos Vyriausybės įstatymo kai kurių straipsnių pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DAA693DF9CF5) (Žin., 1990, Nr. 31-753);
+Lietuvos Respublikos [1991 m. sausio 9 d. įstatymą Nr. I-922](https://e-tar.lt/portal/lt/legalAct/TAR.8A8DCD185F1C) [„Dėl Lietuvos Respublikos Vyriausybės įstatymo 9 straipsnio pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.8A8DCD185F1C) (Žin., 1991, Nr. 2-45);
+Lietuvos Respublikos [1991 m. sausio 22 d. įstatymą Nr. I-979](https://e-tar.lt/portal/lt/legalAct/TAR.CFE7E6C3081A) [„Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo ir papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.CFE7E6C3081A) (Žin., 1991, Nr. 4-109);
+Lietuvos Respublikos [1991 m. liepos 30 d. įstatymą Nr. I-1628](https://e-tar.lt/portal/lt/legalAct/TAR.CE992473F8C4) [„Dėl Lietuvos Respublikos Vyriausybės įstatymo 4 straipsnio pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.CE992473F8C4) (Žin., 1991, Nr. 23-598);
+Lietuvos Respublikos [1991 m. rugsėjo 12 d. įstatymą Nr. I-1795](https://e-tar.lt/portal/lt/legalAct/TAR.4C390F9AD637) [„Dėl Lietuvos Respublikos Vyriausybės įstatymo 19 straipsnio papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.4C390F9AD637) (Žin., 1991, Nr. 27-737);
 Lietuvos Respublikos [[latest/TAR.D988346CCFA8|1991 m. spalio 3 d. įstatymo Nr. I-1858]] [[latest/TAR.D988346CCFA8|„Dėl Lietuvos Respublikos Vyriausybės įstatymo pakeitimo“]] (Žin., 1991, Nr. 29-792) – 4 straipsnį;
 Lietuvos Respublikos [[latest/TAR.C110A67A5D12|1992 m. liepos 30 d. įstatymo Nr. I-2814]] [[latest/TAR.C110A67A5D12|„Dėl Lietuvos Respublikos prekybos ir materialinių išteklių ministerijos pertvarkymo į Lietuvos Respublikos pramonės ir prekybos ministeriją“]] (Žin., 1992, Nr. 24-700) – 2 straipsnį;
-Lietuvos Respublikos 1992 m. lapkričio 19 d. įstatymą Nr. I-3070 „Dėl Lietuvos Respublikos Vyriausybės įstatymo 19 straipsnio pakeitimo“ (Žin., 1992, Nr. 34-1034).
+Lietuvos Respublikos [1992 m. lapkričio 19 d. įstatymą Nr. I-3070](https://e-tar.lt/portal/lt/legalAct/TAR.A6F2A03EC0F0) [„Dėl Lietuvos Respublikos Vyriausybės įstatymo 19 straipsnio pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.A6F2A03EC0F0) (Žin., 1992, Nr. 34-1034).
 
 
 

@@ -71,7 +71,7 @@ Iš 8 straipsnio pirmojo sakinio išbraukti žodžius „per 2 metus“, šį sa
 „8 straipsnis.
 
 
-Kompensacijos išmokamos iš Valstybės biudžeto ir kitų lėšų šiame įstatyme nurodytiems asmenims, jeigu jie kreipėsi dėl kompensacijų iki 1997 m. rugpjūčio 1 d. Kompensacijų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė. Įstatymas įsigalioja nuo 1995 m. sausio 1 dienos.“
+Kompensacijos išmokamos iš Valstybės biudžeto ir kitų lėšų šiame įstatyme nurodytiems asmenims, jeigu jie kreipėsi [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) iki 1997 m. rugpjūčio 1 d. Kompensacijų mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė. Įstatymas įsigalioja nuo 1995 m. sausio 1 dienos.“
 
 
 

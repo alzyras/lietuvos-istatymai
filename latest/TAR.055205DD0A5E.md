@@ -93,7 +93,7 @@ Vilnius
 ### 2 straipsnis. Įstatymo taikymas ^s-9ca3eba5d8184d2e23630009
 
 
-1. Šio įstatymo [[#^s-8af895f79a636f78a377bed9|1 straipsnio]] 1, 3 ir 5 dalys taikomos apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių mokestinių laikotarpių pajamas. ^s-8018f20eccbf3a82a38fce1d
+1. Šio įstatymo [[#^s-8af895f79a636f78a377bed9|1 straipsnio]] [[#^s-9f075e24423346e3957d58e1|1]], [[#^s-b67d2dade832caf1b16cf340|3]] ir [[#^s-028ba8ddc6c5a63c850ed5d6|5]] dalys taikomos apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių mokestinių laikotarpių pajamas. ^s-8018f20eccbf3a82a38fce1d
 
 
 2. Šio įstatymo 2, 4, 6, 7 ir 8 dalys taikomos apskaičiuojant ir deklaruojant 2013 metų ir vėlesnių mokestinių laikotarpių pajamas. ^s-dd3ae30d074d49c005739b6f

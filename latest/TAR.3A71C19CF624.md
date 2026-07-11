@@ -237,7 +237,7 @@ Pakeisti [[#^s-8f36f17dacb696ff9d2594da|11 straipsnį]] ir jį išdėstyti taip:
 4) neįgaliųjų asmenų ir šeimų, kuriose yra neįgalūs asmenys. Į šį sąrašą įrašomi asmenys, kuriems Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka yra nustatytas sunkus ar vidutinis neįgalumo lygis arba kurie yra pripažinti nedarbingais (netekusiais 75–100 procentų darbingumo) ar iš dalies darbingais (netekusiais 60–70 procentų darbingumo), arba kurie yra sukakę senatvės pensijos amžių ir jiems nustatyta specialiųjų poreikių tenkinimo reikmė, taip pat šeimos, kuriose yra asmuo, kuriam Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka yra nustatytas sunkus ar vidutinis neįgalumo lygis arba kuris yra pripažintas nedarbingu (netekusiu 75–100 procentų darbingumo) ar iš dalies darbingu (netekusiu 60–70 procentų darbingumo), arba kuris yra sukakęs senatvės pensijos amžių ir jam nustatyta specialiųjų poreikių tenkinimo reikmė, asmenys, sergantys lėtinių ligų, įrašytų į Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą, sunkiomis formomis, ir šeimos, kuriose yra tomis ligomis sergančių asmenų; ^s-5395d72cbeb8bae8c8588b46
 
 
-5) bendrasis. Į šį sąrašą įrašomos visos šeimos ir asmenys, nepatenkantys į 1, 2, 3 ir [[#^s-5395d72cbeb8bae8c8588b46|4 punktuose]] nurodytus sąrašus; ^s-d2d77d94e7d80063f24f871d
+5) bendrasis. Į šį sąrašą įrašomos visos šeimos ir asmenys, nepatenkantys į [[#^s-ec507cd0fe0f3ea7dedaec8c|1]], [[#^s-096e60aa345846ba28fe5577|2]], [[#^s-f90abb8a0ed0428814e7d7af|3]] ir [[#^s-5395d72cbeb8bae8c8588b46|4]] punktuose nurodytus sąrašus; ^s-d2d77d94e7d80063f24f871d
 
 
 6) socialinio būsto nuomininkų, turinčių teisę į būsto sąlygų pagerinimą. ^s-d88ec418ed36abc3bac116e9
@@ -325,7 +325,7 @@ Papildyti Įstatymą 111 straipsniu:
 „3. Už privatizuojamas gyvenamąsias ir kitas patalpas, taip pat pagalbinio ūkio paskirties pastatus pagal šiame straipsnyje nurodytas sąlygas atsiskaitoma pinigais, sumokant nustatytą sumą iš karto arba privatizuojančiojo pageidavimu išsimokėtinai per 10 metų. Parduodant išsimokėtinai, skaičiuojamos Vyriausybės arba jos įgaliotos institucijos nustatyto dydžio palūkanos. Privatizavimo tvarką, taip pat lėšų, gautų už privatizuojamas gyvenamąsias patalpas, kitas patalpas ir pagalbinio ūkio paskirties pastatus, apskaitos ir naudojimo tvarką nustato Vyriausybė.“
 
 
-5. Papildyti [[#^s-930f14120e1cc27ec790b046|12 straipsnį 5 dalimi]]: ^s-930f14120e1cc27ec790b046
+5. Papildyti 12 straipsnį 5 dalimi: ^s-930f14120e1cc27ec790b046
 
 
 „5. Ketinant privatizuoti pagalbinio ūkio paskirties pastatus, jų dalis, kurių privatizavimas numatytas šio straipsnio 2 dalies 4 punkte, šių pastatų valdytojas privalo raštu pranešti gyvenamojo namo savininkams ir pasiūlyti jiems juos įsigyti pagal šį Įstatymą. Gyvenamojo namo savininkams po pasiūlymo įsigyti pagalbinio ūkio paskirties pastatus pateikimo per 6 mėnesius raštu nepareiškus pageidavimo įsigyti pagalbinio ūkio paskirties pastatus pagal šį Įstatymą, jie gali būti privatizuojami pagal kitus įstatymus arba teisės aktų nustatyta tvarka nugriaunami.“
@@ -341,7 +341,7 @@ Papildyti Įstatymą 111 straipsniu:
 „2) apmokant daugiabučio namo modernizavimo, vykdomo pagal 1 punkte nurodytus investicijų projektus, išlaidas, tenkančias nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims: jiems tenkantį investicijos pradinį įnašą ar jo dalį, kredito draudimo įmoką ar jos dalį, kreditą ar jo dalį ir palūkanas ar jų dalį.“
 
 
-2. [[#^s-f9c437d696ebfc4ed6a0e2f4|13 straipsnio 2 dalyje]] po žodžio „asignavimus“ įrašyti žodį „Specialiajai“, žodį „įgyvendinti“ išbraukti ir šią dalį išdėstyti taip: ^s-f9c437d696ebfc4ed6a0e2f4
+2. 13 straipsnio 2 dalyje po žodžio „asignavimus“ įrašyti žodį „Specialiajai“, žodį „įgyvendinti“ išbraukti ir šią dalį išdėstyti taip: ^s-f9c437d696ebfc4ed6a0e2f4
 
 
 „2. [[#^s-a3bd31530028c580aa831f22|Šio straipsnio 1 dalyje]] nurodyto valstybės paramos teikimo ir investicijų projektų energinio efektyvumo nustatymo taisykles nustato Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos, atsižvelgdamos į valstybės biudžeto asignavimus Specialiajai daugiabučių namų modernizavimo programai.“

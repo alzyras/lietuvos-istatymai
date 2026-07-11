@@ -192,7 +192,7 @@ Jaunimo politiką įgyvendina šios valstybės ir savivaldybės institucijos ir 
 1. Valstybinė jaunimo reikalų taryba prie Lietuvos Respublikos Vyriausybės yra Vyriausybei atskaitinga institucija, atliekanti įstatymų ir kitų teisės aktų jai pavestas funkcijas. ^s-9f9384dd0ff80b9000f4f5e2
 
 
-2. Valstybinė jaunimo reikalų taryba savo veikoje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, įstatymais, Valstybinės jaunimo reikalų tarybos nuostatais ir kitais teisės aktais. ^s-2c3c6502571053f53967fe00
+2. Valstybinė jaunimo reikalų taryba savo veikoje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, įstatymais, Valstybinės jaunimo reikalų tarybos nuostatais ir kitais teisės aktais. ^s-2c3c6502571053f53967fe00
 
 
 3. Valstybinė jaunimo reikalų taryba sudaroma pariteto principu iš valstybės institucijų atstovų ir jaunimo organizacijų atstovų. Jaunimo organizacijų atstovus į Valstybinę jaunimo reikalų tarybą deleguoja Nacionalinė jaunimo organizacijų taryba. ^s-f7f33c728750315b3facdd0f
@@ -332,10 +332,10 @@ Pasiūlyti Vyriausybei priimti teisės aktus, būtinus šiam Įstatymui įgyvend
 Įsigaliojus šiam Įstatymui, pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos Seimo 1996 m. birželio 27 d. nutarimą Nr. I-1413 „Dėl Valstybinės jaunimo politikos koncepcijos“ (Žin., 1996, Nr. 65-1537); ^s-7f57084faec0d47ef4fd74b7
+1) Lietuvos Respublikos Seimo [1996 m. birželio 27 d. nutarimą Nr. I-1413](https://e-tar.lt/portal/lt/legalAct/TAR.2DEF7F026CCB) „Dėl Valstybinės jaunimo politikos koncepcijos“ (Žin., 1996, Nr. 65-1537); ^s-7f57084faec0d47ef4fd74b7
 
 
-2) Lietuvos Respublikos Seimo 1997 m. birželio 26 d. nutarimą Nr. VIII-338 „Dėl Seimo nutarimo „Dėl Valstybinės jaunimo politikos koncepcijos“ priedėlio pakeitimo“ (Žin., 1997, Nr. 65-1559). ^s-521529d001e07fc391c53764
+2) Lietuvos Respublikos Seimo [1997 m. birželio 26 d. nutarimą Nr. VIII-338](https://e-tar.lt/portal/lt/legalAct/TAR.92E4F8454C22) „Dėl Seimo nutarimo „Dėl Valstybinės jaunimo politikos koncepcijos“ priedėlio pakeitimo“ (Žin., 1997, Nr. 65-1559). ^s-521529d001e07fc391c53764
 
 
 

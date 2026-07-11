@@ -44,16 +44,16 @@ Pripažinti netekusiais galios:
 1) Lietuvos Respublikos cukraus įstatymą (Žin., 1995, Nr. 41-990); ^s-7eb86ce5ae3309e375aa14af
 
 
-2) Lietuvos Respublikos cukraus įstatymo pakeitimo įstatymą (Žin., 1999, Nr. 65-2089); ^s-3a46d4bf1402296ce6a31014
+2) [Lietuvos Respublikos cukraus įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.C4BA002142E2) pakeitimo įstatymą (Žin., 1999, Nr. 65-2089); ^s-3a46d4bf1402296ce6a31014
 
 
-3) Lietuvos Respublikos cukraus įstatymo 2, 4, 5, 6, 7 straipsnių pakeitimo įstatymą (Žin., 2000, Nr. 45-1293); ^s-51e1e34cae42b0e5d4fac634
+3) [Lietuvos Respublikos cukraus įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.C4BA002142E2) [2](https://e-tar.lt/portal/lt/legalAct/TAR.C4BA002142E2), [4](https://e-tar.lt/portal/lt/legalAct/TAR.C4BA002142E2), [5](https://e-tar.lt/portal/lt/legalAct/TAR.C4BA002142E2), [6](https://e-tar.lt/portal/lt/legalAct/TAR.C4BA002142E2), [7](https://e-tar.lt/portal/lt/legalAct/TAR.C4BA002142E2) straipsnių pakeitimo įstatymą (Žin., 2000, Nr. 45-1293); ^s-51e1e34cae42b0e5d4fac634
 
 
-4) Lietuvos Respublikos cukraus įstatymo 5 straipsnio pakeitimo ir papildymo įstatymą (Žin., 2003, Nr. 40-1811); ^s-5089980bc887439ef3d3f5f4
+4) [Lietuvos Respublikos cukraus įstatymo 5 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.C4BA002142E2) pakeitimo ir papildymo įstatymą (Žin., 2003, Nr. 40-1811); ^s-5089980bc887439ef3d3f5f4
 
 
-5) Lietuvos Respublikos cukraus įstatymo pakeitimo įstatymą (Žin., 2004, Nr. 73-2542). ^s-ad8a2755ce22dd294d988029
+5) [Lietuvos Respublikos cukraus įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.C4BA002142E2) pakeitimo įstatymą (Žin., 2004, Nr. 73-2542). ^s-ad8a2755ce22dd294d988029
 
 
 

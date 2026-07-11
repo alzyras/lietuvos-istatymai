@@ -69,7 +69,7 @@ Papildyti 2 straipsnį 6 dalimi:
 ### 4 straipsnis. 12 straipsnio papildymas 3 ir 4 dalimis ^s-689c5141a243a9f9fec9a59a
 
 
-Papildyti 12 straipsnį 3 ir [[#^s-2b73b05c5d9e3567c3c17f58|4 dalimis]]:
+Papildyti 12 straipsnį 3 ir 4 dalimis:
 
 
 „3. Įpareigoti savivaldybes pateikti Finansų ministerijai parengtus ir patvirtintus savivaldybių biudžetų išlaidų sumažinimo (2000 metams patvirtintas asignavimų sumas lyginant su 1999 metų patikslintu planu) priemonių planus, užtikrinančius patvirtintų programų finansavimą ir kreditorinio įsiskolinimo padengimą, ir kas mėnesį teikti jai šių planų vykdymo ataskaitas.

@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.8A16A03D98D4|Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymas]] - 2 citatos - Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo
+- [[latest/TAR.8A16A03D98D4|Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymas]] - Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo
 - [[latest/TAR.8A16A03D98D4#^s-3e64a51fa498303311bd2897|Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymas]] - Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymas įsigalioja nuo jo paskelbimo dienos, išskyrus 21 straipsnio 7 dalį
 
 ## Šį įstatymą cituoja

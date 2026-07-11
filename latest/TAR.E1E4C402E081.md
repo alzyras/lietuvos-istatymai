@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-7e0e29e3b31bf7a4d1c786d1
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 24 d. dekretą Nr. 723, ratifikuoja 2001 m. spalio 5 d. Londone priimtą 2001 m. Tarptautinę konvenciją dėl laivuose naudojamų kenksmingų apsaugos nuo užsiteršimo sistemų kontrolės.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. rugpjūčio 24 d. dekretą Nr. 723](https://e-tar.lt/portal/lt/legalAct/TAR.7BCEBA52EBE6), ratifikuoja 2001 m. spalio 5 d. Londone priimtą 2001 m. Tarptautinę konvenciją dėl laivuose naudojamų kenksmingų apsaugos nuo užsiteršimo sistemų kontrolės.
 
 
 

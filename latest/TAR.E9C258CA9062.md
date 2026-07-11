@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-81dfcf72e437539f43781593
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. balandžio 25 d. dekretą Nr. 55, ratifikuoja su pareiškimais Konvenciją dėl supaprastintos ekstradicijos tvarkos tarp Europos Sąjungos valstybių narių, parengtą vadovaujantis Europos Sąjungos sutarties K.[[#^s-3f25079d336c825f2fe38492|3 straipsniu]], priimtą 1995 m. kovo 10 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. balandžio 25 d. dekretą Nr. 55](https://e-tar.lt/portal/lt/legalAct/TAR.280E94DD9704), ratifikuoja su pareiškimais Konvenciją dėl supaprastintos ekstradicijos tvarkos tarp Europos Sąjungos valstybių narių, parengtą vadovaujantis Europos Sąjungos sutarties K.[[#^s-3f25079d336c825f2fe38492|3 straipsniu]], priimtą 1995 m. kovo 10 d. Briuselyje.
 
 
 

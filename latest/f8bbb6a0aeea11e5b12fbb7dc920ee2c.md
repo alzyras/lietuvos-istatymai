@@ -38,19 +38,19 @@ Vilnius
 ### 1 straipsnis. 6 straipsnio pakeitimas ^s-a5d38e17ef46533c2493e994
 
 
-Pakeisti 6 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.A7A6A8CC58D7#^s-cee82890356e169a501b8040|6 straipsnį]] ir jį išdėstyti taip:
 
 
-„6 straipsnis. Loterijų ir lošimų mokesčio apskaičiavimo ir mokėjimo tvarka
+„[[latest/TAR.A7A6A8CC58D7#^s-cee82890356e169a501b8040|6 straipsnis]]. Loterijų ir lošimų mokesčio apskaičiavimo ir mokėjimo tvarka
 
 
-1. Juridiniai asmenys, organizuojantys loterijas ar lošimus, taikydami šio įstatymo 5 straipsnyje nustatytą loterijų ir lošimų mokesčio tarifą ar fiksuotą loterijų ir lošimų mokesčio dydį, loterijų ir lošimų mokestį už mokestinį laikotarpį apskaičiuoja ir sumoka į biudžetą pasibaigus kiekvienam mokestiniam laikotarpiui iki kito mokestinio laikotarpio pirmo mėnesio 15 dienos. ^s-7181b863a26794328a546dfb
+1. Juridiniai asmenys, organizuojantys loterijas ar lošimus, taikydami šio įstatymo [[latest/TAR.A7A6A8CC58D7#^s-79e163a43c7f8d66b0342db1|5 straipsnyje]] nustatytą loterijų ir lošimų mokesčio tarifą ar fiksuotą loterijų ir lošimų mokesčio dydį, loterijų ir lošimų mokestį už mokestinį laikotarpį apskaičiuoja ir sumoka į biudžetą pasibaigus kiekvienam mokestiniam laikotarpiui iki kito mokestinio laikotarpio pirmo mėnesio 15 dienos. ^s-7181b863a26794328a546dfb
 
 
-2. Juridiniai asmenys, organizuojantys šio įstatymo 4 straipsnio 3 punkte nurodytus lošimus, tą mėnesį, kai išduodamas lošimų veiklos leidimas arba papildomas turimas lošimų veiklos leidimas, kuriame padidinamas lošimo įrenginių skaičius, arba pakeičiamas turimas lošimų veiklos leidimas, kuriame sumažinamas lošimo įrenginių skaičius, loterijų ir lošimų mokestį už kiekvieną tą mėnesį išduotame, papildytame ar pakeistame lošimų veiklos leidime nurodytą lošimo įrenginį apskaičiuoja už visą mėnesį, taikant šio įstatymo 5 straipsnio 3 dalyje nustatytą fiksuotą loterijų ir lošimų mokesčio dydį, ir sumoka šio įstatymo 6 straipsnio 1 dalyje nustatyta tvarka. ^s-88f14c2bb8c6105cd71213d8
+2. Juridiniai asmenys, organizuojantys šio įstatymo [[latest/TAR.A7A6A8CC58D7|4 straipsnio 3 punkte]] nurodytus lošimus, tą mėnesį, kai išduodamas lošimų veiklos leidimas arba papildomas turimas lošimų veiklos leidimas, kuriame padidinamas lošimo įrenginių skaičius, arba pakeičiamas turimas lošimų veiklos leidimas, kuriame sumažinamas lošimo įrenginių skaičius, loterijų ir lošimų mokestį už kiekvieną tą mėnesį išduotame, papildytame ar pakeistame lošimų veiklos leidime nurodytą lošimo įrenginį apskaičiuoja už visą mėnesį, taikant šio įstatymo [[latest/TAR.A7A6A8CC58D7#^s-791ae63fb3a71d4d643b6f8d|5 straipsnio 3 dalyje]] nustatytą fiksuotą loterijų ir lošimų mokesčio dydį, ir sumoka šio įstatymo [[latest/TAR.A7A6A8CC58D7#^s-4175096d112b1ae91f31a6d4|6 straipsnio 1 dalyje]] nustatyta tvarka. ^s-88f14c2bb8c6105cd71213d8
 
 
-3. Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos suteikia galimybę Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos gauti lošimų veiklos leidimuose nurodytus duomenis, būtinus šio įstatymo 5 straipsnio 3 dalyje nustatyto fiksuoto dydžio loterijų ir lošimų mokesčiui apskaičiuoti ir kontrolei vykdyti.“ ^s-32240b5b1412a264c10e1e93
+3. Lošimų priežiūros tarnyba prie Lietuvos Respublikos finansų ministerijos suteikia galimybę Valstybinei mokesčių inspekcijai prie Lietuvos Respublikos finansų ministerijos gauti lošimų veiklos leidimuose nurodytus duomenis, būtinus šio įstatymo [[latest/TAR.A7A6A8CC58D7#^s-791ae63fb3a71d4d643b6f8d|5 straipsnio 3 dalyje]] nustatyto fiksuoto dydžio loterijų ir lošimų mokesčiui apskaičiuoti ir kontrolei vykdyti.“ ^s-32240b5b1412a264c10e1e93
 
 
 

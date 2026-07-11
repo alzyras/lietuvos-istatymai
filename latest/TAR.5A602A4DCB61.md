@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 19 straipsnio papildymas ^s-c61b097282120ea02286addc
 
 
-Papildyti 19 straipsnį 2 ir [[#^s-4c64f27498a82a61932a37ed|3 dalimis]] ir jį išdėstyti taip:
+Papildyti 19 straipsnį 2 ir 3 dalimis ir jį išdėstyti taip:
 
 
 „19 straipsnis. Transporto priemonių registravimas

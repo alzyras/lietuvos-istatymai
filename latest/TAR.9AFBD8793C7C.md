@@ -89,7 +89,7 @@ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ
 ### 3 straipsnis. 3 straipsnio 1 ir 2 dalių pakeitimas ^s-73cf7de08b05c2ea137d6b38
 
 
-1. [[#^s-10c7186c108696bacaea0ed1|3 straipsnio 1 dalies]] 1, 4 ir [[#^s-a79a53275fafee38b890cec1|5 punktuose]] po žodžių „valstybės įmonėse“ įrašyti žodžius „muitinės sistemoje (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą)“ ir šią dalį išdėstyti taip: ^s-10c7186c108696bacaea0ed1
+1. 3 straipsnio 1 dalies [[#^s-7bb1983e0386d6626d98edf6|1]], [[#^s-d29870e6591858353b8c4a12|4]] ir [[#^s-a79a53275fafee38b890cec1|5]] punktuose po žodžių „valstybės įmonėse“ įrašyti žodžius „muitinės sistemoje (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą)“ ir šią dalį išdėstyti taip: ^s-10c7186c108696bacaea0ed1
 
 
 „1. Pareigūnų ir karių valstybinė pensija skiriama ir išmokama išėjusiems iš tarnybos šio įstatymo [[#^s-ff3ec30cfc121d54133103c8|1 straipsnyje]] nurodytiems pareigūnams ir kariams:
@@ -110,7 +110,7 @@ PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ
 5) sukakusiems įstatymų arba statutų nustatytą išleidimo į atsargą amžių (jei toks amžius nenustatytas, – senatvės pensijos amžių) ir ištarnavusiems vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemose, Specialiųjų tyrimų tarnyboje, Kalėjimų departamente ar jam pavaldžiose įstaigose ir valstybės įmonėse, muitinės sistemoje (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą) 5 ir daugiau metų.“ ^s-a79a53275fafee38b890cec1
 
 
-2. [[#^s-912ede5bcd32c1505f539a8c|3 straipsnio 2 dalyje]] po žodžių „valstybės įmonių“ įrašyti žodžius „muitinės sistemos (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą)“ ir šią dalį išdėstyti taip: ^s-912ede5bcd32c1505f539a8c
+2. 3 straipsnio 2 dalyje po žodžių „valstybės įmonių“ įrašyti žodžius „muitinės sistemos (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą)“ ir šią dalį išdėstyti taip: ^s-912ede5bcd32c1505f539a8c
 
 
 „2. Pareigūnams ir kariams, dėl pačių kaltės pašalintiems iš vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros sistemų, Specialiųjų tyrimų tarnybos, Kalėjimų departamento ar jam pavaldžių įstaigų ir valstybės įmonių, muitinės sistemos (dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą), valstybinė pensija skiriama tik tada, kai jie yra ištarnavę 20 ar daugiau metų ir sukakę įstatymų nustatytą išleidimo į atsargą amžių (jei toks amžius nenustatytas, – senatvės pensijos amžių).“
@@ -170,10 +170,10 @@ Vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros, muitinės 
 1) faktinis tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir batalionuose) laikas – iki 1990 m. kovo 11 d.; ^s-2839a6045654c421caf7076c
 
 
-2) darbo policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms; ^s-b01e0cf12847e53960a9e4bf
+2) darbo policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms; ^s-b01e0cf12847e53960a9e4bf
 
 
-3) darbo laikas, išdirbtas profesionaliosios priešgaisrinės apsaugos padalinių vadovais, gaisrininkais, gaisrininkais vairuotojais Darbo sutarties įstatymo pagrindais, jeigu vėliau šie darbuotojai buvo paskirti sukarintos priešgaisrinės apsaugos pareigūnais; ^s-713dc445648d60a6bdf8fe25
+3) darbo laikas, išdirbtas profesionaliosios priešgaisrinės apsaugos padalinių vadovais, gaisrininkais, gaisrininkais vairuotojais [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pagrindais, jeigu vėliau šie darbuotojai buvo paskirti sukarintos priešgaisrinės apsaugos pareigūnais; ^s-713dc445648d60a6bdf8fe25
 
 
 4) viena tarnybos ar darbo diena Lietuvos Respublikos krašto apsaugos departamento struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. iki 1991 m. rugpjūčio 23 d., Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. ir Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje nuo 1990 m. birželio 8 d. iki 1991 m. rugpjūčio 23 d. – skaičiuojama kaip trys tarnybos dienos; ^s-5cccade6d805f02941fb3a3d
@@ -188,7 +188,7 @@ Vidaus reikalų, valstybės saugumo, krašto apsaugos, prokuratūros, muitinės 
 3. Papildyti 16 straipsnį 12 dalimi: ^s-c5580c4801d52954771fc2dc
 
 
-„12. Muitinės pareigūnams, muitinės sistemoje dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą, pareigūnų ir karių valstybinės pensijos skiriamos tik įgijusiems teisę į šią pensiją po Vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo pavadinimo, 1, 3, 6, 12 ir 16 straipsnių pakeitimo ir papildymo įstatymo Nr. X-1027 įsigaliojimo.“
+„12. Muitinės pareigūnams, muitinės sistemoje dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems operatyvinę veiklą ir (arba) ikiteisminį tyrimą, pareigūnų ir karių valstybinės pensijos skiriamos tik įgijusiems teisę į šią pensiją po Vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo pavadinimo, [[#^s-ff3ec30cfc121d54133103c8|1]], [[#^s-73cf7de08b05c2ea137d6b38|3]], [[#^s-eb636b9674cf85dfeadd8959|6]], 12 ir 16 straipsnių pakeitimo ir papildymo įstatymo Nr. X-1027 įsigaliojimo.“
 
 
 

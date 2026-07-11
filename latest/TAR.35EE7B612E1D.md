@@ -237,7 +237,7 @@ Lietuvos banko darbuotojams gali būti suteikiamos finansinės paslaugos (išsky
 ### 7 straipsnis. 22 straipsnio pakeitimas ir papildymas ^s-56cd0eac0fe92f763aa07248
 
 
-Pakeisti 22 straipsnio 1, 5 ir [[#^s-3618b7b51f738197c9c05a3f|6 punktus]] ir visą straipsnį išdėstyti taip:
+Pakeisti 22 straipsnio 1, 5 ir 6 punktus ir visą straipsnį išdėstyti taip:
 
 
 „22 straipsnis. Lietuvos banko išlaidos
@@ -372,7 +372,7 @@ Lietuvos bankas ne rečiau kaip kartą per ketvirtį teikia Lietuvos Respublikos
 Lietuvos bankas teikia teisėsaugos institucijoms informaciją apie bankuose ir kitose kredito įstaigose nustatytus įstatymų, kitų teisės aktų, tarnybinių instrukcijų ir finansinių operacijų pažeidimus. Informacijos pateikimo tvarką nustato Lietuvos bankas ir Lietuvos Respublikos Vyriausybė.
 
 
-Lietuvos bankas, prieš skirdamas laikinąjį komercinio banko administratorių, prieš kreipdamasis į teismą dėl banko bankroto bylos iškėlimo Lietuvos Respublikos komercinių [[latest/TAR.B6B636C7384A#^s-1da1553dfe8dcc899bb15a35|bankų įstatymo 34 straipsnyje]] nurodytu pagrindu arba prieš taikydamas Komercinių [[latest/TAR.B6B636C7384A#^s-e81698b022e7b5576eb0cb28|bankų įstatymo 37 straipsnio]] pirmosios dalies 3 (moratoriumas), 7 ir 9 punktuose nurodytas poveikio priemones, informuoja Ministrą Pirmininką ir finansų ministrą, tačiau savarankiškai priima sprendimus bei prisiima atsakomybę šiais klausimais.“
+Lietuvos bankas, prieš skirdamas laikinąjį komercinio banko administratorių, prieš kreipdamasis į teismą dėl banko bankroto bylos iškėlimo [Lietuvos Respublikos komercinių bankų įstatymo 34 straipsnyje nurodytu pagrindu arba prieš taikydamas Komercinių bankų įstatymo 37 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085) pirmosios dalies 3 (moratoriumas), [7](https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085) ir [9](https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085) punktuose nurodytas poveikio priemones, informuoja Ministrą Pirmininką ir finansų ministrą, tačiau savarankiškai priima sprendimus bei prisiima atsakomybę šiais klausimais.“
 
 
 

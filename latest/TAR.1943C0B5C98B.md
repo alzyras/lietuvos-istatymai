@@ -69,7 +69,7 @@ Papildyti 7 straipsnį 2 dalimi:
 2. Pakeisti 10 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip: ^s-9f979ba30c3f44480fc3274b
 
 
-„6) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems arba parduodami žemės ūkio veiklai naudojami žemės sklypai Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio 13 dalyje nurodytiems asmenims, taip pat parduodami įstatymų nustatyta tvarka valstiečių ūkiui steigti suteikti žemės sklypai, priskirti valstybės išperkamai žemei, šiuos sklypus naudojantiems piliečiams;“.
+„6) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems arba parduodami žemės ūkio veiklai naudojami žemės sklypai [[latest/TAR.8A16A03D98D4|Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio 13 dalyje]] nurodytiems asmenims, taip pat parduodami įstatymų nustatyta tvarka valstiečių ūkiui steigti suteikti žemės sklypai, priskirti valstybės išperkamai žemei, šiuos sklypus naudojantiems piliečiams;“.
 
 
 3. 10 straipsnio 1 dalies 11 punkte vietoj žodžio „arba“ įrašyti žodžius „taip pat“, vietoj žodžių „iš buvusių žemės ūkio įmonių“ įrašyti žodžius „parduodami šiems pastatams eksploatuoti reikalingi žemės sklypai“ ir jį išdėstyti taip: ^s-b6a77759fbf0ea6beafb8519
@@ -126,7 +126,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 3. Žemės reformos žemėtvarkos projektų rengimui ir žemės privatizavimo darbams kaimo vietovėse ir miestuose metodiškai vadovauja ir juos kontroliuoja Vyriausybės įgaliota institucija. Žemės reformos žemėtvarkos projektų sudarymo techninių instrukcijų, normatyvų ir standartų parengimą, projektų autorių aprūpinimą žemėtvarkos, dirvožemių bei kitų tyrinėjimų kartografine ir geodezine medžiaga, taip pat žemės reformos informacijos kaupimą organizuoja Vyriausybės įgaliota institucija. ^s-c384462f6f419612b9a98b0a
 
 
-4. Žemės reformos žemėtvarkos projektus rengia konkursą laimėję juridiniai asmenys, Vyriausybės nustatyta tvarka gavę leidimus dirbti žemėtvarkos darbus. Konkursus dėl žemės reformos žemėtvarkos projektų rengimo ir įgyvendinimo organizuoja ir vykdo apskričių viršininkai [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo]] nustatyta tvarka.“ ^s-3a9f26fb87fd7f0745801cfb
+4. Žemės reformos žemėtvarkos projektus rengia konkursą laimėję juridiniai asmenys, Vyriausybės nustatyta tvarka gavę leidimus dirbti žemėtvarkos darbus. Konkursus [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) žemėtvarkos projektų rengimo ir įgyvendinimo organizuoja ir vykdo apskričių viršininkai [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo]] nustatyta tvarka.“ ^s-3a9f26fb87fd7f0745801cfb
 
 
 

@@ -618,7 +618,7 @@ PAPILDOMI REIKALAVIMAI ATSKIRŲ KLASIŲ LAIVAMS
 1. Specialios paskirties laivas – laivas, kurio korpusas, įrengimai ir mechanizmai yra suprojektuoti konkrečiai specifinei veiklai ir kuris yra skirtas plaukioti nustatytame plaukiojimo rajone, o laivo įguloje yra specialiai parengtas personalas, atliekantis laivo paskirtį atitinkančias funkcijas. ^s-525613d35ab9b2edebaaa752
 
 
-2. Greitaeigis laivas – laivas, galintis plaukti maksimaliu greičiu, kuris yra lygus ar didesnis už nurodytą 1974 metų Tarptautinės žmonių gyvybės apsaugos jūroje konvencijos X dalies 1 taisyklės [[#^s-6b088e734f9c6e277a53cdcb|2 dalyje]]. ^s-6b088e734f9c6e277a53cdcb
+2. Greitaeigis laivas – laivas, galintis plaukti maksimaliu greičiu, kuris yra lygus ar didesnis už nurodytą 1974 metų Tarptautinės žmonių gyvybės apsaugos jūroje konvencijos X dalies 1 taisyklės 2 dalyje. ^s-6b088e734f9c6e277a53cdcb
 
 
 3. Specialios paskirties ir greitaeigiams laivams papildomus tinkamumo plaukioti, eigos pamainų ir budėjimo, navigacinės įrangos ir įgulų parengimo reikalavimus tvirtina susisiekimo ministras, atsižvelgdamas į atitinkamus Tarptautinės jūrų organizacijos reikalavimus. ^s-aa6ffaf8c64cc48b57fb7fbb

@@ -192,7 +192,7 @@ Lietuvos Respublikoje realizuoti draudžiama:
 21) alkoholinius gėrimus uniformuotiems pareigūnams. ^s-d2bdf5e34979ce578d9fd30c
 
 
-Šio straipsnio pirmosios dalies 1–11, 13 ir [[#^s-a51a7cdcef7e377b2ea365af|14 punktų]] reikalavimai taikomi ir įmonėse laikomiems (saugomiems) bei įmonių gabenamiems alkoholio produktams.
+Šio straipsnio pirmosios dalies [[#^s-b88e2dbc5c58a3b056a8902d|1]]–[[#^s-8119f854d85033b78915089d|11]], [[#^s-dd221c7ab20532d4a9bf7b45|13]] ir [[#^s-a51a7cdcef7e377b2ea365af|14]] punktų reikalavimai taikomi ir įmonėse laikomiems (saugomiems) bei įmonių gabenamiems alkoholio produktams.
 
 
 Įmonėms draudžiama laikyti ir gabenti nedenatūruotą, denatūruotą ir techninį etilo alkoholį, išskyrus įmones, turinčias leidimus juos gaminti, importuoti, bei įmones, įstaigas ir organizacijas, naudojančias juos gamybos, techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo darbuose.
@@ -450,7 +450,7 @@ Kasmet Lietuvos Respublikos Vyriausybė iš Valstybės kontrolės, Sveikatos aps
 Pakeisti 43 straipsnio 3 dalį ir išdėstyti taip:
 
 
-„Lietuvos Respublikoje pagaminti falsifikuoti, į ją įvežti kaip kontrabanda bei joje realizuojami, laikomi (saugomi), gabenami alkoholio produktai, kurie neatitinka kokybės reikalavimų, reglamentuotų Lietuvos Respublikos norminiuose dokumentuose, taip pat kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais, Administracinių teisės pažeidimų kodekso nustatyta tvarka gali būti VTAKT ar kitų tam įgaliotų institucijų, kontroliuojančių įmonių komercinę ir ūkinę ar sveikatingumo veiklą, konfiskuojami.“
+„Lietuvos Respublikoje pagaminti falsifikuoti, į ją įvežti kaip kontrabanda bei joje realizuojami, laikomi (saugomi), gabenami alkoholio produktai, kurie neatitinka kokybės reikalavimų, reglamentuotų Lietuvos Respublikos norminiuose dokumentuose, taip pat kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais, [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka gali būti VTAKT ar kitų tam įgaliotų institucijų, kontroliuojančių įmonių komercinę ir ūkinę ar sveikatingumo veiklą, konfiskuojami.“
 
 
 

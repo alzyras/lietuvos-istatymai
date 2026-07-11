@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Lietuvos banko 1995 metų finansinės ataskaitos aprobavimas ^s-875e701903c0e9ab14595b45
 
 
-Šiuo įstatymu pritariama Lietuvos banko 1995 metų finansinei ataskaitai atsižvelgiant į Lietuvos Respublikos Seimo 1996 m. sausio 18 d. nutarimu Nr.I-1178 (Žin., 1996, Nr.11-286) paskirtos audito firmos „Arthur Andersen“ išvadą dėl Lietuvos banko 1995 metų finansinės ataskaitos ir sąskaitų patikrinimo rezultatų.
+Šiuo įstatymu pritariama Lietuvos banko 1995 metų finansinei ataskaitai atsižvelgiant į Lietuvos Respublikos Seimo [1996 m. sausio 18 d. nutarimu Nr.I-1178](https://e-tar.lt/portal/lt/legalAct/TAR.8974EAD67F29) (Žin., 1996, Nr.11-286) paskirtos audito firmos „Arthur Andersen“ išvadą dėl Lietuvos banko 1995 metų finansinės ataskaitos ir sąskaitų patikrinimo rezultatų.
 
 
 

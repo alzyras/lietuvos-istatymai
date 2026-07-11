@@ -39,19 +39,19 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimas ^s-200cc04b6ad92dc525e5107c
 
 
-1. Pakeisti [[#^s-200cc04b6ad92dc525e5107c|1 straipsnyje]] išdėstyto Vietos savivaldos įstatymo 8 straipsnio 27 punktą ir jį išdėstyti taip: ^s-ca93d7acb01a1fb456f2015b
+1. Pakeisti [[#^s-200cc04b6ad92dc525e5107c|1 straipsnyje]] išdėstyto [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatymo 8 straipsnio 27 punktą]] ir jį išdėstyti taip: ^s-ca93d7acb01a1fb456f2015b
 
 
 „27) traktorių, savaeigių ir žemės ūkio mašinų bei jų priekabų registravimas ir techninė priežiūra;“.
 
 
-2. Papildyti [[#^s-200cc04b6ad92dc525e5107c|1 straipsnyje]] išdėstyto Vietos savivaldos įstatymo 8 straipsnio 28 punktą ir jį išdėstyti taip: ^s-1096df21d69eb2a6e5889857
+2. Papildyti [[#^s-200cc04b6ad92dc525e5107c|1 straipsnyje]] išdėstyto [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatymo 8 straipsnio 28 punktą]] ir jį išdėstyti taip: ^s-1096df21d69eb2a6e5889857
 
 
 „28) žemės ūkio klausimų koordinavimas, kaimo plėtros bei paramos žemės ūkiui ir kaimo plėtrai organizavimas ir įgyvendinimas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka;“.
 
 
-3. Papildyti [[#^s-200cc04b6ad92dc525e5107c|1 straipsnyje]] išdėstyto Vietos savivaldos įstatymo 8 straipsnio 29 punktą ir jį išdėstyti taip: ^s-fe8036a8b9bd3d2196913a64
+3. Papildyti [[#^s-200cc04b6ad92dc525e5107c|1 straipsnyje]] išdėstyto [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatymo 8 straipsnio 29 punktą]] ir jį išdėstyti taip: ^s-fe8036a8b9bd3d2196913a64
 
 
 „29) Žemės ūkio bendrovių įstatymo vykdymo priežiūra ir kitos įstatymų perduotos funkcijos.“

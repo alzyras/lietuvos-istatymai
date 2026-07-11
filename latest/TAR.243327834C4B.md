@@ -55,7 +55,7 @@ Vilnius
 ### 2 straipsnis. 7 straipsnio 2 dalies pakeitimas ir 3 dalies pripažinimas netekusia galios ^s-7113f3af0b5d6d1d416227c2
 
 
-1. 7 straipsnio 2 dalyje po žodžių [[latest/TAR.C595FF45F869|„Mokslo ir studijų įstatymas“]] įrašyti žodžius „Aukštojo mokslo įstatymas“ ir šią dalį išdėstyti taip: ^s-f188d2a1acb3c5f012edeffc
+1. 7 straipsnio 2 dalyje po žodžių [[latest/TAR.C595FF45F869|„Mokslo ir studijų įstatymas“]] įrašyti žodžius [„Aukštojo mokslo įstatymas“](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F) ir šią dalį išdėstyti taip: ^s-f188d2a1acb3c5f012edeffc
 
 
 „2. Aukštųjų mokyklų steigimo, reorganizavimo, likvidavimo, studijų tvarką bei veiklos, valdymo ir finansavimo pagrindus reglamentuoja Mokslo ir studijų įstatymas, Aukštojo mokslo įstatymas, kiti įstatymai bei aukštųjų mokyklų statutai.“

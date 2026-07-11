@@ -86,7 +86,7 @@ BENDROSIOS NUOSTATOS
 ### 3 straipsnis. Lietuvos banko nepriklausomumas ^s-76cf5568b4c2ab785136d700
 
 
-1. Lietuvos bankas vadovaujasi Lietuvos Respublikos Konstitucija, įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-b15d28c2b5d94e8b140f8af8
+1. Lietuvos bankas vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-b15d28c2b5d94e8b140f8af8
 
 
 2. Įgyvendindamas šio įstatymo nustatytus tikslus ir atlikdamas savo funkcijas bei vykdydamas tam reikalingą veiklą, Lietuvos bankas yra nepriklausomas nuo Lietuvos Respublikos valstybės institucijų ir įstaigų bei kitų įmonių, įstaigų ir organizacijų. ^s-59833e766b130adea072e7f6
@@ -252,7 +252,7 @@ LIETUVOS BANKO VEIKLOS ORGANIZAVIMAS IR VALDYMAS
 13) taiko įstatymų nustatytas poveikio priemones kredito įstaigoms; ^s-fc6396d36186846537e0e19b
 
 
-14) sprendžia klausimus dėl bankroto bylų iškėlimo kredito įstaigoms; ^s-3109e554469c150d8683c0c0
+14) sprendžia klausimus [dėl bankroto bylų iškėlimo](https://e-tar.lt/portal/lt/legalAct/TAR.7334E572AC5E) kredito įstaigoms; ^s-3109e554469c150d8683c0c0
 
 
 15) tvirtina Lietuvos banko biudžetą, metinę kapitalinių investicijų sąmatą; ^s-62988c1f0e3ea83dde4bd97a
@@ -474,7 +474,7 @@ Lietuvos banko finansinių metų pelnas (nuostolis) skaičiuojamas iš pajamų a
 4. Pelno dalis, likusi po pelno skyrimo įstatiniam ir (arba) atsargos kapitalams, įmokama į valstybės biudžetą. ^s-4a73ae35b414d893b3ec0719
 
 
-5. Jeigu atsargos kapitalas tampa mažesnis negu 10 procentų Lietuvos banko įsipareigojimų litais, atsargos kapitalas sudaromas šio straipsnio 1 ir [[#^s-4264a936f12b4b0ef3c51c24|3 dalyse]] nustatyta tvarka. ^s-44009b2010a1ccd29d20f83f
+5. Jeigu atsargos kapitalas tampa mažesnis negu 10 procentų Lietuvos banko įsipareigojimų litais, atsargos kapitalas sudaromas šio straipsnio [[#^s-1b48b623e596453c8108e1da|1]] ir [[#^s-4264a936f12b4b0ef3c51c24|3]] dalyse nustatyta tvarka. ^s-44009b2010a1ccd29d20f83f
 
 
 

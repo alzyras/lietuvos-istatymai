@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos rinkliavų įstatymo 6 straipsnio pakeitimo �
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 2 citatos - Valstybinių socialinio draudimo pensijų įstatyme
+- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - Valstybinių socialinio draudimo pensijų įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.41CD8BF53D8D#^s-c03f0ebaf0733b6df00dedc1|Lietuvos Respublikos rinkliavų įstatymas]] - Įstatymas Nr. IX-1077
+_Nėra._

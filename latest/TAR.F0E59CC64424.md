@@ -106,7 +106,7 @@ Vilnius
 ### 4 straipsnis. 10 straipsnio pavadinimo, 1 ir 3 dalių pakeitimas ^s-8c5f47664f454daf1c613786
 
 
-[[#^s-ddc23263659100a87590864a|10 straipsnio]] pavadinime, 1 ir [[#^s-631d027a6eb511edaee851c6|3 dalyse]] vietoj žodžių „pasienio policija“, „pasienio policijos“ įrašyti atitinkamai žodžius „Valstybės sienos apsaugos tarnyba“, „Valstybės sienos apsaugos tarnybos“ ir šį straipsnį išdėstyti taip:
+[[#^s-ddc23263659100a87590864a|10 straipsnio]] pavadinime, [[#^s-3a37c1d4973cc9aa56972080|1]] ir [[#^s-0da86863f2bcbfe8dd7b4a63|3]] dalyse vietoj žodžių „pasienio policija“, „pasienio policijos“ įrašyti atitinkamai žodžius „Valstybės sienos apsaugos tarnyba“, „Valstybės sienos apsaugos tarnybos“ ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-ddc23263659100a87590864a|10 straipsnis]]. Valstybės sienos apsaugos tarnybos laivo ginkluotės naudojimas
@@ -118,7 +118,7 @@ Vilnius
 2. Ginkluotės panaudojimu prieš stabdomą laivą nesiekiama jo paskandinti. ^s-258b599caf2eaba269cb671d
 
 
-3. Valstybės sienos apsaugos tarnybos laivo vadas prieš persekiojamą laivą arba kitą plaukiojimo priemonę gali panaudoti laivo ginkluotę, nesilaikydamas šio straipsnio 1 ir [[#^s-258b599caf2eaba269cb671d|2 dalyse]] nustatytų reikalavimų, jei jų laikytis neįmanoma arba jei persekiojamas laivas arba kita plaukiojimo priemonė, priešindamiesi sulaikymui, pirmieji panaudoja turimą ginkluotę arba užpuola Valstybės sienos apsaugos tarnybos laivą.“ ^s-631d027a6eb511edaee851c6
+3. Valstybės sienos apsaugos tarnybos laivo vadas prieš persekiojamą laivą arba kitą plaukiojimo priemonę gali panaudoti laivo ginkluotę, nesilaikydamas šio straipsnio [[#^s-6ac245cd9f77807008702f0c|1]] ir [[#^s-258b599caf2eaba269cb671d|2]] dalyse nustatytų reikalavimų, jei jų laikytis neįmanoma arba jei persekiojamas laivas arba kita plaukiojimo priemonė, priešindamiesi sulaikymui, pirmieji panaudoja turimą ginkluotę arba užpuola Valstybės sienos apsaugos tarnybos laivą.“ ^s-631d027a6eb511edaee851c6
 
 
 
@@ -158,7 +158,7 @@ Vilnius
 ### 8 straipsnis. 19 straipsnio 1, 2 ir 3 dalių pakeitimas ^s-d990607aeab5dcea142eed7b
 
 
-19 straipsnio 1, 2 ir [[#^s-566be689b15bf7c34844ee03|3 dalyse]] vietoj žodžių „pasienio policijos“ įrašyti žodžius „Valstybės sienos apsaugos tarnybos“ ir šį straipsnį išdėstyti taip:
+19 straipsnio 1, 2 ir 3 dalyse vietoj žodžių „pasienio policijos“ įrašyti žodžius „Valstybės sienos apsaugos tarnybos“ ir šį straipsnį išdėstyti taip:
 
 
 „19 straipsnis. Pasienio teisinis režimas valstybės sienos apsaugos zonoje
@@ -205,7 +205,7 @@ Užtikrinant pasienio teisinį režimą:
 ### 10 straipsnis. 21 straipsnio 2, 3 ir 4 dalių pakeitimas ^s-ddc23263659100a87590864a
 
 
-21 straipsnio 2 dalyje vietoj žodžių „pasienio policijai“ įrašyti žodžius „Valstybės sienos apsaugos tarnybai“, 3 ir [[#^s-233ed06365827340de98258a|4 dalyse]] vietoj žodžių „pasienio policijos“ įrašyti žodžius „Valstybės sienos apsaugos tarnybos“ ir šį straipsnį išdėstyti taip:
+21 straipsnio 2 dalyje vietoj žodžių „pasienio policijai“ įrašyti žodžius „Valstybės sienos apsaugos tarnybai“, 3 ir 4 dalyse vietoj žodžių „pasienio policijos“ įrašyti žodžius „Valstybės sienos apsaugos tarnybos“ ir šį straipsnį išdėstyti taip:
 
 
 „21 straipsnis. Pasienio juosta ir jos teisinis režimas
@@ -239,7 +239,7 @@ Užtikrinant pasienio teisinį režimą:
 ### 11 straipsnis. 22 straipsnio 1 ir 2 dalių pakeitimas ^s-030d7bceb26beef9fde7736e
 
 
-22 straipsnio 1 ir [[#^s-97a868281dfe1f3a951bab83|2 dalyse]] vietoj žodžių „pasienio policija“ įrašyti žodžius „Valstybės sienos apsaugos tarnyba“ ir šį straipsnį išdėstyti taip:
+22 straipsnio 1 ir 2 dalyse vietoj žodžių „pasienio policija“ įrašyti žodžius „Valstybės sienos apsaugos tarnyba“ ir šį straipsnį išdėstyti taip:
 
 
 „22 straipsnis. Pasienio juostos tvarkymas
@@ -305,7 +305,7 @@ Pasienio kontrolės punktuose pagal savo kompetenciją patikrinimą atlieka Vals
 „26 straipsnis. Valstybės sienos apsaugos teisiniai pagrindai ir subjektai
 
 
-1. Valstybės sienos apsauga yra sudėtinė Lietuvos Respublikos nacionalinio saugumo užtikrinimo sistemos dalis. Ji atliekama vadovaujantis Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais įstatymais, Vyriausybės nutarimais bei kitais teisės aktais. ^s-ddecae7a1c6b3bfedbe2195a
+1. Valstybės sienos apsauga yra sudėtinė Lietuvos Respublikos nacionalinio saugumo užtikrinimo sistemos dalis. Ji atliekama vadovaujantis [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais įstatymais, Vyriausybės nutarimais bei kitais teisės aktais. ^s-ddecae7a1c6b3bfedbe2195a
 
 
 2. Valstybės sienos apsaugą atlieka Valstybės sienos apsaugos tarnyba. ^s-c38589478430158a17c5399f
@@ -321,7 +321,7 @@ Pasienio kontrolės punktuose pagal savo kompetenciją patikrinimą atlieka Vals
 ### 16 straipsnis. 28 straipsnio 1 ir 2 dalių pakeitimas ^s-3afeeedfef248f08866d7621
 
 
-28 straipsnio 1 ir [[#^s-71c44019cdf8df537e1ce5c7|2 dalyse]] vietoj žodžių „pasienio policijos“ įrašyti žodžius „Valstybės sienos apsaugos tarnybos“ ir šį straipsnį išdėstyti taip:
+28 straipsnio 1 ir 2 dalyse vietoj žodžių „pasienio policijos“ įrašyti žodžius „Valstybės sienos apsaugos tarnybos“ ir šį straipsnį išdėstyti taip:
 
 
 „28 straipsnis.     Valstybės sienos apsauga ginkluoto užpuolimo, karo ar nepaprastosios padėties atveju

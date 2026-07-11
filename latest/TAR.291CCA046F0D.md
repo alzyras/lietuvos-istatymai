@@ -287,13 +287,13 @@ Draudimo sutarties rūšys yra šios:
 ### 9 straipsnis. Draudimo sutarties įsigaliojimo ir galiojimo terminai ^s-6f864bf9dd2c2746fc98bc7a
 
 
-1. Draudimo sutartis įsigalioja sudarius draudimo sutartį ir sumokėjus draudimo įmoką už draudimo liudijime nurodytą laikotarpį, išskyrus šio straipsnio 2 ir [[#^s-b47015392a2e755e1cfde27e|3 dalyse]] nurodytus atvejus. ^s-91e4d288a25607809a90e8cd
+1. Draudimo sutartis įsigalioja sudarius draudimo sutartį ir sumokėjus draudimo įmoką už draudimo liudijime nurodytą laikotarpį, išskyrus šio straipsnio [[#^s-d7dc5d892b05941eef45d551|2]] ir [[#^s-b47015392a2e755e1cfde27e|3]] dalyse nurodytus atvejus. ^s-91e4d288a25607809a90e8cd
 
 
 2. Jeigu draudikas draudimo sutartyje nurodė vėlesnį draudimo įmokos mokėjimo terminą, draudimo sutartis įsigalioja nuo jos sudarymo. ^s-d7dc5d892b05941eef45d551
 
 
-3. Draudimo sutartyje galima nurodyti kitokį, nei nurodyta 1 ir [[#^s-d7dc5d892b05941eef45d551|2 dalyse]], draudimo sutarties įsigaliojimo terminą, jei sudarant naują draudimo sutartį dėl tos pačios transporto priemonės dar galioja anksčiau sudaryta draudimo sutartis. ^s-b47015392a2e755e1cfde27e
+3. Draudimo sutartyje galima nurodyti kitokį, nei nurodyta [[#^s-91e4d288a25607809a90e8cd|1]] ir [[#^s-d7dc5d892b05941eef45d551|2]] dalyse, draudimo sutarties įsigaliojimo terminą, jei sudarant naują draudimo sutartį dėl tos pačios transporto priemonės dar galioja anksčiau sudaryta draudimo sutartis. ^s-b47015392a2e755e1cfde27e
 
 
 4. Įprastinė draudimo sutartis sudaroma 12 mėnesių terminui. Draudikas išduoda draudėjui įprastinės draudimo sutarties sudarymą ir suteikiamą draudimo apsaugą patvirtinantį draudimo liudijimą. Jame nurodomas draudimo liudijimo galiojimo laikotarpis, ne trumpesnis kaip vienas mėnuo, už kurį sumokėta draudimo įmoka. Draudimo sutarties galiojimo laikotarpiu gali būti išduodami keli draudimo liudijimai. ^s-a043fd4d0c771f0388c5a6b6
@@ -317,7 +317,7 @@ Draudimo sutarties rūšys yra šios:
 2) draudikas neteko teisės vykdyti transporto priemonių valdytojų civilinės atsakomybės privalomąjį draudimą. ^s-7f6f89c295ec43f858c69211
 
 
-9. Pratęsus įprastinės draudimo sutarties terminą, draudėjas privalo draudikui sumokėti draudiko apskaičiuotą draudimo įmoką. Jei draudimo įmokos nesumokamos, taikomos šio Įstatymo [[#^s-28b9427fa42a6ade28ab29b7|11 straipsnio]] 5–[[#^s-0a56c41d30ec5907bbb2d5a1|7 dalių]] nuostatos. ^s-31f43109c160bef4f470db7b
+9. Pratęsus įprastinės draudimo sutarties terminą, draudėjas privalo draudikui sumokėti draudiko apskaičiuotą draudimo įmoką. Jei draudimo įmokos nesumokamos, taikomos šio Įstatymo [[#^s-28b9427fa42a6ade28ab29b7|11 straipsnio]] [[#^s-301d61014c5d0ff32a2c5968|5]]–[[#^s-6de53d2277897fe757cbaa4e|7]] dalių nuostatos. ^s-31f43109c160bef4f470db7b
 
 
 10. Pasienio draudimo sutartis sudaroma ne trumpesniam kaip 15 dienų, bet ne ilgesniam kaip 90 dienų terminui. ^s-b7aade81962c8614eeedd1ed
@@ -404,7 +404,7 @@ Draudimo sutarties rūšys yra šios:
 ### 13 straipsnis. Pretenzija dėl padarytos žalos ^s-850d6282752c0e4f08ca60e1
 
 
-1. Nukentėjęs trečiasis asmuo  pretenziją dėl padarytos žalos gali pateikti atsakingam už padarytą žalą asmeniui (toliau – kaltininkas), tiesiogiai draudikui, apdraudusiam kaltininko civilinę atsakomybę (toliau – atsakingas draudikas), draudiko atstovui pretenzijoms nagrinėti arba – šio Įstatymo 17 ir [[#^s-c88ad26d8a2f34beb57b97f5|18 straipsniuose]] nurodytais atvejais – Biurui. Tais atvejais, kai kaltininko civilinę atsakomybę apdraudė kitos Europos Sąjungos valstybės narės draudimo įmonė arba filialas, nukentėjęs trečiasis asmuo pretenziją dėl padarytos žalos gali pateikti šiai draudimo įmonei, jos atstovui pretenzijoms nagrinėti, arba tiesiogiai kaltininkui. ^s-2970686d7b3bd30c535812ca
+1. Nukentėjęs trečiasis asmuo  pretenziją dėl padarytos žalos gali pateikti atsakingam už padarytą žalą asmeniui (toliau – kaltininkas), tiesiogiai draudikui, apdraudusiam kaltininko civilinę atsakomybę (toliau – atsakingas draudikas), draudiko atstovui pretenzijoms nagrinėti arba – šio Įstatymo [[#^s-b50f9533500a333d676c6c75|17]] ir [[#^s-c88ad26d8a2f34beb57b97f5|18]] straipsniuose nurodytais atvejais – Biurui. Tais atvejais, kai kaltininko civilinę atsakomybę apdraudė kitos Europos Sąjungos valstybės narės draudimo įmonė arba filialas, nukentėjęs trečiasis asmuo pretenziją dėl padarytos žalos gali pateikti šiai draudimo įmonei, jos atstovui pretenzijoms nagrinėti, arba tiesiogiai kaltininkui. ^s-2970686d7b3bd30c535812ca
 
 
 2. Jei atsakingam draudikui ar Biurui sumokėjus išmoką atlyginama ne visa nukentėjusiam trečiajam asmeniui padaryta žala dėl to, kad žala viršija draudimo sumas, nukentėjęs trečiasis asmuo turi teisę kreiptis į kaltininką, kad jis atlygintų likusią žalos dalį. ^s-8148a48807a1e9118d422d57
@@ -473,10 +473,10 @@ Draudimo sutarties rūšys yra šios:
 1. Neviršydamas šio Įstatymo [[#^s-28b9427fa42a6ade28ab29b7|11 straipsnyje]] nustatytų draudimo sumų, atsakingas draudikas arba Biuras moka išmoką, jeigu transporto priemonės valdytojui dėl padarytos žalos nukentėjusiam trečiajam asmeniui atsiranda civilinė atsakomybė. ^s-9c902ba1ea069f553b4cb81f
 
 
-2. Atsakingas draudikas moka išmoką nukentėjusiam trečiajam asmeniui, kai transporto priemonės valdytojui atsirado civilinė atsakomybė dėl žalos padarymo naudojant apdraustą transporto priemonę, nepaisant to, ar valdytojas vykdė draudimo sutarties sąlygas, išskyrus šio Įstatymo [[#^s-21102be81b0bebfac4358980|21 straipsnio]] 1 ir [[#^s-74a3ca82110eaa77e5089b9d|2 dalyse]] nurodytus atvejus, ir nepaisant to, ar prieš sudarant draudimo sutartį draudėjas suteikė draudikui visą būtiną informaciją, kurios reikia draudimo sutarčiai sudaryti. ^s-74a3ca82110eaa77e5089b9d
+2. Atsakingas draudikas moka išmoką nukentėjusiam trečiajam asmeniui, kai transporto priemonės valdytojui atsirado civilinė atsakomybė dėl žalos padarymo naudojant apdraustą transporto priemonę, nepaisant to, ar valdytojas vykdė draudimo sutarties sąlygas, išskyrus šio Įstatymo [[#^s-21102be81b0bebfac4358980|21 straipsnio]] [[#^s-7c600b2e421d30b11ffc2f50|1]] ir [[#^s-5b3b64e16075ac92a0d1abf4|2]] dalyse nurodytus atvejus, ir nepaisant to, ar prieš sudarant draudimo sutartį draudėjas suteikė draudikui visą būtiną informaciją, kurios reikia draudimo sutarčiai sudaryti. ^s-74a3ca82110eaa77e5089b9d
 
 
-3. Biuras moka išmoką šio Įstatymo 17 ir [[#^s-c88ad26d8a2f34beb57b97f5|18 straipsniuose]] nurodytais atvejais. ^s-19b7a385be1b9f734a665b5d
+3. Biuras moka išmoką šio Įstatymo [[#^s-b50f9533500a333d676c6c75|17]] ir [[#^s-c88ad26d8a2f34beb57b97f5|18]] straipsniuose nurodytais atvejais. ^s-19b7a385be1b9f734a665b5d
 
 
 4. Šio Įstatymo nustatyta tvarka atsakingas draudikas arba Biuras moka išmoką, jeigu pretenzija dėl padarytos žalos pareikšta per vienus metus nuo žalos atsiradimo dienos arba per vienus metus nuo dienos, kurią nukentėjęs trečiasis asmuo sužinojo ar turėjo sužinoti apie padarytą žalą, bet ne vėliau kaip per 4 metus nuo eismo įvykio dienos. ^s-3df0b0cec209feea36d5e569
@@ -501,7 +501,7 @@ Draudimo sutarties rūšys yra šios:
 3) kaltininkas, kurio tapatybė yra nustatyta, žalos padarymo momentu yra apsidraudęs transporto priemonių valdytojų civilinės atsakomybės privalomuoju draudimu, tačiau atsakingam draudikui iškelta bankroto byla. ^s-7de288382df9ddf4503f6b5e
 
 
-2. Biuras pagal [[#^s-6ac0dd6340aba8643b556a2b|šio straipsnio 1 dalį]] moka išmoką nukentėjusiems tretiesiems asmenims, kurie nuolat gyvena Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje, išskyrus šio Įstatymo [[#^s-21102be81b0bebfac4358980|21 straipsnio]] 1, 3 ir [[#^s-55afbc8ec151fa5bd60c5df4|4 dalyse]] nurodytus atvejus. Biuras taip pat moka išmoką nuolat gyvenančiam užsienio valstybėje nukentėjusiam trečiajam asmeniui, jeigu valstybės, kurioje nuolat gyvena nukentėjęs trečiasis asmuo, nacionalinis draudikų biuras yra pasirašęs Vidaus tvarkos taisykles arba susitarimą su Biuru dėl reikalavimų tenkinimo abipusio pripažinimo. ^s-d41ae40dd5f795a1d9e5a62f
+2. Biuras pagal [[#^s-6ac0dd6340aba8643b556a2b|šio straipsnio 1 dalį]] moka išmoką nukentėjusiems tretiesiems asmenims, kurie nuolat gyvena Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje, išskyrus šio Įstatymo [[#^s-21102be81b0bebfac4358980|21 straipsnio]] [[#^s-7c600b2e421d30b11ffc2f50|1]], [[#^s-115f1ad5413b664dc7aa125d|3]] ir [[#^s-7f4fc7c2ff5064a751668f9a|4]] dalyse nurodytus atvejus. Biuras taip pat moka išmoką nuolat gyvenančiam užsienio valstybėje nukentėjusiam trečiajam asmeniui, jeigu valstybės, kurioje nuolat gyvena nukentėjęs trečiasis asmuo, nacionalinis draudikų biuras yra pasirašęs Vidaus tvarkos taisykles arba susitarimą su Biuru dėl reikalavimų tenkinimo abipusio pripažinimo. ^s-d41ae40dd5f795a1d9e5a62f
 
 
 3. Biuras moka išmoką dėl Lietuvos Respublikos teritorijoje per eismo įvykį padarytos žalos, kai kaltininko civilinę atsakomybę apdraudė kitos valstybės draudimo įmonė, išdavusi Lietuvos Respublikoje galiojančią žaliąją kortą, jei valstybės, kurios draudimo įmonė išdavė žaliąją kortą, nacionalinis draudikų biuras yra pasirašęs Vidaus tvarkos taisykles arba susitarimą su Biuru dėl reikalavimų tenkinimo abipusio pripažinimo, išskyrus atvejus, kai žalą atlygino kaltininko civilinę atsakomybę apdraudusi draudimo įmonė ar jos atstovas pretenzijoms nagrinėti. ^s-c2af9d170a0e8ce36cab3159
@@ -565,7 +565,7 @@ Draudimo sutarties rūšys yra šios:
 2) per 2 mėnesius nuo eismo įvykio neįmanoma nustatyti transporto priemonės, kuria padaryta žala, jei pagal valstybės, kurioje įvyko eismo įvykis, teisės aktus tokia žala yra atlyginama. ^s-1dd5470220e27dce4945e840
 
 
-4.  Pretenzija Biurui gali būti pateikta pasibaigus šio straipsnio 2 ar [[#^s-0139f029c6a7644a2fea61b4|3 dalyse]] nurodytam terminui. Biuras turi išnagrinėti pretenziją dėl padarytos žalos atlyginimo ir priimti sprendimą dėl išmokos mokėjimo per 2 mėnesius nuo pretenzijos pateikimo dienos. Paaiškėjus, kad atsakingas draudikas arba jo atstovas pretenzijoms nagrinėti pateikia pagrįstą atsakymą dėl išmokos mokėjimo, Biuras nutraukia pretenzijos nagrinėjimą. Biuras turi išmokėti išmoką ne vėliau kaip per 3 mėnesius nuo pretenzijos dėl padarytos žalos gavimo dienos. ^s-02fd764765d4acfaef21e6f5
+4.  Pretenzija Biurui gali būti pateikta pasibaigus šio straipsnio [[#^s-f319d8ea5f2f996afe774950|2]] ar [[#^s-0139f029c6a7644a2fea61b4|3]] dalyse nurodytam terminui. Biuras turi išnagrinėti pretenziją dėl padarytos žalos atlyginimo ir priimti sprendimą dėl išmokos mokėjimo per 2 mėnesius nuo pretenzijos pateikimo dienos. Paaiškėjus, kad atsakingas draudikas arba jo atstovas pretenzijoms nagrinėti pateikia pagrįstą atsakymą dėl išmokos mokėjimo, Biuras nutraukia pretenzijos nagrinėjimą. Biuras turi išmokėti išmoką ne vėliau kaip per 3 mėnesius nuo pretenzijos dėl padarytos žalos gavimo dienos. ^s-02fd764765d4acfaef21e6f5
 
 
 5. Apie gautą nukentėjusio trečiojo asmens pretenziją dėl padarytos žalos (pateiktą remiantis [[#^s-16561b4e1c38846ef34d80ae|šio straipsnio 1 dalimi]]) ir jos nagrinėjimo terminus Biuras nedelsdamas, ne vėliau kaip per 5 darbo dienas, praneša kitos Europos Sąjungos valstybės narės atsakingam draudikui arba jo atstovui pretenzijoms nagrinėti Lietuvos Respublikoje, kitos Europos Sąjungos valstybės narės žalos atlyginimo institucijai bei atsakingam už padarytą žalą asmeniui, jeigu jis yra žinomas. ^s-85540cfb629924629ad3cba4
@@ -584,7 +584,7 @@ Draudimo sutarties rūšys yra šios:
 3. Atsakingas draudikas, jo atstovas pretenzijoms nagrinėti arba Biuras per 30 dienų (arba [[#^s-c68df55a88e03bdff3a8e0e6|šio straipsnio 2 dalyje]] nurodytu atveju – per 3 mėnesius) nuo pretenzijos pateikimo dienos turi pateikti motyvuotą pasiūlymą dėl išmokos mokėjimo arba privalo pateikti pagristą atsakymą bei įrodymus, atleidžiančius nuo išmokos išmokėjimo ar suteikiančius teisę sumažinti išmoką. ^s-35d07d15f8c325d5c774e253
 
 
-4.  Atsakingas draudikas, jo atstovas pretenzijoms nagrinėti arba Biuras, praleidę šio straipsnio 1–[[#^s-35d07d15f8c325d5c774e253|3 dalyse]] nustatytus terminus, privalo mokėti 0,04 procento delspinigius už kiekvieną uždelstą dieną nuo sumos, kurią sumokėti praleistas terminas. Priežiūros institucija atsakingam draudikui ar jo atstovui pretenzijoms nagrinėti taip pat gali taikyti poveikio priemones, numatytas [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatyme]]. ^s-89dcd35bb67ac70c0ab79228
+4.  Atsakingas draudikas, jo atstovas pretenzijoms nagrinėti arba Biuras, praleidę šio straipsnio [[#^s-bca53f1d32dd524cd2c381a2|1]]–[[#^s-35d07d15f8c325d5c774e253|3]] dalyse nustatytus terminus, privalo mokėti 0,04 procento delspinigius už kiekvieną uždelstą dieną nuo sumos, kurią sumokėti praleistas terminas. Priežiūros institucija atsakingam draudikui ar jo atstovui pretenzijoms nagrinėti taip pat gali taikyti poveikio priemones, numatytas [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatyme]]. ^s-89dcd35bb67ac70c0ab79228
 
 
 5. Išmoka mokama, kai yra nustatytas draudiminio įvykio faktas ir žalos dydis, jei apie eismo įvykį buvo pranešta policijai, o nukentėjęs trečiasis asmuo pateikė draudikui arba Biurui turimus eismo įvykio bei žalos įrodymus, laikėsi draudiko ar Biuro nurodymų, jeigu jie buvo duoti, leido draudikui ar Biurui susipažinti su dokumentais, galinčiais įrodyti padarytos žalos aplinkybes, faktą bei dydį, ir suteikė galimybę ištirti per eismo įvykį padarytos žalos priežastis ir nustatyti jos dydį, atsižvelgdamas į šio Įstatymo [[#^s-d959fc0ff56d46c379a72a03|14 straipsnio]] nuostatas išsaugojo sugadintą transporto priemonę ar kitą turtą tokį, koks jis buvo po eismo įvykio, ir pretenziją dėl padarytos žalos pateikė per šio Įstatymo [[#^s-3df0b0cec209feea36d5e569|16 straipsnio 4 dalyje]] nustatytą terminą. Jei nukentėjęs trečiasis asmuo nevykdė ar netinkamai vykdė šioje dalyje nurodytus įpareigojimus ir tai turėjo įtakos žalos padarymo aplinkybių tyrimui ar padidino žalą, draudikas ar Biuras gali sumažinti išmoką. ^s-e51c6abf07cfcbb257464db4
@@ -1455,7 +1455,7 @@ priedas
 ### 2 straipsnis. Įstatymo įsigaliojimas ^s-89f4814f09fe15984efa32f3
 
 
-Šis Įstatymas įsigalioja Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo pakeitimo įstatymo įsigaliojimo ir įgyvendinimo įstatymo nustatyta tvarka.
+Šis Įstatymas įsigalioja [Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo pakeitimo įstatymo įsigaliojimo ir įgyvendinimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.F0716E102957) nustatyta tvarka.
 
 
 

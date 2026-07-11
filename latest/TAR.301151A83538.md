@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ir Baigiamojo akto ratifikavimas ^s-9397de930d592e76f262d707
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 24 d. dekretą Nr. 720, ratifikuoja su pareiškimais 2004 m. spalio 26 d. Liuksemburge pasirašytus Europos Bendrijos bei jos valstybių narių ir Šveicarijos Konfederacijos bendradarbiavimo susitarimą dėl kovos su sukčiavimu ir kita neteisėta veikla, keliančia grėsmę jų finansiniams interesams, ir Baigiamąjį aktą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. rugpjūčio 24 d. dekretą Nr. 720](https://e-tar.lt/portal/lt/legalAct/TAR.E1C781E7FE33), ratifikuoja su pareiškimais 2004 m. spalio 26 d. Liuksemburge pasirašytus Europos Bendrijos bei jos valstybių narių ir Šveicarijos Konfederacijos bendradarbiavimo susitarimą dėl kovos su sukčiavimu ir kita neteisėta veikla, keliančia grėsmę jų finansiniams interesams, ir Baigiamąjį aktą.
 
 
 

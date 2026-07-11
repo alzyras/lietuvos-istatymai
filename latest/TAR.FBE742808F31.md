@@ -66,7 +66,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 „21 straipsnis. Profesinių sąjungų narių darbo teisių garantijos
 
 
-Darbdavys negali atleisti iš darbo darbuotojo įmonėje veikiančios profesinės sąjungos renkamojo organo nario pagal Darbo sutarties įstatymo 29 straipsnio pirmosios dalies 2 punktą ir savo valia, negavęs tos profesinės sąjungos įmonėje renkamojo organo išankstinio sutikimo.
+Darbdavys negali atleisti iš darbo darbuotojo įmonėje veikiančios profesinės sąjungos renkamojo organo nario pagal [Darbo sutarties įstatymo 29 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pirmosios dalies 2 punktą ir savo valia, negavęs tos profesinės sąjungos įmonėje renkamojo organo išankstinio sutikimo.
 
 
 Šio straipsnio pirmojoje dalyje nurodytiems darbuotojams skiriant drausmines nuobaudas, išskyrus drausminę nuobaudą – atleidimą iš darbo, taip pat reikalingas išankstinis profesinės sąjungos renkamojo organo sutikimas.

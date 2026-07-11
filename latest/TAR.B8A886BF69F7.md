@@ -67,7 +67,7 @@ Vilnius
 7. Kvotos, tardymo ir policijos institucijų nutarimai [[latest/TAR.06438E0A26EC|dėl amnestijos]] taikymo turi būti patvirtinti apylinkės teismo teisėjo. ^s-07d346ae7780f1ea6d5885be
 
 
-8. Ginčytinus klausimus dėl amnestijos taikymo sprendžia Lietuvos Respublikos teismai Baudžiamojo proceso kodekso 414 straipsnio nustatyta tvarka. ^s-331e2f0da044a6f31e5b6f5a
+8. Ginčytinus klausimus [[latest/TAR.06438E0A26EC|dėl amnestijos taikymo sprendžia Lietuvos Respublikos teismai Baudžiamojo proceso kodekso 414 straipsnio]] nustatyta tvarka. ^s-331e2f0da044a6f31e5b6f5a
 
 
 

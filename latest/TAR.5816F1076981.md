@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-c4837552bb2b68f1c6dc83af
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1999 m. kovo 30 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti laisvosios prekybos sutarčių pakeitimus“, ratifikuoja 1 papildomą protokolą prie Lietuvos Respublikos ir Slovėnijos Respublikos laisvosios prekybos sutarties „3 protokolo dėl prekių kilmės taisyklių pakeitimai“.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1999 m. kovo 30 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti laisvosios prekybos sutarčių pakeitimus“](https://e-tar.lt/portal/lt/legalAct/TAR.D9F0F9B89298), ratifikuoja 1 papildomą protokolą prie Lietuvos Respublikos ir Slovėnijos Respublikos laisvosios prekybos sutarties „3 protokolo dėl prekių kilmės taisyklių pakeitimai“.
 
 
 

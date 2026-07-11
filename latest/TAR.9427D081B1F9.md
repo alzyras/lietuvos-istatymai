@@ -67,7 +67,7 @@ Nustatomos šios Neringos, Klaipėdos miesto, Klaipėdos rajono ir Šilutės raj
 1) šiaurinė Neringos ir Klaipėdos miesto savivaldybių teritorijų riba sutampa su esama riba, šiaurės rytinė Neringos ir Klaipėdos miesto savivaldybių teritorijų riba kerta Kuršių marias, sutampa su išorine Klaipėdos valstybinio jūrų uosto akvatorijos teritorijos sklypo (kadastro Nr. 2101/0010:1, unikalus Nr. 2101-0010-0001) vakarine ir pietvakarių riba ir išorine sklypo (kadastro Nr. 2101/0010:61, unikalus Nr. 4400-2199-4594) vakarine ir pietine riba, sutampančia su pietine Klaipėdos miesto ir Klaipėdos rajono savivaldybių teritorijų riba; ^s-3607a44f3a1522d8828bc2e3
 
 
-2) rytinė Neringos ir Klaipėdos rajono savivaldybių teritorijų riba sutampa su Kuršių nerijos nacionalinio parko ir jo zonų riba, nustatyta Kuršių nerijos nacionalinio parko ir jo zonų ribų plane, patvirtintame Lietuvos Respublikos Seimo 2010 m. gruodžio 22 d. nutarimu Nr. XI-1248 (toliau – Kuršių nerijos nacionalinio parko ir jo zonų ribų planas); ^s-e3e127f363fd32f20ef831c9
+2) rytinė Neringos ir Klaipėdos rajono savivaldybių teritorijų riba sutampa su Kuršių nerijos nacionalinio parko ir jo zonų riba, nustatyta Kuršių nerijos nacionalinio parko ir jo zonų ribų plane, patvirtintame Lietuvos Respublikos Seimo [2010 m. gruodžio 22 d. nutarimu Nr. XI-1248](https://e-tar.lt/portal/lt/legalAct/TAR.EF970AE4617F) (toliau – Kuršių nerijos nacionalinio parko ir jo zonų ribų planas); ^s-e3e127f363fd32f20ef831c9
 
 
 3) rytinė Neringos ir Šilutės rajono savivaldybių teritorijų riba sutampa su Kuršių nerijos nacionalinio parko ir jo zonų riba, nustatyta Kuršių nerijos nacionalinio parko ir jo zonų ribų plane; ^s-605535be719600e9ee0b8850
@@ -84,7 +84,7 @@ Nustatomos šios Neringos, Klaipėdos miesto, Klaipėdos rajono ir Šilutės raj
 ### 4 straipsnis. Baigiamosios nuostatos ^s-cb3ff902c6201f3a45dad971
 
 
-1. Šio įstatymo 1, 2 ir [[#^s-06eaae5b81a2b5d92f6dce58|3 straipsniai]] įsigalioja 2013 m. sausio 1 d. ^s-11d6109ecdbb006226a742d0
+1. Šio įstatymo [[#^s-c77a0795e68f2d699f9182d7|1]], [[#^s-fdbc9bd2e463f6860b441fb9|2]] ir [[#^s-06eaae5b81a2b5d92f6dce58|3]] straipsniai įsigalioja 2013 m. sausio 1 d. ^s-11d6109ecdbb006226a742d0
 
 
 2. Iki šio įstatymo įsigaliojimo Klaipėdos miesto savivaldybės taryba teisės aktų nustatyta tvarka pateikia Lietuvos Respublikos Vyriausybei pasiūlymą dėl Klaipėdos miesto teritorijos ribų pakeitimo, o Lietuvos Respublikos Vyriausybė priima sprendimą dėl Klaipėdos miesto teritorijos ribų pakeitimo. ^s-01b6a8b87dcd92114953d1d9

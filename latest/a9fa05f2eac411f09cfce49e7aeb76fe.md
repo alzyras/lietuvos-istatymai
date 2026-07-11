@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimas ^s-986f8cef52bad7f7b71285ed
 
 
-Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.E2CE2C82DA9E#^s-2e1c0ef883a8bae3326ec004|1 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Šis įstatymas nustato visuomenei skelbiamų viešojo sektoriaus subjektų ataskaitų rinkinių sudėties, finansinėse, biudžeto vykdymo, veiklos ataskaitose teikiamos informacijos, ataskaitų rinkinių, tarp jų ir pagrindinių rezultatų valstybės veiklos srityse ataskaitos, bei Valstybės pažangos strategijos ataskaitos rengimo reikalavimus ir atsakomybę už jų parengimą, pateikimą ir paskelbimą.“
@@ -46,7 +46,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 ### 2 straipsnis. 6 straipsnio pakeitimas ^s-61d035199049e677f110f075
-Pakeisti 6 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.E2CE2C82DA9E#^s-91f3391547b02f36475b1fe1|6 straipsnio 1 dalies 1 punktą]] ir jį išdėstyti taip:
 „1) metinė veiklos ataskaita, kurioje pateikiama informacija apie veiklos tikslų pasiekimą;“.
 
 
@@ -54,10 +54,10 @@ Pakeisti 6 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. 10 straipsnio pakeitimas ^s-bfaa957d781805165e0e3eff
 
 
-1. Pripažinti netekusiu galios 10 straipsnio 1 punkto a papunktį. ^s-6eafbcd4708b248512e29fc1
+1. Pripažinti netekusiu galios [[latest/TAR.E2CE2C82DA9E#^s-8a36d0a242643b7fa4c04f74|10 straipsnio 1 punkto]] a papunktį. ^s-6eafbcd4708b248512e29fc1
 
 
-2. Pakeisti 10 straipsnio 5 punktą ir jį išdėstyti taip: ^s-97744a9dc485522001ee775c
+2. Pakeisti [[latest/TAR.E2CE2C82DA9E#^s-dfc943050944ce4a8311a002|10 straipsnio 5 punktą]] ir jį išdėstyti taip: ^s-97744a9dc485522001ee775c
 
 
 „5) nacionalinį metinių ataskaitų rinkinį, kurį sudaro:
@@ -115,7 +115,7 @@ Pakeisti [[#^s-b1b8d7cdb2e20ea353ff872b|11 straipsnį]] ir jį išdėstyti taip:
 3) per ataskaitinius metus sudarytus sandorius su susijusiomis šalimis, nurodant sandorio šalis (juridinio asmens teisinė forma, pavadinimas, kodas, buveinė (adresas); fizinio asmens vardas, pavardė, adresas korespondencijai), objektą ir vertę. ^s-683ec34617590f5fd09cb64b
 
 
-4. Veiklos ataskaitos ir grupės veiklos ataskaitos parengimo tvarką, formą, už grupės veiklos ataskaitų parengimą atsakingus viešojo sektoriaus subjektus nustato ir šio straipsnio 1 ir [[#^s-540dbab5d720ac0ba9cfccdb|3 dalyse]] nurodytą informaciją detalizuoja Vyriausybė ar jos įgaliota institucija. ^s-defd007a010ad663c0c9d824
+4. Veiklos ataskaitos ir grupės veiklos ataskaitos parengimo tvarką, formą, už grupės veiklos ataskaitų parengimą atsakingus viešojo sektoriaus subjektus nustato ir šio straipsnio [[#^s-9a7a81c0e9b48fb2293db021|1]] ir [[#^s-540dbab5d720ac0ba9cfccdb|3]] dalyse nurodytą informaciją detalizuoja Vyriausybė ar jos įgaliota institucija. ^s-defd007a010ad663c0c9d824
 
 
 5. Savivaldybės veiklos ataskaita apima: ^s-66fd4a409fe7302f02d0621e
@@ -127,7 +127,7 @@ Pakeisti [[#^s-b1b8d7cdb2e20ea353ff872b|11 straipsnį]] ir jį išdėstyti taip:
 2) informaciją apie regionų plėtros programoje, regiono plėtros plane nustatytų uždavinių ir jų vertinimo rodiklių reikšmių pasiekimą atitinkamais finansiniais metais; ^s-e6b65cddccbb97e609397f1b
 
 
-3) [[#^s-9a7a81c0e9b48fb2293db021|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytą informaciją; ^s-848da7903eaf3abd8423bc84
+3) [[#^s-9a7a81c0e9b48fb2293db021|šio straipsnio 1 dalies]] [[#^s-37ff34b95e33127d39c91448|1]], [[#^s-e6b65cddccbb97e609397f1b|2]] ir [[latest/TAR.E2CE2C82DA9E|3]] punktuose nurodytą informaciją; ^s-848da7903eaf3abd8423bc84
 
 
 4) papildomą informaciją, jeigu savivaldybės taryba nurodo tokią informaciją pateikti.“ ^s-d35cafab636a8c8f67d449c8
@@ -148,7 +148,7 @@ ATASKAITŲ RINKINIŲ IR ATASKAITŲ RENGIMAS, PASIRAŠYMAS, TEIKIMAS, SKELBIMAS, 
 ### 6 straipsnis. 14 straipsnio pakeitimas ^s-71abc4cf94ae3ff65cdd2905
 
 
-Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.E2CE2C82DA9E#^s-8efd595767bbffa25f7bde48|14 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Valstybės metinių ataskaitų rinkinį ir nacionalinį metinių ataskaitų rinkinį, išskyrus pagrindinių rezultatų valstybės veiklos srityse ataskaitą, rengia Finansų ministerija. Pagrindinių rezultatų valstybės veiklos srityse ataskaitą rengia Vyriausybės kanceliarija.“
@@ -158,7 +158,7 @@ Pakeisti 14 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 7 straipsnis. 15 straipsnio pakeitimas ^s-d1d2e12c85bfb9ea2c680fb9
 
 
-Pakeisti 15 straipsnio 6 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.E2CE2C82DA9E#^s-64c7a490d2e735c36498dbce|15 straipsnio 6 dalį]] ir ją išdėstyti taip:
 
 
 „6. Nacionalinį metinių ataskaitų rinkinį pasirašo Ministras Pirmininkas ir finansų ministras.“
@@ -168,7 +168,7 @@ Pakeisti 15 straipsnio 6 dalį ir ją išdėstyti taip:
 ### 8 straipsnis. 16 straipsnio pakeitimas ^s-7b7976f63f5a89ad09208508
 
 
-Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.E2CE2C82DA9E#^s-d0811a4ca0ca4d735c8a57ab|16 straipsnio 4 dalį]] ir ją išdėstyti taip:
 
 
 „4. Valstybės kontrolė, savivaldybės kontrolės ir audito tarnyba, auditorius arba audito įmonė nustato ir valstybinio audito išvadoje ar auditoriaus išvadoje nurodo, ar veiklos ataskaitoje, jeigu pagal teisės aktų reikalavimus ji rengiama, pagrindinių rezultatų valstybės veiklos srityse ataskaitoje pateikti finansiniai duomenys atitinka metinių finansinių ataskaitų rinkinių ir biudžeto vykdymo ataskaitų rinkinių duomenis.“
@@ -179,10 +179,10 @@ Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip:
 ### 9 straipsnis. 17 straipsnio pakeitimas ^s-31bd650e360fc66825f1000b
 
 
-1. Pripažinti netekusiu galios 17 straipsnio 5 dalies 1 punktą. ^s-dc49729219c28331959138af
+1. Pripažinti netekusiu galios [[latest/TAR.E2CE2C82DA9E#^s-90fc9f58551c76b3e46a1058|17 straipsnio 5 dalies 1 punktą]]. ^s-dc49729219c28331959138af
 
 
-2. Pakeisti 17 straipsnio 8 dalį ir ją išdėstyti taip: ^s-a66a88725135d72b62148f10
+2. Pakeisti [[latest/TAR.E2CE2C82DA9E#^s-abe88fbc0ac5faa77f60ea40|17 straipsnio 8 dalį]] ir ją išdėstyti taip: ^s-a66a88725135d72b62148f10
 
 
 „8. Neaudituotus metinių ataskaitų rinkinius Vyriausybei teikia:
@@ -258,10 +258,10 @@ ATSKAITOMYBĖ UŽ PASIEKTUS REZULTATUS VALSTYBĖS LYGMENIU
 3) Valstybės pažangos strategijos ataskaitą tvirtina Seimas. ^s-a6cae4d21c8d8ef62cab6a34
 
 
-4) Viešojo sektoriaus subjekto vadovas ar jo įgaliotas asmuo užtikrina Valstybės pažangos strategijos ataskaitos pateikimą ir paskelbimą [[#^s-ca79ac88ce7a0becb2d7ef5d|šio straipsnio 4 dalyje]] ir šios dalies 1 ir [[#^s-8aa036c251ce82f96a60b438|2 punktuose]] nustatyta tvarka. ^s-3eb49e8e10dc8bb108201f66
+4) Viešojo sektoriaus subjekto vadovas ar jo įgaliotas asmuo užtikrina Valstybės pažangos strategijos ataskaitos pateikimą ir paskelbimą [[#^s-ca79ac88ce7a0becb2d7ef5d|šio straipsnio 4 dalyje]] ir šios dalies [[#^s-2d2304ed6ad793dc0991eebb|1]] ir [[#^s-8aa036c251ce82f96a60b438|2]] punktuose nustatyta tvarka. ^s-3eb49e8e10dc8bb108201f66
 
 
-5) Valstybės pažangos strategijos ataskaitai mutatis mutandis taikomos šio įstatymo [[#^s-bfaa957d781805165e0e3eff|3 straipsnio]] 4 ir 6 dalių, 15 straipsnio 5 dalies, 19 straipsnio ir 20 straipsnio 1 dalies, [[#^s-9fae362c21fdefd58b9cfc52|2 dalies]] 1 ir [[#^s-8aa036c251ce82f96a60b438|2 punkto]] bei [[#^s-4c626f3815190e2bcc4ee2c8|3 dalies]] nuostatos.“ ^s-79ed01d1301648e9ab058f1d
+5) Valstybės pažangos strategijos ataskaitai mutatis mutandis taikomos šio įstatymo [[#^s-bfaa957d781805165e0e3eff|3 straipsnio]] [[latest/TAR.E2CE2C82DA9E#^s-74c811bb6146a0db441de22c|4]] ir [[latest/TAR.E2CE2C82DA9E#^s-36dcb9a7b95f810f15b9a468|6]] dalių, [[latest/TAR.E2CE2C82DA9E#^s-2e1457efb38f583c1ee21955|15 straipsnio 5 dalies]], [[latest/TAR.E2CE2C82DA9E#^s-e330c6ca23a136806d47810d|19 straipsnio]] ir [[latest/TAR.E2CE2C82DA9E#^s-b21fac7ebf379167da9f42de|20 straipsnio 1 dalies]], [[#^s-9fae362c21fdefd58b9cfc52|2 dalies]] [[latest/TAR.E2CE2C82DA9E|1]] ir [[latest/TAR.E2CE2C82DA9E|2]] punkto bei [[#^s-4c626f3815190e2bcc4ee2c8|3 dalies]] nuostatos.“ ^s-79ed01d1301648e9ab058f1d
 
 
 

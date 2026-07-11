@@ -55,7 +55,7 @@ Vilnius
 ### 3 straipsnis. Registro objektai ir jų registravimas ^s-978f6b84dfd4d1b09f982467
 
 
-1. Registro objektai yra Lietuvos Respublikos administracinių teisės pažeidimų kodekso nustatyta tvarka užfiksuoti administraciniai teisės pažeidimai. ^s-aa4232f40ace089fa270549c
+1. Registro objektai yra [Lietuvos Respublikos administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka užfiksuoti administraciniai teisės pažeidimai. ^s-aa4232f40ace089fa270549c
 
 
 2. Registro objektai registruojami [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]] (toliau – [[latest/TAR.85C510BA700A|Valstybės informacinių išteklių valdymo įstatymas]]) ir Registro nuostatuose nustatyta tvarka. ^s-8c921818c8cd5509406cd210
@@ -91,7 +91,7 @@ Vilnius
 ### 6 straipsnis. Registro duomenų, Registro informacijos, Registrui pateiktų dokumentų ir (arba) jų kopijų tvarkymas ^s-5ee29591eacbfebd2cb58a00
 
 
-Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos tvarkomi vadovaujantis šiuo įstatymu, [[latest/TAR.85C510BA700A|Valstybės informacinių išteklių valdymo įstatymu]], [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], Lietuvos Respublikos administracinių teisės pažeidimų kodeksu, Lietuvos Respublikos civilinio proceso kodeksu, [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymu]], Registro nuostatais ir kitais Lietuvos Respublikos, Europos Sąjungos ir tarptautinės teisės aktais.
+Registro duomenys, Registro informacija, Registrui pateikti dokumentai ir (arba) jų kopijos tvarkomi vadovaujantis šiuo įstatymu, [[latest/TAR.85C510BA700A|Valstybės informacinių išteklių valdymo įstatymu]], [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], [Lietuvos Respublikos administracinių teisės pažeidimų kodeksu](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), [Lietuvos Respublikos civilinio proceso kodeksu](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymu]], Registro nuostatais ir kitais Lietuvos Respublikos, Europos Sąjungos ir tarptautinės teisės aktais.
 
 
 

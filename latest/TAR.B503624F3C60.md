@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-07494aee010b9e6d6256de34
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. gegužės 4 d. dekretą Nr. 287, ratifikuoja Tarptautinės žuvininkystės plėtros Vidurio ir Rytų Europoje organizacijos (EUROFISH) įsteigimo sutartį, priimtą 2000 m. gegužės 23 d. Kopenhagoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. gegužės 4 d. dekretą Nr. 287](https://e-tar.lt/portal/lt/legalAct/TAR.0B72BF1BAAE3), ratifikuoja Tarptautinės žuvininkystės plėtros Vidurio ir Rytų Europoje organizacijos (EUROFISH) įsteigimo sutartį, priimtą 2000 m. gegužės 23 d. Kopenhagoje.
 
 
 

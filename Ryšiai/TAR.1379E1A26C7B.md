@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 13 ir 26 straipsni�
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.DDA1BD559D9B|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - 2 citatos - Papildomo savanoriško pensijų kaupimo įstatymo
+- [[latest/TAR.DDA1BD559D9B|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - Papildomo savanoriško pensijų kaupimo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A5ACBDA529A9#^s-a9c33572dd44433d27a8eea5|Lietuvos Respublikos pelno mokesčio įstatymas]] - 2 citatos - PELNO MOKESČIO ĮSTATYMO 13 IR 26 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.A5ACBDA529A9#^s-ce53f8ba0b5c21ffbcce4b33|Lietuvos Respublikos pelno mokesčio įstatymas]] - 2 citatos - PELNO MOKESČIO ĮSTATYMO 13 IR 26 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.A5ACBDA529A9#^s-a9c33572dd44433d27a8eea5|Lietuvos Respublikos pelno mokesčio įstatymas]] - PELNO MOKESČIO ĮSTATYMO 13 IR 26 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS

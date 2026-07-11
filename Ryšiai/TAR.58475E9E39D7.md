@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.3ED3D65F5638#^s-31a91e626cf0310dc85e1c01|Lietuvos Respublikos valstybės rezervo įstatymas]] - 3 citatos - 1061010ISTA000X-807
-- [[latest/TAR.3ED3D65F5638#^s-9ca281230e47938502152dda|Lietuvos Respublikos valstybės rezervo įstatymas]] - 3 citatos - 1061010ISTA000X-807
+- [[latest/TAR.3ED3D65F5638#^s-31a91e626cf0310dc85e1c01|Lietuvos Respublikos valstybės rezervo įstatymas]] - 2 citatos - 1061010ISTA000X-807

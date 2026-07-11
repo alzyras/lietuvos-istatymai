@@ -38,7 +38,7 @@ MARIJAMPOLĖS LAISVOSIOS EKONOMINĖS ZONOS ĮSTATYMO  NR. XI-1907 4 STRAIPSNIO P
 ### 1 straipsnis. 4 straipsnio pakeitimas ^s-16a9e6659ef530cd182faf26
 
 
-Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.B5ABB4E0C447#^s-6e09aef3a710112e2537190e|4 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – [[latest/TAR.8A39C83848CB|Civilinis kodeksas]]), [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymo]], [[latest/TAR.E79004684F4D|Laisvųjų ekonominių zonų pagrindų įstatymo]] ir šio įstatymo nustatytomis sąlygomis ir tvarka.“

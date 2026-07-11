@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-04c5be2c5cdddf2523aabd25
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. kovo 6 d. dekretą Nr. 539, ratifikuoja 1966 m. Tarptautinės konvencijos dėl laivų krovininės vaterlinijos nustatymo 1988 m. protokolą, priimtą 1988 m. lapkričio 11 d. Londone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. kovo 6 d. dekretą Nr. 539](https://e-tar.lt/portal/lt/legalAct/TAR.6F92D3DE7A40), ratifikuoja 1966 m. Tarptautinės konvencijos dėl laivų krovininės vaterlinijos nustatymo 1988 m. protokolą, priimtą 1988 m. lapkričio 11 d. Londone.
 
 
 

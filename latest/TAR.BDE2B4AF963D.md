@@ -75,7 +75,7 @@ Papildyti 4 straipsnį 5 dalimi:
 ### 3 straipsnis. 7 straipsnio pakeitimas ir papildymas ^s-c4809ad81565cc8dd49d0557
 
 
-Pakeisti [[#^s-33d8a2adb88b05765c008b35|7 straipsnio]] pavadinimą, šį straipsnį papildyti nauja [[#^s-6208f66db4f8df17c7c7888c|1 dalimi]], buvusias 1–[[#^s-ef242fee6f5b82f87ba95a1b|3 dalis]] laikyti atitinkamai 2–[[#^s-b7342be4e6fa2fbce8ff0f9b|4 dalimis]], [[#^s-0e160344fb9cbaa46eb42b66|2 dalyje]] po žodžio „pasiūlymą“ įrašyti žodį „(pasiūlymus)“ ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-33d8a2adb88b05765c008b35|7 straipsnio]] pavadinimą, šį straipsnį papildyti nauja [[#^s-6208f66db4f8df17c7c7888c|1 dalimi]], buvusias 1–3 dalis laikyti atitinkamai 2–4 dalimis, [[#^s-0e160344fb9cbaa46eb42b66|2 dalyje]] po žodžio „pasiūlymą“ įrašyti žodį „(pasiūlymus)“ ir visą straipsnį išdėstyti taip:
 
 
 
@@ -345,7 +345,7 @@ Pakeisti 22 straipsnio 3 dalies 3 punktą ir jį išdėstyti taip:
 1. Pakeisti 24 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip: ^s-2aa9c54f71b0e6b28b4c945d
 
 
-„5) reikalavimas pateikti Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytos formos tiekėjo deklaraciją, kurioje nurodoma, kad tiekėjas nedavė ir neketina duoti Komisijos nariams, ekspertams, perkančiosios organizacijos (įgaliotosios organizacijos) vadovams, valstybės tarnautojams (darbuotojams) ar kitų tiekėjų atstovams pinigų, dovanų, nesuteikė jokių paslaugų ar kitokio atlygio už sudarytas ar nesudarytas sąlygas, susijusias su palankiais veiksmais laimėti pirkimus; su kokiais ūkio subjektais tiekėjas yra susijęs Lietuvos Respublikos konkurencijos įstatymo 3 straipsnio 12 dalyje nustatytais būdais, ir patvirtinama, kad jeigu vienas ar keli iš jo nurodytų ūkio subjektų, su kuriais jis yra susijęs, dalyvauja pirkime ir pateikia savarankišką pasiūlymą (pasiūlymus), tiekėjas šiame pirkime veikia nepriklausomai nuo jų ir jie laikytini konkurentais; kad tiekėjas nedalyvauja [[latest/TAR.B8B6AFC2BFF1#^s-4eb2cb549a516aa5fbb4d033|Lietuvos Respublikos konkurencijos įstatymo 5 straipsnyje]] nurodytuose draudžiamuose susitarimuose ir susitarimuose, pažeidžiančiuose šio įstatymo [[#^s-c4809ad81565cc8dd49d0557|3 straipsnyje]] nurodytus principus.“
+„5) reikalavimas pateikti Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytos formos tiekėjo deklaraciją, kurioje nurodoma, kad tiekėjas nedavė ir neketina duoti Komisijos nariams, ekspertams, perkančiosios organizacijos (įgaliotosios organizacijos) vadovams, valstybės tarnautojams (darbuotojams) ar kitų tiekėjų atstovams pinigų, dovanų, nesuteikė jokių paslaugų ar kitokio atlygio už sudarytas ar nesudarytas sąlygas, susijusias su palankiais veiksmais laimėti pirkimus; su kokiais ūkio subjektais tiekėjas yra susijęs [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymo 3 straipsnio 12 dalyje]] nustatytais būdais, ir patvirtinama, kad jeigu vienas ar keli iš jo nurodytų ūkio subjektų, su kuriais jis yra susijęs, dalyvauja pirkime ir pateikia savarankišką pasiūlymą (pasiūlymus), tiekėjas šiame pirkime veikia nepriklausomai nuo jų ir jie laikytini konkurentais; kad tiekėjas nedalyvauja [[latest/TAR.B8B6AFC2BFF1#^s-4eb2cb549a516aa5fbb4d033|Lietuvos Respublikos konkurencijos įstatymo 5 straipsnyje]] nurodytuose draudžiamuose susitarimuose ir susitarimuose, pažeidžiančiuose šio įstatymo [[#^s-c4809ad81565cc8dd49d0557|3 straipsnyje]] nurodytus principus.“
 
 
 2. 24 straipsnio 2 dalies 14 punkte po žodžio „būdas“ įrašyti žodžius „įskaitant informaciją, ar pasiūlymas pateikiamas elektroninėmis priemonėmis“ ir šį punktą išdėstyti taip: ^s-2c4ed5b62872c6e0d516b2fd
@@ -418,7 +418,7 @@ Pakeisti [[#^s-10d2d46de642d983fb6bf080|30 straipsnio 1 dalį]] ir ją išdėsty
 3. Pakeisti 33 straipsnio 5 dalį ir ją išdėstyti taip: ^s-77163cd80c6189311cf17954
 
 
-„5. Jeigu tiekėjas negali pateikti [[#^s-77163cd80c6189311cf17954|šio straipsnio 3 dalyje]] nurodytų dokumentų, nes atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami dokumentai neapima visų [[#^s-05f92cebae2aa5bd4bdc5452|šio straipsnio 1 dalyje]] ir [[#^s-59770d24f8d68561691cbaa0|2 dalies]] 1, 2 ar 3 punkte keliamų klausimų, jie gali būti pakeisti priesaikos deklaracija arba šalyse, kuriose ji netaikoma, – oficialia tiekėjo deklaracija, kurią jis yra pateikęs kompetentingai teisinei arba administracinei institucijai, notarui arba kompetentingai profesinei ar prekybos organizacijai savo kilmės šalyje arba šalyje, iš kurios jis atvyko, o šio straipsnio 2 dalies 1 punkte nurodytais atvejais, kai tiekėjas su kreditoriais nėra sudaręs taikos sutarties, sustabdęs ar apribojęs veiklos, šio straipsnio 2 dalies 2 punkte nurodytu atveju, kai nesiekiama priverstinio likvidavimo procedūros ar susitarimo su kreditoriais, ir šio straipsnio 2 dalies 4 punkte nurodytu atveju – ir laisvos formos tiekėjo deklaracija.“
+„5. Jeigu tiekėjas negali pateikti šio straipsnio 3 dalyje nurodytų dokumentų, nes atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami dokumentai neapima visų [[#^s-05f92cebae2aa5bd4bdc5452|šio straipsnio 1 dalyje]] ir [[#^s-59770d24f8d68561691cbaa0|2 dalies]] 1, 2 ar 3 punkte keliamų klausimų, jie gali būti pakeisti priesaikos deklaracija arba šalyse, kuriose ji netaikoma, – oficialia tiekėjo deklaracija, kurią jis yra pateikęs kompetentingai teisinei arba administracinei institucijai, notarui arba kompetentingai profesinei ar prekybos organizacijai savo kilmės šalyje arba šalyje, iš kurios jis atvyko, o šio straipsnio 2 dalies 1 punkte nurodytais atvejais, kai tiekėjas su kreditoriais nėra sudaręs taikos sutarties, sustabdęs ar apribojęs veiklos, šio straipsnio 2 dalies 2 punkte nurodytu atveju, kai nesiekiama priverstinio likvidavimo procedūros ar susitarimo su kreditoriais, ir šio straipsnio 2 dalies 4 punkte nurodytu atveju – ir laisvos formos tiekėjo deklaracija.“
 
 
 
@@ -530,7 +530,7 @@ Pakeisti 85 straipsnį ir jį išdėstyti taip:
 „85 straipsnis. Supaprastintų pirkimų atlikimo tvarka
 
 
-1. Perkančioji organizacija, išskyrus nurodytas [[#^s-427fc905ab7b152e86fcabf2|šio straipsnio 5 dalyje]], atlikdama supaprastintus pirkimus, privalo vadovautis šio įstatymo I skyriaus, 24 straipsnio 2 dalies 5 punkto, [[#^s-d57a313fac054846ea2c6a5d|27 straipsnio 1 dalies]], IV ir V skyrių reikalavimais (atlikdama mažos vertės pirkimus, neprivalo vadovautis šio įstatymo [[#^s-4de44d11d141a90a141d35ef|17 straipsnio]] 1, 2, 5, 7, 8 dalių, [[#^s-c8b186d23b56341ba2c66819|18 straipsnio]] 1, 2, 3, 4, 6 dalių, 24 straipsnio 2 dalies 5 punkto, [[#^s-d57a313fac054846ea2c6a5d|27 straipsnio 1 dalies]] reikalavimais). ^s-2b81e74f640fb1b50bdc297d
+1. Perkančioji organizacija, išskyrus nurodytas [[#^s-427fc905ab7b152e86fcabf2|šio straipsnio 5 dalyje]], atlikdama supaprastintus pirkimus, privalo vadovautis šio įstatymo I skyriaus, 24 straipsnio 2 dalies 5 punkto, [[#^s-d57a313fac054846ea2c6a5d|27 straipsnio 1 dalies]], IV ir V skyrių reikalavimais (atlikdama mažos vertės pirkimus, neprivalo vadovautis šio įstatymo [[#^s-4de44d11d141a90a141d35ef|17 straipsnio]] [[#^s-05f92cebae2aa5bd4bdc5452|1]], [[#^s-59770d24f8d68561691cbaa0|2]], 5, 7, 8 dalių, [[#^s-c8b186d23b56341ba2c66819|18 straipsnio]] [[#^s-d6bd48b8cb202ee060cb5e2f|1]], [[#^s-b411902a90e33b42fce4afe2|2]], 3, 4, 6 dalių, 24 straipsnio 2 dalies 5 punkto, [[#^s-d57a313fac054846ea2c6a5d|27 straipsnio 1 dalies]] reikalavimais). ^s-2b81e74f640fb1b50bdc297d
 
 
 2. Perkančioji organizacija, išskyrus nurodytas [[#^s-427fc905ab7b152e86fcabf2|šio straipsnio 5 dalyje]], supaprastintus pirkimus atlieka pagal pasitvirtintas taisykles, kurias ne vėliau kaip per 3 darbo dienas nuo jų patvirtinimo paskelbia šio įstatymo 86 straipsnio nustatyta tvarka Centrinėje viešųjų pirkimų informacinėje sistemoje ir savo tinklalapyje, jei toks yra, taip pat sudaro kitas galimybes tiekėjams susipažinti su šiomis taisyklėmis. ^s-aeee317a7feaaf47eec99900
@@ -596,7 +596,7 @@ Perkančioji organizacija, skelbdama apie supaprastintą pirkimą, privalo nusta
 ### 30 straipsnis. Baigiamosios nuostatos ^s-77bccf2fca20abafbbe073d8
 
 
-1. Perkančioji organizacija, nurodyta Viešųjų pirkimų įstatymo 4 straipsnio 1 dalies 4 punkte, teikdama 2009 kalendoriniais metais atliktų pirkimų ataskaitą, nurodo informaciją apie visus supaprastintus pirkimus, pradėtus iki šio įstatymo įsigaliojimo. ^s-10d2d46de642d983fb6bf080
+1. Perkančioji organizacija, nurodyta [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo 4 straipsnio 1 dalies 4 punkte]], teikdama 2009 kalendoriniais metais atliktų pirkimų ataskaitą, nurodo informaciją apie visus supaprastintus pirkimus, pradėtus iki šio įstatymo įsigaliojimo. ^s-10d2d46de642d983fb6bf080
 
 
 2. Įsigaliojus šiam įstatymui, iki jo įsigaliojimo pradėtų pirkimų procedūros tęsiamos pagal [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymo]] (Žin., 2006, Nr. 4-102; 2008, Nr. 81-3179) nuostatas. ^s-b822bef01e78392009ce3d37
@@ -616,13 +616,13 @@ Perkančioji organizacija, skelbdama apie supaprastintą pirkimą, privalo nusta
 ### 32 straipsnis. Įstatymo įsigaliojimas ^s-fc786edeacf766e5aa41277a
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-2d3886ebd289cfd8bb05384c|3 dalyse]] nurodytus įstatymo straipsnius, dalis ir nuostatas, įsigalioja 2009 m. rugsėjo 1 d. ^s-c1ec42ba77ee27542f805326
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-4649b10c7c8a3e385d3835ba|2]] ir [[#^s-2d3886ebd289cfd8bb05384c|3]] dalyse nurodytus įstatymo straipsnius, dalis ir nuostatas, įsigalioja 2009 m. rugsėjo 1 d. ^s-c1ec42ba77ee27542f805326
 
 
 2. Šio įstatymo [[#^s-b6fbf5e9764f5e6a9eb2154c|4 straipsnio 1 dalis]] įsigalioja 2010 m. sausio 1 d. ^s-4649b10c7c8a3e385d3835ba
 
 
-3. Šio įstatymo [[#^s-f858c8b898e7c4dde3c2cf0a|6 straipsnis]], [[#^s-6dd0c764cf90139f4941e632|12 straipsnio]] 1, 2, [[#^s-2d3886ebd289cfd8bb05384c|3 dalys]], [[#^s-e23976e2f82a78d53675382c|13 straipsnio 3 dalis]], [[#^s-517ce7ee4f1e6ef415049f07|15 straipsnio 1 dalis]], [[#^s-d57a313fac054846ea2c6a5d|27 straipsnio 1 dalies]] nuostata dėl nuorodos į „Valstybės žinių“ priedą „Informaciniai pranešimai“ panaikinimo, [[#^s-4649b10c7c8a3e385d3835ba|2 dalis]] ir [[#^s-5a662694b24e7c27f236c6a8|29 straipsnis]] įsigalioja 2011 m. sausio 1 d. ^s-2d3886ebd289cfd8bb05384c
+3. Šio įstatymo [[#^s-f858c8b898e7c4dde3c2cf0a|6 straipsnis]], [[#^s-6dd0c764cf90139f4941e632|12 straipsnio]] [[#^s-bb02aa1f90c6b98dd980b14d|1]], [[#^s-8d88089c295ea2a46fa45d1e|2]], [[#^s-ff0c1515b177ecff26bf1223|3]] dalys, [[#^s-e23976e2f82a78d53675382c|13 straipsnio 3 dalis]], [[#^s-517ce7ee4f1e6ef415049f07|15 straipsnio 1 dalis]], [[#^s-d57a313fac054846ea2c6a5d|27 straipsnio 1 dalies]] nuostata dėl nuorodos į „Valstybės žinių“ priedą „Informaciniai pranešimai“ panaikinimo, [[#^s-4649b10c7c8a3e385d3835ba|2 dalis]] ir [[#^s-5a662694b24e7c27f236c6a8|29 straipsnis]] įsigalioja 2011 m. sausio 1 d. ^s-2d3886ebd289cfd8bb05384c
 
 
 

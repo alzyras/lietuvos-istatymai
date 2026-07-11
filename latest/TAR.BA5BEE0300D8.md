@@ -60,7 +60,7 @@ Rinkimų sistema
 Deputatais į Lietuvos Respublikos Seimą, taip pat savivaldybių tarybas renkami Lietuvos Respublikos piliečiai, remiantis visuotine ir lygia rinkimų teise, tiesioginiuose rinkimuose slaptu balsavimu.
 
 
-Seimo deputatų rinkimo tvarką nustato Seimo rinkimų įstatymas.
+Seimo deputatų rinkimo tvarką nustato [Seimo rinkimų įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E).
 
 
 

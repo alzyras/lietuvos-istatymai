@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ir Protokolo ratifikavimas ^s-32d5173271b766ecd2b5de51
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. vasario 21 d. dekretą Nr. 534, ratifikuoja Europos Sąjungos ir Jungtinių Amerikos Valstijų susitarimą dėl savitarpio teisinės pagalbos, sudarytą 2003 m. birželio 25 d. Vašingtone, ir Protokolą dėl Europos Sąjungos ir Jungtinių Amerikos Valstijų susitarimo dėl savitarpio teisinės pagalbos taikymo Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutarčiai dėl savitarpio teisinės pagalbos baudžiamosiose bylose, sudarytą 2005 m. birželio 15 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. vasario 21 d. dekretą Nr. 534](https://e-tar.lt/portal/lt/legalAct/TAR.01BE670577EB), ratifikuoja Europos Sąjungos ir Jungtinių Amerikos Valstijų susitarimą dėl savitarpio teisinės pagalbos, sudarytą 2003 m. birželio 25 d. Vašingtone, ir Protokolą dėl Europos Sąjungos ir Jungtinių Amerikos Valstijų susitarimo dėl savitarpio teisinės pagalbos taikymo Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutarčiai dėl savitarpio teisinės pagalbos baudžiamosiose bylose, sudarytą 2005 m. birželio 15 d. Briuselyje.
 
 
 

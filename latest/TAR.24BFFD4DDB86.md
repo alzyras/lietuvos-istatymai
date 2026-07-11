@@ -45,7 +45,7 @@ Vilnius
 „2. Lošimo įrenginys – lošimo automatas, taip pat kitas elektroninis arba mechaninis prietaisas, sukurtas ir pagamintas lošimo tikslais, kurį naudojant atsitiktinai laimimi arba pralaimimi pinigai.“
 
 
-2. 2 straipsnio 3 dalį papildyti 1 ir [[#^s-50066ed30a8721750dae79db|2 punktais]] ir šią dalį išdėstyti taip: ^s-a84d984b6ca44321d2fd50c6
+2. 2 straipsnio 3 dalį papildyti 1 ir 2 punktais ir šią dalį išdėstyti taip: ^s-a84d984b6ca44321d2fd50c6
 
 
 „3. Lošimo automatas (toliau – automatas) – elektroninis prietaisas, sukurtas ir pagamintas lošimo tikslais, kurį naudojant atsitiktinai laimimi arba pralaimimi pinigai:

@@ -150,7 +150,7 @@ Miškų skirstymo į grupes tvarką nustato, o kitus miškus nustatytoms grupėm
 ### 4 straipsnis. 7 straipsnio pakeitimas ^s-35d9de985e2092cc537d386b
 
 
-[[#^s-a9bb98cfdd220d2d7424d72e|7 straipsnio]] 1 ir 2 dalyse vietoj žodžių „Miškų ūkio ministerija“, „Miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerija“, „Aplinkos ministerijos“, 6 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
+[[#^s-a9bb98cfdd220d2d7424d72e|7 straipsnio]] [[#^s-2a3e754d2bb2184d9b033373|1]] ir [[#^s-5fe40c28c80a8efc0ff17dcc|2]] dalyse vietoj žodžių „Miškų ūkio ministerija“, „Miškų ūkio ministerijos“ įrašyti žodžius „Aplinkos ministerija“, „Aplinkos ministerijos“, 6 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-a9bb98cfdd220d2d7424d72e|7 straipsnis]]. Valstybinis miškų valdymas ir [[latest/TAR.5D6D055CC00C|Miškų įstatymo]] vykdymo priežiūra

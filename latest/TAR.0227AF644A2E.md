@@ -91,7 +91,7 @@ Pakeisti Lietuvos Respublikos viešųjų įstaigų įstatymą ir jį išdėstyti
 4) užtikrinti kitų asmenų prievolių įvykdymą. ^s-f949466070d3c9332625bc35
 
 
-3. [[#^s-fbe7e442e367f490018972d3|Šio straipsnio 2 dalies]] 2 ir [[#^s-ab0495da0892a19352fac8a8|3 punktuose]] nurodytas su dalininku susijęs asmuo yra: ^s-f3ddc39d9b190267d9427f02
+3. [[#^s-fbe7e442e367f490018972d3|Šio straipsnio 2 dalies]] [[#^s-0b9b562d5050884efe0868d0|2]] ir [[#^s-ab0495da0892a19352fac8a8|3]] punktuose nurodytas su dalininku susijęs asmuo yra: ^s-f3ddc39d9b190267d9427f02
 
 
 1) dalininko fizinio asmens artimasis giminaitis, sutuoktinis, sutuoktinio artimasis giminaitis, dalininko sugyventinis, kai partnerystė įregistruota įstatymų nustatyta tvarka; ^s-d2988c4ff6668a0366c6251c
@@ -100,7 +100,7 @@ Pakeisti Lietuvos Respublikos viešųjų įstaigų įstatymą ir jį išdėstyti
 2) juridinis asmuo, kuris turi daugiau kaip pusę balsų viešosios įstaigos dalininko juridinio asmens dalyvių susirinkime; ^s-0b9b562d5050884efe0868d0
 
 
-3) juridinis asmuo, kurio dalyvių susirinkime daugiau kaip pusę balsų turi viešosios įstaigos dalininkas, šios dalies 1 ir [[#^s-0b9b562d5050884efe0868d0|2 punktuose]] nurodyti asmenys atskirai ar kartu. ^s-ab0495da0892a19352fac8a8
+3) juridinis asmuo, kurio dalyvių susirinkime daugiau kaip pusę balsų turi viešosios įstaigos dalininkas, šios dalies [[#^s-d2988c4ff6668a0366c6251c|1]] ir [[#^s-0b9b562d5050884efe0868d0|2]] punktuose nurodyti asmenys atskirai ar kartu. ^s-ab0495da0892a19352fac8a8
 
 
 4. Viešoji įstaiga turi teisę verstis įstatymų nedraudžiama ūkine komercine veikla, kuri yra neatsiejamai susijusi su jos veiklos tikslais. ^s-6dd7659c2162a3e42fbed8f8
@@ -535,7 +535,7 @@ Pakeisti Lietuvos Respublikos viešųjų įstaigų įstatymą ir jį išdėstyti
 3. Apie parengtas reorganizavimo sąlygas turi būti paskelbta visų reorganizavime dalyvaujančių viešųjų įstaigų įstatuose nurodytuose leidiniuose tris kartus ne mažesniais kaip trisdešimties dienų intervalais arba paskelbta vieną kartą ne vėliau kaip prieš trisdešimt dienų iki visuotinio dalininkų susirinkimo, kurio darbotvarkėje numatyta priimti sprendimą dėl reorganizavimo, ir pranešta raštu visiems viešosios įstaigos kreditoriams. Pranešime turi būti nurodyta: ^s-7b22e3d5b017955a730afd84
 
 
-1) [[#^s-d4890c30c19c6fac76a9cc7e|šio straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodyta informacija; ^s-f329b0ec760e2e4cc57bc222
+1) [[#^s-d4890c30c19c6fac76a9cc7e|šio straipsnio 2 dalies]] 1, [[#^s-4f861083144c9607175f7d9c|2]] ir 4 punktuose nurodyta informacija; ^s-f329b0ec760e2e4cc57bc222
 
 
 2) kur ir nuo kada galima susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių viešųjų įstaigų įstatų projektais ir reorganizavime dalyvaujančių viešųjų įstaigų praėjusių trejų finansinių metų metinėmis finansinėmis atskaitomybėmis. ^s-4f861083144c9607175f7d9c

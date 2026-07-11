@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9E28E8E2F3F3#^s-49bd5e60840daf8169a148c5|Lietuvos Respublikos turto arešto aktų registro įstatymas]] - 2 citatos - TURTO AREŠTO AKTŲ REGISTRO ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.9E28E8E2F3F3#^s-80c22cdac7d69de42cc7c628|Lietuvos Respublikos turto arešto aktų registro įstatymas]] - 2 citatos - TURTO AREŠTO AKTŲ REGISTRO ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.9E28E8E2F3F3#^s-49bd5e60840daf8169a148c5|Lietuvos Respublikos turto arešto aktų registro įstatymas]] - TURTO AREŠTO AKTŲ REGISTRO ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS

@@ -10,8 +10,8 @@ pavadinimas: "Lietuvos Respublikos mokesčių administravimo įstatymo 2, 12, 13
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Administracinių bylų teisenos įstatymo
+- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - įstatymo Nr. IX-2112
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.3EB34933E485#^s-165a514f5b02ec3454d3a4c4|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Įstatymas Nr. X-1249
-- [[latest/TAR.3EB34933E485#^s-471ad9654ded2e34c0e8a829|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Įstatymas Nr. X-1249
+_Nėra._

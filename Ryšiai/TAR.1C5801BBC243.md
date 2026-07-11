@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos standartizacijos įstatymo pakeitimo įstatym
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.2F1D65EFB0C9|Lietuvos Respublikos standartizacijos įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS STANDARTIZACIJOS ĮSTATYMAS
+_Nėra._
 
 ## Šį įstatymą cituoja
 

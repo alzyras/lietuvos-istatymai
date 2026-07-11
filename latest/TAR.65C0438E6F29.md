@@ -507,7 +507,7 @@ DIDMENINĖS IR MAŽMENINĖS PREKYBOS ALKOHOLIO PRODUKTAIS VALSTYBINIS REGLAMENTA
 4) alkoholiniais gėrimais, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, – masiniuose renginiuose, parodose ir mugėse. ^s-8f9f3d6c56d19ac5d16a45f0
 
 
-2. Prekiauti alkoholiniais gėrimais prekybos ir viešojo maitinimo įmonėse, įrengtose daugiabučiuose gyvenamuosiuose namuose, leidžiama [[latest/TAR.0EC89509170B|Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo]] ir Lietuvos Respublikos Seimo 1995 m. vasario 23 d. nutarimo Nr. I-808 „Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo įgyvendinimo“ nustatyta tvarka. ^s-490bedef8e6f674007707478
+2. Prekiauti alkoholiniais gėrimais prekybos ir viešojo maitinimo įmonėse, įrengtose daugiabučiuose gyvenamuosiuose namuose, leidžiama [[latest/TAR.0EC89509170B|Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo]] ir Lietuvos Respublikos Seimo [1995 m. vasario 23 d. nutarimo Nr. I-808](https://e-tar.lt/portal/lt/legalAct/TAR.F64EB328E72C) [„Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo įgyvendinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.F64EB328E72C) nustatyta tvarka. ^s-490bedef8e6f674007707478
 
 
 3. Lietuvos Respublikoje prekiauti alkoholiniais gėrimais draudžiama: ^s-6acd4f42a36a3fd6e4741510
@@ -528,7 +528,7 @@ DIDMENINĖS IR MAŽMENINĖS PREKYBOS ALKOHOLIO PRODUKTAIS VALSTYBINIS REGLAMENTA
 5) asmenims, jaunesniems kaip 18 metų; ^s-461f7e01b4429e72827ab582
 
 
-6) nestacionariose mažmeninės prekybos ir viešojo maitinimo įmonėse. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, parodose bei mugėse, vykstančiose stacionariuose pastatuose, taip pat [[#^s-aa0f93acd9b9ae4796180952|šio straipsnio 1 dalies]] 2–[[#^s-8027abdba87af5cfd383275a|4 punktuose]] nurodytais atvejais; ^s-394915178a5e45e8bb4a9fd0
+6) nestacionariose mažmeninės prekybos ir viešojo maitinimo įmonėse. Šis draudimas netaikomas alkoholiniams gėrimams, parduodamiems tarptautinio susisiekimo traukiniuose, siaurojo geležinkelio traukiniuose ir laivuose, kuriuose yra atskirai įrengtos viešojo maitinimo vietos, parodose bei mugėse, vykstančiose stacionariuose pastatuose, taip pat [[#^s-aa0f93acd9b9ae4796180952|šio straipsnio 1 dalies]] [[#^s-3b7ecad579ffc07a62bb9ac0|2]]–[[#^s-8027abdba87af5cfd383275a|4]] punktuose nurodytais atvejais; ^s-394915178a5e45e8bb4a9fd0
 
 
 7) mažmeninės prekybos, viešojo maitinimo įmonėse ir kioskuose, įrengtuose didmeninės prekybos įmonių bei importuotojų sandėliuose, kuriuose verčiamasi didmenine prekyba alkoholiniais gėrimais; ^s-dbc25d5a65f6e44248aa6221
@@ -682,7 +682,7 @@ PIKTNAUDŽIAVIMO ALKOHOLIU RIBOJIMAS
 ### 27 straipsnis. Narkologinės priežiūros organizavimas ^s-f239cbd81b45ac7b769353dd
 
 
-1. Narkologinė priežiūra atliekama Lietuvos Respublikos narkologinės priežiūros įstatymo, kitų įstatymų ir teisės aktų nustatyta tvarka. ^s-31b03bec257d8bd523e7a50b
+1. Narkologinė priežiūra atliekama [Lietuvos Respublikos narkologinės priežiūros įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.39D96F1C8B69), kitų įstatymų ir teisės aktų nustatyta tvarka. ^s-31b03bec257d8bd523e7a50b
 
 
 2. Asmenys, apsinuodiję alkoholiu, gali būti įstatymų ir kitų teisės aktų nustatyta tvarka detoksikuojami asmens sveikatos priežiūros įstaigose. Šiuos asmenis policija gali priverstinai pristatyti į asmens sveikatos priežiūros įstaigas tik tuo atveju, kai jie savo veiksmais (ar neveikimu) gali padaryti esminės žalos savo ar aplinkinių sveikatai, gyvybei. ^s-42bb01d19b36d895d1eedde6
@@ -845,7 +845,7 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA IR BYLŲ NAGRINĖJIMO
 1. Fiziniams asmenims už šio Įstatymo pažeidimus taikoma įstatymų nustatyta administracinė atsakomybė. ^s-cc59c35fd27e1a1c55769cb3
 
 
-2. Lietuvos Respublikoje parduodami, laikomi, gabenami kontrabandiniai, falsifikuoti alkoholio produktai, alkoholiniai gėrimai be specialių ženklų – banderolių, taip pat alkoholio produktai, kurie neatitinka Lietuvos Respublikoje galiojančių kokybės reikalavimų ar kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais, Lietuvos Respublikos administracinių teisės pažeidimų kodekso (toliau – Administracinių teisės pažeidimų kodeksas) nustatyta tvarka konfiskuojami. ^s-ee3f5960b054fe24b95c10e5
+2. Lietuvos Respublikoje parduodami, laikomi, gabenami kontrabandiniai, falsifikuoti alkoholio produktai, alkoholiniai gėrimai be specialių ženklų – banderolių, taip pat alkoholio produktai, kurie neatitinka Lietuvos Respublikoje galiojančių kokybės reikalavimų ar kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais, [Lietuvos Respublikos administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) (toliau – [Administracinių teisės pažeidimų kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492)) nustatyta tvarka konfiskuojami. ^s-ee3f5960b054fe24b95c10e5
 
 
 3. Konfiskuoti alkoholio produktai sunaikinami arba panaudojami biodegalų gamybai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. ^s-fd9035b243774b1a2ef03d64
@@ -858,10 +858,10 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA IR BYLŲ NAGRINĖJIMO
 1. Už šio Įstatymo pažeidimus baudas juridiniams asmenims ir užsienio juridinių asmenų filialams bei atstovybėms pagal savo kompetenciją turi teisę skirti Tarnyba, Nacionalinė vartotojų teisių apsaugos taryba, Valstybinė maisto ir veterinarijos tarnyba, Valstybinė mokesčių inspekcija prie Finansų ministerijos (toliau – Valstybinė mokesčių inspekcija), teritorinės valstybinės mokesčių inspekcijos, institucija, Lietuvos Respublikos Vyriausybės įgaliota išduoti vyno produktų ir žemės ūkio kilmės etilo alkoholio importo ir eksporto licencijas, Lietuvos Respublikos Vyriausybės įgaliota institucija, kuri turi būti informuojama apie alkoholio produktų (išskyrus vyno produktus ir žemės ūkio kilmės etilo alkoholį) importą, savivaldybių institucijos ir policija. ^s-1cfc95cd1cd3b7f15f59082b
 
 
-2. Už alkoholio produktų, neatitinkančių Lietuvos Respublikoje galiojančių saugos ar kokybės reikalavimų, gaminimą ir pardavimą, vyno produktų ir žemės ūkio kilmės etilo alkoholio importą ir eksportą, alkoholio produktų gaminimą, laikymą, gabenimą ir pardavimą neturint šiai veiklai atitinkamos licencijos, alkoholio produktų (išskyrus vyno produktus ir žemės ūkio kilmės etilo alkoholį) importą, jei neinformuojama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Lietuvos Respublikos Vyriausybės įgaliota institucija, taip pat už šio Įstatymo [[#^s-6ed0ca3d68ee18867a3f9041|17 straipsnio]] 1, 2, 5–[[#^s-c1f155fd257303b5869ddb1b|11 dalyse]] nustatytų alkoholio produktų pardavimo, laikymo, gabenimo reikalavimų nesilaikymą juridiniai asmenys ir užsienio juridinių asmenų filialai bei atstovybės baudžiami nuo vieno tūkstančio litų iki aštuoniasdešimties tūkstančių litų bauda. ^s-6451b7048e146f7419aa7b06
+2. Už alkoholio produktų, neatitinkančių Lietuvos Respublikoje galiojančių saugos ar kokybės reikalavimų, gaminimą ir pardavimą, vyno produktų ir žemės ūkio kilmės etilo alkoholio importą ir eksportą, alkoholio produktų gaminimą, laikymą, gabenimą ir pardavimą neturint šiai veiklai atitinkamos licencijos, alkoholio produktų (išskyrus vyno produktus ir žemės ūkio kilmės etilo alkoholį) importą, jei neinformuojama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Lietuvos Respublikos Vyriausybės įgaliota institucija, taip pat už šio Įstatymo [[#^s-6ed0ca3d68ee18867a3f9041|17 straipsnio]] [[#^s-417edaf61a179e6199af2b03|1]], [[#^s-22f72d8acaf3e49cf2807949|2]], [[#^s-4aae9e20ba031d4cb7085efd|5]]–[[#^s-fbc98c9c2171699036704290|11]] dalyse nustatytų alkoholio produktų pardavimo, laikymo, gabenimo reikalavimų nesilaikymą juridiniai asmenys ir užsienio juridinių asmenų filialai bei atstovybės baudžiami nuo vieno tūkstančio litų iki aštuoniasdešimties tūkstančių litų bauda. ^s-6451b7048e146f7419aa7b06
 
 
-3. Už šio Įstatymo [[#^s-c6e2859da2c15512146cef7f|18 straipsnio]] 1, [[#^s-0f5c01cbfbb5605cab719119|3 dalyse]] ir [[#^s-e4523a88561db92f9b1e39b0|4 dalies]] 1, 2 punktuose nustatytų reikalavimų nesilaikymą įmonės baudžiamos nuo penkių šimtų litų iki dviejų tūkstančių litų bauda, o už šių reikalavimų pažeidimą, padarytą pakartotinai per penkerius metus nuo baudos paskyrimo, – nuo dviejų tūkstančių litų iki penkių tūkstančių litų bauda. ^s-0f5c01cbfbb5605cab719119
+3. Už šio Įstatymo [[#^s-c6e2859da2c15512146cef7f|18 straipsnio]] [[#^s-aa0f93acd9b9ae4796180952|1]], [[#^s-6acd4f42a36a3fd6e4741510|3]] dalyse ir [[#^s-e4523a88561db92f9b1e39b0|4 dalies]] [[#^s-98350a4aed019803ca238e92|1]], [[#^s-3b7ecad579ffc07a62bb9ac0|2]] punktuose nustatytų reikalavimų nesilaikymą įmonės baudžiamos nuo penkių šimtų litų iki dviejų tūkstančių litų bauda, o už šių reikalavimų pažeidimą, padarytą pakartotinai per penkerius metus nuo baudos paskyrimo, – nuo dviejų tūkstančių litų iki penkių tūkstančių litų bauda. ^s-0f5c01cbfbb5605cab719119
 
 
 4. Už šio Įstatymo [[#^s-25827076f61384b8a0ab4fd1|18 straipsnio 4 dalies 3 punkto]] reikalavimo nesilaikymą įmonės baudžiamos nuo vieno tūkstančio litų iki trijų tūkstančių litų bauda. ^s-e4523a88561db92f9b1e39b0
@@ -873,7 +873,7 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA IR BYLŲ NAGRINĖJIMO
 6. Už šio Įstatymo [[#^s-cd5e7fd0aee1fe3572af86a5|29 straipsnio]] reikalavimų nesilaikymą juridiniai asmenys ir užsienio juridinių asmenų filialai bei atstovybės baudžiami nuo vieno tūkstančio litų iki dešimties tūkstančių litų bauda, už kiekvieną to paties reikalavimo pakartotinį pažeidimą, padarytą per penkerius metus nuo baudos paskyrimo, – nuo dešimties tūkstančių litų iki dvidešimties tūkstančių litų bauda. ^s-6e1897a9834851884247b8b6
 
 
-7. Konkretus skiriamos baudos dydis nustatomas atsižvelgiant į šio straipsnio 8 ir [[#^s-260ddcd7a8bb71e575cb3e91|9 dalyse]] nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas institucijos, skiriančios baudą už šiame Įstatyme nustatytų reikalavimų nesilaikymą, nutarime. ^s-a02e9daa25a7c5a6644437e0
+7. Konkretus skiriamos baudos dydis nustatomas atsižvelgiant į šio straipsnio [[#^s-aba1aac19388cbe043f5e443|8]] ir [[#^s-260ddcd7a8bb71e575cb3e91|9]] dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas institucijos, skiriančios baudą už šiame Įstatyme nustatytų reikalavimų nesilaikymą, nutarime. ^s-a02e9daa25a7c5a6644437e0
 
 
 8. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad padarę pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai bei atstovybės savo noru užkirto kelią žalingoms pažeidimo pasekmėms, padėjo kompetentingoms institucijoms tyrimo metu, atlygino nuostolius ar pašalino padarytą žalą. Skirianti baudą institucija gali pripažinti atsakomybę lengvinančiomis aplinkybėmis ir kitas šioje dalyje nenurodytas aplinkybes. ^s-aba1aac19388cbe043f5e443
@@ -882,13 +882,13 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA IR BYLŲ NAGRINĖJIMO
 9. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad padarę pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai bei atstovybės kliudė vykdyti tyrimą, slėpė padarytą pažeidimą, toliau pažeidinėjo šio Įstatymo reikalavimus nepaisydami kompetentingos institucijos nurodymo nutraukti neteisėtus veiksmus. ^s-260ddcd7a8bb71e575cb3e91
 
 
-10. Baudas už alkoholio produktų, neatitinkančių saugos ir kokybės reikalavimų, gamybą ir realizavimą, šio Įstatymo [[#^s-417edaf61a179e6199af2b03|17 straipsnio 1 dalies]] 1, 4, 5, 6 punktuose, [[#^s-6451b7048e146f7419aa7b06|2 dalies]] 1, 4, 5 punktuose nustatytų reikalavimų nesilaikymą skiria Valstybinė maisto ir veterinarijos tarnyba. ^s-a9174064c36d5bdf5b8588c8
+10. Baudas už alkoholio produktų, neatitinkančių saugos ir kokybės reikalavimų, gamybą ir realizavimą, šio Įstatymo [[#^s-417edaf61a179e6199af2b03|17 straipsnio 1 dalies]] [[#^s-56ec5c23a9c23c18ed0cadfd|1]], [[#^s-6d4d24f9b3e9c807be88eaa7|4]], [[#^s-260bb6dc591e2fe32f60dd06|5]], [[#^s-c24dbca5cbd2cb5804e42425|6]] punktuose, [[#^s-6451b7048e146f7419aa7b06|2 dalies]] [[#^s-56ec5c23a9c23c18ed0cadfd|1]], [[#^s-6d4d24f9b3e9c807be88eaa7|4]], [[#^s-260bb6dc591e2fe32f60dd06|5]] punktuose nustatytų reikalavimų nesilaikymą skiria Valstybinė maisto ir veterinarijos tarnyba. ^s-a9174064c36d5bdf5b8588c8
 
 
-11. Baudas už šio Įstatymo [[#^s-417edaf61a179e6199af2b03|17 straipsnio 1 dalies]] 2, 3, 7–11 punktuose, [[#^s-6451b7048e146f7419aa7b06|2 dalies]] 2, 3, 6–9 punktuose, 5–[[#^s-c1f155fd257303b5869ddb1b|11 dalyse]], [[#^s-c6e2859da2c15512146cef7f|18 straipsnio]] 1, 3 ir [[#^s-e4523a88561db92f9b1e39b0|4 dalyse]] nustatytų reikalavimų nesilaikymą skiria Tarnyba ir policija. Policijos vardu skirti baudas turi teisę policijos įstaigų vadovai ar jų įgalioti asmenys. ^s-c1f155fd257303b5869ddb1b
+11. Baudas už šio Įstatymo [[#^s-417edaf61a179e6199af2b03|17 straipsnio 1 dalies]] [[#^s-81856ca65ae09cd9bfe94afe|2]], [[#^s-f54f82e6211b96acc12f90c1|3]], [[#^s-d2bf73eb2c868d684ba749e8|7]]–[[#^s-8c14c4462a53ed54cf6b6fd7|11]] punktuose, [[#^s-6451b7048e146f7419aa7b06|2 dalies]] [[#^s-81856ca65ae09cd9bfe94afe|2]], [[#^s-f54f82e6211b96acc12f90c1|3]], [[#^s-c24dbca5cbd2cb5804e42425|6]]–[[#^s-9403f33c7bac8a10b09e377c|9]] punktuose, [[#^s-4aae9e20ba031d4cb7085efd|5]]–[[#^s-fbc98c9c2171699036704290|11]] dalyse, [[#^s-c6e2859da2c15512146cef7f|18 straipsnio]] [[#^s-aa0f93acd9b9ae4796180952|1]], [[#^s-6acd4f42a36a3fd6e4741510|3]] ir [[#^s-e86b5759316d6edab0d6367c|4]] dalyse nustatytų reikalavimų nesilaikymą skiria Tarnyba ir policija. Policijos vardu skirti baudas turi teisę policijos įstaigų vadovai ar jų įgalioti asmenys. ^s-c1f155fd257303b5869ddb1b
 
 
-12. Baudas už šio Įstatymo [[#^s-417edaf61a179e6199af2b03|17 straipsnio 1 dalies]] 2, 3, 7, 9–11 punktuose, [[#^s-6451b7048e146f7419aa7b06|2 dalies]] 2, 3, 6, 8, 9 punktuose, 5–[[#^s-c1f155fd257303b5869ddb1b|11 dalyse]], [[#^s-aa0f93acd9b9ae4796180952|18 straipsnio 1 dalyje]], [[#^s-0f5c01cbfbb5605cab719119|3 dalies]] 6–8 punktuose, 4 dalies 1 punkte nustatytų reikalavimų nesilaikymą skiria Valstybinė mokesčių inspekcija bei teritorinės valstybinės mokesčių inspekcijos. ^s-cce8c342a28828692e465b4b
+12. Baudas už šio Įstatymo [[#^s-417edaf61a179e6199af2b03|17 straipsnio 1 dalies]] [[#^s-81856ca65ae09cd9bfe94afe|2]], [[#^s-f54f82e6211b96acc12f90c1|3]], [[#^s-d2bf73eb2c868d684ba749e8|7]], [[#^s-9403f33c7bac8a10b09e377c|9]]–[[#^s-8c14c4462a53ed54cf6b6fd7|11]] punktuose, [[#^s-6451b7048e146f7419aa7b06|2 dalies]] [[#^s-81856ca65ae09cd9bfe94afe|2]], [[#^s-f54f82e6211b96acc12f90c1|3]], [[#^s-c24dbca5cbd2cb5804e42425|6]], [[#^s-62c8efe74bdcb7ab09e9751d|8]], [[#^s-9403f33c7bac8a10b09e377c|9]] punktuose, [[#^s-4aae9e20ba031d4cb7085efd|5]]–[[#^s-fbc98c9c2171699036704290|11]] dalyse, [[#^s-aa0f93acd9b9ae4796180952|18 straipsnio 1 dalyje]], [[#^s-0f5c01cbfbb5605cab719119|3 dalies]] 6–8 punktuose, 4 dalies 1 punkte nustatytų reikalavimų nesilaikymą skiria Valstybinė mokesčių inspekcija bei teritorinės valstybinės mokesčių inspekcijos. ^s-cce8c342a28828692e465b4b
 
 
 13. Baudas už alkoholio produktų gamybą neturint šiai veiklai reikalingos licencijos, už šio Įstatymo [[#^s-c24dbca5cbd2cb5804e42425|17 straipsnio 1 dalies 6 punkte]], 2 dalies 5 punkte ir [[#^s-262f75df1dc80121c4806536|28 straipsnyje]] nustatytų reikalavimų nesilaikymą skiria Tarnyba. ^s-bbbce7f2c7d5adb6db0f0ed9
@@ -903,7 +903,7 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA IR BYLŲ NAGRINĖJIMO
 16. Baudas už alkoholio produktų (išskyrus vyno produktus ir žemės ūkio kilmės etilo alkoholį) importą, jei neinformuojama Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka Lietuvos Respublikos Vyriausybės įgaliota institucija, skiria institucija, kuri turi būti informuojama apie šių alkoholio produktų importą. ^s-f30c7c6129c7606644966306
 
 
-17. Įmonėms, turinčioms licencijas verstis didmenine ar mažmenine prekyba alkoholio produktais ir nesilaikančioms šio Įstatymo [[#^s-417edaf61a179e6199af2b03|17 straipsnio 1 dalies]] 1, 2, 4, 5, 8, 9 punktų, [[#^s-6451b7048e146f7419aa7b06|2 dalies]] 1, 2, 4, 7 punktų reikalavimų, licencijų galiojimas panaikinamas ir naujos licencijos neišduodamos 5 metus nuo licencijų galiojimo panaikinimo dienos. ^s-53e72d61054c334464066a88
+17. Įmonėms, turinčioms licencijas verstis didmenine ar mažmenine prekyba alkoholio produktais ir nesilaikančioms šio Įstatymo [[#^s-417edaf61a179e6199af2b03|17 straipsnio 1 dalies]] [[#^s-56ec5c23a9c23c18ed0cadfd|1]], [[#^s-81856ca65ae09cd9bfe94afe|2]], [[#^s-6d4d24f9b3e9c807be88eaa7|4]], [[#^s-260bb6dc591e2fe32f60dd06|5]], [[#^s-62c8efe74bdcb7ab09e9751d|8]], [[#^s-9403f33c7bac8a10b09e377c|9]] punktų, [[#^s-6451b7048e146f7419aa7b06|2 dalies]] [[#^s-56ec5c23a9c23c18ed0cadfd|1]], [[#^s-81856ca65ae09cd9bfe94afe|2]], [[#^s-6d4d24f9b3e9c807be88eaa7|4]], [[#^s-d2bf73eb2c868d684ba749e8|7]] punktų reikalavimų, licencijų galiojimas panaikinamas ir naujos licencijos neišduodamos 5 metus nuo licencijų galiojimo panaikinimo dienos. ^s-53e72d61054c334464066a88
 
 
 18. Įmonėms licencijų galiojimas panaikinamas ir pakartotinai licencijos neišduodamos, jeigu joms arba jų administracijos vadovams ar kitiems darbuotojams (jeigu jie veikė įmonės vardu ar dėl jos interesų) yra įsiteisėjęs apkaltinamasis teismo nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs muitinės, mokesčių inspekcijos, policijos ar Tarnybos nutarimas dėl bausmės ar nuobaudos skyrimo už alkoholio produktų kontrabandą, alkoholinių gėrimų be banderolių neteisėtą laikymą, gabenimą ar pardavimą, taip pat falsifikuotų alkoholio produktų pardavimą, gabenimą ar laikymą. ^s-874275930814b7b94849f5e7
@@ -915,14 +915,14 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA IR BYLŲ NAGRINĖJIMO
 20. Įmonėms, prekiaujančioms alkoholiniais gėrimais masiniuose renginiuose, parodose ir mugėse ir pažeidusioms šio Įstatymo [[#^s-25827076f61384b8a0ab4fd1|18 straipsnio 4 dalies 3 punkto]] reikalavimą, vienerius metus nuo pažeidimo nustatymo dienos neišduodama vienkartinė licencija verstis mažmenine prekyba alkoholiniais gėrimais masiniuose renginiuose, parodose ir mugėse, rengiamuose toje savivaldybėje, kurioje nustatytas pažeidimas. ^s-8a7028ebeeefb77855fc6ce7
 
 
-21. Licencijų panaikinimas neatleidžia įmonių nuo šio straipsnio 2, 3, 4, 5 ir [[#^s-6e1897a9834851884247b8b6|6 dalyse]] nustatytų ir įmonėms skirtų piniginių baudų mokėjimo. ^s-3446a3b27d2070d5644f7fdc
+21. Licencijų panaikinimas neatleidžia įmonių nuo šio straipsnio [[#^s-6451b7048e146f7419aa7b06|2]], [[#^s-0f5c01cbfbb5605cab719119|3]], [[#^s-e4523a88561db92f9b1e39b0|4]], [[#^s-a2362925bad8fdb86d4a9dc2|5]] ir [[#^s-6e1897a9834851884247b8b6|6]] dalyse nustatytų ir įmonėms skirtų piniginių baudų mokėjimo. ^s-3446a3b27d2070d5644f7fdc
 
 
 
 ### 35 straipsnis. Įstatymo pažeidimų protokolas ir bylų nagrinėjimo terminai ^s-3b98e1822a9f8f8118da3acf
 
 
-1. Šio Įstatymo [[#^s-1cfc95cd1cd3b7f15f59082b|34 straipsnio 1 dalyje]] nurodytų kontrolės institucijų tam įgalioti darbuotojai (pareigūnai), nustatę, kad šio Įstatymo reikalavimai pažeisti, surašo Administracinių teisės pažeidimų kodekse nustatyto turinio protokolą. ^s-93242a56c7ceeaf994f1097c
+1. Šio Įstatymo [[#^s-1cfc95cd1cd3b7f15f59082b|34 straipsnio 1 dalyje]] nurodytų kontrolės institucijų tam įgalioti darbuotojai (pareigūnai), nustatę, kad šio Įstatymo reikalavimai pažeisti, surašo [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyto turinio protokolą. ^s-93242a56c7ceeaf994f1097c
 
 
 2. Šio Įstatymo [[#^s-1cfc95cd1cd3b7f15f59082b|34 straipsnio 1 dalyje]] nurodytos institucijos bylas nagrinėja ir baudas skiria ne vėliau kaip per mėnesį nuo pažeidimo nustatymo dienos. ^s-8443254c7a8e63b1cba114e6
@@ -1005,7 +1005,7 @@ Proceso šalims raštu pranešama apie nustatytus šio Įstatymo pažeidimus, by
 1. Bauda turi būti sumokama į valstybės biudžetą, o tais atvejais, kai baudas skiria savivaldybių vykdomosios institucijos, į baudą paskyrusios savivaldybės biudžetą ne vėliau kaip per vieną mėnesį nuo dienos, kai šio Įstatymo pažeidėjams įteiktas nutarimas paskirti baudą. ^s-412c9d06af96608163f333ae
 
 
-2. Nesumokėtas baudas išieško antstoliai vykdydami pateiktus šio Įstatymo [[#^s-c1b46798f47bf7e4bec7dded|39 straipsnyje]] nurodytus institucijų nutarimus Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Nutarimai gali būti pateikiami vykdyti ne vėliau kaip per 3 metus nuo jų priėmimo dienos. ^s-2c6623738cdf973821d775d9
+2. Nesumokėtas baudas išieško antstoliai vykdydami pateiktus šio Įstatymo [[#^s-c1b46798f47bf7e4bec7dded|39 straipsnyje]] nurodytus institucijų nutarimus [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Nutarimai gali būti pateikiami vykdyti ne vėliau kaip per 3 metus nuo jų priėmimo dienos. ^s-2c6623738cdf973821d775d9
 
 
 
@@ -1040,19 +1040,19 @@ EUROPOS SĄJUNGOS TEISĖS AKTAI, SU KURIAIS SUDERINTAS [[latest/TAR.9E5C5C16B6E6
 1) 1989 m. spalio 3 d. Tarybos direktyva 89/552/EEB dėl kai kurių valstybių narių įstatymuose ir kituose teisės aktuose išdėstytų nuostatų, susijusių su televizijos programų transliavimu, suderinimo (su paskutiniais pakeitimais, padarytais 1997 m. birželio 30 d. Europos Parlamento ir Tarybos direktyva 97/36/EB); ^s-f03de0925704d237556c9c4f
 
 
-2) 1989 m. gegužės 29 d. Tarybos reglamentas (EEB) Nr. 1576/1989, nustatantis bendrąsias taisykles dėl spiritinių gėrimų apibrėžties, apibūdinimo ir pateikimo (su paskutiniais pakeitimais, padarytais 1994 m. gruodžio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 3378/1994); ^s-1ab1a6b72b90d0ef5e874970
+2) 1989 m. gegužės 29 d. Tarybos [reglamentas (EEB) Nr. 1576/1989](https://eur-lex.europa.eu/eli/reg/1576/1989/oj), nustatantis bendrąsias taisykles dėl spiritinių gėrimų apibrėžties, apibūdinimo ir pateikimo (su paskutiniais pakeitimais, padarytais 1994 m. gruodžio 22 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 3378/1994](https://eur-lex.europa.eu/eli/reg/3378/1994/oj)); ^s-1ab1a6b72b90d0ef5e874970
 
 
-3) 1999 m. gegužės 17 d. Tarybos reglamentas (EB) Nr. 1493/1999 dėl bendro vyno rinkos organizavimo (su paskutiniais pakeitimais, padarytais 2001 m. gruodžio 19 d. Tarybos reglamentu (EB) Nr. 2585/2001); ^s-035827068c2a8101fb3f5954
+3) 1999 m. gegužės 17 d. Tarybos [reglamentas (EB) Nr. 1493/1999](https://eur-lex.europa.eu/eli/reg/1493/1999/oj) dėl bendro vyno rinkos organizavimo (su paskutiniais pakeitimais, padarytais 2001 m. gruodžio 19 d. Tarybos [reglamentu (EB) Nr. 2585/2001](https://eur-lex.europa.eu/eli/reg/2585/2001/oj)); ^s-035827068c2a8101fb3f5954
 
 
-4) 2000 m. liepos 24 d. Komisijos reglamentas (EB) Nr. 1622/2000, nustatantis tam tikras išsamias Reglamento (EB) Nr. 1493/1999 dėl bendro vyno rinkos organizavimo įgyvendinimo taisykles ir nustatantis Bendrijos vynininkystės metodų ir procesų kodeksą (su paskutiniais pakeitimais, padarytais 2002 m. gruodžio 16 d. Komisijos reglamentu (EB) Nr. 2244/2002); ^s-70fbf2dcdab222f318babf6d
+4) 2000 m. liepos 24 d. Komisijos [reglamentas (EB) Nr. 1622/2000](https://eur-lex.europa.eu/eli/reg/1622/2000/oj), nustatantis tam tikras išsamias [Reglamento (EB) Nr. 1493/1999](https://eur-lex.europa.eu/eli/reg/1493/1999/oj) dėl bendro vyno rinkos organizavimo įgyvendinimo taisykles ir nustatantis Bendrijos vynininkystės metodų ir procesų kodeksą (su paskutiniais pakeitimais, padarytais 2002 m. gruodžio 16 d. Komisijos [reglamentu (EB) Nr. 2244/2002](https://eur-lex.europa.eu/eli/reg/2244/2002/oj)); ^s-70fbf2dcdab222f318babf6d
 
 
-5) 2001 m. balandžio 24 d. Komisijos reglamentas (EB) Nr. 883/2001, nustatantis išsamias Tarybos reglamento (EB) Nr. 1493/1999 įgyvendinimo taisykles vyno sektoriaus produktų prekybai su trečiosiomis šalimis (su paskutiniais pakeitimais, padarytais 2003 m. liepos 1 d. Komisijos reglamentu (EB) Nr. 1175/2003); ^s-79049af50914d6cc7f2627ce
+5) 2001 m. balandžio 24 d. Komisijos reglamentas (EB) Nr. 883/2001, nustatantis išsamias Tarybos [reglamento (EB) Nr. 1493/1999](https://eur-lex.europa.eu/eli/reg/1493/1999/oj) įgyvendinimo taisykles vyno sektoriaus produktų prekybai su trečiosiomis šalimis (su paskutiniais pakeitimais, padarytais 2003 m. liepos 1 d. Komisijos [reglamentu (EB) Nr. 1175/2003](https://eur-lex.europa.eu/eli/reg/1175/2003/oj)); ^s-79049af50914d6cc7f2627ce
 
 
-6) 2001 m. balandžio 24 d. Komisijos reglamentas (EB) Nr. 884/2001, nustatantis išsamias vyno produktų gabenimo lydraščių taikymo taisykles ir apskaitos dokumentus, kurie turi būti tvarkomi vyno sektoriuje (su paskutiniais pakeitimais, padarytais 2002 m. spalio 7 d. Komisijos reglamentu (EB) Nr. 1782/2002); ^s-ea763f9e3d71a189b4946697
+6) 2001 m. balandžio 24 d. Komisijos reglamentas (EB) Nr. 884/2001, nustatantis išsamias vyno produktų gabenimo lydraščių taikymo taisykles ir apskaitos dokumentus, kurie turi būti tvarkomi vyno sektoriuje (su paskutiniais pakeitimais, padarytais 2002 m. spalio 7 d. Komisijos [reglamentu (EB) Nr. 1782/2002](https://eur-lex.europa.eu/eli/reg/1782/2002/oj)); ^s-ea763f9e3d71a189b4946697
 
 
 7) 2001 m. birželio 5 d. Tarybos rekomendacija 2001/458/EB dėl jaunų žmonių, ypač vaikų ir paauglių, alkoholio vartojimo; ^s-b690a70e785b4f06f5d6fbc4

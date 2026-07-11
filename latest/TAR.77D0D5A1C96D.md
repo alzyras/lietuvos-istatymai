@@ -69,7 +69,7 @@ Papildyti bei pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 2. 7 straipsnio 4 dalyje po žodžio „prekyba“ įrašyti žodžius „laisvosiose teritorijose“, vietoj žodžio „zonos“ įrašyti žodį „jų“ ir šią dalį išdėstyti taip: ^s-aee433beb78283b419a65e70
 
 
-„4. Zonoje leidžiama įmonės steigimo dokumentuose nustatyta ūkinė-komercinė veikla, nesuvaržyta Lietuvos Respublikos įmonių įstatymo bei atitinkamų įmonių rūšių įstatymų. Mažmeninė prekyba laisvosiose teritorijose leidžiama tik jų vidaus poreikiams tenkinti.“
+„4. Zonoje leidžiama įmonės steigimo dokumentuose nustatyta ūkinė-komercinė veikla, nesuvaržyta [Lietuvos Respublikos įmonių įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B) bei atitinkamų įmonių rūšių įstatymų. Mažmeninė prekyba laisvosiose teritorijose leidžiama tik jų vidaus poreikiams tenkinti.“
 
 
 
@@ -157,7 +157,7 @@ sudaryti ginčų komisiją ginčams tarp ūkio subjektų nagrinėti.“
 ### 8 straipsnis. 15 straipsnio 1, 4 ir 8 dalių pakeitimas ir papildymas ^s-5ccbd13f5ef113268eeb287a
 
 
-1. 15 straipsnio 1 dalies 3 punktą pripažinti netekusiu galios, buvusius 4 ir [[#^s-54cd864d34e899c3c2625861|5 punktus]] laikyti atitinkamai 3 ir [[#^s-23ed8f3d5b7f8690671ca429|4 punktu]], dalį papildyti 5, 6 ir [[#^s-500c5b4138c18b29aa8660e4|7 punktais]] ir ją išdėstyti taip: ^s-c775e19752ddad81851df1c7
+1. 15 straipsnio 1 dalies 3 punktą pripažinti netekusiu galios, buvusius 4 ir 5 punktus laikyti atitinkamai 3 ir 4 punktu, dalį papildyti 5, 6 ir 7 punktais ir ją išdėstyti taip: ^s-c775e19752ddad81851df1c7
 
 
 „1. Zonoje įregistruotos įmonės ir jų darbuotojai Lietuvos Respublikos įstatymų nustatyta tvarka moka valstybės rinkliavą ir tik šiuos mokesčius bei įmokas:
@@ -209,7 +209,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 1. Išvežant prekes iš Lietuvos Respublikos muitų teritorijos į laisvąsias teritorijas, taikomi Lietuvos Respublikos įstatymai bei kiti teisės aktai, reglamentuojantys prekių išvežimą į užsienį, taip pat už prekes nustatyti eksporto muitai ir mokesčiai bei kiti ekonominio pobūdžio draudimai ir apribojimai. Įvežant prekes iš laisvųjų teritorijų į Lietuvos Respublikos muitų teritoriją, taikomi Lietuvos Respublikos įstatymai bei kiti teisės aktai, reglamentuojantys prekių įvežimą iš užsienio, taip pat už prekes nustatyti importo muitai ir mokesčiai bei kiti ekonominio pobūdžio draudimai ir apribojimai. Zonos įmonės už laisvosiose teritorijose saugomas, laisvosiose teritorijose sunaikintas ar laisvųjų teritorijų funkcionavimui užtikrinti sunaudotas prekes importo ir eksporto muitų bei mokesčių nemoka. Už laisvosiose teritorijose susidariusias ir į Lietuvos Respublikos muitų teritoriją išvežamas atliekas, kurios ūkiniu komerciniu požiūriu yra bevertės, importo muitai ir mokesčiai nemokami. Prekės bei laisvosiose teritorijose susidariusios ir į Lietuvos Respublikos muitų teritoriją išvežamos atliekos į apskaitą įtraukiamos zonos statute nustatyta tvarka. Užsienio investuotojai turi teisę teisėtai gautas pajamas (pelną) pervesti į užsienį be apribojimų. Užsienio investuotojai savo pajamas (pelną) ar jų dalį gali išvežti vidaus rinkoje supirktomis prekėmis arba reinvestuoti į Lietuvos Respublikos ūkį. ^s-cb6f28943de0f053c634f1d0
 
 
-2. Muitinė privalo tikrinti į laisvąsias teritorijas atvykstančius ar iš jų išvykstančius asmenis, transporto priemones, įvežamas, išvežamas ar laisvosiose teritorijose esančias prekes. Prekės įvežamos į laisvąsias teritorijas ir išvežamos iš jų tiktai per įvažiavimo (išvažiavimo) punktus; prekių įvežimo (išvežimo) tvarką reglamentuoja Lietuvos Respublikos muitinės kodeksas ir Lietuvos Respublikos Vyriausybės nutarimai. ^s-09e719b78e319f0c6a5ea852
+2. Muitinė privalo tikrinti į laisvąsias teritorijas atvykstančius ar iš jų išvykstančius asmenis, transporto priemones, įvežamas, išvežamas ar laisvosiose teritorijose esančias prekes. Prekės įvežamos į laisvąsias teritorijas ir išvežamos iš jų tiktai per įvažiavimo (išvažiavimo) punktus; prekių įvežimo (išvežimo) tvarką reglamentuoja [Lietuvos Respublikos muitinės kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) ir Lietuvos Respublikos Vyriausybės nutarimai. ^s-09e719b78e319f0c6a5ea852
 
 
 3. Laisvosioms teritorijoms atskirti nuo likusios zonos teritorijos dalies ir jai nepriklausančios Lietuvos Respublikos muitų teritorijos dalies reikalinga infrastruktūra, statomų muitinės darbui reikalingų pastatų projektai, taip pat visų laisvosiose teritorijose statomų pastatų projektai Lietuvos Respublikos Vyriausybės nustatyta tvarka turi būti suderinti su Muitinės departamentu prie Finansų ministerijos.“ ^s-eefeb9fbca1c9a6f8bcab242

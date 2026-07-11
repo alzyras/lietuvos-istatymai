@@ -63,7 +63,7 @@ Vilnius
 „3) Vyriausybės atstovą – Vyriausybė;“.
 
 
-2. 10 straipsnio 4 dalyje išbraukti žodžius „Apskrities valdymo įstatyme“ ir šią dalį išdėstyti taip: ^s-21e40137fee88a8bf25a8c0d
+2. 10 straipsnio 4 dalyje išbraukti žodžius [„Apskrities valdymo įstatyme“](https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF) ir šią dalį išdėstyti taip: ^s-21e40137fee88a8bf25a8c0d
 
 
 „4. Jeigu kiti įstatymai (išskyrus statutus, Diplomatinės tarnybos įstatymą, Korupcijos prevencijos įstatymą, Valstybės ir tarnybos paslapčių įstatymą ir [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatyme]], [[latest/TAR.33DE665E5E0E|Savivaldybių administracinės priežiūros įstatyme]] ir Laikino [[latest/TAR.EA5F9F0D6DBB|tiesioginio valdymo savivaldybės teritorijoje įstatyme]] nustatytas įstaigos vadovų priėmimo į pareigas sąlygas) nustato kitokias priėmimo į valstybės tarnautojo pareigas sąlygas, taikomos šio Įstatymo nuostatos.“

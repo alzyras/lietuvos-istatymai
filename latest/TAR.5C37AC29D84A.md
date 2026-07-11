@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-29f719cfbcdc4b2742c9a249
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2000 m. lapkričio 7 d. dekretą Nr. 1073, ratifikuoja Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl Baltarusijos Respublikos krovinių tranzito, naudojantis Lietuvos Respublikos uostais ir kita transporto infrastruktūra, sąlygų, pasirašytą 2000 m. balandžio 3 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2000 m. lapkričio 7 d. dekretą Nr. 1073](https://e-tar.lt/portal/lt/legalAct/TAR.2ED1E3BAC9D2), ratifikuoja Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl Baltarusijos Respublikos krovinių tranzito, naudojantis Lietuvos Respublikos uostais ir kita transporto infrastruktūra, sąlygų, pasirašytą 2000 m. balandžio 3 d. Vilniuje.
 
 
 

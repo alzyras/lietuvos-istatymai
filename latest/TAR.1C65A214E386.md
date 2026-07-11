@@ -119,7 +119,7 @@ BENDROSIOS NUOSTATOS
 18. Planavimo organizatoriai – Vyriausybė arba jos įgalioti viešojo administravimo subjektai, apskrities viršininkas, savivaldybės administracijos direktorius, juridiniai ir fiziniai asmenys, organizuojantys teritorijų planavimo dokumentų rengimą, derinimą, konsultavimąsi ar viešą svarstymą ir teikimą tvirtinti. ^s-ea342cada02552af3168c3dd
 
 
-19. Planavimo sąlygos – planuojamai teritorijai taikomi specialiųjų žemės naudojimo sąlygų ir teritorijų planavimo normų reikalavimai ir galiojančių teritorijų planavimo dokumentų sprendiniai, taip pat ūkio šakų plėtros programų ir strateginių dokumentų nuostatos, sąlygas išduodančių institucijų reikalavimai dėl teritorijų planavimo dokumentų rengimo. ^s-385c1178babf2df12f321282
+19. Planavimo sąlygos – planuojamai teritorijai taikomi specialiųjų žemės naudojimo sąlygų ir teritorijų planavimo normų reikalavimai ir galiojančių teritorijų planavimo dokumentų sprendiniai, taip pat ūkio šakų plėtros programų ir strateginių dokumentų nuostatos, sąlygas išduodančių institucijų reikalavimai [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09). ^s-385c1178babf2df12f321282
 
 
 20. Planų rengėjai – juridiniai ir fiziniai asmenys, turintys teisę rengti teritorijų planavimo dokumentus šio Įstatymo ir kitų teisės aktų nustatyta tvarka. ^s-a32dc663af4ac096b69dc09d
@@ -489,7 +489,7 @@ Bendrojo teritorijų planavimo organizatoriai yra šie:
 1. Bendrojo teritorijų planavimo procesą sudaro parengiamasis etapas, teritorijų planavimo dokumento rengimo etapas, sprendinių pasekmių vertinimo etapas, baigiamasis etapas. ^s-54fb50d99e11590fa0652ee0
 
 
-2. Parengiamojo etapo metu nustatomi teritorijų planavimo tikslai ir uždaviniai, parengiama ir patvirtinama planavimo darbų programa, prireikus atliekami tyrimai, viešai paskelbiama apie priimtą sprendimą dėl teritorijų planavimo dokumentų rengimo pradžios ir planavimo tikslų. ^s-2859994a9d74d2e809f19a5a
+2. Parengiamojo etapo metu nustatomi teritorijų planavimo tikslai ir uždaviniai, parengiama ir patvirtinama planavimo darbų programa, prireikus atliekami tyrimai, viešai paskelbiama apie priimtą sprendimą [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09) pradžios ir planavimo tikslų. ^s-2859994a9d74d2e809f19a5a
 
 
 3. Teritorijų planavimo dokumento rengimo etapą sudaro: ^s-bffb2760b09cb8c229098471
@@ -714,7 +714,7 @@ Specialiojo teritorijų planavimo organizatoriai yra šie:
 1. Specialiojo teritorijų planavimo procesą sudaro parengiamasis etapas, teritorijų planavimo dokumento rengimo etapas, sprendinių pasekmių vertinimo etapas, baigiamasis etapas. ^s-49ef1881182931c305277846
 
 
-2. Parengiamojo etapo metu nustatomi planavimo tikslai ir uždaviniai, parengiama ir patvirtinama planavimo darbų programa, prireikus atliekami tyrimai, viešai paskelbiama apie priimtą sprendimą dėl teritorijų planavimo dokumentų rengimo pradžios ir planavimo tikslų. ^s-a3e859825e3ba0e82f12f68c
+2. Parengiamojo etapo metu nustatomi planavimo tikslai ir uždaviniai, parengiama ir patvirtinama planavimo darbų programa, prireikus atliekami tyrimai, viešai paskelbiama apie priimtą sprendimą [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09) pradžios ir planavimo tikslų. ^s-a3e859825e3ba0e82f12f68c
 
 
 3. Teritorijų planavimo dokumento rengimo etapą sudaro: ^s-44bff247f25e0ba018905ec2
@@ -926,7 +926,7 @@ DETALUSIS TERITORIJŲ PLANAVIMAS
 3. Reikalavimai dėl papildomo teritorijos tvarkymo ir naudojimo režimo nustatomi išduodant planavimo sąlygas. ^s-faae970cbbe0012cac252b16
 
 
-4. Šio straipsnio 1 ir [[#^s-d59f28adc6d9c1bbc9c80911|2 dalių]] reikalavimai netaikomi žemėvaldos planams (projektams), jeigu juose nenumatomos statybos. ^s-8eb38091fae194df37eefbb3
+4. Šio straipsnio [[#^s-d489438e4cc520d1dffb3c1a|1]] ir [[#^s-d59f28adc6d9c1bbc9c80911|2]] dalių reikalavimai netaikomi žemėvaldos planams (projektams), jeigu juose nenumatomos statybos. ^s-8eb38091fae194df37eefbb3
 
 
 
@@ -955,7 +955,7 @@ DETALUSIS TERITORIJŲ PLANAVIMAS
 1. Detaliojo teritorijų planavimo procesą sudaro parengiamasis etapas, teritorijų planavimo dokumento rengimo etapas, sprendinių pasekmių vertinimo etapas, baigiamasis etapas. ^s-2d75ef6b1d04d80322399c96
 
 
-2. Parengiamojo etapo metu nustatomi planavimo tikslai, parengiama ir patvirtinama planavimo darbų programa, prireikus atliekami tyrimai, viešai paskelbiama apie priimtą sprendimą dėl teritorijų planavimo dokumentų rengimo pradžios ir planavimo tikslų. ^s-959b65a935f3a1676060050b
+2. Parengiamojo etapo metu nustatomi planavimo tikslai, parengiama ir patvirtinama planavimo darbų programa, prireikus atliekami tyrimai, viešai paskelbiama apie priimtą sprendimą [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09) pradžios ir planavimo tikslų. ^s-959b65a935f3a1676060050b
 
 
 3. Teritorijų planavimo dokumento rengimo etapą sudaro: ^s-fbeb84f643a858fffdef104c
@@ -1064,7 +1064,7 @@ TERITORIJŲ PLANAVIMO INFORMACINĖ SISTEMA
 1. Teritorijų planavimo dokumentai registruojami teritorijų planavimo dokumentų registre. Registrą sudaro valstybinis, apskrities ir savivaldybės teritorijų planavimo dokumentų registrai bei jų centrinė duomenų bazė. ^s-3be65fffa7cc92c049c0be4e
 
 
-2. Teritorijų planavimo dokumentų registro tvarkymą reglamentuoja Valstybės registrų įstatymas ir Vyriausybės patvirtinti Teritorijų planavimo dokumentų registro nuostatai. ^s-17bce3f42158d0a55f3acb80
+2. Teritorijų planavimo dokumentų registro tvarkymą reglamentuoja [Valstybės registrų įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296) ir Vyriausybės patvirtinti Teritorijų planavimo dokumentų registro nuostatai. ^s-17bce3f42158d0a55f3acb80
 
 
 3. Visus patvirtintus teritorijų planavimo dokumentus planavimo organizatoriai privalomai pateikia registruoti teritorijų planavimo dokumentų registro tvarkytojams ne vėliau kaip per 15 dienų nuo jų patvirtinimo dienos. Teritorijų planavimo dokumentų registro tvarkytojai apie įregistruotą planavimo dokumentą per 15 dienų praneša nekilnojamojo turto kadastro tvarkytojui. ^s-00a1ca17e10d1af888153a72
@@ -1104,7 +1104,7 @@ TERITORIJŲ PLANAVIMO VIEŠUMAS
 1. Bendrasis, specialusis ir detalusis teritorijų planavimas yra viešas. ^s-f35b841a11f916551ef9e14f
 
 
-2. Teritorijų planavimo viešumą užtikrinančias procedūras (sprendimo dėl teritorijų planavimo dokumentų rengimo pradžios ir planavimo tikslų skelbimas, konsultavimasis, viešas svarstymas, informacijos teikimas ir kt.) atlieka planavimo organizatorius. ^s-151dcdd1c64804876de66374
+2. Teritorijų planavimo viešumą užtikrinančias procedūras (sprendimo [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09) pradžios ir planavimo tikslų skelbimas, konsultavimasis, viešas svarstymas, informacijos teikimas ir kt.) atlieka planavimo organizatorius. ^s-151dcdd1c64804876de66374
 
 
 3. Visuomenės dalyvavimo teritorijų planavimo procese bendroji ir supaprastinta tvarka reglamentuojama Vyriausybės patvirtintuose konsultavimosi, viešo svarstymo nuostatuose. Bendroji ir supaprastinta visuomenės dalyvavimo teritorijų planavimo procese svarstymo tvarka nustatoma atsižvelgiant į teritorijų planavimo dokumentų lygmenis ir rūšis. ^s-61e29080ffe8e2adedf14cab
@@ -1114,7 +1114,7 @@ TERITORIJŲ PLANAVIMO VIEŠUMAS
 ### 31 straipsnis. Teritorijų planavimo viešumas ^s-cb4913596e64b9df20af31e1
 
 
-1. Ministerijų, Vyriausybės įstaigų ir kitų valstybės valdymo institucijų sprendimai dėl teritorijų planavimo dokumentų rengimo pradžios ir planavimo tikslų skelbiami „Valstybės žiniose“ bei institucijų interneto tinklalapiuose. Aukštesniųjų administracinių vienetų valdymo institucijų sprendimai dėl teritorijų planavimo dokumentų rengimo pradžios ir planavimo tikslų skelbiami vietinėje spaudoje bei institucijų interneto tinklalapiuose. Savivaldybių ir jų vykdomųjų institucijų priimti sprendimai dėl teritorijų planavimo dokumentų rengimo skelbiami vietinėje spaudoje, savivaldybės interneto tinklalapyje ir seniūnijose, kuriose vyksta teritorijos planavimas. Detaliojo planavimo organizatorius apie žemės sklypo ar grupės žemės sklypų teritorijos planavimo dokumentų rengimo pradžią bei planavimo tikslus raštu informuoja greta planuojamos teritorijos esančių nekilnojamųjų daiktų savininkus. ^s-00a45e33b796e4ca522583bc
+1. Ministerijų, Vyriausybės įstaigų ir kitų valstybės valdymo institucijų sprendimai [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09) pradžios ir planavimo tikslų skelbiami „Valstybės žiniose“ bei institucijų interneto tinklalapiuose. Aukštesniųjų administracinių vienetų valdymo institucijų sprendimai [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09) pradžios ir planavimo tikslų skelbiami vietinėje spaudoje bei institucijų interneto tinklalapiuose. Savivaldybių ir jų vykdomųjų institucijų priimti sprendimai [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09) skelbiami vietinėje spaudoje, savivaldybės interneto tinklalapyje ir seniūnijose, kuriose vyksta teritorijos planavimas. Detaliojo planavimo organizatorius apie žemės sklypo ar grupės žemės sklypų teritorijos planavimo dokumentų rengimo pradžią bei planavimo tikslus raštu informuoja greta planuojamos teritorijos esančių nekilnojamųjų daiktų savininkus. ^s-00a45e33b796e4ca522583bc
 
 
 2. Fiziniai ir juridiniai asmenys turi teisę susipažinti su parengtais ir patvirtintais teritorijų planavimo dokumentais teritorijų planavimą organizavusioje institucijoje, gauti teritorijų planavimo dokumentų ar jų dalių, brėžinių kopijas už mokestį, kuris nustatomas apskaičiavus išlaidas, susijusias su šių dokumentų parengimu (kopijavimas, leidyba ir pan.). ^s-f7eb1ab1f743a542a7052b44
@@ -1289,7 +1289,7 @@ Asmenys, pažeidę šį Įstatymą, atsako Lietuvos Respublikos įstatymų nusta
 ### 3 straipsnis. Pasiūlymas savivaldybėms ^s-f53494e1f40f5c85275ae198
 
 
-Savivaldybės, įgyvendindamos Teritorijų planavimo įstatymo 9 straipsnio 1 dalies 3 ir 4 punktus, iki 2007 m. gruodžio 31 d. parengia savivaldybių teritorijų ir jų dalių bendruosius planus.
+Savivaldybės, įgyvendindamos [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo 9 straipsnio 1 dalies]] [[latest/TAR.26B563184529|3]] ir [[latest/TAR.26B563184529|4]] punktus, iki 2007 m. gruodžio 31 d. parengia savivaldybių teritorijų ir jų dalių bendruosius planus.
 
 
 

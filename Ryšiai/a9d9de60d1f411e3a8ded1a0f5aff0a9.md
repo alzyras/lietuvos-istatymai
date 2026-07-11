@@ -10,8 +10,8 @@ pavadinimas: "Lietuvos Respublikos atsinaujinančių išteklių energetikos įst
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.FC7AB69BE291#^s-96deebc0f91b14366f757257|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 2 citatos - Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 49 straipsnio 8 dalyje
+- [[latest/TAR.FC7AB69BE291#^s-fb396add39a998be199cbf96|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 51 straipsnio 5 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.FC7AB69BE291#^s-2444397b049bfc510e45685e|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - Įstatymas Nr. XII-847
-- [[latest/TAR.FC7AB69BE291#^s-f96262109d53d0b31edc7e75|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - Įstatymas Nr. XII-847
+_Nėra._

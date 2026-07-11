@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-f2f4d8a6f14c67b52ff153bc
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. rugsėjo 26 d. dekretą Nr. 1915, ratifikuoja Lietuvos Respublikos Vyriausybės ir Šveicarijos Federalinės Tarybos sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo išvengimo ir jos protokolą, pasirašytus 2002 m. gegužės 27 d. Berne.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. rugsėjo 26 d. dekretą Nr. 1915](https://e-tar.lt/portal/lt/legalAct/TAR.82C7B5E89EED), ratifikuoja Lietuvos Respublikos Vyriausybės ir Šveicarijos Federalinės Tarybos sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo išvengimo ir jos protokolą, pasirašytus 2002 m. gegužės 27 d. Berne.
 
 
 

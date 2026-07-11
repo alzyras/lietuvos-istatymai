@@ -51,7 +51,7 @@ Papildyti Įstatymą 131 straipsniu:
 1. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastras yra valstybės kadastras. ^s-11f77fc8aeb557895d117470
 
 
-2. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastras steigiamas, reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės registrų įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastrą tvarko vadovaujančioji kadastro tvarkymo įstaiga – Lietuvos Respublikos aplinkos ministerija ir kadastro tvarkymo įstaiga – Aplinkos apsaugos agentūra. ^s-6e56b77966b75c2b3f5e3ca1
+2. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastras steigiamas, reorganizuojamas ir likviduojamas [Lietuvos Respublikos valstybės registrų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296) ir Lietuvos Respublikos Vyriausybės nustatyta tvarka. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastrą tvarko vadovaujančioji kadastro tvarkymo įstaiga – Lietuvos Respublikos aplinkos ministerija ir kadastro tvarkymo įstaiga – Aplinkos apsaugos agentūra. ^s-6e56b77966b75c2b3f5e3ca1
 
 
 3. Lietuvos Respublikos upių, ežerų ir tvenkinių kadastre Lietuvos Respublikos Vyriausybės nustatyta tvarka registruojami šie paviršiniai vandens telkiniai: ^s-5220a2d1d4357a4c4921e8ac
@@ -66,7 +66,7 @@ Papildyti Įstatymą 131 straipsniu:
 3) upės, ežerai, tvenkiniai, kanalai ir dirbtiniai nepratekami paviršiniai vandens telkiniai, priskirti valstybinės reikšmės vidaus vandens telkiniams arba kuriuose vykdomas valstybinis aplinkos monitoringas; ^s-cee5abec8d973ca4e5bfbc7c
 
 
-4) paviršiniai vandens telkiniai, jungiantys Lietuvos Respublikos upių, ežerų ir tvenkinių kadastro objektus, nurodytus šios dalies 1–[[#^s-cee5abec8d973ca4e5bfbc7c|3 punktuose]].“ ^s-071fa2f3f784a6923a8e063c
+4) paviršiniai vandens telkiniai, jungiantys Lietuvos Respublikos upių, ežerų ir tvenkinių kadastro objektus, nurodytus šios dalies [[#^s-8db5f8e3161dd41991a3fe83|1]]–[[#^s-cee5abec8d973ca4e5bfbc7c|3]] punktuose.“ ^s-071fa2f3f784a6923a8e063c
 
 
 

@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 29 straipsnio 4 dalies pakeitimas ^s-24abd51ca3c8263270d1b7a7
 
 
-Pakeisti Kelių transporto kodekso 29 straipsnio 4 dalį ir ją išdėstyti taip:
+Pakeisti [Kelių transporto kodekso 29 straipsnio 4 dalį](https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C) ir ją išdėstyti taip:
 
 
 „4. Važtaraščių apskaitos, užsakymo, gamybos, technologinės apsaugos, platinimo, įsigijimo, naudojimo ir likvidavimo tvarką nustato Finansų ministerija.“

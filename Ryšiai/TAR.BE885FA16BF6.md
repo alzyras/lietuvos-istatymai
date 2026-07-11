@@ -13,6 +13,5 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.2A8A2BA51B01#^s-4edbb7b43ebf8307a3f6156e|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymas]] - 3 citatos - 1031010ISTA0IX-1859
+- [[latest/TAR.2A8A2BA51B01#^s-4edbb7b43ebf8307a3f6156e|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymas]] - 2 citatos - 1031010ISTA0IX-1859
 - [[latest/TAR.2A8A2BA51B01#^s-65555444c7f4b20051b0ebf0|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymas]] - 1031010ISTA0IX-1859
-- [[latest/TAR.2A8A2BA51B01#^s-f8352f825a2b771af55c652c|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo įgyvendinimo įstatymas]] - 1031010ISTA0IX-1859

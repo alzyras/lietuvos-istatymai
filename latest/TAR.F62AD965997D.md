@@ -778,7 +778,7 @@ Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
 ### 82 straipsnis. Šilumos ūkio plėtros investicijų planas ^s-d8789b1c30b32fcd7b8a49ff
 
 
-1. Šilumos tiekėjas, siekdamas įgyvendinti šilumos ūkio specialiojo plano tikslus ir priemones, parengia dešimties metų šilumos ūkio plėtros investicijų planą ir teikia jį tvirtinti savivaldybės institucijai. Šilumos ūkio plėtros investicijų planas periodiškai atnaujinamas, užtikrinant, kad centralizuoto šilumos tiekimo sistema būtų laikoma efektyvia šio įstatymo [[#^s-c9bc0ac2282b755a5020d631|83 straipsnio]] 1 ir [[#^s-37549d890bb1f9803405cef8|2 dalyse]] nurodytais terminais, bet ne rečiau kaip kas 3 metus ir iki einamųjų metų spalio 1 dienos teikiamas savivaldybės institucijai tvirtinti. ^s-af08f991320f5859f0a1d775
+1. Šilumos tiekėjas, siekdamas įgyvendinti šilumos ūkio specialiojo plano tikslus ir priemones, parengia dešimties metų šilumos ūkio plėtros investicijų planą ir teikia jį tvirtinti savivaldybės institucijai. Šilumos ūkio plėtros investicijų planas periodiškai atnaujinamas, užtikrinant, kad centralizuoto šilumos tiekimo sistema būtų laikoma efektyvia šio įstatymo [[#^s-c9bc0ac2282b755a5020d631|83 straipsnio]] [[#^s-26c19c8bb64c38721695d6da|1]] ir [[#^s-1984acba567e673f710c77e9|2]] dalyse nurodytais terminais, bet ne rečiau kaip kas 3 metus ir iki einamųjų metų spalio 1 dienos teikiamas savivaldybės institucijai tvirtinti. ^s-af08f991320f5859f0a1d775
 Straipsnio dalies pakeitimai:
 Nr. XV-241, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11010
 
@@ -867,7 +867,7 @@ Nr. XIV-1876, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07541
 2) kaip naujas energijos šaltinis negali būti naudojamas iškastinis kuras, išskyrus gamtines dujas, jeigu centralizuoto šilumos tiekimo sistema pastatyta arba jos įrenginiai atnaujinti iki 2030 m. ^s-aa628bf4f5f440d384f2357f
 
 
-3. Šilumos tiekėjai privalo užtikrinti, kad šio įstatymo [[#^s-d8789b1c30b32fcd7b8a49ff|82 straipsnyje]] nurodytų dešimties metų šilumos ūkio plėtros investicijų planų nuostatos atitiktų šio straipsnio 1 ir [[#^s-1984acba567e673f710c77e9|2 dalyse]] nurodytus reikalavimus. ^s-8350a0e47aacf511bef844c0
+3. Šilumos tiekėjai privalo užtikrinti, kad šio įstatymo [[#^s-d8789b1c30b32fcd7b8a49ff|82 straipsnyje]] nurodytų dešimties metų šilumos ūkio plėtros investicijų planų nuostatos atitiktų šio straipsnio [[#^s-af08f991320f5859f0a1d775|1]] ir [[#^s-37549d890bb1f9803405cef8|2]] dalyse nurodytus reikalavimus. ^s-8350a0e47aacf511bef844c0
 
 
 Papildyta straipsniu:
@@ -1098,7 +1098,7 @@ Nr. XI-592, 2009-12-21, Žin., 2010, Nr. 1-6 (2010-01-05)
 1. Savivaldybių institucijų sprendimais šildymo sezono pradžia ir pabaiga nustatoma savivaldybių institucijų nustatytoms įstaigoms ir šilumos vartotojams, kurių šilumos punktai nėra modernizuoti (automatizuoti). ^s-9b8404dd9b7b11c213b7c699
 
 
-2. Šilumos tiekėjai šilumą privalo tiekti šilumos vartotojams šaltuoju metų laikotarpiu, išskyrus šio straipsnio 3 ir [[#^s-875ed58061a22d3b9bdf23c2|4 dalyse]] nustatytas sąlygas. ^s-fc5705c860e1dc35d14ab482
+2. Šilumos tiekėjai šilumą privalo tiekti šilumos vartotojams šaltuoju metų laikotarpiu, išskyrus šio straipsnio [[#^s-cebbe7e4dbfe4069ea105f47|3]] ir [[#^s-875ed58061a22d3b9bdf23c2|4]] dalyse nustatytas sąlygas. ^s-fc5705c860e1dc35d14ab482
 
 
 3. Šilumos vartotojai, kurių šilumos punktai yra modernizuoti (automatizuoti), turi teisę šildymo sezono laikotarpiu, atsižvelgiant į [[#^s-875ed58061a22d3b9bdf23c2|šio straipsnio 4 dalyje]] nurodytas sąlygas, Civilinio kodekso 4.85 straipsnyje nustatyta sprendimų priėmimo tvarka nuspręsti dėl savo pastatų šildymo sezono pradžios ir pabaigos. Šilumos vartotojų, kurių šilumos punktai nėra modernizuoti (automatizuoti), pastatų šildymas, savivaldybių institucijų sprendimu turi būti užtikrinamas šaltuoju metų laikotarpiu ir pasibaigti šiltuoju metų laikotarpiu, atsižvelgiant į [[#^s-875ed58061a22d3b9bdf23c2|šio straipsnio 4 dalyje]] nurodytas sąlygas. ^s-cebbe7e4dbfe4069ea105f47
@@ -1297,7 +1297,7 @@ Nr. XV-1075, 2026-06-25, paskelbta TAR 2026-07-03, i. k. 2026-11528
 
 
 
-52. Jeigu butų ir patalpų savininkas ir (arba) daugiabučio namo bendrojo naudojimo objektų valdytojas neatlieka [[#^s-0e40266457cbdeefc7414a7e|šio straipsnio 51 dalyje]] nurodytų šilumos punkto įrenginių remonto ar modernizavimo darbų ilgiau kaip 12 mėnesių nuo [[#^s-0e40266457cbdeefc7414a7e|šio straipsnio 51 dalyje]] nurodyto pranešimo gavimo dienos, šilumos tiekėjas turi teisę pats organizuoti ir atlikti būtinus šilumos punkto remonto ar modernizavimo darbus. Šilumos tiekėjo išlaidos šiems darbams atlikti kompensuojamos butų ir patalpų savininkų sąskaita šio įstatymo [[#^s-1bff228eb0ef6a47f1fceeca|12 straipsnio 5 dalyje]] nustatytais pagrindais. Šioms išlaidoms kompensuoti gali būti numatytas iki 24 mėnesių laikotarpis ir išlaidų kompensavimas nurodomas atskira eilute sąskaitose (mokėjimo pranešimuose). Šioms priemonėms įgyvendinti gali būti naudojamos daugiabučio namo bendraturčių kaupiamosios lėšos pagal Civilinio kodekso 4.[[#^s-d8789b1c30b32fcd7b8a49ff|82 straipsnio]] 3, [[#^s-9465ccca6163bb02174e6d12|4 dalių]] ir 4.83 straipsnio 4 dalies nuostatas. ^s-c3e6a323935fd4b9da63b4a3
+52. Jeigu butų ir patalpų savininkas ir (arba) daugiabučio namo bendrojo naudojimo objektų valdytojas neatlieka [[#^s-0e40266457cbdeefc7414a7e|šio straipsnio 51 dalyje]] nurodytų šilumos punkto įrenginių remonto ar modernizavimo darbų ilgiau kaip 12 mėnesių nuo [[#^s-0e40266457cbdeefc7414a7e|šio straipsnio 51 dalyje]] nurodyto pranešimo gavimo dienos, šilumos tiekėjas turi teisę pats organizuoti ir atlikti būtinus šilumos punkto remonto ar modernizavimo darbus. Šilumos tiekėjo išlaidos šiems darbams atlikti kompensuojamos butų ir patalpų savininkų sąskaita šio įstatymo [[#^s-1bff228eb0ef6a47f1fceeca|12 straipsnio 5 dalyje]] nustatytais pagrindais. Šioms išlaidoms kompensuoti gali būti numatytas iki 24 mėnesių laikotarpis ir išlaidų kompensavimas nurodomas atskira eilute sąskaitose (mokėjimo pranešimuose). Šioms priemonėms įgyvendinti gali būti naudojamos daugiabučio namo bendraturčių kaupiamosios lėšos pagal Civilinio kodekso 4.[[#^s-d8789b1c30b32fcd7b8a49ff|82 straipsnio]] [[#^s-7ab239f13d792850a881524d|3]], [[#^s-1fb5991d6d9e0590253258b3|4]] dalių ir 4.83 straipsnio 4 dalies nuostatas. ^s-c3e6a323935fd4b9da63b4a3
 Papildyta straipsnio dalimi:
 Nr. XV-1075, 2026-06-25, paskelbta TAR 2026-07-03, i. k. 2026-11528
 
@@ -1386,7 +1386,7 @@ Nr. XV-1075, 2026-06-25, paskelbta TAR 2026-07-03, i. k. 2026-11528
 
 
 
-2. Šilumos tiekėjas ir (arba) daugiabučio namo šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) pagal kompetenciją raštu per 10 darbo dienų nuo neatitikčių nustatymo dienos informuoja daugiabučio namo savininkus, daugiabučio namo bendrojo naudojimo objektų valdytoją ir Tarybą apie daugiabučius namus, kurių šildymo ir karšto vandens sistemos neatitinka daugiabučio namo šildymo ir karšto vandens sistemų privalomųjų reikalavimų. Pagal gautą informaciją darbus šiems reikalavimams užtikrinti pagal kompetenciją atlieka daugiabučio namo šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas), o kitų darbų atitiktį daugiabučio namo šildymo ir (ar) karšto vandens sistemų privalomiesiems reikalavimams užtikrina daugiabučio namo bendrojo naudojimo objektų valdytojas ne vėliau kaip per ketverius metus nuo pranešimo apie daugiabučio namo šildymo ir (ar) karšto vandens sistemų privalomųjų reikalavimų neatitiktį gavimo dienos, išskyrus šio įstatymo [[#^s-befdab40924bc138813d50ab|20 straipsnio]] 51 ir 52 dalyse nustatytus atvejus. Šildymo ir karšto vandens sistemos atitikčiai daugiabučio namo šildymo ir karšto vandens sistemų privalomiesiems reikalavimams užtikrinti reikalingiems veiksmams atlikti nereikia gauti daugiabučio namo butų ir kitų patalpų savininkų pritarimo dėl reikalingų veiksmų atlikimo ir finansavimo. Šių darbų išlaidas apmoka daugiabučio namo butų ir kitų patalpų savininkai pagal Civilinio kodekso 4.[[#^s-7ab239f13d792850a881524d|82 straipsnio 3 dalies]] nuostatas. Šių darbų išlaidoms kompensuoti gali būti naudojamos daugiabučio namo bendraturčių kaupiamosios lėšos pagal Civilinio kodekso 4.[[#^s-1fb5991d6d9e0590253258b3|82 straipsnio 4 dalies]] nuostatas. Jeigu sukauptų kaupiamųjų lėšų nėra, jų nepakanka arba jos pagal patvirtintą ilgalaikį planą ar jų paskirtį yra numatytos kitiems darbams atlikti, šios išlaidos kompensuojamos butų ir patalpų savininkų sąskaita šio įstatymo [[#^s-1bff228eb0ef6a47f1fceeca|12 straipsnio 5 dalyje]] nustatytais pagrindais. Šioms išlaidoms kompensuoti gali būti numatytas iki 24 mėnesių laikotarpis, o išlaidų kompensavimas nurodomas atskira eilute sąskaitose (mokėjimo pranešimuose). Šių darbų išlaidoms kompensuoti teikiama valstybės parama pagal Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymą. ^s-928354e0b2ada6b80b884c06
+2. Šilumos tiekėjas ir (arba) daugiabučio namo šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas) pagal kompetenciją raštu per 10 darbo dienų nuo neatitikčių nustatymo dienos informuoja daugiabučio namo savininkus, daugiabučio namo bendrojo naudojimo objektų valdytoją ir Tarybą apie daugiabučius namus, kurių šildymo ir karšto vandens sistemos neatitinka daugiabučio namo šildymo ir karšto vandens sistemų privalomųjų reikalavimų. Pagal gautą informaciją darbus šiems reikalavimams užtikrinti pagal kompetenciją atlieka daugiabučio namo šildymo ir karšto vandens sistemų prižiūrėtojas (eksploatuotojas), o kitų darbų atitiktį daugiabučio namo šildymo ir (ar) karšto vandens sistemų privalomiesiems reikalavimams užtikrina daugiabučio namo bendrojo naudojimo objektų valdytojas ne vėliau kaip per ketverius metus nuo pranešimo apie daugiabučio namo šildymo ir (ar) karšto vandens sistemų privalomųjų reikalavimų neatitiktį gavimo dienos, išskyrus šio įstatymo [[#^s-befdab40924bc138813d50ab|20 straipsnio]] [[#^s-0e40266457cbdeefc7414a7e|51]] ir [[#^s-c3e6a323935fd4b9da63b4a3|52]] dalyse nustatytus atvejus. Šildymo ir karšto vandens sistemos atitikčiai daugiabučio namo šildymo ir karšto vandens sistemų privalomiesiems reikalavimams užtikrinti reikalingiems veiksmams atlikti nereikia gauti daugiabučio namo butų ir kitų patalpų savininkų pritarimo dėl reikalingų veiksmų atlikimo ir finansavimo. Šių darbų išlaidas apmoka daugiabučio namo butų ir kitų patalpų savininkai pagal Civilinio kodekso 4.[[#^s-7ab239f13d792850a881524d|82 straipsnio 3 dalies]] nuostatas. Šių darbų išlaidoms kompensuoti gali būti naudojamos daugiabučio namo bendraturčių kaupiamosios lėšos pagal Civilinio kodekso 4.[[#^s-1fb5991d6d9e0590253258b3|82 straipsnio 4 dalies]] nuostatas. Jeigu sukauptų kaupiamųjų lėšų nėra, jų nepakanka arba jos pagal patvirtintą ilgalaikį planą ar jų paskirtį yra numatytos kitiems darbams atlikti, šios išlaidos kompensuojamos butų ir patalpų savininkų sąskaita šio įstatymo [[#^s-1bff228eb0ef6a47f1fceeca|12 straipsnio 5 dalyje]] nustatytais pagrindais. Šioms išlaidoms kompensuoti gali būti numatytas iki 24 mėnesių laikotarpis, o išlaidų kompensavimas nurodomas atskira eilute sąskaitose (mokėjimo pranešimuose). Šių darbų išlaidoms kompensuoti teikiama valstybės parama pagal Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymą. ^s-928354e0b2ada6b80b884c06
 Straipsnio dalies pakeitimai:
 Nr. XV-1075, 2026-06-25, paskelbta TAR 2026-07-03, i. k. 2026-11528
 
@@ -1795,10 +1795,10 @@ Nr. XV-685, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22575
 15. Šilumos tiekėjo, realizuojančio mažiau kaip 10 GWh šilumos per metus, skundus dėl savivaldybės tarybos nustatyto šilumos pajamų bazinio lygio ir (ar) šilumos pajamų metinio lygio ne teismo tvarka nagrinėja Taryba. Skundas dėl savivaldybės tarybos sprendimo, kuriuo nustatomas šilumos pajamų bazinis lygis ir (ar) šilumos pajamų metinis lygis šilumos tiekėjui, realizuojančiam mažiau kaip 10 GWh šilumos per metus, Tarybai teikiamas per vieną mėnesį nuo savivaldybės tarybos sprendimo priėmimo dienos. Šilumos tiekėjo, realizuojančio mažiau kaip 10 GWh šilumos per metus, kreipimasis į Tarybą nepanaikina jo teisės kreiptis į teismą. Šioje dalyje nurodyti skundai nagrinėjami pagal Tarybos patvirtintas skundų dėl savivaldybės tarybos nustatyto šilumos pajamų bazinio lygio ir (ar) šilumos pajamų metinio lygio nagrinėjimo taisykles. Tarybos sprendimai, priimti išnagrinėjus šioje dalyje nurodytus skundus dėl savivaldybės tarybos nustatyto šilumos pajamų bazinio lygio ir (ar) šilumos pajamų metinio lygio, įsigalioja nuo Tarybos sprendime nurodytos datos ir turi būti vykdomi. ^s-5bedc352a402c3a61bb40f58
 
 
-16. Jeigu šilumos tiekėjas, kurio daugiau kaip 1/2 akcijų nuosavybės teise priklauso vienai ar kelioms savivaldybėms ir kuris valdo skirtingose savivaldybėse esančias šilumos tiekimo sistemas, nustato vienodą šilumos pajamų bazinį lygį visoms šioms savivaldybėms, šilumos pajamų metinį lygį jis nustato savo įstatuose nustatyta tvarka, jį apskaičiavęs pagal Šilumos kainų nustatymo metodiką. Šiuo atveju nustatant šilumos pajamų metinį lygį mutatis mutandis taikoma šio straipsnio 5, 6, 8, 10, 11, 12, 14 ir [[#^s-10a31220addda0fe691714cd|19 dalyse]] numatyta šilumos pajamų metinio lygio nustatymo procedūra, o savivaldybės taryba taikant šią procedūrą nedalyvauja. ^s-ac3c11f7dcea41972a33baa7
+16. Jeigu šilumos tiekėjas, kurio daugiau kaip 1/2 akcijų nuosavybės teise priklauso vienai ar kelioms savivaldybėms ir kuris valdo skirtingose savivaldybėse esančias šilumos tiekimo sistemas, nustato vienodą šilumos pajamų bazinį lygį visoms šioms savivaldybėms, šilumos pajamų metinį lygį jis nustato savo įstatuose nustatyta tvarka, jį apskaičiavęs pagal Šilumos kainų nustatymo metodiką. Šiuo atveju nustatant šilumos pajamų metinį lygį mutatis mutandis taikoma šio straipsnio [[#^s-5eb434e97b5397689a2202e9|5]], [[#^s-2c88e58ddc24c8299e004cce|6]], [[#^s-8dc2663e71c125f1eda18ca8|8]], [[#^s-426fe901c40db67b9bf0adff|10]], [[#^s-41234438c8aeb85260c39cfe|11]], [[#^s-07e106bc4b02bd18449dbfbf|12]], [[#^s-7cbbd5a4cfc0b40044e521d4|14]] ir [[#^s-10a31220addda0fe691714cd|19]] dalyse numatyta šilumos pajamų metinio lygio nustatymo procedūra, o savivaldybės taryba taikant šią procedūrą nedalyvauja. ^s-ac3c11f7dcea41972a33baa7
 
 
-17. Šio įstatymo [[#^s-6818157673112141db1b272b|10 straipsnio 3 dalyje]] numatytas nepriklausomas šilumos gamintojas nustato šilumos pajamų metinį lygį savo įstatuose nustatyta tvarka, apskaičiavęs jį pagal Šilumos kainų nustatymo metodiką, ir, jeigu vykdoma bendra šilumos ir elektros energijos gamyba, pagal Tarybos patvirtintą kogeneracinių jėgainių šilumos ir elektros energijos sąnaudų atskyrimo metodiką. Šiuo atveju nustatant šilumos pajamų metinį lygį mutatis mutandis taikoma šio straipsnio 6, 8, 9, 10, 11, 12 ir [[#^s-7cbbd5a4cfc0b40044e521d4|14 dalyse]] numatyta šilumos pajamų lygio nustatymo procedūra, o savivaldybės taryba taikant šią procedūrą nedalyvauja. ^s-ce16ed0aed869b0b3ff53945
+17. Šio įstatymo [[#^s-6818157673112141db1b272b|10 straipsnio 3 dalyje]] numatytas nepriklausomas šilumos gamintojas nustato šilumos pajamų metinį lygį savo įstatuose nustatyta tvarka, apskaičiavęs jį pagal Šilumos kainų nustatymo metodiką, ir, jeigu vykdoma bendra šilumos ir elektros energijos gamyba, pagal Tarybos patvirtintą kogeneracinių jėgainių šilumos ir elektros energijos sąnaudų atskyrimo metodiką. Šiuo atveju nustatant šilumos pajamų metinį lygį mutatis mutandis taikoma šio straipsnio [[#^s-2c88e58ddc24c8299e004cce|6]], [[#^s-8dc2663e71c125f1eda18ca8|8]], [[#^s-4da16ac4b452078d5d7bffda|9]], [[#^s-426fe901c40db67b9bf0adff|10]], [[#^s-41234438c8aeb85260c39cfe|11]], [[#^s-07e106bc4b02bd18449dbfbf|12]] ir [[#^s-7cbbd5a4cfc0b40044e521d4|14]] dalyse numatyta šilumos pajamų lygio nustatymo procedūra, o savivaldybės taryba taikant šią procedūrą nedalyvauja. ^s-ce16ed0aed869b0b3ff53945
 
 
 18. Karšto vandens tiekėjas, vadovaudamasis Tarybos patvirtinta karšto vandens kainų nustatymo metodika (toliau – Karšto vandens kainų nustatymo metodika), parengia ir teikia Tarybai ir (arba) savivaldybės institucijai karšto vandens kainos dedamųjų projektą. Jeigu karšto vandens tiekėjas yra ir šilumos tiekėjas, realizuojantis ne mažiau kaip 10 GWh šilumos per metus, arba tiekia karštą vandenį šio šilumos tiekėjo teritorijoje, savivaldybės institucija ne vėliau kaip per 30 dienų teikia Tarybai karšto vandens kainos dedamųjų suderinimo dokumentus ir (ar) pagrįstas pastabas. Taryba, išnagrinėjusi savivaldybės institucijos pastabas arba per 30 kalendorinių dienų jų negavusi, per 30 kalendorinių dienų nuo visų tinkamai įformintų dokumentų gavimo dienos nustato karšto vandens kainos dedamąsias Karšto vandens kainų nustatymo metodikoje nustatyta tvarka. Kitiems karšto vandens tiekėjams karšto vandens kainų dedamąsias nustato savivaldybių tarybos. Karšto vandens tiekėjas, kurio daugiau kaip 1/2 akcijų nuosavybės teise priklauso vienai ar kelioms savivaldybėms ir kuris tiekia karštą vandenį skirtingose savivaldybėse, nustato karšto vandens kainų dedamąsias savo įstatuose nustatyta tvarka, apskaičiavęs jas pagal Karšto vandens kainų nustatymo metodiką ir suderinęs su Taryba. Ginčus ir skundus dėl karšto vandens kainos dedamųjų nustatymo teisėtumo nagrinėja Taryba. Karšto vandens tiekėjo, kuriam karšto vandens kainų dedamąsias nustato savivaldybės taryba, skundus dėl karšto vandens kainos dedamųjų nustatymo teisėtumo ne teismo tvarka nagrinėja Taryba. Karšto vandens tiekėjo, kuriam karšto vandens kainų dedamąsias nustato savivaldybės taryba, skundai nagrinėjami mutatis mutandis [[#^s-5bedc352a402c3a61bb40f58|šio straipsnio 15 dalyje]] nustatyta tvarka. Jeigu karšto vandens tiekėjas laiku nepateikia Tarybai karšto vandens kainos dedamųjų projekto ir (ar) laiku ar tinkamai nepateikia visų karšto vandens kainos dedamosioms nustatyti reikalingų dokumentų, galioja esamos karšto vandens kainos dedamosios, kol Taryba patvirtina ir (ar) suderinta naujas karšto vandens kainos dedamąsias. ^s-d9dd8ac7a6fc3a1c62152cad
@@ -1963,10 +1963,10 @@ priedas
 
 
 
-1. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/2001 dėl skatinimo naudoti atsinaujinančiųjų išteklių energiją su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1711. ^s-1cff48513802fc1341ca1709
+1. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos [direktyva (ES) 2018/2001](https://eur-lex.europa.eu/eli/dir/2018/2001/oj) dėl skatinimo naudoti atsinaujinančiųjų išteklių energiją su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1711](https://eur-lex.europa.eu/eli/dir/2024/1711/oj). ^s-1cff48513802fc1341ca1709
 
 
-2. 2023 m. rugsėjo 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/1791 dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamas Reglamentas (ES) 2023/955. ^s-14a319ec65192c059a536c25
+2. 2023 m. rugsėjo 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/1791](https://eur-lex.europa.eu/eli/dir/2023/1791/oj) dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamas [Reglamentas (ES) 2023/955](https://eur-lex.europa.eu/eli/reg/2023/955/oj). ^s-14a319ec65192c059a536c25
 
 
 _______________
@@ -2058,14 +2058,14 @@ Nr. XII-192, 2013-03-14, Žin., 2013, Nr. 31-1528 (2013-03-26)
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-492, 2013-07-02, Žin., 2013, Nr. 78-3937 (2013-07-20)
-[[#^s-16453507bf47afa5ec5b1b84|ŠILUMOS ŪKIO ĮSTATYMO 2, 3, 7, 8, 10, 32 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 8(1) STRAIPSNIU ĮSTATYMAS
-Šio įstatymo [[#^s-defd841ecb2133dd96eabf6a|7 straipsnio]], kuriuo [[#^s-16453507bf47afa5ec5b1b84|Lietuvos Respublikos šilumos ūkio įstatymo 32 straipsnis]] papildomas naujomis 3 ir [[#^s-50ec225455efd28db13006ef|4 dalimis]], nuostatos, susijusios su vidutinės biokuro kainos taikymu, galioja nuo 2014 m. sausio 1 d. iki 2016 m. sausio 1 d.
-Nuo 2016 m. sausio 1 d. galioja šio įstatymo [[#^s-defd841ecb2133dd96eabf6a|7 straipsnio]], kuriuo [[#^s-16453507bf47afa5ec5b1b84|Lietuvos Respublikos šilumos ūkio įstatymo 32 straipsnis]] papildomas naujomis 3 ir [[#^s-50ec225455efd28db13006ef|4 dalimis]], nuostatos, susijusios su vidutinės biokuro biržos kainos taikymu.
+ŠILUMOS ŪKIO ĮSTATYMO [[#^s-8cd84629df76329400342a4a|2]], [[#^s-1889345139aa37043618262b|3]], [[#^s-defd841ecb2133dd96eabf6a|7]], [[#^s-73cdbebfee0b8d7b13727e61|8]], [[#^s-39d0a9e3d272a09b5dbb83b8|10]], [[#^s-16453507bf47afa5ec5b1b84|32]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 8(1) STRAIPSNIU ĮSTATYMAS
+Šio įstatymo [[#^s-defd841ecb2133dd96eabf6a|7 straipsnio]], kuriuo [[#^s-16453507bf47afa5ec5b1b84|Lietuvos Respublikos šilumos ūkio įstatymo 32 straipsnis]] papildomas naujomis [[#^s-9f53439328fdd9acc1837e8e|3]] ir [[#^s-7950a617678efde0462a1bb2|4]] dalimis, nuostatos, susijusios su vidutinės biokuro kainos taikymu, galioja nuo 2014 m. sausio 1 d. iki 2016 m. sausio 1 d.
+Nuo 2016 m. sausio 1 d. galioja šio įstatymo [[#^s-defd841ecb2133dd96eabf6a|7 straipsnio]], kuriuo [[#^s-16453507bf47afa5ec5b1b84|Lietuvos Respublikos šilumos ūkio įstatymo 32 straipsnis]] papildomas naujomis [[#^s-9f53439328fdd9acc1837e8e|3]] ir [[#^s-7950a617678efde0462a1bb2|4]] dalimis, nuostatos, susijusios su vidutinės biokuro biržos kainos taikymu.
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-880, 2014-05-13, paskelbta TAR 2014-05-16, i. k. 2014-05481
-LIETUVOS RESPUBLIKOS ŠILUMOS ŪKIO ĮSTATYMO NR. IX-1565 20 IR [[#^s-9b410f030cae3dd965b3ce63|22 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ŠILUMOS ŪKIO ĮSTATYMO NR. IX-1565 [[#^s-befdab40924bc138813d50ab|20]] IR [[#^s-9b410f030cae3dd965b3ce63|22]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. birželio 1 d.
 
 
@@ -2098,7 +2098,7 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-bab45531aaf0d1e2
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2705, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26486
-Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 11, 12, 14 ir [[#^s-3878e1d9383a023ff425632c|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-8cd84629df76329400342a4a|2]], [[#^s-0a3e0214a5ac8dc7567983fb|11]], [[#^s-42617744790f6a11e5fb2f8e|12]], [[#^s-3dc6375dea6f5dc3c5205518|14]] ir [[#^s-3878e1d9383a023ff425632c|16]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2113,17 +2113,17 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-3bceadca3c08d4cc
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1062, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05880
-Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 10, 20, [[#^s-16453507bf47afa5ec5b1b84|32 straipsnių]] pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-8cd84629df76329400342a4a|2]], [[#^s-39d0a9e3d272a09b5dbb83b8|10]], [[#^s-befdab40924bc138813d50ab|20]], [[#^s-16453507bf47afa5ec5b1b84|32]] straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1168, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08641
-Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 7 ir [[#^s-3bceadca3c08d4cc9e22d39b|37 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-defd841ecb2133dd96eabf6a|7]] ir [[#^s-3bceadca3c08d4cc9e22d39b|37]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1628, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18861
-Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 30 ir [[#^s-32b9c0cded48317f45461eee|34 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-b294d59323f970bc60c0de01|30]] ir [[#^s-32b9c0cded48317f45461eee|34]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2133,17 +2133,17 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-16453507bf47afa5
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1974, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03173
-Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 3, 10, 10-1, 11, 12, 15, 18, 20, 21, 22, 26, 29, 30, 31, 32, 33, 34, 35 ir [[#^s-3bceadca3c08d4cc9e22d39b|37 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-8cd84629df76329400342a4a|2]], [[#^s-1889345139aa37043618262b|3]], [[#^s-39d0a9e3d272a09b5dbb83b8|10]], 10-1, [[#^s-0a3e0214a5ac8dc7567983fb|11]], [[#^s-42617744790f6a11e5fb2f8e|12]], [[#^s-c274e597b01e2317919eb6ae|15]], [[#^s-e05b8a19a427ebd8ad9b622f|18]], [[#^s-befdab40924bc138813d50ab|20]], [[#^s-bab45531aaf0d1e269b4a93f|21]], [[#^s-9b410f030cae3dd965b3ce63|22]], [[#^s-bd95cc3da90a8bab7871a133|26]], [[#^s-49328713468a3d2314a228ad|29]], [[#^s-b294d59323f970bc60c0de01|30]], [[#^s-c4757acecf1fd916a08165d4|31]], [[#^s-16453507bf47afa5ec5b1b84|32]], [[#^s-8fb592176221c22b1e697340|33]], [[#^s-32b9c0cded48317f45461eee|34]], [[#^s-39d31f654ac62aec069265ab|35]] ir [[#^s-3bceadca3c08d4cc9e22d39b|37]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3018, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13235
-Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 8, 11 ir [[#^s-c274e597b01e2317919eb6ae|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-73cdbebfee0b8d7b13727e61|8]], [[#^s-0a3e0214a5ac8dc7567983fb|11]] ir [[#^s-c274e597b01e2317919eb6ae|15]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3123, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15366
-Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 3, 6, 7, 8, 8-1, 10 ir [[#^s-8fb592176221c22b1e697340|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-8cd84629df76329400342a4a|2]], [[#^s-1889345139aa37043618262b|3]], [[#^s-f0fb6cafc6dfe7337e674978|6]], [[#^s-defd841ecb2133dd96eabf6a|7]], [[#^s-73cdbebfee0b8d7b13727e61|8]], 8-1, [[#^s-39d0a9e3d272a09b5dbb83b8|10]] ir [[#^s-8fb592176221c22b1e697340|33]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2153,17 +2153,17 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-16453507bf47afa5
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-980, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06315
-Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 1, 2, 12, 17, 20, 22, 28, 29, 30, [[#^s-16453507bf47afa5ec5b1b84|32 straipsnių]] pakeitimo ir Įstatymo papildymo priedu įstatymas
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-4715cc06f66432502f99fe25|1]], [[#^s-8cd84629df76329400342a4a|2]], [[#^s-42617744790f6a11e5fb2f8e|12]], [[#^s-6154bfdc1dc99020ca36bc01|17]], [[#^s-befdab40924bc138813d50ab|20]], [[#^s-9b410f030cae3dd965b3ce63|22]], [[#^s-fbcb7b2caf86906465a2aa6f|28]], [[#^s-49328713468a3d2314a228ad|29]], [[#^s-b294d59323f970bc60c0de01|30]], [[#^s-16453507bf47afa5ec5b1b84|32]] straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1298, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14926
-Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 20, 23, 24 ir [[#^s-16453507bf47afa5ec5b1b84|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-8cd84629df76329400342a4a|2]], [[#^s-befdab40924bc138813d50ab|20]], [[#^s-bcb34f67e59ec629148a9b6d|23]], [[#^s-1885c7ed1a8640cae9ec1e61|24]] ir [[#^s-16453507bf47afa5ec5b1b84|32]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1876, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07541
-Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 1, 2, 3, 7, 8, 9, 10, 10-1, 12, 15, 17, 20, 22, 30, 32, 34, 35, 36, [[#^s-3bceadca3c08d4cc9e22d39b|37 straipsnių]], aštuntojo ir vienuoliktojo skirsnių pavadinimų pakeitimo ir Įstatymo papildymo 8-2, 10-2, 29-1 straipsniais įstatymas
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-4715cc06f66432502f99fe25|1]], [[#^s-8cd84629df76329400342a4a|2]], [[#^s-1889345139aa37043618262b|3]], [[#^s-defd841ecb2133dd96eabf6a|7]], [[#^s-73cdbebfee0b8d7b13727e61|8]], [[#^s-bf605389ece19b3e0ec07a14|9]], [[#^s-39d0a9e3d272a09b5dbb83b8|10]], 10-1, [[#^s-42617744790f6a11e5fb2f8e|12]], [[#^s-c274e597b01e2317919eb6ae|15]], [[#^s-6154bfdc1dc99020ca36bc01|17]], [[#^s-befdab40924bc138813d50ab|20]], [[#^s-9b410f030cae3dd965b3ce63|22]], [[#^s-b294d59323f970bc60c0de01|30]], [[#^s-16453507bf47afa5ec5b1b84|32]], [[#^s-32b9c0cded48317f45461eee|34]], [[#^s-39d31f654ac62aec069265ab|35]], [[#^s-712744ee3488366e3e018f89|36]], [[#^s-3bceadca3c08d4cc9e22d39b|37]] straipsnių, aštuntojo ir vienuoliktojo skirsnių pavadinimų pakeitimo ir Įstatymo papildymo 8-2, 10-2, 29-1 straipsniais įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2173,7 +2173,7 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-8cd84629df763294
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-241, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11010
-Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 7, 8, 8-2, 10-2, [[#^s-49328713468a3d2314a228ad|29 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 8-3 straipsniu įstatymas
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-8cd84629df76329400342a4a|2]], [[#^s-defd841ecb2133dd96eabf6a|7]], [[#^s-73cdbebfee0b8d7b13727e61|8]], 8-2, 10-2, [[#^s-49328713468a3d2314a228ad|29]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 8-3 straipsniu įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2183,4 +2183,4 @@ Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-16453507bf47afa5
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1075, 2026-06-25, paskelbta TAR 2026-07-03, i. k. 2026-11528
-Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 2, 10, 12, 13, 20, 23 ir [[#^s-16453507bf47afa5ec5b1b84|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos šilumos ūkio įstatymo Nr. IX-1565 [[#^s-8cd84629df76329400342a4a|2]], [[#^s-39d0a9e3d272a09b5dbb83b8|10]], [[#^s-42617744790f6a11e5fb2f8e|12]], [[#^s-2ece9342587ba588ebfd86fc|13]], [[#^s-befdab40924bc138813d50ab|20]], [[#^s-bcb34f67e59ec629148a9b6d|23]] ir [[#^s-16453507bf47afa5ec5b1b84|32]] straipsnių pakeitimo įstatymas

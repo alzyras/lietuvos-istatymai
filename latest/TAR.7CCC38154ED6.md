@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-90f45165825c9846a3a0d064
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. lapkričio 14 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1972 metų Europos konvenciją dėl baudžiamojo proceso perdavimo“, ratifikuoja su išlygomis ir pareiškimais 1972 metų Europos konvenciją dėl baudžiamojo proceso perdavimo, pasirašytą 1997 m. balandžio 17 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. lapkričio 14 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1972 metų Europos konvenciją dėl baudžiamojo proceso perdavimo“](https://e-tar.lt/portal/lt/legalAct/TAR.F990CBDDA625), ratifikuoja su išlygomis ir pareiškimais 1972 metų Europos konvenciją dėl baudžiamojo proceso perdavimo, pasirašytą 1997 m. balandžio 17 d. Strasbūre.
 
 
 

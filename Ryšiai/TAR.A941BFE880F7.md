@@ -9,10 +9,8 @@ pavadinimas: "Lietuvos Respublikos gyventojų registro įstatymo pakeitimo įsta
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - 8 citatos - Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo
-- [[latest/TAR.DCBDC82E26CD|Lietuvos Respublikos gyventojų registro įstatymas]] - Lietuvos Respublikos gyventojų registro įstatymo
+- [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - 4 citatos - Asmens duomenų teisinės apsaugos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.DCBDC82E26CD#^s-b28017e3a0462d97d121fe81|Lietuvos Respublikos gyventojų registro įstatymas]] - 3 citatos - 0991010ISTAIII-1085
-- [[latest/TAR.DCBDC82E26CD#^s-e3fe97352bcf57a3f72e7eea|Lietuvos Respublikos gyventojų registro įstatymas]] - 3 citatos - 0991010ISTAIII-1085
+- [[latest/TAR.DCBDC82E26CD#^s-e3fe97352bcf57a3f72e7eea|Lietuvos Respublikos gyventojų registro įstatymas]] - 2 citatos - 0991010ISTAIII-1085

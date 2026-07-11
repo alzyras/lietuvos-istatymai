@@ -301,7 +301,7 @@ Rūmai moka mokesčius valstybei Lietuvos Respublikos įstatymų nustatyta tvark
 ### 8 straipsnis. Rūmų steigimas ^s-068edeacab37782762c109ce
 
 
-Rūmų steigėjais gali būti juridiniai ir fiziniai asmenys, nurodyti šio įstatymo [[#^s-9f52f2343a82e7af83c70f0a|3 straipsnyje]]. Įsigaliojus šiam įstatymui, ne vėliau kaip po keturių mėnesių turi būti sušaukiami Rūmų steigiamieji susirinkimai. Juos šaukia pagal Lietuvos Respublikos Vyriausybės 1991 m. spalio 25 d. nutarimą Nr. 440 Vilniuje, Kaune, Klaipėdoje, Šiauliuose ir Panevėžyje įsteigti regioniniai prekybos ir pramonės rūmai. Rūmų steigėjai yra Rūmų nariai. Rūmai registruojami Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Rūmų steigėjais gali būti juridiniai ir fiziniai asmenys, nurodyti šio įstatymo [[#^s-9f52f2343a82e7af83c70f0a|3 straipsnyje]]. Įsigaliojus šiam įstatymui, ne vėliau kaip po keturių mėnesių turi būti sušaukiami Rūmų steigiamieji susirinkimai. Juos šaukia pagal Lietuvos Respublikos Vyriausybės [1991 m. spalio 25 d. nutarimą Nr. 440](https://e-tar.lt/portal/lt/legalAct/TAR.D626D5A74E82) Vilniuje, Kaune, Klaipėdoje, Šiauliuose ir Panevėžyje įsteigti regioniniai prekybos ir pramonės rūmai. Rūmų steigėjai yra Rūmų nariai. Rūmai registruojami Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 
 
@@ -355,10 +355,10 @@ Likvidavimo atveju Rūmų bei jų Asociacijos sukauptos lėšos, pastatai ir kit
 Pasiūlyti Lietuvos Respublikos Vyriausybei ne vėliau kaip per vieną mėnesį nuo šio įstatymo priėmimo dienos nustatyti Rūmų bei jų Asociacijos registravimo tvarką.
 
 
-Įregistravus Rūmus bei jų Asociaciją Lietuvos Respublikos Vyriausybės nustatyta tvarka, pagal Vyriausybės 1991 m. spalio 25 d. nutarimą Nr. 440 Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Marijampolėje anksčiau veikusieji regioniniai prekybos ir pramonės rūmai bei jų asociacija yra likviduojami šių rūmų bei jų asociacijos visuotiniuose narių susirinkimuose nustatyta tvarka.
+Įregistravus Rūmus bei jų Asociaciją Lietuvos Respublikos Vyriausybės nustatyta tvarka, pagal Vyriausybės [1991 m. spalio 25 d. nutarimą Nr. 440](https://e-tar.lt/portal/lt/legalAct/TAR.D626D5A74E82) Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Marijampolėje anksčiau veikusieji regioniniai prekybos ir pramonės rūmai bei jų asociacija yra likviduojami šių rūmų bei jų asociacijos visuotiniuose narių susirinkimuose nustatyta tvarka.
 
 
-Įregistruoti Rūmai bei jų Asociacija yra iki šio įstatymo priėmimo pagal Lietuvos Respublikos Vyriausybės 1991 m. spalio 25 d. nutarimą Nr. 440 veikusių regioninių prekybos ir pramonės rūmų bei jų asociacijos turto, teisių ir pareigų perėmėjai.
+Įregistruoti Rūmai bei jų Asociacija yra iki šio įstatymo priėmimo pagal Lietuvos Respublikos Vyriausybės [1991 m. spalio 25 d. nutarimą Nr. 440](https://e-tar.lt/portal/lt/legalAct/TAR.D626D5A74E82) veikusių regioninių prekybos ir pramonės rūmų bei jų asociacijos turto, teisių ir pareigų perėmėjai.
 
 
 Pasiūlyti Lietuvos Respublikos Vyriausybei ne vėliau kaip per tris mėnesius nuo šio įstatymo priėmimo dienos nustatyti žodžio „Rūmai“ vartojimo įvairių rūšių įmonių bei organizacijų pavadinimuose tvarką.

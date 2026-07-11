@@ -72,7 +72,7 @@ Papildyti Įstatymą 591 straipsniu:
 4. Nekompensuojamojo vaistinio preparato mažmeninė kaina negali būti didesnė negu vaistinio preparato rinkodaros teisės turėtojo ar lygiagretaus importo leidimo turėtojo deklaruota kaina pridėjus Vyriausybės nustatytus didmeninės ir mažmeninės prekybos antkainius ir pridėtinės vertės mokestį. ^s-645e069baa4448638d84817c
 
 
-5. Šio straipsnio 1, 2, 3 ir [[#^s-645e069baa4448638d84817c|4 dalyse]] nustatyti reikalavimai netaikomi nekompensuojamiesiems receptiniams vardiniams vaistiniams preparatams. ^s-b1e05e0137983b38d1f7e79b
+5. Šio straipsnio [[#^s-4fc205f18520cc6badbe6da0|1]], [[#^s-3b8daa95d91bd04961be72d3|2]], [[#^s-7e4d241a55b45c1d09fca267|3]] ir [[#^s-645e069baa4448638d84817c|4]] dalyse nustatyti reikalavimai netaikomi nekompensuojamiesiems receptiniams vardiniams vaistiniams preparatams. ^s-b1e05e0137983b38d1f7e79b
 
 
 6. Nekompensuojamosios medicinos pagalbos priemonės parduodamos rinkos kaina.“ ^s-dfea951a9d28dc258440c058

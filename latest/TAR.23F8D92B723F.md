@@ -363,7 +363,7 @@ Kad vandens telkinius būtų galima naudoti vandeniui išgauti, nuotekoms išlei
 2. Aplinkosaugos sąlygas vandens telkinių dugno valymo ir gilinimo darbams laivybos reikmėms nustato aplinkos ministras. ^s-ca74128c98c8422069fef86d
 
 
-3. Laivybą vidaus vandenų keliuose reglamentuoja Vidaus vandenų transporto kodeksas. Laivybai vidaus vandenų keliuose vandens naudojimo leidimo nereikia. ^s-a444ee6ad9fffe7a7365d236
+3. Laivybą vidaus vandenų keliuose reglamentuoja [Vidaus vandenų transporto kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F). Laivybai vidaus vandenų keliuose vandens naudojimo leidimo nereikia. ^s-a444ee6ad9fffe7a7365d236
 
 
 

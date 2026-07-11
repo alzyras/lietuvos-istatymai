@@ -406,10 +406,10 @@ Pakeisti 109 straipsnį ir jį išdėstyti taip:
 1. Vertybinių popierių komisija, siekdama nustatyti, ar laikomasi šio įstatymo ir jo pagrindu priimtų teisės aktų, turi teisę organizuoti ir atlikti kolektyvinio investavimo subjektų veiklos patikrinimus. ^s-f3a0759cc163f8711fcd8fda
 
 
-2. Atlikdami kolektyvinio investavimo subjektų veiklos patikrinimą, Vertybinių popierių komisijos darbuotojai turi Finansinių priemonių rinkų įstatymo 85 straipsnio 2 dalyje nustatytas teises. Šioms teisėms įgyvendinti Vertybinių popierių komisija gali pasitelkti policijos pareigūnus. ^s-18b80ac8def035aed75a6820
+2. Atlikdami kolektyvinio investavimo subjektų veiklos patikrinimą, Vertybinių popierių komisijos darbuotojai turi [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymo 85 straipsnio 2 dalyje]] nustatytas teises. Šioms teisėms įgyvendinti Vertybinių popierių komisija gali pasitelkti policijos pareigūnus. ^s-18b80ac8def035aed75a6820
 
 
-3. Vertybinių popierių komisija, turėdama pagrindą įtarti, kad buvo pažeistos šio įstatymo ar jo pagrindu priimtų teisės aktų nuostatos, ir siekdama išvengti esminės žalos ar nepataisomų pasekmių investuotojų interesams, turi teisę įpareigoti nutraukti tokią veiklą, kol bus atliktas tyrimas ir priimtas Vertybinių popierių komisijos sprendimas dėl įtariamo pažeidimo. Vertybinių popierių komisijos sprendimas įpareigoti nutraukti veiklą gali būti priimtas tik turint teismo leidimą. Teismo leidimas gaunamas Finansinių priemonių rinkų įstatymo 85 straipsnio 4 dalyje nustatyta tvarka. ^s-e8b52616d6106bf8652870f3
+3. Vertybinių popierių komisija, turėdama pagrindą įtarti, kad buvo pažeistos šio įstatymo ar jo pagrindu priimtų teisės aktų nuostatos, ir siekdama išvengti esminės žalos ar nepataisomų pasekmių investuotojų interesams, turi teisę įpareigoti nutraukti tokią veiklą, kol bus atliktas tyrimas ir priimtas Vertybinių popierių komisijos sprendimas dėl įtariamo pažeidimo. Vertybinių popierių komisijos sprendimas įpareigoti nutraukti veiklą gali būti priimtas tik turint teismo leidimą. Teismo leidimas gaunamas [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymo 85 straipsnio 4 dalyje]] nustatyta tvarka. ^s-e8b52616d6106bf8652870f3
 
 
 4. [[#^s-e8b52616d6106bf8652870f3|Šio straipsnio 3 dalyje]] nurodytas Vertybinių popierių komisijos sprendimas gali būti skundžiamas Vilniaus apygardos administraciniam teismui per vieną mėnesį nuo sprendimo priėmimo dienos. Skundo padavimas sprendimo vykdymo nesustabdo. ^s-84fe0e21dc4ea444c657b3c0

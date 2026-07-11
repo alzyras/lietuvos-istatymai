@@ -66,7 +66,7 @@ Iki bus priimtas įstatymas, reglamentuojantis iš valstybės ir savivaldybių b
 ### 3 straipsnis. Netekę galios teisės aktai ^s-942a9bfd79ceb7afb8d4b1df
 
 
-Įsigaliojus šiam įstatymui, netenka galios Seimo nutarimai “Dėl Lietuvos gyventojų genocido ir rezistencijos tyrimo centro nuostatų patvirtinimo” (Žin., 1994, Nr. 33-588) ir “Dėl Lietuvos gyventojų genocido ir rezistencijos tyrimo centro nuostatų papildymo” (Žin., 1995, Nr. 56-1393).
+Įsigaliojus šiam įstatymui, netenka galios Seimo nutarimai “Dėl Lietuvos gyventojų genocido ir rezistencijos tyrimo centro nuostatų patvirtinimo” (Žin., 1994, Nr. 33-588) ir “[Dėl Lietuvos gyventojų genocido ir rezistencijos tyrimo centro nuostatų papildymo](https://e-tar.lt/portal/lt/legalAct/TAR.D32B322EAB88)” (Žin., 1995, Nr. 56-1393).
 
 
 

@@ -66,10 +66,10 @@ BENDROSIOS NUOSTATOS
 1. Augalų bendrija – augalų ir grybų rūšių populiacijų sambūvis tam tikroje erdvėje tam tikru laiku. ^s-66a2778dfbc29c70f6bb26a6
 
 
-2. Ekosisteminės paslaugos – ši sąvoka atitinka Reglamento (ES) Nr. 1143/2014 3 straipsnio 6 punkte apibrėžtą sąvoką „ekosistemų funkcijos“. ^s-9cd7415aa60d31991abcae9c
+2. Ekosisteminės paslaugos – ši sąvoka atitinka [Reglamento (ES) Nr. 1143/2014 3 straipsnio](https://eur-lex.europa.eu/eli/reg/1143/2014/art_3/oj) 6 punkte apibrėžtą sąvoką „ekosistemų funkcijos“. ^s-9cd7415aa60d31991abcae9c
 
 
-3. Invazinė rūšis – ši sąvoka atitinka Reglamento (ES) Nr. 1143/2014 3 straipsnio 2 punkte apibrėžtą sąvoką „invazinės svetimos rūšys“. ^s-fce9dd6d94e3f9c0609f63be
+3. Invazinė rūšis – ši sąvoka atitinka [Reglamento (ES) Nr. 1143/2014 3 straipsnio](https://eur-lex.europa.eu/eli/reg/1143/2014/art_3/oj) 2 punkte apibrėžtą sąvoką „invazinės svetimos rūšys“. ^s-fce9dd6d94e3f9c0609f63be
 
 
 4. Laukinis augalas – natūraliai augantis ar pasodintas laukinių augalų rūšies bet kurios vystymosi stadijos individas. Laukiniais augalais pagal šį įstatymą taip pat laikomos augalų sėklos, dalys ar gaminiai iš jų, taip pat sunykę augalų egzemplioriai. ^s-8d1045a5b405f99472eee045
@@ -99,10 +99,10 @@ BENDROSIOS NUOSTATOS
 12. Prekyba laukiniais augalais ir grybais – laukinių augalų ir grybų, jų dalių ar gaminių iš jų pirkimas, pardavimas, supirkimas, nuoma, mainai, siūlymas parduoti arba kitas veiksmas, kurį galima prilyginti išvardytiems, įskaitant reklamavimą arba parduoti skatinančio veiksmo skelbimą ir kvietimą tartis, laikymas prekybai, vežimas komerciniais tikslais, įvežimas į Lietuvos Respubliką (įskaitant įvežimą iš jūros) iš Europos Sąjungai nepriklausančių šalių arba išvežimas iš Lietuvos Respublikos į Europos Sąjungai nepriklausančias šalis, vežimas tranzitu per Lietuvos Respublikos teritoriją, viešas eksponavimas siekiant gauti pajamų, viešų vietų puošimas laukiniais augalais ar grybais, jų dalimis ar gaminiais iš jų. ^s-8f54bacfd8c3e951cddc30eb
 
 
-13. Svetimžemė augalų, grybų ar mikroorganizmų rūšis (toliau – svetimžemė rūšis) – ši sąvoka atitinka Reglamento (ES) Nr. 1143/2014 3 straipsnio 1 punkte apibrėžtą sąvoką „svetimos rūšys“. ^s-9b121e7c592f9ec0f0754240
+13. Svetimžemė augalų, grybų ar mikroorganizmų rūšis (toliau – svetimžemė rūšis) – ši sąvoka atitinka [Reglamento (ES) Nr. 1143/2014 3 straipsnio](https://eur-lex.europa.eu/eli/reg/1143/2014/art_3/oj) 1 punkte apibrėžtą sąvoką „svetimos rūšys“. ^s-9b121e7c592f9ec0f0754240
 
 
-14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatyme]], [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatyme]], [[latest/TAR.80CA64E588A1|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme]], [[latest/TAR.55D93E8A9C77|Augalų nacionalinių genetinių išteklių įstatyme]], [[latest/TAR.5D6D055CC00C|Miškų įstatyme]], [[latest/TAR.1746D2A4EFB9|Saugomų gyvūnų, augalų ir grybų rūšių įstatyme]], [[latest/TAR.BA283DF0FB41|Želdynų įstatyme]], 1996 m. gruodžio 9 d. Tarybos reglamente (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 29 d. Komisijos reglamentu (ES) Nr. 2019/2117, ir Reglamente (ES) Nr. 1143/2014. ^s-aa65dd31f47d56b9baa1140b
+14. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatyme]], [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatyme]], [[latest/TAR.80CA64E588A1|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme]], [[latest/TAR.55D93E8A9C77|Augalų nacionalinių genetinių išteklių įstatyme]], [[latest/TAR.5D6D055CC00C|Miškų įstatyme]], [[latest/TAR.1746D2A4EFB9|Saugomų gyvūnų, augalų ir grybų rūšių įstatyme]], [[latest/TAR.BA283DF0FB41|Želdynų įstatyme]], 1996 m. gruodžio 9 d. Tarybos reglamente (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 29 d. Komisijos [reglamentu (ES) Nr. 2019/2117](https://eur-lex.europa.eu/eli/reg/2019/2117/oj), ir [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj). ^s-aa65dd31f47d56b9baa1140b
 
 
 
@@ -225,7 +225,7 @@ Laukinių augalų ir grybų ir jų išteklių apsauga užtikrinama:
 3) vykdyti laukinių augalų ir grybų perkėlimą, laikydamiesi šio įstatymo reikalavimų; ^s-0815667be6b358810675af3a
 
 
-4) naudoti invazines rūšis, kurios įtrauktos į Reglamente (ES) Nr. 1143/2014 nurodytą Sąjungai susirūpinimą keliančių invazinių rūšių sąrašą (toliau – Sąjungos sąrašas), turėdami šio įstatymo [[#^s-4802504c688ae4e46841ad90|14 straipsnyje]] nurodytą leidimą; ^s-7910c3935a01c488701bcc68
+4) naudoti invazines rūšis, kurios įtrauktos į [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) nurodytą Sąjungai susirūpinimą keliančių invazinių rūšių sąrašą (toliau – Sąjungos sąrašas), turėdami šio įstatymo [[#^s-4802504c688ae4e46841ad90|14 straipsnyje]] nurodytą leidimą; ^s-7910c3935a01c488701bcc68
 
 
 5) prekiauti teisėtai įgytais laukiniais augalais ir grybais; ^s-61b1115debdae93af9b0d810
@@ -255,7 +255,7 @@ Laukinių augalų ir grybų ir jų išteklių apsauga užtikrinama:
 6) neplatinti, neperkelti, neintrodukuoti invazinių rūšių; ^s-f0264d2cea882f6cbc3f5278
 
 
-7) naudodami invazines rūšis, įtrauktas į Reglamente (ES) Nr. 1143/2014 nurodytą Sąjungos sąrašą, laikytis šio reglamento, šio įstatymo reikalavimų ir leidime, nurodytame šio įstatymo [[#^s-73db269d108ffbdfa140d830|10 straipsnyje]], nustatytų sąlygų; ^s-dd27c1b786b79d35241e8896
+7) naudodami invazines rūšis, įtrauktas į [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) nurodytą Sąjungos sąrašą, laikytis šio reglamento, šio įstatymo reikalavimų ir leidime, nurodytame šio įstatymo [[#^s-73db269d108ffbdfa140d830|10 straipsnyje]], nustatytų sąlygų; ^s-dd27c1b786b79d35241e8896
 
 
 8) skubiai sunaikinti uždaroje valdoje augintas (laikytas) ir paplitusias aplinkoje invazines rūšis savo lėšomis; ^s-f8469d1da58bcdb46d51a4dc
@@ -568,19 +568,19 @@ Leidžiama perkelti Lietuvos Respublikos teritorijoje natūraliai augančių rū
 2. Invazines rūšis draudžiama tyčia platinti, introdukuoti, reintrodukuoti, perkelti ir įkurdinti aplinkoje. ^s-8e2b33f75803e71bcbf95399
 
 
-3. Kai tam tikrų svetimžemių rūšių laukiniai augalai ir grybai, patekę į aplinką, galėtų sukelti invazijų į natūralias ekosistemas ir jų sutrikdymo pavojų, keltų grėsmę žmonių sveikatai, kitiems augalams, grybams ar gyvūnams, tam tikrų rūšių laukinių augalų ir grybų auginimas, dauginimas, laikymas, platinimas, įvežimas į Lietuvos Respubliką, išvežimas iš Lietuvos Respublikos, vežimas per Lietuvos Respublikos teritoriją, pateikimas rinkai, mainymas, prekiavimas jomis ir kitoks naudojimas gali būti ribojamas arba draudžiamas. Šias rūšis dauginti, auginti, laikyti, platinti, pateikti rinkai, įvežti į Lietuvos Respubliką, išvežti iš Lietuvos Respublikos ar vežti per Lietuvos Respublikos teritoriją, mainyti, prekiauti jomis ar kitaip naudoti leidžiama laikantis Reglamento (ES) Nr. 1143/2014, šio įstatymo ir Invazinių rūšių valdymo ir naikinimo tvarkos apraše nustatytų reikalavimų. ^s-2a6dc6e988000f2aa459b56c
+3. Kai tam tikrų svetimžemių rūšių laukiniai augalai ir grybai, patekę į aplinką, galėtų sukelti invazijų į natūralias ekosistemas ir jų sutrikdymo pavojų, keltų grėsmę žmonių sveikatai, kitiems augalams, grybams ar gyvūnams, tam tikrų rūšių laukinių augalų ir grybų auginimas, dauginimas, laikymas, platinimas, įvežimas į Lietuvos Respubliką, išvežimas iš Lietuvos Respublikos, vežimas per Lietuvos Respublikos teritoriją, pateikimas rinkai, mainymas, prekiavimas jomis ir kitoks naudojimas gali būti ribojamas arba draudžiamas. Šias rūšis dauginti, auginti, laikyti, platinti, pateikti rinkai, įvežti į Lietuvos Respubliką, išvežti iš Lietuvos Respublikos ar vežti per Lietuvos Respublikos teritoriją, mainyti, prekiauti jomis ar kitaip naudoti leidžiama laikantis [Reglamento (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj), šio įstatymo ir Invazinių rūšių valdymo ir naikinimo tvarkos apraše nustatytų reikalavimų. ^s-2a6dc6e988000f2aa459b56c
 
 
 4. Visuomenės ir atskirų subjektų informavimą apie tam tikrų rūšių laukinių augalų ir grybų auginimo, dauginimo, laikymo, platinimo, įvežimo į Lietuvos Respubliką, išvežimo iš Lietuvos Respublikos, vežimo per Lietuvos Respublikos teritoriją, pateikimo rinkai, mainymo, prekiavimo jomis ir kitokio naudojimo ribojimus ar draudimus organizuoja ir koordinuoja Aplinkos ministerija ir (ar) jos įgaliotos institucijos. ^s-0b2959014fa816f320f26e1a
 
 
-5. Jeigu invazinė rūšis įtraukta ir į Invazinių Lietuvoje rūšių sąrašą, ir į Sąjungos sąrašą, taikomos Reglamento (ES) Nr. 1143/2014 ir šio įstatymo nuostatos, reglamentuojančios į Sąjungos sąrašą įtrauktų rūšių naudojimą. ^s-db3a5eb123f626afbb46b263
+5. Jeigu invazinė rūšis įtraukta ir į Invazinių Lietuvoje rūšių sąrašą, ir į Sąjungos sąrašą, taikomos [Reglamento (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) ir šio įstatymo nuostatos, reglamentuojančios į Sąjungos sąrašą įtrauktų rūšių naudojimą. ^s-db3a5eb123f626afbb46b263
 
 
 6. Aplinkos ministerija ir (ar) jos įgaliota institucija priima sprendimus dėl invazinių rūšių plitimo prevencijos ir valdymo priemonių, nustato įpareigojimus vandens telkinių ir žemės savininkams, naudotojams ir valdytojams dėl atskirų invazinių rūšių, kurios nurodomos Invazinių rūšių valdymo ir naikinimo tvarkos apraše, naikinimo priemonių, kuriomis siekiama užtikrinti, kad invazinės rūšys neplistų į gretimus sklypus ar vandens telkinius, įgyvendinimo. Įpareigojimai dėl atskirų invazinių rūšių naikinimo priemonių įgyvendinimo nustatomi atsižvelgiant į šių rūšių daromą neigiamą poveikį biologinei įvairovei, žmonių sveikatai, plitimo ypatumus ir į naikinimo priemonių veiksmingumą. ^s-ad70426b775e58e6b4dfe49c
 
 
-7. Aplinkos ministerija ir (ar) jos įgaliotos institucijos praneša Europos Komisijai ir kitoms Europos Sąjungos valstybėms narėms apie rūšių, įtrauktų į Sąjungos sąrašą, ankstyvą aptikimą ir likvidavimą, kaip nurodyta Reglamente (ES) Nr. 1143/2014, ir organizuoja šių rūšių likvidavimo priemonių taikymą Invazinių rūšių valdymo ir naikinimo tvarkos apraše nustatyta tvarka. ^s-2d3ebf6b7c9e933f1d452a7d
+7. Aplinkos ministerija ir (ar) jos įgaliotos institucijos praneša Europos Komisijai ir kitoms Europos Sąjungos valstybėms narėms apie rūšių, įtrauktų į Sąjungos sąrašą, ankstyvą aptikimą ir likvidavimą, kaip nurodyta [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj), ir organizuoja šių rūšių likvidavimo priemonių taikymą Invazinių rūšių valdymo ir naikinimo tvarkos apraše nustatyta tvarka. ^s-2d3ebf6b7c9e933f1d452a7d
 
 
 8. Uždaroje valdoje augintos (laikytos) ir paplitusios aplinkoje invazinės rūšys turi būti skubiai pašalintos iš aplinkos arba sunaikintos invazinių rūšių naudotojų lėšomis per Invazinių rūšių valdymo ir naikinimo tvarkos apraše nustatytą terminą. ^s-ad4cca951fa3e5cf88173c82
@@ -590,31 +590,31 @@ Leidžiama perkelti Lietuvos Respublikos teritorijoje natūraliai augančių rū
 ### 14 straipsnis. Leidimo naudoti invazines rūšis išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas ^s-4802504c688ae4e46841ad90
 
 
-1. Vyriausybės įgaliota institucija išduoda šiuos Reglamente (ES) Nr. 1143/2014 nustatytus leidimus naudoti invazines rūšis, įrašytas į Sąjungos sąrašą (taip pat sustabdo jų galiojimą, panaikina galiojimo sustabdymą ir panaikina jų galiojimą) (toliau – leidimas naudoti invazines rūšis): ^s-d36dfb2c784fa7b93d97f792
+1. Vyriausybės įgaliota institucija išduoda šiuos [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) nustatytus leidimus naudoti invazines rūšis, įrašytas į Sąjungos sąrašą (taip pat sustabdo jų galiojimą, panaikina galiojimo sustabdymą ir panaikina jų galiojimą) (toliau – leidimas naudoti invazines rūšis): ^s-d36dfb2c784fa7b93d97f792
 
 
-1) Reglamento (ES) Nr. 1143/2014 [[#^s-c0f73fddd8c9e8d1cee07334|8 straipsnyje]] nurodytus leidimus naudoti invazines rūšis moksliniams tyrimams, ex situ išsaugojimui arba naudoti invazines rūšis medicinos tikslais, kai to reikia siekiant pažangos žmonių sveikatos srityje; ^s-9540e228cfea86784efc7d07
+1) [Reglamento (ES) Nr. 1143/2014 8 straipsnyje](https://eur-lex.europa.eu/eli/reg/1143/2014/art_8/oj) nurodytus leidimus naudoti invazines rūšis moksliniams tyrimams, ex situ išsaugojimui arba naudoti invazines rūšis medicinos tikslais, kai to reikia siekiant pažangos žmonių sveikatos srityje; ^s-9540e228cfea86784efc7d07
 
 
-2) Reglamento (ES) Nr. 1143/2014 [[#^s-b43ab75f6b755f394e712ccc|9 straipsnyje]] nurodytus leidimus naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus. ^s-889466e689a563c777a7b787
+2) [Reglamento (ES) Nr. 1143/2014 9 straipsnyje](https://eur-lex.europa.eu/eli/reg/1143/2014/art_9/oj) nurodytus leidimus naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus. ^s-889466e689a563c777a7b787
 
 
-2. Leidimai naudoti invazines rūšis išduodami, jų galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir jų galiojimas panaikinamas vadovaujantis Reglamentu (ES) Nr. 1143/2014 ir šio straipsnio nuostatomis. ^s-354f0bb3cb03108dc27d2556
+2. Leidimai naudoti invazines rūšis išduodami, jų galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir jų galiojimas panaikinamas vadovaujantis [Reglamentu (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) ir šio straipsnio nuostatomis. ^s-354f0bb3cb03108dc27d2556
 
 
-3. Vyriausybės įgaliota institucija prie išduotų leidimų naudoti invazines rūšis prideda 2016 m. vasario 4 d. Komisijos įgyvendinimo reglamente (ES) Nr. 2016/145, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) Nr. 1143/2014 patvirtinamas formatas dokumento, laikomo įrodymu, kad kompetentingos valstybių narių valdžios institucijos išdavė leidimą įstaigoms vykdyti tam tikrą veiklą, susijusią su Sąjungai susirūpinimą keliančiomis invazinėmis svetimomis rūšimis, nurodytą dokumentą (toliau – leidimo įrodymas). Leidimo įrodymas visais atvejais pridedamas prie leidimo naudoti invazines rūšis ir prie šiame leidime naudoti invazines rūšis nurodytų Sąjungai susirūpinimą keliančių invazinių svetimų rūšių egzempliorių ir yra neatsiejamas nuo leidimo naudoti invazines rūšis. ^s-7144520d69a986bc909b2234
+3. Vyriausybės įgaliota institucija prie išduotų leidimų naudoti invazines rūšis prideda 2016 m. vasario 4 d. Komisijos įgyvendinimo [reglamente (ES) Nr. 2016/145](https://eur-lex.europa.eu/eli/reg/2016/145/oj), kuriuo pagal Europos Parlamento ir Tarybos [reglamentą (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) patvirtinamas formatas dokumento, laikomo įrodymu, kad kompetentingos valstybių narių valdžios institucijos išdavė leidimą įstaigoms vykdyti tam tikrą veiklą, susijusią su Sąjungai susirūpinimą keliančiomis invazinėmis svetimomis rūšimis, nurodytą dokumentą (toliau – leidimo įrodymas). Leidimo įrodymas visais atvejais pridedamas prie leidimo naudoti invazines rūšis ir prie šiame leidime naudoti invazines rūšis nurodytų Sąjungai susirūpinimą keliančių invazinių svetimų rūšių egzempliorių ir yra neatsiejamas nuo leidimo naudoti invazines rūšis. ^s-7144520d69a986bc909b2234
 
 
 4. Vyriausybės įgaliota institucija prireikus kreipiasi į Žemės ūkio ministeriją ar jos įgaliotas institucijas, ar į Valstybinę maisto ir veterinarijos tarnybą, kad šios pagal kompetenciją įvertintų leidimo naudoti invazines rūšis prašytojo pateiktą informaciją ir pateiktų kitą informaciją, reikalingą teikiant Europos Komisijai paraišką išduoti žemės ūkio veiklos subjektams leidimą naudoti invazines rūšis žemės ūkyje tikslais, susijusiais su socialinio ar ekonominio pobūdžio interesais. ^s-10fb659ee3178a8186050ddd
 
 
-5. Kartu su prašymu išduoti leidimą naudoti invazines rūšis moksliniams tyrimams, ex situ išsaugojimui arba naudoti invazines rūšis medicinos tikslais, kai to reikia siekiant pažangos žmonių sveikatos srityje, pateikiami visi dokumentai ir informacija, nurodyti Reglamente (ES) Nr. 1143/2014. Kartu su prašymu išduoti leidimą naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus, pateikiami visi dokumentai ir informacija, nurodyti Reglamente (ES) Nr. 1143/2014, reikalingi teikiant paraišką Europos Komisijai. ^s-ebed35b7f68a6637fc2cc974
+5. Kartu su prašymu išduoti leidimą naudoti invazines rūšis moksliniams tyrimams, ex situ išsaugojimui arba naudoti invazines rūšis medicinos tikslais, kai to reikia siekiant pažangos žmonių sveikatos srityje, pateikiami visi dokumentai ir informacija, nurodyti [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj). Kartu su prašymu išduoti leidimą naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus, pateikiami visi dokumentai ir informacija, nurodyti [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj), reikalingi teikiant paraišką Europos Komisijai. ^s-ebed35b7f68a6637fc2cc974
 
 
-6. Leidimas naudoti invazines rūšis moksliniams tyrimams, ex situ išsaugojimui arba naudoti invazines rūšis medicinos tikslais, kai to reikia siekiant pažangos žmonių sveikatos srityje, išduodamas arba atsisakymas jį išduoti leidimo prašytojui pateikiamas per 30 kalendorinių dienų nuo prašymo, visų tinkamai įformintų dokumentų ir informacijos, nurodytų Reglamente (ES) Nr. 1143/2014, reikalingų išduoti šį leidimą, gavimo dienos. ^s-00c221f3553fb4a32182bd37
+6. Leidimas naudoti invazines rūšis moksliniams tyrimams, ex situ išsaugojimui arba naudoti invazines rūšis medicinos tikslais, kai to reikia siekiant pažangos žmonių sveikatos srityje, išduodamas arba atsisakymas jį išduoti leidimo prašytojui pateikiamas per 30 kalendorinių dienų nuo prašymo, visų tinkamai įformintų dokumentų ir informacijos, nurodytų [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj), reikalingų išduoti šį leidimą, gavimo dienos. ^s-00c221f3553fb4a32182bd37
 
 
-7. Vyriausybės įgaliota institucija, gavusi visus reikalingus dokumentus ar informaciją, nurodytus Reglamente (ES) Nr. 1143/2014, reikalingus išduoti leidimą naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus, ne vėliau kaip per 30 kalendorinių dienų nuo prašymo gavimo dienos išnagrinėja prašymą ir pateikia paraišką Europos Komisijai arba pateikia leidimo prašytojui neigiamą atsakymą dėl paraiškos Europos Komisijai neteikimo. Gavusi pranešimą iš Europos Komisijos, Vyriausybės įgaliota institucija per 10 kalendorinių dienų nuo Europos Komisijos pranešimo gavimo dienos išduoda leidimą naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus, arba leidimo prašytojui pateikia rašytinį atsisakymą išduoti šį leidimą. ^s-cf01b454a070af645eda2d82
+7. Vyriausybės įgaliota institucija, gavusi visus reikalingus dokumentus ar informaciją, nurodytus [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj), reikalingus išduoti leidimą naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus, ne vėliau kaip per 30 kalendorinių dienų nuo prašymo gavimo dienos išnagrinėja prašymą ir pateikia paraišką Europos Komisijai arba pateikia leidimo prašytojui neigiamą atsakymą dėl paraiškos Europos Komisijai neteikimo. Gavusi pranešimą iš Europos Komisijos, Vyriausybės įgaliota institucija per 10 kalendorinių dienų nuo Europos Komisijos pranešimo gavimo dienos išduoda leidimą naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus, arba leidimo prašytojui pateikia rašytinį atsisakymą išduoti šį leidimą. ^s-cf01b454a070af645eda2d82
 
 
 8. Prašymo išduoti leidimą naudoti invazines rūšis nagrinėjimas nutraukiamas, jeigu leidimo naudoti invazines rūšis prašytojas per 60 kalendorinių dienų nuo informacijos apie būtinybę pateikti trūkstamus dokumentus ir (ar) informaciją gavimo dienos Vyriausybės įgaliotai institucijai nepateikia visų prašomų dokumentų, duomenų ir informacijos, reikalingų išduodant leidimą naudoti invazines rūšis ir (ar) teikiant paraišką Europos Komisijai. ^s-19490b7f833541e836293fa5
@@ -629,19 +629,19 @@ Leidžiama perkelti Lietuvos Respublikos teritorijoje natūraliai augančių rū
 11. Leidimo naudoti invazines rūšis galiojimas sustabdomas, jeigu leidimo naudoti invazines rūšis turėtojas: ^s-4ccb1d977d5f8fd9d826c240
 
 
-1) nesilaiko išduotame leidime naudoti invazines rūšis nustatytų sąlygų, nurodytų Reglamente (ES) Nr. 1143/2014; ^s-c144490e5838d4220db70889
+1) nesilaiko išduotame leidime naudoti invazines rūšis nustatytų sąlygų, nurodytų [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj); ^s-c144490e5838d4220db70889
 
 
-2) pažeidžia Reglamento (ES) Nr. 1143/2014 [[#^s-c0f73fddd8c9e8d1cee07334|8 straipsnio]] 2 ir [[#^s-7144520d69a986bc909b2234|3 dalių]] reikalavimus; ^s-efdc4b6a4bf7910590192bd8
+2) pažeidžia [Reglamento (ES) Nr. 1143/2014 8 straipsnio](https://eur-lex.europa.eu/eli/reg/1143/2014/art_8/oj) [[#^s-72a2032cfd9bb818566a8ad9|2]] ir [[#^s-bea5c6cfb736d1e827262a04|3]] dalių reikalavimus; ^s-efdc4b6a4bf7910590192bd8
 
 
-3) dėl kitų priežasčių, nurodytų Reglamento (ES) Nr. 1143/2014 8 straipsnio 5 dalyje; ^s-0501bfa82215db5832802fd8
+3) dėl kitų priežasčių, nurodytų [Reglamento (ES) Nr. 1143/2014 8 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/reg/1143/2014/art_8/par_5/oj); ^s-0501bfa82215db5832802fd8
 
 
 4) pateikia rašytinį prašymą sustabdyti leidimo naudoti invazines rūšis galiojimą ne ilgesniam kaip 2 metų laikotarpiui. ^s-cebd25b97f394b9f577e9446
 
 
-12. Jeigu leidimo naudoti invazines rūšis turėtojas nesilaikė išduotame leidime naudoti invazines rūšis nustatytų sąlygų ir pažeidė šio įstatymo ar Reglamento (ES) Nr. 1143/2014 reikalavimus, prieš priimdama sprendimą dėl leidimo naudoti invazines rūšis galiojimo sustabdymo, Vyriausybės įgaliota institucija ne vėliau kaip per 5 darbo dienas nuo informacijos apie nustatytus pažeidimus gavimo dienos įspėja leidimo naudoti invazines rūšis turėtoją dėl leidimo naudoti invazines rūšis galiojimo sustabdymo ir šiam pažeidimui pašalinti nustato ne ilgesnį kaip 10 kalendorinių dienų terminą, kuris leidimo naudoti invazines rūšis turėtojo prašymu gali būti vieną kartą pratęstas dar 15 kalendorinių dienų. Terminas pažeidimui pašalinti skaičiuojamas nuo leidimo naudoti invazines rūšis turėtojo informavimo apie sprendimo dėl įspėjimo priėmimą dienos. Jeigu per nustatytą laikotarpį leidimo naudoti invazines rūšis turėtojas nepašalina nustatytų pažeidimų, leidimo naudoti invazines rūšis galiojimas sustabdomas ir draudžiama vykdyti visas leidime naudoti invazines rūšis nurodytas veiklas, išskyrus laikymą ir auginimą, užtikrinant, kad invazinės rūšys nesidaugintų ir neplistų aplinkoje. ^s-edc27272d9e99aacf707031b
+12. Jeigu leidimo naudoti invazines rūšis turėtojas nesilaikė išduotame leidime naudoti invazines rūšis nustatytų sąlygų ir pažeidė šio įstatymo ar [Reglamento (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) reikalavimus, prieš priimdama sprendimą dėl leidimo naudoti invazines rūšis galiojimo sustabdymo, Vyriausybės įgaliota institucija ne vėliau kaip per 5 darbo dienas nuo informacijos apie nustatytus pažeidimus gavimo dienos įspėja leidimo naudoti invazines rūšis turėtoją dėl leidimo naudoti invazines rūšis galiojimo sustabdymo ir šiam pažeidimui pašalinti nustato ne ilgesnį kaip 10 kalendorinių dienų terminą, kuris leidimo naudoti invazines rūšis turėtojo prašymu gali būti vieną kartą pratęstas dar 15 kalendorinių dienų. Terminas pažeidimui pašalinti skaičiuojamas nuo leidimo naudoti invazines rūšis turėtojo informavimo apie sprendimo dėl įspėjimo priėmimą dienos. Jeigu per nustatytą laikotarpį leidimo naudoti invazines rūšis turėtojas nepašalina nustatytų pažeidimų, leidimo naudoti invazines rūšis galiojimas sustabdomas ir draudžiama vykdyti visas leidime naudoti invazines rūšis nurodytas veiklas, išskyrus laikymą ir auginimą, užtikrinant, kad invazinės rūšys nesidaugintų ir neplistų aplinkoje. ^s-edc27272d9e99aacf707031b
 
 
 13. Leidimo naudoti invazines rūšis galiojimo sustabdymo terminas skaičiuojamas nuo Vyriausybės įgaliotos institucijos priimto sprendimo sustabdyti leidimo naudoti invazines rūšis galiojimą dienos arba nuo [[#^s-cebd25b97f394b9f577e9446|šio straipsnio 11 dalies 4 punkte]] nurodytame prašyme pateiktos datos. ^s-2bf1b368a5d62d888a768e48
@@ -653,7 +653,7 @@ Leidžiama perkelti Lietuvos Respublikos teritorijoje natūraliai augančių rū
 1) leidimo naudoti invazines rūšis turėtojas ne vėliau kaip per 6 mėnesius pašalina nustatytus pažeidimus, dėl kurių buvo sustabdytas leidimo naudoti invazines rūšis galiojimas. Terminas pažeidimams pašalinti skaičiuojamas nuo sprendimo dėl leidimo naudoti invazines rūšis galiojimo sustabdymo priėmimo dienos; ^s-e0679602ed4928e212f45b79
 
 
-2) per vienus metus nuo sprendimo dėl leidimo naudoti invazines rūšis galiojimo sustabdymo priėmimo dienos pašalinamos kitos priežastys, nurodytos Reglamento (ES) Nr. 1143/2014 8 straipsnio 5 dalyje; ^s-bb58b4c4816c5b26d945ab76
+2) per vienus metus nuo sprendimo dėl leidimo naudoti invazines rūšis galiojimo sustabdymo priėmimo dienos pašalinamos kitos priežastys, nurodytos [Reglamento (ES) Nr. 1143/2014 8 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/reg/1143/2014/art_8/par_5/oj); ^s-bb58b4c4816c5b26d945ab76
 
 
 3) leidimo naudoti invazines rūšis turėtojas pateikė prašymą panaikinti leidimo naudoti invazines rūšis galiojimo sustabdymą, jeigu prieš tai buvo pateikęs prašymą sustabdyti leidimo naudoti invazines rūšis galiojimą. ^s-e410d42eac79cf7c473d29cf
@@ -674,7 +674,7 @@ Leidžiama perkelti Lietuvos Respublikos teritorijoje natūraliai augančių rū
 4) leidimo naudoti invazines rūšis turėtojas per 6 mėnesius nuo sprendimo dėl leidimo naudoti invazines rūšis galiojimo sustabdymo priėmimo dienos nepašalina nustatytų pažeidimų, dėl kurių buvo sustabdytas leidimo naudoti invazines rūšis galiojimas; ^s-7d2fa89d133e7a3d47b166e4
 
 
-5) per vienus metus nuo sprendimo dėl leidimo naudoti invazines rūšis galiojimo sustabdymo priėmimo dienos nepašalinamos kitos priežastys, nurodytos Reglamento (ES) Nr. 1143/2014 8 straipsnio 5 dalyje; ^s-62e34d9a8cd4923d59a31a33
+5) per vienus metus nuo sprendimo dėl leidimo naudoti invazines rūšis galiojimo sustabdymo priėmimo dienos nepašalinamos kitos priežastys, nurodytos [Reglamento (ES) Nr. 1143/2014 8 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/reg/1143/2014/art_8/par_5/oj); ^s-62e34d9a8cd4923d59a31a33
 
 
 6) leidimo naudoti invazines rūšis turėtojas nepateikė prašymo dėl leidimo naudoti invazines rūšis galiojimo sustabdymo panaikinimo tol, kol baigėsi prašyme dėl leidimo naudoti invazines rūšis galiojimo sustabdymo nurodyto leidimo naudoti invazines rūšis galiojimo sustabdymo terminas; ^s-4aa0a81bef652857bb64b05e
@@ -728,7 +728,7 @@ Siekiant nustatyti laukinių augalų ir grybų rūšių apsaugos būklę ir poky
 ### 18 straipsnis. Laukinių augalų ir grybų moksliniai tyrimai ir visuomenės švietimas ^s-701ecd8bd14fdf2f880cb696
 
 
-1. Siekiant surinkti daugiau informacijos, ištyrinėti laukinių augalų ir grybų rūšių ir bendrijų paplitimą, gausą ir būklę, užtikrinti laukinių augalų ir grybų apsaugą ir jų išteklių naudojimo kontrolę bei siekiant nustatyti invazinių rūšių paplitimą, plitimo kelius, gausos reguliavimo priemones ir atlikti jų rizikos vertinimą, nurodytą Reglamente (ES) Nr. 1143/2014, atliekami laukinių augalų ir grybų moksliniai tyrimai ir eksperimentinė plėtra, kuriuos organizuoja ir koordinuoja Aplinkos ministerija ir jos įgaliotos institucijos. ^s-4388037b5bd120752881bd3d
+1. Siekiant surinkti daugiau informacijos, ištyrinėti laukinių augalų ir grybų rūšių ir bendrijų paplitimą, gausą ir būklę, užtikrinti laukinių augalų ir grybų apsaugą ir jų išteklių naudojimo kontrolę bei siekiant nustatyti invazinių rūšių paplitimą, plitimo kelius, gausos reguliavimo priemones ir atlikti jų rizikos vertinimą, nurodytą [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj), atliekami laukinių augalų ir grybų moksliniai tyrimai ir eksperimentinė plėtra, kuriuos organizuoja ir koordinuoja Aplinkos ministerija ir jos įgaliotos institucijos. ^s-4388037b5bd120752881bd3d
 
 
 2. Aplinkos ministerijos įgaliotos institucijos teikia informaciją apie mokslinius tyrimus Europos Komisijai, kitoms Europos Sąjungos valstybėms narėms ir tarptautinių organizacijų, kurių narė yra Lietuvos Respublika, institucijoms. ^s-0cfa361f8b7f5cac4fc020cd
@@ -814,7 +814,7 @@ priedas
 1. 1992 m. gegužės 21 d. Tarybos direktyva 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos direktyva 2013/17/ES. ^s-bae78f8fbe7af8e23c63f821
 
 
-2. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1143/2014 dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo. ^s-a87ee597c11fb55b9ee4b591
+2. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo. ^s-a87ee597c11fb55b9ee4b591
 
 
 
@@ -839,4 +839,4 @@ Lietuvos Respublikos laukinės augalijos įstatymo Nr. VIII-1226 pakeitimo įsta
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2353, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25324
-Lietuvos Respublikos laukinių augalų ir grybų įstatymo Nr. VIII-1226 4 ir [[#^s-b43ab75f6b755f394e712ccc|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos laukinių augalų ir grybų įstatymo Nr. VIII-1226 [[#^s-ff01af7ba4845f63b7beb37b|4]] ir [[#^s-b43ab75f6b755f394e712ccc|9]] straipsnių pakeitimo įstatymas

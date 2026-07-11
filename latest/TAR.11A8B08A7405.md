@@ -60,7 +60,7 @@ BENDROSIOS NUOSTATOS
 ### 2 straipsnis. Suėmimo vykdymo tvarkos ir suimtųjų laikymo sąlygų užtikrinimas ^s-e1d7c64a47f98c7e315b633f
 
 
-Laisvės atėmimo vietų įstaiga, užtikrindama suėmimo vykdymo tvarką ir tinkamas suimtųjų laikymo laisvės atėmimo vietų įstaigoje sąlygas, vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais Lietuvos Respublikos ir Europos Sąjungos teisės aktais.
+Laisvės atėmimo vietų įstaiga, užtikrindama suėmimo vykdymo tvarką ir tinkamas suimtųjų laikymo laisvės atėmimo vietų įstaigoje sąlygas, vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais Lietuvos Respublikos ir Europos Sąjungos teisės aktais.
 
 
 
@@ -89,7 +89,7 @@ Laisvės atėmimo vietų įstaiga, užtikrindama suėmimo vykdymo tvarką ir tin
 3. Vykdant suėmimą, draudžiama žmogų kankinti, žiauriai su juo elgtis arba žeminti jo orumą. Su suimtuoju net ir jo sutikimu draudžiami medicinos, biologiniai ir kitokie mokslo bandymai. Draudžiama, išskyrus Lietuvos Respublikos teisės aktuose numatytus atvejus, filmuoti ar fotografuoti suimtąjį be išankstinio jo sutikimo. ^s-e37f83561b2b1b53e728994e
 
 
-4. Suimtieji iki jų pasiuntimo į laisvės atėmimo vietų įstaigą gali būti laikomi teritorinės policijos įstaigos areštinėje ne ilgiau kaip penkiolika parų, kol bus atliekami procesiniai veiksmai, kurių negalima atlikti šiems asmenims esant laisvės atėmimo vietų įstaigoje. Suimtieji ikiteisminio tyrimo metu prokuroro motyvuotu nutarimu, o bylos nagrinėjimo teisme metu teisėjo ar teismo motyvuota nutartimi iš laisvės atėmimo vietų įstaigos gali būti perkelti (uždaryti) į teritorinės policijos įstaigos areštinę ne ilgiau kaip septynioms paroms, kad būtų galima atlikti procesinius veiksmus, jeigu procesinių veiksmų atlikimo negalima užtikrinti suimtiesiems esant laisvės atėmimo vietų įstaigoje arba dėl suimtųjų dalyvavimo nagrinėjant bylą teisme. Toks laikymas teritorinės policijos įstaigos areštinėje turi būti nedelsiant nutrauktas, kai tai tampa nebereikalinga. Šiems suimtiesiems taikomos šio įstatymo, išskyrus [[#^s-7cbaf18c56ae2fb8399a8c72|13 straipsnio 3 dalies 2 punktą]], 5 ir 6 dalis, [[#^s-6a4b1a97108b254477e029c8|14 straipsnį]], [[#^s-0db220607a4f1a3e5a7ae1ce|15 straipsnio]] 2 ir 5 dalis bei 6 dalies 1 ir 2 punktus, 16, 21, 22 ir [[#^s-45c6a7d921543662cc174a52|23 straipsnius]], nuostatos. Teritorinių policijos įstaigų areštinių vidaus tvarkos taisykles tvirtina Lietuvos policijos generalinis komisaras. ^s-d8c93c25a11bad318793f30d
+4. Suimtieji iki jų pasiuntimo į laisvės atėmimo vietų įstaigą gali būti laikomi teritorinės policijos įstaigos areštinėje ne ilgiau kaip penkiolika parų, kol bus atliekami procesiniai veiksmai, kurių negalima atlikti šiems asmenims esant laisvės atėmimo vietų įstaigoje. Suimtieji ikiteisminio tyrimo metu prokuroro motyvuotu nutarimu, o bylos nagrinėjimo teisme metu teisėjo ar teismo motyvuota nutartimi iš laisvės atėmimo vietų įstaigos gali būti perkelti (uždaryti) į teritorinės policijos įstaigos areštinę ne ilgiau kaip septynioms paroms, kad būtų galima atlikti procesinius veiksmus, jeigu procesinių veiksmų atlikimo negalima užtikrinti suimtiesiems esant laisvės atėmimo vietų įstaigoje arba dėl suimtųjų dalyvavimo nagrinėjant bylą teisme. Toks laikymas teritorinės policijos įstaigos areštinėje turi būti nedelsiant nutrauktas, kai tai tampa nebereikalinga. Šiems suimtiesiems taikomos šio įstatymo, išskyrus [[#^s-7cbaf18c56ae2fb8399a8c72|13 straipsnio 3 dalies 2 punktą]], [[#^s-ca4c812372857de8605160a1|5]] ir [[#^s-e113397b90817226b6866f55|6]] dalis, [[#^s-6a4b1a97108b254477e029c8|14 straipsnį]], [[#^s-0db220607a4f1a3e5a7ae1ce|15 straipsnio]] [[#^s-5ad1ecdb5c22bec2375ab104|2]] ir [[#^s-6880e6789d4618b16f3da21f|5]] dalis bei 6 dalies 1 ir 2 punktus, [[#^s-8647d03aedc1ec7b07d34570|16]], [[#^s-6cdcd8ca666128188d1209e6|21]], [[#^s-095ddc55abbcfb1959a69bc4|22]] ir [[#^s-45c6a7d921543662cc174a52|23]] straipsnius, nuostatos. Teritorinių policijos įstaigų areštinių vidaus tvarkos taisykles tvirtina Lietuvos policijos generalinis komisaras. ^s-d8c93c25a11bad318793f30d
 
 
 
@@ -310,7 +310,7 @@ Nr. XIV-1772, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27589
 2) suimtieji įsiskolina už elektros prietaisų sunaudotą elektros energiją, – iki bus sumokėta skola; ^s-050ac5dff6b16a57e01d8edc
 
 
-3) suimtieji atlieka šio įstatymo [[#^s-98383fcd103cbe02a8ec3867|29 straipsnio 3 punkte]] nustatytą drausminę nuobaudą. ^s-c08766a4a7c8157a7ce461bb
+3) suimtieji atlieka šio įstatymo 29 straipsnio 3 punkte nustatytą drausminę nuobaudą. ^s-c08766a4a7c8157a7ce461bb
 
 
 7. [[#^s-694a7cf82b105a1b9a043a70|Šio straipsnio 6 dalyje]] nurodytais atvejais paimti elektros prietaisai saugomi laisvės atėmimo vietų įstaigoje. Paimti elektros prietaisai suimtojo prašymu perduodami jų pasiimti į laisvės atėmimo vietų įstaigą atvykusiems suimtojo nurodytiems asmenims arba grąžinami suimtajam, kai jis vėl įgyja teisę naudotis elektros prietaisais arba perkeliamas atlikti arešto, terminuoto laisvės atėmimo ar laisvės atėmimo iki gyvos galvos bausmę, arba paleidžiamas iš laisvės atėmimo vietų įstaigos. ^s-7227f8e5f69c021183c73e67
@@ -462,7 +462,7 @@ SUIMTŲJŲ UŽIMTUMAS IR JŲ SOCIALINIŲ POREIKIŲ TENKINIMAS
 5. Jeigu yra galimybė, suimtieji gali jų rašytiniu prašymu užsiimti darbine veikla. Suimtųjų užimtumas darbine veikla nelaikomas darbo santykiais ir darbo teisę reglamentuojantys teisės aktai suimtųjų užimtumo darbine veikla nereguliuoja. Darbine veikla suimtiesiems leidžiama užsiimti tik laisvės atėmimo vietų įstaigos teritorijoje. Už darbinės veiklos rezultatus, atsižvelgdama į šios veiklos sudėtingumą, apimtį ir veiklai atlikti skirtą laiką, laisvės atėmimo vietų įstaiga suimtiesiems moka pinigines išmokas. Šių išmokų apskaičiavimo tvarką nustato teisingumo ministras. Darbine veikla užsiimantiems suimtiesiems piniginės išmokos mokamos iš [[latest/TAR.A0A0CCC6B997#^s-aa4fca8d9e2f026e5e69e40f|Lietuvos Respublikos bausmių vykdymo kodekso 58 straipsnyje]] nurodytame fonde sukauptų lėšų. ^s-a241003515e2ce091548e4a8
 
 
-6. Suimtųjų individualios veiklos vykdymo laisvės atėmimo vietų įstaigoje klausimai sprendžiami vadovaujantis Bausmių vykdymo kodekso 56 straipsnio 4 dalies nuostatomis. ^s-e00d797ae2c21a6d7b3d8bb5
+6. Suimtųjų individualios veiklos vykdymo laisvės atėmimo vietų įstaigoje klausimai sprendžiami vadovaujantis [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso 56 straipsnio 4 dalies]] nuostatomis. ^s-e00d797ae2c21a6d7b3d8bb5
 
 
 
@@ -670,7 +670,7 @@ Suimtieji, nevykdantys šio įstatymo [[#^s-94f78f1c10665d7dec61e413|20 straipsn
 1. Šio įstatymo [[#^s-6f009771fe69c46cdb0572c5|28 straipsnyje]] nurodytas skatinimo priemones suimtiesiems skiria laisvės atėmimo vietų įstaigos direktoriaus įgaliotas pareigūnas. ^s-3150d44ee12d2e4380777bd0
 
 
-2. Skiriant šio įstatymo [[#^s-68fc30de5de08982e39a9034|28 straipsnio 1 punkte]] nurodytą skatinimo priemonę, suimtajam panaikinama viena jo turima drausminė nuobauda. ^s-bd4d15f064fd3a5aef1c8242
+2. Skiriant šio įstatymo 28 straipsnio 1 punkte nurodytą skatinimo priemonę, suimtajam panaikinama viena jo turima drausminė nuobauda. ^s-bd4d15f064fd3a5aef1c8242
 
 
 3. Skatinimo tvarka pailgintas pasivaikščiojimo laikas taikomas ne ilgiau kaip vieną mėnesį. ^s-7f9be0cb3e1da22ec0b46b0e
@@ -692,7 +692,7 @@ Suimtieji, nevykdantys šio įstatymo [[#^s-94f78f1c10665d7dec61e413|20 straipsn
 3. Už kelis vienu metu padarytus pažeidimus skiriama viena drausminė nuobauda. ^s-b7c0de197b089df113b7397e
 
 
-4. Šio įstatymo [[#^s-98383fcd103cbe02a8ec3867|29 straipsnio 3 punkte]] nustatyta drausminė nuobauda gali būti skiriama tik tuo atveju, kai suimtasis nevykdo šio įstatymo [[#^s-3413dbe6db124a055665843d|20 straipsnio 1 dalies 2 punkte]] nustatytos pareigos arba nesilaiko šio įstatymo [[#^s-23afa4ee36009bedd92764f7|20 straipsnio 2 dalies]] 1, 3, 7 ir 8 punktuose nustatytų draudimų, taip pat jeigu suimtajam iki šio pažeidimo padarymo per vienus metus tris kartus buvo paskirtos administracinės ir (ar) drausminės nuobaudos. Nėščioms moterims ir asmenims, kurie dėl medicininių priežasčių negali būti izoliuojami, ši drausminė nuobauda neskiriama, o jeigu buvo paskirta, – nevykdoma. ^s-f2e9cf495aafe56fd51c08dd
+4. Šio įstatymo 29 straipsnio 3 punkte nustatyta drausminė nuobauda gali būti skiriama tik tuo atveju, kai suimtasis nevykdo šio įstatymo [[#^s-3413dbe6db124a055665843d|20 straipsnio 1 dalies 2 punkte]] nustatytos pareigos arba nesilaiko šio įstatymo [[#^s-23afa4ee36009bedd92764f7|20 straipsnio 2 dalies]] [[#^s-ad9961836e134f4c0ae8a7ac|1]], [[#^s-43f06f3b34ad87f052803f15|3]], [[#^s-008f73d5e5e0fb0836117384|7]] ir [[#^s-6a518f598a987a3efcce7d5e|8]] punktuose nustatytų draudimų, taip pat jeigu suimtajam iki šio pažeidimo padarymo per vienus metus tris kartus buvo paskirtos administracinės ir (ar) drausminės nuobaudos. Nėščioms moterims ir asmenims, kurie dėl medicininių priežasčių negali būti izoliuojami, ši drausminė nuobauda neskiriama, o jeigu buvo paskirta, – nevykdoma. ^s-f2e9cf495aafe56fd51c08dd
 
 
 5. Drausminė nuobauda turi būti paskirta ne vėliau kaip per dešimt parų nuo pažeidimo atskleidimo dienos, o kai dėl pažeidimo buvo atliekamas tyrimas, – nuo tyrimo pabaigos dienos, bet ne vėliau kaip per mėnesį nuo pažeidimo padarymo dienos. ^s-eff02f4e6d50efe7a41c5857
@@ -724,7 +724,7 @@ Suimtasis, kai gali kilti grėsmė jo sveikatai ar gyvybei, taip pat kai kitomis
 ### 33 straipsnis. Suimtųjų izoliavimo sąlygos ^s-e24e84ac88af6a25eead80b4
 
 
-1. Šio įstatymo [[#^s-98383fcd103cbe02a8ec3867|29 straipsnio 3 punkte]] nustatytą drausminę nuobaudą atliekantys suimtieji neturi teisės gauti pasimatymų (išskyrus teisę susitikti su gynėju), perduodamų daiktų, paskambinti (išskyrus teisę paskambinti gynėjui). Jiems leidžiamų įsigyti ir (ar) turėti drabužių ir avalynės, higienos priemonių ir kitų asmeninių daiktų sąrašą ir jų kiekį nustato teisingumo ministras. Šioje dalyje nurodytiems suimtiesiems leidžiama skaityti knygas, spaudos leidinius ir kitą literatūrą kasdien vieną valandą, o nepilnamečiams, neįgaliesiems, kuriems nustatytas 0–40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, nėščioms moterims ir ligoniams pagal gydytojų išvadą – po tris valandas pasivaikščioti. ^s-821fcde6145e63332a38c0c2
+1. Šio įstatymo 29 straipsnio 3 punkte nustatytą drausminę nuobaudą atliekantys suimtieji neturi teisės gauti pasimatymų (išskyrus teisę susitikti su gynėju), perduodamų daiktų, paskambinti (išskyrus teisę paskambinti gynėjui). Jiems leidžiamų įsigyti ir (ar) turėti drabužių ir avalynės, higienos priemonių ir kitų asmeninių daiktų sąrašą ir jų kiekį nustato teisingumo ministras. Šioje dalyje nurodytiems suimtiesiems leidžiama skaityti knygas, spaudos leidinius ir kitą literatūrą kasdien vieną valandą, o nepilnamečiams, neįgaliesiems, kuriems nustatytas 0–40 procentų darbingumo lygis arba didelių ar vidutinių specialiųjų poreikių lygis, nėščioms moterims ir ligoniams pagal gydytojų išvadą – po tris valandas pasivaikščioti. ^s-821fcde6145e63332a38c0c2
 
 
 2. Už izoliavimo metu padarytus pažeidimus suimtiesiems gali būti skiriamos šio įstatymo [[#^s-83e419595282b3864a996c5d|29 straipsnyje]] nurodytos drausminės nuobaudos, išskyrus pakartotinį izoliavimą. ^s-b2397bdffdfa13cb9c43d012
@@ -785,10 +785,10 @@ BAIGIAMOSIOS NUOSTATOS
 1. Suimtieji privalo atlyginti visą jų suėmimo vykdymo metu valstybei padarytą turtinę žalą. ^s-134f56ea697ca082da346a99
 
 
-2. Suimtųjų valstybei padarytos turtinės žalos atlyginimas išieškomas motyvuotu laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno nutarimu, jeigu žalos dydis neviršija suimtojo asmeninėje sąskaitoje esančios pinigų sumos. Apie išieškojimą suimtajam pranešama pasirašytinai. Kitais atvejais turtinės žalos atlyginimas išieškomas Lietuvos Respublikos civilinio proceso kodekso nustatytais pagrindais ir tvarka. ^s-6d2a81350a153eb65120025b
+2. Suimtųjų valstybei padarytos turtinės žalos atlyginimas išieškomas motyvuotu laisvės atėmimo vietų įstaigos direktoriaus įgalioto pareigūno nutarimu, jeigu žalos dydis neviršija suimtojo asmeninėje sąskaitoje esančios pinigų sumos. Apie išieškojimą suimtajam pranešama pasirašytinai. Kitais atvejais turtinės žalos atlyginimas išieškomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytais pagrindais ir tvarka. ^s-6d2a81350a153eb65120025b
 
 
-3. Valstybei padarytos turtinės žalos atlyginimo dalis, kurios neatlygino paleistas iš laisvės atėmimo vietų įstaigos asmuo, išieškoma Civilinio proceso kodekso nustatytais pagrindais ir tvarka. ^s-df12400e866d461296b41eef
+3. Valstybei padarytos turtinės žalos atlyginimo dalis, kurios neatlygino paleistas iš laisvės atėmimo vietų įstaigos asmuo, išieškoma [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytais pagrindais ir tvarka. ^s-df12400e866d461296b41eef
 
 
 
@@ -829,7 +829,7 @@ priedas
 2. 2013 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2013/48/ES dėl teisės turėti advokatą vykstant baudžiamajam procesui ir Europos arešto orderio vykdymo procedūroms ir dėl teisės reikalauti, kad po laisvės atėmimo būtų informuota trečioji šalis, ir teisės susisiekti su trečiaisiais asmenimis ir konsulinėmis įstaigomis laisvės atėmimo metu. ^s-90e0359a58996ef1923aee22
 
 
-3. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/800 dėl procesinių garantijų vaikams, kurie baudžiamajame procese yra įtariamieji ar kaltinamieji. ^s-452fbdc0109ee7a63a34f554
+3. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos [direktyva (ES) 2016/800](https://eur-lex.europa.eu/eli/dir/2016/800/oj) dėl procesinių garantijų vaikams, kurie baudžiamajame procese yra įtariamieji ar kaltinamieji. ^s-452fbdc0109ee7a63a34f554
 
 
 
@@ -885,7 +885,7 @@ Nr. XI-2247, 2012-10-02, Žin., 2012, Nr. 122-6106 (2012-10-20), i. k. [[latest/
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1819, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11074
-Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 7, 8, 9, 10, 11, 12, 16, 22, 23, 24, 27, 28, 30, 32, 34, 37, 38, 41, 42, 44 ir 48 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 [[#^s-e1d7c64a47f98c7e315b633f|2]], [[#^s-68865a7695c9f5e226f852bb|7]], [[#^s-da7e77ab4ef51a022d59bccc|8]], [[#^s-8513e0266a6d2a746b31b4ec|9]], [[#^s-c4df9c122b7e362cdf7bcf6b|10]], [[#^s-2f73642fea9cb449338ae2ec|11]], [[#^s-84afb6d1a01f6f13804a0b63|12]], [[#^s-8647d03aedc1ec7b07d34570|16]], [[#^s-095ddc55abbcfb1959a69bc4|22]], [[#^s-45c6a7d921543662cc174a52|23]], [[#^s-4884bc97cc3c179d7c1cc938|24]], [[#^s-e7f46e48220e14d139be1b2b|27]], [[#^s-6f009771fe69c46cdb0572c5|28]], [[#^s-59f2567c66ac3ae089740df4|30]], [[#^s-8242fbfcfc1b6efe7af4e89c|32]], [[#^s-b027da52ec93fe94cadff2da|34]], [[#^s-5da467c38c6e979160f8662a|37]], 38, 41, 42, 44 ir 48 straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -895,12 +895,12 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 48 straipsnio ir prie
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-359, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08718
-Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 14, 23, [[#^s-bcd8d2a749df23894b7b0653|31 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 [[#^s-6a4b1a97108b254477e029c8|14]], [[#^s-45c6a7d921543662cc174a52|23]], [[#^s-bcd8d2a749df23894b7b0653|31]] straipsnių ir priedo pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-399, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09783
-Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 7 ir [[#^s-da7e77ab4ef51a022d59bccc|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 [[#^s-68865a7695c9f5e226f852bb|7]] ir [[#^s-da7e77ab4ef51a022d59bccc|8]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -910,12 +910,12 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 [[#^s-2f73642fea9cb44
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2267, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11186
-Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 6, 7, 8, 12, 17, 20, 22, 27, 30, 32, 36, 40 straipsnių pakeitimo ir 43 straipsnio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 [[#^s-e1d7c64a47f98c7e315b633f|2]], [[#^s-b7d2c24633a9fd693349495b|6]], [[#^s-68865a7695c9f5e226f852bb|7]], [[#^s-da7e77ab4ef51a022d59bccc|8]], [[#^s-84afb6d1a01f6f13804a0b63|12]], [[#^s-a6c0a44d598384bc8134341c|17]], [[#^s-94f78f1c10665d7dec61e413|20]], [[#^s-095ddc55abbcfb1959a69bc4|22]], [[#^s-e7f46e48220e14d139be1b2b|27]], [[#^s-59f2567c66ac3ae089740df4|30]], [[#^s-8242fbfcfc1b6efe7af4e89c|32]], [[#^s-44e286a01c5121e251e0d600|36]], 40 straipsnių pakeitimo ir 43 straipsnio pripažinimo netekusiu galios įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2336, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12387
-Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 10, 45 straipsnių ir priedo pakeitimo įstatymas
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 [[#^s-c4df9c122b7e362cdf7bcf6b|10]], 45 straipsnių ir priedo pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -925,12 +925,12 @@ Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 45 straipsnio pakeiti
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3025, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13463
-Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 7, 8, 9, 10, 11, 12, 17, 20, 22, 24, 26, 27, 28, 30, 32, 34, 36, 38, 39, 40 ir 42 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 [[#^s-e1d7c64a47f98c7e315b633f|2]], [[#^s-68865a7695c9f5e226f852bb|7]], [[#^s-da7e77ab4ef51a022d59bccc|8]], [[#^s-8513e0266a6d2a746b31b4ec|9]], [[#^s-c4df9c122b7e362cdf7bcf6b|10]], [[#^s-2f73642fea9cb449338ae2ec|11]], [[#^s-84afb6d1a01f6f13804a0b63|12]], [[#^s-a6c0a44d598384bc8134341c|17]], [[#^s-94f78f1c10665d7dec61e413|20]], [[#^s-095ddc55abbcfb1959a69bc4|22]], [[#^s-4884bc97cc3c179d7c1cc938|24]], [[#^s-f32ad5ed64f665819ff3b8a8|26]], [[#^s-e7f46e48220e14d139be1b2b|27]], [[#^s-6f009771fe69c46cdb0572c5|28]], [[#^s-59f2567c66ac3ae089740df4|30]], [[#^s-8242fbfcfc1b6efe7af4e89c|32]], [[#^s-b027da52ec93fe94cadff2da|34]], [[#^s-44e286a01c5121e251e0d600|36]], 38, 39, 40 ir 42 straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3242, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15879
-Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 7 ir [[#^s-c4df9c122b7e362cdf7bcf6b|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 [[#^s-68865a7695c9f5e226f852bb|7]] ir [[#^s-c4df9c122b7e362cdf7bcf6b|10]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas

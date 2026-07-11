@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-12
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.6107B5F45F59#^s-b79d34e88daa2a2d1acc4c9e|Lietuvos Respublikos tautinio paveldo produktų įstatymas]] - 5 straipsnio 2 punktą
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.6107B5F45F59#^s-f50f21d709211ee83292b3ec|Lietuvos Respublikos tautinio paveldo produktų įstatymas]] - Įstatymas Nr. XIV-2062
+_Nėra._

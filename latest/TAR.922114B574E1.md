@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-ac21b88ad53a59e210fc7869
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. birželio 12 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl apsikeičiamos įslaptintosios karinės informacijos apsaugos“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl apsikeičiamos įslaptintosios karinės informacijos apsaugos, pasirašytą 1997 m. vasario 14 d. Alytuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. birželio 12 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl apsikeičiamos įslaptintosios karinės informacijos apsaugos“](https://e-tar.lt/portal/lt/legalAct/TAR.EE0AC5E0851F), ratifikuoja Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl apsikeičiamos įslaptintosios karinės informacijos apsaugos, pasirašytą 1997 m. vasario 14 d. Alytuje.
 
 
 

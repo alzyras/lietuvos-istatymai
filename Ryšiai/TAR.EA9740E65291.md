@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos valstybinių šalpos išmokų įstatymo 8, 22
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - Baudžiamojo proceso kodekso
+- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Baudžiamojo proceso kodekso
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.2CE6CFE9E2EE#^s-5cce2d1ab1df2a8ed2c15e38|Lietuvos Respublikos šalpos pensijų įstatymas]] - 3 citatos - 1111010ISTA0XI-1648
-- [[latest/TAR.2CE6CFE9E2EE#^s-b07741af121d0fd1d82febdf|Lietuvos Respublikos šalpos pensijų įstatymas]] - 3 citatos - 1111010ISTA0XI-1648
+- [[latest/TAR.2CE6CFE9E2EE#^s-5cce2d1ab1df2a8ed2c15e38|Lietuvos Respublikos šalpos pensijų įstatymas]] - 2 citatos - 1111010ISTA0XI-1648

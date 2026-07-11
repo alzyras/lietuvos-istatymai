@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-58b3b1b988b68bc71e207d43
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gegužės 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1995 m. rugsėjo 7 d.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gegužės 8 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos“](https://e-tar.lt/portal/lt/legalAct/TAR.C7AC8D42C6C7), ratifikuoja Lietuvos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1995 m. rugsėjo 7 d.
 
 
 

@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos policijos rėmėjų įstatymo 5, 11 ir 13 str
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.17D427E4AAD3#^s-b259b03ff86092e4e84ee357|Lietuvos Respublikos policijos rėmėjų įstatymas]] - 3 citatos - 1031010ISTA0IX-1435
+- [[latest/TAR.17D427E4AAD3#^s-b259b03ff86092e4e84ee357|Lietuvos Respublikos policijos rėmėjų įstatymas]] - 2 citatos - 1031010ISTA0IX-1435

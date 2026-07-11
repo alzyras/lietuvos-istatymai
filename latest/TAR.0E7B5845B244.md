@@ -88,7 +88,7 @@ Pakeisti 77 straipsnį ir jį išdėstyti taip:
 2. Migracijos departamento sprendimu prieglobsčio prašytojui nesuteikiamas pabėgėlio statusas ir papildoma apsauga, taip pat atsisakoma suteikti laikiną teritorinį prieglobstį, jeigu, iš esmės išnagrinėjus jo prašymą suteikti prieglobstį, paaiškėja, kad jis atvyko iš saugios kilmės valstybės arba pateikė akivaizdžiai nepagrįstą prašymą suteikti prieglobstį. Toks prieglobsčio prašytojas grąžinamas į užsienio valstybę arba išsiunčiamas iš Lietuvos Respublikos. ^s-b2c0946abd0d182a00006e55
 
 
-3. Šio straipsnio 1 ir [[#^s-b2c0946abd0d182a00006e55|2 dalys]] netaikomos nelydimam nepilnamečiui prieglobsčio prašytojui. [[#^s-5fa150e63428f43682d076b7|Šio straipsnio 1 dalis]] taip pat netaikoma, kai nustatoma Europos Sąjungos valstybė narė, atsakinga už prašymo suteikti prieglobstį nagrinėjimą.“ ^s-ef2cb6cd3218e767dcd920e9
+3. Šio straipsnio [[#^s-5fa150e63428f43682d076b7|1]] ir [[#^s-b2c0946abd0d182a00006e55|2]] dalys netaikomos nelydimam nepilnamečiui prieglobsčio prašytojui. [[#^s-5fa150e63428f43682d076b7|Šio straipsnio 1 dalis]] taip pat netaikoma, kai nustatoma Europos Sąjungos valstybė narė, atsakinga už prašymo suteikti prieglobstį nagrinėjimą.“ ^s-ef2cb6cd3218e767dcd920e9
 
 
 

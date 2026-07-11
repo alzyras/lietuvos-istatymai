@@ -124,7 +124,7 @@ Pakeisti ir papildyti 15 straipsnį ir jį išdėstyti taip:
 16 straipsnio 10 dalyje vietoj žodžių „atskaičius jų pagerinimo ir pertvarkymo išlaidas“ įrašyti žodžius „pagal rinkos vertę remdamasi Turto ir verslo vertinimo pagrindų įstatymu“ ir šią dalį išdėstyti taip:
 
 
-„10. Už valstybės išperkamus gyvenamuosius namus, jų dalis, butus valstybė atlygina piliečiams, teisingai kompensuodama pagal rinkos vertę remdamasi Turto ir verslo vertinimo pagrindų įstatymu, šiais būdais:
+„10. Už valstybės išperkamus gyvenamuosius namus, jų dalis, butus valstybė atlygina piliečiams, teisingai kompensuodama pagal rinkos vertę remdamasi [Turto ir verslo vertinimo pagrindų įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838), šiais būdais:
 
 
 1) perduodama neatlygintinai nuosavybėn jų nuomojamus valstybės ar savivaldybės butų fondo butus, kurių vertės skirtumas padengiamas Vyriausybės nustatyta tvarka; ^s-9e56962c9cc3e67932899b0a

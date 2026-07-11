@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-e4e862bb830bf98b8da051d6
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-cc673decff3daac098d5c652|Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 2 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2001 m. lapkričio 22 d. dekretą Nr. 1578, ratifikuoja Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimą dėl bendradarbiavimo kovojant su mokesčių įstatymų pažeidimais, sudarytą 2001 m. balandžio 5 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-cc673decff3daac098d5c652|Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 2 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2001 m. lapkričio 22 d. dekretą Nr. 1578](https://e-tar.lt/portal/lt/legalAct/TAR.E92E30D95E08), ratifikuoja Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimą dėl bendradarbiavimo kovojant su mokesčių įstatymų pažeidimais, sudarytą 2001 m. balandžio 5 d. Vilniuje.
 
 
 

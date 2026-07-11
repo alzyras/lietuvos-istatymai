@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Statuto pakeitimų ratifikavimas ^s-f973273b5faeff7729c8d688
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 30 d. dekretą Nr. 735, ratifikuoja 2005 m. birželio 30 d. dvidešimtojoje diplomatinėje sesijoje priimtus Hagos tarptautinės privatinės teisės konferencijos statuto pakeitimus.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. rugpjūčio 30 d. dekretą Nr. 735](https://e-tar.lt/portal/lt/legalAct/TAR.B35C62B5263A), ratifikuoja 2005 m. birželio 30 d. dvidešimtojoje diplomatinėje sesijoje priimtus [Hagos tarptautinės privatinės teisės konferencijos statuto](https://e-tar.lt/portal/lt/legalAct/TAR.8C476B8B142D) pakeitimus.
 
 
 

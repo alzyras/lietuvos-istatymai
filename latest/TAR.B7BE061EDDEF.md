@@ -42,7 +42,7 @@ Vilnius
 1 straipsnio 3 dalyje vietoj žodžių „registro tvarkymo įstaigoje“ įrašyti žodžius „Lietuvos Respublikos visuomeninių organizacijų įstatymo nustatyta tvarka“ ir šią dalį išdėstyti taip:
 
 
-„3. Įstatymas netaikomas Lietuvos samariečių bendrijai, Dievo meilės misionierių labdaros organizacijos namams Vilniuje ir Maltos ordino pagalbos tarnybai. Šios organizacijos veikia pagal savo įstatus, įregistruotus Lietuvos Respublikos visuomeninių organizacijų įstatymo nustatyta tvarka.“
+„3. Įstatymas netaikomas Lietuvos samariečių bendrijai, Dievo meilės misionierių labdaros organizacijos namams Vilniuje ir Maltos ordino pagalbos tarnybai. Šios organizacijos veikia pagal savo įstatus, įregistruotus [Lietuvos Respublikos visuomeninių organizacijų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.D65FBAE9B378) nustatyta tvarka.“
 
 
 

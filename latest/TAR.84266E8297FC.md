@@ -52,7 +52,7 @@ Vilnius
 ### 2 straipsnis. 2 straipsnio 1, 3, 13 dalių pakeitimas ir papildymas nauja 16 dalimi ^s-aa49f511482f46cdd002bf04
 
 
-1. [[#^s-251530aed4ae7c121c439437|2 straipsnio 1 dalyje]] po žodžių „medicinos gydytojas“ įrašyti žodžius „gydytojas rezidentas“ ir šią dalį išdėstyti taip: ^s-251530aed4ae7c121c439437
+1. 2 straipsnio 1 dalyje po žodžių „medicinos gydytojas“ įrašyti žodžius „gydytojas rezidentas“ ir šią dalį išdėstyti taip: ^s-251530aed4ae7c121c439437
 
 
 „1. Gydytojas – medicinos gydytojas, gydytojas rezidentas, šeimos gydytojas ar gydytojas specialistas.“

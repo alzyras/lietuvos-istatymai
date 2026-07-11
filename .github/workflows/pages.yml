@@ -21,11 +21,21 @@ jobs:
       - name: Checkout laws corpus
         uses: actions/checkout@v6
 
+      - name: Read pinned generator version
+        id: generator-version
+        run: |
+          version=$(cat generator-version.txt)
+          if [[ ! "$version" =~ ^[a-f0-9]{40}$ ]]; then
+            echo "Invalid generator-version.txt: $version" >&2
+            exit 1
+          fi
+          echo "sha=$version" >> "$GITHUB_OUTPUT"
+
       - name: Checkout site generator
         uses: actions/checkout@v6
         with:
           repository: alzyras/lietuvos-istatymai-gen
-          ref: main
+          ref: ${{ steps.generator-version.outputs.sha }}
           path: .site-generator
           ssh-key: ${{ secrets.GENERATOR_REPO_DEPLOY_KEY }}
 

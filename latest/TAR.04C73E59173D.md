@@ -89,10 +89,10 @@ Vilnius
 „7) tapatus ankstesniam Bendrijos prekių ženklui arba klaidinamai į jį panašus, jeigu vėlesnis ženklas pareikštas registruoti ar įregistruotas prekėms ir (ar) paslaugoms, kurios nėra panašios į prekes ir (ar) paslaugas, kurioms registruotas ankstesnis Bendrijos prekių ženklas, jeigu ankstesnis Bendrijos prekių ženklas turi reputaciją Europos Bendrijoje ir jeigu dėl neteisėto vėlesnio ženklo naudojimo gali atsirasti galimybė nesąžiningai įgyti pranašumą arba pažeisti ankstesnio Bendrijos prekių ženklo skiriamąjį požymį, arba pakenkti jo reputacijai.“
 
 
-3. [[#^s-b1cd6e4bc35017ec72804af7|7 straipsnio 2 dalyje]] vietoj skaičių ir žodžio „1 ir 2“ įrašyti skaičius ir žodį „1, 2 ir 7“, [[#^s-56f4d68915a45dd2e6dc98c9|3 punkte]] vietoj žodžio „datą“ įrašyti žodį „datai“, dalį papildyti 4 bei [[#^s-a0dfef98c5db74c64e30401e|5 punktais]] ir visą dalį išdėstyti taip: ^s-dc01fb1a7407a08aba6e8954
+3. [[#^s-b1cd6e4bc35017ec72804af7|7 straipsnio 2 dalyje]] vietoj skaičių ir žodžio „1 ir 2“ įrašyti skaičius ir žodį „1, 2 ir 7“, [[#^s-56f4d68915a45dd2e6dc98c9|3 punkte]] vietoj žodžio „datą“ įrašyti žodį „datai“, dalį papildyti [[#^s-7e98e0d56e5c419f1c44b3f5|4]] bei [[#^s-a0dfef98c5db74c64e30401e|5]] punktais ir visą dalį išdėstyti taip: ^s-dc01fb1a7407a08aba6e8954
 
 
-„2. [[#^s-fa7218d5c5e31927cb224ec9|Šio straipsnio 1 dalies]] 1, 2 ir 7 punktuose nurodytas ankstesnis ženklas yra:
+„2. [[#^s-fa7218d5c5e31927cb224ec9|Šio straipsnio 1 dalies]] [[#^s-c8a9756a6400a140891ee9bf|1]], [[#^s-063943de0aee3433d0461381|2]] ir 7 punktuose nurodytas ankstesnis ženklas yra:
 
 
 1) ženklas, kurio paraiškos padavimo Lietuvos Respublikoje data yra ankstesnė už [[#^s-fa7218d5c5e31927cb224ec9|šio straipsnio 1 dalyje]] nurodyto ženklo paraiškos padavimo datą, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą; ^s-c8a9756a6400a140891ee9bf
@@ -107,7 +107,7 @@ Vilnius
 4) Bendrijos prekių ženklas, kurio paraiškos padavimo data pagal Reglamentą dėl Bendrijos prekių ženklo yra ankstesnė už [[#^s-fa7218d5c5e31927cb224ec9|šio straipsnio 1 dalyje]] nurodyto ženklo paraiškos padavimo datą, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą; ^s-7e98e0d56e5c419f1c44b3f5
 
 
-5) Bendrijos prekių ženklas, kuriam Reglamento dėl Bendrijos prekių ženklo nustatyta tvarka prašoma suteikti pirmenybę [[#^s-39dbf53cec68836fbbe0e75d|šio straipsnio 2 dalies]] 1 ar [[#^s-063943de0aee3433d0461381|2 punkte]] nurodyto ženklo pagrindu, net jeigu pastarojo buvo atsisakyta arba leista pasibaigti jo galiojimo terminui.“ ^s-a0dfef98c5db74c64e30401e
+5) Bendrijos prekių ženklas, kuriam Reglamento dėl Bendrijos prekių ženklo nustatyta tvarka prašoma suteikti pirmenybę [[#^s-39dbf53cec68836fbbe0e75d|šio straipsnio 2 dalies]] [[#^s-c8a9756a6400a140891ee9bf|1]] ar [[#^s-063943de0aee3433d0461381|2]] punkte nurodyto ženklo pagrindu, net jeigu pastarojo buvo atsisakyta arba leista pasibaigti jo galiojimo terminui.“ ^s-a0dfef98c5db74c64e30401e
 
 
 
@@ -159,7 +159,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 1. Nuo tarptautinės ženklo registracijos, kurioje nurodoma Lietuvos Respublika, datos pagal Madrido protokolo 3 straipsnio 4 dalį arba teritorinio išplėtimo po tarptautinės registracijos (toliau – vėlesnis teritorinis išplėtimas) datos pagal Madrido protokolo 3(ter) [[#^s-b1cd6e4bc35017ec72804af7|straipsnio 2 dalį]], tarptautinės registracijos ženklas turi tokią pačią teisinę apsaugą kaip ir šio įstatymo nustatyta tvarka pareikštas registruoti ženklas. ^s-e60c266341d0853f8ee46971
 
 
-2. Nuo [[#^s-e60c266341d0853f8ee46971|šio straipsnio 1 dalyje]] nurodytos datos tarptautinės registracijos ženklas turi tokią pačią teisinę apsaugą kaip ir ženklas, kuris būtų įregistruotas vadovaujantis šio įstatymo nuostatomis, jeigu vadovaujantis Madrido protokolo [[#^s-ffd1824a7f468d96ded81b90|5 straipsnio]] 1 ir [[#^s-b1cd6e4bc35017ec72804af7|2 dalių]] nuostatomis tarptautinės registracijos ženklui nebuvo atsisakyta suteikti apsaugą Lietuvos Respublikoje arba jeigu toks atsisakymas vėliau buvo atšauktas. ^s-b1cd6e4bc35017ec72804af7
+2. Nuo [[#^s-e60c266341d0853f8ee46971|šio straipsnio 1 dalyje]] nurodytos datos tarptautinės registracijos ženklas turi tokią pačią teisinę apsaugą kaip ir ženklas, kuris būtų įregistruotas vadovaujantis šio įstatymo nuostatomis, jeigu vadovaujantis Madrido protokolo [[#^s-ffd1824a7f468d96ded81b90|5 straipsnio]] 1 ir 2 dalių nuostatomis tarptautinės registracijos ženklui nebuvo atsisakyta suteikti apsaugą Lietuvos Respublikoje arba jeigu toks atsisakymas vėliau buvo atšauktas. ^s-b1cd6e4bc35017ec72804af7
 
 
 3. Tarptautinės ženklo registracijos duomenys skelbiami Tarptautinio biuro tarptautinių ženklų biuletenyje. ^s-e0847bfee5e023aabbc78b53
@@ -312,7 +312,7 @@ priedas
 ### 17 straipsnis. Įstatymo įsigaliojimas ^s-e48638ad69d6bf2d4eb4aaa8
 
 
-Šio Įstatymo [[#^s-c18a192f47fcddf93195f5ab|1 straipsnio]] 3 ir 4 dalys, [[#^s-1278c4e8d5e1554f86f621c0|3 straipsnio]] 2 ir 3 dalys, 5, 9, 12, [[#^s-cf8007e4b70e92974c402a03|13 straipsniai]], [[#^s-d971502379d481330a3d22bd|14 straipsnio 4 dalis]], 15 ir [[#^s-295a3f69e91882dc0a344640|16 straipsniai]] įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
+Šio Įstatymo [[#^s-c18a192f47fcddf93195f5ab|1 straipsnio]] [[#^s-8e3b7d3737ff46f4664ed847|3]] ir [[#^s-787be0d1ad9baba32ef6239a|4]] dalys, [[#^s-1278c4e8d5e1554f86f621c0|3 straipsnio]] [[#^s-39dbf53cec68836fbbe0e75d|2]] ir [[#^s-dc01fb1a7407a08aba6e8954|3]] dalys, [[#^s-ffd1824a7f468d96ded81b90|5]], [[#^s-875d92a6c5d7b30b72eca483|9]], [[#^s-7a63d3962e8ab743b46f95b6|12]], [[#^s-cf8007e4b70e92974c402a03|13]] straipsniai, [[#^s-d971502379d481330a3d22bd|14 straipsnio 4 dalis]], [[#^s-49099a938be8effaa66aeac4|15]] ir [[#^s-295a3f69e91882dc0a344640|16]] straipsniai įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos.
 
 
 

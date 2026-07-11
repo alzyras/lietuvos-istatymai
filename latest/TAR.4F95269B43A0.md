@@ -248,7 +248,7 @@ Nr. XIV-1322, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15650
 ### 11 straipsnis. Netekęs galios įstatymas ^s-335e5d6b764dfc35a60802ee
 
 
-Įsigaliojus šiam Įstatymui, netenka galios Lietuvos Respublikos įstatymas „Dėl statybų Lietuvos Respublikos pajūrio juostoje ir Kuršių nerijoje“ (Žin., 1995, Nr. 103-2297).
+Įsigaliojus šiam Įstatymui, netenka galios Lietuvos Respublikos įstatymas [„Dėl statybų Lietuvos Respublikos pajūrio juostoje ir Kuršių nerijoje“](https://e-tar.lt/portal/lt/legalAct/TAR.B222C736771C) (Žin., 1995, Nr. 103-2297).
 
 
 
@@ -278,14 +278,14 @@ Nr. XII-417, 2013-06-27, Žin., 2013, Nr. 76-3834 (2013-07-16), i. k. [[latest/T
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2201, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21058
-Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 4, 6 ir [[#^s-c25f513037eaefad4434210a|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 [[#^s-46fd6e86bdb03502e44f1811|4]], [[#^s-14e2f1baa4c31d1bf169ea05|6]] ir [[#^s-c25f513037eaefad4434210a|7]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2185, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09968
-Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 1, 4, 5, 6, [[#^s-c25f513037eaefad4434210a|7 straipsnių]] ir trečiojo skirsnio pavadinimo pakeitimo įstatymas
+Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 [[#^s-c44efc3136085f00c00e1078|1]], [[#^s-46fd6e86bdb03502e44f1811|4]], [[#^s-238bc3e797af421c02027cf6|5]], [[#^s-14e2f1baa4c31d1bf169ea05|6]], [[#^s-c25f513037eaefad4434210a|7]] straipsnių ir trečiojo skirsnio pavadinimo pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1322, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15650
-Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 6 ir [[#^s-c68b550454753564e4fc39f3|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pajūrio juostos įstatymo Nr. IX-1016 [[#^s-14e2f1baa4c31d1bf169ea05|6]] ir [[#^s-c68b550454753564e4fc39f3|10]] straipsnių pakeitimo įstatymas

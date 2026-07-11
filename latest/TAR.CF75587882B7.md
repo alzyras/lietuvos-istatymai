@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Neišmokėtos darbo užmokesčio dalies grąžinimas ^s-89fa32cd5a26c9babcd4f739
 
 
-Valstybės tarnautojams, kuriems remiantis Valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymo 1 straipsnio 3 dalies (Žin., 2002, Nr. 45-1709, Nr. 123-5534) nuostatomis buvo apskaičiuotas bei sumokėtas mažesnis nei [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] VI skyriuje nustatytas darbo užmokestis, skirtumas tarp sumokėto ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nustatyto darbo užmokesčio Vyriausybės nustatyta tvarka sumokamas iki 2007 m. kovo 1 d.
+Valstybės tarnautojams, kuriems remiantis [Valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymo 1 straipsnio 3 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.8C46EE8DC023) (Žin., 2002, Nr. 45-1709, Nr. 123-5534) nuostatomis buvo apskaičiuotas bei sumokėtas mažesnis nei [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] VI skyriuje nustatytas darbo užmokestis, skirtumas tarp sumokėto ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nustatyto darbo užmokesčio Vyriausybės nustatyta tvarka sumokamas iki 2007 m. kovo 1 d.
 
 
 

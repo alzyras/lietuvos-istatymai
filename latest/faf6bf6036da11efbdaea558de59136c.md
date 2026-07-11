@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 67 straipsnio pakeitimas ^s-289222323d570a07728d13d0
 
 
-Papildyti 67 straipsnį 4 dalimi:
+Papildyti [[latest/TAR.C595FF45F869#^s-836afae94f3e83f5ad7a6424|67 straipsnį 4 dalimi]]:
 
 
 „4. Valstybinės aukštosios mokyklos statute gali būti nustatyta, kad su rektoriaus (direktoriaus) ar senato į pareigas skiriamais aukštosios mokyklos prorektoriais (direktoriaus pavaduotojais), kancleriu, fakultetų dekanais, prodekanais, katedrų vedėjais, centrų, institutų ar kitų akademinių padalinių vadovais gali būti sudaromos terminuotos darbo sutartys ne ilgesnei kaip 5 metų kadencijai, o su prorektoriais (direktoriaus pavaduotojais), kancleriu gali būti sudaromos terminuotos darbo sutartys ir rektoriaus (direktoriaus) įgaliojimų laikotarpiui.“

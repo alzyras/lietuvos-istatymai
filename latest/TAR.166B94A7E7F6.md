@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-d565b75800867e3fc9e218a8
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. sausio 24 d. dekretą Nr. 1193, ratifikuoja su išlyga 1973 metų spalio 2 dieną sudarytą Konvenciją dėl išlaikymo pareigoms taikytinos teisės.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. sausio 24 d. dekretą Nr. 1193](https://e-tar.lt/portal/lt/legalAct/TAR.A56B41872965), ratifikuoja su išlyga 1973 metų spalio 2 dieną sudarytą Konvenciją dėl išlaikymo pareigoms taikytinos teisės.
 
 
 

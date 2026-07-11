@@ -607,7 +607,7 @@ Tarnybinį patikrinimą paskyręs vadas (viršininkas), remdamasis tarnybinio pa
 3) tyrimo metu nenustačius žalos padarymo fakto ar esant aplinkybėms, naikinančioms materialinę atsakomybę, tarnybinį patikrinimą nutraukti; ^s-7faaabe67f7a927879d79736
 
 
-4) nustačius šio įstatymo 5 ir [[#^s-6dcea7ce61daefcb013b5782|6 straipsniuose]] išvardytas aplinkybes, įsakymu dėl žalos atlyginimo nuspręsti, kokia dalimi mažinamas žalos atlyginimo dydis, arba atleisti karį nuo žalos atlyginimo. ^s-4d21d7c74c39a3e831940391
+4) nustačius šio įstatymo [[#^s-965c5f0dde6c2036f32b599f|5]] ir [[#^s-6dcea7ce61daefcb013b5782|6]] straipsniuose išvardytas aplinkybes, įsakymu dėl žalos atlyginimo nuspręsti, kokia dalimi mažinamas žalos atlyginimo dydis, arba atleisti karį nuo žalos atlyginimo. ^s-4d21d7c74c39a3e831940391
 
 
 
@@ -711,7 +711,7 @@ Nr. XIV-2743, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11582
 
 
 
-3. Visiškos materialinės atsakomybės atveju, kai žala neviršija šio įstatymo [[#^s-51658d61b4e745e9bc973ca0|4 straipsnyje]] nurodytų dydžių ir žalos atlyginimo klausimas neišspręstas šio įstatymo [[#^s-0a68991609d21c869fe5ae2f|20 straipsnyje]] nurodytu būdu, taip pat kariui pažeidus susitarimu nustatytas žalos atlyginimo sąlygas, žala atlyginama vadovaujantis vado (viršininko) įsakymu, atitinkamai išskaitant iš šio straipsnio 1 ir [[#^s-205310b010453845bfa8ac61|2 dalyse]] nurodytų karių tarnybinio atlyginimo, stipendijos, kurių dydis nustatomas šio įstatymo [[#^s-53e00d13b0224a9597aa3c71|10 straipsnyje]] nustatyta tvarka, išmokos buitinėms išlaidoms, kitų pajamų ar turto. Jei žala viršija šio įstatymo [[#^s-51658d61b4e745e9bc973ca0|4 straipsnyje]] nurodytus dydžius ir nėra sudarytas susitarimas atlyginti žalą, ji atlyginama įstatymų nustatyta tvarka pagal krašto apsaugos sistemos institucijų, kuriose kariai tarnauja, ieškinius. ^s-26e45296a6a754afd40378ec
+3. Visiškos materialinės atsakomybės atveju, kai žala neviršija šio įstatymo [[#^s-51658d61b4e745e9bc973ca0|4 straipsnyje]] nurodytų dydžių ir žalos atlyginimo klausimas neišspręstas šio įstatymo [[#^s-0a68991609d21c869fe5ae2f|20 straipsnyje]] nurodytu būdu, taip pat kariui pažeidus susitarimu nustatytas žalos atlyginimo sąlygas, žala atlyginama vadovaujantis vado (viršininko) įsakymu, atitinkamai išskaitant iš šio straipsnio [[#^s-81db5d27324413031b8ba74f|1]] ir [[#^s-205310b010453845bfa8ac61|2]] dalyse nurodytų karių tarnybinio atlyginimo, stipendijos, kurių dydis nustatomas šio įstatymo [[#^s-53e00d13b0224a9597aa3c71|10 straipsnyje]] nustatyta tvarka, išmokos buitinėms išlaidoms, kitų pajamų ar turto. Jei žala viršija šio įstatymo [[#^s-51658d61b4e745e9bc973ca0|4 straipsnyje]] nurodytus dydžius ir nėra sudarytas susitarimas atlyginti žalą, ji atlyginama įstatymų nustatyta tvarka pagal krašto apsaugos sistemos institucijų, kuriose kariai tarnauja, ieškinius. ^s-26e45296a6a754afd40378ec
 Straipsnio dalies pakeitimai:
 Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. [[latest/TAR.17DFEBD00C5B|1131010ISTA0XII-250]]
 Nr. XIV-1737, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00150
@@ -736,7 +736,7 @@ Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. [[latest/T
 
 
 
-7. Vado (viršininko) įsakymas dėl žalos atlyginimo yra vykdomasis dokumentas, vykdomas šio įstatymo ir Civilinio proceso kodekso nustatyta tvarka. ^s-9870ae514a2b50cc3aa41d83
+7. Vado (viršininko) įsakymas dėl žalos atlyginimo yra vykdomasis dokumentas, vykdomas šio įstatymo ir [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-9870ae514a2b50cc3aa41d83
 Straipsnio dalies pakeitimai:
 Nr. XI-1514, 2011-06-23, Žin., 2011, Nr. 86-4156 (2011-07-13), i. k. [[latest/TAR.9018B4E8A289|1111010ISTA0XI-1514]]
 Nr. XII-250, 2013-04-23, Žin., 2013, Nr. 46-2250 (2013-05-07), i. k. [[latest/TAR.17DFEBD00C5B|1131010ISTA0XII-250]]
@@ -861,7 +861,7 @@ Nr. XIV-2743, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11582
 
 
 
-2. Neleidžiama daryti išskaitymų iš išeitinės išmokos, kompensacijų ir kitų išmokų, į kurias pagal Civilinio proceso kodekso nuostatas išieškojimas negali būti nukreipiamas. ^s-b26b5f1e825c8376a8c68693
+2. Neleidžiama daryti išskaitymų iš išeitinės išmokos, kompensacijų ir kitų išmokų, į kurias pagal [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nuostatas išieškojimas negali būti nukreipiamas. ^s-b26b5f1e825c8376a8c68693
 
 
 Straipsnio pakeitimai:
@@ -918,7 +918,7 @@ Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 [
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2675, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21531
-Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 1, 4, 10, 12, 13, 15, 21, 25, [[#^s-297e25422521aef6c0afd1ef|26 straipsnių]] pakeitimo ir Įstatymo papildymo 1-1 straipsniu įstatymas
+Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 [[#^s-be4d54c7f90d6e0d65dcb5ee|1]], [[#^s-51658d61b4e745e9bc973ca0|4]], [[#^s-53e00d13b0224a9597aa3c71|10]], [[#^s-c42875907075cccca7773fd7|12]], [[#^s-3f3b9c0eb0a3fc247b393c50|13]], [[#^s-3b45756310af482c01a36528|15]], [[#^s-ba3513b75855396d312ec8f2|21]], [[#^s-61a6f804b2dd42edef5a2f20|25]], [[#^s-297e25422521aef6c0afd1ef|26]] straipsnių pakeitimo ir Įstatymo papildymo 1-1 straipsniu įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -928,7 +928,7 @@ Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 1
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1737, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00150
-Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 2, 4, 5, 10, 19, 21, 23, 25 ir [[#^s-297e25422521aef6c0afd1ef|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 [[#^s-5ee1ffc686b08880b5013404|2]], [[#^s-51658d61b4e745e9bc973ca0|4]], [[#^s-965c5f0dde6c2036f32b599f|5]], [[#^s-53e00d13b0224a9597aa3c71|10]], [[#^s-1a112393fb0d9d462bc0605e|19]], [[#^s-ba3513b75855396d312ec8f2|21]], [[#^s-0122550bf7f0edc99ef27f67|23]], [[#^s-61a6f804b2dd42edef5a2f20|25]] ir [[#^s-297e25422521aef6c0afd1ef|26]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -938,4 +938,4 @@ Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 [
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2743, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11582
-Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 1, 4, 10, 21, 25  ir [[#^s-297e25422521aef6c0afd1ef|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos karių materialinės atsakomybės įstatymo Nr. VIII-1857 [[#^s-be4d54c7f90d6e0d65dcb5ee|1]], [[#^s-51658d61b4e745e9bc973ca0|4]], [[#^s-53e00d13b0224a9597aa3c71|10]], [[#^s-ba3513b75855396d312ec8f2|21]], [[#^s-61a6f804b2dd42edef5a2f20|25]]  ir [[#^s-297e25422521aef6c0afd1ef|26]] straipsnių pakeitimo įstatymas

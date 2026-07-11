@@ -14,4 +14,4 @@ pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 17, 27 ir 43 stra
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - VIETOS SAVIVALDOS ĮSTATYMO 17, 27 IR 43 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - VIETOS SAVIVALDOS ĮSTATYMO 17, 27 IR 43 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

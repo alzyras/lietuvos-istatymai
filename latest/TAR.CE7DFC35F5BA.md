@@ -45,7 +45,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 „14 straipsnis. Muitinės įstaigų veikla
 
 
-1. Muitinės įstaigos atlieka į Lietuvos Respubliką iš trečiųjų šalių, kaip jos apibrėžtos [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatyme]] (toliau – trečiosios šalys), įvežamų ir iš Lietuvos Respublikos į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę Vyriausybės nustatyta tvarka. ^s-1eea8b5aa13abf1427356b73
+1. Muitinės įstaigos atlieka į Lietuvos Respubliką iš trečiųjų šalių, kaip jos apibrėžtos [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatyme]] (toliau – [[latest/TAR.2294490FE9DD|trečiosios šalys]]), įvežamų ir iš Lietuvos Respublikos į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę Vyriausybės nustatyta tvarka. ^s-1eea8b5aa13abf1427356b73
 
 
 2. Muitinės įstaigos privalo registruoti kiekvieną grynųjų pinigų įvežimo į Lietuvos Respubliką iš trečiųjų šalių ir išvežimo iš Lietuvos Respublikos į trečiąsias šalis atvejį, jeigu įvežamų arba išvežamų grynųjų pinigų vienkartinė suma viršija 10 000 litų ar ją atitinkančią sumą užsienio valiuta. ^s-2ccc47944d05e39753dccbbb

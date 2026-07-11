@@ -226,7 +226,7 @@ Pakeisti 12 straipsnio 1 dalį, papildyti [[#^s-cab101b548e83125699e9357|2 dalim
 ### 9 straipsnis. 13 straipsnio papildymas ir pakeitimas ^s-fea7a2b5b5c6d56e8265bd4b
 
 
-Papildyti 13 straipsnį naujomis 2 ir [[#^s-c2eb3a2657e50f3a04501dcb|4 dalimis]], buvusią [[#^s-8cb0ce20db84a1fbcd7c42bc|2 dalį]] laikyti [[#^s-2b7568311fa2b0ac55195749|3 dalimi]] ir visą straipsnį išdėstyti taip:
+Papildyti 13 straipsnį naujomis 2 ir 4 dalimis, buvusią [[#^s-8cb0ce20db84a1fbcd7c42bc|2 dalį]] laikyti [[#^s-2b7568311fa2b0ac55195749|3 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 

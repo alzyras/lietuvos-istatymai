@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 4 straipsnio pakeitimas ^s-980b7458e9777b35b5fb3138
 
 
-Papildyti 4 straipsnio 2 dalį 6 punktu:
+Papildyti [[latest/TAR.5C23DECF6210#^s-2a53323a1fa77528ae513fa4|4 straipsnio 2 dalį 6 punktu]]:
 
 
 „6) paskolų, naudojamų ekstremaliųjų situacijų paveiktos ekonomikos skatinimo tikslams įgyvendinti ir likvidumui didinti.“

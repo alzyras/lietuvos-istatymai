@@ -84,7 +84,7 @@ Vilnius
 Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
-„4. Į Valstybės saugumo departamento sistemos pareigūnų, paskirtų į pareigas iki 2012 m. gruodžio 31 d., tarnybos laiką pensijai skirti įskaitomi laikotarpiai, iki [[latest/TAR.8DC7CE5B68DD|Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymo]] įsigaliojimo įskaityti į Valstybės saugumo departamento sistemos pareigūnų tarnybos stažą pagal galiojusio Lietuvos Respublikos valstybės saugumo departamento įstatymo 28 straipsnį.“
+„4. Į Valstybės saugumo departamento sistemos pareigūnų, paskirtų į pareigas iki 2012 m. gruodžio 31 d., tarnybos laiką pensijai skirti įskaitomi laikotarpiai, iki [[latest/TAR.8DC7CE5B68DD|Lietuvos Respublikos žvalgybos įstatymo pakeitimo įstatymo]] įsigaliojimo įskaityti į Valstybės saugumo departamento sistemos pareigūnų tarnybos stažą pagal galiojusio [Lietuvos Respublikos valstybės saugumo departamento įstatymo 28 straipsnį](https://e-tar.lt/portal/lt/legalAct/TAR.48CA7D6FA983).“
 
 
 

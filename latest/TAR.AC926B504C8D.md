@@ -92,7 +92,7 @@ Valdovų rūmų atkūrimas, atkurtų Valdovų rūmų veikla yra finansuojama iš
 ### 6 straipsnis. Įstatymo įgyvendinimo tvarka ^s-91bd6f424102abf55ed754dd
 
 
-1. Vyriausybė iki 2000 m. gruodžio 15 d. priima nutarimą dėl Valdovų rūmų atkūrimo. ^s-532813c9fa81520caa19d7ce
+1. Vyriausybė iki 2000 m. gruodžio 15 d. priima nutarimą [dėl Valdovų rūmų atkūrimo](https://e-tar.lt/portal/lt/legalAct/TAR.7918BB45CF6A). ^s-532813c9fa81520caa19d7ce
 
 
 2. Iš valstybės biudžeto kasmet skiriama lėšų Valdovų rūmams atkurti, o jų suma nurodoma atskiroje valstybės biudžeto įstatymo eilutėje. ^s-d02ba34f1c5927f095d90bc9

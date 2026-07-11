@@ -48,7 +48,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 1. Šis įstatymas įsigalioja nuo 2003 m. sausio 1 d. ^s-e175cfb4898f79056555ca25
 
 
-2. Šio įstatymo įgyvendinimo tvarką nustato [[latest/TAR.F74ECE427C23|Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo]] įgyvendinimo įstatymas.“ ^s-d9ddc72ab0ee79f0720ddc62
+2. Šio įstatymo įgyvendinimo tvarką nustato [Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo įgyvendinimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.2839C21F55BD).“ ^s-d9ddc72ab0ee79f0720ddc62
 
 
 

@@ -194,7 +194,7 @@ gyventojų pajamų mokesčio
 
 
 
-1. 1985 m. liepos 25 d. Tarybos reglamentas (EEB) Nr. 2137/85 dėl Europos ekonominių interesų grupių (EEIG). ^s-d27b159d01a4b93c1d0bdf1a
+1. 1985 m. liepos 25 d. Tarybos [reglamentas (EEB) Nr. 2137/85](https://eur-lex.europa.eu/eli/reg/2137/85/oj) dėl Europos ekonominių interesų grupių (EEIG). ^s-d27b159d01a4b93c1d0bdf1a
 
 
 2. 2003 m. birželio 3 d. Tarybos direktyva 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų, apmokestinimo.“ ^s-08f0140155df933e086d432b
@@ -204,10 +204,10 @@ gyventojų pajamų mokesčio
 ### 7 straipsnis. Įstatymo įsigaliojimas ^s-3f0b449cc99700695f5e51cf
 
 
-1.Šis Įstatymas, išskyrus [[#^s-73b8b4b49557a3299ade9938|2 straipsnio]] 1 ir 4 dalis, [[#^s-26d246e03959df66d96bc2b1|3 straipsnio]] 1, 5 ir 9 dalis ir [[#^s-d8597a1ac7e0c0351d1bfc84|5 straipsnį]], įsigalioja nuo 2004 m. gegužės 1 d.
+1.Šis Įstatymas, išskyrus [[#^s-73b8b4b49557a3299ade9938|2 straipsnio]] [[#^s-74e82ac801ce1676f23edccf|1]] ir [[#^s-b07b499f39a9a5c1a418726e|4]] dalis, [[#^s-26d246e03959df66d96bc2b1|3 straipsnio]] [[#^s-3b70bc6cf180face527d4701|1]], [[#^s-05ba168e378c91b0b0af9034|5]] ir [[#^s-a0a5f65dbb3ecebd54c23c87|9]] dalis ir [[#^s-d8597a1ac7e0c0351d1bfc84|5 straipsnį]], įsigalioja nuo 2004 m. gegužės 1 d.
 
 
-2.Šio Įstatymo [[#^s-73b8b4b49557a3299ade9938|2 straipsnio]] 1 ir 4 dalių nuostatos ir [[#^s-26d246e03959df66d96bc2b1|3 straipsnio]] 1, 5 ir 9 dalių nuostatos taikomos už 2003 m. ir vėlesnius metus.
+2.Šio Įstatymo [[#^s-73b8b4b49557a3299ade9938|2 straipsnio]] [[#^s-74e82ac801ce1676f23edccf|1]] ir [[#^s-b07b499f39a9a5c1a418726e|4]] dalių nuostatos ir [[#^s-26d246e03959df66d96bc2b1|3 straipsnio]] [[#^s-3b70bc6cf180face527d4701|1]], [[#^s-05ba168e378c91b0b0af9034|5]] ir [[#^s-a0a5f65dbb3ecebd54c23c87|9]] dalių nuostatos taikomos už 2003 m. ir vėlesnius metus.
 
 
 3. Šio Įstatymo [[#^s-d8597a1ac7e0c0351d1bfc84|5 straipsnio]] nuostatos taikomos nuo 2005 m. sausio 1 d., jei Europos Sąjungos Tarybos sprendimu nebus nustatyta vėlesnė 2003 m. birželio 3 d. Tarybos direktyvą 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų, apmokestinimo įgyvendinančių Europos Sąjungos valstybių narių teisės aktų įsigaliojimo data. ^s-2d763eb2b70df86be0002b10

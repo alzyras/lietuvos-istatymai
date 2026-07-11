@@ -36,7 +36,7 @@ Vilnius
 
 ### PIRMASIS SKIRSNIS ^s-e1866c2ff6e1b3d5f7cb125f
 LIETUVOS RESPUBLIKOS
-[[latest/TAR.A5ACBDA529A9#^s-d6f0f1e3ae75019b629091d9|PELNO MOKESČIO ĮSTATYMO 2, 4, 5, 7, 12, 16, 18, 21, 27, 28, 30, 31, 32, 41, 42, 43, 47, 51, 55 STRAIPSNIŲ]], 1, 3 PRIEDĖLIŲ PAKEITIMAS BEI PAPILDYMAS, ĮSTATYMO PAPILDYMAS 373 STRAIPSNIU IR 44 STRAIPSNIO PRIPAŽINIMAS NETEKUSIU GALIOS
+[[latest/TAR.A5ACBDA529A9|PELNO MOKESČIO ĮSTATYMO]] [[latest/TAR.A5ACBDA529A9#^s-339f3b87460f8b8ca5d31a77|2]], [[latest/TAR.A5ACBDA529A9#^s-655b9d7f185709f30d73c056|4]], [[latest/TAR.A5ACBDA529A9#^s-42d6823ee7c5f0d4dcdbb407|5]], [[latest/TAR.A5ACBDA529A9#^s-c21b33f7affd3edc878dcb3d|7]], [[latest/TAR.A5ACBDA529A9#^s-e8133a170eba798716ab65b1|12]], [[latest/TAR.A5ACBDA529A9#^s-35cd4dda67edd43252965e85|16]], [[latest/TAR.A5ACBDA529A9#^s-3ade9b1e9540fe1c36364780|18]], [[latest/TAR.A5ACBDA529A9#^s-7bb3751f7b07685e4f7bc412|21]], [[latest/TAR.A5ACBDA529A9#^s-30adc6c3189b7914af447207|27]], [[latest/TAR.A5ACBDA529A9#^s-2516cecfd39c9f2b95439a81|28]], [[latest/TAR.A5ACBDA529A9#^s-c56d82129d907122ad131090|30]], [[latest/TAR.A5ACBDA529A9#^s-09e945789c5af246fb9df743|31]], [[latest/TAR.A5ACBDA529A9#^s-d1f66dcdb786f092ef33625d|32]], [[latest/TAR.A5ACBDA529A9#^s-5f1e6a253d5c6717d9330593|41]], [[latest/TAR.A5ACBDA529A9#^s-ed113a0991236a88d78b2340|42]], [[latest/TAR.A5ACBDA529A9#^s-ce69c04865ccb29b644757e9|43]], [[latest/TAR.A5ACBDA529A9#^s-79d97b9543c865846fd80780|47]], [[latest/TAR.A5ACBDA529A9#^s-6c0be81627f856ab68db1d98|51]], [[latest/TAR.A5ACBDA529A9#^s-d6f0f1e3ae75019b629091d9|55]] STRAIPSNIŲ, 1, 3 PRIEDĖLIŲ PAKEITIMAS BEI PAPILDYMAS, ĮSTATYMO PAPILDYMAS 373 STRAIPSNIU IR 44 STRAIPSNIO PRIPAŽINIMAS NETEKUSIU GALIOS
 
 (Žin., 2001, Nr. 110-3992; 2002, Nr. 73-3086; 2003, Nr. 73-3343, Nr. 74-3417, 3428, Nr. 104-4645; 2004, Nr. 25-748, Nr. 60-2117, 2127, Nr. 73-2534, Nr. 96-3520, Nr. 134-4836, Nr. 158-5758; 2005, Nr. 76-2740, Nr. 81-2942, Nr. 85-3171)
 
@@ -93,7 +93,7 @@ Papildyti 5 straipsnio 1 dalį 4 punktu:
 ### 4 straipsnis. 7 straipsnio pakeitimas ir papildymas ^s-0dc101790a5ae92d42f4c0ca
 
 
-[[#^s-9939522f907aaf0ea2869f5f|7 straipsnyje]] po žodžių „pinigų apskaitos principą“ įrašyti žodžius „ir šio straipsnio nuostatas“, straipsnį papildyti 2 ir [[#^s-3bd35e9553d99ed584f1ad1e|3 dalimis]] ir visą straipsnį išdėstyti taip:
+[[#^s-9939522f907aaf0ea2869f5f|7 straipsnyje]] po žodžių „pinigų apskaitos principą“ įrašyti žodžius „ir šio straipsnio nuostatas“, straipsnį papildyti 2 ir 3 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-9939522f907aaf0ea2869f5f|7 straipsnis]]. Pajamų ir sąnaudų pripažinimas
@@ -119,10 +119,10 @@ Papildyti 5 straipsnio 1 dalį 4 punktu:
 ### 6 straipsnis. 16 straipsnio 6 dalies pakeitimas ^s-fe19277cea7f25a71c03fc44
 
 
-[[#^s-4e3aa7b1971a85f50c15c21e|16 straipsnio 6 dalyje]] išbraukti žodį „ar“, po žodžio „pertvarkant“ įrašyti žodžius ir skaičius „ar Lietuvos vienetui (pagal 2001 m. spalio 8 d. Tarybos reglamentą (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto ir 2001 m. spalio 8 d. Tarybos direktyvą 2001/86/EB, papildančią Europos bendrovės statutą dėl darbuotojų dalyvavimo priimant sprendimus, įsteigtai Europos bendrovei, kurios buveinė yra Lietuvos Respublikoje (toliau – Europos bendrovė), ar pagal 2003 m. liepos 22 d. Tarybos reglamentą (EB) Nr. 1435/2003 dėl Europos kooperatinės bendrovės (SCE) statuto ir 2003 m. liepos 22 d. Tarybos direktyvą 2003/72/EB, papildančią Europos kooperatinės bendrovės statutą dėl darbuotojų dalyvavimo, įsteigtai Europos kooperatinei bendrovei, kurios buveinė yra Lietuvos Respublikoje (toliau – Europos kooperatinė bendrovė), perkeliant registruotą buveinę į kitą Europos Sąjungos valstybę narę“ ir šią dalį išdėstyti taip:
+[[#^s-4e3aa7b1971a85f50c15c21e|16 straipsnio 6 dalyje]] išbraukti žodį „ar“, po žodžio „pertvarkant“ įrašyti žodžius ir skaičius „ar Lietuvos vienetui (pagal 2001 m. spalio 8 d. Tarybos [reglamentą (EB) Nr. 2157/2001](https://eur-lex.europa.eu/eli/reg/2157/2001/oj) dėl Europos bendrovės (SE) statuto ir 2001 m. spalio 8 d. Tarybos direktyvą 2001/86/EB, papildančią Europos bendrovės statutą dėl darbuotojų dalyvavimo priimant sprendimus, įsteigtai Europos bendrovei, kurios buveinė yra Lietuvos Respublikoje (toliau – Europos bendrovė), ar pagal 2003 m. liepos 22 d. Tarybos [reglamentą (EB) Nr. 1435/2003](https://eur-lex.europa.eu/eli/reg/1435/2003/oj) dėl Europos kooperatinės bendrovės (SCE) statuto ir 2003 m. liepos 22 d. Tarybos direktyvą 2003/72/EB, papildančią Europos kooperatinės bendrovės statutą dėl darbuotojų dalyvavimo, įsteigtai Europos kooperatinei bendrovei, kurios buveinė yra Lietuvos Respublikoje (toliau – Europos kooperatinė bendrovė), perkeliant registruotą buveinę į kitą Europos Sąjungos valstybę narę“ ir šią dalį išdėstyti taip:
 
 
-„6. Tam tikrais atvejais vienetus reorganizuojant, likviduojant, pertvarkant ar Lietuvos vienetui (pagal 2001 m. spalio 8 d. Tarybos reglamentą (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto ir 2001 m. spalio 8 d. Tarybos direktyvą 2001/86/EB, papildančią Europos bendrovės statutą dėl darbuotojų dalyvavimo priimant sprendimus, įsteigtai Europos bendrovei, kurios buveinė yra Lietuvos Respublikoje (toliau – Europos bendrovė), ar pagal 2003 m. liepos 22 d. Tarybos reglamentą (EB) Nr. 1435/2003 dėl Europos kooperatinės bendrovės (SCE) statuto ir 2003 m. liepos 22 d. Tarybos direktyvą 2003/72/EB, papildančią Europos kooperatinės bendrovės statutą dėl darbuotojų dalyvavimo, įsteigtai Europos kooperatinei bendrovei, kurios buveinė yra Lietuvos Respublikoje (toliau – Europos kooperatinė bendrovė), perkeliant registruotą buveinę į kitą Europos Sąjungos valstybę narę, turto vertės padidėjimo pajamų pripažinimo ir apmokestinimo tvarka yra nustatyta šio Įstatymo IX skyriuje.“
+„6. Tam tikrais atvejais vienetus reorganizuojant, likviduojant, pertvarkant ar Lietuvos vienetui (pagal 2001 m. spalio 8 d. Tarybos [reglamentą (EB) Nr. 2157/2001](https://eur-lex.europa.eu/eli/reg/2157/2001/oj) dėl Europos bendrovės (SE) statuto ir 2001 m. spalio 8 d. Tarybos direktyvą 2001/86/EB, papildančią Europos bendrovės statutą dėl darbuotojų dalyvavimo priimant sprendimus, įsteigtai Europos bendrovei, kurios buveinė yra Lietuvos Respublikoje (toliau – Europos bendrovė), ar pagal 2003 m. liepos 22 d. Tarybos [reglamentą (EB) Nr. 1435/2003](https://eur-lex.europa.eu/eli/reg/1435/2003/oj) dėl Europos kooperatinės bendrovės (SCE) statuto ir 2003 m. liepos 22 d. Tarybos direktyvą 2003/72/EB, papildančią Europos kooperatinės bendrovės statutą dėl darbuotojų dalyvavimo, įsteigtai Europos kooperatinei bendrovei, kurios buveinė yra Lietuvos Respublikoje (toliau – Europos kooperatinė bendrovė), perkeliant registruotą buveinę į kitą Europos Sąjungos valstybę narę, turto vertės padidėjimo pajamų pripažinimo ir apmokestinimo tvarka yra nustatyta šio Įstatymo IX skyriuje.“
 
 
 
@@ -533,7 +533,7 @@ Papildyti Įstatymo 3 priedėlį 9 punktu:
 
 ### ANTRASIS SKIRSNIS ^s-83458b03c215850b513b361f
 LIETUVOS RESPUBLIKOS
-[[latest/TAR.A5ACBDA529A9#^s-4b3aa381c004d26e2a47ed7b|PELNO MOKESČIO ĮSTATYMO 5, 12, 26, 35, 36, 37, 53 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 371 BEI 372 STRAIPSNIAIS IR ĮSTATYMO 3 PRIEDĖLIO PAPILDYMO ĮSTATYMO [[#^s-0a317a7c5f6173717048ff2d|12 STRAIPSNIO]] PAKEITIMAS
+[[latest/TAR.A5ACBDA529A9|PELNO MOKESČIO ĮSTATYMO]] [[latest/TAR.A5ACBDA529A9#^s-42d6823ee7c5f0d4dcdbb407|5]], [[latest/TAR.A5ACBDA529A9#^s-e8133a170eba798716ab65b1|12]], [[latest/TAR.A5ACBDA529A9#^s-7d325ee55c611b69e71b5387|26]], [[latest/TAR.A5ACBDA529A9#^s-826983ef9093e28340b839a9|35]], [[latest/TAR.A5ACBDA529A9#^s-37ebf84ccfa96725cec70048|36]], [[latest/TAR.A5ACBDA529A9#^s-3b204eff06016e57d6396584|37]], [[latest/TAR.A5ACBDA529A9#^s-4b3aa381c004d26e2a47ed7b|53]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 371 BEI 372 STRAIPSNIAIS IR ĮSTATYMO 3 PRIEDĖLIO PAPILDYMO ĮSTATYMO [[#^s-0a317a7c5f6173717048ff2d|12 STRAIPSNIO]] PAKEITIMAS
 
 (Žin., 2004, Nr. 73-2534)
 

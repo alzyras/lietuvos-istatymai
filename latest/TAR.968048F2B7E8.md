@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-63399a298a863fe1ecca0a9d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. gruodžio 2 d. dekretą Nr. 1K-1620, ratifikuoja 2008 m. rugsėjo 3 d. Romoje pasirašytą Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės susitarimą dėl įslaptintos informacijos abipusės apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. gruodžio 2 d. dekretą Nr. 1K-1620](https://e-tar.lt/portal/lt/legalAct/TAR.0AD208705812), ratifikuoja 2008 m. rugsėjo 3 d. Romoje pasirašytą Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės susitarimą dėl įslaptintos informacijos abipusės apsaugos.
 
 
 

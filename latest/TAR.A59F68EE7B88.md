@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-4dfe6aa84e2f95246f016c1c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 5 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. rugsėjo 6 d. dekretą Nr. 1885, ratifikuoja 1961 m. gruodžio 2 d. Tarptautinę konvenciją dėl naujų augalų veislių apsaugos su pakeitimais, padarytais 1972 m. lapkričio 10 d., 1978 m. spalio 23 d. ir 1991 m. kovo 19 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 5 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. rugsėjo 6 d. dekretą Nr. 1885](https://e-tar.lt/portal/lt/legalAct/TAR.7F3BEEC9A48B), ratifikuoja 1961 m. gruodžio 2 d. Tarptautinę konvenciją dėl naujų augalų veislių apsaugos su pakeitimais, padarytais 1972 m. lapkričio 10 d., 1978 m. spalio 23 d. ir 1991 m. kovo 19 d. Ženevoje.
 
 
 

@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos rinkliavų įstatymo papildymo 6-1 straipsniu
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.B2F1F575D794|Lietuvos Respublikos konsulinio mokesčio įstatymas]] - 3 citatos - 4
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.41CD8BF53D8D#^s-c03f0ebaf0733b6df00dedc1|Lietuvos Respublikos rinkliavų įstatymas]] - Įstatymas Nr. X-1301
+_Nėra._

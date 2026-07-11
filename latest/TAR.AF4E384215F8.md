@@ -56,7 +56,7 @@ Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 
 
 
-2. [[latest/TAR.23C5BC14E2B6#^s-45f3ed30355c6497a266091d|Lietuvos Respublikos karo policijos įstatyme nustatytais atvejais Karo policijai vykdant saugomų asmenų apsaugą, mutatis mutandis taikomi šio įstatymo 7, 8 straipsniai]], [[#^s-c49f4625329742fdcc220a55|30 straipsnio 6 dalis]] ir [[#^s-44bcad7fa547e68ce55d1ee2|32 straipsnis]]. ^s-fadd85a56c7936da8ef0865d
+2. [[latest/TAR.23C5BC14E2B6|Lietuvos Respublikos karo policijos įstatyme]] nustatytais atvejais Karo policijai vykdant saugomų asmenų apsaugą, mutatis mutandis taikomi šio įstatymo [[latest/TAR.23C5BC14E2B6#^s-78f3c71823d41d4195c124bc|7]], [[latest/TAR.23C5BC14E2B6#^s-45f3ed30355c6497a266091d|8]] straipsniai, [[#^s-c49f4625329742fdcc220a55|30 straipsnio 6 dalis]] ir [[#^s-44bcad7fa547e68ce55d1ee2|32 straipsnis]]. ^s-fadd85a56c7936da8ef0865d
 
 
 Straipsnio pakeitimai:
@@ -603,7 +603,7 @@ Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
 6. Vadovybės apsaugos tarnybos direktoriaus pavaduotojų įgaliojimų trukmė yra susieta su Vadovybės apsaugos tarnybos direktoriaus įgaliojimų trukme. Nutrūkus Vadovybės apsaugos tarnybos direktoriaus įgaliojimams, Vadovybės apsaugos tarnybos direktoriaus pavaduotojai pareigas eina tol, kol Vadovybės apsaugos tarnybos direktoriaus pavaduotojai bus paskirti šio įstatymo nustatyta tvarka. ^s-e1e0aa08fceb81cdac566b5b
 
 
-7. Asmenys, kurie iki paskyrimo į Vadovybės apsaugos tarnybos direktoriaus ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojo pareigas ėjo pareigūno pareigas, pasibaigus Vadovybės apsaugos tarnybos direktoriaus kadencijai ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojų tarnybos einant šias pareigas laikotarpiui, jų rašytiniu sutikimu be atrankos gali būti paskirti į laisvas pareigūno pareigas, kurias ėjo iki paskyrimo į Vadovybės apsaugos tarnybos direktoriaus ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojo pareigas ir kurioms netaikoma kadencija, o kai šių pareigų nėra, – į kitas lygiavertes ar žemesnes pareigūno pareigas Vadovybės apsaugos tarnyboje, kurioms netaikoma kadencija. Pareigūnui, paskirtam į laisvas pareigūno pareigas, kurias jis ėjo iki paskyrimo į Vadovybės apsaugos tarnybos direktoriaus ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojo pareigas, o kai tokių pareigų nėra, paskirtam į kitas lygiavertes ar žemesnes pareigūno pareigas, nustatomas didžiausias pareiginės algos koeficientas iš Vadovybės apsaugos tarnybos direktoriaus tvirtinamoje Vadovybės apsaugos tarnybos pareigūnų darbo apmokėjimo sistemoje (toliau – pareigūnų darbo apmokėjimo sistema) tai pareigybei nustatyto pareiginės algos koeficientų intervalo. Jeigu šioje dalyje nurodyti asmenys nesutinka būti paskirti į kitas pareigūno pareigas, jie atleidžiami iš tarnybos vadovaujantis šio įstatymo [[#^s-463ffc17ce73a087ba606091|60 straipsnio 17 punktu]]. ^s-2dabddc5ac1e9b11c26086c2
+7. Asmenys, kurie iki paskyrimo į Vadovybės apsaugos tarnybos direktoriaus ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojo pareigas ėjo pareigūno pareigas, pasibaigus Vadovybės apsaugos tarnybos direktoriaus kadencijai ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojų tarnybos einant šias pareigas laikotarpiui, jų rašytiniu sutikimu be atrankos gali būti paskirti į laisvas pareigūno pareigas, kurias ėjo iki paskyrimo į Vadovybės apsaugos tarnybos direktoriaus ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojo pareigas ir kurioms netaikoma kadencija, o kai šių pareigų nėra, – į kitas lygiavertes ar žemesnes pareigūno pareigas Vadovybės apsaugos tarnyboje, kurioms netaikoma kadencija. Pareigūnui, paskirtam į laisvas pareigūno pareigas, kurias jis ėjo iki paskyrimo į Vadovybės apsaugos tarnybos direktoriaus ar Vadovybės apsaugos tarnybos direktoriaus pavaduotojo pareigas, o kai tokių pareigų nėra, paskirtam į kitas lygiavertes ar žemesnes pareigūno pareigas, nustatomas didžiausias pareiginės algos koeficientas iš Vadovybės apsaugos tarnybos direktoriaus tvirtinamoje Vadovybės apsaugos tarnybos pareigūnų darbo apmokėjimo sistemoje (toliau – pareigūnų darbo apmokėjimo sistema) tai pareigybei nustatyto pareiginės algos koeficientų intervalo. Jeigu šioje dalyje nurodyti asmenys nesutinka būti paskirti į kitas pareigūno pareigas, jie atleidžiami iš tarnybos vadovaujantis šio įstatymo 60 straipsnio 17 punktu. ^s-2dabddc5ac1e9b11c26086c2
 Straipsnio dalies pakeitimai:
 Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
 Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
@@ -652,7 +652,7 @@ Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 6) atitikti Vadovybės apsaugos tarnybos direktoriaus nustatytus fizinio pasirengimo ir kitus specialiuosius reikalavimus; ^s-aff0acb05b8b317ff1c54b1a
 
 
-7) atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija arba suteikiant teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, kai pareigos susijusios su įslaptintos informacijos naudojimu ir kai pareigybės aprašyme nustatytas toks reikalavimas; ^s-5bd26b88b58434fcc31bccf2
+7) atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija arba suteikiant teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), kai pareigos susijusios su įslaptintos informacijos naudojimu ir kai pareigybės aprašyme nustatytas toks reikalavimas; ^s-5bd26b88b58434fcc31bccf2
 Straipsnio punkto pakeitimai:
 Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 
@@ -826,7 +826,7 @@ Tepadeda man Dievas.“
 
 
 6. Karjeros valstybės tarnautojai ir laikinieji valstybės tarnautojai į pareigas Vadovybės apsaugos tarnyboje priimami [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nustatyta tvarka. Karjeros valstybės tarnautojams ir laikiniesiems valstybės tarnautojams, siekiantiems tarnauti ir tarnaujantiems Vadovybės apsaugos tarnyboje, taikomos šio įstatymo [[#^s-51c29e77d168e4ecf4568ac0|5 straipsnio]] ir [[#^s-9a9d58d202df3b0db013f964|20 straipsnio 1 dalies 5 punkto]] nuostatos. ^s-5e82ba015136b67ec10d0527
-TAR pastaba. Karjeros valstybės tarnautojams ir laikiniesiems valstybės tarnautojams, kurie priimti į pareigas Vadovybės apsaugos tarnyboje iki 2025 m. gruodžio 31 d., šio įstatymo [[#^s-5e82ba015136b67ec10d0527|23 straipsnio 6 dalies]] nuostatos (dėl [[#^s-51c29e77d168e4ecf4568ac0|Vadovybės apsaugos įstatymo 5 straipsnio]] nuostatų) taikomos tik tada, kai esama faktų ar aplinkybių, atsiradusių įsigaliojus 2025-12-23 įstatymui XV-718 (2026-01-01).
+TAR pastaba. Karjeros valstybės tarnautojams ir laikiniesiems valstybės tarnautojams, kurie priimti į pareigas Vadovybės apsaugos tarnyboje iki 2025 m. gruodžio 31 d., šio įstatymo 23 straipsnio 6 dalies nuostatos (dėl [[#^s-51c29e77d168e4ecf4568ac0|Vadovybės apsaugos įstatymo 5 straipsnio]] nuostatų) taikomos tik tada, kai esama faktų ar aplinkybių, atsiradusių įsigaliojus 2025-12-23 įstatymui XV-718 (2026-01-01).
 Straipsnio dalies pakeitimai:
 Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
@@ -836,7 +836,7 @@ Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 
 7. Darbo sutartys su darbuotojais sudaromos [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso]] nustatyta tvarka. Darbuotojams, siekiantiems dirbti ar dirbantiems pagal darbo sutartį Vadovybės apsaugos tarnyboje, taikomos šio įstatymo [[#^s-51c29e77d168e4ecf4568ac0|5 straipsnio]], [[#^s-a8cb38e0662be50baa1f5988|19 straipsnio 3 dalies 1 punkto]] ir [[#^s-185f4c1000fad740f7c92ba6|4 dalies]], [[#^s-9a9d58d202df3b0db013f964|20 straipsnio 1 dalies 5 punkto]] nuostatos – jų neatitinkantys darbuotojai atleidžiami. ^s-3463339016764b2821cdde7c
 TAR pastaba.
-Pagal darbo sutartį dirbantiems darbuotojams, Vadovybės apsaugos tarnyboje pradėjusiems dirbti iki 2025 m. gruodžio 31 d., šio įstatymo [[#^s-3463339016764b2821cdde7c|23 straipsnio 7 dalies]] nuostatos (dėl [[#^s-51c29e77d168e4ecf4568ac0|Vadovybės apsaugos įstatymo 5 straipsnio]], [[#^s-a8cb38e0662be50baa1f5988|19 straipsnio 3 dalies 1 punkto]] ir [[#^s-185f4c1000fad740f7c92ba6|4 dalies]], [[#^s-9a9d58d202df3b0db013f964|20 straipsnio 1 dalies 5 punkto]] nuostatų) taikomos tik tada, kai esama faktų ar aplinkybių, atsiradusių įsigaliojus 2025-12-23 įstatymui XV-718 (2026-01-01).
+Pagal darbo sutartį dirbantiems darbuotojams, Vadovybės apsaugos tarnyboje pradėjusiems dirbti iki 2025 m. gruodžio 31 d., šio įstatymo 23 straipsnio 7 dalies nuostatos (dėl [[#^s-51c29e77d168e4ecf4568ac0|Vadovybės apsaugos įstatymo 5 straipsnio]], [[#^s-a8cb38e0662be50baa1f5988|19 straipsnio 3 dalies 1 punkto]] ir [[#^s-185f4c1000fad740f7c92ba6|4 dalies]], [[#^s-9a9d58d202df3b0db013f964|20 straipsnio 1 dalies 5 punkto]] nuostatų) taikomos tik tada, kai esama faktų ar aplinkybių, atsiradusių įsigaliojus 2025-12-23 įstatymui XV-718 (2026-01-01).
 Straipsnio dalies pakeitimai:
 Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 
@@ -877,7 +877,7 @@ Pareigūno asmens duomenys, specialiųjų kategorijų asmens duomenys, taip pat 
 3) pačių prašymu atleisti iš tarnybos ir išvykę kartu su sutuoktiniu, perkeltu, paskirtu ar išrinktu dirbti užsienyje, – per 3 mėnesius po sutuoktinio perkėlimo, paskyrimo ar išrinkimo dirbti užsienyje laikotarpio pabaigos arba per 3 mėnesius nuo prašymo atkurti pareigūno statusą pateikimo dienos, kai šis prašymas pateikiamas nesibaigus sutuoktinio perkėlimo, paskyrimo ar išrinkimo dirbti užsienyje laikotarpiui. ^s-b139bd04eb227285de8b9daa
 
 
-2. Pareigūno statusas atkuriamas, jeigu jį atkurti siekiantis asmuo atitinka šio įstatymo 19 ir [[#^s-7dc8a3c64ce4d3ac2d827f53|20 straipsniuose]] nustatytus reikalavimus. ^s-16810ff128685edc814f9f29
+2. Pareigūno statusas atkuriamas, jeigu jį atkurti siekiantis asmuo atitinka šio įstatymo [[#^s-1cccbef26337021b99ac247a|19]] ir [[#^s-7dc8a3c64ce4d3ac2d827f53|20]] straipsniuose nustatytus reikalavimus. ^s-16810ff128685edc814f9f29
 
 
 
@@ -1196,7 +1196,7 @@ Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 ### 36 straipsnis. Pareigūnų pareigybių ir tarnybinių rangų derinimas ^s-06ff97cd2426f9af2549c596
 
 
-Į pareigas skiriantis subjektas, išskyrus šio įstatymo [[#^s-23d144d570ac11ef18d326f7|18 straipsnio]] 8 ir 9 dalyse numatytus atvejus, pareigūnui suteikia jo pareigybę atitinkantį tarnybinį rangą:
+Į pareigas skiriantis subjektas, išskyrus šio įstatymo [[#^s-23d144d570ac11ef18d326f7|18 straipsnio]] [[#^s-a482f78258570134ce9ef169|8]] ir [[#^s-b3496a4c076f1e0b801cd971|9]] dalyse numatytus atvejus, pareigūnui suteikia jo pareigybę atitinkantį tarnybinį rangą:
 
 
 1) Vadovybės apsaugos tarnybos direktoriui – pirmąjį tarnybinį rangą; ^s-89aea4508223a3b166207f90
@@ -1264,7 +1264,7 @@ Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
 2) perkelti pareigūną į aukštesnes pareigas, arba ^s-3998d41a94cb4a22be3d6356
 
 
-3) skatinti pareigūną šio įstatymo [[#^s-6fed27a79ed0f454ce1fa497|64 straipsnio 1 dalies]] 1 ir [[#^s-3998d41a94cb4a22be3d6356|2 punktuose]] numatytomis skatinimo priemonėmis. ^s-ca321f5b05b4f0b926970853
+3) skatinti pareigūną šio įstatymo [[#^s-6fed27a79ed0f454ce1fa497|64 straipsnio 1 dalies]] [[#^s-3542b807679ff380d3169c3c|1]] ir [[#^s-ae4ea1b3217724522c399240|2]] punktuose numatytomis skatinimo priemonėmis. ^s-ca321f5b05b4f0b926970853
 
 
 Straipsnio dalies pakeitimai:
@@ -1631,10 +1631,10 @@ Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
 4) faktinį tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir batalionuose) laiką – Vyriausybės nustatyta tvarka; ^s-a9dcdc11f802fec73bc97472
 
 
-5) darbo policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje prie Lietuvos Respublikos vidaus reikalų ministerijos, vidaus tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose, Kalėjimų departamente ir jam pavaldžiose įstaigose ir valstybės įmonėse laiką Lietuvos Respublikos darbo sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms; ^s-1d42bc9a7fe2047dcb93eb70
+5) darbo policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje prie Lietuvos Respublikos vidaus reikalų ministerijos, vidaus tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose, Kalėjimų departamente ir jam pavaldžiose įstaigose ir valstybės įmonėse laiką [Lietuvos Respublikos darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms; ^s-1d42bc9a7fe2047dcb93eb70
 
 
-6) darbo laiką, dirbtą profesionaliosios priešgaisrinės apsaugos padalinio vadovu, operatyviniu budėtoju, profilaktikos instruktoriumi, sargybos viršininku, skyrininku, ugniagesiu (gaisrininku), vairuotoju, dispečeriu, dujų ir dūmų apsaugos tarnybos meistru (priešdūminės ir priešdujinės tarnybos meistru) Darbo sutarties įstatymo pagrindais, jeigu vėliau šis darbuotojas buvo paskirtas statutiniu priešgaisrinės apsaugos pareigūnu; ^s-6854757d2e62db0ce1de0082
+6) darbo laiką, dirbtą profesionaliosios priešgaisrinės apsaugos padalinio vadovu, operatyviniu budėtoju, profilaktikos instruktoriumi, sargybos viršininku, skyrininku, ugniagesiu (gaisrininku), vairuotoju, dispečeriu, dujų ir dūmų apsaugos tarnybos meistru (priešdūminės ir priešdujinės tarnybos meistru) [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pagrindais, jeigu vėliau šis darbuotojas buvo paskirtas statutiniu priešgaisrinės apsaugos pareigūnu; ^s-6854757d2e62db0ce1de0082
 
 
 7) vieną tarnybos ar darbo dieną Lietuvos Respublikos krašto apsaugos departamento struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. iki 1991 m. rugpjūčio 23 d., Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. ir Lietuvos Respublikos vadovybės apsaugos tarnyboje bei Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje nuo 1990 m. balandžio 11 d. iki 1991 m. rugpjūčio 23 d. – kaip tris tarnybos dienas; ^s-6e566b8bc89ae33a7d8b9ad2
@@ -1676,7 +1676,7 @@ Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
 5. Už viršvalandinį darbą mokamas pusantro pareigūno darbo užmokesčio dydžio darbo užmokestis. ^s-3e869b3d51809012b93c7f1e
 
 
-6. Pareigūno prašymu darbo poilsio ar švenčių dienomis laikas ar viršvalandinio darbo laikas, padaugintas iš šio straipsnio 2–[[#^s-3e869b3d51809012b93c7f1e|5 dalyse]] nustatyto atitinkamo darbo užmokesčio dydžio, gali būti pridedamas prie kasmetinių atostogų laiko. ^s-89accf88c18b83cbba47cfad
+6. Pareigūno prašymu darbo poilsio ar švenčių dienomis laikas ar viršvalandinio darbo laikas, padaugintas iš šio straipsnio [[#^s-6d2c08c8008dd9131a8f2a87|2]]–[[#^s-3e869b3d51809012b93c7f1e|5]] dalyse nustatyto atitinkamo darbo užmokesčio dydžio, gali būti pridedamas prie kasmetinių atostogų laiko. ^s-89accf88c18b83cbba47cfad
 
 
 7. Mokant pareigūnui už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, taikomas darbo užmokestis, kurį sudaro pareigūno pareiginė alga ir priedas už tarnybos Lietuvos valstybei metus. ^s-eaf42e7af12be288f9ecbbbc
@@ -1796,7 +1796,7 @@ Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 
 
 13. Atleidžiamam iš tarnybos pareigūnui gali būti suteikiamos nepanaudotos kasmetinės atostogos arba už nepanaudotas kasmetines atostogas išmokama piniginė kompensacija. Jeigu pareigūnui kasmetinės atostogos nebuvo suteiktos daugiau kaip už vienus darbo metus, kompensacija išmokama už visas nepanaudotas kasmetines atostogas, bet ne daugiau kaip už 3 tarnybos metų nepanaudotas kasmetines atostogas. ^s-b1b9e318452399116252c270
-TAR pastaba. Iki [[latest/091900109c0e11ea9515f752ff221ec9|įstatymo Nr. XIII-2901]] įsigaliojimo (2020-07-01) visos pareigūnų nepanaudotos atostogos yra išsaugomos. Nepanaudotos kasmetinės atostogos, kurios pareigūnui priklausė iki šio įstatymo įsigaliojimo, suteikiamos pagal iki šio įstatymo įsigaliojimo galiojusius teisės aktus. Atleidžiant pareigūną iš tarnybos, vadovaujamasi šio įstatymo [[#^s-13c49ab30da7098b768f12f1|1 straipsnyje]] išdėstyto Įstatymo [[#^s-b1b9e318452399116252c270|50 straipsnio 13 dalies]] nuostatomis.
+TAR pastaba. Iki [[latest/091900109c0e11ea9515f752ff221ec9|įstatymo Nr. XIII-2901]] įsigaliojimo (2020-07-01) visos pareigūnų nepanaudotos atostogos yra išsaugomos. Nepanaudotos kasmetinės atostogos, kurios pareigūnui priklausė iki šio įstatymo įsigaliojimo, suteikiamos pagal iki šio įstatymo įsigaliojimo galiojusius teisės aktus. Atleidžiant pareigūną iš tarnybos, vadovaujamasi šio įstatymo [[#^s-13c49ab30da7098b768f12f1|1 straipsnyje]] išdėstyto Įstatymo 50 straipsnio 13 dalies nuostatomis.
 
 
 ### 51 straipsnis. Pareigūnų draudimas ir pensijos ^s-ea80cd25296872821b3656c0
@@ -1864,7 +1864,7 @@ Pareigūnui, kuris atlikdamas tarnybines pareigas viršijo tarnybinės rizikos r
 2. [[#^s-59688c65170af739e034cd26|Šio straipsnio 1 dalyje]] nustatyto dydžio išmoka pareigūnams, turintiems daugiau kaip 5 metus nepertraukiamo pareigūno tarnybos stažo, didinama pusantro karto, turintiems daugiau kaip 10 metų nepertraukiamo pareigūno tarnybos stažo, – 2 kartus, turintiems daugiau kaip 20 metų nepertraukiamo pareigūno tarnybos stažo, – 3 kartus. ^s-e9cf71fcea703d4eb3e66b06
 
 
-3. Jeigu šio įstatymo [[#^s-9a67fc71e74b905c54f8bed3|60 straipsnio 15 punkte]] nustatytu pagrindu dėl iš tarnybos atleidžiamo pareigūno yra pradėtas ir nebaigtas šio įstatymo [[#^s-fd52ca17b2c0e8658570f8e9|66 straipsnio 1 dalyje]] nurodytas tarnybinis patikrinimas, išeitinė išmoka šiam pareigūnui pradedama mokėti praėjus vienam mėnesiui nuo sprendimo, priimto atlikus tarnybinį patikrinimą, priėmimo dienos ir mokama kas mėnesį lygiomis dalimis. Jeigu atlikus šio įstatymo [[#^s-fd52ca17b2c0e8658570f8e9|66 straipsnio 1 dalyje]] nurodytą tarnybinį patikrinimą yra priimtas sprendimas dėl pareigūno, atleisto iš tarnybos šio įstatymo [[#^s-9a67fc71e74b905c54f8bed3|60 straipsnio 15 punkte]] nustatytu pagrindu, pripažinimo padariusiu tarnybinį nusižengimą, už kurį jam turėtų būti skirta tarnybinė nuobauda – atleidimas iš tarnybos, arba priimtas sprendimas dėl pareigūno, atleisto iš tarnybos šio įstatymo [[#^s-9a67fc71e74b905c54f8bed3|60 straipsnio 15 punkte]] nurodytu pagrindu, pripažinimo pažeminusiu pareigūno vardą, išeitinė išmoka šiam pareigūnui nemokama. ^s-1c5a722770e1543be2d41c29
+3. Jeigu šio įstatymo 60 straipsnio 15 punkte nustatytu pagrindu dėl iš tarnybos atleidžiamo pareigūno yra pradėtas ir nebaigtas šio įstatymo [[#^s-fd52ca17b2c0e8658570f8e9|66 straipsnio 1 dalyje]] nurodytas tarnybinis patikrinimas, išeitinė išmoka šiam pareigūnui pradedama mokėti praėjus vienam mėnesiui nuo sprendimo, priimto atlikus tarnybinį patikrinimą, priėmimo dienos ir mokama kas mėnesį lygiomis dalimis. Jeigu atlikus šio įstatymo [[#^s-fd52ca17b2c0e8658570f8e9|66 straipsnio 1 dalyje]] nurodytą tarnybinį patikrinimą yra priimtas sprendimas dėl pareigūno, atleisto iš tarnybos šio įstatymo 60 straipsnio 15 punkte nustatytu pagrindu, pripažinimo padariusiu tarnybinį nusižengimą, už kurį jam turėtų būti skirta tarnybinė nuobauda – atleidimas iš tarnybos, arba priimtas sprendimas dėl pareigūno, atleisto iš tarnybos šio įstatymo 60 straipsnio 15 punkte nurodytu pagrindu, pripažinimo pažeminusiu pareigūno vardą, išeitinė išmoka šiam pareigūnui nemokama. ^s-1c5a722770e1543be2d41c29
 
 
 Straipsnio pakeitimai:
@@ -1919,7 +1919,7 @@ Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
 5. Pareigūnų sveikatos sutrikdymo mastą teisės aktų nustatyta tvarka nustato asmens sveikatos priežiūros įstaigos, kurios savininko teises ir pareigas įgyvendina Vidaus reikalų ministerija, Centrinė medicinos ekspertizės komisija, vadovaudamasi Vyriausybės tvirtinamu pareigūnų sunkių, apysunkių ir lengvų sužeidimų, traumų ir kitų sveikatos sutrikdymų sąrašu. ^s-5524e3305a73f459f84e68cb
 
 
-6. Šio straipsnio 1 ir [[#^s-625788887bf3a195803a717f|3 dalyse]] nustatytos kompensacijos nemokamos, jeigu: ^s-ccef7f82d59746d35c278ade
+6. Šio straipsnio [[#^s-3e73d066371022049eeb4eff|1]] ir [[#^s-625788887bf3a195803a717f|3]] dalyse nustatytos kompensacijos nemokamos, jeigu: ^s-ccef7f82d59746d35c278ade
 
 
 1) pareigūnas žuvo, susižalojo darydamas tyčinį nusikaltimą ar baudžiamąjį nusižengimą arba pareigūnas buvo sužalotas ar jo sveikata buvo sutrikdyta, kai jis darė tyčinį nusikaltimą ar baudžiamąjį nusižengimą; ^s-f4e6ab0a75f4b3307b19de8e
@@ -2070,7 +2070,7 @@ PAREIGŪNŲ NUŠALINIMAS NUO PAREIGŲ IR ATLEIDIMAS IŠ TARNYBOS
 
 
 5) jis ilgiau kaip 60 kalendorinių dienų nuo pareigūno darbo grafike numatytos patikrinimo dienos dėl sveikatos būklės (išskyrus laikinojo nedarbingumo laikotarpius) nedalyvavo Vadovybės apsaugos tarnybos direktoriaus nustatytų fizinio pasirengimo, fizinės prievartos veiksmų atlikimo ar šaudymo, jei šie gebėjimai neišvengiamai būtini jo tarnybinėms funkcijoms atlikti, reikalavimų patikrinimuose ir jo negalima laikinai perkelti į kitas pareigas. Šiuo atveju pareigūnas nuo pareigų nušalinamas iki tol, kol išnyksta aplinkybės, dėl kurių jis buvo nušalintas. ^s-8cd6cb431e43fe6f716d5b3f
-TAR pastaba. 1. Jeigu iki 2025 m. gruodžio 31 d. pareigūnas nušalinamas nuo pareigų dėl to, kad buvo įtariamas nusikalstamos veikos ar administracinio nusižengimo padarymu, ir 2026 m. sausio 1 d. jo nušalinimo terminas nėra pasibaigęs, per vieną mėnesį nuo 2026 m. sausio 1 d. dėl tokio nušalinimo poreikio ir termino turi būti sprendžiama vadovaujantis šio įstatymo 59 straipsnio 2 dalies 2 ir [[#^s-9ddb7200052e250e8d072fd8|3 punktų]] nuostatomis, išskyrus atvejus, kai pareigūnas jau nušalintas nuo pareigų [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso]] nustatyta tvarka. Nustačius, kad pratęsti pareigūno nušalinimo nuo pareigų nėra tikslinga ir pagrįsta, nuo pareigų nušalintas pareigūnas grąžinamas į eitas pareigas ir per 20 darbo dienų nuo dienos, kurią pareigūnas vėl pradėjo eiti pareigas, jam išmokamas darbo užmokestis už jo nušalinimo nuo pareigų laikotarpį, bet ne ilgesnį kaip nuo Lietuvos Respublikos Konstitucinio Teismo 2021 m. gruodžio 22 d. nutarimo Nr. KT201-A-N15/2021 paskelbimo dienos iki 2025 m. gruodžio 31 d., taip pat išmokami delspinigiai, kurių dydį tvirtina socialinės apsaugos ir darbo ministras.
+TAR pastaba. 1. Jeigu iki 2025 m. gruodžio 31 d. pareigūnas nušalinamas nuo pareigų dėl to, kad buvo įtariamas nusikalstamos veikos ar administracinio nusižengimo padarymu, ir 2026 m. sausio 1 d. jo nušalinimo terminas nėra pasibaigęs, per vieną mėnesį nuo 2026 m. sausio 1 d. dėl tokio nušalinimo poreikio ir termino turi būti sprendžiama vadovaujantis šio įstatymo 59 straipsnio 2 dalies [[#^s-03513487a364d2ee48cdfbd1|2]] ir [[#^s-9ddb7200052e250e8d072fd8|3]] punktų nuostatomis, išskyrus atvejus, kai pareigūnas jau nušalintas nuo pareigų [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso]] nustatyta tvarka. Nustačius, kad pratęsti pareigūno nušalinimo nuo pareigų nėra tikslinga ir pagrįsta, nuo pareigų nušalintas pareigūnas grąžinamas į eitas pareigas ir per 20 darbo dienų nuo dienos, kurią pareigūnas vėl pradėjo eiti pareigas, jam išmokamas darbo užmokestis už jo nušalinimo nuo pareigų laikotarpį, bet ne ilgesnį kaip nuo Lietuvos Respublikos Konstitucinio Teismo [2021 m. gruodžio 22 d. nutarimo Nr. KT201-A-N15/2021](https://e-tar.lt/portal/lt/legalAct/987a5d70633711eca9ac839120d251c4) paskelbimo dienos iki 2025 m. gruodžio 31 d., taip pat išmokami delspinigiai, kurių dydį tvirtina socialinės apsaugos ir darbo ministras.
 2. Įstatymo [[#^s-8cd6cb431e43fe6f716d5b3f|59 straipsnio 2 dalies 5 punkte]] nustatyti terminai pradedami skaičiuoti nuo 2026 m. sausio 1 d. ^s-08d41caaabbe034b14e24f89
 
 
@@ -2174,7 +2174,7 @@ Nr. XIV-1921, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08472
 
 
 21) kai jis ilgiau kaip 120 kalendorinių dienų per paskutinius 12 mėnesių dėl sveikatos būklės (išskyrus laikinojo nedarbingumo laikotarpius) nedalyvavo Vadovybės apsaugos tarnybos direktoriaus nustatytų fizinio pasirengimo, fizinės prievartos veiksmų atlikimo ar šaudymo, jei šie gebėjimai neišvengiamai būtini jo tarnybinėms funkcijoms atlikti, reikalavimų patikrinimuose ir jo negalima laikinai perkelti į kitas pareigas. ^s-717fc21421e6d08738c30ad6
-TAR pastaba. įstatymo [[#^s-717fc21421e6d08738c30ad6|60 straipsnio 21 punkte]] nustatyti terminai pradedami skaičiuoti nuo 2026 m. sausio 1 d.
+TAR pastaba. įstatymo 60 straipsnio 21 punkte nustatyti terminai pradedami skaičiuoti nuo 2026 m. sausio 1 d.
 Papildyta straipsnio punktu:
 Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 
@@ -2183,7 +2183,7 @@ Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 ### 61 straipsnis. Pareigūnų atleidimo iš tarnybos tvarka ir sąlygos ^s-17e51f98dd47436c58e41465
 
 
-1. Pareigūnai iš tarnybos atleidžiami ir su jais sudarytos tarnybos sutartys nutraukiamos Vadovybės apsaugos tarnybos direktoriaus sprendimu, išskyrus šio įstatymo [[#^s-23d144d570ac11ef18d326f7|18 straipsnio]] 1 ir [[#^s-479b355f0303931924d49ea8|2 dalyse]] nurodytus pareigūnus. ^s-d6ab117fed8e4c617d2816ae
+1. Pareigūnai iš tarnybos atleidžiami ir su jais sudarytos tarnybos sutartys nutraukiamos Vadovybės apsaugos tarnybos direktoriaus sprendimu, išskyrus šio įstatymo [[#^s-23d144d570ac11ef18d326f7|18 straipsnio]] [[#^s-e7bfef66f4e8a7792a32c1c3|1]] ir [[#^s-5091218f33e447cc1202fd28|2]] dalyse nurodytus pareigūnus. ^s-d6ab117fed8e4c617d2816ae
 
 
 2. Su atleidžiamu iš tarnybos pareigūnu turi būti visiškai atsiskaityta jo atleidimo dieną, išskyrus atvejus, kai pareigūnas nevykdo [[#^s-a4dd47d0c022f0c176d3b3cf|šio straipsnio 3 dalyje]] nustatytų įsipareigojimų, kai mokama šio įstatymo [[#^s-59688c65170af739e034cd26|54 straipsnio 1 dalyje]] nurodyta išeitinė išmoka arba šio įstatymo [[#^s-1c5a722770e1543be2d41c29|54 straipsnio 3 dalyje]] nurodyta išeitinė išmoka, kai atliekamas tarnybinis patikrinimas. Su delsiančiu grąžinti [[#^s-a4dd47d0c022f0c176d3b3cf|šio straipsnio 3 dalyje]] nurodytus daiktus pareigūnu turi būti atsiskaityta tik po to, kai jis visiškai įvykdo [[#^s-a4dd47d0c022f0c176d3b3cf|šio straipsnio 3 dalyje]] nustatytus įsipareigojimus. ^s-479b355f0303931924d49ea8
@@ -2195,7 +2195,7 @@ Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 3. Atleidžiamas iš tarnybos pareigūnas ne vėliau kaip jo atleidimo dieną privalo grąžinti pareigūno tarnybinį pažymėjimą, tarnybinį ženklą, tarnybinį šaunamąjį ginklą, specialiąsias priemones ir sprogmenis vadovui, turinčiam teisę šį pareigūną skirti į pareigas, arba jo įgaliotam pareigūnui, taip pat perduoti jam patikėtus tarnybinius dokumentus, inventorių, kitas darbo priemones, kuriuos jis gavo tarnaudamas Vadovybės apsaugos tarnyboje. ^s-a4dd47d0c022f0c176d3b3cf
 
 
-4. Pareigūnas šio įstatymo [[#^s-288f88c6746aae09d19cfc7c|60 straipsnio 14 punkte]] nustatytu pagrindu iš tarnybos atleidžiamas ir su juo sudaryta tarnybos sutartis nutraukiama, apie tai įspėjus ne vėliau kaip prieš 2 mėnesius iki atleidimo. Nėščiai pareigūnei, pareigūnui, vienam auginančiam vaiką (vaikus) iki 14 metų ar auginančiam vaiką (įvaikį) su negalia iki 18 metų, pareigūnui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko ne daugiau kaip 5 metai, apie numatomą atleidimą iš tarnybos turi būti pranešama raštu prieš 4 mėnesius iki atleidimo. ^s-cccc2ca2dcfb8fefc6364ed9
+4. Pareigūnas šio įstatymo 60 straipsnio 14 punkte nustatytu pagrindu iš tarnybos atleidžiamas ir su juo sudaryta tarnybos sutartis nutraukiama, apie tai įspėjus ne vėliau kaip prieš 2 mėnesius iki atleidimo. Nėščiai pareigūnei, pareigūnui, vienam auginančiam vaiką (vaikus) iki 14 metų ar auginančiam vaiką (įvaikį) su negalia iki 18 metų, pareigūnui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko ne daugiau kaip 5 metai, apie numatomą atleidimą iš tarnybos turi būti pranešama raštu prieš 4 mėnesius iki atleidimo. ^s-cccc2ca2dcfb8fefc6364ed9
 Straipsnio dalies pakeitimai:
 Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
 Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
@@ -2231,7 +2231,7 @@ Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 3. Pareigūnas turi teisę atšaukti prašymą nutraukti tarnybą savo noru ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo dienos. ^s-2845a7a50659c485558307d3
 
 
-4. Pareigūnas, dėl kurio galimo tarnybinio nusižengimo ar pareigūno vardo pažeminimo atliekamas tarnybinis patikrinimas, turi teisę nutraukti tarnybą, ne vėliau kaip prieš 30 kalendorinių dienų pateikęs prašymą Vadovybės apsaugos tarnybos direktoriui. Į šį terminą neįskaitomas laikas, kurį pareigūnas nebuvo tarnyboje dėl laikinojo nedarbingumo arba dėl atostogų. Dėl šio pareigūno galimo tarnybinio nusižengimo pradėtas tarnybinis patikrinimas tęsiamas ir sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo, taip pat sprendimas dėl pareigūno pripažinimo pažeminusiu pareigūno vardą priimamas šio įstatymo [[#^s-7846a4d6b2d94b628e3aa58a|66 straipsnyje]] nustatyta tvarka. ^s-ddb4886ad7d94bcb1ac19ebf
+4. Pareigūnas, dėl kurio galimo tarnybinio nusižengimo ar pareigūno vardo pažeminimo atliekamas tarnybinis patikrinimas, turi teisę nutraukti tarnybą, ne vėliau kaip prieš 30 kalendorinių dienų pateikęs prašymą Vadovybės apsaugos tarnybos direktoriui. Į šį terminą neįskaitomas laikas, kurį pareigūnas nebuvo tarnyboje dėl laikinojo nedarbingumo arba [dėl atostogų](https://e-tar.lt/portal/lt/legalAct/213d0c608f4211e4a98a9f2247652cf4). Dėl šio pareigūno galimo tarnybinio nusižengimo pradėtas tarnybinis patikrinimas tęsiamas ir sprendimas dėl tarnybinio nusižengimo padarymo pripažinimo ir tarnybinės nuobaudos skyrimo, taip pat sprendimas dėl pareigūno pripažinimo pažeminusiu pareigūno vardą priimamas šio įstatymo [[#^s-7846a4d6b2d94b628e3aa58a|66 straipsnyje]] nustatyta tvarka. ^s-ddb4886ad7d94bcb1ac19ebf
 Straipsnio dalies pakeitimai:
 Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 
@@ -2250,7 +2250,7 @@ Pareigūnas gali pateikti Vadovybės apsaugos tarnybos direktoriui, o Vadovybės
 1. Neteisėtai atleistam ir į eitas pareigas teismo sprendimu grąžintam pareigūnui išmokamas jo vidutinis darbo užmokestis už visą priverstinės pravaikštos laiką nuo atleidimo iš tarnybos dienos iki teismo sprendimo įvykdymo dienos. ^s-f0e5498612b763de901ced1d
 
 
-2. Neteisėtai atleisto ir į eitas pareigas teismo sprendimu grąžinto pareigūno grąžinimas į pareigas įforminamas pareigūną į pareigas skiriančio asmens įsakymu. Jeigu nėra galimybės grąžinti pareigūną į eitas pareigas, pareigūnas skiriamas į lygiavertes pareigas arba su jo sutikimu skiriamas į žemesnes pareigas. Jeigu lygiaverčių pareigų nėra arba pareigūnas atsisako eiti pasiūlytas lygiavertes ar žemesnes pareigas, jis atleidžiamas iš tarnybos pagal šio įstatymo [[#^s-288f88c6746aae09d19cfc7c|60 straipsnio 14 punktą]], netaikant šio įstatymo [[#^s-cccc2ca2dcfb8fefc6364ed9|61 straipsnio 4 dalyje]] numatyto įspėjimo termino, tačiau perkeliant atleidimo iš tarnybos datą iki to laiko, kada turi baigtis pareigūnui taikomas šio įstatymo [[#^s-cccc2ca2dcfb8fefc6364ed9|61 straipsnio 4 dalyje]] numatytas įspėjimo terminas. ^s-6890c6edc6006956c1d319c8
+2. Neteisėtai atleisto ir į eitas pareigas teismo sprendimu grąžinto pareigūno grąžinimas į pareigas įforminamas pareigūną į pareigas skiriančio asmens įsakymu. Jeigu nėra galimybės grąžinti pareigūną į eitas pareigas, pareigūnas skiriamas į lygiavertes pareigas arba su jo sutikimu skiriamas į žemesnes pareigas. Jeigu lygiaverčių pareigų nėra arba pareigūnas atsisako eiti pasiūlytas lygiavertes ar žemesnes pareigas, jis atleidžiamas iš tarnybos pagal šio įstatymo 60 straipsnio 14 punktą, netaikant šio įstatymo [[#^s-cccc2ca2dcfb8fefc6364ed9|61 straipsnio 4 dalyje]] numatyto įspėjimo termino, tačiau perkeliant atleidimo iš tarnybos datą iki to laiko, kada turi baigtis pareigūnui taikomas šio įstatymo [[#^s-cccc2ca2dcfb8fefc6364ed9|61 straipsnio 4 dalyje]] numatytas įspėjimo terminas. ^s-6890c6edc6006956c1d319c8
 
 
 Papildyta straipsniu:
@@ -2376,7 +2376,7 @@ Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
 3. Tarnybinio patikrinimo metu turi būti visapusiškai, nuodugniai ir objektyviai ištirtas tarnybinis nusižengimas, nustatytos jo padarymo priežastys ir sąlygos, nustatyti kalti asmenys, tarnybiniu patikrinimu turi būti užtikrinama, kad už tarnybinius nusižengimus atsakytų tik juos padarę asmenys. Jeigu įmanoma, turi būti nustatytos drausmės stiprinimo ir tarnybinių nusižengimų prevencijos priemonės. ^s-9c10e5663a5187d21d87013b
 
 
-4. Tarnybinis patikrinimas negali būti atliekamas ilgiau kaip 3 mėnesius, neįskaitant laiko, kurį pareigūnas, dėl kurio atliekamas tarnybinis patikrinimas, nebuvo tarnyboje dėl laikinojo nedarbingumo, buvimo komandiruotėje arba dėl atostogų. ^s-071b6edb6009f697d6e12a5c
+4. Tarnybinis patikrinimas negali būti atliekamas ilgiau kaip 3 mėnesius, neįskaitant laiko, kurį pareigūnas, dėl kurio atliekamas tarnybinis patikrinimas, nebuvo tarnyboje dėl laikinojo nedarbingumo, buvimo komandiruotėje arba [dėl atostogų](https://e-tar.lt/portal/lt/legalAct/213d0c608f4211e4a98a9f2247652cf4). ^s-071b6edb6009f697d6e12a5c
 Straipsnio dalies pakeitimai:
 Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 
@@ -2579,7 +2579,7 @@ Nr. XIV-3142, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20380
 
 
 
-2. Pareigūnai turi teisę panaudoti psichinę prievartą šio straipsnio 3, [[#^s-00e7c2a925f0b8fc7a2e7d37|4 dalyse]] arba šio įstatymo [[#^s-76ca4ce9f7d43f858cf0eedb|71 straipsnio 2 dalyje]] nurodytais atvejais. ^s-40785fc0e3852129fc4f564e
+2. Pareigūnai turi teisę panaudoti psichinę prievartą šio straipsnio [[#^s-25d53b8603c315473e796e70|3]], [[#^s-00e7c2a925f0b8fc7a2e7d37|4]] dalyse arba šio įstatymo [[#^s-76ca4ce9f7d43f858cf0eedb|71 straipsnio 2 dalyje]] nurodytais atvejais. ^s-40785fc0e3852129fc4f564e
 
 
 3. Pareigūnas turi teisę panaudoti fizinę prievartą šiais atvejais: ^s-25d53b8603c315473e796e70
@@ -2720,7 +2720,7 @@ Nr. XIV-3142, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20380
 7. Kai nėra neišvengiamo pavojaus pareigūno ar kitų asmenų gyvybei ar sveikatai, naudoti šaunamąjį ginklą ir sprogmenis draudžiama: ^s-8598f5bda49f688538d335e6
 
 
-1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus [[#^s-76ca4ce9f7d43f858cf0eedb|šio straipsnio 2 dalies]] 1 ir [[#^s-4afe3035442d252a519a9762|2 punktuose]] nurodytus atvejus; ^s-c89b81f42da06619b56bdd0d
+1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus [[#^s-76ca4ce9f7d43f858cf0eedb|šio straipsnio 2 dalies]] 1 ir [[#^s-4afe3035442d252a519a9762|2]] punktuose nurodytus atvejus; ^s-c89b81f42da06619b56bdd0d
 
 
 2) patalpose, kuriose yra sprogstamųjų medžiagų, lengvai užsidegančių medžiagų, galinčių sukelti pavojų asmens gyvybei ir sveikatai ar visuomenės saugumui. ^s-4afe3035442d252a519a9762
@@ -2732,7 +2732,7 @@ Nr. XIV-3142, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20380
 9. Pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijomis, susijusiomis su šaunamųjų ginklų ar sprogmenų panaudojimu. Pareigūnų parengimo ir tikrinimo tvarką nustato Vadovybės apsaugos tarnybos direktorius. ^s-1e90bbe6f496a00a6df9738e
 
 
-10. Šio straipsnio 1, 2, [[#^s-6710761f531cc81d08d0b372|3 dalių]] ir 7 dalies 1 punkto nuostatos netaikomos tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė. ^s-25f1f13cd85e17cbda0f9c37
+10. Šio straipsnio [[#^s-cab568cd75c8bdef221d0ff0|1]], [[#^s-76ca4ce9f7d43f858cf0eedb|2]], [[#^s-6710761f531cc81d08d0b372|3]] dalių ir 7 dalies 1 punkto nuostatos netaikomos tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė. ^s-25f1f13cd85e17cbda0f9c37
 
 
 
@@ -2747,7 +2747,7 @@ VADOVYBĖS APSAUGOS TARNYBOS REZERVAS
 1. Vadovybės apsaugos tarnybos rezervas formuojamas ir asmenys į šį rezervą įtraukiami Vadovybės apsaugos tarnybos direktoriaus nustatyta tvarka. ^s-9c6c5531b0a03697e84992f2
 
 
-2. Vadovybės apsaugos tarnybos rezervo nariais gali būti buvę Vadovybės apsaugos tarnybos pareigūnai, atitinkantys šio įstatymo [[#^s-083b0005f39ede261bf8a224|19 straipsnio 2 dalies]] 1, 2, 8 punktuose, 3 dalyje, [[#^s-6295c636976df4ad9e53aada|20 straipsnio 1 dalies]] 1, 2, 4, 6, 7 punktuose nustatytus reikalavimus, ne vyresni kaip 65 metų amžiaus, savanoriškais pagrindais jų rašytiniu prašymu Vadovybės apsaugos tarnybos direktoriaus nustatyta tvarka įtraukti į Vadovybės apsaugos tarnybos rezervą. ^s-cabe46ee1aa4cdd35a5e1052
+2. Vadovybės apsaugos tarnybos rezervo nariais gali būti buvę Vadovybės apsaugos tarnybos pareigūnai, atitinkantys šio įstatymo [[#^s-083b0005f39ede261bf8a224|19 straipsnio 2 dalies]] [[#^s-6977d90ac4cc995ddb5ad74c|1]], [[#^s-98a574013b51a7e850c9a1e5|2]], [[#^s-5549f1e3fdec730676d284fc|8]] punktuose, 3 dalyje, [[#^s-6295c636976df4ad9e53aada|20 straipsnio 1 dalies]] [[#^s-8469032126c8ac7c58c2b444|1]], [[#^s-bf5fe308f9d5ee44b6ad6a64|2]], [[#^s-6894c9a440ad5adcc8955370|4]], [[#^s-14f2ae94cd4b2e49d0fbf9e1|6]], [[#^s-e022e703646403bbb969fda2|7]] punktuose nustatytus reikalavimus, ne vyresni kaip 65 metų amžiaus, savanoriškais pagrindais jų rašytiniu prašymu Vadovybės apsaugos tarnybos direktoriaus nustatyta tvarka įtraukti į Vadovybės apsaugos tarnybos rezervą. ^s-cabe46ee1aa4cdd35a5e1052
 Straipsnio dalies pakeitimai:
 Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 
@@ -2759,7 +2759,7 @@ Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 1. Vadovybės apsaugos tarnybos rezervo nariai Vadovybės apsaugos tarnybos direktoriaus nustatyta tvarka dalyvauja kvalifikacijos palaikymo ir tobulinimo pratybose ir mokymuose, kurių metu gali būti aprūpinami specialia apranga. Vadovybės apsaugos tarnybos rezervo narių pratybos ir mokymai finansuojami iš tam tikslui Vadovybės apsaugos tarnybai patvirtintų valstybės biudžeto asignavimų. ^s-237d0d1656d1f5980bdb06ab
 
 
-2. Vadovybės apsaugos tarnybos rezervo nario žūties (mirties), sužalojimo, susižalojimo arba sveikatos sutrikdymo Vadovybės apsaugos tarnybos organizuojamų kvalifikacijos palaikymo ir tobulinimo pratybų ar mokymų metu atvejais kompensacijos mokamos šio įstatymo [[#^s-e81882a38615e954c4b57207|55 straipsnio]] 1 ir [[#^s-115c9fbf58405696c9cc566d|3 dalyse]] nustatytomis sąlygomis ir tvarka, išskyrus tai, kad kompensacijų dydis apskaičiuojamas pagal įvykio metu buvusią Vyriausybės nustatytą minimaliąją mėnesinę algą. ^s-94255c91b63a0ef8d358a29b
+2. Vadovybės apsaugos tarnybos rezervo nario žūties (mirties), sužalojimo, susižalojimo arba sveikatos sutrikdymo Vadovybės apsaugos tarnybos organizuojamų kvalifikacijos palaikymo ir tobulinimo pratybų ar mokymų metu atvejais kompensacijos mokamos šio įstatymo [[#^s-e81882a38615e954c4b57207|55 straipsnio]] [[#^s-3e73d066371022049eeb4eff|1]] ir [[#^s-625788887bf3a195803a717f|3]] dalyse nustatytomis sąlygomis ir tvarka, išskyrus tai, kad kompensacijų dydis apskaičiuojamas pagal įvykio metu buvusią Vyriausybės nustatytą minimaliąją mėnesinę algą. ^s-94255c91b63a0ef8d358a29b
 
 
 3. Buvusį Vadovybės apsaugos tarnybos pareigūną įtraukus į Vadovybės apsaugos tarnybos rezervą, jo atleidimo iš Vadovybės apsaugos tarnybos dieną turėtas tarnybinis rangas tampa atsargos tarnybiniu rangu nuo šio asmens įtraukimo į Vadovybės apsaugos tarnybos rezervą dienos. ^s-115c9fbf58405696c9cc566d
@@ -2777,7 +2777,7 @@ Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 2. Vadovybės apsaugos tarnybos rezervo nariai, pasitelkiami Vadovybės apsaugos tarnybos funkcijoms atlikti, Vadovybės apsaugos tarnybos direktoriaus nustatyta tvarka gali būti laikinai skiriami į pareigūno pareigas, sudarant su jais terminuotas pareigūnų tarnybos sutartis, arba su jais gali būti sudaromos terminuotos darbo sutartys. ^s-0af9256c6ae35f6616fd3285
 
 
-3. Vadovybės apsaugos tarnybos rezervo nariai, laikinai skiriami į pareigūno pareigas, turi atitikti šio įstatymo [[#^s-083b0005f39ede261bf8a224|19 straipsnio 2 dalies]] 6 ir 7 punktuose, [[#^s-e022e703646403bbb969fda2|20 straipsnio 1 dalies 7 punkte]], [[#^s-1ea3bedfd35f3e03b1732b17|21 straipsnio 4 dalyje]] nustatytus reikalavimus. Jų sveikatos būklė tikrinama atliekant specializuotą medicininę ekspertizę. Jiems taip pat yra taikomi šio įstatymo [[#^s-9a9d58d202df3b0db013f964|20 straipsnio 1 dalies 5 punkte]] ir [[#^s-43d960058e484f7d802d12b0|31 straipsnyje]] numatyti apribojimai. ^s-37b8d9a5b3a93a5f5cecd2f3
+3. Vadovybės apsaugos tarnybos rezervo nariai, laikinai skiriami į pareigūno pareigas, turi atitikti šio įstatymo [[#^s-083b0005f39ede261bf8a224|19 straipsnio 2 dalies]] [[#^s-aff0acb05b8b317ff1c54b1a|6]] ir [[#^s-5bd26b88b58434fcc31bccf2|7]] punktuose, [[#^s-e022e703646403bbb969fda2|20 straipsnio 1 dalies 7 punkte]], [[#^s-1ea3bedfd35f3e03b1732b17|21 straipsnio 4 dalyje]] nustatytus reikalavimus. Jų sveikatos būklė tikrinama atliekant specializuotą medicininę ekspertizę. Jiems taip pat yra taikomi šio įstatymo [[#^s-9a9d58d202df3b0db013f964|20 straipsnio 1 dalies 5 punkte]] ir [[#^s-43d960058e484f7d802d12b0|31 straipsnyje]] numatyti apribojimai. ^s-37b8d9a5b3a93a5f5cecd2f3
 Straipsnio dalies pakeitimai:
 Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
 
@@ -2913,12 +2913,12 @@ Nr. XII-341, 2013-05-28, Žin., 2013, Nr. 62-3056 (2013-06-12), i. k. [[latest/T
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1164, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13589
-Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 23 ir [[#^s-aa15789ad0777a553e923ffa|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 [[#^s-c4097a7823eb798728beade2|23]] ir [[#^s-aa15789ad0777a553e923ffa|24]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1283, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15005
-Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 10 ir [[#^s-c628a48de7376bf45b3a9e58|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 [[#^s-0933035575d2b8ee74cc5e1a|10]] ir [[#^s-c628a48de7376bf45b3a9e58|12]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2928,17 +2928,17 @@ Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 [[#^s-4c4eabc4209
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2178, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20863
-Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 6 ir [[#^s-c5e02b4d68cb378e2f63f2da|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 [[#^s-91b4b1e7718b92842535c58f|6]] ir [[#^s-c5e02b4d68cb378e2f63f2da|9]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2369, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14171
-Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 2, 12, 22, [[#^s-c4097a7823eb798728beade2|23 straipsnių]] pakeitimo ir 24, 25, [[#^s-2be22bb2e22792cb3ecead08|26 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 [[#^s-090fe9820fd3a6ab3235f56a|2]], [[#^s-c628a48de7376bf45b3a9e58|12]], [[#^s-2a652bcccec0b054c6a550c7|22]], [[#^s-c4097a7823eb798728beade2|23]] straipsnių pakeitimo ir [[#^s-aa15789ad0777a553e923ffa|24]], [[#^s-2c7063b30761d907140fab8d|25]], [[#^s-2be22bb2e22792cb3ecead08|26]] straipsnių pripažinimo netekusiais galios įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-811, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20005
-Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 17 ir [[#^s-414cbdfd4436142da55eac70|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 [[#^s-6112c960b1e5e060b9386179|17]] ir [[#^s-414cbdfd4436142da55eac70|27]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2958,7 +2958,7 @@ Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 pakeitimo įstaty
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3404, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24563
-Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 19, 23, 36, 54, 61, 62 ir [[#^s-7846a4d6b2d94b628e3aa58a|66 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 [[#^s-1cccbef26337021b99ac247a|19]], [[#^s-c4097a7823eb798728beade2|23]], [[#^s-06ff97cd2426f9af2549c596|36]], [[#^s-a6d19d5711bd2fa3c1a2e8d2|54]], [[#^s-17e51f98dd47436c58e41465|61]], [[#^s-7ca998729b434097b9090fa0|62]] ir [[#^s-7846a4d6b2d94b628e3aa58a|66]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2973,22 +2973,22 @@ Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 [[#^s-13de1ab100e
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1181, 2022-06-28, paskelbta TAR 2022-07-07, i. k. 2022-14911
-Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 7 ir [[#^s-c5e02b4d68cb378e2f63f2da|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 [[#^s-ea585c21fa37c8447925a25d|7]] ir [[#^s-c5e02b4d68cb378e2f63f2da|9]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1921, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08472
-Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 2, 19 ir [[#^s-cca0aef3df589e54529d5419|60 straipsnių]] pakeitimo ir Įstatymo papildymo VIII skyriumi įstatymas
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 [[#^s-090fe9820fd3a6ab3235f56a|2]], [[#^s-1cccbef26337021b99ac247a|19]] ir [[#^s-cca0aef3df589e54529d5419|60]] straipsnių pakeitimo ir Įstatymo papildymo VIII skyriumi įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2412, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25930
-Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 2, 17, 18, 20, 23, 31, 36, 37, 38, 39, 43, 44, 45, 47, 48, 49, 50, 55, 59, 61, 65, [[#^s-85dc213a3a40a13d5e2256f9|70 straipsnių]], priedo pakeitimo, Įstatymo papildymo 52-1 straipsniu ir [[#^s-b8dbe03796b59bc5c765ce3d|46 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 [[#^s-090fe9820fd3a6ab3235f56a|2]], [[#^s-6112c960b1e5e060b9386179|17]], [[#^s-23d144d570ac11ef18d326f7|18]], [[#^s-7dc8a3c64ce4d3ac2d827f53|20]], [[#^s-c4097a7823eb798728beade2|23]], [[#^s-43d960058e484f7d802d12b0|31]], [[#^s-06ff97cd2426f9af2549c596|36]], [[#^s-762f1eb76e83fc68d94a2ccc|37]], [[#^s-58990c5dc5eab28cb9200100|38]], [[#^s-762b357d5c247ea411d5d769|39]], [[#^s-0ad3e1cc7c03f8bf9ffd592c|43]], [[#^s-a32cf468b1e3315579e304ae|44]], [[#^s-90cb251712f4aa5e70bfcd20|45]], [[#^s-5a11d81ad9fb433d414b0313|47]], [[#^s-8658a93798673ba83d901fef|48]], [[#^s-48b8f86bbf23fae8d2c2a046|49]], [[#^s-a87287c38983a92549029a0c|50]], [[#^s-e81882a38615e954c4b57207|55]], [[#^s-ae9c859406ec9599eacaa24c|59]], [[#^s-17e51f98dd47436c58e41465|61]], [[#^s-ffdbe8b20dc779180f87b5f4|65]], [[#^s-85dc213a3a40a13d5e2256f9|70]] straipsnių, priedo pakeitimo, Įstatymo papildymo 52-1 straipsniu ir [[#^s-b8dbe03796b59bc5c765ce3d|46 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3142, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20380
-Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 2, 70 ir [[#^s-81b3754495ab2076ebd202ac|71 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 [[#^s-090fe9820fd3a6ab3235f56a|2]], [[#^s-85dc213a3a40a13d5e2256f9|70]] ir [[#^s-81b3754495ab2076ebd202ac|71]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2998,4 +2998,4 @@ Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 pakeitimo [[lates
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-718, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23010
-Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 1, 2, 4, 5, 9, 10, 11, 13, 14, 15, 16, 18, 19, 20, 23, 27, 36, 37, 38, 40, 45, 50, 55, 57, 58, 59, 60, 61, 65, 66, 72, 73, [[#^s-b73f62e34a1fcaab825bfec5|74 straipsnių]] ir priedo pakeitimo, Įstatymo papildymo 63-1 straipsniu bei [[#^s-57d56335e49d7d17f8ffcad0|35 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 [[#^s-13c49ab30da7098b768f12f1|1]], [[#^s-090fe9820fd3a6ab3235f56a|2]], [[#^s-f608c2ce567c32c21d2f1ce3|4]], [[#^s-51c29e77d168e4ecf4568ac0|5]], [[#^s-c5e02b4d68cb378e2f63f2da|9]], [[#^s-0933035575d2b8ee74cc5e1a|10]], [[#^s-3412e48075806f4627f18979|11]], [[#^s-2b4c54620cefab416f2b7100|13]], [[#^s-1ca0df16499133053c381525|14]], [[#^s-1170fcf67a3acf30c4d9cd15|15]], [[#^s-4c4eabc4209b6db14dc5b90d|16]], [[#^s-23d144d570ac11ef18d326f7|18]], [[#^s-1cccbef26337021b99ac247a|19]], [[#^s-7dc8a3c64ce4d3ac2d827f53|20]], [[#^s-c4097a7823eb798728beade2|23]], [[#^s-414cbdfd4436142da55eac70|27]], [[#^s-06ff97cd2426f9af2549c596|36]], [[#^s-762f1eb76e83fc68d94a2ccc|37]], [[#^s-58990c5dc5eab28cb9200100|38]], [[#^s-606be6b20b36e518112fd7db|40]], [[#^s-90cb251712f4aa5e70bfcd20|45]], [[#^s-a87287c38983a92549029a0c|50]], [[#^s-e81882a38615e954c4b57207|55]], [[#^s-364e62f89a777d7d9415aa2b|57]], [[#^s-13de1ab100e6ed3a392688ab|58]], [[#^s-ae9c859406ec9599eacaa24c|59]], [[#^s-cca0aef3df589e54529d5419|60]], [[#^s-17e51f98dd47436c58e41465|61]], [[#^s-ffdbe8b20dc779180f87b5f4|65]], [[#^s-7846a4d6b2d94b628e3aa58a|66]], [[#^s-dccb2e16231a1e91f9d3e125|72]], [[#^s-d7be77eac4091f8386371441|73]], [[#^s-b73f62e34a1fcaab825bfec5|74]] straipsnių ir priedo pakeitimo, Įstatymo papildymo 63-1 straipsniu bei [[#^s-57d56335e49d7d17f8ffcad0|35 straipsnio]] pripažinimo netekusiu galios įstatymas

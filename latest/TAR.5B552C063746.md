@@ -52,7 +52,7 @@ Papildyti 2 straipsnį 7 punktu:
 5 straipsnio 1 dalyje vietoj žodžio „dvejiems“ įrašyti žodį „trejiems“ ir šią dalį išdėstyti taip:
 
 
-„Tarybų narius trejiems metams renka savivaldybės gyventojai – Lietuvos Respublikos piliečiai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo nustatyta tvarka.“
+„Tarybų narius trejiems metams renka savivaldybės gyventojai – Lietuvos Respublikos piliečiai, remdamiesi visuotine, lygia ir tiesiogine rinkimų teise, slaptu balsavimu [Lietuvos Respublikos savivaldybių tarybų rinkimų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC) nustatyta tvarka.“
 
 
 
@@ -139,7 +139,7 @@ Papildyti [[#^s-704019cd48ef1791ccdbb826|8 straipsnį 6 dalimi]]:
 ### 8 straipsnis. 15 straipsnio 1 dalies papildymas ir pakeitimas ^s-410bd2f28bb0b0e64c8b2bff
 
 
-1. Papildyti [[#^s-6396a15e13eeeb726d19c20a|1 dalį]] nauju 3 punktu: ^s-6396a15e13eeeb726d19c20a
+1. Papildyti 1 dalį nauju 3 punktu: ^s-6396a15e13eeeb726d19c20a
 
 
 „3) mero pasiūlymu sprendžia sekretoriaus ir patarėjų pareigybių įsteigimo klausimą. Pritarus pasiūlymui, nustato sekretoriaus atlyginimą, patarėjų skaičių bei jų darbo užmokesčio fondą;“.
@@ -198,7 +198,7 @@ Papildyti [[#^s-704019cd48ef1791ccdbb826|8 straipsnį 6 dalimi]]:
 ### 10 straipsnis. 18 straipsnio 1 dalies papildymas ^s-10f1bac4147de2cd0f68392f
 
 
-1. Papildyti 18 straipsnio 1 dalį naujais 9 ir [[#^s-5f84e091be9c5d6117edf956|10 punktais]]: ^s-508ad4028469ab6b824f44d1
+1. Papildyti 18 straipsnio 1 dalį naujais 9 ir 10 punktais: ^s-508ad4028469ab6b824f44d1
 
 
 „9) pagal tarybos patvirtintus nuostatus sudaro specializuotus (tikslinius, nebiudžetinius) fondus, kontroliuoja, kaip jie naudojami;

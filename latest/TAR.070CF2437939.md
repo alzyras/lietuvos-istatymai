@@ -155,7 +155,7 @@ priedas
 
 
 
-1985 m. liepos 25 d. Tarybos Reglamentas (EEB) Nr. 2137/85 dėl Europos ekonominių interesų grupių (EEIG).
+1985 m. liepos 25 d. Tarybos [Reglamentas (EEB) Nr. 2137/85](https://eur-lex.europa.eu/eli/reg/2137/85/oj) dėl Europos ekonominių interesų grupių (EEIG).
 
 
 ______________

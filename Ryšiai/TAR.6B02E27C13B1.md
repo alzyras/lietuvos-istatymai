@@ -10,10 +10,9 @@ pavadinimas: "Lietuvos Respublikos žuvininkystės įstatymo 2, 3, 4, 10, 12, 14
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.CB941ADCC055|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas]] - Aplinkos apsaugos valstybinės kontrolės įstatymu
-- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - Viešojo administravimo įstatymu
-- [[latest/TAR.D22016A0EC70|Lietuvos Respublikos žuvininkystės įstatymas]] - Lietuvos Respublikos žuvininkystės įstatymo
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - Viešojo administravimo įstatymu
+- [[latest/TAR.D22016A0EC70|Lietuvos Respublikos žuvininkystės įstatymas]] - žuvininkystės įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D22016A0EC70#^s-bfe92e4d0faac5d635e2ff48|Lietuvos Respublikos žuvininkystės įstatymas]] - 3 citatos - 1101010ISTA0XI-1141
-- [[latest/TAR.D22016A0EC70#^s-e23cc5321568cc9587fdd33d|Lietuvos Respublikos žuvininkystės įstatymas]] - 3 citatos - 1101010ISTA0XI-1141
+- [[latest/TAR.D22016A0EC70#^s-e23cc5321568cc9587fdd33d|Lietuvos Respublikos žuvininkystės įstatymas]] - 2 citatos - 1101010ISTA0XI-1141

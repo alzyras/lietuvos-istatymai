@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 49 straipsnio pakeitimas ^s-ea882229c6672a312a5603a3
 
 
-Pakeisti 49 straipsnio 8 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.FC7AB69BE291#^s-96deebc0f91b14366f757257|49 straipsnio 8 dalį]] ir ją išdėstyti taip:
 
 
 „8. Vėjo elektrinių statybos vietos teritorijose, kuriose, atsižvelgiant į nacionalinio saugumo klausimus, taikomi apribojimai, iš anksto, teritorijų planavimo metu, derinamos su Lietuvos kariuomene ir kitomis institucijomis įstatymų ir kitų teisės aktų nustatyta tvarka. Vėjo elektrinių statybos vietoms nepritariama, jeigu planuojamų statyti vėjo elektrinių keliamų trukdžių negalima išvengti panaudojant papildomas priemones. Jeigu nustatoma, kad planuojamų statyti vėjo elektrinių keliamų trukdžių galima išvengti panaudojant papildomas priemones, vėjo elektrinių statybos vietos derinamos su sąlyga, kad gamintojas ne vėliau kaip iki statybą leidžiančio dokumento išdavimo derinimo išvadoje nurodytai institucijai pateiks patvirtintą statybos projektą ir su šia institucija pasirašys sutartį dėl kompensacijos, skirtos daliai investicijų ir kitoms išlaidoms, kurios reikalingos nacionalinio saugumo funkcijų vykdymui užtikrinti, atlyginti, sumokėjimo, ir pateiks šios prievolės įvykdymo užtikrinimą. Kompensacijos dydis apskaičiuojamas dauginant leidime plėtoti elektros energijos gamybos pajėgumus iš atsinaujinančių energijos išteklių numatomų įrengti elektrinės pajėgumų dydį (kW) iš 65 litų už 1 kW. Kompensacijų mokėjimo tvarką nustato Vyriausybė. Kompensacijos naudojamos teisės aktų nustatyta tvarka kaip kitos biudžetinių įstaigų lėšos, kurios nėra gautos kaip valstybės biudžeto asignavimai.“
@@ -49,7 +49,7 @@ Pakeisti 49 straipsnio 8 dalį ir ją išdėstyti taip:
 ### 2 straipsnis. 51 straipsnio pakeitimas ^s-e0fe9743eaa1d925eb3fa1bd
 
 
-Pakeisti 51 straipsnio 5 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.FC7AB69BE291#^s-fb396add39a998be199cbf96|51 straipsnio 5 dalį]] ir ją išdėstyti taip:
 
 
 „5. Lietuvos kariuomenė Vyriausybės nustatyta tvarka teikia informaciją apie teritorijas, kuriose, atsižvelgiant į nacionalinio saugumo reikalavimus, taikomi apribojimai vėjo elektrinėms projektuoti ir statyti.“

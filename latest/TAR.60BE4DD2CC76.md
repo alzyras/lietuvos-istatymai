@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 29 straipsnio 1 dalies pakeitimas ^s-6d4fd2462a0ba5e05c345eac
 
 
-29 straipsnio 1 dalies 12 punktą pripažinti netekusiu galios, šio straipsnio 1 dalies 13, 14 punktus laikyti atitinkamai 12, [[#^s-3159df5005a2b92bacc3b132|13 punktais]] ir šią dalį išdėstyti taip:
+29 straipsnio 1 dalies 12 punktą pripažinti netekusiu galios, šio straipsnio 1 dalies 13, 14 punktus laikyti atitinkamai 12, 13 punktais ir šią dalį išdėstyti taip:
 
 
 „1. Lietuvos Respublikoje yra šios ministerijos:

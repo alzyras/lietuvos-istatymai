@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos asmens sveikatos priežiūros praktikos įsta
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/d3062ec0d8da11eb9f09e7df20500045#^s-d09dd00353056ec7cbefda2e|Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 2 ir 3 straipsnių pakeitimo įstatymas]] - 3 straipsnio 3 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/d3062ec0d8da11eb9f09e7df20500045#^s-3119057524cab32cf4b35d25|Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 2 ir 3 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XIV-2044
-- [[latest/d3062ec0d8da11eb9f09e7df20500045#^s-6c2af5debb797f838921dcc2|Lietuvos Respublikos asmens sveikatos priežiūros praktikos įstatymo Nr. XIII-3222 2 ir 3 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XIV-2044
+_Nėra._

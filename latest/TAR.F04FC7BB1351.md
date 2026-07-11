@@ -43,7 +43,7 @@ Vilnius
 Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
-„4. Moteriai, atleistai iš darbo nėštumo metu arba nėštumo ir gimdymo atostogų metu dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir turinčiai šio straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą, motinystės pašalpa mokama šio įstatymo 17 straipsnyje nustatyta tvarka.“
+„4. Moteriai, atleistai iš darbo nėštumo metu arba nėštumo ir gimdymo atostogų metu dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir turinčiai šio straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą, motinystės pašalpa mokama šio įstatymo 17 straipsnyje nustatyta tvarka.“
 
 
 
@@ -53,13 +53,13 @@ Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip:
 1. Pakeisti 19 straipsnio 6 dalį ir ją išdėstyti taip: ^s-63a9a1867357da57a99531fe
 
 
-„6. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka išleistam vaiko priežiūros atostogų ir gaunančiam motinystės (tėvystės) pašalpą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka.“
+„6. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka išleistam vaiko priežiūros atostogų ir gaunančiam motinystės (tėvystės) pašalpą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, motinystės (tėvystės) pašalpa mokama šio įstatymo [20](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [21](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) straipsniuose nustatyta tvarka.“
 
 
 2. Pakeisti 19 straipsnio 7 dalį ir ją išdėstyti taip: ^s-57c8630b1680c246967c02a1
 
 
-„7. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam [[#^s-63a9a1867357da57a99531fe|šio straipsnio 1 dalyje]] nurodytą ligos ir motinystės socialinio draudimo stažą arba atitinkančiam šio straipsnio 2 ar 3 dalių reikalavimus, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir dėl to negavusiam vaiko priežiūros atostogų, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka.“
+„7. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam [[#^s-63a9a1867357da57a99531fe|šio straipsnio 1 dalyje]] nurodytą ligos ir motinystės socialinio draudimo stažą arba atitinkančiam šio straipsnio 2 ar 3 dalių reikalavimus, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir dėl to negavusiam vaiko priežiūros atostogų, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka.“
 
 
 

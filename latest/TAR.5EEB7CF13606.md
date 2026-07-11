@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-667a91232690e1e7f50cd500
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2003 m. gegužės 27 d. dekretą Nr. 92, ratifikuoja Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimą dėl asmenų, neteisėtai esančių Lietuvos Respublikos teritorijoje ir Rusijos Federacijos teritorijoje, priėmimo ir grąžinimo (Readmisijos susitarimą), pasirašytą 2003 m. gegužės 12 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2003 m. gegužės 27 d. dekretą Nr. 92](https://e-tar.lt/portal/lt/legalAct/TAR.9FC96C9B6545), ratifikuoja Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimą dėl asmenų, neteisėtai esančių Lietuvos Respublikos teritorijoje ir Rusijos Federacijos teritorijoje, priėmimo ir grąžinimo (Readmisijos susitarimą), pasirašytą 2003 m. gegužės 12 d. Vilniuje.
 
 
 

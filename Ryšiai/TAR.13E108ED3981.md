@@ -9,187 +9,118 @@ pavadinimas: "Lietuvos Respublikos žemės gelmių įstatymas"
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.3BB20C9F088C|Lietuvos Respublikos anglies dioksido geologinio saugojimo įstatymas]] - 2 citatos - Lietuvos Respublikos anglies dioksido geologinio saugojimo įstatyme
-- [[latest/TAR.CB941ADCC055|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas]] - 8 citatos - Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme
-- [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos aplinkos apsaugos įstatyme
-- [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - 4 citatos - Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme
-- [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - 2 citatos - Lietuvos Respublikos atliekų tvarkymo įstatyme
-- [[latest/TAR.424F7C72601E|Lietuvos Respublikos branduolinės saugos įstatymas]] - 4 citatos - Lietuvos Respublikos branduolinės saugos įstatyme
-- [[latest/TAR.0AE0464E0EDE|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas]] - 2 citatos - Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme
-- [[latest/TAR.56935A08DD06|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos jūros aplinkos apsaugos įstatyme
-- [[latest/TAR.A3C0EA6B2203|Lietuvos Respublikos metrologijos įstatymas]] - 2 citatos - Lietuvos Respublikos metrologijos įstatyme
-- [[latest/TAR.5D6D055CC00C|Lietuvos Respublikos miškų įstatymas]] - 2 citatos - Lietuvos Respublikos miškų įstatyme
-- [[latest/TAR.5D6D055CC00C#^s-d6ea45dee8ec4e098fc2c583|Lietuvos Respublikos miškų įstatymas]] - 2 citatos - Miškų įstatymo 5 straipsnio 5 dalyje
-- [[latest/TAR.0539E2FEB29E|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas]] - 15 citatos - Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatyme
-- [[latest/TAR.44FA08A7226F|Lietuvos Respublikos profesinio mokymo įstatymas]] - 2 citatos - Profesinio mokymo įstatymo
-- [[latest/TAR.951DF53F837F|Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas]] - 4 citatos - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
-- [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 2 citatos - Lietuvos Respublikos saugomų teritorijų įstatyme
-- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Lietuvos Respublikos statybos įstatyme
-- [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymas]] - 6 citatos - Teritorijų planavimo įstatymo
-- [[latest/TAR.B3CC2C0B9BD2|Lietuvos Respublikos vandens įstatymas]] - 2 citatos - Lietuvos Respublikos vandens įstatyme
-- [[latest/TAR.89AB28249073|Lietuvos Respublikos žemės gelmių įstatymo 1, 2, 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 18, 19, 21, 22, 27 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 6-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XII-352
-- [[latest/TAR.746E5B0683A6|Lietuvos Respublikos žemės gelmių įstatymo 1, 2, 6, 8, 12, 13, 14, 15, 18, 23, 25, 26 ir 27 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas]] - 4 citatos - Įstatymas Nr. IX-2516
-- [[latest/TAR.9D9E7CCB56BC|Lietuvos Respublikos žemės gelmių įstatymo 3, 14, 16, 18 ir 20 straipsnių pakeitimo įstatymas]] - 4 citatos - Įstatymas Nr. XII-410
-- [[latest/TAR.31D117E2CCCF|Lietuvos Respublikos žemės gelmių įstatymo 4, 5, 14, 15, 18, 21 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS ŽEMĖS GELMIŲ ĮSTATYMO 4, 5, 14, 15, 18, 21 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.E85DC599AFC7|Lietuvos Respublikos žemės gelmių įstatymo 4, 6, 8, 14, 15 straipsnių pakeitimo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS ŽEMĖS GELMIŲ ĮSTATYMO 4, 6, 8, 14, 15 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.6968A8A8F932|Lietuvos Respublikos žemės gelmių įstatymo 5 ir 14 straipsnių pakeitimo įstatymas]] - 4 citatos - Įstatymas Nr. XI-972
-- [[latest/708ff400fcfb11e39cfacd978b6fd9bb|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 12 ir 13 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-960
-- [[latest/55be8a501b3711e586708c6593c243ce|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 13, 15 ir 21 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1811
-- [[latest/92a3b6800ba911e6a238c18f7a3f1736|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 14 ir 26 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2308
-- [[latest/6582f700167311e58569be21ff080a8c|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 14 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1782
-- [[latest/e25ff5c0ccfb11ec8d9390588bf2de65|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 2 ir 11 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1049
-- [[latest/a5a2e910167511e58569be21ff080a8c|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 22 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1786
-- [[latest/6a69a6d0f96711ed9978886e85107ab2|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 23 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1955
-- [[latest/c9654a52487811f180c9c618618421ed|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 4 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-863
-- [[latest/9196d70010b911ee9f7ec2ffce8b47bc|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 5 ir 11 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2040
-- [[latest/81f64500fbba11e99681cd81dcdca52c|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2481
-- [[latest/TAR.FC99661E0C1C|Lietuvos Respublikos žemės gelmių įstatymo pakeitimo įstatymas]] - 4 citatos - Įstatymas Nr. IX-243
-- [[latest/TAR.057DCC40ECC6|Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas]] - 4 citatos - Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme
-- [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - 6 citatos - Lietuvos Respublikos žemės įstatyme
-- [[latest/TAR.80CA64E588A1|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas]] - 2 citatos - Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme
+- [[latest/TAR.3BB20C9F088C|Lietuvos Respublikos anglies dioksido geologinio saugojimo įstatymas]] - Lietuvos Respublikos anglies dioksido geologinio saugojimo įstatyme
+- [[latest/TAR.CB941ADCC055|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymas]] - 5 citatos - Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatyme
+- [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - Lietuvos Respublikos aplinkos apsaugos įstatyme
+- [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme
+- [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - Lietuvos Respublikos atliekų tvarkymo įstatyme
+- [[latest/TAR.424F7C72601E|Lietuvos Respublikos branduolinės saugos įstatymas]] - 2 citatos - Lietuvos Respublikos branduolinės saugos įstatyme
+- [[latest/TAR.0AE0464E0EDE|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas]] - Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatyme
+- [[latest/TAR.56935A08DD06|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - Lietuvos Respublikos jūros aplinkos apsaugos įstatyme
+- [[latest/TAR.A3C0EA6B2203|Lietuvos Respublikos metrologijos įstatymas]] - Lietuvos Respublikos metrologijos įstatyme
+- [[latest/TAR.5D6D055CC00C|Lietuvos Respublikos miškų įstatymas]] - Lietuvos Respublikos miškų įstatyme
+- [[latest/TAR.5D6D055CC00C#^s-d6ea45dee8ec4e098fc2c583|Lietuvos Respublikos miškų įstatymas]] - Miškų įstatymo 5 straipsnio 5 dalyje
+- [[latest/TAR.0539E2FEB29E|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas]] - 9 citatos - Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymu
+- [[latest/TAR.44FA08A7226F|Lietuvos Respublikos profesinio mokymo įstatymas]] - 2 citatos - Lietuvos Respublikos profesinio mokymo įstatymo nustatyta tvarka, ir turėti tai patvirtinantį pažymėjimą arba atitikti šio įstatymo 8 straipsnio 1 dalies 1 punkte
+- [[latest/TAR.951DF53F837F|Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas]] - 2 citatos - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatyme
+- [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Lietuvos Respublikos saugomų teritorijų įstatyme
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - Lietuvos Respublikos statybos įstatyme
+- [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymas]] - 3 citatos - Lietuvos Respublikos teritorijų planavimo įstatyme
+- [[latest/TAR.B3CC2C0B9BD2|Lietuvos Respublikos vandens įstatymas]] - Lietuvos Respublikos vandens įstatyme
+- [[latest/TAR.746E5B0683A6|Lietuvos Respublikos žemės gelmių įstatymo 1, 2, 6, 8, 12, 13, 14, 15, 18, 23, 25, 26 ir 27 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas]] - ŽEMĖS GELMIŲ ĮSTATYMO 1, 2, 6, 8, 12, 13, 14, 15, 18, 23, 25, 26 IR 27 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS
+- [[latest/TAR.9D9E7CCB56BC|Lietuvos Respublikos žemės gelmių įstatymo 3, 14, 16, 18 ir 20 straipsnių pakeitimo įstatymas]] - ŽEMĖS GELMIŲ ĮSTATYMO 3, 14, 16, 18 IR 20 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.31D117E2CCCF|Lietuvos Respublikos žemės gelmių įstatymo 4, 5, 14, 15, 18, 21 straipsnių pakeitimo ir papildymo įstatymas]] - LIETUVOS RESPUBLIKOS ŽEMĖS GELMIŲ ĮSTATYMO 4, 5, 14, 15, 18, 21 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.E85DC599AFC7|Lietuvos Respublikos žemės gelmių įstatymo 4, 6, 8, 14, 15 straipsnių pakeitimo įstatymas]] - LIETUVOS RESPUBLIKOS ŽEMĖS GELMIŲ ĮSTATYMO 4, 6, 8, 14, 15 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.6968A8A8F932|Lietuvos Respublikos žemės gelmių įstatymo 5 ir 14 straipsnių pakeitimo įstatymas]] - ŽEMĖS GELMIŲ ĮSTATYMO 5 IR 14 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.FC99661E0C1C|Lietuvos Respublikos žemės gelmių įstatymo pakeitimo įstatymas]] - ŽEMĖS GELMIŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.057DCC40ECC6|Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas]] - 2 citatos - Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme
+- [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - 3 citatos - Lietuvos Respublikos žemės įstatyme
+- [[latest/TAR.80CA64E588A1|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas]] - Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme
 
 ## Šį įstatymą cituoja
 
 - [[latest/072b7410c27211ea9815f635b9c0dcef#^s-59741f844f914cfe2a61545d|Lietuvos Respublikos administracinių nusižengimų kodekso 111 straipsnio pripažinimo netekusiu galios ir 241, 258, 262, 263, 264, 265, 267, 268, 269, 589 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/072b7410c27211ea9815f635b9c0dcef#^s-74e4023047522e6035aebc74|Lietuvos Respublikos administracinių nusižengimų kodekso 111 straipsnio pripažinimo netekusiu galios ir 241, 258, 262, 263, 264, 265, 267, 268, 269, 589 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymo
-- [[latest/072b7410c27211ea9815f635b9c0dcef#^s-cf1c81fab897ac93a0c07558|Lietuvos Respublikos administracinių nusižengimų kodekso 111 straipsnio pripažinimo netekusiu galios ir 241, 258, 262, 263, 264, 265, 267, 268, 269, 589 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/072b7410c27211ea9815f635b9c0dcef#^s-d93bf6d2cab5e3e2f2f0f3ee|Lietuvos Respublikos administracinių nusižengimų kodekso 111 straipsnio pripažinimo netekusiu galios ir 241, 258, 262, 263, 264, 265, 267, 268, 269, 589 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-23bc06c7cdb74be7ace9002c|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos žemės gelmių įstatymo
-- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-6b624662a65044d8672fd6e4|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-8782b6d3de9e087451364aca|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-fa0a9188553a4e55bdeba292|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/TAR.2716576D8D0C#^s-308e9c7a4878e61fe61bc2d2|Lietuvos Respublikos angliavandenilių išteklių mokesčio įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/TAR.3BB20C9F088C#^s-7f4cfeec8b6ff1d69559d3af|Lietuvos Respublikos anglies dioksido geologinio saugojimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/TAR.3BB20C9F088C#^s-fd7469db0aad066d6be1d6ed|Lietuvos Respublikos anglies dioksido geologinio saugojimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/TAR.0AE0464E0EDE#^s-25447f9e171a735a0c864d33|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas]] - Žemės gelmių įstatyme
-- [[latest/TAR.0AE0464E0EDE#^s-2c0bcccb14675f7a5cc361f5|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/TAR.0AE0464E0EDE#^s-a6b22065f5962f89dafcce83|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas]] - Žemės gelmių įstatyme
 - [[latest/TAR.0AE0464E0EDE#^s-b7a04fa105fb63a0870122b2|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/2eaee1d064b311edbc04912defe897d1#^s-63b56b4ce23843f4e48308ac|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 pakeitimo įstatymas]] - Žemės gelmių įstatyme
-- [[latest/2eaee1d064b311edbc04912defe897d1#^s-77a9590f8558da21129ecd7c|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 pakeitimo įstatymas]] - Žemės gelmių įstatyme
-- [[latest/2eaee1d064b311edbc04912defe897d1#^s-7d164f1626166dc78cd629ca|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/2eaee1d064b311edbc04912defe897d1#^s-ff2103e2e63017053379d368|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/TAR.C8DE3A2D944E#^s-84506e6c8b9fd3407eceb4fc|Lietuvos Respublikos geriamojo vandens įstatymo 1, 2, 7, 8, 10, 11, 12 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas]] - Žemės gelmių įstatymas
 - [[latest/TAR.C8DE3A2D944E#^s-c3f6841e219909b888865b11|Lietuvos Respublikos geriamojo vandens įstatymo 1, 2, 7, 8, 10, 11, 12 straipsnių pakeitimo ir papildymo ir Įstatymo papildymo priedu įstatymas]] - Žemės gelmių įstatymas
 - [[latest/44ae53f057e811f0a3d380837a821750#^s-77d09d813cecd7862da6354d|Lietuvos Respublikos gėlo požeminio vandens gavybos gręžinių įteisinimo laikinasis įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymu
 - [[latest/68f2cad098b711e9ae2e9d61b1f977b3#^s-2dac633f03f07902224f0181|Lietuvos Respublikos juridinių asmenų nemokumo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/68f2cad098b711e9ae2e9d61b1f977b3#^s-bf59063825aecdf18172f71b|Lietuvos Respublikos juridinių asmenų nemokumo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/TAR.56935A08DD06#^s-99e5d282ffafe758a5ce745c|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/TAR.56935A08DD06#^s-e2fe1c461a8db19b64514877|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/ac437b90c1b011ea9815f635b9c0dcef#^s-6fd0628a0452830cbf971118|Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3, 4 ir 6 straipsnių ir antrojo skirsnio pavadinimo pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/ac437b90c1b011ea9815f635b9c0dcef#^s-a8f0c9b5141bf8a6ffc64b67|Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3, 4 ir 6 straipsnių ir antrojo skirsnio pavadinimo pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/TAR.16B52F17DB85#^s-5960feed73ffc512db023eb0|Lietuvos Respublikos jūros aplinkos apsaugos įstatymo pakeitimo įstatymas]] - Žemės gelmių įstatyme
-- [[latest/TAR.16B52F17DB85#^s-e1ba9cb027abc140b3b1c551|Lietuvos Respublikos jūros aplinkos apsaugos įstatymo pakeitimo įstatymas]] - Žemės gelmių įstatyme
-- [[latest/TAR.6A449FCC534B#^s-0ad05d4c6613409b1dab16a1|Lietuvos Respublikos koncesijų įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/TAR.6A449FCC534B#^s-2cb4cd5a7bc42d6bbd114907|Lietuvos Respublikos koncesijų įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/TAR.6A449FCC534B#^s-5879b0692427ac8b2b0b1755|Lietuvos Respublikos koncesijų įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/TAR.6A449FCC534B#^s-9c801eaf0371b65c38f1f297|Lietuvos Respublikos koncesijų įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/32aa4692920011efa605b9842742bf37#^s-57936d0a1f53c7ac14cbd407|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 5, 14, 16, 26, 31, 60, 65, 66 straipsnių ir 5 priedo pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/32aa4692920011efa605b9842742bf37#^s-789c8ebfb369fd32084cbc06|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 5, 14, 16, 26, 31, 60, 65, 66 straipsnių ir 5 priedo pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-11e422c30123111e4d2085de|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/425fccc05b2d11e79198ffdb108a3753#^s-53f48cd525eed37ca63d9927|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/425fccc05b2d11e79198ffdb108a3753#^s-9c2c511ed1f766a841785450|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/425fccc05b2d11e79198ffdb108a3753#^s-a747699aaed2121496964839|Lietuvos Respublikos koncesijų įstatymo Nr. I-1510 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/TAR.5947BABF19A2#^s-478a37bd423af835f6237cb7|Lietuvos Respublikos koncesijų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/TAR.5947BABF19A2#^s-58b1d2e6b328d8eda78cd9d8|Lietuvos Respublikos koncesijų įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/TAR.DA39904EA86E#^s-1f36fbcb6b8adb2e75ef4b1a|Lietuvos Respublikos koncesijų įstatymo, Vietos savivaldos įstatymo pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/TAR.DA39904EA86E#^s-de83611c7106d0770789dbc8|Lietuvos Respublikos koncesijų įstatymo, Vietos savivaldos įstatymo pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/855cbb50e42511e89acab3ff12d77081#^s-4c86efe852ffa16ab539dcb1|Lietuvos Respublikos metropoliteno įgyvendinimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/855cbb50e42511e89acab3ff12d77081#^s-84c63fb6f1422ab12569b522|Lietuvos Respublikos metropoliteno įgyvendinimo įstatymas]] - Žemės gelmių įstatymo
 - [[latest/855cbb50e42511e89acab3ff12d77081#^s-9e8091148c6b1a7dd940bb93|Lietuvos Respublikos metropoliteno įgyvendinimo įstatymas]] - Žemės gelmių įstatymo
-- [[latest/855cbb50e42511e89acab3ff12d77081#^s-bc38723dbfae8af2b2961554|Lietuvos Respublikos metropoliteno įgyvendinimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/40b7db50846211e49ac8efb365dd60af#^s-2f3ff83b2aa1c5ba2d19f57a|Lietuvos Respublikos naftos ir dujų išteklių mokesčio įstatymo Nr. I-2944 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/9116a35030a011e78397ae072f58c508#^s-5cea8e8dbaec656b0db586d1|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/9116a35030a011e78397ae072f58c508#^s-6e1b5b2b097f24c61a85437a|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/TAR.0539E2FEB29E#^s-522dd45c392cfb91ff8f010b|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/TAR.0539E2FEB29E#^s-f401327876182b20e14534d0|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/fedec2204c3311f0b070ee7f1ceefc75#^s-d410fe4fa3334cc0186d98b3|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 3, 7, 8, 11 straipsnių ir 1, 2 priedų pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/3250d492d1d611f08918e1adc7c5b1ec#^s-fb39c651318ae9ab8e1a1370|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 6, 7, 8, 9, 11, 12, 16 straipsnių ir 1, 2 priedų pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/61773d4076c611edbc04912defe897d1#^s-b35d649ae37afcbcdc6f511f|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/61773d4076c611edbc04912defe897d1#^s-c6e85b8414ef369a532b9f90|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/TAR.FF1083B528B7#^s-2e8235188c7fac24ec39e1a9|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/TAR.FF1083B528B7#^s-9acf754affaff246bafa60aa|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/787506209cf311e69ad4c8713b612d0f#^s-60c97ba70b15dcae32909adb|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/787506209cf311e69ad4c8713b612d0f#^s-edb60c59539a9185b9f774b1|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/2634aca02a8611e78397ae072f58c508#^s-cdc3c941b1c81cf6b80088b6|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymo Nr. XII-2683 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/20973eb00a2611ebb74de75171d26d52#^s-9337a51da9c84b67af806002|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2 ir 5 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/80f0df80935a11e9ae2e9d61b1f977b3#^s-47e0f009ba980b93122de8a4|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 5, 7, 9, 11, 12, 13, 18, 19, 20, 20-1, 25, 27 ir 28 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/80f0df80935a11e9ae2e9d61b1f977b3#^s-56fefea004f20ef939f5f6c2|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 5, 7, 9, 11, 12, 13, 18, 19, 20, 20-1, 25, 27 ir 28 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-743bd48f9490bf118e673e21|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-baefbe603a5f709e88bef371|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-28e00a1e4745ceef3bb7322a|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės gelmių įstatymo
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-3290bc11a393aa0fd24a4092|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-5e3312708d7035474d0d29c1|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-634f30cb0098dde5ace3a66a|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės gelmių įstatymo
 - [[latest/ba03da02a73311ef90b5ee8931e5ce5e#^s-8350ac9c8153adba94959ac4|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2 ir 19 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/af0add73325111f08fdabd4950271e2c#^s-0929d56b615a1096e6d8c100|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/af0add73325111f08fdabd4950271e2c#^s-d673e51301e19189a76c8fa7|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/3a1d7d704dc511ec862fdcbc8b3e3e05#^s-047e33fc1919af02526fa16b|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 98 ir 105 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/TAR.F31E79DEC55D#^s-55bc69892e80de925cee5807|Lietuvos Respublikos statybos įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/TAR.F31E79DEC55D#^s-fc27ef5623c3c5a91badb21d|Lietuvos Respublikos statybos įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/TAR.ED447818F751#^s-385d181dc2974c31ad25ffe7|Lietuvos Respublikos statybos įstatymo 1, 2, 4, 5, 6, 8, 10, 11, 12, 16, 18, 18-1, 29, 36, 39, 40, 41, 43-1, 47 straipsnių ir 2 priedo pakeitimo ir papildymo įstatymas]] - Žemės gelmių įstatyme
 - [[latest/TAR.ED447818F751#^s-ac1d75296aefe280d9b31127|Lietuvos Respublikos statybos įstatymo 1, 2, 4, 5, 6, 8, 10, 11, 12, 16, 18, 18-1, 29, 36, 39, 40, 41, 43-1, 47 straipsnių ir 2 priedo pakeitimo ir papildymo įstatymas]] - Žemės gelmių įstatyme
-- [[latest/514a2f42afd011f092fda1fd0c194cc5#^s-943cc22ebae567f2adcb54a4|Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 4, 5, 6, 8, 10, 11, 21, 34, 47, 48 straipsnių ir 2 priedo pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/514a2f42afd011f092fda1fd0c194cc5#^s-ea939ab9a0516c65e5523472|Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 4, 5, 6, 8, 10, 11, 21, 34, 47, 48 straipsnių ir 2 priedo pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/b2d704e048e711e6b5d09300a16a686c#^s-30e6764b990ef78b1b0971be|Lietuvos Respublikos statybos įstatymo Nr. I-1240 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/b2d704e048e711e6b5d09300a16a686c#^s-55c2044cafae95ddaff420d0|Lietuvos Respublikos statybos įstatymo Nr. I-1240 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/TAR.80A638E6C263#^s-01e023965120874ae28e237b|Lietuvos Respublikos statybos įstatymo pakeitimo įstatymas]] - Žemės gelmių įstatyme) paskirties statinių reikalavimus, išskyrus nustatytus šio Įstatymo 4 straipsnio 1 dalyje
 - [[latest/TAR.80A638E6C263#^s-08146dc160dcd1ea0c494db9|Lietuvos Respublikos statybos įstatymo pakeitimo įstatymas]] - Žemės gelmių įstatyme) paskirties statinių reikalavimus, išskyrus nustatytus šio Įstatymo 4 straipsnio 1 dalyje
 - [[latest/TAR.26B563184529#^s-06f91fe3dae520d6b82bad33|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymu
-- [[latest/TAR.26B563184529#^s-94e77371c17743ca17f822fc|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymu
 - [[latest/14fdeea09bea11ea9515f752ff221ec9#^s-6846466044115199ebc8a0c0|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 6, 15, 17, 18, 21, 26, 27 ir 39 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymu
 - [[latest/TAR.91F3BE482534#^s-bae23e92bdb2fcee814f4ab4|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymu
-- [[latest/TAR.91F3BE482534#^s-f723ddda59be13eefd9e10ab|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymu
-- [[latest/TAR.B3CC2C0B9BD2#^s-4e84a688bcf26620f8421da4|Lietuvos Respublikos vandens įstatymas]] - Žemės gelmių įstatymas
 - [[latest/TAR.B3CC2C0B9BD2#^s-db8daff25a44d992bd9d1160|Lietuvos Respublikos vandens įstatymas]] - Žemės gelmių įstatymas
 - [[latest/25cc7e20fdfb11ec8fa7d02a65c371ad#^s-349785d04e5556301907f7a8|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3, 8, 9, 14, 15, 18, 20, 21, 25 straipsnių ir priedo pakeitimo įstatymas]] - Žemės gelmių įstatymo
-- [[latest/25cc7e20fdfb11ec8fa7d02a65c371ad#^s-475436d0fe08e7f07ded2c05|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3, 8, 9, 14, 15, 18, 20, 21, 25 straipsnių ir priedo pakeitimo įstatymas]] - Žemės gelmių įstatymas
-- [[latest/25cc7e20fdfb11ec8fa7d02a65c371ad#^s-49eff5f5f94ab215bf9711be|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3, 8, 9, 14, 15, 18, 20, 21, 25 straipsnių ir priedo pakeitimo įstatymas]] - Žemės gelmių įstatymo
-- [[latest/25cc7e20fdfb11ec8fa7d02a65c371ad#^s-5ac224781b99f46fa42b498f|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3, 8, 9, 14, 15, 18, 20, 21, 25 straipsnių ir priedo pakeitimo įstatymas]] - Žemės gelmių įstatymo
 - [[latest/25cc7e20fdfb11ec8fa7d02a65c371ad#^s-985338da4d1b64b7c43cb96e|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3, 8, 9, 14, 15, 18, 20, 21, 25 straipsnių ir priedo pakeitimo įstatymas]] - Žemės gelmių įstatymo
 - [[latest/25cc7e20fdfb11ec8fa7d02a65c371ad#^s-a1bd3d65406bf1d8bb6ae025|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 3, 8, 9, 14, 15, 18, 20, 21, 25 straipsnių ir priedo pakeitimo įstatymas]] - Žemės gelmių įstatymas
-- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-20effa828cc6ce8961216b6f|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-3b017a349f1057f384a17ce5|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Žemės gelmių įstatymo
 - [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-8099799a2d2d9f37da3629ea|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Žemės gelmių įstatymo
 - [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-8d94a9ec753e9f36deda946f|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-95509032fe5b2fe16f78ea94|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Žemės gelmių įstatymo
-- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-aeb759981bd673e6b5ede15e|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Žemės gelmių įstatymo
-- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-cd5bf6a606b6f5f158680f79|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-ed16b7691f12dc833abf5b5b|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Žemės gelmių įstatymas
 - [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-f3f7ce7d00bb0b9b15c9c878|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Žemės gelmių įstatymas
 - [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-f618c87bdd9259edb8d491db|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/01d2bff0ad3d11e98451fa7b5933515d#^s-502f7f2e8004c2d8e0e403fe|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII-1826 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
 - [[latest/01d2bff0ad3d11e98451fa7b5933515d#^s-eaae0fd970863e176714f8f3|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII-1826 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatyme
-- [[latest/TAR.23F8D92B723F#^s-10e81643f4d028e973ac251f|Lietuvos Respublikos vandens įstatymo pakeitimo įstatymas]] - Žemės gelmių įstatyme
 - [[latest/TAR.23F8D92B723F#^s-7e9616505b19e72d78409379|Lietuvos Respublikos vandens įstatymo pakeitimo įstatymas]] - Žemės gelmių įstatyme
-- [[latest/TAR.746E5B0683A6#^s-54745057b8ae404038357846|Lietuvos Respublikos žemės gelmių įstatymo 1, 2, 6, 8, 12, 13, 14, 15, 18, 23, 25, 26 ir 27 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas]] - Lietuvos Respublikos Žemės gelmių įstatymo
-- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-1ff037d12f7d95615496f617|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymo
-- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-695667d3550cc475340a8d74|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS  ŽEMĖS GELMIŲ  ĮSTATYMAS
-- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-7d18c1bbfa515437947d9e34|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymo
-- [[latest/TAR.FC99661E0C1C#^s-0c63f563c9d9bd9279de6ff5|Lietuvos Respublikos žemės gelmių įstatymo pakeitimo įstatymas]] - Žemės gelmių įstatymo
-- [[latest/TAR.FC99661E0C1C#^s-cbd4d439b2e2748cd35d1709|Lietuvos Respublikos žemės gelmių įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS ŽEMĖS GELMIŲ ĮSTATYMAS
+- [[latest/TAR.746E5B0683A6#^s-54745057b8ae404038357846|Lietuvos Respublikos žemės gelmių įstatymo 1, 2, 6, 8, 12, 13, 14, 15, 18, 23, 25, 26 ir 27 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas]] - Žemės gelmių įstatymo
+- [[latest/TAR.746E5B0683A6#^s-8029b65d9e3729fe454eb35f|Lietuvos Respublikos žemės gelmių įstatymo 1, 2, 6, 8, 12, 13, 14, 15, 18, 23, 25, 26 ir 27 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas]] - Žemės gelmių įstatymo
+- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-1ff037d12f7d95615496f617|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - žemės gelmių įstatymo
+- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-695667d3550cc475340a8d74|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - LIETUVOS RESPUBLIKOS  ŽEMĖS GELMIŲ  ĮSTATYMAS
+- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-7d18c1bbfa515437947d9e34|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - žemės gelmių įstatymo
 - [[latest/TAR.FC99661E0C1C#^s-fe02f3c860c5971eb8323bf6|Lietuvos Respublikos žemės gelmių įstatymo pakeitimo įstatymas]] - ŽEMĖS GELMIŲ ĮSTATYMO
-- [[latest/TAR.CC10C5274343#^s-02614d798473732ec9520587|Lietuvos Respublikos žemės įstatymas]] - 2 citatos - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/TAR.CC10C5274343#^s-955898a2f128f34d084cc322|Lietuvos Respublikos žemės įstatymas]] - Žemės gelmių įstatymo
 - [[latest/TAR.CC10C5274343#^s-956157c6f795f6fe7ec95183|Lietuvos Respublikos žemės įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymo
-- [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-166f7a110e1539609df17ef4|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-86befbdeefd5a2d3fb6beb3a|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Žemės gelmių įstatymo
 - [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-c21d635c96fc1e78884267bc|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/d3e1cbf0fbba11e99681cd81dcdca52c#^s-d74875a121fbe4a61d494e86|Lietuvos Respublikos žemės įstatymo Nr. I-446 9 straipsnio pakeitimo įstatymas]] - Žemės gelmių įstatymo
-- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-05ebba3df4bdf95943e7ac3c|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-0a51eda52ca0ef2410d49d8b|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-42367d26c5f042028da1cfcc|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-7155824557b00eb6c3525b5a|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės gelmių įstatymo
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-7c6f25f38c9eea9a19bd7897|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės gelmių įstatymo
-- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-adf910a2ec3cde4974f60f29|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-20a70574714331e97613fab5|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymo
-- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-45215e9233ec2bf71096a44d|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-f23abae6c1a2906cf814bee5|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Žemės gelmių įstatymo
 - [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-283a9f6668dc6b98a0b9d76f|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Žemės gelmių įstatymo
 - [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-2eb7bd320937d44ad31ef757|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymo
-- [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-38eba9665a994b1f3f85d882|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žemės gelmių įstatymo
 - [[latest/6dbdd2c0a62d11eea5a28c81c82193a8#^s-101a10453a5f50b6a53efb4d|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 straipsnio pakeitimo įstatymas]] - Žemės gelmių įstatymo
 - [[latest/6dbdd2c0a62d11eea5a28c81c82193a8#^s-74ebe2dc13bf8460382290bd|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės gelmių įstatymo
-- [[latest/6dbdd2c0a62d11eea5a28c81c82193a8#^s-9ebf938827107200c18fa110|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žemės gelmių įstatymo
-- [[latest/TAR.7ED447C0D254#^s-71fe0a1250f20346fa91de03|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Žemės gelmių įstatymo
 - [[latest/TAR.7ED447C0D254#^s-b754f7971339d33076cacbfe|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Žemės gelmių įstatymo

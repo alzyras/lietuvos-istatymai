@@ -45,7 +45,7 @@ Vilnius
 „4. Skirstymas – vartotojų aprūpinimas elektros energija skirstomaisiais tinklais.“
 
 
-2. [[#^s-c1b78d6da40bd86333d4810e|2 straipsnio]] 10, 11, 12, [[#^s-6f3eb9f57fa29583a1407523|13 dalyse]] vietoj žodžių „skirstymo tinklais“, „skirstymo tinklus“, „skirstymo tinklų“, „skirstymo tinklams“ įrašyti atitinkamai žodžius „skirstomaisiais tinklais“, „skirstomuosius tinklus“, „skirstomųjų tinklų“, „skirstomiesiems tinklams“ ir šias dalis išdėstyti taip: ^s-4bb12b4118e3a246f660e21b
+2. [[#^s-c1b78d6da40bd86333d4810e|2 straipsnio]] 10, 11, 12, 13 dalyse vietoj žodžių „skirstymo tinklais“, „skirstymo tinklus“, „skirstymo tinklų“, „skirstymo tinklams“ įrašyti atitinkamai žodžius „skirstomaisiais tinklais“, „skirstomuosius tinklus“, „skirstomųjų tinklų“, „skirstomiesiems tinklams“ ir šias dalis išdėstyti taip: ^s-4bb12b4118e3a246f660e21b
 
 
 „10. Tinklų naudotojas – juridinis ar fizinis asmuo bei įmonė, neturinti juridinio asmens teisių, kurie naudojasi elektros energijos persiuntimo perdavimo ar skirstomaisiais tinklais paslauga.

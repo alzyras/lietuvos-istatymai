@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos baudžiamojo proceso bei operatyvinės veiklo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.717DD0E6FE37#^s-145c0f829279bbadc5f6ceb0|Lietuvos Respublikos baudžiamojo proceso ir  kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas]] - 3 citatos - 1031010ISTA0IX-1441
+- [[latest/TAR.717DD0E6FE37#^s-145c0f829279bbadc5f6ceb0|Lietuvos Respublikos baudžiamojo proceso ir  kriminalinės žvalgybos dalyvių, teisingumo ir teisėsaugos institucijų pareigūnų apsaugos nuo nusikalstamo poveikio įstatymas]] - 2 citatos - 1031010ISTA0IX-1441

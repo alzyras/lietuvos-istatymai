@@ -81,7 +81,7 @@ Vilnius
 3. [[#^s-11bcda8aa0205a74e28716e6|2 straipsnio 5 dalyje]] išbraukti žodžius „(taip pat įmonė, neturinti juridinio asmens teisių)“ ir šią dalį išdėstyti taip: ^s-f20ef9023dca08854ed7fcf0
 
 
-„5. Duomenų gavėjas – juridinis ar fizinis asmuo, kuriems teikiami asmens duomenys. Šio įstatymo vykdymo priežiūros institucijos, nurodytos 8 ir 25 straipsniuose, taip pat 14 straipsnyje nurodyta Ryšių reguliavimo tarnyba nėra duomenų gavėjai, kai šios institucijos gauna asmens duomenis jų tvarkymo kontrolės tikslu.“
+„5. Duomenų gavėjas – juridinis ar fizinis asmuo, kuriems teikiami asmens duomenys. Šio įstatymo vykdymo priežiūros institucijos, nurodytos [[#^s-af486a552ed42300447f695d|8]] ir 25 straipsniuose, taip pat 14 straipsnyje nurodyta Ryšių reguliavimo tarnyba nėra duomenų gavėjai, kai šios institucijos gauna asmens duomenis jų tvarkymo kontrolės tikslu.“
 
 
 4. 2 straipsnio 7 dalyje išbraukti žodžius „(taip pat įmonė, neturinti juridinio asmens teisių)“ ir šią dalį išdėstyti taip: ^s-dd15af6fdb961a4f5858cfea

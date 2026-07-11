@@ -72,7 +72,7 @@ Pakeisti [[#^s-38fde4a958fe671bf9a1f4db|5 straipsnį]] ir jį išdėstyti taip:
 2) į nemokamus pusryčius, nemokamus pietus ir į paramą mokinio reikmenims įsigyti, jeigu vidutinės pajamos vienam šeimos nariui per mėnesį yra mažesnės kaip 1 VRP dydis. ^s-da2bc546db75fcd7a2903f79
 
 
-2. Kitais savivaldybės, kurioje priimamas sprendimas dėl socialinės paramos mokiniams skyrimo, tarybos nustatytais atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, mokiniui iš tris ir daugiau vaikų auginančios ar neįgaliųjų tėvų šeimos ir kt.), atsižvelgiant į šeimos gyvenimo sąlygas, mokiniai turi teisę: ^s-52d60b423f05217b97c6aabf
+2. Kitais savivaldybės, kurioje priimamas sprendimas [dėl socialinės paramos mokiniams skyrimo](https://e-tar.lt/portal/lt/legalAct/a623ebf02f6211e4a83cb4f588d2ac1a), tarybos nustatytais atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, mokiniui iš tris ir daugiau vaikų auginančios ar neįgaliųjų tėvų šeimos ir kt.), atsižvelgiant į šeimos gyvenimo sąlygas, mokiniai turi teisę: ^s-52d60b423f05217b97c6aabf
 
 
 1) į nemokamus pietus, jeigu vidutinės pajamos vienam šeimos nariui per mėnesį yra mažesnės kaip 2 VRP dydžiai; ^s-aee0aca5f9bcdffbdeecb88a
@@ -81,7 +81,7 @@ Pakeisti [[#^s-38fde4a958fe671bf9a1f4db|5 straipsnį]] ir jį išdėstyti taip:
 2) į nemokamus pusryčius ir į nemokamus pietus, jeigu vidutinės pajamos vienam šeimos nariui per mėnesį yra mažesnės kaip 1,5 VRP dydžio. ^s-1015a34d7af70d21ef661f29
 
 
-3. Šio straipsnio 1 ir [[#^s-52d60b423f05217b97c6aabf|2 dalyse]] nurodytiems mokiniams skiriamas nemokamas maitinimas vasaros atostogų metu mokyklose organizuojamose dieninėse vasaros poilsio stovyklose.“ ^s-e42a0deea9271b21d7fb92b8
+3. Šio straipsnio [[#^s-58ee4e97c9ce627c07238009|1]] ir [[#^s-52d60b423f05217b97c6aabf|2]] dalyse nurodytiems mokiniams skiriamas nemokamas maitinimas vasaros atostogų metu mokyklose organizuojamose dieninėse vasaros poilsio stovyklose.“ ^s-e42a0deea9271b21d7fb92b8
 
 
 ### 3 straipsnis. 6 straipsnio 3 dalies pakeitimas ^s-77ac6cee4053009ade180278
@@ -96,7 +96,7 @@ Pakeisti [[#^s-38fde4a958fe671bf9a1f4db|5 straipsnį]] ir jį išdėstyti taip:
 ### 4 straipsnis. 7 straipsnio 2 dalies pakeitimas ^s-b80738fd3e0eea3962863592
 
 
-[[#^s-b9041f9aa39e0a895ae6ca4c|7 straipsnio 2 dalies 1 punkte]] vietoj žodžių ir santrumpos „minimaliojo gyvenimo lygio (toliau – MGL)“ įrašyti žodžius „bazinės socialinės išmokos“, 2 ir [[#^s-e724c754136b55d5f9a51c37|3 punktuose]] vietoj santrumpos „MGL“ įrašyti žodžius „bazinės socialinės išmokos“ ir šią dalį išdėstyti taip:
+[[#^s-b9041f9aa39e0a895ae6ca4c|7 straipsnio 2 dalies 1 punkte]] vietoj žodžių ir santrumpos „minimaliojo gyvenimo lygio (toliau – MGL)“ įrašyti žodžius „bazinės socialinės išmokos“, [[#^s-278706f786a137e572737f34|2]] ir [[#^s-fa7e02d50f084e3d28546072|3]] punktuose vietoj santrumpos „MGL“ įrašyti žodžius „bazinės socialinės išmokos“ ir šią dalį išdėstyti taip:
 
 
 „2. Produktams įsigyti (įskaitant pirkimo pridėtinės vertės mokestį) skiriama:
@@ -155,7 +155,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 „11 straipsnis. Socialinės paramos mokiniams skyrimas
 
 
-1. Sprendimas dėl socialinės paramos mokiniams skyrimo priimamas savivaldybės, kurioje pateiktas prašymas-paraiška (prašymas), nustatyta tvarka. Užpildoma Vyriausybės ar jos įgaliotos institucijos patvirtinta sprendimo dėl socialinės paramos mokiniams skyrimo forma. ^s-0aa03633189af984fbb9fb72
+1. Sprendimas [dėl socialinės paramos mokiniams skyrimo](https://e-tar.lt/portal/lt/legalAct/a623ebf02f6211e4a83cb4f588d2ac1a) priimamas savivaldybės, kurioje pateiktas prašymas-paraiška (prašymas), nustatyta tvarka. Užpildoma Vyriausybės ar jos įgaliotos institucijos patvirtinta sprendimo [dėl socialinės paramos mokiniams skyrimo](https://e-tar.lt/portal/lt/legalAct/a623ebf02f6211e4a83cb4f588d2ac1a) forma. ^s-0aa03633189af984fbb9fb72
 
 
 2. Mokiniams nemokamas maitinimas skiriamas: ^s-69a18a077fd9d12b8100d5d0
@@ -167,16 +167,16 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 2) pateikus prašymą-paraišką (prašymą) mokslo metais, – nuo informacijos apie priimtą sprendimą dėl socialinės paramos mokiniams gavimo mokykloje kitos dienos iki mokslo metų pabaigos; ^s-278706f786a137e572737f34
 
 
-3) vasaros atostogų metu mokyklose organizuojamose dieninėse vasaros poilsio stovyklose, jei paskutinį mokslo metų mėnesį mokinys turėjo teisę gauti nemokamą maitinimą pagal šio įstatymo [[#^s-38fde4a958fe671bf9a1f4db|5 straipsnio]] 1 ar [[#^s-69a18a077fd9d12b8100d5d0|2 dalį]], be atskiro prašymo nuo mokykloje organizuojamos dieninės vasaros poilsio stovyklos pradžios. Kai teisė gauti nemokamą maitinimą pagal šio įstatymo [[#^s-38fde4a958fe671bf9a1f4db|5 straipsnio]] 1 ar [[#^s-69a18a077fd9d12b8100d5d0|2 dalį]] atsirado vėliau, vasaros atostogų metu mokyklose organizuojamose dieninėse vasaros poilsio stovyklose nemokamas maitinimas skiriamas pagal pareiškėjo prašymą nuo informacijos apie priimtą sprendimą dėl socialinės paramos mokiniams gavimo mokykloje kitos dienos. ^s-fa7e02d50f084e3d28546072
+3) vasaros atostogų metu mokyklose organizuojamose dieninėse vasaros poilsio stovyklose, jei paskutinį mokslo metų mėnesį mokinys turėjo teisę gauti nemokamą maitinimą pagal šio įstatymo [[#^s-38fde4a958fe671bf9a1f4db|5 straipsnio]] 1 ar 2 dalį, be atskiro prašymo nuo mokykloje organizuojamos dieninės vasaros poilsio stovyklos pradžios. Kai teisė gauti nemokamą maitinimą pagal šio įstatymo [[#^s-38fde4a958fe671bf9a1f4db|5 straipsnio]] 1 ar 2 dalį atsirado vėliau, vasaros atostogų metu mokyklose organizuojamose dieninėse vasaros poilsio stovyklose nemokamas maitinimas skiriamas pagal pareiškėjo prašymą nuo informacijos apie priimtą sprendimą dėl socialinės paramos mokiniams gavimo mokykloje kitos dienos. ^s-fa7e02d50f084e3d28546072
 
 
 3. Parama mokinio reikmenims įsigyti skiriama iki prasidedant mokslo metams arba mokslo metų pradžioje, bet ne ilgiau kaip iki spalio 20 dienos. ^s-e6ada0ca2e2d6e9ac5a57971
 
 
-4. Sprendimas dėl socialinės paramos mokiniams skyrimo priimamas ne vėliau kaip per 10 darbo dienų nuo prašymo-paraiškos (prašymo) ir visų reikalingų dokumentų gavimo dienos (tuo atveju, kai socialinės paramos mokiniams prašo mokykla, – nuo raštu pateiktos informacijos gavimo dienos). Per šį laikotarpį sprendimo dėl socialinės paramos mokiniams kopija pateikiama šio įstatymo [[#^s-f2e0b7cfe10d877a2f0b7d43|9 straipsnyje]] nurodytoms institucijoms. Šios institucijos ne vėliau kaip per 3 darbo dienas apie priimtą sprendimą dėl socialinės paramos mokiniams raštu informuoja mokyklas. ^s-a08341ef650e35254640d999
+4. Sprendimas [dėl socialinės paramos mokiniams skyrimo](https://e-tar.lt/portal/lt/legalAct/a623ebf02f6211e4a83cb4f588d2ac1a) priimamas ne vėliau kaip per 10 darbo dienų nuo prašymo-paraiškos (prašymo) ir visų reikalingų dokumentų gavimo dienos (tuo atveju, kai socialinės paramos mokiniams prašo mokykla, – nuo raštu pateiktos informacijos gavimo dienos). Per šį laikotarpį sprendimo dėl socialinės paramos mokiniams kopija pateikiama šio įstatymo [[#^s-f2e0b7cfe10d877a2f0b7d43|9 straipsnyje]] nurodytoms institucijoms. Šios institucijos ne vėliau kaip per 3 darbo dienas apie priimtą sprendimą dėl socialinės paramos mokiniams raštu informuoja mokyklas. ^s-a08341ef650e35254640d999
 
 
-5. Pareiškėjas dėl socialinės paramos mokiniams skyrimo informuojamas ne vėliau kaip per 5 darbo dienas nuo sprendimo dėl socialinės paramos mokiniams priėmimo dienos. Jei socialinė parama mokiniui neskiriama, nurodoma neskyrimo priežastis ir sprendimo dėl socialinės paramos mokiniams apskundimo tvarka. Pareiškėjo pateikti dokumentai jam grąžinami, o socialinę paramą mokiniams skiriančioje institucijoje paliekamos šių dokumentų kopijos. ^s-fa2d59d15f87346bb145d174
+5. Pareiškėjas [dėl socialinės paramos mokiniams skyrimo](https://e-tar.lt/portal/lt/legalAct/a623ebf02f6211e4a83cb4f588d2ac1a) informuojamas ne vėliau kaip per 5 darbo dienas nuo sprendimo dėl socialinės paramos mokiniams priėmimo dienos. Jei socialinė parama mokiniui neskiriama, nurodoma neskyrimo priežastis ir sprendimo dėl socialinės paramos mokiniams apskundimo tvarka. Pareiškėjo pateikti dokumentai jam grąžinami, o socialinę paramą mokiniams skiriančioje institucijoje paliekamos šių dokumentų kopijos. ^s-fa2d59d15f87346bb145d174
 
 
 6. Nustačius, kad per laikotarpį, kurį mokiniui teikiama socialinė parama mokiniams, pasikeitus aplinkybėms mokinys nebetenka teisės į šią paramą arba kad pareiškėjas yra pateikęs neteisingus duomenis apie gaunamas pajamas, šeimos narius ar kitus duomenis, reikalingus socialinei paramai mokiniui skirti, priimamas sprendimas dėl socialinės paramos mokiniams nutraukimo ir jis pateikiamas šio įstatymo [[#^s-f2e0b7cfe10d877a2f0b7d43|9 straipsnyje]] nurodytoms institucijoms ne vėliau kaip per 3 darbo dienas nuo šio sprendimo priėmimo dienos. Socialinė parama mokiniui neteikiama nuo kitos dienos po sprendimo dėl socialinės paramos mokiniams nutraukimo mokykloje gavimo.“ ^s-26f7171fede2367c919e311d
@@ -203,7 +203,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 1. Šis įstatymas įsigalioja 2009 m. sausio 1 d. ^s-afbb46c26fbdfd9b352d30e6
 
 
-2. Šis įstatymas, išskyrus 4 ir [[#^s-38fde4a958fe671bf9a1f4db|5 straipsnius]] ir [[#^s-8c2503ecf71b56e564992465|7 straipsnyje]] išdėstyto [[latest/TAR.915C6D6EB2A5#^s-0760de6791a545f4104f7b51|Socialinės paramos mokiniams įstatymo 11 straipsnio 2 dalies 2 punktą]], galioja iki 2010 m. gruodžio 31 d. ^s-232ff6fc6ff12c58f8179751
+2. Šis įstatymas, išskyrus [[#^s-b80738fd3e0eea3962863592|4]] ir [[#^s-38fde4a958fe671bf9a1f4db|5]] straipsnius ir [[#^s-8c2503ecf71b56e564992465|7 straipsnyje]] išdėstyto [[latest/TAR.915C6D6EB2A5#^s-0760de6791a545f4104f7b51|Socialinės paramos mokiniams įstatymo 11 straipsnio 2 dalies 2 punktą]], galioja iki 2010 m. gruodžio 31 d. ^s-232ff6fc6ff12c58f8179751
 
 
 3. Pagal priešmokyklinio ar pradinio ugdymo programas besimokantiems mokiniams, kuriems 2008 metais buvo skirta parama mokinio reikmenims įsigyti, nuo 2009 m. sausio 1 d. iki mokslo metų pabaigos skiriami nemokami pietūs ir nemokamas maitinimas 2009 metų vasaros atostogų metu mokyklose organizuojamose dieninėse vasaros poilsio stovyklose be atskiro prašymo. Sprendimas dėl šios socialinės paramos mokiniams skyrimo priimamas pagal pajamas, kurios buvo nurodytos skiriant paramą mokinio reikmenims įsigyti. ^s-5ab48bd71befcc68e492c16f

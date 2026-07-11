@@ -9,7 +9,8 @@ pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausiojo Tei
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.CCA48EFA01D1|Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo]] - 5 citatos - „Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo“
+- [[latest/TAR.CCA48EFA01D1|Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo]] - 6 citatos - 6
+- [[latest/TAR.CCA48EFA01D1#^s-c12bacb3fe19e8adb4e4897b|Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo]] - 2 citatos - 7
 
 ## Šį įstatymą cituoja
 

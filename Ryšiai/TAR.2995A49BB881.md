@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D790096B17EE#^s-20b98c2067cf03393390da08|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - 2 citatos - VARTOTOJŲ TEISIŲ APSAUGOS ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.D790096B17EE#^s-2bc18345aefa71b8ad0f8737|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - 2 citatos - VARTOTOJŲ TEISIŲ APSAUGOS ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.D790096B17EE#^s-2bc18345aefa71b8ad0f8737|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - VARTOTOJŲ TEISIŲ APSAUGOS ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS

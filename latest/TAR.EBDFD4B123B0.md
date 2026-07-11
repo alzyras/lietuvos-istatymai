@@ -84,7 +84,7 @@ Vilnius
 3. Papildyti 32 straipsnį 7 dalimi: ^s-d3bba63a71cd385ddcaa8d4b
 
 
-„7. 2010 metų valstybės, savivaldybės, Privalomojo sveikatos draudimo fondo, Valstybinio socialinio draudimo fondo metinių konsoliduotųjų finansinių ataskaitų rinkiniai teikiami šio straipsnio 2, 3, 4 dalyse nurodytiems subjektams ne vėliau kaip iki 2011 m. spalio 1 d.“
+„7. 2010 metų valstybės, savivaldybės, Privalomojo sveikatos draudimo fondo, Valstybinio socialinio draudimo fondo metinių konsoliduotųjų finansinių ataskaitų rinkiniai teikiami šio straipsnio [[#^s-2a8e047f7a5a2e89051d4769|2]], 3, 4 dalyse nurodytiems subjektams ne vėliau kaip iki 2011 m. spalio 1 d.“
 
 
 

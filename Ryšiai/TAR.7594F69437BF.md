@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 11, 13, 14, 1
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.ED38F243563C|Lietuvos Respublikos valstybinių pensijų įstatymas]] - Valstybinių pensijų įstatymo 11 straipsnio 1 dalies 4 punkto
 
 ## Šį įstatymą cituoja
 

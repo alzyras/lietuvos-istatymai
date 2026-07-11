@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-334a26519d2538f87201fbe2
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 4 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 7 d. dekretą Nr. 329, ratifikuoja 2003 m. rugsėjo 9 d. Briuselyje pasirašytą Lietuvos Respublikos ir Europos Sąjungos susitarimą dėl Lietuvos Respublikos dalyvavimo Europos Sąjungos vadovaujamose pajėgose (ESVP) Buvusiojoje Jugoslavijos Respublikoje Makedonijoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 4 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. sausio 7 d. dekretą Nr. 329](https://e-tar.lt/portal/lt/legalAct/TAR.4E4545782C41), ratifikuoja 2003 m. rugsėjo 9 d. Briuselyje pasirašytą Lietuvos Respublikos ir Europos Sąjungos susitarimą dėl Lietuvos Respublikos dalyvavimo Europos Sąjungos vadovaujamose pajėgose (ESVP) Buvusiojoje Jugoslavijos Respublikoje Makedonijoje.
 
 
 

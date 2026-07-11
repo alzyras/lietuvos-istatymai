@@ -82,7 +82,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 3) Neįgaliųjų reikalų departamentas prie Socialinės apsaugos ir darbo ministerijos (toliau – Neįgaliųjų reikalų departamentas). Jis koordinuoja ir įgyvendina Nacionalinę žmonių su negalia socialinės integracijos programą ir vykdo kitas neįgaliųjų socialinės integracijos politikos įgyvendinimo priemones; ^s-aac17421c5efda0141184b1b
 
 
-4) apskričių viršininkai. Jie rengia, koordinuoja ir įgyvendina apskrities socialines programas ir socialinius projektus neįgaliesiems, vykdo kitas Apskrities valdymo įstatyme nustatytas funkcijas; ^s-33d3b36f07536a9e54a8aa49
+4) apskričių viršininkai. Jie rengia, koordinuoja ir įgyvendina apskrities socialines programas ir socialinius projektus neįgaliesiems, vykdo kitas [Apskrities valdymo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF) nustatytas funkcijas; ^s-33d3b36f07536a9e54a8aa49
 
 
 5) savivaldybės. Jos rengia ir įgyvendina savivaldybės neįgaliųjų socialinės integracijos programas, atsako už neįgaliųjų specialiųjų poreikių tenkinimą teikiant bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymą, bendradarbiavimą su neįgaliųjų asociacijomis; ^s-8220d188959bab45b938422b
@@ -206,7 +206,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 ### 6 straipsnis. Įstatymo įsigaliojimas ^s-487bf427a2057345c38300c8
 
 
-1. Šio įstatymo 2 ir [[#^s-8a284392a56baa659670ce66|3 straipsniai]] įsigalioja nuo 2006 m. sausio 1 d. ^s-9eed36dec56dfe25c2e188e2
+1. Šio įstatymo [[#^s-2b70d1e4512e44e0215596da|2]] ir [[#^s-8a284392a56baa659670ce66|3]] straipsniai įsigalioja nuo 2006 m. sausio 1 d. ^s-9eed36dec56dfe25c2e188e2
 
 
 2. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija iki 2006 m. sausio 1 d. priima šiam įstatymui įgyvendinti būtinus teisės aktus. ^s-2ac121b894faf5029194018a

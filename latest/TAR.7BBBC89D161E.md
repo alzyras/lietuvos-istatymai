@@ -39,20 +39,20 @@ Vilnius
 ### 1 straipsnis.         Lietuvos Respublikos Konstitucijos papildymas Konstituciniu aktu „Dėl Lietuvos Respublikos narystės Europos Sąjungoje“ ^s-c7bd0238a751f076a10bb621
 
 
-Papildyti Lietuvos Respublikos Konstituciją Konstituciniu aktu „Dėl Lietuvos Respublikos narystės Europos Sąjungoje“:
+Papildyti Lietuvos Respublikos Konstituciją Konstituciniu aktu [„Dėl Lietuvos Respublikos narystės Europos Sąjungoje“](https://e-tar.lt/portal/lt/legalAct/TAR.FD7C10A3072E):
 
 
 
 „LIETUVOS RESPUBLIKOS
 KONSTITUCINIS AKTAS
-DĖL LIETUVOS RESPUBLIKOS NARYSTĖS EUROPOS SĄJUNGOJE
+[DĖL LIETUVOS RESPUBLIKOS NARYSTĖS EUROPOS SĄJUNGOJE](https://e-tar.lt/portal/lt/legalAct/TAR.FD7C10A3072E)
 
 
 
 Lietuvos Respublikos Seimas,
 
 
-vykdydamas Lietuvos Respublikos piliečių valią, pareikštą 2003 m. gegužės 10 ir 11 dienomis įvykusiame referendume dėl Lietuvos Respublikos narystės Europos Sąjungoje,
+vykdydamas Lietuvos Respublikos piliečių valią, pareikštą 2003 m. gegužės 10 ir 11 dienomis įvykusiame referendume [dėl Lietuvos Respublikos narystės Europos Sąjungoje](https://e-tar.lt/portal/lt/legalAct/TAR.FD7C10A3072E),
 reikšdamas įsitikinimą, kad Europos Sąjunga gerbia žmogaus teises ir pagrindines laisves, o Lietuvos narystė Europos Sąjungoje prisidės prie žmogaus teisių ir laisvių efektyvesnio užtikrinimo,
 pažymėdamas, kad Europos Sąjunga gerbia savo valstybių narių nacionalinį tapatumą ir konstitucines tradicijas,
 siekdamas užtikrinti visateisį Lietuvos Respublikos dalyvavimą Europos integracijoje bei Lietuvos Respublikos saugumą ir jos piliečių gerovę,
@@ -85,16 +85,16 @@ Papildyti Lietuvos Respublikos Konstitucijos 150 straipsnį ir jį išdėstyti t
 Lietuvos Respublikos Konstitucijos sudedamąja dalimi yra:
 
 
-1991 m. vasario 11 d. Konstitucinis įstatymas „Dėl Lietuvos valstybės“;
+1991 m. vasario 11 d. Konstitucinis įstatymas [„Dėl Lietuvos valstybės“](https://e-tar.lt/portal/lt/legalAct/TAR.59F99B2B61F2);
 
 
-1992 m. birželio 8 d. Konstitucinis aktas „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“;
+1992 m. birželio 8 d. Konstitucinis aktas [„Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“](https://e-tar.lt/portal/lt/legalAct/TAR.17D48EFB7EA2);
 
 
 1992 m. spalio 25 d. Įstatymas [[latest/TAR.A127A78008DD|„Dėl Lietuvos Respublikos Konstitucijos įsigaliojimo tvarkos“]];
 
 
-2004 m. liepos 13 d. Konstitucinis aktas „Dėl Lietuvos Respublikos narystės Europos Sąjungoje“.“
+2004 m. liepos 13 d. Konstitucinis aktas [„Dėl Lietuvos Respublikos narystės Europos Sąjungoje“](https://e-tar.lt/portal/lt/legalAct/TAR.FD7C10A3072E).“
 
 
 

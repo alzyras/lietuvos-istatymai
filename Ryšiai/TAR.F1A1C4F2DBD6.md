@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlygin
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C6E4170DB704|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas]] - 3 citatos - Pacientų teisių ir žalos sveikatai atlyginimo įstatymo
-- [[latest/TAR.8AC83320B76A|Lietuvos Respublikos sveikatos draudimo įstatymo pakeitimo įstatymas]] - 2 citatos - Sveikatos draudimo įstatymo pakeitimo įstatymo
+- [[latest/TAR.C6E4170DB704|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas]] - 2 citatos - Pacientų teisių ir žalos sveikatai atlyginimo įstatymo
+- [[latest/TAR.8AC83320B76A|Lietuvos Respublikos sveikatos draudimo įstatymo pakeitimo įstatymas]] - Sveikatos draudimo įstatymo pakeitimo įstatymo
 
 ## Šį įstatymą cituoja
 

@@ -9,7 +9,9 @@ pavadinimas: "Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 23
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.389CB90C666D#^s-330dc97f9c8e8f9218e0df92|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 23 ir 31 straipsnių
+- [[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo
+- [[latest/TAR.389CB90C666D#^s-10846adde1a216a7f7b6fcf3|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - 23
+- [[latest/TAR.389CB90C666D#^s-330dc97f9c8e8f9218e0df92|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - 31
 
 ## Šį įstatymą cituoja
 

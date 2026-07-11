@@ -42,7 +42,7 @@ Vilnius
 1. 42 straipsnio 3 dalyje vietoj žodžių ir skaičiaus „Įstatymo 2 priedėlyje“ įrašyti žodžius ir skaičius „1990 m. liepos 23 d. Tarybos direktyvos 90/434/EB dėl bendros mokesčių sistemos, taikomos įvairių valstybių narių įmonių jungimui, skaidymui, turto perleidimui ir keitimuisi akcijomis (toliau – Direktyva 90/434/EB) 3 straipsnio c punkte“ ir šią dalį išdėstyti taip: ^s-d191697a6c4bbaeaa7113662
 
 
-„3. Šio straipsnio 1 ir [[#^s-64722095b1f52ef0284cccc9|2 dalys]] netaikomos vienetams, kurie nėra pelno mokesčio arba 1990 m. liepos 23 d. Tarybos direktyvos 90/434/EB dėl bendros mokesčių sistemos, taikomos įvairių valstybių narių įmonių jungimui, skaidymui, turto perleidimui ir keitimuisi akcijomis (toliau – Direktyva 90/434/EB) [[#^s-501413ed187c0f7769946727|3 straipsnio]] c punkte išvardytų mokesčių mokėtojai.“
+„3. Šio straipsnio 1 ir [[#^s-64722095b1f52ef0284cccc9|2]] dalys netaikomos vienetams, kurie nėra pelno mokesčio arba 1990 m. liepos 23 d. Tarybos direktyvos 90/434/EB dėl bendros mokesčių sistemos, taikomos įvairių valstybių narių įmonių jungimui, skaidymui, turto perleidimui ir keitimuisi akcijomis (toliau – Direktyva 90/434/EB) [[#^s-501413ed187c0f7769946727|3 straipsnio]] c punkte išvardytų mokesčių mokėtojai.“
 
 
 2. 42 straipsnio 4 dalyje vietoj žodžių ir skaičiaus „šio Įstatymo 2 priedėlyje ir kurie yra šiame priedėlyje“ įrašyti žodžius ir skaičius „Direktyvos 90/434/EB priede ir kurie yra šios direktyvos 3 straipsnio c punkte“ ir šią dalį išdėstyti taip: ^s-64722095b1f52ef0284cccc9
@@ -83,7 +83,7 @@ Pakeisti Įstatymo 3 priedėlį ir jį išdėstyti taip:
 
 
 
-1. 1985 m. liepos 25 d. Tarybos reglamentas (EEB) Nr. 2137/85 dėl Europos ekonominių interesų grupių (EEIG). ^s-5f8637b460e3b591993b7981
+1. 1985 m. liepos 25 d. Tarybos [reglamentas (EEB) Nr. 2137/85](https://eur-lex.europa.eu/eli/reg/2137/85/oj) dėl Europos ekonominių interesų grupių (EEIG). ^s-5f8637b460e3b591993b7981
 
 
 2. 1990 m. liepos 23 d. Tarybos direktyva 90/435/EEB dėl bendrosios mokesčių sistemos, taikomos įvairių valstybių narių patronuojančioms ir dukterinėms bendrovėms. ^s-16212de8bd81670482190a1b
@@ -92,7 +92,7 @@ Pakeisti Įstatymo 3 priedėlį ir jį išdėstyti taip:
 3. 1990 m. liepos 23 d. Tarybos direktyva 90/434/EEB dėl bendros mokesčių sistemos, taikomos įvairių valstybių narių įmonių jungimui, skaidymui, turto perleidimui ir keitimuisi akcijomis. ^s-8e0541ad00b6410cf7e6fc6c
 
 
-4. Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos sutarties dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą aktas dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo sąlygų ir sutarčių, kuriomis yra grindžiama Europos Sąjunga, pritaikomųjų pataisų. ^s-3d25cefcbda8cc5128c12871
+4. Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos sutarties dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą [aktas dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo sąlygų ir sutarčių, kuriomis yra grindžiama Europos Sąjunga, pritaikomųjų pataisų](https://e-tar.lt/portal/lt/legalAct/TAR.180A7514EC04). ^s-3d25cefcbda8cc5128c12871
 
 
 5. 2003 m. birželio 3 d. Tarybos direktyva 2003/49/EB dėl bendros apmokestinimo sistemos, taikomos palūkanų ir autorinių atlyginimų mokėjimams tarp skirtingų valstybių narių asocijuotų bendrovių. ^s-af0685eaeeae7e64a0453c05

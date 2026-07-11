@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 11 straipsnio papildymas ^s-29f92725bf54af00d4cace26
 
 
-11 straipsnį papildyti nauju [[#^s-df0b9f19dc65f071baa723c8|2 punktu]], buvusius 2, [[#^s-2d69c1feb9f3b205323fcbb4|3 punktus]] laikyti atitinkamai 3, [[#^s-c18e41f54a509569e9790581|4 punktais]] ir straipsnį išdėstyti taip:
+11 straipsnį papildyti nauju [[#^s-df0b9f19dc65f071baa723c8|2 punktu]], buvusius 2, 3 punktus laikyti atitinkamai 3, 4 punktais ir straipsnį išdėstyti taip:
 
 
 „11 straipsnis. Įstatymo taikymo tvarka
@@ -70,7 +70,7 @@ Vilnius
 
 „Lietuvos Respublikos
 1996 m. gegužės 16 d.
-[[latest/TAR.D4A66ACB9F97|įstatymo Nr. I-1338]]
+įstatymo Nr. I-1338
 1 priedėlis
 
 POLITIKŲ, VALSTYBĖS TARNAUTOJŲ IR JŲ ŠEIMOS NARIŲ, KURIE NUO 1996 METŲ IR UŽ 1997 METUS DEKLARUOJA TURTĄ IR PAJAMAS, SĄRAŠAS

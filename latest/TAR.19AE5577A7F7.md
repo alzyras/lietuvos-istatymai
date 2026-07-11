@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-6cbbb096acec7bec1e4a4e1d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. gegužės 7 d. dekretą Nr. 50, ratifikuoja 2004 m. vasario 25 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Ukrainos Ministrų Kabineto susitarimą dėl piliečių kelionių.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas [2004 m. gegužės 7 d. dekretą Nr. 50](https://e-tar.lt/portal/lt/legalAct/TAR.B5F4E1A4F008), ratifikuoja 2004 m. vasario 25 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Ukrainos Ministrų Kabineto susitarimą dėl piliečių kelionių.
 
 
 

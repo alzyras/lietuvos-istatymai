@@ -64,7 +64,7 @@ Papildyti Įstatymą 7 straipsniu:
 1. Vyriausybė turi teisę pratęsti pagal šio įstatymo [[#^s-c6021791cb045f00e7b4bf9f|2 straipsnį]] išduotos paskolos ar jos dalies grąžinimo terminą, bet ne ilgiau kaip 12 mėnesių. ^s-6a6c9b5f1b4366a00df19216
 
 
-2. Lietuvos valstybiniam komerciniam bankui iki jo privatizavimo pabaigos netaikomi Komercinių bankų įstatymo 39 straipsnio 3 dalyje nurodyti terminai bei 45 straipsnio nuostatos. ^s-df759bb263193931b19fff42
+2. Lietuvos valstybiniam komerciniam bankui iki jo privatizavimo pabaigos netaikomi [Komercinių bankų įstatymo 39 straipsnio 3 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085) nurodyti terminai bei 45 straipsnio nuostatos. ^s-df759bb263193931b19fff42
 
 
 3. Didinant Lietuvos valstybinio komercinio banko akcinį kapitalą, netaikoma Akcinių bendrovių įstatymo 43 straipsnio 4 dalies 1 punkto nuostata. ^s-346cd977849457efe197b817

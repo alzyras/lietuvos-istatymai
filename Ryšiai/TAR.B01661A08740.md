@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C51D9C259EFE#^s-39756cc4fb9ef153fc48535e|Lietuvos Respublikos žmonių palaikų laidojimo įstatymas]] - 2 citatos - Įstatymas Nr. X-1684
+- [[latest/TAR.C51D9C259EFE#^s-39756cc4fb9ef153fc48535e|Lietuvos Respublikos žmonių palaikų laidojimo įstatymas]] - ŽMONIŲ PALAIKŲ LAIDOJIMO ĮSTATYMO 33 IR 34 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

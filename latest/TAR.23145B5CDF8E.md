@@ -205,7 +205,7 @@ Nr. XV-514, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19750
 7) atlieka licencijuojamos veiklos sąlygų laikymosi priežiūrą; ^s-b29a84b6f82f3d41404375b3
 
 
-8) jeigu licencijuojama veikla susijusi su įslaptintos informacijos naudojimu, teikia įslaptintų sandorių saugumą užtikrinančiai institucijai informaciją apie gamintojus, kad būtų atliktas patikrinimas dėl tiekėjo patikimumo pažymėjimo ar įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimų atitiktį patvirtinančios pažymos išdavimo; ^s-de88c1a5342718d190a8fbc7
+8) jeigu licencijuojama veikla susijusi su įslaptintos informacijos naudojimu, teikia įslaptintų sandorių saugumą užtikrinančiai institucijai informaciją apie gamintojus, kad būtų atliktas patikrinimas dėl tiekėjo patikimumo pažymėjimo ar įslaptintos informacijos, žymimos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), apsaugos reikalavimų atitiktį patvirtinančios pažymos išdavimo; ^s-de88c1a5342718d190a8fbc7
 Straipsnio punkto pakeitimai:
 Nr. XII-2378, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14739
 
@@ -245,7 +245,7 @@ Nr. XV-514, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19750
 4. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinės sistemos valdytoja ir duomenų, įskaitant asmens duomenis, valdytoja yra Tarnyba. ^s-1160c8212bebf56003e65b36
 
 
-5. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra vieši. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) [[#^s-e257167641378e15a5883032|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-a0d477ecb4ec25d52513c554|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-14c286a4d9a21e4fe454daac
+5. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra vieši. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) [[#^s-e257167641378e15a5883032|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-a0d477ecb4ec25d52513c554|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-14c286a4d9a21e4fe454daac
 
 
 6. Saugiųjų dokumentų ir saugiųjų dokumentų blankų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis ir duomenis, sudarančius juridinio asmens konfidencialią informaciją ar galinčius atskleisti jo komercinę (verslo) paslaptį, yra atveriami pakartotinai naudoti. ^s-fce52d947432a2678f7f135c
@@ -595,7 +595,7 @@ Nr. XII-2378, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14739
 
 
 
-4. Šio straipsnio 1–[[#^s-b05b235b04d5b0fde27f4f64|3 dalyse]] nurodytus dokumentus iš gamintojo, registruoto užsienio valstybėje, privalo gauti užsakovas. ^s-859341dee793513b60dbb2a9
+4. Šio straipsnio [[#^s-fc4c0a2a808ab3641b8dfa9d|1]]–[[#^s-b05b235b04d5b0fde27f4f64|3]] dalyse nurodytus dokumentus iš gamintojo, registruoto užsienio valstybėje, privalo gauti užsakovas. ^s-859341dee793513b60dbb2a9
 
 
 5. Gamintojas privalo užtikrinti, kad saugiųjų dokumentų ir saugiųjų dokumentų blankų gamyba atitiktų jai keliamus reikalavimus, gaminami saugieji dokumentai ir saugieji dokumentų blankai atitiktų patvirtintą saugiųjų dokumentų ar saugiųjų dokumentų blankų etaloną ir kad saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos brokas nepatektų į apyvartą. ^s-a714195beed0b6a34ce388a1
@@ -661,7 +661,7 @@ Nr. XI-2383, 2012-11-08, Žin., 2012, Nr. 136-6954 (2012-11-24), i. k. [[latest/
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2378, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14739
-Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymo Nr. IX-1601 3 ir [[#^s-07d68534a0b0dac4260bd85a|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymo Nr. IX-1601 [[#^s-9b3dd8bc9e7325ea825e51a3|3]] ir [[#^s-07d68534a0b0dac4260bd85a|20]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -671,4 +671,4 @@ Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamy
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-514, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19750
-Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymo Nr. IX-1601 2, 3, 4, 6, 8, 9 ir [[#^s-8594bc62f309a779d6fb77e1|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugiųjų dokumentų ir saugiųjų dokumentų blankų gamybos įstatymo Nr. IX-1601 [[#^s-9f8290d2352706dd20ae9fb8|2]], [[#^s-9b3dd8bc9e7325ea825e51a3|3]], [[#^s-15ee0a7384d33c83118b4f25|4]], [[#^s-a0d477ecb4ec25d52513c554|6]], [[#^s-27de436e6d2015ffb91a3aff|8]], [[#^s-d23e421214c02cdfd74eea91|9]] ir [[#^s-8594bc62f309a779d6fb77e1|10]] straipsnių pakeitimo įstatymas

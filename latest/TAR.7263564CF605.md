@@ -112,7 +112,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 7. Deleguotiems asmenims Vyriausybės nustatyta tvarka apmokamos kitos būtinos su delegavimu susijusios išlaidos, kurias nustato, tačiau neapmoka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią asmuo deleguotas, ir dėl kurių padengimo Užsienio reikalų ministerija pateikia išvadą pagal šio įstatymo 7 straipsnio 1 dalį. ^s-dc11eecafbcff62f1349dac7
 
 
-8. Šio straipsnio 2–[[#^s-cb70d622a62f74b41077d5df|6 dalyse]] nurodytos garantijos deleguotų asmenų šeimos nariams nėra taikomos, jeigu: ^s-0809e3fab73e8aac38facbb4
+8. Šio straipsnio [[#^s-93d8a4b41347dba42bc2e0f9|2]]–[[#^s-cb70d622a62f74b41077d5df|6]] dalyse nurodytos garantijos deleguotų asmenų šeimos nariams nėra taikomos, jeigu: ^s-0809e3fab73e8aac38facbb4
 
 
 1) delegavimo trukmė trumpesnė kaip 3 mėnesiai; ^s-68b95a7555de13bc82695b43
@@ -203,7 +203,7 @@ Vyriausybė iki 2009 m. spalio 1 d. parengia ir priima šiam įstatymui įgyvend
 1. Šis įstatymas, išskyrus [[#^s-ec75cced1d18187cfcf8596b|7 straipsnį]], įsigalioja 2009 m. spalio 1 d. ^s-8a669e952442870bb9377845
 
 
-2. Šio įstatymo [[#^s-9e0f041281e5715b32fbd76c|4 straipsnyje]] išdėstyto Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo 22 straipsnio 8 dalis ir šio įstatymo [[#^s-7e828befe5b5b07a9987d89d|6 straipsnyje]] išdėstytas [[latest/TAR.981F27E01089|Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo]] priedas netaikomi asmenims, dėl kurių delegavimo arba delegavimo pratęsimo sprendimas priimtas iki šio įstatymo įsigaliojimo ir kurių delegavimas 2009 m. spalio 1 d. nėra pasibaigęs. ^s-d10ea0e77f13993b9e79d2fe
+2. Šio įstatymo [[#^s-9e0f041281e5715b32fbd76c|4 straipsnyje]] išdėstyto [[latest/TAR.981F27E01089|Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo 22 straipsnio 8 dalis]] ir šio įstatymo [[#^s-7e828befe5b5b07a9987d89d|6 straipsnyje]] išdėstytas [[latest/TAR.981F27E01089|Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo]] priedas netaikomi asmenims, dėl kurių delegavimo arba delegavimo pratęsimo sprendimas priimtas iki šio įstatymo įsigaliojimo ir kurių delegavimas 2009 m. spalio 1 d. nėra pasibaigęs. ^s-d10ea0e77f13993b9e79d2fe
 
 
 

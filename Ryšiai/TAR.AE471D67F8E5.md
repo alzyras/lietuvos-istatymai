@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos viešųjų įstaigų įstatymo 4, 5, 6, 7, 9,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 2 citatos - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo
+- [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo
 
 ## Šį įstatymą cituoja
 

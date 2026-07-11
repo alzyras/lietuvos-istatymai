@@ -59,7 +59,7 @@ baudžiamas laisvės atėmimu nuo ketverių iki dvylikos metų.
 3. Nukentėjęs nuo šiame straipsnyje numatytos veikos asmuo gali būti atleistas nuo baudžiamosios atsakomybės už nusikalstamą veiką, kurią jis buvo priverstas tiesiogiai padaryti dėl jam padarytos šiame straipsnyje numatytos veikos. ^s-5ffeabea8f6e7066d9ee2ea6
 
 
-4. Už šio straipsnio 1 ir [[#^s-8de7df61d79b086b6a89f55c|2 dalyse]] numatytas veikas atsako ir juridinis asmuo.“ ^s-a91baf5e983fcc6130165b58
+4. Už šio straipsnio [[#^s-df196e3aff74f75a35356f99|1]] ir [[#^s-8de7df61d79b086b6a89f55c|2]] dalyse numatytas veikas atsako ir juridinis asmuo.“ ^s-a91baf5e983fcc6130165b58
 
 
 
@@ -127,7 +127,7 @@ baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 3. Nukentėjęs nuo šiame straipsnyje numatytos veikos asmuo gali būti atleistas nuo baudžiamosios atsakomybės už nusikalstamą veiką, kurią jis buvo tiesiogiai priverstas padaryti dėl jam padarytos šiame straipsnyje numatytos veikos. ^s-60687e1dfe14c91cba342180
 
 
-4. Už šio straipsnio 1 ir [[#^s-46c263362ed83166de464817|2 dalyse]] numatytas veikas atsako ir juridinis asmuo.“ ^s-110de4782df4d4676609dfc1
+4. Už šio straipsnio [[#^s-97f08b3a67fd595bef616912|1]] ir [[#^s-46c263362ed83166de464817|2]] dalyse numatytas veikas atsako ir juridinis asmuo.“ ^s-110de4782df4d4676609dfc1
 
 
 

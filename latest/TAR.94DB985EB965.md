@@ -149,7 +149,7 @@ Kooperatinės bendrovės įstatuose turi būti nurodyta:
 ### 6 straipsnis. Registravimas ^s-69c19580c61ecdaf243bb301
 
 
-Kooperatinė bendrovė registruojama aukštesniosios pakopos savivaldybėje Lietuvos Respublikos įmonių rejestro įstatyme nustatyta tvarka. Įstatinio kapitalo dydis įmonių rejestre neregistruojamas.
+Kooperatinė bendrovė registruojama aukštesniosios pakopos savivaldybėje [Lietuvos Respublikos įmonių rejestro įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka. Įstatinio kapitalo dydis įmonių rejestre neregistruojamas.
 
 
 Registravimui pateikiami šie dokumentai:
@@ -439,7 +439,7 @@ Neeilinius susirinkimus šaukia valdyba (valdytojas) savo iniciatyva arba kai to
 Narių susirinkimas gali priimti nutarimus, jeigu jame dalyvauja ne mažiau kaip 1/2 visų narių, įgaliotinių susirinkimas – jeigu jame dalyvauja ne mažiau kaip 2/3 įgaliotinių. Jeigu nustatytas skaičius narių (įgaliotinių) į susirinkimą neatvyko, susirinkimas kviečiamas pakartotinai. Jame nutarimai gali būti priimti, jeigu dalyvauja ne mažiau kaip 1/3 narių arba 1/2 įgaliotinių.
 
 
-Susirinkime nutarimai priimami paprasta balsų dauguma, išskyrus šio įstatymo [[#^s-cae5d01e3a24e24de438163d|16 straipsnio]] 2 ir [[#^s-02e58af8fd2d7b7b30cfeb58|8 punktuose]] nurodytus atvejus ir narių pašalinimą, kai nutarimai priimami ne mažiau kaip 2/3 balsų.
+Susirinkime nutarimai priimami paprasta balsų dauguma, išskyrus šio įstatymo [[#^s-cae5d01e3a24e24de438163d|16 straipsnio]] [[#^s-b8c31417d907ed19fc2427d7|2]] ir [[#^s-02e58af8fd2d7b7b30cfeb58|8]] punktuose nurodytus atvejus ir narių pašalinimą, kai nutarimai priimami ne mažiau kaip 2/3 balsų.
 
 
 Susirinkime balsuojama atviru balsavimu, išskyrus tuos atvejus, kai slaptą balsavimą nustato šis įstatymas, kooperatinės bendrovės įstatai arba to reikalauja ne mažiau kaip 1/10 susirinkime dalyvaujančių kooperatinės bendrovės narių (įgaliotinių). Kooperatinės bendrovės valdybos ir revizijos komisijos nariai renkami slaptu balsavimu.

@@ -58,7 +58,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 3. Didesnio tarifo mokestis už valstybinius gamtos išteklius įskaitomas: 90 procentų – į valstybės biudžetą ir teisės aktų nustatyta tvarka naudojamas Aplinkos apsaugos rėmimo programai finansuoti, o 10 procentų – į savivaldybės, kurios teritorijoje išgaunami gamtos ištekliai, biudžetą ir teisės aktų nustatyta tvarka naudojamas Savivaldybių aplinkos apsaugos rėmimo specialiajai programai finansuoti. ^s-86564e2e34788273c4694b3f
 
 
-4. Aplinkos apsaugos rėmimo programos lėšos naudojamos [[latest/TAR.0F470A65DFCA|Aplinkos apsaugos rėmimo programos įstatyme]], o šio straipsnio 1, 2 ir [[#^s-86564e2e34788273c4694b3f|3 dalyse]] nurodytos savivaldybių biudžetų lėšos – [[latest/TAR.9F274C93E483|Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatyme]] numatytiems tikslams.“ ^s-462daf06e345409bbdeb1940
+4. Aplinkos apsaugos rėmimo programos lėšos naudojamos [[latest/TAR.0F470A65DFCA|Aplinkos apsaugos rėmimo programos įstatyme]], o šio straipsnio [[latest/TAR.0F470A65DFCA|1]], [[latest/TAR.0F470A65DFCA|2]] ir [[latest/TAR.0F470A65DFCA|3]] dalyse nurodytos savivaldybių biudžetų lėšos – [[latest/TAR.9F274C93E483|Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatyme]] numatytiems tikslams.“ ^s-462daf06e345409bbdeb1940
 
 
 ### 2 straipsnis. Įstatymo įsigaliojimas ^s-2626e1e2f5390024ef7cca6c

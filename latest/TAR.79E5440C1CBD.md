@@ -837,7 +837,7 @@ BUHALTERINĖS APSKAITOS IR VEIKLOS ELEKTROS ENERGETIKOS SEKTORIUJE SKAIDRUMAS
 4. Kai [[#^s-d6481c65ec8e5418559dc6cb|šio straipsnio 1 dalyje]] nurodytų rūšių veiklą vykdo vertikaliosios integracijos įmonė, kontroliuojantysis juridinis asmuo kontroliuojamiesiems juridiniams asmenims, vykdantiems perdavimo ir skirstymo veiklą, negali duoti nurodymų dėl perdavimo sistemos ir skirstomųjų tinklų operatorių veiklos bei energetikos sistemos valdymo. ^s-b0a49de08952155b10d4f646
 
 
-5. Šio straipsnio 1, 2, 3 ir [[#^s-b0a49de08952155b10d4f646|4 dalyse]] nurodytos nuostatos turi būti įgyvendintos ne vėliau kaip iki 2007 m. liepos 1 d. ^s-2eaee1b4b10c5f8c03b81ea2
+5. Šio straipsnio [[#^s-d6481c65ec8e5418559dc6cb|1]], [[#^s-b1063a506d35b133b2fb4ddf|2]], [[#^s-ea949253789771f30fe7fbe5|3]] ir [[#^s-b0a49de08952155b10d4f646|4]] dalyse nurodytos nuostatos turi būti įgyvendintos ne vėliau kaip iki 2007 m. liepos 1 d. ^s-2eaee1b4b10c5f8c03b81ea2
 
 
 
@@ -873,7 +873,7 @@ BUHALTERINĖS APSKAITOS IR VEIKLOS ELEKTROS ENERGETIKOS SEKTORIUJE SKAIDRUMAS
 2. Komisija turi teisę gauti iš gamybos, perdavimo, skirstomųjų tinklų ir tiekimo įmonių, kurių veikla reguliuojama šio įstatymo nustatyta tvarka, taip pat iš rinkos operatoriaus informaciją, kuri reikalinga elektros energijos rinkai tinkamai prižiūrėti. ^s-a2696768cad061a1eb01f6bb
 
 
-3. Gamybos, perdavimo, skirstomųjų tinklų, tiekimo įmonės ir rinkos operatorius šio straipsnio 1 ir [[#^s-a2696768cad061a1eb01f6bb|2 dalyse]] nurodytą informaciją privalo teikti teisės aktų nustatyta tvarka. ^s-f5b7c26445202a52cbcfea7d
+3. Gamybos, perdavimo, skirstomųjų tinklų, tiekimo įmonės ir rinkos operatorius šio straipsnio [[#^s-29f507c3d5d0b3181ffe0eed|1]] ir [[#^s-a2696768cad061a1eb01f6bb|2]] dalyse nurodytą informaciją privalo teikti teisės aktų nustatyta tvarka. ^s-f5b7c26445202a52cbcfea7d
 
 
 4. Komisija ar kitos institucijos gautą konfidencialią informaciją gali naudoti tik tiems tikslams, dėl kurių informacijos buvo prašoma. ^s-e3c37a049262866fda80d66e

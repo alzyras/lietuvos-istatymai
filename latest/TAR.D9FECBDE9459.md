@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-901b4938109fe571681b21d8
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gegužės 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Europos investicinio banko paskolos sutartį“, ratifikuoja Lietuvos Respublikos ir Europos investicinio banko sutartį dėl 10 mln. ekiu paskolos magistralinių dujotiekių tinklo projektui finansuoti, pasirašytą 1996 m. kovo 18 d. Liuksemburge.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gegužės 8 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Europos investicinio banko paskolos sutartį“](https://e-tar.lt/portal/lt/legalAct/TAR.40C8283DA549), ratifikuoja Lietuvos Respublikos ir Europos investicinio banko sutartį dėl 10 mln. ekiu paskolos magistralinių dujotiekių tinklo projektui finansuoti, pasirašytą 1996 m. kovo 18 d. Liuksemburge.
 
 
 

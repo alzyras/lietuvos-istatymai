@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-7296c86623dbdd16be08d625
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2013 m. gegužės 6 d. dekretą Nr. 1K-1455, ratifikuoja 1986 m. gruodžio 1 d. Darmštate priimtą Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) protokolą dėl privilegijų ir imunitetų.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2013 m. gegužės 6 d. dekretą Nr. 1K-1455](https://e-tar.lt/portal/lt/legalAct/TAR.4CE526187382), ratifikuoja 1986 m. gruodžio 1 d. Darmštate priimtą Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) protokolą dėl privilegijų ir imunitetų.
 
 
 

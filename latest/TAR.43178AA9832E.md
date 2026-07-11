@@ -302,7 +302,7 @@ KLAIDŲ TAISYMAS
 2. Kituose teisės aktuose atskirų rūšių apskaitos dokumentams gali būti papildomai nustatyti privalomi rekvizitai. Reikalavimus mokesčiams apskaičiuoti naudojamiems apskaitos dokumentams, įskaitant šių dokumentų gaminimo ir platinimo tvarką, nustato Vyriausybė. ^s-1dd049344762f9ce42bffb1b
 
 
-3. Įrašai apskaitos registruose daromi tik pagal apskaitos dokumentus, turinčius šio straipsnio 1 ir [[#^s-1dd049344762f9ce42bffb1b|2 dalyse]] nurodytus rekvizitus. ^s-176627940972350e4d453893
+3. Įrašai apskaitos registruose daromi tik pagal apskaitos dokumentus, turinčius šio straipsnio [[#^s-0a445426b2caaba2d3f8ef16|1]] ir [[#^s-1dd049344762f9ce42bffb1b|2]] dalyse nurodytus rekvizitus. ^s-176627940972350e4d453893
 
 
 4. Kai ūkinė operacija jau atlikta arba ūkinis įvykis baigėsi, bet nėra gautas tai patvirtinantis apskaitos dokumentas, surašomas laisvos formos apskaitos dokumentas, nustatantis ūkinės operacijos arba ūkinio įvykio tapatumą. Šį dokumentą pasirašo asmenys, turintys teisę surašyti ir pasirašyti arba tik pasirašyti apskaitos dokumentus. ^s-13b2f0066ba5693db7e8a147
@@ -312,7 +312,7 @@ KLAIDŲ TAISYMAS
 ### 14 straipsnis. Apskaitos dokumentų pasirašymas ^s-e696540f9c902e8939207517
 
 
-1. Ūkio subjekto vadovas patvirtina asmenų, kurie turi teisę surašyti ir pasirašyti arba tik pasirašyti apskaitos dokumentus, sąrašą ir jų parašų pavyzdžius. Apskaitos dokumentai pasirašomi asmeniškai arba Elektroninio parašo įstatymo nustatyta tvarka. Kai pagal sutartį apskaitą tvarko apskaitos paslaugas teikianti įmonė, dokumentų pasirašymo tvarka nustatoma sutartyje, sudarytoje su užsakovu. ^s-4fe19e5d910c5cd24e7fa898
+1. Ūkio subjekto vadovas patvirtina asmenų, kurie turi teisę surašyti ir pasirašyti arba tik pasirašyti apskaitos dokumentus, sąrašą ir jų parašų pavyzdžius. Apskaitos dokumentai pasirašomi asmeniškai arba [Elektroninio parašo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.382345294FBF) nustatyta tvarka. Kai pagal sutartį apskaitą tvarko apskaitos paslaugas teikianti įmonė, dokumentų pasirašymo tvarka nustatoma sutartyje, sudarytoje su užsakovu. ^s-4fe19e5d910c5cd24e7fa898
 
 
 2. Už apskaitos dokumentų surašymą laiku ir teisingai, už juose esančių duomenų tikrumą ir ūkinių operacijų teisėtumą atsako apskaitos dokumentus surašę ir pasirašę asmenys. ^s-84f1369332d00ba3a656c709
@@ -328,7 +328,7 @@ KLAIDŲ TAISYMAS
 2. Kai prekės grąžinamos, patikslinamąjį apskaitos dokumentą šalių susitarimu surašo prekių tiekėjas arba prekes grąžinantis ūkio subjektas. ^s-10f4940c50440383432e9e6e
 
 
-3. Patikslinamajame apskaitos dokumente, be šio Įstatymo [[#^s-463376c4a6ebebf16377e7ac|13 straipsnio]] 1 ir [[#^s-10f4940c50440383432e9e6e|2 dalyse]] nurodytų rekvizitų, nurodomas tikslinamo dokumento pavadinimas ir jo data. Apyvartos nuolaidos suteikimo atveju surašytame patikslinamajame apskaitos dokumente nurodomas nuolaidos teikimo laikotarpis ir to laikotarpio apyvartos suma, nuo kurios teikiama nuolaida, o tikslinamo dokumento pavadinimas ir jo surašymo data nenurodomi. ^s-62d5da59f093bc3643cf8096
+3. Patikslinamajame apskaitos dokumente, be šio Įstatymo [[#^s-463376c4a6ebebf16377e7ac|13 straipsnio]] [[#^s-0a445426b2caaba2d3f8ef16|1]] ir [[#^s-1dd049344762f9ce42bffb1b|2]] dalyse nurodytų rekvizitų, nurodomas tikslinamo dokumento pavadinimas ir jo data. Apyvartos nuolaidos suteikimo atveju surašytame patikslinamajame apskaitos dokumente nurodomas nuolaidos teikimo laikotarpis ir to laikotarpio apyvartos suma, nuo kurios teikiama nuolaida, o tikslinamo dokumento pavadinimas ir jo surašymo data nenurodomi. ^s-62d5da59f093bc3643cf8096
 
 
 
@@ -462,37 +462,37 @@ Asmenys, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvar
 3. Įsigaliojus šiam Įstatymui, netenka galios: ^s-a49f00842405fa580e4d17b3
 
 
-1) Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymas (Žin., 1992, Nr. 20-588); ^s-07b08bb24fe19c4986e8f1d1
+1) [Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.F15B67B048EB) (Žin., 1992, Nr. 20-588); ^s-07b08bb24fe19c4986e8f1d1
 
 
-2) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo pakeitimo ir papildymo“ (Žin., 1995, Nr. 83-1882); ^s-28b53741be8b57a81d380743
+2) Lietuvos Respublikos įstatymas [„Dėl Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo pakeitimo ir papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.F3B63B13AC50) (Žin., 1995, Nr. 83-1882); ^s-28b53741be8b57a81d380743
 
 
-3) Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo 9, 10, 20 ir [[#^s-b13a9d34e8814fe13109dd3a|22 straipsnių]] pakeitimo įstatymas (Žin., 1996, Nr. 18-463); ^s-109bfc77ffa6afbec5f5d3d1
+3) [Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo 9, 10, 20 ir 22 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.3C4158BB0933) (Žin., 1996, Nr. 18-463); ^s-109bfc77ffa6afbec5f5d3d1
 
 
-4) Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo 9, 10 ir [[#^s-41f544202ab2de4de1f41f1a|20 straipsnių]] pakeitimo įstatymas (Žin., 1996, Nr. 64-1509); ^s-4e14b2ff445b3645889d01a8
+4) [Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo 9, 10 ir 20 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.934CCDEBBF99) (Žin., 1996, Nr. 64-1509); ^s-4e14b2ff445b3645889d01a8
 
 
-5) Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo 9, 10 ir [[#^s-41f544202ab2de4de1f41f1a|20 straipsnių]] pakeitimo įstatymas (Žin., 1996, Nr. 126-2949); ^s-78e1188f443a5eb1c08125b5
+5) [Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo 9, 10 ir 20 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.934CCDEBBF99) (Žin., 1996, Nr. 126-2949); ^s-78e1188f443a5eb1c08125b5
 
 
-6) Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo 9 ir [[#^s-ceb3fb3b4ae7049a8a678e68|10 straipsnių]] pakeitimo įstatymas (Žin., 1997, Nr. 64-1509); ^s-aafe01f5e7782c6329370852
+6) [Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo 9 ir 10 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.0CD2C6E28EEC) (Žin., 1997, Nr. 64-1509); ^s-aafe01f5e7782c6329370852
 
 
-7) Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo 1, 2, 9, 10, 16, 17, [[#^s-e708f0819ed8305843b44b2e|21 straipsnių]] papildymo ir pakeitimo įstatymas (Žin., 1998, Nr. 68-1981); ^s-7acefb517751ce54139f45b2
+7) [Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo 1, 2, 9, 10, 16, 17, 21 straipsnių papildymo ir pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.743103CF4108) (Žin., 1998, Nr. 68-1981); ^s-7acefb517751ce54139f45b2
 
 
-8) Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo [[#^s-cd4e5d19cb1d490f356057b9|1 straipsnio]] pakeitimo įstatymas (Žin., 1999, Nr. 90-2644); ^s-03ea4f8d59b444242dee4918
+8) [Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo 1 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.AC90BC50CE68) (Žin., 1999, Nr. 90-2644); ^s-03ea4f8d59b444242dee4918
 
 
-9) Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo [[#^s-cd4e5d19cb1d490f356057b9|1 straipsnio]] papildymo įstatymas (Žin., 1999, Nr. 108-3130); ^s-bce6306b755e620a8ef45abf
+9) [Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo 1 straipsnio papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.219351FE00EF) (Žin., 1999, Nr. 108-3130); ^s-bce6306b755e620a8ef45abf
 
 
-10) Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo [[#^s-ab6edb574dd27adf66678334|2 straipsnio]] pakeitimo įstatymas (Žin., 2000, Nr. 52-1488); ^s-37ecd697b8258d3570d2b7a2
+10) [Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo 2 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.11339E25A355) (Žin., 2000, Nr. 52-1488); ^s-37ecd697b8258d3570d2b7a2
 
 
-11) Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo [[#^s-508df943440d4e59a9456a7c|7 straipsnio]] pakeitimo įstatymas (Žin., 2001, Nr. 85-2970). ^s-6fe3c02061ce2c64742ee8d6
+11) [Lietuvos Respublikos buhalterinės apskaitos pagrindų įstatymo 7 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.EDCD023C8E69) (Žin., 2001, Nr. 85-2970). ^s-6fe3c02061ce2c64742ee8d6
 
 
 4. Iki apskaitos standartų įsigaliojimo galioja Vyriausybės ir Finansų ministerijos išleisti teisės aktai, reglamentuojantys buhalterinės apskaitos tvarkymą. ^s-a19adf98b5507e8a2f542cca

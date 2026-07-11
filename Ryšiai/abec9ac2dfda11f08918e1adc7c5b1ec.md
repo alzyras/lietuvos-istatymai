@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir kar
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - šio straipsnio 17 dalyje
+- [[latest/TAR.15C705E93776#^s-9d0d4e9a977ab2caac1ca626|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - 61 straipsnio 18 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.15C705E93776#^s-aec84f68d27e870489cecda2|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Įstatymas Nr. XV-664
-- [[latest/TAR.15C705E93776#^s-e603ab3b8792ce28e9fac43e|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Įstatymas Nr. XV-664
+_Nėra._

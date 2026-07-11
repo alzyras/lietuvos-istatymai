@@ -368,7 +368,7 @@ Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
 
 
 
-4. Jeigu vartotojams suteikiama galimybė remiantis užklausa pagal raktažodį, frazę arba kitas įvesties priemones ieškoti produktų, kuriuos siūlo skirtingi komercinės veiklos subjektai arba vartotojai, neatsižvelgiant į tai, kaip sudaromos sutartys, esmine laikoma elektroninės sąsajos dalyje, tiesiogiai ir lengvai prieinamoje iš interneto puslapio, kuriame pateikiami užklausos rezultatai, pateikta bendroji informacija apie pagrindinius parametrus, kurie lemia vartotojui pagal paieškos užklausą pateikiamų produktų reitingą, ir šių parametrų santykinį reikšmingumą, palyginti su kitais parametrais. Šios nuostatos netaikomos interneto paieškos sistemų teikėjams, kaip jie apibrėžti 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/1150 dėl verslo klientams teikiamų internetinių tarpininkavimo paslaugų sąžiningumo ir skaidrumo didinimo 2 straipsnio 6 punkte. ^s-5521816778a6812ed58dde5f
+4. Jeigu vartotojams suteikiama galimybė remiantis užklausa pagal raktažodį, frazę arba kitas įvesties priemones ieškoti produktų, kuriuos siūlo skirtingi komercinės veiklos subjektai arba vartotojai, neatsižvelgiant į tai, kaip sudaromos sutartys, esmine laikoma elektroninės sąsajos dalyje, tiesiogiai ir lengvai prieinamoje iš interneto puslapio, kuriame pateikiami užklausos rezultatai, pateikta bendroji informacija apie pagrindinius parametrus, kurie lemia vartotojui pagal paieškos užklausą pateikiamų produktų reitingą, ir šių parametrų santykinį reikšmingumą, palyginti su kitais parametrais. Šios nuostatos netaikomos interneto paieškos sistemų teikėjams, kaip jie apibrėžti 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamento (ES) 2019/1150](https://eur-lex.europa.eu/eli/reg/2019/1150/oj) dėl verslo klientams teikiamų internetinių tarpininkavimo paslaugų sąžiningumo ir skaidrumo didinimo 2 straipsnio 6 punkte. ^s-5521816778a6812ed58dde5f
 Papildyta straipsnio dalimi:
 Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
 
@@ -801,13 +801,13 @@ Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
 1. Už nesąžiningą komercinę veiklą komercinės veiklos subjektams Tarnyba pagal savo kompetenciją gali skirti baudą iki 3 procentų jų metinių pajamų praėjusiais finansiniais metais, bet ne didesnę negu vienas šimtas tūkstančių eurų. Jeigu komercinės veiklos subjektas veikia trumpiau negu vienus metus, bauda skiriama iki 3 procentų jo pajamų einamaisiais finansiniais metais, bet ne didesnė negu vienas šimtas tūkstančių eurų. Komercinės veiklos subjektams, pakartotinai per vienus metus padariusiems pažeidimą, už kurį buvo paskirta šiame įstatyme nustatyta bauda ar įspėjimas, gali būti skiriama bauda iki 6 procentų jų metinių pajamų praėjusiais finansiniais metais, bet ne didesnė negu du šimtai tūkstančių eurų, o jeigu komercinės veiklos subjektas veikia trumpiau negu vienus metus, – iki 6 procentų jo pajamų einamaisiais finansiniais metais, bet ne didesnė negu du šimtai tūkstančių eurų. Jeigu komercinės veiklos subjektas nepateikia informacijos apie savo metines pajamas, jam už nesąžiningą komercinę veiklą skiriama bauda iki vieno šimto tūkstančių eurų, o jeigu pažeidimas padaromas pakartotinai per vienus metus nuo baudos ar įspėjimo už šiame įstatyme numatytą pažeidimą paskyrimo, – iki dviejų šimtų tūkstančių eurų. Tais atvejais, kai pažeidimu nepadaroma esminės žalos šio įstatymo saugomiems vartotojų interesams, Tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, už nesąžiningą komercinę veiklą komercinės veiklos subjektams gali taikyti nuobaudą – įspėjimą, neskirdama baudos. Tarnyba negali komercinės veiklos subjektams skirti baudos, jeigu nuo šio įstatymo pažeidimo padarymo dienos praėjo daugiau kaip treji metai. ^s-1fff6adf8d040b2854ca6ee9
 
 
-2. Tarnyba 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004, [[#^s-25966dc03b875d30d9541959|21 straipsnyje]] nustatytais atvejais už nesąžiningą komercinę veiklą ar už komercinės veiklos subjekto prisiimtų įsipareigojimų imtis taisomųjų priemonių vartotojų naudai nevykdymą komercinės veiklos subjektui, atsakingam už plačiai paplitusį pažeidimą ar Sąjungos mastu plačiai paplitusį pažeidimą, gali skirti baudą iki 4 procentų jo metinių pajamų praėjusiais finansiniais metais atitinkamoje valstybėje narėje ar valstybėse narėse. Jeigu komercinės veiklos subjektas nepateikia informacijos apie savo metines pajamas, jam gali būti skiriama bauda iki dviejų milijonų eurų. ^s-63a167e9ff6e8338fad5c935
+2. Tarnyba 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos [reglamento (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas [Reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj), [[#^s-25966dc03b875d30d9541959|21]] straipsnyje nustatytais atvejais už nesąžiningą komercinę veiklą ar už komercinės veiklos subjekto prisiimtų įsipareigojimų imtis taisomųjų priemonių vartotojų naudai nevykdymą komercinės veiklos subjektui, atsakingam už plačiai paplitusį pažeidimą ar Sąjungos mastu plačiai paplitusį pažeidimą, gali skirti baudą iki 4 procentų jo metinių pajamų praėjusiais finansiniais metais atitinkamoje valstybėje narėje ar valstybėse narėse. Jeigu komercinės veiklos subjektas nepateikia informacijos apie savo metines pajamas, jam gali būti skiriama bauda iki dviejų milijonų eurų. ^s-63a167e9ff6e8338fad5c935
 
 
 3. Už Tarnybos sprendimo dėl šiame įstatyme numatytos laikinojo pobūdžio priemonės nevykdymą arba netinkamą jo vykdymą komercinės veiklos subjektams skiriama trijų šimtų eurų bauda už kiekvieną nevykdymo arba netinkamo vykdymo dieną. ^s-c89f3650397e7221e1c67167
 
 
-4. Įspėjimas skiriamas ir baudos dydis nustatomas Lietuvos Respublikos Vyriausybės nustatyta tvarka, atsižvelgiant į pažeidimo pobūdį, sunkumą, mastą, komercinės veiklos subjekto gautą finansinę naudą ar išvengtus nuostolius, trukmę ir šio straipsnio 5 ir [[#^s-6b2e05b036186b438e0fc3b7|6 dalyse]] nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes. ^s-e3d8896b6eb0e83912a17ecc
+4. Įspėjimas skiriamas ir baudos dydis nustatomas Lietuvos Respublikos Vyriausybės nustatyta tvarka, atsižvelgiant į pažeidimo pobūdį, sunkumą, mastą, komercinės veiklos subjekto gautą finansinę naudą ar išvengtus nuostolius, trukmę ir šio straipsnio [[#^s-88afb26fa81aedd31d1010c5|5]] ir [[#^s-6b2e05b036186b438e0fc3b7|6]] dalyse nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes. ^s-e3d8896b6eb0e83912a17ecc
 
 
 5. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad: ^s-88afb26fa81aedd31d1010c5
@@ -840,7 +840,7 @@ Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
 3) komercinės veiklos subjektas tęsė pažeidimą, nepaisydamas šio įstatymo [[#^s-a9c9925f2f60089f566907cb|17 straipsnyje]] nurodytos laikinojo pobūdžio priemonės – įpareigojimo sustabdyti nesąžiningą komercinę veiklą; ^s-8b1eaa4dccb2f7c4f039a0f3
 
 
-4) komercinės veiklos subjektas pakartotinai per trejus metus (išskyrus [[#^s-1fff6adf8d040b2854ca6ee9|šio straipsnio 1 dalyje]] nurodytus atvejus, kai pažeidimas padarytas pakartotinai per vienus metus) padarė pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, įspėjimas arba už tą patį pažeidimą skirta sankcija kitose Europos Sąjungos valstybėse narėse tarpvalstybinių pažeidimų atvejais, kai tokia informacija yra prieinama pagal Reglamentą (ES) 2017/2394. ^s-0220148df96d998f14f08f36
+4) komercinės veiklos subjektas pakartotinai per trejus metus (išskyrus [[#^s-1fff6adf8d040b2854ca6ee9|šio straipsnio 1 dalyje]] nurodytus atvejus, kai pažeidimas padarytas pakartotinai per vienus metus) padarė pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, įspėjimas arba už tą patį pažeidimą skirta sankcija kitose Europos Sąjungos valstybėse narėse tarpvalstybinių pažeidimų atvejais, kai tokia informacija yra prieinama pagal [Reglamentą (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj). ^s-0220148df96d998f14f08f36
 
 
 7. Už Tarnybos reikalavimo pateikti informaciją ir dokumentus, reikalingus šio įstatymo pažeidimui tirti, nevykdymą ar netinkamą vykdymą, jeigu prieš tai jis buvo įspėtas dėl šio reikalavimo nevykdymo arba netinkamo vykdymo, komercinės veiklos subjektui gali būti skiriama bauda iki trijų tūkstančių eurų. ^s-08b73c4f4ec8f1d736b248c8
@@ -879,7 +879,7 @@ Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
 3) vartotojų asociacijos. ^s-37d3aad20a4c196f097a5832
 
 
-2. Tarnyba turi teisę pradėti šio įstatymo pažeidimų nagrinėjimą savo iniciatyva, priimdama motyvuotą nutarimą. Tokiu atveju mutatis mutandis taikomos šio įstatymo 16–[[#^s-25966dc03b875d30d9541959|21 straipsnių]] nuostatos. ^s-a213b035d7ed3bf9a56dbbc4
+2. Tarnyba turi teisę pradėti šio įstatymo pažeidimų nagrinėjimą savo iniciatyva, priimdama motyvuotą nutarimą. Tokiu atveju mutatis mutandis taikomos šio įstatymo [[#^s-6252bcd8817529c4bb308db5|16]]–[[#^s-25966dc03b875d30d9541959|21]] straipsnių nuostatos. ^s-a213b035d7ed3bf9a56dbbc4
 Straipsnio dalies pakeitimai:
 Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. [[latest/TAR.D9E93A39515F|1131010ISTA0XII-628]]
 
@@ -1070,10 +1070,10 @@ Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
 ### 22 straipsnis. Nutarimų vykdymas ^s-ec54926a51953d8e0fdd15dc
 
 
-1. Tarnybos nutarimas dėl baudos skyrimo įvykdomas sumokant baudą į valstybės biudžetą. Tarnybos nutarimas dėl baudos skyrimo turi būti įvykdytas ne vėliau kaip per vieną mėnesį nuo dienos, kurią komercinės veiklos subjektui jis buvo įteiktas. ^s-4b5da5fdd8dfbb8479971723
+1. Tarnybos nutarimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo įvykdomas sumokant baudą į valstybės biudžetą. Tarnybos nutarimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo turi būti įvykdytas ne vėliau kaip per vieną mėnesį nuo dienos, kurią komercinės veiklos subjektui jis buvo įteiktas. ^s-4b5da5fdd8dfbb8479971723
 
 
-2. Tarnybos nutarimas dėl baudos skyrimo yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka. ^s-011d2c92f10059b40677d6b5
+2. Tarnybos nutarimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir [Lietuvos Respublikos civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-011d2c92f10059b40677d6b5
 Straipsnio dalies pakeitimai:
 Nr. XV-905, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08237
 
@@ -1090,7 +1090,7 @@ Nr. XII-628, 2013-12-03, Žin., 2013, Nr. 128-6519 (2013-12-14), i. k. [[latest/
 1. Tarnybos nutarimai ir jos įgaliotų pareigūnų sprendimai per vieną mėnesį nuo nutarimo ar sprendimo įteikimo dienos gali būti skundžiami teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-e6990a48324e6a344962b82a
 
 
-2. Kreipimasis į teismą nesustabdo Tarnybos nutarimų dėl baudos skyrimo ar įspėjimo taikymo vykdymo, jeigu teismas nenustato kitaip. ^s-2fb71a9ce5be20718e832ff1
+2. Kreipimasis į teismą nesustabdo Tarnybos nutarimų [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo ar įspėjimo taikymo vykdymo, jeigu teismas nenustato kitaip. ^s-2fb71a9ce5be20718e832ff1
 
 
 Straipsnio pakeitimai:
@@ -1132,7 +1132,7 @@ priedas
 
 
 
-2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/29/EB dėl nesąžiningos įmonių komercinės veiklos vartotojų atžvilgiu vidaus rinkoje ir iš dalies keičianti Tarybos direktyvą 84/450/EEB, Europos Parlamento ir Tarybos direktyvas 97/7/EB, 98/27/EB bei 2002/65/EB ir Europos Parlamento ir Tarybos reglamentą (EB) Nr. 2006/2004 (Nesąžiningos komercinės veiklos direktyva) su paskutiniais pakeitimais, padarytais 2024 m. vasario 28 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/825.
+2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/29/EB dėl nesąžiningos įmonių komercinės veiklos vartotojų atžvilgiu vidaus rinkoje ir iš dalies keičianti Tarybos direktyvą 84/450/EEB, Europos Parlamento ir Tarybos direktyvas 97/7/EB, 98/27/EB bei 2002/65/EB ir Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) (Nesąžiningos komercinės veiklos direktyva) su paskutiniais pakeitimais, padarytais 2024 m. vasario 28 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/825](https://eur-lex.europa.eu/eli/dir/2024/825/oj).
 ___________________
 
 
@@ -1167,12 +1167,12 @@ Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įs
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2217, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10159
-Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 13, 14, 16 ir [[#^s-a55a61016f4cb7c77dea5771|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 [[#^s-a762c2319600677b8fa1c915|13]], [[#^s-7972d432363b0039cff28d79|14]], [[#^s-6252bcd8817529c4bb308db5|16]] ir [[#^s-a55a61016f4cb7c77dea5771|20]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-887, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00068
-Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 2, 5, 6, 7, 13, 14, 16, 20, 21, [[#^s-1793773e999fd0f2490769aa|23 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
+Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 [[#^s-c0a181f47a7c7b5eec943d4c|2]], [[#^s-d560e3f41b3f05472e65f5e7|5]], [[#^s-18fa7b60038d759f65df8450|6]], [[#^s-862fad541b2060d6505a3548|7]], [[#^s-a762c2319600677b8fa1c915|13]], [[#^s-7972d432363b0039cff28d79|14]], [[#^s-6252bcd8817529c4bb308db5|16]], [[#^s-a55a61016f4cb7c77dea5771|20]], [[#^s-25966dc03b875d30d9541959|21]], [[#^s-1793773e999fd0f2490769aa|23]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1182,4 +1182,4 @@ Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įs
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-577, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20386
-Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 2, 5, 6 ir [[#^s-862fad541b2060d6505a3548|7 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 [[#^s-c0a181f47a7c7b5eec943d4c|2]], [[#^s-d560e3f41b3f05472e65f5e7|5]], [[#^s-18fa7b60038d759f65df8450|6]] ir [[#^s-862fad541b2060d6505a3548|7]] straipsnių ir priedo pakeitimo įstatymas

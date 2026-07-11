@@ -399,14 +399,14 @@ Nr. XV-573, 2025-11-20, paskelbta TAR 2025-12-04, i. k. 2025-20653
 
 
 3. Pasibaigus savivaldybės teatro ar koncertinės įstaigos vadovo 5 metų kadencijai, įstaigos savininko teises ir pareigas įgyvendinančios savivaldybės institucijos sprendimu jis gali būti skiriamas be konkurso antrai 5 metų kadencijai, jeigu jo vadovaujama įstaiga kiekvienais kadencijos metais pasiekė tiems metams savivaldybės planavimo dokumentuose nustatytus rodiklius. Sprendimas dėl savivaldybės teatro ar koncertinės įstaigos vadovo skyrimo be konkurso antrai 5 metų kadencijai turi būti priimtas likus ne mažiau kaip 2 mėnesiams iki šio vadovo kadencijos pabaigos. ^s-21d1421ba9feb5dffb1b899f
-TAR pastaba. [[#^s-21d1421ba9feb5dffb1b899f|3 dalis]] dėl priėmimo į savivaldybės teatro ar koncertinės įstaigos vadovo pareigas antrai kadencijai be konkurso taikoma ir iki [[latest/98bf2940881c11ed8df094f359a60216|2022 m. gruodžio 20 d. įstatymo Nr. XIV-1717]] įsigaliojimo (2023-04-01) į pareigas priimtiems vadovams, jeigu jų pirmoji kadencija baigiasi po [[latest/98bf2940881c11ed8df094f359a60216|2022 m. gruodžio 20 d. įstatymo Nr. XIV-1717]] įsigaliojimo (2023-04-01) dienos.
+TAR pastaba. 3 dalis dėl priėmimo į savivaldybės teatro ar koncertinės įstaigos vadovo pareigas antrai kadencijai be konkurso taikoma ir iki [[latest/98bf2940881c11ed8df094f359a60216|2022 m. gruodžio 20 d. įstatymo Nr. XIV-1717]] įsigaliojimo (2023-04-01) į pareigas priimtiems vadovams, jeigu jų pirmoji kadencija baigiasi po [[latest/98bf2940881c11ed8df094f359a60216|2022 m. gruodžio 20 d. įstatymo Nr. XIV-1717]] įsigaliojimo (2023-04-01) dienos.
 
 
 4. Nacionalinių, valstybinių ir savivaldybių teatrų ir koncertinių įstaigų vadovai, taip pat pretenduojantys šias pareigas eiti asmenys turi būti nepriekaištingos reputacijos. Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis: ^s-74127fad84a24eb4206c7476
 
 
 1) neatitinka [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatyme]] nustatytų nepriekaištingos reputacijos reikalavimų; ^s-2f1df7348e5d18c331a3d213
-TAR pastaba. 1 punktas netaikomas nacionalinių, valstybinių ir savivaldybių teatrų ir koncertinių įstaigų vadovams, priimtiems į pareigas iki [[latest/98bf2940881c11ed8df094f359a60216|2022 m. gruodžio 20 d. įstatymo Nr. XIV-1717]] įsigaliojimo (2023-04-01), jeigu [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatyme]] numatytos sąlygos, dėl kurių nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos vadovas nebūtų laikomas nepriekaištingos reputacijos, atsirado iki [[latest/98bf2940881c11ed8df094f359a60216|2022 m. gruodžio 20 d. įstatymo Nr. XIV-1717]] įsigaliojimo (2023-04-01), išskyrus atvejus, kai įsiteisėja teismo nuosprendis, kuriuo nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos vadovas pripažįstamas kaltu dėl nusikalstamos veikos padarymo. Šiuo atveju nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos vadovas, priimtas į pareigas iki [[latest/98bf2940881c11ed8df094f359a60216|2022 m. gruodžio 20 d. įstatymo Nr. XIV-1717]] įsigaliojimo (2023-04-01), iš pareigų atleidžiamas pagal iki [[latest/98bf2940881c11ed8df094f359a60216|2022 m. gruodžio 20 d. įstatymo Nr. XIV-1717]] įsigaliojimo (2023-04-01) galiojusio Profesionaliojo scenos meno įstatymo 11 straipsnio 6 dalies nuostatas.
+TAR pastaba. 1 punktas netaikomas nacionalinių, valstybinių ir savivaldybių teatrų ir koncertinių įstaigų vadovams, priimtiems į pareigas iki [[latest/98bf2940881c11ed8df094f359a60216|2022 m. gruodžio 20 d. įstatymo Nr. XIV-1717]] įsigaliojimo (2023-04-01), jeigu [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatyme]] numatytos sąlygos, dėl kurių nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos vadovas nebūtų laikomas nepriekaištingos reputacijos, atsirado iki [[latest/98bf2940881c11ed8df094f359a60216|2022 m. gruodžio 20 d. įstatymo Nr. XIV-1717]] įsigaliojimo (2023-04-01), išskyrus atvejus, kai įsiteisėja teismo nuosprendis, kuriuo nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos vadovas pripažįstamas kaltu dėl nusikalstamos veikos padarymo. Šiuo atveju nacionalinio, valstybinio ir savivaldybės teatro ir koncertinės įstaigos vadovas, priimtas į pareigas iki [[latest/98bf2940881c11ed8df094f359a60216|2022 m. gruodžio 20 d. įstatymo Nr. XIV-1717]] įsigaliojimo (2023-04-01), iš pareigų atleidžiamas pagal iki [[latest/98bf2940881c11ed8df094f359a60216|2022 m. gruodžio 20 d. įstatymo Nr. XIV-1717]] įsigaliojimo (2023-04-01) galiojusio [[latest/TAR.3E147F656BC4|Profesionaliojo scenos meno įstatymo 11 straipsnio 6 dalies]] nuostatas.
 
 
 2) yra pripažintas šiurkščiai pažeidęs kultūros ministro tvirtinamas kultūros įstaigų darbuotojų profesinės veiklos ir etikos taisykles (toliau – Taisyklės) ir nuo pripažinimo padarius šiurkštų pažeidimą dienos nepraėjo 3 metai. Taisyklių šiurkščiu pažeidimu laikomas Taisyklių pažeidimas, pripažintas padarytu kultūros įstaigos darbuotojo du ir daugiau kartų per vienus metus, kai toks pažeidimas žemina žmogaus orumą, diskredituoja kultūros įstaigos reputaciją. ^s-882f9012e7a0ea28160f90cf
@@ -496,7 +496,7 @@ PROFESIONALIOJO SCENOS MENO ĮSTAIGŲ KŪRYBINIŲ DARBUOTOJŲ SOCIALINĖS GARANT
 ### 14 straipsnis. Profesionaliojo scenos meno įstaigų kūrybinių darbuotojų socialinės garantijos ^s-78625ad38779ac4284a78024
 
 
-1. [[#^s-c617a1141b383b2a1ea9fe06|Šio straipsnio 2 dalyje]] nurodytiems profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, kurie dėl savo profesijos specifikos negali vykdyti kūrybinės veiklos ir dėl to buvo nutraukta jų darbo sutartis, esant šio straipsnio 4–[[#^s-1758a80c017888249e01efb9|9 dalyse]] nustatytoms sąlygoms, Vyriausybės nustatyta tvarka iš valstybės biudžeto lėšų skiriama ir kas mėnesį mokama 13 bazinių socialinių išmokų dydžio kompensacinė išmoka. ^s-4aa009e3f4bc26fa25181704
+1. [[#^s-c617a1141b383b2a1ea9fe06|Šio straipsnio 2 dalyje]] nurodytiems profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, kurie dėl savo profesijos specifikos negali vykdyti kūrybinės veiklos ir dėl to buvo nutraukta jų darbo sutartis, esant šio straipsnio [[#^s-77e0dd58c98470bf7acf8f85|4]]–[[#^s-1758a80c017888249e01efb9|9]] dalyse nustatytoms sąlygoms, Vyriausybės nustatyta tvarka iš valstybės biudžeto lėšų skiriama ir kas mėnesį mokama 13 bazinių socialinių išmokų dydžio kompensacinė išmoka. ^s-4aa009e3f4bc26fa25181704
 
 
 2. [[#^s-4aa009e3f4bc26fa25181704|Šio straipsnio 1 dalyje]] nurodytos kompensacinės išmokos skiriamos: ^s-c617a1141b383b2a1ea9fe06
@@ -514,10 +514,10 @@ PROFESIONALIOJO SCENOS MENO ĮSTAIGŲ KŪRYBINIŲ DARBUOTOJŲ SOCIALINĖS GARANT
 4) muzikantams, nenurodytiems [[#^s-231406e056e9368cf922a58e|šios dalies 3 punkte]], dirigentams, choro artistams ir aktoriams, turintiems ne mažesnį kaip 30 metų kūrybinio darbo stažą atliekant profesionaliojo scenos meno kūrinius Lietuvos Respublikoje. Į choro artisto kūrybinio darbo stažą atliekant profesionaliojo scenos meno kūrinius Lietuvos Respublikoje įskaitomas solisto vokalisto kūrybinio darbo stažas atliekant profesionaliojo scenos meno kūrinius Lietuvos Respublikoje; ^s-24fe140060f53cc49db0d264
 
 
-5) šios dalies 1–[[#^s-24fe140060f53cc49db0d264|4 punktuose]] nurodytiems kūrybiniams darbuotojams, kuriems buvo nustatytas netekto darbingumo, susijusio su darbe patirta trauma, lygis ar buvo nustatyta profesinė liga, neleidžianti dirbti pagal įgytą specialybę, netaikant šio straipsnio 2 ir [[#^s-77e0dd58c98470bf7acf8f85|4 dalyse]] nustatytų kūrybinio darbo stažo atliekant profesionaliojo scenos meno kūrinius Lietuvos Respublikoje reikalavimų. ^s-2425614effe93f5fcada21c7
+5) šios dalies [[#^s-6dfa139bc67412e488ef5cab|1]]–[[#^s-24fe140060f53cc49db0d264|4]] punktuose nurodytiems kūrybiniams darbuotojams, kuriems buvo nustatytas netekto darbingumo, susijusio su darbe patirta trauma, lygis ar buvo nustatyta profesinė liga, neleidžianti dirbti pagal įgytą specialybę, netaikant šio straipsnio [[#^s-c617a1141b383b2a1ea9fe06|2]] ir [[#^s-77e0dd58c98470bf7acf8f85|4]] dalyse nustatytų kūrybinio darbo stažo atliekant profesionaliojo scenos meno kūrinius Lietuvos Respublikoje reikalavimų. ^s-2425614effe93f5fcada21c7
 
 
-3. Asmenims, kuriems yra paskirtos ir mokamos socialinio draudimo ištarnauto laiko pensijos ar kompensacijos už ypatingas darbo sąlygas, kompensacinės išmokos dalis, apskaičiuota atsižvelgiant į [[#^s-dda30952bcc2781fe8d673cf|šio straipsnio 6 dalies]] nuostatas, skiriama ir mokama netaikant šio straipsnio 2 ir [[#^s-77e0dd58c98470bf7acf8f85|4 dalyse]] nustatytų kūrybinio darbo stažo atliekant profesionaliojo scenos meno kūrinius Lietuvos Respublikoje reikalavimų. ^s-553ccc324540a86e29badb41
+3. Asmenims, kuriems yra paskirtos ir mokamos socialinio draudimo ištarnauto laiko pensijos ar kompensacijos už ypatingas darbo sąlygas, kompensacinės išmokos dalis, apskaičiuota atsižvelgiant į [[#^s-dda30952bcc2781fe8d673cf|šio straipsnio 6 dalies]] nuostatas, skiriama ir mokama netaikant šio straipsnio [[#^s-c617a1141b383b2a1ea9fe06|2]] ir [[#^s-77e0dd58c98470bf7acf8f85|4]] dalyse nustatytų kūrybinio darbo stažo atliekant profesionaliojo scenos meno kūrinius Lietuvos Respublikoje reikalavimų. ^s-553ccc324540a86e29badb41
 
 
 4. Į [[#^s-c617a1141b383b2a1ea9fe06|šio straipsnio 2 dalyje]] nurodytą kūrybinio darbo stažą įtraukiamas laikas, kurį asmuo tarnavo sovietų armijos ir Lietuvos krašto apsaugos sistemos profesionaliajame muzikos ar šokio kolektyve. ^s-77e0dd58c98470bf7acf8f85
@@ -637,7 +637,7 @@ NACIONALINIŲ, VALSTYBINIŲ IR SAVIVALDYBIŲ TEATRŲ IR KONCERTINIŲ ĮSTAIGŲ T
 2) savivaldybės investuotas turtas; ^s-ad37d3eacf76ac965a695833
 
 
-3) iš valstybės ar savivaldybės biudžetų lėšų ir iš šios dalies 4–[[#^s-2257332ecf6489aab3df06bc|6 punktuose]] numatytų lėšų įgytas turtas, išskyrus nekilnojamąjį turtą, įgytą už Europos Sąjungos paramą, valstybės ar savivaldybių biudžetų ir valstybės pinigų fondų lėšas; ^s-5e914ae0affcc6af1c880c42
+3) iš valstybės ar savivaldybės biudžetų lėšų ir iš šios dalies [[#^s-db92f90cd55c92bf418c98ac|4]]–[[#^s-2257332ecf6489aab3df06bc|6]] punktuose numatytų lėšų įgytas turtas, išskyrus nekilnojamąjį turtą, įgytą už Europos Sąjungos paramą, valstybės ar savivaldybių biudžetų ir valstybės pinigų fondų lėšas; ^s-5e914ae0affcc6af1c880c42
 
 
 4) pajamos, gautos už parduotus bilietus, taip pat pajamos iš ūkinės veiklos ir nuomos, šių įstaigų veiklai vykdyti; ^s-db92f90cd55c92bf418c98ac
@@ -658,7 +658,7 @@ NACIONALINIŲ, VALSTYBINIŲ IR SAVIVALDYBIŲ TEATRŲ IR KONCERTINIŲ ĮSTAIGŲ T
 9) turtinės teisės, atsirandančios iš intelektinės veiklos rezultatų; ^s-d80d3e568e24167ef1ecaf48
 
 
-10) pajamos, turtas, gauti valdant, naudojant šios dalies 1–[[#^s-d80d3e568e24167ef1ecaf48|9 punktuose]] nurodytas lėšas ar kitą turtą ir jais disponuojant, išskyrus nekilnojamąjį turtą, įgytą už Europos Sąjungos paramą, valstybės ar savivaldybių biudžetų ir valstybės pinigų fondų lėšas. ^s-12b1986857b829b1900b557d
+10) pajamos, turtas, gauti valdant, naudojant šios dalies [[#^s-745c7ef166817eaf19595dd8|1]]–[[#^s-d80d3e568e24167ef1ecaf48|9]] punktuose nurodytas lėšas ar kitą turtą ir jais disponuojant, išskyrus nekilnojamąjį turtą, įgytą už Europos Sąjungos paramą, valstybės ar savivaldybių biudžetų ir valstybės pinigų fondų lėšas. ^s-12b1986857b829b1900b557d
 
 
 2. Nacionaliniams, valstybiniams ir savivaldybių teatrams ir koncertinėms įstaigoms draudžiama jų valdomu turtu užtikrinti trečiųjų asmenų prievoles. ^s-8ad43330686804b26a3b4fee
@@ -731,7 +731,7 @@ Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 [[#^s-a33
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1841, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21869
-Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 2 ir [[#^s-fcf023887e376647532d5231|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 [[#^s-5be03e9cb38bdd0335cbde49|2]] ir [[#^s-fcf023887e376647532d5231|9]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -756,4 +756,4 @@ Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 pakeitimo
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-573, 2025-11-20, paskelbta TAR 2025-12-04, i. k. 2025-20653
-Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 2, 4, [[#^s-8ba9115ef0dbbbe3384744dd|10 straipsnių]] ir IV skyriaus pavadinimo pakeitimo įstatymas
+Lietuvos Respublikos profesionaliojo scenos meno įstatymo Nr. IX-2257 [[#^s-5be03e9cb38bdd0335cbde49|2]], [[#^s-b7de6476a3b31991c0d54245|4]], [[#^s-8ba9115ef0dbbbe3384744dd|10]] straipsnių ir IV skyriaus pavadinimo pakeitimo įstatymas

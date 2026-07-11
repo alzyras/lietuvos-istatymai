@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo įgy
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.9C9FA25983BC|Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas]] - 3 citatos - Specialiųjų tyrimų tarnybos įstatymo
+- [[latest/TAR.9C9FA25983BC|Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymas]] - 2 citatos - Specialiųjų tyrimų tarnybos įstatymo
 
 ## Šį įstatymą cituoja
 

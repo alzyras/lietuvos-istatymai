@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.389CB90C666D#^s-4269d48995ca5276b982d81d|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - 2 citatos - GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 18 IR 41 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.389CB90C666D#^s-8d5bf839dfff5aa82d1b37fa|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - 2 citatos - GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 18 IR 41 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.389CB90C666D#^s-8d5bf839dfff5aa82d1b37fa|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 18 IR 41 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

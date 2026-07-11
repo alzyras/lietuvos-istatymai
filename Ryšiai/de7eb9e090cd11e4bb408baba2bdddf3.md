@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.065AB8483E1E#^s-af0b77845159af8e2272bd30|Lietuvos Respublikos visuomenės informavimo įstatymas]] - 47 straipsnio 10 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.065AB8483E1E#^s-8c5fd240e1a4daedec3dc6e5|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Įstatymas Nr. XII-1489
-- [[latest/TAR.065AB8483E1E#^s-ab71ed55152049872cec1e28|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Įstatymas Nr. XII-1489
+_Nėra._

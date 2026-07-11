@@ -81,7 +81,7 @@ Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip:
 ### 4 straipsnis. Įstatymo taikymas ^s-f0ebd276f35d1f1a0fb712a2
 
 
-Šio Įstatymo 1, 2 ir [[#^s-884fe9752d1246898b9826ed|3 straipsnių]] nuostatos taikomos apskaičiuojant 2004 metų mokestį už aplinkos teršimą.
+Šio Įstatymo [[#^s-0085e35dd63b8d74bd402039|1]], [[#^s-3f4b9f79b65cbd7c22976e1a|2]] ir [[#^s-884fe9752d1246898b9826ed|3]] straipsnių nuostatos taikomos apskaičiuojant 2004 metų mokestį už aplinkos teršimą.
 
 
 

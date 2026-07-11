@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-b6d4b9e16ee7b6b7b9c4d85a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2010 m. lapkričio 2 d. dekretą Nr. 1K-523, ratifikuoja 2010 m. birželio 23 d. Briuselyje priimtą Protokolą, iš dalies keičiantį Protokolą dėl pereinamojo laikotarpio nuostatų, pridėtą prie Europos Sąjungos sutarties, Sutarties dėl Europos Sąjungos veikimo ir Europos atominės energijos bendrijos steigimo sutarties.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2010 m. lapkričio 2 d. dekretą Nr. 1K-523](https://e-tar.lt/portal/lt/legalAct/TAR.FBB63FF95B37), ratifikuoja 2010 m. birželio 23 d. Briuselyje priimtą Protokolą, iš dalies keičiantį Protokolą dėl pereinamojo laikotarpio nuostatų, pridėtą prie Europos Sąjungos sutarties, Sutarties dėl Europos Sąjungos veikimo ir Europos atominės energijos bendrijos steigimo sutarties.
 
 
 

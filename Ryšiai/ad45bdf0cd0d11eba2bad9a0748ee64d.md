@@ -9,11 +9,14 @@ pavadinimas: "Lietuvos Respublikos užimtumo įstatymo Nr. XII-2470 56 ir 57 str
 
 ## Šis įstatymas cituoja
 
-- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Lietuvos Respublikos darbo kodekse
-- [[latest/TAR.C7E57DF3CEC5#^s-89681e797298defc090ee11b|Lietuvos Respublikos investicijų įstatymas]] - 2 citatos - Investicijų įstatymo 131 straipsnio 3 dalies
+- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos darbo kodekse
+- [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymas]] - Lietuvos Respublikos investicijų įstatymo 13 straipsnio 1 dalies 6 punkto
+- [[latest/TAR.C7E57DF3CEC5#^s-89681e797298defc090ee11b|Lietuvos Respublikos investicijų įstatymas]] - Investicijų įstatymo 131 straipsnio 3 dalies
+- [[latest/422c8b5042b811e6a8ae9e1795984391|Lietuvos Respublikos užimtumo įstatymas]] - 15 citatos - 155 straipsnio 6 dalies
+- [[latest/422c8b5042b811e6a8ae9e1795984391#^s-28948307c543e68b9ca304ce|Lietuvos Respublikos užimtumo įstatymas]] - 2 citatos - 57 straipsnis
 - [[latest/422c8b5042b811e6a8ae9e1795984391#^s-74280f2a70378388ea1215d4|Lietuvos Respublikos užimtumo įstatymas]] - 2 citatos - Lietuvos Respublikos užimtumo įstatymo 56 straipsnio 7 dalies
+- [[latest/422c8b5042b811e6a8ae9e1795984391#^s-a62f5eb3646d41ee7eb7330b|Lietuvos Respublikos užimtumo įstatymas]] - 3 citatos - 55 straipsnyje
 
 ## Šį įstatymą cituoja
 
-- [[latest/422c8b5042b811e6a8ae9e1795984391#^s-3f1824264fc35540f8d2b02c|Lietuvos Respublikos užimtumo įstatymas]] - Įstatymas Nr. XIV-379
-- [[latest/422c8b5042b811e6a8ae9e1795984391#^s-ce3ab9215c7367824839527c|Lietuvos Respublikos užimtumo įstatymas]] - Įstatymas Nr. XIV-379
+_Nėra._

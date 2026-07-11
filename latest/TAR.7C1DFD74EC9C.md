@@ -97,13 +97,13 @@ Pakeisti [[#^s-bd03e02d3b0186695546d472|9 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-bd03e02d3b0186695546d472|9 straipsnis]]. Privatizavimo objekto vertinimas
 
 
-1. Privatizavimo objektas vertinamas Turto ir verslo vertinimo pagrindų įstatyme nurodytais vertės nustatymo metodais ir nustatyta tvarka, išskyrus atvejus, kai šis įstatymas nustato kitaip. ^s-5cbe15b1fcf21bba5187216e
+1. Privatizavimo objektas vertinamas [Turto ir verslo vertinimo pagrindų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nurodytais vertės nustatymo metodais ir nustatyta tvarka, išskyrus atvejus, kai šis įstatymas nustato kitaip. ^s-5cbe15b1fcf21bba5187216e
 
 
 2. Vyriausybė turi teisę nustatyti supaprastintus vertės nustatymo metodus ir jų derinius, kurie privatizavimo institucijos sprendimu gali būti taikomi tais atvejais, kai parduodama mažiau kaip 1/3 įmonės akcijų. ^s-ac722272e8ea80fdc6fd1de5
 
 
-3. Turto ir verslo vertinimo pagrindų įstatyme nurodyti vertės nustatymo metodai privatizavimo institucijos sprendimu gali būti netaikomi viešo akcijų pardavimo ar viešo aukciono būdu parduodamų akcijų vertei nustatyti tais atvejais, kai valstybei ar savivaldybei nuosavybės teise priklauso mažiau kaip 1/3 akcinės bendrovės akcijų ir šios akcinės bendrovės akcijomis yra prekiaujama vertybinių popierių biržoje. Šiuo atveju akcijos vertė yra akcijos rinkos kaina, nustatyta vadovaujantis vertybinių popierių rinką reglamentuojančiais teisės aktais. ^s-54d07187e34973623402648e
+3. [Turto ir verslo vertinimo pagrindų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nurodyti vertės nustatymo metodai privatizavimo institucijos sprendimu gali būti netaikomi viešo akcijų pardavimo ar viešo aukciono būdu parduodamų akcijų vertei nustatyti tais atvejais, kai valstybei ar savivaldybei nuosavybės teise priklauso mažiau kaip 1/3 akcinės bendrovės akcijų ir šios akcinės bendrovės akcijomis yra prekiaujama vertybinių popierių biržoje. Šiuo atveju akcijos vertė yra akcijos rinkos kaina, nustatyta vadovaujantis vertybinių popierių rinką reglamentuojančiais teisės aktais. ^s-54d07187e34973623402648e
 
 
 4. Vertinant valstybei ar savivaldybei nuosavybės teise priklausančius privatizuojamus statinius ir įrenginius ar jų dalis, turi būti įvertintas šiems statiniams ir įrenginiams nustatyta tvarka priskirtas žemės sklypas ar jo dalis. ^s-928af956ad575332d3803d26
@@ -112,7 +112,7 @@ Pakeisti [[#^s-bd03e02d3b0186695546d472|9 straipsnį]] ir jį išdėstyti taip:
 5. Privatizavimo objektą vertina Turto fondas arba viešuosius pirkimus reglamentuojančių teisės aktų nustatyta tvarka parinktos turtą vertinančios įmonės. ^s-8c07a12c106074ee32e061e3
 
 
-6. Turtą vertinantys asmenys teisės aktų ir sutartyje dėl turto įvertinimo nustatyta tvarka atsako už atlikto vertinimo teisingumą, jo atlikimo terminus, taip pat atlygina privatizavimo objekto valdytojui žalą, atsiradusią dėl netinkamai įvykdytų įsipareigojimų.“ ^s-a1984282e4eb903a5cca153a
+6. Turtą vertinantys asmenys teisės aktų ir sutartyje [dėl turto įvertinimo](https://e-tar.lt/portal/lt/legalAct/TAR.ACFFF8505A58) nustatyta tvarka atsako už atlikto vertinimo teisingumą, jo atlikimo terminus, taip pat atlygina privatizavimo objekto valdytojui žalą, atsiradusią dėl netinkamai įvykdytų įsipareigojimų.“ ^s-a1984282e4eb903a5cca153a
 
 
 ### 4 straipsnis. 10 straipsnio 1, 4, 12 dalių pakeitimas ir 11 dalies pripažinimas netekusia galios ^s-4fb2b37a343ede0eb6ef9d4f

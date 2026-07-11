@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-485f8fe1913970ecb2850378
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. spalio 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Budapešto sutartį dėl tarptautinio mikroorganizmų deponavimo pripažinimo patentavimo procedūros reikmėms“, ratifikuoja Budapešto sutartį dėl tarptautinio mikroorganizmų deponavimo pripažinimo patentavimo procedūros reikmėms, pasirašytą 1977 m. balandžio 28 d. Budapešte ir pataisytą 1980 m. rugsėjo 26 d. Budapešte.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. spalio 27 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Budapešto sutartį dėl tarptautinio mikroorganizmų deponavimo pripažinimo patentavimo procedūros reikmėms“](https://e-tar.lt/portal/lt/legalAct/TAR.2B516C4CC5CF), ratifikuoja Budapešto sutartį dėl tarptautinio mikroorganizmų deponavimo pripažinimo patentavimo procedūros reikmėms, pasirašytą 1977 m. balandžio 28 d. Budapešte ir pataisytą 1980 m. rugsėjo 26 d. Budapešte.
 
 
 

@@ -63,10 +63,10 @@ priima šį įstatymą.“
 ### 2 straipsnis. 5 straipsnio pakeitimas ^s-f06073a6f540298e4f30b8ed
 
 
-Pakeisti 5 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.BFB136428878|5 straipsnį]] ir jį išdėstyti taip:
 
 
-„5 straipsnis. Asmenys, prilyginami laisvės kovų dalyviams
+„[[latest/TAR.BFB136428878|5 straipsnis]]. Asmenys, prilyginami laisvės kovų dalyviams
 
 
 Laisvės kovų dalyviams prilygintais asmenimis pripažįstami:

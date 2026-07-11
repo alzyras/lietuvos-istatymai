@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 1, 4, 5, 7, 17
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9E5C5C16B6E6#^s-0ccbd22213fc90c7177d284d|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 1, 4, 5, 7, 17, 19, 20, 21, 24, 25, 36, 43, 44, 46 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.9E5C5C16B6E6#^s-13f371e051ff8112a2b3c8e0|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 1, 4, 5, 7, 17, 19, 20, 21, 24, 25, 36, 43, 44, 46 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.9E5C5C16B6E6#^s-13f371e051ff8112a2b3c8e0|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO 1, 4, 5, 7, 17, 19, 20, 21, 24, 25, 36, 43, 44, 46 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

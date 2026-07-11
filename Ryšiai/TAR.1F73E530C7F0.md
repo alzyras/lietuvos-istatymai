@@ -9,10 +9,9 @@ pavadinimas: "Lietuvos Respublikos produktų saugos įstatymo 1, 3, 4, 7, 8, 9, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A845E65C32A2|Lietuvos Respublikos produktų saugos įstatymas]] - 2 citatos - 1999 m. birželio 1 d. įstatymo Nr. VIII-1206
-- [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - 2 citatos - Vartotojų teisių gynimo įstatymas
+- [[latest/TAR.A845E65C32A2|Lietuvos Respublikos produktų saugos įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS PRODUKTŲ SAUGOS ĮSTATYMAS
+- [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - Vartotojų teisių gynimo įstatymas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A845E65C32A2#^s-1999017a18db2440beb94615|Lietuvos Respublikos produktų saugos įstatymas]] - 3 citatos - 1041010ISTA0IX-1988
-- [[latest/TAR.A845E65C32A2#^s-f371fc80f44e73970e10f231|Lietuvos Respublikos produktų saugos įstatymas]] - 3 citatos - 1041010ISTA0IX-1988
+- [[latest/TAR.A845E65C32A2#^s-1999017a18db2440beb94615|Lietuvos Respublikos produktų saugos įstatymas]] - 2 citatos - 1041010ISTA0IX-1988

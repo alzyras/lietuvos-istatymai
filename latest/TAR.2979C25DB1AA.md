@@ -59,7 +59,7 @@ Vilnius
 ### 3 straipsnis. 10 straipsnio 3 dalies pakeitimas ^s-2f988ca4b27fedca071fa009
 
 
-10 straipsnio 3 dalyje vietoj žodžių „žemės nuomos įstatymo“ įrašyti žodžius „civilinio kodekso“ ir šią dalį išdėstyti taip:
+10 straipsnio 3 dalyje vietoj žodžių [„žemės nuomos įstatymo“](https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC) įrašyti žodžius „civilinio kodekso“ ir šią dalį išdėstyti taip:
 
 
 „3. Investuotojai gali išsinuomoti valstybei nuosavybės teise priklausančius žemės sklypus Lietuvos Respublikos civilinio kodekso nustatyta tvarka.“

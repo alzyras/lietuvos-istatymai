@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-db4655bb095fdb9c4df78da3
 
 
-Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. kovo 12 d. dekretą Nr. 885, ratifikuoja Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl Druskininkų sanatorijos „Baltarusija“, pasirašytą 1995 m. vasario 6 d. Vilniuje.
+Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento [1996 m. kovo 12 d. dekretą Nr. 885](https://e-tar.lt/portal/lt/legalAct/TAR.F0DB46D0764D), ratifikuoja Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl Druskininkų sanatorijos „Baltarusija“, pasirašytą 1995 m. vasario 6 d. Vilniuje.
 
 
 

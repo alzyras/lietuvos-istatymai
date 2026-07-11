@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-fafb6260245fab6474973f1e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 14 d. dekretą Nr. 342, ratifikuoja Tarptautinės darbo organizacijos 1981 metų 156-ąją Konvenciją dėl pareigų šeimai turinčių darbuotojų – vyrų ir moterų – lygių galimybių ir vienodo požiūrio į juos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. sausio 14 d. dekretą Nr. 342](https://e-tar.lt/portal/lt/legalAct/TAR.54631DF1744D), ratifikuoja Tarptautinės darbo organizacijos 1981 metų 156-ąją Konvenciją dėl pareigų šeimai turinčių darbuotojų – vyrų ir moterų – lygių galimybių ir vienodo požiūrio į juos.
 
 
 

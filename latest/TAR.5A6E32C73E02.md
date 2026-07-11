@@ -56,7 +56,7 @@ Vilnius
 3) per paskutinius vienus metus jam buvo skirtos administracinės nuobaudos už aviacijos saugumo reikalavimų pažeidimus; ^s-2d5fb772811827496bd24484
 
 
-4) jam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai; ^s-588d1c34831f925137db9bf1
+4) jam [Organizuoto nusikalstamumo užkardymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.67E8ECAA4910) nustatyta tvarka taikomi teismo įpareigojimai; ^s-588d1c34831f925137db9bf1
 
 
 5) buvo nuteistas už baudžiamąjį nusižengimą ir yra neatlikęs paskirtos bausmės (išskyrus atvejus, kai asmuo atleistas nuo bausmės atlikimo); ^s-9609623c2d48578b0083f5d5
@@ -86,7 +86,7 @@ Vilnius
 Pakeisti Įstatymo priedo 18 punktą ir jį išdėstyti taip:
 
 
-„18. 2010 m. kovo 4 d. Komisijos reglamentas (ES) Nr. 185/2010, kuriuo nustatomos išsamios priemonės bendriesiems pagrindiniams aviacijos saugumo standartams įgyvendinti (OL 2010 L 55, p. 1), su paskutiniais pakeitimais, padarytais 2012 m. lapkričio 9 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 1082/2012 (OL 2012 L 324, p. 25).“
+„18. 2010 m. kovo 4 d. Komisijos reglamentas (ES) Nr. 185/2010, kuriuo nustatomos išsamios priemonės bendriesiems pagrindiniams aviacijos saugumo standartams įgyvendinti (OL 2010 L 55, p. 1), su paskutiniais pakeitimais, padarytais 2012 m. lapkričio 9 d. Komisijos įgyvendinimo [reglamentu (ES) Nr. 1082/2012](https://eur-lex.europa.eu/eli/reg/1082/2012/oj) (OL 2012 L 324, p. 25).“
 
 
 ### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-bf2a3ecefa28546c5e867884

@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Statuto ratifikavimas ^s-6cdde37d4dea796ab0515e86
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 24 d. dekretą Nr. 719, ratifikuoja 1940 m. kovo 15 d. Romoje priimtą Tarptautinio privatinės teisės unifikavimo instituto (UNIDROIT) statutą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. rugpjūčio 24 d. dekretą Nr. 719](https://e-tar.lt/portal/lt/legalAct/TAR.20C14E15E669), ratifikuoja 1940 m. kovo 15 d. Romoje priimtą Tarptautinio privatinės teisės unifikavimo instituto (UNIDROIT) statutą.
 
 
 

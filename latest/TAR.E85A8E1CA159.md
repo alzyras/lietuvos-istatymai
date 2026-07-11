@@ -46,7 +46,7 @@ Vilnius
 1. Papildyti [[#^s-0cf09c74854db9f9154ee049|2 straipsnį]] nauja 23 dalimi: ^s-85a47df2d160e199fa24c4b9
 
 
-„23. Kreditingumo vertinimo paslaugos – asmens mokumo, finansinės rizikos vertinimo ir įsiskolinimo valdymo tikslais atliekamas reikalingų duomenų tvarkymas, asmens mokumo ir finansinės rizikos vertinimas, taip pat asmens kreditingumo reitingo (balo), išskyrus kredito reitingus, kuriems taikomas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų, nustatymas.“
+„23. Kreditingumo vertinimo paslaugos – asmens mokumo, finansinės rizikos vertinimo ir įsiskolinimo valdymo tikslais atliekamas reikalingų duomenų tvarkymas, asmens mokumo ir finansinės rizikos vertinimas, taip pat asmens kreditingumo reitingo (balo), išskyrus kredito reitingus, kuriems taikomas Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) dėl kredito reitingų agentūrų, nustatymas.“
 
 
 2. Buvusias [[#^s-0cf09c74854db9f9154ee049|2 straipsnio]] 23–42 dalis laikyti atitinkamai 24–43 dalimis. ^s-3d6a27712b6ee74f7abd2e49

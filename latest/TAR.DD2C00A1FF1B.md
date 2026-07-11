@@ -38,7 +38,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-fc711b0e9f32981c51303aeb
-GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO PAPILDYMAS 13 STRAIPSNIU, 14 IR 18 STRAIPSNIŲ PAKEITIMAS
+[[latest/TAR.9D04F98F7C14|GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO]] PAPILDYMAS 13 STRAIPSNIU, [[latest/TAR.9D04F98F7C14|14]] IR [[latest/TAR.9D04F98F7C14|18]] STRAIPSNIŲ PAKEITIMAS
 
 
 
@@ -54,7 +54,7 @@ Papildyti Įstatymą 13 straipsniu:
 1. Savivaldybės (valstybės) nuomojamas gyvenamąsias patalpas privatizuoja (perka) lengvatinėmis sąlygomis jų nuomininkai, kurie iškeldinti iš savininkams sugrąžintų gyvenamųjų patalpų, taip pat nuomininkai, likę gyventi tose gyvenamosiose patalpose, kurių savininkai nenori susigrąžinti. Privatizavimo (pardavimo) sąlygas ir tvarką nustato [[latest/TAR.8A16A03D98D4|Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymas]] ir [[latest/TAR.542D2FA3CA61|Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymas]]. ^s-c0a42b11412547ef559c029a
 
 
-2. Valstybės (savivaldybės) gyvenamosios patalpos gali būti privatizuojamos (parduodamos) laikantis sąlygos, kad jų pardavimo kaina nebūtų didesnė nei kaina, kuri Lietuvos Respublikos butų privatizavimo įstatymo nustatyta tvarka galėjo būti apskaičiuota iki 1998 m. liepos 1 d. ir patikslinta atsižvelgiant į infliaciją šiais atvejais: ^s-9f3f58b594bb0315648d9ce8
+2. Valstybės (savivaldybės) gyvenamosios patalpos gali būti privatizuojamos (parduodamos) laikantis sąlygos, kad jų pardavimo kaina nebūtų didesnė nei kaina, kuri Lietuvos Respublikos [butų privatizavimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.6F32E17A217F) nustatyta tvarka galėjo būti apskaičiuota iki 1998 m. liepos 1 d. ir patikslinta atsižvelgiant į infliaciją šiais atvejais: ^s-9f3f58b594bb0315648d9ce8
 
 
 1) kai privatizuoja nuomininkai, kuriems įstatymo nustatyta tvarka iki 1998 m. liepos 1 d. Seimo sudaryta komisija buvo išdavusi leidimus privatizuoti nuomojamas gyvenamąsias patalpas pagal Lietuvos Respublikos butų privatizavimo įstatymą; ^s-8978d847836a9ce08226e53b
@@ -90,7 +90,7 @@ Papildyti Įstatymą 13 straipsniu:
 4) per 60 procentų fiziškai susidėvėję nuomojami vienbučiai gyvenamieji namai, jų dalys (ir jų priklausiniai) jų nuomininkams, jeigu šių namų atstatomasis remontas ar rekonstrukcija savivaldybei (valstybei) yra ekonomiškai nenaudingi arba tam savivaldybė (valstybė) neturi lėšų. ^s-597bd29359789c4ec1009e34
 
 
-4. Už privatizuojamas (parduodamas) gyvenamąsias patalpas pagal šio straipsnio 2 ir [[#^s-0326b32d9e94ebb1d7b8ef87|3 dalyse]] nurodytas sąlygas atsiskaitoma grynaisiais pinigais, sumokant nustatytą sumą iš karto arba išsimokėtinai per laikotarpį iki 10 metų. Privatizavimo (pardavimo), taip pat lėšų, gautų už privatizuojamas (parduodamas) gyvenamąsias patalpas, apskaitos ir naudojimo tvarką nustato Vyriausybė.“ ^s-9a7bdc623f20501d91273fa8
+4. Už privatizuojamas (parduodamas) gyvenamąsias patalpas pagal šio straipsnio [[#^s-9f3f58b594bb0315648d9ce8|2]] ir [[#^s-0326b32d9e94ebb1d7b8ef87|3]] dalyse nurodytas sąlygas atsiskaitoma grynaisiais pinigais, sumokant nustatytą sumą iš karto arba išsimokėtinai per laikotarpį iki 10 metų. Privatizavimo (pardavimo), taip pat lėšų, gautų už privatizuojamas (parduodamas) gyvenamąsias patalpas, apskaitos ir naudojimo tvarką nustato Vyriausybė.“ ^s-9a7bdc623f20501d91273fa8
 
 
 
@@ -115,7 +115,7 @@ Papildyti Įstatymą 13 straipsniu:
 
 
 ### ANTRASIS SKIRSNIS ^s-f4d41dfff7f686db02f8a11a
-LIETUVOS RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO BEI LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS – ATKURIAMOJO SEIMO NUTARIMO „DĖL LIETUVOS RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO ĮSIGALIOJIMO“ PRIPAŽINIMO NETEKUSIAIS GALIOS
+LIETUVOS RESPUBLIKOS [BUTŲ PRIVATIZAVIMO ĮSTATYMO](https://e-tar.lt/portal/lt/legalAct/TAR.6F32E17A217F) BEI LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS – ATKURIAMOJO SEIMO NUTARIMO [„DĖL LIETUVOS RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO ĮSIGALIOJIMO“](https://e-tar.lt/portal/lt/legalAct/TAR.83E0BEB47111) PRIPAŽINIMO NETEKUSIAIS GALIOS
 
 
 
@@ -128,7 +128,7 @@ Pripažinti netekusiais galios:
 1) Lietuvos Respublikos butų privatizavimo įstatymą (Žin., 1991, Nr. 17-449, Nr. 22-576; 1992, Nr. 3-36, Nr. 30-920; 1993, Nr. 12-293, Nr. 32-722, Nr. 70-1308; 1994, Nr. 14-231, Nr. 40-717, Nr. 85-1606; 1995, Nr. 59-1472; 1996, Nr. 30-733, Nr. 68-1643; 1997, Nr. 39-954, Nr. 96-2430; 1998, Nr. 65-1876); ^s-27dd860b48ae73aec3d7fb76
 
 
-2) Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo nutarimą „Dėl Lietuvos Respublikos butų privatizavimo įstatymo įsigaliojimo“ (Žin., 1991, Nr. 17-452; 1992, Nr. 30-921; 1993, Nr. 12-294, Nr. 70-1309; 1994, Nr. 40-718, Nr. 85-1607; 1995, Nr. 59-1487; 1996, Nr. 68-1644; 1997, Nr. 39-955). ^s-c9af38479dea8d3837ff6245
+2) Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo nutarimą [„Dėl Lietuvos Respublikos butų privatizavimo įstatymo įsigaliojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.83E0BEB47111) (Žin., 1991, Nr. 17-452; 1992, Nr. 30-921; 1993, Nr. 12-294, Nr. 70-1309; 1994, Nr. 40-718, Nr. 85-1607; 1995, Nr. 59-1487; 1996, Nr. 68-1644; 1997, Nr. 39-955). ^s-c9af38479dea8d3837ff6245
 
 
 

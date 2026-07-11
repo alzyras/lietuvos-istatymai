@@ -124,10 +124,10 @@ SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMŲ VALSTYBĖS BIUDŽETO DOTACIJŲ IR PROGNOZUOJ
 1. Valstybės biudžeto bendroji dotacija (BD) savivaldybių biudžetams skiriama: ^s-df1b011a30ee41c69e5f009e
 
 
-1) savivaldybių gyventojų pajamų mokesčiui išlyginti (BD1), kai prognozuojama, kad trūks šiam tikslui lėšų, apskaičiuotų pagal šio Įstatymo 6 ir [[#^s-503e899c3796d7111967c820|7 straipsnius]] (kai åL1i > åPi, tai BD1 = åL1i – åPi; kai åL1i < = åPi, tai BD1 = 0); ^s-1d63e4f788deb6479907dade
+1) savivaldybių gyventojų pajamų mokesčiui išlyginti (BD1), kai prognozuojama, kad trūks šiam tikslui lėšų, apskaičiuotų pagal šio Įstatymo [[#^s-19c710d80ab81db789d7c41f|6]] ir [[#^s-503e899c3796d7111967c820|7]] straipsnius (kai åL1i > åPi, tai BD1 = åL1i – åPi; kai åL1i < = åPi, tai BD1 = 0); ^s-1d63e4f788deb6479907dade
 
 
-2) savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti (BD2), kai prognozuojama, kad šiam tikslui trūks lėšų, apskaičiuotų pagal šio Įstatymo 6 ir [[#^s-fc4e094c1e47636d994ea06a|8 straipsnius]] (kai L2 = 0, tai BD2 = 0,1 BD1). ^s-e32e4afb406ad14b104c3513
+2) savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti (BD2), kai prognozuojama, kad šiam tikslui trūks lėšų, apskaičiuotų pagal šio Įstatymo [[#^s-19c710d80ab81db789d7c41f|6]] ir [[#^s-fc4e094c1e47636d994ea06a|8]] straipsnius (kai L2 = 0, tai BD2 = 0,1 BD1). ^s-e32e4afb406ad14b104c3513
 
 
 2. Valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams skiriamos: ^s-730ae60cc9a33d33d2303e89
@@ -412,7 +412,7 @@ Nr. XIII-2648, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20989
 
 
 
-7) savivaldybės biudžetui skiriamą gyventojų pajamų mokesčio dalį (procentais), kuri apskaičiuojama kaip savivaldybei prognozuojamų pajamų iš gyventojų pajamų mokesčio, apskaičiuotų pagal šios dalies 2 ir [[#^s-8c9aa2708bdaf5c7eedc96b2|6 punktus]], šio Įstatymo 7 ir [[#^s-fc4e094c1e47636d994ea06a|8 straipsnius]], santykis su visoms savivaldybėms prognozuojamomis pajamomis iš gyventojų pajamų mokesčio, apskaičiuotomis pagal šios dalies 1 ir [[#^s-a2aae8a6a7e6fdf84e1137d6|2 punktus]], išreikštas procentais; ^s-de94e6ef7e97220fe7e62dae
+7) savivaldybės biudžetui skiriamą gyventojų pajamų mokesčio dalį (procentais), kuri apskaičiuojama kaip savivaldybei prognozuojamų pajamų iš gyventojų pajamų mokesčio, apskaičiuotų pagal šios dalies [[#^s-a2aae8a6a7e6fdf84e1137d6|2]] ir [[#^s-8c9aa2708bdaf5c7eedc96b2|6]] punktus, šio Įstatymo [[#^s-503e899c3796d7111967c820|7]] ir [[#^s-fc4e094c1e47636d994ea06a|8]] straipsnius, santykis su visoms savivaldybėms prognozuojamomis pajamomis iš gyventojų pajamų mokesčio, apskaičiuotomis pagal šios dalies [[#^s-c8cb34b6e86caef6deac2cd4|1]] ir [[#^s-a2aae8a6a7e6fdf84e1137d6|2]] punktus, išreikštas procentais; ^s-de94e6ef7e97220fe7e62dae
 TAR pastaba. 7 papunkčio nuostatos taikomos rengiant ir tvirtinant Lietuvos Respublikos 2022 metų ir vėlesnių metų valstybės biudžeto ir savivaldybių biudžetų finansinius rodiklius.
 Straipsnio punkto pakeitimai:
 Nr. XIII-2099, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07406
@@ -446,7 +446,7 @@ Nr. XIII-2099, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07406
 
 
 
-4. Faktiškai gautas į Valstybinės mokesčių inspekcijos surenkamąją sąskaitą iš gyventojų pajamų mokesčio lėšas, nurodytas šio Įstatymo [[#^s-53a4a93b9b25177616600c07|3 straipsnio 2 punkte]], Valstybinė mokesčių inspekcija ne rečiau kaip du kartus per mėnesį perveda savivaldybėms pagal atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme savivaldybės biudžetui patvirtintą gyventojų pajamų mokesčio dalį (procentais). ^s-c7da22b85802985001387fc6
+4. Faktiškai gautas į Valstybinės mokesčių inspekcijos surenkamąją sąskaitą iš gyventojų pajamų mokesčio lėšas, nurodytas šio Įstatymo 3 straipsnio 2 punkte, Valstybinė mokesčių inspekcija ne rečiau kaip du kartus per mėnesį perveda savivaldybėms pagal atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme savivaldybės biudžetui patvirtintą gyventojų pajamų mokesčio dalį (procentais). ^s-c7da22b85802985001387fc6
 Straipsnio dalies pakeitimai:
 Nr. XIII-84, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29272
 
@@ -601,7 +601,7 @@ Nr. X-1359, 2007-12-06, Žin., 2007, Nr. 132-5361 (2007-12-15)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1683, 2008-07-03, Žin., 2008, Nr. 81-3184 (2008-07-17)
 [[latest/TAR.A5D25DCF84A0|SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 9 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo [[#^s-734140fc2b1594631be35138|1 straipsnyje]] išdėstytos [[#^s-74f5cfaf10617b01f7efea34|Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 9 straipsnio 1 dalies]] 8 ir 9 punktuose nurodyti rodikliai R8 ir R9 ir koeficientai K8 ir K9 pradedami taikyti rengiant [[latest/TAR.D641C5B5ADFD|Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo]] projektą.
+Šio įstatymo [[#^s-734140fc2b1594631be35138|1 straipsnyje]] išdėstytos [[#^s-74f5cfaf10617b01f7efea34|Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 9 straipsnio 1 dalies]] [[#^s-f4cfe81a8d1f231211a603e3|8]] ir [[#^s-e9360a752dd66b9791b41484|9]] punktuose nurodyti rodikliai R8 ir R9 ir koeficientai K8 ir K9 pradedami taikyti rengiant [[latest/TAR.D641C5B5ADFD|Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo]] projektą.
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -668,17 +668,17 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2144, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19846
-Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 3, 8, 9, 10, [[#^s-48b5404d6705cb69c1548173|12 straipsnių]] pakeitimo, Įstatymo papildymo 9-1 straipsniu ir priedėlio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 [[#^s-a1f83feb6e38609b03266b16|3]], [[#^s-fc4e094c1e47636d994ea06a|8]], [[#^s-ee6fb304b4bfd2e1867219d7|9]], [[#^s-d2770e5685fd5438641d378a|10]], [[#^s-48b5404d6705cb69c1548173|12]] straipsnių pakeitimo, Įstatymo papildymo 9-1 straipsniu ir priedėlio pripažinimo netekusiu galios įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-84, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29272
-Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 3, 10, [[#^s-48b5404d6705cb69c1548173|12 straipsnių]] ir trečiojo skirsnio pakeitimo įstatymas
+Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 [[#^s-a1f83feb6e38609b03266b16|3]], [[#^s-d2770e5685fd5438641d378a|10]], [[#^s-48b5404d6705cb69c1548173|12]] straipsnių ir trečiojo skirsnio pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-808, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20002
-Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 5, [[#^s-d2770e5685fd5438641d378a|10 straipsnių]] pakeitimo ir [[#^s-48b5404d6705cb69c1548173|12 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 [[#^s-b6b397909d193fdd9432fe8d|5]], [[#^s-d2770e5685fd5438641d378a|10]] straipsnių pakeitimo ir [[#^s-48b5404d6705cb69c1548173|12 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -688,7 +688,7 @@ Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstat
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2099, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07406
-Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 5, [[#^s-d2770e5685fd5438641d378a|10 straipsnių]] pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
+Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 [[#^s-b6b397909d193fdd9432fe8d|5]], [[#^s-d2770e5685fd5438641d378a|10]] straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -703,4 +703,4 @@ Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstat
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-744, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26574
-Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 2, 5, 9-1, [[#^s-d2770e5685fd5438641d378a|10 straipsnių]] ir penktojo skirsnio pakeitimo ir 10-1 straipsnio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymo Nr. VIII-385 [[#^s-b595348037884f1f602c8e18|2]], [[#^s-b6b397909d193fdd9432fe8d|5]], 9-1, [[#^s-d2770e5685fd5438641d378a|10]] straipsnių ir penktojo skirsnio pakeitimo ir 10-1 straipsnio pripažinimo netekusiu galios įstatymas

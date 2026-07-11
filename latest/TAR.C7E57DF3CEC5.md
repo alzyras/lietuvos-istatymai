@@ -211,7 +211,7 @@ Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
 
 
 24. Stambaus projekto tęstinumo laikotarpis – ne ilgesnis kaip 20 metų laikotarpis nuo stambaus projekto įgyvendinimo termino pabaigos, per kurį toliau vykdomi stambaus projekto investicijų sutartyje numatyti įsipareigojimai. ^s-7637041fd5804899f59b12cc
-TAR pastaba. [[#^s-7637041fd5804899f59b12cc|2 straipsnio 24 dalies]] nuostatos taikomos stambiems projektams, kuriems stambaus projekto statusas suteikiamas po 2025 m. lapkričio 1 d.
+TAR pastaba. 2 straipsnio 24 dalies nuostatos taikomos stambiems projektams, kuriems stambaus projekto statusas suteikiamas po 2025 m. lapkričio 1 d.
 Papildyta straipsnio dalimi:
 Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
 Straipsnio dalies pakeitimai:
@@ -363,7 +363,7 @@ INVESTUOTOJŲ TEISĖS IR INVESTICIJŲ APSAUGA
 1. Investavimo objekto atlygintinas paėmimas galimas tik Lietuvos Respublikos įstatymų nustatytais atvejais ir tvarka ir tik visuomenės poreikiams, investuotojui (investuotojams) teisingai atlyginant Vyriausybės nustatyta tvarka. ^s-8b64015f9310823b2bb922a9
 
 
-2. Atlyginimo už paimtą investavimo objektą dydis nustatomas Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymu ir kitais teisės aktais nustatyta tvarka ir turi atitikti jo rinkos vertę, buvusią prieš pat atlygintiną paėmimą arba prieš viešą paskelbimą apie tai, atsižvelgiant, kas pirmiau įvyksta (toliau – vertinimo dieną). Atlyginimas turi būti išmokamas ne vėliau kaip per 3 mėnesius nuo investavimo objekto atlygintino paėmimo dienos Lietuvos nacionaline valiuta. Į atlyginimo sumą įskaičiuojamos palūkanos, lygios Vyriausybės vertybinių popierių, kurių trukmė iki vienerių metų, aukcionų, įvykusių praėjusį kalendorinį ketvirtį, metinės palūkanų normos aritmetiniam svertiniam vidurkiui per laikotarpį nuo investavimo objekto atlygintino paėmimo iki atlyginimo išmokėjimo dienos (toliau vėlavimo laikotarpiui). ^s-fb6aee2a6915db67f14062a4
+2. Atlyginimo už paimtą investavimo objektą dydis nustatomas [Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) ir kitais teisės aktais nustatyta tvarka ir turi atitikti jo rinkos vertę, buvusią prieš pat atlygintiną paėmimą arba prieš viešą paskelbimą apie tai, atsižvelgiant, kas pirmiau įvyksta (toliau – vertinimo dieną). Atlyginimas turi būti išmokamas ne vėliau kaip per 3 mėnesius nuo investavimo objekto atlygintino paėmimo dienos Lietuvos nacionaline valiuta. Į atlyginimo sumą įskaičiuojamos palūkanos, lygios Vyriausybės vertybinių popierių, kurių trukmė iki vienerių metų, aukcionų, įvykusių praėjusį kalendorinį ketvirtį, metinės palūkanų normos aritmetiniam svertiniam vidurkiui per laikotarpį nuo investavimo objekto atlygintino paėmimo iki atlyginimo išmokėjimo dienos (toliau vėlavimo laikotarpiui). ^s-fb6aee2a6915db67f14062a4
 
 
 3. Užsienio investuotojo prašymu atlyginimas jam išmokamas bet kuria užsienio valiuta, dėl kurios yra skelbiama Londono tarpbankinės rinkos skolinimosi palūkanų norma (LIBOR). Atlyginimo suma perskaičiuojama pagal Europos centrinio banko skelbtą oficialų euro ir užsienio valiutų kursą vertinimo dieną, o tais atvejais, kai orientacinio euro ir užsienio valiutų santykio Europos centrinis bankas neskelbia, – pagal Lietuvos banko skelbiamą orientacinį euro ir užsienio valiutų santykį. Ūkiniai įvykiai ir ūkinės operacijos, kurių buvimas ir atlikimas ar rezultatų įforminimas Lietuvos Respublikos teisės aktų nustatyta tvarka susijęs su užsienio valiuta, apskaitoje perskaičiuojami į eurus pagal Lietuvos banko skelbiamą orientacinį euro ir užsienio valiutų santykį, jeigu kiti teisės aktai nenustato kitaip. Lietuvos banko paskelbtas orientacinis euro ir užsienio valiutų santykis apskaitoje taikomas nuo kitos darbo dienos po jo paskelbimo. ^s-e190e1f82e74a72800ec8875
@@ -535,7 +535,7 @@ Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
 1. Investuotojai Lietuvos Respublikoje turi teisę įsigyti nuosavybėn visų rūšių nekilnojamąjį turtą. ^s-fd19119f7e9a3c63d5610277
 
 
-2. Lietuvos Respublikos juridiniams asmenims, užsienio fiziniams ir juridiniams asmenims investavimo įsigyjant nuosavybėn žemę tvarką ir sąlygas nustato Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų konstitucinis įstatymas. ^s-7661004e0385e5e4714e3eaa
+2. Lietuvos Respublikos juridiniams asmenims, užsienio fiziniams ir juridiniams asmenims investavimo įsigyjant nuosavybėn žemę tvarką ir sąlygas nustato [Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų konstitucinis įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.73F76F9D2EF1). ^s-7661004e0385e5e4714e3eaa
 
 
 3. Investuotojai gali išsinuomoti valstybei nuosavybės teise priklausančius žemės sklypus Lietuvos Respublikos civilinio kodekso nustatyta tvarka. ^s-104385c4a4346813f7b1b6d5
@@ -660,7 +660,7 @@ Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
 12) dėl investicijų į stambius projektus sudaromos stambių projektų investicijų sutartys; ^s-e2a89471a31ef87bcaca5f00
 
 
-13) laisvųjų ekonominių zonų įmonėms taikomos šio įstatymo [[#^s-34aeba11e2b7d8d079110340|157 straipsnio]] 3, [[#^s-b15017d355794145e5699920|4 dalyse]], 6 dalies 1, [[#^s-6d4845f8db1f03006fd239cc|2 punktuose]] ir 9 dalyje numatytos specialios investavimo ir verslo sąlygos; ^s-43a2c194f10922979d275706
+13) laisvųjų ekonominių zonų įmonėms taikomos šio įstatymo [[#^s-34aeba11e2b7d8d079110340|157 straipsnio]] [[#^s-2b0f1da142e2672ebda1414a|3]], [[#^s-8dbf870ceadecbd7bdce33b0|4]] dalyse, 6 dalies 1, 2 punktuose ir 9 dalyje numatytos specialios investavimo ir verslo sąlygos; ^s-43a2c194f10922979d275706
 Straipsnio punkto pakeitimai:
 Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
 Nr. XV-380, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12035
@@ -691,7 +691,7 @@ Nr. XV-380, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12035
 4. [[#^s-64c9f1acb03a172e0385f534|Šio straipsnio 3 dalyje]] nurodytą investicijų projektų koordinavimą, informacijos teikimą, taip pat investicijų projektų, kuriems lėšos skiriamos iš valstybės biudžeto, išskyrus Europos Sąjungos ir kitos finansinės paramos lėšas, įgyvendinimo kontrolę vykdo, konsultacijas tiesioginių užsienio investicijų pritraukimo į šalies gamybos ir paslaugų sektorius klausimais ir informaciją apie investicijų aplinką Lietuvos ūkio subjektams ir užsienio investuotojams teikia Lietuvos Respublikos Vyriausybės įgaliota viešoji įstaiga, kurios savininko teises ir pareigas įgyvendina Lietuvos Respublikos ekonomikos ir inovacijų ministerija. ^s-b15017d355794145e5699920
 
 
-5. Šio straipsnio 3 ir [[#^s-b15017d355794145e5699920|4 dalyse]] nustatyta veikla finansuojama iš Lietuvos Respublikos ekonomikos ir inovacijų ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų. ^s-6bc6655538dac099e6a525b2
+5. Šio straipsnio [[#^s-64c9f1acb03a172e0385f534|3]] ir [[#^s-b15017d355794145e5699920|4]] dalyse nustatyta veikla finansuojama iš Lietuvos Respublikos ekonomikos ir inovacijų ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų. ^s-6bc6655538dac099e6a525b2
 
 
 Straipsnio pakeitimai:
@@ -748,7 +748,7 @@ Nr. XIV-2442, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25935
 3) yra investuotojas arba investuotojo dalyvis, kuriam nuosavybės teise priklauso ne mažiau kaip 1/10 Lietuvos Respublikoje įsteigtos įmonės, kurioje pagal investicijų sutartį Lietuvos Respublikoje numatytos sukurti darbo vietos, įstatinio kapitalo ir kurio investuotos lėšos į šią įmonę sudaro ne mažiau kaip 14 000 eurų, arba ^s-2a2c1ad1eb7203f7087e531d
 
 
-4) yra šios dalies 1, 2 ar [[#^s-2a2c1ad1eb7203f7087e531d|3 punkte]] nurodytas sąlygas atitinkančio užsieniečio šeimos narys, kaip tai apibrėžta Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“ (toliau šiame straipsnyje – šeimos narys). ^s-7cf982e6a8cda0c189283fb7
+4) yra šios dalies [[#^s-90343c7726a2a424d4820b05|1]], [[#^s-2deffe0efe3b004bfbf4cfe2|2]] ar [[#^s-2a2c1ad1eb7203f7087e531d|3]] punkte nurodytas sąlygas atitinkančio užsieniečio šeimos narys, kaip tai apibrėžta Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“ (toliau šiame straipsnyje – šeimos narys). ^s-7cf982e6a8cda0c189283fb7
 
 
 4. Leidimas laikinai gyventi Lietuvos Respublikoje gali būti keičiamas, jeigu: ^s-b30296d035879ccacde58435
@@ -769,7 +769,7 @@ Nr. XV-380, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12035
 
 
 
-7. Šio straipsnio 3 ar [[#^s-b30296d035879ccacde58435|4 dalyje]] nurodyto užsieniečio prašymas išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje išnagrinėjamas ne vėliau kaip per du mėnesius nuo prašymo išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje pateikimo dienos. Užsienietis, esantis ne Lietuvos Respublikoje, prašymą išduoti leidimą laikinai gyventi pateikia per Migracijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas) pasirinktą išorės paslaugų teikėją. Užsienietis, esantis Lietuvos Respublikos teritorijoje teisėtai, prašymą išduoti leidimą laikinai gyventi pateikia Migracijos departamentui. ^s-13bf92ac5885a83e3da17d09
+7. Šio straipsnio [[#^s-89681e797298defc090ee11b|3]] ar [[#^s-b30296d035879ccacde58435|4]] dalyje nurodyto užsieniečio prašymas išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje išnagrinėjamas ne vėliau kaip per du mėnesius nuo prašymo išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje pateikimo dienos. Užsienietis, esantis ne Lietuvos Respublikoje, prašymą išduoti leidimą laikinai gyventi pateikia per Migracijos departamento prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – Migracijos departamentas) pasirinktą išorės paslaugų teikėją. Užsienietis, esantis Lietuvos Respublikos teritorijoje teisėtai, prašymą išduoti leidimą laikinai gyventi pateikia Migracijos departamentui. ^s-13bf92ac5885a83e3da17d09
 Straipsnio dalies pakeitimai:
 Nr. XIV-1289, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15439
 
@@ -778,7 +778,7 @@ Nr. XIV-1289, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15439
 8. [[#^s-89681e797298defc090ee11b|Šio straipsnio 3 dalyje]] nurodytam užsieniečiui leidimas laikinai gyventi Lietuvos Respublikoje išduodamas ar keičiamas trejiems metams, o jeigu jo darbas Lietuvos Respublikoje truks trumpiau negu trejus metus, – darbo Lietuvos Respublikoje laikotarpiui. Leidimo laikinai gyventi Lietuvos Respublikoje galiojimo laikotarpis negali būti ilgesnis už investicijų sutarties galiojimo terminą. ^s-7e48e3c697bf412e48907dc9
 
 
-9. Šeimos narys, atvykstantis gyventi į Lietuvos Respubliką kartu su užsieniečiu, kuris dėl leidimo laikinai gyventi Lietuvos Respublikoje išdavimo kreipiasi [[#^s-89681e797298defc090ee11b|šio straipsnio 3 dalyje]] nustatytu pagrindu, arba pas užsienietį, kuris turi leidimą laikinai gyventi Lietuvos Respublikoje šio straipsnio 3 ar [[#^s-b30296d035879ccacde58435|4 dalyje]] nustatytu pagrindu, dėl leidimo laikinai gyventi Lietuvos Respublikoje išdavimo gali kreiptis kartu su šiuo užsieniečiu arba gali kreiptis vienas iš pilnamečių šeimos narių ir leidimas laikinai gyventi Lietuvos Respublikoje jam išduodamas tokiam pačiam laikotarpiui kaip ir šiam užsieniečiui. Šeimos narys, kuriam leidimas laikinai gyventi Lietuvos Respublikoje išduotas šioje dalyje nustatytu pagrindu, turi teisę dirbti ir yra atleidžiamas nuo pareigos įsigyti leidimą dirbti. Jeigu šeimos narys dirbs pagal reglamentuojamą profesiją, kaip ji apibrėžiama [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme]], turi būti pateiktas dokumentas, patvirtinantis, kad šeimos narys atitinka [[latest/TAR.074B2F6259F9|Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme]] nustatytas sąlygas vykdyti reglamentuojamą profesinę veiklą. ^s-d11232b3a5abf47038c217fe
+9. Šeimos narys, atvykstantis gyventi į Lietuvos Respubliką kartu su užsieniečiu, kuris dėl leidimo laikinai gyventi Lietuvos Respublikoje išdavimo kreipiasi [[#^s-89681e797298defc090ee11b|šio straipsnio 3 dalyje]] nustatytu pagrindu, arba pas užsienietį, kuris turi leidimą laikinai gyventi Lietuvos Respublikoje šio straipsnio [[#^s-89681e797298defc090ee11b|3]] ar [[#^s-b30296d035879ccacde58435|4]] dalyje nustatytu pagrindu, dėl leidimo laikinai gyventi Lietuvos Respublikoje išdavimo gali kreiptis kartu su šiuo užsieniečiu arba gali kreiptis vienas iš pilnamečių šeimos narių ir leidimas laikinai gyventi Lietuvos Respublikoje jam išduodamas tokiam pačiam laikotarpiui kaip ir šiam užsieniečiui. Šeimos narys, kuriam leidimas laikinai gyventi Lietuvos Respublikoje išduotas šioje dalyje nustatytu pagrindu, turi teisę dirbti ir yra atleidžiamas nuo pareigos įsigyti leidimą dirbti. Jeigu šeimos narys dirbs pagal reglamentuojamą profesiją, kaip ji apibrėžiama [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme]], turi būti pateiktas dokumentas, patvirtinantis, kad šeimos narys atitinka [[latest/TAR.074B2F6259F9|Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme]] nustatytas sąlygas vykdyti reglamentuojamą profesinę veiklą. ^s-d11232b3a5abf47038c217fe
 Straipsnio dalies pakeitimai:
 Nr. XV-380, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12035
 
@@ -816,7 +816,7 @@ Nr. XIV-377, 2021-06-08, paskelbta TAR 2021-06-14, i. k. 2021-13518
 2. Gynybos ir saugumo pramonės projekto statusas investicijų projektui suteikiamas Vyriausybės nustatyta tvarka. ^s-fb176f7a54741675d4e8761b
 
 
-3. Investicijų projektui taikomos šio įstatymo [[#^s-34aeba11e2b7d8d079110340|157 straipsnio]] 3, [[#^s-0698fa0daaf778346be8eb55|4 dalyse]], 6 dalies 1 ir 2 punktuose ir 9 dalyje nurodytos specialios investavimo ir verslo sąlygos nuo sprendimo, kuriuo investicijų projektui suteiktas gynybos ir saugumo pramonės projekto statusas, įsigaliojimo dienos. ^s-4a0fd1eba4308775ce61d697
+3. Investicijų projektui taikomos šio įstatymo [[#^s-34aeba11e2b7d8d079110340|157 straipsnio]] [[#^s-2b0f1da142e2672ebda1414a|3]], [[#^s-8dbf870ceadecbd7bdce33b0|4]] dalyse, 6 dalies [[#^s-ec959815d13dee0d2f2be96e|1]] ir [[#^s-6c877d29850a2cf531e96933|2]] punktuose ir 9 dalyje nurodytos specialios investavimo ir verslo sąlygos nuo sprendimo, kuriuo investicijų projektui suteiktas gynybos ir saugumo pramonės projekto statusas, įsigaliojimo dienos. ^s-4a0fd1eba4308775ce61d697
 
 
 4. Gynybos ir saugumo pramonės projektas įtraukiamas į gynybos ir saugumo pramonės projektų sąrašą. Gynybos ir saugumo pramonės projektai išbraukiami iš gynybos ir saugumo pramonės projektų sąrašo pasibaigus gynybos ir saugumo pramonės projekto įgyvendinimo terminui arba nutraukus gynybos ir saugumo pramonės projekto investicijų sutartį, jeigu ji nutraukiama anksčiau, negu pasibaigia gynybos ir saugumo pramonės projekto įgyvendinimo terminas. Gynybos ir saugumo pramonės projektų įtraukimo į gynybos ir saugumo pramonės projektų sąrašą, išbraukimo iš šio sąrašo ir gynybos ir saugumo pramonės projektų sąrašo viešinimo tvarką nustato Vyriausybė. ^s-0698fa0daaf778346be8eb55
@@ -914,10 +914,10 @@ INVESTAVIMAS VIEŠOJO IR PRIVATAUS SEKTORIŲ PARTNERYSTĖS BŪDAIS
 1. Įgyvendinant viešojo ir privataus sektorių partnerystę pagal šį ir Koncesijų įstatymus dalyvauja: ^s-09205b48c0658a7cd36c298c
 
 
-1) Lietuvos Respublikos Vyriausybė, kuri nustato viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo tvarką ir priima sprendimus dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo, kai viešojo ir privataus sektorių partnerystės projektą įgyvendina Lietuvos Respublikos Vyriausybės įgaliotas viešasis subjektas; ^s-6da83f0d0d911c615579ac94
+1) Lietuvos Respublikos Vyriausybė, kuri nustato viešojo ir privataus sektorių partnerystės projektų rengimo ir įgyvendinimo tvarką ir priima sprendimus [dėl viešojo ir privataus sektorių partnerystės](https://e-tar.lt/portal/lt/legalAct/TAR.EECA40CA2BED) projektų įgyvendinimo tikslingumo, kai viešojo ir privataus sektorių partnerystės projektą įgyvendina Lietuvos Respublikos Vyriausybės įgaliotas viešasis subjektas; ^s-6da83f0d0d911c615579ac94
 
 
-2) savivaldybės taryba, kuri priima sprendimus dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo, taip pat sprendimus dėl galutinių viešojo ir privataus sektorių partnerystės sutarties sąlygų, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų, kai viešojo ir privataus sektorių partnerystės projektą įgyvendina savivaldybės tarybos įgaliotas viešasis subjektas; ^s-84988d17f5d83f1652ab5b8a
+2) savivaldybės taryba, kuri priima sprendimus [dėl viešojo ir privataus sektorių partnerystės](https://e-tar.lt/portal/lt/legalAct/TAR.EECA40CA2BED) projektų įgyvendinimo tikslingumo, taip pat sprendimus dėl galutinių viešojo ir privataus sektorių partnerystės sutarties sąlygų, jeigu jos skiriasi nuo sprendime [dėl viešojo ir privataus sektorių partnerystės](https://e-tar.lt/portal/lt/legalAct/TAR.EECA40CA2BED) projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų, kai viešojo ir privataus sektorių partnerystės projektą įgyvendina savivaldybės tarybos įgaliotas viešasis subjektas; ^s-84988d17f5d83f1652ab5b8a
 
 
 3) Lietuvos Respublikos finansų ministerija, kuri formuodama valstybės politiką viešųjų finansų valdymo srityje, organizuodama, koordinuodama ir kontroliuodama jos įgyvendinimą rengia viešojo ir privataus sektorių partnerystę reglamentuojančių teisės aktų projektus ir atlieka kitas teisės aktuose nustatytas funkcijas, susijusias su viešojo ir privataus sektorių partnerystės įgyvendinimu; ^s-e84152fa2defc690b4fc6d25
@@ -929,7 +929,7 @@ INVESTAVIMAS VIEŠOJO IR PRIVATAUS SEKTORIŲ PARTNERYSTĖS BŪDAIS
 5) valstybės ir savivaldybių institucijos ir įstaigos, kurios atlieka su viešojo ir privataus sektorių partnerystės įgyvendinimu susijusias funkcijas (Viešųjų pirkimų tarnyba, Lietuvos Respublikos konkurencijos taryba, Lietuvos Respublikos valstybės kontrolė, Valstybės duomenų agentūra, Europos Sąjungos ar kitą tarptautinę finansinę paramą administruojantys viešieji juridiniai asmenys, kuriems įgaliojimai suteikti vadovaujantis [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymu]], savivaldybių kontrolės ir audito tarnybos); ^s-e07db18dcc2f32e9ca2e72ab
 
 
-6) kiti subjektai, išskyrus nurodytus šios dalies 1–[[#^s-e07db18dcc2f32e9ca2e72ab|5 punktuose]], kurie įgyvendina viešojo ir privataus sektorių partnerystės projektus ir vykdo viešojo ir privataus sektorių partnerystės sutartis arba dalyvauja vykdant šias sutartis. ^s-8a664312474c31fcb6ea0055
+6) kiti subjektai, išskyrus nurodytus šios dalies [[#^s-6da83f0d0d911c615579ac94|1]]–[[#^s-e07db18dcc2f32e9ca2e72ab|5]] punktuose, kurie įgyvendina viešojo ir privataus sektorių partnerystės projektus ir vykdo viešojo ir privataus sektorių partnerystės sutartis arba dalyvauja vykdant šias sutartis. ^s-8a664312474c31fcb6ea0055
 
 
 2. [[#^s-c200deb45150127c42986465|Šio straipsnio 1 dalies 4 punkte]] nurodyto Lietuvos Respublikos Vyriausybės įgalioto viešojo juridinio asmens veiklos finansuojamos iš Finansų ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų. ^s-aba632301625e6cc8ba04105
@@ -1143,7 +1143,7 @@ INVESTAVIMO Į STAMBIUS PROJEKTUS SKATINIMAS
 4) investicijų projektas yra įvertintas ne mažesniu kaip Vyriausybės nustatytu minimaliu investicijų projekto kvalifikaciniu balu, apskaičiuotu vertinant sukurtų naujų darbo vietų skaičių, aukštos profesinės kvalifikacijos darbuotojų procentą nuo visų naujų darbo vietų skaičiaus, naujų darbo vietų darbo užmokesčio vidurkį, lyginamą su Valstybės duomenų agentūros skelbiamu savivaldybės, kurioje įgyvendinamas stambus projektas, darbo užmokesčio vidurkiu, bendrą eksporto dalį procentais, stambaus projekto įgyvendinimo vietą, stambaus projekto įtaką ilgalaikei Lietuvos Respublikos ūkio plėtrai, konkurencingumui ir visuomenės gerovės didinimui. ^s-32a6885b158696c4b9142dea
 
 
-4. Vyriausybės įgaliota institucija organizuoja šio straipsnio 3 ir [[#^s-eb36957faa1bd48e7edb13ad|6 dalyse]] nurodytų sąlygų vertinimą, teikia informaciją ir konsultuoja investuotoją stambaus projekto investicijų sutarties sudarymo ir vykdymo klausimais. ^s-45d47e83b45ce21cedc457c5
+4. Vyriausybės įgaliota institucija organizuoja šio straipsnio [[#^s-a531ef7464881e41494e4173|3]] ir [[#^s-eb36957faa1bd48e7edb13ad|6]] dalyse nurodytų sąlygų vertinimą, teikia informaciją ir konsultuoja investuotoją stambaus projekto investicijų sutarties sudarymo ir vykdymo klausimais. ^s-45d47e83b45ce21cedc457c5
 
 
 5. Stambaus projekto investicijų sutartyje turi būti nustatyta: ^s-ca75c02837860ad04f941351
@@ -1195,7 +1195,7 @@ INVESTAVIMO Į STAMBIUS PROJEKTUS SKATINIMAS
 ### 157 straipsnis. Stambiems projektams ir laisvosios ekonominės zonos įmonėms taikomos specialios investavimo ir verslo sąlygos ^s-34aeba11e2b7d8d079110340
 
 
-1. Šiame straipsnyje, išskyrus [[#^s-b014f66e53a98954a9e76c95|šio straipsnio 9 dalį]], nustatytos specialios investavimo ir verslo sąlygos stambiems projektams įgyvendinti taikomos tik tuo atveju, jeigu dėl jų taikymo yra susitarta stambaus projekto investicijų sutartyje. Šiame straipsnyje nustatytos sąlygos taikomos nuo stambaus projekto įrašymo į stambių projektų sąrašą dienos iki stambaus projekto investicijų sutartyje nustatyto stambaus projekto įgyvendinimo termino, o [[#^s-b8befa6617dfcde120200daf|šio straipsnio 8 dalyje]] nurodytos specialios investavimo ir verslo sąlygos – iki stambaus projekto tęstinumo laikotarpio pabaigos termino. Šio straipsnio 3, [[#^s-8dbf870ceadecbd7bdce33b0|4 dalyse]], [[#^s-2984d72726bdc13db3479562|6 dalies]] 1, 2 punktuose ir [[#^s-b014f66e53a98954a9e76c95|9 dalyje]] nurodytos specialios investavimo ir verslo sąlygos laisvosios ekonominės zonos įmonėms taikomos nuo laisvosios ekonominės zonos įmonės statuso gavimo dienos. Šiame straipsnyje nustatytos stambiems projektams įgyvendinti taikomos specialios investavimo ir verslo sąlygos visais atvejais nebetaikomos išbraukus stambų projektą iš stambių projektų sąrašo. ^s-68494788e01e002ff22bd9fa
+1. Šiame straipsnyje, išskyrus [[#^s-b014f66e53a98954a9e76c95|šio straipsnio 9 dalį]], nustatytos specialios investavimo ir verslo sąlygos stambiems projektams įgyvendinti taikomos tik tuo atveju, jeigu dėl jų taikymo yra susitarta stambaus projekto investicijų sutartyje. Šiame straipsnyje nustatytos sąlygos taikomos nuo stambaus projekto įrašymo į stambių projektų sąrašą dienos iki stambaus projekto investicijų sutartyje nustatyto stambaus projekto įgyvendinimo termino, o [[#^s-b8befa6617dfcde120200daf|šio straipsnio 8 dalyje]] nurodytos specialios investavimo ir verslo sąlygos – iki stambaus projekto tęstinumo laikotarpio pabaigos termino. Šio straipsnio [[#^s-2b0f1da142e2672ebda1414a|3]], [[#^s-8dbf870ceadecbd7bdce33b0|4]] dalyse, [[#^s-2984d72726bdc13db3479562|6 dalies]] 1, 2 punktuose ir [[#^s-b014f66e53a98954a9e76c95|9 dalyje]] nurodytos specialios investavimo ir verslo sąlygos laisvosios ekonominės zonos įmonėms taikomos nuo laisvosios ekonominės zonos įmonės statuso gavimo dienos. Šiame straipsnyje nustatytos stambiems projektams įgyvendinti taikomos specialios investavimo ir verslo sąlygos visais atvejais nebetaikomos išbraukus stambų projektą iš stambių projektų sąrašo. ^s-68494788e01e002ff22bd9fa
 
 
 2. Sudarius stambaus projekto investicijų sutartį, stambus projektas įtraukiamas į stambių projektų sąrašą ir nuo įtraukimo į šį sąrašą dienos yra laikomas valstybei svarbiu projektu. Šio valstybei svarbaus projekto teritorijų planavimo dokumento planavimo organizatorius yra Ekonomikos ir inovacijų ministerija (toliau – planavimo organizatorius), kai tokiam teritorijų planavimo dokumentui taikoma [[latest/TAR.26B563184529|Teritorijų planavimo įstatyme]] nustatyta valstybei svarbių projektų teritorijų planavimo dokumentų rengimo, derinimo, keitimo, koregavimo, tikrinimo, tvirtinimo, galiojimo, viešinimo ir ginčų sprendimo tvarka. Teritorijų planavimo dokumentų rengėjus pasirenka planavimo organizatorius Lietuvos Respublikos įstatymų nustatyta tvarka arba stambų projektą įgyvendinantis subjektas, suderinęs šį pasirinkimą su planavimo organizatoriumi. Tuo atveju, kai teritorijų planavimo dokumentų rengėjus pasirenka stambų projektą įgyvendinantis subjektas, teritorijų planavimo dokumentų rengimas finansuojamas iš šio subjekto lėšų. Stambus projektas netenka valstybei svarbaus projekto statuso jį išbraukus iš stambių projektų sąrašo. Stambūs projektai išbraukiami iš stambių projektų sąrašo pasibaigus stambaus projekto įgyvendinimo terminui, jeigu nėra nustatytas stambaus projekto tęstinumo laikotarpis, pasibaigus stambaus projekto tęstinumo laikotarpiui arba nutraukus stambaus projekto investicijų sutartį, jeigu ji nutraukiama anksčiau, negu pasibaigia stambaus projekto įgyvendinimo terminas arba stambaus projekto tęstinumo laikotarpis. Stambių projektų įtraukimo į stambių projektų sąrašą ir išbraukimo iš šio sąrašo tvarką nustato Vyriausybė. ^s-6c04aac760b1c9e3934e9edc
@@ -1415,7 +1415,7 @@ Nr. XII-283, 2013-05-09, Žin., 2013, Nr. 54-2688 (2013-05-25), i. k. [[latest/T
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-852, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04863
-Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12 ir 13 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 [[#^s-ffb0264f6473faefafca5b68|12]] ir 13 straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1430,7 +1430,7 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-2 straipsnio pakeit
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1261, 2014-10-16, paskelbta TAR 2014-10-27, i. k. 2014-14858
-Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 7, 13 ir 15-2 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 [[#^s-bcfd4319f2151a7155c5cb45|7]], 13 ir 15-2 straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1445,7 +1445,7 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 [[#^s-ffb0264f6473faef
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1416, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20546
-Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 [[#^s-2782477d1dee101333732479|2]], [[#^s-ffb0264f6473faefafca5b68|12]], 13 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1470,12 +1470,12 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 [[#^s-cf846cb7173b7950
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3161, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15492
-Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 9-1, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo ketvirtuoju-2 skirsniu įstatymas
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 [[#^s-8fea999c53b31c09b8732297|1]], [[#^s-2782477d1dee101333732479|2]], 9-1, [[#^s-ffb0264f6473faefafca5b68|12]], 13 straipsnių pakeitimo ir Įstatymo papildymo ketvirtuoju-2 skirsniu įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3128, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15373
-Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2 ir [[#^s-ae5ca281f3c314c46d36604a|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 [[#^s-2782477d1dee101333732479|2]] ir [[#^s-ae5ca281f3c314c46d36604a|14]] straipsnių pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1485,7 +1485,7 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 13 straipsnio pakeitim
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-838, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27730
-Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 3, 9-1, 12 ir 13 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 [[#^s-8fea999c53b31c09b8732297|1]], [[#^s-2782477d1dee101333732479|2]], [[#^s-6c3d6bf9902c9d23ded7757e|3]], 9-1, [[#^s-ffb0264f6473faefafca5b68|12]] ir 13 straipsnių pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1495,12 +1495,12 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 13-1 ir 15-5 straipsni
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2446, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25939
-Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12, 13 ir 15-5 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 [[#^s-ffb0264f6473faefafca5b68|12]], 13 ir 15-5 straipsnių pakeitimo įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2442, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25935
-Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13-1 ir 15-4 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 [[#^s-2782477d1dee101333732479|2]], [[#^s-ffb0264f6473faefafca5b68|12]], 13-1 ir 15-4 straipsnių pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1510,19 +1510,19 @@ Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-5 straipsnio pakeit
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3041, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18465
-Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 4, 13, 15-6, 15-8 straipsnių ir ketvirtojo-1 skirsnio pakeitimo įstatymas
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 [[#^s-2782477d1dee101333732479|2]], [[#^s-91723a68ed8806a5b7f935b6|4]], 13, 15-6, 15-8 straipsnių ir ketvirtojo-1 skirsnio pakeitimo įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-136, 2025-03-27, paskelbta TAR 2025-04-02, i. k. 2025-05777
-Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 10, 15-6, 15-7 ir 15-8 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 [[#^s-8fea999c53b31c09b8732297|1]], [[#^s-2782477d1dee101333732479|2]], [[#^s-30d43c7230a21f6fade840a3|10]], 15-6, 15-7 ir 15-8 straipsnių pakeitimo įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-380, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12035
-Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13, 13-1 straipsnių, ketvirtojo-2 skirsnio pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 [[#^s-2782477d1dee101333732479|2]], [[#^s-ffb0264f6473faefafca5b68|12]], 13, 13-1 straipsnių, ketvirtojo-2 skirsnio pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-478, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17632
-Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2 ir 13 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 [[#^s-2782477d1dee101333732479|2]] ir 13 straipsnių pakeitimo įstatymas

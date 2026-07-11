@@ -216,7 +216,7 @@ Notarai savo įgaliojimus vykdo, nepaisydami valstybinės valdžios bei valdymo 
 ### 13 straipsnis. Notarinių veiksmų atlikimo teisiniai pagrindai ^s-ecc85e334e97c520d91b22ae
 
 
-Notarai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu ir kitais Lietuvos Respublikos įstatymais, Lietuvos Respublikos Vyriausybės nutarimais bei potvarkiais, Lietuvos Respublikos teisingumo ministerijos norminiais aktais ir Notarų rūmų nutarimais.
+Notarai savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo įstatymu ir kitais Lietuvos Respublikos įstatymais, Lietuvos Respublikos Vyriausybės nutarimais bei potvarkiais, Lietuvos Respublikos teisingumo ministerijos norminiais aktais ir Notarų rūmų nutarimais.
 
 
 

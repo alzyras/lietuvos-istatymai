@@ -77,7 +77,7 @@ Vilnius
 ### 4 straipsnis. Įstatymo įsigaliojimas ^s-36f718bb6a77183110406c04
 
 
-1. Šio įstatymo 1 ir [[#^s-2c684117ad7c830732bd3de5|2 straipsniai]] įsigalioja 2013 m. kovo 1 d. ^s-a7a07e2e30b33bacf5861d62
+1. Šio įstatymo [[#^s-dab352b08b650007005ca7f2|1]] ir [[#^s-2c684117ad7c830732bd3de5|2]] straipsniai įsigalioja 2013 m. kovo 1 d. ^s-a7a07e2e30b33bacf5861d62
 
 
 2. Šio įstatymo [[#^s-f54e8081bda3240b8552f8c4|3 straipsnis]] įsigalioja 2013 m. sausio 1 d. ^s-6dbbf9a458d96ad85617afd8

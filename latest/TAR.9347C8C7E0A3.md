@@ -141,7 +141,7 @@ Našlei ar našliui, gaunančiam našlių pensiją už mirusį iki 1995 m. sausi
 1. Šis įstatymas įsigalioja nuo 1997 m. liepos 1 d. ^s-1476f888ff864232867b340c
 
 
-2. Našlių pensijos už mirusius iki 1995 m. sausio 1 d. sutuoktinius skiriamos taikant [[latest/TAR.A7F77DF94F5D#^s-ce359f209917eb9c09c3c9d6|Valstybinių socialinio draudimo pensijų įstatymo 39 straipsnyje]] nustatytus pensijos skyrimo ir mokėjimo terminus, tačiau ne anksčiau kaip nuo [[latest/TAR.A7F77DF94F5D#^s-f3e4bd0c130420115fe58c82|Valstybinių socialinio draudimo pensijų įstatymo 33, 34, 36, 45 straipsnių]] pakeitimo ir papildymo 451 straipsniu įstatymo įsigaliojimo. ^s-ebe9a53d3d1fafd51ce54c09
+2. Našlių pensijos už mirusius iki 1995 m. sausio 1 d. sutuoktinius skiriamos taikant [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] 39 straipsnyje nustatytus pensijos skyrimo ir mokėjimo terminus, tačiau ne anksčiau kaip nuo [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] [[latest/TAR.A7F77DF94F5D#^s-f47bd8a85e88a1ed5fdb4426|33]], [[latest/TAR.A7F77DF94F5D#^s-5588e0dd4927669d9163f666|34]], [[latest/TAR.A7F77DF94F5D#^s-3c50246512d269ab920f3de0|36]], [[latest/TAR.A7F77DF94F5D#^s-f3e4bd0c130420115fe58c82|45]] straipsnių pakeitimo ir papildymo 451 straipsniu įstatymo įsigaliojimo. ^s-ebe9a53d3d1fafd51ce54c09
 
 
 3. Už mirusį iki 1995 m. sausio 1 d. sutuoktinį našlei ar našliui jų pasirinkimu mokama: ^s-a81b7b66d6f697fa6d1158fd

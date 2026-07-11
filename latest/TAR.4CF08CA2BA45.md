@@ -49,7 +49,7 @@ BENDROSIOS NUOSTATOS
 ### 1 straipsnis. Įstatymo paskirtis ir taikymas ^s-8f027096b98cea4532b08efa
 
 
-1. Šio įstatymo paskirtis – sudaryti sąlygas atkurti sąžiningų fizinio asmens, ūkininko ir kito fizinio asmens, kuris verčiasi individualia veikla, kaip ji apibrėžta [[latest/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme]], (toliau – fizinis asmuo) mokumą užtikrinant kreditorių reikalavimų tenkinimą šio įstatymo nustatyta tvarka siekiant teisingos skolininko ir jo kreditorių interesų pusiausvyros. ^s-54b65790844fd248909a2a44
+1. Šio įstatymo paskirtis – sudaryti sąlygas atkurti sąžiningų fizinio asmens, ūkininko ir kito fizinio asmens, kuris verčiasi individualia veikla, kaip ji apibrėžta [[latest/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme]], (toliau – [[latest/TAR.C677663D2202|fizinis asmuo]]) mokumą užtikrinant kreditorių reikalavimų tenkinimą šio įstatymo nustatyta tvarka siekiant teisingos skolininko ir jo kreditorių interesų pusiausvyros. ^s-54b65790844fd248909a2a44
 
 
 2. Šis įstatymas taikomas fizinio asmens bankroto byloms, kurias nagrinėja Lietuvos Respublikos teismai. ^s-16439c914a0b6161564311d6
@@ -61,7 +61,7 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 3. Šis įstatymas reguliuoja fizinio asmens bankroto procesą. ^s-d04379d3de37c345107a0a75
 
 
-4. Fizinio asmens bankroto procesą gali inicijuoti tik pats fizinis asmuo. ^s-292900999bb1bfb6ea8eed8b
+4. Fizinio asmens bankroto procesą gali inicijuoti tik pats [[latest/TAR.C677663D2202|fizinis asmuo]]. ^s-292900999bb1bfb6ea8eed8b
 
 
 5. Fizinio asmens bankroto procesas vykdomas teismo tvarka. ^s-27662139e8fb5585b054d845
@@ -129,17 +129,17 @@ FIZINIO ASMENS BANKROTO PROCESAS
 ### 4 straipsnis. Fizinio asmens pareiškimas iškelti bankroto bylą ^s-39243eff2fd56b5d270f0989
 
 
-1. Fizinis asmuo pareiškimą iškelti bankroto bylą pateikia vietovės, kurioje yra fizinio asmens gyvenamoji vieta, apylinkės teismui Lietuvos Respublikos civilinio proceso kodekso (toliau – Civilinio proceso kodeksas) nustatyta tvarka. ^s-6756a0aaa6edd8b8f2ad7cba
+1. [[latest/TAR.C677663D2202|Fizinis asmuo]] pareiškimą iškelti bankroto bylą pateikia vietovės, kurioje yra fizinio asmens gyvenamoji vieta, apylinkės teismui [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) (toliau – [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F)) nustatyta tvarka. ^s-6756a0aaa6edd8b8f2ad7cba
 TAR pastaba. Iki [[latest/TAR.115FAEB36FAB|įstatymo Nr. XII-217]] įsigaliojimo pradėtos nagrinėti fizinių asmenų bankroto bylos baigiamos nagrinėti vadovaujantis iki šio įstatymo įsigaliojimo galiojusiomis fizinių asmenų bankroto bylų nagrinėjimą reglamentuojančiomis nuostatomis.
 Straipsnio dalies pakeitimai:
 Nr. XII-217, 2013-03-28, Žin., 2013, Nr. 35-1693 (2013-04-04), i. k. [[latest/TAR.115FAEB36FAB|1131010ISTA0XII-217]]
 
 
 
-2. Ketindamas pateikti pareiškimą iškelti bankroto bylą, fizinis asmuo, kurio būklė atitinka šio įstatymo [[#^s-90754cb7f88af68e057093b8|2 straipsnio 2 dalyje]] nurodytąją, ne vėliau kaip prieš mėnesį iki pareiškimo iškelti bankroto bylą pateikimo dienos apie tai raštu praneša visiems kreditoriams. ^s-b4b4d72b255427877bf89c05
+2. Ketindamas pateikti pareiškimą iškelti bankroto bylą, [[latest/TAR.C677663D2202|fizinis asmuo]], kurio būklė atitinka šio įstatymo [[#^s-90754cb7f88af68e057093b8|2 straipsnio 2 dalyje]] nurodytąją, ne vėliau kaip prieš mėnesį iki pareiškimo iškelti bankroto bylą pateikimo dienos apie tai raštu praneša visiems kreditoriams. ^s-b4b4d72b255427877bf89c05
 
 
-3. Pareiškime iškelti bankroto bylą teismui nurodomos fizinio asmens nemokumą sukėlusios priežastys ir pridedami šį nemokumą pagrindžiantys dokumentai (jeigu fizinis asmuo gali juos pateikti), fizinio asmens duomenys ryšiams palaikyti (gyvenamosios vietos adresas, telefono ryšio numeris, elektroninio pašto adresas ir kiti), taip pat gali būti siūloma bankroto administratoriaus kandidatūra. ^s-65a11392e31c60bfe0c97280
+3. Pareiškime iškelti bankroto bylą teismui nurodomos fizinio asmens nemokumą sukėlusios priežastys ir pridedami šį nemokumą pagrindžiantys dokumentai (jeigu [[latest/TAR.C677663D2202|fizinis asmuo]] gali juos pateikti), fizinio asmens duomenys ryšiams palaikyti (gyvenamosios vietos adresas, telefono ryšio numeris, elektroninio pašto adresas ir kiti), taip pat gali būti siūloma bankroto administratoriaus kandidatūra. ^s-65a11392e31c60bfe0c97280
 
 
 4. Prie pareiškimo iškelti bankroto bylą pridedama ir pateikiama: ^s-76c4a165d15c4a17f1fc588d
@@ -160,10 +160,10 @@ Nr. XV-987, 2026-06-04, paskelbta TAR 2026-06-12, i. k. 2026-10324
 4) duomenys apie fizinio asmens įkeistą turtą, suteiktus kitus prievolių įvykdymo užtikrinimo būdus ir kitus įsipareigojimus; ^s-422979a440ea13c10adf5ca5
 
 
-5) kreditorių sąrašas, kuriame nurodomi, kai kreditorius fizinis asmuo, – vardas, pavardė, gyvenamosios vietos adresas, reikalavimai ir jų įvykdymo terminai; kai kreditorius juridinis asmuo, – juridinio asmens pavadinimas, juridinio asmens kodas, buveinės adresas, reikalavimai ir jų įvykdymo terminai; ^s-c1c3d5120218c74ea9cedc19
+5) kreditorių sąrašas, kuriame nurodomi, kai kreditorius [[latest/TAR.C677663D2202|fizinis asmuo]], – vardas, pavardė, gyvenamosios vietos adresas, reikalavimai ir jų įvykdymo terminai; kai kreditorius juridinis asmuo, – juridinio asmens pavadinimas, juridinio asmens kodas, buveinės adresas, reikalavimai ir jų įvykdymo terminai; ^s-c1c3d5120218c74ea9cedc19
 
 
-6) skolininkų sąrašas, kuriame nurodomi, kai skolininkas fizinis asmuo, – vardas, pavardė, gyvenamosios vietos adresas, gautinos lėšos ir jų gavimo terminai, kai skolininkas juridinis asmuo, – juridinio asmens pavadinimas, juridinio asmens kodas, buveinės adresas, gautinos lėšos ir jų gavimo terminai; ^s-ce03544e3e95bd866c206910
+6) skolininkų sąrašas, kuriame nurodomi, kai skolininkas [[latest/TAR.C677663D2202|fizinis asmuo]], – vardas, pavardė, gyvenamosios vietos adresas, gautinos lėšos ir jų gavimo terminai, kai skolininkas juridinis asmuo, – juridinio asmens pavadinimas, juridinio asmens kodas, buveinės adresas, gautinos lėšos ir jų gavimo terminai; ^s-ce03544e3e95bd866c206910
 
 
 7) informacija apie fiziniam asmeniui teismuose iškeltas civilines bylas, kuriose fiziniam asmeniui pareikšti turtiniai reikalavimai ir (arba) areštuotas jo turtas, apie bylas, kuriose fiziniam asmeniui pareikšti su darbo santykiais susiję reikalavimai, taip pat apie baudžiamąsias bylas, kuriose fiziniam asmeniui pareikšti turtiniai reikalavimai ir (arba) areštuotas jo turtas, ir apie išieškojimus ne ginčo tvarka; ^s-ac9e9aa37052cc5687dd491b
@@ -181,10 +181,10 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 
 
-5. Jeigu fizinis asmuo, pateikdamas teismui pareiškimą iškelti bankroto bylą, pasiūlo bankroto administratoriaus kandidatūrą, prie pareiškimo iškelti bankroto bylą pridedamas bankroto administratoriaus sutikimas-deklaracija atlikti fizinio asmens bankroto procedūras. Sutikime-deklaracijoje atlikti fizinio asmens bankroto procedūras turi būti nurodyta: ^s-1249fafad6b31071e84cd440
+5. Jeigu [[latest/TAR.C677663D2202|fizinis asmuo]], pateikdamas teismui pareiškimą iškelti bankroto bylą, pasiūlo bankroto administratoriaus kandidatūrą, prie pareiškimo iškelti bankroto bylą pridedamas bankroto administratoriaus sutikimas-deklaracija atlikti fizinio asmens bankroto procedūras. Sutikime-deklaracijoje atlikti fizinio asmens bankroto procedūras turi būti nurodyta: ^s-1249fafad6b31071e84cd440
 
 
-1) vardas, pavardė, adresas korespondencijai ir duomenys ryšiams palaikyti, kai bankroto administratorius – fizinis asmuo; ^s-896c9b512963c0bfb5e34e29
+1) vardas, pavardė, adresas korespondencijai ir duomenys ryšiams palaikyti, kai bankroto administratorius – [[latest/TAR.C677663D2202|fizinis asmuo]]; ^s-896c9b512963c0bfb5e34e29
 
 
 2) pavadinimas, kodas, buveinės adresas ir duomenys ryšiams palaikyti, kai bankroto administratorius – juridinis asmuo arba juridinio asmens padalinys (filialas); ^s-4c352e24783ff00fc8f4cf48
@@ -207,10 +207,10 @@ Nr. XV-987, 2026-06-04, paskelbta TAR 2026-06-12, i. k. 2026-10324
 
 
 
-6. Jeigu fizinis asmuo, pateikdamas teismui pareiškimą iškelti bankroto bylą, pasiūlo bankroto administratoriaus kandidatūrą, prie pareiškimo iškelti bankroto bylą pridedamas bankroto administratoriaus lėšų sumos, reikalingos bankroto procedūroms atlikti nuo teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dienos iki nutarties patvirtinti fizinio asmens kreditorių reikalavimų tenkinimo ir jo mokumo atkūrimo planą (toliau – planas) įsiteisėjimo dienos, pagrindimas. ^s-c62b8f6babd406b15a647497
+6. Jeigu [[latest/TAR.C677663D2202|fizinis asmuo]], pateikdamas teismui pareiškimą iškelti bankroto bylą, pasiūlo bankroto administratoriaus kandidatūrą, prie pareiškimo iškelti bankroto bylą pridedamas bankroto administratoriaus lėšų sumos, reikalingos bankroto procedūroms atlikti nuo teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dienos iki nutarties patvirtinti fizinio asmens kreditorių reikalavimų tenkinimo ir jo mokumo atkūrimo planą (toliau – planas) įsiteisėjimo dienos, pagrindimas. ^s-c62b8f6babd406b15a647497
 
 
-7. Jeigu fizinis asmuo bankroto administratoriaus kandidatūros nepasiūlo, teismas, naudodamasis valstybės informacinių sistemų sąveika, kreipiasi į šio įstatymo [[#^s-ad7ca28f556efa82a47621b8|13 straipsnio 9 dalyje]] nurodytą Lietuvos Respublikos Vyriausybės įgaliotą instituciją dėl bankroto administratoriaus kandidatūros. Teismas skiria bankroto administratorių, kurio kandidatūrą pasiūlo šio įstatymo [[#^s-ad7ca28f556efa82a47621b8|13 straipsnio 9 dalyje]] nurodyta Lietuvos Respublikos Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka. Prieš teismui priimant nutartį iškelti fizinio asmens bankroto bylą, bankroto administratorius teismui pateikia lėšų sumos, reikalingos bankroto procedūroms atlikti nuo teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dienos iki nutarties patvirtinti planą įsiteisėjimo dienos, pagrindimą. ^s-182597d6d4f2867769d9c174
+7. Jeigu [[latest/TAR.C677663D2202|fizinis asmuo]] bankroto administratoriaus kandidatūros nepasiūlo, teismas, naudodamasis valstybės informacinių sistemų sąveika, kreipiasi į šio įstatymo [[#^s-ad7ca28f556efa82a47621b8|13 straipsnio 9 dalyje]] nurodytą Lietuvos Respublikos Vyriausybės įgaliotą instituciją dėl bankroto administratoriaus kandidatūros. Teismas skiria bankroto administratorių, kurio kandidatūrą pasiūlo šio įstatymo [[#^s-ad7ca28f556efa82a47621b8|13 straipsnio 9 dalyje]] nurodyta Lietuvos Respublikos Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka. Prieš teismui priimant nutartį iškelti fizinio asmens bankroto bylą, bankroto administratorius teismui pateikia lėšų sumos, reikalingos bankroto procedūroms atlikti nuo teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dienos iki nutarties patvirtinti planą įsiteisėjimo dienos, pagrindimą. ^s-182597d6d4f2867769d9c174
 Straipsnio dalies pakeitimai:
 Nr. XV-987, 2026-06-04, paskelbta TAR 2026-06-12, i. k. 2026-10324
 
@@ -240,7 +240,7 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 ### 5 straipsnis. Fizinio asmens pareiškimo iškelti fizinio asmens bankroto bylą nagrinėjimas teisme ^s-b1164a0a625390f7d79c29bb
 
 
-1. Fizinių asmenų bankroto bylos iškeliamos ir nagrinėjamos Civilinio proceso kodekso nustatyta ginčo teisenos tvarka, išskyrus šio įstatymo nustatytas išimtis. ^s-f0fd11ba5de7b22bcb958aa6
+1. Fizinių asmenų bankroto bylos iškeliamos ir nagrinėjamos [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta ginčo teisenos tvarka, išskyrus šio įstatymo nustatytas išimtis. ^s-f0fd11ba5de7b22bcb958aa6
 
 
 2. Fizinio asmens bankroto bylą iškelia ir nagrinėja teismas žodinio proceso tvarka, išskyrus šio įstatymo [[#^s-709e54bdf2ebac9338e7c135|8 straipsnio 6 dalyje]] nurodytą atvejį. ^s-3c7127086578ea38a5461341
@@ -252,7 +252,7 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 1) įpareigoti fizinį asmenį pateikti teismui bankroto bylai nagrinėti reikalingus papildomus dokumentus; ^s-831418dc01987b6046899cba
 
 
-2) Civilinio proceso kodekso nustatyta tvarka taikyti laikinąsias apsaugos priemones, galiosiančias iki nutarties iškelti fizinio asmens bankroto bylą arba atsisakyti ją kelti įsiteisėjimo dienos. ^s-71b9a15e4f262736268474e4
+2) [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka taikyti laikinąsias apsaugos priemones, galiosiančias iki nutarties iškelti fizinio asmens bankroto bylą arba atsisakyti ją kelti įsiteisėjimo dienos. ^s-71b9a15e4f262736268474e4
 
 
 4. Teismas nutartimi išsprendžia klausimą dėl pareiškimo iškelti fizinio asmens bankroto bylą. Nutartis nepriimti nagrinėti pareiškimo iškelti fizinio asmens bankroto bylą gali būti skundžiama. ^s-6aad2b021de67cc8c91681a6
@@ -282,23 +282,23 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 1) pareiškimo iškelti fizinio asmens bankroto bylą nagrinėjimo metu teismas nustato, kad fizinio asmens būklė neatitinka šio įstatymo [[#^s-90754cb7f88af68e057093b8|2 straipsnio 2 dalyje]] nurodytosios. Nustatant fizinio asmens būklę, nėra įskaitomi kreditorių reikalavimai, kurie šio įstatymo [[#^s-a8bbff9a311a68315f72152c|29 straipsnio 7 dalyje]] nustatyta tvarka negali būti nurašyti; ^s-b3d7c1dced9baa8806a8c57d
 
 
-2) paaiškėja, kad fizinis asmuo per paskutinius 3 metus iki pareiškimo iškelti bankroto bylą priėmimo tapo nemokus dėl Lietuvos Respublikos civilinio kodekso (toliau – [[latest/TAR.8A39C83848CB|Civilinis kodeksas]]) 6.67 straipsnyje nurodytų sudarytų kreditorių interesus pažeidžiančių sandorių, kurių sudaryti jis neprivalėjo, ar kitokių fizinio asmens tyčinių veiksmų pateikiant neteisingą informaciją kreditoriams apie finansinę būklę prisiimant skolinius įsipareigojimus ar sudarant kitus sandorius, siekiant išvengti atsiskaitymo su kreditoriais, ar fizinio asmens sąmoningo neveikimo, siekiant išvengti atsiskaitymo su kreditoriais; ^s-48ce8fa141f2de481c7cdb31
-TAR pastaba. [[#^s-48ce8fa141f2de481c7cdb31|5 straipsnio 8 dalies 2 punkto]] nuostatos taikomos neatsižvelgiant į tai, kada pradėtas fizinio asmens bankroto procesas.
+2) paaiškėja, kad [[latest/TAR.C677663D2202|fizinis asmuo]] per paskutinius 3 metus iki pareiškimo iškelti bankroto bylą priėmimo tapo nemokus dėl Lietuvos Respublikos civilinio kodekso (toliau – [[latest/TAR.8A39C83848CB|Civilinis kodeksas]]) 6.67 straipsnyje nurodytų sudarytų kreditorių interesus pažeidžiančių sandorių, kurių sudaryti jis neprivalėjo, ar kitokių fizinio asmens tyčinių veiksmų pateikiant neteisingą informaciją kreditoriams apie finansinę būklę prisiimant skolinius įsipareigojimus ar sudarant kitus sandorius, siekiant išvengti atsiskaitymo su kreditoriais, ar fizinio asmens sąmoningo neveikimo, siekiant išvengti atsiskaitymo su kreditoriais; ^s-48ce8fa141f2de481c7cdb31
+TAR pastaba. 5 straipsnio 8 dalies 2 punkto nuostatos taikomos neatsižvelgiant į tai, kada pradėtas fizinio asmens bankroto procesas.
 Straipsnio punkto pakeitimai:
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 
 
-3) paaiškėja, kad fizinis asmuo tapo nemokus dėl savo žalingų įpročių (piktnaudžiavimo alkoholiu, narkotinėmis ar kitomis psichotropinėmis medžiagomis, azartinių lošimų ir kitų); ^s-d3e490cf53599118d893d9e0
+3) paaiškėja, kad [[latest/TAR.C677663D2202|fizinis asmuo]] tapo nemokus dėl savo žalingų įpročių (piktnaudžiavimo alkoholiu, narkotinėmis ar kitomis psichotropinėmis medžiagomis, azartinių lošimų ir kitų); ^s-d3e490cf53599118d893d9e0
 
 
-4) paaiškėja, kad fizinis asmuo yra nubaustas už nusikaltimus ar baudžiamuosius nusižengimus, nurodytus Lietuvos Respublikos baudžiamojo kodekso (toliau – [[latest/TAR.2B866DFF7D43#^s-d074720b567c183c10d79504|Baudžiamasis kodeksas) 207, 208, 209, 216, 222, 223 straipsniuose]], ir jo teistumas nėra išnykęs, jeigu dėl to jis tapo nemokus; ^s-ce7380af784cd97301af27ad
+4) paaiškėja, kad [[latest/TAR.C677663D2202|fizinis asmuo]] yra nubaustas už nusikaltimus ar baudžiamuosius nusižengimus, nurodytus Lietuvos Respublikos baudžiamojo kodekso (toliau – [[latest/TAR.2B866DFF7D43|Baudžiamasis kodeksas]]) [[latest/TAR.2B866DFF7D43#^s-02a16654ccfc506a8eb5eb19|207]], [[latest/TAR.2B866DFF7D43#^s-eaa49cde7cf38c86997508ea|208]], [[latest/TAR.2B866DFF7D43#^s-3f13f8caf90bee52df399955|209]], [[latest/TAR.2B866DFF7D43#^s-81e5380120c7e5d512dd8361|216]], [[latest/TAR.2B866DFF7D43#^s-4db58fec071a76ed41708106|222]], [[latest/TAR.2B866DFF7D43#^s-d074720b567c183c10d79504|223]] straipsniuose, ir jo teistumas nėra išnykęs, jeigu dėl to jis tapo nemokus; ^s-ce7380af784cd97301af27ad
 
 
-5) nuo fizinio asmens bankroto proceso nutraukimo ar pabaigos nepraėję 10 metų, išskyrus šio įstatymo [[#^s-f18a1a45a36d23ca0cc395a3|10 straipsnio 1 dalies]] 1, 2 ir 7 punktuose nurodytus atvejus; ^s-13eddd8bc24fe40fc0dfac23
+5) nuo fizinio asmens bankroto proceso nutraukimo ar pabaigos nepraėję 10 metų, išskyrus šio įstatymo [[#^s-f18a1a45a36d23ca0cc395a3|10 straipsnio 1 dalies]] [[#^s-652d597d60d9687fcca72503|1]], [[#^s-fc3b6a5f9f32fb3d7d56c5d4|2]] ir [[#^s-831b93960cfb3d238936da57|7]] punktuose nurodytus atvejus; ^s-13eddd8bc24fe40fc0dfac23
 
 
-6) paaiškėja, kad yra iškelta neribotos civilinės atsakomybės juridinio asmens, kurio dalyvis yra fizinis asmuo, bankroto byla. ^s-c334b73274134fed6eb074fd
+6) paaiškėja, kad yra iškelta neribotos civilinės atsakomybės juridinio asmens, kurio dalyvis yra [[latest/TAR.C677663D2202|fizinis asmuo]], bankroto byla. ^s-c334b73274134fed6eb074fd
 Straipsnio punkto pakeitimai:
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
@@ -311,7 +311,7 @@ Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 
 
 
-10. Teismas, priėmęs nutartį atsisakyti iškelti fizinio asmens bankroto bylą [[#^s-c334b73274134fed6eb074fd|šio straipsnio 8 dalies 6 punkte]] nurodytu pagrindu, ne vėliau kaip kitą darbo dieną nuo šios nutarties įsiteisėjimo dienos visus su pareiškimu iškelti fizinio asmens bankroto bylą susijusius dokumentus perduoda neribotos civilinės atsakomybės juridinio asmens, kurio dalyvis yra fizinis asmuo, bankroto bylą nagrinėjančiam teismui, o šis sprendžia fizinio asmens turto realizavimo ir (ar) išieškojimo, įskaitant išieškojimą ne ginčo tvarka, ir laikinųjų apsaugos priemonių atnaujinimo klausimus. ^s-a235b167264565e0791ebc96
+10. Teismas, priėmęs nutartį atsisakyti iškelti fizinio asmens bankroto bylą [[#^s-c334b73274134fed6eb074fd|šio straipsnio 8 dalies 6 punkte]] nurodytu pagrindu, ne vėliau kaip kitą darbo dieną nuo šios nutarties įsiteisėjimo dienos visus su pareiškimu iškelti fizinio asmens bankroto bylą susijusius dokumentus perduoda neribotos civilinės atsakomybės juridinio asmens, kurio dalyvis yra [[latest/TAR.C677663D2202|fizinis asmuo]], bankroto bylą nagrinėjančiam teismui, o šis sprendžia fizinio asmens turto realizavimo ir (ar) išieškojimo, įskaitant išieškojimą ne ginčo tvarka, ir laikinųjų apsaugos priemonių atnaujinimo klausimus. ^s-a235b167264565e0791ebc96
 Papildyta straipsnio dalimi:
 Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 
@@ -320,7 +320,7 @@ Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 ### 6 straipsnis. Fizinio asmens bankroto bylos iškėlimas ^s-b4c7821a573f64471a2ad016
 
 
-1. Teismas priima nutartį iškelti fizinio asmens bankroto bylą, jeigu nustato, kad fizinis asmuo yra nemokus ir nėra šio įstatymo [[#^s-df8ea5e5dcbf0843ee3b56cf|5 straipsnio 8 dalyje]] nustatytų pagrindų. ^s-7adc97f6b0e3d2a2be8fab9e
+1. Teismas priima nutartį iškelti fizinio asmens bankroto bylą, jeigu nustato, kad [[latest/TAR.C677663D2202|fizinis asmuo]] yra nemokus ir nėra šio įstatymo [[#^s-df8ea5e5dcbf0843ee3b56cf|5 straipsnio 8 dalyje]] nustatytų pagrindų. ^s-7adc97f6b0e3d2a2be8fab9e
 
 
 2. Teismo nutartis iškelti fizinio asmens bankroto bylą arba atsisakyti ją iškelti įsiteisėja per 7 dienas nuo jos priėmimo dienos, jeigu ji nebuvo apskųsta. ^s-6ddd92d7c935f68a3f763b55
@@ -403,16 +403,16 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 4) bankroto administratorius nedelsdamas savo vardu atidaro atskirą depozitinę sąskaitą kredito įstaigoje fizinio asmens kreditorių reikalavimams tenkinti (toliau – depozitinė sąskaita). Depozitinės sąskaitos lėšomis disponuoja bankroto administratorius; ^s-ac6d89f334bb8250a3fd59ed
 
 
-5) fizinis asmuo vykdo individualią ir (ar) ūkininko veiklą iki nutarties patvirtinti planą įsiteisėjimo dienos tik turėdamas teismo leidimą, jeigu ši veikla mažina dėl bankroto patiriamus kreditorių nuostolius. Individuali ir (ar) ūkininko veikla, kuri nemažina dėl bankroto patiriamų kreditorių nuostolių, turi būti nutraukta. Reikalavimai, atsiradę iš individualios ir (ar) ūkininko veiklos dėl neįvykdytų prievolių ir įsipareigojimų, tvirtinami nutraukus fizinio asmens individualią ir (ar) ūkininko veiklą ir tenkinami šio įstatymo [[#^s-396b0e6a8545509a3206c2a3|29 straipsnyje]] nustatyta tvarka; ^s-bb78d55e7eb765b53627f5f0
+5) [[latest/TAR.C677663D2202|fizinis asmuo]] vykdo individualią ir (ar) ūkininko veiklą iki nutarties patvirtinti planą įsiteisėjimo dienos tik turėdamas teismo leidimą, jeigu ši veikla mažina dėl bankroto patiriamus kreditorių nuostolius. Individuali ir (ar) ūkininko veikla, kuri nemažina dėl bankroto patiriamų kreditorių nuostolių, turi būti nutraukta. Reikalavimai, atsiradę iš individualios ir (ar) ūkininko veiklos dėl neįvykdytų prievolių ir įsipareigojimų, tvirtinami nutraukus fizinio asmens individualią ir (ar) ūkininko veiklą ir tenkinami šio įstatymo [[#^s-396b0e6a8545509a3206c2a3|29 straipsnyje]] nustatyta tvarka; ^s-bb78d55e7eb765b53627f5f0
 
 
-6) fizinis asmuo disponuoja lėšomis, esančiomis vienoje sąskaitoje kredito įstaigoje, išskyrus atvejus, kai fizinis asmuo įstatymų nustatyta tvarka verčiasi individualia ir (ar) ūkininko veikla, kuriai vykdyti reikalinga atskira sąskaita (sąskaitos) kredito įstaigoje (įstaigose). ^s-6e7add46a84775d8de65405a
+6) [[latest/TAR.C677663D2202|fizinis asmuo]] disponuoja lėšomis, esančiomis vienoje sąskaitoje kredito įstaigoje, išskyrus atvejus, kai [[latest/TAR.C677663D2202|fizinis asmuo]] įstatymų nustatyta tvarka verčiasi individualia ir (ar) ūkininko veikla, kuriai vykdyti reikalinga atskira sąskaita (sąskaitos) kredito įstaigoje (įstaigose). ^s-6e7add46a84775d8de65405a
 
 
-6. Bankroto administratorius, atidaręs depozitinę sąskaitą, nurodo kredito įstaigai, kad depozitinės sąskaitos išrašus turi teisę gauti fizinis asmuo, ir ne vėliau kaip per 3 darbo dienas nuo depozitinės sąskaitos atidarymo dienos perduoda šios sąskaitos duomenis fiziniam asmeniui. ^s-3f512af96bdc02fc0a3bf95d
+6. Bankroto administratorius, atidaręs depozitinę sąskaitą, nurodo kredito įstaigai, kad depozitinės sąskaitos išrašus turi teisę gauti [[latest/TAR.C677663D2202|fizinis asmuo]], ir ne vėliau kaip per 3 darbo dienas nuo depozitinės sąskaitos atidarymo dienos perduoda šios sąskaitos duomenis fiziniam asmeniui. ^s-3f512af96bdc02fc0a3bf95d
 
 
-7. Fizinis asmuo kiek įmanoma greičiau nuo [[#^s-3f512af96bdc02fc0a3bf95d|šio straipsnio 6 dalyje]] nurodytų duomenų gavimo dienos perveda bankroto procedūroms atlikti [[#^s-b4e1ba15fb4c8d6394820575|šio straipsnio 3 dalies 4 punkte]] nurodytą lėšų sumą į bankroto administratoriaus nurodytą depozitinę sąskaitą. ^s-a65a80d5fb85f5fe862fd47d
+7. [[latest/TAR.C677663D2202|Fizinis asmuo]] kiek įmanoma greičiau nuo [[#^s-3f512af96bdc02fc0a3bf95d|šio straipsnio 6 dalyje]] nurodytų duomenų gavimo dienos perveda bankroto procedūroms atlikti [[#^s-b4e1ba15fb4c8d6394820575|šio straipsnio 3 dalies 4 punkte]] nurodytą lėšų sumą į bankroto administratoriaus nurodytą depozitinę sąskaitą. ^s-a65a80d5fb85f5fe862fd47d
 
 
 8. Fizinio asmens, kuris verčiasi individualia veikla ir kuriam teisės aktai suteikia teisę saugoti trečiųjų asmenų lėšas, saugomos trečiųjų asmenų lėšos į šio fizinio asmens turtą neįskaitomos. ^s-c1fcf0edc23c62b68f2ea756
@@ -428,10 +428,10 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 1. Plane turi būti nurodyta: ^s-250e1e1f6d3c5444a6dc8a58
 
 
-1) priežastys, dėl kurių fizinis asmuo negali įvykdyti kreditorių reikalavimų; ^s-32df0f734fa0db9ac9a66866
+1) priežastys, dėl kurių [[latest/TAR.C677663D2202|fizinis asmuo]] negali įvykdyti kreditorių reikalavimų; ^s-32df0f734fa0db9ac9a66866
 
 
-2) lėšos (tarp jų darbo užmokestis, atlyginimas už naudojimąsi autoriaus teisėmis, už teisę į išradimą, dividendai ar kitos pajamos iš juridinių asmenų, kurių dalyvis yra fizinis asmuo, palikimas ir kita, išskyrus lėšas, gautas už parduotą turtą), kurias fizinis asmuo numato gauti periodiškai ar kaip vienkartines pajamas ir per visą bankroto procesą; ^s-d1096fb88716dc30d72a758c
+2) lėšos (tarp jų darbo užmokestis, atlyginimas už naudojimąsi autoriaus teisėmis, už teisę į išradimą, dividendai ar kitos pajamos iš juridinių asmenų, kurių dalyvis yra [[latest/TAR.C677663D2202|fizinis asmuo]], palikimas ir kita, išskyrus lėšas, gautas už parduotą turtą), kurias [[latest/TAR.C677663D2202|fizinis asmuo]] numato gauti periodiškai ar kaip vienkartines pajamas ir per visą bankroto procesą; ^s-d1096fb88716dc30d72a758c
 
 
 3) numatomo parduoti fizinio asmens turimo turto (taip pat ir įkeisto), į kurį teisės aktų nustatyta tvarka gali būti nukreiptas išieškojimas, sąrašas, turto pardavimo eiliškumas, terminai ir numatoma turto pardavimo kaina plano sudarymo metu; ^s-be148905e4f0908766f6cdae
@@ -456,7 +456,7 @@ Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 
 
 
-8) sudarytų sutarčių (tarp jų nuomos, panaudos ir kitų sutarčių), kurių vykdymo terminas dar nepasibaigė ir kurias fizinis asmuo toliau numato vykdyti, sąrašas; ^s-29414ce902b8b9d4a18857c0
+8) sudarytų sutarčių (tarp jų nuomos, panaudos ir kitų sutarčių), kurių vykdymo terminas dar nepasibaigė ir kurias [[latest/TAR.C677663D2202|fizinis asmuo]] toliau numato vykdyti, sąrašas; ^s-29414ce902b8b9d4a18857c0
 
 
 9) sudarytų sutarčių (tarp jų nuomos, panaudos ir kitų sutarčių), kurių vykdymo terminas dar nepasibaigė ir kurias jis numato nutraukti, sąrašas, taip pat dėl šios priežasties atsirandančių kreditorių reikalavimų sąrašas; ^s-2bd1e41c8a9f4f3a1ad1a3f3
@@ -465,7 +465,7 @@ Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 10) kreditorių sąrašas, kuriame nurodomi šio įstatymo [[#^s-c1c3d5120218c74ea9cedc19|4 straipsnio 4 dalies 5 punkte]] nurodyti duomenys; ^s-26742a35dc449d1f74428ad0
 
 
-11) kreditorių pagalba, nurodyta šio įstatymo [[#^s-a453ba4b59b88ebe49f7213a|24 straipsnio 4 punkte]]; ^s-d187fdcf651f7b7de03ccb6a
+11) kreditorių pagalba, nurodyta šio įstatymo 24 straipsnio 4 punkte; ^s-d187fdcf651f7b7de03ccb6a
 
 
 12) kreditorių reikalavimų tenkinimo grafikas, kuriame nurodomos ne rečiau kaip kartą per pusę metų ir per visą bankroto procesą kiekvienam kreditoriui mokamos lėšos (laikantis šio įstatymo [[#^s-396b0e6a8545509a3206c2a3|29 straipsnyje]] nurodytos jų tenkinimo eilės ir tvarkos). Kai sudaromas šio įstatymo [[#^s-d0fba8bc147b60e04767c8a1|4 straipsnio 4 dalies 10 punkte]] nurodytas susitarimas, įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai kreditorių reikalavimų tenkinimo grafike nėra nurodomi; ^s-60569cbe65dabb855535e933
@@ -483,7 +483,7 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 2. Fizinio asmens, kuris įstatymų nustatyta tvarka verčiasi individualia ir (ar) ūkininko veikla arba numato verstis individualia ir (ar) ūkininko veikla, plane, be [[#^s-250e1e1f6d3c5444a6dc8a58|šio straipsnio 1 dalyje]] nurodytų duomenų, taip pat turi būti nurodyta: ^s-cc9708bc33d4973831fb9c91
 
 
-1) lėšos, kurias fizinis asmuo numato gauti periodiškai iš individualios ir (ar) ūkininko veiklos bankroto proceso metu; ^s-61f3430e70473faebb122239
+1) lėšos, kurias [[latest/TAR.C677663D2202|fizinis asmuo]] numato gauti periodiškai iš individualios ir (ar) ūkininko veiklos bankroto proceso metu; ^s-61f3430e70473faebb122239
 
 
 2) reikalingo individualiai ir (ar) ūkininko veiklai vykdyti turto (taip pat ir įkeisto) sąrašas; ^s-38a68400a159511b96fdc6cf
@@ -504,7 +504,7 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 
 
-3. Fiziniam asmeniui ir (ar) teisės aktų nustatyta tvarka jo išlaikomų asmenų būtiniesiems poreikiams tenkinti nustatoma lėšų suma negali būti mažesnė už lėšų sumą, kuri būtų paliekama fiziniam asmeniui, atliekant išskaitas Civilinio proceso kodekso nustatyta tvarka. ^s-4e723da06e9254412e1ae0df
+3. Fiziniam asmeniui ir (ar) teisės aktų nustatyta tvarka jo išlaikomų asmenų būtiniesiems poreikiams tenkinti nustatoma lėšų suma negali būti mažesnė už lėšų sumą, kuri būtų paliekama fiziniam asmeniui, atliekant išskaitas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-4e723da06e9254412e1ae0df
 
 
 4. Visos plane įrašytos lėšos ir jų sumos nurodomos eurais. ^s-63eeb562e8fe0cf90688c469
@@ -529,13 +529,13 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 ### 8 straipsnis. Plano tvirtinimas ^s-a3166d227ab4e7171ea3d533
 
 
-1. Fizinis asmuo ne vėliau kaip per 15 dienų nuo teismo nutarties dėl kreditorių reikalavimų tvirtinimo įsiteisėjimo dienos turi pateikti bankroto administratoriui plano projektą. ^s-d5eef15d6e1de2c4785944ef
+1. [[latest/TAR.C677663D2202|Fizinis asmuo]] ne vėliau kaip per 15 dienų nuo teismo nutarties dėl kreditorių reikalavimų tvirtinimo įsiteisėjimo dienos turi pateikti bankroto administratoriui plano projektą. ^s-d5eef15d6e1de2c4785944ef
 
 
 2. Bankroto administratorius, gavęs plano projektą: ^s-95e025555e7f628453d93d61
 
 
-1) ne vėliau kaip per 5 darbo dienas nuo plano projekto gavimo dienos parengia ir pateikia fiziniam asmeniui argumentuotą rašytinę išvadą dėl plano projekto įgyvendinimo galimybių (toliau – išvada). Šioje išvadoje turi būti nurodyta, ar fizinio asmens turimas turtas ir profesinė kvalifikacija, individualios ar ūkininko veiklos vykdymas (kai tokią veiklą numatoma vykdyti) ir kitos plano įgyvendinimui reikšmingos faktinės aplinkybės leidžia tikėtis plano projekte numatytų lėšų, kad būtų įvykdyti plano projekte numatyti mokėjimai; ar fizinis asmuo numato panaudoti visas galimybes gauti lėšų kreditorių reikalavimams patenkinti ir administravimo išlaidoms apmokėti, taip pat visos kitos aplinkybės, kurias, administratoriaus vertinimu, tikslinga nurodyti. Išvadoje administratorius privalo įvertinti administravimo išlaidų sumos pagrindimą; ^s-a7261348d0097eb264f2cfc9
+1) ne vėliau kaip per 5 darbo dienas nuo plano projekto gavimo dienos parengia ir pateikia fiziniam asmeniui argumentuotą rašytinę išvadą dėl plano projekto įgyvendinimo galimybių (toliau – išvada). Šioje išvadoje turi būti nurodyta, ar fizinio asmens turimas turtas ir profesinė kvalifikacija, individualios ar ūkininko veiklos vykdymas (kai tokią veiklą numatoma vykdyti) ir kitos plano įgyvendinimui reikšmingos faktinės aplinkybės leidžia tikėtis plano projekte numatytų lėšų, kad būtų įvykdyti plano projekte numatyti mokėjimai; ar [[latest/TAR.C677663D2202|fizinis asmuo]] numato panaudoti visas galimybes gauti lėšų kreditorių reikalavimams patenkinti ir administravimo išlaidoms apmokėti, taip pat visos kitos aplinkybės, kurias, administratoriaus vertinimu, tikslinga nurodyti. Išvadoje administratorius privalo įvertinti administravimo išlaidų sumos pagrindimą; ^s-a7261348d0097eb264f2cfc9
 Straipsnio punkto pakeitimai:
 Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
@@ -545,7 +545,7 @@ Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 2) likus ne mažiau kaip 20 dienų iki numatomo kreditorių susirinkimo pateikia išvadą ir plano projektą kiekvienam fizinio asmens kreditoriui ir šaukia pirmąjį kreditorių susirinkimą dėl pritarimo plano projektui, suderinęs su fiziniu asmeniu šio susirinkimo vietą ir laiką. ^s-d5001a66a02d77bdd42ff04e
 
 
-3. Kreditorių susirinkime dėl pritarimo plano projektui balsuojama kreditorių grupėse. Vieną grupę sudaro įkaito turėtojai ir hipotekos kreditoriai, kitą – kiti kreditoriai. Sprendimas dėl pritarimo plano projektui laikomas priimtu, kai kiekvienoje kreditorių grupėje plano projektui pritaria kreditoriai, kurių teismo patvirtintų reikalavimų suma vertine išraiška sudaro daugiau kaip pusę šios grupės kreditorių teismo patvirtintų reikalavimų sumos. Jeigu balsai dėl pritarimo plano projektui vienoje kreditorių grupėje pasiskirsto po lygiai, laikoma, kad plano projektui nepritarta. Jeigu kreditorių susirinkimas nepritaria plano projektui dėl to, kad jis neatitinka šio įstatymo [[#^s-c6b3e2eb56a1b6acd578c95c|7 straipsnyje]] nustatytų reikalavimų, ir (arba) pritaria administratoriaus išvadai, kad nėra galimybių įgyvendinti planą ir (arba) administravimo išlaidų sumos pagal šio įstatymo [[#^s-69cba604f547041f39ab1903|22 straipsnio 1 dalyje]] nurodytą administravimo išlaidų struktūrą nepagrįstai didelės ar nepagrįstai mažos, plano projektas gali būti tikslinamas ir ne vėliau kaip per 2 mėnesius nuo kreditorių sprendimo nepritarti plano projektui priėmimo pakartotinai teikiamas kreditorių susirinkimui. Jeigu kreditorių susirinkimas nepritaria plano projektui nenurodydamas priežasčių arba dėl priežasčių, nesusijusių su plano projekto tikslinimu pagal šio įstatymo 7 ir šiame straipsnyje nustatytus reikalavimus, plano projektas pateikiamas teismui šio straipsnio 4 ir [[#^s-7eee42af13259d46230a1a85|5 dalyse]] nustatyta tvarka. Kai plano projektas patikslinamas, išskyrus [[#^s-709e54bdf2ebac9338e7c135|šio straipsnio 6 dalyje]] numatytą atvejį, bankroto administratorius turi teisę per 2 darbo dienas nuo patikslinto plano projekto gavimo dienos pateikti naują išvadą. ^s-30ff36a9efde95b36a90cc3d
+3. Kreditorių susirinkime dėl pritarimo plano projektui balsuojama kreditorių grupėse. Vieną grupę sudaro įkaito turėtojai ir hipotekos kreditoriai, kitą – kiti kreditoriai. Sprendimas dėl pritarimo plano projektui laikomas priimtu, kai kiekvienoje kreditorių grupėje plano projektui pritaria kreditoriai, kurių teismo patvirtintų reikalavimų suma vertine išraiška sudaro daugiau kaip pusę šios grupės kreditorių teismo patvirtintų reikalavimų sumos. Jeigu balsai dėl pritarimo plano projektui vienoje kreditorių grupėje pasiskirsto po lygiai, laikoma, kad plano projektui nepritarta. Jeigu kreditorių susirinkimas nepritaria plano projektui dėl to, kad jis neatitinka šio įstatymo [[#^s-c6b3e2eb56a1b6acd578c95c|7 straipsnyje]] nustatytų reikalavimų, ir (arba) pritaria administratoriaus išvadai, kad nėra galimybių įgyvendinti planą ir (arba) administravimo išlaidų sumos pagal šio įstatymo [[#^s-69cba604f547041f39ab1903|22 straipsnio 1 dalyje]] nurodytą administravimo išlaidų struktūrą nepagrįstai didelės ar nepagrįstai mažos, plano projektas gali būti tikslinamas ir ne vėliau kaip per 2 mėnesius nuo kreditorių sprendimo nepritarti plano projektui priėmimo pakartotinai teikiamas kreditorių susirinkimui. Jeigu kreditorių susirinkimas nepritaria plano projektui nenurodydamas priežasčių arba dėl priežasčių, nesusijusių su plano projekto tikslinimu pagal šio įstatymo 7 ir šiame straipsnyje nustatytus reikalavimus, plano projektas pateikiamas teismui šio straipsnio [[#^s-e0f9708f3a6a453cc4922d46|4]] ir [[#^s-7eee42af13259d46230a1a85|5]] dalyse nustatyta tvarka. Kai plano projektas patikslinamas, išskyrus [[#^s-709e54bdf2ebac9338e7c135|šio straipsnio 6 dalyje]] numatytą atvejį, bankroto administratorius turi teisę per 2 darbo dienas nuo patikslinto plano projekto gavimo dienos pateikti naują išvadą. ^s-30ff36a9efde95b36a90cc3d
 Straipsnio dalies pakeitimai:
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
@@ -568,7 +568,7 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 
 
 
-7. Teismas gali nepatvirtinti plano, jeigu nustato, kad buvo pažeistos šio straipsnio 1–[[#^s-e0f9708f3a6a453cc4922d46|4 dalių]] nuostatos ir (ar) šio įstatymo [[#^s-d0fba8bc147b60e04767c8a1|4 straipsnio 4 dalies 10 punkte]] nurodytas susitarimas pažeidžia kitų kreditorių teises ir (ar) teisėtus interesus ir per nustatytą terminą nepašalinti trūkumai. ^s-30d64ce9f7566fd9cee88fcd
+7. Teismas gali nepatvirtinti plano, jeigu nustato, kad buvo pažeistos šio straipsnio [[#^s-d5eef15d6e1de2c4785944ef|1]]–[[#^s-e0f9708f3a6a453cc4922d46|4]] dalių nuostatos ir (ar) šio įstatymo [[#^s-d0fba8bc147b60e04767c8a1|4 straipsnio 4 dalies 10 punkte]] nurodytas susitarimas pažeidžia kitų kreditorių teises ir (ar) teisėtus interesus ir per nustatytą terminą nepašalinti trūkumai. ^s-30d64ce9f7566fd9cee88fcd
 Straipsnio dalies pakeitimai:
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
@@ -577,7 +577,7 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 8. [[#^s-30ff36a9efde95b36a90cc3d|Šio straipsnio 3 dalyje]] nurodytu atveju teismas gali patvirtinti planą, atsižvelgdamas į bankroto administratoriaus išvadą ir įvertinęs nemokaus fizinio asmens bei jo kreditorių teises ir teisėtus interesus. ^s-55006a39f94e06d518370815
 
 
-9. Jeigu fizinis asmuo susitaria su įkaito turėtoju ir (ar) hipotekos kreditoriumi dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, teismas, tvirtindamas planą, įvertina, ar šis susitarimas nepažeidžia kitų kreditorių teisių ir (ar) teisėtų interesų. Gali būti laikoma, kad šis susitarimas nepažeidžia kitų kreditorių teisių ir (ar) teisėtų interesų, jeigu išsaugomas įkeistas turtas, kuris yra vienintelis gyvenamasis būstas ir būtinas fizinio asmens ir (ar) jo išlaikomų asmenų poreikiams tenkinti, ir kiekvieną mėnesį mokėjimams hipotekos kreditoriui pagal šio įstatymo [[#^s-d0fba8bc147b60e04767c8a1|4 straipsnio 4 dalies 10 punkte]] nurodytą susitarimą skiriamos lėšos yra mažesnės negu kiekvieną mėnesį fiziniam asmeniui gyvenamojo būsto nuomai skirtinos reikalingos lėšos įkeisto turto, kuris yra vienintelis gyvenamasis būstas, pardavimo atveju arba jeigu pardavus įkeistą turtą fizinis asmuo negalėtų vykdyti pelningos individualios ir (ar) ūkininko veiklos. ^s-d4b97d0543366103c97e6051
+9. Jeigu [[latest/TAR.C677663D2202|fizinis asmuo]] susitaria su įkaito turėtoju ir (ar) hipotekos kreditoriumi dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, teismas, tvirtindamas planą, įvertina, ar šis susitarimas nepažeidžia kitų kreditorių teisių ir (ar) teisėtų interesų. Gali būti laikoma, kad šis susitarimas nepažeidžia kitų kreditorių teisių ir (ar) teisėtų interesų, jeigu išsaugomas įkeistas turtas, kuris yra vienintelis gyvenamasis būstas ir būtinas fizinio asmens ir (ar) jo išlaikomų asmenų poreikiams tenkinti, ir kiekvieną mėnesį mokėjimams hipotekos kreditoriui pagal šio įstatymo [[#^s-d0fba8bc147b60e04767c8a1|4 straipsnio 4 dalies 10 punkte]] nurodytą susitarimą skiriamos lėšos yra mažesnės negu kiekvieną mėnesį fiziniam asmeniui gyvenamojo būsto nuomai skirtinos reikalingos lėšos įkeisto turto, kuris yra vienintelis gyvenamasis būstas, pardavimo atveju arba jeigu pardavus įkeistą turtą [[latest/TAR.C677663D2202|fizinis asmuo]] negalėtų vykdyti pelningos individualios ir (ar) ūkininko veiklos. ^s-d4b97d0543366103c97e6051
 Papildyta straipsnio dalimi:
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
@@ -600,10 +600,10 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 1) bankroto administratorius disponuoja fizinio asmens turtu ir depozitinės sąskaitos lėšomis pagal plane nustatytą tvarką, išskyrus šiame įstatyme numatytas išimtis; ^s-5f024726107cfbdd00470be9
 
 
-2) fizinis asmuo praneša suinteresuotiems asmenims apie tai, kad bus nutrauktos fizinio asmens iki bankroto bylos iškėlimo sudarytos sutartys, kurių vykdymo terminas dar nepasibaigė ir kurias nutraukti numatyta plane. Dėl šios priežasties atsiradę kreditorių reikalavimai yra tenkinami šio įstatymo [[#^s-396b0e6a8545509a3206c2a3|29 straipsnyje]] nustatyta tvarka. ^s-5d888520c738e330e4e5ec40
+2) [[latest/TAR.C677663D2202|fizinis asmuo]] praneša suinteresuotiems asmenims apie tai, kad bus nutrauktos fizinio asmens iki bankroto bylos iškėlimo sudarytos sutartys, kurių vykdymo terminas dar nepasibaigė ir kurias nutraukti numatyta plane. Dėl šios priežasties atsiradę kreditorių reikalavimai yra tenkinami šio įstatymo [[#^s-396b0e6a8545509a3206c2a3|29 straipsnyje]] nustatyta tvarka. ^s-5d888520c738e330e4e5ec40
 
 
-12. Už teismo patvirtinto plano įgyvendinimą atsako fizinis asmuo ir bankroto administratorius pagal savo kompetenciją. ^s-1fba1191d31abd9fb1b5039a
+12. Už teismo patvirtinto plano įgyvendinimą atsako [[latest/TAR.C677663D2202|fizinis asmuo]] ir bankroto administratorius pagal savo kompetenciją. ^s-1fba1191d31abd9fb1b5039a
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
@@ -621,10 +621,10 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 1. Fizinio asmens bankroto byla gali būti iškeliama supaprastinta tvarka, kai plano projektas pagal šio įstatymo nuostatas parengiamas iki pareiškimo iškelti fizinio asmens bankroto bylą pateikimo teismui dienos. ^s-86befa3d6762caa2eb7eeb5c
 
 
-2. Taikant supaprastintą bankroto bylos iškėlimo tvarką, fizinis asmuo kartu su pareiškimu teismui iškelti bankroto bylą pateikia: ^s-52cd1a8c224df4bbd565aaf9
+2. Taikant supaprastintą bankroto bylos iškėlimo tvarką, [[latest/TAR.C677663D2202|fizinis asmuo]] kartu su pareiškimu teismui iškelti bankroto bylą pateikia: ^s-52cd1a8c224df4bbd565aaf9
 
 
-1) šio įstatymo [[#^s-76c4a165d15c4a17f1fc588d|4 straipsnio 4 dalies]] 1, 2, 3, 4 ir 7 punktuose nurodytus dokumentus ir duomenis; ^s-250283874472016ede231dc6
+1) šio įstatymo [[#^s-76c4a165d15c4a17f1fc588d|4 straipsnio 4 dalies]] [[#^s-7aae54e38dfc39001e4de33d|1]], [[#^s-c552da71d413bcaa8b215d81|2]], [[#^s-5ed8f7f925fbd136d578d7d0|3]], [[#^s-422979a440ea13c10adf5ca5|4]] ir [[#^s-ac9e9aa37052cc5687dd491b|7]] punktuose nurodytus dokumentus ir duomenis; ^s-250283874472016ede231dc6
 
 
 2) plano projektą; ^s-51f95406be308e9a5b67acd2
@@ -636,13 +636,13 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 
 
-3. Fizinis asmuo kartu su pareiškimu iškelti bankroto bylą teismui pasiūlo bankroto administratoriaus kandidatūrą. Fizinis asmuo, siūlydamas bankroto administratoriaus kandidatūrą, pateikia šio įstatymo [[#^s-1249fafad6b31071e84cd440|4 straipsnio 5 dalyje]] nurodytą sutikimą-deklaraciją. ^s-c295f73374031619580c2298
+3. [[latest/TAR.C677663D2202|Fizinis asmuo]] kartu su pareiškimu iškelti bankroto bylą teismui pasiūlo bankroto administratoriaus kandidatūrą. [[latest/TAR.C677663D2202|Fizinis asmuo]], siūlydamas bankroto administratoriaus kandidatūrą, pateikia šio įstatymo [[#^s-1249fafad6b31071e84cd440|4 straipsnio 5 dalyje]] nurodytą sutikimą-deklaraciją. ^s-c295f73374031619580c2298
 Straipsnio dalies pakeitimai:
 Nr. XV-987, 2026-06-04, paskelbta TAR 2026-06-12, i. k. 2026-10324
 
 
 
-4. Teismas, gavęs šio straipsnio 2 ir [[#^s-c295f73374031619580c2298|3 dalyse]] nurodytus dokumentus, ne vėliau kaip per vieną mėnesį nuo nutarties dėl pareiškimo iškelti fiziniam asmeniui bankroto bylą priėmimo dienos juos išnagrinėja ir priima nutartį iškelti fizinio asmens bankroto bylą, patvirtinti planą ir paskirti bankroto administratorių arba atsisakyti iškelti fizinio asmens bankroto bylą. Teismas turi teisę dėl svarbių priežasčių pratęsti pasirengimo nagrinėti fizinio asmens bankroto bylą teisme terminą, bet ne ilgiau kaip vienam mėnesiui. Teismui iškeliant fizinio asmens bankroto bylą supaprastinta tvarka ar atsisakant ją kelti, mutatis mutandis taikomos šio įstatymo [[#^s-b1164a0a625390f7d79c29bb|5 straipsnio]] 1, 2, 3, 7, 8 ir 9 dalių, [[#^s-b4c7821a573f64471a2ad016|6 straipsnio]] 1 ir [[#^s-52cd1a8c224df4bbd565aaf9|2 dalių]], [[#^s-c295f73374031619580c2298|3 dalies]] 1 ir 2 punktų, [[#^s-d8bfbb8b13fb40cabe258590|4 dalies]], [[#^s-5a4c1241dfed353af19d4137|5 dalies]] 1, 2, 3, 4 ir 6 punktų ir 6, 8 ir 9 dalių nuostatos. ^s-d8bfbb8b13fb40cabe258590
+4. Teismas, gavęs šio straipsnio [[#^s-52cd1a8c224df4bbd565aaf9|2]] ir [[#^s-c295f73374031619580c2298|3]] dalyse nurodytus dokumentus, ne vėliau kaip per vieną mėnesį nuo nutarties dėl pareiškimo iškelti fiziniam asmeniui bankroto bylą priėmimo dienos juos išnagrinėja ir priima nutartį iškelti fizinio asmens bankroto bylą, patvirtinti planą ir paskirti bankroto administratorių arba atsisakyti iškelti fizinio asmens bankroto bylą. Teismas turi teisę dėl svarbių priežasčių pratęsti pasirengimo nagrinėti fizinio asmens bankroto bylą teisme terminą, bet ne ilgiau kaip vienam mėnesiui. Teismui iškeliant fizinio asmens bankroto bylą supaprastinta tvarka ar atsisakant ją kelti, mutatis mutandis taikomos šio įstatymo [[#^s-b1164a0a625390f7d79c29bb|5 straipsnio]] [[#^s-f0fd11ba5de7b22bcb958aa6|1]], [[#^s-3c7127086578ea38a5461341|2]], [[#^s-d47a81d484cd934e3c1b75dd|3]], [[#^s-e6c4716197befb574f98acfb|7]], [[#^s-df8ea5e5dcbf0843ee3b56cf|8]] ir [[#^s-734d288076e565b1999c4228|9]] dalių, [[#^s-b4c7821a573f64471a2ad016|6 straipsnio]] [[#^s-7adc97f6b0e3d2a2be8fab9e|1]] ir [[#^s-6ddd92d7c935f68a3f763b55|2]] dalių, [[#^s-c295f73374031619580c2298|3 dalies]] [[#^s-ead8650a88dc14b97685a7a0|1]] ir [[#^s-b8db93642ed013ee33e7764d|2]] punktų, 4 dalies, [[#^s-5a4c1241dfed353af19d4137|5 dalies]] [[#^s-ead8650a88dc14b97685a7a0|1]], [[#^s-b8db93642ed013ee33e7764d|2]], [[#^s-05cfa7578bceacb21a61473b|3]], [[#^s-97bdf87a36e31e8bd3edd17f|4]] ir [[#^s-34c3080e2882e03e2737433f|6]] punktų ir [[#^s-3f512af96bdc02fc0a3bf95d|6]], [[#^s-c1fcf0edc23c62b68f2ea756|8]] ir [[#^s-2a67f6d0bb6f219befc99b33|9]] dalių nuostatos. ^s-d8bfbb8b13fb40cabe258590
 Straipsnio dalies pakeitimai:
 Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 
@@ -664,25 +664,25 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 2) teismas nepatvirtina plano; ^s-fc3b6a5f9f32fb3d7d56c5d4
 
 
-3) paaiškėja, kad fizinis asmuo pateikė neteisingą informaciją apie savo turtą, pajamas, įsipareigojimus, nemokumo priežastis ar kita ir dėl to plane numatytos priemonės gali būti neįvykdytos; ^s-89dedc997f44284085fe181f
+3) paaiškėja, kad [[latest/TAR.C677663D2202|fizinis asmuo]] pateikė neteisingą informaciją apie savo turtą, pajamas, įsipareigojimus, nemokumo priežastis ar kita ir dėl to plane numatytos priemonės gali būti neįvykdytos; ^s-89dedc997f44284085fe181f
 
 
-4) paaiškėja, kad fizinis asmuo tapo nemokus per paskutinius 3 metus iki bankroto bylos iškėlimo ar negalėjo atkurti mokumo iškėlus bankroto bylą dėl šio įstatymo [[#^s-48ce8fa141f2de481c7cdb31|5 straipsnio 8 dalies 2 punkte]] nurodytų veiksmų ar [[#^s-d3e490cf53599118d893d9e0|5 straipsnio 8 dalies 3 punkte]] nurodytų žalingų įpročių; ^s-cfa01a16e2c5752528f18dbf
+4) paaiškėja, kad [[latest/TAR.C677663D2202|fizinis asmuo]] tapo nemokus per paskutinius 3 metus iki bankroto bylos iškėlimo ar negalėjo atkurti mokumo iškėlus bankroto bylą dėl šio įstatymo [[#^s-48ce8fa141f2de481c7cdb31|5 straipsnio 8 dalies 2 punkte]] nurodytų veiksmų ar [[#^s-d3e490cf53599118d893d9e0|5 straipsnio 8 dalies 3 punkte]] nurodytų žalingų įpročių; ^s-cfa01a16e2c5752528f18dbf
 
 
-5) paaiškėja, kad fizinis asmuo buvo teistas už nusikaltimus ar baudžiamuosius nusižengimus, nurodytus Baudžiamojo kodekso 207, 208, 209, 216, 222 ir 223 straipsniuose, ir teistumas nėra išnykęs, jeigu dėl to jis tapo nemokus; ^s-1a01ab4bfcd396a1e28cf91a
+5) paaiškėja, kad [[latest/TAR.C677663D2202|fizinis asmuo]] buvo teistas už nusikaltimus ar baudžiamuosius nusižengimus, nurodytus Baudžiamojo kodekso 207, 208, 209, 216, 222 ir 223 straipsniuose, ir teistumas nėra išnykęs, jeigu dėl to jis tapo nemokus; ^s-1a01ab4bfcd396a1e28cf91a
 
 
-6) fizinis asmuo nuslepia nuo bankroto administratoriaus bankroto proceso metu gautas lėšas ir kitą turtą, kurių vertė viršija vieną bazinės socialinės išmokos dydį per mėnesį, ir tai gali pakenkti kreditorių interesams ar turėti įtakos fizinio asmens mokumui atkurti; ^s-b6f413e92cf2b16617d84dc1
+6) [[latest/TAR.C677663D2202|fizinis asmuo]] nuslepia nuo bankroto administratoriaus bankroto proceso metu gautas lėšas ir kitą turtą, kurių vertė viršija vieną bazinės socialinės išmokos dydį per mėnesį, ir tai gali pakenkti kreditorių interesams ar turėti įtakos fizinio asmens mokumui atkurti; ^s-b6f413e92cf2b16617d84dc1
 
 
-7) iškeliama neribotos civilinės atsakomybės juridinio asmens, kurio dalyvis yra fizinis asmuo, bankroto byla; ^s-831b93960cfb3d238936da57
+7) iškeliama neribotos civilinės atsakomybės juridinio asmens, kurio dalyvis yra [[latest/TAR.C677663D2202|fizinis asmuo]], bankroto byla; ^s-831b93960cfb3d238936da57
 
 
-8) fizinis asmuo nevykdo kitų šio įstatymo nustatytų reikalavimų; ^s-e1f3037903d7dfc904070223
+8) [[latest/TAR.C677663D2202|fizinis asmuo]] nevykdo kitų šio įstatymo nustatytų reikalavimų; ^s-e1f3037903d7dfc904070223
 
 
-9) fizinis asmuo miršta; ^s-1efa1b4a84388a4a62a92738
+9) [[latest/TAR.C677663D2202|fizinis asmuo]] miršta; ^s-1efa1b4a84388a4a62a92738
 
 
 10) kitais šio įstatymo nustatytais atvejais. ^s-7f2a882ac4601ccaea9abb19
@@ -691,7 +691,7 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 2. Teismas gali priimti nutartį nutraukti fizinio asmens bankroto bylą, jeigu plane numatytos priemonės neįgyvendinamos ir dėl to kreditoriai, kurių reikalavimų suma vertine išraiška viršija visų teismo patvirtintų kreditorių reikalavimų 2/3 sumos, kreipiasi į teismą dėl fizinio asmens bankroto bylos nutraukimo. ^s-7c02bb4c68639b69eaa1a529
 
 
-3. Nutraukus fizinio asmens bankroto bylą šio straipsnio 1 ir [[#^s-7c02bb4c68639b69eaa1a529|2 dalyse]] nustatytais atvejais, visi mokesčiai ir su jais susijusios sumos, palūkanos ir netesybos skaičiuojami nuo teismo nutarties iškelti šią bylą įsiteisėjimo dienos, išskyrus jau įvykdytus skolinius įsipareigojimus. ^s-3710f6e647b51eacbf841a84
+3. Nutraukus fizinio asmens bankroto bylą šio straipsnio [[#^s-f18a1a45a36d23ca0cc395a3|1]] ir [[#^s-7c02bb4c68639b69eaa1a529|2]] dalyse nustatytais atvejais, visi mokesčiai ir su jais susijusios sumos, palūkanos ir netesybos skaičiuojami nuo teismo nutarties iškelti šią bylą įsiteisėjimo dienos, išskyrus jau įvykdytus skolinius įsipareigojimus. ^s-3710f6e647b51eacbf841a84
 
 
 
@@ -706,7 +706,7 @@ BANKROTO ADMINISTRATORIUS
 1. Bankroto administratorių skiria teismas. ^s-728cd3ef38bf13cefc68dcaa
 
 
-2. Bankroto administratoriaus kandidatūrą turi teisę pasiūlyti fizinis asmuo ir (ar) kreditorius (kreditoriai). Jeigu fizinis asmuo bankroto administratoriaus kandidatūros nepasiūlo, teismas skiria bankroto administratorių, kurio kandidatūrą pasiūlo šio įstatymo [[#^s-ad7ca28f556efa82a47621b8|13 straipsnio 9 dalyje]] nurodyta Lietuvos Respublikos Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka. Kai fizinio asmens bankroto byla iškeliama supaprastinta tvarka, fizinis asmuo kartu su pareiškimu teismui iškelti bankroto bylą privalo pasiūlyti bankroto administratoriaus kandidatūrą. ^s-122deea7ae5f3200841d1633
+2. Bankroto administratoriaus kandidatūrą turi teisę pasiūlyti [[latest/TAR.C677663D2202|fizinis asmuo]] ir (ar) kreditorius (kreditoriai). Jeigu [[latest/TAR.C677663D2202|fizinis asmuo]] bankroto administratoriaus kandidatūros nepasiūlo, teismas skiria bankroto administratorių, kurio kandidatūrą pasiūlo šio įstatymo [[#^s-ad7ca28f556efa82a47621b8|13 straipsnio 9 dalyje]] nurodyta Lietuvos Respublikos Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka. Kai fizinio asmens bankroto byla iškeliama supaprastinta tvarka, [[latest/TAR.C677663D2202|fizinis asmuo]] kartu su pareiškimu teismui iškelti bankroto bylą privalo pasiūlyti bankroto administratoriaus kandidatūrą. ^s-122deea7ae5f3200841d1633
 
 
 3. Bankroto administratoriumi negali būti paskirti šie per paskutinius 3 metus iki fizinio asmens bankroto bylos iškėlimo dienos su šiuo fiziniu asmeniu susiję asmenys: ^s-f6e7f131726ece7c3b14ff2f
@@ -748,7 +748,7 @@ Nr. XV-987, 2026-06-04, paskelbta TAR 2026-06-12, i. k. 2026-10324
 
 
 
-6. Jeigu bankroto administratoriaus kandidatūrą pasiūlo fizinis asmuo, bankroto administratoriaus sutikimas-deklaracija pateikiamas kartu su šio įstatymo [[#^s-ad7ca28f556efa82a47621b8|13 straipsnio 9 dalyje]] nurodytos Lietuvos Respublikos Vyriausybės įgaliotos institucijos išvada, kad nėra šiame straipsnyje nustatytų bankroto administratoriaus skyrimo apribojimų. ^s-66addfedca6f0ee6f8ea821e
+6. Jeigu bankroto administratoriaus kandidatūrą pasiūlo [[latest/TAR.C677663D2202|fizinis asmuo]], bankroto administratoriaus sutikimas-deklaracija pateikiamas kartu su šio įstatymo [[#^s-ad7ca28f556efa82a47621b8|13 straipsnio 9 dalyje]] nurodytos Lietuvos Respublikos Vyriausybės įgaliotos institucijos išvada, kad nėra šiame straipsnyje nustatytų bankroto administratoriaus skyrimo apribojimų. ^s-66addfedca6f0ee6f8ea821e
 Papildyta straipsnio dalimi:
 Nr. XV-987, 2026-06-04, paskelbta TAR 2026-06-12, i. k. 2026-10324
 
@@ -778,7 +778,7 @@ Nr. XV-987, 2026-06-04, paskelbta TAR 2026-06-12, i. k. 2026-10324
 6) atstovauja fiziniam asmeniui (arba įgalioja kitą asmenį atstovauti) iškeltose iki bankroto bylos iškėlimo bylose dėl turto išieškojimo iš kitų asmenų fizinio asmens naudai; ^s-eab4778248c176297b6dea0f
 
 
-7) kreipiasi į teismą dėl fizinio asmens bankroto bylos nutraukimo šio įstatymo [[#^s-f18a1a45a36d23ca0cc395a3|10 straipsnio 1 dalies]] 4, 5, 6 ir [[#^s-a1fa2fc28261e8cc599fc322|8 punktuose]] nustatytais pagrindais; ^s-8f89ca36b1ecd47039b097da
+7) kreipiasi į teismą dėl fizinio asmens bankroto bylos nutraukimo šio įstatymo [[#^s-f18a1a45a36d23ca0cc395a3|10 straipsnio 1 dalies]] [[#^s-cfa01a16e2c5752528f18dbf|4]], [[#^s-1a01ab4bfcd396a1e28cf91a|5]], [[#^s-b6f413e92cf2b16617d84dc1|6]] ir [[#^s-e1f3037903d7dfc904070223|8]] punktuose nustatytais pagrindais; ^s-8f89ca36b1ecd47039b097da
 
 
 8) organizuoja ir atlieka kitas šio įstatymo nustatytas procedūras. ^s-a1fa2fc28261e8cc599fc322
@@ -802,7 +802,7 @@ Nr. XV-987, 2026-06-04, paskelbta TAR 2026-06-12, i. k. 2026-10324
 5) be balsavimo teisės dalyvauja kreditorių susirinkimuose; ^s-4826571f4a220acbf07c95e5
 
 
-6) ne rečiau kaip kartą per pusę metų teikia teismui, kreditorių susirinkime kreditoriams ir fiziniam asmeniui plano vykdymo eigos ataskaitą. Šioje ataskaitoje nurodoma fizinio asmens per ataskaitinį laikotarpį gautų lėšų suma, informacija, kaip šios lėšos paskirstytos, ir išsami informacija apie tai, kaip vykdomos plane numatytos šio įstatymo [[#^s-c6b3e2eb56a1b6acd578c95c|7 straipsnio]] 1 ir [[#^s-dc855850afffeb669ebb10ea|2 dalyse]] nurodytos pajamų gavimo ir mokumo atkūrimo priemonės. Kreditorių prašymu bankroto administratorius ne vėliau kaip per 5 darbo dienas nuo prašymo gavimo pateikia šiame punkte nurodytoje ataskaitoje pateiktos informacijos pagrindimo dokumentus. ^s-67b33bc221626b1d446d3505
+6) ne rečiau kaip kartą per pusę metų teikia teismui, kreditorių susirinkime kreditoriams ir fiziniam asmeniui plano vykdymo eigos ataskaitą. Šioje ataskaitoje nurodoma fizinio asmens per ataskaitinį laikotarpį gautų lėšų suma, informacija, kaip šios lėšos paskirstytos, ir išsami informacija apie tai, kaip vykdomos plane numatytos šio įstatymo [[#^s-c6b3e2eb56a1b6acd578c95c|7 straipsnio]] [[#^s-250e1e1f6d3c5444a6dc8a58|1]] ir [[#^s-cc9708bc33d4973831fb9c91|2]] dalyse nurodytos pajamų gavimo ir mokumo atkūrimo priemonės. Kreditorių prašymu bankroto administratorius ne vėliau kaip per 5 darbo dienas nuo prašymo gavimo pateikia šiame punkte nurodytoje ataskaitoje pateiktos informacijos pagrindimo dokumentus. ^s-67b33bc221626b1d446d3505
 Straipsnio punkto pakeitimai:
 Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 
@@ -829,7 +829,7 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 13) vertina fizinio asmens vykdomos individualios ir (ar) ūkininko veiklos tikslingumą ir, nustatęs, kad vykdoma veikla nuostolinga, nedelsdamas sušaukia kreditorių susirinkimą; ^s-cc27077447c9eacdb099da1b
 
 
-14) kreipiasi į teismą dėl fizinio asmens bankroto bylos nutraukimo šio įstatymo [[#^s-f18a1a45a36d23ca0cc395a3|10 straipsnio 1 dalies]] 3, 4, 5, 6 ir [[#^s-33d4ab3eb22d37c0d3be14c1|8 punktuose]] nustatytais pagrindais; ^s-3a680d5463cedf87c74f0176
+14) kreipiasi į teismą dėl fizinio asmens bankroto bylos nutraukimo šio įstatymo [[#^s-f18a1a45a36d23ca0cc395a3|10 straipsnio 1 dalies]] [[#^s-89dedc997f44284085fe181f|3]], [[#^s-cfa01a16e2c5752528f18dbf|4]], [[#^s-1a01ab4bfcd396a1e28cf91a|5]], [[#^s-b6f413e92cf2b16617d84dc1|6]] ir [[#^s-e1f3037903d7dfc904070223|8]] punktuose nustatytais pagrindais; ^s-3a680d5463cedf87c74f0176
 
 
 15) neteko galios 2020-01-01; ^s-f33bcc503b2befba20f54d1b
@@ -852,7 +852,7 @@ Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
 
 
 
-3. Bankroto administratorius ne vėliau kaip per 6 mėnesius nuo dokumentų apie fizinio asmens sandorių sudarymą gavimo dienos patikrina fizinio asmens sandorius, sudarytus per ne trumpesnį kaip 36 mėnesių laikotarpį iki bankroto bylos iškėlimo, ir pareiškia ieškinius fizinio asmens bankroto bylą nagrinėjančiame teisme dėl sandorių, galėjusių turėti įtakos tam, kad fizinis asmuo negali įvykdyti prievolių kreditoriams, pripažinimo negaliojančiais. Šiuo atveju laikytina, kad bankroto administratorius apie sandorius sužinojo nuo dokumentų apie šių sandorių sudarymą gavimo dienos. Bankroto administratorius motyvuotu prašymu kreipiasi į ikiteisminio tyrimo įstaigas dėl fizinio asmens veiksmų, atitinkančių Baudžiamojo kodekso 207, 208, 209, 216, 222 ir 223 straipsniuose nustatytus požymius, nustatymo. ^s-122e30ef79179988752a4801
+3. Bankroto administratorius ne vėliau kaip per 6 mėnesius nuo dokumentų apie fizinio asmens sandorių sudarymą gavimo dienos patikrina fizinio asmens sandorius, sudarytus per ne trumpesnį kaip 36 mėnesių laikotarpį iki bankroto bylos iškėlimo, ir pareiškia ieškinius fizinio asmens bankroto bylą nagrinėjančiame teisme dėl sandorių, galėjusių turėti įtakos tam, kad [[latest/TAR.C677663D2202|fizinis asmuo]] negali įvykdyti prievolių kreditoriams, pripažinimo negaliojančiais. Šiuo atveju laikytina, kad bankroto administratorius apie sandorius sužinojo nuo dokumentų apie šių sandorių sudarymą gavimo dienos. Bankroto administratorius motyvuotu prašymu kreipiasi į ikiteisminio tyrimo įstaigas dėl fizinio asmens veiksmų, atitinkančių Baudžiamojo kodekso 207, 208, 209, 216, 222 ir 223 straipsniuose nustatytus požymius, nustatymo. ^s-122e30ef79179988752a4801
 
 
 4. Bankroto administratorius fizinio asmens bankroto proceso metu turi teisę: ^s-d39e285dcac86450a198eb65
@@ -954,13 +954,13 @@ Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
 1) bankroto administratorius pateikia prašymą dėl atsistatydinimo; ^s-75718396354716b0c3f70340
 
 
-2) teismas gauna informacijos, kad bankroto administratorius neteko teisės administruoti juridinių asmenų nemokumo procesų, ir bankroto administratorius ir (ar) fizinis asmuo nesikreipė į teismą dėl šio bankroto administratoriaus atstatydinimo. Šiuo atveju teismas priima nutartį dėl bankroto administratoriaus atstatydinimo ir naujo bankroto administratoriaus paskyrimo ne vėliau kaip per 15 dienų nuo informacijos gavimo dienos. ^s-b1d5f846abfda8349801d073
+2) teismas gauna informacijos, kad bankroto administratorius neteko teisės administruoti juridinių asmenų nemokumo procesų, ir bankroto administratorius ir (ar) [[latest/TAR.C677663D2202|fizinis asmuo]] nesikreipė į teismą dėl šio bankroto administratoriaus atstatydinimo. Šiuo atveju teismas priima nutartį dėl bankroto administratoriaus atstatydinimo ir naujo bankroto administratoriaus paskyrimo ne vėliau kaip per 15 dienų nuo informacijos gavimo dienos. ^s-b1d5f846abfda8349801d073
 Straipsnio punkto pakeitimai:
 Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
 
 
 
-3) bankroto administratorius negalėjo būti paskirtas fizinio asmens bankroto administratoriumi dėl šio įstatymo [[#^s-3ce7ac0e08f186b24b218304|11 straipsnio]] 3–[[#^s-57656ec56912fdc0d9aec06c|5 dalyse]] nurodytų aplinkybių arba šios aplinkybės atsirado ar paaiškėjo jau jį paskyrus bankroto administratoriumi. ^s-973635b1b7139ac234b8a0ac
+3) bankroto administratorius negalėjo būti paskirtas fizinio asmens bankroto administratoriumi dėl šio įstatymo [[#^s-3ce7ac0e08f186b24b218304|11 straipsnio]] [[#^s-f6e7f131726ece7c3b14ff2f|3]]–[[#^s-1d430beb325e1a2b8681b5fb|5]] dalyse nurodytų aplinkybių arba šios aplinkybės atsirado ar paaiškėjo jau jį paskyrus bankroto administratoriumi. ^s-973635b1b7139ac234b8a0ac
 Papildyta straipsnio punktu:
 Nr. XV-987, 2026-06-04, paskelbta TAR 2026-06-12, i. k. 2026-10324
 
@@ -969,13 +969,13 @@ Nr. XV-987, 2026-06-04, paskelbta TAR 2026-06-12, i. k. 2026-10324
 2. Teismas gali priimti nutartį dėl bankroto administratoriaus atstatydinimo ir naujo bankroto administratoriaus paskyrimo šio įstatymo nustatyta tvarka šiais atvejais, kai: ^s-3072bfaf34bbbb36056cbe30
 
 
-1) fizinis asmuo pateikia motyvuotą prašymą dėl bankroto administratoriaus atstatydinimo ir pasiūlo naują bankroto administratoriaus kandidatūrą; ^s-f4f954835d46e5f2e3ecdac2
+1) [[latest/TAR.C677663D2202|fizinis asmuo]] pateikia motyvuotą prašymą dėl bankroto administratoriaus atstatydinimo ir pasiūlo naują bankroto administratoriaus kandidatūrą; ^s-f4f954835d46e5f2e3ecdac2
 
 
 2) kreditorių susirinkimas ar kreditorius (kreditoriai), kurio (kurių) teismo patvirtinti reikalavimai vertine išraiška sudaro daugiau kaip pusę visų kreditorių patvirtintų reikalavimų sumos, motyvuotu prašymu kreipiasi į teismą dėl bankroto administratoriaus atstatydinimo. ^s-bc7036f3536bc293a9fd0456
 
 
-3. Apie ketinimą pateikti prašymą dėl atsistatydinimo bankroto administratorius praneša fiziniam asmeniui ir kreditorių susirinkimo pirmininkui ne vėliau kaip prieš 10 dienų iki kreipimosi į teismą dienos. Kai bankroto administratorius netenka teisės administruoti juridinių asmenų nemokumo procesų, jis ne vėliau kaip kitą darbo dieną po tos dienos, kai sužinojo apie šios teisės netekimą, pateikia prašymą teismui (teismams) dėl jo atstatydinimo iš visų jo administruojamų fizinio asmens bankroto procesų ir šio prašymo kopiją pateikia fiziniam asmeniui ir kreditorių susirinkimo pirmininkui. Fizinis asmuo ir (ar) kreditorių susirinkimo pirmininkas ne vėliau kaip per 5 darbo dienas nuo šio bankroto administratoriaus pranešimo gavimo dienos arba nuo informacijos, kad bankroto administratorius neteko teisės administruoti juridinių asmenų nemokumo procesų, gavimo dienos gali teismui pasiūlyti naują bankroto administratoriaus kandidatūrą šio įstatymo nustatyta tvarka. Jeigu fizinis asmuo bankroto administratoriaus kandidatūros nepasiūlo, teismas skiria bankroto administratorių, kurio kandidatūrą pasiūlo šio įstatymo [[#^s-ad7ca28f556efa82a47621b8|13 straipsnio 9 dalyje]] nurodyta Lietuvos Respublikos Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka. ^s-5af9b63357be955ce0771668
+3. Apie ketinimą pateikti prašymą dėl atsistatydinimo bankroto administratorius praneša fiziniam asmeniui ir kreditorių susirinkimo pirmininkui ne vėliau kaip prieš 10 dienų iki kreipimosi į teismą dienos. Kai bankroto administratorius netenka teisės administruoti juridinių asmenų nemokumo procesų, jis ne vėliau kaip kitą darbo dieną po tos dienos, kai sužinojo apie šios teisės netekimą, pateikia prašymą teismui (teismams) dėl jo atstatydinimo iš visų jo administruojamų fizinio asmens bankroto procesų ir šio prašymo kopiją pateikia fiziniam asmeniui ir kreditorių susirinkimo pirmininkui. [[latest/TAR.C677663D2202|Fizinis asmuo]] ir (ar) kreditorių susirinkimo pirmininkas ne vėliau kaip per 5 darbo dienas nuo šio bankroto administratoriaus pranešimo gavimo dienos arba nuo informacijos, kad bankroto administratorius neteko teisės administruoti juridinių asmenų nemokumo procesų, gavimo dienos gali teismui pasiūlyti naują bankroto administratoriaus kandidatūrą šio įstatymo nustatyta tvarka. Jeigu [[latest/TAR.C677663D2202|fizinis asmuo]] bankroto administratoriaus kandidatūros nepasiūlo, teismas skiria bankroto administratorių, kurio kandidatūrą pasiūlo šio įstatymo [[#^s-ad7ca28f556efa82a47621b8|13 straipsnio 9 dalyje]] nurodyta Lietuvos Respublikos Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka. ^s-5af9b63357be955ce0771668
 Straipsnio dalies pakeitimai:
 Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
 
@@ -1031,7 +1031,7 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 8. Įsiteisėjusi teismo nutartis dėl bankroto administratoriaus atstatydinimo ir naujo bankroto administratoriaus paskyrimo yra pagrindas kredito įstaigai, kurioje atidaryta depozitinė sąskaita, pakeisti sąskaitos turėtoją – teismo atstatydintą ar atsistatydinusį bankroto administratorių į paskirtą naują bankroto administratorių. Paskirtas naujas bankroto administratorius nedelsdamas kreipiasi į kredito įstaigą dėl depozitinės sąskaitos turėtojo pakeitimo. ^s-e74889c73e31fcff18460dfa
 
 
-9. Bankroto administratoriaus – fizinio asmens – mirties atveju naujo skiriamo bankroto administratoriaus kandidatūrą ne vėliau kaip per 3 darbo dienas nuo sužinojimo apie bankroto administratoriaus mirtį dienos teismui pasiūlo fizinis asmuo, suderinęs su kreditorių susirinkimo pirmininku. Jeigu naujo bankroto administratoriaus kandidatūros suderinti nepavyksta, kreditorių susirinkimo sprendimu gali būti pasiūlyta kita bankroto administratoriaus kandidatūra. Teismas priima nutartį dėl bankroto administratoriaus paskyrimo ne vėliau kaip per 3 darbo dienas nuo fizinio asmens ar kreditorių susirinkimo pasiūlymo gavimo dienos. Šiai teismo nutarčiai mutatis mutandis yra taikomos [[#^s-fe37c6d32fa34404c816829d|šio straipsnio 4 dalies]] 1 ir 3 punktų, 5 ir [[#^s-de094c3821d487eed4263c65|7 dalių]] nuostatos. Šiuo atveju paskirtam naujam bankroto administratoriui perimant fizinio asmens bankroto proceso dokumentus dalyvauja fizinis asmuo ir šio įstatymo [[#^s-ad7ca28f556efa82a47621b8|13 straipsnio 9 dalyje]] nurodytos Lietuvos Respublikos Vyriausybės įgaliotos institucijos atstovas. ^s-822f1e8939f9f08d5353b6f5
+9. Bankroto administratoriaus – fizinio asmens – mirties atveju naujo skiriamo bankroto administratoriaus kandidatūrą ne vėliau kaip per 3 darbo dienas nuo sužinojimo apie bankroto administratoriaus mirtį dienos teismui pasiūlo [[latest/TAR.C677663D2202|fizinis asmuo]], suderinęs su kreditorių susirinkimo pirmininku. Jeigu naujo bankroto administratoriaus kandidatūros suderinti nepavyksta, kreditorių susirinkimo sprendimu gali būti pasiūlyta kita bankroto administratoriaus kandidatūra. Teismas priima nutartį dėl bankroto administratoriaus paskyrimo ne vėliau kaip per 3 darbo dienas nuo fizinio asmens ar kreditorių susirinkimo pasiūlymo gavimo dienos. Šiai teismo nutarčiai mutatis mutandis yra taikomos [[#^s-fe37c6d32fa34404c816829d|šio straipsnio 4 dalies]] 1 ir 3 punktų, [[#^s-57656ec56912fdc0d9aec06c|5]] ir [[#^s-de094c3821d487eed4263c65|7]] dalių nuostatos. Šiuo atveju paskirtam naujam bankroto administratoriui perimant fizinio asmens bankroto proceso dokumentus dalyvauja [[latest/TAR.C677663D2202|fizinis asmuo]] ir šio įstatymo [[#^s-ad7ca28f556efa82a47621b8|13 straipsnio 9 dalyje]] nurodytos Lietuvos Respublikos Vyriausybės įgaliotos institucijos atstovas. ^s-822f1e8939f9f08d5353b6f5
 
 
 
@@ -1050,7 +1050,7 @@ FIZINIO ASMENS PAREIGOS IR TEISĖS BANKROTO PROCESO METU
 ### 16 straipsnis. Fizinio asmens pareigos bankroto proceso metu ^s-842f5c840e02389b40b2aebc
 
 
-Fizinis asmuo bankroto proceso metu privalo:
+[[latest/TAR.C677663D2202|Fizinis asmuo]] bankroto proceso metu privalo:
 
 
 1) atsakingai valdyti ir naudoti visą turimą turtą nuo fizinio asmens pareiškimo dėl bankroto bylos iškėlimo pateikimo teismui dienos iki teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dienos; ^s-dcb50d25faec145e4b364928
@@ -1083,7 +1083,7 @@ Fizinis asmuo bankroto proceso metu privalo:
 10) pagal savo galimybes dirbti arba užsiimti kita pajamų duodančia veikla, aktyviai siekti įsidarbinti arba siekti susirasti geriau apmokamą darbą; ^s-a6acb73b0cbf63fd59f8a335
 
 
-11) ne rečiau kaip kartą per 3 mėnesius teikti bankroto administratoriui sąskaitų kredito įstaigose išrašus. Jeigu fizinis asmuo, vykdantis individualią ir (ar) ūkininko veiklą, turi sąskaitą (nedepozitinę) individualiai ir (ar) ūkininko veiklai vykdyti, jis turi taip pat teikti bankroto administratoriui išrašus ta pačia tvarka; ^s-6ba2c3d2ca6c38705bdc7938
+11) ne rečiau kaip kartą per 3 mėnesius teikti bankroto administratoriui sąskaitų kredito įstaigose išrašus. Jeigu [[latest/TAR.C677663D2202|fizinis asmuo]], vykdantis individualią ir (ar) ūkininko veiklą, turi sąskaitą (nedepozitinę) individualiai ir (ar) ūkininko veiklai vykdyti, jis turi taip pat teikti bankroto administratoriui išrašus ta pačia tvarka; ^s-6ba2c3d2ca6c38705bdc7938
 
 
 12) tinkamai įgyvendinti plane numatytas priemones ir (ar) vykdyti jame numatytą veiklą; ^s-165693d6dfef9a19a373d662
@@ -1099,7 +1099,7 @@ Fizinis asmuo bankroto proceso metu privalo:
 ### 17 straipsnis. Fizinio asmens teisės bankroto proceso metu ^s-771c86ca5ea9eea838702bb5
 
 
-Fizinis asmuo bankroto proceso metu turi teisę:
+[[latest/TAR.C677663D2202|Fizinis asmuo]] bankroto proceso metu turi teisę:
 
 
 1) parengti ir pateikti bankroto administratoriui plano patikslinimą, susidarius aplinkybėms, kurioms esant galima greičiau atkurti fizinio asmens mokumą arba kurios sunkina plano įgyvendinimą; ^s-f4f48e4ec9a7c4c089ced44d
@@ -1126,7 +1126,7 @@ Fizinis asmuo bankroto proceso metu turi teisę:
 8) kreiptis į teismą dėl kreditorių susirinkimo priimtų sprendimų pripažinimo negaliojančiais; ^s-7665322e7c36639125c91650
 
 
-9) prisiimti skolinius įsipareigojimus bankroto procedūroms atlikti nuo teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dienos iki nutarties patvirtinti planą įsiteisėjimo dienos, jeigu fizinis asmuo neturi lėšų ar jų nepakanka šio įstatymo [[#^s-b4e1ba15fb4c8d6394820575|6 straipsnio 3 dalies 4 punkte]] nustatytai lėšų sumai sumokėti. Fizinis asmuo, kuris įstatymų nustatyta tvarka verčiasi individualia ir (ar) ūkininko veikla arba numato verstis individualia ir (ar) ūkininko veikla, turi teisę prisiimti šio įstatymo [[#^s-b7d877d3a23421d8eba50b36|7 straipsnio 2 dalies 4 punkte]] nurodytus skolinius įsipareigojimus šiai veiklai vykdyti. Dėl šios priežasties atsiradę kreditorių reikalavimai yra tenkinami šio įstatymo [[#^s-396b0e6a8545509a3206c2a3|29 straipsnyje]] nustatyta tvarka; ^s-fd85947cda9956e7ae956f95
+9) prisiimti skolinius įsipareigojimus bankroto procedūroms atlikti nuo teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dienos iki nutarties patvirtinti planą įsiteisėjimo dienos, jeigu [[latest/TAR.C677663D2202|fizinis asmuo]] neturi lėšų ar jų nepakanka šio įstatymo [[#^s-b4e1ba15fb4c8d6394820575|6 straipsnio 3 dalies 4 punkte]] nustatytai lėšų sumai sumokėti. [[latest/TAR.C677663D2202|Fizinis asmuo]], kuris įstatymų nustatyta tvarka verčiasi individualia ir (ar) ūkininko veikla arba numato verstis individualia ir (ar) ūkininko veikla, turi teisę prisiimti šio įstatymo [[#^s-b7d877d3a23421d8eba50b36|7 straipsnio 2 dalies 4 punkte]] nurodytus skolinius įsipareigojimus šiai veiklai vykdyti. Dėl šios priežasties atsiradę kreditorių reikalavimai yra tenkinami šio įstatymo [[#^s-396b0e6a8545509a3206c2a3|29 straipsnyje]] nustatyta tvarka; ^s-fd85947cda9956e7ae956f95
 Straipsnio punkto pakeitimai:
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
@@ -1155,7 +1155,7 @@ FIZINIO ASMENS, KREDITORIŲ IR TREČIŲJŲ ASMENŲ INTERESŲ GYNIMAS FIZINIO ASM
 ### 18 straipsnis. Disponavimas fizinio asmens turtu ^s-0018a1c84b066c0edd996096
 
 
-1. Nuo fizinio asmens pareiškimo iškelti bankroto bylą pateikimo teismui dienos iki teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dienos fizinis asmuo visą turimą turtą valdo ir naudoja atsakingai. Fiziniam asmeniui draudžiama atlikti veiksmus ar sudaryti sandorius, kurie pablogintų jo turtinę būklę ar pakenktų kreditorių interesams. ^s-0318684ad10852cd12968b85
+1. Nuo fizinio asmens pareiškimo iškelti bankroto bylą pateikimo teismui dienos iki teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dienos [[latest/TAR.C677663D2202|fizinis asmuo]] visą turimą turtą valdo ir naudoja atsakingai. Fiziniam asmeniui draudžiama atlikti veiksmus ar sudaryti sandorius, kurie pablogintų jo turtinę būklę ar pakenktų kreditorių interesams. ^s-0318684ad10852cd12968b85
 
 
 2. Nuo teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dienos bankroto administratorius disponuoja fizinio asmens turtu, išskyrus šio įstatymo nustatytas išimtis. Išsinuomojusiems, pasiskolinusiems, saugantiems arba kitais pagrindais naudojantiems ar valdantiems fizinio asmens turtą asmenims draudžiama dėl šio turto sudaryti sandorius su trečiaisiais asmenimis. ^s-096e774d8a01da60ed0b49e8
@@ -1164,7 +1164,7 @@ FIZINIO ASMENS, KREDITORIŲ IR TREČIŲJŲ ASMENŲ INTERESŲ GYNIMAS FIZINIO ASM
 3. Nuo teismo nutarties patvirtinti planą įsiteisėjimo dienos bankroto administratorius disponuoja fizinio asmens turtu, kuris įrašytas į planą, ir depozitinės sąskaitos lėšomis pagal plane numatytą tvarką. Nė vienas fizinio asmens kreditorius ar kitas asmuo neturi teisės perimti fiziniam asmeniui priklausančio turto ir lėšų kitaip, negu nustatyta šio įstatymo. ^s-491e0785fdd4332d19311804
 
 
-4. Visi sandoriai, sudaryti pažeidžiant šio straipsnio 1, 2 ir [[#^s-491e0785fdd4332d19311804|3 dalių]] nuostatas, yra negaliojantys nuo jų sudarymo momento. ^s-a0faa7025a73d9b9b94bbf16
+4. Visi sandoriai, sudaryti pažeidžiant šio straipsnio [[#^s-0318684ad10852cd12968b85|1]], [[#^s-096e774d8a01da60ed0b49e8|2]] ir [[#^s-491e0785fdd4332d19311804|3]] dalių nuostatas, yra negaliojantys nuo jų sudarymo momento. ^s-a0faa7025a73d9b9b94bbf16
 
 
 5. Bankroto administratoriaus ieškinius dėl fizinio asmens sudarytų iki bankroto bylos iškėlimo sandorių pripažinimo negaliojančiais nagrinėja teismai pagal fizinio asmens gyvenamąją vietą. ^s-cfeeeba9bcfb607f0409eae7
@@ -1174,7 +1174,7 @@ FIZINIO ASMENS, KREDITORIŲ IR TREČIŲJŲ ASMENŲ INTERESŲ GYNIMAS FIZINIO ASM
 ### 19 straipsnis. Fizinio asmens skolų mokėjimo terminai ^s-0ebd0e8d78996fc8e252d43e
 
 
-Nuo teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dienos laikoma, kad visi fizinio asmens skolų mokėjimo terminai yra pasibaigę. Ši nuostata netenka galios nuo teismo nutarties nutraukti fizinio asmens bankroto bylą įsiteisėjimo dienos. Kai fizinis asmuo ir įkaito turėtojai ir (ar) hipotekos kreditoriai susitaria dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, šių fizinio asmens skolų, dėl kurių atsirado įkaito turėtojų ir (ar) hipotekos kreditorių reikalavimai, mokėjimo terminai nėra laikomi pasibaigusiais.
+Nuo teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dienos laikoma, kad visi fizinio asmens skolų mokėjimo terminai yra pasibaigę. Ši nuostata netenka galios nuo teismo nutarties nutraukti fizinio asmens bankroto bylą įsiteisėjimo dienos. Kai [[latest/TAR.C677663D2202|fizinis asmuo]] ir įkaito turėtojai ir (ar) hipotekos kreditoriai susitaria dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, šių fizinio asmens skolų, dėl kurių atsirado įkaito turėtojų ir (ar) hipotekos kreditorių reikalavimai, mokėjimo terminai nėra laikomi pasibaigusiais.
 
 
 Straipsnio pakeitimai:
@@ -1231,7 +1231,7 @@ Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 3. Pirmasis kreditorių susirinkimas, pritardamas plano projektui, nustato sumą, kuri turi būti sumokėta bankroto administratoriui už fizinio asmens bankroto procedūrų atlikimą bankroto proceso metu, įskaitant laikotarpį nuo teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dienos. Nustatoma suma laikotarpiu nuo teismo nutarties iškelti fizinio asmens bankroto bylą įsiteisėjimo dienos iki nutarties patvirtinti planą įsiteisėjimo dienos negali būti didesnė negu 3 MMA. ^s-da3280efc44fed1729571feb
 
 
-4. Bankroto administratoriaus atlyginimo suma nustatoma pavedimo sutartyje, sudarytoje tarp fizinio asmens ir bankroto administratoriaus, atsižvelgiant į tai, ar fizinis asmuo vykdo individualią ir (ar) ūkininko veiklą, į parduodamo fizinio asmens turto (taip pat ir įkeisto) rūšį ir jo kiekį, bankroto procedūrų kiekį ir sudėtingumą. ^s-24f232fd8a6d1729bae962eb
+4. Bankroto administratoriaus atlyginimo suma nustatoma pavedimo sutartyje, sudarytoje tarp fizinio asmens ir bankroto administratoriaus, atsižvelgiant į tai, ar [[latest/TAR.C677663D2202|fizinis asmuo]] vykdo individualią ir (ar) ūkininko veiklą, į parduodamo fizinio asmens turto (taip pat ir įkeisto) rūšį ir jo kiekį, bankroto procedūrų kiekį ir sudėtingumą. ^s-24f232fd8a6d1729bae962eb
 
 
 5. Bankroto administravimo išlaidos apmokamos iš fizinio asmens visų rūšių lėšų (gautų pardavus ir (ar) perdavus fizinio asmens turtą, fiziniam asmeniui grąžintų skolų, individualios ir (ar) ūkininko veiklos ir kitų fizinio asmens bankroto proceso metu gautų lėšų). Pardavus ar perdavus įkeistą turtą, bankroto administravimo išlaidoms gali būti skiriama ne daugiau kaip 15 procentų gautos lėšų sumos ar šio turto vertės, išskyrus atvejus, kai įkaito turėtojas, hipotekos kreditorius sutinka kitaip. Bankroto administravimo išlaidos apmokamos pirmiausia. ^s-42be7317706a15b274568248
@@ -1246,13 +1246,13 @@ KREDITORIŲ TEISĖS IR PAREIGOS FIZINIO ASMENS BANKROTO PROCESO METU
 ### 23 straipsnis. Kreditorių reikalavimai ir jų tvirtinimas ^s-f959ccde2cce6b81ede98111
 
 
-1. Teisme iškėlus fizinio asmens bankroto bylą, kreditoriai turi teisę per teismo nustatytą laikotarpį pareikšti bankroto administratoriui savo reikalavimus, atsiradusius iki fizinio asmens bankroto bylos iškėlimo dienos. Kreditoriai, pareikšdami bankroto administratoriui savo reikalavimus, kartu pateikia juos pagrindžiančius dokumentus, taip pat nurodo, kaip fizinis asmuo yra užtikrinęs šių reikalavimų įvykdymą. ^s-641585257240ab1c68f31514
+1. Teisme iškėlus fizinio asmens bankroto bylą, kreditoriai turi teisę per teismo nustatytą laikotarpį pareikšti bankroto administratoriui savo reikalavimus, atsiradusius iki fizinio asmens bankroto bylos iškėlimo dienos. Kreditoriai, pareikšdami bankroto administratoriui savo reikalavimus, kartu pateikia juos pagrindžiančius dokumentus, taip pat nurodo, kaip [[latest/TAR.C677663D2202|fizinis asmuo]] yra užtikrinęs šių reikalavimų įvykdymą. ^s-641585257240ab1c68f31514
 
 
 2. Bankroto administratorius pagal kreditorių pareikštus reikalavimus, patikslintus pagal fizinio asmens pateiktus dokumentus, sudaro kreditorių ir jų reikalavimų sąrašą ir ne vėliau kaip per 15 dienų nuo teismo nustatyto termino, iki kada kreditoriai turi teisę pareikšti savo reikalavimus, pabaigos pateikia jį teismui tvirtinti, teisme ginčija nepagrįstus kreditorių reikalavimus. ^s-25489265a4d54cd76e185ce1
 
 
-3. Teismas priima ir tvirtina iki fizinio asmens bankroto bylos iškėlimo dienos atsiradusius kreditorių reikalavimus, kurie buvo pateikti tiesiogiai teismui praleidus [[#^s-641585257240ab1c68f31514|šio straipsnio 1 dalyje]] nustatytą reikalavimų pateikimo bankroto administratoriui terminą, jeigu teismas termino praleidimo priežastis pripažįsta svarbiomis ir reikalavimus pagrįstais. Teismas taip pat priima ir tvirtina po fizinio asmens bankroto bylos iškėlimo dienos atsiradusius kreditorių reikalavimus, atsiradusius iš individualios ir (ar) ūkininko veiklos ir (ar) šio įstatymo [[#^s-fd85947cda9956e7ae956f95|17 straipsnio 9 punkte]] nurodytų skolinių įsipareigojimų. ^s-156c31360a12ae9fd9e432fb
+3. Teismas priima ir tvirtina iki fizinio asmens bankroto bylos iškėlimo dienos atsiradusius kreditorių reikalavimus, kurie buvo pateikti tiesiogiai teismui praleidus [[#^s-641585257240ab1c68f31514|šio straipsnio 1 dalyje]] nustatytą reikalavimų pateikimo bankroto administratoriui terminą, jeigu teismas termino praleidimo priežastis pripažįsta svarbiomis ir reikalavimus pagrįstais. Teismas taip pat priima ir tvirtina po fizinio asmens bankroto bylos iškėlimo dienos atsiradusius kreditorių reikalavimus, atsiradusius iš individualios ir (ar) ūkininko veiklos ir (ar) šio įstatymo 17 straipsnio 9 punkte nurodytų skolinių įsipareigojimų. ^s-156c31360a12ae9fd9e432fb
 
 
 4. Fizinio asmens bankroto proceso metu kreditoriaus reikalavimai gali būti perleisti kitam kreditoriui arba kitam asmeniui. Pagal šio įstatymo [[#^s-396b0e6a8545509a3206c2a3|29 straipsnio]] nuostatas nustatyta šių reikalavimų tenkinimo eilė nesikeičia. ^s-2ac8c89883678d15c068ff0f
@@ -1313,7 +1313,7 @@ Kreditoriai, kurių reikalavimus patvirtino teismas, turi teisę:
 8) apskųsti teismui kreditorių susirinkimo priimtus sprendimus per 14 dienų nuo tos dienos, kai sužinojo arba turėjo sužinoti apie šiuos sprendimus; ^s-7d8cad9d83f67ae34698eaad
 
 
-9) kreiptis į teismą dėl fizinio asmens bankroto bylos nutraukimo šio įstatymo [[#^s-f18a1a45a36d23ca0cc395a3|10 straipsnio 1 dalies]] 3, 4, 5, 6 ir [[#^s-7d8cad9d83f67ae34698eaad|8 punktuose]] nustatytais pagrindais; ^s-3e0339fe203edb7a234079f2
+9) kreiptis į teismą dėl fizinio asmens bankroto bylos nutraukimo šio įstatymo [[#^s-f18a1a45a36d23ca0cc395a3|10 straipsnio 1 dalies]] [[#^s-89dedc997f44284085fe181f|3]], [[#^s-cfa01a16e2c5752528f18dbf|4]], [[#^s-1a01ab4bfcd396a1e28cf91a|5]], [[#^s-b6f413e92cf2b16617d84dc1|6]] ir [[#^s-e1f3037903d7dfc904070223|8]] punktuose nustatytais pagrindais; ^s-3e0339fe203edb7a234079f2
 
 
 10) motyvuotu prašymu kreiptis į teismą dėl bankroto administratoriaus atstatydinimo ir pasiūlyti naują bankroto administratoriaus kandidatūrą, jeigu kreditoriaus (kreditorių) teismo patvirtinti reikalavimai vertine išraiška sudaro daugiau kaip pusę visų kreditorių patvirtintų reikalavimų sumos; ^s-99adf2e3384108b00c3103f2
@@ -1329,7 +1329,7 @@ Kreditoriai, kurių reikalavimus patvirtino teismas, turi teisę:
 ### 25 straipsnis. Kreditorių susirinkimas ^s-f05c8c999a54cb464c89d3c7
 
 
-1. Pirmasis kreditorių susirinkimas turi įvykti ne vėliau kaip per 40 dienų nuo teismo nutarties dėl kreditorių reikalavimų tvirtinimo įsiteisėjimo dienos. Pirmajame kreditorių susirinkime išrenkamas kreditorių susirinkimo pirmininkas. Kreditorių susirinkimo pirmininku gali būti tik kreditorius arba jo įgaliotas atstovas. Kreditorių susirinkimo pirmininku negali būti fizinio asmens artimasis giminaitis, kaip apibrėžta Civilinio kodekso 3.135 straipsnyje, ar asmuo, susijęs su fiziniu asmeniu svainystės santykiais, kaip apibrėžta Civilinio kodekso 3.136 straipsnyje, ar juridinio asmens, kurio dalyviu, kolegialaus ar vienasmenio organo nariu yra fizinis asmuo, atstovas, fizinio asmens sutuoktinis ar sugyventinis. Ši nuostata netaikoma, kai kreditoriais yra tik šie asmenys. Kol kreditorių susirinkimo pirmininkas išrenkamas, kreditorių susirinkimui pirmininkauja bankroto administratorius. Kai kreditorių susirinkimo pirmininkas renkamas iš kelių asmenų, kreditorių susirinkimo pirmininku laikomas išrinktas tas asmuo, už kurį balsavusių kreditorių teismo patvirtintų reikalavimų suma yra didžiausia. Kai kreditorių susirinkimo pirmininkas renkamas iš vieno asmens, kreditorių susirinkimo pirmininku laikomas išrinktas tas asmuo, už kurį balsavo kreditoriai, kurių teismo patvirtintų reikalavimų suma vertine išraiška sudaro daugiau kaip pusę visų susirinkime dalyvaujančių kreditorių teismo patvirtintų reikalavimų sumos. ^s-f5d6ba6c470a8d118b3a6645
+1. Pirmasis kreditorių susirinkimas turi įvykti ne vėliau kaip per 40 dienų nuo teismo nutarties dėl kreditorių reikalavimų tvirtinimo įsiteisėjimo dienos. Pirmajame kreditorių susirinkime išrenkamas kreditorių susirinkimo pirmininkas. Kreditorių susirinkimo pirmininku gali būti tik kreditorius arba jo įgaliotas atstovas. Kreditorių susirinkimo pirmininku negali būti fizinio asmens artimasis giminaitis, kaip apibrėžta Civilinio kodekso 3.135 straipsnyje, ar asmuo, susijęs su fiziniu asmeniu svainystės santykiais, kaip apibrėžta Civilinio kodekso 3.136 straipsnyje, ar juridinio asmens, kurio dalyviu, kolegialaus ar vienasmenio organo nariu yra [[latest/TAR.C677663D2202|fizinis asmuo]], atstovas, fizinio asmens sutuoktinis ar sugyventinis. Ši nuostata netaikoma, kai kreditoriais yra tik šie asmenys. Kol kreditorių susirinkimo pirmininkas išrenkamas, kreditorių susirinkimui pirmininkauja bankroto administratorius. Kai kreditorių susirinkimo pirmininkas renkamas iš kelių asmenų, kreditorių susirinkimo pirmininku laikomas išrinktas tas asmuo, už kurį balsavusių kreditorių teismo patvirtintų reikalavimų suma yra didžiausia. Kai kreditorių susirinkimo pirmininkas renkamas iš vieno asmens, kreditorių susirinkimo pirmininku laikomas išrinktas tas asmuo, už kurį balsavo kreditoriai, kurių teismo patvirtintų reikalavimų suma vertine išraiška sudaro daugiau kaip pusę visų susirinkime dalyvaujančių kreditorių teismo patvirtintų reikalavimų sumos. ^s-f5d6ba6c470a8d118b3a6645
 
 
 2. Įsiteisėjus teismo nutarčiai patvirtinti planą, kreditorių susirinkimai šaukiami ne rečiau kaip vieną kartą per pusmetį. Kreditorių susirinkimus šaukia bankroto administratorius. Apie šaukiamą kreditorių susirinkimą bankroto administratorius kreditoriams turi raštu pranešti ne vėliau kaip likus 10 dienų iki susirinkimo dienos, kartu pateikdamas ir siūlomą kreditorių susirinkimo darbotvarkę. ^s-6839bb702c2993bb750a353e
@@ -1350,7 +1350,7 @@ Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 
 
 
-5. Kreditorių susirinkimuose turi teisę dalyvauti kreditoriai arba jų įgalioti atstovai, fizinis asmuo, jo sutuoktinis ar sugyventinis arba jų įgalioti atstovai ir bankroto administratorius. Teisę balsuoti kreditorių susirinkimuose turi tik kreditoriai. Kreditorių susirinkimuose kreditoriai balsuoja atvirai. ^s-301ef2b883ea222dd9519a65
+5. Kreditorių susirinkimuose turi teisę dalyvauti kreditoriai arba jų įgalioti atstovai, [[latest/TAR.C677663D2202|fizinis asmuo]], jo sutuoktinis ar sugyventinis arba jų įgalioti atstovai ir bankroto administratorius. Teisę balsuoti kreditorių susirinkimuose turi tik kreditoriai. Kreditorių susirinkimuose kreditoriai balsuoja atvirai. ^s-301ef2b883ea222dd9519a65
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 
@@ -1388,13 +1388,13 @@ Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 
 
 
-11. Kreditorių susirinkimo protokolą pasirašo kreditorių susirinkimo pirmininkas ar šio įstatymo [[#^s-e62eba5bc6d75a55fc116045|26 straipsnio 8 punkte]] nurodytas asmuo ir protokolą rašęs asmuo. Kreditorių susirinkimo pirmininkas privalo užtikrinti, kad ne vėliau kaip per 5 darbo dienas nuo kreditorių susirinkimo dienos kreditorių susirinkimo protokolo kopija būtų pateikta fiziniam asmeniui, bankroto administratoriui ir teismui. ^s-b857a2e04cf87710c06539b7
+11. Kreditorių susirinkimo protokolą pasirašo kreditorių susirinkimo pirmininkas ar šio įstatymo 26 straipsnio 8 punkte nurodytas asmuo ir protokolą rašęs asmuo. Kreditorių susirinkimo pirmininkas privalo užtikrinti, kad ne vėliau kaip per 5 darbo dienas nuo kreditorių susirinkimo dienos kreditorių susirinkimo protokolo kopija būtų pateikta fiziniam asmeniui, bankroto administratoriui ir teismui. ^s-b857a2e04cf87710c06539b7
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 
 
 
-12. Kreditorių susirinkimo sprendimai privalomi visiems kreditoriams, bankroto administratoriui ir fiziniam asmeniui. Kreditorių susirinkimo sprendimą kreditoriai, bankroto administratorius ar fizinis asmuo turi teisę apskųsti teismui ne vėliau kaip per 14 dienų nuo dienos, kurią kreditorius, bankroto administratorius ar fizinis asmuo sužinojo arba turėjo sužinoti apie sprendimo priėmimą. ^s-6ece2598527a60d870e8f5a7
+12. Kreditorių susirinkimo sprendimai privalomi visiems kreditoriams, bankroto administratoriui ir fiziniam asmeniui. Kreditorių susirinkimo sprendimą kreditoriai, bankroto administratorius ar [[latest/TAR.C677663D2202|fizinis asmuo]] turi teisę apskųsti teismui ne vėliau kaip per 14 dienų nuo dienos, kurią kreditorius, bankroto administratorius ar [[latest/TAR.C677663D2202|fizinis asmuo]] sužinojo arba turėjo sužinoti apie sprendimo priėmimą. ^s-6ece2598527a60d870e8f5a7
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 
@@ -1454,7 +1454,7 @@ Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
 
 
-4. Iki varžytynių paskelbimo dienos fizinis asmuo gali surasti ir pasiūlyti bankroto administratoriui turto pirkėją. Jeigu pirkėjas iki varžytynių paskelbimo dienos į depozitinę sąskaitą įmoka pinigų sumą, ne mažesnę už pradinę varžytynėse parduoti numatomo turto pardavimo kainą, varžytynės neskelbiamos. ^s-83bc1b2112cf58ff6cd031bc
+4. Iki varžytynių paskelbimo dienos [[latest/TAR.C677663D2202|fizinis asmuo]] gali surasti ir pasiūlyti bankroto administratoriui turto pirkėją. Jeigu pirkėjas iki varžytynių paskelbimo dienos į depozitinę sąskaitą įmoka pinigų sumą, ne mažesnę už pradinę varžytynėse parduoti numatomo turto pardavimo kainą, varžytynės neskelbiamos. ^s-83bc1b2112cf58ff6cd031bc
 Straipsnio dalies pakeitimai:
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
 
@@ -1481,13 +1481,13 @@ Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
 ### 28 straipsnis. Atskirų rūšių turto pardavimo ypatumai ^s-6575c7994bd6cc90008ade85
 
 
-1. Kai kartu su fiziniu asmeniu gyvena jo nepilnamečiai vaikai (įvaikiai) ir (ar) jo globojami (rūpinami) asmenys, vienintelis gyvenamasis būstas, taip pat ir įkeistas, teismo sprendimu gali būti parduodamas ne anksčiau negu po 6 mėnesių nuo plano ar nuo pakeisto plano patvirtinimo. Per šį laikotarpį fizinis asmuo turi susirasti pirkti ar išsinuomoti kitą būstą. Šis teismo sprendimas prilyginamas Civilinio kodekso 3.85 straipsnio 2 dalyje nurodytam teismo leidimui. ^s-3bdd70acbf2d35f23e3c364a
+1. Kai kartu su fiziniu asmeniu gyvena jo nepilnamečiai vaikai (įvaikiai) ir (ar) jo globojami (rūpinami) asmenys, vienintelis gyvenamasis būstas, taip pat ir įkeistas, teismo sprendimu gali būti parduodamas ne anksčiau negu po 6 mėnesių nuo plano ar nuo pakeisto plano patvirtinimo. Per šį laikotarpį [[latest/TAR.C677663D2202|fizinis asmuo]] turi susirasti pirkti ar išsinuomoti kitą būstą. Šis teismo sprendimas prilyginamas Civilinio kodekso 3.85 straipsnio 2 dalyje nurodytam teismo leidimui. ^s-3bdd70acbf2d35f23e3c364a
 
 
-2. Akcijos ir kiti vertybiniai popieriai, kuriuos turi fizinis asmuo, parduodami vertybinių popierių apyvartą reglamentuojančių teisės aktų nustatyta tvarka. Uždarųjų akcinių bendrovių akcijos, jeigu jų neįsigyja kiti tų bendrovių akcininkai, gali būti parduodamos varžytynėse kreditorių susirinkimo sprendimu. ^s-e7ca057519bf9dea7d26b7da
+2. Akcijos ir kiti vertybiniai popieriai, kuriuos turi [[latest/TAR.C677663D2202|fizinis asmuo]], parduodami vertybinių popierių apyvartą reglamentuojančių teisės aktų nustatyta tvarka. Uždarųjų akcinių bendrovių akcijos, jeigu jų neįsigyja kiti tų bendrovių akcininkai, gali būti parduodamos varžytynėse kreditorių susirinkimo sprendimu. ^s-e7ca057519bf9dea7d26b7da
 
 
-3. Taurieji metalai ir brangakmeniai parduodami Civilinio proceso kodekso nustatyta tvarka. ^s-2043df916a4a9745a414cff2
+3. Taurieji metalai ir brangakmeniai parduodami [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-2043df916a4a9745a414cff2
 
 
 4. Apie parduodamą turtą, turintį istorinės, mokslinės ar meninės vertės, bankroto administratorius praneša Lietuvos Respublikos kultūros ministerijai. ^s-aa61b35aeff397160da40a00
@@ -1505,7 +1505,7 @@ KREDITORIŲ REIKALAVIMŲ TENKINIMAS IR FIZINIO ASMENS BANKROTO PROCESO PABAIGA
 ### 29 straipsnis. Kreditorių reikalavimų tenkinimas ^s-396b0e6a8545509a3206c2a3
 
 
-1. Pagal įkeitimo sutartį arba įregistruotą hipotekos ir (ar) įkeitimo lakštą kreditorius (įkaito turėtojas, hipotekos kreditorius) įgyja teisę, jeigu fizinis asmuo neįvykdė įkeitimu ir (ar) hipoteka užtikrintos prievolės, šio įstatymo nustatyta tvarka reikalauti įkeistą turtą parduoti ir iš gautų lėšų pirmiausia tenkinti jo reikalavimus, o jeigu įkeisto turto parduoti nepavyksta, – perduoti šį turtą jo nuosavybėn. Įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai tenkinami pirmiausia iš lėšų, gautų pardavus įkeistą fizinio asmens turtą, arba perduodant įkeistą turtą. Jeigu įkeistas turtas parduodamas už didesnę kainą negu įkeitimu ir (ar) hipoteka užtikrintų reikalavimų suma, šių lėšų likutis skiriamas kitų kreditorių reikalavimams tenkinti. Jeigu plane nenumatyta parduoti įkeisto turto, mokėjimai įkaito turėtojui ir (ar) hipotekos kreditoriui atliekami kiekvieną mėnesį, kaip nustatyta šio įstatymo [[#^s-fa30b88f6bf6987eb546388a|7 straipsnio 1 dalies 6 punkte]]. ^s-a219e1c4b11df1bc742c570e
+1. Pagal įkeitimo sutartį arba įregistruotą hipotekos ir (ar) įkeitimo lakštą kreditorius (įkaito turėtojas, hipotekos kreditorius) įgyja teisę, jeigu [[latest/TAR.C677663D2202|fizinis asmuo]] neįvykdė įkeitimu ir (ar) hipoteka užtikrintos prievolės, šio įstatymo nustatyta tvarka reikalauti įkeistą turtą parduoti ir iš gautų lėšų pirmiausia tenkinti jo reikalavimus, o jeigu įkeisto turto parduoti nepavyksta, – perduoti šį turtą jo nuosavybėn. Įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai tenkinami pirmiausia iš lėšų, gautų pardavus įkeistą fizinio asmens turtą, arba perduodant įkeistą turtą. Jeigu įkeistas turtas parduodamas už didesnę kainą negu įkeitimu ir (ar) hipoteka užtikrintų reikalavimų suma, šių lėšų likutis skiriamas kitų kreditorių reikalavimams tenkinti. Jeigu plane nenumatyta parduoti įkeisto turto, mokėjimai įkaito turėtojui ir (ar) hipotekos kreditoriui atliekami kiekvieną mėnesį, kaip nustatyta šio įstatymo [[#^s-fa30b88f6bf6987eb546388a|7 straipsnio 1 dalies 6 punkte]]. ^s-a219e1c4b11df1bc742c570e
 
 
 2. Kreditorių reikalavimai tenkinami dviem etapais (išskyrus įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus). Pirmuoju etapu pagal šiame straipsnyje nustatytą eiliškumą tenkinami kreditorių reikalavimai be priskaičiuotų palūkanų ir netesybų, antruoju etapu ta pačia eile tenkinama likusi kreditorių reikalavimų dalis (palūkanos ir netesybos). ^s-a2f76875811facc5f5070940
@@ -1523,16 +1523,16 @@ KREDITORIŲ REIKALAVIMŲ TENKINIMAS IR FIZINIO ASMENS BANKROTO PROCESO PABAIGA
 3) reikalavimai dėl lėšų vaikui (įvaikiui) išlaikyti (alimentų). ^s-a0260218a670dfa4d400eeae
 
 
-4. Antrąja eile tenkinami visi likusieji kreditorių reikalavimai, įskaitant atgręžtinius reikalavimus, atsiradusius dėl šio straipsnio 8, 9 ir [[#^s-b543faee6e133a2ac2f06070|10 dalyse]] nurodytų reikalavimų tenkinimo. ^s-b009921e1885376d21c11d13
+4. Antrąja eile tenkinami visi likusieji kreditorių reikalavimai, įskaitant atgręžtinius reikalavimus, atsiradusius dėl šio straipsnio [[#^s-a4acf25599a8379bff3dbd40|8]], [[#^s-e04a9d8d2f8f0f56494c8296|9]] ir [[#^s-b543faee6e133a2ac2f06070|10]] dalyse nurodytų reikalavimų tenkinimo. ^s-b009921e1885376d21c11d13
 
 
-5. Kreditorių reikalavimai, atsiradę fizinio asmens bankroto proceso metu iš individualios ir (ar) ūkininko veiklos dėl neįvykdytų prievolių ir įsipareigojimų, ir kreditorių reikalavimai, atsiradę dėl šio įstatymo [[#^s-fd85947cda9956e7ae956f95|17 straipsnio 9 punkte]] nurodytų prisiimtų skolinių įsipareigojimų, išskyrus įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus, tenkinami po [[#^s-7c14e6796dd5c53ba4d3241e|šio straipsnio 3 dalyje]] nustatytų kreditorių reikalavimų ir prieš [[#^s-b009921e1885376d21c11d13|šio straipsnio 4 dalyje]] nustatytus kreditorių reikalavimus. ^s-7fe08a5fd7e64ca355825db6
+5. Kreditorių reikalavimai, atsiradę fizinio asmens bankroto proceso metu iš individualios ir (ar) ūkininko veiklos dėl neįvykdytų prievolių ir įsipareigojimų, ir kreditorių reikalavimai, atsiradę dėl šio įstatymo 17 straipsnio 9 punkte nurodytų prisiimtų skolinių įsipareigojimų, išskyrus įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus, tenkinami po [[#^s-7c14e6796dd5c53ba4d3241e|šio straipsnio 3 dalyje]] nustatytų kreditorių reikalavimų ir prieš [[#^s-b009921e1885376d21c11d13|šio straipsnio 4 dalyje]] nustatytus kreditorių reikalavimus. ^s-7fe08a5fd7e64ca355825db6
 
 
 6. Kiekvienu etapu kiekvienos paskesnės eilės kreditorių reikalavimai tenkinami po to, kai visiškai patenkinti atitinkamo etapo pirmesnės eilės kreditorių reikalavimai. Jeigu neužtenka lėšų visiems vieno etapo vienos eilės kreditorių reikalavimams visiškai patenkinti, šie reikalavimai tenkinami proporcingai pagal kiekvienam kreditoriui priklausančią sumą. ^s-e2eea3030baa0f08379ffc4e
 
 
-7. Plane numatyti likę nepatenkinti kreditorių reikalavimai, tarp jų įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai, baigus fizinio asmens bankroto procesą, išskyrus šio įstatymo [[#^s-35a0c7662783c1f4b7ab7bca|30 straipsnio 3 dalies 2 punkte]] nurodytą atvejį, nurašomi, išskyrus reikalavimus dėl nusikalstama veika padarytos žalos atlyginimo, lėšų vaikui (įvaikiui) išlaikyti (alimentų) ir reikalavimus, kurie kyla iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus administracinius nusižengimus, arba nusikalstamas veikas, kitų įstatymų pažeidimus, įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus, jeigu šie kreditoriai ir fizinis asmuo susitarė dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, nebent šio įstatymo [[#^s-d0fba8bc147b60e04767c8a1|4 straipsnio 4 dalies 10 punkte]] nurodytame susitarime susitarta kitaip. ^s-a8bbff9a311a68315f72152c
+7. Plane numatyti likę nepatenkinti kreditorių reikalavimai, tarp jų įkeitimu ir (ar) hipoteka užtikrinti kreditorių reikalavimai, baigus fizinio asmens bankroto procesą, išskyrus šio įstatymo [[#^s-35a0c7662783c1f4b7ab7bca|30 straipsnio 3 dalies 2 punkte]] nurodytą atvejį, nurašomi, išskyrus reikalavimus dėl nusikalstama veika padarytos žalos atlyginimo, lėšų vaikui (įvaikiui) išlaikyti (alimentų) ir reikalavimus, kurie kyla iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus administracinius nusižengimus, arba nusikalstamas veikas, kitų įstatymų pažeidimus, įkeitimu ir (ar) hipoteka užtikrintus kreditorių reikalavimus, jeigu šie kreditoriai ir [[latest/TAR.C677663D2202|fizinis asmuo]] susitarė dėl įkeisto turto išsaugojimo fizinio asmens bankroto proceso metu, nebent šio įstatymo [[#^s-d0fba8bc147b60e04767c8a1|4 straipsnio 4 dalies 10 punkte]] nurodytame susitarime susitarta kitaip. ^s-a8bbff9a311a68315f72152c
 TAR pastaba. [[#^s-a8bbff9a311a68315f72152c|Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalis]], išskyrus nuostatą, kad negali būti nurašomi reikalavimai, kylantys iš fizinio asmens pareigos sumokėti valstybei baudas, paskirtas už fizinio asmens padarytus kitų įstatymų pažeidimus, taikoma ir fizinių asmenų bankrotams, pradėtiems ir nebaigtiems iki 2021-06-29 [[latest/70ad44d0dfaa11eb9f09e7df20500045|įstatymo Nr. XIV-451]] įsigaliojimo dienos (2021-07-15).
 Straipsnio dalies pakeitimai:
 Nr. KT74-N7/2021, 2021-05-19, paskelbta TAR 2021-05-19, i. k. 2021-11041
@@ -1548,7 +1548,7 @@ Nr. XIV-3023, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18463
 9. Darbuotojų reikalavimai atlyginti žalą dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga tenkinami Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo nustatyta tvarka. ^s-e04a9d8d2f8f0f56494c8296
 
 
-10. Žemės ūkio veiklos subjektų reikalavimai tenkinami žemės ūkio veiklos subjekto prašymu 2013 m. gruodžio 18 d. Komisijos reglamente (ES) Nr. 1408/2013 dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai žemės ūkio sektoriuje (su visais pakeitimais) ir Vyriausybės nustatyta tvarka. Šiuo atveju žemės ūkio veiklos subjekto patvirtinti reikalavimai mažinami Vyriausybės nustatyta tvarka išmokėtos sumos dydžiu. ^s-b543faee6e133a2ac2f06070
+10. Žemės ūkio veiklos subjektų reikalavimai tenkinami žemės ūkio veiklos subjekto prašymu 2013 m. gruodžio 18 d. Komisijos [reglamente (ES) Nr. 1408/2013](https://eur-lex.europa.eu/eli/reg/1408/2013/oj) dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai žemės ūkio sektoriuje (su visais pakeitimais) ir Vyriausybės nustatyta tvarka. Šiuo atveju žemės ūkio veiklos subjekto patvirtinti reikalavimai mažinami Vyriausybės nustatyta tvarka išmokėtos sumos dydžiu. ^s-b543faee6e133a2ac2f06070
 Straipsnio dalies pakeitimai:
 Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
 
@@ -1565,7 +1565,7 @@ Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
 ### 30 straipsnis. Fizinio asmens bankroto proceso pabaiga ^s-d8d6f533f9e60294f48a696a
 
 
-1. Kai atliktas paskutinis plane nustatytas mokėjimas, bankroto administratorius ne vėliau kaip per 10 darbo dienų nuo šio mokėjimo dienos privalo parengti plano įgyvendinimo aktą, kurį pasirašo fizinis asmuo, bankroto administratorius ir kreditorių susirinkimo pirmininkas. Bankroto administratorius šį aktą ne vėliau kaip per 5 darbo dienas nuo jo pasirašymo dienos pateikia teismui, plano įgyvendinimo akto kopiją – fiziniam asmeniui ir kreditorių susirinkimo pirmininkui. Jeigu bent vienas iš šioje dalyje nurodytų asmenų atsisako pasirašyti plano įgyvendinimo aktą, surašomas akto nepasirašymo protokolas, kuriame nurodomos nepasirašymo priežastys, ir teikiamas teismui kartu su plano įgyvendinimo aktu. ^s-91ba19e6ffafa0b91e1b5774
+1. Kai atliktas paskutinis plane nustatytas mokėjimas, bankroto administratorius ne vėliau kaip per 10 darbo dienų nuo šio mokėjimo dienos privalo parengti plano įgyvendinimo aktą, kurį pasirašo [[latest/TAR.C677663D2202|fizinis asmuo]], bankroto administratorius ir kreditorių susirinkimo pirmininkas. Bankroto administratorius šį aktą ne vėliau kaip per 5 darbo dienas nuo jo pasirašymo dienos pateikia teismui, plano įgyvendinimo akto kopiją – fiziniam asmeniui ir kreditorių susirinkimo pirmininkui. Jeigu bent vienas iš šioje dalyje nurodytų asmenų atsisako pasirašyti plano įgyvendinimo aktą, surašomas akto nepasirašymo protokolas, kuriame nurodomos nepasirašymo priežastys, ir teikiamas teismui kartu su plano įgyvendinimo aktu. ^s-91ba19e6ffafa0b91e1b5774
 
 
 2. Teismas, gavęs [[#^s-91ba19e6ffafa0b91e1b5774|šio straipsnio 1 dalyje]] nurodytą aktą, priima nutartį baigti fizinio asmens bankroto bylą arba nutraukti fizinio asmens bankroto bylą. ^s-855570b84c1caaccbebce575
@@ -1577,7 +1577,7 @@ Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
 1) anksčiau negu nustatyta plane patenkinti fizinio asmens visų teismo patvirtintų kreditorių reikalavimai ir bankroto administratorius pateikia teismui tai patvirtinančius dokumentus; ^s-d8c54fdce7011e700ba47ae6
 
 
-2) bankroto administratorius pateikia teismui dokumentus, patvirtinančius, kad fizinis asmuo gali ir galės ateityje įvykdyti skolinius įsipareigojimus; ^s-35a0c7662783c1f4b7ab7bca
+2) bankroto administratorius pateikia teismui dokumentus, patvirtinančius, kad [[latest/TAR.C677663D2202|fizinis asmuo]] gali ir galės ateityje įvykdyti skolinius įsipareigojimus; ^s-35a0c7662783c1f4b7ab7bca
 
 
 3) visi kreditoriai atsisako savo reikalavimų ir teismas priima nutartį priimti atsisakymus. ^s-70a32edc7b955ff4dbbbcd4b
@@ -1615,10 +1615,10 @@ DUOMENŲ SKELBIMAS FIZINIO ASMENS BANKROTO PROCESO METU
 1) fizinio asmens, kuriam iškelta bankroto byla, vardas ir pavardė, gimimo data ir vieta; ^s-55c8378d1ae8b76a0e915bf5
 
 
-2) teismo, nagrinėjančio fizinio asmens bankroto bylą, pavadinimas, fizinio asmens bankroto bylos numeris, teismo nutarties iškelti fizinio asmens bankroto bylą priėmimo data ir apskundimo terminas, šios nutarties įsiteisėjimo data, teismo nutarties patvirtinti planą įsiteisėjimo data, ar teisė iškelti bylą grindžiama Reglamento (ES) 2015/848 [[#^s-5631f3fd8cd0521cc644b27d|3 straipsnio]] 1, 2 ar [[#^s-56f1dda1b25b24c91db514b1|4 dalimi]], teismo nustatytas kreditorių reikalavimų pateikimo terminas; ^s-cb2e7f5d6ee996510c6d6e2a
+2) teismo, nagrinėjančio fizinio asmens bankroto bylą, pavadinimas, fizinio asmens bankroto bylos numeris, teismo nutarties iškelti fizinio asmens bankroto bylą priėmimo data ir apskundimo terminas, šios nutarties įsiteisėjimo data, teismo nutarties patvirtinti planą įsiteisėjimo data, ar teisė iškelti bylą grindžiama [Reglamento (ES) 2015/848 3 straipsnio](https://eur-lex.europa.eu/eli/reg/2015/848/art_3/oj) [[#^s-2646f37fa434720323ebcaec|1]], [[#^s-a395a7c0ddf47c12be5d8ab1|2]] ar 4 dalimi, teismo nustatytas kreditorių reikalavimų pateikimo terminas; ^s-cb2e7f5d6ee996510c6d6e2a
 
 
-3) bankroto administratoriaus, kai bankroto administratorius fizinis asmuo, – darbo vietos adresas, vardas, pavardė ir duomenys ryšiams palaikyti, kai bankroto administratorius juridinis asmuo arba juridinio asmens padalinys (filialas), – buveinės adresas, pavadinimas, vadovo vardas, pavardė ir duomenys ryšiams palaikyti; ^s-4356a19dc66e1ec4583efca0
+3) bankroto administratoriaus, kai bankroto administratorius [[latest/TAR.C677663D2202|fizinis asmuo]], – darbo vietos adresas, vardas, pavardė ir duomenys ryšiams palaikyti, kai bankroto administratorius juridinis asmuo arba juridinio asmens padalinys (filialas), – buveinės adresas, pavadinimas, vadovo vardas, pavardė ir duomenys ryšiams palaikyti; ^s-4356a19dc66e1ec4583efca0
 
 
 4) fizinio asmens bankroto proceso nutraukimo diena (teismo nutarties nutraukti fizinio asmens bankroto bylą įsiteisėjimo diena); ^s-569e59c3ccb32811d032659c
@@ -1642,13 +1642,13 @@ DUOMENŲ SKELBIMAS FIZINIO ASMENS BANKROTO PROCESO METU
 3) plano projekto išvada ir planu; ^s-20bfdaed3f906542bfe0222f
 
 
-4) informacija apie fizinio asmens turtą pagal šio įstatymo [[#^s-76c4a165d15c4a17f1fc588d|4 straipsnio 4 dalies]] 3 ir 4 punktus; ^s-f4785d25daf31031cfd67947
+4) informacija apie fizinio asmens turtą pagal šio įstatymo [[#^s-76c4a165d15c4a17f1fc588d|4 straipsnio 4 dalies]] [[#^s-5ed8f7f925fbd136d578d7d0|3]] ir [[#^s-422979a440ea13c10adf5ca5|4]] punktus; ^s-f4785d25daf31031cfd67947
 
 
 5) bankroto administravimo išlaidų sąmata; ^s-e8ebe3ed82acc33d7dccb7eb
 
 
-6) informacija apie kreditorius (vardas ir pavardė, jeigu kreditorius fizinis asmuo, ar pavadinimas ir kodas, jeigu kreditorius juridinis asmuo), jų reikalavimų dydį ir tenkinimą pagal kreditorių reikalavimų tenkinimo eilę ir etapus; ^s-c2080d053bd4999044adcff5
+6) informacija apie kreditorius (vardas ir pavardė, jeigu kreditorius [[latest/TAR.C677663D2202|fizinis asmuo]], ar pavadinimas ir kodas, jeigu kreditorius juridinis asmuo), jų reikalavimų dydį ir tenkinimą pagal kreditorių reikalavimų tenkinimo eilę ir etapus; ^s-c2080d053bd4999044adcff5
 
 
 7) plano vykdymo eigos ataskaita; ^s-77d40f10f0ed04a3371c0c19
@@ -1707,10 +1707,10 @@ priedas
 
 
 
-1. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/848 dėl nemokumo bylų. ^s-5c080716ba1cd5bee7dc5ad7
+1. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2015/848](https://eur-lex.europa.eu/eli/reg/2015/848/oj) dėl nemokumo bylų. ^s-5c080716ba1cd5bee7dc5ad7
 
 
-2. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1023 dėl prevencinio restruktūrizavimo sistemų, skolų panaikinimo ir draudimo verstis veikla ir priemonių restruktūrizavimo, nemokumo ir skolų panaikinimo procedūrų veiksmingumui didinti, kuria iš dalies keičiama Direktyva (ES) 2017/1132 (Restruktūrizavimo ir nemokumo direktyva). ^s-b3f6196022817a49cf3cddcf
+2. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/1023](https://eur-lex.europa.eu/eli/dir/2019/1023/oj) dėl prevencinio restruktūrizavimo sistemų, skolų panaikinimo ir draudimo verstis veikla ir priemonių restruktūrizavimo, nemokumo ir skolų panaikinimo procedūrų veiksmingumui didinti, kuria iš dalies keičiama [Direktyva (ES) 2017/1132](https://eur-lex.europa.eu/eli/dir/2017/1132/oj) (Restruktūrizavimo ir nemokumo direktyva). ^s-b3f6196022817a49cf3cddcf
 
 
 Priedo pakeitimai:
@@ -1728,59 +1728,59 @@ Nr. XII-217, 2013-03-28, Žin., 2013, Nr. 35-1693 (2013-04-04), i. k. [[latest/T
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1184, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14293
-Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 7, 13, 14 ir [[#^s-733e81b3ad950fe2068efc98|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 [[#^s-c6b3e2eb56a1b6acd578c95c|7]], [[#^s-732897a661abe0b0f8167799|13]], [[#^s-4f43b39d8a413eb7f86aea4a|14]] ir [[#^s-733e81b3ad950fe2068efc98|20]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2108, 2015-12-01, paskelbta TAR 2015-12-03, i. k. 2015-19294
-Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 12 ir [[#^s-396b0e6a8545509a3206c2a3|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 [[#^s-e5e6b806bfc33af00f1e9d25|12]] ir [[#^s-396b0e6a8545509a3206c2a3|29]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2235, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21017
-Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 4, 5, 6, 7, 8, 9, 14, 17, 19, 25, 27 ir [[#^s-396b0e6a8545509a3206c2a3|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 [[#^s-39243eff2fd56b5d270f0989|4]], [[#^s-b1164a0a625390f7d79c29bb|5]], [[#^s-b4c7821a573f64471a2ad016|6]], [[#^s-c6b3e2eb56a1b6acd578c95c|7]], [[#^s-a3166d227ab4e7171ea3d533|8]], [[#^s-f403685772c73b97f0dd569e|9]], [[#^s-4f43b39d8a413eb7f86aea4a|14]], [[#^s-771c86ca5ea9eea838702bb5|17]], [[#^s-0ebd0e8d78996fc8e252d43e|19]], [[#^s-f05c8c999a54cb464c89d3c7|25]], [[#^s-8c75cce4730a3c82f11cbb39|27]] ir [[#^s-396b0e6a8545509a3206c2a3|29]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2286, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06438
-Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 4, 5, 6, 7, 8, 9, 14, 17, 19, 25, 27 ir [[#^s-396b0e6a8545509a3206c2a3|29 straipsnių]] pakeitimo [[latest/9ecc4bb0aee911e5b12fbb7dc920ee2c|įstatymo Nr. XII-2235]] [[#^s-732897a661abe0b0f8167799|13 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 [[#^s-39243eff2fd56b5d270f0989|4]], [[#^s-b1164a0a625390f7d79c29bb|5]], [[#^s-b4c7821a573f64471a2ad016|6]], [[#^s-c6b3e2eb56a1b6acd578c95c|7]], [[#^s-a3166d227ab4e7171ea3d533|8]], [[#^s-f403685772c73b97f0dd569e|9]], [[#^s-4f43b39d8a413eb7f86aea4a|14]], [[#^s-771c86ca5ea9eea838702bb5|17]], [[#^s-0ebd0e8d78996fc8e252d43e|19]], [[#^s-f05c8c999a54cb464c89d3c7|25]], [[#^s-8c75cce4730a3c82f11cbb39|27]] ir [[#^s-396b0e6a8545509a3206c2a3|29]] straipsnių pakeitimo [[latest/9ecc4bb0aee911e5b12fbb7dc920ee2c|įstatymo Nr. XII-2235]] [[#^s-732897a661abe0b0f8167799|13 straipsnio]] pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT5-N4/2017, 2017-05-19, paskelbta TAR 2017-05-19, i. k. 2017-08442
-Dėl Lietuvos Respublikos fizinių asmenų bankroto įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos fizinių asmenų bankroto įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/2c2259c13c6d11e7b66ae890e1368363)
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1154, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08526
-Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 1, 3, 5, 6, 7, 8, 9, 12, 27, 29, [[#^s-a09e7af4c16c6df461f96404|31 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 [[#^s-8f027096b98cea4532b08efa|1]], [[#^s-5631f3fd8cd0521cc644b27d|3]], [[#^s-b1164a0a625390f7d79c29bb|5]], [[#^s-b4c7821a573f64471a2ad016|6]], [[#^s-c6b3e2eb56a1b6acd578c95c|7]], [[#^s-a3166d227ab4e7171ea3d533|8]], [[#^s-f403685772c73b97f0dd569e|9]], [[#^s-e5e6b806bfc33af00f1e9d25|12]], [[#^s-8c75cce4730a3c82f11cbb39|27]], [[#^s-396b0e6a8545509a3206c2a3|29]], [[#^s-a09e7af4c16c6df461f96404|31]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2226, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10340
-Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 2, 6, 11, 12, 13, 14, 21, 23 ir [[#^s-396b0e6a8545509a3206c2a3|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 [[#^s-7df0c3966a542ab5755db05a|2]], [[#^s-b4c7821a573f64471a2ad016|6]], [[#^s-3ce7ac0e08f186b24b218304|11]], [[#^s-e5e6b806bfc33af00f1e9d25|12]], [[#^s-732897a661abe0b0f8167799|13]], [[#^s-4f43b39d8a413eb7f86aea4a|14]], [[#^s-c549e390075a7e9d7d57a02e|21]], [[#^s-f959ccde2cce6b81ede98111|23]] ir [[#^s-396b0e6a8545509a3206c2a3|29]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT74-N7/2021, 2021-05-19, paskelbta TAR 2021-05-19, i. k. 2021-11041
-Dėl [[#^s-a8bbff9a311a68315f72152c|Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalies]] (2019 m. birželio 13 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalies (2019 m. birželio 13 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/3e3f2b90b89411eb8c24980b2b0e0fef)
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-451, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15469
-Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 5, 6, 7, 8, 14, 21, 23, 25, 29, 30, [[#^s-a09e7af4c16c6df461f96404|31 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 [[#^s-b1164a0a625390f7d79c29bb|5]], [[#^s-b4c7821a573f64471a2ad016|6]], [[#^s-c6b3e2eb56a1b6acd578c95c|7]], [[#^s-a3166d227ab4e7171ea3d533|8]], [[#^s-4f43b39d8a413eb7f86aea4a|14]], [[#^s-c549e390075a7e9d7d57a02e|21]], [[#^s-f959ccde2cce6b81ede98111|23]], [[#^s-f05c8c999a54cb464c89d3c7|25]], [[#^s-396b0e6a8545509a3206c2a3|29]], [[#^s-d8d6f533f9e60294f48a696a|30]], [[#^s-a09e7af4c16c6df461f96404|31]] straipsnių ir priedo pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr.  KT36-N5/2024, 2024-04-24, paskelbta TAR 2024-04-24, i. k. 2024-07473
-Dėl [[#^s-a8bbff9a311a68315f72152c|Lietuvos Respublikos fizinių asmenų bankroto įstatymo 29 straipsnio 7 dalies]] (2021 m. birželio 29 d. redakcija), Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 5, 6, 7, 8, 14, 21, 23, 25, 29, 30, [[#^s-a09e7af4c16c6df461f96404|31 straipsnių]] ir priedo pakeitimo įstatymo [[#^s-dff61c5feeded74ee21186d5|13 straipsnio 5 dalies]] atitikties Lietuvos Respublikos Konstitucijai
+Dėl Lietuvos Respublikos fizinių asmenų bankroto įstatymo [[#^s-a8bbff9a311a68315f72152c|29 straipsnio 7 dalies]] (2021 m. birželio 29 d. redakcija), Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 [[#^s-b1164a0a625390f7d79c29bb|5]], [[#^s-b4c7821a573f64471a2ad016|6]], [[#^s-c6b3e2eb56a1b6acd578c95c|7]], [[#^s-a3166d227ab4e7171ea3d533|8]], [[#^s-4f43b39d8a413eb7f86aea4a|14]], [[#^s-c549e390075a7e9d7d57a02e|21]], [[#^s-f959ccde2cce6b81ede98111|23]], [[#^s-f05c8c999a54cb464c89d3c7|25]], [[#^s-396b0e6a8545509a3206c2a3|29]], [[#^s-d8d6f533f9e60294f48a696a|30]], [[#^s-a09e7af4c16c6df461f96404|31]] straipsnių ir priedo pakeitimo įstatymo [[#^s-dff61c5feeded74ee21186d5|13 straipsnio 5 dalies]] atitikties Lietuvos Respublikos Konstitucijai
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3023, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18463
-Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 5, 6, 7, 8, 14, 21, 23, 25, 29, 30, [[#^s-a09e7af4c16c6df461f96404|31 straipsnių]] ir priedo pakeitimo [[latest/70ad44d0dfaa11eb9f09e7df20500045|įstatymo Nr. XIV-451]] [[#^s-732897a661abe0b0f8167799|13 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 [[#^s-b1164a0a625390f7d79c29bb|5]], [[#^s-b4c7821a573f64471a2ad016|6]], [[#^s-c6b3e2eb56a1b6acd578c95c|7]], [[#^s-a3166d227ab4e7171ea3d533|8]], [[#^s-4f43b39d8a413eb7f86aea4a|14]], [[#^s-c549e390075a7e9d7d57a02e|21]], [[#^s-f959ccde2cce6b81ede98111|23]], [[#^s-f05c8c999a54cb464c89d3c7|25]], [[#^s-396b0e6a8545509a3206c2a3|29]], [[#^s-d8d6f533f9e60294f48a696a|30]], [[#^s-a09e7af4c16c6df461f96404|31]] straipsnių ir priedo pakeitimo [[latest/70ad44d0dfaa11eb9f09e7df20500045|įstatymo Nr. XIV-451]] [[#^s-732897a661abe0b0f8167799|13 straipsnio]] pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-987, 2026-06-04, paskelbta TAR 2026-06-12, i. k. 2026-10324
-Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 2, 4, 6, 7, 8, 9, 11, 12, 14 ir [[#^s-f05c8c999a54cb464c89d3c7|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos fizinių asmenų bankroto įstatymo Nr. XI-2000 [[#^s-7df0c3966a542ab5755db05a|2]], [[#^s-39243eff2fd56b5d270f0989|4]], [[#^s-b4c7821a573f64471a2ad016|6]], [[#^s-c6b3e2eb56a1b6acd578c95c|7]], [[#^s-a3166d227ab4e7171ea3d533|8]], [[#^s-f403685772c73b97f0dd569e|9]], [[#^s-3ce7ac0e08f186b24b218304|11]], [[#^s-e5e6b806bfc33af00f1e9d25|12]], [[#^s-4f43b39d8a413eb7f86aea4a|14]] ir [[#^s-f05c8c999a54cb464c89d3c7|25]] straipsnių pakeitimo įstatymas

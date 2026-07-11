@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-a696ffe89bbd8d16af3553f1
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. balandžio 25 d. dekretą Nr. 1K-1044, ratifikuoja Singapūro sutartį dėl prekių ženklų įstatymų, pasirašytą 2006 m. kovo 28 d. Singapūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. balandžio 25 d. dekretą Nr. 1K-1044](https://e-tar.lt/portal/lt/legalAct/TAR.8BFA2E954353), ratifikuoja Singapūro sutartį dėl prekių ženklų įstatymų, pasirašytą 2006 m. kovo 28 d. Singapūre.
 
 
 

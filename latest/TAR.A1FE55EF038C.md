@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-068a59dac3dea7a7267b4f4b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. kovo 11 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Moldovos Respublikos draugystės ir bendradarbiavimo sutartį“, ratifikuoja Lietuvos Respublikos ir Moldovos Respublikos draugystės ir bendradarbiavimo sutartį, pasirašytą 1995 m. kovo 27 d. Kišiniove.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. kovo 11 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Moldovos Respublikos draugystės ir bendradarbiavimo sutartį“](https://e-tar.lt/portal/lt/legalAct/TAR.E6807D061ABC), ratifikuoja Lietuvos Respublikos ir Moldovos Respublikos draugystės ir bendradarbiavimo sutartį, pasirašytą 1995 m. kovo 27 d. Kišiniove.
 
 
 

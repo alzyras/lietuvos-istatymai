@@ -199,7 +199,7 @@ BENDROSIOS NUOSTATOS
 42. Tyrinėtojas – Lietuvos Respublikoje įregistruota įmonė, kurios įstatuose numatyta tam tikros srities tyrinėjimų (tyrimų) veikla, arba fizinis asmuo, kuriems šis ar kiti įstatymai suteikia teisę atlikti statybinius ir kitus su statyba susijusius tyrinėjimus (tyrimus). ^s-cb930b4f59d6cb9cf83a9db2
 
 
-43. Statinio projektuotojas – statinio projektą rengiantys: įmonė, fizinis asmuo ar kiti subjektai, nurodyti šio Įstatymo [[#^s-cd127cce3915c6ad597153bf|14 straipsnio]] 1 ir [[#^s-ff9b1aa80fee15196f38890e|2 dalyse]]. ^s-dbe82b0ddb36014ed508db14
+43. Statinio projektuotojas – statinio projektą rengiantys: įmonė, fizinis asmuo ar kiti subjektai, nurodyti šio Įstatymo [[#^s-cd127cce3915c6ad597153bf|14 straipsnio]] [[#^s-7be0d21af91b65e462327e85|1]] ir [[#^s-38b411d298b888be1f0a711f|2]] dalyse. ^s-dbe82b0ddb36014ed508db14
 
 
 44. Statinio projekto vadovas – fizinis asmuo (specialistas, turintis statybos, architektūros ar kitą aukštąjį inžinerinį išsimokslinimą), kuris, atstovaudamas statytojo interesams, normatyvinių statybos techninių dokumentų nustatyta tvarka organizuoja statinio projekto rengimą, koordinuoja statinio projekto dalių sprendinius bei statinio projekto dalių vadovų veiklą, prižiūri ir atsako, kad statinio projekte būtų įgyvendinti įstatymų, kitų teisės aktų, normatyvinių statybos techninių dokumentų ir normatyvinių statinio saugos ir paskirties dokumentų, privalomųjų statinio projekto rengimo dokumentų reikalavimai. ^s-c6d1657592d307d2bd3d4f6c
@@ -217,7 +217,7 @@ BENDROSIOS NUOSTATOS
 48. Statinio projektavimo valdytojas – įmonė, veikianti kaip įgaliotojo – statytojo (užsakovo) įgaliotinis, valdantis statinio projektavimą, organizuojantis statinio projektavimo ir su juo susijusių kitų statybos techninės veiklos pagrindinių sričių darbus, kuriuos atlieka jo pasamdyti fiziniai ar juridiniai asmenys. ^s-0f99706243843a11e6a8be03
 
 
-49. Statinio statybos rangovas (toliau – rangovas) – įmonė, fizinis asmuo ar kiti šio Įstatymo [[#^s-f073fe37b5d289b2b3aad8cf|15 straipsnio]] 1 ir [[#^s-ff9b1aa80fee15196f38890e|2 dalyse]] nurodyti subjektai. ^s-06453ac2f3d588c9b367fbb3
+49. Statinio statybos rangovas (toliau – rangovas) – įmonė, fizinis asmuo ar kiti šio Įstatymo [[#^s-f073fe37b5d289b2b3aad8cf|15 straipsnio]] [[#^s-9652aa006187eb4be4c14484|1]] ir [[#^s-1016418fafdac655c163bd45|2]] dalyse nurodyti subjektai. ^s-06453ac2f3d588c9b367fbb3
 
 
 50. Statinio statybos vadovas – fizinis asmuo (specialistas, turintis statybos, architektūros ar kitą aukštąjį inžinerinį išsimokslinimą), kuris, atstovaudamas rangovui (kai statyba vykdoma rangos būdu) ar statytojui (užsakovui) (kai statyba vykdoma ūkio būdu) ir įgyvendindamas statinio projektą nuo statybos pradžios iki statinio pripažinimo tinkamu naudoti, vadovauja statybos darbams, kartu yra bendrųjų statybos darbų vadovas, koordinuoja statinio statybos specialiųjų darbų vykdymą bei šių darbų vadovų veiklą ir pagal kompetenciją atsako už pastatyto statinio normatyvinę kokybę. ^s-0df47c42af0549373d7e0653
@@ -333,7 +333,7 @@ BENDROSIOS NUOSTATOS
 6) energijos taupymo ir šilumos išsaugojimo, t. y. kad naudojamas šiluminės energijos kiekis, atsižvelgiant į vietovės klimato sąlygas ir gyventojų poreikius, nebūtų didesnis už reikiamą (t. y. apskaičiuotą pagal higienos normų ir pastato ar jo patalpų paskirties reikalavimus). ^s-f599ee44251064108e7d5b21
 
 
-2. [[#^s-2c1124d7f6b45a54dff4df1b|Šio straipsnio 1 dalyje]] išvardytus esminius statinio reikalavimus (vieną, kelis ar visus) bei statinio techninius parametrus pagal statinių ar statybos produktų charakteristikų lygius bei klases nustato normatyviniai statybos techniniai dokumentai, nurodyti šio Įstatymo [[#^s-a7f3308515c79d80be56b029|8 straipsnio 1 dalies]] 1, 3 ir 4 punktuose. ^s-dbcf1436802950d551b7fc69
+2. [[#^s-2c1124d7f6b45a54dff4df1b|Šio straipsnio 1 dalyje]] išvardytus esminius statinio reikalavimus (vieną, kelis ar visus) bei statinio techninius parametrus pagal statinių ar statybos produktų charakteristikų lygius bei klases nustato normatyviniai statybos techniniai dokumentai, nurodyti šio Įstatymo [[#^s-a7f3308515c79d80be56b029|8 straipsnio 1 dalies]] [[#^s-f5ddb040bdc666860cefb5c1|1]], [[#^s-cc63178ef55dbf5b6355d3b7|3]] ir [[#^s-a9011f79405113a492202952|4]] punktuose. ^s-dbcf1436802950d551b7fc69
 
 
 3. Statinių klasifikavimas pagal jų naudojimo paskirtį ir jų gyvavimo trukmė (atsižvelgiant į statybos produktus, iš kurių jie pastatyti, klimato sąlygas ir naudojimo paskirtį) nustatomi normatyviniuose statybos techniniuose dokumentuose. ^s-38f2956ffd14167f4cedde52
@@ -853,7 +853,7 @@ STATYBOS DALYVIAI, JŲ PAREIGOS IR TEISĖS
 2) užsienio valstybės statinio statybos valdymo įmonė, turinti savo šalies institucijų išduotus kvalifikaciją patvirtinančius dokumentus, kurie Lietuvos Respublikoje pripažįstami Konvencijos dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo (sudarytos 1961 m. spalio 5 d. Hagoje) pagrindu. ^s-a690c92c454c0d432e6ef845
 
 
-3. Jei įmonė atitinka šio straipsnio 1 ir [[#^s-91e1230d421cd692d4e06124|2 dalyse]] nustatytus reikalavimus, ji gali verstis ir statinio projektavimo valdymo, ir statinio statybos valdymo veikla. ^s-8b5f9a403116437279be1c64
+3. Jei įmonė atitinka šio straipsnio [[#^s-1957607c92e310d6025bc474|1]] ir [[#^s-91e1230d421cd692d4e06124|2]] dalyse nustatytus reikalavimus, ji gali verstis ir statinio projektavimo valdymo, ir statinio statybos valdymo veikla. ^s-8b5f9a403116437279be1c64
 
 
 4. Statinio projektavimo valdytojas veikia statytojo (užsakovo) vardu ir darbus organizuoja pagal šias statybos techninės veiklos pagrindines sritis: statybinių tyrinėjimų, statinio projektavimo, statinio projekto vykdymo priežiūros, statinio projekto ekspertizės. Šių sričių darbų mastas ir statytojo (užsakovo) kaip įgaliotojo pavedamos įgaliotiniui – statinio projektavimo valdytojui teisės bei pareigos nustatomi pavedimo sutartimi. ^s-7e34de12c9ac85822a005b1c
@@ -1049,7 +1049,7 @@ STATYBOS LEIDIMAS. STATINIO PRIPAŽINIMAS TINKAMU NAUDOTI
 3. Leidimas statyti ar rekonstruoti branduolinės energetikos objektą išduodamas [[latest/TAR.6286F15970B3|Branduolinės energijos įstatymo]] nustatyta tvarka. ^s-b03d12ae2f5fafe4dc1851b0
 
 
-4. Leidimas statyti ar rekonstruoti statinį pajūrio juostoje ir Kuršių nerijoje išduodamas vadovaujantis įstatymu „Dėl statybų Lietuvos Respublikos pajūrio juostoje ir Kuršių nerijoje“. ^s-9e7bd84692a1dcad5cbc306f
+4. Leidimas statyti ar rekonstruoti statinį pajūrio juostoje ir Kuršių nerijoje išduodamas vadovaujantis įstatymu [„Dėl statybų Lietuvos Respublikos pajūrio juostoje ir Kuršių nerijoje“](https://e-tar.lt/portal/lt/legalAct/TAR.B222C736771C). ^s-9e7bd84692a1dcad5cbc306f
 
 
 5. Statybos leidimą išduoda: ^s-9e7fdf5726fc0d66f4510bdb
@@ -1067,7 +1067,7 @@ STATYBOS LEIDIMAS. STATINIO PRIPAŽINIMAS TINKAMU NAUDOTI
 1) nustatytos formos prašymą; ^s-ec7f997c4797f4620a5155af
 
 
-2) dokumentus, nurodytus šio Įstatymo [[#^s-02b833b5c1e7e74eaaf40b35|20 straipsnio 2 dalies]] 2 ir [[#^s-52f254da4443f58331781d93|3 punktuose]]; ^s-1cf1bef6c14ff3963ea994ce
+2) dokumentus, nurodytus šio Įstatymo [[#^s-02b833b5c1e7e74eaaf40b35|20 straipsnio 2 dalies]] [[#^s-f9526f52f125c6cc9f2ba089|2]] ir [[#^s-010da7ea53ca752ab571b1e3|3]] punktuose; ^s-1cf1bef6c14ff3963ea994ce
 
 
 3) sutartį su žemės savininku dėl sklypo laikino naudojimo statybos metu, dėl šio sklypo servitutų naudojant pastatytą statinį ir kompensacijų už naudojimąsi žemės sklypu bei žalą (jeigu ji padaroma) tais atvejais, kai pagal statinio projektavimo sąlygų sąvadą inžineriniai tinklai, susisiekimo komunikacijos numatomi tiesti statytojui (užsakovui) nepriklausančiame žemės sklype ar kai tokio sklypo dalį numatoma panaudoti statybvietei įrengti; ^s-52f254da4443f58331781d93
@@ -1097,7 +1097,7 @@ STATYBOS LEIDIMAS. STATINIO PRIPAŽINIMAS TINKAMU NAUDOTI
 1) nustatytos formos prašymą; ^s-f4de886fd6f5190938aeb309
 
 
-2) dokumentus, nurodytus šio Įstatymo [[#^s-02b833b5c1e7e74eaaf40b35|20 straipsnio 2 dalies]] 2 ir [[#^s-ff8db2f110866a7d4816985c|3 punktuose]]; ^s-4fe45474a72b0630fe9b5509
+2) dokumentus, nurodytus šio Įstatymo [[#^s-02b833b5c1e7e74eaaf40b35|20 straipsnio 2 dalies]] [[#^s-f9526f52f125c6cc9f2ba089|2]] ir [[#^s-010da7ea53ca752ab571b1e3|3]] punktuose; ^s-4fe45474a72b0630fe9b5509
 
 
 3) įstatymų nustatyta tvarka priimtą sprendimą nugriauti statinį, priklausantį valstybės, savivaldybės ar kito juridinio asmens nuosavybei; ^s-ff8db2f110866a7d4816985c
@@ -1109,19 +1109,19 @@ STATYBOS LEIDIMAS. STATINIO PRIPAŽINIMAS TINKAMU NAUDOTI
 5) statinio kadastrinių matavimų ir teisinės registracijos pažymėjimą (tik statinio, kuris buvo pripažintas tinkamu naudoti, atveju; kai griaunamas statinys nepripažintas tinkamu naudoti ir neįregistruotas Nekilnojamojo turto registre, pateikiamas jo turtinę priklausomybę liudijantis dokumentas). ^s-8b84c2fb4bef0947995d8873
 
 
-8. Kad gautų statinio, skirto krašto apsaugos reikmėms, statybos (išskyrus griovimą) leidimą ar tik statybos leidimą statinį griauti, šio straipsnio 6 ar [[#^s-60416c1a66dca77deb578a5f|7 dalyse]] nurodytus dokumentus statytojas (užsakovas) pateikia tiesiai apskrities viršininko administracijai. ^s-25f986a7d38e36aee03ff28b
+8. Kad gautų statinio, skirto krašto apsaugos reikmėms, statybos (išskyrus griovimą) leidimą ar tik statybos leidimą statinį griauti, šio straipsnio [[#^s-1782f653753381a6a1f9c2cc|6]] ar [[#^s-60416c1a66dca77deb578a5f|7]] dalyse nurodytus dokumentus statytojas (užsakovas) pateikia tiesiai apskrities viršininko administracijai. ^s-25f986a7d38e36aee03ff28b
 
 
-9. Savivaldybės meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas), gavęs statytojo (užsakovo) šio straipsnio 6 ar [[#^s-60416c1a66dca77deb578a5f|7 dalyse]] nurodytą prašymą ir kitus dokumentus, perduoda juos Nuolatinei statybos komisijai, kuri privalo patikrinti ir nustatyti, ar statyba atitinka teritorijų planavimo dokumentuose nustatytus statybos sklypo tvarkymo reikalavimus (reglamentą) bei projektavimo sąlygų sąvado reikalavimus. Komisija protokolu įformina statinio projekto patikrinimo rezultatus ir rekomenduoja savivaldybės merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės administracijos tarnautojui) išduoti ar neišduoti statytojui (užsakovui) jo prašomą statybos leidimą. ^s-635385287b8efbf290d7e00e
+9. Savivaldybės meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas), gavęs statytojo (užsakovo) šio straipsnio [[#^s-1782f653753381a6a1f9c2cc|6]] ar [[#^s-60416c1a66dca77deb578a5f|7]] dalyse nurodytą prašymą ir kitus dokumentus, perduoda juos Nuolatinei statybos komisijai, kuri privalo patikrinti ir nustatyti, ar statyba atitinka teritorijų planavimo dokumentuose nustatytus statybos sklypo tvarkymo reikalavimus (reglamentą) bei projektavimo sąlygų sąvado reikalavimus. Komisija protokolu įformina statinio projekto patikrinimo rezultatus ir rekomenduoja savivaldybės merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės administracijos tarnautojui) išduoti ar neišduoti statytojui (užsakovui) jo prašomą statybos leidimą. ^s-635385287b8efbf290d7e00e
 
 
 10. Nuolatinę statybos komisiją sudaro savivaldybės meras iš teritorijų planavimo ir statinio projektavimo sąlygas parengusių inžinerinių tinklų ir susisiekimo komunikacijų savininkų (naudotojų), institucijų bei savivaldybės atstovų, turinčių įgaliojimus priimti sprendimus [[#^s-635385287b8efbf290d7e00e|šio straipsnio 9 dalyje]] nustatytais klausimais. Komisijos pavyzdinius nuostatus parengia Vyriausybės įgaliota institucija. ^s-4976c409dc6e7bc87b41dfef
 
 
-11. Kai statybos leidimą išduoda apskrities viršininko administracija, jai savivaldybės meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas) privalo per 10 dienų nuo dokumentų, nurodytų šio straipsnio 6 ar [[#^s-60416c1a66dca77deb578a5f|7 dalyse]], gavimo perduoti savivaldybės mero (jo įgalioto savivaldybės administratoriaus) patvirtintos Nuolatinės statybos komisijos protokolą ir šio straipsnio 6 ar [[#^s-60416c1a66dca77deb578a5f|7 dalyse]] išvardytus dokumentus. ^s-a9ebaffd4079c365901957b8
+11. Kai statybos leidimą išduoda apskrities viršininko administracija, jai savivaldybės meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas) privalo per 10 dienų nuo dokumentų, nurodytų šio straipsnio [[#^s-1782f653753381a6a1f9c2cc|6]] ar [[#^s-60416c1a66dca77deb578a5f|7]] dalyse, gavimo perduoti savivaldybės mero (jo įgalioto savivaldybės administratoriaus) patvirtintos Nuolatinės statybos komisijos protokolą ir šio straipsnio [[#^s-1782f653753381a6a1f9c2cc|6]] ar [[#^s-60416c1a66dca77deb578a5f|7]] dalyse išvardytus dokumentus. ^s-a9ebaffd4079c365901957b8
 
 
-12. Statybos leidimą savivaldybės meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas) išduoda ne vėliau kaip per 10 dienų (ypatingo statinio statybos leidimą – per 15 dienų) nuo dokumentų, nurodytų šio straipsnio 6 ar [[#^s-60416c1a66dca77deb578a5f|7 dalyse]], pateikimo, o apskrities viršininko administracija – per 7 dienas nuo Nuolatinės statybos komisijos protokolo gavimo. ^s-041a380d0476fa50bd2778ee
+12. Statybos leidimą savivaldybės meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas) išduoda ne vėliau kaip per 10 dienų (ypatingo statinio statybos leidimą – per 15 dienų) nuo dokumentų, nurodytų šio straipsnio [[#^s-1782f653753381a6a1f9c2cc|6]] ar [[#^s-60416c1a66dca77deb578a5f|7]] dalyse, pateikimo, o apskrities viršininko administracija – per 7 dienas nuo Nuolatinės statybos komisijos protokolo gavimo. ^s-041a380d0476fa50bd2778ee
 
 
 13. Statinio, skirto krašto apsaugos reikmėms, statybos leidimą apskrities viršininko administracija išduoda Vyriausybės nustatyta tvarka. ^s-af666c2cc81011b6ac5312a0
@@ -1133,7 +1133,7 @@ STATYBOS LEIDIMAS. STATINIO PRIPAŽINIMAS TINKAMU NAUDOTI
 15. Visiems statiniams, suprojektuotiems viename statinio projekte ir esantiems tiek statinio statybos sklype, tiek už jo ribų (pagal statinio projektavimo sąlygas suprojektuotiems inžineriniams tinklams ir susisiekimo komunikacijoms), tarp jų ir laikiniems statiniams (statomiems statybos reikmėms), taip pat visoms statybos rūšims, numatytoms statinio projekte (naujų statinių statybai, rekonstravimui, kapitaliniam remontui, griovimui, nekilnojamųjų kultūros paveldo vertybių tvarkymo statybos darbams), išduodamas vienas statybos leidimas. Leidime privaloma nurodyti normatyvinių statybos techninių dokumentų nustatytus kiekvieno statinio techninius rodiklius ir naudojimo paskirtį. ^s-1d3d2d5ca4355f9ca08302fd
 
 
-16. Jei statybos leidimas neišduodamas, valstybinio administravimo subjektas, kuriam pavesta išduoti šį leidimą, per 10 dienų nuo statytojo (užsakovo) dokumentų, nurodytų šio straipsnio 6 ar [[#^s-60416c1a66dca77deb578a5f|7 dalyse]], pateikimo praneša apie tai raštu statytojui (užsakovui), nurodydamas konkrečias leidimo neišdavimo priežastis. Jei leidimas per nustatytą terminą nebuvo išduotas ir statytojui (užsakovui) nepranešta apie neišdavimo priežastis, statytojas (užsakovas) turi teisę vykdyti statybą be leidimo, tačiau apie tai raštu praneša statybos leidimą išduodančiam viešojo administravimo subjektui ne vėliau kaip prieš 5 dienas iki statybos pradžios. Leidimą išduodantis viešojo administravimo subjektas privalo šį raštą įregistruoti kaip statybos leidimą. Atsisakymą išduoti statybos leidimą statytojas (užsakovas) gali apskųsti [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-a90c045c486c0c037b4a83cc
+16. Jei statybos leidimas neišduodamas, valstybinio administravimo subjektas, kuriam pavesta išduoti šį leidimą, per 10 dienų nuo statytojo (užsakovo) dokumentų, nurodytų šio straipsnio [[#^s-1782f653753381a6a1f9c2cc|6]] ar [[#^s-60416c1a66dca77deb578a5f|7]] dalyse, pateikimo praneša apie tai raštu statytojui (užsakovui), nurodydamas konkrečias leidimo neišdavimo priežastis. Jei leidimas per nustatytą terminą nebuvo išduotas ir statytojui (užsakovui) nepranešta apie neišdavimo priežastis, statytojas (užsakovas) turi teisę vykdyti statybą be leidimo, tačiau apie tai raštu praneša statybos leidimą išduodančiam viešojo administravimo subjektui ne vėliau kaip prieš 5 dienas iki statybos pradžios. Leidimą išduodantis viešojo administravimo subjektas privalo šį raštą įregistruoti kaip statybos leidimą. Atsisakymą išduoti statybos leidimą statytojas (užsakovas) gali apskųsti [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-a90c045c486c0c037b4a83cc
 
 
 17. Statybos leidimas galioja 10 metų (statyti laikiną statinį – iki leidime nurodyto laiko, kuris priklauso nuo statinio naudojimo paskirties), o leidimas griauti – 3 metus. ^s-6eef4a52d17f9205e0c7cdfb
@@ -1243,7 +1243,7 @@ Statybos valstybinį valdymą vykdo Vyriausybė.
 2. Branduolinės energetikos objektų statybos valstybinė priežiūra atliekama [[latest/TAR.6286F15970B3|Branduolinės energijos įstatymo]] nustatyta tvarka. ^s-790e92bf450b931301da73e6
 
 
-3. Apskrities viršininko administracija pagal šio straipsnio 4, 5, [[#^s-f9d68e17471aeaeb2349542b|6 dalis]] atlieka visų statinių statybos valstybinę priežiūrą. ^s-8eb04caaee8e67a2ad209a06
+3. Apskrities viršininko administracija pagal šio straipsnio [[#^s-2b33c997d3265ce516489291|4]], [[#^s-47e602deb8dfa1276ec06ecf|5]], [[#^s-f9d68e17471aeaeb2349542b|6]] dalis atlieka visų statinių statybos valstybinę priežiūrą. ^s-8eb04caaee8e67a2ad209a06
 
 
 4. Apskrities viršininko administracija privalo tikrinti: ^s-2b33c997d3265ce516489291
@@ -1267,16 +1267,16 @@ Statybos valstybinį valdymą vykdo Vyriausybė.
 5. Apskrities viršininko administracijos atstovas dalyvauja statinį pripažįstant tinkamu naudoti. ^s-47e602deb8dfa1276ec06ecf
 
 
-6. Apskrities viršininko administracijos įgalioti pareigūnai pagal šio straipsnio 3, 4 ir [[#^s-47e602deb8dfa1276ec06ecf|5 dalyse]] nustatytą kompetenciją turi teisę: ^s-f9d68e17471aeaeb2349542b
+6. Apskrities viršininko administracijos įgalioti pareigūnai pagal šio straipsnio [[#^s-8eb04caaee8e67a2ad209a06|3]], [[#^s-2b33c997d3265ce516489291|4]] ir [[#^s-47e602deb8dfa1276ec06ecf|5]] dalyse nustatytą kompetenciją turi teisę: ^s-f9d68e17471aeaeb2349542b
 
 
-1) sustabdyti statinio statybą ir kreiptis į teismą šio Įstatymo [[#^s-b68113e55dc63c7d151474a0|33 straipsnio]] 2 ir [[#^s-8eb04caaee8e67a2ad209a06|3 dalyse]] nustatytais atvejais; ^s-5e65abb1374ee605878bc766
+1) sustabdyti statinio statybą ir kreiptis į teismą šio Įstatymo [[#^s-b68113e55dc63c7d151474a0|33 straipsnio]] [[#^s-8025c2b5e6858425ed415439|2]] ir [[#^s-fae3e40b1b204ec4f9e04fb9|3]] dalyse nustatytais atvejais; ^s-5e65abb1374ee605878bc766
 
 
 2) kai tai susiję su pareigomis, netrukdomi patekti į statybvietes, statomus, rekonstruojamus, remontuojamus ar griaunamus statinius, juose esančius butus ir reikalauti iš statybos dalyvių pateikti visus statybos dokumentus; ^s-ce08f2eb017a5745225498d9
 
 
-3) Administracinių teisės pažeidimų kodekso nustatytais atvejais surašyti administracinių teisės pažeidimų protokolus, nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas arba teikti administracinių teisės pažeidimų bylas teismui; ^s-7fb2ef01312d74d1eec3585c
+3) [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatytais atvejais surašyti administracinių teisės pažeidimų protokolus, nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas arba teikti administracinių teisės pažeidimų bylas teismui; ^s-7fb2ef01312d74d1eec3585c
 
 
 4) Civilinio kodekso nustatytais atvejais kreiptis į teismą dėl civilinių bylų iškėlimo, kad būtų atlyginta valstybei padaryta žala dėl įstatymų nuostatų, kitų teisės aktų ir normatyvinių statybos techninių dokumentų reikalavimų pažeidimo; ^s-1a8cc06c7a132e05bdb43dea
@@ -1343,19 +1343,19 @@ Statybos valstybinį valdymą vykdo Vyriausybė.
 ### 28 straipsnis. Savavališkos statybos padarinių šalinimas ^s-b13777f8d6230af3f6124948
 
 
-1. Apskrities viršininko administracijos, Valstybinės teritorijų planavimo ir statybos inspekcijos prie Vyriausybės įgaliotos institucijos pareigūnai, atliekantys statybos valstybinę priežiūrą pagal šio Įstatymo [[#^s-99e3abe0c9dfe36ea15b5fa1|27 straipsnio]] 3, 4, 6, 7 dalyse apibrėžtą kompetenciją, vadovaudamiesi Civiliniu kodeksu ir Administracinių teisės pažeidimų kodeksu, nustatę, kad statinio statyba vykdoma pažeidžiant šį Įstatymą ir kitus teisės aktus: ^s-ef2ee08e302953a828f2e098
+1. Apskrities viršininko administracijos, Valstybinės teritorijų planavimo ir statybos inspekcijos prie Vyriausybės įgaliotos institucijos pareigūnai, atliekantys statybos valstybinę priežiūrą pagal šio Įstatymo [[#^s-99e3abe0c9dfe36ea15b5fa1|27 straipsnio]] [[#^s-8eb04caaee8e67a2ad209a06|3]], [[#^s-2b33c997d3265ce516489291|4]], [[#^s-f9d68e17471aeaeb2349542b|6]], [[#^s-46e541c02ff62a801186c78a|7]] dalyse apibrėžtą kompetenciją, vadovaudamiesi Civiliniu kodeksu ir [Administracinių teisės pažeidimų kodeksu](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), nustatę, kad statinio statyba vykdoma pažeidžiant šį Įstatymą ir kitus teisės aktus: ^s-ef2ee08e302953a828f2e098
 
 
 1) surašo savavališkos statybos aktą, pareikalauja iš statytojo ir rangovo (jei darbai vykdomi rangos būdu) tuojau pat sustabdyti statybos darbus ir įteikia jiems aktą pasirašytinai arba registruotu laišku; ^s-53bebdbd49d167304fa886df
 
 
-2) Administracinių teisės pažeidimų kodekso nustatyta tvarka surašo administracinio teisės pažeidimo protokolą ir nagrinėja administracinę bylą dėl administracinės nuobaudos paskyrimo arba siunčia šį protokolą teismui; ^s-aef7897fbb2e3f1bf603147d
+2) [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka surašo administracinio teisės pažeidimo protokolą ir nagrinėja administracinę bylą dėl administracinės nuobaudos paskyrimo arba siunčia šį protokolą teismui; ^s-aef7897fbb2e3f1bf603147d
 
 
 3) nagrinėja savavališkos statybos priežastis bei aplinkybes, gauna statinio saugos ir paskirties reikalavimų valstybinės priežiūros institucijų išvadas, rengia ir teikia pagal priklausomybę apskrities viršininkui pasiūlymus dėl savavališkos statybos padarinių pašalinimo arba pagal kompetenciją priima reikalingą sprendimą. ^s-29d39847c1ad9eafe9cba1ce
 
 
-2. Apskrities viršininko administracija arba Valstybinė teritorijų planavimo ir statybos inspekcija prie Vyriausybės įgaliotos institucijos pagal šio Įstatymo [[#^s-99e3abe0c9dfe36ea15b5fa1|27 straipsnio]] 3, 4, 5, 6, 7 dalyse apibrėžtą kompetenciją išnagrinėja savavališkos statybos aktą bei pareigūnų siūlymus dėl jos padarinių pašalinimo ir nustatydama įvykdymo terminą priima vieną iš šių sprendimų: ^s-8ed99f8fd5f35873d6a7d733
+2. Apskrities viršininko administracija arba Valstybinė teritorijų planavimo ir statybos inspekcija prie Vyriausybės įgaliotos institucijos pagal šio Įstatymo [[#^s-99e3abe0c9dfe36ea15b5fa1|27 straipsnio]] [[#^s-8eb04caaee8e67a2ad209a06|3]], [[#^s-2b33c997d3265ce516489291|4]], [[#^s-47e602deb8dfa1276ec06ecf|5]], [[#^s-f9d68e17471aeaeb2349542b|6]], [[#^s-46e541c02ff62a801186c78a|7]] dalyse apibrėžtą kompetenciją išnagrinėja savavališkos statybos aktą bei pareigūnų siūlymus dėl jos padarinių pašalinimo ir nustatydama įvykdymo terminą priima vieną iš šių sprendimų: ^s-8ed99f8fd5f35873d6a7d733
 
 
 1) sustabdyti statinio statybą ir pareikalauti iš statytojo (užsakovo) nugriauti statinį, jei teritorijoje, kurioje vykdoma naujo statinio statyba ar statinys rekonstruojamas, draudžiama bet kurio ar tam tikros paskirties naujo statinio statyba ar statinio rekonstravimas; per nurodytą terminą šio reikalavimo neįvykdžius, kreiptis į teismą; ^s-b0ed0b0f812f8bb596ce92ed
@@ -1370,10 +1370,10 @@ Statybos valstybinį valdymą vykdo Vyriausybė.
 4) pareikalauti iš statytojo (užsakovo) savo lėšomis statinį nugriauti ir sutvarkyti statybvietę; ^s-47ac12deaa993de6dfe51178
 
 
-5) kreiptis į teismą nepriėmus šios dalies 1, 2 ir [[#^s-616ee131c2c1f92a32be656f|3 punktuose]] nurodytų sprendimų. ^s-d4e8cd6ec79d360e93fe7119
+5) kreiptis į teismą nepriėmus šios dalies [[#^s-b0ed0b0f812f8bb596ce92ed|1]], [[#^s-a496057b314655782d46ced3|2]] ir [[#^s-616ee131c2c1f92a32be656f|3]] punktuose nurodytų sprendimų. ^s-d4e8cd6ec79d360e93fe7119
 
 
-3. Jei statytojas (užsakovas) per nustatytą terminą neįvykdo [[#^s-8ed99f8fd5f35873d6a7d733|šio straipsnio 2 dalies]] 2, 3, 4 punktuose nurodytų reikalavimų, apskrities viršininko administracija ar Valstybinė teritorijų planavimo ir statybos inspekcija prie Vyriausybės įgaliotos institucijos pagal šio Įstatymo [[#^s-99e3abe0c9dfe36ea15b5fa1|27 straipsnio]] 3, 4, 6, 7 dalyse apibrėžtą kompetenciją teikia teismui prašymą (pareiškimą) dėl įpareigojimų vykdymo. ^s-b4971e1a4e6576e9ae55970b
+3. Jei statytojas (užsakovas) per nustatytą terminą neįvykdo [[#^s-8ed99f8fd5f35873d6a7d733|šio straipsnio 2 dalies]] 2, 3, 4 punktuose nurodytų reikalavimų, apskrities viršininko administracija ar Valstybinė teritorijų planavimo ir statybos inspekcija prie Vyriausybės įgaliotos institucijos pagal šio Įstatymo [[#^s-99e3abe0c9dfe36ea15b5fa1|27 straipsnio]] [[#^s-8eb04caaee8e67a2ad209a06|3]], [[#^s-2b33c997d3265ce516489291|4]], [[#^s-f9d68e17471aeaeb2349542b|6]], [[#^s-46e541c02ff62a801186c78a|7]] dalyse apibrėžtą kompetenciją teikia teismui prašymą (pareiškimą) [dėl įpareigojimų vykdymo](https://e-tar.lt/portal/lt/legalAct/0db42cb05c8c11ea931dbf3357b5b1c0). ^s-b4971e1a4e6576e9ae55970b
 
 
 4. Savavališkos statybos akto surašymo tvarką bei formą nustato Vyriausybės įgaliota institucija. ^s-ae54caf2c8602e031b0e44aa
@@ -1474,7 +1474,7 @@ Statybos valstybinį valdymą vykdo Vyriausybė.
 1) nustatoma, kad statinio statyba ar griovimas yra savavališki; ^s-f0c29257db68339cf9f25592
 
 
-2) pateiktas prašymas (pareiškimas) teismui dėl statybos leidimo panaikinimo pagal šio Įstatymo [[#^s-284ea1f7207040bc77df2314|23 straipsnio 19 dalį]]; ^s-d089bc119d4d06581e66a91a
+2) pateiktas prašymas (pareiškimas) teismui [dėl statybos leidimo panaikinimo pagal šio Įstatymo 23 straipsnio 19 dalį](https://e-tar.lt/portal/lt/legalAct/TAR.19BEF3FCF14E); ^s-d089bc119d4d06581e66a91a
 
 
 3) statomas statinys neatitinka statybos leidime nurodytų statinio ploto ir tūrio matmenų bei statinio naudojimo paskirties; ^s-44573b77a37eb9f4d8cb44d0
@@ -1508,7 +1508,7 @@ Statybos valstybinį valdymą vykdo Vyriausybė.
 2. Juridiniam ar fiziniam asmeniui, įsigijusiam nebaigtą statyti, rekonstruoti ar kapitališkai remontuoti statinį, visos statytojo, gavusio statybos leidimą, prievolės ir teisės pereina tik po to, kai šis leidimas perregistruojamas statinį įsigijusio asmens vardu. ^s-8e70adfa5ddb7086f9976ab1
 
 
-3. Kad būtų perregistruotas statybos leidimas, statinį įsigijęs fizinis ar juridinis asmuo turi pateikti statybos leidimą išdavusiam viešojo administravimo subjektui dokumentus, nurodytus šio Įstatymo [[#^s-1782f653753381a6a1f9c2cc|23 straipsnio 6 dalies]] 2, 3, 8, 9 punktuose (kitus šioje dalyje nurodytus dokumentus privaloma pateikti tik tuo atveju, kai keičiamas statinio projektas), statinio perleidimo sutartį, nurodytą [[#^s-220f2b5197b37827eb0ca0d7|šio straipsnio 1 dalyje]]. ^s-fd144da8257d49b8b4741123
+3. Kad būtų perregistruotas statybos leidimas, statinį įsigijęs fizinis ar juridinis asmuo turi pateikti statybos leidimą išdavusiam viešojo administravimo subjektui dokumentus, nurodytus šio Įstatymo [[#^s-1782f653753381a6a1f9c2cc|23 straipsnio 6 dalies]] [[#^s-1cf1bef6c14ff3963ea994ce|2]], [[#^s-52f254da4443f58331781d93|3]], [[#^s-41eb86921016bfadc26332ae|8]], [[#^s-fed6a18e4c64807635bff516|9]] punktuose (kitus šioje dalyje nurodytus dokumentus privaloma pateikti tik tuo atveju, kai keičiamas statinio projektas), statinio perleidimo sutartį, nurodytą [[#^s-220f2b5197b37827eb0ca0d7|šio straipsnio 1 dalyje]]. ^s-fd144da8257d49b8b4741123
 
 
 4. Kai perleidžiama nebaigto statyti, rekonstruoti ar kapitališkai remontuojamo statinio dalis, statybos leidimas neperregistruojamas. Perleistos dalies savininkas įgyja statytojo (užsakovo) teises ir pareigas tęsti statinio projekte numatytus darbus jam perleistoje statinio dalyje. ^s-4bdd3c43772a415f5ee17aed

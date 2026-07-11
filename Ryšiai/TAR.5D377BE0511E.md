@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos jūros aplinkos apsaugos įstatymo 53, 54, 56
 
 ## Šis įstatymas cituoja
 
+- [[latest/TAR.4F95269B43A0|Lietuvos Respublikos pajūrio juostos įstatymas]] - Pajūrio juostos įstatymas
 - [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Teritorijų planavimo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.56935A08DD06#^s-88e455f0b8b9e85b1519cf79|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - 3 citatos - 1021010ISTA0IX-1017
-- [[latest/TAR.56935A08DD06#^s-933c324fcf9345ed594084f9|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - 3 citatos - 1021010ISTA0IX-1017
+- [[latest/TAR.56935A08DD06#^s-88e455f0b8b9e85b1519cf79|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - 2 citatos - 1021010ISTA0IX-1017

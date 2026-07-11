@@ -114,7 +114,7 @@ Pakeisti 7 straipsnio 5 dalį ir ją dalį išdėstyti taip:
 1. Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip: ^s-b4874f14bc0345e0362cabe7
 
 
-„3. Lietuvos bankas, gavęs šio straipsnio 1 ar [[#^s-61b00df8fda8924a49974b03|2 dalyje]] nurodytą pranešimą arba pranešimą iš valstybės narės atsakingos institucijos apie dalyvio, dalyvaujančio sistemoje, kurios dalyviai teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, pasirinko Lietuvos Respublikos teisę, operacijų sustabdymą arba pradėtą jo bankroto procesą, nedelsdamas privalo pranešti tos sistemos operatoriui.“
+„3. Lietuvos bankas, gavęs šio straipsnio 1 ar [[#^s-61b00df8fda8924a49974b03|2]] dalyje nurodytą pranešimą arba pranešimą iš valstybės narės atsakingos institucijos apie dalyvio, dalyvaujančio sistemoje, kurios dalyviai teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, pasirinko Lietuvos Respublikos teisę, operacijų sustabdymą arba pradėtą jo bankroto procesą, nedelsdamas privalo pranešti tos sistemos operatoriui.“
 
 
 2. 8 straipsnio 5 dalyje po žodžių „taikoma valstybės narės teisė“ įrašyti žodžius „sustabdytos operacijos ir (ar)“ ir šią dalį išdėstyti taip: ^s-61b00df8fda8924a49974b03

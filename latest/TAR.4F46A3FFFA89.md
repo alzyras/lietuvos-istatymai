@@ -86,7 +86,7 @@ BENDROSIOS NUOSTATOS
 4. Darbuotojų dalyvavimas priimant sprendimus – bet koks būdas, įskaitant informavimą, konsultavimą ir dalyvavimą, kuriuo darbuotojų atstovai gali paveikti bendrovėje priimamus sprendimus. ^s-2dc59c115a781dc49c8ee1f1
 
 
-5. Europos bendrovė – pagal 2001 m. spalio 8 d. Tarybos Reglamentą (EB)  Nr. 2157/2001 dėl Europos bendrovės statuto įsteigtas juridinis asmuo. ^s-1f1e976dfe4affbf4c5b0d08
+5. Europos bendrovė – pagal 2001 m. spalio 8 d. Tarybos [Reglamentą (EB)  Nr. 2157/2001](https://eur-lex.europa.eu/eli/reg/2157/2001/oj) dėl Europos bendrovės statuto įsteigtas juridinis asmuo. ^s-1f1e976dfe4affbf4c5b0d08
 
 
 6. Europos bendrovės darbo taryba – šio įstatymo nustatyta tvarka sudarytas darbuotojams atstovaujantis organas, per kurį įgyvendinama Europos bendrovės, jos kontroliuojamųjų bendrovių ar padalinių darbuotojų teisė į informavimą, konsultavimą ir į dalyvavimą. Pagal šį įstatymą Europos bendrovės darbo taryba laikomas kitos valstybės narės teisės aktais remiantis įsteigtas atstovaujamasis organas, per kurį įgyvendinama kitoje valstybėje narėje įsteigtos Europos bendrovės, jos kontroliuojamųjų bendrovių ar padalinių darbuotojų teisė į informavimą, konsultavimą ir dalyvavimą. ^s-5393c7966b91b69f5cc8366f
@@ -138,7 +138,7 @@ DARBUOTOJŲ DALYVAVIMO PRIIMANT SPRENDIMUS EUROPOS BENDROVĖJE PAGRINDAI
 ### 5 straipsnis.         Darbuotojų dalyvavimo priimant sprendimus Europos bendrovėje įgyvendinimas ^s-12ccb4a39986ee21fc6e9fc1
 
 
-1. Darbuotojų dalyvavimui priimant sprendimus Europos bendrovėje įgyvendinti šio įstatymo nustatyta tvarka sudaroma Europos bendrovės darbo taryba arba nustatoma šio įstatymo [[#^s-894ca6dd887171c3f4327da4|19 straipsnio 2 dalies]] 6 ir 7 punktuose nurodyta kita informavimo, konsultavimo ir dalyvavimo tvarka. ^s-0d5dea2e47a3f9142b0ff5f2
+1. Darbuotojų dalyvavimui priimant sprendimus Europos bendrovėje įgyvendinti šio įstatymo nustatyta tvarka sudaroma Europos bendrovės darbo taryba arba nustatoma šio įstatymo [[#^s-894ca6dd887171c3f4327da4|19 straipsnio 2 dalies]] [[#^s-b24f1859772d7f4633455977|6]] ir [[#^s-d7b9d3eadae4bf4fe9364695|7]] punktuose nurodyta kita informavimo, konsultavimo ir dalyvavimo tvarka. ^s-0d5dea2e47a3f9142b0ff5f2
 
 
 2. Centrinė vadovybė privalo sudaryti sąlygas ir užtikrinti priemones, būtinas Europos bendrovės darbo tarybai sudaryti ir veikti. ^s-de928cbb425e583c091e9bdd
@@ -536,7 +536,7 @@ STANDARTINĖS TAISYKLĖS
 9. Kitose valstybėse narėse buveinę turinčių kontroliuojamųjų bendrovių ar jose veikiančių Europos bendrovės padalinių arba jos kontroliuojamųjų bendrovių padalinių darbuotojams atstovaujantys Europos bendrovės darbo tarybos nariai yra skiriami (renkami) pagal tų valstybių narių teisės aktus ir (ar) nusistovėjusią tvarką. ^s-b72d8c94ce297a0f79fbeb75
 
 
-10. Kai Europos bendrovės buveinė yra kitoje valstybėje narėje, skiriant (renkant) darbuotojų atstovus į Europos bendrovės darbo tarybą mutatis mutandis taikomos šio straipsnio 3–[[#^s-10987ec97cd3cb0270cdb84e|10 dalių]] nuostatos. ^s-10987ec97cd3cb0270cdb84e
+10. Kai Europos bendrovės buveinė yra kitoje valstybėje narėje, skiriant (renkant) darbuotojų atstovus į Europos bendrovės darbo tarybą mutatis mutandis taikomos šio straipsnio [[#^s-2c11447b8c3f8a01662cc5c7|3]]–10 dalių nuostatos. ^s-10987ec97cd3cb0270cdb84e
 
 
 11. Jei dėl Europos bendrovės struktūros ir darbuotojų skaičiaus valstybėse narėse ar kontroliuojamosiose bendrovėse, padaliniuose ar kontroliuojamųjų bendrovių padaliniuose pasikeitimų būtina padidinti Europos bendrovės darbo tarybos narių skaičių, Europos bendrovės darbo taryba, atsižvelgdama į centrinės vadovybės nuomonę, sprendžia dėl papildomo Europos bendrovės darbo tarybos nario skyrimo (rinkimo). Priėmusi tokį sprendimą, Europos bendrovės darbo taryba kreipiasi į centrinę vadovybę su prašymu inicijuoti naujo Europos bendrovės darbo tarybos nario (narių) skyrimo (rinkimo) procedūrą pagal šio įstatymo nuostatas. ^s-14a4ec5fc214821f0d9c9aa3
@@ -756,7 +756,7 @@ Europos bendrovės darbo taryba arba Europos bendrovės darbo tarybos komitetas 
 3. Sprendimą dėl vietų skaičiaus Europos bendrovės administravimo ar priežiūros organe paskirstymo atitinkamoms valstybėms narėms arba sprendimą dėl to, kokiu būdu Europos bendrovės darbuotojai gali siūlyti skirti narius į šiuos organus arba prieštarauti narių paskyrimui, priima Europos bendrovės darbo taryba. Jei Europos bendrovės darbo tarybos pasirinktas vietų skaičiaus paskirstymas netaikomas bent vienoje valstybėje narėje, Europos bendrovės darbo taryba, siekdama subalansuoto vietų paskirstymo, turi suteikti pirmenybę tos valstybės narės, kurioje yra įregistruota Europos bendrovės buveinė, darbuotojams. ^s-94e2714f106c326d90470205
 
 
-4. Šio įstatymo [[#^s-63352ff4c5f1616ee6c72ae8|21 straipsnio]] 3–[[#^s-ef25533eabb7dca344717f42|10 dalių]] nuostatos mutatis mutandis taikomos, kai į Europos bendrovės administravimo ar priežiūros organus skiriami ar renkami Lietuvos Respublikoje dirbančių Europos bendrovės, buveinę turinčių jos kontroliuojamųjų bendrovių ar Lietuvos Respublikoje veikiančių Europos bendrovės padalinių ar jos kontroliuojamosios bendrovės padalinių darbuotojų atstovai. Kitose valstybėse narėse buveinę turinčių Europos bendrovės kontroliuojamųjų bendrovių ir jų padalinių, taip pat veikiančių Europos bendrovės padalinių darbuotojai arba jų atstovai į Europos bendrovės administravimo ar priežiūros organus renkami, skiriami, siūlomi ar pritariama jų skyrimui pagal tų valstybių narių teisės aktus ir (ar) nusistovėjusią tvarką. ^s-81ff3da640dbfbae99b9b6f1
+4. Šio įstatymo [[#^s-63352ff4c5f1616ee6c72ae8|21 straipsnio]] [[#^s-2c11447b8c3f8a01662cc5c7|3]]–[[#^s-10987ec97cd3cb0270cdb84e|10]] dalių nuostatos mutatis mutandis taikomos, kai į Europos bendrovės administravimo ar priežiūros organus skiriami ar renkami Lietuvos Respublikoje dirbančių Europos bendrovės, buveinę turinčių jos kontroliuojamųjų bendrovių ar Lietuvos Respublikoje veikiančių Europos bendrovės padalinių ar jos kontroliuojamosios bendrovės padalinių darbuotojų atstovai. Kitose valstybėse narėse buveinę turinčių Europos bendrovės kontroliuojamųjų bendrovių ir jų padalinių, taip pat veikiančių Europos bendrovės padalinių darbuotojai arba jų atstovai į Europos bendrovės administravimo ar priežiūros organus renkami, skiriami, siūlomi ar pritariama jų skyrimui pagal tų valstybių narių teisės aktus ir (ar) nusistovėjusią tvarką. ^s-81ff3da640dbfbae99b9b6f1
 
 
 5. Kiekvienas Europos bendrovės administravimo ar priežiūros organo narys, išrinktas, paskirtas ar pasiūlytas šio straipsnio nustatyta tvarka, turi tokias pačias teises, įskaitant ir teisę balsuoti, bei įsipareigojimus, kaip ir visuotinio akcininkų susirinkimo išrinkti nariai. ^s-2528828e738e898765dc9a8d
@@ -786,7 +786,7 @@ Europos bendrovės darbo taryba arba Europos bendrovės darbo tarybos komitetas 
 9. Specialusis derybų komitetas priima sprendimą, kokia darbuotojų dalyvavimo forma bus taikoma Europos bendrovėje, kai steigime dalyvaujančioje bendrovėje iki Europos bendrovės įsteigimo momento buvo taikomos kelios darbuotojų dalyvavimo formos. ^s-2784a20707ba978f5d22575f
 
 
-10. Apie šio straipsnio 6, 7 ir [[#^s-2784a20707ba978f5d22575f|9 dalyse]] nurodytus sprendimus specialusis derybų komitetas turi nedelsdamas pranešti kompetentingiems steigime dalyvaujančių bendrovių organams. ^s-ef25533eabb7dca344717f42
+10. Apie šio straipsnio [[#^s-462fb441c08d306d9a755dac|6]], [[#^s-a3481f7e8f680117c9f49759|7]] ir [[#^s-2784a20707ba978f5d22575f|9]] dalyse nurodytus sprendimus specialusis derybų komitetas turi nedelsdamas pranešti kompetentingiems steigime dalyvaujančių bendrovių organams. ^s-ef25533eabb7dca344717f42
 
 
 

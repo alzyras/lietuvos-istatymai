@@ -44,7 +44,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas ^s-11666c70d07c6e501c9719d2
 
 
-Pakeisti [[#^s-1a594e7d9d65ab48b95d04a1|1 straipsnio 2 dalį]], straipsnį papildyti naujomis 3, 4 ir [[#^s-4a6d4b0a339124dcb9459db6|5 dalimis]], buvusią [[#^s-482115d82b2302c48ab2b633|3 dalį]] laikyti [[#^s-cf724e43d4edd9a257d29761|6 dalimi]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-1a594e7d9d65ab48b95d04a1|1 straipsnio 2 dalį]], straipsnį papildyti naujomis [[#^s-482115d82b2302c48ab2b633|3]], [[#^s-1c2ddd7f47a29c4a861d5a8a|4]] ir [[#^s-4a6d4b0a339124dcb9459db6|5]] dalimis, buvusią [[#^s-482115d82b2302c48ab2b633|3 dalį]] laikyti [[#^s-cf724e43d4edd9a257d29761|6 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 „1 straipsnis. Įstatymo paskirtis
@@ -93,7 +93,7 @@ Pakeisti [[#^s-1a594e7d9d65ab48b95d04a1|1 straipsnio 2 dalį]], straipsnį papil
 2. Papildyti 2 straipsnį 7 dalimi: ^s-ade6b4eb281322dc08f2ef78
 
 
-„7. Taikant šio įstatymo 7 ir [[#^s-519659dce0714b242b07eb59|8 straipsnių]] nuostatas, tarptautiniu civiliniu ginču taip pat laikomas ginčas, kuriam išspręsti po tarp ginčo šalių įvykusio taikinamojo tarpininkavimo inicijuojamas teismo ar arbitražo procesas kitoje valstybėje negu ta, kurioje yra ginčo šalių nuolatinė gyvenamoji vieta arba įprastinė gyvenamoji vieta ar buveinė šio straipsnio 6 dalies 1, 2 ar 3 punktuose nurodytą dieną.“
+„7. Taikant šio įstatymo [[#^s-81e27065b5ca47837bc1b11d|7]] ir [[#^s-519659dce0714b242b07eb59|8]] straipsnių nuostatas, tarptautiniu civiliniu ginču taip pat laikomas ginčas, kuriam išspręsti po tarp ginčo šalių įvykusio taikinamojo tarpininkavimo inicijuojamas teismo ar arbitražo procesas kitoje valstybėje negu ta, kurioje yra ginčo šalių nuolatinė gyvenamoji vieta arba įprastinė gyvenamoji vieta ar buveinė šio straipsnio 6 dalies 1, 2 ar 3 punktuose nurodytą dieną.“
 
 
 
@@ -123,7 +123,7 @@ Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 [[#^s-8e76edd345c173bcbb40eca3|6 straipsnio 3 dalyje]] po žodžių „bendru prašymu“ įrašyti žodžius „arba vienos iš ginčo šalių prašymu, kai yra gautas kitos ginčo šalies rašytinis sutikimas“ ir šią dalį išdėstyti taip:
 
 
-„3. Kai ginčas, kuris sprendžiamas taikinamojo tarpininkavimo būdu, nėra tuo pačiu metu nagrinėjamas teisme, ginčo šalių bendru prašymu arba vienos iš ginčo šalių prašymu, kai yra gautas kitos ginčo šalies rašytinis sutikimas, taikos sutartis gali būti pateikta teismui tvirtinti Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta supaprastinto proceso tvarka. Prašymas dėl taikos sutarties patvirtinimo paduodamas ginčo šalių pasirinkimu vienos iš ginčo šalies gyvenamosios vietos arba buveinės apylinkės teismui. Įsiteisėjusia teismo nutartimi patvirtinta taikos sutartis ginčo šalims įgyja galutinio teismo sprendimo (res judicata) galią ir gali būti vykdoma priverstinai.“
+„3. Kai ginčas, kuris sprendžiamas taikinamojo tarpininkavimo būdu, nėra tuo pačiu metu nagrinėjamas teisme, ginčo šalių bendru prašymu arba vienos iš ginčo šalių prašymu, kai yra gautas kitos ginčo šalies rašytinis sutikimas, taikos sutartis gali būti pateikta teismui tvirtinti [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) XXXIX skyriuje nustatyta supaprastinto proceso tvarka. Prašymas dėl taikos sutarties patvirtinimo paduodamas ginčo šalių pasirinkimu vienos iš ginčo šalies gyvenamosios vietos arba buveinės apylinkės teismui. Įsiteisėjusia teismo nutartimi patvirtinta taikos sutartis ginčo šalims įgyja galutinio teismo sprendimo (res judicata) galią ir gali būti vykdoma priverstinai.“
 
 
 
@@ -205,7 +205,7 @@ priedas
 1. Teisėjų taryba iki šio įstatymo įsigaliojimo parengia ir patvirtina teisės aktus, reikalingus teisminiam civilinių ginčų taikinamajam tarpininkavimui vykdyti. ^s-545fe9f4820e759eb965b664
 
 
-2. Teisingumo ministerija iki šio įstatymo įsigaliojimo parengia ir patvirtina šio įstatymo [[#^s-81e27065b5ca47837bc1b11d|7 straipsnyje]] išdėstyto Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymo 10 straipsnio 3 dalyje nurodytą priemonių planą. ^s-99a2baa30ce305b715d7c6d3
+2. Teisingumo ministerija iki šio įstatymo įsigaliojimo parengia ir patvirtina šio įstatymo [[#^s-81e27065b5ca47837bc1b11d|7 straipsnyje]] išdėstyto [[latest/TAR.27B041C4CCDE|Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymo 10 straipsnio 3 dalyje]] nurodytą priemonių planą. ^s-99a2baa30ce305b715d7c6d3
 
 
 

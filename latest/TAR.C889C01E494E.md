@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-28454d4eb8833c18e85c7687
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. sausio 13 d. dekretą Nr. 494, ratifikuoja 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos protokolą dėl azoto oksidų išmetamų kiekių ar jų tarpvalstybinių pernašų ribojimo, priimtą 1988 m. spalio 31 d. Sofijoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. sausio 13 d. dekretą Nr. 494](https://e-tar.lt/portal/lt/legalAct/TAR.47080CBF6235), ratifikuoja 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos protokolą dėl azoto oksidų išmetamų kiekių ar jų tarpvalstybinių pernašų ribojimo, priimtą 1988 m. spalio 31 d. Sofijoje.
 
 
 

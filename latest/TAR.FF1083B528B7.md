@@ -523,7 +523,7 @@ Nr. XV-427, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16538
 3) apsaugoti ar atkurti saugomas gyvūnų, augalų ir grybų rūšis, įrašytas į Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių sąrašą, tvirtinamą aplinkos ministro, ir jų buveines, atkurti pažeistas ekosistemas; ^s-6da5008018ab32e04096b104
 
 
-4) išsaugoti ar atkurti kitas 1–[[#^s-6da5008018ab32e04096b104|3 punktuose]] nenurodytas gamtos vertybes, kraštovaizdį, gamtos ir kultūros paveldo objektus, vietos bendruomenėms svarbias vietoves. ^s-ddfbf80c98d49e6b0f99d5cf
+4) išsaugoti ar atkurti kitas [[#^s-78d9a42033442b2c9780588d|1]]–[[#^s-6da5008018ab32e04096b104|3]] punktuose nenurodytas gamtos vertybes, kraštovaizdį, gamtos ir kultūros paveldo objektus, vietos bendruomenėms svarbias vietoves. ^s-ddfbf80c98d49e6b0f99d5cf
 
 
 3. Apsaugos sutartis dėl privačios saugomos vietovės sudaroma ne trumpesniam kaip 30 metų laikotarpiui. ^s-8390a36be03a27fc467f70d2
@@ -699,7 +699,7 @@ KOMPLEKSINĖS saugomos TERITORIJOS. veiklos jose reglamentavimas
 1. Valstybinių parkų apsaugos ir tvarkymo ypatumus nustato šis įstatymas, Vyriausybės patvirtinti nacionalinių ir regioninių parkų nuostatai, kiti šio įstatymo [[#^s-1933d8b4bea7876d4695f4b1|5 straipsnyje]] nurodyti veiklos saugomose teritorijose reglamentavimo dokumentai. ^s-27c41eb45566ff14fb842792
 
 
-2. Valstybiniuose parkuose draudžiama arba ribojama veikla, galinti pakenkti jų kraštovaizdžiui, gamtos ir nekilnojamosioms kultūros vertybėms, taip pat gamtiniams rekreaciniams ištekliams, juose negali būti statomi vizualinę taršą sukeliantys statiniai, sodinami želdiniai, užstojantys istorinę, kultūrinę ir estetinę vertę turinčias panoramas. Veikla valstybinių parkų rezervatuose, draustiniuose, paveldo objektų teritorijose reglamentuojama šio įstatymo 7, 9 ir [[#^s-f879cc54de2fd08e09337668|12 straipsniuose]] nustatyta tvarka. ^s-85f77b152de1e526f25007ca
+2. Valstybiniuose parkuose draudžiama arba ribojama veikla, galinti pakenkti jų kraštovaizdžiui, gamtos ir nekilnojamosioms kultūros vertybėms, taip pat gamtiniams rekreaciniams ištekliams, juose negali būti statomi vizualinę taršą sukeliantys statiniai, sodinami želdiniai, užstojantys istorinę, kultūrinę ir estetinę vertę turinčias panoramas. Veikla valstybinių parkų rezervatuose, draustiniuose, paveldo objektų teritorijose reglamentuojama šio įstatymo [[#^s-13a01458f978069ac925d3b4|7]], [[#^s-4db4b49f7bf92a4b0a742aca|9]] ir [[#^s-f879cc54de2fd08e09337668|12]] straipsniuose nustatyta tvarka. ^s-85f77b152de1e526f25007ca
 
 
 3. Statybos valstybiniuose parkuose reglamentavimas: ^s-6642a4ec57a6c00325edd77e
@@ -911,7 +911,7 @@ Nr. XV-427, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16538
 4. Asmenų teisė naudoti pakrantę be užtvėrimų apsistoti yra neatskiriama nuo pareigos užtikrinti, kad apsistojimo vietoje aplinka nebūtų teršiama atliekomis ir kad čia esančios atliekos būtų surinktos ir išvežtos (išneštos). Apsistojimu pakrantėje be užtvėrimų laikomas asmenų buvimas vienoje vietoje ilgesnį laiką, negu reikia pereiti pakrantę be užtvėrimų. Jeigu pasirinktoje apsistoti pakrantės be užtvėrimų dalyje nurodyta informacija (pastatytas aplinkos ministro patvirtintos rekomenduojamos formos informacinis ženklas), kad žemės sklypas yra privati nuosavybė, savarankiškai pakrantėje be užtvėrimų asmenys be žemės savininko sutikimo gali apsistoti tik šviesiu paros metu (ne anksčiau kaip pusantros valandos iki saulės patekėjimo ir ne vėliau kaip pusantros valandos saulei nusileidus). ^s-2a87825c4ff197ec116b9881
 
 
-5. Šio straipsnio nuostatos draustiniuose, paveldo objektų teritorijose ir valstybiniuose parkuose taikomos tiek, kiek jos neprieštarauja šio įstatymo 9, 12 ir [[#^s-de80dc9fba6e25c9ed5872a2|14 straipsnių]] nuostatoms. ^s-ae541178781e18aca65f11eb
+5. Šio straipsnio nuostatos draustiniuose, paveldo objektų teritorijose ir valstybiniuose parkuose taikomos tiek, kiek jos neprieštarauja šio įstatymo [[#^s-4db4b49f7bf92a4b0a742aca|9]], [[#^s-f879cc54de2fd08e09337668|12]] ir [[#^s-de80dc9fba6e25c9ed5872a2|14]] straipsnių nuostatoms. ^s-ae541178781e18aca65f11eb
 
 
 
@@ -956,7 +956,7 @@ SAUGOMŲ TERITORIJŲ STEIGIMAS, NUSTATYMAS, APSkaita, apsauga IR TVARKYMAS
 7. Privati saugoma vietovė nustatoma šio įstatymo [[#^s-c1d1a1933fca1d84296a1496|10 straipsnyje]] nustatyta tvarka. ^s-89e69f1c1d4a322edd81254a
 
 
-8. Šio straipsnio 2, 3, 4, 5 ir [[#^s-2054c5fab6f07e1b2451675e|6 dalyse]] nurodytų saugomų teritorijų steigimo kriterijus nustato aplinkos ministras, išskyrus kultūrinių rezervatų (rezervatų-muziejų), istorinių nacionalinių parkų, kultūrinių draustinių steigimo kriterijus, kuriuos nustato kultūros ministras. ^s-7827c8f724ff1e5163885cdb
+8. Šio straipsnio [[#^s-2fe6c73b04dadd6805a8f19e|2]], [[#^s-eea0f095973800f3aacc32c9|3]], [[#^s-7e4c0c9daa0cab639ef9532c|4]], [[#^s-5f4c0f1cdf6a7d1ba8cf9ede|5]] ir [[#^s-2054c5fab6f07e1b2451675e|6]] dalyse nurodytų saugomų teritorijų steigimo kriterijus nustato aplinkos ministras, išskyrus kultūrinių rezervatų (rezervatų-muziejų), istorinių nacionalinių parkų, kultūrinių draustinių steigimo kriterijus, kuriuos nustato kultūros ministras. ^s-7827c8f724ff1e5163885cdb
 
 
 9. Nekilnojamosios kultūros vertybės skelbiamos saugomomis, jų teritorijos ir buferinės apsaugos zonos nustatomos [[latest/TAR.9BC8AEE9D9F8|Nekilnojamojo kultūros paveldo apsaugos įstatymo]] nustatyta tvarka. ^s-4e296e4bc843b82a2151fe6a
@@ -1048,13 +1048,13 @@ SAUGOMŲ TERITORIJŲ STEIGIMAS, NUSTATYMAS, APSkaita, apsauga IR TVARKYMAS
 12. Buveinių apsaugai svarbiose teritorijose, kuriose atidėtas nuo Europos Sąjungos bendrojo finansavimo priklausomų apsaugos priemonių, nurodytų [[#^s-e06c7758c41ea34e166f8f91|šio straipsnio 8 dalyje]], vykdymas, draudžiama imtis priemonių, galinčių pabloginti šių teritorijų būklę. ^s-19f4ba4ee6ec37c6eb8ff459
 
 
-13. Šio straipsnio 9, 10 ir [[#^s-82d5e417baba0ee73ed5212f|11 dalyse]] nustatyti apsaugos reikalavimai vietovėms pradedami taikyti, kai jas aplinkos ministras įrašo į Vietovių, atitinkančių buveinių apsaugai svarbių teritorijų atrankos kriterijus, sąrašą. [[#^s-256b4804c5b05055874eab93|Šio straipsnio 4 dalies 4 punkte]] nurodytu atveju, kai Valstybinė saugomų teritorijų tarnyba konsultuojasi su Europos Komisija, kol bus priimtas administracinis sprendimas dėl vietovės priskyrimo Europos Bendrijos svarbos teritorijoms, teritorijai taikomi [[#^s-2b22219aae148df9cfdeac47|šio straipsnio 9 dalyje]] numatyti apsaugos reikalavimai. ^s-1fbd4914c0e9aa085d94b740
+13. Šio straipsnio [[#^s-2b22219aae148df9cfdeac47|9]], [[#^s-6c89324f2c17022bda06bc87|10]] ir [[#^s-82d5e417baba0ee73ed5212f|11]] dalyse nustatyti apsaugos reikalavimai vietovėms pradedami taikyti, kai jas aplinkos ministras įrašo į Vietovių, atitinkančių buveinių apsaugai svarbių teritorijų atrankos kriterijus, sąrašą. [[#^s-256b4804c5b05055874eab93|Šio straipsnio 4 dalies 4 punkte]] nurodytu atveju, kai Valstybinė saugomų teritorijų tarnyba konsultuojasi su Europos Komisija, kol bus priimtas administracinis sprendimas dėl vietovės priskyrimo Europos Bendrijos svarbos teritorijoms, teritorijai taikomi [[#^s-2b22219aae148df9cfdeac47|šio straipsnio 9 dalyje]] numatyti apsaugos reikalavimai. ^s-1fbd4914c0e9aa085d94b740
 
 
-14. Šio straipsnio 9, 10 ir [[#^s-82d5e417baba0ee73ed5212f|11 dalyse]] nustatyti apsaugos reikalavimai taikomi ir paukščių apsaugai svarbioms teritorijoms. Laukinių paukščių rūšių buveines teršti ar pažeisti draudžiama ir už paukščių apsaugai svarbių teritorijų ribų. ^s-55ae6d57309fc52aab2ff61b
+14. Šio straipsnio [[#^s-2b22219aae148df9cfdeac47|9]], [[#^s-6c89324f2c17022bda06bc87|10]] ir [[#^s-82d5e417baba0ee73ed5212f|11]] dalyse nustatyti apsaugos reikalavimai taikomi ir paukščių apsaugai svarbioms teritorijoms. Laukinių paukščių rūšių buveines teršti ar pažeisti draudžiama ir už paukščių apsaugai svarbių teritorijų ribų. ^s-55ae6d57309fc52aab2ff61b
 
 
-15. [[#^s-8bf2d2080ef085ebf01acf28|Šio straipsnio 5 dalyje]] nurodytų administracinių sprendimų priėmimo, 8 ir [[#^s-2b22219aae148df9cfdeac47|9 dalyse]] nustatytų apsaugos reikalavimų įgyvendinimo tvarka, jų turinys ir įgyvendinančios institucijos nustatytos Vyriausybės tvirtinamuose Bendruosiuose buveinių ar paukščių apsaugai svarbių teritorijų nuostatuose. ^s-e402d8edac3385b1d75c4250
+15. [[#^s-8bf2d2080ef085ebf01acf28|Šio straipsnio 5 dalyje]] nurodytų administracinių sprendimų priėmimo, [[#^s-e06c7758c41ea34e166f8f91|8]] ir [[#^s-2b22219aae148df9cfdeac47|9]] dalyse nustatytų apsaugos reikalavimų įgyvendinimo tvarka, jų turinys ir įgyvendinančios institucijos nustatytos Vyriausybės tvirtinamuose Bendruosiuose buveinių ar paukščių apsaugai svarbių teritorijų nuostatuose. ^s-e402d8edac3385b1d75c4250
 
 
 16. „Natura 2000“ tinklo teritorijose ir už jų ribų stebima laukinių paukščių, Europos Bendrijos svarbos natūralių buveinių, augalų ir gyvūnų rūšių apsaugos būklė, intensyviau stebint prioritetinius natūralių buveinių tipus, prioritetines augalų ir gyvūnų rūšis. Stebėjimai organizuojami [[latest/TAR.1A98CE535B1C|Lietuvos Respublikos aplinkos monitoringo įstatymo]] nustatyta tvarka. ^s-7a69c5eeef3703c5c27bc20b
@@ -1093,7 +1093,7 @@ Nr. XV-427, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16538
 5. [[#^s-5437b68d45bedf3b40d58379|Šio straipsnio 2 dalyje]] nurodyti objektai Saugomų teritorijų registro informacinėje sistemoje registruojami pagal registravimo sąlygas, nustatytas Saugomų teritorijų registro informacinės sistemos nuostatuose. ^s-7495f5ad443193f3708c99f0
 
 
-6. Saugomų teritorijų registro informacinės sistemos duomenys tvarkomi siekiant užtikrinti saugomų teritorijų apsaugą ir tvarkymą. Saugomų teritorijų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra vieši. Šios informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) [[#^s-1933d8b4bea7876d4695f4b1|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-b23112e563348dea391fe986|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-0a4fb52d9ebcfcdadbe8d721
+6. Saugomų teritorijų registro informacinės sistemos duomenys tvarkomi siekiant užtikrinti saugomų teritorijų apsaugą ir tvarkymą. Saugomų teritorijų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra vieši. Šios informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) [[#^s-1933d8b4bea7876d4695f4b1|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-b23112e563348dea391fe986|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-0a4fb52d9ebcfcdadbe8d721
 
 
 7. Saugomų teritorijų registro informacinėje sistemoje tvarkomi duomenys atveriami pakartotinai naudoti, išskyrus asmens duomenis ir duomenis, susijusius su visuomenės ir viešuoju saugumu. ^s-7999272d7adf6b1ec675ad9d
@@ -1375,7 +1375,7 @@ VALSTYBINĖ SAUGOMŲ TERITORIJŲ KONTROLĖ IR PREVENCINĖ VEIKLA SAUGOMOSE TERIT
 ### 31 straipsnis. Valstybinės saugomų teritorijų kontrolės ir prevencinės veiklos saugomose teritorijose organizavimas ^s-bab2ef290df2285759f7b799
 
 
-1. Žemės naudojimo ir žemės savininkų, valdytojų ir naudotojų, gamtos išteklių naudotojų ir lankytojų veiklos, reglamentuojamos pagal šio įstatymo [[#^s-1933d8b4bea7876d4695f4b1|5 straipsnyje]] nurodytus veiklos saugomose teritorijose reglamentavimo dokumentus (išskyrus apsaugos sutartis, nurodytas šio įstatymo [[#^s-98195179b92f8112d7298a9a|5 straipsnio 4 punkte]]), kontrolę saugomose teritorijose pagal kompetenciją vykdo aplinkos apsaugos valstybinės kontrolės pareigūnai, teritorijų planavimo valstybinės priežiūros pareigūnai, statybos valstybinės priežiūros pareigūnai, nekilnojamojo kultūros paveldo apsaugos pareigūnai. Apsaugos sutarčių, nurodytų šio įstatymo [[#^s-98195179b92f8112d7298a9a|5 straipsnio 4 punkte]], priežiūrą atlieka jas sudariusios saugomų teritorijų direkcijos arba Valstybinė saugomų teritorijų tarnyba. ^s-3a8fbf7917e2d2c95e2b0a64
+1. Žemės naudojimo ir žemės savininkų, valdytojų ir naudotojų, gamtos išteklių naudotojų ir lankytojų veiklos, reglamentuojamos pagal šio įstatymo [[#^s-1933d8b4bea7876d4695f4b1|5 straipsnyje]] nurodytus veiklos saugomose teritorijose reglamentavimo dokumentus (išskyrus apsaugos sutartis, nurodytas šio įstatymo 5 straipsnio 4 punkte), kontrolę saugomose teritorijose pagal kompetenciją vykdo aplinkos apsaugos valstybinės kontrolės pareigūnai, teritorijų planavimo valstybinės priežiūros pareigūnai, statybos valstybinės priežiūros pareigūnai, nekilnojamojo kultūros paveldo apsaugos pareigūnai. Apsaugos sutarčių, nurodytų šio įstatymo 5 straipsnio 4 punkte, priežiūrą atlieka jas sudariusios saugomų teritorijų direkcijos arba Valstybinė saugomų teritorijų tarnyba. ^s-3a8fbf7917e2d2c95e2b0a64
 
 
 2. Valstybinė saugomų teritorijų kontrolė aplinkos apsaugos ir gamtos išteklių naudojimo srityje organizuojama kaip sudedamoji aplinkos apsaugos valstybinės kontrolės dalis vadovaujantis [[latest/TAR.CB941ADCC055|Aplinkos apsaugos valstybinės kontrolės įstatymo]] nuostatomis. ^s-6d37d9cae23a693a917df263
@@ -1504,7 +1504,7 @@ Nr. XV-427, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16538
 8) atidalijama žemės ūkio paskirties žemės sklypo dalis buvusios sodybos sklypui suformuoti, keičiant pagrindinę žemės naudojimo paskirtį į kitą ir numatant namų valdą, ne didesnę kaip 2 hektarai. ^s-e22559e788d8e3e5aae4c8d8
 
 
-11. Šio straipsnio 9 ir [[#^s-a7a9457fe601d700079b5e59|10 dalyse]] nustatyti apribojimai dalyti dalimis privačios nuosavybės teise priklausančius žemės sklypus valstybiniuose draustiniuose ir valstybiniuose parkuose netaikomi, kai keičiamos gretimų žemės sklypų ribos. Šios ribos keičiamos neatsižvelgiant į žemės sklypų pagrindinę žemės naudojimo paskirtį, prie šių žemės sklypų prijungiant jų pagrindinę žemės naudojimo paskirtį atitinkančias žemės naudmenas. ^s-96a3a241c6c4469b186be4dc
+11. Šio straipsnio [[#^s-d53d962682baa96e9476a667|9]] ir [[#^s-a7a9457fe601d700079b5e59|10]] dalyse nustatyti apribojimai dalyti dalimis privačios nuosavybės teise priklausančius žemės sklypus valstybiniuose draustiniuose ir valstybiniuose parkuose netaikomi, kai keičiamos gretimų žemės sklypų ribos. Šios ribos keičiamos neatsižvelgiant į žemės sklypų pagrindinę žemės naudojimo paskirtį, prie šių žemės sklypų prijungiant jų pagrindinę žemės naudojimo paskirtį atitinkančias žemės naudmenas. ^s-96a3a241c6c4469b186be4dc
 
 
 12. Paveldo objektai ir jų teritorijų žemė yra valstybinė ir (ar) privati nuosavybė. Paveldo objektai gali būti perleidžiami privačion nuosavybėn tik nustačius apsaugos ir naudojimo režimą. ^s-4fe7825377a2d4d794a6f368
@@ -1566,7 +1566,7 @@ Nr. XV-220, 2025-05-22, paskelbta TAR 2025-05-28, i. k. 2025-09421
 1) privataus miško savininkams, kurie yra sudarę apsaugos sutartį ir kurių miško valdose draudžiama kirsti brandžius medynus arba reikalaujama dalį kirstinų medžių palikti ar atsiranda kitų ūkinės veiklos apribojimų. Kompensuojamos pajamos, kurios galėjo būti gautos pardavus medieną rinkoje, atimant iš jų vidutines medienos ruošos sąnaudas. Kompensacija apskaičiuojama taikant vidutines medienos rinkos kainas ir vidutines medienos ruošos sąnaudas tais metais, kai privataus miško savininkas pateikia prašymą apskaičiuoti ir išmokėti kompensaciją. Kartu kompensuojamos ir miškotvarkos projekto, reikalingo kompensacijai apskaičiuoti, parengimo išlaidos; ^s-989b4c1a2b5b48022f01c9cf
 
 
-2) privačios žemės savininkams ir valstybinės žemės nuomininkams, valdantiems žemės sklypus, kuriems iki saugomos teritorijos įsteigimo, esamos saugomos teritorijos ribų pakeitimo ar veiklos esamoje saugomoje teritorijoje reglamentavimo pakeitimo buvo pradėti rengti ar parengti teritorijų planavimo dokumentai ar ūkinės veiklos projektai, kurie nebegalės būti patvirtinti, arba anksčiau patvirtinti dokumentai ar ūkinės veiklos projektai negalės būti toliau įgyvendinami, arba turės būti keičiami dėl nustatytų naujų veiklos saugomoje teritorijoje apribojimų. Šiuo atveju kompensuojamos teritorijų planavimo dokumentų ir ūkinės veiklos projektų rengimo, jų keitimo išlaidos, taip pat likviduojamų objektų atkuriamoji turto vertė, atimant toliau naudoti tinkamo turto vertę (vertes apskaičiuojant Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka). ^s-d05722352826e8a56acba4d9
+2) privačios žemės savininkams ir valstybinės žemės nuomininkams, valdantiems žemės sklypus, kuriems iki saugomos teritorijos įsteigimo, esamos saugomos teritorijos ribų pakeitimo ar veiklos esamoje saugomoje teritorijoje reglamentavimo pakeitimo buvo pradėti rengti ar parengti teritorijų planavimo dokumentai ar ūkinės veiklos projektai, kurie nebegalės būti patvirtinti, arba anksčiau patvirtinti dokumentai ar ūkinės veiklos projektai negalės būti toliau įgyvendinami, arba turės būti keičiami dėl nustatytų naujų veiklos saugomoje teritorijoje apribojimų. Šiuo atveju kompensuojamos teritorijų planavimo dokumentų ir ūkinės veiklos projektų rengimo, jų keitimo išlaidos, taip pat likviduojamų objektų atkuriamoji turto vertė, atimant toliau naudoti tinkamo turto vertę (vertes apskaičiuojant [Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nustatyta tvarka). ^s-d05722352826e8a56acba4d9
 
 
 3. Kasmetinės kompensacijos mokamos: ^s-b3726d0ad8cdbf777a998730
@@ -1683,10 +1683,10 @@ priedas
 1. 1992 m. gegužės 21 d. Tarybos direktyva 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos direktyva 2013/17/ES. ^s-deb1f642c9afb658068f6d26
 
 
-2. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/35/EB dėl atsakomybės už aplinkos apsaugą siekiant išvengti žalos aplinkai ir ją ištaisyti (atlyginti) su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1010. ^s-fe078c9788aa063a018692dc
+2. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/35/EB dėl atsakomybės už aplinkos apsaugą siekiant išvengti žalos aplinkai ir ją ištaisyti (atlyginti) su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/1010](https://eur-lex.europa.eu/eli/reg/2019/1010/oj). ^s-fe078c9788aa063a018692dc
 
 
-3. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos direktyva 2009/147/EB dėl laukinių paukščių apsaugos su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1010. ^s-6ac9fe30ead8b245d11df8b8
+3. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos direktyva 2009/147/EB dėl laukinių paukščių apsaugos su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/1010](https://eur-lex.europa.eu/eli/reg/2019/1010/oj). ^s-6ac9fe30ead8b245d11df8b8
 ––––––––––––––––––––––“.
 
 
@@ -1720,7 +1720,7 @@ Nauja įstatymo redakcija
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-935, 2010-06-22, Žin., 2010, Nr. 81-4229 (2010-07-10)
-[[#^s-3755ce7b57b54b61c69bb205|SAUGOMŲ TERITORIJŲ ĮSTATYMO 1, 2, 4, 22, 24 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 24(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
+SAUGOMŲ TERITORIJŲ ĮSTATYMO [[#^s-9d77a6a89129509c726e34cc|1]], [[#^s-9acf754affaff246bafa60aa|2]], [[#^s-1c831b82a14ce82398d9ff7e|4]], [[#^s-f5ef941d3cfa433275dd260f|22]], [[#^s-3755ce7b57b54b61c69bb205|24]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 24(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-7b1e27c9b17b3323fef84eb2|8 straipsnį]], įsigalioja 2010 m. gruodžio 1 d.
 
 5.
@@ -1748,7 +1748,7 @@ SAUGOMŲ TERITORIJŲ ĮSTATYMO 31 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-413, 2013-06-27, Žin., 2013, Nr. 76-3830 (2013-07-16)
-[[#^s-bab2ef290df2285759f7b799|SAUGOMŲ TERITORIJŲ ĮSTATYMO 2, 9, 12, 13, 14, 18, 19, 20, 22, 23, 28, 31 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 28(1) STRAIPSNIU ĮSTATYMAS
+SAUGOMŲ TERITORIJŲ ĮSTATYMO [[#^s-9acf754affaff246bafa60aa|2]], [[#^s-4db4b49f7bf92a4b0a742aca|9]], [[#^s-f879cc54de2fd08e09337668|12]], [[#^s-738a8a6e9a140efddc5ac594|13]], [[#^s-de80dc9fba6e25c9ed5872a2|14]], [[#^s-a0638ef8c335c5fa9598cb23|18]], [[#^s-5685f85f4ed1efb5e5f5ef51|19]], [[#^s-89e6da036fb87b8e8897a16e|20]], [[#^s-f5ef941d3cfa433275dd260f|22]], [[#^s-5ac6172d142c78c1fce9f091|23]], [[#^s-c031747e5b89bb47620296de|28]], [[#^s-bab2ef290df2285759f7b799|31]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 28(1) STRAIPSNIU ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-f879cc54de2fd08e09337668|12 straipsnį]], įsigalioja 2014 m. sausio 1 d.
 Šio įstatymo [[#^s-f879cc54de2fd08e09337668|12 straipsnis]] įsigalioja 2015 m. sausio 1 d.
 
@@ -1774,17 +1774,17 @@ Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-bab2ef290df2
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1784, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09799
-Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, [[#^s-a0638ef8c335c5fa9598cb23|18 straipsnių]] pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-9acf754affaff246bafa60aa|2]], [[#^s-a0638ef8c335c5fa9598cb23|18]] straipsnių pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2307, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10415
-Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 27, 30, 32 ir [[#^s-b44d343e5335f5c8c93a2f4b|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-dd4fe573bab4c20ddcb907f0|27]], [[#^s-0a69d5ee11648a8b5fd180e4|30]], [[#^s-e436bbcf4c2dfb579308b2ca|32]] ir [[#^s-b44d343e5335f5c8c93a2f4b|33]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2683, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25850
-Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, [[#^s-e436bbcf4c2dfb579308b2ca|32 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-9d77a6a89129509c726e34cc|1]], [[#^s-9acf754affaff246bafa60aa|2]], [[#^s-1933d8b4bea7876d4695f4b1|5]], [[#^s-13a01458f978069ac925d3b4|7]], [[#^s-4db4b49f7bf92a4b0a742aca|9]], [[#^s-738a8a6e9a140efddc5ac594|13]], [[#^s-08341201f43e06b5ae157ee7|16]], [[#^s-a0638ef8c335c5fa9598cb23|18]], [[#^s-89e6da036fb87b8e8897a16e|20]], [[#^s-5ac6172d142c78c1fce9f091|23]], 24-1, [[#^s-84edebddc48dab872e120cf2|25]], [[#^s-dd4fe573bab4c20ddcb907f0|27]], [[#^s-76e47d4fece8d5903e7b22ad|29]], [[#^s-0a69d5ee11648a8b5fd180e4|30]], [[#^s-bab2ef290df2285759f7b799|31]], [[#^s-e436bbcf4c2dfb579308b2ca|32]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1794,7 +1794,7 @@ Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-0a69d5ee1164
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-292, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06970
-Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, [[#^s-e436bbcf4c2dfb579308b2ca|32 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu [[latest/787506209cf311e69ad4c8713b612d0f|įstatymo Nr. XII-2683]] [[#^s-9acf754affaff246bafa60aa|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-9d77a6a89129509c726e34cc|1]], [[#^s-9acf754affaff246bafa60aa|2]], [[#^s-1933d8b4bea7876d4695f4b1|5]], [[#^s-13a01458f978069ac925d3b4|7]], [[#^s-4db4b49f7bf92a4b0a742aca|9]], [[#^s-738a8a6e9a140efddc5ac594|13]], [[#^s-08341201f43e06b5ae157ee7|16]], [[#^s-a0638ef8c335c5fa9598cb23|18]], [[#^s-89e6da036fb87b8e8897a16e|20]], [[#^s-5ac6172d142c78c1fce9f091|23]], 24-1, [[#^s-84edebddc48dab872e120cf2|25]], [[#^s-dd4fe573bab4c20ddcb907f0|27]], [[#^s-76e47d4fece8d5903e7b22ad|29]], [[#^s-0a69d5ee11648a8b5fd180e4|30]], [[#^s-bab2ef290df2285759f7b799|31]], [[#^s-e436bbcf4c2dfb579308b2ca|32]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu [[latest/787506209cf311e69ad4c8713b612d0f|įstatymo Nr. XII-2683]] [[#^s-9acf754affaff246bafa60aa|2 straipsnio]] pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1814,12 +1814,12 @@ Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-bab2ef290df2
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1503, 2018-09-27, paskelbta TAR 2018-10-09, i. k. 2018-15982
-Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 9, 13 ir [[#^s-89e6da036fb87b8e8897a16e|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-9acf754affaff246bafa60aa|2]], [[#^s-4db4b49f7bf92a4b0a742aca|9]], [[#^s-738a8a6e9a140efddc5ac594|13]] ir [[#^s-89e6da036fb87b8e8897a16e|20]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2095, 2019-04-26, paskelbta TAR 2019-04-30, i. k. 2019-07052
-Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 23, 28 ir 28-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-5ac6172d142c78c1fce9f091|23]], [[#^s-c031747e5b89bb47620296de|28]] ir 28-1 straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1829,7 +1829,7 @@ Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-dd4fe573bab4
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2186, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09969
-Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 5, 7, 9, 11, 12, 13, 18, 19, 20, 20-1, 25, 27 ir [[#^s-c031747e5b89bb47620296de|28 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-9acf754affaff246bafa60aa|2]], [[#^s-1933d8b4bea7876d4695f4b1|5]], [[#^s-13a01458f978069ac925d3b4|7]], [[#^s-4db4b49f7bf92a4b0a742aca|9]], [[#^s-43c1efa8feea51074df33397|11]], [[#^s-f879cc54de2fd08e09337668|12]], [[#^s-738a8a6e9a140efddc5ac594|13]], [[#^s-a0638ef8c335c5fa9598cb23|18]], [[#^s-5685f85f4ed1efb5e5f5ef51|19]], [[#^s-89e6da036fb87b8e8897a16e|20]], 20-1, [[#^s-84edebddc48dab872e120cf2|25]], [[#^s-dd4fe573bab4c20ddcb907f0|27]] ir [[#^s-c031747e5b89bb47620296de|28]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1839,12 +1839,12 @@ Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-bab2ef290df2
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3300, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21150
-Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2 ir [[#^s-1933d8b4bea7876d4695f4b1|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-9acf754affaff246bafa60aa|2]] ir [[#^s-1933d8b4bea7876d4695f4b1|5]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3199, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15392
-Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 20, 27, 30, 33 ir [[#^s-d748fc3a9af7a02b5686cfa5|34 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-9acf754affaff246bafa60aa|2]], [[#^s-89e6da036fb87b8e8897a16e|20]], [[#^s-dd4fe573bab4c20ddcb907f0|27]], [[#^s-0a69d5ee11648a8b5fd180e4|30]], [[#^s-b44d343e5335f5c8c93a2f4b|33]] ir [[#^s-d748fc3a9af7a02b5686cfa5|34]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1874,7 +1874,7 @@ Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatym
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2842, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12153
-Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo [[latest/dc2b26b0a15d11eea5a28c81c82193a8|įstatymo Nr. XIV-2350]] 1 ir [[#^s-9acf754affaff246bafa60aa|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo [[latest/dc2b26b0a15d11eea5a28c81c82193a8|įstatymo Nr. XIV-2350]] [[#^s-9d77a6a89129509c726e34cc|1]] ir [[#^s-9acf754affaff246bafa60aa|2]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1884,4 +1884,4 @@ Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-d748fc3a9af7
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-427, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16538
-Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 5, 9, 10, 14, 17, 21, 24, 25, 27 ir [[#^s-e436bbcf4c2dfb579308b2ca|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 [[#^s-9acf754affaff246bafa60aa|2]], [[#^s-1933d8b4bea7876d4695f4b1|5]], [[#^s-4db4b49f7bf92a4b0a742aca|9]], [[#^s-c1d1a1933fca1d84296a1496|10]], [[#^s-de80dc9fba6e25c9ed5872a2|14]], [[#^s-c9ea0882ecefa49487534234|17]], [[#^s-fb31b07fa327954e917cff6a|21]], [[#^s-3755ce7b57b54b61c69bb205|24]], [[#^s-84edebddc48dab872e120cf2|25]], [[#^s-dd4fe573bab4c20ddcb907f0|27]] ir [[#^s-e436bbcf4c2dfb579308b2ca|32]] straipsnių pakeitimo įstatymas

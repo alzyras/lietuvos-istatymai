@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-3b44a8cd504e2f8db2a88fa5
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gruodžio 5 d. dekretą Nr. 1130, ratifikuoja Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės sutartį dėl bendradarbiavimo kultūros, švietimo, studijų, mokslo ir technologijų srityse, pasirašytą 1996 m. balandžio 4 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento [1996 m. gruodžio 5 d. dekretą Nr. 1130](https://e-tar.lt/portal/lt/legalAct/TAR.D5B71ACDB94F), ratifikuoja Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės sutartį dėl bendradarbiavimo kultūros, švietimo, studijų, mokslo ir technologijų srityse, pasirašytą 1996 m. balandžio 4 d. Vilniuje.
 
 
 

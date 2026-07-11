@@ -249,7 +249,7 @@ Nr. XIII-2797, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02848
 
 
 4) teisės aktų nustatyta tvarka teikti informaciją apie savivaldybės aplinkos monitoringo rezultatus visuomenei ir valstybės institucijoms. Savivaldybės vykdomoji institucija, kalendoriniams metams pasibaigus, parengia praėjusių kalendorinių metų savivaldybės aplinkos monitoringo ataskaitą ir ne vėliau kaip iki einamųjų metų liepos 1 d. paskelbia ją savivaldybės interneto svetainėje. Šioje svetainėje turi būti skelbiamos visos savivaldybės teritorijoje vykdyto savivaldybės aplinkos monitoringo ataskaitos. ^s-f7c295a107650975d5774b00
-TAR pastaba. [[#^s-f7c295a107650975d5774b00|8 straipsnio 4 dalies 4 punkto]] nuostatos taikomos savivaldybių aplinkos monitoringo ataskaitoms, parengtoms po [[latest/a79bce20fdfa11ec8fa7d02a65c371ad|įstatymo Nr. XIV-1266]] įsigaliojimo dienos (2023-01-01).
+TAR pastaba. 8 straipsnio 4 dalies 4 punkto nuostatos taikomos savivaldybių aplinkos monitoringo ataskaitoms, parengtoms po [[latest/a79bce20fdfa11ec8fa7d02a65c371ad|įstatymo Nr. XIV-1266]] įsigaliojimo dienos (2023-01-01).
 Straipsnio punkto pakeitimai:
 Nr. XIV-1266, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14922
 
@@ -317,7 +317,7 @@ Nr. XV-1030, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11106
 
 
 
-3. [[#^s-eac33bf1d4db10705880ddde|Šio straipsnio 2 dalyje]] nustatytas reikalavimas netaikomas laboratorijoms, atliekančioms radionuklidų, išmetamų į aplinką ir (ar) esančių aplinkos komponentuose (ore, vandenyje, dirvožemyje), tyrimus ir (ar) imančioms ėminius šiems tyrimams atlikti. Laboratorijos, atliekančios radionuklidų, išmetamų į aplinką ir (ar) esančių aplinkos komponentuose (ore, vandenyje, dirvožemyje), tyrimus ir (ar) imančios ėminius šiems tyrimams atlikti, turi būti akredituotos įstaigos, priklausančios Europos akreditacijos organizacijai, arba pripažintos Lietuvos Respublikos radiacinės saugos įstatymo 28 straipsnyje nustatyta tvarka. ^s-86cb9ae6cfc47451b74d7110
+3. [[#^s-eac33bf1d4db10705880ddde|Šio straipsnio 2 dalyje]] nustatytas reikalavimas netaikomas laboratorijoms, atliekančioms radionuklidų, išmetamų į aplinką ir (ar) esančių aplinkos komponentuose (ore, vandenyje, dirvožemyje), tyrimus ir (ar) imančioms ėminius šiems tyrimams atlikti. Laboratorijos, atliekančios radionuklidų, išmetamų į aplinką ir (ar) esančių aplinkos komponentuose (ore, vandenyje, dirvožemyje), tyrimus ir (ar) imančios ėminius šiems tyrimams atlikti, turi būti akredituotos įstaigos, priklausančios Europos akreditacijos organizacijai, arba pripažintos [[latest/TAR.7083DB116A2E|Lietuvos Respublikos radiacinės saugos įstatymo 28 straipsnyje]] nustatyta tvarka. ^s-86cb9ae6cfc47451b74d7110
 Papildyta straipsnio dalimi:
 Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
 Straipsnio dalies pakeitimai:
@@ -510,17 +510,17 @@ Nr. X-595, 2006-05-04, Žin., 2006, Nr. 57-2025 (2006-05-20), i. k. [[latest/TAR
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2299, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10403
-Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 2, 9 ir [[#^s-403d924e9ef4e2b669b76bcb|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 [[#^s-56e761579b9cc8230ad2eef0|2]], [[#^s-ec5e87e14067b7d14c816ceb|9]] ir [[#^s-403d924e9ef4e2b669b76bcb|12]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2797, 2020-01-28, paskelbta TAR 2020-02-07, i. k. 2020-02848
-Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 2, 8, 9, [[#^s-4260121398b446d3fa2d0450|11 straipsnių]] pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
+Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 [[#^s-56e761579b9cc8230ad2eef0|2]], [[#^s-6d69499d05b38a7c69a849bc|8]], [[#^s-ec5e87e14067b7d14c816ceb|9]], [[#^s-4260121398b446d3fa2d0450|11]] straipsnių pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3362, 2020-11-05, paskelbta TAR 2020-11-20, i. k. 2020-24517
-Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 2, 5, 7, 8, 9, 10, 11 ir [[#^s-403d924e9ef4e2b669b76bcb|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 [[#^s-56e761579b9cc8230ad2eef0|2]], [[#^s-5f2f181a3919db2233f1040f|5]], [[#^s-2279d088a21ca0de048a6485|7]], [[#^s-6d69499d05b38a7c69a849bc|8]], [[#^s-ec5e87e14067b7d14c816ceb|9]], [[#^s-5f56fc30e0666ae68b03aac1|10]], [[#^s-4260121398b446d3fa2d0450|11]] ir [[#^s-403d924e9ef4e2b669b76bcb|12]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -530,7 +530,7 @@ Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 [[#^s-6d69499d0
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-87, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23082
-Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 2, 8, 9, [[#^s-4260121398b446d3fa2d0450|11 straipsnių]] pakeitimo ir Įstatymo papildymo 11-1 straipsniu [[latest/e233fbb0498f11ea8aceeadd0c5b168c|įstatymo Nr. XIII-2797]] [[#^s-1cabe18973572d19459d57bf|6 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos monitoringo įstatymo Nr. VIII-529 [[#^s-56e761579b9cc8230ad2eef0|2]], [[#^s-6d69499d05b38a7c69a849bc|8]], [[#^s-ec5e87e14067b7d14c816ceb|9]], [[#^s-4260121398b446d3fa2d0450|11]] straipsnių pakeitimo ir Įstatymo papildymo 11-1 straipsniu [[latest/e233fbb0498f11ea8aceeadd0c5b168c|įstatymo Nr. XIII-2797]] [[#^s-1cabe18973572d19459d57bf|6 straipsnio]] pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas

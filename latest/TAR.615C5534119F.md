@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 16 straipsnio pakeitimas ^s-30d5c79db13c5ee17b259536
 
 
-Pakeisti 16 straipsnio ketvirtosios dalies 4 ir [[#^s-8aa5ae79c940db5e82618faf|5 punktus]] ir šią dalį išdėstyti taip:
+Pakeisti 16 straipsnio ketvirtosios dalies 4 ir 5 punktus ir šią dalį išdėstyti taip:
 
 
 „Asmenims, priimtiems tarnauti Lietuvos Respublikos vidaus reikalų, valstybės saugumo, krašto apsaugos bei prokuratūros pareigūnais ir kariais, tarnybos laikui pensijai skirti prilyginami šie laikotarpiai, buvę iki šio įstatymo įsigaliojimo:
@@ -48,10 +48,10 @@ Pakeisti 16 straipsnio ketvirtosios dalies 4 ir [[#^s-8aa5ae79c940db5e82618faf|5
 1) faktinis tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir batalionuose) laikas – Lietuvos Respublikos Vyriausybės nustatyta tvarka; ^s-a2fe8af58a975e73411a411c
 
 
-2) darbo policijoje (milicijoje), vidaus tarnybos, Lietuvos Respublikos valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms; ^s-385ca551ca04f6cfe2771aed
+2) darbo policijoje (milicijoje), vidaus tarnybos, Lietuvos Respublikos valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms; ^s-385ca551ca04f6cfe2771aed
 
 
-3) darbo laikas, išdirbtas profesionaliosios priešgaisrinės apsaugos padalinių vadovais, gaisrininkais, gaisrininkais vairuotojais Darbo sutarties įstatymo pagrindais, jeigu vėliau šie darbuotojai buvo paskirti sukarintos priešgaisrinės apsaugos pareigūnais; ^s-879728e3a221807319907f53
+3) darbo laikas, išdirbtas profesionaliosios priešgaisrinės apsaugos padalinių vadovais, gaisrininkais, gaisrininkais vairuotojais [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pagrindais, jeigu vėliau šie darbuotojai buvo paskirti sukarintos priešgaisrinės apsaugos pareigūnais; ^s-879728e3a221807319907f53
 
 
 4) viena tarnybos diena Krašto apsaugos departamento struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. ir Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. įskaitoma kaip trys tarnybos dienos; ^s-a58eccc5f6b358b4eb7be8c4

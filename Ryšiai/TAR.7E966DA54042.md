@@ -9,16 +9,14 @@ pavadinimas: "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo pa
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - 2 citatos - Aplinkos apsaugos rėmimo programos įstatyme
-- [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - 2 citatos - Atliekų tvarkymo įstatyme
-- [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas]] - Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo
-- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 4 citatos - Mokesčių administravimo įstatymo
+- [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - Aplinkos apsaugos rėmimo programos įstatyme
+- [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - Atliekų tvarkymo įstatyme
+- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - Mokesčių administravimo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.FC7AB69BE291#^s-9ed7ffa5eb29d38478a144dd|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - Mokesčio už aplinkos teršimą įstatymo pakeitimo įstatymo
 - [[latest/TAR.FC7AB69BE291#^s-c2c6e2f01b079d0dd550b84c|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - Mokesčio už aplinkos teršimą įstatymo pakeitimo įstatymo
 - [[latest/TAR.9F1620F927B9#^s-43628f1fdb35dd702ba3d748|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 1, 4, 7, 9, 11 straipsnių pakeitimo ir papildymo ir 1 priedėlio pakeitimo įstatymas]] - Mokesčio už aplinkos teršimą įstatymo pakeitimo įstatymo
-- [[latest/TAR.C676166A3124#^s-086af42197c047962de4dac3|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 2, 5, 7 straipsnių ir 3, 4 priedėlių papildymo ir pakeitimo įstatymas]] - 2002 m. sausio 22 d.   įstatymo Nr. IX-720
-- [[latest/TAR.C676166A3124#^s-174593769409fb8d5437b7a5|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 2, 5, 7 straipsnių ir 3, 4 priedėlių papildymo ir pakeitimo įstatymas]] - 2002 m. sausio 22 d. įstatymo Nr. IX-720
-- [[latest/TAR.07C6FA6CC42B#^s-9fb73183dffd6f3cfa915f45|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 5 straipsnio ir 3 priedėlio pakeitimo bei 11 straipsnio 2 dalies įgyvendinimo įstatymas]] - 2002 m. sausio 22 d. įstatymo Nr. IX-720
+- [[latest/TAR.C676166A3124#^s-086af42197c047962de4dac3|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 2, 5, 7 straipsnių ir 3, 4 priedėlių papildymo ir pakeitimo įstatymas]] - įstatymo Nr. IX-720
+- [[latest/TAR.C676166A3124#^s-174593769409fb8d5437b7a5|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 2, 5, 7 straipsnių ir 3, 4 priedėlių papildymo ir pakeitimo įstatymas]] - įstatymo Nr. IX-720
+- [[latest/TAR.07C6FA6CC42B#^s-9fb73183dffd6f3cfa915f45|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 5 straipsnio ir 3 priedėlio pakeitimo bei 11 straipsnio 2 dalies įgyvendinimo įstatymas]] - įstatymo Nr. IX-720

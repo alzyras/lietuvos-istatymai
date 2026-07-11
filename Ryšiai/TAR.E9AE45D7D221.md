@@ -13,8 +13,6 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.94F5702CA0F1#^s-207764e608e7f6f0857c1a52|Lietuvos Respublikos antstolių įstatymas]] - 3 citatos - 1121010ISTA0XI-2094
-- [[latest/TAR.94F5702CA0F1#^s-21caa5dffb726e1abe266923|Lietuvos Respublikos antstolių įstatymas]] - 1121010ISTA0XI-2094
+- [[latest/TAR.94F5702CA0F1#^s-207764e608e7f6f0857c1a52|Lietuvos Respublikos antstolių įstatymas]] - 2 citatos - 1121010ISTA0XI-2094
 - [[latest/TAR.94F5702CA0F1#^s-251937c6a44938bb052c4ffe|Lietuvos Respublikos antstolių įstatymas]] - 1121010ISTA0XI-2094
-- [[latest/TAR.94F5702CA0F1#^s-88f8ef9066f24a3ffd1287d7|Lietuvos Respublikos antstolių įstatymas]] - 1121010ISTA0XI-2094
 - [[latest/TAR.94F5702CA0F1#^s-c17ea6d28d660094c1632b40|Lietuvos Respublikos antstolių įstatymas]] - 1121010ISTA0XI-2094

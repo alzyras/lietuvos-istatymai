@@ -442,7 +442,7 @@ Vilnius
 6. Kitus pranešimų Kadastro tvarkytojui atvejus nustato įstatymai. ^s-ce5c08acee003b83fd19cd4f
 
 
-7. Šio straipsnio 1–[[#^s-c136b56ccfba6d13e4005419|4 dalyse]] nurodytų pranešimų Kadastro tvarkytojui perdavimo tvarką ir jų turinį bei žymos nekilnojamojo turto kadastre padarymo tvarką nustato Kadastro nuostatai. ^s-b211902c14764dc890100b37
+7. Šio straipsnio [[#^s-3c7344dc0d3276140fb360a1|1]]–[[#^s-c136b56ccfba6d13e4005419|4]] dalyse nurodytų pranešimų Kadastro tvarkytojui perdavimo tvarką ir jų turinį bei žymos nekilnojamojo turto kadastre padarymo tvarką nustato Kadastro nuostatai. ^s-b211902c14764dc890100b37
 
 
 

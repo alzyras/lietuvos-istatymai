@@ -49,7 +49,7 @@ Papildyti 21 straipsnio 1 dalį 5 punktu
 ### 2 straipsnis. Baigiamosios nuostatos ^s-281d817e706d927fc7b844ba
 
 
-Gyventojų pajamų mokesčio įstatymo 21 straipsnio 1 dalies 5 punkto nuostatos taikomos deklaruojant gyventojų pajamų mokestį už 2004, 2005 ir 2006 metus.
+[[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatymo 21 straipsnio 1 dalies 5 punkto]] nuostatos taikomos deklaruojant gyventojų pajamų mokestį už 2004, 2005 ir 2006 metus.
 
 
 

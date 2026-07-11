@@ -241,7 +241,7 @@ BENDROSIOS NUOSTATOS
 2) negarantuoja šių technologijų, medžiagų ir įrangos fizinės saugos; ^s-fc8d3d66182334d2235fef7a
 
 
-3) neprisiima įsipareigojimo neleisti šių technologijų, medžiagų ir įrangos reeksporto į valstybes, neatitinkančias bent vienos iš šios dalies 1 ir [[#^s-fc8d3d66182334d2235fef7a|2 punktuose]] nurodytų sąlygų. ^s-90ba884c80ccbd9b30cc315d
+3) neprisiima įsipareigojimo neleisti šių technologijų, medžiagų ir įrangos reeksporto į valstybes, neatitinkančias bent vienos iš šios dalies [[#^s-a6e0ec284dd6174c3e4f6029|1]] ir [[#^s-fc8d3d66182334d2235fef7a|2]] punktuose nurodytų sąlygų. ^s-90ba884c80ccbd9b30cc315d
 
 
 
@@ -787,7 +787,7 @@ BRANDUOLINĖS ENERGETIKOS OBJEKTŲ PROJEKTAVIMO IR STATYBOS SPECIALIOSIOS SĄLYG
 3. Planuojamos ūkinės veiklos, susijusios su branduoline energetika, poveikis aplinkai vertinamas ir branduolinės energetikos objekto statybos vieta (aikštelė) parenkama vadovaujantis [[latest/TAR.0539E2FEB29E|Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo]], [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymo]] ir kitų teisės aktų nustatyta tvarka. Prieš pradedant rengti branduolinės energetikos objekto projektą, pritaikytą konkrečiai statybos vietai, turi būti atliktas branduolinės energetikos objekto aikštelės vertinimas saugos požiūriu [[latest/TAR.424F7C72601E|Branduolinės saugos įstatymo]] nustatyta tvarka. ^s-1cb6f293aaaa14372e531606
 
 
-4. Šio straipsnio 1 ir [[#^s-c671fd7f325017557bb839d0|2 dalių]] reikalavimai netaikomi rengiant branduolinės energetikos objektų statinių rekonstravimo, kapitalinio remonto, paprastojo remonto ar griovimo projektus. Branduolinės energetikos objekto projektas turi atitikti Valstybinės atominės energetikos saugos inspekcijos viršininko įsakymu patvirtintus branduolinės saugos reikalavimus ir taisykles, taip pat kitų teisės aktų reikalavimus. Branduolinės energetikos objekto sauga pagrindžiama saugos analizės ataskaitoje, kuri turi atitikti Valstybinės atominės energetikos saugos inspekcijos viršininko įsakymu patvirtintus branduolinės saugos reikalavimus ir taisykles. ^s-4a101451522bd5ad0f6461d8
+4. Šio straipsnio [[#^s-288d06947f444b7c9c03219b|1]] ir [[#^s-c671fd7f325017557bb839d0|2]] dalių reikalavimai netaikomi rengiant branduolinės energetikos objektų statinių rekonstravimo, kapitalinio remonto, paprastojo remonto ar griovimo projektus. Branduolinės energetikos objekto projektas turi atitikti Valstybinės atominės energetikos saugos inspekcijos viršininko įsakymu patvirtintus branduolinės saugos reikalavimus ir taisykles, taip pat kitų teisės aktų reikalavimus. Branduolinės energetikos objekto sauga pagrindžiama saugos analizės ataskaitoje, kuri turi atitikti Valstybinės atominės energetikos saugos inspekcijos viršininko įsakymu patvirtintus branduolinės saugos reikalavimus ir taisykles. ^s-4a101451522bd5ad0f6461d8
 
 
 
@@ -813,7 +813,7 @@ BRANDUOLINĖS ENERGETIKOS OBJEKTŲ PROJEKTAVIMO IR STATYBOS SPECIALIOSIOS SĄLYG
 1. Statytojas (užsakovas) turi gauti leidimą statyti, rekonstruoti, kapitališkai remontuoti ar griauti branduolinės energetikos objekto statinius. ^s-5135154643a685eab25e9abc
 
 
-2. Leidimą statyti, rekonstruoti branduolinės energetikos objekto statinius, kapitališkai remontuoti ir juos griauti išduoda Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos. Branduolinės energetikos objekto naujų statinių statyba pradedama tik turint [[latest/TAR.424F7C72601E#^s-a7d50f542c589d40cc0bda79|Branduolinės saugos įstatymo 22 straipsnio 1 dalies]] 1 ar 3 punkte nustatytą licenciją. ^s-53c86c004a1aceffd1a7b71a
+2. Leidimą statyti, rekonstruoti branduolinės energetikos objekto statinius, kapitališkai remontuoti ir juos griauti išduoda Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos. Branduolinės energetikos objekto naujų statinių statyba pradedama tik turint [[latest/TAR.424F7C72601E#^s-a7d50f542c589d40cc0bda79|Branduolinės saugos įstatymo 22 straipsnio 1 dalies]] [[latest/TAR.424F7C72601E#^s-480ce6629a89af1096db6f17|1]] ar [[latest/TAR.424F7C72601E#^s-2057b7ddc514a714f95199a8|3]] punkte nustatytą licenciją. ^s-53c86c004a1aceffd1a7b71a
 
 
 3. Licencijos turėtojo pareigų statant, rekonstruojant branduolinės energetikos objekto statinius, kapitališkai juos remontuojant, vykdant statinių priežiūros ar griovimo darbus tinkamo vykdymo priežiūrą pagal kompetenciją atlieka Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos ir Valstybinė atominės energetikos saugos inspekcija. ^s-3c4a850a51f3080b10cecdc2
@@ -986,7 +986,7 @@ Branduolinės energetikos objekto fizinės saugos tikslams įgyvendinti Vyriausy
 3. Leidimas patekti į branduolinės energetikos objekto apsaugos zonas panaikinamas, kai: ^s-b44c604e96088720f8d8ca8b
 
 
-1) atsiranda ar paaiškėja kuri nors iš aplinkybių, nurodytų šio įstatymo [[#^s-f3cc5558b0df201e59536db5|50 straipsnio 3 dalies]] 1–7 punktuose; ^s-01d146b80311ac5d01b353be
+1) atsiranda ar paaiškėja kuri nors iš aplinkybių, nurodytų šio įstatymo [[#^s-f3cc5558b0df201e59536db5|50 straipsnio 3 dalies]] [[#^s-3e19655022a934d7983ecd49|1]]–[[#^s-4faf40161e3fcd04ba1ef708|7]] punktuose; ^s-01d146b80311ac5d01b353be
 
 
 2) su asmeniu nutraukiami darbo (tarnybos) santykiai teisės aktų nustatyta tvarka; ^s-384193928cb4ae3d764efe93
@@ -1048,14 +1048,14 @@ BRANDUOLINIŲ IR RADIOLOGINIŲ AVARIJŲ IR JŲ PADARINIŲ LIKVIDAVIMAS
 2. Institucijos ir asmenys, kurie pagal valstybinį gyventojų apsaugos planą branduolinės avarijos atveju privalo dalyvauti likviduojant avariją, sušvelninant ir likviduojant jos padarinius, rengia tam tikslui numatytas priemones ir jas įgyvendina. ^s-4030cb3be6acd96fdb82a830
 
 
-3. Šio straipsnio 1 ir [[#^s-4030cb3be6acd96fdb82a830|2 dalyse]] nustatyti planai rengiami vadovaujantis [[latest/TAR.C15592B096FA|Civilinės saugos įstatymo]] ir kitų teisės aktų, reglamentuojančių civilinės saugos teisinius ir organizacinius pagrindus, nuostatomis. ^s-8ed92887999e0fb06defbed1
+3. Šio straipsnio [[#^s-59fcf372d470abad44a57369|1]] ir [[#^s-4030cb3be6acd96fdb82a830|2]] dalyse nustatyti planai rengiami vadovaujantis [[latest/TAR.C15592B096FA|Civilinės saugos įstatymo]] ir kitų teisės aktų, reglamentuojančių civilinės saugos teisinius ir organizacinius pagrindus, nuostatomis. ^s-8ed92887999e0fb06defbed1
 
 
 
 ### 40 straipsnis. Užsienio valstybių ir tarptautinių organizacijų informavimas apie branduolinę ir radiologinę avariją ^s-1f564059a46e12ccf99baf92
 
 
-1. Informacija apie Lietuvos Respublikoje įvykusią branduolinę ir radiologinę avariją ar padidėjusį jonizuojančiosios spinduliuotės lygį aplinkoje perduodama užsienio valstybėms ir tarptautinėms organizacijoms tokia tvarka ir tiek, kiek to reikalauja 1986 m. Konvencija dėl ankstyvo pranešimo apie branduolinę avariją, kitos Lietuvos Respublikos tarptautinės sutartys ir 1987 m. gruodžio 14 d. Tarybos sprendimas 87/600/Euratomas dėl Bendrijoje nustatomos skubaus pasikeitimo informacija radiologinės avarijos atveju tvarkos (OL 2004 m. specialusis leidimas, 15 skyrius, 1 tomas, p. 337). ^s-2219cf7d6900d6da73c14d29
+1. Informacija apie Lietuvos Respublikoje įvykusią branduolinę ir radiologinę avariją ar padidėjusį jonizuojančiosios spinduliuotės lygį aplinkoje perduodama užsienio valstybėms ir tarptautinėms organizacijoms tokia tvarka ir tiek, kiek to reikalauja 1986 m. [Konvencija dėl ankstyvo pranešimo apie branduolinę avariją](https://e-tar.lt/portal/lt/legalAct/TAR.ACBE9A5617C0), kitos Lietuvos Respublikos tarptautinės sutartys ir 1987 m. gruodžio 14 d. Tarybos sprendimas 87/600/Euratomas dėl Bendrijoje nustatomos skubaus pasikeitimo informacija radiologinės avarijos atveju tvarkos (OL 2004 m. specialusis leidimas, 15 skyrius, 1 tomas, p. 337). ^s-2219cf7d6900d6da73c14d29
 
 
 2. Įvykus branduolinei ir (ar) radiologinei avarijai, kurios metu išmetamos ar tikėtina, kad gali būti išmestos radioaktyviosios medžiagos, kurios sukelia ar gali sukelti tarptautinį tolimąjį išmetimą, kuris gali kelti radiologinės saugos problemų užsienio valstybei, Vyriausybės įgaliota institucija teisės aktų nustatyta tvarka ir sąlygomis: ^s-a7459c900f07d1495840124b
@@ -1116,7 +1116,7 @@ Licencijos turėtojas atsako už veiklos, kuriai išduota licencija, ar su ta ve
 ### 42 straipsnis. Žalos nustatymas ^s-6ee2624e8af3944f2e71cd9a
 
 
-1. Nustatant branduolinės žalos dydį, vadovaujamasi Civiliniu kodeksu ir 1963 m. gegužės 21 d. Vienos konvencija dėl civilinės atsakomybės už branduolinę žalą (toliau – Vienos konvencija) bei jos pagrindu priimtu Lietuvos Respublikos įstatymu [[latest/TAR.B007DBC8A33E|„Dėl 1963 m. gegužės 21 d. Vienos konvencijos dėl civilinės atsakomybės už branduolinę žalą ir bendro protokolo dėl Vienos konvencijos bei Paryžiaus konvencijos taikymo įsigaliojimo“]]. ^s-d430198f52a52ecfa4025b7b
+1. Nustatant branduolinės žalos dydį, vadovaujamasi Civiliniu kodeksu ir 1963 m. gegužės 21 d. [Vienos konvencija dėl civilinės atsakomybės už branduolinę žalą](https://e-tar.lt/portal/lt/legalAct/TAR.98F8A33F322C) (toliau – [Vienos konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.98F8A33F322C)) bei jos pagrindu priimtu Lietuvos Respublikos įstatymu [[latest/TAR.B007DBC8A33E|„Dėl 1963 m. gegužės 21 d. Vienos konvencijos dėl civilinės atsakomybės už branduolinę žalą ir bendro protokolo dėl Vienos konvencijos bei Paryžiaus konvencijos taikymo įsigaliojimo“]]. ^s-d430198f52a52ecfa4025b7b
 
 
 2. Branduolinės energetikos objektą eksploatuojančios organizacijos materialinės atsakomybės dydis už branduolinę žalą, padarytą kiekvienos branduolinės ir (ar) radiologinės avarijos ar branduolinio incidento metu, apribojamas suma Lietuvos Respublikos litais, ekvivalentiška minimaliam atsakomybės dydžiui, nustatytam Vienos konvencijos V straipsnyje. Atsakomybės dydis apskaičiuojamas pagal oficialų Lietuvos Respublikos lito ir Jungtinių Amerikos Valstijų dolerio kursą, paskelbtą Lietuvos banko žalos padarymo dieną. ^s-8e3176d0b087e2cf439cd6c9

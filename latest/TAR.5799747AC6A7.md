@@ -39,7 +39,7 @@ Pripažinti netekusiais galios:
 1) Lietuvos TSR Aukščiausiosios Tarybos Prezidiumo 1989 m. sausio 25 d. įsaką „Dėl Lietuvos TSR valstybinės vėliavos nuostatų patvirtinimo“ (Žin., 1989, Nr. 8-52);
 
 
-2) Lietuvos Tarybų Socialistinės Respublikos 1989 m. gegužės 18 d. įstatymo „Patvirtinti Lietuvos TSR Aukščiausiosios Tarybos Prezidiumo įsakus dėl pakeitimų ir papildymų Lietuvos TSR įstatymų aktuose“ (Žin., 1989, Nr. 15-172) dalį dėl Lietuvos TSR valstybinės vėliavos nuostatų patvirtinimo.
+2) Lietuvos Tarybų Socialistinės Respublikos 1989 m. gegužės 18 d. įstatymo [„Patvirtinti Lietuvos TSR Aukščiausiosios Tarybos Prezidiumo įsakus dėl pakeitimų ir papildymų Lietuvos TSR įstatymų aktuose“](https://e-tar.lt/portal/lt/legalAct/TAR.D7A1C5473E18) (Žin., 1989, Nr. 15-172) dalį dėl Lietuvos TSR valstybinės vėliavos nuostatų patvirtinimo.
 
 
 

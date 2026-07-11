@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-2b1dabd96f4e9afce118189b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 4 punktu, [[latest/TAR.5BCEC9B41811#^s-2a3445d10e28acf45915286f|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 7 punktu]] ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2021 m. vasario 1 d. dekretą Nr. 1K-512, ratifikuoja 2020 m. birželio 30 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės susitarimą dėl Lietuvos Respublikos ginkluotųjų pajėgų narių ir Vokietijos Federacinės Respublikos ginkluotųjų pajėgų narių laikino buvimo kitos valstybės teritorijoje (Lietuvos ir Vokietijos susitarimą dėl ginkluotųjų pajėgų narių atvykimo).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 4 punktu, [[latest/TAR.5BCEC9B41811#^s-2a3445d10e28acf45915286f|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 7 punktu]] ir atsižvelgdamas į Lietuvos Respublikos Prezidento [2021 m. vasario 1 d. dekretą Nr. 1K-512](https://e-tar.lt/portal/lt/legalAct/828c1cd0649411eb9dc7b575f08e8bea), ratifikuoja 2020 m. birželio 30 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės susitarimą dėl Lietuvos Respublikos ginkluotųjų pajėgų narių ir Vokietijos Federacinės Respublikos ginkluotųjų pajėgų narių laikino buvimo kitos valstybės teritorijoje (Lietuvos ir Vokietijos susitarimą dėl ginkluotųjų pajėgų narių atvykimo).
 
 
 

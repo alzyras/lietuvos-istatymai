@@ -58,7 +58,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 1. Oro erdvės organizavimas turi kiek įmanoma tiksliau atitikti Tarptautinės civilinės aviacijos organizacijos (toliau – ICAO) standartus ir rekomenduojamą praktiką. Lietuvos Respublikos oro erdvės organizavimo taisykles rengia CAA ir kariuomenės vadas, tvirtina Vyriausybė. ^s-79ddea9caddc1b926a5ebd38
 
 
-2. Skrydžiai Lietuvos Respublikos oro erdve, išskyrus karinių orlaivių skrydžius, vykdomus atliekant karines operacijas ir mokymus, vykdomi laikantis 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamente (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010, nustatytų sąlygų ir tvarkos. Specialius reikalavimus, taikomus karinių orlaivių skrydžiams, vykdomiems atliekant karines operacijas ir mokymus, nustato kariuomenės vadas. Šie reikalavimai turi būti tokie, kad nekiltų grėsmė civilinių orlaivių saugai. ^s-a57e52fc3b20fefa1fd93e1e
+2. Skrydžiai Lietuvos Respublikos oro erdve, išskyrus karinių orlaivių skrydžius, vykdomus atliekant karines operacijas ir mokymus, vykdomi laikantis 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamente (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo [reglamentas (ES) Nr. 1035/2011](https://eur-lex.europa.eu/eli/reg/1035/2011/oj) ir [reglamentai (EB) Nr. 1265/2007](https://eur-lex.europa.eu/eli/reg/1265/2007/oj), (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010, nustatytų sąlygų ir tvarkos. Specialius reikalavimus, taikomus karinių orlaivių skrydžiams, vykdomiems atliekant karines operacijas ir mokymus, nustato kariuomenės vadas. Šie reikalavimai turi būti tokie, kad nekiltų grėsmė civilinių orlaivių saugai. ^s-a57e52fc3b20fefa1fd93e1e
 
 
 3. Oro erdvėje virš jūros dalies, esančios už teritorinių vandenų, kurioje Lietuvos Respublika pagal tarptautines sutartis yra prisiėmusi atsakomybę teikti oro eismo paslaugas, taikomos Lietuvos Respublikoje galiojančios skrydžių taisyklės. ^s-7ea76c15e9d84ed329fcee84
@@ -73,7 +73,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 Pakeisti 42 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Civilinių orlaivių skrydžiams gali būti naudojami tik tie civiliniai aerodromai, kurie atitinka šio įstatymo, 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančio Europos aviacijos saugos agentūrą, panaikinančio Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB (OL 2008 L 79, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 6/2013, ir kitų teisės aktų reikalavimus ir turi CAA išduotą galiojantį tinkamumo naudoti pažymėjimą.“
+„1. Civilinių orlaivių skrydžiams gali būti naudojami tik tie civiliniai aerodromai, kurie atitinka šio įstatymo, 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančio Europos aviacijos saugos agentūrą, panaikinančio Tarybos direktyvą 91/670/EEB, [Reglamentą (EB) Nr. 1592/2002](https://eur-lex.europa.eu/eli/reg/1592/2002/oj) ir Direktyvą 2004/36/EB (OL 2008 L 79, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 6/2013, ir kitų teisės aktų reikalavimus ir turi CAA išduotą galiojantį tinkamumo naudoti pažymėjimą.“
 
 
 ### 4 straipsnis. Įstatymo priedo 5 punkto pakeitimas ir priedo papildymas 19 punktu ^s-7655a86ef167069a152795c7
@@ -82,13 +82,13 @@ Pakeisti 42 straipsnio 1 dalį ir ją išdėstyti taip:
 1. Pakeisti Įstatymo priedo 5 punktą ir jį išdėstyti taip: ^s-8cec73685cd4deb04eb010c1
 
 
-„5. 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiantis Europos aviacijos saugos agentūrą, panaikinantis Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB (OL 2008 L 79, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 6/2013 (OL 2013 L 4, p. 34).“
+„5. 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiantis Europos aviacijos saugos agentūrą, panaikinantis Tarybos direktyvą 91/670/EEB, [Reglamentą (EB) Nr. 1592/2002](https://eur-lex.europa.eu/eli/reg/1592/2002/oj) ir Direktyvą 2004/36/EB (OL 2008 L 79, p. 1) su paskutiniais pakeitimais, padarytais 2013 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 6/2013 (OL 2013 L 4, p. 34).“
 
 
 2. Papildyti Įstatymo priedą 19 punktu: ^s-f739542b9dd3fc8fde954724
 
 
-„19. 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo reglamentas (ES) Nr. 1035/2011 ir reglamentai (EB) Nr. 1265/2007, (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010 (OL 2012 L 281, p. 1).“
+„19. 2012 m. rugsėjo 26 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 923/2012, kuriuo nustatomos bendrosios skrydžių taisyklės ir veiklos nuostatos dėl oro navigacijos paslaugų ir procedūrų ir iš dalies keičiami Įgyvendinimo [reglamentas (ES) Nr. 1035/2011](https://eur-lex.europa.eu/eli/reg/1035/2011/oj) ir [reglamentai (EB) Nr. 1265/2007](https://eur-lex.europa.eu/eli/reg/1265/2007/oj), (EB) Nr. 1794/2006, (EB) Nr. 730/2006, (EB) Nr. 1033/2006 ir (ES) Nr. 255/2010 (OL 2012 L 281, p. 1).“
 
 
 ### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-3f6b46bc1f7098f954d3a5f6

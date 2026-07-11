@@ -98,7 +98,7 @@ Pakeisti ir papildyti 35 straipsnį ir jį išdėstyti taip:
 „35 straipsnis. Užsienio vienetų dividendai
 
 
-1. Lietuvos vieneto už turimas ar nuolatinės buveinės už jai priskirtas užsienio vienetų akcijas, kapitalo dalį ar kitų teisių turėjimą gaunami dividendai apmokestinami taikant 15 procentų pelno mokesčio tarifą, išskyrus šio straipsnio 2 ir [[#^s-473f6358b24a8f9f0bf5fb7f|3 dalyse]] nustatytus atvejus. Mokestį apskaičiuoja ir sumoka į biudžetą dividendus gaunantis Lietuvos vienetas ar nuolatinė buveinė ne vėliau kaip iki mėnesio, einančio po mėnesio, kurį dividendai buvo gauti, dešimtos dienos. ^s-b3c100ed07bad6835344bb6d
+1. Lietuvos vieneto už turimas ar nuolatinės buveinės už jai priskirtas užsienio vienetų akcijas, kapitalo dalį ar kitų teisių turėjimą gaunami dividendai apmokestinami taikant 15 procentų pelno mokesčio tarifą, išskyrus šio straipsnio [[#^s-7843bbd0a4135af1f3ad1059|2]] ir [[#^s-473f6358b24a8f9f0bf5fb7f|3]] dalyse nustatytus atvejus. Mokestį apskaičiuoja ir sumoka į biudžetą dividendus gaunantis Lietuvos vienetas ar nuolatinė buveinė ne vėliau kaip iki mėnesio, einančio po mėnesio, kurį dividendai buvo gauti, dešimtos dienos. ^s-b3c100ed07bad6835344bb6d
 
 
 2. Lietuvos vieneto už turimas ar nuolatinės buveinės už jai priskirtas užsienio vienetų, kurie įregistruoti ar kitaip organizuoti Europos ekonominės erdvės valstybėje ir kurių pelnas yra apmokestinamas pelno mokesčiu arba jam tapačiu mokesčiu, akcijas, kapitalo dalį ar kitų teisių turėjimą gaunami dividendai neapmokestinami. ^s-7843bbd0a4135af1f3ad1059

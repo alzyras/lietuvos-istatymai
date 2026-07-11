@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-9e05be0d65899e42ec1f76ce
 
 
-Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.D267FBDC094B|2 straipsnio 8 dalį]] ir ją išdėstyti taip:
 
 
 „8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos (prioriteto tvarka) [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] (toliau – [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymas]]), kituose mokesčių įstatymuose, [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatyme]] ir Lietuvos Respublikos civiliniame kodekse. Šiame įstatyme nurodytos pagrindinės žemės naudojimo paskirtys ir būdai atitinka registruojamus Nekilnojamojo turto registre.“
@@ -49,7 +49,7 @@ Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip:
 ### 2 straipsnis. 6 straipsnio pakeitimas ^s-3cdfa53915ca71b4dd2a2c11
 
 
-Pakeisti 6 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.D267FBDC094B|6 straipsnio 3 dalies 2 punktą]] ir jį išdėstyti taip:
 
 
 „2) žemės sklypo naudojimo būdą;“.
@@ -59,7 +59,7 @@ Pakeisti 6 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. 9 straipsnio pakeitimas ^s-45f25205dbf1956426783a49
 
 
-Pakeisti 9 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.D267FBDC094B|9 straipsnio 2 dalies 2 punktą]] ir jį išdėstyti taip:
 
 
 „2) turto vertinimo įmonės nustatytos žemės vidutinės rinkos vertės ir individualiu žemės vertinimu nustatytos žemės vertės skirtumas susidarė ne dėl žemės naudojimo ne pagal numatytą paskirtį, būdą, disponavimo ja suvaržymų dėl hipotekos ar kitų savininko prievolių, ir“.

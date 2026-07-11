@@ -152,7 +152,7 @@ Vilnius
 2. Šio įstatymo [[#^s-4d30f8b2d4a5519045a1983a|2 straipsnio 1 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2009 metų mokestinio laikotarpio pajamas. ^s-8d1969da817e8a1f96728329
 
 
-3. Šio įstatymo 1, 3 ir [[#^s-429a842036e0e0c8e3cc3855|4 straipsnių]] nuostatos taikomos apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių mokestinių laikotarpių pajamas. ^s-3f9bfe7d455fb51685230d8d
+3. Šio įstatymo [[#^s-cea07e7e5fe27253790682b2|1]], [[#^s-968b99bdc866ec1161b8f93c|3]] ir [[#^s-429a842036e0e0c8e3cc3855|4]] straipsnių nuostatos taikomos apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių mokestinių laikotarpių pajamas. ^s-3f9bfe7d455fb51685230d8d
 
 
 

@@ -9,10 +9,9 @@ pavadinimas: "Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3, 4,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Administracinių bylų teisenos įstatymo
-- [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatymas]] - 2 citatos - Finansų įstaigų įstatymas
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Administracinių bylų teisenos įstatymo
+- [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatymas]] - 2 citatos - Finansų įstaigų įstatymas ir šio įstatymo 83 straipsnis
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.AB7AFE2F35B2#^s-4482c0ee6bd6c60060317ac0|Lietuvos Respublikos finansinių priemonių rinkų įstatymas]] - Įstatymas Nr. XI-1402
-- [[latest/TAR.AB7AFE2F35B2#^s-e4c68a183e4fe6cf0257ed43|Lietuvos Respublikos finansinių priemonių rinkų įstatymas]] - Įstatymas Nr. XI-1402
+_Nėra._

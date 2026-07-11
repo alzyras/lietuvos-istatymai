@@ -60,7 +60,7 @@ BENDROSIOS NUOSTATOS
 ### 3 straipsnis. Seimo kontrolierių veiklos teisiniai pagrindai ^s-0e0ee7d40209a15860426c74
 
 
-Seimo kontrolieriai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu, kitais įstatymais, tarptautinėmis sutartimis ir susitarimais.
+Seimo kontrolieriai savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo įstatymu, kitais įstatymais, tarptautinėmis sutartimis ir susitarimais.
 
 
 
@@ -539,7 +539,7 @@ SEIMO KONTROLIERIŲ VEIKLOS IR KITOS GARANTIJOS
 ### 27 straipsnis. Seimo kontrolierių nepriklausomumas nuo kitų institucijų ^s-b918cb922026eae1ef99ff0f
 
 
-Seimo kontrolieriai, vykdydami savo funkcijas, vadovaujasi Lietuvos Respublikos Konstitucija, įstatymais bei tarptautinėmis sutartimis ir susitarimais ir yra nepriklausomi.
+Seimo kontrolieriai, vykdydami savo funkcijas, vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymais bei tarptautinėmis sutartimis ir susitarimais ir yra nepriklausomi.
 
 
 
@@ -611,7 +611,7 @@ BAIGIAMOSIOS NUOSTATOS
 ### 31 straipsnis. Baigiamosios nuostatos ^s-d38d28cb3caa5e0a71c1fc9b
 
 
-Įsigaliojus šiam įstatymui, pripažįstami netekusiais galios 1994 m. sausio 11 d. Lietuvos Respublikos Seimo kontrolierių įstatymas (Žin., 1994, Nr. 22-345) ir 1995 m. vasario 22 d. Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos Seimo kontrolierių įstaigos statuto patvirtinimo“ (Žin., 1995, Nr. 19-434).
+Įsigaliojus šiam įstatymui, pripažįstami netekusiais galios 1994 m. sausio 11 d. Lietuvos Respublikos Seimo kontrolierių įstatymas (Žin., 1994, Nr. 22-345) ir 1995 m. vasario 22 d. Lietuvos Respublikos įstatymas [„Dėl Lietuvos Respublikos Seimo kontrolierių įstaigos statuto patvirtinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.631D3BF12182) (Žin., 1995, Nr. 19-434).
 
 
 

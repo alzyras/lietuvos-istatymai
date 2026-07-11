@@ -170,7 +170,7 @@ Lietuvos Aukščiausiasis Teismas leidžia biuletenį, kuriame periodiškai skel
 Biuletenis finansuojamas iš valstybės biudžeto ir iš jį pardavus gautų lėšų. Lietuvos Respublikos teismai ir teisėjai biuletenį gauna nemokamai.
 
 
-Lietuvos Aukščiausiojo Teismo veiklą reguliuoja Lietuvos Respublikos Konstitucija, šis įstatymas, įstatymu patvirtintas Lietuvos Aukščiausiojo Teismo statutas, [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksas]], Lietuvos Respublikos civilinio proceso kodeksas bei kiti specialūs įstatymai.“
+Lietuvos Aukščiausiojo Teismo veiklą reguliuoja [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis įstatymas, įstatymu patvirtintas [Lietuvos Aukščiausiojo Teismo statutas](https://e-tar.lt/portal/lt/legalAct/TAR.1DAB8BD6385D), [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksas]], [Lietuvos Respublikos civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) bei kiti specialūs įstatymai.“
 
 
 
@@ -320,7 +320,7 @@ Kandidato praktikos vadovas turi teisę Teismų departamento direktoriui siūlyt
 ### 15 straipsnis. Įstatymo papildymas 222 ir 223 straipsniais ^s-2c06b68d7e18156a6ed5744a
 
 
-Papildyti Įstatymą 222 ir [[#^s-5277c7b0c878a1e90461806e|223 straipsniais]]:
+Papildyti Įstatymą 222 ir [[#^s-5277c7b0c878a1e90461806e|223]] straipsniais:
 
 
 „222 straipsnis. Kandidato stipendija ir kitos veiklos apribojimai
@@ -798,7 +798,7 @@ Pakeisti 54 straipsnio 2 dalį ir ją išdėstyti taip:
 1. 59 straipsnio 2 dalį pripažinti netekusia galios. ^s-e0f9129c9ab47dce07ff523e
 
 
-2. Buvusias 59 straipsnio 3, 4, 5 ir 6 dalis laikyti 2, 3, 4 ir [[#^s-c2ff4f1f070b107adadabae7|5 dalimis]]. ^s-a8fabddc17b0e8a512782fdd
+2. Buvusias 59 straipsnio 3, 4, 5 ir 6 dalis laikyti 2, 3, 4 ir 5 dalimis. ^s-a8fabddc17b0e8a512782fdd
 
 
 3. Pakeisti 59 straipsnio 2 dalį ir ją išdėstyti taip: ^s-72daec976c7142bb37938bec
@@ -823,7 +823,7 @@ Pakeisti 54 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 44 straipsnis. 60 straipsnio 1 dalies papildymas 8 ir 9 punktais ^s-99d2cf75718ba29f35dbc017
 
 
-60 straipsnio 1 dalį papildyti 8 ir [[#^s-defa581da00a7b0d10f72ef4|9 punktais]]:
+60 straipsnio 1 dalį papildyti 8 ir 9 punktais:
 
 
 „8) pasiūlyti perkelti teisėją į kitą tos pačios arba žemesnės grandies teismą;
@@ -880,7 +880,7 @@ Teismų departamento veiklą reglamentuoja nuostatai, kuriuos tvirtina Lietuvos 
 „Teisingumo ministras per jo įgaliotus asmenis arba Teismų departamentą tikrina ir revizuoja apylinkių, apygardų teismų, Apeliacinio teismo ūkinę ir finansinę veiklą.“
 
 
-2. Papildyti 73 straipsnį naujomis 2 ir [[#^s-23ff2d181579eda825281941|3 dalimis]]: ^s-41333ba720339172a514cc3e
+2. Papildyti 73 straipsnį naujomis 2 ir 3 dalimis: ^s-41333ba720339172a514cc3e
 
 
 „Teisingumo ministras per Teismų departamentą, teismų pirmininkus bei per kitus įgaliotus asmenis kontroliuoja teismų ir teisėjų, išskyrus Lietuvos Aukščiausiojo Teismo, administracinę veiklą. Teisėjų administracinės veiklos kontrolė atliekama teisingumo ministro nustatyta tvarka.
@@ -898,7 +898,7 @@ Teismų (teisėjų) administracinės veiklos kontrolė apima:
 3) kitas priemones, padedančias užtikrinti efektyvią ir geros kokybės teismų (teisėjų) administracinę veiklą.“ ^s-5bbbb4f3a9cdd1b7af01e41e
 
 
-3. Buvusias 73 straipsnio 2, 3 ir [[#^s-9e4db451b55972c0171bd491|4 dalis]] laikyti 4, 5 ir 6 dalimis. ^s-23ff2d181579eda825281941
+3. Buvusias 73 straipsnio 2, 3 ir 4 dalis laikyti 4, 5 ir 6 dalimis. ^s-23ff2d181579eda825281941
 
 
 4. Pakeisti 73 straipsnio 4 dalį ir ją išdėstyti taip: ^s-9e4db451b55972c0171bd491
@@ -920,7 +920,7 @@ Teismų (teisėjų) administracinės veiklos kontrolė apima:
 1. Pakeisti 77 straipsnio 1 dalį ir ją išdėstyti taip: ^s-416dbcb2f7c72c52921f4df7
 
 
-„Teismo antstolis yra pareigūnas. Juo gali būti ne jaunesnis kaip 21 metų Lietuvos Respublikos pilietis, turintis aukštąjį teisinį arba aukštesnįjį teisinį išsilavinimą ir išlaikęs teismo antstolio egzaminus. Sudarant su teismo antstoliu darbo sutartį nustatomas 3 mėnesių išbandymo terminas. Jeigu per šį terminą paaiškėja, kad teismo antstolio darbo rezultatai nepatenkinami ir jis neišlaikė egzaminų, teismo antstolis atleidžiamas iš darbo Lietuvos Respublikos darbo sutarties įstatymo nustatyta tvarka.“
+„Teismo antstolis yra pareigūnas. Juo gali būti ne jaunesnis kaip 21 metų Lietuvos Respublikos pilietis, turintis aukštąjį teisinį arba aukštesnįjį teisinį išsilavinimą ir išlaikęs teismo antstolio egzaminus. Sudarant su teismo antstoliu darbo sutartį nustatomas 3 mėnesių išbandymo terminas. Jeigu per šį terminą paaiškėja, kad teismo antstolio darbo rezultatai nepatenkinami ir jis neišlaikė egzaminų, teismo antstolis atleidžiamas iš darbo [Lietuvos Respublikos darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) nustatyta tvarka.“
 
 
 2. 77 straipsnio 2 dalyje vietoj žodžių „teisingumo ministras“ įrašyti žodžius „Teismų departamento direktorius“ ir šią dalį išdėstyti taip: ^s-085278c5906c6b0e4dc23936

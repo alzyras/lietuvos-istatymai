@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-b9374a31fd4ccea8b810c11f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Šveicarijos Konfederacijos Vyriausybės sutartį dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Šveicarijos Konfederacijos Vyriausybės sutartį dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais, pasirašytą 1998 m. gegužės 26 d. Kopenhagoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Šveicarijos Konfederacijos Vyriausybės sutartį dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais“](https://e-tar.lt/portal/lt/legalAct/TAR.FDACF58D0238), ratifikuoja Lietuvos Respublikos Vyriausybės ir Šveicarijos Konfederacijos Vyriausybės sutartį dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais, pasirašytą 1998 m. gegužės 26 d. Kopenhagoje.
 
 
 

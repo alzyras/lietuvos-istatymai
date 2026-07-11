@@ -131,7 +131,7 @@ Apskričių teritorijas sudaro šių savivaldybių teritorijos:
 „14 straipsnis. Įstatymo įgyvendinimas
 
 
-Šis įstatymas įgyvendinamas pagal Lietuvos Respublikos Seimo nutarimą „Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo įgyvendinimo“.
+Šis įstatymas įgyvendinamas pagal Lietuvos Respublikos Seimo nutarimą [„Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo įgyvendinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.A2ACD355C58C).
 
 
 Šio įstatymo 4 straipsnio 2 dalyje nurodytos savivaldybės steigiamos ir 4 bei 5 straipsnių nuostatos įgyvendinamos pagal Teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymą.“
@@ -151,5 +151,5 @@ Pakeitimai:
 
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2001-06-28, Žin., 2001, Nr. 56-1997 (2001-06-30), i. k. 1011000NUTARG011960
-Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo atitikties Lietuvos Respublikos Konstitucijai, taip pat dėl Lietuvos Respublikos Vyriausybės 1999 m. lapkričio 29 d. nutarimo Nr. 1307 "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo įgyvendinimo įstatymo projektų" atitikties Lietuvos Respublikos Konstitucijai, [[latest/TAR.0120FD7BCFFC|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo]] (1999 m. gegužės 4 d. redakcija) 7 bei 13 straipsniams ir [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymo]] (1998 m. lapkričio 17 d. redakcija) 15 straipsnio 30 punktui
+2001-06-28, Žin., 2001, Nr. 56-1997 (2001-06-30), i. k. [1011000NUTARG011960](https://e-tar.lt/portal/lt/legalAct/TAR.CC42DF610277)
+Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymo atitikties Lietuvos Respublikos Konstitucijai, taip pat dėl Lietuvos Respublikos Vyriausybės [1999 m. lapkričio 29 d. nutarimo Nr. 1307](https://e-tar.lt/portal/lt/legalAct/TAR.7F7BEE8A5A61) "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo įgyvendinimo įstatymo projektų" atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo (1999 m. gegužės 4 d. redakcija) 7 bei 13 straipsniams ir Lietuvos Respublikos vietos savivaldos įstatymo (1998 m. lapkričio 17 d. redakcija) 15 straipsnio 30 punktui

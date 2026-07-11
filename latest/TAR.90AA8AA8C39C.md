@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-c921184a9faa18e434753633
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2000 m. birželio 19 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimą dėl tarpusavio pagalbos muitinės veiklos srityje“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimą dėl tarpusavio pagalbos muitinės veiklos srityje, sudarytą 1999 m. kovo 17 d. Vašingtone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2000 m. birželio 19 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimą dėl tarpusavio pagalbos muitinės veiklos srityje“](https://e-tar.lt/portal/lt/legalAct/TAR.D325FDA575EE), ratifikuoja Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimą dėl tarpusavio pagalbos muitinės veiklos srityje, sudarytą 1999 m. kovo 17 d. Vašingtone.
 
 
 

@@ -64,7 +64,7 @@ Pakeisti Įstatymo priedėlį ir jį išdėstyti taip:
 
 
 valstybės politikų ir valstybės pareigūnų
-darbo apmokėjimo įstatymo priedėlis
+[darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) priedėlis
 
 
 

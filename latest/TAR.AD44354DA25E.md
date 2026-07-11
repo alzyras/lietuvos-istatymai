@@ -63,7 +63,7 @@ BENDROSIOS NUOSTATOS
 1. Apdorojimo augalų apsaugos produktais įranga (toliau – apdorojimo įranga) – įtaisų visuma augalams, augaliniams produktams ir (ar) jų laikymo patalpoms, žemės sklypams apdoroti, siekiant sunaikinti kenksminguosius organizmus ir (ar) daryti poveikį augalų gyvybiniams procesams. ^s-e0cc234a6eae02742e05c73a
 
 
-2. Apsauginės medžiagos – kaip apibrėžta reglamento (EB) Nr. 1107/2009 [[#^s-5cddefe23773e07eaa3650d8|2 straipsnio 3 dalies]] a punkte. ^s-1df74968852c9354b37a15eb
+2. Apsauginės medžiagos – kaip apibrėžta [reglamento (EB) Nr. 1107/2009 2 straipsnio 3 dalies a punkte](https://eur-lex.europa.eu/eli/reg/1107/2009/art_2/par_3/lit_a/oj). ^s-1df74968852c9354b37a15eb
 
 
 3. Augalų apsauga – visuma naudojamų cheminių, biologinių augalų apsaugos produktų, metodų, principų ir kitų priemonių, kuriomis siekiama apsaugoti augalus, augalinius produktus, žemės sklypus, taip pat patalpas, pastatus nuo neigiamo kenksmingųjų organizmų poveikio arba sumažinti to poveikio daromą žalą. ^s-5cddefe23773e07eaa3650d8
@@ -75,16 +75,16 @@ BENDROSIOS NUOSTATOS
 5. Augalų apsaugos planas – planavimo dokumentas, kuriame nustatomi augalų apsaugos tikslai, numatyti uždaviniai ir priemonės šiems tikslams pasiekti. ^s-e06340340dfce068fe44aed7
 
 
-6. Augalų apsaugos produktai – kaip apibrėžta reglamento (EB) Nr. 1107/2009 [[#^s-e0cc234a6eae02742e05c73a|2 straipsnio 1 dalyje]]. ^s-350785383ac76be5aa67a2d0
+6. Augalų apsaugos produktai – kaip apibrėžta [reglamento (EB) Nr. 1107/2009 2 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/1107/2009/art_2/par_1/oj). ^s-350785383ac76be5aa67a2d0
 
 
-7. Augalų apsaugos produkto naudojimo reglamentas – augalų apsaugos produkto naudojimo paskirtis ir norma, purškimų skaičius, sąlygos, laikas ir naudojimo apribojimai, kurie nurodomi Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos (toliau – Tarnyba) direktoriaus sprendime įregistruoti augalų apsaugos produktą reglamento (EB) Nr. 1107/2009 nustatyta tvarka ir kurių privaloma laikytis. ^s-a85e027266bd40d173029e9d
+7. Augalų apsaugos produkto naudojimo reglamentas – augalų apsaugos produkto naudojimo paskirtis ir norma, purškimų skaičius, sąlygos, laikas ir naudojimo apribojimai, kurie nurodomi Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos (toliau – Tarnyba) direktoriaus sprendime įregistruoti augalų apsaugos produktą [reglamento (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) nustatyta tvarka ir kurių privaloma laikytis. ^s-a85e027266bd40d173029e9d
 
 
-8. Augalų apsaugos produkto priedas – kaip apibrėžta reglamento (EB) Nr. 1107/2009 [[#^s-5cddefe23773e07eaa3650d8|2 straipsnio 3 dalies]] d punkte. ^s-6ace6abbbeaba7929847cc04
+8. Augalų apsaugos produkto priedas – kaip apibrėžta [reglamento (EB) Nr. 1107/2009 2 straipsnio 3 dalies d punkte](https://eur-lex.europa.eu/eli/reg/1107/2009/art_2/par_3/lit_d/oj). ^s-6ace6abbbeaba7929847cc04
 
 
-9. Augalų apsaugos produkto registravimas – reglamento (EB) Nr. 1107/2009 nustatyta tvarka Tarnybos atliekamas fizinio ar juridinio asmens pateiktos paraiškos ir dokumentų apie augalų apsaugos produktą ir jame esančią vieną ar kelias veikliąsias medžiagas įvertinimas ir sprendimo įregistruoti augalų apsaugos produktą ir suteikti teisę jį tiekti rinkai bei leisti naudoti priėmimas. ^s-b75b1fd1021c20b69fd95852
+9. Augalų apsaugos produkto registravimas – [reglamento (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) nustatyta tvarka Tarnybos atliekamas fizinio ar juridinio asmens pateiktos paraiškos ir dokumentų apie augalų apsaugos produktą ir jame esančią vieną ar kelias veikliąsias medžiagas įvertinimas ir sprendimo įregistruoti augalų apsaugos produktą ir suteikti teisę jį tiekti rinkai bei leisti naudoti priėmimas. ^s-b75b1fd1021c20b69fd95852
 
 
 10. Augalų apsaugos produktų neprofesionalusis naudotojas – fizinis asmuo, įskaitant juridinio asmens darbuotoją, darbdavį, savo neprofesinėje veikloje naudojantis neprofesionaliajam naudojimui skirtus augalų apsaugos produktus. ^s-9fce98d66c74afb86d750771
@@ -102,7 +102,7 @@ BENDROSIOS NUOSTATOS
 14. Augalų apsaugos produktų purškimas iš oro – žemės ir (ar) augalų apipurškimas augalų apsaugos produktais iš orlaivio. ^s-818e244dd71fa54bfd2142a4
 
 
-15. Augalų apsaugos produktų tiekimas rinkai – kaip apibrėžta reglamento (EB) Nr. 1107/2009 3 straipsnio 9 punkte. ^s-b71e15de18d4ef4e35e08ad9
+15. Augalų apsaugos produktų tiekimas rinkai – kaip apibrėžta [reglamento (EB) Nr. 1107/2009 3 straipsnio](https://eur-lex.europa.eu/eli/reg/1107/2009/art_3/oj) 9 punkte. ^s-b71e15de18d4ef4e35e08ad9
 
 
 16. Falsifikuotas augalų apsaugos produktas – augalų apsaugos produktas, kurio: ^s-c9365b5fa599f498493f25ee
@@ -117,28 +117,28 @@ BENDROSIOS NUOSTATOS
 3) kiekybinė ir (ar) kokybinė sudėtis neatitinka Lietuvos Respublikoje registruoto augalų apsaugos produkto sudėties. Ši sąvoka neturi prejudicinės galios nustatant intelektinės nuosavybės teisių pažeidimus. ^s-f277d1ae1cfb4087de1341fe
 
 
-17. Geroji augalų apsaugos produktų veiksmingumo bandymų praktika – kaip apibrėžta reglamento (EB) Nr. 1107/2009 3 straipsnio 20 punkte. ^s-566325b337f8297c3b50ffb3
+17. Geroji augalų apsaugos produktų veiksmingumo bandymų praktika – kaip apibrėžta [reglamento (EB) Nr. 1107/2009 3 straipsnio](https://eur-lex.europa.eu/eli/reg/1107/2009/art_3/oj) 20 punkte. ^s-566325b337f8297c3b50ffb3
 
 
 18. Integruota kenksmingųjų organizmų kontrolė – augalų apsaugos nuo kenksmingųjų organizmų tam tikrų metodų įvertinimas ir parinkimas, ekonomiškai ir ekologiškai pagrįstas augalų apsaugos produktų ir kitų priemonių naudojimas siekiant sustabdyti kenksmingųjų organizmų populiacijos vystymąsi, mažinti riziką žmonių sveikatai ir aplinkai, išauginti sveikus augalus ir kuo mažiau pažeisti ekosistemas. Pirmenybė teikiama necheminiams augalų apsaugos metodams, jei jie apsaugo nuo kenksmingųjų organizmų ir (ar) juos sunaikina. ^s-f121c11a5990d6c66ec40fe7
 
 
-19. Koformuliantai – kaip apibrėžta reglamento (EB) Nr. 1107/2009 [[#^s-5cddefe23773e07eaa3650d8|2 straipsnio 3 dalies]] c punkte. ^s-41db0b6b0bf33c094d49b272
+19. Koformuliantai – kaip apibrėžta [reglamento (EB) Nr. 1107/2009 2 straipsnio 3 dalies c punkte](https://eur-lex.europa.eu/eli/reg/1107/2009/art_2/par_3/lit_c/oj). ^s-41db0b6b0bf33c094d49b272
 
 
 20. Necheminis augalų apsaugos metodas – vietoj cheminių augalų apsaugos produktų naudojamas alternatyvus augalų apsaugos ir kenksmingųjų organizmų kontrolės metodas, pagrįstas žemdirbystės technologijomis, arba fizinis, mechaninis ar biologinis kontrolės metodas. ^s-46cf702d569bed23be7b1513
 
 
-21. Neprofesionaliajam naudojimui skirti augalų apsaugos produktai – reglamento (EB) Nr. 1107/2009 nustatyta tvarka Tarnybos direktoriaus sprendimu įregistruoti augalų apsaugos produktai, kuriuos gali naudoti augalų apsaugos produktų neprofesionalieji naudotojai. Sprendime nurodomas augalų apsaugos produkto naudojimo reglamentas. ^s-2867c355493be7d046d95dcb
+21. Neprofesionaliajam naudojimui skirti augalų apsaugos produktai – [reglamento (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) nustatyta tvarka Tarnybos direktoriaus sprendimu įregistruoti augalų apsaugos produktai, kuriuos gali naudoti augalų apsaugos produktų neprofesionalieji naudotojai. Sprendime nurodomas augalų apsaugos produkto naudojimo reglamentas. ^s-2867c355493be7d046d95dcb
 
 
-22. Profesionaliajam naudojimui skirti augalų apsaugos produktai – reglamento (EB) Nr. 1107/2009 nustatyta tvarka Tarnybos direktoriaus sprendimu Lietuvos Respublikoje įregistruoti augalų apsaugos produktai, kuriuos savo profesinėje veikloje gali naudoti tik augalų apsaugos produktų profesionalieji naudotojai. Sprendime nurodomas augalų apsaugos produkto naudojimo reglamentas. ^s-4c90961761211097e68dc965
+22. Profesionaliajam naudojimui skirti augalų apsaugos produktai – [reglamento (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) nustatyta tvarka Tarnybos direktoriaus sprendimu Lietuvos Respublikoje įregistruoti augalų apsaugos produktai, kuriuos savo profesinėje veikloje gali naudoti tik augalų apsaugos produktų profesionalieji naudotojai. Sprendime nurodomas augalų apsaugos produkto naudojimo reglamentas. ^s-4c90961761211097e68dc965
 
 
-23. Sinergikliai – kaip apibrėžta reglamento (EB) Nr. 1107/2009 [[#^s-5cddefe23773e07eaa3650d8|2 straipsnio 3 dalies]] b punkte. ^s-cbe18ec2a609b9f56f130bed
+23. Sinergikliai – kaip apibrėžta [reglamento (EB) Nr. 1107/2009 2 straipsnio 3 dalies b punkte](https://eur-lex.europa.eu/eli/reg/1107/2009/art_2/par_3/lit_b/oj). ^s-cbe18ec2a609b9f56f130bed
 
 
-24. Veikliosios medžiagos – kaip apibrėžta reglamento (EB) Nr. 1107/2009 [[#^s-1df74968852c9354b37a15eb|2 straipsnio 2 dalyje]]. ^s-ed0375999b56dc3dd6d87ac9
+24. Veikliosios medžiagos – kaip apibrėžta [reglamento (EB) Nr. 1107/2009 2 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/1107/2009/art_2/par_2/oj). ^s-ed0375999b56dc3dd6d87ac9
 
 
 
@@ -165,7 +165,7 @@ GEROSIOS AUGALŲ APSAUGOS PRODUKTŲ VEIKSMINGUMO BANDYMŲ PRAKTIKOS SERTIFIKATAS
 1) fizinis ir juridinis asmuo sumoka valstybės rinkliavą; ^s-1ff66795284230990cbb1527
 
 
-2) fiziniai ir juridiniai asmenys atitinka 2013 m. kovo 1 d. Komisijos reglamento (ES) Nr. 284/2013, kuriuo, remiantis Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1107/2009 dėl augalų apsaugos produktų pateikimo į rinką, nustatomi duomenų apie augalų apsaugos produktus pateikimo reikalavimai (OL 2013 L 93, p. 85) (toliau – reglamentas (ES) Nr. 284/2013), priedo 3.2 ir 3.3 papunkčiuose nustatytus reikalavimus; ^s-2cc470eb16c921a8398c3957
+2) fiziniai ir juridiniai asmenys atitinka 2013 m. kovo 1 d. Komisijos reglamento (ES) Nr. 284/2013, kuriuo, remiantis Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) dėl augalų apsaugos produktų pateikimo į rinką, nustatomi duomenų apie augalų apsaugos produktus pateikimo reikalavimai (OL 2013 L 93, p. 85) (toliau – reglamentas (ES) Nr. 284/2013), priedo 3.2 ir 3.3 papunkčiuose nustatytus reikalavimus; ^s-2cc470eb16c921a8398c3957
 
 
 3) fizinių ir juridinių asmenų parengtos standartinės darbo metodikos Lietuvos Respublikoje neregistruotų ir (ar) Lietuvos Respublikoje registruotų augalų apsaugos produktų veiksmingumo bandymams atlikti atitinka žemės ūkio ministro tvirtinamose Gerosios augalų apsaugos produktų veiksmingumo bandymų praktikos taisyklėse nustatytus reikalavimus; ^s-d056e1dbcbf62623051f16c4
@@ -248,10 +248,10 @@ TIEKIMAS RINKAI, ĮVEŽIMAS
 ### 5 straipsnis. Augalų apsaugos produktų registravimas ^s-31166f440020ee6c388fc6e2
 
 
-1. Tarnyba augalų apsaugos produktus registruoja, registraciją atnaujina, pakeičia, panaikina, apriboja ar ją uždraudžia, keičia augalų apsaugos produkto naudojimo sąlygas, rengia veikliųjų medžiagų vertinimo ataskaitų projektus ir atlieka kitus veiksmus, susijusius su augalų apsaugos produktų registravimu, reglamento (EB) Nr. 1107/2009 nustatytais atvejais ir tvarka. Tarnyba, priėmusi sprendimą registruoti augalų apsaugos produktą, fiziniam ar juridiniam asmeniui, pateikusiam paraišką įregistruoti augalų apsaugos produktą, išduoda augalų apsaugos produkto registracijos liudijimą. ^s-fe910064961647f3f4f570e3
+1. Tarnyba augalų apsaugos produktus registruoja, registraciją atnaujina, pakeičia, panaikina, apriboja ar ją uždraudžia, keičia augalų apsaugos produkto naudojimo sąlygas, rengia veikliųjų medžiagų vertinimo ataskaitų projektus ir atlieka kitus veiksmus, susijusius su augalų apsaugos produktų registravimu, [reglamento (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) nustatytais atvejais ir tvarka. Tarnyba, priėmusi sprendimą registruoti augalų apsaugos produktą, fiziniam ar juridiniam asmeniui, pateikusiam paraišką įregistruoti augalų apsaugos produktą, išduoda augalų apsaugos produkto registracijos liudijimą. ^s-fe910064961647f3f4f570e3
 
 
-2. Tarnybos direktoriaus sprendimai dėl augalų apsaugos produktų registravimo, registravimo atnaujinimo, pakeitimo, panaikinimo, apribojimo ar jo uždraudimo, augalų apsaugos produkto naudojimo reglamento keitimo ir kiti sprendimai, susiję su augalų apsaugos produktų registravimu reglamento (EB) Nr. 1107/2009 nustatytais atvejais ir tvarka, skelbiami Tarnybos interneto svetainėje. ^s-6d8e961573fe866d3658709e
+2. Tarnybos direktoriaus sprendimai [dėl augalų apsaugos produktų registravimo](https://e-tar.lt/portal/lt/legalAct/TAR.60998DB10461), registravimo atnaujinimo, pakeitimo, panaikinimo, apribojimo ar jo uždraudimo, augalų apsaugos produkto naudojimo reglamento keitimo ir kiti sprendimai, susiję su augalų apsaugos produktų registravimu [reglamento (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) nustatytais atvejais ir tvarka, skelbiami Tarnybos interneto svetainėje. ^s-6d8e961573fe866d3658709e
 
 
 3. Žemės ūkio ministras sudaro Augalų apsaugos produktų registracijos patariamąjį komitetą ir tvirtina jo darbo reglamentą. Į Augalų apsaugos produktų registracijos patariamojo komiteto sudėtį įtraukiami viešojo administravimo subjektai, mokslo ir studijų, asociacijų atstovai, neatlygintinai teikiantys Tarnybai moksliniais tyrimais pagrįstus siūlymus dėl augalų apsaugos produktų registracijos. ^s-7762389d8e9031bfb75cc345
@@ -261,13 +261,13 @@ TIEKIMAS RINKAI, ĮVEŽIMAS
 ### 6 straipsnis. Augalų apsaugos produktų įvežimo į Lietuvos Respubliką iš Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių ir tiekimo rinkai reikalavimai ^s-450dc33d5dd8a236b98d997d
 
 
-1. Įvežti į Lietuvos Respubliką iš Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių, vežti, saugoti, tiekti rinkai Lietuvos Respublikoje leidžiama tik reglamento (EB) Nr. 1107/2009 nustatyta tvarka Lietuvos Respublikoje registruotus augalų apsaugos produktus, išskyrus reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalyje ir 53 straipsnyje nustatytas išimtis. ^s-240a6c8cfffe617a6af7fdff
+1. Įvežti į Lietuvos Respubliką iš Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių, vežti, saugoti, tiekti rinkai Lietuvos Respublikoje leidžiama tik [reglamento (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) nustatyta tvarka Lietuvos Respublikoje registruotus augalų apsaugos produktus, išskyrus [reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/1107/2009/art_28/par_2/oj) ir 53 straipsnyje nustatytas išimtis. ^s-240a6c8cfffe617a6af7fdff
 
 
-2. Lietuvos Respublikoje registruoti augalų apsaugos produktai reklamuojami reglamento (EB) Nr. 1107/2009 ir [[latest/TAR.2A629A227788|Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo]] nustatyta tvarka. Draudžiama reklamuoti Lietuvos Respublikoje neregistruotus augalų apsaugos produktus. ^s-af0cd30ee223ae1425b68dbd
+2. Lietuvos Respublikoje registruoti augalų apsaugos produktai reklamuojami [reglamento (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) ir [[latest/TAR.2A629A227788|Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo]] nustatyta tvarka. Draudžiama reklamuoti Lietuvos Respublikoje neregistruotus augalų apsaugos produktus. ^s-af0cd30ee223ae1425b68dbd
 
 
-3. Tiekiami rinkai augalų apsaugos produktai privalo būti supakuoti, suklasifikuoti ir paženklinti [[latest/TAR.2A629A227788|Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo]] nustatyta tvarka. Ženklinimas turi atitikti 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1272/2008 dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiančio ir panaikinančio direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiančio Reglamentą (EB) Nr. 1907/2006 (OL 2008 L 353, p. 1), su paskutiniais pakeitimais, padarytais 2014 m. gruodžio 5 d. Komisijos reglamentu (ES) Nr. 1297/2014 (OL 2014 L 350, p. 1) ir 2011 m. birželio 8 d. Komisijos reglamento (ES) Nr. 547/2011, kuriuo dėl augalų apsaugos produktų ženklinimo reikalavimų įgyvendinamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2009 (OL 2011 L 155, p. 176), su paskutiniais pakeitimais, padarytais 2013 m. vasario 21 d. Komisijos reglamentu (ES) Nr. 519/2013 (OL 2013 L 158, p. 74), I priede nustatytus reikalavimus. ^s-ccc62dd0df2ba74e1653f169
+3. Tiekiami rinkai augalų apsaugos produktai privalo būti supakuoti, suklasifikuoti ir paženklinti [[latest/TAR.2A629A227788|Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo]] nustatyta tvarka. Ženklinimas turi atitikti 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiančio ir panaikinančio direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiančio [Reglamentą (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) (OL 2008 L 353, p. 1), su paskutiniais pakeitimais, padarytais 2014 m. gruodžio 5 d. Komisijos [reglamentu (ES) Nr. 1297/2014](https://eur-lex.europa.eu/eli/reg/1297/2014/oj) (OL 2014 L 350, p. 1) ir 2011 m. birželio 8 d. Komisijos reglamento (ES) Nr. 547/2011, kuriuo dėl augalų apsaugos produktų ženklinimo reikalavimų įgyvendinamas Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) (OL 2011 L 155, p. 176), su paskutiniais pakeitimais, padarytais 2013 m. vasario 21 d. Komisijos reglamentu (ES) Nr. 519/2013 (OL 2013 L 158, p. 74), I priede nustatytus reikalavimus. ^s-ccc62dd0df2ba74e1653f169
 
 
 4. Fiziniai ir juridiniai asmenys, gaminantys augalų apsaugos produktus, juos įvežantys, išvežantys, saugantys ar tiekiantys rinkai, privalo tvarkyti savo gaminamų, įvežamų, išvežamų, saugomų ar tiekiamų rinkai augalų apsaugos produktų apskaitą ir penkerius metus saugoti šios apskaitos dokumentus bei Tarnybos ar kitų institucijų, atsakingų už teisės aktuose pavestų funkcijų atlikimą augalų apsaugos produktų srityje, reikalavimu pateikti joms šios apskaitos duomenis ir dokumentus. ^s-44c2e6ec27ab2de7392aa3af
@@ -338,7 +338,7 @@ TIEKIMAS RINKAI, ĮVEŽIMAS
 1) vykdyti veiklą augalų apsaugos produktų platinimo leidime nurodytoje vietoje; ^s-12ede3fdd54923941c66ad7d
 
 
-2) laikytis augalų apsaugos produktų įvežimo, vežimo, saugojimo, tiekimo rinkai, jų reklamavimo reikalavimų, nustatytų šio įstatymo [[#^s-450dc33d5dd8a236b98d997d|6 straipsnio]] 1, 2 ir [[#^s-93e88b57ee3851dead87cb95|3 dalyse]]; ^s-73058867621488df961e57fc
+2) laikytis augalų apsaugos produktų įvežimo, vežimo, saugojimo, tiekimo rinkai, jų reklamavimo reikalavimų, nustatytų šio įstatymo [[#^s-450dc33d5dd8a236b98d997d|6 straipsnio]] [[#^s-240a6c8cfffe617a6af7fdff|1]], [[#^s-af0cd30ee223ae1425b68dbd|2]] ir [[#^s-ccc62dd0df2ba74e1653f169|3]] dalyse; ^s-73058867621488df961e57fc
 
 
 3) tvarkyti augalų apsaugos produktų apskaitą Augalų apsaugos produktų saugojimo, tiekimo rinkai, naudojimo taisyklėse, kurias tvirtina žemės ūkio ministras, suderinęs su aplinkos ministru ir sveikatos apsaugos ministru, nustatyta tvarka; ^s-9c6939b843b3f4cb04ea662f
@@ -350,7 +350,7 @@ TIEKIMAS RINKAI, ĮVEŽIMAS
 5) užtikrinti, kad, parduodant neprofesionaliajam naudojimui skirtus augalų apsaugos produktus, pirkėjams būtų suteikta informacija, nurodyta šių augalų apsaugos produktų etiketėje, kurioje pateikta informacija turi atitikti augalų apsaugos produkto registracijos liudijime nurodytus reikalavimus, taip pat informacija apie šių augalų apsaugos produktų naudojimo keliamą riziką žmonių sveikatai ir aplinkai, tinkamą apsaugą, saugojimą, tvarkymą, naudojimą ir saugų šalinimą bei informacija apie mažesnį pavojų žmonių sveikatai ir aplinkai keliančius alternatyvius augalų apsaugos produktus; ^s-bb91c10efe8c9ce9e6270a4f
 
 
-6) parduodamus profesionaliajam naudojimui skirtus augalų apsaugos produktus, klasifikuojamus dėl fizinio poveikio, pavojaus sveikatai ar aplinkai reglamento (EB) Nr. 1272/2008 nustatyta tvarka, pardavėjas privalo pirkėjui pateikti saugos duomenų lapo, parengto pagal 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. kovo 2 d. Komisijos reglamentu (ES) 2015/326 (OL 2015 L 58, p. 43), 31 straipsnyje išdėstytus reikalavimus, kopiją; ^s-fb9fa76bbdc531e150b7b024
+6) parduodamus profesionaliajam naudojimui skirtus augalų apsaugos produktus, klasifikuojamus dėl fizinio poveikio, pavojaus sveikatai ar aplinkai [reglamento (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nustatyta tvarka, pardavėjas privalo pirkėjui pateikti saugos duomenų lapo, parengto pagal 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos [reglamentą (EB) Nr. 1488/94](https://eur-lex.europa.eu/eli/reg/1488/94/oj), Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. kovo 2 d. Komisijos [reglamentu (ES) 2015/326](https://eur-lex.europa.eu/eli/reg/2015/326/oj) (OL 2015 L 58, p. 43), 31 straipsnyje išdėstytus reikalavimus, kopiją; ^s-fb9fa76bbdc531e150b7b024
 
 
 7) laikytis teisės aktuose nustatytų darbuotojų saugos ir sveikatos, asmeninės apsaugos, aplinkos apsaugos, sveikatos priežiūros, bendrųjų priešgaisrinės saugos, atliekų tvarkymo, veiklos, susijusios su nuodingosiomis medžiagomis, reikalavimų; ^s-ecc668cb1bae3b7a5a6bad6e
@@ -369,10 +369,10 @@ TIEKIMAS RINKAI, ĮVEŽIMAS
 ### 9 straipsnis. Augalų apsaugos produktų įvežimo į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių, vežimo, saugojimo ir tiekimo rinkai reikalavimai ^s-952d1915093a3e8c77409820
 
 
-1. Įvežti į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių, vežti, saugoti, tiekti rinkai Lietuvos Respublikoje leidžiama tik reglamento (EB) Nr. 1107/2009 nustatyta tvarka Lietuvos Respublikoje registruotus augalų apsaugos produktus, kurių kodas pagal Kombinuotąją nomenklatūrą (KN) – ex 3808, išskyrus reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies a, b, c, d punktuose ir 53 straipsnyje nustatytas išimtis. ^s-c70320ccb012aa724dacba88
+1. Įvežti į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių, vežti, saugoti, tiekti rinkai Lietuvos Respublikoje leidžiama tik [reglamento (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) nustatyta tvarka Lietuvos Respublikoje registruotus augalų apsaugos produktus, kurių kodas pagal Kombinuotąją nomenklatūrą (KN) – ex 3808, išskyrus [reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies](https://eur-lex.europa.eu/eli/reg/1107/2009/art_28/par_2/oj) a, b, c, d punktuose ir 53 straipsnyje nustatytas išimtis. ^s-c70320ccb012aa724dacba88
 
 
-2. Asmenys, įvežantys į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių augalų apsaugos produktus, turi turėti vienkartinį leidimą įvežti į Lietuvos Respubliką augalų apsaugos produktus iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių (toliau – įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinis leidimas), išskyrus reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies a punkte nustatytą išimtį. Tarnyba tikrina įvežamus į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių augalų apsaugos produktus Augalų apsaugos produktų įvežimo, vežimo taisyklėse, kurias tvirtina žemės ūkio ministras, suderinęs su finansų ministru ir susisiekimo ministru, nustatyta tvarka. ^s-53619fd9a283e90ab2b6af1b
+2. Asmenys, įvežantys į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių augalų apsaugos produktus, turi turėti vienkartinį leidimą įvežti į Lietuvos Respubliką augalų apsaugos produktus iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių (toliau – įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinis leidimas), išskyrus [reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies a punkte](https://eur-lex.europa.eu/eli/reg/1107/2009/art_28/par_2/lit_a/oj) nustatytą išimtį. Tarnyba tikrina įvežamus į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių augalų apsaugos produktus Augalų apsaugos produktų įvežimo, vežimo taisyklėse, kurias tvirtina žemės ūkio ministras, suderinęs su finansų ministru ir susisiekimo ministru, nustatyta tvarka. ^s-53619fd9a283e90ab2b6af1b
 
 
 
@@ -434,10 +434,10 @@ TIEKIMAS RINKAI, ĮVEŽIMAS
 2) tvarkyti įvežamų į Lietuvos Respubliką augalų apsaugos produktų apskaitą ir penkerius metus saugoti šios apskaitos dokumentus bei Tarnybos ar kitų institucijų, atsakingų už teisės aktuose pavestų funkcijų atlikimą augalų apsaugos produktų srityje, reikalavimu pateikti joms šios apskaitos duomenis ir dokumentus; ^s-e0be83e4039733f47578f4c7
 
 
-3) augalų apsaugos produktus įvežti į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių supakuotus, suklasifikuotus ir paženklintus pagal [[latest/TAR.2A629A227788|Lietuvos Respublikos cheminių medžiagų ir preparatų įstatyme]], reglamento (ES) Nr. 547/2011 I priede ir reglamente (EB) Nr. 1272/2008 nustatytus reikalavimus; ^s-d3cf7edec51d3e5f33f9d8e1
+3) augalų apsaugos produktus įvežti į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių supakuotus, suklasifikuotus ir paženklintus pagal [[latest/TAR.2A629A227788|Lietuvos Respublikos cheminių medžiagų ir preparatų įstatyme]], reglamento (ES) Nr. 547/2011 I priede ir [reglamente (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nustatytus reikalavimus; ^s-d3cf7edec51d3e5f33f9d8e1
 
 
-4) įvežti į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių augalų apsaugos produktus tik per pasienio kontrolės punktus, kuriuose yra įsteigti fitosanitarijos postai. Tais atvejais, kai augalų apsaugos produktai į Lietuvos Respubliką įvežami iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių per kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teritoriją, įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo turėtojas privalo pateikti Tarnybos išduotą vienkartinį leidimą Tarnybos pareigūnui augalų apsaugos produktų krovinio paskirties vietoje prieš atliekant augalų apsaugos produktų krovinio išleidimo į laisvą apyvartą muitinės procedūras. Augalų apsaugos produktų, išskyrus reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies c ir d punktuose numatytus atvejus, krovinio išleidimo į laisvą apyvartą muitinės procedūros atliekamos tik Tarnybos pareigūnams nustačius įvežamų į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių augalų apsaugos produktų atitiktį Lietuvos Respublikoje registruotam augalų apsaugos produktui, išskyrus reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies a ir b punktuose ar 53 straipsnyje nurodytą (nurodytas) išimtį (išimtis). ^s-efa741982392b2acb9c3fe98
+4) įvežti į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių augalų apsaugos produktus tik per pasienio kontrolės punktus, kuriuose yra įsteigti fitosanitarijos postai. Tais atvejais, kai augalų apsaugos produktai į Lietuvos Respubliką įvežami iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių per kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teritoriją, įvežimo iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių vienkartinio leidimo turėtojas privalo pateikti Tarnybos išduotą vienkartinį leidimą Tarnybos pareigūnui augalų apsaugos produktų krovinio paskirties vietoje prieš atliekant augalų apsaugos produktų krovinio išleidimo į laisvą apyvartą muitinės procedūras. Augalų apsaugos produktų, išskyrus [reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies](https://eur-lex.europa.eu/eli/reg/1107/2009/art_28/par_2/oj) c ir d punktuose numatytus atvejus, krovinio išleidimo į laisvą apyvartą muitinės procedūros atliekamos tik Tarnybos pareigūnams nustačius įvežamų į Lietuvos Respubliką iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių augalų apsaugos produktų atitiktį Lietuvos Respublikoje registruotam augalų apsaugos produktui, išskyrus [reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies](https://eur-lex.europa.eu/eli/reg/1107/2009/art_28/par_2/oj) a ir b punktuose ar 53 straipsnyje nurodytą (nurodytas) išimtį (išimtis). ^s-efa741982392b2acb9c3fe98
 
 
 
@@ -506,7 +506,7 @@ AUGALŲ APSAUGOS PRODUKTŲ NAUDOJIMAS, VISUOMENĖS INFORMAVIMAS
 3. [[#^s-1d9757a4e1c0c4eed4cfcce2|Šio straipsnio 1 dalyje]] nurodytiems asmenims reikalavimas išklausyti augalų apsaugos mokymo kursus ir išlaikyti žinių patikrinimo testą netaikomas, jeigu jie turi dokumentą, kuris išduotas ne vėliau kaip prieš penkerius metus ir kuriuo patvirtinama agronomo kvalifikacija. Šiems asmenims augalų apsaugos pažymėjimas išduodamas žemės ūkio ministro ar jo įgaliotos institucijos nustatyta tvarka. ^s-bb9999c9c62d7aeb8602304d
 
 
-4. Šio straipsnio 1 ir [[#^s-bb9999c9c62d7aeb8602304d|3 dalyse]] nurodyti asmenys privalo ne rečiau kaip kartą per penkerius metus tobulinti kvalifikaciją. Kvalifikacijos tobulinimo programas tvirtina žemės ūkio ministras ar jo įgaliota institucija, suderinę su aplinkos ministru ar jo įgaliota institucija ir sveikatos apsaugos ministru ar jo įgaliota institucija. ^s-56a7536a69a219e3022a6d33
+4. Šio straipsnio [[#^s-1d9757a4e1c0c4eed4cfcce2|1]] ir [[#^s-bb9999c9c62d7aeb8602304d|3]] dalyse nurodyti asmenys privalo ne rečiau kaip kartą per penkerius metus tobulinti kvalifikaciją. Kvalifikacijos tobulinimo programas tvirtina žemės ūkio ministras ar jo įgaliota institucija, suderinę su aplinkos ministru ar jo įgaliota institucija ir sveikatos apsaugos ministru ar jo įgaliota institucija. ^s-56a7536a69a219e3022a6d33
 
 
 
@@ -568,7 +568,7 @@ AUGALŲ APSAUGOS PRODUKTŲ NAUDOJIMAS, VISUOMENĖS INFORMAVIMAS
 1. Draudžiama saugoti platinimo tikslais ir (ar) platinti augalų apsaugos produktus gyvenamosios paskirties pastatuose ar jų patalpose. ^s-92a293a16015b9acbc89bc42
 
 
-2. Atskirųjų želdynų, bendrojo naudojimo (miestų, miestelių ir kaimų ar savivaldybių bendrojo naudojimo) teritorijose, išskyrus botanikos sodus, visuomeninės paskirties (mokslo paskirties pastatų, gydymo paskirties pastatų, sporto paskirties pastatų, sporto inžinerinių statinių) teritorijose, leidžiama naudoti augalų apsaugos produktus, kurių sudėtyje esančios veikliosios medžiagos yra nedidelės rizikos, kaip apibrėžta reglamento (EB) Nr. 1107/2009 II priedo [[#^s-f1536c9f129c4aed2ecf73c0|5 dalyje]]. ^s-0bb8402dbd30ea9e98068ea6
+2. Atskirųjų želdynų, bendrojo naudojimo (miestų, miestelių ir kaimų ar savivaldybių bendrojo naudojimo) teritorijose, išskyrus botanikos sodus, visuomeninės paskirties (mokslo paskirties pastatų, gydymo paskirties pastatų, sporto paskirties pastatų, sporto inžinerinių statinių) teritorijose, leidžiama naudoti augalų apsaugos produktus, kurių sudėtyje esančios veikliosios medžiagos yra nedidelės rizikos, kaip apibrėžta [reglamento (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) II priedo [[#^s-f1536c9f129c4aed2ecf73c0|5 dalyje]]. ^s-0bb8402dbd30ea9e98068ea6
 
 
 3. Mėgėjų sodų žemės sklypuose, sodininkų bendrijų bendrojo naudojimo žemės sklypuose, rekreacinio naudojimo žemės sklypuose, rekreacinėse teritorijose, komercinės paskirties objektų teritorijose, daugiabučių gyvenamųjų pastatų ir bendrabučių teritorijose draudžiama naudoti profesionaliajam naudojimui skirtus augalų apsaugos produktus. ^s-4ee02c3af73ade09000bcc10
@@ -586,7 +586,7 @@ AUGALŲ APSAUGOS PRODUKTŲ NAUDOJIMAS, VISUOMENĖS INFORMAVIMAS
 1) kenksmingųjų organizmų kitais būdais neįmanoma sunaikinti ar kontroliuoti jų plitimo naudojant antžeminę apdorojimo įrangą. Purškiant augalų apsaugos produktus iš oro, poveikis žmonių sveikatai ir aplinkai turi būti mažesnis, negu naudojant antžeminę apdorojimo įrangą; ^s-076c4acc088acb9682c36802
 
 
-2) Tarnyba įvertina konkretaus augalų apsaugos produkto, kuris reglamento (EB) Nr. 1107/2009 nustatyta tvarka įregistruotas Lietuvos Respublikoje, keliamą riziką, purškiant jį iš oro, ir patvirtina, kad galima jį purkšti iš oro; ^s-99301facd349b319afa1ae7a
+2) Tarnyba įvertina konkretaus augalų apsaugos produkto, kuris [reglamento (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) nustatyta tvarka įregistruotas Lietuvos Respublikoje, keliamą riziką, purškiant jį iš oro, ir patvirtina, kad galima jį purkšti iš oro; ^s-99301facd349b319afa1ae7a
 
 
 3) augalų apsaugos produktų operatorius, purškiantis augalų apsaugos produktus iš oro, turi augalų apsaugos pažymėjimą ar kitą jam prilyginamą Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje išduotą pažymėjimą; ^s-0b85d4750e4b503483e45f44
@@ -617,7 +617,7 @@ AUGALŲ APSAUGOS PRODUKTŲ NAUDOJIMAS, VISUOMENĖS INFORMAVIMAS
 1) fizinis ar juridinis asmuo sumoka valstybės rinkliavą; ^s-f0ed122621b418debccb9a1a
 
 
-2) fizinis ar juridinis asmuo atitinka sąlygas, nurodytas šio įstatymo [[#^s-91cb3a007971b3c43adb5755|17 straipsnio 6 dalies]] 3 ir 4 punktuose, ir turi dokumentus, kuriais patvirtinama, kad yra įvykdytos sąlygos, nurodytos šio įstatymo [[#^s-91cb3a007971b3c43adb5755|17 straipsnio 6 dalies]] 5 ir 6 punktuose; ^s-3ef74133abdee5baf9cab20f
+2) fizinis ar juridinis asmuo atitinka sąlygas, nurodytas šio įstatymo [[#^s-91cb3a007971b3c43adb5755|17 straipsnio 6 dalies]] [[#^s-0b85d4750e4b503483e45f44|3]] ir [[#^s-29e965058d9eab8f433b785e|4]] punktuose, ir turi dokumentus, kuriais patvirtinama, kad yra įvykdytos sąlygos, nurodytos šio įstatymo [[#^s-91cb3a007971b3c43adb5755|17 straipsnio 6 dalies]] [[#^s-ccbde29a8f22bf94814a17c3|5]] ir [[#^s-5579e5f2dd7ad449afecfd16|6]] punktuose; ^s-3ef74133abdee5baf9cab20f
 
 
 3) fizinis ar juridinis asmuo prašyme išduoti vienkartinį leidimą įsipareigoja įspėti visuomenę Augalų apsaugos produktų saugojimo, tiekimo rinkai, naudojimo taisyklėse nustatyta tvarka apie augalų apsaugos produktų purškimo iš oro vietą ir laiką, taip pat taikyti specialias rizikos valdymo priemones, nurodytas augalų apsaugos produktų etiketėje, kad būtų apsaugota aplinka ir žmonių sveikata nuo neigiamo augalų apsaugos produktų poveikio. ^s-c6f33a71f65d4cb6c9ef2031
@@ -711,7 +711,7 @@ FIZINIŲ IR JURIDINIŲ ASMENŲ VEIKLOS PRIEŽIŪRA
 7) Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka pradėti administracinių nusižengimų teiseną, atlikti administracinių nusižengimų tyrimą ir surašyti administracinių nusižengimų protokolus; ^s-beae43e17cfb67c89115e321
 
 
-8) atlikti kitas reglamente (EB) Nr. 1107/2009 nurodytas funkcijas. ^s-f4e87bc9e218cf478c4276e7
+8) atlikti kitas [reglamente (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) nurodytas funkcijas. ^s-f4e87bc9e218cf478c4276e7
 
 
 
@@ -750,19 +750,19 @@ Nr. XIV-1578, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25128
 Tarnyba:
 
 
-1) vertina, ar augalų apsaugos produktas ir jo sudėtyje esančios veikliosios medžiagos, apsauginės medžiagos, sinergikliai, koformuliantai atitinka reglamento (EB) Nr. 1107/2009 [[#^s-f9f217d24f44081dceaf4575|29 straipsnyje]] nurodytus reikalavimus, augalų apsaugos produktus registruoja, registraciją atnaujina, pakeičia, panaikina, apriboja ar ją uždraudžia, keičia augalų apsaugos produkto naudojimo reglamentą, rengia veikliųjų medžiagų vertinimo ataskaitų projektus ir atlieka kitas reglamente (EB) Nr. 1107/2009 nurodytas funkcijas; ^s-d9224d51143490233071e785
+1) vertina, ar augalų apsaugos produktas ir jo sudėtyje esančios veikliosios medžiagos, apsauginės medžiagos, sinergikliai, koformuliantai atitinka [reglamento (EB) Nr. 1107/2009 29 straipsnyje](https://eur-lex.europa.eu/eli/reg/1107/2009/art_29/oj) nurodytus reikalavimus, augalų apsaugos produktus registruoja, registraciją atnaujina, pakeičia, panaikina, apriboja ar ją uždraudžia, keičia augalų apsaugos produkto naudojimo reglamentą, rengia veikliųjų medžiagų vertinimo ataskaitų projektus ir atlieka kitas [reglamente (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) nurodytas funkcijas; ^s-d9224d51143490233071e785
 
 
-2) registruoja augalų apsaugos produktų priedus reglamento (EB) Nr. 1107/2009 58 straipsnyje nustatyta tvarka; ^s-2737952cdd76735f5cd178a2
+2) registruoja augalų apsaugos produktų priedus [reglamento (EB) Nr. 1107/2009 58 straipsnyje](https://eur-lex.europa.eu/eli/reg/1107/2009/art_58/oj) nustatyta tvarka; ^s-2737952cdd76735f5cd178a2
 
 
-3) koordinuoja ir užtikrina ryšius su fiziniais ir juridiniais asmenimis, pateikusiais paraišką įregistruoti augalų apsaugos produktą, registravimą atnaujinti, pakeisti, panaikinti, keisti augalų apsaugos produkto naudojimo sąlygas, įvertinti veikliąsias medžiagas ir (ar) atlikti kitus reglamente (EB) Nr. 1107/2009 nurodytus veiksmus, taip pat su kitomis Europos Sąjungos valstybėmis narėmis, Europos ekonominės erdvės valstybėmis, Europos Komisija ir Europos maisto saugos tarnyba; ^s-92a656bb16a8f3408318f791
+3) koordinuoja ir užtikrina ryšius su fiziniais ir juridiniais asmenimis, pateikusiais paraišką įregistruoti augalų apsaugos produktą, registravimą atnaujinti, pakeisti, panaikinti, keisti augalų apsaugos produkto naudojimo sąlygas, įvertinti veikliąsias medžiagas ir (ar) atlikti kitus [reglamente (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) nurodytus veiksmus, taip pat su kitomis Europos Sąjungos valstybėmis narėmis, Europos ekonominės erdvės valstybėmis, Europos Komisija ir Europos maisto saugos tarnyba; ^s-92a656bb16a8f3408318f791
 
 
-4) išduoda leidimus prekiauti tapačiais Lietuvos Respublikoje registruotiems augalų apsaugos produktams augalų apsaugos produktais, tiekti augalų apsaugos produktus rinkai ir juos naudoti ne ilgesnį kaip 120 dienų laikotarpį, mokslinių tyrimų ar technologinės plėtros tikslais atlikti eksperimentus ar bandymus su Lietuvos Respublikoje neregistruotais augalų apsaugos produktais reglamento (EB) Nr. 1107/2009 atitinkamai 52, 53 ir 54 straipsniuose nustatytais atvejais ir tvarka; ^s-d12404431230c676a57ae863
+4) išduoda leidimus prekiauti tapačiais Lietuvos Respublikoje registruotiems augalų apsaugos produktams augalų apsaugos produktais, tiekti augalų apsaugos produktus rinkai ir juos naudoti ne ilgesnį kaip 120 dienų laikotarpį, mokslinių tyrimų ar technologinės plėtros tikslais atlikti eksperimentus ar bandymus su Lietuvos Respublikoje neregistruotais augalų apsaugos produktais [reglamento (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) atitinkamai 52, 53 ir 54 straipsniuose nustatytais atvejais ir tvarka; ^s-d12404431230c676a57ae863
 
 
-5) panaikina leidimų prekiauti tapačiais Lietuvos Respublikoje registruotiems augalų apsaugos produktams augalų apsaugos produktais galiojimą reglamento (EB) Nr. 1107/2009 44 straipsnio 3 dalyje ir 45 straipsnyje nustatytais atvejais; ^s-98d9730940960711ea9d32a6
+5) panaikina leidimų prekiauti tapačiais Lietuvos Respublikoje registruotiems augalų apsaugos produktams augalų apsaugos produktais galiojimą [reglamento (EB) Nr. 1107/2009 44 straipsnio 3 dalyje](https://eur-lex.europa.eu/eli/reg/1107/2009/art_44/par_3/oj) ir 45 straipsnyje nustatytais atvejais; ^s-98d9730940960711ea9d32a6
 
 
 6) išduoda GBP sertifikatus, įspėja apie šių sertifikatų galiojimo sustabdymą, sustabdo jų galiojimą, panaikina jų galiojimo sustabdymą, panaikina jų galiojimą; ^s-b9410e79b1750066d4f1cc16
@@ -810,27 +810,27 @@ Nr. XIV-296, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11765
 
 
 1. Tarnyba už Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus Reglamento 2009/1107/EB 28 straipsnio 2 dalies a, b, c, d punktuose ir 53 straipsnyje nurodytas išimtis, įvežimą į Lietuvos Respubliką iš Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių ar iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių, tiekimą rinkai juridiniams asmenims skiria nuo 5 iki 7 procentų bendrųjų metinių pajamų baudą. Juridiniams asmenims, pakartotinai per vienus metus nuo nutarimo skirti baudą įsiteisėjimo dienos padariusiems pažeidimą, už kurį buvo paskirta šioje dalyje nurodyta bauda, Tarnyba skiria nuo 8 iki 10 procentų bendrųjų metinių pajamų baudą. ^s-4902c375a3386287183420e2
-TAR pastaba. Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) Tarnyboje pradėtos pažeidimų, kurie atitinka [[#^s-4902c375a3386287183420e2|25  straipsnio 1 dalyje]] nustatytus požymius, tyrimo procedūros baigiamos pagal iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) galiojusius teisės aktus.
-Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) padarytiems pažeidimams, kurie atitinka [[#^s-4902c375a3386287183420e2|25 straipsnio 1 dalyje]] nustatytus požymius, taikomos iki įstatymo Nr. V-296 įsigaliojimo (2021-11-01) galiojusios nuostatos.
-Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) padarytiems pažeidimams, kurie atitinka [[#^s-4902c375a3386287183420e2|25 straipsnio 1 dalyje]] nustatytus požymius, pradėtiems daryti iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) ir besitęsiantiems (trunkantiems) galiojant šiam įstatymui, taikomos šio įstatymo nuostatos.
+TAR pastaba. Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) Tarnyboje pradėtos pažeidimų, kurie atitinka 25  straipsnio 1 dalyje nustatytus požymius, tyrimo procedūros baigiamos pagal iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) galiojusius teisės aktus.
+Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) padarytiems pažeidimams, kurie atitinka 25 straipsnio 1 dalyje nustatytus požymius, taikomos iki įstatymo Nr. V-296 įsigaliojimo (2021-11-01) galiojusios nuostatos.
+Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) padarytiems pažeidimams, kurie atitinka 25 straipsnio 1 dalyje nustatytus požymius, pradėtiems daryti iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) ir besitęsiantiems (trunkantiems) galiojant šiam įstatymui, taikomos šio įstatymo nuostatos.
 
 
 2. Tarnyba už augalų apsaugos produktų, netapačių Lietuvos Respublikoje registruotiems augalų apsaugos produktams, įvežimą į Lietuvos Respubliką iš Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių ar iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių, tiekimą rinkai juridiniams asmenims skiria nuo 7 iki 9 procentų bendrųjų metinių pajamų baudą. Juridiniams asmenims, pakartotinai per vienus metus nuo nutarimo skirti baudą įsiteisėjimo dienos padariusiems pažeidimą, už kurį buvo paskirta šioje dalyje nurodyta bauda, Tarnyba skiria nuo 10 iki 12 procentų bendrųjų metinių pajamų baudą. ^s-c6691eb8b74c7086ebca07e9
-TAR pastaba. Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) Tarnyboje pradėtos pažeidimų, kurie atitinka [[#^s-c6691eb8b74c7086ebca07e9|25  straipsnio 2 dalyje]] nustatytus požymius, tyrimo procedūros baigiamos pagal iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) galiojusius teisės aktus.
-Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) padarytiems pažeidimams, kurie atitinka [[#^s-c6691eb8b74c7086ebca07e9|25 straipsnio 2 dalyje]] nustatytus požymius, taikomos iki įstatymo Nr. V-296 įsigaliojimo (2021-11-01) galiojusios nuostatos.
-Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) padarytiems pažeidimams, kurie atitinka [[#^s-c6691eb8b74c7086ebca07e9|25 straipsnio 2 dalyje]] nustatytus požymius, pradėtiems daryti iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) ir besitęsiantiems (trunkantiems) galiojant šiam įstatymui, taikomos šio įstatymo nuostatos.
+TAR pastaba. Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) Tarnyboje pradėtos pažeidimų, kurie atitinka 25  straipsnio 2 dalyje nustatytus požymius, tyrimo procedūros baigiamos pagal iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) galiojusius teisės aktus.
+Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) padarytiems pažeidimams, kurie atitinka 25 straipsnio 2 dalyje nustatytus požymius, taikomos iki įstatymo Nr. V-296 įsigaliojimo (2021-11-01) galiojusios nuostatos.
+Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) padarytiems pažeidimams, kurie atitinka 25 straipsnio 2 dalyje nustatytus požymius, pradėtiems daryti iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) ir besitęsiantiems (trunkantiems) galiojant šiam įstatymui, taikomos šio įstatymo nuostatos.
 
 
 3. Tarnyba už falsifikuotų augalų apsaugos produktų įvežimą į Lietuvos Respubliką iš Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių ar iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių, tiekimą rinkai juridiniams asmenims skiria nuo 9 iki 11 procentų bendrųjų metinių pajamų baudą. Juridiniams asmenims, pakartotinai per vienus metus nuo nutarimo skirti baudą įsiteisėjimo dienos padariusiems pažeidimą, už kurį buvo paskirta šioje dalyje nurodyta bauda, Tarnyba skiria nuo 12 iki 14 procentų bendrųjų metinių pajamų baudą. ^s-5997c69b428522cf62880db2
-TAR pastaba. Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) Tarnyboje pradėtos pažeidimų, kurie atitinka [[#^s-5997c69b428522cf62880db2|25  straipsnio 3 dalyje]] nustatytus požymius, tyrimo procedūros baigiamos pagal iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) galiojusius teisės aktus.
-Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) padarytiems pažeidimams, kurie atitinka [[#^s-5997c69b428522cf62880db2|25 straipsnio 3 dalyje]] nustatytus požymius, taikomos iki įstatymo Nr. V-296 įsigaliojimo (2021-11-01) galiojusios nuostatos.
-Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) padarytiems pažeidimams, kurie atitinka [[#^s-5997c69b428522cf62880db2|25 straipsnio 3 dalyje]] nustatytus požymius, pradėtiems daryti iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) ir besitęsiantiems (trunkantiems) galiojant šiam įstatymui, taikomos šio įstatymo nuostatos.
+TAR pastaba. Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) Tarnyboje pradėtos pažeidimų, kurie atitinka 25  straipsnio 3 dalyje nustatytus požymius, tyrimo procedūros baigiamos pagal iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) galiojusius teisės aktus.
+Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) padarytiems pažeidimams, kurie atitinka 25 straipsnio 3 dalyje nustatytus požymius, taikomos iki įstatymo Nr. V-296 įsigaliojimo (2021-11-01) galiojusios nuostatos.
+Iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) padarytiems pažeidimams, kurie atitinka 25 straipsnio 3 dalyje nustatytus požymius, pradėtiems daryti iki [[latest/8c5f9280beaf11eba2bad9a0748ee64d|įstatymo Nr. XIV-296]] įsigaliojimo (2021-11-01) ir besitęsiantiems (trunkantiems) galiojant šiam įstatymui, taikomos šio įstatymo nuostatos.
 
 
 4. Bendrosios metinės pajamos, pagal kurias apskaičiuojamas skiriamos baudos dydis, nustatomos pagal pažeidimą padariusio juridinio asmens praėjusių finansinių metų finansinių ataskaitų duomenis. Tais atvejais, kai juridinis asmuo nepateikė praėjusių finansinių metų finansinių ataskaitų, bendrosios metinės pajamos, pagal kurias apskaičiuojamas skiriamos baudos dydis, nustatomos pagal šio juridinio asmens paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. ^s-cd8d4a628dfe79837c9768f7
 
 
-5. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba bendrosios metinės pajamos yra mažesnės negu du šimtai tūkstančių eurų, Tarnyba vietoj šio straipsnio 1, 2 ir [[#^s-5997c69b428522cf62880db2|3 dalyse]] nurodytos baudos šiam juridiniam asmeniui skiria nuo dešimt tūkstančių iki dvidešimt tūkstančių eurų baudą. ^s-d106315e3bb9c4795e3a39c5
+5. Tais atvejais, kai sunku ar neįmanoma nustatyti juridinio asmens bendrųjų metinių pajamų arba bendrosios metinės pajamos yra mažesnės negu du šimtai tūkstančių eurų, Tarnyba vietoj šio straipsnio [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]] ir [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodytos baudos šiam juridiniam asmeniui skiria nuo dešimt tūkstančių iki dvidešimt tūkstančių eurų baudą. ^s-d106315e3bb9c4795e3a39c5
 
 
 Papildyta straipsniu:
@@ -859,10 +859,10 @@ Nr. XIV-296, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11765
 2. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad pažeidimą padaręs juridinis asmuo: ^s-4ac87808925dc4558403fdc6
 
 
-1) savo noru užkirto kelią žalingiems šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-c4edcf1054434a20e1c6cf8a|3 dalyse]] nurodyto (nurodytų) pažeidimo (pažeidimų) padariniams; ^s-28aebff3c350cb64550f30c0
+1) savo noru užkirto kelią žalingiems šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodyto (nurodytų) pažeidimo (pažeidimų) padariniams; ^s-28aebff3c350cb64550f30c0
 
 
-2) padėjo Tarnybai šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-c4edcf1054434a20e1c6cf8a|3 dalyse]] nurodyto (nurodytų) pažeidimo (pažeidimų) tyrimo metu, taip sudarydamas sąlygas Tarnybai efektyviau atlikti šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-c4edcf1054434a20e1c6cf8a|3 dalyse]] nurodyto (nurodytų) pažeidimo (pažeidimų) tyrimą; ^s-f72f2275125fa0f8fa2ced06
+2) padėjo Tarnybai šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodyto (nurodytų) pažeidimo (pažeidimų) tyrimo metu, taip sudarydamas sąlygas Tarnybai efektyviau atlikti šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodyto (nurodytų) pažeidimo (pažeidimų) tyrimą; ^s-f72f2275125fa0f8fa2ced06
 
 
 3) savo valia atlygino nukentėjusiems asmenims nuostolius; ^s-4cafafde76876434e95d9cae
@@ -871,28 +871,28 @@ Nr. XIV-296, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11765
 4) savo valia pašalino nukentėjusiems asmenims padarytą žalą; ^s-e09808ced95089dbebfb21b8
 
 
-5) savo valia nutraukė šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-c4edcf1054434a20e1c6cf8a|3 dalyse]] nurodytą (nurodytus) pažeidimą (pažeidimus). ^s-b1f9ae3a56b287b4a812eeff
+5) savo valia nutraukė šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodytą (nurodytus) pažeidimą (pažeidimus). ^s-b1f9ae3a56b287b4a812eeff
 
 
 3. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad juridinis asmuo: ^s-c4edcf1054434a20e1c6cf8a
 
 
-1) kliudė Tarnybai atlikti šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-c4edcf1054434a20e1c6cf8a|3 dalyse]] nurodyto (nurodytų) pažeidimo (pažeidimų) tyrimą; ^s-ca25207c92b9a6ae4ab84698
+1) kliudė Tarnybai atlikti šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodyto (nurodytų) pažeidimo (pažeidimų) tyrimą; ^s-ca25207c92b9a6ae4ab84698
 
 
-2) slėpė padarytą (padarytus) šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-c4edcf1054434a20e1c6cf8a|3 dalyse]] nurodytą (nurodytus) pažeidimą (pažeidimus); ^s-08c0173537fe3e655fec6f1d
+2) slėpė padarytą (padarytus) šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodytą (nurodytus) pažeidimą (pažeidimus); ^s-08c0173537fe3e655fec6f1d
 
 
-3) naikino ir (ar) klastojo šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-c4edcf1054434a20e1c6cf8a|3 dalyse]] nurodyto (nurodytų) pažeidimo (pažeidimų) įrodymus; ^s-060eccb4e2a6307e3715a32d
+3) naikino ir (ar) klastojo šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodyto (nurodytų) pažeidimo (pažeidimų) įrodymus; ^s-060eccb4e2a6307e3715a32d
 
 
-4) tęsė šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-c4edcf1054434a20e1c6cf8a|3 dalyse]] nurodytą (nurodytus) pažeidimą (pažeidimus), nepaisydamas Tarnybos įpareigojimo nutraukti neteisėtus veiksmus; ^s-a22dbae3173c3ca524bf0e66
+4) tęsė šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodytą (nurodytus) pažeidimą (pažeidimus), nepaisydamas Tarnybos įpareigojimo nutraukti neteisėtus veiksmus; ^s-a22dbae3173c3ca524bf0e66
 
 
-5) per vienus metus nuo nutarimo skirti baudą už šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-c4edcf1054434a20e1c6cf8a|3 dalyse]] nurodytą pažeidimą įsiteisėjimo dienos pakartotinai padarė tą patį ar kitą šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-c4edcf1054434a20e1c6cf8a|3 dalyse]] numatytą pažeidimą. ^s-435443be0c74380465c4cfae
+5) per vienus metus nuo nutarimo skirti baudą už šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodytą pažeidimą įsiteisėjimo dienos pakartotinai padarė tą patį ar kitą šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse numatytą pažeidimą. ^s-435443be0c74380465c4cfae
 
 
-4. Skiriamos baudos dydis nustatomas atsižvelgiant į šio straipsnio 2 ir [[#^s-c4edcf1054434a20e1c6cf8a|3 dalyse]] nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę, mastą, taip pat mažiausios ir didžiausios baudos vidurkį. Jeigu nustatomos vien lengvinančios ar kitos juridinio asmens padėtį gerinančios aplinkybės, baudos dydis yra mažinamas nuo jos vidurkio iki minimalaus dydžio, o jeigu nustatomos vien tik sunkinančios ar kitos juridinio asmens padėtį bloginančios aplinkybės, baudos dydis yra didinamas nuo jos vidurkio iki maksimalaus dydžio. Kai yra ir atsakomybę lengvinančių ar kitų juridinio asmens padėtį gerinančių, ir atsakomybę sunkinančių ar kitų juridinio asmens padėtį bloginančių aplinkybių, baudos dydis mažinamas arba didinamas atsižvelgiant į aplinkybių skaičių ir reikšmingumą. Baudos dydžio mažinimas ar didinimas Tarnybos nutarime turi būti motyvuojamas. ^s-e7ae46f4356385d1b7662cd2
+4. Skiriamos baudos dydis nustatomas atsižvelgiant į šio straipsnio [[#^s-4ac87808925dc4558403fdc6|2]] ir [[#^s-c4edcf1054434a20e1c6cf8a|3]] dalyse nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę, mastą, taip pat mažiausios ir didžiausios baudos vidurkį. Jeigu nustatomos vien lengvinančios ar kitos juridinio asmens padėtį gerinančios aplinkybės, baudos dydis yra mažinamas nuo jos vidurkio iki minimalaus dydžio, o jeigu nustatomos vien tik sunkinančios ar kitos juridinio asmens padėtį bloginančios aplinkybės, baudos dydis yra didinamas nuo jos vidurkio iki maksimalaus dydžio. Kai yra ir atsakomybę lengvinančių ar kitų juridinio asmens padėtį gerinančių, ir atsakomybę sunkinančių ar kitų juridinio asmens padėtį bloginančių aplinkybių, baudos dydis mažinamas arba didinamas atsižvelgiant į aplinkybių skaičių ir reikšmingumą. Baudos dydžio mažinimas ar didinimas Tarnybos nutarime turi būti motyvuojamas. ^s-e7ae46f4356385d1b7662cd2
 
 
 Papildyta straipsniu:
@@ -903,37 +903,37 @@ Nr. XIV-296, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11765
 ### 27 straipsnis. Bylų dėl šio įstatymo 25 straipsnio 1, 2, 3 dalyse nurodytų pažeidimų nagrinėjimo tvarka ^s-32cce67c3317c8e7f4857c1c
 
 
-1. Tarnyba nagrinėja bylas dėl šio įstatymo pažeidimų ir skiria šiame įstatyme nustatytas baudas. Juridinių asmenų padarytus šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-1a40cadf364266b63ff77f47|3 dalyse]] nurodytus pažeidimus tiria, juridinių asmenų padarytų pažeidimų protokolus (toliau – protokolas) surašo Tarnybos direktoriaus įgalioti pareigūnai. Protokolas surašomas dviem egzemplioriais dalyvaujant pažeidimo padarymu įtariamam juridinio asmens vadovui arba jo įgaliotam atstovui. Apie pažeidimo protokolo surašymo laiką ir vietą juridinio asmens vadovui arba jo įgaliotam atstovui pranešama ne vėliau kaip prieš 3 darbo dienas iki protokolo surašymo dienos registruotu laišku, siunčiamu Juridinių asmenų registre nurodytu juridinio asmens buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu. Juridinio asmens vadovo ar jo įgalioto atstovo nedalyvavimas, kai jam buvo tinkamai pranešta, neužkerta kelio surašyti pažeidimo protokolą. Vienas protokolo egzempliorius nedelsiant įteikiamas juridinio asmens vadovui ar jo įgaliotam atstovui. Jeigu juridinio asmens vadovas ar jo įgaliotas atstovas nedalyvauja surašant pažeidimo protokolą, šio protokolo egzempliorius ne vėliau kaip per 3 darbo dienas nuo protokolo surašymo dienos išsiunčiamas juridiniam asmeniui ar jo įgaliotam atstovui registruotu laišku Juridinių asmenų registre nurodytu juridinio asmens buveinės adresu, išskyrus atvejus, kai juridinio asmens vadovas ar jo įgaliotas atstovas nurodo kitą korespondencijos įteikimo adresą, arba Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu. ^s-89c0424ef345a6693eb6961a
+1. Tarnyba nagrinėja bylas dėl šio įstatymo pažeidimų ir skiria šiame įstatyme nustatytas baudas. Juridinių asmenų padarytus šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodytus pažeidimus tiria, juridinių asmenų padarytų pažeidimų protokolus (toliau – protokolas) surašo Tarnybos direktoriaus įgalioti pareigūnai. Protokolas surašomas dviem egzemplioriais dalyvaujant pažeidimo padarymu įtariamam juridinio asmens vadovui arba jo įgaliotam atstovui. Apie pažeidimo protokolo surašymo laiką ir vietą juridinio asmens vadovui arba jo įgaliotam atstovui pranešama ne vėliau kaip prieš 3 darbo dienas iki protokolo surašymo dienos registruotu laišku, siunčiamu Juridinių asmenų registre nurodytu juridinio asmens buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu. Juridinio asmens vadovo ar jo įgalioto atstovo nedalyvavimas, kai jam buvo tinkamai pranešta, neužkerta kelio surašyti pažeidimo protokolą. Vienas protokolo egzempliorius nedelsiant įteikiamas juridinio asmens vadovui ar jo įgaliotam atstovui. Jeigu juridinio asmens vadovas ar jo įgaliotas atstovas nedalyvauja surašant pažeidimo protokolą, šio protokolo egzempliorius ne vėliau kaip per 3 darbo dienas nuo protokolo surašymo dienos išsiunčiamas juridiniam asmeniui ar jo įgaliotam atstovui registruotu laišku Juridinių asmenų registre nurodytu juridinio asmens buveinės adresu, išskyrus atvejus, kai juridinio asmens vadovas ar jo įgaliotas atstovas nurodo kitą korespondencijos įteikimo adresą, arba Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu. ^s-89c0424ef345a6693eb6961a
 
 
 2. Bylos nagrinėjamos ir baudos skiriamos šio įstatymo ir Tarnybos direktoriaus įsakymu nustatyta tvarka. ^s-cde2f7c999929ceac2f4bcbc
 
 
-3. Juridiniam asmeniui ir (ar) jo įgaliotam atstovui ne vėliau kaip prieš 10 darbo dienų iki bylos nagrinėjimo posėdžio pradžios raštu pranešama apie bylos dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-1a40cadf364266b63ff77f47|3 dalyse]] nurodytų pažeidimų nagrinėjimo vietą ir laiką įteikiant ar išsiunčiant protokolą (jei protokolo surašymo metu žinoma bylos nagrinėjimo data, laikas, vieta) arba išsiunčiant pranešimą apie bylos dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-1a40cadf364266b63ff77f47|3 dalyse]] nurodytų pažeidimų nagrinėjimo vietą ir laiką, taip pat pasiūloma susipažinti su bylos medžiaga, teikti paaiškinimus. Terminas pradedamas skaičiuoti kitą dieną po to, kai protokolas (jei protokolo surašymo metu žinoma bylos nagrinėjimo data, laikas, vieta) ar pranešimas buvo įteiktas įtariamam pažeidimo padarymu juridiniam asmeniui ar jo įgaliotam atstovui. Tinkamu pranešimu apie bylos nagrinėjimo vietą ir laiką laikytinas protokolo (jei protokolo surašymo metu žinoma bylos nagrinėjimo data, laikas, vieta) ar pranešimo išsiuntimas Juridinių asmenų registre nurodytu juridinio asmens buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba elektroniniu paštu Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu. ^s-1a40cadf364266b63ff77f47
+3. Juridiniam asmeniui ir (ar) jo įgaliotam atstovui ne vėliau kaip prieš 10 darbo dienų iki bylos nagrinėjimo posėdžio pradžios raštu pranešama apie bylos dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodytų pažeidimų nagrinėjimo vietą ir laiką įteikiant ar išsiunčiant protokolą (jei protokolo surašymo metu žinoma bylos nagrinėjimo data, laikas, vieta) arba išsiunčiant pranešimą apie bylos dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodytų pažeidimų nagrinėjimo vietą ir laiką, taip pat pasiūloma susipažinti su bylos medžiaga, teikti paaiškinimus. Terminas pradedamas skaičiuoti kitą dieną po to, kai protokolas (jei protokolo surašymo metu žinoma bylos nagrinėjimo data, laikas, vieta) ar pranešimas buvo įteiktas įtariamam pažeidimo padarymu juridiniam asmeniui ar jo įgaliotam atstovui. Tinkamu pranešimu apie bylos nagrinėjimo vietą ir laiką laikytinas protokolo (jei protokolo surašymo metu žinoma bylos nagrinėjimo data, laikas, vieta) ar pranešimo išsiuntimas Juridinių asmenų registre nurodytu juridinio asmens buveinės adresu, išskyrus atvejus, kai juridinis asmuo nurodo kitą korespondencijos įteikimo adresą, arba elektroniniu paštu Juridinių asmenų registre nurodytu elektroninių siuntų pristatymo adresu. ^s-1a40cadf364266b63ff77f47
 
 
-4. Tarnyba bylas dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-1a40cadf364266b63ff77f47|3 dalyse]] nurodytų pažeidimų nagrinėja rašytine tvarka, išskyrus atvejus, kai yra gautas dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-1a40cadf364266b63ff77f47|3 dalyse]] nurodyto pažeidimo atsakomybėn traukiamo juridinio asmens ar jo įgalioto atstovo motyvuotas prašymas pažeidimą nagrinėti žodžiu arba Tarnybos iniciatyva, kai būtina išklausyti žodinius pažeidimo nagrinėjimo dalyvių paaiškinimus, ar kitais atvejais, kai pažeidimas gali būti geriau išnagrinėtas žodine tvarka. Bylą nagrinėjant rašytine tvarka, proceso dalyviai ar jų įgalioti atstovai apie bylos nagrinėjimo laiką, vietą ir jų teises ir pareigas informuojami [[#^s-1a40cadf364266b63ff77f47|šio straipsnio 3 dalyje]] nustatyta tvarka. Bylą nagrinėdama žodine tvarka, Tarnyba posėdį ar jo dalį gali skelbti uždarą, kai tai būtina norint apsaugoti valstybės, tarnybos, komercinę ar profesinę paslaptį arba užtikrinti asmens teisę į privataus gyvenimo neliečiamumą. ^s-5915e3b603d0a9520487b48d
+4. Tarnyba bylas dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodytų pažeidimų nagrinėja rašytine tvarka, išskyrus atvejus, kai yra gautas dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodyto pažeidimo atsakomybėn traukiamo juridinio asmens ar jo įgalioto atstovo motyvuotas prašymas pažeidimą nagrinėti žodžiu arba Tarnybos iniciatyva, kai būtina išklausyti žodinius pažeidimo nagrinėjimo dalyvių paaiškinimus, ar kitais atvejais, kai pažeidimas gali būti geriau išnagrinėtas žodine tvarka. Bylą nagrinėjant rašytine tvarka, proceso dalyviai ar jų įgalioti atstovai apie bylos nagrinėjimo laiką, vietą ir jų teises ir pareigas informuojami [[#^s-1a40cadf364266b63ff77f47|šio straipsnio 3 dalyje]] nustatyta tvarka. Bylą nagrinėdama žodine tvarka, Tarnyba posėdį ar jo dalį gali skelbti uždarą, kai tai būtina norint apsaugoti valstybės, tarnybos, komercinę ar profesinę paslaptį arba užtikrinti asmens teisę į privataus gyvenimo neliečiamumą. ^s-5915e3b603d0a9520487b48d
 
 
-5. Dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-1a40cadf364266b63ff77f47|3 dalyse]] nurodytų pažeidimų atsakomybėn traukiamas juridinis asmuo ar jo įgaliotas atstovas bylos nagrinėjimo metu turi teisę susipažinti su surinkta pažeidimo (pažeidimų) tyrimo medžiaga, išskyrus valstybės, tarnybos paslaptį sudarančią medžiagą, daryti šios medžiagos išrašus, teikti paaiškinimus, prašymus, įrodymus. ^s-49d45df76a95fb45b64d9a0a
+5. Dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodytų pažeidimų atsakomybėn traukiamas juridinis asmuo ar jo įgaliotas atstovas bylos nagrinėjimo metu turi teisę susipažinti su surinkta pažeidimo (pažeidimų) tyrimo medžiaga, išskyrus valstybės, tarnybos paslaptį sudarančią medžiagą, daryti šios medžiagos išrašus, teikti paaiškinimus, prašymus, įrodymus. ^s-49d45df76a95fb45b64d9a0a
 
 
-6. Žodine tvarka nagrinėjant bylą dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-1a40cadf364266b63ff77f47|3 dalyse]] nurodytų pažeidimų, posėdyje dalyvauja protokolą surašęs Tarnybos pareigūnas, dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-1a40cadf364266b63ff77f47|3 dalyse]] nurodyto pažeidimo atsakomybėn traukiamo juridinio asmens vadovas ir (arba) jo įgaliotas atstovas. Prireikus į posėdį kviečiami asmenys, kuriems žinomos su nagrinėjamu pažeidimu susijusios aplinkybės (liudytojai), kitų valstybės ir (ar) savivaldybių institucijų, įstaigų ar organizacijų arba kitų juridinių asmenų atstovai, ekspertai, teikiantys išvadas. ^s-b94bc4a06b687a6692ccdc72
+6. Žodine tvarka nagrinėjant bylą dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodytų pažeidimų, posėdyje dalyvauja protokolą surašęs Tarnybos pareigūnas, dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodyto pažeidimo atsakomybėn traukiamo juridinio asmens vadovas ir (arba) jo įgaliotas atstovas. Prireikus į posėdį kviečiami asmenys, kuriems žinomos su nagrinėjamu pažeidimu susijusios aplinkybės (liudytojai), kitų valstybės ir (ar) savivaldybių institucijų, įstaigų ar organizacijų arba kitų juridinių asmenų atstovai, ekspertai, teikiantys išvadas. ^s-b94bc4a06b687a6692ccdc72
 
 
-7. Išnagrinėjusi bylą dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-1a40cadf364266b63ff77f47|3 dalyse]] nurodyto pažeidimo, Tarnyba priima vieną iš šių sprendimų: ^s-9dea47ddae4494dc77e64fbf
+7. Išnagrinėjusi bylą dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodyto pažeidimo, Tarnyba priima vieną iš šių sprendimų: ^s-9dea47ddae4494dc77e64fbf
 
 
 1) skirti šiame įstatyme nustatytą baudą; ^s-1ed283e1dfdd9f610fd50980
 
 
-2) nutraukti bylą, kai padaryta veika neturi šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-1a40cadf364266b63ff77f47|3 dalyse]] nurodyto (nurodytų) pažeidimo (pažeidimų) požymių. ^s-402168e3da83bca2652f4ee9
+2) nutraukti bylą, kai padaryta veika neturi šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodyto (nurodytų) pažeidimo (pažeidimų) požymių. ^s-402168e3da83bca2652f4ee9
 
 
-8. Tarnybos sprendimai įforminami nutarimais. Tarnybos nutarime nurodoma: Tarnybos pavadinimas, šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-1a40cadf364266b63ff77f47|3 dalyse]] nurodyto pažeidimo nagrinėjimo data ir vieta, duomenys apie pažeidėją, pažeidimo aplinkybės, įrodymai, kuriais grindžiamas nutarimas, pažeidėjo paaiškinimai ir jų vertinimas, šio įstatymo straipsnis, kuriame nustatyta atsakomybė už pažeidimą, priimtas sprendimas, jo įvykdymo tvarka, nutarimo apskundimo terminai ir tvarka. ^s-50cf61a6bffa7a3409283f50
+8. Tarnybos sprendimai įforminami nutarimais. Tarnybos nutarime nurodoma: Tarnybos pavadinimas, šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodyto pažeidimo nagrinėjimo data ir vieta, duomenys apie pažeidėją, pažeidimo aplinkybės, įrodymai, kuriais grindžiamas nutarimas, pažeidėjo paaiškinimai ir jų vertinimas, šio įstatymo straipsnis, kuriame nustatyta atsakomybė už pažeidimą, priimtas sprendimas, jo įvykdymo tvarka, nutarimo apskundimo terminai ir tvarka. ^s-50cf61a6bffa7a3409283f50
 
 
-9. Tarnyba paprastai bylą išnagrinėja ir nutarimą priima per 4 mėnesius nuo protokolo dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-1a40cadf364266b63ff77f47|3 dalyse]] nurodyto pažeidimo įteikimo atsakomybėn traukiamam juridiniam asmeniui arba jo įgaliotam atstovui dienos. Motyvuotu Tarnybos sprendimu šis terminas gali būti pratęstas vieną kartą ne ilgiau kaip 2 mėnesiams. ^s-bd8c21048c45e0e87499a526
+9. Tarnyba paprastai bylą išnagrinėja ir nutarimą priima per 4 mėnesius nuo protokolo dėl šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodyto pažeidimo įteikimo atsakomybėn traukiamam juridiniam asmeniui arba jo įgaliotam atstovui dienos. Motyvuotu Tarnybos sprendimu šis terminas gali būti pratęstas vieną kartą ne ilgiau kaip 2 mėnesiams. ^s-bd8c21048c45e0e87499a526
 
 
 10. Tarnybos nutarimai ne vėliau kaip per 2 darbo dienas nuo nutarimo priėmimo dienos registruotąja pašto siunta išsiunčiami juridiniam asmeniui, dėl kurio jie priimti, arba jo įgaliotam atstovui. ^s-40aab495fbd66997624ca177
@@ -947,7 +947,7 @@ Nr. XIV-296, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11765
 ### 28 straipsnis. Tarnybos nutarimų apskundimas ^s-cd4e6de3f0994760d05aff4c
 
 
-Juridinis asmuo arba jo įgaliotas atstovas Tarnybos nutarimus dėl baudų už šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, 3 dalyse nurodytų reikalavimų pažeidimus skyrimo ne vėliau kaip per 20 darbo dienų nuo nutarimo įteikimo juridiniam asmeniui arba jo įgaliotam atstovui dienos gali apskųsti [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka.
+Juridinis asmuo arba jo įgaliotas atstovas Tarnybos nutarimus dėl baudų už šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nurodytų reikalavimų pažeidimus skyrimo ne vėliau kaip per 20 darbo dienų nuo nutarimo įteikimo juridiniam asmeniui arba jo įgaliotam atstovui dienos gali apskųsti [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka.
 
 
 Papildyta straipsniu:
@@ -958,10 +958,10 @@ Nr. XIV-296, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11765
 ### 29 straipsnis. Tarnybos nutarimų vykdymas ^s-f9f217d24f44081dceaf4575
 
 
-1. Tarnybos nutarimu paskirtos baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo tos dienos, kurią juridinis asmuo arba jo įgaliotas atstovas gavo Tarnybos nutarimą dėl baudos už šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, 3 dalyse nurodytus pažeidimus paskyrimo, apskundus tokį nutarimą, – ne vėliau kaip per vieną mėnesį nuo teismo sprendimo, kuriuo skundas nepatenkintas, įsiteisėjimo. ^s-51f2e31c4bcf950bdc0ae3cb
+1. Tarnybos nutarimu paskirtos baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo tos dienos, kurią juridinis asmuo arba jo įgaliotas atstovas gavo Tarnybos nutarimą [dėl baudos už šio įstatymo 25 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) [1](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E), [2](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E), [3](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) dalyse nurodytus pažeidimus paskyrimo, apskundus tokį nutarimą, – ne vėliau kaip per vieną mėnesį nuo teismo sprendimo, kuriuo skundas nepatenkintas, įsiteisėjimo. ^s-51f2e31c4bcf950bdc0ae3cb
 
 
-2. Tarnybos nutarimas dėl baudos už šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, 3 dalyse nurodytus pažeidimus skyrimo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka, pasibaigus šiame įstatyme nustatytam baudų sumokėjimo į valstybės biudžetą terminui. Tarnybos nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo jo priėmimo dienos. Šis terminas pratęsiamas tokiam laikui, kokiam teismo sprendimu buvo sustabdytas Tarnybos nutarimo skirti baudą vykdymas. ^s-b16ebb18daf8153136f3d462
+2. Tarnybos nutarimas [dėl baudos už šio įstatymo 25 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) [1](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E), [2](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E), [3](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) dalyse nurodytus pažeidimus skyrimo yra vykdomasis dokumentas, vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka, pasibaigus šiame įstatyme nustatytam baudų sumokėjimo į valstybės biudžetą terminui. Tarnybos nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo jo priėmimo dienos. Šis terminas pratęsiamas tokiam laikui, kokiam teismo sprendimu buvo sustabdytas Tarnybos nutarimo skirti baudą vykdymas. ^s-b16ebb18daf8153136f3d462
 
 
 Papildyta straipsniu:
@@ -972,7 +972,7 @@ Nr. XIV-296, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11765
 ### 30 straipsnis. Baudų už šio įstatymo 25 straipsnio 1, 2, 3 dalyse nurodytus pažeidimus skyrimo senatis ^s-5ed15015674e0c81b7d6c8b3
 
 
-Šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] 1, 2, [[#^s-369e1b888415ac75a666e1d7|3 dalyse]] nustatytos baudos gali būti paskirtos ne vėliau kaip per dvejus metus nuo pažeidimo padarymo dienos, o trunkamojo pažeidimo atveju – per dvejus metus nuo jo paaiškėjimo dienos.
+Šio įstatymo [[#^s-c25a227f35c22118f813b706|25 straipsnio]] [[#^s-4902c375a3386287183420e2|1]], [[#^s-c6691eb8b74c7086ebca07e9|2]], [[#^s-5997c69b428522cf62880db2|3]] dalyse nustatytos baudos gali būti paskirtos ne vėliau kaip per dvejus metus nuo pažeidimo padarymo dienos, o trunkamojo pažeidimo atveju – per dvejus metus nuo jo paaiškėjimo dienos.
 
 
 Papildyta straipsniu:
@@ -1001,13 +1001,13 @@ priedas
 
 
 
-1. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2009 dėl augalų apsaugos produktų pateikimo į rinką ir panaikinantis Tarybos direktyvas 79/117/EEB ir 91/414/EEB su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2019/1009. ^s-697258b4ab2e80a9db73e317
+1. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) dėl augalų apsaugos produktų pateikimo į rinką ir panaikinantis Tarybos direktyvas 79/117/EEB ir 91/414/EEB su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 2019/1009](https://eur-lex.europa.eu/eli/reg/2019/1009/oj). ^s-697258b4ab2e80a9db73e317
 
 
-2. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/128/EB, nustatanti Bendrijos veiksmų pagrindus siekiant tausiojo pesticidų naudojimo, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2019/1243. ^s-519cd322027e83227e4569f5
+2. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/128/EB, nustatanti Bendrijos veiksmų pagrindus siekiant tausiojo pesticidų naudojimo, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 2019/1243](https://eur-lex.europa.eu/eli/reg/2019/1243/oj). ^s-519cd322027e83227e4569f5
 
 
-3. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/625 dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB, ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas), su paskutiniais pakeitimais, padarytais 2019 m. spalio 10 d. Komisijos deleguotuoju reglamentu (ES) 2019/2127. ^s-369e1b888415ac75a666e1d7
+3. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj) dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB, ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas), su paskutiniais pakeitimais, padarytais 2019 m. spalio 10 d. Komisijos deleguotuoju [reglamentu (ES) 2019/2127](https://eur-lex.europa.eu/eli/reg/2019/2127/oj). ^s-369e1b888415ac75a666e1d7
 
 
 Priedo pakeitimai:
@@ -1055,7 +1055,7 @@ Lietuvos Respublikos augalų apsaugos įstatymo pakeitimo įstatymas
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-980, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10010
-Lietuvos Respublikos augalų apsaugos įstatymo Nr. I-1069 8 ir [[#^s-20a4b20f434f4662b5ae26ca|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos augalų apsaugos įstatymo Nr. I-1069 [[#^s-2f09c2c448de1ea8789fe5bb|8]] ir [[#^s-20a4b20f434f4662b5ae26ca|14]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1065,7 +1065,7 @@ Lietuvos Respublikos augalų apsaugos įstatymo Nr. I-1069 pakeitimo įstatymas
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-296, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11765
-Lietuvos Respublikos augalų apsaugos įstatymo Nr. I-1069 [[#^s-0e080b25307048c4b7be1ee8|24 straipsnio]] ir priedo pakeitimo ir Įstatymo papildymo 25, 26, 27, 28, 29, [[#^s-5ed15015674e0c81b7d6c8b3|30 straipsniais]] įstatymas
+Lietuvos Respublikos augalų apsaugos įstatymo Nr. I-1069 [[#^s-0e080b25307048c4b7be1ee8|24 straipsnio]] ir priedo pakeitimo ir Įstatymo papildymo [[#^s-c25a227f35c22118f813b706|25]], [[#^s-80506065e8d68d4f7df4ba02|26]], [[#^s-32cce67c3317c8e7f4857c1c|27]], [[#^s-cd4e6de3f0994760d05aff4c|28]], [[#^s-f9f217d24f44081dceaf4575|29]], [[#^s-5ed15015674e0c81b7d6c8b3|30]] straipsniais įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas

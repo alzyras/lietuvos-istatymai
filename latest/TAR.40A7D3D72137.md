@@ -42,7 +42,7 @@ Vilnius
 Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Vaiko teisių apsaugos kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5 dydžių mėnesinis atlyginimas. Priedai ar premijos jam nemokami. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, vaiko teisių apsaugos kontrolieriui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.“
+„1. Vaiko teisių apsaugos kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5 dydžių mėnesinis atlyginimas. Priedai ar premijos jam nemokami. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatytą darbo apmokėjimo sistemą, vaiko teisių apsaugos kontrolieriui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.“
 
 
 

@@ -177,7 +177,7 @@ Vilnius
 „5. Vienetų apmokestinamasis pelnas apmokestinamas taikant 0 procentų mokesčio tarifą, jeigu:
 
 
-1) per mokestinį laikotarpį vieneto darbuotojų, priklausančių Lietuvos Respublikos socialinių įmonių įstatymo [[#^s-548b650806453140d50b5bb7|4 straipsnyje]] nurodytoms tikslinėms asmenų grupėms, skaičius sudaro ne mažiau kaip 40 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus, ir ^s-1ca4299a52e6c8536daf7087
+1) per mokestinį laikotarpį vieneto darbuotojų, priklausančių [Lietuvos Respublikos socialinių įmonių įstatymo 4 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.EEC13A0B85BA) nurodytoms tikslinėms asmenų grupėms, skaičius sudaro ne mažiau kaip 40 procentų metinio vidutinio sąrašuose esančių darbuotojų skaičiaus, ir ^s-1ca4299a52e6c8536daf7087
 
 
 2) per mokestinį laikotarpį vienetas nevykdo veiklos, įtrauktos į socialinių įmonių neremtinų veiklos rūšių sąrašą, tvirtinamą Lietuvos Respublikos Vyriausybės, arba per mokestinį laikotarpį iš tokios veiklos gautos pajamos sudaro ne daugiau kaip 20 procentų visų vieneto pajamų, ir ^s-03b0ec29ebd4d46c17b9ad0c
@@ -254,7 +254,7 @@ Vilnius
 ### 8 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-a99382fc98538c8629e07a06
 
 
-1. Šis įstatymas, išskyrus [[#^s-bc0edf7084000b1765d5c2b4|3 straipsnio 2 dalies]] ir 4, [[#^s-25a85704af02614b78f2233e|5 straipsnių]] nuostatas, įsigalioja 2009 m. sausio 1 d. ^s-f84ec9fb815cbabfe94a7969
+1. Šis įstatymas, išskyrus [[#^s-bc0edf7084000b1765d5c2b4|3 straipsnio 2 dalies]] ir [[#^s-548b650806453140d50b5bb7|4]], [[#^s-25a85704af02614b78f2233e|5]] straipsnių nuostatas, įsigalioja 2009 m. sausio 1 d. ^s-f84ec9fb815cbabfe94a7969
 
 
 2. Šio įstatymo [[#^s-bc0edf7084000b1765d5c2b4|3 straipsnio 2 dalies]] ir [[#^s-548b650806453140d50b5bb7|4 straipsnio]] nuostatos taikomos apskaičiuojant 2009 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną. ^s-4c006414033797c365ecbaa4

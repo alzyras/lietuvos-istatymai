@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-7a5c7b376c7af9120ac1b9a3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gruodžio 24 d. dekretą Nr. 1153, ratifikuoja Lietuvos Respublikos ir Čekijos Respublikos laisvosios prekybos sutartį, pasirašytą 1996 m. spalio 14 d. Prahoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [1996 m. gruodžio 24 d. dekretą Nr. 1153](https://e-tar.lt/portal/lt/legalAct/TAR.B8238F9F8D00), ratifikuoja Lietuvos Respublikos ir Čekijos Respublikos laisvosios prekybos sutartį, pasirašytą 1996 m. spalio 14 d. Prahoje.
 
 
 

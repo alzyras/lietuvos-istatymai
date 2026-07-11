@@ -87,7 +87,7 @@ Vilnius
 5. Pakeisti 16 straipsnio 9 dalį ir ją išdėstyti taip: ^s-4b629d5c56f40a67d541d4a6
 
 
-„9. Bendrijos narių susirinkime dalyvaujantys bendrijos nariai registruojami pasirašytinai susirinkimo dalyvių sąraše. Už bendrijos narį, atstovaujamą įgalioto asmens pagal šio straipsnio 7 ir 16 dalis, pasirašo įgaliotas asmuo. Susirinkimo dalyvių sąrašą pasirašo bendrijos narių susirinkimo pirmininkas ir sekretorius. Bendrijos nariai dėl susirinkimuose svarstomų klausimų gali iš anksto pareikšti savo nuomonę raštu bendrijos įstatų nustatyta tvarka. Susirinkimo dalyvių sąraše turi būti nurodyti nariai, iš anksto pareiškę nuomonę raštu.“
+„9. Bendrijos narių susirinkime dalyvaujantys bendrijos nariai registruojami pasirašytinai susirinkimo dalyvių sąraše. Už bendrijos narį, atstovaujamą įgalioto asmens pagal šio straipsnio [[#^s-4936f651a792643602d23321|7]] ir 16 dalis, pasirašo įgaliotas asmuo. Susirinkimo dalyvių sąrašą pasirašo bendrijos narių susirinkimo pirmininkas ir sekretorius. Bendrijos nariai dėl susirinkimuose svarstomų klausimų gali iš anksto pareikšti savo nuomonę raštu bendrijos įstatų nustatyta tvarka. Susirinkimo dalyvių sąraše turi būti nurodyti nariai, iš anksto pareiškę nuomonę raštu.“
 
 
 6. pakeisti 16 straipsnio 10 dalį ir ją išdėstyti taip: ^s-e3ec349be7e91d68bdc0534e

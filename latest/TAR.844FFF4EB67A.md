@@ -104,7 +104,7 @@ Aukščiausiasis Teismas leidžia biuletenį, kuriame periodiškai skelbia:
 Biuletenis finansuojamas iš valstybės biudžeto ir iš gautų jį pardavus lėšų. Lietuvos Respublikos teismai ir teisėjai biuletenį gauna nemokamai.
 
 
-Aukščiausiojo Teismo veiklą reglamentuoja šis įstatymas, įstatymu patvirtintas Lietuvos Aukščiausiojo Teismo statutas bei kiti įstatymai.“
+Aukščiausiojo Teismo veiklą reglamentuoja šis įstatymas, įstatymu patvirtintas [Lietuvos Aukščiausiojo Teismo statutas](https://e-tar.lt/portal/lt/legalAct/TAR.1DAB8BD6385D) bei kiti įstatymai.“
 
 
 
@@ -197,7 +197,7 @@ Aukščiausiojo Teismo senato posėdis yra teisėtas, jeigu jame dalyvauja ne ma
 Aukščiausiojo Teismo senato nutarimus pasirašo pirmininkas ir sekretorius.
 
 
-Aukščiausiojo Teismo senato teismo posėdžio, nagrinėjant bylas pagal Aukščiausiojo Teismo pirmininko teikimą, procesą nustato [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso]] ir Civilinio proceso kodekso taisyklės.“
+Aukščiausiojo Teismo senato teismo posėdžio, nagrinėjant bylas pagal Aukščiausiojo Teismo pirmininko teikimą, procesą nustato [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso]] ir [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) taisyklės.“
 
 
 

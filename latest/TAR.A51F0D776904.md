@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-ad3c7e1c625ed03b05c05d0d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1995 m. lapkričio 28 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos konvenciją dėl informacijos apie užsienio teisę“, ratifikuoja 1968 m. birželio 7 d. Europos konvenciją dėl informacijos apie užsienio teisę, pasirašytą 1994 m. balandžio 14 d. (pridedama).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1995 m. lapkričio 28 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos konvenciją dėl informacijos apie užsienio teisę“](https://e-tar.lt/portal/lt/legalAct/TAR.919F222CB5F9), ratifikuoja 1968 m. birželio 7 d. Europos konvenciją dėl informacijos apie užsienio teisę, pasirašytą 1994 m. balandžio 14 d. (pridedama).
 
 
 
@@ -61,7 +61,7 @@ Lietuvos Respublikos
 įstatymo Nr.I-1193
 priedėlis
 
-Europos konvencija dėl informacijos apie užsienio teisę
+[Europos konvencija dėl informacijos apie užsienio teisę](https://e-tar.lt/portal/lt/legalAct/TAR.8FE0345DFDDF)
 
 
 

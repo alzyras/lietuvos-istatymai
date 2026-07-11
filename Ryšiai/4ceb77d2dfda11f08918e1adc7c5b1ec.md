@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos kelių priežiūros ir plėtros programos fin
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.A7D82E8EDC6B|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - 6 straipsnio 3 dalies 9 punktą
+- [[latest/TAR.A7D82E8EDC6B#^s-f12f9539dee50bab1d7614eb|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - 9 straipsnio 9 dalies 4 punktą
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A7D82E8EDC6B#^s-7502204d14a114c43341d13a|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - Įstatymas Nr. XV-662
-- [[latest/TAR.A7D82E8EDC6B#^s-d5c0854840629e86874e1a44|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - Įstatymas Nr. XV-662
+_Nėra._

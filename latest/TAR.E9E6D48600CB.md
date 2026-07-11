@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-52ad319fdce034b81beb8ebc
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 30 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės protokolą dėl Baltijos gynybos koledžo ir jo personalo statuso“, ratifikuoja Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės protokolą dėl Baltijos gynybos koledžo ir jo personalo statuso, pasirašytą 1999 m. birželio 14 d. Rygoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 30 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės protokolą dėl Baltijos gynybos koledžo ir jo personalo statuso“](https://e-tar.lt/portal/lt/legalAct/TAR.1EF176B01C94), ratifikuoja Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės protokolą dėl Baltijos gynybos koledžo ir jo personalo statuso, pasirašytą 1999 m. birželio 14 d. Rygoje.
 
 
 

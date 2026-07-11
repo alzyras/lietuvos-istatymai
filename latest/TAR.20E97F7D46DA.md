@@ -215,7 +215,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 ### 6 straipsnis. Įstatymo įsigaliojimas ^s-10824e65c09e4b8cdfcfd1e8
 
 
-Šis įstatymas, išskyrus [[#^s-782d95e5e2f7cea35661ca10|5 straipsnio]] 1 ir 2 dalis, įsigalioja 2008 m. spalio 1 d.
+Šis įstatymas, išskyrus [[#^s-782d95e5e2f7cea35661ca10|5 straipsnio]] [[#^s-a5c5a97995a3aa9e953bc80b|1]] ir [[#^s-911d8c7cfbe984738ce37062|2]] dalis, įsigalioja 2008 m. spalio 1 d.
 
 
 

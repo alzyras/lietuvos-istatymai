@@ -64,7 +64,7 @@ Papildyti [[#^s-c117e0740722d5e0a184e01d|1 straipsnį 2 dalimi]] ir šį straips
 2. Atgabenimas, išgabenimas – naftos ir naftos produktų atgabenimas, išgabenimas iš kitų Europos Bendrijos muitų teritorijai priskirtų šalių arba teritorijų.“ ^s-3e12f87635cf96ff36c9dfa5
 
 
-2. Buvusias [[#^s-205dc33ed280707dda3607af|2 straipsnio]] 1–5 dalis laikyti atitinkamai 3–7 dalimis. ^s-4e8f25056d960de46a6657d3
+2. Buvusias [[#^s-205dc33ed280707dda3607af|2 straipsnio]] [[#^s-9a95f8c0ced2446e1ee29ccc|1]]–5 dalis laikyti atitinkamai 3–7 dalimis. ^s-4e8f25056d960de46a6657d3
 
 
 

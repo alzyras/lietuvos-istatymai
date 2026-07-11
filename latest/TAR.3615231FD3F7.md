@@ -45,7 +45,7 @@ Vilnius
 Pakeisti [[#^s-dce59910c137b77d001a3800|4 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
-„2. Lėšos už VSD fonde asmens įgytas pensines teises iki darbo ES institucijoje pradžios apskaičiuojamos pagal šio įstatymo 1 priedo 1, 2 ar 3 punkte nurodytą formulę, atsižvelgiant į:
+„2. Lėšos už VSD fonde asmens įgytas pensines teises iki darbo ES institucijoje pradžios apskaičiuojamos pagal šio įstatymo 1 priedo [[#^s-d700309e287eb976cbf87dd2|1]], [[#^s-0a2795ea5b40139884bf363a|2]] ar 3 punkte nurodytą formulę, atsižvelgiant į:
 
 
 1) šiam asmeniui [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] nustatyta tvarka apskaičiuotos valstybinės socialinio draudimo senatvės pensijos dydį pagal jos apskaičiavimo metu VSD fondo valdybos turimus duomenis apie asmens valstybinio socialinio pensijų draudimo stažą ir jam prilygintus laikotarpius, asmens draudžiamąsias pajamas, joms prilygintas pajamas ir apskaičiavimo metu galiojančius valstybinės socialinio draudimo bazinės pensijos ir einamųjų metų draudžiamųjų pajamų dydžius; ^s-d700309e287eb976cbf87dd2
@@ -107,7 +107,7 @@ Dydžiai S1, S2, Ss ir K2 apskaičiuojami [[latest/TAR.A7F77DF94F5D|Valstybinių
 2. Asmenų, turinčių valstybinio socialinio pensijų draudimo stažo, įgyto dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu iki 1994 m. sausio 1 d., ir pasirinkusių dalyvauti pensijų kaupime pagal Pensijų kaupimo įstatymą, lėšų už VSD fonde įgytas pensines teises, pervestinų į ES institucijų pensijų sistemą, suma apskaičiuojama pagal formulę: ^s-dce59910c137b77d001a3800
 RL = [(S1 + S2 + Ss) x 1,1 x B/H + 0,005 x (S1 x Kn + S2 x K2) x D] x 12 x G.
 Šioje formulėje:
-Kn – asmens draudžiamųjų pajamų koeficientas po 1994 m. sausio 1 d., apskaičiuotas netaikant Valstybinių socialinio draudimo pensijų įstatymo 17 straipsnio 4 dalyje nustatyto mažinimo dėl dalyvavimo pensijų kaupime.
+Kn – asmens draudžiamųjų pajamų koeficientas po 1994 m. sausio 1 d., apskaičiuotas netaikant [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo 17 straipsnio 4 dalyje]] nustatyto mažinimo dėl dalyvavimo pensijų kaupime.
 Kiti formulėje vartojami dydžiai apibrėžti šio priedo 1 punkte.
 
 

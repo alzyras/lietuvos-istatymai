@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-4a7c44a4387282dcb087b35a
-[[latest/TAR.B8B6AFC2BFF1#^s-ec44c01b286ef7acc017bbff|KONKURENCIJOS ĮSTATYMO 1, 3, 5, 6, 10, 11, 12, 13, 14, 15, 19, 20, 23, 25, 26, 30, 39, 41, 42 STRAIPSNIŲ]] PAKEITIMas IR PAPILDYMas, 7 IR [[#^s-2e3c0ee94262ceabf3c75275|8 STRAIPSNIŲ]] PRIPAŽINIMAS NETEKUSIAIS GALIOS, ĮSTATYMO PAPILDYMas 141 STRAIPSNIU, vii SKYRIUMI IR PRIEDU
+[[latest/TAR.B8B6AFC2BFF1|KONKURENCIJOS ĮSTATYMO]] [[latest/TAR.B8B6AFC2BFF1#^s-ed9350f1bb34dc3934a8adf7|1]], [[latest/TAR.B8B6AFC2BFF1#^s-08301057f5a187a520ebfa35|3]], [[latest/TAR.B8B6AFC2BFF1#^s-4eb2cb549a516aa5fbb4d033|5]], [[latest/TAR.B8B6AFC2BFF1#^s-d21e5216619f18efa813cd1f|6]], [[latest/TAR.B8B6AFC2BFF1#^s-a358722ec977fa8d2b80f6cc|10]], [[latest/TAR.B8B6AFC2BFF1#^s-6bcb96c948175171d6f509b2|11]], [[latest/TAR.B8B6AFC2BFF1#^s-2c6330729edc6a0a6f11cb87|12]], [[latest/TAR.B8B6AFC2BFF1#^s-0c3884a5044f41104ea0dc81|13]], [[latest/TAR.B8B6AFC2BFF1#^s-6203447861987347b88d13ee|14]], [[latest/TAR.B8B6AFC2BFF1#^s-45ef4be929ccd5d6f92f478a|15]], [[latest/TAR.B8B6AFC2BFF1#^s-a0bf415c42dfef53d9fa2b07|19]], [[latest/TAR.B8B6AFC2BFF1#^s-fc6138a7bce262a04394612b|20]], [[latest/TAR.B8B6AFC2BFF1#^s-7b02e1d9a9ea5bbc9cfc51ea|23]], [[latest/TAR.B8B6AFC2BFF1#^s-84e719f3ef3065bc857a1c94|25]], [[latest/TAR.B8B6AFC2BFF1#^s-366f7c6279023b9cb9ab4a18|26]], [[latest/TAR.B8B6AFC2BFF1#^s-7d100d5c194303d3806a25f7|30]], [[latest/TAR.B8B6AFC2BFF1#^s-6ae91101f931cb4bf9829281|39]], [[latest/TAR.B8B6AFC2BFF1|41]], [[latest/TAR.B8B6AFC2BFF1#^s-ec44c01b286ef7acc017bbff|42]] STRAIPSNIŲ PAKEITIMas IR PAPILDYMas, [[#^s-d1e36cdc85ccb94fd9ad9d64|7]] IR [[#^s-2e3c0ee94262ceabf3c75275|8]] STRAIPSNIŲ PRIPAŽINIMAS NETEKUSIAIS GALIOS, ĮSTATYMO PAPILDYMas 141 STRAIPSNIU, vii SKYRIUMI IR PRIEDU
 
 (Žin., 1999, Nr. 30-856; 2000, Nr. 85-2572; 2003, Nr. 74-3430)
 
@@ -139,7 +139,7 @@ Pakeisti [[#^s-040bf319ac410fce3cbbdcb0|6 straipsnį]] ir jį išdėstyti taip:
 ### 9 straipsnis. 12 straipsnio pavadinimo, 1 ir 3 dalių pakeitimas ^s-65349c4deadf5dfff811fbd3
 
 
-Pakeisti [[#^s-e6d0a1702f90872a8b619cbf|12 straipsnio]] pavadinimą, 1, [[#^s-ab1b7c69bf23fa874ceaef8a|3 dalis]] ir šį straipsnį išdėstyti taip:
+Pakeisti [[#^s-e6d0a1702f90872a8b619cbf|12 straipsnio]] pavadinimą, [[#^s-a031b158d92634bf11edee72|1]], 3 dalis ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-e6d0a1702f90872a8b619cbf|12 straipsnis]]. Koncentracijos sustabdymas
@@ -449,7 +449,7 @@ EUROPOS SĄJUNGOS KONKURENCIJOS TAISYKLIŲ TAIKYMAS
 2) padarytos žalos atlyginimo. ^s-e2824d99d6652fefdc096c7d
 
 
-2. Teismas, gavęs ieškinį, susijusį su Europos Bendrijos steigimo sutarties 81 ar 82 straipsnių taikymu, apie tai informuoja Europos Bendrijų Komisiją ir Konkurencijos tarybą. Tokiu atveju Europos Bendrijų Komisija ir Konkurencijos taryba turi teises, numatytas Civilinio proceso kodekso [[#^s-105c0de2099b6eb45124a786|50 straipsnio 2 dalyje]]. ^s-105c0de2099b6eb45124a786
+2. Teismas, gavęs ieškinį, susijusį su Europos Bendrijos steigimo sutarties 81 ar 82 straipsnių taikymu, apie tai informuoja Europos Bendrijų Komisiją ir Konkurencijos tarybą. Tokiu atveju Europos Bendrijų Komisija ir Konkurencijos taryba turi teises, numatytas [Civilinio proceso kodekso 50 straipsnio 2 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). ^s-105c0de2099b6eb45124a786
 
 
 3. Sprendimo (nutarties), priimto byloje, kurioje buvo taikomi Europos Bendrijos steigimo sutarties 81 ar 82 straipsniai, nuorašas nedelsiant po tokio sprendimo (nutarties) paskelbimo išsiunčiamas Europos Bendrijų Komisijai ir Konkurencijos tarybai. ^s-6dc06822a93187835414dfa7
@@ -458,7 +458,7 @@ EUROPOS SĄJUNGOS KONKURENCIJOS TAISYKLIŲ TAIKYMAS
 4. Procesas gali būti atnaujinamas, kai paaiškėja, kad po teismo sprendimo (nutarties) priėmimo, kuriame susitarimams, sprendimams ar veiklai buvo taikomi Europos Bendrijų steigimo sutarties 81 ar 82 straipsniai, priimamas Europos Bendrijų Komisijos sprendimas dėl minėtų straipsnių taikymo tiems patiems susitarimams, sprendimams ar veiklai ir tas taikymo rezultatas iš esmės skiriasi. ^s-8ac9bf2311aa73bcb1ac4908
 
 
-5. Bylą nagrinėjant Vilniaus apygardos administraciniame teisme, mutatis mutandis taikomos šio straipsnio 2, 3 ir [[#^s-8ac9bf2311aa73bcb1ac4908|4 dalys]].“ ^s-95c5551fdf79bcd84feb5a3f
+5. Bylą nagrinėjant Vilniaus apygardos administraciniame teisme, mutatis mutandis taikomos šio straipsnio [[#^s-105c0de2099b6eb45124a786|2]], [[#^s-6dc06822a93187835414dfa7|3]] ir [[#^s-8ac9bf2311aa73bcb1ac4908|4]] dalys.“ ^s-95c5551fdf79bcd84feb5a3f
 
 
 
@@ -481,7 +481,7 @@ priedas
 
 
 ### ANTRASIS SKIRSNIS ^s-88412fdda429ce85fa7a6c71
-VALSTYBĖS PAGALBOS ŪKIO SUBJEKTAMS KONTROLĖS ĮSTATYMO PRIPAŽINIMAS NETEKUSIU GALIOS
+[VALSTYBĖS PAGALBOS ŪKIO SUBJEKTAMS KONTROLĖS ĮSTATYMO](https://e-tar.lt/portal/lt/legalAct/TAR.9066FF2551F8) PRIPAŽINIMAS NETEKUSIU GALIOS
 
 (Žin., 2000, Nr. 45-1292; 2003, Nr. 74-3433)
 
@@ -495,7 +495,7 @@ Pripažinti netekusiu galios Lietuvos Respublikos valstybės pagalbos ūkio subj
 
 
 ### TREČIASIS SKIRSNIS ^s-69cda3deb5e31979c3b9cc28
-CIVILINIO PROCESO KODEKSO 1 STRAIPSNIO PAKEITIMAS
+[CIVILINIO PROCESO KODEKSO 1 STRAIPSNIO](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) PAKEITIMAS
 
 (Žin., 2002, Nr. 36-1340)
 
@@ -551,10 +551,10 @@ Pasiūlyti Lietuvos Respublikos Vyriausybei ar jos įgaliotai institucijai:
 1) iki 2004 m. gegužės 1 d. patvirtinti tvarką, kuria Konkurencijos taryba atlieka valstybės pagalbos pagal Europos Sąjungos valstybės pagalbos taisykles projektų ekspertizę, teikia valstybės pagalbos teikėjams išvadas ir rekomendacijas, kaupia informaciją apie suteiktą valstybės pagalbą ūkio subjektams ir teikia ją suinteresuotoms institucijoms, dalyvauja teikiant pranešimus apie valstybės pagalbą Europos Bendrijų Komisijai; ^s-a5a9cd2df26356d26556401b
 
 
-2) iki 2004 m. gegužės 1 d. papildyti Lietuvos Respublikos Vyriausybės 2000 m. gruodžio 15 d. nutarimu Nr. 1458 „Dėl valstybės rinkliavos objektų sąrašo, šios rinkliavos dydžių ir mokėjimo ir grąžinimo tvarkos patvirtinimo“ patvirtintus rinkliavos objektų sąrašą ir šios rinkliavos dydžius; ^s-47fdd456e00e7f52142402d6
+2) iki 2004 m. gegužės 1 d. papildyti Lietuvos Respublikos Vyriausybės [2000 m. gruodžio 15 d. nutarimu Nr. 1458](https://e-tar.lt/portal/lt/legalAct/TAR.E3A145C8DD49) „Dėl valstybės rinkliavos objektų sąrašo, šios rinkliavos dydžių ir mokėjimo ir grąžinimo tvarkos patvirtinimo“ patvirtintus rinkliavos objektų sąrašą ir šios rinkliavos dydžius; ^s-47fdd456e00e7f52142402d6
 
 
-3) iki 2004 m. gegužės 1 d. pakeisti 1999 m. liepos 12 d. Lietuvos Respublikos Vyriausybės nutarimu Nr. 822 „Dėl Lietuvos Respublikos konkurencijos tarybos nuostatų patvirtinimo“ patvirtintus Lietuvos Respublikos konkurencijos tarybos nuostatus; ^s-40b357815f8c08bb51d0a0fc
+3) iki 2004 m. gegužės 1 d. pakeisti 1999 m. liepos 12 d. Lietuvos Respublikos Vyriausybės nutarimu Nr. 822 [„Dėl Lietuvos Respublikos konkurencijos tarybos nuostatų patvirtinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.3AFD5DBA7FDC) patvirtintus Lietuvos Respublikos konkurencijos tarybos nuostatus; ^s-40b357815f8c08bb51d0a0fc
 
 
 4) iki 2005 m. sausio 1 d. įsteigti suteiktos valstybės pagalbos registrą; ^s-d4f83031eca6722e90fba7b7

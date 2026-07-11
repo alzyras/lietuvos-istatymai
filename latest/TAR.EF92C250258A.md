@@ -231,7 +231,7 @@ Pakeisti [[#^s-c8c85c0621e38c7ae37af0a1|22 straipsnį]] ir jį išdėstyti taip:
 2. Jeigu duomenų subjektas duoda sutikimą, [[#^s-c9154a242abd79a99ce54e99|šio straipsnio 1 dalyje]] nurodyti duomenys asmenų mokumo ir finansinės rizikos vertinimo ir įsiskolinimo valdymo tikslais gali būti tvarkomi ir nuolat atnaujinami jungtinėse finansinės rizikos duomenų rinkmenose (toliau – jungtinės finansinės rizikos rinkmenos) pagal su finansų įstaigomis sudarytas duomenų teikimo sutartis. Jungtinių finansinės rizikos rinkmenų valdytojais gali būti finansų įstaigos, tik šio įstatymo 33 straipsnio nustatyta tvarka pranešusios Valstybinei duomenų apsaugos inspekcijai, kuri privalo atlikti išankstinę patikrą. ^s-31789af0115d79a95850906f
 
 
-3. Finansų įstaigos gali gauti asmens duomenis šio straipsnio 1 ir [[#^s-621ebbe813b552b67782a72a|6 dalyse]] nurodytomis sąlygomis ir apimtimi tik tais atvejais, kai duomenų subjektas: ^s-6680c469c2b2e6274d76c205
+3. Finansų įstaigos gali gauti asmens duomenis šio straipsnio [[#^s-c9154a242abd79a99ce54e99|1]] ir [[#^s-621ebbe813b552b67782a72a|6]] dalyse nurodytomis sąlygomis ir apimtimi tik tais atvejais, kai duomenų subjektas: ^s-6680c469c2b2e6274d76c205
 
 
 1) kreipiasi į šias įstaigas dėl finansinių paslaugų gavimo ar dėl finansinių ir (arba) turtinių įsipareigojimų užtikrinimo ir (arba); ^s-fa26c8735f7d05c6d6f34355
@@ -306,7 +306,7 @@ Pakeisti [[#^s-721e272bcdf795df4fc08e2b|26 straipsnio 1 dalį]] ir ją išdėsty
 1. Pakeisti 27 straipsnio 2 dalį ir ją išdėstyti taip: ^s-9941765c2db0cd942bdb153c
 
 
-„2. Duomenų subjektas šio įstatymo [[#^s-2818b39dc852b5151e47c088|5 straipsnio 1 dalies]] 5 ir 6 punktuose nurodytais atvejais turi teisę nesutikti, kad būtų tvarkomi jo asmens duomenys. Duomenų subjektas rašytinį pranešimą apie nesutikimą dėl asmens duomenų tvarkymo pateikia duomenų valdytojui asmeniškai, paštu ar elektroninių ryšių priemonėmis. Jeigu duomenų subjekto nesutikimas yra teisiškai pagrįstas, duomenų valdytojas privalo nedelsdamas neatlygintinai nutraukti asmens duomenų tvarkymo veiksmus, išskyrus įstatymų nustatytus atvejus, ir informuoti duomenų gavėjus.“
+„2. Duomenų subjektas šio įstatymo [[#^s-2818b39dc852b5151e47c088|5 straipsnio 1 dalies]] 5 ir 6 punktuose nurodytais atvejais turi teisę nesutikti, kad būtų tvarkomi jo asmens duomenys. Duomenų subjektas rašytinį pranešimą apie nesutikimą [dėl asmens duomenų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.CCBBCFCD3831) pateikia duomenų valdytojui asmeniškai, paštu ar elektroninių ryšių priemonėmis. Jeigu duomenų subjekto nesutikimas yra teisiškai pagrįstas, duomenų valdytojas privalo nedelsdamas neatlygintinai nutraukti asmens duomenų tvarkymo veiksmus, išskyrus įstatymų nustatytus atvejus, ir informuoti duomenų gavėjus.“
 
 
 2. Pakeisti 27 straipsnio 3 dalį ir ją išdėstyti taip: ^s-a5c9012da34e7f821575071a
@@ -385,7 +385,7 @@ Teisingumo ministerija:
 Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Kaip vykdomas šis įstatymas, išskyrus 8 ir 351 straipsnius, prižiūri ir kontroliuoja Valstybinė duomenų apsaugos inspekcija. Valstybinė duomenų apsaugos inspekcija yra Vyriausybės įstaiga, finansuojama iš valstybės biudžeto. Jos administracijos struktūrą tvirtina Vyriausybė arba paveda tvirtinti Valstybinės duomenų apsaugos inspekcijos vadovui. Valstybinės duomenų apsaugos inspekcijos nuostatus tvirtina Vyriausybė.“
+„1. Kaip vykdomas šis įstatymas, išskyrus [[#^s-49a395b710e8c9c23cdf41e4|8]] ir 351 straipsnius, prižiūri ir kontroliuoja Valstybinė duomenų apsaugos inspekcija. Valstybinė duomenų apsaugos inspekcija yra Vyriausybės įstaiga, finansuojama iš valstybės biudžeto. Jos administracijos struktūrą tvirtina Vyriausybė arba paveda tvirtinti Valstybinės duomenų apsaugos inspekcijos vadovui. Valstybinės duomenų apsaugos inspekcijos nuostatus tvirtina Vyriausybė.“
 
 
 ### 21 straipsnis. 38 straipsnio pakeitimas ^s-f647acd718aed0fd8b02636b

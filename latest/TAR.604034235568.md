@@ -52,7 +52,7 @@ Vilnius
 5 straipsnio 1 dalies 1 punkte vietoj žodžių „fizinių asmenų“ įrašyti žodį „gyventojų“ ir šį punktą išdėstyti taip:
 
 
-„1) savivaldybių gyventojų pajamų mokesčiui išlyginti (BD1), kai prognozuojama, kad Valstybės iždo sąskaitoje trūks šiam tikslui lėšų, apskaičiuotų pagal šio Įstatymo 6 ir [[#^s-4c59369e417314ddf4324a6a|7 straipsnius]] (kai åL1i > åPi, tai BD1 = åL1i – åPi; kai åL1i <= åPi, tai BD1 = 0);“.
+„1) savivaldybių gyventojų pajamų mokesčiui išlyginti (BD1), kai prognozuojama, kad Valstybės iždo sąskaitoje trūks šiam tikslui lėšų, apskaičiuotų pagal šio Įstatymo [[#^s-ba50ccd2b206c9506d6f01bb|6]] ir [[#^s-4c59369e417314ddf4324a6a|7]] straipsnius (kai åL1i > åPi, tai BD1 = åL1i – åPi; kai åL1i <= åPi, tai BD1 = 0);“.
 
 
 

@@ -77,7 +77,7 @@ Vilnius
 3) nepadengtas pajamų sumažėjimas dėl 1995 metais negautų subsidijų padengti nuostoliams už gyventojams lengvatinėmis kainomis patiektas dujas gyvenamosioms patalpoms šildyti ir karštam vandeniui ruošti sudaro 3,86 mln. litų. ^s-4ec43b3bb7d8b10595455be2
 
 
-4. Šio straipsnio 1, 2, [[#^s-d95160332ce2945fb7e84d17|3 dalyse]] nurodytos sumos pripažįstamos valstybės vidaus skola. ^s-f2f9d16da2522c8ba493d06b
+4. Šio straipsnio [[#^s-f11695c71310852f1e849df7|1]], [[#^s-480990160deab565ce8da4b1|2]], [[#^s-d95160332ce2945fb7e84d17|3]] dalyse nurodytos sumos pripažįstamos valstybės vidaus skola. ^s-f2f9d16da2522c8ba493d06b
 
 
 

@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-eadc3600f22ac3aca6d52b23
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2013 m. gegužės 6 d. dekretą Nr. 1K-1451, ratifikuoja 1991 m. birželio 4–5 d. Darmštate priimtą Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) įkūrimo konvenciją iš dalies keičiantį protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2013 m. gegužės 6 d. dekretą Nr. 1K-1451](https://e-tar.lt/portal/lt/legalAct/TAR.3962ECFA0F56), ratifikuoja 1991 m. birželio 4–5 d. Darmštate priimtą Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) įkūrimo konvenciją iš dalies keičiantį protokolą.
 
 
 

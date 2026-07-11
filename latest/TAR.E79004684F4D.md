@@ -57,7 +57,7 @@ I SKYRIUS. BENDROSIOS NUOSTATOS
 1. Laisvoji ekonominė zona (toliau - zona) - tai ūkinei- komercinei ir finansinei veiklai skirta teritorija, kurioje yra šio įstatymo nustatytos ūkio subjektams specialios ekonominės ir teisinės funkcionavimo sąlygos. Šioje teritorijoje neturi būti nuolatinių gyventojų. ^s-1aab1ecd69b19440bdc5b5db
 
 
-2. Zonoje, suderinus su [[latest/TAR.2294490FE9DD#^s-abf57d4cb137b1b4065f5c6e|Lietuvos Respublikos muitinės įstatymo 15 straipsnyje]] nurodyta įstaiga, gali būti įrengiamos zonos teritorijos dalys (toliau – laisvosios teritorijos), atitinkančios laisvosioms zonoms taikomus reikalavimus, nustatytus 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas (OL 2013 L 269, p. 1) (toliau – Reglamentas (ES) Nr. 952/2013), ir kituose teisės aktuose, kuriuose nustatyti laisvosioms teritorijoms taikomi reikalavimai. ^s-a859ccf08715c7f58f2dcafc
+2. Zonoje, suderinus su [[latest/TAR.2294490FE9DD#^s-abf57d4cb137b1b4065f5c6e|Lietuvos Respublikos muitinės įstatymo 15 straipsnyje]] nurodyta įstaiga, gali būti įrengiamos zonos teritorijos dalys (toliau – laisvosios teritorijos), atitinkančios laisvosioms zonoms taikomus reikalavimus, nustatytus 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos [muitinės kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) (OL 2013 L 269, p. 1) (toliau – Reglamentas (ES) Nr. 952/2013), ir kituose teisės aktuose, kuriuose nustatyti laisvosioms teritorijoms taikomi reikalavimai. ^s-a859ccf08715c7f58f2dcafc
 Straipsnio dalies pakeitimai:
 Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 
@@ -84,7 +84,7 @@ Nr. IX-2014, 2004-02-12, Žin., 2004, Nr. 32-1006 (2004-02-28)
 ### 4 straipsnis. Lietuvos Respublikos įstatymų galiojimas zonoje ^s-0458b389b043a164c3b4e0d8
 
 
-Zonoje galioja Lietuvos Respublikos Konstitucija ir šis įstatymas. Kiti Lietuvos Respublikos įstatymai ir teisiniai aktai galioja tiek, kiek zonos ir jos ūkio subjektų veiklos teisinių santykių nereguliuoja šis įstatymas.
+Zonoje galioja [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) ir šis įstatymas. Kiti Lietuvos Respublikos įstatymai ir teisiniai aktai galioja tiek, kiek zonos ir jos ūkio subjektų veiklos teisinių santykių nereguliuoja šis įstatymas.
 
 
 
@@ -98,7 +98,7 @@ Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
 
 
 2. Kai zonos įstatyme nustatytas zonos veiklos terminas pasibaigia ir šio įstatymo nustatyta tvarka nėra pratęsiamas, zonos įmonė turi teisę tiesiogiai iš valstybės ar savivaldybės be aukciono išsinuomoti žemės sklypą, kurį iki zonos veiklos termino pabaigos subnuomojosi iš zonos valdymo bendrovės. Tokiu atveju nutraukiamos žemės nuomos ir subnuomos sutartys su zonos valdymo bendrove, jeigu tokios buvo sudarytos. ^s-68ee137c1748f53935bdc090
-TAR pastaba. [[#^s-68ee137c1748f53935bdc090|5 straipsnio 2 dalis]] taikoma žemės nuomos ir subnuomos sutartims, kurias zonos įmonės sudarė su zonos valdymo bendrovėmis po šio įstatymo (Nr. XIII-911) įsigaliojimo (2018-01-01).
+TAR pastaba. 5 straipsnio 2 dalis taikoma žemės nuomos ir subnuomos sutartims, kurias zonos įmonės sudarė su zonos valdymo bendrovėmis po šio įstatymo (Nr. XIII-911) įsigaliojimo (2018-01-01).
 Papildyta straipsnio dalimi:
 Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
 
@@ -167,7 +167,7 @@ Zonos valdymo bendrovė atsisakymą išduoti leidimą ūkio subjekto veiklai zon
 
 
 7. Zonos įmonės veikla gali būti sustabdoma, jei įmonė pažeidė šiame įstatyme, zonos įstatyme, zonos statute, zonos įmonės įstatuose arba sutartyje tarp zonos valdymo bendrovės ir ūkio subjekto nustatytas veiklos sąlygas ar kitus zonoje galiojančius Lietuvos Respublikos įstatymus ir teisės aktus. Valstybės institucijos, įgaliotos atlikti laisvųjų ekonominių zonų valstybinę priežiūrą, arba zonos valdymo bendrovės teikimu gali būti atlikti zonos įmonės veiklos patikrinimai Lietuvos Respublikos įstatymų nustatyta tvarka. ^s-2b8250606889dc1e3f6cce4f
-Zonos įmonėse darbai gali būti sustabdomi Žmonių saugos darbe įstatymo nustatyta tvarka.
+Zonos įmonėse darbai gali būti sustabdomi [Žmonių saugos darbe įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.1C72AF32F5CB) nustatyta tvarka.
 
 
 8. Zonos įmonė negali steigti filialų ir atstovybių už zonos ribų. Zonos įmonė gali būti įmonės, esančios už zonos ribų, steigėja. Už zonos ribų esanti įmonė gali būti zonos įmonės steigėja. ^s-66909d08c50c6f2fb549efe9
@@ -193,7 +193,7 @@ Nr. XIV-1976, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10369
 
 
 
-2) cheminių medžiagų, įrašytų į autorizuotinų cheminių medžiagų sąrašą, nurodytą 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, su paskutiniais pakeitimais, padarytais 2021 m. rugpjūčio 4 d. Komisijos reglamentu (ES) 2021/1297, (toliau – Reglamentas (EB) Nr. 1907/2006) XIV priede, ar į kandidatinį labai didelį susirūpinimą keliančių cheminių medžiagų autorizacijos sąrašą pagal Reglamento (EB) Nr. 1907/2006 59 straipsnį, gamyba ir laikymas, išskyrus atvejus, kai šias medžiagas laiko įmonės, naudojančios jas savo gaminių gamyboje; ^s-30b96562aa7f0d79267b60de
+2) cheminių medžiagų, įrašytų į autorizuotinų cheminių medžiagų sąrašą, nurodytą 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos [reglamentą (EB) Nr. 1488/94](https://eur-lex.europa.eu/eli/reg/1488/94/oj), Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, su paskutiniais pakeitimais, padarytais 2021 m. rugpjūčio 4 d. Komisijos [reglamentu (ES) 2021/1297](https://eur-lex.europa.eu/eli/reg/2021/1297/oj), (toliau – [Reglamentas (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj)) XIV priede, ar į kandidatinį labai didelį susirūpinimą keliančių cheminių medžiagų autorizacijos sąrašą pagal [Reglamento (EB) Nr. 1907/2006 59 straipsnį](https://eur-lex.europa.eu/eli/reg/1907/2006/art_59/oj), gamyba ir laikymas, išskyrus atvejus, kai šias medžiagas laiko įmonės, naudojančios jas savo gaminių gamyboje; ^s-30b96562aa7f0d79267b60de
 
 
 3) pavojingųjų atliekų tvarkymas, išskyrus pavojingųjų atliekų paruošimą naudoti ir perdirbimą, mokslinę ir techninę pažangą atitinkančiomis technologijomis ir (ar) geriausiais prieinamais gamybos būdais (GPGB), taip pat nepavojingųjų ir pavojingųjų atliekų šalinimas; ^s-32694ed22c5c5483d1dc1286
@@ -538,14 +538,14 @@ Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
 
 
 3. Zonos įmonė, į kurią kapitalo investicijos pasiekė ne mažesnę kaip vieno milijono eurų sumą, 10 mokestinių laikotarpių, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitus 6 mokestinius laikotarpius jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos veiklos. Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nesibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijos suma sumažėja ir nebesiekia vieno milijono eurų, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia vieną milijoną eurų. Šioje dalyje nustatyta lengvata netaikoma prekybos veiklą vykdančiai įmonei ir taikoma tiek, kiek ji suderinama su 2014 m. birželio 17 d. Komisijos reglamento (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius (OL 2014 L 187, p. 1) (toliau – Reglamentas (ES) Nr. 651/2014) nuostatomis. ^s-0b601e3df0d5bccbf7e86f3c
-TAR pastaba. [[#^s-a10b63766a01c56be126b7ed|15 straipsnio]] 3 ir [[#^s-0c7dcebd54c09090068a2ebd|31 dalys]] taikomos įmonėms, kurios zonos įmonės statusą įgijo ne anksčiau kaip 2018 m. sausio 1 d.
+TAR pastaba. [[#^s-a10b63766a01c56be126b7ed|15 straipsnio]] 3 ir [[#^s-0c7dcebd54c09090068a2ebd|31]] dalys taikomos įmonėms, kurios zonos įmonės statusą įgijo ne anksčiau kaip 2018 m. sausio 1 d.
 Straipsnio dalies pakeitimai:
 Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
 
 
 
 31. Zonos įmonė, kurios vidutinis darbuotojų skaičius mokestiniais metais ne mažesnis kaip 20 ir kurioje kapitalo investicijos pasiekė ne mažesnę kaip 1 šimto tūkstančių eurų sumą, 10 mokestinių laikotarpių, pradedant tuo mokestiniu laikotarpiu, kurį ši investicijų suma buvo pasiekta, nemoka pelno mokesčio, o kitus 6 mokestinius laikotarpius jai taikomas 50 procentų sumažintas pelno mokesčio tarifas. Šioje dalyje nustatyta lengvata gali būti taikoma tik tuo atveju, kai ne mažiau kaip 75 procentus atitinkamo mokestinio laikotarpio zonos įmonės pajamų sudaro pajamos iš zonoje vykdomos paslaugų teikimo veiklos. Šioje dalyje nustatyta lengvata gali būti pritaikyta tik tuo atveju, kai zonos įmonė turi auditoriaus išvadą, patvirtinančią reikalaujamą kapitalo investicijos dydį. Jeigu nepasibaigus šioje dalyje nustatytam lengvatos taikymo terminui kapitalo investicijos suma sumažėja ir nebesiekia 1 šimto tūkstančių eurų ir (arba) vidutinis mokestinių metų darbuotojų skaičius tampa mažesnis kaip 20, lengvatos taikymas sustabdomas tą mokestinį laikotarpį, kurį kapitalo investicijos suma ir (arba) vidutinis darbuotojų skaičius mokestiniais metais taip sumažėjo, ir gali būti atnaujintas tą mokestinį laikotarpį, kurį kapitalo investicija vėl pasiekia 1 šimto tūkstančių eurų sumą ir (arba) vidutinis darbuotojų skaičius mokestiniais metais vėl tampa ne mažesnis kaip 20. Šioje dalyje nustatyta lengvata taikoma tiek, kiek ji suderinama su Reglamento (ES) Nr. 651/2014 nuostatomis. ^s-0c7dcebd54c09090068a2ebd
-TAR pastaba. [[#^s-a10b63766a01c56be126b7ed|15 straipsnio]] 3 ir [[#^s-0c7dcebd54c09090068a2ebd|31 dalys]] taikomos įmonėms, kurios zonos įmonės statusą įgijo ne anksčiau kaip 2018 m. sausio 1 d.
+TAR pastaba. [[#^s-a10b63766a01c56be126b7ed|15 straipsnio]] [[#^s-0b601e3df0d5bccbf7e86f3c|3]] ir 31 dalys taikomos įmonėms, kurios zonos įmonės statusą įgijo ne anksčiau kaip 2018 m. sausio 1 d.
 Papildyta straipsnio dalimi:
 Nr. XII-2698, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26862
 Straipsnio dalies pakeitimai:
@@ -553,7 +553,7 @@ Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
 
 
 
-32. Šio straipsnio 3 ir [[#^s-0c7dcebd54c09090068a2ebd|31 dalyse]] nustatytos mokesčių lengvatos taikomos tokia pačia tvarka ir sąlygomis ir investuotojams, kurie atitinka šio straipsnio 3 ir [[#^s-0c7dcebd54c09090068a2ebd|31 dalyse]] nustatytas sąlygas zonos įmonei dėl lengvatų taikymo ir kuriems Lietuvos Respublikos civilinio kodekso, [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymo]] bei konkrečių Lietuvos Respublikos laisvųjų ekonominių zonų įstatymų nustatytomis sąlygomis ir tvarka yra išnuomoti zonos teritorijoje esantys žemės sklypai ar jų dalys, kol nėra įsteigta zonos valdymo bendrovė. Įsteigus zonos valdymo bendrovę, investuotojams, įgijusiems laisvosios ekonominės zonos įmonės statusą, taikomi mokesčių lengvatų terminai ir sąlygos nekeičiami. ^s-5cdc53911912edb51129d8ff
+32. Šio straipsnio [[#^s-0b601e3df0d5bccbf7e86f3c|3]] ir [[#^s-0c7dcebd54c09090068a2ebd|31]] dalyse nustatytos mokesčių lengvatos taikomos tokia pačia tvarka ir sąlygomis ir investuotojams, kurie atitinka šio straipsnio [[#^s-0b601e3df0d5bccbf7e86f3c|3]] ir [[#^s-0c7dcebd54c09090068a2ebd|31]] dalyse nustatytas sąlygas zonos įmonei [dėl lengvatų taikymo](https://e-tar.lt/portal/lt/legalAct/f76e7ff0826311ecbd43a994b3e2e1cb) ir kuriems Lietuvos Respublikos civilinio kodekso, [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymo]] bei konkrečių Lietuvos Respublikos laisvųjų ekonominių zonų įstatymų nustatytomis sąlygomis ir tvarka yra išnuomoti zonos teritorijoje esantys žemės sklypai ar jų dalys, kol nėra įsteigta zonos valdymo bendrovė. Įsteigus zonos valdymo bendrovę, investuotojams, įgijusiems laisvosios ekonominės zonos įmonės statusą, taikomi mokesčių lengvatų terminai ir sąlygos nekeičiami. ^s-5cdc53911912edb51129d8ff
 Papildyta straipsnio dalimi:
 Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 
@@ -568,7 +568,7 @@ Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 6. Zonos valdymo bendrovė moka Lietuvos Respublikos įstatymų atitinkamoms įmonėms nustatytus mokesčius. ^s-c31ac9feee5a2d60363c511c
 
 
-7. Šio straipsnio 2, 3, 31, 32, 4 ir [[#^s-a631f72ccc91fd5504fe0384|5 dalyse]] nustatytos mokesčių lengvatos ir kiti valstybės pagalbos būdai zonos įmonėms taikomi tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, reglamentuojantiems valstybės pagalbos teikimą, ir Lietuvos Respublikos Vyriausybės nustatytai valstybės pagalbos teikimo ir priežiūros tvarkai. ^s-ec9db434286cb1b33b94b96c
+7. Šio straipsnio [[#^s-6751aca2c2da6c8955699877|2]], [[#^s-0b601e3df0d5bccbf7e86f3c|3]], [[#^s-0c7dcebd54c09090068a2ebd|31]], [[#^s-5cdc53911912edb51129d8ff|32]], [[#^s-c390d9e381a85fbdf2fefc65|4]] ir [[#^s-a631f72ccc91fd5504fe0384|5]] dalyse nustatytos mokesčių lengvatos ir kiti valstybės pagalbos būdai zonos įmonėms taikomi tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, reglamentuojantiems valstybės pagalbos teikimą, ir Lietuvos Respublikos Vyriausybės nustatytai valstybės pagalbos teikimo ir priežiūros tvarkai. ^s-ec9db434286cb1b33b94b96c
 Straipsnio dalies pakeitimai:
 Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
 
@@ -751,7 +751,7 @@ VALDYMO BENDROVĖS VEIKLA, SPRENDIMAS
 ### 28 straipsnis. Ginčų zonoje sprendimo tvarka ^s-f35766f49cabeaa241daa222
 
 
-Ginčai, kylantys tarp zonos įmonių, tarp zonos įmonių ir zonos valdymo bendrovės, tarp zonos valdymo bendrovės ir valstybinių institucijų, tarp zonos valdymo bendrovės ir Lietuvos Respublikos Vyriausybės įgaliotos valstybinės institucijos, atliekančios laisvųjų ekonominių zonų valstybinę priežiūrą, ginčai dėl kompensacijos už zonos įmonių veiklos sąlygų pakeitimą ir kiti ginčai sprendžiami Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+Ginčai, kylantys tarp zonos įmonių, tarp zonos įmonių ir zonos valdymo bendrovės, tarp zonos valdymo bendrovės ir valstybinių institucijų, tarp zonos valdymo bendrovės ir Lietuvos Respublikos Vyriausybės įgaliotos valstybinės institucijos, atliekančios laisvųjų ekonominių zonų valstybinę priežiūrą, ginčai dėl kompensacijos už zonos įmonių veiklos sąlygų pakeitimą ir kiti ginčai sprendžiami [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.
 
 
 
@@ -872,7 +872,7 @@ Nr. XI-1910, 2011-12-23, Žin., 2011, Nr. 164-7803 (2011-12-31)
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-940, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07833
-LIETUVOS RESPUBLIKOS LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO NR. I-976 5, 8, 11, 12, 14, 15, [[#^s-187115d0e174ca1a1a4a0cd6|21 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS LAISVŲJŲ EKONOMINIŲ ZONŲ PAGRINDŲ ĮSTATYMO NR. I-976 [[#^s-83d0bf73f16bc3d5af6dd8f6|5]], [[#^s-96d3c5a7fa9a6f09e146ebf6|8]], [[#^s-e8244318594c856d228ce3e6|11]], [[#^s-f550860ceb54294f589cd3c3|12]], [[#^s-b37e15b61f693835256c500e|14]], [[#^s-a10b63766a01c56be126b7ed|15]], [[#^s-187115d0e174ca1a1a4a0cd6|21]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-96d3c5a7fa9a6f09e146ebf6|8 straipsnį]], įsigalioja 2015 m. sausio 1 d.
 
 
@@ -893,17 +893,17 @@ Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-516, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11224
-Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 2, 7, 12, [[#^s-a10b63766a01c56be126b7ed|15 straipsnių]] pakeitimo ir [[#^s-65b50e65d258acc82e3593c9|16 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 [[#^s-0398af52a0837f153ccea4db|2]], [[#^s-4abc8d29384ce69951ee99b8|7]], [[#^s-f550860ceb54294f589cd3c3|12]], [[#^s-a10b63766a01c56be126b7ed|15]] straipsnių pakeitimo ir [[#^s-65b50e65d258acc82e3593c9|16 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-910, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21502
-Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 12 ir [[#^s-b37e15b61f693835256c500e|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 [[#^s-f550860ceb54294f589cd3c3|12]] ir [[#^s-b37e15b61f693835256c500e|14]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-911, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21503
-Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 5, 8, 9 ir [[#^s-a10b63766a01c56be126b7ed|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 [[#^s-83d0bf73f16bc3d5af6dd8f6|5]], [[#^s-96d3c5a7fa9a6f09e146ebf6|8]], [[#^s-ecbd8f82c37c2e142591f661|9]] ir [[#^s-a10b63766a01c56be126b7ed|15]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas

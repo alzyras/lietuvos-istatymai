@@ -29,7 +29,7 @@ rysiai: "[[Ryšiai/TAR.950DCB7820B4]]"
 
 
 LIETUVOS RESPUBLIKOS
-[[latest/TAR.26B563184529#^s-b073465a35022cbb2d46812c|TERITORIJŲ PLANAVIMO ĮSTATYMO 2, 13, 16, 32 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 181 STRAIPSNIU
+[[latest/TAR.26B563184529|TERITORIJŲ PLANAVIMO ĮSTATYMO]] [[latest/TAR.26B563184529#^s-3c219bc83198ccb7a3608c90|2]], [[latest/TAR.26B563184529#^s-107510cd65fd97480514d3b3|13]], [[latest/TAR.26B563184529#^s-41dbf06f7e093678147525e1|16]], [[latest/TAR.26B563184529#^s-b073465a35022cbb2d46812c|32]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 181 STRAIPSNIU
 ĮSTATYMAS
 
 2012 m. gegužės 24 d. Nr. XI-2034
@@ -165,7 +165,7 @@ Papildyti 32 straipsnį 7 dalimi:
 1. Šio įstatymo [[#^s-e83a61ae1dd9963298dc6ec4|4 straipsnis]] įsigalioja 2012 m. liepos 1 d. ^s-f1bea49c73257da034d3a02f
 
 
-2. Šio įstatymo [[#^s-e83a61ae1dd9963298dc6ec4|4 straipsnyje]] išdėstytas Teritorijų planavimo įstatymo 181 straipsnis taikomas tik: ^s-3f2ba4e2d8ccb18616451e06
+2. Šio įstatymo [[#^s-e83a61ae1dd9963298dc6ec4|4 straipsnyje]] išdėstytas [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo 181 straipsnis]] taikomas tik: ^s-3f2ba4e2d8ccb18616451e06
 
 
 1) ypatingos valstybinės svarbos projektų specialiųjų planų, dėl kurių iki 2012 m. liepos 1 d. dar nėra išduotos planavimo sąlygos, rengimui, derinimui, keitimui, tikrinimui, tvirtinimui, galiojimui, viešumo užtikrinimui ir ginčų sprendimui; ^s-581430d0f291da26c6cb4f5a
@@ -174,7 +174,7 @@ Papildyti 32 straipsnį 7 dalimi:
 2) jau galiojančių ypatingos valstybinės svarbos projektų specialiųjų planų pakeitimų rengimui, derinimui, keitimui, tikrinimui, tvirtinimui, galiojimui, viešumo užtikrinimui ir ginčų sprendimui. ^s-070d8aa5c42c8cf39d02ff2d
 
 
-3. Ypatingos valstybinės svarbos projektų specialieji planai, dėl kurių iki 2012 m. liepos 1 d. yra išduotos planavimo sąlygos, planavimo organizatoriaus pasirinkimu yra baigiami rengti, derinti, viešai skelbti ir tvirtinti pagal iki 2012 m. liepos 1 d. galiojusius teisės aktus arba pradedami rengti iš naujo pagal šio įstatymo [[#^s-e83a61ae1dd9963298dc6ec4|4 straipsnyje]] išdėstytame Teritorijų planavimo įstatymo 181 straipsnyje nustatytą ypatingos valstybinės svarbos projektų specialiųjų planų rengimo, derinimo, keitimo, tikrinimo, tvirtinimo, galiojimo, viešumo užtikrinimo ir ginčų sprendimo tvarką. ^s-b904213dd317a1a6d81bcdb2
+3. Ypatingos valstybinės svarbos projektų specialieji planai, dėl kurių iki 2012 m. liepos 1 d. yra išduotos planavimo sąlygos, planavimo organizatoriaus pasirinkimu yra baigiami rengti, derinti, viešai skelbti ir tvirtinti pagal iki 2012 m. liepos 1 d. galiojusius teisės aktus arba pradedami rengti iš naujo pagal šio įstatymo [[#^s-e83a61ae1dd9963298dc6ec4|4 straipsnyje]] išdėstytame [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo 181 straipsnyje]] nustatytą ypatingos valstybinės svarbos projektų specialiųjų planų rengimo, derinimo, keitimo, tikrinimo, tvirtinimo, galiojimo, viešumo užtikrinimo ir ginčų sprendimo tvarką. ^s-b904213dd317a1a6d81bcdb2
 
 
 4. Projektui, kuris pripažįstamas ypatingos valstybinės svarbos projektu po 2012 m. liepos 1 d., įgyvendinti rengiami ir (ar) parengti specialieji planai taip pat yra laikomi ypatingos valstybinės svarbos projekto specialiaisiais planais. ^s-db857a2e6157167556764901

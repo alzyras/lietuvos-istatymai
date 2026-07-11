@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-a0060cc4efa7097a1895f1ca
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2000 m. liepos 17 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Šventojo Sosto sutartį dėl santykių tarp Katalikų bažnyčios ir valstybės teisinių aspektų“, ratifikuoja Lietuvos Respublikos ir Šventojo Sosto sutartį dėl santykių tarp Katalikų bažnyčios ir valstybės teisinių aspektų, pasirašytą 2000 m. gegužės 5 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2000 m. liepos 17 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Šventojo Sosto sutartį dėl santykių tarp Katalikų bažnyčios ir valstybės teisinių aspektų“](https://e-tar.lt/portal/lt/legalAct/TAR.66EE6858C3D5), ratifikuoja Lietuvos Respublikos ir Šventojo Sosto sutartį dėl santykių tarp Katalikų bažnyčios ir valstybės teisinių aspektų, pasirašytą 2000 m. gegužės 5 d. Vilniuje.
 
 
 

@@ -75,7 +75,7 @@ Privatizuojamą turtą gali įsigyti:
 5) medicinos, švietimo, kultūros, ryšių ir kiti Lietuvos Respublikos Vyriausybės patvirtintame sąraše nurodyti darbuotojai, gyvenantys žemės ūkio įmonės teritorijoje ir aptarnaujantys (aptarnavę iki išėjimo į pensiją) šios įmonės darbuotojus, taip pat jų šeimų narius; ^s-d020dc2247d31e7f1598658e
 
 
-6) nedarbingi 1–[[#^s-039a73b40daf7215b4de976a|4 punktuose]] išvardytų asmenų šeimų nariai ir išlaikytiniai; ^s-3942d405da3db665c8482b55
+6) nedarbingi [[#^s-9b119f29fe7b4f4382d1f73f|1]]–[[#^s-039a73b40daf7215b4de976a|4]] punktuose išvardytų asmenų šeimų nariai ir išlaikytiniai; ^s-3942d405da3db665c8482b55
 
 
 7) kiti asmenys, dirbę vienoje žemės ūkio įmonėje ne mažiau kaip 5 metus ir ne mažiau kaip 10 metų Lietuvos žemės ūkyje, išskyrus priverstinai, neteisėtai iškeldintuosius iš tos vietovės. Tokie asmenys turi teisę įsigyti turto toje žemės ūkio įmonėje, kurioje turi didžiausią darbo stažą; ^s-90ac45a5ece0c493475f0ac9
@@ -84,7 +84,7 @@ Privatizuojamą turtą gali įsigyti:
 8) neprivatizuotinų žemės ūkio įmonių darbuotojai rajono, kuriame yra ši įmonė, teritorijoje; ^s-e4c1fe5983320a7cc13e9274
 
 
-9) asmenys, kurie įgyja teisę į žemę pagal Lietuvos Respublikos 1991 m. birželio 18 d. įstatymą Nr. I-1454 „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“; ^s-20408883322697065b649b2b
+9) asmenys, kurie įgyja teisę į žemę pagal Lietuvos Respublikos [1991 m. birželio 18 d. įstatymą Nr. I-1454](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4); ^s-20408883322697065b649b2b
 
 
 
@@ -138,7 +138,7 @@ daugiau kaip 15 metų – 30 procentų.
 Žemės ūkio įmonių išmokos apskaičiuojamos, iš įmonės turto vertės atėmus [[#^s-cecb7cf370bbe76db521706d|2 straipsnyje]] išvardyto turto vertę, įregistruotų vienkartinių valstybinių išmokų, tikslinių kompensacijų ir tikslinių žemės ūkio kompensacijų, asmenų, išvardytų 3 straipsnio 1-4 punkte, sumas, trumpalaikių paskolų, taip pat ilgalaikių paskolų, paimtų po 1990 m. sausio 1 d., sumas, likusią turto dalį apylinkės agrarinės reformos tarnybų sprendimu paskirstant įmonės išmokas gaunantiems asmenims proporcingai jų darbo stažui Lietuvos Respublikos žemės ūkio įmonėse.
 
 
-6. Pirkdamas privatizuojamą žemės ūkio įmonės turtą, kiekvienas turi teisę panaudoti pinigus pagal nustatytas kvotas (Lietuvos Respublikos Aukščiausiosios Tarybos 1991 m. kovo 14 d. nutarimas Nr. I-1147 „Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo įsigaliojimo“). ^s-7e7d20c3c5581e3e6df39d6a
+6. Pirkdamas privatizuojamą žemės ūkio įmonės turtą, kiekvienas turi teisę panaudoti pinigus pagal nustatytas kvotas (Lietuvos Respublikos Aukščiausiosios Tarybos [1991 m. kovo 14 d. nutarimas Nr. I-1147](https://e-tar.lt/portal/lt/legalAct/TAR.A5763F525D28) [„Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo įsigaliojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.A5763F525D28)). ^s-7e7d20c3c5581e3e6df39d6a
 Lietuvos Respublikos Vyriausybės sprendimu kai kurių žemės ūkio įmonių turto dalis gali būti parduodama šio įstatymo [[#^s-c963cc03c85a9aad20114c82|3 straipsnyje]] nurodytiems asmenims netaikant pinigų kvotos.
 
 

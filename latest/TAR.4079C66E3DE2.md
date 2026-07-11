@@ -216,10 +216,10 @@ Išradimų teisinės apsaugos forma yra patentas, kurį išduoda Valstybinis pat
 3. Išradimas nelaikomas nauju, jeigu jis, nors ir nežinomas technikos lygiu, yra aprašytas kito pareiškėjo patento paraiškoje, kurios padavimo data yra ankstesnė ir kuri buvo paskelbta oficialiame Valstybinio patentų biuro biuletenyje vėliau arba tą pačią dieną, kai buvo nustatytas technikos lygis, arba yra aprašytas Europos patento paraiškoje, kurios padavimo data yra ankstesnė ir vertimas pagal šio įstatymo [[#^s-da23e7f4353fb4cf1aba7b6e|78 straipsnio 2 dalį]] buvo paskelbtas vėliau arba tą pačią dieną, kai buvo nustatytas technikos lygis. ^s-42a9d0fee16981f8811ff6ec
 
 
-4. Šio straipsnio 2 ir [[#^s-42a9d0fee16981f8811ff6ec|3 dalių]] nuostatos nekliudo pripažinti bet kurios technikos lygio medžiagos ar kompozicijos patentabilumą, kai ta medžiaga ar kompozicija naudojamos taikant šio įstatymo [[#^s-05bdf3e6348c4e2701ee9989|5 straipsnio 1 dalies 1 punkte]] nurodytą būdą, jeigu toks naudojimas nežinomas technikos lygiu. ^s-1287096830b9f964d8567482
+4. Šio straipsnio [[#^s-551c1d5a4ab1593f8a4283ed|2]] ir [[#^s-42a9d0fee16981f8811ff6ec|3]] dalių nuostatos nekliudo pripažinti bet kurios technikos lygio medžiagos ar kompozicijos patentabilumą, kai ta medžiaga ar kompozicija naudojamos taikant šio įstatymo [[#^s-05bdf3e6348c4e2701ee9989|5 straipsnio 1 dalies 1 punkte]] nurodytą būdą, jeigu toks naudojimas nežinomas technikos lygiu. ^s-1287096830b9f964d8567482
 
 
-5. Šio straipsnio 2 ir [[#^s-42a9d0fee16981f8811ff6ec|3 dalių]] nuostatos taip pat nekliudo pripažinti bet kurios [[#^s-1287096830b9f964d8567482|šio straipsnio 4 dalyje]] nurodytos medžiagos ar kompozicijos specifinio naudojimo taikant šio įstatymo [[#^s-05bdf3e6348c4e2701ee9989|5 straipsnio 1 dalies 1 punkte]] nurodytą būdą patentabilumą, jeigu toks naudojimas nežinomas technikos lygiu. ^s-993ba0291d7eed2706c5baa8
+5. Šio straipsnio [[#^s-551c1d5a4ab1593f8a4283ed|2]] ir [[#^s-42a9d0fee16981f8811ff6ec|3]] dalių nuostatos taip pat nekliudo pripažinti bet kurios [[#^s-1287096830b9f964d8567482|šio straipsnio 4 dalyje]] nurodytos medžiagos ar kompozicijos specifinio naudojimo taikant šio įstatymo [[#^s-05bdf3e6348c4e2701ee9989|5 straipsnio 1 dalies 1 punkte]] nurodytą būdą patentabilumą, jeigu toks naudojimas nežinomas technikos lygiu. ^s-993ba0291d7eed2706c5baa8
 
 
 
@@ -514,7 +514,7 @@ Referate Taisyklėse nustatyta tvarka pateikiama techninė informacija apie išr
 ### 24 straipsnis. Ekspertizė ^s-9a184a8434e33e6571f22ac5
 
 
-1. Valstybinis patentų biuras, atlikdamas patento paraiškos ekspertizę, nustato, ar pareiškėjas laikosi šio įstatymo [[#^s-9c4a97c0cf841df4cf04ba51|4 straipsnio 2 dalyje]], [[#^s-241130a63f582700e75f805a|5 straipsnio 1 dalyje]], 15, 16, 17, 21 ir [[#^s-9f43be629fe8a4b4317c8cdd|31 straipsniuose]] nustatytų reikalavimų. ^s-1e2536b8748b66f622ef75a9
+1. Valstybinis patentų biuras, atlikdamas patento paraiškos ekspertizę, nustato, ar pareiškėjas laikosi šio įstatymo [[#^s-9c4a97c0cf841df4cf04ba51|4 straipsnio 2 dalyje]], [[#^s-241130a63f582700e75f805a|5 straipsnio 1 dalyje]], [[#^s-84319189db029fe41e871c0f|15]], [[#^s-bf8707c3efa7ff9d0ad61491|16]], [[#^s-ed3a9fad724c1e4795f6f73f|17]], [[#^s-2892f5bb191797f21f11fea6|21]] ir [[#^s-9f43be629fe8a4b4317c8cdd|31]] straipsniuose nustatytų reikalavimų. ^s-1e2536b8748b66f622ef75a9
 
 
 2. Valstybinis patentų biuras, nustatęs, kad patento paraiška neatitinka [[#^s-1e2536b8748b66f622ef75a9|šio straipsnio 1 dalyje]] nurodytuose straipsniuose nustatytų reikalavimų, pasiūlo pareiškėjui šiuos reikalavimus įvykdyti per Taisyklėse nustatytą terminą. Jeigu pareiškėjas to nepadaro, laikoma, kad patento paraiška atšaukta. ^s-d4933b701be89dbb337e613a
@@ -523,7 +523,7 @@ Referate Taisyklėse nustatyta tvarka pateikiama techninė informacija apie išr
 3. Valstybinis patentų biuras, nustatęs, kad patento paraiškoje su prašymu suteikti prioritetą trūksta išradimo aprašymo arba brėžinių dalies, nurodo pareiškėjui šiuos trūkumus ištaisyti. Pareiškėjas per Taisyklėse nustatytą terminą pasirinktinai arba pateikia trūkstamas išradimo aprašymo arba brėžinių dalis, arba pateikia šio įstatymo [[#^s-d19df30974cf52513ce215a2|21 straipsnio 3 dalyje]] nurodytą pareiškimą. ^s-40c85acf3c8ad38648f205ba
 
 
-4. Valstybinis patentų biuras, nustatęs, kad išradimas yra nepatentabilus šio įstatymo [[#^s-9c4a97c0cf841df4cf04ba51|4 straipsnio 2 dalyje]], [[#^s-afd51137b9c75e5eeebb6c6e|5 straipsnio]] 1 ir [[#^s-d4933b701be89dbb337e613a|2 dalyse]] nustatytais pagrindais, priima sprendimą patento paraišką atmesti. ^s-a12df80d811a989c22cf5a6f
+4. Valstybinis patentų biuras, nustatęs, kad išradimas yra nepatentabilus šio įstatymo [[#^s-9c4a97c0cf841df4cf04ba51|4 straipsnio 2 dalyje]], [[#^s-afd51137b9c75e5eeebb6c6e|5 straipsnio]] [[#^s-241130a63f582700e75f805a|1]] ir [[#^s-8131c39828900353ce2fdcae|2]] dalyse nustatytais pagrindais, priima sprendimą patento paraišką atmesti. ^s-a12df80d811a989c22cf5a6f
 
 
 
@@ -580,7 +580,7 @@ Referate Taisyklėse nustatyta tvarka pateikiama techninė informacija apie išr
 5. Jeigu patento paraiška atmesta, yra atšaukta arba laikoma atšaukta, teisė susipažinti su biologinės medžiagos mėginiu pareiškėjo prašymu gali būti apribota suteikiant šią teisę tik nepriklausomam ekspertui dvidešimčiai metų nuo patento paraiškos padavimo datos. Tokiu atveju taikomos [[#^s-0c41bfb092e7aa78db0e4807|šio straipsnio 7 dalies]] nuostatos. ^s-d72501bd6f9387264f0bc943
 
 
-6. Šio straipsnio 4 ir [[#^s-d72501bd6f9387264f0bc943|5 dalyse]] nurodyti pareiškėjo prašymai pateikiami ne vėliau kaip likus 1 mėnesiui iki patento paraiškos paskelbimo dienos. ^s-5228a28f4c298f1412e572fa
+6. Šio straipsnio [[#^s-c061bc2e5726d348dad88968|4]] ir [[#^s-d72501bd6f9387264f0bc943|5]] dalyse nurodyti pareiškėjo prašymai pateikiami ne vėliau kaip likus 1 mėnesiui iki patento paraiškos paskelbimo dienos. ^s-5228a28f4c298f1412e572fa
 
 
 7. Biologinės medžiagos mėginys [[#^s-c061bc2e5726d348dad88968|šio straipsnio 4 dalyje]] nurodytam suinteresuotam asmeniui ar nepriklausomam ekspertui pateikiamas tik tuo atveju, jeigu patento galiojimo laikotarpiui jis įsipareigoja: ^s-0c41bfb092e7aa78db0e4807
@@ -683,7 +683,7 @@ Referate Taisyklėse nustatyta tvarka pateikiama techninė informacija apie išr
 4. Konkretūs patento paraiškai ir kitiems dokumentams taikomi reikalavimai nustatomi Taisyklėse. ^s-94d89707efc0b345c9446a2f
 
 
-5. Laikoma, kad šio įstatymo [[#^s-73fe3c71ba74c57fc3f406f1|15 straipsnio 1 dalies]] 2–8 punktuose nurodytų paraišką sudarančių dokumentų, pateiktų ne valstybine kalba, vertimas atitinka originalo tekstą, kol neįrodyta priešingai. ^s-15aa62a5bfd0838959d91259
+5. Laikoma, kad šio įstatymo [[#^s-73fe3c71ba74c57fc3f406f1|15 straipsnio 1 dalies]] [[#^s-7d93f8ff1d8a7f52e090beb5|2]]–[[#^s-10ffde20c1c3cbfe69997740|8]] punktuose nurodytų paraišką sudarančių dokumentų, pateiktų ne valstybine kalba, vertimas atitinka originalo tekstą, kol neįrodyta priešingai. ^s-15aa62a5bfd0838959d91259
 
 
 6. Dokumentas laikomas nepaduotu, jeigu pareiškėjas, patento savininkas ar jų atstovai per šiame įstatyme nustatytus terminus nepateikia reikiamų dokumentų ar jie neatitinka nustatytų reikalavimų. ^s-49592e2f7aeb258221b4210a
@@ -693,7 +693,7 @@ Referate Taisyklėse nustatyta tvarka pateikiama techninė informacija apie išr
 ### 32 straipsnis. Patento paraiškos nagrinėjimo tęsimas ^s-b3e6e6477354f528115fb932
 
 
-1. Jeigu praleistas šio įstatymo [[#^s-9a184a8434e33e6571f22ac5|24 straipsnio]] 2 ar 3 dalyje nustatytas terminas, pareiškėjas arba jo atstovas, sumokėję nustatytą mokestį, per 2 mėnesius nuo Valstybinio patentų biuro pranešimo dėl termino praleidimo išsiuntimo dienos gali Valstybiniam patentų biurui pateikti prašymą tęsti patento paraiškos nagrinėjimą. Kartu su šiuo prašymu pateikiami dokumentai, įrodantys, kad atliktas veiksmas, dėl kurio prašoma tęsti patento paraiškos nagrinėjimą. ^s-18cb7c517cec0b6dcc2ba836
+1. Jeigu praleistas šio įstatymo [[#^s-9a184a8434e33e6571f22ac5|24 straipsnio]] [[#^s-d4933b701be89dbb337e613a|2]] ar [[#^s-40c85acf3c8ad38648f205ba|3]] dalyje nustatytas terminas, pareiškėjas arba jo atstovas, sumokėję nustatytą mokestį, per 2 mėnesius nuo Valstybinio patentų biuro pranešimo dėl termino praleidimo išsiuntimo dienos gali Valstybiniam patentų biurui pateikti prašymą tęsti patento paraiškos nagrinėjimą. Kartu su šiuo prašymu pateikiami dokumentai, įrodantys, kad atliktas veiksmas, dėl kurio prašoma tęsti patento paraiškos nagrinėjimą. ^s-18cb7c517cec0b6dcc2ba836
 
 
 2. Sprendimą tęsti patento paraiškos nagrinėjimą priima Valstybinis patentų biuras Taisyklėse nustatyta tvarka. ^s-73545a82d4cfd53bfc1185f9
@@ -703,7 +703,7 @@ Referate Taisyklėse nustatyta tvarka pateikiama techninė informacija apie išr
 ### 33 straipsnis. Teisių atkūrimas ^s-7769d07629d7d9b557235c2c
 
 
-1. Kai pareiškėjas ar patento savininkas praranda su patento paraiška ar patentu susijusias teises tik dėl to, kad nesilaikė šio įstatymo [[#^s-d407972e84c9fab0cb97d69a|21 straipsnio 2 dalyje]], [[#^s-300abda59fb0c54cb6960807|28 straipsnio 1 dalyje]], [[#^s-8881d91a1e5c3f62d2148e4f|31 straipsnio 2 dalyje]], [[#^s-f5624f41dab19ce916a153d1|36 straipsnio 5 dalyje]], [[#^s-b111e1fca7819cf3a95b4596|71 straipsnio]] 2 ir [[#^s-1daed2c9b61299689fdf64ad|3 dalyse]], [[#^s-4e79996b8a80e2a946a5a8be|79 straipsnio]] 2 ir [[#^s-1daed2c9b61299689fdf64ad|3 dalyse]] nustatytų terminų, sumokėjus nustatytą mokestį, šios teisės atkuriamos, jeigu pateikiamas prašymas atkurti prarastas teises ir terminas buvo praleistas nepaisant visų tam tikromis aplinkybėmis įdėtų būtinų pastangų. ^s-5055c9d1833726160cebefd2
+1. Kai pareiškėjas ar patento savininkas praranda su patento paraiška ar patentu susijusias teises tik dėl to, kad nesilaikė šio įstatymo [[#^s-d407972e84c9fab0cb97d69a|21 straipsnio 2 dalyje]], [[#^s-300abda59fb0c54cb6960807|28 straipsnio 1 dalyje]], [[#^s-8881d91a1e5c3f62d2148e4f|31 straipsnio 2 dalyje]], [[#^s-f5624f41dab19ce916a153d1|36 straipsnio 5 dalyje]], [[#^s-b111e1fca7819cf3a95b4596|71 straipsnio]] [[#^s-60003c89fa9cf347b8731907|2]] ir [[#^s-9bd44ca60a5ab87b0d1c82a0|3]] dalyse, [[#^s-4e79996b8a80e2a946a5a8be|79 straipsnio]] [[#^s-2f63bd925a1868ba60e3f1fd|2]] ir [[#^s-8e8ce0e23ca6455e438b7e6f|3]] dalyse nustatytų terminų, sumokėjus nustatytą mokestį, šios teisės atkuriamos, jeigu pateikiamas prašymas atkurti prarastas teises ir terminas buvo praleistas nepaisant visų tam tikromis aplinkybėmis įdėtų būtinų pastangų. ^s-5055c9d1833726160cebefd2
 
 
 2. Prašymas atkurti teises turi būti motyvuotas ir prie jo pridedami duomenys dėl termino praleidimo priežasčių. Pateikiant prašymą atkurti teises, kartu turi būti atliekamas veiksmas, dėl kurio buvo praleistas terminas. ^s-d67bf36d509cc423f5dec026
@@ -737,7 +737,7 @@ PATENTO GALIOJIMAS
 2. Kai patento objektas yra gaminio gamybos būdas, patento savininkas turi išimtinę teisę drausti kitiems asmenims be jo leidimo naudoti tą būdą ir naudoti, siūlyti parduoti, parduoti, importuoti ar eksportuoti tiesiogiai tuo būdu gautą gaminį. ^s-7bf4b87f7a219c8dd9456304
 
 
-3. Patento savininkas neturi teisės trukdyti kitiems asmenims atlikti šio straipsnio 1 ir [[#^s-7bf4b87f7a219c8dd9456304|2 dalyse]] nurodytų veiksmų, jeigu jie: ^s-a91d5bcece99158ecc9da29d
+3. Patento savininkas neturi teisės trukdyti kitiems asmenims atlikti šio straipsnio [[#^s-d71ce1ef29c317f779b66d97|1]] ir [[#^s-7bf4b87f7a219c8dd9456304|2]] dalyse nurodytų veiksmų, jeigu jie: ^s-a91d5bcece99158ecc9da29d
 
 
 1) atliekami savo poreikiams tenkinti ir neprieštarauja ekonominiams patento savininko interesams; ^s-a33f8c497d61677401e26dc7
@@ -752,10 +752,10 @@ PATENTO GALIOJIMAS
 4) susiję su gaminiais, kurie paties patento savininko arba jo sutikimu yra pateikti rinkai Europos ekonominės erdvės valstybėse. ^s-49f8bdb5669e27ca84e6723e
 
 
-4. Patento savininkas turi teisę uždrausti kitiems asmenims tiekti arba siūlyti tiekti pagrindinius patentuoto išradimo elementus, išskyrus tuos, kurie plačiai žinomi ūkinėje veikloje, jeigu jų tiekimas arba siūlymas tiekti reikalingas šio straipsnio 1 ir [[#^s-7bf4b87f7a219c8dd9456304|2 dalyse]] nurodytiems veiksmams atlikti. ^s-2bab4e440beb61c236424c95
+4. Patento savininkas turi teisę uždrausti kitiems asmenims tiekti arba siūlyti tiekti pagrindinius patentuoto išradimo elementus, išskyrus tuos, kurie plačiai žinomi ūkinėje veikloje, jeigu jų tiekimas arba siūlymas tiekti reikalingas šio straipsnio [[#^s-d71ce1ef29c317f779b66d97|1]] ir [[#^s-7bf4b87f7a219c8dd9456304|2]] dalyse nurodytiems veiksmams atlikti. ^s-2bab4e440beb61c236424c95
 
 
-5. Kai patento savininkas leidžia arba pats parduoda ar kitokiu komerciniu būdu perduoda ūkininkui augalų veisimo medžiagą naudoti žemės ūkyje, laikoma, kad jis suteikia ūkininkui teisę naudoti savo derliaus produktus veisimui ar dauginimui to ūkininko ūkyje. Šios išimties taikymo ribos ir sąlygos nustatytos 1994 m. liepos 27 d. Tarybos reglamento (EB) Nr. 2100/94 dėl augalų veislių teisinės apsaugos Bendrijoje [[#^s-7b68554e67efcbfd28bfb1ce|14 straipsnyje]]. ^s-10d9c7013a2162d115688203
+5. Kai patento savininkas leidžia arba pats parduoda ar kitokiu komerciniu būdu perduoda ūkininkui augalų veisimo medžiagą naudoti žemės ūkyje, laikoma, kad jis suteikia ūkininkui teisę naudoti savo derliaus produktus veisimui ar dauginimui to ūkininko ūkyje. Šios išimties taikymo ribos ir sąlygos nustatytos 1994 m. liepos 27 d. Tarybos [reglamento (EB) Nr. 2100/94](https://eur-lex.europa.eu/eli/reg/2100/94/oj) dėl augalų veislių teisinės apsaugos Bendrijoje [[#^s-7b68554e67efcbfd28bfb1ce|14 straipsnyje]]. ^s-10d9c7013a2162d115688203
 
 
 6. Kai patento savininkas leidžia arba pats parduoda ar kitokiu komerciniu būdu perduoda ūkininkui veislinius gyvulius ar kitokią gyvūnų dauginimo medžiagą, laikoma, kad jis suteikia ūkininkui teisę naudoti teisinę apsaugą turinčius naminius gyvulius žemės ūkio tikslais. Be to, tai reiškia, kad patento savininkas perduoda gyvūnus ar kitą gyvūnų veisimo medžiagą naudoti žemės ūkyje, bet ne pardavimui ar parduoti komerciniam veisimui. ^s-01767d229ca01dd09eda49e6
@@ -796,13 +796,13 @@ PATENTO GALIOJIMAS
 ### 37 straipsnis. Papildomos apsaugos liudijimas ^s-ba2175c519b8c5bd6bb179b3
 
 
-1. Papildomos apsaugos liudijimams taikomi 1992 m. birželio 18 d. Tarybos reglamentas (EEB) Nr. 1768/92 dėl medicinos produktų papildomos apsaugos liudijimo sukūrimo ir 1996 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1610/96 dėl augalų apsaugos priemonių papildomos apsaugos liudijimo sukūrimo. ^s-73f6f22a765665a39a18ede7
+1. Papildomos apsaugos liudijimams taikomi 1992 m. birželio 18 d. Tarybos [reglamentas (EEB) Nr. 1768/92](https://eur-lex.europa.eu/eli/reg/1768/92/oj) dėl medicinos produktų papildomos apsaugos liudijimo sukūrimo ir 1996 m. liepos 23 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1610/96](https://eur-lex.europa.eu/eli/reg/1610/96/oj) dėl augalų apsaugos priemonių papildomos apsaugos liudijimo sukūrimo. ^s-73f6f22a765665a39a18ede7
 
 
 2. Papildomos apsaugos liudijimo galiojimo terminas priklauso nuo metų mokesčio mokėjimo. ^s-8d17daa476c50d92147c4063
 
 
-3. Pirmas metų mokestis už papildomos apsaugos liudijimo galiojimą sumokamas per 2 paskutinius patento paskutinių galiojimo metų mėnesius. Kitų metų mokesčių už papildomos apsaugos liudijimo galiojimą mokėjimui mutatis mutandis taikomos šio įstatymo [[#^s-42a2cb91891ccc30a87ed1b0|36 straipsnio 4 dalies]] nuostatos. Metų mokesčių už papildomos apsaugos liudijimo galiojimą mokėjimui mutatis mutandis taikomos šio įstatymo [[#^s-e160e5293ca2fb0e014beafa|36 straipsnio]] 5 ir 6 dalių nuostatos. ^s-f8e108c8f547f1043f88d427
+3. Pirmas metų mokestis už papildomos apsaugos liudijimo galiojimą sumokamas per 2 paskutinius patento paskutinių galiojimo metų mėnesius. Kitų metų mokesčių už papildomos apsaugos liudijimo galiojimą mokėjimui mutatis mutandis taikomos šio įstatymo [[#^s-42a2cb91891ccc30a87ed1b0|36 straipsnio 4 dalies]] nuostatos. Metų mokesčių už papildomos apsaugos liudijimo galiojimą mokėjimui mutatis mutandis taikomos šio įstatymo [[#^s-e160e5293ca2fb0e014beafa|36 straipsnio]] [[#^s-f5624f41dab19ce916a153d1|5]] ir [[#^s-94a27010bf183a62c66240a4|6]] dalių nuostatos. ^s-f8e108c8f547f1043f88d427
 
 
 
@@ -843,7 +843,7 @@ PATENTO GALIOJIMAS
 3. Produkto, turinčio ar sudarančio genetinę informaciją, patento suteikiama teisinė apsauga apima ir visas medžiagas, kuriose yra produktas ir savo funkcijas atliekanti genetinė informacija, išskyrus žmogaus kūną ar jo elementus, įskaitant geno seką ar jos dalis natūralioje aplinkoje bet kuriais jų formavimosi ir raidos etapais. ^s-7bfaadc9f1e74b27c8b194d2
 
 
-4. Šio straipsnio 1, 2 ir [[#^s-7bfaadc9f1e74b27c8b194d2|3 dalyse]] nustatyta teisinė apsauga neapima biologinės medžiagos, veisimo arba dauginimo būdu gautos iš kitos biologinės medžiagos, kurią patento savininkas pateikė ar leido pateikti Europos ekonominės erdvės rinkai, kai veisimas arba dauginimas yra neišvengiamas panaudojimo, dėl kurio biologinė medžiaga buvo pateikta rinkai, rezultatas, jeigu gautoji medžiaga nebus naudojama kitam veisimui arba dauginimui. ^s-12169dedea6a64a128b70357
+4. Šio straipsnio [[#^s-a2279e126fed9120df9c5518|1]], [[#^s-96a8765c45fcd2030d0d1edd|2]] ir [[#^s-7bfaadc9f1e74b27c8b194d2|3]] dalyse nustatyta teisinė apsauga neapima biologinės medžiagos, veisimo arba dauginimo būdu gautos iš kitos biologinės medžiagos, kurią patento savininkas pateikė ar leido pateikti Europos ekonominės erdvės rinkai, kai veisimas arba dauginimas yra neišvengiamas panaudojimo, dėl kurio biologinė medžiaga buvo pateikta rinkai, rezultatas, jeigu gautoji medžiaga nebus naudojama kitam veisimui arba dauginimui. ^s-12169dedea6a64a128b70357
 
 
 
@@ -968,7 +968,7 @@ Suinteresuotas asmuo gali pareikšti teismui ieškinį dėl teisės į patento p
 6. Paskelbtos patento paraiškos ar patento savininkas gali šio įstatymo [[#^s-f1da54c1b7cf2bad42b3720e|35 straipsnyje]] nurodytas teises panaudoti prieš licenciatą, jeigu šis nevykdo kurios nors licencinėje sutartyje numatytos sąlygos. ^s-d1bd634bcb70c142f7da96e9
 
 
-7. Šio straipsnio 1–[[#^s-d1bd634bcb70c142f7da96e9|6 dalių]] nuostatos mutatis mutandis taikomos patento sublicencinei sutarčiai. ^s-559bb24a8968bc2570388b48
+7. Šio straipsnio [[#^s-7965e7ffdc2d2896454b6e46|1]]–[[#^s-d1bd634bcb70c142f7da96e9|6]] dalių nuostatos mutatis mutandis taikomos patento sublicencinei sutarčiai. ^s-559bb24a8968bc2570388b48
 
 
 
@@ -1018,7 +1018,7 @@ PRIVERSTINĖ LICENCIJA
 2. Jeigu biotechnologinio išradimo patento savininkas negali išradimu naudotis nepažeisdamas ankstesnės augalo veislės teisinės apsaugos, jis už atlyginimą gali prašyti priverstinės licencijos dėl neišimtinės teisės naudotis saugoma augalo veisle. Išdavus tokią licenciją, augalo veislės teisinės apsaugos savininkas normaliomis sąlygomis turi teisę gauti abipusę licenciją naudoti patentuotą išradimą. ^s-d24b742d3070f5832c9e0a3b
 
 
-3. Pareiškėjai, siekdami gauti šio straipsnio 1 ir [[#^s-d24b742d3070f5832c9e0a3b|2 dalyse]] nurodytas licencijas, privalo įrodyti, kad: ^s-31281e402ef3f7d9a9359e49
+3. Pareiškėjai, siekdami gauti šio straipsnio [[#^s-5babfecd56abef6f3e26ccd6|1]] ir [[#^s-d24b742d3070f5832c9e0a3b|2]] dalyse nurodytas licencijas, privalo įrodyti, kad: ^s-31281e402ef3f7d9a9359e49
 
 
 1) jie kreipėsi į biotechnologinio išradimo patento ar augalo veislės teisinės apsaugos savininką norėdami gauti sutartinę licenciją, bet jos negavo; ^s-d41c38bac88a4034d6d85f21
@@ -1027,13 +1027,13 @@ PRIVERSTINĖ LICENCIJA
 2) augalo veislė ar biotechnologinis išradimas, palyginti su patentuotu išradimu ar saugoma augalo veisle, reiškia didelę techninę pažangą ir turi svarią ekonominę reikšmę. ^s-d8446bc24ba443d5e5d8fee6
 
 
-4. Sprendimą dėl šio straipsnio 1 ir [[#^s-d24b742d3070f5832c9e0a3b|2 dalyse]] nurodytų priverstinių licencijų išdavimo, atlyginimo dydžio, kitų priverstinės licencijos sąlygų ir apimties priima teismas. Jeigu priverstinės licencijos išdavimo sąlygos pasikeičia ar išnyksta, biotechnologinio išradimo patento ar augalo veislės teisinės apsaugos savininko prašymu teismas gali panaikinti priverstinę licenciją arba pakeisti jos sąlygas. ^s-e6f0de3fb8ff96bdb2404e9c
+4. Sprendimą dėl šio straipsnio [[#^s-5babfecd56abef6f3e26ccd6|1]] ir [[#^s-d24b742d3070f5832c9e0a3b|2]] dalyse nurodytų priverstinių licencijų išdavimo, atlyginimo dydžio, kitų priverstinės licencijos sąlygų ir apimties priima teismas. Jeigu priverstinės licencijos išdavimo sąlygos pasikeičia ar išnyksta, biotechnologinio išradimo patento ar augalo veislės teisinės apsaugos savininko prašymu teismas gali panaikinti priverstinę licenciją arba pakeisti jos sąlygas. ^s-e6f0de3fb8ff96bdb2404e9c
 
 
-5. Saugomų augalų veislių sąrašą ir Lietuvos Respublikos patentų registrą tvarkančios įstaigos yra atsakingos už šio straipsnio 1 ir [[#^s-d24b742d3070f5832c9e0a3b|2 dalyse]] nurodytų priverstinių licencijų registravimą teisės aktų nustatyta tvarka. ^s-5490c7aac524f4442445a827
+5. Saugomų augalų veislių sąrašą ir Lietuvos Respublikos patentų registrą tvarkančios įstaigos yra atsakingos už šio straipsnio [[#^s-5babfecd56abef6f3e26ccd6|1]] ir [[#^s-d24b742d3070f5832c9e0a3b|2]] dalyse nurodytų priverstinių licencijų registravimą teisės aktų nustatyta tvarka. ^s-5490c7aac524f4442445a827
 
 
-6. Kai augalo veislės licenciją gali išduoti tik Bendrijos augalų veislių tarnyba, taikomos 1994 m. liepos 27 d. Tarybos reglamento (EB) Nr. 2100/94 dėl augalų veislių teisinės apsaugos Bendrijoje [[#^s-22567b98d10b7eaeaa1fd96c|29 straipsnio]] nuostatos. ^s-72edc7f966a1ec10e9228a5f
+6. Kai augalo veislės licenciją gali išduoti tik Bendrijos augalų veislių tarnyba, taikomos 1994 m. liepos 27 d. Tarybos [reglamento (EB) Nr. 2100/94](https://eur-lex.europa.eu/eli/reg/2100/94/oj) dėl augalų veislių teisinės apsaugos Bendrijoje [[#^s-22567b98d10b7eaeaa1fd96c|29 straipsnio]] nuostatos. ^s-72edc7f966a1ec10e9228a5f
 
 
 
@@ -1107,7 +1107,7 @@ Ginčus dėl išradimų patentavimo ir naudojimo nagrinėja šios institucijos:
 1) Valstybinio patentų biuro Apeliacinis skyrius – iki patento išdavimo tarp pareiškėjo ir Valstybinio patentų biuro eksperto kilusius ginčus dėl patento paraiškos padavimo ir prioriteto datos nustatymo, ekspertizės išvadų ir atsisakymo išduoti patentą Valstybinio patentų biuro nustatyta tvarka; ^s-e7ea8a21a975d75a62fe40b4
 
 
-2) Vilniaus apygardos teismas – ginčus dėl Valstybinio patentų biuro Apeliacinio skyriaus sprendimų, teisės į patento paraišką ar patentą pripažinimo kitam asmeniui, išduoto patento pripažinimo visiškai ar iš dalies negaliojančiu, paskelbtos patento paraiškos, kuriai suteikta laikina teisine apsauga, pažeidimo, išduoto patento pažeidimo, patento pažeidimo fakto nebuvimo nustatymo, šio įstatymo 48, [[#^s-fabb3d5655fc5834c8f8c8e8|49 straipsniuose]] nurodytų licencijų išdavimo, panaikinimo ir sąlygų pakeitimo, patento panaikinimo. ^s-e59cbb8e2ec2fb205856f7bc
+2) Vilniaus apygardos teismas – ginčus dėl Valstybinio patentų biuro Apeliacinio skyriaus sprendimų, teisės į patento paraišką ar patentą pripažinimo kitam asmeniui, išduoto patento pripažinimo visiškai ar iš dalies negaliojančiu, paskelbtos patento paraiškos, kuriai suteikta laikina teisine apsauga, pažeidimo, išduoto patento pažeidimo, patento pažeidimo fakto nebuvimo nustatymo, šio įstatymo [[#^s-7fcfaf6ef9c06f15dcc66501|48]], [[#^s-fabb3d5655fc5834c8f8c8e8|49]] straipsniuose nurodytų licencijų išdavimo, panaikinimo ir sąlygų pakeitimo, patento panaikinimo. ^s-e59cbb8e2ec2fb205856f7bc
 
 
 
@@ -1152,20 +1152,20 @@ Ginčus dėl išradimų patentavimo ir naudojimo nagrinėja šios institucijos:
 ### 54 straipsnis. Įrodymai ^s-e928da6b683f870cdd307472
 
 
-1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu Civilinio proceso kodekso nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo pažeistos šio įstatymo nustatytos teisės. ^s-306efb8349801980c5c85501
+1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo pažeistos šio įstatymo nustatytos teisės. ^s-306efb8349801980c5c85501
 
 
-2. Jeigu šio įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-306efb8349801980c5c85501|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas Civilinio proceso kodekso nustatyta tvarka iš priešingos šalies gali išreikalauti banko, finansinius ar komercinius dokumentus, jeigu garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-ae526737d2907b8913775334
+2. Jeigu šio įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-306efb8349801980c5c85501|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka iš priešingos šalies gali išreikalauti banko, finansinius ar komercinius dokumentus, jeigu garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-ae526737d2907b8913775334
 
 
 
 ### 55 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės ^s-591fbc16f704980dc981f27b
 
 
-1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja Civilinio proceso kodeksas ir šis įstatymas. ^s-f4f67027d849f097621a668e
+1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir šis įstatymas. ^s-f4f67027d849f097621a668e
 
 
-2. Kai yra pakankamas pagrindas įtarti, kad buvo šio įstatymo nustatytų teisių pažeidimas, teismas Civilinio proceso kodekso nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, t. y.: ^s-17a4f3d460cfb3a91fb6e63d
+2. Kai yra pakankamas pagrindas įtarti, kad buvo šio įstatymo nustatytų teisių pažeidimas, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, t. y.: ^s-17a4f3d460cfb3a91fb6e63d
 
 
 1) uždrausti asmenims daryti gresiantį šio įstatymo nustatytų teisių pažeidimą; ^s-2683906be8a48cca11b9367b
@@ -1183,7 +1183,7 @@ Ginčus dėl išradimų patentavimo ir naudojimo nagrinėja šios institucijos:
 5) areštuoti šio įstatymo nustatytų teisių pažeidimu įtariamų asmenų turtą, kurį turi jie arba tretieji asmenys, įskaitant banko ir kitų kredito įstaigų sąskaitas; tuo tikslu taip pat reikalauti pateikti banko, finansinius ar komercinius dokumentus arba sudaryti galimybę susipažinti su šiais dokumentais, jeigu pažeidimas padarytas komerciniu tikslu; ^s-6429967c6499e25de77e2993
 
 
-6) taikyti kitas Civilinio proceso kodekse nustatytas priemones. ^s-c5a928f869fed6a696e1b57a
+6) taikyti kitas [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytas priemones. ^s-c5a928f869fed6a696e1b57a
 
 
 3. Jeigu pritaikytos [[#^s-17a4f3d460cfb3a91fb6e63d|šio straipsnio 2 dalies]] 1 ir 2 punktuose nurodytos laikinosios apsaugos priemonės yra pažeidžiamos ar šis pažeidimas tęsiamas, teismas gali įpareigoti pažeidimo padarymu įtariamus asmenis pateikti tinkamą galimos žalos kompensavimo užtikrinimą asmeniui, prašiusiam taikyti laikinąsias apsaugos priemones. ^s-c219bb583f26dcc0ae623bc8
@@ -1201,7 +1201,7 @@ Ginčus dėl išradimų patentavimo ir naudojimo nagrinėja šios institucijos:
 2) areštuoti šio įstatymo nustatytas teises pažeidžiančius gaminius, prireikus – medžiagas ir priemones, kurios yra naudojamos jų gamybai ir (arba) platinimui, bei su jais susijusius dokumentus ir juos paimti; ^s-e87f58c8107e046bb65c4ac7
 
 
-3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas Civilinio proceso kodekse. ^s-98b22a97c34f82115e82613d
+3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). ^s-98b22a97c34f82115e82613d
 
 
 6. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač tais atvejais, kai delsimas galėtų padaryti nepataisomą žalą pareiškėjui arba kai įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kad laikinosios apsaugos ir įrodymų užtikrinimo priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, t. y. iš karto tas priemones pritaikius. Šalių prašymu, įskaitant teisę būti išklausytam, laikinosios apsaugos priemonės gali būti peržiūrėtos siekiant per protingą terminą po pranešimo apie priemonių pritaikymą nuspręsti, ar šios priemonės turi būti pakeistos, panaikintos ar patvirtintos. ^s-4fbb5de76bbd34e7529e0d5b
@@ -1301,7 +1301,7 @@ PATENTO PAKEITIMAI. PATENTO ATSISAKYMAS. PATENTO PRIPAŽINIMAS NEGALIOJANČIU
 1. Teismas pagal suinteresuotų asmenų ieškinį gali pripažinti patentą visiškai arba iš dalies negaliojančiu, jeigu: ^s-ca868359b0fa6e43a8ae08bb
 
 
-1) išradimas pagal šio įstatymo 4–[[#^s-f0f09b865e4154e21374e499|8 straipsnius]] yra nepatentabilus; ^s-5054912db82c6b7831416a44
+1) išradimas pagal šio įstatymo [[#^s-3d0940dacd54216f68a5029b|4]]–[[#^s-f0f09b865e4154e21374e499|8]] straipsnius yra nepatentabilus; ^s-5054912db82c6b7831416a44
 
 
 2) patente išradimo esmė neatskleista taip aiškiai ir išsamiai, kad jį galėtų panaudoti tos srities specialistas; ^s-d2934241da5a85f8e691174e
@@ -1363,7 +1363,7 @@ TARPTAUTINĖ PATENTO PARAIŠKA
 3. Laikina teisinė apsauga įsigalioja nuo datos, kai Valstybinio patentų biuro oficialiame biuletenyje buvo paskelbtas tarptautinėje patento paraiškoje nurodyto išradimo apibrėžties vertimas į valstybinę kalbą. ^s-37cee6107d835f857d664031
 
 
-4. Kai Valstybinis patentų biuras yra nurodytoji ar pasirinktoji patentų tarnyba, tarptautinės patento paraiškos pareiškėjas, norėdamas pagal šį įstatymą gauti Lietuvos Respublikos patentą, privalo per Patentinės kooperacijos sutarties 22 ar [[#^s-fbf39efe5b680a89d1fee89d|39 straipsnyje]] nustatytą terminą pateikti tarptautinės patento paraiškos vertimą į valstybinę kalbą ir sumokėti mokestį. ^s-d36ea7d48a26da957e5ea082
+4. Kai Valstybinis patentų biuras yra nurodytoji ar pasirinktoji patentų tarnyba, tarptautinės patento paraiškos pareiškėjas, norėdamas pagal šį įstatymą gauti Lietuvos Respublikos patentą, privalo per Patentinės kooperacijos sutarties [[#^s-f937f92628546d7d93a4511b|22]] ar [[#^s-fbf39efe5b680a89d1fee89d|39]] straipsnyje nustatytą terminą pateikti tarptautinės patento paraiškos vertimą į valstybinę kalbą ir sumokėti mokestį. ^s-d36ea7d48a26da957e5ea082
 
 
 
@@ -1421,7 +1421,7 @@ EUROPOS PATENTŲ GALIOJIMO IŠPLĖTIMAS
 ### 71 straipsnis. Europos patentų galiojimas ^s-b111e1fca7819cf3a95b4596
 
 
-1. Išplėstas Europos patentas pagal šio straipsnio 2–[[#^s-cf02e034f4ee0efbdcc44f46|6 dalis]] nuo paskelbimo apie jo išdavimą Europos patentų tarnyboje datos suteikia tokias pat teises, kokias pagal šio įstatymo [[#^s-f1da54c1b7cf2bad42b3720e|35 straipsnį]] suteikia pagal šį įstatymą išduotas patentas. ^s-adf0eb02e17ecc541d333488
+1. Išplėstas Europos patentas pagal šio straipsnio [[#^s-60003c89fa9cf347b8731907|2]]–[[#^s-cf02e034f4ee0efbdcc44f46|6]] dalis nuo paskelbimo apie jo išdavimą Europos patentų tarnyboje datos suteikia tokias pat teises, kokias pagal šio įstatymo [[#^s-f1da54c1b7cf2bad42b3720e|35 straipsnį]] suteikia pagal šį įstatymą išduotas patentas. ^s-adf0eb02e17ecc541d333488
 
 
 2. Europos patento savininkas per 3 mėnesius nuo paskelbimo apie Europos patento išdavimą datos pateikia Valstybiniam patentų biurui Europos patento išradimo apibrėžties vertimą į valstybinę kalbą ir sumoka mokestį už jo paskelbimą. ^s-60003c89fa9cf347b8731907
@@ -1430,10 +1430,10 @@ EUROPOS PATENTŲ GALIOJIMO IŠPLĖTIMAS
 3. Jeigu dėl Europos patentų tarnybai paduoto protesto pakeičiama Europos patento išradimo apibrėžtis, patento savininkas per 3 mėnesius nuo pakeistos patento apibrėžties paskelbimo datos turi pateikti Valstybiniam patentų biurui pakeistos išradimo apibrėžties vertimą į valstybinę kalbą ir sumokėti mokestį už jo paskelbimą. ^s-9bd44ca60a5ab87b0d1c82a0
 
 
-4. Valstybinis patentų biuras skubiai skelbia pagal šio straipsnio 2 ar [[#^s-9bd44ca60a5ab87b0d1c82a0|3 dalį]] pateiktus Europos patento išradimo apibrėžties ar pakeistos išradimo apibrėžties tikslius vertimus. ^s-b19f2c633f0e74fd4e809572
+4. Valstybinis patentų biuras skubiai skelbia pagal šio straipsnio [[#^s-60003c89fa9cf347b8731907|2]] ar [[#^s-9bd44ca60a5ab87b0d1c82a0|3]] dalį pateiktus Europos patento išradimo apibrėžties ar pakeistos išradimo apibrėžties tikslius vertimus. ^s-b19f2c633f0e74fd4e809572
 
 
-5. Jeigu šio straipsnio 2 ar [[#^s-9bd44ca60a5ab87b0d1c82a0|3 dalyje]] nurodytas vertimas laiku nepateikiamas ir mokestis laiku nesumokamas, Europos patentas nuo pat pradžios laikomas negaliojančiu. ^s-b32fe7d0c85b71dcb9b2219a
+5. Jeigu šio straipsnio [[#^s-60003c89fa9cf347b8731907|2]] ar [[#^s-9bd44ca60a5ab87b0d1c82a0|3]] dalyje nurodytas vertimas laiku nepateikiamas ir mokestis laiku nesumokamas, Europos patentas nuo pat pradžios laikomas negaliojančiu. ^s-b32fe7d0c85b71dcb9b2219a
 
 
 6. Išplėstas Europos patentas ir Europos patento paraiška, pagal kurią šis patentas buvo išduotas, nesukelia [[#^s-adf0eb02e17ecc541d333488|šio straipsnio 1 dalyje]] ir šio įstatymo [[#^s-6b80856f9dd5185bf42bfa97|70 straipsnio 2 dalyje]] nustatytų teisinių pasekmių nuo pat pradžių tokios apimties, kokia patentas buvo panaikintas išnagrinėjus Europos patentų tarnyboje gautą protestą. ^s-cf02e034f4ee0efbdcc44f46
@@ -1446,7 +1446,7 @@ EUROPOS PATENTŲ GALIOJIMO IŠPLĖTIMAS
 1. Europos patento paraiškos arba Europos patento tekstas Europos patentų tarnybos procedūrų kalba laikomas autentišku tekstu ir Lietuvos Respublikoje. ^s-f79d7e00072265e6ed9bfaea
 
 
-2. Šio įstatymo 70 ir [[#^s-b111e1fca7819cf3a95b4596|71 straipsniuose]] nurodyti vertimai laikomi autentiškais, išskyrus patentų panaikinimo procesą, kai jiems suteikiama siauresnė apsauga, negu buvo suteikta tekstams Europos patentų tarnybos procedūrų kalba. ^s-631fbfa5f43478be691820c1
+2. Šio įstatymo [[#^s-add42a1eb99e25d3365b67bd|70]] ir [[#^s-b111e1fca7819cf3a95b4596|71]] straipsniuose nurodyti vertimai laikomi autentiškais, išskyrus patentų panaikinimo procesą, kai jiems suteikiama siauresnė apsauga, negu buvo suteikta tekstams Europos patentų tarnybos procedūrų kalba. ^s-631fbfa5f43478be691820c1
 
 
 3. Pareiškėjas ar patento savininkas gali pateikti ištaisytą Europos patento paraiškos arba Europos patento išradimo apibrėžties vertimą. Ištaisytas vertimas įsigalioja, kai jį paskelbia Valstybinis patentų biuras. Kiekvienas asmuo, sąžiningai naudojantis arba pasirengęs naudoti išradimą, nepažeisdamas patento paraiškos ar patento pirminio vertimo, po išradimo apibrėžties vertimo ištaisymo gali ir toliau nemokamai naudoti išradimą savo veikloje arba savo reikmėms. ^s-5f68c1a0627b2f7c83b5d044
@@ -1473,7 +1473,7 @@ Jeigu išplėstas Europos patentas ir pagal šį įstatymą išduotas patentas, 
 ### 75 straipsnis. Metų mokestis už išplėsto Europos patento galiojimo pratęsimą ^s-3c2ca18562ab2e79465f233b
 
 
-Išplėsto Europos patento galiojimo terminui ir metų mokesčiui taikomos šio įstatymo [[#^s-e160e5293ca2fb0e014beafa|36 straipsnio]] 1, 2, 4, 5, 6 ir 7 dalių nuostatos. Metų mokestis už išplėstą Europos patentą pradedamas mokėti nuo kitų metų po paskelbimo apie Europos patento išdavimą.
+Išplėsto Europos patento galiojimo terminui ir metų mokesčiui taikomos šio įstatymo [[#^s-e160e5293ca2fb0e014beafa|36 straipsnio]] [[#^s-d642a4546c479d40b2294d7c|1]], [[#^s-9453d59a85e559cefcb2f1a5|2]], [[#^s-42a2cb91891ccc30a87ed1b0|4]], [[#^s-f5624f41dab19ce916a153d1|5]], [[#^s-94a27010bf183a62c66240a4|6]] ir [[#^s-802f3a4b2c531693aa9b6574|7]] dalių nuostatos. Metų mokestis už išplėstą Europos patentą pradedamas mokėti nuo kitų metų po paskelbimo apie Europos patento išdavimą.
 
 
 
@@ -1501,7 +1501,7 @@ EUROPOS PATENTŲ KONVENCIJOS ĮGYVENDINIMAS
 ### 77 straipsnis. Europos patento paraiškos padavimas ^s-860af42f13890d9953aa83fa
 
 
-1. Europos patento paraiška paduodama tiesiogiai Europos patentų tarnybai arba Valstybiniam patentų biurui Europos patentų konvencijos [[#^s-7b68554e67efcbfd28bfb1ce|14 straipsnio]] 1 ir [[#^s-cdaf1eddd5e8d273d39caf7c|2 dalyse]] numatytomis kalbomis. ^s-f0be7e1e0fab00440b2d08d2
+1. Europos patento paraiška paduodama tiesiogiai Europos patentų tarnybai arba Valstybiniam patentų biurui Europos patentų konvencijos [[#^s-7b68554e67efcbfd28bfb1ce|14 straipsnio]] [[#^s-9dc73b314d0d7ea62834395c|1]] ir [[#^s-e79d4b18aa9680650434d045|2]] dalyse numatytomis kalbomis. ^s-f0be7e1e0fab00440b2d08d2
 
 
 2. Valstybinis patentų biuras gautas Europos patento paraiškas, išskyrus susijusias su valstybės ar tarnybos paslaptimis, persiunčia Europos patentų tarnybai per Europos patentų konvencijos [[#^s-860af42f13890d9953aa83fa|77 straipsnyje]] nurodytą terminą. ^s-cdaf1eddd5e8d273d39caf7c
@@ -1530,7 +1530,7 @@ EUROPOS PATENTŲ KONVENCIJOS ĮGYVENDINIMAS
 ### 79 straipsnis. Europos patento galiojimas ^s-4e79996b8a80e2a946a5a8be
 
 
-1. Europos patentas, kuriame nurodyta Lietuvos Respublika, vadovaujantis šio straipsnio 2 ir [[#^s-8e8ce0e23ca6455e438b7e6f|3 dalimis]], nuo paskelbimo apie jo išdavimą Europos patentų tarnyboje datos suteikia tokias pat teises kaip ir patentas pagal šio įstatymo [[#^s-f1da54c1b7cf2bad42b3720e|35 straipsnį]]. ^s-383543ceb2c9da0bb8a21228
+1. Europos patentas, kuriame nurodyta Lietuvos Respublika, vadovaujantis šio straipsnio [[#^s-2f63bd925a1868ba60e3f1fd|2]] ir [[#^s-8e8ce0e23ca6455e438b7e6f|3]] dalimis, nuo paskelbimo apie jo išdavimą Europos patentų tarnyboje datos suteikia tokias pat teises kaip ir patentas pagal šio įstatymo [[#^s-f1da54c1b7cf2bad42b3720e|35 straipsnį]]. ^s-383543ceb2c9da0bb8a21228
 
 
 2. Europos patento savininkas per 3 mėnesius nuo paskelbimo apie patento išdavimą dienos pateikia Valstybiniam patentų biurui Europos patento išradimo apibrėžties vertimą į valstybinę kalbą ir sumoka nustatyto dydžio mokestį už vertimo paskelbimą. ^s-2f63bd925a1868ba60e3f1fd
@@ -1539,10 +1539,10 @@ EUROPOS PATENTŲ KONVENCIJOS ĮGYVENDINIMAS
 3. Jeigu dėl Europos patentų tarnybai paduoto protesto pakeičiama Europos patento išradimo apibrėžtis, patento savininkas per 3 mėnesius nuo pakeistos Europos patento išradimo apibrėžties paskelbimo dienos turi pateikti Valstybiniam patentų biurui pakeistos Europos patento išradimo apibrėžties vertimą į valstybinę kalbą ir sumokėti mokestį už jo paskelbimą. ^s-8e8ce0e23ca6455e438b7e6f
 
 
-4. Valstybinis patentų biuras skubiai, ne vėliau kaip per 3 mėnesius, paskelbia pagal šio straipsnio 2 ir [[#^s-8e8ce0e23ca6455e438b7e6f|3 dalis]] pateiktus vertimus. ^s-1ba050fbe626b60bdebdb32e
+4. Valstybinis patentų biuras skubiai, ne vėliau kaip per 3 mėnesius, paskelbia pagal šio straipsnio [[#^s-2f63bd925a1868ba60e3f1fd|2]] ir [[#^s-8e8ce0e23ca6455e438b7e6f|3]] dalis pateiktus vertimus. ^s-1ba050fbe626b60bdebdb32e
 
 
-5. Jeigu per šio straipsnio 2 ir [[#^s-8e8ce0e23ca6455e438b7e6f|3 dalyse]] nurodytą terminą Europos patento išradimo apibrėžties vertimas nepateikiamas, Europos patentas laikomas ab initio negaliojančiu Lietuvos Respublikoje. ^s-c3b362c43be6ef465d29845b
+5. Jeigu per šio straipsnio [[#^s-2f63bd925a1868ba60e3f1fd|2]] ir [[#^s-8e8ce0e23ca6455e438b7e6f|3]] dalyse nurodytą terminą Europos patento išradimo apibrėžties vertimas nepateikiamas, Europos patentas laikomas ab initio negaliojančiu Lietuvos Respublikoje. ^s-c3b362c43be6ef465d29845b
 
 
 
@@ -1552,7 +1552,7 @@ EUROPOS PATENTŲ KONVENCIJOS ĮGYVENDINIMAS
 1. Europos patento paraiškos arba Europos patento tekstas Europos patentų tarnybos procedūrų kalba laikomas autentišku tekstu ir Lietuvos Respublikoje. ^s-13f1c51b4f48993f8f45f6da
 
 
-2. Šio įstatymo 78 ir [[#^s-4e79996b8a80e2a946a5a8be|79 straipsniuose]] nurodyti vertimai laikomi autentiškais, išskyrus patentų panaikinimo procesą, kai patentams suteikiama siauresnė teisinė apsauga, negu buvo suteikta tekstams Europos patentų tarnybos procedūrų kalba. ^s-b9cb3585c82464b27eff7ca6
+2. Šio įstatymo [[#^s-a86d595ad2e76484a05ae7d8|78]] ir [[#^s-4e79996b8a80e2a946a5a8be|79]] straipsniuose nurodyti vertimai laikomi autentiškais, išskyrus patentų panaikinimo procesą, kai patentams suteikiama siauresnė teisinė apsauga, negu buvo suteikta tekstams Europos patentų tarnybos procedūrų kalba. ^s-b9cb3585c82464b27eff7ca6
 
 
 3. Pareiškėjas ar patento savininkas gali bet kada pateikti ištaisytą Europos patento paraiškos arba Europos patento išradimo apibrėžties vertimą. Ištaisytas vertimas įsigalioja, kai jį paskelbia Valstybinis patentų biuras. Kiekvienas asmuo, sąžiningai naudojantis arba pasirengęs naudoti išradimą, nepažeisdamas patento paraiškos ar patento išradimo apibrėžties pirminio vertimo, po išradimo apibrėžties vertimo ištaisymo gali ir toliau nemokamai naudoti išradimą savo veikloje arba savo reikmėms. ^s-556dda72f655205179274f65
@@ -1562,7 +1562,7 @@ EUROPOS PATENTŲ KONVENCIJOS ĮGYVENDINIMAS
 ### 81 straipsnis. Europos patentų metų mokesčiai ^s-71a0d5ef8acdfe973f13c28f
 
 
-Europos patento galiojimo terminui ir metų mokesčiui taikomos šio įstatymo [[#^s-e160e5293ca2fb0e014beafa|36 straipsnio]] 1, 2, 4, 5, 6 ir 7 dalių nuostatos. Metų mokestis už Europos patentą pradedamas mokėti nuo kitų metų po paskelbimo apie Europos patento išdavimą.
+Europos patento galiojimo terminui ir metų mokesčiui taikomos šio įstatymo [[#^s-e160e5293ca2fb0e014beafa|36 straipsnio]] [[#^s-d642a4546c479d40b2294d7c|1]], [[#^s-9453d59a85e559cefcb2f1a5|2]], [[#^s-42a2cb91891ccc30a87ed1b0|4]], [[#^s-f5624f41dab19ce916a153d1|5]], [[#^s-94a27010bf183a62c66240a4|6]] ir [[#^s-802f3a4b2c531693aa9b6574|7]] dalių nuostatos. Metų mokestis už Europos patentą pradedamas mokėti nuo kitų metų po paskelbimo apie Europos patento išdavimą.
 
 
 
@@ -1592,10 +1592,10 @@ priedas
 
 
 
-1. 1992 m. birželio 18 d. Tarybos reglamentas (EEB) Nr. 1768/92 dėl medicinos produktų papildomos apsaugos liudijimo sukūrimo (OL 2004 m. specialusis leidimas, 13 skyrius, 11 tomas, p. 200). ^s-f13ee330930f1d1fb89da098
+1. 1992 m. birželio 18 d. Tarybos [reglamentas (EEB) Nr. 1768/92](https://eur-lex.europa.eu/eli/reg/1768/92/oj) dėl medicinos produktų papildomos apsaugos liudijimo sukūrimo (OL 2004 m. specialusis leidimas, 13 skyrius, 11 tomas, p. 200). ^s-f13ee330930f1d1fb89da098
 
 
-2. 1996 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1610/96 dėl augalų apsaugos priemonių papildomos apsaugos liudijimo sukūrimo (OL 2004 m. specialusis leidimas, 3 skyrius, 19 tomas, p. 335). ^s-853b28e124d58f3e714970f6
+2. 1996 m. liepos 23 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1610/96](https://eur-lex.europa.eu/eli/reg/1610/96/oj) dėl augalų apsaugos priemonių papildomos apsaugos liudijimo sukūrimo (OL 2004 m. specialusis leidimas, 3 skyrius, 19 tomas, p. 335). ^s-853b28e124d58f3e714970f6
 
 
 3. 1998 m. liepos 6 d. Europos Parlamento ir Tarybos direktyva 98/44/EB dėl teisinės biotechnologinių išradimų apsaugos (OL 2004 m. specialusis leidimas, 13 skyrius, 20 tomas, p. 395). ^s-428b8652aba639d48dc2c3e2

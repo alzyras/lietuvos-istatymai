@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir jos Fakultatyvaus protokolo ratifikavimas ^s-64d3a8c7cedef36b35fa728c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. sausio 13 d. dekretą Nr. 1K-1674, ratifikuoja 2006 m. gruodžio 13 d. Niujorke priimtus Jungtinių Tautų Neįgaliųjų teisių konvenciją ir jos Fakultatyvų protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. sausio 13 d. dekretą Nr. 1K-1674](https://e-tar.lt/portal/lt/legalAct/TAR.2F3466D665E7), ratifikuoja 2006 m. gruodžio 13 d. Niujorke priimtus Jungtinių Tautų Neįgaliųjų teisių konvenciją ir jos Fakultatyvų protokolą.
 
 
 

@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos įstatymas dėl dalinės amnestijos akto"
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.06438E0A26EC|Dėl amnestijos]] - 6 citatos - dėl amnestijos
-- [[latest/TAR.83DF9659EC0D|Dėl atsakomybės už Lietuvos gyventojų genocidą]] - 2 citatos - „Dėl atsakomybės už Lietuvos gyventojų genocidą“
+- [[latest/TAR.06438E0A26EC|Dėl amnestijos]] - 5 citatos - dėl amnestijos
+- [[latest/TAR.83DF9659EC0D|Dėl atsakomybės už Lietuvos gyventojų genocidą]] - „Dėl atsakomybės už Lietuvos gyventojų genocidą“
 
 ## Šį įstatymą cituoja
 

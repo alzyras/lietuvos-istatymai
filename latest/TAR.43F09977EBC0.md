@@ -302,7 +302,7 @@ Pakeisti 47 straipsnio 6 dalį ir ją išdėstyti taip:
 „2. Šio straipsnio 1 dalies 5 punkte nurodyta teisė gali būti įgyvendinta tik turint teismo leidimą. Teismo leidimas gaunamas šio įstatymo 85 straipsnio 4 dalyje nustatyta tvarka.“
 
 
-5. Buvusias 72 straipsnio 2 ir [[#^s-44724580c90d3af7146b1ec4|3 dalis]] laikyti atitinkamai 3 ir [[#^s-398a5c255c87d449ce59b393|4 dalimis]]. ^s-881ee7004519c37a08fdfff6
+5. Buvusias 72 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis. ^s-881ee7004519c37a08fdfff6
 
 
 
@@ -430,7 +430,7 @@ Pakeisti ir papildyti 86 straipsnį ir jį išdėstyti taip:
 2. Vertybinių popierių komisija turi teisę licencijuotoms kredito įstaigoms, reguliuojamos rinkos operatoriams ir Centriniam depozitoriumui taikyti [[#^s-853c66703c6967a5bee93b5f|šio straipsnio 1 dalies]] 1 ir 2 punktuose, o finansų patarėjo įmonėms – [[#^s-853c66703c6967a5bee93b5f|šio straipsnio 1 dalies]] 1, 2, 4, 5 ir 6 punktuose nustatytas poveikio priemones. ^s-e8f961169e1652d507fe0ec6
 
 
-3. Vertybinių popierių komisija turi teisę skirti Administracinių teisės pažeidimų kodekse numatytas nuobaudas fiziniams asmenims.“ ^s-b95482955e0a21f9b995f948
+3. Vertybinių popierių komisija turi teisę skirti [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytas nuobaudas fiziniams asmenims.“ ^s-b95482955e0a21f9b995f948
 
 
 
@@ -489,7 +489,7 @@ Pakeisti 95 straipsnį ir jį išdėstyti taip:
 2) juridiniams asmenims, nesilaikantiems šio įstatymo II skyriaus antrajame skirsnyje nustatytų jų veiklai keliamų reikalavimų, – iki 200 tūkstančių litų; ^s-7dd263eae8ba425e93e197a4
 
 
-3) juridiniams asmenims, nesilaikantiems šio įstatymo 13 ir [[#^s-3e7aa957ba5ad2b160bc4b04|16 straipsniuose]] nustatytų organizacinių reikalavimų, – iki 100 tūkstančių litų; ^s-7ef3afcbd3682fadd64f4766
+3) juridiniams asmenims, nesilaikantiems šio įstatymo [[#^s-b9fa239fe08aa2fef44b3c8c|13]] ir [[#^s-3e7aa957ba5ad2b160bc4b04|16]] straipsniuose nustatytų organizacinių reikalavimų, – iki 100 tūkstančių litų; ^s-7ef3afcbd3682fadd64f4766
 
 
 4) juridiniams asmenims, nesilaikantiems šio įstatymo II skyriaus ketvirtajame skirsnyje ir III skyriaus antrajame skirsnyje nustatytų rinkos skaidrumo reikalavimų, – iki 100 tūkstančių litų; ^s-2d70a76dd61aef99bca69596

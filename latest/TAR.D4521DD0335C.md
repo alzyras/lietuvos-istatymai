@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-0d7456926f327e8f9fcdcdff
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. liepos 17 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Pasaulinės intelektinės nuosavybės organizacijos atlikimų ir fonogramų sutartį“, ratifikuoja Pasaulinės intelektinės nuosavybės organizacijos atlikimų ir fonogramų sutartį, sudarytą 1996 m. gruodžio 20 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. liepos 17 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Pasaulinės intelektinės nuosavybės organizacijos atlikimų ir fonogramų sutartį“](https://e-tar.lt/portal/lt/legalAct/TAR.F88325CD2EB0), ratifikuoja Pasaulinės intelektinės nuosavybės organizacijos atlikimų ir fonogramų sutartį, sudarytą 1996 m. gruodžio 20 d. Ženevoje.
 
 
 

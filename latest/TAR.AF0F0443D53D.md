@@ -46,7 +46,7 @@ STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 ### 1 straipsnis. 2 straipsnio 1 ir 2 dalių papildymas ir pakeitimas ^s-128bb8796ac79e521fa5556e
 
 
-1. Papildyti 2 straipsnio 1 dalį nauju 7 punktu, buvusius 7 ir [[#^s-731e81cccf3feba7982fdc37|8 punktus]] laikyti atitinkamai 8 ir [[#^s-53165bc75ce2955636ed9fd3|9 punktais]], buvusį [[#^s-e7703274bfd3ee75da221810|10 punktą]] pripažinti netekusiu galios, buvusius 11, 12, 13 ir 14 punktus laikyti atitinkamai 10, 11, 12 ir [[#^s-d9d0730bbae1bc5d3d79bef7|13 punktais]] ir 7–[[#^s-d9d0730bbae1bc5d3d79bef7|13 punktus]] išdėstyti taip: ^s-80ddbf563ab865a1a1a459f2
+1. Papildyti 2 straipsnio 1 dalį nauju 7 punktu, buvusius 7 ir 8 punktus laikyti atitinkamai 8 ir 9 punktais, buvusį [[#^s-e7703274bfd3ee75da221810|10 punktą]] pripažinti netekusiu galios, buvusius [[#^s-a5420a52d9ae7b31b709a6e6|11]], [[#^s-0155e5af4f92d728accdb035|12]], [[#^s-d9d0730bbae1bc5d3d79bef7|13]] ir 14 punktus laikyti atitinkamai [[#^s-e7703274bfd3ee75da221810|10]], [[#^s-a5420a52d9ae7b31b709a6e6|11]], [[#^s-0155e5af4f92d728accdb035|12]] ir [[#^s-d9d0730bbae1bc5d3d79bef7|13]] punktais ir 7–[[#^s-d9d0730bbae1bc5d3d79bef7|13]] punktus išdėstyti taip: ^s-80ddbf563ab865a1a1a459f2
 
 
 „7) Lietuvos Respublikos kariuomenės privalomosios pradinės karo tarnybos kariai ir asmenys, atliekantys alternatyviąją krašto apsaugos tarnybą;
@@ -135,7 +135,7 @@ Papildyti 15 straipsnį 5 dalimi:
 
 ### ANTRASIS SKIRSNIS ^s-d561c7a0cb4083893753cb0b
 VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ
-IŠANKSTINIO MOKĖJIMO ĮSTATYMO 3 IR [[#^s-0e7b3161e724629ec1cbf66b|5 STRAIPSNIŲ]] PAKEITIMAS
+IŠANKSTINIO MOKĖJIMO ĮSTATYMO 3 IR [[#^s-0e7b3161e724629ec1cbf66b|5]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2003, Nr. 114-5116)
 
@@ -157,7 +157,7 @@ IŠANKSTINIO MOKĖJIMO ĮSTATYMO 3 IR [[#^s-0e7b3161e724629ec1cbf66b|5 STRAIPSNI
 5 straipsnio 1 dalyje vietoj skaičių „1–8“ įrašyti skaičius ir žodį „1–6 ir 8–9“ ir šią dalį išdėstyti taip:
 
 
-„1. Paskirtosios išankstinės senatvės pensijos mokėjimas sustabdomas ir ji nemokama, jeigu šios pensijos gavėjas tampa asmeniu, nurodytu [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] 1–6 ir 8–9 punktuose, taip pat ūkininku ar jo partneriu pagal Ūkininko ūkio įstatymą.“
+„1. Paskirtosios išankstinės senatvės pensijos mokėjimas sustabdomas ir ji nemokama, jeigu šios pensijos gavėjas tampa asmeniu, nurodytu [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] [[latest/TAR.A7F77DF94F5D|1]]–[[latest/TAR.A7F77DF94F5D|6]] ir [[latest/TAR.A7F77DF94F5D|8]]–[[latest/TAR.A7F77DF94F5D|9]] punktuose, taip pat ūkininku ar jo partneriu pagal Ūkininko ūkio įstatymą.“
 
 
 
@@ -175,7 +175,7 @@ STRAIPSNIŲ PAKEITIMAS
 19 straipsnio 3 dalyje vietoj skaičių „1–8“ įrašyti skaičius „1–9“ ir šią dalį išdėstyti taip:
 
 
-„3. Šalpos išmokos skiriamos ir mokamos nepaisant to, ar jų gavėjai yra asmenys, išvardyti [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] 1–9 punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymas]].“
+„3. Šalpos išmokos skiriamos ir mokamos nepaisant to, ar jų gavėjai yra asmenys, išvardyti [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] [[latest/TAR.A7F77DF94F5D|1]]–[[latest/TAR.A7F77DF94F5D|9]] punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymas]].“
 
 
 
@@ -185,7 +185,7 @@ STRAIPSNIŲ PAKEITIMAS
 26 straipsnio 4 dalyje vietoj skaičių „1–8“ įrašyti skaičius „1–9“ ir šią dalį išdėstyti taip:
 
 
-„4. Šiame straipsnyje nurodytos šalpos pensijos mokamos nepaisant šių pensijų gavėjų gaunamų jiems patiems priklausančių šalpos pensijų arba šalpos kompensacijų, taip pat nepaisant jų gaunamų pensijų ir (ar) pensijų išmokų (2 straipsnio 5 dalis) bei nepaisant to, ar jų gavėjai yra asmenys, nurodyti Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1-9 punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymas]].“
+„4. Šiame straipsnyje nurodytos šalpos pensijos mokamos nepaisant šių pensijų gavėjų gaunamų jiems patiems priklausančių šalpos pensijų arba šalpos kompensacijų, taip pat nepaisant jų gaunamų pensijų ir (ar) pensijų išmokų (2 straipsnio 5 dalis) bei nepaisant to, ar jų gavėjai yra asmenys, nurodyti [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 1-9 punktuose]], taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymas]].“
 
 
 
@@ -195,7 +195,7 @@ STRAIPSNIŲ PAKEITIMAS
 27 straipsnio 2 dalyje vietoj skaičių „1–8“ įrašyti skaičius „1–9“ ir šią dalį išdėstyti taip:
 
 
-„2. Socialinės pensijos toliau mokamos nepaisant to, ar jų gavėjai gauna valstybines socialinio draudimo našlių pensijas ir (ar) šalpos pensijas už invalidų slaugą, taip pat nepaisant to, ar jie yra asmenys, nurodyti [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] 1–9 punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymas]].“
+„2. Socialinės pensijos toliau mokamos nepaisant to, ar jų gavėjai gauna valstybines socialinio draudimo našlių pensijas ir (ar) šalpos pensijas už invalidų slaugą, taip pat nepaisant to, ar jie yra asmenys, nurodyti [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] [[latest/TAR.A7F77DF94F5D|1]]–[[latest/TAR.A7F77DF94F5D|9]] punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymas]].“
 
 
 

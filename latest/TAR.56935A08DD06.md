@@ -268,7 +268,7 @@ Nr. XIII-3113, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15324
 2. Rengiant jūros aplinkos būklės įvertinimą ir šio įstatymo [[#^s-1233792f6ba707d2ee184761|5 straipsnyje]] nurodytą valstybinę aplinkos stebėsenos programą, siekiama užtikrinti, kad vertinimo metodai būtų suderinti su kitų Baltijos jūros valstybių vertinimo metodais ir būtų lengviau palyginti stebėsenos rezultatus, atsižvelgti į atitinkamą tarpvalstybinį poveikį ir veiksnius. ^s-711bd3629e5823ef5512013d
 
 
-3. Šio straipsnio 1 ir [[#^s-711bd3629e5823ef5512013d|2 dalyse]] nurodytas bendradarbiavimas ir derinimas vykdomas per Helsinkio komisiją ar kitą Baltijos jūros rajone veikiančią tarptautinę organizaciją. Bendradarbiaujant remiamasi esamomis programomis ir veikla, plėtojama pagal Lietuvos Respublikos tarptautinius susitarimus. ^s-9039f34f77fc1554738542a9
+3. Šio straipsnio [[#^s-2fbaf05dc75df36b653f1e0e|1]] ir [[#^s-711bd3629e5823ef5512013d|2]] dalyse nurodytas bendradarbiavimas ir derinimas vykdomas per Helsinkio komisiją ar kitą Baltijos jūros rajone veikiančią tarptautinę organizaciją. Bendradarbiaujant remiamasi esamomis programomis ir veikla, plėtojama pagal Lietuvos Respublikos tarptautinius susitarimus. ^s-9039f34f77fc1554738542a9
 
 
 4. Siekiant geros jūros aplinkos būklės, prireikus Baltijos jūros aplinkos apsaugos priemonių rengimas ir įgyvendinimas koordinuojamas ir bendradarbiaujama su Baltijos jūros baseine esančiomis sausumos valstybėmis. Šis koordinavimas ir bendradarbiavimas vyksta per [[#^s-9039f34f77fc1554738542a9|šio straipsnio 3 dalyje]] nurodytas organizacijas arba bendradarbiaujama tarpvalstybinių susitarimų dėl tarpvalstybinių upių baseinų rajonų, nurodytų [[latest/TAR.B3CC2C0B9BD2|Vandens įstatyme]], pagrindu. ^s-23a3c1f675930276a2948bb8
@@ -340,7 +340,7 @@ Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
 2. Lietuvos Respublikos jūros rajone atliekas šalinti ir deginti draudžiama. ^s-1a7980e6f5c84baf2352156d
 
 
-3. Lietuvos Respublikos jūros rajone iškastam gruntui šalinti šio straipsnio 1 ir [[#^s-1a7980e6f5c84baf2352156d|2 dalyse]] nustatyti draudimai netaikomi. ^s-f1e0a97a189809a7b8c7afff
+3. Lietuvos Respublikos jūros rajone iškastam gruntui šalinti šio straipsnio [[#^s-4cf5299b2acb5c962e57e31d|1]] ir [[#^s-1a7980e6f5c84baf2352156d|2]] dalyse nustatyti draudimai netaikomi. ^s-f1e0a97a189809a7b8c7afff
 
 
 
@@ -366,7 +366,7 @@ Nr. XII-2303, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10408
 2. Laivų kapitonai ir (ar) valdytojai ir orlaivių vadai, įrenginių valdytojai privalo nedelsdami pranešti artimiausios pakrantės valstybės kompetentingai institucijai apie pastebėtą teršiančių medžiagų išmetimą, atliekų šalinimą ir deginimą, Lietuvos Respublikos jūros rajone – Jūrų gelbėjimo koordinavimo centrui, uosto akvatorijoje – to uosto administracijai. ^s-d63d266b39424ed80f288d51
 
 
-3. Jūrų gelbėjimo koordinavimo centras privalo nedelsdamas pranešti Aplinkos ministerijos įgaliotai institucijai apie visus šio straipsnio 1 ir [[#^s-d63d266b39424ed80f288d51|2 dalyse]] nurodytus įvykius ir taršos incidentus. ^s-7ddbccf225d5da0a10e3b1fe
+3. Jūrų gelbėjimo koordinavimo centras privalo nedelsdamas pranešti Aplinkos ministerijos įgaliotai institucijai apie visus šio straipsnio [[#^s-768dc02a1d2a7567b7f9cb2a|1]] ir [[#^s-d63d266b39424ed80f288d51|2]] dalyse nurodytus įvykius ir taršos incidentus. ^s-7ddbccf225d5da0a10e3b1fe
 
 
 
@@ -433,7 +433,7 @@ Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
 ### 18 straipsnis. Uosto administracijų suteikiamos išimtys ^s-6f701beae72a0fe6f8671c81
 
 
-Jeigu laivai plaukioja pagal tvarkaraštį, dažnai ir reguliariai įplaukia į uostus, jeigu yra pakankamai įrodymų dėl priemonių, užtikrinančių, kad laivų atliekos bus pristatomos ir rinkliavos bus mokamos viename iš laivo maršrute esančių uostų, ir jeigu uosto administracijų suteikiamos išimtys nedaro neigiamo poveikio saugiai laivybai, laivo įgulos ir (ar) keleivių sveikatai, gyvenimo ar darbo laive sąlygoms arba jūros aplinkai, uostų administracijos gali atleisti tokius laivus nuo šio įstatymo 151, [[#^s-98789365b7e87dee4dd4769a|16 straipsniuose]] ir [[#^s-85c197765f8cdccc631bcf77|17 straipsnio 1 dalyje]] nurodytų prievolių.
+Jeigu laivai plaukioja pagal tvarkaraštį, dažnai ir reguliariai įplaukia į uostus, jeigu yra pakankamai įrodymų dėl priemonių, užtikrinančių, kad laivų atliekos bus pristatomos ir rinkliavos bus mokamos viename iš laivo maršrute esančių uostų, ir jeigu uosto administracijų suteikiamos išimtys nedaro neigiamo poveikio saugiai laivybai, laivo įgulos ir (ar) keleivių sveikatai, gyvenimo ar darbo laive sąlygoms arba jūros aplinkai, uostų administracijos gali atleisti tokius laivus nuo šio įstatymo [[#^s-8b486b58f3d387c2ab7c479f|151]], [[#^s-98789365b7e87dee4dd4769a|16]] straipsniuose ir [[#^s-85c197765f8cdccc631bcf77|17 straipsnio 1 dalyje]] nurodytų prievolių.
 
 
 Straipsnio pakeitimai:
@@ -450,7 +450,7 @@ Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
 ### 20 straipsnis. Laivų atliekų tvarkymo reikalavimų įgyvendinimas ^s-9b0bbe5dbda4806567b3636e
 
 
-Šio įstatymo 15–[[#^s-6f701beae72a0fe6f8671c81|18 straipsniuose]] nustatytų reikalavimų įgyvendinimo tvarką nustato susisiekimo ministras kartu su aplinkos ministru.
+Šio įstatymo [[#^s-b8c4e23b7fa0cee9ee38ea19|15]]–[[#^s-6f701beae72a0fe6f8671c81|18]] straipsniuose nustatytų reikalavimų įgyvendinimo tvarką nustato susisiekimo ministras kartu su aplinkos ministru.
 
 
 Straipsnio pakeitimai:
@@ -587,7 +587,7 @@ Pažeidus šio įstatymo reikalavimus, atsakomybė taikoma įstatymų nustatyta 
 ### 33 straipsnis. Šio įstatymo 7–13 straipsnių taikymo išimtys ^s-cdff87104c6ae5a5b37fa1d5
 
 
-Šio įstatymo 7–[[#^s-0bde4dcc2d4e6512d4edcc67|13 straipsnių]] nuostatos netaikomos, kai teršiančių medžiagų išmetimo ar šalinimo tikslas yra žmonių gyvybės gelbėjimas ar laivų, įrenginių saugumo užtikrinimas.
+Šio įstatymo [[#^s-c4cdd81174fa82b9665681d2|7]]–[[#^s-0bde4dcc2d4e6512d4edcc67|13]] straipsnių nuostatos netaikomos, kai teršiančių medžiagų išmetimo ar šalinimo tikslas yra žmonių gyvybės gelbėjimas ar laivų, įrenginių saugumo užtikrinimas.
 
 
 
@@ -697,10 +697,10 @@ jūros aplinkos apsaugos įstatymo
 1. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo su paskutiniais pakeitimais, padarytais 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/123/EB. ^s-79c3f64670165d74829204d9
 
 
-2. 2008 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 2008/56/EB, nustatanti Bendrijos veiksmų jūrų aplinkos politikos srityje pagrindus (Jūrų strategijos pagrindų direktyva), su paskutiniais pakeitimais, padarytais 2017 m. gegužės 17 d. Komisijos direktyva (ES) 2017/845. ^s-7269d1d2029abb9b48ef2bce
+2. 2008 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 2008/56/EB, nustatanti Bendrijos veiksmų jūrų aplinkos politikos srityje pagrindus (Jūrų strategijos pagrindų direktyva), su paskutiniais pakeitimais, padarytais 2017 m. gegužės 17 d. Komisijos [direktyva (ES) 2017/845](https://eur-lex.europa.eu/eli/dir/2017/845/oj). ^s-7269d1d2029abb9b48ef2bce
 
 
-3. 2019  m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/883 dėl uosto priėmimo įrenginių, į kuriuos pristatomos laivų atliekos, kuria iš dalies keičiama Direktyva 2010/65/ES ir panaikinama Direktyva 2000/59/EB. ^s-88e455f0b8b9e85b1519cf79
+3. 2019  m. balandžio 17 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/883](https://eur-lex.europa.eu/eli/dir/2019/883/oj) dėl uosto priėmimo įrenginių, į kuriuos pristatomos laivų atliekos, kuria iš dalies keičiama Direktyva 2010/65/ES ir panaikinama Direktyva 2000/59/EB. ^s-88e455f0b8b9e85b1519cf79
 
 
 Priedo pakeitimai:
@@ -743,19 +743,19 @@ Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 [[#^s-e2fe1
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2303, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10408
-Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 13 ir [[#^s-7be1b5356e976fd512c3f43c|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 [[#^s-0bde4dcc2d4e6512d4edcc67|13]] ir [[#^s-7be1b5356e976fd512c3f43c|30]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2315, 2019-07-11, paskelbta TAR 2019-07-24, i. k. 2019-12188
-Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3, 4, [[#^s-1233792f6ba707d2ee184761|5 straipsnių]] ir 3 priedo pakeitimo ir Įstatymo 1 priedo pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 [[#^s-e2fe1c461a8db19b64514877|3]], [[#^s-0189988dec027f50128b8e66|4]], [[#^s-1233792f6ba707d2ee184761|5]] straipsnių ir 3 priedo pakeitimo ir Įstatymo 1 priedo pripažinimo netekusiu galios įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3113, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15324
-Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3, 4 ir [[#^s-5f288731871278d6b8cab282|6 straipsnių]] ir antrojo skirsnio pavadinimo pakeitimo įstatymas
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 [[#^s-e2fe1c461a8db19b64514877|3]], [[#^s-0189988dec027f50128b8e66|4]] ir [[#^s-5f288731871278d6b8cab282|6]] straipsnių ir antrojo skirsnio pavadinimo pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-440, 2021-06-22, paskelbta TAR 2021-06-29, i. k. 2021-14610
-Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 3, 8, 9, 11, 15, 16, 17, 18, [[#^s-9b0bbe5dbda4806567b3636e|20 straipsnių]], ketvirtojo skirsnio pavadinimo ir 3 priedo pakeitimo, Įstatymo papildymo 15-1 straipsniu ir [[#^s-3c0d7254dc902ea6e2d1c59d|19 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos jūros aplinkos apsaugos įstatymo Nr. VIII-512 [[#^s-e2fe1c461a8db19b64514877|3]], [[#^s-8e1a4df01c6dddbb3ae8d4c9|8]], [[#^s-3cf2f13c01b3dd35e6353ac8|9]], [[#^s-bd37ead19442082eeddbce55|11]], [[#^s-b8c4e23b7fa0cee9ee38ea19|15]], [[#^s-98789365b7e87dee4dd4769a|16]], [[#^s-f7556bcfdb8ac613d0dae9f4|17]], [[#^s-6f701beae72a0fe6f8671c81|18]], [[#^s-9b0bbe5dbda4806567b3636e|20]] straipsnių, ketvirtojo skirsnio pavadinimo ir 3 priedo pakeitimo, Įstatymo papildymo 15-1 straipsniu ir [[#^s-3c0d7254dc902ea6e2d1c59d|19 straipsnio]] pripažinimo netekusiu galios įstatymas

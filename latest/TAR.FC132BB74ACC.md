@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-5519833f2d13744cd9470389
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. lapkričio 9 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinę augalų apsaugos konvenciją“, ratifikuoja Tarptautinę augalų apsaugos konvenciją, priimtą 1951 m. (tekstas pataisytas 1997 m. Jungtinių Tautų Maisto ir žemės ūkio organizacijos konferencijos 29 sesijoje Romoje).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. lapkričio 9 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinę augalų apsaugos konvenciją“](https://e-tar.lt/portal/lt/legalAct/TAR.B690A3253931), ratifikuoja Tarptautinę augalų apsaugos konvenciją, priimtą 1951 m. (tekstas pataisytas 1997 m. Jungtinių Tautų Maisto ir žemės ūkio organizacijos konferencijos 29 sesijoje Romoje).
 
 
 

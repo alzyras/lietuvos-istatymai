@@ -56,7 +56,7 @@ BENDROSIOS NUOSTATOS
 2. Šis įstatymas nustato asmens duomenų tvarkymo ypatumus, Valstybinės duomenų apsaugos inspekcijos teisinį statusą ir įgaliojimus, žurnalistų etikos inspektoriaus įgaliojimus, Valstybinės duomenų apsaugos inspekcijos ir žurnalistų etikos inspektoriaus (toliau kartu – priežiūros institucija,  priežiūros institucijos) atliekamo asmens duomenų ir (ar) privatumo apsaugą reglamentuojančių teisės aktų pažeidimų (toliau – pažeidimai) nagrinėjimo ir administracinių baudų skyrimo tvarką. ^s-ec21202f350dc26ded609afe
 
 
-3. Šis įstatymas taikomas kartu su Reglamentu (ES) 2016/679 ir jo įgyvendinamaisiais teisės aktais bei kitais tiesiogiai taikomais Europos Sąjungos teisės aktais, kuriuose pateikiama nuoroda į Reglamentą (ES) 2016/679, (toliau – kiti tiesiogiai taikomi Europos Sąjungos teisės aktai). ^s-ffd48954a650762365fa3442
+3. Šis įstatymas taikomas kartu su [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir jo įgyvendinamaisiais teisės aktais bei kitais tiesiogiai taikomais Europos Sąjungos teisės aktais, kuriuose pateikiama nuoroda į [Reglamentą (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), (toliau – kiti tiesiogiai taikomi Europos Sąjungos teisės aktai). ^s-ffd48954a650762365fa3442
 Straipsnio dalies pakeitimai:
 Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 
@@ -71,7 +71,7 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 2) asmens duomenis tvarko ne Lietuvos Respublikoje įsteigtas duomenų valdytojas, kuriam taikomi Lietuvos Respublikos įstatymai pagal tarptautinę viešąją teisę (įskaitant Lietuvos Respublikos diplomatines atstovybes, konsulines įstaigas); ^s-38fd75569353dd0b4f728524
 
 
-3) Europos Sąjungoje esančių duomenų subjektų asmens duomenis tvarko Europos Sąjungoje neįsisteigęs duomenų valdytojas arba duomenų tvarkytojas, kuris pagal Reglamento (ES) 2016/679 [[#^s-a5d04954d7baa1fbdf9329e5|27 straipsnį]] yra paskyręs atstovą, įsisteigusį Lietuvos Respublikoje, ir duomenų tvarkymo veikla yra susijusi su prekių arba paslaugų siūlymu šiems duomenų subjektams Europos Sąjungoje, nepaisant to, ar už šias prekes arba paslaugas duomenų subjektui reikia mokėti, ar ne, arba su elgesio, kai šie duomenų subjektai veikia Europos Sąjungoje, stebėsena. ^s-05b9cb7e6baccbcb1d279100
+3) Europos Sąjungoje esančių duomenų subjektų asmens duomenis tvarko Europos Sąjungoje neįsisteigęs duomenų valdytojas arba duomenų tvarkytojas, kuris pagal [Reglamento (ES) 2016/679 27 straipsnį](https://eur-lex.europa.eu/eli/reg/2016/679/art_27/oj) yra paskyręs atstovą, įsisteigusį Lietuvos Respublikoje, ir duomenų tvarkymo veikla yra susijusi su prekių arba paslaugų siūlymu šiems duomenų subjektams Europos Sąjungoje, nepaisant to, ar už šias prekes arba paslaugas duomenų subjektui reikia mokėti, ar ne, arba su elgesio, kai šie duomenų subjektai veikia Europos Sąjungoje, stebėsena. ^s-05b9cb7e6baccbcb1d279100
 
 
 5. Šis įstatymas netaikomas Lietuvos Respublikos kompetentingų institucijų, kaip jos apibrėžiamos [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatyme]], atliekamam asmens duomenų tvarkymui, kai šie duomenys tvarkomi nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo, apsaugos nuo grėsmių visuomenės saugumui ir jų prevencijos tikslais, taip pat nacionalinio saugumo ar gynybos tikslais. ^s-d0b90067f004f30616bc5c5a
@@ -96,7 +96,7 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 2. Valdžios institucijos ir įstaigos – valstybės ir savivaldybių institucijos ir įstaigos, įmonės ir viešosios įstaigos, finansuojamos iš valstybės ar savivaldybių biudžetų bei valstybės pinigų fondų ir [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymo]] nustatyta tvarka įgaliotos atlikti viešąjį administravimą arba teikiančios asmenims viešąsias ar administracines paslaugas ar vykdančios kitas viešąsias funkcijas. ^s-993d0b9189882e77ec55e58e
 
 
-3. Šiame įstatyme vartojama sąvoka „informacinė sistema“ suprantama taip, kaip apibrėžiama [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]]. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) 2016/679. ^s-6f8215be34644c4ba526b819
+3. Šiame įstatyme vartojama sąvoka „informacinė sistema“ suprantama taip, kaip apibrėžiama [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]]. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj). ^s-6f8215be34644c4ba526b819
 Straipsnio dalies pakeitimai:
 Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 
@@ -110,7 +110,7 @@ ASMENS DUOMENŲ TVARKYMO YPATUMAI
 ### 3 straipsnis. Asmens kodo tvarkymo ypatumai ^s-24278d6b40c9becc795d1cb3
 
 
-1. Asmens kodas gali būti tvarkomas, kai yra nors viena iš Reglamento (ES) 2016/679 6 straipsnio 1 dalyje nurodytų asmens duomenų tvarkymo teisėtumo sąlygų. ^s-09169eede419b91d9931f735
+1. Asmens kodas gali būti tvarkomas, kai yra nors viena iš [Reglamento (ES) 2016/679 6 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_6/par_1/oj) nurodytų asmens duomenų tvarkymo teisėtumo sąlygų. ^s-09169eede419b91d9931f735
 
 
 2. Draudžiama asmens kodą skelbti viešai. ^s-011741f768fb57e7280c38bc
@@ -123,7 +123,7 @@ ASMENS DUOMENŲ TVARKYMO YPATUMAI
 ### 4 straipsnis. Asmens duomenų tvarkymas ir saviraiškos ir informacijos laisvė ^s-df3b4e23ed577e6f4a93ee0c
 
 
-Kai asmens duomenys tvarkomi žurnalistikos arba akademinės, meninės ar literatūrinės saviraiškos tikslais, netaikomi Reglamento (ES) 2016/679 8, 12–23, 25, 30, 33–39, 41–50, 88–91 straipsniai.
+Kai asmens duomenys tvarkomi žurnalistikos arba akademinės, meninės ar literatūrinės saviraiškos tikslais, netaikomi [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) [[#^s-f76c1d2c96ee4440ea98c5d6|8]], [[#^s-1328fcde643d814c4a87a1a9|12]]–[[#^s-56afbe2d3cd97941bf9e434c|23]], [[#^s-2e3be1c937ee1f3723ed7250|25]], [[#^s-2238ddc6b77864be78671456|30]], [[#^s-4adcbc1fbdb25fd002319c4b|33]]–39, 41–50, 88–91 straipsniai.
 
 
 
@@ -144,10 +144,10 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 
 
 
-2. Kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, ir darbuotojo asmens duomenis apie apkaltinamuosius nuosprendžius ir nusikalstamas veikas, remiantis [[#^s-753bf8d4a652a8b61820f7d7|šio straipsnio 1 dalies 2 punkte]] nurodyta sąlyga, galima tvarkyti, jeigu laikomasi Reglamente (ES) 2016/679 nurodytų reikalavimų ir taikomos šios duomenų subjektų teisių ir laisvių apsaugos priemonės: ^s-d8262a752d4a02d70b76b955
+2. Kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, ir darbuotojo asmens duomenis apie apkaltinamuosius nuosprendžius ir nusikalstamas veikas, remiantis [[#^s-753bf8d4a652a8b61820f7d7|šio straipsnio 1 dalies 2 punkte]] nurodyta sąlyga, galima tvarkyti, jeigu laikomasi [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nurodytų reikalavimų ir taikomos šios duomenų subjektų teisių ir laisvių apsaugos priemonės: ^s-d8262a752d4a02d70b76b955
 
 
-1) Darbdavys atlieka teisėtų savo interesų tvarkyti kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, ir darbuotojo asmens duomenis apie apkaltinamuosius nuosprendžius ir nusikalstamas veikas vertinimą ir raštu parengia šio vertinimo ataskaitą. Atliekant šį vertinimą, atsižvelgiama į konkrečių pareigų ar darbo funkcijų ypatumus, riziką, kuri darbdaviui gali kilti asmeniui, teistam už tam tikras nusikalstamas veikas, einant pareigas ar atliekant darbo funkcijas, taip pat į reikalavimo asmeniui būti neteistam už tam tikras nusikalstamas veikas pagrįstumą ir proporcingumą, kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, ir darbuotojo pagrindines teises ir laisves bei kitas reikšmingas aplinkybes. Atliekant šį vertinimą konsultuojamasi su duomenų apsaugos pareigūnu, jeigu jis paskirtas pagal Reglamentą (ES) 2016/679. ^s-4a4e5b2a4d4ba85d7d92fb57
+1) Darbdavys atlieka teisėtų savo interesų tvarkyti kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, ir darbuotojo asmens duomenis apie apkaltinamuosius nuosprendžius ir nusikalstamas veikas vertinimą ir raštu parengia šio vertinimo ataskaitą. Atliekant šį vertinimą, atsižvelgiama į konkrečių pareigų ar darbo funkcijų ypatumus, riziką, kuri darbdaviui gali kilti asmeniui, teistam už tam tikras nusikalstamas veikas, einant pareigas ar atliekant darbo funkcijas, taip pat į reikalavimo asmeniui būti neteistam už tam tikras nusikalstamas veikas pagrįstumą ir proporcingumą, kandidato, pretenduojančio eiti pareigas arba atlikti darbo funkcijas, ir darbuotojo pagrindines teises ir laisves bei kitas reikšmingas aplinkybes. Atliekant šį vertinimą konsultuojamasi su duomenų apsaugos pareigūnu, jeigu jis paskirtas pagal [Reglamentą (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj). ^s-4a4e5b2a4d4ba85d7d92fb57
 
 
 2) Darbdavys yra patvirtinęs ir savo interneto svetainėje, jeigu ją turi, paskelbęs pareigų, kurias einančiam asmeniui keliamas reikalavimas būti neteistam už tam tikras nusikalstamas veikas, arba darbo funkcijų, kurias atliekančiam asmeniui keliamas šis reikalavimas, sąrašą. Šiame sąraše turi būti nurodomos ir nusikalstamos veikos, už kurias toks asmuo turi būti neteistas. ^s-3e454ad93925d4184490fd8c
@@ -170,7 +170,7 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 
 
 
-4. Tvarkant vaizdo ir (ar) garso duomenis darbo vietoje ir duomenų valdytojo patalpose ar teritorijose, kuriose dirba jo darbuotojai, tvarkant asmens duomenis, susijusius su darbuotojų elgesio, buvimo vietos ar judėjimo stebėsena, šie darbuotojai apie tokį jų asmens duomenų tvarkymą turi būti informuojami pasirašytinai ar kitu informavimo faktą įrodančiu būdu pateikiant Reglamento (ES) 2016/679 [[#^s-b9cd934ea39a3dfa89ed5a60|13 straipsnio]] 1 ir [[#^s-d8262a752d4a02d70b76b955|2 dalyse]] nurodytą informaciją. ^s-6405dfab6d7233dc8983d403
+4. Tvarkant vaizdo ir (ar) garso duomenis darbo vietoje ir duomenų valdytojo patalpose ar teritorijose, kuriose dirba jo darbuotojai, tvarkant asmens duomenis, susijusius su darbuotojų elgesio, buvimo vietos ar judėjimo stebėsena, šie darbuotojai apie tokį jų asmens duomenų tvarkymą turi būti informuojami pasirašytinai ar kitu informavimo faktą įrodančiu būdu pateikiant [Reglamento (ES) 2016/679 13 straipsnio](https://eur-lex.europa.eu/eli/reg/2016/679/art_13/oj) 1 ir 2 dalyse nurodytą informaciją. ^s-6405dfab6d7233dc8983d403
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 
@@ -186,7 +186,7 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 ### 6 straipsnis. Vaiko, kuriam siūlomos informacinės visuomenės paslaugos, amžius sutikimui duoti ^s-cee2de22275bbeffb57b1851
 
 
-Kai vaikui tiesiogiai siūlomos informacinės visuomenės paslaugos, vaiko asmens duomenų tvarkymas yra teisėtas, jei sutikimą pagal Reglamento (ES) 2016/679 6 straipsnio 1 dalies a punktą duoda ne jaunesnis negu 14 metų vaikas.
+Kai vaikui tiesiogiai siūlomos informacinės visuomenės paslaugos, vaiko asmens duomenų tvarkymas yra teisėtas, jei sutikimą pagal [Reglamento (ES) 2016/679 6 straipsnio 1 dalies a punktą](https://eur-lex.europa.eu/eli/reg/2016/679/art_6/par_1/lit_a/oj) duoda ne jaunesnis negu 14 metų vaikas.
 
 
 
@@ -198,23 +198,23 @@ PRIEŽIŪROS INSTITUCIJOS
 ### 7 straipsnis. Reglamento (ES) 2016/679 ir šio įstatymo taikymo priežiūra ^s-1d14ce6501e8421c3ad3e1fd
 
 
-1. Valstybinė duomenų apsaugos inspekcija stebi, kaip taikomas Reglamentas (ES) 2016/679 ir šis įstatymas, ir užtikrina, kad šie teisės aktai būtų taikomi, išskyrus šio įstatymo straipsnius, kurių taikymas pagal [[#^s-3bee7a2bf53da1c6400afccf|šio straipsnio 2 dalį]] yra žurnalistų etikos inspektoriaus kompetencija. ^s-5b9e586a6b56d906fddeb40c
+1. Valstybinė duomenų apsaugos inspekcija stebi, kaip taikomas [Reglamentas (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir šis įstatymas, ir užtikrina, kad šie teisės aktai būtų taikomi, išskyrus šio įstatymo straipsnius, kurių taikymas pagal [[#^s-3bee7a2bf53da1c6400afccf|šio straipsnio 2 dalį]] yra žurnalistų etikos inspektoriaus kompetencija. ^s-5b9e586a6b56d906fddeb40c
 
 
-2. Žurnalistų etikos inspektorius stebi, kaip taikomas Reglamentas (ES) 2016/679 ir šis įstatymas, ir užtikrina, kad šie teisės aktai būtų taikomi, kai asmens duomenys tvarkomi žurnalistikos tikslais ir akademinės, meninės ar literatūrinės saviraiškos tikslais. Žurnalistų etikos inspektorius atlieka Reglamente (ES) 2016/679 nustatytas priežiūros institucijos užduotis ir turi Reglamente (ES) 2016/679 nustatytus priežiūros institucijos įgaliojimus. Žurnalistų etikos inspektoriui netaikomi Reglamento (ES) 2016/679 57 straipsnio 1 dalies j–l ir n–t punktai, 58 straipsnio 1 dalies b ir c punktai,  [[#^s-3bee7a2bf53da1c6400afccf|2 dalies]] e, g, h ir j punktai, [[#^s-8a4c3928e40c061a269e02b4|3 dalies]] a, c ir e–j punktai. ^s-3bee7a2bf53da1c6400afccf
+2. Žurnalistų etikos inspektorius stebi, kaip taikomas [Reglamentas (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir šis įstatymas, ir užtikrina, kad šie teisės aktai būtų taikomi, kai asmens duomenys tvarkomi žurnalistikos tikslais ir akademinės, meninės ar literatūrinės saviraiškos tikslais. Žurnalistų etikos inspektorius atlieka [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nustatytas priežiūros institucijos užduotis ir turi [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nustatytus priežiūros institucijos įgaliojimus. Žurnalistų etikos inspektoriui netaikomi [Reglamento (ES) 2016/679 57 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2016/679/art_57/par_1/oj) j–l ir n–t punktai, 58 straipsnio 1 dalies b ir c punktai,  2 dalies e, g, h ir j punktai, [[#^s-8a4c3928e40c061a269e02b4|3 dalies]] a, c ir e–j punktai. ^s-3bee7a2bf53da1c6400afccf
 
 
-3. Valstybinė duomenų apsaugos inspekcija atstovauja Reglamento (ES) 2016/679 taikymo priežiūros institucijoms pagal Reglamentą (ES) 2016/679 įsteigtoje Europos duomenų apsaugos valdyboje. ^s-8a4c3928e40c061a269e02b4
+3. Valstybinė duomenų apsaugos inspekcija atstovauja [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) taikymo priežiūros institucijoms pagal [Reglamentą (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) įsteigtoje Europos duomenų apsaugos valdyboje. ^s-8a4c3928e40c061a269e02b4
 
 
-4. Siekdamos užtikrinti, kad būtų laikomasi Reglamento (ES) 2016/679 63 straipsnyje nurodyto nuoseklumo užtikrinimo mechanizmo, priežiūros institucijos bendradarbiauja tarpusavyje, kai sprendžiami pagal [[#^s-3bee7a2bf53da1c6400afccf|šio straipsnio 2 dalį]] žurnalistų etikos inspektoriaus kompetencijai priklausantys klausimai. ^s-d88fe7d51bd2a438840c9bf1
+4. Siekdamos užtikrinti, kad būtų laikomasi [Reglamento (ES) 2016/679 63 straipsnyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_63/oj) nurodyto nuoseklumo užtikrinimo mechanizmo, priežiūros institucijos bendradarbiauja tarpusavyje, kai sprendžiami pagal [[#^s-3bee7a2bf53da1c6400afccf|šio straipsnio 2 dalį]] žurnalistų etikos inspektoriaus kompetencijai priklausantys klausimai. ^s-d88fe7d51bd2a438840c9bf1
 
 
 
 ### 71 straipsnis. Kitų tiesiogiai taikomų Europos Sąjungos teisės aktų priežiūra ^s-69e151abf3dd660fdce385ac
 
 
-Kituose tiesiogiai taikomuose Europos Sąjungos teisės aktuose minima priežiūros institucija, nurodyta Reglamente (ES) 2016/679, atsižvelgiant į šio įstatymo [[#^s-1d14ce6501e8421c3ad3e1fd|7 straipsnio]] 1 ir 2 dalyse nurodytą kompetenciją, yra Valstybinė duomenų apsaugos inspekcija arba žurnalistų etikos inspektorius. Priežiūros institucija atlieka kituose tiesiogiai taikomuose Europos Sąjungos teisės aktuose nustatytas priežiūros institucijos užduotis ir turi juose nustatytus priežiūros institucijos įgaliojimus.
+Kituose tiesiogiai taikomuose Europos Sąjungos teisės aktuose minima priežiūros institucija, nurodyta [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), atsižvelgiant į šio įstatymo [[#^s-1d14ce6501e8421c3ad3e1fd|7 straipsnio]] [[#^s-5b9e586a6b56d906fddeb40c|1]] ir [[#^s-3bee7a2bf53da1c6400afccf|2]] dalyse nurodytą kompetenciją, yra Valstybinė duomenų apsaugos inspekcija arba žurnalistų etikos inspektorius. Priežiūros institucija atlieka kituose tiesiogiai taikomuose Europos Sąjungos teisės aktuose nustatytas priežiūros institucijos užduotis ir turi juose nustatytus priežiūros institucijos įgaliojimus.
 
 
 Papildyta straipsniu:
@@ -231,7 +231,7 @@ Nr. XIII-3410, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24577
 
 
 
-2. Valstybinės duomenų apsaugos inspekcijos veikla grindžiama teisėtumo, nešališkumo, viešumo, profesionalumo atliekant savo funkcijas principais. Valstybinė duomenų apsaugos inspekcija, atlikdama Reglamente (ES) 2016/679 nustatytas priežiūros institucijos užduotis ir šiame įstatyme jai nustatytas funkcijas bei priimdama sprendimus dėl jų atlikimo, yra nepriklausoma. Jos teisės gali būti suvaržytos tik įstatymų. ^s-a8181788ba4deb7183119923
+2. Valstybinės duomenų apsaugos inspekcijos veikla grindžiama teisėtumo, nešališkumo, viešumo, profesionalumo atliekant savo funkcijas principais. Valstybinė duomenų apsaugos inspekcija, atlikdama [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nustatytas priežiūros institucijos užduotis ir šiame įstatyme jai nustatytas funkcijas bei priimdama sprendimus dėl jų atlikimo, yra nepriklausoma. Jos teisės gali būti suvaržytos tik įstatymų. ^s-a8181788ba4deb7183119923
 
 
 3. Valstybės ir savivaldybių institucijos ir įstaigos, Lietuvos Respublikos Seimo nariai ir kiti pareigūnai, politinės partijos ir politinės organizacijos, asociacijos, kiti juridiniai ir fiziniai asmenys neturi teisės Valstybinei duomenų apsaugos inspekcijai, jos vadovui, valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, daryti jokio politinio, ekonominio, psichologinio, socialinio spaudimo ar kitokio neteisėto poveikio. Kišimasis į Valstybinės duomenų apsaugos inspekcijos veiklą užtraukia įstatymų nustatytą atsakomybę. ^s-ff55cbc126be8d0c10d4b3d8
@@ -244,7 +244,7 @@ Nr. XIII-3410, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24577
 1. Valstybinei duomenų apsaugos inspekcijai vadovauja Valstybinės duomenų apsaugos inspekcijos direktorius. ^s-a05e7b6acd72a3280d297c47
 
 
-2. Valstybinės duomenų apsaugos inspekcijos direktoriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis teisės bakalauro ir teisės magistro arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą) ir ne mažesnį kaip 10 metų teisinio arba teisinio pedagoginio darbo stažą ir atitinkantis Reglamento (ES) 2016/679 53 straipsnio 2 dalyje nustatytus reikalavimus. ^s-c68a98cb222e01a42a6757c2
+2. Valstybinės duomenų apsaugos inspekcijos direktoriumi gali būti skiriamas nepriekaištingos reputacijos Lietuvos Respublikos pilietis, turintis teisės bakalauro ir teisės magistro arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą) ir ne mažesnį kaip 10 metų teisinio arba teisinio pedagoginio darbo stažą ir atitinkantis [Reglamento (ES) 2016/679 53 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_53/par_2/oj) nustatytus reikalavimus. ^s-c68a98cb222e01a42a6757c2
 Straipsnio dalies pakeitimai:
 Nr. XIII-1791, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21119
 
@@ -271,7 +271,7 @@ Nr. XIII-1791, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21119
 3) kai nustatoma, kad jis padarė sunkų nusižengimą; ^s-9f5453fe4b4258d9044fd427
 
 
-4) nebeatitinka šio straipsnio 2 ir [[#^s-e7bca87e502d1982f247eac8|4 dalyse]] nustatytų reikalavimų.; ^s-2ff02b1114145ecedc3dbf99
+4) nebeatitinka šio straipsnio [[#^s-c68a98cb222e01a42a6757c2|2]] ir [[#^s-e7bca87e502d1982f247eac8|4]] dalyse nustatytų reikalavimų.; ^s-2ff02b1114145ecedc3dbf99
 
 
 5) kai jam sukanka 65 metai. ^s-42de851a49c6be5ea2f678e3
@@ -286,7 +286,7 @@ Nr. XIII-1791, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21119
 1. Valstybinės duomenų apsaugos inspekcijos direktorius turi pavaduotoją (pavaduotojų). ^s-edd7efae54bcf0d1ec24c75a
 
 
-2. Valstybinės duomenų apsaugos inspekcijos direktoriaus pavaduotojas (pavaduotojai) turi atitikti Valstybinės duomenų apsaugos inspekcijos direktoriui šio įstatymo [[#^s-b8bc605ca8fae311c23d6309|9 straipsnio]] 2 ir 4 dalyse keliamus reikalavimus. ^s-9fb4eacb45dcfb282f35fb99
+2. Valstybinės duomenų apsaugos inspekcijos direktoriaus pavaduotojas (pavaduotojai) turi atitikti Valstybinės duomenų apsaugos inspekcijos direktoriui šio įstatymo [[#^s-b8bc605ca8fae311c23d6309|9 straipsnio]] [[#^s-c68a98cb222e01a42a6757c2|2]] ir [[#^s-e7bca87e502d1982f247eac8|4]] dalyse keliamus reikalavimus. ^s-9fb4eacb45dcfb282f35fb99
 
 
 3. Valstybinės duomenų apsaugos inspekcijos direktoriaus pavaduotoją į pareigas priima ir iš pareigų atleidžia Valstybinės duomenų apsaugos inspekcijos direktorius [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nustatyta tvarka. ^s-93c71837a44e9c9d54621f90
@@ -296,7 +296,7 @@ Nr. XIII-1791, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21119
 ### 11 straipsnis. Valstybinės duomenų apsaugos inspekcijos užduotys ir funkcijos ^s-9c68bb329f09a6a8e1220a75
 
 
-1. Valstybinė duomenų apsaugos inspekcija atlieka Reglamente (ES) 2016/679 nustatytas priežiūros institucijos užduotis. ^s-5d6e0c354556d3cff589cdae
+1. Valstybinė duomenų apsaugos inspekcija atlieka [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nustatytas priežiūros institucijos užduotis. ^s-5d6e0c354556d3cff589cdae
 
 
 2. Valstybinė duomenų apsaugos inspekcija taip pat atlieka šias funkcijas: ^s-ce3bea7a87e92c1f839ac371
@@ -330,7 +330,7 @@ Nr. XIII-2500, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18189
 ### 12 straipsnis. Valstybinės duomenų apsaugos inspekcijos įgaliojimai ir teisės ^s-1328fcde643d814c4a87a1a9
 
 
-1. Valstybinė duomenų apsaugos inspekcija turi Reglamente (ES) 2016/679 nustatytus priežiūros institucijos įgaliojimus. ^s-4bfc22ae286f93b59d6aac00
+1. Valstybinė duomenų apsaugos inspekcija turi [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nustatytus priežiūros institucijos įgaliojimus. ^s-4bfc22ae286f93b59d6aac00
 
 
 2. Valstybinė duomenų apsaugos inspekcija turi teisę: ^s-d6e6715c157937917a998078
@@ -345,16 +345,16 @@ Nr. XIII-2500, 2019-11-07, paskelbta TAR 2019-11-13, i. k. 2019-18189
 3) dalyvauti Seimo, Vyriausybės, kitų valstybės institucijų posėdžiuose, kai svarstomi klausimai, susiję su asmens duomenų ir (ar) privatumo apsauga; ^s-f6c4926c233e1879780e2a97
 
 
-4) kviesti ekspertus (konsultantus), sudaryti darbo grupes dėl asmens duomenų tvarkymo ar apsaugos ekspertizės, asmens duomenų apsaugos dokumentų rengimo, taip pat kitiems Valstybinės duomenų apsaugos inspekcijos kompetencijos klausimams spręsti; ^s-881ac4aa930a3cf7d1e705a6
+4) kviesti ekspertus (konsultantus), sudaryti darbo grupes [dėl asmens duomenų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.CCBBCFCD3831) ar apsaugos ekspertizės, asmens duomenų apsaugos dokumentų rengimo, taip pat kitiems Valstybinės duomenų apsaugos inspekcijos kompetencijos klausimams spręsti; ^s-881ac4aa930a3cf7d1e705a6
 
 
-5) teikti duomenų valdytojams, duomenų tvarkytojams ir kitiems juridiniams ar fiziniams asmenims rekomendacijas ir nurodymus dėl asmens duomenų tvarkymo ir (ar) privatumo apsaugos; ^s-c7ae07cf9deec71800363fa4
+5) teikti duomenų valdytojams, duomenų tvarkytojams ir kitiems juridiniams ar fiziniams asmenims rekomendacijas ir nurodymus [dėl asmens duomenų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.CCBBCFCD3831) ir (ar) privatumo apsaugos; ^s-c7ae07cf9deec71800363fa4
 
 
 6) keistis informacija su kitų valstybių asmens duomenų apsaugos priežiūros institucijomis ir tarptautinėmis organizacijomis tiek, kiek to reikia jų funkcijoms atlikti; ^s-b3d91e5b588af0ec4004b1fe
 
 
-7) kreiptis į teismą ar kitaip dalyvauti nagrinėjant bylą teisme siekiant užtikrinti Reglamento (ES) 2016/679, kitų Europos Sąjungos, tarptautinių ir Lietuvos Respublikos teisės aktų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, nuostatų vykdymą; ^s-e039fcf903bc4b4ffc8d15fc
+7) kreiptis į teismą ar kitaip dalyvauti nagrinėjant bylą teisme siekiant užtikrinti [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), kitų Europos Sąjungos, tarptautinių ir Lietuvos Respublikos teisės aktų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, nuostatų vykdymą; ^s-e039fcf903bc4b4ffc8d15fc
 
 
 8) pažeidimų nagrinėjimo metu naudoti technines priemones; ^s-868cd64ddecccfac55f6213c
@@ -397,7 +397,7 @@ Juridiniai ir fiziniai asmenys privalo vykdyti priežiūros institucijos reikala
 ### 141 straipsnis. Viešas priežiūros institucijos sprendimų skelbimas ^s-2fcca47dc803b0f925c6177f
 
 
-1. Priežiūros institucija, siekdama didinti visuomenės informuotumą apie su asmens duomenų tvarkymu susijusias taisykles, apsaugos priemones, teises ir pavojus bei jų supratimą, savo sprendimus, priimtus atlikus tyrimą ir (ar) patikrinimą ir (ar) išnagrinėjus skundą, išskyrus sprendimus, priimtus pagal šio įstatymo 27 ir [[#^s-ad4704fd52d17a6c2f88aa2b|29 straipsnius]], ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos paskelbia viešai savo interneto svetainėje, nepažeisdama asmens duomenų apsaugos, valstybės, tarnybos, profesinės, komercinės paslapties, kitos įstatymų saugomą paslaptį sudarančios ar kitos įstatymų saugomos informacijos apsaugos reikalavimų. Kai priežiūros institucija, atlikusi tyrimą ir (ar) patikrinimą ir (ar) išnagrinėjusi skundą, nenustato Reglamento (ES) 2016/679, kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio įstatymo ir (ar) kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, pažeidimų, skelbdama savo sprendimą neatskleidžia duomenų valdytojo ir (ar) duomenų tvarkytojo, kurio atžvilgiu priimtas šis sprendimas, tapatybės. ^s-df46debf8508ed914fbb8166
+1. Priežiūros institucija, siekdama didinti visuomenės informuotumą apie su asmens duomenų tvarkymu susijusias taisykles, apsaugos priemones, teises ir pavojus bei jų supratimą, savo sprendimus, priimtus atlikus tyrimą ir (ar) patikrinimą ir (ar) išnagrinėjus skundą, išskyrus sprendimus, priimtus pagal šio įstatymo [[#^s-a5d04954d7baa1fbdf9329e5|27]] ir [[#^s-ad4704fd52d17a6c2f88aa2b|29]] straipsnius, ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos paskelbia viešai savo interneto svetainėje, nepažeisdama asmens duomenų apsaugos, valstybės, tarnybos, profesinės, komercinės paslapties, kitos įstatymų saugomą paslaptį sudarančios ar kitos įstatymų saugomos informacijos apsaugos reikalavimų. Kai priežiūros institucija, atlikusi tyrimą ir (ar) patikrinimą ir (ar) išnagrinėjusi skundą, nenustato [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio įstatymo ir (ar) kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, pažeidimų, skelbdama savo sprendimą neatskleidžia duomenų valdytojo ir (ar) duomenų tvarkytojo, kurio atžvilgiu priimtas šis sprendimas, tapatybės. ^s-df46debf8508ed914fbb8166
 
 
 2. [[#^s-df46debf8508ed914fbb8166|Šio straipsnio 1 dalyje]] nurodyti sprendimai skelbiami 10 metų nuo jų paskelbimo dienos. ^s-acd453d0c543d72025632d4a
@@ -419,7 +419,7 @@ VALSTYBINĖS DUOMENŲ APSAUGOS INSPEKCIJOS LEIDIMŲ PERDUOTI ASMENS DUOMENIS Į 
 ### 15 straipsnis. Valstybinės duomenų apsaugos inspekcijos leidimų perduoti asmens duomenis į trečiąsias valstybes ar tarptautinėms organizacijoms pagal Reglamento (ES) 2016/679 46 straipsnio 3 dalį išdavimas ^s-b54ea4e21c4a163b5e47e800
 
 
-1. Valstybinė duomenų apsaugos inspekcija pagal Reglamento (ES) 2016/679 46 straipsnio 3 dalį leidimą perduoti asmens duomenis į trečiąją valstybę ar tarptautinei organizacijai arba motyvuotą rašytinį atsisakymą šį leidimą išduoti privalo pateikti duomenų valdytojui ne vėliau kaip per 20 darbo dienų. Šis terminas skaičiuojamas nuo dienos, kurią Valstybinė duomenų apsaugos inspekcija gauna visus leidimui gauti reikalingus dokumentus ir informaciją. ^s-3538f229f24e4379e2db6c67
+1. Valstybinė duomenų apsaugos inspekcija pagal [Reglamento (ES) 2016/679 46 straipsnio 3 dalį](https://eur-lex.europa.eu/eli/reg/2016/679/art_46/par_3/oj) leidimą perduoti asmens duomenis į trečiąją valstybę ar tarptautinei organizacijai arba motyvuotą rašytinį atsisakymą šį leidimą išduoti privalo pateikti duomenų valdytojui ne vėliau kaip per 20 darbo dienų. Šis terminas skaičiuojamas nuo dienos, kurią Valstybinė duomenų apsaugos inspekcija gauna visus leidimui gauti reikalingus dokumentus ir informaciją. ^s-3538f229f24e4379e2db6c67
 
 
 2. Dėl aplinkybių sudėtingumo, informacijos apimties ar kitų svarbių objektyvių aplinkybių [[#^s-3538f229f24e4379e2db6c67|šio straipsnio 1 dalyje]] nustatytas leidimo perduoti asmens duomenis į trečiąją valstybę ar tarptautinei organizacijai išdavimo terminas gali būti vieną kartą pratęstas iki 10 darbo dienų. Valstybinė duomenų apsaugos inspekcija, priėmusi sprendimą pratęsti [[#^s-3538f229f24e4379e2db6c67|šio straipsnio 1 dalyje]] nurodytą terminą, privalo nedelsdama, bet ne vėliau kaip iki [[#^s-3538f229f24e4379e2db6c67|šio straipsnio 1 dalyje]] nurodyto termino pabaigos, pranešti duomenų valdytojui apie leidimo išdavimo termino pratęsimą ir priežastis, dėl kurių terminas pratęstas. ^s-17b565065389372cfe781096
@@ -432,7 +432,7 @@ VALSTYBINĖS DUOMENŲ APSAUGOS INSPEKCIJOS LEIDIMŲ PERDUOTI ASMENS DUOMENIS Į 
 ### 16 straipsnis. Sertifikavimo įstaigų akreditavimas ^s-265544734905014cf77229f2
 
 
-1. Sertifikavimo įstaigas pagal Reglamento (ES) 2016/679 43 straipsnį akredituoja ir šio akreditavimo tvarką nustato Valstybinė duomenų apsaugos inspekcija. ^s-1e8dab5fe6fee17eb32c8d19
+1. Sertifikavimo įstaigas pagal [Reglamento (ES) 2016/679 43 straipsnį](https://eur-lex.europa.eu/eli/reg/2016/679/art_43/oj) akredituoja ir šio akreditavimo tvarką nustato Valstybinė duomenų apsaugos inspekcija. ^s-1e8dab5fe6fee17eb32c8d19
 
 
 2. Už sertifikavimo įstaigos, pageidaujančios būti akredituotos, akreditavimą ir jo atnaujinimą imama valstybės rinkliava. ^s-d3d8560ed905b02840e18859
@@ -456,7 +456,7 @@ BENDROSIOS NUOSTATOS
 ### 17 straipsnis. Tikrinamo asmens, pareiškėjo, skundžiamo asmens ir pažeidimo padarymu įtariamo asmens teisės ir pareigos ^s-42c7507c3c1667d2aed2fe90
 
 
-1. Tikrinamas asmuo, pareiškėjas, skundžiamas asmuo ir pažeidimo padarymu įtariamas asmuo turi Reglamente (ES) 2016/679 ir šiame įstatyme nurodytas teises ir pareigas. ^s-2c00a14e1551c43f9d0882b2
+1. Tikrinamas asmuo, pareiškėjas, skundžiamas asmuo ir pažeidimo padarymu įtariamas asmuo turi [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir šiame įstatyme nurodytas teises ir pareigas. ^s-2c00a14e1551c43f9d0882b2
 
 
 2. Tikrinamas asmuo, pareiškėjas, skundžiamas asmuo ir pažeidimo padarymu įtariamas asmuo taip pat turi teisę: ^s-f081f1b81e1f96b50ba219bb
@@ -557,10 +557,10 @@ Priežiūros institucija informacijos apie atliekamą pažeidimo nagrinėjimą v
 ### 191 straipsnis. Priežiūros institucijų bendradarbiavimas atliekant pažeidimų nagrinėjimą ^s-efbee88856bfd9838e9cafa8
 
 
-1. Nagrinėdamos pažeidimus, priežiūros institucijos, veikdamos pagal savo kompetenciją ir atlikdamos savo užduotis ir funkcijas, aktyviai bendradarbiauja, kad būtų užtikrinta veiksminga Reglamento (ES) 2016/679, kitų tiesiogiai taikomų Europos Sąjungos teisės aktų ir šio įstatymo taikymo priežiūra. ^s-5845b3e55279fffaa0daa5d7
+1. Nagrinėdamos pažeidimus, priežiūros institucijos, veikdamos pagal savo kompetenciją ir atlikdamos savo užduotis ir funkcijas, aktyviai bendradarbiauja, kad būtų užtikrinta veiksminga [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), kitų tiesiogiai taikomų Europos Sąjungos teisės aktų ir šio įstatymo taikymo priežiūra. ^s-5845b3e55279fffaa0daa5d7
 
 
-2. Priežiūros institucijos, siekdamos išnagrinėti Reglamento (ES) 2016/679 ir kitų tiesiogiai taikomų Europos Sąjungos teisės aktų pažeidimus, bendradarbiaudamos tarpusavyje turi teisę viena kitai teikti bet kurią būtiną informaciją, įskaitant valstybės, tarnybos, profesinę, komercinę, kitą įstatymų saugomą paslaptį sudarančią ar kitą įstatymų saugomą informaciją. ^s-209006613cd4be75380586f2
+2. Priežiūros institucijos, siekdamos išnagrinėti [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir kitų tiesiogiai taikomų Europos Sąjungos teisės aktų pažeidimus, bendradarbiaudamos tarpusavyje turi teisę viena kitai teikti bet kurią būtiną informaciją, įskaitant valstybės, tarnybos, profesinę, komercinę, kitą įstatymų saugomą paslaptį sudarančią ar kitą įstatymų saugomą informaciją. ^s-209006613cd4be75380586f2
 
 
 3. Jei priežiūros institucijai, atliekančiai pažeidimo nagrinėjimą, kyla abejonių, ar nagrinėti pažeidimą priklauso jos kompetencijai, ji turi teisę [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nustatyta tvarka tarnybinės pagalbos kreiptis į kitą priežiūros instituciją, prašydama pateikti nuomonę dėl pažeidimo nagrinėjimo priskyrimo jos kompetencijai. Kartu pateikiami reikalingi dokumentai ir informacija. ^s-35f2450c3061ec8a0971cb96
@@ -581,7 +581,7 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 ### 192 straipsnis. Pažeidimų nagrinėjimo terminų skaičiavimo sustabdymas ^s-6db4fef020446778e9e87578
 
 
-Šio įstatymo [[#^s-68f8f1aafd963c7a03745c10|21 straipsnio]] 1, 2 dalyse ir [[#^s-e8abcb3b8a4f628a8cfc2b42|30 straipsnio 2 dalyje]] nustatytų terminų skaičiavimas sustabdomas, jeigu priežiūros institucija dėl jos nurodymų nevykdymo pradeda administracinės baudos skyrimo procedūrą arba kol gaunama ekspertų (konsultantų) ar kitos priežiūros institucijos išvada, būtina pažeidimui tinkamai įvertinti.
+Šio įstatymo [[#^s-68f8f1aafd963c7a03745c10|21 straipsnio]] [[#^s-62454f9cb2f73895810084eb|1]], [[#^s-7d26a9343f810b903abc5b97|2]] dalyse ir [[#^s-e8abcb3b8a4f628a8cfc2b42|30 straipsnio 2 dalyje]] nustatytų terminų skaičiavimas sustabdomas, jeigu priežiūros institucija dėl jos nurodymų nevykdymo pradeda administracinės baudos skyrimo procedūrą arba kol gaunama ekspertų (konsultantų) ar kitos priežiūros institucijos išvada, būtina pažeidimui tinkamai įvertinti.
 
 
 Papildyta straipsniu:
@@ -597,13 +597,13 @@ TYRIMŲ IR (AR) PATIKRINIMŲ VALSTYBINĖS DUOMENŲ APSAUGOS INSPEKCIJOS INICIATY
 ### 20 straipsnis. Tyrimai ir (ar) patikrinimai, atliekami Valstybinės duomenų apsaugos inspekcijos iniciatyva, ir jų atlikimo tvarka ^s-513b1381aec3f9240a2f297b
 
 
-1. Valstybinė duomenų apsaugos inspekcija gali savo iniciatyva pradėti tyrimą ir (ar) patikrinimą bet kokiu klausimu, susijusiu su Reglamento (ES) 2016/679, kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio įstatymo ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, galimu pažeidimu. ^s-2065657c94c68b9cee218270
+1. Valstybinė duomenų apsaugos inspekcija gali savo iniciatyva pradėti tyrimą ir (ar) patikrinimą bet kokiu klausimu, susijusiu su [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio įstatymo ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, galimu pažeidimu. ^s-2065657c94c68b9cee218270
 
 
-2. Valstybinė duomenų apsaugos inspekcija savo iniciatyva atlieka tyrimus ir (ar) patikrinimus dėl Reglamento (ES) 2016/679, kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio įstatymo ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, galimo pažeidimo šių teisės aktų ir Valstybinės duomenų apsaugos inspekcijos nustatyta tvarka. ^s-068a4f8388c803e2a3adc064
+2. Valstybinė duomenų apsaugos inspekcija savo iniciatyva atlieka tyrimus ir (ar) patikrinimus dėl [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio įstatymo ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, galimo pažeidimo šių teisės aktų ir Valstybinės duomenų apsaugos inspekcijos nustatyta tvarka. ^s-068a4f8388c803e2a3adc064
 
 
-3. Kai Valstybinė duomenų apsaugos inspekcija veikia vadovaudamasi Reglamento (ES) 2016/679 VII skyriaus 1 ir (ar) 2 skirsnių nuostatomis, netaikomi šio įstatymo [[#^s-68f8f1aafd963c7a03745c10|21 straipsnyje]] nustatyti tyrimo ir (ar) patikrinimo Valstybinės duomenų apsaugos inspekcijos iniciatyva atlikimo terminai. ^s-36fe54250714f3b9a102b736
+3. Kai Valstybinė duomenų apsaugos inspekcija veikia vadovaudamasi [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) VII skyriaus 1 ir (ar) 2 skirsnių nuostatomis, netaikomi šio įstatymo [[#^s-68f8f1aafd963c7a03745c10|21 straipsnyje]] nustatyti tyrimo ir (ar) patikrinimo Valstybinės duomenų apsaugos inspekcijos iniciatyva atlikimo terminai. ^s-36fe54250714f3b9a102b736
 
 
 4. Kai tyrimas ir (ar) patikrinimas atliekamas Valstybinės duomenų apsaugos inspekcijos iniciatyva, skundai, kurių dalykas sutampa su atliekamo tyrimo ir (ar) patikrinimo dalyku, nenagrinėjami. ^s-708a265041559a3f7321ec46
@@ -633,7 +633,7 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 1) konstatuoti, kad pažeidimų nenustatyta; ^s-f30b8c570971ed486e06675c
 
 
-2) teikti duomenų valdytojui ir (ar) duomenų tvarkytojui nurodymus, rekomendacijas ir (ar) taikyti kitas Reglamento (ES) 2016/679 58 straipsnio 2 dalyje, šio įstatymo [[#^s-4adcbc1fbdb25fd002319c4b|33 straipsnyje]] ir kituose įstatymuose, reglamentuojančiuose asmens duomenų ir (ar) privatumo apsaugą, nurodytas priemones. Jei ketinama skirti administracinę baudą, atliekami šio skyriaus ketvirtajame skirsnyje nurodyti veiksmai; ^s-14aaacac9d55463604bc9200
+2) teikti duomenų valdytojui ir (ar) duomenų tvarkytojui nurodymus, rekomendacijas ir (ar) taikyti kitas [Reglamento (ES) 2016/679 58 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_58/par_2/oj), šio įstatymo [[#^s-4adcbc1fbdb25fd002319c4b|33 straipsnyje]] ir kituose įstatymuose, reglamentuojančiuose asmens duomenų ir (ar) privatumo apsaugą, nurodytas priemones. Jei ketinama skirti administracinę baudą, atliekami šio skyriaus ketvirtajame skirsnyje nurodyti veiksmai; ^s-14aaacac9d55463604bc9200
 
 
 3) surašyti administracinio nusižengimo protokolą pažeidimą padariusiam asmeniui. ^s-7450167fd959623f3780ee95
@@ -654,10 +654,10 @@ SKUNDŲ NAGRINĖJIMAS
 ### 23 straipsnis. Skundų nagrinėjimo tvarka ^s-56afbe2d3cd97941bf9e434c
 
 
-1. Priežiūros institucija nagrinėja skundus dėl Reglamento (ES) 2016/679, kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio įstatymo ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, pažeidimų šių teisės aktų ir priežiūros institucijos nustatyta tvarka. ^s-0159c08df1454fdc08aa17d5
+1. Priežiūros institucija nagrinėja skundus dėl [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio įstatymo ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, pažeidimų šių teisės aktų ir priežiūros institucijos nustatyta tvarka. ^s-0159c08df1454fdc08aa17d5
 
 
-2. Priežiūros institucija, vadovaudamasi Reglamento (ES) 2016/679 57 straipsnio 1 dalies f punktu, gali pasirinkti tinkamiausius ir efektyviausius skundų nagrinėjimo būdus ir priemones, nustatytus Reglamente (ES) 2016/679, šiame įstatyme ir priežiūros institucijos patvirtintame tvarkos apraše, kuriame reglamentuojamas skundų nagrinėjimas, atsižvelgdama į konkrečią situaciją ir: ^s-53892bc4d333474aab1b0019
+2. Priežiūros institucija, vadovaudamasi [Reglamento (ES) 2016/679 57 straipsnio 1 dalies f punktu](https://eur-lex.europa.eu/eli/reg/2016/679/art_57/par_1/lit_f/oj), gali pasirinkti tinkamiausius ir efektyviausius skundų nagrinėjimo būdus ir priemones, nustatytus [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), šiame įstatyme ir priežiūros institucijos patvirtintame tvarkos apraše, kuriame reglamentuojamas skundų nagrinėjimas, atsižvelgdama į konkrečią situaciją ir: ^s-53892bc4d333474aab1b0019
 
 
 1) einamaisiais metais nustatytus priežiūros institucijos veiklos prioritetus; ^s-6aa809efc78ca5fbfc45531a
@@ -675,13 +675,13 @@ SKUNDŲ NAGRINĖJIMAS
 5) galimą esminį priežiūros institucijos sprendimo poveikį duomenų valdytojo ir (ar) duomenų tvarkytojo asmens duomenų tvarkymo operacijų tobulinimui; ^s-8fa3c1d838c1238cc867e5e5
 
 
-6) poreikį pateikti nuomonę esminiu Reglamento (ES) 2016/679 taikymo klausimu; ^s-f872ba2ab1f8bd8074700d78
+6) poreikį pateikti nuomonę esminiu [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) taikymo klausimu; ^s-f872ba2ab1f8bd8074700d78
 
 
 7) nagrinėjamų aplinkybių atsiradimo datą ir tai, ar nagrinėjamas galimas pažeidimas nebekelia padarinių, padariniai buvo pašalinti arba buvo suteikta tinkama padarinių pašalinimo garantija. ^s-4c844fa7cd022e670fb5225d
 
 
-3. Kai nagrinėjant skundą vadovaujamasi Reglamento (ES) 2016/679 VII skyriaus 1 ir (ar) 2 skirsnių nuostatomis, netaikomi šio įstatymo [[#^s-e8abcb3b8a4f628a8cfc2b42|30 straipsnio 2 dalyje]] nustatyti skundo nagrinėjimo terminai. ^s-fa256d0b701d36847f96eb38
+3. Kai nagrinėjant skundą vadovaujamasi [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) VII skyriaus 1 ir (ar) 2 skirsnių nuostatomis, netaikomi šio įstatymo [[#^s-e8abcb3b8a4f628a8cfc2b42|30 straipsnio 2 dalyje]] nustatyti skundo nagrinėjimo terminai. ^s-fa256d0b701d36847f96eb38
 
 
 4. Jei priežiūros institucija nustato, kad nagrinėja pareiškėjo pateiktus 2 ar daugiau skundų dėl to paties skundžiamo asmens arba skundai pateikti skirtingų pareiškėjų, tačiau dėl tų pačių pažeidimų ir to paties skundžiamo asmens, savo sprendimu šiuos skundus iki skundo nagrinėjimo termino pabaigos gali sujungti ir nagrinėti kaip vieną skundą. ^s-dd128d3449c2055f3939585a
@@ -701,34 +701,34 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 1. Skundą Valstybinei duomenų apsaugos inspekcijai turi teisę pateikti šie pareiškėjai: ^s-dfba0f5810e3e83dfd092001
 
 
-1) duomenų subjektas, nurodytas Reglamento (ES) 2016/679 77 straipsnio 1 dalyje, – dėl Reglamento (ES) 2016/679 pažeidimų; ^s-fcf05d11441d3854ebc5da95
+1) duomenų subjektas, nurodytas [Reglamento (ES) 2016/679 77 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_77/par_1/oj), – dėl [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) pažeidimų; ^s-fcf05d11441d3854ebc5da95
 
 
 2) duomenų subjektas – dėl kitų tiesiogiai taikomų Europos Sąjungos teisės aktų, šio ir kitų įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, pažeidimų; ^s-e2f167a185b7a2d12d802976
 
 
-3) pelno nesiekianti įstaiga, organizacija ar asociacija, atitinkanti Reglamento (ES) 2016/679 80 straipsnio 1 dalies reikalavimus, pagal Reglamento (ES) 2016/679 80 straipsnio 2 dalį – dėl Reglamento (ES) 2016/679 ir šio įstatymo pažeidimų; ^s-6cf96212be4c763882cd22f5
+3) pelno nesiekianti įstaiga, organizacija ar asociacija, atitinkanti [Reglamento (ES) 2016/679 80 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2016/679/art_80/par_1/oj) reikalavimus, pagal [Reglamento (ES) 2016/679 80 straipsnio 2 dalį](https://eur-lex.europa.eu/eli/reg/2016/679/art_80/par_2/oj) – dėl [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir šio įstatymo pažeidimų; ^s-6cf96212be4c763882cd22f5
 
 
-4) fizinis ar juridinis asmuo – dėl [[latest/TAR.82D8168D3049#^s-16661d8fc0fecbdcf51f76da|Lietuvos Respublikos elektroninių ryšių įstatymo IX skyriaus, išskyrus 73 straipsnio 5 dalį]], 76 straipsnio 7 dalį ir 80 straipsnio 2 ir [[#^s-2c25a4e5b4ed1415b7bcaee6|3 dalis]], pažeidimų. ^s-f04b875fe6b66f77f1b24fc9
+4) fizinis ar juridinis asmuo – dėl [[latest/TAR.82D8168D3049#^s-1f19a5282d029997cd62fad4|Lietuvos Respublikos elektroninių ryšių įstatymo IX skyriaus, išskyrus 73 straipsnio 5 dalį, 76 straipsnio 7 dalį ir 80 straipsnio]] [[latest/TAR.82D8168D3049#^s-058f6612d980fba3692f89e7|2]] ir [[latest/TAR.82D8168D3049#^s-322dbdf710b9b7fdc2350212|3]] dalis, pažeidimų. ^s-f04b875fe6b66f77f1b24fc9
 
 
 2. Skundą žurnalistų etikos inspektoriui turi teisę pateikti šie pareiškėjai: ^s-d8fc5c4956a6b697d1149698
 
 
-1) duomenų subjektas, nurodytas Reglamento (ES) 2016/679 77 straipsnio 1 dalyje, – dėl Reglamento (ES) 2016/679 pažeidimų; ^s-bf1605d8c0901877d6e18999
+1) duomenų subjektas, nurodytas [Reglamento (ES) 2016/679 77 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_77/par_1/oj), – dėl [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) pažeidimų; ^s-bf1605d8c0901877d6e18999
 
 
 2) duomenų subjektas – dėl kitų tiesiogiai taikomų Europos Sąjungos teisės aktų ir įstatymų, reglamentuojančių asmens duomenų ir (ar) privatumo apsaugą, pažeidimų; ^s-b57c22c0c0d9b4bfc5a00d81
 
 
-3) pelno nesiekianti įstaiga, organizacija ar asociacija, atitinkanti Reglamento (ES) 2016/679 80 straipsnio 1 dalies reikalavimus, pagal Reglamento (ES) 2016/679 80 straipsnio 2 dalį – dėl Reglamento (ES) 2016/679 pažeidimų. ^s-658b61ac70b4fb2d00ea5624
+3) pelno nesiekianti įstaiga, organizacija ar asociacija, atitinkanti [Reglamento (ES) 2016/679 80 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2016/679/art_80/par_1/oj) reikalavimus, pagal [Reglamento (ES) 2016/679 80 straipsnio 2 dalį](https://eur-lex.europa.eu/eli/reg/2016/679/art_80/par_2/oj) – dėl [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) pažeidimų. ^s-658b61ac70b4fb2d00ea5624
 
 
 3. Prie skundo, kurį pateikia [[#^s-6cf96212be4c763882cd22f5|šio straipsnio 1 dalies 3 punkte]] arba 2 dalies 3 punkte nurodytas pareiškėjas, papildomai turi būti pateikta informacija ir (arba) pridėti dokumentai, patvirtinantys, kad šis pareiškėjas veikia asmens duomenų apsaugos srityje, jeigu šios informacijos ir (arba) dokumentų nėra informacinėse sistemose. ^s-2c25a4e5b4ed1415b7bcaee6
 
 
-4. Prie skundo, kurį pateikia pareiškėjo atstovas, turi būti pridėtas pareiškėjo atstovo įgaliojimus patvirtinantis dokumentas. Prie skundo, kurį [[#^s-dfba0f5810e3e83dfd092001|šio straipsnio 1 dalies]] 1, 2 punktuose arba 2 dalies 1 punkte nurodyto pareiškėjo vardu pateikia pelno nesiekianti įstaiga, organizacija ar asociacija pagal Reglamento (ES) 2016/679 80 straipsnio 1 dalį ar įstatymus, reglamentuojančius asmens duomenų ir (ar) privatumo apsaugą, papildomai turi būti pateikta informacija ir (arba) pridėti dokumentai, patvirtinantys, kad ji veikia asmens duomenų apsaugos srityje, jeigu šios informacijos ir (arba) dokumentų nėra informacinėse sistemose. ^s-e91a55a45636a850053889d1
+4. Prie skundo, kurį pateikia pareiškėjo atstovas, turi būti pridėtas pareiškėjo atstovo įgaliojimus patvirtinantis dokumentas. Prie skundo, kurį [[#^s-dfba0f5810e3e83dfd092001|šio straipsnio 1 dalies]] 1, 2 punktuose arba 2 dalies 1 punkte nurodyto pareiškėjo vardu pateikia pelno nesiekianti įstaiga, organizacija ar asociacija pagal [Reglamento (ES) 2016/679 80 straipsnio 1 dalį](https://eur-lex.europa.eu/eli/reg/2016/679/art_80/par_1/oj) ar įstatymus, reglamentuojančius asmens duomenų ir (ar) privatumo apsaugą, papildomai turi būti pateikta informacija ir (arba) pridėti dokumentai, patvirtinantys, kad ji veikia asmens duomenų apsaugos srityje, jeigu šios informacijos ir (arba) dokumentų nėra informacinėse sistemose. ^s-e91a55a45636a850053889d1
 
 
 5. Skunde nurodoma: ^s-cabf6ef5d8c8506f0a6fb7c8
@@ -764,7 +764,7 @@ c) atstovavimo pagrindas, kai skundą pateikia pareiškėjo atstovas;
 7) pareiškėjo ar jo atstovo, jeigu jis yra, parašas; skundas, pateikiamas elektroninėmis priemonėmis, turi būti pasirašytas pareiškėjo ar jo atstovo, jeigu jis yra, kvalifikuotu elektroniniu parašu arba suformuotas tokiu būdu, kuriuo užtikrinama elektroninė asmens atpažintis ir teksto autentiškumas. ^s-a3382fe8cb910f747754ec3a
 
 
-6. Valstybinei duomenų apsaugos inspekcijai pateikiamame skunde dėl Reglamento (ES) 2016/679 15–[[#^s-2bf4058f0a09373e1ff2954b|22 straipsnių]] galimo pažeidimo, be [[#^s-cabf6ef5d8c8506f0a6fb7c8|šio straipsnio 5 dalyje]] nurodytos informacijos, papildomai nurodoma informacija apie pareiškėjo kreipimąsi į duomenų valdytoją ir (ar) duomenų tvarkytoją pagal Reglamento (ES) 2016/679 15–[[#^s-2bf4058f0a09373e1ff2954b|22 straipsnius]], kartu su skundu pateikiama duomenų valdytojo ir (ar) duomenų tvarkytojo atsakymo, jeigu jis pateiktas, pareiškėjui kopija. ^s-c1feeb71be3d10d6bffe001d
+6. Valstybinei duomenų apsaugos inspekcijai pateikiamame skunde dėl [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) [[#^s-b54ea4e21c4a163b5e47e800|15]]–[[#^s-2bf4058f0a09373e1ff2954b|22]] straipsnių galimo pažeidimo, be [[#^s-cabf6ef5d8c8506f0a6fb7c8|šio straipsnio 5 dalyje]] nurodytos informacijos, papildomai nurodoma informacija apie pareiškėjo kreipimąsi į duomenų valdytoją ir (ar) duomenų tvarkytoją pagal [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) [[#^s-b54ea4e21c4a163b5e47e800|15]]–[[#^s-2bf4058f0a09373e1ff2954b|22]] straipsnius, kartu su skundu pateikiama duomenų valdytojo ir (ar) duomenų tvarkytojo atsakymo, jeigu jis pateiktas, pareiškėjui kopija. ^s-c1feeb71be3d10d6bffe001d
 
 
 7. Prie skundo turi būti pridėti turimi dokumentai, reikalingi skundui nagrinėti, ar jų aprašymas. ^s-4ea47918dcbb091f7245633a
@@ -821,7 +821,7 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 8) nuo skunde ar jo dalyje nurodytų pažeidimų padarymo iki skundo pateikimo praėjo daugiau kaip 2 metai; ^s-0b4c4f7739a173b0d404e2d1
 
 
-9) prie skundo nėra pateikti šio įstatymo [[#^s-6a7d95c2cf30b5f668851998|24 straipsnio]] 3 ir [[#^s-9726043cf9b0dfedcf4cc7bb|4 dalyse]] nurodyti dokumentai. ^s-949378b096403efb0fdf9ecc
+9) prie skundo nėra pateikti šio įstatymo [[#^s-6a7d95c2cf30b5f668851998|24 straipsnio]] [[#^s-2c25a4e5b4ed1415b7bcaee6|3]] ir [[#^s-e91a55a45636a850053889d1|4]] dalyse nurodyti dokumentai. ^s-949378b096403efb0fdf9ecc
 
 
 2. Valstybinė duomenų apsaugos inspekcija priima sprendimą atsisakyti nagrinėti skundą ar jo dalį ir apie tai [[#^s-7e7581f8c4df84fee220b8ad|šio straipsnio 1 dalyje]] nustatyta tvarka praneša pareiškėjui, jeigu: ^s-dff016bce44190ac760e4743
@@ -833,7 +833,7 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 2) dėl skundo ar jo dalies dalyko yra pradėtas tyrimas ir (ar) patikrinimas jos pačios iniciatyva; ^s-fdd1e763565a076a5edf31bb
 
 
-3) skundas ar jo dalis dėl Reglamento (ES) 2016/679 15–[[#^s-2bf4058f0a09373e1ff2954b|22 straipsnių]] galimo pažeidimo pateikta nepraėjus Reglamento (ES) 2016/679 [[#^s-e8e41ccd4c5f1e2643b381ab|12 straipsnio 3 dalyje]] nustatytam vieno mėnesio terminui. ^s-0865f57f97b579979d67bb14
+3) skundas ar jo dalis dėl [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) [[#^s-b54ea4e21c4a163b5e47e800|15]]–[[#^s-2bf4058f0a09373e1ff2954b|22]] straipsnių galimo pažeidimo pateikta nepraėjus [Reglamento (ES) 2016/679 12 straipsnio 3 dalyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_12/par_3/oj) nustatytam vieno mėnesio terminui. ^s-0865f57f97b579979d67bb14
 
 
 3. Kai skunde nurodytų aplinkybių ar dalies jų tyrimas nepriklauso priežiūros institucijos kompetencijai, priežiūros institucija per [[#^s-7e7581f8c4df84fee220b8ad|šio straipsnio 1 dalyje]] nurodytą terminą perduoda skundą ar jo dalį kompetentingai institucijai ir apie tai praneša pareiškėjui. Kai kompetentinga institucija yra teismas, skundas ar jo dalis grąžinamas pareiškėjui pateikiant informaciją, kur jam reikėtų kreiptis. ^s-25221926ab132216430cf5a7
@@ -866,7 +866,7 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 1) gaunamas pareiškėjo prašymas nenagrinėti skundo ar jo dalies; ^s-69959eafd13db9c8f55b6fbf
 
 
-2) paaiškėja, kad yra šio įstatymo [[#^s-7e7581f8c4df84fee220b8ad|27 straipsnio 1 dalies]] 2–6, 8, 9 punktuose nurodytas pagrindas (nurodyti pagrindai) atsisakyti nagrinėti skundą ar jo dalį; ^s-fabb551fdf56e16729630fb2
+2) paaiškėja, kad yra šio įstatymo [[#^s-7e7581f8c4df84fee220b8ad|27 straipsnio 1 dalies]] [[#^s-400134d76895734610708a3d|2]]–[[#^s-c4798b962761acdc7fe02a5f|6]], [[#^s-0b4c4f7739a173b0d404e2d1|8]], [[#^s-949378b096403efb0fdf9ecc|9]] punktuose nurodytas pagrindas (nurodyti pagrindai) atsisakyti nagrinėti skundą ar jo dalį; ^s-fabb551fdf56e16729630fb2
 
 
 3) pareiškėjas priežiūros institucijos reikalavimu nepateikia papildomų dokumentų ir (ar) informacijos, be kurių neįmanoma išnagrinėti skundo ar jo dalies; ^s-76c448f1bbf9c44b13de8c41
@@ -917,13 +917,13 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 2. Kai skundas ar jo dalis pripažįstama pagrįsta, Valstybinė duomenų apsaugos inspekcija motyvuotai: ^s-24b6bae879364e3e8d3c70eb
 
 
-1) teikia duomenų valdytojui ir (ar) duomenų tvarkytojui nurodymus, rekomendacijas ir (ar) taiko kitas Reglamento (ES) 2016/679 58 straipsnio 2 dalyje, šio įstatymo [[#^s-4adcbc1fbdb25fd002319c4b|33 straipsnyje]] ir kituose įstatymuose, reglamentuojančiuose asmens duomenų ir (ar) privatumo apsaugą, nurodytas priemones. Jei ketinama skirti administracinę baudą, atliekami šio skyriaus ketvirtajame skirsnyje nurodyti veiksmai; ^s-4267f3417384ebfbf67fc202
+1) teikia duomenų valdytojui ir (ar) duomenų tvarkytojui nurodymus, rekomendacijas ir (ar) taiko kitas [Reglamento (ES) 2016/679 58 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_58/par_2/oj), šio įstatymo [[#^s-4adcbc1fbdb25fd002319c4b|33 straipsnyje]] ir kituose įstatymuose, reglamentuojančiuose asmens duomenų ir (ar) privatumo apsaugą, nurodytas priemones. Jei ketinama skirti administracinę baudą, atliekami šio skyriaus ketvirtajame skirsnyje nurodyti veiksmai; ^s-4267f3417384ebfbf67fc202
 
 
 2) surašo administracinio nusižengimo protokolą pažeidimą padariusiam asmeniui. ^s-b3a25b19f6b4c4541cfbb0ce
 
 
-3. Kai skundas ar jo dalis pripažįstama pagrįsta, žurnalistų etikos inspektorius motyvuotai teikia duomenų valdytojui ir (ar) duomenų tvarkytojui nurodymus, rekomendacijas ir (ar) taiko kitas Reglamento (ES) 2016/679 58 straipsnio 2 dalyje ir šio įstatymo [[#^s-4adcbc1fbdb25fd002319c4b|33 straipsnyje]] nurodytas priemones. Jei ketinama skirti administracinę baudą, atliekami šio skyriaus ketvirtajame skirsnyje nurodyti veiksmai. ^s-ef9f8114497a379403946135
+3. Kai skundas ar jo dalis pripažįstama pagrįsta, žurnalistų etikos inspektorius motyvuotai teikia duomenų valdytojui ir (ar) duomenų tvarkytojui nurodymus, rekomendacijas ir (ar) taiko kitas [Reglamento (ES) 2016/679 58 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_58/par_2/oj) ir šio įstatymo [[#^s-4adcbc1fbdb25fd002319c4b|33 straipsnyje]] nurodytas priemones. Jei ketinama skirti administracinę baudą, atliekami šio skyriaus ketvirtajame skirsnyje nurodyti veiksmai. ^s-ef9f8114497a379403946135
 
 
 4. Apie priimtą sprendimą priežiūros institucija ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos raštu praneša pareiškėjui ir skundžiamam asmeniui, išskyrus [[#^s-4267f3417384ebfbf67fc202|šio straipsnio 2 dalies 1 punkte]] ir [[#^s-ef9f8114497a379403946135|3 dalyje]] nurodytus atvejus, kai ketinama skirti administracinę baudą. ^s-198c5bf39b2558e0e95f6fb0
@@ -943,7 +943,7 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 ### 32 straipsnis. Administracinių baudų skyrimo tvarka ^s-203331213d9ac23c4a589afa
 
 
-1. Priežiūros institucija už Reglamento (ES) 2016/679 ir šio įstatymo pažeidimus administracines baudas skiria vadovaudamasi Reglamentu (ES) 2016/679 ir šiuo įstatymu. ^s-c498ec8ab8d3cbc9cab3752e
+1. Priežiūros institucija už [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir šio įstatymo pažeidimus administracines baudas skiria vadovaudamasi [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir šiuo įstatymu. ^s-c498ec8ab8d3cbc9cab3752e
 
 
 2. Kai administracinė bauda skiriama pagal šio įstatymo [[#^s-e5195c75ad5d3a681705a470|321 straipsnį]], vadovaujamasi [[#^s-c498ec8ab8d3cbc9cab3752e|šio straipsnio 1 dalyje]] nustatyta tvarka. ^s-fd19799cf878f23976b39603
@@ -955,7 +955,7 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 4. Sprendimas dėl administracinės baudos skyrimo gali būti priimtas, jeigu praėjo ne daugiau kaip 3 metai nuo pažeidimo padarymo dienos, o kai pažeidimas trunkamasis, – nuo jo paaiškėjimo dienos. ^s-a04a8b4a9253b1f800258684
 
 
-5. Kai priežiūros institucija veikia vadovaudamasi Reglamento (ES) 2016/679 VII skyriaus 1 ir (ar) 2 skirsnių nuostatomis, netaikomi šio įstatymo [[#^s-4d9478cb6e4b4bac11d0f8e2|34 straipsnio 9 dalyje]] nustatyti administracinės baudos skyrimo terminai. ^s-450136b85dca4cf5f3c4c5c7
+5. Kai priežiūros institucija veikia vadovaudamasi [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) VII skyriaus 1 ir (ar) 2 skirsnių nuostatomis, netaikomi šio įstatymo [[#^s-4d9478cb6e4b4bac11d0f8e2|34 straipsnio 9 dalyje]] nustatyti administracinės baudos skyrimo terminai. ^s-450136b85dca4cf5f3c4c5c7
 
 
 Straipsnio pakeitimai:
@@ -966,7 +966,7 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 ### 321 straipsnis. Atsakomybė už kitų tiesiogiai taikomų Europos Sąjungos teisės aktų pažeidimus ^s-e5195c75ad5d3a681705a470
 
 
-Jei kituose tiesiogiai taikomuose Europos Sąjungos teisės aktuose ar jų įgyvendinamuosiuose įstatymuose nenustatyta kitaip, už šių kitų tiesiogiai taikomų Europos Sąjungos teisės aktų pažeidimus, padarytus tvarkant asmens duomenis, mutatis mutandis taikomos Reglamento (ES) 2016/679 58 straipsnio 2 dalyje nurodytos priemonės, įskaitant administracinės baudos, nurodytos Reglamento (ES) 2016/679 83 straipsnyje ir šio įstatymo [[#^s-4adcbc1fbdb25fd002319c4b|33 straipsnyje]], skyrimą.
+Jei kituose tiesiogiai taikomuose Europos Sąjungos teisės aktuose ar jų įgyvendinamuosiuose įstatymuose nenustatyta kitaip, už šių kitų tiesiogiai taikomų Europos Sąjungos teisės aktų pažeidimus, padarytus tvarkant asmens duomenis, mutatis mutandis taikomos [Reglamento (ES) 2016/679 58 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_58/par_2/oj) nurodytos priemonės, įskaitant administracinės baudos, nurodytos [Reglamento (ES) 2016/679 83 straipsnyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_83/oj) ir šio įstatymo [[#^s-4adcbc1fbdb25fd002319c4b|33 straipsnyje]], skyrimą.
 
 
 Papildyta straipsniu:
@@ -977,13 +977,13 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 ### 33 straipsnis. Valdžios institucijoms ar įstaigoms skiriamos administracinės baudos ^s-4adcbc1fbdb25fd002319c4b
 
 
-1. Valdžios institucijai ar įstaigai, pažeidusiai Reglamento (ES) 2016/679 83 straipsnio 4 dalies a, b ir c punktų nuostatas, priežiūros institucija turi teisę skirti administracinę baudą iki 0,5 procento valdžios institucijos ar įstaigos einamųjų metų biudžeto ir kitų praėjusiais metais gautų bendrųjų metinių pajamų dydžio, bet ne didesnę negu trisdešimt tūkstančių eurų. ^s-3b91006b434170155af984b8
+1. Valdžios institucijai ar įstaigai, pažeidusiai [Reglamento (ES) 2016/679 83 straipsnio 4 dalies](https://eur-lex.europa.eu/eli/reg/2016/679/art_83/par_4/oj) a, b ir c punktų nuostatas, priežiūros institucija turi teisę skirti administracinę baudą iki 0,5 procento valdžios institucijos ar įstaigos einamųjų metų biudžeto ir kitų praėjusiais metais gautų bendrųjų metinių pajamų dydžio, bet ne didesnę negu trisdešimt tūkstančių eurų. ^s-3b91006b434170155af984b8
 
 
-2. Valdžios institucijai ar įstaigai, pažeidusiai Reglamento (ES) 2016/679 83 straipsnio 5 dalies a–e punktų nuostatas ir (ar) Reglamento (ES) 2016/679 83 straipsnio 6 dalį, priežiūros institucija turi teisę skirti administracinę baudą iki 1 procento valdžios institucijos ar įstaigos einamųjų metų biudžeto ir kitų praėjusiais metais gautų bendrųjų metinių pajamų dydžio, bet ne didesnę negu šešiasdešimt tūkstančių eurų. ^s-ad8acfdc252c391e613be2b5
+2. Valdžios institucijai ar įstaigai, pažeidusiai [Reglamento (ES) 2016/679 83 straipsnio 5 dalies](https://eur-lex.europa.eu/eli/reg/2016/679/art_83/par_5/oj) a–e punktų nuostatas ir (ar) [Reglamento (ES) 2016/679 83 straipsnio 6 dalį](https://eur-lex.europa.eu/eli/reg/2016/679/art_83/par_6/oj), priežiūros institucija turi teisę skirti administracinę baudą iki 1 procento valdžios institucijos ar įstaigos einamųjų metų biudžeto ir kitų praėjusiais metais gautų bendrųjų metinių pajamų dydžio, bet ne didesnę negu šešiasdešimt tūkstančių eurų. ^s-ad8acfdc252c391e613be2b5
 
 
-3. Valdžios institucijai ar įstaigai, kuri vykdo ūkinę komercinę veiklą, už Reglamento (ES) 2016/679 nuostatų pažeidimą priežiūros institucija turi teisę skirti administracinę baudą, nurodytą Reglamento (ES) 2016/679 83 straipsnio 4, 5 ir 6 dalyse. ^s-87fc006d6f90bbb33e50075e
+3. Valdžios institucijai ar įstaigai, kuri vykdo ūkinę komercinę veiklą, už [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nuostatų pažeidimą priežiūros institucija turi teisę skirti administracinę baudą, nurodytą [Reglamento (ES) 2016/679 83 straipsnio](https://eur-lex.europa.eu/eli/reg/2016/679/art_83/oj) 4, 5 ir 6 dalyse. ^s-87fc006d6f90bbb33e50075e
 
 
 
@@ -1060,7 +1060,7 @@ Nr. XIV-2626, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09142
 1. Priežiūros institucijos sprendimas dėl administracinės baudos skyrimo turi būti įvykdytas ne vėliau kaip per 3 mėnesius nuo dienos, kurią jis buvo išsiųstas ar įteiktas asmeniui, kuriam administracinė bauda paskirta. Apskundus priežiūros institucijos sprendimą dėl administracinės baudos skyrimo, jis turi būti įvykdytas ne vėliau kaip per 3 mėnesius nuo teismo sprendimo įsiteisėjimo dienos. Administracinė bauda turi būti sumokėta į valstybės biudžetą. ^s-d8c072a96edbeef87b36a6a3
 
 
-2. Priežiūros institucijos sprendimas dėl administracinės baudos skyrimo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Jis gali būti pateiktas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos. ^s-2ad45a0fa0b1105a8993c2a4
+2. Priežiūros institucijos sprendimas dėl administracinės baudos skyrimo yra vykdomasis dokumentas, vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Jis gali būti pateiktas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos. ^s-2ad45a0fa0b1105a8993c2a4
 
 
 
@@ -1085,7 +1085,7 @@ priedas
 
 
 
-2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas).
+2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas).
 
 
 ________________

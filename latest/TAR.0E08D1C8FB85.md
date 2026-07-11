@@ -266,7 +266,7 @@ PAŠARŲ EKSPORTO, IMPORTO IR TRANZITO REIKALAVIMAI
 ### 7 straipsnis. Pašarų eksportas, importas ir tranzitas ^s-b7ddcb5d204fbd7360d155e7
 
 
-1. Pašarai eksportuojami ir importuojami vadovaujantis šio Įstatymo, 1992 m. spalio 12 d. Tarybos reglamento (EEB) Nr. 2913/1992, nustatančio Bendrijos muitinės kodeksą, ir 1993 m. liepos 2 d. Komisijos reglamento (EEB) Nr. 2454/1993, išdėstančio Tarybos reglamentą (EEB) Nr. 2913/1992, nustatančio Bendrijos muitinės kodekso įgyvendinimo nuostatas, [[latest/TAR.97BDCD719E57|Lietuvos Respublikos veterinarijos įstatymo]], kitų įstatymų bei teisės aktų nuostatomis, taip pat tarptautinėmis sutartimis. Importuojami ir eksportuojami pašarai privalo turėti atitikties deklaraciją bei fitosanitarinį sertifikatą. ^s-dd620d9732fc3842cdb690ef
+1. Pašarai eksportuojami ir importuojami vadovaujantis šio Įstatymo, 1992 m. spalio 12 d. Tarybos [reglamento (EEB) Nr. 2913/1992](https://eur-lex.europa.eu/eli/reg/2913/1992/oj), nustatančio Bendrijos muitinės kodeksą, ir 1993 m. liepos 2 d. Komisijos [reglamento (EEB) Nr. 2454/1993](https://eur-lex.europa.eu/eli/reg/2454/1993/oj), išdėstančio Tarybos [reglamentą (EEB) Nr. 2913/1992](https://eur-lex.europa.eu/eli/reg/2913/1992/oj), nustatančio Bendrijos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) įgyvendinimo nuostatas, [[latest/TAR.97BDCD719E57|Lietuvos Respublikos veterinarijos įstatymo]], kitų įstatymų bei teisės aktų nuostatomis, taip pat tarptautinėmis sutartimis. Importuojami ir eksportuojami pašarai privalo turėti atitikties deklaraciją bei fitosanitarinį sertifikatą. ^s-dd620d9732fc3842cdb690ef
 
 
 2. Lietuvos Respublikos valstybinė maisto ir veterinarijos tarnyba turi teisę uždrausti įvežti į Lietuvos Respubliką pašarus, jei jie: ^s-8a76530c524d8490d35de396
@@ -419,7 +419,7 @@ priedas
 1. 1970 m. liepos 20 d. Tarybos direktyva 70/373/EEB dėl Bendrijos mėginių paėmimo ir analizės metodų, taikomų valstybinei pašarų kontrolei, įvedimo (su paskutiniaisiais pakeitimais, padarytais 2003 m. balandžio 14 d. Tarybos reglamentu (EB) Nr. 807/2003). ^s-079afd88d1ccd9d444ffdec8
 
 
-2. 1970 m. lapkričio 23 d. Tarybos direktyva 70/524/EEB dėl pašarų priedų (su paskutiniaisiais pakeitimais, padarytais 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1831/2003). ^s-3eb6b3fc93b6d97405aa3ca3
+2. 1970 m. lapkričio 23 d. Tarybos direktyva 70/524/EEB dėl pašarų priedų (su paskutiniaisiais pakeitimais, padarytais 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1831/2003](https://eur-lex.europa.eu/eli/reg/1831/2003/oj)). ^s-3eb6b3fc93b6d97405aa3ca3
 
 
 3. 1979 m balandžio 2 d. Tarybos direktyva 79/373/EEB dėl prekybos kombinuotaisiais pašarais rinkoje (su paskutiniaisiais pakeitimais, padarytais 2003 m. balandžio 14 d. Tarybos reglamentu (EB) Nr. 807/2003). ^s-906b638dfa3a38da403e0670
@@ -446,13 +446,13 @@ priedas
 10. 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 178/2002, nustatantis [[latest/TAR.5B99A78DA6C7|maisto įstatymo]] bendruosius principus ir reikalavimus, įkuriantis Europos maisto saugos tarnybą ir nustatantis su maisto saugos klausimais susijusias procedūras. ^s-6a45a9ce141d30b6da03a212
 
 
-11. 2002 m. spalio 3 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1774/2002, nustatantis sveikatos taisykles gyvūninės kilmės šalutiniams produktams, neskirtiems vartoti žmonėms (su paskutiniaisiais pakeitimais, padarytais 2003 m. gegužės 12 d. Komisijos reglamentu (EB) Nr. 808/2003). ^s-fd0af546ebb8fe5747deb16a
+11. 2002 m. spalio 3 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1774/2002](https://eur-lex.europa.eu/eli/reg/1774/2002/oj), nustatantis sveikatos taisykles gyvūninės kilmės šalutiniams produktams, neskirtiems vartoti žmonėms (su paskutiniaisiais pakeitimais, padarytais 2003 m. gegužės 12 d. Komisijos reglamentu (EB) Nr. 808/2003). ^s-fd0af546ebb8fe5747deb16a
 
 
-12. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų. ^s-3c6ce6c9b05912d3f2f3baee
+12. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1829/2003](https://eur-lex.europa.eu/eli/reg/1829/2003/oj) dėl genetiškai modifikuoto maisto ir pašarų. ^s-3c6ce6c9b05912d3f2f3baee
 
 
-13. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1830/2003 dėl genetiškai modifikuotų organizmų ir iš jų pagamintų maisto produktų ir pašarų susekamumo ir ženklinimo ir iš dalies pakeičiantis Direktyvą 2001/18/EB. ^s-410db5cd364877dea7656f6d
+13. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1830/2003](https://eur-lex.europa.eu/eli/reg/1830/2003/oj) dėl genetiškai modifikuotų organizmų ir iš jų pagamintų maisto produktų ir pašarų susekamumo ir ženklinimo ir iš dalies pakeičiantis Direktyvą 2001/18/EB. ^s-410db5cd364877dea7656f6d
 
 
 14. 2004 m. sausio 14 d. Komisijos reglamentas (EB) Nr. 65/2004, nustatantis sistemą unikalių genetiškai modifikuotų organizmų identifikuotojams sukurti ir paskirstyti.“ ^s-a9bcdf807d7bee7b9cde930f

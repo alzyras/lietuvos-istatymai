@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ir Protokolo ratifikavimas ^s-5e5ae51e0c884cd97d8e63cf
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 4 punktu ir [[latest/TAR.5BCEC9B41811#^s-2a3445d10e28acf45915286f|Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 7 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2004 m. kovo 31 d. dekretą Nr. 418, ratifikuoja su pareiškimu Šiaurės Atlanto Sutarties Šalių susitarimą dėl jų karinių pajėgų statuso, pasirašytą 1951 m. birželio 19 d. Londone, ir Protokolą dėl tarptautinių karinių vadaviečių, įsteigtų įgyvendinant Šiaurės Atlanto Sutartį, statuso, pasirašytą 1952 m. rugpjūčio 28 d. Paryžiuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 4 punktu ir [[latest/TAR.5BCEC9B41811#^s-2a3445d10e28acf45915286f|Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 7 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2004 m. kovo 31 d. dekretą Nr. 418](https://e-tar.lt/portal/lt/legalAct/TAR.051D9AFDBEFD), ratifikuoja su pareiškimu Šiaurės Atlanto Sutarties Šalių susitarimą dėl jų karinių pajėgų statuso, pasirašytą 1951 m. birželio 19 d. Londone, ir Protokolą dėl tarptautinių karinių vadaviečių, įsteigtų įgyvendinant Šiaurės Atlanto Sutartį, statuso, pasirašytą 1952 m. rugpjūčio 28 d. Paryžiuje.
 
 
 

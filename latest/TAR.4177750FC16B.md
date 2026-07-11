@@ -47,10 +47,10 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 „13 straipsnis. Įstatymo įsigaliojimas
 
 
-1. Šio įstatymo 1, 5, 6, 7, 8, 9, 14 straipsniai ir 15 straipsnio 1 dalis įsigalioja 2009 m. sausio 1 d. ^s-a3af22bc99cbfc0618054360
+1. Šio įstatymo [[#^s-48a4f24f503ab740915dadca|1]], 5, 6, 7, 8, 9, 14 straipsniai ir 15 straipsnio 1 dalis įsigalioja 2009 m. sausio 1 d. ^s-a3af22bc99cbfc0618054360
 
 
-2. Šio įstatymo 2, 3, 4, 10, 11, 12 straipsniai ir 15 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.“ ^s-8622698c81012e3f65174e60
+2. Šio įstatymo [[#^s-d74bfdcd89171b32274bd2f3|2]], [[#^s-05b54d69ab683f14ca179bb2|3]], 4, 10, 11, 12 straipsniai ir 15 straipsnio 2 dalis įsigalioja 2010 m. sausio 1 d.“ ^s-8622698c81012e3f65174e60
 
 
 
@@ -74,7 +74,7 @@ Vyriausybė iki 2010 m. sausio 1 d. parengia ir priima šio įstatymo 13 straips
 Pakeisti 15 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Šio įstatymo 10 straipsnyje išdėstyto [[latest/TAR.A7F77DF94F5D#^s-0fce87d1af83d5ba74c7873c|Valstybinių socialinio draudimo pensijų įstatymo 56 straipsnio]] 2, 4, 5, 6 ir 7 dalių nuostatos taikomos skiriant valstybines socialinio draudimo pensijas pirmą kartą arba iš naujo nuo 2010 m. sausio 1 d. ir vėlesnių datų.“
+„2. Šio įstatymo 10 straipsnyje išdėstyto [[latest/TAR.A7F77DF94F5D#^s-0fce87d1af83d5ba74c7873c|Valstybinių socialinio draudimo pensijų įstatymo 56 straipsnio]] [[latest/TAR.A7F77DF94F5D#^s-8e8f9faeba13306ebec63dd8|2]], [[latest/TAR.A7F77DF94F5D|4]], [[latest/TAR.A7F77DF94F5D|5]], [[latest/TAR.A7F77DF94F5D|6]] ir [[latest/TAR.A7F77DF94F5D|7]] dalių nuostatos taikomos skiriant valstybines socialinio draudimo pensijas pirmą kartą arba iš naujo nuo 2010 m. sausio 1 d. ir vėlesnių datų.“
 
 
 

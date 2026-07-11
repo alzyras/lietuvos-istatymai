@@ -50,7 +50,7 @@ Pakeisti 1 straipsnio 2 dalies paskutinį sakinį ir šią dalį išdėstyti tai
 1. Papildyti [[#^s-d37c8d8e8ab97fdf9e5e8edd|4 straipsnį]] nauja [[#^s-a30c7f76b847ff7727c79b47|2 dalimi]]: ^s-1e90a2544b9d2bd3232793f4
 
 
-„2. Sprendimai dėl Europos Bendrijų ir Lietuvos Respublikos, kaip Europos Sąjungos valstybės narės, atstovaujančių vienai tarptautinės sutarties šaliai, tarptautinių sutarčių (toliau – tarptautinės mišriosios sutartys) sudarymo tikslingumo priimami vadovaujantis Lietuvos Respublikos Konstituciniu aktu „Dėl Lietuvos Respublikos narystės Europos Sąjungoje“, įstatymais ir kitais teisės aktais, reglamentuojančiais Lietuvos Respublikos pozicijos dėl Europos Sąjungos institucijose svarstomų teisės aktų ir dokumentų projektų rengimą ir derinimą.“
+„2. Sprendimai dėl Europos Bendrijų ir Lietuvos Respublikos, kaip Europos Sąjungos valstybės narės, atstovaujančių vienai tarptautinės sutarties šaliai, tarptautinių sutarčių (toliau – tarptautinės mišriosios sutartys) sudarymo tikslingumo priimami vadovaujantis Lietuvos Respublikos Konstituciniu aktu [„Dėl Lietuvos Respublikos narystės Europos Sąjungoje“](https://e-tar.lt/portal/lt/legalAct/TAR.FD7C10A3072E), įstatymais ir kitais teisės aktais, reglamentuojančiais Lietuvos Respublikos pozicijos dėl Europos Sąjungos institucijose svarstomų teisės aktų ir dokumentų projektų rengimą ir derinimą.“
 
 
 2. Buvusią 4 straipsnio 2 dalį laikyti 3 dalimi. ^s-a30c7f76b847ff7727c79b47
@@ -72,7 +72,7 @@ Pakeisti [[#^s-4a8f8044e61fa97a1df96cee|6 straipsnį]] ir jį išdėstyti taip:
 2. Įgaliojimus atlikti veiksmus, susijusius su tarptautinių mišriųjų sutarčių sudarymu, suteikia Lietuvos Respublikos Ministras Pirmininkas pritarus Lietuvos Respublikos Prezidentui, ministerijos ar Vyriausybės įstaigos, kuri pagal kompetenciją rengia sutartį, teikimu bei Užsienio reikalų ministerijos pritarimu. ^s-4a872f77977786ba9deb4a0a
 
 
-3. Įgaliojimus atlikti veiksmus, susijusius su Lietuvos Respublikos tarptautinėmis sutartimis, kurioms Lietuvos Respublikos Konstitucija, šis įstatymas arba pati tarptautinė sutartis nenumato ratifikavimo procedūros, tačiau kurių sudarymą pagal šio įstatymo 9 straipsnyje nustatytą tvarką tvirtina Lietuvos Respublikos Vyriausybė, suteikia Lietuvos Respublikos Ministras Pirmininkas ministerijos ar Vyriausybės įstaigos, kuri pagal kompetenciją rengia sutartį, teikimu, pritarus Užsienio reikalų ministerijai. ^s-b40674831b5179e0a02d4f73
+3. Įgaliojimus atlikti veiksmus, susijusius su Lietuvos Respublikos tarptautinėmis sutartimis, kurioms [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis įstatymas arba pati tarptautinė sutartis nenumato ratifikavimo procedūros, tačiau kurių sudarymą pagal šio įstatymo 9 straipsnyje nustatytą tvarką tvirtina Lietuvos Respublikos Vyriausybė, suteikia Lietuvos Respublikos Ministras Pirmininkas ministerijos ar Vyriausybės įstaigos, kuri pagal kompetenciją rengia sutartį, teikimu, pritarus Užsienio reikalų ministerijai. ^s-b40674831b5179e0a02d4f73
 
 
 4. Įgaliojimus sudaryti Lietuvos Respublikos tarptautines sutartis, kurios įsigalioja nuo pasirašymo dienos, suteikia Lietuvos Respublikos Vyriausybė ministerijos ar Vyriausybės įstaigos, kuri pagal kompetenciją rengia sutartį, teikimu, pritarus Užsienio reikalų ministerijai. ^s-87fc6c6f8d06177985d30763
@@ -81,7 +81,7 @@ Pakeisti [[#^s-4a8f8044e61fa97a1df96cee|6 straipsnį]] ir jį išdėstyti taip:
 5. Sudaryti tarptautines sutartis, kurios įsigalioja nuo pasikeitimo diplomatinėmis notomis dienos, Lietuvos Respublikos Vyriausybės nutarimu pavedama Užsienio reikalų ministerijai. ^s-cc9b6048a93dc548eb385c2c
 
 
-6. Suteikus šio straipsnio 1–[[#^s-87fc6c6f8d06177985d30763|4 dalyse]] nurodytus įgaliojimus, įgaliojamuosius raštus išduoda Užsienio reikalų ministerija. ^s-a50658ebbbe0fe9c63b41478
+6. Suteikus šio straipsnio [[#^s-bc2f652159a503dfc5966c9b|1]]–[[#^s-87fc6c6f8d06177985d30763|4]] dalyse nurodytus įgaliojimus, įgaliojamuosius raštus išduoda Užsienio reikalų ministerija. ^s-a50658ebbbe0fe9c63b41478
 
 
 7. Informacija apie įgaliojamuosius raštus kaupiama ir tvarkoma Užsienio reikalų ministerijoje.“ ^s-27cfa8e571b4729ec024652b
@@ -94,7 +94,7 @@ Pakeisti [[#^s-4a8f8044e61fa97a1df96cee|6 straipsnį]] ir jį išdėstyti taip:
 Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Lietuvos Respublikos tarptautines sutartis, kurioms Lietuvos Respublikos Konstitucija, šis įstatymas arba pati sutartis nenumato ratifikavimo procedūros, tvirtina Lietuvos Respublikos Vyriausybė. Šis reikalavimas netaikomas šio įstatymo [[#^s-4a8f8044e61fa97a1df96cee|6 straipsnio]] 4 ir 5 dalyse nurodytoms Lietuvos Respublikos tarptautinėms sutartims.“
+„1. Lietuvos Respublikos tarptautines sutartis, kurioms [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis įstatymas arba pati sutartis nenumato ratifikavimo procedūros, tvirtina Lietuvos Respublikos Vyriausybė. Šis reikalavimas netaikomas šio įstatymo [[#^s-4a8f8044e61fa97a1df96cee|6 straipsnio]] 4 ir 5 dalyse nurodytoms Lietuvos Respublikos tarptautinėms sutartims.“
 
 
 

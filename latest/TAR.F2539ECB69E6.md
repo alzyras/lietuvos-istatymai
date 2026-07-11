@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-e494494c1f16a6bcb7050977
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. rugsėjo 9 d. dekretą Nr. 205, ratifikuoja Lietuvos Respublikos Vyriausybės ir Šiaurės šalių aplinkos apsaugos finansų korporacijos (NEFCO) susitarimą dėl NEFCO teisinio statuso Lietuvoje, pasirašytą 2003 m. balandžio 8 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. rugsėjo 9 d. dekretą Nr. 205](https://e-tar.lt/portal/lt/legalAct/TAR.CE1E640AC1D5), ratifikuoja Lietuvos Respublikos Vyriausybės ir Šiaurės šalių aplinkos apsaugos finansų korporacijos (NEFCO) susitarimą dėl NEFCO teisinio statuso Lietuvoje, pasirašytą 2003 m. balandžio 8 d. Vilniuje.
 
 
 

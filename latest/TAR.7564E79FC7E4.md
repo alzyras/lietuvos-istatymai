@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-0d5fb343fd2f62fb08dbeedb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. birželio 5 d. dekretą Nr. 1795, ratifikuoja Lietuvos Respublikos Vyriausybės ir Rumunijos Vyriausybės sutartį dėl įslaptintos karinės informacijos apsaugos, pasirašytą 2001 m. gruodžio 19 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. birželio 5 d. dekretą Nr. 1795](https://e-tar.lt/portal/lt/legalAct/TAR.16E3F50C2200), ratifikuoja Lietuvos Respublikos Vyriausybės ir Rumunijos Vyriausybės sutartį dėl įslaptintos karinės informacijos apsaugos, pasirašytą 2001 m. gruodžio 19 d. Briuselyje.
 
 
 

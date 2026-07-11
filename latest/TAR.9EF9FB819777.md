@@ -162,7 +162,7 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 ### 9 straipsnis. 206 straipsnio papildymas ir pakeitimas ^s-a993ecc619edcb7ca87e0ab6
 
 
-Papildyti 206 straipsnį nauja [[#^s-f24acdab5e27f7980197c0f9|1 dalimi]], buvusias 1 ir [[#^s-503126b9933255d1d5a2998c|2 dalis]] laikyti atitinkamai 2 ir [[#^s-e7b99df122cf3e89d5faa15a|3 dalimis]], jas pakeisti ir visą straipsnį išdėstyti taip:
+Papildyti 206 straipsnį nauja [[#^s-f24acdab5e27f7980197c0f9|1 dalimi]], buvusias 1 ir 2 dalis laikyti atitinkamai 2 ir 3 dalimis, jas pakeisti ir visą straipsnį išdėstyti taip:
 
 
 „206 straipsnis.   Kredito, paskolos ar tikslinės paramos panaudojimas ne pagal paskirtį ar nustatytą tvarką
@@ -205,7 +205,7 @@ baudžiamas bauda arba laisvės atėmimu iki ketverių metų.“
 ### 12 straipsnis. 221 straipsnio pakeitimas ir papildymas ^s-e681591d057c0981b9104e7f
 
 
-Pakeisti 221 straipsnio pavadinimą ir [[#^s-e4db9a82225c0070fc4a313f|1 dalį]], straipsnį papildyti 2, [[#^s-6ce7a829dd43a5db29e7f92d|3 dalimis]] ir jį išdėstyti taip:
+Pakeisti 221 straipsnio pavadinimą ir [[#^s-e4db9a82225c0070fc4a313f|1 dalį]], straipsnį papildyti 2, 3 dalimis ir jį išdėstyti taip:
 
 
 „221 straipsnis. Deklaracijos, ataskaitos ar kito dokumento nepateikimas
@@ -244,7 +244,7 @@ baudžiamas bauda arba laisvės atėmimu iki dvejų metų.
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 
 
-4. Už šio straipsnio 1 ir [[#^s-c7b7f66bea64e5969ead253d|2 dalyse]] numatytas veikas atsako ir juridinis asmuo.“ ^s-edbba9547ecad3909efb013b
+4. Už šio straipsnio [[#^s-2a8a9e375398d5439c56a2bb|1]] ir [[#^s-c7b7f66bea64e5969ead253d|2]] dalyse numatytas veikas atsako ir juridinis asmuo.“ ^s-edbba9547ecad3909efb013b
 
 
 

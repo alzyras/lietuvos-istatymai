@@ -9,147 +9,130 @@ pavadinimas: "Lietuvos Respublikos regioninės plėtros įstatymas"
 
 ## Šis įstatymas cituoja
 
-- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 9 citatos - Darbo kodekso
-- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 2 citatos - Lietuvos Respublikos dokumentų ir archyvų įstatymo
-- [[latest/TAR.4DBDE27621A2|Lietuvos Respublikos korupcijos prevencijos įstatymas]] - 4 citatos - Lietuvos Respublikos korupcijos prevencijos įstatyme
-- [[latest/8253c29006c711ee9978886e85107ab2|Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo įstatymas]] - 2 citatos - Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme
-- [[latest/17559f5089da11e397b5c02d3197f382|Lietuvos Respublikos regioninės plėtros įstatymo 13 straipsnio papildymo ir pakeitimo ĮSTATYMAS]] - 4 citatos - LIETUVOS RESPUBLIKOS REGIONINĖS PLĖTROS ĮSTATYMO 13 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.B5B49B4387E9|Lietuvos Respublikos regioninės plėtros įstatymo 2, 10 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - REGIONINĖS PLĖTROS ĮSTATYMO 2, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.A6493C2121D2|Lietuvos Respublikos regioninės plėtros įstatymo 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - REGIONINĖS PLĖTROS ĮSTATYMO 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.35857BF6BFA9|Lietuvos Respublikos regioninės plėtros įstatymo 4, 6 ir 9 straipsnių pakeitimo įstatymas]] - 4 citatos - REGIONINĖS PLĖTROS ĮSTATYMO 4, 6 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.D8FFD95B82A9|Lietuvos Respublikos regioninės plėtros įstatymo 5, 8, 9, 10, 11, 12, 13, 14 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - REGIONINĖS PLĖTROS ĮSTATYMO 5, 8, 9, 10, 11, 12, 13, 14 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/40eb60301b3811eeb233e8b04dc9bb3d|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 12 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2107
-- [[latest/00240f00664111e7b85cfdc787069b42|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 15 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-583
-- [[latest/4a936b70ec7a11e78a1adea6fe72f3c5|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 15 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-958
-- [[latest/fafbeba006c211ee9978886e85107ab2|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 26, 27 straipsnių ir priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2000
-- [[latest/a7f9f440496811e483c6e89f9dba57fd|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1094
-- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3041
-- [[latest/68e00f40697411eca9ac839120d251c4|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-837
-- [[latest/TAR.98F43C3F0156|Lietuvos Respublikos regioninės plėtros įstatymo pakeitimo įstatymas]] - 4 citatos - REGIONINĖS PLĖTROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-- [[latest/13ecbb50c1be11ea9815f635b9c0dcef|Lietuvos Respublikos strateginio valdymo įstatymas]] - 5 citatos - Strateginio valdymo įstatymu
-- [[latest/TAR.B4FA4C56B8D5|Lietuvos Respublikos teisėkūros pagrindų įstatymas]] - 2 citatos - Lietuvos Respublikos teisėkūros pagrindų įstatymo
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 4 citatos - Lietuvos Respublikos valstybės tarnybos įstatyme
-- [[latest/TAR.F789235C18BB|Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas]] - 2 citatos - Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymu
-- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - Lietuvos Respublikos vietos savivaldos įstatymu
-- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 4 citatos - Lietuvos Respublikos viešojo administravimo įstatyme
-- [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - 2 citatos - Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo
-- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 2 citatos - Lietuvos Respublikos viešųjų pirkimų įstatymo
+- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 5 citatos - Darbo kodekso
+- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - Lietuvos Respublikos dokumentų ir archyvų įstatymo
+- [[latest/TAR.4DBDE27621A2|Lietuvos Respublikos korupcijos prevencijos įstatymas]] - 2 citatos - Lietuvos Respublikos korupcijos prevencijos įstatyme
+- [[latest/8253c29006c711ee9978886e85107ab2|Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo įstatymas]] - Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme
+- [[latest/17559f5089da11e397b5c02d3197f382|Lietuvos Respublikos regioninės plėtros įstatymo 13 straipsnio papildymo ir pakeitimo ĮSTATYMAS]] - LIETUVOS RESPUBLIKOS REGIONINĖS PLĖTROS ĮSTATYMO 13 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.B5B49B4387E9|Lietuvos Respublikos regioninės plėtros įstatymo 2, 10 straipsnių pakeitimo ir papildymo įstatymas]] - REGIONINĖS PLĖTROS ĮSTATYMO 2, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.A6493C2121D2|Lietuvos Respublikos regioninės plėtros įstatymo 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 straipsnių pakeitimo ir papildymo įstatymas]] - REGIONINĖS PLĖTROS ĮSTATYMO 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.35857BF6BFA9|Lietuvos Respublikos regioninės plėtros įstatymo 4, 6 ir 9 straipsnių pakeitimo įstatymas]] - REGIONINĖS PLĖTROS ĮSTATYMO 4, 6 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.D8FFD95B82A9|Lietuvos Respublikos regioninės plėtros įstatymo 5, 8, 9, 10, 11, 12, 13, 14 straipsnių pakeitimo ir papildymo įstatymas]] - REGIONINĖS PLĖTROS ĮSTATYMO 5, 8, 9, 10, 11, 12, 13, 14 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.98F43C3F0156|Lietuvos Respublikos regioninės plėtros įstatymo pakeitimo įstatymas]] - REGIONINĖS PLĖTROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+- [[latest/13ecbb50c1be11ea9815f635b9c0dcef|Lietuvos Respublikos strateginio valdymo įstatymas]] - 3 citatos - Strateginio valdymo įstatymu
+- [[latest/TAR.B4FA4C56B8D5|Lietuvos Respublikos teisėkūros pagrindų įstatymas]] - Lietuvos Respublikos teisėkūros pagrindų įstatymo
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės tarnybos įstatyme
+- [[latest/TAR.F789235C18BB|Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas]] - Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymu
+- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - Lietuvos Respublikos vietos savivaldos įstatymu
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - Viešojo administravimo įstatyme
+- [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo
+- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Lietuvos Respublikos viešųjų pirkimų įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.E2780B68DE62#^s-286053e18d954a5ce2bd233b|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/TAR.E2780B68DE62#^s-ff28abc4da8222f69a8f56f2|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/3f760910c1ab11ea9815f635b9c0dcef#^s-e70f53402cc1f26254b5ef56|Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 5 ir 6 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
-- [[latest/61b5aa40794511e8ae2bfd1913d66d57#^s-b6b4e823b08f515136286adf|Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/61b5aa40794511e8ae2bfd1913d66d57#^s-bfd0d64147b6898d79a67533|Lietuvos Respublikos finansinės paskatos pirmąjį būstą įsigyjančioms jaunoms šeimoms įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/TAR.0AE0464E0EDE#^s-15c81eeebe74254e0926dd9e|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
-- [[latest/TAR.0AE0464E0EDE#^s-47781d3c595034d3fa5a9117|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
-- [[latest/2eaee1d064b311edbc04912defe897d1#^s-502081616c2600cf3a204540|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/2eaee1d064b311edbc04912defe897d1#^s-9e2bc4aa54f3927feb925b4b|Lietuvos Respublikos geriamojo vandens tiekimo ir nuotekų tvarkymo įstatymo Nr. X-764 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/TAR.C7E57DF3CEC5#^s-7de72d2fc12cb3371c620123|Lietuvos Respublikos investicijų įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
-- [[latest/TAR.C7E57DF3CEC5#^s-8fea999c53b31c09b8732297|Lietuvos Respublikos investicijų įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/TAR.C7E57DF3CEC5#^s-a7054cc534c2c0e285ff4218|Lietuvos Respublikos investicijų įstatymas]] - Regioninės plėtros įstatymo 2 straipsnio 6 dalyje
-- [[latest/TAR.C7E57DF3CEC5#^s-ffb0264f6473faefafca5b68|Lietuvos Respublikos investicijų įstatymas]] - Regioninės plėtros įstatymo 2 straipsnio 6 dalyje
 - [[latest/1c6126120fc811f08e9f87c0d053bf09#^s-2c9491c11b0141c0c3a7fada|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 10, 15-6, 15-7 ir 15-8 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/9fe4fd70697411eca9ac839120d251c4#^s-1b75b299c875a108b764c747|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 3, 9-1, 12 ir 13 straipsnių pakeitimo įstatymas]] - Regioninės plėtros įstatymo 2 straipsnio 6 dalyje
-- [[latest/9fe4fd70697411eca9ac839120d251c4#^s-5ebde6c764a0f626ae44d95f|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 3, 9-1, 12 ir 13 straipsnių pakeitimo įstatymas]] - Regioninės plėtros įstatymo 2 straipsnio 6 dalyje
-- [[latest/9fe4fd70697411eca9ac839120d251c4#^s-885ba65418ace49d7b72fc78|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 3, 9-1, 12 ir 13 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/9fe4fd70697411eca9ac839120d251c4#^s-94540602a510093d7e7a30e4|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 3, 9-1, 12 ir 13 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
-- [[latest/TAR.43F9A0BDB7EE#^s-0273460f128072c727e53281|Lietuvos Respublikos kultūros centrų įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/TAR.43F9A0BDB7EE#^s-bf3827fa5b67f9a67022d7fc|Lietuvos Respublikos kultūros centrų įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
-- [[latest/f5d9d8f0881c11ed8df094f359a60216#^s-267d75bcf4533c71cdf7662f|Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/f5d9d8f0881c11ed8df094f359a60216#^s-e9c9e6e24a26d14403d1083c|Lietuvos Respublikos kultūros centrų įstatymo Nr. IX-2395 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/66f348502fc411efbdaea558de59136c#^s-674bff82e82065aa88d19542|Lietuvos Respublikos kultūros politikos pagrindų įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
-- [[latest/66f348502fc411efbdaea558de59136c#^s-eb1989ceb9ad32ba33e8abb9|Lietuvos Respublikos kultūros politikos pagrindų įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
-- [[latest/TAR.0539E2FEB29E#^s-7b0a5889000dd110af764eab|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
 - [[latest/TAR.0539E2FEB29E#^s-fac4de9e0a7f61624e82dcd3|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
-- [[latest/3250d492d1d611f08918e1adc7c5b1ec#^s-6f4514b8ccb46f1155a5468c|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 6, 7, 8, 9, 11, 12, 16 straipsnių ir 1, 2 priedų pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
 - [[latest/3250d492d1d611f08918e1adc7c5b1ec#^s-90f35d9eff851d9e43019944|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 6, 7, 8, 9, 11, 12, 16 straipsnių ir 1, 2 priedų pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
 - [[latest/3250d492d1d611f08918e1adc7c5b1ec#^s-b6182b0e15609cbc06d128cf|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 2, 6, 7, 8, 9, 11, 12, 16 straipsnių ir 1, 2 priedų pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
-- [[latest/fafbeba006c211ee9978886e85107ab2#^s-b303924a48b1c5a09e713b4c|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 26, 27 straipsnių ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-089ab225b843dd626fe8506a|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 29 straipsnio 2 dalies
-- [[latest/a7f9f440496811e483c6e89f9dba57fd#^s-08ae6e73dc3339f3448bb25d|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
-- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-09028d0ecf04b6914249f6d1|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo 15 straipsnį
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-1ab1147b6bf5b281624b5cec|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 26 straipsnio 3 dalies
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-1ca0c2abbafa29b69836466d|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 26 straipsnio 1 dalies 6 punkto
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-31828242b86fe1232c95310e|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 21 straipsnio 1 dalies
-- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-38e51541acbdd9c3ef3e8804|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos regioninės plėtros įstatymo 15 straipsnis
-- [[latest/a7f9f440496811e483c6e89f9dba57fd#^s-4020526d3c9e57266525ed09|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS REGIONINĖS PLĖTROS ĮSTATYMAS
-- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-4cbdaafa4d6eb800664ff730|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS REGIONINĖS PLĖTROS ĮSTATYMAS
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-6077a0a61d5ad9c2bec4e296|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 10 straipsnio 1 dalies 11 punktas
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-7a0e01d1d4a2d859e1ab55dc|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 26 straipsnio 1 dalies 5 punkto
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-7d1fa226fbd52f0060ce99ba|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo, išskyrus 21 straipsnio 1 dalies
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-85c214bc609b8ec962b31ef2|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 15 straipsnis
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-8e790896d5e6c16b765c0d8b|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-9053bb5b74e767556db40151|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS REGIONINĖS PLĖTROS ĮSTATYMAS
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-90f332f8ab7b0f1d8148f6ce|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 17 citatos - Lietuvos Respublikos regioninės plėtros įstatymo 25 straipsnio
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-91ba9e71d0055aab6b441cf5|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 25 straipsnio 6 dalis
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-a6ccf4496ad5d238c5f8f94b|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 21 straipsnio 1 dalies 5 punkto
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-ac7b522163f0716f136f25b3|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 10 straipsnio 1 dalies 11 punktas
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-b7d1086dc195d6a13bdb070a|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-bec7eee40f934dd045ce7ce8|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 29 straipsnio 1 dalies
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-c146d71af5c6499297a79871|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 29 straipsnio
-- [[latest/a7f9f440496811e483c6e89f9dba57fd#^s-c98d112cde205267b58804bb|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
-- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-e0b4a265fe9c4e278aafdb50|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-e4cf5b59f051e93177d4f926|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 21 straipsnio 1 dalies 4 punkto
-- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-e96cb759015fd72b8bc2f160|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-f03390ca6922015553f27402|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 26 straipsnio 9 dalies 1 punkto
-- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-f9bedf995de311d92647462f|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo 15 straipsnis
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-feb7eea773ce462be7deffc1|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo 25 straipsnio
-- [[latest/68e00f40697411eca9ac839120d251c4#^s-ff6e83d285cdc0fe9d30e02d|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - Regioninės plėtros įstatymo 23 straipsnio 1 dalies 7 punkto
-- [[latest/TAR.98F43C3F0156#^s-b786be96a3122fe516192d5e|Lietuvos Respublikos regioninės plėtros įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS REGIONINĖS PLĖTROS ĮSTATYMAS
+- [[latest/40eb60301b3811eeb233e8b04dc9bb3d#^s-c4e9475de73be272f2450368|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 12 straipsnio pakeitimo įstatymas]] - 12 straipsnį 4 dalimi
+- [[latest/00240f00664111e7b85cfdc787069b42#^s-0425e8e0b32ec5c2440b02a2|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 15 straipsnio pakeitimo įstatymas]] - 15 straipsnio 5 dalį
+- [[latest/00240f00664111e7b85cfdc787069b42#^s-2c9ddb1cca0453a66715179d|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 15 straipsnio pakeitimo įstatymas]] - 15 straipsnio 2 dalį
+- [[latest/4a936b70ec7a11e78a1adea6fe72f3c5#^s-3cdc772cc2811afef2f08db2|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 15 straipsnio pakeitimo įstatymas]] - 15 straipsnio 9 dalį
+- [[latest/00240f00664111e7b85cfdc787069b42#^s-af38b39fc273c232d8cd3688|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 15 straipsnio pakeitimo įstatymas]] - 15 straipsnio 1 dalį
+- [[latest/087abe501e5511ef8b14c5bcce136045#^s-7139108e3d2e17b87141bc48|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 18 straipsnio pakeitimo įstatymas]] - 3 citatos - 18 straipsnio
+- [[latest/fafbeba006c211ee9978886e85107ab2#^s-1cb94d0edf9db66bc99c3c4f|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 26, 27 straipsnių ir priedo pakeitimo įstatymas]] - 27 straipsnio 6 dalį
+- [[latest/fafbeba006c211ee9978886e85107ab2#^s-36d060c7afb9a2f2ea013e3d|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 26, 27 straipsnių ir priedo pakeitimo įstatymas]] - 26 straipsnio 6 dalį
+- [[latest/fafbeba006c211ee9978886e85107ab2#^s-ab1beca89778a3d3a110915e|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 26, 27 straipsnių ir priedo pakeitimo įstatymas]] - 27 straipsnio 4 dalį
+- [[latest/fafbeba006c211ee9978886e85107ab2#^s-afd12abc2acd08ddb73b0094|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 26, 27 straipsnių ir priedo pakeitimo įstatymas]] - 27 straipsnio 3 dalį
+- [[latest/fafbeba006c211ee9978886e85107ab2#^s-afd937e21c9e8e511697cc1e|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 26, 27 straipsnių ir priedo pakeitimo įstatymas]] - 26 straipsnio 4 dalį
+- [[latest/fafbeba006c211ee9978886e85107ab2#^s-b303924a48b1c5a09e713b4c|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 26, 27 straipsnių ir priedo pakeitimo įstatymas]] - regioninės plėtros įstatymo
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-089ab225b843dd626fe8506a|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - 1 straipsnyje
+- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-09028d0ecf04b6914249f6d1|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos regioninės plėtros įstatymo 15 straipsnį
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-101ba0ec58cbd9469d3aae6e|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - 1
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-1ab1147b6bf5b281624b5cec|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Regioninės plėtros įstatymo 26 straipsnio 3 dalies
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-1ca0c2abbafa29b69836466d|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Regioninės plėtros įstatymo 26 straipsnio 1 dalies 6 punkto
+- [[latest/a7f9f440496811e483c6e89f9dba57fd#^s-2491b33b181873f7382fbea1|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - 2
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-2514607c2dbf75c6cb14a579|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 66 straipsnyje
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-31828242b86fe1232c95310e|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 6 citatos - 3 dalies
+- [[latest/a7f9f440496811e483c6e89f9dba57fd#^s-4020526d3c9e57266525ed09|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - įstatymą Nr. VIII-1889
+- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-4cbdaafa4d6eb800664ff730|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - įstatymą Nr. VIII-1889
+- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-4e65244c39d3b7088c9b1427|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 3 citatos - 162
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-570155ad129640d000ade456|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 5 citatos - 2
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-6077a0a61d5ad9c2bec4e296|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Regioninės plėtros įstatymo 10 straipsnio 1 dalies 11 punktas
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-7a0e01d1d4a2d859e1ab55dc|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - 1 straipsnyje
+- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-7c7e028f9c276c70113e1713|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - šio straipsnio 3 dalyje
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-7d1fa226fbd52f0060ce99ba|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 6 citatos - 3 dalį
+- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-7f1e2aa5522d618f6703571d|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 106 straipsnio 1 punkte
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-85c214bc609b8ec962b31ef2|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Regioninės plėtros įstatymo 15 straipsnis
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-87852d60a35ffa82a387dad2|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 4 citatos - 1
+- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-8b238b7ccdfa20e0ece8e518|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - šio straipsnio 4 dalyje
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-8e790896d5e6c16b765c0d8b|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - regioninės plėtros įstatymo
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-9053bb5b74e767556db40151|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - įstatymą Nr. VIII-1889
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-91ba9e71d0055aab6b441cf5|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Regioninės plėtros įstatymo 25 straipsnio 6 dalis
+- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-9bacb9d1f78cbefecba17d52|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 3 citatos - 1
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-9d92bd42d9f53855ff4d0122|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - 1
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-a6ccf4496ad5d238c5f8f94b|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - 1 straipsnyje
+- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-a9e3ff55872aff7e00f6a91b|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - 1
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-ac7b522163f0716f136f25b3|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Regioninės plėtros įstatymo 10 straipsnio 1 dalies 11 punktas
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-bbe6f2623bc2af91cfa6a352|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - 5
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-bec7eee40f934dd045ce7ce8|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - 1 straipsnyje
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-c146d71af5c6499297a79871|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Regioninės plėtros įstatymo 29 straipsnio
+- [[latest/a7f9f440496811e483c6e89f9dba57fd#^s-c98d112cde205267b58804bb|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos regioninės plėtros įstatymo
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-d2215990d4a16abe3151f7e2|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 3 citatos - 162
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-e33e0680161aebfb53d75323|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 106 straipsnio 1 punkte
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-e4cf5b59f051e93177d4f926|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - 1 straipsnyje
+- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-e53edb3f2b3b799c49f7cac0|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 66 straipsnyje
+- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-e91b644781dea38230c0c640|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 4 citatos - 1
+- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-e96cb759015fd72b8bc2f160|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - regioninės plėtros įstatymo
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-f03390ca6922015553f27402|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - 1 straipsnyje
+- [[latest/3b9cbed0b6dc11eab9d9cd0c85e0b745#^s-f9bedf995de311d92647462f|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos regioninės plėtros įstatymo 15 straipsnis
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-feb7eea773ce462be7deffc1|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos regioninės plėtros įstatymo 25 straipsnio
+- [[latest/68e00f40697411eca9ac839120d251c4#^s-ff6e83d285cdc0fe9d30e02d|Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 pakeitimo įstatymas]] - 2 citatos - Regioninės plėtros įstatymo 23 straipsnio 1 dalies 7 punkto
 - [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-12cc3eaa50d23ac69a8ea783|Lietuvos Respublikos strateginio valdymo įstatymas]] - Regioninės plėtros įstatymo
-- [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-6363d18390a61a730d7e1d46|Lietuvos Respublikos strateginio valdymo įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-95f12b7c69104cf2efd0d2fd|Lietuvos Respublikos strateginio valdymo įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-a46e3dc372923a132761e446|Lietuvos Respublikos strateginio valdymo įstatymas]] - Regioninės plėtros įstatymu
-- [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-b01eb6644e3c64f0846e7be3|Lietuvos Respublikos strateginio valdymo įstatymas]] - 2 citatos - Regioninės plėtros įstatymo
 - [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-c1fd32537203c66286b8f1e2|Lietuvos Respublikos strateginio valdymo įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-eadec91fd45b6dfb8cc26cd5|Lietuvos Respublikos strateginio valdymo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
-- [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-fe44c0ad71472273919b3baa|Lietuvos Respublikos strateginio valdymo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/18170f50697411eca9ac839120d251c4#^s-07d0ac63df95dd56da661657|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Regioninės plėtros įstatymo
 - [[latest/18170f50697411eca9ac839120d251c4#^s-19c22de96810105c1e9ed4ef|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Regioninės plėtros įstatymu
-- [[latest/18170f50697411eca9ac839120d251c4#^s-2c8486ef1f88e112ebf2da20|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/18170f50697411eca9ac839120d251c4#^s-52e6912f456ed419e5ff0c8e|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/18170f50697411eca9ac839120d251c4#^s-5603b9e8b51b7dfc89b2d4bb|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Regioninės plėtros įstatymu
-- [[latest/18170f50697411eca9ac839120d251c4#^s-742e2af0e26897049233ea24|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - 2 citatos - Regioninės plėtros įstatymo
-- [[latest/18170f50697411eca9ac839120d251c4#^s-79ef77ea25df85114064b13f|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/18170f50697411eca9ac839120d251c4#^s-fb54773fc2de7cc98a806b20|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
-- [[latest/TAR.CC10C5274343#^s-02614d798473732ec9520587|Lietuvos Respublikos žemės įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/TAR.CC10C5274343#^s-1bc68da0d6dac9478ed42d17|Lietuvos Respublikos žemės įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/TAR.CC10C5274343#^s-37f1e1b63dbbb7932bc68d93|Lietuvos Respublikos žemės įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
-- [[latest/TAR.CC10C5274343#^s-573b19a317ad1e4c337fe2ce|Lietuvos Respublikos žemės įstatymas]] - 2 citatos - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/TAR.CC10C5274343#^s-af145928892451a3d2cae8cb|Lietuvos Respublikos žemės įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/d8d5e3a055d011f0b070ee7f1ceefc75#^s-01bbd40f6f30c9c6eced8955|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
-- [[latest/d8d5e3a055d011f0b070ee7f1ceefc75#^s-ee013c7f7289d25d38eddc4d|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
-- [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-166f7a110e1539609df17ef4|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Regioninės plėtros įstatymu
-- [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-49f89bc05e264001f47ec9de|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-95611606d9af2278d18dcce4|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatyme
 - [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-ffdfa878e36f0d120f2856a4|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Regioninės plėtros įstatymu
-- [[latest/964880b23bc711f0b070ee7f1ceefc75#^s-b18ab0ea8e0e651b31d99e01|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 15, 22, 23, 29, 32, 34, 35, 37, 40, 41, 43, 45, 47, 55, 56, 64, 66 straipsnių ir VI-1 skyriaus pakeitimo įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/964880b23bc711f0b070ee7f1ceefc75#^s-da5c02dadad31d63ad5d4086|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 15, 22, 23, 29, 32, 34, 35, 37, 40, 41, 43, 45, 47, 55, 56, 64, 66 straipsnių ir VI-1 skyriaus pakeitimo įstatymas]] - Regioninės plėtros įstatymu
+- [[latest/964880b23bc711f0b070ee7f1ceefc75#^s-fcc60204d0b30bc70932fd19|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 15, 22, 23, 29, 32, 34, 35, 37, 40, 41, 43, 45, 47, 55, 56, 64, 66 straipsnių ir VI-1 skyriaus pakeitimo įstatymas]] - 3 citatos - 1
 - [[latest/78aef0e2afce11f092fda1fd0c194cc5#^s-6aecb9fea1c5f18d4e45fa6d|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 9, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas]] - Regioninės plėtros įstatymu
-- [[latest/78aef0e2afce11f092fda1fd0c194cc5#^s-c0b2850512699cd2b4802798|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 9, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/78aef0e2afce11f092fda1fd0c194cc5#^s-fe461185adac5ad1e02e1f2e|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 9, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymo
 - [[latest/96e976f0800411ec993ff5ca6e8ba60c#^s-64d262146ef0ccf9112f5549|Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 45 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymu
-- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-05ebba3df4bdf95943e7ac3c|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos regioninės plėtros įstatymu
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-0ea697e5f4af08d8a6acd332|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymu
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-2da3761db2809caf9a6efab4|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Regioninės plėtros įstatymu
-- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-adf910a2ec3cde4974f60f29|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymu
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-c5cff842b10ca912e989e2f2|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymu
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-e8502d86a7eff568465151ee|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-0621e72663073f97c7d35dcb|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-0ac90f0bcbee6659c7113c55|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Regioninės plėtros įstatymu
-- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-45215e9233ec2bf71096a44d|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos regioninės plėtros įstatymu
 - [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-afe53c5d0d8f4498bd2d0ad7|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymu
 - [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-e6bca69f7e09f4ece52318f0|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymu
 - [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-eef026881fb397d7194979fd|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Regioninės plėtros įstatymu
-- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-f169ec53a6b13dd66a8490a0|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos regioninės plėtros įstatymu
-- [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-1e53bbd1998ad2e1706815c8|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos regioninės plėtros įstatymu
-- [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-38eba9665a994b1f3f85d882|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos regioninės plėtros įstatymu
 - [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-3c1bc0e5c2390de05d4a7249|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymu
 - [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-59a9b0d0a084e3841e2037e9|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos regioninės plėtros įstatymu
 - [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-5bfb248ae3a2ebe3eedf1cf4|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-8bdcfb653241a741207addc8|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-ebb6e167835a94846288ffbf|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Regioninės plėtros įstatymu
 - [[latest/6dbdd2c0a62d11eea5a28c81c82193a8#^s-15f03e498e725c41c52ea14b|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 straipsnio pakeitimo įstatymas]] - Regioninės plėtros įstatymu
-- [[latest/6dbdd2c0a62d11eea5a28c81c82193a8#^s-9ebf938827107200c18fa110|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 straipsnio pakeitimo įstatymas]] - Regioninės plėtros įstatymu

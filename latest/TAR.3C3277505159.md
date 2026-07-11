@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-1174ef8f233a42ca92aa38a3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. kovo 23 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos konvenciją dėl žiūrovų brutalaus elgesio per sporto varžybas ir ypač per futbolo rungtynes“, ratifikuoja 1993 m. balandžio 1 d. pasirašytą Strasbūre 1985 m. Europos konvenciją dėl žiūrovų brutalaus elgesio per sporto varžybas ir ypač per futbolo rungtynes.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. kovo 23 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos konvenciją dėl žiūrovų brutalaus elgesio per sporto varžybas ir ypač per futbolo rungtynes“](https://e-tar.lt/portal/lt/legalAct/TAR.AB78A6DCFDF9), ratifikuoja 1993 m. balandžio 1 d. pasirašytą Strasbūre 1985 m. Europos konvenciją dėl žiūrovų brutalaus elgesio per sporto varžybas ir ypač per futbolo rungtynes.
 
 
 

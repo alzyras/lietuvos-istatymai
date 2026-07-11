@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.E08277C8C1D8#^s-53120c2159c0ed5183d6acfe|Lietuvos Respublikos įstatymas dėl laisvosios prekybos sutarčių denonsavimo]] - 1998 m. vasario 24 d. įstatymu Nr. VIII-644
 - [[latest/TAR.E08277C8C1D8#^s-a16f668d8ad844ba76098eeb|Lietuvos Respublikos įstatymas dėl laisvosios prekybos sutarčių denonsavimo]] - 1998 m. vasario 24 d. įstatymu Nr. VIII-644

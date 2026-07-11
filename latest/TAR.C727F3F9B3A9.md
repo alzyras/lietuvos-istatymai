@@ -199,7 +199,7 @@ Notarų, jų atstovų ir biuro darbuotojų kaltais veiksmais padarytą žalą, v
 ### 7 straipsnis. 9 straipsnio papildymas ir pakeitimas ^s-126515140b3be6643a0139bd
 
 
-1. Papildyti [[#^s-47b6326824b216c1378cca47|9 straipsnį]] naujais 5, 6, 7, [[#^s-032e46c4cabb99949bee92a7|8 punktais]]: ^s-70b0b707c833ef1595d4bdf3
+1. Papildyti [[#^s-47b6326824b216c1378cca47|9 straipsnį]] naujais 5, 6, 7, 8 punktais: ^s-70b0b707c833ef1595d4bdf3
 
 
 „5) suvienodinti notarinę praktiką;
@@ -227,7 +227,7 @@ Notarų, jų atstovų ir biuro darbuotojų kaltais veiksmais padarytą žalą, v
 „5) nustatyta tvarka draudžia notarus profesinės civilinės atsakomybės privalomuoju draudimu. Notarų profesinės civilinės atsakomybės už fiziniams ar juridiniams asmenims padarytą žalą, vykdant notaro profesinę veiklą, privalomojo draudimo įmoką sudaro draudžiamų notarų įmokos. Šios įmokos neįskaitomos į šio straipsnio antrojoje dalyje numatytą Notarų rūmams notarų mokamą mokestį;“.
 
 
-2. Papildyti 10 straipsnio 1 dalį naujais 7, 8, 9, [[#^s-e71cc1e3bc592abecff16d07|10 punktais]]: ^s-9474bd4185ba51a494321f1a
+2. Papildyti 10 straipsnio 1 dalį naujais 7, 8, 9, 10 punktais: ^s-9474bd4185ba51a494321f1a
 
 
 „7) imasi priemonių notarinei praktikai suvienodinti;
@@ -255,13 +255,13 @@ Notarų, jų atstovų ir biuro darbuotojų kaltais veiksmais padarytą žalą, v
 „Notarų rūmai kasmet iki balandžio 1 dienos pateikia Lietuvos Respublikos teisingumo ministerijai detalią savo veiklos metinę ataskaitą, taip pat notariato veiklos perspektyvas ir kryptis einamiesiems metams. Lietuvos Respublikos teisingumo ministerija turi teisę reikalauti, kad Notarų rūmai pateiktų notariato veiklos perspektyvas ir kryptis trejiems arba daugiau metų.“
 
 
-2. Papildyti [[#^s-fb7b39b30037a5ab4a04923c|11 straipsnį]] nauja [[#^s-8c93a2d0f106067a7482a249|2 dalimi]]: ^s-8c93a2d0f106067a7482a249
+2. Papildyti [[#^s-fb7b39b30037a5ab4a04923c|11 straipsnį]] nauja 2 dalimi: ^s-8c93a2d0f106067a7482a249
 
 
 „Šiame įstatyme numatytus norminius teisės aktus Lietuvos Respublikos teisingumo ministras tvirtina, atsižvelgdamas į Notarų rūmų prezidiumo nuomonę.“
 
 
-3. Buvusią 11 straipsnio 2 dalį laikyti [[#^s-59a5477e49fa04dc00032181|3 dalimi]]. ^s-59a5477e49fa04dc00032181
+3. Buvusią 11 straipsnio 2 dalį laikyti 3 dalimi. ^s-59a5477e49fa04dc00032181
 
 
 
@@ -274,7 +274,7 @@ Pakeisti [[#^s-9cd0ba91dec80510bf28df6a|13 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-9cd0ba91dec80510bf28df6a|13 straipsnis]]. Notarinių veiksmų atlikimo teisiniai pagrindai
 
 
-Notarai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu ir kitais Lietuvos Respublikos įstatymais, Lietuvos Respublikos Vyriausybės nutarimais, Lietuvos Respublikos teisingumo ministro teisės aktais ir Notarų rūmų nutarimais bei kitais teisės aktais.“
+Notarai savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo įstatymu ir kitais Lietuvos Respublikos įstatymais, Lietuvos Respublikos Vyriausybės nutarimais, Lietuvos Respublikos teisingumo ministro teisės aktais ir Notarų rūmų nutarimais bei kitais teisės aktais.“
 
 
 
@@ -387,7 +387,7 @@ Notaro atstovas turi visas notaro teises ir pareigas, išskyrus šiame įstatyme
 Už notaro atstovo padarytą žalą fiziniams ar juridiniams asmenims, vykdant notaro profesinę veiklą, atsako atstovaujamasis notaras. Notaro atstovo atsakomybė notarui už notaro atstovo padarytą ir notaro fiziniams ar juridiniams asmenims atlygintą žalą nustatoma šio straipsnio šeštojoje dalyje nurodytoje sutartyje.
 
 
-Lietuvos Respublikos teisingumo ministro įsakymu gali būti skiriamas pavaduojantis notaras ne ilgesniam kaip trisdešimties dienų terminui. Jei, pasibaigus šiam terminui, pavaduojamasis notaras ir toliau negalės eiti savo pareigų, skiriamas notaro atstovas. Pavaduojančiam notarui pavedama aptarnauti notaro, laikinai negalinčio eiti notaro pareigas, veiklos teritoriją, nustatytą pagal šio įstatymo [[#^s-35556dfde72d67aa9aa00e28|6 straipsnį]]. Notaro pavadavimas įforminamas Lietuvos Respublikos teisingumo ministro įsakymu. Notaras gali pavaduoti tik vieną notarą. Pavadavimo metu pavaduojamasis notaras negali atlikti notarinių veiksmų. Pavaduojantis notaras pavadavimo metu savo vardu ir lėšomis atlieka notarinius veiksmus, susijusius su pavaduojamojo notaro veiklos teritorijoje atsiradusiu palikimu, taip pat su pavaduojamojo notaro sudarytų dokumentų, saugomų pavaduojamojo notaro biure, išdavimu šio įstatymo 14, 38 ir [[#^s-7b38db1783ed393e20daca0f|39 straipsniuose]] nustatyta tvarka. Pavadavimo metu pavaduojantis notaras notarinius veiksmus atlieka savo notaro biure. Pavaduojamasis notaras ir pavaduojantis notaras raštu susitaria dėl pavaduojamojo notaro veiklos metu sudarytų dokumentų naudojimo pavadavimo metu.“
+Lietuvos Respublikos teisingumo ministro įsakymu gali būti skiriamas pavaduojantis notaras ne ilgesniam kaip trisdešimties dienų terminui. Jei, pasibaigus šiam terminui, pavaduojamasis notaras ir toliau negalės eiti savo pareigų, skiriamas notaro atstovas. Pavaduojančiam notarui pavedama aptarnauti notaro, laikinai negalinčio eiti notaro pareigas, veiklos teritoriją, nustatytą pagal šio įstatymo [[#^s-35556dfde72d67aa9aa00e28|6 straipsnį]]. Notaro pavadavimas įforminamas Lietuvos Respublikos teisingumo ministro įsakymu. Notaras gali pavaduoti tik vieną notarą. Pavadavimo metu pavaduojamasis notaras negali atlikti notarinių veiksmų. Pavaduojantis notaras pavadavimo metu savo vardu ir lėšomis atlieka notarinius veiksmus, susijusius su pavaduojamojo notaro veiklos teritorijoje atsiradusiu palikimu, taip pat su pavaduojamojo notaro sudarytų dokumentų, saugomų pavaduojamojo notaro biure, išdavimu šio įstatymo [[#^s-91498144bf913f4dfa196c1e|14]], [[#^s-33989a318b8994a4d28fd709|38]] ir [[#^s-7b38db1783ed393e20daca0f|39]] straipsniuose nustatyta tvarka. Pavadavimo metu pavaduojantis notaras notarinius veiksmus atlieka savo notaro biure. Pavaduojamasis notaras ir pavaduojantis notaras raštu susitaria dėl pavaduojamojo notaro veiklos metu sudarytų dokumentų naudojimo pavadavimo metu.“
 
 
 
@@ -837,10 +837,10 @@ Kandidatas į notarus (asesorius) turi teisę atlikti notarinius veiksmus atstov
 1. Šio Įstatymo [[#^s-d7d09fa4ed2785e08974eb9d|5 straipsnis]], [[#^s-32d00dfe09ff56e8d297bc08|8 straipsnio 1 dalis]] ir [[#^s-5cb094cf0d03a5079eb96643|12 straipsnis]] įsigalioja nuo 2003 m. liepos 1 d. ^s-daafbe9370dcab63b1f87506
 
 
-2. Šio Įstatymo [[#^s-d7d09fa4ed2785e08974eb9d|5 straipsnyje]] išdėstyto Notariato įstatymo 62 straipsnio 5 dalis galioja iki Lietuvos Respublikos įstojimo į Europos Sąjungą. ^s-4e4a86b683fc8ab7bb9d53d8
+2. Šio Įstatymo [[#^s-d7d09fa4ed2785e08974eb9d|5 straipsnyje]] išdėstyto [[latest/TAR.BE3136A78E80|Notariato įstatymo 62 straipsnio 5 dalis]] galioja iki Lietuvos Respublikos įstojimo į Europos Sąjungą. ^s-4e4a86b683fc8ab7bb9d53d8
 
 
-3. Pagal šio Įstatymo [[#^s-5d533a771baf85438e2de800|2 straipsnyje]] išdėstyto Notariato įstatymo 3 straipsnio 2 dalies 7 punktą notarai privalo pirmą kartą pasitikrinti sveikatą iki 2004 m. balandžio 1 d. Po šios datos verstis notaro veikla turi teisę tik sveikatą pasitikrinę notarai. ^s-bd711f4b5edb456ae6fa02b8
+3. Pagal šio Įstatymo [[#^s-5d533a771baf85438e2de800|2 straipsnyje]] išdėstyto [[latest/TAR.BE3136A78E80|Notariato įstatymo 3 straipsnio 2 dalies 7 punktą]] notarai privalo pirmą kartą pasitikrinti sveikatą iki 2004 m. balandžio 1 d. Po šios datos verstis notaro veikla turi teisę tik sveikatą pasitikrinę notarai. ^s-bd711f4b5edb456ae6fa02b8
 
 
 4. Šio Įstatymo [[#^s-9cd0ba91dec80510bf28df6a|13 straipsnyje]] nustatyti notaro antspaudo reikalavimai netaikomi notarų, kurie notaro antspaudus naudojo iki šio Įstatymo įsigaliojimo, naudojamiems antspaudams. ^s-8ed6f77cb5c32e957cf02777

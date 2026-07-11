@@ -195,7 +195,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 4) skelbia informaciją apie profesinio mokymo įstaigų vykdomas formaliojo profesinio mokymo programas, jas vykdančius ir turinčius licencijas jas vykdyti profesinio mokymo teikėjus, apie institucijas, kurioms suteikta teisė vertinti asmens įgytas kompetencijas; ^s-52cec1284dac10af920fc4fc
 
 
-5) tvirtina asmenų, išskyrus asmenis, kuriems taikomas Užimtumo rėmimo įstatymas, Neįgaliųjų socialinės integracijos įstatymas ar [[latest/TAR.4FC026AC03AE|Vidaus tarnybos statuto patvirtinimo įstatymas]], pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas profesinio mokymo programas planą; ^s-dc0c2813c33a698fe5030049
+5) tvirtina asmenų, išskyrus asmenis, kuriems taikomas [Užimtumo rėmimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5), Neįgaliųjų socialinės integracijos įstatymas ar [[latest/TAR.4FC026AC03AE|Vidaus tarnybos statuto patvirtinimo įstatymas]], pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas profesinio mokymo programas planą; ^s-dc0c2813c33a698fe5030049
 
 
 6) tvirtina asmenų priėmimo į valstybines ir savivaldybių profesines mokyklas bendruosius kriterijus; ^s-678d9055ae590f27d226375e

@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.44FA08A7226F#^s-8e7d3b1a63c9a3ccb313af83|Lietuvos Respublikos profesinio mokymo įstatymas]] - 2 citatos - PROFESINIO MOKYMO ĮSTATYMO 6, 7, 11, 14, 18, 22, 23, 28 IR 31 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.44FA08A7226F#^s-e23b0f052746f8e3d5cd0b86|Lietuvos Respublikos profesinio mokymo įstatymas]] - 2 citatos - PROFESINIO MOKYMO ĮSTATYMO 6, 7, 11, 14, 18, 22, 23, 28 IR 31 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.44FA08A7226F#^s-8e7d3b1a63c9a3ccb313af83|Lietuvos Respublikos profesinio mokymo įstatymas]] - PROFESINIO MOKYMO ĮSTATYMO 6, 7, 11, 14, 18, 22, 23, 28 IR 31 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

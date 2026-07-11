@@ -64,7 +64,7 @@ Išbraukti 13 skyriaus 3 dalies antrą sakinį ir šią dalį išdėstyti taip:
 Išbraukti 18 skyriaus 4 dalies paskutinį sakinį ir šią dalį išdėstyti taip:
 
 
-„Aukščiausiasis valstybės karinis pareigūnas, kariniais klausimais atstovaujantis Lietuvos kariuomenei, yra kariuomenės vadas. Svarbiausias jo uždavinys taikos metu – tinkamai rengti kariuomenę ginkluotai valstybės gynybai, užtikrinant jos sąveiką su kitų NATO valstybių ginkluotosiomis pajėgomis ir dalyvavimą tarptautinėse operacijose. Kariuomenės vadas taikos metu yra tiesiogiai pavaldus krašto apsaugos ministrui ir vykdo nustatytą kariuomenės plėtros politiką. Kariuomenės vado skyrimo ir atleidimo tvarką, teises, pareigas, funkcijas ir atsakomybę nustato Lietuvos Respublikos Konstitucija, įstatymai bei kiti teisės aktai.“
+„Aukščiausiasis valstybės karinis pareigūnas, kariniais klausimais atstovaujantis Lietuvos kariuomenei, yra kariuomenės vadas. Svarbiausias jo uždavinys taikos metu – tinkamai rengti kariuomenę ginkluotai valstybės gynybai, užtikrinant jos sąveiką su kitų NATO valstybių ginkluotosiomis pajėgomis ir dalyvavimą tarptautinėse operacijose. Kariuomenės vadas taikos metu yra tiesiogiai pavaldus krašto apsaugos ministrui ir vykdo nustatytą kariuomenės plėtros politiką. Kariuomenės vado skyrimo ir atleidimo tvarką, teises, pareigas, funkcijas ir atsakomybę nustato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymai bei kiti teisės aktai.“
 
 
 

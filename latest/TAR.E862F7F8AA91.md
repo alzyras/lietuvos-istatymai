@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-f7ae1606d02d475bd89a735c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. vasario 21 d. dekretą Nr. 537, ratifikuoja Susitarimą dėl bendrųjų techninių taisyklių ratinėms transporto priemonėms, įrangai ir dalims, kurios gali būti sumontuotos ir (arba) naudojamos ratinėse transporto priemonėse, nustatymo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. vasario 21 d. dekretą Nr. 537](https://e-tar.lt/portal/lt/legalAct/TAR.3ABEDE78A214), ratifikuoja Susitarimą dėl bendrųjų techninių taisyklių ratinėms transporto priemonėms, įrangai ir dalims, kurios gali būti sumontuotos ir (arba) naudojamos ratinėse transporto priemonėse, nustatymo.
 
 
 

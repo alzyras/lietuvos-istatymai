@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos Visagino miesto ir Ignalinos rajono savivaldy
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.BCA0F623B8BA|Lietuvos Respublikos 2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 2 citatos - 2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
-- [[latest/TAR.F960F4CF3005|Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas]] - 2 citatos - Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo
+- [[latest/TAR.BCA0F623B8BA|Lietuvos Respublikos 2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 2003 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
+- [[latest/TAR.F960F4CF3005|Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas]] - Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo
 
 ## Šį įstatymą cituoja
 

@@ -9,10 +9,9 @@ pavadinimas: "Lietuvos Respublikos savivaldybių administracinės priežiūros �
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Administracinių bylų teisenos įstatymo
-- [[latest/TAR.33DE665E5E0E|Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS SAVIVALDYBIŲ ADMINISTRACINĖS PRIEŽIŪROS ĮSTATYMAS
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 4 citatos - Valstybės tarnybos įstatymas
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Administracinių bylų teisenos įstatymo
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Valstybės tarnybos įstatymas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.33DE665E5E0E#^s-e1e7aa39ff221c618fb885d9|Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymas]] - 2 citatos - 1021010ISTA0IX-1282
+- [[latest/TAR.33DE665E5E0E#^s-e1e7aa39ff221c618fb885d9|Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymas]] - 1021010ISTA0IX-1282

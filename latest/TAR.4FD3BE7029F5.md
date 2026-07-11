@@ -114,10 +114,10 @@ Vilnius
 1) faktinis tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir batalionuose) laikas – iki 1990 m. kovo 11 d.; ^s-56f8e6243602887590d9d732
 
 
-2) darbo policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms; ^s-98876440e821567afb10b602
+2) darbo policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms; ^s-98876440e821567afb10b602
 
 
-3) darbo laikas, išdirbtas profesionaliosios priešgaisrinės apsaugos padalinių vadovais, gaisrininkais, gaisrininkais vairuotojais Darbo sutarties įstatymo pagrindais, jeigu vėliau šie darbuotojai buvo paskirti sukarintos priešgaisrinės apsaugos pareigūnais; ^s-e93c20953509a16295736549
+3) darbo laikas, išdirbtas profesionaliosios priešgaisrinės apsaugos padalinių vadovais, gaisrininkais, gaisrininkais vairuotojais [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pagrindais, jeigu vėliau šie darbuotojai buvo paskirti sukarintos priešgaisrinės apsaugos pareigūnais; ^s-e93c20953509a16295736549
 
 
 4) viena tarnybos ar darbo diena Lietuvos Respublikos krašto apsaugos departamento struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. iki 1991 m. rugpjūčio 23 d., Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. ir Lietuvos Respublikos Aukščiausiosios Tarybos Apsaugos skyriuje nuo 1990 m. birželio 8 d. iki 1991 m. rugpjūčio 23 d. – skaičiuojama kaip trys tarnybos dienos; ^s-0d5d54cf13bbc951f5e94a95
@@ -132,7 +132,7 @@ Vilnius
 3. 16 straipsnio 12 dalyje vietoj žodžių „operatyvinę veiklą“ įrašyti žodžius „kriminalinę žvalgybą“ ir šią dalį išdėstyti taip: ^s-69d5d7071c650d9366622eff
 
 
-„12. Muitinės pareigūnams, muitinės sistemoje dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, pareigūnų ir karių valstybinės pensijos skiriamos tik įgijusiems teisę į šią pensiją po Vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių [[latest/TAR.EDDCB615126E#^s-457898e92b1498d0c089e2e8|pareigūnų ir karių valstybinių pensijų įstatymo pavadinimo, 1, 3, 6, 12 ir 16 straipsnių]] pakeitimo ir papildymo [[latest/TAR.9AFBD8793C7C|įstatymo Nr. X-1027]] įsigaliojimo.“
+„12. Muitinės pareigūnams, muitinės sistemoje dirbusiems muitinės mobiliosiose grupėse ar muitinės postuose arba atlikusiems kriminalinę žvalgybą ir (arba) ikiteisminį tyrimą, pareigūnų ir karių valstybinės pensijos skiriamos tik įgijusiems teisę į šią pensiją po Vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo pavadinimo, [[#^s-e6eaefda46f4ec48c948e3da|1]], [[#^s-9c72ec4fed8f6e8b0ee381d6|3]], [[#^s-4a30283035ec35d732063021|6]], 12 ir 16 straipsnių pakeitimo ir papildymo [[latest/TAR.9AFBD8793C7C|įstatymo Nr. X-1027]] įsigaliojimo.“
 
 
 

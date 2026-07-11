@@ -237,7 +237,7 @@ POVEIKIO APLINKAI VERTINIMAS
 5. Atsakinga institucija, atsižvelgdama į planuojamos ūkinės veiklos mastą, pobūdį ar vietos ypatumus, gali pareikalauti iš planuojamos ūkinės veiklos organizatoriaus (užsakovo) ar poveikio aplinkai vertinimo dokumentų rengėjo papildomos informacijos, reikalingos atrankai atlikti. ^s-a505fc3a086f2840f693f848
 
 
-6. Atsakinga institucija atlieka atranką ir priima išvadą, ar privaloma atlikti poveikio aplinkai vertinimą, remdamasi šio straipsnio 4 ir [[#^s-a505fc3a086f2840f693f848|5 dalyse]] nurodyta informacija bei atsižvelgusi į: ^s-9099e8f49f5d5461cc4f4899
+6. Atsakinga institucija atlieka atranką ir priima išvadą, ar privaloma atlikti poveikio aplinkai vertinimą, remdamasi šio straipsnio [[#^s-5869eb9a98d820fb12e3c429|4]] ir [[#^s-a505fc3a086f2840f693f848|5]] dalyse nurodyta informacija bei atsižvelgusi į: ^s-9099e8f49f5d5461cc4f4899
 
 
 1) vietovės, kurią planuojama ūkinė veikla gali paveikti, jautrumą aplinkosaugos požiūriu, ekosistemos savybes, kraštovaizdį, žemėnaudos pobūdį, vietovės infrastruktūrą, gamybos objektų sutelkimą, santykinį gamtinių išteklių kiekį, kokybę ir regeneracijos galimybes, natūralios aplinkos atsparumą, ypatingą dėmesį atkreipdama į saugomas teritorijas, taip pat į Europos ekologinio tinklo „Natura 2000“ teritorijos gamtosauginius tikslus, tankiai apgyvendintas teritorijas, pelkes, miškus, apsaugines zonas, vykdytos aplinkos stebėsenos duomenų analizę, teritorijas, kuriose jau viršytas leistinas užterštumo lygis ar kurios vertingos istoriniu, kultūriniu arba archeologiniu aspektu; ^s-7e3ee07d00bbf9fa67896e2b

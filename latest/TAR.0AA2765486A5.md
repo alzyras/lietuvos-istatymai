@@ -130,7 +130,7 @@ Vyriausybė ar jos įgaliotos institucijos iki 2006 m. sausio 4 d. parengia ir p
 ### 5 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-a4683d81dfdaddc059f86a76
 
 
-1. Šio įstatymo [[#^s-547ffe56d9ecb559e06f9eff|2 straipsnyje]] išdėstyto Lietuvos Respublikos statybos įstatymo 431 straipsnio 3 dalyje nurodytais atvejais pastatai sertifikuojami nuo 2009 m. sausio 1 d., išskyrus naujai statomus pastatus, kurie privalo būti sertifikuojami nuo 2007 m. sausio 1 d. ^s-8863c211f1c440577b5786a1
+1. Šio įstatymo [[#^s-547ffe56d9ecb559e06f9eff|2 straipsnyje]] išdėstyto [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymo 431 straipsnio 3 dalyje]] nurodytais atvejais pastatai sertifikuojami nuo 2009 m. sausio 1 d., išskyrus naujai statomus pastatus, kurie privalo būti sertifikuojami nuo 2007 m. sausio 1 d. ^s-8863c211f1c440577b5786a1
 
 
 2. Šis įstatymas, išskyrus [[#^s-1aa9dbb3a2eff0f57e009b7c|4 straipsnį]], įsigalioja nuo 2006 m. sausio 4 d. ^s-9e10b6292b2e5384692414de

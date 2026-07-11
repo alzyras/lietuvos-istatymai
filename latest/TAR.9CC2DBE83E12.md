@@ -136,7 +136,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 „59 straipsnis. Jungtinė (konsoliduota) priežiūra
 
 
-1. Šio Įstatymo 64 straipsnyje nurodyta priežiūros institucija atlieka visos finansinės grupės jungtinę (konsoliduotą) priežiūrą, išskyrus šio straipsnio 2 ir [[#^s-6e65a4a607402abb0d74a854|3 dalyse]] nustatytus atvejus. ^s-376adaad3e5685f5e6f36dbf
+1. Šio Įstatymo 64 straipsnyje nurodyta priežiūros institucija atlieka visos finansinės grupės jungtinę (konsoliduotą) priežiūrą, išskyrus šio straipsnio [[#^s-31c34cf247018a4415f6a2e6|2]] ir [[#^s-6e65a4a607402abb0d74a854|3]] dalyse nustatytus atvejus. ^s-376adaad3e5685f5e6f36dbf
 
 
 2. Jeigu priežiūros institucijos išduotą licenciją turintis bankas priklauso finansinei grupei, į kurią įeina bent vienas kitoje Europos Sąjungos valstybėje narėje licencijuotas užsienio bankas, visos finansinės grupės jungtinę (konsoliduotą) priežiūrą atliekanti institucija nustatoma su kitų Europos Sąjungos valstybių narių priežiūros institucijomis sudarytų susitarimų pagrindu arba vadovaujantis priežiūros institucijos teisės aktuose nustatytais kriterijais. ^s-31c34cf247018a4415f6a2e6

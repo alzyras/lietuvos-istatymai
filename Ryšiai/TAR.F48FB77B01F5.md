@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos nuodingųjų medžiagų kontrolės įstatymo 
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D2808EF078C3#^s-37f17933eefffb9462e777bf|Lietuvos Respublikos nuodingųjų medžiagų kontrolės įstatymas]] - 3 citatos - 1041010ISTA0IX-2509
-- [[latest/TAR.D2808EF078C3#^s-c8146bbcc5fd4425102292d2|Lietuvos Respublikos nuodingųjų medžiagų kontrolės įstatymas]] - 3 citatos - 1041010ISTA0IX-2509
+- [[latest/TAR.D2808EF078C3#^s-c8146bbcc5fd4425102292d2|Lietuvos Respublikos nuodingųjų medžiagų kontrolės įstatymas]] - 2 citatos - 1041010ISTA0IX-2509

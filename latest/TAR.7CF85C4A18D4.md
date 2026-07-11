@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-cb3c54714177f7c8952d3be1
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 2002 m. liepos 22 d. dekretą Nr. 1851, ratifikuoja 1954 m. kovo 1 d. sudarytą Konvenciją dėl civilinio proceso.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento [2002 m. liepos 22 d. dekretą Nr. 1851](https://e-tar.lt/portal/lt/legalAct/TAR.81AB9FFA294B), ratifikuoja 1954 m. kovo 1 d. sudarytą Konvenciją dėl civilinio proceso.
 
 
 

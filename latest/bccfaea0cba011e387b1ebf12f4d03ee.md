@@ -39,13 +39,13 @@ Vilnius
 ### 1 straipsnis. 25 straipsnio pakeitimas ^s-5ae5372b47b129550dcc92bb
 
 
-1. Pakeisti 25 straipsnio pavadinimą ir jį išdėstyti taip: ^s-5fcdacd15ef6f95187d07400
+1. Pakeisti [[latest/TAR.C51D9C259EFE#^s-4affaf2cd1e4f1602cb9a387|25 straipsnio]] pavadinimą ir jį išdėstyti taip: ^s-5fcdacd15ef6f95187d07400
 
 
 „25 straipsnis. Žmogaus palaikų laidojimas kapavietėse, ekshumavimas ir perkėlimas“.
 
 
-2. Papildyti 25 straipsnį 7 dalimi: ^s-1b2e2f6da6f6c3ed04b2b736
+2. Papildyti [[latest/TAR.C51D9C259EFE#^s-4ade779f07a9f9ac25b2824c|25 straipsnį 7 dalimi]]: ^s-1b2e2f6da6f6c3ed04b2b736
 
 
 „7. Rezistentų ir kitų asmenų, nužudytų okupacinių režimų metu, palaikai perkeliami ir laidojimo vietos įamžinamos arba pažymimos Vyriausybės nustatyta tvarka, laidojimo vietos įamžinimo arba žymėjimo projektą suderinus su Vyriausybės įgaliotomis institucijomis.“

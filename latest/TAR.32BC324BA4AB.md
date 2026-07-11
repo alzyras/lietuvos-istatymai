@@ -43,7 +43,7 @@ Nr. 112-4975)
 16 straipsnio 4 dalyje prieš žodį „juridiniai“ įrašyti žodžius „fiziniai ir“, po žodžio „asmenys“ įrašyti žodžius „Lietuvos Respublikoje įsteigti Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės susitarimą pasirašiusių valstybių įmonių filialai“ ir šią dalį išdėstyti taip:
 
 
-„4. Žemės reformos žemėtvarkos projektus rengia konkursą laimėję fiziniai ir juridiniai asmenys, Lietuvos Respublikoje įsteigti Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės susitarimą pasirašiusių valstybių įmonių filialai, Vyriausybės nustatyta tvarka gavę leidimus dirbti žemėtvarkos darbus. Konkursus dėl žemės reformos žemėtvarkos projektų rengimo ir įgyvendinimo organizuoja ir vykdo apskričių viršininkai [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo]] nustatyta tvarka.“
+„4. Žemės reformos žemėtvarkos projektus rengia konkursą laimėję fiziniai ir juridiniai asmenys, Lietuvos Respublikoje įsteigti Europos Sąjungos valstybių narių ir kitų Europos ekonominės erdvės susitarimą pasirašiusių valstybių įmonių filialai, Vyriausybės nustatyta tvarka gavę leidimus dirbti žemėtvarkos darbus. Konkursus [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) žemėtvarkos projektų rengimo ir įgyvendinimo organizuoja ir vykdo apskričių viršininkai [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo]] nustatyta tvarka.“
 
 
 

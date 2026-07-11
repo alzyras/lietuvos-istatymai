@@ -462,7 +462,7 @@ BENDRIJOS VALDYMAS
 10) tvirtina bendrojo naudojimo objektų aprašą; ^s-d481126bc2925f6ee0ee25e9
 
 
-11) priima sprendimus dėl lėšų bendrojo naudojimo objektams atnaujinti skolinimosi arba kitų kreditinių įsipareigojimų, išskyrus šio įstatymo [[#^s-18e7db4c48391cc6b8836493|12 straipsnyje]] numatytus atvejus; ^s-cb9ca5789b3fe28df0c1dbd2
+11) priima sprendimus dėl lėšų bendrojo naudojimo objektams atnaujinti skolinimosi arba kitų kreditinių įsipareigojimų, išskyrus šio įstatymo 12 straipsnyje numatytus atvejus; ^s-cb9ca5789b3fe28df0c1dbd2
 
 
 12) tvirtina kitas įmokas, susijusias su bendrijos administravimu, bendrojo naudojimo objektų naudojimu ir priežiūra, jeigu bendrijos įstatuose nenustatyta kitaip; ^s-6653ce0a6d41d996b0c83377
@@ -1060,8 +1060,8 @@ Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitim
 
 3.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2000-12-21, Žin., 2000, Nr. 110-3536 (2000-12-28), i. k. 1001000NUTARG003446
-Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo (1995 m. vasario 21 d. redakcija) [[#^s-a1b26b0543b87886545224a2|16 straipsnio 1 dalies]], [[#^s-edfe9c055bec3d247dcb6d34|17 straipsnio]] 1 ir [[#^s-402acb05227706d402161062|2 dalių]], [[#^s-e9560a141feda7630b48a0e5|19 straipsnio]] ir šio įstatymo (2000 m. birželio 20 d. redakcija) [[#^s-dd393098743a8d6d81e94afb|27 straipsnio]] 4 ir 7 dalių, taip pat Lietuvos Respublikos Vyriausybės 1995 m. birželio 15 d. nutarimu Nr. 852 "Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo įgyvendinimo tvarkos" patvirtintų Tipinių daugiabučių namų savininkų bendrijų įstatų 8 punkto 1, 3 ir 4 pastraipų, 10 punkto 1 pastraipos atitikties Lietuvos Respublikos Konstitucijai
+2000-12-21, Žin., 2000, Nr. 110-3536 (2000-12-28), i. k. [1001000NUTARG003446](https://e-tar.lt/portal/lt/legalAct/TAR.F395034B4B37)
+Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo (1995 m. vasario 21 d. redakcija) [[#^s-a1b26b0543b87886545224a2|16 straipsnio 1 dalies]], [[#^s-edfe9c055bec3d247dcb6d34|17 straipsnio]] [[#^s-57f4b45b75a6f7a183189607|1]] ir [[#^s-b02983d402f1a38ff0649c0e|2]] dalių, [[#^s-e9560a141feda7630b48a0e5|19 straipsnio]] ir šio įstatymo (2000 m. birželio 20 d. redakcija) [[#^s-dd393098743a8d6d81e94afb|27 straipsnio]] 4 ir 7 dalių, taip pat Lietuvos Respublikos Vyriausybės [1995 m. birželio 15 d. nutarimu Nr. 852](https://e-tar.lt/portal/lt/legalAct/TAR.8A5AEFDF15A0) ["Dėl Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo įgyvendinimo tvarkos"](https://e-tar.lt/portal/lt/legalAct/TAR.8A5AEFDF15A0) patvirtintų Tipinių daugiabučių namų savininkų bendrijų įstatų 8 punkto 1, 3 ir 4 pastraipų, 10 punkto 1 pastraipos atitikties Lietuvos Respublikos Konstitucijai
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1086,7 +1086,7 @@ Lietuvos Respublikos daugiabučių namų savininkų bendrijų įstatymo pakeitim
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-882, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05735
-Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 2, 7, 8 ir [[#^s-32c393b0c8735e0363f3bd4b|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 [[#^s-183c4733ced67889c79c7ef1|2]], [[#^s-7bc4e63b8513e0f431127a6b|7]], [[#^s-be2b67d6eadb6237ad65c268|8]] ir [[#^s-32c393b0c8735e0363f3bd4b|14]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1096,7 +1096,7 @@ Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastat
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1434, 2022-09-29, paskelbta TAR 2022-10-05, i. k. 2022-20263
-Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 2, 4, 5, 6, 7, 8, 11 ir [[#^s-32c393b0c8735e0363f3bd4b|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo Nr. I-798 [[#^s-183c4733ced67889c79c7ef1|2]], [[#^s-d81c0287a0d674505f5e5fb5|4]], [[#^s-50ca62b01c4414b33406c84f|5]], [[#^s-9a53c322f25c965d73d940d1|6]], [[#^s-7bc4e63b8513e0f431127a6b|7]], [[#^s-be2b67d6eadb6237ad65c268|8]], [[#^s-9d869385f1bb0eb5eba73f4d|11]] ir [[#^s-32c393b0c8735e0363f3bd4b|14]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas

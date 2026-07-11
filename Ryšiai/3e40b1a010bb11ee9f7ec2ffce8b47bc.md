@@ -9,7 +9,9 @@ pavadinimas: "Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymo 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 2 citatos - Lietuvos Respublikos viešųjų pirkimų įstatymo
+- [[latest/TAR.F789235C18BB|Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas]] - 6 citatos - 9 straipsnio 7 dalį
+- [[latest/TAR.F789235C18BB#^s-761952332cb6ba685314b339|Lietuvos Respublikos vidaus kontrolės ir vidaus audito įstatymas]] - 9 straipsnio 4 dalį
+- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Lietuvos Respublikos viešųjų pirkimų įstatymo
 
 ## Šį įstatymą cituoja
 

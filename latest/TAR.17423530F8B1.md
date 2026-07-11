@@ -44,7 +44,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-43ee9140d32e4514ecd755f0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 1 punktu ir atsižvelgdamas į Respublikos Prezidento 2011 m. vasario 25 d. dekretą Nr. 1K-620 bei Lietuvos Respublikos Seimo 2009 m. gegužės 14 d. pareiškimą „Dėl Lietuvos Respublikos Vyriausybės, Rusijos Federacijos Vyriausybės ir Švedijos Karalystės Vyriausybės susitarimo dėl išskirtinių ekonominių zonų ir kontinentinio šelfo ribų sankirtos Baltijos jūroje“ (Žin., 2009, Nr. 60-2348), ratifikuoja 2005 m. lapkričio 30 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės, Rusijos Federacijos Vyriausybės ir Švedijos Karalystės Vyriausybės susitarimą dėl išskirtinių ekonominių zonų ir kontinentinio šelfo ribų sankirtos Baltijos jūroje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 1 punktu ir atsižvelgdamas į Respublikos Prezidento [2011 m. vasario 25 d. dekretą Nr. 1K-620](https://e-tar.lt/portal/lt/legalAct/TAR.2181F90E58B6) bei Lietuvos Respublikos Seimo 2009 m. gegužės 14 d. pareiškimą [„Dėl Lietuvos Respublikos Vyriausybės, Rusijos Federacijos Vyriausybės ir Švedijos Karalystės Vyriausybės susitarimo dėl išskirtinių ekonominių zonų ir kontinentinio šelfo ribų sankirtos Baltijos jūroje“](https://e-tar.lt/portal/lt/legalAct/TAR.4D113FCBF857) (Žin., 2009, Nr. 60-2348), ratifikuoja 2005 m. lapkričio 30 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės, Rusijos Federacijos Vyriausybės ir Švedijos Karalystės Vyriausybės susitarimą dėl išskirtinių ekonominių zonų ir kontinentinio šelfo ribų sankirtos Baltijos jūroje.
 
 
 

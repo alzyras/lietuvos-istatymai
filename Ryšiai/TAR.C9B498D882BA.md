@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos socialinių paslaugų įstatymo 2, 9, 10, 11,
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.91609F53E29E|Lietuvos Respublikos socialinių paslaugų įstatymas]] - socialinių paslaugų įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.91609F53E29E#^s-08c2f10d50fac132c7fa9cfb|Lietuvos Respublikos socialinių paslaugų įstatymas]] - 3 citatos - 1101010ISTA00XI-777
-- [[latest/TAR.91609F53E29E#^s-5e07840d204a968e4acf3d44|Lietuvos Respublikos socialinių paslaugų įstatymas]] - 3 citatos - 1101010ISTA00XI-777
+- [[latest/TAR.91609F53E29E#^s-5e07840d204a968e4acf3d44|Lietuvos Respublikos socialinių paslaugų įstatymas]] - 2 citatos - 1101010ISTA00XI-777

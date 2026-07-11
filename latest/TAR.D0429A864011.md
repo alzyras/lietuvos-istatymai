@@ -275,7 +275,7 @@ Nr. XI-787, 2010-04-27, Žin., 2010, Nr. 54-2650 (2010-05-11), i. k. [[latest/TA
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3131, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15376
-Lietuvos Respublikos melioracijos įstatymo Nr. I-323 4, 7 ir [[#^s-74b2d91c4b86b43516d211cd|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos melioracijos įstatymo Nr. I-323 [[#^s-cc95fd71f14a928b7a3a0fd3|4]], [[#^s-80a5a004eb3b4a638ffbe0de|7]] ir [[#^s-74b2d91c4b86b43516d211cd|8]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas

@@ -65,7 +65,7 @@ Nr. 157-7981; 2011, Nr. 81-3965)
 181 straipsnio 6 dalies 4 punkte vietoj žodžių „atliekant operatyvinius veiksmus“ įrašyti žodžius „panaudojus kriminalinės žvalgybos informacijos rinkimo būdus ir priemones“, vietoj žodžių „operatyvinės veikos“ įrašyti žodžius „kriminalinės žvalgybos“ ir šį punktą išdėstyti taip:
 
 
-„4) užfiksuoti proceso veiksmų protokoluose ir jų prieduose (nuotraukose, negatyvuose, garso, vaizdo įrašuose, skaitmeninės informacijos laikmenose ir kitaip fiksuojant techninių priemonių panaudojimo rezultatus), kai informacija gauta panaudojus kriminalinės žvalgybos informacijos rinkimo būdus ir priemones Lietuvos Respublikos kriminalinės žvalgybos įstatymo ar šio Kodekso 154, 155, 158, 159, 160 straipsniuose nustatyta tvarka;“.
+„4) užfiksuoti proceso veiksmų protokoluose ir jų prieduose (nuotraukose, negatyvuose, garso, vaizdo įrašuose, skaitmeninės informacijos laikmenose ir kitaip fiksuojant techninių priemonių panaudojimo rezultatus), kai informacija gauta panaudojus kriminalinės žvalgybos informacijos rinkimo būdus ir priemones [[latest/TAR.3B8E4F16C815|Lietuvos Respublikos kriminalinės žvalgybos įstatymo]] ar šio Kodekso [[latest/TAR.3B8E4F16C815|154]], [[latest/TAR.3B8E4F16C815|155]], [[latest/TAR.3B8E4F16C815|158]], [[latest/TAR.3B8E4F16C815|159]], [[latest/TAR.3B8E4F16C815|160]] straipsniuose nustatyta tvarka;“.
 
 
 

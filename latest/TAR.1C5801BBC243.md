@@ -63,7 +63,7 @@ BENDROSIOS NUOSTATOS
 2. Įstatymo tikslas – įtvirtinti teisinius pagrindus svarbiausiems nacionalinės standartizacijos tikslams ir pagrindiniams standartizacijos principams įgyvendinti. ^s-76257ad3276fb525a4eeeb95
 
 
-3. Šis įstatymas, išskyrus [[#^s-cae802c8d34d7eb53d7d57c3|2 straipsnio 3 dalį]] ir [[#^s-03c0de2ead6b96f4b27ce41c|6 straipsnio]] 11 bei 12 dalis, netaikomas standartizacijai įmonėse ir NATO standartizacijai. ^s-dd595c4d14bc0207c46653a3
+3. Šis įstatymas, išskyrus [[#^s-cae802c8d34d7eb53d7d57c3|2 straipsnio 3 dalį]] ir [[#^s-03c0de2ead6b96f4b27ce41c|6 straipsnio]] [[#^s-9b27c795924e1c5f42c7e932|11]] bei [[#^s-c51564f2eb643bbece532a2a|12]] dalis, netaikomas standartizacijai įmonėse ir NATO standartizacijai. ^s-dd595c4d14bc0207c46653a3
 
 
 
@@ -303,7 +303,7 @@ Valstybės ir savivaldybių institucijos, pripažindamos savanoriškai taikomų 
 1) gali skirti valstybės biudžeto lėšų savo programų, reikalingų Lietuvos standartų ir kitų leidinių projektams rengti, vykdymui užtikrinti bei taikomosioms mokslo tiriamųjų darbų programoms standartizacijos srityje vykdyti įstatymų ir kitų teisės aktų nustatyta tvarka; ^s-69a2c90a1b1a7c8fc07bc125
 
 
-2) gali skirti savo atstovus į jų veiklos sritį atitinkančius Technikos komitetus, taip pat dalyvauti standartizacijos tarybos, sektorinių komitetų ir komisijų darbe šio įstatymo 13–[[#^s-4f760d3ea3b57162958386d2|16 straipsniuose]] nustatyta tvarka; ^s-6cff6a24de7be2c25498c69a
+2) gali skirti savo atstovus į jų veiklos sritį atitinkančius Technikos komitetus, taip pat dalyvauti standartizacijos tarybos, sektorinių komitetų ir komisijų darbe šio įstatymo [[#^s-08990bf34465cdc7a080ffd8|13]]–[[#^s-4f760d3ea3b57162958386d2|16]] straipsniuose nustatyta tvarka; ^s-6cff6a24de7be2c25498c69a
 
 
 3) teikia siūlymus nacionalinei standartizacijos institucijai dėl rengiamų Lietuvos standartų programų ir institucijos nuomonę dėl rengiamų Lietuvos, tarptautinių ir Europos standartų bei kitų leidinių projektų; ^s-776371ef332f7c00a886290c
@@ -345,7 +345,7 @@ TECHNINIAI REGLAMENTAI
 3) nesant techninio reglamento, teisės aktų nustatyta tvarka deklaruojama, kad gaminys ar paslauga atitinka Lietuvos standartą ar kitą leidinį; ^s-ec26a71b1d330b350878fc76
 
 
-4) gamintojui savo noru pasirinkus kitą, nei [[#^s-e320142e611c3e091684c1b6|šio straipsnio 4 dalies]] 2 ar [[#^s-ec26a71b1d330b350878fc76|3 punktuose]] nurodyti, atvejį, atitinkantį naujausią mokslo ir technikos lygį, teisės aktų nustatyta tvarka įrodoma, kad pagal šį sprendimą pagamintas gaminys ar teikiama paslauga atitinka techninį reglamentą, arba, jeigu nėra techninio reglamento, kad yra saugūs, nekenksmingi žmonių bei gyvūnų sveikatai ir gyvybei, aplinkai, materialinėms gėrybėms ir vartotojams. ^s-62fd4340751e0dd61eb55535
+4) gamintojui savo noru pasirinkus kitą, nei [[#^s-e320142e611c3e091684c1b6|šio straipsnio 4 dalies]] [[#^s-663fcfd101a3161a52795da9|2]] ar [[#^s-ec26a71b1d330b350878fc76|3]] punktuose nurodyti, atvejį, atitinkantį naujausią mokslo ir technikos lygį, teisės aktų nustatyta tvarka įrodoma, kad pagal šį sprendimą pagamintas gaminys ar teikiama paslauga atitinka techninį reglamentą, arba, jeigu nėra techninio reglamento, kad yra saugūs, nekenksmingi žmonių bei gyvūnų sveikatai ir gyvybei, aplinkai, materialinėms gėrybėms ir vartotojams. ^s-62fd4340751e0dd61eb55535
 
 
 5. Tais atvejais, kai teisės aktų nustatyta tvarka deklaruojama, kad gaminys ar paslauga atitinka darnųjį Lietuvos standartą (standartus), sudaroma prielaida, kad gaminys ar paslauga atitinka techninio reglamento, su kuriuo susijęs darnusis Lietuvos standartas (standartai), esminius reikalavimus. ^s-a2fe8c10b5f0ba8920d8caa6

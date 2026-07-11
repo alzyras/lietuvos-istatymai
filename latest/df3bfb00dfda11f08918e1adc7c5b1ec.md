@@ -40,10 +40,10 @@ Vilnius
 ### 1 straipsnis. 641 straipsnio pakeitimas ^s-340d9c683e7a304b9ef00918
 
 
-Pakeisti 641 straipsnio 20 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.1881C195D0E2#^s-3fdf22e73c567be047fa4d84|641 straipsnio 20 dalį]] ir ją išdėstyti taip:
 
 
-„20. Žvalgybos pareigūnui žvalgybos institucijos asignavimų valdytojo nustatyta tvarka apmokamos ar kompensuojamos važiavimo tarnybos tikslais reguliariaisiais reisais vietinio susisiekimo maršrutais išlaidos tais atvejais, kai toks važiavimas nėra laikomas komandiruote. Šioje dalyje nurodytos išlaidos neapmokamos ir nekompensuojamos, jeigu žvalgybos pareigūnas gauna šio straipsnio 19 dalyje nurodytą kompensaciją.“
+„20. Žvalgybos pareigūnui žvalgybos institucijos asignavimų valdytojo nustatyta tvarka apmokamos ar kompensuojamos važiavimo tarnybos tikslais reguliariaisiais reisais vietinio susisiekimo maršrutais išlaidos tais atvejais, kai toks važiavimas nėra laikomas komandiruote. Šioje dalyje nurodytos išlaidos neapmokamos ir nekompensuojamos, jeigu žvalgybos pareigūnas gauna [[latest/TAR.1881C195D0E2|šio straipsnio 19 dalyje]] nurodytą kompensaciją.“
 
 
 

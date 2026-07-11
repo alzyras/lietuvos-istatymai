@@ -221,7 +221,7 @@ ODONTOLOGIJOS PRAKTIKA
 1) odontologas pateikė suklastotus dokumentus licencijai gauti; ^s-d194570d29299ae1cdbcda0e
 
 
-2) odontologas per vienerius metus neįvykdė licencijas išduodančios institucijos reikalavimų, kai licencijos galiojimas buvo sustabdytas šio Įstatymo [[#^s-9c83d2ac68c715f1796bbb7f|7 straipsnio 1 dalies]] 1, 3 ar [[#^s-edf8feeaac9974fc642146a1|4 punkto]] pagrindu; ^s-bb57818bfa97575fe2846bca
+2) odontologas per vienerius metus neįvykdė licencijas išduodančios institucijos reikalavimų, kai licencijos galiojimas buvo sustabdytas šio Įstatymo [[#^s-9c83d2ac68c715f1796bbb7f|7 straipsnio 1 dalies]] [[#^s-bfb4a2d7f148b9caa962fca8|1]], [[#^s-444a9165777789b29a327562|3]] ar [[#^s-6c873a7fe93ec2c39206ec95|4]] punkto pagrindu; ^s-bb57818bfa97575fe2846bca
 
 
 3) odontologas padarė grubią odontologijos praktikos klaidą; ^s-7c8d3267abc37c877d9ba122
@@ -255,10 +255,10 @@ ODONTOLOGIJOS PRAKTIKA
 ### 6 straipsnis.         Licencijos išdavimo sąlygos odontologui, kuriam anksčiau buvo panaikintas licencijos galiojimas ^s-bb06f214f828e7e070f6993a
 
 
-1. Odontologas, kurio licencijos galiojimas buvo panaikintas remiantis šio Įstatymo [[#^s-e360e3ad508357cce59a1fb9|5 straipsnio 1 dalies]] 1, 2, 3 ar 4 punktais, Odontologijos praktikos licencijavimo taisyklių nustatyta tvarka gali kreiptis dėl naujos licencijos išdavimo, įvykdęs teisės aktuose nustatytus reikalavimus, susijusius su odontologijos praktikos licencijavimo sąlygų laikymusi. ^s-5d91c34baa72061089cc2dcf
+1. Odontologas, kurio licencijos galiojimas buvo panaikintas remiantis šio Įstatymo [[#^s-e360e3ad508357cce59a1fb9|5 straipsnio 1 dalies]] [[#^s-d194570d29299ae1cdbcda0e|1]], [[#^s-bb57818bfa97575fe2846bca|2]], [[#^s-7c8d3267abc37c877d9ba122|3]] ar [[#^s-edf8feeaac9974fc642146a1|4]] punktais, Odontologijos praktikos licencijavimo taisyklių nustatyta tvarka gali kreiptis dėl naujos licencijos išdavimo, įvykdęs teisės aktuose nustatytus reikalavimus, susijusius su odontologijos praktikos licencijavimo sąlygų laikymusi. ^s-5d91c34baa72061089cc2dcf
 
 
-2. Odontologas, kurio licencijos galiojimas buvo panaikintas remiantis šio Įstatymo [[#^s-e360e3ad508357cce59a1fb9|5 straipsnio 1 dalies]] 5 ar 6 punktais, gali kreiptis dėl naujos licencijos išdavimo Odontologijos praktikos licencijavimo taisyklių nustatyta tvarka, išnykus licencijos galiojimo panaikinimo pagrindui ir įvykdęs teisės aktuose nustatytus reikalavimus, susijusius su odontologijos praktikos licencijavimo sąlygų laikymusi. ^s-09ab2e781a6cdc4f4a383c71
+2. Odontologas, kurio licencijos galiojimas buvo panaikintas remiantis šio Įstatymo [[#^s-e360e3ad508357cce59a1fb9|5 straipsnio 1 dalies]] [[#^s-f60359f2b2e54490e590d871|5]] ar [[#^s-9e0f3391c93a9458e0ca7f03|6]] punktais, gali kreiptis dėl naujos licencijos išdavimo Odontologijos praktikos licencijavimo taisyklių nustatyta tvarka, išnykus licencijos galiojimo panaikinimo pagrindui ir įvykdęs teisės aktuose nustatytus reikalavimus, susijusius su odontologijos praktikos licencijavimo sąlygų laikymusi. ^s-09ab2e781a6cdc4f4a383c71
 
 
 
@@ -274,7 +274,7 @@ ODONTOLOGIJOS PRAKTIKA
 2) odontologas dėl sveikatos būklės negali atlikti profesinių pareigų; ^s-a80db98775711fc264a76440
 
 
-3) odontologas nevykdė vienos iš šio Įstatymo [[#^s-917a3fd49a6c43b5b32dc3d7|9 straipsnio]] 1, 3 ar [[#^s-6c873a7fe93ec2c39206ec95|4 punktuose]] nustatytų profesinių pareigų; ^s-444a9165777789b29a327562
+3) odontologas nevykdė vienos iš šio Įstatymo [[#^s-917a3fd49a6c43b5b32dc3d7|9 straipsnio]] 1, 3 ar 4 punktuose nustatytų profesinių pareigų; ^s-444a9165777789b29a327562
 
 
 4) odontologų profesinės kompetencijos vertinimo komisija nustatė, kad odontologas per kalendorinius metus padarė dvi ar daugiau odontologijos praktikos klaidų. ^s-6c873a7fe93ec2c39206ec95
@@ -410,23 +410,23 @@ RESPUBLIKOS PREZIDENTAS                                                         
 
 Lietuvos Respublikos
 1996 m.kovo 28 d.
-[[latest/TAR.B8F45E398856|įstatymo Nr. I-1246]]
+įstatymo Nr. I-1246
 priedas
 
 Įgyvendinami Europos Sąjungos teisės aktai
 
 
 
-1. 1978 m. liepos 25 d. Tarybos direktyvos 78/687/EEB dėl įstatymų ir kitų teisės aktų nuostatų, reglamentuojančių dantų gydytojų veiklą, suderinimo 1, 2, [[#^s-6769281fe9707d264d5375a4|5 straipsniai]]. ^s-322f3adfb60e84cc828a9022
+1. 1978 m. liepos 25 d. Tarybos direktyvos 78/687/EEB dėl įstatymų ir kitų teisės aktų nuostatų, reglamentuojančių dantų gydytojų veiklą, suderinimo 1, 2, [[#^s-6769281fe9707d264d5375a4|5]] straipsniai. ^s-322f3adfb60e84cc828a9022
 
 
-2. 1978 m. liepos 25 d. Tarybos direktyvos 78/686/EEB dėl dantų gydytojų diplomų, pažymėjimų ir kitų oficialią kvalifikaciją patvirtinančių dokumentų abipusio pripažinimo, įskaitant priemones, padedančias veiksmingai naudotis įsisteigimo teise ir laisve teikti paslaugas 2, 4, 13, 15 straipsniai. ^s-96a76515215de042d8f7ec43
+2. 1978 m. liepos 25 d. Tarybos direktyvos 78/686/EEB dėl dantų gydytojų diplomų, pažymėjimų ir kitų oficialią kvalifikaciją patvirtinančių dokumentų abipusio pripažinimo, įskaitant priemones, padedančias veiksmingai naudotis įsisteigimo teise ir laisve teikti paslaugas 2, [[#^s-ff0de1d121b1d5e842138f7b|4]], 13, 15 straipsniai. ^s-96a76515215de042d8f7ec43
 
 
 3. 1989 m. spalio 30 d. Tarybos direktyvos 89/594/EEB, iš dalies keičiančios Direktyvas 75/362/EEB, 77/452/EEB, 78/686/EEB, 78/1026/EEB ir 80/154/EEB dėl gydytojo, bendrosios praktikos slaugytojo, dantų gydytojo, veterinarijos gydytojo ir akušerio diplomų, pažymėjimų ir kitų oficialias kvalifikacijas patvirtinančių dokumentų abipusio pripažinimo, taip pat Direktyvas 75/363/EEB, 78/1027/EEB ir 80/155/EEB dėl įstatymų ir kitų teisės aktų nuostatų, susijusių su gydytojų, veterinarijos gydytojų ir akušerių veikla, derinimo 15 straipsnis. ^s-9e2bd05919c8e5ff4a9279ef
 
 
-4. 2001 m. gegužės 14 d. Europos Parlamento ir Tarybos direktyvos 2001/19/EB, iš dalies keičiančios Tarybos direktyvas 89/48/EEB ir 92/51/EEB dėl profesinių kvalifikacijų pripažinimo bendrosios sistemos ir Tarybos direktyvas 77/452/EEB, 77/453/EEB, 78/686/EEB, 78/687/EEB, 78/1026/EEB, 78/1027/EEB, 80/154/EEB, 80/155/EEB, 85/384/EEB, 85/432/EEB, 85/433/EEB ir 93/16/EEB dėl bendrosios praktikos slaugytojo, dantų gydytojo, veterinarijos gydytojo, akušerio, architekto, vaistininko ir gydytojo profesijų 5, [[#^s-bb06f214f828e7e070f6993a|6 straipsniai]]. ^s-c9c0a48884a10cc801f305e8
+4. 2001 m. gegužės 14 d. Europos Parlamento ir Tarybos direktyvos 2001/19/EB, iš dalies keičiančios Tarybos direktyvas 89/48/EEB ir 92/51/EEB dėl profesinių kvalifikacijų pripažinimo bendrosios sistemos ir Tarybos direktyvas 77/452/EEB, 77/453/EEB, 78/686/EEB, 78/687/EEB, 78/1026/EEB, 78/1027/EEB, 80/154/EEB, 80/155/EEB, 85/384/EEB, 85/432/EEB, 85/433/EEB ir 93/16/EEB dėl bendrosios praktikos slaugytojo, dantų gydytojo, veterinarijos gydytojo, akušerio, architekto, vaistininko ir gydytojo profesijų [[#^s-6769281fe9707d264d5375a4|5]], [[#^s-bb06f214f828e7e070f6993a|6]] straipsniai. ^s-c9c0a48884a10cc801f305e8
 
 
 

@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. 3 straipsnio pakeitimas ir papildymas ^s-f46dd35d1a6a06120a9df8dd
 
 
-1. Papildyti 3 straipsnio 1 dalį 9, 10 ir [[#^s-950d8273866e886fac65e5a4|11 punktais]]: ^s-d8279f7bf2154d62603d31c3
+1. Papildyti 3 straipsnio 1 dalį 9, 10 ir 11 punktais: ^s-d8279f7bf2154d62603d31c3
 
 
 „9) nacionalinis investuotojas, nurodytas [[latest/TAR.04F64676CE77|Lietuvos Respublikos atominės elektrinės įstatymo]] ketvirtajame skirsnyje (toliau – nacionalinis investuotojas);

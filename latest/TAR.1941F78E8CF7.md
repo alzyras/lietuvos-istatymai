@@ -58,13 +58,13 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 
 
 1. Valstybinės socialinio draudimo senatvės pensijos papildoma dalis apskaičiuojama asmenims, turintiems teisę gauti valstybinę socialinio draudimo senatvės pensiją ir turintiems valstybinio socialinio pensijų draudimo stažą, įgytą dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu, pagal formulę 0,005 x S x K x D. Joje: ^s-5110f8e270c9ad7713b6e300
-S – visas asmens valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu (8 straipsnio 2, 3 ir 4 dalys bei 54 straipsnio 1 ir [[#^s-58f465f7a76198f8f7319810|2 dalys]]);
+S – visas asmens valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu (8 straipsnio 2, 3 ir 4 dalys bei 54 straipsnio 1 ir 2 dalys);
 K – asmens draudžiamųjų pajamų koeficientas po 1994 m. sausio 1 d. (19 straipsnis, 56 straipsnio 3 dalis);
 D – Vyriausybės patvirtintos einamųjų metų draudžiamosios pajamos, galiojančios tą mėnesį, už kurį mokama pensija (16 straipsnio 1 dalis).
 
 
 2. Asmenų, turinčių valstybinio socialinio pensijų draudimo stažą, įgytą dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu iki 1994 m. sausio 1 d., prašymu valstybinės socialinio draudimo senatvės pensijos papildoma dalis gali būti apskaičiuojama pagal formulę 0,005 x s x k x D + 0,005 x S x K x D. Joje: ^s-58f465f7a76198f8f7319810
-s – asmens valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu iki 1994 m. sausio 1 d. (54 straipsnio 1 ir [[#^s-58f465f7a76198f8f7319810|2 dalys]]);
+s – asmens valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu iki 1994 m. sausio 1 d. (54 straipsnio 1 ir 2 dalys);
 k – asmens draudžiamųjų pajamų koeficientas iki 1994 m. sausio 1 d. (56 straipsnis);
 S – asmens valstybinio socialinio pensijų draudimo stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu po 1994 m. sausio 1 d. (8 straipsnio 2, 3 ir 4 dalys);
 K – asmens draudžiamųjų pajamų koeficientas po 1994 m. sausio 1 d. (19 straipsnis, 56 straipsnio 3 dalis);

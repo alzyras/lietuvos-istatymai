@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Papildomo protokolo ratifikavimas ^s-a0a388c54990425252ccd806
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. gruodžio 1 d. dekretą Nr. 301, ratifikuoja 2001 m. lapkričio 8 d. Strasbūre priimtą Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu Papildomą protokolą dėl priežiūros institucijų ir valstybės sienas kertančių duomenų srautų.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. gruodžio 1 d. dekretą Nr. 301](https://e-tar.lt/portal/lt/legalAct/TAR.5B969A7342DD), ratifikuoja 2001 m. lapkričio 8 d. Strasbūre priimtą Konvencijos dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu Papildomą protokolą dėl priežiūros institucijų ir valstybės sienas kertančių duomenų srautų.
 
 
 

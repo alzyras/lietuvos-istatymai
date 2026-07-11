@@ -119,13 +119,13 @@ Pakeisti [[#^s-8d247869758aa1459673b5b4|4 straipsnį]] ir jį išdėstyti taip:
 ### 4 straipsnis. 5 straipsnio papildymas ir pakeitimas ^s-8d247869758aa1459673b5b4
 
 
-1. Papildyti [[#^s-f2fba4e6c1b24158c06bbd33|5 straipsnį]] nauja [[#^s-15d04c37485a0d2702d428cb|1 dalimi]]: ^s-15d04c37485a0d2702d428cb
+1. Papildyti [[#^s-f2fba4e6c1b24158c06bbd33|5 straipsnį]] nauja 1 dalimi: ^s-15d04c37485a0d2702d428cb
 
 
 „1. Asmenys, pretenduojantys dirbti valstybinėje tarnyboje (išskyrus asmenis, nurodytus šio įstatymo [[#^s-36c18b6c45789f4fb6f3240d|4 straipsnio 2 dalyje]]), pateikia deklaraciją valstybės ar savivaldybės institucijos, kurioje jie pretenduoja dirbti, vadovui ar šio įgaliotam asmeniui iki jų išrinkimo, priėmimo ar paskyrimo į pareigas dienos, jeigu kiti teisės aktai nenustato kitaip.“
 
 
-2. Buvusias šio straipsnio 1, 2, 3 ir 4 dalis laikyti atitinkamai 2, 3, 4 ir 5 dalimis. ^s-36c18b6c45789f4fb6f3240d
+2. Buvusias šio straipsnio [[#^s-15d04c37485a0d2702d428cb|1]], 2, 3 ir 4 dalis laikyti atitinkamai 2, 3, 4 ir 5 dalimis. ^s-36c18b6c45789f4fb6f3240d
 
 
 

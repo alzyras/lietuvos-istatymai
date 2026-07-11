@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-ea656e282afe79e8ac327058
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. liepos 1 d. dekretą Nr. 1826, ratifikuoja Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, protokolą dėl pramonės gaminių atitikties įvertinimo ir pripažinimo, pasirašytą 2002 m. gegužės 21 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. liepos 1 d. dekretą Nr. 1826](https://e-tar.lt/portal/lt/legalAct/TAR.E662653B0E53), ratifikuoja Europos sutarties, steigiančios asociaciją tarp Europos Bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, protokolą dėl pramonės gaminių atitikties įvertinimo ir pripažinimo, pasirašytą 2002 m. gegužės 21 d. Briuselyje.
 
 
 

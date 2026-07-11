@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis.         Įstatymo „Dėl kooperatinių garažų ir sodininkų bendrijų“ pripažinimas netekusiu galios ^s-06758a64ccc437fd45f4a3f8
 
 
-Pripažinti netekusiu galios Lietuvos Respublikos įstatymą „Dėl kooperatinių garažų ir sodininkų bendrijų.“
+Pripažinti netekusiu galios Lietuvos Respublikos įstatymą [„Dėl kooperatinių garažų ir sodininkų bendrijų.“](https://e-tar.lt/portal/lt/legalAct/TAR.73E35BA381A1)
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konsulinės konvencijos ratifikavimas ^s-57738db0cb2fb53603895b52
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 2001 m. vasario 28 d. dekretą Nr. 1219, ratifikuoja Lietuvos Respublikos ir Gruzijos konsulinę konvenciją, pasirašytą 1999 m. liepos 12 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento [2001 m. vasario 28 d. dekretą Nr. 1219](https://e-tar.lt/portal/lt/legalAct/TAR.C18EFCE0C6BF), ratifikuoja Lietuvos Respublikos ir Gruzijos konsulinę konvenciją, pasirašytą 1999 m. liepos 12 d. Vilniuje.
 
 
 

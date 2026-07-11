@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos viešųjų ir privačių interesų derinimo v
 
 ## Šis įstatymas cituoja
 
-- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Lietuvos Respublikos darbo kodekso
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės tarnybos įstatymas
+- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos darbo kodekso
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - Lietuvos Respublikos valstybės tarnybos įstatymas
 
 ## Šį įstatymą cituoja
 

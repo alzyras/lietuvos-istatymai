@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.DDA1BD559D9B#^s-90edb2fe6609b49fdc1f0ca5|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - Įstatymas Nr. IX-195
-- [[latest/TAR.DDA1BD559D9B#^s-940958e116e55e8e984215a5|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - Įstatymas Nr. IX-195
+_Nėra._

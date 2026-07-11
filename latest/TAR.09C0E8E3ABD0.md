@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-051ebd5c341ce2cca45543fb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2004 m. vasario 12 d. dekretą Nr. 368, ratifikuoja 2003 m. rugsėjo 15 d. Jerevane pasirašytą Lietuvos Respublikos Vyriausybės ir Armėnijos Respublikos Vyriausybės susitarimą dėl asmenų, kurių buvimas neteisėtas, readmisijos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2004 m. vasario 12 d. dekretą Nr. 368](https://e-tar.lt/portal/lt/legalAct/TAR.B7CD9E8A4782), ratifikuoja 2003 m. rugsėjo 15 d. Jerevane pasirašytą Lietuvos Respublikos Vyriausybės ir Armėnijos Respublikos Vyriausybės susitarimą dėl asmenų, kurių buvimas neteisėtas, readmisijos.
 
 
 

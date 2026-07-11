@@ -338,7 +338,7 @@ Papildyti Įstatymą 84 straipsniu:
 1) asmuo, turintis licenciją ar laikinąjį leidimą, nusprendžia nutraukti veiklą ir raštu kreipiasi į Radiacinės saugos centrą su prašymu panaikinti licencijos ar laikinojo leidimo galiojimą; ^s-5d7a7b368344d07ca1148bfd
 
 
-2) asmuo, turintis licenciją ar laikinąjį leidimą, per Radiacinės saugos centro nurodytą laiką nepašalina pažeidimų ir (ar) trūkumų, dėl kurių [[#^s-da6e1bcbfc911ab8590b66b0|šio straipsnio 3 dalies]] 1, 2 ir [[#^s-014bd201e8a060b21619011c|3 punktuose]] nustatytais pagrindais sustabdytas licencijos ar laikinojo leidimo galiojimas; ^s-959b29ba2cc74ced8f4e1fb3
+2) asmuo, turintis licenciją ar laikinąjį leidimą, per Radiacinės saugos centro nurodytą laiką nepašalina pažeidimų ir (ar) trūkumų, dėl kurių [[#^s-da6e1bcbfc911ab8590b66b0|šio straipsnio 3 dalies]] [[#^s-5d7a7b368344d07ca1148bfd|1]], 2 ir [[#^s-014bd201e8a060b21619011c|3]] punktuose nustatytais pagrindais sustabdytas licencijos ar laikinojo leidimo galiojimas; ^s-959b29ba2cc74ced8f4e1fb3
 
 
 3) juridinis asmuo, kita organizacija ar jų filialas, turintys licenciją ar laikinąjį leidimą, baigiasi likvidavimo arba reorganizavimo būdu, fizinis asmuo, turintis licenciją ar laikinąjį leidimą, mirė.“ ^s-014bd201e8a060b21619011c

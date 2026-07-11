@@ -10,7 +10,7 @@ pavadinimas: "Lietuvos Respublikos bausmių vykdymo kodekso 32, 36, 51, 54, 60, 
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Baudžiamojo proceso kodeksas
-- [[latest/TAR.11A8B08A7405|Lietuvos Respublikos suėmimo vykdymo įstatymas]] - 2 citatos - „Kardomojo kalinimo įstatymas“
+- [[latest/TAR.11A8B08A7405|Lietuvos Respublikos suėmimo vykdymo įstatymas]] - 3 citatos - Suėmimo vykdymo įstatymas
 
 ## Šį įstatymą cituoja
 

@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos žvalgybos įstatymo Nr. VIII-1861 64-1 strai
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.1881C195D0E2|Lietuvos Respublikos žvalgybos įstatymas]] - šio straipsnio 19 dalyje
+- [[latest/TAR.1881C195D0E2#^s-3fdf22e73c567be047fa4d84|Lietuvos Respublikos žvalgybos įstatymas]] - 641 straipsnio 20 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.1881C195D0E2#^s-90cc9932f1e115589dac8c98|Lietuvos Respublikos žvalgybos įstatymas]] - Įstatymas Nr. XV-665
-- [[latest/TAR.1881C195D0E2#^s-dea61a5c20c14c292582f1ba|Lietuvos Respublikos žvalgybos įstatymas]] - Įstatymas Nr. XV-665
+_Nėra._

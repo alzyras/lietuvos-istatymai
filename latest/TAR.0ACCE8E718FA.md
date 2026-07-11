@@ -45,7 +45,7 @@ Vilnius
 1. Papildyti 5 straipsnį nauja 16 dalimi: ^s-a1bbd5345842f9b8891aca0d
 
 
-„16. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (toliau – Reglamentas (ES) Nr. 1177/2010), taikomas keleiviams, kurie keliauja šio reglamento [[#^s-a829293a6b4f270c53d80a8d|2 straipsnio]] 1 ir [[#^s-4ce6079aa877184155ca2f77|2 dalyse]] nustatytomis sąlygomis.“
+„16. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1177/2010](https://eur-lex.europa.eu/eli/reg/1177/2010/oj) dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas [Reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) (toliau – [Reglamentas (ES) Nr. 1177/2010](https://eur-lex.europa.eu/eli/reg/1177/2010/oj)), taikomas keleiviams, kurie keliauja šio reglamento [[#^s-a829293a6b4f270c53d80a8d|2 straipsnio]] [[#^s-6786aadb299d2051cddae6c8|1]] ir [[#^s-3e96cf8e546a54d41d2eb6b4|2]] dalyse nustatytomis sąlygomis.“
 
 
 2. Buvusias 5 straipsnio 16 ir 17 dalis laikyti atitinkamai 17 ir 18 dalimis. ^s-4ce6079aa877184155ca2f77
@@ -62,10 +62,10 @@ Papildyti Įstatymą 361 straipsniu:
 „361 straipsnis. Keleivių ir jūrų kruizų dalyvių teisių užtikrinimas ir skundų nagrinėjimas
 
 
-1. Lietuvos saugios laivybos administracija užtikrina Reglamento (ES) Nr. 1177/2010 nuostatų, susijusių su keleivių vežimo paslaugomis ir jūrų kruizais, išskyrus keleivių ir kruizų dalyvių skundų dėl jų teisių, nurodytų šiame reglamente, pažeidimų nagrinėjimą, vykdymą. ^s-6786aadb299d2051cddae6c8
+1. Lietuvos saugios laivybos administracija užtikrina [Reglamento (ES) Nr. 1177/2010](https://eur-lex.europa.eu/eli/reg/1177/2010/oj) nuostatų, susijusių su keleivių vežimo paslaugomis ir jūrų kruizais, išskyrus keleivių ir kruizų dalyvių skundų dėl jų teisių, nurodytų šiame reglamente, pažeidimų nagrinėjimą, vykdymą. ^s-6786aadb299d2051cddae6c8
 
 
-2. Valstybinė vartotojų teisių apsaugos tarnyba nagrinėja keleivių ir kruizų dalyvių skundus dėl jų teisių, nurodytų Reglamente (ES) Nr. 1177/2010, pažeidimų [[latest/TAR.D790096B17EE|Vartotojų teisių apsaugos įstatymo]] nustatyta tvarka. Prieš pateikdamas skundą Valstybinei vartotojų teisių apsaugos tarnybai, keleivis ar kruizo dalyvis privalo pateikti skundą vežėjui, kruizo organizatoriui ar terminalo operatoriui.“ ^s-3e96cf8e546a54d41d2eb6b4
+2. Valstybinė vartotojų teisių apsaugos tarnyba nagrinėja keleivių ir kruizų dalyvių skundus dėl jų teisių, nurodytų [Reglamente (ES) Nr. 1177/2010](https://eur-lex.europa.eu/eli/reg/1177/2010/oj), pažeidimų [[latest/TAR.D790096B17EE|Vartotojų teisių apsaugos įstatymo]] nustatyta tvarka. Prieš pateikdamas skundą Valstybinei vartotojų teisių apsaugos tarnybai, keleivis ar kruizo dalyvis privalo pateikti skundą vežėjui, kruizo organizatoriui ar terminalo operatoriui.“ ^s-3e96cf8e546a54d41d2eb6b4
 
 
 
@@ -75,7 +75,7 @@ Papildyti Įstatymą 361 straipsniu:
 Papildyti Įstatymo priedą 5 punktu:
 
 
-„5. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2010 L 334, p. 1).“
+„5. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1177/2010](https://eur-lex.europa.eu/eli/reg/1177/2010/oj) dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas [Reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) (OL 2010 L 334, p. 1).“
 
 
 

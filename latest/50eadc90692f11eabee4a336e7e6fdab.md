@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 37 straipsnio pakeitimas ^s-9f67a070c40d665d00fff12c
 
 
-Papildyti 37 straipsnį 6 dalimi:
+Papildyti [[latest/TAR.96A68BFC9E82#^s-c9edf67ee4b4bf1da77c24db|37 straipsnį 6 dalimi]]:
 
 
 „6. Karo, nepaprastosios padėties, mobilizacijos, karantino, ekstremaliosios situacijos ar ekstremaliojo įvykio metu ar kai būtina neatidėliotinai spręsti klausimus, būtinus valstybės karinės gynybos ir kitoms gyvybiškai svarbioms valstybės funkcijoms užtikrinti, ir jeigu šiais atvejais teisės akto projekto nepriėmimas nedelsiant lemtų neigiamų pasekmių valstybės ir visuomenės saugumui ir stabilumui atsiradimą, taip pat kai reikia skelbti gedulą, Vyriausybės posėdžiai ir pasitarimai gali vykti nuotoliniu būdu realiuoju laiku elektroninių ryšių priemonėmis (toliau – nuotolinis būdas). Šiuo būdu priimant Vyriausybės nutarimus, sprendimus ir rezoliucijas, turi būti užtikrintas Vyriausybės nario tapatybės ir jo balsavimo rezultatų nustatymas.“
@@ -50,7 +50,7 @@ Papildyti 37 straipsnį 6 dalimi:
 ### 2 straipsnis. 38 straipsnio pakeitimas ^s-969ce57b32c0972e57ebed9e
 
 
-Pakeisti 38 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.96A68BFC9E82#^s-8b57c4994b288107b5be3a68|38 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Vyriausybei teikiamas teisės akto projektas, susijęs ne tik su jį parengusios (teikiančios) institucijos kompetencija, bet ir su kitų institucijų kompetencija, turi būti su jomis derintas Vyriausybės darbo reglamento nustatyta tvarka, išskyrus atvejus, kai teisės akto projektas teikiamas Vyriausybei karo, nepaprastosios padėties, mobilizacijos, karantino, ekstremaliosios situacijos ar ekstremaliojo įvykio metu ar kai teisės akto projektu būtina neatidėliotinai spręsti klausimus, būtinus valstybės karinės gynybos ir kitoms gyvybiškai svarbioms valstybės funkcijoms užtikrinti, ir jeigu šiais atvejais teisės akto projekto nepriėmimas nedelsiant lemtų neigiamų pasekmių valstybės ir visuomenės saugumui ir stabilumui atsiradimą, taip pat kai teisės akto projektu siūloma skelbti gedulą. Vyriausybei teikiamų nutarimų projektų pagal Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymą derinimo su kitomis institucijomis tvarką nustato Vyriausybė.“
@@ -60,10 +60,10 @@ Pakeisti 38 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 3 straipsnis. 42 straipsnio pakeitimas ^s-657fbc22b0e993817cf8cdcc
 
 
-Papildyti 42 straipsnį 3 dalimi:
+Papildyti [[latest/TAR.96A68BFC9E82#^s-2a18495609dae7f3605ce57a|42 straipsnį 3 dalimi]]:
 
 
-„3. Kai šio įstatymo 37 straipsnio 6 dalyje nustatytais atvejais Vyriausybės posėdžiai ir pasitarimai vyksta nuotoliniu būdu, šio straipsnio 1 dalies nuostatos gali būti netaikomos, jeigu tam nėra techninių galimybių. Jeigu Vyriausybės posėdis dėl techninių galimybių nebuvo transliuojamas internetu ir svarstytiems klausimams netaikomi šio straipsnio 1 dalyje nustatyti apribojimai dėl viešinimo, kai yra techninės galimybės, viešinamas šio posėdžio vaizdo įrašas. Vyriausybės pasitarimo, vykusio nuotoliniu būdu, vaizdo įrašas gali būti viešinamas atsižvelgiant į technines galimybes ir svarstomų klausimų pobūdį. Jeigu nuotoliniu būdu vykęs Vyriausybės posėdis arba pasitarimas nebuvo transliuojamas internetu ir neviešinamas jo vaizdo įrašas, Vyriausybė turi nedelsdama informuoti visuomenę apie šio posėdžio metu priimtus sprendimus.“
+„3. Kai šio įstatymo [[latest/TAR.96A68BFC9E82#^s-c9edf67ee4b4bf1da77c24db|37 straipsnio 6 dalyje]] nustatytais atvejais Vyriausybės posėdžiai ir pasitarimai vyksta nuotoliniu būdu, [[latest/TAR.96A68BFC9E82|šio straipsnio 1 dalies]] nuostatos gali būti netaikomos, jeigu tam nėra techninių galimybių. Jeigu Vyriausybės posėdis dėl techninių galimybių nebuvo transliuojamas internetu ir svarstytiems klausimams netaikomi [[latest/TAR.96A68BFC9E82|šio straipsnio 1 dalyje]] nustatyti apribojimai dėl viešinimo, kai yra techninės galimybės, viešinamas šio posėdžio vaizdo įrašas. Vyriausybės pasitarimo, vykusio nuotoliniu būdu, vaizdo įrašas gali būti viešinamas atsižvelgiant į technines galimybes ir svarstomų klausimų pobūdį. Jeigu nuotoliniu būdu vykęs Vyriausybės posėdis arba pasitarimas nebuvo transliuojamas internetu ir neviešinamas jo vaizdo įrašas, Vyriausybė turi nedelsdama informuoti visuomenę apie šio posėdžio metu priimtus sprendimus.“
 
 
 

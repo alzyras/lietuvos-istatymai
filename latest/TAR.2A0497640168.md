@@ -70,7 +70,7 @@ Vilniaus mieste steigiama viena hipotekos įstaiga.
 Hipotekos įstaiga yra juridinis asmuo, turi antspaudą su Lietuvos valstybės herbu ir sąskaitą banke.
 
 
-Hipotekos įstaigos vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais Lietuvos Respublikos įstatymais, Vyriausybės nutarimais, Teisingumo ministerijos teisės aktais bei Hipotekos įstaigų nuostatais.
+Hipotekos įstaigos vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais Lietuvos Respublikos įstatymais, Vyriausybės nutarimais, Teisingumo ministerijos teisės aktais bei Hipotekos įstaigų nuostatais.
 
 
 ### 682 straipsnis. Hipotekos teisėjas ^s-eacfd44f25a1aeaf0c5b70a8

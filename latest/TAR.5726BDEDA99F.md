@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-004df05bcdc4893a3d90ce64
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. vasario 24 d. dekretą Nr. 210, ratifikuoja Susitarimą dėl mažųjų banginių apsaugos Baltijos ir Šiaurės jūrose, priimtą 1992 m. kovo 17 d. Niujorke.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. vasario 24 d. dekretą Nr. 210](https://e-tar.lt/portal/lt/legalAct/TAR.80E55E9300EF), ratifikuoja Susitarimą dėl mažųjų banginių apsaugos Baltijos ir Šiaurės jūrose, priimtą 1992 m. kovo 17 d. Niujorke.
 
 
 

@@ -141,7 +141,7 @@ II SKIRSNIS
 Institucija, priėmusi nutarimą (sprendimą) įsteigti įmonę, yra tos įmonės steigėja. Vyriausybė ar savivaldybės taryba, jeigu viena iš jų yra įmonės steigėja, gali įmonės steigimo aktu įgalioti pavaldžias institucijas vykdyti visas ar dalį įmonės steigėjos funkcijų.
 
 
-2. Įmonių steigimą reglamentuoja Lietuvos Respublikos įmonių įstatymas, šis įstatymas ir kiti teisės aktai. ^s-aeccf5d4dc17822891861cf0
+2. Įmonių steigimą reglamentuoja [Lietuvos Respublikos įmonių įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B), šis įstatymas ir kiti teisės aktai. ^s-aeccf5d4dc17822891861cf0
 
 
 
@@ -193,7 +193,7 @@ Institucija, priėmusi nutarimą (sprendimą) įsteigti įmonę, yra tos įmonė
 3. Įstatus tvirtina įmonės steigėjas. Institucijos vadovo parašas tvirtinamas antspaudu. ^s-963c337735ea41916f81b832
 
 
-4. Įstatus keisti ir papildyti iniciatyvos teisę turi ir įmonės administracija, ir steigėjas. Pakeistus ar papildytus įstatus tvirtina steigėjas. Įstatų pakeitimai ir papildymai įsigalioja nuo jų įregistravimo Lietuvos Respublikos įmonių rejestro įstatymo nustatyta tvarka. ^s-710012968dfc56c1e43fc278
+4. Įstatus keisti ir papildyti iniciatyvos teisę turi ir įmonės administracija, ir steigėjas. Pakeistus ar papildytus įstatus tvirtina steigėjas. Įstatų pakeitimai ir papildymai įsigalioja nuo jų įregistravimo [Lietuvos Respublikos įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka. ^s-710012968dfc56c1e43fc278
 
 
 
@@ -213,7 +213,7 @@ Institucija, priėmusi nutarimą (sprendimą) įsteigti įmonę, yra tos įmonė
 2. Filialui leidžiama turėti subsąskaitą. Filialo turtas apskaitomas įmonės finansinėje atskaitomybėje, taip pat atskiroje filialo finansinėje atskaitomybėje. ^s-90ac79177cb7463198e78378
 
 
-3. Filialas registruojamas Įmonių rejestro įstatymo nustatyta tvarka. ^s-55429ba4ab8aea2fac3fbcfa
+3. Filialas registruojamas [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka. ^s-55429ba4ab8aea2fac3fbcfa
 
 
 
@@ -244,13 +244,13 @@ Būtinas įmonės valdymo organas yra administracija. Steigėjo sprendimu įmon�
 4. Administracijos veiklai vadovauja administracijos vadovas (generalinis direktorius, direktorius). ^s-c3b4314ddd7ebfbfdcf5d593
 
 
-5. Darbo sutartis su administracijos vadovu, vyriausiuoju finansininku (buhalteriu) ir darbuotojais kitų pareigybių, į kurias skirti darbuotojus steigėjo teisė nustatyta įmonės įstatuose, sudaro steigėjas įmonės vardu Lietuvos Respublikos darbo sutarties įstatymo nustatyta tvarka. ^s-8ead72b725a6afe75908bcea
+5. Darbo sutartis su administracijos vadovu, vyriausiuoju finansininku (buhalteriu) ir darbuotojais kitų pareigybių, į kurias skirti darbuotojus steigėjo teisė nustatyta įmonės įstatuose, sudaro steigėjas įmonės vardu [Lietuvos Respublikos darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) nustatyta tvarka. ^s-8ead72b725a6afe75908bcea
 
 
 6. Administracijos vadovu negali būti skiriamas asmuo, kuriam įstatymų nustatyta tvarka atimta teisė eiti tokias pareigas. Administracijos vadovas negali būti kitos bet kurios rūšies įmonės vadovu, valdybos, stebėtojų tarybos nariu, revizoriumi. Jeigu skiriant jis tokias pareigas eina, tai per vieną mėnesį po paskyrimo privalo iš jų atsistatydinti. ^s-8a1e1183b0feb3a63395c2bb
 
 
-7. Steigėjas gali nutraukti darbo sutartį su jo skirtais darbuotojais Darbo sutarties įstatymo nustatyta tvarka. ^s-e2f553aebefacc6162a13d28
+7. Steigėjas gali nutraukti darbo sutartį su jo skirtais darbuotojais [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) nustatyta tvarka. ^s-e2f553aebefacc6162a13d28
 
 
 8. Administracijos vadovas sudaro kolektyvines sutartis, priima į darbą įmonėje darbuotojus ir sudaro su jais darbo sutartis. ^s-aacb8faa1c79f080ebd7e520
@@ -372,7 +372,7 @@ IV SKIRSNIS
 4) kitų subjektų suteikta parama. ^s-f27ad3dd27d88c3b3303b1a6
 
 
-3 ir 4 punktuose nurodytais atvejais įmonės kapitalas gali būti didinamas steigėjo sprendimu, o valstybės įmonėse – ir Lietuvos Respublikos Vyriausybės nutarimu.
+[[#^s-bf7045728c147194e92ec7da|3]] ir 4 punktuose nurodytais atvejais įmonės kapitalas gali būti didinamas steigėjo sprendimu, o valstybės įmonėse – ir Lietuvos Respublikos Vyriausybės nutarimu.
 
 
 2. Padidinusi valstybinį kapitalą, įmonė privalo įregistruoti padidintą įmonės įstatinį kapitalą. Padidintas įmonės įstatinis kapitalas įsigalioja nuo jo įregistravimo. ^s-9c3257648f519119769f6c36
@@ -391,7 +391,7 @@ IV SKIRSNIS
 3. Mažindama įstatinį kapitalą, įmonė privalo suteikti papildomas savo prievolių įvykdymo garantijas kiekvienam to pareikalavusiam savo kreditoriui. ^s-430b5164e48d0743125e82ce
 
 
-4. Dėl įstatinio kapitalo sumažinimo įmonės įstatų pakeitimai registruojami Įmonių rejestro įstatymo nustatyta tvarka ir ne anksčiau kaip praėjus 6 mėnesiams po pirmojo ir 30 dienų – po trečiojo viešo paskelbimo arba 3 mėnesiams po to, kai buvo pranešta visiems kreditoriams bei buvo suteiktos papildomos garantijos jų pareikalavusiems. Įstatinis kapitalas laikomas sumažintu tik tada, kai įstatų pakeitimai yra įregistruoti Įmonių rejestre. ^s-4128fae8cfb4f6c7d0455e82
+4. Dėl įstatinio kapitalo sumažinimo įmonės įstatų pakeitimai registruojami [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka ir ne anksčiau kaip praėjus 6 mėnesiams po pirmojo ir 30 dienų – po trečiojo viešo paskelbimo arba 3 mėnesiams po to, kai buvo pranešta visiems kreditoriams bei buvo suteiktos papildomos garantijos jų pareikalavusiems. Įstatinis kapitalas laikomas sumažintu tik tada, kai įstatų pakeitimai yra įregistruoti Įmonių rejestre. ^s-4128fae8cfb4f6c7d0455e82
 
 
 
@@ -569,7 +569,7 @@ Kartu su reorganizavimo projektu turi būti parengtas kiekvienos po reorganizavi
 12. Apie įmonės reorganizavimą viešai skelbiama 3 kartus su ne mažesniu kaip 2 mėnesių intervalu arba kiekvienam kreditoriui pranešama raštu. ^s-f119989cc64c7a868691fe0e
 
 
-13. Po reorganizavimo veikiančios įmonės arba bendrovės turi būti įregistruotos atitinkamos rūšies įmonių įstatymo ir Įmonių rejestro įstatymo nustatyta tvarka. ^s-89135ae40f0f611789b09b2a
+13. Po reorganizavimo veikiančios įmonės arba bendrovės turi būti įregistruotos atitinkamos rūšies [įmonių įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B) ir [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka. ^s-89135ae40f0f611789b09b2a
 
 
 
@@ -594,7 +594,7 @@ Kartu su reorganizavimo projektu turi būti parengtas kiekvienos po reorganizavi
 2. Institucija, nutarusi likviduoti įmonę, skiria likvidatorių (likviduojamos įmonės administratorių). Nuo likvidatoriaus paskyrimo dienos įmonės administracija netenka įgaliojimų valdyti įmonę, jos funkcijas atlieka likvidatorius. ^s-92a721a68f2e3c84ebdddde3
 
 
-3. Likvidatorius Įmonių rejestro įstatymo nustatyta tvarka praneša įmonę registravusiam rejestro tvarkytojui apie įmonės statuso pasikeitimą ir duomenis apie likvidatorių. Įmonei įgijus likviduojamos įmonės statusą, prieš jos pavadinimą rašomas žodis „likviduojama“. ^s-499a3350b17f0edfae10b109
+3. Likvidatorius [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka praneša įmonę registravusiam rejestro tvarkytojui apie įmonės statuso pasikeitimą ir duomenis apie likvidatorių. Įmonei įgijus likviduojamos įmonės statusą, prieš jos pavadinimą rašomas žodis „likviduojama“. ^s-499a3350b17f0edfae10b109
 
 
 4. Likviduojama įmonė gali sudaryti tik tuos sandorius, kurie susiję su jos likvidavimu, taip pat kitus, kurie numatyti likvidavimo sprendime. ^s-3118d5552a210c211a4bee6a
@@ -629,7 +629,7 @@ Praėjus ne mažiau kaip dviems mėnesiams nuo tos dienos, kai trečią kartą b
 5) sudaro įmonės likvidavimo aktą; ^s-139e452b96a546049d5aecc9
 
 
-6) likviduotą įmonę išregistruoja Įmonių rejestro įstatymo nustatyta tvarka. ^s-f856b5b397fd50b7e7f54ee7
+6) likviduotą įmonę išregistruoja [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka. ^s-f856b5b397fd50b7e7f54ee7
 
 
 3. Jei įmonės likvidavimas trunka keletą metų, tai po kiekvienų ūkinių metų pabaigos per 3 mėnesius likvidatorius sudaro metinę finansinę atskaitomybę ir likvidavimo ataskaitą. Šiuos dokumentus tvirtina steigėjas. ^s-6be069c6232b71b4b0fe2159
@@ -647,7 +647,7 @@ BAIGIAMOSIOS NUOSTATOS
 22 straipsnis
 
 
-1. Valstybinės įmonės, kurios įrašytos į Lietuvos Respublikos Seimo patvirtintą įmonių, kurių nenumatoma iki 2000 metų nei akcionuoti, nei privatizuoti, sąrašą, turi pataisyti savo įstatus pagal šį įstatymą ir įregistruoti juos per 3 mėnesius nuo šio įstatymo įsigaliojimo Įmonių rejestro įstatymo nustatyta tvarka. Šių įmonių įstatai iki jų perregistravimo galioja tiek, kiek jie neprieštarauja šiam įstatymui. ^s-f0309aaeb0674d9118a83be6
+1. Valstybinės įmonės, kurios įrašytos į Lietuvos Respublikos Seimo patvirtintą įmonių, kurių nenumatoma iki 2000 metų nei akcionuoti, nei privatizuoti, sąrašą, turi pataisyti savo įstatus pagal šį įstatymą ir įregistruoti juos per 3 mėnesius nuo šio įstatymo įsigaliojimo [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka. Šių įmonių įstatai iki jų perregistravimo galioja tiek, kiek jie neprieštarauja šiam įstatymui. ^s-f0309aaeb0674d9118a83be6
 
 
 2. Įmonių, kurios priklauso savivaldybių reguliavimo sričiai, steigėjo funkcijas, nustatytas šio įstatymo, iki įmonės bus perduotos savivaldybių nuosavybėn, atlieka atitinkamos savivaldybės taryba. ^s-44948ad25d1cebe11fef29b3
@@ -656,7 +656,7 @@ BAIGIAMOSIOS NUOSTATOS
 3. Valstybinėms, valstybinėms akcinėms įmonėms, kol jos bus perregistruotos pagal Lietuvos Respublikos akcinių bendrovių įstatymą ar pagal Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymą, draudžiama iš likutinio pelno mokėti atlyginimus, premijas bei skirti šias lėšas kitoms vartojimo reikmėms ir akciniam kapitalui sudaryti bei didinti. ^s-abbda927e7994735b76e17c2
 
 
-4. Pripažinti netekusiais galios Lietuvos Respublikos valstybinių įmonių įstatymą (Žin., 1990, Nr. 30-709; 1991, Nr. 4-107; 1992, Nr. 30-914; 1993, Nr. 31-710, Nr. 32-730, Nr. 49-963, Nr. 52-995, Nr. 62-1169) ir Lietuvos Respublikos Aukščiausiosios Tarybos nutarimą „Dėl Lietuvos Respublikos valstybinių įmonių įstatymo įsigaliojimo tvarkos“ (Žin., 1990, Nr. 30-710, Nr. 32-771). ^s-192151623f891febcdbdbb54
+4. Pripažinti netekusiais galios Lietuvos Respublikos valstybinių įmonių įstatymą (Žin., 1990, Nr. 30-709; 1991, Nr. 4-107; 1992, Nr. 30-914; 1993, Nr. 31-710, Nr. 32-730, Nr. 49-963, Nr. 52-995, Nr. 62-1169) ir Lietuvos Respublikos Aukščiausiosios Tarybos nutarimą [„Dėl Lietuvos Respublikos valstybinių įmonių įstatymo įsigaliojimo tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.5043AD86C89F) (Žin., 1990, Nr. 30-710, Nr. 32-771). ^s-192151623f891febcdbdbb54
 
 
 

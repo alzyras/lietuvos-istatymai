@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Pataisos ratifikavimas ^s-44af94f36c1d99b4f2d2a2f1
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. gruodžio 28 d. dekretą Nr. 1629, ratifikuoja 1989 m. Vaiko teisių konvencijos 43 straipsnio 2 dalies pataisą, patvirtintą Jungtinių Tautų Generalinėje Asamblėjoje 1995 m. gruodžio 21 d.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. gruodžio 28 d. dekretą Nr. 1629](https://e-tar.lt/portal/lt/legalAct/TAR.6478C0A58066), ratifikuoja 1989 m. Vaiko teisių konvencijos 43 straipsnio 2 dalies pataisą, patvirtintą Jungtinių Tautų Generalinėje Asamblėjoje 1995 m. gruodžio 21 d.
 
 
 

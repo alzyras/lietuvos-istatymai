@@ -132,7 +132,7 @@ priedas
 16. 2001 m. kovo 19 d. Europos Parlamento ir Tarybos direktyva 2001/17/EB dėl draudimo įmonių reorganizavimo ir likvidavimo (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 3). ^s-58874dc60b3bc8d0b0201e91
 
 
-17. 2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 251). ^s-2bce840ec5b9a01dc2b6de3d
+17. 2001 m. spalio 8 d. Tarybos [reglamentas (EB) Nr. 2157/2001](https://eur-lex.europa.eu/eli/reg/2157/2001/oj) dėl Europos bendrovės (SE) statuto (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 251). ^s-2bce840ec5b9a01dc2b6de3d
 
 
 18. 2002 m. kovo 5 d. Europos Parlamento ir Tarybos direktyva 2002/13/EB, iš dalies pakeičianti Tarybos direktyvą 73/239/EEB dėl ne gyvybės draudimo įmonėms keliamų mokumo atsargų reikalavimų (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 310). ^s-33bae4fcfdc32905158ac783

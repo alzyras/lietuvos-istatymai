@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo priedėlio 14 skyriaus antrojo skirsnio 1 ir 3 dalių pakeitimas ^s-bb59b8c9453d48a5b2f93c49
 
 
-1. 14 skyriaus antrojo skirsnio [[#^s-2ae0ec8db70ffc0de47bae0c|1 dalyje]] vietoj žodžio „grėsmėms“ įrašyti žodžius „kriziniams reiškiniams“ ir šią dalį išdėstyti taip: ^s-2ae0ec8db70ffc0de47bae0c
+1. 14 skyriaus antrojo skirsnio 1 dalyje vietoj žodžio „grėsmėms“ įrašyti žodžius „kriziniams reiškiniams“ ir šią dalį išdėstyti taip: ^s-2ae0ec8db70ffc0de47bae0c
 
 
 „Krizių valdymo sistema kuriama ir plėtojama pavojų keliančioms bei ekstremalioms situacijoms ir kriziniams reiškiniams prognozuoti, stebėti, prevencinėms priemonėms parengti ir vykdyti, krizėms nustatyti bei valdyti, padariniams pašalinti.“

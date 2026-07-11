@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-e8c6dd8317d52640b3dace44
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. vasario 4 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos konvenciją dėl bendradarbiavimo per sienas tarp teritorinių bendrijų ir valdžios organų“, ratifikuoja Europos konvenciją dėl bendradarbiavimo per sienas tarp teritorinių bendrijų ir valdžios organų, pasirašytą 1996 m. birželio 7 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. vasario 4 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos konvenciją dėl bendradarbiavimo per sienas tarp teritorinių bendrijų ir valdžios organų“](https://e-tar.lt/portal/lt/legalAct/TAR.0FD6F4509334), ratifikuoja Europos konvenciją dėl bendradarbiavimo per sienas tarp teritorinių bendrijų ir valdžios organų, pasirašytą 1996 m. birželio 7 d. Strasbūre.
 
 
 

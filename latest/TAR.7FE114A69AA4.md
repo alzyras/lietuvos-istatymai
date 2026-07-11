@@ -47,7 +47,7 @@ Vilnius
 „8) kovo 27-oji – Tarptautinė teatro diena;“.
 
 
-2. Buvusius [[#^s-11012e46029b0311e28b4b8f|1 straipsnio 2 dalies]] 8–11 punktus laikyti atitinkamai 9–12 punktais. ^s-11012e46029b0311e28b4b8f
+2. Buvusius 1 straipsnio 2 dalies 8–11 punktus laikyti atitinkamai 9–12 punktais. ^s-11012e46029b0311e28b4b8f
 
 
 3. Papildyti [[#^s-11012e46029b0311e28b4b8f|1 straipsnio 2 dalį]] nauju 13 punktu: ^s-f9ef00e696e18d645d407349

@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. 12 straipsnio 2 dalies pakeitimas ir straipsnio papildymas 3, 4, 5 dalimis ^s-e17fd1924b536658ac94fb45
 
 
-Pakeisti 12 straipsnio 2 dalį, straipsnį papildyti 3, 4, [[#^s-79b7f53eeba9ca210cb8a4fd|5 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 12 straipsnio 2 dalį, straipsnį papildyti 3, 4, 5 dalimis ir visą straipsnį išdėstyti taip:
 
 
 
@@ -66,7 +66,7 @@ Pakeisti 12 straipsnio 2 dalį, straipsnį papildyti 3, 4, [[#^s-79b7f53eeba9ca2
 3) draudėjo socialinio draudimo įmokų, baudų, delspinigių skola. ^s-07577ccc8447c93d5a1fd1c0
 
 
-4. Teikiant [[#^s-07577ccc8447c93d5a1fd1c0|šio straipsnio 3 dalies 3 punkte]] nurodytą informaciją, Asmens duomenų teisinės apsaugos įstatymo 21 straipsnio 3 dalis netaikoma. ^s-c851eb092e343194eb1ec46a
+4. Teikiant [[#^s-07577ccc8447c93d5a1fd1c0|šio straipsnio 3 dalies 3 punkte]] nurodytą informaciją, [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymo 21 straipsnio 3 dalis]] netaikoma. ^s-c851eb092e343194eb1ec46a
 
 
 5. Fondo valdybos informacinės sistemos duomenų teikimo už atlyginimą atvejus ir atlyginimo dydį nustato Vyriausybė ar jos įgaliota institucija.“ ^s-79b7f53eeba9ca210cb8a4fd

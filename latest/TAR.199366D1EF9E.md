@@ -98,7 +98,7 @@ BENDROSIOS NUOSTATOS
 4. Duomenų tvarkytojas – juridinis ar fizinis asmuo (taip pat įmonė, neturinti juridinio asmens teisių), kurie yra duomenų valdytojo įgalioti tvarkyti asmens duomenis. ^s-c19505a9ecf90a126454b8f5
 
 
-5. Duomenų gavėjas – juridinis ar fizinis asmuo (taip pat įmonė, neturinti juridinio asmens teisių), kuriems teikiami asmens duomenys. Šio įstatymo vykdymo priežiūros institucijos, nurodytos 8 ir [[#^s-c5d1d1bb2443b90c07d1ee5c|25 straipsniuose]], taip pat [[#^s-d68eeedcef2301a02ac78712|14 straipsnyje]] nurodyta Ryšių reguliavimo tarnyba nėra duomenų gavėjai, kai šios institucijos gauna asmens duomenis jų tvarkymo kontrolės tikslu. ^s-c7788a3c85f44f22ecf42c15
+5. Duomenų gavėjas – juridinis ar fizinis asmuo (taip pat įmonė, neturinti juridinio asmens teisių), kuriems teikiami asmens duomenys. Šio įstatymo vykdymo priežiūros institucijos, nurodytos [[#^s-2493dc57df0821a1cf544608|8]] ir [[#^s-c5d1d1bb2443b90c07d1ee5c|25]] straipsniuose, taip pat [[#^s-d68eeedcef2301a02ac78712|14 straipsnyje]] nurodyta Ryšių reguliavimo tarnyba nėra duomenų gavėjai, kai šios institucijos gauna asmens duomenis jų tvarkymo kontrolės tikslu. ^s-c7788a3c85f44f22ecf42c15
 
 
 6. Sutikimas – savanoriškas duomenų subjekto leidimas tvarkyti jo asmens duomenis jam žinomu tikslu. Dėl ypatingų asmens duomenų sutikimas išreiškiamas rašytine forma, dėl kitų asmens duomenų – bet kokia forma. ^s-f8431e0f759fa7f7972a2baf
@@ -143,7 +143,7 @@ Duomenų valdytojo pareiga yra užtikrinti, kad asmens duomenys būtų:
 2) tvarkomi tiksliai ir teisėtai; ^s-5432beee6cae91eefa94d7fa
 
 
-3) tikslūs ir, jei reikia dėl asmens duomenų tvarkymo, nuolat atnaujinami; ^s-78b3a47884840d095c24a156
+3) tikslūs ir, jei reikia [dėl asmens duomenų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.CCBBCFCD3831), nuolat atnaujinami; ^s-78b3a47884840d095c24a156
 
 
 4) tokios apimties, kuri būtina asmens duomenims tvarkyti. ^s-6b16470a430533d7e5a35f80
@@ -231,7 +231,7 @@ Asmens duomenys šio įstatymo nustatytais atvejais teikiami pagal duomenų vald
 1) jei tokia teisė yra nustatyta įstatymuose ar kituose teisės aktuose; ^s-00caf492af493314d02f664b
 
 
-2) atliekant mokslinį arba statistinį tyrimą. Šiuo atveju taikomos atitinkamai 11 ir [[#^s-01cf5302b7c1958d566a8226|12 straipsnių]] nuostatos; ^s-f10891d09755da86b588e6c8
+2) atliekant mokslinį arba statistinį tyrimą. Šiuo atveju taikomos atitinkamai [[#^s-16b385aff374c76837680376|11]] ir [[#^s-01cf5302b7c1958d566a8226|12]] straipsnių nuostatos; ^s-f10891d09755da86b588e6c8
 
 
 3) institucijose, įstaigose ir įmonėse, kurių veikla susijusi su paskolų suteikimu ir skolų išieškojimu, draudimu ar nuomos verslu, sveikatos apsaugos ir socialinio draudimo bei kitų socialinės globos institucijų veikloje, taip pat švietimo įstaigų, mokslo ir studijų institucijų veikloje. ^s-e4366f66dc51726969290908
@@ -241,7 +241,7 @@ Asmens duomenys šio įstatymo nustatytais atvejais teikiami pagal duomenų vald
 ### 8 straipsnis. Asmens duomenų tvarkymas ir visuomenės informavimo laisvės derinimas ^s-2493dc57df0821a1cf544608
 
 
-Asmens duomenų tvarkymą žurnalistikos, meninės ir literatūrinės raiškos bei kitais visuomenės informavimo tikslais prižiūri institucijos, numatytos [[latest/TAR.065AB8483E1E|Visuomenės informavimo įstatyme]]. Šiais atvejais asmens duomenų tvarkymui taikomos tik šio įstatymo 1, 2, 3, 4, 7, 21, 28 ir [[#^s-46d4969d0ab938ef8c181f44|29 straipsnių]] nuostatos.
+Asmens duomenų tvarkymą žurnalistikos, meninės ir literatūrinės raiškos bei kitais visuomenės informavimo tikslais prižiūri institucijos, numatytos [[latest/TAR.065AB8483E1E|Visuomenės informavimo įstatyme]]. Šiais atvejais asmens duomenų tvarkymui taikomos tik šio įstatymo 1, 2, [[#^s-fa7cce41e9a1d06997407766|3]], [[#^s-dca7be8bd7c0c6e6e152881e|4]], [[#^s-a655d80ba30aa2bb94f5244e|7]], [[#^s-84954ff98cd2ef872b250809|21]], [[#^s-00399dea81f1f82f0d2c3db5|28]] ir [[#^s-46d4969d0ab938ef8c181f44|29]] straipsnių nuostatos.
 
 
 
@@ -343,7 +343,7 @@ Socialinių paslaugų teikėjai, atlikdami savo funkcijas socialinio draudimo ir
 5. Su bendrųjų telekomunikacijų paslaugų abonentu susiję srauto duomenys (abonento numeris, adresas, abonento, kuriam buvo skambinama, numeris, vykusių pokalbių ar paslaugų rūšis, pradžia, trukmė) turi būti panaikinti ar padaryti tokie, kad pagal juos nustatyti asmens tapatybę būtų galima ne anksčiau kaip po 3 metų nuo pokalbio pabaigos. ^s-154cbe84d49a4482ccad9541
 
 
-6. Telekomunikacijų paslaugas teikiančių įmonių darbuotojams leidžiama tvarkyti šio straipsnio 4 ir [[#^s-154cbe84d49a4482ccad9541|5 dalyse]] nurodytus srauto ir sąskaitų duomenis tik tiek, kiek yra būtina atliekant tarnybines pareigas. ^s-9b7f23d1e395d9732f7e1531
+6. Telekomunikacijų paslaugas teikiančių įmonių darbuotojams leidžiama tvarkyti šio straipsnio [[#^s-7464c274a795594fe74a2337|4]] ir [[#^s-154cbe84d49a4482ccad9541|5]] dalyse nurodytus srauto ir sąskaitų duomenis tik tiek, kiek yra būtina atliekant tarnybines pareigas. ^s-9b7f23d1e395d9732f7e1531
 
 
 7. Ryšių reguliavimo tarnyba turi teisę gauti [[#^s-7464c274a795594fe74a2337|šio straipsnio 4 dalyje]] nurodytus srauto duomenis ginčams tarp bendrųjų telekomunikacijų paslaugų teikėjų ir jų abonentų spręsti. ^s-093a89cab3fa053e0403db6c
@@ -455,7 +455,7 @@ DUOMENŲ SUBJEKTO TEISĖS
 ### 19 straipsnis. Duomenų subjekto teisė nesutikti dėl savo asmens duomenų tvarkymo ^s-af4c3cfc94b4dfed44c3e08a
 
 
-1. Duomenų valdytojas šio įstatymo [[#^s-5ea0c322448e4af5378bbc1e|5 straipsnio 1 dalies]] 1, 2, 5 ir 6 punktuose bei [[#^s-76711103ad39d5d4ff9ae4ce|2 dalies]] 1 ir 4 punktuose nustatytais atvejais, taip pat kai duomenys tvarkomi ar ketinami tvarkyti tiesioginės rinkodaros tikslu, privalo supažindinti duomenų subjektą su jo teise nesutikti (taip pat anuliuoti duotą sutikimą) dėl jo asmens duomenų tvarkymo, nereikalaudamas atlyginimo už veiksmų atlikimą. ^s-ef5ffa4253a4d7a9274a2188
+1. Duomenų valdytojas šio įstatymo [[#^s-5ea0c322448e4af5378bbc1e|5 straipsnio 1 dalies]] [[#^s-68e4b8ebbe8f205730128b49|1]], [[#^s-9926fb9f3de065fddc27e15b|2]], [[#^s-be0270361c55bc224062a03a|5]] ir [[#^s-bff116ec027cb0860d70999b|6]] punktuose bei [[#^s-76711103ad39d5d4ff9ae4ce|2 dalies]] [[#^s-68e4b8ebbe8f205730128b49|1]] ir [[#^s-dec6e3a8aaec03372456a1cb|4]] punktuose nustatytais atvejais, taip pat kai duomenys tvarkomi ar ketinami tvarkyti tiesioginės rinkodaros tikslu, privalo supažindinti duomenų subjektą su jo teise nesutikti (taip pat anuliuoti duotą sutikimą) dėl jo asmens duomenų tvarkymo, nereikalaudamas atlyginimo už veiksmų atlikimą. ^s-ef5ffa4253a4d7a9274a2188
 
 
 2. Duomenų subjektas turi teisę pasirinkti duoti sutikimą ar neduoti sutikimo, ar panaikinti duotą sutikimą dėl savo asmens duomenų tvarkymo veiksmo tais atvejais, kai duomenų tvarkymo veiksmas atliekamas duomenų valdytojo iniciatyva. Nesutikimas ir prašymas panaikinti duotą sutikimą išdėstomas raštu. ^s-76711103ad39d5d4ff9ae4ce
@@ -556,7 +556,7 @@ ASMENS DUOMENŲ TEIKIMAS DUOMENŲ GAVĖJAMS, ESANTIEMS UŽSIENIO VALSTYBĖSE
 ### 24 straipsnis. Asmens duomenų teikimas duomenų gavėjams, esantiems užsienio valstybėse ^s-57b7a01ad031228901dc8021
 
 
-1. Asmens duomenys teikiami duomenų gavėjams užsienio valstybėse, gavus Vyriausybės įgaliotos institucijos leidimą, išskyrus šio straipsnio 4 ir [[#^s-2920356cc6f2ba928638db52|5 dalyje]] numatytus atvejus. ^s-ec701dfe156dada0ca929696
+1. Asmens duomenys teikiami duomenų gavėjams užsienio valstybėse, gavus Vyriausybės įgaliotos institucijos leidimą, išskyrus šio straipsnio [[#^s-ac694364ce0351cf1f10da36|4]] ir [[#^s-2920356cc6f2ba928638db52|5]] dalyje numatytus atvejus. ^s-ec701dfe156dada0ca929696
 
 
 2. Vyriausybės įgaliota institucija išduoda leidimą teikti asmens duomenis į užsienio valstybes, jei šiose valstybėse yra tinkamas asmens duomenų saugumo lygis. Vyriausybės įgaliota institucija vertina duomenų saugumo lygį, atsižvelgdama į užsienio šalies, į kurią teikiami asmens duomenys, galiojančius įstatymus bei kitus teisės aktus, užtikrinančius asmens duomenų teisinę apsaugą pagal teikiamų duomenų pobūdį, duomenų tvarkymo būdus, tikslus ir trukmę. ^s-12353612ba13c79614c0267b
@@ -601,7 +601,7 @@ ASMENS DUOMENŲ TEIKIMAS DUOMENŲ GAVĖJAMS, ESANTIEMS UŽSIENIO VALSTYBĖSE
 1. [[latest/TAR.5368B592234C#^s-f76c1d2c96ee4440ea98c5d6|Asmens duomenų teisinės apsaugos įstatymo, išskyrus 8 straipsnį]], vykdymą prižiūri ir kontroliuoja Vyriausybės įgaliota institucija. Vyriausybės įgaliota institucija yra Vyriausybės įstaiga, finansuojama iš valstybės biudžeto. Ji yra atskaitinga Vyriausybei. Vyriausybės įgaliotos institucijos nuostatus tvirtina Vyriausybė. ^s-ae7800c369fad69c338673a2
 
 
-2. Vyriausybės įgaliota institucija vadovaujasi Lietuvos Respublikos Konstitucija, įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis ir, atlikdama šiame įstatyme jai nustatytas funkcijas bei priimdama sprendimus, susijusius su šiame įstatyme jai nustatytų funkcijų atlikimu, yra nepriklausoma – jos teisės gali būti suvaržytos tik įstatymo. Vyriausybės įgaliotos institucijos tarnautojų veiksmai, susiję su šiame įstatyme šiai institucijai nustatytų funkcijų atlikimu, skundžiami tik įstatymų nustatyta tvarka. ^s-e90b90881eab95183aa24dbc
+2. Vyriausybės įgaliota institucija vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis ir, atlikdama šiame įstatyme jai nustatytas funkcijas bei priimdama sprendimus, susijusius su šiame įstatyme jai nustatytų funkcijų atlikimu, yra nepriklausoma – jos teisės gali būti suvaržytos tik įstatymo. Vyriausybės įgaliotos institucijos tarnautojų veiksmai, susiję su šiame įstatyme šiai institucijai nustatytų funkcijų atlikimu, skundžiami tik įstatymų nustatyta tvarka. ^s-e90b90881eab95183aa24dbc
 
 
 
@@ -617,7 +617,7 @@ Vyriausybės įgaliota institucija:
 2) nagrinėja asmenų prašymus ir skundus šio įstatymo nustatytais atvejais [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nustatyta tvarka; ^s-be21d360c7392cfda646ab8b
 
 
-3) tikrina asmens duomenų tvarkymo teisėtumą ir priima sprendimus dėl asmens duomenų tvarkymo pažeidimų; ^s-6b02d55c8b149640065f89dd
+3) tikrina asmens duomenų tvarkymo teisėtumą ir priima sprendimus [dėl asmens duomenų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.CCBBCFCD3831) pažeidimų; ^s-6b02d55c8b149640065f89dd
 
 
 4) išduoda leidimus duomenų valdytojams teikti asmens duomenis užsienio valstybių duomenų gavėjams; ^s-f37aef6d1d2d31c441efdafc
@@ -639,10 +639,10 @@ Vyriausybės įgaliota institucija:
 1) nemokamai gauti visą reikiamą informaciją apie asmens duomenų tvarkymą iš duomenų valdytojų, susipažinti su tvarkomais asmens duomenimis ir atlikti patikrinimus šio įstatymo nustatytais atvejais asmens duomenų tvarkymo vietose; ^s-84e33d808e23d3a37f98cb41
 
 
-2) duoti nurodymus duomenų valdytojams dėl asmens duomenų tvarkymo ir apsaugos; ^s-3cc25a43ae7f05997461075b
+2) duoti nurodymus duomenų valdytojams [dėl asmens duomenų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.CCBBCFCD3831) ir apsaugos; ^s-3cc25a43ae7f05997461075b
 
 
-3) surašyti administracinių teisės pažeidimų protokolus Administracinių teisės pažeidimų kodekso nustatyta tvarka; ^s-7a747e57269edfdd3363e346
+3) surašyti administracinių teisės pažeidimų protokolus [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka; ^s-7a747e57269edfdd3363e346
 
 
 4) keistis informacija su kitų valstybių asmens duomenų priežiūros institucijomis tiek, kiek tai reikalinga jų pareigoms vykdyti; ^s-f145870f0045e0d6ee0f677f

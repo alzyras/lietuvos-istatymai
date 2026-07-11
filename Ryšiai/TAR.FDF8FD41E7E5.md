@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudže
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.CA0F08EF687E|Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymas]] - Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 5 straipsnio 1 dalies 4 punktą
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.CA0F08EF687E#^s-8841cb391efb66e98e0695a8|Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymas]] - Įstatymas Nr. XI-308
-- [[latest/TAR.CA0F08EF687E#^s-c5bcb0536e3ab86111a43935|Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymas]] - Įstatymas Nr. XI-308
+_Nėra._

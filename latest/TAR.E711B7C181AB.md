@@ -62,7 +62,7 @@ Vilnius
 4. Pakeisti 2 straipsnio 37 dalį ir ją išdėstyti taip: ^s-4d463a9cddb0c5449f3fdd5a
 
 
-„37. Valdymo įmonės akcijų paketas – tiesiogiai ar netiesiogiai valdoma valdymo įmonės įstatinio kapitalo ar balsavimo teisių dalis, sudaranti ne mažiau kaip 1/10 įstatinio kapitalo ar balsavimo teisių arba leidžianti daryti esminį poveikį valdymo įmonės valdymui. Skaičiuojant, ar įmonės įstatinio kapitalo ar balsavimo teisių dalis sudaro ne mažiau kaip 1/10 įstatinio kapitalo, atsižvelgiama į [[latest/TAR.3DF892F52616#^s-5db86a45198161db47d40ef7|Vertybinių popierių įstatymo 23 ir 24 straipsniuose]] nustatytus įpareigojimus bei balsų skaičiavimo tvarką.“
+„37. Valdymo įmonės akcijų paketas – tiesiogiai ar netiesiogiai valdoma valdymo įmonės įstatinio kapitalo ar balsavimo teisių dalis, sudaranti ne mažiau kaip 1/10 įstatinio kapitalo ar balsavimo teisių arba leidžianti daryti esminį poveikį valdymo įmonės valdymui. Skaičiuojant, ar įmonės įstatinio kapitalo ar balsavimo teisių dalis sudaro ne mažiau kaip 1/10 įstatinio kapitalo, atsižvelgiama į [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] [[latest/TAR.3DF892F52616#^s-73a6566a6f92acda891a3ff7|23]] ir [[latest/TAR.3DF892F52616#^s-5db86a45198161db47d40ef7|24]] straipsniuose nustatytus įpareigojimus bei balsų skaičiavimo tvarką.“
 
 
 
@@ -131,7 +131,7 @@ Pakeisti [[#^s-82e1634f7a90eb0f1be5d19e|10 straipsnį]] ir jį išdėstyti taip:
 10. Vertybinių popierių komisija neturi teisės nustatyti jokių išankstinių sąlygų dėl privalomo įsigyti valdymo įmonės akcijų paketo dydžio ir nenagrinėja siūlomo įsigijimo pagal rinkos ekonominius poreikius. ^s-e885e4e4a6c63cf8867b9140
 
 
-11. Vertybinių popierių komisija turi teisę prieštarauti siūlomam įsigijimui tik pagrįstai remdamasi [[#^s-102d73a5a7c97872cd685f96|šio straipsnio 9 dalyje]] nurodytais kriterijais arba tuo atveju, jei įsigyjantis asmuo pateikė ne visus šio straipsnio 4 ar [[#^s-d79b03b8168cb85936367598|7 dalyje]] nustatytus dokumentus ir duomenis. ^s-cea5b7f41fcd9c56679484ac
+11. Vertybinių popierių komisija turi teisę prieštarauti siūlomam įsigijimui tik pagrįstai remdamasi [[#^s-102d73a5a7c97872cd685f96|šio straipsnio 9 dalyje]] nurodytais kriterijais arba tuo atveju, jei įsigyjantis asmuo pateikė ne visus šio straipsnio [[#^s-ccc2decc24110c4b2a7d1a07|4]] ar [[#^s-d79b03b8168cb85936367598|7]] dalyje nustatytus dokumentus ir duomenis. ^s-cea5b7f41fcd9c56679484ac
 
 
 12. Vertybinių popierių komisija, prieš priimdama sprendimą dėl siūlomo įsigijimo, konsultuojasi su Lietuvos Respublikos ir kitų valstybių narių priežiūros institucijomis, jeigu įsigyjantis asmuo yra valstybėje narėje licencijuota valdymo įmonė, finansų maklerio įmonė, kredito įstaiga, draudimo įmonė, perdraudimo įmonė arba bet kurio iš šių subjektų patronuojanti įmonė ar kontroliuojantis asmuo. ^s-2c6cba6ff622816bf5cc8b3f
@@ -149,7 +149,7 @@ Pakeisti [[#^s-82e1634f7a90eb0f1be5d19e|10 straipsnį]] ir jį išdėstyti taip:
 16. Jei baigusi vertinimą Vertybinių popierių komisija priima sprendimą prieštarauti siūlomam įsigijimui, ji apie tai per 2 darbo dienas nuo sprendimo priėmimo ir neviršydama vertinimo laikotarpio raštu praneša įsigyjančiam asmeniui, nurodydama sprendimo motyvus. ^s-5e2314e8d850e6bfa626d681
 
 
-17. Vertybinių popierių komisijos sprendime dėl siūlomo įsigijimo nurodomos visos po konsultacijų pagal šio straipsnio 12 ir [[#^s-6eb720e1ee87527c625f0e6e|13 dalis]] gautos kitų priežiūros institucijų nuomonės ir išlygos. Vertybinių popierių komisijos sprendimas prieštarauti siūlomam įsigijimui gali būti skundžiamas teismui. Vertybinių popierių komisija viešai paskelbia sprendimą ir jo motyvus, neatsižvelgdama į tai, ar yra gautas įsigyjančio asmens sutikimas. Vertybinių popierių komisija turi teisę viešai neskelbti sprendimo ir jo motyvų tais atvejais, kai toks paskelbimas padarytų žalos rinkai ar padarytų neproporcingos žalos suinteresuotiems asmenims. ^s-a439c8f9e1268352ff96ee52
+17. Vertybinių popierių komisijos sprendime dėl siūlomo įsigijimo nurodomos visos po konsultacijų pagal šio straipsnio [[#^s-2c6cba6ff622816bf5cc8b3f|12]] ir [[#^s-6eb720e1ee87527c625f0e6e|13]] dalis gautos kitų priežiūros institucijų nuomonės ir išlygos. Vertybinių popierių komisijos sprendimas prieštarauti siūlomam įsigijimui gali būti skundžiamas teismui. Vertybinių popierių komisija viešai paskelbia sprendimą ir jo motyvus, neatsižvelgdama į tai, ar yra gautas įsigyjančio asmens sutikimas. Vertybinių popierių komisija turi teisę viešai neskelbti sprendimo ir jo motyvų tais atvejais, kai toks paskelbimas padarytų žalos rinkai ar padarytų neproporcingos žalos suinteresuotiems asmenims. ^s-a439c8f9e1268352ff96ee52
 
 
 18. Jei Vertybinių popierių komisija gauna daugiau negu vieną pranešimą apie siūlomą įsigijimą toje pačioje valdymo įmonėje, visi pranešimai nagrinėjami tokia pat tvarka, nediskriminuojant įsigyjančių asmenų. ^s-ff77786da27f0a5b40afa687

@@ -535,7 +535,7 @@ KONSERVACINĖS APSAUGOS PRIORITETO TERITORIJOS. veiklos jose reglamentavimas
 2) iš esmės pakeisti kultūros paveldo objektų aplinką, mažinant kultūros paveldo objektų vertę. ^s-9e52e6c3ab8a649c7ddf6ed5
 
 
-4. Leistinas ir rekomenduojamas statinių formas, dydžius, teritorijos užstatymo procentą, atstumus nuo vandens telkinių ir šlaitų nustato saugomų teritorijų apsaugos reglamentai ir (ar) statybų saugomose teritorijose regioniniai architektūriniai reglamentai. Juose gali būti sugriežtinti šio straipsnio 2 ir [[#^s-6a005a4c99dbb390662f6a61|3 dalyse]] išvardyti reikalavimai bei nustatyti papildomi reikalavimai. ^s-b7418f812d64df76065fd73b
+4. Leistinas ir rekomenduojamas statinių formas, dydžius, teritorijos užstatymo procentą, atstumus nuo vandens telkinių ir šlaitų nustato saugomų teritorijų apsaugos reglamentai ir (ar) statybų saugomose teritorijose regioniniai architektūriniai reglamentai. Juose gali būti sugriežtinti šio straipsnio [[#^s-92c713394cfae702922d1335|2]] ir [[#^s-6a005a4c99dbb390662f6a61|3]] dalyse išvardyti reikalavimai bei nustatyti papildomi reikalavimai. ^s-b7418f812d64df76065fd73b
 
 
 5. Draustiniuose skatinama veikla, puoselėjanti, išryškinanti ir propaguojanti saugomus kompleksus ar objektus (vertybes), atkurianti tradicinius gamtinės ar kultūrinės aplinkos elementus, taip pat pažintinis turizmas. ^s-e92c372e44fe856c996a7a96
@@ -1301,7 +1301,7 @@ VALSTYBINĖ SAUGOMŲ TERITORIJŲ KONTROLĖ
 1) turėti ir dėvėti nustatyto pavyzdžio uniformą ir skiriamuosius ženklus; ^s-b29492470d979c495084b0c5
 
 
-2) įstatymų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus, skirti administracines nuobaudas už šio Įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Administracinių teisės pažeidimų kodekse; ^s-88a5562bed7c7ff20f7d9c11
+2) įstatymų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus, skirti administracines nuobaudas už šio Įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492); ^s-88a5562bed7c7ff20f7d9c11
 
 
 3) reikalauti iš juridinių ir fizinių asmenų, pažeidusių šio Įstatymo ir kitų teisės aktų reikalavimus ar teritorijų planavimo dokumentų, reglamentuojančių veiklą saugomose teritorijose, sprendinius, nutraukti neteisėtus veiksmus; ^s-2de1da39bad94f8e207f5c8b

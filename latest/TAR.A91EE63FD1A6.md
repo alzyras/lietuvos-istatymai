@@ -236,7 +236,7 @@ Perkančioji organizacija pirkimo dokumentuose gali nustatyti sąlygas, sudaran�
 1) vienintelis suinteresuotas dalyvis yra tas, su kuriuo sudaroma pirkimo sutartis, ir nėra suinteresuotų kandidatų; ^s-a5b0aa1f58c6889052c6c76d
 
 
-2) pirkimo sutartis sudaroma dinaminės pirkimo sistemos pagrindu arba šio įstatymo [[#^s-86ef4985e85fa58a32d7a342|4 straipsnio 1 dalies]] 1, 2 ar [[#^s-b28400a05a611da741a60bbb|3 punktuose]] nurodyta perkančioji organizacija pirkimo sutartį sudaro preliminariosios sutarties pagrindu; ^s-03e11fd7ab14168d3c86296e
+2) pirkimo sutartis sudaroma dinaminės pirkimo sistemos pagrindu arba šio įstatymo [[#^s-86ef4985e85fa58a32d7a342|4 straipsnio 1 dalies]] 1, 2 ar 3 punktuose nurodyta perkančioji organizacija pirkimo sutartį sudaro preliminariosios sutarties pagrindu; ^s-03e11fd7ab14168d3c86296e
 
 
 3) supaprastintų pirkimų atveju pirkimo sutarties vertė mažesnė kaip 10 000 Lt.“ ^s-b28400a05a611da741a60bbb
@@ -295,7 +295,7 @@ Papildyti Įstatymą 211 straipsniu:
 3. Buvusią 22 straipsnio 6 dalį laikyti 7 dalimi, ją pakeisti ir išdėstyti taip: ^s-63a52ea37609a74bf1eb6517
 
 
-„7. Informacija, kuri turi būti nurodyta skelbimuose, skelbimų standartinės formos ir skelbimų reikalavimai nustatyti 2005 m. rugsėjo 7 d. Komisijos reglamente (EB) Nr. 1564/2005, nustatančiame standartines formas, naudojamas skelbiant su viešųjų pirkimų procedūromis susijusius skelbimus, pagal Europos Parlamento ir Tarybos direktyvas 2004/17/EB ir 2004/18/EB ir 2009 m. lapkričio 10 d. Komisijos reglamente (EB) Nr. 1150/2009, kuriuo iš dalies keičiamos Reglamento (EB) Nr. 1564/2005 nuostatos dėl pagal Tarybos direktyvas 89/665/EEB ir 92/13/EEB skelbiamų viešųjų pirkimų skelbimų standartinių formų.“
+„7. Informacija, kuri turi būti nurodyta skelbimuose, skelbimų standartinės formos ir skelbimų reikalavimai nustatyti 2005 m. rugsėjo 7 d. Komisijos [reglamente (EB) Nr. 1564/2005](https://eur-lex.europa.eu/eli/reg/1564/2005/oj), nustatančiame standartines formas, naudojamas skelbiant su viešųjų pirkimų procedūromis susijusius skelbimus, pagal Europos Parlamento ir Tarybos direktyvas 2004/17/EB ir 2004/18/EB ir 2009 m. lapkričio 10 d. Komisijos [reglamente (EB) Nr. 1150/2009](https://eur-lex.europa.eu/eli/reg/1150/2009/oj), kuriuo iš dalies keičiamos [Reglamento (EB) Nr. 1564/2005](https://eur-lex.europa.eu/eli/reg/1564/2005/oj) nuostatos dėl pagal Tarybos direktyvas 89/665/EEB ir 92/13/EEB skelbiamų viešųjų pirkimų skelbimų standartinių formų.“
 
 
 
@@ -401,13 +401,13 @@ Pakeisti [[#^s-ad2ebbc174b3ced374cde71f|31 straipsnio 1 dalį]] ir ją išdėsty
 2. Pakeisti 41 straipsnio 1 dalį ir ją išdėstyti taip: ^s-16da3c8aa2c1923114d9bb59
 
 
-„1. Perkančioji organizacija suinteresuotiems kandidatams ir suinteresuotiems dalyviams nedelsdama (ne vėliau kaip per 5 darbo dienas) praneša apie priimtą sprendimą sudaryti pirkimo sutartį ar preliminariąją sutartį arba sprendimą dėl leidimo dalyvauti dinaminėje pirkimo sistemoje, pateikia [[#^s-16da3c8aa2c1923114d9bb59|šio straipsnio 2 dalyje]] nurodytos atitinkamos informacijos, kuri dar nebuvo pateikta pirkimo procedūros metu, santrauką ir nurodo nustatytą pasiūlymų eilę, laimėjusį pasiūlymą, tikslų atidėjimo terminą. Perkančioji organizacija taip pat turi nurodyti priežastis, dėl kurių buvo priimtas sprendimas nesudaryti pirkimo sutarties ar preliminariosios sutarties, pradėti pirkimą ar dinaminę pirkimų sistemą iš naujo.“
+„1. Perkančioji organizacija suinteresuotiems kandidatams ir suinteresuotiems dalyviams nedelsdama (ne vėliau kaip per 5 darbo dienas) praneša apie priimtą sprendimą sudaryti pirkimo sutartį ar preliminariąją sutartį arba sprendimą dėl leidimo dalyvauti dinaminėje pirkimo sistemoje, pateikia šio straipsnio 2 dalyje nurodytos atitinkamos informacijos, kuri dar nebuvo pateikta pirkimo procedūros metu, santrauką ir nurodo nustatytą pasiūlymų eilę, laimėjusį pasiūlymą, tikslų atidėjimo terminą. Perkančioji organizacija taip pat turi nurodyti priežastis, dėl kurių buvo priimtas sprendimas nesudaryti pirkimo sutarties ar preliminariosios sutarties, pradėti pirkimą ar dinaminę pirkimų sistemą iš naujo.“
 
 
 3. Papildyti 41 straipsnio 2 dalį 3 punktu: ^s-c1c6bb583ddf0e18fd5b2cbe
 
 
-„3) dalyviui, kurio pasiūlymas buvo atmestas, pasiūlymo atmetimo priežastis, tarp jų ir nurodytas šio įstatymo [[#^s-bec3046076603eaeddc41948|25 straipsnio]] 4 ir [[#^s-289a7f426d133badcfc8fd08|5 dalyse]], taip pat priežastis, dėl kurių priimtas sprendimas dėl nelygiavertiškumo arba sprendimas, kad prekės, paslaugos ar darbai neatitinka rezultatų apibūdinimo ar funkcinių reikalavimų.“
+„3) dalyviui, kurio pasiūlymas buvo atmestas, pasiūlymo atmetimo priežastis, tarp jų ir nurodytas šio įstatymo [[#^s-bec3046076603eaeddc41948|25 straipsnio]] 4 ir 5 dalyse, taip pat priežastis, dėl kurių priimtas sprendimas dėl nelygiavertiškumo arba sprendimas, kad prekės, paslaugos ar darbai neatitinka rezultatų apibūdinimo ar funkcinių reikalavimų.“
 
 
 4. Pakeisti 41 straipsnio 4 dalį ir ją išdėstyti taip: ^s-d563be5490a4b4e2ac857960
@@ -527,7 +527,7 @@ Prekės, paslaugos ar darbai perkami iš to tiekėjo, kuris pateikė ekonomiška
 1. 92 straipsnio 2 dalies antrame sakinyje po skaičių ir žodžio „3 dalies 3, 4“ išbraukti skaičių „5“ ir šią dalį išdėstyti taip: ^s-7a10a9db90c96cab772b50b3
 
 
-„2. Perkančioji organizacija apie supaprastintą pirkimą gali neskelbti, jeigu yra bent viena iš šio straipsnio 3, 4, 5, 6, 7 dalyse nurodytų sąlygų. Tokiu atveju (išskyrus [[#^s-bc620a44f801ed3340628a79|šio straipsnio 3 dalies]] 3, 4, 7 punktuose, 4 dalies 2, 3 punktuose, 5 dalies 3 punkte, 6 dalies 2, 3, 4, 5 punktuose, 7 dalies 2 punkte nurodytus pirkimus) perkančioji organizacija, priėmusi sprendimą pirkti prekių, paslaugų ar darbų neskelbdama apie pirkimą, apie tai privalo paskelbti informacinį pranešimą šio įstatymo 86 straipsnio nustatyta tvarka, o pirkimo sutartį sudaryti ne anksčiau kaip po 5 darbo dienų nuo informacinio pranešimo paskelbimo dienos.“
+„2. Perkančioji organizacija apie supaprastintą pirkimą gali neskelbti, jeigu yra bent viena iš šio straipsnio [[#^s-bc620a44f801ed3340628a79|3]], 4, 5, 6, 7 dalyse nurodytų sąlygų. Tokiu atveju (išskyrus [[#^s-bc620a44f801ed3340628a79|šio straipsnio 3 dalies]] 3, 4, 7 punktuose, 4 dalies 2, 3 punktuose, 5 dalies 3 punkte, 6 dalies 2, 3, 4, 5 punktuose, 7 dalies 2 punkte nurodytus pirkimus) perkančioji organizacija, priėmusi sprendimą pirkti prekių, paslaugų ar darbų neskelbdama apie pirkimą, apie tai privalo paskelbti informacinį pranešimą šio įstatymo 86 straipsnio nustatyta tvarka, o pirkimo sutartį sudaryti ne anksčiau kaip po 5 darbo dienų nuo informacinio pranešimo paskelbimo dienos.“
 
 
 2. 92 straipsnio 3 dalies 5 punktą pripažinti netekusiu galios. ^s-60ba1168a574ef8dbf50c357
@@ -661,7 +661,7 @@ Pakeisti 95 straipsnį ir jį išdėstyti taip:
 5. Teismas priima motyvuotą nutartį dėl laikinųjų apsaugos priemonių taikymo, vadovaudamasis ekonomiškumo ir efektyvumo principais bei viešuoju interesu. Teismas gali nuspręsti netaikyti laikinųjų apsaugos priemonių, jeigu jų neigiamos pasekmės galėtų viršyti jų teikiamą naudą. ^s-a59d5416338027b37df0a3ac
 
 
-6. Teismui pareikštas ieškinys turi būti išnagrinėtas šiame įstatyme ir Lietuvos Respublikos civilinio proceso kodekse nustatyta rašytinio arba žodinio proceso tvarka. Ieškinys ar apeliacinis skundas turi būti išnagrinėtas ne vėliau kaip per 45 dienas nuo jo priėmimo dienos. ^s-fac847d2eb3160ead7fc52e1
+6. Teismui pareikštas ieškinys turi būti išnagrinėtas šiame įstatyme ir [Lietuvos Respublikos civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta rašytinio arba žodinio proceso tvarka. Ieškinys ar apeliacinis skundas turi būti išnagrinėtas ne vėliau kaip per 45 dienas nuo jo priėmimo dienos. ^s-fac847d2eb3160ead7fc52e1
 
 
 7. Perkančioji organizacija, sužinojusi apie teismo sprendimą dėl tiekėjo prašymo ar ieškinio, nedelsdama raštu informuoja suinteresuotus kandidatus ir suinteresuotus dalyvius apie teismo priimtus sprendimus.“ ^s-10d53dff639c45111505ff4e
@@ -847,7 +847,7 @@ Pakeisti 97 straipsnį ir jį išdėstyti taip:
 3. Pakeisti Įstatymo priedo 8 punktą ir jį išdėstyti taip: ^s-c33734a0ffa7d0d20376ee02
 
 
-„8. 2005 m. rugsėjo 7 d. Komisijos reglamentas (EB) Nr. 1564/2005, nustatantis standartines formas, naudojamas skelbiant su viešųjų pirkimų procedūromis susijusius pranešimus, pagal Europos Parlamento ir Tarybos direktyvas 2004/17/EB ir 2004/18/EB (OL 2005 L 257, p. 1) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 10 d. Komisijos reglamentu (EB) Nr. 1150/2009 (OL 2009 L 313, p. 3).“
+„8. 2005 m. rugsėjo 7 d. Komisijos [reglamentas (EB) Nr. 1564/2005](https://eur-lex.europa.eu/eli/reg/1564/2005/oj), nustatantis standartines formas, naudojamas skelbiant su viešųjų pirkimų procedūromis susijusius pranešimus, pagal Europos Parlamento ir Tarybos direktyvas 2004/17/EB ir 2004/18/EB (OL 2005 L 257, p. 1) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 10 d. Komisijos [reglamentu (EB) Nr. 1150/2009](https://eur-lex.europa.eu/eli/reg/1150/2009/oj) (OL 2009 L 313, p. 3).“
 
 
 

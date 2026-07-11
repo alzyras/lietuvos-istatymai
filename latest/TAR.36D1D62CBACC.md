@@ -45,7 +45,7 @@ Vilnius
 „16) ginklų registro duomenys, kai ginklo savininkas, valdytojas ar naudotojas yra krašto apsaugos sistemos institucija, vidaus reikalų sistemos institucija, Valstybės saugumo departamentas, Specialiųjų tyrimų tarnyba, prokuratūra, Ginklų fondas prie Lietuvos Respublikos Vyriausybės, taip pat detalizuoti duomenys apie operatyvinės veiklos subjektų turimus ginklus, šaudmenis, sprogmenis, kovinę techniką, specialiąsias priemones bei specialiąją techniką;“.
 
 
-2. 5 straipsnio 2 dalies 6, 7, 11, [[#^s-c0b2aceb44fb51b2f9f56fac|12 punktuose]] po žodžių „Valstybės saugumo departamento“ įrašyti žodžius „Specialiųjų tyrimų tarnybos“ ir šią dalį išdėstyti taip: ^s-1144007889b1c7aaf31e52b8
+2. 5 straipsnio 2 dalies 6, 7, 11, 12 punktuose po žodžių „Valstybės saugumo departamento“ įrašyti žodžius „Specialiųjų tyrimų tarnybos“ ir šią dalį išdėstyti taip: ^s-1144007889b1c7aaf31e52b8
 
 
 „2. Tarnybos paslaptį gali sudaryti:

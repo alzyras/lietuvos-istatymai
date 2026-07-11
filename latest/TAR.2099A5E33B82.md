@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-c5ac15958d3ba43e6c7e9c4a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2000 m. liepos 21 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Danijos Karalystės Vyriausybės susitarimą dėl tarpusavio pagalbos muitinės veiklos srityje“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Danijos Karalystės Vyriausybės susitarimą dėl tarpusavio pagalbos muitinės veiklos srityje, sudarytą 1997 m. lapkričio 18 d. Kopenhagoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2000 m. liepos 21 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Danijos Karalystės Vyriausybės susitarimą dėl tarpusavio pagalbos muitinės veiklos srityje“](https://e-tar.lt/portal/lt/legalAct/TAR.2A6BE2C69D71), ratifikuoja Lietuvos Respublikos Vyriausybės ir Danijos Karalystės Vyriausybės susitarimą dėl tarpusavio pagalbos muitinės veiklos srityje, sudarytą 1997 m. lapkričio 18 d. Kopenhagoje.
 
 
 

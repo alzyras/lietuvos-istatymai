@@ -79,7 +79,7 @@ Papildyti 30 straipsnio 2 dalį antru sakiniu ir šią dalį išdėstyti taip:
 ### 5 straipsnis. Įstatymo taikymas ^s-513b70bfd855ab875ac7d3ac
 
 
-Šio įstatymo 1 ir [[#^s-feb46ba92ed5c127424e44a4|4 straipsnių]] nuostatos taikomos apskaičiuojant 2007 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
+Šio įstatymo [[#^s-d9c56942f86e49555adb080c|1]] ir [[#^s-feb46ba92ed5c127424e44a4|4]] straipsnių nuostatos taikomos apskaičiuojant 2007 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį.
 
 
 

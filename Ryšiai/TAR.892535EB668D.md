@@ -9,9 +9,10 @@ pavadinimas: "Lietuvos Respublikos vidaus reikalų, Valstybės saugumo, Krašto 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A7F77DF94F5D#^s-37fa706f93454b00e769633c|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - Valstybinių socialinio draudimo pensijų įstatymo 34 ir 35 straipsniuose
+- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - Valstybinių socialinio draudimo pensijų įstatymo
+- [[latest/TAR.A7F77DF94F5D#^s-37fa706f93454b00e769633c|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 35
+- [[latest/TAR.A7F77DF94F5D#^s-5588e0dd4927669d9163f666|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 34
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EDDCB615126E#^s-9e6244e3c9add4748eb50899|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 9, 10 IR 16 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.EDDCB615126E#^s-ebca7f488c83e6092064f614|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 9, 10 IR 16 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.EDDCB615126E#^s-9e6244e3c9add4748eb50899|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 9, 10 IR 16 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS

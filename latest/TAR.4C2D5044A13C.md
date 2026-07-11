@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sprendimo ratifikavimas ^s-9fcd0aea9eb74855ae3fe6f3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. rugsėjo 29 d. dekretą Nr. 1004, ratifikuoja Lietuvos ir ELPA jungtinio komiteto sprendimą Nr. 6/1999 „C protokolo panaikinimas“, pasirašytą 1999 m. rugsėjo 22 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2000 m. rugsėjo 29 d. dekretą Nr. 1004](https://e-tar.lt/portal/lt/legalAct/TAR.730D57E6681A), ratifikuoja Lietuvos ir ELPA jungtinio komiteto sprendimą Nr. 6/1999 „C protokolo panaikinimas“, pasirašytą 1999 m. rugsėjo 22 d. Ženevoje.
 
 
 

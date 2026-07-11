@@ -62,7 +62,7 @@ Vilnius
 21 straipsnio 1 dalyje vietoj žodžio „žmogiškumui“ įrašyti žodį „žmoniškumui“ ir šią dalį išdėstyti taip:
 
 
-„1. Lietuvos Respublikos pilietybės suteikimo aktas pripažįstamas negaliojančiu, jeigu asmuo, įgijęs Lietuvos Respublikos pilietybę natūralizacijos ar optavimo būdu, įgijo Lietuvos Respublikos pilietybę pagal suklastotus dokumentus ar kitokios apgaulės būdu arba neatsisakė kitos valstybės pilietybės, arba teismui nustačius, kad jis iki pilietybės suteikimo ar po to padarė tarptautinius nusikaltimus, numatytus Lietuvos Respublikos tarptautinėse sutartyse arba tarptautinėje paprotinėje teisėje, tokius kaip: agresija, genocidas, nusikaltimai žmoniškumui, karo nusikaltimai, arba padarė nusikaltimų Lietuvos Respublikai.“
+„1. [Lietuvos Respublikos pilietybės suteikimo](https://e-tar.lt/portal/lt/legalAct/8b65c1c0355a11e78397ae072f58c508) aktas pripažįstamas negaliojančiu, jeigu asmuo, įgijęs Lietuvos Respublikos pilietybę natūralizacijos ar optavimo būdu, įgijo Lietuvos Respublikos pilietybę pagal suklastotus dokumentus ar kitokios apgaulės būdu arba neatsisakė kitos valstybės pilietybės, arba teismui nustačius, kad jis iki [pilietybės suteikimo](https://e-tar.lt/portal/lt/legalAct/8b65c1c0355a11e78397ae072f58c508) ar po to padarė tarptautinius nusikaltimus, numatytus Lietuvos Respublikos tarptautinėse sutartyse arba tarptautinėje paprotinėje teisėje, tokius kaip: agresija, genocidas, nusikaltimai žmoniškumui, karo nusikaltimai, arba padarė nusikaltimų Lietuvos Respublikai.“
 
 
 

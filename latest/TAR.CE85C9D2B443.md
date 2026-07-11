@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-7a5314312dda9909c8ada075
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gruodžio 5 d. dekretą Nr. 1128, ratifikuoja Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutartį dėl finansinio bendradarbiavimo, pasirašytą 1996 m. liepos 5 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [1996 m. gruodžio 5 d. dekretą Nr. 1128](https://e-tar.lt/portal/lt/legalAct/TAR.57A14EF84677), ratifikuoja Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutartį dėl finansinio bendradarbiavimo, pasirašytą 1996 m. liepos 5 d. Vilniuje.
 
 
 

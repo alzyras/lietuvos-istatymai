@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-0b7e9445eb36a17123506aa6
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2001 m. sausio 10 d. dekretą Nr. 1160, ratifikuoja Lietuvos Respublikos Vyriausybės ir Šveicarijos Federalinės Tarybos sutartį dėl reguliaraus oro susisiekimo, pasirašytą 1994 m. liepos 8 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2001 m. sausio 10 d. dekretą Nr. 1160](https://e-tar.lt/portal/lt/legalAct/TAR.7549106C9532), ratifikuoja Lietuvos Respublikos Vyriausybės ir Šveicarijos Federalinės Tarybos sutartį dėl reguliaraus oro susisiekimo, pasirašytą 1994 m. liepos 8 d. Vilniuje.
 
 
 

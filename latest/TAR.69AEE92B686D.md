@@ -44,7 +44,7 @@ Vilnius
 Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
-„3. Visa muitinei pateikta informacija, kuri pagal savo turinį arba pateikimo būdą yra konfidenciali, saugoma, atskleidžiama ir teikiama šio Įstatymo 12 straipsnio, Bendrijos muitinės kodekso 13 straipsnio 4 dalies ir 15 straipsnio, kitų Lietuvos Respublikos įstatymų ir Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka.“
+„3. Visa muitinei pateikta informacija, kuri pagal savo turinį arba pateikimo būdą yra konfidenciali, saugoma, atskleidžiama ir teikiama šio Įstatymo 12 straipsnio, Bendrijos [muitinės kodekso 13 straipsnio 4 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) ir 15 straipsnio, kitų Lietuvos Respublikos įstatymų ir Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka.“
 
 
 
@@ -60,13 +60,13 @@ Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip:
 2. Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip: ^s-508444ddc3a2c665ca9d7fb9
 
 
-„2. Su užsienio valstybių muitinėmis, kitomis užsienio valstybių institucijomis ir Europos Sąjungos institucijomis muitinė bendradarbiauja vadovaudamasi Bendrijos muitinės kodeksu, jo įgyvendinimo nuostatomis, Tarpusavio pagalbos reglamentu, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais.“
+„2. Su užsienio valstybių muitinėmis, kitomis užsienio valstybių institucijomis ir Europos Sąjungos institucijomis muitinė bendradarbiauja vadovaudamasi Bendrijos [muitinės kodeksu](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), jo įgyvendinimo nuostatomis, Tarpusavio pagalbos reglamentu, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais.“
 
 
 3. Pakeisti 13 straipsnio 3 dalį ir ją išdėstyti taip: ^s-0fa4fc4764c6f5c6ef403f67
 
 
-„3. Vadovaudamasi Bendrijos muitinės kodeksu, jo įgyvendinimo nuostatomis, Tarpusavio pagalbos reglamentu ir kitais teisės aktais, muitinė valdo duomenis apie pažeidimus, jų riziką ir su jais susijusius duomenis, apdorojamus ir kaupiamus muitinės informacinėje sistemoje, teikia ataskaitas Europos Komisijai ir Lietuvos Respublikos kompetentingoms institucijoms. Lietuvos Respublikos teisės aktų nustatyta tvarka prieiga prie muitinės informacinės sistemos duomenų taip pat gali būti suteikta kitoms Lietuvos Respublikos institucijoms.“
+„3. Vadovaudamasi Bendrijos [muitinės kodeksu](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), jo įgyvendinimo nuostatomis, Tarpusavio pagalbos reglamentu ir kitais teisės aktais, muitinė valdo duomenis apie pažeidimus, jų riziką ir su jais susijusius duomenis, apdorojamus ir kaupiamus muitinės informacinėje sistemoje, teikia ataskaitas Europos Komisijai ir Lietuvos Respublikos kompetentingoms institucijoms. Lietuvos Respublikos teisės aktų nustatyta tvarka prieiga prie muitinės informacinės sistemos duomenų taip pat gali būti suteikta kitoms Lietuvos Respublikos institucijoms.“
 
 
 
@@ -114,7 +114,7 @@ Pakeisti 30 straipsnio 2 dalį ir ją išdėstyti taip:
 Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Jeigu asmuo pateikia muitinės įstaigai Bendrijos muitinės kodekso 6 straipsnio 1 dalyje nurodytą rašytinį prašymą priimti sprendimą dėl muitų teisės aktų taikymo, sprendimas turi būti priimamas ne vėliau kaip per 10 dienų nuo visos muitinės įstaigos prašomos informacijos ir dokumentų, kurių reikia sprendimui priimti, pateikimo dienos, jeigu Lietuvos Respublikos įstatymai ar Lietuvos Respublikos tarptautinės sutartys nenustato kito termino.“
+„1. Jeigu asmuo pateikia muitinės įstaigai Bendrijos [muitinės kodekso 6 straipsnio 1 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nurodytą rašytinį prašymą priimti sprendimą dėl muitų teisės aktų taikymo, sprendimas turi būti priimamas ne vėliau kaip per 10 dienų nuo visos muitinės įstaigos prašomos informacijos ir dokumentų, kurių reikia sprendimui priimti, pateikimo dienos, jeigu Lietuvos Respublikos įstatymai ar Lietuvos Respublikos tarptautinės sutartys nenustato kito termino.“
 
 
 
@@ -127,7 +127,7 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 „39 straipsnis. Užsienio valiuta išreikštų prekių muitinės vertės elementų perskaičiavimas
 
 
-Jeigu prekių muitinės vertės elementai išreikšti ne eurais arba ne Lietuvos Respublikos nacionaline valiuta – litais ir centais, o užsienio valiuta, šie elementai perskaičiuojami remiantis oficialiai paskelbtu lito arba euro ir užsienio valiutos santykiu, kuris taikomas Bendrijos muitinės kodekso įgyvendinimo nuostatų nustatytą laiką.“
+Jeigu prekių muitinės vertės elementai išreikšti ne eurais arba ne Lietuvos Respublikos nacionaline valiuta – litais ir centais, o užsienio valiuta, šie elementai perskaičiuojami remiantis oficialiai paskelbtu lito arba euro ir užsienio valiutos santykiu, kuris taikomas Bendrijos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) įgyvendinimo nuostatų nustatytą laiką.“
 
 
 
@@ -174,40 +174,40 @@ priedas
 1. 1983 m. kovo 28 d. Tarybos reglamentas (EEB) Nr. 918/83, nustatantis Bendrijos atleidimo nuo muitų sistemą (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 419) (su paskutiniais pakeitimais, padarytais 2008 m. kovo 17 d. Tarybos reglamentu (EB) Nr. 274/2008 (OL 2008 L 85, p. 1) (Įstatyme – Atleidimo nuo muitų reglamentas). ^s-ed26c2ec118bc1f7b108cf7a
 
 
-2. 1983 m. liepos 29 d. Komisijos reglamentas (EEB) Nr. 2288/83, pateikiantis biologinių ir cheminių medžiagų, numatytų Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 60 straipsnio 1 dalies b punkte, sąrašą (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 461) (su paskutiniais pakeitimais, padarytais 1989 m. sausio 27 d. Komisijos reglamentu (EEB) Nr. 213/89 (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 45) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas). ^s-5825dbcbd60d5ab5aa27d133
+2. 1983 m. liepos 29 d. Komisijos [reglamentas (EEB) Nr. 2288/83](https://eur-lex.europa.eu/eli/reg/2288/83/oj), pateikiantis biologinių ir cheminių medžiagų, numatytų Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 60 straipsnio 1 dalies b punkte, sąrašą (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 461) (su paskutiniais pakeitimais, padarytais 1989 m. sausio 27 d. Komisijos reglamentu (EEB) Nr. 213/89 (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 45) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas). ^s-5825dbcbd60d5ab5aa27d133
 
 
-3. 1983 m. liepos 29 d. Komisijos reglamentas (EEB) Nr. 2289/83, išdėstantis Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 70–78 straipsnių įgyvendinimo nuostatas (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 463) (su paskutiniais pakeitimais, padarytais 2006 m. spalio 23 d. Komisijos reglamentu (EB) Nr. 1792/2006 (OL 2006 L 362, p. 1) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas). ^s-c878d7f7de9e7eeab61f93b1
+3. 1983 m. liepos 29 d. Komisijos [reglamentas (EEB) Nr. 2289/83](https://eur-lex.europa.eu/eli/reg/2289/83/oj), išdėstantis Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 70–78 straipsnių įgyvendinimo nuostatas (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 463) (su paskutiniais pakeitimais, padarytais 2006 m. spalio 23 d. Komisijos [reglamentu (EB) Nr. 1792/2006](https://eur-lex.europa.eu/eli/reg/1792/2006/oj) (OL 2006 L 362, p. 1) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas). ^s-c878d7f7de9e7eeab61f93b1
 
 
-4. 1983 m. liepos 29 d. Komisijos reglamentas (EEB) Nr. 2290/83, išdėstantis Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 50–59 straipsnių įgyvendinimo nuostatas (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 468) (su paskutiniais pakeitimais, padarytais 2006 m. spalio 23 d. Komisijos reglamentu (EB) Nr. 1792/2006 (OL 2006 L 362, p. 1) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas). ^s-bfac7e0c139b3890281d477f
+4. 1983 m. liepos 29 d. Komisijos [reglamentas (EEB) Nr. 2290/83](https://eur-lex.europa.eu/eli/reg/2290/83/oj), išdėstantis Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 50–59 straipsnių įgyvendinimo nuostatas (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 468) (su paskutiniais pakeitimais, padarytais 2006 m. spalio 23 d. Komisijos [reglamentu (EB) Nr. 1792/2006](https://eur-lex.europa.eu/eli/reg/1792/2006/oj) (OL 2006 L 362, p. 1) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas). ^s-bfac7e0c139b3890281d477f
 
 
-5. 1987 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2658/87 dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382) (su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Komisijos reglamentu (EB) Nr. 332/2009 (OL 2009 L 104, p. 3) (Įstatyme – Bendrojo muitų tarifo reglamentas). ^s-e7ca9a631edcc9a6994a4a9e
+5. 1987 m. liepos 23 d. Tarybos [reglamentas (EEB) Nr. 2658/87](https://eur-lex.europa.eu/eli/reg/2658/87/oj) [dėl tarifų](https://e-tar.lt/portal/lt/legalAct/SAV.511075) ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382) (su paskutiniais pakeitimais, padarytais 2009 m. balandžio 23 d. Komisijos reglamentu (EB) Nr. 332/2009 (OL 2009 L 104, p. 3) (Įstatyme – Bendrojo muitų tarifo reglamentas). ^s-e7ca9a631edcc9a6994a4a9e
 
 
-6. 1988 m. gruodžio 15 d. Komisijos reglamentas (EEB) Nr. 3915/88, išdėstantis nuostatas dėl Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 63c straipsnio įgyvendinimo (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 37) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas). ^s-17d092098684957b94873ef5
+6. 1988 m. gruodžio 15 d. Komisijos [reglamentas (EEB) Nr. 3915/88](https://eur-lex.europa.eu/eli/reg/3915/88/oj), išdėstantis nuostatas dėl Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 63c straipsnio įgyvendinimo (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 37) (Įstatyme – Atleidimo nuo muitų reglamentą įgyvendinantis reglamentas). ^s-17d092098684957b94873ef5
 
 
-7. 1992 m. spalio 12 d. Tarybos reglamentas (EEB) Nr. 2913/92, nustatantis Bendrijos muitinės kodeksą (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 307) (su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20 d. Tarybos reglamentu (EB) Nr. 1791/2006 (OL 2006 L 363, p. 1) (Įstatyme – Bendrijos muitinės kodeksas). ^s-0163d243bc79621295c28b8b
+7. 1992 m. spalio 12 d. Tarybos [reglamentas (EEB) Nr. 2913/92](https://eur-lex.europa.eu/eli/reg/2913/92/oj), nustatantis Bendrijos muitinės kodeksą (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 307) (su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20 d. Tarybos [reglamentu (EB) Nr. 1791/2006](https://eur-lex.europa.eu/eli/reg/1791/2006/oj) (OL 2006 L 363, p. 1) (Įstatyme – Bendrijos [muitinės kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145)). ^s-0163d243bc79621295c28b8b
 
 
-8. 1993 m. liepos 2 d. Komisijos reglamentas (EEB) Nr. 2454/93, išdėstantis Tarybos reglamento (EEB) Nr.  913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas (OL 2004 m. specialusis leidimas, 2 skyrius, 6 tomas, p. 3) (su paskutiniais pakeitimais, padarytais 2009 m. balandžio 30 d. Komisijos reglamentu (EB) Nr. 414/2009 (OL 2009 L 125, p. 6) (Įstatyme – Bendrijos muitinės kodekso įgyvendinimo nuostatos). ^s-7b4d7157f74ff0145d4fa77b
+8. 1993 m. liepos 2 d. Komisijos [reglamentas (EEB) Nr. 2454/93](https://eur-lex.europa.eu/eli/reg/2454/93/oj), išdėstantis Tarybos reglamento (EEB) Nr.  913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas (OL 2004 m. specialusis leidimas, 2 skyrius, 6 tomas, p. 3) (su paskutiniais pakeitimais, padarytais 2009 m. balandžio 30 d. Komisijos reglamentu (EB) Nr. 414/2009 (OL 2009 L 125, p. 6) (Įstatyme – Bendrijos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) įgyvendinimo nuostatos). ^s-7b4d7157f74ff0145d4fa77b
 
 
 9. 1997 m. kovo 13 d. Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių valdymo institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti tinkamą muitinės ir žemės ūkio teisės aktų taikymą (OL 2004 m. specialusis leidimas, 2 skyrius, 8 tomas, p. 217) (su paskutiniais pakeitimais, padarytais 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 766/2008 (OL 2008 L 218, p. 48) (Įstatyme – Tarpusavio pagalbos reglamentas). ^s-98765c6f710eed4def2be3f7
 
 
-10. 2003 m. liepos 22 d. Tarybos reglamentas (EB) Nr. 1383/2003 dėl muitinės veiksmų, atliekamų su prekėmis, kurios, kaip įtariama, pagamintos pažeidžiant tam tikras intelektinės nuosavybės teises, ir priemonių, kurių turi būti imamasi prekių atžvilgiu nustačius, kad jos pagamintos pažeidžiant tokias teises (OL 2004 m. specialusis leidimas, 2 skyrius, 13 tomas, p. 469) (Įstatyme – Intelektinės nuosavybės apsaugos reglamentas). ^s-4aae8b597698024cbdcabfb2
+10. 2003 m. liepos 22 d. Tarybos [reglamentas (EB) Nr. 1383/2003](https://eur-lex.europa.eu/eli/reg/1383/2003/oj) dėl muitinės veiksmų, atliekamų su prekėmis, kurios, kaip įtariama, pagamintos pažeidžiant tam tikras intelektinės nuosavybės teises, ir priemonių, kurių turi būti imamasi prekių atžvilgiu nustačius, kad jos pagamintos pažeidžiant tokias teises (OL 2004 m. specialusis leidimas, 2 skyrius, 13 tomas, p. 469) (Įstatyme – Intelektinės nuosavybės apsaugos reglamentas). ^s-4aae8b597698024cbdcabfb2
 
 
-11. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 638/2004 dėl prekybos prekėmis tarp valstybių narių Bendrijos statistinių duomenų, panaikinantis Tarybos reglamentą (EEB) Nr. 3330/91 (OL 2004 m. specialusis leidimas, 2 skyrius, 16 tomas, p. 64). ^s-06b6f3a3a56fa5c0e57fab85
+11. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 638/2004 dėl prekybos prekėmis tarp valstybių narių Bendrijos statistinių duomenų, panaikinantis Tarybos [reglamentą (EEB) Nr. 3330/91](https://eur-lex.europa.eu/eli/reg/3330/91/oj) (OL 2004 m. specialusis leidimas, 2 skyrius, 16 tomas, p. 64). ^s-06b6f3a3a56fa5c0e57fab85
 
 
-12. 2004 m. spalio 21 d. Komisijos reglamentas (EB) Nr. 1891/2004, nustatantis Tarybos reglamento (EB) Nr. 1383/2003 dėl muitinės priežiūros priemonių, taikomų prekėms, kurios, kaip įtariama, pagamintos pažeidžiant tam tikras intelektinės nuosavybės teises, ir priemonių, kurių turi būti imamasi prekių atžvilgiu nustačius, kad jos pagamintos pažeidžiant tokias teises, įgyvendinimo nuostatas (OL 2004 L 328, p. 16) (su paskutiniais pakeitimais, padarytais 2007 m. spalio 5 d. Komisijos reglamentu (EB) Nr. 1172/2007 (OL 2007 L 261, p. 12) (Įstatyme – Intelektinės nuosavybės apsaugos reglamentą įgyvendinantis reglamentas). ^s-9a6f37a8b905d4ac7e77478e
+12. 2004 m. spalio 21 d. Komisijos [reglamentas (EB) Nr. 1891/2004](https://eur-lex.europa.eu/eli/reg/1891/2004/oj), nustatantis Tarybos [reglamento (EB) Nr. 1383/2003](https://eur-lex.europa.eu/eli/reg/1383/2003/oj) dėl muitinės priežiūros priemonių, taikomų prekėms, kurios, kaip įtariama, pagamintos pažeidžiant tam tikras intelektinės nuosavybės teises, ir priemonių, kurių turi būti imamasi prekių atžvilgiu nustačius, kad jos pagamintos pažeidžiant tokias teises, įgyvendinimo nuostatas (OL 2004 L 328, p. 16) (su paskutiniais pakeitimais, padarytais 2007 m. spalio 5 d. Komisijos [reglamentu (EB) Nr. 1172/2007](https://eur-lex.europa.eu/eli/reg/1172/2007/oj) (OL 2007 L 261, p. 12) (Įstatyme – Intelektinės nuosavybės apsaugos reglamentą įgyvendinantis reglamentas). ^s-9a6f37a8b905d4ac7e77478e
 
 
-13. 2004 m. lapkričio 18 d. Komisijos reglamentas (EB) Nr. 1982/2004, įgyvendinantis Europos Parlamento ir Tarybos reglamentą Nr. 638/2004 dėl prekybos prekėmis tarp valstybių narių Bendrijos statistinių duomenų, panaikinantį Komisijos reglamentus (EB) Nr. 1901/2000 ir (EEB) Nr. 3590/92 (OL 2004 L 343, p. 3) (su paskutiniais pakeitimais, padarytais 2005 m. lapkričio 24 d. Komisijos reglamentu (EB) Nr. 1915/2005 (OL 2005 L 307, p. 8).“ ^s-0549ef83ee5764be1b03febc
+13. 2004 m. lapkričio 18 d. Komisijos [reglamentas (EB) Nr. 1982/2004](https://eur-lex.europa.eu/eli/reg/1982/2004/oj), įgyvendinantis Europos Parlamento ir Tarybos reglamentą Nr. 638/2004 dėl prekybos prekėmis tarp valstybių narių Bendrijos statistinių duomenų, panaikinantį Komisijos [reglamentus (EB) Nr. 1901/2000](https://eur-lex.europa.eu/eli/reg/1901/2000/oj) ir (EEB) Nr. 3590/92 (OL 2004 L 343, p. 3) (su paskutiniais pakeitimais, padarytais 2005 m. lapkričio 24 d. Komisijos [reglamentu (EB) Nr. 1915/2005](https://eur-lex.europa.eu/eli/reg/1915/2005/oj) (OL 2005 L 307, p. 8).“ ^s-0549ef83ee5764be1b03febc
 
 
 

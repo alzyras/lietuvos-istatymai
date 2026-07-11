@@ -91,7 +91,7 @@ Vilnius
 ### 5 straipsnis. 9 straipsnio 2, 4, 6 ir 7 dalių pakeitimas ^s-abac2e1998dc3934cf3d6f93
 
 
-[[#^s-19b5769646913702b4722fd4|9 straipsnio]] 2, 4, 6 ir [[#^s-2646c6136db2442985ab8353|7 dalyse]] vietoj žodžių „apskrities valdytojo“, „apskričių valdytojų“, „apskrities valdytojas“, „apskričių valdytojai“ įrašyti atitinkamai žodžius „apskrities viršininko“, „apskričių viršininkų“, „apskrities viršininkas“, „apskričių viršininkai“ ir šias dalis išdėstyti taip:
+[[#^s-19b5769646913702b4722fd4|9 straipsnio]] 2, 4, 6 ir 7 dalyse vietoj žodžių „apskrities valdytojo“, „apskričių valdytojų“, „apskrities valdytojas“, „apskričių valdytojai“ įrašyti atitinkamai žodžius „apskrities viršininko“, „apskričių viršininkų“, „apskrities viršininkas“, „apskričių viršininkai“ ir šias dalis išdėstyti taip:
 
 
 „2. Bendrųjų planų prognozė rengiama ne trumpesniam kaip 20 metų laikotarpiui. Bendrieji planai neterminuoti. Jie gali būti keičiami, papildomi Vyriausybės, apskrities viršininko ar savivaldybės valdybos (mero) teikimu [[#^s-4cbd026b7887cef9a447f485|8 straipsnio]] pirmosios dalies 3 punkte, šio straipsnio antrojoje dalyje, 23 straipsnio ketvirtojoje dalyje nustatyta tvarka.“

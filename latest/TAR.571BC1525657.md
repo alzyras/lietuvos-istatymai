@@ -242,7 +242,7 @@ Informacijos, kurią Lietuvos bankas gauna finansų rinkos priežiūros tikslais
 4. Prižiūrimi finansų rinkos dalyviai privalo pervesti įmokas į Lietuvos banko sąskaitą kas ketvirtį ne vėliau kaip iki kito ketvirčio pirmojo mėnesio 30 dienos. Už praleistą terminą sumokėti įmokas prižiūrimi finansų rinkos dalyviai į Lietuvos banko sąskaitą privalo pervesti delspinigius: 0,05 procento nuo nesumokėtos sumos už kiekvieną dieną. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą uždelstą sumą. ^s-02b352077c45d80918008e39
 
 
-5. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu išieškomi ne ginčo tvarka (be asmens nurodymo nurašyti lėšas) iš prižiūrimo finansų rinkos dalyvio piniginių lėšų, esančių jo sąskaitose Lietuvos banke, kredito ar mokėjimo įstaigose. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu gali būti išieškomi taip pat iš kito prižiūrimo finansų rinkos dalyvio turto. Šiuo atveju sprendimą vykdo antstoliai Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-0d964a300e3d5a6437bf0bac
+5. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu išieškomi ne ginčo tvarka (be asmens nurodymo nurašyti lėšas) iš prižiūrimo finansų rinkos dalyvio piniginių lėšų, esančių jo sąskaitose Lietuvos banke, kredito ar mokėjimo įstaigose. Nesumokėtos įmokos ir delspinigiai Lietuvos banko sprendimu gali būti išieškomi taip pat iš kito prižiūrimo finansų rinkos dalyvio turto. Šiuo atveju sprendimą vykdo antstoliai [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-0d964a300e3d5a6437bf0bac
 
 
 
@@ -347,7 +347,7 @@ Vartotojų ir finansų rinkos dalyvių ginčų nagrinėjimo ne teisme tvarka
 9. Vartotojo ginčas su finansų rinkos dalyviu turi būti išnagrinėtas per 2 mėnesius nuo vartotojo kreipimosi, atitinkančio kreipimuisi keliamus reikalavimus, gavimo Lietuvos banke dienos. Ypatingais atvejais, atsižvelgdamas į ginčo sudėtingumą, Lietuvos bankas turi teisę pratęsti šį terminą, bet ne daugiau kaip papildomais 2 mėnesiais. ^s-e6431895889eae749dfa7473
 
 
-10. Ginčo nagrinėjimo Lietuvos banke sustabdymui ir nutraukimui mutatis mutandis taikomi atitinkamai Lietuvos Respublikos civilinio proceso kodekso 163, 164, 166, 167, 293 ir 294 straipsniai. ^s-8ad206069ce3ef392462bbb6
+10. Ginčo nagrinėjimo Lietuvos banke sustabdymui ir nutraukimui mutatis mutandis taikomi atitinkamai [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) [163](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [164](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [166](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [167](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [293](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir [294](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) straipsniai. ^s-8ad206069ce3ef392462bbb6
 
 
 11. Lietuvos bankas privalo tarpininkauti, kad ginčo šalys pasiektų abi šalis tenkinantį susitarimą, jei, atsižvelgiant į ginčo aplinkybes, taikus susitarimas yra įmanomas. Jei tokio susitarimo pasiekti nepavyksta, Lietuvos bankas priima sprendimą dėl ginčo esmės. Dėl ginčo esmės Lietuvos bankas priima vieną iš šių sprendimų: ^s-1efe220b47caf85dd72d76e9
@@ -561,16 +561,16 @@ Buvusį Įstatymo priedą laikyti 2 priedu, jį pakeisti ir išdėstyti taip:
 2. 1992 m. vasario 7 d. Europos Bendrijos steigimo sutarties Protokolas Nr. 18 dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto su paskutiniais pakeitimais, padarytais 2007 m. gruodžio 17 d. Lisabonos sutartimi (OL 2007 C 306, p. 1). ^s-a54bcf5ad43cf8a5b6b90ed8
 
 
-3. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3603/93, nustatantis apibrėžimus, susijusius su Sutarties 104 ir 104b (1) straipsniuose numatytų uždraudimų taikymu (OL 2004 m. specialusis leidimas, 10 skyrius, 1 tomas, p. 27). ^s-96b07d24da31800f5622384e
+3. 1993 m. gruodžio 13 d. Tarybos [reglamentas (EB) Nr. 3603/93](https://eur-lex.europa.eu/eli/reg/3603/93/oj), nustatantis apibrėžimus, susijusius su Sutarties 104 ir 104b (1) straipsniuose numatytų uždraudimų taikymu (OL 2004 m. specialusis leidimas, 10 skyrius, 1 tomas, p. 27). ^s-96b07d24da31800f5622384e
 
 
-4. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 3604/93, nustatantis apibrėžimus, susijusius su Sutarties 104a straipsnyje numatytos privilegijos naudotis finansų įstaigomis uždraudimo taikymu (OL 2004 m. specialusis leidimas, 10 skyrius, 1 tomas, p. 30). ^s-001cb04bdd8e7ce7ae3838fe
+4. 1993 m. gruodžio 13 d. Tarybos [reglamentas (EB) Nr. 3604/93](https://eur-lex.europa.eu/eli/reg/3604/93/oj), nustatantis apibrėžimus, susijusius su Sutarties 104a straipsnyje numatytos privilegijos naudotis finansų įstaigomis uždraudimo taikymu (OL 2004 m. specialusis leidimas, 10 skyrius, 1 tomas, p. 30). ^s-001cb04bdd8e7ce7ae3838fe
 
 
-5. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1338/2001, nustatantis priemones, būtinas euro apsaugai nuo padirbinėjimo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 152), su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 44/2009 (OL 2009 L 17, p. 1). ^s-b33ec661981665156ad63c02
+5. 2001 m. birželio 28 d. Tarybos [reglamentas (EB) Nr. 1338/2001](https://eur-lex.europa.eu/eli/reg/1338/2001/oj), nustatantis priemones, būtinas euro apsaugai nuo padirbinėjimo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 152), su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 18 d. Tarybos reglamentu (EB) Nr. 44/2009 (OL 2009 L 17, p. 1). ^s-b33ec661981665156ad63c02
 
 
-6. 2001 m. birželio 28 d. Tarybos reglamentas (EB) Nr. 1339/2001, išplečiantis Reglamento (EB) Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo padirbinėjimo, veikimą toms valstybėms narėms, kurios nėra priėmusios euro kaip savo bendros valiutos (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 157).“ ^s-13dc6c83d2eb43ca588757ac
+6. 2001 m. birželio 28 d. Tarybos [reglamentas (EB) Nr. 1339/2001](https://eur-lex.europa.eu/eli/reg/1339/2001/oj), išplečiantis [Reglamento (EB) Nr. 1338/2001](https://eur-lex.europa.eu/eli/reg/1338/2001/oj), nustatančio priemones, būtinas euro apsaugai nuo padirbinėjimo, veikimą toms valstybėms narėms, kurios nėra priėmusios euro kaip savo bendros valiutos (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 157).“ ^s-13dc6c83d2eb43ca588757ac
 
 
 

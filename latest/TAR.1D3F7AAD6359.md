@@ -44,7 +44,7 @@ Vilnius
 1. Pakeisti 70 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip: ^s-ed29cf05bac4997f62cc3b8f
 
 
-„5) atlieka kompetentingai institucijai priskirtas funkcijas, nustatytas Reglamente (EB) Nr. 1060/2009 ir 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 648/2012 (toliau – Reglamentas (ES) Nr. 648/2012);“.
+„5) atlieka kompetentingai institucijai priskirtas funkcijas, nustatytas [Reglamente (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) ir 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 648/2012 (toliau – Reglamentas (ES) Nr. 648/2012);“.
 
 
 2. Pakeisti 70 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip: ^s-b9c405564b0673cb7e80f873

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-7fb8db73b8b71263dce58e2d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos  Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. balandžio 30 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Uzbekistano Respublikos sutartį dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose“, ratifikuoja Lietuvos Respublikos ir Uzbekistano Respublikos sutartį dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose, pasirašytą 1997 m. vasario 20 d. Taškente.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos  Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. balandžio 30 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Uzbekistano Respublikos sutartį dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose“](https://e-tar.lt/portal/lt/legalAct/TAR.A4D97507550B), ratifikuoja Lietuvos Respublikos ir Uzbekistano Respublikos sutartį dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose, pasirašytą 1997 m. vasario 20 d. Taškente.
 
 
 

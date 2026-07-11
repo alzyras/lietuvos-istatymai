@@ -236,7 +236,7 @@ BALTIJOS JŪROS APLINKOS APSAUGOS STRATEGIJA
 2. Rengiant jūros aplinkos būklės įvertinimą ir šio įstatymo [[#^s-ee6bef797f5bc26d2b37523e|5 straipsnyje]] nurodytą valstybinę aplinkos stebėsenos programą, siekiama užtikrinti, kad vertinimo metodai būtų suderinti su kitų Baltijos jūros valstybių vertinimo metodais ir būtų lengviau palyginti stebėsenos rezultatus, atsižvelgti į atitinkamą tarpvalstybinį poveikį ir veiksnius. ^s-2c9ff5f33c0a2b59e3debdb2
 
 
-3. Šio straipsnio 1 ir [[#^s-2c9ff5f33c0a2b59e3debdb2|2 dalyse]] nurodytas bendradarbiavimas ir derinimas vykdomas per Helsinkio komisiją ar kitą Baltijos jūros rajone veikiančią tarptautinę organizaciją. Bendradarbiaujant remiamasi esamomis programomis ir veikla, plėtojama pagal Lietuvos Respublikos tarptautinius susitarimus. ^s-2b2448c10b60c9559571d8da
+3. Šio straipsnio [[#^s-c800d8ce9a4c10f47c1ee7f9|1]] ir [[#^s-2c9ff5f33c0a2b59e3debdb2|2]] dalyse nurodytas bendradarbiavimas ir derinimas vykdomas per Helsinkio komisiją ar kitą Baltijos jūros rajone veikiančią tarptautinę organizaciją. Bendradarbiaujant remiamasi esamomis programomis ir veikla, plėtojama pagal Lietuvos Respublikos tarptautinius susitarimus. ^s-2b2448c10b60c9559571d8da
 
 
 4. Siekiant geros jūros aplinkos būklės, prireikus Strategijos rengimas ir įgyvendinimas koordinuojamas ir bendradarbiaujama su Baltijos jūros baseine esančiomis sausumos valstybėmis. Šis koordinavimas ir bendradarbiavimas vyksta per [[#^s-2b2448c10b60c9559571d8da|šio straipsnio 3 dalyje]] nurodytas organizacijas arba bendradarbiaujama tarpvalstybinių susitarimų dėl tarpvalstybinių upių baseinų rajonų, nurodytų [[latest/TAR.B3CC2C0B9BD2|Vandens įstatyme]], pagrindu. ^s-f23a16fc4f8973229eceae52
@@ -295,7 +295,7 @@ Lietuvos Respublikos jūros rajone esantys įrenginiai turi būti eksploatuojami
 2. Lietuvos Respublikos jūros rajone atliekas šalinti ir deginti draudžiama. ^s-b90497dbd5fd78f576568634
 
 
-3. Lietuvos Respublikos jūros rajone iškastam gruntui šalinti šio straipsnio 1 ir [[#^s-b90497dbd5fd78f576568634|2 dalyse]] nustatyti draudimai netaikomi. ^s-ea470a6c665dd00063395173
+3. Lietuvos Respublikos jūros rajone iškastam gruntui šalinti šio straipsnio [[#^s-3f581fec97b8fc72313d2fe3|1]] ir [[#^s-b90497dbd5fd78f576568634|2]] dalyse nustatyti draudimai netaikomi. ^s-ea470a6c665dd00063395173
 
 
 
@@ -318,7 +318,7 @@ Lietuvos Respublikos jūros rajone esantys įrenginiai turi būti eksploatuojami
 2. Laivų kapitonai ir (ar) valdytojai ir orlaivių vadai, įrenginių valdytojai privalo nedelsdami pranešti artimiausios pakrantės valstybės kompetentingai institucijai apie pastebėtą teršiančių medžiagų išmetimą, atliekų šalinimą ir deginimą, Lietuvos Respublikos jūros rajone – Jūrų gelbėjimo koordinavimo centrui, uosto akvatorijoje – to uosto administracijai. ^s-cad2487921452e811990751a
 
 
-3. Jūrų gelbėjimo koordinavimo centras privalo nedelsdamas pranešti Aplinkos ministerijos įgaliotai institucijai apie visus šio straipsnio 1 ir [[#^s-cad2487921452e811990751a|2 dalyse]] nurodytus įvykius ir taršos incidentus. ^s-7558581a27a82b149336428f
+3. Jūrų gelbėjimo koordinavimo centras privalo nedelsdamas pranešti Aplinkos ministerijos įgaliotai institucijai apie visus šio straipsnio [[#^s-102fb551d5a679549d57912b|1]] ir [[#^s-cad2487921452e811990751a|2]] dalyse nurodytus įvykius ir taršos incidentus. ^s-7558581a27a82b149336428f
 
 
 
@@ -357,7 +357,7 @@ Rinkliava už laivuose susidarančių atliekų priėmimo, tvarkymo paslaugas yra
 ### 18 straipsnis. Uosto administracijų suteikiamos išimtys ^s-5818e4dc09acb2f85aaef152
 
 
-Jeigu laivai plaukioja pagal tvarkaraštį, dažnai ir reguliariai užsuka į uostus, jeigu yra pakankamai įrodymų dėl priemonių, užtikrinančių, kad laivuose susidarančios atliekos bus pristatomos ir rinkliavos bus mokamos laivo maršrute esančiame uoste, uostų administracijos gali atleisti tokius laivus nuo šio įstatymo 16 ir [[#^s-e2046291d685442e2a6f8227|17 straipsniuose]] nurodytų prievolių.
+Jeigu laivai plaukioja pagal tvarkaraštį, dažnai ir reguliariai užsuka į uostus, jeigu yra pakankamai įrodymų dėl priemonių, užtikrinančių, kad laivuose susidarančios atliekos bus pristatomos ir rinkliavos bus mokamos laivo maršrute esančiame uoste, uostų administracijos gali atleisti tokius laivus nuo šio įstatymo [[#^s-838e3a918f8c9528c596af06|16]] ir [[#^s-e2046291d685442e2a6f8227|17]] straipsniuose nurodytų prievolių.
 
 
 
@@ -371,7 +371,7 @@ Jeigu laivai plaukioja pagal tvarkaraštį, dažnai ir reguliariai užsuka į uo
 ### 20 straipsnis. Laivuose susidarančių atliekų ir laivų krovinių liekanų tvarkymo reikalavimų įgyvendinimas ^s-244c585f5b54b80640ac392c
 
 
-Šio įstatymo 15–[[#^s-d18d3622df0061adae8c6e53|19 straipsniuose]] nustatytų reikalavimų įgyvendinimo tvarką tvirtina susisiekimo ir aplinkos ministrai.
+Šio įstatymo [[#^s-5ee2c06eb980d47b381b16bf|15]]–[[#^s-d18d3622df0061adae8c6e53|19]] straipsniuose nustatytų reikalavimų įgyvendinimo tvarką tvirtina susisiekimo ir aplinkos ministrai.
 
 
 
@@ -500,7 +500,7 @@ Pažeidus šio įstatymo reikalavimus, atsakomybė taikoma įstatymų nustatyta 
 ### 33 straipsnis. Šio įstatymo 7–13 straipsnių taikymo išimtys ^s-62564a63225d5f4b8d3690ed
 
 
-Šio įstatymo 7–[[#^s-42abd106caa9f30b244c4139|13 straipsnių]] nuostatos netaikomos, kai teršiančių medžiagų išmetimo ar šalinimo tikslas yra žmonių gyvybės gelbėjimas ar laivų, įrenginių saugumo užtikrinimas.
+Šio įstatymo [[#^s-b1756599ecd68fcf5f0e8a94|7]]–[[#^s-42abd106caa9f30b244c4139|13]] straipsnių nuostatos netaikomos, kai teršiančių medžiagų išmetimo ar šalinimo tikslas yra žmonių gyvybės gelbėjimas ar laivų, įrenginių saugumo užtikrinimas.
 
 
 
@@ -662,7 +662,7 @@ jūros aplinkos apsaugos
 
 
 
-1. 2000 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva 2000/59/EB dėl uosto priėmimo įrenginių, skirtų laivuose susidarančioms atliekoms ir krovinių likučiams (OL 2000 L 332, p. 81), su pakeitimais, padarytais Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1). ^s-dbac2571a2c45b6371bcbae1
+1. 2000 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva 2000/59/EB dėl uosto priėmimo įrenginių, skirtų laivuose susidarančioms atliekoms ir krovinių likučiams (OL 2000 L 332, p. 81), su pakeitimais, padarytais Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1137/2008](https://eur-lex.europa.eu/eli/reg/1137/2008/oj) (OL 2008 L 311, p. 1). ^s-dbac2571a2c45b6371bcbae1
 
 
 2. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/35/EB dėl taršos iš laivų ir sankcijų už pažeidimus įvedimo (OL 2005 L 225, p. 11). ^s-7ff089cee02e9659eb0e9c4a

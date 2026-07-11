@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Supratimo memorandumo ratifikavimas ^s-191139c9c197b0251826b7bb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. lapkričio 14 d. dekretą Nr. 1553, ratifikuoja Pavojingų krovinių gabenimo ro-ro tipo laivais pagal Tarptautinį jūra gabenamų pavojingų krovinių kodeksą (IMDG kodeksą), Pavojingų krovinių tarptautinio gabenimo geležinkeliais taisyklių (RID) ir Europos sutarties dėl pavojingų krovinių tarptautinio vežimo keliais (ADR) reikalavimus Supratimo memorandumą, pasirašytą 1998 m. rugpjūčio 25–27 d. (Rione redakcija).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. lapkričio 14 d. dekretą Nr. 1553](https://e-tar.lt/portal/lt/legalAct/TAR.321721DE7F36), ratifikuoja Pavojingų krovinių gabenimo ro-ro tipo laivais pagal Tarptautinį jūra gabenamų pavojingų krovinių kodeksą (IMDG kodeksą), Pavojingų krovinių tarptautinio gabenimo geležinkeliais taisyklių (RID) ir Europos sutarties dėl pavojingų krovinių tarptautinio vežimo keliais (ADR) reikalavimus Supratimo memorandumą, pasirašytą 1998 m. rugpjūčio 25–27 d. (Rione redakcija).
 
 
 

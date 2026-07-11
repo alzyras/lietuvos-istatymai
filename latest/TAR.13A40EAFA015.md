@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-5710011fe0b26bd43045aabb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. kovo 22 d. dekretą Nr. 359, ratifikuoja 1998 m. liepos 16 d. Briuselyje pasirašytą Protokolą, keičiantį Europos sutarties, steigiančios asociaciją tarp Europos bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, prekybos aspektus, atsižvelgiant į Austrijos Respublikos, Suomijos Respublikos ir Švedijos Karalystės įstojimą į Europos Sąjungą bei Urugvajaus raundo derybų išdavas dėl žemės ūkio, įskaitant šiuo metu galiojančių preferencinių susitarimų pataisymus.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento [1999 m. kovo 22 d. dekretą Nr. 359](https://e-tar.lt/portal/lt/legalAct/TAR.A17C487E521E), ratifikuoja 1998 m. liepos 16 d. Briuselyje pasirašytą Protokolą, keičiantį Europos sutarties, steigiančios asociaciją tarp Europos bendrijų bei jų šalių narių, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, prekybos aspektus, atsižvelgiant į Austrijos Respublikos, Suomijos Respublikos ir Švedijos Karalystės įstojimą į Europos Sąjungą bei Urugvajaus raundo derybų išdavas dėl žemės ūkio, įskaitant šiuo metu galiojančių preferencinių susitarimų pataisymus.
 
 
 

@@ -53,7 +53,7 @@ Lietuvos Respublikos Vyriausybė:
 2) iki 1997 m. spalio 1 d. parengia ir pateikia Seimui Žemės ir Žemės nuomos įstatymų pakeitimų ir papildymų projektus; ^s-a666f5e43c4eb992a262705f
 
 
-3) iki 1997 m. rugsėjo 15 d. parengia ir pateikia Seimui Civilinio proceso kodekso papildymo projektą; ^s-6121ca239eb28241465a2e37
+3) iki 1997 m. rugsėjo 15 d. parengia ir pateikia Seimui [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) papildymo projektą; ^s-6121ca239eb28241465a2e37
 
 
 4) iki 1997 m. spalio 1 d. parengia ir pateikia Seimui lengvatų ir valstybės paramos piliečiams, gavusiems lygiaverčius žemės sklypus už valstybės paimtą bei išperkamą žemę pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą, ir piliečiams, neturėjusiems ir neturintiems kaimo vietovėje nuosavybės teise žemės, tačiau pageidaujantiems steigti ūkį, įstatymo projektą; ^s-d47ee6ac4f82b3e87261776d
@@ -69,14 +69,14 @@ Lietuvos Respublikos Vyriausybė:
 1. Institucijos, išmokančios pinigines kompensacijas už valstybės išperkamą išlikusį nekilnojamąjį turtą, kol nėra patvirtinta nauja tvarka, vadovaujasi galiojančiais Vyriausybės nutarimais, nustatančiais kompensacijų išmokėjimo tvarką. ^s-9c4a0b4e74bea22b53008844
 
 
-2. Iki Lietuvos Respublikos įstatymo „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ galiojimo sustabdymo laikinojo įstatymo įsigaliojimo dienos piliečiams pamatuoti grąžinami natūra žemės ir miško sklypai baigiami forminti pagal galiojusio Lietuvos Respublikos įstatymo „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ nuostatas Vyriausybės nustatyta tvarka. ^s-5c101e2f5c8c388bfa80a4f1
+2. Iki Lietuvos Respublikos įstatymo [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) galiojimo sustabdymo laikinojo įstatymo įsigaliojimo dienos piliečiams pamatuoti grąžinami natūra žemės ir miško sklypai baigiami forminti pagal galiojusio Lietuvos Respublikos įstatymo [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) nuostatas Vyriausybės nustatyta tvarka. ^s-5c101e2f5c8c388bfa80a4f1
 
 
 
 ### 4 straipsnis. Atidėtų civilinių bylų nagrinėjimas ^s-0053cb0fdcfcee1ae3c4e880
 
 
-Teismuose pagal Lietuvos Respublikos įstatymo „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ galiojimo sustabdymo laikinojo įstatymo [[#^s-be5a6bf0489786ebdee07b2c|2 straipsnį]] atidėtų civilinių bylų nagrinėjimas užbaigiamas pagal naujas [[latest/TAR.8A16A03D98D4|Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo]] nuostatas.
+Teismuose pagal Lietuvos Respublikos įstatymo [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) galiojimo sustabdymo laikinojo įstatymo [[#^s-be5a6bf0489786ebdee07b2c|2 straipsnį]] atidėtų civilinių bylų nagrinėjimas užbaigiamas pagal naujas [[latest/TAR.8A16A03D98D4|Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo]] nuostatas.
 
 
 

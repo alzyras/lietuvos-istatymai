@@ -140,7 +140,7 @@ Papildyti 8 straipsnio 1 dalį 8 punktu:
 1. Pakeisti [[#^s-e0a66c13f4626d9fda08bb02|17 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-2d87f3ea5d46e9cc65284270
 
 
-„3. Dėl nacionalinio saugumo interesų, kai to reikia valstybės konstitucinei santvarkai, gynybinei galiai ar saugumui užtikrinti, suderinus su Lietuvos Respublikos užsienio reikalų ministerija, gali būti netaikomos [[#^s-2d87f3ea5d46e9cc65284270|šio straipsnio 1 dalies]] 2 ir 6 punktuose nustatytos vizos išdavimo sąlygos.“
+„3. Dėl nacionalinio saugumo interesų, kai to reikia valstybės konstitucinei santvarkai, gynybinei galiai ar saugumui užtikrinti, suderinus su Lietuvos Respublikos užsienio reikalų ministerija, gali būti netaikomos šio straipsnio 1 dalies 2 ir 6 punktuose nustatytos vizos išdavimo sąlygos.“
 
 
 2. Papildyti [[#^s-698373960150af5966e9e241|17 straipsnį 4 dalimi]]: ^s-b3f9ff48efa7635e5bebb7b1
@@ -201,7 +201,7 @@ Pakeisti [[#^s-5f906f828a1918166d6f4dd3|26 straipsnį]] ir jį išdėstyti taip:
 1. Leidimas gyventi užsieniečiui gali būti išduodamas arba keičiamas, jeigu užsienietis: ^s-a551b2cea4eba2e648133459
 
 
-1) atitinka šio Įstatymo [[#^s-530f8ee10ed4e4fc17b7a63a|7 straipsnio]] 1, 2, 4 ir [[#^s-11b99a729bb74744d5116cca|5 punktuose]] nustatytas sąlygas; ^s-8720a239b6d5177d649b9607
+1) atitinka šio Įstatymo [[#^s-530f8ee10ed4e4fc17b7a63a|7 straipsnio]] 1, 2, 4 ir 5 punktuose nustatytas sąlygas; ^s-8720a239b6d5177d649b9607
 
 
 2) turi galiojantį sveikatos draudimą patvirtinantį dokumentą, kai Lietuvos Respublikos įstatymų numatytais atvejais nėra apdraustas privalomuoju sveikatos draudimu, arba Lietuvos Respublikos Vyriausybės nustatytais atvejais ir tvarka turi patvirtintą Lietuvos Respublikoje gyvenančio Lietuvos Respublikos piliečio arba užsieniečio įsipareigojimą apmokėti išlaidas už gyvenimo Lietuvos Respublikoje laikotarpiu jam suteiktas sveikatos priežiūros paslaugas; ^s-aa22346b83fc748c1dd094b4
@@ -534,7 +534,7 @@ Pakeisti 51 straipsnio 5 dalį ir ją išdėstyti taip:
 5. Pakeisti 53 straipsnio 6 dalį ir ją išdėstyti taip: ^s-74489929f4112f1bdc7796f7
 
 
-„6. Leidimas nuolat gyventi, išduodamas šio straipsnio 1 dalies 8 punkte ir [[#^s-74489929f4112f1bdc7796f7|5 dalyje]] nustatytais pagrindais, gali būti išduotas, jeigu užsienietis išlaikė valstybinės kalbos egzaminą ir Lietuvos Respublikos Konstitucijos pagrindų egzaminą. Valstybinės kalbos ir Lietuvos Respublikos Konstitucijos pagrindų egzaminų ir pažymėjimų išdavimo tvarką nustato Lietuvos Respublikos Vyriausybė.“
+„6. Leidimas nuolat gyventi, išduodamas šio straipsnio 1 dalies 8 punkte ir 5 dalyje nustatytais pagrindais, gali būti išduotas, jeigu užsienietis išlaikė valstybinės kalbos egzaminą ir Lietuvos Respublikos Konstitucijos pagrindų egzaminą. Valstybinės kalbos ir Lietuvos Respublikos Konstitucijos pagrindų egzaminų ir pažymėjimų išdavimo tvarką nustato Lietuvos Respublikos Vyriausybė.“
 
 
 
@@ -924,7 +924,7 @@ Papildyti 127 straipsnio 1 dalį ir ją išdėstyti taip:
 1. 130 straipsnio 3 dalyje vietoj žodžių „pavojų“ įrašyti žodžius „grėsmę“ ir šią dalį išdėstyti taip: ^s-f9b315fc783ee631d7875d40
 
 
-„3. [[#^s-f9b315fc783ee631d7875d40|Šio straipsnio 1 dalies]] nuostatos netaikomos užsieniečiui, kuris dėl svarbių priežasčių kelia grėsmę Lietuvos Respublikos saugumui arba jis įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo ir kelia grėsmę visuomenei.“
+„3. Šio straipsnio 1 dalies nuostatos netaikomos užsieniečiui, kuris dėl svarbių priežasčių kelia grėsmę Lietuvos Respublikos saugumui arba jis įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo ir kelia grėsmę visuomenei.“
 
 
 2. Papildyti 130 straipsnį 4 dalimi: ^s-55eb49b92d0ca6434eed5f52
@@ -1054,7 +1054,7 @@ Papildyti Įstatymą 1401 straipsniu:
 2. Dėl šio Įstatymo 54 straipsnio 1 dalies 2 punkte, 90 straipsnio 1 dalies 8 punkte ir 2 dalies 4 punkte, 106 straipsnio 1 dalyje ir 126 straipsnio 1 dalies 3 punkte nurodytos užsieniečio grėsmės viešajai tvarkai į Vilniaus apygardos administracinį teismą su prašymu priimti sprendimą panaikinti užsieniečiui teisę gyventi Lietuvos Respublikoje ir (ar) išsiųsti užsienietį iš Lietuvos Respublikos kreipiasi Policijos departamentas prie Vidaus reikalų ministerijos arba Lietuvos policijos generalinio komisaro pavedimu – teritorinė policijos įstaiga. ^s-5d144fd24394dab2fcaff31e
 
 
-3. Prašymas priimti sprendimą turi atitikti [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] reikalavimus. Administracinės bylos pagal šio straipsnio 1 ir [[#^s-5d144fd24394dab2fcaff31e|2 dalyse]] nurodytus prašymus gali būti nagrinėjamos naudojant faktinius duomenis, sudarančius valstybės ar tarnybos paslaptį, ir dalyvaujant Migracijos departamentui. Šiems duomenims netaikomos [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatyme]] numatytos nuostatos dėl išslaptinimo.“ ^s-b94a8c98feca2f45094a3757
+3. Prašymas priimti sprendimą turi atitikti [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] reikalavimus. Administracinės bylos pagal šio straipsnio [[#^s-a5e306196173d9d689f79f2f|1]] ir [[#^s-5d144fd24394dab2fcaff31e|2]] dalyse nurodytus prašymus gali būti nagrinėjamos naudojant faktinius duomenis, sudarančius valstybės ar tarnybos paslaptį, ir dalyvaujant Migracijos departamentui. Šiems duomenims netaikomos [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatyme]] numatytos nuostatos dėl išslaptinimo.“ ^s-b94a8c98feca2f45094a3757
 
 
 
@@ -1076,7 +1076,7 @@ Papildyti Įstatymą 1401 straipsniu:
 26. 2003 m. lapkričio 25 d. Tarybos direktyva 2003/109/EB dėl trečiųjų valstybių piliečių, kurie yra ilgalaikiai gyventojai, statuso (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 272). ^s-21d6617ac841b6e5799506da
 
 
-27. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą (EEB) Nr. 1612/68 ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/ 365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 19 skyrius, 5 tomas, p. 46). ^s-5b281d40d8ff24ddb4e311d8
+27. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti [Reglamentą (EEB) Nr. 1612/68](https://eur-lex.europa.eu/eli/reg/1612/68/oj) ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/ 365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 19 skyrius, 5 tomas, p. 46). ^s-5b281d40d8ff24ddb4e311d8
 
 
 28. 2004 m. balandžio 29 d. Tarybos direktyva 2004/81/EB dėl leidimo gyventi šalyje išdavimo trečiųjų šalių piliečiams, kurie yra prekybos žmonėmis aukos arba kurie dalyvavo vykdant nelegalios imigracijos skatinimo veiksmus, bendradarbiaujantiems su kompetentingomis institucijomis (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 69). ^s-ae74b4ed6c981780a5cdef25

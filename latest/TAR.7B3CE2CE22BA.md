@@ -38,21 +38,21 @@ Vilnius
 ### 1 straipsnis. Įstatymo įsigaliojimas ^s-3dfb945d22d245378bd728d6
 
 
-Įsigaliojus 1999 m. kovo 23 d. priimtam Lietuvos Respublikos konkurencijos [[latest/TAR.B8B6AFC2BFF1|įstatymui Nr. VIII-1099]], netenka galios 1992 m. rugsėjo 15 d. priimtas Lietuvos Respublikos konkurencijos įstatymas Nr. I-2878 (Žin., 1992, Nr. 29(1)-841; 1993, Nr. 52-1001; 1995, Nr. 59-1479), išskyrus jo [[#^s-9eaf7e753cf1c91c322baace|4 straipsnį]], kuris netenka galios nuo 2000 m. sausio 1 d., ir 7 straipsnio 1 dalies 2 punktą, kuris netenka galios nuo Lietuvos Respublikos įstatymo, reglamentuojančio klaidinančios reklamos naudojimą, įsigaliojimo.
+Įsigaliojus 1999 m. kovo 23 d. priimtam Lietuvos Respublikos konkurencijos [[latest/TAR.B8B6AFC2BFF1|įstatymui Nr. VIII-1099]], netenka galios 1992 m. rugsėjo 15 d. priimtas Lietuvos Respublikos konkurencijos [įstatymas Nr. I-2878](https://e-tar.lt/portal/lt/legalAct/TAR.1FACCFC52985) (Žin., 1992, Nr. 29(1)-841; 1993, Nr. 52-1001; 1995, Nr. 59-1479), išskyrus jo [[#^s-9eaf7e753cf1c91c322baace|4 straipsnį]], kuris netenka galios nuo 2000 m. sausio 1 d., ir 7 straipsnio 1 dalies 2 punktą, kuris netenka galios nuo Lietuvos Respublikos įstatymo, reglamentuojančio klaidinančios reklamos naudojimą, įsigaliojimo.
 
 
 
 ### 2 straipsnis. Teisių perėmimas ^s-ef0684420358d32b0a6f0668
 
 
-Konkurencijos taryba yra Konkurencijos ir vartotojų teisių gynimo institucijos, nurodytos Konkurencijos įstatymo Nr. I-2878 8 straipsnyje, turto, teisių ir pareigų perėmėja. Konkurencijos ir vartotojų teisių gynimo institucija tęsia savo veiklą tol, kol Respublikos Prezidentas, vadovaudamasis Konkurencijos [[latest/TAR.B8B6AFC2BFF1|įstatymo Nr. VIII-1099]] 20 straipsniu, paskirs Konkurencijos tarybos pirmininką ir narius bei Lietuvos Respublikos Vyriausybė patvirtins Konkurencijos tarybos nuostatus. Paskyrus Konkurencijos tarybos pirmininką ir narius bei patvirtinus Konkurencijos tarybos nuostatus, Konkurencijos ir vartotojų teisių gynimo institucija reorganizuojama į Konkurencijos tarybos administraciją.
+Konkurencijos taryba yra Konkurencijos ir vartotojų teisių gynimo institucijos, nurodytos Konkurencijos [įstatymo Nr. I-2878](https://e-tar.lt/portal/lt/legalAct/TAR.1FACCFC52985) 8 straipsnyje, turto, teisių ir pareigų perėmėja. Konkurencijos ir vartotojų teisių gynimo institucija tęsia savo veiklą tol, kol Respublikos Prezidentas, vadovaudamasis Konkurencijos [[latest/TAR.B8B6AFC2BFF1|įstatymo Nr. VIII-1099]] 20 straipsniu, paskirs Konkurencijos tarybos pirmininką ir narius bei Lietuvos Respublikos Vyriausybė patvirtins Konkurencijos tarybos nuostatus. Paskyrus Konkurencijos tarybos pirmininką ir narius bei patvirtinus Konkurencijos tarybos nuostatus, Konkurencijos ir vartotojų teisių gynimo institucija reorganizuojama į Konkurencijos tarybos administraciją.
 
 
 
 ### 3 straipsnis. Konkurencijos įstatymo 5 straipsnio taikymas ^s-3f8f34533380be44a52137a8
 
 
-Jeigu Konkurencijos [[latest/TAR.B8B6AFC2BFF1|įstatymo Nr. VIII-1099]] [[#^s-ea05fc7a54d1a2a086edcd09|5 straipsnio]] draudžiami susitarimai yra sudaryti iki šio įstatymo įsigaliojimo ir nebuvo draudžiami pagal Konkurencijos įstatymo Nr. I-2878 [[#^s-9eaf7e753cf1c91c322baace|4 straipsnį]], jie yra galiojantys ir dėl jų sudarymo [[latest/TAR.B8B6AFC2BFF1|įstatymo Nr. VIII-1099]] nustatytos sankcijos iki 2000 m. sausio 1 d. netaikomos. Iki šios datos ūkio subjektai privalo nutraukti ar pakeisti sutartis arba gauti atskirąją išimtį, vadovaudamiesi Konkurencijos [[latest/TAR.B8B6AFC2BFF1|įstatymo Nr. VIII-1099]] 5, 6, 7 ir 8 straipsniais.
+Jeigu Konkurencijos [[latest/TAR.B8B6AFC2BFF1|įstatymo Nr. VIII-1099]] [[#^s-ea05fc7a54d1a2a086edcd09|5 straipsnio]] draudžiami susitarimai yra sudaryti iki šio įstatymo įsigaliojimo ir nebuvo draudžiami pagal Konkurencijos [įstatymo Nr. I-2878](https://e-tar.lt/portal/lt/legalAct/TAR.1FACCFC52985) [[#^s-9eaf7e753cf1c91c322baace|4 straipsnį]], jie yra galiojantys ir dėl jų sudarymo [[latest/TAR.B8B6AFC2BFF1|įstatymo Nr. VIII-1099]] nustatytos sankcijos iki 2000 m. sausio 1 d. netaikomos. Iki šios datos ūkio subjektai privalo nutraukti ar pakeisti sutartis arba gauti atskirąją išimtį, vadovaudamiesi Konkurencijos [[latest/TAR.B8B6AFC2BFF1|įstatymo Nr. VIII-1099]] [[latest/TAR.B8B6AFC2BFF1#^s-4eb2cb549a516aa5fbb4d033|5]], [[latest/TAR.B8B6AFC2BFF1#^s-d21e5216619f18efa813cd1f|6]], [[latest/TAR.B8B6AFC2BFF1#^s-2a8624f795fa22672b35abef|7]] ir [[latest/TAR.B8B6AFC2BFF1#^s-ef46aa35fb426f1e7136c47b|8]] straipsniais.
 
 
 

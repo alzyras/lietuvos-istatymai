@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 10 straipsnio 2 dalies papildymas ir pakeitimas ^s-291da074d5bd3198fe6a2f34
 
 
-Papildyti 10 straipsnio 2 dalį nauju [[#^s-3b5a619744fa069b978a59ca|3 punktu]], buvusius 3, 4 ir [[#^s-1aa0a1bb10b9061a08f60c11|5 punktus]] laikyti atitinkamai 4, 5 ir [[#^s-0dcb76d1c298855d1802220f|6 punktais]] ir šią dalį išdėstyti taip:
+Papildyti 10 straipsnio 2 dalį nauju [[#^s-3b5a619744fa069b978a59ca|3 punktu]], buvusius 3, 4 ir 5 punktus laikyti atitinkamai 4, 5 ir 6 punktais ir šią dalį išdėstyti taip:
 
 
 „2. Lietuvos valstybės istorinė vėliava taip pat iškeliama:

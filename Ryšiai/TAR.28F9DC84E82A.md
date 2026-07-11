@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos kovinių ginklų naudojimo krašto apsaugos s
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.6CADC13B548B#^s-c05b66d137214812fe7d785c|Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymas]] - 3 citatos - 1031010ISTA0IX-1424
-- [[latest/TAR.6CADC13B548B#^s-c7909148b2d5a4c4b7d61f70|Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymas]] - 3 citatos - 1031010ISTA0IX-1424
+- [[latest/TAR.6CADC13B548B#^s-c7909148b2d5a4c4b7d61f70|Lietuvos Respublikos karinės jėgos naudojimo statuto patvirtinimo įstatymas]] - 2 citatos - 1031010ISTA0IX-1424

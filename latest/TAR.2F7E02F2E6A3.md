@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-f612e5b3979b00321c561d67
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-4bc8872820546bc80e813288|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 2 dalimi]] bei atsižvelgdamas į Respublikos Prezidento 2002 m. spalio 15 d. dekretą Nr. 1938, ratifikuoja Civilinės teisės konvenciją dėl korupcijos, sudarytą 1999 m. lapkričio 4 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-4bc8872820546bc80e813288|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 2 dalimi]] bei atsižvelgdamas į Respublikos Prezidento [2002 m. spalio 15 d. dekretą Nr. 1938](https://e-tar.lt/portal/lt/legalAct/TAR.04A23F027EB9), ratifikuoja Civilinės teisės konvenciją dėl korupcijos, sudarytą 1999 m. lapkričio 4 d. Strasbūre.
 
 
 

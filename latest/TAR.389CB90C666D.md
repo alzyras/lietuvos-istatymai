@@ -544,7 +544,7 @@ B kategorijos ginklams priskiriami:
 5) ilgieji vienašūviai graižtviniai ir lygiavamzdžiai šaunamieji ginklai; ^s-0ad28796d11368a4d934bb31
 
 
-6) pusiau automatiniai ilgieji šaunamieji ginklai, išskyrus šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 8 ir 9 punktuose nurodytus ginklus; ^s-8d9ffc2d1c21b0b95d1c4c0c
+6) pusiau automatiniai ilgieji šaunamieji ginklai, išskyrus šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] [[#^s-0b2a5c8b05fad84420bab41b|8]] ir [[#^s-c4d2770b7ca4ef48a1c4bd2b|9]] punktuose nurodytus ginklus; ^s-8d9ffc2d1c21b0b95d1c4c0c
 
 
 7) bet kokie B kategorijos šaunamieji ginklai, kurie buvo perdirbti į signalinius, dujinius ar imitacinius ginklus; ^s-369590334d4a8df9604064a7
@@ -572,7 +572,7 @@ C kategorijos ginklams priskiriami:
 4) šaunamieji ginklai, kurie atitinka kitų kategorijų kriterijus, tačiau prie jų nepriskiriami dėl nedidelės nukaunamosios galios, ir kurių sviedinio kinetinė energija yra nuo 2,5 džaulio (J) iki 7,5 džaulio (J); ^s-3473ec3b8dccd123e2008f72
 
 
-5) A ir B kategorijų ginklai, perdirbti į visiškai netinkamus naudoti ginklus iki 2016 m. balandžio 8 d. arba pagal 2015 m. gruodžio 15 d. Europos Komisijos įgyvendinimo reglamentą (ES) 2015/2403, kuriuo nustatomos bendrosios deaktyvacijos standartų ir metodų gairės siekiant užtikrinti, kad deaktyvuoti šaunamieji ginklai būtų visiškai netinkami naudoti (OL 2015 L 333, p. 62). ^s-a07633a9f4f853fc0c564eb3
+5) A ir B kategorijų ginklai, perdirbti į visiškai netinkamus naudoti ginklus iki 2016 m. balandžio 8 d. arba pagal 2015 m. gruodžio 15 d. Europos Komisijos įgyvendinimo [reglamentą (ES) 2015/2403](https://eur-lex.europa.eu/eli/reg/2015/2403/oj), kuriuo nustatomos bendrosios deaktyvacijos standartų ir metodų gairės siekiant užtikrinti, kad deaktyvuoti šaunamieji ginklai būtų visiškai netinkami naudoti (OL 2015 L 333, p. 62). ^s-a07633a9f4f853fc0c564eb3
 
 
 
@@ -615,7 +615,7 @@ DraudžIami GINKLai, GINKLŲ PRIEDĖLIAI IR ŠAUDMENys
 3. Civilinėje apyvartoje draudžiami: ^s-e32d53912800c213c1c167c7
 
 
-1) A kategorijos ginklai ir šaudmenys, skirti tik A kategorijos ginklams, A kategorijos ginklų priedėliai, taip pat šio įstatymo [[#^s-dd408e8414e9e64326a7dc14|3 straipsnio 7 punkte]] nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo [[#^s-0b2a5c8b05fad84420bab41b|3 straipsnio 8 punkte]] nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 10 šovinių, išskyrus atvejus, kai juos naudoja Lietuvos bankas, Lietuvos Respublikoje įregistruoti juridiniai asmenys, gaminantys A kategorijos ginklus, ginklų priedėlius, šaudmenis, skirtus A kategorijos ginklams, jų dalis, Europos fiziniai ar Europos juridiniai asmenys, kurie verčiasi ginklų taisymu, ginklų ir šaudmenų perdirbimu, valstybinės kriminalistinės ekspertizės įstaigos, nacionaliniai, respublikiniai, savivaldybių muziejai, A kategorijos ginklus, jų priedėlius, šaudmenis, jų dalis tiriančios ir konstruojančios mokslinio tyrimo įstaigos, kiti asmenys, kuriems tokia teisė suteikta pagal šį įstatymą; ^s-4e4a7cb19778e49b4bb95b3f
+1) A kategorijos ginklai ir šaudmenys, skirti tik A kategorijos ginklams, A kategorijos ginklų priedėliai, taip pat šio įstatymo 3 straipsnio 7 punkte nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo 3 straipsnio 8 punkte nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 10 šovinių, išskyrus atvejus, kai juos naudoja Lietuvos bankas, Lietuvos Respublikoje įregistruoti juridiniai asmenys, gaminantys A kategorijos ginklus, ginklų priedėlius, šaudmenis, skirtus A kategorijos ginklams, jų dalis, Europos fiziniai ar Europos juridiniai asmenys, kurie verčiasi ginklų taisymu, ginklų ir šaudmenų perdirbimu, valstybinės kriminalistinės ekspertizės įstaigos, nacionaliniai, respublikiniai, savivaldybių muziejai, A kategorijos ginklus, jų priedėlius, šaudmenis, jų dalis tiriančios ir konstruojančios mokslinio tyrimo įstaigos, kiti asmenys, kuriems tokia teisė suteikta pagal šį įstatymą; ^s-4e4a7cb19778e49b4bb95b3f
 
 
 2) bet kokie savadarbiai šaunamieji ginklai; ^s-1efc1c7477f632e797a4e0b4
@@ -657,7 +657,7 @@ Nr. XV-184, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08679
 5. Ekspertų komisija, nurodyta šio įstatymo [[#^s-7a68822456555654131a6bab|1 straipsnio 4 dalyje]]: ^s-034123aec04af26882e618b6
 
 
-1) priima sprendimą dėl daiktų, skleidžiančių radioaktyvųjį, elektromagnetinį, šviesos, šilumos, infragarso ar ultragarso spinduliavimą, pavojingą biologinį poveikį, pavojingas gyvybei ar sveikatai dujas ar kitokias pavojingas gyvybei ar sveikatai medžiagas arba energiją, pripažinimo ginklais, nurodytais šio įstatymo [[#^s-c8cb82f9a863648fc693d8d7|3 straipsnio 20 punkte]]; ^s-41e76911026bb82201d1e447
+1) priima sprendimą dėl daiktų, skleidžiančių radioaktyvųjį, elektromagnetinį, šviesos, šilumos, infragarso ar ultragarso spinduliavimą, pavojingą biologinį poveikį, pavojingas gyvybei ar sveikatai dujas ar kitokias pavojingas gyvybei ar sveikatai medžiagas arba energiją, pripažinimo ginklais, nurodytais šio įstatymo 3 straipsnio 20 punkte; ^s-41e76911026bb82201d1e447
 
 
 2) įvertina kuriamus ir naujai rinkoje atsiradusius daiktus, įrenginius dėl jų atitikties šiame įstatyme apibrėžiamoms ginklo, ginklo priedėlio, šaudmens, jų dalies sąvokoms ir priima sprendimą dėl jų pripažinimo ginklais, ginklų priedėliais, šaudmenimis, jų dalimis bei priskyrimo tam tikrai kategorijai; ^s-4289755cecc8f28164933976
@@ -790,7 +790,7 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 1) asmenims, turintiems teisę įsigyti tokių kategorijų ginklus; ^s-518a44dd072887fa14fdf7e3
 
 
-2) Europos fiziniams ir Europos juridiniams asmenims, gavusiems šio įstatymo [[#^s-f8969196e511e6cd8f4c90f9|19 straipsnio 1 dalies]] 1, 5 ir 6 punktuose nurodytos veiklos licencijas ir turintiems teisę įsigyti tokių kategorijų ginklus; ^s-cb2111b1974502d57eaef000
+2) Europos fiziniams ir Europos juridiniams asmenims, gavusiems šio įstatymo [[#^s-f8969196e511e6cd8f4c90f9|19 straipsnio 1 dalies]] [[#^s-98f132a54a66736c992d87ba|1]], [[#^s-e2642a0b853901e47fa73b69|5]] ir [[#^s-67c4930add4e0e0467299ac7|6]] punktuose nurodytos veiklos licencijas ir turintiems teisę įsigyti tokių kategorijų ginklus; ^s-cb2111b1974502d57eaef000
 
 
 3) Europos fiziniams ir Europos juridiniams asmenims, vykdantiems profesinę veiklą ir turintiems teisę įsigyti tokių kategorijų ginklus. ^s-570783863df0a23ca38cf178
@@ -910,7 +910,7 @@ Nr. XIV-2862, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12646
 
 
 
-15. Šio straipsnio 2, 3, 4 ir [[#^s-20c369baac3fc0a000dcea90|5 dalyse]] nurodyti fiziniai asmenys, turintys Lietuvos Respublikos pilietybę, prieš kreipdamiesi į policijos įstaigą dėl nurodyto leidimo B kategorijos ginklui išdavimo ar galiojimo termino pratęsimo šio įstatymo nustatytais atvejais, taip pat šio straipsnio 6, 12 ir [[#^s-cb0b255ddacab87167334baa|14 dalyse]] nurodyti fiziniai asmenys, turintys Lietuvos Respublikos pilietybę, prieš kreipdamiesi į policijos įstaigą dėl nurodyto leidimo A ir B kategorijų ginklams išdavimo ar galiojimo termino pratęsimo šio įstatymo nustatytais atvejais, privalo išklausyti pilietinio pasipriešinimo kursą krašto apsaugos ministro arba jo įgaliotos institucijos nustatyta tvarka. ^s-bf102ed94b0e037bbfc3d0a1
+15. Šio straipsnio [[#^s-fb32c27c6c0ae9d0999b6ca6|2]], [[#^s-b98eeffe2d33eda234d9e706|3]], [[#^s-89e718084d4a896c5132e8df|4]] ir [[#^s-20c369baac3fc0a000dcea90|5]] dalyse nurodyti fiziniai asmenys, turintys Lietuvos Respublikos pilietybę, prieš kreipdamiesi į policijos įstaigą dėl nurodyto leidimo B kategorijos ginklui išdavimo ar galiojimo termino pratęsimo šio įstatymo nustatytais atvejais, taip pat šio straipsnio [[#^s-769d5f757be756c5bc286b5a|6]], [[#^s-6cfe21711e45bfa8a97a6c0a|12]] ir [[#^s-cb0b255ddacab87167334baa|14]] dalyse nurodyti fiziniai asmenys, turintys Lietuvos Respublikos pilietybę, prieš kreipdamiesi į policijos įstaigą dėl nurodyto leidimo A ir B kategorijų ginklams išdavimo ar galiojimo termino pratęsimo šio įstatymo nustatytais atvejais, privalo išklausyti pilietinio pasipriešinimo kursą krašto apsaugos ministro arba jo įgaliotos institucijos nustatyta tvarka. ^s-bf102ed94b0e037bbfc3d0a1
 Papildyta straipsnio dalimi:
 Nr. XIV-2279, 2023-11-21, paskelbta TAR 2023-11-27, i. k. 2023-22832
 
@@ -943,7 +943,7 @@ Nr. XIV-2279, 2023-11-21, paskelbta TAR 2023-11-27, i. k. 2023-22832
 3. Asmenys, nurodyti [[#^s-049a4370da0c1dc174b0af6a|šio straipsnio 2 dalyje]], norintys Lietuvos Respublikoje įsigyti šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 6–10 punktuose nurodytų ginklų, B, C kategorijų ginklų ir (ar) šaudmenų, privalo pateikti Europos Sąjungos valstybės, kurios piliečiai jie yra ar kurioje jie nuolat gyvena, kompetentingos institucijos išduotą išankstinį sutikimą dėl ginklų vežimo arba kitos užsienio valstybės, kurios piliečiai jie yra ar kurioje jie nuolat gyvena, dokumentą, patvirtinantį teisę įvežti ginklą, šaudmenis į Europos Sąjungos valstybę narę ar kitą užsienio valstybę, ir Vyriausybės įgaliotos institucijos nustatyta tvarka gauti leidimą įsigyti ginklus. ^s-4783a1a445b4da03a3be9b03
 
 
-4. Asmenims, nurodytiems [[#^s-049a4370da0c1dc174b0af6a|šio straipsnio 2 dalyje]], įsigyjantiems ginklą, šaudmenis šio straipsnio 2 ir [[#^s-4783a1a445b4da03a3be9b03|3 dalyse]] nustatyta tvarka, šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalyje]] numatyti apribojimai netaikomi, išskyrus šio įstatymo [[#^s-4cb6bdb2496424f08a2fb155|17 straipsnio 1 dalies 1 punktą]]. ^s-92bee29b70e17b5b258f9b05
+4. Asmenims, nurodytiems [[#^s-049a4370da0c1dc174b0af6a|šio straipsnio 2 dalyje]], įsigyjantiems ginklą, šaudmenis šio straipsnio [[#^s-049a4370da0c1dc174b0af6a|2]] ir [[#^s-4783a1a445b4da03a3be9b03|3]] dalyse nustatyta tvarka, šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalyje]] numatyti apribojimai netaikomi, išskyrus šio įstatymo [[#^s-4cb6bdb2496424f08a2fb155|17 straipsnio 1 dalies 1 punktą]]. ^s-92bee29b70e17b5b258f9b05
 
 
 
@@ -993,7 +993,7 @@ Nr. XIV-2862, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12646
 ### 17 straipsnis. Teisės įsigyti ir turėti ginklus ir šaudmenis apribojimai ^s-1ca7c60da62be1a2c91d708b
 
 
-1. Šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–[[#^s-fdf551e5f9b31f6b2c1af1af|10 punktuose]] nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų negali įsigyti ir turėti fizinis asmuo: ^s-389b3f2084ee7c98d403f315
+1. Šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų, jų šaudmenų negali įsigyti ir turėti fizinis asmuo: ^s-389b3f2084ee7c98d403f315
 
 
 1) jaunesnis, negu šio įstatymo nustatyto amžiaus; ^s-4cb6bdb2496424f08a2fb155
@@ -1090,7 +1090,7 @@ Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
 6) turintis teistumą dėl Baudžiamajame kodekse nurodyto nusikaltimo ar dėl nusikaltimo pagal užsienio valstybių baudžiamuosius įstatymus, kuris atitinka Baudžiamajame kodekse nurodyto nusikaltimo sudėties požymius; ^s-63aa02dc083fed316f761451
 
 
-7) dėl padarytų šios dalies 2–[[#^s-1766b8d4f2cde162f6a84079|5 punktuose]] nurodytų nusikaltimų arba dėl padaryto tyčinio nusikaltimo panaudojant fizinį smurtą ar grasinimus, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė neviršija 3 metų laisvės atėmimo, atleistas nuo baudžiamosios atsakomybės Baudžiamajame kodekse nustatytais pagrindais ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 3 metai; ^s-b8dbf875bc199be569117765
+7) dėl padarytų šios dalies [[#^s-6ba9c49a941c1ac8d0495dec|2]]–[[#^s-1766b8d4f2cde162f6a84079|5]] punktuose nurodytų nusikaltimų arba dėl padaryto tyčinio nusikaltimo panaudojant fizinį smurtą ar grasinimus, už kurį Baudžiamajame kodekse numatyta didžiausia bausmė neviršija 3 metų laisvės atėmimo, atleistas nuo baudžiamosios atsakomybės Baudžiamajame kodekse nustatytais pagrindais ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 3 metai; ^s-b8dbf875bc199be569117765
 Straipsnio punkto pakeitimai:
 Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
 
@@ -1099,7 +1099,7 @@ Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
 8) per pastaruosius metus įsiteisėjusiu teismo nuosprendžiu pripažintas padaręs baudžiamąjį nusižengimą; ^s-8f306c60405d2eaa473d67a2
 
 
-9) įtariamas arba kaltinamas padaręs nusikalstamą veiką, nurodytą šios dalies  2–[[#^s-1766b8d4f2cde162f6a84079|5 punktuose]]; ^s-e4e24dba0114650831a0ef6b
+9) įtariamas arba kaltinamas padaręs nusikalstamą veiką, nurodytą šios dalies  [[#^s-6ba9c49a941c1ac8d0495dec|2]]–[[#^s-1766b8d4f2cde162f6a84079|5]] punktuose; ^s-e4e24dba0114650831a0ef6b
 Straipsnio punkto pakeitimai:
 Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
 
@@ -1188,16 +1188,16 @@ Nr. XV-483, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17642
 1) buvo pateikti ne visi arba netinkamai įforminti dokumentai ar pateikti klaidingi, neišsamūs duomenys ir per [[#^s-2348148122ec430b3961c05c|šio straipsnio 10 dalyje]] nurodytose licencijavimo taisyklėse nustatytą terminą duomenys nebuvo patikslinti ir (ar) nepateikti trūkstami dokumentai; ^s-4753d9438781a0c90d0710c1
 
 
-2) paaiškėja, kad Europos juridinio asmens kontroliuojančiajam asmeniui, administracijos vadovui taikoma bent viena šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] 10, 11 punktuose ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalyje]] nurodyta aplinkybė arba Europos fiziniam asmeniui ar Europos juridinio asmens darbuotojui, dirbančiam su licencijuojama veikla tiesiogiai susijusį darbą, taip pat ginklininkui taikoma bent viena šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] 3, 10, 11 punktuose ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalyje]] nurodyta aplinkybė; ^s-5f9b0b459e55b9fab49689fd
+2) paaiškėja, kad Europos juridinio asmens kontroliuojančiajam asmeniui, administracijos vadovui taikoma bent viena šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] [[#^s-fdf551e5f9b31f6b2c1af1af|10]], [[#^s-0142ee7b90aaa847f5c929e7|11]] punktuose ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalyje]] nurodyta aplinkybė arba Europos fiziniam asmeniui ar Europos juridinio asmens darbuotojui, dirbančiam su licencijuojama veikla tiesiogiai susijusį darbą, taip pat ginklininkui taikoma bent viena šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] [[#^s-3ffcbd932050c8350fbcf95d|3]], [[#^s-fdf551e5f9b31f6b2c1af1af|10]], [[#^s-0142ee7b90aaa847f5c929e7|11]] punktuose ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalyje]] nurodyta aplinkybė; ^s-5f9b0b459e55b9fab49689fd
 
 
-3) nustatoma, kad pareiškėjui (Europos fiziniam asmeniui, Europos juridiniam asmeniui, Europos juridinį asmenį kontroliuojantiesiems asmenims ar Europos juridinio asmens administracijos vadovui) buvo panaikintas licencijos ar rašytinio sutikimo galiojimas [[#^s-20b34c04359092f26cbc6e8b|šio straipsnio 15 dalies]] 2, 3, 6, 8, 9, 10 punktuose nustatytais pagrindais, ir nuo to laiko nepraėjo 3 metai; ^s-99f3f90baede5c3987303526
+3) nustatoma, kad pareiškėjui (Europos fiziniam asmeniui, Europos juridiniam asmeniui, Europos juridinį asmenį kontroliuojantiesiems asmenims ar Europos juridinio asmens administracijos vadovui) buvo panaikintas licencijos ar rašytinio sutikimo galiojimas [[#^s-20b34c04359092f26cbc6e8b|šio straipsnio 15 dalies]] [[#^s-5f9b0b459e55b9fab49689fd|2]], 3, 6, 8, 9, 10 punktuose nustatytais pagrindais, ir nuo to laiko nepraėjo 3 metai; ^s-99f3f90baede5c3987303526
 Straipsnio punkto pakeitimai:
 Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
 
 
 
-4) šio straipsnio 2 ir [[#^s-5fb1c1001e8b7484af58029e|3 dalyse]] nurodytų asmenų veikla kelia grėsmę valstybės saugumui. Informaciją dėl šių asmenų veiklos keliamos grėsmės valstybės saugumui teikia Valstybės saugumo departamentas. ^s-64abc4b2d33d00ea1924d335
+4) šio straipsnio [[#^s-6d7d3a868e64f669a76eb5e4|2]] ir [[#^s-5fb1c1001e8b7484af58029e|3]] dalyse nurodytų asmenų veikla kelia grėsmę valstybės saugumui. Informaciją dėl šių asmenų veiklos keliamos grėsmės valstybės saugumui teikia Valstybės saugumo departamentas. ^s-64abc4b2d33d00ea1924d335
 
 
 9. Rašytinis sutikimas neišduodamas ir tuo atveju, kai iš paslaugų teikėjo registracijos valstybės narės gaunama informacija, kad paslaugų teikėjo registracija, licencija ir (ar) leidimas negalioja, licencijos ir (ar) leidimo galiojimas sustabdytas, taip pat jeigu į patikrintų darbuotojų, kurie dirba su licencijuojama veikla tiesiogiai susijusį darbą, sąrašus yra įtraukti asmenys, neturintys teisės dirbti su licencijuojama veikla tiesiogiai susijusio darbo. ^s-105069d2f2454635f5960939
@@ -1218,7 +1218,7 @@ Nr. XV-483, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17642
 1) licencijos ir rašytinio sutikimo turėtojas, įspėtas apie galimą licencijos ar rašytinio sutikimo galiojimo sustabdymą, per licencijas išduodančios institucijos nustatytą terminą nepašalina šių licencijuojamos veiklos pažeidimų; ^s-759ae83faf6e4f6d697344d6
 
 
-2) paaiškėja, kad licencijos ir rašytinio sutikimo turėtojo kontroliuojančiajam asmeniui, administracijos vadovui iškilo bent viena šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] 10, 11 punktuose ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalyje]] nurodyta aplinkybė, o Europos fiziniam asmeniui, kuris verčiasi licencijuojama veikla, ar Europos juridinio asmens, kuris verčiasi licencijuojama veikla, darbuotojui, dirbančiam su licencijuojama veikla tiesiogiai susijusį darbą, taip pat ginklininkui, – bent viena šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] 3, 10, 11 punktuose ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalyje]] nurodyta aplinkybė. ^s-3ecf12f7248203bfef2036b4
+2) paaiškėja, kad licencijos ir rašytinio sutikimo turėtojo kontroliuojančiajam asmeniui, administracijos vadovui iškilo bent viena šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] [[#^s-fdf551e5f9b31f6b2c1af1af|10]], [[#^s-0142ee7b90aaa847f5c929e7|11]] punktuose ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalyje]] nurodyta aplinkybė, o Europos fiziniam asmeniui, kuris verčiasi licencijuojama veikla, ar Europos juridinio asmens, kuris verčiasi licencijuojama veikla, darbuotojui, dirbančiam su licencijuojama veikla tiesiogiai susijusį darbą, taip pat ginklininkui, – bent viena šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] [[#^s-3ffcbd932050c8350fbcf95d|3]], [[#^s-fdf551e5f9b31f6b2c1af1af|10]], [[#^s-0142ee7b90aaa847f5c929e7|11]] punktuose ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalyje]] nurodyta aplinkybė. ^s-3ecf12f7248203bfef2036b4
 
 
 13. Rašytinio sutikimo galiojimas sustabdomas ir tuo atveju, kai iš paslaugų teikėjo registracijos valstybės narės gaunama informacija apie šioje valstybėje narėje priimtą sprendimą sustabdyti licencijos ir (ar) leidimo galiojimą. ^s-537afb8e8501a23ebddb4228
@@ -1267,7 +1267,7 @@ Nr. XV-483, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17642
 ### 20 straipsnis. Teisės dirbti su licencijuojama veikla tiesiogiai susijusį darbą apribojimai ^s-d0228669bfae31357aee34f9
 
 
-Fiziniu asmeniu, kuris verčiasi licencijuojama veikla, ar juridinio asmens, kitos organizacijos arba jų padalinio, kuris verčiasi licencijuojama veikla, darbuotoju, dirbančiu su licencijuojama veikla tiesiogiai susijusį darbą, taip pat ginklininku negali būti asmuo, kuriam taikomos šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] 3, 10, 11 punktų ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalies]] nuostatos.
+Fiziniu asmeniu, kuris verčiasi licencijuojama veikla, ar juridinio asmens, kitos organizacijos arba jų padalinio, kuris verčiasi licencijuojama veikla, darbuotoju, dirbančiu su licencijuojama veikla tiesiogiai susijusį darbą, taip pat ginklininku negali būti asmuo, kuriam taikomos šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] [[#^s-3ffcbd932050c8350fbcf95d|3]], [[#^s-fdf551e5f9b31f6b2c1af1af|10]], [[#^s-0142ee7b90aaa847f5c929e7|11]] punktų ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalies]] nuostatos.
 
 
 Straipsnio pakeitimai:
@@ -1333,7 +1333,7 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 
 
 
-11) importavęs, atvežęs į Lietuvos Respubliką ginklus, šaudmenis, ne vėliau kaip per 5 darbo dienas nuo ginklų, šaudmenų importo, atvežimo į Lietuvos Respubliką dienos, o norėdamas eksportuoti, vežti ginklus, šaudmenis iš Lietuvos Respublikos, ne vėliau kaip prieš 5 darbo dienas iki numatomo ginklų, šaudmenų eksporto, vežimo elektroninėmis priemonėmis per Policijos elektroninių paslaugų sistemą pateikti importuotų, atvežtų ar numatomų eksportuoti, vežti šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–[[#^s-0af0ada0a7f56ab1baa9ca82|10 punktuose]] nurodytų ginklų, B ir C kategorijų ginklų identifikacinius duomenis (ginklo šalį gamintoją ir gamybos vietą, markę, modelį, kalibrą, gamintojo pavadinimą, pagaminimo metus ir identifikacinį numerį), vertę, šaudmenų duomenis (identifikacinį gamintojo žymenį, gamintojo pavadinimą ir ginklų partijos identifikacinį numerį, kalibrą ir šaudmenų tipą, kiekį), vertę, ginklų, šaudmenų tiekėjų ar gavėjų duomenis (pavadinimą, vardą, pavardę, buveinės ar gyvenamosios vietos adresą) policijos įstaigai, kuri tvarko civilinėje apyvartoje esančių ginklų, jų savininkų ir valdytojų apskaitą; ^s-ba31b516186008d748df7b39
+11) importavęs, atvežęs į Lietuvos Respubliką ginklus, šaudmenis, ne vėliau kaip per 5 darbo dienas nuo ginklų, šaudmenų importo, atvežimo į Lietuvos Respubliką dienos, o norėdamas eksportuoti, vežti ginklus, šaudmenis iš Lietuvos Respublikos, ne vėliau kaip prieš 5 darbo dienas iki numatomo ginklų, šaudmenų eksporto, vežimo elektroninėmis priemonėmis per Policijos elektroninių paslaugų sistemą pateikti importuotų, atvežtų ar numatomų eksportuoti, vežti šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–10 punktuose nurodytų ginklų, B ir C kategorijų ginklų identifikacinius duomenis (ginklo šalį gamintoją ir gamybos vietą, markę, modelį, kalibrą, gamintojo pavadinimą, pagaminimo metus ir identifikacinį numerį), vertę, šaudmenų duomenis (identifikacinį gamintojo žymenį, gamintojo pavadinimą ir ginklų partijos identifikacinį numerį, kalibrą ir šaudmenų tipą, kiekį), vertę, ginklų, šaudmenų tiekėjų ar gavėjų duomenis (pavadinimą, vardą, pavardę, buveinės ar gyvenamosios vietos adresą) policijos įstaigai, kuri tvarko civilinėje apyvartoje esančių ginklų, jų savininkų ir valdytojų apskaitą; ^s-ba31b516186008d748df7b39
 Straipsnio punkto pakeitimai:
 Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 
@@ -1438,10 +1438,10 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 ### 23 straipsnis. Ginklų, ginklų priedėlių, šaudmenų, jų dalių eksportas, importas, vežimas ir gabenimas tranzitu ^s-10846adde1a216a7f7b6fcf3
 
 
-1. Vyriausybės įgaliota institucija turi teisę eksportuoti, importuoti, vežti visų kategorijų ginklus, ginklų priedėlius, šaudmenis, jų dalis, taip pat šio įstatymo [[#^s-dd408e8414e9e64326a7dc14|3 straipsnio 7 punkte]] nurodytų ginklų dėtuves, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo [[#^s-0b2a5c8b05fad84420bab41b|3 straipsnio 8 punkte]] nurodytų ginklų dėtuves, į kurias telpa daugiau kaip 10 šovinių, išskyrus [[#^s-b921434fbcd64f63ccd7b2ca|šio straipsnio 8 dalies 3 punkte]] ir 9 dalies 10 punkte nurodytus atvejus. Lietuvos Respublikos krašto apsaugos ministerija ar jos įgaliota krašto apsaugos sistemos institucija turi teisę eksportuoti, importuoti, vežti visų kategorijų krašto apsaugos sistemai skirtus ginklus, ginklų priedėlius, šaudmenis, jų dalis, išskyrus [[#^s-b921434fbcd64f63ccd7b2ca|šio straipsnio 8 dalies 3 punkte]] ir 9 dalies 10 punkte nurodytus atvejus. Ne krašto apsaugos sistemai skirtus ginklus, ginklų priedėlius, šaudmenis, jų dalis Krašto apsaugos ministerija ar jos įgaliota krašto apsaugos sistemos institucija importuoja, eksportuoja [[latest/TAR.AB5C4F8C996B|Strateginių prekių kontrolės įstatymo]] nustatyta tvarka. ^s-921460102e52301007e9e389
+1. Vyriausybės įgaliota institucija turi teisę eksportuoti, importuoti, vežti visų kategorijų ginklus, ginklų priedėlius, šaudmenis, jų dalis, taip pat šio įstatymo 3 straipsnio 7 punkte nurodytų ginklų dėtuves, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo 3 straipsnio 8 punkte nurodytų ginklų dėtuves, į kurias telpa daugiau kaip 10 šovinių, išskyrus [[#^s-b921434fbcd64f63ccd7b2ca|šio straipsnio 8 dalies 3 punkte]] ir 9 dalies 10 punkte nurodytus atvejus. Lietuvos Respublikos krašto apsaugos ministerija ar jos įgaliota krašto apsaugos sistemos institucija turi teisę eksportuoti, importuoti, vežti visų kategorijų krašto apsaugos sistemai skirtus ginklus, ginklų priedėlius, šaudmenis, jų dalis, išskyrus [[#^s-b921434fbcd64f63ccd7b2ca|šio straipsnio 8 dalies 3 punkte]] ir 9 dalies 10 punkte nurodytus atvejus. Ne krašto apsaugos sistemai skirtus ginklus, ginklų priedėlius, šaudmenis, jų dalis Krašto apsaugos ministerija ar jos įgaliota krašto apsaugos sistemos institucija importuoja, eksportuoja [[latest/TAR.AB5C4F8C996B|Strateginių prekių kontrolės įstatymo]] nustatyta tvarka. ^s-921460102e52301007e9e389
 
 
-2. Europos fizinis asmuo ar Europos juridinis asmuo, norintis verstis A kategorijos ginklų, išvardytų šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–10 punktuose, taip pat šio įstatymo [[#^s-dd408e8414e9e64326a7dc14|3 straipsnio 7 punkte]] nurodytų ginklų dėtuvių, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo [[#^s-0b2a5c8b05fad84420bab41b|3 straipsnio 8 punkte]] nurodytų ginklų dėtuvių, į kurias telpa daugiau kaip 10 šovinių, importo, vežimo veikla, privalo turėti Vyriausybės nustatyta tvarka policijos įstaigos išduotą licenciją ar rašytinį sutikimą. Licencija ar rašytinis sutikimas verstis šių ginklų, ginklų priedėlių, šaudmenų, jų dalių importo, vežimo veikla licencijos ir rašytinio sutikimo turėtojui suteikia teisę juos importuoti ar vežti į Lietuvos Respubliką iš kitos Europos Sąjungos valstybės narės. ^s-d286276bce66596f3312fd72
+2. Europos fizinis asmuo ar Europos juridinis asmuo, norintis verstis A kategorijos ginklų, išvardytų šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–10 punktuose, taip pat šio įstatymo 3 straipsnio 7 punkte nurodytų ginklų dėtuvių, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo 3 straipsnio 8 punkte nurodytų ginklų dėtuvių, į kurias telpa daugiau kaip 10 šovinių, importo, vežimo veikla, privalo turėti Vyriausybės nustatyta tvarka policijos įstaigos išduotą licenciją ar rašytinį sutikimą. Licencija ar rašytinis sutikimas verstis šių ginklų, ginklų priedėlių, šaudmenų, jų dalių importo, vežimo veikla licencijos ir rašytinio sutikimo turėtojui suteikia teisę juos importuoti ar vežti į Lietuvos Respubliką iš kitos Europos Sąjungos valstybės narės. ^s-d286276bce66596f3312fd72
 Straipsnio dalies pakeitimai:
 Nr. XV-184, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08679
 
@@ -1480,7 +1480,7 @@ Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
 1) pateikti ne visi dokumentai, kurių reikia išankstiniam sutikimui dėl ginklų vežimo gauti, arba dokumentai netinkamai įforminti ir per policijos įstaigos nustatytą terminą dokumentai nepatikslinami ir (ar) nepateikiami trūkstami dokumentai; ^s-2e370414336cecbc6dce1f71
 
 
-2) licencijos ar rašytinio sutikimo turėtojui sustabdytas arba panaikintas licencijos ar rašytinio sutikimo verstis šio įstatymo [[#^s-f8969196e511e6cd8f4c90f9|19 straipsnio 1 dalies]] 1, 2 ar 4 punkte nurodyta veikla galiojimas; ^s-31d6c6c474624fbc260e45cc
+2) licencijos ar rašytinio sutikimo turėtojui sustabdytas arba panaikintas licencijos ar rašytinio sutikimo verstis šio įstatymo [[#^s-f8969196e511e6cd8f4c90f9|19 straipsnio 1 dalies]] [[#^s-98f132a54a66736c992d87ba|1]], [[#^s-6e03757b0f9584ce4f095f5b|2]] ar [[#^s-b59222c40a41997ee06c87b1|4]] punkte nurodyta veikla galiojimas; ^s-31d6c6c474624fbc260e45cc
 
 
 3) licencijos ar rašytinio sutikimo turėtojas negali užtikrinti saugaus ginklų, ginklų priedėlių, šaudmenų, jų dalių laikymo, sandėliavimo sąlygų. ^s-b921434fbcd64f63ccd7b2ca
@@ -1525,7 +1525,7 @@ Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
 10. Leidimo eksportuoti ginklus, leidimo importuoti ginklus, leidimo gabenti ginklus tranzitu per Lietuvos Respubliką ir leidimo vežti ginklus galiojimas panaikinamas, jeigu paaiškėja bent viena iš šių aplinkybių: ^s-1c20282ff6ee6daddd9b87be
 
 
-1) yra bent viena iš [[#^s-5a200038cc80acf32cfa9816|šio straipsnio 9 dalies]] 2, 3, 5, 6, 9 ir 11 punktuose nurodytų aplinkybių; ^s-247ffa0e937abb23b80d1c04
+1) yra bent viena iš [[#^s-5a200038cc80acf32cfa9816|šio straipsnio 9 dalies]] [[#^s-39510d62435681c9e4a31422|2]], 3, 5, 6, 9 ir 11 punktuose nurodytų aplinkybių; ^s-247ffa0e937abb23b80d1c04
 
 
 2) valstybei, į kurią (iš kurios) eksportuojami (importuojami) ar į kurią vežami ginklai, ginklų priedėliai, šaudmenys, jų dalys, pradėtos taikyti tarptautinės sankcijos, įgyvendinamos pagal Tarptautinių sankcijų įstatymą ir draudžiančios ginklų, ginklų priedėlių, šaudmenų, jų dalių eksportą, importą, vežimą ar gabenimą tranzitu. ^s-39510d62435681c9e4a31422
@@ -1571,10 +1571,10 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 ### 24 straipsnis. Ginklų, ginklų priedėlių, šaudmenų, jų dalių prekyba ^s-8e87fa4226844d81908dcd35
 
 
-1. Lietuvos Respublikoje Vyriausybės įgaliota institucija turi teisę prekiauti visų kategorijų ginklais, ginklų priedėliais, šaudmenimis, jų dalimis, taip pat šio įstatymo [[#^s-dd408e8414e9e64326a7dc14|3 straipsnio 7 punkte]] nurodytų ginklų dėtuvėmis, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo [[#^s-0b2a5c8b05fad84420bab41b|3 straipsnio 8 punkte]] nurodytų ginklų dėtuvėmis, į kurias telpa daugiau kaip 10 šovinių. ^s-051bde54365a7316f95d193e
+1. Lietuvos Respublikoje Vyriausybės įgaliota institucija turi teisę prekiauti visų kategorijų ginklais, ginklų priedėliais, šaudmenimis, jų dalimis, taip pat šio įstatymo 3 straipsnio 7 punkte nurodytų ginklų dėtuvėmis, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo 3 straipsnio 8 punkte nurodytų ginklų dėtuvėmis, į kurias telpa daugiau kaip 10 šovinių. ^s-051bde54365a7316f95d193e
 
 
-2. A kategorijos ginklais, išvardytais šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–10 punktuose, taip pat šio įstatymo [[#^s-dd408e8414e9e64326a7dc14|3 straipsnio 7 punkte]] nurodytų ginklų dėtuvėmis, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo [[#^s-0b2a5c8b05fad84420bab41b|3 straipsnio 8 punkte]] nurodytų ginklų dėtuvėmis, į kurias telpa daugiau kaip 10 šovinių, B, C, D kategorijų ginklais, išskyrus D kategorijos šaltuosius ginklus, ginklų priedėliais, šaudmenimis, jų dalimis turi teisę prekiauti Europos fiziniai asmenys ir Europos juridiniai asmenys, turintys licenciją ar rašytinį sutikimą prekiauti civilinėje apyvartoje ginklais, ginklų priedėliais, šaudmenimis, jų dalimis. Tokią licenciją ar rašytinį sutikimą Vyriausybės nustatyta tvarka išduoda policijos įstaiga. Europos fiziniams ir juridiniams asmenims draudžiama prekiauti kitais, negu šioje dalyje nurodyti, ginklais, ginklų priedėliais, šaudmenimis, jų dalimis, išskyrus šio įstatymo [[#^s-3356e32dc9c3b261f3e4caaf|22 straipsnio 4 dalies 4 punkte]] nustatytą atvejį. Europos fiziniai ir juridiniai asmenys, turintys licenciją ar rašytinį sutikimą prekiauti civilinėje apyvartoje B, C, D kategorijų ginklais, ginklų priedėliais, šaudmenimis, jų dalimis, taip pat turi teisę vykdyti šioje licencijoje ar rašytiniame sutikime nurodytų B, C, D kategorijų ginklų, ginklų priedėlių, šaudmenų, jų dalių mainus. Ginklų, ginklų priedėlių, šaudmenų, jų dalių mainams taikomi šio straipsnio 3, 4 ir [[#^s-7bbe3e3b91a045e91fd893af|5 dalyse]] nustatyti reikalavimai. A kategorijos ginklų, ginklų priedėlių, šaudmenų, jų dalių mainai yra draudžiami. ^s-6e722d5b89babd7636650428
+2. A kategorijos ginklais, išvardytais šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–10 punktuose, taip pat šio įstatymo 3 straipsnio 7 punkte nurodytų ginklų dėtuvėmis, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo 3 straipsnio 8 punkte nurodytų ginklų dėtuvėmis, į kurias telpa daugiau kaip 10 šovinių, B, C, D kategorijų ginklais, išskyrus D kategorijos šaltuosius ginklus, ginklų priedėliais, šaudmenimis, jų dalimis turi teisę prekiauti Europos fiziniai asmenys ir Europos juridiniai asmenys, turintys licenciją ar rašytinį sutikimą prekiauti civilinėje apyvartoje ginklais, ginklų priedėliais, šaudmenimis, jų dalimis. Tokią licenciją ar rašytinį sutikimą Vyriausybės nustatyta tvarka išduoda policijos įstaiga. Europos fiziniams ir juridiniams asmenims draudžiama prekiauti kitais, negu šioje dalyje nurodyti, ginklais, ginklų priedėliais, šaudmenimis, jų dalimis, išskyrus šio įstatymo [[#^s-3356e32dc9c3b261f3e4caaf|22 straipsnio 4 dalies 4 punkte]] nustatytą atvejį. Europos fiziniai ir juridiniai asmenys, turintys licenciją ar rašytinį sutikimą prekiauti civilinėje apyvartoje B, C, D kategorijų ginklais, ginklų priedėliais, šaudmenimis, jų dalimis, taip pat turi teisę vykdyti šioje licencijoje ar rašytiniame sutikime nurodytų B, C, D kategorijų ginklų, ginklų priedėlių, šaudmenų, jų dalių mainus. Ginklų, ginklų priedėlių, šaudmenų, jų dalių mainams taikomi šio straipsnio [[#^s-03a9ddcc600fec3c17568f07|3]], [[#^s-9ab58c5976bd0f5d238b1388|4]] ir [[#^s-7bbe3e3b91a045e91fd893af|5]] dalyse nustatyti reikalavimai. A kategorijos ginklų, ginklų priedėlių, šaudmenų, jų dalių mainai yra draudžiami. ^s-6e722d5b89babd7636650428
 Straipsnio dalies pakeitimai:
 Nr. XV-184, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08679
 
@@ -1631,16 +1631,16 @@ Nr. XIV-2649, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09687
 5. Be leidimų įsigyti ginklus, leidimų laikyti ginklus ar leidimų nešiotis ginklus turi teisę įsigyti: ^s-7bbe3e3b91a045e91fd893af
 
 
-1) ginklus, ginklų priedėlius, šaudmenis, jų dalis – specialiojo statuso subjektai, valstybinės kriminalistinės ekspertizės įstaigos, taip pat subjektai, turintys licencijas verstis veikla, nurodyta šio įstatymo [[#^s-f8969196e511e6cd8f4c90f9|19 straipsnio 1 dalies]] 1, 2 ir [[#^s-a8e5c3d9a167fb83afca6ec2|3 punktuose]]; ^s-49399e458f225916114b0ece
+1) ginklus, ginklų priedėlius, šaudmenis, jų dalis – specialiojo statuso subjektai, valstybinės kriminalistinės ekspertizės įstaigos, taip pat subjektai, turintys licencijas verstis veikla, nurodyta šio įstatymo [[#^s-f8969196e511e6cd8f4c90f9|19 straipsnio 1 dalies]] [[#^s-98f132a54a66736c992d87ba|1]], [[#^s-6e03757b0f9584ce4f095f5b|2]] ir [[#^s-a5436eb0a0dcbdccb28e3ddc|3]] punktuose; ^s-49399e458f225916114b0ece
 
 
 2) ginklų dalis – subjektai, turintys licencijas verstis veikla, nurodyta šio įstatymo [[#^s-b59222c40a41997ee06c87b1|19 straipsnio 1 dalies 4 punkte]]; ^s-80b15325a568c190db5b8c27
 
 
-3) šaudmenis – subjektai, turintys licencijas verstis veikla, nurodyta šio įstatymo [[#^s-f8969196e511e6cd8f4c90f9|19 straipsnio 1 dalies]] 5 ir 6 punktuose. ^s-a8e5c3d9a167fb83afca6ec2
+3) šaudmenis – subjektai, turintys licencijas verstis veikla, nurodyta šio įstatymo [[#^s-f8969196e511e6cd8f4c90f9|19 straipsnio 1 dalies]] [[#^s-e2642a0b853901e47fa73b69|5]] ir [[#^s-67c4930add4e0e0467299ac7|6]] punktuose. ^s-a8e5c3d9a167fb83afca6ec2
 
 
-6. Šio straipsnio 3, 4 ir [[#^s-7bbe3e3b91a045e91fd893af|5 dalių]] reikalavimai taip pat taikomi ginklų, ginklų priedėlių, šaudmenų, jų dalių gamintojams ir importuotojams, kurie verčiasi ginklų, ginklų priedėlių, šaudmenų, jų dalių prekyba. ^s-b05334d9e3863478caaca856
+6. Šio straipsnio [[#^s-03a9ddcc600fec3c17568f07|3]], [[#^s-9ab58c5976bd0f5d238b1388|4]] ir [[#^s-7bbe3e3b91a045e91fd893af|5]] dalių reikalavimai taip pat taikomi ginklų, ginklų priedėlių, šaudmenų, jų dalių gamintojams ir importuotojams, kurie verčiasi ginklų, ginklų priedėlių, šaudmenų, jų dalių prekyba. ^s-b05334d9e3863478caaca856
 
 
 Straipsnio pakeitimai:
@@ -1681,13 +1681,13 @@ Nr. XV-57, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23066
 3) juridiniam asmeniui, kitai organizacijai ar jų padaliniui, fiziniam asmeniui verstis tarpininko veikla uždrausta teismo nuosprendžiu; ^s-17332fdcd53d1a406e04484f
 
 
-4) paaiškėja, kad Europos juridinio asmens darbuotojui, kuris pagal jam priskirtas darbo funkcijas turi teisę laikyti, nešioti, saugoti ir (ar) naudoti Europos juridinio asmens valdomus, naudojamus ir (ar) disponuojamus ginklus, ginklų priedėlius, šaudmenis, jų dalis (toliau – su ginklų, ginklų priedėlių, šaudmenų, jų dalių apyvarta tiesiogiai susijęs darbas), tarpininkui (kai tarpininkas fizinis asmuo) taikomos šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] 3, 10 ir 11 punktų ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalies]] nuostatos arba Europos juridinio asmens administracijos vadovui ar kontroliuojančiajam asmeniui taikomos šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] 10, 11 punktų ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalies]] nuostatos; ^s-1d53191f7a558e1a97e0165c
+4) paaiškėja, kad Europos juridinio asmens darbuotojui, kuris pagal jam priskirtas darbo funkcijas turi teisę laikyti, nešioti, saugoti ir (ar) naudoti Europos juridinio asmens valdomus, naudojamus ir (ar) disponuojamus ginklus, ginklų priedėlius, šaudmenis, jų dalis (toliau – su ginklų, ginklų priedėlių, šaudmenų, jų dalių apyvarta tiesiogiai susijęs darbas), tarpininkui (kai tarpininkas fizinis asmuo) taikomos šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] [[#^s-3ffcbd932050c8350fbcf95d|3]], [[#^s-fdf551e5f9b31f6b2c1af1af|10]] ir [[#^s-0142ee7b90aaa847f5c929e7|11]] punktų ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalies]] nuostatos arba Europos juridinio asmens administracijos vadovui ar kontroliuojančiajam asmeniui taikomos šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] [[#^s-fdf551e5f9b31f6b2c1af1af|10]], [[#^s-0142ee7b90aaa847f5c929e7|11]] punktų ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalies]] nuostatos; ^s-1d53191f7a558e1a97e0165c
 Straipsnio punkto pakeitimai:
 Nr. XV-483, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17642
 
 
 
-5) jo įregistravimas buvo panaikintas ir nuo įregistravimo panaikinimo nepraėjo 3 metai, išskyrus atvejus, kai įregistravimas panaikintas [[#^s-80fa84ee035dadde9568a994|šio straipsnio 8 dalies]] 1, 5 ir 9 punktuose nustatytais pagrindais. ^s-66829fac82fe7d05e6658a15
+5) jo įregistravimas buvo panaikintas ir nuo įregistravimo panaikinimo nepraėjo 3 metai, išskyrus atvejus, kai įregistravimas panaikintas [[#^s-80fa84ee035dadde9568a994|šio straipsnio 8 dalies]] [[#^s-2133a6122fd684315bb4d254|1]], 5 ir 9 punktuose nustatytais pagrindais. ^s-66829fac82fe7d05e6658a15
 
 
 7. Policijos įstaiga įspėja tarpininką apie galimą įregistravimo panaikinimą, jeigu jis pažeidžia teisės aktus, susijusius su tarpininko veikla. Tarpininkas, įspėtas apie galimą įregistravimo panaikinimą, turi pašalinti policijos įstaigos nurodytus pažeidimus per jos nustatytą terminą. ^s-2d225726c1d63100bd68cd32
@@ -1702,7 +1702,7 @@ Nr. XV-483, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17642
 2) nustatoma, kad tarpininkas tarpininkavo ginklų, ginklų priedėlių, šaudmenų, jų dalių įsigijimo, importo ar eksporto sutartis sudarantiems subjektams, kurie neturi teisės verstis tokia veikla; ^s-337f91615d7893b08a8bfa44
 
 
-3) paaiškėja, kad atsirado [[#^s-4f46da60068bbdf665ddcc77|šio straipsnio 6 dalies]] 2, 3 ir [[#^s-f3167667ebe3142d5f6e9e3f|4 punktuose]] nurodytų aplinkybių, kurios taikomos tarpininkui; ^s-b087a001d753dec3f8fcd5f9
+3) paaiškėja, kad atsirado [[#^s-4f46da60068bbdf665ddcc77|šio straipsnio 6 dalies]] [[#^s-337f91615d7893b08a8bfa44|2]], 3 ir [[#^s-f3167667ebe3142d5f6e9e3f|4]] punktuose nurodytų aplinkybių, kurios taikomos tarpininkui; ^s-b087a001d753dec3f8fcd5f9
 
 
 4) nustatoma, kad tarpininkas kontroliuojančiajai institucijai pateikė tikrovės neatitinkančią informaciją; ^s-f3167667ebe3142d5f6e9e3f
@@ -1777,13 +1777,13 @@ Nr. XIV-2649, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09687
 
 
 
-9) laikytis šio įstatymo [[#^s-449ee75c540db5cda4ef70c6|21 straipsnio 2 dalies]] 10, 11, 12 ir 13 punktuose nustatytų reikalavimų; ^s-93e5dece2b4837bb904a4c6f
+9) laikytis šio įstatymo [[#^s-449ee75c540db5cda4ef70c6|21 straipsnio 2 dalies]] [[#^s-0af0ada0a7f56ab1baa9ca82|10]], [[#^s-ba31b516186008d748df7b39|11]], [[#^s-4d78183ef0f3cc49149beda6|12]] ir [[#^s-06e18825f862bf132f8e2b8f|13]] punktuose nustatytų reikalavimų; ^s-93e5dece2b4837bb904a4c6f
 
 
-10) prekiaudamas ginklais, ginklų priedėliais, šaudmenimis, jų dalimis Lietuvos Respublikoje, laikytis šio įstatymo [[#^s-8e87fa4226844d81908dcd35|24 straipsnio]] 3, 4 ir [[#^s-e22f297e1c633c1fb800873a|5 dalyse]] nustatytų reikalavimų; ^s-966933fac212ffc1bc077523
+10) prekiaudamas ginklais, ginklų priedėliais, šaudmenimis, jų dalimis Lietuvos Respublikoje, laikytis šio įstatymo [[#^s-8e87fa4226844d81908dcd35|24 straipsnio]] [[#^s-03a9ddcc600fec3c17568f07|3]], [[#^s-9ab58c5976bd0f5d238b1388|4]] ir [[#^s-7bbe3e3b91a045e91fd893af|5]] dalyse nustatytų reikalavimų; ^s-966933fac212ffc1bc077523
 
 
-11) importuodamas, veždamas į Lietuvos Respubliką ar iš jos eksportuodamas, veždamas ginklus, ginklų priedėlius, šaudmenis, jų dalis, laikytis šio įstatymo [[#^s-10846adde1a216a7f7b6fcf3|23 straipsnio]] 5, 6, 7 ir [[#^s-80fa84ee035dadde9568a994|8 dalyse]] nustatytų reikalavimų. ^s-062cf472ce776c92a83d0a3d
+11) importuodamas, veždamas į Lietuvos Respubliką ar iš jos eksportuodamas, veždamas ginklus, ginklų priedėlius, šaudmenis, jų dalis, laikytis šio įstatymo [[#^s-10846adde1a216a7f7b6fcf3|23 straipsnio]] [[#^s-023fb67cc0b6680aa7162de4|5]], [[#^s-e97dc0cc22d7eb56b60cb4c7|6]], [[#^s-4d3ab5818b9bbc691180b6be|7]] ir [[#^s-3f482103daf415bd3be3bdeb|8]] dalyse nustatytų reikalavimų. ^s-062cf472ce776c92a83d0a3d
 
 
 11. Pareiškėjas ar jo įgaliotas asmuo sprendimus atsisakyti įregistruoti tarpininką arba panaikinti įregistravimą turi teisę savo pasirinkimu apskųsti [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]], [[latest/TAR.594F129CE9AD|Ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo]] arba [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-d0c3cf652224cafd309dc331
@@ -1865,7 +1865,7 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 3. Ginklų savininkai ir naudotojai tiruose ir šaudyklose gali šaudyti iš jiems priklausančių ar perduotų naudotis ginklų. Šaudymo tiruose ar šaudyklose, jų teritorijoje reikalavimus bei ginklo naudojimo ir nuomos tire ar šaudykloje tvarką nustato Vyriausybė arba jos įgaliota institucija. ^s-1d1f584294a4d148d4d0f55a
 
 
-4. Veikla, susijusi su tirų ir šaudyklų, kuriuose šaudoma iš šio įstatymo [[#^s-bfe6ea63c9236cb6cfd64652|6 straipsnio 1 punkte]] nurodytų ginklų, eksploatavimu, nelicencijuojama. Asmenys, šaudydami iš šio įstatymo [[#^s-bfe6ea63c9236cb6cfd64652|6 straipsnio 1 punkte]] nurodytų ginklų, privalo užtikrinti šaudymo saugumą. ^s-f56e44349ab42cb6074628a3
+4. Veikla, susijusi su tirų ir šaudyklų, kuriuose šaudoma iš šio įstatymo 6 straipsnio 1 punkte nurodytų ginklų, eksploatavimu, nelicencijuojama. Asmenys, šaudydami iš šio įstatymo 6 straipsnio 1 punkte nurodytų ginklų, privalo užtikrinti šaudymo saugumą. ^s-f56e44349ab42cb6074628a3
 
 
 5. Fiziniams ir juridiniams asmenims, kurie nesiverčia ūkine veikla eksploatuodami tirus, šaudyklas, licencija eksploatuoti tirus, šaudyklas nereikalinga. Tokie asmenys Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka turi gauti policijos įstaigos leidimą, patvirtinantį, kad tirų, šaudyklų patalpos atitinka [[#^s-f1f0a50437b6fe7a9ecf3c90|šio straipsnio 2 dalyje]] nurodytus reikalavimus. ^s-c8f16446394d9e1d385fab78
@@ -2256,7 +2256,7 @@ Nr. XV-184, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08679
 
 
 
-4. Juridinių asmenų, turinčių tarpvalstybinio grynųjų pinigų vežimo licenciją, išduotą Reglamento (ES) Nr. 1214/2011 nustatytomis sąlygomis, grynųjų pinigų vežimo apsaugos darbuotojai (kaip jie apibrėžti šio reglamento [[#^s-d7adf21086fe58233e5dc6a3|1 straipsnio]] i punkte) pavienius ginklus, kurių civilinė apyvarta Lietuvos Respublikoje draudžiama, gali gabenti tranzitu šiame reglamente nustatyta tvarka. ^s-fbe77eebcd5f334a663f98a8
+4. Juridinių asmenų, turinčių tarpvalstybinio grynųjų pinigų vežimo licenciją, išduotą [Reglamento (ES) Nr. 1214/2011](https://eur-lex.europa.eu/eli/reg/1214/2011/oj) nustatytomis sąlygomis, grynųjų pinigų vežimo apsaugos darbuotojai (kaip jie apibrėžti šio reglamento [[#^s-d7adf21086fe58233e5dc6a3|1 straipsnio]] i punkte) pavienius ginklus, kurių civilinė apyvarta Lietuvos Respublikoje draudžiama, gali gabenti tranzitu šiame reglamente nustatyta tvarka. ^s-fbe77eebcd5f334a663f98a8
 
 
 5. Specialiojo statuso subjektų pareigūnai, išskyrus Lietuvos šaulių sąjungą, tarnybinėms pareigoms atlikti jiems priklausančius šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–10 punktuose nurodytus ginklus, B, C kategorijų ginklus, ginklų priedėlius, šaudmenis, jų dalis išveža, veža iš Lietuvos Respublikos ir įveža, veža į Lietuvos Respubliką turėdami specialiojo statuso subjekto vadovo išduotą leidimą. ^s-48ec933b2876f7c9d0cf8335
@@ -2327,7 +2327,7 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 14. Leidimo įvežti (išvežti) pavienius ginklus ir leidimo vežti ginklus galiojimas panaikinamas, jeigu paaiškėja bent viena iš šių aplinkybių: ^s-1093d7015fbc213bef36e73a
 
 
-1) yra bent viena iš [[#^s-88af743a968301308659f623|šio straipsnio 12 dalies]] 4 ir 7 punktuose nurodytų aplinkybių; ^s-1f8509bb5010b7923913662e
+1) yra bent viena iš [[#^s-88af743a968301308659f623|šio straipsnio 12 dalies]] [[#^s-bb13f105422b149c48e9e0ce|4]] ir 7 punktuose nurodytų aplinkybių; ^s-1f8509bb5010b7923913662e
 
 
 2) leidimas įgytas pateikus klaidingus duomenis; ^s-9540884d21c8c56d6cf42c1d
@@ -2433,7 +2433,7 @@ leidimų nešiotis GINKLUS ir leidimų laikyti GINKLus GALIOJIMO panaikinimas
 ### 40 straipsnis. Leidimų nešiotis ir leidimų laikyti ginklus galiojimo panaikinimas ^s-e853bc428abfc214a3cd3bc2
 
 
-1. Leidimų nešiotis ir leidimų laikyti šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–[[#^s-e82eae653301327297e85de4|10 punktuose]] nurodytus ginklus, B ir C kategorijų ginklus galiojimas panaikinamas: ^s-1e1baca9dd4a231984c971a3
+1. Leidimų nešiotis ir leidimų laikyti šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–10 punktuose nurodytus ginklus, B ir C kategorijų ginklus galiojimas panaikinamas: ^s-1e1baca9dd4a231984c971a3
 Straipsnio dalies pakeitimai:
 Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 
@@ -2450,7 +2450,7 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 4) panaikinus licencijos ar rašytinio sutikimo verstis šio įstatymo [[#^s-f8969196e511e6cd8f4c90f9|19 straipsnio 1 dalyje]] nurodyta veikla galiojimą; ^s-208eb2ee2245eb3c25838fa6
 
 
-5) atsiradus šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] 3, 4, 7, [[#^s-a982b03dd71d36cee1ad781c|9 punktuose]] ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalyje]], išskyrus [[#^s-e4e24dba0114650831a0ef6b|18 straipsnio 2 dalies 9 punktą]], numatytoms sąlygoms; ^s-7de6bffed71f64bb34b29d66
+5) atsiradus šio įstatymo [[#^s-389b3f2084ee7c98d403f315|17 straipsnio 1 dalies]] [[#^s-3ffcbd932050c8350fbcf95d|3]], [[#^s-f00d3696b4f2c3a4dfb5658b|4]], [[#^s-4118b9bd5219dca462f5a6d0|7]], [[#^s-eb37a9c55da930f560b1fa80|9]] punktuose ir (ar) [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalyje]], išskyrus [[#^s-e4e24dba0114650831a0ef6b|18 straipsnio 2 dalies 9 punktą]], numatytoms sąlygoms; ^s-7de6bffed71f64bb34b29d66
 Straipsnio punkto pakeitimai:
 Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
 
@@ -2483,7 +2483,7 @@ Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
 13) kai policijos įstaiga gauna duomenų iš Valstybės saugumo departamento, kad asmuo gali kelti arba kelia grėsmę valstybės saugumui; ^s-3d89f03ae6d8c3255cbc785a
 
 
-14) kai fizinis asmuo netenka nuolatinio Lietuvos Respublikos gyventojo statuso, kai šio statuso turėjimas yra būtinas norint šio įstatymo [[#^s-fba0bdff8f95b1b424465ec7|13 straipsnio]] 2–5, 7 ir 14 dalyse nustatytais atvejais įsigyti, turėti ir laikyti atitinkamos kategorijos ginklus ir šaudmenis. ^s-c2db08da1e9af5b1eb0fc53f
+14) kai fizinis asmuo netenka nuolatinio Lietuvos Respublikos gyventojo statuso, kai šio statuso turėjimas yra būtinas norint šio įstatymo [[#^s-fba0bdff8f95b1b424465ec7|13 straipsnio]] [[#^s-fb32c27c6c0ae9d0999b6ca6|2]]–[[#^s-20c369baac3fc0a000dcea90|5]], [[#^s-d381a5397291571067e4fcb6|7]] ir [[#^s-cb0b255ddacab87167334baa|14]] dalyse nustatytais atvejais įsigyti, turėti ir laikyti atitinkamos kategorijos ginklus ir šaudmenis. ^s-c2db08da1e9af5b1eb0fc53f
 Papildyta straipsnio punktu:
 Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
 
@@ -2513,7 +2513,7 @@ Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
 7. Europos fizinio asmens ar Europos juridinio asmens darbuotojo leidimo nešiotis ginklus galiojimas panaikinamas Europos fiziniam asmeniui ar Europos juridinio asmens darbuotojui nutraukus profesinę veiklą. ^s-8e78441f630d10b2195cac8f
 
 
-8. Šio įstatymo [[#^s-be4dd35e3bddec11ceb3522c|42 straipsnio 10 dalyje]] nustatytais atvejais panaikinus apdovanojimą B ir C kategorijų trumpuoju šaunamuoju ginklu (pistoletu, revolveriu), policijos įstaiga įvertina, ar yra pagrindas priimti sprendimą panaikinti asmens, apdovanoto ginklu, turimo leidimo nešiotis ar leidimo laikyti B ir C kategorijų ginklus galiojimą šio įstatymo [[#^s-e853bc428abfc214a3cd3bc2|40 straipsnio]] 1–[[#^s-8e78441f630d10b2195cac8f|7 dalyse]] nustatytais pagrindais. Policijos įstaigai nustačius, kad toks pagrindas yra, sprendimas panaikinti leidimo nešiotis ar leidimo laikyti B ir C kategorijų ginklus galiojimą priimamas vadovaujantis [[#^s-7fcc766e4e4e5efc4341bb95|šio straipsnio 10 dalies]] nuostatomis. ^s-a1f4d1b18d9fcad4459ca734
+8. Šio įstatymo [[#^s-be4dd35e3bddec11ceb3522c|42 straipsnio 10 dalyje]] nustatytais atvejais panaikinus apdovanojimą B ir C kategorijų trumpuoju šaunamuoju ginklu (pistoletu, revolveriu), policijos įstaiga įvertina, ar yra pagrindas priimti sprendimą panaikinti asmens, apdovanoto ginklu, turimo leidimo nešiotis ar leidimo laikyti B ir C kategorijų ginklus galiojimą šio įstatymo [[#^s-e853bc428abfc214a3cd3bc2|40 straipsnio]] [[#^s-1e1baca9dd4a231984c971a3|1]]–[[#^s-8e78441f630d10b2195cac8f|7]] dalyse nustatytais pagrindais. Policijos įstaigai nustačius, kad toks pagrindas yra, sprendimas panaikinti leidimo nešiotis ar leidimo laikyti B ir C kategorijų ginklus galiojimą priimamas vadovaujantis [[#^s-7fcc766e4e4e5efc4341bb95|šio straipsnio 10 dalies]] nuostatomis. ^s-a1f4d1b18d9fcad4459ca734
 Papildyta straipsnio dalimi:
 Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
 
@@ -2525,7 +2525,7 @@ Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
 
 
 
-10. Sprendimą panaikinti leidimo nešiotis ginklus ar leidimo laikyti ginklus galiojimą arba sprendimą nepratęsti nurodyto leidimo galiojimo priima šį leidimą išdavusios policijos įstaigos vadovas ar jo įgaliotas asmuo. Šis sprendimas turi būti motyvuotas šio straipsnio 1–[[#^s-8e78441f630d10b2195cac8f|7 dalyse]] nurodytais pagrindais. Asmuo turi teisę šioje dalyje nurodytus sprendimus savo pasirinkimu apskųsti [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]], [[latest/TAR.594F129CE9AD|Ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo]] arba [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-7fcc766e4e4e5efc4341bb95
+10. Sprendimą panaikinti leidimo nešiotis ginklus ar leidimo laikyti ginklus galiojimą arba sprendimą nepratęsti nurodyto leidimo galiojimo priima šį leidimą išdavusios policijos įstaigos vadovas ar jo įgaliotas asmuo. Šis sprendimas turi būti motyvuotas šio straipsnio [[#^s-1e1baca9dd4a231984c971a3|1]]–[[#^s-8e78441f630d10b2195cac8f|7]] dalyse nurodytais pagrindais. Asmuo turi teisę šioje dalyje nurodytus sprendimus savo pasirinkimu apskųsti [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]], [[latest/TAR.594F129CE9AD|Ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo]] arba [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-7fcc766e4e4e5efc4341bb95
 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
@@ -2555,7 +2555,7 @@ GINKLŲ, GINKLŲ PRIEDĖLIŲ, ŠAUDMENŲ, JŲ DALIŲ PAĖMIMAS, PAVELDĖJIMAS, D
 4) mirus ginklo savininkui, iki bus išspręstas turto paveldėjimo klausimas; ^s-40e1bd9506ba29e34457cc4a
 
 
-5) kai asmuo įtariamas ar kaltinamas padaręs nusikalstamą veiką, nurodytą šio įstatymo [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalies]] 1, 2, 3, 4 ir 5 punktuose; ^s-df9a83358b7df987f853641b
+5) kai asmuo įtariamas ar kaltinamas padaręs nusikalstamą veiką, nurodytą šio įstatymo [[#^s-df7f6d281f4a07c241e87501|18 straipsnio 2 dalies]] [[#^s-dc1f5cb54f61096fbcbb004e|1]], [[#^s-6ba9c49a941c1ac8d0495dec|2]], [[#^s-ce394ad03ab90221fce2e62f|3]], [[#^s-7a40d08386e251bd196acea0|4]] ir [[#^s-1766b8d4f2cde162f6a84079|5]] punktuose; ^s-df9a83358b7df987f853641b
 
 
 6) kai yra pakankamas pagrindas įtarti, kad asmuo serga ligomis ar turi fizinių trūkumų, dėl kurių asmuo negali įsigyti ar turėti ginklo; ^s-58801422ef155af70a4970a5
@@ -2576,7 +2576,7 @@ GINKLŲ, GINKLŲ PRIEDĖLIŲ, ŠAUDMENŲ, JŲ DALIŲ PAĖMIMAS, PAVELDĖJIMAS, D
 3. Kai policijos įstaigos ar kitos įstatymų įgaliotos valstybės institucijos ginklo, jo dalių neranda arba ginklo, jo dalių negali paimti dėl to, kad ginklo savininkas yra išvykęs, organizuojama ginklo, jo dalių paieška. ^s-33d39d1755aec94a674b2c20
 
 
-4. [[#^s-5ef6af6d9b7077b65e2ff76b|Šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytais atvejais asmuo, iš kurio yra paimti ginklai, ginklų priedėliai, šaudmenys, jų dalys, ar jo įgaliotas asmuo turi teisę policijos įstaigai pasiūlyti subjektus, turinčius teisę prekiauti ginklais, ginklų priedėliais, šaudmenimis, jų dalimis, per kuriuos būtų realizuojami paimti ginklai, ginklų priedėliai, šaudmenys, jų dalys. A kategorijos ginklai, ginklų dalys ir šaudmenys, skirti tik A kategorijos ginklams, A kategorijos ginklų priedėliai, išskyrus šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–10 punktuose išvardytus A kategorijos ginklus, šaudmenis, jų dalis, taip pat išskyrus šio įstatymo [[#^s-dd408e8414e9e64326a7dc14|3 straipsnio 7 punkte]] nurodytų ginklų dėtuves, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo [[#^s-0b2a5c8b05fad84420bab41b|3 straipsnio 8 punkte]] nurodytų ginklų dėtuves, į kurias telpa daugiau kaip 10 šovinių, realizuojami per Vyriausybės įgaliotą instituciją. Jeigu [[#^s-5ef6af6d9b7077b65e2ff76b|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nustatytais atvejais asmuo, iš kurio yra paimti ginklai, ginklų priedėliai, šaudmenys, jų dalys, arba jo įgaliotas asmuo per 6 mėnesius nuo [[#^s-5ef6af6d9b7077b65e2ff76b|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytų aplinkybių atsiradimo dienos nesikreipia į policijos įstaigą su prašymu realizuoti ginklą, ginklo priedėlį, šaudmenis, jų dalis arba šiame prašyme nepasiūlo subjekto, turinčio teisę prekiauti ginklais, ginklų priedėliais, šaudmenimis, jų dalimis, taip pat [[#^s-7b8a31ef7a5a17dffa02a315|šio straipsnio 1 dalies 8 punkte]] nurodytu atveju policijos įstaiga paimtą ginklą, ginklo priedėlį, šaudmenis, jų dalis perduoda Vyriausybės įgaliotai institucijai sunaikinti. ^s-8411d4167fc629e29c56cfbd
+4. [[#^s-5ef6af6d9b7077b65e2ff76b|Šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytais atvejais asmuo, iš kurio yra paimti ginklai, ginklų priedėliai, šaudmenys, jų dalys, ar jo įgaliotas asmuo turi teisę policijos įstaigai pasiūlyti subjektus, turinčius teisę prekiauti ginklais, ginklų priedėliais, šaudmenimis, jų dalimis, per kuriuos būtų realizuojami paimti ginklai, ginklų priedėliai, šaudmenys, jų dalys. A kategorijos ginklai, ginklų dalys ir šaudmenys, skirti tik A kategorijos ginklams, A kategorijos ginklų priedėliai, išskyrus šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–10 punktuose išvardytus A kategorijos ginklus, šaudmenis, jų dalis, taip pat išskyrus šio įstatymo 3 straipsnio 7 punkte nurodytų ginklų dėtuves, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo 3 straipsnio 8 punkte nurodytų ginklų dėtuves, į kurias telpa daugiau kaip 10 šovinių, realizuojami per Vyriausybės įgaliotą instituciją. Jeigu [[#^s-5ef6af6d9b7077b65e2ff76b|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nustatytais atvejais asmuo, iš kurio yra paimti ginklai, ginklų priedėliai, šaudmenys, jų dalys, arba jo įgaliotas asmuo per 6 mėnesius nuo [[#^s-5ef6af6d9b7077b65e2ff76b|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytų aplinkybių atsiradimo dienos nesikreipia į policijos įstaigą su prašymu realizuoti ginklą, ginklo priedėlį, šaudmenis, jų dalis arba šiame prašyme nepasiūlo subjekto, turinčio teisę prekiauti ginklais, ginklų priedėliais, šaudmenimis, jų dalimis, taip pat [[#^s-7b8a31ef7a5a17dffa02a315|šio straipsnio 1 dalies 8 punkte]] nurodytu atveju policijos įstaiga paimtą ginklą, ginklo priedėlį, šaudmenis, jų dalis perduoda Vyriausybės įgaliotai institucijai sunaikinti. ^s-8411d4167fc629e29c56cfbd
 
 Straipsnio dalies pakeitimai:
 Nr. XV-184, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08679
@@ -2607,13 +2607,13 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 ### 42 straipsnis. Ginklai, jų šaudmenys kaip paveldėto turto dalis ar dovana ^s-01cc5dfda6ce0e3e46032576
 
 
-1. A kategorijos ginklai, ginklų dalys ir šaudmenys, skirti tik A kategorijos ginklams, A kategorijos ginklų priedėliai, šio įstatymo [[#^s-dd408e8414e9e64326a7dc14|3 straipsnio 7 punkte]] nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo [[#^s-0b2a5c8b05fad84420bab41b|3 straipsnio 8 punkte]] nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 10 šovinių, B, C, D kategorijų ginklai ir šaudmenys dovanojami ir paveldimi. ^s-f5cba488036a89f2fe41584a
+1. A kategorijos ginklai, ginklų dalys ir šaudmenys, skirti tik A kategorijos ginklams, A kategorijos ginklų priedėliai, šio įstatymo 3 straipsnio 7 punkte nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo 3 straipsnio 8 punkte nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 10 šovinių, B, C, D kategorijų ginklai ir šaudmenys dovanojami ir paveldimi. ^s-f5cba488036a89f2fe41584a
 Straipsnio dalies pakeitimai:
 Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 
 
 
-2. A kategorijos ginklai, ginklų dalys ir šaudmenys, skirti tik A kategorijos ginklams, A kategorijos priedėliai, šio įstatymo [[#^s-dd408e8414e9e64326a7dc14|3 straipsnio 7 punkte]] nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo [[#^s-0b2a5c8b05fad84420bab41b|3 straipsnio 8 punkte]] nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 10 šovinių, B ir C kategorijų ginklai, jų šaudmenys gali būti dovanojami asmenims, kurie turi teisę įsigyti ir turėti atitinkamos rūšies ginklą. ^s-c87c9637d16bf4087603482f
+2. A kategorijos ginklai, ginklų dalys ir šaudmenys, skirti tik A kategorijos ginklams, A kategorijos priedėliai, šio įstatymo 3 straipsnio 7 punkte nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo 3 straipsnio 8 punkte nurodytų ginklų dėtuvės, į kurias telpa daugiau kaip 10 šovinių, B ir C kategorijų ginklai, jų šaudmenys gali būti dovanojami asmenims, kurie turi teisę įsigyti ir turėti atitinkamos rūšies ginklą. ^s-c87c9637d16bf4087603482f
 Straipsnio dalies pakeitimai:
 Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 
@@ -2625,7 +2625,7 @@ Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
 
 
 
-4. Jeigu įpėdinis nesikreipia dėl leidimo nešiotis ginklus ar leidimo laikyti ginklus ar jo negauna arba atsisako ginklą perdirbti, išduodamas leidimas ginklą parduoti. Leidimas ginklą parduoti išduodamas ir įpėdinio įgaliotam asmeniui. Leidimas ginklą parduoti galioja ne ilgiau kaip 30 kalendorinių dienų nuo šio leidimo išdavimo dienos. Ginklas ir šaudmenys realizuojami per įpėdinio ar jo įgalioto asmens pasirinktus subjektus, turinčius teisę prekiauti tos rūšies ginklais, ginklų priedėliais, šaudmenimis ir jų dalimis. A kategorijos ginklai, ginklų dalys ir šaudmenys, skirti tik A kategorijos ginklams, A kategorijos ginklų priedėliai, išskyrus šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–10 punktuose išvardytus A kategorijos ginklus, šaudmenis, jų dalis, taip pat išskyrus šio įstatymo [[#^s-dd408e8414e9e64326a7dc14|3 straipsnio 7 punkte]] nurodytų ginklų dėtuves, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo [[#^s-0b2a5c8b05fad84420bab41b|3 straipsnio 8 punkte]] nurodytų ginklų dėtuves, į kurias telpa daugiau kaip 10 šovinių, realizuojami per Vyriausybės įgaliotą instituciją. Per 30 kalendorinių dienų nuo ginklo ir šaudmenų atidavimo realizuoti dienos įpėdinis ar jo įgaliotas asmuo policijos įstaigai turi pateikti pažymą, kad ginklas ir šaudmenys pateikti realizuoti subjektui, turinčiam teisę prekiauti tokios rūšies ginklais, ginklų priedėliais, šaudmenimis ir jų dalimis. Leidimas ginklą parduoti suteikia teisę perduoti ginklą ir šaudmenis realizuoti per 30 kalendorinių dienų nuo šio leidimo išdavimo dienos. ^s-de6a4cefa21024db904644a4
+4. Jeigu įpėdinis nesikreipia dėl leidimo nešiotis ginklus ar leidimo laikyti ginklus ar jo negauna arba atsisako ginklą perdirbti, išduodamas leidimas ginklą parduoti. Leidimas ginklą parduoti išduodamas ir įpėdinio įgaliotam asmeniui. Leidimas ginklą parduoti galioja ne ilgiau kaip 30 kalendorinių dienų nuo šio leidimo išdavimo dienos. Ginklas ir šaudmenys realizuojami per įpėdinio ar jo įgalioto asmens pasirinktus subjektus, turinčius teisę prekiauti tos rūšies ginklais, ginklų priedėliais, šaudmenimis ir jų dalimis. A kategorijos ginklai, ginklų dalys ir šaudmenys, skirti tik A kategorijos ginklams, A kategorijos ginklų priedėliai, išskyrus šio įstatymo [[#^s-e88f9a148cf9cc130e8dce7b|3 straipsnio]] 2, 6–10 punktuose išvardytus A kategorijos ginklus, šaudmenis, jų dalis, taip pat išskyrus šio įstatymo 3 straipsnio 7 punkte nurodytų ginklų dėtuves, į kurias telpa daugiau kaip 20 šovinių, ir šio įstatymo 3 straipsnio 8 punkte nurodytų ginklų dėtuves, į kurias telpa daugiau kaip 10 šovinių, realizuojami per Vyriausybės įgaliotą instituciją. Per 30 kalendorinių dienų nuo ginklo ir šaudmenų atidavimo realizuoti dienos įpėdinis ar jo įgaliotas asmuo policijos įstaigai turi pateikti pažymą, kad ginklas ir šaudmenys pateikti realizuoti subjektui, turinčiam teisę prekiauti tokios rūšies ginklais, ginklų priedėliais, šaudmenimis ir jų dalimis. Leidimas ginklą parduoti suteikia teisę perduoti ginklą ir šaudmenis realizuoti per 30 kalendorinių dienų nuo šio leidimo išdavimo dienos. ^s-de6a4cefa21024db904644a4
 Straipsnio dalies pakeitimai:
 Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
 Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
@@ -2749,7 +2749,7 @@ Visi įsigyti A, B kategorijų graižtviniai trumpieji šaunamieji ginklai turi 
 4. Vyriausybės įgaliotai institucijai [[#^s-ae47e1dbde9577660310b9f5|šio straipsnio 3 dalyje]] nurodyta tvarka perduoti tinkami naudoti ginklai, ginklų priedėliai, šaudmenys, jų dalys šios institucijos nustatyta tvarka gali būti perduoti kitiems specialiojo statuso subjektams, valstybės institucijoms ir įstaigoms, taip pat realizuoti ar sunaikinti. ^s-fbeb48ed5e11a305d25f3837
 
 
-5. Šio straipsnio 2 ir [[#^s-ae47e1dbde9577660310b9f5|3 dalių]] nuostatos netaikomos krašto apaugos sistemos institucijoms, Lietuvos šaulių sąjungai ir jos padaliniams. ^s-031282e33075d08f98299aa8
+5. Šio straipsnio [[#^s-085d14818a56c5c253c9ed17|2]] ir [[#^s-ae47e1dbde9577660310b9f5|3]] dalių nuostatos netaikomos krašto apaugos sistemos institucijoms, Lietuvos šaulių sąjungai ir jos padaliniams. ^s-031282e33075d08f98299aa8
 
 
 
@@ -2818,13 +2818,13 @@ priedas
 
 
 
-1. 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1214/2011 dėl profesionalaus tarpvalstybinio grynųjų eurų vežimo kelių transportu iš vienos euro zonos valstybės narės į kitą. ^s-eea97c7493b9d40dec155333
+1. 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1214/2011](https://eur-lex.europa.eu/eli/reg/1214/2011/oj) dėl profesionalaus tarpvalstybinio grynųjų eurų vežimo kelių transportu iš vienos euro zonos valstybės narės į kitą. ^s-eea97c7493b9d40dec155333
 
 
 2. 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 258/2012, kuriuo įgyvendinamas Jungtinių Tautų protokolo prieš neteisėtą šaunamųjų ginklų, jų dalių ir komponentų bei šaudmenų gamybą ir prekybą jais, papildančio Jungtinių Tautų Konvenciją prieš tarptautinį organizuotą nusikalstamumą (JT šaunamųjų ginklų protokolas), [[#^s-f5f6ab0900ae9a210044d866|10 straipsnis]] ir nustatoma šaunamųjų ginklų, jų dalių ir komponentų bei šaudmenų eksporto leidimų sistema, importo ir tranzito priemonės. ^s-94036422669a527d771dec65
 
 
-3. 2021 m. kovo 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/555 dėl ginklų įsigijimo ir laikymo kontrolės (kodifikuota redakcija). ^s-8d5bf839dfff5aa82d1b37fa
+3. 2021 m. kovo 24 d. Europos Parlamento ir Tarybos [direktyva (ES) 2021/555](https://eur-lex.europa.eu/eli/dir/2021/555/oj) dėl ginklų įsigijimo ir laikymo kontrolės (kodifikuota redakcija). ^s-8d5bf839dfff5aa82d1b37fa
 
 
 _______________
@@ -2882,9 +2882,9 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1146, 2010-11-18, Žin., 2010, Nr. 142-7261 (2010-12-04)
 [[latest/TAR.84164DB5F665|GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS]]
 Nauja įstatymo redakcija
-Šis įstatymas, išskyrus šio straipsnio 2, 3, 4 ir 5 dalis, įsigalioja 2011 m. kovo 1 d.
-2. Asmenys, kurie iki šio įstatymo įsigaliojimo turėjo šio įstatymo [[#^s-d7adf21086fe58233e5dc6a3|1 straipsnyje]] išdėstyto [[#^s-ebfa71358804d43be2498c05|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 5 straipsnio]] 6, 7 ar 8 punkte nurodytų šaunamųjų ginklų, privalo iki 2014 m. liepos 1 d. Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikti prašymą ir gauti leidimą laikyti ginklus arba leidimą nešiotis ginklus. Šiems asmenims, jeigu jie pateikia įsigijimą patvirtinančius dokumentus, netaikomas šio įstatymo [[#^s-d7adf21086fe58233e5dc6a3|1 straipsnyje]] išdėstyto [[#^s-89e718084d4a896c5132e8df|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 13 straipsnio 4 dalyje]] nustatytas 21 metų amžiaus reikalavimas. Jiems taikomas 18 metų amžiaus reikalavimas. ^s-05e04d8dcd844b5c37988917
-3. Šio straipsnio 2 dalyje nurodyti asmenys iki šio straipsnio 2 dalyje nustatyto termino pabaigos turi teisę laikyti šio įstatymo [[#^s-d7adf21086fe58233e5dc6a3|1 straipsnyje]] išdėstyto [[#^s-ebfa71358804d43be2498c05|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 5 straipsnio]] 6, 7 ar 8 punkte nurodytus šaunamuosius ginklus ar juos nešiotis be leidimo. ^s-7d3316a812549b2f4d37721b
+Šis įstatymas, išskyrus šio straipsnio 2, 3, [[#^s-2d1f543c487eec7f86dcbfc5|4]] ir 5 dalis, įsigalioja 2011 m. kovo 1 d.
+2. Asmenys, kurie iki šio įstatymo įsigaliojimo turėjo šio įstatymo [[#^s-d7adf21086fe58233e5dc6a3|1 straipsnyje]] išdėstyto [[#^s-ebfa71358804d43be2498c05|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 5 straipsnio]] [[latest/TAR.389CB90C666D|6]], [[latest/TAR.389CB90C666D|7]] ar [[latest/TAR.389CB90C666D|8]] punkte nurodytų šaunamųjų ginklų, privalo iki 2014 m. liepos 1 d. Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikti prašymą ir gauti leidimą laikyti ginklus arba leidimą nešiotis ginklus. Šiems asmenims, jeigu jie pateikia įsigijimą patvirtinančius dokumentus, netaikomas šio įstatymo [[#^s-d7adf21086fe58233e5dc6a3|1 straipsnyje]] išdėstyto [[#^s-89e718084d4a896c5132e8df|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 13 straipsnio 4 dalyje]] nustatytas 21 metų amžiaus reikalavimas. Jiems taikomas 18 metų amžiaus reikalavimas. ^s-05e04d8dcd844b5c37988917
+3. Šio straipsnio 2 dalyje nurodyti asmenys iki šio straipsnio 2 dalyje nustatyto termino pabaigos turi teisę laikyti šio įstatymo [[#^s-d7adf21086fe58233e5dc6a3|1 straipsnyje]] išdėstyto [[#^s-ebfa71358804d43be2498c05|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 5 straipsnio]] [[latest/TAR.389CB90C666D|6]], [[latest/TAR.389CB90C666D|7]] ar [[latest/TAR.389CB90C666D|8]] punkte nurodytus šaunamuosius ginklus ar juos nešiotis be leidimo. ^s-7d3316a812549b2f4d37721b
 4. Šio įstatymo [[#^s-d7adf21086fe58233e5dc6a3|1 straipsnyje]] išdėstyto [[#^s-df7f6d281f4a07c241e87501|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 18 straipsnio 2 dalyje]] nustatyti griežtesni negu iki šio įstatymo įsigaliojimo galiojusio [[#^s-df7f6d281f4a07c241e87501|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 18 straipsnio 2 dalyje]] nustatyti apribojimai netaikomi asmenims, kurie 2011 m. vasario 28 d. turėjo leidimą laikyti ginklus ar leidimą nešiotis ginklus, jeigu aplinkybės, dėl kurių gali būti taikomi apribojimai, atsirado iki šio įstatymo įsigaliojimo. ^s-2d1f543c487eec7f86dcbfc5
 Šio įstatymo įgyvendinimas keistas:
 7.1.
@@ -2907,7 +2907,7 @@ Nr. XI-2155, 2012-06-29, Žin., 2012, Nr. 81-4221 (2012-07-12)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-447, 2013-07-02, Žin., 2013, Nr. 78-3928 (2013-07-20)
 [[latest/TAR.0C6E40FE4938|GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 2, 8, 9, 12, 14, 17, 21, 23, 24, 30, 32, 33, 35, 37, 41, 46 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-2d1f543c487eec7f86dcbfc5|šio straipsnio 4 dalį]], įsigalioja 2013 m. rugsėjo 30 d.
+Šis įstatymas, išskyrus šio straipsnio 4 dalį, įsigalioja 2013 m. rugsėjo 30 d.
 Iki šio įstatymo įsigaliojimo išduoti:
 1) leidimai įsigyti ginklus, šaudmenis galioja iki jų galiojimo pabaigos ir suteikia teisę įsigyti juose įrašytus ginklus ir (ar) šaudmenis; ^s-7e9d5b34b3640aedd981f78f
 2) leidimai laikyti ar leidimai nešiotis ginklus galioja iki jų galiojimo pabaigos ir suteikia teisę laikyti, nešiotis ar gabenti juose nurodytus ginklus; ^s-f2f0775b2dcdca443b79d2e3
@@ -2922,7 +2922,7 @@ LIETUVOS RESPUBLIKOS GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO NR. IX-705 [[#^s
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-978, 2014-06-26, paskelbta TAR 2014-07-01, i. k. 2014-09407
-LIETUVOS RESPUBLIKOS GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO NR. IX-705 2, 5, 6, 13, 22, 31, [[#^s-32249e6944ce72b580612111|34 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO NR. IX-705 [[#^s-250a32d4a97f3b728a6cf375|2]], [[#^s-ebfa71358804d43be2498c05|5]], [[#^s-3ecd6622f31eb92ba9375dfa|6]], [[#^s-fba0bdff8f95b1b424465ec7|13]], [[#^s-e4c32332f45e95718fa2aaca|22]], [[#^s-330dc97f9c8e8f9218e0df92|31]], [[#^s-32249e6944ce72b580612111|34]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 
 Pakeitimai:
@@ -2940,7 +2940,7 @@ Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2440, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17530
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 1, 3, 7, 11, 13, 30, 31, 34 ir [[#^s-e853bc428abfc214a3cd3bc2|40 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-d7adf21086fe58233e5dc6a3|1]], [[#^s-e88f9a148cf9cc130e8dce7b|3]], [[#^s-47380bdc7db5fa34b9993fe9|7]], [[#^s-2dd1a25e633778751109305f|11]], [[#^s-fba0bdff8f95b1b424465ec7|13]], [[#^s-5144853bc66ab284e57d40b9|30]], [[#^s-330dc97f9c8e8f9218e0df92|31]], [[#^s-32249e6944ce72b580612111|34]] ir [[#^s-e853bc428abfc214a3cd3bc2|40]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2950,7 +2950,7 @@ Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2528, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20286
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2, 9, 12, 18, 19, 21, 22, 23, 25, 26, 28, 29, 30, 31 ir [[#^s-923282992eb351c6ef87b206|38 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-250a32d4a97f3b728a6cf375|2]], [[#^s-06409515aff440707af70b38|9]], [[#^s-d06acabbdbd5c4dfed5b14fa|12]], [[#^s-d9c7b77365fea00c9bde8ab3|18]], [[#^s-8a43c1621124be2447619175|19]], [[#^s-bc6e89ccd11278b43e9ee3b6|21]], [[#^s-e4c32332f45e95718fa2aaca|22]], [[#^s-10846adde1a216a7f7b6fcf3|23]], [[#^s-4cf32b12ba1088274e3d74c9|25]], [[#^s-987243b44360faf4fb6d39a8|26]], [[#^s-83ffb1f03152a7d7ee8c01aa|28]], [[#^s-0cbcb9edd3b42604a7f285ae|29]], [[#^s-5144853bc66ab284e57d40b9|30]], [[#^s-330dc97f9c8e8f9218e0df92|31]] ir [[#^s-923282992eb351c6ef87b206|38]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2960,12 +2960,12 @@ Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1548, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17456
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 16 ir [[#^s-3f6f1458355151a8aed533e0|37 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-267f7cc4e9a7a011dfc047a7|16]] ir [[#^s-3f6f1458355151a8aed533e0|37]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1914, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00847
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 11, 17, 19, 20, 21, 25, 40 ir [[#^s-ee0c4e9efc8b2ca932b45303|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-2dd1a25e633778751109305f|11]], [[#^s-1ca7c60da62be1a2c91d708b|17]], [[#^s-8a43c1621124be2447619175|19]], [[#^s-d0228669bfae31357aee34f9|20]], [[#^s-bc6e89ccd11278b43e9ee3b6|21]], [[#^s-4cf32b12ba1088274e3d74c9|25]], [[#^s-e853bc428abfc214a3cd3bc2|40]] ir [[#^s-ee0c4e9efc8b2ca932b45303|41]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2975,7 +2975,7 @@ Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 pakei
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2618, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20648
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2, 8, 16, 23, 24, 25, 26, 30, 41, 42, [[#^s-d515f5cb5568ade642f6e9cc|43 straipsnių]] pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-250a32d4a97f3b728a6cf375|2]], [[#^s-4d0da67f4e8cf7b0726a5552|8]], [[#^s-267f7cc4e9a7a011dfc047a7|16]], [[#^s-10846adde1a216a7f7b6fcf3|23]], [[#^s-8e87fa4226844d81908dcd35|24]], [[#^s-4cf32b12ba1088274e3d74c9|25]], [[#^s-987243b44360faf4fb6d39a8|26]], [[#^s-5144853bc66ab284e57d40b9|30]], [[#^s-ee0c4e9efc8b2ca932b45303|41]], [[#^s-01cc5dfda6ce0e3e46032576|42]], [[#^s-d515f5cb5568ade642f6e9cc|43]] straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2990,12 +2990,12 @@ Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s
 13.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT103-N7/2020, 2020-06-05, paskelbta TAR 2020-12-31, i. k. 2020-29221
-Dėl [[#^s-df7f6d281f4a07c241e87501|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 18 straipsnio 2 dalies]] 1–4 punktų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 18 straipsnio 2 dalies 1–4 punktų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/b4f8cb10a71f11eab9d9cd0c85e0b745)
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-283, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09685
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2, 11, 13, 16, 17, 18, 19, 21, 24, 25, 30, 40 ir [[#^s-ee0c4e9efc8b2ca932b45303|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-250a32d4a97f3b728a6cf375|2]], [[#^s-2dd1a25e633778751109305f|11]], [[#^s-fba0bdff8f95b1b424465ec7|13]], [[#^s-267f7cc4e9a7a011dfc047a7|16]], [[#^s-1ca7c60da62be1a2c91d708b|17]], [[#^s-d9c7b77365fea00c9bde8ab3|18]], [[#^s-8a43c1621124be2447619175|19]], [[#^s-bc6e89ccd11278b43e9ee3b6|21]], [[#^s-8e87fa4226844d81908dcd35|24]], [[#^s-4cf32b12ba1088274e3d74c9|25]], [[#^s-5144853bc66ab284e57d40b9|30]], [[#^s-e853bc428abfc214a3cd3bc2|40]] ir [[#^s-ee0c4e9efc8b2ca932b45303|41]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3010,59 +3010,59 @@ Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-973, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06310
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 12, 13 ir [[#^s-1ca7c60da62be1a2c91d708b|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-d06acabbdbd5c4dfed5b14fa|12]], [[#^s-fba0bdff8f95b1b424465ec7|13]] ir [[#^s-1ca7c60da62be1a2c91d708b|17]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1071, 2022-05-10, paskelbta TAR 2022-05-16, i. k. 2022-10290
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 3, 13 ir [[#^s-3f6f1458355151a8aed533e0|37 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-e88f9a148cf9cc130e8dce7b|3]], [[#^s-fba0bdff8f95b1b424465ec7|13]] ir [[#^s-3f6f1458355151a8aed533e0|37]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1740, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00152
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 1, 2, 3, 9, 12, 16, 19, 21, 22, 23, 24, 25, 26, 27, 28, 30, 34, 36, 37, 38, 39, 40, 41, 42, 43, 45-1, [[#^s-bd0c0948f87e2c45e0ac7cf5|46 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-d7adf21086fe58233e5dc6a3|1]], [[#^s-250a32d4a97f3b728a6cf375|2]], [[#^s-e88f9a148cf9cc130e8dce7b|3]], [[#^s-06409515aff440707af70b38|9]], [[#^s-d06acabbdbd5c4dfed5b14fa|12]], [[#^s-267f7cc4e9a7a011dfc047a7|16]], [[#^s-8a43c1621124be2447619175|19]], [[#^s-bc6e89ccd11278b43e9ee3b6|21]], [[#^s-e4c32332f45e95718fa2aaca|22]], [[#^s-10846adde1a216a7f7b6fcf3|23]], [[#^s-8e87fa4226844d81908dcd35|24]], [[#^s-4cf32b12ba1088274e3d74c9|25]], [[#^s-987243b44360faf4fb6d39a8|26]], [[#^s-86348dbb3cf2e940aa8dbffa|27]], [[#^s-83ffb1f03152a7d7ee8c01aa|28]], [[#^s-5144853bc66ab284e57d40b9|30]], [[#^s-32249e6944ce72b580612111|34]], [[#^s-74147c2748e9c675b871521d|36]], [[#^s-3f6f1458355151a8aed533e0|37]], [[#^s-923282992eb351c6ef87b206|38]], [[#^s-50d1151d4b7147e61f632f75|39]], [[#^s-e853bc428abfc214a3cd3bc2|40]], [[#^s-ee0c4e9efc8b2ca932b45303|41]], [[#^s-01cc5dfda6ce0e3e46032576|42]], [[#^s-d515f5cb5568ade642f6e9cc|43]], 45-1, [[#^s-bd0c0948f87e2c45e0ac7cf5|46]] straipsnių ir priedo pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2279, 2023-11-21, paskelbta TAR 2023-11-27, i. k. 2023-22832
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 13, 17 ir [[#^s-5144853bc66ab284e57d40b9|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-fba0bdff8f95b1b424465ec7|13]], [[#^s-1ca7c60da62be1a2c91d708b|17]] ir [[#^s-5144853bc66ab284e57d40b9|30]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT30-N3/2023, 2023-03-15, paskelbta TAR 2023-12-31, i. k. 2023-26122
-Dėl [[#^s-dc1f5cb54f61096fbcbb004e|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 18 straipsnio 2 dalies 1 punkto]] atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 18 straipsnio 2 dalies 1 punkto atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/37b439e0c33311ed97b2975f7dad7488)
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2535, 2024-04-11, paskelbta TAR 2024-04-19, i. k. 2024-07268
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2, 13, 19, 28 ir [[#^s-0cbcb9edd3b42604a7f285ae|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-250a32d4a97f3b728a6cf375|2]], [[#^s-fba0bdff8f95b1b424465ec7|13]], [[#^s-8a43c1621124be2447619175|19]], [[#^s-83ffb1f03152a7d7ee8c01aa|28]] ir [[#^s-0cbcb9edd3b42604a7f285ae|29]] straipsnių pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2569, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07722
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 18, 23, 37, 40 ir [[#^s-01cc5dfda6ce0e3e46032576|42 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-d9c7b77365fea00c9bde8ab3|18]], [[#^s-10846adde1a216a7f7b6fcf3|23]], [[#^s-3f6f1458355151a8aed533e0|37]], [[#^s-e853bc428abfc214a3cd3bc2|40]] ir [[#^s-01cc5dfda6ce0e3e46032576|42]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2649, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09687
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 21, 24, 25, 39 ir [[#^s-d515f5cb5568ade642f6e9cc|43 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-bc6e89ccd11278b43e9ee3b6|21]], [[#^s-8e87fa4226844d81908dcd35|24]], [[#^s-4cf32b12ba1088274e3d74c9|25]], [[#^s-50d1151d4b7147e61f632f75|39]] ir [[#^s-d515f5cb5568ade642f6e9cc|43]] straipsnių pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-57, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23066
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 2, 12 ir [[#^s-4cf32b12ba1088274e3d74c9|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-250a32d4a97f3b728a6cf375|2]], [[#^s-d06acabbdbd5c4dfed5b14fa|12]] ir [[#^s-4cf32b12ba1088274e3d74c9|25]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2862, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12646
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 13, 16 ir [[#^s-e853bc428abfc214a3cd3bc2|40 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-fba0bdff8f95b1b424465ec7|13]], [[#^s-267f7cc4e9a7a011dfc047a7|16]] ir [[#^s-e853bc428abfc214a3cd3bc2|40]] straipsnių pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-184, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08679
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 3, 7, 13, 23, 24, 37, 41 ir [[#^s-01cc5dfda6ce0e3e46032576|42 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-e88f9a148cf9cc130e8dce7b|3]], [[#^s-47380bdc7db5fa34b9993fe9|7]], [[#^s-fba0bdff8f95b1b424465ec7|13]], [[#^s-10846adde1a216a7f7b6fcf3|23]], [[#^s-8e87fa4226844d81908dcd35|24]], [[#^s-3f6f1458355151a8aed533e0|37]], [[#^s-ee0c4e9efc8b2ca932b45303|41]] ir [[#^s-01cc5dfda6ce0e3e46032576|42]] straipsnių pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-483, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17642
-Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 1, 2, 7, 19, 20, 21, 22, 23, 25 ir [[#^s-987243b44360faf4fb6d39a8|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo Nr. IX-705 [[#^s-d7adf21086fe58233e5dc6a3|1]], [[#^s-250a32d4a97f3b728a6cf375|2]], [[#^s-47380bdc7db5fa34b9993fe9|7]], [[#^s-8a43c1621124be2447619175|19]], [[#^s-d0228669bfae31357aee34f9|20]], [[#^s-bc6e89ccd11278b43e9ee3b6|21]], [[#^s-e4c32332f45e95718fa2aaca|22]], [[#^s-10846adde1a216a7f7b6fcf3|23]], [[#^s-4cf32b12ba1088274e3d74c9|25]] ir [[#^s-987243b44360faf4fb6d39a8|26]] straipsnių pakeitimo įstatymas

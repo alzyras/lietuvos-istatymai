@@ -155,7 +155,7 @@ Pakeisti 34 straipsnio 7 dalį ir ją išdėstyti taip:
 46 straipsnio 2 dalyje po žodžio „paskelbti“ įrašyti žodžius „(kvietimą paskelbus spaudoje arba jį išsiuntus tiekėjams (rangovams)“ ir šią dalį išdėstyti taip:
 
 
-„2. Iki šio įstatymo įsigaliojimo paskelbti (kvietimą paskelbus spaudoje arba jį išsiuntus tiekėjams (rangovams) pirkimai vykdomi ir iki šio įstatymo III skyriaus įsigaliojimo gauti skundai nagrinėjami pagal 1996 m. rugpjūčio 13 d. priimto Lietuvos Respublikos viešojo pirkimo [[latest/TAR.C54AFFAA7622|įstatymo Nr.I-1491]] nuostatas (Žin., 1996, Nr.84-2000; 1997, Nr.117-3000).“
+„2. Iki šio įstatymo įsigaliojimo paskelbti (kvietimą paskelbus spaudoje arba jį išsiuntus tiekėjams (rangovams) pirkimai vykdomi ir iki šio įstatymo III skyriaus įsigaliojimo gauti skundai nagrinėjami pagal 1996 m. rugpjūčio 13 d. priimto Lietuvos Respublikos viešojo pirkimo įstatymo Nr.I-1491 nuostatas (Žin., 1996, Nr.84-2000; 1997, Nr.117-3000).“
 
 
 

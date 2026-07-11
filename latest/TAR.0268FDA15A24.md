@@ -47,7 +47,7 @@ Vilnius
 
 
 „2. Pakeisti 23 straipsnio 3 dalį ir ją išdėstyti taip:
-„3. Visus skelbimus, skirtus skelbti [[#^s-02f92a2f8195833ca535711b|šio straipsnio 1 dalyje]] nurodytame leidinyje ir Centrinėje viešųjų pirkimų informacinėje sistemoje, perkančioji organizacija pateikia Viešųjų pirkimų tarnybai. Viešųjų pirkimų tarnyba šio įstatymo reikalavimus atitinkančius skelbimus privalo per 3 darbo dienas išsiųsti Europos Sąjungos oficialiųjų leidinių biurui paskelbti [[#^s-02f92a2f8195833ca535711b|šio straipsnio 1 dalyje]] nurodytame leidinyje ir Centrinėje viešųjų pirkimų informacinėje sistemoje. Skelbimo išsiuntimo iš Viešųjų pirkimų tarnybos diena yra pirkimo išankstinio paskelbimo ar pirkimo paskelbimo data.“
+„3. Visus skelbimus, skirtus skelbti šio straipsnio 1 dalyje nurodytame leidinyje ir Centrinėje viešųjų pirkimų informacinėje sistemoje, perkančioji organizacija pateikia Viešųjų pirkimų tarnybai. Viešųjų pirkimų tarnyba šio įstatymo reikalavimus atitinkančius skelbimus privalo per 3 darbo dienas išsiųsti Europos Sąjungos oficialiųjų leidinių biurui paskelbti šio straipsnio 1 dalyje nurodytame leidinyje ir Centrinėje viešųjų pirkimų informacinėje sistemoje. Skelbimo išsiuntimo iš Viešųjų pirkimų tarnybos diena yra pirkimo išankstinio paskelbimo ar pirkimo paskelbimo data.“
 
 
 2. Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip: ^s-df1416897d93c6431e4a29df

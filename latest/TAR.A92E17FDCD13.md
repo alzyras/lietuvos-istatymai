@@ -381,7 +381,7 @@ Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
 
 
 
-5. Medžiojamųjų gyvūnų gausa šio straipsnio 2 ir [[#^s-1e352037d28cd42b43205235|4 dalyse]] nurodytose teritorijose reguliuojama Aplinkos ministerijos nustatyta tvarka. Jeigu iškyla medžiojamųjų gyvūnų platinamų užkrečiamųjų ligų pavojus ir privalomi nurodymai dėl šių gyvūnų gausos reguliavimo yra vykdytini žemės sklype, kuriame jo savininkas uždraudė medžioti, šių nurodymų įgyvendinimą organizuoja žemės sklypo savininkas. ^s-6dc695ff1892daa632fdde6f
+5. Medžiojamųjų gyvūnų gausa šio straipsnio [[#^s-fd9e675879d3286e451264cd|2]] ir [[#^s-1e352037d28cd42b43205235|4]] dalyse nurodytose teritorijose reguliuojama Aplinkos ministerijos nustatyta tvarka. Jeigu iškyla medžiojamųjų gyvūnų platinamų užkrečiamųjų ligų pavojus ir privalomi nurodymai dėl šių gyvūnų gausos reguliavimo yra vykdytini žemės sklype, kuriame jo savininkas uždraudė medžioti, šių nurodymų įgyvendinimą organizuoja žemės sklypo savininkas. ^s-6dc695ff1892daa632fdde6f
 
 
 Straipsnio pakeitimai:
@@ -477,14 +477,14 @@ Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
 
 9. Komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti ne vėliau kaip per 2 mėnesius nuo pasiūlymo sudaryti medžioklės plotų vienetą ar pakeisti jo ribas gavimo parengia preliminarų medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projektą, šio projekto dokumentus iškabina viešai prieinamose savivaldybės administracijos patalpose ir apie šio projekto parengimą paskelbia šalies ir vietinėje spaudoje. Suinteresuoti asmenys pastabas dėl parengto preliminaraus medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto pateikia komisijai medžioklės plotų vienetams sudaryti bei jų riboms pakeisti ne vėliau kaip per 3 mėnesius nuo paskelbimo apie šį projektą šalies ir vietinėje spaudoje dienos. Visiems privačios žemės sklypų, kurie patenka į sudaromą medžioklės plotų vienetą, bet nepatenka į šio Įstatymo [[#^s-fd9e675879d3286e451264cd|7 straipsnio 2 dalyje]] nurodytas teritorijas, savininkams komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti registruotais laiškais išsiunčia informacinius pranešimus apie parengtą preliminarų medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projektą. Informaciniame pranešime privačios žemės sklypo savininkui taip pat nurodomos šio Įstatymo [[#^s-48835fe7d845bf037ff403f2|13 straipsnio 2 dalyje]] nustatytos jo, kaip žemės sklypo savininko, teisės uždrausti medžioti jam priklausančiame žemės sklype, panaikinti ankstesnį draudimą medžioti arba nustatyti papildomas medžiojimo jam priklausančiame žemės sklype sąlygas, kuriomis jis gali pasinaudoti medžioklės plotų vieneto sudarymo ar jo ribų pakeitimo projekto rengimo metu arba bet kuriuo metu vėliau, ir pasekmės, kurios pagal šį Įstatymą atsirastų nepasinaudojus šiomis žemės sklypo savininko teisėmis ir jomis pasinaudojus. Žemės sklypo savininkui siunčiamo informacinio pranešimo ir žemės sklypo savininko rašytinio sprendimo pasinaudoti šio Įstatymo [[#^s-48835fe7d845bf037ff403f2|13 straipsnio 2 dalyje]] nustatytomis teisėmis pavyzdinės formos nustatomos Komisijos medžioklės plotų vienetams sudaryti bei jų riboms pakeisti nuostatuose. Jeigu žemės sklypo savininko rašytinio sprendimo pasinaudoti šio Įstatymo [[#^s-48835fe7d845bf037ff403f2|13 straipsnio 2 dalyje]] numatytomis teisėmis komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti negauna, laikoma, kad žemės sklypo savininkas neprieštarauja, kad jam priklausančiame žemės sklype bus laikinai medžiojama, ir nepageidauja nustatyti papildomas medžiojimo sąlygas. Žemės sklypo, kuriame jo savininkas uždraudė medžioti, plotas įskaitomas į medžioklės plotų, patenkančių į medžioklės plotų vienetą, bendrą plotą. Žemės sklypo savininko nustatytas draudimas medžioti jam priklausančiame žemės sklype neturi įtakos medžioklės plotų vieneto vientisumui. ^s-cc8818876a49d416af18994b
 Straipsnio dalies pakeitimai:
-2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. [1051000NUTARG053456](https://e-tar.lt/portal/lt/legalAct/TAR.C75A20543131)
 Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. [[latest/TAR.9EE1390AD99F|1131010ISTA0XII-372]]
 
 
 
 10. Pasibaigus [[#^s-cc8818876a49d416af18994b|šio straipsnio 9 dalyje]] nustatytam 3 mėnesių terminui, komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti ne vėliau kaip per 1 mėnesį išnagrinėja gautus suinteresuotų asmenų pasiūlymus, prireikus medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projektą pakeičia ar patikslina ir pateikia jį tvirtinti atitinkamos savivaldybės administracijos direktoriui. Sprendimą dėl medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto patvirtinimo savivaldybės administracijos direktorius priima ne vėliau kaip per 1 mėnesį nuo projekto gavimo. Neatsiejamos tvirtinamo medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto dalys yra medžioklės plotų vieneto planas su pažymėtomis teritorijomis, kuriose medžioti draudžiama pagal šio Įstatymo [[#^s-fd9e675879d3286e451264cd|7 straipsnio 2 dalies]] nuostatas, ir priedas, kuriame nustatyti medžioklės plotų dydis ir pasiskirstymas pagal tinkamumą medžiojamiesiems gyvūnams gyventi ir veistis. ^s-c8fc1ee8cc71ba6daacfc2e9
 Straipsnio dalies pakeitimai:
-2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. [1051000NUTARG053456](https://e-tar.lt/portal/lt/legalAct/TAR.C75A20543131)
 Nr. XI-824, 2010-05-18, Žin., 2010, Nr. 63-3101 (2010-05-31), i. k. [[latest/TAR.8A5D98700730|1101010ISTA00XI-824]]
 Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. [[latest/TAR.9EE1390AD99F|1131010ISTA0XII-372]]
 
@@ -519,7 +519,7 @@ Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
 3) patikslinti už medžiojamųjų gyvūnų išteklių naudojimą mokėtini mokesčiai, atsižvelgiant į medžioklės plotų bioekologinių savybių pasikeitimą. ^s-7320a0c96cedd3c033c658c8
 
 
-2. Šio Įstatymo [[#^s-3073103271abcad55548860e|13 straipsnio 3 dalyje]] numatytu atveju sudarytam naujam medžioklės plotų vienetui medžioklėtvarkos projektas turi būti parengtas per vienus metus nuo šio Įstatymo [[#^s-ca3b459b81a52e69d4c007ba|8 straipsnio]] 9 ir 10 dalyse nustatyta tvarka parengto ir atitinkamos savivaldybės administracijos direktoriaus priimto sprendimo sudaryti naują medžioklės plotų vienetą priėmimo. Parengus medžioklėtvarkos projektą, tikslinamos medžiojamųjų gyvūnų išteklių naudojimo sąlygos, nurodytos pagal šio Įstatymo [[#^s-c1684945916ade1a0ff2da6b|10 straipsnyje]] nustatytą tvarką išduotame leidime naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete. ^s-90676cc0c3c07ef7006d3188
+2. Šio Įstatymo [[#^s-3073103271abcad55548860e|13 straipsnio 3 dalyje]] numatytu atveju sudarytam naujam medžioklės plotų vienetui medžioklėtvarkos projektas turi būti parengtas per vienus metus nuo šio Įstatymo [[#^s-ca3b459b81a52e69d4c007ba|8 straipsnio]] [[#^s-cc8818876a49d416af18994b|9]] ir [[#^s-c8fc1ee8cc71ba6daacfc2e9|10]] dalyse nustatyta tvarka parengto ir atitinkamos savivaldybės administracijos direktoriaus priimto sprendimo sudaryti naują medžioklės plotų vienetą priėmimo. Parengus medžioklėtvarkos projektą, tikslinamos medžiojamųjų gyvūnų išteklių naudojimo sąlygos, nurodytos pagal šio Įstatymo [[#^s-c1684945916ade1a0ff2da6b|10 straipsnyje]] nustatytą tvarką išduotame leidime naudoti medžiojamųjų gyvūnų išteklius medžioklės plotų vienete. ^s-90676cc0c3c07ef7006d3188
 
 
 Straipsnio pakeitimai:
@@ -776,7 +776,7 @@ Nr. XII-2640, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24674
 
 
 4) padarė administracinį nusižengimą, susijusį su medžioklę ar žvejybą reglamentuojančių teisės aktų reikalavimų nesilaikymu, neteisėtu ginklo panaudojimu, jeigu nuo administracinės nuobaudos ar (ir) administracinio poveikio priemonės įvykdymo pabaigos praėjo mažiau kaip 1 metai; ^s-6388a8ca4a3ce5a6b1f53762
-TAR pastaba. [[#^s-6388a8ca4a3ce5a6b1f53762|14 straipsnio 2 dalies 4 punkto]] nuostatos taikomos ir tais atvejais, kai padaryti administraciniai teisės pažeidimai, numatyti Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449.
+TAR pastaba. 14 straipsnio 2 dalies 4 punkto nuostatos taikomos ir tais atvejais, kai padaryti administraciniai teisės pažeidimai, numatyti [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), patvirtintame 1984 m. [įstatymu Nr. X-4449](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492).
 Straipsnio punkto pakeitimai:
 Nr. XII-2640, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24674
 
@@ -844,7 +844,7 @@ Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. [[latest/T
 
 
 
-7. Asmenys, turintys užsienio šalyse išduotus analogiškus medžiotojo bilietui dokumentus, turi šio straipsnio 5 ir [[#^s-ece20d6e90ea34a3eb9683e8|6 dalyse]] numatytas teises ir pareigas. ^s-c7369022924f5c47fc478bbd
+7. Asmenys, turintys užsienio šalyse išduotus analogiškus medžiotojo bilietui dokumentus, turi šio straipsnio [[#^s-d28cd5e08e37c06c80303ce0|5]] ir [[#^s-ece20d6e90ea34a3eb9683e8|6]] dalyse numatytas teises ir pareigas. ^s-c7369022924f5c47fc478bbd
 Straipsnio dalies pakeitimai:
 Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
 
@@ -1030,7 +1030,7 @@ Fiziniai ir juridiniai asmenys, pažeidę šio Įstatymo reikalavimus, atsako ci
 ### 18 straipsnis. Medžiojamųjų gyvūnų padarytos žalos atlyginimas ^s-34c97dc51044b6e5dab6e881
 
 
-1. Laisvėje gyvenančių medžiojamųjų gyvūnų padarytą žalą žemės, miško ir vandens telkinių sklypų savininkams, valdytojams ir naudotojams šio straipsnio 3 ir [[#^s-01390c13a4865f3db15c6b76|4 dalyse]] nurodytais atvejais atlygina medžioklės plotų naudotojai arba valstybės vardu [[#^s-01390c13a4865f3db15c6b76|šio straipsnio 4 dalyje]] nurodytos institucijos, jeigu neįrodoma, kad žala atsirado dėl nenugalimos jėgos, nukentėjusio asmens tyčios ir kitų Civilinio kodekso 6.253 straipsnyje nurodytų veiksmų. ^s-969606ca9b9b444ae08c1006
+1. Laisvėje gyvenančių medžiojamųjų gyvūnų padarytą žalą žemės, miško ir vandens telkinių sklypų savininkams, valdytojams ir naudotojams šio straipsnio [[#^s-b2865dbd457c98d3653a605e|3]] ir [[#^s-01390c13a4865f3db15c6b76|4]] dalyse nurodytais atvejais atlygina medžioklės plotų naudotojai arba valstybės vardu [[#^s-01390c13a4865f3db15c6b76|šio straipsnio 4 dalyje]] nurodytos institucijos, jeigu neįrodoma, kad žala atsirado dėl nenugalimos jėgos, nukentėjusio asmens tyčios ir kitų Civilinio kodekso 6.253 straipsnyje nurodytų veiksmų. ^s-969606ca9b9b444ae08c1006
 
 
 2. Laisvėje gyvenančių medžiojamųjų gyvūnų padarytą žalą pagal Aplinkos ir Žemės ūkio ministerijų patvirtintą Medžiojamųjų gyvūnų padarytos žalos žemės ūkio pasėliams, ūkiniams gyvūnams ir miškui apskaičiavimo metodiką apskaičiuoja atitinkamos savivaldybės administracijos direktoriaus sudaryta nuostolių skaičiavimo komisija. ^s-40d62550c65af24941a23145
@@ -1105,7 +1105,7 @@ BAIGIAMOSIOS NUOSTATOS
 2. Šio Įstatymo [[#^s-ac73f28230c0a439df7ae717|6 straipsnis]] įsigalioja priėmus [[latest/TAR.793560F67ADF|Mokesčių už valstybinius gamtos išteklius įstatymo]] pakeitimo įstatymą. ^s-be66bd153ea4739eaba6dd73
 
 
-3. Šio Įstatymo [[#^s-ca3b459b81a52e69d4c007ba|8 straipsnio]] 1, 2 ir 6 dalys bei [[#^s-f8c64424125da0148184b68f|11 straipsnio 1 dalies 3 punktas]] įsigalioja nuo 2003 m. balandžio 1 d. ^s-95391944e8cc3e76d5208f5a
+3. Šio Įstatymo [[#^s-ca3b459b81a52e69d4c007ba|8 straipsnio]] [[#^s-b73378e770ef3ab057cb9836|1]], [[#^s-b1b97d0595b034b880be5dc0|2]] ir [[#^s-57e233c5c3181e42bd79d3ae|6]] dalys bei [[#^s-f8c64424125da0148184b68f|11 straipsnio 1 dalies 3 punktas]] įsigalioja nuo 2003 m. balandžio 1 d. ^s-95391944e8cc3e76d5208f5a
 
 
 4. Šio Įstatymo [[#^s-1bd6c8f292b4a9f23cbd00c0|15 straipsnio 3 dalis]] ir [[#^s-b0aaa97ea78c9a3c047a8f97|14 straipsnio 8 dalis]] įsigalioja nuo 2004 m. balandžio 1 d. ^s-29b38d9908e19e68d3f672f1
@@ -1140,7 +1140,7 @@ Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. [[latest/T
 
 
 Straipsnio dalies pakeitimai:
-2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. [1051000NUTARG053456](https://e-tar.lt/portal/lt/legalAct/TAR.C75A20543131)
 
 
 
@@ -1153,17 +1153,17 @@ Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. [[latest/T
 5. Medžioklės plotų, naudotų iki šio Įstatymo įsigaliojimo pagal [[#^s-a7f66a282c88189e29c65dd6|šio straipsnio 3 dalyje]] nurodytus dokumentus ir atitinkančių šio Įstatymo [[#^s-b73378e770ef3ab057cb9836|8 straipsnio 1 dalyje]] keliamus reikalavimus, ribos yra nekeistinos, išskyrus atvejus, kai besiribojančių medžioklės plotų vienetų naudotojai rašytiniu medžioklės plotų ribų suderinimo protokolu prašo nustatyti kitokias ribas, siekdami šio Įstatymo [[#^s-b73378e770ef3ab057cb9836|8 straipsnio 1 dalyje]] nustatytų tikslų. ^s-b1bcd1cf1f3926a2b2c662ae
 
 
-6. Mažesnių kaip 1 000 ha medžioklės plotų naudotojai su gretimų medžioklės plotų naudotojais gali susitarti dėl medžioklės plotų padidinimo iki 1 000 ha arba šių plotų sujungimo, tai įformindami [[#^s-f838a2684d98dbec7cd918a8|šio straipsnio 3 dalies 3 punkte]] nurodytu dokumentu ir šio Įstatymo [[#^s-9a3a3132524cf3847fe03547|8 straipsnio 3 dalyje]] numatytai komisijai medžioklės plotų vienetams sudaryti bei jų riboms pakeisti pateikdami bendrą prašymą dėl medžioklės plotų pripažinimo medžioklės plotų vienetu. Jeigu iki 2003 m. balandžio 1 d. nesusitarta dėl medžioklės plotų vieneto padidinimo iki nurodyto dydžio, sprendimą dėl medžioklės plotų vienetų ribų nustatymo, atsižvelgdama į šio Įstatymo [[#^s-b73378e770ef3ab057cb9836|8 straipsnio 1 dalyje]] nustatytus tikslus, priima komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti. Jeigu po šio sprendimo priėmimo mažesnių kaip 1 000 ha medžioklės plotų naudotojai netenka galimybės toliau naudoti medžioklės plotus, jų patirti nuostoliai atlyginami išmokant vienkartinę kompensaciją, lygią pajamoms, kurios per 5 metus galėjo būti gautos iš medžiojamųjų gyvūnų išteklių naudojimo. Teisę į šių nuostolių atlyginimą turi ir žemės sklypų savininkai, netekę galimybės toliau nuomoti medžioklei žemės plotus pagal medžioklės plotų nuomos sutartis, sudarytas iki Lietuvos Respublikos Vyriausybės 2002 m. liepos 15 d. nutarimo Nr. 1132 „Dėl Lietuvos Respublikos Vyriausybės 2000 m. balandžio 14 d. nutarimo Nr. 425 „Dėl Medžioklės Lietuvos Respublikoje nuostatų patvirtinimo“ pakeitimo“ įsigaliojimo (2002 m. liepos 20 d.). Žemės sklypų savininkams, nuomojusiems medžioklės plotus pagal medžioklės plotų nuomos sutartis, išmokama vienkartinė kompensacija, lygi nuompinigiams, kurie galėjo būti gauti nuomojant žemės sklypo savininkui priklausančius medžioklės plotus per medžioklės plotų nuomos sutartyje numatytą terminą, bet ne ilgiau kaip per 5 metus, taikant tuo metu galiojusius valstybei priklausančių medžioklės plotų nuomos tarifus pagal medžioklės plotų kategorijas. Medžioklės plotų naudotojams ir privačios žemės sklypų savininkams mokamų kompensacijų apskaičiavimo ir mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. ^s-c1be3cff9869b2387a84bc60
+6. Mažesnių kaip 1 000 ha medžioklės plotų naudotojai su gretimų medžioklės plotų naudotojais gali susitarti dėl medžioklės plotų padidinimo iki 1 000 ha arba šių plotų sujungimo, tai įformindami [[#^s-f838a2684d98dbec7cd918a8|šio straipsnio 3 dalies 3 punkte]] nurodytu dokumentu ir šio Įstatymo [[#^s-9a3a3132524cf3847fe03547|8 straipsnio 3 dalyje]] numatytai komisijai medžioklės plotų vienetams sudaryti bei jų riboms pakeisti pateikdami bendrą prašymą dėl medžioklės plotų pripažinimo medžioklės plotų vienetu. Jeigu iki 2003 m. balandžio 1 d. nesusitarta dėl medžioklės plotų vieneto padidinimo iki nurodyto dydžio, sprendimą dėl medžioklės plotų vienetų ribų nustatymo, atsižvelgdama į šio Įstatymo [[#^s-b73378e770ef3ab057cb9836|8 straipsnio 1 dalyje]] nustatytus tikslus, priima komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti. Jeigu po šio sprendimo priėmimo mažesnių kaip 1 000 ha medžioklės plotų naudotojai netenka galimybės toliau naudoti medžioklės plotus, jų patirti nuostoliai atlyginami išmokant vienkartinę kompensaciją, lygią pajamoms, kurios per 5 metus galėjo būti gautos iš medžiojamųjų gyvūnų išteklių naudojimo. Teisę į šių nuostolių atlyginimą turi ir žemės sklypų savininkai, netekę galimybės toliau nuomoti medžioklei žemės plotus pagal medžioklės plotų nuomos sutartis, sudarytas iki Lietuvos Respublikos Vyriausybės [2002 m. liepos 15 d. nutarimo Nr. 1132](https://e-tar.lt/portal/lt/legalAct/TAR.2CBCF16241B2) „Dėl Lietuvos Respublikos Vyriausybės [2000 m. balandžio 14 d. nutarimo Nr. 425](https://e-tar.lt/portal/lt/legalAct/TAR.129DCFCEF677) „Dėl Medžioklės Lietuvos Respublikoje nuostatų patvirtinimo“ pakeitimo“ įsigaliojimo (2002 m. liepos 20 d.). Žemės sklypų savininkams, nuomojusiems medžioklės plotus pagal medžioklės plotų nuomos sutartis, išmokama vienkartinė kompensacija, lygi nuompinigiams, kurie galėjo būti gauti nuomojant žemės sklypo savininkui priklausančius medžioklės plotus per medžioklės plotų nuomos sutartyje numatytą terminą, bet ne ilgiau kaip per 5 metus, taikant tuo metu galiojusius valstybei priklausančių medžioklės plotų nuomos tarifus pagal medžioklės plotų kategorijas. Medžioklės plotų naudotojams ir privačios žemės sklypų savininkams mokamų kompensacijų apskaičiavimo ir mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. ^s-c1be3cff9869b2387a84bc60
 Straipsnio dalies pakeitimai:
-2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. [1051000NUTARG053456](https://e-tar.lt/portal/lt/legalAct/TAR.C75A20543131)
 Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. [[latest/TAR.9EE1390AD99F|1131010ISTA0XII-372]]
 
 
 
-7. Iki tol, kol medžioklės plotai bus pripažinti medžioklės plotų vienetais pagal jų naudojimo tęstinumą, privaloma laikytis šio Įstatymo [[#^s-ca3b459b81a52e69d4c007ba|8 straipsnio]] 9, 10 ir 11 dalyse nustatytų sąlygų. ^s-0d4ed8265554190c29ca816c
-TAR pastaba. Pripažinti, kad [[#^s-0d4ed8265554190c29ca816c|Lietuvos Respublikos medžioklės įstatymo 22 straipsnio 7 dalis]] ta apimtimi, kuria įtvirtinta, kad iki tol, kol medžioklės plotai bus pripažinti medžioklės plotų vienetais pagal jų naudojimo tęstinumą, privaloma laikytis: 1) [[#^s-cc8818876a49d416af18994b|Medžioklės įstatymo 8 straipsnio 9 dalies]] ta apimtimi, kuria nustatyta, jog privačios žemės sklypo savininkas apie tai, kad jam nuosavybės teise priklausantį žemės sklypą ketinama naudoti medžiojimui, informuojamas ne tiesiogiai, o tik atitinkamos savivaldybės komisijai apie parengtą preliminarų medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projektą paskelbus šalies bei vietinėje spaudoje; 2) [[#^s-cc8818876a49d416af18994b|Medžioklės įstatymo 8 straipsnio 9 dalies]] ta apimtimi, kuria nustatytas 1 mėnesio terminas, per kurį šio įstatymo [[#^s-48835fe7d845bf037ff403f2|13 straipsnio 2 dalyje]] nurodyti asmenys atitinkamos savivaldybės komisijai raštu gali pateikti reikalavimus dėl medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto; 3) [[#^s-cc8818876a49d416af18994b|Medžioklės įstatymo 8 straipsnio 9 dalies]] nuostatos „Pasikeitus žemės sklypo savininkui, toks pareiškimas gali būti pateikiamas per seniūniją, kurioje yra šis žemės sklypas, per 1 mėnesį po nuosavybės teisės įregistravimo Nekilnojamojo turto registre“; 4) [[#^s-c8fc1ee8cc71ba6daacfc2e9|Medžioklės įstatymo 8 straipsnio 10 dalies]] ta apimtimi, kuria nustatyta, kad komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti gali ir neatsižvelgti į privačios žemės, miško, vandens telkinio savininko valią, kad jam nuosavybės teise priklausančiame žemės sklype, miške, vandens telkinyje nebūtų medžiojama, prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-edd4bfc19d3a0f7060627223|23 straipsnio]] 1 ir [[#^s-1a65ce0cfa4dfcf1a7b59eb3|2 dalims]].
+7. Iki tol, kol medžioklės plotai bus pripažinti medžioklės plotų vienetais pagal jų naudojimo tęstinumą, privaloma laikytis šio Įstatymo [[#^s-ca3b459b81a52e69d4c007ba|8 straipsnio]] [[#^s-cc8818876a49d416af18994b|9]], [[#^s-c8fc1ee8cc71ba6daacfc2e9|10]] ir [[#^s-bf1085378040bcc08843dc3b|11]] dalyse nustatytų sąlygų. ^s-0d4ed8265554190c29ca816c
+TAR pastaba. Pripažinti, kad [[#^s-0d4ed8265554190c29ca816c|Lietuvos Respublikos medžioklės įstatymo 22 straipsnio 7 dalis]] ta apimtimi, kuria įtvirtinta, kad iki tol, kol medžioklės plotai bus pripažinti medžioklės plotų vienetais pagal jų naudojimo tęstinumą, privaloma laikytis: 1) [[#^s-cc8818876a49d416af18994b|Medžioklės įstatymo 8 straipsnio 9 dalies]] ta apimtimi, kuria nustatyta, jog privačios žemės sklypo savininkas apie tai, kad jam nuosavybės teise priklausantį žemės sklypą ketinama naudoti medžiojimui, informuojamas ne tiesiogiai, o tik atitinkamos savivaldybės komisijai apie parengtą preliminarų medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projektą paskelbus šalies bei vietinėje spaudoje; 2) [[#^s-cc8818876a49d416af18994b|Medžioklės įstatymo 8 straipsnio 9 dalies]] ta apimtimi, kuria nustatytas 1 mėnesio terminas, per kurį šio įstatymo [[#^s-48835fe7d845bf037ff403f2|13 straipsnio 2 dalyje]] nurodyti asmenys atitinkamos savivaldybės komisijai raštu gali pateikti reikalavimus dėl medžioklės plotų vieneto sudarymo arba jo ribų pakeitimo projekto; 3) [[#^s-cc8818876a49d416af18994b|Medžioklės įstatymo 8 straipsnio 9 dalies]] nuostatos „Pasikeitus žemės sklypo savininkui, toks pareiškimas gali būti pateikiamas per seniūniją, kurioje yra šis žemės sklypas, per 1 mėnesį po nuosavybės teisės įregistravimo Nekilnojamojo turto registre“; 4) [[#^s-c8fc1ee8cc71ba6daacfc2e9|Medžioklės įstatymo 8 straipsnio 10 dalies]] ta apimtimi, kuria nustatyta, kad komisija medžioklės plotų vienetams sudaryti bei jų riboms pakeisti gali ir neatsižvelgti į privačios žemės, miško, vandens telkinio savininko valią, kad jam nuosavybės teise priklausančiame žemės sklype, miške, vandens telkinyje nebūtų medžiojama, prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-edd4bfc19d3a0f7060627223|23 straipsnio]] [[#^s-5613d8e722cbb8be2737d6c5|1]] ir [[#^s-9d51cd7b8d67d8fbeb4f516c|2]] dalims.
 Straipsnio dalies pakeitimai:
-2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. [1051000NUTARG053456](https://e-tar.lt/portal/lt/legalAct/TAR.C75A20543131)
 
 
 
@@ -1201,7 +1201,7 @@ priedas
 1. 1992 m. gegužės 21 d. Tarybos direktyva 92/43/EEB dėl natūralių buveinių ir laukinės faunos bei floros apsaugos su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos direktyva 2013/17/ES. ^s-5613d8e722cbb8be2737d6c5
 
 
-2. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos direktyva 2009/147/EB dėl laukinių paukščių apsaugos (kodifikuota redakcija) su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1010. ^s-9d51cd7b8d67d8fbeb4f516c
+2. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos direktyva 2009/147/EB dėl laukinių paukščių apsaugos (kodifikuota redakcija) su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/1010](https://eur-lex.europa.eu/eli/reg/2019/1010/oj). ^s-9d51cd7b8d67d8fbeb4f516c
 
 
 ____________________
@@ -1221,8 +1221,8 @@ Nr. IX-1612, 2003-06-10, Žin., 2003, Nr. 61-2765 (2003-06-27), i. k. [[latest/T
 
 2.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. 1051000NUTARG053456
-Dėl [[#^s-fd9e675879d3286e451264cd|Lietuvos Respublikos medžioklės įstatymo 7 straipsnio 2 dalies]], [[#^s-ca3b459b81a52e69d4c007ba|8 straipsnio]] 1, 9, 10 dalių, [[#^s-48835fe7d845bf037ff403f2|13 straipsnio 2 dalies]], [[#^s-4976aab1fe10d5a98f6285ec|18 straipsnio 7 dalies]] ir [[#^s-7684d7172223aefcd39d1f05|22 straipsnio]] 3, 6, 7 dalių atitikties Lietuvos Respublikos Konstitucijai
+2005-05-13, Žin., 2005, Nr. 63-2235 (2005-05-19), i. k. [1051000NUTARG053456](https://e-tar.lt/portal/lt/legalAct/TAR.C75A20543131)
+[Dėl Lietuvos Respublikos medžioklės įstatymo 7 straipsnio 2 dalies, 8 straipsnio 1, 9, 10 dalių, 13 straipsnio 2 dalies, 18 straipsnio 7 dalies ir 22 straipsnio 3, 6, 7 dalių atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/TAR.C75A20543131)
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1242,37 +1242,37 @@ Nr. XII-372, 2013-06-18, Žin., 2013, Nr. 67-3335 (2013-06-26), i. k. [[latest/T
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2640, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24674
-Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14, [[#^s-3227a71da1b248f134f0d9ab|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 [[#^s-5758b2d285a86b28d02e8ea2|14]], [[#^s-3227a71da1b248f134f0d9ab|16]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-779, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18833
-Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir [[#^s-f9b338f9d8e07adeb3a40cfa|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 [[#^s-1f1e283872dcf511eadce261|4]], [[#^s-a68e406c3e39f0d530f6b485|5]], [[#^s-e9b290586a8a7a1f2ee6aaab|7]], [[#^s-ca3b459b81a52e69d4c007ba|8]], [[#^s-c1684945916ade1a0ff2da6b|10]], [[#^s-e5dd80dda204d88784d846eb|12]], [[#^s-64ce301adc3f47e8b6964dc1|13]], [[#^s-5758b2d285a86b28d02e8ea2|14]], [[#^s-6e97bbe4b886cec1821faa11|15]], [[#^s-3227a71da1b248f134f0d9ab|16]] ir [[#^s-f9b338f9d8e07adeb3a40cfa|19]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1471, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14699
-Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir [[#^s-3227a71da1b248f134f0d9ab|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 [[#^s-a68790d004a0b46fc5147710|2]], [[#^s-a68e406c3e39f0d530f6b485|5]], [[#^s-ac73f28230c0a439df7ae717|6]], [[#^s-ca3b459b81a52e69d4c007ba|8]], [[#^s-0be4446261a4ebabc1a0217b|9]], [[#^s-c1684945916ade1a0ff2da6b|10]], [[#^s-a8203aba26b2b3222cc8937e|11]], [[#^s-64ce301adc3f47e8b6964dc1|13]], [[#^s-5758b2d285a86b28d02e8ea2|14]], [[#^s-6e97bbe4b886cec1821faa11|15]] ir [[#^s-3227a71da1b248f134f0d9ab|16]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1915, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00848
-Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14 ir [[#^s-3227a71da1b248f134f0d9ab|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 [[#^s-5758b2d285a86b28d02e8ea2|14]] ir [[#^s-3227a71da1b248f134f0d9ab|16]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2637, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20659
-Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir [[#^s-c1684945916ade1a0ff2da6b|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 [[#^s-a68790d004a0b46fc5147710|2]] ir [[#^s-c1684945916ade1a0ff2da6b|10]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3200, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15393
-Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, [[#^s-3227a71da1b248f134f0d9ab|16 straipsnių]] pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 [[#^s-a68790d004a0b46fc5147710|2]], [[#^s-3227a71da1b248f134f0d9ab|16]] straipsnių pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3299, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21148
-Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4 ir [[#^s-a68e406c3e39f0d530f6b485|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 [[#^s-1f1e283872dcf511eadce261|4]] ir [[#^s-a68e406c3e39f0d530f6b485|5]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1282,9 +1282,9 @@ Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 [[#^s-a68e406c3e39f0d530f
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3052, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20013
-Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 8 ir [[#^s-c1684945916ade1a0ff2da6b|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 [[#^s-ca3b459b81a52e69d4c007ba|8]] ir [[#^s-c1684945916ade1a0ff2da6b|10]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3053, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19822
-Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 10 ir [[#^s-a8203aba26b2b3222cc8937e|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 [[#^s-c1684945916ade1a0ff2da6b|10]] ir [[#^s-a8203aba26b2b3222cc8937e|11]] straipsnių pakeitimo įstatymas

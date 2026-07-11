@@ -53,7 +53,7 @@ Vilnius
 „3. Naujos branduolinės (atominės) elektrinės, nurodytos [[latest/TAR.04F64676CE77|Branduolinės (atominės) elektrinės įstatyme]], projektą ir su juo susijusius klausimus reglamentuoja [[latest/TAR.04F64676CE77|Branduolinės (atominės) elektrinės įstatymas]]. Šio įstatymo normos santykiams, susijusiems su naujos branduolinės (atominės) elektrinės projektu ir su juo susijusiais klausimais, taikomos tiek, kiek jų nereglamentuoja [[latest/TAR.04F64676CE77|Branduolinės (atominės) elektrinės įstatymas]].“
 
 
-3. Buvusią [[#^s-5d5f4be52d8599f280636a5d|1 straipsnio 3 dalį]] laikyti 4 dalimi. ^s-5d5f4be52d8599f280636a5d
+3. Buvusią 1 straipsnio 3 dalį laikyti 4 dalimi. ^s-5d5f4be52d8599f280636a5d
 
 
 

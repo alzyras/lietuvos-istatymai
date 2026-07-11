@@ -62,10 +62,10 @@ Pašalpa yra 6 minimalių gyvenimo lygių (toliau – MGL) dydžio. Pašalpos dy
 „Teisės į pašalpą atsiradimo diena yra asmens mirties data (rasto mirusio asmens – mirties liudijimo išdavimo data).
 
 
-Teismas gali atnaujinti [[#^s-24ba1342fe02a37f0256f46e|šio straipsnio 2 dalyje]] nurodytą terminą, jei jis praleistas dėl priežasčių, kurias teismas pripažįsta svarbiomis. Tokiu atveju kartu su kitais [[#^s-24ba1342fe02a37f0256f46e|šio straipsnio 2 dalyje]] nurodytais dokumentais savivaldybei pateikiamas teismo nutarties nuorašas.
+Teismas gali atnaujinti šio straipsnio 2 dalyje nurodytą terminą, jei jis praleistas dėl priežasčių, kurias teismas pripažįsta svarbiomis. Tokiu atveju kartu su kitais šio straipsnio 2 dalyje nurodytais dokumentais savivaldybei pateikiamas teismo nutarties nuorašas.
 
 
-Laidojantis asmuo bylose dėl [[#^s-24ba1342fe02a37f0256f46e|šio straipsnio 2 dalyje]] nurodyto termino atnaujinimo nuo žyminio mokesčio mokėjimo atleidžiamas.“
+Laidojantis asmuo bylose dėl šio straipsnio 2 dalyje nurodyto termino atnaujinimo nuo žyminio mokesčio mokėjimo atleidžiamas.“
 
 
 

@@ -216,7 +216,7 @@ Lietuvos profesinio mokymo sistema apima:
 ### 6 straipsnis. Pirminis profesinis mokymas ^s-7be24719bf90fdd453cc546a
 
 
-1. Pirminis profesinis mokymas yra skirtas pirmajai kvalifikacijai įgyti, išskyrus šio straipsnio 8 ir [[#^s-eefec85dd4c15cf619b4d5b3|9 dalyse]] nurodytus atvejus, ir teikiamas ne jaunesniems kaip 14 metų asmenims: ^s-0a7d65b0bfd15fa855b24a57
+1. Pirminis profesinis mokymas yra skirtas pirmajai kvalifikacijai įgyti, išskyrus šio straipsnio [[#^s-1481ced5e6037a4a1854381f|8]] ir [[#^s-eefec85dd4c15cf619b4d5b3|9]] dalyse nurodytus atvejus, ir teikiamas ne jaunesniems kaip 14 metų asmenims: ^s-0a7d65b0bfd15fa855b24a57
 
 
 1) įgijusiems pagrindinį ar vidurinį išsilavinimą; ^s-7ff24d57242fd3015b709fd7
@@ -260,7 +260,7 @@ Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
 ### 7 straipsnis. Tęstinis profesinis mokymas ^s-7a115f243e6761212e4467de
 
 
-1. Tęstinis profesinis mokymas yra skirtas ne pirmajai kvalifikacijai įgyti, išskyrus atvejus, kai nebe pirmoji kvalifikacija teikiama šio įstatymo [[#^s-7be24719bf90fdd453cc546a|6 straipsnio]] 8 ir 9 dalyse nurodytomis sąlygomis pagal pirminio profesinio mokymo programas. ^s-198ea83773cdfe2e733ed646
+1. Tęstinis profesinis mokymas yra skirtas ne pirmajai kvalifikacijai įgyti, išskyrus atvejus, kai nebe pirmoji kvalifikacija teikiama šio įstatymo [[#^s-7be24719bf90fdd453cc546a|6 straipsnio]] [[#^s-1481ced5e6037a4a1854381f|8]] ir [[#^s-eefec85dd4c15cf619b4d5b3|9]] dalyse nurodytomis sąlygomis pagal pirminio profesinio mokymo programas. ^s-198ea83773cdfe2e733ed646
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
@@ -470,7 +470,7 @@ TAR pastaba. [[#^s-dbf2610023555c9cb647bcfd|14 straipsnio 12 dalies 5 punkto]] n
 5) nesumokėta valstybės rinkliava; ^s-6be50e8748ae2b79e8d3b6b8
 
 
-6) dėl licencijos išdavimo kreipiasi juridinis asmuo, kurio naudos gavėjas arba vadovas yra tas pats asmuo, kuris buvo naudos gavėjas ar vadovas juridinio asmens, kuriam licencijos galiojimas buvo panaikintas [[#^s-6458cd2b3450d2d0583a8664|šio straipsnio 12 dalies]] 3, 4, 6 ar 8–10 punktuose nurodytu pagrindu, ir nuo sprendimo dėl licencijos galiojimo panaikinimo nėra praėję vieni metai. ^s-af291e9cf71507a8aa195a86
+6) dėl licencijos išdavimo kreipiasi juridinis asmuo, kurio naudos gavėjas arba vadovas yra tas pats asmuo, kuris buvo naudos gavėjas ar vadovas juridinio asmens, kuriam licencijos galiojimas buvo panaikintas [[#^s-6458cd2b3450d2d0583a8664|šio straipsnio 12 dalies]] [[#^s-462fd8108056003799b0317b|3]], [[#^s-0d94b6c25764ece1305c004f|4]], 6 ar 8–10 punktuose nurodytu pagrindu, ir nuo sprendimo dėl licencijos galiojimo panaikinimo nėra praėję vieni metai. ^s-af291e9cf71507a8aa195a86
 
 
 9. Švietimo, mokslo ir sporto ministro įgaliota įstaiga raštu įspėja licencijos turėtoją ir nustato ne trumpesnį kaip 10 darbo dienų, bet ne ilgesnį kaip 20 darbo dienų terminą trūkumams pašalinti šiais atvejais: ^s-d153c480a0b09d3b21ee6fe1
@@ -510,7 +510,7 @@ TAR pastaba. [[#^s-dbf2610023555c9cb647bcfd|14 straipsnio 12 dalies 5 punkto]] n
 
 
 5) fizinis ar juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ar jos padalinys, įsteigtas Lietuvos Respublikoje, nepradėjo vykdyti formaliojo profesinio mokymo programos (-ų) ar jos (jų) modulio (-ių) ir su profesiniu mokymu susijusios veiklos per metus nuo sprendimo dėl licencijos vykdyti formalųjį profesinį mokymą išdavimo priėmimo dienos arba nevykdo formaliojo profesinio mokymo ir su profesiniu mokymu susijusios veiklos ilgiau kaip 2 metus; ^s-dbf2610023555c9cb647bcfd
-TAR pastaba. [[#^s-dbf2610023555c9cb647bcfd|14 straipsnio 12 dalies 5 punkto]] nuostatos taikomos profesinio mokymo teikėjams, kuriems licencijos išduodamos po 2026-09-01. Profesinio mokymo teikėjams, kuriems licencijos išduodamos iki 2026 2026-08-31, taikomos iki 2026-08-31 galiojančios [[#^s-dbf2610023555c9cb647bcfd|Profesinio mokymo įstatymo 14 straipsnio 12 dalies 5 punkto]] nuostatos.
+TAR pastaba. 14 straipsnio 12 dalies 5 punkto nuostatos taikomos profesinio mokymo teikėjams, kuriems licencijos išduodamos po 2026-09-01. Profesinio mokymo teikėjams, kuriems licencijos išduodamos iki 2026 2026-08-31, taikomos iki 2026-08-31 galiojančios [[#^s-dbf2610023555c9cb647bcfd|Profesinio mokymo įstatymo 14 straipsnio 12 dalies 5 punkto]] nuostatos.
 
 
 6) licencijos vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusias veiklas – kai pakartotinio išorinio institucijos vertinimo metu profesinio mokymo įstaigos ar kito profesinio mokymo teikėjo veikla įvertinama neigiamai, kai po išorinio institucijos įvertinimo profesinio mokymo įstaiga ar kitas profesinio mokymo teikėjas, bendradarbiaudami su kvalifikacijos tvarkymo institucija ar kita švietimo, mokslo ir sporto ministro įgaliota institucija, per nustatytą laikotarpį neįgyvendino išorinio vertinimo metu pateiktų rekomendacijų; ^s-0e5fb32c2a5e788636020471
@@ -520,11 +520,11 @@ TAR pastaba. [[#^s-dbf2610023555c9cb647bcfd|14 straipsnio 12 dalies 5 punkto]] n
 
 
 8) licencijos vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusias veiklas – kai įsiteisėjusiu teismo nuosprendžiu pripažįstama, jog kvalifikacijos ir mokymosi pasiekimų dokumentai išduoti neteisėtai; ^s-517f4c2cdedf721d250308ab
-TAR pastaba. [[#^s-517f4c2cdedf721d250308ab|14 straipsnio 12 dalies 8 punkto]] nuostatos taikomos ir tais atvejais, kai kvalifikacijos ar mokymosi pasiekimų dokumentai yra neteisėtai išduoti iki 2026-08-31 ir jų neteisėto išdavimo faktas nustatomas po 2026-08-31.
+TAR pastaba. 14 straipsnio 12 dalies 8 punkto nuostatos taikomos ir tais atvejais, kai kvalifikacijos ar mokymosi pasiekimų dokumentai yra neteisėtai išduoti iki 2026-08-31 ir jų neteisėto išdavimo faktas nustatomas po 2026-08-31.
 
 
 9) licencijos vykdyti formaliojo profesinio mokymo programą ar jos modulį – kai tris kartus per metus nustatomas tas pats [[#^s-d153c480a0b09d3b21ee6fe1|šio straipsnio 9 dalyje]] nurodytas tos formaliojo profesinio mokymo programos ar jos modulio trūkumas; ^s-9a45f790014fb174d932fe0e
-TAR pastaba. [[#^s-9a45f790014fb174d932fe0e|14 straipsnio 12 dalies 9 punkto]] nuostatos taikomos vertinant nuo 2026-09-01 nustatytus šio įstatymo [[#^s-ba1a3d7d5b2bc7551ca696e9|4 straipsnyje]] išdėstyto [[#^s-d153c480a0b09d3b21ee6fe1|Profesinio mokymo įstatymo 14 straipsnio 9 dalyje]] nurodytus trūkumus.
+TAR pastaba. 14 straipsnio 12 dalies 9 punkto nuostatos taikomos vertinant nuo 2026-09-01 nustatytus šio įstatymo [[#^s-ba1a3d7d5b2bc7551ca696e9|4 straipsnyje]] išdėstyto [[#^s-d153c480a0b09d3b21ee6fe1|Profesinio mokymo įstatymo 14 straipsnio 9 dalyje]] nurodytus trūkumus.
 
 
 10) licencijos vykdyti formalųjį profesinį mokymą ir su profesiniu mokymu susijusias veiklas – kai įsiteisėjusiu teismo nuosprendžiu pripažįstama, jog licencijos turėtojas verčiasi įstatymų draudžiama veikla ir (ar) savo neteisėtais veiksmais kelia grėsmę mokinių teisėtiems interesams; ^s-db20a786933ac764ddf334e1
@@ -537,7 +537,7 @@ TAR pastaba. [[#^s-9a45f790014fb174d932fe0e|14 straipsnio 12 dalies 9 punkto]] n
 
 
 14. Fizinis ar juridinis asmuo, kita juridinio asmens statuso neturinti kitos valstybės narės organizacija ar jos padalinys, įsteigtas Lietuvos Respublikoje, kuriems licencijos galiojimas buvo panaikintas [[#^s-6458cd2b3450d2d0583a8664|šio straipsnio 12 dalies]] 3, 4, 6 ar 8–10 punktuose nurodytu pagrindu, ne anksčiau kaip po vienų metų gali kreiptis į švietimo, mokslo ir sporto ministro įgaliotą įstaigą dėl naujos licencijos išdavimo. ^s-f10f5ee306ee4c590fcece10
-TAR pastaba. [[#^s-f10f5ee306ee4c590fcece10|14 straipsnio 14 dalies]] nuostatos taikomos profesinio mokymo teikėjams, kurių licencijos galiojimas panaikinamas šio įstatymo [[#^s-ba1a3d7d5b2bc7551ca696e9|4 straipsnyje]] išdėstyto [[#^s-f10f5ee306ee4c590fcece10|Profesinio mokymo įstatymo 14 straipsnio 14 dalyje]] nurodytais pagrindais po 2026-09-01.
+TAR pastaba. 14 straipsnio 14 dalies nuostatos taikomos profesinio mokymo teikėjams, kurių licencijos galiojimas panaikinamas šio įstatymo [[#^s-ba1a3d7d5b2bc7551ca696e9|4 straipsnyje]] išdėstyto [[#^s-f10f5ee306ee4c590fcece10|Profesinio mokymo įstatymo 14 straipsnio 14 dalyje]] nurodytais pagrindais po 2026-09-01.
 
 
 15. Gavęs licenciją vykdyti formalųjį profesinį mokymą profesinio mokymo teikėjas švietimo, mokslo ir sporto ministro įgaliotoms įstaigoms šio įstatymo ir kitų teisės aktų nustatyta tvarka privalo teikti ir leisti tikrinti informaciją, susijusią su išduota licencija vykdyti profesinį mokymą ir su profesiniu mokymu susijusią veiklą. Licencijos turėtojų licencijuojamos veiklos sąlygų laikymosi priežiūrą organizuoja ir vykdo švietimo, mokslo ir sporto ministro įgaliota įstaiga [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymo]] IV skyriuje nustatyta tvarka. ^s-b3584e3d01792ebbb5e54ff1
@@ -781,7 +781,7 @@ Nr. XV-772, 2026-03-19, paskelbta TAR 2026-03-25, i. k. 2026-04632
 20. Tas pats fizinis arba juridinis asmuo, taip pat juridinio asmens statuso neturinti valstybės narės organizacija, išskyrus savininko teises ir pareigas įgyvendinančias valstybės ar savivaldybės institucijas ir įstaigas, negali būti daugiau kaip dviejų valstybės ar savivaldybės profesinio mokymo įstaigų dalininku, turinčiu daugiau kaip pusę balsų dalininkų susirinkime. ^s-d2663bccdd952213b11bbdea
 
 
-21. Visuotiniame dalininkų susirinkime priimant sprendimus, numatytus [[latest/TAR.1E52802BE548#^s-940964888b7b2114aec75cf3|Viešųjų įstaigų įstatymo 12 straipsnio 1 dalies]] 7–10 punktuose, valstybė arba savivaldybė, arba jos kartu, jeigu ir valstybė, ir savivaldybė yra tos pačios profesinio mokymo įstaigos dalininkės, turi sprendžiamojo balso teisę. Negali būti priimtas kitoks sprendimas, negu tas, už kurį balsuoja valstybė ar savivaldybė, o jeigu jų balsai pasiskirsto po lygiai, sprendžiamojo balso teisę turi valstybė. ^s-54ae34d29a3bc7a94f7e31cf
+21. Visuotiniame dalininkų susirinkime priimant sprendimus, numatytus [[latest/TAR.1E52802BE548#^s-940964888b7b2114aec75cf3|Viešųjų įstaigų įstatymo 12 straipsnio 1 dalies]] [[latest/TAR.1E52802BE548|7]]–[[latest/TAR.1E52802BE548|10]] punktuose, valstybė arba savivaldybė, arba jos kartu, jeigu ir valstybė, ir savivaldybė yra tos pačios profesinio mokymo įstaigos dalininkės, turi sprendžiamojo balso teisę. Negali būti priimtas kitoks sprendimas, negu tas, už kurį balsuoja valstybė ar savivaldybė, o jeigu jų balsai pasiskirsto po lygiai, sprendžiamojo balso teisę turi valstybė. ^s-54ae34d29a3bc7a94f7e31cf
 Straipsnio dalies pakeitimai:
 Nr. XIV-2257, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22989
 
@@ -1660,7 +1660,7 @@ Nr. XIV-2406, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25919
 2) nenumatytas profesinio mokymo programose papildomas praktinio mokymo paslaugas (konsultacijas, kursus ir kita); ^s-f21bbfb3814ff53b30f868dc
 
 
-3) kitas profesinio mokymo įstaigos teikiamas paslaugas (išskyrus šio straipsnio 3 ir [[#^s-bbe55b6643f1818021618ea6|4 dalyse]] nurodytą užmokestį). ^s-ceaa5e01f06c134b144a20f3
+3) kitas profesinio mokymo įstaigos teikiamas paslaugas (išskyrus šio straipsnio [[#^s-4427c93357220c97d03e9b5e|3]] ir [[#^s-bbe55b6643f1818021618ea6|4]] dalyse nurodytą užmokestį). ^s-ceaa5e01f06c134b144a20f3
 
 
 6. Už to paties pobūdžio ir apimties profesinio mokymo paslaugas, nurodytas [[#^s-f8d4e53a8dbd4c06aee74c70|šio straipsnio 5 dalyje]], profesinio mokymo įstaigoje negali būti nustatomas skirtingas užmokesčio dydis, priklausomai nuo lėšų šaltinio ar išlaidas apmokančio subjekto. ^s-f2117e2a2925ee9b8e35b14d
@@ -1711,7 +1711,7 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 4) kitos piniginės lėšos, išskyrus valstybės biudžeto lėšas; ^s-1cbd54b40cb368b3342f40d6
 
 
-5) iš valstybės biudžeto lėšų ir iš šios dalies 2, 3 ir [[#^s-1cbd54b40cb368b3342f40d6|4 punktuose]] numatytų lėšų įgytas turtas, išskyrus nekilnojamąjį turtą, įgytą už Europos Sąjungos paramą, valstybės biudžeto ir valstybės fondų lėšas; ^s-3abeb95c8fe50871532bb379
+5) iš valstybės biudžeto lėšų ir iš šios dalies [[#^s-3af0189f38512fb4577d45f5|2]], [[#^s-ab14077a446bd655e97d967c|3]] ir [[#^s-1cbd54b40cb368b3342f40d6|4]] punktuose numatytų lėšų įgytas turtas, išskyrus nekilnojamąjį turtą, įgytą už Europos Sąjungos paramą, valstybės biudžeto ir valstybės fondų lėšas; ^s-3abeb95c8fe50871532bb379
 
 
 6) dovanotas turtas; ^s-1f9337a7b4a68000561c6654
@@ -1720,7 +1720,7 @@ Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
 7) paveldėtas turtas; ^s-7406a0732a143db37d02a00b
 
 
-8) pajamos, turtas ar kita nauda, gauta valdant, naudojant šios dalies 1–[[#^s-7406a0732a143db37d02a00b|7 punktuose]] nurodytas lėšas ar kitą turtą ir jais disponuojant, išskyrus šiame įstatyme nustatytus atvejus. ^s-283e53d5497763c91269e9df
+8) pajamos, turtas ar kita nauda, gauta valdant, naudojant šios dalies [[#^s-ddfbe57e271a0114df7edc18|1]]–[[#^s-7406a0732a143db37d02a00b|7]] punktuose nurodytas lėšas ar kitą turtą ir jais disponuojant, išskyrus šiame įstatyme nustatytus atvejus. ^s-283e53d5497763c91269e9df
 
 
 8. Valdydamos, naudodamos [[#^s-fd6c042bc4ca799f6429fe41|šio straipsnio 1 dalyje]] numatytą turtą ir juo disponuodamos, valstybinės profesinio mokymo įstaigos gali sudaryti tik tokius civilinius sandorius, kurie neprieštarauja jų steigimo dokumentams ir veiklos tikslams, įskaitant [[latest/TAR.82D8168D3049#^s-e16afbf468244b0bdec26304|Lietuvos Respublikos elektroninių ryšių įstatymo 461 straipsnyje]] nurodytus sandorius dėl servitutų, suteikiančių teisę įrengti elektroninių ryšių infrastruktūrą, ja naudotis ir (ar) ją prižiūrėti, nustatymo. ^s-0cde36a94dd2cbb85ba888ce
@@ -1794,7 +1794,7 @@ Nr. XI-380, 2009-07-21, Žin., 2009, Nr. 93-3973 (2009-08-04)
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-839, 2010-05-25, Žin., 2010, Nr. 67-3338 (2010-06-10)
-[[#^s-8df4de95c9eb9af8da9d4ddb|PROFESINIO MOKYMO ĮSTATYMO 2, 6, 10, 11, 12, 13, 14, 18, 19, 21, 22, 23, 24, 27, 28, 31, 33 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU IR [[#^s-be0f150119af87bd0c184540|26 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+PROFESINIO MOKYMO ĮSTATYMO [[#^s-013f5edc7302a0f22dfc5ab2|2]], [[#^s-7be24719bf90fdd453cc546a|6]], [[#^s-43864bb9d951cadc4b334e0d|10]], [[#^s-9e7cad9b673fe7a80629ebfc|11]], [[#^s-f60557ae37322f3830b73dc1|12]], [[#^s-983e5cf2aa9564553388737d|13]], [[#^s-22a9f5d856e6ee5ec57c2f2c|14]], [[#^s-68b68f5e14188cc4daeb5f4d|18]], [[#^s-1b868f2783a29a99d016c260|19]], [[#^s-46110a85a8a88e3dda83f38c|21]], [[#^s-dc669fb081adb5223e74df2d|22]], [[#^s-535610905c83e91171d965f0|23]], [[#^s-987eca4c7cb1c662ca18f25a|24]], [[#^s-2b65563f4134d2b856e9aad4|27]], [[#^s-f631d760fa69638b78c4707f|28]], [[#^s-fe1025d33a7155806d195f6e|31]], [[#^s-8df4de95c9eb9af8da9d4ddb|33]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU IR [[#^s-be0f150119af87bd0c184540|26 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-3e8b825da09e0399cfd599a3|20 straipsnį]], įsigalioja 2010 m. liepos 1 d.
 
 7.
@@ -1812,7 +1812,7 @@ Nr. XII-530, 2013-10-01, Žin., 2013, Nr. 107-5275 (2013-10-12)
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-922, 2014-06-05, paskelbta TAR 2014-06-19, i. k. 2014-07840
-LIETUVOS RESPUBLIKOS PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 22, 23, 24, [[#^s-fe1025d33a7155806d195f6e|31 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 23-1 STRAIPSNIU ĮSTATYMAS
+LIETUVOS RESPUBLIKOS PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 [[#^s-dc669fb081adb5223e74df2d|22]], [[#^s-535610905c83e91171d965f0|23]], [[#^s-987eca4c7cb1c662ca18f25a|24]], [[#^s-fe1025d33a7155806d195f6e|31]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 23-1 STRAIPSNIU ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-44dc551aa78a031e89530f18|6 straipsnio 2 dalį]], įsigalioja 2014 m. rugsėjo 1 d.
 
 10.
@@ -1823,7 +1823,7 @@ LIETUVOS RESPUBLIKOS PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 12-1 STRAIPSNIO PA
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1448, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21185
-LIETUVOS RESPUBLIKOS PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 14, 22, 23-1, 31 IR [[#^s-cf78f4fa1b09020c28cd3ac6|32 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 23-2 STRAIPSNIU ĮSTATYMAS
+LIETUVOS RESPUBLIKOS PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 [[#^s-22a9f5d856e6ee5ec57c2f2c|14]], [[#^s-dc669fb081adb5223e74df2d|22]], 23-1, [[#^s-fe1025d33a7155806d195f6e|31]] IR [[#^s-cf78f4fa1b09020c28cd3ac6|32]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 23-2 STRAIPSNIU ĮSTATYMAS
 Šis įstatymas įsigalioja 2015 m. rugsėjo 1 d.
 
 
@@ -1843,7 +1843,7 @@ Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo įstatym
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-986, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00961
-Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo [[latest/093a9010eb0b11e7acd7ea182930b17f|įstatymo Nr. XIII-888]] 1 ir [[#^s-013f5edc7302a0f22dfc5ab2|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo [[latest/093a9010eb0b11e7acd7ea182930b17f|įstatymo Nr. XIII-888]] [[#^s-e7c7f17f3f2f083b733e079a|1]] ir [[#^s-013f5edc7302a0f22dfc5ab2|2]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1853,12 +1853,12 @@ Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 pakeitimo [[latest
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1392, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12062
-Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 18, 26, 28 ir [[#^s-7582984e59096cd69b0850ab|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 [[#^s-68b68f5e14188cc4daeb5f4d|18]], [[#^s-be0f150119af87bd0c184540|26]], [[#^s-f631d760fa69638b78c4707f|28]] ir [[#^s-7582984e59096cd69b0850ab|29]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2369, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12449
-Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 10, 12, 13, 14, 15, 17, 18, 19, 20, 22, 23, 25, 26, 27, 31, 32, 36, 40 ir [[#^s-e23b0f052746f8e3d5cd0b86|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 [[#^s-013f5edc7302a0f22dfc5ab2|2]], [[#^s-7be24719bf90fdd453cc546a|6]], [[#^s-7a115f243e6761212e4467de|7]], [[#^s-43864bb9d951cadc4b334e0d|10]], [[#^s-f60557ae37322f3830b73dc1|12]], [[#^s-983e5cf2aa9564553388737d|13]], [[#^s-22a9f5d856e6ee5ec57c2f2c|14]], [[#^s-a8c8271937f5a76cc06bf8d1|15]], [[#^s-3fcd1f67d1c06b5ecd7fbd70|17]], [[#^s-68b68f5e14188cc4daeb5f4d|18]], [[#^s-1b868f2783a29a99d016c260|19]], [[#^s-3e8b825da09e0399cfd599a3|20]], [[#^s-dc669fb081adb5223e74df2d|22]], [[#^s-535610905c83e91171d965f0|23]], [[#^s-c570a506b55092b5fc1c1244|25]], [[#^s-be0f150119af87bd0c184540|26]], [[#^s-2b65563f4134d2b856e9aad4|27]], [[#^s-fe1025d33a7155806d195f6e|31]], [[#^s-cf78f4fa1b09020c28cd3ac6|32]], [[#^s-ba1793f3a5eab0f0cc62f942|36]], [[#^s-c37ffa089bc2e679a5999e7c|40]] ir [[#^s-e23b0f052746f8e3d5cd0b86|41]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1868,7 +1868,7 @@ Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 [[#^s-22a9f5d856e6
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3154, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14369
-Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 36 ir [[#^s-a7f0b3c99ee61aeb2b3142c9|38 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 [[#^s-ba1793f3a5eab0f0cc62f942|36]] ir [[#^s-a7f0b3c99ee61aeb2b3142c9|38]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1888,17 +1888,17 @@ Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 [[#^s-6d519ba6adc3
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1145, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13884
-Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 18 ir [[#^s-1b868f2783a29a99d016c260|19 straipsnių]] pakeitimo ir Įstatymo papildymo 23-1 straipsniu įstatymas
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 [[#^s-68b68f5e14188cc4daeb5f4d|18]] ir [[#^s-1b868f2783a29a99d016c260|19]] straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1224, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15590
-Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 15, 18, 21, 26, 28, 29, 36, 37 ir [[#^s-a7f0b3c99ee61aeb2b3142c9|38 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 [[#^s-a8c8271937f5a76cc06bf8d1|15]], [[#^s-68b68f5e14188cc4daeb5f4d|18]], [[#^s-46110a85a8a88e3dda83f38c|21]], [[#^s-be0f150119af87bd0c184540|26]], [[#^s-f631d760fa69638b78c4707f|28]], [[#^s-7582984e59096cd69b0850ab|29]], [[#^s-ba1793f3a5eab0f0cc62f942|36]], [[#^s-6d519ba6adc3d6a8aeed0400|37]] ir [[#^s-a7f0b3c99ee61aeb2b3142c9|38]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1732, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00147
-Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 13, 14, 17, 18, 20, 23, 26, 28, 29, 32, 33, 35, 36, 38, [[#^s-dc57a7d4cb6c993afe7f155c|39 straipsnių]] pakeitimo ir [[#^s-9e7cad9b673fe7a80629ebfc|11 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 [[#^s-013f5edc7302a0f22dfc5ab2|2]], [[#^s-7be24719bf90fdd453cc546a|6]], [[#^s-7a115f243e6761212e4467de|7]], [[#^s-983e5cf2aa9564553388737d|13]], [[#^s-22a9f5d856e6ee5ec57c2f2c|14]], [[#^s-3fcd1f67d1c06b5ecd7fbd70|17]], [[#^s-68b68f5e14188cc4daeb5f4d|18]], [[#^s-3e8b825da09e0399cfd599a3|20]], [[#^s-535610905c83e91171d965f0|23]], [[#^s-be0f150119af87bd0c184540|26]], [[#^s-f631d760fa69638b78c4707f|28]], [[#^s-7582984e59096cd69b0850ab|29]], [[#^s-cf78f4fa1b09020c28cd3ac6|32]], [[#^s-8df4de95c9eb9af8da9d4ddb|33]], [[#^s-a505f17b177ec80bab343718|35]], [[#^s-ba1793f3a5eab0f0cc62f942|36]], [[#^s-a7f0b3c99ee61aeb2b3142c9|38]], [[#^s-dc57a7d4cb6c993afe7f155c|39]] straipsnių pakeitimo ir [[#^s-9e7cad9b673fe7a80629ebfc|11 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1918,19 +1918,19 @@ Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 [[#^s-3fcd1f67d1c0
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2406, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25919
-Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 6, 7, 13, 14, 17, 18, 20, 23, 26, 28, 29, 32, 33, 35, 36, 38, [[#^s-dc57a7d4cb6c993afe7f155c|39 straipsnių]] pakeitimo ir [[#^s-9e7cad9b673fe7a80629ebfc|11 straipsnio]] pripažinimo netekusiu galios [[latest/66ac76508c0f11ed8df094f359a60216|įstatymo Nr. XIV-1732]] 9, 18 ir [[#^s-1b868f2783a29a99d016c260|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 [[#^s-013f5edc7302a0f22dfc5ab2|2]], [[#^s-7be24719bf90fdd453cc546a|6]], [[#^s-7a115f243e6761212e4467de|7]], [[#^s-983e5cf2aa9564553388737d|13]], [[#^s-22a9f5d856e6ee5ec57c2f2c|14]], [[#^s-3fcd1f67d1c06b5ecd7fbd70|17]], [[#^s-68b68f5e14188cc4daeb5f4d|18]], [[#^s-3e8b825da09e0399cfd599a3|20]], [[#^s-535610905c83e91171d965f0|23]], [[#^s-be0f150119af87bd0c184540|26]], [[#^s-f631d760fa69638b78c4707f|28]], [[#^s-7582984e59096cd69b0850ab|29]], [[#^s-cf78f4fa1b09020c28cd3ac6|32]], [[#^s-8df4de95c9eb9af8da9d4ddb|33]], [[#^s-a505f17b177ec80bab343718|35]], [[#^s-ba1793f3a5eab0f0cc62f942|36]], [[#^s-a7f0b3c99ee61aeb2b3142c9|38]], [[#^s-dc57a7d4cb6c993afe7f155c|39]] straipsnių pakeitimo ir [[#^s-9e7cad9b673fe7a80629ebfc|11 straipsnio]] pripažinimo netekusiu galios [[latest/66ac76508c0f11ed8df094f359a60216|įstatymo Nr. XIV-1732]] [[#^s-4c90e210e4fb9e21715d7a0a|9]], [[#^s-68b68f5e14188cc4daeb5f4d|18]] ir [[#^s-1b868f2783a29a99d016c260|19]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2408, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25922
-Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 15, 18, 28 ir [[#^s-6d519ba6adc3d6a8aeed0400|37 straipsnių]] pakeitimo ir Įstatymo papildymo 29-1 straipsniu įstatymas
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 [[#^s-a8c8271937f5a76cc06bf8d1|15]], [[#^s-68b68f5e14188cc4daeb5f4d|18]], [[#^s-f631d760fa69638b78c4707f|28]] ir [[#^s-6d519ba6adc3d6a8aeed0400|37]] straipsnių pakeitimo ir Įstatymo papildymo 29-1 straipsniu įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-607, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20819
-Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 13, 14, 25 ir [[#^s-be0f150119af87bd0c184540|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 [[#^s-983e5cf2aa9564553388737d|13]], [[#^s-22a9f5d856e6ee5ec57c2f2c|14]], [[#^s-c570a506b55092b5fc1c1244|25]] ir [[#^s-be0f150119af87bd0c184540|26]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-772, 2026-03-19, paskelbta TAR 2026-03-25, i. k. 2026-04632
-Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 2, 13, 14, 17, [[#^s-ba1793f3a5eab0f0cc62f942|36 straipsnių]] pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
+Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 [[#^s-013f5edc7302a0f22dfc5ab2|2]], [[#^s-983e5cf2aa9564553388737d|13]], [[#^s-22a9f5d856e6ee5ec57c2f2c|14]], [[#^s-3fcd1f67d1c06b5ecd7fbd70|17]], [[#^s-ba1793f3a5eab0f0cc62f942|36]] straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas

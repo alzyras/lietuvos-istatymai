@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-7490be43b5a46d7da05a3179
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. rugpjūčio 17 d. dekretą Nr. 1457, ratifikuoja Estijos Respublikos, Suomijos Respublikos ir Švedijos Karalystės susitarimą dėl kelto „Estonia“, pasirašytą 1995 m. vasario 23 d. Taline, bei jį papildantį protokolą, pasirašytą 1996 m. balandžio 23 d. Stokholme.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. rugpjūčio 17 d. dekretą Nr. 1457](https://e-tar.lt/portal/lt/legalAct/TAR.E40C91B77CBE), ratifikuoja Estijos Respublikos, Suomijos Respublikos ir Švedijos Karalystės susitarimą dėl kelto „Estonia“, pasirašytą 1995 m. vasario 23 d. Taline, bei jį papildantį protokolą, pasirašytą 1996 m. balandžio 23 d. Stokholme.
 
 
 

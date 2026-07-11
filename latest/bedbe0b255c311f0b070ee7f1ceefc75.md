@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimas ^s-8e29dcc395ad3da56fb6b93e
 
 
-Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-b4b7010d0b6a268b44df6fe9|1 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Šis įstatymas nustato Lietuvos kariuomenės Rūdninkų karinio poligono (toliau – poligonas) teritorijos ribas ir jos suformavimą, žemės, reikalingos poligonui įkurti, paėmimą visuomenės poreikiams, statinių ir įrenginių poligono teritorijoje statybą (įrengimą) (toliau – poligono įkūrimas), žemės, reikalingos poligonui įkurti, paėmimo visuomenės poreikiams procedūras, statinių ir įrenginių statybos (įrengimo) poligono teritorijoje reikalavimus ir sudaro teisines, finansines ir organizacines sąlygas, reikalingas poligonui įkurti, taip pat nustato poligono efektyvų naudojimą užtikrinančių inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje sąlygas ir žemės paėmimo visuomenės poreikiams procedūras.“
@@ -50,10 +50,10 @@ Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 2 straipsnis. 3 straipsnio pakeitimas ^s-4d8df645dc93a5c411c1b025
 
 
-Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-bc20df0a20bf3997233380cf|3 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
-„2. Šiuo įstatymu poligono efektyvų naudojimą užtikrinančių inžinerinių statinių ir įrenginių statyba (įrengimas) ne poligono teritorijoje ir naujų saugomų teritorijų už poligono teritorijos ribų įsteigimas, kuriuo kompensuojamas poligono teritorijos ribų nustatymo ir jo naudojimo neigiamas poveikis jame esančioms gamtos vertybėms, pripažįstamas ypatingos valstybinės svarbos krašto apsaugos srities projektu. Šiam ypatingos valstybinės svarbos krašto apsaugos srities projektui šiame įstatyme nustatytas reglamentavimas, išskyrus šio įstatymo 4 straipsnio 4 dalį, [[#^s-663deb54591a4dedc5ee803c|5 straipsnio 2 dalį]] ir 81 straipsnį, netaikomas.“
+„2. Šiuo įstatymu poligono efektyvų naudojimą užtikrinančių inžinerinių statinių ir įrenginių statyba (įrengimas) ne poligono teritorijoje ir naujų saugomų teritorijų už poligono teritorijos ribų įsteigimas, kuriuo kompensuojamas poligono teritorijos ribų nustatymo ir jo naudojimo neigiamas poveikis jame esančioms gamtos vertybėms, pripažįstamas ypatingos valstybinės svarbos krašto apsaugos srities projektu. Šiam ypatingos valstybinės svarbos krašto apsaugos srities projektui šiame įstatyme nustatytas reglamentavimas, išskyrus šio įstatymo [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-413b10a466ad16efe73d36cb|4 straipsnio 4 dalį]], [[#^s-663deb54591a4dedc5ee803c|5 straipsnio 2 dalį]] ir [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-a30b0865218f569f3ea7e696|81 straipsnį]], netaikomas.“
 
 
 
@@ -71,13 +71,13 @@ POLIGONO ĮKŪRIMAS IR POLIGONO EFEKTYVŲ NAUDOJIMĄ UŽTIKRINANČIŲ INŽINERIN
 ### 4 straipsnis. 7 straipsnio pakeitimas ^s-cac430fa98889f6c0a4e519e
 
 
-1. Pakeisti 7 straipsnio 6 dalį ir ją išdėstyti taip: ^s-043bef4ee22c2b3824039124
+1. Pakeisti [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-672cec432838d94a5f3c766a|7 straipsnio 6 dalį]] ir ją išdėstyti taip: ^s-043bef4ee22c2b3824039124
 
 
-„6. Krašto apsaugos ministerija šiuo įstatymu jai perduotų patikėjimo teise valdyti valstybinės žemės sklypų negali parduoti ar kitaip perleisti, išnuomoti, perduoti panaudos pagrindais ar perduoti jais naudotis kitu būdu (išskyrus naudojimą Lietuvos kariuomenei Vyriausybės nustatyta tvarka ir šio straipsnio 7 dalyje nustatytus atvejus), jų įkeisti ar kitaip suvaržyti daiktinių teisių į juos, jais garantuoti, laiduoti ar kitu būdu užtikrinti savo ir kitų asmenų prievolių įvykdymą.“
+„6. Krašto apsaugos ministerija šiuo įstatymu jai perduotų patikėjimo teise valdyti valstybinės žemės sklypų negali parduoti ar kitaip perleisti, išnuomoti, perduoti panaudos pagrindais ar perduoti jais naudotis kitu būdu (išskyrus naudojimą Lietuvos kariuomenei Vyriausybės nustatyta tvarka ir [[latest/e7c46170c0a011ec8d9390588bf2de65|šio straipsnio 7 dalyje]] nustatytus atvejus), jų įkeisti ar kitaip suvaržyti daiktinių teisių į juos, jais garantuoti, laiduoti ar kitu būdu užtikrinti savo ir kitų asmenų prievolių įvykdymą.“
 
 
-2. Papildyti 7 straipsnį 7 dalimi: ^s-b01287fc2d52a5783e6bd4f1
+2. Papildyti [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-412d8a14978432f8fb7bc88c|7 straipsnį 7 dalimi]]: ^s-b01287fc2d52a5783e6bd4f1
 
 
 „7. Krašto apsaugos ministerija šiuo įstatymu jai perduotus patikėjimo teise valdyti valstybinės žemės sklypus gali išnuomoti be aukciono Vyriausybės nustatyta tvarka valdžios ir privataus subjektų partnerystės sutarties, kurios tikslas – užtikrinti Vokietijos Federacinės Respublikos sunkiosios brigados dislokavimą poligono teritorijoje, padidinti infrastruktūros ir paslaugų prieinamumą, siekiant patenkinti numatomos dislokuoti Vokietijos Federacinės Respublikos sunkiosios brigados poreikius, ir padidinti kovinius pajėgumus Lietuvos Respublikos suverenitetui, teritorijos neliečiamybei ir vientisumui saugoti ir ginti, galiojimo laikotarpiui privataus sektoriaus subjektams, kai šie žemės sklypai reikalingi vykdant valdžios ir privataus subjektų partnerystės sutartį, sudarytą vadovaujantis [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymu]]. Krašto apsaugos ministerijai šiuo įstatymu patikėjimo teise perduoti valstybinės žemės sklypai, kurie yra reikalingi poligono efektyvų naudojimą užtikrinantiems inžineriniams statiniams ir įrenginiams statyti (įrengti), išnuomojami vadovaujantis [[latest/TAR.CC10C5274343|Žemės įstatymu]].“
@@ -87,25 +87,25 @@ POLIGONO ĮKŪRIMAS IR POLIGONO EFEKTYVŲ NAUDOJIMĄ UŽTIKRINANČIŲ INŽINERIN
 ### 5 straipsnis. Įstatymo papildymas 81 straipsniu ^s-71e895d840a762e7bb337d07
 
 
-Papildyti Įstatymo trečiąjį skirsnį 81 straipsniu:
+Papildyti Įstatymo trečiąjį skirsnį [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-a30b0865218f569f3ea7e696|81 straipsniu]]:
 
 
-„81 straipsnis. Poligono efektyvų naudojimą užtikrinančių inžinerinių statinių ir įrenginių statyba (įrengimas) ne poligono teritorijoje
+„[[latest/e7c46170c0a011ec8d9390588bf2de65#^s-a30b0865218f569f3ea7e696|81 straipsnis]]. Poligono efektyvų naudojimą užtikrinančių inžinerinių statinių ir įrenginių statyba (įrengimas) ne poligono teritorijoje
 
 
-1. Šio įstatymo 3 straipsnio 2 dalimi pripažinto ypatingos valstybinės svarbos krašto apsaugos srities poligono efektyvų naudojimą užtikrinančių inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje projekto (toliau – Inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje projektas) įgyvendinimui netaikomi [[latest/TAR.057DCC40ECC6|Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme]] ir kituose įstatymuose, reglamentuojančiuose teritorijų planavimą, nustatyti reikalavimai parengti teritorijų planavimo dokumentus. ^s-757371f15d299b5fd75e7339
+1. Šio įstatymo [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-bc20df0a20bf3997233380cf|3 straipsnio 2 dalimi]] pripažinto ypatingos valstybinės svarbos krašto apsaugos srities poligono efektyvų naudojimą užtikrinančių inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje projekto (toliau – Inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje projektas) įgyvendinimui netaikomi [[latest/TAR.057DCC40ECC6|Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme]] ir kituose įstatymuose, reglamentuojančiuose teritorijų planavimą, nustatyti reikalavimai parengti teritorijų planavimo dokumentus. ^s-757371f15d299b5fd75e7339
 
 
-2. Inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje projektui įgyvendinti reikalingi žemės sklypai suformuojami, pertvarkomi, paimami visuomenės poreikiams ir (ar) nustatomos jų naudojimo sąlygos (paskirtis, naudojimo būdas, servitutai) mutatis mutandis rengiant karinės infrastruktūros projektą [[latest/TAR.CC10C5274343|Žemės įstatymo]] nustatyta tvarka. Karinės infrastruktūros projekto rengimą organizuoja ir finansuoja vadovaujantis šio įstatymo 4 straipsnio 4 dalimi Vyriausybės paskirta Inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje projektą įgyvendinančioji institucija. ^s-663deb54591a4dedc5ee803c
+2. Inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje projektui įgyvendinti reikalingi žemės sklypai suformuojami, pertvarkomi, paimami visuomenės poreikiams ir (ar) nustatomos jų naudojimo sąlygos (paskirtis, naudojimo būdas, servitutai) mutatis mutandis rengiant karinės infrastruktūros projektą [[latest/TAR.CC10C5274343|Žemės įstatymo]] nustatyta tvarka. Karinės infrastruktūros projekto rengimą organizuoja ir finansuoja vadovaujantis šio įstatymo [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-413b10a466ad16efe73d36cb|4 straipsnio 4 dalimi]] Vyriausybės paskirta Inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje projektą įgyvendinančioji institucija. ^s-663deb54591a4dedc5ee803c
 
 
-3. Žemės paėmimo visuomenės poreikiams procedūros mutatis mutandis vykdomos šio įstatymo ketvirtajame skirsnyje nustatyta tvarka, išskyrus šio įstatymo 9 straipsnio nuostatas dėl žemės paėmimo visuomenės poreikiams procedūros pradžios, momento, nuo kurio skaičiuojami informavimo terminai, ir šio įstatymo 12 straipsnio nuostatas dėl nuosavybės įregistravimo valstybės vardu. ^s-140318ae756450306ca37981
+3. Žemės paėmimo visuomenės poreikiams procedūros mutatis mutandis vykdomos šio įstatymo ketvirtajame skirsnyje nustatyta tvarka, išskyrus šio įstatymo [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-79d663021db9e3e469c89f83|9 straipsnio]] nuostatas dėl žemės paėmimo visuomenės poreikiams procedūros pradžios, momento, nuo kurio skaičiuojami informavimo terminai, ir šio įstatymo [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-ecf6489866e9648e8a96ac6c|12 straipsnio]] nuostatas dėl nuosavybės įregistravimo valstybės vardu. ^s-140318ae756450306ca37981
 
 
-4. Žemės paėmimo visuomenės poreikiams procedūros pradžia yra laikoma Vyriausybės nutarimo dėl karinės infrastruktūros projekto patvirtinimo įsigaliojimo data. Informavimo terminai, nurodyti šio įstatymo 9 straipsnyje, skaičiuojami nuo Vyriausybės nutarimo dėl karinės infrastruktūros projekto patvirtinimo įsigaliojimo dienos. ^s-b1f39b2b7ab5b4e8e541335f
+4. Žemės paėmimo visuomenės poreikiams procedūros pradžia yra laikoma Vyriausybės nutarimo dėl karinės infrastruktūros projekto patvirtinimo įsigaliojimo data. Informavimo terminai, nurodyti šio įstatymo [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-79d663021db9e3e469c89f83|9 straipsnyje]], skaičiuojami nuo Vyriausybės nutarimo dėl karinės infrastruktūros projekto patvirtinimo įsigaliojimo dienos. ^s-b1f39b2b7ab5b4e8e541335f
 
 
-5. Inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje projektą įgyvendinančioji institucija paimto visuomenės poreikiams žemės sklypo valstybės nuosavybės teisę ir Nacionalinės žemės tarnybos prie Aplinkos ministerijos (toliau – Nacionalinė žemės tarnyba) patikėjimo teisę į šį žemės sklypą įregistruoja Nekilnojamojo turto registre. Inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje projektą įgyvendinančioji institucija sprendimą dėl statinių ir (ar) įrenginių, esančių visuomenės poreikiams paimtame žemės sklype, patikėtinio paskyrimo priima ir atitinkamo subjekto patikėjimo teisę į statinius ir (ar) įrenginius, esančius visuomenės poreikiams paimtame žemės sklype, patikėtinį įregistruoja Nekilnojamojo turto registre Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 7 straipsnio 5 dalyje nustatyta tvarka. ^s-7981e0c1ef3b1ff44b19edec
+5. Inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje projektą įgyvendinančioji institucija paimto visuomenės poreikiams žemės sklypo valstybės nuosavybės teisę ir Nacionalinės žemės tarnybos prie Aplinkos ministerijos (toliau – Nacionalinė žemės tarnyba) patikėjimo teisę į šį žemės sklypą įregistruoja Nekilnojamojo turto registre. Inžinerinių statinių ir įrenginių statybos (įrengimo) ne poligono teritorijoje projektą įgyvendinančioji institucija sprendimą dėl statinių ir (ar) įrenginių, esančių visuomenės poreikiams paimtame žemės sklype, patikėtinio paskyrimo priima ir atitinkamo subjekto patikėjimo teisę į statinius ir (ar) įrenginius, esančius visuomenės poreikiams paimtame žemės sklype, patikėtinį įregistruoja Nekilnojamojo turto registre [[latest/TAR.057DCC40ECC6|Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 7 straipsnio 5 dalyje]] nustatyta tvarka. ^s-7981e0c1ef3b1ff44b19edec
 
 
 6. Poligono efektyvų naudojimą užtikrinančių inžinerinių statinių ir įrenginių statybos darbai (įrengimas) ne poligono teritorijoje gali būti pradedami vykdyti neturint statybą leidžiančio dokumento, tačiau [[latest/TAR.F31E79DEC55D|Statybos įstatymo]] nustatyta tvarka pranešus apie statybos pradžią. Statinių projektai gali būti rengiami vienu etapu, parengiant techninį darbo projektą. Visuomenė apie numatomą statinių ir jų dalių projektavimą, taip pat apie visuomenės dalyvavimą svarstant tokių statinių ir jų dalių projektinius pasiūlymus informuojama supaprastinta aplinkos ministro ir krašto apsaugos ministro nustatyta tvarka. ^s-f1715850405b9a330296e950
@@ -118,7 +118,7 @@ Papildyti Įstatymo trečiąjį skirsnį 81 straipsniu:
 ### 6 straipsnis. 10 straipsnio pakeitimas ^s-4bdb9b55bcdacbfa1235640c
 
 
-Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-3ef4e4da030bc998b4d0c136|10 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Projektą įgyvendinančioji institucija, gavusi turto vertinimo ataskaitą, kreipiasi į Nacionalinę žemės tarnybą su prašymu priimti sprendimą paimti žemę visuomenės poreikiams, kuriame nurodo visuomenės poreikiams paimamuose žemės sklypuose esančių statinių ir įrenginių savininkus, naudotojus ir patikėjimo teisės subjektus (patikėtinius). Jeigu visuomenės poreikiams paimamas žemės sklypas, jame esantys statiniai ir įrenginiai yra įkeisti, Projektą įgyvendinančioji institucija kartu su prašymu taip pat turi pateikti Projekto įgyvendinančiosios institucijos, turto savininko ir kreditoriaus susitarimą dėl nuostolių atlyginimo.“

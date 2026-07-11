@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos administracinių teismų įsteigimo įstatymo
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Administracinių bylų teisenos įstatymas
-- [[latest/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymas]] - 5 citatos - Teismų įstatymo
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Administracinių bylų teisenos įstatymas
+- [[latest/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymas]] - 3 citatos - Teismų įstatymo
 
 ## Šį įstatymą cituoja
 

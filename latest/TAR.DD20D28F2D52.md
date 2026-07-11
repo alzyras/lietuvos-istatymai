@@ -51,7 +51,7 @@ Pakeisti [[#^s-98f73263c7e299ca974665c4|2 straipsnio 1 dalį]] ir ją išdėstyt
 ### 2 straipsnis. 7 straipsnio pakeitimas ^s-79d980e4902ab3139112d153
 
 
-Pakeisti 7 straipsnio 2 ir [[#^s-1d537025eb9ae99ad719280d|3 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 7 straipsnio 2 ir 3 dalis ir visą straipsnį išdėstyti taip:
 
 
 
@@ -72,7 +72,7 @@ Pakeisti 7 straipsnio 2 ir [[#^s-1d537025eb9ae99ad719280d|3 dalis]] ir visą str
 ### 3 straipsnis. 11 straipsnio 1, 2 ir 8 dalių pakeitimas ir papildymas ^s-ad6e774cede4ae7f1eb5a12e
 
 
-1. Pakeisti 11 straipsnio 1 dalies 3 ir [[#^s-9a648215706e58b89a2b5a0d|4 punktus]], dalį papildyti 8 ir [[#^s-2961d1e3a7ae8e745bbaecad|9 punktais]] ir ją išdėstyti taip: ^s-7a106e3e619ad681c1f8de89
+1. Pakeisti 11 straipsnio 1 dalies 3 ir 4 punktus, dalį papildyti 8 ir 9 punktais ir ją išdėstyti taip: ^s-7a106e3e619ad681c1f8de89
 
 
 „1. Miško žemės pavertimo kitomis naudmenomis tvarką nustato Vyriausybė. Miško žemė gali būti paverčiama kitomis naudmenomis tik šiame įstatyme nustatytais išimtiniais atvejais:
@@ -120,7 +120,7 @@ Pakeisti 7 straipsnio 2 ir [[#^s-1d537025eb9ae99ad719280d|3 dalis]] ir visą str
 3) III grupės – draustinių miškuose ir valstybinių rezervatų apsaugos zonų miškuose, išskyrus [[#^s-7a106e3e619ad681c1f8de89|šio straipsnio 1 dalies]] 7 ir 9 punktuose nustatytus atvejus; ^s-8409ca25ed0c0f26f971fd30
 
 
-4) kituose miškuose, esančiuose vieno kilometro atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose miškuose ir III grupės vandens telkinių apsaugos zonų, laukų apsauginiuose ir valstybinių parkų apsaugos zonų miškuose, išskyrus [[#^s-7a106e3e619ad681c1f8de89|šio straipsnio 1 dalies]] 1, 2, [[#^s-8409ca25ed0c0f26f971fd30|3 punktuose]] nurodytus atvejus, jeigu atitinkamų objektų statyba ar plėtra numatyta [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo]] nustatyta tvarka parengtuose ir patvirtintuose bendruosiuose planuose ar ypatingos valstybinės svarbos projektų specialiuosiuose planuose ir numatomas miško žemės pavertimas kitomis naudmenomis neprieštarauja valstybinių parkų ar biosferos rezervatų teritorijų planavimo dokumentams ir biosferos poligonų nuostatams arba jeigu tai numatyta šių saugomų teritorijų planavimo dokumentuose. Šiame punkte nustatyti draudimai ir apribojimai netaikomi miško žemę paverčiant kitomis naudmenomis [[#^s-7a106e3e619ad681c1f8de89|šio straipsnio 1 dalies]] 7 ir 9 punktuose nustatytais atvejais.“ ^s-0bd19411cd42c3b45b3bc6b4
+4) kituose miškuose, esančiuose vieno kilometro atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose miškuose ir III grupės vandens telkinių apsaugos zonų, laukų apsauginiuose ir valstybinių parkų apsaugos zonų miškuose, išskyrus [[#^s-7a106e3e619ad681c1f8de89|šio straipsnio 1 dalies]] [[#^s-4ac935c0c3391ca7cbfa6491|1]], [[#^s-1923a862209c54e6be12d88b|2]], [[#^s-8409ca25ed0c0f26f971fd30|3]] punktuose nurodytus atvejus, jeigu atitinkamų objektų statyba ar plėtra numatyta [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo]] nustatyta tvarka parengtuose ir patvirtintuose bendruosiuose planuose ar ypatingos valstybinės svarbos projektų specialiuosiuose planuose ir numatomas miško žemės pavertimas kitomis naudmenomis neprieštarauja valstybinių parkų ar biosferos rezervatų teritorijų planavimo dokumentams ir biosferos poligonų nuostatams arba jeigu tai numatyta šių saugomų teritorijų planavimo dokumentuose. Šiame punkte nustatyti draudimai ir apribojimai netaikomi miško žemę paverčiant kitomis naudmenomis [[#^s-7a106e3e619ad681c1f8de89|šio straipsnio 1 dalies]] 7 ir 9 punktuose nustatytais atvejais.“ ^s-0bd19411cd42c3b45b3bc6b4
 
 
 3. Pakeisti 11 straipsnio 8 dalį ir ją išdėstyti taip: ^s-95713771ad0874079e9c7963

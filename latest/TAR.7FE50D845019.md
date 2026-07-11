@@ -136,10 +136,10 @@ BENDROSIOS NUOSTATOS
 2) įmonė, [[#^s-9776499de675a6b86839b030|šio straipsnio 5 dalyje]] nurodytais būdais dalyvaujanti kitoje įmonėje; ^s-6ea18eb76368cee5d706505d
 
 
-3) įmonė, nors ir nesusijusi šio straipsnio 62 ir [[#^s-3dd7146377f654e482a1efd4|63 dalyse]] nustatytais ryšiais su kita ar kitomis įmonėmis, tačiau valdoma bendrai remiantis su šiomis įmonėmis sudarytomis sutartimis arba steigimo sandoriuose ar įstatuose esamomis nuostatomis; ^s-5976086ec024b8528db9dca2
+3) įmonė, nors ir nesusijusi šio straipsnio [[#^s-c4ec03f1103c11466cccd529|62]] ir [[#^s-3dd7146377f654e482a1efd4|63]] dalyse nustatytais ryšiais su kita ar kitomis įmonėmis, tačiau valdoma bendrai remiantis su šiomis įmonėmis sudarytomis sutartimis arba steigimo sandoriuose ar įstatuose esamomis nuostatomis; ^s-5976086ec024b8528db9dca2
 
 
-4) įmonė, nors ir nesusijusi šio straipsnio 62 ir [[#^s-3dd7146377f654e482a1efd4|63 dalyse]] nustatytais ryšiais su kita ar kitomis įmonėmis, tačiau jos ir kitos ar kitų įmonių dauguma administravimo, valdymo ar priežiūros organų narių per finansinius metus ir iki konsoliduotųjų finansinių ataskaitų rinkinio sudarymo yra tie patys asmenys. ^s-2e214deaf5757089b90d7291
+4) įmonė, nors ir nesusijusi šio straipsnio [[#^s-c4ec03f1103c11466cccd529|62]] ir [[#^s-3dd7146377f654e482a1efd4|63]] dalyse nustatytais ryšiais su kita ar kitomis įmonėmis, tačiau jos ir kitos ar kitų įmonių dauguma administravimo, valdymo ar priežiūros organų narių per finansinius metus ir iki konsoliduotųjų finansinių ataskaitų rinkinio sudarymo yra tie patys asmenys. ^s-2e214deaf5757089b90d7291
 
 
 5. Dalyvavimas – tiesioginis ar netiesioginis 20 ar daugiau procentų visų balsavimo teisių įmonės aukščiausiojo organo susirinkime turėjimas arba 20 ar daugiau procentų įmonės akcinio (pajinio ir pan.) kapitalo valdymas, taip pat kitokia reali ilgalaikė galimybė būnant įmonės akcininku ar dalyviu arba turint kitų su akciniu (pajiniu ir pan.) kapitalu susijusių teisių daryti poveikį sprendimams dėl įmonės veiklos. Atliekant draudimo ir (ar) perdraudimo įmonių grupės priežiūrą dalyvavimu taip pat laikomas tiesioginis ar netiesioginis įmonės balsavimo teisių ar kapitalo dalies turėjimas, dėl kurio, draudimo priežiūros institucijos nuomone, tai įmonei daromas lemiamas poveikis. ^s-9776499de675a6b86839b030
@@ -253,7 +253,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 3) draudėjas ne ilgesniam kaip 4 mėnesių terminui sudarė draudimo sutartį dėl kelionės ar atostogų draudimo rizikų, nesvarbu, kuriai draudimo grupei priklausytų šios draudimo rizikos; ^s-0709f0f229919cb468021d11
 
 
-4) yra draudėjo įprastinė gyvenamoji vieta arba draudėjo buveinė, filialas ar atstovybė, dėl kurių sudaryta draudimo sutartis, tačiau tik visais kitais atvejais, neaptartais šios dalies 1, 2 ir [[#^s-0709f0f229919cb468021d11|3 punktuose]]. ^s-6ea39f527f707a42c9cfcbaf
+4) yra draudėjo įprastinė gyvenamoji vieta arba draudėjo buveinė, filialas ar atstovybė, dėl kurių sudaryta draudimo sutartis, tačiau tik visais kitais atvejais, neaptartais šios dalies [[#^s-6be1982cffb9d64b1c2ad46c|1]], [[#^s-ca96bab1a457e86427c30744|2]] ir [[#^s-0709f0f229919cb468021d11|3]] punktuose. ^s-6ea39f527f707a42c9cfcbaf
 
 
 36. Europos ekonominės erdvės valstybė, kurioje teikiamos paslaugos, – teikiant draudimo paslaugas – Europos ekonominės erdvės valstybė, kurioje yra draudimo rizika, ar įsipareigojimo pagal gyvybės draudimo sutartį Europos ekonominės erdvės valstybė, jei draudimo sutartį dėl šios rizikos ar įsipareigojimo sudaro ne šios Europos ekonominės erdvės valstybės draudimo įmonė, ne šioje Europos ekonominės erdvės valstybėje įsteigtas draudimo įmonės ar kitos Europos ekonominės erdvės valstybės draudimo įmonės filialas; teikiant perdraudimo, draudimo ar perdraudimo tarpininkavimo paslaugas – Europos ekonominės erdvės valstybė, kita nei buveinės valstybė, kurioje neįsteigus filialo vykdoma perdraudimo, draudimo ar perdraudimo tarpininkavimo veikla. ^s-fbdf99315004480293880979
@@ -298,7 +298,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 49. Kitos Europos ekonominės erdvės valstybės perdraudimo įmonė – įmonė, pagal kitos Europos ekonominės erdvės valstybės teisės aktus turinti teisę vykdyti perdraudimo veiklą. ^s-a50ee470c9a34335709f60a3
 
 
-50. Kontrolė – patronuojančiosios ir patronuojamosios įmonės santykiai, atitinkantys šio straipsnio 62 ir [[#^s-3dd7146377f654e482a1efd4|63 dalyse]] nustatytus kriterijus, arba analogiški fizinio ar juridinio asmens ir įmonės santykiai. Kontrolė gali būti tiesioginė arba netiesioginė. ^s-d9879b883efa99e4c91a126b
+50. Kontrolė – patronuojančiosios ir patronuojamosios įmonės santykiai, atitinkantys šio straipsnio [[#^s-c4ec03f1103c11466cccd529|62]] ir [[#^s-3dd7146377f654e482a1efd4|63]] dalyse nustatytus kriterijus, arba analogiški fizinio ar juridinio asmens ir įmonės santykiai. Kontrolė gali būti tiesioginė arba netiesioginė. ^s-d9879b883efa99e4c91a126b
 
 
 51. Kredito rizika – nuostolių arba nepalankių finansinės padėties pokyčių rizika dėl vertybinių popierių emitentų, sandorio šalių ir visų skolininkų, darančių poveikį draudimo ar perdraudimo įmonei, mokumo būklės pokyčių, pasireiškianti kaip sandorio šalies įsipareigojimų nevykdymo rizika, skirtumo rizika (angl. spread risk), rinkos rizikos koncentracija. ^s-bf297a6508b622e2d7c33fe4
@@ -352,7 +352,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 5) įmonė, kuriai, draudimo priežiūros institucijos nuomone, kita įmonė daro lemiamą poveikį; ^s-9c32e7e9cdc46e2fe3289a0e
 
 
-6) įmonė, kuri pagal šios dalies 1–[[#^s-9c32e7e9cdc46e2fe3289a0e|5 punktų]] kriterijus yra patronuojamosios įmonės patronuojamoji įmonė. Šiuo atveju ji laikoma patronuojančiosios įmonės, kurios patronuojamoji įmonė turi patronuojamąją įmonę, patronuojamąja įmone. ^s-0563834af727d04bbb4af9d1
+6) įmonė, kuri pagal šios dalies [[#^s-7c0da0415cdd80925119dcce|1]]–[[#^s-9c32e7e9cdc46e2fe3289a0e|5]] punktų kriterijus yra patronuojamosios įmonės patronuojamoji įmonė. Šiuo atveju ji laikoma patronuojančiosios įmonės, kurios patronuojamoji įmonė turi patronuojamąją įmonę, patronuojamąja įmone. ^s-0563834af727d04bbb4af9d1
 
 
 63. Patronuojančioji įmonė – įmonė, kuri atitinka bent vieną iš šių kriterijų: ^s-3dd7146377f654e482a1efd4
@@ -470,7 +470,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 3) Lietuvos Respublikoje įsteigti trečiųjų valstybių draudimo įmonių filialai, šio įstatymo nustatyta tvarka gavę leidimus filialo draudimo veiklai; ^s-8e3a0a97077f6384b4cf3754
 
 
-4) Pasaulio prekybos organizacijos narių, kurios yra trečiosios valstybės, draudimo įmonės, neįsteigusios filialo, tačiau tik šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] 5, 6, 11, 12 punktuose išvardytų draudimo grupių savanoriškojo draudimo bei laivais (jūrų ir vidaus vandenų) ir skraidymo aparatais vežamų krovinių savanoriškojo draudimo veiklą. Šiai veiklai mutatis mutandis taikomi šio įstatymo [[#^s-0908768f26974e392b3842ed|73 straipsnio 4 dalyje]] nurodyti apribojimai. ^s-f2e8afd561bdb53ec33b32e5
+4) Pasaulio prekybos organizacijos narių, kurios yra trečiosios valstybės, draudimo įmonės, neįsteigusios filialo, tačiau tik šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] [[#^s-0fe2882e502e00c24db91f98|5]], [[#^s-214bd221668162a3f544787d|6]], [[#^s-cfdd51713c532b0541c1d21e|11]], [[#^s-0a5899964180f34fa99353b0|12]] punktuose išvardytų draudimo grupių savanoriškojo draudimo bei laivais (jūrų ir vidaus vandenų) ir skraidymo aparatais vežamų krovinių savanoriškojo draudimo veiklą. Šiai veiklai mutatis mutandis taikomi šio įstatymo [[#^s-0908768f26974e392b3842ed|73 straipsnio 4 dalyje]] nurodyti apribojimai. ^s-f2e8afd561bdb53ec33b32e5
 
 
 2. [[#^s-f7a9952c618e796b8d2190f8|Šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodyti subjektai Lietuvos Respublikoje negali vykdyti jokios kitos ūkinės komercinės veiklos, išskyrus draudimo, perdraudimo ir su šia veikla susijusią veiklą: draudžiamųjų ir perdraudžiamųjų įvykių administravimą, draudimo ir perdraudimo tarpininkavimą, konsultavimą draudimo ir perdraudimo klausimais, tarpininkavimą sudarant pensijų kaupimo (išskyrus papildomą savanorišką kaupimą) sutartis, draudimo ir perdraudimo specialistų mokymą, kvalifikacijos kėlimą, nekilnojamojo turto nuomą ir draudžiamo turto vertinimą. ^s-e216e0e20ade97da2d3a8d0f
@@ -486,7 +486,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 ### 4 straipsnis. Perdraudimo veikla ^s-bb125225f12dca5a88cc58e7
 
 
-1. Lietuvos Respublikoje perdraudimo veiklą turi teisę vykdyti tik šio įstatymo [[#^s-f7a9952c618e796b8d2190f8|3 straipsnio 1 dalies]] 1, 2 ir [[#^s-429031053449d1f64a2cf780|3 punktuose]] nurodyti subjektai ir: ^s-9281ab691270a6e1f4a20ae0
+1. Lietuvos Respublikoje perdraudimo veiklą turi teisę vykdyti tik šio įstatymo [[#^s-f7a9952c618e796b8d2190f8|3 straipsnio 1 dalies]] [[#^s-74450731596de1308bffea4d|1]], [[#^s-06606885397b9c97bea8131b|2]] ir [[#^s-8e3a0a97077f6384b4cf3754|3]] punktuose nurodyti subjektai ir: ^s-9281ab691270a6e1f4a20ae0
 
 
 1) Lietuvos Respublikos įstatymų nustatyta tvarka įsteigtos perdraudimo įmonės: akcinės bendrovės, uždarosios akcinės bendrovės, arba Europos bendrovės (Societas Europaea), šio įstatymo nustatyta tvarka gavusios perdraudimo veiklos licenciją; ^s-f12e19d8cf71b0b2f5083c7f
@@ -520,7 +520,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 4) trečiųjų valstybių draudimo tarpininkų filialai, įsteigti Lietuvos Respublikoje. ^s-046280214063946759fd3476
 
 
-2. Lietuvos Respublikoje perdraudimo tarpininkavimo veiklą turi teisę vykdyti tik šio įstatymo [[#^s-f7a9952c618e796b8d2190f8|3 straipsnio 1 dalies]] 1, 2 ir 3 punktuose ir 4 straipsnyje nurodyti subjektai ir: ^s-4e354d848aca5031e05bbf01
+2. Lietuvos Respublikoje perdraudimo tarpininkavimo veiklą turi teisę vykdyti tik šio įstatymo [[#^s-f7a9952c618e796b8d2190f8|3 straipsnio 1 dalies]] [[#^s-74450731596de1308bffea4d|1]], [[#^s-06606885397b9c97bea8131b|2]] ir [[#^s-8e3a0a97077f6384b4cf3754|3]] punktuose ir 4 straipsnyje nurodyti subjektai ir: ^s-4e354d848aca5031e05bbf01
 
 
 1) draudimo brokerių įmonės; ^s-dd471a24cca3cdeb00aba5b1
@@ -558,7 +558,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 2. Gyvybės draudimo šakai priskiriamos šios draudimo grupės: ^s-1c4d00a830b1b8c1af7aef5b
 
 
-1) gyvybės draudimas, kiek nenumatyta šios dalies 2–[[#^s-65e6ea3c8c7051dcb5227bf4|5 punktuose]]; ^s-d2db157431f9deed17edf6a5
+1) gyvybės draudimas, kiek nenumatyta šios dalies [[#^s-a1b19a1d1e8d6b5c7b08cbc7|2]]–[[#^s-65e6ea3c8c7051dcb5227bf4|5]] punktuose; ^s-d2db157431f9deed17edf6a5
 
 
 2) sutuoktuvių ir gimimų draudimas; ^s-a1b19a1d1e8d6b5c7b08cbc7
@@ -597,7 +597,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 7) vežamų krovinių draudimas; ^s-c08e6d6b429a811f709cd019
 
 
-8) turto (išskyrus šios dalies 3–[[#^s-c08e6d6b429a811f709cd019|7 punktus]]) draudimas nuo gaisro ar gamtinių jėgų; ^s-b65b9caf03016c239b211ded
+8) turto (išskyrus šios dalies [[#^s-d1507d65dc43bd319bb343c6|3]]–[[#^s-c08e6d6b429a811f709cd019|7]] punktus) draudimas nuo gaisro ar gamtinių jėgų; ^s-b65b9caf03016c239b211ded
 
 
 9) turto draudimas nuo kitų rizikų (išskyrus [[#^s-b65b9caf03016c239b211ded|šios dalies 8 punktą]]); ^s-1e8c0b8009b368e401aa83b6
@@ -633,19 +633,19 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 4. Kai draudimo veiklos licencija ar leidimas trečiosios valstybės draudimo įmonės filialo veiklai suteikia teisę vykdyti: ^s-1b2a03f9ca1633b3684c7f05
 
 
-1) draudimo grupių, nurodytų [[#^s-9a04b140295744186825f1ce|šio straipsnio 3 dalies]] 1 ir [[#^s-2a255447c1265e3fab273911|2 punktuose]], veiklą, ši veikla vadinama draudimu nuo nelaimingų atsitikimų ir ligų (sveikatos draudimu); ^s-de3b435fda50a8dd9982b7be
+1) draudimo grupių, nurodytų [[#^s-9a04b140295744186825f1ce|šio straipsnio 3 dalies]] 1 ir [[#^s-2a255447c1265e3fab273911|2]] punktuose, veiklą, ši veikla vadinama draudimu nuo nelaimingų atsitikimų ir ligų (sveikatos draudimu); ^s-de3b435fda50a8dd9982b7be
 
 
-2) draudimo grupei, nurodytai [[#^s-c660ccddf08f74291dc2d90a|šio straipsnio 3 dalies 1 punkte]], priklausantį keleivių sužalojimo rizikos draudimą bei [[#^s-9a04b140295744186825f1ce|šio straipsnio 3 dalies]] 3, 7 ir 10 punktuose nurodytų grupių veiklą, ši veikla vadinama motoriniu draudimu; ^s-2a255447c1265e3fab273911
+2) draudimo grupei, nurodytai [[#^s-c660ccddf08f74291dc2d90a|šio straipsnio 3 dalies 1 punkte]], priklausantį keleivių sužalojimo rizikos draudimą bei [[#^s-9a04b140295744186825f1ce|šio straipsnio 3 dalies]] [[#^s-ec3878f14c7739d6f56160ee|3]], [[#^s-6162f7f28e05db3d7387b1b9|7]] ir 10 punktuose nurodytų grupių veiklą, ši veikla vadinama motoriniu draudimu; ^s-2a255447c1265e3fab273911
 
 
-3) draudimo grupei, nurodytai [[#^s-c660ccddf08f74291dc2d90a|šio straipsnio 3 dalies 1 punkte]], priklausantį keleivių sužalojimo rizikos draudimą bei [[#^s-9a04b140295744186825f1ce|šio straipsnio 3 dalies]] 4, 6, 7 ir 12 punktuose nurodytų grupių veiklą, ši veikla vadinama jūriniu ir transporto draudimu; ^s-ec3878f14c7739d6f56160ee
+3) draudimo grupei, nurodytai [[#^s-c660ccddf08f74291dc2d90a|šio straipsnio 3 dalies 1 punkte]], priklausantį keleivių sužalojimo rizikos draudimą bei [[#^s-9a04b140295744186825f1ce|šio straipsnio 3 dalies]] [[#^s-4dfc539b8f789b0930fedd5e|4]], [[#^s-41cf9ef016e81eee95fcb18b|6]], [[#^s-6162f7f28e05db3d7387b1b9|7]] ir 12 punktuose nurodytų grupių veiklą, ši veikla vadinama jūriniu ir transporto draudimu; ^s-ec3878f14c7739d6f56160ee
 
 
-4) draudimo grupei, nurodytai [[#^s-c660ccddf08f74291dc2d90a|šio straipsnio 3 dalies 1 punkte]], priklausantį keleivių sužalojimo rizikos draudimą bei [[#^s-9a04b140295744186825f1ce|šio straipsnio 3 dalies]] 5, 7 ir 11 punktuose nurodytų grupių veiklą, ši veikla vadinama aviacijos draudimu; ^s-4dfc539b8f789b0930fedd5e
+4) draudimo grupei, nurodytai [[#^s-c660ccddf08f74291dc2d90a|šio straipsnio 3 dalies 1 punkte]], priklausantį keleivių sužalojimo rizikos draudimą bei [[#^s-9a04b140295744186825f1ce|šio straipsnio 3 dalies]] [[#^s-709f1f35247baff5d0391c33|5]], [[#^s-6162f7f28e05db3d7387b1b9|7]] ir 11 punktuose nurodytų grupių veiklą, ši veikla vadinama aviacijos draudimu; ^s-4dfc539b8f789b0930fedd5e
 
 
-5) draudimo grupių, nurodytų [[#^s-9a04b140295744186825f1ce|šio straipsnio 3 dalies]] 8 ir 9 punktuose, veiklą, ši veikla vadinama turto draudimu nuo gaisro ir kitokio turto sugadinimo (sunaikinimo); ^s-709f1f35247baff5d0391c33
+5) draudimo grupių, nurodytų [[#^s-9a04b140295744186825f1ce|šio straipsnio 3 dalies]] [[#^s-041e8cfd2b591e73500453d3|8]] ir 9 punktuose, veiklą, ši veikla vadinama turto draudimu nuo gaisro ir kitokio turto sugadinimo (sunaikinimo); ^s-709f1f35247baff5d0391c33
 
 
 6) draudimo grupių, nurodytų [[#^s-9a04b140295744186825f1ce|šio straipsnio 3 dalies]] 10–13 punktuose, veiklą, ši veikla vadinama civilinės atsakomybės draudimu; ^s-41cf9ef016e81eee95fcb18b
@@ -664,16 +664,16 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 ### 8 straipsnis. Gyvybės draudimo ir ne gyvybės draudimo veiklos Lietuvos Respublikoje atskyrimas ^s-c76c46201efc4352dca8228d
 
 
-1. Nė vienas šio įstatymo [[#^s-f7a9952c618e796b8d2190f8|3 straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytas subjektas neturi teisės kartu vykdyti ir gyvybės, ir ne gyvybės draudimo veiklos, išskyrus [[#^s-2cf7578adbf2129568340637|šio straipsnio 2 dalyje]] ir šio įstatymo [[#^s-7b17870a37616458b1d2aeaf|221 straipsnyje]] nustatytas išimtis bei atvejus, kai kitos Europos ekonominės erdvės valstybės teisės aktai suteikia teisę kitos Europos ekonominės erdvės valstybės draudimo įmonei vykdyti ir gyvybės draudimo, ir ne gyvybės draudimo veiklą. ^s-42c7ca9bb4491da0d6c60e02
+1. Nė vienas šio įstatymo [[#^s-f7a9952c618e796b8d2190f8|3 straipsnio 1 dalies]] [[#^s-74450731596de1308bffea4d|1]], [[#^s-06606885397b9c97bea8131b|2]] ir [[#^s-8e3a0a97077f6384b4cf3754|3]] punktuose nurodytas subjektas neturi teisės kartu vykdyti ir gyvybės, ir ne gyvybės draudimo veiklos, išskyrus [[#^s-2cf7578adbf2129568340637|šio straipsnio 2 dalyje]] ir šio įstatymo [[#^s-7b17870a37616458b1d2aeaf|221 straipsnyje]] nustatytas išimtis bei atvejus, kai kitos Europos ekonominės erdvės valstybės teisės aktai suteikia teisę kitos Europos ekonominės erdvės valstybės draudimo įmonei vykdyti ir gyvybės draudimo, ir ne gyvybės draudimo veiklą. ^s-42c7ca9bb4491da0d6c60e02
 
 
-2. Šio įstatymo [[#^s-f7a9952c618e796b8d2190f8|3 straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodyti subjektai, vykdantys gyvybės draudimo veiklą, taip pat turi teisę teisės aktų nustatyta tvarka vykdyti tik šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] 1 ir 2 punktuose nurodytų ne gyvybės draudimo šakos draudimo grupių veiklą. ^s-2cf7578adbf2129568340637
+2. Šio įstatymo [[#^s-f7a9952c618e796b8d2190f8|3 straipsnio 1 dalies]] [[#^s-74450731596de1308bffea4d|1]], [[#^s-06606885397b9c97bea8131b|2]] ir [[#^s-8e3a0a97077f6384b4cf3754|3]] punktuose nurodyti subjektai, vykdantys gyvybės draudimo veiklą, taip pat turi teisę teisės aktų nustatyta tvarka vykdyti tik šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] [[#^s-c660ccddf08f74291dc2d90a|1]] ir [[#^s-1b4360a1a88cae155c14d0b0|2]] punktuose nurodytų ne gyvybės draudimo šakos draudimo grupių veiklą. ^s-2cf7578adbf2129568340637
 
 
-3. Šio įstatymo [[#^s-f7a9952c618e796b8d2190f8|3 straipsnio 1 dalies]] 1 ir 3 punktuose nurodyti subjektai, vykdantys tik šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] 1 ir 2 punktuose nurodytų ne gyvybės draudimo šakos draudimo grupių veiklą, turi teisę kreiptis dėl gyvybės draudimo veiklos licencijos išdavimo. ^s-f3c4cb4cfcc16a449c293fe0
+3. Šio įstatymo [[#^s-f7a9952c618e796b8d2190f8|3 straipsnio 1 dalies]] [[#^s-74450731596de1308bffea4d|1]] ir [[#^s-8e3a0a97077f6384b4cf3754|3]] punktuose nurodyti subjektai, vykdantys tik šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] [[#^s-c660ccddf08f74291dc2d90a|1]] ir [[#^s-1b4360a1a88cae155c14d0b0|2]] punktuose nurodytų ne gyvybės draudimo šakos draudimo grupių veiklą, turi teisę kreiptis dėl gyvybės draudimo veiklos licencijos išdavimo. ^s-f3c4cb4cfcc16a449c293fe0
 
 
-4. Draudimo įmonės ir trečiųjų valstybių draudimo įmonių filialai privalo vadovautis gyvybės draudimo veiklos ir šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] 1 ir 2 punktuose nurodytų ne gyvybės draudimo grupių veiklos atskiro valdymo reikalavimais, patvirtintais priežiūros institucijos. ^s-f8f760e406a53826a40b00bd
+4. Draudimo įmonės ir trečiųjų valstybių draudimo įmonių filialai privalo vadovautis gyvybės draudimo veiklos ir šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] [[#^s-c660ccddf08f74291dc2d90a|1]] ir [[#^s-1b4360a1a88cae155c14d0b0|2]] punktuose nurodytų ne gyvybės draudimo grupių veiklos atskiro valdymo reikalavimais, patvirtintais priežiūros institucijos. ^s-f8f760e406a53826a40b00bd
 
 
 
@@ -692,7 +692,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 3) nuo papildomos draudimo rizikos draudžiama ta pačia draudimo sutartimi kaip ir nuo pagrindinės draudimo rizikos. ^s-4b46f1977a714d52b012a5ab
 
 
-2. Šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] 14, 15 ir 17 punktuose nurodytų draudimo grupių rizikos negali būti laikomos papildomomis kitų draudimo grupių draudimo rizikų atžvilgiu, išskyrus šio straipsnio 3 ir [[#^s-10db31ebf3156f4a3bacc876|4 dalyse]] nustatytus atvejus. ^s-f762820987a7bfc852ac9c97
+2. Šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] [[#^s-67f29e38df7b332acf537a2c|14]], [[#^s-bc3f29d0a6dbd42250dc008a|15]] ir [[#^s-e4de400139a6f651d35e48f0|17]] punktuose nurodytų draudimo grupių rizikos negali būti laikomos papildomomis kitų draudimo grupių draudimo rizikų atžvilgiu, išskyrus šio straipsnio [[#^s-1b208fa3a04e540376d6005e|3]] ir [[#^s-10db31ebf3156f4a3bacc876|4]] dalyse nustatytus atvejus. ^s-f762820987a7bfc852ac9c97
 
 
 3. Draudimo rizika, priklausanti šio įstatymo [[#^s-e4de400139a6f651d35e48f0|7 straipsnio 3 dalies 17 punkte]] nurodytai draudimo grupei, gali būti laikoma papildoma šio įstatymo [[#^s-8f3e64aa68f7aa53d2a98eb5|7 straipsnio 3 dalies 18 punkte]] nurodytos draudimo grupės draudimo rizikų atžvilgiu tik tuo atveju, kai yra įvykdytos [[#^s-022b27a4d324cfb207fa6d0b|šio straipsnio 1 dalyje]] nurodytos sąlygos ir kai pagrindinė draudimo rizika išimtinai yra susijusi su pagalbos teikimu asmenims, patiriantiems sunkumų kelionėje, išvykus iš namų ar iš įprastinės gyvenamosios vietos. ^s-1b208fa3a04e540376d6005e
@@ -708,13 +708,13 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 1. Draudimo rizika yra laikoma didele, kai ji priklauso: ^s-1993939311c2681f24ee9892
 
 
-1) šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] 4–7, 11 ir 12 punktuose nurodytoms draudimo grupėms; ^s-cfc8fd27b662d376d9a462a6
+1) šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] [[#^s-652f59bc706f89546a8eb2fb|4]]–[[#^s-c08e6d6b429a811f709cd019|7]], [[#^s-cfdd51713c532b0541c1d21e|11]] ir [[#^s-0a5899964180f34fa99353b0|12]] punktuose nurodytoms draudimo grupėms; ^s-cfc8fd27b662d376d9a462a6
 
 
-2) šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] 14 ir 15 punktuose nurodytoms draudimo grupėms, kai draudėjas vykdo ūkinę komercinę veiklą ar verčiasi savarankiška profesine veikla ir draudimo rizikos yra susijusios su šia veikla. ^s-b05289c40595f596b4d56a60
+2) šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] [[#^s-67f29e38df7b332acf537a2c|14]] ir [[#^s-bc3f29d0a6dbd42250dc008a|15]] punktuose nurodytoms draudimo grupėms, kai draudėjas vykdo ūkinę komercinę veiklą ar verčiasi savarankiška profesine veikla ir draudimo rizikos yra susijusios su šia veikla. ^s-b05289c40595f596b4d56a60
 
 
-2. Draudimo rizika taip pat laikoma didele, kai ji priklauso šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] 3, 8, 9, 10, 13 ir 16 punktuose nurodytoms draudimo grupėms ir šios rizikos draudėjas viršija mažiausiai du šiuos dydžius: ^s-bec15309ef24f4ef8cb1f6bc
+2. Draudimo rizika taip pat laikoma didele, kai ji priklauso šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] [[#^s-d1507d65dc43bd319bb343c6|3]], [[#^s-b65b9caf03016c239b211ded|8]], [[#^s-1e8c0b8009b368e401aa83b6|9]], [[#^s-2eaef3898f189584dc418521|10]], [[#^s-df5a54b700f988eba87def12|13]] ir [[#^s-2fc329417addafbb1c0cc765|16]] punktuose nurodytoms draudimo grupėms ir šios rizikos draudėjas viršija mažiausiai du šiuos dydžius: ^s-bec15309ef24f4ef8cb1f6bc
 
 
 1) draudėjo balanse nurodyto turto vertė yra ne mažesnė kaip 6 200 000 eurų; ^s-365e4787b9b36ad737e96634
@@ -763,7 +763,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 3. Šiame įstatyme numatyti subjektai, vertindami fizinio asmens kvalifikaciją ir patirtį, privalo atsižvelgti į asmens išsilavinimą, eitas pareigas, darbo stažą ir kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. ^s-854db57c9e5f6d6e8c15b7ce
 
 
-4. Kai nepriekaištingą reputaciją, kvalifikaciją ar patirtį vertina priežiūros institucija, duomenys apie asmens nepriekaištingą reputaciją, kvalifikaciją ar patirtį pateikiami priežiūros institucijos nustatytos formos anketose. Prireikus patikrinti anketose nurodytus duomenis, priežiūros institucija turi teisę pareikalauti, kad asmuo pateiktų papildomus dokumentus ir informaciją, reikšmingą nepriekaištingai reputacijai, kvalifikacijai ir patirčiai įvertinti, ir dėl informacijos pateikimo kreiptis į šio įstatymo [[#^s-09e08c397a8243039817f73d|203 straipsnyje]] nurodytus asmenis. Priežiūros institucija nustato dokumentų, kurie pateikiami reputacijai, kvalifikacijai ir patirčiai vertinti, reikalavimus. ^s-dee58482d048ebf1223fe441
+4. Kai nepriekaištingą reputaciją, kvalifikaciją ar patirtį vertina priežiūros institucija, duomenys apie asmens nepriekaištingą reputaciją, kvalifikaciją ar patirtį pateikiami priežiūros institucijos nustatytos formos anketose. Prireikus patikrinti anketose nurodytus duomenis, priežiūros institucija turi teisę pareikalauti, kad asmuo pateiktų papildomus dokumentus ir informaciją, reikšmingą nepriekaištingai reputacijai, kvalifikacijai ir patirčiai įvertinti, ir dėl informacijos pateikimo kreiptis į šio įstatymo 203 straipsnyje nurodytus asmenis. Priežiūros institucija nustato dokumentų, kurie pateikiami reputacijai, kvalifikacijai ir patirčiai vertinti, reikalavimus. ^s-dee58482d048ebf1223fe441
 
 
 
@@ -976,7 +976,7 @@ DRAUDIMO IR PERDRAUDIMO VEIKLOS LICENCIJA
 11) draudimo ar perdraudimo įmonės priežiūros ir valdymo organų nariai, asmenys, atliekantys rizikos valdymo, aktuarinę, vidaus audito ir atitikties vertinimo funkcijas, eina pareigas, kurias eiti draudžia šis ir kiti įstatymai; ^s-20d20e8bbc2c6964e154c154
 
 
-12) neįvykdyti šio įstatymo [[#^s-dc81e60601dc4263ebb573d0|15 straipsnio 2 dalies]] 3, 4 ir [[#^s-8de91925dd439c1b639c8b07|5 punktuose]] nustatyti reikalavimai arba minimalaus kapitalo pinigų gavimo šaltinis yra neteisėtas. ^s-4a8c2e987eedf84413b55413
+12) neįvykdyti šio įstatymo [[#^s-dc81e60601dc4263ebb573d0|15 straipsnio 2 dalies]] [[#^s-550623088da03c2842cba4b6|3]], [[#^s-ef1ab94a94ecbcb8c6cd13eb|4]] ir [[#^s-38a37259f0ecdae27aca9aa6|5]] punktuose nustatyti reikalavimai arba minimalaus kapitalo pinigų gavimo šaltinis yra neteisėtas. ^s-4a8c2e987eedf84413b55413
 
 
 3. Priežiūros institucija neturi teisės atsisakyti išduoti veiklos licenciją atsižvelgdama į ekonominius rinkos poreikius. ^s-98955df537dcd044178b7b5d
@@ -1019,7 +1019,7 @@ DRAUDIMO IR PERDRAUDIMO VEIKLOS LICENCIJA
 3) kontroliuojama to paties asmens, kuris kontroliuoja kitos Europos ekonominės erdvės valstybės kredito įstaigą ar finansų maklerio įmonę. ^s-aafb882ed2f0c70cb4c94fcf
 
 
-3. Priežiūros institucija, vertindama draudimo ar perdraudimo įmonę kontroliuojančių asmenų nepriekaištingą reputaciją, priežiūros ir valdymo organų narių, kitų vadovaujamąsias pareigas einančių asmenų ir asmenų, atsakingų už rizikos valdymo, aktuarinę, atitikties vertinimo ir vidaus audito funkcijas, nepriekaištingą reputaciją, kvalifikaciją ir patirtį, konsultuojasi su šio straipsnio 1 ir [[#^s-9963fe72ac9e04ecc68ecbbd|2 dalyse]] nurodytomis institucijomis dėl aplinkybių, reikšmingų nepriekaištingos reputacijos, kvalifikacijos ir patirties vertinimui, ir privalo teikti kitoms institucijoms informaciją apie šiuos asmenis, reikšmingą minėtų institucijų atliekamoms funkcijoms. ^s-d90a283d36bdfe543f631e21
+3. Priežiūros institucija, vertindama draudimo ar perdraudimo įmonę kontroliuojančių asmenų nepriekaištingą reputaciją, priežiūros ir valdymo organų narių, kitų vadovaujamąsias pareigas einančių asmenų ir asmenų, atsakingų už rizikos valdymo, aktuarinę, atitikties vertinimo ir vidaus audito funkcijas, nepriekaištingą reputaciją, kvalifikaciją ir patirtį, konsultuojasi su šio straipsnio [[#^s-9a80f02412295fcceb2466c4|1]] ir [[#^s-9963fe72ac9e04ecc68ecbbd|2]] dalyse nurodytomis institucijomis dėl aplinkybių, reikšmingų nepriekaištingos reputacijos, kvalifikacijos ir patirties vertinimui, ir privalo teikti kitoms institucijoms informaciją apie šiuos asmenis, reikšmingą minėtų institucijų atliekamoms funkcijoms. ^s-d90a283d36bdfe543f631e21
 
 
 
@@ -1033,16 +1033,16 @@ Apie informacijos, nurodytos priežiūros institucijai pateiktuose dokumentuose 
 ### 19 straipsnis. Veiklos licencijos pakeitimas ^s-0a2823a401e652b1d7d1365d
 
 
-1. Draudimo įmonė, ketinanti vykdyti dar kitos ar kitų tai pačiai draudimo šakai priklausančių draudimo grupių draudimo veiklą arba išplėsti vykdomą draudimo veiklą iki visų tos pačios draudimo grupės rizikų draudimo, privalo priežiūros institucijai pateikti šio įstatymo [[#^s-c395abb5979dd67acd8611c0|15 straipsnio 2 dalies 2 punkte]] nurodytą verslo planą, be to, ji turi pateikti dokumentus, kuriais įrodoma, kad draudimo įmonė turi tinkamų nuosavų lėšų šio įstatymo 37 ir [[#^s-73ee8420c4e305b4364eaa77|40 straipsniuose]] nustatytiems mokumo kapitalo reikalavimui ir minimalaus kapitalo reikalavimui padengti. ^s-54cc19e216f8e215c3645609
+1. Draudimo įmonė, ketinanti vykdyti dar kitos ar kitų tai pačiai draudimo šakai priklausančių draudimo grupių draudimo veiklą arba išplėsti vykdomą draudimo veiklą iki visų tos pačios draudimo grupės rizikų draudimo, privalo priežiūros institucijai pateikti šio įstatymo [[#^s-c395abb5979dd67acd8611c0|15 straipsnio 2 dalies 2 punkte]] nurodytą verslo planą, be to, ji turi pateikti dokumentus, kuriais įrodoma, kad draudimo įmonė turi tinkamų nuosavų lėšų šio įstatymo [[#^s-eac8c7a94812157660f379ce|37]] ir [[#^s-73ee8420c4e305b4364eaa77|40]] straipsniuose nustatytiems mokumo kapitalo reikalavimui ir minimalaus kapitalo reikalavimui padengti. ^s-54cc19e216f8e215c3645609
 
 
-2. Gyvybės draudimo veiklą vykdanti draudimo įmonė, ketinanti vykdyti ne gyvybės draudimo šakai priklausančių šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] 1 ir 2 punktuose nurodytų draudimo grupių draudimo veiklą, arba šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] 1 ir 2 punktuose nurodytų ne gyvybės draudimo grupių veiklą vykdanti draudimo įmonė, ketinanti vykdyti gyvybės draudimo šakai priklausančių šio įstatymo [[#^s-1c4d00a830b1b8c1af7aef5b|7 straipsnio 2 dalyje]] nurodytų draudimo grupių veiklą, privalo priežiūros institucijai pateikti dokumentus, kuriais įrodoma, kad draudimo įmonės tinkamos pagrindinės nuosavos lėšos minimalaus kapitalo reikalavimui padengti atitinka gyvybės draudimo įmonių minimalaus kapitalo reikalavimo absoliučią mažiausiąją ribą ir ne gyvybės draudimo įmonių minimalaus kapitalo reikalavimo absoliučią mažiausiąją ribą, kaip nurodyta šio įstatymo [[#^s-38d1b7528a5c58d223149edd|40 straipsnio 4 dalies 5 punkte]], ir įsipareigoja ir toliau vykdyti šiuos minimalius finansinius įsipareigojimus. ^s-cc001ed847e2cd6170d90d43
+2. Gyvybės draudimo veiklą vykdanti draudimo įmonė, ketinanti vykdyti ne gyvybės draudimo šakai priklausančių šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] [[#^s-c660ccddf08f74291dc2d90a|1]] ir [[#^s-1b4360a1a88cae155c14d0b0|2]] punktuose nurodytų draudimo grupių draudimo veiklą, arba šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] [[#^s-c660ccddf08f74291dc2d90a|1]] ir [[#^s-1b4360a1a88cae155c14d0b0|2]] punktuose nurodytų ne gyvybės draudimo grupių veiklą vykdanti draudimo įmonė, ketinanti vykdyti gyvybės draudimo šakai priklausančių šio įstatymo [[#^s-1c4d00a830b1b8c1af7aef5b|7 straipsnio 2 dalyje]] nurodytų draudimo grupių veiklą, privalo priežiūros institucijai pateikti dokumentus, kuriais įrodoma, kad draudimo įmonės tinkamos pagrindinės nuosavos lėšos minimalaus kapitalo reikalavimui padengti atitinka gyvybės draudimo įmonių minimalaus kapitalo reikalavimo absoliučią mažiausiąją ribą ir ne gyvybės draudimo įmonių minimalaus kapitalo reikalavimo absoliučią mažiausiąją ribą, kaip nurodyta šio įstatymo [[#^s-38d1b7528a5c58d223149edd|40 straipsnio 4 dalies 5 punkte]], ir įsipareigoja ir toliau vykdyti šiuos minimalius finansinius įsipareigojimus. ^s-cc001ed847e2cd6170d90d43
 Straipsnio dalies pakeitimai:
 Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
-3. Draudimo įmonė 1 ir [[#^s-cc001ed847e2cd6170d90d43|2 dalyse]] nurodytais atvejais, taip pat ketindama atsisakyti visos draudimo grupės ar dalies draudimo grupės rizikų draudimo veiklos privalo priežiūros institucijos patvirtintose licencijavimo taisyklėse nustatyta tvarka kreiptis į priežiūros instituciją dėl draudimo veiklos licencijos pakeitimo. ^s-4c8013640f173015a8019293
+3. Draudimo įmonė [[#^s-54cc19e216f8e215c3645609|1]] ir [[#^s-cc001ed847e2cd6170d90d43|2]] dalyse nurodytais atvejais, taip pat ketindama atsisakyti visos draudimo grupės ar dalies draudimo grupės rizikų draudimo veiklos privalo priežiūros institucijos patvirtintose licencijavimo taisyklėse nustatyta tvarka kreiptis į priežiūros instituciją dėl draudimo veiklos licencijos pakeitimo. ^s-4c8013640f173015a8019293
 
 
 4. Perdraudimo įmonė, ketinanti vykdyti kitai draudimo šakai priklausančių draudimo grupių draudimo sutarčių perdraudimo veiklą arba atsisakyti dalies rizikų perdraudimo veiklos, privalo priežiūros institucijos patvirtintose licencijavimo taisyklėse nustatyta tvarka kreiptis į priežiūros instituciją dėl perdraudimo veiklos licencijos pakeitimo. ^s-d933f8af0585a3125ffe0616
@@ -1193,7 +1193,7 @@ DRAUDIMO IR PERDRAUDIMO ĮMONĖS VALDYMAS
 2) įsigyjantis asmuo ar siūlomas įsigijimas įvertinamas kaip netinkamas ar finansiškai nepatikimas pagal [[#^s-18696dc8cbd389d96fde9d0e|šio straipsnio 8 dalyje]] nustatytus kriterijus. ^s-d556c90974af5efdccca41c5
 
 
-10. Jeigu, baigusi įsigyjančio asmens ir siūlomo įsigijimo vertinimą, priežiūros institucija priima sprendimą prieštarauti siūlomam įsigijimui, apie tai ji per 2 darbo dienas ir neviršydama vertinimo laikotarpio raštu praneša įsigyjančiam asmeniui, nurodydama sprendimo motyvus. Be to, sprendime nurodomos visos po konsultacijų pagal šio straipsnio 14 ir [[#^s-5c91accb6f6e2c47a9b242ca|15 dalis]] gautos kitų Europos ekonominės erdvės valstybių priežiūros institucijų, prižiūrinčių atitinkamą finansų sektorių, nuomonės ir išlygos. Priežiūros institucija įsigyjančio asmens prašymu ar savo iniciatyva informaciją apie sprendimo prieštarauti siūlomam įsigijimui priėmimo motyvus ir patį sprendimą turi teisę paskelbti viešai priežiūros institucijos interneto svetainėje. ^s-825a172b2d048510d853fd79
+10. Jeigu, baigusi įsigyjančio asmens ir siūlomo įsigijimo vertinimą, priežiūros institucija priima sprendimą prieštarauti siūlomam įsigijimui, apie tai ji per 2 darbo dienas ir neviršydama vertinimo laikotarpio raštu praneša įsigyjančiam asmeniui, nurodydama sprendimo motyvus. Be to, sprendime nurodomos visos po konsultacijų pagal šio straipsnio [[#^s-50f6d064192bc4e8e3256a37|14]] ir [[#^s-5c91accb6f6e2c47a9b242ca|15]] dalis gautos kitų Europos ekonominės erdvės valstybių priežiūros institucijų, prižiūrinčių atitinkamą finansų sektorių, nuomonės ir išlygos. Priežiūros institucija įsigyjančio asmens prašymu ar savo iniciatyva informaciją apie sprendimo prieštarauti siūlomam įsigijimui priėmimo motyvus ir patį sprendimą turi teisę paskelbti viešai priežiūros institucijos interneto svetainėje. ^s-825a172b2d048510d853fd79
 
 
 11. Jeigu priežiūros institucija nepasibaigus vertinimo laikotarpiui priima sprendimą neprieštarauti siūlomam įsigijimui, apie tai ji per 2 darbo dienas privalo raštu pranešti įsigyjančiam asmeniui. Jeigu priežiūros institucija per vertinimo laikotarpį nepriima sprendimo prieštarauti siūlomam įsigijimui, laikoma, kad ji siūlomam įsigijimui neprieštarauja. ^s-0258d3ab62ced6edd35c63a7
@@ -1337,7 +1337,7 @@ DRAUDIMO IR PERDRAUDIMO ĮMONĖS VALDYMAS
 9. Kai taikoma svyravimų korekcija, rašytinės rizikos valdymo politikos aprašas turi apimti kriterijų, kuriais vadovaujantis taikoma svyravimo korekcija, taikymo politiką. ^s-2e197ff1556546069992e02a
 
 
-10. Draudimo ar perdraudimo įmonė, kuri apskaičiuodama techninius atidėjinius ir mokumo kapitalo reikalavimą remiasi išorinės kredito rizikos vertinimo institucijos – pagal 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) registruotos ar sertifikuotos kredito reitingų agentūros arba, kai šis reglamentas netaikomas, kredito reitingus nustatančio centrinio banko – teikiamais kredito rizikos vertinimo rezultatais, valdydama riziką turi vengti automatiško išorinio vertinimo rezultatų taikymo ir, jeigu yra galimybė taikyti kitų vertinimų rezultatus, tikrinti, ar išorinio kredito rizikos vertinimo rezultatai yra tinkami. ^s-0cb93bb553caefd4a1a02aa7
+10. Draudimo ar perdraudimo įmonė, kuri apskaičiuodama techninius atidėjinius ir mokumo kapitalo reikalavimą remiasi išorinės kredito rizikos vertinimo institucijos – pagal 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1) registruotos ar sertifikuotos kredito reitingų agentūros arba, kai šis reglamentas netaikomas, kredito reitingus nustatančio centrinio banko – teikiamais kredito rizikos vertinimo rezultatais, valdydama riziką turi vengti automatiško išorinio vertinimo rezultatų taikymo ir, jeigu yra galimybė taikyti kitų vertinimų rezultatus, tikrinti, ar išorinio kredito rizikos vertinimo rezultatai yra tinkami. ^s-0cb93bb553caefd4a1a02aa7
 
 
 11. Investavimo rizika turi būti valdoma taip, kad įmonė atitiktų šio įstatymo [[#^s-e857091bf053cd1c711af565|42 straipsnyje]] bei priežiūros institucijos ir kituose teisės aktuose nustatytus reikalavimus. ^s-23ac869d5761cc60e0c3fd03
@@ -1507,7 +1507,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 3. Draudimo ar perdraudimo įmonė atsako už draudimo ar perdraudimo įmonės veiklą reglamentuojančių teisės aktų pažeidimus, nepaisant sudarytų sutarčių, kuriomis yra perduotas esminės ar svarbios funkcijos ar veiklos vykdymas. ^s-54042e97afc8669920042889
 
 
-4. Priežiūros institucija turi teisę paprašyti kitos Europos ekonominės erdvės valstybės priežiūros institucijos atlikti draudimo ar perdraudimo įmonės pasitelkto kitos Europos ekonominės erdvės valstybės asmens patikrinimą. Priežiūros institucija turi teisę, informavusi kitos Europos ekonominės erdvės valstybės priežiūros instituciją, pati atlikti tokį patikrinimą. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48) (toliau – Reglamentas (ES) Nr. 1094/2010), [[#^s-0a2823a401e652b1d7d1365d|19 straipsnį]], kai priežiūros institucijai neleidžiama pasinaudoti teise atlikti patikrinimą. ^s-45f14cc6cc6a6a9564c3e824
+4. Priežiūros institucija turi teisę paprašyti kitos Europos ekonominės erdvės valstybės priežiūros institucijos atlikti draudimo ar perdraudimo įmonės pasitelkto kitos Europos ekonominės erdvės valstybės asmens patikrinimą. Priežiūros institucija turi teisę, informavusi kitos Europos ekonominės erdvės valstybės priežiūros instituciją, pati atlikti tokį patikrinimą. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48) (toliau – [Reglamentas (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj)), [[#^s-0a2823a401e652b1d7d1365d|19 straipsnį]], kai priežiūros institucijai neleidžiama pasinaudoti teise atlikti patikrinimą. ^s-45f14cc6cc6a6a9564c3e824
 Straipsnio dalies pakeitimai:
 Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
@@ -1529,7 +1529,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 2. Draudimo ar perdraudimo įmonės stebėtojų tarybos ar valdybos nariu negali būti asmuo, atliekantis vidaus audito funkciją draudimo ar perdraudimo įmonėje. Draudimo ar perdraudimo įmonės stebėtojų tarybos nariu gali būti draudimo ar perdraudimo įmonę patronuojančios įmonės valdybos narys. ^s-8b60753547709eb387c0f079
 
 
-3. Audito įmonė, su kuria draudimo ar perdraudimo įmonė yra sudariusi sutartį dėl audito, negali draudimo ar perdraudimo įmonėje atlikti vidaus audito funkcijos. ^s-18d47d9eb9d00204ecc22636
+3. Audito įmonė, su kuria draudimo ar perdraudimo įmonė yra sudariusi sutartį [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145), negali draudimo ar perdraudimo įmonėje atlikti vidaus audito funkcijos. ^s-18d47d9eb9d00204ecc22636
 
 
 4. Be to, draudimo ar perdraudimo įmonės organų nariams taikomi apribojimai dėl interesų konflikto, nustatyti kituose Lietuvos Respublikos įstatymuose, tiek, kiek šiame įstatyme nenustatyta kitaip. ^s-7e31f44af5b2a43372b85e48
@@ -1685,7 +1685,7 @@ Draudimo ar perdraudimo įmonė, išskyrus šiame įstatyme ir kituose teisės a
 2. Atsižvelgdama į draudimo ar perdraudimo įmonės motyvuotą prašymą, priežiūros institucija turi teisę leisti draudimo ar perdraudimo įmonei standartinės formulės gyvybės draudimo, ne gyvybės draudimo ir sveikatos draudimo rizikų parametrus pakeisti šiai įmonei būdingais parametrais, kurie turi būti kalibruojami pagal atitinkamos įmonės vidaus duomenis arba duomenis, būdingus įmonės, kurioje taikomi standartiniai metodai, veiklai. Išduodama leidimą, priežiūros institucija turi įvertinti draudimo ar perdraudimo įmonės naudojamų duomenų išsamumą, tikslumą ir tinkamumą. ^s-efda365c30c7fe4b816ebb1f
 
 
-3. Jeigu draudimo ar perdraudimo įmonės rizikos pobūdis reikšmingai nukrypsta nuo prielaidų, pagrindžiančių standartinės formulės skaičiavimus, ir standartinės formulės naudojimas būtų netinkamas draudimo ar perdraudimo įmonės mokumo kapitalo reikalavimui apskaičiuoti, priežiūros institucija motyvuotu sprendimu turi teisę įpareigoti draudimo ar perdraudimo įmonę naudoti dalinį ar visišką vidaus modelį arba įpareigoti gyvybės draudimo, ne gyvybės draudimo ir sveikatos draudimo rizikų parametrus pakeisti šiai įmonei būdingais parametrais, nepažeidžiant šio įstatymo [[#^s-eac8c7a94812157660f379ce|37 straipsnio]] 3 ir 4 dalių nuostatų. ^s-4d24a4913137550606d155ce
+3. Jeigu draudimo ar perdraudimo įmonės rizikos pobūdis reikšmingai nukrypsta nuo prielaidų, pagrindžiančių standartinės formulės skaičiavimus, ir standartinės formulės naudojimas būtų netinkamas draudimo ar perdraudimo įmonės mokumo kapitalo reikalavimui apskaičiuoti, priežiūros institucija motyvuotu sprendimu turi teisę įpareigoti draudimo ar perdraudimo įmonę naudoti dalinį ar visišką vidaus modelį arba įpareigoti gyvybės draudimo, ne gyvybės draudimo ir sveikatos draudimo rizikų parametrus pakeisti šiai įmonei būdingais parametrais, nepažeidžiant šio įstatymo [[#^s-eac8c7a94812157660f379ce|37 straipsnio]] [[#^s-785bb5caf1573742ba69b00f|3]] ir [[#^s-0ecb11bdf15dcb01c7170f5b|4]] dalių nuostatų. ^s-4d24a4913137550606d155ce
 
 
 
@@ -1744,13 +1744,13 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 2) 3 700 000 eurų – draudimo įmonės, vykdančios gyvybės draudimo veiklą, įskaitant priklausomas draudimo įmones; ^s-b426b3bd5e47b5f6192e2fdf
 
 
-3) 3 700 000 eurų – draudimo įmonės, vykdančios bent vienos iš šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] 10–15 punktuose nurodytoms draudimo grupėms priklausančios draudimo rizikos draudimo veiklą; ^s-c43b51a7e899f30259fe5101
+3) 3 700 000 eurų – draudimo įmonės, vykdančios bent vienos iš šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] [[#^s-2eaef3898f189584dc418521|10]]–[[#^s-bc3f29d0a6dbd42250dc008a|15]] punktuose nurodytoms draudimo grupėms priklausančios draudimo rizikos draudimo veiklą; ^s-c43b51a7e899f30259fe5101
 
 
 4) 3 600 000 eurų – perdraudimo įmonės, išskyrus priklausomas perdraudimo įmones, kurių minimalus kapitalas negali būti mažesnis kaip 1 200 000 eurų; ^s-89ae16783538590b1e3e7f04
 
 
-5) šios dalies 1 ir [[#^s-b426b3bd5e47b5f6192e2fdf|2 punktuose]] (ar atitinkamai šios dalies 2 ir [[#^s-c43b51a7e899f30259fe5101|3 punktuose]]) numatytų dydžių sumai – draudimo įmonės, nurodytos šio įstatymo [[#^s-7b17870a37616458b1d2aeaf|221 straipsnyje]]. ^s-38d1b7528a5c58d223149edd
+5) šios dalies [[#^s-682d5b6b04c79ce912c1321e|1]] ir [[#^s-b426b3bd5e47b5f6192e2fdf|2]] punktuose (ar atitinkamai šios dalies [[#^s-b426b3bd5e47b5f6192e2fdf|2]] ir [[#^s-c43b51a7e899f30259fe5101|3]] punktuose) numatytų dydžių sumai – draudimo įmonės, nurodytos šio įstatymo [[#^s-7b17870a37616458b1d2aeaf|221 straipsnyje]]. ^s-38d1b7528a5c58d223149edd
 
 
 Straipsnio dalies pakeitimai:
@@ -1801,7 +1801,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 ### 42 straipsnis. Draudimo ar perdraudimo įmonės investicijos ^s-e857091bf053cd1c711af565
 
 
-1. Draudimo ar perdraudimo įmonė visą savo turtą turi investuoti laikydamasi apdairumo principo, kaip nustatyta šio straipsnio 2–[[#^s-7f66f7f8a0e5d78ce77a5d99|10 dalyse]]. ^s-7ecc30487b855f9d1269f101
+1. Draudimo ar perdraudimo įmonė visą savo turtą turi investuoti laikydamasi apdairumo principo, kaip nustatyta šio straipsnio [[#^s-99b345cf08ed174b06be19e0|2]]–[[#^s-7f66f7f8a0e5d78ce77a5d99|10]] dalyse. ^s-7ecc30487b855f9d1269f101
 Straipsnio dalies pakeitimai:
 Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
@@ -1945,7 +1945,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
-2. Jeigu yra [[#^s-042167f6721c9f17a01478c6|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytos aplinkybės, reikalaujamo papildomo kapitalo suma apskaičiuojama taip, kad būtų užtikrinta, kad draudimo ar perdraudimo įmonė vykdytų šio įstatymo [[#^s-eac8c7a94812157660f379ce|37 straipsnio]] 3 ir [[#^s-8f516354a649e7e9a8288658|4 dalyse]] nustatytus reikalavimus. ^s-913f0fbdd2c80a2daaee2dbb
+2. Jeigu yra [[#^s-042167f6721c9f17a01478c6|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytos aplinkybės, reikalaujamo papildomo kapitalo suma apskaičiuojama taip, kad būtų užtikrinta, kad draudimo ar perdraudimo įmonė vykdytų šio įstatymo [[#^s-eac8c7a94812157660f379ce|37 straipsnio]] [[#^s-785bb5caf1573742ba69b00f|3]] ir [[#^s-0ecb11bdf15dcb01c7170f5b|4]] dalyse nustatytus reikalavimus. ^s-913f0fbdd2c80a2daaee2dbb
 
 
 3. Jeigu yra [[#^s-042167f6721c9f17a01478c6|šio straipsnio 1 dalies]] 3 ir 4 punktuose nurodytos aplinkybės, reikalaujamo papildomo kapitalo suma privalo būti proporcinga esminei rizikai, kylančiai dėl trūkumų, dėl kurių priežiūros institucija priima sprendimą reikalauti papildomo kapitalo. ^s-6501fef81960e06852a38282
@@ -1972,7 +1972,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 ### 49 straipsnis. Teisių ir pareigų pagal draudimo ar perdraudimo sutartis perleidimas ^s-344758463983a2d2fd33755f
 
 
-1. Draudimo ar perdraudimo įmonė, remdamasi rašytine sutartimi ir gavusi priežiūros institucijos leidimą, turi teisę perleisti teises ir pareigas pagal draudimo ar perdraudimo sutartis (visas sutartis ar dalį jų) kitai draudimo ar perdraudimo įmonei, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonei ar trečiosios valstybės draudimo ar perdraudimo įmonės filialui, įsteigtam Lietuvos Respublikoje ar kitoje Europos ekonominės erdvės valstybėje. Priežiūros institucija, prieš išduodama leidimą, kreipiasi į atitinkamas kitų Europos ekonominės erdvės valstybių priežiūros institucijas, kad gautų šio straipsnio 2, 3 ir [[#^s-634f27959527d6c1a9c42389|4 dalyse]] nurodytą informaciją. ^s-3c77ba49d701f4705a8eeb07
+1. Draudimo ar perdraudimo įmonė, remdamasi rašytine sutartimi ir gavusi priežiūros institucijos leidimą, turi teisę perleisti teises ir pareigas pagal draudimo ar perdraudimo sutartis (visas sutartis ar dalį jų) kitai draudimo ar perdraudimo įmonei, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonei ar trečiosios valstybės draudimo ar perdraudimo įmonės filialui, įsteigtam Lietuvos Respublikoje ar kitoje Europos ekonominės erdvės valstybėje. Priežiūros institucija, prieš išduodama leidimą, kreipiasi į atitinkamas kitų Europos ekonominės erdvės valstybių priežiūros institucijas, kad gautų šio straipsnio [[#^s-ae6ba44d5f7e0a9cf9cfcfff|2]], [[#^s-3a54a426683e9245bcf82016|3]] ir [[#^s-634f27959527d6c1a9c42389|4]] dalyse nurodytą informaciją. ^s-3c77ba49d701f4705a8eeb07
 
 
 2. Draudimo ar perdraudimo įmonė turi teisę perleisti teises ir pareigas pagal draudimo ar perdraudimo sutartis kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonei tik tuo atveju, kai šios valstybės priežiūros institucija patvirtina, kad perdavus teises ir pareigas perimančioji įmonė vykdys mokumo kapitalo reikalavimus. ^s-ae6ba44d5f7e0a9cf9cfcfff
@@ -1984,13 +1984,13 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 4. Leidimas perleisti teises ir pareigas pagal draudimo sutartis gali būti išduodamas tik tuo atveju, kai tam neprieštarauja Europos ekonominės erdvės valstybės, kurioje yra draudimo rizika, arba įsipareigojimo Europos ekonominės erdvės valstybės priežiūros institucija. ^s-634f27959527d6c1a9c42389
 
 
-5. Jeigu šio straipsnio 2, 3 ir [[#^s-634f27959527d6c1a9c42389|4 dalyse]] nurodyta informacija nėra gaunama per 3 mėnesius nuo priežiūros institucijos kreipimosi, laikoma, kad Europos ekonominės erdvės valstybės priežiūros institucija neprieštarauja, kad teisės ir pareigos pagal draudimo sutartis būtų perleistos. ^s-e6063c0f5026704c0e9a12c4
+5. Jeigu šio straipsnio [[#^s-ae6ba44d5f7e0a9cf9cfcfff|2]], [[#^s-3a54a426683e9245bcf82016|3]] ir [[#^s-634f27959527d6c1a9c42389|4]] dalyse nurodyta informacija nėra gaunama per 3 mėnesius nuo priežiūros institucijos kreipimosi, laikoma, kad Europos ekonominės erdvės valstybės priežiūros institucija neprieštarauja, kad teisės ir pareigos pagal draudimo sutartis būtų perleistos. ^s-e6063c0f5026704c0e9a12c4
 
 
 6. Rašytinėje sutartyje dėl teisių ir pareigų perleidimo privalo būti sąlyga, kad teisių ir pareigų perleidimas laikomas įvykusiu ne anksčiau kaip nuo priežiūros institucijos leidimo perleisti teises ir pareigas paskelbimo priežiūros institucijos interneto svetainėje dienos. ^s-30159e209f8af19e02b9b37a
 
 
-7. Šio straipsnio 2, 3 ir [[#^s-634f27959527d6c1a9c42389|4 dalių]] nuostatos taikomos ir tuo atveju, kai teisės ir pareigos pagal draudimo sutartis perleidžiamos reorganizuojant draudimo įmonę. ^s-ac57d2a7651b6fe586a08280
+7. Šio straipsnio [[#^s-ae6ba44d5f7e0a9cf9cfcfff|2]], [[#^s-3a54a426683e9245bcf82016|3]] ir [[#^s-634f27959527d6c1a9c42389|4]] dalių nuostatos taikomos ir tuo atveju, kai teisės ir pareigos pagal draudimo sutartis perleidžiamos reorganizuojant draudimo įmonę. ^s-ac57d2a7651b6fe586a08280
 
 
 8. Perleidžiant teises ir pareigas pagal draudimo sutartis [[#^s-3c77ba49d701f4705a8eeb07|šio straipsnio 1 dalyje]] nustatytu atveju, draudėjo sutikimas nėra reikalingas. Toks sutikimas nėra reikalingas ir tais atvejais, kai teises ir pareigas pagal draudimo sutartis, kurioms taikoma Lietuvos Respublikos teisė, perleidžia kitos Europos ekonominės erdvės valstybės draudimo įmonė, o Lietuvos Respublika yra Europos ekonominės erdvės valstybė, kurioje yra draudimo rizika, arba įsipareigojimo Europos ekonominės erdvės valstybė. ^s-e91c69b6483f9070d6eb871d
@@ -2002,7 +2002,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 10. Perleidžiant teises ir pareigas pagal draudimo sutartis, perdraudikų įsipareigojimai pagal šias draudimo sutartis perleidžiami perdraudimo sutartyse nustatyta tvarka. ^s-788934065409240b588bf3a8
 
 
-11. Privalomasis teisių ir pareigų pagal draudimo sutartis perleidimas reglamentuojamas šio įstatymo 152 ir [[#^s-e12df8cdb4c908379b9ccd7e|206 straipsniuose]]. ^s-fcb4d44e2373fc932cfdb2c3
+11. Privalomasis teisių ir pareigų pagal draudimo sutartis perleidimas reglamentuojamas šio įstatymo [[#^s-ddbb717679dce79df5c951ad|152]] ir [[#^s-e12df8cdb4c908379b9ccd7e|206]] straipsniuose. ^s-fcb4d44e2373fc932cfdb2c3
 
 
 
@@ -2183,7 +2183,7 @@ Draudimo ir (AR) perdraudimo įmonių grupės priežiūra
 6. Jeigu mišrios veiklos finansų kontroliuojančiajai įmonei pagal šį įstatymą ir pagal kitus Lietuvos Respublikos teisės aktus, reglamentuojančius finansų įstaigų veiklą, taikomos lygiavertės nuostatos, grupės priežiūros institucija, suderinusi su atitinkama konsoliduotos priežiūros institucija, šiai mišrios veiklos finansų kontroliuojančiajai įmonei gali taikyti tik tas nuostatas, kurios yra taikomos pagrindiniam finansų sektoriui, nustatytam pagal Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymą. ^s-6d8e7dd922476cdf7b30c6a5
 
 
-7. Grupės priežiūros institucija apie sprendimus, priimtus pagal šio straipsnio 5 ir [[#^s-6d8e7dd922476cdf7b30c6a5|6 dalis]], informuoja Europos bankininkystės instituciją ir Europos draudimo ir profesinių pensijų instituciją. ^s-f77dd570da80a830e785ed3b
+7. Grupės priežiūros institucija apie sprendimus, priimtus pagal šio straipsnio [[#^s-d336d78b5a59482209e7ca50|5]] ir [[#^s-6d8e7dd922476cdf7b30c6a5|6]] dalis, informuoja Europos bankininkystės instituciją ir Europos draudimo ir profesinių pensijų instituciją. ^s-f77dd570da80a830e785ed3b
 
 
 
@@ -2217,10 +2217,10 @@ Draudimo ir (AR) perdraudimo įmonių grupės priežiūra
 6. Šio skirsnio reikalavimų taikymo ypatumus toliau nurodytais atvejais nustato priežiūros institucijos teisės aktai, kai: ^s-a16dca74a6f114f8e8e9eba3
 
 
-1) šio įstatymo [[#^s-9e4f39084e28d1791171c02d|55 straipsnio 3 dalies]] 1 ir [[#^s-51434634184898370bb81c07|2 punktuose]] nurodyta dalyvaujanti draudimo ar perdraudimo įmonė, draudimo kontroliuojančioji įmonė ar mišrios veiklos finansų kontroliuojančioji įmonė yra patronuojamoji Europos ekonominės erdvės valstybėje pagrindinę buveinę turinčios draudimo ar perdraudimo įmonės, draudimo kontroliuojančiosios įmonės ar mišrios veiklos finansų kontroliuojančiosios įmonės įmonė; ^s-71141037bc44d73192013237
+1) šio įstatymo [[#^s-9e4f39084e28d1791171c02d|55 straipsnio 3 dalies]] [[#^s-888f2b0d4f739aad75944f12|1]] ir [[#^s-9bba7b53fd72fa1e28740b2d|2]] punktuose nurodyta dalyvaujanti draudimo ar perdraudimo įmonė, draudimo kontroliuojančioji įmonė ar mišrios veiklos finansų kontroliuojančioji įmonė yra patronuojamoji Europos ekonominės erdvės valstybėje pagrindinę buveinę turinčios draudimo ar perdraudimo įmonės, draudimo kontroliuojančiosios įmonės ar mišrios veiklos finansų kontroliuojančiosios įmonės įmonė; ^s-71141037bc44d73192013237
 
 
-2) šio įstatymo [[#^s-9e4f39084e28d1791171c02d|55 straipsnio 3 dalies]] 1 ir 2 punktuose nurodyta dalyvaujanti draudimo ar perdraudimo įmonė ar pagrindinę buveinę Europos ekonominės erdvės valstybėje turinti draudimo kontroliuojančioji įmonė arba mišrios veiklos finansų kontroliuojančioji įmonė neturi pagrindinės buveinės toje pačioje Europos ekonominės erdvės valstybėje kaip [[#^s-71141037bc44d73192013237|šios dalies 1 punkte]] nurodyta patronuojančioji įmonė; ^s-51434634184898370bb81c07
+2) šio įstatymo [[#^s-9e4f39084e28d1791171c02d|55 straipsnio 3 dalies]] [[#^s-888f2b0d4f739aad75944f12|1]] ir [[#^s-9bba7b53fd72fa1e28740b2d|2]] punktuose nurodyta dalyvaujanti draudimo ar perdraudimo įmonė ar pagrindinę buveinę Europos ekonominės erdvės valstybėje turinti draudimo kontroliuojančioji įmonė arba mišrios veiklos finansų kontroliuojančioji įmonė neturi pagrindinės buveinės toje pačioje Europos ekonominės erdvės valstybėje kaip [[#^s-71141037bc44d73192013237|šios dalies 1 punkte]] nurodyta patronuojančioji įmonė; ^s-51434634184898370bb81c07
 
 
 3) jei draudimo ar perdraudimo įmonės patronuojančioji įmonė yra ne Europos ekonominės erdvės draudimo įmonė, perdraudimo įmonė, draudimo kontroliuojančioji įmonė ar mišrios veiklos finansų kontroliuojančioji įmonė arba jei patronuojančioji įmonė yra mišrios veiklos draudimo kontroliuojančioji įmonė. ^s-97b5bb9bcd8ed50c632d44ab
@@ -2236,7 +2236,7 @@ Draudimo ir (AR) perdraudimo įmonių grupės priežiūra
 2. Šio įstatymo [[#^s-9bba7b53fd72fa1e28740b2d|55 straipsnio 3 dalies 2 punkte]] nurodytos draudimo ir perdraudimo įmonės privalo užtikrinti, kad grupės mokumo kapitalo reikalavimas būtų skaičiuojamas ir padengtas tinkamomis grupės nuosavomis lėšomis laikantis priežiūros institucijos nustatytų reikalavimų. ^s-4e2cb2a467d2a81de2069c9f
 
 
-3. Šio straipsnio 1 ir [[#^s-4e2cb2a467d2a81de2069c9f|2 dalyse]] nustatytų reikalavimų laikymąsi prižiūri grupės priežiūros institucija pagal šio įstatymo [[#^s-3a64680da2f9afd5c2704e9e|63 straipsnio]] nuostatas. Grupės mokumo priežiūrai mutatis mutandis taikomos šio įstatymo [[#^s-a31bb26d90c09c8741cbb32c|43 straipsnio]] ir [[#^s-ac4c8328778232d18c5cd0b7|45 straipsnio]] 1–[[#^s-86b6161cbaf05cf9ae9924c0|5 dalių]] nuostatos. ^s-d01d7bb88f3854a255cf88d6
+3. Šio straipsnio [[#^s-a6bc9dd18d2f9d9cf699fdcc|1]] ir [[#^s-4e2cb2a467d2a81de2069c9f|2]] dalyse nustatytų reikalavimų laikymąsi prižiūri grupės priežiūros institucija pagal šio įstatymo [[#^s-3a64680da2f9afd5c2704e9e|63 straipsnio]] nuostatas. Grupės mokumo priežiūrai mutatis mutandis taikomos šio įstatymo [[#^s-a31bb26d90c09c8741cbb32c|43 straipsnio]] ir [[#^s-ac4c8328778232d18c5cd0b7|45 straipsnio]] [[#^s-94da1dce2793326af0d15304|1]]–[[#^s-2569e7592011342b972c660e|5]] dalių nuostatos. ^s-d01d7bb88f3854a255cf88d6
 
 
 4. Dalyvaujanti draudimo ar perdraudimo įmonė, draudimo kontroliuojančioji įmonė, mišrios veiklos finansų kontroliuojančioji įmonė ar grupės įmonė, kurią nurodo grupės priežiūros institucija pasikonsultavusi su kitomis atitinkamomis priežiūros institucijomis ir pačia grupe, privalo apskaičiuoti grupės mokumo kapitalo reikalavimą ne rečiau kaip kartą per metus, nuolat stebėti ir užtikrinti grupės mokumo kapitalo reikalavimo padengimą tinkamomis nuosavomis lėšomis ir informuoti priežiūros instituciją apie apskaičiuotą grupės mokumo kapitalo reikalavimą ir jo padengimą. ^s-c3be25648728ae5c82100865
@@ -2252,7 +2252,7 @@ Draudimo ir (AR) perdraudimo įmonių grupės priežiūra
 1. Draudimo ar perdraudimo įmonė ir su ja susijusios įmonės arba su draudimo kontroliuojančiąja įmone ar mišrios veiklos finansų kontroliuojančiąja įmone susijusios įmonės gali pateikti grupės priežiūros institucijai bendrą prašymą leisti skaičiuoti konsoliduotą grupės mokumo kapitalo reikalavimą, taip pat grupės draudimo įmonių ir perdraudimo įmonių mokumo kapitalo reikalavimą pagal vidaus modelį. ^s-b850e0d86ff37a702a9db202
 
 
-2. Priežiūros institucija, nustačiusi, kad draudimo ar perdraudimo įmonės rizikos pobūdis reikšmingai skiriasi nuo prielaidų, nustatytų grupės vidaus modelyje, turi teisę pareikalauti, kad draudimo ar perdraudimo įmonė per priežiūros institucijos nustatytą terminą ištaisytų susidariusią padėtį. Jeigu priežiūros institucijos reikalavimas nėra įvykdytas ar įvykdytas netinkamai, priežiūros institucija, vadovaudamasi šio įstatymo [[#^s-cdd8c19596c905d06552d99c|48 straipsniu]], gali nustatyti papildomą kapitalą, kuriuo didinamas pagal vidaus modelį apskaičiuotas draudimo ar perdraudimo įmonės mokumo kapitalo reikalavimas. Išimtiniais atvejais, kai papildomo kapitalo nustatymas būtų netinkamas, priežiūros institucija gali reikalauti, kad draudimo ar perdraudimo įmonė apskaičiuotų mokumo kapitalo reikalavimą pagal standartinę formulę. Pagal standartinę formulę apskaičiuotas mokumo kapitalo reikalavimas gali būti padidintas papildomo kapitalo, nustatyto pagal šio įstatymo [[#^s-042167f6721c9f17a01478c6|48 straipsnio 1 dalies]] 1 ir 3 punktuose nustatytus reikalavimus, dydžiu. Priežiūros institucija apie šioje dalyje nustatytus sprendimus ir jų motyvus privalo pranešti draudimo ar perdraudimo įmonei ir grupės priežiūros institucijai. ^s-2e1b380e710f055a9b8e1c1c
+2. Priežiūros institucija, nustačiusi, kad draudimo ar perdraudimo įmonės rizikos pobūdis reikšmingai skiriasi nuo prielaidų, nustatytų grupės vidaus modelyje, turi teisę pareikalauti, kad draudimo ar perdraudimo įmonė per priežiūros institucijos nustatytą terminą ištaisytų susidariusią padėtį. Jeigu priežiūros institucijos reikalavimas nėra įvykdytas ar įvykdytas netinkamai, priežiūros institucija, vadovaudamasi šio įstatymo [[#^s-cdd8c19596c905d06552d99c|48 straipsniu]], gali nustatyti papildomą kapitalą, kuriuo didinamas pagal vidaus modelį apskaičiuotas draudimo ar perdraudimo įmonės mokumo kapitalo reikalavimas. Išimtiniais atvejais, kai papildomo kapitalo nustatymas būtų netinkamas, priežiūros institucija gali reikalauti, kad draudimo ar perdraudimo įmonė apskaičiuotų mokumo kapitalo reikalavimą pagal standartinę formulę. Pagal standartinę formulę apskaičiuotas mokumo kapitalo reikalavimas gali būti padidintas papildomo kapitalo, nustatyto pagal šio įstatymo [[#^s-042167f6721c9f17a01478c6|48 straipsnio 1 dalies]] [[#^s-8bdcefcd35103bf17c7123ef|1]] ir [[#^s-fbe0b54fb64ea90e2bd01ac8|3]] punktuose nustatytus reikalavimus, dydžiu. Priežiūros institucija apie šioje dalyje nustatytus sprendimus ir jų motyvus privalo pranešti draudimo ar perdraudimo įmonei ir grupės priežiūros institucijai. ^s-2e1b380e710f055a9b8e1c1c
 
 
 3. Priežiūros institucija savo teisės aktuose nustato išsamią šio straipsnio nuostatų įgyvendinimo tvarką ir kitus reikalavimus dėl grupės vidaus modelio taikymo. ^s-582bea60bef69ffe5bf03fb8
@@ -2312,7 +2312,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 ### 61 straipsnis. Rizikos koncentracijos ir grupės įmonių tarpusavio sandorių priežiūra ^s-ab7c9b6a00faed6d33f33ab7
 
 
-1. Rizikos koncentracijos grupės lygiu ir grupės įmonių tarpusavio sandorių priežiūrą vykdo grupės priežiūros institucija. Rizikos koncentracijos grupės lygiu ir grupės įmonių tarpusavio sandorių priežiūra vykdoma pagal šio straipsnio ir šio įstatymo 62–[[#^s-be6c8b9df710c5f5244d426d|67 straipsnių]] nuostatas. ^s-f57ab47adca385474b61dd60
+1. Rizikos koncentracijos grupės lygiu ir grupės įmonių tarpusavio sandorių priežiūrą vykdo grupės priežiūros institucija. Rizikos koncentracijos grupės lygiu ir grupės įmonių tarpusavio sandorių priežiūra vykdoma pagal šio straipsnio ir šio įstatymo [[#^s-ad38b47d4b1789f29d67fb50|62]]–[[#^s-be6c8b9df710c5f5244d426d|67]] straipsnių nuostatas. ^s-f57ab47adca385474b61dd60
 
 
 2. Draudimo ar perdraudimo įmonės, draudimo kontroliuojančiosios įmonės, mišrios veiklos finansų kontroliuojančiosios įmonės ar grupės įmonė, kurią nurodo grupės priežiūros institucija pasikonsultavusi su kitomis atitinkamomis priežiūros institucijomis ir pačia grupe, praneša grupės priežiūros institucijai apie bet kokią reikšmingą rizikos koncentraciją grupės lygiu ir apie grupės priežiūros institucijos nurodytus grupės įmonių tarpusavio sandorius. ^s-1f8bbc354c24f249a99736bd
@@ -2328,7 +2328,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 1. Šio skyriaus antrajame skirsnyje nustatyti reikalavimai mutatis mutandis taikomi grupės lygiu. ^s-711d6764c8b1f8d3469e9fea
 
 
-2. Nedarant poveikio [[#^s-711d6764c8b1f8d3469e9fea|šio straipsnio 1 dalies]] taikymui, rizikos valdymo ir vidaus kontrolės sistemos turi būti įdiegtos ir ataskaitų teikimo tvarka taikoma nuosekliai visose įmonėse, kurioms taikoma grupės priežiūra pagal šio įstatymo [[#^s-9e4f39084e28d1791171c02d|55 straipsnio 3 dalies]] 1 ir 2 punktus, siekiant užtikrinti, kad šių sistemų naudojimas ir ataskaitų teikimas būtų kontroliuojamas grupės lygiu. ^s-f850974b141818c0697769e1
+2. Nedarant poveikio [[#^s-711d6764c8b1f8d3469e9fea|šio straipsnio 1 dalies]] taikymui, rizikos valdymo ir vidaus kontrolės sistemos turi būti įdiegtos ir ataskaitų teikimo tvarka taikoma nuosekliai visose įmonėse, kurioms taikoma grupės priežiūra pagal šio įstatymo [[#^s-9e4f39084e28d1791171c02d|55 straipsnio 3 dalies]] [[#^s-888f2b0d4f739aad75944f12|1]] ir [[#^s-9bba7b53fd72fa1e28740b2d|2]] punktus, siekiant užtikrinti, kad šių sistemų naudojimas ir ataskaitų teikimas būtų kontroliuojamas grupės lygiu. ^s-f850974b141818c0697769e1
 
 
 3. Grupės priežiūros institucija turi teisę leisti, kad dalyvaujanti draudimo ar perdraudimo įmonė, draudimo kontroliuojančioji įmonė ar mišrios veiklos finansų kontroliuojančioji įmonė, atlikdama savos rizikos ir mokumo vertinimą grupės lygiu, apimtų ir patronuojamosios draudimo ar perdraudimo įmonės savo rizikos ir mokumo vertinimą ir parengtų vieną bendrą dokumentą. ^s-d046c74c9da6b7d99eab37fd
@@ -2365,7 +2365,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 4) išdavusi veiklos licenciją didžiausią balansinį turtą turinčiai draudimo ar perdraudimo įmonei, jei keletas Europos ekonominės erdvės valstybėse pagrindines buveines turinčių draudimo ar perdraudimo įmonių turi tą pačią patronuojančiąją draudimo kontroliuojančiąją įmonę arba mišrios veiklos finansų kontroliuojančiąją įmonę ir nė viena iš draudimo ar perdraudimo įmonių neturi pagrindinės buveinės toje Europos ekonominės erdvės valstybėje, kurioje yra pagrindinė patronuojančiosios draudimo kontroliuojančiosios įmonės arba mišrios veiklos finansų kontroliuojančiosios įmonės buveinė; ^s-e400542832ca85dcc59b5eae
 
 
-5) išdavusi veiklos licenciją didžiausią balansinį turtą turinčiai draudimo ar perdraudimo įmonei, kai grupė neturi patronuojančiosios įmonės, ar kitais šios dalies 1–[[#^s-e400542832ca85dcc59b5eae|4 punktuose]] nenumatytais atvejais. ^s-de528aee29a44403030a4338
+5) išdavusi veiklos licenciją didžiausią balansinį turtą turinčiai draudimo ar perdraudimo įmonei, kai grupė neturi patronuojančiosios įmonės, ar kitais šios dalies [[#^s-e5a6ae361a6ff6be87ea6528|1]]–[[#^s-e400542832ca85dcc59b5eae|4]] punktuose nenumatytais atvejais. ^s-de528aee29a44403030a4338
 
 
 4. Priežiūros institucijų bendru sprendimu, priimtu ne vėliau kaip per 3 mėnesius nuo priežiūros institucijų inicijuotos diskusijos, kuri gali būti inicijuojama ne dažniau kaip kartą per metus, pradžios ir atsiklausus grupės nuomonės, gali būti paskirta ir kita, negu numatyta [[#^s-efc49093b5692b23a47ef759|šio straipsnio 3 dalyje]], priežiūros institucija, jeigu [[#^s-efc49093b5692b23a47ef759|šio straipsnio 3 dalies]] nuostatų taikymas būtų netinkamas atsižvelgiant į grupės struktūrą ir draudimo ar perdraudimo įmonių veiklos atskirose valstybėse mastą. Paskirtoji grupės priežiūros institucija informuoja grupei vadovaujančią draudimo ar perdraudimo įmonę arba pagal [[#^s-efc49093b5692b23a47ef759|šio straipsnio 3 dalyje]] nurodytus kriterijus nustatytą grupės įmonę apie bendrą priežiūros institucijų sprendimą ir jo motyvus. ^s-9b1c48d5dd448a160dc012c7
@@ -2374,7 +2374,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
-5. Diskusijos metu, iki nėra priimtas bendras priežiūros institucijų sprendimas arba nėra pasibaigęs [[#^s-9b1c48d5dd448a160dc012c7|šio straipsnio 4 dalyje]] nurodytas 3 mėnesių laikotarpis, kuris laikomas taikinimo terminu pagal Reglamento (ES) Nr. 1094/2010 [[#^s-cc001ed847e2cd6170d90d43|19 straipsnio 2 dalį]], priežiūros institucija turi teisę kreiptis į Europos draudimo ir profesinių pensijų instituciją, kad ši pateiktų sprendimą. Apie šį kreipimąsi priežiūros institucija taip pat informuoja kitas priežiūros institucijas. Tokiu atveju priežiūros institucijos gali priimti bendrą sprendimą tik sulaukusios Europos draudimo ir profesinių pensijų institucijos sprendimo ir juo vadovaudamosi. Paskirtoji grupės priežiūros institucija informuoja grupei vadovaujančią draudimo ar perdraudimo įmonę arba pagal [[#^s-efc49093b5692b23a47ef759|šio straipsnio 3 dalyje]] nurodytus kriterijus nustatytą grupės įmonę ir priežiūros institucijų kolegiją apie bendrą priežiūros institucijų sprendimą ir jo motyvus. ^s-dbcb05ae601ad70fefac46f7
+5. Diskusijos metu, iki nėra priimtas bendras priežiūros institucijų sprendimas arba nėra pasibaigęs [[#^s-9b1c48d5dd448a160dc012c7|šio straipsnio 4 dalyje]] nurodytas 3 mėnesių laikotarpis, kuris laikomas taikinimo terminu pagal [Reglamento (ES) Nr. 1094/2010 19 straipsnio 2 dalį](https://eur-lex.europa.eu/eli/reg/1094/2010/art_19/par_2/oj), priežiūros institucija turi teisę kreiptis į Europos draudimo ir profesinių pensijų instituciją, kad ši pateiktų sprendimą. Apie šį kreipimąsi priežiūros institucija taip pat informuoja kitas priežiūros institucijas. Tokiu atveju priežiūros institucijos gali priimti bendrą sprendimą tik sulaukusios Europos draudimo ir profesinių pensijų institucijos sprendimo ir juo vadovaudamosi. Paskirtoji grupės priežiūros institucija informuoja grupei vadovaujančią draudimo ar perdraudimo įmonę arba pagal [[#^s-efc49093b5692b23a47ef759|šio straipsnio 3 dalyje]] nurodytus kriterijus nustatytą grupės įmonę ir priežiūros institucijų kolegiją apie bendrą priežiūros institucijų sprendimą ir jo motyvus. ^s-dbcb05ae601ad70fefac46f7
 Straipsnio dalies pakeitimai:
 Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
@@ -2429,7 +2429,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 3. Priežiūros institucija, norėdama gauti grupės priežiūros tikslais reikšmingą informaciją, gali kreiptis tiesiogiai į grupės įmones tik tuo atveju, kai tokios informacijos per protingą laikotarpį nesuteikė draudimo ar perdraudimo įmonė, kuriai taikomi grupės priežiūros reikalavimai. ^s-9aa36adf8dcb5167469a65f6
 
 
-4. Draudimo ir perdraudimo įmonės, draudimo kontroliuojančiosios įmonės ir mišrios veiklos draudimo kontroliuojančiosios įmonės, vadovaudamosi 2014 m. spalio 10 d. Komisijos deleguotuoju reglamentu (ES) 2015/35, kuriuo papildoma Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2015 L 12, p. 1), kiekvienais metais viešai atskleidžia grupės valdymo ir organizacinę struktūrą, apimdamos visas grupei priklausančias patronuojamąsias įmones, susijusias įmones ir svarbius filialus. ^s-4a8ca41863d2ec2dce1f6b57
+4. Draudimo ir perdraudimo įmonės, draudimo kontroliuojančiosios įmonės ir mišrios veiklos draudimo kontroliuojančiosios įmonės, vadovaudamosi 2014 m. spalio 10 d. Komisijos deleguotuoju [reglamentu (ES) 2015/35](https://eur-lex.europa.eu/eli/reg/2015/35/oj), kuriuo papildoma Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2015 L 12, p. 1), kiekvienais metais viešai atskleidžia grupės valdymo ir organizacinę struktūrą, apimdamos visas grupei priklausančias patronuojamąsias įmones, susijusias įmones ir svarbius filialus. ^s-4a8ca41863d2ec2dce1f6b57
 Papildyta straipsnio dalimi:
 Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
@@ -2453,7 +2453,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 4) kitos įmonės, kuri yra [[#^s-c3e4a8b99faf4bf3b3e9dba7|šios dalies 3 punkte]] nurodytos įmonės susijusi įmonė, patalpose. ^s-a047b3e4731f0bc23752a718
 
 
-2. Jeigu priežiūros institucijai būtina informacija, kuria disponuoja prižiūrima ar neprižiūrima kitoje Europos ekonominės erdvės valstybėje esanti įmonė, priežiūros institucija turi teisę paprašyti kitos Europos ekonominės erdvės valstybės priežiūros institucijos atlikti patikrinimą. Priežiūros institucija turi teisę dalyvauti atliekant šį patikrinimą arba, jeigu kitos Europos ekonominės erdvės valstybės priežiūros institucija sutinka, pati atlikti tokį patikrinimą. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal Reglamento (ES) Nr. 1094/2010 [[#^s-0a2823a401e652b1d7d1365d|19 straipsnį]], jeigu kita Europos ekonominės erdvės valstybės priežiūros institucija priežiūros institucijos prašymu nepradeda vykdyti patikrinimo per 2 savaites nuo prašymo gavimo dienos arba jeigu priežiūros institucijai neleidžia pasinaudoti teise atlikti patikrinimą ar dalyvauti atliekant patikrinimą. ^s-1fce92210d59b4eea36b8f36
+2. Jeigu priežiūros institucijai būtina informacija, kuria disponuoja prižiūrima ar neprižiūrima kitoje Europos ekonominės erdvės valstybėje esanti įmonė, priežiūros institucija turi teisę paprašyti kitos Europos ekonominės erdvės valstybės priežiūros institucijos atlikti patikrinimą. Priežiūros institucija turi teisę dalyvauti atliekant šį patikrinimą arba, jeigu kitos Europos ekonominės erdvės valstybės priežiūros institucija sutinka, pati atlikti tokį patikrinimą. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal [Reglamento (ES) Nr. 1094/2010 19 straipsnį](https://eur-lex.europa.eu/eli/reg/1094/2010/art_19/oj), jeigu kita Europos ekonominės erdvės valstybės priežiūros institucija priežiūros institucijos prašymu nepradeda vykdyti patikrinimo per 2 savaites nuo prašymo gavimo dienos arba jeigu priežiūros institucijai neleidžia pasinaudoti teise atlikti patikrinimą ar dalyvauti atliekant patikrinimą. ^s-1fce92210d59b4eea36b8f36
 Straipsnio dalies pakeitimai:
 Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
@@ -2532,7 +2532,7 @@ DRAUDIMO IR PERDRAUDIMO ĮMONIŲ VEIKLA kitose EUROPOS Ekonominės erdvės VALST
 4. Draudimo įmonė, gavusi [[#^s-6b5c165998c035dcbd30f52a|šio straipsnio 2 dalyje]] numatytą priežiūros institucijos informaciją ir įvykdžiusi kitas sąlygas, nustatytas kitos Europos ekonominės erdvės valstybės teisės aktuose, turi teisę pradėti teikti paslaugas kitoje Europos ekonominės erdvės valstybėje. ^s-5d8d977f3efdeef0d3c44e81
 
 
-5. Draudimo įmonė privalo ne vėliau kaip prieš vieną mėnesį pranešti apie bet kokius planuojamus informacijos, pateiktos vadovaujantis [[#^s-4dc81c599e2b5998663e977c|šio straipsnio 1 dalies]] nuostatomis, pasikeitimus. Draudimo įmonės informacijos pateikimui, pateiktos informacijos išsiuntimui kitos Europos ekonominės erdvės valstybės priežiūros institucijai ir atsisakymui išsiųsti informaciją taikomos šio straipsnio 1–[[#^s-5d8d977f3efdeef0d3c44e81|4 dalių]] nuostatos. Priežiūros institucijos atsisakymas išsiųsti informaciją atima teisę draudimo įmonei atlikti planuojamus pakeitimus. ^s-8aad31c59ad99a1cfa91898e
+5. Draudimo įmonė privalo ne vėliau kaip prieš vieną mėnesį pranešti apie bet kokius planuojamus informacijos, pateiktos vadovaujantis [[#^s-4dc81c599e2b5998663e977c|šio straipsnio 1 dalies]] nuostatomis, pasikeitimus. Draudimo įmonės informacijos pateikimui, pateiktos informacijos išsiuntimui kitos Europos ekonominės erdvės valstybės priežiūros institucijai ir atsisakymui išsiųsti informaciją taikomos šio straipsnio [[#^s-4dc81c599e2b5998663e977c|1]]–[[#^s-5d8d977f3efdeef0d3c44e81|4]] dalių nuostatos. Priežiūros institucijos atsisakymas išsiųsti informaciją atima teisę draudimo įmonei atlikti planuojamus pakeitimus. ^s-8aad31c59ad99a1cfa91898e
 
 
 
@@ -2581,7 +2581,7 @@ DRAUDIMO IR PERDRAUDIMO ĮMONIŲ VEIKLA kitose EUROPOS Ekonominės erdvės VALST
 5. Priežiūros institucija pateikia draudimo įmonei iš kitos Europos ekonominės erdvės valstybės priežiūros institucijos gautą informaciją apie sąlygas, taikomas kitų Europos ekonominės erdvės valstybių draudimo įmonių filialų veiklai nepažeidžiant viešosios tvarkos. Draudimo įmonė gali steigti filialą ir pradėti veiklą gavusi kitos Europos ekonominės erdvės valstybės priežiūros institucijos informaciją apie veiklos sąlygas nepažeidžiant viešosios tvarkos, o jei ši informacija nėra gaunama per 2 mėnesius nuo [[#^s-bc71285c7aa8db8e02a8b128|šio straipsnio 3 dalyje]] nurodytos informacijos gavimo iš priežiūros institucijos, – pasibaigus šiam 2 mėnesių terminui. ^s-e3a65049c56ea891964206cd
 
 
-6. Apie bet kokį planuojamą [[#^s-8b4a739db2e11c4bb64e3b7f|šio straipsnio 1 dalies]] 2, 3 ir 4 punktuose numatytų informacijos ir dokumentų pasikeitimą ne vėliau kaip prieš vieną mėnesį turi būti pranešta priežiūros institucijai ir kitos Europos ekonominės erdvės valstybės, kurioje įsteigtas filialas, priežiūros institucijai. Draudimo įmonės informacijos pateikimui, pateiktos informacijos išsiuntimui kitos Europos ekonominės erdvės valstybės priežiūros institucijai ir atsisakymui išsiųsti informaciją taikomos šio straipsnio 1–[[#^s-e3a65049c56ea891964206cd|5 dalių]] nuostatos, tačiau vietoj šio straipsnio 3 ir [[#^s-f55b0d0f9e6649af284b390c|4 dalyse]] nurodyto 3 mėnesių termino taikomas vieno mėnesio terminas. Priežiūros institucijos atsisakymas išsiųsti informaciją atima teisę draudimo įmonei atlikti planuojamus pakeitimus. ^s-46e2e126fdc6f5ae45819be8
+6. Apie bet kokį planuojamą [[#^s-8b4a739db2e11c4bb64e3b7f|šio straipsnio 1 dalies]] 2, 3 ir 4 punktuose numatytų informacijos ir dokumentų pasikeitimą ne vėliau kaip prieš vieną mėnesį turi būti pranešta priežiūros institucijai ir kitos Europos ekonominės erdvės valstybės, kurioje įsteigtas filialas, priežiūros institucijai. Draudimo įmonės informacijos pateikimui, pateiktos informacijos išsiuntimui kitos Europos ekonominės erdvės valstybės priežiūros institucijai ir atsisakymui išsiųsti informaciją taikomos šio straipsnio [[#^s-8b4a739db2e11c4bb64e3b7f|1]]–[[#^s-e3a65049c56ea891964206cd|5]] dalių nuostatos, tačiau vietoj šio straipsnio [[#^s-bc71285c7aa8db8e02a8b128|3]] ir [[#^s-f55b0d0f9e6649af284b390c|4]] dalyse nurodyto 3 mėnesių termino taikomas vieno mėnesio terminas. Priežiūros institucijos atsisakymas išsiųsti informaciją atima teisę draudimo įmonei atlikti planuojamus pakeitimus. ^s-46e2e126fdc6f5ae45819be8
 
 
 
@@ -2952,16 +2952,16 @@ Trečiosios valstybės draudimo ar perdraudimo įmonės filialas, įsteigtas Lie
 3. Trečiosios valstybės draudimo ar perdraudimo įmonės filialas turi teisę perleisti teises ir pareigas pagal visas draudimo ar perdraudimo sutartis ar jų dalį kitoje Europos ekonominės erdvės valstybėje įsteigtam trečiosios valstybės draudimo ar perdraudimo įmonės filialui, jei šios valstybės šio įstatymo [[#^s-37e58674bdb3d26d655c8900|89 straipsnyje]] nustatyta tvarka nurodyta pasirinktoji Europos ekonominės erdvės valstybės priežiūros institucija patvirtina, kad po teisių ir pareigų perleidimo teises ir pareigas perimantis subjektas vykdys mokumo kapitalo reikalavimus, šios valstybės teisės aktai leidžia tokį teisių ir pareigų perleidimą ir jei ši valstybė neprieštarauja teisių ir pareigų perleidimui. ^s-0746be24e9f6ed1e26754dd3
 
 
-4. Šio straipsnio 1, 2 ir [[#^s-0746be24e9f6ed1e26754dd3|3 dalyse]] nustatytais atvejais priežiūros institucija išduoda leidimą perleisti teises ir pareigas pagal draudimo ar perdraudimo sutartis tik tuo atveju, kai yra šio įstatymo [[#^s-c6729ecee54a65ab095f95fe|50 straipsnio 4 dalies]] 1–4 punktuose nurodytos sąlygos ir yra gautas kitos Europos ekonominės erdvės valstybės, kurioje yra draudimo rizika, arba kitos įsipareigojimo pagal gyvybės draudimo sutartį Europos ekonominės erdvės valstybės priežiūros institucijos sutikimas. ^s-d271eba8bcdf2e44a55c712a
+4. Šio straipsnio [[#^s-191da8e2d4d0d734e0e07aa7|1]], [[#^s-af79658815d8ea7158398cb7|2]] ir [[#^s-0746be24e9f6ed1e26754dd3|3]] dalyse nustatytais atvejais priežiūros institucija išduoda leidimą perleisti teises ir pareigas pagal draudimo ar perdraudimo sutartis tik tuo atveju, kai yra šio įstatymo [[#^s-c6729ecee54a65ab095f95fe|50 straipsnio 4 dalies]] [[#^s-1a4909fce919c02562523785|1]]–[[#^s-64fc0ab1ece42e4e8e4b7bcb|4]] punktuose nurodytos sąlygos ir yra gautas kitos Europos ekonominės erdvės valstybės, kurioje yra draudimo rizika, arba kitos įsipareigojimo pagal gyvybės draudimo sutartį Europos ekonominės erdvės valstybės priežiūros institucijos sutikimas. ^s-d271eba8bcdf2e44a55c712a
 
 
 5. Jeigu per 3 mėnesius nuo informacijos pateikimo kitos Europos ekonominės erdvės valstybės priežiūros institucijai šiame straipsnyje numatyti sutikimai ar pritarimai negaunami, laikoma, kad šios valstybės priežiūros institucija neprieštarauja teisių ir pareigų perleidimui. ^s-14fb99d3f3f7a2b7e773e205
 
 
-6. Teisių ir pareigų perleidimui taikomi ir kiti šio įstatymo 49 ir [[#^s-9dbbee341947310a0b66d340|50 straipsniuose]] nustatyti reikalavimai, kiek šiame straipsnyje nenustatyta kitaip. ^s-1173b05cdcaff336399e484c
+6. Teisių ir pareigų perleidimui taikomi ir kiti šio įstatymo [[#^s-344758463983a2d2fd33755f|49]] ir [[#^s-9dbbee341947310a0b66d340|50]] straipsniuose nustatyti reikalavimai, kiek šiame straipsnyje nenustatyta kitaip. ^s-1173b05cdcaff336399e484c
 
 
-7. Privalomasis teisių ir pareigų pagal draudimo sutartis perleidimas reglamentuojamas šio įstatymo 153 ir [[#^s-e12df8cdb4c908379b9ccd7e|206 straipsniuose]]. ^s-822aef5ac296b4004ad1182d
+7. Privalomasis teisių ir pareigų pagal draudimo sutartis perleidimas reglamentuojamas šio įstatymo [[#^s-0d515e090983c456ca4f8625|153]] ir [[#^s-e12df8cdb4c908379b9ccd7e|206]] straipsniuose. ^s-822aef5ac296b4004ad1182d
 
 
 
@@ -2983,7 +2983,7 @@ Trečiosios valstybės draudimo ar perdraudimo įmonės filialas, įsteigtas Lie
 2. Kartu su prašymu taikyti lengvatas pateikiami dokumentai, kuriais įrodoma, kad analogiškas prašymas pateiktas ar pateikiamas ir visoms kitų Europos ekonominės erdvės valstybių, kuriose trečiosios valstybės draudimo ar perdraudimo įmonė vykdo ar ketina vykdyti veiklą per įsteigtus filialus, priežiūros institucijoms. Prašyme turi būti nurodyta pasirinkta Europos ekonominės erdvės valstybės priežiūros institucija, kuri ateityje prižiūrės mokumą, kurį lemia Europos ekonominės erdvės valstybėse vykdoma veikla. Kartu nurodomos priežastys, kodėl pasirinkta būtent ši priežiūros institucija. Šio įstatymo [[#^s-bde7ca8b7bc44a7f09cce9dd|87 straipsnyje]] nurodytas indėlis turi būti laikomas šioje pasirinktoje Europos ekonominės erdvės valstybėje. ^s-adabc622e2b9dd2dddb8a8b7
 
 
-3. Lengvatos gali būti taikomos tik tuo atveju, kai visos Europos ekonominės erdvės valstybių priežiūros institucijos, kurioms privalo būti pateikiamas prašymas taikyti lengvatas, sutinka dėl lengvatų taikymo. ^s-f9a13c75108b498fa780f5e4
+3. Lengvatos gali būti taikomos tik tuo atveju, kai visos Europos ekonominės erdvės valstybių priežiūros institucijos, kurioms privalo būti pateikiamas prašymas taikyti lengvatas, sutinka [dėl lengvatų taikymo](https://e-tar.lt/portal/lt/legalAct/f76e7ff0826311ecbd43a994b3e2e1cb). ^s-f9a13c75108b498fa780f5e4
 
 
 4. Lengvatos įsigalioja, kai pasirinktoji priežiūros institucija praneša priežiūros institucijai ir kitų Europos ekonominės erdvės valstybių priežiūros institucijoms, kad ji prižiūrės mokumą, nulemtą Lietuvos Respublikoje ir kitose Europos ekonominės erdvės valstybėse vykdomos filialų veiklos, o kai pasirinktoji priežiūros institucija yra priežiūros institucija, – kai ji praneša atitinkamoms kitų Europos ekonominės erdvės valstybių priežiūros institucijoms. ^s-e6c9467b0fa532d1719750fa
@@ -3533,10 +3533,10 @@ Jeigu draudėjas ar gyvybės draudimo sutartyje nustatytais atvejais apdraustasi
 6. Neatšaukiamas naudos gavėjas gali būti pakeistas ar atšauktas tik jo rašytiniu sutikimu. ^s-d07f15f2a621c48eec1b5c59
 
 
-7. Laikoma, kad naudos gavėjas paskirtas, pakeistas ar atšauktas, jeigu draudikas iki draudžiamojo įvykio gavo draudėjo rašytinį pranešimą apie naudos gavėjo paskyrimą, pakeitimą ar atšaukimą ir įvykdytos šio straipsnio 4, 5 ir [[#^s-d07f15f2a621c48eec1b5c59|6 dalyse]] nurodytos sąlygos. ^s-437089fad8775cab93059f4c
+7. Laikoma, kad naudos gavėjas paskirtas, pakeistas ar atšauktas, jeigu draudikas iki draudžiamojo įvykio gavo draudėjo rašytinį pranešimą apie naudos gavėjo paskyrimą, pakeitimą ar atšaukimą ir įvykdytos šio straipsnio [[#^s-abb4f6b2206e487c41b76828|4]], [[#^s-5a61b22a8bedbe39c7305572|5]] ir [[#^s-d07f15f2a621c48eec1b5c59|6]] dalyse nurodytos sąlygos. ^s-437089fad8775cab93059f4c
 
 
-8. Draudėjas gali paskirti, pakeisti ar atšaukti naudos gavėją testamentu. Toks naudos gavėjo paskyrimas, pakeitimas ar atšaukimas laikomas tinkamu, jeigu apie tai draudikui yra raštu pranešęs draudėjas ar po draudėjo mirties jo įpėdiniai ir (iki draudėjo mirties ar po jos) yra gauti šio straipsnio 5 ir [[#^s-d07f15f2a621c48eec1b5c59|6 dalyse]] nurodyti sutikimai, kai juos būtina gauti. ^s-62e9b8c20ac4c0f4b8185046
+8. Draudėjas gali paskirti, pakeisti ar atšaukti naudos gavėją testamentu. Toks naudos gavėjo paskyrimas, pakeitimas ar atšaukimas laikomas tinkamu, jeigu apie tai draudikui yra raštu pranešęs draudėjas ar po draudėjo mirties jo įpėdiniai ir (iki draudėjo mirties ar po jos) yra gauti šio straipsnio [[#^s-5a61b22a8bedbe39c7305572|5]] ir [[#^s-d07f15f2a621c48eec1b5c59|6]] dalyse nurodyti sutikimai, kai juos būtina gauti. ^s-62e9b8c20ac4c0f4b8185046
 
 
 9. Gyvybės draudimo sutartyje nustatytais atvejais ir tvarka teisę paskirti, pakeisti ir atšaukti naudos gavėją turi ir apdraustasis. Šiuo atveju naudos gavėjo paskyrimui, pakeitimui ar atšaukimui mutatis mutandis taikomos šio straipsnio nuostatos. ^s-c775ce11691c570d49f23a89
@@ -3669,10 +3669,10 @@ SVEIKATOS DRAUDIMO YPATUMAI
 ### 130 straipsnis. Kitų šio įstatymo nuostatų taikymas ^s-50455110dc5ec077ec5709f7
 
 
-1. Sveikatos draudimo sutarčiai mutatis mutandis taikomos šio įstatymo [[#^s-4ae7fb47554c20dacbf92e3f|117 straipsnio]] 1 ir [[#^s-156f55ef746ea82f26f467d1|2 dalių]], 118, 119 ir [[#^s-173ffd7d1d1d7362f918fc4f|123 straipsnių]] nuostatos. ^s-c24ff5f6585c85800909c79b
+1. Sveikatos draudimo sutarčiai mutatis mutandis taikomos šio įstatymo [[#^s-4ae7fb47554c20dacbf92e3f|117 straipsnio]] [[#^s-eea52894c3b87e29d4b503eb|1]] ir [[#^s-217ee350dcac2d9b21a1603b|2]] dalių, [[#^s-09158adf886c89d9902d4825|118]], [[#^s-4ae561f1355671adc87d7f50|119]] ir [[#^s-173ffd7d1d1d7362f918fc4f|123]] straipsnių nuostatos. ^s-c24ff5f6585c85800909c79b
 
 
-2. Kai sveikatos draudimo sutartis yra sumų draudimo sutartis, jai mutatis mutandis taikomos ir šio įstatymo 115, 120 ir [[#^s-2c90082e03f311c8a0512e76|121 straipsnių]] nuostatos, bet netaikomos Civilinio kodekso nuostatos dėl nevisiško draudimo (6.999 straipsnis) ir papildomo draudimo (6.1000 straipsnis). ^s-156f55ef746ea82f26f467d1
+2. Kai sveikatos draudimo sutartis yra sumų draudimo sutartis, jai mutatis mutandis taikomos ir šio įstatymo [[#^s-64fdf4b2d6f54a5aa8ac3ccb|115]], [[#^s-e3c0a037d18ffb8ebbe7eede|120]] ir [[#^s-2c90082e03f311c8a0512e76|121]] straipsnių nuostatos, bet netaikomos Civilinio kodekso nuostatos dėl nevisiško draudimo (6.999 straipsnis) ir papildomo draudimo (6.1000 straipsnis). ^s-156f55ef746ea82f26f467d1
 
 
 
@@ -3779,7 +3779,7 @@ Nr. XII-718, 2013-12-19, Žin., 2013, Nr. 140-7079 (2013-12-30), i. k. 2013-0000
 1. Draudimo įmonių ir kitų Europos ekonominės erdvės valstybių draudimo įmonių bendrajam draudimui Europos ekonominės erdvės valstybėse taikomos šio straipsnio nuostatos ir netaikomos šio įstatymo [[#^s-7fa7f2f508595a6dfa802004|132 straipsnio]] nuostatos, kai bendrasis draudimas Europos ekonominės erdvės valstybėse atitinka visus šiuos kriterijus: ^s-55dbacce6305d81e891b08b2
 
 
-1) bendrojo draudimo sutartis sudaroma dėl šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] 3–16 punktuose nurodytų draudimo grupių rizikų; ^s-3bc6683f598cdc77d09e05bb
+1) bendrojo draudimo sutartis sudaroma dėl šio įstatymo [[#^s-9a04b140295744186825f1ce|7 straipsnio 3 dalies]] [[#^s-d1507d65dc43bd319bb343c6|3]]–[[#^s-2fc329417addafbb1c0cc765|16]] punktuose nurodytų draudimo grupių rizikų; ^s-3bc6683f598cdc77d09e05bb
 
 
 2) bendrojo draudimo sutartis sudaroma tik dėl didelių draudimo rizikų ir jei dėl šių draudimo rizikų masto būtina keleto draudikų teikiama draudimo apsauga; ^s-f70d0b10c6bff623bbe7fba3
@@ -3860,7 +3860,7 @@ INTERVENCINĖS PRIEMONĖS
 2) trečiosios valstybės draudimo įmonių filialams, įsteigtiems Lietuvos Respublikoje. ^s-d50381770005e5f72de3d922
 
 
-2. Teismo taikomos Civilinio kodekso 2.[[#^s-ce12ed6bca69cef6100706d6|131 straipsnio 1 dalies]] 1–8 punktuose nurodytos priemonės, jeigu jos atitinka šio įstatymo [[#^s-4b88afc20800489f29f6605c|2 straipsnio 42 dalyje]] nurodytus kriterijus, laikomos intervencinėmis priemonėmis. ^s-ff2ccb1ed24dc1f91066b87c
+2. Teismo taikomos Civilinio kodekso 2.[[#^s-ce12ed6bca69cef6100706d6|131 straipsnio 1 dalies]] [[#^s-fc4e45f494145201973588cd|1]]–8 punktuose nurodytos priemonės, jeigu jos atitinka šio įstatymo [[#^s-4b88afc20800489f29f6605c|2 straipsnio 42 dalyje]] nurodytus kriterijus, laikomos intervencinėmis priemonėmis. ^s-ff2ccb1ed24dc1f91066b87c
 
 
 3. Intervencinėmis priemonėmis laikomos priežiūros institucijos taikomos poveikio priemonės, numatytos šio įstatymo [[#^s-9f01a014440dd808db1217bd|204 straipsnio]] 5 ir 10 punktuose, ir kitos priežiūros institucijos poveikio priemonės, kurias taikydama priežiūros institucija, atsižvelgusi į galimas jų pasekmes, nurodė, kad taikomos poveikio priemonės yra intervencinės. ^s-9c4178929f78715174643469
@@ -3895,13 +3895,13 @@ INTERVENCINĖS PRIEMONĖS
 4. Priežiūros institucija privalo nedelsdama paskelbti teismo ar jos pačios sprendimo taikyti intervencines priemones rezoliucinę dalį Europos Sąjungos oficialiajame leidinyje. ^s-fa89e9b49f7b3abaeabc0aff
 
 
-5. Šio straipsnio 3 ir [[#^s-fa89e9b49f7b3abaeabc0aff|4 dalyse]] nurodytame skelbime turi būti nurodyta institucija, priėmusi sprendimą taikyti intervencines priemones, taikoma teisė ir paskirti laikinieji draudimo įmonės valdymo organo nariai. ^s-8bfa959dff889b25cae23562
+5. Šio straipsnio [[#^s-de28ebad95500907f2b73863|3]] ir [[#^s-fa89e9b49f7b3abaeabc0aff|4]] dalyse nurodytame skelbime turi būti nurodyta institucija, priėmusi sprendimą taikyti intervencines priemones, taikoma teisė ir paskirti laikinieji draudimo įmonės valdymo organo nariai. ^s-8bfa959dff889b25cae23562
 
 
-6. Intervencinės priemonės taikomos ir turi teisinių pasekmių neatsižvelgiant į tai, ar informacija apie jas yra paskelbta šio straipsnio 3 ir [[#^s-fa89e9b49f7b3abaeabc0aff|4 dalyse]] nustatyta tvarka, ar nepaskelbta. ^s-64a0a2b0f0cb6bdf4dacd583
+6. Intervencinės priemonės taikomos ir turi teisinių pasekmių neatsižvelgiant į tai, ar informacija apie jas yra paskelbta šio straipsnio [[#^s-de28ebad95500907f2b73863|3]] ir [[#^s-fa89e9b49f7b3abaeabc0aff|4]] dalyse nustatyta tvarka, ar nepaskelbta. ^s-64a0a2b0f0cb6bdf4dacd583
 
 
-7. Šio straipsnio 3, 4 ir [[#^s-8bfa959dff889b25cae23562|5 dalių]] nuostatos dėl informacijos apie intervencines priemones skelbimo netaikomos, kai intervencinės priemonės turi įtakos tik draudimo įmonės akcininkų ar draudimo įmonės arba trečiosios valstybės draudimo įmonės filialo darbuotojų teisėms. Priežiūros institucija turi teisę pavesti draudimo įmonei ar trečiosios valstybės draudimo įmonės filialui apie intervencines priemones pranešti šiems asmenims. ^s-82521beb0de835014a80ffed
+7. Šio straipsnio [[#^s-de28ebad95500907f2b73863|3]], [[#^s-fa89e9b49f7b3abaeabc0aff|4]] ir [[#^s-8bfa959dff889b25cae23562|5]] dalių nuostatos dėl informacijos apie intervencines priemones skelbimo netaikomos, kai intervencinės priemonės turi įtakos tik draudimo įmonės akcininkų ar draudimo įmonės arba trečiosios valstybės draudimo įmonės filialo darbuotojų teisėms. Priežiūros institucija turi teisę pavesti draudimo įmonei ar trečiosios valstybės draudimo įmonės filialui apie intervencines priemones pranešti šiems asmenims. ^s-82521beb0de835014a80ffed
 
 
 
@@ -4031,7 +4031,7 @@ Kai draudimo ar perdraudimo įmonė likviduojama, įsipareigojimai, atsirandanty
 2. Jeigu įstatymų nustatyta tvarka sprendimą nutraukti Lietuvos Respublikoje įsteigto trečiosios valstybės draudimo ar perdraudimo įmonės filialo veiklą ketina priimti kitos Lietuvos Respublikos institucijos, asmens, atsakingo už veiklos nutraukimą, kandidatūrą pateikia priežiūros institucija. Priėmusi sprendimą nutraukti trečiosios valstybės draudimo ar perdraudimo įmonės filialo veiklą ir paskirti asmenį, atsakingą už veiklos nutraukimą, valstybės institucija per 3 darbo dienas apie tai privalo raštu pranešti priežiūros institucijai. ^s-401b8ed125ddd511a335ca4b
 
 
-3. Panaikinusi leidimą filialo draudimo veiklai, priežiūros institucija privalo įpareigoti trečiosios valstybės draudimo įmonės filialą perleisti teises ir pareigas pagal draudimo sutartis ir nustatyti terminą, per kurį teisės ir pareigos privalo būti perleistos, išskyrus šio įstatymo [[#^s-d1ea6846070418194c859ef8|150 straipsnio 3 dalies]] 1 ir 2 punktuose nustatytus atvejus. ^s-8749c2d53c48b2692fddca8c
+3. Panaikinusi leidimą filialo draudimo veiklai, priežiūros institucija privalo įpareigoti trečiosios valstybės draudimo įmonės filialą perleisti teises ir pareigas pagal draudimo sutartis ir nustatyti terminą, per kurį teisės ir pareigos privalo būti perleistos, išskyrus šio įstatymo [[#^s-d1ea6846070418194c859ef8|150 straipsnio 3 dalies]] [[#^s-4d23fc4634b3595faea45b21|1]] ir [[#^s-b6f0150179cac972953b0629|2]] punktuose nustatytus atvejus. ^s-8749c2d53c48b2692fddca8c
 
 
 4. Jeigu trečiosios valstybės draudimo įmonės filialas per priežiūros institucijos nustatytą terminą neperleidžia teisių ir pareigų pagal draudimo sutartis, priežiūros institucija turi teisę taikyti šiame įstatyme nustatytas poveikio priemones. ^s-9c3d3165036ccd03c13aaf66
@@ -4159,10 +4159,10 @@ Kai draudimo ar perdraudimo įmonė likviduojama, įsipareigojimai, atsirandanty
 ### 151 straipsnis. Draudėjų kreditorių reikalavimai pasibaigus gyvybės draudimo sutartims ^s-e6ade308ee72d576588d8707
 
 
-1. Kiekvienas šio įstatymo 149 ar [[#^s-9f993f207d9db6c0230f40ca|150 straipsnyje]] numatytais pagrindais pasibaigusios gyvybės draudimo sutarties draudėjas įgyja kreditorių reikalavimo teisę į draudimo įmonę ar trečiosios valstybės draudimo įmonės filialą. ^s-1c6cc911f1dcd2c0e7db16d8
+1. Kiekvienas šio įstatymo [[#^s-7a3d3a085b514fa683657071|149]] ar [[#^s-9f993f207d9db6c0230f40ca|150]] straipsnyje numatytais pagrindais pasibaigusios gyvybės draudimo sutarties draudėjas įgyja kreditorių reikalavimo teisę į draudimo įmonę ar trečiosios valstybės draudimo įmonės filialą. ^s-1c6cc911f1dcd2c0e7db16d8
 
 
-2. Jeigu gyvybės draudimo sutartis sudaryta tik dėl mirties rizikos, draudėjai įgyja kreditorių reikalavimo teisę į sumokėtos draudimo įmokos dalį nuo draudimo sutarties pabaigos šio įstatymo 149 ar [[#^s-9f993f207d9db6c0230f40ca|150 straipsnyje]] numatytais pagrindais iki draudimo sutartyje numatyto draudimo sutarties termino pabaigos. ^s-d6e5501fe7b9141b1ca2e2e1
+2. Jeigu gyvybės draudimo sutartis sudaryta tik dėl mirties rizikos, draudėjai įgyja kreditorių reikalavimo teisę į sumokėtos draudimo įmokos dalį nuo draudimo sutarties pabaigos šio įstatymo [[#^s-7a3d3a085b514fa683657071|149]] ar [[#^s-9f993f207d9db6c0230f40ca|150]] straipsnyje numatytais pagrindais iki draudimo sutartyje numatyto draudimo sutarties termino pabaigos. ^s-d6e5501fe7b9141b1ca2e2e1
 
 
 3. Draudėjo, sudariusio su kapitalo kaupimu susijusią gyvybės draudimo sutartį, kreditorių reikalavimo dydis yra lygus to draudėjo draudimo sutarčiai sudarytų techninių atidėjinių dydžių sumai sutarties pabaigos dieną. ^s-b5683631454dd786077eceb1
@@ -4172,7 +4172,7 @@ Kai draudimo ar perdraudimo įmonė likviduojama, įsipareigojimai, atsirandanty
 ### 152 straipsnis. Teisių ir pareigų pagal gyvybės draudimo sutartis perleidimo ypatumai ^s-ddbb717679dce79df5c951ad
 
 
-1. Perleidžiant teises ir pareigas pagal bankrutuojančios draudimo įmonės ar trečiosios valstybės draudimo įmonės filialo, kurio įsipareigojimai viršija filialui priskirtą turtą, gyvybės draudimo sutartis, taikomos šio įstatymo [[#^s-e12df8cdb4c908379b9ccd7e|206 straipsnio]] 3, 4, 5, 8 ir 9 dalių nuostatos. ^s-65a74bf8754ef577bbfcbd91
+1. Perleidžiant teises ir pareigas pagal bankrutuojančios draudimo įmonės ar trečiosios valstybės draudimo įmonės filialo, kurio įsipareigojimai viršija filialui priskirtą turtą, gyvybės draudimo sutartis, taikomos šio įstatymo [[#^s-e12df8cdb4c908379b9ccd7e|206 straipsnio]] [[#^s-3f2f140b731aaab03e7ea3dd|3]], [[#^s-2c9c7651ddf0e8bf27a76062|4]], [[#^s-3e1b26d4ce69cfb2a0a7951c|5]], [[#^s-02b8a59ec10118b40254f51b|8]] ir [[#^s-83e8b367d4c5dab4ac43fa56|9]] dalių nuostatos. ^s-65a74bf8754ef577bbfcbd91
 
 
 2. Kai bankrutuojančios draudimo įmonės techninius atidėjinius dengiančio turto nepakanka kreditorių reikalavimams, atsirandantiems iš gyvybės draudimo, susijusio su kapitalo kaupimu, sutarčių, patenkinti, bankrutuojanti draudimo įmonė, perleidžianti teises ir pareigas pagal draudimo sutartis, turi teisę perleisti dalį pareigos dėl draudimo išmokos ir išperkamosios sumos mokėjimo. Šiuo atveju sutartyje dėl teisių ir pareigų perleidimo privalo būti nurodyta, kokią dalį draudimo išmokos ir išperkamosios sumos privalo sumokėti teises ir pareigas pagal draudimo sutartis perimantis subjektas. Nuo teisių ir pareigų pagal draudimo sutartis perleidimo momento draudėjas įgyja kreditorių reikalavimo bankrutuojančiai draudimo įmonei teisę į išperkamosios sumos, apskaičiuotos iki teisių ir pareigų perleidimo dienos, dalį, dėl kurios mokėjimo pareiga išliko bankrutuojančiai draudimo įmonei. ^s-abeecf0c08b2a13ba18d0f47
@@ -4227,7 +4227,7 @@ Priežiūros institucija, atsižvelgdama į šio įstatymo [[#^s-ddbb717679dce79
 4. Intervencinės priemonės, draudimo įmonės likvidavimas, filialo veiklos nutraukimas ar draudimo įmonės bankrotas negali turėti įtakos kreditorių teisėms į įskaitymą, kai įskaitymas yra leidžiamas pagal teisės, taikomos draudimo įmonės ar trečiosios valstybės draudimo įmonės filialo kreditorių reikalavimams, aktus. ^s-e81eb121704c4942531adbb5
 
 
-5. Šio straipsnio 1–[[#^s-e81eb121704c4942531adbb5|4 dalių]] nuostatos neriboja teisės aktuose numatytų galimybių imtis priemonių dėl veiksmų ir kitų sandorių, pažeidžiančių teisės aktus, draudimo įmonės ar trečiosios valstybės draudimo įmonės filialo kreditorių teises ar teisėtus interesus, negaliojimo, pripažinimo negaliojančiais ar uždraudimo juos vykdyti. ^s-d73cca7300de51d50cfa65de
+5. Šio straipsnio [[#^s-c588dd5faaa489cd15285547|1]]–[[#^s-e81eb121704c4942531adbb5|4]] dalių nuostatos neriboja teisės aktuose numatytų galimybių imtis priemonių dėl veiksmų ir kitų sandorių, pažeidžiančių teisės aktus, draudimo įmonės ar trečiosios valstybės draudimo įmonės filialo kreditorių teises ar teisėtus interesus, negaliojimo, pripažinimo negaliojančiais ar uždraudimo juos vykdyti. ^s-d73cca7300de51d50cfa65de
 
 
 6. Lietuvos Respublikos teisės aktų nuostatos dėl veiksmų ir kitų sandorių, pažeidžiančių teisės aktus, draudimo įmonės ar trečiosios valstybės draudimo įmonės filialo kreditorių teises ar teisėtus interesus, negaliojimo, pripažinimo negaliojančiais ar nevykdymo netaikomos, jeigu nustatoma, kad: ^s-536b28b85fa2619ea1d1f2a7
@@ -4412,7 +4412,7 @@ LIETUVOS RESPUBLIKOS DRAUDIMO BROKERIŲ ĮMONĖ
 3. Draudimo brokerių įmonė privalo apdrausti profesinę civilinę atsakomybę. Draudimo suma turi būti ne mažesnė kaip 1 000 000 eurų vienam draudžiamajam įvykiui ir 1 500 000 eurų visiems draudžiamiesiems įvykiams per metus. Draudimo apsauga privalo galioti visose Europos ekonominės erdvės valstybėse. Draudimo brokerių įmonė privalo turėti draudimo apsaugą visą savo veiklos laiką. ^s-8e3c70a7b5103cc5114d78ec
 
 
-4. Draudimo brokerių įmonė neturi teisės vykdyti jokios kitos ūkinės komercinės veiklos, išskyrus draudimo tarpininkavimo, perdraudimo tarpininkavimo ir tarpininkavimo sudarant pensijų kaupimo sutartis veiklą. Be to, draudimo brokerių įmonė gali vertinti draudžiamą turtą Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka. ^s-b0356b8964fe35e9b8817948
+4. Draudimo brokerių įmonė neturi teisės vykdyti jokios kitos ūkinės komercinės veiklos, išskyrus draudimo tarpininkavimo, perdraudimo tarpininkavimo ir tarpininkavimo sudarant pensijų kaupimo sutartis veiklą. Be to, draudimo brokerių įmonė gali vertinti draudžiamą turtą [Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nustatyta tvarka. ^s-b0356b8964fe35e9b8817948
 
 
 5. Draudimo brokerių įmonė privalo teikti priežiūros institucijai šios nustatytos formos statistinę, finansinę ir kitokią informaciją, reikalingą draudimo brokerių įmonės veiklos priežiūrai. ^s-84df08642f1d471a3f1ce411
@@ -4438,7 +4438,7 @@ Draudimo brokerių įmonę kontroliuojantys asmenys, joje dalyvaujančios įmon�
 3. Draudimo brokerių įmonė, vykdydama su draudimo sutarčių sudarymu susijusią draudimo tarpininkavimo veiklą draudiko pavedimu, privalo atsižvelgdama į draudėjo poreikius sudaryti draudėjui galimybę rinktis ir kitų, ne mažiau kaip dviejų, draudikų teikiamas tokias pačias ar pagal draudimo apsaugos pobūdį panašias draudimo paslaugas. ^s-6b8409089f7a7861d15d0248
 
 
-4. Draudimo brokerių įmonė privalo atskleisti draudėjams, apdraustiesiems, naudos gavėjams ir nukentėjusiems tretiesiems asmenims sutartinių santykių su draudikais, kurių pavedimu vykdo draudimo tarpininkavimo veiklą, pobūdį, teikti priežiūros institucijos nustatytą informaciją, o iki draudimo sutarties sudarymo teikti ir šio įstatymo 93 ir [[#^s-dda946086a97adfb34448205|116 straipsniuose]] nurodytą informaciją. ^s-a8dfc0e526387daf2466d902
+4. Draudimo brokerių įmonė privalo atskleisti draudėjams, apdraustiesiems, naudos gavėjams ir nukentėjusiems tretiesiems asmenims sutartinių santykių su draudikais, kurių pavedimu vykdo draudimo tarpininkavimo veiklą, pobūdį, teikti priežiūros institucijos nustatytą informaciją, o iki draudimo sutarties sudarymo teikti ir šio įstatymo [[#^s-a453637aa43f5813e7a04df7|93]] ir [[#^s-dda946086a97adfb34448205|116]] straipsniuose nurodytą informaciją. ^s-a8dfc0e526387daf2466d902
 
 
 5. Su draudimo ir perdraudimo tarpininkavimu susijusias funkcijas draudimo brokerių įmonėje gali atlikti tik joje dirbantis ar renkamas pareigas einantis draudimo brokeris. ^s-cc5d3ee1e4acaa25d8a38b27
@@ -4920,7 +4920,7 @@ LIETUVOS RESPUBLIKOS PRIKLAUSOMI DRAUDIMO TARPININKAI
 2) draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas, sudarydami sutartį su priklausomu draudimo tarpininku, prisiėmė prievolę visiškai atlyginti žalą, atsiradusią dėl priklausomo draudimo tarpininko profesinių pareigų nevykdymo ar netinkamo vykdymo. ^s-5d7b95ffb55294834c15282c
 
 
-3. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas privalo užtikrinti, kad priklausomi draudimo tarpininkai, veikiantys jų vardu ir dėl jų interesų, laikytųsi šio straipsnio 1 ar [[#^s-3621a87ead3db7c4a6f4ff4c|2 dalyje]] nurodytų reikalavimų. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas, kurie nevykdo šios pareigos, privalo visiškai atlyginti žalą, atsiradusią dėl priklausomo draudimo tarpininko profesinių pareigų nevykdymo ar netinkamo vykdymo. ^s-053fa975aaa6896768c00af3
+3. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas privalo užtikrinti, kad priklausomi draudimo tarpininkai, veikiantys jų vardu ir dėl jų interesų, laikytųsi šio straipsnio [[#^s-1a2c07ced9f4a6fec4be2bcb|1]] ar [[#^s-3621a87ead3db7c4a6f4ff4c|2]] dalyje nurodytų reikalavimų. Draudimo įmonė ar trečiosios valstybės draudimo įmonės filialas, kurie nevykdo šios pareigos, privalo visiškai atlyginti žalą, atsiradusią dėl priklausomo draudimo tarpininko profesinių pareigų nevykdymo ar netinkamo vykdymo. ^s-053fa975aaa6896768c00af3
 
 
 4. Draudimo įmonės ar trečiosios valstybės draudimo įmonių filialai privalo organizuoti profesinius mokymus draudimo agentų įmonėse dirbantiems darbuotojams, į kurių pareigas įeina draudimo tarpininkavimas, ir draudimo agentams. ^s-b7915e1496e9e94ec124f89d
@@ -4936,7 +4936,7 @@ LIETUVOS RESPUBLIKOS PRIKLAUSOMI DRAUDIMO TARPININKAI
 2. Priklausomam draudimo tarpininkui draudžiama tuo pačiu metu vykdyti draudimo tarpininkavimo veiklą dviejų ar daugiau draudikų vardu ir dėl jų interesų, susijusią su draudimo sutartimis, kurių draudimo apsauga yra tokia pati ar panaši. ^s-2ac56d49dd9230a3388f8bd7
 
 
-3. Priklausomas draudimo tarpininkas privalo teikti draudėjams, apdraustiesiems, naudos gavėjams ir nukentėjusiems tretiesiems asmenims priežiūros institucijos nustatytą informaciją, o iki draudimo sutarties sudarymo teikti ir šio įstatymo 93 ir [[#^s-dda946086a97adfb34448205|116 straipsniuose]] nurodytą informaciją. ^s-2c8f336625d1d3e73cee1294
+3. Priklausomas draudimo tarpininkas privalo teikti draudėjams, apdraustiesiems, naudos gavėjams ir nukentėjusiems tretiesiems asmenims priežiūros institucijos nustatytą informaciją, o iki draudimo sutarties sudarymo teikti ir šio įstatymo [[#^s-a453637aa43f5813e7a04df7|93]] ir [[#^s-dda946086a97adfb34448205|116]] straipsniuose nurodytą informaciją. ^s-2c8f336625d1d3e73cee1294
 
 
 4. Draudimo įmoka, sumokėta priklausomam draudimo tarpininkui, laikoma sumokėta draudimo įmonei ar trečiosios valstybės draudimo įmonės filialui, tačiau sumos, draudimo įmonės ar trečiosios valstybės draudimo įmonės filialo sumokėtos priklausomam draudimo tarpininkui ir skirtos išmokėti draudėjui, apdraustajam, naudos gavėjui ar nukentėjusiam trečiajam asmeniui, laikomos sumokėtomis šiems asmenims tik tada, kai jie faktiškai gauna šias sumas. ^s-0a4771684f2550d0dd061c66
@@ -4952,7 +4952,7 @@ LIETUVOS RESPUBLIKOS PRIKLAUSOMI DRAUDIMO TARPININKAI
 1. Priklausomam draudimo tarpininkui, tarpininkaujančiam kitos Europos ekonominės erdvės valstybės draudimo įmonei, Lietuvos Respublikoje teikiančiai paslaugas ar įsteigusiai filialą, taikomi tie patys reikalavimai kaip ir tarpininkaujant draudimo įmonei ar trečiosios valstybės draudimo įmonės filialui. ^s-2a3e8b8be05265a76aff90c2
 
 
-2. Šio įstatymo 182–[[#^s-c0393bbd154a5a9948708329|184 straipsnių]] ir [[#^s-5e18dd6683c6eb25dffaa9e8|186 straipsnio]] nuostatos mutatis mutandis taikomos ir kitos Europos ekonominės erdvės valstybės draudimo įmonėms, turinčioms Lietuvos Respublikos priklausomus draudimo tarpininkus. ^s-04ff6b99a7d29f667e388f2e
+2. Šio įstatymo [[#^s-730446ee7f545b4527638eec|182]]–[[#^s-c0393bbd154a5a9948708329|184]] straipsnių ir [[#^s-5e18dd6683c6eb25dffaa9e8|186 straipsnio]] nuostatos mutatis mutandis taikomos ir kitos Europos ekonominės erdvės valstybės draudimo įmonėms, turinčioms Lietuvos Respublikos priklausomus draudimo tarpininkus. ^s-04ff6b99a7d29f667e388f2e
 
 
 3. Priežiūros institucija teikia rekomendacijas kitos Europos ekonominės erdvės valstybės draudimo įmonei, Lietuvos Respublikoje teikiančiai paslaugas ar įsteigusiai filialą, dėl priklausomų draudimo tarpininkų sąrašo tvarkymo, profesinės civilinės atsakomybės draudimo kontrolės, draudimo agentų ir draudimo agentų įmonių darbuotojų, į kurių pareigas įeina draudimo tarpininkavimas, profesinio mokymo. ^s-e7be7de0dd48b5ae980446aa
@@ -4983,7 +4983,7 @@ Perdraudimo tarpininkai
 ### 187 straipsnis. Perdraudimo tarpininkai ^s-2de5f7efae012e1ca5968263
 
 
-1. Subjektai, nurodyti šio įstatymo [[#^s-f7a9952c618e796b8d2190f8|3 straipsnio 1 dalies]] 1 ir 3 punktuose, 4 straipsnio 1 dalies 1 ir 3 punktuose ir 5 straipsnio 2 dalies 1 punkte, taip pat 5 straipsnio 2 dalies 3 punkte nurodyti trečiųjų valstybių nepriklausomų draudimo tarpininkų filialai turi teisę vykdyti perdraudimo tarpininkavimo veiklą tik po to, kai priežiūros institucija šios nustatyta tvarka įrašo juos į priežiūros institucijos tvarkomą perdraudimo tarpininkų sąrašą. Perdraudimo tarpininkų sąrašas skelbiamas priežiūros institucijos interneto svetainėje. ^s-46a10019b0d287b949462bcf
+1. Subjektai, nurodyti šio įstatymo [[#^s-f7a9952c618e796b8d2190f8|3 straipsnio 1 dalies]] [[#^s-74450731596de1308bffea4d|1]] ir [[#^s-8e3a0a97077f6384b4cf3754|3]] punktuose, 4 straipsnio 1 dalies [[#^s-f12e19d8cf71b0b2f5083c7f|1]] ir [[#^s-429031053449d1f64a2cf780|3]] punktuose ir 5 straipsnio 2 dalies 1 punkte, taip pat 5 straipsnio 2 dalies 3 punkte nurodyti trečiųjų valstybių nepriklausomų draudimo tarpininkų filialai turi teisę vykdyti perdraudimo tarpininkavimo veiklą tik po to, kai priežiūros institucija šios nustatyta tvarka įrašo juos į priežiūros institucijos tvarkomą perdraudimo tarpininkų sąrašą. Perdraudimo tarpininkų sąrašas skelbiamas priežiūros institucijos interneto svetainėje. ^s-46a10019b0d287b949462bcf
 
 
 2. Perdraudimo tarpininkas gali būti įrašytas į priežiūros institucijos tvarkomą perdraudimo tarpininkų sąrašą, jeigu jis: ^s-a3fb3685be748dc13341dcd0
@@ -5060,7 +5060,7 @@ Kitų Europos ekonominės erdvės valstybių draudimo ir perdraudimo tarpininkai
 ### 191 straipsnis. Draudimo ir perdraudimo tarpininkų veikla ^s-41a4af4b3e9cb56fb25f0a45
 
 
-1. Kitų Europos ekonominės erdvės valstybių draudimo ar perdraudimo tarpininkai privalo teikti draudėjams, apdraustiesiems, naudos gavėjams, nukentėjusiems tretiesiems asmenims ir kitiems asmenims priežiūros institucijos nustatytą informaciją, o draudimo tarpininkai iki draudimo sutarties sudarymo – ir šio įstatymo 93 ir [[#^s-dda946086a97adfb34448205|116 straipsniuose]] nurodytą informaciją. ^s-f620726d805dcf115c922c65
+1. Kitų Europos ekonominės erdvės valstybių draudimo ar perdraudimo tarpininkai privalo teikti draudėjams, apdraustiesiems, naudos gavėjams, nukentėjusiems tretiesiems asmenims ir kitiems asmenims priežiūros institucijos nustatytą informaciją, o draudimo tarpininkai iki draudimo sutarties sudarymo – ir šio įstatymo [[#^s-a453637aa43f5813e7a04df7|93]] ir [[#^s-dda946086a97adfb34448205|116]] straipsniuose nurodytą informaciją. ^s-f620726d805dcf115c922c65
 
 
 2. Kitų Europos ekonominės erdvės valstybių draudimo ir perdraudimo tarpininkai, vykdydami veiklą Lietuvos Respublikoje, privalo laikytis šiame įstatyme tiesiogiai jiems nustatytų reikalavimų ir laikytis kitų Lietuvos Respublikos teisės aktų. ^s-a1569289ee449ed6bb2772c9
@@ -5162,7 +5162,7 @@ trečiųjų VALSTYBIŲ draudimo IR PERDRAUDIMO tarpininkų veikla lietuvos respu
 1. Trečiųjų valstybių perdraudimo tarpininkai turi teisę teikti paslaugas Lietuvos Respublikoje neįsisteigę arba steigti filialą Lietuvos Respublikoje. ^s-136e1effd58883b131d18e52
 
 
-2. Trečiųjų valstybių perdraudimo tarpininkų filialų veiklai Lietuvos Respublikoje mutatis mutandis taikomos šio įstatymo [[#^s-2de5f7efae012e1ca5968263|187 straipsnio]] 1, 2 ir 3 dalių nuostatos. ^s-cb31cb6128b5123b2af9df41
+2. Trečiųjų valstybių perdraudimo tarpininkų filialų veiklai Lietuvos Respublikoje mutatis mutandis taikomos šio įstatymo [[#^s-2de5f7efae012e1ca5968263|187 straipsnio]] [[#^s-46a10019b0d287b949462bcf|1]], [[#^s-a3fb3685be748dc13341dcd0|2]] ir [[#^s-12194e2491341c9a56acfdff|3]] dalių nuostatos. ^s-cb31cb6128b5123b2af9df41
 
 
 
@@ -5289,7 +5289,7 @@ BENDROSIOS NUOSTATOS
 6. Priežiūros institucijos reikalavimu draudimo ir perdraudimo įmonės privalo ištaisyti atliekant jų priežiūrą nustatytus trūkumus ar neatitikimus. ^s-35a0abb7858e239f9245b626
 
 
-7. Šio straipsnio 1, 2 ir [[#^s-3fcadfbcb564ff120944f880|5 dalyse]] nurodytus tikrinimus ir vertinimus priežiūros institucija atlieka reguliariai. ^s-22283070924a150c3996a647
+7. Šio straipsnio [[#^s-477c6cdde756bfa3d5ef1c46|1]], [[#^s-18b4734a0698b807d3eb0fdc|2]] ir [[#^s-3fcadfbcb564ff120944f880|5]] dalyse nurodytus tikrinimus ir vertinimus priežiūros institucija atlieka reguliariai. ^s-22283070924a150c3996a647
 
 
 8. Priežiūros institucija, atsižvelgdama į atitinkamos draudimo ar perdraudimo įmonės veiklos pobūdį, mastą ir sudėtingumą, nustato tikrinimo ir vertinimo dažnumą ir mastą. ^s-8547ec35e584d281367c7457
@@ -5347,7 +5347,7 @@ Priežiūros institucija, įgyvendindama šio įstatymo nuostatas, atlieka šias
 13) pagal savo kompetenciją atstovauja Lietuvos Respublikos interesams Europos Sąjungos institucijose ir jų darbo organuose; ^s-7b104e5b800e771b73c2fc30
 
 
-14) bendradarbiauja su Europos draudimo ir profesinių pensijų institucija, dalyvauja jos veikloje ir, atlikdama savo funkcijas, atsižvelgia į Europos draudimo ir profesinių pensijų institucijos parengtas gaires ir rekomendacijas, o jeigu neatsižvelgia, nurodo to priežastis, taip pat nedelsdama teikia Europos draudimo ir profesinių pensijų institucijai informaciją, reikalingą jos funkcijoms pagal Reglamentą (ES) Nr. 1094/2010 atlikti; ^s-9718dd70d73e7ace837a5232
+14) bendradarbiauja su Europos draudimo ir profesinių pensijų institucija, dalyvauja jos veikloje ir, atlikdama savo funkcijas, atsižvelgia į Europos draudimo ir profesinių pensijų institucijos parengtas gaires ir rekomendacijas, o jeigu neatsižvelgia, nurodo to priežastis, taip pat nedelsdama teikia Europos draudimo ir profesinių pensijų institucijai informaciją, reikalingą jos funkcijoms pagal [Reglamentą (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj) atlikti; ^s-9718dd70d73e7ace837a5232
 Straipsnio punkto pakeitimai:
 Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
@@ -5458,7 +5458,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 2) kitų Europos ekonominės erdvės valstybių finansų ir kapitalo rinkos priežiūrą atliekančioms institucijoms; ^s-80eca284312d1a0657e87de3
 
 
-3) Europos draudimo ir profesinių pensijų institucijai, kaip numatyta šiame įstatyme ir Reglamente (ES) Nr. 1094/2010; ^s-f8b451d3533147f2f378f264
+3) Europos draudimo ir profesinių pensijų institucijai, kaip numatyta šiame įstatyme ir [Reglamente (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj); ^s-f8b451d3533147f2f378f264
 Straipsnio punkto pakeitimai:
 Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
@@ -5494,7 +5494,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
-12) Europos sisteminės rizikos valdybai, įsteigtai 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1), o esant kritinėms situacijoms – nedelsdama. ^s-f93a2639373b91a230fbdcc6
+12) Europos sisteminės rizikos valdybai, įsteigtai 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj) dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1), o esant kritinėms situacijoms – nedelsdama. ^s-f93a2639373b91a230fbdcc6
 Papildyta straipsnio punktu:
 Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
@@ -5515,7 +5515,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 11. Priežiūros institucija turi pranešti Komisijai ir kitų Europos ekonominės erdvės valstybių priežiūros institucijoms asmenų, institucijų ir įstaigų, nurodytų [[#^s-cec6357cd1cdf4daa82482f2|šio straipsnio 7 dalyje]], galinčių gauti informaciją, pavadinimus ar vardus ir pavardes. ^s-068c621e9f8befe5d847471e
 
 
-12. Šio straipsnio 3, 4, [[#^s-18866023b3c32f9743b9c849|6 dalys]] ir [[#^s-cec6357cd1cdf4daa82482f2|7 dalies]] 4 ir 10 punktai nedaro poveikio Europos Parlamento tyrimo įgaliojimams, suteiktiems pagal Sutarties dėl Europos Sąjungos veikimo 226 straipsnį. ^s-aca7a0b9439d1f18d876e36a
+12. Šio straipsnio [[#^s-d16841317a29d2a8aef98cf2|3]], [[#^s-bc3f2721cf58d553fce2dddf|4]], [[#^s-18866023b3c32f9743b9c849|6]] dalys ir [[#^s-cec6357cd1cdf4daa82482f2|7 dalies]] 4 ir 10 punktai nedaro poveikio Europos Parlamento tyrimo įgaliojimams, suteiktiems pagal Sutarties dėl Europos Sąjungos veikimo 226 straipsnį. ^s-aca7a0b9439d1f18d876e36a
 Papildyta straipsnio dalimi:
 Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
@@ -5536,7 +5536,7 @@ Priežiūros institucija turi teisę taikyti šias poveikio priemones:
 3) šio įstatymo [[#^s-6d55021f1c91010fd676de1f|208 straipsnyje]] nustatytais pagrindais skirti šio įstatymo [[#^s-6d55021f1c91010fd676de1f|208 straipsnyje]] nustatytas baudas; ^s-3817c60a19c741393748fb1c
 
 
-4) šio įstatymo 45 ar [[#^s-85c5b84224d0e78edb8e7a35|46 straipsnyje]] nustatytais atvejais pareikalauti, kad draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas pateiktų finansinės būklės atkūrimo planus, ir nustatyti šių planų pateikimo terminus; ^s-8d6e8701a26db55174ca24a3
+4) šio įstatymo [[#^s-ac4c8328778232d18c5cd0b7|45]] ar [[#^s-85c5b84224d0e78edb8e7a35|46]] straipsnyje nustatytais atvejais pareikalauti, kad draudimo ar perdraudimo įmonė ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas pateiktų finansinės būklės atkūrimo planus, ir nustatyti šių planų pateikimo terminus; ^s-8d6e8701a26db55174ca24a3
 
 
 5) šio įstatymo [[#^s-e12df8cdb4c908379b9ccd7e|206 straipsnyje]] nustatytais pagrindais įpareigoti draudimo įmonę ar trečiosios valstybės draudimo įmonės filialą per priežiūros institucijos nustatytą terminą perleisti teises ir pareigas pagal draudimo sutartis; ^s-db85cc326030d01d5495acc9
@@ -5557,13 +5557,13 @@ Priežiūros institucija turi teisę taikyti šias poveikio priemones:
 10) šio įstatymo [[#^s-57aa30ea43ffffd2cb5d9d37|207 straipsnyje]] nustatytais pagrindais areštuoti draudimo ar perdraudimo įmonių ir Lietuvos Respublikoje įsteigtų trečiųjų valstybių draudimo ar perdraudimo įmonių filialų turtą; ^s-4adc33571f5472a319516fc2
 
 
-11) šio įstatymo [[#^s-8a7538b82d78da333766f6a4|165 straipsnio 5 dalies]] 3–[[#^s-9763a97a1d7d32b427c80c9f|7 punktuose]] ir 6 dalyje nustatytais pagrindais išbraukti draudimo brokerį iš draudimo brokerių sąrašo ar laikinai sustabdyti draudimo brokerio pažymėjimo galiojimą; ^s-d67d1edaffe1c8504d7d844f
+11) šio įstatymo [[#^s-8a7538b82d78da333766f6a4|165 straipsnio 5 dalies]] [[#^s-a933d5ae7425e57d0e90dccd|3]]–[[#^s-fe54fc547e3a174a251f9993|7]] punktuose ir 6 dalyje nustatytais pagrindais išbraukti draudimo brokerį iš draudimo brokerių sąrašo ar laikinai sustabdyti draudimo brokerio pažymėjimo galiojimą; ^s-d67d1edaffe1c8504d7d844f
 
 
 12) laikinai sustabdyti draudimo veiklos licencijos, perdraudimo veiklos licencijos, draudimo brokerių įmonės veiklos licencijos, leidimo trečiosios valstybės draudimo ar perdraudimo įmonės filialo veiklai ar kitos trečiosios valstybės nepriklausomų draudimo tarpininkų filialo veiklai Lietuvos Respublikoje ar jų suteikiamų teisių galiojimą, laikinai uždrausti priklausomam draudimo ar perdraudimo tarpininkui vykdyti draudimo tarpininkavimo veiklą; ^s-395a49fa970f56943450b0c9
 
 
-13) šio įstatymo [[#^s-17ccd27095db944aec3b605c|20 straipsnio 2 dalies]] 1, 2, 4, 5 ir [[#^s-be90fd4a60a8d2409b23ce77|6 punktuose]] ir 3 dalyje, [[#^s-764153010aa61e8228a83feb|82 straipsnio 2 dalies]] 1, 2, 4–[[#^s-4adc33571f5472a319516fc2|10 punktuose]] ir 3 dalyje, [[#^s-2267136d573d5b80264a0365|164 straipsnio 2 dalies]] 1, 2, 4, [[#^s-db85cc326030d01d5495acc9|5 punktuose]] ar [[#^s-1bfde7ae6281842109d6e13c|194 straipsnio 2 dalies]] 1, 2, 4, [[#^s-db85cc326030d01d5495acc9|5 punktuose]] nustatytais pagrindais panaikinti draudimo veiklos licencijos, perdraudimo veiklos licencijos, draudimo brokerių įmonės veiklos licencijos, leidimo trečiosios valstybės draudimo ar perdraudimo įmonės filialo veiklai ar trečiosios valstybės nepriklausomų draudimo tarpininkų filialo veiklai Lietuvos Respublikoje galiojimą, visam laikui uždrausti priklausomam draudimo ar perdraudimo tarpininkui vykdyti draudimo tarpininkavimo veiklą. ^s-1e08dcea9c9f8b9e7bfee6a1
+13) šio įstatymo [[#^s-17ccd27095db944aec3b605c|20 straipsnio 2 dalies]] [[#^s-8ac59746dcf43a7ddd566cd7|1]], [[#^s-6d9228d900833c78d624168d|2]], [[#^s-77d1f8365973e76cc1d9065d|4]], [[#^s-5b71b524cadd15adde6577c2|5]] ir [[#^s-5be42a1f81e8ee35b3a0b376|6]] punktuose ir 3 dalyje, [[#^s-764153010aa61e8228a83feb|82 straipsnio 2 dalies]] [[#^s-08a91a9b48f232ef9aa841dc|1]], [[#^s-40f3460e21e8b9eefcb016c6|2]], [[#^s-925f1477e13a520ece4c0190|4]]–[[#^s-a651f7b81c505f13eb07bc9a|10]] punktuose ir 3 dalyje, [[#^s-2267136d573d5b80264a0365|164 straipsnio 2 dalies]] [[#^s-fdc905ce1239242211f50321|1]], [[#^s-4882c38f7c7cbe873a437d11|2]], [[#^s-e92fa9b6eafb6554d414aa54|4]], [[#^s-04d54757b61349f190d3709e|5]] punktuose ar [[#^s-1bfde7ae6281842109d6e13c|194 straipsnio 2 dalies]] [[#^s-237504c629617cf5c137016f|1]], [[#^s-ef3a02240786bb21451ad9d0|2]], [[#^s-79358d722bc959d58de77c7e|4]], [[#^s-92a0ce76851b6f302be26ced|5]] punktuose nustatytais pagrindais panaikinti draudimo veiklos licencijos, perdraudimo veiklos licencijos, draudimo brokerių įmonės veiklos licencijos, leidimo trečiosios valstybės draudimo ar perdraudimo įmonės filialo veiklai ar trečiosios valstybės nepriklausomų draudimo tarpininkų filialo veiklai Lietuvos Respublikoje galiojimą, visam laikui uždrausti priklausomam draudimo ar perdraudimo tarpininkui vykdyti draudimo tarpininkavimo veiklą. ^s-1e08dcea9c9f8b9e7bfee6a1
 
 
 
@@ -5615,7 +5615,7 @@ Priežiūros institucija turi teisę taikyti šias poveikio priemones:
 2. Priežiūros institucija parenka poveikio priemonę atsižvelgdama į pažeidimo, dėl kurio taikoma ši priemonė, turinį, asmens kaltę, poveikio priemonės proporcingumą pažeidimui, šio pažeidimo ir taikomos priemonės pasekmes asmeniui, kuriam taikoma poveikio priemonė, ir draudimo, perdraudimo, draudimo ir perdraudimo tarpininkavimo sistemos saugumui, stabilumui ir patikimumui Lietuvos Respublikoje ir pagal turimą informaciją – Europos ekonominės erdvės valstybėse. ^s-38e8162e6bcb31a598b6804d
 
 
-3. Sprendimas dėl poveikio priemonės taikymo, išskyrus šio įstatymo [[#^s-b8b78892e21714cac3107d39|204 straipsnio 2 punkte]] nurodytą poveikio priemonę, privalo būti priimtas per 3 mėnesius nuo pažeidimo ar pagrindo taikyti poveikio priemonę nustatymo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip 2 metai, poveikio priemonės negali būti taikomos. ^s-71a1a50e941e61e5d1d32453
+3. Sprendimas dėl poveikio priemonės taikymo, išskyrus šio įstatymo 204 straipsnio 2 punkte nurodytą poveikio priemonę, privalo būti priimtas per 3 mėnesius nuo pažeidimo ar pagrindo taikyti poveikio priemonę nustatymo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip 2 metai, poveikio priemonės negali būti taikomos. ^s-71a1a50e941e61e5d1d32453
 
 
 4. Klausimas dėl poveikio priemonės taikymo svarstomas dalyvaujant asmeniui, kuriam taikoma poveikio priemonė, arba jo atstovams. Asmens arba jo atstovo neatvykimas, jeigu jiems apie klausimo dėl poveikio priemonės taikymo svarstymą buvo tinkamai pranešta, nėra kliūtis priimti sprendimą taikyti poveikio priemonę. ^s-0c5c25227ae0451776ff5fcf
@@ -5627,7 +5627,7 @@ Priežiūros institucija turi teisę taikyti šias poveikio priemones:
 6. Sprendimo dėl poveikio priemonės taikymo rezoliucinė dalis priežiūros institucijos sprendimu gali būti skelbiama viešai priežiūros institucijos interneto svetainėje ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos. ^s-ad93bfbbf94f59944d7d3163
 
 
-7. Priežiūros institucija turi teisę imtis visų reikiamų priemonių, kad apsaugotų draudėjų interesus pagal draudimo ar perdraudimo sutartis, kai draudimo ar perdraudimo įmonės, Lietuvos Respublikoje įsteigtų trečiųjų valstybių draudimo ar perdraudimo įmonės filialo finansinė padėtis blogėja, neatsižvelgdama į šio įstatymo 45 ir [[#^s-85c5b84224d0e78edb8e7a35|46 straipsnių]] nuostatas. Taikomos priemonės turi būti proporcingos ir atitikti mokumo būklės pablogėjimo lygį ir trukmę. ^s-d131d220a707478252b3474a
+7. Priežiūros institucija turi teisę imtis visų reikiamų priemonių, kad apsaugotų draudėjų interesus pagal draudimo ar perdraudimo sutartis, kai draudimo ar perdraudimo įmonės, Lietuvos Respublikoje įsteigtų trečiųjų valstybių draudimo ar perdraudimo įmonės filialo finansinė padėtis blogėja, neatsižvelgdama į šio įstatymo [[#^s-ac4c8328778232d18c5cd0b7|45]] ir [[#^s-85c5b84224d0e78edb8e7a35|46]] straipsnių nuostatas. Taikomos priemonės turi būti proporcingos ir atitikti mokumo būklės pablogėjimo lygį ir trukmę. ^s-d131d220a707478252b3474a
 
 
 8. Jeigu teisės pažeidimas yra mažareikšmis ir (ar) jeigu įstatymo reikalavimų laikymasis gali būti užtikrintas kitomis priemonėmis, vadovaujantis teisingumo ir protingumo kriterijais, šio įstatymo [[#^s-9f01a014440dd808db1217bd|204 straipsnyje]] numatyta poveikio priemonė gali būti neskiriama. ^s-d966120010fe68a76116f7c8
@@ -5680,10 +5680,10 @@ Priežiūros institucija turi teisę taikyti šias poveikio priemones:
 1) nevykdomi techninių atidėjinių skaičiavimo reikalavimai (šio įstatymo [[#^s-2315c6feccc5129a3e861ffa|41 straipsnis]]); ^s-cea09f033f8237b4acae03d3
 
 
-2) nevykdomi mokumo kapitalo ar minimalaus kapitalo reikalavimai (šio įstatymo 37 ir [[#^s-73ee8420c4e305b4364eaa77|40 straipsniai]]); ^s-f82da9a04c495ac8ee9b9477
+2) nevykdomi mokumo kapitalo ar minimalaus kapitalo reikalavimai (šio įstatymo [[#^s-eac8c7a94812157660f379ce|37]] ir [[#^s-73ee8420c4e305b4364eaa77|40]] straipsniai); ^s-f82da9a04c495ac8ee9b9477
 
 
-3) nepateikti finansinės būklės atkūrimo planai arba jie yra nevykdomi (šio įstatymo 45 ir [[#^s-85c5b84224d0e78edb8e7a35|46 straipsniai]]); ^s-2a9f561b0749b2f247553e37
+3) nepateikti finansinės būklės atkūrimo planai arba jie yra nevykdomi (šio įstatymo [[#^s-ac4c8328778232d18c5cd0b7|45]] ir [[#^s-85c5b84224d0e78edb8e7a35|46]] straipsniai); ^s-2a9f561b0749b2f247553e37
 
 
 4) nevykdomas priežiūros institucijos įpareigojimas perleisti teises ir pareigas pagal draudimo sutartis; ^s-6b7c2346ec68ac413f5163cc
@@ -5692,7 +5692,7 @@ Priežiūros institucija turi teisę taikyti šias poveikio priemones:
 5) panaikinamas draudimo ar perdraudimo veiklos licencijos ar leidimo filialo draudimo ar perdraudimo veiklai galiojimas. ^s-bb9e64d820c97c8c0a20d579
 
 
-2. Turto areštas skiriamas šio įstatymo [[#^s-c58aa76cb85c7f426a6b9298|205 straipsnio]] 2–5 dalyse nustatyta tvarka. Turto arešto aktą pasirašo priežiūros institucijos vadovas. Turto arešto aktas registruojamas [[latest/TAR.9E28E8E2F3F3|Lietuvos Respublikos turto arešto aktų registro įstatymo]] nustatyta tvarka. ^s-24f6e78ef0b7c7daa4d5afa4
+2. Turto areštas skiriamas šio įstatymo [[#^s-c58aa76cb85c7f426a6b9298|205 straipsnio]] [[#^s-38e8162e6bcb31a598b6804d|2]]–[[#^s-06cea0d3e349f26c77abb1d6|5]] dalyse nustatyta tvarka. Turto arešto aktą pasirašo priežiūros institucijos vadovas. Turto arešto aktas registruojamas [[latest/TAR.9E28E8E2F3F3|Lietuvos Respublikos turto arešto aktų registro įstatymo]] nustatyta tvarka. ^s-24f6e78ef0b7c7daa4d5afa4
 
 
 3. Priežiūros institucija turi teisę pareikšti teisme ieškinį dėl sandorio dėl areštuoto turto pripažinimo negaliojančiu. ^s-b55c48e5a8ed17ccf7a3b375
@@ -5711,25 +5711,25 @@ Priežiūros institucija turi teisę taikyti šias poveikio priemones:
 3. Draudimo įmonei, perdraudimo įmonei, draudimo ar perdraudimo tarpininkų įmonei, draudimo kontroliuojančiajai įmonei, mišrios veiklos finansų kontroliuojančiajai įmonei, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonei, kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko įmonei, trečiosios valstybės draudimo ar perdraudimo įmonei, draudimo ar perdraudimo tarpininko įmonei, draudimo ar perdraudimo įmonės pasitelktam asmeniui (šio įstatymo [[#^s-7977fe4a7250ad117d0e10aa|30 straipsnis]]), šiurkščiai pažeidusiems šį įstatymą ar kitus draudimo, perdraudimo ir draudimo ar perdraudimo tarpininkavimo veiklą reglamentuojančius teisės aktus, gali būti skiriama iki 100 000 eurų bauda. ^s-75322a85bc8a80732f4b58c2
 
 
-4. Draudimo įmonei, perdraudimo įmonei, draudimo tarpininkų įmonei ar užsienio valstybės draudimo ar perdraudimo įmonės ar nepriklausomo draudimo tarpininko įmonės filialui, pažeidusiems 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamente (EB) Nr.  1060/2009 dėl kredito reitingų agentūrų nustatytus reikalavimus, gali būti skiriama iki  100 000 eurų bauda. ^s-b942bfdd4f795dc14677bb6d
+4. Draudimo įmonei, perdraudimo įmonei, draudimo tarpininkų įmonei ar užsienio valstybės draudimo ar perdraudimo įmonės ar nepriklausomo draudimo tarpininko įmonės filialui, pažeidusiems 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr.  1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) dėl kredito reitingų agentūrų nustatytus reikalavimus, gali būti skiriama iki  100 000 eurų bauda. ^s-b942bfdd4f795dc14677bb6d
 Papildyta straipsnio dalimi:
 Nr. XII-1476, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21138
 
 
 
-5. Bauda skiriama šio įstatymo [[#^s-c58aa76cb85c7f426a6b9298|205 straipsnio]] 2–[[#^s-8323f6fc75561b14884744ae|5 dalyse]] nustatyta tvarka. ^s-8323f6fc75561b14884744ae
+5. Bauda skiriama šio įstatymo [[#^s-c58aa76cb85c7f426a6b9298|205 straipsnio]] [[#^s-38e8162e6bcb31a598b6804d|2]]–[[#^s-06cea0d3e349f26c77abb1d6|5]] dalyse nustatyta tvarka. ^s-8323f6fc75561b14884744ae
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1476, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21138
 
 
 
-6. Priežiūros institucijos paskirta bauda į valstybės biudžetą turi būti sumokėta ne vėliau kaip per vieną mėnesį nuo dienos, kurią asmuo, kuriam paskirta bauda, gavo sprendimą dėl baudos paskyrimo. ^s-9807fca67c384b477d486566
+6. Priežiūros institucijos paskirta bauda į valstybės biudžetą turi būti sumokėta ne vėliau kaip per vieną mėnesį nuo dienos, kurią asmuo, kuriam paskirta bauda, gavo sprendimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) paskyrimo. ^s-9807fca67c384b477d486566
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1476, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21138
 
 
 
-7. Nesumokėta bauda išieškoma Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-e9893fead9ed1a09e645426b
+7. Nesumokėta bauda išieškoma [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-e9893fead9ed1a09e645426b
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1476, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21138
 
@@ -5762,10 +5762,10 @@ Nr. XII-1476, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21138
 3) turi teisę dalyvauti kitos Europos ekonominės erdvės valstybės priežiūros institucijos atliekamame Europos ekonominės erdvės valstybės draudimo ir perdraudimo įmonės filialo Lietuvos Respublikoje patikrinime; ^s-5f0c521f9359ea467d8d1c27
 
 
-4) turi teisę šio įstatymo [[#^s-f66bb35c6b586169995899c2|205 straipsnio 1 dalies]] 1 ir [[#^s-b4b777e9e5999a382975a82d|2 punktuose]] nustatytais pagrindais, taip pat kai pablogėja kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonės finansinė būklė, kai kitos Europos ekonominės erdvės valstybės draudimo įmonės veikla gali pažeisti draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesus arba kyla tokio pablogėjimo ar pažeidimo grėsmė, taikyti poveikio priemones, nustatytas [[#^s-d47c804b35cee940bac48109|šio straipsnio 4 dalyje]]; ^s-f3370f2c2c0cb9871eb14d49
+4) turi teisę šio įstatymo [[#^s-f66bb35c6b586169995899c2|205 straipsnio 1 dalies]] [[#^s-682758a37a80834c61076aa2|1]] ir [[#^s-5207050ff206a6d293ce49d2|2]] punktuose nustatytais pagrindais, taip pat kai pablogėja kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonės finansinė būklė, kai kitos Europos ekonominės erdvės valstybės draudimo įmonės veikla gali pažeisti draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesus arba kyla tokio pablogėjimo ar pažeidimo grėsmė, taikyti poveikio priemones, nustatytas [[#^s-d47c804b35cee940bac48109|šio straipsnio 4 dalyje]]; ^s-f3370f2c2c0cb9871eb14d49
 
 
-5) gavusi prašymą iš kitos Europos ekonominės erdvės valstybės priežiūros institucijos, neatsižvelgdama į kitas šio straipsnio nuostatas, privalo taikyti poveikio priemones, nurodytas [[#^s-d47c804b35cee940bac48109|šio straipsnio 4 dalies]] 3 ir 5 punktuose; ^s-eacfef633930dbeb56c87206
+5) gavusi prašymą iš kitos Europos ekonominės erdvės valstybės priežiūros institucijos, neatsižvelgdama į kitas šio straipsnio nuostatas, privalo taikyti poveikio priemones, nurodytas [[#^s-d47c804b35cee940bac48109|šio straipsnio 4 dalies]] [[#^s-5f0c521f9359ea467d8d1c27|3]] ir 5 punktuose; ^s-eacfef633930dbeb56c87206
 
 
 6) turi teisę teikti rekomendacijas ir privalomus nurodymus kitos Europos ekonominės erdvės valstybės draudimo ir perdraudimo įmonei ar jos filialui dėl jų veiklos Lietuvos Respublikoje. ^s-127c8f1d27e09d212b2bd9f1
@@ -5792,7 +5792,7 @@ Nr. XII-1476, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21138
 5. Kai kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo įmonė pažeidžia jai taikomus Lietuvos Respublikos teisės aktus, nepateikia informacijos priežiūros institucijai arba kitos Europos ekonominės erdvės valstybės draudimo įmonė vykdo rizikingą veiklą, galinčią pakenkti draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų interesams, priežiūros institucija pirmiausia įspėja šią draudimo ar perdraudimo įmonę dėl nustatytų Lietuvos Respublikos teisės aktų pažeidimų ir nustato šių pažeidimų pašalinimo terminus. Jeigu pažeidimai nepašalinami priežiūros institucijos nustatytais terminais ir tvarka, priežiūros institucija privalo apie tai pranešti kitos Europos ekonominės erdvės valstybės priežiūros institucijai ir prašyti, kad ši imtųsi visų teisės aktų leidžiamų priemonių pažeidimams pašalinti. ^s-d9838ca9fe928e98b46f3a93
 
 
-6. Jeigu paaiškėja, kad [[#^s-d9838ca9fe928e98b46f3a93|šio straipsnio 5 dalyje]] numatytos priemonės nėra pakankamos pažeidimams pašalinti, priežiūros institucija, prieš tai įspėjusi kitos Europos ekonominės erdvės valstybės priežiūros instituciją, turi teisę taikyti poveikio priemones, numatytas [[#^s-d47c804b35cee940bac48109|šio straipsnio 4 dalies]] 2, 4 ir 5 punktuose. Kai neatidėliotinai būtina, priežiūros institucija taiko šias poveikio priemones neatsižvelgdama į [[#^s-d9838ca9fe928e98b46f3a93|šio straipsnio 5 dalies]] nuostatas. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal Reglamento (ES) Nr. 1094/2010 [[#^s-0a2823a401e652b1d7d1365d|19 straipsnį]]. ^s-1a1415ed8cb010174e83019b
+6. Jeigu paaiškėja, kad [[#^s-d9838ca9fe928e98b46f3a93|šio straipsnio 5 dalyje]] numatytos priemonės nėra pakankamos pažeidimams pašalinti, priežiūros institucija, prieš tai įspėjusi kitos Europos ekonominės erdvės valstybės priežiūros instituciją, turi teisę taikyti poveikio priemones, numatytas [[#^s-d47c804b35cee940bac48109|šio straipsnio 4 dalies]] 2, 4 ir 5 punktuose. Kai neatidėliotinai būtina, priežiūros institucija taiko šias poveikio priemones neatsižvelgdama į [[#^s-d9838ca9fe928e98b46f3a93|šio straipsnio 5 dalies]] nuostatas. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal [Reglamento (ES) Nr. 1094/2010 19 straipsnį](https://eur-lex.europa.eu/eli/reg/1094/2010/art_19/oj). ^s-1a1415ed8cb010174e83019b
 Straipsnio dalies pakeitimai:
 Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
@@ -5820,7 +5820,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 3) dalyvauti kitos Europos ekonominės erdvės valstybės priežiūros institucijos atliekamame šios Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko filialo patikrinime; ^s-3814daf301d65dc450a9199d
 
 
-4) šio įstatymo [[#^s-f66bb35c6b586169995899c2|205 straipsnio 1 dalies]] 1 ir [[#^s-89a499f76cedc2c0dca37b19|2 punktuose]] nustatytais pagrindais, taip pat kai pablogėja kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko įmonės filialo finansinė būklė ir ji nebeatitinka teisės aktuose nustatytų reikalavimų, kai pažeisti draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesai arba kyla tokio pablogėjimo ar pažeidimo grėsmė ar kai kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko ar jo filialo rizikinga veikla gali pakenkti draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų interesams, taikyti poveikio priemones, numatytas [[#^s-113c847407e02d281ff6949a|šio straipsnio 3 dalyje]]; ^s-5681fda9c03135f2b343808b
+4) šio įstatymo [[#^s-f66bb35c6b586169995899c2|205 straipsnio 1 dalies]] [[#^s-682758a37a80834c61076aa2|1]] ir [[#^s-5207050ff206a6d293ce49d2|2]] punktuose nustatytais pagrindais, taip pat kai pablogėja kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko įmonės filialo finansinė būklė ir ji nebeatitinka teisės aktuose nustatytų reikalavimų, kai pažeisti draudėjų, apdraustųjų, naudos gavėjų ar nukentėjusių trečiųjų asmenų interesai arba kyla tokio pablogėjimo ar pažeidimo grėsmė ar kai kitos Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininko ar jo filialo rizikinga veikla gali pakenkti draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų interesams, taikyti poveikio priemones, numatytas [[#^s-113c847407e02d281ff6949a|šio straipsnio 3 dalyje]]; ^s-5681fda9c03135f2b343808b
 
 
 5) teikti rekomendacijas ir privalomus nurodymus Europos ekonominės erdvės valstybės draudimo ar perdraudimo tarpininkui ar jo įsteigtam filialui dėl jų veiklos Lietuvos Respublikoje. ^s-26be67e33c701b5432d3a007
@@ -5857,7 +5857,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 1) iš trečiosios valstybės draudimo įmonės gauti informaciją, reikalingą priežiūros funkcijoms atlikti; ^s-525577590cc47ffb05e546bc
 
 
-2) šio įstatymo [[#^s-f66bb35c6b586169995899c2|205 straipsnio 1 dalies]] 1 ir 2 punktuose nustatytais pagrindais ar kai pažeisti draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų interesai, taikyti poveikio priemones, numatytas [[#^s-be144fe6b03333e581c827c1|šio straipsnio 2 dalyje]]. ^s-1146f59916ed03b5e523d90a
+2) šio įstatymo [[#^s-f66bb35c6b586169995899c2|205 straipsnio 1 dalies]] [[#^s-682758a37a80834c61076aa2|1]] ir [[#^s-5207050ff206a6d293ce49d2|2]] punktuose nustatytais pagrindais ar kai pažeisti draudėjų, apdraustųjų, nukentėjusių trečiųjų asmenų ir naudos gavėjų interesai, taikyti poveikio priemones, numatytas [[#^s-be144fe6b03333e581c827c1|šio straipsnio 2 dalyje]]. ^s-1146f59916ed03b5e523d90a
 
 
 2. Priežiūros institucija trečiosios valstybės draudimo įmonei gali taikyti šias poveikio priemones: ^s-be144fe6b03333e581c827c1
@@ -5933,7 +5933,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
 
 
-7. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal Reglamento (ES) Nr. 1094/2010 [[#^s-0a2823a401e652b1d7d1365d|19 straipsnį]], kai priežiūros institucijai neleidžiama pasinaudoti teise rengti patikrinimą ar dalyvauti atliekant patikrinimą [[#^s-b12d82df53bacd16070a4a4a|šio straipsnio 3 dalies 2 punkte]] ir [[#^s-40c26f88c220fdbff1e98c9f|6 dalyje]] numatytais atvejais. ^s-e6afbec0aa369023c1036f98
+7. Priežiūros institucija gali kreiptis į Europos draudimo ir profesinių pensijų instituciją pagalbos pagal [Reglamento (ES) Nr. 1094/2010 19 straipsnį](https://eur-lex.europa.eu/eli/reg/1094/2010/art_19/oj), kai priežiūros institucijai neleidžiama pasinaudoti teise rengti patikrinimą ar dalyvauti atliekant patikrinimą [[#^s-b12d82df53bacd16070a4a4a|šio straipsnio 3 dalies 2 punkte]] ir [[#^s-40c26f88c220fdbff1e98c9f|6 dalyje]] numatytais atvejais. ^s-e6afbec0aa369023c1036f98
 Papildyta straipsnio dalimi:
 Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 
@@ -5960,7 +5960,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 4. Priežiūros institucija turi teisę reikalauti, kad kitų Europos ekonominės erdvės valstybių draudimo įmonės, teikiančios paslaugas ar įsisteigusios Lietuvos Respublikoje, pateiktų draudimo taisykles ar kitas sutarties sąlygas ir dokumentus, siekdama įvertinti, ar jos atitinka joms taikomus Lietuvos Respublikos teisės aktų nustatytus reikalavimus. Reikalavimas pateikti šią informaciją negali būti išankstinė draudimo ir perdraudimo veiklos sąlyga. Priežiūros institucijai draudžiama nustatyti periodišką minėtos informacijos pateikimą. ^s-06cd0b8b05937505b7ec8fb2
 
 
-5. Šio straipsnio 1–[[#^s-06cd0b8b05937505b7ec8fb2|4 dalių]] nuostatų taikymo išimtis privalomajam draudimui ir sveikatos draudimui nustato šis įstatymas ir kiti teisės aktai. ^s-51d970b678bcbad50958ec8a
+5. Šio straipsnio [[#^s-338807f7a043a2cf0359fa69|1]]–[[#^s-06cd0b8b05937505b7ec8fb2|4]] dalių nuostatų taikymo išimtis privalomajam draudimui ir sveikatos draudimui nustato šis įstatymas ir kiti teisės aktai. ^s-51d970b678bcbad50958ec8a
 
 
 
@@ -6033,7 +6033,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 9) kiekvienais metais, kai draudimo ir perdraudimo įmonės taiko pereinamojo laikotarpio priemones nerizikingų palūkanų normoms ir techniniams atidėjiniams, apie tai, ar jos laikosi priežiūros institucijos nustatytos tvarkos dėl laipsniško įgyvendinimo planų, ir apie mažesnės priklausomybės nuo šių pereinamojo laikotarpio priemonių perspektyvą, įskaitant informaciją apie priemones, kurių įmonės ir priežiūros institucija ėmėsi arba imsis pagal teisės aktų reikalavimus; ^s-98bd98b3743c94679cd73a58
 
 
-10) kiekvienais metais apie vidutinį papildomą kapitalą, kurį privalėjo turėti visos draudimo ir perdraudimo įmonės, atskirai gyvybės draudimo ir ne gyvybės draudimo įmonės, įmonės, kurios teikia gyvybės ir ne gyvybės draudimo paslaugas, ir perdraudimo įmonės per praėjusius kalendorinius metus, išreikštą procentais nuo mokumo kapitalo reikalavimo, ir procentinį papildomo kapitalo pasiskirstymą pagal nurodytas įmonių kategorijas atsižvelgiant į papildomo kapitalo reikalavimo pagrindus, nurodytus šio įstatymo [[#^s-042167f6721c9f17a01478c6|48 straipsnio 1 dalies]] 1, 2 ir [[#^s-5b03380442e9c08540ac1541|3 punktuose]]; ^s-cb458b57744eedcb8bfed318
+10) kiekvienais metais apie vidutinį papildomą kapitalą, kurį privalėjo turėti visos draudimo ir perdraudimo įmonės, atskirai gyvybės draudimo ir ne gyvybės draudimo įmonės, įmonės, kurios teikia gyvybės ir ne gyvybės draudimo paslaugas, ir perdraudimo įmonės per praėjusius kalendorinius metus, išreikštą procentais nuo mokumo kapitalo reikalavimo, ir procentinį papildomo kapitalo pasiskirstymą pagal nurodytas įmonių kategorijas atsižvelgiant į papildomo kapitalo reikalavimo pagrindus, nurodytus šio įstatymo [[#^s-042167f6721c9f17a01478c6|48 straipsnio 1 dalies]] [[#^s-8bdcefcd35103bf17c7123ef|1]], [[#^s-7d1a5568c5138bd1e33111c4|2]] ir [[#^s-fbe0b54fb64ea90e2bd01ac8|3]] punktuose; ^s-cb458b57744eedcb8bfed318
 
 
 11) kiekvienais metais apie draudimo ir perdraudimo įmonių, kurioms sumažinti reguliariai priežiūros tikslais teikiamų ataskaitų reikalavimai, skaičių ir šių įmonių mokumo kapitalo reikalavimus, draudimo įmokas, techninius atidėjinius ir turtą, išreikštus procentais atitinkamai nuo visų draudimo ir perdraudimo įmonių mokumo kapitalo reikalavimų, draudimo įmokų, techninių atidėjinių ir turto; ^s-874a04375677dabc5514c742
@@ -6105,7 +6105,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 6. Komisijos prašymu priežiūros institucija privalo informuoti Komisiją apie: ^s-01d3c08b76b943fa6b556d9e
 
 
-1) visus prašymus dėl leidimų trečiųjų valstybių draudimo ar perdraudimo įmonių filialų veiklai Lietuvos Respublikoje išdavimo ar prašymus išduoti veiklos licenciją draudimo ar perdraudimo įmonei, kuri tiesiogiai ar netiesiogiai yra trečiosios valstybės juridinio asmens ar asmenų patronuojamoji įmonė; ^s-3399e6a4f22ce6558f21cebc
+1) visus prašymus [dėl leidimų](https://e-tar.lt/portal/lt/legalAct/TAR.49F3BFF08717) trečiųjų valstybių draudimo ar perdraudimo įmonių filialų veiklai Lietuvos Respublikoje išdavimo ar prašymus išduoti veiklos licenciją draudimo ar perdraudimo įmonei, kuri tiesiogiai ar netiesiogiai yra trečiosios valstybės juridinio asmens ar asmenų patronuojamoji įmonė; ^s-3399e6a4f22ce6558f21cebc
 
 
 2) trečiosios valstybės juridinio asmens ar asmenų prašymus įsigyti draudimo ar perdraudimo įmonės akcijų, po šio akcijų įsigijimo tiesiogiai ar netiesiogiai turėsiančio ar turėsiančių patronuojamąją draudimo ar perdraudimo įmonę Lietuvos Respublikoje. ^s-f54ec513255ff65626791719
@@ -6231,7 +6231,7 @@ priedas
 5. 2000 m. lapkričio 7 d. Europos Parlamento ir Tarybos direktyva 2000/64/EB, iš dalies keičianti Tarybos direktyvas 85/611/EEB, 92/49/EEB, 92/96/EEB ir 93/22/EEB dėl keitimosi informacija su trečiosiomis valstybėmis (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 348), su paskutiniais pakeitimais, padarytais Direktyva 2009/65/EB (OL 2009 L 302, p. 32). ^s-51f9bb77804bb300bc342037
 
 
-6. 2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 251). ^s-b459734539dfbd277880c5be
+6. 2001 m. spalio 8 d. Tarybos [reglamentas (EB) Nr. 2157/2001](https://eur-lex.europa.eu/eli/reg/2157/2001/oj) dėl Europos bendrovės (SE) statuto (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 251). ^s-b459734539dfbd277880c5be
 
 
 7. 2002 m. kovo 5 d. Europos Parlamento ir Tarybos direktyva 2002/13/EB, iš dalies keičianti Tarybos direktyvą 73/239/EEB dėl ne gyvybės draudimo įmonėms taikomų mokumo atsargos reikalavimų (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 310). ^s-c52ff07382a25b0413ae48f8
@@ -6301,13 +6301,13 @@ Nr. XII-719, 2013-12-19, Žin., 2013, Nr. 140-7080 (2013-12-30), i. k. 2013-0000
 ### 4 straipsnis. Įstatymo įgyvendinimas ^s-e1dc4946be64fbd6f9eb09ba
 
 
-1. Vadovaudamiesi priežiūros institucijos teisės aktais ir 2014 m. spalio 10 d. Komisijos deleguotuoju reglamentu (ES) 2015/35, kuriuo papildoma Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2015 L 12, p. 1), draudimo ir perdraudimo įmonės ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas gali teikti prašymus ir priežiūros institucija pagal draudimo ir perdraudimo įmonių ar trečiosios valstybės draudimo ar perdraudimo įmonės filialo pateiktus prašymus arba įgyvendindama priežiūros institucijos funkcijas, teises ir pareigas priima sprendimus, kuriais išduodamas leidimas įtraukti papildomas nuosavas lėšas, patvirtinamas nuosavų lėšų elementų klasifikavimas, išduodamas leidimas naudoti įmonei būdingus parametrus, išduodamas leidimas naudoti dalinį ar visišką vidaus modelį, išduodamas leidimas steigti specialiąją įmonę, išduodamas leidimas įtraukti draudimo kontroliuojančiosios įmonės papildomas nuosavas lėšas, išduodamas leidimas skaičiuoti draudimo ir (ar) perdraudimo įmonių grupės draudimo įmonių ir perdraudimo įmonių mokumo kapitalo reikalavimą pagal vidaus modelį, išduodamas leidimas taikyti nerizikingų palūkanų normų kreivės suderinimo korekciją, išduodamas leidimas taikyti pereinamojo laikotarpio priemones nerizikingų palūkanų normoms ar techniniams atidėjiniams, nustatomas draudimo ir (ar) perdraudimo įmonių grupės priežiūros lygis ir apimtis, nustatoma draudimo ir (ar) perdraudimo įmonių grupės priežiūros institucija, įsteigiama draudimo priežiūros institucijų kolegija ir kurie įsigalioja 2016 m. sausio 1 d., jeigu šie sprendimai priimti iki 2015 m. gruodžio 31 d. ^s-4a408100e9c01c8b1cf327ec
+1. Vadovaudamiesi priežiūros institucijos teisės aktais ir 2014 m. spalio 10 d. Komisijos deleguotuoju [reglamentu (ES) 2015/35](https://eur-lex.europa.eu/eli/reg/2015/35/oj), kuriuo papildoma Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2015 L 12, p. 1), draudimo ir perdraudimo įmonės ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas gali teikti prašymus ir priežiūros institucija pagal draudimo ir perdraudimo įmonių ar trečiosios valstybės draudimo ar perdraudimo įmonės filialo pateiktus prašymus arba įgyvendindama priežiūros institucijos funkcijas, teises ir pareigas priima sprendimus, kuriais išduodamas leidimas įtraukti papildomas nuosavas lėšas, patvirtinamas nuosavų lėšų elementų klasifikavimas, išduodamas leidimas naudoti įmonei būdingus parametrus, išduodamas leidimas naudoti dalinį ar visišką vidaus modelį, išduodamas leidimas steigti specialiąją įmonę, išduodamas leidimas įtraukti draudimo kontroliuojančiosios įmonės papildomas nuosavas lėšas, išduodamas leidimas skaičiuoti draudimo ir (ar) perdraudimo įmonių grupės draudimo įmonių ir perdraudimo įmonių mokumo kapitalo reikalavimą pagal vidaus modelį, išduodamas leidimas taikyti nerizikingų palūkanų normų kreivės suderinimo korekciją, išduodamas leidimas taikyti pereinamojo laikotarpio priemones nerizikingų palūkanų normoms ar techniniams atidėjiniams, nustatomas draudimo ir (ar) perdraudimo įmonių grupės priežiūros lygis ir apimtis, nustatoma draudimo ir (ar) perdraudimo įmonių grupės priežiūros institucija, įsteigiama draudimo priežiūros institucijų kolegija ir kurie įsigalioja 2016 m. sausio 1 d., jeigu šie sprendimai priimti iki 2015 m. gruodžio 31 d. ^s-4a408100e9c01c8b1cf327ec
 
 
-2. Nuo 2015 m. liepos 1 d., vadovaudamiesi priežiūros institucijos teisės aktais ir 2014 m. spalio 10 d. Komisijos deleguotuoju reglamentu (ES) 2015/35, kuriuo papildoma Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2015 L 12, p. 1), draudimo ir perdraudimo įmonės ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas gali teikti prašymus ir priežiūros institucija pagal draudimo ir perdraudimo įmonių ar trečiosios valstybės draudimo ar perdraudimo įmonės filialo pateiktus prašymus arba įgyvendindama priežiūros institucijos funkcijas, teises ir pareigas priima sprendimus, kuriais išduodamas leidimas dalyvavimą kitose įmonėse rodančią sumą atimti iš tinkamų nuosavų lėšų mokumo kapitalo ir minimalaus kapitalo reikalavimui padengti, parenkamas draudimo ir (ar) perdraudimo įmonių grupės mokumo apskaičiavimo metodas, trečiosios valstybės mokumo sistema pripažįstama lygiaverte šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymo]] nustatytai mokumo sistemai, išduodamas leidimas taikyti centralizuoto rizikos valdymo grupių mokumo priežiūrą draudimo ar perdraudimo įmonėms, kurios yra patronuojamosios draudimo ir perdraudimo įmonių įmonės, nustatomi metodai, kuriais užtikrinama draudimo ir (ar) perdraudimo įmonių grupės įmonių priežiūra, kai draudimo ar perdraudimo įmonės patronuojančioji įmonė yra ne Europos ekonominės erdvės draudimo įmonė, išduodamas leidimas taikyti kitas šio straipsnio 1 dalyje nenurodytas pereinamojo laikotarpio priemones, kurie įsigalioja 2016 m. sausio 1 d., jeigu šie sprendimai priimti iki 2015 m. gruodžio 31 d. ^s-aaebf23a7f409bed61de260a
+2. Nuo 2015 m. liepos 1 d., vadovaudamiesi priežiūros institucijos teisės aktais ir 2014 m. spalio 10 d. Komisijos deleguotuoju [reglamentu (ES) 2015/35](https://eur-lex.europa.eu/eli/reg/2015/35/oj), kuriuo papildoma Europos Parlamento ir Tarybos direktyva 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2015 L 12, p. 1), draudimo ir perdraudimo įmonės ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas gali teikti prašymus ir priežiūros institucija pagal draudimo ir perdraudimo įmonių ar trečiosios valstybės draudimo ar perdraudimo įmonės filialo pateiktus prašymus arba įgyvendindama priežiūros institucijos funkcijas, teises ir pareigas priima sprendimus, kuriais išduodamas leidimas dalyvavimą kitose įmonėse rodančią sumą atimti iš tinkamų nuosavų lėšų mokumo kapitalo ir minimalaus kapitalo reikalavimui padengti, parenkamas draudimo ir (ar) perdraudimo įmonių grupės mokumo apskaičiavimo metodas, trečiosios valstybės mokumo sistema pripažįstama lygiaverte šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymo]] nustatytai mokumo sistemai, išduodamas leidimas taikyti centralizuoto rizikos valdymo grupių mokumo priežiūrą draudimo ar perdraudimo įmonėms, kurios yra patronuojamosios draudimo ir perdraudimo įmonių įmonės, nustatomi metodai, kuriais užtikrinama draudimo ir (ar) perdraudimo įmonių grupės įmonių priežiūra, kai draudimo ar perdraudimo įmonės patronuojančioji įmonė yra ne Europos ekonominės erdvės draudimo įmonė, išduodamas leidimas taikyti kitas šio straipsnio 1 dalyje nenurodytas pereinamojo laikotarpio priemones, kurie įsigalioja 2016 m. sausio 1 d., jeigu šie sprendimai priimti iki 2015 m. gruodžio 31 d. ^s-aaebf23a7f409bed61de260a
 
 
-3. Priežiūros institucija turi teisę reikalauti, kad draudimo ir perdraudimo įmonės ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas pateiktų patikslintus ar trūkstamus dokumentus ir informaciją, reikalingus šio straipsnio 1, 2 ar [[#^s-7d69dbce78fb4a81381b76d6|4 dalyje]] nustatytiems sprendimams priimti. Šiuo atveju priežiūros institucija privalo motyvuoti savo reikalavimą, apie jį pranešti draudimo ir perdraudimo įmonei ar trečiosios valstybės draudimo ar perdraudimo įmonės filialui ir nustatyti protingą dokumentų ir informacijos pateikimo terminą. ^s-4ea7abb6714795f286490edf
+3. Priežiūros institucija turi teisę reikalauti, kad draudimo ir perdraudimo įmonės ar trečiosios valstybės draudimo ar perdraudimo įmonės filialas pateiktų patikslintus ar trūkstamus dokumentus ir informaciją, reikalingus šio straipsnio 1, 2 ar [[#^s-7d69dbce78fb4a81381b76d6|4]] dalyje nustatytiems sprendimams priimti. Šiuo atveju priežiūros institucija privalo motyvuoti savo reikalavimą, apie jį pranešti draudimo ir perdraudimo įmonei ar trečiosios valstybės draudimo ar perdraudimo įmonės filialui ir nustatyti protingą dokumentų ir informacijos pateikimo terminą. ^s-4ea7abb6714795f286490edf
 
 
 4. Jeigu priežiūros institucija priima sprendimą atsisakyti išduoti leidimą, apie šį sprendimą ji nedelsdama praneša draudimo ir perdraudimo įmonėms ar trečiosios valstybės draudimo ar perdraudimo įmonės filialui ir nurodo tokio sprendimo motyvus. Šis sprendimas įsigalioja jo priėmimo dieną. ^s-7d69dbce78fb4a81381b76d6
@@ -6354,7 +6354,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 4. Draudimo ar perdraudimo įmonė arba trečiosios valstybės draudimo ar perdraudimo įmonės filialas, taikantys pereinamojo laikotarpio priemones pagal šio straipsnio 1 dalies 2 punktą, taiko šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymo]] I, II ir V skyrių nuostatas nuo 2021 m. sausio 1 d. arba nuo ankstesnės datos, jeigu priežiūros institucija, įvertinusi pažangos ataskaitą ir atsižvelgdama į konkretaus draudimo ar perdraudimo įmonės ar trečiosios valstybės draudimo ar perdraudimo įmonės filialo padėtį, nusprendžia, kad pažanga, padaryta nutraukiant veiklą, yra nepakankama (neatlikti reikiami veiksmai, nesiimta atitinkamų priemonių ir pan.). ^s-51d48e1dac106872d95f110a
 
 
-5. Šio straipsnio 1, 3 ir [[#^s-51d48e1dac106872d95f110a|4 dalių]] nuostatos netrukdo draudimo ar perdraudimo įmonei arba trečiosios valstybės draudimo ar perdraudimo įmonės filialui taikyti šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymo]] I, II ir V skyrių nuostatų. ^s-fba678c1a6c07bfcea391da5
+5. Šio straipsnio 1, 3 ir [[#^s-51d48e1dac106872d95f110a|4]] dalių nuostatos netrukdo draudimo ar perdraudimo įmonei arba trečiosios valstybės draudimo ar perdraudimo įmonės filialui taikyti šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymo]] I, II ir V skyrių nuostatų. ^s-fba678c1a6c07bfcea391da5
 
 
 6. Priežiūros institucija sudaro draudimo ir perdraudimo įmonių arba trečiosios valstybės draudimo ar perdraudimo įmonės filialų, taikančių pereinamojo laikotarpio priemones pagal šio straipsnio 1 dalies 1 ir 2 punktus, sąrašus ir pateikia juos kitų Europos ekonominės erdvės valstybių priežiūros institucijoms Europos Komisijos įgyvendinimo reglamentų, kuriuose nustatomi techniniai įgyvendinimo standartai dėl informavimo ir bendradarbiavimo procesų, nustatyta tvarka. ^s-e54f805814f494ff1024dd8a
@@ -6363,7 +6363,7 @@ Nr. XII-1603, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05897
 7. Draudimo ar perdraudimo įmonės, apskaičiuodamos minimalaus kapitalo reikalavimą pagal šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.8447F63760E9#^s-a6c1472f2e4d48657da22a19|Lietuvos Respublikos draudimo įstatymo 40 straipsnio 3 dalies]] nuostatas, iki 2017 m. gruodžio 31 d. turi taikyti mokumo kapitalo reikalavimą, apskaičiuotą pagal standartinę formulę. ^s-431af49ae7c36a1823a8fe66
 
 
-8. Draudimo ar perdraudimo įmonės, tinkamai vykdžiusios mokumo atsargos reikalavimus iki 2015 m. gruodžio 31 d., bet neturinčios pakankamai tinkamų pagrindinių nuosavų lėšų minimalaus kapitalo reikalavimui padengti, privalo iki 2016 m. gruodžio 31 d. pertvarkyti savo veiklą pagal šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.8447F63760E9#^s-37d225b1ae646bf250c71981|Lietuvos Respublikos draudimo įstatymo 40 straipsnyje]] nustatytus reikalavimus, netaikydamos šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.8447F63760E9#^s-0cc5394b47966c2fb966bfd4|Lietuvos Respublikos draudimo įstatymo 20 ir 46 straipsnių]] nuostatų. Jeigu draudimo ar perdraudimo įmonė iki 2016 m. gruodžio 31 d. nepertvarko veiklos, priežiūros institucija, atlikusi visus reikiamus veiksmus užtikrinti draudimo įmonės draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesų ir teisių apsaugą, nedelsdama panaikina jos veiklos licencijos galiojimą. ^s-cde0c70e01e5ce9fc50cbb87
+8. Draudimo ar perdraudimo įmonės, tinkamai vykdžiusios mokumo atsargos reikalavimus iki 2015 m. gruodžio 31 d., bet neturinčios pakankamai tinkamų pagrindinių nuosavų lėšų minimalaus kapitalo reikalavimui padengti, privalo iki 2016 m. gruodžio 31 d. pertvarkyti savo veiklą pagal šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymo]] [[#^s-73ee8420c4e305b4364eaa77|40 straipsnyje]] nustatytus reikalavimus, netaikydamos šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymo]] [[latest/TAR.8447F63760E9#^s-36a177bea48a140b62cf2b9e|20]] ir [[latest/TAR.8447F63760E9#^s-0cc5394b47966c2fb966bfd4|46]] straipsnių nuostatų. Jeigu draudimo ar perdraudimo įmonė iki 2016 m. gruodžio 31 d. nepertvarko veiklos, priežiūros institucija, atlikusi visus reikiamus veiksmus užtikrinti draudimo įmonės draudėjų, apdraustųjų, naudos gavėjų ir nukentėjusių trečiųjų asmenų interesų ir teisių apsaugą, nedelsdama panaikina jos veiklos licencijos galiojimą. ^s-cde0c70e01e5ce9fc50cbb87
 
 
 9. Priežiūros institucija nustato šių pereinamojo laikotarpio priemonių taikymo tvarką: ^s-cce94a8220a6df4c85de8592

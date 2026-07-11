@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-2e68700e4f9495d7abc02f26
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugsėjo 3 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Austrijos Federalinės Vyriausybės oro susisiekimo sutartį“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Austrijos Federalinės Vyriausybės oro susisiekimo sutartį, pasirašytą 1996 m. birželio 27 d. Vienoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugsėjo 3 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Austrijos Federalinės Vyriausybės oro susisiekimo sutartį“](https://e-tar.lt/portal/lt/legalAct/TAR.36F9E499E466), ratifikuoja Lietuvos Respublikos Vyriausybės ir Austrijos Federalinės Vyriausybės oro susisiekimo sutartį, pasirašytą 1996 m. birželio 27 d. Vienoje.
 
 
 

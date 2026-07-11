@@ -40,20 +40,20 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-55a0221e90f9d0533882132b
 
 
-Pripažinti netekusia galios 2 straipsnio 45 dalį.
+Pripažinti netekusia galios [[latest/TAR.5DC1759E42CB#^s-6a50e219f672fec3cef3fa9b|2 straipsnio 45 dalį]].
 
 
 
 ### 2 straipsnis. 33 straipsnio pakeitimas ^s-729b315b3fb0579513e56290
 
 
-Pakeisti 33 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.5DC1759E42CB#^s-4a953a5b6197cc8294d32a7e|33 straipsnį]] ir jį išdėstyti taip:
 
 
-„33 straipsnis. Transporto priemonės priverstinis nuvežimas arba uždraudimas toliau važiuoti
+„[[latest/TAR.5DC1759E42CB#^s-4a953a5b6197cc8294d32a7e|33 straipsnis]]. Transporto priemonės priverstinis nuvežimas arba uždraudimas toliau važiuoti
 
 
-1. Kai įtariama, kad transporto priemonė vairuojama neblaivaus ar apsvaigusio nuo psichiką veikiančių medžiagų asmens, taip pat kai yra Lietuvos Respublikos administracinių nusižengimų kodekso 603 straipsnyje nustatyti pagrindai, transporto priemonė gali būti priverstinai nuvežama į institucijos, kurios pareigūnas priėmė sprendimą transporto priemonę priverstinai nuvežti, ar į ūkio subjekto, kuriam suteikta teisė verstis tokia ūkine komercine veikla, transporto priemonių stovėjimo aikštelę, o transporto priemonės savininko (valdytojo) sutikimu ji gali būti pastatoma ir į kitą transporto priemonių stovėjimo aikštelę ar vietą, kurioje leidžiama transporto priemonėms stovėti (jeigu tai nepakenks baudžiamajam procesui ar administracinio nusižengimo teisenai). ^s-cbc182b12620e8077e9d4af2
+1. Kai įtariama, kad transporto priemonė vairuojama neblaivaus ar apsvaigusio nuo psichiką veikiančių medžiagų asmens, taip pat kai yra Lietuvos Respublikos administracinių nusižengimų kodekso [[latest/TAR.5DC1759E42CB|603 straipsnyje]] nustatyti pagrindai, transporto priemonė gali būti priverstinai nuvežama į institucijos, kurios pareigūnas priėmė sprendimą transporto priemonę priverstinai nuvežti, ar į ūkio subjekto, kuriam suteikta teisė verstis tokia ūkine komercine veikla, transporto priemonių stovėjimo aikštelę, o transporto priemonės savininko (valdytojo) sutikimu ji gali būti pastatoma ir į kitą transporto priemonių stovėjimo aikštelę ar vietą, kurioje leidžiama transporto priemonėms stovėti (jeigu tai nepakenks baudžiamajam procesui ar administracinio nusižengimo teisenai). ^s-cbc182b12620e8077e9d4af2
 
 
 2. Nustačius transporto priemonės techninės būklės, krovinių ar keleivių vežimo tvarkos pažeidimų, vairuotojų vairavimo ir poilsio režimo reikalavimų pažeidimų, kai tolesnis važiavimas kelia grėsmę eismo dalyvių ar kitų asmenų sveikatai ar gyvybei, taip pat nustačius N2, N3, O3, O4 klasės transporto priemonės didelį ir (ar) pavojingą trūkumą, susijusį su krovinio išdėstymu ir (ar) jo pritvirtinimu, uždraudžiama transporto priemonei toliau važiuoti, kol pašalinama grėsmė eismo dalyvių ar kitų asmenų sveikatai ar gyvybei. Dėl didelio ir (ar) pavojingo trūkumo, susijusio su krovinio išdėstymu ir (ar) jo pritvirtinimu, uždraudus toliau važiuoti N2, N3, O3, O4  klasės transporto priemonei, laikinai paimami transporto priemonės registracijos dokumentai, kol bus pašalinti krovinio išdėstymo ir (ar) jo pritvirtinimo trūkumai. ^s-39332fc67604a6766247c0dc
@@ -74,7 +74,7 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 3) vizito saugumą užtikrinančios institucijos prašymu, jei vieta, kurioje stovi transporto priemonė, turi būti atlaisvinta dėl rengiamo Lietuvos Respublikos oficialaus svečio vizito. ^s-31e655a9d6022b2449e40062
 
 
-5. Sprendimą dėl priverstinio transporto priemonės nuvežimo [[#^s-cbc182b12620e8077e9d4af2|šio straipsnio 1 dalyje]] nustatytais pagrindais ir sprendimą dėl uždraudimo toliau važiuoti šio straipsnio 2 ir [[#^s-65ef8b0ea132863534eee8f5|3 dalyse]] nustatytais pagrindais gali priimti padarytą administracinį nusižengimą ar nusikalstamą veiką tirti įgaliotos institucijos pareigūnai. [[#^s-19687ef0b95af7f071998c83|Šio straipsnio 4 dalies 1 punkte]] nustatytais atvejais sprendimą dėl priverstinio transporto priemonės nuvežimo priima policijos arba savivaldybių vykdomųjų institucijų pareigūnai, [[#^s-4a2402c71a36154cc9e956ae|šio straipsnio 4 dalies 2 punkte]] nustatytais atvejais – policijos arba Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos pareigūnai, o [[#^s-31e655a9d6022b2449e40062|šio straipsnio 4 dalies 3 punkte]] nustatytais atvejais – policijos pareigūnai. ^s-1c8136c9aff1ea7daf1c5491
+5. Sprendimą dėl priverstinio transporto priemonės nuvežimo [[#^s-cbc182b12620e8077e9d4af2|šio straipsnio 1 dalyje]] nustatytais pagrindais ir sprendimą dėl uždraudimo toliau važiuoti šio straipsnio [[#^s-39332fc67604a6766247c0dc|2]] ir [[#^s-65ef8b0ea132863534eee8f5|3]] dalyse nustatytais pagrindais gali priimti padarytą administracinį nusižengimą ar nusikalstamą veiką tirti įgaliotos institucijos pareigūnai. [[#^s-19687ef0b95af7f071998c83|Šio straipsnio 4 dalies 1 punkte]] nustatytais atvejais sprendimą dėl priverstinio transporto priemonės nuvežimo priima policijos arba savivaldybių vykdomųjų institucijų pareigūnai, [[#^s-4a2402c71a36154cc9e956ae|šio straipsnio 4 dalies 2 punkte]] nustatytais atvejais – policijos arba Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos pareigūnai, o [[#^s-31e655a9d6022b2449e40062|šio straipsnio 4 dalies 3 punkte]] nustatytais atvejais – policijos pareigūnai. ^s-1c8136c9aff1ea7daf1c5491
 
 
 6. Pareigūnai, priėmę sprendimą dėl priverstinio transporto priemonės nuvežimo, apie jį praneša transporto priemonės savininkui (valdytojui). ^s-f3942b4b38ee14efd1807fe3

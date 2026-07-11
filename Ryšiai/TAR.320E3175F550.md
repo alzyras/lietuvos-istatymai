@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos audito įstatymo 20, 39, 43, 44, 52 ir 54 str
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9845F775C518#^s-7ffb13922979cd9bc1d94777|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - 2 citatos - AUDITO ĮSTATYMO 20, 39, 43, 44, 52 IR 54 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.9845F775C518#^s-fe27ca7c6e452a26d5d439d3|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - 2 citatos - AUDITO ĮSTATYMO 20, 39, 43, 44, 52 IR 54 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.9845F775C518#^s-7ffb13922979cd9bc1d94777|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - AUDITO ĮSTATYMO 20, 39, 43, 44, 52 IR 54 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

@@ -65,7 +65,7 @@ Pakeisti 1 straipsnio 10 pastraipą ir ją išdėstyti taip:
 ### 3 straipsnis. 8 straipsnio 5 ir 6 punktų pakeitimas ^s-855ba1c4cf5b50a444cb4f92
 
 
-Pakeisti 8 straipsnio 5 ir [[#^s-ecad502d836d41dc8815d4f6|6 punktus]] ir juos išdėstyti taip:
+Pakeisti 8 straipsnio 5 ir 6 punktus ir juos išdėstyti taip:
 
 
 „5) atsižvelgti į motyvuotus visuomenės pasiūlymus dėl planuojamos ūkinės veiklos poveikio aplinkai vertinimo privalomumo;

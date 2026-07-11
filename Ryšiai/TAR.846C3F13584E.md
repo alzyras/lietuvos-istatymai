@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos biudžeto sandaros įstatymo 13 straipsnio pa
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 2 citatos - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 161 straipsnyje
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.712BBBFA3D41#^s-01e0389549414ba0e1d70457|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - BIUDŽETO SANDAROS ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.712BBBFA3D41#^s-673373647a7f57dbf0f2f530|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - BIUDŽETO SANDAROS ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.712BBBFA3D41#^s-01e0389549414ba0e1d70457|Lietuvos Respublikos biudžeto sandaros įstatymas]] - BIUDŽETO SANDAROS ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS

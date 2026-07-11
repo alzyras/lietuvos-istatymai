@@ -9,9 +9,11 @@ pavadinimas: "Lietuvos Respublikos elektroninių ryšių įstatymo Nr. IX-2135 3
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.5BCEC9B41811|Lietuvos Respublikos tarptautinių sutarčių įstatymas]] - 2 citatos - Tarptautinių sutarčių įstatymo
+- [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymas]] - 5 citatos - 9 straipsnio 4 punktą
+- [[latest/TAR.82D8168D3049#^s-ba269f1019c1fc93d8550d8f|Lietuvos Respublikos elektroninių ryšių įstatymas]] - 2 citatos - 421 straipsnis
+- [[latest/TAR.82D8168D3049#^s-d3007ae68c31b77c3f97b57a|Lietuvos Respublikos elektroninių ryšių įstatymas]] - 3 straipsnio 53 dalį
+- [[latest/TAR.5BCEC9B41811|Lietuvos Respublikos tarptautinių sutarčių įstatymas]] - Tarptautinių sutarčių įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.82D8168D3049#^s-8ced48fe06cc6baf66db741c|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Įstatymas Nr. XIII-921
-- [[latest/TAR.82D8168D3049#^s-a268afcfeacf152eb618fd61|Lietuvos Respublikos elektroninių ryšių įstatymas]] - Įstatymas Nr. XIII-921
+_Nėra._

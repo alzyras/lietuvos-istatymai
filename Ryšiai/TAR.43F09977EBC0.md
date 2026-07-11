@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.AB7AFE2F35B2#^s-4482c0ee6bd6c60060317ac0|Lietuvos Respublikos finansinių priemonių rinkų įstatymas]] - Įstatymas Nr. XI-875
-- [[latest/TAR.AB7AFE2F35B2#^s-e4c68a183e4fe6cf0257ed43|Lietuvos Respublikos finansinių priemonių rinkų įstatymas]] - Įstatymas Nr. XI-875
+_Nėra._

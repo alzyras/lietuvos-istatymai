@@ -40,31 +40,31 @@ Vilnius
 ### 1 straipsnis. 34 straipsnio pakeitimas ^s-512c2de1f3e4cd48a0ab1f95
 
 
-1. Pakeisti 34 straipsnio pavadinimą ir jį išdėstyti taip: ^s-92ae7d03cfefe13f647f9b1a
+1. Pakeisti [[latest/TAR.FF1083B528B7#^s-d748fc3a9af7a02b5686cfa5|34 straipsnio]] pavadinimą ir jį išdėstyti taip: ^s-92ae7d03cfefe13f647f9b1a
 
 
 „34 straipsnis. Kompensacijos už įgyvendinant šį įstatymą nustatytus veiklos apribojimus ir įsipareigojimus pagal apsaugos sutartis“.
 
 
-2. Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip: ^s-7eceb1f3ae32811aec319d0a
+2. Pakeisti [[latest/TAR.FF1083B528B7#^s-f7ff7a9e43875eca9a204e88|34 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-7eceb1f3ae32811aec319d0a
 
 
 „1. Už įgyvendinant šį įstatymą nustatytus veiklos apribojimus išmokamos vienkartinės arba kasmetinės kompensacijos.“
 
 
-3. Pakeisti 34 straipsnio 5 dalies 3 punktą ir jį išdėstyti taip: ^s-686d9e62f1bd2a73d9dbce13
+3. Pakeisti [[latest/TAR.FF1083B528B7#^s-ed327bc97550418b7b9694c9|34 straipsnio 5 dalies 3 punktą]] ir jį išdėstyti taip: ^s-686d9e62f1bd2a73d9dbce13
 
 
 „3) Kompensacijos teisės aktų nustatyta tvarka gali būti mokamos iš Europos Sąjungos fondų arba kitų finansavimo šaltinių lėšų.“
 
 
-4. Pakeisti 34 straipsnio 7 dalį ir ją išdėstyti taip: ^s-83289f51fa467d1931b4a547
+4. Pakeisti [[latest/TAR.FF1083B528B7#^s-3b5e7773fbd4ce5d1fb72a1c|34 straipsnio 7 dalį]] ir ją išdėstyti taip: ^s-83289f51fa467d1931b4a547
 
 
 „7. Kompensacijų už įgyvendinant šį įstatymą nustatytus veiklos apribojimus apskaičiavimo ir išmokėjimo tvarką, kompensacijas išmokančias institucijas nustato Vyriausybė. Kompensacijos išmokamos per vienus metus nuo administracinio sprendimo skirti kompensaciją, kuris priimamas išnagrinėjus prašymą gauti kompensaciją Vyriausybės nustatyta tvarka, patvirtinimo dienos. Kai kasmetinei kompensacijai gauti nereikia kasmet pateikti prašymo gauti kompensaciją, kasmetinės kompensacijos už einamuosius metus išmokėjimo terminas – iki kitų metų vasario 1 dienos.“
 
 
-5. Pakeisti 34 straipsnio 8 dalį ir ją išdėstyti taip: ^s-6db6f12d5e02fd741c1f08f1
+5. Pakeisti [[latest/TAR.FF1083B528B7#^s-e72f5ed5fedbc3288e8c0b40|34 straipsnio 8 dalį]] ir ją išdėstyti taip: ^s-6db6f12d5e02fd741c1f08f1
 
 
 „8. Šiame straipsnyje nustatytas teisinis reglamentavimas taip pat taikomas kompensuojant už apribojimus, kurie šio įstatymo nustatytais atvejais nustatomi su žemės, esančios valstybės ar savivaldybių įsteigtose ar nustatytose saugomose teritorijose, „Natura 2000“ tinklo teritorijose, „Natura 2000“ tinklo teritorijos artimoje aplinkoje, savininku ar valdytoju sudarant apsaugos sutartis dėl veiklos apribojimų, konkrečių žemės, miško ir vandens telkinio naudojimo sąlygų.“

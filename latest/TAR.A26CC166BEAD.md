@@ -86,7 +86,7 @@ Pakeisti 13 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 ### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-ee883636ed2239d0adbbb547
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2, 3, 4 ir [[#^s-9c172d9aee2a17e22b7f9026|5 dalis]], įsigalioja 2010 m. liepos 1 d. ^s-f314e804dc2a4b555d914823
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-9d3f7c6586564e4271078b41|2]], [[#^s-60e44710346a9b06e5a2524b|3]], [[#^s-efc15cebc9390f2c36656043|4]] ir [[#^s-9c172d9aee2a17e22b7f9026|5]] dalis, įsigalioja 2010 m. liepos 1 d. ^s-f314e804dc2a4b555d914823
 
 
 2. Lietuvos prezidento K. Griniaus memorialinio muziejaus savininko teisės ir pareigos iki 2010 m. liepos 1 d. perduodamos Marijampolės savivaldybei, o valstybei nuosavybės teise priklausantis šio muziejaus patikėjimo teise valdomas turtas – šios savivaldybės nuosavybėn. ^s-9d3f7c6586564e4271078b41

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-aff393616db394741ba35945
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio pirmosios dalies 4 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. sausio 18 d. dekretą “Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl Baltijos gynybos koledžo”, ratifikuoja Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl Baltijos gynybos koledžo, pasirašytą 1998 m. birželio 12 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio pirmosios dalies 4 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. sausio 18 d. dekretą “[Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl Baltijos gynybos koledžo](https://e-tar.lt/portal/lt/legalAct/TAR.F8FF2D25EAD3)”, ratifikuoja Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl Baltijos gynybos koledžo, pasirašytą 1998 m. birželio 12 d. Briuselyje.
 
 
 

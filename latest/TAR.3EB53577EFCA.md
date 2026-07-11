@@ -136,7 +136,7 @@ Nr. XI-1562, 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
 ### 3 straipsnis. Prokuratūros veiklos teisiniai pagrindai ^s-a3d6368ff057cd3b7eda062f
 
 
-1. Prokuratūra savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo Įstatymu, kitais teisės aktais bei Lietuvos Respublikos tarptautinėmis sutartimis (toliau – tarptautinės sutartys). ^s-a8331769eac9e5d23881d412
+1. Prokuratūra savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo Įstatymu, kitais teisės aktais bei Lietuvos Respublikos tarptautinėmis sutartimis (toliau – tarptautinės sutartys). ^s-a8331769eac9e5d23881d412
 
 
 2. Prokuroras sprendimus priima savarankiškai ir vienvaldiškai, vadovaudamasis įstatymais ir protingumo principu, gerbdamas asmens teises ir laisves, laikydamasis nekaltumo prezumpcijos, taip pat principo, kad įstatymui, valstybės institucijoms ir pareigūnams visi asmenys yra lygūs nepaisant asmens socialinės ir šeiminės padėties, pareigų, užsiėmimo, įsitikinimų, pažiūrų, kilmės, rasės, lyties, tautybės, kalbos, tikėjimo ir išsilavinimo. ^s-d9d6947c31eb6b477adaf377
@@ -148,7 +148,7 @@ Nr. XI-1562, 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
 4. Prokuroro veiksmai ir sprendimai įstatymų nustatyta tvarka gali būti skundžiami aukštesniajam prokurorui ir teismui. ^s-9fb04264fbb0670b502746d6
 
 
-5. Dėl neteisėtų prokurorų veiksmų ar neveikimo asmenims atsiradusi žala atlyginama Žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo įstatymo arba Civilinio kodekso ir Civilinio proceso kodekso nustatyta tvarka. ^s-e3742babcb1acbdb1391a7bd
+5. Dėl neteisėtų prokurorų veiksmų ar neveikimo asmenims atsiradusi žala atlyginama Žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo įstatymo arba Civilinio kodekso ir [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-e3742babcb1acbdb1391a7bd
 
 
 
@@ -351,7 +351,7 @@ Nr. XII-953, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09154
 
 
 6. Prokurorų atrankos, Vyriausiųjų prokurorų atrankos, Etikos ir Atestacijos komisijos sudaromos trejiems metams iš septynių narių. Asmuo į tas pačias pareigas šiose komisijose gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Į kiekvieną iš šių komisijų du narius prokurorus pasiūlo kolegija, du narius prokurorus – generalinis prokuroras, iš kurių vienas turi būti siūlomas prokurorų profesinių sąjungų teikimu, po vieną nepriekaištingos reputacijos asmenį – Respublikos Prezidentas, Seimo Pirmininkas ir Ministras Pirmininkas. ^s-5788df2098f4742cde2c37eb
-TAR pastaba. [[#^s-5788df2098f4742cde2c37eb|10 straipsnio 6 dalies]] nuostatos dėl Prokurorų atrankos, Vyriausiųjų prokurorų atrankos, Etikos, Atestacijos ir Egzaminų komisijų sudarymo tvarkos taikomos sudarant šias komisijas po [[latest/99f3dfc0b1f211eab9d9cd0c85e0b745|įstatymo Nr. XIII-3029]] įsigaliojimo (2020-06-20).
+TAR pastaba. 10 straipsnio 6 dalies nuostatos dėl Prokurorų atrankos, Vyriausiųjų prokurorų atrankos, Etikos, Atestacijos ir Egzaminų komisijų sudarymo tvarkos taikomos sudarant šias komisijas po [[latest/99f3dfc0b1f211eab9d9cd0c85e0b745|įstatymo Nr. XIII-3029]] įsigaliojimo (2020-06-20).
 Straipsnio dalies pakeitimai:
 Nr. XIII-3029, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13468
 
@@ -361,7 +361,7 @@ Nr. XIII-3029, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13468
 
 
 8. Egzaminų komisija sudaroma trejiems metams iš septynių narių. Asmuo į tas pačias pareigas šioje komisijoje gali būti skiriamas ne daugiau kaip dviem kadencijoms iš eilės. Po du prokurorus pasiūlo generalinis prokuroras ir kolegija. Po vieną nepriekaištingos reputacijos socialinių mokslų srities teisės krypties mokslininką pasiūlo Respublikos Prezidentas, Seimo Pirmininkas ir Ministras Pirmininkas. ^s-5708a1ea86fcee5aa61ac5f3
-TAR pastaba. [[#^s-5708a1ea86fcee5aa61ac5f3|10 straipsnio 8 dalies]] nuostatos dėl Prokurorų atrankos, Vyriausiųjų prokurorų atrankos, Etikos, Atestacijos ir Egzaminų komisijų sudarymo tvarkos taikomos sudarant šias komisijas po [[latest/99f3dfc0b1f211eab9d9cd0c85e0b745|įstatymo Nr. XIII-3029]] įsigaliojimo (2020-06-20).
+TAR pastaba. 10 straipsnio 8 dalies nuostatos dėl Prokurorų atrankos, Vyriausiųjų prokurorų atrankos, Etikos, Atestacijos ir Egzaminų komisijų sudarymo tvarkos taikomos sudarant šias komisijas po [[latest/99f3dfc0b1f211eab9d9cd0c85e0b745|įstatymo Nr. XIII-3029]] įsigaliojimo (2020-06-20).
 Straipsnio dalies pakeitimai:
 Nr. XIII-3029, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13468
 
@@ -373,7 +373,7 @@ Nr. XIII-3029, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13468
 10. Prokurorų atrankos, Vyriausiųjų prokurorų atrankos, Egzaminų, Etikos, Atestacijos komisijų sudėtį ir jų veiklos nuostatus įsakymu tvirtina generalinis prokuroras. ^s-a6aae5f2f7ad2dcf50994bb3
 
 
-11. Šiame straipsnyje nurodytų komisijų narių darbas komisijose apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. ^s-214c6e8b6b3df5a3f32a274c
+11. Šiame straipsnyje nurodytų komisijų narių darbas komisijose apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka. ^s-214c6e8b6b3df5a3f32a274c
 Straipsnio dalies pakeitimai:
 Nr. XIII-1740, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20710
 
@@ -393,7 +393,7 @@ PROKURORŲ statusas ir kompetencija
 ### 11 straipsnis. Prokurorų statusas ir nepriklausomumas ^s-91597c233f2476587714fe06
 
 
-1. Prokuroras yra asmuo, paskirtas į prokuroro pareigas šio Įstatymo nustatyta tvarka. Prokuroro – valstybės pareigūno statusą nustato Lietuvos Respublikos Konstitucija, įstatymai, Europos Sąjungos teisės aktai ir tarptautinės sutartys. ^s-4feb197fd1048470bbb889c3
+1. Prokuroras yra asmuo, paskirtas į prokuroro pareigas šio Įstatymo nustatyta tvarka. Prokuroro – valstybės pareigūno statusą nustato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymai, Europos Sąjungos teisės aktai ir tarptautinės sutartys. ^s-4feb197fd1048470bbb889c3
 Straipsnio dalies pakeitimai:
 Nr. XIII-3052, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13620
 
@@ -552,7 +552,7 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 4. Prokuroras, kuriam suteiktas specialus statusas, turi tuos pačius įgaliojimus kaip ir kiti prokurorai, tačiau šiam prokurorui proceso metu aukštesnysis prokuroras yra tik generalinis prokuroras arba generalinio prokuroro sprendimu generalinio prokuroro pavaduotojas ar Generalinės prokuratūros departamento (skyriaus) vyriausiasis prokuroras (jo pavaduotojas). ^s-c936723d8590a510eb6100ff
 
 
-5. Prokurorui, kuriam suteiktas specialus statusas, netaikomos šio Įstatymo [[#^s-c627955a6b87bda5d1f3ced3|32 straipsnio 4 dalies]], 33, 34, 36, 37, 371, 372, 373, 374, 375, 376, 378, 379, 3710, [[#^s-9642ab31c84eb7c7a37984d3|39 straipsnių]], [[#^s-bd1b5a722712306f09ba3e1c|391 straipsnio 2 dalies]], 40, 41 ir [[#^s-6d2749a8a7d8eaf01b660f07|42 straipsnių]] nuostatos. ^s-98e4a7566f06d96cd5bce4cd
+5. Prokurorui, kuriam suteiktas specialus statusas, netaikomos šio Įstatymo [[#^s-c627955a6b87bda5d1f3ced3|32 straipsnio 4 dalies]], [[#^s-3d1bcb5264ef8639ad6e477f|33]], [[#^s-bdf062fd3074865f73bd0a91|34]], [[#^s-4faa8b22d903bbbad68f5732|36]], [[#^s-cf2e6fc405bed633e4312787|37]], [[#^s-e516fd0002282e0f2ab8b74d|371]], [[#^s-6ca1456a0d9efd56c480213a|372]], [[#^s-467fe36d58cab04dbb7955c3|373]], [[#^s-a0b042a5ce256709ce231c1d|374]], [[#^s-f45c08421a6c53a9105f994f|375]], [[#^s-7d7f88600993305b8b9948b4|376]], [[#^s-fb4cf16b86c551f52fdd19d1|378]], [[#^s-e5395cbb44ff5d4f5dd3659b|379]], [[#^s-0f1073630c59fb250d6ddf16|3710]], [[#^s-9642ab31c84eb7c7a37984d3|39]] straipsnių, [[#^s-bd1b5a722712306f09ba3e1c|391 straipsnio 2 dalies]], [[#^s-26cde8e4fbe498e0a9ac6a63|40]], [[#^s-5972951779ff621937b159a2|41]] ir [[#^s-6d2749a8a7d8eaf01b660f07|42]] straipsnių nuostatos. ^s-98e4a7566f06d96cd5bce4cd
 
 
 6. Neteko galios nuo 2025-01-01 ^s-b19465f860ef47def5de83ca
@@ -813,7 +813,7 @@ Nr. XII-652, 2013-12-10, Žin., 2013, Nr. 130-6628 (2013-12-19)
 2. Kai nėra generalinio prokuroro, šias pareigas eina generalinio prokuroro paskirtas generalinio prokuroro pavaduotojas, o jeigu generalinis prokuroras jį pavaduojančio asmens nepaskyrė, – didesnį tarnybos Generalinėje prokuratūroje stažą turintis generalinio prokuroro pavaduotojas. ^s-299887ee84f5b8640e55ebb0
 
 
-3. Generaliniam prokurorui ir jo pavaduotojams netaikomos šio Įstatymo [[#^s-fbb4c1f668ea6426752a69b8|25 straipsnio 1 dalies]], [[#^s-da6678d2aa3a90e63df28beb|26 straipsnio]], [[#^s-81ff4d40a539a118d15761f1|30 straipsnio 3 dalies]], 31–34, 36, [[#^s-cf2e6fc405bed633e4312787|37 straipsnių]], [[#^s-f7c11904a4a5f3be23ce8323|39 straipsnio 3 dalies]], 40–[[#^s-914310ade0fbd42eb17a4bdb|44 straipsnių]], [[#^s-f5b921e5c7145564c6f0cae5|45 straipsnio]] 1–6 dalių, 46, [[#^s-4eac85716662ad15c71fb239|48 straipsnių]] ir [[#^s-891842251e90dd3847caf3c0|53 straipsnio 2 dalies]] nuostatos. ^s-c60ba4f286dab5a14676fa79
+3. Generaliniam prokurorui ir jo pavaduotojams netaikomos šio Įstatymo [[#^s-fbb4c1f668ea6426752a69b8|25 straipsnio 1 dalies]], [[#^s-da6678d2aa3a90e63df28beb|26 straipsnio]], [[#^s-81ff4d40a539a118d15761f1|30 straipsnio 3 dalies]], [[#^s-fd23ca87d3a52bfd63c65349|31]]–[[#^s-bdf062fd3074865f73bd0a91|34]], [[#^s-4faa8b22d903bbbad68f5732|36]], [[#^s-cf2e6fc405bed633e4312787|37]] straipsnių, [[#^s-f7c11904a4a5f3be23ce8323|39 straipsnio 3 dalies]], [[#^s-26cde8e4fbe498e0a9ac6a63|40]]–[[#^s-914310ade0fbd42eb17a4bdb|44]] straipsnių, [[#^s-f5b921e5c7145564c6f0cae5|45 straipsnio]] [[#^s-8d75732d475accc2158c80e4|1]]–[[#^s-5835b9c13f81e1b278d8c1c4|6]] dalių, [[#^s-26e2e3c98bd98c9ea4434930|46]], [[#^s-4eac85716662ad15c71fb239|48]] straipsnių ir [[#^s-891842251e90dd3847caf3c0|53 straipsnio 2 dalies]] nuostatos. ^s-c60ba4f286dab5a14676fa79
 
 
 4. Generalinio prokuroro ir jo pavaduotojų asmens ir jų šeimos narių ar turto apsauga užtikrinama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir sąlygomis. ^s-33b8b17b696c030233f2f78a
@@ -992,7 +992,7 @@ Nr. XIII-3029, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13468
 ### 27 straipsnis. Asmens duomenys ^s-820e9f16659abae83e70b3d9
 
 
-1. Generalinė prokuratūra prašymus tarnauti prokuroru pateikusių asmenų ir prokurorų asmens duomenis tvarko 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] nustatyta tvarka. ^s-0452a1f3db136fb6b40907df
+1. Generalinė prokuratūra prašymus tarnauti prokuroru pateikusių asmenų ir prokurorų asmens duomenis tvarko 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] nustatyta tvarka. ^s-0452a1f3db136fb6b40907df
 
 
 2. [[#^s-0452a1f3db136fb6b40907df|Šio straipsnio 1 dalyje]] nurodytų asmenų asmens duomenys, sveikatos pažymos, prokuroro tarnybos vertinimo rezultatai, taip pat duomenys apie prokuroro paskyrimą į pareigas, priesaiką, atleidimą iš pareigų, perkėlimą, nušalinimą, tarnybines nuobaudas ir kiti duomenys tvarkomi Viešojo sektoriaus darbuotojų registro informacinėje sistemoje ir Generalinėje prokuratūroje saugomoje asmens byloje pagal generalinio prokuroro patvirtintas asmens bylų sudarymo ir tvarkymo taisykles. ^s-8d27cb7e6cf9e0dcc4c52ffd
@@ -1052,7 +1052,7 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 4. Asmens, kuris iki šio Įstatymo įsigaliojimo buvo paskirtas į respublikos prokuroro (jo pavaduotojo), miesto, rajono, tarprajoninės, transporto prokuratūros prokuroro (jo pavaduotojo, jo padėjėjo), prokuratūros stažuotojo, prokuratūros tardytojo (jo padėjėjo) pareigas, tarnybos prokuratūroje laikas yra įskaitomas į tarnybos prokuroru stažą. ^s-0d6494880d5ccaa30d61da18
 
 
-5. Asmens darbo (tarnybos) laikas, nurodytas šio straipsnio 2 ir [[#^s-dc27fdfacb013620bf84b3ac|3 dalyse]], į tarnybos prokuroru stažą įskaitomas generalinio prokuroro įsakymu. ^s-4ee3fa0326f9036c9b476efd
+5. Asmens darbo (tarnybos) laikas, nurodytas šio straipsnio [[#^s-51493caf6868aa175ad26566|2]] ir [[#^s-dc27fdfacb013620bf84b3ac|3]] dalyse, į tarnybos prokuroru stažą įskaitomas generalinio prokuroro įsakymu. ^s-4ee3fa0326f9036c9b476efd
 
 
 6. Asmuo, nesutikdamas su generalinio prokuroro įsakymu dėl stažo įskaitymo, gali jį apskųsti teismui [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-9c91ab6a051504f0d03bf788
@@ -1179,7 +1179,7 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 4. Prokuroras jo paties sutikimu gali būti siunčiamas kelti kvalifikacijos ne ilgiau kaip vienerius metus. Šis laikotarpis įskaitomas į tarnybos prokuroru stažą, prokurorui mokamas iki mokymosi laikotarpio nustatytas darbo užmokestis ir garantuojamos jo einamos pareigos. ^s-c627955a6b87bda5d1f3ced3
 
 
-5. Prokuroras, prokuratūros siuntimu kėlęs kvalifikaciją ilgiau kaip tris mėnesius ir per vienerius metus nuo kvalifikacijos kėlimo pabaigos atleistas iš tarnybos prokuratūroje pagal šio Įstatymo [[#^s-0a8a3e02b2def45da2bf059d|44 straipsnio 1 dalies]] 1–6, 9, 10, 14 punktus, [[#^s-bbfcb00c5f96b4529d45dc4f|2 dalies]] 1 ir 3 punktus, privalo atlyginti dėl jo kvalifikacijos kėlimo prokuratūros turėtas išlaidas per paskutinius dvejus metus. ^s-5341689aec3957c6be101b8c
+5. Prokuroras, prokuratūros siuntimu kėlęs kvalifikaciją ilgiau kaip tris mėnesius ir per vienerius metus nuo kvalifikacijos kėlimo pabaigos atleistas iš tarnybos prokuratūroje pagal šio Įstatymo [[#^s-0a8a3e02b2def45da2bf059d|44 straipsnio 1 dalies]] [[#^s-cd5d76f8939d830902aeda3c|1]]–[[#^s-a256543b628584ef38be832b|6]], [[#^s-e13234576e913f40955ff989|9]], [[#^s-f850eb9fea9f309ef6128479|10]], [[#^s-a82690e3b2491cb90c442ee5|14]] punktus, [[#^s-bbfcb00c5f96b4529d45dc4f|2 dalies]] [[#^s-cd5d76f8939d830902aeda3c|1]] ir [[#^s-70a4d480360d8f26a37fb0bb|3]] punktus, privalo atlyginti dėl jo kvalifikacijos kėlimo prokuratūros turėtas išlaidas per paskutinius dvejus metus. ^s-5341689aec3957c6be101b8c
 
 
 6. Prokurorų mokymo ir kvalifikacijos kėlimo išlaidų apmokėjimo tvarką nustato generalinis prokuroras. ^s-ed9d0a513f7e31a775ddddee
@@ -1251,7 +1251,7 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 ### 34 straipsnis. Prokurorų karjera ^s-bdf062fd3074865f73bd0a91
 
 
-1. Asmuo, pageidaujantis būti paskirtas į šio straipsnio 5, 6, [[#^s-0e8db555e26e4d9f6821ea31|7 dalyse]] nurodytas pareigas, dalyvauja atrankoje į šias pareigas šio Įstatymo [[#^s-da6678d2aa3a90e63df28beb|26 straipsnyje]] nustatyta tvarka. ^s-ba76fe879df95d02e7b8a525
+1. Asmuo, pageidaujantis būti paskirtas į šio straipsnio [[#^s-1eeff38f8523c14f8735420f|5]], [[#^s-363e694a42cfed69360dc400|6]], [[#^s-0e8db555e26e4d9f6821ea31|7]] dalyse nurodytas pareigas, dalyvauja atrankoje į šias pareigas šio Įstatymo [[#^s-da6678d2aa3a90e63df28beb|26 straipsnyje]] nustatyta tvarka. ^s-ba76fe879df95d02e7b8a525
 Straipsnio dalies pakeitimai:
 Nr. XV-1019, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11100
 
@@ -1300,7 +1300,7 @@ Nr. XII-953, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09154
 3. Buvęs prokuroras, atleistas iš pareigų jį paskyrus Europos prokuroru, be atrankos gali būti paskirtas į tokias pačias ar žemesnes prokuroro pareigas, jeigu iš Europos prokuroro pareigų jis atleistas pasibaigus kadencijai arba savo noru ir nuo atleidimo nepraėjo penkeri metai. Jeigu į tas pačias laisvas prokuroro pareigas pageidauja būti paskirti keli buvę prokurorai, sprendžiant paskyrimo klausimą taikoma šio Įstatymo [[#^s-da6678d2aa3a90e63df28beb|26 straipsnyje]] nustatyta atrankos tvarka. Atrankoje dalyvauja tik šiame straipsnyje nustatyta tvarka į tarnybą prokuratūroje pageidaujantys grįžti buvę prokurorai. ^s-cf6c99213da93a6df9e16a84
 
 
-4. Buvęs prokuroras šio straipsnio 1, 2 ir [[#^s-cf6c99213da93a6df9e16a84|3 dalyse]] nustatyta tvarka negali būti skiriamas į vyriausiojo prokuroro ir vyriausiojo prokuroro pavaduotojo pareigas. ^s-71a2bd130e7050bfc5fe6540
+4. Buvęs prokuroras šio straipsnio [[#^s-8cca75a04622d2b59354b6cc|1]], [[#^s-55d1d8fc34ce035a8acefc30|2]] ir [[#^s-cf6c99213da93a6df9e16a84|3]] dalyse nustatyta tvarka negali būti skiriamas į vyriausiojo prokuroro ir vyriausiojo prokuroro pavaduotojo pareigas. ^s-71a2bd130e7050bfc5fe6540
 
 
 Įstatymas papildytas straipsniu:
@@ -1428,7 +1428,7 @@ Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
 3. Kai Lietuvos nacionalinio nario Eurojuste nėra ar jis negali eiti šių pareigų, jo funkcijas atlieka pavaduotojas. ^s-11e0f49fcc0105b1eb01dd65
 
 
-4. Jeigu Lietuvos nacionalinis narys Eurojuste išrenkamas Eurojusto pirmininku, generalinis prokuroras gali paskirti kitą prokurorą, atrinktą vadovaujantis šio Įstatymo [[#^s-467fe36d58cab04dbb7955c3|373 straipsnio]] 1, 2 ir [[#^s-11e0f49fcc0105b1eb01dd65|3 dalyse]] nustatyta tvarka, dirbti Eurojusto buveinės vietoje tol, kol Lietuvos nacionalinis narys Eurojuste eis Eurojusto pirmininko pareigas. ^s-95adef714991d903e2bb8270
+4. Jeigu Lietuvos nacionalinis narys Eurojuste išrenkamas Eurojusto pirmininku, generalinis prokuroras gali paskirti kitą prokurorą, atrinktą vadovaujantis šio Įstatymo [[#^s-467fe36d58cab04dbb7955c3|373 straipsnio]] [[#^s-e620cc7100622f55ec019379|1]], [[#^s-7ed3f23850127e1644410bc5|2]] ir [[#^s-6a328d11eb98e674ec48a19b|3]] dalyse nustatyta tvarka, dirbti Eurojusto buveinės vietoje tol, kol Lietuvos nacionalinis narys Eurojuste eis Eurojusto pirmininko pareigas. ^s-95adef714991d903e2bb8270
 Papildyta straipsnio dalimi:
 Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
 
@@ -1517,7 +1517,7 @@ Lietuvos nacionalinio nario Eurojuste, jo pavaduotojo ir padėjėjo įgaliojimai
 3) atleidus jį iš pareigų šio Įstatymo aštuntajame skirsnyje nustatytais pagrindais; ^s-fd86034f31475763f0ffdc73
 
 
-4) išrinkus jį Eurojusto ryšių palaikymo teisminiu pareigūnu pagal Reglamento (ES) 2018/1727 [[#^s-2289af28f6038a24437a9715|53 straipsnį]]. ^s-0ed699cbd4f8667df5d6d831
+4) išrinkus jį Eurojusto ryšių palaikymo teisminiu pareigūnu pagal [Reglamento (ES) 2018/1727 53 straipsnį](https://eur-lex.europa.eu/eli/reg/2018/1727/art_53/oj). ^s-0ed699cbd4f8667df5d6d831
 Papildyta straipsnio punktu:
 Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
 
@@ -1531,7 +1531,7 @@ Nr. XII-1763, 2015-06-09, paskelbta TAR 2015-06-15, i. k. 2015-09299
 ### 377 straipsnis. Sutikimas komandiruoti Eurojusto ryšių palaikymo teisminį pareigūną ^s-c295d2dcda7b054612d7a0c2
 
 
-Sutikimą komandiruoti Eurojusto ryšių palaikymo teisminį pareigūną pagal Reglamento (ES) 2018/1727 53 straipsnio 3 dalį Eurojusto kolegijai teikia teisingumo ministras, suderinęs su valstybės ar savivaldybių institucijos ar įstaigos, kurios darbuotojas yra preliminariai atrinktas Eurojusto ryšių palaikymo teisminis pareigūnas, vadovu.
+Sutikimą komandiruoti Eurojusto ryšių palaikymo teisminį pareigūną pagal [Reglamento (ES) 2018/1727 53 straipsnio 3 dalį](https://eur-lex.europa.eu/eli/reg/2018/1727/art_53/par_3/oj) Eurojusto kolegijai teikia teisingumo ministras, suderinęs su valstybės ar savivaldybių institucijos ar įstaigos, kurios darbuotojas yra preliminariai atrinktas Eurojusto ryšių palaikymo teisminis pareigūnas, vadovu.
 
 
 Papildyta straipsniu:
@@ -1568,10 +1568,10 @@ Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
 
 
 
-1. Kandidatų į Europos prokurorus, nurodytus Reglamento (ES) 2017/1939 [[#^s-4c0cda54f8fae3d30d7bb734|12 straipsnyje]], atrankos tvarka nustatoma bendru teisingumo ministro ir generalinio prokuroro įsakymu. ^s-625143b4eb14f835be85dfca
+1. Kandidatų į Europos prokurorus, nurodytus [Reglamento (ES) 2017/1939 12 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/1939/art_12/oj), atrankos tvarka nustatoma bendru teisingumo ministro ir generalinio prokuroro įsakymu. ^s-625143b4eb14f835be85dfca
 
 
-2. Kandidatams į Europos prokurorus keliami reikalavimai nustatyti Reglamento (ES) 2017/1939 [[#^s-92251b090abdac744311c8d1|16 straipsnio 1 dalyje]]. ^s-5092fb36702f75d584925bf9
+2. Kandidatams į Europos prokurorus keliami reikalavimai nustatyti [Reglamento (ES) 2017/1939 16 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2017/1939/art_16/par_1/oj). ^s-5092fb36702f75d584925bf9
 
 
 3. Kandidatų atranką atlieka Kandidatų į Europos prokurorus atrankos komisija. Šioje komisijoje yra trys prokuratūros atstovai ir po vieną Lietuvos Respublikos teisingumo ministerijos ir Teisėjų tarybos atstovą. Kandidatų į Europos prokurorus atrankos komisijos personalinę sudėtį tvirtina teisingumo ministras. ^s-5c52ed0aefe75e99ae3f9eda
@@ -1591,13 +1591,13 @@ Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
 
 
 
-1. Generalinio prokuroro nustatyta tvarka vyksta kandidatų į Europos deleguotuosius prokurorus, nurodytus Reglamento (ES) 2017/1939 [[#^s-818c70299d6e2d34b1b9089f|13 straipsnyje]], atranka. ^s-0e3c48701e42b65e3ebeab3c
+1. Generalinio prokuroro nustatyta tvarka vyksta kandidatų į Europos deleguotuosius prokurorus, nurodytus [Reglamento (ES) 2017/1939 13 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/1939/art_13/oj), atranka. ^s-0e3c48701e42b65e3ebeab3c
 
 
-2. Kandidatams į Europos deleguotuosius prokurorus keliami reikalavimai nustatyti Reglamento (ES) 2017/1939 [[#^s-c2a2219ac33d968737d59049|17 straipsnio 2 dalyje]]. ^s-ad9a49cc70382bd1f289c1ed
+2. Kandidatams į Europos deleguotuosius prokurorus keliami reikalavimai nustatyti [Reglamento (ES) 2017/1939 17 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2017/1939/art_17/par_2/oj). ^s-ad9a49cc70382bd1f289c1ed
 
 
-3. Geriausiai įvertintus kandidatus į Europos deleguotuosius prokurorus Europos vyriausiajam prokurorui pateikia generalinis prokuroras, vadovaudamasis Reglamento (ES) 2017/1939 [[#^s-7b16ec97584933876eae02a8|17 straipsnio 1 dalimi]] ir atsižvelgdamas į Europos vyriausiojo prokuroro patvirtintą Europos deleguotųjų prokurorų skaičių Lietuvos Respublikai. ^s-248ec64f176c4f6993d45540
+3. Geriausiai įvertintus kandidatus į Europos deleguotuosius prokurorus Europos vyriausiajam prokurorui pateikia generalinis prokuroras, vadovaudamasis [Reglamento (ES) 2017/1939 17 straipsnio 1 dalimi](https://eur-lex.europa.eu/eli/reg/2017/1939/art_17/par_1/oj) ir atsižvelgdamas į Europos vyriausiojo prokuroro patvirtintą Europos deleguotųjų prokurorų skaičių Lietuvos Respublikai. ^s-248ec64f176c4f6993d45540
 
 
 Papildyta straipsniu:
@@ -1623,7 +1623,7 @@ Nr. XIII-1902, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00797
 5. Europos Sąjungos teisės aktuose nustatytais atvejais ir tvarka Europos prokuroras gali atlikti Europos deleguotojo prokuroro funkcijas Lietuvos Respublikoje. Šiuo atveju Europos prokuroras turi tokius pačius įgaliojimus kaip ir Europos deleguotasis prokuroras. ^s-e136a99a4f4b7a16c592f829
 
 
-6. Europos prokuroro ir Europos deleguotojo prokuroro įgaliojimai sietini su nusikalstamų veikų tyrimu ir asmenų baudžiamuoju persekiojimu pagal Reglamente (ES) 2017/1939 nustatytą kompetenciją. ^s-f861d523becc7fb4faf87206
+6. Europos prokuroro ir Europos deleguotojo prokuroro įgaliojimai sietini su nusikalstamų veikų tyrimu ir asmenų baudžiamuoju persekiojimu pagal [Reglamente (ES) 2017/1939](https://eur-lex.europa.eu/eli/reg/2017/1939/oj) nustatytą kompetenciją. ^s-f861d523becc7fb4faf87206
 
 
 Papildyta straipsniu:
@@ -1992,13 +1992,13 @@ Nr. XI-1562, 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
 1. Prokuroras atleidžiamas iš tarnybos generalinio prokuroro įsakymu šio Įstatymo nustatyta tvarka. ^s-8d75732d475accc2158c80e4
 
 
-2. Prokurorą atleisti iš tarnybos laikinojo nedarbingumo laikotarpiu ar atostogų metu, išskyrus šio Įstatymo [[#^s-0a8a3e02b2def45da2bf059d|44 straipsnio 1 dalies]] 1–4, 11, 12 ir 14 punktuose nustatytus atvejus, draudžiama. Jeigu prokuroras atleidžiamas iš tarnybos pažeidžiant šią nuostatą, jo atleidimo diena laikoma kita po atostogų ar laikinojo nedarbingumo pasibaigimo tarnybos diena. ^s-39cdca90f69613ec45311042
+2. Prokurorą atleisti iš tarnybos laikinojo nedarbingumo laikotarpiu ar atostogų metu, išskyrus šio Įstatymo [[#^s-0a8a3e02b2def45da2bf059d|44 straipsnio 1 dalies]] [[#^s-cd5d76f8939d830902aeda3c|1]]–[[#^s-2636d8ae2fcaf8c6729eee5f|4]], [[#^s-09b082910e53cf3e487b50c4|11]], [[#^s-aa34c2c659a29fdf3e248c6a|12]] ir [[#^s-a82690e3b2491cb90c442ee5|14]] punktuose nustatytus atvejus, draudžiama. Jeigu prokuroras atleidžiamas iš tarnybos pažeidžiant šią nuostatą, jo atleidimo diena laikoma kita po atostogų ar laikinojo nedarbingumo pasibaigimo tarnybos diena. ^s-39cdca90f69613ec45311042
 
 
-3. Nėščią prokurorę atleisti iš tarnybos, išskyrus šio Įstatymo [[#^s-0a8a3e02b2def45da2bf059d|44 straipsnio 1 dalies]] 1–6, 9, 10, 11 ir 14 punktuose nustatytus atvejus, draudžiama. ^s-1a36934f83ac45948fa6e95d
+3. Nėščią prokurorę atleisti iš tarnybos, išskyrus šio Įstatymo [[#^s-0a8a3e02b2def45da2bf059d|44 straipsnio 1 dalies]] [[#^s-cd5d76f8939d830902aeda3c|1]]–[[#^s-a256543b628584ef38be832b|6]], [[#^s-e13234576e913f40955ff989|9]], [[#^s-f850eb9fea9f309ef6128479|10]], [[#^s-09b082910e53cf3e487b50c4|11]] ir [[#^s-a82690e3b2491cb90c442ee5|14]] punktuose nustatytus atvejus, draudžiama. ^s-1a36934f83ac45948fa6e95d
 
 
-4. Prokurorą, kuris vienas augina vaiką iki trejų metų, atleisti iš tarnybos, išskyrus šio Įstatymo [[#^s-0a8a3e02b2def45da2bf059d|44 straipsnio 1 dalies]] 1–6, 8–12, 14 punktuose ir [[#^s-39cdca90f69613ec45311042|2 dalies]] 1 ir 2 punktuose nustatytus atvejus, draudžiama. ^s-3890c13894f35bcf60936dcf
+4. Prokurorą, kuris vienas augina vaiką iki trejų metų, atleisti iš tarnybos, išskyrus šio Įstatymo [[#^s-0a8a3e02b2def45da2bf059d|44 straipsnio 1 dalies]] [[#^s-cd5d76f8939d830902aeda3c|1]]–[[#^s-a256543b628584ef38be832b|6]], [[#^s-83ecbf80036e3c7be8221dde|8]]–[[#^s-aa34c2c659a29fdf3e248c6a|12]], [[#^s-a82690e3b2491cb90c442ee5|14]] punktuose ir [[#^s-39cdca90f69613ec45311042|2 dalies]] [[#^s-cd5d76f8939d830902aeda3c|1]] ir [[#^s-33ebdae45808696f4330531c|2]] punktuose nustatytus atvejus, draudžiama. ^s-3890c13894f35bcf60936dcf
 
 
 5. Atleisti prokurorą iš tarnybos šio Įstatymo [[#^s-082f6b37cf05d0991dcb58e0|44 straipsnio 1 dalies 7 punkte]] nustatytu atveju galima tik raštu įspėjus prieš du mėnesius. Prokuroras, kuris vienas augina vaiką iki keturiolikos metų, taip pat prokuroras, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją atsiradimo liko ne daugiau kaip penkeri metai arba kuris yra neįgalus, apie atleidimą iš tarnybos turi būti įspėjamas prieš keturis mėnesius. Jeigu prokuroras atleidžiamas iš tarnybos nepasibaigus įspėjimo laikui, jo atleidimo data nukeliama iki įspėjimo termino pabaigos. ^s-e815334f0364489422582678
@@ -2040,7 +2040,7 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 ### 47 straipsnis. Išeitinė išmoka ^s-d98573b73d798808fffb2cb6
 
 
-1. Atleidžiant prokurorą iš tarnybos šio Įstatymo [[#^s-0a8a3e02b2def45da2bf059d|44 straipsnio 1 dalies]] 7, 8, 12, 13 punktuose ir 2 dalies 2 punkte nustatytais atvejais, o generalinį prokurorą (jo pavaduotoją) – šio Įstatymo [[#^s-1eab5186ed48ae7af89b9bda|22 straipsnio 5 dalies 1 punkte]], 7 dalies 1, 2 punktuose ir 8 dalies 2 punkte nustatytais atvejais, jam sumokama dviejų mėnesių vidutinio jo darbo užmokesčio dydžio išeitinė išmoka. Jeigu šio Įstatymo [[#^s-aa34c2c659a29fdf3e248c6a|44 straipsnio 1 dalies 12 punkte]] nustatytu atveju dėl iš tarnybos atleidžiamo prokuroro yra nagrinėjamas šio Įstatymo [[#^s-8304a1e73549e46bc8806951|41 straipsnio 4 dalyje]] nurodytas kreipimasis arba [[#^s-fdaaba61bb47fa11395f9842|41 straipsnio 5 dalyje]] nurodytas teikimas, išeitinė išmoka prokurorui išmokama per 5 darbo dienas nuo sprendimo, išnagrinėjus šį kreipimąsi ar teikimą, priėmimo dienos. Priėmus sprendimą dėl prokuroro, atleisto iš tarnybos šio Įstatymo [[#^s-aa34c2c659a29fdf3e248c6a|44 straipsnio 1 dalies 12 punkte]] nustatytu atveju, pripažinimo padariusiu įstatymų pažeidimą, tarnybinį nusižengimą, prokuroro vardą žeminantį poelgį ar kitą Prokurorų etikos kodekso pažeidimą, už kurį jam turėtų būti skirta tarnybinė nuobauda – atleidimas iš tarnybos, išeitinė išmoka šiam prokurorui nemokama. ^s-588bc8755cd0ec947cd2e9e5
+1. Atleidžiant prokurorą iš tarnybos šio Įstatymo [[#^s-0a8a3e02b2def45da2bf059d|44 straipsnio 1 dalies]] [[#^s-082f6b37cf05d0991dcb58e0|7]], [[#^s-83ecbf80036e3c7be8221dde|8]], [[#^s-aa34c2c659a29fdf3e248c6a|12]], [[#^s-9561c79ffbde87b14ee28ab2|13]] punktuose ir 2 dalies 2 punkte nustatytais atvejais, o generalinį prokurorą (jo pavaduotoją) – šio Įstatymo [[#^s-1eab5186ed48ae7af89b9bda|22 straipsnio 5 dalies 1 punkte]], 7 dalies [[#^s-1eab5186ed48ae7af89b9bda|1]], [[#^s-5fe8e4fc549a5852b93d6043|2]] punktuose ir 8 dalies 2 punkte nustatytais atvejais, jam sumokama dviejų mėnesių vidutinio jo darbo užmokesčio dydžio išeitinė išmoka. Jeigu šio Įstatymo [[#^s-aa34c2c659a29fdf3e248c6a|44 straipsnio 1 dalies 12 punkte]] nustatytu atveju dėl iš tarnybos atleidžiamo prokuroro yra nagrinėjamas šio Įstatymo [[#^s-8304a1e73549e46bc8806951|41 straipsnio 4 dalyje]] nurodytas kreipimasis arba [[#^s-fdaaba61bb47fa11395f9842|41 straipsnio 5 dalyje]] nurodytas teikimas, išeitinė išmoka prokurorui išmokama per 5 darbo dienas nuo sprendimo, išnagrinėjus šį kreipimąsi ar teikimą, priėmimo dienos. Priėmus sprendimą dėl prokuroro, atleisto iš tarnybos šio Įstatymo [[#^s-aa34c2c659a29fdf3e248c6a|44 straipsnio 1 dalies 12 punkte]] nustatytu atveju, pripažinimo padariusiu įstatymų pažeidimą, tarnybinį nusižengimą, prokuroro vardą žeminantį poelgį ar kitą Prokurorų etikos kodekso pažeidimą, už kurį jam turėtų būti skirta tarnybinė nuobauda – atleidimas iš tarnybos, išeitinė išmoka šiam prokurorui nemokama. ^s-588bc8755cd0ec947cd2e9e5
 
 
 2. [[#^s-588bc8755cd0ec947cd2e9e5|Šio straipsnio 1 dalyje]] nustatyta išeitinė išmoka, išskyrus išeitinę išmoką, mokamą atleidžiant prokurorą iš tarnybos šio Įstatymo [[#^s-aa34c2c659a29fdf3e248c6a|44 straipsnio 1 dalies 12 punkte]] nustatytu atveju, atleidžiamam prokurorui, turinčiam daugiau kaip penkerių metų tarnybos prokuroru stažą, didinama pusantro karto, turinčiam daugiau kaip dešimties metų tarnybos prokuroru stažą, – du kartus, turinčiam daugiau kaip penkiolika metų tarnybos prokuroru stažą, – pustrečio karto, turinčiam daugiau kaip dvidešimties metų tarnybos prokuroru stažą, – tris kartus. ^s-635179884d11b403aa8b8385
@@ -2066,7 +2066,7 @@ Nr. XIII-3403, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24561
 3. Jei teismas prokuroro atleidimą iš tarnybos pripažino neteisėtu ir nustatė, kad į eitas pareigas jis negali būti grąžintas dėl prokuratūros darbo organizavimo pakeitimų arba dėl kitų svarbių priežasčių, prokurorui priteisiama šio Įstatymo [[#^s-d98573b73d798808fffb2cb6|47 straipsnyje]] nustatyto dydžio išeitinė išmoka ir vidutinis mėnesinis darbo užmokestis už priverstinės pravaikštos laiką nuo neteisėto atleidimo iš tarnybos dienos iki teismo sprendimo įsigaliojimo dienos. Šiuo atveju laikoma, kad prokuroras iš tarnybos atleistas pagal šio Įstatymo [[#^s-cd5d76f8939d830902aeda3c|44 straipsnio 1 dalies 1 punktą]] kaip atsistatydinęs savo prašymu nuo teismo sprendimo įsigaliojimo dienos. ^s-be2d5d98ef1727bc464d4396
 
 
-4. Generalinis prokuroras, remdamasis šio straipsnio 2 ir [[#^s-be2d5d98ef1727bc464d4396|3 dalyse]] nurodytais teismo sprendimais, privalo panaikinti neteisėtą įsakymą dėl prokuroro atleidimo iš tarnybos ir šio įsakymo pagrindus. ^s-fda91cdf291186524bb455c5
+4. Generalinis prokuroras, remdamasis šio straipsnio [[#^s-c92864bfd40319d940b8ae4c|2]] ir [[#^s-be2d5d98ef1727bc464d4396|3]] dalyse nurodytais teismo sprendimais, privalo panaikinti neteisėtą įsakymą dėl prokuroro atleidimo iš tarnybos ir šio įsakymo pagrindus. ^s-fda91cdf291186524bb455c5
 
 
 
@@ -2188,7 +2188,7 @@ Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
 6. Prokurorui už budėjimą poilsio ir švenčių dienomis namuose mokamas 50 procentų jo pareiginės algos dydžio atlygis proporcingai budėtam laikui. Už darbą atvykus į darbo vietą atlikti neatidėliotinų veiksmų poilsio ir švenčių dienomis mokama [[#^s-582b691b523c6066fdee17d3|šio straipsnio 3 dalyje]] nustatyta tvarka. ^s-a4443cd460eff0c9ada92cdc
 
 
-7. Prokuroro prašymu už darbą ar budėjimą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą mokama šio straipsnio 3, 4, 5, [[#^s-a4443cd460eff0c9ada92cdc|6 dalyse]] nustatyta tvarka arba jam artimiausią mėnesį suteikiamas poilsio laikas, padaugintas iš šio straipsnio 3, 4, 5, [[#^s-a4443cd460eff0c9ada92cdc|6 dalyse]] nustatyto atitinkamo dydžio, arba šis poilsio laikas pridedamas prie kasmetinių atostogų. Už suteiktą poilsio laiką prokurorui mokamas jo pareiginės algos dydžio atlygis. ^s-517dbe167971107db1ecb391
+7. Prokuroro prašymu už darbą ar budėjimą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą mokama šio straipsnio [[#^s-582b691b523c6066fdee17d3|3]], [[#^s-23e3bc0ab6374aedf12addd0|4]], [[#^s-27f2b9054a27f5f6f198bfa2|5]], [[#^s-a4443cd460eff0c9ada92cdc|6]] dalyse nustatyta tvarka arba jam artimiausią mėnesį suteikiamas poilsio laikas, padaugintas iš šio straipsnio [[#^s-582b691b523c6066fdee17d3|3]], [[#^s-23e3bc0ab6374aedf12addd0|4]], [[#^s-27f2b9054a27f5f6f198bfa2|5]], [[#^s-a4443cd460eff0c9ada92cdc|6]] dalyse nustatyto atitinkamo dydžio, arba šis poilsio laikas pridedamas prie kasmetinių atostogų. Už suteiktą poilsio laiką prokurorui mokamas jo pareiginės algos dydžio atlygis. ^s-517dbe167971107db1ecb391
 
 
 8. Kai prokuroras laikinai pavaduoja aukštesnįjį prokurorą (neturintį pavaduotojo), jam mokama aukštesniojo prokuroro pareiginė alga. ^s-7d307e62b13bdd07e002a2c2
@@ -2604,13 +2604,13 @@ prokuratūros įstatymo
 1. 2002 m. vasario 28 d. Tarybos sprendimas 2002/187/TVR, įkuriantis Eurojustą siekiant sustiprinti kovą su sunkiais nusikaltimais (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 197), su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 16 d. Tarybos sprendimu 2009/426/TVR (OL 2009 L 138, p. 14). ^s-29b0086534b8af7d3867e863
 
 
-2. 2017 m. spalio 12 d. Tarybos reglamentas (ES) 2017/1939, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje (OL 2017 L 283, p. 1). ^s-5047dce534c2f09d7b0836ca
+2. 2017 m. spalio 12 d. Tarybos [reglamentas (ES) 2017/1939](https://eur-lex.europa.eu/eli/reg/2017/1939/oj), kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje (OL 2017 L 283, p. 1). ^s-5047dce534c2f09d7b0836ca
 Papildyta punktu:
 Nr. XIII-1902, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00797
 
 
 
-3. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1727 dėl Europos Sąjungos bendradarbiavimo baudžiamosios teisenos srityje agentūros (Eurojusto) ir kuriuo pakeičiamas ir panaikinamas Tarybos sprendimas 2002/187/TVR (OL 2018 L 295, p. 138). ^s-f9df04e3cfb7f188918846f5
+3. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2018/1727](https://eur-lex.europa.eu/eli/reg/2018/1727/oj) dėl Europos Sąjungos bendradarbiavimo baudžiamosios teisenos srityje agentūros (Eurojusto) ir kuriuo pakeičiamas ir panaikinamas Tarybos sprendimas 2002/187/TVR (OL 2018 L 295, p. 138). ^s-f9df04e3cfb7f188918846f5
 Papildyta punktu:
 Nr. XIII-2520, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19125
 
@@ -2722,12 +2722,12 @@ Nr. XI-855, 2010-05-27, Žin., 2010, Nr. 64-3142 (2010-06-03)
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1562, 2011-06-30, Žin., 2011, Nr. 91-4333 (2011-07-19)
-[[#^s-99ed360098ebdb5ae0d4bf6c|PROKURATŪROS ĮSTATYMO 2, 4, 5, 6, 7, 8, 9, 10, 11, 15, 17, 19, 20, 21, 23, 24, 25, 26, 28, 33, 34, 35, 36, 37, 40, 41, 44, 47, 52 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 34(1), 39(1) STRAIPSNIAIS IR [[#^s-d0c95285b2e27cb118e3325b|38 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+PROKURATŪROS ĮSTATYMO [[#^s-7453c861fe8855ee57073037|2]], [[#^s-ef66de42f30da282dd12aebf|4]], [[#^s-cfb09db27acc003ecd5da2e7|5]], [[#^s-fe8d60d5e39ce5b58582cedf|6]], [[#^s-cc8973f3f564065d5bf7ba9f|7]], [[#^s-8fd16da9c5456270895e5923|8]], [[#^s-a196d7c0883457c2b506f728|9]], [[#^s-29cb08e82fdddb3ca5596b84|10]], [[#^s-91597c233f2476587714fe06|11]], [[#^s-4fb5f0ef361d91fb1682dbac|15]], [[#^s-ec9b68287b16235790c9f30a|17]], [[#^s-7f702b2fc9fd2cb36809f97e|19]], [[#^s-4561d9dbc46d0433f12568a7|20]], [[#^s-0a2f07811c5edfeef24b66f6|21]], [[#^s-4a11ad79b381fba7492866fd|23]], [[#^s-0edbcbf7b1b06fb76cba94c6|24]], [[#^s-950e21e5ed1d16e6c9579cef|25]], [[#^s-da6678d2aa3a90e63df28beb|26]], [[#^s-0b4a74e2dc2e45abaa36ee14|28]], [[#^s-3d1bcb5264ef8639ad6e477f|33]], [[#^s-bdf062fd3074865f73bd0a91|34]], [[#^s-d85f0c32323d8a6d6be114a8|35]], [[#^s-4faa8b22d903bbbad68f5732|36]], [[#^s-cf2e6fc405bed633e4312787|37]], [[#^s-26cde8e4fbe498e0a9ac6a63|40]], [[#^s-5972951779ff621937b159a2|41]], [[#^s-914310ade0fbd42eb17a4bdb|44]], [[#^s-d98573b73d798808fffb2cb6|47]], [[#^s-99ed360098ebdb5ae0d4bf6c|52]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 34(1), 39(1) STRAIPSNIAIS IR [[#^s-d0c95285b2e27cb118e3325b|38 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 Šis įstatymas įsigalioja 2012 m. sausio 1 d.
 Iki šio įstatymo įsigaliojimo į pareigas 5 metų laikotarpiui paskirti vyriausieji prokurorai (jų pavaduotojai) jas eina iki 5 metų laikotarpio pabaigos.
 Iki šio įstatymo įsigaliojimo į pareigas neterminuotai paskirtiems vyriausiesiems prokurorams (jų pavaduotojams) 5 metų skyrimo į pareigas laikotarpis skaičiuojamas nuo šio įstatymo įsigaliojimo dienos.
-Jeigu vyriausieji prokurorai paskirti į pareigas iki [[#^s-99ed360098ebdb5ae0d4bf6c|Lietuvos Respublikos prokuratūros įstatymo 5, 7, 14, 15, 19, 23, 25, 26, 29, 32, 33, 34, 36, 39, 44, 52 straipsnių]] pakeitimo ir papildymo ir Įstatymo papildymo [[#^s-e516fd0002282e0f2ab8b74d|371 straipsniu]] įstatymo (Žin., 2008,Nr. 81-3173) įsigaliojimo šias pareigas prokuratūroje ėjo kadencijos trukmės ar ilgesnį laikotarpį, šis laikotarpis prilyginamas pirmajai jų kadencijai einant tas pačias pareigas.
-Jeigu vyriausieji prokurorai paskirti į pareigas po [[#^s-99ed360098ebdb5ae0d4bf6c|Lietuvos Respublikos prokuratūros įstatymo 5, 7, 14, 15, 19, 23, 25, 26, 29, 32, 33, 34, 36, 39, 44, 52 straipsnių]] pakeitimo ir papildymo ir Įstatymo papildymo [[#^s-e516fd0002282e0f2ab8b74d|371 straipsniu]] įstatymo (Žin., 2008, Nr. 81-3173) įsigaliojimo šias pareigas prokuratūroje ėjo kadencijos trukmės ar ilgesnį laikotarpį, šis laikotarpis prilyginamas antrajai jų kadencijai einant tas pačias pareigas.
+Jeigu vyriausieji prokurorai paskirti į pareigas iki Lietuvos Respublikos prokuratūros įstatymo [[#^s-cfb09db27acc003ecd5da2e7|5]], [[#^s-cc8973f3f564065d5bf7ba9f|7]], [[#^s-df491b3501f3273c726bcd5c|14]], [[#^s-4fb5f0ef361d91fb1682dbac|15]], [[#^s-7f702b2fc9fd2cb36809f97e|19]], [[#^s-4a11ad79b381fba7492866fd|23]], [[#^s-950e21e5ed1d16e6c9579cef|25]], [[#^s-da6678d2aa3a90e63df28beb|26]], [[#^s-edf1803f8515880477b51561|29]], [[#^s-c5ca79d61636288df13fd176|32]], [[#^s-3d1bcb5264ef8639ad6e477f|33]], [[#^s-bdf062fd3074865f73bd0a91|34]], [[#^s-4faa8b22d903bbbad68f5732|36]], [[#^s-9642ab31c84eb7c7a37984d3|39]], [[#^s-914310ade0fbd42eb17a4bdb|44]], [[#^s-99ed360098ebdb5ae0d4bf6c|52]] straipsnių pakeitimo ir papildymo ir Įstatymo papildymo [[#^s-e516fd0002282e0f2ab8b74d|371 straipsniu]] įstatymo (Žin., 2008,Nr. 81-3173) įsigaliojimo šias pareigas prokuratūroje ėjo kadencijos trukmės ar ilgesnį laikotarpį, šis laikotarpis prilyginamas pirmajai jų kadencijai einant tas pačias pareigas.
+Jeigu vyriausieji prokurorai paskirti į pareigas po Lietuvos Respublikos prokuratūros įstatymo [[#^s-cfb09db27acc003ecd5da2e7|5]], [[#^s-cc8973f3f564065d5bf7ba9f|7]], [[#^s-df491b3501f3273c726bcd5c|14]], [[#^s-4fb5f0ef361d91fb1682dbac|15]], [[#^s-7f702b2fc9fd2cb36809f97e|19]], [[#^s-4a11ad79b381fba7492866fd|23]], [[#^s-950e21e5ed1d16e6c9579cef|25]], [[#^s-da6678d2aa3a90e63df28beb|26]], [[#^s-edf1803f8515880477b51561|29]], [[#^s-c5ca79d61636288df13fd176|32]], [[#^s-3d1bcb5264ef8639ad6e477f|33]], [[#^s-bdf062fd3074865f73bd0a91|34]], [[#^s-4faa8b22d903bbbad68f5732|36]], [[#^s-9642ab31c84eb7c7a37984d3|39]], [[#^s-914310ade0fbd42eb17a4bdb|44]], [[#^s-99ed360098ebdb5ae0d4bf6c|52]] straipsnių pakeitimo ir papildymo ir Įstatymo papildymo [[#^s-e516fd0002282e0f2ab8b74d|371 straipsniu]] įstatymo (Žin., 2008, Nr. 81-3173) įsigaliojimo šias pareigas prokuratūroje ėjo kadencijos trukmės ar ilgesnį laikotarpį, šis laikotarpis prilyginamas antrajai jų kadencijai einant tas pačias pareigas.
 Iki šio įstatymo įsigaliojimo generalinis prokuroras parengia teisės aktus, įgyvendinančius šio įstatymo nuostatas, ir patvirtina šio įstatymo [[#^s-8fd16da9c5456270895e5923|8 straipsnyje]] nurodytų sudėčių komisijas.
 
 19.
@@ -2749,7 +2749,7 @@ LIETUVOS RESPUBLIKOS PROKURATŪROS ĮSTATYMO NR. I-599 [[#^s-4a11ad79b381fba7492
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-953, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09154
-LIETUVOS RESPUBLIKOS PROKURATŪROS ĮSTATYMO NR. I-599 9, 10, 17, 28, 34, 34-1, 36 IR [[#^s-287d81a3c794a91f2211c651|50 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS PROKURATŪROS ĮSTATYMO NR. I-599 [[#^s-a196d7c0883457c2b506f728|9]], [[#^s-29cb08e82fdddb3ca5596b84|10]], [[#^s-ec9b68287b16235790c9f30a|17]], [[#^s-0b4a74e2dc2e45abaa36ee14|28]], [[#^s-bdf062fd3074865f73bd0a91|34]], 34-1, [[#^s-4faa8b22d903bbbad68f5732|36]] IR [[#^s-287d81a3c794a91f2211c651|50]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 
 
@@ -2768,12 +2768,12 @@ Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 [[#^s-7f702b2fc9fd2cb3680
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2717, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26502
-Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 12, 19 ir [[#^s-5972951779ff621937b159a2|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 [[#^s-4c0cda54f8fae3d30d7bb734|12]], [[#^s-7f702b2fc9fd2cb36809f97e|19]] ir [[#^s-5972951779ff621937b159a2|41]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-898, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21494
-Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 1, 2, 9, 16, 19, 24, 25, 27, 28, 29, 31, 32, 33, 36, 37-5, 39, 40, 41, 42, 43, 44, 45, 46, 47, 49, 50, [[#^s-99ed360098ebdb5ae0d4bf6c|52 straipsnių]] ir priedo pakeitimo, Įstatymo papildymo 16-1, 37-7 straipsniais ir 1 priedu ir [[#^s-d85f0c32323d8a6d6be114a8|35 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 [[#^s-561b25abce5f0860b227caf5|1]], [[#^s-7453c861fe8855ee57073037|2]], [[#^s-a196d7c0883457c2b506f728|9]], [[#^s-f62eee7199c7d880ad297436|16]], [[#^s-7f702b2fc9fd2cb36809f97e|19]], [[#^s-0edbcbf7b1b06fb76cba94c6|24]], [[#^s-950e21e5ed1d16e6c9579cef|25]], [[#^s-820e9f16659abae83e70b3d9|27]], [[#^s-0b4a74e2dc2e45abaa36ee14|28]], [[#^s-edf1803f8515880477b51561|29]], [[#^s-fd23ca87d3a52bfd63c65349|31]], [[#^s-c5ca79d61636288df13fd176|32]], [[#^s-3d1bcb5264ef8639ad6e477f|33]], [[#^s-4faa8b22d903bbbad68f5732|36]], 37-5, [[#^s-9642ab31c84eb7c7a37984d3|39]], [[#^s-26cde8e4fbe498e0a9ac6a63|40]], [[#^s-5972951779ff621937b159a2|41]], [[#^s-6d2749a8a7d8eaf01b660f07|42]], [[#^s-ba064ba6b0071b9c51f04233|43]], [[#^s-914310ade0fbd42eb17a4bdb|44]], [[#^s-f5b921e5c7145564c6f0cae5|45]], [[#^s-26e2e3c98bd98c9ea4434930|46]], [[#^s-d98573b73d798808fffb2cb6|47]], [[#^s-f5a2cb61a9a4572078301398|49]], [[#^s-287d81a3c794a91f2211c651|50]], [[#^s-99ed360098ebdb5ae0d4bf6c|52]] straipsnių ir priedo pakeitimo, Įstatymo papildymo 16-1, 37-7 straipsniais ir 1 priedu ir [[#^s-d85f0c32323d8a6d6be114a8|35 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2798,12 +2798,12 @@ Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 16-1, 37-2, 37-3, 37-4, 3
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3029, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13468
-Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 10 ir [[#^s-da6678d2aa3a90e63df28beb|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 [[#^s-29cb08e82fdddb3ca5596b84|10]] ir [[#^s-da6678d2aa3a90e63df28beb|26]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3052, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13620
-Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 1, 11, 28, 29, 34-1 straipsnių pakeitimo ir Įstatymo papildymo 37-11, 37-12 straipsniais įstatymas
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 [[#^s-561b25abce5f0860b227caf5|1]], [[#^s-91597c233f2476587714fe06|11]], [[#^s-0b4a74e2dc2e45abaa36ee14|28]], [[#^s-edf1803f8515880477b51561|29]], 34-1 straipsnių pakeitimo ir Įstatymo papildymo 37-11, 37-12 straipsniais įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2813,7 +2813,7 @@ Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 16-1 straipsnio pakeitimo
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3403, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24561
-Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 47 ir [[#^s-f5a2cb61a9a4572078301398|49 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 [[#^s-d98573b73d798808fffb2cb6|47]] ir [[#^s-f5a2cb61a9a4572078301398|49]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2823,7 +2823,7 @@ Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 37-5 straipsnio pakeitimo
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1677, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26370
-Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 49, 50, [[#^s-99ed360098ebdb5ae0d4bf6c|52 straipsnių]] pakeitimo ir Įstatymo papildymo 50-1 straipsniu įstatymas
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 [[#^s-f5a2cb61a9a4572078301398|49]], [[#^s-287d81a3c794a91f2211c651|50]], [[#^s-99ed360098ebdb5ae0d4bf6c|52]] straipsnių pakeitimo ir Įstatymo papildymo 50-1 straipsniu įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2833,9 +2833,9 @@ Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 [[#^s-da6678d2aa3a90e63df
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2321, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25078
-Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 16-1, 20, 25, 27, 39, 40, 49, 50-1, [[#^s-b3ac9d9bbc2a5dc0fc2cbcb4|60 straipsnių]] ir 1 priedo pakeitimo įstatymas
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 16-1, [[#^s-4561d9dbc46d0433f12568a7|20]], [[#^s-950e21e5ed1d16e6c9579cef|25]], [[#^s-820e9f16659abae83e70b3d9|27]], [[#^s-9642ab31c84eb7c7a37984d3|39]], [[#^s-26cde8e4fbe498e0a9ac6a63|40]], [[#^s-f5a2cb61a9a4572078301398|49]], 50-1, [[#^s-b3ac9d9bbc2a5dc0fc2cbcb4|60]] straipsnių ir 1 priedo pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1019, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11100
-Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 26, 27 ir [[#^s-bdf062fd3074865f73bd0a91|34 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos prokuratūros įstatymo Nr. I-599 [[#^s-da6678d2aa3a90e63df28beb|26]], [[#^s-820e9f16659abae83e70b3d9|27]] ir [[#^s-bdf062fd3074865f73bd0a91|34]] straipsnių pakeitimo įstatymas

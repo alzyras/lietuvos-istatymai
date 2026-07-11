@@ -107,7 +107,7 @@ Pakeisti 15 straipsnio 7 dalį ir ją išdėstyti taip:
 2. Sprendimai dėl išmokų laidojusiems asmenims už Lietuvos Respublikos pirmojo ir antrojo laipsnių ir nukentėjusiųjų asmenų valstybinių pensijų gavėjus, mirusius iki šio įstatymo įsigaliojimo, priimami šių pensijų gavėjų mirties dieną galiojusių teisės aktų nustatyta tvarka. ^s-3802ea643692ec9704a4fc50
 
 
-3. Šio įstatymo 1, 3 ir [[#^s-9cdafb6fd9a9f763352dafc2|4 straipsniai]] įsigalioja 2010 m. sausio 1 d. ^s-852e4e5c720093f88c0c754e
+3. Šio įstatymo [[#^s-ecaa402f0659f4d45f88ba4c|1]], [[#^s-3bf4ab4bc3a8534facba4789|3]] ir [[#^s-9cdafb6fd9a9f763352dafc2|4]] straipsniai įsigalioja 2010 m. sausio 1 d. ^s-852e4e5c720093f88c0c754e
 
 
 4. Šio įstatymo [[#^s-5ca6d9d1da94a4f19b6e748d|2 straipsnis]] įsigalioja 2010 m. liepos 1 d. ^s-9c01f7d766fefef8452f8d99

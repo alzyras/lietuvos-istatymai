@@ -105,7 +105,7 @@ Papildyti 28 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
 ### 7 straipsnis. 29 straipsnio pakeitimas ir papildymas ^s-13db896e7e0464a57b4005a1
 
 
-29 straipsnio 2 dalį pakeisti, straipsnį papildyti naujomis 3, 4 ir [[#^s-3cb7ddae9b113c4bbd79aeed|5 dalimis]], buvusias 3, 4, 5, 6 ir [[#^s-722021c51340facb8b4b1124|7 dalis]] laikyti atitinkamai 6, 7, 8, 9 ir [[#^s-5c7585bdbc5717ab25444d06|10 dalimis]], 7 dalies 3 punktą pakeisti ir visą straipsnį išdėstyti taip:
+29 straipsnio 2 dalį pakeisti, straipsnį papildyti naujomis 3, 4 ir 5 dalimis, buvusias 3, 4, 5, 6 ir 7 dalis laikyti atitinkamai 6, 7, 8, 9 ir 10 dalimis, 7 dalies 3 punktą pakeisti ir visą straipsnį išdėstyti taip:
 
 
 „29 straipsnis. Savivaldybės administracija, administratorius

@@ -98,10 +98,10 @@ Papildyti Įstatymą 581 straipsniu:
 4) prievolių įvykdymo užtikrinimo priemonę suteikusio subjekto pavadinimas ir pagrindinė veiklos vykdymo vieta bei atitinkamais atvejais – veiklos vykdymo vieta, kurioje buvo įgyta prievolių įvykdymo užtikrinimo priemonė. ^s-13cef994c1ecebf524e3e9f8
 
 
-3. Šio straipsnio 1 ir [[#^s-dc6128970136559a0ff27c32|2 dalių]] nuostatos netaikomos laivams, kurių bendroji talpa mažesnė negu 300, taip pat karo laivams, karinio jūrų laivyno pagalbiniams laivams ar kitiems valstybei nuosavybės teise priklausantiems ar valstybės kitu teisėtu pagrindu naudojamiems laivams nekomercinėms viešosioms paslaugoms teikti. ^s-f982d9124342ceba5e467239
+3. Šio straipsnio [[#^s-74865952cec3dadb932358e4|1]] ir [[#^s-dc6128970136559a0ff27c32|2]] dalių nuostatos netaikomos laivams, kurių bendroji talpa mažesnė negu 300, taip pat karo laivams, karinio jūrų laivyno pagalbiniams laivams ar kitiems valstybei nuosavybės teise priklausantiems ar valstybės kitu teisėtu pagrindu naudojamiems laivams nekomercinėms viešosioms paslaugoms teikti. ^s-f982d9124342ceba5e467239
 
 
-4. Lietuvos saugios laivybos administracija ir Lietuvos Respublikos jūrų uostus valdančios įmonės prižiūri, kaip laivų valdytojai laikosi šio straipsnio 1 ir [[#^s-dc6128970136559a0ff27c32|2 dalyse]] nurodytų nuostatų.“ ^s-da8d6416f598228bab6ed991
+4. Lietuvos saugios laivybos administracija ir Lietuvos Respublikos jūrų uostus valdančios įmonės prižiūri, kaip laivų valdytojai laikosi šio straipsnio [[#^s-74865952cec3dadb932358e4|1]] ir [[#^s-dc6128970136559a0ff27c32|2]] dalyse nurodytų nuostatų.“ ^s-da8d6416f598228bab6ed991
 
 
 

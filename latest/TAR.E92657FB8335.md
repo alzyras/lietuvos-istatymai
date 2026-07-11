@@ -37,13 +37,13 @@ Vilnius
 ### 1 straipsnis. Valdininkų įstatymo 17 straipsnio 5 dalies įgyvendinimas ^s-5855d13665ed7fe2ff2904c0
 
 
-1. Vyriausybė iki 1997 m. birželio 30 d. parengia ir patvirtina valdininkų atestavimo laikinųjų nuostatų pataisas ir papildymus, kuriais būtų nustatyta Valdininkų įstatymo 17 straipsnio 5 dalyje numatyta valdininkų atestacijos prieš laiką procedūra. ^s-e1eed107fa7911be517b4a2c
+1. Vyriausybė iki 1997 m. birželio 30 d. parengia ir patvirtina valdininkų atestavimo laikinųjų nuostatų pataisas ir papildymus, kuriais būtų nustatyta [Valdininkų įstatymo 17 straipsnio 5 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.3EFC5919D726) numatyta valdininkų atestacijos prieš laiką procedūra. ^s-e1eed107fa7911be517b4a2c
 
 
-2. Valdininkų įstatymo 17 straipsnio 5 dalyje numatyta valdininkų atestacijos prieš laiką procedūra gali būti pradėta taikyti tik tada, kai Vyriausybė atitinkamai papildys Vyriausybės patvirtintus Valdininkų atestavimo  laikinuosius nuostatus šios procedūros reglamentu. ^s-fd052d7729eed98772a1f526
+2. [Valdininkų įstatymo 17 straipsnio 5 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.3EFC5919D726) numatyta valdininkų atestacijos prieš laiką procedūra gali būti pradėta taikyti tik tada, kai Vyriausybė atitinkamai papildys Vyriausybės patvirtintus Valdininkų atestavimo  laikinuosius nuostatus šios procedūros reglamentu. ^s-fd052d7729eed98772a1f526
 
 
-3. Tarnybinės etikos komisijos gali pareikalauti prieš laiką atestuoti valdininką, jeigu šis nevykdo Valdininkų įstatymo, kitų įstatymų bei teisės aktų nustatytos valdininko prievolės laikytis tarnybinės etikos. ^s-db97317fd868538fade1513f
+3. Tarnybinės etikos komisijos gali pareikalauti prieš laiką atestuoti valdininką, jeigu šis nevykdo [Valdininkų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.3EFC5919D726), kitų įstatymų bei teisės aktų nustatytos valdininko prievolės laikytis tarnybinės etikos. ^s-db97317fd868538fade1513f
 
 
 

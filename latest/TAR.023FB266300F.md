@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-ad8ab90332e5fdfc45d8f0de
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. balandžio 19 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos konvenciją dėl bendros kino filmų gamybos“, ratifikuoja su išlygomis Europos konvenciją dėl bendros kino filmų gamybos, pasirašytą 1998 m. rugsėjo 8 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. balandžio 19 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos konvenciją dėl bendros kino filmų gamybos“](https://e-tar.lt/portal/lt/legalAct/TAR.05B160A78FAC), ratifikuoja su išlygomis Europos konvenciją dėl bendros kino filmų gamybos, pasirašytą 1998 m. rugsėjo 8 d. Strasbūre.
 
 
 

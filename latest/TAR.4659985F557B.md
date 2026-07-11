@@ -293,7 +293,7 @@ Konservuoti ir restauruoti muziejines vertybes turi teisę atestuoti restaurator
 ### 11 straipsnis. Muziejų perkėlimas iš užimamų patalpų ^s-5810b6f930019aeb85bf8633
 
 
-Muziejus galima perkelti iš užimamų patalpų tik į geresnes, muziejaus funkcijoms atlikti tinkamas, patalpas, išskyrus šio Įstatymo [[#^s-fbccfd0f76905ff88ab59ae4|4 straipsnio]] 6 ir 7 dalyse nurodytus muziejus.
+Muziejus galima perkelti iš užimamų patalpų tik į geresnes, muziejaus funkcijoms atlikti tinkamas, patalpas, išskyrus šio Įstatymo [[#^s-fbccfd0f76905ff88ab59ae4|4 straipsnio]] [[#^s-9574dfb208a305eab4635014|6]] ir [[#^s-d372c62260dcbac636704562|7]] dalyse nurodytus muziejus.
 
 
 

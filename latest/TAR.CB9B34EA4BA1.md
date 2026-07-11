@@ -139,7 +139,7 @@ Nr. XII-2758, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26899
 ### 4 straipsnis. Meno kūrėjų organizacijos įstatai ^s-0a4ea76bde0f416b48c46e85
 
 
-Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Lietuvos Respublikos civiliniame kodekse (toliau – [[latest/TAR.8A39C83848CB|Civilinis kodeksas]]) ir [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatyme]] (toliau – [[latest/TAR.FF00B0EA2F0E#^s-3628962bd925996a9f37aaac|Asociacijų įstatymas), turi būti nurodyta, kad į meno kūrėjų organizaciją priimamų naujų narių meno kūryba turi atitikti šio įstatymo 3 straipsnio]] 1 ir 2 dalyse nustatytus reikalavimus.
+Meno kūrėjų organizacijos įstatuose, be privalomų duomenų, numatytų Lietuvos Respublikos civiliniame kodekse (toliau – [[latest/TAR.8A39C83848CB|Civilinis kodeksas]]) ir [[latest/TAR.FF00B0EA2F0E#^s-3628962bd925996a9f37aaac|Lietuvos Respublikos asociacijų įstatyme (toliau – Asociacijų įstatymas), turi būti nurodyta, kad į meno kūrėjų organizaciją priimamų naujų narių meno kūryba turi atitikti šio įstatymo 3 straipsnio]] [[latest/TAR.FF00B0EA2F0E#^s-8f51ede773671f0f099ff021|1]] ir [[latest/TAR.FF00B0EA2F0E#^s-d1b0806c1dbee3ad6b0f6477|2]] dalyse nustatytus reikalavimus.
 
 
 Straipsnio pakeitimai:
@@ -480,4 +480,4 @@ Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įsta
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2758, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26899
-Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo Nr. I-1494 3 ir [[#^s-0a4ea76bde0f416b48c46e85|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo Nr. I-1494 [[#^s-03e5c294f62b03510b2bbc07|3]] ir [[#^s-0a4ea76bde0f416b48c46e85|4]] straipsnių pakeitimo įstatymas

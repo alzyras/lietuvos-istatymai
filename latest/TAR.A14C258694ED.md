@@ -53,7 +53,7 @@ Nr. IX-2217, 2004-05-04, Žin., 2004, Nr. 80-2835 (2004-05-14), i. k. [[latest/T
 
 
 Straipsnio pakeitimai:
-Nr. IX-1298, 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07), i. k. 1031010ISTA0IX-1298
+Nr. IX-1298, 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07), i. k. [1031010ISTA0IX-1298](https://e-tar.lt/portal/lt/legalAct/TAR.6882E187A7BD)
 
 
 
@@ -186,8 +186,8 @@ Nr. IX-920, 2002-05-30, Žin., 2002, Nr. 60-2414 (2002-06-19), i. k. [[latest/TA
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-1298, 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07), i. k. 1031010ISTA0IX-1298
-[[latest/TAR.F628061443C6|Lietuvos Respublikos pilietybės įstatymo]] įgyvendinimo įstatymo, [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]], Šalpos (socialinių) pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, [[latest/TAR.ED38F243563C|Valstybinių pensijų įstatymo]] pakeitimo ir papildymo įstatymas
+Nr. IX-1298, 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07), i. k. [1031010ISTA0IX-1298](https://e-tar.lt/portal/lt/legalAct/TAR.6882E187A7BD)
+[Lietuvos Respublikos pilietybės įstatymo įgyvendinimo įstatymo, Valstybinių socialinio draudimo pensijų įstatymo, Šalpos (socialinių) pensijų įstatymo, Mokslininkų valstybinių pensijų laikinojo įstatymo, Valstybinių pensijų įstatymo pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.6882E187A7BD)
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -217,9 +217,9 @@ Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo Nr. 
 9.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT100-N6/2020, 2020-06-03, paskelbta TAR 2020-06-03, i. k. 2020-12128
-Dėl Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/8eee13f0a59c11ea9515f752ff221ec9)
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-216, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06554
-Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo Nr. I-732 3, 4 ir [[#^s-c2f1dc180e5dca78600bb63d|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo Nr. I-732 [[#^s-585ab2aef1cd020b964305d0|3]], [[#^s-8c7041768ad98afa9182f164|4]] ir [[#^s-c2f1dc180e5dca78600bb63d|6]] straipsnių pakeitimo įstatymas

@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 8 s
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.F628061443C6|Lietuvos Respublikos pilietybės įstatymas]] - 2 citatos - Lietuvos Respublikos pilietybės įstatymo
+_Nėra._
 
 ## Šį įstatymą cituoja
 

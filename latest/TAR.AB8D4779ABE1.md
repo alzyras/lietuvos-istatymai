@@ -138,10 +138,10 @@ BendrOSIOS nuostatOS
 1) asmenys, dirbantys pagal darbo sutartis pas juridinius ar fizinius asmenis, kandidatai į notarus (asesoriai), taip pat darbo užmokestį gaunantys asmenys ir einantys narystės pagrindu renkamąsias pareigas renkamose organizacijose, skiriami į apygardų, miestų, rajonų, apylinkių rinkimų ir referendumo komisijas ir gaunantys darbo užmokestį asmenys; ^s-fb4db1e7f36bc86322874ff9
 
 
-2) Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus [[#^s-2ab8831379efb168365ff7f8|šio straipsnio 2 dalyje]]), taip pat gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys. ^s-8eb66261ab2ec3d7fe6bed20
+2) Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus [[#^s-2ab8831379efb168365ff7f8|šio straipsnio 2 dalyje]]), taip pat gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys. ^s-8eb66261ab2ec3d7fe6bed20
 
 
-2. Šio įstatymo 3 straipsnio 1 dalies 1 ir [[#^s-6a2ac83d321b07b092add602|3 punktuose]] nustatytų rūšių socialiniu draudimu privalomai draudžiami: ^s-2ab8831379efb168365ff7f8
+2. Šio įstatymo 3 straipsnio 1 dalies 1 ir 3 punktuose nustatytų rūšių socialiniu draudimu privalomai draudžiami: ^s-2ab8831379efb168365ff7f8
 
 
 1) vidaus tarnybos sistemos pareigūnai, Valstybės saugumo departamento sistemos, Specialiųjų tyrimų tarnybos ir Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos bei jam pavaldžių įstaigų ir įmonių pareigūnai; ^s-89a4d27302ea9cebe7f4ab92
@@ -201,13 +201,13 @@ Socialinio draudimo įmokos ir išmokos
 ### 5 straipsnis.         Socialinio draudimo įmokų mokėjimo prievolė ir socialinio draudimo įmokų tarifai ^s-18999858053d449e3bc6298b
 
 
-1. Asmenų, nurodytų šio įstatymo [[#^s-5a336bb9a8289b5d2035f378|4 straipsnio]] 1 ir [[#^s-a5ef92ac3bb95fa23279ebe9|2 dalyse]], socialinio draudimo įmokas privalo mokėti apdraustieji ir draudėjai. ^s-91ca3a53c173d2f2cbdd0970
+1. Asmenų, nurodytų šio įstatymo [[#^s-5a336bb9a8289b5d2035f378|4 straipsnio]] [[#^s-14e1f7097fb4370a39345c5a|1]] ir [[#^s-2ab8831379efb168365ff7f8|2]] dalyse, socialinio draudimo įmokas privalo mokėti apdraustieji ir draudėjai. ^s-91ca3a53c173d2f2cbdd0970
 
 
 2. Asmenys, nurodyti [[#^s-484ee2f118dac2ea43f0c6ec|4 straipsnio 4 dalies 1 punkte]] už save socialinio draudimo įmokas moka patys, o asmenys, nurodyti [[#^s-b0a3c9a22ccb67ed8a24c39a|4 straipsnio 3 dalyje]], socialinio draudimo įmokas moka patys arba už juos moka jų draudėjai. ^s-a5ef92ac3bb95fa23279ebe9
 
 
-3. Asmenys, nurodyti šio įstatymo [[#^s-7c744d9be85c146049d462ae|4 straipsnio 4 dalies]] 2–4 punktuose, pagrindinei socialinio draudimo pensijos daliai draudžiami valstybės lėšomis. Asmenys, nurodyti [[#^s-7c744d9be85c146049d462ae|4 straipsnio 4 dalies]] 2 ir 4 punktuose, draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų ir neturi prievolės draustis pensijų socialiniu draudimu pagrindinei pensijos daliai. Asmenys, nurodyti šio įstatymo [[#^s-6a2ac83d321b07b092add602|4 straipsnio 2 dalies 3 punkte]], draudžiami nuo valstybės tarnautojo ar profesinės tarnybos kario 0,5 pareiginės algos. Asmenys, nurodyti šio įstatymo [[#^s-28fa81fa5cec07d9a3cdc314|4 straipsnio 2 dalies 4 punkte]], draudžiami valstybės lėšomis pagrindinei ir papildomai socialinio draudimo pensijos dalims nuo Vyriausybės patvirtintos minimalios mėnesinės algos. ^s-3cad5968427d0b82805272b8
+3. Asmenys, nurodyti šio įstatymo [[#^s-7c744d9be85c146049d462ae|4 straipsnio 4 dalies]] [[#^s-a0a0e3958201393e882c0064|2]]–[[#^s-caa5a25fbd087a189cd677af|4]] punktuose, pagrindinei socialinio draudimo pensijos daliai draudžiami valstybės lėšomis. Asmenys, nurodyti [[#^s-7c744d9be85c146049d462ae|4 straipsnio 4 dalies]] [[#^s-a0a0e3958201393e882c0064|2]] ir [[#^s-caa5a25fbd087a189cd677af|4]] punktuose, draudžiami valstybės lėšomis tik tuo atveju, jeigu jie tuo laikotarpiu neturi draudžiamųjų pajamų ir neturi prievolės draustis pensijų socialiniu draudimu pagrindinei pensijos daliai. Asmenys, nurodyti šio įstatymo [[#^s-6a2ac83d321b07b092add602|4 straipsnio 2 dalies 3 punkte]], draudžiami nuo valstybės tarnautojo ar profesinės tarnybos kario 0,5 pareiginės algos. Asmenys, nurodyti šio įstatymo [[#^s-28fa81fa5cec07d9a3cdc314|4 straipsnio 2 dalies 4 punkte]], draudžiami valstybės lėšomis pagrindinei ir papildomai socialinio draudimo pensijos dalims nuo Vyriausybės patvirtintos minimalios mėnesinės algos. ^s-3cad5968427d0b82805272b8
 
 
 4. Asmenys, turintys meno kūrėjo statusą ir užsiimantys individualia veikla, kai jų pajamų metinė suma, apskaičiuota šio įstatymo [[#^s-b0a3c9a22ccb67ed8a24c39a|4 straipsnio 3 dalyje]] nustatyta tvarka, yra mažesnė už 12 minimalių mėnesinių algų, Vyriausybės nustatyta tvarka turi teisę mokėti dalį socialinio draudimo įmokos socialinio draudimo pagrindinei pensijos daliai. Kita Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatyme nustatyta socialinio draudimo įmokos dalis socialinio draudimo pagrindinei pensijos daliai dengiama valstybės lėšomis. Šias socialinio draudimo įmokas moka nurodyti asmenys ir [[latest/TAR.CA0F08EF687E|Valstybinio socialinio draudimo fondo biudžeto sandaros įstatyme]] nurodyti valstybės biudžeto asignavimų valdytojai. ^s-8d3137424dde4b0cae54512b
@@ -236,7 +236,7 @@ Socialinio draudimo įmokos ir išmokos
 ### 7 straipsnis. Pajamos, nuo kurių skaičiuojamos socialinio draudimo įmokos ^s-d397704843d1ac84ccf484be
 
 
-1. Apdraustųjų asmenų, nurodytų šio įstatymo [[#^s-5a336bb9a8289b5d2035f378|4 straipsnio]] 1 ir [[#^s-7c24a33b49739abf71b60344|2 dalyse]], socialinio draudimo įmokos skaičiuojamos nuo kiekvienam apdraustajam asmeniui apskaičiuotos darbo užmokesčio sumos, ne mažesnės kaip minimali mėnesinė alga, su darbo santykiais susijusių kompensacinio ar skatinamojo pobūdžio išmokų, nustatytų teisės aktuose ir kolektyvinėse sutartyse, neatsižvelgiant į mokėjimo šaltinius, įskaitant: ^s-857d1bd81c9d50198076baf9
+1. Apdraustųjų asmenų, nurodytų šio įstatymo [[#^s-5a336bb9a8289b5d2035f378|4 straipsnio]] [[#^s-14e1f7097fb4370a39345c5a|1]] ir [[#^s-2ab8831379efb168365ff7f8|2]] dalyse, socialinio draudimo įmokos skaičiuojamos nuo kiekvienam apdraustajam asmeniui apskaičiuotos darbo užmokesčio sumos, ne mažesnės kaip minimali mėnesinė alga, su darbo santykiais susijusių kompensacinio ar skatinamojo pobūdžio išmokų, nustatytų teisės aktuose ir kolektyvinėse sutartyse, neatsižvelgiant į mokėjimo šaltinius, įskaitant: ^s-857d1bd81c9d50198076baf9
 
 
 1) apdraustajam apskaičiuotą pagrindinį darbo užmokestį ir visus papildomus uždarbius, nustatytus [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekse]] ir kituose teisės aktuose, bet kokiu būdu draudėjo apskaičiuojamus apdraustajam už jo atliktą darbą; ^s-2e3128151041682c68a598f4
@@ -245,10 +245,10 @@ Socialinio draudimo įmokos ir išmokos
 2) apdraustajam apskaičiuotą darbo užmokestį, kurį sudaro pareiginė alga, priedai, priemokos, nustatyti [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] bei teisės aktuose, reglamentuojančiuose šių išmokų mokėjimą; ^s-fc476bbd40566086be2ea05a
 
 
-3) apdraustajam apskaičiuotą darbo užmokestį, nustatytą Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatyme; ^s-e28363500ebdfdcac7b97eb2
+3) apdraustajam apskaičiuotą darbo užmokestį, nustatytą Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3); ^s-e28363500ebdfdcac7b97eb2
 
 
-4) priedus ir išeitines išmokas, apskaičiuotas [[#^s-5a336bb9a8289b5d2035f378|4 straipsnio]] 1 ir [[#^s-7c24a33b49739abf71b60344|2 dalyse]] nurodytiems asmenims; ^s-59838977bf5ec2403877090c
+4) priedus ir išeitines išmokas, apskaičiuotas [[#^s-5a336bb9a8289b5d2035f378|4 straipsnio]] [[#^s-14e1f7097fb4370a39345c5a|1]] ir [[#^s-2ab8831379efb168365ff7f8|2]] dalyse nurodytiems asmenims; ^s-59838977bf5ec2403877090c
 
 
 5) apskaičiuotas kompensacijas už kasmetines, tikslines atostogas (išskyrus nėštumo ir gimdymo atostogas bei atostogas vaikui prižiūrėti, kol jam sueis treji metai), apskaičiuotas pinigines kompensacijas už nepanaudotas kasmetines atostogas ar už prastovos laiką; ^s-8cb30818008657be4f219e61
@@ -345,7 +345,7 @@ Socialinio draudimo įmokos ir išmokos
 7) turi būtinąjį socialinio draudimo stažą socialinio draudimo senatvės pensijai gauti pagal Valstybinių socialinio draudimo pensijų įstatymą. ^s-6afbf4474fc6f394b84748cb
 
 
-3. Asmenys, nurodyti šio įstatymo [[#^s-484ee2f118dac2ea43f0c6ec|4 straipsnio 4 dalies 1 punkte]], draudimo įmokų gali nemokėti (tas laikotarpis bus neįskaitytas į draudimo stažą) [[#^s-10157801ab4a3501c00091aa|šio straipsnio 2 dalies]] 1 – 4 ir 6, 7 punktuose nustatytais atvejais, taip pat kai jie yra sukakę senatvės pensijos amžių pagal Valstybinių socialinio draudimo pensijų įstatymą. ^s-a7a889e78cdc57ae9e5c9b5c
+3. Asmenys, nurodyti šio įstatymo [[#^s-484ee2f118dac2ea43f0c6ec|4 straipsnio 4 dalies 1 punkte]], draudimo įmokų gali nemokėti (tas laikotarpis bus neįskaitytas į draudimo stažą) [[#^s-10157801ab4a3501c00091aa|šio straipsnio 2 dalies]] [[#^s-484ee2f118dac2ea43f0c6ec|1]] – [[#^s-caa5a25fbd087a189cd677af|4]] ir 6, 7 punktuose nustatytais atvejais, taip pat kai jie yra sukakę senatvės pensijos amžių pagal Valstybinių socialinio draudimo pensijų įstatymą. ^s-a7a889e78cdc57ae9e5c9b5c
 
 
 
@@ -370,7 +370,7 @@ Socialinio draudimo įmokos ir išmokos
 6. Asmenys, kurie verčiasi veikla įsigiję verslo liudijimus, išduotus trumpesniam negu 3 mėnesių laikotarpiui, privalo sumokėti socialinio draudimo įmokas už visą verslo liudijimo galiojimo laikotarpį per 5 darbo dienas nuo verslo liudijimo įsigaliojimo ar jo galiojimo laiko pratęsimo. Asmenys, kurie verčiasi veikla įsigiję verslo liudijimus, išduotus ketvirčiui ar ilgesniam laikotarpiui, socialinio draudimo įmokas moka [[#^s-ce3fadd280d3785b9a0380de|šio straipsnio 5 dalyje]] nustatytais terminais. ^s-a7c20e88a37dd6da8929e418
 
 
-7. Šio įstatymo [[#^s-28fa81fa5cec07d9a3cdc314|4 straipsnio 2 dalies 4 punkte]] ir [[#^s-f285b854f1717ad2ba84c060|4 dalies]] 2–4 punktuose nurodytų asmenų socialinio draudimo įmokas bei [[#^s-8d3137424dde4b0cae54512b|5 straipsnio 4 dalyje]] nurodytų asmenų, kurie sumokėjo jiems priklausančią socialinio draudimo įmokų dalį, kitą socialinio draudimo įmokų dalį valstybės biudžeto lėšomis sumoka [[latest/TAR.712BBBFA3D41|Biudžeto sandaros įstatyme]] nurodyti valstybės biudžeto asignavimų valdytojai. ^s-dc7d194f743296c5acf06961
+7. Šio įstatymo [[#^s-28fa81fa5cec07d9a3cdc314|4 straipsnio 2 dalies 4 punkte]] ir [[#^s-f285b854f1717ad2ba84c060|4 dalies]] [[#^s-c4254f45c4e2fcc7c2be803d|2]]–[[#^s-28fa81fa5cec07d9a3cdc314|4]] punktuose nurodytų asmenų socialinio draudimo įmokas bei [[#^s-8d3137424dde4b0cae54512b|5 straipsnio 4 dalyje]] nurodytų asmenų, kurie sumokėjo jiems priklausančią socialinio draudimo įmokų dalį, kitą socialinio draudimo įmokų dalį valstybės biudžeto lėšomis sumoka [[latest/TAR.712BBBFA3D41|Biudžeto sandaros įstatyme]] nurodyti valstybės biudžeto asignavimų valdytojai. ^s-dc7d194f743296c5acf06961
 
 
 8. Asmenys, nurodyti šio įstatymo [[#^s-b925378c57742783c75d8bc2|4 straipsnio 6 dalyje]], socialinio draudimo įmokas moka į Fondo valdybos teritorinio skyriaus sąskaitą. Įmokų dydis nustatomas sutartyse, sudaromose Vyriausybės nustatyta tvarka. ^s-818fdb9ad140cf3d7bd5f919
@@ -484,7 +484,7 @@ Apdraustieji asmenys ir socialinio draudimo išmokų gavėjai socialinį draudim
 1. Fondo valdybos teritoriniai skyriai laiku nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas gali išieškoti priverstine tvarka tokiais būdais: ^s-1bd29c710ea50a1da539a576
 
 
-1) duodami nurodymą kredito įstaigai nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas nurašyti iš draudėjo sąskaitos kredito įstaigoje Civilinio proceso kodekso 754 straipsnyje nustatyta tvarka; ^s-014b893d74436f5e6f62b218
+1) duodami nurodymą kredito įstaigai nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas nurašyti iš draudėjo sąskaitos kredito įstaigoje [Civilinio proceso kodekso 754 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka; ^s-014b893d74436f5e6f62b218
 
 
 2) duodami nurodymą skolininko darbdaviui, pensijos, stipendijos ar pašalpos mokėtojui išieškoti nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas į Fondą; ^s-e4fd45f6d1abce5b5b4913be
@@ -499,7 +499,7 @@ Apdraustieji asmenys ir socialinio draudimo išmokų gavėjai socialinį draudim
 1) duoti nurodymus Lietuvos Respublikos kredito įstaigoms nutraukti pinigų išdavimą bei pervedimą iš draudėjų sąskaitų, jeigu jie skolingi ir nemoka socialinio draudimo įmokų ilgiau kaip 3 mėnesius; ^s-70c788099dc0663fddf0ce63
 
 
-2) kreiptis dėl draudėjo turto priverstinės hipotekos ar įkeitimo įregistravimo Civilinio proceso kodekso nustatyta tvarka; ^s-07cf43acc95e025eda8c7e00
+2) kreiptis dėl draudėjo turto priverstinės hipotekos ar įkeitimo įregistravimo [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka; ^s-07cf43acc95e025eda8c7e00
 
 
 3) areštuoti draudėjo turtą, jeigu Fondui nesumokėtos socialinio draudimo įmokos, baudos ir (ar) delspinigiai. ^s-bfdca0b8f7c31792136d977d
@@ -562,7 +562,7 @@ Socialinio draudimo finansai ir turtas
 2. Kredito įstaiga Fondo administravimo įstaigos pareigūno nurodymą nurašyti iš šioje kredito įstaigoje asmens atidarytos sąskaitos nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas privalo iki galo įvykdyti per [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatyme]] mokėjimo nurodymo įvykdymo terminą. Fondo administravimo įstaigos pareigūno nurodymas nurašyti iš šioje kredito įstaigoje atidarytos asmens sąskaitos nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas turi būti priimamas bei vykdomas ir tuomet, kai draudėjo sąskaitoje nėra pinigų ar yra mažesnė negu nurašytina pinigų suma. Tokiu atveju nurašymas turi būti atliekamas tol, kol iš draudėjo sąskaitos bus nurašyta visa nurodyta suma. Fondo administravimo įstaigos pareigūnas sumažina nurodyme, kuris jau pateiktas kredito įstaigai, numatytą nurašyti sumą, jei nesumokėtos socialinio draudimo įmokos, neginčytini delspinigiai ir neginčijamos baudos iš dalies padengiami kitokiu būdu. Šiuo atveju Fondo administravimo įstaigos pareigūnas apie reikalavimo sumažinimą nedelsdamas praneša kredito įstaigai, o ši pateiktą nurodymą vykdo patikslindama sumas. ^s-9db59be0068c3823e72c886d
 
 
-3. Jei kredito įstaigai yra pateiktas Fondo administravimo įstaigos pareigūno nurodymas priverstine tvarka nurašyti nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas iš draudėjo sąskaitos ir atitinkamas antstolių patvarkymas ar kitos valstybinės institucijos sprendimas dėl priverstinio išieškojimo, o draudėjo sąskaitoje nėra pakankamai lėšų visiems minėtiems sprendimams ar nurodymams patenkinti, kredito įstaiga privalo vykdyti Fondo administravimo įstaigos pareigūno nurodymą, atsižvelgdama į Civilinio proceso kodekso 754 straipsnyje nustatytą lėšų nurašymo eilę bei minėtų dokumentų pateikimo datą. [[#^s-9db59be0068c3823e72c886d|Šio straipsnio 2 dalyje]] numatytu atveju Fondo administravimo įstaigos pareigūnui patikslinus nurašytiną sumą, nurodymo pateikimo data nesikeičia. ^s-7e72158ef598d66699857795
+3. Jei kredito įstaigai yra pateiktas Fondo administravimo įstaigos pareigūno nurodymas priverstine tvarka nurašyti nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas iš draudėjo sąskaitos ir atitinkamas antstolių patvarkymas ar kitos valstybinės institucijos sprendimas dėl priverstinio išieškojimo, o draudėjo sąskaitoje nėra pakankamai lėšų visiems minėtiems sprendimams ar nurodymams patenkinti, kredito įstaiga privalo vykdyti Fondo administravimo įstaigos pareigūno nurodymą, atsižvelgdama į [Civilinio proceso kodekso 754 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytą lėšų nurašymo eilę bei minėtų dokumentų pateikimo datą. [[#^s-9db59be0068c3823e72c886d|Šio straipsnio 2 dalyje]] numatytu atveju Fondo administravimo įstaigos pareigūnui patikslinus nurašytiną sumą, nurodymo pateikimo data nesikeičia. ^s-7e72158ef598d66699857795
 
 
 
@@ -928,7 +928,7 @@ Fondo valdybos teritoriniai skyriai:
 16) Fondo valdybos nustatyta tvarka kaupia duomenis apie nesukakusių senatvės pensijos amžiaus asmenų įgytą socialinio draudimo ir jam prilyginamą stažą bei turėtas draudžiamąsias ir joms prilyginamas pajamas; ^s-28f5402adf3dde8c19847d24
 
 
-17) atideda baudų (išskyrus baudas, skiriamas vadovaujantis Administracinių teisės pažeidimų kodeksu) išieškojimą iki vienų metų; ^s-dbadb0e6e158780bee7a054f
+17) atideda baudų (išskyrus baudas, skiriamas vadovaujantis [Administracinių teisės pažeidimų kodeksu](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492)) išieškojimą iki vienų metų; ^s-dbadb0e6e158780bee7a054f
 
 
 18) teisės aktų nustatyta tvarka teikia duomenis apie draudėją, apdraustąjį asmenį arba socialinio draudimo išmokos gavėją; ^s-a2e69fac719ffd721bfa412b
@@ -962,7 +962,7 @@ Valstybinė mokesčių inspekcija šio įstatymo ir [[latest/TAR.3EB34933E485|Mo
 4) nagrinėja mokestinius ginčus dėl tikrinant naujai apskaičiuotų socialinio draudimo įmokų sumų, paskirtų baudų; ^s-f846339c3b3826a4bfc185bd
 
 
-5) turi teisę atstovauti Fondo interesams įmonėse, viešosiose įstaigose, kurioms iškeltos bankroto ar restruktūrizavimo bylos pagal Įmonių bankroto įstatymo ir Įmonių restruktūrizavimo įstatymo suteiktas kreditoriaus teises Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir Fondo valdybos abipusio susitarimo pagrindu; ^s-1b3cbabf26bfc441465ac14e
+5) turi teisę atstovauti Fondo interesams įmonėse, viešosiose įstaigose, kurioms iškeltos bankroto ar restruktūrizavimo bylos pagal Įmonių bankroto įstatymo ir [Įmonių restruktūrizavimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.C69847B389DF) suteiktas kreditoriaus teises Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir Fondo valdybos abipusio susitarimo pagrindu; ^s-1b3cbabf26bfc441465ac14e
 
 
 6) teikia Fondo valdybai ir Fondo valdybos teritoriniams skyriams informaciją, reikalingą socialiniam draudimui vykdyti. Socialinio draudimo įmokų kontrolės ir informacijos teikimo tvarką nustato Valstybinė mokesčių inspekcija prie Finansų ministerijos, suderinusi su Fondo valdyba. ^s-0aaeb1d8f9e328ba435ca41b
@@ -1043,7 +1043,7 @@ FONDO ADMINISTRAVIMO įstaigų teisės ir atsakomybė
 5) duoti draudėjui privalomus vykdyti nurodymus socialinio draudimo klausimais; ^s-dc41c9aca588764e18c5010e
 
 
-6) vadovaudamiesi Administracinių teisės pažeidimų kodeksu, surašyti administracinių teisės pažeidimų protokolus dėl pažeidimų, kurių išaiškinimas priklauso Fondo administravimo įstaigų valstybės tarnautojų kompetencijai; ^s-1be474bd45748296903311d9
+6) vadovaudamiesi [Administracinių teisės pažeidimų kodeksu](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), surašyti administracinių teisės pažeidimų protokolus dėl pažeidimų, kurių išaiškinimas priklauso Fondo administravimo įstaigų valstybės tarnautojų kompetencijai; ^s-1be474bd45748296903311d9
 
 
 7) pareikalauti iš draudėjo sutvarkyti buhalterinę apskaitą; ^s-f3b364cd8ac41582ae2c7f88
@@ -1085,7 +1085,7 @@ FONDO ADMINISTRAVIMO įstaigų teisės ir atsakomybė
 4. Fondo valdybos direktorius ir jo pavaduotojai turi teisę: ^s-57f00f2c39c1063c14b195f4
 
 
-1) kreiptis dėl draudėjo turto priverstinės hipotekos ar įkeitimo įregistravimo Civilinio proceso kodekse nustatyta tvarka; ^s-df966ca5f14e65137b8a9393
+1) kreiptis dėl draudėjo turto priverstinės hipotekos ar įkeitimo įregistravimo [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka; ^s-df966ca5f14e65137b8a9393
 
 
 2) areštuoti draudėjo turtą, jeigu nesumokėtos Fondui socialinio draudimo įmokos, baudos ir (ar) delspinigiai. ^s-365e227f1b1bc059971b7c20

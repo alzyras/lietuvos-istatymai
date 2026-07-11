@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos viešųjų ir privačių interesų derinimo v
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C0E550D6ADF0|Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas]] - 2 citatos - Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo
+- [[latest/TAR.C0E550D6ADF0|Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas]] - Viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo
 
 ## Šį įstatymą cituoja
 

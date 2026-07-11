@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos prekybinės laivybos įstatymo 5 straipsnio p
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - 2 citatos - Vartotojų teisių apsaugos įstatymo
+- [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - Vartotojų teisių apsaugos įstatymo
 
 ## Šį įstatymą cituoja
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-82f6cdde748fe2715b9d525d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 29 d. dekretą Nr. 731, ratifikuoja 2005 m. birželio 25 d. Liuksemburge pasirašytą Susitarimą, iš dalies keičiantį 2000 m. birželio 23 d. Kotonu pasirašytą Afrikos, Karibų jūros bei Ramiojo vandenyno grupės valstybių ir Europos Bendrijos bei jos valstybių narių partnerystės susitarimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. rugpjūčio 29 d. dekretą Nr. 731](https://e-tar.lt/portal/lt/legalAct/TAR.2C7EB1ECDC5D), ratifikuoja 2005 m. birželio 25 d. Liuksemburge pasirašytą Susitarimą, iš dalies keičiantį 2000 m. birželio 23 d. Kotonu pasirašytą Afrikos, Karibų jūros bei Ramiojo vandenyno grupės valstybių ir Europos Bendrijos bei jos valstybių narių partnerystės susitarimą.
 
 
 

@@ -81,7 +81,7 @@ Papildyti 2 straipsnį 26 dalimi:
 Pakeisti [[#^s-90c0c0a9868afcf13bb2f752|9 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
-„2. Krašto apsaugos ministerijai vadovauja ministras. Jo skyrimo bei atleidimo tvarką nustato Lietuvos Respublikos Konstitucija ir [[latest/TAR.96A68BFC9E82|Vyriausybės įstatymas]]. Viceministras ir ministerijos valstybės sekretorius yra pavaldūs ir tiesiogiai atsakingi ministrui. Ministerijos sekretoriai yra tiesiogiai pavaldūs ministerijos valstybės sekretoriui ir atsakingi ministrui. Viceministro, ministerijos valstybės sekretoriaus, ministerijos sekretorių kompetenciją ir funkcijas remdamasis [[latest/TAR.96A68BFC9E82|Vyriausybės įstatymu]] ir kitais teisės aktais nustato ministras.“
+„2. Krašto apsaugos ministerijai vadovauja ministras. Jo skyrimo bei atleidimo tvarką nustato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) ir [[latest/TAR.96A68BFC9E82|Vyriausybės įstatymas]]. Viceministras ir ministerijos valstybės sekretorius yra pavaldūs ir tiesiogiai atsakingi ministrui. Ministerijos sekretoriai yra tiesiogiai pavaldūs ministerijos valstybės sekretoriui ir atsakingi ministrui. Viceministro, ministerijos valstybės sekretoriaus, ministerijos sekretorių kompetenciją ir funkcijas remdamasis [[latest/TAR.96A68BFC9E82|Vyriausybės įstatymu]] ir kitais teisės aktais nustato ministras.“
 
 
 

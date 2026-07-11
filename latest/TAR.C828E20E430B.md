@@ -382,7 +382,7 @@ KINO FINANSAVIMAS
 9. Valstybinis finansavimas neskiriamas juridiniam ar fiziniam asmeniui dvejus metus nuo administracinės nuobaudos už [[#^s-a7d4478aed06b54ee99771b3|šio straipsnio 7 dalies 2 punkte]] nurodytus administracinius nusižengimus paskyrimo juridiniam asmeniui ir (ar) vadovaujančias pareigas juridiniame asmenyje einančiam asmeniui, įskaitant vyriausiąjį buhalterį, ar fiziniam asmeniui dienos. ^s-c75b8a717f2c50deedfc13ff
 
 
-10. Kino valstybinis finansavimas neskiriamas juridiniam ar fiziniam asmeniui penkerius metus nuo sprendimo išieškoti kino valstybinį finansavimą dienos pagal šio įstatymo [[#^s-8b4310b29b955917fa3dc89c|12 straipsnio]] 6 ir [[#^s-0fa7ebdef01f88f8d981daf2|7 dalis]]. ^s-9148436eb854ba59e41d3002
+10. Kino valstybinis finansavimas neskiriamas juridiniam ar fiziniam asmeniui penkerius metus nuo sprendimo išieškoti kino valstybinį finansavimą dienos pagal šio įstatymo [[#^s-8b4310b29b955917fa3dc89c|12 straipsnio]] [[#^s-2c981fcf411dcd76103249d5|6]] ir [[#^s-ab08d26688366e55ad8cd1c4|7]] dalis. ^s-9148436eb854ba59e41d3002
 
 
 
@@ -398,7 +398,7 @@ KINO FINANSAVIMAS
 3. Ekspertų komisijos sudaromos iš Lietuvos kino meno kūrėjų, profesionalių kino meno vertintojų, filmų gamintojų. ^s-908c602460fb574c9cbe7b3a
 
 
-4. Lietuvos kino centro direktorius, suderinęs su kultūros ministru, nustato ekspertų komisijų skaičių, nuostatus ir personalinę sudėtį. Ekspertų komisijų narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. ^s-1f13e9a41c35e8225bb14893
+4. Lietuvos kino centro direktorius, suderinęs su kultūros ministru, nustato ekspertų komisijų skaičių, nuostatus ir personalinę sudėtį. Ekspertų komisijų narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka. ^s-1f13e9a41c35e8225bb14893
 Straipsnio dalies pakeitimai:
 Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
 
@@ -505,7 +505,7 @@ FILMŲ PLATINIMAS, RODYMAS IR PADARYMAS VIEŠAI PRIEINAMŲ ELEKTRONINIŲ RYŠIŲ
 8) necenzūrinės (obsceniškos) kalbos vartojimo scenos. ^s-69abf6c82c3faa95080c29bd
 
 
-5. Filmų indeksavimo komisijos sudėtį, nuostatus, kuriuose nustatomi filmų vertinimo pagal žiūrovų amžiaus cenzą kriterijai, tvirtina Lietuvos kino centro direktorius, suderinęs su kultūros ministru. Komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. ^s-154941f6f6614fcfdaf8b206
+5. Filmų indeksavimo komisijos sudėtį, nuostatus, kuriuose nustatomi filmų vertinimo pagal žiūrovų amžiaus cenzą kriterijai, tvirtina Lietuvos kino centro direktorius, suderinęs su kultūros ministru. Komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka. ^s-154941f6f6614fcfdaf8b206
 Straipsnio dalies pakeitimai:
 Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
 
@@ -562,7 +562,7 @@ Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
 14. Informacija apie Lietuvos Respublikoje filmams suteiktus indeksus skelbiama Filmų registre. Asmens, turinčio teisę platinti filmą kino teatrams, pageidavimu išduodamas filmo indekso išrašas. ^s-58eb416d5d9390c7a4f87ded
 
 
-15. Filmai, rodomi festivaliuose, seminaruose, retrospektyvose ir kituose visuomenės kultūriniams, meniniams, edukaciniams poreikiams tenkinti skirtuose renginiuose, šio straipsnio 7–[[#^s-4ca41955b2f21302f05379c7|11 dalyse]] nustatyta tvarka neindeksuojami. Juos indeksais pagal žiūrovų amžiaus cenzą pažymi renginių rengėjai, įvertinę filmus pagal Filmų indeksavimo nuostatuose, patvirtintuose Lietuvos kino centro direktoriaus įsakymu, išvardytus filmų vertinimo pagal žiūrovų amžiaus cenzą kriterijus. Jeigu filmui indeksas pagal žiūrovų amžiaus cenzą Lietuvos Respublikoje yra suteiktas, tokį filmą renginių rengėjai privalo pažymėti Lietuvos Respublikoje jam suteiktu indeksu. ^s-d6fec79fce458a8e599bbf60
+15. Filmai, rodomi festivaliuose, seminaruose, retrospektyvose ir kituose visuomenės kultūriniams, meniniams, edukaciniams poreikiams tenkinti skirtuose renginiuose, šio straipsnio [[#^s-7a2e882f1a9b40f4ebe69e43|7]]–[[#^s-4ca41955b2f21302f05379c7|11]] dalyse nustatyta tvarka neindeksuojami. Juos indeksais pagal žiūrovų amžiaus cenzą pažymi renginių rengėjai, įvertinę filmus pagal Filmų indeksavimo nuostatuose, patvirtintuose Lietuvos kino centro direktoriaus įsakymu, išvardytus filmų vertinimo pagal žiūrovų amžiaus cenzą kriterijus. Jeigu filmui indeksas pagal žiūrovų amžiaus cenzą Lietuvos Respublikoje yra suteiktas, tokį filmą renginių rengėjai privalo pažymėti Lietuvos Respublikoje jam suteiktu indeksu. ^s-d6fec79fce458a8e599bbf60
 
 
 16. Visi filmai, padaromi viešai prieinami elektroninių ryšių tinklais, turi būti indeksuojami pagal žiūrovų amžiaus cenzą [[latest/TAR.817CC58C1A54|Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo]] nustatyta tvarka. ^s-1c2996f1d93069e5fd04d053
@@ -596,10 +596,10 @@ LIETUVOS KINO PAVELDO APSAUGA
 
 
 2. Originali nacionalinių filmų medžiaga yra saugoma valstybės archyvuose. Filmo gamintojas Lietuvos vyriausiojo archyvaro nustatyta tvarka nemokamai perduoda valstybės archyvams atgaminimui ir saugojimui tinkamą originalią nacionalinio filmo medžiagą, nekeičiant autorių ir gretutinių turtinių teisių turėtojo turimų teisių apimties. Valstybės archyvai originalią nacionalinių filmų medžiagą naudoja [[latest/TAR.1FEF229DA7C6|Dokumentų ir archyvų įstatyme]], [[latest/TAR.551F0CDE5B64|Autorių teisių ir gretutinių teisių įstatyme]], valstybės archyvų ir filmo gamintojo arba autorių ir gretutinių turtinių teisių subjekto (subjektų) sudarytoje sutartyje nustatytais atvejais ir tvarka. ^s-a93636421c16796df4726e7f
-TAR pastaba. [[#^s-a93636421c16796df4726e7f|16 straipsnio 2 dalies]] nuostatos dėl originalios nacionalinio filmo medžiagos saugojimo tvarkos taikomos nuo 2019 m. sausio 1 d.
+TAR pastaba. 16 straipsnio 2 dalies nuostatos dėl originalios nacionalinio filmo medžiagos saugojimo tvarkos taikomos nuo 2019 m. sausio 1 d.
 
 
-3. Šio straipsnio 1 ir [[#^s-a93636421c16796df4726e7f|2 dalių]] nuostatos netaikomos bendros filmo gamybos filmui, jeigu bendros filmo gamybos sutartyje, sudarytoje vadovaujantis Lietuvos Respublikos tarptautinėse sutartyse nustatytomis sąlygomis, nustatoma, kad originalią filmo medžiagą saugos kita sutarties šalis. ^s-91c9635e4e548004d5488b8e
+3. Šio straipsnio [[#^s-1caba0830dedbefb42c96ec4|1]] ir [[#^s-a93636421c16796df4726e7f|2]] dalių nuostatos netaikomos bendros filmo gamybos filmui, jeigu bendros filmo gamybos sutartyje, sudarytoje vadovaujantis Lietuvos Respublikos tarptautinėse sutartyse nustatytomis sąlygomis, nustatoma, kad originalią filmo medžiagą saugos kita sutarties šalis. ^s-91c9635e4e548004d5488b8e
 
 
 4. Nustatoma tokia originalios nacionalinio filmo medžiagos saugojimo tvarka: ^s-9093f6ad393a18162cc33d07
@@ -666,4 +666,4 @@ Lietuvos Respublikos kino įstatymo Nr. IX-752 pakeitimo įstatymas
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1747, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20720
-Lietuvos Respublikos kino įstatymo Nr. IX-752 10 ir [[#^s-5ed8bbd5c39fad0ee586e974|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kino įstatymo Nr. IX-752 [[#^s-5003ce555c46f000580278d9|10]] ir [[#^s-5ed8bbd5c39fad0ee586e974|14]] straipsnių pakeitimo įstatymas

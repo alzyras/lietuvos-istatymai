@@ -54,7 +54,7 @@ Vilnius
 2) kontroliuojančiosios investicinės bendrovės kontroliuojamos įmonės; ^s-be02d67acd957c247498fd72
 
 
-3) kontroliuojančiosios investicinės bendrovės ir 1 bei [[#^s-be02d67acd957c247498fd72|2 punkte]] nurodytų juridinių asmenų vadovai. ^s-e2cfb4d52b7911c0c89c1646
+3) kontroliuojančiosios investicinės bendrovės ir [[#^s-a5aa77cc6110cbd450bdc143|1]] bei [[#^s-be02d67acd957c247498fd72|2]] punkte nurodytų juridinių asmenų vadovai. ^s-e2cfb4d52b7911c0c89c1646
 
 
 2. Asmenys, susiję su kontroliuojančiosios investicinės bendrovės depozitoriumu: ^s-0d003635a361a9f9f8b9a08c
@@ -127,7 +127,7 @@ Kontroliuojančioji investicinė bendrovė, kurios veiklos leidimas panaikintas 
 2) priėmus [[#^s-fde5282109aead1d9163d905|1 punkte]] numatytą nutarimą, ne vėliau kaip per 3 mėnesius buvo įgyvendintas oficialus vieno ar kelių akcininkų pasiūlymas supirkti visas bendrovės akcijas. ^s-c9117b25baadfbe757717eb5
 
 
-2. [[#^s-c9117b25baadfbe757717eb5|Šio straipsnio 1 dalies 2 punkte]] numatytam oficialiam pasiūlymui taikomos Vertybinių popierių rinkos įstatymo [[#^s-0dafacb4c3e1545fc30f6d10|19 straipsnio 2 dalies]] nuostatos. ^s-8628b42185a1f22c7074e6a1
+2. [[#^s-c9117b25baadfbe757717eb5|Šio straipsnio 1 dalies 2 punkte]] numatytam oficialiam pasiūlymui taikomos [Vertybinių popierių rinkos įstatymo 19 straipsnio 2 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nuostatos. ^s-8628b42185a1f22c7074e6a1
 
 
 3. Bendrovėms, kurių veiklos leidimas panaikintas šiame straipsnyje nustatyta tvarka, šiame Įstatyme nustatyti veiklos ribojimai netaikomi. Jos veikia pagal Akcinių bendrovių įstatymą. ^s-515ff7410d5aa443d368830e
@@ -301,10 +301,10 @@ Kontroliuojančiosios investicinės bendrovės turimi vertybiniai popieriai turi
 ### 18 straipsnis. Vertybinių popierių komisijos narių ir administracijos darbuotojų pareiga saugoti konfidencialią informaciją ^s-c306e6fce1d2b6c3a1c4c704
 
 
-1. Vertybinių popierių komisijos nariai ir darbuotojai privalo Vertybinių popierių rinkos įstatymo nustatyta tvarka saugoti konfidencialią informaciją, kurią jie sužinojo atlikdami šio Įstatymo nustatytas funkcijas. ^s-1a3904c8d045c8906815c963
+1. Vertybinių popierių komisijos nariai ir darbuotojai privalo [Vertybinių popierių rinkos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nustatyta tvarka saugoti konfidencialią informaciją, kurią jie sužinojo atlikdami šio Įstatymo nustatytas funkcijas. ^s-1a3904c8d045c8906815c963
 
 
-2. Vertybinių popierių komisijos teisė perduoti konfidencialią informaciją Vertybinių popierių rinkos įstatymo nustatyta tvarka yra taikoma ir informacijai, gautai atliekant šio Įstatymo nustatytas funkcijas. ^s-1a96670026e9c28b1c838e10
+2. Vertybinių popierių komisijos teisė perduoti konfidencialią informaciją [Vertybinių popierių rinkos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nustatyta tvarka yra taikoma ir informacijai, gautai atliekant šio Įstatymo nustatytas funkcijas. ^s-1a96670026e9c28b1c838e10
 
 
 

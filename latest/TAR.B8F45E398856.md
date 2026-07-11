@@ -215,7 +215,7 @@ Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
 
 
 
-25. Kitos sąvokos suprantamos taip, kaip jos apibrėžtos 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB  (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES) 2016/679), [[latest/TAR.C81BD50A27C6|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatyme]], [[latest/TAR.E2B2957B9182|Lietuvos Respublikos sveikatos sistemos įstatyme]], [[latest/TAR.10E8E285740C|Lietuvos Respublikos medicinos praktikos įstatyme]], [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatyme]], [[latest/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme]] ir [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme]]. ^s-33f130e5800e9fda7dbcf4ef
+25. Kitos sąvokos suprantamos taip, kaip jos apibrėžtos 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB  (OL 2016 L 119, p. 1) (toliau – [Reglamentas (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj)), [[latest/TAR.C81BD50A27C6|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatyme]], [[latest/TAR.E2B2957B9182|Lietuvos Respublikos sveikatos sistemos įstatyme]], [[latest/TAR.10E8E285740C|Lietuvos Respublikos medicinos praktikos įstatyme]], [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatyme]], [[latest/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatyme]] ir [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme]]. ^s-33f130e5800e9fda7dbcf4ef
 
 
 
@@ -301,7 +301,7 @@ Nr. XIV-2396, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25912
 2) odontologo ar burnos priežiūros specialisto valstybinės kalbos mokėjimo lygis atitinka Vyriausybės nustatytus reikalavimus; ^s-7695e5517a8de03dd53bb7af
 
 
-3) odontologas ar burnos priežiūros specialistas yra įgijęs kvalifikacinį laipsnį ir profesinę kvalifikaciją šio įstatymo 3 ar [[#^s-8d752629bf029c153134c2e8|4 straipsnyje]] nustatyta tvarka; ^s-7864115ccc905699b21c473a
+3) odontologas ar burnos priežiūros specialistas yra įgijęs kvalifikacinį laipsnį ir profesinę kvalifikaciją šio įstatymo [[#^s-147b2ab15e3ce214aba72964|3]] ar [[#^s-8d752629bf029c153134c2e8|4]] straipsnyje nustatyta tvarka; ^s-7864115ccc905699b21c473a
 
 
 4) odontologas ar burnos priežiūros specialistas neserga trukdančiomis verstis odontologijos ar burnos priežiūros praktika ligomis, kurių sąrašą nustato sveikatos apsaugos ministras (toliau – ligų sąrašas); ^s-7dc2f57d092bbfd886f7c7e6
@@ -337,7 +337,7 @@ Nr. XIV-2396, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25912
 10. Į [[#^s-ddc2a13e22883e06c2ba7bf6|šio straipsnio 9 dalies]] 1 ir 2 punktuose nurodytus terminus neįskaičiuojamas šio įstatymo [[#^s-bc8375e7dfe6a8a71c969e90|6 straipsnio 1 dalies 1 punkte]] nurodytas trūkumų šalinimo laikotarpis. ^s-f541617c8271478975f1c91b
 
 
-11. Pareiškėjų ir licencijų turėtojų asmens duomenys (įskaitant ir asmens kodą bei sveikatos duomenis) tvarkomi šiame įstatyme ir licencijavimo taisyklėse nustatyta tvarka vykdant odontologijos praktikos ar burnos priežiūros praktikos licencijavimą, įskaitant ir licencijuojamos veiklos priežiūrą, siekiant užtikrinti odontologų ar burnos priežiūros specialistų teikiamų asmens sveikatos priežiūros paslaugų kokybę. Asmens duomenys tvarkomi laikantis Reglamento (ES) 2016/679, [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] ir kitų teisės aktų, reglamentuojančių asmens duomenų tvarkymą, reikalavimų. ^s-8463d64dbb150401fa5cedec
+11. Pareiškėjų ir licencijų turėtojų asmens duomenys (įskaitant ir asmens kodą bei sveikatos duomenis) tvarkomi šiame įstatyme ir licencijavimo taisyklėse nustatyta tvarka vykdant odontologijos praktikos ar burnos priežiūros praktikos licencijavimą, įskaitant ir licencijuojamos veiklos priežiūrą, siekiant užtikrinti odontologų ar burnos priežiūros specialistų teikiamų asmens sveikatos priežiūros paslaugų kokybę. Asmens duomenys tvarkomi laikantis [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] ir kitų teisės aktų, reglamentuojančių asmens duomenų tvarkymą, reikalavimų. ^s-8463d64dbb150401fa5cedec
 Straipsnio dalies pakeitimai:
 Nr. XV-600, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20812
 
@@ -375,19 +375,19 @@ Nr. XV-600, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20812
 1. Odontologas ar burnos priežiūros specialistas, kurio licencijos galiojimas buvo panaikintas, dėl naujos licencijos pagal bet kurią įgytą profesinę kvalifikaciją išdavimo gali kreiptis licencijavimo taisyklėse nustatyta tvarka pateikdamas paraišką ir licencijai gauti reikalingus dokumentus, patvirtinančius atitiktį šio įstatymo [[#^s-878189d4924d37c75227dce3|5 straipsnio 6 dalyje]] nurodytoms licencijos išdavimo sąlygoms: ^s-e0c128f1e779f19b0607228f
 
 
-1) praėjus 6 mėnesiams nuo licencijos galiojimo panaikinimo dienos, jeigu licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo [[#^s-e40718a8a2eb9431f359a7db|9 straipsnio 1 dalies]] 1 ar 4 punktu; ^s-1eff3ea50dee8448409717d9
+1) praėjus 6 mėnesiams nuo licencijos galiojimo panaikinimo dienos, jeigu licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo [[#^s-e40718a8a2eb9431f359a7db|9 straipsnio 1 dalies]] [[#^s-c42d29c4018447e4f981a282|1]] ar [[#^s-3b6dfc04a031b0a67495d554|4]] punktu; ^s-1eff3ea50dee8448409717d9
 
 
-2) praėjus vieniems metams nuo licencijos galiojimo panaikinimo dienos, jeigu licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo [[#^s-e40718a8a2eb9431f359a7db|9 straipsnio 1 dalies]] 3 ar 7 punktu. ^s-ae11a07882fdb297d2f79ecd
+2) praėjus vieniems metams nuo licencijos galiojimo panaikinimo dienos, jeigu licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo [[#^s-e40718a8a2eb9431f359a7db|9 straipsnio 1 dalies]] [[#^s-afb8b723b283987b31c33c7a|3]] ar [[#^s-d834b73e70d8e13c01875ba9|7]] punktu. ^s-ae11a07882fdb297d2f79ecd
 
 
-2. Odontologas ar burnos priežiūros specialistas, kurio licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo [[#^s-e40718a8a2eb9431f359a7db|9 straipsnio 1 dalies]] 5 ar 6 punktu, licencijavimo taisyklėse nustatyta tvarka dėl naujos licencijos pagal bet kurią įgytą profesinę kvalifikaciją išdavimo gali kreiptis pateikdamas paraišką ir licencijai gauti reikalingus dokumentus, kai išnyksta licencijos galiojimo panaikinimo pagrindas. ^s-0d31a95aad5807d6f52de055
+2. Odontologas ar burnos priežiūros specialistas, kurio licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo [[#^s-e40718a8a2eb9431f359a7db|9 straipsnio 1 dalies]] [[#^s-ace1b7a93e058b958a6792ee|5]] ar [[#^s-aa401e6d12894a37db34ca6e|6]] punktu, licencijavimo taisyklėse nustatyta tvarka dėl naujos licencijos pagal bet kurią įgytą profesinę kvalifikaciją išdavimo gali kreiptis pateikdamas paraišką ir licencijai gauti reikalingus dokumentus, kai išnyksta licencijos galiojimo panaikinimo pagrindas. ^s-0d31a95aad5807d6f52de055
 
 
-3. Odontologas ar burnos priežiūros specialistas, kurio licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo [[#^s-e40718a8a2eb9431f359a7db|9 straipsnio 1 dalies]] 2 ar 8 punktu, licencijavimo taisyklėse nustatyta tvarka dėl naujos licencijos išdavimo gali kreiptis iš karto po licencijos galiojimo panaikinimo, pateikdamas paraišką ir licencijai gauti reikalingus dokumentus bei dokumentus, patvirtinančius, kad jis papildomai tobulino profesinę kvalifikaciją licencijavimo taisyklėse nustatyta tvarka, jeigu licencijos galiojimas jam buvo panaikintas dėl šios sąlygos neįvykdymo. ^s-831def84aab6c1990b13f405
+3. Odontologas ar burnos priežiūros specialistas, kurio licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo [[#^s-e40718a8a2eb9431f359a7db|9 straipsnio 1 dalies]] [[#^s-fa2e8fb58ecd784bf2b541c6|2]] ar [[#^s-77b83a09ce3e11910775c57b|8]] punktu, licencijavimo taisyklėse nustatyta tvarka dėl naujos licencijos išdavimo gali kreiptis iš karto po licencijos galiojimo panaikinimo, pateikdamas paraišką ir licencijai gauti reikalingus dokumentus bei dokumentus, patvirtinančius, kad jis papildomai tobulino profesinę kvalifikaciją licencijavimo taisyklėse nustatyta tvarka, jeigu licencijos galiojimas jam buvo panaikintas dėl šios sąlygos neįvykdymo. ^s-831def84aab6c1990b13f405
 
 
-4. Odontologas ar burnos priežiūros specialistas, kurio licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo [[#^s-e40718a8a2eb9431f359a7db|9 straipsnio 1 dalies]] 3 ar 4 punktu, kartu su licencijai gauti reikalingais dokumentais licencijas išduodančiai institucijai turi pateikti dokumentus, patvirtinančius, kad jis papildomai tobulino profesinę kvalifikaciją licencijavimo taisyklėse nustatyta tvarka. ^s-9fd61491cfbf07e027def828
+4. Odontologas ar burnos priežiūros specialistas, kurio licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo [[#^s-e40718a8a2eb9431f359a7db|9 straipsnio 1 dalies]] [[#^s-afb8b723b283987b31c33c7a|3]] ar [[#^s-3b6dfc04a031b0a67495d554|4]] punktu, kartu su licencijai gauti reikalingais dokumentais licencijas išduodančiai institucijai turi pateikti dokumentus, patvirtinančius, kad jis papildomai tobulino profesinę kvalifikaciją licencijavimo taisyklėse nustatyta tvarka. ^s-9fd61491cfbf07e027def828
 
 
 
@@ -406,7 +406,7 @@ Nr. XV-600, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20812
 3) profesinės kompetencijos vertinimo komisija nusprendžia, kad odontologo ar burnos priežiūros specialisto profesinė kvalifikacija neatitinka licencijoje nurodytos profesinės kvalifikacijos reikalavimų; ^s-d3fd93606c194b46cef0e06c
 
 
-4) odontologas ar burnos priežiūros specialistas neįvykdė bent vienos iš šio įstatymo [[#^s-164e1dda6c085889226cdda2|12 straipsnio]] 2 ar [[#^s-d3fd93606c194b46cef0e06c|3 punkte]] nustatytų profesinių pareigų ir, įspėtas apie galimą licencijos galiojimo sustabdymą, jeigu per licencijavimo taisyklėse nustatytą terminą nepašalins šio licencijas išduodančios institucijos nurodyto trūkumo, nepašalino šio trūkumo; ^s-450b1c4f3fd3696f217a1e6e
+4) odontologas ar burnos priežiūros specialistas neįvykdė bent vienos iš šio įstatymo [[#^s-164e1dda6c085889226cdda2|12 straipsnio]] 2 ar 3 punkte nustatytų profesinių pareigų ir, įspėtas apie galimą licencijos galiojimo sustabdymą, jeigu per licencijavimo taisyklėse nustatytą terminą nepašalins šio licencijas išduodančios institucijos nurodyto trūkumo, nepašalino šio trūkumo; ^s-450b1c4f3fd3696f217a1e6e
 
 
 5) profesinės kompetencijos vertinimo komisija nustatė, kad odontologas ar burnos priežiūros specialistas padarė šiurkščią odontologijos ar burnos priežiūros praktikos klaidą arba per vienus metus nuo paskutinės odontologo ar burnos priežiūros specialisto praktikos klaidos padarė odontologijos ir burnos priežiūros praktikos klaidą, ir nusprendė, kad odontologo ar burnos priežiūros specialisto kvalifikacija neatitinka licencijoje nurodytos profesinės kvalifikacijos reikalavimų; ^s-43d055622a6f057092a5cdb6
@@ -445,7 +445,7 @@ Nr. XV-600, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20812
 4. Licencijas išduodanti institucija sprendimą sustabdyti licencijos galiojimą ne vėliau kaip kitą darbo dieną nuo šio sprendimo priėmimo dienos pateikia: ^s-a16c49dc4a51395c09bed3fa
 
 
-1) odontologui ar burnos priežiūros specialistui ir, jeigu licencijos galiojimas buvo sustabdytas vadovaujantis [[#^s-0860f850c07de1279a2f31c7|šio straipsnio 1 dalies]] 1–5, 7, 9 ar 10 punktu, nurodo, kad, nepateikus [[#^s-662970b44f85466b085b95b6|šio straipsnio 7 dalies]] 1 ar [[#^s-8e684404cc726e6a800e1930|2 punkte]] nurodytų dokumentų per vienus metus nuo sprendimo sustabdyti licencijos galiojimą priėmimo dienos, licencijos galiojimas bus panaikintas; ^s-0dd116d16c4ec39346c25138
+1) odontologui ar burnos priežiūros specialistui ir, jeigu licencijos galiojimas buvo sustabdytas vadovaujantis [[#^s-0860f850c07de1279a2f31c7|šio straipsnio 1 dalies]] 1–5, 7, 9 ar 10 punktu, nurodo, kad, nepateikus [[#^s-662970b44f85466b085b95b6|šio straipsnio 7 dalies]] 1 ar [[#^s-8e684404cc726e6a800e1930|2]] punkte nurodytų dokumentų per vienus metus nuo sprendimo sustabdyti licencijos galiojimą priėmimo dienos, licencijos galiojimas bus panaikintas; ^s-0dd116d16c4ec39346c25138
 
 
 2) asmens sveikatos priežiūros įstaigos, kurioje odontologas ar burnos priežiūros specialistas verčiasi odontologijos ar burnos priežiūros praktika, vadovui arba jo įgaliotam atstovui (toliau – darbdavys). Vykdydamas licencijas išduodančios institucijos sprendimą sustabdyti licencijos galiojimą, darbdavys privalo licencijos galiojimo sustabdymo laikotarpiui nušalinti odontologą ar burnos priežiūros specialistą nuo pareigų [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso]] nustatyta tvarka. ^s-8e684404cc726e6a800e1930
@@ -460,10 +460,10 @@ Nr. XV-600, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20812
 7. Licencijos galiojimo sustabdymas panaikinamas licencijavimo taisyklėse nustatyta tvarka licencijas išduodančios institucijos sprendimu: ^s-662970b44f85466b085b95b6
 
 
-1) gavus dokumentus ir (ar) duomenis, patvirtinančius, kad licencijos galiojimo sustabdymo pagrindas (pagrindai) išnyko, jeigu licencijos galiojimas buvo sustabdytas [[#^s-0860f850c07de1279a2f31c7|šio straipsnio 1 dalies]] 1, 2, 4, 9 ir 10 punktuose nurodytais pagrindais; ^s-37a625b0a06fc9251a77d7d7
+1) gavus dokumentus ir (ar) duomenis, patvirtinančius, kad licencijos galiojimo sustabdymo pagrindas (pagrindai) išnyko, jeigu licencijos galiojimas buvo sustabdytas [[#^s-0860f850c07de1279a2f31c7|šio straipsnio 1 dalies]] 1, [[#^s-14e907db3adb27be13973a19|2]], [[#^s-ab1199513c494fa239ccc5aa|4]], 9 ir 10 punktuose nurodytais pagrindais; ^s-37a625b0a06fc9251a77d7d7
 
 
-2) gavus dokumentus ir (ar) duomenis, patvirtinančius, kad įvykdyta [[#^s-98b5d07c301eb5e4ca2aa6ae|šio straipsnio 5 dalyje]] nurodyta sąlyga, jeigu licencijos galiojimas buvo sustabdytas [[#^s-0860f850c07de1279a2f31c7|šio straipsnio 1 dalies]] 3, 5 ar 7 punkte nurodytais pagrindais; ^s-14e907db3adb27be13973a19
+2) gavus dokumentus ir (ar) duomenis, patvirtinančius, kad įvykdyta [[#^s-98b5d07c301eb5e4ca2aa6ae|šio straipsnio 5 dalyje]] nurodyta sąlyga, jeigu licencijos galiojimas buvo sustabdytas [[#^s-0860f850c07de1279a2f31c7|šio straipsnio 1 dalies]] [[#^s-daf108fe7b5fb01e65f53f04|3]], 5 ar 7 punkte nurodytais pagrindais; ^s-14e907db3adb27be13973a19
 
 
 3) nenustačius pagrindo panaikinti licencijos galiojimą, jeigu licencijos galiojimas buvo sustabdytas [[#^s-156de432be9db9b705261806|šio straipsnio 1 dalies 6 punkte]] nurodytu pagrindu; ^s-daf108fe7b5fb01e65f53f04
@@ -475,7 +475,7 @@ Nr. XV-600, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20812
 8. Sprendimas panaikinti licencijos galiojimo sustabdymą priimamas licencijavimo taisyklėse nustatyta tvarka per: ^s-bf29917505e3892a8803cd56
 
 
-1) 20 dienų nuo prašymo panaikinti licencijos galiojimo sustabdymą ir [[#^s-662970b44f85466b085b95b6|šio straipsnio 7 dalies]] 1 ir [[#^s-fe43480a66701ee94b34d891|2 punktuose]] nurodytų dokumentų ir (ar) duomenų gavimo licencijas išduodančioje institucijoje dienos; ^s-74e57cf20043c26cf2dc6838
+1) 20 dienų nuo prašymo panaikinti licencijos galiojimo sustabdymą ir [[#^s-662970b44f85466b085b95b6|šio straipsnio 7 dalies]] 1 ir [[#^s-fe43480a66701ee94b34d891|2]] punktuose nurodytų dokumentų ir (ar) duomenų gavimo licencijas išduodančioje institucijoje dienos; ^s-74e57cf20043c26cf2dc6838
 
 
 2) 2 dienas nuo licencijas išduodančios institucijos sprendimo, kad nėra pagrindo panaikinti licencijos galiojimą, jeigu licencijos galiojimas buvo sustabdytas [[#^s-156de432be9db9b705261806|šio straipsnio 1 dalies 6 punkte]] nurodytu pagrindu, arba nuo odontologo ar burnos priežiūros specialisto prašymo panaikinti licencijos galiojimo sustabdymą pateikimo licencijas išduodančioje institucijoje dienos, jeigu licencijos galiojimas buvo sustabdytas [[#^s-4f8a31f05a96770bb4528769|šio straipsnio 1 dalies 8 punkte]] nurodytu pagrindu. ^s-fe43480a66701ee94b34d891
@@ -534,7 +534,7 @@ Nr. XV-600, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20812
 ### 10 straipsnis. Asmens duomenų tvarkymas ^s-f73436253681fdc67d27aacf
 
 
-Odontologo ar burnos priežiūros specialisto darbdavys šio įstatymo [[#^s-8e684404cc726e6a800e1930|8 straipsnio 4 dalies 2 punkte]] bei 10 dalyje ir [[#^s-6f460fc63fd7429d5c519675|9 straipsnio 4 dalyje]] nurodytais atvejais gautus asmens duomenis privalo tvarkyti vadovaudamasis Reglamentu (ES) 2016/679 ir [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymu]] ir juos naudoti tik sprendimui dėl odontologo ar burnos priežiūros specialisto nušalinimo nuo pareigų [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] nustatyta tvarka ar kitiems sprendimams, susijusiems su licencijos turėtojo odontologijos praktika ar burnos priežiūros praktika, priimti.
+Odontologo ar burnos priežiūros specialisto darbdavys šio įstatymo [[#^s-8e684404cc726e6a800e1930|8 straipsnio 4 dalies 2 punkte]] bei 10 dalyje ir [[#^s-6f460fc63fd7429d5c519675|9 straipsnio 4 dalyje]] nurodytais atvejais gautus asmens duomenis privalo tvarkyti vadovaudamasis [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymu]] ir juos naudoti tik sprendimui dėl odontologo ar burnos priežiūros specialisto nušalinimo nuo pareigų [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] nustatyta tvarka ar kitiems sprendimams, susijusiems su licencijos turėtojo odontologijos praktika ar burnos priežiūros praktika, priimti.
 
 
 Straipsnio pakeitimai:
@@ -795,7 +795,7 @@ Lietuvos Respublikos odontologijos praktikos įstatymo Nr. I-1246 [[#^s-ed39e81a
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1411, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11476
-Lietuvos Respublikos odontologijos praktikos įstatymo Nr. I-1246 2, 3 ir [[#^s-8d752629bf029c153134c2e8|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos odontologijos praktikos įstatymo Nr. I-1246 [[#^s-ed39e81a2ca2cdd52517dc89|2]], [[#^s-147b2ab15e3ce214aba72964|3]] ir [[#^s-8d752629bf029c153134c2e8|4]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -810,17 +810,17 @@ Lietuvos Respublikos odontologijos praktikos įstatymo Nr. I-1246 [[#^s-147b2ab1
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2874, 2020-04-30, paskelbta TAR 2020-04-30, i. k. 2020-09248
-Lietuvos Respublikos odontologijos praktikos įstatymo Nr. I-1246 pakeitimo [[latest/0e0dfbe022f911eabe008ea93139d588|įstatymo Nr. XIII-2641]] 1 ir [[#^s-147b2ab15e3ce214aba72964|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos odontologijos praktikos įstatymo Nr. I-1246 pakeitimo [[latest/0e0dfbe022f911eabe008ea93139d588|įstatymo Nr. XIII-2641]] [[#^s-c3226a36cefd3801d1452979|1]] ir [[#^s-147b2ab15e3ce214aba72964|3]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1510, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23359
-Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 2, 3, 5, [[#^s-f73436253681fdc67d27aacf|10 straipsnių]] pakeitimo ir Įstatymo papildymo 1, 2 priedais įstatymas
+Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 [[#^s-ed39e81a2ca2cdd52517dc89|2]], [[#^s-147b2ab15e3ce214aba72964|3]], [[#^s-c6a8b59e5f6c23da9bb510a0|5]], [[#^s-f73436253681fdc67d27aacf|10]] straipsnių pakeitimo ir Įstatymo papildymo 1, 2 priedais įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2396, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25912
-Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 2, 5, 12 ir [[#^s-141231e943c3a6670b4fb4b4|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 [[#^s-ed39e81a2ca2cdd52517dc89|2]], [[#^s-c6a8b59e5f6c23da9bb510a0|5]], [[#^s-164e1dda6c085889226cdda2|12]] ir [[#^s-141231e943c3a6670b4fb4b4|13]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -830,9 +830,9 @@ Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos į
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3087, 2024-11-07, paskelbta TAR 2024-11-18, i. k. 2024-20026
-Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 2, 11 ir [[#^s-141231e943c3a6670b4fb4b4|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 [[#^s-ed39e81a2ca2cdd52517dc89|2]], [[#^s-a3a0e7d246709e8a4f02cbb8|11]] ir [[#^s-141231e943c3a6670b4fb4b4|13]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-600, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20812
-Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 2 ir [[#^s-c6a8b59e5f6c23da9bb510a0|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos odontologijos praktikos ir burnos priežiūros praktikos įstatymo Nr. I-1246 [[#^s-ed39e81a2ca2cdd52517dc89|2]] ir [[#^s-c6a8b59e5f6c23da9bb510a0|5]] straipsnių pakeitimo įstatymas

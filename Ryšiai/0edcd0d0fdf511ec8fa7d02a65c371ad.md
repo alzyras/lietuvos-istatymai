@@ -9,31 +9,125 @@ pavadinimas: "Lietuvos Respublikos elektros energetikos įstatymo Nr. VIII-1881 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatymas]] - 6 citatos - Lietuvos Respublikos asociacijų įstatymo
-- [[latest/TAR.FC7AB69BE291|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 15 citatos - Atsinaujinančių išteklių energetikos įstatyme
-- [[latest/TAR.FC7AB69BE291#^s-0d7e0430bcdf512d8bdb15fe|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 12 citatos - Atsinaujinančių išteklių energetikos įstatymo 201 straipsnio 8 dalyje
-- [[latest/TAR.FC7AB69BE291#^s-569bd6c620658de417928aa1|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 2 citatos - Atsinaujinančių išteklių energetikos įstatymo 20 straipsnio 10 dalyje
-- [[latest/TAR.FC7AB69BE291#^s-6832e26be6f072079e44624a|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 2 citatos - Atsinaujinančių išteklių energetikos įstatymo 3 straipsnio 2 dalies
-- [[latest/TAR.FC7AB69BE291#^s-7e6e2d8a941c9dc9f897b91b|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 2 citatos - Atsinaujinančių išteklių energetikos įstatymo 14 straipsnio
-- [[latest/TAR.FC7AB69BE291#^s-8e0aa8e06e370d42ebb8bf63|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 10 citatos - Atsinaujinančių išteklių energetikos įstatymo 22 straipsnį
-- [[latest/TAR.FC7AB69BE291#^s-97907d846c5db2448a038be0|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 4 citatos - Atsinaujinančių išteklių energetikos įstatymo 20 straipsnio 4 dalyje
-- [[latest/TAR.FC7AB69BE291#^s-97c7b30ba685e6619eb30ab3|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 2 citatos - Atsinaujinančių išteklių energetikos įstatymo 22 straipsnio 25 dalyje
-- [[latest/TAR.FC7AB69BE291#^s-c8380edb7f9a6bdb8f9e1586|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 6 citatos - Atsinaujinančių išteklių energetikos įstatymo 22 straipsnio 8 dalyje
-- [[latest/TAR.0EC89509170B|Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas]] - 6 citatos - Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo
-- [[latest/TAR.F57794B7899F|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - Lietuvos Respublikos elektros energetikos įstatymo
-- [[latest/TAR.F57794B7899F#^s-8ad99428317a51f64d021fd8|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - Elektros energetikos įstatymo 31 straipsnio 21 dalyje
-- [[latest/TAR.F57794B7899F#^s-96dd77d554c2eba3b4e00e8b|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - Elektros energetikos įstatymo 31 straipsnio 23 dalyje
+- [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatymas]] - 3 citatos - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.FC7AB69BE291|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 8 citatos - Atsinaujinančių išteklių energetikos įstatyme
+- [[latest/TAR.FC7AB69BE291#^s-0d7e0430bcdf512d8bdb15fe|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 6 citatos - Atsinaujinančių išteklių energetikos įstatymo 201 straipsnio 8 dalyje
+- [[latest/TAR.FC7AB69BE291#^s-3a773600ba52a30d6129f100|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 1
+- [[latest/TAR.FC7AB69BE291#^s-49bd2e5397bbb61f60506211|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 3
+- [[latest/TAR.FC7AB69BE291#^s-569bd6c620658de417928aa1|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - Atsinaujinančių išteklių energetikos įstatymo 20 straipsnio 10 dalyje
+- [[latest/TAR.FC7AB69BE291#^s-6832e26be6f072079e44624a|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - Atsinaujinančių išteklių energetikos įstatymo 3 straipsnio 2 dalies
+- [[latest/TAR.FC7AB69BE291#^s-7140dc9d90d61f995f3c93d1|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 2
+- [[latest/TAR.FC7AB69BE291#^s-7e6e2d8a941c9dc9f897b91b|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - Atsinaujinančių išteklių energetikos įstatymo 14 straipsnio
+- [[latest/TAR.FC7AB69BE291#^s-8e0aa8e06e370d42ebb8bf63|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 5 citatos - Atsinaujinančių išteklių energetikos įstatymo 22 straipsnį
+- [[latest/TAR.FC7AB69BE291#^s-97907d846c5db2448a038be0|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 2 citatos - Atsinaujinančių išteklių energetikos įstatymo 20 straipsnio 4 dalyje
+- [[latest/TAR.FC7AB69BE291#^s-97c7b30ba685e6619eb30ab3|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - Atsinaujinančių išteklių energetikos įstatymo 22 straipsnio 25 dalyje
+- [[latest/TAR.FC7AB69BE291#^s-9d114c3cb30da012ecb90ff7|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 1
+- [[latest/TAR.FC7AB69BE291#^s-c8380edb7f9a6bdb8f9e1586|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 3 citatos - Atsinaujinančių išteklių energetikos įstatymo 22 straipsnio 8 dalyje
+- [[latest/TAR.FC7AB69BE291#^s-e4dc556367a22c4c9b20e6b9|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 2
+- [[latest/TAR.0EC89509170B|Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymas]] - 3 citatos - Lietuvos Respublikos daugiabučių gyvenamųjų namų ir kitos paskirties pastatų savininkų bendrijų įstatymo
+- [[latest/TAR.F57794B7899F|Lietuvos Respublikos elektros energetikos įstatymas]] - 40 citatos - 482 straipsnį 31 dalimi
+- [[latest/TAR.F57794B7899F#^s-0175483a83d6925f495901ca|Lietuvos Respublikos elektros energetikos įstatymas]] - 16 straipsnį 142 dalimi
+- [[latest/TAR.F57794B7899F#^s-0b228809eb50c2201baa12c2|Lietuvos Respublikos elektros energetikos įstatymas]] - 8
+- [[latest/TAR.F57794B7899F#^s-0b5dcc56ee0c5f62f8fa45d9|Lietuvos Respublikos elektros energetikos įstatymas]] - 22 straipsnio 3 dalį
+- [[latest/TAR.F57794B7899F#^s-0c12c16e792592ab8af522d7|Lietuvos Respublikos elektros energetikos įstatymas]] - 16 straipsnio 8 dalį
+- [[latest/TAR.F57794B7899F#^s-1856428808b3904060963af8|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 222 straipsnis
+- [[latest/TAR.F57794B7899F#^s-19c70a70bef0b65f869ac45f|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 straipsnio 59 dalį
+- [[latest/TAR.F57794B7899F#^s-1f40809f19b20ce9df7f475c|Lietuvos Respublikos elektros energetikos įstatymas]] - 484 straipsnį 21 dalimi
+- [[latest/TAR.F57794B7899F#^s-23645fad806e46611288248c|Lietuvos Respublikos elektros energetikos įstatymas]] - 31 straipsnio 2 dalį
+- [[latest/TAR.F57794B7899F#^s-2a0d568d769a91dc93c95ca4|Lietuvos Respublikos elektros energetikos įstatymas]] - 3 citatos - 201 straipsnio 2 dalyje
+- [[latest/TAR.F57794B7899F#^s-2a3ef8955d077b0a10e48086|Lietuvos Respublikos elektros energetikos įstatymas]] - 16 straipsnio 191 dalį
+- [[latest/TAR.F57794B7899F#^s-2c84d6dd5e67fdb6fa7a9a3a|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 straipsnį 821 dalimi
+- [[latest/TAR.F57794B7899F#^s-37bd13647343258fbcdb85a3|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 40 straipsnio 1 dalyje
+- [[latest/TAR.F57794B7899F#^s-38ba53bae31778616c65be3a|Lietuvos Respublikos elektros energetikos įstatymas]] - 55
+- [[latest/TAR.F57794B7899F#^s-39263e5b473ad97dfa30b8e8|Lietuvos Respublikos elektros energetikos įstatymas]] - 39 straipsnį
+- [[latest/TAR.F57794B7899F#^s-3cd57a0acde079667f07ea73|Lietuvos Respublikos elektros energetikos įstatymas]] - 8
+- [[latest/TAR.F57794B7899F#^s-3f8cbc7321b00932633fc303|Lietuvos Respublikos elektros energetikos įstatymas]] - 17 straipsnio 52 dalį
+- [[latest/TAR.F57794B7899F#^s-3fa5a72a127612c5ca370d5b|Lietuvos Respublikos elektros energetikos įstatymas]] - 22 straipsnio 11 dalį
+- [[latest/TAR.F57794B7899F#^s-414552cc296160ca6bc259b5|Lietuvos Respublikos elektros energetikos įstatymas]] - 25
+- [[latest/TAR.F57794B7899F#^s-43823774a507ad976d913883|Lietuvos Respublikos elektros energetikos įstatymas]] - 16 straipsnio 41 dalį
+- [[latest/TAR.F57794B7899F#^s-47edfca08cacfcb61cb70749|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 40 straipsnio 2 dalyje
+- [[latest/TAR.F57794B7899F#^s-4a7c9c6092b405458c9d1115|Lietuvos Respublikos elektros energetikos įstatymas]] - 22 straipsnio 6 dalį
+- [[latest/TAR.F57794B7899F#^s-4c4331a4bd9bb3c87ea3fed3|Lietuvos Respublikos elektros energetikos įstatymas]] - 16 straipsnio 6 dalį
+- [[latest/TAR.F57794B7899F#^s-4d28d04a6b71ec2451c7ee8c|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 straipsnį 341 dalimi
+- [[latest/TAR.F57794B7899F#^s-508c1ac92804e1b5a2f63e45|Lietuvos Respublikos elektros energetikos įstatymas]] - 67 straipsnio 7 dalies 5 punktą
+- [[latest/TAR.F57794B7899F#^s-55f9b0dc0676071293c6d5b5|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 straipsnio 83 dalį
+- [[latest/TAR.F57794B7899F#^s-5626c920eb20fbdee8f9a86f|Lietuvos Respublikos elektros energetikos įstatymas]] - 39 straipsnio 23 dalyje
+- [[latest/TAR.F57794B7899F#^s-5633a6c8e6f706a1f85f79e8|Lietuvos Respublikos elektros energetikos įstatymas]] - 58 straipsnį
+- [[latest/TAR.F57794B7899F#^s-56f0a1b094f2b530e6ee5221|Lietuvos Respublikos elektros energetikos įstatymas]] - 4 citatos - 29
+- [[latest/TAR.F57794B7899F#^s-5a18039863dedf8f702f3423|Lietuvos Respublikos elektros energetikos įstatymas]] - 483 straipsnį 21 dalimi
+- [[latest/TAR.F57794B7899F#^s-633fce125902228771c6097e|Lietuvos Respublikos elektros energetikos įstatymas]] - 31 straipsnį
+- [[latest/TAR.F57794B7899F#^s-63815ef3fa9ff2d85e71623b|Lietuvos Respublikos elektros energetikos įstatymas]] - 9 straipsnio 3 dalies 37 punktą
+- [[latest/TAR.F57794B7899F#^s-6890105f330fcec0346515ed|Lietuvos Respublikos elektros energetikos įstatymas]] - 46 straipsnyje
+- [[latest/TAR.F57794B7899F#^s-69d40869a8d9c2a28c003907|Lietuvos Respublikos elektros energetikos įstatymas]] - 3 citatos - 461 straipsnio
+- [[latest/TAR.F57794B7899F#^s-6d668686d79f9d1a2666b503|Lietuvos Respublikos elektros energetikos įstatymas]] - 91
+- [[latest/TAR.F57794B7899F#^s-726cebc489830aff1ac2158e|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 201 straipsnis
+- [[latest/TAR.F57794B7899F#^s-7359d41c6d78f0bf646b239f|Lietuvos Respublikos elektros energetikos įstatymas]] - 27
+- [[latest/TAR.F57794B7899F#^s-76c5aff087e1a90afa607d90|Lietuvos Respublikos elektros energetikos įstatymas]] - 20 straipsnio 41 dalį
+- [[latest/TAR.F57794B7899F#^s-7b5592e7318704431f633f0e|Lietuvos Respublikos elektros energetikos įstatymas]] - 17 straipsnio 42 dalį
+- [[latest/TAR.F57794B7899F#^s-7b8684dbe0e4a031cd9c2fa9|Lietuvos Respublikos elektros energetikos įstatymas]] - 22 straipsnio 1 dalį
+- [[latest/TAR.F57794B7899F#^s-7bf6bd8370d6e58483eab294|Lietuvos Respublikos elektros energetikos įstatymas]] - 70 straipsnio 1 dalies 4 punkte
+- [[latest/TAR.F57794B7899F#^s-7caf2620a78b015bf6591b51|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 22 straipsnio 8 dalyje
+- [[latest/TAR.F57794B7899F#^s-820b4e47f9c94544f02ce004|Lietuvos Respublikos elektros energetikos įstatymas]] - 17 straipsnio 41 dalį
+- [[latest/TAR.F57794B7899F#^s-82d9981c481610576cb65d39|Lietuvos Respublikos elektros energetikos įstatymas]] - 16 straipsnio 3 dalį
+- [[latest/TAR.F57794B7899F#^s-82e4b068d058971f7b2f5c43|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 482 straipsnio 3 dalyje
+- [[latest/TAR.F57794B7899F#^s-85d8414797cd8afafb1598f4|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 61 straipsnio 3 dalyje
+- [[latest/TAR.F57794B7899F#^s-8867f52cd7d373c708504cb3|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 5
+- [[latest/TAR.F57794B7899F#^s-8ad99428317a51f64d021fd8|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 21
+- [[latest/TAR.F57794B7899F#^s-922f5210540c8cf3a01297ea|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 6
+- [[latest/TAR.F57794B7899F#^s-96195c62079417332f5073c1|Lietuvos Respublikos elektros energetikos įstatymas]] - 39 straipsnio 2 dalį
+- [[latest/TAR.F57794B7899F#^s-96dd77d554c2eba3b4e00e8b|Lietuvos Respublikos elektros energetikos įstatymas]] - Elektros energetikos įstatymo 31 straipsnio 23 dalyje
+- [[latest/TAR.F57794B7899F#^s-97e923d09198f03ff7c30d27|Lietuvos Respublikos elektros energetikos įstatymas]] - 10
+- [[latest/TAR.F57794B7899F#^s-98134bb76f53e26b7d83a4de|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 61 straipsnio 4 dalyje
+- [[latest/TAR.F57794B7899F#^s-99eaf1336be2953e8d572c29|Lietuvos Respublikos elektros energetikos įstatymas]] - 7
+- [[latest/TAR.F57794B7899F#^s-a1b7d75cda0ffffe0f9edde3|Lietuvos Respublikos elektros energetikos įstatymas]] - 3 citatos - 34 straipsnio
+- [[latest/TAR.F57794B7899F#^s-a605e39456a04ce82b37c899|Lietuvos Respublikos elektros energetikos įstatymas]] - 41 straipsnio 1 dalį
+- [[latest/TAR.F57794B7899F#^s-a64373257adafeb76911485f|Lietuvos Respublikos elektros energetikos įstatymas]] - 72 straipsnio 1 dalį
+- [[latest/TAR.F57794B7899F#^s-a7d0b209489a3b18841df6e5|Lietuvos Respublikos elektros energetikos įstatymas]] - 16 straipsnio 152 dalį
+- [[latest/TAR.F57794B7899F#^s-a81b41dd8d86428956a6d828|Lietuvos Respublikos elektros energetikos įstatymas]] - 411 straipsnį 4 dalimi
+- [[latest/TAR.F57794B7899F#^s-a8e5eee80d2f6bd49c554d4d|Lietuvos Respublikos elektros energetikos įstatymas]] - 17 straipsnio 51 dalį
+- [[latest/TAR.F57794B7899F#^s-ac89079b2e8bbf6a1b1901a2|Lietuvos Respublikos elektros energetikos įstatymas]] - 16 straipsnio 1 dalies 6 punkte
+- [[latest/TAR.F57794B7899F#^s-ad63decd609b583918ccc478|Lietuvos Respublikos elektros energetikos įstatymas]] - 74 straipsnio 51 dalį
+- [[latest/TAR.F57794B7899F#^s-b7317e9e13f66fe68bfe3ee5|Lietuvos Respublikos elektros energetikos įstatymas]] - 482 straipsnį
+- [[latest/TAR.F57794B7899F#^s-b766be181f36925408f062ce|Lietuvos Respublikos elektros energetikos įstatymas]] - 6 citatos - 732 straipsnyje
+- [[latest/TAR.F57794B7899F#^s-b79d6b897a93c2d8fd7feec9|Lietuvos Respublikos elektros energetikos įstatymas]] - 211 straipsnio 1 dalyje
+- [[latest/TAR.F57794B7899F#^s-b8985967d5ad388c8ab9b1ea|Lietuvos Respublikos elektros energetikos įstatymas]] - 25
+- [[latest/TAR.F57794B7899F#^s-bc22b03a754118ceed5ae9a6|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 2 straipsnio 63 dalyje
+- [[latest/TAR.F57794B7899F#^s-be5abe61a01f4cfde5e7f743|Lietuvos Respublikos elektros energetikos įstatymas]] - 9
+- [[latest/TAR.F57794B7899F#^s-c4fd9e483e2d65ad2df61fb7|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 straipsnio 54 dalį
+- [[latest/TAR.F57794B7899F#^s-c7c84585310f4de96c736feb|Lietuvos Respublikos elektros energetikos įstatymas]] - 53
+- [[latest/TAR.F57794B7899F#^s-ca2112a894fc311887b95480|Lietuvos Respublikos elektros energetikos įstatymas]] - 59 straipsnio 4 dalį
+- [[latest/TAR.F57794B7899F#^s-ca5ef761eb68e9ecacca0de1|Lietuvos Respublikos elektros energetikos įstatymas]] - 22
+- [[latest/TAR.F57794B7899F#^s-ce7b81036741604d9f5a89bf|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 22 straipsnio 31 dalyje
+- [[latest/TAR.F57794B7899F#^s-d0960363720f781c2147fdd7|Lietuvos Respublikos elektros energetikos įstatymas]] - 72 straipsnį 4 dalimi
+- [[latest/TAR.F57794B7899F#^s-d316bd962b8703dacb62f660|Lietuvos Respublikos elektros energetikos įstatymas]] - 23 straipsnio 2 dalį
+- [[latest/TAR.F57794B7899F#^s-d63d05915203e7f8ddb6a7a3|Lietuvos Respublikos elektros energetikos įstatymas]] - 16 straipsnio 4 dalį
+- [[latest/TAR.F57794B7899F#^s-d675d3ebeb9f44683dce1aea|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 straipsnį 721 dalimi
+- [[latest/TAR.F57794B7899F#^s-d7a20e9bb99ec681925a9747|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 211 straipsnis
+- [[latest/TAR.F57794B7899F#^s-dcf9b0c35b12f4c7d154dda0|Lietuvos Respublikos elektros energetikos įstatymas]] - 43 straipsnyje
+- [[latest/TAR.F57794B7899F#^s-deaaea099e91dc3e04069295|Lietuvos Respublikos elektros energetikos įstatymas]] - 9 straipsnio 3 dalį 511 punktu
+- [[latest/TAR.F57794B7899F#^s-e18334a329d1505856d4d0e5|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 44 straipsnyje
+- [[latest/TAR.F57794B7899F#^s-e37640b61704247a78775612|Lietuvos Respublikos elektros energetikos įstatymas]] - 22 straipsnio 5 dalį
+- [[latest/TAR.F57794B7899F#^s-e498965e847155a09bfc6ea7|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 16 straipsnio 6 dalies 2 punkte
+- [[latest/TAR.F57794B7899F#^s-e50601ac96ae7b6625b0636f|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 straipsnio 55 dalį
+- [[latest/TAR.F57794B7899F#^s-e653574078198bfa9d78676a|Lietuvos Respublikos elektros energetikos įstatymas]] - 22 straipsnio 4 dalį
+- [[latest/TAR.F57794B7899F#^s-e75f234b0d32d659c25ff312|Lietuvos Respublikos elektros energetikos įstatymas]] - 74 straipsnio 9 dalį
+- [[latest/TAR.F57794B7899F#^s-ebb236e6ee0033fce832a377|Lietuvos Respublikos elektros energetikos įstatymas]] - 22 straipsnio 9 dalį
+- [[latest/TAR.F57794B7899F#^s-f128d3acc0f6403e5c95e2f2|Lietuvos Respublikos elektros energetikos įstatymas]] - 6 straipsnio 2 dalies 3 punktą
+- [[latest/TAR.F57794B7899F#^s-f2eaa0f37a6d69a445f97001|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 21
+- [[latest/TAR.F57794B7899F#^s-f4a21e3e9599f3edaae9a890|Lietuvos Respublikos elektros energetikos įstatymas]] - 16 straipsnio 25 dalį
+- [[latest/TAR.F57794B7899F#^s-f7e2e930647f750a284616f1|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 straipsnį 342 dalimi
 - [[latest/TAR.44235B485568|Lietuvos Respublikos energetikos įstatymas]] - 2 citatos - Energetikos įstatymas
-- [[latest/TAR.44235B485568#^s-12ec1280e662d1f9a5cfb574|Lietuvos Respublikos energetikos įstatymas]] - 2 citatos - Energetikos įstatymo 241, 25 ir 36 straipsnių
-- [[latest/TAR.44235B485568#^s-16896dd1120e025af34fc41d|Lietuvos Respublikos energetikos įstatymas]] - 2 citatos - Energetikos įstatymo 20 straipsnio 3 dalyje
-- [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatymas]] - 2 citatos - Lietuvos Respublikos finansinių priemonių rinkų įstatyme
+- [[latest/TAR.44235B485568#^s-10a7bc2749403c61d21bed7e|Lietuvos Respublikos energetikos įstatymas]] - 241
+- [[latest/TAR.44235B485568#^s-12ec1280e662d1f9a5cfb574|Lietuvos Respublikos energetikos įstatymas]] - 36
+- [[latest/TAR.44235B485568#^s-16896dd1120e025af34fc41d|Lietuvos Respublikos energetikos įstatymas]] - Energetikos įstatymo 20 straipsnio 3 dalyje
+- [[latest/TAR.44235B485568#^s-39e4af3efc55492997e289c3|Lietuvos Respublikos energetikos įstatymas]] - 25
+- [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatymas]] - Lietuvos Respublikos finansinių priemonių rinkų įstatyme
 - [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas]] - Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme
-- [[latest/TAR.640D50DB8877|Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas]] - 2 citatos - Smulkiojo ir vidutinio verslo plėtros įstatyme
-- [[latest/TAR.FD474D5CE327|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - 6 citatos - Lietuvos Respublikos sodininkų bendrijų įstatymo
-- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 8 citatos - Statybos įstatyme
-- [[latest/TAR.1E52802BE548|Lietuvos Respublikos viešųjų įstaigų įstatymas]] - 6 citatos - Lietuvos Respublikos viešųjų įstaigų įstatymo
+- [[latest/TAR.640D50DB8877|Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas]] - Smulkiojo ir vidutinio verslo plėtros įstatyme
+- [[latest/TAR.FD474D5CE327|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - 3 citatos - Lietuvos Respublikos sodininkų bendrijų įstatymo
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 4 citatos - Statybos įstatyme
+- [[latest/TAR.1E52802BE548|Lietuvos Respublikos viešųjų įstaigų įstatymas]] - 3 citatos - Lietuvos Respublikos viešųjų įstaigų įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F57794B7899F#^s-4f12f2330edb85603ddfc4bc|Lietuvos Respublikos elektros energetikos įstatymas]] - Įstatymas Nr. XIV-1170
-- [[latest/TAR.F57794B7899F#^s-a1a5be57f7c6eba13b66e68b|Lietuvos Respublikos elektros energetikos įstatymas]] - Įstatymas Nr. XIV-1170
+_Nėra._

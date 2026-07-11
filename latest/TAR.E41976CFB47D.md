@@ -132,7 +132,7 @@ Su išstojusiu arba pašalintu iš bendrovės nariu atsiskaitoma bendrovės įst
 II. Šis įstatymas įsigalioja nuo 1995 m. sausio 1 dienos.
 
 
-III. Pripažinti netekusiu galios Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo Nr. I-1223 „Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo įsigaliojimo“ (Žin., 1991, Nr. 13-329) 1 punkto 1 papunktį.
+III. Pripažinti netekusiu galios Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo Nr. I-1223 [„Dėl Lietuvos Respublikos žemės ūkio bendrovių įstatymo įsigaliojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.7563ED1551FB) (Žin., 1991, Nr. 13-329) 1 punkto 1 papunktį.
 
 
 

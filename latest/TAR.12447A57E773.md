@@ -43,7 +43,7 @@ DĖL KONVENCIJOS DĖL NUSIKALTIMŲ, PADARYTŲ TARPTAUTINIU MASTU SAUGOMIEMS ASME
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-6913b8326467de8ca61da4ef
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2002 m. liepos 15 d. dekretą Nr. 1838 „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl nusikaltimų, padarytų tarptautiniu mastu saugomiems asmenims, įskaitant diplomatus, prevencijos ir baudimo už juos“, ratifikuoja 1973 m. gruodžio 14 d. sudarytą Konvenciją dėl nusikaltimų, padarytų tarptautiniu mastu saugomiems asmenims, įskaitant diplomatus, prevencijos ir baudimo už juos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento [2002 m. liepos 15 d. dekretą Nr. 1838](https://e-tar.lt/portal/lt/legalAct/TAR.6653726A7CFE) [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl nusikaltimų, padarytų tarptautiniu mastu saugomiems asmenims, įskaitant diplomatus, prevencijos ir baudimo už juos“](https://e-tar.lt/portal/lt/legalAct/TAR.6653726A7CFE), ratifikuoja 1973 m. gruodžio 14 d. sudarytą Konvenciją dėl nusikaltimų, padarytų tarptautiniu mastu saugomiems asmenims, įskaitant diplomatus, prevencijos ir baudimo už juos.
 
 
 

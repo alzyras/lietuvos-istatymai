@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.E08277C8C1D8#^s-53120c2159c0ed5183d6acfe|Lietuvos Respublikos įstatymas dėl laisvosios prekybos sutarčių denonsavimo]] - 1996 m. spalio 8 d. įstatymu Nr. I-1566
 - [[latest/TAR.E08277C8C1D8#^s-e15d3454969b94c91c9ba55a|Lietuvos Respublikos įstatymas dėl laisvosios prekybos sutarčių denonsavimo]] - 1996 m. spalio 8 d. įstatymu Nr. I-1566

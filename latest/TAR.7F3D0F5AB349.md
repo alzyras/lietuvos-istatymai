@@ -45,7 +45,7 @@ Vilnius
 1. Papildyti 6 straipsnį nauja [[#^s-72ffb3638280179c03f616e4|2 dalimi]]: ^s-399498967d26fe6f27e00ff7
 
 
-„2. [[#^s-399498967d26fe6f27e00ff7|Šio straipsnio 1 dalyje]] nurodytoje interneto svetainėje Vyriausybės nustatyta tvarka ir laikantis asmens duomenų apsaugos, valstybės, tarnybos, komercinės, profesinės ir kitų įstatymų saugomų paslapčių apsaugos reikalavimų, taip pat kitų įstatymuose nustatytų reikalavimų turi būti skelbiami:
+„2. Šio straipsnio 1 dalyje nurodytoje interneto svetainėje Vyriausybės nustatyta tvarka ir laikantis asmens duomenų apsaugos, valstybės, tarnybos, komercinės, profesinės ir kitų įstatymų saugomų paslapčių apsaugos reikalavimų, taip pat kitų įstatymuose nustatytų reikalavimų turi būti skelbiami:
 
 
 1) Seimo kontrolierių pažymos dėl įstaigoje atlikto skundo tyrimo ir informacija apie Seimo kontrolierių siūlymų (rekomendacijų) nagrinėjimo įstaigoje rezultatus; ^s-82ec75203bed92816e752ac0

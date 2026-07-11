@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir įstatų pakeitimo aktų bei protokolo ratifikavimas ^s-953d46582029339f69257e8e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 24 d. dekretą Nr. 717, ratifikuoja Tarptautinės telekomunikacijų sąjungos konvencijos pakeitimo aktą, priimtą 1994 m. spalio 14 d. Kiote, Tarptautinės telekomunikacijų sąjungos įstatų ir Tarptautinės telekomunikacijų sąjungos konvencijos pakeitimo aktus, pasirašytus 1998 m. lapkričio 6 d. Mineapolyje ir 2002 m. spalio 18 d. Marakeše, taip pat Papildomą protokolą dėl privalomo ginčų, susijusių su Tarptautinės telekomunikacijų sąjungos įstatais, konvencija ir administraciniais reglamentais, sprendimo, pasirašytą 1992 m. gruodžio 22 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. rugpjūčio 24 d. dekretą Nr. 717](https://e-tar.lt/portal/lt/legalAct/TAR.E38289704B8A), ratifikuoja Tarptautinės telekomunikacijų sąjungos konvencijos pakeitimo aktą, priimtą 1994 m. spalio 14 d. Kiote, Tarptautinės telekomunikacijų sąjungos įstatų ir Tarptautinės telekomunikacijų sąjungos konvencijos pakeitimo aktus, pasirašytus 1998 m. lapkričio 6 d. Mineapolyje ir 2002 m. spalio 18 d. Marakeše, taip pat Papildomą protokolą dėl privalomo ginčų, susijusių su Tarptautinės telekomunikacijų sąjungos įstatais, konvencija ir administraciniais reglamentais, sprendimo, pasirašytą 1992 m. gruodžio 22 d. Ženevoje.
 
 
 

@@ -57,7 +57,7 @@ Pakeisti Lietuvos Respublikos nacionalinės teismų administracijos įstatymą i
 3. Nacionalinės teismų administracijos steigėjo funkcijas atlieka Lietuvos Aukščiausiasis Teismas. ^s-cbcc0c482d57e9508ca16caa
 
 
-4. Nacionalinė teismų administracija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, [[latest/TAR.522B3E415B52|Teismų įstatymu]], šiuo ir kitais įstatymais, kitais teisės aktais bei savo nuostatais. ^s-bebeeb630c678256d3f632a0
+4. Nacionalinė teismų administracija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), [[latest/TAR.522B3E415B52|Teismų įstatymu]], šiuo ir kitais įstatymais, kitais teisės aktais bei savo nuostatais. ^s-bebeeb630c678256d3f632a0
 
 
 5. Nacionalinė teismų administracija yra biudžetinė įstaiga, finansuojama iš Lietuvos Respublikos biudžeto. ^s-0b9d470ac4518ca35c2472b5
@@ -221,10 +221,10 @@ Nacionalinės teismų administracijos finansinės veiklos vertinimą atlieka įg
 ### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-beb08f69fb7d9c2eced897fd
 
 
-1. Šis įstatymas, išskyrus šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.DBF4203C51A1#^s-e265e62044b588cc7503b363|Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 4 straipsnio]] 2 ir [[#^s-827955863ab72ecbae4e4681|3 dalis]], įsigalioja 2008 m. rugsėjo 1 d. ^s-4dadb7bd37003aa65e8dba2e
+1. Šis įstatymas, išskyrus šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.DBF4203C51A1#^s-e265e62044b588cc7503b363|Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 4 straipsnio]] [[latest/TAR.DBF4203C51A1#^s-58938650a4647086e26d2d10|2]] ir [[latest/TAR.DBF4203C51A1#^s-c4346982d361f57d72ce72de|3]] dalis, įsigalioja 2008 m. rugsėjo 1 d. ^s-4dadb7bd37003aa65e8dba2e
 
 
-2. Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.DBF4203C51A1#^s-e265e62044b588cc7503b363|Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 4 straipsnio]] 2 ir [[#^s-827955863ab72ecbae4e4681|3 dalys]] įsigalioja 2009 m. vasario 1 d. ^s-1eac37f559c868907edf31bb
+2. Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.DBF4203C51A1#^s-e265e62044b588cc7503b363|Lietuvos Respublikos nacionalinės teismų administracijos įstatymo 4 straipsnio]] [[latest/TAR.DBF4203C51A1#^s-58938650a4647086e26d2d10|2]] ir [[latest/TAR.DBF4203C51A1#^s-c4346982d361f57d72ce72de|3]] dalys įsigalioja 2009 m. vasario 1 d. ^s-1eac37f559c868907edf31bb
 
 
 3. Iki šio įstatymo įsigaliojimo paskirtas Nacionalinės teismų administracijos direktorius eina pareigas iki kadencijos, kuriai jis buvo paskirtas, pabaigos. Pasibaigus jo kadencijai, naujas Nacionalinės teismų administracijos direktorius priimamas į pareigas [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nustatyta tvarka. ^s-827955863ab72ecbae4e4681

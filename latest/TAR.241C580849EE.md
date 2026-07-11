@@ -108,10 +108,10 @@ Pakeisti 58 straipsnio 16 dalies 2 punktą ir jį išdėstyti taip:
 ### 7 straipsnis. Įstatymo taikymas ^s-1b9e89078bff33717804ab7a
 
 
-1. Šio įstatymo 1 ir [[#^s-2240119ac428c18c5fdeaefa|6 straipsnių]] nuostatos taikomos apskaičiuojant 2012 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-04722def567ec6c71aa5373b
+1. Šio įstatymo [[#^s-141468123d8f7b2d381bc204|1]] ir [[#^s-2240119ac428c18c5fdeaefa|6]] straipsnių nuostatos taikomos apskaičiuojant 2012 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-04722def567ec6c71aa5373b
 
 
-2. Šio įstatymo 2 ir [[#^s-7f98fe1854676e33b064b516|3 straipsnių]] nuostatos taikomos apskaičiuojant 2011 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-7e844e67ed675949939ceb5c
+2. Šio įstatymo [[#^s-dc5ebeb021a87ef0a864c6d1|2]] ir [[#^s-7f98fe1854676e33b064b516|3]] straipsnių nuostatos taikomos apskaičiuojant 2011 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-7e844e67ed675949939ceb5c
 
 
 

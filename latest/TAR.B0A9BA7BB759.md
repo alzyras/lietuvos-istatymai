@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-16c54aaaef3c850eba72f128
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2011 m. lapkričio 30 d. dekretą Nr. 1K-886, ratifikuoja 2011 m. liepos 26 d. Delyje sudarytą Lietuvos Respublikos Vyriausybės ir Indijos Respublikos Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2011 m. lapkričio 30 d. dekretą Nr. 1K-886](https://e-tar.lt/portal/lt/legalAct/TAR.93ED496E5D54), ratifikuoja 2011 m. liepos 26 d. Delyje sudarytą Lietuvos Respublikos Vyriausybės ir Indijos Respublikos Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
 
 
 

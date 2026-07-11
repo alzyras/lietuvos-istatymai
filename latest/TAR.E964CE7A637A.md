@@ -60,7 +60,7 @@ asmens pastangos būti sveikam gali būti skatinamos tik gyvenamam laikui ir žm
 kuo geresnė visuomenės sveikata yra būtina Lietuvos valstybės saugumo ir klestėjimo bei atviros, teisingos ir darnios pilietinės visuomenės kūrimo prielaida;
 atsižvelgdamas į Pasaulio sveikatos organizacijos priimtą sveikatos strategiją „Sveikata visiems“, Otavos sveikatos stiprinimo chartijos ir Lietuvos nacionalinės sveikatos koncepcijos nuostatas;
 siekdamas užtikrinti prigimtinę žmogaus teisę turėti kuo geresnę sveikatą, taip pat teisę turėti sveiką aplinką, priimtiną, prieinamą ir tinkamą sveikatos priežiūrą;
-vadovaudamasis Lietuvos Respublikos Konstitucija,
+vadovaudamasis [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA),
 priima Sveikatos sistemos įstatymą.
 
 
@@ -106,7 +106,7 @@ BENDROSIOS NUOSTATOS
 7. Visuomenės sveikatos priežiūra – organizacinių, teisinių, ekonominių, techninių, socialinių bei medicinos priemonių, padedančių įgyvendinti ligų ir traumų profilaktiką, išsaugoti visuomenės sveikatą bei ją stiprinti, visuma. ^s-225b742c56e1a7911e77b02e
 
 
-8. Farmacinė veikla – juridinių ir fizinių asmenų veikla, kurią reglamentuoja Farmacinės veiklos įstatymas. ^s-2acb2a092bbbfdc00bfe6fba
+8. Farmacinė veikla – juridinių ir fizinių asmenų veikla, kurią reglamentuoja [Farmacinės veiklos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C). ^s-2acb2a092bbbfdc00bfe6fba
 
 
 9. Sveikatos priežiūros priimtinumas – valstybės nustatyta tvarka pripažįstamos sveikatos priežiūros sąlygos, užtikrinančios sveikatos priežiūros paslaugų ir medicinos mokslo principų bei medicinos etikos reikalavimų atitiktį. ^s-5a83308e6a122e8a8a0e8c74
@@ -262,7 +262,7 @@ Sveikatinimo veiklos tikslai:
 ### 5 straipsnis. Sveikatinimo veiklos reguliavimo principai ^s-f68bb4446c9fe056e7572dce
 
 
-1. Šio įstatymo 1 ir [[#^s-052b821afd05e3e94f1ab59b|3 straipsniuose]] nurodytiems santykiams reguliuoti taikomi šie principai: ^s-d75fbe720f866746fdc5b39e
+1. Šio įstatymo 1 ir [[#^s-052b821afd05e3e94f1ab59b|3]] straipsniuose nurodytiems santykiams reguliuoti taikomi šie principai: ^s-d75fbe720f866746fdc5b39e
 
 
 1) visapusė asmens ir visuomenės sveikatos sauga; ^s-4cc2a4623cdc46a211545297
@@ -301,7 +301,7 @@ Sveikatinimo veiklos tikslai:
 12) valstybės skatinamos sveikatai naudingos ūkinė veikla ir iniciatyva. ^s-d3761a72a9c7b6207cee4d1e
 
 
-2. Jeigu šio įstatymo 1 ir [[#^s-052b821afd05e3e94f1ab59b|3 straipsnyje]] nurodyti santykiai įstatymų nėra sureguliuoti ir jiems negalima pritaikyti panašius santykius reguliuojančių teisės normų nuostatų, tai sprendžiant kilusius ginčus taikomi [[#^s-d75fbe720f866746fdc5b39e|šio straipsnio 1 dalyje]] išvardyti principai. ^s-0f5e83e768c27255029f9b54
+2. Jeigu šio įstatymo 1 ir [[#^s-052b821afd05e3e94f1ab59b|3]] straipsnyje nurodyti santykiai įstatymų nėra sureguliuoti ir jiems negalima pritaikyti panašius santykius reguliuojančių teisės normų nuostatų, tai sprendžiant kilusius ginčus taikomi [[#^s-d75fbe720f866746fdc5b39e|šio straipsnio 1 dalyje]] išvardyti principai. ^s-0f5e83e768c27255029f9b54
 
 
 
@@ -846,7 +846,7 @@ Vykdyti visuomenės sveikatos priežiūrą, kuria siekiama ugdyti sveikatą, už
 4. Traumatizmo, kurį lemia transportas, profilaktikos priemones ir turinį pagal kompetenciją nustato Susisiekimo, Sveikatos apsaugos, Vidaus reikalų ir kitos ministerijos. ^s-ec323ed272ffc00e378c8a4e
 
 
-5. Profesinių ligų ir nelaimingų atsitikimų darbe profilaktikos tvarką nustato Žmonių saugos darbe įstatymas, kiti įstatymai ir teisės aktai. ^s-00237c986223977db746cee6
+5. Profesinių ligų ir nelaimingų atsitikimų darbe profilaktikos tvarką nustato [Žmonių saugos darbe įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.1C72AF32F5CB), kiti įstatymai ir teisės aktai. ^s-00237c986223977db746cee6
 
 
 
@@ -1248,7 +1248,7 @@ Savivaldybės remia savo teritorijos gyventojų sveikatos priežiūrą ją papil
 3. Pacientas turi teisę pasirinkti Sveikatos apsaugos ministerijos ir Privalomojo sveikatos draudimo tarybos nustatyta tvarka LNSS pirminės sveikatos priežiūros įstaigą ir gydytoją, taip pat pagal šio straipsnio nustatytas sąlygas antrinės ar tretinės sveikatos priežiūros įstaigą ir gydytoją, kad suteiktų nemokamas asmens sveikatos priežiūros paslaugas. ^s-b50dc615e9b1bca480acedca
 
 
-4. [[#^s-3a71b825f6a6ca5ea79d977e|Šio straipsnio 2 dalyje]] išdėstytos sąlygos netaikomos pacientams, kurie kreipėsi į LNSS įstaigą dėl būtinosios medicinos pagalbos suteikimo. ^s-48f621d08034c442ae7b6788
+4. [[#^s-3a71b825f6a6ca5ea79d977e|Šio straipsnio 2 dalyje]] išdėstytos sąlygos netaikomos pacientams, kurie kreipėsi į LNSS įstaigą [dėl būtinosios medicinos pagalbos](https://e-tar.lt/portal/lt/legalAct/TAR.ECBA03DE99A4) suteikimo. ^s-48f621d08034c442ae7b6788
 
 
 5.Valstybės laiduojama (nemokama) asmens sveikatos priežiūra LNSS įstaigose teikiama nemokamai, už šios priežiūros paslaugas iš paciento negali būti reikalaujama papildomo mokesčio. Jei pacientai, turintys teisę į nemokamas asmens sveikatos priežiūros paslaugas, savo iniciatyva pasirenka brangiau kainuojančias paslaugas, medžiagas, procedūras, tai šių paslaugų, medžiagų, procedūrų faktinių kainų ir nemokamų paslaugų, medžiagų, procedūrų bazinių kainų skirtumą jie apmoka patys Sveikatos apsaugos ministerijos nustatyta tvarka. Jei pacientai, turintys teisę į nemokamas asmens sveikatos priežiūros paslaugas, savo iniciatyva pasirenka papildomas paslaugas ar procedūras, šių paslaugų ar procedūrų kainą jie apmoka patys.
@@ -1357,7 +1357,7 @@ Gyventojų grupių, kurių sveikatai daro didelę įtaką sveikatos rizikos fakt
 2. Tabako ir jo gaminių reklama Lietuvos Respublikoje draudžiama. Alkoholio produktų ir alkoholinių gėrimų reklama ribojama ar draudžiama [[latest/TAR.9E5C5C16B6E6|Alkoholio kontrolės įstatymo]] nustatyta tvarka. ^s-12c5d05a3f23a69b9cfc8e71
 
 
-3. Vaistų reklamos ribojimo ypatumus nustato Farmacinės veiklos įstatymas. ^s-8673f729aa7a268957c0e22d
+3. Vaistų reklamos ribojimo ypatumus nustato [Farmacinės veiklos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C). ^s-8673f729aa7a268957c0e22d
 
 
 
@@ -1436,7 +1436,7 @@ Vyriausybė tvarko sveikatinimo reikalus ir reguliuoja sveikatinimo veiklą:
 7) rūpinasi, kad Lietuvos valstybės sienos ir teritorija būtų apsaugotos nuo užkrečiamųjų ligų įvežimo, jų paplitimo; ^s-c8ea5e12522bfdcfe0820dde
 
 
-8) vykdo kitas sveikatinimo veiklos valdymo funkcijas, kurias Vyriausybei paveda Lietuvos Respublikos Konstitucija, šis ir kiti įstatymai. ^s-b19cb0df519c45e1b1beaf8f
+8) vykdo kitas sveikatinimo veiklos valdymo funkcijas, kurias Vyriausybei paveda [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis ir kiti įstatymai. ^s-b19cb0df519c45e1b1beaf8f
 
 
 

@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir kar
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.15C705E93776#^s-48a24050f2967977d9584a38|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - 8 straipsnio 1 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.15C705E93776#^s-aec84f68d27e870489cecda2|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Įstatymas Nr. XII-958
-- [[latest/TAR.15C705E93776#^s-e603ab3b8792ce28e9fac43e|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Įstatymas Nr. XII-958
+_Nėra._

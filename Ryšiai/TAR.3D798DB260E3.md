@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos aviacijos įstatymo 1, 2, 43, 70, 71, 73 stra
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.9D2F66B96EBC|Lietuvos Respublikos aviacijos įstatymas]] - Lietuvos Respublikos aviacijos įstatymo
+- [[latest/TAR.9D2F66B96EBC|Lietuvos Respublikos aviacijos įstatymas]] - aviacijos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9D2F66B96EBC#^s-911e242c3135e101a4a63704|Lietuvos Respublikos aviacijos įstatymas]] - 3 citatos - 1051010ISTA000X-113
-- [[latest/TAR.9D2F66B96EBC#^s-b988a727765b14e5d36c09ce|Lietuvos Respublikos aviacijos įstatymas]] - 3 citatos - 1051010ISTA000X-113
+- [[latest/TAR.9D2F66B96EBC#^s-b988a727765b14e5d36c09ce|Lietuvos Respublikos aviacijos įstatymas]] - 2 citatos - 1051010ISTA000X-113

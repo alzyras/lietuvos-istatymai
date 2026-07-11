@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. 3 straipsnio pakeitimas ^s-5ac6b7857e7b54330c833580
 
 
-Pakeisti 3 straipsnio 19 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.D0CD0966D67F#^s-2254812e6f376d1258f35bbc|3 straipsnio 19 dalį]] ir ją išdėstyti taip:
 
 
 „19. Savivaldybės tarybos mažuma (opozicija) – savivaldybės tarybos narių frakcija ir (ar) savivaldybės tarybos narių grupė, pirmajame ar kitame savivaldybės tarybos posėdyje viešu pareiškimu, įteiktu posėdžio pirmininkui, deklaravusios (deklaravusi), kad nesiūlo savo kandidato sudarant savivaldybės vykdomąją instituciją, nedelegavusios (nedelegavusi) savo kandidatų į mero pavaduotojo pareigas ir pateikusios (pateikusi) savo veiklos kryptis.“
@@ -51,7 +51,7 @@ Pakeisti 3 straipsnio 19 dalį ir ją išdėstyti taip:
 ### 2 straipsnis. 4 straipsnio pakeitimas ^s-6baa2f35b3b4626828200288
 
 
-Papildyti 4 straipsnį 14 punktu:
+Papildyti [[latest/TAR.D0CD0966D67F|4 straipsnį 14 punktu]]:
 
 
 „14) subsidiarumo. Savivaldybės viešojo administravimo subjektų sprendimai turi būti priimami ir įgyvendinami tuo lygmeniu, kuriuo jie yra efektyviausi.“
@@ -61,7 +61,7 @@ Papildyti 4 straipsnį 14 punktu:
 ### 3 straipsnis. 6 straipsnio pakeitimas ^s-b6f369beac738c05c963b419
 
 
-Pakeisti 6 straipsnio 4 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.D0CD0966D67F#^s-e272cddebf1a17f89c12dd6d|6 straipsnio 4 punktą]] ir jį išdėstyti taip:
 
 
 „4) biudžetinių įstaigų steigimas ir išlaikymas, viešųjų įstaigų, savivaldybės įmonių ir kitų savivaldybės juridinių asmenų steigimas;“.
@@ -87,7 +87,7 @@ Pakeisti 6 straipsnio 4 punktą ir jį išdėstyti taip:
 ### 5 straipsnis. 103 straipsnio pakeitimas ^s-01a139bf2afcc2191706b536
 
 
-Pakeisti 103 straipsnio 4 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.D0CD0966D67F|103 straipsnio 4 dalį]] ir ją išdėstyti taip:
 
 
 „4. Savivaldybės administracijos, seniūnijos, biudžetinės įstaigos metiniai veiklos planai yra savivaldybės strateginio veiklos plano programų ar jų dalies (tikslų ar uždavinių, atskirų priemonių), už kurias atsakinga savivaldybės administracija, seniūnija, biudžetinė įstaiga, įgyvendinimą detalizuojantys dokumentai, kurie rengiami atsižvelgiant į savivaldybės biudžete numatomus joms skirti asignavimus. Šiuose planuose nurodomi konkretūs savivaldybės administracijos (jos struktūrinių padalinių), seniūnijos, biudžetinės įstaigos darbai (veiksmai) ir (ar) projektai, kurie numatomi atlikti tais metais, darbams (veiksmams) ir (ar) projektams planuojami skirti asignavimai ir rezultatų, kuriuos šios įstaigos ar jų padaliniai turi pasiekti, vertinimo kriterijai (ir jų reikšmės).“
@@ -97,7 +97,7 @@ Pakeisti 103 straipsnio 4 dalį ir ją išdėstyti taip:
 ### 6 straipsnis. 13 straipsnio pakeitimas ^s-2ab560a949c275c49d9c1fa1
 
 
-Pakeisti 13 straipsnio 8 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.D0CD0966D67F#^s-8d4ed53e60be2cd6c2116793|13 straipsnio 8 dalį]] ir ją išdėstyti taip:
 
 
 „8. Apie savivaldybės tarybos posėdžio laiką, svarstyti parengtus ir reglamento nustatyta tvarka įregistruotus klausimus kartu su sprendimų projektais meras, o kai jo nėra (reglamento nustatytais atvejais), – mero pavaduotojas, o kai šio nėra, – laikinai mero pareigas einantis tarybos narys arba įgaliojimus iš 1/3 išrinktų tarybos narių gavęs tarybos narys ne vėliau kaip prieš 3 darbo dienas iki posėdžio pradžios reglamento nustatyta tvarka praneša visiems tarybos nariams, gyventojams ir seniūnaičiui, kai svarstomi klausimai yra susiję su jo atstovaujama gyvenamosios vietovės bendruomene, taip pat seniūnui ir vietos gyventojų apklausos iniciatyvinės grupės atstovui (atstovams), kai svarstomi vietos gyventojų apklausos rezultatai ar klausimai dėl vietos gyventojų apklausai pateikto (pateiktų) klausimo (klausimų).“
@@ -107,7 +107,7 @@ Pakeisti 13 straipsnio 8 dalį ir ją išdėstyti taip:
 ### 7 straipsnis. 14 straipsnio pakeitimas ^s-3fe064f294e60a58c4be5b18
 
 
-Pakeisti 14 straipsnio 5 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.D0CD0966D67F|14 straipsnio 5 dalį]] ir ją išdėstyti taip:
 
 
 „5. Komitetų posėdžiai yra teisėti, jeigu juose dalyvauja daugiau kaip pusė visų komiteto narių. Komitetai pagal savo kompetenciją priima rekomendacinius sprendimus. Savivaldybės administracija, jos padaliniai, biudžetinės ir viešosios įstaigos ir savivaldybės kontroliuojamos įmonės su jų veikla susijusius komitetų sprendimus turi apsvarstyti ir apie svarstymo rezultatus pranešti komitetams.“
@@ -127,49 +127,49 @@ Pakeisti [[#^s-c6d053e340fcec94310e7c14|15 straipsnio 6 dalį]] ir ją išdėsty
 ### 9 straipsnis. 16 straipsnio pakeitimas ^s-77d7a03862ca36b696c4bb45
 
 
-1. Pakeisti 16 straipsnio 2 dalies 21 punktą ir jį išdėstyti taip: ^s-ce9398e0c6f8ef5c8d846145
+1. Pakeisti [[latest/TAR.D0CD0966D67F|16 straipsnio 2 dalies 21 punktą]] ir jį išdėstyti taip: ^s-ce9398e0c6f8ef5c8d846145
 
 
 „21) biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė), savivaldybės įmonių, akcinių bendrovių, uždarųjų akcinių bendrovių (toliau – savivaldybės juridiniai asmenys) steigimas, reorganizavimas, likvidavimas ir jų priežiūra, savivaldybės mokymo ir auklėjimo (toliau – švietimo) įstaigų vadovų skyrimas į pareigas ir atleidimas iš jų teisės aktų nustatyta tvarka, dalyvavimas steigiant, reorganizuojant ir likviduojant viešuosius ir privačius juridinius asmenis; seniūnijų – biudžetinių įstaigų – nuostatų tvirtinimas;“.
 
 
-2. Pakeisti 16 straipsnio 2 dalies 37 punktą ir jį išdėstyti taip: ^s-6ca13fb33bf2d8366fe9a194
+2. Pakeisti [[latest/TAR.D0CD0966D67F|16 straipsnio 2 dalies 37 punktą]] ir jį išdėstyti taip: ^s-6ca13fb33bf2d8366fe9a194
 
 
 „37) kainų ir tarifų už savivaldybės kontroliuojamų įmonių, biudžetinių ir viešųjų įstaigų (kurių savininkė yra savivaldybė) teikiamas atlygintinas paslaugas ir keleivių vežimą vietiniais maršrutais nustatymas, centralizuotai tiekiamos šilumos, šalto ir karšto vandens kainų nustatymas (tvirtinimas) įstatymų nustatyta tvarka, vietinių rinkliavų ir mokesčių tarifų nustatymas įstatymų nustatyta tvarka;“.
 
 
-3. Pakeisti 16 straipsnio 2 dalies 39 punktą ir jį išdėstyti taip: ^s-5bbbbca8c77002260eb3940d
+3. Pakeisti [[latest/TAR.D0CD0966D67F|16 straipsnio 2 dalies 39 punktą]] ir jį išdėstyti taip: ^s-5bbbbca8c77002260eb3940d
 
 
 „39) biudžetinės įstaigos vardu gautos paramos skirstymo taisyklių nustatymas;“.
 
 
-4. Pakeisti 16 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip: ^s-a1a8abfbdd7ce6be8224a47d
+4. Pakeisti [[latest/TAR.D0CD0966D67F|16 straipsnio 3 dalies 2 punktą]] ir jį išdėstyti taip: ^s-a1a8abfbdd7ce6be8224a47d
 
 
 „2) biudžetinių įstaigų finansinių ataskaitų rinkinių tvirtinimas;“.
 
 
-5. Pakeisti 16 straipsnio 3 dalies 4 punktą ir jį išdėstyti taip: ^s-816323ba047a4b9f6058944f
+5. Pakeisti [[latest/TAR.D0CD0966D67F|16 straipsnio 3 dalies 4 punktą]] ir jį išdėstyti taip: ^s-816323ba047a4b9f6058944f
 
 
 „4) viešųjų įstaigų (kurių savininkė yra savivaldybė) kolegialių organų sudarymas, kai tai numatyta viešosios įstaigos įstatuose;“.
 
 
-6. Pakeisti 16 straipsnio 3 dalies 5 punktą ir jį išdėstyti taip: ^s-acf309a159526c205de97f8b
+6. Pakeisti [[latest/TAR.D0CD0966D67F|16 straipsnio 3 dalies 5 punktą]] ir jį išdėstyti taip: ^s-acf309a159526c205de97f8b
 
 
 „5) viešųjų įstaigų (kurių savininkė yra savivaldybė) finansinių ataskaitų rinkinių tvirtinimas;“.
 
 
-7. Pakeisti 16 straipsnio 3 dalies 6 punktą ir jį išdėstyti taip: ^s-31b0f588912a6911915f7405
+7. Pakeisti [[latest/TAR.D0CD0966D67F|16 straipsnio 3 dalies 6 punktą]] ir jį išdėstyti taip: ^s-31b0f588912a6911915f7405
 
 
 „6) viešųjų įstaigų (kurių savininkė yra savivaldybė) vidaus kontrolės tvarkos nustatymas;“.
 
 
-8. Pakeisti 16 straipsnio 3 dalies 7 punktą ir jį išdėstyti taip: ^s-7b62ea546de19b0805d5e1de
+8. Pakeisti [[latest/TAR.D0CD0966D67F|16 straipsnio 3 dalies 7 punktą]] ir jį išdėstyti taip: ^s-7b62ea546de19b0805d5e1de
 
 
 „7) sprendimų dėl valstybės socialinių ir ekonominių programų tikslinių lėšų, kitų valstybės fondų lėšų ir materialiojo turto paskirstymo biudžetinėms įstaigoms priėmimas;“.
@@ -179,28 +179,28 @@ Pakeisti [[#^s-c6d053e340fcec94310e7c14|15 straipsnio 6 dalį]] ir ją išdėsty
 ### 10 straipsnis. 20 straipsnio pakeitimas ^s-d753d9061d1623fbe39aeabc
 
 
-1. Pakeisti 20 straipsnio 2 dalies 16 punktą ir jį išdėstyti taip: ^s-38afe7d63c266c4cb8fddc4a
+1. Pakeisti [[latest/TAR.D0CD0966D67F|20 straipsnio 2 dalies 16 punktą]] ir jį išdėstyti taip: ^s-38afe7d63c266c4cb8fddc4a
 
 
 „16) priima į pareigas ir atleidžia iš jų biudžetinių įstaigų, išskyrus švietimo įstaigas ir seniūnijas – biudžetines įstaigas, vadovus; kitas funkcijas, susijusias su visų biudžetinių įstaigų vadovų darbo santykiais, [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] ir kitų teisės aktų nustatyta tvarka įgyvendina pats arba šio įstatymo nustatytais atvejais mero pareigas laikinai einantis savivaldybės tarybos narys;“.
 
 
-2. Pakeisti 20 straipsnio 2 dalies 17 punktą ir jį išdėstyti taip: ^s-00c26375a6d00914b218f6f8
+2. Pakeisti [[latest/TAR.D0CD0966D67F|20 straipsnio 2 dalies 17 punktą]] ir jį išdėstyti taip: ^s-00c26375a6d00914b218f6f8
 
 
 „17) priima į pareigas ir atleidžia iš jų viešųjų įstaigų (kurių savininkė yra savivaldybė), išskyrus švietimo įstaigas, vadovus; kitas funkcijas, susijusias su visų viešųjų įstaigų (kurių savininkė yra savivaldybė) vadovų darbo santykiais, [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] ir kitų teisės aktų nustatyta tvarka įgyvendina pats arba šio įstatymo nustatytais atvejais mero pareigas laikinai einantis savivaldybės tarybos narys;“.
 
 
-3. Papildyti 20 straipsnio 2 dalį 23 punktu: ^s-48e4b69c8007b3dc9842ef3d
+3. Papildyti [[latest/TAR.D0CD0966D67F|20 straipsnio 2 dalį 23 punktu]]: ^s-48e4b69c8007b3dc9842ef3d
 
 
 „23) suteikia savivaldybės administracijos direktoriui, kai savivaldybės administracijos direktoriaus nėra, – jo pavaduotojui, savivaldybės kontrolieriui, kai savivaldybės kontrolieriaus nėra, – jo pavaduotojui atostogas, siunčia administracijos direktorių, kai savivaldybės administracijos direktoriaus nėra, – jo pavaduotoją, savivaldybės kontrolierių, kai savivaldybės kontrolieriaus nėra, – jo pavaduotoją į komandiruotes.“
 
 
-4. Pakeisti 20 straipsnio 8 dalį ir ją išdėstyti taip: ^s-9c0669f57f6c611bbb6e0317
+4. Pakeisti [[latest/TAR.D0CD0966D67F|20 straipsnio 8 dalį]] ir ją išdėstyti taip: ^s-9c0669f57f6c611bbb6e0317
 
 
-„8. Mero pavaduotojas atlieka mero nustatytas funkcijas ir pavedimus. Meras mero pavaduotojo funkcijas nustato mero pavaduotojo kadencijos laikotarpiui ir gali jas keisti. Kai meras negali eiti pareigų, mero pavaduotojas ar laikinai mero pareigas einantis savivaldybės tarybos narys atlieka visas mero pareigas, išskyrus [[#^s-00c26375a6d00914b218f6f8|šio straipsnio 2 dalies]] 4–8 ir 15–22 punktuose nustatytus įgaliojimus. Tokiu atveju [[#^s-00c26375a6d00914b218f6f8|šio straipsnio 2 dalies]] 15–22 punktuose nustatytus mero įgaliojimus atlieka savivaldybės taryba, išskyrus funkcijas, kurias šio įstatymo nustatytais atvejais atlieka mero pareigas laikinai einantis savivaldybės tarybos narys. Mero veikla ir jo pavadavimo procedūra nustatyta reglamente.“
+„8. Mero pavaduotojas atlieka mero nustatytas funkcijas ir pavedimus. Meras mero pavaduotojo funkcijas nustato mero pavaduotojo kadencijos laikotarpiui ir gali jas keisti. Kai meras negali eiti pareigų, mero pavaduotojas ar laikinai mero pareigas einantis savivaldybės tarybos narys atlieka visas mero pareigas, išskyrus [[#^s-00c26375a6d00914b218f6f8|šio straipsnio 2 dalies]] [[latest/TAR.D0CD0966D67F|4]]–[[latest/TAR.D0CD0966D67F|8]] ir [[latest/TAR.D0CD0966D67F|15]]–[[latest/TAR.D0CD0966D67F|22]] punktuose nustatytus įgaliojimus. Tokiu atveju [[#^s-00c26375a6d00914b218f6f8|šio straipsnio 2 dalies]] [[latest/TAR.D0CD0966D67F|15]]–[[latest/TAR.D0CD0966D67F|22]] punktuose nustatytus mero įgaliojimus atlieka savivaldybės taryba, išskyrus funkcijas, kurias šio įstatymo nustatytais atvejais atlieka mero pareigas laikinai einantis savivaldybės tarybos narys. Mero veikla ir jo pavadavimo procedūra nustatyta reglamente.“
 
 
 
@@ -208,13 +208,13 @@ Pakeisti [[#^s-c6d053e340fcec94310e7c14|15 straipsnio 6 dalį]] ir ją išdėsty
 ### 11 straipsnis. 29 straipsnio pakeitimas ^s-f6b81be61642828541f20704
 
 
-1. Pakeisti 29 straipsnio 8 dalies 2 punktą ir jį išdėstyti taip: ^s-3ea1f6a2b58bf8fda079f88a
+1. Pakeisti [[latest/TAR.D0CD0966D67F|29 straipsnio 8 dalies 2 punktą]] ir jį išdėstyti taip: ^s-3ea1f6a2b58bf8fda079f88a
 
 
 „2) tiesiogiai įgyvendindamas įstatymus, Vyriausybės ir savivaldybės tarybos sprendimus, gali kreiptis į valstybinio administravimo subjektus, leisti įsakymus, privalomus savivaldybės administracijos struktūriniams padaliniams, seniūnijoms, į struktūrinius padalinius neįeinantiems valstybės tarnautojams, taip pat jam priskirtos kompetencijos klausimais – savivaldybės gyventojams ir kitiems savivaldybės teritorijoje esantiems subjektams;“.
 
 
-2. Pakeisti 29 straipsnio 8 dalies 6 punktą ir jį išdėstyti taip: ^s-a78348935c69c74bf255b14d
+2. Pakeisti [[latest/TAR.D0CD0966D67F|29 straipsnio 8 dalies 6 punktą]] ir jį išdėstyti taip: ^s-a78348935c69c74bf255b14d
 
 
 „6) įstatymų nustatyta tvarka priima į pareigas ir iš jų atleidžia savivaldybės administracijos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartį, seniūnijų – biudžetinių įstaigų – vadovus – seniūnus, atlieka kitas [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] ir savivaldybės tarybos jam priskirtas personalo valdymo funkcijas;“.
@@ -224,10 +224,10 @@ Pakeisti [[#^s-c6d053e340fcec94310e7c14|15 straipsnio 6 dalį]] ir ją išdėsty
 ### 12 straipsnis. 31 straipsnio pakeitimas ^s-360e3c0eeedd67f2b0db6ae0
 
 
-Pakeisti 31 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.D0CD0966D67F#^s-abf4b93075623c5138db8454|31 straipsnį]] ir jį išdėstyti taip:
 
 
-„31 straipsnis. Seniūnija ir seniūnas
+„[[latest/TAR.D0CD0966D67F#^s-abf4b93075623c5138db8454|31 straipsnis]]. Seniūnija ir seniūnas
 
 
 1. Seniūnijos gali būti šių formų: ^s-66d51d595bf83dd24fe1bde8
@@ -275,7 +275,7 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 8. Seniūnas yra seniūnijos vadovas, seniūnijai skirtų asignavimų valdytojas. Seniūnas yra valstybės tarnautojas: seniūnijos – savivaldybės administracijos filialo – seniūnas yra karjeros valstybės tarnautojas, seniūnijos – biudžetinės įstaigos – seniūnas yra valstybės tarnautojas – įstaigos vadovas. ^s-dff3b16a98c63c993cc89374
 
 
-9. Seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymu]]. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant [[latest/TAR.D3ED3792F52B#^s-11de77f5953acf8baebceeca|Valstybės tarnybos įstatymo 16 straipsnio]] 2 ir [[#^s-2c31412efd80332ae27fc2bb|3 dalyse]] numatytas garantijas arba kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, taikomus kitos formos seniūnijos vadovui. Be konkurso toje pačioje savivaldybėje seniūną galima perkelti į laisvas kitos seniūnijos seniūno pareigas, jeigu asmuo atitinka pareigybės aprašyme nustatytus reikalavimus. Į seniūno pareigas negali būti priimamas asmuo taikant Valstybės tarnybos įstatymo 43 straipsnio 1 dalyje numatytą garantiją. Priimant į seniūno pareigas taip pat netaikomos [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo, išskyrus laikiną perkėlimą į kitas pareigas, kai yra tarnybinė būtinybė. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių; ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos gyvenamųjų vietovių bendruomenių atstovai – seniūnaičiai. ^s-8a31bef026a28623a9ab2f12
+9. Seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymu]]. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant [[latest/TAR.D3ED3792F52B#^s-11de77f5953acf8baebceeca|Valstybės tarnybos įstatymo 16 straipsnio]] [[latest/TAR.D3ED3792F52B#^s-22681bb4529b35a4f00890f4|2]] ir [[latest/TAR.D3ED3792F52B#^s-1582b1478acfd774f134f1db|3]] dalyse numatytas garantijas arba kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, taikomus kitos formos seniūnijos vadovui. Be konkurso toje pačioje savivaldybėje seniūną galima perkelti į laisvas kitos seniūnijos seniūno pareigas, jeigu asmuo atitinka pareigybės aprašyme nustatytus reikalavimus. Į seniūno pareigas negali būti priimamas asmuo taikant [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo 43 straipsnio 1 dalyje]] numatytą garantiją. Priimant į seniūno pareigas taip pat netaikomos [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo, išskyrus laikiną perkėlimą į kitas pareigas, kai yra tarnybinė būtinybė. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių; ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos gyvenamųjų vietovių bendruomenių atstovai – seniūnaičiai. ^s-8a31bef026a28623a9ab2f12
 
 
 10. Kai keičiama seniūnijos forma, seniūnas turi teisę būti be konkurso paskirtas į kitos formos seniūnijos seniūno pareigas, išskyrus atvejus, kai seniūno pareigas einantis asmuo neatitinka reikalavimų, taikomų kitos formos seniūnijos vadovui. ^s-00c60ea98d67e6ed5dc81361
@@ -297,10 +297,10 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 ### 13 straipsnis. 32 straipsnio pakeitimas ^s-9930c27a851231f67f260e36
 
 
-Pakeisti 32 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.D0CD0966D67F#^s-988f990374c51c1b850967b2|32 straipsnį]] ir jį išdėstyti taip:
 
 
-„32 straipsnis. Seniūno funkcijos
+„[[latest/TAR.D0CD0966D67F#^s-988f990374c51c1b850967b2|32 straipsnis]]. Seniūno funkcijos
 
 
 Seniūnas:
@@ -334,10 +334,10 @@ Seniūnas:
 ### 14 straipsnis. Įstatymo papildymas 321 straipsniu ^s-ad4d5e869ebbaae338de9304
 
 
-Papildyti Įstatymą 321 straipsniu:
+Papildyti Įstatymą [[latest/TAR.D0CD0966D67F|321 straipsniu]]:
 
 
-„321 straipsnis. Seniūnijos funkcijos
+„[[latest/TAR.D0CD0966D67F|321 straipsnis]]. Seniūnijos funkcijos
 
 
 1. Seniūnija: ^s-330a09c2d56f4b0d521b753d
@@ -355,7 +355,7 @@ Papildyti Įstatymą 321 straipsniu:
 2. Seniūnija seniūnijos nuostatuose nustatyta tvarka ir mastu: ^s-b52e9d0d5cf9dcf6bad4532c
 
 
-1) dalyvauja organizuojant viešųjų paslaugų teikimą ir (arba) prižiūrint, kaip teikiamos viešosios paslaugos, teikia pasiūlymus savivaldybės administracijai dėl viešųjų paslaugų teikimo gerinimo, o šio įstatymo 8 straipsnio 2 dalyje numatytais atvejais pati teikia šias paslaugas; ^s-39d22a42ef2679bb16ddabbf
+1) dalyvauja organizuojant viešųjų paslaugų teikimą ir (arba) prižiūrint, kaip teikiamos viešosios paslaugos, teikia pasiūlymus savivaldybės administracijai [dėl viešųjų paslaugų teikimo gerinimo, o šio įstatymo 8 straipsnio 2 dalyje](https://e-tar.lt/portal/lt/legalAct/2de2a1503d1a11e6bcc5c96b48152012) numatytais atvejais pati teikia šias paslaugas; ^s-39d22a42ef2679bb16ddabbf
 
 
 2) dalyvauja rengiant ir įgyvendinant gyventojų užimtumo programas; ^s-eebb099c9d88003ae4e5038f
@@ -407,10 +407,10 @@ Papildyti Įstatymą 321 straipsniu:
 ### 15 straipsnis. 33 straipsnio pakeitimas ^s-9425432916730b60c68a49bd
 
 
-Pakeisti 33 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.D0CD0966D67F#^s-18cf86a4de32ae85f5c2ce2c|33 straipsnį]] ir jį išdėstyti taip:
 
 
-„33 straipsnis. Seniūnaičio statusas
+„[[latest/TAR.D0CD0966D67F#^s-18cf86a4de32ae85f5c2ce2c|33 straipsnis]]. Seniūnaičio statusas
 
 
 1. Iš gyvenamųjų vietovių ar jų dalių yra sudaromos seniūnaitijos. Seniūnaitijos sudaromos nepriklausomai nuo to, ar steigiamos seniūnijos, ar nesteigiamos. Seniūnaitijų sudarymo projektą tvirtina meras savivaldybės administracijos direktoriaus teikimu. ^s-84d93bd19950b10ea00d1252
@@ -480,10 +480,10 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 ### 16 straipsnis. 33 straipsnio pakeitimas ^s-f65a9df7c4562fc32c5add8c
 
 
-Pakeisti 33 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.D0CD0966D67F#^s-18cf86a4de32ae85f5c2ce2c|33 straipsnį]] ir jį išdėstyti taip:
 
 
-„33 straipsnis. Seniūnaitijų sudarymas ir seniūnaičio statusas
+„[[latest/TAR.D0CD0966D67F#^s-18cf86a4de32ae85f5c2ce2c|33 straipsnis]]. Seniūnaitijų sudarymas ir seniūnaičio statusas
 
 
 1. Iš gyvenamųjų vietovių ar jų dalių (vienos ar kelių bendras ribas turinčių gyvenamųjų vietovių, vienos ar kelių bendras ribas turinčių gyvenamosios vietovės dalių) yra sudaromos seniūnaitijos. Sudarant seniūnaitijas, seniūnaitijos gyventojų, susietų kaimynystės ryšiais ir poreikiais, skaičius paprastai turi būti ne didesnis kaip 500 gyventojų. Sudarant seniūnaitijas miestuose iš vienos ar kelių bendras ribas turinčių kompaktiškai užstatytų teritorijų, kuriose gyventojų tankis ne mažesnis kaip 100 gyventojų / ha, gyventojų, susietų kaimynystės ryšiais ir poreikiais, skaičius paprastai turi būti ne didesnis kaip 3 000 gyventojų. Seniūnaitijos sudaromos nepriklausomai nuo to, ar steigiamos seniūnijos, ar nesteigiamos. Gyvenamųjų vietovių ar jų dalių suskirstymą (sugrupavimą) į seniūnaitijas (seniūnaitijų sudarymo projektą) tvirtina meras savivaldybės administracijos direktoriaus teikimu. ^s-df905aadeef7d8290f0a04b4
@@ -556,10 +556,10 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 ### 17 straipsnis. 34 straipsnio pakeitimas ^s-30734550e15e096896db195c
 
 
-Pakeisti 34 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.D0CD0966D67F#^s-8d1cc1fc0cee3fc787c5c548|34 straipsnį]] ir jį išdėstyti taip:
 
 
-„34 straipsnis. Seniūnaičio teisės ir pareigos
+„[[latest/TAR.D0CD0966D67F#^s-8d1cc1fc0cee3fc787c5c548|34 straipsnis]]. Seniūnaičio teisės ir pareigos
 
 
 1. Seniūnaitis, atstovaudamas seniūnaitijos gyventojų interesams seniūnijoje, savivaldybės institucijose ir savivaldybės teritorijoje veikiančiose valstybės įstaigose: ^s-a3e2e86ef68d1c0404738aa8
@@ -608,10 +608,10 @@ Pakeisti 34 straipsnį ir jį išdėstyti taip:
 ### 18 straipsnis. 35 straipsnio pakeitimas ^s-aac083fe7b88a9abf0a639ae
 
 
-Pakeisti 35 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.D0CD0966D67F#^s-68102232ebd5ea98534721c0|35 straipsnį]] ir jį išdėstyti taip:
 
 
-„35 straipsnis. Seniūnaičių sueiga
+„[[latest/TAR.D0CD0966D67F#^s-68102232ebd5ea98534721c0|35 straipsnis]]. Seniūnaičių sueiga
 
 
 1. Seniūnaičiai seniūnijos aptarnaujamos teritorijos gyvenamųjų vietovių ar jų dalių bendruomenėms rūpimus klausimus svarsto ir sprendimus priima seniūnaičių sueigoje. Sueigoje seniūnaičiai aptaria ir priima sprendimus ir dėl seniūnijos metinio veiklos plano projekto, ir dėl šio plano įgyvendinimo ataskaitos. Tais atvejais, kai seniūnijos nesteigiamos, meras savivaldybės administracijos direktoriaus teikimu, atsižvelgdamas į gyvenamųjų vietovių ar jų dalių bendruomenių poreikius, nustato, kokių gyvenamųjų vietovių ar jų dalių seniūnaičiai sudaro seniūnaičių sueigą. ^s-12896e6461853f4393e3c47e
@@ -639,13 +639,13 @@ Pakeisti 35 straipsnį ir jį išdėstyti taip:
 ### 19 straipsnis. 50 straipsnio pakeitimas ^s-2a82770dfd67488b1c7480ac
 
 
-1. Pakeisti 50 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip: ^s-80db28cfe44fd3e06900b7bb
+1. Pakeisti [[latest/TAR.D0CD0966D67F|50 straipsnio 1 dalies 5 punktą]] ir jį išdėstyti taip: ^s-80db28cfe44fd3e06900b7bb
 
 
 „5) biudžetinių įstaigų pajamos už teikiamas paslaugas;“.
 
 
-2. Pakeisti 50 straipsnio 3 dalį ir ją išdėstyti taip: ^s-5be3168baa01a044d88b5720
+2. Pakeisti [[latest/TAR.D0CD0966D67F#^s-b32f5e73ab9b69212f87758d|50 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-5be3168baa01a044d88b5720
 
 
 „3. Savivaldybių biudžetų lėšos gali būti naudojamos tik savivaldybių funkcijoms: savivaldybių tarybų ar jų vykdomųjų institucijų patvirtintiems savivaldybių planavimo dokumentams įgyvendinti, biudžetinėms įstaigoms išlaikyti ir viešųjų paslaugų teikimui organizuoti.“
@@ -658,7 +658,7 @@ Pakeisti 35 straipsnį ir jį išdėstyti taip:
 1. Šis įstatymas, išskyrus [[#^s-0b8647cc021d0d539202424d|šio straipsnio 4 dalį]] ir šio įstatymo [[#^s-f65a9df7c4562fc32c5add8c|16 straipsnį]], įsigalioja 2017 m. sausio 1 d. ^s-53d50927e5985f25f18f3a3e
 
 
-2. Šio įstatymo [[#^s-9425432916730b60c68a49bd|15 straipsnyje]] išdėstyto [[latest/TAR.D0CD0966D67F#^s-18cf86a4de32ae85f5c2ce2c|Lietuvos Respublikos vietos savivaldos įstatymo 33 straipsnio]] 6, 7, 8 dalių nuostatos dėl apribojimų asmenims būti renkamiems seniūnaičiais taikomos tik po šio įstatymo įsigaliojimo renkamiems seniūnaičiams. ^s-48c187a4730f214bb9f047f3
+2. Šio įstatymo [[#^s-9425432916730b60c68a49bd|15 straipsnyje]] išdėstyto [[latest/TAR.D0CD0966D67F#^s-18cf86a4de32ae85f5c2ce2c|Lietuvos Respublikos vietos savivaldos įstatymo 33 straipsnio]] [[latest/TAR.D0CD0966D67F|6]], [[latest/TAR.D0CD0966D67F|7]], [[latest/TAR.D0CD0966D67F|8]] dalių nuostatos dėl apribojimų asmenims būti renkamiems seniūnaičiais taikomos tik po šio įstatymo įsigaliojimo renkamiems seniūnaičiams. ^s-48c187a4730f214bb9f047f3
 
 
 3. Šio įstatymo [[#^s-f65a9df7c4562fc32c5add8c|16 straipsnis]] taikomas savivaldybėse, kuriose į pirmą posėdį susirinko 2019 metais išrinktos savivaldybių tarybos. ^s-4c1d09c0e2a974d88884c1d5

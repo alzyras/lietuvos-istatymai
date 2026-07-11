@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos žemės mokesčio įstatymo 12 ir 13 straipsn
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokesčių administravimo įstatymo
 
 ## Šį įstatymą cituoja
 

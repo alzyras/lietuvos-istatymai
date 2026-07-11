@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos 2013 metų valstybės biudžeto ir savivaldyb
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.EBB4FD337ADE|Lietuvos Respublikos finansinio tvarumo įstatymas]] - 5 citatos - Finansinio tvarumo įstatymas
-- [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymas]] - 6 citatos - Mokslo ir studijų įstatyme
+- [[latest/TAR.EBB4FD337ADE|Lietuvos Respublikos finansinio tvarumo įstatymas]] - 3 citatos - Finansinio tvarumo įstatymas
+- [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymas]] - 3 citatos - Lietuvos Respublikos mokslo ir studijų įstatymo
 
 ## Šį įstatymą cituoja
 

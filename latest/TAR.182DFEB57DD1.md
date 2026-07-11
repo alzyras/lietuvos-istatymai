@@ -60,7 +60,7 @@ Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 3 straipsnis. 6 straipsnio papildymas ir pakeitimas ^s-2e9db230c9f6443a78fc56e8
 
 
-Papildyti [[#^s-19555d91a0a4c6bbea66abc7|6 straipsnį]] nauju [[#^s-5eaeb6edfc96295d4d31c51f|1 punktu]], buvusius 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, [[#^s-48104e255217c24f5ad838f7|13 punktus]] laikyti atitinkamai 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, [[#^s-eb0f5ad3c4772de5de3430bc|14 punktais]] ir visą straipsnį išdėstyti taip:
+Papildyti [[#^s-19555d91a0a4c6bbea66abc7|6 straipsnį]] nauju [[#^s-5eaeb6edfc96295d4d31c51f|1 punktu]], buvusius 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 punktus laikyti atitinkamai 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 punktais ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-19555d91a0a4c6bbea66abc7|6 straipsnis]]. Savarankiškosios savivaldybių funkcijos
@@ -138,7 +138,7 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 1. 14 straipsnio 2 dalyje vietoj skaičiaus ir žodžio „3 dienas“ įrašyti skaičių ir žodį „14 dienų“ ir šią dalį išdėstyti taip: ^s-61fa1f1ac5bc0e651df8c0bf
 
 
-„2. Pirmąjį naujai išrinktos savivaldybės tarybos posėdį šaukia apygardos rinkimų komisijos pirmininkas ne anksčiau kaip ankstesnės kadencijos tarybos įgaliojimų paskutinę dieną ir ne vėliau kaip praėjus 7 kalendorinėms dienoms nuo ankstesnės kadencijos tarybos įgaliojimų paskutinės dienos, kuri nustatoma vadovaujantis Lietuvos Respublikos Konstitucijos 119 straipsniu, o jeigu rinkimai vyko naujai įsteigtoje savivaldybėje arba savivaldybėje, kurioje buvo įvestas tiesioginis valdymas ar buvo surengti pakartotiniai rinkimai Savivaldybių tarybų rinkimų įstatymo 85 straipsnyje numatytu atveju, – ne vėliau kaip per dvi savaites po rinkimų rezultatų paskelbimo. Apie pirmojo posėdžio sušaukimo laiką ir vietą apygardos rinkimų komisijos pirmininkas ne vėliau kaip prieš 14 dienų paskelbia per visuomenės informavimo priemones. Jeigu apygardos rinkimų komisijos pirmininkas naujai išrinktos savivaldybės tarybos pirmojo posėdžio nesušaukia iki šioje dalyje nustatyto termino pabaigos, naujai išrinktos savivaldybės tarybos nariai renkasi patys kitą dieną pasibaigus šiam terminui. Šiuo atveju posėdžiui pirmininkauja pagal amžių vyriausias tarybos narys.“
+„2. Pirmąjį naujai išrinktos savivaldybės tarybos posėdį šaukia apygardos rinkimų komisijos pirmininkas ne anksčiau kaip ankstesnės kadencijos tarybos įgaliojimų paskutinę dieną ir ne vėliau kaip praėjus 7 kalendorinėms dienoms nuo ankstesnės kadencijos tarybos įgaliojimų paskutinės dienos, kuri nustatoma vadovaujantis Lietuvos Respublikos Konstitucijos 119 straipsniu, o jeigu rinkimai vyko naujai įsteigtoje savivaldybėje arba savivaldybėje, kurioje buvo įvestas tiesioginis valdymas ar buvo surengti pakartotiniai rinkimai [Savivaldybių tarybų rinkimų įstatymo 85 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC) numatytu atveju, – ne vėliau kaip per dvi savaites po rinkimų rezultatų paskelbimo. Apie pirmojo posėdžio sušaukimo laiką ir vietą apygardos rinkimų komisijos pirmininkas ne vėliau kaip prieš 14 dienų paskelbia per visuomenės informavimo priemones. Jeigu apygardos rinkimų komisijos pirmininkas naujai išrinktos savivaldybės tarybos pirmojo posėdžio nesušaukia iki šioje dalyje nustatyto termino pabaigos, naujai išrinktos savivaldybės tarybos nariai renkasi patys kitą dieną pasibaigus šiam terminui. Šiuo atveju posėdžiui pirmininkauja pagal amžių vyriausias tarybos narys.“
 
 
 2. Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip: ^s-7b1aee7624f75bd825edad18
@@ -156,7 +156,7 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 3. 14 straipsnio 6 dalyje išbraukti žodį „valdyba“, vietoj žodžio „administratorius“ įrašyti žodžius „administracijos direktorius“ ir šią dalį išdėstyti taip: ^s-ed814d84ba3dfbf5c48cceea
 
 
-„6. Savivaldybės taryboje svarstytinus klausimus kartu su sprendimų projektais merui pateikia komitetai, komisijos, tarybos nariai, savivaldybės kontrolierius, savivaldybės administracijos direktorius. Savivaldybės tarybos posėdžio darbotvarkę sudaro meras. Ji gali būti papildyta ar pakeista savivaldybės tarybos sprendimu komiteto, komisijos, frakcijos ir 1/[[#^s-ed814d84ba3dfbf5c48cceea|3 dalyvaujančių]] posėdyje tarybos narių siūlymu.“
+„6. Savivaldybės taryboje svarstytinus klausimus kartu su sprendimų projektais merui pateikia komitetai, komisijos, tarybos nariai, savivaldybės kontrolierius, savivaldybės administracijos direktorius. Savivaldybės tarybos posėdžio darbotvarkę sudaro meras. Ji gali būti papildyta ar pakeista savivaldybės tarybos sprendimu komiteto, komisijos, frakcijos ir 1/3 dalyvaujančių posėdyje tarybos narių siūlymu.“
 
 
 4. 14 straipsnio 8 dalyje vietoj žodžio „administratoriaus“ įrašyti žodžius „savivaldybės administracijos direktoriaus“ ir šią dalį išdėstyti taip: ^s-612126f23914c41700628835
@@ -182,7 +182,7 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 16 straipsnio 1 dalyje vietoj žodžio „administratoriaus“ įrašyti žodžius „administracijos direktoriaus“ ir šią dalį išdėstyti taip:
 
 
-„1. Savivaldybės taryba savo įgaliojimų laikui prie tarybos sudaro Administracinę komisiją. Ši komisija nagrinėja Administracinių teisės pažeidimų kodekso jos kompetencijai priskirtas administracinių teisės pažeidimų bylas. Savivaldybės taryba šios komisijos pirmininku mero teikimu skiria tarybos narį. Komisijos atsakingojo sekretoriaus pareigas atlieka savivaldybės administracijos direktoriaus paskirtas savivaldybės tarnautojas, šios funkcijos įrašomos į jo pareigybės aprašymą.“
+„1. Savivaldybės taryba savo įgaliojimų laikui prie tarybos sudaro Administracinę komisiją. Ši komisija nagrinėja [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) jos kompetencijai priskirtas administracinių teisės pažeidimų bylas. Savivaldybės taryba šios komisijos pirmininku mero teikimu skiria tarybos narį. Komisijos atsakingojo sekretoriaus pareigas atlieka savivaldybės administracijos direktoriaus paskirtas savivaldybės tarnautojas, šios funkcijos įrašomos į jo pareigybės aprašymą.“
 
 
 
@@ -309,7 +309,7 @@ Savivaldybės taryba:
 37) priima sprendimus dėl savivaldybės valdomo išlikusio nekilnojamojo turto nuosavybės teisių atkūrimo religinėms bendrijoms ir bendruomenėms; ^s-417987ac1eb525badc452f39
 
 
-38) priima sprendimus dėl kompensacijų tam tikroms vartotojų grupėms mokėjimo už perkamą kurą, elektros ir šilumos energiją, karštą vandenį bei gamtines dujas; ^s-3610497690aa205e5ccbe527
+38) priima sprendimus [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) tam tikroms vartotojų grupėms mokėjimo už perkamą kurą, elektros ir šilumos energiją, karštą vandenį bei gamtines dujas; ^s-3610497690aa205e5ccbe527
 
 
 39) priima sprendimus dėl koncesijų naudotis savivaldybės objektais suteikimo tikslingumo ir atlyginimo dydžio nustatymo; ^s-1807d5958e03ec6d97b6cf46

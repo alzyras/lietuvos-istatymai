@@ -66,7 +66,7 @@ Vilnius
 Papildyti [[#^s-45553f37dfa0774b086a3373|7 straipsnį]] nauju 1 punktu:
 
 
-„1) apdovanotiems Vyčio Kryžiaus ordinu ir Vyčio Kryžiumi, žuvusių (mirusių) tokių fizinių asmenų sutuoktiniams, o jeigu sutuoktinio nėra, – tėvams (įtėviams) arba vaikams (įvaikiams) – Vyriausybės nustatyto dydžio vienas žemės sklypas individualiai statybai, jeigu jų prašymai dėl žemės sklypo suteikimo nuosavybėn neatlygintinai pateikti iki [[latest/TAR.101222871FF8|Žemės reformos įstatymo 7 straipsnio pakeitimo įstatymo]] įsigaliojimo (2002 m. liepos 3 d.). Šie žemės sklypai turi būti suprojektuoti iki 2003 m. gruodžio 31 d. savivaldybių tarybų patvirtintose teritorijose.“
+„1) apdovanotiems Vyčio Kryžiaus ordinu ir Vyčio Kryžiumi, žuvusių (mirusių) tokių fizinių asmenų sutuoktiniams, o jeigu sutuoktinio nėra, – tėvams (įtėviams) arba vaikams (įvaikiams) – Vyriausybės nustatyto dydžio vienas žemės sklypas individualiai statybai, jeigu jų prašymai [dėl žemės sklypo suteikimo nuosavybėn neatlygintinai pateikti iki Žemės reformos įstatymo 7 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.993F7C67DF28) pakeitimo įstatymo įsigaliojimo (2002 m. liepos 3 d.). Šie žemės sklypai turi būti suprojektuoti iki 2003 m. gruodžio 31 d. savivaldybių tarybų patvirtintose teritorijose.“
 
 
 
@@ -126,7 +126,7 @@ Papildyti [[#^s-45553f37dfa0774b086a3373|7 straipsnį]] nauju 1 punktu:
 3. Pakeisti 10 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip: ^s-553d7c217a5589dc6ef17fea
 
 
-„6) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems arba parduodami žemės ūkio veiklai naudojami žemės sklypai Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio 13 dalyje nurodytiems fiziniams asmenims, taip pat parduodami įstatymų nustatyta tvarka valstiečių ūkiui steigti suteikti žemės sklypai, priskirti valstybės išperkamai žemei, šiuos sklypus naudojantiems fiziniams asmenims;“.
+„6) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems arba parduodami žemės ūkio veiklai naudojami žemės sklypai [[latest/TAR.8A16A03D98D4|Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio 13 dalyje]] nurodytiems fiziniams asmenims, taip pat parduodami įstatymų nustatyta tvarka valstiečių ūkiui steigti suteikti žemės sklypai, priskirti valstybės išperkamai žemei, šiuos sklypus naudojantiems fiziniams asmenims;“.
 
 
 4. 10 straipsnio 1 dalies 7 punkte vietoj žodžio „piliečiams“ įrašyti žodį „asmenims“ ir šį punktą išdėstyti taip: ^s-23fc4b15daf4221139811595
@@ -135,7 +135,7 @@ Papildyti [[#^s-45553f37dfa0774b086a3373|7 straipsnį]] nauju 1 punktu:
 „7) perduodami nuosavybėn neatlygintinai arba parduodami įstatymų nustatyta tvarka suteikti asmeniniam ūkiui žemės sklypai šiuos žemės sklypus naudojantiems asmenims;“.
 
 
-5. Papildyti [[#^s-1c3c55130ac8e2b19de08834|10 straipsnio 1 dalį]] naujais 11 ir [[#^s-224b1f655771d668f8eac289|12 punktais]]: ^s-11064d350994b04cf5c4d296
+5. Papildyti [[#^s-1c3c55130ac8e2b19de08834|10 straipsnio 1 dalį]] naujais 11 ir 12 punktais: ^s-11064d350994b04cf5c4d296
 
 
 „11) parduodama žemės ūkio paskirties žemė Valstybės paramos įsigyjant žemės ūkio paskirties žemę laikinajame įstatyme nurodytiems asmenims, naudojantiems šią žemę ne mažiau kaip 2 metus iš eilės;
@@ -144,7 +144,7 @@ Papildyti [[#^s-45553f37dfa0774b086a3373|7 straipsnį]] nauju 1 punktu:
 12) parduodama žemės ūkio paskirties žemė Valstybės paramos įsigyjant žemės ūkio paskirties žemę laikinajame įstatyme nurodytiems asmenims, naudojantiems žemės sklypus, kurie ribojasi su parduodamu žemės sklypu;“. ^s-224b1f655771d668f8eac289
 
 
-6. [[#^s-1c3c55130ac8e2b19de08834|10 straipsnio 1 dalies]] buvusius 11 ir 12 punktus laikyti 13 ir [[#^s-442c54973c1a12a374483f1f|14 punktais]], juos pakeisti ir išdėstyti taip: ^s-82349bbc469fcb8316f38860
+6. [[#^s-1c3c55130ac8e2b19de08834|10 straipsnio 1 dalies]] buvusius 11 ir 12 punktus laikyti 13 ir 14 punktais, juos pakeisti ir išdėstyti taip: ^s-82349bbc469fcb8316f38860
 
 
 „13) parduodama žemė fiziniams asmenims, gyvenantiems toje kadastrinėje vietovėje, arba asmenims, kurie toje kadastrinėje vietovėje įsigijo nuosavybėn gamybinius pastatus, parduodami šiems pastatams eksploatuoti reikalingi žemės sklypai;
@@ -235,7 +235,7 @@ Prašymus susigrąžinti nuosavybėn, gauti nuosavybėn neatlygintinai, pirkti v
 2. 18 straipsnio 2 dalies antrame sakinyje išbraukti žodį „piliečių“ ir šią dalį išdėstyti taip: ^s-0bf6f4d00223d42da97bb125
 
 
-„2. Skundus dėl žemės reformos metu suformuotų žemėnaudų tinkamumo, žemės privatizavimui ir nuomai parengtų dokumentų bei įstatymų ir kitų teisės aktų reikalavimų neatitikimo nagrinėja apskričių viršininkai ir Vyriausybės įgaliota institucija. Vyriausybės įgaliota institucija nenagrinėja apskrities viršininko neapsvarstytų prašymų ir skundų.“
+„2. Skundus [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) metu suformuotų žemėnaudų tinkamumo, žemės privatizavimui ir nuomai parengtų dokumentų bei įstatymų ir kitų teisės aktų reikalavimų neatitikimo nagrinėja apskričių viršininkai ir Vyriausybės įgaliota institucija. Vyriausybės įgaliota institucija nenagrinėja apskrities viršininko neapsvarstytų prašymų ir skundų.“
 
 
 

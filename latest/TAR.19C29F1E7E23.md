@@ -51,7 +51,7 @@ Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip:
 1. 12 straipsnio 2 dalį pripažinti netekusia galios. ^s-3b58101417aa3b95111c68dc
 
 
-2. Buvusias 3, 4, 5 ir 6 dalis laikyti atitinkamai 2, 3, 4 ir 5 dalimis. ^s-8177bf5e17cc15c1ab67a16e
+2. Buvusias [[#^s-0e91d4cac34db22807656a28|3]], [[#^s-59ffdfdc5da7dbf4200b3afe|4]], 5 ir 6 dalis laikyti atitinkamai 2, [[#^s-0e91d4cac34db22807656a28|3]], [[#^s-59ffdfdc5da7dbf4200b3afe|4]] ir 5 dalimis. ^s-8177bf5e17cc15c1ab67a16e
 
 
 3. 12 straipsnio 2 dalyje išbraukti žodžius „Nukentėjusiesiems, kuriems žalos atlyginimas iki šio įstatymo įsigaliojimo buvo paskirtas“ ir šią dalį išdėstyti taip: ^s-0e91d4cac34db22807656a28

@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-8f3a2143a12bf39fec40b34a
 
 
-1. Papildyti 2 straipsnį nauja [[#^s-320a114c974374e4b70f5f33|1 dalimi]]: ^s-320a114c974374e4b70f5f33
+1. Papildyti 2 straipsnį nauja 1 dalimi: ^s-320a114c974374e4b70f5f33
 
 
 „1. Elektroninis keleivinio transporto bilietas – skaitmeninėje duomenų bazėje saugomas įrašas, patvirtinantis, kad yra sumokėta už vežimo paslaugą.“

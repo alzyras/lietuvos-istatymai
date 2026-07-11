@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.1559303036A8#^s-a26cbd7ba9902e0a22458ffe|Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymas]] - 2 citatos - LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.1559303036A8#^s-a26cbd7ba9902e0a22458ffe|Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymas]] - LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS

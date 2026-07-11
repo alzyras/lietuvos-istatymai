@@ -43,14 +43,14 @@ Pripažinti netekusiais galios:
 1) Lietuvos Respublikos prekybos įstatymą (Žin., 1995, Nr. 10-204); ^s-173a50b3f9fd81d3b4cbf3c1
 
 
-2) Lietuvos Respublikos prekybos įstatymo papildymo 71 straipsniu ir 2, 4, 8, 11, 40, 41, 43 straipsnių pakeitimo ir papildymo įstatymą (Žin., 1998, Nr. 112-3101). ^s-ceaccfdf1f556cf359df5b1c
+2) [Lietuvos Respublikos prekybos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.90F753E076E0) papildymo 71 straipsniu ir [2](https://e-tar.lt/portal/lt/legalAct/TAR.90F753E076E0), [4](https://e-tar.lt/portal/lt/legalAct/TAR.90F753E076E0), [8](https://e-tar.lt/portal/lt/legalAct/TAR.90F753E076E0), [11](https://e-tar.lt/portal/lt/legalAct/TAR.90F753E076E0), [40](https://e-tar.lt/portal/lt/legalAct/TAR.90F753E076E0), [41](https://e-tar.lt/portal/lt/legalAct/TAR.90F753E076E0), [43](https://e-tar.lt/portal/lt/legalAct/TAR.90F753E076E0) straipsnių pakeitimo ir papildymo įstatymą (Žin., 1998, Nr. 112-3101). ^s-ceaccfdf1f556cf359df5b1c
 
 
 
 ### 2 straipsnis.         Lietuvos Respublikos Seimo nutarimo „Dėl Lietuvos Respublikos prekybos įstatymo įgyvendinimo“ pripažinimas netekusiu galios ^s-5ee7878d04815e22f7c095cf
 
 
-Pripažinti netekusiu galios Lietuvos Respublikos Seimo nutarimą „Dėl Lietuvos Respublikos prekybos įstatymo įgyvendinimo“ (Žin., 1995, Nr. 10-205).
+Pripažinti netekusiu galios Lietuvos Respublikos Seimo nutarimą [„Dėl Lietuvos Respublikos prekybos įstatymo įgyvendinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.27F9DFDE567D) (Žin., 1995, Nr. 10-205).
 
 
 

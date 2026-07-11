@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-443086a744b2e422dbe16020
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gruodžio 11 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1991 m. Konvenciją dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste“, ratifikuoja 1991 m. Konvenciją dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gruodžio 11 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1991 m. Konvenciją dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste“](https://e-tar.lt/portal/lt/legalAct/TAR.A5FB26E730BA), ratifikuoja 1991 m. Konvenciją dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste.
 
 
 

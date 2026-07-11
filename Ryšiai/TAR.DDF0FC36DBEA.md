@@ -9,13 +9,15 @@ pavadinimas: "Lietuvos Respublikos šilumos ūkio įstatymo 2, 3, 7, 8, 10, 32 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.9A844F180551|Lietuvos Respublikos aplinkos oro apsaugos įstatymas]] - 2 citatos - Aplinkos oro apsaugos įstatymo
-- [[latest/TAR.A516DE6B7EC2|Lietuvos Respublikos energijos išteklių rinkos įstatymas]] - 2 citatos - Energijos išteklių rinkos įstatyme
-- [[latest/TAR.0539E2FEB29E|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas]] - 2 citatos - Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo
-- [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymas]] - 2 citatos - Teritorijų planavimo įstatymo
-- [[latest/TAR.F62AD965997D#^s-16453507bf47afa5ec5b1b84|Lietuvos Respublikos šilumos ūkio įstatymas]] - 4 citatos - Lietuvos Respublikos šilumos ūkio įstatymo 32 straipsnis
+- [[latest/TAR.9A844F180551|Lietuvos Respublikos aplinkos oro apsaugos įstatymas]] - Aplinkos oro apsaugos įstatymo
+- [[latest/TAR.A516DE6B7EC2|Lietuvos Respublikos energijos išteklių rinkos įstatymas]] - Energijos išteklių rinkos įstatyme
+- [[latest/TAR.0539E2FEB29E|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas]] - Planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo
+- [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Teritorijų planavimo įstatymo
+- [[latest/TAR.F62AD965997D|Lietuvos Respublikos šilumos ūkio įstatymas]] - Lietuvos Respublikos šilumos ūkio įstatymo 7 straipsnio 1 dalies 6 punkte
+- [[latest/TAR.F62AD965997D#^s-16453507bf47afa5ec5b1b84|Lietuvos Respublikos šilumos ūkio įstatymas]] - 2 citatos - Lietuvos Respublikos šilumos ūkio įstatymo 32 straipsnis
+- [[latest/TAR.F62AD965997D#^s-7950a617678efde0462a1bb2|Lietuvos Respublikos šilumos ūkio įstatymas]] - 2 citatos - 4
+- [[latest/TAR.F62AD965997D#^s-9f53439328fdd9acc1837e8e|Lietuvos Respublikos šilumos ūkio įstatymas]] - 2 citatos - 3
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F62AD965997D#^s-14a319ec65192c059a536c25|Lietuvos Respublikos šilumos ūkio įstatymas]] - Įstatymas Nr. XII-492
-- [[latest/TAR.F62AD965997D#^s-3bceadca3c08d4cc9e22d39b|Lietuvos Respublikos šilumos ūkio įstatymas]] - Įstatymas Nr. XII-492
+_Nėra._

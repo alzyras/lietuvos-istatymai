@@ -38,13 +38,13 @@ DĖL LIETUVOS RESPUBLIKOS ĮMONIŲ ĮSTATYMO IR LIETUVOS RESPUBLIKOS ĮMONIŲ RE
 Lietuvos Respublikos Seimas nutaria:
 
 
-1. Papildyti Lietuvos Respublikos įmonių įstatymo (Žin., 1990, Nr. 14-395, Nr. 23-573, Nr. 31-749; 1991, Nr. 5-128, Nr. 13-330, Nr. 32-867; 1992, Nr. 20-590, Nr. 33-1009; 1993, Nr. 4-75) 6 straipsnį 7 punktu:
+1. Papildyti [Lietuvos Respublikos įmonių įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B) (Žin., 1990, Nr. 14-395, Nr. 23-573, Nr. 31-749; 1991, Nr. 5-128, Nr. 13-330, Nr. 32-867; 1992, Nr. 20-590, Nr. 33-1009; 1993, Nr. 4-75) 6 straipsnį 7 punktu:
 
 
 „7) kooperatinės bendrovės (kooperatyvai). Jų veikla reglamentuojama atskirame įstatyme.“
 
 
-2. Papildyti Lietuvos Respublikos įmonių rejestro įstatymo (Žin., 1990, Nr. 24-599; 1991, Nr. 8-218) 2 straipsnio 2 punktą 5 papunkčiu:
+2. Papildyti [Lietuvos Respublikos įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) (Žin., 1990, Nr. 24-599; 1991, Nr. 8-218) 2 straipsnio 2 punktą 5 papunkčiu:
 
 
 „5) kooperatinių bendrovių (kooperatyvų) sąjungos (asociacijos).“

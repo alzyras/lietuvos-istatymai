@@ -45,7 +45,7 @@ Vilnius
 „9. Fiksuotas pelno mokestis – pelno mokestis, kuris gali būti mokamas šio Įstatymo 381 straipsnio nustatytais atvejais ir kurio bazė apskaičiuojama priklausomai nuo kiekvieno jūrų laivo, kurio naudingoji talpa ne mažesnė nei 100 naudingosios talpos vienetų, naudingosios talpos.“
 
 
-2. Buvusias [[#^s-43777b5d6695d2bc1b91b36c|2 straipsnio]] 9 ir [[#^s-268d3f12d00e378682ccdd0b|10 dalis]] laikyti atitinkamai 10 ir [[#^s-76f6eb5bafabe07289148c28|11 dalimis]]. ^s-52fb977dfa0e8904013ad9b1
+2. Buvusias [[#^s-43777b5d6695d2bc1b91b36c|2 straipsnio]] 9 ir 10 dalis laikyti atitinkamai 10 ir 11 dalimis. ^s-52fb977dfa0e8904013ad9b1
 
 
 3. Papildyti [[#^s-43777b5d6695d2bc1b91b36c|2 straipsnį]] nauja [[#^s-cfa87f8a90d1d3fc33b56b32|12 dalimi]]: ^s-a88856ce7f127481b2512283
@@ -60,7 +60,7 @@ Vilnius
 „13. Laivybos vienetas – Lietuvos apmokestinamasis vienetas arba užsienio apmokestinamasis vienetas, įregistruotas ar kitaip organizuotas Europos ekonominės erdvės valstybėje narėje ir vykdantis veiklą Lietuvos Respublikos teritorijoje per nuolatinę buveinę, kuris užsiima tarptautiniu vežimu jūrų laivais ir su juo tiesiogiai susijusia veikla.“
 
 
-5. Buvusias [[#^s-43777b5d6695d2bc1b91b36c|2 straipsnio]] 11 ir [[#^s-cfa87f8a90d1d3fc33b56b32|12 dalis]] laikyti atitinkamai 14 ir 15 dalimis. ^s-03e88b3e28666b1ec6568532
+5. Buvusias [[#^s-43777b5d6695d2bc1b91b36c|2 straipsnio]] 11 ir 12 dalis laikyti atitinkamai 14 ir 15 dalimis. ^s-03e88b3e28666b1ec6568532
 
 
 6. Buvusią 2 straipsnio 13 dalį laikyti 16 dalimi, šioje dalyje vietoj žodžių „Neigiamas prestižas“ įrašyti žodžius „Neigiama prestižo vertė“, dalį papildyti sakiniu „Apskaičiuojant grynąjį turtą neatsižvelgiama į įsigyjamojo vieneto turimą turtą, kuris nebuvo pripažintas jo apskaitoje, nes šis turtas neturėjo reikalingų pripažinimo požymių (pagrįstai nebuvo tikimasi, kad vienetas iš turto gaus ekonominės naudos būsimaisiais laikotarpiais, ir nebuvo galima patikimai nustatyti turto įsigijimo kainos), arba buvo gautas neatlyginamai iš valstybės, savivaldybės ar viešojo juridinio asmens, kurio steigėjas yra valstybės ar savivaldybės institucija, tačiau turi tikrąją rinkos kainą“ ir šią dalį išdėstyti taip: ^s-4a4c84a4c2081f8827a6fccd
@@ -338,7 +338,7 @@ Pakeisti bei papildyti 43 straipsnį ir jį išdėstyti taip:
 3. Perleidžiantysis vienetas mokestinio laikotarpio nuostolius, susidariusius iki perleidimo pabaigos ir šio Įstatymo nustatyta tvarka neperkeltus į kitus mokestinius metus, mažina įsigyjančiajam vienetui perleistai veiklai ar veiklos daliai tenkančia mokestinių nuostolių suma. ^s-5d19d35b48d09a141feb0777
 
 
-4. Kai reorganizavimas vykdomas 41 straipsnio 2 dalies 7 punkte nurodytu atveju, vienetai nuostolių perkėlimą tęsia neatsižvelgdami į šio straipsnio 1, 2 ir [[#^s-5d19d35b48d09a141feb0777|3 dalių]] nuostatas. ^s-fa2d24941afb879d33609e04
+4. Kai reorganizavimas vykdomas 41 straipsnio 2 dalies 7 punkte nurodytu atveju, vienetai nuostolių perkėlimą tęsia neatsižvelgdami į šio straipsnio 1, 2 ir 3 dalių nuostatas. ^s-fa2d24941afb879d33609e04
 
 
 5. Jeigu mokestiniu laikotarpiu vienetas pertvarkomas, ankstesnių mokestinių laikotarpių mokestiniai nuostoliai perkeliami tik tais atvejais, jei nepasikeičia vieneto savininkai ir pertvarkytas vienetas tęsia tą pačią ūkinę komercinę veiklą kaip ir iki pertvarkymo. ^s-77c1743ce69ff2d3e8a7a5f1
@@ -448,10 +448,10 @@ Pakeisti 53 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 18 straipsnis. Baigiamosios nuostatos ^s-dc67ace6fa61697ded22213a
 
 
-1. Šio įstatymo nuostatos, išskyrus [[#^s-fd1e2ef56d37f201efc98dbf|1 straipsnio]] 2, 5, 6, 7, 8 ir 9 dalių, [[#^s-41310b7c72be55c42cdd5961|3 straipsnio]], [[#^s-a40fdbf37aac6f98f466e105|6 straipsnio]] 1, 4, 5 ir 6 dalių, [[#^s-41aa45201dca22d52878e402|7 straipsnio]], [[#^s-724832ea74a239f7994cd6ba|16 straipsnio]] ir [[#^s-032fd4bd521df5083bb6f3eb|17 straipsnio 2 dalies]] nuostatas, taikomos apskaičiuojant 2007 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną. ^s-9afcf082d7408e80ffa7faea
+1. Šio įstatymo nuostatos, išskyrus [[#^s-fd1e2ef56d37f201efc98dbf|1 straipsnio]] [[#^s-52fb977dfa0e8904013ad9b1|2]], [[#^s-03e88b3e28666b1ec6568532|5]], [[#^s-4a4c84a4c2081f8827a6fccd|6]], [[#^s-d0f0fa4e94c30ed9ef85aad9|7]], [[#^s-0ebce08fa683628e39182db3|8]] ir [[#^s-365b83bbc26fd840ecd82b35|9]] dalių, [[#^s-41310b7c72be55c42cdd5961|3 straipsnio]], [[#^s-a40fdbf37aac6f98f466e105|6 straipsnio]] [[#^s-3cf345ea3066aa08c012a95c|1]], [[#^s-a08e67ff1abef15df7c9e4ec|4]], [[#^s-d16ef85002588dee0ebb10ce|5]] ir [[#^s-87c095520b624d680bb105d5|6]] dalių, [[#^s-41aa45201dca22d52878e402|7 straipsnio]], [[#^s-724832ea74a239f7994cd6ba|16 straipsnio]] ir [[#^s-032fd4bd521df5083bb6f3eb|17 straipsnio 2 dalies]] nuostatas, taikomos apskaičiuojant 2007 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną. ^s-9afcf082d7408e80ffa7faea
 
 
-2. Šio įstatymo [[#^s-fd1e2ef56d37f201efc98dbf|1 straipsnio]] 2, 5, 6, 7, 8 ir 9 dalių, [[#^s-41310b7c72be55c42cdd5961|3 straipsnio]], [[#^s-a40fdbf37aac6f98f466e105|6 straipsnio]] 1, 4, 5 ir 6 dalių, [[#^s-41aa45201dca22d52878e402|7 straipsnio]], [[#^s-724832ea74a239f7994cd6ba|16 straipsnio]] ir [[#^s-032fd4bd521df5083bb6f3eb|17 straipsnio 2 dalies]] nuostatos taikomos apskaičiuojant 2006 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną. ^s-2b5df9808f9e8ac9770f8cdf
+2. Šio įstatymo [[#^s-fd1e2ef56d37f201efc98dbf|1 straipsnio]] [[#^s-52fb977dfa0e8904013ad9b1|2]], [[#^s-03e88b3e28666b1ec6568532|5]], [[#^s-4a4c84a4c2081f8827a6fccd|6]], [[#^s-d0f0fa4e94c30ed9ef85aad9|7]], [[#^s-0ebce08fa683628e39182db3|8]] ir [[#^s-365b83bbc26fd840ecd82b35|9]] dalių, [[#^s-41310b7c72be55c42cdd5961|3 straipsnio]], [[#^s-a40fdbf37aac6f98f466e105|6 straipsnio]] [[#^s-3cf345ea3066aa08c012a95c|1]], [[#^s-a08e67ff1abef15df7c9e4ec|4]], [[#^s-d16ef85002588dee0ebb10ce|5]] ir [[#^s-87c095520b624d680bb105d5|6]] dalių, [[#^s-41aa45201dca22d52878e402|7 straipsnio]], [[#^s-724832ea74a239f7994cd6ba|16 straipsnio]] ir [[#^s-032fd4bd521df5083bb6f3eb|17 straipsnio 2 dalies]] nuostatos taikomos apskaičiuojant 2006 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną. ^s-2b5df9808f9e8ac9770f8cdf
 
 
 3. Laivybos vienetas, [[latest/TAR.A5ACBDA529A9|Lietuvos Respublikos pelno mokesčio įstatymo]] nustatyta tvarka 2007 metais prasidėjusį mokestinį laikotarpį pasirinkęs apmokestinimo fiksuotu pelno mokesčiu tvarkos taikymą, apie pasirinkimą taikyti apmokestinimo fiksuotu pelno mokesčiu tvarką centrinio mokesčių administratoriaus nustatyta tvarka informuoja vietos mokesčių administratorių iki 2007 metais prasidėjusio mokestinio laikotarpio antrojo ketvirčio paskutinės dienos. ^s-bf579f754723f78d347e749d

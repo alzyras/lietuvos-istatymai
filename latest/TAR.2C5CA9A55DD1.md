@@ -106,7 +106,7 @@ Nustatyti, kad vykdant biudžetą nepanaudotos specialios tikslinės dotacijos v
 ### 7 straipsnis. 13 straipsnio 4, 5, 9, 11, 13 ir 16 punktų pakeitimas ^s-395250844e1bf30f863f10dd
 
 
-1. [[#^s-879e28b611d775bb9c01b8bd|13 straipsnio]] 4 ir [[#^s-3703730fc5a6417e5c67a04b|5 punktuose]] vietoj žodžių „laikantis valstybės“ įrašyti žodžius „laikantis Vyriausybės“ ir šiuos punktus išdėstyti taip: ^s-daf2add439d13192215900af
+1. [[#^s-879e28b611d775bb9c01b8bd|13 straipsnio]] 4 ir 5 punktuose vietoj žodžių „laikantis valstybės“ įrašyti žodžius „laikantis Vyriausybės“ ir šiuos punktus išdėstyti taip: ^s-daf2add439d13192215900af
 
 
 „4) laikantis Vyriausybės grynojo skolinimosi limito, išleisti vertybinius popierius ir imti paskolas valstybės vardu valstybės biudžeto deficitui dengti, valstybės investicijoms finansuoti, valstybės skoliniams įsipareigojimams valstybės įmonės Ignalinos atominės elektrinės eksploatavimo nutraukimo fondui dengti;

@@ -216,7 +216,7 @@ Vilnius
 7. Papildyti 30 straipsnį nauja [[#^s-51f6073d9591c81dd703f30f|9 dalimi]]: ^s-d7fc5224b3d325065694bc63
 
 
-„9. Jei asmuo pateikia dokumentus, įrodančius, kad trūkumai (pažeidimai), nurodyti [[#^s-d7fc5224b3d325065694bc63|šio straipsnio 7 dalyje]], pašalinti, ne vėliau kaip per 30 kalendorinių dienų nuo dokumentų pateikimo dienos, licenciją išduodančios institucijos sprendimu licencijos galiojimo sustabdymas panaikinamas.“
+„9. Jei asmuo pateikia dokumentus, įrodančius, kad trūkumai (pažeidimai), nurodyti šio straipsnio 7 dalyje, pašalinti, ne vėliau kaip per 30 kalendorinių dienų nuo dokumentų pateikimo dienos, licenciją išduodančios institucijos sprendimu licencijos galiojimo sustabdymas panaikinamas.“
 
 
 8. Papildyti 30 straipsnį nauja [[#^s-5fb5b7e57b154dec53adef94|10 dalimi]]: ^s-233bfc090b671174bab77508

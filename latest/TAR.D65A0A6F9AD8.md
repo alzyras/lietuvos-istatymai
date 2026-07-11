@@ -38,16 +38,16 @@ Vilnius
 
 
 1. [[latest/TAR.94F5702CA0F1|Antstolių įstatymas]] įsigalioja nuo 2003 m. s ^s-0eb1f7229776f31007e62a2f
-ausio 1 d., išskyrus [[#^s-3038e0d232a37a4c48409483|2 straipsnio]] 2 ir 3 dalis, 4, 5, 8, 9, 17, 18, 20, 26, 41, 42, 50 straipsnius. Šie straipsniai ir dalys įsigalioja nuo [[latest/TAR.94F5702CA0F1|Antstolių įstatymo]] paskelbimo ir taikomi su Antstolių įstatymo įsigaliojimo ir įgyvendinimo įstatyme numatytomis išlygomis.
+ausio 1 d., išskyrus [[#^s-3038e0d232a37a4c48409483|2 straipsnio]] 2 ir 3 dalis, [[#^s-1ef1596de0fad1f3ec130617|4]], [[#^s-83d62945ae265f2a29ebe49a|5]], [[#^s-27677f67204406e6841cccfb|8]], [[#^s-8a166e9a7691f98c6faec005|9]], 17, 18, 20, 26, 41, 42, 50 straipsnius. Šie straipsniai ir dalys įsigalioja nuo [[latest/TAR.94F5702CA0F1|Antstolių įstatymo]] paskelbimo ir taikomi su Antstolių įstatymo įsigaliojimo ir įgyvendinimo įstatyme numatytomis išlygomis.
 
 
 2. 2003 m. sausio 1 d. netenka galios: ^s-3be3ac620e89379a1e8113ab
 
 
-1) Teismo [[latest/TAR.94F5702CA0F1|antstolių įstatymas]] (Žin., 2000, Nr. 92-2846); ^s-544fb85e3d57e7a05e3da05d
+1) [Teismo antstolių įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E77AC46BAB57) (Žin., 2000, Nr. 92-2846); ^s-544fb85e3d57e7a05e3da05d
 
 
-2) Teismo [[latest/TAR.94F5702CA0F1|antstolių įstatymo]] įgyvendinimo įstatymas (Žin., 2000, Nr. 92-2847). ^s-4e460a2ce10d3bf116ef764e
+2) [Teismo antstolių įstatymo įgyvendinimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.11884DFA7938) (Žin., 2000, Nr. 92-2847). ^s-4e460a2ce10d3bf116ef764e
 
 
 

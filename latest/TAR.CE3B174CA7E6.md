@@ -450,9 +450,9 @@ Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3120, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15363
-Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo Nr. VIII-822 7, 8, 9, 11, 12, 14, 16 ir [[#^s-01b7287826bb185399b17a75|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo Nr. VIII-822 [[#^s-d61de957b71bd075fd3b8f5e|7]], [[#^s-96a554880ec00126a1e41c7e|8]], [[#^s-b24775533608813d71585a8a|9]], [[#^s-90e8948d37dbf7d1c4c11d8a|11]], [[#^s-862080ad16a4dd3015d8e3bd|12]], [[#^s-05289e7f3aa9b7479c563790|14]], [[#^s-0b9752b939ae3a0d2fcbff9d|16]] ir [[#^s-01b7287826bb185399b17a75|17]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1932, 2023-05-09, paskelbta TAR 2023-05-15, i. k. 2023-09151
-Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo Nr. VIII-822 2, 4, 7, 8, 9, 10, 11, 13, 15, 16, [[#^s-01b7287826bb185399b17a75|17 straipsnių]] pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymo Nr. VIII-822 [[#^s-fbaec358ee817c122114543f|2]], [[#^s-6ff7fa6e9bd6391b90c7b5ab|4]], [[#^s-d61de957b71bd075fd3b8f5e|7]], [[#^s-96a554880ec00126a1e41c7e|8]], [[#^s-b24775533608813d71585a8a|9]], [[#^s-6e1ab0c1dae8bf52fa8715ef|10]], [[#^s-90e8948d37dbf7d1c4c11d8a|11]], [[#^s-e03a644d30cf7ab9a56c3742|13]], [[#^s-d3a0e495a30b70c89218a4bc|15]], [[#^s-0b9752b939ae3a0d2fcbff9d|16]], [[#^s-01b7287826bb185399b17a75|17]] straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas

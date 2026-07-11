@@ -344,7 +344,7 @@ SU sprogmenIMIS SUSIJUSI ŪKINĖ KOMERCINĖ VEIKLA
 1) asmuo, įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos arba prižiūrimas sveikatos priežiūros įstaigos dėl psichikos ligos ar sutrikimo; ^s-7b1f1c616fa15e237e172638
 
 
-2) asmuo, kuris įrašytas į operatyvinę įskaitą arba kuriam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai; ^s-d35f4f7a991b6496a620e85f
+2) asmuo, kuris įrašytas į operatyvinę įskaitą arba kuriam [Organizuoto nusikalstamumo užkardymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.67E8ECAA4910) nustatyta tvarka taikomi teismo įpareigojimai; ^s-d35f4f7a991b6496a620e85f
 
 
 3) asmuo, kuriam verstis šio Įstatymo nustatyta licencijuojama veikla uždrausta teismo nuosprendžiu; ^s-c165c7af8ebe0fad72edca6d
@@ -475,7 +475,7 @@ SU sprogmenIMIS SUSIJUSI ŪKINĖ KOMERCINĖ VEIKLA
 3. Įmonė, registruota valstybėje Europos Sąjungos narėje, įsigydama sprogmenis Lietuvos Respublikoje ir juos eksportuodama į valstybę Europos Sąjungos narę, be [[#^s-3d799437698c296e64627461|šio straipsnio 2 dalyje]] nurodytų duomenų, turi pateikti Lietuvos Respublikos Vyriausybės įgaliotai valstybės institucijai valstybės, kurioje ji yra registruota, kompetentingos institucijos patvirtinimą, kad ši įmonė yra teisėtai įregistruota ir turi reikalingas licencijas ir leidimus verstis sprogmenų importu, eksportu ar prekyba. ^s-14aab9188861961eeadd01ce
 
 
-4. Įmonė, eksportuojanti iš Lietuvos Respublikos sprogmenis į valstybę Europos Sąjungos narę, importuojanti juos iš valstybės Europos Sąjungos narės ar gabenanti per Lietuvos Respubliką tranzitu iš valstybės Europos Sąjungos narės į kitą valstybę narę, Lietuvos Respublikos Vyriausybės įgaliotai valstybės institucijai, be šio straipsnio 2 ir [[#^s-14aab9188861961eeadd01ce|3 dalyse]] nurodytų leidimų, turi nurodyti šiuos duomenis: ^s-a27fbfb8749181a6e5805ff5
+4. Įmonė, eksportuojanti iš Lietuvos Respublikos sprogmenis į valstybę Europos Sąjungos narę, importuojanti juos iš valstybės Europos Sąjungos narės ar gabenanti per Lietuvos Respubliką tranzitu iš valstybės Europos Sąjungos narės į kitą valstybę narę, Lietuvos Respublikos Vyriausybės įgaliotai valstybės institucijai, be šio straipsnio [[#^s-3d799437698c296e64627461|2]] ir [[#^s-14aab9188861961eeadd01ce|3]] dalyse nurodytų leidimų, turi nurodyti šiuos duomenis: ^s-a27fbfb8749181a6e5805ff5
 
 
 1) sandoryje dalyvaujančių įmonių pavadinimus bei adresus. Ši informacija turi būti pakankamai išsami, kad būtų įmanoma susisiekti su šiomis įmonėmis ir gauti patvirtinimą, kad atitinkami asmenys teisėtai gauna konkrečią sprogmenų partiją; ^s-7123595cdc3264fc6b6cb1b3
@@ -554,13 +554,13 @@ SU sprogmenIMIS SUSIJUSI ŪKINĖ KOMERCINĖ VEIKLA
 1) profesionalūs naudotojai; ^s-c9639c956f9d63fb9d43204c
 
 
-2) įmonės, turinčios licencijas verstis veikla, nurodyta šio Įstatymo [[#^s-c5e70f0ae2976cfd02748006|11 straipsnio 1 dalies]] 1 ir 2 punktuose; ^s-73d333dc2b3bd69be29ea0bb
+2) įmonės, turinčios licencijas verstis veikla, nurodyta šio Įstatymo [[#^s-c5e70f0ae2976cfd02748006|11 straipsnio 1 dalies]] [[#^s-de8e089254ce29f4d6cd0ead|1]] ir [[#^s-3ec013c93d75cf89791f955c|2]] punktuose; ^s-73d333dc2b3bd69be29ea0bb
 
 
 3) Krašto apsaugos ministerija, Vidaus reikalų ministerija, Valstybės saugumo departamentas ir jų valdymo sričiai priskirtos valstybės institucijos. ^s-6b5bb00b2703feb0550f601b
 
 
-6. Šio straipsnio 3 ir [[#^s-3f5e482795ec18dd3dda0141|4 dalių]] reikalavimai taip pat taikomi sprogmenų gamintojams, kurie verčiasi savo pagamintų sprogmenų prekyba. ^s-92d9667395aa41ac01ddf772
+6. Šio straipsnio [[#^s-82d24cf0da6dfec6915b21c8|3]] ir [[#^s-3f5e482795ec18dd3dda0141|4]] dalių reikalavimai taip pat taikomi sprogmenų gamintojams, kurie verčiasi savo pagamintų sprogmenų prekyba. ^s-92d9667395aa41ac01ddf772
 
 
 7. Sprogmenų prekybos tarpininko veikla Lietuvoje draudžiama. ^s-031634607a2191774fb8f92e

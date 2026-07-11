@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kon
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.FF33B3BF23DD|Lietuvos Respublikos farmacijos įstatymas]] - 2 citatos - Farmacijos įstatymu
+- [[latest/TAR.FF33B3BF23DD|Lietuvos Respublikos farmacijos įstatymas]] - Farmacijos įstatymu
 - [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatymas]] - Buhalterinės apskaitos įstatymo
-- [[latest/TAR.CF3E2829B861|Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymas]] - Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo
 
 ## Šį įstatymą cituoja
 

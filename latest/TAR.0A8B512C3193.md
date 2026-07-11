@@ -192,7 +192,7 @@ Proceso šalims ne vėliau kaip prieš 5 darbo dienas iki bylos nagrinėjimo ra�
 ### 26 straipsnis. Sankcijų vežėjams už šio Įstatymo pažeidimus taikymas ^s-8e1003afb4d8c6c4442ae85e
 
 
-1. Konkretus skiriamos baudos dydis nustatomas atsižvelgiant į šio straipsnio 2 ir [[#^s-cf83bc6c371270f993c0885b|3 dalyse]] nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas šio Įstatymo [[#^s-3ff1a00474c34938bc58b400|25 straipsnio 2 dalyje]] nurodytame nutarime. ^s-ba8e0fc712c3bcd63d38093f
+1. Konkretus skiriamos baudos dydis nustatomas atsižvelgiant į šio straipsnio [[#^s-7e405a6f4dd213fb5b78f31c|2]] ir [[#^s-cf83bc6c371270f993c0885b|3]] dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas šio Įstatymo [[#^s-3ff1a00474c34938bc58b400|25 straipsnio 2 dalyje]] nurodytame nutarime. ^s-ba8e0fc712c3bcd63d38093f
 
 
 2. Atsakomybę lengvinančiomis aplinkybėmis laikoma: ^s-7e405a6f4dd213fb5b78f31c
@@ -220,14 +220,14 @@ Proceso šalims ne vėliau kaip prieš 5 darbo dienas iki bylos nagrinėjimo ra�
 1. Bauda turi būti sumokėta į valstybės biudžetą ne vėliau kaip per 1 mėnesį nuo nutarimo išsiuntimo dienos. ^s-14f39e68a696c2da6b2393ff
 
 
-2. Vežėjų nesumokėtas baudas išieško antstoliai, vykdydami pateiktus Valstybės sienos apsaugos tarnybos nutarimus, Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Nutarimai pateikiami vykdyti ne vėliau kaip per 1 mėnesį nuo baudos sumokėjimo termino pabaigos. ^s-de494f1622a568f5a1303971
+2. Vežėjų nesumokėtas baudas išieško antstoliai, vykdydami pateiktus Valstybės sienos apsaugos tarnybos nutarimus, [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Nutarimai pateikiami vykdyti ne vėliau kaip per 1 mėnesį nuo baudos sumokėjimo termino pabaigos. ^s-de494f1622a568f5a1303971
 
 
 
 ### 28 straipsnis. Nutarimų dėl baudų skyrimo apskundimas ^s-8fb17d3a91467b71546bc721
 
 
-1. Vežėjai, nesutinkantys su Valstybės sienos apsaugos tarnybos nutarimu dėl baudos skyrimo, gali apskųsti jį per 1 mėnesį nuo nutarimo priėmimo dienos [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-e19b425c207d83522b23ef63
+1. Vežėjai, nesutinkantys su Valstybės sienos apsaugos tarnybos nutarimu [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo, gali apskųsti jį per 1 mėnesį nuo nutarimo priėmimo dienos [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-e19b425c207d83522b23ef63
 
 
 2. Skundo padavimas teismui sustabdo Valstybės sienos apsaugos tarnybos nutarimų dėl baudų skyrimo vykdymą.“ ^s-4fc673e4022437d5d3f0feab

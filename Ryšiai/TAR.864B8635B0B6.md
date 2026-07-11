@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos vidaus reikalų, specialiųjų tyrimų tarnyb
 
 ## Šis įstatymas cituoja
 
+- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 8 citatos - 1
 - [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 2 citatos - Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EDDCB615126E#^s-56e51fa1ccd5494964ba67f6|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - Įstatymas Nr. X-67
-- [[latest/TAR.EDDCB615126E#^s-ebca7f488c83e6092064f614|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - Įstatymas Nr. X-67
+_Nėra._

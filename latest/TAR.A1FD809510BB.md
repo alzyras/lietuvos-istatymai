@@ -405,7 +405,7 @@ Nr. XIV-2639, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09675
 3) dokumento sudarymo data. ^s-eb31fa71af012e27b8d8b9d1
 
 
-6. Šio straipsnio 2 ir [[#^s-acf52e2f20a05c45b88751f4|5 dalys]] netaikomos, kai mažojoje bendrijoje yra vienas narys. ^s-a3df0f50622cdd30d98abb6c
+6. Šio straipsnio [[#^s-e170f9b5c6138752e891f550|2]] ir [[#^s-acf52e2f20a05c45b88751f4|5]] dalys netaikomos, kai mažojoje bendrijoje yra vienas narys. ^s-a3df0f50622cdd30d98abb6c
 
 
 
@@ -485,7 +485,7 @@ Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
 7) spręsti, ar mažajai bendrijai reikalingi darbuotojai. Jeigu taip, – nustatyti mažosios bendrijos struktūrą, etatų sąrašą ir darbuotojams mokamų atlyginimų dydžius; ^s-47401486856ac7ae01cd4f1e
 
 
-8) tvirtinti finansinių ataskaitų rinkinį, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir [[#^s-47401486856ac7ae01cd4f1e|7 punktuose]] nustatytais atvejais mažoji bendrija likviduojama. Jeigu mažosios bendrijos metinių finansinių ataskaitų auditas privalomas pagal Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, tvirtinamas tik audituotas metinių finansinių ataskaitų rinkinys; ^s-e60ab3cbc19ee634280588d1
+8) tvirtinti finansinių ataskaitų rinkinį, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais mažoji bendrija likviduojama. Jeigu mažosios bendrijos metinių finansinių ataskaitų auditas privalomas pagal Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, tvirtinamas tik audituotas metinių finansinių ataskaitų rinkinys; ^s-e60ab3cbc19ee634280588d1
 Straipsnio punkto pakeitimai:
 Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
 Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
@@ -573,7 +573,7 @@ Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
 3. [[#^s-687a44489d5ae247917343f7|Šio straipsnio 1 dalies]] 1, 2 ir 7 punktai netaikomi, kai mažojoje bendrijoje yra vienas narys. ^s-df51e392f4c0b23d3345f2a2
 
 
-4. Kai mažosios bendrijos narių susirinkimas yra mažosios bendrijos valdymo organas ir mažojoje bendrijoje yra vienas narys, jis taip pat atlieka šio įstatymo [[#^s-6932436cb89b4439f3bf8426|21 straipsnio 7 dalyje]] mažosios bendrijos atstovui priskirtas funkcijas, išskyrus nurodytas 2, 3 ir 4 punktuose. ^s-3a862d28152aa73becafebab
+4. Kai mažosios bendrijos narių susirinkimas yra mažosios bendrijos valdymo organas ir mažojoje bendrijoje yra vienas narys, jis taip pat atlieka šio įstatymo [[#^s-6932436cb89b4439f3bf8426|21 straipsnio 7 dalyje]] mažosios bendrijos atstovui priskirtas funkcijas, išskyrus nurodytas [[#^s-c0a96edf3a2dce7001d2795b|2]], [[#^s-dea94ef1d66cb774adc8b816|3]] ir [[#^s-65176a60e4d1b5c9ae224906|4]] punktuose. ^s-3a862d28152aa73becafebab
 
 
 
@@ -586,7 +586,7 @@ Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
 2. Mažosios bendrijos narių susirinkimas šaukiamas mažosios bendrijos nuostatuose nustatyta tvarka. ^s-ea952abe8281b23e701c85f2
 
 
-3. Kai mažojoje bendrijoje yra vienas narys, mažosios bendrijos narių susirinkimas nešaukiamas ir šio nario rašytiniai sprendimai prilyginami mažosios bendrijos narių susirinkimo sprendimams, taip pat netaikomi šio įstatymo 16, 17, 18, [[#^s-aef5dfce8f0f8ddc004c527e|19 straipsniai]] ir [[#^s-7f403415f2c122e9c87b0cd1|20 straipsnio]] 1 ir [[#^s-ea952abe8281b23e701c85f2|2 dalys]]. ^s-e679613382b3e55c6245c023
+3. Kai mažojoje bendrijoje yra vienas narys, mažosios bendrijos narių susirinkimas nešaukiamas ir šio nario rašytiniai sprendimai prilyginami mažosios bendrijos narių susirinkimo sprendimams, taip pat netaikomi šio įstatymo [[#^s-2f59dd9e126ced601aec2a75|16]], [[#^s-a16681140259859be85a76b4|17]], [[#^s-376f6e95e24c69ac2a0db7e0|18]], [[#^s-aef5dfce8f0f8ddc004c527e|19]] straipsniai ir [[#^s-7f403415f2c122e9c87b0cd1|20 straipsnio]] [[#^s-087bda37f917b8eb93ee81b9|1]] ir [[#^s-e0e86c444958ad30249bff05|2]] dalys. ^s-e679613382b3e55c6245c023
 
 
 4. Mažosios bendrijos narių susirinkimas gali būti šaukiamas teismo sprendimu, jeigu jis nebuvo sušauktas šio įstatymo nustatytais atvejais ar mažosios bendrijos nuostatuose nustatyta tvarka ir dėl to į teismą kreipėsi mažosios bendrijos narys (nariai) ar mažosios bendrijos vadovas, kai mažoji bendrija turi vienasmenį valdymo organą – mažosios bendrijos vadovą. ^s-fd0bf874cbe778170ca6ee04
@@ -609,7 +609,7 @@ Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
 4. Mažosios bendrijos narys turi teisę balsuoti raštu mažosios bendrijos nuostatuose nustatyta tvarka. ^s-0da5855f0f1b0f7e6f5a4f9a
 
 
-5. Mažosios bendrijos narys neturi teisės balsuoti mažosios bendrijos narių susirinkime, priimant sprendimus su juo susijusiais klausimais, nurodytais šio įstatymo [[#^s-d74c3943772ee456ddb6287c|13 straipsnio]] 5 ir 6 punktuose, [[#^s-687a44489d5ae247917343f7|14 straipsnio 1 dalies]] 1, 2 ir 6 punktuose ir [[#^s-0e36ae5850e38163ce539bbc|2 dalyje]], taip pat kitais klausimais, jeigu sprendžiamas klausimas susijęs su jo asmeniu. ^s-99b52a6e97dfcdcb05cb51a3
+5. Mažosios bendrijos narys neturi teisės balsuoti mažosios bendrijos narių susirinkime, priimant sprendimus su juo susijusiais klausimais, nurodytais šio įstatymo [[#^s-d74c3943772ee456ddb6287c|13 straipsnio]] 5 ir 6 punktuose, [[#^s-687a44489d5ae247917343f7|14 straipsnio 1 dalies]] [[#^s-e0636e6c200e957586c00d63|1]], [[#^s-5b16f56e28b8eaab25ad44d4|2]] ir [[#^s-9b324db6b4934e5b6fca4d75|6]] punktuose ir [[#^s-0e36ae5850e38163ce539bbc|2 dalyje]], taip pat kitais klausimais, jeigu sprendžiamas klausimas susijęs su jo asmeniu. ^s-99b52a6e97dfcdcb05cb51a3
 
 
 
@@ -964,7 +964,7 @@ MAŽOSIOS BENDRIJOS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
 3. Apie reorganizavimo sąlygų sudarymą turi būti viešai paskelbta visų reorganizavime dalyvaujančių mažųjų bendrijų nuostatuose nurodytuose šaltiniuose tris kartus ne mažesniais kaip 30 dienų intervalais arba paskelbta vieną kartą ne vėliau kaip likus 30 dienų iki sprendimo dėl reorganizavimo priėmimo ir pranešta kiekvienos mažosios bendrijos visiems kreditoriams raštu. Skelbime ir pranešime turi būti nurodyta: ^s-78a3b60fd195a8f8e95b50f6
 
 
-1) [[#^s-84f40c553eb6a2ae780dab2d|šio straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodyta informacija; ^s-3e7f4651ff516cb6760fde8d
+1) [[#^s-84f40c553eb6a2ae780dab2d|šio straipsnio 2 dalies]] 1, [[#^s-e5c80ba2f81db73749ea8858|2]] ir 4 punktuose nurodyta informacija; ^s-3e7f4651ff516cb6760fde8d
 
 
 2) kur ir nuo kada galima susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių mažųjų bendrijų nuostatų projektais, reorganizavime dalyvaujančių mažųjų bendrijų praėjusių trejų finansinių metų metinėmis finansinėmis ataskaitomis, o kai auditas privalomas pagal Finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, – audituotu metinių finansinių ataskaitų rinkiniu kartu su auditoriaus išvada. ^s-e5c80ba2f81db73749ea8858
@@ -1253,7 +1253,7 @@ Nr. XII-313, 2013-05-16, Žin., 2013, Nr. 57-2852 (2013-06-01), i. k. [[latest/T
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-904, 2014-06-03, paskelbta TAR 2014-06-11, i. k. 2014-07407
-Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1, 21 ir 31-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1, [[#^s-8f419d12ff4021d517ce02bc|21]] ir 31-1 straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1263,7 +1263,7 @@ Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 [[#^s-06ae3790bd9
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1700, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08122
-Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 ir [[#^s-85d26fc98d93a092a02db4b6|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 ir [[#^s-85d26fc98d93a092a02db4b6|7]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1283,14 +1283,14 @@ Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 6-1 straipsnio pa
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-689, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25116
-Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 13, 21, 23 ir [[#^s-06ae3790bd9763ea152f1bde|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 [[#^s-d74c3943772ee456ddb6287c|13]], [[#^s-8f419d12ff4021d517ce02bc|21]], [[#^s-193c074d1fc0708dfab4bf4a|23]] ir [[#^s-06ae3790bd9763ea152f1bde|30]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2639, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09675
-Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 4, 6, 6-1, 10 ir [[#^s-06ae3790bd9763ea152f1bde|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 [[#^s-c49626e368f17303e0632c11|4]], [[#^s-ad8632470310857fc5d87bda|6]], 6-1, [[#^s-e05ac01496ea07bc811df771|10]] ir [[#^s-06ae3790bd9763ea152f1bde|30]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2823, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12145
-Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 13, 23, 26, 27 ir [[#^s-190196d170a1de2e54d678c2|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mažųjų bendrijų įstatymo Nr. XI-2159 [[#^s-d74c3943772ee456ddb6287c|13]], [[#^s-193c074d1fc0708dfab4bf4a|23]], [[#^s-2d41a36eea671da03fe879a8|26]], [[#^s-1b995ef36cb82010f4244087|27]] ir [[#^s-190196d170a1de2e54d678c2|29]] straipsnių pakeitimo įstatymas

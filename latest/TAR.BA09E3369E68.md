@@ -43,7 +43,7 @@ Vilnius
 26 straipsnio 7 dalyje išbraukti žodį „teisėjų“ ir šią dalį išdėstyti taip:
 
 
-„7. Priežiūros komisijos nariai yra skatinami, atsako, jiems teikiamos socialinės bei kitos garantijos [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso]] ir kitų teisės aktų nustatyta tvarka. Priežiūros komisijos nariams už darbą mokama Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka.“
+„7. Priežiūros komisijos nariai yra skatinami, atsako, jiems teikiamos socialinės bei kitos garantijos [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso]] ir kitų teisės aktų nustatyta tvarka. Priežiūros komisijos nariams už darbą mokama Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka.“
 
 
 

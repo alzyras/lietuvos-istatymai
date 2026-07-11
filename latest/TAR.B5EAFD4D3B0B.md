@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-fcbcadd458f1b16a9ef25807
 
 
-[[latest/TAR.C677663D2202#^s-a685c449e333916002fc61c0|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 ir 20 straipsnių]] pakeitimo įstatymą pripažinti netekusiu galios.
+[[latest/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo]] [[latest/TAR.C677663D2202#^s-5cd91d7584aea70ef315639a|17]] ir [[latest/TAR.C677663D2202#^s-a685c449e333916002fc61c0|20]] straipsnių pakeitimo įstatymą pripažinti netekusiu galios.
 
 
 

@@ -113,7 +113,7 @@ Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 7 straipsnis. Įstatymo įsigaliojimas ^s-7f8efd86c2db27d741cbf398
 
 
-1. Šio Įstatymo [[#^s-2e268ae3a2dc5aaab5b35976|1 straipsnio]] 1 ir [[#^s-a27b4c7aeb9fa68007a442b7|2 dalys]] bei 3 ir [[#^s-f0f83b37a3a7f5b1ee38e306|4 straipsniai]] įsigalioja nuo 2004 m. sausio 1 d. ^s-637b1768b25d4685bbf99606
+1. Šio Įstatymo [[#^s-2e268ae3a2dc5aaab5b35976|1 straipsnio]] [[#^s-88aa870372c4cc79bde1b1db|1]] ir [[#^s-6ec46071ca555c1839f1c6d7|2]] dalys bei [[#^s-c760f01088bfe4c632122849|3]] ir [[#^s-f0f83b37a3a7f5b1ee38e306|4]] straipsniai įsigalioja nuo 2004 m. sausio 1 d. ^s-637b1768b25d4685bbf99606
 
 
 2. Šio Įstatymo [[#^s-bb1be823776f6d237d992990|1 straipsnio 3 dalis]] įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos. ^s-a27b4c7aeb9fa68007a442b7

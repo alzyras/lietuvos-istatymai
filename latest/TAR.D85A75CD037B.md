@@ -201,7 +201,7 @@ Savivaldybės taryba turi teisę savo biudžeto sąskaita paskiriems valstybės 
 ### 7 straipsnis. Įstatymo įsigaliojimas ^s-581918d915d83638c51b672f
 
 
-Šis įstatymas, išskyrus 5 ir [[#^s-8fb8042a44fde9a1ed541114|6 straipsnius]], įsigalioja nuo 2008 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-3b399e31b2b6c6f560c96400|5]] ir [[#^s-8fb8042a44fde9a1ed541114|6]] straipsnius, įsigalioja nuo 2008 m. sausio 1 d.
 
 
 

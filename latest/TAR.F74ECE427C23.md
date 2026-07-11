@@ -90,7 +90,7 @@ GYVENAMOSIOS VIETOS DEKLARAVIMAS
 1. Lietuvos Respublikos gyventojai privalo deklaruoti gyvenamąją vietą, išskyrus šio įstatymo [[#^s-da88ea8cf02cbd84e293c508|5 straipsnyje]] nurodytus asmenis. ^s-cfe0429c79104fa7c7aefcb4
 
 
-2. Nepilnamečių gyvenamąją vietą deklaruoja jų tėvai, įtėviai, globėjai arba kiti asmenys, kurie pagal įstatymą ar kitą teisės aktą privalo jais rūpintis, jiems atstovauti, ginti jų teises ir teisėtus interesus, išskyrus atvejus, nurodytus šio straipsnio 3 ir [[#^s-13cd19e5ed8a3eeaabca0df0|4 dalyse]]. ^s-cce61fcc13dfa22cfb582697
+2. Nepilnamečių gyvenamąją vietą deklaruoja jų tėvai, įtėviai, globėjai arba kiti asmenys, kurie pagal įstatymą ar kitą teisės aktą privalo jais rūpintis, jiems atstovauti, ginti jų teises ir teisėtus interesus, išskyrus atvejus, nurodytus šio straipsnio [[#^s-375fb12d7209ab77e6d6361b|3]] ir [[#^s-13cd19e5ed8a3eeaabca0df0|4]] dalyse. ^s-cce61fcc13dfa22cfb582697
 
 
 3. Nepilnamečiai, įgiję visišką civilinį veiksnumą, gyvenamąją vietą deklaruoja patys. ^s-375fb12d7209ab77e6d6361b

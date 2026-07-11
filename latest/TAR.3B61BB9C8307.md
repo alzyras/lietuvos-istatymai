@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-73a0753660ad708e765f2fa6
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. balandžio 18 d. dekretą Nr. 1K-1031, ratifikuoja Tarptautinės darbo organizacijos konvenciją Nr. 115 dėl darbuotojų apsaugos nuo jonizuojančiosios spinduliuotės, priimtą 1960 m. birželio 22 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. balandžio 18 d. dekretą Nr. 1K-1031](https://e-tar.lt/portal/lt/legalAct/TAR.9C0191B679E2), ratifikuoja Tarptautinės darbo organizacijos konvenciją Nr. 115 dėl darbuotojų apsaugos nuo jonizuojančiosios spinduliuotės, priimtą 1960 m. birželio 22 d. Ženevoje.
 
 
 

@@ -165,7 +165,7 @@ Pakeisti 11 straipsnio 7 dalį ir ją išdėstyti taip:
 Pakeisti 43 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
-„6. Šio straipsnio 1 dalies 2, 5 ir 6 punktuose nurodytas užsienietis, kurio šeimos nariai atvyksta šeimos susijungimo tikslu, turi būti pragyvenęs Lietuvos Respublikoje pastaruosius 2 metus, turėti ne mažiau kaip vienus metus galiojantį leidimą laikinai gyventi ir turėti pagrįstas perspektyvas įgyti teisę nuolat gyventi Lietuvos Respublikoje, reglamentuojamas pagal šio Įstatymo 51 straipsnio 5 dalyje nustatytą tvarką. Šis reikalavimas netaikomas, kai šeimos nariai atvyksta pas užsienietį:
+„6. Šio straipsnio 1 dalies [[#^s-cd13df20fc50e6e2ffd1a7a9|2]], [[#^s-5148d82c85f797605775392d|5]] ir 6 punktuose nurodytas užsienietis, kurio šeimos nariai atvyksta šeimos susijungimo tikslu, turi būti pragyvenęs Lietuvos Respublikoje pastaruosius 2 metus, turėti ne mažiau kaip vienus metus galiojantį leidimą laikinai gyventi ir turėti pagrįstas perspektyvas įgyti teisę nuolat gyventi Lietuvos Respublikoje, reglamentuojamas pagal šio Įstatymo 51 straipsnio 5 dalyje nustatytą tvarką. Šis reikalavimas netaikomas, kai šeimos nariai atvyksta pas užsienietį:
 
 
 1) kuriam suteiktas pabėgėlio Lietuvos Respublikoje statusas; ^s-9db0038be6872f05f60cf8c4
@@ -300,7 +300,7 @@ Prašymą suteikti prieglobstį iš esmės nagrinėja Migracijos departamentas, 
 1. Papildyti 101 straipsnį nauja 3 dalimi: ^s-df3463d4d6bc794480fe5013
 
 
-„3. Europos Sąjungos valstybės narės piliečio šeimos nariai, kurie nėra Europos Sąjungos valstybės narės piliečiai, turi teisę gauti Europos Sąjungos leidimą gyventi, kai atvyksta gyventi į Lietuvos Respubliką ilgiau negu 3 mėnesius per pusę metų kartu su Europos Sąjungos valstybės narės piliečiu, turinčiu teisę gyventi Lietuvos Respublikoje pagal [[#^s-df3463d4d6bc794480fe5013|šio straipsnio 1 dalies]] 1–3 punktus, arba pas jį.“
+„3. Europos Sąjungos valstybės narės piliečio šeimos nariai, kurie nėra Europos Sąjungos valstybės narės piliečiai, turi teisę gauti Europos Sąjungos leidimą gyventi, kai atvyksta gyventi į Lietuvos Respubliką ilgiau negu 3 mėnesius per pusę metų kartu su Europos Sąjungos valstybės narės piliečiu, turinčiu teisę gyventi Lietuvos Respublikoje pagal šio straipsnio 1 dalies 1–3 punktus, arba pas jį.“
 
 
 2. Buvusią 101 straipsnio 3 dalį laikyti 4 dalimi. ^s-c0ef4e8f792d3ac70eceaa5d

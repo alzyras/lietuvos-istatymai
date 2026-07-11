@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.863886C4199F#^s-d59f467a44563a197c8afbba|Lietuvos Respublikos muziejų įstatymas]] - 3 citatos - 0971010ISTAVIII-319
+- [[latest/TAR.863886C4199F#^s-d59f467a44563a197c8afbba|Lietuvos Respublikos muziejų įstatymas]] - 2 citatos - 0971010ISTAVIII-319

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-3a8e580ac4498b624ebd4347
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. spalio 18 d. dekretą Nr. 99, ratifikuoja 1964 m. birželio 18 d. Paryžiuje sudarytą Šiaurės Atlanto Sutarties Šalių susitarimą dėl bendradarbiavimo, susijusio su atomine informacija.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. spalio 18 d. dekretą Nr. 99](https://e-tar.lt/portal/lt/legalAct/TAR.B275E59541A1), ratifikuoja 1964 m. birželio 18 d. Paryžiuje sudarytą Šiaurės Atlanto Sutarties Šalių susitarimą dėl bendradarbiavimo, susijusio su atomine informacija.
 
 
 
@@ -47,7 +47,7 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 1. Šiaurės Atlanto Sutarties Šalių susitarimo dėl bendradarbiavimo, susijusio su atomine informacija, vykdymą pagal įstatymų ir kitų teisės aktų nustatytą kompetenciją užtikrina Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija, Valstybės saugumo departamentas, Lietuvos Respublikos Vyriausybė ir paslapčių subjektai. ^s-a887148d11b500bc75ebbfa9
 
 
-2. Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija, Valstybės saugumo departamentas, Lietuvos Respublikos Vyriausybė ir paslapčių subjektai pagal savo kompetenciją Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka užtikrina, kad Šiaurės Atlanto Sutarties Šalių susitarimas dėl bendradarbiavimo, susijusio su atomine informacija, Lietuvos Respublikoje būtų įgyvendinamas laikantis Šiaurės Atlanto Sutarties Šalių susitarimo dėl bendradarbiavimo, susijusio su atomine informacija, saugumo priedo ir Šiaurės Atlanto Sutarties Šalių susitarimo dėl bendradarbiavimo, susijusio su atomine informacija, techninio priedo, taip pat Šiaurės Atlanto Sutarties Šalių susitarimo dėl bendradarbiavimo, susijusio su atomine informacija, įgyvendinimo administracinių priemonių, Šiaurės Atlanto Tarybos sprendimais nustatomų saugumo standartų ir kitų Susitarimo įgyvendinimo tvarkos bei taikymo reikalavimų. ^s-952c09826104cc0d18216dd6
+2. Lietuvos Respublikos paslapčių apsaugos koordinavimo komisija, Valstybės saugumo departamentas, Lietuvos Respublikos Vyriausybė ir paslapčių subjektai pagal savo kompetenciją Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka užtikrina, kad [Šiaurės Atlanto Sutarties Šalių susitarimas dėl bendradarbiavimo, susijusio su atomine informacija](https://e-tar.lt/portal/lt/legalAct/TAR.4E45D3345128), Lietuvos Respublikoje būtų įgyvendinamas laikantis Šiaurės Atlanto Sutarties Šalių susitarimo dėl bendradarbiavimo, susijusio su atomine informacija, saugumo priedo ir Šiaurės Atlanto Sutarties Šalių susitarimo dėl bendradarbiavimo, susijusio su atomine informacija, techninio priedo, taip pat Šiaurės Atlanto Sutarties Šalių susitarimo dėl bendradarbiavimo, susijusio su atomine informacija, įgyvendinimo administracinių priemonių, Šiaurės Atlanto Tarybos sprendimais nustatomų saugumo standartų ir kitų Susitarimo įgyvendinimo tvarkos bei taikymo reikalavimų. ^s-952c09826104cc0d18216dd6
 
 
 

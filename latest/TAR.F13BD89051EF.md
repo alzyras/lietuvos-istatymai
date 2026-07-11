@@ -50,13 +50,13 @@ Papildyti 8 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 
 1. Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip: ^s-3e0c70034de299d104ff4296
-„1. Fondo valdyba nedarbo socialinio draudimo lėšas Užimtumo rėmimo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti Vyriausybės ar jos įgaliotos institucijos nustatytais terminais ir tvarka perveda Socialinės apsaugos ir darbo ministerijai Užimtumo fondui sudaryti. Nedarbo socialinio draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti dydis nustatomas Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu.“
+„1. Fondo valdyba nedarbo socialinio draudimo lėšas [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti Vyriausybės ar jos įgaliotos institucijos nustatytais terminais ir tvarka perveda Socialinės apsaugos ir darbo ministerijai Užimtumo fondui sudaryti. Nedarbo socialinio draudimo lėšų [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti dydis nustatomas Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu.“
 
 
 2. Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip: ^s-c154c93f5664a6ff467556ba
 
 
-„1. Fondo valdyba nedarbo socialinio draudimo lėšas Užimtumo rėmimo įstatymo nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti Vyriausybės ar jos įgaliotos institucijos nustatytais terminais ir tvarka perveda Socialinės apsaugos ir darbo ministerijai Užimtumo fondui sudaryti. Nedarbo socialinio draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti dydis nustatomas Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu.“
+„1. Fondo valdyba nedarbo socialinio draudimo lėšas [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti Vyriausybės ar jos įgaliotos institucijos nustatytais terminais ir tvarka perveda Socialinės apsaugos ir darbo ministerijai Užimtumo fondui sudaryti. Nedarbo socialinio draudimo lėšų [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti dydis nustatomas Valstybinio socialinio draudimo fondo biudžeto atitinkamų metų rodiklių patvirtinimo įstatymu.“
 
 
 

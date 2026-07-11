@@ -126,10 +126,10 @@ Tarnybinis pasas galioja 5 metus nuo jame nurodytos išdavimo datos.
 3. Tarnybiniame pase turi būti asmens veido atvaizdas, asmens parašas ir nurodomos asmens einamos pareigos. Pasikeitus asmens einamoms pareigoms, tarnybiniame pase padaromas įrašas apie naujas asmens einamas pareigas, jeigu asmuo atitinka šio įstatymo [[#^s-33393c31cf12f4d26cf7a9d8|3 straipsnio 1 dalyje]] nustatytus reikalavimus. ^s-2eb26dffc339b3a9048b05b2
 
 
-4. Tarnybiniame pase elektroniniu būdu fiksuojami [[#^s-f810e07c557f5896d1a452f6|šio straipsnio 1 dalyje]] nurodyti duomenys, taip pat asmens veido atvaizdas ir dviejų pirštų atspaudai. Tarnybinis pasas gali būti išduodamas be jame elektroniniu būdu fiksuotų pirštų atspaudų Reglamente (EB) Nr. 2252/2004 numatytais atvejais ir tvarka. ^s-775870f429cadaf72bf6fbe9
+4. Tarnybiniame pase elektroniniu būdu fiksuojami [[#^s-f810e07c557f5896d1a452f6|šio straipsnio 1 dalyje]] nurodyti duomenys, taip pat asmens veido atvaizdas ir dviejų pirštų atspaudai. Tarnybinis pasas gali būti išduodamas be jame elektroniniu būdu fiksuotų pirštų atspaudų [Reglamente (EB) Nr. 2252/2004](https://eur-lex.europa.eu/eli/reg/2252/2004/oj) numatytais atvejais ir tvarka. ^s-775870f429cadaf72bf6fbe9
 
 
-5. Šio straipsnio 1 ir [[#^s-41797c287512c518d994c021|2 dalyse]] nurodytų duomenų pavadinimai tarnybiniame pase įrašomi lietuvių, anglų ir prancūzų kalbomis. ^s-9f78f27dc5ba3d2afe0342bf
+5. Šio straipsnio [[#^s-f810e07c557f5896d1a452f6|1]] ir [[#^s-41797c287512c518d994c021|2]] dalyse nurodytų duomenų pavadinimai tarnybiniame pase įrašomi lietuvių, anglų ir prancūzų kalbomis. ^s-9f78f27dc5ba3d2afe0342bf
 
 
 6. Duomenys tarnybiniame pase įrašomi lietuviškais rašmenimis, asmens vardas (vardai) ir pavardė (pavardės) – Lietuvos Respublikos teisės aktų, reglamentuojančių vardų ir pavardžių rašybą asmens dokumentuose, nustatyta tvarka. Įrašas apie asmens einamas pareigas įrašomas lietuvių ir anglų kalbomis. ^s-d1a13dca2b306b23ac56bcf7
@@ -251,7 +251,7 @@ priedas
 
 
 
-1. 2004 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 2252/2004 dėl valstybių narių išduodamų pasų ir kelionės dokumentų apsauginių savybių ir biometrikos standartų (OL 2004 L 385, p. 1) su paskutiniais pakeitimais, padarytais 2009 m. gegužės 28 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 444/2009 (OL 2009 L 142, p. 1). ^s-816c8f68b57d3073bbf4acf2
+1. 2004 m. gruodžio 13 d. Tarybos [reglamentas (EB) Nr. 2252/2004](https://eur-lex.europa.eu/eli/reg/2252/2004/oj) dėl valstybių narių išduodamų pasų ir kelionės dokumentų apsauginių savybių ir biometrikos standartų (OL 2004 L 385, p. 1) su paskutiniais pakeitimais, padarytais 2009 m. gegužės 28 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 444/2009 (OL 2009 L 142, p. 1). ^s-816c8f68b57d3073bbf4acf2
 
 
 

@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos savivaldybių administracinės priežiūros �
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.33DE665E5E0E#^s-e1e7aa39ff221c618fb885d9|Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymas]] - 3 citatos - 1101010ISTA00XI-710
+- [[latest/TAR.33DE665E5E0E#^s-e1e7aa39ff221c618fb885d9|Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymas]] - 2 citatos - 1101010ISTA00XI-710

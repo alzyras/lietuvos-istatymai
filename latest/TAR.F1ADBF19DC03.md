@@ -77,7 +77,7 @@ laivas – bet kurio tipo savaeigis arba nesavaeigis plaukiojantis statinys, kur
 linijinis laivas – laivas, plaukiantis laivybos linijoje tarp dviejų ar daugiau paskelbtų uostų pagal nuolatinį grafiką, kurios operatoriui yra išduotas laivybos linijos įregistravimo pažymėjimas;
 
 
-laisvasis uostas – uosto žemės dalis, kurioje ne Lietuvos prekės importo muitų bei mokesčių ir ekonominių draudimų bei apribojimų požiūriu laikomos esančiomis ne Lietuvos Respublikos muitų teritorijoje, išskyrus atvejus, kai šios prekės išleidžiamos laisvai cirkuliuoti, pateikiamos kitai muitinės procedūrai įforminti arba laikomos ar naudojamos kitomis sąlygomis, negu nustatyta šio įstatymo, Muitinės kodekso ar kitų teisės aktų;
+laisvasis uostas – uosto žemės dalis, kurioje ne Lietuvos prekės importo muitų bei mokesčių ir ekonominių draudimų bei apribojimų požiūriu laikomos esančiomis ne Lietuvos Respublikos muitų teritorijoje, išskyrus atvejus, kai šios prekės išleidžiamos laisvai cirkuliuoti, pateikiamos kitai muitinės procedūrai įforminti arba laikomos ar naudojamos kitomis sąlygomis, negu nustatyta šio įstatymo, [Muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) ar kitų teisės aktų;
 
 
 krantinė – nustatyto ilgio, pločio ir leistinų apkrovų hidrotechninis įrenginys, skirtas švartuoti ir krauti laivus, įlaipinti arba išlaipinti keleivius;
@@ -332,7 +332,7 @@ Pakeisti [[#^s-dd430b69cf649b485bef2565|18 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-dd430b69cf649b485bef2565|18 straipsnis]].     Prekių įvežimas į laisvąjį uostą ir išvežimas iš jo, prekių laikymas ir apskaita laisvajame uoste
 
 
-Prekių įvežimo į laisvąjį uostą, išvežimo iš jo, laikymo ir apskaitos laisvajame uoste tvarką nustato Muitinės kodeksas ir jo taikymą reglamentuojantys teisės aktai.“
+Prekių įvežimo į laisvąjį uostą, išvežimo iš jo, laikymo ir apskaitos laisvajame uoste tvarką nustato [Muitinės kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) ir jo taikymą reglamentuojantys teisės aktai.“
 
 
 
@@ -386,7 +386,7 @@ Pakeisti [[#^s-247f73f668e4e967079b6001|21 straipsnį]] ir jį išdėstyti taip:
 2. Prekės sausumos transportu į laisvąjį uostą įvežamos ir išvežamos per tam tikslui įrengtus punktus. ^s-28e5c00e928c124c92349135
 
 
-3. Muitinė tikrina į laisvąjį uostą įvežamas, iš jo išvežamas ir jame laikomas prekes Muitinės kodekso nustatyta tvarka.“ ^s-30772d49e7830f2893e98a4a
+3. Muitinė tikrina į laisvąjį uostą įvežamas, iš jo išvežamas ir jame laikomas prekes [Muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nustatyta tvarka.“ ^s-30772d49e7830f2893e98a4a
 
 
 
@@ -422,13 +422,13 @@ Pakeisti [[#^s-c0837ffeeda19b73396cc4a4|23 straipsnį]] ir jį išdėstyti taip:
 ### 20 straipsnis. 24 straipsnio pavadinimo ir 1 dalies pakeitimas ^s-4b6468f52d340b686ea1b73f
 
 
-[[#^s-11c207f7c49969a3cde17592|24 straipsnio]] pavadinime prieš žodžius „Nuomos sutarties“ įrašyti žodžius „Uosto žemės“, [[#^s-b6ab6726de52b532f94b4355|1 dalyje]] vietoj skaičiaus ir žodžio „25 metų“ įrašyti skaičius ir žodžius „99 metams, bet ne trumpiau kaip 50 metų“, vietoj žodžių „Lietuvos Respublikos civilinio kodekso“ įrašyti žodžius „Lietuvos Respublikos žemės nuomos įstatymo“ ir šį straipsnį išdėstyti taip:
+[[#^s-11c207f7c49969a3cde17592|24 straipsnio]] pavadinime prieš žodžius „Nuomos sutarties“ įrašyti žodžius „Uosto žemės“, [[#^s-b6ab6726de52b532f94b4355|1 dalyje]] vietoj skaičiaus ir žodžio „25 metų“ įrašyti skaičius ir žodžius „99 metams, bet ne trumpiau kaip 50 metų“, vietoj žodžių „Lietuvos Respublikos civilinio kodekso“ įrašyti žodžius [„Lietuvos Respublikos žemės nuomos įstatymo“](https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC) ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-11c207f7c49969a3cde17592|24 straipsnis]]. Uosto žemės nuomos sutarties forma ir terminas
 
 
-1. Uosto žemės nuomos sutartis sudaroma raštu ne ilgiau kaip 99 metams, bet ne trumpiau kaip 50 metų, laikantis Lietuvos Respublikos žemės nuomos įstatymo ir šio įstatymo reikalavimų. ^s-b6ab6726de52b532f94b4355
+1. Uosto žemės nuomos sutartis sudaroma raštu ne ilgiau kaip 99 metams, bet ne trumpiau kaip 50 metų, laikantis [Lietuvos Respublikos žemės nuomos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC) ir šio įstatymo reikalavimų. ^s-b6ab6726de52b532f94b4355
 
 
 2. Nuomininkas, tvarkingai vykdęs uosto žemės nuomos sutartyje nustatytas pareigas, pasibaigus sutarties terminui, turi pirmumo teisę atnaujinti sutartį.“ ^s-436461af7b058c2b6bc44a47
@@ -462,7 +462,7 @@ Pakeisti [[#^s-c648ab03acb616a38615027d|25 straipsnį]] ir jį išdėstyti taip:
 3) Lietuvos Respublikos įstatymų nustatyta tvarka to reikia visuomenės poreikiams tenkinti. ^s-4b0b0a3092d1624f3de5db6d
 
 
-4. Nuomininkas turi teisę nustatyta tvarka reikalauti nutraukti uosto žemės nuomos sutartį prieš terminą, jei tai numato Lietuvos Respublikos žemės nuomos įstatymas ar uosto žemės nuomos sutartis.“ ^s-9ea913801ae363381b862395
+4. Nuomininkas turi teisę nustatyta tvarka reikalauti nutraukti uosto žemės nuomos sutartį prieš terminą, jei tai numato [Lietuvos Respublikos žemės nuomos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC) ar uosto žemės nuomos sutartis.“ ^s-9ea913801ae363381b862395
 
 
 

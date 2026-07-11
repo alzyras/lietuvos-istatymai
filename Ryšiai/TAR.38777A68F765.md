@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.11A8B08A7405#^s-452fbdc0109ee7a63a34f554|Lietuvos Respublikos suėmimo vykdymo įstatymas]] - 3 citatos - 0961010ISTA00I-1348
-- [[latest/TAR.11A8B08A7405#^s-5da467c38c6e979160f8662a|Lietuvos Respublikos suėmimo vykdymo įstatymas]] - 3 citatos - 0961010ISTA00I-1348
+- [[latest/TAR.11A8B08A7405#^s-452fbdc0109ee7a63a34f554|Lietuvos Respublikos suėmimo vykdymo įstatymas]] - 2 citatos - 0961010ISTA00I-1348

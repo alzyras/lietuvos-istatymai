@@ -48,7 +48,7 @@ Vilnius
 Lietuvos Respublikoje įmonėms draudžiama gaminti tabako gaminius be Lietuvos Respublikos Vyriausybės ar jos pavedimu Valstybinės tabako ir alkoholio kontrolės tarnybos prie Lietuvos Respublikos Vyriausybės (toliau - VTAKT) nustatyta tvarka išduotos licencijos. Licencija gaminti tabako gaminius išduodama neterminuotam laikui ir kasmet perregistruojama.
 
 
-Tabako gaminių gamybos licencijavimo taisykles, remdamasi šiuo ir Lietuvos Respublikos įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė.“
+Tabako gaminių gamybos licencijavimo taisykles, remdamasi šiuo ir [Lietuvos Respublikos įmonių įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B), nustato Lietuvos Respublikos Vyriausybė.“
 
 
 
@@ -64,7 +64,7 @@ Tabako gaminių gamybos licencijavimo taisykles, remdamasi šiuo ir Lietuvos Res
 2. Pakeisti 8 straipsnio 4 dalį, 5 dalyje vietoj žodžio „leidimus“ įrašyti žodį „licencijas“ ir šias dalis išdėstyti taip: ^s-ba997281a198349eb7cb32fb
 
 
-„Tabako ir tabako gaminių importo licencijavimo taisykles, remdamasi šiuo ir Lietuvos Respublikos įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė. Licencija importuoti tabako gaminius išduodama neterminuotam laikui ir kasmet perregistruojama.
+„Tabako ir tabako gaminių importo licencijavimo taisykles, remdamasi šiuo ir [Lietuvos Respublikos įmonių įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B), nustato Lietuvos Respublikos Vyriausybė. Licencija importuoti tabako gaminius išduodama neterminuotam laikui ir kasmet perregistruojama.
 
 
 Įmonėms, turinčioms licencijas importuoti į Lietuvos Respubliką tabaką ar tabako gaminius, perduoti pagal sutartį teisę importuoti juos kitiems ūkio subjektams naudojant gabenimo dokumentuose šių įmonių pavadinimus draudžiama.“
@@ -86,7 +86,7 @@ Didmeninė prekyba tabako gaminiais leidžiama tik turint Lietuvos Respublikos V
 Mažmeninė prekyba tabako gaminiais leidžiama tik turint atitinkamos savivaldos vykdomosios institucijos nustatyta tvarka išduotas licencijas.
 
 
-Tabako gaminių prekybos licencijavimo taisykles, remdamasi šiuo ir Lietuvos Respublikos įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė.“
+Tabako gaminių prekybos licencijavimo taisykles, remdamasi šiuo ir [Lietuvos Respublikos įmonių įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B), nustato Lietuvos Respublikos Vyriausybė.“
 
 
 

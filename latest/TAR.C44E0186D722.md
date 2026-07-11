@@ -36,7 +36,7 @@ Vilnius
 
 ### PIRMASIS SKIRSNIS ^s-a9316e9612c70642ce775020
 
-[[latest/TAR.C54AFFAA7622#^s-e42ddb9888f848f711ff6ea5|VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2, 3, 6, 7, 8, 9, 15, 16, 20, 23, 26, 32, 33, 34, 40, 46, 48, 52, 53, 55, 64, 65, 67, 70, 73, 76, 77, 81, 88, 96, 97, 99 STRAIPSNIŲ]] PAKEITIMAS IR PAPILDYMAS, II SKYRIAUS PAVADINIMO PAKEITIMAS IR ĮSTATYMO PAPILDYMAS 1, 2 PRIEDĖLIAIS BEI PRIEDU
+[[latest/TAR.C54AFFAA7622|VIEŠŲJŲ PIRKIMŲ ĮSTATYMO]] [[latest/TAR.C54AFFAA7622#^s-94189b19dbae783e7176fd23|2]], [[latest/TAR.C54AFFAA7622#^s-bcc042f02848b8e39a90b442|3]], [[latest/TAR.C54AFFAA7622#^s-64066c27404f81c8219ce17c|6]], [[latest/TAR.C54AFFAA7622#^s-5ce0cfc1f6496256f3c930d8|7]], [[latest/TAR.C54AFFAA7622#^s-0ff1525b3865bf0d327aba66|8]], [[latest/TAR.C54AFFAA7622#^s-259cc108bec60cc564fbc610|9]], [[latest/TAR.C54AFFAA7622#^s-d358a1081a4750bfa5a7a3a7|15]], [[latest/TAR.C54AFFAA7622#^s-6ac1586d4763b2ac35a83cba|16]], [[latest/TAR.C54AFFAA7622#^s-aeff8f142af742d4895ee4b3|20]], [[latest/TAR.C54AFFAA7622#^s-28a95a70fc7e3ec4f378f8b9|23]], [[latest/TAR.C54AFFAA7622#^s-847527c2f3a67c7dd0e34bdc|26]], [[latest/TAR.C54AFFAA7622#^s-413a21c622de22a0f7969e02|32]], [[latest/TAR.C54AFFAA7622#^s-6771556ece484a55217abf4f|33]], [[latest/TAR.C54AFFAA7622#^s-ad42dbb29dcb8cc096ac63d2|34]], [[latest/TAR.C54AFFAA7622#^s-333f898dc65636d68f2a7dbc|40]], [[latest/TAR.C54AFFAA7622#^s-6ced2b5b179f643b8a6d95cd|46]], [[latest/TAR.C54AFFAA7622#^s-034fc41d755009571b0c49ae|48]], [[latest/TAR.C54AFFAA7622#^s-481ef0a7601d9933def63763|52]], [[latest/TAR.C54AFFAA7622#^s-2577dadf0cbf2d43642dd8ac|53]], [[latest/TAR.C54AFFAA7622#^s-0365c5b790d821121eb15307|55]], [[latest/TAR.C54AFFAA7622#^s-e52366a3c49b0bcd598a1b6e|64]], [[latest/TAR.C54AFFAA7622#^s-1a84694164dfb5a3a8bde8da|65]], [[latest/TAR.C54AFFAA7622#^s-e02109acdd4253e4ff1b559e|67]], [[latest/TAR.C54AFFAA7622#^s-f2df7d7ac10938aa5d30c273|70]], [[latest/TAR.C54AFFAA7622#^s-04a5e71af2c2c4f86c0bb6ab|73]], [[latest/TAR.C54AFFAA7622#^s-552fcb199d236f8677786590|76]], [[latest/TAR.C54AFFAA7622#^s-b10381e5966a949488008f22|77]], [[latest/TAR.C54AFFAA7622#^s-54897812103727305c56ca6a|81]], [[latest/TAR.C54AFFAA7622#^s-5412d5b2bcaddf13938a7522|88]], [[latest/TAR.C54AFFAA7622#^s-261a8d0ec4e305320e6a7d0d|96]], [[latest/TAR.C54AFFAA7622#^s-153d62d38dd2d3593a6abbd7|97]], [[latest/TAR.C54AFFAA7622#^s-e42ddb9888f848f711ff6ea5|99]] STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS, II SKYRIAUS PAVADINIMO PAKEITIMAS IR ĮSTATYMO PAPILDYMAS 1, 2 PRIEDĖLIAIS BEI PRIEDU
 
 (Žin., 1996, Nr. 84-2000; 1999, Nr. 56-1809; 2002, Nr. 118-5296; 2003, Nr. 57-2529)
 
@@ -516,7 +516,7 @@ Projekto konkursas gali būti vykdomas, kai yra perkamos teritorijos planavimo, 
 „4) viešųjų telekomunikacijų tinklų eksploatavimo ar priežiūros bei viešųjų telekomunikacijų paslaugų teikimo veikla;“.
 
 
-3. Papildyti 55 straipsnio 2 dalį 5 ir [[#^s-652f90c9d29d7c97de634247|6 punktais]]: ^s-57d9286fb29cb123fefb9362
+3. Papildyti 55 straipsnio 2 dalį 5 ir 6 punktais: ^s-57d9286fb29cb123fefb9362
 
 
 „5) su geriamojo vandens gamyba, tiekimu ar paskirstymu susijusi inžinerinių hidrotechnikos projektų, melioracijai ar žemei drėkinti skirtų projektų įgyvendinimo veikla, jeigu daugiau kaip 20 procentų šių projektų įgyvendinimo metu pagaminamo vandens tiekiama kaip geriamasis vanduo;
@@ -558,7 +558,7 @@ Projekto konkursas gali būti vykdomas, kai yra perkamos teritorijos planavimo, 
 „1) prekių ar paslaugų pirkimo vertė mažesnė kaip 75 tūkst. Lt, o darbų – 300 tūkst. Lt be pridėtinės vertės mokesčio;“.
 
 
-3. Papildyti 65 straipsnio 11 dalį 3 ir [[#^s-7392b9c19fc3c88055fe0090|4 punktais]]: ^s-cd124759013a8f91ee5f7596
+3. Papildyti 65 straipsnio 11 dalį 3 ir 4 punktais: ^s-cd124759013a8f91ee5f7596
 
 
 „3) perkamos perkančiosios organizacijos valstybės tarnautojų ir (ar) pagal darbo sutartį dirbančių darbuotojų mokymo paslaugos;
@@ -696,7 +696,7 @@ Supaprastintas projekto konkursas gali būti taikomas perkant teritorijos planav
 99 straipsnio 1 dalį papildyti nauju sakiniu ir šią dalį išdėstyti taip:
 
 
-„1. Pirkimus taikant įprastą komercinę praktiką atlieka perkančiosios organizacijos vadovo paskirti valstybės tarnautojai ar darbuotojai, kurie turi būti nepriekaištingos reputacijos, pasirašę nešališkumo deklaraciją ir konfidencialumo pasižadėjimą, arba šio Įstatymo 68 straipsnyje nurodyta komisija. Šie pirkimai atliekami vadovaujantis perkančiosios organizacijos patvirtintomis taisyklėmis. Pirkimams, atliekamiems taikant įprastą komercinę praktiką, šio įstatymo [[#^s-3892639e05b15897b32534f8|15 straipsnio]] 1–5 dalių, 67 straipsnio, 69–76 straipsnių reikalavimai yra neprivalomi.“
+„1. Pirkimus taikant įprastą komercinę praktiką atlieka perkančiosios organizacijos vadovo paskirti valstybės tarnautojai ar darbuotojai, kurie turi būti nepriekaištingos reputacijos, pasirašę nešališkumo deklaraciją ir konfidencialumo pasižadėjimą, arba šio Įstatymo 68 straipsnyje nurodyta komisija. Šie pirkimai atliekami vadovaujantis perkančiosios organizacijos patvirtintomis taisyklėmis. Pirkimams, atliekamiems taikant įprastą komercinę praktiką, šio įstatymo [[#^s-3892639e05b15897b32534f8|15 straipsnio]] [[#^s-bb0312519e69fa37fb274308|1]]–5 dalių, 67 straipsnio, 69–76 straipsnių reikalavimai yra neprivalomi.“
 
 
 2. Pakeisti 99 straipsnio 4 dalį ir ją išdėstyti taip: ^s-e976cb4fc366450331d62c74
@@ -1112,7 +1112,7 @@ VIEŠŲJŲ PIRKIMŲ ĮSTATYMO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMAS IR ĮS
 Pakeisti [[#^s-7be79bf88ce8300825c39fe7|2 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
-„2. Įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos viešųjų pirkimų įstatymo 6 straipsnio 3 dalies nuostata dėl paskelbimo Europos Bendrijų oficialių leidinių tarnybos specialiame leidinyje, [[#^s-8e344d7611bd2ec8c0e6cb19|7 straipsnio 2 dalies]] 14, 15, 16 ir 17 punktai, 9 straipsnio 1 dalies 5 ir 7 punktai, 2 dalies 9 punktas, 3 dalies 1 punkto nuostata dėl veiklos vykdymo trečiojoje šalyje, kai tam fiziškai nenaudojami Europos Bendrijos tinklai bei geografinė erdvė, 3 dalies 3 punkto nuostatos dėl paslaugų apyvartos Europos Bendrijoje, 4 dalies nuostata dėl informacijos perdavimo Europos Komisijai bei 5 dalies ir 16 straipsnio 2 dalies nuostata dėl informacijos perdavimo Europos Komisijai, 19 straipsnio 1 dalies nuostata dėl spausdinimo Europos Bendrijų oficialių leidinių tarnybos specialiame leidinyje, 5, 6 bei 7 dalys, 20 straipsnio 2 dalies 21 punkto nuostata dėl nuorodos į paskelbimą Europos Bendrijų oficialių leidinių tarnybos specialiame leidinyje, [[#^s-e1009e0ce4357974efb195b4|23 straipsnio 2 dalies]] nuostata dėl terminų skaičiavimo nuo skelbimo apie pirkimą išspausdinti išsiuntimo Europos Bendrijų oficialių leidinių tarnybos specialiam leidiniui, 29 straipsnio 4 dalies nuostata dėl kompetentingų institucijų sąrašo pateikimo šalims Europos Sąjungos narėms bei Europos Komisijai, 34 straipsnio 4 dalis, 45 straipsnio 1 dalies 2 punkto nuostata dėl Europos Komisijos informavimo, 104 straipsnis, 105 straipsnis ir 106 straipsnio 1 dalies nuostata dėl Europos Bendrijų teisės aktų reikalavimų įsigalioja nuo Lietuvos Respublikos narystės Europos Sąjungoje dienos.“
+„2. Įstatymo 1 straipsnyje išdėstyto [[latest/TAR.C54AFFAA7622#^s-ccb5496a1e35ed531dbcd327|Lietuvos Respublikos viešųjų pirkimų įstatymo 6 straipsnio 3 dalies nuostata dėl paskelbimo Europos Bendrijų oficialių leidinių tarnybos specialiame leidinyje, 7 straipsnio 2 dalies]] [[latest/TAR.C54AFFAA7622|14]], [[latest/TAR.C54AFFAA7622|15]], [[latest/TAR.C54AFFAA7622|16]] ir [[latest/TAR.C54AFFAA7622|17]] punktai, 9 straipsnio 1 dalies 5 ir 7 punktai, 2 dalies 9 punktas, 3 dalies 1 punkto nuostata dėl veiklos vykdymo trečiojoje šalyje, kai tam fiziškai nenaudojami Europos Bendrijos tinklai bei geografinė erdvė, 3 dalies 3 punkto nuostatos dėl paslaugų apyvartos Europos Bendrijoje, 4 dalies nuostata dėl informacijos perdavimo Europos Komisijai bei 5 dalies ir 16 straipsnio 2 dalies nuostata dėl informacijos perdavimo Europos Komisijai, 19 straipsnio 1 dalies nuostata dėl spausdinimo Europos Bendrijų oficialių leidinių tarnybos specialiame leidinyje, 5, 6 bei 7 dalys, 20 straipsnio 2 dalies 21 punkto nuostata dėl nuorodos į paskelbimą Europos Bendrijų oficialių leidinių tarnybos specialiame leidinyje, [[#^s-e1009e0ce4357974efb195b4|23 straipsnio 2 dalies]] nuostata dėl terminų skaičiavimo nuo skelbimo apie pirkimą išspausdinti išsiuntimo Europos Bendrijų oficialių leidinių tarnybos specialiam leidiniui, 29 straipsnio 4 dalies nuostata dėl kompetentingų institucijų sąrašo pateikimo šalims Europos Sąjungos narėms bei Europos Komisijai, 34 straipsnio 4 dalis, 45 straipsnio 1 dalies 2 punkto nuostata dėl Europos Komisijos informavimo, 104 straipsnis, 105 straipsnis ir 106 straipsnio 1 dalies nuostata dėl Europos Bendrijų teisės aktų reikalavimų įsigalioja nuo Lietuvos Respublikos narystės Europos Sąjungoje dienos.“
 
 
 
@@ -1132,10 +1132,10 @@ BAIGIAMOSIOS NUOSTATOS
 ### 1 straipsnis. Įstatymo įsigaliojimas ^s-d95347a58827e35ce9e14c17
 
 
-1. Šis Įstatymas, išskyrus pirmojo skirsnio [[#^s-8cec1bed9773121805db3e54|6 straipsnio]] 4 ir 5 dalių bei šio skirsnio 2 straipsnio nuostatas, įsigalioja nuo 2004 m. sausio 1 d. ^s-070880ebbaefdcd87e0df0f2
+1. Šis Įstatymas, išskyrus pirmojo skirsnio [[#^s-8cec1bed9773121805db3e54|6 straipsnio]] [[#^s-ec1e1d6eccbc6899c8c55842|4]] ir [[#^s-153ae405a8a35beba3fe2d27|5]] dalių bei šio skirsnio 2 straipsnio nuostatas, įsigalioja nuo 2004 m. sausio 1 d. ^s-070880ebbaefdcd87e0df0f2
 
 
-2. Šio Įstatymo pirmojo skirsnio [[#^s-8cec1bed9773121805db3e54|6 straipsnio]] 4 ir 5 dalių nuostatos įsigalioja nuo Lietuvos Respublikos narystės Europos Sąjungoje dienos. ^s-d62939c16ad550978bf72e06
+2. Šio Įstatymo pirmojo skirsnio [[#^s-8cec1bed9773121805db3e54|6 straipsnio]] [[#^s-ec1e1d6eccbc6899c8c55842|4]] ir [[#^s-153ae405a8a35beba3fe2d27|5]] dalių nuostatos įsigalioja nuo Lietuvos Respublikos narystės Europos Sąjungoje dienos. ^s-d62939c16ad550978bf72e06
 
 
 

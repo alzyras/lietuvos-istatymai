@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 4 straipsnio 1 dalies papildymas nauju 8 punktu ^s-e04a7a0e7a8f7376337aae6f
 
 
-Papildyti 4 straipsnio 1 dalį nauju [[#^s-e959595f8136b89a8f1cae21|8 punktu]], buvusius 8, [[#^s-f4a79505be5fa7c709810625|9 punktus]] laikyti atitinkamai 9, [[#^s-fbbc8f380a907c42b7a283d5|10 punktais]] ir visą dalį išdėstyti taip:
+Papildyti 4 straipsnio 1 dalį nauju [[#^s-e959595f8136b89a8f1cae21|8 punktu]], buvusius 8, 9 punktus laikyti atitinkamai 9, 10 punktais ir visą dalį išdėstyti taip:
 
 
 „1. Valstybės gynimo taryba:

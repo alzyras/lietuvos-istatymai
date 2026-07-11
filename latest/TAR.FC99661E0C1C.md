@@ -311,7 +311,7 @@ Lietuvos geologijos tarnyba pagal Vyriausybės arba jos įgaliotos institucijos 
 2. Leidimus naudoti geriamąjį gėlą ir gamybinį požeminį vandenį bei žemės gelmių šiluminę energiją juridiniams ir fiziniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, išduoda Aplinkos ministerija jos nustatyta tvarka. ^s-ad58e8385d965a3810d4c31b
 
 
-3. Lietuvos geologijos tarnyba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduoda juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių, leidimus naudoti žemės gelmių išteklius, nenurodytus šio straipsnio 1 ir [[#^s-ad58e8385d965a3810d4c31b|2 dalyse]]. ^s-f00efe3abb0fccebaac00f9c
+3. Lietuvos geologijos tarnyba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduoda juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių, leidimus naudoti žemės gelmių išteklius, nenurodytus šio straipsnio [[#^s-0535dc7485135c43f49715f7|1]] ir [[#^s-ad58e8385d965a3810d4c31b|2]] dalyse. ^s-f00efe3abb0fccebaac00f9c
 
 
 4. Sprendimą dėl leidimo naudoti žemės gelmių išteklius ir ertmes juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių, jei žemės gelmių išteklių ar ertmių naudojimas gali turėti įtakos kitos valstybės žemės gelmių būklei, priima Lietuvos Respublikos Vyriausybė. ^s-3e3d68ef6caa4b9c194e6bb1
@@ -368,7 +368,7 @@ Lietuvos geologijos tarnyba pagal Vyriausybės arba jos įgaliotos institucijos 
 ### 16 straipsnis. Žemės sklypo įsigijimas ^s-880833b0a34486567a825cee
 
 
-Žemės sklypas, reikalingas žemės gelmių ištekliams ar ertmėms naudoti, perkamas, paimamas visuomenės poreikiams ar išnuomojamas [[latest/TAR.CC10C5274343|Žemės įstatymo]], Žemės nuomos įstatymo, kitų teisės aktų nustatyta tvarka.
+Žemės sklypas, reikalingas žemės gelmių ištekliams ar ertmėms naudoti, perkamas, paimamas visuomenės poreikiams ar išnuomojamas [[latest/TAR.CC10C5274343|Žemės įstatymo]], [Žemės nuomos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC), kitų teisės aktų nustatyta tvarka.
 
 
 
@@ -504,7 +504,7 @@ Juridiniai ir fiziniai asmenys bei įmonės, neturinčios juridinio asmens teisi
 ### 25 straipsnis. Duomenų apie žemės gelmes naudojimas ^s-bdad81aa7a1a31edfd4a2e3a
 
 
-1. Valstybinės geologinės informacijos sistemos duomenys apie žemės gelmes (toliau – duomenys) turi būti prieinami Lietuvos Respublikos juridiniams ir fiziniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, išskyrus apribojimus, nustatytus šio straipsnio 4 ir [[#^s-65545c617d444b58c30d4805|5 dalyse]]. Valstybinės geologinės informacijos sistemos naudojimo tvarką nustato Vyriausybės įgaliota institucija. ^s-c39ce94865546fcd89eeba77
+1. Valstybinės geologinės informacijos sistemos duomenys apie žemės gelmes (toliau – duomenys) turi būti prieinami Lietuvos Respublikos juridiniams ir fiziniams asmenims bei įmonėms, neturinčioms juridinio asmens teisių, išskyrus apribojimus, nustatytus šio straipsnio [[#^s-d2287ba50c2972bd3356a40b|4]] ir [[#^s-65545c617d444b58c30d4805|5]] dalyse. Valstybinės geologinės informacijos sistemos naudojimo tvarką nustato Vyriausybės įgaliota institucija. ^s-c39ce94865546fcd89eeba77
 
 
 2. Juridiniai ir fiziniai asmenys bei įmonės, neturinčios juridinio asmens teisių, negali pardavinėti duomenų, gautų iš valstybinės geologinės informacijos sistemos. ^s-079cab2376a00a1c16707b14
@@ -519,7 +519,7 @@ Juridiniai ir fiziniai asmenys bei įmonės, neturinčios juridinio asmens teisi
 5. Vyriausybė gali riboti duomenų apie žemės gelmių išteklius skelbimą, platinimą, perdavimą trečiosioms šalims ar išvežimą iš Lietuvos Respublikos, nesvarbu, kieno lėšomis ir kada jie gauti, jeigu to reikia valstybės interesams. ^s-65545c617d444b58c30d4805
 
 
-6. Jeigu leidimas tirti žemės gelmes ar naudoti žemės gelmių išteklius ir ertmes panaikinamas 9 ir [[#^s-6ddb91f64111c6b3d768e12f|18 straipsnyje]] numatytais atvejais, duomenys turi būti perduoti Lietuvos geologijos tarnybai jos nustatyta tvarka. ^s-4ad6bfdc56df84871278c613
+6. Jeigu leidimas tirti žemės gelmes ar naudoti žemės gelmių išteklius ir ertmes panaikinamas [[#^s-8dffeba78a12621caa319dd9|9]] ir [[#^s-6ddb91f64111c6b3d768e12f|18]] straipsnyje numatytais atvejais, duomenys turi būti perduoti Lietuvos geologijos tarnybai jos nustatyta tvarka. ^s-4ad6bfdc56df84871278c613
 
 
 7. Geologinės kolekcijos, muziejų geologiniai eksponatai, gręžinių kernas ar jo mėginiai gali būti išvežti iš Lietuvos Respublikos tik gavus Lietuvos geologijos tarnybos leidimą, išduotą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. ^s-99248d8a94f9fb5eaf6f61dd

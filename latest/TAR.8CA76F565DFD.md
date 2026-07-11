@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ir Protokolo ratifikavimas ^s-38dffdb118e1b0dc1b1e03ed
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. balandžio 24 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos Tarybos privilegijų ir imunitetų pagrindinį susitarimą bei Europos Tarybos privilegijų ir imunitetų pagrindinio susitarimo pirmąjį protokolą“, ratifikuoja Europos Tarybos privilegijų ir imunitetų pagrindinį susitarimą bei Europos Tarybos privilegijų ir imunitetų pagrindinio susitarimo pirmąjį protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. balandžio 24 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos Tarybos privilegijų ir imunitetų pagrindinį susitarimą bei Europos Tarybos privilegijų ir imunitetų pagrindinio susitarimo pirmąjį protokolą“](https://e-tar.lt/portal/lt/legalAct/TAR.1211E422E0C9), ratifikuoja Europos Tarybos privilegijų ir imunitetų pagrindinį susitarimą bei Europos Tarybos privilegijų ir imunitetų pagrindinio susitarimo pirmąjį protokolą.
 
 
 

@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos suėmimo vykdymo įstatymo 10 straipsnio pake
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.11A8B08A7405#^s-452fbdc0109ee7a63a34f554|Lietuvos Respublikos suėmimo vykdymo įstatymas]] - 3 citatos - 1121010ISTA0XI-2247
-- [[latest/TAR.11A8B08A7405#^s-5da467c38c6e979160f8662a|Lietuvos Respublikos suėmimo vykdymo įstatymas]] - 3 citatos - 1121010ISTA0XI-2247
+- [[latest/TAR.11A8B08A7405#^s-452fbdc0109ee7a63a34f554|Lietuvos Respublikos suėmimo vykdymo įstatymas]] - 2 citatos - 1121010ISTA0XI-2247

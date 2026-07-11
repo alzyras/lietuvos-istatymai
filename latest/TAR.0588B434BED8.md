@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-b45b8360d953c9f266667be4
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. rugsėjo 9 d. dekretą Nr. 64, ratifikuoja 1994 m. rugsėjo 14 d. Briuselyje priimtą Susitarimą dėl trečiųjų valstybių atstovybių ir atstovų Šiaurės Atlanto Sutarties Organizacijoje statuso.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. rugsėjo 9 d. dekretą Nr. 64](https://e-tar.lt/portal/lt/legalAct/TAR.E7800F8D9534), ratifikuoja 1994 m. rugsėjo 14 d. Briuselyje priimtą Susitarimą dėl trečiųjų valstybių atstovybių ir atstovų Šiaurės Atlanto Sutarties Organizacijoje statuso.
 
 
 

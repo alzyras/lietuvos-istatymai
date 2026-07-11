@@ -261,7 +261,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 4. Vairuotojo pažymėjimu patvirtinta teisė vairuoti: ^s-7edf95ae4ec38fe3f703e2de
 
 
-1) [[#^s-abda80ddc6869471bf8a75f8|šio straipsnio 2 dalies]] 2–16 punktuose nurodytų kategorijų transporto priemones taip pat suteikia teisę vairuoti AM kategorijos transporto priemones; ^s-518f3ffa6d4f3e7e1a3abc86
+1) [[#^s-abda80ddc6869471bf8a75f8|šio straipsnio 2 dalies]] [[#^s-7e43a6f0d140266ec2a8959c|2]]–16 punktuose nurodytų kategorijų transporto priemones taip pat suteikia teisę vairuoti AM kategorijos transporto priemones; ^s-518f3ffa6d4f3e7e1a3abc86
 
 
 2) A2 kategorijos transporto priemones suteikia teisę vairuoti ir A1 kategorijos transporto priemones; ^s-7e43a6f0d140266ec2a8959c
@@ -298,10 +298,10 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 ### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-4ea6d90179fea7d76637cd92
 
 
-1. Šis įstatymas, išskyrus 1 ir [[#^s-dbd9e145b7964f587bf6896d|4 straipsnius]] ir [[#^s-b473b32751e2db98cc548bd8|šio straipsnio 3 dalį]], įsigalioja 2012 m. gegužės 1 d. ^s-e3045db91455303987e30111
+1. Šis įstatymas, išskyrus [[#^s-ab32049e87c177be4f37b712|1]] ir [[#^s-dbd9e145b7964f587bf6896d|4]] straipsnius ir [[#^s-b473b32751e2db98cc548bd8|šio straipsnio 3 dalį]], įsigalioja 2012 m. gegužės 1 d. ^s-e3045db91455303987e30111
 
 
-2. Šio įstatymo 1 ir [[#^s-dbd9e145b7964f587bf6896d|4 straipsniai]] įsigalioja 2013 m. sausio 19 d. ^s-de8f6c7f6606adb6efdfee9d
+2. Šio įstatymo [[#^s-ab32049e87c177be4f37b712|1]] ir [[#^s-dbd9e145b7964f587bf6896d|4]] straipsniai įsigalioja 2013 m. sausio 19 d. ^s-de8f6c7f6606adb6efdfee9d
 
 
 3. Vyriausybė ar jos įgaliotos institucijos iki šio įstatymo įsigaliojimo parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^s-b473b32751e2db98cc548bd8

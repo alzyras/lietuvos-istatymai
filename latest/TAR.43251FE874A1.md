@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-90a07a7c2e0a70594f4a235b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. spalio 1 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Islandijos Respublikos sutartį dėl pajamų ir kapitalo dvigubojo apmokestinimo ir fiskalinių pažeidimų išvengimo“, ratifikuoja Lietuvos Respublikos ir Islandijos Respublikos sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo, pasirašytą 1998 m. birželio 13 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. spalio 1 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Islandijos Respublikos sutartį dėl pajamų ir kapitalo dvigubojo apmokestinimo ir fiskalinių pažeidimų išvengimo“](https://e-tar.lt/portal/lt/legalAct/TAR.070C81A2592D), ratifikuoja Lietuvos Respublikos ir Islandijos Respublikos sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo, pasirašytą 1998 m. birželio 13 d. Vilniuje.
 
 
 

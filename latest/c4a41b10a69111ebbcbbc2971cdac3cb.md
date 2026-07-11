@@ -40,13 +40,13 @@ Vilnius
 ### 1 straipsnis. 48 straipsnio pakeitimas ^s-d01b983c8a8491717e9d5a82
 
 
-1. Papildyti 48 straipsnio 2 dalį nauju 12 punktu: ^s-230b020d37b8570d3c29a74d
+1. Papildyti [[latest/9116a35030a011e78397ae072f58c508#^s-89594cfdeed1cec38d7619e4|48 straipsnio 2 dalį]] nauju [[latest/9116a35030a011e78397ae072f58c508|12 punktu]]: ^s-230b020d37b8570d3c29a74d
 
 
 „12) reikalavimai ir (arba) kriterijai dėl statinio informacinio modeliavimo metodų taikymo Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais ir tvarka;“.
 
 
-2. Buvusius 48 straipsnio 2 dalies 12–33 punktus laikyti atitinkamai 13–34 punktais. ^s-9a474295dedf18df2526d8db
+2. Buvusius [[latest/9116a35030a011e78397ae072f58c508#^s-89594cfdeed1cec38d7619e4|48 straipsnio 2 dalies]] [[latest/9116a35030a011e78397ae072f58c508#^s-0a8e2e5428a6846038745729|12]]–[[latest/9116a35030a011e78397ae072f58c508#^s-7f00ef9bb51454297b6136c3|33]] punktus laikyti atitinkamai [[latest/9116a35030a011e78397ae072f58c508#^s-8a8c15af20f0ce559ed0daf0|13]]–[[latest/9116a35030a011e78397ae072f58c508#^s-b94bb41d5076b0413573655d|34]] punktais. ^s-9a474295dedf18df2526d8db
 
 
 

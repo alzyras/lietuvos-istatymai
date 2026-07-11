@@ -486,7 +486,7 @@ Susisiekimo ministerija:
 6. Komisijos narį atleisti iš pareigų prieš terminą Seimui siūlo Respublikos Prezidentas. Į atleistų prieš terminą Komisijos narių vietas Seimas Respublikos Prezidento teikimu penkeriems metams skiria kitus asmenis. ^s-fc49ad36380fe55b4a317a90
 
 
-7. Komisijos pirmininko ir jos narių darbo apmokėjimas nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme. Komisijos pirmininkui ir jos nariams [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodeksas]] taikomas tiek, kiek jų statuso nereglamentuoja šis ir kiti įstatymai. Komisijos pirmininkas ir jos nariai už atliktas vienkartines ypač svarbias užduotis gali būti skatinami vienkartinėmis piniginėmis išmokomis, neviršijant darbo užmokesčiui skirtų lėšų. ^s-2d06767234402653feb0e303
+7. Komisijos pirmininko ir jos narių darbo apmokėjimas nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3). Komisijos pirmininkui ir jos nariams [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodeksas]] taikomas tiek, kiek jų statuso nereglamentuoja šis ir kiti įstatymai. Komisijos pirmininkas ir jos nariai už atliktas vienkartines ypač svarbias užduotis gali būti skatinami vienkartinėmis piniginėmis išmokomis, neviršijant darbo užmokesčiui skirtų lėšų. ^s-2d06767234402653feb0e303
 
 
 8. Sprendimą dėl Komisijos pirmininko ir jos narių skatinimo priima Respublikos Prezidentas. ^s-8255999b8cfd7c148645c831
@@ -555,7 +555,7 @@ Susisiekimo ministerija:
 20) skiria šio įstatymo [[#^s-1b8726b7f5d48cc1385d4e5d|36 straipsnyje]] nustatytas pinigines baudas; ^s-701cecf5e621917602ac74eb
 
 
-21) pagal kompetenciją taiko Lietuvos Respublikos administracinių teisės pažeidimų kodekse nustatytas poveikio priemones už administracinius teisės pažeidimus; ^s-9f3bb99b8538c78959abd35b
+21) pagal kompetenciją taiko [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatytas poveikio priemones už administracinius teisės pažeidimus; ^s-9f3bb99b8538c78959abd35b
 
 
 22) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas. ^s-5f18abd3c3738ef2a702af4e
@@ -625,7 +625,7 @@ Susisiekimo ministerija:
 2) nustatyta tvarka kontroliuoja energetikos objektų, energetikos įrenginių techninę saugą, eksploatavimą, energijos ir energijos išteklių gamybos, perdavimo, skirstymo, tiekimo patikimumą ir vartojimo efektyvumą; ^s-af41923f80f5aa0ffdc35451
 
 
-3) organizuoja atitikties šio įstatymo [[#^s-7b686523aed9198567129c30|27 straipsnio]] 5 ir 6 dalyse nustatytiems efektyvumo reikalavimams patikrinimą. Buitiniams vartotojams atitikties patikrinimo paslauga teikiama neatlygintinai; ^s-fa9cb2234a915cb45097701a
+3) organizuoja atitikties šio įstatymo [[#^s-7b686523aed9198567129c30|27 straipsnio]] [[#^s-8f54359e35b4e81d1d98f65e|5]] ir [[#^s-b39dee2f647ea3113de7a688|6]] dalyse nustatytiems efektyvumo reikalavimams patikrinimą. Buitiniams vartotojams atitikties patikrinimo paslauga teikiama neatlygintinai; ^s-fa9cb2234a915cb45097701a
 
 
 4) tiria energetikos objektų, įrenginių avarijas ir darbo sutrikimus, dalyvauja tiriant nelaimingus atsitikimus darbe, tiria nelaimingus atsitikimus buityje, susijusius su energijos vartojimu; ^s-80c5ff60f1ef6a3b9b63c780
@@ -1029,7 +1029,7 @@ ENERGETIKOS SEKTORIAUS REGULIAVIMAS
 4. Leidimuose verstis prekyba suskystintomis naftos dujomis įrašytų duomenų keitimo atvejai ir tvarka nustatomi Energetikos ministerijos patvirtintose Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse. ^s-5eb65309a46303582903c375
 
 
-5. Leidimai verstis prekyba suskystintomis naftos dujomis išduodami šio straipsnio 2 ir [[#^s-e0459a84a4a3f8255567e5e4|3 dalyse]] nurodytiems asmenims, jeigu jie atitinka šiuos reikalavimus: ^s-bae352c00fb0fac5013e2c58
+5. Leidimai verstis prekyba suskystintomis naftos dujomis išduodami šio straipsnio [[#^s-776c217dc54db837c3b8ea4d|2]] ir [[#^s-e0459a84a4a3f8255567e5e4|3]] dalyse nurodytiems asmenims, jeigu jie atitinka šiuos reikalavimus: ^s-bae352c00fb0fac5013e2c58
 
 
 1) turi Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatytus technologinius, finansinius ir vadybinius pajėgumus, leidžiančius įvykdyti šios veiklos sąlygas; ^s-d78559cd637b2a59c3e4fef3
@@ -1099,7 +1099,7 @@ ENERGETIKOS SEKTORIAUS REGULIAVIMAS
 3. Leidimas verstis didmenine prekyba nefasuotais naftos produktais išduodamas asmenims, nurodytiems šio įstatymo 2 straipsnio 1 dalyje. ^s-37077c4cf122663b966dcc77
 
 
-4. Leidimai verstis prekyba nefasuotais naftos produktais išduodami šio straipsnio 2 ir [[#^s-37077c4cf122663b966dcc77|3 dalyse]] nurodytiems asmenims, jeigu jie atitinka šiuos reikalavimus: ^s-6a955e12cb928e4270c60434
+4. Leidimai verstis prekyba nefasuotais naftos produktais išduodami šio straipsnio [[#^s-c11a6f8c1c217dbfdefb2027|2]] ir [[#^s-37077c4cf122663b966dcc77|3]] dalyse nurodytiems asmenims, jeigu jie atitinka šiuos reikalavimus: ^s-6a955e12cb928e4270c60434
 
 
 1) turi Leidimų verstis prekybos naftos produktais veikla išdavimo taisyklėse nustatytus technologinius, finansinius ir vadybinius pajėgumus, leidžiančius įvykdyti reguliuojamosios veiklos sąlygas; ^s-a060acf82ade2da528697b9b
@@ -1225,7 +1225,7 @@ ENERGETIKOS SEKTORIAUS REGULIAVIMAS
 2) pastatuose įrengtų šildymo katilų, naudojančių neatsinaujinantį kietąjį ar skystąjį kurą, kurių vardinė atiduodamoji galia yra didesnė kaip 100 kW, – kartą per dvejus metus; ^s-6a3e0d94c36707c31e4e7ff8
 
 
-3) šildymo sistemų, kuriose įrengti 20 kW ir didesnės vardinės atiduodamosios galios šildymo katilai, naudojantys neatsinaujinantį kietąjį ar skystąjį kurą, – vieną kartą, kai šildymo sistemoje įrengto katilo tikrinimo pagal šios dalies 1 ir [[#^s-6a3e0d94c36707c31e4e7ff8|2 punktų]] reikalavimus metu nuo šio katilo pagaminimo yra praėję daugiau kaip penkiolika metų; ^s-9975879489032a2435a2511c
+3) šildymo sistemų, kuriose įrengti 20 kW ir didesnės vardinės atiduodamosios galios šildymo katilai, naudojantys neatsinaujinantį kietąjį ar skystąjį kurą, – vieną kartą, kai šildymo sistemoje įrengto katilo tikrinimo pagal šios dalies [[#^s-ce9ce04a72f2682f8865a3cb|1]] ir [[#^s-6a3e0d94c36707c31e4e7ff8|2]] punktų reikalavimus metu nuo šio katilo pagaminimo yra praėję daugiau kaip penkiolika metų; ^s-9975879489032a2435a2511c
 
 
 4) pastatuose įrengtų didesnės kaip 12 kW vardinės atiduodamosios galios oro kondicionavimo sistemų – kartą per trejus metus. ^s-75253d33620c07cf9e867f56
@@ -1386,7 +1386,7 @@ SKUNDŲ IR GINČŲ NAGRINĖJIMAS. atsakomybė
 3. Komisija išankstine privaloma skundų ir ginčų nagrinėjimo ne teisme tvarka nagrinėja vartotojų ir energetikos įmonių skundus ir ginčus dėl energetikos įmonių veiklos ar neveikimo tiekiant, skirstant, perduodant, laikant energiją, dėl teisės energetikos įmonėms pasinaudoti tinklais ir sistemomis nesuteikimo, dėl prisijungimo, energijos ir energijos išteklių tiekimo srautų balansavimo, kainų ir tarifų taikymo. ^s-1f9135f781bf8eb38d53aa40
 
 
-4. Vartotojų ir energetikos įmonių skundai ir ginčai nagrinėjami pagal skundus ir ginčus nagrinėjančios institucijos nustatytas tokių skundų ir ginčų nagrinėjimo taisykles, laikantis įstatymų nustatytų reikalavimų. Šiose taisyklėse, vadovaujantis šio straipsnio 5–[[#^s-970a57e9211ff618e55a9084|18 dalyse]] numatytais reikalavimais, nustatomi prašymų išnagrinėti skundą ar išspręsti ginčą formos, turinio ir pateikimo, įrodymų pateikimo ir rinkimo reikalavimai, taip pat nustatoma detali skundų ir ginčų nagrinėjimo procedūra. ^s-10d42f7d97791ee007534de0
+4. Vartotojų ir energetikos įmonių skundai ir ginčai nagrinėjami pagal skundus ir ginčus nagrinėjančios institucijos nustatytas tokių skundų ir ginčų nagrinėjimo taisykles, laikantis įstatymų nustatytų reikalavimų. Šiose taisyklėse, vadovaujantis šio straipsnio [[#^s-f09f6e19109105f8edfa4ad5|5]]–[[#^s-970a57e9211ff618e55a9084|18]] dalyse numatytais reikalavimais, nustatomi prašymų išnagrinėti skundą ar išspręsti ginčą formos, turinio ir pateikimo, įrodymų pateikimo ir rinkimo reikalavimai, taip pat nustatoma detali skundų ir ginčų nagrinėjimo procedūra. ^s-10d42f7d97791ee007534de0
 
 
 5. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjanti institucija atsisako priimti prašymą nagrinėti skundą ar ginčą, jeigu: ^s-f09f6e19109105f8edfa4ad5
@@ -1407,7 +1407,7 @@ SKUNDŲ IR GINČŲ NAGRINĖJIMAS. atsakomybė
 5) asmens vardu prašymą nagrinėti skundą ar ginčą padavė neįgaliotas asmuo. ^s-a046214e5bc6bcc55c4f4895
 
 
-6. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjanti institucija nutraukia ginčo ar skundo nagrinėjimą, jeigu paaiškėja [[#^s-f09f6e19109105f8edfa4ad5|šio straipsnio 5 dalies]] 1 ar [[#^s-e87b03a2883e7631fcd85b6b|2 punkte]] nurodytos aplinkybės, taip pat jeigu: ^s-11b6af07bfbdef6f5d1fd66a
+6. Vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjanti institucija nutraukia ginčo ar skundo nagrinėjimą, jeigu paaiškėja [[#^s-f09f6e19109105f8edfa4ad5|šio straipsnio 5 dalies]] [[#^s-4e05e9925c67fd7e543c75d6|1]] ar [[#^s-e87b03a2883e7631fcd85b6b|2]] punkte nurodytos aplinkybės, taip pat jeigu: ^s-11b6af07bfbdef6f5d1fd66a
 
 
 1) pareiškėjas (ieškovas) atsisakė prašymo nagrinėti skundą ar ginčą, o skundus ir ginčus nagrinėjanti institucija atsisakymą patvirtino; ^s-4e05e9925c67fd7e543c75d6
@@ -1461,7 +1461,7 @@ SKUNDŲ IR GINČŲ NAGRINĖJIMAS. atsakomybė
 16. Ginčo šalys per 30 dienų nuo vartotojų ir energetikos įmonių ginčus nagrinėjančios institucijos sprendimo, kuriuo ginčas išsprendžiamas iš esmės ar ginčo nagrinėjimas nutraukiamas, priėmimo turi teisę kreiptis į Vilniaus apygardos teismą ir prašyti nagrinėti jų ginčą iš esmės. ^s-8dc928c81b7c9d5da7c874cd
 
 
-17. Įsigaliojęs vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjančios institucijos sprendimas yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas, jis gali būti priverstinai vykdomas Lietuvos Respublikos civilinio proceso kodekso (toliau – Civilinio proceso kodeksas) nustatyta tvarka. ^s-f37acf949462bcb2a621b531
+17. Įsigaliojęs vartotojų ir energetikos įmonių skundus ir ginčus nagrinėjančios institucijos sprendimas yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas, jis gali būti priverstinai vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) (toliau – [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F)) nustatyta tvarka. ^s-f37acf949462bcb2a621b531
 
 
 18. Asmenys, veikiantys energetikos sektoriuje, vadovaudamiesi šio įstatymo ir [[latest/TAR.27B041C4CCDE|Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymo]] nuostatomis, turi teisę kreiptis į skundus ir ginčus nagrinėjančią instituciją, kad ji šiems asmenims tarpininkautų ir (ar) juos taikintų, siekiant ginčą dėl šio įstatymo reglamentuojamų visuomeninių santykių išspręsti taikiai be privalomo skundų sprendimo. Skundus ir ginčus nagrinėjanti institucija nustato taikinamojo tarpininkavimo taisykles, kurios taikomos asmenims ginčo taikinimo tarpininku pasirinkus skundus ir ginčus nagrinėjančią instituciją. ^s-970a57e9211ff618e55a9084
@@ -1526,7 +1526,7 @@ Asmenys, nesilaikantys ar nevykdantys šio įstatymo reikalavimų, atsako šio i
 8. Komisijai svarstant baudos skyrimo klausimą, dalyvauja energetikos įmonės, kuri įtariama padariusi pažeidimą ir kuriai skiriama bauda, vadovas ir (arba) jo įgaliotas atstovas, kurie turi teisę būti išklausyti ir duoti paaiškinimus. Jeigu šie asmenys nedalyvauja, baudos skyrimo klausimas gali būti išnagrinėtas tik tais atvejais, kai yra duomenų, kad jiems laiku pranešta apie šio klausimo nagrinėjimo vietą ir laiką, ir negautas jų prašymas atidėti klausimo nagrinėjimą. Tuo atveju, kai yra gautas prašymas atidėti klausimo nagrinėjimą, šis klausimas gali būti išnagrinėtas nedalyvaujant asmeniui, jeigu Komisija, pripažinusi neatvykimo į klausimo nagrinėjimą priežastis nesvarbiomis, atmeta asmens prašymą atidėti klausimo nagrinėjimą. ^s-4a4e52eaf94e246252df6b31
 
 
-9. Komisijos sprendimas dėl baudos skyrimo turi būti priimtas per šešis mėnesius nuo pažeidimo nustatymo dienos. Tęstinio pažeidimo atveju bauda gali būti paskirta ne vėliau kaip per šešis mėnesius nuo pažeidimo paaiškėjimo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip penkeri metai, baudos negali būti skiriamos. ^s-d1bb0a9b2c45ab1891874cc6
+9. Komisijos sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo turi būti priimtas per šešis mėnesius nuo pažeidimo nustatymo dienos. Tęstinio pažeidimo atveju bauda gali būti paskirta ne vėliau kaip per šešis mėnesius nuo pažeidimo paaiškėjimo dienos. Už pažeidimus, nuo kurių padarymo dienos praėjo daugiau kaip penkeri metai, baudos negali būti skiriamos. ^s-d1bb0a9b2c45ab1891874cc6
 
 
 10. Už tą patį pažeidimą gali būti skiriama tik viena bauda. Baudos skyrimas neatleidžia nuo pareigos, už kurios nevykdymą paskirta bauda, vykdymo. ^s-4f0b541b32f5d7a735491468
@@ -1535,13 +1535,13 @@ Asmenys, nesilaikantys ar nevykdantys šio įstatymo reikalavimų, atsako šio i
 11. Komisijos paskirta bauda į valstybės biudžetą sumokama Komisijos nustatyta tvarka ir terminais. ^s-ec67c30d5299ce2aaf1b09d6
 
 
-12. Komisijos sprendimas dėl baudos skyrimo per 30 dienų nuo jo priėmimo dienos gali būti skundžiamas teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-f5e47afdc671745808139a29
+12. Komisijos sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo per 30 dienų nuo jo priėmimo dienos gali būti skundžiamas teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-f5e47afdc671745808139a29
 
 
-13. Komisijos sprendimas dėl baudos skyrimo įsigalioja po 30 dienų nuo jo priėmimo dienos, jeigu per šį laiką įstatymų nustatyta tvarka nebuvo apskųstas teismui. ^s-c4b8a57b94e098bafafd50c0
+13. Komisijos sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo įsigalioja po 30 dienų nuo jo priėmimo dienos, jeigu per šį laiką įstatymų nustatyta tvarka nebuvo apskųstas teismui. ^s-c4b8a57b94e098bafafd50c0
 
 
-14. Komisijos sprendimas dėl baudos skyrimo yra vykdytinas ir vykdomasis dokumentas. Komisijos sprendimas vykdomas Civilinio proceso kodekso nustatyta tvarka. ^s-790fc0484ba28cb910edeca6
+14. Komisijos sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo yra vykdytinas ir vykdomasis dokumentas. Komisijos sprendimas vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-790fc0484ba28cb910edeca6
 
 
 15. Komisija, vadovaudamasi šio straipsnio nuostatomis, patvirtina baudų skyrimo taisykles. ^s-f3b0da1321859654f9a95472
@@ -1589,7 +1589,7 @@ priedas
 4. 2006 m. sausio 18 d. Europos Parlamento ir Tarybos direktyva 2005/89/EB dėl priemonių siekiant užtikrinti elektros energijos tiekimo saugumą ir investicijas į infrastruktūrą (OL 2006 L 33, p. 22). ^s-d7be70fc37bdda2eaf3345b8
 
 
-5. 2006 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2006/32/EB dėl energijos galutinio vartojimo efektyvumo ir energetinių paslaugų, panaikinanti Tarybos direktyvą 93/76/EEB (OL 2006 L 114, p. 64), su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 dėl kai kurių teisės aktų, kuriems taikoma Sutarties 251 straipsnyje nustatyta tvarka, nuostatų, susijusių su reguliavimo procedūra su tikrinimu, suderinimo su Tarybos sprendimu 1999/468/EB (OL 2008 L 311, p. 1). ^s-f8b00d3c009052e7e692e851
+5. 2006 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2006/32/EB dėl energijos galutinio vartojimo efektyvumo ir energetinių paslaugų, panaikinanti Tarybos direktyvą 93/76/EEB (OL 2006 L 114, p. 64), su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1137/2008](https://eur-lex.europa.eu/eli/reg/1137/2008/oj) dėl kai kurių teisės aktų, kuriems taikoma Sutarties 251 straipsnyje nustatyta tvarka, nuostatų, susijusių su reguliavimo procedūra su tikrinimu, suderinimo su Tarybos sprendimu 1999/468/EB (OL 2008 L 311, p. 1). ^s-f8b00d3c009052e7e692e851
 
 
 6. 2009 m. kovo 18 d. Komisijos reglamentas (EB) Nr. 245/2009, kuriuo įgyvendinama Europos Parlamento ir Tarybos direktyva 2005/32/EB, nustatant liuminescencinių lempų su įmontuotu balastiniu įtaisu, didelio intensyvumo išlydžio lempų, balastinių įtaisų ir tas lempas naudoti pritaikytų šviestuvų ekologinio projektavimo reikalavimus, ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2000/55/EB (OL 2009 L 76, p. 17), su paskutiniais pakeitimais, padarytais 2010 m. balandžio 21 d. Komisijos reglamentu (ES) Nr. 347/2010, kuriuo iš dalies keičiamas Komisijos reglamentas (EB) Nr. 245/2009 dėl liuminescencinių lempų be įmontuoto balastinio įtaiso, didelio intensyvumo išlydžio lempų, balastinių įtaisų ir tas lempas naudoti pritaikytų šviestuvų ekologinio projektavimo reikalavimų (OL 2010 L 104, p. 20). ^s-5c80cf7176e6322ebf4e9ff6
@@ -1607,10 +1607,10 @@ priedas
 10. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 713/2009, įsteigiantis Energetikos reguliavimo institucijų bendradarbiavimo agentūrą (OL 2009 L 211, p. 1). ^s-f291d3655240ef0b6b95d376
 
 
-11. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinantis Reglamentą (EB) Nr. 1228/2003 (OL 2009 L 211, p. 15). ^s-24b781ff97e91d9b8782909c
+11. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinantis [Reglamentą (EB) Nr. 1228/2003](https://eur-lex.europa.eu/eli/reg/1228/2003/oj) (OL 2009 L 211, p. 15). ^s-24b781ff97e91d9b8782909c
 
 
-12. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinantis Reglamentą (EB) Nr. 1775/2005 (OL 2009 L 211, p. 36), su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinančio Reglamentą (EB) Nr. 1775/2005 (OL 2009 L 309, p. 87). ^s-a76b76b8957f388b833684c7
+12. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinantis [Reglamentą (EB) Nr. 1775/2005](https://eur-lex.europa.eu/eli/reg/1775/2005/oj) (OL 2009 L 211, p. 36), su paskutiniais pakeitimais, padarytais 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinančio [Reglamentą (EB) Nr. 1775/2005](https://eur-lex.europa.eu/eli/reg/1775/2005/oj) (OL 2009 L 309, p. 87). ^s-a76b76b8957f388b833684c7
 
 
 13. 2009 m. liepos 22 d. Komisijos reglamentas (EB) Nr. 643/2009, kuriuo įgyvendinant Europos Parlamento ir Tarybos direktyvą 2005/32/EB nustatomi buitinių šaldymo aparatų ekologinio projektavimo reikalavimai (OL 2009 L 191, p. 53), su paskutiniais pakeitimais, padarytais 2009 m. liepos 22 d. Komisijos reglamentu (EB) Nr. 643/2009, kuriuo įgyvendinant Europos Parlamento ir Tarybos direktyvą 2005/32/EB nustatomi buitinių šaldymo aparatų ekologinio projektavimo reikalavimai (OL 2009 L 226, p. 23). ^s-f80f6390cf8bfe0b7e885e36

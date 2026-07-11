@@ -107,23 +107,23 @@ Vilnius
 4. Lietuvos apeliacinio teismo Administracinių bylų skyriuje ir Aukštesniajame administraciniame teisme pradėtas nagrinėti administracines bylas turi išnagrinėti tos pačios sudėties teismas. Lietuvos apeliacinio teismo Administracinių bylų skyriaus ir Aukštesniojo administracinio teismo nebaigtos nagrinėti administracinės bylos po 2001 m. sausio 1 d. teismams perduodamos pagal kompetenciją. ^s-555b9d0c2f1d119e61892a0b
 
 
-5. Administracinių teisės pažeidimų bylos pagal skundus dėl įgaliotų valstybės institucijų (pareigūnų) paskirtų administracinių nuobaudų už Administracinių teisės pažeidimų kodekse numatytus teisės pažeidimus, apygardų administraciniuose teismuose neišnagrinėtos iki šio įstatymo įsigaliojimo, baigiamos nagrinėti pirmąja instancija vadovaujantis Administracinių teisės pažeidimų kodekso ir [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] normomis. ^s-bf6dfb8d4506dd491cd66ce1
+5. Administracinių teisės pažeidimų bylos pagal skundus dėl įgaliotų valstybės institucijų (pareigūnų) paskirtų administracinių nuobaudų už [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytus teisės pažeidimus, apygardų administraciniuose teismuose neišnagrinėtos iki šio įstatymo įsigaliojimo, baigiamos nagrinėti pirmąja instancija vadovaujantis [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) ir [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] normomis. ^s-bf6dfb8d4506dd491cd66ce1
 
 
-6. Apygardų administracinių teismų nutartys, nutarimai ir sprendimai, priimti administracinių teisės pažeidimų bylose pagal skundus dėl įgaliotų valstybės institucijų (pareigūnų) paskirtų administracinių nuobaudų už Administracinių teisės pažeidimų kodekse numatytus teisės pažeidimus, gali būti apskųsti Lietuvos vyriausiajam administraciniam teismui per 3 mėnesius nuo šio teismo įsteigimo dienos. ^s-e97e2a17f0668569ef8bdcf3
+6. Apygardų administracinių teismų nutartys, nutarimai ir sprendimai, priimti administracinių teisės pažeidimų bylose pagal skundus dėl įgaliotų valstybės institucijų (pareigūnų) paskirtų administracinių nuobaudų už [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytus teisės pažeidimus, gali būti apskųsti Lietuvos vyriausiajam administraciniam teismui per 3 mėnesius nuo šio teismo įsteigimo dienos. ^s-e97e2a17f0668569ef8bdcf3
 
 
 7. [[#^s-bf6dfb8d4506dd491cd66ce1|Šio straipsnio 5 dalyje]] nurodyti skundai, gauti Aukštesniajame administraciniame teisme ar apygardų administraciniuose teismuose iki šio įstatymo įsigaliojimo dienos, perduodami Lietuvos vyriausiajam administraciniam teismui ir jame nagrinėjami apeliacine tvarka. ^s-e7239dd709eb083fd86bc14a
 
 
-8. Administracinių teisės pažeidimų kodekso 308 straipsnio 1 dalyje numatytas nutarimo skirti administracinę nuobaudą perdavimo vykdyti senaties terminas šio įstatymo šiame straipsnyje numatytais atvejais skaičiuojamas nuo tos dienos, kurią bylą apeliacine tvarka išnagrinėja Lietuvos vyriausiasis administracinis teismas. ^s-43f16dab5e8626d211ac6985
+8. [Administracinių teisės pažeidimų kodekso 308 straipsnio 1 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytas nutarimo skirti administracinę nuobaudą perdavimo vykdyti senaties terminas šio įstatymo šiame straipsnyje numatytais atvejais skaičiuojamas nuo tos dienos, kurią bylą apeliacine tvarka išnagrinėja Lietuvos vyriausiasis administracinis teismas. ^s-43f16dab5e8626d211ac6985
 
 
 
 ### 6 straipsnis. Pasiūlymai Vyriausybei ^s-a442af496b1d884a35da0a02
 
 
-Vyriausybė ar jos įgaliota institucija kartu su teismais parengia ir pateikia pasiūlymus dėl šio įstatymo [[#^s-2c525308486477da7747f0e3|3 straipsnio]] 1 ir 2 dalių įgyvendinimo [[latest/TAR.082C8C244DCC|Lietuvos Respublikos 2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme]].
+Vyriausybė ar jos įgaliota institucija kartu su teismais parengia ir pateikia pasiūlymus dėl šio įstatymo [[#^s-2c525308486477da7747f0e3|3 straipsnio]] [[#^s-66acd414105fbc90aa81ab3a|1]] ir [[#^s-6b49467fde59bdc4ca6b5865|2]] dalių įgyvendinimo [[latest/TAR.082C8C244DCC|Lietuvos Respublikos 2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme]].
 
 
 

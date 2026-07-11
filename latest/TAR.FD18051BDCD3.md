@@ -157,28 +157,28 @@ LIETUVOS RESPUBLIKOS VALSTYBĖS TARNAUTOJŲ PAREIGYBIŲ KATEGORIJOS IR PAREIGINI
 Įsigaliojus šiam įstatymui, netenka galios:
 
 
-1) [[latest/TAR.D3ED3792F52B#^s-a4146cc83d8a56e3211ddefa|Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio]] ir 1 priedo pakeitimo įstatymas (Žin., 2009, Nr. 91-3918); ^s-6a34c7610e00c8b76d7e18ce
+1) [Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio ir 1 priedo pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.D2E5E3085605) (Žin., 2009, Nr. 91-3918); ^s-6a34c7610e00c8b76d7e18ce
 
 
-2) [[latest/TAR.D3ED3792F52B#^s-a4146cc83d8a56e3211ddefa|Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio]] ir 1 priedo pakeitimo įstatymo [[#^s-dce2641b028bc2abd3cfb9f1|4 straipsnio]] pakeitimo įstatymas (Žin., 2010, Nr. 82-4298); ^s-0cc5e365db7c62984b272474
+2) Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio ir 1 priedo pakeitimo įstatymo 4 straipsnio pakeitimo įstatymas (Žin., 2010, Nr. 82-4298); ^s-0cc5e365db7c62984b272474
 
 
-3) [[latest/TAR.D3ED3792F52B#^s-a4146cc83d8a56e3211ddefa|Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio]] ir 1 priedo pakeitimo įstatymo [[#^s-dce2641b028bc2abd3cfb9f1|4 straipsnio]] pakeitimo įstatymas (Žin., 2011, Nr. 150-7036); ^s-c1a35c43a274d5142ac19277
+3) Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio ir 1 priedo pakeitimo įstatymo 4 straipsnio pakeitimo įstatymas (Žin., 2011, Nr. 150-7036); ^s-c1a35c43a274d5142ac19277
 
 
-4) [[latest/TAR.D3ED3792F52B#^s-a4146cc83d8a56e3211ddefa|Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio]] ir 1 priedo pakeitimo įstatymo [[#^s-dce2641b028bc2abd3cfb9f1|4 straipsnio]] pakeitimo įstatymas (Žin., 2012, Nr. 155-7992); ^s-a2b477de957b3ba33d1beb2d
+4) Lietuvos Respublikos valstybės tarnybos įstatymo 25 straipsnio ir 1 priedo pakeitimo įstatymo 4 straipsnio pakeitimo įstatymas (Žin., 2012, Nr. 155-7992); ^s-a2b477de957b3ba33d1beb2d
 
 
-5) [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymo]] 1 priedo pakeitimo įstatymas (Žin., 2009, Nr. 49-1937); ^s-cdb1e40c4fe29e356e7506e9
+5) [Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedo pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.02DE112B276E) (Žin., 2009, Nr. 49-1937); ^s-cdb1e40c4fe29e356e7506e9
 
 
-6) [[latest/TAR.D3ED3792F52B#^s-bf8be1b7d65210c7b3ee46cd|Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedo pakeitimo įstatymo 3 straipsnio]] pakeitimo įstatymas (Žin., 2010, Nr. 82-4297); ^s-425ab31dbafcd30a084fa3fd
+6) Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedo pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas (Žin., 2010, Nr. 82-4297); ^s-425ab31dbafcd30a084fa3fd
 
 
-7) [[latest/TAR.D3ED3792F52B#^s-bf8be1b7d65210c7b3ee46cd|Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedo pakeitimo įstatymo 3 straipsnio]] pakeitimo įstatymas (Žin., 2011, Nr. 150-7038); ^s-841663e577e5d7d1d81739e8
+7) Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedo pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas (Žin., 2011, Nr. 150-7038); ^s-841663e577e5d7d1d81739e8
 
 
-8) [[latest/TAR.D3ED3792F52B#^s-bf8be1b7d65210c7b3ee46cd|Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedo pakeitimo įstatymo 3 straipsnio]] pakeitimo įstatymas (Žin., 2012, Nr. 155-7993). ^s-a207b35b4f280a55728a2c83
+8) Lietuvos Respublikos valstybės tarnybos įstatymo 1 priedo pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas (Žin., 2012, Nr. 155-7993). ^s-a207b35b4f280a55728a2c83
 
 
 

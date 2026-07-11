@@ -205,7 +205,7 @@ Nr. XII-753, 2013-12-23, paskelbta TAR 2014-01-02, i. k. 2014-00007
 ### 5 straipsnis. Muziejų taryba ^s-2c76971b626f43da8936e2e7
 
 
-Prie Kultūros ministerijos veikia kolegiali, patariamojo balso teisę turinti Muziejų taryba, vykdanti eksperto ir konsultanto funkcijas sprendžiant muziejų politikos formavimo ir įgyvendinimo klausimus. Muziejų tarybos sudarymo tvarką nustato ir jos nuostatus tvirtina kultūros ministras. Muziejų tarybos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka.
+Prie Kultūros ministerijos veikia kolegiali, patariamojo balso teisę turinti Muziejų taryba, vykdanti eksperto ir konsultanto funkcijas sprendžiant muziejų politikos formavimo ir įgyvendinimo klausimus. Muziejų tarybos sudarymo tvarką nustato ir jos nuostatus tvirtina kultūros ministras. Muziejų tarybos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
@@ -380,7 +380,7 @@ Konservuoti ir restauruoti muziejines vertybes turi teisę atestuoti restaurator
 ### 11 straipsnis. Muziejų perkėlimas iš užimamų patalpų ^s-bb2d5d066af5848f91d8b0e8
 
 
-Muziejus galima perkelti iš užimamų patalpų tik į geresnes, muziejaus funkcijoms atlikti tinkamas, patalpas, išskyrus šio Įstatymo [[#^s-d9666f37bfb7ba3ef4c05e53|4 straipsnio]] 6 ir 7 dalyse nurodytus muziejus.
+Muziejus galima perkelti iš užimamų patalpų tik į geresnes, muziejaus funkcijoms atlikti tinkamas, patalpas, išskyrus šio Įstatymo [[#^s-d9666f37bfb7ba3ef4c05e53|4 straipsnio]] [[#^s-b36f18a21519badb0016eb6d|6]] ir [[#^s-4cf4f8a10eea4f3595853838|7]] dalyse nurodytus muziejus.
 
 
 
@@ -516,8 +516,8 @@ Nr. VIII-319, 1997-06-26, Žin., 1997, Nr. 65-1546 (1997-07-09), i. k. [[latest/
 
 2.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-1999-03-16, Žin., 1999, Nr. 26-740 (1999-03-19), i. k. 0991000NUTARG990487
-Dėl Lietuvos Respublikos muziejų įstatymo 5 straipsnio 2 dalies atitikimo Lietuvos Respublikos Konstitucijai
+1999-03-16, Žin., 1999, Nr. 26-740 (1999-03-19), i. k. [0991000NUTARG990487](https://e-tar.lt/portal/lt/legalAct/TAR.3E1891EF3C53)
+[Dėl Lietuvos Respublikos muziejų įstatymo 5 straipsnio 2 dalies atitikimo Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/TAR.3E1891EF3C53)
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -542,7 +542,7 @@ Lietuvos Respublikos muziejų įstatymo Nr. I-930 papildymo 7-1 straipsniu ir [[
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1315, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10967
-Lietuvos Respublikos muziejų įstatymo Nr. I-930 7 ir [[#^s-8b3dacda13dfe9c837b494ac|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos muziejų įstatymo Nr. I-930 [[#^s-c92797224c9d0640839ca053|7]] ir [[#^s-8b3dacda13dfe9c837b494ac|9]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -552,4 +552,4 @@ Lietuvos Respublikos muziejų įstatymo Nr. I-930 [[#^s-2c76971b626f43da8936e2e7
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3117, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15350
-Lietuvos Respublikos muziejų įstatymo Nr. I-930 12 ir [[#^s-b784e2fde5e4dd4d46888a9e|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos muziejų įstatymo Nr. I-930 [[#^s-7f729819cea0f5f2269cd9eb|12]] ir [[#^s-b784e2fde5e4dd4d46888a9e|13]] straipsnių pakeitimo įstatymas

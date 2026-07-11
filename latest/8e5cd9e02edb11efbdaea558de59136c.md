@@ -40,20 +40,20 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-705a2d4e99a1344402624388
 
 
-Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/09a371f081df11ed8df094f359a60216#^s-f7da0a46b845f2f47d37a1a3|2 straipsnio 5 dalį]] ir ją išdėstyti taip:
 
 
-„5. Viešasis objektas – viešosios paskirties įrenginys, paminklas, skulptūra, obeliskas, memorialinė lenta, kitas atminimui įamžinti skirtas objektas ar kitoks valstybei ar savivaldybėms nuosavybės teise priklausantis ar jų valdomas arba valstybei ar savivaldybei nuosavybės teise priklausančioje žemėje esantis, bet savininko neturintis turtas, juridinių asmenų patikėjimo teise valdomas valstybės ar savivaldybės turtas, viešoji vieta – gatvė, aikštė, parkas, skveras, laidojimo vietos ar kita visuomeninės paskirties erdvė, taip pat šių objektų pavadinimas, renginiai ir įvykiai – vardinės premijos, konkursai ir kiti šio įstatymo 3 straipsnyje numatytas nuostatas atitinkantys vieši veiksmai.“
+„5. Viešasis objektas – viešosios paskirties įrenginys, paminklas, skulptūra, obeliskas, memorialinė lenta, kitas atminimui įamžinti skirtas objektas ar kitoks valstybei ar savivaldybėms nuosavybės teise priklausantis ar jų valdomas arba valstybei ar savivaldybei nuosavybės teise priklausančioje žemėje esantis, bet savininko neturintis turtas, juridinių asmenų patikėjimo teise valdomas valstybės ar savivaldybės turtas, viešoji vieta – gatvė, aikštė, parkas, skveras, laidojimo vietos ar kita visuomeninės paskirties erdvė, taip pat šių objektų pavadinimas, renginiai ir įvykiai – vardinės premijos, konkursai ir kiti šio įstatymo [[latest/09a371f081df11ed8df094f359a60216#^s-2bed8156eb6b62e9f2414258|3 straipsnyje]] numatytas nuostatas atitinkantys vieši veiksmai.“
 
 
 
 ### 2 straipsnis. 4 straipsnio pakeitimas ^s-fc1a1c3bef32132b15893b0a
 
 
-Pakeisti 4 straipsnio 7 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/09a371f081df11ed8df094f359a60216#^s-bfa37f8a642b0ae5cc6d16a6|4 straipsnio 7 dalį]] ir ją išdėstyti taip:
 
 
-„7. Komisija, spręsdama dėl kapinių, kitų laidojimo vietų arba jų teritorijoje įrengtų viešųjų objektų atitikties šio įstatymo 3 straipsnio nuostatoms, turi gauti Lietuvos Respublikos krašto apsaugos ministerijos, Lietuvos Respublikos užsienio reikalų ministerijos ir Departamento nuomonę, o kai šioje dalyje nurodyti viešieji objektai naudojami vykdant religinių bendruomenių ir bendrijų veiklą, – Lietuvos Respublikos teisingumo ministerijos nuomonę.“
+„7. Komisija, spręsdama dėl kapinių, kitų laidojimo vietų arba jų teritorijoje įrengtų viešųjų objektų atitikties šio įstatymo [[latest/09a371f081df11ed8df094f359a60216#^s-2bed8156eb6b62e9f2414258|3 straipsnio]] nuostatoms, turi gauti Lietuvos Respublikos krašto apsaugos ministerijos, Lietuvos Respublikos užsienio reikalų ministerijos ir Departamento nuomonę, o kai šioje dalyje nurodyti viešieji objektai naudojami vykdant religinių bendruomenių ir bendrijų veiklą, – Lietuvos Respublikos teisingumo ministerijos nuomonę.“
 
 
 

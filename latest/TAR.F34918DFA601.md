@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-f6ef2ad922abca7c51e8c61c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. kovo 19 d. dekretą Nr. 1K-1285, ratifikuoja 2000 m. spalio 17 d. Londone sudarytą Susitarimą dėl Europos patentų išdavimo konvencijos (Europos patentų konvencijos) 65 straipsnio taikymo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. kovo 19 d. dekretą Nr. 1K-1285](https://e-tar.lt/portal/lt/legalAct/TAR.D78CF0A89C89), ratifikuoja 2000 m. spalio 17 d. Londone sudarytą Susitarimą dėl Europos patentų išdavimo konvencijos (Europos patentų konvencijos) 65 straipsnio taikymo.
 
 
 

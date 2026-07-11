@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-2a1f9869a63a650b785c7d9d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. birželio 24 d. dekretą Nr. 1819, ratifikuoja Protokolą, iš dalies pakeičiantį Pasaulio prekybos organizacijos sutarties dėl prekybos civilinės aviacijos orlaiviais priedą, priimtą 2001 m. birželio 6 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. birželio 24 d. dekretą Nr. 1819](https://e-tar.lt/portal/lt/legalAct/TAR.09287A74B883), ratifikuoja Protokolą, iš dalies pakeičiantį Pasaulio prekybos organizacijos sutarties dėl prekybos civilinės aviacijos orlaiviais priedą, priimtą 2001 m. birželio 6 d. Ženevoje.
 
 
 

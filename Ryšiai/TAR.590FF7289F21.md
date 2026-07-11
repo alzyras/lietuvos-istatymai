@@ -9,11 +9,12 @@ pavadinimas: "Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengim
 
 ## Šis įstatymas cituoja
 
-- [[latest/f6d686707e7011e6b969d7ae07280e89#^s-702812be1b2b340016755148|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Lietuvos Respublikos darbo kodekso 136 straipsnio 1 dalyje
-- [[latest/TAR.C70309CDEB7B|Lietuvos Respublikos karo padėties įstatymas]] - 2 citatos - Lietuvos Respublikos karo padėties įstatymas
-- [[latest/TAR.3CD1008B88A9|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS MOBILIZACIJOS IR PRIIMANČIOSIOS ŠALIES PARAMOS ĮSTATYMAS
+- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 4 citatos - 14
+- [[latest/f6d686707e7011e6b969d7ae07280e89#^s-2c6b4283c72d4c9cef9fc612|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 13
+- [[latest/f6d686707e7011e6b969d7ae07280e89#^s-f16393de94af98a207c3a282|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 3
+- [[latest/f6d686707e7011e6b969d7ae07280e89#^s-f95dc0561c512b3e579a154a|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos darbo kodekso 136 straipsnio 1 dalyje ir Valstybės tarnybos įstatymo 44 straipsnio 1 dalies
+- [[latest/TAR.C70309CDEB7B|Lietuvos Respublikos karo padėties įstatymas]] - Lietuvos Respublikos karo padėties įstatymas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.3CD1008B88A9#^s-5a2baad6c52c2d9f450426db|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - 3 citatos - 1111010ISTA0XI-1413
-- [[latest/TAR.3CD1008B88A9#^s-93fa7136d72e7a2e07140fde|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - 3 citatos - 1111010ISTA0XI-1413
+- [[latest/TAR.3CD1008B88A9#^s-93fa7136d72e7a2e07140fde|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - 2 citatos - 1111010ISTA0XI-1413

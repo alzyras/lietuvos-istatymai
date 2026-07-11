@@ -159,7 +159,7 @@ Nr. XIII-302, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06978
 2. Laidojimo pašalpa taip pat mokama, kai Lietuvos Respublikoje gyvenančio asmens, turinčio [[#^s-c42dd974366bec2679135522|šio straipsnio 1 dalyje]] nustatytą statusą, vaikas gimsta negyvas. ^s-e7ca6fa0a72fd61bc8cef166
 
 
-3. Laidojimo pašalpa mokama šio straipsnio 1 ir [[#^s-e7ca6fa0a72fd61bc8cef166|2 dalyse]] nurodytą asmenį laidojančiam asmeniui. ^s-bd5681c83d242220d1c6679f
+3. Laidojimo pašalpa mokama šio straipsnio [[#^s-c42dd974366bec2679135522|1]] ir [[#^s-e7ca6fa0a72fd61bc8cef166|2]] dalyse nurodytą asmenį laidojančiam asmeniui. ^s-bd5681c83d242220d1c6679f
 
 
 4. Laidojimo pašalpa nemokama, kai laidojama valstybės biudžeto ar savivaldybių biudžetų lėšomis. ^s-68f6911397e9866fd2729904
@@ -275,7 +275,7 @@ Nr. XIV-757, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26589
 
 
 1. Parama mirties atveju skiriama savivaldybės administracijos sprendimu, jeigu kreipimosi ir sprendimo priėmimo metu laidojantis asmuo ar palaikų parvežimą organizavęs fizinis asmuo turi teisę į paramą mirties atveju. ^s-04473f3b9ebfa0c2a35eae20
-TAR pastaba. [[#^s-04473f3b9ebfa0c2a35eae20|1 dalies]] nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos paramos mirties atveju įstatymo nuostatos.
+TAR pastaba. 1 dalies nuostatos pradedamos taikyti, kai 2023 m. naujai išrinktos savivaldybių tarybos susirenka į pirmuosius posėdžius. Iki pirmųjų 2023 m. naujai išrinktų savivaldybių tarybų posėdžių taikomos iki šio įstatymo įsigaliojimo dienos galiojusios Lietuvos Respublikos paramos mirties atveju įstatymo nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1845, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05745
 
@@ -323,7 +323,7 @@ Nr. XIV-757, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26589
 ### 12 straipsnis. Neteisėtai gautos paramos mirties atveju dėl ją gavusių asmenų kaltės išieškojimas ^s-bafd016931edbd1134e9d1cd
 
 
-Nustačius, kad asmenys paramą mirties atveju gavo neteisėtai, nes kreipdamiesi dėl minėtos paramos pateikė neteisingus duomenis apie gaunamas pajamas, bendrai gyvenančius asmenis, artimą giminystės, giminystės (šoninė giminystės linija) arba svainystės santykiais tarp vieno sutuoktinio ir antro sutuoktinio giminaičių ryšį su mirusiu asmeniu arba kitus duomenis, reikalingus paramai mirties atveju skirti, arba gautą laidojimo pašalpą panaudojo ne pagal tikslinę paskirtį – nepalaidojo mirusio asmens, už kurį išmokėta laidojimo pašalpa, palaikų, jie turi grąžinti neteisėtai gautą pinigų sumą. Neteisėtai gautos ir negrąžintos pinigų sumos išieškomos Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka, jeigu su išieškojimu susijusios administravimo išlaidos neviršija išieškotinos sumos.
+Nustačius, kad asmenys paramą mirties atveju gavo neteisėtai, nes kreipdamiesi dėl minėtos paramos pateikė neteisingus duomenis apie gaunamas pajamas, bendrai gyvenančius asmenis, artimą giminystės, giminystės (šoninė giminystės linija) arba svainystės santykiais tarp vieno sutuoktinio ir antro sutuoktinio giminaičių ryšį su mirusiu asmeniu arba kitus duomenis, reikalingus paramai mirties atveju skirti, arba gautą laidojimo pašalpą panaudojo ne pagal tikslinę paskirtį – nepalaidojo mirusio asmens, už kurį išmokėta laidojimo pašalpa, palaikų, jie turi grąžinti neteisėtai gautą pinigų sumą. Neteisėtai gautos ir negrąžintos pinigų sumos išieškomos [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka, jeigu su išieškojimu susijusios administravimo išlaidos neviršija išieškotinos sumos.
 
 
 Straipsnio pakeitimai:
@@ -413,12 +413,12 @@ Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" [[#^s-42e96c98bd059
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1704, 2000-05-23, Žin., 2000, Nr. 45-1298 (2000-06-02), i. k. [[latest/TAR.BE78A0DA6A35|1001010ISTAIII-1704]]
-Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 1, [[#^s-1a3597b354c821555185f14c|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" [[#^s-928917246399d80f55ab72da|1]], [[#^s-1a3597b354c821555185f14c|2]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-213, 2005-05-19, Žin., 2005, Nr. 71-2559 (2005-06-07), i. k. [[latest/TAR.92683C975313|1051010ISTA000X-213]]
-Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" 2, [[#^s-42e96c98bd0591215e5777fa|3 straipsnių]] pakeitimo ir papildymo įstatymas
+Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" [[#^s-1a3597b354c821555185f14c|2]], [[#^s-42e96c98bd0591215e5777fa|3]] straipsnių pakeitimo ir papildymo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -433,7 +433,7 @@ Lietuvos Respublikos įstatymo "Dėl paramos mirties atveju" pakeitimo įstatyma
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-851, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-04998
-Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 3, 5, [[#^s-ba3925c5aea6720aa29c577c|6 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 [[#^s-42e96c98bd0591215e5777fa|3]], [[#^s-dcf272feb802e72d271d04f6|5]], [[#^s-ba3925c5aea6720aa29c577c|6]] straipsnių ir priedo pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -443,7 +443,7 @@ Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 pakeitimo įstat
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-302, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06978
-Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 2, [[#^s-dcf272feb802e72d271d04f6|5 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 [[#^s-1a3597b354c821555185f14c|2]], [[#^s-dcf272feb802e72d271d04f6|5]] straipsnių ir priedo pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -463,7 +463,7 @@ Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 [[#^s-dcf272feb8
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-757, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26589
-Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 2, 7, 9, 10, 11 ir [[#^s-bafd016931edbd1134e9d1cd|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos paramos mirties atveju įstatymo Nr. I-348 [[#^s-1a3597b354c821555185f14c|2]], [[#^s-3718b1389e3e7450b31c8b2c|7]], [[#^s-49b11c0b2f8f462abd9a3174|9]], [[#^s-4e09eff4fb94c23ba8ce54dc|10]], [[#^s-a3b7ba2560375b085847a04b|11]] ir [[#^s-bafd016931edbd1134e9d1cd|12]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas

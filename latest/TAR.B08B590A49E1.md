@@ -62,13 +62,13 @@ Patvirtinti Lietuvos Respublikos 2009 metų valstybės biudžetą – 22 879 810
 „2. Sumažinti savivaldybių biudžetų pajamas, prognozuojamas 2009 metais gauti iš gyventojų pajamų mokesčio, – 338 900 tūkst. litų (11 priedėlis).“
 
 
-2. [[#^s-0c37162a879054f862834082|2 straipsnio 2 dalį]] laikyti [[#^s-5d7299e43a012d978856e585|3 dalimi]], ją pakeisti – vietoj skaičiaus „3 184 804“ įrašyti skaičių „3 017 452“ ir šią dalį išdėstyti taip: ^s-0c37162a879054f862834082
+2. 2 straipsnio 2 dalį laikyti [[#^s-5d7299e43a012d978856e585|3 dalimi]], ją pakeisti – vietoj skaičiaus „3 184 804“ įrašyti skaičių „3 017 452“ ir šią dalį išdėstyti taip: ^s-0c37162a879054f862834082
 
 
 „3. Patvirtinti savivaldybių biudžetams valstybės biudžeto specialiąsias tikslines dotacijas – 3 017 452 tūkst. litų (4 ir 5 priedėliai) ir valstybės biudžeto bendrosios dotacijos kompensacijas – 45 822 tūkst. litų (6 priedėlis).“
 
 
-3. [[#^s-5d7299e43a012d978856e585|2 straipsnio 3 dalį]] laikyti [[#^s-7fc28f48833f7114e6acfc90|4 dalimi]], ją pakeisti – vietoj skaičiaus „34 018“ įrašyti skaičių „100 618“ ir šią dalį išdėstyti taip: ^s-5d7299e43a012d978856e585
+3. 2 straipsnio 3 dalį laikyti [[#^s-7fc28f48833f7114e6acfc90|4 dalimi]], ją pakeisti – vietoj skaičiaus „34 018“ įrašyti skaičių „100 618“ ir šią dalį išdėstyti taip: ^s-5d7299e43a012d978856e585
 
 
 „4. Patvirtinti iš savivaldybių biudžetų valstybės biudžetui grąžinamas bendrosios dotacijos kompensacijas – 100 618 tūkst. litų. Jas savivaldybės nuo antrojo ketvirčio perveda į valstybės biudžetą kas ketvirtį lygiomis dalimis (7 priedėlis).“
@@ -107,16 +107,16 @@ Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip:
 1. Pakeisti [[#^s-371fc46ce9bbf0e068c12291|7 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-30a62e377cc3d34465046ac1
 
 
-„1. Nustatyti, kad 2009 metais naujos valstybės garantijos nebus teikiamos, išskyrus atvejus, kai valstybės garantijos teikiamos pagal atskirą Lietuvos Respublikos Seimo priimtą įstatymą dėl bankų gaunamų paskolų ar kitaip prisiimamų finansinių įsipareigojimų siekiant stiprinti bankų sistemos Lietuvoje finansinį stabilumą ir patikimumą, suteiktoms paskoloms su valstybės garantija grąžinti ir šio straipsnio 3 ir 5 dalyse nurodytiems prisiimamiems įsipareigojimams užtikrinti.“
+„1. Nustatyti, kad 2009 metais naujos valstybės garantijos nebus teikiamos, išskyrus atvejus, kai valstybės garantijos teikiamos pagal atskirą Lietuvos Respublikos Seimo priimtą įstatymą dėl bankų gaunamų paskolų ar kitaip prisiimamų finansinių įsipareigojimų siekiant stiprinti bankų sistemos Lietuvoje finansinį stabilumą ir patikimumą, suteiktoms paskoloms su valstybės garantija grąžinti ir šio straipsnio [[#^s-56844cbaa0950ba83be11695|3]] ir 5 dalyse nurodytiems prisiimamiems įsipareigojimams užtikrinti.“
 
 
-2. Papildyti [[#^s-13f9b69a9cc8b45f0016a38a|7 straipsnį]] nauja [[#^s-20e73e87b3070cc30f8c55e9|2 dalimi]]: ^s-20e73e87b3070cc30f8c55e9
+2. Papildyti [[#^s-13f9b69a9cc8b45f0016a38a|7 straipsnį]] nauja 2 dalimi: ^s-20e73e87b3070cc30f8c55e9
 
 
 „2. Nustatyti, kad suteiktų garantijų pagal atskirą Lietuvos Respublikos Seimo priimtą įstatymą dėl bankų gaunamų paskolų ar kitaip prisiimamų finansinių įsipareigojimų siekiant stiprinti bankų sistemos Lietuvoje finansinį stabilumą ir patikimumą suma negali viršyti 3 000 000 tūkst. litų.“
 
 
-3. Buvusias [[#^s-13f9b69a9cc8b45f0016a38a|7 straipsnio]] 2 ir [[#^s-56844cbaa0950ba83be11695|3 dalis]] laikyti atitinkamai 3 ir [[#^s-4c301c9beb3507d1ed569e10|4 dalimis]]. ^s-56844cbaa0950ba83be11695
+3. Buvusias [[#^s-13f9b69a9cc8b45f0016a38a|7 straipsnio]] [[#^s-9d3cd6583f59faf935a14243|2]] ir [[#^s-460d3b704ba96f6765300dbc|3]] dalis laikyti atitinkamai [[#^s-460d3b704ba96f6765300dbc|3]] ir [[#^s-513f838045c883e308715f34|4]] dalimis. ^s-56844cbaa0950ba83be11695
 
 
 4. Papildyti 7 straipsnį 5 dalimi: ^s-4c301c9beb3507d1ed569e10

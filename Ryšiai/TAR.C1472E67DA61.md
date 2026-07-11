@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos korupcijos prevencijos įstatymo 5, 9 straips
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.7B9B89F840E2|Lietuvos Respublikos lobistinės veiklos įstatymas]] - 2 citatos - Lobistinės veiklos įstatymo
-- [[latest/TAR.C0E550D6ADF0|Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas]] - 2 citatos - Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo
+- [[latest/TAR.7B9B89F840E2|Lietuvos Respublikos lobistinės veiklos įstatymas]] - Lobistinės veiklos įstatymo
+- [[latest/TAR.C0E550D6ADF0|Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymas]] - Lietuvos Respublikos viešųjų ir privačių interesų derinimo valstybinėje tarnyboje įstatymo
 
 ## Šį įstatymą cituoja
 

@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl asmenų, represuotų už pas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.7A23697137FA#^s-2636d8be2efd587f0ef5a134|Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymas]] - 3 citatos - 0981010ISTAVIII-656
-- [[latest/TAR.7A23697137FA#^s-9b351ec39997686c96f50d72|Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymas]] - 3 citatos - 0981010ISTAVIII-656
+- [[latest/TAR.7A23697137FA#^s-2636d8be2efd587f0ef5a134|Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymas]] - 0981010ISTAVIII-656

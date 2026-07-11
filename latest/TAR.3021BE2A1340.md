@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-1ca6d11429d989c93d88b5fb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. vasario 14 d. dekretą Nr. 1666, ratifikuoja Lietuvos Respublikos ir Rumunijos laisvosios prekybos sutartį, pasirašytą 2001 m. lapkričio 26 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. vasario 14 d. dekretą Nr. 1666](https://e-tar.lt/portal/lt/legalAct/TAR.32AAB70E45B5), ratifikuoja Lietuvos Respublikos ir Rumunijos laisvosios prekybos sutartį, pasirašytą 2001 m. lapkričio 26 d. Vilniuje.
 
 
 

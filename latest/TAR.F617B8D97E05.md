@@ -106,7 +106,7 @@ Nr. XIV-2930, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13517
 ### 3 straipsnis. Konsulinių pareigūnų veiklos teisiniai pagrindai ^s-ffc493967ef4f925b9ae6aeb
 
 
-1. Konsuliniai pareigūnai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, 1963 m. Vienos konvencija dėl konsulinių santykių, kitomis Lietuvos Respublikos tarptautinėmis sutartimis, šiuo statutu, [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymu]], [[latest/TAR.BE3136A78E80|Lietuvos Respublikos notariato įstatymu]], [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatymu]], kitais Lietuvos Respublikos ir Europos Sąjungos teisės aktais. ^s-ba805b977b275e68bcddd300
+1. Konsuliniai pareigūnai savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), 1963 m. [Vienos konvencija dėl konsulinių santykių](https://e-tar.lt/portal/lt/legalAct/TAR.5445815F0BD2), kitomis Lietuvos Respublikos tarptautinėmis sutartimis, šiuo statutu, [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymu]], [[latest/TAR.BE3136A78E80|Lietuvos Respublikos notariato įstatymu]], [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatymu]], kitais Lietuvos Respublikos ir Europos Sąjungos teisės aktais. ^s-ba805b977b275e68bcddd300
 Straipsnio dalies pakeitimai:
 Nr. XIII-1394, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12065
 Nr. XIV-2930, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13517
@@ -196,7 +196,7 @@ Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 ### 8 straipsnis. Asmens duomenų tvarkymas ^s-1f90a1602c72d69c4f4103e7
 
 
-1. Lietuvos Respublikos užsienio reikalų ministerija, diplomatinės atstovybės ir konsulinės įstaigos turi teisę tvarkyti asmens duomenis tiek, kiek reikia konsulinėms funkcijoms atlikti. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]]. ^s-bfd1d58e200a8bf8f9f4d365
+1. Lietuvos Respublikos užsienio reikalų ministerija, diplomatinės atstovybės ir konsulinės įstaigos turi teisę tvarkyti asmens duomenis tiek, kiek reikia konsulinėms funkcijoms atlikti. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]]. ^s-bfd1d58e200a8bf8f9f4d365
 Straipsnio dalies pakeitimai:
 Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 Nr. XIV-2930, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13517
@@ -414,7 +414,7 @@ Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 4) Europos Sąjungos valstybės piliečiams, siekiantiems gauti Europos Sąjungos laikinąjį kelionės dokumentą valstybėje, kurioje yra tos Europos Sąjungos valstybės atstovybė, jeigu dėl to sutarta Lietuvos Respublikos ir atitinkamos Europos Sąjungos valstybės ar jų institucijų susitarime; ^s-d5ed4a9414b2effea8356f92
 
 
-5) įvertinęs individualias aplinkybes, šios dalies 1–[[#^s-d5ed4a9414b2effea8356f92|4 punktuose]] nurodytus asmenis lydintiems šeimos nariams užsieniečiams, kurie nėra Europos Sąjungos valstybės piliečiai, jeigu jie turi teisę gyventi Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje, nedarant poveikio jiems taikomam reikalavimui turėti vizą; ^s-099c41a69d8239a31d3c04fc
+5) įvertinęs individualias aplinkybes, šios dalies [[#^s-ab4488fd9a10b59a60ccf4a5|1]]–[[#^s-d5ed4a9414b2effea8356f92|4]] punktuose nurodytus asmenis lydintiems šeimos nariams užsieniečiams, kurie nėra Europos Sąjungos valstybės piliečiai, jeigu jie turi teisę gyventi Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje, nedarant poveikio jiems taikomam reikalavimui turėti vizą; ^s-099c41a69d8239a31d3c04fc
 
 
 6) užsieniečiams, kuriems Lietuvos Respublika yra suteikusi pabėgėlio statusą, papildomą apsaugą, ir asmenims be pilietybės, jeigu šie užsieniečiai turi teisę gyventi Lietuvos Respublikoje ir jeigu jų kelionės tikslas yra Lietuvos Respublika. ^s-2f0a6ac0b36cb4f3eb2b44fa
@@ -450,7 +450,7 @@ Nr. XIII-2058, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06501
 2) informaciją apie atvejus, susijusius su Europos Sąjungos laikinųjų kelionės dokumentų klastojimu ir melagingos informacijos pateikimu siekiant gauti Europos Sąjungos laikinąjį kelionės dokumentą; ^s-dbaef722872aab97a8b30022
 
 
-3) informaciją, reikalingą Direktyvos (ES) 2019/997 17 straipsnio 1 dalyje nurodytos poveikio įvertinimo ataskaitos pagrindinėms išvadoms parengti. ^s-7ef262618177215b2639948c
+3) informaciją, reikalingą [Direktyvos (ES) 2019/997 17 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/dir/2019/997/art_17/par_1/oj) nurodytos poveikio įvertinimo ataskaitos pagrindinėms išvadoms parengti. ^s-7ef262618177215b2639948c
 
 
 9. [[#^s-dbaef722872aab97a8b30022|Šio straipsnio 8 dalies 2 punkte]] nurodytą informaciją Lietuvos Respublikos užsienio reikalų ministerijai teikia teisėsaugos institucijos ir įstaigos bei Lietuvos Respublikos diplomatinės atstovybės ir konsulinės įstaigos. ^s-cb78bcab2c84a8d44a95d053
@@ -512,7 +512,7 @@ Nr. XIV-2930, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13517
 
 
 
-3. Valstybės materialinė pagalba yra grąžintina. Jeigu per 3 mėnesius nuo sprendimo suteikti valstybės materialinę pagalbą priėmimo ar nuo [[#^s-401a52cb6fc304927b28294c|šio straipsnio 2 dalyje]] nurodytiems asmenims suteiktos konsulinės pagalbos išlaidų kitai Europos Sąjungos valstybei atlyginimo suteikta valstybės materialinė pagalba nėra grąžinta, Lietuvos Respublikos užsienio reikalų ministras priima sprendimą dėl [[#^s-401a52cb6fc304927b28294c|šio straipsnio 2 dalyje]] nurodytiems asmenims suteiktos valstybės materialinės pagalbos išieškojimo. Lietuvos Respublikos užsienio reikalų ministro sprendimas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-e7e56bbc1383c993c3e1ca2d
+3. Valstybės materialinė pagalba yra grąžintina. Jeigu per 3 mėnesius nuo sprendimo suteikti valstybės materialinę pagalbą priėmimo ar nuo [[#^s-401a52cb6fc304927b28294c|šio straipsnio 2 dalyje]] nurodytiems asmenims suteiktos konsulinės pagalbos išlaidų kitai Europos Sąjungos valstybei atlyginimo suteikta valstybės materialinė pagalba nėra grąžinta, Lietuvos Respublikos užsienio reikalų ministras priima sprendimą dėl [[#^s-401a52cb6fc304927b28294c|šio straipsnio 2 dalyje]] nurodytiems asmenims suteiktos valstybės materialinės pagalbos išieškojimo. Lietuvos Respublikos užsienio reikalų ministro sprendimas yra vykdomasis dokumentas, vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-e7e56bbc1383c993c3e1ca2d
 Straipsnio dalies pakeitimai:
 Nr. XIV-2930, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13517
 
@@ -643,7 +643,7 @@ Nr. XII-75, 2012-12-20, Žin. 2012, Nr. 154-7923 (2012-12-29), i. k. [[latest/TA
 1. Nustatytos formos legalizavimo įrašu konsulinis pareigūnas patvirtina legalizuojamame dokumente esantį parašą, pasirašiusio asmens pareigas ir antspaudą. Dokumento legalizavimas nepatvirtina dokumento turinio tikrumo. ^s-a3569d03f9c08d7c46710699
 
 
-2. Dokumentai tvirtinami pažyma (Apostille) vadovaujantis 1961 m. spalio 5 d. Hagos konvencija dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo. ^s-6b6a3bf1b02c47fde250db3f
+2. Dokumentai tvirtinami pažyma (Apostille) vadovaujantis 1961 m. spalio 5 d. Hagos [konvencija dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo](https://e-tar.lt/portal/lt/legalAct/TAR.35B48E5133C4). ^s-6b6a3bf1b02c47fde250db3f
 
 
 3. Dokumentų legalizavimo ar tvirtinimo pažyma (Apostille) nereikalaujama, kai pagal Lietuvos Respublikos tarptautines sutartis ar Europos Sąjungos teisės aktus dokumentas yra atleistas nuo legalizavimo ar tvirtinimo pažyma (Apostille). Dokumentų legalizavimo nereikalaujama, kai dokumentai yra sudaryti ar (ir) išduoti Lietuvos Respublikoje reziduojančių užsienio valstybių diplomatinių atstovybių ar konsulinių įstaigų. ^s-cc9983dc3ed98f3d0b485af6
@@ -878,10 +878,10 @@ priedas
 
 
 
-1. 2015 m. balandžio 20 d. Tarybos direktyva (ES) 2015/637 dėl koordinavimo ir bendradarbiavimo priemonių, skirtų neatstovaujamų Sąjungos piliečių konsulinei apsaugai trečiosiose šalyse palengvinti ir kuria panaikinamas Sprendimas 95/553/EB. ^s-090f484f3f1441de665d6361
+1. 2015 m. balandžio 20 d. Tarybos [direktyva (ES) 2015/637](https://eur-lex.europa.eu/eli/dir/2015/637/oj) dėl koordinavimo ir bendradarbiavimo priemonių, skirtų neatstovaujamų Sąjungos piliečių konsulinei apsaugai trečiosiose šalyse palengvinti ir kuria panaikinamas Sprendimas 95/553/EB. ^s-090f484f3f1441de665d6361
 
 
-2. 2019 m. birželio 18 d. Tarybos direktyva (ES) 2019/997, kuria nustatomas ES laikinasis kelionės dokumentas ir panaikinamas Sprendimas 96/409/BUSP. ^s-095b1d43715bb591c94cb0d1
+2. 2019 m. birželio 18 d. Tarybos [direktyva (ES) 2019/997](https://eur-lex.europa.eu/eli/dir/2019/997/oj), kuria nustatomas ES laikinasis kelionės dokumentas ir panaikinamas Sprendimas 96/409/BUSP. ^s-095b1d43715bb591c94cb0d1
 _____________________
 
 
@@ -975,7 +975,7 @@ Nr. XIII-1869, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00221
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2059, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06502
-Lietuvos Respublikos konsulinio statuto 25 ir [[#^s-1c0006330ab7a517868abb12|26 straipsnių]] pakeitimo [[latest/2e7cfef0131711e9b2b6e7cdb14007b4|įstatymo Nr. XIII-1869]] 1 ir [[#^s-9f10a0360fc0495966ec065e|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos konsulinio statuto [[#^s-97a8b06d2a53064e9bef2b6c|25]] ir [[#^s-1c0006330ab7a517868abb12|26]] straipsnių pakeitimo [[latest/2e7cfef0131711e9b2b6e7cdb14007b4|įstatymo Nr. XIII-1869]] [[#^s-69ec027d0bbe3fab73ed381c|1]] ir [[#^s-9f10a0360fc0495966ec065e|2]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas

@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 22 straipsnio pakeitimas ^s-6c7858aa5fb3785332762e6f
 
 
-Papildyti 22 straipsnį 12 dalimi:
+Papildyti [[latest/TAR.5DC1759E42CB#^s-12205e715418553eb6bc7f49|22 straipsnį 12 dalimi]]:
 
 
 „12. Ne jaunesniems kaip 24 metų asmenims, turintiems ne mažesnį kaip 2 metų B kategorijos transporto priemonių vairavimo stažą ir Susisiekimo ministerijos arba jos įgaliotos institucijos nustatyta tvarka baigusiems A1 kategorijos transporto priemonių praktinio vairavimo mokymą, suteikiama teisė Lietuvos Respublikos teritorijoje vairuoti A1 kategorijos transporto priemones. Dėl to vairuotojo pažymėjime nenurodoma, kad vairuotojas turi teisę vairuoti A1 kategorijos transporto priemones, o prie B kategorijos transporto priemonių kategorijos nurodomas Vidaus reikalų ministerijos nustatytas nacionalinis kodas.“

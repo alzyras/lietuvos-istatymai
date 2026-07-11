@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos šalpos (socialinių) pensijų įstatymo 1, 2
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 2 citatos - Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo
+- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.2CE6CFE9E2EE#^s-5cce2d1ab1df2a8ed2c15e38|Lietuvos Respublikos šalpos pensijų įstatymas]] - 3 citatos - 0981010ISTAVIII-906
-- [[latest/TAR.2CE6CFE9E2EE#^s-b07741af121d0fd1d82febdf|Lietuvos Respublikos šalpos pensijų įstatymas]] - 3 citatos - 0981010ISTAVIII-906
+- [[latest/TAR.2CE6CFE9E2EE#^s-5cce2d1ab1df2a8ed2c15e38|Lietuvos Respublikos šalpos pensijų įstatymas]] - 2 citatos - 0981010ISTAVIII-906

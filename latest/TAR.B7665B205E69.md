@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ir Protokolo ratifikavimas ^s-e54454071c71130c9bf1b040
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. kovo 26 d. dekretą Nr. 1255, ratifikuoja Sutartį dėl žvejybos santykių tarp Lietuvos Respublikos ir Europos Bendrijos bei šios sutarties Protokolą, pasirašytus 1996 m. gruodžio 20 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [1997 m. kovo 26 d. dekretą Nr. 1255](https://e-tar.lt/portal/lt/legalAct/TAR.83B098B68A26), ratifikuoja Sutartį dėl žvejybos santykių tarp Lietuvos Respublikos ir Europos Bendrijos bei šios sutarties Protokolą, pasirašytus 1996 m. gruodžio 20 d. Vilniuje.
 
 
 

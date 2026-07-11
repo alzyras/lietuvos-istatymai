@@ -326,7 +326,7 @@ Pakeisti 69 straipsnį ir jį išdėstyti taip:
 5. Pataisos įstaigos direktoriaus nutarimu nuteistųjų, perkeltų į pusiaukelės namus, elgesio kontrolė Kalėjimų departamento direktoriaus nustatyta tvarka gali būti atliekama elektroninio stebėjimo priemonėmis. ^s-b108b60b463081050a03c37e
 
 
-6. Teisę perkelti nuteistąjį iš vienos pataisos įstaigos į kitą turi Kalėjimų departamento direktorius, o toje pačioje įstaigoje pagal šio straipsnio 2, 3 ir [[#^s-b108b60b463081050a03c37e|5 dalyse]] nurodytus reikalavimus – pataisos įstaigos, kurioje atlieka bausmę nuteistasis, direktorius arba jį pavaduojantis pareigūnas. Nuteistųjų perkėlimo iš vienos pataisos įstaigos į kitą, taip pat perkėlimo į pusiaukelės namus ir grąžinimo iš jų tvarką nustato Kalėjimų departamento direktorius. ^s-05505cc10d7a0bb06a4d2468
+6. Teisę perkelti nuteistąjį iš vienos pataisos įstaigos į kitą turi Kalėjimų departamento direktorius, o toje pačioje įstaigoje pagal šio straipsnio [[#^s-0fd214f1b68310dabb95dbe9|2]], [[#^s-2feef39dc66d4c50edd51329|3]] ir [[#^s-b108b60b463081050a03c37e|5]] dalyse nurodytus reikalavimus – pataisos įstaigos, kurioje atlieka bausmę nuteistasis, direktorius arba jį pavaduojantis pareigūnas. Nuteistųjų perkėlimo iš vienos pataisos įstaigos į kitą, taip pat perkėlimo į pusiaukelės namus ir grąžinimo iš jų tvarką nustato Kalėjimų departamento direktorius. ^s-05505cc10d7a0bb06a4d2468
 
 
 7. Nuteistasis gali būti ne ilgiau kaip septynioms paroms laikinai perkeltas iš vienos pataisos įstaigos į kitą, jei jo dalyvavimas būtinas atliekant ikiteisminio tyrimo veiksmus arba nagrinėjant bylą teisme. Perkėlimas galimas tik tada, jei minėtų veiksmų neįmanoma atlikti pataisos įstaigoje, kurioje nuteistasis atlieka bausmę, arba jei jo dalyvavimo negalima užtikrinti garso ir vaizdo nuotolinio perdavimo ar kitomis priemonėmis ir būdais. Nuteistasis į kitą pataisos įstaigą dėl dalyvavimo atliekant ikiteisminio tyrimo veiksmus laikinai perkeliamas motyvuota ikiteisminio tyrimo teisėjo nutartimi ar motyvuotu prokuroro nutarimu, o dėl bylos nagrinėjimo teisme – motyvuota teisėjo ar teismo nutartimi. Kai nuteistojo perkėlimas nebereikalingas, jis kaip įmanoma greičiau grąžinamas į įstaigą, kurioje atlieka bausmę. ^s-a5ed41bdae200199ad8b2a3e
@@ -1150,7 +1150,7 @@ LAISVĖS ATĖMIMO BAUSMĘ ATLIEKANČIŲ NUTEISTŲJŲ UŽIMTUMAS DARBINE VEIKLA
 1. Iš darbinėje veikloje dalyvaujančiam nuteistajam priskaičiuotų piniginių išmokų pataisos įstaiga atskaito dešimt procentų į nuteistojo neliečiamą asmeninės sąskaitos dalį, kurios naudoti nuteistasis neturi teisės. Ypatingais atvejais bausmės atlikimo metu pataisos įstaigos direktoriaus arba jį pavaduojančio pareigūno leidimu nuteistasis gali panaudoti pinigus, turimus neliečiamoje asmeninės sąskaitos dalyje. Likusi nuteistojo neliečiamos asmeninės sąskaitos dalyje sukaupta pinigų suma nuteistajam išduodama jį paleidžiant iš pataisos įstaigos arba nuteistojo prašymu pervedama į jo nurodytą asmeninę sąskaitą, kai jis perkeliamas į atvirą koloniją ar pusiaukelės namus. ^s-538361bceee64637a1f56d8b
 
 
-2. Atlikus [[#^s-538361bceee64637a1f56d8b|šio straipsnio 1 dalyje]] nustatytas išskaitas, iš likusios piniginės išmokos sumos atskaitoma pagal vykdomuosius raštus ir kitus vykdomuosius dokumentus Civilinio proceso kodekso nustatyta tvarka. ^s-b3a7058b690410f63ddb0497
+2. Atlikus [[#^s-538361bceee64637a1f56d8b|šio straipsnio 1 dalyje]] nustatytas išskaitas, iš likusios piniginės išmokos sumos atskaitoma pagal vykdomuosius raštus ir kitus vykdomuosius dokumentus [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-b3a7058b690410f63ddb0497
 
 
 3. Išlaikymas nepilnamečiams vaikams ir bausmės atlikimo metu valstybei padarytos žalos atlyginimas skaičiuojami nuo visos nuteistajam priskaičiuotos piniginės išmokos ir visų kitų rūšių pajamų sumos, kurie atskaitomi iki atliekant išskaitą į nuteistojo neliečiamą asmeninės sąskaitos dalį.“ ^s-bc172340e206bedc4de796a8
@@ -1312,7 +1312,7 @@ Pakeisti 143 straipsnį ir jį išdėstyti taip:
 „143 straipsnis. Nuobaudų skyrimo atliekantiems laisvės atėmimo bausmę nuteistiesiems tvarka
 
 
-1. Šio Kodekso 142 straipsnio 1 ir [[#^s-5a3786e89e9e5cbb532c8c05|2 dalyse]] numatytos nuobaudos skiriamos pataisos įstaigos direktoriaus nutarimu. ^s-0c6af06552789f38efa1c9f5
+1. Šio Kodekso 142 straipsnio 1 ir 2 dalyse numatytos nuobaudos skiriamos pataisos įstaigos direktoriaus nutarimu. ^s-0c6af06552789f38efa1c9f5
 
 
 2. Skiriant nuobaudas, atsižvelgiama į pažeidimo padarymo aplinkybes, į galiojančių nuobaudų kiekį ir paskirtų nuobaudų pobūdį, taip pat į nuteistojo rašytinį pasiaiškinimą dėl pažeidimo. Skiriamos nuobaudos turi atitikti padaryto pažeidimo sunkumą ir pobūdį. ^s-5a3786e89e9e5cbb532c8c05
@@ -1393,7 +1393,7 @@ Pripažinti netekusiu galios 150 straipsnį.
 1. Pakeisti 152 straipsnio 2 dalį ir ją išdėstyti taip: ^s-4ea6ea3815d406edf3bb2f51
 
 
-„2. Atsižvelgiant į vaiko interesus, Kalėjimų departamento direktoriaus nustatytomis sąlygomis [[#^s-4ea6ea3815d406edf3bb2f51|šio straipsnio 1 dalyje]] nurodytas leidimas pataisos įstaigos direktoriaus nutarimu kasmet gali būti pratęsiamas, bet ne ilgiau, kol vaikas bus pradėtas ugdyti pagal pradinio ugdymo programą.“
+„2. Atsižvelgiant į vaiko interesus, Kalėjimų departamento direktoriaus nustatytomis sąlygomis šio straipsnio 1 dalyje nurodytas leidimas pataisos įstaigos direktoriaus nutarimu kasmet gali būti pratęsiamas, bet ne ilgiau, kol vaikas bus pradėtas ugdyti pagal pradinio ugdymo programą.“
 
 
 2. Pakeisti 152 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip: ^s-f2557c2789e6f1bb95d87d6c
@@ -1483,7 +1483,7 @@ Pakeisti 169 straipsnį ir jį išdėstyti taip:
 2. Šiame straipsnyje nurodytų nuteistųjų valstybei padarytos turtinės žalos atlyginimas išieškomas motyvuotu pataisos įstaigos direktoriaus nutarimu, jeigu žalos dydis neviršija nuteistojo asmeninėje sąskaitoje esančios pinigų sumos. Apie valstybei padarytos turtinės žalos atlyginimo išieškojimą nuteistajam pranešama pasirašytinai. Kitais atvejais žalos atlyginimas išieškomas bendrais Lietuvos Respublikos įstatymų nustatytais pagrindais ir tvarka. ^s-ef430139f685efb8f1e99bde
 
 
-3. Valstybei padarytos turtinės žalos atlyginimo dalis, kurios pagal pataisos įstaigos direktoriaus nutarimą išieškoti žalos atlyginimą iš pataisos įstaigos paleistas asmuo neatlygino, išieškoma Civilinio proceso kodekso nustatyta tvarka.“ ^s-d58f834689faebfe1ac866e4
+3. Valstybei padarytos turtinės žalos atlyginimo dalis, kurios pagal pataisos įstaigos direktoriaus nutarimą išieškoti žalos atlyginimą iš pataisos įstaigos paleistas asmuo neatlygino, išieškoma [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.“ ^s-d58f834689faebfe1ac866e4
 
 
 ### 48 straipsnis. 175 straipsnio pakeitimas ^s-957910a3386eeb7463510888
@@ -1498,7 +1498,7 @@ Pakeisti 175 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 49 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas ^s-ebfbf90ce0b77d26f17756ef
 
 
-1. Šio įstatymo [[#^s-dfab66b7439659f20545455c|2 straipsnis]], 4 straipsnio 2 dalis, [[#^s-935cba64954edebc8c36653a|7 straipsnio 2 dalis]], [[#^s-19496317f39b51478f926924|8 straipsnio 2 dalis]], [[#^s-8c40340f39020f385309312e|9 straipsnio 2 dalis]], [[#^s-e3782515f7edd38e1a02d949|10 straipsnio 2 dalis]], [[#^s-8ba2679bad2f961ca9c3e177|11 straipsnio 2 dalis]], [[#^s-52a1795f665822f0e37d5057|12 straipsnio]] 2 ir [[#^s-1a5dd3db1e6a8e791df5af16|3 dalys]], [[#^s-022c5a3a5da8b268d7315ae5|13 straipsnio 2 dalis]], [[#^s-82157cda5c0069d634b6fad6|15 straipsnio 3 dalis]], [[#^s-f793d29d4773e9078159e588|18 straipsnis]], 21 straipsnio 2 dalis, 22, 29, 31, 32, 33, 34, [[#^s-90a1c25af7022c0329bbd485|35 straipsniai]], 40 straipsnio 2 dalis, 41, [[#^s-096a41a0a2aed1b17177c836|42 straipsniai]], [[#^s-0ee09f7c0b792ce8eb7571a3|43 straipsnio 3 dalis]], 44, 45 ir [[#^s-a29e606b6c713bf8f962a5f3|47 straipsniai]] įsigalioja 2022 m. sausio 1 d. ^s-fff2b1c79f2a24e8677bb650
+1. Šio įstatymo [[#^s-dfab66b7439659f20545455c|2 straipsnis]], 4 straipsnio 2 dalis, [[#^s-935cba64954edebc8c36653a|7 straipsnio 2 dalis]], [[#^s-19496317f39b51478f926924|8 straipsnio 2 dalis]], [[#^s-8c40340f39020f385309312e|9 straipsnio 2 dalis]], [[#^s-e3782515f7edd38e1a02d949|10 straipsnio 2 dalis]], [[#^s-8ba2679bad2f961ca9c3e177|11 straipsnio 2 dalis]], [[#^s-52a1795f665822f0e37d5057|12 straipsnio]] [[#^s-4698739cf9090c80e2f81639|2]] ir [[#^s-0c598d14485aa52ab9515e5c|3]] dalys, [[#^s-022c5a3a5da8b268d7315ae5|13 straipsnio 2 dalis]], [[#^s-82157cda5c0069d634b6fad6|15 straipsnio 3 dalis]], [[#^s-f793d29d4773e9078159e588|18 straipsnis]], 21 straipsnio 2 dalis, [[#^s-9c96f340892fdd5ab241629e|22]], [[#^s-0a8275bcae41c39ea04a2cfe|29]], [[#^s-f4cc038981e48daa001bc4a8|31]], [[#^s-0ffa52256e70a29a0582b8cd|32]], [[#^s-c124688586f7a065e989ae8a|33]], [[#^s-1644e05f4cdb2770b54a2b59|34]], [[#^s-90a1c25af7022c0329bbd485|35]] straipsniai, 40 straipsnio 2 dalis, [[#^s-d48573c8eafd792438994b70|41]], [[#^s-096a41a0a2aed1b17177c836|42]] straipsniai, [[#^s-0ee09f7c0b792ce8eb7571a3|43 straipsnio 3 dalis]], [[#^s-f7c0299232790caca89074ab|44]], [[#^s-060902b93f28c8705990613d|45]] ir [[#^s-a29e606b6c713bf8f962a5f3|47]] straipsniai įsigalioja 2022 m. sausio 1 d. ^s-fff2b1c79f2a24e8677bb650
 
 
 2. Lietuvos Respublikos Vyriausybė, Lietuvos Respublikos teisingumo ministras ir Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos direktorius iki 2021 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-96ef5cac433187bce55d9c18

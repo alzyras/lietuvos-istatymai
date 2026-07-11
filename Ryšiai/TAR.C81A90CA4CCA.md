@@ -9,7 +9,7 @@ pavadinimas: "Dėl Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingų va
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.F8F36D253EB1|Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo]] - 3 citatos - 0941010ISTA000I-486
+- [[latest/TAR.F8F36D253EB1|Dėl Lietuvos Respublikos Vyriausybės įstatymo įgyvendinimo]] - 5 citatos - 0941010ISTA000I-486
 - [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - Lietuvos Respublikos aplinkos apsaugos įstatymo
 - [[latest/TAR.61BB05227699|Lietuvos Respublikos valstybės kontrolės įstatymas]] - Lietuvos Respublikos valstybės kontrolės įstatymo
 

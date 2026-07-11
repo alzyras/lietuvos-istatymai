@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir jos protokolų ratifikavimas ^s-aff0c6fa6e9dc69e9213003c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. balandžio 9 d. dekretą Nr. 9, ratifikuoja:
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas [2004 m. balandžio 9 d. dekretą Nr. 9](https://e-tar.lt/portal/lt/legalAct/TAR.A1584DDD5B36), ratifikuoja:
 
 
 1) 1995 m. liepos 26 d. Briuselyje priimtą Konvenciją, parengtą vadovaujantis Europos Sąjungos sutarties K.[[#^s-21633397601078d48f803c6c|3 straipsniu]], dėl Europos policijos biuro įsteigimo (Europolo konvenciją); ^s-9cadff57a8ffe3b8d2f20cfd

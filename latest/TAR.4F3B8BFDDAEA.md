@@ -48,7 +48,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 1. Pagrindinis neapmokestinamasis pajamų dydis (toliau – pagrindinis NPD) – 320 litų per mėnesį. ^s-2cf7095592068e6e3c9024f8
 
 
-2. Šiems nuolatiniams Lietuvos gyventojams taikomi individualūs neapmokestinamieji pajamų dydžiai (jeigu gyventojas atitinka ne vieną iš 1–[[#^s-2581d1bc8b9951d0c1b03a12|5 punktuose]] nustatytų kriterijų, taikomas didžiausias individualus NPD): ^s-24aad3c538bc6d9dad0b0d28
+2. Šiems nuolatiniams Lietuvos gyventojams taikomi individualūs neapmokestinamieji pajamų dydžiai (jeigu gyventojas atitinka ne vieną iš [[#^s-1242411b0e9f19461a7ef240|1]]–[[#^s-2581d1bc8b9951d0c1b03a12|5]] punktuose nustatytų kriterijų, taikomas didžiausias individualus NPD): ^s-24aad3c538bc6d9dad0b0d28
 
 
 1) asmenims, kuriems nustatytas 0–25 procentų darbingumo lygis, ar senatvės pensijos amžių sukakusiems asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas didelių specialiųjų poreikių lygis, (iki 2007 m. birželio 30 d. – ir I grupės invalidams), ar asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, – 475 litai per mėnesį; ^s-1242411b0e9f19461a7ef240

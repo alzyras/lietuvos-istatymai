@@ -70,7 +70,7 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS IR ŠIO ĮSTATYMO PAŽEIDIMŲ NAGRIN�
 2. Už šio įstatymo nuostatų pažeidimus mokėjimo paslaugų teikėjams Lietuvos bankas gali skirti nuo vieno tūkstančio iki 30 tūkstančių litų baudą. Tais atvejais, kai pažeidimai buvo padaryti [[#^s-13e815a966364e7a16682bb2|šio straipsnio 5 dalyje]] nurodytomis atsakomybę sunkinančiomis aplinkybėmis, mokėjimo paslaugų teikėjams gali būti skiriama didesnė – nuo 30 iki 120 tūkstančių litų – bauda. Tais atvejais, kai pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems mokėjimo paslaugų vartotojų interesams, Lietuvos bankas, vadovaudamasis teisingumo ir protingumo kriterijais, mokėjimo paslaugų teikėjams gali taikyti nuobaudą – įspėjimą, neskirdamas baudos. ^s-2acc8a7147a1c379677820bd
 
 
-3. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudų, nustatytų [[#^s-2acc8a7147a1c379677820bd|šio straipsnio 2 dalies]] pirmame sakinyje, vidurkį. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio 4 ir [[#^s-13e815a966364e7a16682bb2|5 dalyse]] nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Baudos dydžio mažinimas ar didinimas turi būti motyvuojamas Lietuvos banko sprendime. ^s-01cb77639456319da79f3808
+3. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudų, nustatytų [[#^s-2acc8a7147a1c379677820bd|šio straipsnio 2 dalies]] pirmame sakinyje, vidurkį. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio [[#^s-059b48fea393478cffe01b7b|4]] ir [[#^s-13e815a966364e7a16682bb2|5]] dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Baudos dydžio mažinimas ar didinimas turi būti motyvuojamas Lietuvos banko sprendime. ^s-01cb77639456319da79f3808
 
 
 4. Atsakomybę lengvinančiomis aplinkybėmis laikomos aplinkybės, kai padarę pažeidimą mokėjimo paslaugų teikėjai savo noru užkirto kelią žalingoms pažeidimo pasekmėms, bendradarbiavo su Lietuvos banku tyrimo metu, atlygino nuostolius ir (ar) pašalino padarytą žalą. ^s-059b48fea393478cffe01b7b
@@ -86,10 +86,10 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS IR ŠIO ĮSTATYMO PAŽEIDIMŲ NAGRIN�
 ### 46 straipsnis. Lietuvos banko sprendimo vykdymas ^s-a8e369c0b8b9a7c1fcd11e33
 
 
-1. Lietuvos banko sprendimas turi būti įvykdytas ne vėliau kaip per 30 dienų nuo tos dienos, kurią šio įstatymo reikalavimus pažeidusiam asmeniui jis buvo įteiktas. Apskundus Lietuvos banko sprendimą dėl baudos skyrimo, bauda turi būti sumokėta ne vėliau kaip per 30 dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. ^s-f9b5ee91be55ef5df25be037
+1. Lietuvos banko sprendimas turi būti įvykdytas ne vėliau kaip per 30 dienų nuo tos dienos, kurią šio įstatymo reikalavimus pažeidusiam asmeniui jis buvo įteiktas. Apskundus Lietuvos banko sprendimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo, bauda turi būti sumokėta ne vėliau kaip per 30 dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. ^s-f9b5ee91be55ef5df25be037
 
 
-2. Lietuvos banko sprendimas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Lietuvos banko sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo jo priėmimo dienos. ^s-5b580c4c13d67ced5266ce8d
+2. Lietuvos banko sprendimas yra vykdomasis dokumentas, vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Lietuvos banko sprendimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo jo priėmimo dienos. ^s-5b580c4c13d67ced5266ce8d
 
 
 
@@ -99,7 +99,7 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS IR ŠIO ĮSTATYMO PAŽEIDIMŲ NAGRIN�
 1. Mokėjimo paslaugų teikėjai, nesutinkantys su Lietuvos banko sprendimu, turi teisę per trisdešimt dienų nuo sprendimo priėmimo dienos apskųsti sprendimą teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-bb4f02c85e1b62f66375937a
 
 
-2. Kreipimasis į teismą sustabdo Lietuvos banko sprendimo dėl baudos skyrimo vykdymą. ^s-1b69d33e48a4eb5bc578c317
+2. Kreipimasis į teismą sustabdo Lietuvos banko sprendimo [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo vykdymą. ^s-1b69d33e48a4eb5bc578c317
 
 
 

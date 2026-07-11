@@ -55,25 +55,25 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 ### 2 straipsnis. 2 straipsnio 1, 2, 3 ir 4 dalių pakeitimas ^s-94c5082d047d2363e3a55a48
 
 
-1. Pakeisti [[#^s-be22a5521c0589f2d60b0135|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-be22a5521c0589f2d60b0135
+1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^s-be22a5521c0589f2d60b0135
 
 
 „1. Mėgėjų sodininkystė – veikla turint tikslą sodo sklype susikurti aktyvaus poilsio ir gyvenimo sąlygas, išsiauginti ar pasigaminti žemės ūkio produktų (vaisių, uogų, daržovių, gėlių, bitininkystės ir kitų produktų), taip pat tvarkyti kraštovaizdį ir naudotis juo rekreacijai, puoselėti ir tausoti jo išteklius.“
 
 
-2. Pakeisti [[#^s-a652c6c413873984ed769f68|2 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-a652c6c413873984ed769f68
+2. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip: ^s-a652c6c413873984ed769f68
 
 
 „2. Mėgėjų sodo sklypas (toliau – sodo sklypas) – mėgėjų sodo teritorijoje pagal žemėtvarkos projektą ar kitą teritorijų planavimo dokumentą suformuotas ir pažymėtas riboženkliais žemės sklypas.“
 
 
-3. Pakeisti [[#^s-737378a7b3ba4dd7a7b75157|2 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-737378a7b3ba4dd7a7b75157
+3. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip: ^s-737378a7b3ba4dd7a7b75157
 
 
 „3. Mėgėjų sodo teritorija – savivaldybės teritorijos ar jos dalies bendrojo plano sprendiniuose pažymėta, išskyrus atvejus, kol savivaldybės teritorijos ar jos dalies bendrasis planas nėra parengtas, teisės aktu mėgėjų sodininkystei skirta, pagal žemėtvarkos projektą arba kitą teritorijų planavimo dokumentą suformuota teritorija, suskirstyta į sodininkų ir kitų asmenų nuosavybės ar kitomis teisėmis valdomus sodo sklypus ir bendrojo naudojimo žemę (rekreacijai ir kitoms reikmėms).“
 
 
-4. Pakeisti [[#^s-1121f7ce9a62cc883cdb2a29|2 straipsnio 4 dalį]] ir ją išdėstyti taip: ^s-1121f7ce9a62cc883cdb2a29
+4. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip: ^s-1121f7ce9a62cc883cdb2a29
 
 
 „4. Sodininkas – fizinis asmuo, nuosavybės ar kitomis teisėmis valdomame žemės sklype užsiimantis mėgėjų sodininkyste.“
@@ -169,7 +169,7 @@ MĖGĖJŲ SODO TERITORIJOS IR SODŲ SKLYPŲ TVARKYMAS IR NAUDOJIMAS“.
 3) krūmai sodinami ne mažesniu kaip 1 m atstumu nuo sodo sklypo ribos; ^s-657d7aa5d9bcbfd66cb4188c
 
 
-4) mažesniais, negu nurodyta šios dalies 1, 2 ir [[#^s-657d7aa5d9bcbfd66cb4188c|3 punktuose]], atstumais sodiniai gali būti sodinami turint rašytinį kaimyninio sodo sklypo savininko sutikimą.“ ^s-a1796a8807e34f5835ac6705
+4) mažesniais, negu nurodyta šios dalies [[#^s-cc8d0ebe1975823b36fcf188|1]], [[#^s-2933553a143bde5579480949|2]] ir [[#^s-657d7aa5d9bcbfd66cb4188c|3]] punktuose, atstumais sodiniai gali būti sodinami turint rašytinį kaimyninio sodo sklypo savininko sutikimą.“ ^s-a1796a8807e34f5835ac6705
 
 
 5. Pakeisti 6 straipsnio 6 dalį ir ją išdėstyti taip: ^s-23f319fdbc0108be0c2fbf69

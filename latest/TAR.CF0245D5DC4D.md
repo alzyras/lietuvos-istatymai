@@ -36,7 +36,7 @@ Vilnius
 TSRS kariuomenei vykdant atvirą ginkluotą agresiją prieš Lietuvos Respubliką, tuo sukėlus realią grėsmę teisėtų valstybės valdžios institucijų veiklai bei pačios Lietuvos Respublikos egzistencijai, Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
 
-1. Smurtu ar kitokia prievarta sutrukdžius 1990 metais teisėtai išrinktai Lietuvos Respublikos Aukščiausiajai Tarybai vykdyti savo įgaliojimus, turi būti sudaryta Lietuvos Respublikos Vyriausybė emigracijoje. Nustatyti, kad Respublikos Vyriausybės emigracijos įgaliojimai prasideda nuo to momento, kai tampa aišku, jog Lietuvos Respublikos Aukščiausioji Taryba negali susirinkti ir laisvai priiminėti sprendimų. Nuo to paties momento laikyti netekusia įgaliojimų 1991 m. sausio 11 d. paskirtą Lietuvos Respublikos Vyriausybę, kartu su einančiais pareigas buvusios Vyriausybės ministrais.
+1. Smurtu ar kitokia prievarta sutrukdžius 1990 metais teisėtai išrinktai Lietuvos Respublikos [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC) vykdyti savo įgaliojimus, turi būti sudaryta Lietuvos Respublikos Vyriausybė emigracijoje. Nustatyti, kad Respublikos Vyriausybės emigracijos įgaliojimai prasideda nuo to momento, kai tampa aišku, jog Lietuvos Respublikos Aukščiausioji Taryba negali susirinkti ir laisvai priiminėti sprendimų. Nuo to paties momento laikyti netekusia įgaliojimų 1991 m. sausio 11 d. paskirtą Lietuvos Respublikos Vyriausybę, kartu su einančiais pareigas buvusios Vyriausybės ministrais.
 
 
 2. Lietuvos Respublikos Vyriausybės emigracijoje vadovu (Ministru Pirmininku) skirti Lietuvos Respublikos užsienio reikalų ministrą Algirdą Saudargą, suteikiant jam teisę skirti Vyriausybės emigracijoje narius ir Lietuvos Respublikos diplomatinius atstovus.

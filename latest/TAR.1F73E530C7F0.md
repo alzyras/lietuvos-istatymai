@@ -100,7 +100,7 @@ Papildyti 1 straipsnį 3 dalimi:
 3) kaip gaminio tiekimo proceso dalyvis gali daryti poveikį teikiamo į rinką gaminio saugai.“ ^s-3e74fc2f350810546f753392
 
 
-6. Papildyti [[#^s-d920ed593bad5699f172ebe3|3 straipsnį]] 14, 15 ir [[#^s-fb72d93a47f1eceda0aaf201|16 dalimis]]: ^s-cab721af29e361646a69d951
+6. Papildyti [[#^s-d920ed593bad5699f172ebe3|3 straipsnį]] 14, 15 ir 16 dalimis: ^s-cab721af29e361646a69d951
 
 
 „14. Rimtas pavojus – bet koks pavojus vartotojų saugai, įskaitant vėliau pasireiškiantį pavojų, kai reikalingas skubus valstybės institucijų įsikišimas.
@@ -116,7 +116,7 @@ Papildyti 1 straipsnį 3 dalimi:
 ### 3 straipsnis. 4 straipsnio pakeitimas ^s-d920ed593bad5699f172ebe3
 
 
-Pakeisti 4 straipsnio 2 dalį, papildyti 3 ir [[#^s-8f50bff54d9212bea8c197bf|4 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 4 straipsnio 2 dalį, papildyti 3 ir 4 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-1b11bb048d521295f2b6cbf9|4 straipsnis]]. Bendrieji produktų saugos reikalavimai
@@ -131,7 +131,7 @@ Pakeisti 4 straipsnio 2 dalį, papildyti 3 ir [[#^s-8f50bff54d9212bea8c197bf|4 d
 3. Produktas yra saugus, kai pavojaus ir pavojaus kategorijų aspektu jis atitinka savanoriškai taikomus kaip nacionalinius standartus perimtus Europos standartus, nuorodos į kuriuos buvo paskelbtos Europos Bendrijų oficialiajame leidinyje, o Lietuvos nuorodos į tokius nacionalinius standartus nustatyta tvarka buvo paskelbtos „Valstybės žiniose“. ^s-abe505fc8af60569fa6dae7f
 
 
-4. Kitais, nei nurodyta šio straipsnio 2 ir [[#^s-abe505fc8af60569fa6dae7f|3 dalyse]], atvejais produktas vertinamas kaip atitinkantis bendruosius saugos reikalavimus pirmiausia atsižvelgiant į savanoriškai taikomus kitus, nei šio straipsnio 2 ir [[#^s-abe505fc8af60569fa6dae7f|3 dalyse]] nurodytus, ES standartus perimančius nacionalinius standartus, kitus nacionalinius standartus, Europos Komisijos rekomendacijas, nustatančias produktų saugos vertinimo gaires, atitinkamame sektoriuje galiojančius geros gamybos praktikos kodeksus, naujausius mokslo ir technikos laimėjimus, saugą, kurios vartotojas gali pagrįstai tikėtis.“ ^s-8f50bff54d9212bea8c197bf
+4. Kitais, nei nurodyta šio straipsnio [[#^s-372021a9f1b7fdc564cdaa66|2]] ir [[#^s-abe505fc8af60569fa6dae7f|3]] dalyse, atvejais produktas vertinamas kaip atitinkantis bendruosius saugos reikalavimus pirmiausia atsižvelgiant į savanoriškai taikomus kitus, nei šio straipsnio [[#^s-372021a9f1b7fdc564cdaa66|2]] ir [[#^s-abe505fc8af60569fa6dae7f|3]] dalyse nurodytus, ES standartus perimančius nacionalinius standartus, kitus nacionalinius standartus, Europos Komisijos rekomendacijas, nustatančias produktų saugos vertinimo gaires, atitinkamame sektoriuje galiojančius geros gamybos praktikos kodeksus, naujausius mokslo ir technikos laimėjimus, saugą, kurios vartotojas gali pagrįstai tikėtis.“ ^s-8f50bff54d9212bea8c197bf
 
 
 
@@ -315,7 +315,7 @@ VISUOMENINIŲ VARTOTOJŲ TEISIŲ GYNIMO ORGANIZACIJŲ TEISĖS IR MOKSLO KOMITET�
 „1) tikrinti, ar laikomasi produktų saugą reglamentuojančių teisės aktų, organizuoti reikiamus produkto saugos ypatybių patikrinimus netgi po to, kai jis jau yra pateiktas į rinką ir laikomas saugiu, ir iki pat jo sunaudojimo ar suvartojimo galutinio etapo bei kaupti duomenis produktų saugos klausimais;“.
 
 
-2. [[#^s-c20db4fc587a43e926ee8e16|14 straipsnio 2 dalį]] papildyti naujais 1 ir [[#^s-9399169936538cb3c6a2c150|2 punktais]], buvusius 1 ir [[#^s-9399169936538cb3c6a2c150|2 punktus]] laikyti 3 ir [[#^s-7fa395d3b9ba2c48b25ce55c|4 punktais]] ir šią dalį išdėstyti taip: ^s-b56be5fff0f32a3f63e37ca6
+2. [[#^s-c20db4fc587a43e926ee8e16|14 straipsnio 2 dalį]] papildyti naujais 1 ir 2 punktais, buvusius 1 ir 2 punktus laikyti 3 ir 4 punktais ir šią dalį išdėstyti taip: ^s-b56be5fff0f32a3f63e37ca6
 
 
 „2. Kontrolės institucijos privalo:
@@ -462,7 +462,7 @@ Jeigu valstybinės produktų saugos ekspertizės tyrimais nustatoma, kad gamini�
 ### 17 straipsnis. 23 straipsnio pakeitimas ^s-343a61b9f9c500535253952b
 
 
-23 straipsnio 1, 2, 3, 4, 5, 6, [[#^s-2c1656639086eea43ed242f8|7 dalyse]] vietoj žodžių „nesaugių“, „nesaugias“, „nesaugią“, „nesaugius“ įrašyti žodžius „pavojingų“, „pavojingas“, „pavojingą“, „pavojingus“  ir šį straipsnį išdėstyti taip:
+23 straipsnio 1, 2, 3, 4, 5, 6, 7 dalyse vietoj žodžių „nesaugių“, „nesaugias“, „nesaugią“, „nesaugius“ įrašyti žodžius „pavojingų“, „pavojingas“, „pavojingą“, „pavojingus“  ir šį straipsnį išdėstyti taip:
 
 
 „23 straipsnis. Baudos už šio įstatymo pažeidimus

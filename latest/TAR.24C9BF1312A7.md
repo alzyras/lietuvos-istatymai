@@ -53,7 +53,7 @@ Pakeisti ir papildyti 37 straipsnį ir jį išdėstyti taip:
 1. Vyriausybė valstybės valdymo reikalus sprendžia posėdžiuose visų Vyriausybės narių balsų dauguma priimdama nutarimus. ^s-9a1ae5e77c2abc7b3d96f8de
 
 
-2. Vyriausybės posėdžiuose gali dalyvauti asmenys, kuriems tokią teisę numato Lietuvos Respublikos Konstitucija ir kiti įstatymai. ^s-dbf990b406ce8578b676b494
+2. Vyriausybės posėdžiuose gali dalyvauti asmenys, kuriems tokią teisę numato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) ir kiti įstatymai. ^s-dbf990b406ce8578b676b494
 
 
 3. Į Vyriausybės posėdžius gali būti kviečiami ir kiti asmenys. ^s-e18b237fdbfd069bc6631ab8
@@ -76,7 +76,7 @@ Papildyti Įstatymą 411 straipsniu:
 
 
 1. Vyriausybės sprendimai ir Vyriausybės rezoliucijos priimami Vyriausybės pasitarime dalyvaujančių Vyriausybės narių balsų dauguma. ^s-437edf25359e41f9183ae1cc
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos Vyriausybės įstatymo 411 straipsnio 1 dalis (2004 m. lapkričio 11 d. redakcija; Žin., 2004, 171-6322) prieštarauja Lietuvos Respublikos Konstitucijos 95 straipsnio 1 daliai.
+TAR pastaba. Pripažinti, kad [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymo 411 straipsnio 1 dalis]] (2004 m. lapkričio 11 d. redakcija; Žin., 2004, 171-6322) prieštarauja Lietuvos Respublikos Konstitucijos 95 straipsnio 1 daliai.
 Straipsnio dalies pakeitimai:
 Nr. KT3-N2/2018, 2018-03-02, paskelbta TAR 2018-03-05, i. k. 2018-03510
 
@@ -196,4 +196,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT3-N2/2018, 2018-03-02, paskelbta TAR 2018-03-05, i. k. 2018-03510
-Dėl [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymo]] 41(1) [[#^s-771cb19534e80008e76e5d2f|straipsnio 1 dalies]] (2004 m. lapkričio 11 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Vyriausybės 2016 m. rugsėjo 28 d. nutarimo Nr. 960 „Dėl J. Miliaus atleidimo iš Valstybinės maisto ir veterinarijos tarnybos direktoriaus pareigų“ atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Vyriausybės įstatymui ir bylos dalies nutraukimo
+Dėl Lietuvos Respublikos Vyriausybės įstatymo 41(1) [[#^s-771cb19534e80008e76e5d2f|straipsnio 1 dalies]] (2004 m. lapkričio 11 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Vyriausybės [2016 m. rugsėjo 28 d. nutarimo Nr. 960](https://e-tar.lt/portal/lt/legalAct/c28de8f0864e11e6b969d7ae07280e89) [„Dėl J. Miliaus atleidimo iš Valstybinės maisto ir veterinarijos tarnybos direktoriaus pareigų“](https://e-tar.lt/portal/lt/legalAct/c28de8f0864e11e6b969d7ae07280e89) atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Vyriausybės įstatymui ir bylos dalies nutraukimo

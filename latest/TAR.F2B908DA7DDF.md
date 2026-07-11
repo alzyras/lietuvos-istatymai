@@ -47,7 +47,7 @@ Vilnius
 „4) sausio 25-oji – Vilniaus pagarsinimo diena;“.
 
 
-2. Buvusius [[#^s-b327cff7cb4a094de3f5b605|1 straipsnio 2 dalies]] 4–23 punktus laikyti atitinkamai 5–24 punktais. ^s-b327cff7cb4a094de3f5b605
+2. Buvusius 1 straipsnio 2 dalies 4–23 punktus laikyti atitinkamai 5–24 punktais. ^s-b327cff7cb4a094de3f5b605
 
 
 3. Papildyti [[#^s-b327cff7cb4a094de3f5b605|1 straipsnio 2 dalį]] nauju 25 punktu: ^s-fae29edfa1666f40b1067aa9

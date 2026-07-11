@@ -13,5 +13,4 @@ pavadinimas: "Dėl Lietuvos Respublikos alkoholio kontrolės įstatymo pakeitimo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9E5C5C16B6E6#^s-0ccbd22213fc90c7177d284d|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - 2 citatos - DĖL LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO PAKEITIMO
-- [[latest/TAR.9E5C5C16B6E6#^s-13f371e051ff8112a2b3c8e0|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - 2 citatos - DĖL LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO PAKEITIMO
+- [[latest/TAR.9E5C5C16B6E6#^s-13f371e051ff8112a2b3c8e0|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - DĖL LIETUVOS RESPUBLIKOS ALKOHOLIO KONTROLĖS ĮSTATYMO PAKEITIMO

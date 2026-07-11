@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-78b735bf75e8a09e32acae74
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2002 m. spalio 8 d. dekretą Nr. 1935, ratifikuoja 1990 m. tarptautinę konvenciją dėl parengties, veiksmų ir bendradarbiavimo įvykus taršos nafta incidentams, priimtą 1990 m. lapkričio 30 d. Londone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2002 m. spalio 8 d. dekretą Nr. 1935](https://e-tar.lt/portal/lt/legalAct/TAR.46C1A7BBEB42), ratifikuoja 1990 m. tarptautinę konvenciją dėl parengties, veiksmų ir bendradarbiavimo įvykus taršos nafta incidentams, priimtą 1990 m. lapkričio 30 d. Londone.
 
 
 

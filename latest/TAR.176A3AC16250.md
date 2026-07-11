@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-c6b16d3cc83d39323bbb3147
 
 
-Pripažinti netekusiu galios Lietuvos Respublikos įstatymą „Dėl asmenų, laikomų nuolat gyvenančiais arba gyvenančiais Lietuvos Respublikoje“.
+Pripažinti netekusiu galios Lietuvos Respublikos įstatymą [„Dėl asmenų, laikomų nuolat gyvenančiais arba gyvenančiais Lietuvos Respublikoje“](https://e-tar.lt/portal/lt/legalAct/TAR.082860689E84).
 
 
 

@@ -40,23 +40,23 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-5829e5199d994e155d9fd3b4
 
 
-1. Pakeisti 2 straipsnio 3 dalies 8 punktą ir jį išdėstyti taip: ^s-368cc623a70bf426042d9684
+1. Pakeisti [[latest/TAR.7E60B29052C0|2 straipsnio 3 dalies 8 punktą]] ir jį išdėstyti taip: ^s-368cc623a70bf426042d9684
 
 
 „8) Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko paskirtiems institucijų ir įstaigų, finansuojamų iš valstybės biudžeto, vadovams (išskyrus policijos generalinį komisarą bei specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus) bei pareigūnams;“.
 
 
-2. Pripažinti netekusiu galios 2 straipsnio 3 dalies 12 punktą. ^s-b0c6c2d78cc6fca93aa8c275
+2. Pripažinti netekusiu galios [[latest/TAR.7E60B29052C0|2 straipsnio 3 dalies 12 punktą]]. ^s-b0c6c2d78cc6fca93aa8c275
 
 
 
 ### 2 straipsnis. 3 straipsnio pakeitimas ^s-f76157418286e4a84353526b
 
 
-1. Pripažinti netekusia galios 3 straipsnio 6 dalį. ^s-02e2b8ddd601b8ea394e8873
+1. Pripažinti netekusia galios [[latest/TAR.7E60B29052C0|3 straipsnio 6 dalį]]. ^s-02e2b8ddd601b8ea394e8873
 
 
-2. Pripažinti netekusia galios 3 straipsnio 7 dalį. ^s-7e79b1b7b6b8bf786de491a2
+2. Pripažinti netekusia galios [[latest/TAR.7E60B29052C0|3 straipsnio 7 dalį]]. ^s-7e79b1b7b6b8bf786de491a2
 
 
 

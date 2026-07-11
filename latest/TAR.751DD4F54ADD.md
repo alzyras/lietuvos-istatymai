@@ -51,7 +51,7 @@ Pakeisti 3 straipsnio 3 punktą ir jį išdėstyti taip:
 ### 2 straipsnis. 5 straipsnio pavadinimo, 1 ir 2 dalių pakeitimas ^s-830e815e733ab90e45ddff78
 
 
-Pakeisti 5 straipsnio pavadinimą, 1 ir [[#^s-c3978508a4ade47adb3c8b03|2 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 5 straipsnio pavadinimą, 1 ir 2 dalis ir visą straipsnį išdėstyti taip:
 
 
 

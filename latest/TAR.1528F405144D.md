@@ -854,7 +854,7 @@ KONKURENCINĖS DERYBOS
 2. Jeigu pirkimus atlieka šio įstatymo [[#^s-52b676fc34eae1660dcb3e62|1 straipsnio 1 dalies 3 punkte]] nurodytos perkančiosios organizacijos, jos gali konkurencinių derybų būdą pasirinkti nesilaikydamos [[#^s-db4a95a48593433e2925af71|šio straipsnio 1 dalyje]] numatytų sąlygų. ^s-c8cd59b4c060803d27feaecc
 
 
-3. [[#^s-fdafb49ace2267c5a49fa917|Šio straipsnio 1 dalies 2 punkte]] nurodytu atveju perkančioji organizacija, neskelbdama kvietimo pateikti pirminius pasiūlymus konkurencinėms deryboms, gali rengti konkurencines derybas su dviem pasiūlymus konkursui pateikusiais tiekėjais (rangovais). Tokiu atveju konkurencinės derybos vykdomos vadovaujantis šio įstatymo [[#^s-3ecc7a14d7835b04f2f3dc67|29 straipsnio 4 dalyje]], 30 ir [[#^s-d127d7e6b83c26d466b144b2|31 straipsniuose]] nurodytomis procedūromis, iš esmės nekeičiant pirkimo sąlygų. ^s-63b78edac4786eb9d07fad63
+3. [[#^s-fdafb49ace2267c5a49fa917|Šio straipsnio 1 dalies 2 punkte]] nurodytu atveju perkančioji organizacija, neskelbdama kvietimo pateikti pirminius pasiūlymus konkurencinėms deryboms, gali rengti konkurencines derybas su dviem pasiūlymus konkursui pateikusiais tiekėjais (rangovais). Tokiu atveju konkurencinės derybos vykdomos vadovaujantis šio įstatymo [[#^s-3ecc7a14d7835b04f2f3dc67|29 straipsnio 4 dalyje]], [[#^s-3ed3aa25fc10b02d14c223f2|30]] ir [[#^s-d127d7e6b83c26d466b144b2|31]] straipsniuose nurodytomis procedūromis, iš esmės nekeičiant pirkimo sąlygų. ^s-63b78edac4786eb9d07fad63
 
 
 
@@ -1059,7 +1059,7 @@ KAINŲ APKLAUSA
 3. Pasiūlymų dalyvauti kainų apklausoje pateikimo terminas negali būti trumpesnis kaip 10 dienų nuo kvietimo paskelbimo „Valstybės žinių“ priede „Informaciniai pranešimai“ dienos. ^s-d3106c7d5b6d492eeaa6c305
 
 
-4. Kiekvienam tiekėjui (rangovui) leidžiama pateikti ne daugiau kaip vieną įkainojimo pasiūlymą. Pasiūlytos kainos negalima keisti. Pasiūlymai pateikiami ir vokai atplėšiami šio įstatymo 21 ir [[#^s-d379b7835e7a65ff7488a1d9|24 straipsniuose]] nustatyta tvarka. ^s-0344a6032f15af3f7e0edd9c
+4. Kiekvienam tiekėjui (rangovui) leidžiama pateikti ne daugiau kaip vieną įkainojimo pasiūlymą. Pasiūlytos kainos negalima keisti. Pasiūlymai pateikiami ir vokai atplėšiami šio įstatymo [[#^s-1c5bc866f53112abed98bc89|21]] ir [[#^s-d379b7835e7a65ff7488a1d9|24]] straipsniuose nustatyta tvarka. ^s-0344a6032f15af3f7e0edd9c
 
 
 5. Atliekant pirkimą kainų apklausos būdu, pasiūlymų galiojimo užtikrinimas ir pirkimo sutarties įvykdymo užtikrinimas reglamentuojami šio įstatymo II skyriaus antrajame skirsnyje nustatyta tvarka. ^s-c331e9cfb74a7d1b6db65ca8
@@ -1168,7 +1168,7 @@ ATLYGINIMAS
 ### 36 straipsnis. Teisė pareikšti pretenziją ar apskųsti perkančiosios organizacijos veiksmus bei sprendimus ^s-812af1d4edcc5d8db600fe1b
 
 
-1. Kiekvienas pirkimu suinteresuotas tiekėjas (rangovas), kuris mano, kad perkančioji organizacija nesilaikė šio įstatymo reikalavimų ir pažeidė jo teisėtus interesus, turi teisę iki Komisijos sprendimo apie laimėjusį pasiūlymą priėmimo pareikšti pretenziją ar apskųsti perkančiosios organizacijos veiksmus ar sprendimus šio įstatymo 37–[[#^s-9d50e487592e7005a8bd3141|41 straipsniuose]] nustatyta tvarka ir terminais. ^s-60ab774d0cd6ab3fe922cb1e
+1. Kiekvienas pirkimu suinteresuotas tiekėjas (rangovas), kuris mano, kad perkančioji organizacija nesilaikė šio įstatymo reikalavimų ir pažeidė jo teisėtus interesus, turi teisę iki Komisijos sprendimo apie laimėjusį pasiūlymą priėmimo pareikšti pretenziją ar apskųsti perkančiosios organizacijos veiksmus ar sprendimus šio įstatymo [[#^s-f250c5eb26525bff6da9d5c9|37]]–[[#^s-9d50e487592e7005a8bd3141|41]] straipsniuose nustatyta tvarka ir terminais. ^s-60ab774d0cd6ab3fe922cb1e
 
 
 2. Tiekėjas (rangovas), nesutinkantis su Komisijos sprendimu dėl laimėjusio pasiūlymo pripažinimo ar manąs, kad sudaryta pirkimo sutartis pažeidžia jo teisėtus interesus, turi teisę kreiptis į teismą įstatymų nustatyta tvarka. ^s-053e1e752e0229ad9070cf1f
@@ -1263,7 +1263,7 @@ ATLYGINIMAS
 ### 41 straipsnis. Skundų nagrinėjimo tvarka ir terminai ^s-9d50e487592e7005a8bd3141
 
 
-1. Nepriklausoma komisija nagrinėja tik tuos tiekėjų (rangovų) skundus, kurie gauti iki Komisijos sprendimo apie laimėjusį pasiūlymą priėmimo ir pateikti laikantis šio įstatymo 38 ir [[#^s-287f73436e4f508e035b6dd0|39 straipsnių]] reikalavimų. ^s-e0694b2d785254b3b25d57d5
+1. Nepriklausoma komisija nagrinėja tik tuos tiekėjų (rangovų) skundus, kurie gauti iki Komisijos sprendimo apie laimėjusį pasiūlymą priėmimo ir pateikti laikantis šio įstatymo [[#^s-c20da1454c71e5374d918b95|38]] ir [[#^s-287f73436e4f508e035b6dd0|39]] straipsnių reikalavimų. ^s-e0694b2d785254b3b25d57d5
 
 
 2. Skundą nagrinėja Nepriklausomos komisijos 3 nariai, kurių po vieną iš šio įstatymo [[#^s-6018a0544803d58a38bd49a5|40 straipsnyje]] numatyto Nepriklausomos komisijos narių sąrašo pasirenka tiekėjas (rangovas), perkančioji organizacija ir Viešųjų pirkimų tarnyba. Iš pasirinktų narių Viešųjų pirkimų tarnyba skiria Nepriklausomos komisijos pirmininką. ^s-8be2590997512da20705f283
@@ -1333,7 +1333,7 @@ BAIGIAMOSIOS NUOSTATOS
 1. Šis įstatymas įsigalioja nuo 1999 m. spalio 1 d., išskyrus III skyrių, kuris įsigalioja nuo 2000 m. sausio 1 d. ^s-5a222c0dfe684bd4dfe96a02
 
 
-2. Iki šio įstatymo įsigaliojimo paskelbti pirkimai vykdomi ir iki šio įstatymo III skyriaus įsigaliojimo gauti skundai nagrinėjami pagal 1996 m. rugpjūčio 13 d. priimto Lietuvos Respublikos viešojo pirkimo [[latest/TAR.C54AFFAA7622|įstatymo Nr. I-1491]] nuostatas (Žin., 1996, Nr. 84-2000; 1997, Nr. 117-3000).“ ^s-260369f5764055e5b62f9cb1
+2. Iki šio įstatymo įsigaliojimo paskelbti pirkimai vykdomi ir iki šio įstatymo III skyriaus įsigaliojimo gauti skundai nagrinėjami pagal 1996 m. rugpjūčio 13 d. priimto Lietuvos Respublikos viešojo pirkimo įstatymo Nr. I-1491 nuostatas (Žin., 1996, Nr. 84-2000; 1997, Nr. 117-3000).“ ^s-260369f5764055e5b62f9cb1
 
 
 

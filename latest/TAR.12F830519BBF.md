@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-fed444a67aa0b5f8cff1e97f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. rugsėjo 9 d. dekretą Nr. 63, ratifikuoja Konvenciją dėl tam tikrų tarptautinio vežimo oru taisyklių suvienodinimo, pasirašytą 1999 m. gegužės 28 d. Monrealyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. rugsėjo 9 d. dekretą Nr. 63](https://e-tar.lt/portal/lt/legalAct/TAR.17A68C36D2DD), ratifikuoja Konvenciją dėl tam tikrų tarptautinio vežimo oru taisyklių suvienodinimo, pasirašytą 1999 m. gegužės 28 d. Monrealyje.
 
 
 

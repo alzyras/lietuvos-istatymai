@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos skirtų realizuoti netauriųjų metalų lauž
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.0475A2E41479|Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS NETAURIŲJŲ METALŲ LAUŽO IR ATLIEKŲ SUPIRKIMO ĮSTATYMAS
+_Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.0475A2E41479#^s-3c1ab843497fab13952876ee|Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymas]] - 3 citatos - 1101010ISTA00XI-883
-- [[latest/TAR.0475A2E41479#^s-8f4020949d61903aadc94ad6|Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymas]] - 3 citatos - 1101010ISTA00XI-883
+- [[latest/TAR.0475A2E41479#^s-3c1ab843497fab13952876ee|Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymas]] - 2 citatos - 1101010ISTA00XI-883

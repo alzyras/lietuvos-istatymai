@@ -65,7 +65,7 @@ Nr. XV-348, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11763
 ### 3 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-e81c4f7e31e0c09bbab460dc
 
 
-1. Finansinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-bd957f5b69326a7887eb58d6|Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies]] 1, 2, 3 ir 4 punktuose nurodytos finansinės priemonės, taip pat indėliai. ^s-dbf4ca7c93cce9c7b48cf158
+1. Finansinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-bd957f5b69326a7887eb58d6|Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-2ecfad276d1ea5cd27238635|1]], [[latest/TAR.AB7AFE2F35B2#^s-b1dd84822e56e38d00aeca38|2]], [[latest/TAR.AB7AFE2F35B2#^s-6620da3f0582cb1a3bea4be5|3]] ir [[latest/TAR.AB7AFE2F35B2#^s-b258a760911fb8393b8ac7ad|4]] punktuose nurodytos finansinės priemonės, taip pat indėliai. ^s-dbf4ca7c93cce9c7b48cf158
 
 
 2. Pensijų anuitetas – pensijų fondo dalyviui iki gyvos galvos mokama periodinė pensijos išmoka, kurios visa išmokėjimo rizika tenka pensijų anuitetų mokėtojui. ^s-6aa28392d0baaed4970b4bbd
@@ -180,7 +180,7 @@ Nr. XV-590, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20659
 TAR pastaba. Pripažinti, Lietuvos Respublikos pensijų kaupimo įstatymo (2018 m. birželio 28 d. redakcija; TAR, 2018-07-05, Nr. 11459) [[#^s-47e845bed41456944b6eb609|4 straipsnio 8 dalis]] tiek, kiek joje nenustatyta, kad pensijų kaupimas baigiasi, kai jis nutraukiamas pensijų fondo dalyvio iniciatyva dėl svarbių priežasčių, prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-e4c97852a6cb4287adf23560|23 straipsniui]], konstituciniam teisinės valstybės principui.
 
 
-5) dalyviui šio įstatymo [[#^s-b307cf08ceee33a3b79c112c|291 straipsnio]] 1 ir [[#^s-edd746bfa3c54af864a09a09|2 dalyse]] nustatyta tvarka išmokamas jo vardu pensijų fonde sukauptas pensijų turtas, jeigu yra bent vienas iš šių pagrindų: ^s-d056ca1401831884aeb9cdfb
+5) dalyviui šio įstatymo [[#^s-b307cf08ceee33a3b79c112c|291 straipsnio]] [[#^s-93d45c5140ae9331550d17fd|1]] ir [[#^s-06aed6c0d9f8c3a09e1e9d31|2]] dalyse nustatyta tvarka išmokamas jo vardu pensijų fonde sukauptas pensijų turtas, jeigu yra bent vienas iš šių pagrindų: ^s-d056ca1401831884aeb9cdfb
 
 
 a) dalyviui išduotas siuntimas paliatyviosios pagalbos asmens sveikatos priežiūros paslaugoms gauti;
@@ -241,7 +241,7 @@ Nr. KT21-N3/2024, 2024-03-07, paskelbta TAR 2024-03-07, i. k. 2024-04342
 3. Dalyvių ir sutarčių registro informacinės sistemos valdytoja ir duomenų, įskaitant asmens duomenis, valdytoja yra VSDF valdyba. ^s-88523f9e53b4fa156fa3a933
 
 
-4. Dalyvių ir sutarčių registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra vieši. Dalyvių ir sutarčių registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) [[#^s-4562e35f32d75502c4570357|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-b86a50fba9a9e3000f80d8e4|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-2ec28db56c35e0c32fab43e5
+4. Dalyvių ir sutarčių registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra vieši. Dalyvių ir sutarčių registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) [[#^s-4562e35f32d75502c4570357|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-b86a50fba9a9e3000f80d8e4|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-2ec28db56c35e0c32fab43e5
 
 
 5. Dalyvių ir sutarčių registro informacinėje sistemoje tvarkomi duomenys yra atveriami pakartotinai naudoti, išskyrus asmens duomenis ir duomenis, sudarančius juridinio asmens konfidencialią informaciją ar galinčius atskleisti jo komercinę (verslo) paslaptį. ^s-e987f524923efb77f7af6466
@@ -611,7 +611,7 @@ Nr. XV-522, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19757
 3) mirusių dalyvių pensijų turtas, kol jis nėra paveldėtas. Mirusių dalyvių pensijų turto, kol jis nėra paveldėtas, perkėlimas atliekamas penktą darbo dieną po informacijos apie dalyvio mirtį gavimo pensijų kaupimo bendrovėje dienos. ^s-17cc6a7c7068d192b29903ef
 
 
-3. Tikslinės grupės pensijų fondo dalyviai kartu su jiems priklausančiu pensijų turtu į tos pačios pensijų kaupimo bendrovės valdomą turto išsaugojimo pensijų fondą perkeliami nedarant jokių atskaitymų iš pensijų turto. Į turto išsaugojimo pensijų fondą perkelti dalyviai turi teisę pereiti į tos pačios arba kitos pensijų kaupimo bendrovės valdomą kitą pensijų fondą – tokiais atvejais šio įstatymo 9 ir [[#^s-db0e4ce334f456a09bf34186|10 straipsnių]] nuostatos taikomos mutatis mutandis. ^s-c1e688818111e91d18de254b
+3. Tikslinės grupės pensijų fondo dalyviai kartu su jiems priklausančiu pensijų turtu į tos pačios pensijų kaupimo bendrovės valdomą turto išsaugojimo pensijų fondą perkeliami nedarant jokių atskaitymų iš pensijų turto. Į turto išsaugojimo pensijų fondą perkelti dalyviai turi teisę pereiti į tos pačios arba kitos pensijų kaupimo bendrovės valdomą kitą pensijų fondą – tokiais atvejais šio įstatymo [[#^s-2a4b1f8f3f1db792cfaeeac3|9]] ir [[#^s-db0e4ce334f456a09bf34186|10]] straipsnių nuostatos taikomos mutatis mutandis. ^s-c1e688818111e91d18de254b
 
 
 4. Pensijų kaupimo bendrovė ne vėliau kaip per 5 darbo dienas nuo dalyvio perkėlimo į turto išsaugojimo pensijų fondą dienos privalo apie tai pranešti dalyviui priežiūros institucijos patvirtintose standartinėse pensijų fondų taisyklėse nustatytu būdu. ^s-2fad4af26b1fc1df4e741046
@@ -707,7 +707,7 @@ Nr. XV-487, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17645
 4. Į kiekvieną iš [[#^s-5c5f93976e2581ea757e0290|šio straipsnio 3 dalyje]] nustatytas sąlygas atitinkančių kolektyvinio investavimo subjektų gali būti investuota ne daugiau kaip 5 procentai pensijų fondo grynųjų aktyvų. ^s-da618bb92ce826b1a25b6eb0
 
 
-5. Likus mažiau kaip 10 metų iki planuojamo tikslinės grupės pensijų fondo likvidavimo pagal šio įstatymo [[#^s-6f95a0146bc117b9e04446ac|18 straipsnį]] dienos, nauji sandoriai dėl tikslinės grupės pensijų fondo turto investavimo į [[latest/TAR.DDA1BD559D9B#^s-8fc870961b96239eafa7c75b|Papildomo savanoriško pensijų kaupimo įstatymo 45 straipsnio 1 dalies]] 9–11 punktuose nustatytus investavimo objektus negali būti sudaromi. ^s-75e4bd35e9b0b5ff02f44935
+5. Likus mažiau kaip 10 metų iki planuojamo tikslinės grupės pensijų fondo likvidavimo pagal šio įstatymo [[#^s-6f95a0146bc117b9e04446ac|18 straipsnį]] dienos, nauji sandoriai dėl tikslinės grupės pensijų fondo turto investavimo į [[latest/TAR.DDA1BD559D9B#^s-8fc870961b96239eafa7c75b|Papildomo savanoriško pensijų kaupimo įstatymo 45 straipsnio 1 dalies]] [[latest/TAR.DDA1BD559D9B#^s-2d97db367b8b10fb4170b511|9]]–[[latest/TAR.DDA1BD559D9B#^s-4ba07d6607fdc1d7fe86887c|11]] punktuose nustatytus investavimo objektus negali būti sudaromi. ^s-75e4bd35e9b0b5ff02f44935
 
 
 6. Pensijų fondo turtą investuojant pagal [[latest/TAR.DDA1BD559D9B#^s-7a9f498ebf84b18ec8941255|Papildomo savanoriško pensijų kaupimo įstatyme nustatytus reikalavimus ir tvarką, pensijų kaupimo bendrovėms taikomos Papildomo savanoriško pensijų kaupimo įstatymo 71 straipsnyje]] nustatytos profesinės civilinės atsakomybės rizikos valdymo priemonės. ^s-7997af19bad77b13f398e556
@@ -880,7 +880,7 @@ Nr. XV-590, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20659
 1. Draudimo įmonei teisę vykdyti pensijų kaupimo veiklą suteikia draudimo veiklos licencija, išduota gyvybės draudimo šakos pensijų kaupimo veiklos draudimo grupės veiklai. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms [[latest/TAR.8447F63760E9|Draudimo įstatymas]] taikomas tiek, kiek šis įstatymas nenustato kitaip. ^s-fa178fd706a8292542aa5ce0
 
 
-2. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms mutatis mutandis taikomi [[latest/TAR.DDA1BD559D9B#^s-e4b9942c23dee55c2b90016e|Papildomo savanoriško pensijų kaupimo įstatymo 6 straipsnis]] (išskyrus 1 dalies 11 punktą), [[#^s-2a4b1f8f3f1db792cfaeeac3|9 straipsnis]], [[#^s-226e36eb2a1585a3f121c711|12 straipsnis]] (išskyrus [[#^s-fa178fd706a8292542aa5ce0|1 dalies]] 2 ir 3 punktus), 13, [[#^s-2051b8af144772ba05f6dfa2|28 straipsniai]], [[#^s-3bd882b9c944885f4204c9f4|29 straipsnis]] (išskyrus 1–5 dalis), 33 ir [[#^s-7d65da12dccb2aa1997f1336|34 straipsniai]], ketvirtasis, penktasis ir šeštasis skirsniai (išskyrus 50 straipsnio 2 dalį, 55 straipsnio 1, 5, 6 ir 7 dalis). Šios nuostatos pensijų kaupimo veiklą vykdančioms draudimo įmonėms taikomos tiek, kiek šis įstatymas nenustato kitaip. ^s-4fe7fde3bfd287b044b2588e
+2. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms mutatis mutandis taikomi [[latest/TAR.DDA1BD559D9B#^s-51d9f1b33d0ad27437f6e689|Papildomo savanoriško pensijų kaupimo įstatymo 6 straipsnis (išskyrus 1 dalies 11 punktą), 9 straipsnis, 12 straipsnis]] (išskyrus [[#^s-fa178fd706a8292542aa5ce0|1 dalies]] [[latest/TAR.DDA1BD559D9B|2]] ir [[latest/TAR.DDA1BD559D9B|3]] punktus), [[#^s-85d85c6d8f0f3c0f1a253fd9|13]], [[#^s-2051b8af144772ba05f6dfa2|28]] straipsniai, [[#^s-3bd882b9c944885f4204c9f4|29 straipsnis]] (išskyrus [[#^s-004b3b31b7514bc46e83eb5e|1]]–[[#^s-29ca5dbf8161f7a240d0155f|5]] dalis), [[#^s-8d5ce0621f8569230606934b|33]] ir [[#^s-7d65da12dccb2aa1997f1336|34]] straipsniai, ketvirtasis, penktasis ir šeštasis skirsniai (išskyrus 50 straipsnio 2 dalį, 55 straipsnio 1, 5, 6 ir 7 dalis). Šios nuostatos pensijų kaupimo veiklą vykdančioms draudimo įmonėms taikomos tiek, kiek šis įstatymas nenustato kitaip. ^s-4fe7fde3bfd287b044b2588e
 Straipsnio dalies pakeitimai:
 Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
 
@@ -905,13 +905,13 @@ Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
 1) minimalų pradinį pensijų kaupimo bendrovės kapitalą; ^s-9a99541c0122184707324d0a
 
 
-2) 1/4 pensijų kaupimo bendrovės praėjusių metų pridėtinių išlaidų sumos. Pridėtinės išlaidos apskaičiuojamos 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/2033 dėl riziką ribojančių reikalavimų investicinėms įmonėms, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 575/2013, (ES) Nr. 600/2014 ir (ES) Nr. 806/2014, [[#^s-85d85c6d8f0f3c0f1a253fd9|13 straipsnyje]] nustatyta tvarka. ^s-c6c67d32df9f2295a1548a5e
+2) 1/4 pensijų kaupimo bendrovės praėjusių metų pridėtinių išlaidų sumos. Pridėtinės išlaidos apskaičiuojamos 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) dėl riziką ribojančių reikalavimų investicinėms įmonėms, kuriuo iš dalies keičiami [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), (ES) Nr. 575/2013, (ES) Nr. 600/2014 ir (ES) Nr. 806/2014, [[#^s-85d85c6d8f0f3c0f1a253fd9|13]] straipsnyje nustatyta tvarka. ^s-c6c67d32df9f2295a1548a5e
 
 
-4. Skaičiuojant pensijų kaupimo bendrovės nuosavų lėšų dydį pagal [[#^s-c6c67d32df9f2295a1548a5e|šio straipsnio 3 dalies 2 punktą]], nuosavas lėšas sudarantis 2 lygio kapitalas negali būti didesnis kaip 1/3 1 lygio kapitalo. 1 lygio kapitalas ir 2 lygio kapitalas suprantami taip, kaip apibrėžiami atitinkamai Reglamento (ES) Nr. 575/2013 25 ir 71 straipsniuose. ^s-f7c3abaae971b26381591800
+4. Skaičiuojant pensijų kaupimo bendrovės nuosavų lėšų dydį pagal [[#^s-c6c67d32df9f2295a1548a5e|šio straipsnio 3 dalies 2 punktą]], nuosavas lėšas sudarantis 2 lygio kapitalas negali būti didesnis kaip 1/3 1 lygio kapitalo. 1 lygio kapitalas ir 2 lygio kapitalas suprantami taip, kaip apibrėžiami atitinkamai Reglamento (ES) Nr. 575/2013 [[#^s-b3d270ebed2c52f30e9fa90e|25]] ir 71 straipsniuose. ^s-f7c3abaae971b26381591800
 
 
-5. Jeigu pensijų kaupimo bendrovės valdomų visų pensijų fondų bendra turto vertė viršija 250 milijonų eurų, pensijų kaupimo bendrovės privalo turėti papildomą nuosavų lėšų sumą, kaip tai nurodyta [[latest/TAR.ED28779BEADF#^s-20ae90e8aacc0480cc1c8551|Kolektyvinio investavimo subjektų įstatymo 5 straipsnio]] 6–8 dalyse. ^s-bf365a4f375997a33ab2c5ce
+5. Jeigu pensijų kaupimo bendrovės valdomų visų pensijų fondų bendra turto vertė viršija 250 milijonų eurų, pensijų kaupimo bendrovės privalo turėti papildomą nuosavų lėšų sumą, kaip tai nurodyta [[latest/TAR.ED28779BEADF#^s-20ae90e8aacc0480cc1c8551|Kolektyvinio investavimo subjektų įstatymo 5 straipsnio]] [[latest/TAR.ED28779BEADF#^s-32fefbfa8270461c7f03ff28|6]]–[[latest/TAR.ED28779BEADF#^s-3ed83fede9e35695c8021737|8]] dalyse. ^s-bf365a4f375997a33ab2c5ce
 
 
 6. Jeigu pensijų kaupimo bendrovė turi teisę valdyti papildomo savanoriško pensijų kaupimo fondus, šis straipsnis jai netaikomas. Tokiai pensijų kaupimo bendrovei mutatis mutandis taikomos [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatymo]] nuostatos dėl pradinio kapitalo ir nuosavų lėšų. ^s-7254ee0cdc5a6e5122479aa3
@@ -1154,7 +1154,7 @@ Nr. XV-571, 2025-11-20, paskelbta TAR 2025-11-28, i. k. 2025-20158
 1. Šiame straipsnyje nustatyta tvarka dalyvis ir pensijų kaupimo bendrovė sudaro pensijų išmokos sutartį dėl šio įstatymo [[#^s-004b3b31b7514bc46e83eb5e|29 straipsnio 1 dalyje]] nurodytų pensijų išmokų mokėjimo. ^s-f92e9d7b7d092ac5c4e0d9dc
 
 
-2. Dalyvis, įgijęs teisę gauti pensijų išmoką, pensijų kaupimo bendrovei pateikia rašytinį prašymą dėl pensijų išmokos sutarties sudarymo. Pensijų kaupimo bendrovė dalyviui informaciją apie jo vardu sukauptą pensijų turtą ir mokėtinos pensijų išmokos rūšį pateikia remdamasi paskutine paskelbta pensijų fondo vieneto verte. Dalyviui mokėtina pensijų išmokų rūšis nustatoma vadovaujantis šio įstatymo [[#^s-3bd882b9c944885f4204c9f4|29 straipsnio]] 4–[[#^s-576ddfcdd7fb5391e20dbc7b|9 dalimis]]. Dalyviui pasirinkus mokėtinos pensijų išmokos rūšį (įsigyjančiam pensijų anuitetą – pensijų anuiteto rūšį) ir nurodžius ją prašyme dėl pensijų išmokos sutarties sudarymo, dalyviui mokėtinos pensijų išmokos rūšis nebegali būti keičiama, išskyrus atvejį, kai dalyvis vienašališkai atsisako pensijų išmokos sutarties. ^s-00afe27847bac8f2ba145a14
+2. Dalyvis, įgijęs teisę gauti pensijų išmoką, pensijų kaupimo bendrovei pateikia rašytinį prašymą dėl pensijų išmokos sutarties sudarymo. Pensijų kaupimo bendrovė dalyviui informaciją apie jo vardu sukauptą pensijų turtą ir mokėtinos pensijų išmokos rūšį pateikia remdamasi paskutine paskelbta pensijų fondo vieneto verte. Dalyviui mokėtina pensijų išmokų rūšis nustatoma vadovaujantis šio įstatymo [[#^s-3bd882b9c944885f4204c9f4|29 straipsnio]] [[#^s-32e0bb369b6cef3b462999e5|4]]–[[#^s-b12f577d684de0c79ee53b3e|9]] dalimis. Dalyviui pasirinkus mokėtinos pensijų išmokos rūšį (įsigyjančiam pensijų anuitetą – pensijų anuiteto rūšį) ir nurodžius ją prašyme dėl pensijų išmokos sutarties sudarymo, dalyviui mokėtinos pensijų išmokos rūšis nebegali būti keičiama, išskyrus atvejį, kai dalyvis vienašališkai atsisako pensijų išmokos sutarties. ^s-00afe27847bac8f2ba145a14
 Straipsnio dalies pakeitimai:
 Nr. XV-348, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11763
 
@@ -1245,7 +1245,7 @@ Nr. XIII-2850, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08964
 3. Periodinių pensijų išmokų suma, neišmokėta dėl gavėjo mirties, yra paveldima Civilinio kodekso nustatyta tvarka. ^s-ed5577a907615c641586c7cd
 
 
-4. Sudarius periodinės pensijų išmokos sutartį, dalyviui priklausantis pensijų turtas lieka jo asmeninėje pensijos sąskaitoje. Dalyvis, gaunantis periodines išmokas, turi teisę pereiti į tos pačios arba kitos pensijų kaupimo bendrovės valdomą kitą pensijų fondą – tokiais atvejais šio įstatymo 9 ir [[#^s-db0e4ce334f456a09bf34186|10 straipsnių]] nuostatos taikomos mutatis mutandis. ^s-74e6089e434ca1a48026091f
+4. Sudarius periodinės pensijų išmokos sutartį, dalyviui priklausantis pensijų turtas lieka jo asmeninėje pensijos sąskaitoje. Dalyvis, gaunantis periodines išmokas, turi teisę pereiti į tos pačios arba kitos pensijų kaupimo bendrovės valdomą kitą pensijų fondą – tokiais atvejais šio įstatymo [[#^s-2a4b1f8f3f1db792cfaeeac3|9]] ir [[#^s-db0e4ce334f456a09bf34186|10]] straipsnių nuostatos taikomos mutatis mutandis. ^s-74e6089e434ca1a48026091f
 TAR pastaba. [[#^s-93695af3edae628ef332c6e0|32 straipsnis]] įsigalioja 2020 m. liepos 1 d.
 
 
@@ -1422,7 +1422,7 @@ Nr. XV-348, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11763
 2. Veikdama pagal [[#^s-26d82a3a718a0c3d28384a7d|šio straipsnio 1 dalyje]] nurodytą paskirtį, Pensijų anuitetų taryba: ^s-a4bf28598ceea757edb67ee3
 
 
-1) Socialinės apsaugos ir darbo ministerijai teikia pasiūlymus dėl pensijų kaupimą reguliuojančių teisės aktų tobulinimo, o pensijų anuitetų mokėtojui – pasiūlymus, rekomendacijas dėl pensijų anuitetų mokėtojo veiklos, Pensijų anuitetų fondo turto ir rizikos valdymo, taip pat svarsto pensijų anuitetų mokėtojo sprendimų (dokumentų), numatytų šio įstatymo [[#^s-2a79ca151da2c7a3254bab60|351 straipsnio 2 dalies]] 2–16 punktuose ir [[#^s-0f324fe725ba4ee86c52dc1c|4 dalyje]], projektus ir teikia dėl jų išvadas ir rekomendacijas pensijų anuitetų mokėtojui; ^s-b0bb9836ea39113b8e10210f
+1) Socialinės apsaugos ir darbo ministerijai teikia pasiūlymus dėl pensijų kaupimą reguliuojančių teisės aktų tobulinimo, o pensijų anuitetų mokėtojui – pasiūlymus, rekomendacijas dėl pensijų anuitetų mokėtojo veiklos, Pensijų anuitetų fondo turto ir rizikos valdymo, taip pat svarsto pensijų anuitetų mokėtojo sprendimų (dokumentų), numatytų šio įstatymo [[#^s-2a79ca151da2c7a3254bab60|351 straipsnio 2 dalies]] [[#^s-ab5962de8052be06f4b755a8|2]]–[[#^s-80837661f53e5f160762d2b4|16]] punktuose ir [[#^s-0f324fe725ba4ee86c52dc1c|4 dalyje]], projektus ir teikia dėl jų išvadas ir rekomendacijas pensijų anuitetų mokėtojui; ^s-b0bb9836ea39113b8e10210f
 Straipsnio punkto pakeitimai:
 Nr. XV-348, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11763
 
@@ -1490,7 +1490,7 @@ TAR pastaba. [[#^s-859f6a96c2e89137590d0e07|352 straipsnis]] įsigalioja 2020 m.
 ### 353 straipsnis. Asmens, pretenduojančio tapti Pensijų anuitetų tarybos nariu, reputacijos, kvalifikacijos ir patirties vertinimas ^s-fa575fb7b4a8b6e6b1bd9792
 
 
-1. Priežiūros institucija asmens, pretenduojančio tapti Pensijų anuitetų tarybos nariu, reputaciją, kvalifikaciją ir patirtį vertina savo nustatyta tvarka, atsižvelgdama į šio straipsnio 2, 3 ir [[#^s-b085698db60056c5f8888d67|4 dalyse]] nurodytus kriterijus. ^s-3b35e4bbb5b069acf4a6996e
+1. Priežiūros institucija asmens, pretenduojančio tapti Pensijų anuitetų tarybos nariu, reputaciją, kvalifikaciją ir patirtį vertina savo nustatyta tvarka, atsižvelgdama į šio straipsnio [[#^s-23ef3a24272a64191151bedb|2]], [[#^s-08bb25b1bf1806c58b519e47|3]] ir [[#^s-b085698db60056c5f8888d67|4]] dalyse nurodytus kriterijus. ^s-3b35e4bbb5b069acf4a6996e
 
 
 2. Asmens, pretenduojančio tapti Pensijų anuitetų tarybos nariu, reputacija vertinama atsižvelgiant į: ^s-23ef3a24272a64191151bedb
@@ -1517,7 +1517,7 @@ TAR pastaba. [[#^s-859f6a96c2e89137590d0e07|352 straipsnis]] įsigalioja 2020 m.
 7) tai, kaip asmuo vykdė ir vykdo pinigines ar kitas prievoles, įskaitant duomenis apie jo atžvilgiu vykdomus arba vykdytus restruktūrizavimo, bankroto procesus, pareikštus ieškinius civilinėse bylose; ^s-d42c5b0d02110578df2a6ce1
 
 
-8) šios dalies 1–[[#^s-d42c5b0d02110578df2a6ce1|7 punktuose]] nurodytus duomenis apie juridinį asmenį, kurio vadovu asmuo buvo ar yra arba kurio kvalifikuotąją įstatinio kapitalo ir (arba) įstatinio kapitalo dalį jis tiesiogiai ar netiesiogiai valdo arba valdė. ^s-5be1b76490612c0fc30c605c
+8) šios dalies [[#^s-c91b5f90f97bfb8f7c2331c7|1]]–[[#^s-d42c5b0d02110578df2a6ce1|7]] punktuose nurodytus duomenis apie juridinį asmenį, kurio vadovu asmuo buvo ar yra arba kurio kvalifikuotąją įstatinio kapitalo ir (arba) įstatinio kapitalo dalį jis tiesiogiai ar netiesiogiai valdo arba valdė. ^s-5be1b76490612c0fc30c605c
 
 
 3. Asmens, pretenduojančio tapti Pensijų anuitetų tarybos nariu, kvalifikacija ir patirtis vertinamos atsižvelgiant į jo išsilavinimą, kvalifikacijos tobulinimą, profesinės veiklos ar darbo pobūdį, trukmę, kitus veiksnius, kurie gali turėti įtakos jo kvalifikacijai ir patirčiai. ^s-08bb25b1bf1806c58b519e47
@@ -1581,7 +1581,7 @@ TAR pastaba. [[#^s-a2a3a40f7c67226836c46eca|354 straipsnis]] įsigalioja 2020 m.
 4) būtų pažeisti pensijų anuitetų gavėjų interesai. ^s-f1cc6934952f3f6b47c7ca0e
 
 
-2. Sudarydamas sutartis dėl funkcijų, susijusių su pensijų anuitetų mokėjimo veikla, perdavimo, pensijų anuitetų mokėtojas turi būtų įvertinęs potencialaus paslaugų teikėjo finansines galimybes vykdyti perduodamas funkcijas, jo veiklos tęstinumo galimybes ir tai, ar jis, jo darbuotojai, kurie vykdys perduodamas funkcijas, yra nepriekaištingos reputacijos ir ar turi kvalifikaciją, reikalingą pensijų anuitetų mokėtojo pavestoms funkcijoms vykdyti. Vertinant šių asmenų reputaciją, vadovaujamasi šio įstatymo [[#^s-fa575fb7b4a8b6e6b1bd9792|353 straipsnio]] 2, 3 ir [[#^s-bbcfc48d9a1faec08bc208c8|4 dalių]] nuostatomis. Asmenų, kurie vykdys funkcijas, susijusias su pensijų anuitetų mokėjimo veikla, kvalifikacijos reikalavimus nustato pensijų anuitetų mokėtojas. ^s-6abf148ccdde40f2ce5e5834
+2. Sudarydamas sutartis dėl funkcijų, susijusių su pensijų anuitetų mokėjimo veikla, perdavimo, pensijų anuitetų mokėtojas turi būtų įvertinęs potencialaus paslaugų teikėjo finansines galimybes vykdyti perduodamas funkcijas, jo veiklos tęstinumo galimybes ir tai, ar jis, jo darbuotojai, kurie vykdys perduodamas funkcijas, yra nepriekaištingos reputacijos ir ar turi kvalifikaciją, reikalingą pensijų anuitetų mokėtojo pavestoms funkcijoms vykdyti. Vertinant šių asmenų reputaciją, vadovaujamasi šio įstatymo [[#^s-fa575fb7b4a8b6e6b1bd9792|353 straipsnio]] [[#^s-23ef3a24272a64191151bedb|2]], [[#^s-08bb25b1bf1806c58b519e47|3]] ir [[#^s-b085698db60056c5f8888d67|4]] dalių nuostatomis. Asmenų, kurie vykdys funkcijas, susijusias su pensijų anuitetų mokėjimo veikla, kvalifikacijos reikalavimus nustato pensijų anuitetų mokėtojas. ^s-6abf148ccdde40f2ce5e5834
 
 
 3. Sutartyje dėl funkcijų, susijusių su pensijų anuitetų mokėjimo veikla, perdavimo, be konkrečių funkcijų vykdymo, turi būti numatytos visos šioje dalyje nurodytos sąlygos: ^s-d52f99bc0bcd8588811b16c1
@@ -1663,7 +1663,7 @@ Nr. XV-348, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11763
 2. Techniniai atidėjiniai privalo būti skaičiuojami vadovaujantis priežiūros institucijos nustatytais reikalavimais, laikantis apdairumo, patikimumo ir objektyvumo principų, vertinant informaciją ir duomenis apie prisiimamą riziką pagal priimtus sprendimus dėl pensijų anuitetų mokėjimo. ^s-5bf6e0b67b80f936674ecbfc
 
 
-3. Už techninių atidėjinių skaičiavimą atsakingas Pensijų anuitetų mokėtojo vyriausiasis aktuaras. Vyriausiuoju aktuaru gali būti skiriamas tik nepriekaištingos reputacijos asmuo, turintis aukštąjį universitetinį ar jam prilygintą matematikos ar aktuarinių mokslų studijų krypties išsilavinimą, žinių ir patirties finansų ir aktuarinės analizės srityse. Vertinant vyriausiojo aktuaro reputaciją, kvalifikaciją ir patirtį vadovaujamasi šio įstatymo [[#^s-fa575fb7b4a8b6e6b1bd9792|353 straipsnio]] 2, 3 ir [[#^s-6fd57cc78ca23e218480dd86|4 dalių]] nuostatomis. ^s-0faa5cb6bc65f317ed3541d0
+3. Už techninių atidėjinių skaičiavimą atsakingas Pensijų anuitetų mokėtojo vyriausiasis aktuaras. Vyriausiuoju aktuaru gali būti skiriamas tik nepriekaištingos reputacijos asmuo, turintis aukštąjį universitetinį ar jam prilygintą matematikos ar aktuarinių mokslų studijų krypties išsilavinimą, žinių ir patirties finansų ir aktuarinės analizės srityse. Vertinant vyriausiojo aktuaro reputaciją, kvalifikaciją ir patirtį vadovaujamasi šio įstatymo [[#^s-fa575fb7b4a8b6e6b1bd9792|353 straipsnio]] [[#^s-23ef3a24272a64191151bedb|2]], [[#^s-08bb25b1bf1806c58b519e47|3]] ir [[#^s-b085698db60056c5f8888d67|4]] dalių nuostatomis. ^s-0faa5cb6bc65f317ed3541d0
 
 
 4. Vyriausiasis aktuaras privalo: ^s-6fd57cc78ca23e218480dd86
@@ -1812,7 +1812,7 @@ VALSTYBINĖ PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
 ### 36 straipsnis. Išieškojimas iš pensijų išmokų ^s-d50b6737d06d1bf99288d34e
 
 
-Išieškojimas iš periodinių pensijų išmokų ir pensijų anuiteto vykdomas Lietuvos Respublikos civilinio proceso kodekso nuostatų, reglamentuojančių išieškojimą iš skolininko pensijos, nustatyta tvarka. Išieškojimas iš vienkartinės pensijų išmokos, taip pat iš pagal šio įstatymo [[#^s-d0719438f99ff0be7cd88b0b|5 straipsnio 1 dalies 6 punktą]] išmokėtos turto dalies ar pagal šio įstatymo [[#^s-e29cdf42193a55b5ab560d78|5 straipsnio 1 dalies 7 punktą]] išmokėto turto priešpensinio amžiaus asmeniui vykdomas Civilinio proceso kodekso nuostatų, reglamentuojančių išieškojimą iš skolininko piniginių lėšų, nustatyta tvarka.
+Išieškojimas iš periodinių pensijų išmokų ir pensijų anuiteto vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nuostatų, reglamentuojančių išieškojimą iš skolininko pensijos, nustatyta tvarka. Išieškojimas iš vienkartinės pensijų išmokos, taip pat iš pagal šio įstatymo [[#^s-d0719438f99ff0be7cd88b0b|5 straipsnio 1 dalies 6 punktą]] išmokėtos turto dalies ar pagal šio įstatymo [[#^s-e29cdf42193a55b5ab560d78|5 straipsnio 1 dalies 7 punktą]] išmokėto turto priešpensinio amžiaus asmeniui vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nuostatų, reglamentuojančių išieškojimą iš skolininko piniginių lėšų, nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
@@ -1948,7 +1948,7 @@ Nr. XIII-2850, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08964
 ### 40 straipsnis. Keitimasis informacija ir asmens duomenų apsauga ^s-5f19a808a95479323b734252
 
 
-1. Pensijų kaupimo bendrovės ir pensijų anuiteto mokėtojas, priimdami šio įstatymo [[#^s-5a5aaea9a89621f222b7bab1|9 straipsnio 2 dalyje]], [[#^s-d77f0267d6f045b7e1d35333|10 straipsnio 2 dalyje]], [[#^s-1c6ddce56583840a15ea1230|13 straipsnio 1 dalyje]], [[#^s-b307cf08ceee33a3b79c112c|291 straipsnio]] 1, 4 ir [[#^s-0d60c74371cb9093c82ec6ad|5 dalyse]], [[#^s-00afe27847bac8f2ba145a14|30 straipsnio 2 dalyje]], [[#^s-388264eb1ff71e73050ed0eb|33 straipsnio 1 dalyje]] nurodytus prašymus, turi teisę prašyti dalyvių pateikti tik asmens duomenis, būtinus asmeniui identifikuoti, (asmens vardą, pavardę ir asmens kodą, o jeigu asmens kodas nesuteiktas, – asmens socialinio draudimo numerį), taip pat pensijų kaupimo bendrovės, priimdamos šio įstatymo [[#^s-93d45c5140ae9331550d17fd|291 straipsnio 1 dalyje]] nurodytus dalyvių prašymus, turi teisę prašyti dalyvių kartu pateikti ir duomenis apie savo sveikatos būklę, nurodytus šio įstatymo [[#^s-d056ca1401831884aeb9cdfb|4 straipsnio 8 dalies 5 punkte]]. ^s-788d7d6c480eb39aa82103db
+1. Pensijų kaupimo bendrovės ir pensijų anuiteto mokėtojas, priimdami šio įstatymo [[#^s-5a5aaea9a89621f222b7bab1|9 straipsnio 2 dalyje]], [[#^s-d77f0267d6f045b7e1d35333|10 straipsnio 2 dalyje]], [[#^s-1c6ddce56583840a15ea1230|13 straipsnio 1 dalyje]], [[#^s-b307cf08ceee33a3b79c112c|291 straipsnio]] [[#^s-93d45c5140ae9331550d17fd|1]], [[#^s-e76fb20bceb95d60668cac9c|4]] ir [[#^s-42e188c414c3a304cb5e3b57|5]] dalyse, [[#^s-00afe27847bac8f2ba145a14|30 straipsnio 2 dalyje]], [[#^s-388264eb1ff71e73050ed0eb|33 straipsnio 1 dalyje]] nurodytus prašymus, turi teisę prašyti dalyvių pateikti tik asmens duomenis, būtinus asmeniui identifikuoti, (asmens vardą, pavardę ir asmens kodą, o jeigu asmens kodas nesuteiktas, – asmens socialinio draudimo numerį), taip pat pensijų kaupimo bendrovės, priimdamos šio įstatymo [[#^s-93d45c5140ae9331550d17fd|291 straipsnio 1 dalyje]] nurodytus dalyvių prašymus, turi teisę prašyti dalyvių kartu pateikti ir duomenis apie savo sveikatos būklę, nurodytus šio įstatymo [[#^s-d056ca1401831884aeb9cdfb|4 straipsnio 8 dalies 5 punkte]]. ^s-788d7d6c480eb39aa82103db
 
 
 2. VSDF valdyba ir pensijų kaupimo bendrovės asmens duomenis tvarko pensijų kaupimo ir pensijų išmokų bei išmokų iš dalyvio vardu pensijų fonde sukaupto pensijų turto mokėjimo organizavimo tikslais. ^s-0b7249e4340ca8e07b95f1b8
@@ -1963,7 +1963,7 @@ Nr. XIII-2850, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08964
 2) Asmens su negalia teisių apsaugos agentūra prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos (šio įstatymo [[#^s-d056ca1401831884aeb9cdfb|4 straipsnio 8 dalies 5 punkto]] c papunktis). ^s-70a25584827eda6b12e72f55
 
 
-4. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], šiuo įstatymu ir kitais teisės aktais, reglamentuojančiais asmens duomenų apsaugą ir tvarkymą. ^s-6a6baf934a80cf0eff960dfb
+4. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], šiuo įstatymu ir kitais teisės aktais, reglamentuojančiais asmens duomenų apsaugą ir tvarkymą. ^s-6a6baf934a80cf0eff960dfb
 
 
 5. Įgyvendinant šį įstatymą, tvarkant specialių kategorijų asmens duomenis nustatomos šios duomenų subjekto pagrindinių teisių ir interesų apsaugos priemonės: ^s-0d60c74371cb9093c82ec6ad
@@ -1978,7 +1978,7 @@ Nr. XIII-2850, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08964
 6. Dokumentai saugomi [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymo]] nustatyta tvarka. ^s-921e30608f698d6b1b2f4b5e
 
 
-7. Duomenų subjekto teisės įgyvendinamos duomenų valdytojo, į kurį kreipiamasi dėl duomenų subjekto teisių įgyvendinimo, nustatyta tvarka, vadovaujantis Reglamentu (ES) 2016/679. ^s-ed005d45c7f5975460eb7280
+7. Duomenų subjekto teisės įgyvendinamos duomenų valdytojo, į kurį kreipiamasi dėl duomenų subjekto teisių įgyvendinimo, nustatyta tvarka, vadovaujantis [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj). ^s-ed005d45c7f5975460eb7280
 
 
 Straipsnio pakeitimai:
@@ -2036,10 +2036,10 @@ Nr. X-374, 2005-10-18, Žin., 2005, Nr. 127-4535 (2005-10-27)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-972, 2006-12-12, Žin., 2006, Nr. 144-5462 (2006-12-30)
 [[latest/TAR.2FCC252BAF81|PENSIJŲ KAUPIMO ĮSTATYMO 3, 4, 6, 7, 8, 10, 12, 13, 15, 17, 19, 20, 24, 28 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 13(1) IR 18(1) STRAIPSNIAIS ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-dbf4ca7c93cce9c7b48cf158|3 straipsnio 1 dalį]], 5, 7, 8, 11, 12, 13, 14, 15 ir [[#^s-6f95a0146bc117b9e04446ac|18 straipsnius]], įsigalioja nuo 2007 m. liepos 1 d.
+Šis įstatymas, išskyrus [[#^s-dbf4ca7c93cce9c7b48cf158|3 straipsnio 1 dalį]], [[#^s-4562e35f32d75502c4570357|5]], [[#^s-2da633957eac517b17c65b1a|7]], [[#^s-c45bc44c13233375313be4e4|8]], [[#^s-35b47f496117f061a571a5b6|11]], [[#^s-226e36eb2a1585a3f121c711|12]], [[#^s-85d85c6d8f0f3c0f1a253fd9|13]], [[#^s-a02abc249004f0e4bbc5560d|14]], [[#^s-9f24260230df10c6691904ce|15]] ir [[#^s-6f95a0146bc117b9e04446ac|18]] straipsnius, įsigalioja nuo 2007 m. liepos 1 d.
 Vyriausybė ar jos įgaliota institucija iki 2007 m. liepos 1 d. parengia ir patvirtina pensijų kaupimo sutarčių registro nuostatus.
 Pensijų kaupimo bendrovės iki 2007 m. liepos 1 d. privalo parengti ir priežiūros institucijai pateikti taisykles, nustatančias pensijų kaupimo bendrovės valdomų pensijų fondų lyginamųjų indeksų pasirinkimo ir keitimo kriterijus bei tvarką.
-Pensijų kaupimo bendrovės iki 2007 m. liepos 1 d. privalo suderinti jų valdomų pensijų fondų taisykles su šio įstatymo nuostatomis ir pateikti jas tvirtinti priežiūros institucijai. Šiuo atveju pensijų fondų taisyklių pakeitimai įsigalioja praėjus 30 dienų nuo jų patvirtinimo priežiūros institucijoje, bet ne anksčiau, negu įsigalioja šio įstatymo [[#^s-2a4b1f8f3f1db792cfaeeac3|9 straipsnis]]. Šiems pensijų fondų taisyklių pakeitimams pensijų fondų dalyvių sutikimas nebūtinas. Pensijų kaupimo bendrovės turi teisę pranešti dalyviams apie pensijų fondų taisyklių pakeitimus pateikdamos artimiausią Papildomo savanoriško pensijų kaupimo įstatymo 51 straipsnio 1 dalyje numatytą pranešimą. Šiuo atveju Papildomo savanoriško pensijų kaupimo įstatymo 23 straipsnio 6 dalies pirmo sakinio nuostatos netaikomos.
+Pensijų kaupimo bendrovės iki 2007 m. liepos 1 d. privalo suderinti jų valdomų pensijų fondų taisykles su šio įstatymo nuostatomis ir pateikti jas tvirtinti priežiūros institucijai. Šiuo atveju pensijų fondų taisyklių pakeitimai įsigalioja praėjus 30 dienų nuo jų patvirtinimo priežiūros institucijoje, bet ne anksčiau, negu įsigalioja šio įstatymo [[#^s-2a4b1f8f3f1db792cfaeeac3|9 straipsnis]]. Šiems pensijų fondų taisyklių pakeitimams pensijų fondų dalyvių sutikimas nebūtinas. Pensijų kaupimo bendrovės turi teisę pranešti dalyviams apie pensijų fondų taisyklių pakeitimus pateikdamos artimiausią [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatymo 51 straipsnio 1 dalyje]] numatytą pranešimą. Šiuo atveju [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatymo 23 straipsnio 6 dalies]] pirmo sakinio nuostatos netaikomos.
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2080,7 +2080,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2410, 2012-11-13, Žin., 2012, Nr. 136-6964 (2012-11-24)
 PENSIJŲ KAUPIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
-Šio įstatymo [[#^s-3c60a6d814421185a8c03d0d|1 straipsnyje]] nauja redakcija išdėstyto [[#^s-db0e4ce334f456a09bf34186|Lietuvos Respublikos pensijų kaupimo įstatymo 10 straipsnio]] 7 ir 8 dalys įsigalioja 2013 m. sausio 1 d.
+Šio įstatymo [[#^s-3c60a6d814421185a8c03d0d|1 straipsnyje]] nauja redakcija išdėstyto [[#^s-db0e4ce334f456a09bf34186|Lietuvos Respublikos pensijų kaupimo įstatymo 10 straipsnio]] [[#^s-9e2019414d32e1362b488f7b|7]] ir [[#^s-2a4ff5c76876a8971c433092|8]] dalys įsigalioja 2013 m. sausio 1 d.
 Šio įstatymo nuostatos taikomos visoms galiojančioms pensijų kaupimo sutartims, taip pat ir sudarytoms iki šio įstatymo įsigaliojimo.
 Pensijų kaupimo bendrovės per 3 mėnesius nuo šio įstatymo įsigaliojimo privalo suderinti jų valdomų pensijų fondų taisykles su šio įstatymo nuostatomis ir pateikti jas tvirtinti priežiūros institucijai. Šiems pensijų fondų taisyklių pakeitimams pensijų fondų dalyvių sutikimas nebūtinas. Pensijų kaupimo bendrovės privalo pranešti dalyviams apie pensijų fondų taisyklių pakeitimus [[latest/TAR.DDA1BD559D9B#^s-bad69c7f6980da26dc2ee311|Papildomo savanoriško pensijų kaupimo įstatymo 21 straipsnio 6 dalyje]] nustatyta tvarka arba pateikdamos artimiausią [[latest/TAR.DDA1BD559D9B#^s-0031860e74bc8c569cb6ab17|Papildomo savanoriško pensijų kaupimo įstatymo 52 straipsnio 1 dalyje]] numatytą pranešimą.
 
@@ -2101,12 +2101,12 @@ Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 [[#^s-2f1683ab7df246
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2505, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20642
-Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 3, 4, 10, 17, 23, 25 ir [[#^s-67a20eb277ccf158b90bfbc0|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 [[#^s-e81c4f7e31e0c09bbab460dc|3]], [[#^s-f9f49e3fcd8e149a05ed8879|4]], [[#^s-db0e4ce334f456a09bf34186|10]], [[#^s-bca7a9fd00c3097ddc3a4f0d|17]], [[#^s-e4c97852a6cb4287adf23560|23]], [[#^s-b3d270ebed2c52f30e9fa90e|25]] ir [[#^s-67a20eb277ccf158b90bfbc0|27]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1238, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09847
-Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 2, 3, 21 ir [[#^s-0c2bad9ab536f2b2b913399d|30 straipsnių]] pakeitimo ir [[#^s-e56299f0fd4c90f9957670ec|31 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 [[#^s-90ff23dd26521c125ef272e7|2]], [[#^s-e81c4f7e31e0c09bbab460dc|3]], [[#^s-8e7d61231ed81ea373393e1b|21]] ir [[#^s-0c2bad9ab536f2b2b913399d|30]] straipsnių pakeitimo ir [[#^s-e56299f0fd4c90f9957670ec|31 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2116,17 +2116,17 @@ Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo įstatymas
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2750, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21421
-Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo [[latest/81ab9500801e11e8ae2bfd1913d66d57|įstatymo Nr. XIII-1360]] 2 ir [[#^s-e81c4f7e31e0c09bbab460dc|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo [[latest/81ab9500801e11e8ae2bfd1913d66d57|įstatymo Nr. XIII-1360]] [[#^s-90ff23dd26521c125ef272e7|2]] ir [[#^s-e81c4f7e31e0c09bbab460dc|3]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2850, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08964
-Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo [[latest/81ab9500801e11e8ae2bfd1913d66d57|įstatymo Nr. XIII-1360]] 1 ir [[#^s-90ff23dd26521c125ef272e7|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 pakeitimo [[latest/81ab9500801e11e8ae2bfd1913d66d57|įstatymo Nr. XIII-1360]] [[#^s-3c60a6d814421185a8c03d0d|1]] ir [[#^s-90ff23dd26521c125ef272e7|2]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2851, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08965
-Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 3, 4, 8, 10, 12, 18, 22, 23, 26, 28, 38 ir [[#^s-5f19a808a95479323b734252|40 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 [[#^s-e81c4f7e31e0c09bbab460dc|3]], [[#^s-f9f49e3fcd8e149a05ed8879|4]], [[#^s-c45bc44c13233375313be4e4|8]], [[#^s-db0e4ce334f456a09bf34186|10]], [[#^s-226e36eb2a1585a3f121c711|12]], [[#^s-6f95a0146bc117b9e04446ac|18]], [[#^s-5f7da9f7da38304beb4cf622|22]], [[#^s-e4c97852a6cb4287adf23560|23]], [[#^s-048276a6153462a012e6f0cc|26]], [[#^s-2051b8af144772ba05f6dfa2|28]], [[#^s-4361d2e255e2493a731fc237|38]] ir [[#^s-5f19a808a95479323b734252|40]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2141,7 +2141,7 @@ Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 [[#^s-a02abc249004f0
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-659, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24261
-Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 33 ir 35-6 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 [[#^s-8d5ce0621f8569230606934b|33]] ir 35-6 straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2151,29 +2151,29 @@ Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 [[#^s-3bd882b9c94488
 12.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT21-N3/2024, 2024-03-07, paskelbta TAR 2024-03-07, i. k. 2024-04342
-Dėl Lietuvos Respublikos pensijų kaupimo įstatymo (2018 m. birželio 28 d. redakcija) [[#^s-47e845bed41456944b6eb609|4 straipsnio 8 dalies]], [[#^s-4562e35f32d75502c4570357|5 straipsnio]], [[#^s-3bd882b9c944885f4204c9f4|29 straipsnio]] (su 2022 m. birželio 28 d. pakeitimu) atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos pensijų kaupimo įstatymo (2018 m. birželio 28 d. redakcija) 4 straipsnio 8 dalies, 5 straipsnio, 29 straipsnio (su 2022 m. birželio 28 d. pakeitimu) atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/7b87bca0dc7d11eead77e967e3995264)
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-348, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11763
-Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 1, 3, 4, 5, 6, 7, 8, 10, 12, 13, 15, 22, 24, 28, 29, 30, 33, 35-1, 35-2, 35-7, 35-8, 35-9, 35-10, 36, 37, [[#^s-5f19a808a95479323b734252|40 straipsnių]], V skyriaus pavadinimo pakeitimo, Įstatymo papildymo 29-1 straipsniu ir [[#^s-b86a50fba9a9e3000f80d8e4|6 straipsnio]] bei Įstatymo priedo pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 [[#^s-3c60a6d814421185a8c03d0d|1]], [[#^s-e81c4f7e31e0c09bbab460dc|3]], [[#^s-f9f49e3fcd8e149a05ed8879|4]], [[#^s-4562e35f32d75502c4570357|5]], [[#^s-b86a50fba9a9e3000f80d8e4|6]], [[#^s-2da633957eac517b17c65b1a|7]], [[#^s-c45bc44c13233375313be4e4|8]], [[#^s-db0e4ce334f456a09bf34186|10]], [[#^s-226e36eb2a1585a3f121c711|12]], [[#^s-85d85c6d8f0f3c0f1a253fd9|13]], [[#^s-9f24260230df10c6691904ce|15]], [[#^s-5f7da9f7da38304beb4cf622|22]], [[#^s-7f248e487e357b1e582e4e31|24]], [[#^s-2051b8af144772ba05f6dfa2|28]], [[#^s-3bd882b9c944885f4204c9f4|29]], [[#^s-0c2bad9ab536f2b2b913399d|30]], [[#^s-8d5ce0621f8569230606934b|33]], 35-1, 35-2, 35-7, 35-8, 35-9, 35-10, [[#^s-d50b6737d06d1bf99288d34e|36]], [[#^s-c39db313671ee38ac81f9e70|37]], [[#^s-5f19a808a95479323b734252|40]] straipsnių, V skyriaus pavadinimo pakeitimo, Įstatymo papildymo 29-1 straipsniu ir [[#^s-b86a50fba9a9e3000f80d8e4|6 straipsnio]] bei Įstatymo priedo pripažinimo netekusiais galios įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-487, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17645
-Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 20 ir [[#^s-8e7d61231ed81ea373393e1b|21 straipsnių]] pakeitimo ir Įstatymo papildymo 26-1 straipsniu įstatymas
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 [[#^s-71d30aab1c5b1f4e7965e12f|20]] ir [[#^s-8e7d61231ed81ea373393e1b|21]] straipsnių pakeitimo ir Įstatymo papildymo 26-1 straipsniu įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-522, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19757
-Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 10, 14, 15, 17 ir [[#^s-6f95a0146bc117b9e04446ac|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 [[#^s-db0e4ce334f456a09bf34186|10]], [[#^s-a02abc249004f0e4bbc5560d|14]], [[#^s-9f24260230df10c6691904ce|15]], [[#^s-bca7a9fd00c3097ddc3a4f0d|17]] ir [[#^s-6f95a0146bc117b9e04446ac|18]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-571, 2025-11-20, paskelbta TAR 2025-11-28, i. k. 2025-20158
-Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 1, 3, 4, 5, 6, 7, 8, 10, 12, 13, 15, 22, 24, 28, 29, 30, 33, 35-1, 35-2, 35-7, 35-8, 35-9, 35-10, 36, 37, [[#^s-5f19a808a95479323b734252|40 straipsnių]], V skyriaus pavadinimo pakeitimo, Įstatymo papildymo 29-1 straipsniu ir [[#^s-b86a50fba9a9e3000f80d8e4|6 straipsnio]] bei Įstatymo priedo pripažinimo netekusiais galios [[latest/cd8641f0535c11f0b070ee7f1ceefc75|įstatymo Nr. XV-348]] [[#^s-f8fb85b1889e66636c81158d|19 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 [[#^s-3c60a6d814421185a8c03d0d|1]], [[#^s-e81c4f7e31e0c09bbab460dc|3]], [[#^s-f9f49e3fcd8e149a05ed8879|4]], [[#^s-4562e35f32d75502c4570357|5]], [[#^s-b86a50fba9a9e3000f80d8e4|6]], [[#^s-2da633957eac517b17c65b1a|7]], [[#^s-c45bc44c13233375313be4e4|8]], [[#^s-db0e4ce334f456a09bf34186|10]], [[#^s-226e36eb2a1585a3f121c711|12]], [[#^s-85d85c6d8f0f3c0f1a253fd9|13]], [[#^s-9f24260230df10c6691904ce|15]], [[#^s-5f7da9f7da38304beb4cf622|22]], [[#^s-7f248e487e357b1e582e4e31|24]], [[#^s-2051b8af144772ba05f6dfa2|28]], [[#^s-3bd882b9c944885f4204c9f4|29]], [[#^s-0c2bad9ab536f2b2b913399d|30]], [[#^s-8d5ce0621f8569230606934b|33]], 35-1, 35-2, 35-7, 35-8, 35-9, 35-10, [[#^s-d50b6737d06d1bf99288d34e|36]], [[#^s-c39db313671ee38ac81f9e70|37]], [[#^s-5f19a808a95479323b734252|40]] straipsnių, V skyriaus pavadinimo pakeitimo, Įstatymo papildymo 29-1 straipsniu ir [[#^s-b86a50fba9a9e3000f80d8e4|6 straipsnio]] bei Įstatymo priedo pripažinimo netekusiais galios [[latest/cd8641f0535c11f0b070ee7f1ceefc75|įstatymo Nr. XV-348]] [[#^s-f8fb85b1889e66636c81158d|19 straipsnio]] pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-590, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20659
-Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 3, 4, 7, 10, 12, 13, 24, 29-1, 30, 33, [[#^s-4361d2e255e2493a731fc237|38 straipsnių]] pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas
+Lietuvos Respublikos pensijų kaupimo įstatymo Nr. IX-1691 [[#^s-e81c4f7e31e0c09bbab460dc|3]], [[#^s-f9f49e3fcd8e149a05ed8879|4]], [[#^s-2da633957eac517b17c65b1a|7]], [[#^s-db0e4ce334f456a09bf34186|10]], [[#^s-226e36eb2a1585a3f121c711|12]], [[#^s-85d85c6d8f0f3c0f1a253fd9|13]], [[#^s-7f248e487e357b1e582e4e31|24]], 29-1, [[#^s-0c2bad9ab536f2b2b913399d|30]], [[#^s-8d5ce0621f8569230606934b|33]], [[#^s-4361d2e255e2493a731fc237|38]] straipsnių pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas

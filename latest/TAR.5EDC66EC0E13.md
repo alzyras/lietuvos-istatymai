@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis.         Konvencijos 20 straipsnio 1 dalies pakeitimo ir Fakultatyvinio protokolo ratifikavimas ^s-c90f9f1f0315cefee4a5c60c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. gegužės 12 d. dekretą Nr. 53, ratifikuoja Jungtinių Tautų Konvencijos dėl visų formų diskriminacijos panaikinimo moterims 20 straipsnio 1 dalies pakeitimą, priimtą 1995 m. gruodžio 22 d. Niujorke, ir Jungtinių Tautų Konvencijos dėl visų formų diskriminacijos panaikinimo moterims Fakultatyvinį protokolą, priimtą 1999 m. spalio 6 d. Niujorke.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas [2004 m. gegužės 12 d. dekretą Nr. 53](https://e-tar.lt/portal/lt/legalAct/TAR.EAF0708AE887), ratifikuoja Jungtinių Tautų Konvencijos dėl visų formų diskriminacijos panaikinimo moterims 20 straipsnio 1 dalies pakeitimą, priimtą 1995 m. gruodžio 22 d. Niujorke, ir Jungtinių Tautų Konvencijos dėl visų formų diskriminacijos panaikinimo moterims Fakultatyvinį protokolą, priimtą 1999 m. spalio 6 d. Niujorke.
 
 
 

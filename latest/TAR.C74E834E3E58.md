@@ -48,7 +48,7 @@ Vilnius
 ### 2 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-26a25f871fd4e391943604e0
 
 
-1. Draudžiamosios pajamos – nurodytu laikotarpiu galiojusio Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių pareigūnų ir karių valstybinių pensijų įstatymo 11 straipsnio 2 dalyje išvardytos asmens pajamos, dėl kurių asmeniui buvo mokama ne visa paskirtoji pensija. ^s-5fb039d15297c9a12b042907
+1. Draudžiamosios pajamos – nurodytu laikotarpiu galiojusio Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių [[latest/TAR.EDDCB615126E|pareigūnų ir karių valstybinių pensijų įstatymo 11 straipsnio 2 dalyje]] išvardytos asmens pajamos, dėl kurių asmeniui buvo mokama ne visa paskirtoji pensija. ^s-5fb039d15297c9a12b042907
 
 
 2. Mokėtoji pensija – faktiškai mokėta pensija, kurios dydis pagal nurodytu laikotarpiu galiojusias Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnybos, valstybės saugumo, krašto apsaugos, prokuratūros, Kalėjimų departamento, jam pavaldžių įstaigų bei valstybės įmonių [[latest/TAR.EDDCB615126E|pareigūnų ir karių valstybinių pensijų įstatymo]] nuostatas buvo ribojamas dėl gautų draudžiamųjų pajamų. ^s-d2e676c813f35f9be563bbb9
@@ -125,7 +125,7 @@ Neišmokėtoji pensijos dalis apskaičiuojama nuo pensijos paskyrimo dienos iki 
 1. Pagal šį įstatymą išmokama neišmokėtoji pensijos dalis neturi įtakos būsto šildymo išlaidų, išlaidų šaltam vandeniui bei nuotekoms ir išlaidų karštam vandeniui kompensacijoms, išskyrus atvejus, kai neišmokėtoji pensijos dalis, priklausanti mirusiam asmeniui, išmokama šio įstatymo [[#^s-fbdeae1d4490703d5496b89c|3 straipsnio 2 dalyje]] nurodytiems asmenims. ^s-9c3aa2117bf6bd75950de1ec
 
 
-2. Neišmokėtąją pensijos dalį mokančių institucijų prašymu Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos pateikia joms informaciją, reikalingą siekiant taikyti nurodytu laikotarpiu galiojusią Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio 3 dalies nuostatą. ^s-4b7925700fbac970e81127d5
+2. Neišmokėtąją pensijos dalį mokančių institucijų prašymu Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos pateikia joms informaciją, reikalingą siekiant taikyti nurodytu laikotarpiu galiojusią [[latest/TAR.ED38F243563C|Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio 3 dalies]] nuostatą. ^s-4b7925700fbac970e81127d5
 
 
 

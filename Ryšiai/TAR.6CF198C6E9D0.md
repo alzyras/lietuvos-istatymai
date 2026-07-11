@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos žuvininkystės įstatymo pakeitimo įstatyma
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D22016A0EC70|Lietuvos Respublikos žuvininkystės įstatymas]] - 3 citatos - Lietuvos Respublikos žuvininkystės įstatymo
+- [[latest/TAR.D22016A0EC70|Lietuvos Respublikos žuvininkystės įstatymas]] - žuvininkystės įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D22016A0EC70#^s-bfe92e4d0faac5d635e2ff48|Lietuvos Respublikos žuvininkystės įstatymas]] - 2 citatos - 1041010ISTA0IX-2193
-- [[latest/TAR.D22016A0EC70#^s-e23cc5321568cc9587fdd33d|Lietuvos Respublikos žuvininkystės įstatymas]] - 2 citatos - 1041010ISTA0IX-2193
+- [[latest/TAR.D22016A0EC70#^s-e23cc5321568cc9587fdd33d|Lietuvos Respublikos žuvininkystės įstatymas]] - 1041010ISTA0IX-2193

@@ -210,7 +210,7 @@ BENDROSIOS NUOSTATOS
 4) ūkininko sutuoktinio prašymas įregistruoti jį partneriu šio Įstatymo [[#^s-dede08a2d22ff6ffe887c565|4 straipsnio 5 dalyje]] nurodytu atveju. ^s-2b2a31c87b8c7fd5e91081c4
 
 
-3. Su šio straipsnio 1 ir [[#^s-32cf138d894ef59db0e06057|2 dalyse]] nurodytų dokumentų kopijomis kartu turi būti pateikiami ir jų originalai arba notaro patvirtinti dokumentų nuorašai. ^s-c6fa97edbd5c460df851a88d
+3. Su šio straipsnio [[#^s-b737dc1ef204189f9cd4e411|1]] ir [[#^s-32cf138d894ef59db0e06057|2]] dalyse nurodytų dokumentų kopijomis kartu turi būti pateikiami ir jų originalai arba notaro patvirtinti dokumentų nuorašai. ^s-c6fa97edbd5c460df851a88d
 
 
 

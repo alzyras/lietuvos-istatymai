@@ -166,7 +166,7 @@ SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 2) praėjus šešiems mėnesiams nuo licencijos galiojimo panaikinimo dienos, jei licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo [[#^s-aa0ae570d904f944f0cd9ac2|8 straipsnio 1 dalies 2 punktu]]; ^s-42700a0b1a99383cd0755135
 
 
-3) praėjus vieniems metams nuo licencijos galiojimo panaikinimo dienos, jei licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo [[#^s-3f4d05b66462273b0b59c3ed|8 straipsnio 1 dalies]] 3 ir 4 punktais. ^s-776c50f8d4e6f473f2c570c3
+3) praėjus vieniems metams nuo licencijos galiojimo panaikinimo dienos, jei licencijos galiojimas buvo panaikintas vadovaujantis šio įstatymo [[#^s-3f4d05b66462273b0b59c3ed|8 straipsnio 1 dalies]] [[#^s-72230a60eb43a380b57bc1fb|3]] ir [[#^s-d3bd981d4c79b1c78e4b00aa|4]] punktais. ^s-776c50f8d4e6f473f2c570c3
 
 
 7. Licencijavimo institucija duomenis apie licencijos išdavimą, atsisakymą išduoti licenciją, licencijos galiojimo sustabdymą, licencijos galiojimo sustabdymo panaikinimą, licencijos galiojimo panaikinimą, licencijos duomenų tikslinimą, dublikato išdavimą ir kitus su licencijuojama veikla susijusius duomenis įrašo į Sveikatos priežiūros ir farmacijos specialistų praktikos licencijų registro (toliau – Registras) duomenų bazę Registro nuostatų nustatyta tvarka. ^s-810e1bd0ab44887d29a2dd2f

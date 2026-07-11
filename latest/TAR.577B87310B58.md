@@ -50,7 +50,7 @@ Vilnius
 „43) socialinės pašalpos, nustatytos Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, teikimas;“.
 
 
-2. Buvusią [[#^s-cdaefac799d229955afae74b|1 straipsnio 2 dalį]] laikyti 3 dalimi. ^s-cdaefac799d229955afae74b
+2. Buvusią 1 straipsnio 2 dalį laikyti 3 dalimi. ^s-cdaefac799d229955afae74b
 
 
 

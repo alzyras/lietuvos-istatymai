@@ -45,7 +45,7 @@ Pripažinti netekusiais galios:
 1) Lietuvos Respublikos įmonių kapitalo sanavimo ir restruktūrizavimo įstatymą (Žin., 1998, Nr. 96-2656); ^s-d572eee3f7930a859fada7a7
 
 
-2) Lietuvos Respublikos įmonių kapitalo sanavimo ir restruktūrizavimo įstatymo 6 straipsnio pakeitimo įstatymą (Žin., 2000, Nr. 64-1935). ^s-4d1e16f2aab8baa0558ad28a
+2) [Lietuvos Respublikos įmonių kapitalo sanavimo ir restruktūrizavimo įstatymo 6 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.F05CBE5FE228) pakeitimo įstatymą (Žin., 2000, Nr. 64-1935). ^s-4d1e16f2aab8baa0558ad28a
 
 
 

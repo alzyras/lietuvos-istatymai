@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-fb150715fe90b9fa8918b09b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 30 d. dekretą Nr. 734, ratifikuoja 2005 m. lapkričio 9 d. Tbilisyje pasirašytą Lietuvos Respublikos Vyriausybės ir Gruzijos Vyriausybės susitarimą dėl investicijų skatinimo ir apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. rugpjūčio 30 d. dekretą Nr. 734](https://e-tar.lt/portal/lt/legalAct/TAR.807DA1757D1F), ratifikuoja 2005 m. lapkričio 9 d. Tbilisyje pasirašytą Lietuvos Respublikos Vyriausybės ir Gruzijos Vyriausybės susitarimą dėl investicijų skatinimo ir apsaugos.
 
 
 

@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos viešojo administravimo įstatymo pakeitimo �
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.EC01522BCE65|Lietuvos Respublikos Seimo kontrolierių įstatymas]] - 2 citatos - Seimo kontrolierių įstatyme
-- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS VIEŠOJO ADMINISTRAVIMO ĮSTATYMAS
+- [[latest/TAR.EC01522BCE65|Lietuvos Respublikos Seimo kontrolierių įstatymas]] - Seimo kontrolierių įstatyme
 
 ## Šį įstatymą cituoja
 
-_Nėra._
+- [[latest/TAR.1EDAF87119F9#^s-1490f796984748d778549556|Lietuvos Respublikos viešojo administravimo įstatymo pakeitimo įstatymo 1 ir 3 straipsnių pakeitimo įstatymas]] - 6 citatos - 7

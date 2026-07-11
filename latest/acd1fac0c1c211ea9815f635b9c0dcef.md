@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-8dfd7ddc93e22c8a092cf614
 
 
-Pakeisti 2 straipsnio 9 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.C7E57DF3CEC5#^s-44866449b0cb11f1a595af11|2 straipsnio 9 dalį]] ir ją išdėstyti taip:
 
 
 „9. Valstybės investicijų programa – dokumentas, kuriame numatomos lėšos, reikalingos iki 2020 m. gruodžio 31 d. suplanuotiems ir atrinktiems investicijų projektams įgyvendinti, ir šių projektų finansavimo šaltiniai.“
@@ -49,10 +49,10 @@ Pakeisti 2 straipsnio 9 dalį ir ją išdėstyti taip:
 ### 2 straipsnis. 14 straipsnio pakeitimas ^s-ccb731066208a65e97d93851
 
 
-Pakeisti 14 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.C7E57DF3CEC5#^s-ae5ca281f3c314c46d36604a|14 straipsnį]] ir jį išdėstyti taip:
 
 
-„14 straipsnis. Valstybės investicijų reguliavimas
+„[[latest/TAR.C7E57DF3CEC5#^s-ae5ca281f3c314c46d36604a|14 straipsnis]]. Valstybės investicijų reguliavimas
 
 
 1. Valstybės investicijų politika formuojama nacionalinėse plėtros programose, Lietuvos Respublikos Vyriausybės programoje, Valstybės investicijų bei Valstybės skolinimosi programose, atsižvelgiant į Lietuvos Respublikos ūkio ir ekonominės bei socialinės raidos prognozes. ^s-d086ac833702b877d2af4712

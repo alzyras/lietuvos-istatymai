@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-ea6d49bb49c5855a8d5e303e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir [[latest/TAR.5BCEC9B41811#^s-2274b0500e739ef612d11a31|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 6 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2000 m. birželio 6 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1998 m. sausio 14 d. Vašingtone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir [[latest/TAR.5BCEC9B41811#^s-2274b0500e739ef612d11a31|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 6 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2000 m. birželio 6 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos“](https://e-tar.lt/portal/lt/legalAct/TAR.74446EFD89B9), ratifikuoja Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1998 m. sausio 14 d. Vašingtone.
 
 
 

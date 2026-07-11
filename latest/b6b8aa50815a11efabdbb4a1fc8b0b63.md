@@ -40,13 +40,13 @@ Vilnius
 ### 1 straipsnis. 16 straipsnio pakeitimas ^s-09f582851dccf20aa67e818b
 
 
-1. Pakeisti 16 straipsnio pavadinimą ir jį išdėstyti taip: ^s-662dcab0af25aedf4bbd68b7
+1. Pakeisti [[latest/TAR.9D2F66B96EBC#^s-9fd6e81118787e6bb20d373f|16 straipsnio]] pavadinimą ir jį išdėstyti taip: ^s-662dcab0af25aedf4bbd68b7
 
 
 „16 straipsnis. Valstybės orlaivių registravimas ir eksploatavimas, valstybės bepiločių orlaivių ir karinei įrangai priskiriamų Lietuvos šaulių sąjungos bepiločių orlaivių naudojimas“.
 
 
-2. Pakeisti 16 straipsnio 10 dalį ir ją išdėstyti taip: ^s-dd3d62a2d231e536521b7c4a
+2. Pakeisti [[latest/TAR.9D2F66B96EBC#^s-914e7f4958104ac6754a1a77|16 straipsnio 10 dalį]] ir ją išdėstyti taip: ^s-dd3d62a2d231e536521b7c4a
 
 
 „10. Valstybės bepiločių orlaivių, kuriuos naudoja krašto apsaugos sistemos institucijos, taip pat karinei įrangai priskiriamų Lietuvos šaulių sąjungos naudojamų bepiločių orlaivių naudojimo tvarką nustato kariuomenės vadas.“

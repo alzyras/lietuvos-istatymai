@@ -135,7 +135,7 @@ Pakeisti 43 straipsnį ir jį išdėstyti taip:
 2. Taikant 0 procentų PVM tarifą apmokestinamas orlaivių tiekimas, nuoma ar čarteris, jeigu orlaiviai tiekiami ar nuomojami apmokestinamiesiems asmenims, daugiau kaip pusę pajamų per metus gaunantiems iš keleivių ir (arba) krovinių vežimo ar kitokių paslaugų teikimo už atlyginimą oro transportu tarptautiniais maršrutais, taip pat šių orlaivių (išskyrus orlaivius, naudojamus asmeniniams poreikiams) priežiūra ir remontas, jeigu šios paslaugos teikiamos šioje dalyje nurodytiems apmokestinamiesiems asmenims. ^s-02b94be3dfd53564f0697dd0
 
 
-3. Taikant 0 procentų PVM tarifą apmokestinamas įprastinės ir būtinos šio straipsnio 1 ir [[#^s-02b94be3dfd53564f0697dd0|2 dalyse]] nurodytiems laivams ir orlaiviams įrangos tiekimas ir montavimas į tokius laivus ir orlaivius, jau įmontuotos tokios įrangos remontas ir priežiūra (įskaitant atvejus, kai įrangos, naudotos šio straipsnio 1 ir [[#^s-02b94be3dfd53564f0697dd0|2 dalyse]] nurodytuose laivuose ir orlaiviuose, remontas ar priežiūra atliekama šią įrangą išmontavus), atsarginių dalių tiekimas į nurodytus laivus ir orlaivius, taip pat atsarginių dalių nuoma, kai šios dalys įmontuojamos į nurodytus laivus ir orlaivius. Šios dalies nuostatos netaikomos, jei orlaiviai naudojami asmeniniams poreikiams. ^s-14547ce4d433d8a49b512985
+3. Taikant 0 procentų PVM tarifą apmokestinamas įprastinės ir būtinos šio straipsnio [[#^s-99c4d319d57de4b139346278|1]] ir [[#^s-02b94be3dfd53564f0697dd0|2]] dalyse nurodytiems laivams ir orlaiviams įrangos tiekimas ir montavimas į tokius laivus ir orlaivius, jau įmontuotos tokios įrangos remontas ir priežiūra (įskaitant atvejus, kai įrangos, naudotos šio straipsnio [[#^s-99c4d319d57de4b139346278|1]] ir [[#^s-02b94be3dfd53564f0697dd0|2]] dalyse nurodytuose laivuose ir orlaiviuose, remontas ar priežiūra atliekama šią įrangą išmontavus), atsarginių dalių tiekimas į nurodytus laivus ir orlaivius, taip pat atsarginių dalių nuoma, kai šios dalys įmontuojamos į nurodytus laivus ir orlaivius. Šios dalies nuostatos netaikomos, jei orlaiviai naudojami asmeniniams poreikiams. ^s-14547ce4d433d8a49b512985
 
 
 4. Taikant 0 procentų PVM tarifą taip pat apmokestinamos: ^s-f8b18bece13ea5a41643c9a3
@@ -200,7 +200,7 @@ Pakeisti 90 straipsnio 2 dalį ir ją išdėstyti taip:
 Pakeisti 91 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
-„5. Jeigu PVM mokėtojas likviduojamas arba apmokestinamasis asmuo išregistruojamas iš PVM mokėtojų, neįskaitytas ir negrąžintas PVM skirtumo likutis grąžinamas [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka, neatsižvelgiant į šio straipsnio 2–4 dalyse nustatytus apribojimus. Neįskaitytas ir negrąžintas PVM skirtumo likutis, neatsižvelgiant į šio straipsnio 3 dalyje nustatytus apribojimus, be atskiro PVM mokėtojo prašymo taip pat gali būti grąžinamas PVM mokėtojams, atitinkantiems centrinio mokesčių administratoriaus nustatytus reikalavimus.“
+„5. Jeigu PVM mokėtojas likviduojamas arba apmokestinamasis asmuo išregistruojamas iš PVM mokėtojų, neįskaitytas ir negrąžintas PVM skirtumo likutis grąžinamas [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka, neatsižvelgiant į šio straipsnio [[latest/TAR.3EB34933E485|2]]–[[latest/TAR.3EB34933E485|4]] dalyse nustatytus apribojimus. Neįskaitytas ir negrąžintas PVM skirtumo likutis, neatsižvelgiant į šio straipsnio 3 dalyje nustatytus apribojimus, be atskiro PVM mokėtojo prašymo taip pat gali būti grąžinamas PVM mokėtojams, atitinkantiems centrinio mokesčių administratoriaus nustatytus reikalavimus.“
 
 
 
@@ -210,7 +210,7 @@ Pakeisti 91 straipsnio 5 dalį ir ją išdėstyti taip:
 Pakeisti 94 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Importo PVM už prekes mokamas tokiais pačiais terminais, kaip būtų mokami importo muitai už šias prekes (jeigu jie joms būtų nustatyti), kaip tai nustatyta Muitinės kodekse. Importo PVM mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė. Importo PVM už prekes, kurias importuoja PVM mokėtojai, gali būti įskaitomas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija nustato ir kriterijus, kuriuos turi atitikti PVM mokėtojai, pageidaujantys įskaityti importo PVM.“
+„1. Importo PVM už prekes mokamas tokiais pačiais terminais, kaip būtų mokami importo muitai už šias prekes (jeigu jie joms būtų nustatyti), kaip tai nustatyta [Muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145). Importo PVM mokėjimo tvarką nustato Lietuvos Respublikos Vyriausybė. Importo PVM už prekes, kurias importuoja PVM mokėtojai, gali būti įskaitomas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija nustato ir kriterijus, kuriuos turi atitikti PVM mokėtojai, pageidaujantys įskaityti importo PVM.“
 
 
 
@@ -230,7 +230,7 @@ Pakeisti 94 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 15 straipsnis. Įstatymo įsigaliojimas ^s-944512620bc685975472e516
 
 
-Šio įstatymo 1, 2, 4, [[#^s-a629501ed18247ddeb528eea|8 straipsniai]] ir [[#^s-1533eb362eefd00d8031f548|10 straipsnio 3 dalis]] įsigalioja nuo 2007 m. sausio 1 d.
+Šio įstatymo [[#^s-073f1f9b2170f9d8bd79e34b|1]], [[#^s-06a18839c01cd10e4a22e1db|2]], [[#^s-3bab129435b7a390ec5f4599|4]], [[#^s-a629501ed18247ddeb528eea|8]] straipsniai ir [[#^s-1533eb362eefd00d8031f548|10 straipsnio 3 dalis]] įsigalioja nuo 2007 m. sausio 1 d.
 
 
 

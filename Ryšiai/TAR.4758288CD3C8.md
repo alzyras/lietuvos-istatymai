@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos mokesčių administravimo įstatymo 50 straip
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 3 citatos - Mokesčių administravimo įstatymo 49 straipsnio 6 punkto
 
 ## Šį įstatymą cituoja
 

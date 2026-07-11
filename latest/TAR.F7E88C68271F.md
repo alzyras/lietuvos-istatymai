@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-29054f53d849fafa184c4903
-[[latest/TAR.C677663D2202#^s-f966aabfb0d034fea682709a|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17 IR 21 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.C677663D2202|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO]] [[latest/TAR.C677663D2202#^s-5cd91d7584aea70ef315639a|17]] IR [[latest/TAR.C677663D2202#^s-f966aabfb0d034fea682709a|21]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2002, Nr. 73-3085, Nr. 123-5539; 2003, Nr. 42-1925, Nr. 75-3474, Nr. 102-4586,
 Nr. 123-5585; 2004, Nr. 25-749, Nr. 50-1633, Nr. 60-2118, Nr. 73-2535, Nr. 98-3628,
@@ -79,7 +79,7 @@ Pakeisti [[#^s-701e9f2adbb735da7301a897|2 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-701e9f2adbb735da7301a897|2 straipsnis]]. Baigiamosios nuostatos
 
 
-Deklaruojant 2007–2009 metų gyventojų pajamų mokestį, Gyventojų pajamų mokesčio įstatymo 21 straipsnio 1 dalies 5 punkto nuostatos taikomos tik tuo atveju, jeigu minėtame punkte nurodytas asmeninio kompiuterio vienetas su programine įranga ir interneto prieigos įrengimas su šiai prieigai reikalinga įranga buvo įsigyti iš Lietuvos arba užsienio vieneto.“
+Deklaruojant 2007–2009 metų gyventojų pajamų mokestį, [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatymo 21 straipsnio 1 dalies 5 punkto]] nuostatos taikomos tik tuo atveju, jeigu minėtame punkte nurodytas asmeninio kompiuterio vienetas su programine įranga ir interneto prieigos įrengimas su šiai prieigai reikalinga įranga buvo įsigyti iš Lietuvos arba užsienio vieneto.“
 
 
 

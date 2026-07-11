@@ -42,7 +42,7 @@ Vilnius
 18 straipsnio 1 punkte vietoj skaičiaus ir žodžių „12 vidutinių mėnesinių darbo užmokesčių (VMDU) dydžio“ įrašyti žodžius „lygus paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dvylikai dydžių“, papildyti punktą sakiniu „Ši norma galioja iki Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio 1 dalies taikymo pradžios“ ir jį išdėstyti taip:
 
 
-„1) darbo užmokestis, lygus paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dvylikai dydžių. Ši norma galioja iki Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo 7 straipsnio 1 dalies taikymo pradžios;“.
+„1) darbo užmokestis, lygus paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio dvylikai dydžių. Ši norma galioja iki Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymo 7 straipsnio 1 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) taikymo pradžios;“.
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.

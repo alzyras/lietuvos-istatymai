@@ -9,6 +9,7 @@ pavadinimas: "Lietuvos Respublikos pasipriešinimo 1940–1990 metų okupacijos 
 
 ## Šis įstatymas cituoja
 
+- [[latest/TAR.BFB136428878|Lietuvos Respublikos pasipriešinimo 1940-1990 metų okupacijoms dalyvių teisinio statuso įstatymas]] - 2 citatos - 5 straipsnis
 - [[latest/TAR.9BD121CAF500|Lietuvos Respublikos įstatymo "Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo" 1 straipsnio papildymo įstatymas]] - 1996 m. lapkričio 28 d. įstatymu Nr. VIII-11
 
 ## Šį įstatymą cituoja

@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.DE0B1FF26D01#^s-0f2ad661fd6c4657f734df45|Lietuvos Respublikos kredito unijų įstatymas]] - 2 citatos - KREDITO UNIJŲ ĮSTATYMO 2, 4, 24, 29 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.DE0B1FF26D01#^s-a09eaa597280bf735b93aed5|Lietuvos Respublikos kredito unijų įstatymas]] - 2 citatos - KREDITO UNIJŲ ĮSTATYMO 2, 4, 24, 29 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.DE0B1FF26D01#^s-a09eaa597280bf735b93aed5|Lietuvos Respublikos kredito unijų įstatymas]] - KREDITO UNIJŲ ĮSTATYMO 2, 4, 24, 29 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

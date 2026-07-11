@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pir
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.810A3C4DB722|Lietuvos Respublikos narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolės įstatymas]] - 3 straipsnio 2 punktą
 
 ## Šį įstatymą cituoja
 

@@ -249,7 +249,7 @@ LIETUVOS VALSTYBĖS VĖLIAVA
 6) prie, virš ar ant pastatų, kuriuose vyksta balsavimas, rinkimų į Lietuvos Respublikos Seimą, savivaldybių tarybas ar Europos Parlamentą ir Respublikos Prezidento rinkimų dieną, taip pat balsavimo referendume dieną. ^s-1b535edc4d27458a62183eb6
 
 
-4. Fiziniai ir juridiniai asmenys taip pat gali savo nuožiūra (išskyrus šio straipsnio 1, 2 ir [[#^s-982fe313a71f94482a6ecf26|3 dalyse]] numatytus atvejus) naudoti (kelti, pastatyti) Lietuvos valstybės vėliavą ir (arba) vėliavėles laikydamiesi vėliavų naudojimo principų ir tik tokiu būdu, kad nebūtų parodyta nepagarba šioms vėliavoms. ^s-4e27285de40419d2598d44e6
+4. Fiziniai ir juridiniai asmenys taip pat gali savo nuožiūra (išskyrus šio straipsnio [[#^s-2b1bfad52e2805fa778a10fb|1]], [[#^s-6e50b5b4a4e0d86836d97f5b|2]] ir [[#^s-982fe313a71f94482a6ecf26|3]] dalyse numatytus atvejus) naudoti (kelti, pastatyti) Lietuvos valstybės vėliavą ir (arba) vėliavėles laikydamiesi vėliavų naudojimo principų ir tik tokiu būdu, kad nebūtų parodyta nepagarba šioms vėliavoms. ^s-4e27285de40419d2598d44e6
 
 
 5. Lietuvos valstybės vėliava gali būti keliama: ^s-9f9dcd2ac2e04d073f3e2b11

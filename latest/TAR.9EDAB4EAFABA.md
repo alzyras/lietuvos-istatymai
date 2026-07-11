@@ -69,7 +69,7 @@ Vilnius
 ### 4 straipsnis. 10 straipsnio 1 ir 3 dalių pakeitimas bei papildymas ^s-44a885b9b76534fe52956d84
 
 
-1. 10 straipsnio 1 dalies 2 punktą pripažinti netekusiu galios, buvusius 3, 4, 5, 6, 7 punktus laikyti atitinkamai 2, 3, 4, 5, [[#^s-2807dee85a6cb70827d4296c|6 punktais]] ir šią dalį išdėstyti taip: ^s-062cde2d2a7bad06c8f6f55d
+1. 10 straipsnio 1 dalies 2 punktą pripažinti netekusiu galios, buvusius 3, 4, 5, 6, 7 punktus laikyti atitinkamai 2, 3, 4, 5, 6 punktais ir šią dalį išdėstyti taip: ^s-062cde2d2a7bad06c8f6f55d
 
 
 „1. Į karjeros valstybės tarnautojo pareigas priima:

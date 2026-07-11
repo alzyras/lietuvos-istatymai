@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-7ad4eff93831f26580009ade
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2000 m. lapkričio 7 d. dekretą Nr. 1072, ratifikuoja Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo geležinkelių transporto srityje, pasirašytą 2000 m. balandžio 3 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2000 m. lapkričio 7 d. dekretą Nr. 1072](https://e-tar.lt/portal/lt/legalAct/TAR.3F287DE23CC3), ratifikuoja Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo geležinkelių transporto srityje, pasirašytą 2000 m. balandžio 3 d. Vilniuje.
 
 
 

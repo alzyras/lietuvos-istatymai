@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C5DA698A4015#^s-3163f9a713ae9ea2440e04cb|Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymas]] - Įstatymas Nr. VIII-447
-- [[latest/TAR.C5DA698A4015#^s-50f21264f70dd16d7cd8bafc|Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymas]] - Įstatymas Nr. VIII-447
+_Nėra._

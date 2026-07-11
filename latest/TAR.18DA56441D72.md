@@ -53,7 +53,7 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki trejų metų.
 baudžiamas areštu arba laisvės atėmimu iki ketverių metų.
 
 
-3. Tas, kas padarė šio straipsnio 1 ar [[#^s-f28812faabbcdf9dd61de5ba|2 dalyje]] numatytas veikas, jeigu dėl to buvo padaryta didelės žalos, arba pagamino didelį kiekį netikrų asmens tapatybės kortelių, pasų, vairuotojo pažymėjimų ar valstybinio socialinio draudimo pažymėjimų, arba suklastojo didelį kiekį tikrų asmens tapatybės kortelių, pasų, vairuotojo pažymėjimų ar valstybinio socialinio draudimo pažymėjimų, arba žinomai netikrų ar žinomai suklastotų tikrų didelį kiekį asmens tapatybės kortelių, pasų, vairuotojo pažymėjimų ar valstybinio socialinio draudimo pažymėjimų laikė, gabeno, siuntė, panaudojo ar realizavo, ^s-398aa6176fedc5588fb6724d
+3. Tas, kas padarė šio straipsnio [[#^s-5d02a5cd58216453ef0b7866|1]] ar [[#^s-f28812faabbcdf9dd61de5ba|2]] dalyje numatytas veikas, jeigu dėl to buvo padaryta didelės žalos, arba pagamino didelį kiekį netikrų asmens tapatybės kortelių, pasų, vairuotojo pažymėjimų ar valstybinio socialinio draudimo pažymėjimų, arba suklastojo didelį kiekį tikrų asmens tapatybės kortelių, pasų, vairuotojo pažymėjimų ar valstybinio socialinio draudimo pažymėjimų, arba žinomai netikrų ar žinomai suklastotų tikrų didelį kiekį asmens tapatybės kortelių, pasų, vairuotojo pažymėjimų ar valstybinio socialinio draudimo pažymėjimų laikė, gabeno, siuntė, panaudojo ar realizavo, ^s-398aa6176fedc5588fb6724d
 baudžiamas laisvės atėmimu iki šešerių metų.
 
 

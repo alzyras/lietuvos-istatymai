@@ -9,8 +9,9 @@ pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos miestų
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D0CD0966D67F#^s-f2ff2f9e4891b8b76f0e8273|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - Vietos savivaldos įstatymo 7 straipsnyje
+- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - 4 citatos - 4
+- [[latest/TAR.D0CD0966D67F#^s-f2ff2f9e4891b8b76f0e8273|Lietuvos Respublikos vietos savivaldos įstatymas]] - Vietos savivaldos įstatymo 7 straipsnyje
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EA5F9F0D6DBB#^s-41656dffd7061e3efd79bdb5|Lietuvos Respublikos  tiesioginio valdymo savivaldybės teritorijoje įstatymas]] - 2 citatos - 0971010ISTAVIII-232
+- [[latest/TAR.EA5F9F0D6DBB#^s-41656dffd7061e3efd79bdb5|Lietuvos Respublikos  tiesioginio valdymo savivaldybės teritorijoje įstatymas]] - 0971010ISTAVIII-232

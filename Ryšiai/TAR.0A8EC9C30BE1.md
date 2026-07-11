@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos žemės mokesčio įstatymo 6, 11 straipsnių
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.D267FBDC094B|Lietuvos Respublikos žemės mokesčio įstatymas]] - Žemės mokesčio įstatymo 6 straipsnio 4 dalis
 
 ## Šį įstatymą cituoja
 

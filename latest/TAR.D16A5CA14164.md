@@ -222,7 +222,7 @@ Asmenys, pažeidę šio Įstatymo reikalavimus, atsako įstatymų nustatyta tvar
 3. Vyriausybė iki šio Įstatymo įsigaliojimo dienos: ^s-f05f93c1af3b6793ec23b248
 
 
-1) parengia ir pateikia Seimui įstatymo „Dėl Lietuvos valstybės herbo“ ir (ar) Savivaldybių atributikos įstatymo, o prireikus ir kitų įstatymų pakeitimų projektus; ^s-8f8a24ae67acb49af0f8c3a5
+1) parengia ir pateikia Seimui įstatymo [„Dėl Lietuvos valstybės herbo“](https://e-tar.lt/portal/lt/legalAct/TAR.10BB96A1E015) ir (ar) [Savivaldybių atributikos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.94228C66BDB8), o prireikus ir kitų įstatymų pakeitimų projektus; ^s-8f8a24ae67acb49af0f8c3a5
 
 
 2) parengia ir patvirtina teisės aktus, reikalingus šio Įstatymo nuostatoms įgyvendinti. ^s-53e2306939034bd209ddf80d

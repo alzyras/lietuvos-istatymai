@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir Protokolo ratifikavimas ^s-11ad4c7e54c5db02867f6e4a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2006 m. gruodžio 8 d. dekretą Nr. 1K-823, ratifikuoja Europos konvenciją dėl eksperimentiniais ir kitais mokslo tikslais naudojamų stuburinių gyvūnų apsaugos, priimtą 1986 m. kovo 18 d. Strasbūre, ir Europos konvencijos dėl eksperimentiniais ir kitais mokslo tikslais naudojamų stuburinių gyvūnų apsaugos pakeitimo protokolą, priimtą 1998 m. birželio 22 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2006 m. gruodžio 8 d. dekretą Nr. 1K-823](https://e-tar.lt/portal/lt/legalAct/TAR.A3BE952A4EB3), ratifikuoja Europos konvenciją dėl eksperimentiniais ir kitais mokslo tikslais naudojamų stuburinių gyvūnų apsaugos, priimtą 1986 m. kovo 18 d. Strasbūre, ir Europos konvencijos dėl eksperimentiniais ir kitais mokslo tikslais naudojamų stuburinių gyvūnų apsaugos pakeitimo protokolą, priimtą 1998 m. birželio 22 d. Strasbūre.
 
 
 

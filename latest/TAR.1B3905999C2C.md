@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-e4dd49786c3ae1f644ce82fa
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. liepos 5 d. dekretą Nr. 1K-1037, ratifikuoja 2007 m. kovo 28 d. Vilniuje sudarytą Lietuvos Respublikos Vyriausybės ir Albanijos Respublikos Ministrų Tarybos susitarimą dėl investicijų skatinimo ir apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. liepos 5 d. dekretą Nr. 1K-1037](https://e-tar.lt/portal/lt/legalAct/TAR.880F65924DB1), ratifikuoja 2007 m. kovo 28 d. Vilniuje sudarytą Lietuvos Respublikos Vyriausybės ir Albanijos Respublikos Ministrų Tarybos susitarimą dėl investicijų skatinimo ir apsaugos.
 
 
 

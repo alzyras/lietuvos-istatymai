@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos nekilnojamojo turto registro įstatymo 3, 8, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Lietuvos Respublikos administracinių bylų teisenos įstatymo
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Lietuvos Respublikos administracinių bylų teisenos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.38E82AA2664C#^s-76b0c9e78309922952a06b5a|Lietuvos Respublikos nekilnojamojo turto registro įstatymas]] - 3 citatos - 0991010ISTAIII-1384
+- [[latest/TAR.38E82AA2664C#^s-76b0c9e78309922952a06b5a|Lietuvos Respublikos nekilnojamojo turto registro įstatymas]] - 2 citatos - 0991010ISTAIII-1384

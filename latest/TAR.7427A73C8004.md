@@ -55,7 +55,7 @@ Pakeisti 4 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 Pakeisti 7 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
-„1) perskolinamų paskolų teikimo valstybės investicijoms finansuoti, valstybės socialinės apsaugos fondų skoliniams įsipareigojimams dengti ir šių fondų pinigų srautams subalansuoti, valstybės nekilnojamajam turtui atnaujinti, [[latest/TAR.3BAADED2C30B|Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme]] numatytų indėlių ir (ar) įsipareigojimų investuotojams draudimo išmokų mokėjimui finansuoti, valstybės garantijų, nurodytų šio įstatymo 4 straipsnio 2 dalies 1, 2, 4 punktuose ir 3 dalyje, teikimo valstybės investicijoms finansuoti, taip pat tokių valstybės garantijų sąlygų keitimo;“.
+„1) perskolinamų paskolų teikimo valstybės investicijoms finansuoti, valstybės socialinės apsaugos fondų skoliniams įsipareigojimams dengti ir šių fondų pinigų srautams subalansuoti, valstybės nekilnojamajam turtui atnaujinti, [[latest/TAR.3BAADED2C30B#^s-a2b5cae1660109387141491e|Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatyme numatytų indėlių ir (ar) įsipareigojimų investuotojams draudimo išmokų mokėjimui finansuoti, valstybės garantijų, nurodytų šio įstatymo 4 straipsnio 2 dalies]] [[latest/TAR.3BAADED2C30B#^s-392c3000859aca2774c0896d|1]], [[latest/TAR.3BAADED2C30B#^s-35ff2218195695dcc968582d|2]], [[latest/TAR.3BAADED2C30B#^s-90ff74212951f34de308f64c|4]] punktuose ir 3 dalyje, teikimo valstybės investicijoms finansuoti, taip pat tokių valstybės garantijų sąlygų keitimo;“.
 
 
 

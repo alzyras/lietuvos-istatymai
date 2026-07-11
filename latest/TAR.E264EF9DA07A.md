@@ -48,13 +48,13 @@ Vilnius
 1. Papildyti 17 straipsnį 4 dalimi: ^s-0b891c849660f21e8cc5f647
 
 
-„4. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos pagal patvirtintą įmokų tarifo dydį nedarbo draudimo lėšas Užimtumo rėmimo įstatymo nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti Vyriausybės ar jos įgaliotos institucijos nustatytais terminais ir tvarka perveda Socialinės apsaugos ir darbo ministerijai Užimtumo fondui sudaryti.“
+„4. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos pagal patvirtintą įmokų tarifo dydį nedarbo draudimo lėšas [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti Vyriausybės ar jos įgaliotos institucijos nustatytais terminais ir tvarka perveda Socialinės apsaugos ir darbo ministerijai Užimtumo fondui sudaryti.“
 
 
 2. Papildyti 17 straipsnį 4 dalimi: ^s-3d9db16beba19259dc763ff4
 
 
-„4. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos pagal patvirtintą įmokų tarifo dydį nedarbo draudimo lėšas Užimtumo rėmimo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti Vyriausybės ar jos įgaliotos institucijos nustatytais terminais ir tvarka perveda Socialinės apsaugos ir darbo ministerijai Užimtumo fondui sudaryti.“
+„4. Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos pagal patvirtintą įmokų tarifo dydį nedarbo draudimo lėšas [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti Vyriausybės ar jos įgaliotos institucijos nustatytais terminais ir tvarka perveda Socialinės apsaugos ir darbo ministerijai Užimtumo fondui sudaryti.“
 
 
 3. Papildyti 17 straipsnį 5 dalimi: ^s-5d26be738f09fb82846293bc
@@ -74,7 +74,7 @@ Pakeisti 23 straipsnio 1 dalį, 2 ir 3 dalis pripažinti netekusiomis galios ir 
 „23 straipsnis. Nedarbo draudimo išlaidos pereinamuoju laikotarpiu
 
 
-Pereinamuoju laikotarpiu (2009 m. sausio 1 d. – 2013 m. gruodžio 31 d.) iš nedarbo draudimo lėšų finansuojamos nedarbo draudimo išmokos, užimtumo rėmimo priemonės, darbo rinkos paslaugos, užimtumo rėmimo politiką įgyvendinančios įstaigos ir Užimtumo rėmimo įstatyme nustatytos aktyvios darbo rinkos politikos priemonės.“
+Pereinamuoju laikotarpiu (2009 m. sausio 1 d. – 2013 m. gruodžio 31 d.) iš nedarbo draudimo lėšų finansuojamos nedarbo draudimo išmokos, užimtumo rėmimo priemonės, darbo rinkos paslaugos, užimtumo rėmimo politiką įgyvendinančios įstaigos ir [Užimtumo rėmimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytos aktyvios darbo rinkos politikos priemonės.“
 
 
 

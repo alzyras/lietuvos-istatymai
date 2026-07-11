@@ -62,19 +62,19 @@ Vilnius
 ### 3 straipsnis. 5 straipsnio papildymas ir pakeitimas ^s-e02600fe8f16efbf35c9b49a
 
 
-1. [[#^s-9ca1780b78a80882d3b42dde|5 straipsnį]] papildyti nauja [[#^s-a7ad82797b934fdaf37e6f0c|1 dalimi]]: ^s-a7ad82797b934fdaf37e6f0c
+1. [[#^s-9ca1780b78a80882d3b42dde|5 straipsnį]] papildyti nauja 1 dalimi: ^s-a7ad82797b934fdaf37e6f0c
 
 
 „1. Gyvūnų laikymo gyvenamosiose vietovėse bei atskirų rūšių gyvūnų registravimo tvarką nustato Vyriausybė ar jos įgaliota institucija. Kaip laikomasi šios tvarkos, kontroliuoja Vyriausybės įgaliotos institucijos.“
 
 
-2. Buvusią 5 straipsnio 1 dalį laikyti [[#^s-d039c2a4118b2f0ef45e3729|2 dalimi]], ją pakeisti ir išdėstyti taip: ^s-d039c2a4118b2f0ef45e3729
+2. Buvusią 5 straipsnio 1 dalį laikyti 2 dalimi, ją pakeisti ir išdėstyti taip: ^s-d039c2a4118b2f0ef45e3729
 
 
 „2. Savivaldybės tvirtina gyvūnų laikymo gyvenamosiose vietovėse savivaldybės teritorijoje taisykles ir prižiūri, kaip jos įgyvendinamos.“
 
 
-3. Buvusias [[#^s-9ca1780b78a80882d3b42dde|5 straipsnio]] 2, 3 ir [[#^s-95589cde513f09d142e5f587|4 dalis]] laikyti atitinkamai 3, 4 ir 5 dalimis. ^s-2e2bece34d2f913db57e4d42
+3. Buvusias [[#^s-9ca1780b78a80882d3b42dde|5 straipsnio]] 2, 3 ir 4 dalis laikyti atitinkamai 3, 4 ir 5 dalimis. ^s-2e2bece34d2f913db57e4d42
 
 
 4. Buvusią 5 straipsnio 5 dalį pripažinti netekusia galios. ^s-95589cde513f09d142e5f587
@@ -108,13 +108,13 @@ Papildyti Įstatymą 61 straipsniu:
 4) nepateikusiems pažymos apie atitinkamos mokymo programos, kurią tvirtina Vyriausybės įgaliota institucija, išklausymą; ^s-bb89297887a28fdb6eea2bb5
 
 
-5) gyvenantiems kartu su asmenimis, nurodytais [[#^s-9ee535d6b14f30083898b575|šio straipsnio 2 dalies]] 2 ir [[#^s-4bfd3644356e6a21f1ac2015|3 punktuose]]. ^s-a3ea1a648dff42e8888fc8aa
+5) gyvenantiems kartu su asmenimis, nurodytais [[#^s-9ee535d6b14f30083898b575|šio straipsnio 2 dalies]] [[#^s-24fe70aebeb27683a049590e|2]] ir [[#^s-4bfd3644356e6a21f1ac2015|3]] punktuose. ^s-a3ea1a648dff42e8888fc8aa
 
 
 3. Savivaldybės ar Vyriausybės įgaliotos institucijos agresyvius šunis gali paimti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka: ^s-c3c6f3e117a3dc1151add834
 
 
-1) kai atsiranda [[#^s-9ee535d6b14f30083898b575|šio straipsnio 2 dalies]] 2, 3 ir [[#^s-dbaa416f820098d0041c67ec|5 punktuose]] numatyti pagrindai; ^s-0a3738f3cf3510d8ca67fe8c
+1) kai atsiranda [[#^s-9ee535d6b14f30083898b575|šio straipsnio 2 dalies]] [[#^s-5f13ebef9b69762c2cc71eeb|2]], [[#^s-8d0f77d55b123042cedf6d09|3]] ir [[#^s-dbaa416f820098d0041c67ec|5]] punktuose numatyti pagrindai; ^s-0a3738f3cf3510d8ca67fe8c
 
 
 2) panaikinus leidimą laikyti agresyvų šunį; ^s-5f13ebef9b69762c2cc71eeb

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-759589d910ca99b32c2d81f4
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 2000 m. sausio 13 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Kinijos Liaudies Respublikos Honkongo specialiojo administracinio regiono Vyriausybės sutartį dėl tranzitinio tarptautinio oro susisiekimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Kinijos Liaudies Respublikos Honkongo specialiojo administracinio regiono Vyriausybės sutartį dėl tranzitinio tarptautinio oro susisiekimo, pasirašytą 1998 m. birželio 30 d. Honkonge.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 2000 m. sausio 13 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Kinijos Liaudies Respublikos Honkongo specialiojo administracinio regiono Vyriausybės sutartį dėl tranzitinio tarptautinio oro susisiekimo“](https://e-tar.lt/portal/lt/legalAct/TAR.03A21549B45E), ratifikuoja Lietuvos Respublikos Vyriausybės ir Kinijos Liaudies Respublikos Honkongo specialiojo administracinio regiono Vyriausybės sutartį dėl tranzitinio tarptautinio oro susisiekimo, pasirašytą 1998 m. birželio 30 d. Honkonge.
 
 
 

@@ -117,7 +117,7 @@ Lietuvos Respublikos Vyriausybė iki 2012 m. sausio 1 d. patvirtina šio įstaty
 ### 8 straipsnis. Įstatymo įsigaliojimas ^s-0a44577c4eb1fb4d57ad5ab8
 
 
-Šis įstatymas, išskyrus 4 ir [[#^s-fa073f63bfc4b56c0c59ff1d|7 straipsnius]], įsigalioja 2012 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-e9b6670342f7b55dbf601431|4]] ir [[#^s-fa073f63bfc4b56c0c59ff1d|7]] straipsnius, įsigalioja 2012 m. sausio 1 d.
 
 
 

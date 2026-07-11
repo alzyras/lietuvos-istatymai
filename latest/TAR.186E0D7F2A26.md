@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir jos Protokolo ratifikavimas ^s-2cc8c53525825cb6108ab5f8
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. sausio 10 d. dekretą Nr. 2008, ratifikuoja Europos konvenciją dėl audiovizualinio paveldo apsaugos ir Europos konvencijos dėl audiovizualinio paveldo apsaugos protokolą dėl televizijos kūrinių apsaugos, priimtus 2001 m. lapkričio 8 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. sausio 10 d. dekretą Nr. 2008](https://e-tar.lt/portal/lt/legalAct/TAR.6C5E7222A04F), ratifikuoja Europos konvenciją dėl audiovizualinio paveldo apsaugos ir Europos konvencijos dėl audiovizualinio paveldo apsaugos protokolą dėl televizijos kūrinių apsaugos, priimtus 2001 m. lapkričio 8 d. Strasbūre.
 
 
 

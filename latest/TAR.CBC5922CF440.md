@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo memorandumo ratifikavimas ^s-1bbb2ed754c0c3055208d771
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. rugpjūčio 21 d. dekretą Nr. 1K-1086, ratifikuoja Susitarimo memorandumą dėl supakuotų pavojingų krovinių vežimo ro-ro tipo laivais Baltijos jura, priimtą 2004 m. birželio 15–17 d. Kopenhagoje, su pakeitimais, padarytais 2006 m. gegužės 3–4 d. Hamburge.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. rugpjūčio 21 d. dekretą Nr. 1K-1086](https://e-tar.lt/portal/lt/legalAct/TAR.8214042B575F), ratifikuoja Susitarimo memorandumą dėl supakuotų pavojingų krovinių vežimo ro-ro tipo laivais Baltijos jura, priimtą 2004 m. birželio 15–17 d. Kopenhagoje, su pakeitimais, padarytais 2006 m. gegužės 3–4 d. Hamburge.
 
 
 

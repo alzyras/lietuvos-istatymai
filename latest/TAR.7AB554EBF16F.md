@@ -76,7 +76,7 @@ Pakeisti 55 straipsnio 4 dalį ir ją išdėstyti taip:
 ### 4 straipsnis. Įstatymo įsigaliojimas ^s-137bc80782bb7ce7ca58030b
 
 
-Šio įstatymo 1 ir [[#^s-7d7ebe95939ddd7d67193669|2 straipsniai]] įsigalioja 2009 m. sausio 1 d.
+Šio įstatymo [[#^s-75fb6fbf85af20dfbaec009f|1]] ir [[#^s-7d7ebe95939ddd7d67193669|2]] straipsniai įsigalioja 2009 m. sausio 1 d.
 
 
 

@@ -56,7 +56,7 @@ Lietuvos Respublikos Seimas nutaria:
 „Išstojantis iš bendrovės ir steigiantis ūkininko ūkį narys arba narių grupė, steigianti kitą žemės ūkio įmonę, turi teisę gauti iš bendrovės natūra (technikos, gyvulių, apyvartinio ar kito turto) arba pinigais turto dalį, proporcingą jo pajaus dydžiui.“
 
 
-2. Pripažinti netekusiais galios Lietuvos Respublikos Aukščiausiosios Tarybos 1992 m. gegužės 7 d. nutarimo Nr. I-2563 „Dėl priemonių agrarinei reformai plėtoti“ (Žin., 1992, Nr. 15-402) 4 punkto 11 ir 12 papunkčius.
+2. Pripažinti netekusiais galios Lietuvos Respublikos Aukščiausiosios Tarybos [1992 m. gegužės 7 d. nutarimo Nr. I-2563](https://e-tar.lt/portal/lt/legalAct/TAR.FE330F38104C) [„Dėl priemonių agrarinei reformai plėtoti“](https://e-tar.lt/portal/lt/legalAct/TAR.FE330F38104C) (Žin., 1992, Nr. 15-402) 4 punkto 11 ir 12 papunkčius.
 
 
 3. Siūlyti Lietuvos Respublikos Vyriausybei atšaukti Vyriausybės nutarimus, prieštaraujančius šiam įstatymui ir Lietuvos Respublikos žemės ūkio bendrovių įstatymui.

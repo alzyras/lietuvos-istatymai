@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnyje išdėstyto Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo 24 straipsnio 4 dalies 2 ir 3 punktų pakeitimas ^s-b483858ee8b7542947253031
 
 
-Pakeisti 24 straipsnio 4 dalies 2 ir [[#^s-b5157d8caa5a591633b2d866|3 punktus]] ir juos išdėstyti taip:
+Pakeisti 24 straipsnio 4 dalies 2 ir 3 punktus ir juos išdėstyti taip:
 
 
 „2) jeigu tai susiję su traukinio mašinistu, kuriam traukinio mašinisto pažymėjimą išdavė kitos Europos Sąjungos valstybės narės kompetentinga institucija, eismo saugos institucija kreipiasi į tą instituciją su prašymu atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto pažymėjimo galiojimą. Eismo saugos institucija apie savo prašymą atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto pažymėjimo galiojimą nedelsdama informuoja Europos Komisiją ir kitas Europos Sąjungos valstybių narių suinteresuotas kompetentingas institucijas. Tuo atveju, kai prašymą atlikti išsamesnį tyrimą arba sustabdyti traukinio mašinisto pažymėjimo galiojimą iš kitos Europos Sąjungos valstybės narės kompetentingos institucijos gauna eismo saugos institucija, šį prašymą ji išnagrinėja per keturias savaites nuo prašymo gavimo dienos ir apie savo sprendimą informuoja prašymą pateikusią kompetentingą instituciją, Europos Komisiją ir kitas suinteresuotas Europos Sąjungos valstybių narių kompetentingas institucijas. Eismo saugos institucija turi teisę neleisti traukinio mašinistui dirbti tol, kol bus gautas susijusios kompetentingos institucijos, į kurią buvo kreiptasi su prašymu, atsakymas; tuo atveju, kai eismo saugos institucija mano, kad kitos Europos Sąjungos valstybės narės kompetentingos institucijos sprendimas yra nepagrįstas, šis klausimas perduodamas svarstyti Europos Komisijai;

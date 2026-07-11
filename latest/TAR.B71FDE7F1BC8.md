@@ -129,7 +129,7 @@ Pakeisti 28 straipsnio 3 dalį ir ją išdėstyti taip:
 ### 6 straipsnis. Baigiamosios nuostatos ^s-48bafd5573375ae19baf92d5
 
 
-Iki 2010 m. vasario 16 d. pasibaigus Seimo kontrolieriaus įgaliojimų laikui, Seimas Seimo Pirmininko teikimu priima sprendimą dėl Seimo kontrolieriaus įgaliojimų nutraukimo, o Lietuvos Respublikos Seimo kontrolierių įstatymo 9 straipsnio 4 dalies nuostata netaikoma.
+Iki 2010 m. vasario 16 d. pasibaigus Seimo kontrolieriaus įgaliojimų laikui, Seimas Seimo Pirmininko teikimu priima sprendimą dėl Seimo kontrolieriaus įgaliojimų nutraukimo, o [[latest/TAR.EC01522BCE65|Lietuvos Respublikos Seimo kontrolierių įstatymo 9 straipsnio 4 dalies]] nuostata netaikoma.
 
 
 

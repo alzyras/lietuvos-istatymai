@@ -60,7 +60,7 @@ Vilnius
 1. 3 straipsnio 1 dalyje vietoj skaičiaus „36“ įrašyti skaičių „37“ ir šią dalį išdėstyti taip: ^s-d41ca43575479550e8874adb
 
 
-„1. Šio Įstatymo [[#^s-d41ca43575479550e8874adb|2 straipsnio 1 dalies]] 1–25, 27, 29–37 punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą:
+„1. Šio Įstatymo 2 straipsnio 1 dalies [[#^s-13a3552b0dbc58795d563025|1]]–25, 27, 29–37 punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą:
 
 
 1) nekilnojamąjį daiktą, įskaitant nebaigtą statyti statinį; ^s-13a3552b0dbc58795d563025
@@ -97,7 +97,7 @@ Vilnius
 5 straipsnio 1 dalyje vietoj skaičiaus „36“ įrašyti skaičių „37“ ir šią dalį išdėstyti taip:
 
 
-„1. Šio Įstatymo [[#^s-d41ca43575479550e8874adb|2 straipsnio 1 dalies]] 1–23, 29–37 punktuose nurodyti gyventojai deklaruoja kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija (toliau – deklaracija), gruodžio 31 dieną turimą turtą, pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui.“
+„1. Šio Įstatymo [[#^s-d41ca43575479550e8874adb|2 straipsnio 1 dalies]] [[#^s-13a3552b0dbc58795d563025|1]]–23, 29–37 punktuose nurodyti gyventojai deklaruoja kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija (toliau – deklaracija), gruodžio 31 dieną turimą turtą, pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui.“
 
 
 
@@ -107,7 +107,7 @@ Vilnius
 9 straipsnio 1 dalyje vietoj skaičiaus „36“ įrašyti skaičių „37“ ir šią dalį išdėstyti taip:
 
 
-„1. Šio Įstatymo [[#^s-d41ca43575479550e8874adb|2 straipsnio 1 dalies]] 1–23, 26, 29–37 punktuose nurodyti turtą deklaruoti privalantys gyventojai, vengiantys pateikti deklaracijas laiku arba iš viso jų nepateikę, taip pat šio Įstatymo [[#^s-d41ca43575479550e8874adb|2 straipsnio 1 dalies]] 24, 25 ir 28 punktuose nurodyti turtą deklaruoti privalantys gyventojai, neteisingai nurodę duomenis, atsako administracine ar baudžiamąja tvarka.“
+„1. Šio Įstatymo [[#^s-d41ca43575479550e8874adb|2 straipsnio 1 dalies]] [[#^s-13a3552b0dbc58795d563025|1]]–23, 26, 29–37 punktuose nurodyti turtą deklaruoti privalantys gyventojai, vengiantys pateikti deklaracijas laiku arba iš viso jų nepateikę, taip pat šio Įstatymo [[#^s-d41ca43575479550e8874adb|2 straipsnio 1 dalies]] 24, 25 ir 28 punktuose nurodyti turtą deklaruoti privalantys gyventojai, neteisingai nurodę duomenis, atsako administracine ar baudžiamąja tvarka.“
 
 
 

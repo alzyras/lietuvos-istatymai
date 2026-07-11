@@ -41,7 +41,7 @@ DĖL SUSITARIMO DĖL NETEISĖTOS PREKYBOS JŪRA, ĮGYVENDINANČIO JUNGTINIŲ TAU
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-94b685bed6d01d87301e7b3b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2002 m. birželio 25 d. dekretą Nr. 1823 „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Susitarimą dėl neteisėtos prekybos jūra, įgyvendinantį Jungtinių Tautų Organizacijos konvencijos dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta 17 straipsnį“, ratifikuoja su pareiškimais ir išlyga 1995 m. sausio 31 d. Strasbūre sudarytą Susitarimą dėl neteisėtos prekybos jūra, įgyvendinantį Jungtinių Tautų Organizacijos konvencijos dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta 17 straipsnį, (toliau – Susitarimas).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento [2002 m. birželio 25 d. dekretą Nr. 1823](https://e-tar.lt/portal/lt/legalAct/TAR.02765E0BD478) [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Susitarimą dėl neteisėtos prekybos jūra, įgyvendinantį Jungtinių Tautų Organizacijos konvencijos dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta 17 straipsnį“](https://e-tar.lt/portal/lt/legalAct/TAR.02765E0BD478), ratifikuoja su pareiškimais ir išlyga 1995 m. sausio 31 d. Strasbūre sudarytą Susitarimą dėl neteisėtos prekybos jūra, įgyvendinantį Jungtinių Tautų Organizacijos konvencijos dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta 17 straipsnį, (toliau – Susitarimas).
 
 
 

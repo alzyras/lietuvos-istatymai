@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos pinigų plovimo prevencijos įstatymo 14 stra
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C44837068B55#^s-48fb1e3b921717942e2e176a|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - 2 citatos - PINIGŲ PLOVIMO PREVENCIJOS ĮSTATYMO 14 STRAIPSNIO PAKEITIMO IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.C44837068B55#^s-5eff90ee0e5a3db5bc2e30ee|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - 2 citatos - PINIGŲ PLOVIMO PREVENCIJOS ĮSTATYMO 14 STRAIPSNIO PAKEITIMO IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.C44837068B55#^s-5eff90ee0e5a3db5bc2e30ee|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - PINIGŲ PLOVIMO PREVENCIJOS ĮSTATYMO 14 STRAIPSNIO PAKEITIMO IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMAS

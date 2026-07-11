@@ -72,7 +72,7 @@ Nr. XI-1596, 2011-09-22, Žin., 2011, Nr. 121-5704 (2011-10-08)
 1. Geležinkelių transporto kodeksas taikomas santykiams, atsirandantiems iš naudojimosi viešąja geležinkelių infrastruktūra ir geležinkelių paslaugų įrenginiais, geležinkelių infrastruktūros ir geležinkelių paslaugų įrenginių valdymo, naudojimo ir disponavimo jais, viešosios geležinkelių infrastruktūros priežiūros, keleivių, bagažo ir (ar) krovinių vežimo Lietuvos Respublikos geležinkelių tinkle, geležinkelių transporto rinkos priežiūros, išskyrus šiame straipsnyje nustatytas išimtis. Kiti Lietuvos Respublikos įstatymai nurodytiems santykiams taikomi tiek, kiek šis Kodeksas nenustato kitaip. ^s-a343c19bc8b5e95ddd4436aa
 
 
-2. Vadovaujantis Reglamento (ES) 2021/782 [[#^s-a3f1d58ec079b93dfd87ac23|2 straipsnio 2 dalimi]], [[#^s-3d93511b3bdfa94d77c8da06|Geležinkelių transporto kodeksas, išskyrus šio Kodekso 101, 19 straipsnius]] ir [[#^s-a1fa7511dc324c4060f4080a|33 straipsnio 2 dalį]], netaikomas siauriesiems (750 mm pločio vėžės) geležinkeliams. ^s-0f232119ede182b0d71c0354
+2. Vadovaujantis [Reglamento (ES) 2021/782 2 straipsnio 2 dalimi](https://eur-lex.europa.eu/eli/reg/2021/782/art_2/par_2/oj), Geležinkelių transporto kodeksas, išskyrus šio Kodekso [[#^s-3c962190753235118666959b|101]], [[#^s-3d93511b3bdfa94d77c8da06|19]] straipsnius ir [[#^s-a1fa7511dc324c4060f4080a|33 straipsnio 2 dalį]], netaikomas siauriesiems (750 mm pločio vėžės) geležinkeliams. ^s-0f232119ede182b0d71c0354
 Straipsnio pakeitimai:
 Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
 Nr. XI-1596, 2011-09-22, Žin., 2011, Nr. 121-5704 (2011-10-08)
@@ -98,7 +98,7 @@ Nr. XII-236, 2013-04-18, Žin., 2013, Nr. 46-2243 (2013-05-07)
 ### 5 straipsnis. Teisės aktų pripažinimas netekusiais galios ^s-ad04c2c71d16b834a55f00e3
 
 
-Įsigaliojus Lietuvos Respublikos geležinkelių transporto kodeksui, netenka galios Lietuvos Respublikos geležinkelio transporto kodeksas (Žin., 1996, Nr. 59-1402; 1998, Nr. 105-2896; 2002, Nr. 74-3143).
+Įsigaliojus Lietuvos Respublikos geležinkelių transporto kodeksui, netenka galios [Lietuvos Respublikos geležinkelio transporto kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.179AB2FCFD5D) (Žin., 1996, Nr. 59-1402; 1998, Nr. 105-2896; 2002, Nr. 74-3143).
 
 
 
@@ -493,7 +493,7 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-52. Kitos šiame Kodekse vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) Nr. 913/2010, Įgyvendinimo reglamente (ES) 2015/1100, Įgyvendinimo reglamente (ES) 2017/2177, 2018 m. lapkričio 20 d. Komisijos įgyvendinimo reglamente (ES) 2018/1795, kuriuo pagal Europos Parlamento ir Tarybos direktyvos 2012/34/ES [[#^s-ec8fab4c6ffa8cec00f70ba6|11 straipsnį]] nustatoma ekonominės pusiausvyros įvertinimo tvarka ir kriterijai, Lietuvos Respublikos civiliniame kodekse, [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatyme]], [[latest/TAR.C7A984833333|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme]], [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatyme]], [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme]], [[latest/TAR.3CD1008B88A9|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme]], Lietuvos Respublikos pavojingųjų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų keliais įstatyme, [[latest/0f1ea071a58a11ef90b5ee8931e5ce5e|Lietuvos Respublikos saugos tyrimų įstatyme]], [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatyme]], [[latest/TAR.FBE404535C5B|Lietuvos Respublikos transporto veiklos pagrindų įstatyme]], [[latest/TAR.033D686E8F1B|Lietuvos Respublikos viešojo keleivinio transporto lengvatų įstatyme]], [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatyme]]. ^s-d05c713f0ddc37b1e5752f3a
+52. Kitos šiame Kodekse vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) Nr. 913/2010, Įgyvendinimo [reglamente (ES) 2015/1100](https://eur-lex.europa.eu/eli/reg/2015/1100/oj), Įgyvendinimo [reglamente (ES) 2017/2177](https://eur-lex.europa.eu/eli/reg/2017/2177/oj), 2018 m. lapkričio 20 d. Komisijos įgyvendinimo [reglamente (ES) 2018/1795](https://eur-lex.europa.eu/eli/reg/2018/1795/oj), kuriuo pagal Europos Parlamento ir Tarybos direktyvos 2012/34/ES [[#^s-ec8fab4c6ffa8cec00f70ba6|11 straipsnį]] nustatoma ekonominės pusiausvyros įvertinimo tvarka ir kriterijai, Lietuvos Respublikos civiliniame kodekse, [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatyme]], [[latest/TAR.C7A984833333|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatyme]], [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatyme]], [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme]], [[latest/TAR.3CD1008B88A9|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme]], Lietuvos Respublikos pavojingųjų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų keliais įstatyme, [[latest/0f1ea071a58a11ef90b5ee8931e5ce5e|Lietuvos Respublikos saugos tyrimų įstatyme]], [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatyme]], [[latest/TAR.FBE404535C5B|Lietuvos Respublikos transporto veiklos pagrindų įstatyme]], [[latest/TAR.033D686E8F1B|Lietuvos Respublikos viešojo keleivinio transporto lengvatų įstatyme]], [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatyme]]. ^s-d05c713f0ddc37b1e5752f3a
 Straipsnio dalies pakeitimai:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 Nr. XIII-3419, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24575
@@ -553,7 +553,7 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 2. Atskiros pelno (nuostolių) ataskaitos ir balansai skelbiami viešai Lietuvos Respublikos susisiekimo ministro nustatyta tvarka. ^s-6310148324bf3bc0de532ede
 
 
-3. Specialieji viešųjų keleivių vežimo geležinkelių transportu paslaugų apskaitos reikalavimai nustatyti Reglamente (EB) Nr. 1370/2007 ir šio Kodekso [[#^s-f686a6b08eec9e78570fdc2f|12 straipsnio 10 dalyje]]. ^s-a455216b000e0e0c18d01a11
+3. Specialieji viešųjų keleivių vežimo geležinkelių transportu paslaugų apskaitos reikalavimai nustatyti [Reglamente (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) ir šio Kodekso [[#^s-f686a6b08eec9e78570fdc2f|12 straipsnio 10 dalyje]]. ^s-a455216b000e0e0c18d01a11
 Straipsnio dalies pakeitimai:
 Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 
@@ -686,13 +686,13 @@ Nr. XII-2488, 2016-06-23, paskelbta TAR 2016-07-04, i. k. 2016-18458
 1. Rinkos reguliuotojo funkcijos yra šios: ^s-918fa02a3b595dd126e98e3a
 
 
-1) savo iniciatyva ar pagal pareiškėjų skundus privaloma išankstine ne teismo tvarka nagrinėti viešosios geležinkelių infrastruktūros valdytojo, geležinkelių paslaugų įrenginių operatorių, geležinkelio įmonių (vežėjų), institucijų, įstaigų ar organizacijų veiksmus ir (ar) neveikimą, įskaitant pagal kompetenciją priimtus sprendimus dėl teisės naudotis viešąja geležinkelių infrastruktūra, geležinkelių paslaugų įrenginiais ir juose teikiamomis su geležinkelių transportu susijusiomis pagrindinėmis, papildomomis ir (ar) pagalbinėmis paslaugomis sąlygų geležinkelio įmonėms (vežėjams) apribojimo, Tinklo nuostatų turinio, viešosios geležinkelių infrastruktūros pajėgumų skyrimo, užmokesčio už minimalųjį prieigos paketą apskaičiavimo ir mokėjimo tvarkos, apskaičiuoto ir mokėtino užmokesčio už minimalųjį prieigos paketą dydžio, užmokesčio už minimalųjį prieigos paketą nuolaidų taikymo ar netaikymo, apskaičiuoto užmokesčio už minimalųjį prieigos paketą nuolaidos dydžio, užmokesčio už skirtus, bet nepanaudotus viešosios geležinkelių infrastruktūros pajėgumus, taip pat užmokesčių už naudojimąsi geležinkelių paslaugų įrenginiais ir šiuose įrenginiuose teikiamomis su geležinkelių transportu susijusiomis paslaugomis ir užmokesčių už su geležinkelių transportu susijusias pagalbines ir papildomas paslaugas dydžių, kriterijų, kuriais remiantis yra nustatoma, kad viešosios geležinkelių infrastruktūros pajėgumai ar jų dalis nenaudojami reguliariai, vežimo geležinkelių transportu rinkos segmentų, kuriuose gali būti taikomi antkainiai, sąrašo, geležinkelių transporto eismo valdymo, viešosios geležinkelių infrastruktūros atnaujinimo planavimo ir planinės arba neplaninės viešosios geležinkelių infrastruktūros techninės priežiūros, taip pat viešosios geležinkelių infrastruktūros valdytojo atitikties šio Kodekso 23, 24, 241, 242, 26 ir [[#^s-cf26eef4c7ef041012bfaeca|28 straipsniuose]] nustatytiems reikalavimams, susijusiems su viešosios geležinkelių infrastruktūros valdytojo valdymo, esminių viešosios geležinkelių infrastruktūros valdytojo funkcijų nešališkumu, viešosios geležinkelių infrastruktūros valdytojo funkcijų perdavimu kitiems asmenims, viešosios geležinkelių infrastruktūros valdytojo finansiniu skaidrumu; rinkos reguliuotojas pareiškėjų skundus nagrinėja ir sprendimus dėl jų priima Vyriausybės nustatyta tvarka; ^s-4466b3dedab202a041138a43
+1) savo iniciatyva ar pagal pareiškėjų skundus privaloma išankstine ne teismo tvarka nagrinėti viešosios geležinkelių infrastruktūros valdytojo, geležinkelių paslaugų įrenginių operatorių, geležinkelio įmonių (vežėjų), institucijų, įstaigų ar organizacijų veiksmus ir (ar) neveikimą, įskaitant pagal kompetenciją priimtus sprendimus dėl teisės naudotis viešąja geležinkelių infrastruktūra, geležinkelių paslaugų įrenginiais ir juose teikiamomis su geležinkelių transportu susijusiomis pagrindinėmis, papildomomis ir (ar) pagalbinėmis paslaugomis sąlygų geležinkelio įmonėms (vežėjams) apribojimo, Tinklo nuostatų turinio, viešosios geležinkelių infrastruktūros pajėgumų skyrimo, užmokesčio už minimalųjį prieigos paketą apskaičiavimo ir mokėjimo tvarkos, apskaičiuoto ir mokėtino užmokesčio už minimalųjį prieigos paketą dydžio, užmokesčio už minimalųjį prieigos paketą nuolaidų taikymo ar netaikymo, apskaičiuoto užmokesčio už minimalųjį prieigos paketą nuolaidos dydžio, užmokesčio už skirtus, bet nepanaudotus viešosios geležinkelių infrastruktūros pajėgumus, taip pat užmokesčių už naudojimąsi geležinkelių paslaugų įrenginiais ir šiuose įrenginiuose teikiamomis su geležinkelių transportu susijusiomis paslaugomis ir užmokesčių už su geležinkelių transportu susijusias pagalbines ir papildomas paslaugas dydžių, kriterijų, kuriais remiantis yra nustatoma, kad viešosios geležinkelių infrastruktūros pajėgumai ar jų dalis nenaudojami reguliariai, vežimo geležinkelių transportu rinkos segmentų, kuriuose gali būti taikomi antkainiai, sąrašo, geležinkelių transporto eismo valdymo, viešosios geležinkelių infrastruktūros atnaujinimo planavimo ir planinės arba neplaninės viešosios geležinkelių infrastruktūros techninės priežiūros, taip pat viešosios geležinkelių infrastruktūros valdytojo atitikties šio Kodekso [[#^s-4bf343fb41267a6d62b5302c|23]], [[#^s-d1230434f60f7cf204a55d1f|24]], [[#^s-fe60705ba9020bcbf6a91bfa|241]], [[#^s-c458aafcb6c3edc010c7b8cb|242]], [[#^s-a3c43799d29c0d5b46d18e62|26]] ir [[#^s-cf26eef4c7ef041012bfaeca|28]] straipsniuose nustatytiems reikalavimams, susijusiems su viešosios geležinkelių infrastruktūros valdytojo valdymo, esminių viešosios geležinkelių infrastruktūros valdytojo funkcijų nešališkumu, viešosios geležinkelių infrastruktūros valdytojo funkcijų perdavimu kitiems asmenims, viešosios geležinkelių infrastruktūros valdytojo finansiniu skaidrumu; rinkos reguliuotojas pareiškėjų skundus nagrinėja ir sprendimus dėl jų priima Vyriausybės nustatyta tvarka; ^s-4466b3dedab202a041138a43
 
 
 2) vykdyti viešosios geležinkelių infrastruktūros valdytojo, prireikus geležinkelio įmonių (vežėjų) ir geležinkelių paslaugų įrenginių operatorių apskaitos atskyrimo, viešosios geležinkelių infrastruktūros valdytojo finansinio skaidrumo reikalavimų laikymosi priežiūrą; rinkos reguliuotojas, savo priimtose konsultavimosi su Lietuvos Respublikos geležinkelių transporto paslaugų rinkos dalyviais taisyklėse (toliau – konsultavimosi taisyklės) nustatyta tvarka viešai pasikonsultavęs su Lietuvos Respublikos geležinkelių transporto paslaugų rinkos dalyviais, nustato apskaitos atskyrimo tvarką; apskaitos atskyrimo tvarka gali būti keičiama tik esant objektyviam ir motyvuotam pagrindui ir būtinybei bei įvertinus išlaidas, kurias patirs Lietuvos Respublikos geležinkelių transporto rinkos dalyviai, kurie šios tvarkos laikysis; ^s-c005f51c4da6c84e2831e4dc
 
 
-3) atlikti Lietuvos geležinkelių transporto paslaugų rinkos stebėseną ir, vadovaujantis Reglamentu (ES) Nr. 2015/1100, teikti Europos Komisijai geležinkelių transporto paslaugų rinkos stebėjimo ataskaitas; ^s-f8a82b0ae6a3f068497580ac
+3) atlikti Lietuvos geležinkelių transporto paslaugų rinkos stebėseną ir, vadovaujantis [Reglamentu (ES) Nr. 2015/1100](https://eur-lex.europa.eu/eli/reg/2015/1100/oj), teikti Europos Komisijai geležinkelių transporto paslaugų rinkos stebėjimo ataskaitas; ^s-f8a82b0ae6a3f068497580ac
 
 
 4) bendradarbiauti su Lietuvos Respublikos institucijomis, Europos Sąjungos valstybių narių rinkos reguliuotojais, pagal kompetenciją dalyvauti tarptautinių organizacijų ir Europos Sąjungos institucijų, komitetų ir grupių veikloje; ^s-c9b2e9fe940affa9b517246a
@@ -866,7 +866,7 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 3) Lietuvos valstybei nuosavybės teise priklausantis geležinkelių paslaugų įrenginys, kurį svarstoma uždaryti, nebuvo eksploatuojamas bent 2 metus iš eilės; šiame punkte nurodytas laikotarpis pradedamas skaičiuoti kitą kalendorinę dieną po dienos, kai tam tikras įrenginys buvo paskutinį kartą naudotas su geležinkelių transportu susijusioms pagrindinėms, papildomoms ir (ar) pagalbinėms paslaugoms teikti; ^s-cc87d15b6dfbdce89a4531b2
 
 
-4) atlikus Reglamento (ES) 2017/2177 [[#^s-f917725842d63504e0305832|15 straipsnyje]] nurodytas procedūras neatsiranda norinčių eksploatuoti šį įrenginį. ^s-68664a9c3c5df248b5c5d192
+4) atlikus [Reglamento (ES) 2017/2177 15 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/2177/art_15/oj) nurodytas procedūras neatsiranda norinčių eksploatuoti šį įrenginį. ^s-68664a9c3c5df248b5c5d192
 
 
 7. Uždaryto viešosios geležinkelių infrastruktūros objekto, Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių turto vertės nurašymo sąnaudos nuo sprendimo uždaryti šį objektą įsigaliojimo dienos neskaičiuojamos. ^s-db0da469022286a3a2d33c7c
@@ -1132,7 +1132,7 @@ Nr. XIII-588, 2017-06-30, paskelbta TAR 2017-07-11, i. k. 2017-11957
 17) žala atsirado tiesiogiai ar netiesiogiai dėl nelegalaus bet kokių informacinių sistemų blokavimo, įsilaužimo į jas, operacijų trukdymo, bet kokio tipo kompiuterių viruso. ^s-32e62b705eb17e5a84053da9
 
 
-8. Draudikas yra atleidžiamas nuo išmokos dalies, viršijančios Reglamente (ES) 2021/782 nustatytą sumą, mokėjimo tuo atveju, kai žala atsirado dėl rankinio ir (ar) registruoto bagažo sugadinimo ar praradimo. ^s-fa7b0a4656a77daf9ef15de2
+8. Draudikas yra atleidžiamas nuo išmokos dalies, viršijančios [Reglamente (ES) 2021/782](https://eur-lex.europa.eu/eli/reg/2021/782/oj) nustatytą sumą, mokėjimo tuo atveju, kai žala atsirado dėl rankinio ir (ar) registruoto bagažo sugadinimo ar praradimo. ^s-fa7b0a4656a77daf9ef15de2
 
 
 9. Privalomojo civilinės atsakomybės draudimo taisykles nustato Vyriausybė ar jos įgaliotos institucijos. ^s-8688fa78d1436d240991c125
@@ -1165,7 +1165,7 @@ Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
 3. Geležinkelio įmonė (vežėjas), [[#^s-811c9b96c50e489d4b18d252|šio straipsnio 8 dalyje]] nustatyta tvarka parinkta teikti viešąsias kombinuotojo keleivių vežimo vietiniais maršrutais paslaugas: ^s-15ab53d1f68055ab3cf74e37
 
 
-1) turi turėti Lietuvos Respublikos kelių transporto kodekse nurodytą licenciją, kuria suteikiama teisė vežti keleivius autobusais Lietuvos Respublikoje (jeigu vežimą kelių transporto priemonėmis vykdo pati geležinkelio įmonė (vežėjas), arba užtikrinti, kad tokią licenciją turėtų keleivių vežimą kelių transporto priemonėmis vykdysiantis vežėjas; ^s-e62189c84241eef5fb910f8d
+1) turi turėti [Lietuvos Respublikos kelių transporto kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C) nurodytą licenciją, kuria suteikiama teisė vežti keleivius autobusais Lietuvos Respublikoje (jeigu vežimą kelių transporto priemonėmis vykdo pati geležinkelio įmonė (vežėjas), arba užtikrinti, kad tokią licenciją turėtų keleivių vežimą kelių transporto priemonėmis vykdysiantis vežėjas; ^s-e62189c84241eef5fb910f8d
 
 
 2) turi užtikrinti, kad būtų sukurta ir veiktų bendra keleivių, vežamų kombinuotojo keleivių vežimo vietiniais maršrutais, informavimo ir bilietų sistema, sudarytas tvarkaraštis, kuriame būtų pateikta informacija apie traukinio ir kelių transporto priemonės išvykimo iš pradinės geležinkelio stoties ar kitos geležinkelio įmonės (vežėjo) nurodytos išvykimo vietos ir atvykimo į galinę geležinkelio stotį ar kitą geležinkelio įmonės (vežėjo) nurodytą paskirties vietą data ir laikas; ^s-d43fc4fed00caef79c46e495
@@ -1183,13 +1183,13 @@ Nr. XIII-3417, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24590
 6. Geležinkelio įmonė (vežėjas) pati keleivių vežimą kelių transporto priemonėmis vykdo tik tais atvejais, kai [[latest/9116a35030a011e78397ae072f58c508|Lietuvos Respublikos pirkimų, atliekamų vandentvarkos, energetikos, transporto ar pašto paslaugų srities perkančiųjų subjektų, įstatymo]] nustatyta tvarka paskelbtas pirkimas, kurio sąlygos turi būti suderintos su Viešųjų pirkimų tarnyba, keleivių vežimą kelių transporto priemonėmis vykdysiančiam vežėjui parinkti neįvyksta. ^s-7f54e95d30ca43a69532baa5
 
 
-7. Viešųjų paslaugų teikimo sutarčių turinys, trukmė, jų sudarymo tvarka, geležinkelio įmonės (vežėjo) nuostolių, patirtų teikiant viešąsias paslaugas, kompensavimo tvarka nustatyta Reglamente (EB) Nr. 1370/2007. ^s-c6dd0d543051a8427fea4e8e
+7. Viešųjų paslaugų teikimo sutarčių turinys, trukmė, jų sudarymo tvarka, geležinkelio įmonės (vežėjo) nuostolių, patirtų teikiant viešąsias paslaugas, kompensavimo tvarka nustatyta [Reglamente (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj). ^s-c6dd0d543051a8427fea4e8e
 
 
-8. Vyriausybės įgaliota institucija geležinkelio įmonę (vežėją) viešosioms paslaugoms teikti parenka konkurso būdu arba tiesiogiai sudarydama viešųjų paslaugų teikimo sutartis pagal Reglamente (EB) Nr. 1370/2007 nurodytas sąlygas. ^s-811c9b96c50e489d4b18d252
+8. Vyriausybės įgaliota institucija geležinkelio įmonę (vežėją) viešosioms paslaugoms teikti parenka konkurso būdu arba tiesiogiai sudarydama viešųjų paslaugų teikimo sutartis pagal [Reglamente (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) nurodytas sąlygas. ^s-811c9b96c50e489d4b18d252
 
 
-9. Geležinkelio įmonės (vežėjo) nuostolių, patirtų teikiant viešąsias paslaugas, kompensacijos apskaičiavimo tvarką pagal Reglamentą (EB) Nr. 1370/2007 ir tokių nuostolių kompensacijos planavimo ir mokėjimo tvarką, viešųjų paslaugų poreikio nustatymo kriterijus nustato Vyriausybė ar jos įgaliota institucija. ^s-ba432b3f81134b4b145e3ee0
+9. Geležinkelio įmonės (vežėjo) nuostolių, patirtų teikiant viešąsias paslaugas, kompensacijos apskaičiavimo tvarką pagal [Reglamentą (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) ir tokių nuostolių kompensacijos planavimo ir mokėjimo tvarką, viešųjų paslaugų poreikio nustatymo kriterijus nustato Vyriausybė ar jos įgaliota institucija. ^s-ba432b3f81134b4b145e3ee0
 
 
 10. Valstybės biudžeto lėšos ir (ar) savivaldybių, kurios nusprendė iš dalies finansuoti geležinkelio įmonės (vežėjo) nuostolius, patirtus teikiant viešąsias paslaugas jų teritorijoje, lėšos, skirtos geležinkelio įmonei (vežėjui) nuostoliams, patirtiems teikiant viešąsias paslaugas, kompensuoti, turi būti apskaitomos atskirai ir negali būti naudojamos kitai veiklai. ^s-f686a6b08eec9e78570fdc2f
@@ -1238,7 +1238,7 @@ Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 ### 13 straipsnis. Geležinkelių riedmenų registravimas ^s-9bb5f71df5a4e2aa8db3e1b8
 
 
-1. Geležinkelių riedmenys registruojami ir duomenys apie geležinkelių riedmenis, jų naudotojus, asmenis, atsakingus už geležinkelių riedmenų techninę priežiūrą, kaupiami Europos geležinkelių agentūros tvarkomame Europos transporto priemonių registre, vadovaujantis 2018 m. spalio 25 d. Komisijos įgyvendinimo sprendimu (ES) 2018/1614, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2016/797 [[#^s-d425ba9680b8c8414e18d12f|47 straipsnyje]] nurodytų transporto priemonių registrų specifikacijos ir iš dalies keičiamas ir panaikinamas Komisijos sprendimas 2007/756/EB, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir kitais teisės aktais, reglamentuojančiais geležinkelių riedmenų registravimą ir duomenų tvarkymą. ^s-91dd124566ea92ef4dfe88b6
+1. Geležinkelių riedmenys registruojami ir duomenys apie geležinkelių riedmenis, jų naudotojus, asmenis, atsakingus už geležinkelių riedmenų techninę priežiūrą, kaupiami Europos geležinkelių agentūros tvarkomame Europos transporto priemonių registre, vadovaujantis 2018 m. spalio 25 d. Komisijos įgyvendinimo [sprendimu (ES) 2018/1614](https://eur-lex.europa.eu/eli/dec/2018/1614/oj), kuriuo nustatomos Europos Parlamento ir Tarybos [direktyvos (ES) 2016/797 47 straipsnyje](https://eur-lex.europa.eu/eli/dir/2016/797/art_47/oj) nurodytų transporto priemonių registrų specifikacijos ir iš dalies keičiamas ir panaikinamas Komisijos sprendimas 2007/756/EB, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir kitais teisės aktais, reglamentuojančiais geležinkelių riedmenų registravimą ir duomenų tvarkymą. ^s-91dd124566ea92ef4dfe88b6
 
 
 2. Europos transporto priemonių registre neregistruojami prekiniai ir keleiviniai vagonai, kuriuos ketinama naudoti Europos Sąjungoje kaip bendros 1 520 mm pločio vėžės geležinkelio sistemos vagonus, jeigu leidimai pradėti naudoti šiuos geležinkelių riedmenis pirmą kartą išduoti ar teisė eksploatuoti šiuos geležinkelių riedmenis pirmą kartą suteikta trečiojoje valstybėje įsteigtos organizacijos (asociacijos). ^s-5bcde0021a1409886a2541ac
@@ -1247,7 +1247,7 @@ Nr. XIII-1857, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00093
 3. Geležinkelio įmonė (vežėjas), Lietuvos Respublikoje naudojanti [[#^s-5bcde0021a1409886a2541ac|šio straipsnio 2 dalyje]] nurodytus prekinius ir keleivinius vagonus, raštu neatlygintinai teikia geležinkelių transporto eismo saugos institucijai jos paprašytus duomenis apie šių Europos transporto priemonių registre neregistruotinų geležinkelių riedmenų naudotoją, už geležinkelių riedmenų techninę priežiūrą atsakingą subjektą ir geležinkelių riedmenų naudojimo apribojimus, taip pat kitus papildomus duomenis apie geležinkelių riedmenis, jeigu geležinkelio įmonė (vežėjas) tokius duomenis turi. Duomenys teikiami per 5 darbo dienas nuo geležinkelių transporto eismo saugos institucijos prašymo pateikti duomenis gavimo dienos. ^s-9d295b9a4bcb0b85f55c7100
 
 
-4. Geležinkelių riedmenis Europos transporto priemonių registre registruoja, išregistruoja iš šio registro ir duomenis apie geležinkelių riedmenis, jų naudotojus, asmenis, atsakingus už geležinkelių riedmenų techninę priežiūrą, pakeičia eismo saugos institucija.  Prašymai registruoti, išregistruoti geležinkelių riedmenis ar pakeisti šioje dalyje nurodytus duomenis teikiami, nagrinėjami ir sprendimai pagal juos priimami Komisijos įgyvendinimo sprendimo (ES) 2018/1614 ir susisiekimo ministro nustatyta tvarka. ^s-04a8139424af4def34cc46f7
+4. Geležinkelių riedmenis Europos transporto priemonių registre registruoja, išregistruoja iš šio registro ir duomenis apie geležinkelių riedmenis, jų naudotojus, asmenis, atsakingus už geležinkelių riedmenų techninę priežiūrą, pakeičia eismo saugos institucija.  Prašymai registruoti, išregistruoti geležinkelių riedmenis ar pakeisti šioje dalyje nurodytus duomenis teikiami, nagrinėjami ir sprendimai pagal juos priimami Komisijos įgyvendinimo [sprendimo (ES) 2018/1614](https://eur-lex.europa.eu/eli/dec/2018/1614/oj) ir susisiekimo ministro nustatyta tvarka. ^s-04a8139424af4def34cc46f7
 
 
 Straipsnio pakeitimai:
@@ -1270,7 +1270,7 @@ GELEŽINKELIŲ INFRASTRUKTŪRA
 Geležinkelių infrastruktūros objektai yra šie:
 
 
-1) žemės sklypas, kuriame yra bet kuris kitas šio straipsnio 2–[[#^s-19bc6f11216e6dd68647ee53|10 punktuose]] nurodytas geležinkelių infrastruktūros objektas; ^s-3f1e812532849ff0056cc553
+1) žemės sklypas, kuriame yra bet kuris kitas šio straipsnio [[#^s-8d78c08c93300558cc73fa33|2]]–[[#^s-19bc6f11216e6dd68647ee53|10]] punktuose nurodytas geležinkelių infrastruktūros objektas; ^s-3f1e812532849ff0056cc553
 
 
 2) geležinkelio kelias ir geležinkelio kelio sankasą sudarantys elementai: pylimai, iškasos, drenažo tinklai, mūrinės tranšėjos, pralaidos, atraminės sienelės, apsauginiai želdiniai, peronai ir prekių platformos, įskaitant geležinkelio kelio sankasą sudarančius elementus, esančius keleivių geležinkelio stotyse ir stotelėse bei krovos terminaluose; geležinkelių infrastruktūros valdytojo darbuotojų tarnybinėms reikmėms skirti vidaus keliai ir pėsčiųjų takai, geležinkelio kelių aptvėrimų sienos, tvoros, aptvarai; priešgaisrinės juostos, iešmų, bėgių sankirtų ir panašių objektų šildymo įrenginiai, geležinkelio kelių sankirtos, užtvaros nuo sniego; ^s-8d78c08c93300558cc73fa33
@@ -1524,7 +1524,7 @@ Nr. XV-390, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12144
 4) ne aukciono būdu – asmenims, vykdantiems viešosios geležinkelių infrastruktūros objektų remonto, rekonstrukcijos ar naujų statinių statybos darbus, – viešosios geležinkelių infrastruktūros objektų remonto, rekonstrukcijos ar naujų statinių statybos darbų vykdymo trukmei (į šį terminą įskaitomas nuomos sutarties pratęsimo terminas); ^s-11c683b372f63b41bc8e87ad
 
 
-5) aukciono būdu – asmenims visais kitais atvejais, nenurodytais šios dalies 1–[[#^s-11c683b372f63b41bc8e87ad|4 punktuose]], – ne ilgesniam kaip 20 metų terminui (į šį terminą įskaitomas nuomos sutarties termino pratęsimas). ^s-2c94b4141eea50e437c8482b
+5) aukciono būdu – asmenims visais kitais atvejais, nenurodytais šios dalies [[#^s-1b04d3764aa01e14640eb6ea|1]]–[[#^s-11c683b372f63b41bc8e87ad|4]] punktuose, – ne ilgesniam kaip 20 metų terminui (į šį terminą įskaitomas nuomos sutarties termino pratęsimas). ^s-2c94b4141eea50e437c8482b
 
 
 7. Viešosios geležinkelių infrastruktūros valdytojas, raštu iš anksto per viešosios geležinkelių infrastruktūros objektų nuomos sutartyje nustatytą terminą įspėjęs viešosios geležinkelių infrastruktūros objekto nuomininką, turi teisę nutraukti viešosios geležinkelių infrastruktūros objektų nuomos sutartį prieš terminą, jeigu išnuomoto objekto reikia viešosios geležinkelių infrastruktūros valdytojo reikmėms ir toks nuomos sutarties nutraukimo pagrindas numatytas viešosios geležinkelių infrastruktūros objekto nuomos sutartyje. Viešosios geležinkelių infrastruktūros objekto nuomos sutarties nutraukimo prieš terminą atveju viešosios geležinkelių infrastruktūros objekto nuomininko dėl tokio viešosios geležinkelių infrastruktūros objektų nuomos sutarties nutraukimo patiriami nuostoliai atlyginami teisės aktų nustatyta tvarka. ^s-33900abcc28aeb9226220dfa
@@ -1563,7 +1563,7 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-2) skiriamų valstybės biudžeto lėšų paskirstymo struktūra, pagal kurią skirstomos lėšos už viešosios geležinkelių infrastruktūros valdytojo teikiamas paslaugas (numatant atskirai lėšas už minimalųjį prieigos paketą ir lėšas už Lietuvos valstybei nuosavybės teise priklausančiuose geležinkelių paslaugų įrenginiuose, valdomuose viešosios geležinkelių infrastruktūros valdytojo, teikiamas ir šio Kodekso [[#^s-c2eb826bb84f27e295bffcdf|303 straipsnio]] 2 ir [[#^s-89f97aa68d6857c9f74b9522|3 dalyse]] nurodytas paslaugas), viešosios geležinkelių infrastruktūros techninę priežiūrą, atnaujinimą ir modernizavimą (prireikus – ir naujos viešosios geležinkelių infrastruktūros statybą) ir už tai, kad būtų atlikti uždelsti viešosios geležinkelių infrastruktūros techninės priežiūros, viešosios geležinkelių infrastruktūros atnaujinimo ir modernizavimo darbai (prireikus gali būti įtraukta skiriamų valstybės biudžeto lėšų paskirstymo naujai viešajai geležinkelių infrastruktūrai struktūra); ^s-7e5250a0893051fda05b7a42
+2) skiriamų valstybės biudžeto lėšų paskirstymo struktūra, pagal kurią skirstomos lėšos už viešosios geležinkelių infrastruktūros valdytojo teikiamas paslaugas (numatant atskirai lėšas už minimalųjį prieigos paketą ir lėšas už Lietuvos valstybei nuosavybės teise priklausančiuose geležinkelių paslaugų įrenginiuose, valdomuose viešosios geležinkelių infrastruktūros valdytojo, teikiamas ir šio Kodekso [[#^s-c2eb826bb84f27e295bffcdf|303 straipsnio]] [[#^s-0a2c5aa53e16ab6285199c36|2]] ir [[#^s-1ea81567053389b3c8851e93|3]] dalyse nurodytas paslaugas), viešosios geležinkelių infrastruktūros techninę priežiūrą, atnaujinimą ir modernizavimą (prireikus – ir naujos viešosios geležinkelių infrastruktūros statybą) ir už tai, kad būtų atlikti uždelsti viešosios geležinkelių infrastruktūros techninės priežiūros, viešosios geležinkelių infrastruktūros atnaujinimo ir modernizavimo darbai (prireikus gali būti įtraukta skiriamų valstybės biudžeto lėšų paskirstymo naujai viešajai geležinkelių infrastruktūrai struktūra); ^s-7e5250a0893051fda05b7a42
 Straipsnio punkto pakeitimai:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
@@ -1758,7 +1758,7 @@ Nr. XV-390, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12144
 9. [[#^s-6cd724e7524f7974d0f0234f|Šio straipsnio 8 dalyje]] nurodyto veiklos rezultato apskaičiavimo ir jo panaudojimo tvarkos aprašą tvirtina susiekimo ministras. ^s-7568688cbef6bab02ae6d2f4
 
 
-10. Viešosios geležinkelių infrastruktūros valdytojo dividendai skirstomi ir mokami Akcinių bendrovių įstatymo nustatyta tvarka, išskyrus šio straipsnio 11 ir [[#^s-624016001b4e9ef5319442d0|12 dalyse]] nustatytas išimtis. ^s-78521418b476f938d68e5828
+10. Viešosios geležinkelių infrastruktūros valdytojo dividendai skirstomi ir mokami Akcinių bendrovių įstatymo nustatyta tvarka, išskyrus šio straipsnio 11 ir 12 dalyse nustatytas išimtis. ^s-78521418b476f938d68e5828
 
 
 11. Viešosios geležinkelių infrastruktūros valdytojo dividendai, paskirti atsižvelgiant į [[#^s-7568688cbef6bab02ae6d2f4|šio straipsnio 9 dalies]] nustatyta tvarka apskaičiuotą rezultatą, negali būti išmokėti viešosios geležinkelių infrastruktūros valdytojo akcininkui, jeigu akcininkas yra juridinis asmuo, sudarantis vertikaliosios integracijos įmonių grupę ir kontroliuojantis viešosios geležinkelių infrastruktūros valdytoją. ^s-5ac364c61fc83ec7dde4664b
@@ -1857,7 +1857,7 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 4. Viešosios geležinkelių infrastruktūros valdytojas turi kiekvienais metais peržiūrėti Tinklo nuostatų turinį ir prireikus juos atnaujinti. ^s-034b71909b9ebb4030c952cb
 
 
-5. Tinklo nuostatų turinio reikalavimus, be kita ko, vadovaudamasis Reglamente (ES) 2017/2177 ir Reglamente (EB) 2016/545 nustatytais Tinko nuostatų reikalavimais, nustato rinkos reguliuotojas. ^s-20d344515df9def6e604b630
+5. Tinklo nuostatų turinio reikalavimus, be kita ko, vadovaudamasis [Reglamente (ES) 2017/2177](https://eur-lex.europa.eu/eli/reg/2017/2177/oj) ir [Reglamente (EB) 2016/545](https://eur-lex.europa.eu/eli/reg/2016/545/oj) nustatytais Tinko nuostatų reikalavimais, nustato rinkos reguliuotojas. ^s-20d344515df9def6e604b630
 
 
 Papildyta straipsniu:
@@ -1877,7 +1877,7 @@ Nr. XV-390, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12144
 
 
 
-3. Užmokestis už minimalųjį prieigos paketą turi būti lygus išlaidoms, tiesiogiai patiriamoms dėl traukinių eksploatavimo, išskyrus šio straipsnio 4 ir [[#^s-98419b929db44ad11753bd2a|5 dalyse]] numatytas išimtis. Išlaidų, tiesiogiai patiriamų dėl traukinių eksploatavimo, apskaičiavimo tvarkos aprašą, suderinęs su rinkos reguliuotoju, tvirtina viešosios geležinkelių infrastruktūros valdytojas ir tiek, kiek ji nėra susijusi su viešosios geležinkelių infrastruktūros valdytojo komercinių ir profesinių paslapčių apsauga, ją nurodo Tinklo nuostatuose. Viešosios geležinkelių infrastruktūros valdytojo nustatyta išlaidų, tiesiogiai patiriamų dėl traukinių eksploatavimo, apskaičiavimo tvarka ne rečiau kaip kas 5 metus atnaujinama pagal geriausios tarptautinės patirties principus. ^s-829cf0f5f90ab65e971c831e
+3. Užmokestis už minimalųjį prieigos paketą turi būti lygus išlaidoms, tiesiogiai patiriamoms dėl traukinių eksploatavimo, išskyrus šio straipsnio [[#^s-8ec84a0bb345ed9f935005e6|4]] ir [[#^s-98419b929db44ad11753bd2a|5]] dalyse numatytas išimtis. Išlaidų, tiesiogiai patiriamų dėl traukinių eksploatavimo, apskaičiavimo tvarkos aprašą, suderinęs su rinkos reguliuotoju, tvirtina viešosios geležinkelių infrastruktūros valdytojas ir tiek, kiek ji nėra susijusi su viešosios geležinkelių infrastruktūros valdytojo komercinių ir profesinių paslapčių apsauga, ją nurodo Tinklo nuostatuose. Viešosios geležinkelių infrastruktūros valdytojo nustatyta išlaidų, tiesiogiai patiriamų dėl traukinių eksploatavimo, apskaičiavimo tvarka ne rečiau kaip kas 5 metus atnaujinama pagal geriausios tarptautinės patirties principus. ^s-829cf0f5f90ab65e971c831e
 
 
 4. Užmokestis už minimalųjį prieigos paketą gali būti didesnis negu išlaidos, tiesiogiai patiriamos dėl traukinių eksploatavimo, tačiau negali viršyti viešosios geležinkelių infrastruktūros valdytojo išlaidų, patirtų vykdant šio Kodekso [[#^s-d1230434f60f7cf204a55d1f|24 straipsnyje]] nurodytas viešosios geležinkelių infrastruktūros valdytojo funkcijas, šiais atvejais: ^s-8ec84a0bb345ed9f935005e6
@@ -2064,7 +2064,7 @@ Nr. XV-390, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12144
 3. Planuodamas ilgalaikę teisės aktų nustatyta tvarka pripažintos ypatingos valstybinės svarbos viešosios geležinkelių infrastruktūros techninę priežiūrą ir (arba) viešosios geležinkelių infrastruktūros atnaujinimą, viešosios geležinkelių infrastruktūros valdytojas konsultuojasi su pareiškėjais ir užtikrina, kad būtų kuo labiau atsižvelgta į pareiškėjų pastabas. Viešosios geležinkelių infrastruktūros valdytojas viešosios geležinkelių infrastruktūros techninės priežiūros darbų tvarkaraštį sudaro laikydamasis nediskriminavimo principo. ^s-a87236ab39ed1af8669fad19
 
 
-4. Geležinkelių transporto eismas organizuojamas ir valdomas 2019 m. gegužės 16 d. Komisijos įgyvendinimo reglamento (ES) 2019/773 dėl Europos Sąjungos geležinkelių sistemos traukinių eismo organizavimo ir valdymo posistemio sąveikos techninės specifikacijos, kuriuo panaikinamas Sprendimas 2012/757/ES, šiame įgyvendinimo reglamente nustatytais atvejais viešosios geležinkelių infrastruktūros valdytojo ir susisiekimo ministro nustatyta tvarka. ^s-4a65dc48e80082d8d7f85117
+4. Geležinkelių transporto eismas organizuojamas ir valdomas 2019 m. gegužės 16 d. Komisijos įgyvendinimo [reglamento (ES) 2019/773](https://eur-lex.europa.eu/eli/reg/2019/773/oj) dėl Europos Sąjungos geležinkelių sistemos traukinių eismo organizavimo ir valdymo posistemio sąveikos techninės specifikacijos, kuriuo panaikinamas Sprendimas 2012/757/ES, šiame įgyvendinimo reglamente nustatytais atvejais viešosios geležinkelių infrastruktūros valdytojo ir susisiekimo ministro nustatyta tvarka. ^s-4a65dc48e80082d8d7f85117
 Straipsnio dalies pakeitimai:
 Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 
@@ -2097,7 +2097,7 @@ Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
 ### 28 straipsnis. Naudojimosi viešąja geležinkelių infrastruktūra sąlygos ^s-cf26eef4c7ef041012bfaeca
 
 
-1. Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje įregistruota geležinkelio įmonė (vežėjas), kuriai skirti viešosios geležinkelių infrastruktūros pajėgumai, arba pareiškėjo interesais veikianti geležinkelio įmonė (vežėjas), turinti galiojančius geležinkelio įmonės (vežėjo) licenciją ir bendrąjį saugos sertifikatą ir sudariusi su viešosios geležinkelių infrastruktūros valdytoju naudojimosi viešąja geležinkelių infrastruktūra sutartį arba šią sutartį ir sutartį dėl viešosios geležinkelių infrastruktūros pajėgumų skyrimo, turi teisę naudotis viešąja geležinkelių infrastruktūra, išskyrus šio straipsnio 2 ir [[#^s-d381f5af2bd1d4e0a4056e5c|5 dalyse]] nustatytas išimtis. ^s-72d8fe06c8c985355aa87217
+1. Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje įregistruota geležinkelio įmonė (vežėjas), kuriai skirti viešosios geležinkelių infrastruktūros pajėgumai, arba pareiškėjo interesais veikianti geležinkelio įmonė (vežėjas), turinti galiojančius geležinkelio įmonės (vežėjo) licenciją ir bendrąjį saugos sertifikatą ir sudariusi su viešosios geležinkelių infrastruktūros valdytoju naudojimosi viešąja geležinkelių infrastruktūra sutartį arba šią sutartį ir sutartį dėl viešosios geležinkelių infrastruktūros pajėgumų skyrimo, turi teisę naudotis viešąja geležinkelių infrastruktūra, išskyrus šio straipsnio [[#^s-b8af05b573eb82670e8785ef|2]] ir [[#^s-d381f5af2bd1d4e0a4056e5c|5]] dalyse nustatytas išimtis. ^s-72d8fe06c8c985355aa87217
 Straipsnio dalies pakeitimai:
 Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 
@@ -2118,7 +2118,7 @@ Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 5. Prieiga prie viešosios geležinkelių infrastruktūros vežimo geležinkelių transportu paslaugoms teikti iš trečiosios valstybės ir į ją gali būti apribota, jeigu yra tarpvalstybinio susisiekimo geležinkelių transportu su ta trečiąja valstybe konkurencijos iškraipymų, įskaitant iškraipymus, atsiradusius dėl nediskriminacinės prieigos prie geležinkelių infrastruktūros ir susijusių paslaugų toje trečiojoje valstybėje nebuvimo. Sprendimą dėl naudojimosi viešąja geležinkelių infrastruktūra vežimo geležinkelių transportu paslaugoms teikti iš trečiosios valstybės ir į ją apribojimo priima Vyriausybė savo nustatyta tvarka. Toks sprendimas priimamas tik tuo atveju, jeigu Europos Komisija ir kitos Europos Sąjungos valstybės narės per tris mėnesius nuo Vyriausybės sprendimo projekto pateikimo Europos Komisijai ir kitoms Europos Sąjungos valstybėms narėms dienos neprieštarauja dėl numatomo naudojimosi viešąja geležinkelių infrastruktūra vežimo geležinkelių transportu paslaugoms teikti iš trečiosios valstybės ir į ją apribojimo. ^s-d381f5af2bd1d4e0a4056e5c
 
 
-6. Viešosios geležinkelių infrastruktūros valdytojas Tinklo nuostatuose nustatyta tvarka vykdo šio straipsnio 1 ir [[#^s-b8af05b573eb82670e8785ef|2 dalyse]] nustatytų naudojimosi viešąja geležinkelių infrastruktūra sąlygų laikymosi kontrolę. [[#^s-b8af05b573eb82670e8785ef|Šio straipsnio 2 dalyje]] nustatytų naudojimosi viešąja geležinkelių infrastruktūra sąlygų laikymosi kontrolę viešosios geležinkelių infrastruktūros valdytojas vykdo bendradarbiaudamas su Lietuvos Respublikos muitine ir Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos tarpusavio susitarimų nustatyta tvarka. ^s-2ef791b51b1ee4a0e1ffd1e9
+6. Viešosios geležinkelių infrastruktūros valdytojas Tinklo nuostatuose nustatyta tvarka vykdo šio straipsnio [[#^s-72d8fe06c8c985355aa87217|1]] ir [[#^s-b8af05b573eb82670e8785ef|2]] dalyse nustatytų naudojimosi viešąja geležinkelių infrastruktūra sąlygų laikymosi kontrolę. [[#^s-b8af05b573eb82670e8785ef|Šio straipsnio 2 dalyje]] nustatytų naudojimosi viešąja geležinkelių infrastruktūra sąlygų laikymosi kontrolę viešosios geležinkelių infrastruktūros valdytojas vykdo bendradarbiaudamas su Lietuvos Respublikos muitine ir Valstybės sienos apsaugos tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos tarpusavio susitarimų nustatyta tvarka. ^s-2ef791b51b1ee4a0e1ffd1e9
 Straipsnio pakeitimai:
 Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
 Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
@@ -2161,7 +2161,7 @@ Nr. XIII-2254, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10924
 9. Naudojimosi viešąja geležinkelių infrastruktūra sutarties, sutarties dėl viešosios geležinkelių infrastruktūros pajėgumų skyrimo turinio reikalavimus ir šioms sutartims sudaryti būtinų dokumentų sąrašą Tinklo nuostatuose nurodo viešosios geležinkelių infrastruktūros valdytojas. ^s-98bd77492d2e470d065c0baa
 
 
-10. Viešosios geležinkelių infrastruktūros valdytojas ir pareiškėjas gali sudaryti ir bendrąjį susitarimą, kai viešosios geležinkelių infrastruktūros pajėgumus reikia skirti ilgesniam kaip vieno tarnybinio traukinių tvarkaraščio galiojimo laikotarpiui. Bendruoju susitarimu siekiama patenkinti pagrįstus pareiškėjų komercinius poreikius. Bendrajame susitarime apibūdinami viešosios geležinkelių infrastruktūros pajėgumai, tačiau juose nenustatomas tikslus viešosios geležinkelių infrastruktūros pajėgumų naudojimo laikas. Bendrieji susitarimai sudaromi vadovaujantis Reglamentu (ES) 2016/545. ^s-518c8b75e62bdebf8b31d11d
+10. Viešosios geležinkelių infrastruktūros valdytojas ir pareiškėjas gali sudaryti ir bendrąjį susitarimą, kai viešosios geležinkelių infrastruktūros pajėgumus reikia skirti ilgesniam kaip vieno tarnybinio traukinių tvarkaraščio galiojimo laikotarpiui. Bendruoju susitarimu siekiama patenkinti pagrįstus pareiškėjų komercinius poreikius. Bendrajame susitarime apibūdinami viešosios geležinkelių infrastruktūros pajėgumai, tačiau juose nenustatomas tikslus viešosios geležinkelių infrastruktūros pajėgumų naudojimo laikas. Bendrieji susitarimai sudaromi vadovaujantis [Reglamentu (ES) 2016/545](https://eur-lex.europa.eu/eli/reg/2016/545/oj). ^s-518c8b75e62bdebf8b31d11d
 
 
 11. Bendrasis susitarimas paprastai sudaromas ne ilgiau kaip 5 metams, numatant galimybę jį sudariusių šalių susitarimu pratęsti tokios pat trukmės laikotarpiui, išskyrus [[#^s-82b5db8d30ab9ab69c97bca0|šio straipsnio 12 dalyje]] nurodytus atvejus. Kiekvienas ilgesnis kaip 5 metų bendrojo susitarimo galiojimo laikotarpis turi būti pagrįstas atsižvelgiant į pareiškėjo sudarytas vežimo sutartis, investicijas ir rizikos veiksnius, susijusius su keleivių, bagažo ir (ar) krovinių vežimo geležinkelių transportu paslaugų teikimo veikla. Šis reikalavimas taikomas ir tuo atveju, kai bendrasis susitarimas, sudarytas 5 metams, pratęsiamas tokios pat trukmės laikotarpiui. ^s-21acb0ca5a383c60dd2514e3
@@ -2176,7 +2176,7 @@ Nr. XIII-2254, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10924
 14. Viešosios geležinkelių infrastruktūros valdytojas, pasitaręs su suinteresuotosiomis šalimis, jeigu yra alternatyvių maršrutų, gali nuspręsti, kad tam tikra viešosios geležinkelių infrastruktūros dalis bus naudojama tam tikroms vežimo geležinkelių transportu paslaugoms teikti. Tokiu atveju viešosios geležinkelių infrastruktūros valdytojo siūlymu susisiekimo ministras gali suteikti pirmumo teisę gauti viešosios geležinkelių infrastruktūros pajėgumus tam tikroms vežimo geležinkelių transportu paslaugoms teikti. Šią viešąją geležinkelių infrastruktūrą galima naudoti ir kitoms vežimo geležinkelių transportu paslaugoms teikti, jeigu yra laisvų viešosios geležinkelių infrastruktūros pajėgumų. Viešosios geležinkelių infrastruktūros valdytojo sprendimas tam tikrą viešosios geležinkelių infrastruktūros dalį naudoti tik tam tikroms vežimo geležinkelių transportu paslaugoms teikti per 5 darbo dienas nuo šio sprendimo priėmimo dienos nurodomas Tinklo nuostatuose. ^s-95015dedc3f294467d141b4b
 
 
-15. Šio straipsnio ir šio Kodekso 291–[[#^s-9ebe894f38b1e8f41f819b48|299 straipsnių]] nuostatos, reglamentuojančios viešosios geležinkelių infrastruktūros pajėgumų skyrimą geležinkelio įmonėms (vežėjams), išskyrus nuostatas, reglamentuojančias bendrųjų susitarimų sudarymą, mutatis mutandis taikomos, kai paraišką skirti viešosios geležinkelių infrastruktūros pajėgumus teikia šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodytos įmonės, išskyrus [[#^s-648a28b9f64d4002354fc9ad|šio straipsnio 16 dalyje]] nustatytą atvejį. ^s-630bf6ac20d70acc574f763c
+15. Šio straipsnio ir šio Kodekso [[#^s-8773b91e8c9dd36b2f6d0c20|291]]–[[#^s-9ebe894f38b1e8f41f819b48|299]] straipsnių nuostatos, reglamentuojančios viešosios geležinkelių infrastruktūros pajėgumų skyrimą geležinkelio įmonėms (vežėjams), išskyrus nuostatas, reglamentuojančias bendrųjų susitarimų sudarymą, mutatis mutandis taikomos, kai paraišką skirti viešosios geležinkelių infrastruktūros pajėgumus teikia šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodytos įmonės, išskyrus [[#^s-648a28b9f64d4002354fc9ad|šio straipsnio 16 dalyje]] nustatytą atvejį. ^s-630bf6ac20d70acc574f763c
 
 
 16. Įmonėms, kurios važiuoja į viešosios geležinkelių infrastruktūros objektų statybos, remonto ir (ar) techninės priežiūros darbų atlikimo vietą ir iš jos, viešosios geležinkelių infrastruktūros pajėgumai suteikiami viešosios geležinkelių infrastruktūros valdytojo parengta ir Tinklo nuostatuose nurodyta tvarka panaudojant traukinio linijas ir (ar) laiko intervalus, įtrauktus į tarnybinį traukinių tvarkaraštį. ^s-648a28b9f64d4002354fc9ad
@@ -2212,7 +2212,7 @@ Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 6. Viešosios geležinkelių infrastruktūros valdytojas, nustatęs, kad paraiškoje skirti viešosios geležinkelių infrastruktūros pajėgumus nurodyti ne visi reikiami duomenys ir (ar) pateikti ne visi dokumentai arba pateiktų dokumentų kopijos nepatvirtintos teisės aktų, reglamentuojančių dokumentų kopijų tvirtinimą, nustatyta tvarka, apie nustatytus trūkumus raštu per 5 darbo dienas nuo paraiškos skirti viešosios geležinkelių infrastruktūros pajėgumus gavimo dienos praneša pareiškėjui ir nustato ne trumpesnį kaip 10 darbo dienų terminą nustatytiems trūkumams pašalinti. ^s-2bbdd9fd63f7c3c866686a32
 
 
-7. Viešosios geležinkelių infrastruktūros valdytojas ne vėliau kaip per 20 darbo dienų nuo prašymo sudaryti naudojimosi viešąja geležinkelių infrastruktūra sutartį gavimo dienos [[latest/TAR.57E0E8B29108#^s-4665a48e3af645e2423924d9|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 13 straipsnio]] 1 ir [[#^s-15488f68284af6bd99b40879|2 dalyse]] nustatytais atvejais ir tvarka kreipiasi dėl naudojimosi viešąja geležinkelių infrastruktūra sutarties, pagal kurią geležinkelio įmonei (vežėjui) suteikus prieigą prie Vyriausybės nustatytų konkrečių nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto galėtų kilti rizika ar grėsmė nacionaliniam saugumui, atitikties nacionalinio saugumo interesams patikros. ^s-e235cda3d90154bb5c540dda
+7. Viešosios geležinkelių infrastruktūros valdytojas ne vėliau kaip per 20 darbo dienų nuo prašymo sudaryti naudojimosi viešąja geležinkelių infrastruktūra sutartį gavimo dienos [[latest/TAR.57E0E8B29108#^s-4665a48e3af645e2423924d9|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 13 straipsnio]] [[latest/TAR.57E0E8B29108#^s-43b0b1fa29b6558ee64e7c26|1]] ir [[latest/TAR.57E0E8B29108#^s-8a7618a45cb53ec9e3fef55b|2]] dalyse nustatytais atvejais ir tvarka kreipiasi dėl naudojimosi viešąja geležinkelių infrastruktūra sutarties, pagal kurią geležinkelio įmonei (vežėjui) suteikus prieigą prie Vyriausybės nustatytų konkrečių nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto galėtų kilti rizika ar grėsmė nacionaliniam saugumui, atitikties nacionalinio saugumo interesams patikros. ^s-e235cda3d90154bb5c540dda
 
 
 8. Viešosios geležinkelių infrastruktūros valdytojas priima sprendimą atsisakyti nagrinėti pateiktą paraišką skirti viešosios geležinkelių infrastruktūros pajėgumus, jeigu paraiškoje nurodyti ne visi reikiami duomenys ir (ar) pateikti ne visi dokumentai arba pateiktų dokumentų kopijos nepatvirtintos teisės aktų, reglamentuojančių dokumentų kopijų tvirtinimą, nustatyta tvarka ir pareiškėjas nepašalino nustatytų trūkumų per viešosios geležinkelių infrastruktūros valdytojo nustatytą terminą. ^s-eda47dd650789ef0fe8c2385
@@ -2385,10 +2385,10 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 4. Pareiškėjas, kuris nėra geležinkelio įmonė (vežėjas), kartu su paskutinės minutės paraiška arba pavėluota paraiška arba likus ne mažiau kaip 3 mėnesiams iki tarnybinio traukinių tvarkaraščio, kurio galiojimo laikotarpiu būtų naudojami šiomis paraiškomis prašomi skirti viešosios geležinkelių infrastruktūros pajėgumai, įsigaliojimo dienos nurodo jo interesais veiksiančią geležinkelio įmonę (vežėją). ^s-94190d31e6bb7eb1b035227c
 
 
-5. Pareiškėjas, kuriam skirti viešosios geležinkelių infrastruktūros pajėgumai buvo panaikinti vienu iš šio Kodekso [[#^s-f540f2ed3ca520b212bdcf2a|296 straipsnio 5 dalies]] 1, 2 ar 4 punktuose nustatytų pagrindų, neturi teisės teikti paskutinės minutės paraiškų dėl šiais atvejais panaikintų viešosios geležinkelių infrastruktūros pajėgumų, kurie paskelbti laisvais, skyrimo iki galiojančio tarnybinio traukinių tvarkaraščio galiojimo pabaigos. ^s-51ceee431d3a7de914df2854
+5. Pareiškėjas, kuriam skirti viešosios geležinkelių infrastruktūros pajėgumai buvo panaikinti vienu iš šio Kodekso [[#^s-f540f2ed3ca520b212bdcf2a|296 straipsnio 5 dalies]] [[#^s-479da854290524c28c1d03fd|1]], [[#^s-c5236a4d35606170888d6adc|2]] ar [[#^s-8ea37466714058cb53b4c496|4]] punktuose nustatytų pagrindų, neturi teisės teikti paskutinės minutės paraiškų dėl šiais atvejais panaikintų viešosios geležinkelių infrastruktūros pajėgumų, kurie paskelbti laisvais, skyrimo iki galiojančio tarnybinio traukinių tvarkaraščio galiojimo pabaigos. ^s-51ceee431d3a7de914df2854
 
 
-6. Viešosios geležinkelių infrastruktūros valdytojas paskutinės minutės paraiškų ir pavėluotų paraiškų, pateiktų nesilaikant šio straipsnio 1 ir [[#^s-9ec1d9033b086b910c59c358|2 dalyse]] nustatytų terminų, išskyrus atvejį, kai pateikiama pavėluota paraiška kariniam kroviniui geležinkelių transportu vežti, nenagrinėja ir šias paraiškas kartu su pateiktais dokumentais, jeigu jie buvo pateikti, kitą darbo dieną nuo jų gavimo dienos grąžina pareiškėjui. ^s-022984c9632ed07d1d1efedc
+6. Viešosios geležinkelių infrastruktūros valdytojas paskutinės minutės paraiškų ir pavėluotų paraiškų, pateiktų nesilaikant šio straipsnio [[#^s-b1dcd90826f84f7ad0ebd0e5|1]] ir [[#^s-9ec1d9033b086b910c59c358|2]] dalyse nustatytų terminų, išskyrus atvejį, kai pateikiama pavėluota paraiška kariniam kroviniui geležinkelių transportu vežti, nenagrinėja ir šias paraiškas kartu su pateiktais dokumentais, jeigu jie buvo pateikti, kitą darbo dieną nuo jų gavimo dienos grąžina pareiškėjui. ^s-022984c9632ed07d1d1efedc
 
 
 7. Viešosios geležinkelių infrastruktūros valdytojas, nustatęs, kad paskutinės minutės paraiškoje nurodyti ne visi reikiami duomenys ir (ar) kartu su paskutinės minutės paraiška pateikti ne visi reikiami dokumentai, apie šiuos trūkumus raštu arba elektroninių ryšių priemonėmis kitą darbo dieną po paskutinės minutės paraiškos gavimo dienos praneša pareiškėjui ir nustato ne ilgesnį kaip vienos darbo dienos terminą nustatytiems trūkumams pašalinti. Jeigu šie trūkumai per viešosios geležinkelių infrastruktūros valdytojo nustatytą terminą nepašalinami, viešosios geležinkelių infrastruktūros valdytojas paskutinės minutės paraiškos vertinimo neatlieka ir šią paraišką kartu su pateiktais dokumentais, jeigu jie buvo pateikti, kitą darbo dieną po nustatytų trūkumų pašalinimo termino pabaigos grąžina pareiškėjui. ^s-f430dacd4a403afb99b42587
@@ -2426,7 +2426,7 @@ Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 2. Sprendimą atsisakyti skirti viešosios geležinkelių infrastruktūros pajėgumus viešosios geležinkelių infrastruktūros valdytojas priima, jeigu: ^s-b043a65a02eb4022a32766cf
 
 
-1) geležinkelio įmonė (vežėjas) nepateikia viešosios geležinkelių infrastruktūros valdytojui dokumentų, pagrindžiančių, kad bus laikomasi šio Kodekso [[#^s-cf26eef4c7ef041012bfaeca|28 straipsnio]] 1 ir [[#^s-b043a65a02eb4022a32766cf|2 dalyse]] nustatytų naudojimosi viešąja geležinkelių infrastruktūra sąlygų; ^s-9bcd43cdf5e33eb73175f593
+1) geležinkelio įmonė (vežėjas) nepateikia viešosios geležinkelių infrastruktūros valdytojui dokumentų, pagrindžiančių, kad bus laikomasi šio Kodekso [[#^s-cf26eef4c7ef041012bfaeca|28 straipsnio]] [[#^s-72d8fe06c8c985355aa87217|1]] ir [[#^s-b8af05b573eb82670e8785ef|2]] dalyse nustatytų naudojimosi viešąja geležinkelių infrastruktūra sąlygų; ^s-9bcd43cdf5e33eb73175f593
 
 
 2) paaiškėja, kad dėl šio Kodekso [[#^s-0e7ded1c786bc3efcd5eb7dc|29 straipsnio 7 dalyje]] nurodytos sąlygos naudojimosi viešąja geležinkelių infrastruktūra sutartis negali būti sudaryta arba kad atlikus pareiškėjo, kuris pateikė paraišką skirti viešosios geležinkelių infrastruktūros pajėgumus, atitikties nacionalinio saugumo interesams patikrą pagal [[latest/TAR.57E0E8B29108#^s-d57185152a2d0b2bd7ecc889|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 12 straipsnio]] 1 ir (ar) [[#^s-654ceb6b8cf18744d295e45a|3 dalis]] jis buvo pripažintas neatitinkančiu nacionalinio saugumo interesų; ^s-8180cd5b652e0f2b06e33637
@@ -2459,7 +2459,7 @@ Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 11) šio Kodekso [[#^s-d2d3be7626667e2950f7fc03|29 straipsnio 5 dalyje]] nustatytu atveju su pareiškėju, kuris nėra geležinkelio įmonė (vežėjas), nesudaroma sutartis dėl viešosios geležinkelių infrastruktūros pajėgumų skyrimo. ^s-24ee30ad1d4904c2c4fe9e6a
 
 
-3. Sprendimas atsisakyti skirti viešosios geležinkelių infrastruktūros pajėgumus pagal paskutinės minutės paraišką priimamas [[#^s-b043a65a02eb4022a32766cf|šio straipsnio 2 dalies]] 1–3 ir 5–8 punktuose nurodytais atvejais, taip pat jeigu: ^s-654ceb6b8cf18744d295e45a
+3. Sprendimas atsisakyti skirti viešosios geležinkelių infrastruktūros pajėgumus pagal paskutinės minutės paraišką priimamas [[#^s-b043a65a02eb4022a32766cf|šio straipsnio 2 dalies]] [[#^s-6b1e720985c545ce58d34a24|1]]–[[#^s-c75e43143c944143b4aa92c7|3]] ir 5–8 punktuose nurodytais atvejais, taip pat jeigu: ^s-654ceb6b8cf18744d295e45a
 
 
 1) pareiškėjo prašomi skirti viešosios geležinkelių infrastruktūros pajėgumai, vadovaujantis šio Kodekso [[#^s-bdf051a527b7b98168467c09|295 straipsnio 8 dalimi]], buvo skirti kitam pareiškėjui; ^s-6b1e720985c545ce58d34a24
@@ -2471,7 +2471,7 @@ Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 3) šio Kodekso [[#^s-d2d3be7626667e2950f7fc03|29 straipsnio 5 dalyje]] nustatytu atveju su pareiškėju, kuris nėra geležinkelio įmonė (vežėjas), nesudaroma sutartis dėl viešosios geležinkelių infrastruktūros pajėgumų skyrimo. ^s-c75e43143c944143b4aa92c7
 
 
-4. Sprendimas atsisakyti skirti viešosios geležinkelių infrastruktūros pajėgumus pagal pavėluotas paraiškas priimamas [[#^s-b043a65a02eb4022a32766cf|šio straipsnio 2 dalies]] 1–3 ir 5–9 punktuose nurodytais atvejais, taip pat jeigu: ^s-24e8b8dbbfa5aebfd6985dd3
+4. Sprendimas atsisakyti skirti viešosios geležinkelių infrastruktūros pajėgumus pagal pavėluotas paraiškas priimamas [[#^s-b043a65a02eb4022a32766cf|šio straipsnio 2 dalies]] [[#^s-34e6778a0a4de89550e22bb2|1]]–3 ir 5–9 punktuose nurodytais atvejais, taip pat jeigu: ^s-24e8b8dbbfa5aebfd6985dd3
 
 
 1) pareiškėjo prašomi skirti viešosios geležinkelių infrastruktūros pajėgumai, vadovaujantis šio Kodekso [[#^s-2e99d92678a7e18139661318|295 straipsnio 11 dalimi]], buvo skirti kitam pareiškėjui; ^s-34e6778a0a4de89550e22bb2
@@ -2483,7 +2483,7 @@ Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 5. Viešosios geležinkelių infrastruktūros valdytojas priima sprendimą panaikinti skirtus viešosios geležinkelių infrastruktūros pajėgumus, jeigu: ^s-f540f2ed3ca520b212bdcf2a
 
 
-1) paaiškėja, kad geležinkelio įmonė (vežėjas), pareiškėjo interesais veikianti geležinkelio įmonė (vežėjas) nesilaiko šio Kodekso [[#^s-cf26eef4c7ef041012bfaeca|28 straipsnio]] 1 ir [[#^s-b043a65a02eb4022a32766cf|2 dalyse]] nustatytų naudojimosi viešąja geležinkelių infrastruktūra sąlygų; šiuo atveju panaikinami visi pareiškėjui skirti viešosios geležinkelių infrastruktūros pajėgumai; ^s-479da854290524c28c1d03fd
+1) paaiškėja, kad geležinkelio įmonė (vežėjas), pareiškėjo interesais veikianti geležinkelio įmonė (vežėjas) nesilaiko šio Kodekso [[#^s-cf26eef4c7ef041012bfaeca|28 straipsnio]] [[#^s-72d8fe06c8c985355aa87217|1]] ir [[#^s-b8af05b573eb82670e8785ef|2]] dalyse nustatytų naudojimosi viešąja geležinkelių infrastruktūra sąlygų; šiuo atveju panaikinami visi pareiškėjui skirti viešosios geležinkelių infrastruktūros pajėgumai; ^s-479da854290524c28c1d03fd
 
 
 2) paaiškėja, kad dėl šio Kodekso [[#^s-0e7ded1c786bc3efcd5eb7dc|29 straipsnio 7 dalyje]] nurodytos sąlygos naudojimosi viešąja geležinkelių infrastruktūra sutartis negali būti sudaryta arba kad atlikus pareiškėjo, kuris pateikė paraišką skirti viešosios geležinkelių infrastruktūros pajėgumus, atitikties nacionalinio saugumo interesams patikrą pagal [[latest/TAR.57E0E8B29108#^s-d57185152a2d0b2bd7ecc889|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 12 straipsnio]] 1 ir (ar) [[#^s-654ceb6b8cf18744d295e45a|3 dalis]] jis buvo pripažintas neatitinkančiu nacionalinio saugumo interesų; šiuo atveju panaikinami visi pareiškėjui skirti viešosios geležinkelių infrastruktūros pajėgumai; ^s-c5236a4d35606170888d6adc
@@ -2608,7 +2608,7 @@ Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 ### 299 straipsnis. Skirtų viešosios geležinkelių infrastruktūros pajėgumų pakeitimas ^s-9ebe894f38b1e8f41f819b48
 
 
-1. Pareiškėjas, kuriam skirti viešosios geležinkelių infrastruktūros pajėgumai, gali likus ne mažiau kaip 30 kalendorinių dienų iki kiekvienos Tinklo nuostatuose nurodytos galiojančio tarnybinio traukinių tvarkaraščio pakeitimo dienos, išskyrus šio straipsnio 2 ir [[#^s-880bcaabdcb0c23bc7551e99|3 dalyse]] nurodytus atvejus, viešosios geležinkelių infrastruktūros valdytojui raštu pateikti prašymą pakeisti skirtus viešosios geležinkelių infrastruktūros pajėgumus. Viešosios geležinkelių infrastruktūros valdytojas Tinklo nuostatuose nurodo prašymo pakeisti skirtus viešosios geležinkelių infrastruktūros pajėgumus pateikimo sąlygas. ^s-c681f00f6225948fd5e2e39b
+1. Pareiškėjas, kuriam skirti viešosios geležinkelių infrastruktūros pajėgumai, gali likus ne mažiau kaip 30 kalendorinių dienų iki kiekvienos Tinklo nuostatuose nurodytos galiojančio tarnybinio traukinių tvarkaraščio pakeitimo dienos, išskyrus šio straipsnio [[#^s-d2129c5d57632455e717839f|2]] ir [[#^s-880bcaabdcb0c23bc7551e99|3]] dalyse nurodytus atvejus, viešosios geležinkelių infrastruktūros valdytojui raštu pateikti prašymą pakeisti skirtus viešosios geležinkelių infrastruktūros pajėgumus. Viešosios geležinkelių infrastruktūros valdytojas Tinklo nuostatuose nurodo prašymo pakeisti skirtus viešosios geležinkelių infrastruktūros pajėgumus pateikimo sąlygas. ^s-c681f00f6225948fd5e2e39b
 
 
 2. Pareiškėjas, kuriam skirti viešosios geležinkelių infrastruktūros pajėgumai, gali likus ne mažiau kaip 5 darbo dienoms iki šių pajėgumų panaudojimo dienos viešosios geležinkelių infrastruktūros valdytojui raštu pateikti prašymą panaudoti šiuos viešosios geležinkelių infrastruktūros pajėgumus kariniams ar negabaritiniams kroviniams vežti, jeigu skiriant šiuos pajėgumus nebuvo įvertinta galimybė vežti tokius krovinius. ^s-d2129c5d57632455e717839f
@@ -2644,10 +2644,10 @@ Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 9. Viešosios geležinkelių infrastruktūros valdytojas, pakeitęs pareiškėjui skirtus viešosios geležinkelių infrastruktūros pajėgumus, pakeičia galiojantį tarnybinį traukinių tvarkaraštį ir šis pakeitimas įsigalioja kitą dieną po tarnybinio traukinių tvarkaraščio pakeitimo dienos. ^s-df04944c697b1d6163f26ef5
 
 
-10. Jeigu nagrinėjant šio straipsnio 1 ir [[#^s-d2129c5d57632455e717839f|2 dalyse]] nurodytus prašymus paaiškėja, kad nereikia keisti pareiškėjui skirtų viešosios geležinkelių infrastruktūros pajėgumų, viešosios geležinkelių infrastruktūros valdytojo išvada dėl tokio prašymo išnagrinėjimo parengiama ir pateikiama pareiškėjui viešosios geležinkelių infrastruktūros valdytojo nustatyta ir Tinklo nuostatuose nurodyta tvarka. ^s-d857e0d0f635bac21b5bd3d7
+10. Jeigu nagrinėjant šio straipsnio [[#^s-c681f00f6225948fd5e2e39b|1]] ir [[#^s-d2129c5d57632455e717839f|2]] dalyse nurodytus prašymus paaiškėja, kad nereikia keisti pareiškėjui skirtų viešosios geležinkelių infrastruktūros pajėgumų, viešosios geležinkelių infrastruktūros valdytojo išvada dėl tokio prašymo išnagrinėjimo parengiama ir pateikiama pareiškėjui viešosios geležinkelių infrastruktūros valdytojo nustatyta ir Tinklo nuostatuose nurodyta tvarka. ^s-d857e0d0f635bac21b5bd3d7
 
 
-11. Jeigu nagrinėjant šio straipsnio 1 ir [[#^s-d2129c5d57632455e717839f|2 dalyse]] nurodytus prašymus paaiškėja, kad reikia keisti kitam pareiškėjui skirtus viešosios geležinkelių infrastruktūros pajėgumus ir šis pareiškėjas Tinklo nuostatuose nurodyta tvarka nesutinka su šiuo pakeitimu, viešosios geležinkelių infrastruktūros valdytojas priima sprendimą netenkinti nagrinėjamo prašymo, išskyrus atvejus, kai: ^s-fc898c02c87f257d9124320c
+11. Jeigu nagrinėjant šio straipsnio [[#^s-c681f00f6225948fd5e2e39b|1]] ir [[#^s-d2129c5d57632455e717839f|2]] dalyse nurodytus prašymus paaiškėja, kad reikia keisti kitam pareiškėjui skirtus viešosios geležinkelių infrastruktūros pajėgumus ir šis pareiškėjas Tinklo nuostatuose nurodyta tvarka nesutinka su šiuo pakeitimu, viešosios geležinkelių infrastruktūros valdytojas priima sprendimą netenkinti nagrinėjamo prašymo, išskyrus atvejus, kai: ^s-fc898c02c87f257d9124320c
 
 
 1) prašoma skirtus viešosios geležinkelių infrastruktūros pajėgumus panaudoti kariniams kroviniams vežti, jeigu skiriant šiuos pajėgumus nebuvo įvertinta galimybė vežti tokius krovinius; ^s-db5ab6b2212b77739d8be33c
@@ -2667,7 +2667,7 @@ Nr. XIV-772, 2021-12-14, paskelbta TAR 2021-12-28, i. k. 2021-27357
 ### 2910 straipsnis. Skirtų viešosios geležinkelių infrastruktūros pajėgumų panaudojimo vertinimas ir apskaita ^s-162f6736e404531ede96040d
 
 
-1. Viešosios geležinkelių infrastruktūros valdytojas vertina skirtų viešosios geležinkelių infrastruktūros pajėgumų panaudojimą ir prireikus taiko šio Kodekso 252 ir [[#^s-15c785a8b58dbf7447074a64|296 straipsniuose]] nurodytas priemones. ^s-66931177f55ad77833e5c4be
+1. Viešosios geležinkelių infrastruktūros valdytojas vertina skirtų viešosios geležinkelių infrastruktūros pajėgumų panaudojimą ir prireikus taiko šio Kodekso [[#^s-de4a7c7762b49b20ec29c574|252]] ir [[#^s-15c785a8b58dbf7447074a64|296]] straipsniuose nurodytas priemones. ^s-66931177f55ad77833e5c4be
 
 
 2. Jeigu pareiškėjas perpildytoje viešosios geležinkelių infrastruktūros dalyje skirtus viešosios geležinkelių infrastruktūros pajėgumus panaudoja ne pagal prioriteto taisyklėje, pagal kurią buvo skirti šie pajėgumai, nurodytus kriterijus arba šio Kodekso [[#^s-d2129c5d57632455e717839f|299 straipsnio 2 dalyje]] nurodytu atveju pakeistus viešosios geležinkelių infrastruktūros pajėgumus panaudoja kitais, negu nurodyti šio Kodekso [[#^s-d2129c5d57632455e717839f|299 straipsnio 2 dalyje]], tikslais, laikoma, kad skirti viešosios geležinkelių infrastruktūros pajėgumai yra nepanaudoti. Kitais šioje dalyje nenurodytais atvejais viešosios geležinkelių infrastruktūros pajėgumų panaudojimas perpildytoje infrastruktūros dalyje vertinamas pagal [[#^s-300fe8e004d6393ae715a59b|šio straipsnio 4 dalyje]] nustatytus kriterijus ir tvarką. ^s-d6cb772784c90de2e0825c8e
@@ -2750,7 +2750,7 @@ Nr. XV-390, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12144
 
 
 
-10) kiti geležinkelių paslaugų įrenginiai, kuriuose teikiamos šio Kodekso [[#^s-c2eb826bb84f27e295bffcdf|303 straipsnio]] 2 ir 3 dalyse nurodytos paslaugos. ^s-eebf614113a43e6ecef1a2d4
+10) kiti geležinkelių paslaugų įrenginiai, kuriuose teikiamos šio Kodekso [[#^s-c2eb826bb84f27e295bffcdf|303 straipsnio]] [[#^s-0a2c5aa53e16ab6285199c36|2]] ir [[#^s-1ea81567053389b3c8851e93|3]] dalyse nurodytos paslaugos. ^s-eebf614113a43e6ecef1a2d4
 
 
 Straipsnio pakeitimai:
@@ -2767,7 +2767,7 @@ Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 2. Geležinkelių infrastruktūros valdytojas geležinkelio įmonėms (vežėjams), šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodytoms įmonėms, manevravimo paslaugas teikiančioms įmonėms ir pareiškėjams suteikia prieigą prie geležinkelio kelių, sujungtų su geležinkelių paslaugų įrenginiais. Jeigu geležinkelių infrastruktūros valdytojas už šią prieigą nustato užmokestį, šiam užmokesčiui taikomas šio Kodekso [[#^s-c766da1d8104bae03e92f5a2|304 straipsnio 3 dalyje]] nustatytas reikalavimas. ^s-6b19ad200ea9e45430829fe2
 
 
-3. Šio Kodekso [[#^s-b6e6b0b1bcbefef94d5f01b3|301 straipsnio]] 1–4, 7 ir 9 punktuose nurodytus geležinkelių paslaugų įrenginius valdantis geležinkelių paslaugų įrenginių operatorius, kurio kontroliuojantysis subjektas apibrėžtas Reglamento (ES) 2017/2177 3 straipsnio 7 punkte, priimdamas sprendimus turi būti nepriklausomas nuo kontroliuojančiojo subjekto, tai yra kontroliuojantysis subjektas negali daryti įtakos geležinkelių paslaugų įrenginių operatoriaus priimamiems sprendimams. ^s-c226392aee1a2d3a10761413
+3. Šio Kodekso [[#^s-b6e6b0b1bcbefef94d5f01b3|301 straipsnio]] 1–4, 7 ir 9 punktuose nurodytus geležinkelių paslaugų įrenginius valdantis geležinkelių paslaugų įrenginių operatorius, kurio kontroliuojantysis subjektas apibrėžtas [Reglamento (ES) 2017/2177 3 straipsnio](https://eur-lex.europa.eu/eli/reg/2017/2177/art_3/oj) 7 punkte, priimdamas sprendimus turi būti nepriklausomas nuo kontroliuojančiojo subjekto, tai yra kontroliuojantysis subjektas negali daryti įtakos geležinkelių paslaugų įrenginių operatoriaus priimamiems sprendimams. ^s-c226392aee1a2d3a10761413
 
 
 4. Geležinkelių paslaugų įrenginių operatoriaus organizacinio ir sprendimų priėmimo nepriklausomumo užtikrinimas nereiškia, kad turi būti įsteigtas atskiras juridinis asmuo ir kad šį reikalavimą galima įvykdyti atitinkamai organizuojant skirtingus to paties juridinio asmens padalinius. Šiuo atveju juridinio asmens padalinys (padaliniai), vykdantis (vykdantys) juridinio asmens veiklą ir užimantis (užimantys) dominuojančią padėtį Lietuvos geležinkelių transporto paslaugų rinkoje, turi būti nepriklausomas (nepriklausomi) nuo juridinio asmens padalinio (padalinių), valdančio (valdančių) šio Kodekso [[#^s-b6e6b0b1bcbefef94d5f01b3|301 straipsnio]] 1–4, 7 ir 9 punktuose nurodytus geležinkelių paslaugų įrenginius. ^s-95f8187b6b3dd69c5160bb8a
@@ -2782,16 +2782,16 @@ Nr. XV-390, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12144
 6. Geležinkelių paslaugų įrenginių operatorius privalo atskirai tvarkyti jo valdomų šio Kodekso [[#^s-b6e6b0b1bcbefef94d5f01b3|301 straipsnio]] 1–9 punktuose nurodytų geležinkelių paslaugų įrenginių apskaitą, sudaryti atskiras pelno (nuostolių) ataskaitas ir balansus. Viešosios geležinkelių infrastruktūros valdytojas parengia ir tvarko patikėjimo teise valdomų Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių sąrašą, taip pat atskirai nurodo šių įrenginių infrastruktūros atnaujinimo ir modernizavimo išlaidas. ^s-4313f9ebae6f045d317dfc83
 
 
-7. Kai geležinkelių paslaugų įrenginius valdo geležinkelių infrastruktūros valdytojas arba geležinkelių paslaugų įrenginių operatorių tiesiogiai ar netiesiogiai valdo šio Kodekso [[#^s-d609be10472b79d0ad6cb98c|23 straipsnio 1 dalyje]] nurodytas viešosios geležinkelių infrastruktūros valdytojas ir yra įvykdyti šio Kodekso [[#^s-c458aafcb6c3edc010c7b8cb|242 straipsnyje]] nurodyti reikalavimai, laikoma, kad įvykdyti ir šio straipsnio 3 ir [[#^s-4313f9ebae6f045d317dfc83|6 dalyse]] nurodyti reikalavimai. ^s-9e07750d72e45e3c68b84726
+7. Kai geležinkelių paslaugų įrenginius valdo geležinkelių infrastruktūros valdytojas arba geležinkelių paslaugų įrenginių operatorių tiesiogiai ar netiesiogiai valdo šio Kodekso [[#^s-d609be10472b79d0ad6cb98c|23 straipsnio 1 dalyje]] nurodytas viešosios geležinkelių infrastruktūros valdytojas ir yra įvykdyti šio Kodekso [[#^s-c458aafcb6c3edc010c7b8cb|242 straipsnyje]] nurodyti reikalavimai, laikoma, kad įvykdyti ir šio straipsnio [[#^s-097deb262f5efaa2e9d6c027|3]] ir [[#^s-4ce03b62fb8cb361aed47f4c|6]] dalyse nurodyti reikalavimai. ^s-9e07750d72e45e3c68b84726
 
 
-8. Geležinkelių paslaugų įrenginių operatorius geležinkelio įmonių (vežėjų), šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodytų įmonių, manevravimo paslaugas teikiančių įmonių ir pareiškėjų prašymus dėl prieigos prie šio Kodekso [[#^s-b6e6b0b1bcbefef94d5f01b3|301 straipsnio]] 1–9 punktuose nurodytų geležinkelių paslaugų įrenginių ir šiuose įrenginiuose teikiamų su geležinkelių transportu susijusių pagrindinių paslaugų nagrinėja Reglamente (ES) 2017/2177 nustatyta tvarka. Geležinkelių paslaugų įrenginių operatorius neprivalo investuoti į išteklius arba geležinkelių paslaugų įrenginius tik dėl to, kad būtų patenkinti visi geležinkelio įmonių (vežėjų), šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodytų įmonių, manevravimo paslaugas teikiančių įmonių ir pareiškėjų prašymai. ^s-978577950dad075b861b76a9
+8. Geležinkelių paslaugų įrenginių operatorius geležinkelio įmonių (vežėjų), šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodytų įmonių, manevravimo paslaugas teikiančių įmonių ir pareiškėjų prašymus dėl prieigos prie šio Kodekso [[#^s-b6e6b0b1bcbefef94d5f01b3|301 straipsnio]] 1–9 punktuose nurodytų geležinkelių paslaugų įrenginių ir šiuose įrenginiuose teikiamų su geležinkelių transportu susijusių pagrindinių paslaugų nagrinėja [Reglamente (ES) 2017/2177](https://eur-lex.europa.eu/eli/reg/2017/2177/oj) nustatyta tvarka. Geležinkelių paslaugų įrenginių operatorius neprivalo investuoti į išteklius arba geležinkelių paslaugų įrenginius tik dėl to, kad būtų patenkinti visi geležinkelio įmonių (vežėjų), šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodytų įmonių, manevravimo paslaugas teikiančių įmonių ir pareiškėjų prašymai. ^s-978577950dad075b861b76a9
 
 
-9. Kai šio Kodekso [[#^s-b6e6b0b1bcbefef94d5f01b3|301 straipsnio]] 1–9 punktuose nurodyti geležinkelių paslaugų įrenginiai ar jų dalis nenaudojami dvejus metus iš eilės arba ilgiau ir geležinkelio įmonė (vežėjas), šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodyta įmonė, manevravimo paslaugas teikianti įmonė ar pareiškėjas pateikia prašymą dėl prieigos prie šių įrenginių ar jų dalies, geležinkelių paslaugų įrenginių savininkas Reglamente (ES) 2017/2177 nustatytais atvejais ir tvarka paskelbia, kad šiais geležinkelių paslaugų įrenginiais ar jų dalimi galima naudotis išperkamosios nuomos ar nuomos sąlygomis. Lietuvos valstybei nuosavybės teise priklausantys geležinkelių paslaugų įrenginiai išnuomojami Vyriausybės nustatyta tvarka. Šiame straipsnyje nustatyti reikalavimai dėl išperkamosios nuomos netaikomi Lietuvos valstybei nuosavybės teise priklausantiems geležinkelių paslaugų įrenginiams. ^s-e56e26d1bf2b6cef0e89c740
+9. Kai šio Kodekso [[#^s-b6e6b0b1bcbefef94d5f01b3|301 straipsnio]] 1–9 punktuose nurodyti geležinkelių paslaugų įrenginiai ar jų dalis nenaudojami dvejus metus iš eilės arba ilgiau ir geležinkelio įmonė (vežėjas), šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodyta įmonė, manevravimo paslaugas teikianti įmonė ar pareiškėjas pateikia prašymą dėl prieigos prie šių įrenginių ar jų dalies, geležinkelių paslaugų įrenginių savininkas [Reglamente (ES) 2017/2177](https://eur-lex.europa.eu/eli/reg/2017/2177/oj) nustatytais atvejais ir tvarka paskelbia, kad šiais geležinkelių paslaugų įrenginiais ar jų dalimi galima naudotis išperkamosios nuomos ar nuomos sąlygomis. Lietuvos valstybei nuosavybės teise priklausantys geležinkelių paslaugų įrenginiai išnuomojami Vyriausybės nustatyta tvarka. Šiame straipsnyje nustatyti reikalavimai dėl išperkamosios nuomos netaikomi Lietuvos valstybei nuosavybės teise priklausantiems geležinkelių paslaugų įrenginiams. ^s-e56e26d1bf2b6cef0e89c740
 
 
-10. Sprendimus dėl Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių ir jiems eksploatuoti reikalingo valstybės turto pripažinimo nereikalingais arba netinkamais (negalimais) naudoti priima viešosios geležinkelių infrastruktūros valdytojas. Perduodant pripažintus nereikalingais arba netinkamais (negalimais) naudoti Lietuvos valstybei nuosavybės teise priklausančius geležinkelių paslaugų įrenginius ir jiems eksploatuoti reikalingą valstybės turtą ar juos nurašant, taip pat nuomojant Lietuvos valstybei nuosavybės teise priklausančius geležinkelių paslaugų įrenginius ir jiems eksploatuoti reikalingą valstybės turtą, mutatis mutandis taikomos šio Kodekso [[#^s-4bf343fb41267a6d62b5302c|23 straipsnio]] 5–[[#^s-f94ed7c682a456a674234a53|10 dalių]] nuostatos. ^s-f94ed7c682a456a674234a53
+10. Sprendimus dėl Lietuvos valstybei nuosavybės teise priklausančių geležinkelių paslaugų įrenginių ir jiems eksploatuoti reikalingo valstybės turto pripažinimo nereikalingais arba netinkamais (negalimais) naudoti priima viešosios geležinkelių infrastruktūros valdytojas. Perduodant pripažintus nereikalingais arba netinkamais (negalimais) naudoti Lietuvos valstybei nuosavybės teise priklausančius geležinkelių paslaugų įrenginius ir jiems eksploatuoti reikalingą valstybės turtą ar juos nurašant, taip pat nuomojant Lietuvos valstybei nuosavybės teise priklausančius geležinkelių paslaugų įrenginius ir jiems eksploatuoti reikalingą valstybės turtą, mutatis mutandis taikomos šio Kodekso [[#^s-4bf343fb41267a6d62b5302c|23 straipsnio]] [[#^s-90ba8f4aeda77851fe5452ef|5]]–[[#^s-9dda1be90fa28aa5aed5b00f|10]] dalių nuostatos. ^s-f94ed7c682a456a674234a53
 Straipsnio dalies pakeitimai:
 Nr. XIV-2134, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14327
 Nr. XV-390, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12144
@@ -2856,13 +2856,13 @@ Nr. XV-390, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12144
 5) didelio masto geležinkelių riedmenų techninės priežiūros paslaugos, teikiamos geležinkelių riedmenų techninės priežiūros įrenginiuose greitiesiems traukiniams ar kitų rūšių geležinkelių riedmenims, kuriems reikalingi specialieji įrenginiai. ^s-2dfb8339091100d82f164bd9
 
 
-4. Jeigu geležinkelių paslaugų įrenginių operatorius teikia su geležinkelių transportu susijusias papildomas paslaugas, jis nediskriminacinėmis sąlygomis teikia jas pagal paslaugų teikimo sutartį prašymą pateikusioms geležinkelio įmonėms (vežėjams) ir šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodytoms įmonėms Reglamente (ES) 2017/2177 nustatyta tvarka. ^s-364472738f9013a2cf6a6bc6
+4. Jeigu geležinkelių paslaugų įrenginių operatorius teikia su geležinkelių transportu susijusias papildomas paslaugas, jis nediskriminacinėmis sąlygomis teikia jas pagal paslaugų teikimo sutartį prašymą pateikusioms geležinkelio įmonėms (vežėjams) ir šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodytoms įmonėms [Reglamente (ES) 2017/2177](https://eur-lex.europa.eu/eli/reg/2017/2177/oj) nustatyta tvarka. ^s-364472738f9013a2cf6a6bc6
 Straipsnio dalies pakeitimai:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
 
 
-5. Geležinkelio įmonės (vežėjai) ir šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodytos įmonės gali prašyti geležinkelio paslaugų įrenginių operatorių su geležinkelių transportu susijusių pagalbinių paslaugų. Geležinkelių paslaugų įrenginio operatorius neprivalo teikti su geležinkelių transportu susijusių pagalbinių paslaugų, tačiau jeigu geležinkelių paslaugų įrenginio operatorius nusprendžia teikti bet kurią iš [[#^s-1ea81567053389b3c8851e93|šio straipsnio 3 dalyje]] nurodytų paslaugų, jis teikia jas nediskriminacinėmis sąlygomis pagal paslaugų teikimo sutartį prašymą pateikusioms geležinkelio įmonėms (vežėjams) ir šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodytoms įmonėms Reglamente (ES) 2017/2177 nustatyta tvarka. ^s-5c7973a8c1d1db6a2b7ff6e8
+5. Geležinkelio įmonės (vežėjai) ir šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodytos įmonės gali prašyti geležinkelio paslaugų įrenginių operatorių su geležinkelių transportu susijusių pagalbinių paslaugų. Geležinkelių paslaugų įrenginio operatorius neprivalo teikti su geležinkelių transportu susijusių pagalbinių paslaugų, tačiau jeigu geležinkelių paslaugų įrenginio operatorius nusprendžia teikti bet kurią iš [[#^s-1ea81567053389b3c8851e93|šio straipsnio 3 dalyje]] nurodytų paslaugų, jis teikia jas nediskriminacinėmis sąlygomis pagal paslaugų teikimo sutartį prašymą pateikusioms geležinkelio įmonėms (vežėjams) ir šio Kodekso [[#^s-3c5ca9c6c3d0569e28944fab|28 straipsnio 3 dalyje]] nurodytoms įmonėms [Reglamente (ES) 2017/2177](https://eur-lex.europa.eu/eli/reg/2017/2177/oj) nustatyta tvarka. ^s-5c7973a8c1d1db6a2b7ff6e8
 Straipsnio dalies pakeitimai:
 Nr. XIII-1858, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00218
 
@@ -2912,13 +2912,13 @@ Nr. XIV-632, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24225
 
 
 
-5. Geležinkelių paslaugų įrenginių operatoriai rinkos reguliuotojui paprašius teikia visą rinkos reguliuotojo funkcijoms vykdyti būtiną informaciją apie jų pagal šio straipsnio 1–[[#^s-7470704f6f3af9b956db8e04|4 dalis]] nustatytus užmokesčius. ^s-1cef1fa5bda5e350400c2c1c
+5. Geležinkelių paslaugų įrenginių operatoriai rinkos reguliuotojui paprašius teikia visą rinkos reguliuotojo funkcijoms vykdyti būtiną informaciją apie jų pagal šio straipsnio [[#^s-e108b5d421c97096b57454f6|1]]–[[#^s-7470704f6f3af9b956db8e04|4]] dalis nustatytus užmokesčius. ^s-1cef1fa5bda5e350400c2c1c
 
 
-6. Geležinkelių paslaugų įrenginių operatoriai privalo įrodyti geležinkelio įmonei (vežėjui), kad jų pagal šio straipsnio 1–[[#^s-7470704f6f3af9b956db8e04|4 dalis]] nustatyti užmokesčiai, kuriuos geležinkelio įmonė (vežėjas) turi sumokėti geležinkelių paslaugų įrenginių operatoriams pagal pateiktas sąskaitas, atitinka geležinkelių paslaugų įrenginių operatoriaus nustatytą ir taikytą šių užmokesčių nustatymo metodiką ir Tinklo nuostatus, jeigu informacija apie šią metodiką buvo nurodyta Tinklo nuostatuose. ^s-a45d1aba50ca90649bd107d2
+6. Geležinkelių paslaugų įrenginių operatoriai privalo įrodyti geležinkelio įmonei (vežėjui), kad jų pagal šio straipsnio [[#^s-e108b5d421c97096b57454f6|1]]–[[#^s-7470704f6f3af9b956db8e04|4]] dalis nustatyti užmokesčiai, kuriuos geležinkelio įmonė (vežėjas) turi sumokėti geležinkelių paslaugų įrenginių operatoriams pagal pateiktas sąskaitas, atitinka geležinkelių paslaugų įrenginių operatoriaus nustatytą ir taikytą šių užmokesčių nustatymo metodiką ir Tinklo nuostatus, jeigu informacija apie šią metodiką buvo nurodyta Tinklo nuostatuose. ^s-a45d1aba50ca90649bd107d2
 
 
-7. Geležinkelių paslaugų įrenginių operatoriai viešosios geležinkelių infrastruktūros valdytojui teikia informaciją apie jų pagal šio straipsnio 1–[[#^s-7470704f6f3af9b956db8e04|4 dalis]] nustatytus užmokesčius, kurie turi būti nurodyti Tinklo nuostatuose, arba nurodo interneto svetainę, kurioje ši informacija prieinama neatlygintinai elektroniniu formatu. ^s-cb6a92a45a7ea53252a0f1cd
+7. Geležinkelių paslaugų įrenginių operatoriai viešosios geležinkelių infrastruktūros valdytojui teikia informaciją apie jų pagal šio straipsnio [[#^s-e108b5d421c97096b57454f6|1]]–[[#^s-7470704f6f3af9b956db8e04|4]] dalis nustatytus užmokesčius, kurie turi būti nurodyti Tinklo nuostatuose, arba nurodo interneto svetainę, kurioje ši informacija prieinama neatlygintinai elektroniniu formatu. ^s-cb6a92a45a7ea53252a0f1cd
 
 
 ### 305 straipsnis. Traukos srovės iš kontaktinio geležinkelių tinklo į geležinkelių riedmenis tiekimo ypatumai ^s-09dfbc4f7610088e2596704e
@@ -2975,25 +2975,25 @@ KELEIVIŲ, BAGAŽO IR KROVINIŲ VEŽIMAS
 ### 33 straipsnis. Keleivių ir bagažo vežimas geležinkelių transportu ^s-7df2c716b2c22db6af5563db
 
 
-1. Keleivių ir bagažo vežimo geležinkelių transportu sąlygos ir tvarka, taip pat geležinkelio įmonės (vežėjo), keleivio, bagažo siuntėjo (gavėjo) teisės, pareigos ir atsakomybė, geležinkelių transportu keliaujančių asmenų su negalia ir riboto judumo asmenų apsauga ir pagalbos taisyklės nustatytos Reglamente (ES) 2021/782, šiame Kodekse, Civiliniame kodekse, Lietuvos Respublikos tarptautinėse sutartyse ir kituose teisės aktuose, reglamentuojančiuose keleivių ir bagažo vežimą geležinkelių transportu. ^s-41eb51cd234619dae766d233
+1. Keleivių ir bagažo vežimo geležinkelių transportu sąlygos ir tvarka, taip pat geležinkelio įmonės (vežėjo), keleivio, bagažo siuntėjo (gavėjo) teisės, pareigos ir atsakomybė, geležinkelių transportu keliaujančių asmenų su negalia ir riboto judumo asmenų apsauga ir pagalbos taisyklės nustatytos [Reglamente (ES) 2021/782](https://eur-lex.europa.eu/eli/reg/2021/782/oj), šiame Kodekse, Civiliniame kodekse, Lietuvos Respublikos tarptautinėse sutartyse ir kituose teisės aktuose, reglamentuojančiuose keleivių ir bagažo vežimą geležinkelių transportu. ^s-41eb51cd234619dae766d233
 
 
-2. Asmens, vykdančio keleivių vežimo siaurojo geležinkelio riedmenimis veiklą, atsakomybė nustatyta Reglamento (ES) 2021/782 [[#^s-9bb5f71df5a4e2aa8db3e1b8|13 straipsnyje]]. ^s-a1fa7511dc324c4060f4080a
+2. Asmens, vykdančio keleivių vežimo siaurojo geležinkelio riedmenimis veiklą, atsakomybė nustatyta [Reglamento (ES) 2021/782 13 straipsnyje](https://eur-lex.europa.eu/eli/reg/2021/782/art_13/oj). ^s-a1fa7511dc324c4060f4080a
 
 
-3. Geležinkelio įmonė (vežėjas), teikianti keleivių ir bagažo vežimo geležinkelių transportu paslaugas, privalo sudaryti nenumatytų atvejų planus ir užtikrinti, kad šie planai būtų tinkamai koordinuojami su keleivių geležinkelio stoties operatoriumi ir viešosios geležinkelių infrastruktūros valdytoju tam, kad įvykus esminiam keleivių ir bagažo vežimo geležinkelių transportu paslaugų teikimo sutrikimui keleiviams būtų suteikta pagalba, kaip nustatyta Reglamento (ES) 2021/782 [[#^s-c9a0a8bef2a76afe02145d9f|20 straipsnyje]]. ^s-9c97be81d476fa0eb4238a91
+3. Geležinkelio įmonė (vežėjas), teikianti keleivių ir bagažo vežimo geležinkelių transportu paslaugas, privalo sudaryti nenumatytų atvejų planus ir užtikrinti, kad šie planai būtų tinkamai koordinuojami su keleivių geležinkelio stoties operatoriumi ir viešosios geležinkelių infrastruktūros valdytoju tam, kad įvykus esminiam keleivių ir bagažo vežimo geležinkelių transportu paslaugų teikimo sutrikimui keleiviams būtų suteikta pagalba, kaip nustatyta [Reglamento (ES) 2021/782 20 straipsnyje](https://eur-lex.europa.eu/eli/reg/2021/782/art_20/oj). ^s-9c97be81d476fa0eb4238a91
 
 
-4. Geležinkelio įmonė (vežėjas), veždama keleivius tarptautiniais maršrutais, turi teisę įlaipinti ir išlaipinti keleivius bet kurioje Lietuvos Respublikos teritorijoje esančioje traukinio važiavimo maršruto geležinkelio stotyje, stotelėje, išskyrus atvejį, kai rinkos reguliuotojas Įgyvendinimo reglamente (ES) 2018/1795 nustatyta tvarka priima sprendimą, kad dėl naudojimosi šia teise iškiltų pavojus sudarytos (sudarytų) viešųjų paslaugų teikimo sutarties (sutarčių) ekonominei pusiausvyrai. Prašymo atlikti ekonominės pusiausvyros įvertinimą pateikimo ir nagrinėjimo tvarką, kiek ji nenustatyta Įgyvendinimo reglamente (ES) 2018/1795, nustato susisiekimo ministras. ^s-fd225f5d8aa38bbb961a4205
+4. Geležinkelio įmonė (vežėjas), veždama keleivius tarptautiniais maršrutais, turi teisę įlaipinti ir išlaipinti keleivius bet kurioje Lietuvos Respublikos teritorijoje esančioje traukinio važiavimo maršruto geležinkelio stotyje, stotelėje, išskyrus atvejį, kai rinkos reguliuotojas Įgyvendinimo [reglamente (ES) 2018/1795](https://eur-lex.europa.eu/eli/reg/2018/1795/oj) nustatyta tvarka priima sprendimą, kad dėl naudojimosi šia teise iškiltų pavojus sudarytos (sudarytų) viešųjų paslaugų teikimo sutarties (sutarčių) ekonominei pusiausvyrai. Prašymo atlikti ekonominės pusiausvyros įvertinimą pateikimo ir nagrinėjimo tvarką, kiek ji nenustatyta Įgyvendinimo [reglamente (ES) 2018/1795](https://eur-lex.europa.eu/eli/reg/2018/1795/oj), nustato susisiekimo ministras. ^s-fd225f5d8aa38bbb961a4205
 Straipsnio dalies pakeitimai:
 Nr. XV-390, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12144
 
 
 
-5. Keleivių skundus dėl jų teisių, nurodytų Reglamente (ES) 2021/782, galimo pažeidimo nagrinėja Valstybinė vartotojų teisių apsaugos tarnyba. ^s-8e0af0c6c7067f6546619f3c
+5. Keleivių skundus dėl jų teisių, nurodytų [Reglamente (ES) 2021/782](https://eur-lex.europa.eu/eli/reg/2021/782/oj), galimo pažeidimo nagrinėja Valstybinė vartotojų teisių apsaugos tarnyba. ^s-8e0af0c6c7067f6546619f3c
 
 
-6. Reglamento (ES) 2021/782 31 straipsnyje nurodytos nacionalinės vykdymo užtikrinimo įstaigos funkcijas, išskyrus keleivių skundų dėl jų teisių, nurodytų Reglamente (ES) 2021/782, galimo pažeidimo, atlieka geležinkelių transporto eismo saugos institucija. ^s-33fedb018df0ff44293ebcf0
+6. [Reglamento (ES) 2021/782 31 straipsnyje](https://eur-lex.europa.eu/eli/reg/2021/782/art_31/oj) nurodytos nacionalinės vykdymo užtikrinimo įstaigos funkcijas, išskyrus keleivių skundų dėl jų teisių, nurodytų [Reglamente (ES) 2021/782](https://eur-lex.europa.eu/eli/reg/2021/782/oj), galimo pažeidimo, atlieka geležinkelių transporto eismo saugos institucija. ^s-33fedb018df0ff44293ebcf0
 
 
 Straipsnio pakeitimai:
@@ -3203,7 +3203,7 @@ Nr. XII-1725, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08225
 1. Krovinio svoris ar siuntos vienetų skaičius pradinėje ir galinėje geležinkelio stotyje turi būti tikrinamas tuo pačiu metodu ir būdu. Krovinio svorio ar siuntos vienetų skaičiaus nustatymo tvarką reglamentuoja Krovinių vežimo geležinkelių transportu taisyklės. ^s-317bd24c8b93337f517c2fdd
 
 
-2. Krovinio svoris laikomas tinkamu, jeigu skirtumas tarp pradinėje geležinkelio stotyje nustatyto svorio ir svorio galinėje geležinkelio stotyje neviršija Vyriausybės patvirtintų nuostolio (natūralaus sumažėjimo) normų, taip pat svarstyklių arba krovinio svėrimo tikslumo normų. Šios nuostolių, svarstyklių arba krovinio svėrimo tikslumo normos netaikomos šio Kodekso [[#^s-43ab5363490c78bbf96bce2e|54 straipsnio 3 dalies]] 1–3 punktuose nustatytais atvejais. ^s-df90872397ca66d0a915e343
+2. Krovinio svoris laikomas tinkamu, jeigu skirtumas tarp pradinėje geležinkelio stotyje nustatyto svorio ir svorio galinėje geležinkelio stotyje neviršija Vyriausybės patvirtintų nuostolio (natūralaus sumažėjimo) normų, taip pat svarstyklių arba krovinio svėrimo tikslumo normų. Šios nuostolių, svarstyklių arba krovinio svėrimo tikslumo normos netaikomos šio Kodekso [[#^s-43ab5363490c78bbf96bce2e|54 straipsnio 3 dalies]] [[#^s-75fd6ea697d651515f4483f3|1]]–[[#^s-a8e30c4d32444d16a105d8e5|3]] punktuose nustatytais atvejais. ^s-df90872397ca66d0a915e343
 
 
 3. Matavimo priemonės turi būti tikrinamos ir tikrinimo rezultatai įforminami Vyriausybės nustatyta tvarka. Nepatikrintomis matavimo priemonėmis naudotis draudžiama. ^s-832f063bf081768a264cae9a
@@ -3594,7 +3594,7 @@ ATSAKOMYBĖ UŽ GELEŽINKELIŲ TRANSPORTO VEIKLOS REIKALAVIMŲ PAŽEIDIMUS
 ### 69 straipsnis. Pažeidimo nagrinėjimo procesas ^s-666dcf97c0630deb40214ea3
 
 
-Pažeidimo nagrinėjimo procesas inicijuojamas, apie pažeidimo nagrinėjimą rinkos dalyviui pranešama, teisė susipažinti su pažeidimo nagrinėjimo proceso medžiaga įgyvendinama, pažeidimas nagrinėjamas, sprendimas dėl įspėjimo ar baudos skyrimo priimamas, sprendimas skirti įspėjimą ar baudą skundžiamas mutatis mutandis taikant [[latest/TAR.82D8168D3049#^s-7238c3cf723f3ff5d01f529b|Lietuvos Respublikos elektroninių ryšių įstatymo 85 straipsnio]] 2 ir 3 dalių, 86, 88, 89, 92, 93 ir 94 straipsnių nuostatas.
+Pažeidimo nagrinėjimo procesas inicijuojamas, apie pažeidimo nagrinėjimą rinkos dalyviui pranešama, teisė susipažinti su pažeidimo nagrinėjimo proceso medžiaga įgyvendinama, pažeidimas nagrinėjamas, sprendimas dėl įspėjimo ar baudos skyrimo priimamas, sprendimas skirti įspėjimą ar baudą skundžiamas mutatis mutandis taikant [[latest/TAR.82D8168D3049#^s-7238c3cf723f3ff5d01f529b|Lietuvos Respublikos elektroninių ryšių įstatymo 85 straipsnio]] [[latest/TAR.82D8168D3049#^s-33d40376ef34630f2329d8d7|2]] ir [[latest/TAR.82D8168D3049#^s-060150c4f6ce50e57fcd3872|3]] dalių, 86, 88, 89, 92, 93 ir 94 straipsnių nuostatas.
 
 
 
@@ -3676,7 +3676,7 @@ Pažeidimo nagrinėjimo procesas inicijuojamas, apie pažeidimo nagrinėjimą ri
 2. Kai yra motyvuotas rinkos dalyvio, kuriam skirta bauda, prašymas, rinkos reguliuotojas, atsižvelgęs į asmens turtinę padėtį, kitas reikšmingas aplinkybes, turi teisę baudos ar jos dalies mokėjimą atidėti iki 6 mėnesių nuo sprendimo skirti baudą priėmimo dienos. ^s-8810a4c53e62444c5dfec80c
 
 
-3. Rinkos reguliuotojo sprendimas dėl baudos skyrimo yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas per nustatytą terminą, jis pateikiamas vykdyti antstoliams Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Sprendimas turi būti pateikiamas vykdyti ne vėliau kaip per vienus metus nuo šio straipsnio 1 ar 2 dalyje nustatyto termino pabaigos. ^s-7b6bb5df357275c7311b64ec
+3. Rinkos reguliuotojo sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas per nustatytą terminą, jis pateikiamas vykdyti antstoliams [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Sprendimas turi būti pateikiamas vykdyti ne vėliau kaip per vienus metus nuo šio straipsnio 1 ar 2 dalyje nustatyto termino pabaigos. ^s-7b6bb5df357275c7311b64ec
 
 
 4. Įspėjimo ar baudos skyrimas neatleidžia ūkio subjekto, kuriam paskirtas įspėjimas ar bauda, nuo rinkos reguliuotojo sprendimo, už kurio nevykdymą paskirtas įspėjimas ar bauda, vykdymo. ^s-09206d5ff011798fbecd0577
@@ -3697,31 +3697,31 @@ priedas
 
 
 
-1. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 su pakeitimais, padarytais 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/2338. ^s-bdc9e2d1427b64d625378896
+1. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos [reglamentus (EEB) Nr. 1191/69](https://eur-lex.europa.eu/eli/reg/1191/69/oj) ir (EEB) Nr. 1107/70 su pakeitimais, padarytais 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/2338](https://eur-lex.europa.eu/eli/reg/2016/2338/oj). ^s-bdc9e2d1427b64d625378896
 
 
-2. 2010 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 913/2010 dėl konkurencingo krovinių vežimo Europos geležinkeliais tinklo su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/1679. ^s-4dee5983e3686ab5ac9ac2cd
+2. 2010 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 913/2010 dėl konkurencingo krovinių vežimo Europos geležinkeliais tinklo su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/1679](https://eur-lex.europa.eu/eli/reg/2024/1679/oj). ^s-4dee5983e3686ab5ac9ac2cd
 
 
-3. 2012 m. lapkričio 21 d. Europos Parlamento ir Tarybos direktyva 2012/34/ES, kuria sukuriama bendra Europos geležinkelių erdvė, su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2370. ^s-b6b7de93902ae838b392bf05
+3. 2012 m. lapkričio 21 d. Europos Parlamento ir Tarybos direktyva 2012/34/ES, kuria sukuriama bendra Europos geležinkelių erdvė, su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2016/2370](https://eur-lex.europa.eu/eli/dir/2016/2370/oj). ^s-b6b7de93902ae838b392bf05
 
 
-4. 2015 m. liepos 7 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 2015/1100 dėl valstybių narių pareigų teikti geležinkelių rinkos stebėjimo ataskaitas. ^s-0f3e058824282f4469295572
+4. 2015 m. liepos 7 d. Komisijos įgyvendinimo [reglamentas (ES) Nr. 2015/1100](https://eur-lex.europa.eu/eli/reg/2015/1100/oj) dėl valstybių narių pareigų teikti geležinkelių rinkos stebėjimo ataskaitas. ^s-0f3e058824282f4469295572
 
 
-5. 2016 m. balandžio 7 d. Komisijos įgyvendinimo reglamentas (ES) 2016/545 dėl procedūrų ir kriterijų, susijusių su pamatiniais susitarimais dėl geležinkelių infrastruktūros pajėgumų paskirstymo. ^s-823c188bd7ddc9413d7073b0
+5. 2016 m. balandžio 7 d. Komisijos įgyvendinimo [reglamentas (ES) 2016/545](https://eur-lex.europa.eu/eli/reg/2016/545/oj) dėl procedūrų ir kriterijų, susijusių su pamatiniais susitarimais dėl geležinkelių infrastruktūros pajėgumų paskirstymo. ^s-823c188bd7ddc9413d7073b0
 
 
-6. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/797 dėl geležinkelių sistemos sąveikos Europos Sąjungoje su pakeitimais, padarytais 2020 m. gegužės 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/700. ^s-186dd1bd872b37bb0cbf127b
+6. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos [direktyva (ES) 2016/797](https://eur-lex.europa.eu/eli/dir/2016/797/oj) dėl geležinkelių sistemos sąveikos Europos Sąjungoje su pakeitimais, padarytais 2020 m. gegužės 25 d. Europos Parlamento ir Tarybos [direktyva (ES) 2020/700](https://eur-lex.europa.eu/eli/dir/2020/700/oj). ^s-186dd1bd872b37bb0cbf127b
 
 
-7. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/798 dėl geležinkelių saugos su paskutiniais pakeitimais, padarytais 2020 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/1530. ^s-fe52865802c7118c0ac9fec7
+7. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos [direktyva (ES) 2016/798](https://eur-lex.europa.eu/eli/dir/2016/798/oj) dėl geležinkelių saugos su paskutiniais pakeitimais, padarytais 2020 m. spalio 21 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2020/1530](https://eur-lex.europa.eu/eli/reg/2020/1530/oj). ^s-fe52865802c7118c0ac9fec7
 
 
-8. 2017 m. lapkričio 22 d. Komisijos įgyvendinimo reglamentas (ES) 2017/2177 dėl galimybės naudotis geležinkelių paslaugų įrenginiais ir su geležinkeliais susijusiomis paslaugomis. ^s-0566d48c003efd075c1fb549
+8. 2017 m. lapkričio 22 d. Komisijos įgyvendinimo [reglamentas (ES) 2017/2177](https://eur-lex.europa.eu/eli/reg/2017/2177/oj) dėl galimybės naudotis geležinkelių paslaugų įrenginiais ir su geležinkeliais susijusiomis paslaugomis. ^s-0566d48c003efd075c1fb549
 
 
-9. 2021 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/782 dėl geležinkelių keleivių teisių ir pareigų. ^s-2ad26f551bfb8937ba83309e
+9. 2021 m. balandžio 29 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2021/782](https://eur-lex.europa.eu/eli/reg/2021/782/oj) dėl geležinkelių keleivių teisių ir pareigų. ^s-2ad26f551bfb8937ba83309e
 
 
 ____________________
@@ -3745,10 +3745,10 @@ Nr. X-653, 2006-06-08, Žin., 2006, Nr. 72-2672 (2006-06-28)
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1595, 2011-09-22, Žin., 2011, Nr. 121-5703 (2011-10-08)
-[[#^s-7df2c716b2c22db6af5563db|GELEŽINKELIŲ TRANSPORTO KODEKSO 1, 3, 4, 7, 11, 12, 13, 16, 23, 24, 25, 29, 33 STRAIPSNIŲ]], PRIEDO PAKEITIMO IR PAPILDYMO, KODEKSO PAPILDYMO 4(1), 25(1), 33(1) STRAIPSNIAIS IR 8, [[#^s-0c2b21052cc31bbb0a57206b|27 STRAIPSNIŲ]] PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+GELEŽINKELIŲ TRANSPORTO KODEKSO [[latest/TAR.6EA8AC8A483B|1]], [[latest/TAR.6EA8AC8A483B|3]], [[latest/TAR.6EA8AC8A483B|4]], [[#^s-f1ae106bdff0fb4694bfbcaf|7]], [[#^s-ec8fab4c6ffa8cec00f70ba6|11]], [[#^s-afce5d72b1eec8c419b8cc06|12]], [[#^s-9bb5f71df5a4e2aa8db3e1b8|13]], [[#^s-f767f9c4ef9ef7c953983f56|16]], [[#^s-4bf343fb41267a6d62b5302c|23]], [[#^s-d1230434f60f7cf204a55d1f|24]], [[#^s-22e005d9eca6a4c42e5f68bb|25]], [[#^s-f362e2bc06f36b06be2fbdb8|29]], [[#^s-7df2c716b2c22db6af5563db|33]] STRAIPSNIŲ, PRIEDO PAKEITIMO IR PAPILDYMO, KODEKSO PAPILDYMO 4(1), 25(1), 33(1) STRAIPSNIAIS IR [[#^s-65bdd6a0b73d5ca10c404e96|8]], [[#^s-0c2b21052cc31bbb0a57206b|27]] STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 Šio įstatymo [[#^s-ea9cdc953bb57f1f59888794|18 straipsnyje]] išdėstytas [[#^s-423e1d7f823e47dba707cd6b|Lietuvos Respublikos geležinkelių transporto kodekso 331 straipsnis]] galioja iki 2014 m. gruodžio 3 d.
-Vežant keleivius vietinio susisiekimo maršrutais, Reglamento (EB) Nr. 1371/2007 [[#^s-65bdd6a0b73d5ca10c404e96|8 straipsnio]] 2 ir 3 dalių, 13, 21, 22, 23, [[#^s-d1230434f60f7cf204a55d1f|24 straipsnių]] nuostatos yra taikomos nuo 2014 m. gruodžio 3 d.
-Teikiant keleivių vežimo geležinkelių transportu tarptautiniais maršrutais paslaugas, kai didelė dalis šių paslaugų, įskaitant bent vieną sustojimą geležinkelio stotyje pagal tvarkaraštį, suteikiama už Europos Sąjungos valstybės narės ribų, Reglamentas (EB) Nr. 1371/2007 taikomas nuo 2014 m. gruodžio 3 d.
+Vežant keleivius vietinio susisiekimo maršrutais, [Reglamento (EB) Nr. 1371/2007 8 straipsnio](https://eur-lex.europa.eu/eli/reg/1371/2007/art_8/oj) 2 ir 3 dalių, [[#^s-9bb5f71df5a4e2aa8db3e1b8|13]], [[#^s-0d4c2f8c2b50bbf439d93a57|21]], [[#^s-8ea40054acca067e7cdcf0c6|22]], [[#^s-4bf343fb41267a6d62b5302c|23]], [[#^s-d1230434f60f7cf204a55d1f|24]] straipsnių nuostatos yra taikomos nuo 2014 m. gruodžio 3 d.
+Teikiant keleivių vežimo geležinkelių transportu tarptautiniais maršrutais paslaugas, kai didelė dalis šių paslaugų, įskaitant bent vieną sustojimą geležinkelio stotyje pagal tvarkaraštį, suteikiama už Europos Sąjungos valstybės narės ribų, [Reglamentas (EB) Nr. 1371/2007](https://eur-lex.europa.eu/eli/reg/1371/2007/oj) taikomas nuo 2014 m. gruodžio 3 d.
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3758,13 +3758,13 @@ Nr. XI-1596, 2011-09-22, Žin., 2011, Nr. 121-5704 (2011-10-08)
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-235, 2013-04-18, Žin., 2013, Nr. 46-2242 (2013-05-07)
-GELEŽINKELIŲ TRANSPORTO KODEKSO 3, 7, 10, 11, 13, 16, 21, 22, 23, 24, 25, 26, 28, 31 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 6, 30, 30(1) STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR KODEKSO PAPILDYMO 10(1), 23(1) STRAIPSNIAIS ĮSTATYMAS
+GELEŽINKELIŲ TRANSPORTO KODEKSO [[latest/TAR.6EA8AC8A483B|3]], [[#^s-f1ae106bdff0fb4694bfbcaf|7]], [[#^s-ca3170ed75cac66a4c95751c|10]], [[#^s-ec8fab4c6ffa8cec00f70ba6|11]], [[#^s-9bb5f71df5a4e2aa8db3e1b8|13]], [[#^s-f767f9c4ef9ef7c953983f56|16]], [[#^s-0d4c2f8c2b50bbf439d93a57|21]], [[#^s-8ea40054acca067e7cdcf0c6|22]], [[#^s-4bf343fb41267a6d62b5302c|23]], [[#^s-d1230434f60f7cf204a55d1f|24]], [[#^s-22e005d9eca6a4c42e5f68bb|25]], [[#^s-a3c43799d29c0d5b46d18e62|26]], [[#^s-cf26eef4c7ef041012bfaeca|28]], [[latest/TAR.6EA8AC8A483B|31]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 6, 30, 30(1) STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR KODEKSO PAPILDYMO 10(1), 23(1) STRAIPSNIAIS ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-c9a0a8bef2a76afe02145d9f|20 straipsnį]], įsigalioja 2013 m. liepos 1 d.
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-236, 2013-04-18, Žin., 2013, Nr. 46-2243 (2013-05-07)
-GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO IR PAPILDYMO 4(1) STRAIPSNIU ĮSTATYMAS
+[[latest/TAR.6EA8AC8A483B|GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO ĮSTATYMO 4 STRAIPSNIO]] PAKEITIMO IR PAPILDYMO 4(1) STRAIPSNIU ĮSTATYMAS
 Šis įstatymas įsigalioja 2013 m. liepos 1 d.
 
 
@@ -3790,7 +3790,7 @@ Nr. XII-1604, 2015-04-09, paskelbta TAR 2015-04-15, i. k. 2015-05813
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1622, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06523
-[[#^s-7df2c716b2c22db6af5563db|Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 4, 7, 11, 12, 13, 16, 23, 24, 25, 29, [[#^s-7df2c716b2c22db6af5563db\|33 straipsnių]]]], priedo pakeitimo ir papildymo, Kodekso papildymo 4-1, 25-1, 33-1 straipsniais ir 8, [[#^s-0c2b21052cc31bbb0a57206b|27 straipsnių]] pripažinimo netekusiais galios [[latest/TAR.9FAD3846EBCE|įstatymo Nr. XI-1595]] [[#^s-c9a0a8bef2a76afe02145d9f|20 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 4, [[#^s-f1ae106bdff0fb4694bfbcaf|7]], [[#^s-ec8fab4c6ffa8cec00f70ba6|11]], [[#^s-afce5d72b1eec8c419b8cc06|12]], [[#^s-9bb5f71df5a4e2aa8db3e1b8|13]], [[#^s-f767f9c4ef9ef7c953983f56|16]], [[#^s-4bf343fb41267a6d62b5302c|23]], [[#^s-d1230434f60f7cf204a55d1f|24]], [[#^s-22e005d9eca6a4c42e5f68bb|25]], [[#^s-f362e2bc06f36b06be2fbdb8|29]], [[#^s-7df2c716b2c22db6af5563db|33]] straipsnių, priedo pakeitimo ir papildymo, Kodekso papildymo 4-1, 25-1, 33-1 straipsniais ir [[#^s-65bdd6a0b73d5ca10c404e96|8]], [[#^s-0c2b21052cc31bbb0a57206b|27]] straipsnių pripažinimo netekusiais galios įstatymo Nr. XI-1595 [[#^s-c9a0a8bef2a76afe02145d9f|20 straipsnio]] pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3845,12 +3845,12 @@ Nr. XIII-2253, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10923
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2254, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10924
-Lietuvos Respublikos geležinkelių transporto kodekso 3, 4-1, 5, 6-1, 7, 7-1, 9, 10, 14, 23, 23-1, 24, 25, 26, 28, 29, 30-1, 30-2, 30-3, 30-4, [[#^s-7df2c716b2c22db6af5563db|33 straipsnių]] ir priedo pakeitimo, Kodekso papildymo 24-1, 24-2, 24-3, 24-4, 25-1, 25-2, 29-1, 29-2, 29-3, 29-4, 29-5, 29-6, 29-7 ir 29-8 straipsniais [[latest/788fd090131611e9b2b6e7cdb14007b4|įstatymo Nr. XIII-1858]] 21, 22, 28 ir [[#^s-96fe654657b1df12860e8df4|37 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos geležinkelių transporto kodekso 3, 4-1, 5, 6-1, [[#^s-f1ae106bdff0fb4694bfbcaf|7]], 7-1, [[#^s-259d42ef8439e58388bc5cab|9]], [[#^s-ca3170ed75cac66a4c95751c|10]], [[#^s-e880d18b6c3619a4be699945|14]], [[#^s-4bf343fb41267a6d62b5302c|23]], 23-1, [[#^s-d1230434f60f7cf204a55d1f|24]], [[#^s-22e005d9eca6a4c42e5f68bb|25]], [[#^s-a3c43799d29c0d5b46d18e62|26]], [[#^s-cf26eef4c7ef041012bfaeca|28]], [[#^s-f362e2bc06f36b06be2fbdb8|29]], 30-1, 30-2, 30-3, 30-4, [[#^s-7df2c716b2c22db6af5563db|33]] straipsnių ir priedo pakeitimo, Kodekso papildymo 24-1, 24-2, 24-3, 24-4, 25-1, 25-2, 29-1, 29-2, 29-3, 29-4, 29-5, 29-6, 29-7 ir 29-8 straipsniais [[latest/788fd090131611e9b2b6e7cdb14007b4|įstatymo Nr. XIII-1858]] [[#^s-0d4c2f8c2b50bbf439d93a57|21]], [[#^s-8ea40054acca067e7cdcf0c6|22]], [[#^s-cf26eef4c7ef041012bfaeca|28]] ir [[#^s-96fe654657b1df12860e8df4|37]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2686, 2019-12-13, paskelbta TAR 2019-12-20, i. k. 2019-20857
-[[#^s-7df2c716b2c22db6af5563db|Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 4, 7, 11, 12, 13, 16, 23, 24, 25, 29, [[#^s-7df2c716b2c22db6af5563db\|33 straipsnių]]]], priedo pakeitimo ir papildymo, Kodekso papildymo 4-1, 25-1, 33-1 straipsniais ir 8, [[#^s-0c2b21052cc31bbb0a57206b|27 straipsnių]] pripažinimo netekusiais galios [[latest/TAR.9FAD3846EBCE|įstatymo Nr. XI-1595]] [[#^s-c9a0a8bef2a76afe02145d9f|20 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 4, [[#^s-f1ae106bdff0fb4694bfbcaf|7]], [[#^s-ec8fab4c6ffa8cec00f70ba6|11]], [[#^s-afce5d72b1eec8c419b8cc06|12]], [[#^s-9bb5f71df5a4e2aa8db3e1b8|13]], [[#^s-f767f9c4ef9ef7c953983f56|16]], [[#^s-4bf343fb41267a6d62b5302c|23]], [[#^s-d1230434f60f7cf204a55d1f|24]], [[#^s-22e005d9eca6a4c42e5f68bb|25]], [[#^s-f362e2bc06f36b06be2fbdb8|29]], [[#^s-7df2c716b2c22db6af5563db|33]] straipsnių, priedo pakeitimo ir papildymo, Kodekso papildymo 4-1, 25-1, 33-1 straipsniais ir [[#^s-65bdd6a0b73d5ca10c404e96|8]], [[#^s-0c2b21052cc31bbb0a57206b|27]] straipsnių pripažinimo netekusiais galios įstatymo Nr. XI-1595 [[#^s-c9a0a8bef2a76afe02145d9f|20 straipsnio]] pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3895,7 +3895,7 @@ Nr. XIV-1050, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09663
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1323, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15651
-Lietuvos Respublikos geležinkelių transporto kodekso 9 ir 23-1 straipsnių pakeitimo [[latest/1b6f8100ccfc11ec8d9390588bf2de65|įstatymo Nr. XIV-1050]] 1 ir 2 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos geležinkelių transporto kodekso [[#^s-259d42ef8439e58388bc5cab|9]] ir 23-1 straipsnių pakeitimo [[latest/1b6f8100ccfc11ec8d9390588bf2de65|įstatymo Nr. XIV-1050]] 1 ir 2 straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3925,4 +3925,4 @@ Nr. XV-390, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12144
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1009, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11095
-Lietuvos Respublikos geležinkelių transporto kodekso 3, 29-6 ir 29-8 straipsnių pakeitimo įstatymas
+[Lietuvos Respublikos geležinkelių transporto kodekso 3, 29-6 ir 29-8 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/3a2669a2715911f1b53dfa020e517810)

@@ -40,7 +40,7 @@ Vilnius
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos įstatymą „Dėl atsiskaitymų su biudžetu“ (Žin., 1993, Nr. 14-347); ^s-d7365ad2157b0d58172a2d0c
+1) Lietuvos Respublikos įstatymą [„Dėl atsiskaitymų su biudžetu“](https://e-tar.lt/portal/lt/legalAct/TAR.3B6124406B31) (Žin., 1993, Nr. 14-347); ^s-d7365ad2157b0d58172a2d0c
 
 
 2) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos įstatymo „Dėl atsiskaitymų su biudžetu“ pakeitimo ir papildymo“ (Žin., 1994, Nr. 14-233). ^s-ea237ebea3eb0c94dffb3647

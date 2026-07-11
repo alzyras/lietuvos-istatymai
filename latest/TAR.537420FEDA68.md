@@ -246,7 +246,7 @@ Papildyti Įstatymą 121 straipsniu:
 2. 14 straipsnio 2 dalyje vietoj žodžių „gavęs su apskrities profesinio mokymo taryba suderintą apskrities viršininko paraišką“ įrašyti žodžius „šį planą apsvarsčius Lietuvos profesinio mokymo taryboje“ ir šią dalį išdėstyti taip: ^s-c5c4fbb60c986925afe527a9
 
 
-„2. Asmenų, išskyrus asmenis, kuriems taikomas Užimtumo rėmimo įstatymas, Neįgaliųjų socialinės integracijos įstatymas ar [[latest/TAR.4FC026AC03AE|Vidaus tarnybos statuto patvirtinimo įstatymas]], pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas profesinio mokymo programas planą tvirtina švietimo ir mokslo ministras, šį planą apsvarsčius Lietuvos profesinio mokymo taryboje, o į vidaus reikalų profesinio mokymo įstaigų vykdomas programas – vidaus reikalų ministras.“
+„2. Asmenų, išskyrus asmenis, kuriems taikomas [Užimtumo rėmimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5), Neįgaliųjų socialinės integracijos įstatymas ar [[latest/TAR.4FC026AC03AE|Vidaus tarnybos statuto patvirtinimo įstatymas]], pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas profesinio mokymo programas planą tvirtina švietimo ir mokslo ministras, šį planą apsvarsčius Lietuvos profesinio mokymo taryboje, o į vidaus reikalų profesinio mokymo įstaigų vykdomas programas – vidaus reikalų ministras.“
 
 
 3. Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip: ^s-b2d8e842ed10b757624f82e8
@@ -356,7 +356,7 @@ Pakeisti [[#^s-538b7e9bc7ebc9593678d2ba|18 straipsnį]] ir jį išdėstyti taip:
 4) skelbia informaciją apie profesinio mokymo įstaigų vykdomas formaliojo profesinio mokymo programas, jas vykdančius ir turinčius licencijas jas vykdyti profesinio mokymo teikėjus, apie institucijas, kurioms suteikta teisė vertinti asmens įgytas kompetencijas; ^s-0fba38e267fdc76c27ebf28b
 
 
-5) tvirtina asmenų, išskyrus asmenis, kuriems taikomas Užimtumo rėmimo įstatymas, Neįgaliųjų socialinės integracijos įstatymas ar [[latest/TAR.4FC026AC03AE|Vidaus tarnybos statuto patvirtinimo įstatymas]], pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas profesinio mokymo programas planą; ^s-b98908a75cccc860f32994d6
+5) tvirtina asmenų, išskyrus asmenis, kuriems taikomas [Užimtumo rėmimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5), Neįgaliųjų socialinės integracijos įstatymas ar [[latest/TAR.4FC026AC03AE|Vidaus tarnybos statuto patvirtinimo įstatymas]], pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas profesinio mokymo programas planą; ^s-b98908a75cccc860f32994d6
 
 
 6) tvirtina asmenų priėmimo į valstybines ir savivaldybių profesinio mokymo įstaigas bendruosius kriterijus; ^s-8bf2cd988066af5d3d88d4cd

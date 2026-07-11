@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-91ddd9e3aa946867499f46be
 
 
-Lietuvos Respublikos įstatymą „Dėl Lietuvos Aukščiausiojo Teismo teisėjų skaičiaus“ pripažinti netekusiu galios.
+Lietuvos Respublikos įstatymą [„Dėl Lietuvos Aukščiausiojo Teismo teisėjų skaičiaus“](https://e-tar.lt/portal/lt/legalAct/TAR.897502CCBCDE) pripažinti netekusiu galios.
 
 
 

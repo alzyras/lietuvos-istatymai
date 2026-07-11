@@ -101,7 +101,7 @@ BENDROSIOS NUOSTATOS
 11. Geležinkelių transporto eismo įvykio tyrimas – procedūra, atliekama po eismo įvykio siekiant užkirsti kelią kitam eismo įvykiui. Tai informacijos apie eismo įvykį surinkimas ir analizė, išvadų pateikimas ir įvertinimas, eismo įvykio priežasčių ir (ar) asmenų, pažeidusių geležinkelių transporto eismo saugos reikalavimus, nustatymas bei geležinkelių transporto eismo saugos rekomendacijų pateikimas. ^s-e2f5c3368709e9a433dd5acd
 
 
-12. Geležinkelių transporto eismo įvykis (toliau – eismo įvykis) – įvykis, kai geležinkelių transporto eismo metu dėl gaivalinių nelaimių, techninių priežasčių ar nustatytų geležinkelių transporto eismo saugos reikalavimų nesilaikymo ar netinkamo laikymosi atsiranda šio straipsnio 2, 14, [[#^s-1d83842326b63d9f4bf946a3|19 dalyse]] nurodytų žalingų pasekmių. Eismo įvykiai skirstomi į katastrofas, avarijas ir riktus. ^s-ddbf412e69f63bb15d0d4ebc
+12. Geležinkelių transporto eismo įvykis (toliau – eismo įvykis) – įvykis, kai geležinkelių transporto eismo metu dėl gaivalinių nelaimių, techninių priežasčių ar nustatytų geležinkelių transporto eismo saugos reikalavimų nesilaikymo ar netinkamo laikymosi atsiranda šio straipsnio [[#^s-35f147bf0eaf85adf299cfc0|2]], [[#^s-8d1a854da8956850d02b2305|14]], [[#^s-1d83842326b63d9f4bf946a3|19]] dalyse nurodytų žalingų pasekmių. Eismo įvykiai skirstomi į katastrofas, avarijas ir riktus. ^s-ddbf412e69f63bb15d0d4ebc
 
 
 13. Geležinkelių transporto eismo sauga (toliau – eismo sauga) – geležinkelių transporto eismo būklė, kai keleiviai, kiti geležinkelių transporto eismo dalyviai ir kiti asmenys, taip pat geležinkelių infrastruktūra, geležinkelių riedmenys bei vežami kroviniai ir bagažas yra apsaugoti nuo eismo įvykių ir jų padarinių. ^s-4943d42a14a4aa6095f6ede8

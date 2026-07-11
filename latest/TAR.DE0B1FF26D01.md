@@ -99,7 +99,7 @@ Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
 ### 3 straipsnis. Kredito unijos pavadinimas, teisinė forma, buveinė, veiklos tikslas, kredito unijos veiklą reglamentuojantys teisės aktai ^s-6ea0b72367add85099dde2ef
 
 
-1. Žodžius „kredito unija“ ar kitokius šių žodžių junginius arba jų vedinius Lietuvos Respublikoje gali vartoti savo pavadinime, reklamoje ar kitais tikslais pagal šį įstatymą veikiančios kredito unijos, išskyrus atvejus, kai akivaizdu, kad šių žodžių vartojimas nesusijęs su licencinių finansinių paslaugų teikimu. Kredito unijos pavadinimui Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 3 straipsnio 4 dalies nuostata netaikoma. ^s-6add20e15d876151ac739a28
+1. Žodžius „kredito unija“ ar kitokius šių žodžių junginius arba jų vedinius Lietuvos Respublikoje gali vartoti savo pavadinime, reklamoje ar kitais tikslais pagal šį įstatymą veikiančios kredito unijos, išskyrus atvejus, kai akivaizdu, kad šių žodžių vartojimas nesusijęs su licencinių finansinių paslaugų teikimu. Kredito unijos pavadinimui [[latest/TAR.94DB985EB965|Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo 3 straipsnio 4 dalies]] nuostata netaikoma. ^s-6add20e15d876151ac739a28
 
 
 2. Kredito unijos, kaip juridinio asmens, teisinė forma gali būti tik kooperatinė bendrovė. ^s-d286ad33dca7eff2218bb0db
@@ -368,7 +368,7 @@ Nr. XIII-2967, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11347
 ### 8 straipsnis. Licencijos atšaukimas ar jos galiojimo sustabdymas ^s-915657a50aaddc20f4403462
 
 
-1. Licencijos atšaukimo pagrindus nustato [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatymas]]. Be [[latest/TAR.779892D853B4#^s-0d2576fcc612336a7fb4f0df|Lietuvos Respublikos finansų įstaigų įstatymo 10 straipsnio]] 1 ir [[#^s-70d166e26efad5b73d16ecf2|2 dalyse]] nustatytų pagrindų, licencija gali būti atšaukiama priežiūros institucijos sprendimu, jeigu: ^s-3c9cf2afa9cad40157af921f
+1. Licencijos atšaukimo pagrindus nustato [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatymas]]. Be [[latest/TAR.779892D853B4#^s-0d2576fcc612336a7fb4f0df|Lietuvos Respublikos finansų įstaigų įstatymo 10 straipsnio]] [[latest/TAR.779892D853B4#^s-2b0f40f4ac020879e7ce8572|1]] ir [[latest/TAR.779892D853B4#^s-58f47aa87e9a19947cccfe8a|2]] dalyse nustatytų pagrindų, licencija gali būti atšaukiama priežiūros institucijos sprendimu, jeigu: ^s-3c9cf2afa9cad40157af921f
 
 
 1) kredito unija neatitinka reikalavimų, kurie nustatyti licencijos išdavimui; ^s-64d3e96ebc5beff6e6e480bc
@@ -519,7 +519,7 @@ Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
 9) kredito unijos valdybos sutikimu perleisti savo pagrindinį ir (ar) papildomus pajus kitų asmenų nuosavybėn. Valdyba neduoda sutikimo perleisti pajų, jeigu jį įgyjantis asmuo pagal šį įstatymą negali būti kredito unijos nariu ar neatitinka narystės kriterijaus; ^s-7a200978e64f8e7d710a90ec
 
 
-10) reikalauti, kad kredito unija grąžintų jo pajinį įnašą ar pajinio įnašo dalį, laikydamasi šio įstatymo 14 ir [[#^s-723cb64178f89bf145bdbf19|47 straipsniuose]] nustatytos tvarkos, išskyrus atvejus, kai įsigytas šio įstatymo [[#^s-c022cf7c1ffbec05a1a580ef|35 straipsnio 5 dalyje]] numatytas pajus. ^s-1e1bee53dfa6f2eaaa8912d5
+10) reikalauti, kad kredito unija grąžintų jo pajinį įnašą ar pajinio įnašo dalį, laikydamasi šio įstatymo [[#^s-d46dcac442570338da0a40c4|14]] ir [[#^s-723cb64178f89bf145bdbf19|47]] straipsniuose nustatytos tvarkos, išskyrus atvejus, kai įsigytas šio įstatymo [[#^s-c022cf7c1ffbec05a1a580ef|35 straipsnio 5 dalyje]] numatytas pajus. ^s-1e1bee53dfa6f2eaaa8912d5
 
 
 2. Kredito unijos įstatuose gali būti numatytos ir kitos nario teisės, neprieštaraujančios Lietuvos Respublikos įstatymams. ^s-04493d2c23ac2a894c754b2d
@@ -752,7 +752,7 @@ Nr. XIII-102, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29414
 4. Balsavimas kredito unijos visuotiniame narių susirinkime yra atviras. Slaptai balsuojama, jeigu to reikalauja ne mažiau kaip 1/4 susirinkime dalyvaujančių kredito unijos narių. ^s-8c176584784790a004de894f
 
 
-5. Kredito unijos visuotinio narių susirinkimo nutarimai priimami kredito unijos narių, užsiregistravusių susirinkimo dalyvių sąraše, balsų dauguma, išskyrus šio įstatymo [[#^s-44e181a69513d9ba188d6fac|18 straipsnio 2 dalies]] 1, 4, 5, 10 ir 11 punktuose nurodytus atvejus. Šiais atvejais sprendimai priimami ne mažiau kaip 2/3 kredito unijos narių, užsiregistravusių susirinkimo dalyvių sąraše, balsų dauguma. ^s-a595459c48249b0d5f2ad39c
+5. Kredito unijos visuotinio narių susirinkimo nutarimai priimami kredito unijos narių, užsiregistravusių susirinkimo dalyvių sąraše, balsų dauguma, išskyrus šio įstatymo [[#^s-44e181a69513d9ba188d6fac|18 straipsnio 2 dalies]] [[#^s-330db5608de3566e663787c6|1]], [[#^s-2a534aa47b120f833744f8b3|4]], [[#^s-358bdb983317d2c39c09e25b|5]], [[#^s-3a7dfa7c02c44da26c8169e1|10]] ir [[#^s-3c03dbe9ff0c24d5a00f5ca2|11]] punktuose nurodytus atvejus. Šiais atvejais sprendimai priimami ne mažiau kaip 2/3 kredito unijos narių, užsiregistravusių susirinkimo dalyvių sąraše, balsų dauguma. ^s-a595459c48249b0d5f2ad39c
 
 
 6. Kredito unijos visuotinio narių susirinkimo protokolą pasirašo susirinkimo pirmininkas, sekretorius ir vienas susirinkimo įgaliotas kredito unijos narys. Jeigu visi kredito unijos visuotiniame narių susirinkime dalyvaujantys kredito unijos nariai (jų įgaliotiniai) balsavo raštu, protokolą pagal gautus balsus surašo ir pasirašo administracijos vadovas. Prie protokolo turi būti pridedama: susirinkimo dalyvių registravimo sąrašas; įgaliojimai ir kiti dokumentai, patvirtinantys asmenų teisę balsuoti; iš anksto raštu balsavusių kredito unijos narių bendrieji balsavimo biuleteniai. ^s-3302fbf8c333b7155bbcd1a2
@@ -830,10 +830,10 @@ Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
 
 
 
-5. Bendrasis balsavimo biuletenis laikomas galiojančiu ir negali būti atšauktas, jeigu jis atitinka šio straipsnio 3 ir [[#^s-68286df1406dcb6ed63dfccf|4 dalyse]] nustatytus reikalavimus ir kredito unija jį gavo iki visuotinio narių susirinkimo. ^s-56c49da280d30763aa2bfb1e
+5. Bendrasis balsavimo biuletenis laikomas galiojančiu ir negali būti atšauktas, jeigu jis atitinka šio straipsnio [[#^s-587a71eac2ecc27beb420e64|3]] ir [[#^s-68286df1406dcb6ed63dfccf|4]] dalyse nustatytus reikalavimus ir kredito unija jį gavo iki visuotinio narių susirinkimo. ^s-56c49da280d30763aa2bfb1e
 
 
-6. Jeigu bendrasis balsavimo biuletenis neatitinka šio straipsnio 3 ir [[#^s-68286df1406dcb6ed63dfccf|4 dalyse]] nustatytų reikalavimų, laikoma, kad kredito unijos narys iš anksto nebalsavo. ^s-d4a4b4cb891e7c27dea40d52
+6. Jeigu bendrasis balsavimo biuletenis neatitinka šio straipsnio [[#^s-587a71eac2ecc27beb420e64|3]] ir [[#^s-68286df1406dcb6ed63dfccf|4]] dalyse nustatytų reikalavimų, laikoma, kad kredito unijos narys iš anksto nebalsavo. ^s-d4a4b4cb891e7c27dea40d52
 
 
 7. Jeigu bendrasis balsavimo biuletenis užpildytas taip, kad atskiru klausimu neįmanoma nustatyti kredito unijos nario valios, laikoma, kad kredito unijos narys šiuo klausimu iš anksto nebalsavo. ^s-b4b7e302273ff50a86556713
@@ -1030,7 +1030,7 @@ Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
 4) sprendžia kitus kredito unijos įstatuose, taip pat visuotinio narių susirinkimo nutarimuose valdybos kompetencijai priskirtus kredito unijos veiklos priežiūros klausimus. ^s-62d02965a66c2454a56f8aa7
 
 
-5. Kredito unijos valdybos posėdžių protokolai rašomi ir pateikiami susipažinti taip, kaip nustatyta šio įstatymo [[#^s-3fd067dc0bbff54515bac812|24 straipsnio]] 2, 3 ir [[#^s-c88f931909fa4f9cd2f2a93e|4 dalyse]]. ^s-a19ac8e2420f85f539f80fe6
+5. Kredito unijos valdybos posėdžių protokolai rašomi ir pateikiami susipažinti taip, kaip nustatyta šio įstatymo [[#^s-3fd067dc0bbff54515bac812|24 straipsnio]] [[#^s-216b9015d22ae192c8089952|2]], [[#^s-dd409f9b5a969fe20614cade|3]] ir [[#^s-f92e414299ad4f9c38ca58d4|4]] dalyse. ^s-a19ac8e2420f85f539f80fe6
 
 
 6. Kiekvienas kredito unijos valdybos narys privalo imtis visų galimų priemonių tam, kad valdyba spręstų jos kompetencijai priskirtus klausimus ir sprendimai atitiktų teisės aktų nustatytus reikalavimus, taip pat vykdyti kitas įstatymų nustatytas pareigas. Kredito unijos valdybos narys, nevykdantis ar netinkamai vykdantis šią pareigą ar kituose teisės aktuose nustatytas pareigas, atsako pagal įstatymus, kredito unijos įstatus, su kredito unija sudarytas sutartis. ^s-2342db8a6872b7bb0480897f
@@ -1141,7 +1141,7 @@ Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
 
 
 
-3. Vertinant kredito unijos vadovų reputaciją, mutatis mutandis taikomos [[latest/TAR.B6B636C7384A#^s-1da1553dfe8dcc899bb15a35|Bankų įstatymo 34 straipsnio]] 12 ir [[#^s-89d1e37ba9ec3caa2d87a7c0|13 dalių]] nuostatos. ^s-db9b7ed891a7b33c9de8972b
+3. Vertinant kredito unijos vadovų reputaciją, mutatis mutandis taikomos [[latest/TAR.B6B636C7384A#^s-1da1553dfe8dcc899bb15a35|Bankų įstatymo 34 straipsnio]] [[latest/TAR.B6B636C7384A#^s-cbf0d3cfe40162e5179f51eb|12]] ir [[latest/TAR.B6B636C7384A#^s-20a4b9e975c400d03726ecc9|13]] dalių nuostatos. ^s-db9b7ed891a7b33c9de8972b
 Straipsnio dalies pakeitimai:
 Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
 
@@ -1225,13 +1225,13 @@ Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
 
 
 
-15. Įtariamųjų, kaltinamųjų ir nuteistųjų registro valdytojas kredito unijai pateikia pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų apie šio straipsnio 1 ir [[#^s-89d1e37ba9ec3caa2d87a7c0|13 dalyje]] nurodytus asmenis ^s-4748ed3a6766c14c39d35a47
+15. Įtariamųjų, kaltinamųjų ir nuteistųjų registro valdytojas kredito unijai pateikia pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų apie šio straipsnio [[#^s-727e27965c9d15a2a9576904|1]] ir [[#^s-89d1e37ba9ec3caa2d87a7c0|13]] dalyje nurodytus asmenis ^s-4748ed3a6766c14c39d35a47
 Papildyta straipsnio dalimi:
 Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
 
 
 
-16. Į šio straipsnio 2 ir [[#^s-89d1e37ba9ec3caa2d87a7c0|13 dalyse]] nurodytų kredito unijos vadovų ir darbuotojų pareigas asmenį skirianti ar paskyrusi kredito unija šio straipsnio 2 ar [[#^s-89d1e37ba9ec3caa2d87a7c0|13 dalyje]] nustatyta tvarka gautos informacijos apie asmenį negali perduoti tretiesiems asmenims, išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus. ^s-3d9c8dc18f51e271d8607f66
+16. Į šio straipsnio [[#^s-f50df61fd1336cfd083665e8|2]] ir [[#^s-89d1e37ba9ec3caa2d87a7c0|13]] dalyse nurodytų kredito unijos vadovų ir darbuotojų pareigas asmenį skirianti ar paskyrusi kredito unija šio straipsnio [[#^s-f50df61fd1336cfd083665e8|2]] ar [[#^s-89d1e37ba9ec3caa2d87a7c0|13]] dalyje nustatyta tvarka gautos informacijos apie asmenį negali perduoti tretiesiems asmenims, išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus. ^s-3d9c8dc18f51e271d8607f66
 Papildyta straipsnio dalimi:
 Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
 
@@ -1374,7 +1374,7 @@ Kredito unijos kapitalą sudaro nuosavas kapitalas ir skolintas kapitalas.
 ### 34 straipsnis. Mažiausias kredito unijos kapitalas ^s-11e0625e4f03ffb8632a0249
 
 
-Šio įstatymo [[#^s-63d5d84929156b2a5ba73d5a|32 straipsnio 1 dalies]] 1, 2, 3 ir 4 punktuose nustatytų kredito unijos nuosavo kapitalo dalių suma turi sudaryti ne mažiau kaip:
+Šio įstatymo [[#^s-63d5d84929156b2a5ba73d5a|32 straipsnio 1 dalies]] [[#^s-6733f3958ec640db198f07a6|1]], [[#^s-f6c7adb9fdc63801086ae652|2]], [[#^s-f09f60be2cdbba8fb02a0d3e|3]] ir [[#^s-ad39d61dfab09e01929d205c|4]] punktuose nustatytų kredito unijos nuosavo kapitalo dalių suma turi sudaryti ne mažiau kaip:
 
 
 1) 145 000 eurų, jeigu kredito unija neketina teikti šio įstatymo [[#^s-3ef0839c551f64136d802bfb|5 straipsnio 2 dalies 3 punkte]] nurodytos licencinės finansinės paslaugos; ^s-7a092a0c7a15bcc6856e397a
@@ -1391,7 +1391,7 @@ Kredito unijos kapitalą sudaro nuosavas kapitalas ir skolintas kapitalas.
 
 
 2. Mažiausias pajinio įnašo už pagrindinį pajų dydis negali būti mažesnis kaip 30 eurų. Kredito unijos narys gali turėti tik vieną pagrindinį pajų. ^s-9575b84360116de80a9baa97
-TAR pastaba. [[#^s-9575b84360116de80a9baa97|35 straipsnio 2 dalies]] nuostata dėl mažiausio pajinio įnašo už pagrindinį pajų dydžio taikoma tik nuo [[latest/caf5cd4048f611e6b5d09300a16a686c|įstatymo Nr. XII-2567]]  įsigaliojimo(2017-01-01) įsigytiems pagrindiniams pajams.
+TAR pastaba. 35 straipsnio 2 dalies nuostata dėl mažiausio pajinio įnašo už pagrindinį pajų dydžio taikoma tik nuo [[latest/caf5cd4048f611e6b5d09300a16a686c|įstatymo Nr. XII-2567]]  įsigaliojimo(2017-01-01) įsigytiems pagrindiniams pajams.
 
 
 3. Išieškoti iš kredito unijos jos nario pajinius įnašus, kurie yra kredito unijos nuosavybė, draudžiama, išskyrus atvejus, kai skolininko narystė kredito unijoje pasibaigė. ^s-b370e990770505abf089498f
@@ -1601,7 +1601,7 @@ KREDITO UNIJOS VEIKLOS RIZIKA IR JOS APRIBOJIMAS. KREDITO UNIJOS KLIENTŲ INTERE
 ### 44 straipsnis. Skolinimas ^s-ca52f78b3f7778ab83d2657d
 
 
-Šio įstatymo 45 ir [[#^s-9f856dd84a5810c4311b6681|46 straipsniuose]] skolinimu laikomas sandorių, iš kurių kyla kredito unijos piniginis reikalavimas ar neatšaukiamas kredito unijos piniginis įsipareigojimas, sudarymas.
+Šio įstatymo [[#^s-bdcf563b849bf21692becd1f|45]] ir [[#^s-9f856dd84a5810c4311b6681|46]] straipsniuose skolinimu laikomas sandorių, iš kurių kyla kredito unijos piniginis reikalavimas ar neatšaukiamas kredito unijos piniginis įsipareigojimas, sudarymas.
 
 
 
@@ -1814,7 +1814,7 @@ Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
 1) jeigu kredito unijos organų priimti sprendimai kelia pavojų kredito unijos veiklos stabilumui ir patikimumui, įstatymų nustatyta tvarka kreiptis į teismą, kad kredito unijos organų priimti sprendimai būtų pripažinti negaliojančiais; ^s-3dd2071d6b001bc5411a97cc
 
 
-2) sudaryti sutartis su atestuotais auditoriais ar audito įmonėmis, turto vertintojais ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl kredito unijos patikrinimo atlikimo, kad būtų nustatyta kredito unijos turto vertė, kredito unijos finansinė būklė, įvertintos prisiimtos rizikos ar patikrinti kiti kredito unijos veiklos klausimai. Jeigu atlikus patikrinimą nustatoma, kad kredito unija priežiūros institucijai pateikė neteisingą informaciją, ar nustatomi kiti padaryti teisės aktų pažeidimai, priežiūros institucijos patirtas patikrinimo organizavimo išlaidas atlygina kredito unija. Kai pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys atlieka kredito unijos patikrinimą, šie asmenys turi [[latest/TAR.1B4D7B687895#^s-99181756e1f45dae235dc7c5|Lietuvos banko įstatymo 421 straipsnio 5 dalies]] 1, 3, 11 ir 12 punktuose priežiūros institucijos tarnautojams nustatytas teises; ^s-c1375477670f031b3eb2efae
+2) sudaryti sutartis su atestuotais auditoriais ar audito įmonėmis, turto vertintojais ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl kredito unijos patikrinimo atlikimo, kad būtų nustatyta kredito unijos turto vertė, kredito unijos finansinė būklė, įvertintos prisiimtos rizikos ar patikrinti kiti kredito unijos veiklos klausimai. Jeigu atlikus patikrinimą nustatoma, kad kredito unija priežiūros institucijai pateikė neteisingą informaciją, ar nustatomi kiti padaryti teisės aktų pažeidimai, priežiūros institucijos patirtas patikrinimo organizavimo išlaidas atlygina kredito unija. Kai pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys atlieka kredito unijos patikrinimą, šie asmenys turi [[latest/TAR.1B4D7B687895#^s-99181756e1f45dae235dc7c5|Lietuvos banko įstatymo 421 straipsnio 5 dalies]] [[latest/TAR.1B4D7B687895#^s-04f64a4ea0a54301a4b3fa71|1]], [[latest/TAR.1B4D7B687895#^s-e7cd86468a08917863237218|3]], [[latest/TAR.1B4D7B687895#^s-c0186fb22d1b6a39f4449e7b|11]] ir [[latest/TAR.1B4D7B687895#^s-07bf787f6bc850c937f35229|12]] punktuose priežiūros institucijos tarnautojams nustatytas teises; ^s-c1375477670f031b3eb2efae
 
 
 3) reikalauti, kad būtų pakeistas atestuotas auditorius ar audito įmonė, atliekantys kredito unijos finansinių ataskaitų rinkinių patikrinimą, jeigu audito įmonė ar atestuotas auditorius neatitinka (nevykdo) įstatymų nustatytų reikalavimų. ^s-c09ac944cdbc80c7d000de4d
@@ -1859,7 +1859,7 @@ Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
 3. Priežiūros institucija, nustačiusi teisės aktų pažeidimus ar kredito unijos veiklos trūkumus arba nustačiusi, kad kredito unijos veikla kelia grėsmę kredito unijos veiklos stabilumui ir patikimumui, turi teisę kredito unijai laikinai nustatyti individualius kredito unijos veiklos riziką ribojančių normatyvų dydžius ar papildomus reikalavimus dėl rizikos ribojimo. ^s-4637415844ff9db601ee3f5e
 
 
-4. Kredito unijos privalo įvykdyti šio straipsnio 2 ir [[#^s-4637415844ff9db601ee3f5e|3 dalyse]] nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. ^s-fc5682d7b77315e0a3ea3505
+4. Kredito unijos privalo įvykdyti šio straipsnio [[#^s-e9faf9f9375777285e3a868f|2]] ir [[#^s-4637415844ff9db601ee3f5e|3]] dalyse nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. ^s-fc5682d7b77315e0a3ea3505
 
 
 5. Priežiūros institucija nuomonę dėl indėlių draudžiamojo įvykio, kaip jis apibrėžtas [[latest/TAR.3BAADED2C30B|Indėlių ir įsipareigojimų investuotojams draudimo įstatyme]], patvirtinimo raštu pateikia ne vėliau kaip per 5 darbo dienas po to, kai nustato, kad priežiūros institucijos išduotą licenciją turinti kredito unija dėl su savo finansine padėtimi tiesiogiai susijusių priežasčių negali įvykdyti pagrįsto reikalavimo grąžinti indėlį ir to negalės padaryti artimiausiu metu. ^s-4f25228fe64747301e0a9490
@@ -1947,7 +1947,7 @@ Nr. XIII-1307, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11312
 10) paskiria laikinąjį administratorių. ^s-0917f2bb57de65b389065f01
 
 
-2. Bylose, kuriose nagrinėjami skundai (prašymai) dėl priežiūros institucijos sprendimo taikyti [[#^s-27196b63eb00d5126dcaba1b|šio straipsnio 1 dalies]] 7, 8 ir 9 punktuose nustatytas poveikio priemones, negali būti taikomos reikalavimo užtikrinimo priemonės, numatytos [[latest/TAR.67B5099C5848#^s-d506d5b9ee14032afab637a4|Lietuvos Respublikos administracinių bylų teisenos įstatymo 70 straipsnio 3 dalies]] 1 ir 3 punktuose. ^s-d6aaee0e294fc96dc2c1d23f
+2. Bylose, kuriose nagrinėjami skundai (prašymai) dėl priežiūros institucijos sprendimo taikyti [[#^s-27196b63eb00d5126dcaba1b|šio straipsnio 1 dalies]] 7, 8 ir 9 punktuose nustatytas poveikio priemones, negali būti taikomos reikalavimo užtikrinimo priemonės, numatytos [[latest/TAR.67B5099C5848#^s-d506d5b9ee14032afab637a4|Lietuvos Respublikos administracinių bylų teisenos įstatymo 70 straipsnio 3 dalies]] [[latest/TAR.67B5099C5848#^s-966c08a98004aa0d73a16595|1]] ir [[latest/TAR.67B5099C5848#^s-f8cef41e27422de3166a8d68|3]] punktuose. ^s-d6aaee0e294fc96dc2c1d23f
 
 
 3. Teismas, išnagrinėjęs skundą (prašymą) dėl priežiūros institucijos sprendimo taikyti [[#^s-27196b63eb00d5126dcaba1b|šio straipsnio 1 dalies]] 7, 8 ir 9 punktuose nustatytas poveikio priemones, turi teisę, jeigu yra šiame įstatyme nustatytos sąlygos, priteisti atlyginti žalą, tačiau neturi teisės tenkindamas skundą (prašymą) panaikinti skundžiamą sprendimą, įpareigoti priežiūros instituciją pašalinti padarytą pažeidimą ar įvykdyti kitokį teismo patvarkymą arba išspręsti ginčą bet kokiu kitu būdu, dėl kurio būtų sustabdomas ar panaikinamas skundžiamo sprendimo galiojimas arba kitaip atkuriama buvusi iki sprendimo priėmimo padėtis. ^s-fa0da4ea50fddd775649f717
@@ -2050,7 +2050,7 @@ Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
 ### 64 straipsnis. Laikinasis administratorius ^s-3d17342208806690d2edfd55
 
 
-1. Priežiūros institucija turi teisę kredito unijai paskirti vieną ar daugiau laikinųjų administratorių. Laikinuoju administratoriumi gali būti paskirtas juridinis ar fizinis asmuo. Laikinuoju administratoriumi skiriamam fiziniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi šio įstatymo [[#^s-d27cee51a48ea63411421aad|27 straipsnyje]] nustatyti kvalifikacijos bei patirties reikalavimai, laikinasis administratorius turi būti nepriekaištingos reputacijos, jo neturi saistyti joks interesų konfliktas. Vertinant laikinojo administratoriaus reputaciją, mutatis mutandis taikomos [[latest/TAR.B6B636C7384A#^s-1da1553dfe8dcc899bb15a35|Bankų įstatymo 34 straipsnio]] 12 ir 13 dalių nuostatos. Laikinojo administratoriaus veiklos sąlygos, funkcijos ir jų apribojimai nustatomi laikinojo administravimo sutartyje, sudarytoje tarp priežiūros institucijos ir laikinojo administratoriaus. Tokia sutartis turi nustatyti priežiūros institucijos įsipareigojimus, susijusius su laikinojo administratoriaus veiksmais tretiesiems asmenims padarytos žalos atlyginimu, kiek tai neprieštarauja Lietuvos Respublikos civilinio kodekso normoms. Bet kuriuo atveju laikinasis administratorius neatsako už žalą, atsiradusią dėl veiksmų, atliktų vadovaujantis priežiūros institucijos duotais nurodymais. Tokiu atveju už padarytą žalą, kai yra įstatymuose nustatytos sąlygos, atsako priežiūros institucija. Laikinasis administratorius savo nuožiūra turi teisę pasitelkti paslaugų teikėjų (įskaitant teisės, apskaitos, audito, valdymo konsultantus), reikalingų tam, kad būtų galima tinkamai atlikti savo funkcijas. Atlyginimas ir kitos išlaidos (įskaitant išlaidas paslaugų teikėjams) laikinajam administratoriui ir jo padėjėjams, atsižvelgiant į laikinojo administratoriaus veiklos mastą, kvalifikaciją, veiklos terminus, nustatomi sutartyje, sudaromoje tarp priežiūros institucijos ir laikinojo administratoriaus. Atlyginimas ir išlaidos (įskaitant išlaidas paslaugų teikėjams) išmokami iš kredito unijos lėšų prieš bet kokius kitus kredito unijos mokėjimus. Tuo atveju, jeigu administruojamai kredito unijai iškeliama bankroto byla, mokėjimai laikinajam administratoriui išmokami prieš bet kokius kitus kredito unijos mokėjimus. Tuo atveju, jeigu kredito unija laikinajam administratoriui nesumoka laiku, laikinajam administratoriui privalo sumokėti priežiūros institucija, kuri tuo metu turi teisę reikalauti sumokėtų sumų iš kredito unijos. Laikinuoju administratoriumi negali būti paskirtas priežiūros institucijos darbuotojas. ^s-193638160146e5e486e802c5
+1. Priežiūros institucija turi teisę kredito unijai paskirti vieną ar daugiau laikinųjų administratorių. Laikinuoju administratoriumi gali būti paskirtas juridinis ar fizinis asmuo. Laikinuoju administratoriumi skiriamam fiziniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi šio įstatymo [[#^s-d27cee51a48ea63411421aad|27 straipsnyje]] nustatyti kvalifikacijos bei patirties reikalavimai, laikinasis administratorius turi būti nepriekaištingos reputacijos, jo neturi saistyti joks interesų konfliktas. Vertinant laikinojo administratoriaus reputaciją, mutatis mutandis taikomos [[latest/TAR.B6B636C7384A#^s-1da1553dfe8dcc899bb15a35|Bankų įstatymo 34 straipsnio]] [[latest/TAR.B6B636C7384A#^s-cbf0d3cfe40162e5179f51eb|12]] ir [[latest/TAR.B6B636C7384A#^s-20a4b9e975c400d03726ecc9|13]] dalių nuostatos. Laikinojo administratoriaus veiklos sąlygos, funkcijos ir jų apribojimai nustatomi laikinojo administravimo sutartyje, sudarytoje tarp priežiūros institucijos ir laikinojo administratoriaus. Tokia sutartis turi nustatyti priežiūros institucijos įsipareigojimus, susijusius su laikinojo administratoriaus veiksmais tretiesiems asmenims padarytos žalos atlyginimu, kiek tai neprieštarauja Lietuvos Respublikos civilinio kodekso normoms. Bet kuriuo atveju laikinasis administratorius neatsako už žalą, atsiradusią dėl veiksmų, atliktų vadovaujantis priežiūros institucijos duotais nurodymais. Tokiu atveju už padarytą žalą, kai yra įstatymuose nustatytos sąlygos, atsako priežiūros institucija. Laikinasis administratorius savo nuožiūra turi teisę pasitelkti paslaugų teikėjų (įskaitant teisės, apskaitos, audito, valdymo konsultantus), reikalingų tam, kad būtų galima tinkamai atlikti savo funkcijas. Atlyginimas ir kitos išlaidos (įskaitant išlaidas paslaugų teikėjams) laikinajam administratoriui ir jo padėjėjams, atsižvelgiant į laikinojo administratoriaus veiklos mastą, kvalifikaciją, veiklos terminus, nustatomi sutartyje, sudaromoje tarp priežiūros institucijos ir laikinojo administratoriaus. Atlyginimas ir išlaidos (įskaitant išlaidas paslaugų teikėjams) išmokami iš kredito unijos lėšų prieš bet kokius kitus kredito unijos mokėjimus. Tuo atveju, jeigu administruojamai kredito unijai iškeliama bankroto byla, mokėjimai laikinajam administratoriui išmokami prieš bet kokius kitus kredito unijos mokėjimus. Tuo atveju, jeigu kredito unija laikinajam administratoriui nesumoka laiku, laikinajam administratoriui privalo sumokėti priežiūros institucija, kuri tuo metu turi teisę reikalauti sumokėtų sumų iš kredito unijos. Laikinuoju administratoriumi negali būti paskirtas priežiūros institucijos darbuotojas. ^s-193638160146e5e486e802c5
 Straipsnio dalies pakeitimai:
 Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
 
@@ -2378,7 +2378,7 @@ Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
 4. Teismas paskiria priežiūros institucijos pasiūlytą administratorių kredito unijos administratoriumi, jeigu jis vadovaujantis [[latest/68f2cad098b711e9ae2e9d61b1f977b3|Juridinių asmenų nemokumo įstatymu]] gali būti paskirtas nemokumo administratoriumi ir teismui kartu su prašymu paskirti kredito unijos administratorių yra pateiktas sutikimas – deklaracija, kurio turiniui mutatis mutandis taikomi [[latest/68f2cad098b711e9ae2e9d61b1f977b3|Juridinių asmenų nemokumo įstatyme]] nustatyti reikalavimai. ^s-c41270280b1d7667aeb13703
 
 
-5. Teismo nutartis paskirti kredito unijos administratorių Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka gali būti skundžiama teismui. ^s-a355ee4b61e5f12feb819778
+5. Teismo nutartis paskirti kredito unijos administratorių [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali būti skundžiama teismui. ^s-a355ee4b61e5f12feb819778
 
 
 6. Kredito unijos administratorius kreditorių susirinkimo ar kreditorių komiteto nustatyta tvarka parengia kredito unijos bankroto proceso planą, kuriame turi būti nurodyta: ^s-e0071904e3d18feab8d8cd3e
@@ -2525,8 +2525,8 @@ Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
 
 
 
-4. Ketvirtąja eile tenkinami kiti kredito unijos kreditorių, išskyrus nurodytus šio straipsnio 1, 2, 3 ir [[#^s-88329db5c1f414b57a27df70|5 dalyse]], reikalavimai. ^s-9d1db2b5efb983ec7430edb1
-TAR pastaba. [[#^s-9d1db2b5efb983ec7430edb1|77 straipsnio 4 dalies]] nuostatos taikomas bankroto procesams, pradėtiems po [[latest/e0e77f30640311eca9ac839120d251c4|įstatymo Nr. XIV-770]] įsigaliojimo dienos (2022-01-01).
+4. Ketvirtąja eile tenkinami kiti kredito unijos kreditorių, išskyrus nurodytus šio straipsnio [[#^s-d0914bd15f32241181797ed9|1]], [[#^s-2854c48116adbd5acf762e73|2]], [[#^s-049dc5b42d2eb96830538ae7|3]] ir [[#^s-88329db5c1f414b57a27df70|5]] dalyse, reikalavimai. ^s-9d1db2b5efb983ec7430edb1
+TAR pastaba. 77 straipsnio 4 dalies nuostatos taikomas bankroto procesams, pradėtiems po [[latest/e0e77f30640311eca9ac839120d251c4|įstatymo Nr. XIV-770]] įsigaliojimo dienos (2022-01-01).
 Straipsnio dalies pakeitimai:
 Nr. XIV-770, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26899
 
@@ -2555,7 +2555,7 @@ TURTO, TEISIŲ IR ĮSIPAREIGOJIMŲ PERLEIDIMAS
 2. Turto ir teisių perleidimą priežiūros institucija taiko, kai tenkinamos visos šios sąlygos: ^s-c47a74b18c02f9b43d0756f9
 
 
-1) visos tos pačios centrinės kredito unijos narės kredito unijos tenkina bent vieną iš šio įstatymo [[#^s-e099815f12e206c390cbb6e5|74 straipsnio 1 dalyje]] nurodytų sąlygų ir, priežiūros institucijos nuomone, nėra pagrindo tikėtis, kad kitomis šioms kredito unijoms taikomomis privataus sektoriaus priemonėmis, įskaitant sprendimą, priimamą pagal [[latest/TAR.29EEB33AFCD0#^s-d64cbf6efe034676831311bc|Centrinių kredito unijų įstatymo 27 straipsnio 1 dalį]], arba priežiūros veiksmais per pagrįstą laikotarpį būtų išvengta kredito unijų nemokumo, o šių kredito unijų centrinė kredito unija tenkina [[latest/TAR.EBB4FD337ADE#^s-e08d478f7f7678ecb7c11e51|Finansinio tvarumo įstatymo 42 straipsnio 2 dalies]] 1 ir [[#^s-8b0a6b14b526ab9d6b4238fb|2 punktuose]] nurodytas sąlygas ir pertvarkymo veiksmų centrinei kredito unijai taikymas nėra būtinas vienam ar daugiau [[latest/TAR.EBB4FD337ADE#^s-57208939b2ef1b6c115749af|Finansinio tvarumo įstatymo 40 straipsnyje]] nurodytų pertvarkymo tikslų pasiekti [[latest/TAR.EBB4FD337ADE#^s-b2c5d6cd4f6b22928202ccdc|Finansinio tvarumo įstatymo 42 straipsnio 2 dalies 3 punkte]] nustatytu mastu; ^s-31e045d6ba3e16dc530c8d98
+1) visos tos pačios centrinės kredito unijos narės kredito unijos tenkina bent vieną iš šio įstatymo [[#^s-e099815f12e206c390cbb6e5|74 straipsnio 1 dalyje]] nurodytų sąlygų ir, priežiūros institucijos nuomone, nėra pagrindo tikėtis, kad kitomis šioms kredito unijoms taikomomis privataus sektoriaus priemonėmis, įskaitant sprendimą, priimamą pagal [[latest/TAR.29EEB33AFCD0#^s-d64cbf6efe034676831311bc|Centrinių kredito unijų įstatymo 27 straipsnio 1 dalį]], arba priežiūros veiksmais per pagrįstą laikotarpį būtų išvengta kredito unijų nemokumo, o šių kredito unijų centrinė kredito unija tenkina [[latest/TAR.EBB4FD337ADE#^s-e08d478f7f7678ecb7c11e51|Finansinio tvarumo įstatymo 42 straipsnio 2 dalies]] [[latest/TAR.EBB4FD337ADE#^s-469319ccfff52db8f23dd0db|1]] ir [[latest/TAR.EBB4FD337ADE#^s-4276f136d5763035bbddce8b|2]] punktuose nurodytas sąlygas ir pertvarkymo veiksmų centrinei kredito unijai taikymas nėra būtinas vienam ar daugiau [[latest/TAR.EBB4FD337ADE#^s-57208939b2ef1b6c115749af|Finansinio tvarumo įstatymo 40 straipsnyje]] nurodytų pertvarkymo tikslų pasiekti [[latest/TAR.EBB4FD337ADE#^s-b2c5d6cd4f6b22928202ccdc|Finansinio tvarumo įstatymo 42 straipsnio 2 dalies 3 punkte]] nustatytu mastu; ^s-31e045d6ba3e16dc530c8d98
 
 
 2) turto ir teisių perleidimas yra būtinas siekiant išvengti didelių ekonomikos sutrikimų ar sumažinti kredito unijos turto vertės sumažėjimą, o kredito unijos likvidavimas dėl bankroto netaikant turto ir teisių perleidimo neleistų pasiekti vieno ar visų šių tikslų tokiu pačiu mastu; ^s-8b0a6b14b526ab9d6b4238fb
@@ -2588,7 +2588,7 @@ TURTO, TEISIŲ IR ĮSIPAREIGOJIMŲ PERLEIDIMAS
 6. Jeigu priežiūros institucija siūlo perleisti ne tik apdraustuosius indėlius, bet ir kitus kredito unijos įsipareigojimus ir šiam tikslui reikalinga valstybės pagalba, priežiūros institucija gali priimti sprendimą taikyti turto ir teisių perleidimą tik gavusi Vyriausybės sprendimą suteikti valstybės pagalbą kredito unijos turto ir teisių perleidimui finansuoti. ^s-40ed942cf0f3c95548e52eb7
 
 
-7. Priežiūros institucijos pagrįstų išlaidų, faktiškai patirtų vykdant turto ir teisių perleidimą, susigrąžinimui, kredito unijos kontrolei, turto ir teisių perleidimo procedūrai, įsigyjančio asmens interesų apsaugai mutatis mutandis taikomos atitinkamai [[latest/TAR.EBB4FD337ADE#^s-c5d846c3bd550dc912f348b6|Finansinio tvarumo įstatymo 42 straipsnio 12 dalies]] 1 ir 2 punktų, [[#^s-bdcf563b849bf21692becd1f|45 straipsnio]], [[#^s-048db629fb339f4e4f200c53|61 straipsnio]] 2, 4, 5, [[#^s-40ed942cf0f3c95548e52eb7|6 dalių]] ir [[#^s-3d17342208806690d2edfd55|64 straipsnio]] nuostatos tiek, kiek šiame skirsnyje nenustatyta kitaip. ^s-50a7750f1112180be9ee83f0
+7. Priežiūros institucijos pagrįstų išlaidų, faktiškai patirtų vykdant turto ir teisių perleidimą, susigrąžinimui, kredito unijos kontrolei, turto ir teisių perleidimo procedūrai, įsigyjančio asmens interesų apsaugai mutatis mutandis taikomos atitinkamai [[latest/TAR.EBB4FD337ADE#^s-c5d846c3bd550dc912f348b6|Finansinio tvarumo įstatymo 42 straipsnio 12 dalies]] [[latest/TAR.EBB4FD337ADE#^s-a3d6cecda6698e3feaa74f63|1]] ir [[latest/TAR.EBB4FD337ADE#^s-963102b1b1c35044b50709fb|2]] punktų, [[#^s-bdcf563b849bf21692becd1f|45 straipsnio]], [[#^s-048db629fb339f4e4f200c53|61 straipsnio]] [[#^s-afa075e1fbeb56b6ac67287c|2]], 4, 5, 6 dalių ir [[#^s-3d17342208806690d2edfd55|64 straipsnio]] nuostatos tiek, kiek šiame skirsnyje nenustatyta kitaip. ^s-50a7750f1112180be9ee83f0
 
 
 8. Įsigyjančio asmens atrankai mutatis mutandis taikomos [[latest/TAR.EBB4FD337ADE#^s-f21c1b923fbca5f2090261ba|Finansinio tvarumo įstatymo 63 straipsnio]] nuostatos. Mutatis mutandis taikant [[latest/TAR.EBB4FD337ADE#^s-10e118a50b63c5eff56b517f|Finansinio tvarumo įstatymo 63 straipsnio 6 dalies]] nuostatas, vadovaujamasi turto ir teisių perleidimo tikslais, nurodytais [[#^s-8b0a6b14b526ab9d6b4238fb|šio straipsnio 2 dalies 2 punkte]]. ^s-69e97fe4ca5f0ab434f58e11
@@ -2597,7 +2597,7 @@ TURTO, TEISIŲ IR ĮSIPAREIGOJIMŲ PERLEIDIMAS
 9. Priežiūros institucijos įsigyjančiam asmeniui taikomam reikalavimui teikti paslaugas ir leisti naudotis infrastruktūra mutatis mutandis taikomos [[latest/TAR.EBB4FD337ADE#^s-0b8355238440429da36949ba|Finansinio tvarumo įstatymo 47 straipsnio]] nuostatos. Priežiūros institucija taip pat turi teisę įpareigoti centrinę kredito uniją, įskaitant atvejus, kai jai yra iškelta bankroto byla, teikti visas būtinas paslaugas ar leisti naudotis visa reikiama savo infrastruktūra, kad įsigyjantis asmuo galėtų veiksmingai valdyti jam perleistų jos narių kredito unijų turtą, teises ir įsipareigojimus. ^s-a1b05f327f0c3e7344ae4e5f
 
 
-10. Taikant turto ir teisių perleidimą, priežiūros institucija turi teisę mutatis mutandis naudotis [[latest/TAR.EBB4FD337ADE#^s-94be2375fc96e75f0f709906|Finansinio tvarumo įstatymo 46 straipsnio 1 dalies]] 1, 2, 4, 12, 14, 17, 18, 19, 20 ir 21 punktuose, [[#^s-c27218f18540cc15dd2d1ead|3 dalyje]], 51 ir [[#^s-f7cf555971d34cb87a3a9ec1|52 straipsniuose]] nurodytomis teisėmis ir turi šio įstatymo [[#^s-d7696940af296750cc87d957|53 straipsnyje]] nustatytas garantijas, o kredito unijos darbuotojams ir sutarties šalims mutatis mutandis taikomos [[latest/TAR.EBB4FD337ADE#^s-323d1859e4db0a3565f7045a|Finansinio tvarumo įstatymo 46 straipsnio 4 dalies]] nuostatos. ^s-83da90f44d55b5a450e08049
+10. Taikant turto ir teisių perleidimą, priežiūros institucija turi teisę mutatis mutandis naudotis [[latest/TAR.EBB4FD337ADE#^s-94be2375fc96e75f0f709906|Finansinio tvarumo įstatymo 46 straipsnio 1 dalies]] [[latest/TAR.EBB4FD337ADE#^s-f49a627a2760a6d8615e39aa|1]], [[latest/TAR.EBB4FD337ADE#^s-2596e61a6df221901c49a657|2]], [[latest/TAR.EBB4FD337ADE#^s-3520e3a6a847e44382bb8b57|4]], [[latest/TAR.EBB4FD337ADE#^s-540dcea1a884230d613d8714|12]], [[latest/TAR.EBB4FD337ADE#^s-49737b7fd47418156d9d4210|14]], [[latest/TAR.EBB4FD337ADE#^s-e6ab47a62f5d24230f45f9af|17]], [[latest/TAR.EBB4FD337ADE#^s-c09961046ccbe9cc109534c8|18]], [[latest/TAR.EBB4FD337ADE#^s-378e4a80e143acdf8efbcb56|19]], [[latest/TAR.EBB4FD337ADE#^s-aabea96f47be69d7d06b40dc|20]] ir [[latest/TAR.EBB4FD337ADE#^s-1206ab82c995123e7183147a|21]] punktuose, [[#^s-c27218f18540cc15dd2d1ead|3 dalyje]], [[#^s-9167e44e955739358fca2a5f|51]] ir [[#^s-f7cf555971d34cb87a3a9ec1|52]] straipsniuose nurodytomis teisėmis ir turi šio įstatymo [[#^s-d7696940af296750cc87d957|53 straipsnyje]] nustatytas garantijas, o kredito unijos darbuotojams ir sutarties šalims mutatis mutandis taikomos [[latest/TAR.EBB4FD337ADE#^s-323d1859e4db0a3565f7045a|Finansinio tvarumo įstatymo 46 straipsnio 4 dalies]] nuostatos. ^s-83da90f44d55b5a450e08049
 
 
 11. Taikant turto ir teisių perleidimą, priežiūros institucijai netaikomi šie reikalavimai: ^s-2db3eaa9de1fbc6007caa674
@@ -2612,7 +2612,7 @@ TURTO, TEISIŲ IR ĮSIPAREIGOJIMŲ PERLEIDIMAS
 3) jokie kiti teisės aktuose ar sutartyse nustatyti apribojimai arba reikalavimai gauti sutikimą, susiję su konkrečių finansinių priemonių, teisių, turto ar įsipareigojimų perleidimu. ^s-1090d9144f54441dc53605bb
 
 
-12. Priežiūros institucijos sprendimas dėl turto ir teisių perleidimo gali būti skundžiamas [[latest/TAR.1B4D7B687895#^s-86216ad07c8d9bd4fa480c50|Lietuvos banko įstatymo 435 straipsnyje]] nustatyta tvarka. [[latest/TAR.EBB4FD337ADE#^s-267e737d735f915165cb81b6|Finansinio tvarumo įstatymo 101 straipsnio]] 3–[[#^s-50a7750f1112180be9ee83f0|7 dalių]] nuostatos priežiūros institucijos sprendimo dėl turto ir teisių perleidimo apskundimui taikomos mutatis mutandis. Šiame skirsnyje nustatyta tvarka priimti tarpiniai sprendimai ar atlikti veiksmai (neveikimas) neskundžiami. ^s-3425cd8645d2a76cdd07d074
+12. Priežiūros institucijos sprendimas dėl turto ir teisių perleidimo gali būti skundžiamas [[latest/TAR.1B4D7B687895#^s-86216ad07c8d9bd4fa480c50|Lietuvos banko įstatymo 435 straipsnyje]] nustatyta tvarka. [[latest/TAR.EBB4FD337ADE#^s-267e737d735f915165cb81b6|Finansinio tvarumo įstatymo 101 straipsnio]] [[latest/TAR.EBB4FD337ADE#^s-3183a71c586332015e774d8a|3]]–[[latest/TAR.EBB4FD337ADE#^s-9249e207834f9306138a1e8d|7]] dalių nuostatos priežiūros institucijos sprendimo dėl turto ir teisių perleidimo apskundimui taikomos mutatis mutandis. Šiame skirsnyje nustatyta tvarka priimti tarpiniai sprendimai ar atlikti veiksmai (neveikimas) neskundžiami. ^s-3425cd8645d2a76cdd07d074
 
 
 13. Rengiant, planuojant ir taikant turto ir teisių perleidimą, priežiūros, pertvarkymo institucijos ir už makroprudencinės politikos įgyvendinimą atsakinga institucija, Finansų ministerija, Vyriausybės paskirtas juridinis asmuo, įgyvendinantis valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, laikinasis administratorius ir [[latest/TAR.EBB4FD337ADE|Finansinio tvarumo įstatymo]] nustatyta tvarka paskirtas specialusis valdytojas, jei jie buvo paskirti, ir kredito unija bendradarbiauja tarpusavyje, o kredito unijų vadovai teikia visą reikalingą pagalbą, kad būtų pasiekti [[#^s-8b0a6b14b526ab9d6b4238fb|šio straipsnio 2 dalies 2 punkte]] nurodyti turto ir teisių perleidimo tikslai. ^s-b24f277764744251e79424fb
@@ -2634,7 +2634,7 @@ TURTO, TEISIŲ IR ĮSIPAREIGOJIMŲ PERLEIDIMAS
 2) veiksmai, kurių priežiūros institucija ketina imtis, įskaitant bankroto proceso inicijavimą. ^s-a4f20cbc92426723fad2bc31
 
 
-3. Sprendimas dėl turto ir teisių perleidimo priimamas, šiame skirsnyje nurodytų veiksmų ir sprendime nurodytų veiksmų imamasi skubiai, laikantis skaidrumo principo ir mutatis mutandis taikant [[latest/TAR.EBB4FD337ADE#^s-dd4691ea55fe0b7553f45784|Finansinio tvarumo įstatymo šeštajame skirsnyje, išskyrus 89 ir 90 straipsnius]], nurodytas apsaugos priemones. ^s-20344abeba5c92fd908017a5
+3. Sprendimas dėl turto ir teisių perleidimo priimamas, šiame skirsnyje nurodytų veiksmų ir sprendime nurodytų veiksmų imamasi skubiai, laikantis skaidrumo principo ir mutatis mutandis taikant [[latest/TAR.EBB4FD337ADE|Finansinio tvarumo įstatymo]] šeštajame skirsnyje, išskyrus [[latest/TAR.EBB4FD337ADE#^s-d6159802affea08d0213a357|89]] ir [[latest/TAR.EBB4FD337ADE#^s-dd4691ea55fe0b7553f45784|90]] straipsnius, nurodytas apsaugos priemones. ^s-20344abeba5c92fd908017a5
 
 
 4. Priežiūros institucijos sprendimas dėl turto ir teisių perleidimo turi būti vykdomas nedelsiant. ^s-cdaf969b4d32898151a8f3bf
@@ -2663,7 +2663,7 @@ TURTO, TEISIŲ IR ĮSIPAREIGOJIMŲ PERLEIDIMAS
 2) kredito unijos administratorius, laikinasis administratorius arba kitas asmuo, kontroliuojantis kredito uniją, turėtų turtą ar teises arba vykdytų įsipareigojimus įsigyjančio asmens vardu tol, kol įvykdomas perleidimas ar kiti taikytini veiksmai; ^s-f3d815e4e22b7476a33f5f9f
 
 
-3) pagrįstos įsigyjančio asmens išlaidos, faktiškai patirtos vykdant veiksmus, privalomus pagal šios dalies 1 ir [[#^s-f3d815e4e22b7476a33f5f9f|2 punktus]], mutatis mutandis būtų apmokamos bet kuriuo iš [[latest/TAR.EBB4FD337ADE#^s-c5d846c3bd550dc912f348b6|Finansinio tvarumo įstatymo 42 straipsnio 12 dalies]] 1 ir [[#^s-f3d815e4e22b7476a33f5f9f|2 punktuose]] nurodytų būdų. ^s-71fec0211f20185bf90d6db0
+3) pagrįstos įsigyjančio asmens išlaidos, faktiškai patirtos vykdant veiksmus, privalomus pagal šios dalies [[#^s-ae13e88c0d5c5371b1c1c246|1]] ir [[#^s-f3d815e4e22b7476a33f5f9f|2]] punktus, mutatis mutandis būtų apmokamos bet kuriuo iš [[latest/TAR.EBB4FD337ADE#^s-c5d846c3bd550dc912f348b6|Finansinio tvarumo įstatymo 42 straipsnio 12 dalies]] [[latest/TAR.EBB4FD337ADE#^s-a3d6cecda6698e3feaa74f63|1]] ir [[latest/TAR.EBB4FD337ADE#^s-963102b1b1c35044b50709fb|2]] punktuose nurodytų būdų. ^s-71fec0211f20185bf90d6db0
 
 
 2. Jeigu priežiūros institucija davė nurodymą vykdyti turto, teisių ar įsipareigojimų perleidimą ar kitą taikytiną veiksmą, tas nurodymas negalioja susijusiam turtui, teisėms ar įsipareigojimams. ^s-444131f91774b22dc863670a
@@ -2703,7 +2703,7 @@ TURTO, TEISIŲ IR ĮSIPAREIGOJIMŲ PERLEIDIMAS
 3. Priežiūros institucija sprendimą dėl turto ir teisių perleidimo arba pranešimą, kuriame nurodomas turto ir teisių perleidimo poveikis, įskaitant poveikį vartotojams, paskelbia savo interneto svetainėje. ^s-0407732e7e7faaa2e9837983
 
 
-4. Informavimui apie sprendimą dėl turto ir teisių perleidimo taip pat mutatis mutandis taikomos [[latest/TAR.EBB4FD337ADE#^s-62fe58ae3f14436ed0794a8f|Finansinio tvarumo įstatymo 98 straipsnio]] 4–6 dalių nuostatos tiek, kiek šiame skirsnyje nenustatyta kitaip. ^s-08ba88826f85a71d58365e94
+4. Informavimui apie sprendimą dėl turto ir teisių perleidimo taip pat mutatis mutandis taikomos [[latest/TAR.EBB4FD337ADE#^s-62fe58ae3f14436ed0794a8f|Finansinio tvarumo įstatymo 98 straipsnio]] [[latest/TAR.EBB4FD337ADE#^s-1ec7ea7f9a81f5728be65956|4]]–[[latest/TAR.EBB4FD337ADE#^s-6f28dcb7b5605a56c0d3b1e7|6]] dalių nuostatos tiek, kiek šiame skirsnyje nenustatyta kitaip. ^s-08ba88826f85a71d58365e94
 
 
 
@@ -2713,7 +2713,7 @@ TURTO, TEISIŲ IR ĮSIPAREIGOJIMŲ PERLEIDIMAS
 1. Jeigu priežiūros institucija nustato, kad šio įstatymo [[#^s-8b0a6b14b526ab9d6b4238fb|78 straipsnio 2 dalies 2 punkte]] nurodytas vienas ar keli tikslai bus pasiekti tik tuo atveju, kai taikant turto ir teisių perleidimą bus perleidžiami ne tik apdraustieji indėliai, bet ir kiti kredito unijos įsipareigojimai, ir tam reikalinga valstybės pagalba, priežiūros institucija parengia išvadą, kurioje pagrindžia valstybės pagalbos poreikį, nurodo jos dydį, taip pat pateikia pagrindimą, kad tenkinamos visos šio įstatymo [[#^s-c47a74b18c02f9b43d0756f9|78 straipsnio 2 dalyje]] nurodytos sąlygos. Vyriausybė, vadovaudamasi [[latest/TAR.EBB4FD337ADE#^s-7a2ecd5c704546b2b5fa34d1|Finansinio tvarumo įstatymo 133 straipsnio 2 dalyje]] nurodytais principais, priima sprendimą dėl valstybės pagalbos suteikimo. Finansų ministerija nedelsdama apie šį Vyriausybės sprendimą raštu informuoja priežiūros instituciją. ^s-b35f4049054c8144fcdbe791
 
 
-2. Valstybės pagalbos dydžiui ir suteiktos valstybės pagalbos reikalavimo teisei mutatis mutandis taikomos [[latest/TAR.EBB4FD337ADE#^s-f7dc8b56c1a41b8361cef64f|Finansinio tvarumo įstatymo 133 straipsnio]] 3 ir 4 dalių nuostatos. ^s-0db518e60bc58f35ef6f4ad5
+2. Valstybės pagalbos dydžiui ir suteiktos valstybės pagalbos reikalavimo teisei mutatis mutandis taikomos [[latest/TAR.EBB4FD337ADE#^s-f7dc8b56c1a41b8361cef64f|Finansinio tvarumo įstatymo 133 straipsnio]] [[latest/TAR.EBB4FD337ADE#^s-dbc36a91e2bf3ea7ef2fd0aa|3]] ir [[latest/TAR.EBB4FD337ADE#^s-43fe22f269fa7f7dd9c747af|4]] dalių nuostatos. ^s-0db518e60bc58f35ef6f4ad5
 
 
 
@@ -2752,7 +2752,7 @@ TURTO, TEISIŲ IR ĮSIPAREIGOJIMŲ PERLEIDIMAS
 ### 86 straipsnis. Vertinimas turto ir teisių perleidimo tikslais ^s-0f2ad661fd6c4657f734df45
 
 
-Vertinimui turto ir teisių perleidimo tikslais, vertinimo išlaidų padengimui, perleidžiamo turto, teisių ir įsipareigojimų vertei ir galutinio vertinimo turto ir teisių perleidimo tikslais atlikimui mutatis mutandis taikomos [[latest/TAR.EBB4FD337ADE#^s-f8bde07dc5afb2dc9a340c0d|Finansinio tvarumo įstatymo 137 ir 138 straipsnių]] nuostatos.
+Vertinimui turto ir teisių perleidimo tikslais, vertinimo išlaidų padengimui, perleidžiamo turto, teisių ir įsipareigojimų vertei ir galutinio vertinimo turto ir teisių perleidimo tikslais atlikimui mutatis mutandis taikomos [[latest/TAR.EBB4FD337ADE|Finansinio tvarumo įstatymo]] [[latest/TAR.EBB4FD337ADE#^s-646bd3c2f16531a1a854be3a|137]] ir [[latest/TAR.EBB4FD337ADE#^s-f8bde07dc5afb2dc9a340c0d|138]] straipsnių nuostatos.
 
 
 Papildyta skirsniu:
@@ -2815,7 +2815,7 @@ Nr. X-1615, 2008-06-17, Žin., 2008, Nr. 76-3003 (2008-07-05)
 KREDITO UNIJŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
-Šio įstatymo [[#^s-a8c92cedadbf634f931994ca|1 straipsnyje]] išdėstyto Lietuvos Respublikos kredito unijų įstatymo 44 straipsnio 3 dalis galioja iki 2013 m. sausio 1 d.
+Šio įstatymo [[#^s-a8c92cedadbf634f931994ca|1 straipsnyje]] išdėstyto [[latest/TAR.DE0B1FF26D01|Lietuvos Respublikos kredito unijų įstatymo 44 straipsnio 3 dalis]] galioja iki 2013 m. sausio 1 d.
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2864,12 +2864,12 @@ Nr. XII-279, 2013-05-09, Žin., 2013, Nr. 54-2684 (2013-05-25)
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1047, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10853
-LIETUVOS RESPUBLIKOS KREDITO UNIJŲ ĮSTATYMO NR. I-796 2, 4, 5, 9, 10, 12, 13, 14, 15, 16, 18, 22, 23, 24, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 42, 45, 47, 52, 53, 58, 61, 62, 64, 65, 70, [[#^s-3a0fff5804b280ab50a0fcdc|74 STRAIPSNIŲ]] PAKEITIMO, ĮSTATYMO PAPILDYMO 25-1, 39-1, 48-1, 64-1, 65-1 STRAIPSNIAIS IR 8, [[#^s-88ef05a8e8d9c7b2e4e8a6be|11 STRAIPSNIŲ]] PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+LIETUVOS RESPUBLIKOS KREDITO UNIJŲ ĮSTATYMO NR. I-796 [[#^s-5d67e5430a07cb6744f12896|2]], [[#^s-c9ae717bdd2e303ff94bd5a3|4]], [[#^s-be36578cc69459a99bbcbacd|5]], [[#^s-c1b4f0a7f988443ef7b074e8|9]], [[#^s-09b18c1ec4b1d7b8d5e1ebe1|10]], [[#^s-4b303e0463e8653f55d3918c|12]], [[#^s-ee8487e4c9e54351ec2ff1f5|13]], [[#^s-d46dcac442570338da0a40c4|14]], [[#^s-57f741c07b247d16b1f64960|15]], [[#^s-4dced59882c9cd6a47447d0c|16]], [[#^s-81bbe64fd99e5dfdc88fe470|18]], [[#^s-c59b96976e90c8aa436cb8a2|22]], [[#^s-be19c8087aab7264b7137290|23]], [[#^s-3fd067dc0bbff54515bac812|24]], [[#^s-7f8c9c8ef0e976548880fea0|26]], [[#^s-d27cee51a48ea63411421aad|27]], [[#^s-d05fc170dc87baa12193f018|28]], [[#^s-955f0e8feb3e42eddf739fc4|29]], [[#^s-73ccb09247b080ff35425df6|30]], [[#^s-b147aaa8106ab4e1c4c4b15a|32]], [[#^s-5d44b5235c2fc67f84fd0d6a|33]], [[#^s-11e0625e4f03ffb8632a0249|34]], [[#^s-36764465ba45404ee2c9ea88|35]], [[#^s-058399aef990142b5d6cbff6|36]], [[#^s-0ce08803581bc6b4fa147afe|37]], [[#^s-a457082dd59a6f0df42129f6|38]], [[#^s-1f16cac1fba23c570e1ec0ba|39]], [[#^s-44f11124bd2aa4775e4dbb1a|42]], [[#^s-bdcf563b849bf21692becd1f|45]], [[#^s-723cb64178f89bf145bdbf19|47]], [[#^s-f7cf555971d34cb87a3a9ec1|52]], [[#^s-d7696940af296750cc87d957|53]], [[#^s-69ebf711f4a58d6d43584fd7|58]], [[#^s-048db629fb339f4e4f200c53|61]], [[#^s-4263c8ba82fdc354545e2894|62]], [[#^s-3d17342208806690d2edfd55|64]], [[#^s-4b42af486dfc88aae720ae4e|65]], [[#^s-71137aad117026be61a2e699|70]], [[#^s-3a0fff5804b280ab50a0fcdc|74]] STRAIPSNIŲ PAKEITIMO, ĮSTATYMO PAPILDYMO 25-1, 39-1, 48-1, 64-1, 65-1 STRAIPSNIAIS IR [[#^s-915657a50aaddc20f4403462|8]], [[#^s-88ef05a8e8d9c7b2e4e8a6be|11]] STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1042, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10857
-LIETUVOS RESPUBLIKOS KREDITO UNIJŲ ĮSTATYMO NR. I-796 4 IR [[#^s-c1b4f0a7f988443ef7b074e8|9 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS KREDITO UNIJŲ ĮSTATYMO NR. I-796 [[#^s-c9ae717bdd2e303ff94bd5a3|4]] IR [[#^s-c1b4f0a7f988443ef7b074e8|9]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2014 m. lapkričio 1 d.
 
 
@@ -2880,12 +2880,12 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1047, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10853
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 4, 5, 9, 10, 12, 13, 14, 15, 16, 18, 22, 23, 24, 26, 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 39, 42, 45, 47, 52, 53, 58, 61, 62, 64, 65, 70, [[#^s-3a0fff5804b280ab50a0fcdc|74 straipsnių]] pakeitimo, Įstatymo papildymo 25-1, 39-1, 48-1, 64-1, 65-1 straipsniais ir 8, [[#^s-88ef05a8e8d9c7b2e4e8a6be|11 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-5d67e5430a07cb6744f12896|2]], [[#^s-c9ae717bdd2e303ff94bd5a3|4]], [[#^s-be36578cc69459a99bbcbacd|5]], [[#^s-c1b4f0a7f988443ef7b074e8|9]], [[#^s-09b18c1ec4b1d7b8d5e1ebe1|10]], [[#^s-4b303e0463e8653f55d3918c|12]], [[#^s-ee8487e4c9e54351ec2ff1f5|13]], [[#^s-d46dcac442570338da0a40c4|14]], [[#^s-57f741c07b247d16b1f64960|15]], [[#^s-4dced59882c9cd6a47447d0c|16]], [[#^s-81bbe64fd99e5dfdc88fe470|18]], [[#^s-c59b96976e90c8aa436cb8a2|22]], [[#^s-be19c8087aab7264b7137290|23]], [[#^s-3fd067dc0bbff54515bac812|24]], [[#^s-7f8c9c8ef0e976548880fea0|26]], [[#^s-d27cee51a48ea63411421aad|27]], [[#^s-d05fc170dc87baa12193f018|28]], [[#^s-955f0e8feb3e42eddf739fc4|29]], [[#^s-73ccb09247b080ff35425df6|30]], [[#^s-b147aaa8106ab4e1c4c4b15a|32]], [[#^s-5d44b5235c2fc67f84fd0d6a|33]], [[#^s-11e0625e4f03ffb8632a0249|34]], [[#^s-36764465ba45404ee2c9ea88|35]], [[#^s-058399aef990142b5d6cbff6|36]], [[#^s-0ce08803581bc6b4fa147afe|37]], [[#^s-a457082dd59a6f0df42129f6|38]], [[#^s-1f16cac1fba23c570e1ec0ba|39]], [[#^s-44f11124bd2aa4775e4dbb1a|42]], [[#^s-bdcf563b849bf21692becd1f|45]], [[#^s-723cb64178f89bf145bdbf19|47]], [[#^s-f7cf555971d34cb87a3a9ec1|52]], [[#^s-d7696940af296750cc87d957|53]], [[#^s-69ebf711f4a58d6d43584fd7|58]], [[#^s-048db629fb339f4e4f200c53|61]], [[#^s-4263c8ba82fdc354545e2894|62]], [[#^s-3d17342208806690d2edfd55|64]], [[#^s-4b42af486dfc88aae720ae4e|65]], [[#^s-71137aad117026be61a2e699|70]], [[#^s-3a0fff5804b280ab50a0fcdc|74]] straipsnių pakeitimo, Įstatymo papildymo 25-1, 39-1, 48-1, 64-1, 65-1 straipsniais ir [[#^s-915657a50aaddc20f4403462|8]], [[#^s-88ef05a8e8d9c7b2e4e8a6be|11]] straipsnių pripažinimo netekusiais galios įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1104, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13434
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 32, 38, 39, 63 ir [[#^s-1d34d4401b4018cbd4a1ae0b|75 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-b147aaa8106ab4e1c4c4b15a|32]], [[#^s-a457082dd59a6f0df42129f6|38]], [[#^s-1f16cac1fba23c570e1ec0ba|39]], [[#^s-5501321638c050af60365940|63]] ir [[#^s-1d34d4401b4018cbd4a1ae0b|75]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2900,7 +2900,7 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-8070b398108366d737
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2060, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19171
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 62, [[#^s-05370fba0074a6362938289f|73 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-4263c8ba82fdc354545e2894|62]], [[#^s-05370fba0074a6362938289f|73]] straipsnių ir priedo pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2915,42 +2915,42 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 pakeitimo [[latest/caf5c
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1100, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06741
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 49, 60 ir [[#^s-57405d49fc9351e66b54019d|66 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-8070b398108366d737b989da|49]], [[#^s-d4c57ef7e53cc4df7a9762b1|60]] ir [[#^s-57405d49fc9351e66b54019d|66]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1245, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09859
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 27, 54, 55, 57, 59, 60, 61, 62, [[#^s-3d17342208806690d2edfd55|64 straipsnių]] pakeitimo ir 56, [[#^s-69ebf711f4a58d6d43584fd7|58 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-d27cee51a48ea63411421aad|27]], [[#^s-1378c538fcc74b99ace66b9e|54]], [[#^s-2e606f183524ff77a420102f|55]], [[#^s-5f3c086e799a21220a701666|57]], [[#^s-fa1d30deff65ea54f197cd40|59]], [[#^s-d4c57ef7e53cc4df7a9762b1|60]], [[#^s-048db629fb339f4e4f200c53|61]], [[#^s-4263c8ba82fdc354545e2894|62]], [[#^s-3d17342208806690d2edfd55|64]] straipsnių pakeitimo ir [[#^s-67d31ce3ef4a7f3f61ff75ef|56]], [[#^s-69ebf711f4a58d6d43584fd7|58]] straipsnių pripažinimo netekusiais galios įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1307, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11312
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 49, 60 ir [[#^s-57405d49fc9351e66b54019d|66 straipsnių]] pakeitimo [[latest/91429b4049e511e8ade598b2394a491d|įstatymo Nr. XIII-1100]] 1 ir [[#^s-5d67e5430a07cb6744f12896|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-8070b398108366d737b989da|49]], [[#^s-d4c57ef7e53cc4df7a9762b1|60]] ir [[#^s-57405d49fc9351e66b54019d|66]] straipsnių pakeitimo [[latest/91429b4049e511e8ade598b2394a491d|įstatymo Nr. XIII-1100]] [[#^s-a8c92cedadbf634f931994ca|1]] ir [[#^s-5d67e5430a07cb6744f12896|2]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2132, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08711
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 5, 10, 21, 29, 40, 45, 51, [[#^s-f7cf555971d34cb87a3a9ec1|52 straipsnių]] pakeitimo ir 52, [[#^s-d7696940af296750cc87d957|53 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-be36578cc69459a99bbcbacd|5]], [[#^s-09b18c1ec4b1d7b8d5e1ebe1|10]], [[#^s-c1aa1c87b95af232613a7665|21]], [[#^s-955f0e8feb3e42eddf739fc4|29]], [[#^s-2f5f573194b0236733f4eea9|40]], [[#^s-bdcf563b849bf21692becd1f|45]], [[#^s-9167e44e955739358fca2a5f|51]], [[#^s-f7cf555971d34cb87a3a9ec1|52]] straipsnių pakeitimo ir [[#^s-f7cf555971d34cb87a3a9ec1|52]], [[#^s-d7696940af296750cc87d957|53]] straipsnių pripažinimo netekusiais galios įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2230, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10344
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 73, 75, 76 ir [[#^s-6136eae42174586312430b14|77 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-05370fba0074a6362938289f|73]], [[#^s-1d34d4401b4018cbd4a1ae0b|75]], [[#^s-3f73f6eb1c7208826b7bfd94|76]] ir [[#^s-6136eae42174586312430b14|77]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2776, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02011
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 4, 5, 14, 21, 25 ir [[#^s-955f0e8feb3e42eddf739fc4|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-c9ae717bdd2e303ff94bd5a3|4]], [[#^s-be36578cc69459a99bbcbacd|5]], [[#^s-d46dcac442570338da0a40c4|14]], [[#^s-c1aa1c87b95af232613a7665|21]], [[#^s-b9ef7deb271153776a67447b|25]] ir [[#^s-955f0e8feb3e42eddf739fc4|29]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2967, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11347
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 7 ir [[#^s-915657a50aaddc20f4403462|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-6412b9d65cd5b8f1a3f4fc4a|7]] ir [[#^s-915657a50aaddc20f4403462|8]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-110, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28966
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 57 ir [[#^s-048db629fb339f4e4f200c53|61 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-5f3c086e799a21220a701666|57]] ir [[#^s-048db629fb339f4e4f200c53|61]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2960,9 +2960,9 @@ Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-6136eae42174586312
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1693, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27550
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 2, 5, 8, 10, 22, 23, 25, 27, 30, 45, 68, 74, 75, [[#^s-6136eae42174586312430b14|77 straipsnių]] pakeitimo, Įstatymo papildymo 75-1 straipsniu ir vienuoliktuoju skirsniu ir [[#^s-12843ff3783840d3cb9fe240|69 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-5d67e5430a07cb6744f12896|2]], [[#^s-be36578cc69459a99bbcbacd|5]], [[#^s-915657a50aaddc20f4403462|8]], [[#^s-09b18c1ec4b1d7b8d5e1ebe1|10]], [[#^s-c59b96976e90c8aa436cb8a2|22]], [[#^s-be19c8087aab7264b7137290|23]], [[#^s-b9ef7deb271153776a67447b|25]], [[#^s-d27cee51a48ea63411421aad|27]], [[#^s-73ccb09247b080ff35425df6|30]], [[#^s-bdcf563b849bf21692becd1f|45]], [[#^s-ffbb7da57db830a215429732|68]], [[#^s-3a0fff5804b280ab50a0fcdc|74]], [[#^s-1d34d4401b4018cbd4a1ae0b|75]], [[#^s-6136eae42174586312430b14|77]] straipsnių pakeitimo, Įstatymo papildymo 75-1 straipsniu ir vienuoliktuoju skirsniu ir [[#^s-12843ff3783840d3cb9fe240|69 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2828, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12150
-Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 18, 22, 24, 26, 50 ir [[#^s-9167e44e955739358fca2a5f|51 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kredito unijų įstatymo Nr. I-796 [[#^s-81bbe64fd99e5dfdc88fe470|18]], [[#^s-c59b96976e90c8aa436cb8a2|22]], [[#^s-3fd067dc0bbff54515bac812|24]], [[#^s-7f8c9c8ef0e976548880fea0|26]], [[#^s-962e0f8b44711d9d297ec4b2|50]] ir [[#^s-9167e44e955739358fca2a5f|51]] straipsnių pakeitimo įstatymas

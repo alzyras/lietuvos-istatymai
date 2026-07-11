@@ -45,7 +45,7 @@ Vilnius
 Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Vidaus vandenų transporto kodeksas reguliuoja vidaus vandenų laivybos, uostų veiklos, keleivių, krovinių, bagažo, pašto vežimo, buksyravimo santykius, taip pat nustato atsakomybę už žalą, padarytą vidaus vandenų transporto, ir už kitus šio kodekso nuostatų pažeidimus. Keleiviams, kurie keliauja 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (toliau – Reglamentas (ES) Nr. 1177/2010), [[#^s-069402da3cb85f1e1ad8b451|2 straipsnio]] 1 ir 2 dalyse nustatytomis sąlygomis, šio kodekso nuostatos taikomos tiek, kiek keleivių vežimo sąlygos ir tvarka nenustatyta Reglamente (ES) Nr. 1177/2010.“
+„1. [Vidaus vandenų transporto kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F) reguliuoja vidaus vandenų laivybos, uostų veiklos, keleivių, krovinių, bagažo, pašto vežimo, buksyravimo santykius, taip pat nustato atsakomybę už žalą, padarytą vidaus vandenų transporto, ir už kitus šio kodekso nuostatų pažeidimus. Keleiviams, kurie keliauja 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1177/2010](https://eur-lex.europa.eu/eli/reg/1177/2010/oj) dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas [Reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) (toliau – [Reglamentas (ES) Nr. 1177/2010](https://eur-lex.europa.eu/eli/reg/1177/2010/oj)), [[#^s-069402da3cb85f1e1ad8b451|2 straipsnio]] [[#^s-f5a8929d1381c4e6ab9e0566|1]] ir [[#^s-40e73c5ae7f23a3d3a239885|2]] dalyse nustatytomis sąlygomis, šio kodekso nuostatos taikomos tiek, kiek keleivių vežimo sąlygos ir tvarka nenustatyta [Reglamente (ES) Nr. 1177/2010](https://eur-lex.europa.eu/eli/reg/1177/2010/oj).“
 
 
 
@@ -59,10 +59,10 @@ Papildyti Kodeksą 42 straipsniu:
 „42 straipsnis. Keleivių teisių užtikrinimas ir skundų nagrinėjimas
 
 
-1. Lietuvos saugios laivybos administracija užtikrina Reglamento (ES) Nr. 1177/2010 nuostatų, susijusių su keleivių vežimo paslaugomis, išskyrus keleivių skundų dėl jų teisių, nurodytų Reglamente (ES) Nr. 1177/2010, pažeidimų nagrinėjimą, vykdymą. ^s-f5a8929d1381c4e6ab9e0566
+1. Lietuvos saugios laivybos administracija užtikrina [Reglamento (ES) Nr. 1177/2010](https://eur-lex.europa.eu/eli/reg/1177/2010/oj) nuostatų, susijusių su keleivių vežimo paslaugomis, išskyrus keleivių skundų dėl jų teisių, nurodytų [Reglamente (ES) Nr. 1177/2010](https://eur-lex.europa.eu/eli/reg/1177/2010/oj), pažeidimų nagrinėjimą, vykdymą. ^s-f5a8929d1381c4e6ab9e0566
 
 
-2. Valstybinė vartotojų teisių apsaugos tarnyba nagrinėja keleivių skundus dėl jų teisių, nurodytų Reglamente (ES) Nr. 1177/2010, pažeidimų [[latest/TAR.D790096B17EE|Vartotojų teisių apsaugos įstatymo]] nustatyta tvarka. Prieš pateikdamas skundą Valstybinei vartotojų teisių apsaugos tarnybai, keleivis privalo pateikti skundą vežėjui ar terminalo operatoriui.“ ^s-40e73c5ae7f23a3d3a239885
+2. Valstybinė vartotojų teisių apsaugos tarnyba nagrinėja keleivių skundus dėl jų teisių, nurodytų [Reglamente (ES) Nr. 1177/2010](https://eur-lex.europa.eu/eli/reg/1177/2010/oj), pažeidimų [[latest/TAR.D790096B17EE|Vartotojų teisių apsaugos įstatymo]] nustatyta tvarka. Prieš pateikdamas skundą Valstybinei vartotojų teisių apsaugos tarnybai, keleivis privalo pateikti skundą vežėjui ar terminalo operatoriui.“ ^s-40e73c5ae7f23a3d3a239885
 
 
 
@@ -78,7 +78,7 @@ Papildyti Kodeksą 42 straipsniu:
 2. Papildyti Kodekso priedą 3 punktu: ^s-525fdd6c1871cbdd7b8bcbb4
 
 
-„3. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1177/2010 dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2010 L 334, p. 1).“
+„3. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1177/2010](https://eur-lex.europa.eu/eli/reg/1177/2010/oj) dėl jūrų ir vidaus vandenų keliais vykstančių keleivių teisių, kuriuo iš dalies keičiamas [Reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) (OL 2010 L 334, p. 1).“
 
 
 

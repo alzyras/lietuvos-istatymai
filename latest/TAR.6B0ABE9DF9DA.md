@@ -50,7 +50,7 @@ Vilnius
 16 straipsnio 4 dalies 2 punkte po žodžių „policijoje (milicijoje)“ įrašyti žodžius „Valstybės sienos apsaugos tarnyboje“ ir šį punktą išdėstyti taip:
 
 
-„2) darbo policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms;“.
+„2) darbo policijoje (milicijoje), Valstybės sienos apsaugos tarnyboje, vidaus tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms;“.
 
 
 

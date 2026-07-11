@@ -9,11 +9,13 @@ pavadinimas: "Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - 2 citatos - Lietuvos Respublikos konkurencijos įstatymo
-- [[latest/TAR.4DBDE27621A2|Lietuvos Respublikos korupcijos prevencijos įstatymas]] - 2 citatos - Lietuvos Respublikos korupcijos prevencijos įstatymo
-- [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - 2 citatos - Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
+- [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - Lietuvos Respublikos konkurencijos įstatymo
+- [[latest/TAR.4DBDE27621A2|Lietuvos Respublikos korupcijos prevencijos įstatymas]] - Lietuvos Respublikos korupcijos prevencijos įstatymo
+- [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
+- [[latest/TAR.B4FA4C56B8D5#^s-218259e4b8ac202703570de4|Lietuvos Respublikos teisėkūros pagrindų įstatymas]] - 15 straipsnio 2 dalį
+- [[latest/TAR.B4FA4C56B8D5#^s-7856597d4a9898abbc8eff47|Lietuvos Respublikos teisėkūros pagrindų įstatymas]] - 2 citatos - 16 straipsnis
+- [[latest/TAR.B4FA4C56B8D5#^s-9e36886cdbdee299233f04d2|Lietuvos Respublikos teisėkūros pagrindų įstatymas]] - 161 straipsnį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.B4FA4C56B8D5#^s-03052b7ba07710f6a36d05bc|Lietuvos Respublikos teisėkūros pagrindų įstatymas]] - Įstatymas Nr. XIII-2986
-- [[latest/TAR.B4FA4C56B8D5#^s-9090ca1dd4c788822807c8de|Lietuvos Respublikos teisėkūros pagrindų įstatymas]] - Įstatymas Nr. XIII-2986
+_Nėra._

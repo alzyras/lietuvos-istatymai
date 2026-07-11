@@ -73,7 +73,7 @@ Vilnius
 ### 2 straipsnis. 4 straipsnio pakeitimas ^s-544ea1e18ee4fc34ce129fc2
 
 
-Pripažinti netekusia galios 4 straipsnio 3 dalį, pakeisti [[#^s-9782d9e388a3944c7aad5862|4 dalį]], pripažinti netekusiomis galios 5 ir 7 dalis, iš 9 dalies išbraukti žodžius „suderintą su Socialinės apsaugos ir darbo ministerija“, buvusias 4, 6, 8, 9 dalis laikyti atitinkamai 3, 4, 5, [[#^s-d1da329d81e35cd13455bf78|6 dalimis]] ir šį straipsnį išdėstyti taip:
+Pripažinti netekusia galios 4 straipsnio 3 dalį, pakeisti [[#^s-9782d9e388a3944c7aad5862|4 dalį]], pripažinti netekusiomis galios 5 ir 7 dalis, iš 9 dalies išbraukti žodžius „suderintą su Socialinės apsaugos ir darbo ministerija“, buvusias [[#^s-9782d9e388a3944c7aad5862|4]], [[#^s-d1da329d81e35cd13455bf78|6]], 8, 9 dalis laikyti atitinkamai [[#^s-2b29c583316a678dfa3d8ec4|3]], [[#^s-9782d9e388a3944c7aad5862|4]], [[#^s-611613e0447adebea64bc967|5]], [[#^s-d1da329d81e35cd13455bf78|6]] dalimis ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-24b15dfb632081c1d19ddacb|4 straipsnis]]. Pensijų fondo steigimas
@@ -170,13 +170,13 @@ Pripažinti netekusia galios 4 straipsnio 3 dalį, pakeisti [[#^s-9782d9e388a394
 4. Pažyma ir dokumentai, įrodantys steigiamo pensijų fondo akcijų apmokėjimą, pateikiami Vertybinių popierių komisijai ne vėliau kaip prieš 7 darbo dienas iki svarstymo dėl leidimo verstis pensijų fondo veikla išdavimo. ^s-ef941f1a464e69380f64e25d
 
 
-5. Sprendimą dėl leidimo išdavimo Vertybinių popierių komisija turi priimti ne vėliau kaip per 3 mėnesius nuo šio straipsnio 2 ir [[#^s-cc73d1ac8c2ec1ee7fbcba2b|3 dalyse]] nurodytų dokumentų pateikimo dienos. Jei šio įstatymo nustatyta tvarka Vertybinių popierių komisija pareikalauja papildomų dokumentų ar informacijos, tai 3 mėnesių terminas skaičiuojamas nuo papildomų dokumentų ar informacijos pateikimo. Atsisakymas išduoti leidimą turi būti motyvuotas raštu ir gali būti apskųstas teismui. ^s-ae1df1ba515956fd592057fb
+5. Sprendimą dėl leidimo išdavimo Vertybinių popierių komisija turi priimti ne vėliau kaip per 3 mėnesius nuo šio straipsnio 2 ir 3 dalyse nurodytų dokumentų pateikimo dienos. Jei šio įstatymo nustatyta tvarka Vertybinių popierių komisija pareikalauja papildomų dokumentų ar informacijos, tai 3 mėnesių terminas skaičiuojamas nuo papildomų dokumentų ar informacijos pateikimo. Atsisakymas išduoti leidimą turi būti motyvuotas raštu ir gali būti apskųstas teismui. ^s-ae1df1ba515956fd592057fb
 
 
 6. Vertybinių popierių komisija gali atsisakyti išduoti leidimą pensijų fondo veiklai, jeigu: ^s-5ca4a3f361a5258d5ed37682
 
 
-1) pateikti ne visi šio straipsnio 2 ir [[#^s-cc73d1ac8c2ec1ee7fbcba2b|3 dalyse]] išvardyti dokumentai; ^s-e947c227d1e9246ffc7e6dfc
+1) pateikti ne visi šio straipsnio [[#^s-68414decf0a5b4f4f749819f|2]] ir [[#^s-cc73d1ac8c2ec1ee7fbcba2b|3]] dalyse išvardyti dokumentai; ^s-e947c227d1e9246ffc7e6dfc
 
 
 2) leidimui gauti pateikti dokumentai neatitinka šio ar kitų įstatymų arba kitų teisės aktų reikalavimų; ^s-d9a3c4898f38cc1af3a667da
@@ -255,7 +255,7 @@ Pripažinti netekusia galios 4 straipsnio 3 dalį, pakeisti [[#^s-9782d9e388a394
 ### 4 straipsnis. 6 straipsnio 1 ir 2 dalių pripažinimas netekusiomis galios ^s-24b15dfb632081c1d19ddacb
 
 
-[[#^s-e3d87cd17204200e44842a72|6 straipsnio]] 1 ir [[#^s-cc5b959fae7a651dba37e864|2 dalis]] pripažinti netekusiomis galios, buvusias 3 ir 4 dalis laikyti atitinkamai 1 ir [[#^s-cc5b959fae7a651dba37e864|2 dalimis]] ir šį straipsnį išdėstyti taip:
+[[#^s-e3d87cd17204200e44842a72|6 straipsnio]] [[#^s-d08e015a7e0be152f7ec6093|1]] ir [[#^s-933656b2e7289a8b96d348cf|2]] dalis pripažinti netekusiomis galios, buvusias [[#^s-63e2e47505db27ae5d231e6b|3]] ir 4 dalis laikyti atitinkamai [[#^s-d08e015a7e0be152f7ec6093|1]] ir [[#^s-933656b2e7289a8b96d348cf|2]] dalimis ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-e3d87cd17204200e44842a72|6 straipsnis]]. Pensijų fondo veiklos ypatumai
@@ -397,7 +397,7 @@ Pakeisti [[#^s-6a0514ae584403b5594e86f6|10 straipsnį]] ir jį išdėstyti taip:
 8. Pensijų programų dalyvių reikalavimai pensijų fondui (kai pensijų fondas pasisavina, iššvaisto pensijų turtą ar su šiuo turtu padaro kitas baudžiamuosiuose įstatymuose numatytas veikas, ir dėl to pensijų turto negalima grąžinti pensijų programų dalyviams) turi būti patenkinti iš pensijų fondo nuosavo turto prieš pradedant tenkinti kitų pensijų fondo kreditorių (ne pensijų programų dalyvių) reikalavimus, bet po to, kai atlyginta įkaito turėtojui [[#^s-bb68f5b41b848c32c7b713f6|šio straipsnio 9 dalyje]] nustatyta tvarka. ^s-ea47d69f72c70fc6a309dc5b
 
 
-9. Įkaito turėtojui atlyginama iš lėšų, gautų pardavus įkeistą pensijų fondo nuosavą turtą. Šių lėšų likutis skiriamas kreditorių reikalavimams tenkinti šio straipsnio 8, 10 ir [[#^s-0a8677a639f1eb0c76439b1b|11 dalyse]] nustatyta tvarka. ^s-bb68f5b41b848c32c7b713f6
+9. Įkaito turėtojui atlyginama iš lėšų, gautų pardavus įkeistą pensijų fondo nuosavą turtą. Šių lėšų likutis skiriamas kreditorių reikalavimams tenkinti šio straipsnio [[#^s-ea47d69f72c70fc6a309dc5b|8]], [[#^s-d74988a1d44ca82d4524f338|10]] ir [[#^s-0a8677a639f1eb0c76439b1b|11]] dalyse nustatyta tvarka. ^s-bb68f5b41b848c32c7b713f6
 
 
 10. Pensijų fondo kreditorių, išskyrus pensijų programų dalyvius, reikalavimai tenkinami tokia tvarka: ^s-d74988a1d44ca82d4524f338
@@ -473,7 +473,7 @@ Pakeisti [[#^s-b3edd40daa99c37e244cd79c|15 straipsnio 2 dalį]], papildyti ją a
 12) atsiskaitymo su pensijų fondu iš pensijų programos turto už pensijų fondo veiklą šaltiniai ir tvarka; ^s-4d006404c42c6ec61bc95319
 
 
-13) ataskaitų apie pensijų fondo veiklą ir pensijų sąskaitas šio įstatymo 40 straipsnio 5 bei [[#^s-f5ca3370e73a24532b011979|6 dalyse]] numatytais atvejais pateikimo pensijų programos dalyviams ir pensijų įmokų mokėtojams, taip pat kitų pensijų fondo pranešimų pateikimo pensijų programos dalyviams bei pensijų įmokų mokėtojams formos ir tvarka; ^s-2d66d70678a929be8a777f59
+13) ataskaitų apie pensijų fondo veiklą ir pensijų sąskaitas šio įstatymo 40 straipsnio 5 bei 6 dalyse numatytais atvejais pateikimo pensijų programos dalyviams ir pensijų įmokų mokėtojams, taip pat kitų pensijų fondo pranešimų pateikimo pensijų programos dalyviams bei pensijų įmokų mokėtojams formos ir tvarka; ^s-2d66d70678a929be8a777f59
 
 
 14) pensijų sutarčių sudarymo, keitimo ir nutraukimo sąlygos bei tvarka; ^s-e7224f167f580383fab5e941
@@ -837,7 +837,7 @@ Papildyti Įstatymą 231 straipsniu:
 2. Nei pensijų fondo nuosavas kapitalas, nei įstatinis kapitalas negali būti mažesni kaip 4 mln. litų. ^s-2d0adaff1862df3641969337
 
 
-3. Ne mažiau kaip 4 mln. litų pensijų fondo nuosavas kapitalas turi būti investuotas į diversifikuotą investicijų portfelį, kuriam taikomi tie patys reikalavimai kaip ir pensijų turtui, nustatyti šio įstatymo 2 ir [[#^s-ab5bee011cb28a3dd49aae2f|35 straipsniuose]]. Likusia nuosavo kapitalo dalimi pensijų fondas disponuoja savo nuožiūra įstatymų ir kitų teisės aktų nustatyta tvarka.“ ^s-2c0be1c3c5bb66bfa8ee358d
+3. Ne mažiau kaip 4 mln. litų pensijų fondo nuosavas kapitalas turi būti investuotas į diversifikuotą investicijų portfelį, kuriam taikomi tie patys reikalavimai kaip ir pensijų turtui, nustatyti šio įstatymo [[#^s-544ea1e18ee4fc34ce129fc2|2]] ir [[#^s-ab5bee011cb28a3dd49aae2f|35]] straipsniuose. Likusia nuosavo kapitalo dalimi pensijų fondas disponuoja savo nuožiūra įstatymų ir kitų teisės aktų nustatyta tvarka.“ ^s-2c0be1c3c5bb66bfa8ee358d
 
 
 
@@ -902,7 +902,7 @@ Pensijų fondui už jo veiklą iš pensijų programos turto atsiskaitoma ir pens
 ### 27 straipsnis. 32 straipsnio 2 ir 3 dalių pakeitimas ^s-28f2e37a78e2709a1764aebf
 
 
-Pakeisti [[#^s-9eb1d0b7c36cbb88686c3d92|32 straipsnio]] 2 ir [[#^s-dd6a5a3b5b00a0156613e7b4|3 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-9eb1d0b7c36cbb88686c3d92|32 straipsnio]] 2 ir 3 dalis ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-9eb1d0b7c36cbb88686c3d92|32 straipsnis]]. Pensijų programos turtas
@@ -914,7 +914,7 @@ Pakeisti [[#^s-9eb1d0b7c36cbb88686c3d92|32 straipsnio]] 2 ir [[#^s-dd6a5a3b5b00a
 2. Kiekvienos pensijų programos grynieji aktyvai turi būti vertinami tam, kad galima būtų nustatyti pensijų programos apskaitos vienetų vertę. ^s-2339edaf171322da66e6b948
 
 
-3. Pensijų programos grynieji aktyvai turi būti vertinami ir pensijų programos apskaitos vienetų vertė turi būti nustatoma kiekvieną darbo dieną pensijų programoje nustatyta tvarka. Pensijų programos turtą sudarantis nekilnojamasis turtas turi būti vertinamas turtą ar verslą vertinančios įmonės Turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka ne rečiau kaip vieną kartą per pensijų fondo ūkinius metus. Vertybinių popierių komisija turi teisę nustatyti kitus pensijų programos grynųjų aktyvų vertinimo ir pensijų programos apskaitos vienetų vertės nustatymo reikalavimus.“ ^s-dd6a5a3b5b00a0156613e7b4
+3. Pensijų programos grynieji aktyvai turi būti vertinami ir pensijų programos apskaitos vienetų vertė turi būti nustatoma kiekvieną darbo dieną pensijų programoje nustatyta tvarka. Pensijų programos turtą sudarantis nekilnojamasis turtas turi būti vertinamas turtą ar verslą vertinančios įmonės [Turto ir verslo vertinimo pagrindų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nustatyta tvarka ne rečiau kaip vieną kartą per pensijų fondo ūkinius metus. Vertybinių popierių komisija turi teisę nustatyti kitus pensijų programos grynųjų aktyvų vertinimo ir pensijų programos apskaitos vienetų vertės nustatymo reikalavimus.“ ^s-dd6a5a3b5b00a0156613e7b4
 
 
 
@@ -968,7 +968,7 @@ Pakeisti [[#^s-2bd2b285aeb62fef1e7c8c92|34 straipsnį]] ir jį išdėstyti taip:
 36 straipsnio 2 dalies antrajame sakinyje vietoj žodžio „patvirtinta“ įrašyti žodžius „turi patvirtinti“ ir šią dalį išdėstyti taip:
 
 
-„2. Pensijų turto valdymo sutartyje turi būti nuostatos, nurodytos Investicinių bendrovių įstatymo III skirsnyje. Turto valdymo sutartį turi patvirtinti pensijų fondo akcininkų susirinkimas. Sutartis fondo stebėtojų tarybos (valdybos) sprendimu gali būti nutraukta pirma laiko. Valdymo įmonė negali būti pakeista be Vertybinių popierių komisijos sutikimo.“
+„2. Pensijų turto valdymo sutartyje turi būti nuostatos, nurodytos [Investicinių bendrovių įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2F569DB9753A) III skirsnyje. Turto valdymo sutartį turi patvirtinti pensijų fondo akcininkų susirinkimas. Sutartis fondo stebėtojų tarybos (valdybos) sprendimu gali būti nutraukta pirma laiko. Valdymo įmonė negali būti pakeista be Vertybinių popierių komisijos sutikimo.“
 
 
 
@@ -978,7 +978,7 @@ Pakeisti [[#^s-2bd2b285aeb62fef1e7c8c92|34 straipsnį]] ir jį išdėstyti taip:
 1. Iš 37 straipsnio 1 dalies pirmojo sakinio išbraukti žodį „programos“ ir šią dalį išdėstyti taip: ^s-d2557a1107e4c06fb7cfaa16
 
 
-„1. Pensijų fondas pensijų turtą sudarančias pinigines lėšas ir vertybinius popierius privalo saugoti pasirinktame depozitoriume. Depozitoriumas veikia pagal Investicinių bendrovių įstatymo IV skirsnio nuostatas, jei šis įstatymas nenumato ko kita. Vertybinių popierių komisija gali nustatyti papildomų reikalavimų depozitoriumui, kuriame laikomas pensijų turtas. Depozitoriumu negali būti pats pensijų fondas ar valdymo įmonė, o depozitoriumas, kuriame saugomas pensijų fondo turtas, negali būti to pensijų fondo akcininku ar jo valdymo įmonės akcininku.“
+„1. Pensijų fondas pensijų turtą sudarančias pinigines lėšas ir vertybinius popierius privalo saugoti pasirinktame depozitoriume. Depozitoriumas veikia pagal [Investicinių bendrovių įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2F569DB9753A) IV skirsnio nuostatas, jei šis įstatymas nenumato ko kita. Vertybinių popierių komisija gali nustatyti papildomų reikalavimų depozitoriumui, kuriame laikomas pensijų turtas. Depozitoriumu negali būti pats pensijų fondas ar valdymo įmonė, o depozitoriumas, kuriame saugomas pensijų fondo turtas, negali būti to pensijų fondo akcininku ar jo valdymo įmonės akcininku.“
 
 
 2. Pakeisti 37 straipsnio 2 dalį ir ją išdėstyti taip: ^s-43d0fad3f2c975eac9a9c0f5
@@ -1038,7 +1038,7 @@ Pakeisti ir papildyti 40 straipsnį ir jį išdėstyti taip:
 ### 34 straipsnis. 41 straipsnio 2 ir 7 dalių pakeitimas ir papildymas nauja 4 dalimi ^s-2bd2b285aeb62fef1e7c8c92
 
 
-1. Pripažinti netekusiais galios 41 straipsnio 2 dalies 2 ir [[#^s-ad22868925b227f7e5139800|6 punktus]], buvusius 3, 4, 5, 7, 8, 9, 10 punktus laikyti atitinkamai 2, 3, 4, 5, 6, 7, [[#^s-be004847c034688513878fbe|8 punktais]] ir šią dalį išdėstyti taip: ^s-bce9b0782522858469d866a7
+1. Pripažinti netekusiais galios 41 straipsnio 2 dalies 2 ir 6 punktus, buvusius 3, 4, 5, 7, 8, 9, 10 punktus laikyti atitinkamai 2, 3, 4, 5, 6, 7, 8 punktais ir šią dalį išdėstyti taip: ^s-bce9b0782522858469d866a7
 
 
 „2. Vertybinių popierių komisija, išduodama leidimus pensijų fondų veiklai ir atlikdama jų veiklos priežiūrą, atlieka šias funkcijas:
@@ -1056,7 +1056,7 @@ Pakeisti ir papildyti 40 straipsnį ir jį išdėstyti taip:
 4) stebi, analizuoja, tikrina bei kitaip prižiūri pensijų fondų, pensijų fondų valdymo organų veiklą; ^s-86a7770c5a64fa592114a7d0
 
 
-5) taiko Administracinių teisės pažeidimų kodekse nustatytas sankcijas pensijų fondų, valdymo įmonių, depozitoriumų vadovams, taip pat šių įmonių auditoriams už šio įstatymo ir kitų teisės aktų pažeidimus; ^s-dcb10a8b1afca18882885941
+5) taiko [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatytas sankcijas pensijų fondų, valdymo įmonių, depozitoriumų vadovams, taip pat šių įmonių auditoriams už šio įstatymo ir kitų teisės aktų pažeidimus; ^s-dcb10a8b1afca18882885941
 
 
 6) taiko šio bei kitų įstatymų numatytas sankcijas asmenims, pažeidusiems šį įstatymą, taip pat Vertybinių popierių komisijos patvirtintas taisykles ar instrukcijas; ^s-ad22868925b227f7e5139800

@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-67aa3631eb4650da11916f5e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu,  138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2011 m. balandžio 29 d. dekretą Nr. 1K-677, ratifikuoja Tarptautinės plėtros asociacijos steigimo sutartį, sudarytą 1960 m. sausio 26 d. Vašingtone, kartu su Lietuvos Respublikos narystės Tarptautinėje plėtros asociacijoje sąlygomis, nustatytomis Tarptautinės plėtros asociacijos valdytojų tarybos 2008 m. balandžio 3 d. rezoliucijoje Nr. 218.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu,  138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2011 m. balandžio 29 d. dekretą Nr. 1K-677](https://e-tar.lt/portal/lt/legalAct/TAR.EEF229A1DC65), ratifikuoja Tarptautinės plėtros asociacijos steigimo sutartį, sudarytą 1960 m. sausio 26 d. Vašingtone, kartu su Lietuvos Respublikos narystės Tarptautinėje plėtros asociacijoje sąlygomis, nustatytomis Tarptautinės plėtros asociacijos valdytojų tarybos 2008 m. balandžio 3 d. rezoliucijoje Nr. 218.
 
 
 

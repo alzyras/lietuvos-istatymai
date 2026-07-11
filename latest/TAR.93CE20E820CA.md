@@ -79,7 +79,7 @@ Vilnius
 ### 2 straipsnis. 3 straipsnio 2, 3, 4, 5, 6 ir 7 dalių pakeitimas ir papildymas 8 dalimi ^s-23d1bcac169acde5c0b32a36
 
 
-Pakeisti [[#^s-ca1199c2aeec679bdae4fbb1|3 straipsnio]] 2, 3, 4, 5, 6, [[#^s-4480a13997062c7636a89827|7 dalis]], papildyti [[#^s-c67ece9e239db0902d1a48b2|8 dalimi]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-ca1199c2aeec679bdae4fbb1|3 straipsnio]] [[#^s-c656775c101d8781a410f5ed|2]], [[#^s-1ab62b61dd281820b5f29003|3]], [[#^s-07aa9e7ed7aa4fb5b2ee3a81|4]], [[#^s-12ecaca5b2544291171f2b69|5]], 6, 7 dalis, papildyti [[#^s-c67ece9e239db0902d1a48b2|8 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-ca1199c2aeec679bdae4fbb1|3 straipsnis]]. Bendrieji apskaitos tvarkymo reikalavimai
@@ -94,7 +94,7 @@ Pakeisti [[#^s-ca1199c2aeec679bdae4fbb1|3 straipsnio]] 2, 3, 4, 5, 6, [[#^s-4480
 3. Ūkio subjektai, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, apskaitą tvarko pagal tarptautinius apskaitos standartus. ^s-1e6d2814ec700c1eaec0bc7b
 
 
-4. Ribotos civilinės atsakomybės juridiniai asmenys, savo veikla siekiantys pelno, išskyrus [[#^s-1e6d2814ec700c1eaec0bc7b|šio straipsnio 3 dalyje]] nurodytus ūkio subjektus, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais arba tarptautiniais apskaitos standartais. Pasirinkus tvarkyti apskaitą pagal verslo apskaitos standartus arba tarptautinius apskaitos standartus, toks pasirinkimas negali būti keičiamas anksčiau negu po 5 metų (išskyrus atvejį, kai ribotos civilinės atsakomybės juridinis asmuo, savo veikla siekiantis pelno, tampa įmonių grupės įmone). Verslo apskaitos standartus parengia, patvirtina ir „Valstybės žiniose“ paskelbia Audito ir apskaitos tarnyba. Verslo apskaitos standartai turi būti parengti remiantis Europos Sąjungos teise ir tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės juridiniai asmenys, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansines ataskaitas arba kai Įmonių finansinės atskaitomybės įstatymas įpareigoja jas sudaryti. ^s-8b2f6493f88beb6dccbb25b1
+4. Ribotos civilinės atsakomybės juridiniai asmenys, savo veikla siekiantys pelno, išskyrus [[#^s-1e6d2814ec700c1eaec0bc7b|šio straipsnio 3 dalyje]] nurodytus ūkio subjektus, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais arba tarptautiniais apskaitos standartais. Pasirinkus tvarkyti apskaitą pagal verslo apskaitos standartus arba tarptautinius apskaitos standartus, toks pasirinkimas negali būti keičiamas anksčiau negu po 5 metų (išskyrus atvejį, kai ribotos civilinės atsakomybės juridinis asmuo, savo veikla siekiantis pelno, tampa įmonių grupės įmone). Verslo apskaitos standartus parengia, patvirtina ir „Valstybės žiniose“ paskelbia Audito ir apskaitos tarnyba. Verslo apskaitos standartai turi būti parengti remiantis Europos Sąjungos teise ir tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės juridiniai asmenys, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansines ataskaitas arba kai [Įmonių finansinės atskaitomybės įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C) įpareigoja jas sudaryti. ^s-8b2f6493f88beb6dccbb25b1
 
 
 5. Biudžetinės įstaigos, tvarkydamos apskaitą, vadovaujasi finansų ministro nustatyta tvarka. ^s-9100d946079891d3fe2dc7ad
@@ -208,7 +208,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 „17 straipsnis. Finansinės ataskaitos
 
 
-Finansinės ataskaitos sudaromos pagal sąskaitų duomenis Įmonių finansinės atskaitomybės įstatymo, [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatymo]] ir kitų teisės aktų nustatyta tvarka.“
+Finansinės ataskaitos sudaromos pagal sąskaitų duomenis [Įmonių finansinės atskaitomybės įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C), [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatymo]] ir kitų teisės aktų nustatyta tvarka.“
 
 
 
@@ -225,7 +225,7 @@ Finansinės ataskaitos sudaromos pagal sąskaitų duomenis Įmonių finansinės 
 ### 10 straipsnis. 19 straipsnio pavadinimo, 1, 2, 4 ir 5 dalių pakeitimas ^s-17defee28a2dfd76453ab6f6
 
 
-Pakeisti 19 straipsnio pavadinimą, 1, 2, 4, [[#^s-8c80a53ace96f12b63fb4a1a|5 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 19 straipsnio pavadinimą, 1, 2, 4, 5 dalis ir visą straipsnį išdėstyti taip:
 
 
 „19 straipsnis. Apskaitos dokumentų, apskaitos registrų saugojimo tvarka
@@ -284,20 +284,20 @@ priedas
 1. 1978 m. liepos 25 d. Ketvirtoji Tarybos direktyva 78/660/EEB, grindžiama Europos ekonominės bendrijos steigimo sutarties 54 straipsnio 3 dalies g punktu, dėl tam tikrų tipų bendrovių metinių atskaitomybių (OL 2004 m. specialusis leidimas, 17 skyrius, 1 tomas, p. 21). ^s-5f910afc1f9eadae67e5aedd
 
 
-2. 2002 m. liepos 19 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1606/2002 dėl tarptautinių apskaitos standartų taikymo (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 609). ^s-0c81b42b3869da3a04121963
+2. 2002 m. liepos 19 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1606/2002](https://eur-lex.europa.eu/eli/reg/1606/2002/oj) dėl tarptautinių apskaitos standartų taikymo (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 609). ^s-0c81b42b3869da3a04121963
 
 
-3. 2003 m. rugsėjo 29 d. Komisijos reglamentas (EB) Nr. 1725/2003, priimantis tam tikrus tarptautinius apskaitos standartus pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002 (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 4).“ ^s-954eb4968b535ad11ce93a4a
+3. 2003 m. rugsėjo 29 d. Komisijos [reglamentas (EB) Nr. 1725/2003](https://eur-lex.europa.eu/eli/reg/1725/2003/oj), priimantis tam tikrus tarptautinius apskaitos standartus pagal Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 1606/2002](https://eur-lex.europa.eu/eli/reg/1606/2002/oj) (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 4).“ ^s-954eb4968b535ad11ce93a4a
 
 
 
 ### 14 straipsnis. Įstatymo įsigaliojimas ^s-21f8337ee369871e98e2d502
 
 
-1. Šis įstatymas, išskyrus [[#^s-23d1bcac169acde5c0b32a36|2 straipsnyje]] išdėstyto Buhalterinės apskaitos įstatymo 3 straipsnio 8 dalį, šio įstatymo [[#^s-ca1199c2aeec679bdae4fbb1|3 straipsnio]] 4, 5 dalis ir [[#^s-35089060b2fedbcf51c0df8b|4 straipsnio 2 dalį]], įsigalioja 2008 m. rugsėjo 1 d. ^s-ce9fb7cdabfcd38da10bf1b0
+1. Šis įstatymas, išskyrus [[#^s-23d1bcac169acde5c0b32a36|2 straipsnyje]] išdėstyto [[latest/TAR.43178AA9832E#^s-9de8c47b39fe21d224eb4b69|Buhalterinės apskaitos įstatymo 3 straipsnio 8 dalį, šio įstatymo 3 straipsnio]] [[latest/TAR.43178AA9832E#^s-ee37d7443061680877b9876e|4]], [[latest/TAR.43178AA9832E#^s-abe624458a13d9a9436656e4|5]] dalis ir [[#^s-35089060b2fedbcf51c0df8b|4 straipsnio 2 dalį]], įsigalioja 2008 m. rugsėjo 1 d. ^s-ce9fb7cdabfcd38da10bf1b0
 
 
-2. Šio įstatymo [[#^s-23d1bcac169acde5c0b32a36|2 straipsnyje]] išdėstyto Buhalterinės apskaitos įstatymo 3 straipsnio 8 dalis, šio įstatymo [[#^s-ca1199c2aeec679bdae4fbb1|3 straipsnio]] 4, 5 dalys ir [[#^s-35089060b2fedbcf51c0df8b|4 straipsnio 2 dalis]] įsigalioja nuo tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną. ^s-2244ea1515dc036718d3b72b
+2. Šio įstatymo [[#^s-23d1bcac169acde5c0b32a36|2 straipsnyje]] išdėstyto [[latest/TAR.43178AA9832E#^s-9de8c47b39fe21d224eb4b69|Buhalterinės apskaitos įstatymo 3 straipsnio 8 dalis, šio įstatymo 3 straipsnio]] [[latest/TAR.43178AA9832E#^s-ee37d7443061680877b9876e|4]], [[latest/TAR.43178AA9832E#^s-abe624458a13d9a9436656e4|5]] dalys ir [[#^s-35089060b2fedbcf51c0df8b|4 straipsnio 2 dalis]] įsigalioja nuo tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną. ^s-2244ea1515dc036718d3b72b
 
 
 

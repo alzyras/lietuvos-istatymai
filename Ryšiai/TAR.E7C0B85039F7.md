@@ -9,10 +9,8 @@ pavadinimas: "Lietuvos Respublikos loterijų ir azartinių lošimų mokesčio į
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A7A6A8CC58D7|Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS LOTERIJŲ IR LOŠIMŲ MOKESČIO ĮSTATYMAS
 - [[latest/TAR.E90A0DD29952|Lietuvos Respublikos loterijų įstatymas]] - Loterijų įstatymas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A7A6A8CC58D7#^s-0de233a34cfeb2e6f592d669|Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas]] - 3 citatos - 1081010ISTA000XI-80
-- [[latest/TAR.A7A6A8CC58D7#^s-6eb8f919637fd59d5ce18879|Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas]] - 3 citatos - 1081010ISTA000XI-80
+- [[latest/TAR.A7A6A8CC58D7#^s-0de233a34cfeb2e6f592d669|Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas]] - 2 citatos - 1081010ISTA000XI-80

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-04919f8c55afeddd12bf5749
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Portugalijos Respublikos Vyriausybės susitarimą dėl grąžinimo asmenų, kurie atvyko į valstybę ar gyvena joje be leidimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Portugalijos Respublikos Vyriausybės susitarimą dėl grąžinimo asmenų, kurie atvyko į valstybę ar gyvena joje be leidimo, pasirašytą 1999 m. vasario 11 d. Lisabonoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 27 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Portugalijos Respublikos Vyriausybės susitarimą dėl grąžinimo asmenų, kurie atvyko į valstybę ar gyvena joje be leidimo“](https://e-tar.lt/portal/lt/legalAct/TAR.8C10806CC0E0), ratifikuoja Lietuvos Respublikos Vyriausybės ir Portugalijos Respublikos Vyriausybės susitarimą dėl grąžinimo asmenų, kurie atvyko į valstybę ar gyvena joje be leidimo, pasirašytą 1999 m. vasario 11 d. Lisabonoje.
 
 
 

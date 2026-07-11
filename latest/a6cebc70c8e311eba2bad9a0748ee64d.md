@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 30 straipsnio pakeitimas ^s-51cb4040eefc983058ddc1ca
 
 
-Pakeisti 30 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.91609F53E29E|30 straipsnio 1 dalies 6 punktą]] ir jį išdėstyti taip:
 
 
 „6) pensijos, išskyrus socialinio draudimo našlių pensijas, socialinio draudimo senatvės arba netekto darbingumo (invalidumo) pensijų priemokos, pensijų išmokos ir vietoj pensijų mokamos kompensacijos, rentos;“.

@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - 3 citatos - Valstybės ir tarnybos paslapčių įstatymo
+- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - 2 citatos - Valstybės ir tarnybos paslapčių įstatymo
 
 ## Šį įstatymą cituoja
 

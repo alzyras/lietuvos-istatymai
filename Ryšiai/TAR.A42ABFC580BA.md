@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos valstybinių pensijų įstatymo 12 ir 14 stra
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.ED38F243563C#^s-8217fb295cd6ffecb1e6c42e|Lietuvos Respublikos valstybinių pensijų įstatymas]] - 2 citatos - Valstybinių pensijų įstatymo 12 straipsnyje
+- [[latest/TAR.ED38F243563C|Lietuvos Respublikos valstybinių pensijų įstatymas]] - 3 citatos - 1
 
 ## Šį įstatymą cituoja
 

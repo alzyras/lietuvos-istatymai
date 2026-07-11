@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo speci
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.9F274C93E483#^s-65775caad078aa880fb07450|Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas]] - 4 straipsnio 1 dalies 4 punktą
 
 ## Šį įstatymą cituoja
 

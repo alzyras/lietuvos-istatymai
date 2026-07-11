@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-86e62f479c00d1ef6ddf398d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 9 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvenciją“, ratifikuoja su išlyga Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvenciją, sudarytą 1992 m. gruodžio 15 d. Stokholme.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 9 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvenciją“](https://e-tar.lt/portal/lt/legalAct/TAR.CF9BB64B2799), ratifikuoja su išlyga Europos saugumo ir bendradarbiavimo organizacijos (ESBO) sutaikymo ir arbitražo konvenciją, sudarytą 1992 m. gruodžio 15 d. Stokholme.
 
 
 

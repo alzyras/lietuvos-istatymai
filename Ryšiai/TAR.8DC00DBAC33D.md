@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.0475A2E41479#^s-3c1ab843497fab13952876ee|Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymas]] - 2 citatos - 1021010ISTA0IX-1184
-- [[latest/TAR.0475A2E41479#^s-8f4020949d61903aadc94ad6|Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymas]] - 2 citatos - 1021010ISTA0IX-1184
+- [[latest/TAR.0475A2E41479#^s-3c1ab843497fab13952876ee|Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymas]] - 1021010ISTA0IX-1184

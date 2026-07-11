@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-30108b1bdd0fbde464553cdd
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. balandžio 5 d. dekretą Nr. 565, ratifikuoja 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos protokolą dėl patvarių organinių teršalų, priimtą 1998 m. birželio 24 d. Orhuse.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. balandžio 5 d. dekretą Nr. 565](https://e-tar.lt/portal/lt/legalAct/TAR.26C3F710BB92), ratifikuoja 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos protokolą dėl patvarių organinių teršalų, priimtą 1998 m. birželio 24 d. Orhuse.
 
 
 

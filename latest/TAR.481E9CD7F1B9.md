@@ -112,7 +112,7 @@ Vilnius
 ### 4 straipsnis. 6 straipsnio papildymas ir pakeitimas ^s-b91d2731e6fd1e458d4bf2e5
 
 
-Papildyti [[#^s-f6cdcd134aa8925eccd3fe0f|6 straipsnį]] nauja [[#^s-5f42e0b649ee89b35212efad|1 dalimi]], buvusias 1 ir [[#^s-a189effc753086490b32e666|2 dalis]] laikyti atitinkamai 2 ir [[#^s-ec80ca3b33dffdccdba65576|3 dalimis]] ir visą straipsnį išdėstyti taip:
+Papildyti [[#^s-f6cdcd134aa8925eccd3fe0f|6 straipsnį]] nauja [[#^s-5f42e0b649ee89b35212efad|1 dalimi]], buvusias [[#^s-ee1a7a7f1739a67ec137583c|1]] ir [[#^s-0e655886528388d611a1be4e|2]] dalis laikyti atitinkamai [[#^s-0e655886528388d611a1be4e|2]] ir [[#^s-5cdf1c314964718122d74506|3]] dalimis ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-f6cdcd134aa8925eccd3fe0f|6 straipsnis]]. Bendrieji reikalavimai
@@ -131,7 +131,7 @@ Papildyti [[#^s-f6cdcd134aa8925eccd3fe0f|6 straipsnį]] nauja [[#^s-5f42e0b649ee
 ### 5 straipsnis. 7 straipsnio pakeitimas ir papildymas ^s-c7aed5c66f8a329d78ab4424
 
 
-7 straipsnio 2 dalyje vietoj žodžio „konsulas“ įrašyti žodžius „konsulinis pareigūnas“, vietoj žodžių „vienerius metus“ įrašyti žodžius „tris mėnesius“, papildyti straipsnį nauja [[#^s-adc519a0201c649cb9f59c47|3 dalimi]], buvusias 3 ir [[#^s-2501748ca8e8a0469b6a1698|4 dalis]] laikyti atitinkamai 4 ir [[#^s-e041d02e5bc6bc3203cf89f3|5 dalimis]], [[#^s-2501748ca8e8a0469b6a1698|4 dalyje]] po žodžių „Už Lietuvos“ įrašyti žodžius „ar užsienio“ ir visą straipsnį išdėstyti taip:
+7 straipsnio 2 dalyje vietoj žodžio „konsulas“ įrašyti žodžius „konsulinis pareigūnas“, vietoj žodžių „vienerius metus“ įrašyti žodžius „tris mėnesius“, papildyti straipsnį nauja [[#^s-adc519a0201c649cb9f59c47|3 dalimi]], buvusias [[#^s-adc519a0201c649cb9f59c47|3]] ir [[#^s-2501748ca8e8a0469b6a1698|4]] dalis laikyti atitinkamai [[#^s-2501748ca8e8a0469b6a1698|4]] ir [[#^s-e041d02e5bc6bc3203cf89f3|5]] dalimis, [[#^s-2501748ca8e8a0469b6a1698|4 dalyje]] po žodžių „Už Lietuvos“ įrašyti žodžius „ar užsienio“ ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-4f90da7e021257fd077e692a|7 straipsnis]]. Laivo vėliava
@@ -325,7 +325,7 @@ LAIVO HIPOTEKA“.
 1. Laivai, įregistruoti Lietuvos Respublikos jūrų laivų registre, įkeičiami vadovaujantis Lietuvos Respublikos civilinio kodekso, Lietuvos Respublikos hipotekos bei šio Įstatymo nustatyta tvarka. ^s-f9ff540716782f74e5d5542e
 
 
-2. Jeigu šiame Įstatyme numatytos kitokios normos negu Lietuvos Respublikos civiliniame kodekse ar Lietuvos Respublikos hipotekos įstatyme, taikomos šio Įstatymo nuostatos.“ ^s-2cf116f2304a5c26dca70b16
+2. Jeigu šiame Įstatyme numatytos kitokios normos negu Lietuvos Respublikos civiliniame kodekse ar [Lietuvos Respublikos hipotekos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B), taikomos šio Įstatymo nuostatos.“ ^s-2cf116f2304a5c26dca70b16
 
 
 

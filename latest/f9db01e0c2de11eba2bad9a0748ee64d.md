@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. 191 straipsnio pakeitimas ^s-bce27a91e1bd90b28c57d102
 
 
-Pakeisti 191 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.FBE404535C5B#^s-405ab604f508cef11405028f|191 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Įgaliotas padalinys yra Lietuvos policijos generalinio komisaro įsakymu įgaliota policijos įstaiga ar jos struktūrinis padalinys. Įgaliotam padaliniui priklauso Valstybės sienos apsaugos tarnybos, Muitinės departamento prie Lietuvos Respublikos finansų ministerijos, Lietuvos Respublikos valstybės saugumo departamento ir Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos deleguoti pareigūnai, įgalioti atlikti funkcijas, susijusias su šio Įstatymo 1 priede nurodytų duomenų tvarkymu.“

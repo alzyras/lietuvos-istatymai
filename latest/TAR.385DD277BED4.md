@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-91b4381efc5747f340f3a96d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. gruodžio 23 d. dekretą Nr. 1999, ratifikuoja Konvenciją dėl viešbučių valdytojų materialinės atsakomybės už svečių turtą, priimtą 1962 m. gruodžio 17 d. Paryžiuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. gruodžio 23 d. dekretą Nr. 1999](https://e-tar.lt/portal/lt/legalAct/TAR.FB91E51F3656), ratifikuoja Konvenciją dėl viešbučių valdytojų materialinės atsakomybės už svečių turtą, priimtą 1962 m. gruodžio 17 d. Paryžiuje.
 
 
 

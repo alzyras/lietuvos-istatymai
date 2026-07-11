@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.303FC0152D04#^s-1019d0176795cea3c0d0a038|Lietuvos Respublikos reklamos įstatymas]] - 3 citatos - 1101010ISTA00XI-923
-- [[latest/TAR.303FC0152D04#^s-e46c0c6a50d98e02949ffcb4|Lietuvos Respublikos reklamos įstatymas]] - 3 citatos - 1101010ISTA00XI-923
+- [[latest/TAR.303FC0152D04#^s-e46c0c6a50d98e02949ffcb4|Lietuvos Respublikos reklamos įstatymas]] - 2 citatos - 1101010ISTA00XI-923

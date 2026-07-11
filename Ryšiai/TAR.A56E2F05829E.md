@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos Europos reikalų ministerijos, Ūkio minister
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.96A68BFC9E82#^s-6441e2315f1f73a9da2d6c3d|Lietuvos Respublikos Vyriausybės įstatymas]] - Įstatymas NR. VIII-36
-- [[latest/TAR.96A68BFC9E82#^s-94ff0f6ce570b86058afcfb6|Lietuvos Respublikos Vyriausybės įstatymas]] - Įstatymas NR. VIII-36
+_Nėra._

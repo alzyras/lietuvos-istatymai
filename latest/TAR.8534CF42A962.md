@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-bb37bbc0afc2de4b0926c6f3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. birželio 25 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Tarptautinės migracijos organizacijos bendradarbiavimo susitarimą“, ratifikuoja 1998 m. vasario 13 d. Ženevoje pasirašytą Lietuvos Respublikos ir Tarptautinės migracijos organizacijos bendradarbiavimo susitarimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. birželio 25 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Tarptautinės migracijos organizacijos bendradarbiavimo susitarimą“](https://e-tar.lt/portal/lt/legalAct/TAR.97C18FCB7BB6), ratifikuoja 1998 m. vasario 13 d. Ženevoje pasirašytą Lietuvos Respublikos ir Tarptautinės migracijos organizacijos bendradarbiavimo susitarimą.
 
 
 

@@ -43,7 +43,7 @@ Vilnius
 1. Papildyti [[#^s-521933c5f97b61bdbc6d0d51|2 straipsnį]] nauja 5 dalimi: ^s-37f8771689483fba7b35dbed
 
 
-„5. Europos priežiūros institucijos – Europos bankininkystės institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), Europos draudimo ir profesinių pensijų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48), ir Europos vertybinių popierių ir rinkų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84).“
+„5. Europos priežiūros institucijos – Europos bankininkystės institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), Europos draudimo ir profesinių pensijų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48), ir Europos vertybinių popierių ir rinkų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84).“
 
 
 2. Buvusias [[#^s-521933c5f97b61bdbc6d0d51|2 straipsnio]] 5–22 dalis laikyti atitinkamai 6–23 dalimis. ^s-05df4f4af16fbb8dbeadc230
@@ -56,7 +56,7 @@ Vilnius
 Papildyti 5 straipsnį 9 punktu:
 
 
-„9) Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka pagal Reglamentą (ES) Nr. 1093/2010, Reglamentą (ES) Nr. 1094/2010 ir Reglamentą (ES) Nr. 1095/2010 bendradarbiauja su Europos priežiūros institucijomis ir teikia joms visą jų užduotims atlikti būtiną informaciją.“
+„9) Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka pagal [Reglamentą (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), [Reglamentą (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj) ir [Reglamentą (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj) bendradarbiauja su Europos priežiūros institucijomis ir teikia joms visą jų užduotims atlikti būtiną informaciją.“
 
 
 
@@ -93,7 +93,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 1. Vyriausybė ar jos įgaliota institucija informuoja Europos Komisiją apie įstatymo taikymą šio įstatymo 2 straipsnio 10 dalies 3 ir 9 punktuose nurodytiems subjektams. ^s-46b098e9875610e3ad8e2647
 
 
-2. Vyriausybė ar jos įgaliota institucija informuoja kitas Europos Sąjungos valstybes nares, Europos Komisiją ir, laikydamasi atitinkamų Reglamento (ES) Nr. 1093/2010, Reglamento (ES) Nr. 1094/2010 ir Reglamento (ES) Nr. 1095/2010 nuostatų, – Europos priežiūros institucijas apie atvejus, kai: ^s-f7c799af83458cde72f811aa
+2. Vyriausybė ar jos įgaliota institucija informuoja kitas Europos Sąjungos valstybes nares, Europos Komisiją ir, laikydamasi atitinkamų [Reglamento (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), [Reglamento (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj) ir [Reglamento (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj) nuostatų, – Europos priežiūros institucijas apie atvejus, kai: ^s-f7c799af83458cde72f811aa
 
 
 1) trečioji valstybė tenkina šio įstatymo 2 straipsnio 22 dalies 2 punkte nustatytus reikalavimus; ^s-50c4a71dd06dc28cac6ad4c7

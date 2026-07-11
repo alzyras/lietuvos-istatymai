@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.E08277C8C1D8#^s-53120c2159c0ed5183d6acfe|Lietuvos Respublikos įstatymas dėl laisvosios prekybos sutarčių denonsavimo]] - 2003 m. vasario 25 d. įstatymu Nr. IX-1347
 - [[latest/TAR.E08277C8C1D8#^s-804cd2896dffc08647aafbc7|Lietuvos Respublikos įstatymas dėl laisvosios prekybos sutarčių denonsavimo]] - 2003 m. vasario 25 d. įstatymu Nr. IX-1347

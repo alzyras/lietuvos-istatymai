@@ -93,7 +93,7 @@ Teisėjų valstybinė pensija neskiriama, o paskirtoji nemokama, jei:
 4) asmuo gauna kitos valstybės pensiją; ^s-be515e4ef48d1327fd660056
 
 
-5) asmuo dirbo arba tarnavo Valstybinių pensijų įstatymo 11 straipsnio 4 dalies 1–8 punktuose išvardytose struktūrose. Šiais atvejais asmens teisė gauti teisėjo valstybinę pensiją nustatoma remiantis Valstybinių pensijų įstatymo 11 straipsnio 5 dalyje nustatyta tvarka patvirtintu tarnybų ir pareigų sąrašu; ^s-9e9db6aa9a90650554cbb1e7
+5) asmuo dirbo arba tarnavo [[latest/TAR.ED38F243563C|Valstybinių pensijų įstatymo 11 straipsnio 4 dalies]] [[latest/TAR.ED38F243563C|1]]–[[latest/TAR.ED38F243563C|8]] punktuose išvardytose struktūrose. Šiais atvejais asmens teisė gauti teisėjo valstybinę pensiją nustatoma remiantis [[latest/TAR.ED38F243563C|Valstybinių pensijų įstatymo 11 straipsnio 5 dalyje]] nustatyta tvarka patvirtintu tarnybų ir pareigų sąrašu; ^s-9e9db6aa9a90650554cbb1e7
 
 
 6) asmuo turi pajamų, nuo kurių skaičiuojamos ir mokamos valstybinio socialinio pensijų draudimo įmokos, arba gauna valstybinio socialinio draudimo ligos (įskaitant ir darbdavio mokamas ligos dienomis), motinystės, tėvystės, motinystės (tėvystės), profesinės reabilitacijos pašalpas ar nedarbo socialinio draudimo išmokas. ^s-7dfd7c59a78a22acfb052b7e
@@ -102,7 +102,7 @@ Straipsnio punkto pakeitimai:
 Nr. IX-2539, 2004-11-04, Žin., 2004, Nr. 171-6299 (2004-11-26), i. k. [[latest/TAR.E6D37876A57F|1041010ISTA0IX-2539]]
 Nr. X-208, 2005-05-19, Žin., 2005, Nr. 71-2554 (2005-06-07), i. k. [[latest/TAR.8D1E439FB91A|1051010ISTA000X-208]]
 Nr. X-670, 2006-06-08, Žin., 2006, Nr. 72-2686 (2006-06-28), i. k. [[latest/TAR.556AA939FDBF|1061010ISTA000X-670]]
-2007-10-22, Žin., 2007, Nr. 110-4511 (2007-10-25); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1071000NUTARG077101
+2007-10-22, Žin., 2007, Nr. 110-4511 (2007-10-25); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. [1071000NUTARG077101](https://e-tar.lt/portal/lt/legalAct/TAR.8F494F4B79F6)
 
 
 
@@ -119,7 +119,7 @@ Teisėjų darbo stažą teisėjų valstybinei pensijai gauti sudaro laikas nuo 1
 1. Asmenims, turintiems teisę gauti teisėjų valstybinę pensiją ir atitinkantiems šio Įstatymo [[#^s-41e2b55590ba54543c2583f1|3 straipsnyje]] nustatytas sąlygas bei įgijusiems ne mažesnį kaip 20 metų teisėjo darbo stažą, teisėjų valstybinė pensija apskaičiuojama iš paskutinių 5, prieš nustojant eiti teisėjo pareigas, metų teisėjo gauto darbo užmokesčio vidurkio ir skiriama 45 procentų šio dydžio. ^s-180a028ced863337b88b8b53
 TAR pastaba. Pripažinti, kad [[#^s-180a028ced863337b88b8b53|Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 6 straipsnio 1 dalis]] (Žin., 2002, Nr. 73-3088) ta apimtimi, kuria įtvirtinant maksimalų teisėjų valstybinės pensijos dydį nėra atsižvelgta į atskirų teismų sistemų ypatumus, prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
 Straipsnio dalies pakeitimai:
-2010-06-29, Žin., 2010, Nr. 134-6860 (2010-11-16); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1101000NUTARG109450
+2010-06-29, Žin., 2010, Nr. 134-6860 (2010-11-16); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. [1101000NUTARG109450](https://e-tar.lt/portal/lt/legalAct/TAR.A35B54CE852E)
 
 
 
@@ -137,14 +137,14 @@ TAR pastaba. Pripažinti, kad [[#^s-41cd5cf83778782eb7bcc698|Lietuvos Respubliko
 
 
 Straipsnio dalies pakeitimai:
-2010-06-29, Žin., 2010, Nr. 134-6860 (2010-11-16); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1101000NUTARG109450
+2010-06-29, Žin., 2010, Nr. 134-6860 (2010-11-16); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. [1101000NUTARG109450](https://e-tar.lt/portal/lt/legalAct/TAR.A35B54CE852E)
 
 
 
-3. Šio straipsnio 1 ir [[#^s-41cd5cf83778782eb7bcc698|2 dalyse]] nustatyta tvarka apskaičiuotos teisėjų valstybinės pensijos ir pagal kitus įstatymus paskirtų pensijų (valstybinių ir valstybinių socialinio draudimo pensijų) suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama teisėjų valstybinė pensija, Statistikos departamento paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio 1,5 dydžio. Pensijos dydžio ribojimą taiko teisėjų valstybines pensijas mokanti institucija. ^s-8bf5f40354d8164eb0128a15
+3. Šio straipsnio [[#^s-180a028ced863337b88b8b53|1]] ir [[#^s-41cd5cf83778782eb7bcc698|2]] dalyse nustatyta tvarka apskaičiuotos teisėjų valstybinės pensijos ir pagal kitus įstatymus paskirtų pensijų (valstybinių ir valstybinių socialinio draudimo pensijų) suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama teisėjų valstybinė pensija, Statistikos departamento paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio 1,5 dydžio. Pensijos dydžio ribojimą taiko teisėjų valstybines pensijas mokanti institucija. ^s-8bf5f40354d8164eb0128a15
 TAR pastaba. Pripažinti, kad [[#^s-8bf5f40354d8164eb0128a15|Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 6 straipsnio 3 dalis]] (Žin., 2002, Nr. 73-3088) prieštarauja Lietuvos Respublikos Konstitucijos 109 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
 Straipsnio dalies pakeitimai:
-2010-06-29, Žin., 2010, Nr. 134-6860 (2010-11-16); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1101000NUTARG109450
+2010-06-29, Žin., 2010, Nr. 134-6860 (2010-11-16); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. [1101000NUTARG109450](https://e-tar.lt/portal/lt/legalAct/TAR.A35B54CE852E)
 
 
 
@@ -229,7 +229,7 @@ Nr. XIII-1735, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20703
 2. Jei persikėlusio nuolat gyventi į užsienį pensijos gavėjo darbo teisėju stažas yra mažesnis negu 20 metų, teisėjų valstybinė pensija išmokama išvykimo mėnesį paskirtos (šio Įstatymo [[#^s-8bf5f40354d8164eb0128a15|6 straipsnio 3 dalies]] nustatyta tvarka atitinkamai apribotos) pensijos dydžio už 6 mėnesius į priekį ir toliau nebemokama. ^s-3a6d8416ae07821cc6f340c2
 
 
-3. Šio straipsnio 1 ir [[#^s-3a6d8416ae07821cc6f340c2|2 dalyse]] nurodytais atvejais teisėjų valstybinių pensijų mokėjimo tvarką nustato Nuostatai. ^s-4cc2fc5050590c58fb38a92e
+3. Šio straipsnio [[#^s-67c7d2b8a25409ccd8d604b7|1]] ir [[#^s-3a6d8416ae07821cc6f340c2|2]] dalyse nurodytais atvejais teisėjų valstybinių pensijų mokėjimo tvarką nustato Nuostatai. ^s-4cc2fc5050590c58fb38a92e
 
 
 4. Sugrįžusiam iš užsienio teisėjų valstybinės pensijos gavėjui ([[#^s-3a6d8416ae07821cc6f340c2|šio straipsnio 2 dalis]]) nuolat gyventi Lietuvoje teisėjų valstybinės pensijos mokėjimas atnaujinamas nuo pirmos dienos mėnesio, einančio po to mėnesio, kurį asmuo grįžo nuolat gyventi į Lietuvą. Už tuos mėnesius, už kuriuos teisėjų valstybinė pensija buvo išmokėta ([[#^s-3a6d8416ae07821cc6f340c2|šio straipsnio 2 dalis]]), pensija antrąkart nemokama. ^s-d27dc1a904719abea0588199
@@ -249,7 +249,7 @@ Vyriausybė iki 2002 m. rugsėjo 1 d. patvirtina Nacionalinių teismų administr
 1. Šis Įstatymas, išskyrus [[#^s-e3c86ada2471eba07acb827b|11 straipsnį]], įsigalioja nuo 2003 m. sausio 1 d. ^s-e8b9510b755fe71ba63e6669
 
 
-2. Įstatymo [[#^s-aac3815bcdf8fef27863ca0d|3 straipsnio 1 punktas]] nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos netenka galios. ^s-95a21a90e3e93959e868f649
+2. Įstatymo 3 straipsnio 1 punktas nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos netenka galios. ^s-95a21a90e3e93959e868f649
 
 
 
@@ -283,13 +283,13 @@ Nr. X-670, 2006-06-08, Žin., 2006, Nr. 72-2686 (2006-06-28), i. k. [[latest/TAR
 
 4.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2007-10-22, Žin., 2007, Nr. 110-4511 (2007-10-25); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1071000NUTARG077101
-Dėl [[#^s-42d1fc23794d60efc034c114|Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 4 straipsnio]] (2002 m. liepos 2 d., 2004 m. lapkričio 4 d., 2005 m. gegužės 19 d., 2006 m. birželio 8 d. redakcijos) atitikties Lietuvos Respublikos Konstitucijai
+2007-10-22, Žin., 2007, Nr. 110-4511 (2007-10-25); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. [1071000NUTARG077101](https://e-tar.lt/portal/lt/legalAct/TAR.8F494F4B79F6)
+[Dėl Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 4 straipsnio (2002 m. liepos 2 d., 2004 m. lapkričio 4 d., 2005 m. gegužės 19 d., 2006 m. birželio 8 d. redakcijos) atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/TAR.8F494F4B79F6)
 
 5.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2010-06-29, Žin., 2010, Nr. 134-6860 (2010-11-16); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. 1101000NUTARG109450
-Dėl [[#^s-ebd96b7d167ce61ed861d4db|Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 5, 6 straipsnių]], Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio 3 dalies (2009 m. gruodžio 8 d. redakcija), Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 1 straipsnio 2 dalies 1 punkto, 16 straipsnio 4 dalies atitikties Lietuvos Respublikos Konstitucijai
+2010-06-29, Žin., 2010, Nr. 134-6860 (2010-11-16); Žin., 2011, Nr. 33-0 (2011-03-19), i. k. [1101000NUTARG109450](https://e-tar.lt/portal/lt/legalAct/TAR.A35B54CE852E)
+[Dėl Lietuvos Respublikos teisėjų valstybinių pensijų įstatymo 5, 6 straipsnių, Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio 3 dalies (2009 m. gruodžio 8 d. redakcija), Lietuvos Respublikos socialinių išmokų perskaičiavimo ir mokėjimo laikinojo įstatymo 1 straipsnio 2 dalies 1 punkto, 16 straipsnio 4 dalies atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/TAR.A35B54CE852E)
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas

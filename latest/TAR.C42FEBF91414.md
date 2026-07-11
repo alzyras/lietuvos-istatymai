@@ -51,7 +51,7 @@ Vilnius
 2. Papildyti 36 straipsnį nauja 5 dalimi: ^s-8ab0dcd20ad94b815d95e490
 
 
-„5. Šio straipsnio 4 dalies 1 punkte numatytais atvejais duomenys apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsiant, ne vėliau kaip per 24 valandas, pateikiami Hipotekos registrui ir priverstinė hipoteka (įkeitimas) įregistruojama Hipotekos registre Hipotekos registro nuostatų nustatyta tvarka. Fondo valdybos direktoriaus ir jo pavaduotojo sprendimas dėl skolos išieškojimo iš priverstine hipoteka įkeisto turto yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka.“
+„5. Šio straipsnio 4 dalies 1 punkte numatytais atvejais duomenys apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsiant, ne vėliau kaip per 24 valandas, pateikiami Hipotekos registrui ir priverstinė hipoteka (įkeitimas) įregistruojama Hipotekos registre Hipotekos registro nuostatų nustatyta tvarka. Fondo valdybos direktoriaus ir jo pavaduotojo sprendimas dėl skolos išieškojimo iš priverstine hipoteka įkeisto turto yra vykdomasis dokumentas, vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.“
 
 
 3. Buvusias 36 straipsnio 5 ir 6 dalis laikyti atitinkamai 6 ir 7 dalimis. ^s-48415cb83477f3cb26c7f939

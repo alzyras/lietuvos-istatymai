@@ -185,7 +185,7 @@ Vilnius
 ### 5 straipsnis. 6 straipsnio pakeitimas ir papildymas ^s-8c3450705f234dc8dfd5006e
 
 
-1. Pakeisti [[#^s-3a304d4c5c4f615512619869|6 straipsnio 1 punktą]] ir jį išdėstyti taip: ^s-2985cbb36b15262f17129fe5
+1. Pakeisti 6 straipsnio 1 punktą ir jį išdėstyti taip: ^s-2985cbb36b15262f17129fe5
 
 
 „1) biudžetiniais metais, ne vėliau kaip likus 10 dienų iki atitinkamo ketvirčio pabaigos, keisti patvirtintų jo vadovaujamos įstaigos, jam pavaldžių biudžetinių įstaigų ir kitų subjektų vykdomoms programoms patvirtintų biudžetų lėšų pagal ekonominę klasifikaciją paskirtį (valstybės biudžeto asignavimų valdytojas Vyriausybės nustatyta tvarka praneša apie tai Finansų ministerijai, o savivaldybės biudžeto asignavimų valdytojas – savivaldybės administracijai jos nustatyta tvarka), neviršydamas patvirtintų tam tikrai programai bendrųjų asignavimų išlaidoms, iš jų – darbo užmokesčiui, sumų. Asignavimų sumos išlaidoms, iš jų – darbo užmokesčiui, yra maksimalios ir jų ekonomija, jeigu nėra įsiskolinimų, gali būti naudojama turtui įsigyti ir investicijų projektams, kuriems numatyta skirti lėšų atitinkamų metų valstybės investicijų programoje arba savivaldybių biudžetuose, papildomai finansuoti;“.
@@ -383,7 +383,7 @@ Pakeisti [[#^s-0aa6f2cf855727e0e28f04d0|24 straipsnio 2 dalį]] ir ją išdėsty
 Papildyti 28 straipsnį 3 dalimi:
 
 
-„3. Baudos už administracinius teisės pažeidimus įskaitomos į tą biudžetą, iš kurio išlaikoma institucija ar įstaiga, kurios įgaliotas pareigūnas surašė administracinio teisės pažeidimo protokolą arba skyrė ir (arba) paėmė baudą, Lietuvos Respublikos administracinių teisės pažeidimų kodekso 262 straipsnio nustatytais atvejais nesurašydamas administracinio teisės pažeidimo protokolo.“
+„3. Baudos už administracinius teisės pažeidimus įskaitomos į tą biudžetą, iš kurio išlaikoma institucija ar įstaiga, kurios įgaliotas pareigūnas surašė administracinio teisės pažeidimo protokolą arba skyrė ir (arba) paėmė baudą, [Lietuvos Respublikos administracinių teisės pažeidimų kodekso 262 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatytais atvejais nesurašydamas administracinio teisės pažeidimo protokolo.“
 
 
 
@@ -487,13 +487,13 @@ Pakeisti 35 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 24 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-c439db85021cef81ad9b6758
 
 
-1. Šis įstatymas, išskyrus [[#^s-c3b3c03abb5f67405bddda49|3 straipsnio]] 1, 3 ir [[#^s-73c23dd6e82e5238fc941a93|4 dalis]] ir [[#^s-6390410616888a9d3bcc2384|16 straipsnį]], įsigalioja 2011 m. sausio 1 d. ^s-8b6e240a968716fa0631165a
+1. Šis įstatymas, išskyrus [[#^s-c3b3c03abb5f67405bddda49|3 straipsnio]] [[#^s-e30ea9bf10134d49cfce1f1b|1]], [[#^s-5c13c63d00df247c33b5b226|3]] ir [[#^s-d38d92bd89f72eac1f1f9c00|4]] dalis ir [[#^s-6390410616888a9d3bcc2384|16 straipsnį]], įsigalioja 2011 m. sausio 1 d. ^s-8b6e240a968716fa0631165a
 
 
-2. Šio įstatymo [[#^s-c3b3c03abb5f67405bddda49|3 straipsnio]] 1, 3 ir [[#^s-73c23dd6e82e5238fc941a93|4 dalys]] ir [[#^s-6390410616888a9d3bcc2384|16 straipsnis]] įsigalioja 2012 m. sausio 1 d. ^s-0aa6f2cf855727e0e28f04d0
+2. Šio įstatymo [[#^s-c3b3c03abb5f67405bddda49|3 straipsnio]] [[#^s-e30ea9bf10134d49cfce1f1b|1]], [[#^s-5c13c63d00df247c33b5b226|3]] ir [[#^s-d38d92bd89f72eac1f1f9c00|4]] dalys ir [[#^s-6390410616888a9d3bcc2384|16 straipsnis]] įsigalioja 2012 m. sausio 1 d. ^s-0aa6f2cf855727e0e28f04d0
 
 
-3. Rengiant [[latest/TAR.B75745DE003E#^s-ad9b8169d25e78ca833bb3eb|2012 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą, atsižvelgiama į šio įstatymo 3 straipsnio]] 1, 3 ir [[#^s-73c23dd6e82e5238fc941a93|4 dalių]] nuostatas. ^s-899140314990f65ef8e7fabc
+3. Rengiant [[latest/TAR.B75745DE003E#^s-ad9b8169d25e78ca833bb3eb|2012 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą, atsižvelgiama į šio įstatymo 3 straipsnio]] [[latest/TAR.B75745DE003E#^s-81e17b8ad88b12f8dfab601c|1]], [[latest/TAR.B75745DE003E#^s-2155e3921bd3b71b4b629e32|3]] ir [[latest/TAR.B75745DE003E#^s-4fee31183e9f375a281c3d08|4]] dalių nuostatas. ^s-899140314990f65ef8e7fabc
 
 
 4. Ministerijos iki 2011 m. liepos 1 d. parengia ir pateikia Vyriausybei [[latest/TAR.FE51590E2B56#^s-82131eb11e3eecfd5c59d8c5|2011 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytų asignavimų valdytojų, kurių vadovaujamos įstaigos neatitinka šio įstatymo 3 straipsnio 3 dalies]], veiklą reglamentuojančių teisės aktų pakeitimo projektus. ^s-73c23dd6e82e5238fc941a93

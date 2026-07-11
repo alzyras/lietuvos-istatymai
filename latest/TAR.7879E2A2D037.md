@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-9394ea33b889752e48c2a8d0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2001 m. rugpjūčio 17 d. dekretą Nr. 1458, ratifikuoja Lietuvos Respublikos ir Europos Bendrijos susitarimą dėl Lietuvos Respublikos dalyvavimo Europos aplinkos agentūroje bei Europos informacijos ir stebėjimo tinkle, pasirašytą 2000 m. lapkričio 24 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2001 m. rugpjūčio 17 d. dekretą Nr. 1458](https://e-tar.lt/portal/lt/legalAct/TAR.9998244BBD58), ratifikuoja Lietuvos Respublikos ir Europos Bendrijos susitarimą dėl Lietuvos Respublikos dalyvavimo Europos aplinkos agentūroje bei Europos informacijos ir stebėjimo tinkle, pasirašytą 2000 m. lapkričio 24 d. Briuselyje.
 
 
 

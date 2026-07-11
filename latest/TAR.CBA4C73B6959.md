@@ -35,7 +35,7 @@ DĖL LIETUVOS RESPUBLIKOS LAIKINOJO VALIUTOS FONDŲ IR ATSKAITYMŲ KONVERTUOJAMA
 Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
 
-1. Nustatyti, kad įvedus litą, Lietuvos Respublikos laikinasis valiutos fondų ir atskaitymų konvertuojama valiuta įstatymas (Žin., 1991, Nr. 10-265) netenka galios.
+1. Nustatyti, kad įvedus litą, [Lietuvos Respublikos laikinasis valiutos fondų ir atskaitymų konvertuojama valiuta įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.97CC6DAA5C43) (Žin., 1991, Nr. 10-265) netenka galios.
 
 
 2. Pavesti Lietuvos Respublikos Vyriausybei nustatyti valiutos fonduose esančių lėšų tolesnio naudojimo tvarką.

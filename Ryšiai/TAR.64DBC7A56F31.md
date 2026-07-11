@@ -9,8 +9,7 @@ pavadinimas: "Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 1, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.423D6799832E|Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymas]] - Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo
-- [[latest/TAR.AC037376BE82|Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 9, 13, 18, 25 ir 26 straipsnių pakeitimo ir Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 1, 2, 9, 13, 14, 18, 23 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas]] - 6 citatos - 1101010ISTA00XI-647
+- [[latest/TAR.AC037376BE82|Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 9, 13, 18, 25 ir 26 straipsnių pakeitimo ir Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 1, 2, 9, 13, 14, 18, 23 straipsnių ir įstatymo priedo pakeitimo ir papildymo įstatymo 3 straipsnio pakeitimo įstatymas]] - 4 citatos - 1101010ISTA00XI-647
 
 ## Šį įstatymą cituoja
 

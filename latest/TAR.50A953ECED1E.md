@@ -48,7 +48,7 @@ Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 4. Pripažinti netekusiais galios:
 
 
-1) 1991 m. rugpjūčio 22 d. Lietuvos Respublikos įstatymą „Dėl LKP (SSKP) turto paėmimo“ (Žin., 1991, Nr. 25-662);
+1) 1991 m. rugpjūčio 22 d. Lietuvos Respublikos įstatymą [„Dėl LKP (SSKP) turto paėmimo“](https://e-tar.lt/portal/lt/legalAct/TAR.9C135F0D08FB) (Žin., 1991, Nr. 25-662);
 
 
 2) 1991 m. rugpjūčio 22 d. Lietuvos Respublikos Aukščiausiosios Tarybos nutarimą „Dėl Lietuvos Respublikos įstatymo „Dėl LKP (SSKP) turto paėmimo“ įgyvendinimo“ (Žin., 1991, Nr. 25-663).

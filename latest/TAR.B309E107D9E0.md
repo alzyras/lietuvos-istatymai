@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sprendimo ratifikavimas ^s-442901f38b9d759d2e2a6137
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. rugsėjo 29 d. dekretą Nr. 1011, ratifikuoja Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimą Nr. 1/1999 „Dėl Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties 4 protokolo pakeitimo“, pasirašytą 1999 m. gruodžio 23 d. Bratislavoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2000 m. rugsėjo 29 d. dekretą Nr. 1011](https://e-tar.lt/portal/lt/legalAct/TAR.3C8C06209817), ratifikuoja Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimą Nr. 1/1999 „Dėl Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties 4 protokolo pakeitimo“, pasirašytą 1999 m. gruodžio 23 d. Bratislavoje.
 
 
 

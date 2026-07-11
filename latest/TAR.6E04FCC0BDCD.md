@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo pripažinimas negaliojančiu ^s-9e55abee072b87233d203035
 
 
-Pripažinti [[latest/TAR.068516AF734B#^s-58f48a1dd03a727d1b4a4f8a|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 5, 6, 19, 20, 21 straipsnių]] pakeitimo ir papildymo įstatymą negaliojančiu.
+Pripažinti [[latest/TAR.068516AF734B|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo]] [[latest/TAR.068516AF734B#^s-2a1673d78143c79e930e4282|5]], [[latest/TAR.068516AF734B#^s-ecd6e9170a7188c767fba5f1|6]], [[latest/TAR.068516AF734B#^s-313d22c88b5777a5c3f5e671|19]], [[latest/TAR.068516AF734B#^s-4eb1059168532ec66249acae|20]], [[latest/TAR.068516AF734B#^s-58f48a1dd03a727d1b4a4f8a|21]] straipsnių pakeitimo ir papildymo įstatymą negaliojančiu.
 
 
 

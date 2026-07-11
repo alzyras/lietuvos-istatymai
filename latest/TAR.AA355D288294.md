@@ -44,13 +44,13 @@ Vilnius
 „Rūmai yra savanoriški juridinių bei fizinių asmenų, užsiimančių Lietuvos Respublikos įstatymų reglamentuojama ekonomine veikla, susivienijimai, ne pelno organizacijos, įgyvendinančios verslo savivaldos principus.“
 
 
-2. Papildyti [[#^s-bd697e34543358b398a9406e|2 straipsnį]] nauja [[#^s-e6fff8e5578fac37a8fa7eca|2 dalimi]]: ^s-e6fff8e5578fac37a8fa7eca
+2. Papildyti [[#^s-bd697e34543358b398a9406e|2 straipsnį]] nauja 2 dalimi: ^s-e6fff8e5578fac37a8fa7eca
 
 
 „Šiame įstatyme ne pelno organizacija – tai įstatymų nustatyta tvarka įsteigtas juridinio asmens teises turintis subjektas, kurio veiklos tikslas nėra pelno siekimas. Ji moka įstatymų nustatytą pelno mokestį, gauto pelno negali skirstyti steigėjams ir nariams.“
 
 
-3. Buvusias [[#^s-bd697e34543358b398a9406e|2 straipsnio]] 2 ir [[#^s-073947e6e478b6b849a6df5a|3 dalis]] laikyti atitinkamai 3 ir 4 dalimis. ^s-073947e6e478b6b849a6df5a
+3. Buvusias [[#^s-bd697e34543358b398a9406e|2 straipsnio]] 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis. ^s-073947e6e478b6b849a6df5a
 
 
 
@@ -67,7 +67,7 @@ Pakeisti [[#^s-cca71b9a39216af586a2c689|3 straipsnio 1 dalį]] ir ją išdėstyt
 ### 3 straipsnis. 5 straipsnio 1 dalies pakeitimas ir papildymas ^s-77c7d84c6e8b982393c521cc
 
 
-1. Pakeisti 5 straipsnio 1 dalies 8 punktą, papildyti [[#^s-cca71b9a39216af586a2c689|1 dalį]] nauju [[#^s-47139b7c73a32a562723b49d|9 punktu]] ir šiuos punktus išdėstyti taip: ^s-cca71b9a39216af586a2c689
+1. Pakeisti 5 straipsnio 1 dalies 8 punktą, papildyti 1 dalį nauju [[#^s-47139b7c73a32a562723b49d|9 punktu]] ir šiuos punktus išdėstyti taip: ^s-cca71b9a39216af586a2c689
 
 
 „8) steigia ir tvarko verslo (prekybos) registrą pagal Lietuvos Respublikos įstatymus;

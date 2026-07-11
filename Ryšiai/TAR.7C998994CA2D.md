@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos Lietuvos valstybinio komercinio banko ir Liet
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.E4973941A6CE|Lietuvos Respublikos Lietuvos žemės ūkio banko privatizavimo įstatymas]] - Lietuvos žemės ūkio banko privatizavimo įstatymo
+_Nėra._
 
 ## Šį įstatymą cituoja
 

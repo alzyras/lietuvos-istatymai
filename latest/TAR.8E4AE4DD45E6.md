@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-71ff48e2ecd9735b1e20ff96
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugsėjo 3 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Estijos Respublikos sutartį dėl socialinio aprūpinimo“, ratifikuoja Lietuvos Respublikos ir Estijos Respublikos sutartį dėl socialinio aprūpinimo, pasirašytą 1996 m. gegužės 28 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugsėjo 3 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Estijos Respublikos sutartį dėl socialinio aprūpinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.CCF896DE3A2D), ratifikuoja Lietuvos Respublikos ir Estijos Respublikos sutartį dėl socialinio aprūpinimo, pasirašytą 1996 m. gegužės 28 d. Vilniuje.
 
 
 

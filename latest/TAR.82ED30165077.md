@@ -279,7 +279,7 @@ Civilinės saugos sistema, įgyvendindama jai keliamus tikslus ir uždavinius, v
 ### 7 straipsnis. Teisiniai civilinės saugos sistemos pagrindai ^s-7c1ea1034ad3b381de3ede28
 
 
-Civilinės saugos sistemos subjektai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, Europos Sąjungos teisės aktais, įstatymais, kitais Lietuvos Respublikos Seimo priimtais teisės aktais, Lietuvos Respublikos Prezidento dekretais, Vyriausybės nutarimais, Ministro Pirmininko potvarkiais, vidaus reikalų ministro įsakymais ir kitais teisės aktais.
+Civilinės saugos sistemos subjektai savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, Europos Sąjungos teisės aktais, įstatymais, kitais Lietuvos Respublikos Seimo priimtais teisės aktais, Lietuvos Respublikos Prezidento dekretais, Vyriausybės nutarimais, Ministro Pirmininko potvarkiais, vidaus reikalų ministro įsakymais ir kitais teisės aktais.
 
 
 
@@ -1001,7 +1001,7 @@ Ekstremaliosios situacijos skirstomos į du lygius – savivaldybės ir valstyb�
 6. Policijos pareigūnai saugo ekstremaliosios situacijos židinį, kontroliuoja civilinės saugos sistemos pajėgų ir kitų tarnybų patekimą į ekstremaliosios situacijos židinį, palaiko viešąją tvarką ir užtikrina eismo saugumą ekstremaliosios situacijos židinyje, renka ir sistemina informaciją apie nukentėjusius ir žuvusius gyventojus, nustato žuvusiųjų tapatybę ir organizuoja jų išgabenimą iš ekstremaliosios situacijos židinio teisės aktų nustatyta tvarka ir atvejais kartu su kitomis kompetentingomis institucijomis. ^s-2ea7ba7fff0b78f12d8f4488
 
 
-7. Valstybės sienos apsaugos tarnyba kartu su kitomis kompetentingomis institucijomis ir įstaigomis dalyvauja vykdant paieškos ir gelbėjimo darbus pasienio vidaus vandenyse, ieško pasiklydusių (dingusių) asmenų, žvalgo ekstremaliosios situacijos židinį iš oro, stebi radiacijos foną ir padeda policijos pareigūnams užtikrinti arba savarankiškai vykdo šio straipsnio 4 ir [[#^s-2ea7ba7fff0b78f12d8f4488|6 dalyse]] nustatytas funkcijas pasienio ruože ir kituose Valstybės sienos apsaugos tarnybos kontroliuojamuose ar saugomuose objektuose. ^s-bcb7631abbadbb0c6da47f24
+7. Valstybės sienos apsaugos tarnyba kartu su kitomis kompetentingomis institucijomis ir įstaigomis dalyvauja vykdant paieškos ir gelbėjimo darbus pasienio vidaus vandenyse, ieško pasiklydusių (dingusių) asmenų, žvalgo ekstremaliosios situacijos židinį iš oro, stebi radiacijos foną ir padeda policijos pareigūnams užtikrinti arba savarankiškai vykdo šio straipsnio [[#^s-fdd6aa72e932e0eaf93eb53a|4]] ir [[#^s-2ea7ba7fff0b78f12d8f4488|6]] dalyse nustatytas funkcijas pasienio ruože ir kituose Valstybės sienos apsaugos tarnybos kontroliuojamuose ar saugomuose objektuose. ^s-bcb7631abbadbb0c6da47f24
 
 
 8. Greitosios medicinos pagalbos paslaugas teikiančių įstaigų darbuotojai įvykių, ekstremaliųjų įvykių ir ekstremaliųjų situacijų metu teikia greitosios medicinos pagalbos paslaugas, prireikus nugabena nukentėjusiuosius ir (ar) pacientus į asmens sveikatos priežiūros įstaigas. ^s-0c2e8b9921bed4cc62124ba4

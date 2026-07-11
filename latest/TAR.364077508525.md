@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-f9baed5e7395b8d9cc0d54b2
 
 
-Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. gegužės 28 d. dekretą Nr.957, ratifikuoja Lietuvos Respublikos ir Lenkijos Respublikos sutartį dėl bendros valstybės sienos, su ja susijusių teisinių santykių, taip pat dėl bendradarbiavimo ir abipusės pagalbos šioje srityje, pasirašytą 1996 m. kovo 5 d. Vilniuje.
+Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento [1996 m. gegužės 28 d. dekretą Nr.957](https://e-tar.lt/portal/lt/legalAct/TAR.A76F021B582B), ratifikuoja Lietuvos Respublikos ir Lenkijos Respublikos sutartį dėl bendros valstybės sienos, su ja susijusių teisinių santykių, taip pat dėl bendradarbiavimo ir abipusės pagalbos šioje srityje, pasirašytą 1996 m. kovo 5 d. Vilniuje.
 
 
 

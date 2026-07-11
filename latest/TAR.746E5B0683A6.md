@@ -146,7 +146,7 @@ Pakeisti [[#^s-8029b65d9e3729fe454eb35f|12 straipsnį]] ir jį išdėstyti taip:
 ### 6 straipsnis. 13 straipsnio 1, 2, 3 ir 4 dalių pakeitimas ^s-50cbc139b0b2b3005d520d61
 
 
-13 straipsnio 1 dalyje išbraukti žodžius „juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių“, [[#^s-136021b43f0f17a17118327d|2 dalyje]] vietoj žodžių „įmonėms, neturinčioms juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis“, 3 ir [[#^s-60d0cdddb119d6efd2533b6e|4 dalyse]] išbraukti žodžius „juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių“ ir visą straipsnį išdėstyti taip:
+13 straipsnio 1 dalyje išbraukti žodžius „juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių“, [[#^s-136021b43f0f17a17118327d|2 dalyje]] vietoj žodžių „įmonėms, neturinčioms juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis“, [[#^s-af9f865d613a1fe31f83f20c|3]] ir [[#^s-60d0cdddb119d6efd2533b6e|4]] dalyse išbraukti žodžius „juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių“ ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-c597802c794ac8d1e62f64ff|13 straipsnis]]. Leidimų naudoti žemės gelmių išteklius ir ertmes išdavimas
@@ -170,7 +170,7 @@ Pakeisti [[#^s-8029b65d9e3729fe454eb35f|12 straipsnį]] ir jį išdėstyti taip:
 2. Leidimus naudoti geriamąjį gėlą ir gamybinį požeminį vandenį bei žemės gelmių šiluminę energiją juridiniams ir fiziniams asmenims bei šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis, išduoda Aplinkos ministerija jos nustatyta tvarka. ^s-136021b43f0f17a17118327d
 
 
-3. Lietuvos geologijos tarnyba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduoda leidimus naudoti žemės gelmių išteklius, nenurodytus šio straipsnio 1 ir [[#^s-136021b43f0f17a17118327d|2 dalyse]]. ^s-af9f865d613a1fe31f83f20c
+3. Lietuvos geologijos tarnyba Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išduoda leidimus naudoti žemės gelmių išteklius, nenurodytus šio straipsnio [[#^s-9d3fc3aac572fc7ed5ff8fba|1]] ir [[#^s-136021b43f0f17a17118327d|2]] dalyse. ^s-af9f865d613a1fe31f83f20c
 
 
 4. Sprendimą dėl leidimo naudoti žemės gelmių išteklius ir ertmes, jei žemės gelmių išteklių ar ertmių naudojimas gali turėti įtakos kitos valstybės žemės gelmių būklei, priima Lietuvos Respublikos Vyriausybė. ^s-60d0cdddb119d6efd2533b6e
@@ -196,7 +196,7 @@ Pakeisti [[#^s-8029b65d9e3729fe454eb35f|12 straipsnį]] ir jį išdėstyti taip:
 ### 8 straipsnis. 15 straipsnio pakeitimas ^s-b0703955914927fbb67a3138
 
 
-[[#^s-4596237eafdde9b9dbf7f943|15 straipsnio]] 3 ir [[#^s-9106d528f497267379d93b22|4 dalyse]] prieš žodį „naudojimo“ įrašyti žodžius „išteklių ar ertmių“ ir šias dalis išdėstyti taip:
+[[#^s-4596237eafdde9b9dbf7f943|15 straipsnio]] 3 ir 4 dalyse prieš žodį „naudojimo“ įrašyti žodžius „išteklių ar ertmių“ ir šias dalis išdėstyti taip:
 
 
 „3. Žemės gelmių išteklių išgavimo kiekiai, kuriuos gali nustatyti Vyriausybė ar jos įgaliotos institucijos, turi būti numatyti išteklių ar ertmių naudojimo sutartyje.
@@ -257,13 +257,13 @@ Juridiniai ir fiziniai asmenys bei šių asmenų grupės, veikiančios pagal jun
 ### 11 straipsnis. 25 straipsnio 1, 2, 3 ir 4 dalių pakeitimas ^s-be6e5b9d71b183fd0b60da6f
 
 
-25 straipsnio 1 dalyje vietoj žodžių „įmonėms, neturinčioms juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis“, 2 ir [[#^s-dbd14172bd241d0c3134aaef|3 dalyse]] vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupės, veikiančios pagal jungtinės veiklos sutartis“, [[#^s-cc6d969de201d15dad55ad35|4 dalyje]] vietoj žodžių „įmonių, neturinčių juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupių, veikiančių pagal jungtinės veiklos sutartis“ ir visą straipsnį išdėstyti taip:
+25 straipsnio 1 dalyje vietoj žodžių „įmonėms, neturinčioms juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis“, [[#^s-778b0d0c4e6abdc4f7706272|2]] ir [[#^s-dbd14172bd241d0c3134aaef|3]] dalyse vietoj žodžių „įmonės, neturinčios juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupės, veikiančios pagal jungtinės veiklos sutartis“, [[#^s-cc6d969de201d15dad55ad35|4 dalyje]] vietoj žodžių „įmonių, neturinčių juridinio asmens teisių“ įrašyti žodžius „šių asmenų grupių, veikiančių pagal jungtinės veiklos sutartis“ ir visą straipsnį išdėstyti taip:
 
 
 „25 straipsnis. Duomenų apie žemės gelmes naudojimas
 
 
-1. Valstybinės geologinės informacijos sistemos duomenys apie žemės gelmes (toliau – duomenys) turi būti prieinami Lietuvos Respublikos juridiniams ir fiziniams asmenims bei šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis, išskyrus apribojimus, nustatytus šio straipsnio 4 ir [[#^s-d87385ce13ccfb24de26f1e6|5 dalyse]]. Valstybinės geologinės informacijos sistemos naudojimo tvarką nustato Vyriausybės įgaliota institucija. ^s-f9ef5dd1eee90d7d103ed21b
+1. Valstybinės geologinės informacijos sistemos duomenys apie žemės gelmes (toliau – duomenys) turi būti prieinami Lietuvos Respublikos juridiniams ir fiziniams asmenims bei šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis, išskyrus apribojimus, nustatytus šio straipsnio [[#^s-cc6d969de201d15dad55ad35|4]] ir [[#^s-d87385ce13ccfb24de26f1e6|5]] dalyse. Valstybinės geologinės informacijos sistemos naudojimo tvarką nustato Vyriausybės įgaliota institucija. ^s-f9ef5dd1eee90d7d103ed21b
 
 
 2. Juridiniai ir fiziniai asmenys bei šių asmenų grupės, veikiančios pagal jungtinės veiklos sutartis, negali pardavinėti duomenų, gautų iš valstybinės geologinės informacijos sistemos. ^s-778b0d0c4e6abdc4f7706272
@@ -278,7 +278,7 @@ Juridiniai ir fiziniai asmenys bei šių asmenų grupės, veikiančios pagal jun
 5. Vyriausybė gali riboti duomenų apie žemės gelmių išteklius skelbimą, platinimą, perdavimą trečiosioms šalims ar išvežimą iš Lietuvos Respublikos, nesvarbu, kieno lėšomis ir kada jie gauti, jeigu to reikia valstybės interesams. ^s-d87385ce13ccfb24de26f1e6
 
 
-6. Jeigu leidimas tirti žemės gelmes ar naudoti žemės gelmių išteklius ir ertmes panaikinamas 9 ir 18 straipsniuose numatytais atvejais, duomenys turi būti perduoti Lietuvos geologijos tarnybai jos nustatyta tvarka. ^s-d6964ad7c0bd5cb61b03ee28
+6. Jeigu leidimas tirti žemės gelmes ar naudoti žemės gelmių išteklius ir ertmes panaikinamas [[#^s-177b712cc134a6fdb0c879a0|9]] ir 18 straipsniuose numatytais atvejais, duomenys turi būti perduoti Lietuvos geologijos tarnybai jos nustatyta tvarka. ^s-d6964ad7c0bd5cb61b03ee28
 
 
 7. Geologinės kolekcijos, muziejų geologiniai eksponatai, gręžinių kernas ar jo mėginiai gali būti išvežti iš Lietuvos Respublikos tik gavus Lietuvos geologijos tarnybos leidimą, išduotą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“ ^s-9d6a135ede2f33acc637ddbd
@@ -320,7 +320,7 @@ priedas
 
 Įgyvendinamas Europos Sąjungos teisės aktas
 
-1994 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva 94/22/EB dėl leidimų žvalgyti, tirti ir išgauti angliavandenilius išdavimo ir naudojimo sąlygų.“
+1994 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva 94/22/EB [dėl leidimų](https://e-tar.lt/portal/lt/legalAct/TAR.49F3BFF08717) žvalgyti, tirti ir išgauti angliavandenilius išdavimo ir naudojimo sąlygų.“
 
 
 

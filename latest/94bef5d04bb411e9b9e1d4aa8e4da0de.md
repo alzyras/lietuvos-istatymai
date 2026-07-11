@@ -106,13 +106,13 @@ d) nėra duomenų, patvirtinančių, kad juridinis asmuo ir (ar) su juridiniu as
 6) juridinis asmuo turi galiojančius leidimus, kurie yra reikalingi verstis ekonomine veikla, ir šių leidimų galiojimas nėra sustabdytas ar panaikintas (tuo atveju, kai juridinio asmens veikla yra licencijuojama); ^s-29974a05643c3142439568f7
 
 
-7) nėra sąlygų, nurodytų [[latest/TAR.E838D0C06065#^s-9579f3463e4fe2e2ec5537f1|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo 34 straipsnio 1 dalyje]] ir [[#^s-12c1bff2fccf9bec7fe5a008|2 dalies]] 1, 2, 3, 6 ir 7 punktuose; ^s-8b98a71d3f29395c01bed25c
+7) nėra sąlygų, nurodytų [[latest/TAR.E838D0C06065#^s-9579f3463e4fe2e2ec5537f1|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo 34 straipsnio 1 dalyje]] ir [[#^s-12c1bff2fccf9bec7fe5a008|2 dalies]] [[latest/TAR.E838D0C06065#^s-02f36b2de51538763d66fb69|1]], [[latest/TAR.E838D0C06065#^s-36ceca9ba12e93056359f867|2]], [[latest/TAR.E838D0C06065#^s-167297e403ad1fb2fc1bd79e|3]], [[latest/TAR.E838D0C06065|6]] ir [[latest/TAR.E838D0C06065|7]] punktuose; ^s-8b98a71d3f29395c01bed25c
 
 
-8) nėra sąlygų, nurodytų [[latest/TAR.C54AFFAA7622#^s-6f7063495b0f5c28c1bf1099|Lietuvos Respublikos viešųjų pirkimų įstatymo 46 straipsnio 4 dalies]] 4 ir [[#^s-29974a05643c3142439568f7|6 punktuose]]. ^s-955b5e741931f60425e16329
+8) nėra sąlygų, nurodytų [[latest/TAR.C54AFFAA7622#^s-6f7063495b0f5c28c1bf1099|Lietuvos Respublikos viešųjų pirkimų įstatymo 46 straipsnio 4 dalies]] [[latest/TAR.C54AFFAA7622#^s-794bec06cce7a7b39a2d49b9|4]] ir [[latest/TAR.C54AFFAA7622#^s-c13d366ab4990775c9f3197a|6]] punktuose. ^s-955b5e741931f60425e16329
 
 
-2. Juridiniam asmeniui, pateikusiam tiekėjo patikimumo pažymėjimo, išduoto [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo]] nustatyta tvarka, kopiją, patikimumo deklaracija išduodama, jeigu juridinis asmuo atitinka [[#^s-445dbcdae37523ae6bdf6e2b|šio straipsnio 1 dalies]] 6, 7, 8 punktuose nurodytus patikimumo deklaracijos išdavimo pagrindus. ^s-12c1bff2fccf9bec7fe5a008
+2. Juridiniam asmeniui, pateikusiam tiekėjo patikimumo pažymėjimo, išduoto [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo]] nustatyta tvarka, kopiją, patikimumo deklaracija išduodama, jeigu juridinis asmuo atitinka [[#^s-445dbcdae37523ae6bdf6e2b|šio straipsnio 1 dalies]] [[latest/TAR.F4CA26A706AF|6]], [[latest/TAR.F4CA26A706AF|7]], [[latest/TAR.F4CA26A706AF|8]] punktuose nurodytus patikimumo deklaracijos išdavimo pagrindus. ^s-12c1bff2fccf9bec7fe5a008
 
 
 

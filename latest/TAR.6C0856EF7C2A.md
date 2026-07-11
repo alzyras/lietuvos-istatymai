@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir jos priedų ratifikavimas ^s-eaf7f47dd1fefb4628e125c6
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. vasario 12 d. dekretą Nr. 367, ratifikuoja su pareiškimu Tauriųjų metalų gaminių kontrolės ir prabavimo konvenciją, pasirašytą 1972 m. lapkričio 15 d. Vienoje (iš dalies pakeistą 1988 m. gegužės 18 d.), ir jos priedus, priimtus 1998 m. gegužės 25 ir 26 d. Helsinkyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. vasario 12 d. dekretą Nr. 367](https://e-tar.lt/portal/lt/legalAct/TAR.4BF9E422CD5D), ratifikuoja su pareiškimu Tauriųjų metalų gaminių kontrolės ir prabavimo konvenciją, pasirašytą 1972 m. lapkričio 15 d. Vienoje (iš dalies pakeistą 1988 m. gegužės 18 d.), ir jos priedus, priimtus 1998 m. gegužės 25 ir 26 d. Helsinkyje.
 
 
 

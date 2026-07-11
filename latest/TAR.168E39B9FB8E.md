@@ -112,7 +112,7 @@ Pakeisti 12 straipsnio 5 dalį ir ją išdėstyti taip:
 „5. Valstybinė duomenų apsaugos inspekcija:
 
 
-1) prižiūri, kaip vykdomos šio Įstatymo devintojo skirsnio, išskyrus šio Įstatymo [[#^s-b2a45e075b166e637aff2967|61 straipsnio 5 dalį]], [[#^s-7c4be95b4bee5af80575cdb0|64 straipsnio 7 dalį]] ir [[#^s-aa070b382e68292aa1d0165e|68 straipsnio 2 dalį]], nuostatos, [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymo]] nustatyta tvarka nagrinėja skundus dėl duomenų tvarkymo ir privatumo apsaugos ir surašo administracinių teisės pažeidimų protokolus Administracinių teisės pažeidimų kodekso nustatyta tvarka, atlieka kitas įstatymų nustatytas funkcijas; ^s-10ce7e930e77063034f4fecb
+1) prižiūri, kaip vykdomos šio Įstatymo devintojo skirsnio, išskyrus šio Įstatymo [[#^s-b2a45e075b166e637aff2967|61 straipsnio 5 dalį]], [[#^s-7c4be95b4bee5af80575cdb0|64 straipsnio 7 dalį]] ir [[#^s-aa070b382e68292aa1d0165e|68 straipsnio 2 dalį]], nuostatos, [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymo]] nustatyta tvarka nagrinėja skundus dėl duomenų tvarkymo ir privatumo apsaugos ir surašo administracinių teisės pažeidimų protokolus [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka, atlieka kitas įstatymų nustatytas funkcijas; ^s-10ce7e930e77063034f4fecb
 
 
 2) bendradarbiauja su Ryšių reguliavimo tarnyba asmens duomenų ir privatumo apsaugos srityje; ^s-e6300938541a1da7a61c3603
@@ -144,7 +144,7 @@ DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ
 ### 61 straipsnis. Ryšio konfidencialumas ^s-c7e94e50378c4a91e4fecdaa
 
 
-1. Draudžiama be faktinių elektroninių ryšių paslaugų naudotojų sutikimo klausytis, įrašyti, kaupti ar kitu būdu perimti pranešimų turinį ir srauto duomenis ar su jais susipažinti, išskyrus atvejus, kai tai galima teisėtai daryti pagal šio Įstatymo 66 ir 77 straipsnius. Be faktinių elektroninių ryšių paslaugų naudotojų sutikimo draudžiama atskleisti elektroninių ryšių tinklais perduodamų pranešimų turinį ir (ar) susijusius srauto duomenis arba sudaryti sąlygas sužinoti tokią informaciją ir (ar) susijusius srauto duomenis, išskyrus įstatymo nustatytus atvejus. ^s-1ac1afb0d3741529cbbb036f
+1. Draudžiama be faktinių elektroninių ryšių paslaugų naudotojų sutikimo klausytis, įrašyti, kaupti ar kitu būdu perimti pranešimų turinį ir srauto duomenis ar su jais susipažinti, išskyrus atvejus, kai tai galima teisėtai daryti pagal šio Įstatymo [[#^s-579134d82eeb8fe7b69b37cb|66]] ir 77 straipsnius. Be faktinių elektroninių ryšių paslaugų naudotojų sutikimo draudžiama atskleisti elektroninių ryšių tinklais perduodamų pranešimų turinį ir (ar) susijusius srauto duomenis arba sudaryti sąlygas sužinoti tokią informaciją ir (ar) susijusius srauto duomenis, išskyrus įstatymo nustatytus atvejus. ^s-1ac1afb0d3741529cbbb036f
 
 
 2. [[#^s-1ac1afb0d3741529cbbb036f|Šio straipsnio 1 dalies]] nuostatos nedraudžia nepažeidžiant konfidencialumo principo laikinai išsaugoti perduodamus pranešimus, jei tai būtina paslaugoms (pavyzdžiui, balso paštui, elektroniniam paštui ir kitoms) teikti. Taip pat šios nuostatos netaikomos informacijos ir susijusių srauto duomenų įrašymui, atliekamam teisėtos verslo praktikos metu, kai siekiama pateikti komercinio sandorio sudarymo, vykdymo ar kitokios verslo transakcijos, kuri, vadovaujantis teisės aktais, gali sukelti teisinių padarinių, įrodymus. Prieš pradedant įrašymą, faktiniai elektroninių ryšių paslaugų naudotojai turi būti informuoti apie tokį įrašymą ir jo tikslą. Įrašytų pranešimų turinys ir susiję srauto duomenys gali būti saugomi ne ilgesnį laikotarpį, negu tas, per kurį sandorio galiojimas gali būti teisiškai užginčytas. ^s-c787b5b25525ceb552025041
@@ -195,7 +195,7 @@ DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ
 4. Jeigu yra galimybė identifikuoti liniją, į kurią skambinama, abonentas, kuriam skambinama, turi turėti galimybę nemokamai ir paprastomis priemonėmis uždrausti galimybę skambinančiam faktiniam elektroninių ryšio paslaugų naudotojui nustatyti ryšio liniją, į kurią skambinama. ^s-d8726e9627705dd83a06c20f
 
 
-5. Jeigu yra galimybė identifikuoti ryšio liniją, iš kurios ir į kurią skambinama, viešųjų elektroninių ryšių paslaugų teikėjai privalo informuoti visuomenę apie tai ir apie galimybes, numatytas šio straipsnio 1, 2, 3 ir [[#^s-d8726e9627705dd83a06c20f|4 dalyse]]. ^s-afadff1cfcb11e608ccf6c78
+5. Jeigu yra galimybė identifikuoti ryšio liniją, iš kurios ir į kurią skambinama, viešųjų elektroninių ryšių paslaugų teikėjai privalo informuoti visuomenę apie tai ir apie galimybes, numatytas šio straipsnio [[#^s-33c35c4ef2fd92a7176e76b6|1]], [[#^s-5436d8f848930d6c969b43ed|2]], [[#^s-7ca3a5a998192fa88ad261ad|3]] ir [[#^s-d8726e9627705dd83a06c20f|4]] dalyse. ^s-afadff1cfcb11e608ccf6c78
 
 
 6. Vyriausybė nustato taisykles, kuriomis vadovaudamiesi viešųjų elektroninių ryšių paslaugų teikėjai ir (ar) viešųjų ryšių tinklų teikėjai nedraudžia nustatyti ryšio linijos, iš kurios skambinama. Tai gali būti leidžiama, jeigu abonento prašymu siekiama nustatyti piktybiškus ar erzinančius skambučius. ^s-b35cbf4e1672d87d5f1e1a66
@@ -204,7 +204,7 @@ DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ
 7. Viešųjų ryšių tinklų teikėjai ir viešųjų elektroninių ryšių paslaugų teikėjai nedraudžia nustatyti ryšio linijos, iš kurios skambinama, institucijoms, aptarnaujančioms pagalbos skambučius, kad šios institucijos galėtų atsakyti į abonento ar faktinio elektroninių ryšių paslaugų naudotojo skambučius ir tinkamai reaguoti. Šios dalies nuostatos įgyvendinamos šio Įstatymo 34 straipsnio 8 dalyje nurodyta tvarka ir sąlygomis. ^s-7c4be95b4bee5af80575cdb0
 
 
-8. Šio straipsnio 1–[[#^s-7c4be95b4bee5af80575cdb0|7 dalių]] nuostatos taikomos abonentinėms linijoms, prijungtoms prie skaitmeninių telefono stočių, ir, jeigu techniškai įmanoma ir nereikia neproporcingų investicijų, abonentinėms linijoms, prijungtoms prie analoginių telefono stočių. ^s-e3339395ddd90f25c1c2420e
+8. Šio straipsnio [[#^s-33c35c4ef2fd92a7176e76b6|1]]–[[#^s-7c4be95b4bee5af80575cdb0|7]] dalių nuostatos taikomos abonentinėms linijoms, prijungtoms prie skaitmeninių telefono stočių, ir, jeigu techniškai įmanoma ir nereikia neproporcingų investicijų, abonentinėms linijoms, prijungtoms prie analoginių telefono stočių. ^s-e3339395ddd90f25c1c2420e
 
 
 
@@ -254,7 +254,7 @@ DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ
 3) duomenims taikomos tinkamos techninės ir organizacinės priemonės siekiant užtikrinti, kad prieigą prie jų galėtų gauti tik įgaliotas personalas. ^s-109c7d616dc9efd1d123a457
 
 
-9. Saugojimo laikotarpiui, nurodytam šio straipsnio 4, 5 ir [[#^s-3873e0d4785d0c2c5c065189|6 dalyse]], pasibaigus, sukaupti duomenys turi būti sunaikinti. ^s-906ba27725169b1b616167e4
+9. Saugojimo laikotarpiui, nurodytam šio straipsnio [[#^s-f87bb68fb8aedea90a22aa6b|4]], [[#^s-e5131aa22849c4a0d9f8abee|5]] ir [[#^s-3873e0d4785d0c2c5c065189|6]] dalyse, pasibaigus, sukaupti duomenys turi būti sunaikinti. ^s-906ba27725169b1b616167e4
 
 
 10. Duomenų tvarkymo teisėtumo priežiūra elektroninių ryšių srityje atliekama vadovaujantis duomenų tvarkymą ir privatumo apsaugą reglamentuojančiais įstatymais ir kitais teisės aktais. ^s-9ce1cf44d67a64351e3cd8aa
@@ -343,7 +343,7 @@ DUOMENŲ, GENERUOJAMŲ ARBA TVARKOMŲ TEIKIANT VIEŠĄSIAS ELEKTRONINIŲ RYŠIŲ
 2. Pakeisti 77 straipsnio 2 dalį ir ją išdėstyti taip: ^s-a67f63b419b5f946772b6566
 
 
-„2. Jeigu šio Įstatymo [[#^s-47261d25c8491f660e666460|65 straipsnyje]] nurodyti duomenys reikalingi operatyvinės veiklos subjektams, ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui nusikalstamoms veikoms užkardyti, tirti, nustatyti, Vyriausybės įgaliotos institucijos – operatyvinės veiklos subjekto – nurodymu ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (ar) paslaugas, turi tokią informaciją saugoti ilgiau, negu nurodyta šio Įstatymo [[#^s-579134d82eeb8fe7b69b37cb|66 straipsnio]] 4, 5 ir 6 dalyse, bet ne ilgiau kaip 6 mėnesius papildomai. Už tokios informacijos saugojimą mokama valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka.“
+„2. Jeigu šio Įstatymo [[#^s-47261d25c8491f660e666460|65 straipsnyje]] nurodyti duomenys reikalingi operatyvinės veiklos subjektams, ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui nusikalstamoms veikoms užkardyti, tirti, nustatyti, Vyriausybės įgaliotos institucijos – operatyvinės veiklos subjekto – nurodymu ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (ar) paslaugas, turi tokią informaciją saugoti ilgiau, negu nurodyta šio Įstatymo [[#^s-579134d82eeb8fe7b69b37cb|66 straipsnio]] [[#^s-f87bb68fb8aedea90a22aa6b|4]], [[#^s-e5131aa22849c4a0d9f8abee|5]] ir [[#^s-3873e0d4785d0c2c5c065189|6]] dalyse, bet ne ilgiau kaip 6 mėnesius papildomai. Už tokios informacijos saugojimą mokama valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka.“
 
 
 
@@ -519,7 +519,7 @@ Buvusį Įstatymo priedą laikyti 2 priedu, jį pakeisti ir išdėstyti taip:
 9. 2002 m. kovo 7 d. Europos Parlamento ir Tarybos direktyva 2002/22/EB dėl universaliųjų paslaugų ir paslaugų gavėjų teisių, susijusių su elektroninių ryšių tinklais ir paslaugomis (Universaliųjų paslaugų direktyva) (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 367). ^s-b165ed04fd43ec468bbb7a60
 
 
-10. 2002 m. liepos 12 d. Europos Parlamento ir Tarybos direktyva 2002/58/EB dėl asmens duomenų tvarkymo ir privatumo apsaugos elektroninių ryšių sektoriuje (Direktyva dėl privatumo ir elektroninių ryšių) (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 514). ^s-db2628efb533f37df0e4c57a
+10. 2002 m. liepos 12 d. Europos Parlamento ir Tarybos direktyva 2002/58/EB [dėl asmens duomenų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.CCBBCFCD3831) ir privatumo apsaugos elektroninių ryšių sektoriuje (Direktyva dėl privatumo ir elektroninių ryšių) (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 514). ^s-db2628efb533f37df0e4c57a
 
 
 11. 2002 m. rugsėjo 16 d. Komisijos direktyva 2002/77/EB dėl konkurencijos elektroninių ryšių tinklų ir paslaugų rinkoje (OL 2004 m. specialusis leidimas, 8 skyrius, 2 tomas, p. 178). ^s-23f1ab8d26aca9cb09b8a247

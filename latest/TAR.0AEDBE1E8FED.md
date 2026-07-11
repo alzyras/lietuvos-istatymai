@@ -90,7 +90,7 @@ BENDROSIOS NUOSTATOS
 8. Privatus veterinarijos gydytojas – pagal veterinarijos veiklą reglamentuojančius teisės aktus privačia veterinarijos praktika užsiimantis veterinarijos gydytojas. ^s-8a5e0e6644f58ab4c69abab5
 
 
-9. Šalutiniai gyvūniniai produktai – kaip apibrėžta 2002 m. spalio 3 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1774/2002, nustatančio sveikatos taisykles gyvūninės kilmės šalutiniams produktams, neskirtiems vartoti žmonėms, 2 straipsnyje. ^s-8f50b863adc46e08f571d89c
+9. Šalutiniai gyvūniniai produktai – kaip apibrėžta 2002 m. spalio 3 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1774/2002](https://eur-lex.europa.eu/eli/reg/1774/2002/oj), nustatančio sveikatos taisykles gyvūninės kilmės šalutiniams produktams, neskirtiems vartoti žmonėms, 2 straipsnyje. ^s-8f50b863adc46e08f571d89c
 
 
 10. Ūkinis gyvūnas – gyvūnas, laikomas ar veisiamas maistui, kailiams, vaistams ir kitai produkcijai gauti, darbo ir kitais tikslais. ^s-4942b8dbf9b1aa883bba14e5

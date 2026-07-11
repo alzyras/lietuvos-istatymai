@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos teismų įstatymo 10, 15, 22, 33, 38, 39, 56,
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.522B3E415B52#^s-16e97f1ad515a000b7f6b4e9|Lietuvos Respublikos teismų įstatymas]] - Įstatymas Nr. VIII-253
+_Nėra._

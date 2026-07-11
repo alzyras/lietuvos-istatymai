@@ -39,7 +39,7 @@ Vilnius
 1) Laikinojo Seimo statuto 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14 ir 15 skirsnius (Žin., 1991, Nr. 14-359);
 
 
-2) Lietuvos Respublikos įstatymą „Dėl laikino pirmininkavimo Lietuvos Respublikos Seimo posėdžiams“ (Žin., 1992, Nr. 36-1095);
+2) Lietuvos Respublikos įstatymą [„Dėl laikino pirmininkavimo Lietuvos Respublikos Seimo posėdžiams“](https://e-tar.lt/portal/lt/legalAct/TAR.39AFC2E4636D) (Žin., 1992, Nr. 36-1095);
 
 
 3) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos įstatymo „Dėl laikino pirmininkavimo Lietuvos Respublikos Seimo posėdžiams“ pakeitimo“ (Žin., 1993, Nr. 8-173);
@@ -48,7 +48,7 @@ Vilnius
 4) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos Seimo etikos ir procedūrų komisijos“ (Žin., 1993, Nr. 14-345);
 
 
-5) Lietuvos Respublikos Seimo nutarimą „Dėl Lietuvos Respublikos Seimo Pirmininko pavaduotojų“ (Žin., 1993, Nr. 1-1);
+5) Lietuvos Respublikos Seimo nutarimą [„Dėl Lietuvos Respublikos Seimo Pirmininko pavaduotojų“](https://e-tar.lt/portal/lt/legalAct/TAR.A292496F61C1) (Žin., 1993, Nr. 1-1);
 
 
 6) Lietuvos Respublikos Seimo nutarimą „Dėl Lietuvos Respublikos Seimo nutarimo „Dėl Lietuvos Respublikos Seimo Pirmininko pavaduotojų“ pakeitimo“ (Žin., 1993, Nr. 8-174);

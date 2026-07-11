@@ -175,8 +175,8 @@ Fizinis asmuo (toliau – pareiškėjas) pripažįstamas advokatu, jeigu jis:
 5) moka valstybinę kalbą; ^s-1c950a7f3b74df855cf540cf
 
 
-6) išlaikė advokatų kvalifikacinį egzaminą, o asmuo, kuris turi nepertraukiamą ne mažesnį kaip penkerių metų advokato veiklos stažą ir dėl kurio pripažinimo advokatu sprendimas buvo panaikintas šio Įstatymo [[#^s-11a88f5ba071d7f0bcce6c55|13 straipsnio 1 dalies]] 2 ir [[#^s-3a8ae580bcd20c00799912d3|4 punktuose]] numatytais pagrindais, taip pat kuris turi nepertraukiamą ne mažesnį kaip penkerių metų teisėjo darbo stažą, nepertraukiamą ne mažesnį kaip septynerių metų prokuroro darbo stažą, yra teisės krypties socialinių mokslų daktaras, išskyrus asmenis, teistus už sunkų ar labai sunkų nusikaltimą arba kitą tyčinį nusikaltimą (šio Įstatymo [[#^s-e9ea597cc3fe9664cd907756|8 straipsnio]] 1 ir [[#^s-1f92419b7d0c9e2d1927f7a5|2 punktai]]), – jeigu išlaikė advokatų veiklos organizavimo egzaminą; ^s-5e1cf1eec7e4c6c93e235116
-TAR pastaba. [[#^s-5e1cf1eec7e4c6c93e235116|6 punkto]] nuostatos netaikomos asmenims, iki [[latest/5dfc8110e59011e7acd7ea182930b17f|įstatymo Nr. XIII-879]] įsigaliojimo (2018-01-01) pateikusiems prašymus laikyti advokatų egzaminus, prašymus pripažinti juos advokatais, prašymus įrašyti juos į advokatų padėjėjų sąrašą.
+6) išlaikė advokatų kvalifikacinį egzaminą, o asmuo, kuris turi nepertraukiamą ne mažesnį kaip penkerių metų advokato veiklos stažą ir dėl kurio pripažinimo advokatu sprendimas buvo panaikintas šio Įstatymo [[#^s-11a88f5ba071d7f0bcce6c55|13 straipsnio 1 dalies]] [[#^s-06bfaaa34ed9fdee5a8f8d48|2]] ir [[#^s-c1cd8af325672d43b0fd9c2c|4]] punktuose numatytais pagrindais, taip pat kuris turi nepertraukiamą ne mažesnį kaip penkerių metų teisėjo darbo stažą, nepertraukiamą ne mažesnį kaip septynerių metų prokuroro darbo stažą, yra teisės krypties socialinių mokslų daktaras, išskyrus asmenis, teistus už sunkų ar labai sunkų nusikaltimą arba kitą tyčinį nusikaltimą (šio Įstatymo [[#^s-e9ea597cc3fe9664cd907756|8 straipsnio]] [[#^s-324844dd50f67a4c87350542|1]] ir [[#^s-236b52227667319246bc81f9|2]] punktai), – jeigu išlaikė advokatų veiklos organizavimo egzaminą; ^s-5e1cf1eec7e4c6c93e235116
+TAR pastaba. 6 punkto nuostatos netaikomos asmenims, iki [[latest/5dfc8110e59011e7acd7ea182930b17f|įstatymo Nr. XIII-879]] įsigaliojimo (2018-01-01) pateikusiems prašymus laikyti advokatų egzaminus, prašymus pripažinti juos advokatais, prašymus įrašyti juos į advokatų padėjėjų sąrašą.
 Straipsnio punkto pakeitimai:
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
@@ -207,7 +207,7 @@ Pareiškėjas nelaikomas esąs nepriekaištingos reputacijos ir negali būti pri
 
 
 3) yra pripažintas kaltu dėl tyčinio nusikaltimo padarymo, bet nuo baudžiamosios atsakomybės atleistas, ir nuo nuosprendžio įsiteisėjimo dienos nepraėjo dveji metai; ^s-dc00c82899c22d904fe36105
-TAR pastaba. [[#^s-dc00c82899c22d904fe36105|3 punkto]] nuostatos taikomos tik tais atvejais, kai tuose punktuose nurodytos aplinkybės atsirado po [[latest/5dfc8110e59011e7acd7ea182930b17f|įstatymo Nr. XIII-879]]  įsigaliojimo (2018-01-01).
+TAR pastaba. 3 punkto nuostatos taikomos tik tais atvejais, kai tuose punktuose nurodytos aplinkybės atsirado po [[latest/5dfc8110e59011e7acd7ea182930b17f|įstatymo Nr. XIII-879]]  įsigaliojimo (2018-01-01).
 Papildyta straipsnio punktu:
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
@@ -226,7 +226,7 @@ Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 
 6) neatitinka asmeniui, kuris verčiasi advokato veikla, taikomų elgesio ir veiklos reikalavimų, nustatytų Lietuvos advokatų etikos kodekse. ^s-ac8270c202238fd56f62027b
-TAR pastaba. [[#^s-ac8270c202238fd56f62027b|6 punkto]] nuostatos taikomos tik tais atvejais, kai tuose punktuose nurodytos aplinkybės atsirado po [[latest/5dfc8110e59011e7acd7ea182930b17f|įstatymo Nr. XIII-879]]  įsigaliojimo (2018-01-01).
+TAR pastaba. 6 punkto nuostatos taikomos tik tais atvejais, kai tuose punktuose nurodytos aplinkybės atsirado po [[latest/5dfc8110e59011e7acd7ea182930b17f|įstatymo Nr. XIII-879]]  įsigaliojimo (2018-01-01).
 Papildyta straipsnio punktu:
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
@@ -405,7 +405,7 @@ Asmuo, norintis laikyti advokatų egzaminus, privalo pateikti Lietuvos advokatū
 3) dokumentą, įrodantį aukštąjį universitetinį teisinį išsilavinimą – teisės bakalauro ir teisės magistro kvalifikacinius laipsnius arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį universitetinį teisinį išsilavinimą); ^s-c62ac6b02bfb5ae20518faef
 
 
-4) asmuo, norintis laikyti advokatų kvalifikacinį egzaminą, – dokumentą, įrodantį šio Įstatymo [[#^s-53e4d9c7a2725ead838e1471|7 straipsnio 3 punkte]] nurodytą teisinio darbo stažą, arba advokato padėjėjo praktikos vadovo duotą teigiamą praktikos įvertinimą, o asmuo, norintis laikyti advokatų veiklos organizavimo egzaminą, – dokumentą, įrodantį nepertraukiamą ne mažesnį kaip penkerių metų advokato veiklos stažą, įgytą iki sprendimo pripažinti jį advokatu panaikinimo, kai sprendimas pripažinti jį advokatu buvo panaikintas šio Įstatymo [[#^s-11a88f5ba071d7f0bcce6c55|13 straipsnio 1 dalies]] 2 ir [[#^s-9dc614f6ffa8b17f31dab8a9|4 punktuose]] nurodytais pagrindais, arba dokumentą, patvirtinantį nepertraukiamą ne mažesnį kaip penkerių metų teisėjo darbo stažą arba nepertraukiamą ne mažesnį kaip septynerių metų prokuroro darbo stažą, arba dokumentą, patvirtinantį teisės krypties socialinių mokslų daktaro laipsnį; ^s-9dc614f6ffa8b17f31dab8a9
+4) asmuo, norintis laikyti advokatų kvalifikacinį egzaminą, – dokumentą, įrodantį šio Įstatymo [[#^s-53e4d9c7a2725ead838e1471|7 straipsnio 3 punkte]] nurodytą teisinio darbo stažą, arba advokato padėjėjo praktikos vadovo duotą teigiamą praktikos įvertinimą, o asmuo, norintis laikyti advokatų veiklos organizavimo egzaminą, – dokumentą, įrodantį nepertraukiamą ne mažesnį kaip penkerių metų advokato veiklos stažą, įgytą iki sprendimo pripažinti jį advokatu panaikinimo, kai sprendimas pripažinti jį advokatu buvo panaikintas šio Įstatymo [[#^s-11a88f5ba071d7f0bcce6c55|13 straipsnio 1 dalies]] [[#^s-06bfaaa34ed9fdee5a8f8d48|2]] ir [[#^s-c1cd8af325672d43b0fd9c2c|4]] punktuose nurodytais pagrindais, arba dokumentą, patvirtinantį nepertraukiamą ne mažesnį kaip penkerių metų teisėjo darbo stažą arba nepertraukiamą ne mažesnį kaip septynerių metų prokuroro darbo stažą, arba dokumentą, patvirtinantį teisės krypties socialinių mokslų daktaro laipsnį; ^s-9dc614f6ffa8b17f31dab8a9
 Straipsnio punkto pakeitimai:
 Nr. XIV-445, 2021-06-22, paskelbta TAR 2021-07-07, i. k. 2021-15449
 
@@ -431,7 +431,7 @@ TEISĖ VERSTIS ADVOKATO VEIKLA
 ### 17 straipsnis. Teisė verstis advokato veikla ^s-e7625ce918a500763b5751a6
 
 
-1. Teisę verstis advokato veikla ir naudoti Lietuvos advokato vardą teikiant teisines paslaugas turi bei advokatų teises ir pareigas įgyja į advokatų, turinčių teisę verstis advokato veikla, sąrašą (toliau – Lietuvos praktikuojančių advokatų sąrašas) įrašyti advokatai, kurie turi [[#^s-14377b148f0e4a37604bcbff|šio straipsnio 3 dalyje]] nurodytą advokato pažymėjimą. Advokato pažymėjimo išdavimo diena laikoma advokato teisės verstis advokato veikla suteikimo diena. ^s-ed5ad85159ddd73930507fea
+1. Teisę verstis advokato veikla ir naudoti Lietuvos advokato vardą teikiant teisines paslaugas turi bei advokatų teises ir pareigas įgyja į advokatų, turinčių teisę verstis advokato veikla, sąrašą (toliau – Lietuvos praktikuojančių [advokatų sąrašas](https://e-tar.lt/portal/lt/legalAct/TAR.880E94AA0CE4)) įrašyti advokatai, kurie turi [[#^s-14377b148f0e4a37604bcbff|šio straipsnio 3 dalyje]] nurodytą advokato pažymėjimą. Advokato pažymėjimo išdavimo diena laikoma advokato teisės verstis advokato veikla suteikimo diena. ^s-ed5ad85159ddd73930507fea
 Straipsnio dalies pakeitimai:
 Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 Nr. XIV-2290, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23068
@@ -648,13 +648,13 @@ Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
 
 
 
-3. Advokatų garbės teismas, nustatęs, kad yra objektyvių duomenų apie advokato padarytą šio Įstatymo ir Lietuvos advokatų etikos kodekso ar advokato veiklos pažeidimą, už kurį gali būti skiriama šio Įstatymo [[#^s-cb0109567d8bebc4be95bfbb|53 straipsnio 4 punkte]] nurodyta drausminė nuobauda, pateikia Lietuvos advokatūrai siūlymą laikinai išbraukti šį advokatą iš Lietuvos praktikuojančių advokatų sąrašo. Teikdamas šį siūlymą, Advokatų garbės teismas turi įvertinti advokato padaryto pažeidimo pobūdį, pažeidimo padarymo aplinkybes, pažeidimo padarinius ir kitas reikšmingas aplinkybes. Advokatas šioje dalyje nurodytu pagrindu Lietuvos advokatūros sprendimu gali būti laikinai išbrauktas iš Lietuvos praktikuojančių advokatų sąrašo, kol išnyks šio išbraukimo pagrindą sudariusios aplinkybės arba kol įsiteisės Advokatų garbės teismo sprendimas šio advokato drausmės byloje. Šis sprendimas per trisdešimt dienų nuo sprendimo įteikimo advokatui dienos gali būti skundžiamas Vilniaus apygardos teismui. ^s-17bae7ecfd0ce4bfc8d12fe3
+3. Advokatų garbės teismas, nustatęs, kad yra objektyvių duomenų apie advokato padarytą šio Įstatymo ir Lietuvos advokatų etikos kodekso ar advokato veiklos pažeidimą, už kurį gali būti skiriama šio Įstatymo 53 straipsnio 4 punkte nurodyta drausminė nuobauda, pateikia Lietuvos advokatūrai siūlymą laikinai išbraukti šį advokatą iš Lietuvos praktikuojančių advokatų sąrašo. Teikdamas šį siūlymą, Advokatų garbės teismas turi įvertinti advokato padaryto pažeidimo pobūdį, pažeidimo padarymo aplinkybes, pažeidimo padarinius ir kitas reikšmingas aplinkybes. Advokatas šioje dalyje nurodytu pagrindu Lietuvos advokatūros sprendimu gali būti laikinai išbrauktas iš Lietuvos praktikuojančių advokatų sąrašo, kol išnyks šio išbraukimo pagrindą sudariusios aplinkybės arba kol įsiteisės Advokatų garbės teismo sprendimas šio advokato drausmės byloje. Šis sprendimas per trisdešimt dienų nuo sprendimo įteikimo advokatui dienos gali būti skundžiamas Vilniaus apygardos teismui. ^s-17bae7ecfd0ce4bfc8d12fe3
 Papildyta straipsnio dalimi:
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 
 
 
-4. Lietuvos advokatūra, siekdama informuoti visuomenę, ne vėliau kaip kitą darbo dieną po šio straipsnio 2 ir [[#^s-17bae7ecfd0ce4bfc8d12fe3|3 dalyse]] nurodyto sprendimo laikinai išbraukti advokatą iš Lietuvos praktikuojančių advokatų sąrašo priėmimo savo interneto svetainėje paskelbia apie šį sprendimą, nurodydama laikinai išbraukto iš Lietuvos praktikuojančių advokatų sąrašo advokato vardą, pavardę, darbo vietą ir jos adresą. Šioje dalyje nurodyta informacija skelbiama, kol išnyksta advokato laikino išbraukimo pagrindą sudariusios aplinkybės arba kol įsiteisės Advokatų garbės teismo sprendimas advokato drausmės byloje. Skundo dėl Lietuvos advokatūros sprendimo laikinai išbraukti advokatą iš Lietuvos praktikuojančių advokatų sąrašo pateikimas nesustabdo šio straipsnio 2 ir [[#^s-17bae7ecfd0ce4bfc8d12fe3|3 dalyse]] nurodyto sprendimo vykdymo, jeigu teismas nenustato kitaip. ^s-7c96516ee1612235122aba15
+4. Lietuvos advokatūra, siekdama informuoti visuomenę, ne vėliau kaip kitą darbo dieną po šio straipsnio [[#^s-3604c64331a994b64935bd4d|2]] ir [[#^s-17bae7ecfd0ce4bfc8d12fe3|3]] dalyse nurodyto sprendimo laikinai išbraukti advokatą iš Lietuvos praktikuojančių advokatų sąrašo priėmimo savo interneto svetainėje paskelbia apie šį sprendimą, nurodydama laikinai išbraukto iš Lietuvos praktikuojančių advokatų sąrašo advokato vardą, pavardę, darbo vietą ir jos adresą. Šioje dalyje nurodyta informacija skelbiama, kol išnyksta advokato laikino išbraukimo pagrindą sudariusios aplinkybės arba kol įsiteisės Advokatų garbės teismo sprendimas advokato drausmės byloje. Skundo dėl Lietuvos advokatūros sprendimo laikinai išbraukti advokatą iš Lietuvos praktikuojančių advokatų sąrašo pateikimas nesustabdo šio straipsnio [[#^s-3604c64331a994b64935bd4d|2]] ir [[#^s-17bae7ecfd0ce4bfc8d12fe3|3]] dalyse nurodyto sprendimo vykdymo, jeigu teismas nenustato kitaip. ^s-7c96516ee1612235122aba15
 Papildyta straipsnio dalimi:
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
 Straipsnio dalies pakeitimai:
@@ -753,7 +753,7 @@ ADVOKATŲ VEIKLA PARTNERYSTĖS PAGRINDAIS, NEĮSTEIGIANT JURIDINIO ASMENS
 5. Advokatai, veikdami partnerystės pagrindais, turi teisę samdytis darbuotojų. ^s-072bf284b007d76f34194449
 
 
-6. Advokatams, veikiantiems partnerystės pagrindais, taikomos šio Įstatymo [[#^s-aec78005e3ae81126a99107b|26 straipsnio]] 2 ir 7 dalių nuostatos. ^s-0ee48f4b979d5239f4517bc3
+6. Advokatams, veikiantiems partnerystės pagrindais, taikomos šio Įstatymo [[#^s-aec78005e3ae81126a99107b|26 straipsnio]] [[#^s-69ae00606b82c2b4553c6678|2]] ir [[#^s-f5707067f7f5096793eb959f|7]] dalių nuostatos. ^s-0ee48f4b979d5239f4517bc3
 
 
 
@@ -973,7 +973,7 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 3) jis pradėjo dirbti ar eiti kitas mokamas pareigas, išskyrus šio Įstatymo [[#^s-c3f055685f41c7fc8454a143|43 straipsnio 1 dalyje]] nurodytus atvejus; ^s-8dd77aa196922f653c526cde
 
 
-4) paaiškėja, kad asmuo prieš įrašant jį į Lietuvos advokatų padėjėjų sąrašą pagal šio Įstatymo [[#^s-ee8773d603cad1d5885fdacf|35 straipsnio]] 1 ar [[#^s-a52ed063b7a91cc4d75490f1|2 dalį]] pateikė neteisingus duomenis; ^s-8e7b2565269b829e78a2fed5
+4) paaiškėja, kad asmuo prieš įrašant jį į Lietuvos advokatų padėjėjų sąrašą pagal šio Įstatymo [[#^s-ee8773d603cad1d5885fdacf|35 straipsnio]] [[#^s-2527da3f4478c4efbb621fc8|1]] ar [[#^s-e4f1cffa03d873fa80259089|2]] dalį pateikė neteisingus duomenis; ^s-8e7b2565269b829e78a2fed5
 
 
 5) jis, mirus jo praktikos vadovui, atšaukus advokatą iš jo praktikos vadovo pareigų ar išbraukus (laikinai išbraukus) jo praktikos vadovą iš Lietuvos praktikuojančių advokatų sąrašo, pagal šio Įstatymo [[#^s-f6cc5a76558f6759ab505990|38 straipsnio 2 dalyje]] nurodytos tvarkos nuostatas nepateikia Lietuvos advokatūrai dokumentų, būtinų kitam praktikos vadovui paskirti; ^s-c322c51b896556caee4899c3
@@ -1272,7 +1272,7 @@ Nr. XII-272, 2013-05-09, Žin., 2013, Nr. 54-2677 (2013-05-25)
 2. Klientų ir advokatų ginčus dėl teisinių paslaugų Lietuvos advokatūroje nagrinėja Lietuvos advokatūros advokatų taryba ar jos sudarytas organas. Šie ginčai nagrinėjami Lietuvos advokatūros advokatų tarybos nustatyta tvarka, suderinta su Lietuvos Respublikos teisingumo ministerija. Lietuvos advokatūros advokatų taryba ar jos sudarytas organas turi teisę priimti rekomendacinius sprendimus. ^s-5a5539f21d8e6150fef8a84a
 
 
-3. Klientas – fizinis asmuo, kuris su savo verslu, prekyba, amatu ar profesija nesusijusiais tikslais (vartojimo tikslais) siekia sudaryti ar sudaro sutartį su advokatu dėl teisinių paslaugų, turi teisę kreiptis į Lietuvos advokatūros advokatų tarybos sudarytą komisiją (toliau – komisija) dėl šios sutarties standartinių sąlygų nesąžiningumo nustatymo. Komisiją sudaro penki nariai. Tris komisijos narius skiria Lietuvos advokatūros advokatų taryba ir du narius – teisingumo ministras. Komisijos darbo reglamentą tvirtina Lietuvos advokatūros advokatų taryba, suderinusi su Lietuvos Respublikos teisingumo ministerija. Komisijos sprendimas įsigalioja ir yra privalomas vykdyti, jeigu per trisdešimt dienų nuo jo įteikimo ginčo šalims nėra apskųstas Vilniaus apygardos teismui. Įsigaliojęs komisijos sprendimas yra vykdomasis dokumentas. Neįvykdytas komisijos sprendimas gali būti priverstinai vykdomas Civilinio proceso kodekso nustatyta tvarka. ^s-4c1c1a49eaf3835fd051294f
+3. Klientas – fizinis asmuo, kuris su savo verslu, prekyba, amatu ar profesija nesusijusiais tikslais (vartojimo tikslais) siekia sudaryti ar sudaro sutartį su advokatu dėl teisinių paslaugų, turi teisę kreiptis į Lietuvos advokatūros advokatų tarybos sudarytą komisiją (toliau – komisija) dėl šios sutarties standartinių sąlygų nesąžiningumo nustatymo. Komisiją sudaro penki nariai. Tris komisijos narius skiria Lietuvos advokatūros advokatų taryba ir du narius – teisingumo ministras. Komisijos darbo reglamentą tvirtina Lietuvos advokatūros advokatų taryba, suderinusi su Lietuvos Respublikos teisingumo ministerija. Komisijos sprendimas įsigalioja ir yra privalomas vykdyti, jeigu per trisdešimt dienų nuo jo įteikimo ginčo šalims nėra apskųstas Vilniaus apygardos teismui. Įsigaliojęs komisijos sprendimas yra vykdomasis dokumentas. Neįvykdytas komisijos sprendimas gali būti priverstinai vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-4c1c1a49eaf3835fd051294f
 Papildyta straipsnio dalimi:
 Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
 
@@ -1329,7 +1329,7 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 ### 54 straipsnis. Advokatų padėjėjų drausminė atsakomybė ^s-96975d92652d9add33b69ac4
 
 
-1. Šio skirsnio nuostatos taikomos ir advokatų padėjėjams, išskyrus šio Įstatymo [[#^s-cb0109567d8bebc4be95bfbb|53 straipsnio 4 punkte]] nurodytąją. ^s-a41ca996185c4b6665ef7d16
+1. Šio skirsnio nuostatos taikomos ir advokatų padėjėjams, išskyrus šio Įstatymo 53 straipsnio 4 punkte nurodytąją. ^s-a41ca996185c4b6665ef7d16
 
 
 2. Be šio Įstatymo [[#^s-17223b0f1dd7be843c374db0|53 straipsnio]] 1–3 punktuose nurodytų drausminių nuobaudų, advokato padėjėjui gali būti taikoma drausminė nuobauda – išbraukimas iš Lietuvos advokatų padėjėjų sąrašo. ^s-771316a07363eb022f710ea2
@@ -1383,7 +1383,7 @@ Nr. XIV-2290, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23068
 
 
 
-8. Lietuvos advokatūra šio straipsnio 6 ir [[#^s-ad28eff4145e8694be49c1ab|7 dalyse]] numatytus duomenis tvarko siekdama užtikrinti tinkamą asmenų, nurodytų šio Įstatymo [[#^s-2592c8fdd8892926bb8e191c|56 straipsnio 6 dalyje]], veiklą ir šio Įstatymo bei Lietuvos advokatų etikos kodekso reikalavimų laikymąsi. ^s-e06672716b2c2bb129f48527
+8. Lietuvos advokatūra šio straipsnio [[#^s-2592c8fdd8892926bb8e191c|6]] ir [[#^s-ad28eff4145e8694be49c1ab|7]] dalyse numatytus duomenis tvarko siekdama užtikrinti tinkamą asmenų, nurodytų šio Įstatymo [[#^s-2592c8fdd8892926bb8e191c|56 straipsnio 6 dalyje]], veiklą ir šio Įstatymo bei Lietuvos advokatų etikos kodekso reikalavimų laikymąsi. ^s-e06672716b2c2bb129f48527
 Papildyta straipsnio dalimi:
 Nr. XIV-2290, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23068
 
@@ -1547,7 +1547,7 @@ Nr. XIII-3082, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14357
 ### 60 straipsnis. Advokatų taryba ^s-7bd51b28048dd2bb31bb6545
 
 
-1. Advokatų taryba yra Lietuvos advokatūros valdymo organas. Advokatų taryba renkama iš advokatų ketveriems metams. Advokatų tarybos nariais gali būti advokatai, turintys ne mažesnį kaip dešimties metų advokato veiklos stažą. Advokatų tarybai vadovauja advokatų tarybos pirmininkas. Advokatų taryba turi teisę įgalioti advokatų tarybos pirmininką atlikti dalį teisės aktuose nustatytų advokatų tarybos funkcijų, išskyrus [[#^s-0e2b1df2fa19e0cafebc5118|šio straipsnio 2 dalies]] 1, 3, 5, 6, 9, 10, 12, 13, 15, 17, 18, 19, 20, 21, 22 ir 23 punktuose nustatytas funkcijas. Advokatų tarybos pirmininkas [[#^s-405c9474ecb6dfe69a5e51e2|šio straipsnio 2 dalies 7 punkte]] nustatytą funkciją gali atlikti tik tiek, kiek tai susiję su advokatų išbraukimu iš Lietuvos praktikuojančių advokatų sąrašo pagal šio Įstatymo [[#^s-0809259f37ac2ff60c025a63|23 straipsnio 1 dalies]] 1 ir 6 punktus, o 8 punkte nustatytą funkciją – tik tiek, kiek tai susiję su advokatų padėjėjų įrašymu į Lietuvos advokatų padėjėjų sąrašą pagal šio Įstatymo [[#^s-2527da3f4478c4efbb621fc8|35 straipsnio 1 dalį]] ir išbraukimu iš jo pagal šio Įstatymo [[#^s-474307d5223e9065a0bef1f3|36 straipsnio 1 dalies]] 1 ir 6 punktus. Advokatų tarybos pirmininką renka visuotinis advokatų susirinkimas Lietuvos advokatūros įstatuose nustatyta tvarka ketveriems metams. ^s-f826d891102ba0c7e05aa738
+1. Advokatų taryba yra Lietuvos advokatūros valdymo organas. Advokatų taryba renkama iš advokatų ketveriems metams. Advokatų tarybos nariais gali būti advokatai, turintys ne mažesnį kaip dešimties metų advokato veiklos stažą. Advokatų tarybai vadovauja advokatų tarybos pirmininkas. Advokatų taryba turi teisę įgalioti advokatų tarybos pirmininką atlikti dalį teisės aktuose nustatytų advokatų tarybos funkcijų, išskyrus [[#^s-0e2b1df2fa19e0cafebc5118|šio straipsnio 2 dalies]] 1, 3, 5, 6, 9, 10, 12, 13, 15, 17, 18, 19, 20, 21, 22 ir 23 punktuose nustatytas funkcijas. Advokatų tarybos pirmininkas [[#^s-405c9474ecb6dfe69a5e51e2|šio straipsnio 2 dalies 7 punkte]] nustatytą funkciją gali atlikti tik tiek, kiek tai susiję su advokatų išbraukimu iš Lietuvos praktikuojančių advokatų sąrašo pagal šio Įstatymo [[#^s-0809259f37ac2ff60c025a63|23 straipsnio 1 dalies]] [[#^s-d6ff2dea9dcd6f825ed55e8e|1]] ir [[#^s-881da9c9d9faffcba59a41db|6]] punktus, o 8 punkte nustatytą funkciją – tik tiek, kiek tai susiję su advokatų padėjėjų įrašymu į Lietuvos advokatų padėjėjų sąrašą pagal šio Įstatymo [[#^s-2527da3f4478c4efbb621fc8|35 straipsnio 1 dalį]] ir išbraukimu iš jo pagal šio Įstatymo [[#^s-474307d5223e9065a0bef1f3|36 straipsnio 1 dalies]] [[#^s-cdbf7b65c8510322f10711ee|1]] ir [[#^s-9f65e8096f341fc58e823ce5|6]] punktus. Advokatų tarybos pirmininką renka visuotinis advokatų susirinkimas Lietuvos advokatūros įstatuose nustatyta tvarka ketveriems metams. ^s-f826d891102ba0c7e05aa738
 
 
 2. Advokatų taryba, be Civiliniame kodekse valdymo organams priskirtų funkcijų: ^s-0e2b1df2fa19e0cafebc5118
@@ -1565,7 +1565,7 @@ Nr. XIII-3082, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14357
 4) išduoda advokato pažymėjimus; ^s-aec82a0913ce285ed4b8b16d
 
 
-5) nustato nuorašų, nurodytų šio Įstatymo [[#^s-572d2cc3408fe3f863bdf19b|44 straipsnio 5 punkte]], tvirtinimo ir registravimo tvarką; ^s-c1b8d654332286f6c4634fd4
+5) nustato nuorašų, nurodytų šio Įstatymo 44 straipsnio 5 punkte, tvirtinimo ir registravimo tvarką; ^s-c1b8d654332286f6c4634fd4
 
 
 6) nustato detalius advokato darbo vietai taikomus reikalavimus, advokatų darbo vietų registravimo tvarką, leidimų kurti darbo vietas tuose pačiuose pastatuose, kuriuose jau yra policijos, prokuratūros, teismo įstaigos, suteikimo tvarką; ^s-e0bf50c689cb7e8a0022889c
@@ -1637,7 +1637,7 @@ Nr. XIII-3082, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14357
 4. Advokatų taryba, atlikdama šiame Įstatyme nustatytas funkcijas, susijusias su drausmės bylos iškėlimu advokatui ar advokato padėjėjui, be [[#^s-2227f5ab73d5d812d6a363f0|šio straipsnio 3 dalyje]] nurodytų teisių, turi teisę gauti šioms funkcijoms atlikti reikalingą informaciją, duomenis (įskaitant asmens duomenis ir duomenis apie asmens teistumą), dokumentus ar dokumentų nuorašus ir iš fizinių ar juridinių asmenų. ^s-0ffbcdf902735ef0e2efd8d3
 
 
-5. Advokatų taryba šio straipsnio 3 ir [[#^s-0ffbcdf902735ef0e2efd8d3|4 dalyse]] numatytus duomenis tvarko siekdama užtikrinti tinkamą asmenų, nurodytų šio Įstatymo [[#^s-2592c8fdd8892926bb8e191c|56 straipsnio 6 dalyje]], veiklą ir šio Įstatymo bei Lietuvos advokatų etikos kodekso reikalavimų laikymąsi. ^s-c38a510df24c9cd7018be3de
+5. Advokatų taryba šio straipsnio [[#^s-2227f5ab73d5d812d6a363f0|3]] ir [[#^s-0ffbcdf902735ef0e2efd8d3|4]] dalyse numatytus duomenis tvarko siekdama užtikrinti tinkamą asmenų, nurodytų šio Įstatymo [[#^s-2592c8fdd8892926bb8e191c|56 straipsnio 6 dalyje]], veiklą ir šio Įstatymo bei Lietuvos advokatų etikos kodekso reikalavimų laikymąsi. ^s-c38a510df24c9cd7018be3de
 
 
 Straipsnio pakeitimai:
@@ -1745,7 +1745,7 @@ EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISININKŲ TEISĖ TEIKTI NUOLATINES TEISINE
 3. Teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje Europos Sąjungos valstybės narės teisininkas įgyja nuo Lietuvos advokatūros sprendimo dėl Europos Sąjungos valstybės narės teisininko įregistravimo į Lietuvos advokatūros tvarkomą Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą priėmimo dienos. Šį sąrašą skelbia Lietuvos advokatūra savo interneto svetainėje. Šiame sąraše nurodomai informacijai ir jos skelbimo tvarkai mutatis mutandis taikomos šio Įstatymo [[#^s-d4f58507b4764ba59c4ae570|24 straipsnio]] nuostatos. Lietuvos advokatūra apie Europos Sąjungos valstybės narės teisininko įregistravimą į Lietuvos advokatūros tvarkomą Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą taip pat praneša šio teisininko valstybės kompetentingai institucijai. ^s-94276bfebfc86bbacbc60ecc
 
 
-4. Europos Sąjungos valstybės narės teisininkas Lietuvos advokatūros sprendimu gali būti laikinai išbrauktas iš Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašo esant šio Įstatymo [[#^s-8cae846589fcd794a51b8e0b|23 straipsnio]] 2 ir [[#^s-94276bfebfc86bbacbc60ecc|3 dalyse]] nurodytoms aplinkybėms. Šiuo atveju mutatis mutandis taikomos šio Įstatymo [[#^s-7c96516ee1612235122aba15|23 straipsnio 4 dalies]] nuostatos. ^s-54cfb0cd931f9dde9fb2f17f
+4. Europos Sąjungos valstybės narės teisininkas Lietuvos advokatūros sprendimu gali būti laikinai išbrauktas iš Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašo esant šio Įstatymo [[#^s-8cae846589fcd794a51b8e0b|23 straipsnio]] [[#^s-3604c64331a994b64935bd4d|2]] ir [[#^s-17bae7ecfd0ce4bfc8d12fe3|3]] dalyse nurodytoms aplinkybėms. Šiuo atveju mutatis mutandis taikomos šio Įstatymo [[#^s-7c96516ee1612235122aba15|23 straipsnio 4 dalies]] nuostatos. ^s-54cfb0cd931f9dde9fb2f17f
 
 
 5. Europos Sąjungos valstybės narės teisininkas išregistruojamas iš Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašo, jeigu: ^s-6fedd45c5e07c9a60ab1c32f
@@ -1766,7 +1766,7 @@ EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ TEISININKŲ TEISĖ TEIKTI NUOLATINES TEISINE
 6. Lietuvos advokatūros sprendimai dėl atsisakymo įregistruoti Europos Sąjungos valstybės narės teisininką į Europos Sąjungos valstybių narių teisininkų, turinčių teisę teikti nuolatines teisines paslaugas Lietuvos Respublikoje, sąrašą, dėl jo laikino išbraukimo ar išregistravimo iš šio sąrašo turi būti motyvuoti. Šie sprendimai gali būti skundžiami Vilniaus apygardos teismui per trisdešimt dienų nuo sprendimo įteikimo Europos Sąjungos valstybės narės teisininkui dienos. ^s-dae8adb5b8ff168ae1c32994
 
 
-7. Europos Sąjungos valstybės narės teisininkui, teikiančiam nuolatines teisines paslaugas Lietuvos Respublikoje savo valstybės kompetentingos institucijos suteiktu teisininko profesiniu vardu, mutatis mutandis taikomos šio Įstatymo nuostatos, išskyrus šio Įstatymo [[#^s-a4b695a48e7867cd4770394e|7 straipsnio]] 2, 3, 4, 5 ir 6 punktus, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 23, [[#^s-9028925cf38b2a0bcabd6052|41 straipsnius]], dvyliktąjį ir keturioliktąjį skirsnius. ^s-866a642ee1eef1695fbd81c0
+7. Europos Sąjungos valstybės narės teisininkui, teikiančiam nuolatines teisines paslaugas Lietuvos Respublikoje savo valstybės kompetentingos institucijos suteiktu teisininko profesiniu vardu, mutatis mutandis taikomos šio Įstatymo nuostatos, išskyrus šio Įstatymo [[#^s-a4b695a48e7867cd4770394e|7 straipsnio]] 2, 3, 4, 5 ir 6 punktus, [[#^s-4ccbfdec4c3df0af6d781ced|9]], [[#^s-254fb624d49c197662bd0ea0|10]], [[#^s-8405f7838bae15e3f6e24b4f|11]], [[#^s-54ddd9da57a1841d3a9af65b|12]], [[#^s-c7405f73adaf40fa3d220939|13]], [[#^s-f5b3ea2447297212c83b3796|14]], [[#^s-c5414fc994fbef6e73a215cb|15]], [[#^s-d6a6f4cb9e6fbc18a61311e3|16]], [[#^s-e7625ce918a500763b5751a6|17]], [[#^s-11f814bd1c453c924cc7b373|18]], [[#^s-cf15970d17fa43d82294e3ae|19]], [[#^s-8cae846589fcd794a51b8e0b|23]], [[#^s-9028925cf38b2a0bcabd6052|41]] straipsnius, dvyliktąjį ir keturioliktąjį skirsnius. ^s-866a642ee1eef1695fbd81c0
 
 
 Straipsnio pakeitimai:
@@ -1902,7 +1902,7 @@ Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 ### 70 straipsnis. Lietuvos advokato profesinio vardo suteikimas Europos Sąjungos valstybės narės teisininkui, turinčiam Lietuvos Respublikoje pripažintą profesinę kvalifikaciją ^s-b3717b5ecb5f0bf73c3f01ff
 
 
-Teikiantis nuolatines teisines paslaugas Europos Sąjungos valstybės narės kompetentingos institucijos suteiktu teisininko profesiniu vardu Europos Sąjungos valstybės narės teisininkas, kurio Europos Sąjungos valstybėje narėje įgyta profesinė kvalifikacija yra pripažinta [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo]] nustatyta tvarka, turi teisę būti pripažintas Lietuvos advokatu ir šio Įstatymo nustatyta tvarka įrašytas į Lietuvos praktikuojančių advokatų sąrašą. Šiuo atveju tokiam teisininkui netaikomi šio Įstatymo [[#^s-a4b695a48e7867cd4770394e|7 straipsnio]] 2, 3 ir 6 punktų, taip pat 68 ir [[#^s-72e0d1c1a242e805408dfc44|69 straipsnių]] reikalavimai.
+Teikiantis nuolatines teisines paslaugas Europos Sąjungos valstybės narės kompetentingos institucijos suteiktu teisininko profesiniu vardu Europos Sąjungos valstybės narės teisininkas, kurio Europos Sąjungos valstybėje narėje įgyta profesinė kvalifikacija yra pripažinta [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo]] nustatyta tvarka, turi teisę būti pripažintas Lietuvos advokatu ir šio Įstatymo nustatyta tvarka įrašytas į Lietuvos praktikuojančių advokatų sąrašą. Šiuo atveju tokiam teisininkui netaikomi šio Įstatymo [[#^s-a4b695a48e7867cd4770394e|7 straipsnio]] [[#^s-1f92419b7d0c9e2d1927f7a5|2]], [[#^s-53e4d9c7a2725ead838e1471|3]] ir [[#^s-5e1cf1eec7e4c6c93e235116|6]] punktų, taip pat [[#^s-b8b7cd94119ba5dd7805cd6e|68]] ir [[#^s-72e0d1c1a242e805408dfc44|69]] straipsnių reikalavimai.
 
 
 Straipsnio pakeitimai:
@@ -1959,7 +1959,7 @@ TREČIŲJŲ ŠALIŲ TEISININKŲ TEISĖ TEIKTI TEISINES PASLAUGAS LIETUVOS RESPUB
 3. Teisę teikti teisines paslaugas Lietuvos Respublikoje trečiosios šalies teisininkas įgyja nuo Lietuvos advokatūros sprendimo dėl trečiosios šalies teisininko įregistravimo į Trečiųjų šalių teisininkų sąrašą priėmimo dienos. Šį sąrašą skelbia Lietuvos advokatūra savo interneto svetainėje. Šiame sąraše nurodomai informacijai ir jos skelbimo tvarkai mutatis mutandis taikomos šio Įstatymo [[#^s-d4f58507b4764ba59c4ae570|24 straipsnio]] nuostatos. Lietuvos advokatūra apie trečiosios šalies teisininko įregistravimą į Trečiųjų šalių teisininkų sąrašą turi teisę pranešti ir trečiosios šalies kompetentingai institucijai, suteikusiai jam teisininko profesinį vardą. ^s-e99b6006d9b4c36df58359ca
 
 
-4. Trečiosios šalies teisininkas Lietuvos advokatūros sprendimu gali būti laikinai išbrauktas iš Trečiųjų šalių teisininkų sąrašo esant šio Įstatymo [[#^s-8cae846589fcd794a51b8e0b|23 straipsnio]] 2 ir [[#^s-e99b6006d9b4c36df58359ca|3 dalyse]] nurodytoms aplinkybėms. Šiuo atveju mutatis mutandis taikomos šio Įstatymo [[#^s-7c96516ee1612235122aba15|23 straipsnio 4 dalies]] nuostatos. ^s-a5a214e12f8efa094beb5981
+4. Trečiosios šalies teisininkas Lietuvos advokatūros sprendimu gali būti laikinai išbrauktas iš Trečiųjų šalių teisininkų sąrašo esant šio Įstatymo [[#^s-8cae846589fcd794a51b8e0b|23 straipsnio]] [[#^s-3604c64331a994b64935bd4d|2]] ir [[#^s-17bae7ecfd0ce4bfc8d12fe3|3]] dalyse nurodytoms aplinkybėms. Šiuo atveju mutatis mutandis taikomos šio Įstatymo [[#^s-7c96516ee1612235122aba15|23 straipsnio 4 dalies]] nuostatos. ^s-a5a214e12f8efa094beb5981
 
 
 5. Trečiosios šalies teisininkas išregistruojamas iš Trečiųjų šalių teisininkų sąrašo, jeigu: ^s-a4e8778f8f53dc4593f39cc9
@@ -1968,7 +1968,7 @@ TREČIŲJŲ ŠALIŲ TEISININKŲ TEISĖ TEIKTI TEISINES PASLAUGAS LIETUVOS RESPUB
 1) jis paduoda rašytinį prašymą jį išregistruoti; ^s-8316ab08d931c6432c7026ca
 
 
-2) paaiškėja [[#^s-705f1c02fec3f746ff285e4c|šio straipsnio 2 dalies]] 1, 2 ir [[#^s-163758f767ed286077f31244|3 punktuose]] nurodytos aplinkybės; ^s-157afdafe4fa9a8bf97149c5
+2) paaiškėja [[#^s-705f1c02fec3f746ff285e4c|šio straipsnio 2 dalies]] [[#^s-8316ab08d931c6432c7026ca|1]], 2 ir [[#^s-163758f767ed286077f31244|3]] punktuose nurodytos aplinkybės; ^s-157afdafe4fa9a8bf97149c5
 
 
 3) jis neatitinka [[#^s-58930e63cd4119c294c8ad75|šio straipsnio 2 dalies 4 punkte]] nurodytų reikalavimų; ^s-163758f767ed286077f31244
@@ -1986,7 +1986,7 @@ TREČIŲJŲ ŠALIŲ TEISININKŲ TEISĖ TEIKTI TEISINES PASLAUGAS LIETUVOS RESPUB
 6. Lietuvos advokatūros sprendimai dėl atsisakymo įregistruoti trečiosios šalies teisininką į Trečiųjų šalių teisininkų sąrašą, dėl jo laikino išbraukimo ar išregistravimo iš šio sąrašo turi būti motyvuoti. Šie sprendimai gali būti skundžiami Vilniaus apygardos teismui per trisdešimt dienų nuo sprendimo įteikimo trečiosios šalies teisininkui dienos. ^s-a3fb7e0b7c698bd3a52c6c8f
 
 
-7. Trečiosios šalies teisininkui, įregistruotam į Trečiųjų šalių teisininkų sąrašą, mutatis mutandis taikomos šio Įstatymo nuostatos, išskyrus šio Įstatymo 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 23, [[#^s-9028925cf38b2a0bcabd6052|41 straipsnius]], dvyliktąjį ir tryliktąjį skirsnius. ^s-7b6d397d3737e662f949a350
+7. Trečiosios šalies teisininkui, įregistruotam į Trečiųjų šalių teisininkų sąrašą, mutatis mutandis taikomos šio Įstatymo nuostatos, išskyrus šio Įstatymo [[#^s-a4b695a48e7867cd4770394e|7]], [[#^s-4ccbfdec4c3df0af6d781ced|9]], [[#^s-254fb624d49c197662bd0ea0|10]], [[#^s-8405f7838bae15e3f6e24b4f|11]], [[#^s-54ddd9da57a1841d3a9af65b|12]], [[#^s-c7405f73adaf40fa3d220939|13]], [[#^s-f5b3ea2447297212c83b3796|14]], [[#^s-c5414fc994fbef6e73a215cb|15]], [[#^s-d6a6f4cb9e6fbc18a61311e3|16]], [[#^s-e7625ce918a500763b5751a6|17]], [[#^s-11f814bd1c453c924cc7b373|18]], [[#^s-cf15970d17fa43d82294e3ae|19]], [[#^s-8cae846589fcd794a51b8e0b|23]], [[#^s-9028925cf38b2a0bcabd6052|41]] straipsnius, dvyliktąjį ir tryliktąjį skirsnius. ^s-7b6d397d3737e662f949a350
 
 
 8. Lietuvos advokatūra, turėdama pagrįstų abejonių dėl trečiosios šalies teisininko pateiktos informacijos tikrumo, turi teisę kreiptis į trečiosios šalies, kurioje šiam teisininkui suteiktas teisininko profesinis vardas, kompetentingą instituciją, taip pat pagal kompetenciją į Lietuvos Respublikos valstybės saugumo departamentą ar Lietuvos Respublikos užsienio reikalų ministeriją [[#^s-928a44f5d60e43acaefc69a8|šio straipsnio 2 dalies 1 punkte]] nurodytu atveju ir Finansinių nusikaltimų tyrimo tarnybą prie Lietuvos Respublikos vidaus reikalų ministerijos [[#^s-705f1c02fec3f746ff285e4c|šio straipsnio 2 dalies]] 2 ir 3 punktuose nurodytais atvejais, o prireikus – ir į kitas institucijas, kurios pagal Tarptautinių sankcijų įstatymą turi informacijos apie [[#^s-705f1c02fec3f746ff285e4c|šio straipsnio 2 dalyje]] nurodytas aplinkybes. ^s-ddc8df59d2ed3a46ccf82cde
@@ -2061,7 +2061,7 @@ TREČIŲJŲ ŠALIŲ TEISININKŲ TEISĖ TEIKTI TEISINES PASLAUGAS LIETUVOS RESPUB
 5. Trečiosios šalies teisininkas, netekęs teisininko profesinio vardo, įrašytas į Trečiųjų šalių teisininkų sąrašą, turi teisę teikti tik tokias teisines paslaugas, kurios yra susijusios su tos trečiosios šalies, kurioje jis turėjo teisininko profesinį vardą, nacionaline teise ir (ar) tarptautine teise, o paslaugas bylų procese – tik kartu su advokatu, įrašytu į Lietuvos praktikuojančių advokatų sąrašą, jeigu Lietuvos Respublikos sudarytose tarptautinėse sutartyse nėra nurodyta kitaip. Šiuo atveju neatsiranda kliento ir advokato, įrašyto į Lietuvoje praktikuojančių advokatų sąrašą, sutartiniai santykiai, nebent šalys susitaria kitaip. Teikdamas teisines paslaugas Lietuvos Respublikoje, trečiosios šalies teisininkas privalo laikytis Lietuvos advokatų etikos kodekso, taip pat informuoti klientą, kad jis yra netekęs teisininko profesinio vardo trečiojoje šalyje. ^s-31c8c080b92e069231ab4caf
 
 
-6. Šiame straipsnyje nurodytam teisininkui, įregistruotam į Trečiųjų šalių teisininkų sąrašą, mutatis mutandis taikomos šio Įstatymo nuostatos, išskyrus šio Įstatymo 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 23, [[#^s-9028925cf38b2a0bcabd6052|41 straipsnius]], dvyliktąjį ir tryliktąjį skirsnius, [[#^s-69b78e96114d0dee7302bb42|73 straipsnio 1 dalį]], 2 dalies 1, 2, 3 punktus, 3 dalį, [[#^s-31c8c080b92e069231ab4caf|5 dalies]] 2 ir 5 punktus, 7 ir 8 dalis, [[#^s-73a78f7b37740193ea0114e5|74 straipsnio]] 1 ir 2 dalis, 3 dalies 1, 2, 3, 4 ir 5 punktus ir [[#^s-4ac25eb20890f6f5ed006250|75 straipsnio]] 2, 3, 4 ir [[#^s-31c8c080b92e069231ab4caf|5 dalis]]. ^s-580edb1472d6b25c7f13aca9
+6. Šiame straipsnyje nurodytam teisininkui, įregistruotam į Trečiųjų šalių teisininkų sąrašą, mutatis mutandis taikomos šio Įstatymo nuostatos, išskyrus šio Įstatymo [[#^s-a4b695a48e7867cd4770394e|7]], [[#^s-4ccbfdec4c3df0af6d781ced|9]], [[#^s-254fb624d49c197662bd0ea0|10]], [[#^s-8405f7838bae15e3f6e24b4f|11]], [[#^s-54ddd9da57a1841d3a9af65b|12]], [[#^s-c7405f73adaf40fa3d220939|13]], [[#^s-f5b3ea2447297212c83b3796|14]], [[#^s-c5414fc994fbef6e73a215cb|15]], [[#^s-d6a6f4cb9e6fbc18a61311e3|16]], [[#^s-e7625ce918a500763b5751a6|17]], [[#^s-11f814bd1c453c924cc7b373|18]], [[#^s-cf15970d17fa43d82294e3ae|19]], [[#^s-8cae846589fcd794a51b8e0b|23]], [[#^s-9028925cf38b2a0bcabd6052|41]] straipsnius, dvyliktąjį ir tryliktąjį skirsnius, [[#^s-69b78e96114d0dee7302bb42|73 straipsnio 1 dalį]], 2 dalies 1, 2, 3 punktus, 3 dalį, [[#^s-31c8c080b92e069231ab4caf|5 dalies]] 2 ir 5 punktus, [[#^s-7b6d397d3737e662f949a350|7]] ir [[#^s-ddc8df59d2ed3a46ccf82cde|8]] dalis, [[#^s-73a78f7b37740193ea0114e5|74 straipsnio]] [[#^s-bf1827a91795f24f98899455|1]] ir [[#^s-80cde5a60712ea997b4b65af|2]] dalis, 3 dalies 1, 2, 3, 4 ir 5 punktus ir [[#^s-4ac25eb20890f6f5ed006250|75 straipsnio]] [[#^s-cd201a01208bfc6c713a66f5|2]], [[#^s-63f5d831b8fb091028b56458|3]], [[#^s-370acc057db58e9b53afdae3|4]] ir [[#^s-b4d4f89c6430dc198ea275e5|5]] dalis. ^s-580edb1472d6b25c7f13aca9
 
 
 Skirsnio pakeitimai:
@@ -2157,8 +2157,8 @@ Nr. XII-272, 2013-05-09, Žin., 2013, Nr. 54-2677 (2013-05-25)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-496, 2013-07-02, Žin., 2013, Nr. 79-3999 (2013-07-23)
 [[latest/TAR.EB6C547451E8|ADVOKATŪROS ĮSTATYMO 2, 4, 7, 8, 10, 13, 14, 15, 16, 17, 19, 23, 25, 30, 32, 33, 35, 36, 39, 42, 53, 58, 60, 61, 64, 68, 69, 70 STRAIPSNIŲ IR ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-9223a09d1ae1deaffd1d8b28|3 straipsnyje]] išdėstyto [[#^s-5e1cf1eec7e4c6c93e235116|Lietuvos Respublikos advokatūros įstatymo (toliau – Advokatūros įstatymas) 7 straipsnio 6 punktą]], šio įstatymo [[#^s-a4b695a48e7867cd4770394e|7 straipsnį]], [[#^s-4ccbfdec4c3df0af6d781ced|9 straipsnyje]] išdėstyto [[#^s-d6a6f4cb9e6fbc18a61311e3|Advokatūros įstatymo 16 straipsnio]] 1, 2, 4 ir 5 punktus ir šio įstatymo [[#^s-6bd44319eb1774f3f3a52081|30 straipsnį]], įsigalioja 2013 m. rugsėjo 1 d.
-Šio įstatymo [[#^s-9223a09d1ae1deaffd1d8b28|3 straipsnyje]] išdėstyto [[#^s-5e1cf1eec7e4c6c93e235116|Advokatūros įstatymo 7 straipsnio 6 punktas]], šio įstatymo [[#^s-a4b695a48e7867cd4770394e|7 straipsnis]] ir [[#^s-4ccbfdec4c3df0af6d781ced|9 straipsnyje]] išdėstyto [[#^s-d6a6f4cb9e6fbc18a61311e3|Advokatūros įstatymo 16 straipsnio]] 1, 2, 4 ir 5 punktai įsigalioja 2014 m. kovo 1 d.
+Šis įstatymas, išskyrus [[#^s-9223a09d1ae1deaffd1d8b28|3 straipsnyje]] išdėstyto [[#^s-d6a6f4cb9e6fbc18a61311e3|Lietuvos Respublikos advokatūros įstatymo (toliau – Advokatūros įstatymas) 7 straipsnio 6 punktą, šio įstatymo 7 straipsnį, 9 straipsnyje išdėstyto Advokatūros įstatymo 16 straipsnio]] [[#^s-f944b168afcbf5c511f218d4|1]], [[#^s-5bee5aeee95db12815b8afae|2]], [[#^s-9dc614f6ffa8b17f31dab8a9|4]] ir [[#^s-cbaf8c8333f6d348cf1679ae|5]] punktus ir šio įstatymo [[#^s-6bd44319eb1774f3f3a52081|30 straipsnį]], įsigalioja 2013 m. rugsėjo 1 d.
+Šio įstatymo [[#^s-9223a09d1ae1deaffd1d8b28|3 straipsnyje]] išdėstyto [[#^s-d6a6f4cb9e6fbc18a61311e3|Advokatūros įstatymo 7 straipsnio 6 punktas, šio įstatymo 7 straipsnis ir 9 straipsnyje išdėstyto Advokatūros įstatymo 16 straipsnio]] [[#^s-f944b168afcbf5c511f218d4|1]], [[#^s-5bee5aeee95db12815b8afae|2]], [[#^s-9dc614f6ffa8b17f31dab8a9|4]] ir [[#^s-cbaf8c8333f6d348cf1679ae|5]] punktai įsigalioja 2014 m. kovo 1 d.
 Šio įstatymo [[#^s-9223a09d1ae1deaffd1d8b28|3 straipsnyje]] išdėstyto [[#^s-1f92419b7d0c9e2d1927f7a5|Advokatūros įstatymo 7 straipsnio 2 punkto]], [[#^s-4ccbfdec4c3df0af6d781ced|9 straipsnyje]] išdėstyto [[#^s-c62ac6b02bfb5ae20518faef|Advokatūros įstatymo 16 straipsnio 3 punkto]] ir [[#^s-ed5ad85159ddd73930507fea|17 straipsnio 1 dalyje]] išdėstyto [[#^s-947acd14aa22197775305b84|Advokatūros įstatymo 35 straipsnio 1 dalies 2 punkto]] nuostatos netaikomos asmenims, iki šio įstatymo įsigaliojimo pateikusiems prašymus laikyti advokatų egzaminus, pateikusiems prašymus pripažinti juos advokatais, pateikusiems prašymus įrašyti juos į advokatų padėjėjų sąrašą ar tapusiems advokatais ir advokatų padėjėjais.
 Šio įstatymo [[#^s-9223a09d1ae1deaffd1d8b28|3 straipsnyje]] išdėstyto [[#^s-5e1cf1eec7e4c6c93e235116|Advokatūros įstatymo 7 straipsnio 6 punkto]] nuostatos netaikomos asmenims, kurie turi ne mažesnį kaip septynerių metų teisėjo darbo stažą arba yra teisės krypties socialinių mokslų daktarai ar habilituoti daktarai ir yra iki 2014 m. kovo 1 d. pateikę prašymus pripažinti juos advokatais.
 Šio įstatymo [[#^s-5f150e1482957a7bd99e26ac|4 straipsnyje]] išdėstyto [[#^s-dc00c82899c22d904fe36105|Advokatūros įstatymo 8 straipsnio 3 punkto]] nuostata, numatanti, kad pareiškėjas nelaikomas esąs nepriekaištingos reputacijos ir negali būti pripažintas advokatu, jeigu jis yra atleistas iš darbo, pareigų ar netekęs teisės verstis tam tikra veikla dėl to, kad neatitinka įstatymuose keliamo nepriekaištingos reputacijos reikalavimo, taikoma tik tais atvejais, kai šios aplinkybės atsirado po šio įstatymo įsigaliojimo.
@@ -2171,7 +2171,7 @@ Asmenims, pripažintiems advokatais iki šio įstatymo įsigaliojimo, šio įsta
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-931, 2014-06-10, paskelbta TAR 2014-06-13, i. k. 2014-07627
-LIETUVOS RESPUBLIKOS ADVOKATŪROS ĮSTATYMO NR. IX-2066 58, 60 IR [[#^s-af1651cf90a3381de321809a|61 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ADVOKATŪROS ĮSTATYMO NR. IX-2066 [[#^s-55fdd731dab1ce9e18cd8333|58]], [[#^s-7bd51b28048dd2bb31bb6545|60]] IR [[#^s-af1651cf90a3381de321809a|61]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 
 Pakeitimai:
@@ -2184,7 +2184,7 @@ Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 [[#^s-da9a9a3c7cc1ba71f7
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1850, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10596
-Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 17, 22, 51 ir [[#^s-7bd51b28048dd2bb31bb6545|60 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 [[#^s-e7625ce918a500763b5751a6|17]], [[#^s-2d6b813210273e27ada436a3|22]], [[#^s-ce88b649a522181a0434a179|51]] ir [[#^s-7bd51b28048dd2bb31bb6545|60]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2194,22 +2194,22 @@ Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 [[#^s-7bd51b28048dd2bb31
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-358, 2017-05-11, paskelbta TAR 2017-05-24, i. k. 2017-08717
-Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 45, [[#^s-917a731103a1b86edf124fe3|46 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 [[#^s-0c59ec8765349ed87e90a3ee|45]], [[#^s-917a731103a1b86edf124fe3|46]] straipsnių ir priedo pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-571, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12071
-Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 13, 23 ir [[#^s-8f39709557c1c18542ad5b2c|36 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 [[#^s-c7405f73adaf40fa3d220939|13]], [[#^s-8cae846589fcd794a51b8e0b|23]] ir [[#^s-8f39709557c1c18542ad5b2c|36]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-879, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20565
-Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 8, 13, 14, 17, 23, 24, 34, 35, 36, 37, 38, 39, 44, 56, 57, 58, 60, 61 ir [[#^s-5083428e792d2b5a6810280c|64 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 [[#^s-a4b695a48e7867cd4770394e|7]], [[#^s-e9ea597cc3fe9664cd907756|8]], [[#^s-c7405f73adaf40fa3d220939|13]], [[#^s-f5b3ea2447297212c83b3796|14]], [[#^s-e7625ce918a500763b5751a6|17]], [[#^s-8cae846589fcd794a51b8e0b|23]], [[#^s-d4f58507b4764ba59c4ae570|24]], [[#^s-d79a4157071b6a3b224fb209|34]], [[#^s-ee8773d603cad1d5885fdacf|35]], [[#^s-8f39709557c1c18542ad5b2c|36]], [[#^s-bad1372bf0c62f18b7683f6c|37]], [[#^s-c54dcf4841f6cb0a9f8fb4b7|38]], [[#^s-bc26561a35c8b92b49674090|39]], [[#^s-fef6b16c5e6e6483c8b48257|44]], [[#^s-cb37c9b9c796f94ce2c59a9c|56]], [[#^s-f3c19a55b42fd6b20004f625|57]], [[#^s-55fdd731dab1ce9e18cd8333|58]], [[#^s-7bd51b28048dd2bb31bb6545|60]], [[#^s-af1651cf90a3381de321809a|61]] ir [[#^s-5083428e792d2b5a6810280c|64]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3082, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14357
-Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 59 ir [[#^s-7bd51b28048dd2bb31bb6545|60 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 [[#^s-d446fbd47f8278f2f9b475c2|59]] ir [[#^s-7bd51b28048dd2bb31bb6545|60]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2219,7 +2219,7 @@ Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 [[#^s-d6a6f4cb9e6fbc18a6
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-611, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23533
-Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 7, 9, 35, 39, 56, 57, 60 ir [[#^s-5083428e792d2b5a6810280c|64 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 [[#^s-a4b695a48e7867cd4770394e|7]], [[#^s-4ccbfdec4c3df0af6d781ced|9]], [[#^s-ee8773d603cad1d5885fdacf|35]], [[#^s-bc26561a35c8b92b49674090|39]], [[#^s-cb37c9b9c796f94ce2c59a9c|56]], [[#^s-f3c19a55b42fd6b20004f625|57]], [[#^s-7bd51b28048dd2bb31bb6545|60]] ir [[#^s-5083428e792d2b5a6810280c|64]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2229,7 +2229,7 @@ Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 [[#^s-01455da5c5ef5dc3fe
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2290, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23068
-Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 2, 9, 16, 17, 23, 24, 35, 39, 56, 57, 59, 60, 64, 66, 67, 68, [[#^s-72e0d1c1a242e805408dfc44|69 straipsnių]] ir keturioliktojo skirsnio pakeitimo įstatymas
+Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 [[#^s-a33bbd7f039d8a78bd292eb8|2]], [[#^s-4ccbfdec4c3df0af6d781ced|9]], [[#^s-d6a6f4cb9e6fbc18a61311e3|16]], [[#^s-e7625ce918a500763b5751a6|17]], [[#^s-8cae846589fcd794a51b8e0b|23]], [[#^s-d4f58507b4764ba59c4ae570|24]], [[#^s-ee8773d603cad1d5885fdacf|35]], [[#^s-bc26561a35c8b92b49674090|39]], [[#^s-cb37c9b9c796f94ce2c59a9c|56]], [[#^s-f3c19a55b42fd6b20004f625|57]], [[#^s-d446fbd47f8278f2f9b475c2|59]], [[#^s-7bd51b28048dd2bb31bb6545|60]], [[#^s-5083428e792d2b5a6810280c|64]], [[#^s-14b865153fdb4e70b510ca0f|66]], [[#^s-c3252134abfd689ef805d9a6|67]], [[#^s-b8b7cd94119ba5dd7805cd6e|68]], [[#^s-72e0d1c1a242e805408dfc44|69]] straipsnių ir keturioliktojo skirsnio pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas

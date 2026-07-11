@@ -268,7 +268,7 @@ Vietos savivaldos institucijos, organizuodamos aplinkos apsaugos įstatymų, Vyr
 ### 5 straipsnis. 7 straipsnio pakeitimas ir papildymas ^s-fdb335c61b4e02641373432f
 
 
-Pakeisti [[#^s-ca765bc0f7600a3594c305f3|7 straipsnio]] 1, 2, 4 ir [[#^s-1eb24890361a69e34906d405|5 punktus]], [[#^s-86c2ddcc4fd8522da9b1d0a0|6 punkte]] po žodžio „organizuoti“ įrašyti žodžius „ir dalyvauti vykdant“, papildyti [[#^s-fe34453586f6f7df3358fa59|9 punktu]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-ca765bc0f7600a3594c305f3|7 straipsnio]] [[#^s-8527db1a5d2199a0b6cf270d|1]], [[#^s-303adc0a74f6c6954e849688|2]], [[#^s-9501a9d09d7b816f4e60c890|4]] ir 5 punktus, [[#^s-86c2ddcc4fd8522da9b1d0a0|6 punkte]] po žodžio „organizuoti“ įrašyti žodžius „ir dalyvauti vykdant“, papildyti [[#^s-fe34453586f6f7df3358fa59|9 punktu]] ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-ca765bc0f7600a3594c305f3|7 straipsnis]]. Piliečių ir visuomeninių organizacijų teisės
@@ -308,7 +308,7 @@ Piliečiai ir visuomeninės organizacijos turi teisę:
 ### 6 straipsnis. 8 straipsnio pakeitimas ^s-80d70d9702b2d906a83948d7
 
 
-Pakeisti [[#^s-750dbfe4fd1840e00fea5114|8 straipsnio]] 5 ir [[#^s-eea84a41af847745319eb37e|6 punktus]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-750dbfe4fd1840e00fea5114|8 straipsnio]] 5 ir 6 punktus ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-750dbfe4fd1840e00fea5114|8 straipsnis]].       Valstybės valdžios, valdymo ir kontrolės institucijų pareigos užtikrinant piliečių ir visuomeninių organizacijų teises

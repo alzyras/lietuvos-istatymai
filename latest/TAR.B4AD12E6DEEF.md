@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-2b81dc7ab79f9d2e15ba891c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. birželio 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Suomijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo nusikaltimų prevencijos srityje“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Suomijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo nusikaltimų prevencijos srityje, pasirašytą 1997 m. kovo 18 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. birželio 27 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Suomijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo nusikaltimų prevencijos srityje“](https://e-tar.lt/portal/lt/legalAct/TAR.C438788B39CE), ratifikuoja Lietuvos Respublikos Vyriausybės ir Suomijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo nusikaltimų prevencijos srityje, pasirašytą 1997 m. kovo 18 d. Vilniuje.
 
 
 

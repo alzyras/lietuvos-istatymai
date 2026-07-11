@@ -79,7 +79,7 @@ BENDROSIOS NUOSTATOS
 6. Mėgėjų žvejybos leidimas – įmokos, skirtos žuvų ištekliams atkurti ir išsaugoti, sumokėjimo Aplinkos ministerijos nustatyta tvarka patvirtinimas, suteikiantis teisę mėgėjų žvejybai. ^s-8eb43a865aced7f743daa5cf
 
 
-7. Ne mėgėjų žvejybos įrankiai – tinkliniai žvejybos įrankiai, išvardyti 2006 m. gruodžio 6 d. Komisijos reglamento (EB) Nr. 1799/2006, iš dalies keičiančio Reglamentą (EB) Nr. 26/2004 dėl Bendrijos žvejybos laivyno registro (OL 2006 L 341, p. 26), I priedo 3 lentelėje, ir elektros žūklės įrankiai. ^s-71c39c7ad0569081c6a757d3
+7. Ne mėgėjų žvejybos įrankiai – tinkliniai žvejybos įrankiai, išvardyti 2006 m. gruodžio 6 d. Komisijos [reglamento (EB) Nr. 1799/2006](https://eur-lex.europa.eu/eli/reg/1799/2006/oj), iš dalies keičiančio Reglamentą (EB) Nr. 26/2004 dėl Bendrijos žvejybos laivyno registro (OL 2006 L 341, p. 26), I priedo 3 lentelėje, ir elektros žūklės įrankiai. ^s-71c39c7ad0569081c6a757d3
 
 
 8. Saugomos ir globojamos žuvų rūšys – žuvų rūšys, įrašytos į Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių sąrašą, Globojamų žuvų ir vėžių rūšių sąrašą ir (arba) Europos Bendrijos svarbos gyvūnų ir augalų rūšių sąrašus arba saugomos pagal tarptautinius susitarimus. ^s-3f62666ad98cd0543e4dc698
@@ -601,4 +601,4 @@ Lietuvos Respublikos mėgėjų žvejybos įstatymo Nr. IX-2389 [[#^s-bc82fe2ff8d
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2276, 2023-11-21, paskelbta TAR 2023-11-29, i. k. 2023-22998
-Lietuvos Respublikos mėgėjų žvejybos įstatymo Nr. IX-2389 3, 6, 10 ir [[#^s-0a48a1a193f42484b1e0f5d1|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mėgėjų žvejybos įstatymo Nr. IX-2389 [[#^s-dbec26041e96e647e75eaac2|3]], [[#^s-18876c92af5715768126f1b2|6]], [[#^s-18abc288da3e3a85fcdb37af|10]] ir [[#^s-0a48a1a193f42484b1e0f5d1|11]] straipsnių pakeitimo įstatymas

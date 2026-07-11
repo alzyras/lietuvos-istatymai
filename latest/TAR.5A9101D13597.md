@@ -64,7 +64,7 @@ Vilnius
 „5. Etinė priežiūra – Lietuvos bioetikos komiteto ar regioninio biomedicininių tyrimų etikos komiteto atliekama veikla, kuria kontroliuojama, kaip fiziniai ar juridiniai asmenys, atlikdami biomedicininius tyrimus, laikosi biomedicininių tyrimų etikos reikalavimų ir principų.“
 
 
-3. Buvusias [[#^s-1b6a2e716e9b14fd6e77fbc9|2 straipsnio]] 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 dalis laikyti atitinkamai 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalimis. ^s-84e0fb9fa9870258209b989b
+3. Buvusias [[#^s-1b6a2e716e9b14fd6e77fbc9|2 straipsnio]] [[#^s-238ef0a27ed1919faf30726c|5]], 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 dalis laikyti atitinkamai 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalimis. ^s-84e0fb9fa9870258209b989b
 
 
 4. 2 straipsnio 9 dalyje vietoj žodžių „visi su žmonėmis susiję biomedicininiai tyrimai, skiriami“ įrašyti žodžius „kiekvienas su žmonėmis atliekamas biomedicininis tyrimas, skirtas“, vietoj žodžio „absorbciją“ įrašyti žodį „rezorbciją“, vietoj žodžio „saugą“ įrašyti žodį „saugumą“ ir šią dalį išdėstyti taip: ^s-739b642006b205b5af4629d8
@@ -96,7 +96,7 @@ Pakeisti 12 straipsnį ir jį išdėstyti taip:
 „12 straipsnis. Institucijos, suteikiančios teisę atlikti biomedicininius tyrimus
 
 
-1. Biomedicininiai tyrimai Lietuvoje gali būti atliekami tik leidus šio straipsnio 2 ir [[#^s-01f8a7359f6268f4f5dfaa1f|3 dalyse]] nurodytoms institucijoms. ^s-57c3b65cd106558fe3806231
+1. Biomedicininiai tyrimai Lietuvoje gali būti atliekami tik leidus šio straipsnio [[#^s-01a74878031614dc16aaab03|2]] ir [[#^s-01f8a7359f6268f4f5dfaa1f|3]] dalyse nurodytoms institucijoms. ^s-57c3b65cd106558fe3806231
 
 
 2. Leidimus atlikti biomedicininį tyrimą, išskyrus klinikinį vaistinio preparato tyrimą, išduoda Lietuvos bioetikos komitetas arba regioninis biomedicininių tyrimų etikos komitetas. Regioninis biomedicininių tyrimų etikos komitetas išduoda leidimus atlikti biomedicininius tyrimus, kai biomedicininius tyrimus planuojama atlikti tyrimo centruose, esančiuose tik atitinkamo regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje. Leidimą biomedicininiam tyrimui, kurį planuojama atlikti daugiau kaip vieno regioninio biomedicininių tyrimų etikos komiteto veiklai priskirtoje teritorijoje, išduoda Lietuvos bioetikos komitetas, gavęs regioninių biomedicininių tyrimų etikos komitetų išvadas. ^s-01a74878031614dc16aaab03
@@ -292,7 +292,7 @@ priedas
 ### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-e8f1f22e8959cf218265d10f
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-072a537d8341aa6ca8a223a7|3 dalis]], įsigalioja 2008 m. sausio 1 d. ^s-7c8c4c445b2cd1c5f20d7d43
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-de03882e047d0ee0cf8ca1aa|2]] ir [[#^s-072a537d8341aa6ca8a223a7|3]] dalis, įsigalioja 2008 m. sausio 1 d. ^s-7c8c4c445b2cd1c5f20d7d43
 
 
 2. Vyriausybė iki 2008 m. sausio 1 d. parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus. ^s-de03882e047d0ee0cf8ca1aa

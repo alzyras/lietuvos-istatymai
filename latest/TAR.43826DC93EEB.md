@@ -104,7 +104,7 @@ Pakeisti 7 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 ### 4 straipsnis. Įstatymo įsigaliojimas ^s-76b9d7b36faf1d91b5b1f6e8
 
 
-Šio įstatymo [[#^s-22f221a7655ae5114eb9a98e|2 straipsnio]] 1, 2 ir 3 dalys įsigalioja 2013 m. sausio 1 d.
+Šio įstatymo [[#^s-22f221a7655ae5114eb9a98e|2 straipsnio]] [[#^s-9fabee492b838d222b973120|1]], [[#^s-9a86eafd6416bb72448d6b8b|2]] ir [[#^s-6e5a93fb85f02454671821de|3]] dalys įsigalioja 2013 m. sausio 1 d.
 
 
 

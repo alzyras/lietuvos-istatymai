@@ -165,10 +165,10 @@ Pakeisti 50 straipsnio pavadinimą ir jį išdėstyti taip:
 ### 8 straipsnis. Įstatymo 1, 3 ir 4 straipsnių taikymas ^s-2245857b5b2af88ceddf5bc7
 
 
-1. Šio įstatymo 1 ir [[#^s-1876194bae922d9edee4f153|3 straipsniai]] taikomi po šio įstatymo įsigaliojimo paskirtiems Lietuvos banko valdybos pirmininko pavaduotojams ir valdybos nariams. ^s-7f1f8b0cd304e5b6f7ce5b48
+1. Šio įstatymo [[#^s-2204364d5b35f2231ff44d66|1]] ir [[#^s-1876194bae922d9edee4f153|3]] straipsniai taikomi po šio įstatymo įsigaliojimo paskirtiems Lietuvos banko valdybos pirmininko pavaduotojams ir valdybos nariams. ^s-7f1f8b0cd304e5b6f7ce5b48
 
 
-2. Šio įstatymo [[#^s-1876194bae922d9edee4f153|3 straipsnio]] ir [[#^s-d7fa40e62e81e4687021c503|4 straipsnio]] 3 ir 4 dalių nuostatos taikomos šio įstatymo įsigaliojimo dieną ir po to pradedančiam eiti pareigas Lietuvos banko valdybos pirmininkui. ^s-f122c21871936e59a59d256f
+2. Šio įstatymo [[#^s-1876194bae922d9edee4f153|3 straipsnio]] ir [[#^s-d7fa40e62e81e4687021c503|4 straipsnio]] [[#^s-d7334da8123e2593afb9fb07|3]] ir [[#^s-8e787bad3362254cd6000bfe|4]] dalių nuostatos taikomos šio įstatymo įsigaliojimo dieną ir po to pradedančiam eiti pareigas Lietuvos banko valdybos pirmininkui. ^s-f122c21871936e59a59d256f
 
 
 

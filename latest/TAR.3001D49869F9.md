@@ -103,7 +103,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 7) valstybės, savivaldybių ir biudžetinių įstaigų kontroliuojamos socialinės globos ir (arba) socialinių paslaugų įstaigos, kurių teisinė forma yra viešoji įstaiga; ^s-bc173f09ebd96139dfcdb476
 
 
-8) šios dalies 4–[[#^s-bc173f09ebd96139dfcdb476|7 punktuose]] išvardytų subjektų kontroliuojamos sveikatos priežiūros viešosios įstaigos, aukštosios mokyklos ir mokslinių tyrimų institutai, bendrojo ugdymo mokyklos, profesinio mokymo įstaigos, socialinės globos ir (arba) socialinių paslaugų įstaigos, kurių teisinė forma yra viešoji įstaiga; ^s-d936af0d160144d5ff849b0c
+8) šios dalies [[#^s-50fdbe28383b7c37b22b89a5|4]]–[[#^s-bc173f09ebd96139dfcdb476|7]] punktuose išvardytų subjektų kontroliuojamos sveikatos priežiūros viešosios įstaigos, aukštosios mokyklos ir mokslinių tyrimų institutai, bendrojo ugdymo mokyklos, profesinio mokymo įstaigos, socialinės globos ir (arba) socialinių paslaugų įstaigos, kurių teisinė forma yra viešoji įstaiga; ^s-d936af0d160144d5ff849b0c
 
 
 9) viešojo sektoriaus subjektų kontroliuojamos programų ir projektų, finansuojamų iš valstybės biudžeto, įskaitant Europos Sąjungos finansinės paramos, tarptautinės finansinės paramos ir kitas lėšas, administravimo funkcijas atliekančios įstaigos, kurioms galimybė šias lėšas gauti numatyta jų veiklos sritį reglamentuojančiuose įstatymuose ir kituose teisės aktuose ir kurių teisinė forma yra viešoji įstaiga; ^s-99738a41858a6f9b193567e6
@@ -216,7 +216,7 @@ Pakeisti ir papildyti 23 straipsnį ir jį išdėstyti taip:
 4) viešojo sektoriaus subjektų grupę Privalomojo sveikatos draudimo fondo konsoliduotosioms finansinėms ataskaitoms parengti sudaro Privalomojo sveikatos draudimo fondo administravimo įstaigos, Privalomasis sveikatos draudimo fondas ir šio fondo administravimo įstaigų kontroliuojami viešojo sektoriaus subjektai; ^s-45c71edd617abfd36010440b
 
 
-5) viešojo sektoriaus subjektų grupę nacionaliniam finansinių ataskaitų rinkiniui parengti sudaro šios dalies 1–[[#^s-45c71edd617abfd36010440b|4 punktuose]] išvardytos viešojo sektoriaus subjektų grupės ir viešojo sektoriaus subjektai, atsakingi už valstybės išteklių fondų, kurių lėšų sąmatas tvirtina Seimas, metinių ataskaitų rinkinių parengimą. ^s-f27548cb67a5d0c062d62432
+5) viešojo sektoriaus subjektų grupę nacionaliniam finansinių ataskaitų rinkiniui parengti sudaro šios dalies [[#^s-569df88d474b8a35e9dd26d0|1]]–[[#^s-45c71edd617abfd36010440b|4]] punktuose išvardytos viešojo sektoriaus subjektų grupės ir viešojo sektoriaus subjektai, atsakingi už valstybės išteklių fondų, kurių lėšų sąmatas tvirtina Seimas, metinių ataskaitų rinkinių parengimą. ^s-f27548cb67a5d0c062d62432
 
 
 2. Viešojo sektoriaus subjektų grupę konsoliduotųjų biudžeto vykdymo ataskaitų rinkiniui parengti sudaro viešojo sektorius subjektas, kurio vadovas yra asignavimų valdytojas, ir viešojo sektoriaus subjektai, kuriems jis perdavė gautus asignavimus. ^s-5f62a9d244336eaa8ddb759d
@@ -384,7 +384,7 @@ Pakeisti 32 straipsnį ir jį išdėstyti taip:
 2) nacionalinį finansinių ataskaitų rinkinį. ^s-c60023e271b8ec9e14fa412b
 
 
-9. Vyriausybė, pritarusi šio straipsnio 6, 7 ir [[#^s-821c65afccab589649d4bb3f|8 dalyse]] nurodytų ataskaitų rinkiniams, teikia juos Seimui ne vėliau kaip iki spalio 10 dienos.“ ^s-7c3c03b75907724cf74d8474
+9. Vyriausybė, pritarusi šio straipsnio [[#^s-4b3699d0a7c2e0666bb2af38|6]], [[#^s-96b1785475a3d9a9a09babcb|7]] ir [[#^s-821c65afccab589649d4bb3f|8]] dalyse nurodytų ataskaitų rinkiniams, teikia juos Seimui ne vėliau kaip iki spalio 10 dienos.“ ^s-7c3c03b75907724cf74d8474
 
 
 
@@ -421,10 +421,10 @@ Pakeisti 36 straipsnio 4 dalį ir ją išdėstyti taip:
 ### 17 straipsnis. Įstatymo taikymas ^s-7bfbb1707957488e5ea0a8b0
 
 
-1. Šis įstatymas, išskyrus [[#^s-5cfa19f0c05eef625a17a9da|2 straipsniu]] keičiamo [[latest/TAR.E2CE2C82DA9E#^s-e0994c2d1b6e43f0b1464f19|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio 22 dalies]] 7–10 punktus, taikomas 2013 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkiniams. ^s-fe211f9d4e3f8150987fbb68
+1. Šis įstatymas, išskyrus [[#^s-5cfa19f0c05eef625a17a9da|2 straipsniu]] keičiamo [[latest/TAR.E2CE2C82DA9E#^s-e0994c2d1b6e43f0b1464f19|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio 22 dalies]] [[latest/TAR.E2CE2C82DA9E|7]]–[[latest/TAR.E2CE2C82DA9E|10]] punktus, taikomas 2013 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkiniams. ^s-fe211f9d4e3f8150987fbb68
 
 
-2. Šio įstatymo [[#^s-5cfa19f0c05eef625a17a9da|2 straipsniu]] keičiamo [[latest/TAR.E2CE2C82DA9E#^s-e0994c2d1b6e43f0b1464f19|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio 22 dalies]] 7–10 punktuose nurodyti subjektai rengia 2015 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkinius, tačiau gali rengti 2013 metų ir 2014 metų ataskaitų rinkinius pagal šį įstatymą. ^s-168d6882f977c553c66f9f65
+2. Šio įstatymo [[#^s-5cfa19f0c05eef625a17a9da|2 straipsniu]] keičiamo [[latest/TAR.E2CE2C82DA9E#^s-e0994c2d1b6e43f0b1464f19|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio 22 dalies]] [[latest/TAR.E2CE2C82DA9E|7]]–[[latest/TAR.E2CE2C82DA9E|10]] punktuose nurodyti subjektai rengia 2015 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkinius, tačiau gali rengti 2013 metų ir 2014 metų ataskaitų rinkinius pagal šį įstatymą. ^s-168d6882f977c553c66f9f65
 
 
 

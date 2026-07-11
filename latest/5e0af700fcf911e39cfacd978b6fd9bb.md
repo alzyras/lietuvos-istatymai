@@ -38,7 +38,7 @@ TIEKIAMŲ RINKAI TRĄŠŲ ĮSTATYMO NR. XI-2157 PRIPAŽINIMO NETEKUSIU GALIOS
 ### 1 straipsnis. Lietuvos Respublikos tiekiamų rinkai trąšų įstatymo Nr. XI-2157 pripažinimas netekusiu galios ^s-9c0f0ba17bd382fc447c7b66
 
 
-Pripažinti netekusiu galios Lietuvos Respublikos tiekiamų rinkai trąšų įstatymą  Nr. XI-2157.
+Pripažinti netekusiu galios Lietuvos Respublikos tiekiamų rinkai trąšų [įstatymą  Nr. XI-2157](https://e-tar.lt/portal/lt/legalAct/TAR.790259816F91).
 
 
 

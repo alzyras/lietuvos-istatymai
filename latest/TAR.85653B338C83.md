@@ -51,7 +51,7 @@ Lietuvos Respublikos Vyriausybė išleidžia 90 mln. litų vertės tikslinius tr
 ### 3 straipsnis. Lietuvos valstybinio komercinio banko restruktūrizavimas ^s-6686ada2236b582d175872f6
 
 
-Vyriausybė restruktūrizuoja Lietuvos valstybinį komercinį banką Vyriausybės vertybinių popierių emisijos bankams restruktūrizuoti įstatymo nustatyta tvarka, tik anuliavus pagal Komercinių [[latest/TAR.B6B636C7384A#^s-db1df2bf427612bb60a5ca42|bankų įstatymo 34 straipsnio 6 dalį]] šio banko akcinį kapitalą.
+Vyriausybė restruktūrizuoja Lietuvos valstybinį komercinį banką [Vyriausybės vertybinių popierių emisijos bankams restruktūrizuoti įstatymo nustatyta tvarka, tik anuliavus pagal Komercinių bankų įstatymo 34 straipsnio 6 dalį](https://e-tar.lt/portal/lt/legalAct/TAR.E9A0FF83557A) šio banko akcinį kapitalą.
 
 
 

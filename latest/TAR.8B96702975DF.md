@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-8795abf1d92b96936cb7bccb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. gruodžio 20 d. dekretą Nr. 1141, ratifikuoja Pasaulinės intelektinės nuosavybės organizacijos autorių teisių sutartį, sudarytą 1996 m. gruodžio 20 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2000 m. gruodžio 20 d. dekretą Nr. 1141](https://e-tar.lt/portal/lt/legalAct/TAR.18907E229EF9), ratifikuoja Pasaulinės intelektinės nuosavybės organizacijos autorių teisių sutartį, sudarytą 1996 m. gruodžio 20 d. Ženevoje.
 
 
 

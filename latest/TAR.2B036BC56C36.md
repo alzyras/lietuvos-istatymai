@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-30e7a01fd9f2645e4878394d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. liepos 8 d. dekretą Nr. 1K-1929, ratifikuoja Lietuvos Respublikos Vyriausybės ir Tadžikistano Respublikos Vyriausybės susitarimą dėl investicijų skatinimo ir apsaugos, sudarytą 2009 m. vasario 12 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. liepos 8 d. dekretą Nr. 1K-1929](https://e-tar.lt/portal/lt/legalAct/TAR.26D62E22B44B), ratifikuoja Lietuvos Respublikos Vyriausybės ir Tadžikistano Respublikos Vyriausybės susitarimą dėl investicijų skatinimo ir apsaugos, sudarytą 2009 m. vasario 12 d. Vilniuje.
 
 
 

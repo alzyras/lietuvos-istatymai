@@ -45,7 +45,7 @@ Vilnius
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos įstatymą „Dėl ūkinių subjektų piniginių lėšų skolinimo fiziniams bei juridiniams asmenims“ (Žin., 1993, Nr. 31-714); ^s-04f041035ba45a3ac1218df9
+1) Lietuvos Respublikos įstatymą [„Dėl ūkinių subjektų piniginių lėšų skolinimo fiziniams bei juridiniams asmenims“](https://e-tar.lt/portal/lt/legalAct/TAR.3C577FD436E2) (Žin., 1993, Nr. 31-714); ^s-04f041035ba45a3ac1218df9
 
 
 2) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos įstatymo „Dėl ūkinių subjektų piniginių lėšų skolinimo fiziniams bei juridiniams asmenims“ pakeitimo“ (Žin., 1995, Nr. 107-2394). ^s-22c79ef1e64f6a503ed9124b

@@ -84,10 +84,10 @@ Jeigu yra profesinės sąjungos nario prašymas, darbdavys privalo kiekvieną m�
 1) pirmąją, antrąją ir trečiąją dalis išdėstyti taip:
 
 
-„Darbdavys negali atleisti iš darbo savo iniciatyva (išskyrus pagal Darbo sutarties įstatymo 29 straipsnio 1 ir 8 punktus) ir valia darbuotojo – įmonėje veikiančios profesinės sąjungos nario, negavęs tos profesinės sąjungos įmonėje renkamojo organo išankstinio sutikimo.
+„Darbdavys negali atleisti iš darbo savo iniciatyva (išskyrus pagal [Darbo sutarties įstatymo 29 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) [1](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) ir [8](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) punktus) ir valia darbuotojo – įmonėje veikiančios profesinės sąjungos nario, negavęs tos profesinės sąjungos įmonėje renkamojo organo išankstinio sutikimo.
 
 
-Darbuotojai, išrinkti į renkamuosius profesinės sąjungos organus ir nenutraukę su darbdaviu sudarytos darbo sutarties, negali būti atleisti iš darbo darbdavio iniciatyva (išskyrus pagal Darbo sutarties įstatymo 29 straipsnio 1 ir 8 punktus) ir valia ar perkelti į kitą darbą (išskyrus Darbo sutarties įstatymo 24 straipsnio pirmąją dalį), jeigu nėra gauta išankstinio šio profesinės sąjungos renkamojo organo sutikimo.
+Darbuotojai, išrinkti į renkamuosius profesinės sąjungos organus ir nenutraukę su darbdaviu sudarytos darbo sutarties, negali būti atleisti iš darbo darbdavio iniciatyva (išskyrus pagal [Darbo sutarties įstatymo 29 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) [1](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) ir [8](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) punktus) ir valia ar perkelti į kitą darbą (išskyrus [Darbo sutarties įstatymo 24 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pirmąją dalį), jeigu nėra gauta išankstinio šio profesinės sąjungos renkamojo organo sutikimo.
 
 
 Šiems darbuotojams skiriant drausmines nuobaudas taip pat reikalingas išankstinis profesinės sąjungos renkamojo organo sutikimas.“;

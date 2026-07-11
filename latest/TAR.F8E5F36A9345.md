@@ -269,4 +269,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1829, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21850
-Lietuvos Respublikos įstatymo „Dėl Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaracijos“ Nr. VIII-1021 1 ir [[#^s-6100a667c028430bb8530c66|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos įstatymo [„Dėl Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaracijos“](https://e-tar.lt/portal/lt/legalAct/013c4330351611e99595d005d42b863e) Nr. VIII-1021 [[#^s-a6badcad505f938192136c5f|1]] ir [[#^s-6100a667c028430bb8530c66|3]] straipsnių pakeitimo įstatymas

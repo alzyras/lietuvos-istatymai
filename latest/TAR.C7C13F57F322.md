@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-29e0eb6eda936a6ded169678
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2011 m. lapkričio 18 d. dekretą Nr. 1K-863, ratifikuoja Europos vietos savivaldos chartijos papildomą protokolą dėl teisės dalyvauti vietos valdžios reikaluose, pasirašytą 2009 m. lapkričio 17 d. Utrechte.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2011 m. lapkričio 18 d. dekretą Nr. 1K-863](https://e-tar.lt/portal/lt/legalAct/TAR.DB77639B8AE8), ratifikuoja Europos vietos savivaldos chartijos papildomą protokolą dėl teisės dalyvauti vietos valdžios reikaluose, pasirašytą 2009 m. lapkričio 17 d. Utrechte.
 
 
 

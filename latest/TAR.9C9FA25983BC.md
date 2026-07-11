@@ -103,7 +103,7 @@ Nr. XIV-3141, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20379
 ### 3 straipsnis. Specialiųjų tyrimų tarnybos veiklos teisiniai pagrindai ^s-0281021b2b8be31036cb7f70
 
 
-1. Specialiųjų tyrimų tarnyba savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-4be3a8ead9559850fbf22c63
+1. Specialiųjų tyrimų tarnyba savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-4be3a8ead9559850fbf22c63
 
 
 2. Specialiųjų tyrimų tarnyba yra biudžetinė įstaiga, turinti atsiskaitomąją sąskaitą banke, antspaudą su Lietuvos valstybės herbu ir pavadinimu „Lietuvos Respublikos specialiųjų tyrimų tarnyba“, Tarnybos vėliavą ir Tarnybos ženklą. ^s-033c7b2d8a4c4b570369af16
@@ -399,10 +399,10 @@ SKYRIMAS Į TARNYBĄ (DARBĄ) SPECIALIŲJŲ TYRIMŲ TARNYBOJE
 3) jis įstatymų nustatyta tvarka buvo pripažintas kaltu dėl neatsargaus nusikaltimo valstybės tarnybai ir viešiesiems interesams padarymo ir nuo teismo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 7 metai; ^s-d8a5ae592f31be899d10466b
 
 
-4) jis įstatymų nustatyta tvarka buvo pripažintas kaltu dėl nusikaltimo padarymo (išskyrus šios dalies 1, 2 ir [[#^s-d8a5ae592f31be899d10466b|3 punktuose]] nurodytus nusikaltimus) ir nuo teismo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 5 metai arba jeigu jis turi teistumą dėl padaryto kito nusikaltimo; ^s-16e011d863c4934e82171851
+4) jis įstatymų nustatyta tvarka buvo pripažintas kaltu dėl nusikaltimo padarymo (išskyrus šios dalies [[#^s-c83896a73d575615a0c0787d|1]], [[#^s-0ff96b330949538cb9609b9a|2]] ir [[#^s-d8a5ae592f31be899d10466b|3]] punktuose nurodytus nusikaltimus) ir nuo teismo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 5 metai arba jeigu jis turi teistumą dėl padaryto kito nusikaltimo; ^s-16e011d863c4934e82171851
 
 
-5) jis įstatymų nustatyta tvarka buvo pripažintas kaltu dėl baudžiamojo nusižengimo (išskyrus [[#^s-c83896a73d575615a0c0787d|šios dalies 1 punkte]] nurodytas nusikalstamas veikas) padarymo arba atleistas nuo baudžiamosios atsakomybės už baudžiamąjį nusižengimą arba kitas šios dalies 1–[[#^s-16e011d863c4934e82171851|4 punktuose]] numatytas nusikalstamas veikas ir nėra įvykdyta asmeniui paskirta baudžiamojo poveikio priemonė arba nėra suėjęs baudžiamojo poveikio priemonės paskyrimo terminas; ^s-1247f07297f4e82bc149d891
+5) jis įstatymų nustatyta tvarka buvo pripažintas kaltu dėl baudžiamojo nusižengimo (išskyrus [[#^s-c83896a73d575615a0c0787d|šios dalies 1 punkte]] nurodytas nusikalstamas veikas) padarymo arba atleistas nuo baudžiamosios atsakomybės už baudžiamąjį nusižengimą arba kitas šios dalies [[#^s-c83896a73d575615a0c0787d|1]]–[[#^s-16e011d863c4934e82171851|4]] punktuose numatytas nusikalstamas veikas ir nėra įvykdyta asmeniui paskirta baudžiamojo poveikio priemonė arba nėra suėjęs baudžiamojo poveikio priemonės paskyrimo terminas; ^s-1247f07297f4e82bc149d891
 
 
 6) jis yra įstatymų nustatyta tvarka uždraustos organizacijos narys; ^s-e508f9e77243ee8f59ff460a
@@ -592,7 +592,7 @@ Nr. XIV-958, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05381
 3. Sprendimas dėl leidimo dirbti kitą darbą gali būti atšauktas, jeigu atsiranda arba paaiškėja naujų aplinkybių, dėl kurių toks leidimas negalėtų būti išduotas. ^s-d4992ccb19a2788b0395c39b
 
 
-4. Leidimą eiti kitas pareigas taip pat turi gauti pareigūnas, siekiantis būti perkeltas į kitas pareigas šio įstatymo [[#^s-1541b4c6512eb0ecfa23f607|37 straipsnio]] 5 ir 6 dalyse nurodytais atvejais. Jeigu sprendimas dėl leidimo dirbti kitą darbą priimtas dėl pareigūno perkėlimo į kitas pareigas šioje dalyje nurodytais atvejais, leidimas galioja perkėlimo į kitas pareigas laikotarpiu. ^s-9b6a69a9f83e54bb166ed6b0
+4. Leidimą eiti kitas pareigas taip pat turi gauti pareigūnas, siekiantis būti perkeltas į kitas pareigas šio įstatymo [[#^s-1541b4c6512eb0ecfa23f607|37 straipsnio]] [[#^s-90b37ec07cc76dac607959b8|5]] ir [[#^s-b5c21b4408d01f3227226675|6]] dalyse nurodytais atvejais. Jeigu sprendimas dėl leidimo dirbti kitą darbą priimtas dėl pareigūno perkėlimo į kitas pareigas šioje dalyje nurodytais atvejais, leidimas galioja perkėlimo į kitas pareigas laikotarpiu. ^s-9b6a69a9f83e54bb166ed6b0
 
 
 5. Šiame straipsnyje nurodytas leidimas nereikalingas tais atvejais, kai pareigūnas nustatyta tvarka deleguojamas į tarptautines, Europos Sąjungos ar užsienio valstybių institucijas, dalyvauja Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su Tarnybos tikslu ir uždaviniais susijusi veikla, ir dėl šio pareigūno delegavimo ar dalyvavimo yra priimamas Specialiųjų tyrimų tarnybos direktoriaus įsakymas. ^s-32645d6ca438a6052cff9391
@@ -787,7 +787,7 @@ Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
 6. Perkėlus pareigūną į lygiavertes pareigas, jam nustatoma ta pati tarnybos pakopa. ^s-68c8d25019edda9f4ab0fbdf
 
 
-7. Perkėlus pareigūną į žemesnes pareigas šio įstatymo [[#^s-8c8627b27258fff10c788b89|37 straipsnio 4 dalies 4 punkto]] pagrindu, laikoma, kad jam nustatyta ta pati (iki perkėlimo turėta) tarnybos pakopa, tačiau mokamas ne mažesnis kaip iki perkėlimo nustatytas darbo užmokestis. Perkėlus pareigūną į žemesnes pareigas šio įstatymo [[#^s-70368e67ee5b37a5b6239b93|37 straipsnio 4 dalies]] 5 ar 6 punkte nustatytais pagrindais, jam nustatoma ta pati (iki perkėlimo turėta) tarnybos pakopa. Pareigūną perkėlus į žemesnes pareigas kitais pagrindais, jam nustatoma tokia tarnybos pakopa, kad pareiginė alga einant naujas pareigas būtų artimiausia ne mažesnė, negu iki perkėlimo į žemesnes pareigas gauta pareiginė alga. Tuo atveju, kai iki perkėlimo į žemesnes pareigas gauta pareiginė alga atitinka arba viršija didžiausią galimą pareiginę algą, nustatoma šeštoji tarnybos pakopa. ^s-69a3644c4dd12304cbe7ae91
+7. Perkėlus pareigūną į žemesnes pareigas šio įstatymo [[#^s-8c8627b27258fff10c788b89|37 straipsnio 4 dalies 4 punkto]] pagrindu, laikoma, kad jam nustatyta ta pati (iki perkėlimo turėta) tarnybos pakopa, tačiau mokamas ne mažesnis kaip iki perkėlimo nustatytas darbo užmokestis. Perkėlus pareigūną į žemesnes pareigas šio įstatymo [[#^s-70368e67ee5b37a5b6239b93|37 straipsnio 4 dalies]] [[#^s-e6dc983159f74a12e415dbfe|5]] ar [[#^s-6c67a674ad16c6bc78a3491f|6]] punkte nustatytais pagrindais, jam nustatoma ta pati (iki perkėlimo turėta) tarnybos pakopa. Pareigūną perkėlus į žemesnes pareigas kitais pagrindais, jam nustatoma tokia tarnybos pakopa, kad pareiginė alga einant naujas pareigas būtų artimiausia ne mažesnė, negu iki perkėlimo į žemesnes pareigas gauta pareiginė alga. Tuo atveju, kai iki perkėlimo į žemesnes pareigas gauta pareiginė alga atitinka arba viršija didžiausią galimą pareiginę algą, nustatoma šeštoji tarnybos pakopa. ^s-69a3644c4dd12304cbe7ae91
 
 
 8. Tarnybos pakopa nustatoma Specialiųjų tyrimų tarnybos direktoriaus įsakymu. ^s-4f4e7665188fdd2834edccaa
@@ -888,7 +888,7 @@ Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
 ### 33 straipsnis. Tarnybos stažas ^s-7bd4be7f1a8cf643da830090
 
 
-Šiame įstatyme nurodytą tarnybos stažą, apskaičiuojamą kasmetinių atostogų trukmei, šio įstatymo [[#^s-59d5e98a91d1e6b45a8c65d6|51 straipsnio 1 dalies 2 punkte]] nurodytam priedui ir šio įstatymo [[#^s-e3c6525524c16b0ff25f38d3|60 straipsnio 3 dalyje]] numatytos išeitinės išmokos dydžiui nustatyti, sudaro Lietuvos valstybei ištarnauti metai, nurodyti [[latest/TAR.D3ED3792F52B#^s-671618a8a051df204e18578f|Valstybės tarnybos įstatymo 31 straipsnio]] 1 ir 2 dalyse.
+Šiame įstatyme nurodytą tarnybos stažą, apskaičiuojamą kasmetinių atostogų trukmei, šio įstatymo [[#^s-59d5e98a91d1e6b45a8c65d6|51 straipsnio 1 dalies 2 punkte]] nurodytam priedui ir šio įstatymo [[#^s-e3c6525524c16b0ff25f38d3|60 straipsnio 3 dalyje]] numatytos išeitinės išmokos dydžiui nustatyti, sudaro Lietuvos valstybei ištarnauti metai, nurodyti [[latest/TAR.D3ED3792F52B#^s-671618a8a051df204e18578f|Valstybės tarnybos įstatymo 31 straipsnio]] [[latest/TAR.D3ED3792F52B#^s-23a99f700b9d723bd641c71f|1]] ir [[latest/TAR.D3ED3792F52B#^s-7fb01d06b9dd485508d140df|2]] dalyse.
 
 
 Straipsnio pakeitimai:
@@ -1012,10 +1012,10 @@ PERKĖLIMAS Į KITAS PAREIGAS, NUŠALINIMAS NUO PAREIGŲ, ATLEIDIMAS IŠ TARNYBO
 6. Atsižvelgiant į teisės aktus, reglamentuojančius delegavimą į tarptautines institucijas ir užsienio valstybių institucijas, pareigūnas savo rašytiniu sutikimu taip pat gali būti laikinai perkeltas į pareigas tarptautinėje institucijoje ar užsienio valstybės institucijoje. ^s-b5c21b4408d01f3227226675
 
 
-7. Į šio straipsnio 5 ar [[#^s-b5c21b4408d01f3227226675|6 dalyje]] nurodytas pareigas perkeltas pareigūnas jas gali eiti ne ilgiau kaip 3 metus, jeigu tarptautinė sutartis ar Europos Sąjungos teisės aktai nenustato kitaip. ^s-dd37ab61386108d7db81cf4b
+7. Į šio straipsnio [[#^s-90b37ec07cc76dac607959b8|5]] ar [[#^s-b5c21b4408d01f3227226675|6]] dalyje nurodytas pareigas perkeltas pareigūnas jas gali eiti ne ilgiau kaip 3 metus, jeigu tarptautinė sutartis ar Europos Sąjungos teisės aktai nenustato kitaip. ^s-dd37ab61386108d7db81cf4b
 
 
-8. Pasibaigus perkėlimo laikui pagal šio straipsnio 5 ar [[#^s-b5c21b4408d01f3227226675|6 dalį]], pareigūnui garantuojamos iki perkėlimo eitos pareigos. Pareigūnų perkėlimo į šiame straipsnyje nurodytas pareigas ir atšaukimo iš jų tvarką, socialinių garantijų tarnybos užsienyje metu ypatumus nustato įstatymai ir kiti teisės aktai. ^s-b2d737a12ad4347a0f1aa399
+8. Pasibaigus perkėlimo laikui pagal šio straipsnio [[#^s-90b37ec07cc76dac607959b8|5]] ar [[#^s-b5c21b4408d01f3227226675|6]] dalį, pareigūnui garantuojamos iki perkėlimo eitos pareigos. Pareigūnų perkėlimo į šiame straipsnyje nurodytas pareigas ir atšaukimo iš jų tvarką, socialinių garantijų tarnybos užsienyje metu ypatumus nustato įstatymai ir kiti teisės aktai. ^s-b2d737a12ad4347a0f1aa399
 
 
 9. Pareigūnas į kitas pareigas taip pat gali būti perkeliamas kitų įstatymų nustatytais atvejais. ^s-982a5a6ca6547960df7a17d6
@@ -1148,7 +1148,7 @@ PERKĖLIMAS Į KITAS PAREIGAS, NUŠALINIMAS NUO PAREIGŲ, ATLEIDIMAS IŠ TARNYBO
 ### 41 straipsnis. Pareigūno atleidimas iš tarnybos jam atsistatydinus savo noru ^s-3f2777dbb7a12581a92f9a56
 
 
-1. Pareigūnas turi teisę atsistatydinti savo noru (šio įstatymo [[#^s-c527cc10f3622f38907cba5f|40 straipsnio 1 dalies]] 1 ir 14 punktai), apie tai ne vėliau kaip prieš 14 kalendorinių dienų raštu įspėjęs Specialiųjų tyrimų tarnybos direktorių. Jeigu Specialiųjų tyrimų tarnybos direktorius sutinka, tarnyba gali būti nutraukta ir anksčiau negu po 14 kalendorinių dienų. ^s-6f70c7eb6896f6c760cdd0c5
+1. Pareigūnas turi teisę atsistatydinti savo noru (šio įstatymo [[#^s-c527cc10f3622f38907cba5f|40 straipsnio 1 dalies]] [[#^s-3d93765d13b075bbb226c6ba|1]] ir [[#^s-6c072bc7af6ae2a58ffbbe57|14]] punktai), apie tai ne vėliau kaip prieš 14 kalendorinių dienų raštu įspėjęs Specialiųjų tyrimų tarnybos direktorių. Jeigu Specialiųjų tyrimų tarnybos direktorius sutinka, tarnyba gali būti nutraukta ir anksčiau negu po 14 kalendorinių dienų. ^s-6f70c7eb6896f6c760cdd0c5
 
 
 2. Jeigu prašymas atleisti iš tarnybos pagrįstas pareigūno liga ar neįgalumu, trukdančiais tinkamai atlikti tarnybines pareigas, jis turi būti patenkintas kitą darbo dieną nuo prašymo padavimo dienos. ^s-0380fbceb44ac57c25517900
@@ -1161,7 +1161,7 @@ PERKĖLIMAS Į KITAS PAREIGAS, NUŠALINIMAS NUO PAREIGŲ, ATLEIDIMAS IŠ TARNYBO
 ### 42 straipsnis. Reikalavimai atleidžiant iš tarnybos kitais atvejais ^s-cc5966249ec92f26bc260543
 
 
-1. Negalima atleisti pareigūno iš tarnybos jo laikinojo nedarbingumo laikotarpiu ar per atostogas, išskyrus atleidimą pagal šio įstatymo [[#^s-c527cc10f3622f38907cba5f|40 straipsnio 1 dalies]] 1, 2, 3, 5, 6, 8, 10, 11, 13 punktus ir [[#^s-8f67ed6208d46fc86c38954a|2 dalies]] 1, 4 punktus. Jeigu pareigūnas yra atleistas iš tarnybos pažeidžiant šią nuostatą, jo atleidimo diena laikoma kita po atostogų ar kita po laikinojo nedarbingumo pasibaigimo tarnybos diena. ^s-debaf3d72badc6edf9e10990
+1. Negalima atleisti pareigūno iš tarnybos jo laikinojo nedarbingumo laikotarpiu ar per atostogas, išskyrus atleidimą pagal šio įstatymo [[#^s-c527cc10f3622f38907cba5f|40 straipsnio 1 dalies]] [[#^s-3d93765d13b075bbb226c6ba|1]], [[#^s-9791d6dcd5a5af6c7e12b2c4|2]], [[#^s-364c0076b0cd1aac39737c71|3]], [[#^s-bd138041d9bf28c88dabc548|5]], [[#^s-0b1ac474b042aca2c99ece2b|6]], [[#^s-05dd374929edd64d8df0d5e8|8]], [[#^s-a647f101c36fd97beb2eaeb3|10]], [[#^s-774747f261bd9f59a26a2712|11]], [[#^s-5a414451ac04e05d327e60e0|13]] punktus ir [[#^s-8f67ed6208d46fc86c38954a|2 dalies]] [[#^s-3d93765d13b075bbb226c6ba|1]], [[#^s-91b47d5a7605b6c2c25bc78f|4]] punktus. Jeigu pareigūnas yra atleistas iš tarnybos pažeidžiant šią nuostatą, jo atleidimo diena laikoma kita po atostogų ar kita po laikinojo nedarbingumo pasibaigimo tarnybos diena. ^s-debaf3d72badc6edf9e10990
 
 
 2. Negalima atleisti iš tarnybos nėščios pareigūnės, taip pat pareigūno, auginančio vaiką (vaikus) iki 3 metų, jeigu šių pareigūnų veiksmuose nėra kaltės. ^s-8f67ed6208d46fc86c38954a
@@ -1170,7 +1170,7 @@ PERKĖLIMAS Į KITAS PAREIGAS, NUŠALINIMAS NUO PAREIGŲ, ATLEIDIMAS IŠ TARNYBO
 3. Atleisti pareigūną iš tarnybos pagal šio įstatymo [[#^s-e27f34c1ac15211f5cd08543|40 straipsnio 2 dalies 2 punktą]] galima tik įspėjus jį raštu prieš 2 mėnesius. Pareigūnui, auginančiam vaiką (vaikus) iki 14 metų, taip pat pareigūnui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko ne daugiau kaip 5 metai, apie numatomą atleidimą iš tarnybos turi būti pranešta raštu prieš 4 mėnesius. Jeigu pareigūnas atleidžiamas iš tarnybos nepasibaigus įspėjimo laikui, jo atleidimo data perkeliama iki to laiko, kada turėjo pasibaigti įspėjimo terminas. ^s-cad8302ef55b75d46f796e1a
 
 
-4. Atleisti pareigūną iš tarnybos pagal šio įstatymo [[#^s-0b1ac474b042aca2c99ece2b|40 straipsnio 1 dalies 6 punktą]], [[#^s-8f67ed6208d46fc86c38954a|2 dalies]] 2, 3 ir 4 punktus galima tik tuo atveju, jeigu nėra galimybės pareigūno sutikimu jį perkelti į lygiavertes arba žemesnes pareigas. ^s-b95c4855c347aad130795236
+4. Atleisti pareigūną iš tarnybos pagal šio įstatymo [[#^s-0b1ac474b042aca2c99ece2b|40 straipsnio 1 dalies 6 punktą]], [[#^s-8f67ed6208d46fc86c38954a|2 dalies]] [[#^s-9791d6dcd5a5af6c7e12b2c4|2]], [[#^s-364c0076b0cd1aac39737c71|3]] ir [[#^s-91b47d5a7605b6c2c25bc78f|4]] punktus galima tik tuo atveju, jeigu nėra galimybės pareigūno sutikimu jį perkelti į lygiavertes arba žemesnes pareigas. ^s-b95c4855c347aad130795236
 
 
 5. Atleisti pareigūną iš tarnybos pagal šio įstatymo [[#^s-59d15b3a7485f2b5fe9f3f55|40 straipsnio 2 dalies 5 punktą]] galima tik tuo atveju, jeigu jam pasiūlomos kitos laisvos lygiavertės pareigos, o jeigu jų nėra arba pareigūnas nesutinka būti perkeltas į jas, – žemesnės pareigos, ir pareigūnas nesutinka būti perkeltas į jas. ^s-8731b4bfd74fd590d1f0f990
@@ -1249,7 +1249,7 @@ PERKĖLIMAS Į KITAS PAREIGAS, NUŠALINIMAS NUO PAREIGŲ, ATLEIDIMAS IŠ TARNYBO
 2. Pareigūno statusas atkuriamas per 3 mėnesius nuo darbo tarptautinėje institucijoje, Europos Sąjungos ar užsienio valstybės institucijoje pabaigos arba per 3 mėnesius po sutuoktinio perkėlimo, paskyrimo ar išrinkimo dirbti užsienyje laikotarpio pabaigos, arba per 3 mėnesius nuo prašymo atkurti pareigūno statusą pateikimo dienos, jeigu toks prašymas pateikiamas nepasibaigus sutuoktinio perkėlimo, paskyrimo ar išrinkimo dirbti užsienyje laikotarpiui. ^s-9d5620ba5f2194688b656357
 
 
-3. Pareigūno statusas atkuriamas, jeigu jį atkurti siekiantis asmuo atitinka šio įstatymo 17 ir [[#^s-7ce46d54ae90f83ff0be2a4a|18 straipsniuose]] nustatytus reikalavimus. ^s-5752fd434e5a7dc5cdad6aba
+3. Pareigūno statusas atkuriamas, jeigu jį atkurti siekiantis asmuo atitinka šio įstatymo [[#^s-b4fbaf75cdeed9470232a804|17]] ir [[#^s-7ce46d54ae90f83ff0be2a4a|18]] straipsniuose nustatytus reikalavimus. ^s-5752fd434e5a7dc5cdad6aba
 
 
 
@@ -1491,7 +1491,7 @@ Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
 5. Už viršvalandinį darbą mokamas pusantro pareigūno darbo užmokesčio dydžio užmokestis. Už viršvalandinį darbą poilsio dieną, kuri nenustatyta pagal darbo (pamainos) grafiką, ar viršvalandinį darbą naktį mokamas dvigubas pareigūno darbo užmokestis, o už viršvalandinį darbą švenčių dieną du su puse pareigūno darbo užmokesčio dydžio užmokestis. ^s-7157efe69c3772b4cfa6273d
 
 
-6. Pareigūno prašymu darbo poilsio ar švenčių dienomis laikas ar viršvalandinio darbo laikas, padauginti iš šio straipsnio 2–[[#^s-7157efe69c3772b4cfa6273d|5 dalyse]] nustatyto atitinkamo darbo užmokesčio dydžio, gali būti pridedami prie kasmetinių atostogų laiko. ^s-ee971f58e8867219c41c13ca
+6. Pareigūno prašymu darbo poilsio ar švenčių dienomis laikas ar viršvalandinio darbo laikas, padauginti iš šio straipsnio [[#^s-c084a7b4abf2c35ad9ec8ac3|2]]–[[#^s-7157efe69c3772b4cfa6273d|5]] dalyse nustatyto atitinkamo darbo užmokesčio dydžio, gali būti pridedami prie kasmetinių atostogų laiko. ^s-ee971f58e8867219c41c13ca
 
 
 7. Nėščioms pareigūnėms, neseniai pagimdžiusioms pareigūnėms ir krūtimi maitinančioms pareigūnėms, pareigūnams, auginantiems vaiką iki 3 metų, pareigūnams, vieniems auginantiems vaiką iki 14 metų arba neįgalų vaiką iki 18 metų, ir pareigūnams, slaugantiems neįgalų asmenį, galima pavesti dirbti viršvalandinį darbą tik gavus jų rašytinį sutikimą. ^s-8f6852621b55c300f86e3340
@@ -1598,16 +1598,16 @@ Nr. XIV-958, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05381
 
 
 1. Pareigūnui žuvus dėl tarnybos, jo šeimai – sutuoktiniui ar partneriui (kai partnerystė įregistruota įstatymų nustatyta tvarka), vaikams (įvaikiams) iki 18 metų, taip pat vyresniems vaikams (įvaikiams), jeigu jie mokosi įregistruotose bendrojo ugdymo mokyklose ir profesinio mokymo įstaigose pagal bendrojo ugdymo ir profesinio mokymo programas grupinio mokymosi forma kasdieniu, neakivaizdiniu ir nuotoliniu mokymo proceso organizavimo būdais, pavienio mokymosi forma savarankišku ir nuotoliniu mokymo proceso organizavimo būdais ir aukštojoje mokykloje pagal nuolatinę studijų formą, iki jiems sukaks 24 metai, žuvusiojo vaikams, gimusiems po jo mirties, tėvui ar motinai – ir nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą, per vienus metus nuo pareigūno mirties lygiomis dalimis išmokama 93,10 mėnesio vidutinio darbo užmokesčio dydžio vienkartinė kompensacija, sumažinta priklausančios išmokėti [[latest/TAR.4325B0C38B2F|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme]] nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu. Pareigūnas, žuvęs dėl tarnybos, laidojamas valstybės lėšomis. ^s-15449e52fc86aa11ab86d7ac
-TAR pastaba. [[#^s-d6b5ba93698350f0a6c22ef3|59 straipsnio]] 1, 2 ir [[#^s-ccb8a21b03cb094aa668d02e|3 dalyse]] nurodytos kompensacijos, kurios paskirtos iki [[latest/8842bf9002b611e9a5eaf2cd290f1944|įstatymo Nr. XIII-1738]] įsigaliojimo (2019-01-01) ir kurias mokėti numatoma po šio įstatymo įsigaliojimo, neperskaičiuojamos pagal nurodytose dalyse nustatytus kompensacijų dydžius ir mokamos ne mažesnės, negu turėjo būti mokamos iki šio įstatymo įsigaliojimo.
-Kai į laikotarpį, reikalingą po šio įstatymo įsigaliojimo skiriamoms kompensacijoms, nurodytoms [[#^s-d6b5ba93698350f0a6c22ef3|59 straipsnio]] 1, 2 ir [[#^s-ccb8a21b03cb094aa668d02e|3 dalyse]], apskaičiuoti, patenka pareigūno draudžiamųjų pajamų laikotarpiai iki šio įstatymo įsigaliojimo, apskaičiuojant šių kompensacijų dydį, pareigūno draudžiamosios pajamos, buvusios tuo laikotarpiu iki šio įstatymo įsigaliojimo, didinamos 1,289 karto.
+TAR pastaba. [[#^s-d6b5ba93698350f0a6c22ef3|59 straipsnio]] 1, [[#^s-a557eff6f3ed6be4cbd70ca9|2]] ir [[#^s-ccb8a21b03cb094aa668d02e|3]] dalyse nurodytos kompensacijos, kurios paskirtos iki [[latest/8842bf9002b611e9a5eaf2cd290f1944|įstatymo Nr. XIII-1738]] įsigaliojimo (2019-01-01) ir kurias mokėti numatoma po šio įstatymo įsigaliojimo, neperskaičiuojamos pagal nurodytose dalyse nustatytus kompensacijų dydžius ir mokamos ne mažesnės, negu turėjo būti mokamos iki šio įstatymo įsigaliojimo.
+Kai į laikotarpį, reikalingą po šio įstatymo įsigaliojimo skiriamoms kompensacijoms, nurodytoms [[#^s-d6b5ba93698350f0a6c22ef3|59 straipsnio]] 1, [[#^s-a557eff6f3ed6be4cbd70ca9|2]] ir [[#^s-ccb8a21b03cb094aa668d02e|3]] dalyse, apskaičiuoti, patenka pareigūno draudžiamųjų pajamų laikotarpiai iki šio įstatymo įsigaliojimo, apskaičiuojant šių kompensacijų dydį, pareigūno draudžiamosios pajamos, buvusios tuo laikotarpiu iki šio įstatymo įsigaliojimo, didinamos 1,289 karto.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1738, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20706
 
 
 
 2. Pareigūną pripažinus nežinia kur esančiu ar paskelbus žuvusiu, laikoma, kad jis yra pripažintas nežinia kur esančiu ar paskelbtas žuvusiu dėl tarnybos, jeigu neįrodyta kitaip, ir jo šeimai bei nedarbingiems asmenims, kurie buvo jo išlaikomi arba nurodytą dieną turėjo teisę gauti jo išlaikymą, nuo pareigūno pripažinimo nežinia kur esančiu ar jo paskelbimo žuvusiu dienos kas mėnesį lygiomis dalimis mokama jo vidutinio darbo užmokesčio kompensacija, neviršijant 93,10 mėnesio vidutinio darbo užmokesčio dydžio sumos. ^s-a557eff6f3ed6be4cbd70ca9
-TAR pastaba. [[#^s-d6b5ba93698350f0a6c22ef3|59 straipsnio]] 1, 2 ir [[#^s-ccb8a21b03cb094aa668d02e|3 dalyse]] nurodytos kompensacijos, kurios paskirtos iki [[latest/8842bf9002b611e9a5eaf2cd290f1944|įstatymo Nr. XIII-1738]] įsigaliojimo (2019-01-01) ir kurias mokėti numatoma po šio įstatymo įsigaliojimo, neperskaičiuojamos pagal nurodytose dalyse nustatytus kompensacijų dydžius ir mokamos ne mažesnės, negu turėjo būti mokamos iki šio įstatymo įsigaliojimo.
-Kai į laikotarpį, reikalingą po šio įstatymo įsigaliojimo skiriamoms kompensacijoms, nurodytoms [[#^s-d6b5ba93698350f0a6c22ef3|59 straipsnio]] 1, 2 ir [[#^s-ccb8a21b03cb094aa668d02e|3 dalyse]], apskaičiuoti, patenka pareigūno draudžiamųjų pajamų laikotarpiai iki šio įstatymo įsigaliojimo, apskaičiuojant šių kompensacijų dydį, pareigūno draudžiamosios pajamos, buvusios tuo laikotarpiu iki šio įstatymo įsigaliojimo, didinamos 1,289 karto.
+TAR pastaba. [[#^s-d6b5ba93698350f0a6c22ef3|59 straipsnio]] [[#^s-15449e52fc86aa11ab86d7ac|1]], 2 ir [[#^s-ccb8a21b03cb094aa668d02e|3]] dalyse nurodytos kompensacijos, kurios paskirtos iki [[latest/8842bf9002b611e9a5eaf2cd290f1944|įstatymo Nr. XIII-1738]] įsigaliojimo (2019-01-01) ir kurias mokėti numatoma po šio įstatymo įsigaliojimo, neperskaičiuojamos pagal nurodytose dalyse nustatytus kompensacijų dydžius ir mokamos ne mažesnės, negu turėjo būti mokamos iki šio įstatymo įsigaliojimo.
+Kai į laikotarpį, reikalingą po šio įstatymo įsigaliojimo skiriamoms kompensacijoms, nurodytoms [[#^s-d6b5ba93698350f0a6c22ef3|59 straipsnio]] [[#^s-15449e52fc86aa11ab86d7ac|1]], 2 ir [[#^s-ccb8a21b03cb094aa668d02e|3]] dalyse, apskaičiuoti, patenka pareigūno draudžiamųjų pajamų laikotarpiai iki šio įstatymo įsigaliojimo, apskaičiuojant šių kompensacijų dydį, pareigūno draudžiamosios pajamos, buvusios tuo laikotarpiu iki šio įstatymo įsigaliojimo, didinamos 1,289 karto.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1738, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20706
 
@@ -1635,8 +1635,8 @@ Nr. XIII-1738, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20706
 
 
 7) lengvo sveikatos sutrikdymo atveju – nuo 0,78 iki 9,31 mėnesio vidutinio darbo užmokesčio dydžio. ^s-4af7a2ed58df974938597d69
-TAR pastaba. [[#^s-d6b5ba93698350f0a6c22ef3|59 straipsnio]] 1, 2 ir [[#^s-ccb8a21b03cb094aa668d02e|3 dalyse]] nurodytos kompensacijos, kurios paskirtos iki [[latest/8842bf9002b611e9a5eaf2cd290f1944|įstatymo Nr. XIII-1738]] įsigaliojimo (2019-01-01) ir kurias mokėti numatoma po šio įstatymo įsigaliojimo, neperskaičiuojamos pagal nurodytose dalyse nustatytus kompensacijų dydžius ir mokamos ne mažesnės, negu turėjo būti mokamos iki šio įstatymo įsigaliojimo.
-Kai į laikotarpį, reikalingą po šio įstatymo įsigaliojimo skiriamoms kompensacijoms, nurodytoms [[#^s-d6b5ba93698350f0a6c22ef3|59 straipsnio]] 1, 2 ir [[#^s-ccb8a21b03cb094aa668d02e|3 dalyse]], apskaičiuoti, patenka pareigūno draudžiamųjų pajamų laikotarpiai iki šio įstatymo įsigaliojimo, apskaičiuojant šių kompensacijų dydį, pareigūno draudžiamosios pajamos, buvusios tuo laikotarpiu iki šio įstatymo įsigaliojimo, didinamos 1,289 karto.
+TAR pastaba. [[#^s-d6b5ba93698350f0a6c22ef3|59 straipsnio]] [[#^s-15449e52fc86aa11ab86d7ac|1]], [[#^s-a557eff6f3ed6be4cbd70ca9|2]] ir [[#^s-ccb8a21b03cb094aa668d02e|3]] dalyse nurodytos kompensacijos, kurios paskirtos iki [[latest/8842bf9002b611e9a5eaf2cd290f1944|įstatymo Nr. XIII-1738]] įsigaliojimo (2019-01-01) ir kurias mokėti numatoma po šio įstatymo įsigaliojimo, neperskaičiuojamos pagal nurodytose dalyse nustatytus kompensacijų dydžius ir mokamos ne mažesnės, negu turėjo būti mokamos iki šio įstatymo įsigaliojimo.
+Kai į laikotarpį, reikalingą po šio įstatymo įsigaliojimo skiriamoms kompensacijoms, nurodytoms [[#^s-d6b5ba93698350f0a6c22ef3|59 straipsnio]] [[#^s-15449e52fc86aa11ab86d7ac|1]], [[#^s-a557eff6f3ed6be4cbd70ca9|2]] ir [[#^s-ccb8a21b03cb094aa668d02e|3]] dalyse, apskaičiuoti, patenka pareigūno draudžiamųjų pajamų laikotarpiai iki šio įstatymo įsigaliojimo, apskaičiuojant šių kompensacijų dydį, pareigūno draudžiamosios pajamos, buvusios tuo laikotarpiu iki šio įstatymo įsigaliojimo, didinamos 1,289 karto.
 
 
 Straipsnio dalies pakeitimai:
@@ -1653,7 +1653,7 @@ Nr. XIII-1738, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20706
 6. Pareigūnui, keičiančiam gyvenamąją vietą dėl perkėlimo į kitas pareigas (išskyrus atvejus, kai tarnybos vieta keičiama pareigūno prašymu) ar laikino pavedimo atlikti kitas pareigas kitoje gyvenamojoje vietovėje, išmokama vieno mėnesio vidutinio darbo užmokesčio dydžio vienkartinė pašalpa. ^s-5db55c88e4a2f628080f3358
 
 
-7. Pareigūnui, pakeitusiam gyvenamąją vietą dėl perkėlimo į aukštesnes arba lygiavertes pareigas (išskyrus atvejus, kai tarnybos vieta keičiama pareigūno prašymu), taip pat pareigūnui, pakeitusiam gyvenamąją vietą dėl perkėlimo į žemesnes pareigas šio įstatymo [[#^s-70368e67ee5b37a5b6239b93|37 straipsnio 4 dalies]] 4 ir 7 punktuose nurodytais pagrindais ar dėl laikino pavedimo atlikti kitas pareigas kitoje gyvenamojoje vietovėje, jų prašymu Vyriausybės nustatyta tvarka gali būti kompensuojamos gyvenamųjų patalpų nuomos išlaidos ar jų dalis. Šios išlaidos kompensuojamos, jeigu pareigūnas, jo sutuoktinis ar partneris (kai partnerystė įregistruota įstatymų nustatyta tvarka), nepilnamečiai vaikai (įvaikiai) pareigūno tarnybos atlikimo vietoje neturi ir per pastaruosius 5 metus neturėjo nuosavybės teise priklausančios gyvenamosios patalpos, atitinkančios techninius ir sanitarinius reikalavimus. ^s-9287cbcb4609858572ef7c6a
+7. Pareigūnui, pakeitusiam gyvenamąją vietą dėl perkėlimo į aukštesnes arba lygiavertes pareigas (išskyrus atvejus, kai tarnybos vieta keičiama pareigūno prašymu), taip pat pareigūnui, pakeitusiam gyvenamąją vietą dėl perkėlimo į žemesnes pareigas šio įstatymo [[#^s-70368e67ee5b37a5b6239b93|37 straipsnio 4 dalies]] [[#^s-8c8627b27258fff10c788b89|4]] ir [[#^s-24cf894b04e5e1e244fcb4bd|7]] punktuose nurodytais pagrindais ar dėl laikino pavedimo atlikti kitas pareigas kitoje gyvenamojoje vietovėje, jų prašymu Vyriausybės nustatyta tvarka gali būti kompensuojamos gyvenamųjų patalpų nuomos išlaidos ar jų dalis. Šios išlaidos kompensuojamos, jeigu pareigūnas, jo sutuoktinis ar partneris (kai partnerystė įregistruota įstatymų nustatyta tvarka), nepilnamečiai vaikai (įvaikiai) pareigūno tarnybos atlikimo vietoje neturi ir per pastaruosius 5 metus neturėjo nuosavybės teise priklausančios gyvenamosios patalpos, atitinkančios techninius ir sanitarinius reikalavimus. ^s-9287cbcb4609858572ef7c6a
 
 
 8. [[#^s-9287cbcb4609858572ef7c6a|Šio straipsnio 7 dalyje]] nustatytomis sąlygomis gyvenamųjų patalpų nuomos išlaidos kompensuojamos: ^s-671cc21ed0303380f3206e44
@@ -1671,7 +1671,7 @@ Nr. XIII-1738, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20706
 9. Vyriausybės nustatyta tvarka pareigūnams, jų šeimos nariams atlyginama materialinė žala, atsiradusi jiems nukentėjus dėl priežasčių, susijusių su pareigūno tarnyba. ^s-c002c5cb036123073ea42765
 
 
-10. Šio straipsnio 1 ir [[#^s-ccb8a21b03cb094aa668d02e|3 dalyse]] nustatytos kompensacijos nemokamos, jeigu: ^s-c46270a6f44c9b957a4fd4f1
+10. Šio straipsnio [[#^s-15449e52fc86aa11ab86d7ac|1]] ir [[#^s-ccb8a21b03cb094aa668d02e|3]] dalyse nustatytos kompensacijos nemokamos, jeigu: ^s-c46270a6f44c9b957a4fd4f1
 
 
 1) pareigūnas žuvo, susižalojo darydamas tyčinį nusikaltimą ar tyčinį baudžiamąjį nusižengimą arba pareigūnas buvo sužalotas ar jo sveikata buvo sutrikdyta jam darant tyčinį nusikaltimą ar tyčinį baudžiamąjį nusižengimą; ^s-650fbb7ec1676b7f493f79ff
@@ -1696,10 +1696,10 @@ Nr. XIII-1738, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20706
 ### 60 straipsnis. Išeitinės išmokos pareigūnams, atleidžiamiems iš tarnybos Specialiųjų tyrimų tarnyboje ^s-77f2a68132af683b63bc7df4
 
 
-1. Atleidžiant pareigūnus iš tarnybos Specialiųjų tyrimų tarnyboje šio įstatymo [[#^s-c6101179cb14e3c7153c38a0|13 straipsnio 1 dalies]] 4 ar 7 punkte, [[#^s-c527cc10f3622f38907cba5f|40 straipsnio 1 dalies]] 6 ar 15 punkte, [[#^s-4e7e0eb8a49d93adb1b59837|2 dalies]] 1, 2, 3 ar 5 punkte nustatytais pagrindais, išmokama 2 mėnesių jų vidutinio darbo užmokesčio dydžio išeitinė išmoka. Šio įstatymo [[#^s-99bc604515328e8d74225ae1|13 straipsnio 1 dalies 1 punkte]] nustatytu pagrindu atleidžiamiems iš pareigų pareigūnams, kurie atsistatydina savo noru dėl socialinio draudimo senatvės pensijos amžiaus sukakties, išmokama 2 mėnesių jų vidutinio darbo užmokesčio dydžio išeitinė išmoka. ^s-48a91e6be04c2f2db34c2e94
+1. Atleidžiant pareigūnus iš tarnybos Specialiųjų tyrimų tarnyboje šio įstatymo [[#^s-c6101179cb14e3c7153c38a0|13 straipsnio 1 dalies]] [[#^s-abd9166558fcf811f6004d8c|4]] ar [[#^s-a7448f8d3c46dbf1ee523f8d|7]] punkte, [[#^s-c527cc10f3622f38907cba5f|40 straipsnio 1 dalies]] [[#^s-0b1ac474b042aca2c99ece2b|6]] ar [[#^s-bc3c1902b7756d84e32d05d1|15]] punkte, [[#^s-4e7e0eb8a49d93adb1b59837|2 dalies]] [[#^s-3d93765d13b075bbb226c6ba|1]], [[#^s-9791d6dcd5a5af6c7e12b2c4|2]], [[#^s-364c0076b0cd1aac39737c71|3]] ar [[#^s-bd138041d9bf28c88dabc548|5]] punkte nustatytais pagrindais, išmokama 2 mėnesių jų vidutinio darbo užmokesčio dydžio išeitinė išmoka. Šio įstatymo [[#^s-99bc604515328e8d74225ae1|13 straipsnio 1 dalies 1 punkte]] nustatytu pagrindu atleidžiamiems iš pareigų pareigūnams, kurie atsistatydina savo noru dėl socialinio draudimo senatvės pensijos amžiaus sukakties, išmokama 2 mėnesių jų vidutinio darbo užmokesčio dydžio išeitinė išmoka. ^s-48a91e6be04c2f2db34c2e94
 
 
-2. [[#^s-48a91e6be04c2f2db34c2e94|Šio straipsnio 1 dalyje]] nustatyta išeitinė išmoka, išskyrus išeitinę išmoką, mokėtiną atleidžiant pareigūną šio įstatymo [[#^s-99bc604515328e8d74225ae1|13 straipsnio 1 dalies 1 punkte]] (dėl socialinio draudimo senatvės pensijos amžiaus sukakties), 4 punkte, [[#^s-c527cc10f3622f38907cba5f|40 straipsnio 1 dalies]] 6 ar 15 punkte ir 2 dalies 1 punkte nustatytais pagrindais, pradedama mokėti praėjus vienam mėnesiui nuo pareigūno atleidimo dienos ir mokama kas mėnesį lygiomis dalimis, bet kiekviena šių dalių turi būti ne mažesnė negu vieno mėnesio jo gauto vidutinio darbo užmokesčio dydžio. Išeitinės išmokos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ar priimamas į darbą įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke. Jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ne pirmą mėnesio dieną, [[#^s-48a91e6be04c2f2db34c2e94|šio straipsnio 1 dalyje]] nustatyta išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos. ^s-4e7e0eb8a49d93adb1b59837
+2. [[#^s-48a91e6be04c2f2db34c2e94|Šio straipsnio 1 dalyje]] nustatyta išeitinė išmoka, išskyrus išeitinę išmoką, mokėtiną atleidžiant pareigūną šio įstatymo [[#^s-99bc604515328e8d74225ae1|13 straipsnio 1 dalies 1 punkte]] (dėl socialinio draudimo senatvės pensijos amžiaus sukakties), 4 punkte, [[#^s-c527cc10f3622f38907cba5f|40 straipsnio 1 dalies]] [[#^s-0b1ac474b042aca2c99ece2b|6]] ar [[#^s-bc3c1902b7756d84e32d05d1|15]] punkte ir 2 dalies 1 punkte nustatytais pagrindais, pradedama mokėti praėjus vienam mėnesiui nuo pareigūno atleidimo dienos ir mokama kas mėnesį lygiomis dalimis, bet kiekviena šių dalių turi būti ne mažesnė negu vieno mėnesio jo gauto vidutinio darbo užmokesčio dydžio. Išeitinės išmokos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ar priimamas į darbą įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke. Jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ne pirmą mėnesio dieną, [[#^s-48a91e6be04c2f2db34c2e94|šio straipsnio 1 dalyje]] nustatyta išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos. ^s-4e7e0eb8a49d93adb1b59837
 
 
 3. [[#^s-48a91e6be04c2f2db34c2e94|Šio straipsnio 1 dalyje]] nustatyto dydžio išeitinė išmoka, išskyrus išeitinę išmoką, mokėtiną atleidžiant pareigūnus šio įstatymo [[#^s-99bc604515328e8d74225ae1|13 straipsnio 1 dalies 1 punkte]] (dėl socialinio draudimo senatvės pensijos amžiaus sukakties) ar [[#^s-bc3c1902b7756d84e32d05d1|40 straipsnio 1 dalies 15 punkte]] nustatytais pagrindais, pareigūnams, turintiems didesnį kaip 5 metų tarnybos stažą, didinama pusantro karto, didesnį kaip 10 metų, – du kartus, didesnį kaip 20 metų, – tris kartus. ^s-e3c6525524c16b0ff25f38d3
@@ -1795,7 +1795,7 @@ Nr. XIII-2677, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21318
 ### 65 straipsnis. Šiame skyriuje nurodytų socialinių garantijų finansavimo šaltiniai ^s-c7c3707965e2dd0d56f71418
 
 
-Šiame skyriuje nurodytoms socialinėms garantijoms, išskyrus šio įstatymo [[#^s-50c25495a8901ce1a51b89f6|62 straipsnio]] 1 ir 3 dalyse, [[#^s-1ef3998c43d43e24d30c32c0|63 straipsnio]] 1 ir 3 dalyse nurodytų sveikatos priežiūros paslaugų teikimą, įgyvendinti naudojami Specialiųjų tyrimų tarnybai skiriami valstybės biudžeto asignavimai.
+Šiame skyriuje nurodytoms socialinėms garantijoms, išskyrus šio įstatymo [[#^s-50c25495a8901ce1a51b89f6|62 straipsnio]] [[#^s-8013b2495a492a85d7f6f2e9|1]] ir [[#^s-14d4116ee8ff566c1038f920|3]] dalyse, [[#^s-1ef3998c43d43e24d30c32c0|63 straipsnio]] [[#^s-ea56f83480383ee178a4a11d|1]] ir 3 dalyse nurodytų sveikatos priežiūros paslaugų teikimą, įgyvendinti naudojami Specialiųjų tyrimų tarnybai skiriami valstybės biudžeto asignavimai.
 
 
 
@@ -1823,7 +1823,7 @@ Nr. XIV-3141, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20379
 
 
 
-2. Psichinę prievartą pareigūnas turi teisę panaudoti šio straipsnio 3 ir [[#^s-4d8ad4341bb06b0c4a9343f4|4 dalyse]] arba šio įstatymo [[#^s-b267a8a834237347ed59f756|68 straipsnio 2 dalyje]] nurodytais atvejais. ^s-f779a1a5272c9bb12929b6e8
+2. Psichinę prievartą pareigūnas turi teisę panaudoti šio straipsnio [[#^s-67b1c825e495db67b401e12c|3]] ir [[#^s-4d8ad4341bb06b0c4a9343f4|4]] dalyse arba šio įstatymo [[#^s-b267a8a834237347ed59f756|68 straipsnio 2 dalyje]] nurodytais atvejais. ^s-f779a1a5272c9bb12929b6e8
 
 
 3. Fizinę prievartą pareigūnas turi teisę panaudoti šiais atvejais: ^s-67b1c825e495db67b401e12c
@@ -1952,7 +1952,7 @@ Nr. XIV-3141, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20379
 6. Jeigu neišvengiamo pavojaus pareigūno ar kitų asmenų gyvybei ar sveikatai nėra, šaunamąjį ginklą panaudoti draudžiama: ^s-3055b988ea580ad257adc899
 
 
-1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus [[#^s-b267a8a834237347ed59f756|šio straipsnio 2 dalies]] 1 ir [[#^s-527a064bd936fcb9209f82a8|2 punktuose]] nurodytus atvejus; ^s-d8dbd0507dcca81f80ae2d2a
+1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus [[#^s-b267a8a834237347ed59f756|šio straipsnio 2 dalies]] 1 ir [[#^s-527a064bd936fcb9209f82a8|2]] punktuose nurodytus atvejus; ^s-d8dbd0507dcca81f80ae2d2a
 
 
 2) patalpose, kuriose yra sprogstamųjų medžiagų, lengvai užsidegančių medžiagų, galinčių sukelti pavojų asmens gyvybei bei sveikatai ar visuomenės saugumui. ^s-527a064bd936fcb9209f82a8
@@ -1964,7 +1964,7 @@ Nr. XIV-3141, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20379
 8. Pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie geba veikti situacijomis, susijusiomis su šaunamojo ginklo panaudojimu. Pareigūnų parengimo ir tikrinimo tvarką nustato Vyriausybė. ^s-27817366eac790ad6626fad0
 
 
-9. Šio straipsnio 1, 2 ir [[#^s-74698bd3e35ba2b4eba2e45b|3 dalys]] ir 6 dalies 1 punktas netaikomi tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė. ^s-07467b6b7638a94869555f58
+9. Šio straipsnio [[#^s-18fb4c7fa656f56602611c39|1]], [[#^s-b267a8a834237347ed59f756|2]] ir [[#^s-74698bd3e35ba2b4eba2e45b|3]] dalys ir 6 dalies 1 punktas netaikomi tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė. ^s-07467b6b7638a94869555f58
 
 
 
@@ -2097,7 +2097,7 @@ Nr. XI-2343, 2012-11-06, Žin., 2012, Nr. 132-6671 (2012-11-15), i. k. [[latest/
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2138, 2015-12-08, paskelbta TAR 2015-12-14, i. k. 2015-19745
-Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 10, 11-1, 12, 14, 15 ir [[#^s-b4fbaf75cdeed9470232a804|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 [[#^s-e1b961f992fe5b609398454e|10]], 11-1, [[#^s-82ec36005dfa6b9e485c4aac|12]], [[#^s-ac5745cb033508572aecf45f|14]], [[#^s-72495fcee9e26b15a177eaf5|15]] ir [[#^s-b4fbaf75cdeed9470232a804|17]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2117,27 +2117,27 @@ Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 [[#^
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2677, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21318
-Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 23 ir [[#^s-d469f0bfd203450e3dc86af2|64 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 [[#^s-cf1d3be9a43dbb10f30bf528|23]] ir [[#^s-d469f0bfd203450e3dc86af2|64]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3402, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24601
-Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 51, 52, 54 ir [[#^s-77f2a68132af683b63bc7df4|60 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 [[#^s-ab33e0b42a464c105101b2c1|51]], [[#^s-ee752a765031bb4e3d9db88e|52]], [[#^s-16b8a8195210a7bebbb36204|54]] ir [[#^s-77f2a68132af683b63bc7df4|60]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-472, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15851
-Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 2, 7 ir [[#^s-09abcb1af572be9d45550417|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 [[#^s-f84c38d215ccb12f4081d8c6|2]], [[#^s-2c4dad7b738c28bb75e6ead4|7]] ir [[#^s-09abcb1af572be9d45550417|8]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-958, 2022-03-17, paskelbta TAR 2022-03-23, i. k. 2022-05381
-Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 23, 24 ir [[#^s-dc814a7503ec155d307dbe92|58 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 [[#^s-cf1d3be9a43dbb10f30bf528|23]], [[#^s-c6944f399e151f3e80736b7c|24]] ir [[#^s-dc814a7503ec155d307dbe92|58]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1999, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11573
-Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 11, 18, 30, 33, 51, 52, 54, [[#^s-15537e0298759b55acb55847|55 straipsnių]] ir priedo pakeitimo ir [[#^s-406d8390124759370a07b9bd|53 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 [[#^s-bb90166b9ce2e1b874594807|11]], [[#^s-7ce46d54ae90f83ff0be2a4a|18]], [[#^s-6a402d6186747d47788456a8|30]], [[#^s-7bd4be7f1a8cf643da830090|33]], [[#^s-ab33e0b42a464c105101b2c1|51]], [[#^s-ee752a765031bb4e3d9db88e|52]], [[#^s-16b8a8195210a7bebbb36204|54]], [[#^s-15537e0298759b55acb55847|55]] straipsnių ir priedo pakeitimo ir [[#^s-406d8390124759370a07b9bd|53 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2147,4 +2147,4 @@ Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 [[#^
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3141, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20379
-Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 2, 67 ir [[#^s-a455c20439e67571d94e2cdf|68 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo Nr. VIII-1649 [[#^s-f84c38d215ccb12f4081d8c6|2]], [[#^s-6c757d4136a7ebb1b1becacd|67]] ir [[#^s-a455c20439e67571d94e2cdf|68]] straipsnių pakeitimo įstatymas

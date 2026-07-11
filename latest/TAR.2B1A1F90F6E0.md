@@ -49,7 +49,7 @@ Vilnius
 ### 2 straipsnis. 18 straipsnio 1 dalies 5 ir 6 punktų pakeitimas ^s-13c13e8e2cb2081ce10a504a
 
 
-18 straipsnio 1 dalies 5 ir [[#^s-d1eb28b3457fa421875e1fdd|6 punktus]] pakeisti ir išdėstyti taip:
+18 straipsnio 1 dalies 5 ir 6 punktus pakeisti ir išdėstyti taip:
 
 
 „5) organizuoja savivaldybės teritorijos ar jos dalių bendrąjį, pagal kompetenciją specialųjį ir detalųjį planavimą, teritorijų planavimo dokumentų pakeitimų ir papildymų rengimą;

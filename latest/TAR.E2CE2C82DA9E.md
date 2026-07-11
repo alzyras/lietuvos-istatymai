@@ -166,7 +166,7 @@ Nr. XV-379, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12034
 5) vieno iš [[#^s-1a36a0158582beb5d088a220|šios dalies 4 punkte]] nurodytų asmenų artimas šeimos narys (sutuoktinis, sugyventinis, partneris (asmuo, su kuriuo registruota partnerystė), tėvai (įtėviai), broliai (įbroliai), seserys (įseserės), seneliai, vaikaičiai, vaikai (įvaikiai) ir vaikų (įvaikių) sutuoktiniai, sugyventiniai, partneriai); ^s-2b09d384cf5a91cf8923a148
 
 
-6) juridinis asmuo, kurio savininkai arba dalyviai yra šios dalies 1–[[#^s-2b09d384cf5a91cf8923a148|5 punktuose]] nurodyti asmenys. ^s-ce22c35525b35df7dcc78cb6
+6) juridinis asmuo, kurio savininkai arba dalyviai yra šios dalies [[#^s-bc3898127eddcb9eba9e4508|1]]–[[#^s-2b09d384cf5a91cf8923a148|5]] punktuose nurodyti asmenys. ^s-ce22c35525b35df7dcc78cb6
 
 
 15. Už ataskaitų parengimą atsakingas asmuo – viešojo sektoriaus subjekto arba kituose įstatymuose, kuriais įsteigti fondai, nurodyto subjekto darbuotojas, kuriam pavesta parengti ataskaitas, arba centralizuotos apskaitos įstaigos vadovas ar jo pavedimu kitas vadovaujamas pareigas einantis asmuo, jeigu už ataskaitų parengimą atsakingu viešojo sektoriaus subjektu yra paskirta centralizuotos apskaitos įstaiga. ^s-99088d627087d6dd81a904b9
@@ -196,7 +196,7 @@ Nr. XV-379, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12034
 2) pelno nesiekiantys juridiniai asmenys, kuriems vienas ar keli (kartu) [[#^s-19409a24349be4d611dde62b|šios dalies 1 punkte]] nurodyti subjektai daro lemiamą poveikį; ^s-b77572bda3d1104f82a59ce4
 
 
-3) pelno nesiekiantys juridiniai asmenys, kuriems vienas ar keli (kartu) šios dalies 1 ir [[#^s-b77572bda3d1104f82a59ce4|2 punktuose]] nurodyti viešojo sektoriaus subjektai daro lemiamą poveikį; ^s-147a910346cd5b612f06d8f9
+3) pelno nesiekiantys juridiniai asmenys, kuriems vienas ar keli (kartu) šios dalies [[#^s-19409a24349be4d611dde62b|1]] ir [[#^s-b77572bda3d1104f82a59ce4|2]] punktuose nurodyti viešojo sektoriaus subjektai daro lemiamą poveikį; ^s-147a910346cd5b612f06d8f9
 Straipsnio punkto pakeitimai:
 Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 
@@ -250,7 +250,7 @@ Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 
 
 
-30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos [[latest/TAR.C7E57DF3CEC5|Investicijų įstatyme]], [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatyme]], [[latest/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatyme]], [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatyme]], Lietuvos Respublikos finansinių ataskaitų audito įstatyme, [[latest/3be40b20353e11efbdaea558de59136c|Lietuvos Respublikos Valstybės gynybos fondo įstatyme]], Lietuvos Respublikos įmonių atskaitomybės įstatyme, [[latest/TAR.1F58348F79F7|Lietuvos Respublikos pensijų kaupimo įstatyme]], [[latest/13ecbb50c1be11ea9815f635b9c0dcef|Lietuvos Respublikos strateginio valdymo įstatyme]], [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]], [[latest/TAR.61BB05227699|Lietuvos Respublikos valstybės kontrolės įstatyme]], [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme]], [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatyme]], [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatyme]]. ^s-6c72373225d621b1d3458b62
+30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos [[latest/TAR.C7E57DF3CEC5|Investicijų įstatyme]], [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatyme]], [[latest/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatyme]], [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatyme]], Lietuvos Respublikos finansinių ataskaitų audito įstatyme, [[latest/3be40b20353e11efbdaea558de59136c|Lietuvos Respublikos Valstybės gynybos fondo įstatyme]], [Lietuvos Respublikos įmonių atskaitomybės įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C), [[latest/TAR.1F58348F79F7|Lietuvos Respublikos pensijų kaupimo įstatyme]], [[latest/13ecbb50c1be11ea9815f635b9c0dcef|Lietuvos Respublikos strateginio valdymo įstatyme]], [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]], [[latest/TAR.61BB05227699|Lietuvos Respublikos valstybės kontrolės įstatyme]], [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme]], [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatyme]], [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatyme]]. ^s-6c72373225d621b1d3458b62
 Straipsnio dalies pakeitimai:
 Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 Nr. XIV-2384, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25630
@@ -397,7 +397,7 @@ Nr. XIV-2384, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25630
 6. Viešojo sektoriaus subjektų grupę Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkiniui parengti sudaro Privalomojo sveikatos draudimo fondo administravimo įstaigos, Privalomojo sveikatos draudimo fondas, Privalomojo sveikatos draudimo fondo administravimo įstaigų kontroliuojami viešojo sektoriaus subjektai. ^s-df206f9adbd459785a037616
 
 
-7. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija, atsižvelgdama į šio straipsnio 2–[[#^s-df206f9adbd459785a037616|6 dalių]] nuostatas, iki kiekvienų metų gruodžio 31 dienos patvirtina tų finansinių metų viešojo sektoriaus subjektų finansinių ataskaitų konsolidavimo schemą. ^s-cd612ee634bde984642de1f1
+7. Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija, atsižvelgdama į šio straipsnio [[#^s-97c6485278496104ace552f8|2]]–[[#^s-df206f9adbd459785a037616|6]] dalių nuostatas, iki kiekvienų metų gruodžio 31 dienos patvirtina tų finansinių metų viešojo sektoriaus subjektų finansinių ataskaitų konsolidavimo schemą. ^s-cd612ee634bde984642de1f1
 
 
 Straipsnio pakeitimai:
@@ -497,10 +497,10 @@ ATASKAITŲ RINKINIO SUDĖTIS
 3. Grynojo turto pokyčių ir pinigų srautų ataskaitos nerengiamos arba sujungiamos su kitomis fondo ataskaitų rinkinio ataskaitomis, jeigu jų nerengimas ar sujungimas neturės poveikio reikalavimui pateikti informaciją ataskaitoms konsoliduoti ir teisingai parodyti fondo finansinę būklę, veiklos rezultatus ir pinigų srautus. ^s-dff06d2cc33f70c6c6c49efb
 
 
-4. Kai taikomos šio straipsnio 1, 2 ir [[#^s-dff06d2cc33f70c6c6c49efb|3 dalyse]] nurodytos išimtys, fondo veiklos ataskaita sujungiama su fondo finansinių ataskaitų aiškinamuoju raštu ir biudžeto vykdymo ataskaitų aiškinamuoju raštu. ^s-29519d1f7e036200d883cceb
+4. Kai taikomos šio straipsnio [[#^s-e53fe0ac3d96dbe16150b973|1]], [[#^s-611932c79451e3d1398aacbd|2]] ir [[#^s-dff06d2cc33f70c6c6c49efb|3]] dalyse nurodytos išimtys, fondo veiklos ataskaita sujungiama su fondo finansinių ataskaitų aiškinamuoju raštu ir biudžeto vykdymo ataskaitų aiškinamuoju raštu. ^s-29519d1f7e036200d883cceb
 
 
-5. Kai taikomos šio straipsnio 1–[[#^s-29519d1f7e036200d883cceb|4 dalyse]] nurodytos išimtys, fondo ataskaitų rinkinį sudaro ataskaitos, kuriose pateikiama fondo veiklos ataskaitos, šio įstatymo [[#^s-8483120b7fd1def1a88c166e|7 straipsnio 1 dalyje]] ir [[#^s-307122a6fcb841b7d77f3211|8 straipsnio]] 1 ir [[#^s-611932c79451e3d1398aacbd|2 dalyse]] nurodytų ataskaitų informacija ir kurių sudėtį kiekvienam fondui ir jose teikiamai informacijai keliamus reikalavimus nustato finansų ministras. ^s-70ee9a6bf38dc8e1430126cc
+5. Kai taikomos šio straipsnio [[#^s-e53fe0ac3d96dbe16150b973|1]]–[[#^s-29519d1f7e036200d883cceb|4]] dalyse nurodytos išimtys, fondo ataskaitų rinkinį sudaro ataskaitos, kuriose pateikiama fondo veiklos ataskaitos, šio įstatymo [[#^s-8483120b7fd1def1a88c166e|7 straipsnio 1 dalyje]] ir [[#^s-307122a6fcb841b7d77f3211|8 straipsnio]] [[#^s-d6d2b998345d49a62701467c|1]] ir [[#^s-abe2f4e4cc68fca107d4db7e|2]] dalyse nurodytų ataskaitų informacija ir kurių sudėtį kiekvienam fondui ir jose teikiamai informacijai keliamus reikalavimus nustato finansų ministras. ^s-70ee9a6bf38dc8e1430126cc
 
 
 
@@ -591,7 +591,7 @@ Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 
 
 
-4. Veiklos ataskaitos, grupės veiklos ataskaitos ir valstybės pažangos ataskaitos parengimo tvarką, formą, už grupės veiklos ataskaitų parengimą atsakingus viešojo sektoriaus subjektus nustato ir šio straipsnio 1, 2 ir [[#^s-9dda502612957fc871508894|3 dalyse]] nurodytą informaciją detalizuoja Vyriausybė ar jos įgaliota institucija. ^s-db75c92e0cb56428ce9be560
+4. Veiklos ataskaitos, grupės veiklos ataskaitos ir valstybės pažangos ataskaitos parengimo tvarką, formą, už grupės veiklos ataskaitų parengimą atsakingus viešojo sektoriaus subjektus nustato ir šio straipsnio [[#^s-e25eabbc9d5318cc5a956cb0|1]], [[#^s-3b8147d64579a652cf606cee|2]] ir [[#^s-9dda502612957fc871508894|3]] dalyse nurodytą informaciją detalizuoja Vyriausybė ar jos įgaliota institucija. ^s-db75c92e0cb56428ce9be560
 Straipsnio dalies pakeitimai:
 Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 
@@ -606,7 +606,7 @@ Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 2) informaciją apie regionų plėtros programoje, regiono plėtros plane nustatytų uždavinių ir jų vertinimo rodiklių reikšmių pasiekimą atitinkamais finansiniais metais; ^s-43c86edc782e7d5a7bb4b715
 
 
-3) [[#^s-e25eabbc9d5318cc5a956cb0|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytą informaciją; ^s-f63154c5afcfa18ed7c5ea8e
+3) [[#^s-e25eabbc9d5318cc5a956cb0|šio straipsnio 1 dalies]] [[#^s-e79c08ad0020d5970e952d9e|1]], [[#^s-43c86edc782e7d5a7bb4b715|2]] ir 3 punktuose nurodytą informaciją; ^s-f63154c5afcfa18ed7c5ea8e
 
 
 4) papildomą informaciją, jeigu savivaldybės taryba nurodo tokią informaciją pateikti. ^s-f751870e288a03ce4a660010
@@ -622,7 +622,7 @@ Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
 2. Biudžeto vykdymo ataskaitos rengiamos vadovaujantis [[latest/TAR.712BBBFA3D41|Biudžeto sandaros įstatymu]], šiuo įstatymu ir kitais teisės aktais, reglamentuojančiais biudžeto vykdymo ataskaitų rengimą. Biudžeto vykdymo ataskaitų formas nustato finansų ministras. ^s-e4cb6f81dc747dd4152ba5b1
 
 
-3. Fondų ataskaitos, kai joms taikomos šio įstatymo [[#^s-e3f7c4d3f3f20c530facaf57|9 straipsnio]] 1–[[#^s-02f06e0e61182a613c7dfda3|4 dalyse]] nurodytos išimtys, sudaromos vadovaujantis šiuo įstatymu ir VSAFAS. ^s-a043944b098e862facf7f75e
+3. Fondų ataskaitos, kai joms taikomos šio įstatymo [[#^s-e3f7c4d3f3f20c530facaf57|9 straipsnio]] [[#^s-e53fe0ac3d96dbe16150b973|1]]–[[#^s-29519d1f7e036200d883cceb|4]] dalyse nurodytos išimtys, sudaromos vadovaujantis šiuo įstatymu ir VSAFAS. ^s-a043944b098e862facf7f75e
 
 
 4. Ataskaitinių finansinių metų pradžios finansinių ataskaitų straipsnių sumos turi sutapti su praėjusių finansinių metų pabaigos finansinių ataskaitų atitinkamų straipsnių sumomis. ^s-02f06e0e61182a613c7dfda3
@@ -678,7 +678,7 @@ ATASKAITŲ RINKINIŲ RENGIMAS, PASIRAŠYMAS, AUDITAS, TEIKIMAS, SKELBIMAS
 4. Valstybinė ligonių kasa prie Sveikatos apsaugos ministerijos rengia Privalomojo sveikatos draudimo fondo metinių ataskaitų rinkinį. ^s-3e2979b8f060d7f4fe2ca081
 
 
-5. Kito, negu nurodytas šio straipsnio 3 ir [[#^s-3e2979b8f060d7f4fe2ca081|4 dalyse]], išteklių fondo metinių ataskaitų rinkinį rengia išteklių fondą administruojantis viešojo sektoriaus subjektas arba kituose įstatymuose, kuriais įsteigti fondai, nurodytas subjektas, mokesčių fondo – mokesčių administratorius, o fondų fondo – fondų fondo valdytojas arba, jeigu fondų fondo valdytoja yra tarptautinė finansų institucija, ‒ viešojo sektoriaus subjektas, iš kurių asignavimų pervedami piniginiai įnašai į fondų fondą. ^s-3dcb852f9fc6b9f57c866098
+5. Kito, negu nurodytas šio straipsnio [[#^s-f463d1e014991fc59936e50d|3]] ir [[#^s-3e2979b8f060d7f4fe2ca081|4]] dalyse, išteklių fondo metinių ataskaitų rinkinį rengia išteklių fondą administruojantis viešojo sektoriaus subjektas arba kituose įstatymuose, kuriais įsteigti fondai, nurodytas subjektas, mokesčių fondo – mokesčių administratorius, o fondų fondo – fondų fondo valdytojas arba, jeigu fondų fondo valdytoja yra tarptautinė finansų institucija, ‒ viešojo sektoriaus subjektas, iš kurių asignavimų pervedami piniginiai įnašai į fondų fondą. ^s-3dcb852f9fc6b9f57c866098
 Straipsnio dalies pakeitimai:
 Nr. XV-379, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12034
 
@@ -687,7 +687,7 @@ Nr. XV-379, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12034
 6. Viešojo sektoriaus subjekto ataskaitas rengia už ataskaitų parengimą atsakingas asmuo. Kai viešojo sektoriaus subjekto apskaita tvarkoma centralizuotai, ataskaitų rengimo organizavimo tvarką nustato Vyriausybė. ^s-dbf7b86f73343e7961004825
 
 
-7. Šio straipsnio 1–[[#^s-3dcb852f9fc6b9f57c866098|5 dalyse]] nurodytų ataskaitų rinkiniai teikiami šio įstatymo priede nustatytais terminais. ^s-29baeccc3c2a08ef3fb48e2d
+7. Šio straipsnio [[#^s-8efd595767bbffa25f7bde48|1]]–[[#^s-3dcb852f9fc6b9f57c866098|5]] dalyse nurodytų ataskaitų rinkiniai teikiami šio įstatymo priede nustatytais terminais. ^s-29baeccc3c2a08ef3fb48e2d
 
 
 
@@ -829,7 +829,7 @@ b) nacionalinį metinių ataskaitų rinkinį;
 10. Savivaldybės viešojo sektoriaus subjektai savo metinių ataskaitų rinkinius ir savivaldybės administracija savivaldybės metinių ataskaitų rinkinį kartu su auditoriaus išvadomis, jeigu auditas turėjo būti atliktas, teikia savivaldybės tarybai savivaldybės tarybos nustatyta tvarka. ^s-463c42852401aea820ce1ff5
 
 
-11. Šio straipsnio 7–[[#^s-463c42852401aea820ce1ff5|10 dalyse]] nurodytų ataskaitų rinkiniai teikiami šio įstatymo priede nustatytais terminais. ^s-ff319ed564ec48c7282ebe3e
+11. Šio straipsnio [[#^s-043463a102301a064e4d846b|7]]–[[#^s-463c42852401aea820ce1ff5|10]] dalyse nurodytų ataskaitų rinkiniai teikiami šio įstatymo priede nustatytais terminais. ^s-ff319ed564ec48c7282ebe3e
 
 
 
@@ -845,7 +845,7 @@ Nr. XV-379, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12034
 
 
 
-3. Metinių ataskaitų rinkiniai skelbiami ne vėliau kaip per 10 dienų nuo jų pasirašymo, išskyrus šio straipsnio 4 ir [[#^s-e9fed3e1038cc294d7c8c6d6|5 dalyse]] nurodytus atvejus. ^s-a1b146aac440569ccb83ddb9
+3. Metinių ataskaitų rinkiniai skelbiami ne vėliau kaip per 10 dienų nuo jų pasirašymo, išskyrus šio straipsnio [[#^s-3d0f49f05178294295eb2b98|4]] ir [[#^s-e9fed3e1038cc294d7c8c6d6|5]] dalyse nurodytus atvejus. ^s-a1b146aac440569ccb83ddb9
 
 
 4. Savivaldybės metinių ataskaitų rinkinį kartu su savivaldybės kontrolės ir audito tarnybos išvada savo interneto svetainėje skelbia savivaldybės administracija per 10 dienų nuo jo patvirtinimo savivaldybės taryboje. ^s-3d0f49f05178294295eb2b98
@@ -1056,8 +1056,8 @@ Nr. XI-1951, 2012-03-29, Žin., 2012, Nr. 44-2144 (2012-04-14)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-637, 2013-12-03, Žin., 2013, Nr. 130-6621 (2013-12-19)
 [[latest/TAR.3001D49869F9|VIEŠOJO SEKTORIAUS ATSKAITOMYBĖS ĮSTATYMO 1, 2, 15, 19, 20, 21, 23, 28, 29, 30, 31, 32, 33, 35, 36 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR 18 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-0ea76183f15999d2a5734561|2 straipsniu]] keičiamo [[#^s-e0994c2d1b6e43f0b1464f19|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio 22 dalies]] 7–10 punktus, taikomas 2013 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkiniams.
-Šio įstatymo [[#^s-0ea76183f15999d2a5734561|2 straipsniu]] keičiamo [[#^s-e0994c2d1b6e43f0b1464f19|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio 22 dalies]] 7–10 punktuose nurodyti subjektai rengia 2015 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkinius, tačiau gali rengti 2013 metų ir 2014 metų ataskaitų rinkinius pagal šį įstatymą.
+Šis įstatymas, išskyrus [[#^s-0ea76183f15999d2a5734561|2 straipsniu]] keičiamo [[#^s-e0994c2d1b6e43f0b1464f19|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio 22 dalies]] [[latest/TAR.E2CE2C82DA9E|7]]–[[latest/TAR.E2CE2C82DA9E|10]] punktus, taikomas 2013 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkiniams.
+Šio įstatymo [[#^s-0ea76183f15999d2a5734561|2 straipsniu]] keičiamo [[#^s-e0994c2d1b6e43f0b1464f19|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo 2 straipsnio 22 dalies]] [[latest/TAR.E2CE2C82DA9E|7]]–[[latest/TAR.E2CE2C82DA9E|10]] punktuose nurodyti subjektai rengia 2015 metų ir vėlesnių ataskaitinių laikotarpių ataskaitų rinkinius, tačiau gali rengti 2013 metų ir 2014 metų ataskaitų rinkinius pagal šį įstatymą.
 
 
 
@@ -1071,7 +1071,7 @@ Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 [[#
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2217, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21013
-Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 1 ir [[#^s-0ea76183f15999d2a5734561|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 [[#^s-5da83c53e2d71925094ddd1c|1]] ir [[#^s-0ea76183f15999d2a5734561|2]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1081,7 +1081,7 @@ Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 [[#
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1176, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09067
-Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 1, 2, 16, 19, 20, 22, 23, 30, 31, 32, 33 ir 35 straipsnių, septintojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 22-1 ir 32-1 straipsniais įstatymas
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 [[#^s-5da83c53e2d71925094ddd1c|1]], [[#^s-0ea76183f15999d2a5734561|2]], [[#^s-d738d5002f2f2156038fc3e0|16]], [[#^s-e330c6ca23a136806d47810d|19]], [[#^s-a7ac89725a30891a29d48332|20]], 22, 23, 30, 31, 32, 33 ir 35 straipsnių, septintojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 22-1 ir 32-1 straipsniais įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1091,7 +1091,7 @@ Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 30 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3046, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13962
-Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 19 ir 22-1  straipsnių pakeitimo įstatymas
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 [[#^s-e330c6ca23a136806d47810d|19]] ir 22-1  straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1111,7 +1111,7 @@ Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pak
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-840, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27732
-Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pakeitimo [[latest/abe7d4900d3f11ebb74de75171d26d52|įstatymo Nr. XIII-3308]] 1 ir [[#^s-0ea76183f15999d2a5734561|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pakeitimo [[latest/abe7d4900d3f11ebb74de75171d26d52|įstatymo Nr. XIII-3308]] [[#^s-5da83c53e2d71925094ddd1c|1]] ir [[#^s-0ea76183f15999d2a5734561|2]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1131,7 +1131,7 @@ Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 pak
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2384, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25630
-Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 2, 4 ir [[#^s-c8f32d574c482c839d9fae32|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 [[#^s-0ea76183f15999d2a5734561|2]], [[#^s-6cc8bb294729fc8538351b47|4]] ir [[#^s-c8f32d574c482c839d9fae32|13]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1141,4 +1141,4 @@ Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 [[#
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-379, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12034
-Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 1, 2, 13, 14, 15, 18 ir [[#^s-a7ac89725a30891a29d48332|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymo Nr. X-1212 [[#^s-5da83c53e2d71925094ddd1c|1]], [[#^s-0ea76183f15999d2a5734561|2]], [[#^s-c8f32d574c482c839d9fae32|13]], [[#^s-3e3a5a8c7993e79a0f728958|14]], [[#^s-e56c8a89f5026912e8f79d78|15]], [[#^s-53f7d6c0833f1e5c84891db4|18]] ir [[#^s-a7ac89725a30891a29d48332|20]] straipsnių pakeitimo įstatymas

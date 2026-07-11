@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-b3292cf3489bfed61c642940
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 30 d. dekretą Nr. 736, ratifikuoja 2006 m. birželio 8 d. Baku pasirašytą Lietuvos Respublikos Vyriausybės ir Azerbaidžano Respublikos Vyriausybės susitarimą dėl investicijų skatinimo ir apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. rugpjūčio 30 d. dekretą Nr. 736](https://e-tar.lt/portal/lt/legalAct/TAR.1909E491E2C1), ratifikuoja 2006 m. birželio 8 d. Baku pasirašytą Lietuvos Respublikos Vyriausybės ir Azerbaidžano Respublikos Vyriausybės susitarimą dėl investicijų skatinimo ir apsaugos.
 
 
 

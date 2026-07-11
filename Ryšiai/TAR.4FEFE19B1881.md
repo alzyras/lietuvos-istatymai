@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.57E0E8B29108#^s-b6f852b16644482a22128e4e|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas]] - 3 citatos - 1041010ISTA0IX-2000
-- [[latest/TAR.57E0E8B29108#^s-e0f3964af93c0e050292d1ec|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas]] - 3 citatos - 1041010ISTA0IX-2000
+- [[latest/TAR.57E0E8B29108#^s-b6f852b16644482a22128e4e|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymas]] - 2 citatos - 1041010ISTA0IX-2000

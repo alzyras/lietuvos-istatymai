@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-00e0f0c4267ccdc1da98e075
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2001 m. liepos 10 d. dekretą Nr. 1413, ratifikuoja 1966 metų Tarptautinio pilietinių ir politinių teisių pakto 1989 metų Antrąjį fakultatyvinį protokolą mirties bausmei panaikinti, pasirašytą 2000 m. rugsėjo 8 d.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2001 m. liepos 10 d. dekretą Nr. 1413](https://e-tar.lt/portal/lt/legalAct/TAR.18AFAE145035), ratifikuoja 1966 metų Tarptautinio pilietinių ir politinių teisių pakto 1989 metų Antrąjį fakultatyvinį protokolą mirties bausmei panaikinti, pasirašytą 2000 m. rugsėjo 8 d.
 
 
 

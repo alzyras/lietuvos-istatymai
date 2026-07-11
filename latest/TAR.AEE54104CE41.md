@@ -217,7 +217,7 @@ Slapto balsavimo rezultatus tvirtina Aukščiausioji Taryba.
 ### 1616 straipsnis. ^s-64acc11a88587185cdbbb7e1
 
 
-Reikalauti atšaukti Pirmininką turi teisę ne mažiau kaip penkiolika Aukščiausiosios Tarybos deputatų. Toks reikalavimas turi būti raštu pateiktas posėdžio pirmininkui, kuris jį privalo nedelsdamas paskelbti Aukščiausiajai Tarybai.
+Reikalauti atšaukti Pirmininką turi teisę ne mažiau kaip penkiolika Aukščiausiosios Tarybos deputatų. Toks reikalavimas turi būti raštu pateiktas posėdžio pirmininkui, kuris jį privalo nedelsdamas paskelbti [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC).
 
 
 Diskusijoms dėl Aukščiausiosios Tarybos Pirmininko atšaukimo vadovauja Pirmininko pavaduotojas arba Tarybos paskirtas deputatas.

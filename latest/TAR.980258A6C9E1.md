@@ -61,7 +61,7 @@ Vilnius
 2. 27 straipsnio 2 dalį pripažinti netekusia galios. ^s-62d626a5840399e080944b0c
 
 
-3. 27 straipsnio buvusias 3, 4 dalis laikyti atitinkamai 2, [[#^s-6b70a98875254fe0097c1666|3 dalimis]]. ^s-6b70a98875254fe0097c1666
+3. 27 straipsnio buvusias 3, 4 dalis laikyti atitinkamai 2, 3 dalimis. ^s-6b70a98875254fe0097c1666
 
 
 

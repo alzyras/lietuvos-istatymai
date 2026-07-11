@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-c0f615158900d2ad62c7726a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugsėjo 25 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Lenkijos Respublikos laisvosios prekybos sutartį“, ratifikuoja Lietuvos Respublikos ir Lenkijos Respublikos laisvosios prekybos sutartį, pasirašytą 1996 m. birželio 27 d. Varšuvoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugsėjo 25 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Lenkijos Respublikos laisvosios prekybos sutartį“](https://e-tar.lt/portal/lt/legalAct/TAR.4A9BA4003FF3), ratifikuoja Lietuvos Respublikos ir Lenkijos Respublikos laisvosios prekybos sutartį, pasirašytą 1996 m. birželio 27 d. Varšuvoje.
 
 
 

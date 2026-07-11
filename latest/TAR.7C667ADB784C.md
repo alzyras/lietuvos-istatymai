@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 26 straipsnio pakeitimas ^s-c836d9a0b9d99e1fd6675660
 
 
-Pakeisti 26 straipsnio 1 ir [[#^s-8dd4561e829cdc63e86bcfd9|2 dalis]], [[#^s-d25de795d05dbc0f0578394e|3 dalyje]] išbraukti žodžius „ir Aplinkos ministerija“, [[#^s-bc9a9c182e299e58a4917f56|4 dalyje]] išbraukti žodžius „Aplinkos ministerija“, vietoj žodžių „Sveikatos apsaugos ministerija“ įrašyti žodžius „Radiacinės saugos centru“ ir šį straipsnį išdėstyti taip:
+Pakeisti 26 straipsnio 1 ir 2 dalis, [[#^s-d25de795d05dbc0f0578394e|3 dalyje]] išbraukti žodžius „ir Aplinkos ministerija“, [[#^s-bc9a9c182e299e58a4917f56|4 dalyje]] išbraukti žodžius „Aplinkos ministerija“, vietoj žodžių „Sveikatos apsaugos ministerija“ įrašyti žodžius „Radiacinės saugos centru“ ir šį straipsnį išdėstyti taip:
 
 
 „26 straipsnis. Licencijas išduodančios institucijos

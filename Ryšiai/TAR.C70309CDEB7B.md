@@ -9,184 +9,150 @@ pavadinimas: "Lietuvos Respublikos karo padėties įstatymas"
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.EA5F9F0D6DBB|Lietuvos Respublikos  tiesioginio valdymo savivaldybės teritorijoje įstatymas]] - 2 citatos - tiesioginio valdymo savivaldybės teritorijoje įstatyme
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Lietuvos Respublikos administracinių bylų teisenos įstatymo
-- [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme
-- [[latest/TAR.9D2F66B96EBC|Lietuvos Respublikos aviacijos įstatymas]] - 2 citatos - Lietuvos Respublikos aviacijos įstatymo
-- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 4 citatos - Lietuvos Respublikos darbo kodekse
-- [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatymas]] - 2 citatos - Lietuvos Respublikos diplomatinės tarnybos įstatyme
-- [[latest/TAR.8EB86FBF111C|Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas]] - 2 citatos - Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatyme
-- [[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - 2 citatos - Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme
-- [[latest/TAR.E6F037A40B07|Lietuvos Respublikos karo padėties įstatymo 11, 25 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas]] - 6 citatos - 1101010ISTA00XI-757
-- [[latest/TAR.4F776848EF13|Lietuvos Respublikos karo padėties įstatymo 14 ir 24 straipsnių pakeitimo įstatymas]] - 6 citatos - 1041010ISTA0IX-2258
-- [[latest/TAR.CA93113B64BF|Lietuvos Respublikos karo padėties įstatymo 2 ir 21 straipsnių pakeitimo įstatymas]] - 6 citatos - 1001010ISTAIII-2003
-- [[latest/TAR.5E213C7E153F|Lietuvos Respublikos karo padėties įstatymo 2, 21, 32, 33 ir 37 straipsnių pakeitimo įstatymas]] - 6 citatos - 1111010ISTA0XI-1414
-- [[latest/TAR.C25C485EFC43|Lietuvos Respublikos karo padėties įstatymo 2, 3, 5, 6, 7, 8, 26, 27, 28, 29, 30 ir 31 straipsnių pakeitimo įstatymas]] - 6 citatos - 1031010ISTA0IX-1422
-- [[latest/TAR.6DC1C1E117B4|Lietuvos Respublikos karo padėties įstatymo 26 straipsnio pakeitimo įstatymas]] - 6 citatos - 1101010ISTA0XI-1268
-- [[latest/TAR.7B10FA0CEFC3|Lietuvos Respublikos karo padėties įstatymo 37 straipsnio pakeitimo įstatymas]] - 6 citatos - 1041010ISTA0IX-2330
-- [[latest/TAR.D57D49314B2E|Lietuvos Respublikos karo padėties įstatymo 8 straipsnio pakeitimo įstatymas]] - 6 citatos - 1121010ISTA0XI-2248
-- [[latest/fa2191a0393611e69101aaab2992cbcd|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 11 ir 14 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2441
-- [[latest/2dcabd705e9f11e4bad5c03f56793630|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir 21 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1282
-- [[latest/80b02a209c1011ea9515f752ff221ec9|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir 21 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2909
-- [[latest/5b25f100337811efbdaea558de59136c|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir 27 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2730
-- [[latest/9c39f470d45511e4bcd1a882e9a189f1|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 3, 4 ir 26 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1542
-- [[latest/7fe5f300c75711ea997c9ee767e856b4|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3229
-- [[latest/TAR.E9CE9C91C255|Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas]] - 8 citatos - Karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatyme
-- [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - 5 citatos - Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme
-- [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - 5 citatos - Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme
-- [[latest/TAR.E0EA485657C8|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas]] - 6 citatos - Lietuvos Respublikos Lietuvos šaulių sąjungos įstatyme
-- [[latest/TAR.3CD1008B88A9|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - 8 citatos - Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatyme
-- [[latest/TAR.A9C13A86ED0A|Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymas]] - 2 citatos - Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatyme
-- [[latest/TAR.B4FA4C56B8D5|Lietuvos Respublikos teisėkūros pagrindų įstatymas]] - 6 citatos - Teisėkūros pagrindų įstatymo
-- [[latest/TAR.AF4E384215F8|Lietuvos Respublikos vadovybės apsaugos įstatymas]] - 4 citatos - Lietuvos Respublikos vadovybės apsaugos įstatyme
-- [[latest/TAR.4C6BD6562C91|Lietuvos Respublikos valstybės gynimo tarybos įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės gynimo tarybos įstatymo
-- [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme
-- [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme
-- [[latest/TAR.3ED3D65F5638|Lietuvos Respublikos valstybės rezervo įstatymas]] - 5 citatos - Valstybės rezervo įstatymo
-- [[latest/TAR.0F8C601D8592|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės tarnybos įstatyme
-- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - Lietuvos Respublikos vietos savivaldos įstatyme
-- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - Lietuvos Respublikos viešojo administravimo įstatyme
-- [[latest/TAR.1881C195D0E2|Lietuvos Respublikos žvalgybos įstatymas]] - 5 citatos - Lietuvos Respublikos žvalgybos įstatyme
+- [[latest/TAR.EA5F9F0D6DBB|Lietuvos Respublikos  tiesioginio valdymo savivaldybės teritorijoje įstatymas]] - tiesioginio valdymo savivaldybės teritorijoje įstatyme
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Lietuvos Respublikos administracinių bylų teisenos įstatymo
+- [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatyme
+- [[latest/TAR.9D2F66B96EBC|Lietuvos Respublikos aviacijos įstatymas]] - Lietuvos Respublikos aviacijos įstatymo
+- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 4 citatos - 6
+- [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatymas]] - Lietuvos Respublikos diplomatinės tarnybos įstatyme
+- [[latest/TAR.8EB86FBF111C|Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas]] - Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatyme
+- [[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme
+- [[latest/TAR.E6F037A40B07|Lietuvos Respublikos karo padėties įstatymo 11, 25 straipsnių pakeitimo ir 23 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - 1101010ISTA00XI-757
+- [[latest/TAR.4F776848EF13|Lietuvos Respublikos karo padėties įstatymo 14 ir 24 straipsnių pakeitimo įstatymas]] - 2 citatos - 1041010ISTA0IX-2258
+- [[latest/TAR.CA93113B64BF|Lietuvos Respublikos karo padėties įstatymo 2 ir 21 straipsnių pakeitimo įstatymas]] - 2 citatos - 1001010ISTAIII-2003
+- [[latest/TAR.5E213C7E153F|Lietuvos Respublikos karo padėties įstatymo 2, 21, 32, 33 ir 37 straipsnių pakeitimo įstatymas]] - 2 citatos - 1111010ISTA0XI-1414
+- [[latest/TAR.C25C485EFC43|Lietuvos Respublikos karo padėties įstatymo 2, 3, 5, 6, 7, 8, 26, 27, 28, 29, 30 ir 31 straipsnių pakeitimo įstatymas]] - 2 citatos - 1031010ISTA0IX-1422
+- [[latest/TAR.6DC1C1E117B4|Lietuvos Respublikos karo padėties įstatymo 26 straipsnio pakeitimo įstatymas]] - 2 citatos - 1101010ISTA0XI-1268
+- [[latest/TAR.7B10FA0CEFC3|Lietuvos Respublikos karo padėties įstatymo 37 straipsnio pakeitimo įstatymas]] - 2 citatos - 1041010ISTA0IX-2330
+- [[latest/TAR.D57D49314B2E|Lietuvos Respublikos karo padėties įstatymo 8 straipsnio pakeitimo įstatymas]] - 2 citatos - 1121010ISTA0XI-2248
+- [[latest/TAR.E9CE9C91C255|Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas]] - 5 citatos - Karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatyme
+- [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - 3 citatos - Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme
+- [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - 3 citatos - Krizių valdymo ir civilinės saugos įstatymo
+- [[latest/TAR.E0EA485657C8|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas]] - 3 citatos - Lietuvos šaulių sąjungos įstatymo
+- [[latest/TAR.3CD1008B88A9|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - 4 citatos - Mobilizacijos ir priimančiosios šalies paramos įstatyme
+- [[latest/TAR.A9C13A86ED0A|Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymas]] - Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatyme
+- [[latest/TAR.B4FA4C56B8D5|Lietuvos Respublikos teisėkūros pagrindų įstatymas]] - 3 citatos - Teisėkūros pagrindų įstatyme
+- [[latest/TAR.AF4E384215F8|Lietuvos Respublikos vadovybės apsaugos įstatymas]] - 2 citatos - Vadovybės apsaugos įstatyme
+- [[latest/TAR.4C6BD6562C91|Lietuvos Respublikos valstybės gynimo tarybos įstatymas]] - Lietuvos Respublikos valstybės gynimo tarybos įstatymo
+- [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas]] - Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme
+- [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme
+- [[latest/TAR.3ED3D65F5638|Lietuvos Respublikos valstybės rezervo įstatymas]] - 3 citatos - Valstybės rezervo įstatymo
+- [[latest/TAR.0F8C601D8592|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas]] - Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatyme
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - Lietuvos Respublikos valstybės tarnybos įstatyme
+- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - Lietuvos Respublikos vietos savivaldos įstatyme
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - Lietuvos Respublikos viešojo administravimo įstatyme
+- [[latest/TAR.1881C195D0E2|Lietuvos Respublikos žvalgybos įstatymas]] - 3 citatos - Žvalgybos įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EA5F9F0D6DBB#^s-2ada3633dd4c3e483dd1bc2c|Lietuvos Respublikos  tiesioginio valdymo savivaldybės teritorijoje įstatymas]] - 2 citatos - Karo padėties įstatyme
 - [[latest/TAR.EA5F9F0D6DBB#^s-8a6c9a3fa884ee3444d8189c|Lietuvos Respublikos  tiesioginio valdymo savivaldybės teritorijoje įstatymas]] - 2 citatos - Karo padėties įstatyme
-- [[latest/f38df370c75711ea997c9ee767e856b4#^s-382c25db774cca5ef23cb059|Lietuvos Respublikos administracinių nusižengimų kodekso 505, 517, 589 straipsnių pakeitimo ir Kodekso papildymo 188-2, 505-1, 505-2, 517-1, 517-2, 517-3, 517-4, 560-1 straipsniais įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/f38df370c75711ea997c9ee767e856b4#^s-cba12ebf783e8729acff188d|Lietuvos Respublikos administracinių nusižengimų kodekso 505, 517, 589 straipsnių pakeitimo ir Kodekso papildymo 188-2, 505-1, 505-2, 517-1, 517-2, 517-3, 517-4, 560-1 straipsniais įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-6dd6860898f4731e0514354f|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-7b431327a2dae9c0b97e7e7a|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/1aebf5901b2711eeb233e8b04dc9bb3d#^s-49ef16f95186e93d5977f021|Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 11, 15, 17, 24, 28, 30, 33, 39, 55-1, 57, 59, 59-2 ir 61 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
+- [[latest/f38df370c75711ea997c9ee767e856b4#^s-382c25db774cca5ef23cb059|Lietuvos Respublikos administracinių nusižengimų kodekso 505, 517, 589 straipsnių pakeitimo ir Kodekso papildymo 188-2, 505-1, 505-2, 517-1, 517-2, 517-3, 517-4, 560-1 straipsniais įstatymas]] - 3 citatos - Lietuvos Respublikos karo padėties įstatyme
+- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-7b431327a2dae9c0b97e7e7a|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - 3 citatos - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/1aebf5901b2711eeb233e8b04dc9bb3d#^s-c46c3b6093ebea5bd026fa52|Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 11, 15, 17, 24, 28, 30, 33, 39, 55-1, 57, 59, 59-2 ir 61 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/27d2896080f711ed8df094f359a60216#^s-19882575214c6510708ba46c|Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 57 ir 59 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/27d2896080f711ed8df094f359a60216#^s-e814826cc88724a1637331dd|Lietuvos Respublikos farmacijos įstatymo Nr. X-709 2, 8, 57 ir 59 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/TAR.8EB86FBF111C#^s-66bb6566ebb0d38560b1c606|Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas]] - Karo padėties įstatymo
-- [[latest/TAR.8EB86FBF111C#^s-a7a9893befc11ab93c34b92a|Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/TAR.8EB86FBF111C#^s-afee63cdc86d5753ffa39b4d|Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas]] - Karo padėties įstatymo
 - [[latest/TAR.8EB86FBF111C#^s-d61fca660de7eac7f95477ce|Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/TAR.C7E57DF3CEC5#^s-2782477d1dee101333732479|Lietuvos Respublikos investicijų įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/TAR.C7E57DF3CEC5#^s-c32109bb98bbb65a8d74f80d|Lietuvos Respublikos investicijų įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/1c6126120fc811f08e9f87c0d053bf09#^s-f08d1473631401c2dbcd9621|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 10, 15-6, 15-7 ir 15-8 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/c3f83c20afcc11f092fda1fd0c194cc5#^s-b99b0036fab1864d4d29c882|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2 ir 13 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/TAR.CFC9E641B5A7#^s-7851a30c3010134d933f174f|Lietuvos Respublikos kardomojo kalinimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje
 - [[latest/TAR.CFC9E641B5A7#^s-7aa4b8e9258e19b723576622|Lietuvos Respublikos kardomojo kalinimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje
-- [[latest/TAR.CFC9E641B5A7#^s-7b00c146f4379ab2c0e672a4|Lietuvos Respublikos kardomojo kalinimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje
-- [[latest/TAR.CFC9E641B5A7#^s-b837a6125f068bd8f95b2500|Lietuvos Respublikos kardomojo kalinimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje
-- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-c41cf6f2375a01ee6891a8ee|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS KARO PADĖTIES ĮSTATYMAS
+- [[latest/fa2191a0393611e69101aaab2992cbcd#^s-1dcc9cf47f99e0942113754b|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 11 ir 14 straipsnių pakeitimo įstatymas]] - 14 straipsnio 2 dalį
+- [[latest/fa2191a0393611e69101aaab2992cbcd#^s-342a1c103fd66e5f7a246f5b|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 11 ir 14 straipsnių pakeitimo įstatymas]] - 14 straipsnio 1 dalį
+- [[latest/fa2191a0393611e69101aaab2992cbcd#^s-3cfea97df0c2ea916d293d71|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 11 ir 14 straipsnių pakeitimo įstatymas]] - 11 straipsnio 2 dalį
+- [[latest/80b02a209c1011ea9515f752ff221ec9#^s-1ad7dafdc70f7ccf5168acba|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir 21 straipsnių pakeitimo įstatymas]] - 2 citatos - šio straipsnio 2 dalyje
+- [[latest/2dcabd705e9f11e4bad5c03f56793630#^s-37a3ff07d78aea0f274f0f77|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir 21 straipsnių pakeitimo įstatymas]] - 2 citatos - šio straipsnio 2 dalyje
+- [[latest/80b02a209c1011ea9515f752ff221ec9#^s-4a06a5836b141da1ff07ba57|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir 21 straipsnių pakeitimo įstatymas]] - 21 straipsnio 2 dalį
+- [[latest/2dcabd705e9f11e4bad5c03f56793630#^s-7fb29d4c30618d2954acaa8d|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir 21 straipsnių pakeitimo įstatymas]] - 21 straipsnio 4 dalį
+- [[latest/2dcabd705e9f11e4bad5c03f56793630#^s-8a6efc754aec9b2e2ce5e451|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir 21 straipsnių pakeitimo įstatymas]] - 21 straipsnio 2 dalį
+- [[latest/2dcabd705e9f11e4bad5c03f56793630#^s-dddbb1de912d6dfc8acf2771|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir 21 straipsnių pakeitimo įstatymas]] - 5 citatos - 5
+- [[latest/5b25f100337811efbdaea558de59136c#^s-0afe86a2008a371dde1ea546|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir 27 straipsnių pakeitimo įstatymas]] - 27 straipsnio 1 dalį
+- [[latest/5b25f100337811efbdaea558de59136c#^s-176df1055a60dfcf2c1552e6|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir 27 straipsnių pakeitimo įstatymas]] - 25 straipsnio 1 dalį
+- [[latest/5b25f100337811efbdaea558de59136c#^s-49ed11bb069cfacee62d5b1b|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir 27 straipsnių pakeitimo įstatymas]] - 8 straipsnio 5 dalies 3 punktą
+- [[latest/5b25f100337811efbdaea558de59136c#^s-66c72d24eaf4d930e5ce1720|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir 27 straipsnių pakeitimo įstatymas]] - 25 straipsnio 2 dalį
+- [[latest/5b25f100337811efbdaea558de59136c#^s-678197a2af59755028c7a034|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir 27 straipsnių pakeitimo įstatymas]] - 2 straipsnio 10 dalį
+- [[latest/5b25f100337811efbdaea558de59136c#^s-ab3ea5bb261283b98c205083|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir 27 straipsnių pakeitimo įstatymas]] - 12 straipsnio 8 dalį
+- [[latest/5b25f100337811efbdaea558de59136c#^s-bccd6136da6f856d1d00fe35|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir 27 straipsnių pakeitimo įstatymas]] - 12 straipsnio 9 dalį
+- [[latest/5b25f100337811efbdaea558de59136c#^s-dcbedb592f7e314d60a5db1c|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir 27 straipsnių pakeitimo įstatymas]] - 3 citatos - 15 straipsnyje
+- [[latest/5b25f100337811efbdaea558de59136c#^s-f4ee4e3e2ec3d4c5cc064853|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir 27 straipsnių pakeitimo įstatymas]] - 17 straipsnio 2 dalį
+- [[latest/5b25f100337811efbdaea558de59136c#^s-f67a5ec15e138996cb2b239f|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir 27 straipsnių pakeitimo įstatymas]] - 12 straipsnio 13 dalies 2 punktą
+- [[latest/9c39f470d45511e4bcd1a882e9a189f1#^s-21990226fe8c3a1399248271|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 3, 4 ir 26 straipsnių pakeitimo įstatymas]] - 2 citatos - 26 straipsnis
+- [[latest/9c39f470d45511e4bcd1a882e9a189f1#^s-bae7dc8527c9deb42ee34faf|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 3, 4 ir 26 straipsnių pakeitimo įstatymas]] - 3 straipsnio 3 dalį
+- [[latest/9c39f470d45511e4bcd1a882e9a189f1#^s-d3d50b8663938e103970bee2|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 3, 4 ir 26 straipsnių pakeitimo įstatymas]] - 6 citatos - 36
+- [[latest/9c39f470d45511e4bcd1a882e9a189f1#^s-f993e415bf593ab2af676980|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 3, 4 ir 26 straipsnių pakeitimo įstatymas]] - 4 straipsnio 1 dalį
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-4df20b52d7d5049fb8af2b64|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - 2 citatos - 1
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-698c7320a780fee6a43bea41|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - 2 straipsnio 1 dalyje
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-9580ae06ba9457fa695466ab|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - šio straipsnio 2 dalį
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-c41cf6f2375a01ee6891a8ee|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - įstatymą Nr. VIII-1721
+- [[latest/7fe5f300c75711ea997c9ee767e856b4#^s-df665f08762444a7a4a789e0|Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas]] - 36
 - [[latest/8e83ace02b3411eb932eb1ed7f923910#^s-546e0f64535f6535f1894862|Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/8e83ace02b3411eb932eb1ed7f923910#^s-8c5d7b3ec7dbb8a073caa4f9|Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/TAR.15C705E93776#^s-2d5fd1f8919227324d2384b1|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Lietuvos Respublikos karo padėties įstatymo
 - [[latest/TAR.15C705E93776#^s-35b07ddf96e3532dc3438155|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/TAR.15C705E93776#^s-4ae5cfac440f1bbf3f415630|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Lietuvos Respublikos karo padėties įstatymo
 - [[latest/TAR.15C705E93776#^s-66acd6a3a6f3632c86a68e38|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Karo padėties įstatymas
-- [[latest/TAR.15C705E93776#^s-a63b2b837be613a404809deb|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/TAR.15C705E93776#^s-fc38b3d1f14e5ac133008242|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Karo padėties įstatymas
 - [[latest/a4ad0280c75911ea997c9ee767e856b4#^s-3bb080091cb8f7689bf32d25|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 3, 12, 13, 14, 17, 21, 23 ir 67 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo
-- [[latest/f23c8250c75911ea997c9ee767e856b4#^s-64aaac0ddb435103af05a438|Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 2, 3, 4 ir 5 straipsnių pakeitimo įstatymas]] - 2 citatos - Karo padėties įstatyme
 - [[latest/f23c8250c75911ea997c9ee767e856b4#^s-9d63f2c74462c39304937103|Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 2, 3, 4 ir 5 straipsnių pakeitimo įstatymas]] - 2 citatos - Karo padėties įstatyme
-- [[latest/3787fba049e111eb8d9fe110e148c770#^s-4507cf72128644a5b0ecaec1|Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 pakeitimo įstatymas]] - 2 citatos - Karo padėties įstatyme
 - [[latest/3787fba049e111eb8d9fe110e148c770#^s-adde98c90a04ef0c13db421e|Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 pakeitimo įstatymas]] - 2 citatos - Karo padėties įstatyme
-- [[latest/TAR.E0EA485657C8#^s-27d072cb982216f62c08f50a|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/TAR.E0EA485657C8#^s-39c77747d0a3b8d141e8c656|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas]] - Karo padėties įstatyme
 - [[latest/TAR.E0EA485657C8#^s-6036464e7034aa470d78d3ce|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/d7843010c75a11ea997c9ee767e856b4#^s-199efa0960b4923791bd077b|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 2, 3, 8, 9, 12, 13, 21, 34, 35, 41 straipsnių pakeitimo ir Įstatymo papildymo 20-1, 33-1 straipsniais įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/d7843010c75a11ea997c9ee767e856b4#^s-3c62466ec4f6665858027342|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 2, 3, 8, 9, 12, 13, 21, 34, 35, 41 straipsnių pakeitimo ir Įstatymo papildymo 20-1, 33-1 straipsniais įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/d7843010c75a11ea997c9ee767e856b4#^s-8bf9283d3aaa349ef4eb663e|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 2, 3, 8, 9, 12, 13, 21, 34, 35, 41 straipsnių pakeitimo ir Įstatymo papildymo 20-1, 33-1 straipsniais įstatymas]] - Karo padėties įstatyme
+- [[latest/d7843010c75a11ea997c9ee767e856b4#^s-8bf9283d3aaa349ef4eb663e|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 2, 3, 8, 9, 12, 13, 21, 34, 35, 41 straipsnių pakeitimo ir Įstatymo papildymo 20-1, 33-1 straipsniais įstatymas]] - 2 citatos - Karo padėties įstatyme
 - [[latest/3c3e2d60696311edbc04912defe897d1#^s-03c6b2dfe3e2d6f7a3f36583|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/69699b02c13911ef88c08519262548c4#^s-0aeb3e409baa5e7eec906608|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Karo padėties įstatyme
 - [[latest/69699b02c13911ef88c08519262548c4#^s-1265347c05109e61d22f6e74|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/3c3e2d60696311edbc04912defe897d1#^s-33d5648a33b6952a5c242d4d|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Karo padėties įstatymo
-- [[latest/3c3e2d60696311edbc04912defe897d1#^s-4582c72dec53574d1e19d92b|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
+- [[latest/3c3e2d60696311edbc04912defe897d1#^s-33d5648a33b6952a5c242d4d|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - 2 citatos - Karo padėties įstatymo
 - [[latest/69699b02c13911ef88c08519262548c4#^s-6d4eb9dead52d5458e4f6ea2|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Karo padėties įstatyme
-- [[latest/69699b02c13911ef88c08519262548c4#^s-717e5a3b88dcd55b39f8495f|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Karo padėties įstatymo
+- [[latest/69699b02c13911ef88c08519262548c4#^s-717e5a3b88dcd55b39f8495f|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - 2 citatos - Karo padėties įstatymo
 - [[latest/69699b02c13911ef88c08519262548c4#^s-8779c727557e047065267050|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Karo padėties įstatyme
-- [[latest/69699b02c13911ef88c08519262548c4#^s-a1dd6026ef5fb5c507483d38|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/TAR.590FF7289F21#^s-196032102c69e0c8689a0ab7|Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymas
-- [[latest/TAR.590FF7289F21#^s-228ee0edbcf2a50215ab82cb|Lietuvos Respublikos mobilizacijos ir mobilizacinio rezervo rengimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymas
 - [[latest/TAR.3CD1008B88A9#^s-083cc1ebe6b48c1a6fff6f69|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - Karo padėties įstatyme
 - [[latest/TAR.3CD1008B88A9#^s-0f91bd19d38618be8797725c|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - Karo padėties įstatyme
 - [[latest/TAR.3CD1008B88A9#^s-33e39307d0e0d9d9085a8223|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - Karo padėties įstatyme
 - [[latest/TAR.3CD1008B88A9#^s-5146d76d96c308984fc8b080|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - Karo padėties įstatyme
-- [[latest/TAR.3CD1008B88A9#^s-8c74ad8bdfe93fc14b89f12f|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - Karo padėties įstatyme
 - [[latest/TAR.3CD1008B88A9#^s-b910b305ca6a75e0468cd92e|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - Karo padėties įstatyme
 - [[latest/TAR.3CD1008B88A9#^s-c16136910493b1f78a697178|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/TAR.3CD1008B88A9#^s-d38d65784f26c25929e64c2b|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - Karo padėties įstatyme
-- [[latest/TAR.3CD1008B88A9#^s-db098cf9f6bc0b34df59d9d4|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/TAR.3CD1008B88A9#^s-db1d3596d0bce13ed12ae753|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - Karo padėties įstatyme
 - [[latest/acecfac04a4711efbdaea558de59136c#^s-58bdf7af2aa91037dcea799b|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 2, 10, 11, 12, 14, 17, 18, 20, 26 straipsnių pakeitimo ir Įstatymo papildymo 17-1, 18-1 straipsniais įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/acecfac04a4711efbdaea558de59136c#^s-60684390d864543e14f70a44|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 2, 10, 11, 12, 14, 17, 18, 20, 26 straipsnių pakeitimo ir Įstatymo papildymo 17-1, 18-1 straipsniais įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/acecfac04a4711efbdaea558de59136c#^s-d05590f6a430368e76de9ae4|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 2, 10, 11, 12, 14, 17, 18, 20, 26 straipsnių pakeitimo ir Įstatymo papildymo 17-1, 18-1 straipsniais įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/a16026e0337811efbdaea558de59136c#^s-0804fe21be8d81b7b66af9ff|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 2, 18 ir 22 straipsnių pakeitimo įstatymas]] - Karo padėties įstatyme
 - [[latest/a16026e0337811efbdaea558de59136c#^s-9726a0c2326760a632c02016|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 2, 18 ir 22 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/a16026e0337811efbdaea558de59136c#^s-ecd886afb9d219f955badb05|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 2, 18 ir 22 straipsnių pakeitimo įstatymas]] - Karo padėties įstatyme
 - [[latest/3f947ec0c75711ea997c9ee767e856b4#^s-0a2cd3add6dc63549edbd0c0|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 pakeitimo įstatymas]] - Karo padėties įstatyme
 - [[latest/3f947ec0c75711ea997c9ee767e856b4#^s-15e9351ecb04d7859ebaf406|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 pakeitimo įstatymas]] - Karo padėties įstatyme
 - [[latest/3f947ec0c75711ea997c9ee767e856b4#^s-2a4e3a2e3088d3c8f1d1ad9d|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 pakeitimo įstatymas]] - Karo padėties įstatyme
 - [[latest/3f947ec0c75711ea997c9ee767e856b4#^s-2da16a12eec70b5c2b951b62|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 pakeitimo įstatymas]] - Karo padėties įstatyme
-- [[latest/3f947ec0c75711ea997c9ee767e856b4#^s-69d5cd9db08f118094239914|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/3f947ec0c75711ea997c9ee767e856b4#^s-6b406343bfd8a01b7d2be5ab|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 pakeitimo įstatymas]] - Karo padėties įstatyme
-- [[latest/3f947ec0c75711ea997c9ee767e856b4#^s-9ab4454e8d3b1247cf167272|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 pakeitimo įstatymas]] - Karo padėties įstatyme
 - [[latest/3f947ec0c75711ea997c9ee767e856b4#^s-a30e2a41e07941ee60a6be7a|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 pakeitimo įstatymas]] - Karo padėties įstatyme
 - [[latest/3f947ec0c75711ea997c9ee767e856b4#^s-bd397db9ecba6baa668f1930|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/3f947ec0c75711ea997c9ee767e856b4#^s-cab9cd985c1b3e2c1dcc9cc1|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 pakeitimo įstatymas]] - Karo padėties įstatyme
 - [[latest/TAR.A0BAB27D768C#^s-3b1b5edb10fcb672484e4e61|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas]] - Lietuvos Respublikos karo padėties įstatymo
 - [[latest/aa603860c75d11ea997c9ee767e856b4#^s-3a71007971935272cbe7e2a1|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio 7, 8, 18, 19 ir 22-1 skyrių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo
-- [[latest/aa603860c75d11ea997c9ee767e856b4#^s-9fc672f28d2c0dbbd455787c|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymo Nr. VIII-49 priedėlio 7, 8, 18, 19 ir 22-1 skyrių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo
 - [[latest/TAR.845C6618A647#^s-1a292b5cf064c1a72f391cb5|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/TAR.845C6618A647#^s-93a7dc56f8e4b6f0002b3c91|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - Karo padėties įstatyme
-- [[latest/TAR.845C6618A647#^s-bed0ca88c1072b4ed7479560|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - Karo padėties įstatyme
-- [[latest/TAR.845C6618A647#^s-d84f8f100cf029e928b77571|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/a19acc42041e11edb32c9f9d8ba206f8#^s-e888b0fbbcfda7298a4f7ae2|Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 13, 15, 16, 21, 22, 27 ir 28 straipsnių pakeitimo įstatymas]] - Karo padėties įstatyme
 - [[latest/ef5a9b40c75d11ea997c9ee767e856b4#^s-c4d01dcce7629ca263454f9c|Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 9, 10 ir 28 straipsnių pakeitimo įstatymas]] - Karo padėties įstatyme
 - [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-19c1eb44ab20b4fa0b54426d|Lietuvos Respublikos strateginio valdymo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 3 straipsnio 4 dalies
-- [[latest/13ecbb50c1be11ea9815f635b9c0dcef#^s-84ad0dedd025631ff0c53181|Lietuvos Respublikos strateginio valdymo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 3 straipsnio 4 dalies
-- [[latest/18170f50697411eca9ac839120d251c4#^s-23887bffa90241bb7aaa6497|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 3 straipsnio 4 dalies
 - [[latest/18170f50697411eca9ac839120d251c4#^s-7ded4d1f43b69178fd25f103|Lietuvos Respublikos strateginio valdymo įstatymo Nr. XIII-3096 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 3 straipsnio 4 dalies
-- [[latest/2053450024a511e5b336e9064144f02a#^s-5569544cc573a3e00e896106|Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 7, 8, 9, 10, 11, 12, 16, 22, 23, 24, 27, 28, 30, 32, 34, 37, 38, 41, 42, 44 ir 48 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje
 - [[latest/2053450024a511e5b336e9064144f02a#^s-a396f1d7cc6768fbbf1f2155|Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 7, 8, 9, 10, 11, 12, 16, 22, 23, 24, 27, 28, 30, 32, 34, 37, 38, 41, 42, 44 ir 48 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje
 - [[latest/21190790b1ef11eab9d9cd0c85e0b745#^s-0703c2355c4bbbd4c372e537|Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 7, 8, 9, 10, 11, 12, 17, 20, 22, 24, 26, 27, 28, 30, 32, 34, 36, 38, 39, 40 ir 42 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje
 - [[latest/21190790b1ef11eab9d9cd0c85e0b745#^s-0eb54598e9c79c5a2d3e3185|Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 7, 8, 9, 10, 11, 12, 17, 20, 22, 24, 26, 27, 28, 30, 32, 34, 36, 38, 39, 40 ir 42 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje
-- [[latest/21190790b1ef11eab9d9cd0c85e0b745#^s-6d47faf76141e9127e25b35c|Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 7, 8, 9, 10, 11, 12, 17, 20, 22, 24, 26, 27, 28, 30, 32, 34, 36, 38, 39, 40 ir 42 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje
-- [[latest/21190790b1ef11eab9d9cd0c85e0b745#^s-e1bb94ab4a21e5030ffb1606|Lietuvos Respublikos suėmimo vykdymo įstatymo Nr. I-1175 2, 7, 8, 9, 10, 11, 12, 17, 20, 22, 24, 26, 27, 28, 30, 32, 34, 36, 38, 39, 40 ir 42 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 12 straipsnio 5 dalyje
-- [[latest/951bd580041f11edb32c9f9d8ba206f8#^s-14b63f25b1c110324c780a9b|Lietuvos Respublikos tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 2, 3, 4 ir 6 straipsnių pakeitimo įstatymas]] - 2 citatos - Karo padėties įstatyme
 - [[latest/951bd580041f11edb32c9f9d8ba206f8#^s-bd78b03b2a8a2c3a446ec106|Lietuvos Respublikos tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 2, 3, 4 ir 6 straipsnių pakeitimo įstatymas]] - 2 citatos - Karo padėties įstatyme
-- [[latest/TAR.F0E2E67B1F2F#^s-13f01fc76c485eccf73da95a|Lietuvos Respublikos turizmo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/TAR.F0E2E67B1F2F#^s-d900d538e8ceb5c40bae7e15|Lietuvos Respublikos turizmo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/a71b922086d611efabdbb4a1fc8b0b63#^s-3e0221fdc33fca54f6d12e60|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2 ir 32 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/831594a0855711eab005936df725feed#^s-86b98da1f9270cc3f02a44f8|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 15 straipsnių pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/b518f9b0c1ac11ea9815f635b9c0dcef#^s-f52334ccbe925616283ac578|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 36, 37, 38, 39, 40 ir 41 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/af211be05ea911edbc04912defe897d1#^s-74900c8b80577f89b30e3388|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/af211be05ea911edbc04912defe897d1#^s-91b70b0f34dc64e731c0a135|Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/TAR.3ED3D65F5638#^s-afa575aa8e2f6a2e89df41e6|Lietuvos Respublikos valstybės rezervo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/TAR.3ED3D65F5638#^s-f249ca89b6a5a18a2da1c373|Lietuvos Respublikos valstybės rezervo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/b70f1f40828b11ed8df094f359a60216#^s-424052dbda22d7e3c6abb255|Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 3, 4 ir 13 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/b70f1f40828b11ed8df094f359a60216#^s-4d4094c8eb43542bf86c87b0|Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 3, 4 ir 13 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/cfe1ab00fbbb11e99681cd81dcdca52c#^s-4822c3143db6726659a042ce|Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 4, 8, 9, 10, 11, 12, 13, 17, 18 straipsnių pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/cfe1ab00fbbb11e99681cd81dcdca52c#^s-d819795538b12dbd5213ba61|Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 4, 8, 9, 10, 11, 12, 13, 17, 18 straipsnių pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/b013ba40a51211ec8d9390588bf2de65#^s-04b35ad6ecbf223efa2838d0|Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 8, 10, 13, 17 ir 18-1 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/b013ba40a51211ec8d9390588bf2de65#^s-3a7e8b7af682449328950aca|Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 8, 10, 13, 17 ir 18-1 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/TAR.496C51E87DE9#^s-49effd74d530d46248ea0e51|Lietuvos Respublikos valstybės rezervo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/TAR.496C51E87DE9#^s-5fff339ea2e695719e2ef841|Lietuvos Respublikos valstybės rezervo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/TAR.0F8C601D8592#^s-2bb8332278f7e0ea0d5c8d15|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas]] - Lietuvos Respublikos karo padėties įstatymo
 - [[latest/TAR.0F8C601D8592#^s-b35e8c00063dc1ac07a0e645|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymas]] - Lietuvos Respublikos karo padėties įstatymo
 - [[latest/1dea548067b411e7827cd63159af616c#^s-254c2d0949357d4776109b4e|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo
-- [[latest/1dea548067b411e7827cd63159af616c#^s-3a35010ab2da58cad711833a|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo
 - [[latest/1f9e84d0e43711ed9978886e85107ab2#^s-5bc52da04ccaf007cb114b96|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr.VIII-1666 1, 2, 4, 10, 11, 14, 15, 16, 18, 23, 26 straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu ir nauju IX skyriumi įstatymas]] - Lietuvos Respublikos karo padėties įstatymo
-- [[latest/1f9e84d0e43711ed9978886e85107ab2#^s-f4ee66a39ac1f6b9f8d7128d|Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr.VIII-1666 1, 2, 4, 10, 11, 14, 15, 16, 18, 23, 26 straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu ir nauju IX skyriumi įstatymas]] - Lietuvos Respublikos karo padėties įstatymo
-- [[latest/014ced40a62a11eea5a28c81c82193a8#^s-076eeede3c68f650c3741d33|Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 16 straipsnyje
 - [[latest/014ced40a62a11eea5a28c81c82193a8#^s-9729d843260a517c10bb1855|Lietuvos Respublikos vidaus tarnybos statuto pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 16 straipsnyje
-- [[latest/TAR.4FC026AC03AE#^s-63cf942c6ab9c1c5374c9ec5|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 16 straipsnyje
 - [[latest/TAR.4FC026AC03AE#^s-af27696ac6f7dda06f5812a0|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - Lietuvos Respublikos karo padėties įstatymo 16 straipsnyje
 - [[latest/TAR.D0CD0966D67F#^s-05704ba010d2451321de1603|Lietuvos Respublikos vietos savivaldos įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/TAR.D0CD0966D67F#^s-8d1cc1fc0cee3fc787c5c548|Lietuvos Respublikos vietos savivaldos įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/dede3820c75e11ea997c9ee767e856b4#^s-17543f92f24b23bab2cfa881|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 11, 19, 25 ir 29 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/be5fa2e049e111eb8d9fe110e148c770#^s-585031b783eeb09331021ea0|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 11, 19, 25 ir 29 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/be5fa2e049e111eb8d9fe110e148c770#^s-8f66738113cbff0da9218edb|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 11, 19, 25 ir 29 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/dede3820c75e11ea997c9ee767e856b4#^s-b65e28efba07143d06008201|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 11, 19, 25 ir 29 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/b8814b70041c11edb32c9f9d8ba206f8#^s-aafe96e755ebe0055335a306|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/b8814b70041c11edb32c9f9d8ba206f8#^s-c63dcc0c764a76d29fafb25b|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/TAR.E838D0C06065#^s-2a6310fdcbc241e365aa0e79|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/TAR.E838D0C06065#^s-8d75158b12e095654de1fb41|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
-- [[latest/6cfdeec00e7e11e9a5eaf2cd290f1944#^s-28b07cfcbc1def4b119550f3|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme
 - [[latest/6cfdeec00e7e11e9a5eaf2cd290f1944#^s-2d6c568fce87f299369d5e24|Lietuvos Respublikos viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatymo Nr. XI-1491 pakeitimo įstatymas]] - Lietuvos Respublikos karo padėties įstatyme

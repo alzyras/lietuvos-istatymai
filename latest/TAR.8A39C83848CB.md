@@ -100,7 +100,7 @@ Kiekvienai iki Civilinio kodekso įsigaliojimo neįvykusiai sąlygai, kurią num
 ### 8 straipsnis. Civilinio kodekso normų taikymas sandorio formai ^s-92d44fc068e3f3ad1582abdd
 
 
-1. Sandorio formai taikomi jo sudarymo momentu galioję įstatymai. Civilinio kodekso 1.71–1.76 straipsniuose numatytos normos dėl sandorių formos reikalavimų taikomos tiems sandoriams, kurie buvo sudaryti įsigaliojus šiam kodeksui, išskyrus šio straipsnio 2 ir [[#^s-21a0208730090bba35dc5919|3 dalyse]] nustatytas išimtis. ^s-6cebf609d42759a99fa0b9a6
+1. Sandorio formai taikomi jo sudarymo momentu galioję įstatymai. Civilinio kodekso 1.71–1.76 straipsniuose numatytos normos dėl sandorių formos reikalavimų taikomos tiems sandoriams, kurie buvo sudaryti įsigaliojus šiam kodeksui, išskyrus šio straipsnio [[#^s-f2537f1a8fe990ecd7c1976c|2]] ir [[#^s-21a0208730090bba35dc5919|3]] dalyse nustatytas išimtis. ^s-6cebf609d42759a99fa0b9a6
 
 
 2. Jeigu pagal sandorio sudarymo momentu galiojusį įstatymą sandoriui buvo nustatyta privaloma teisinė registracija, bet sandoris nebuvo įregistruotas ir, įsigaliojus Civiliniam kodeksui, registravimo terminas dar nepasibaigęs, tai tokio sandorio teisinei registracijai taikomos šio kodekso taisyklės. ^s-f2537f1a8fe990ecd7c1976c
@@ -163,7 +163,7 @@ Civilinio kodekso 2.[[#^s-37fe77baf52522c321fbdf2c|27 straipsnio]] norma dėl te
 2. Individualios įmonės ir ūkinės bendrijos, kurios buvo įsteigtos ir įregistruotos iki Civilinio kodekso įsigaliojimo galiojusių įstatymų nustatyta tvarka, įsigaliojus šiam kodeksui, laikomos neribotos atsakomybės juridiniais asmenimis be atskiro perregistravimo. ^s-d7502a8c70b7546029331c73
 
 
-3. Įsigaliojus Civiliniam kodeksui, šio straipsnio 1 ir [[#^s-d7502a8c70b7546029331c73|2 dalyse]] nurodytų juridinių asmenų steigimo dokumentai galioja tiek, kiek neprieštarauja šio kodekso normoms. ^s-beb4c821666dbc542d322507
+3. Įsigaliojus Civiliniam kodeksui, šio straipsnio [[#^s-6dfcde9ba6475fa5fae95e66|1]] ir [[#^s-d7502a8c70b7546029331c73|2]] dalyse nurodytų juridinių asmenų steigimo dokumentai galioja tiek, kiek neprieštarauja šio kodekso normoms. ^s-beb4c821666dbc542d322507
 
 
 
@@ -479,7 +479,7 @@ Civilinio kodekso šeštosios knygos XVI, XVII, XVIII skyrių normos dėl sutar�
 ### 48 straipsnis. Civilinio kodekso šeštosios knygos normų taikymas atskiroms sutartims ^s-711651217eeb21569aa28cf4
 
 
-1. Pirkimo–pardavimo išsimokėtinai sutartims, taip pat lizingo (finansinės nuomos) sutartims taikomos teisės normos, galiojusios jų sudarymo metu, išskyrus šio įstatymo nustatytas išimtis. Civilinio kodekso 6.572 straipsnio 1 ir [[#^s-2f48024a7c541c9a881c04bc|2 dalių]] normos įsigalioja nuo registro, kuriame registruojamos lizingo sutartys, veiklos pradžios. ^s-ea8848bf797a7c19242670ff
+1. Pirkimo–pardavimo išsimokėtinai sutartims, taip pat lizingo (finansinės nuomos) sutartims taikomos teisės normos, galiojusios jų sudarymo metu, išskyrus šio įstatymo nustatytas išimtis. Civilinio kodekso 6.572 straipsnio 1 ir 2 dalių normos įsigalioja nuo registro, kuriame registruojamos lizingo sutartys, veiklos pradžios. ^s-ea8848bf797a7c19242670ff
 
 
 2. Civilinio kodekso 6.465 straipsnio 2 dalies norma taikoma tik po šio kodekso įsigaliojimo duotiems pažadams padovanoti turtą ar turtinę teisę. ^s-2f48024a7c541c9a881c04bc
@@ -596,10 +596,10 @@ b) iki 2001 m. spalio 1 d. – hipotekos registrą;
 2) Lietuvos Respublikos santuokos ir šeimos kodeksas (Žin., 1969, Nr.21-186; 1973, Nr.31-275; 1976, Nr.6-55, Nr.28-248; 1980, Nr.33-473; 1983, Nr.30-322; 1984, Nr.6-68; 1985, Nr.8-73; 1989, Nr.19-213; 1991, Nr.13-333; 1993, Nr.16-403, Nr.56-1077; 1994, Nr.89-1715; 1995, Nr.55-1359; 1997, Nr.19-409, Nr.99-2507; 1999, Nr.33-944; 2000, Nr.1-1, Nr.58-1713); ^s-9a013d6c667946d2558b4c05
 
 
-3) Lietuvos Respublikos žemės nuomos įstatymas (Žin., 1994, Nr.3-41; 1998, Nr.32-855, Nr.47-1293; 1999, Nr.64-2074); ^s-86e57782d32f14d5450e0d5e
+3) [Lietuvos Respublikos žemės nuomos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC) (Žin., 1994, Nr.3-41; 1998, Nr.32-855, Nr.47-1293; 1999, Nr.64-2074); ^s-86e57782d32f14d5450e0d5e
 
 
-4) Lietuvos Respublikos vaiko globos įstatymas (Žin., 1998, Nr.35-933; 2000, Nr.58-1702). ^s-0762f473c8c4dc2c74e6f0ff
+4) [Lietuvos Respublikos vaiko globos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.1A3930C74FBF) (Žin., 1998, Nr.35-933; 2000, Nr.58-1702). ^s-0762f473c8c4dc2c74e6f0ff
 
 
 
@@ -668,7 +668,7 @@ Nr. XI-1619, 2011-10-13, Žin., 2011, Nr. 129-6108 (2011-10-27)
 1.[[#^s-828d18af9ccd75f4f9fde300|3 straipsnis]]. Civilinės teisės šaltiniai ^s-af036b0f150bd4b9301aa4d4
 
 
-1. Civilinės teisės šaltiniai yra Lietuvos Respublikos Konstitucija, šis kodeksas, kiti įstatymai, Lietuvos Respublikos tarptautinės sutartys. ^s-b8b8353902c69c85794620ae
+1. Civilinės teisės šaltiniai yra [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis kodeksas, kiti įstatymai, Lietuvos Respublikos tarptautinės sutartys. ^s-b8b8353902c69c85794620ae
 
 
 2. Jeigu yra šio kodekso ir kitų įstatymų prieštaravimų, taikomos šio kodekso normos, išskyrus atvejus, kai šis kodeksas pirmenybę suteikia kitų įstatymų normoms. ^s-2ed4180e41b090de751c4401
@@ -1081,7 +1081,7 @@ Santuokos sudarymo tvarka nustatoma pagal santuokos sudarymo vietos valstybės t
 1.[[#^s-bec0ef6dc5356db4dc12a73d|30 straipsnis]]. Santuokos pripažinimo negaliojančia, jos nutraukimo ir gyvenimo skyrium (separacijos) bylų jurisdikcija ^s-c0edf32ccbe2b56e3d6b7935
 
 
-Santuokos pripažinimo negaliojančia, jos nutraukimo ir gyvenimo skyrium (separacijos) bylos priklauso Lietuvos Respublikos teismų jurisdikcijai Lietuvos Respublikos civilinio proceso kodekso numatytais atvejais.
+Santuokos pripažinimo negaliojančia, jos nutraukimo ir gyvenimo skyrium (separacijos) bylos priklauso Lietuvos Respublikos teismų jurisdikcijai [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) numatytais atvejais.
 
 
 
@@ -1443,7 +1443,7 @@ Vienašaliams sandoriams taikoma valstybės, kurioje jie buvo sudaryti, teisė.
 1.56 straipsnis. Vertybiniams popieriams taikytina teisė ^s-abc8f87075ba52f311a2cae9
 
 
-1. Čekiams ir vekseliams taikomos 1931 m. kovo 19 d. Ženevos konvencija dėl įstatymų kolizijų naudojant čekius sprendimo ir 1930 m. birželio 7 d. Ženevos konvencija dėl įstatymų kolizijų naudojant įsakomuosius ir paprastuosius vekselius sprendimo. ^s-6eacdb1a9131e2e0ba241129
+1. Čekiams ir vekseliams taikomos 1931 m. kovo 19 d. Ženevos [konvencija dėl įstatymų kolizijų naudojant čekius sprendimo](https://e-tar.lt/portal/lt/legalAct/TAR.7DB23F34DB6C) ir 1930 m. birželio 7 d. Ženevos [konvencija dėl įstatymų kolizijų naudojant įsakomuosius ir paprastuosius vekselius sprendimo](https://e-tar.lt/portal/lt/legalAct/TAR.9449415E523B). ^s-6eacdb1a9131e2e0ba241129
 
 
 2. Kitiems vertybiniams popieriams taikoma jų išleidimo (išdavimo) vietos valstybės teisė. ^s-a7fc58498fa1874df38a28cb
@@ -2982,7 +2982,7 @@ Nr. XIII-1923, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00856
 
 
 4. Prašymą pripažinti asmenį neveiksniu tam tikroje srityje turi teisę paduoti to asmens sutuoktinis, tėvai, pilnamečiai vaikai, globos (rūpybos) institucija arba prokuroras. Jie taip pat turi teisę kreiptis į teismą dėl asmens pripažinimo visiškai veiksniu ar veiksniu toje srityje, kurioje asmuo yra pripažintas neveiksniu. Dėl asmens pripažinimo visiškai veiksniu ar veiksniu toje srityje, kurioje asmuo yra pripažintas neveiksniu, šio kodekso 2.101 straipsnyje numatytais atvejais į teismą taip pat turi teisę kreiptis Neveiksnių asmenų būklės peržiūrėjimo komisija. Ne dažniau kaip kartą per vienus metus kreiptis į teismą dėl pripažinimo visiškai veiksniu ar veiksniu toje srityje, kurioje asmuo yra pripažintas neveiksniu, turi teisę ir fizinis asmuo, kuris pripažintas neveiksniu tam tikroje srityje. Vienų metų terminas pradedamas skaičiuoti nuo teismo sprendimo pripažinti asmenį neveiksniu tam tikroje srityje įsiteisėjimo dienos. Vėlesni vienų metų terminai pradedami skaičiuoti nuo paskutinio teismo sprendimo, kuriuo buvo sprendžiamas asmens veiksnumo klausimas, įsiteisėjimo dienos. ^s-e950c3b40bc201646cf69949
-TAR pastaba. Iki [[latest/e91c2ee0df7a11e48b678a6bad30f55f|įstatymo Nr. XII-1566]] įsigaliojimo (2016-01-01) priimti teismo sprendimai, kuriais asmenys pripažinti neveiksniais, turi būti peržiūrėti per dvejus metus nuo šio įstatymo įsigaliojimo dienos Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Dėl iki šio įstatymo įsigaliojimo pripažinto neveiksniu asmens pripažinimo veiksniu ar ribotai veiksniu per vienerius metus nuo šio įstatymo įsigaliojimo dienos į neveiksniu pripažinto asmens gyvenamosios vietos apylinkės teismą turi kreiptis neveiksniu pripažinto asmens globėjas, taip pat gali kreiptis kiti šio įstatymo [[#^s-bd55aec0a38db024c459ae80|5 straipsnyje]] išdėstyto Lietuvos Respublikos civilinio kodekso 2.10 straipsnio 4 dalyje nurodyti asmenys. Jei per vienerius metus nuo šio įstatymo įsigaliojimo dienos šioje dalyje nurodyti asmenys nesikreipia dėl iki šio įstatymo įsigaliojimo pripažinto neveiksniu asmens pripažinimo veiksniu ar ribotai veiksniu, dėl teismo sprendimo, kuriuo asmuo pripažintas neveiksniu, peržiūrėjimo į neveiksniu pripažinto asmens gyvenamosios vietos apylinkės teismą turi kreiptis neveiksnaus asmens gyvenamosios vietos savivaldybės administracija ar jos įgaliota įstaiga.
+TAR pastaba. Iki [[latest/e91c2ee0df7a11e48b678a6bad30f55f|įstatymo Nr. XII-1566]] įsigaliojimo (2016-01-01) priimti teismo sprendimai, kuriais asmenys pripažinti neveiksniais, turi būti peržiūrėti per dvejus metus nuo šio įstatymo įsigaliojimo dienos [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Dėl iki šio įstatymo įsigaliojimo pripažinto neveiksniu asmens pripažinimo veiksniu ar ribotai veiksniu per vienerius metus nuo šio įstatymo įsigaliojimo dienos į neveiksniu pripažinto asmens gyvenamosios vietos apylinkės teismą turi kreiptis neveiksniu pripažinto asmens globėjas, taip pat gali kreiptis kiti šio įstatymo [[#^s-bd55aec0a38db024c459ae80|5 straipsnyje]] išdėstyto Lietuvos Respublikos civilinio kodekso 2.10 straipsnio 4 dalyje nurodyti asmenys. Jei per vienerius metus nuo šio įstatymo įsigaliojimo dienos šioje dalyje nurodyti asmenys nesikreipia dėl iki šio įstatymo įsigaliojimo pripažinto neveiksniu asmens pripažinimo veiksniu ar ribotai veiksniu, dėl teismo sprendimo, kuriuo asmuo pripažintas neveiksniu, peržiūrėjimo į neveiksniu pripažinto asmens gyvenamosios vietos apylinkės teismą turi kreiptis neveiksnaus asmens gyvenamosios vietos savivaldybės administracija ar jos įgaliota įstaiga.
 Straipsnio dalies pakeitimai:
 Nr. XII-2126, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19742
 
@@ -3011,7 +3011,7 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 4. Komisija sudaroma iš penkių narių savivaldybės tarybos sprendimu. Kai sprendžiama dėl vienos Komisijos sudarymo kelioms savivaldybėms, šį sprendimą turi patvirtinti kiekvienos iš savivaldybių, kurioje veiks Komisija, taryba. Jei du iš penkių Komisijos narių nusprendžia, kad yra tikslinga kreiptis į sprendimą pripažinti asmenį neveiksniu tam tikroje srityje priėmusį teismą dėl teismo sprendimo peržiūrėjimo, laikoma, kad yra priimtas Komisijos sprendimas kreiptis į teismą. Komisijos priimti sprendimai neturi įtakos šio kodekso 2.10 straipsnio 4 dalyje nurodytų asmenų arba neveiksniu tam tikroje srityje pripažinto asmens teisei kreiptis į teismą dėl neveiksnaus asmens pripažinimo veiksniu. ^s-d64e9ebc7c5c19fb8d412c36
 
 
-5. Komisijos narių darbas Komisijoje apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. ^s-043d73caec6da7209a983a7f
+5. Komisijos narių darbas Komisijoje apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka. ^s-043d73caec6da7209a983a7f
 Straipsnio dalies pakeitimai:
 Nr. XIII-1742, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20715
 
@@ -3515,7 +3515,7 @@ Nr. XI-372, 2009-07-21, Žin., 2009, Nr. 93-3965 (2009-08-04)(papildyta 3 dalimi
 1. Valstybė ir savivaldybės yra juridiniai asmenys. ^s-e0e6305441c146c61cbae5d7
 
 
-2. Valstybės ir savivaldybių institucijos, kurių buvimą numato Lietuvos Respublikos Konstitucija, yra juridiniai asmenys įstatymų nustatytais atvejais. ^s-41dd57f95c893de05a8cc618
+2. Valstybės ir savivaldybių institucijos, kurių buvimą numato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), yra juridiniai asmenys įstatymų nustatytais atvejais. ^s-41dd57f95c893de05a8cc618
 
 
 3. Valstybei ir savivaldybėms netaikomos šios knygos II dalies normos, išskyrus šio kodekso 2.36, 2.74, 2.76, 2.80, 2.84, 2.85 straipsnius. ^s-984258bc6487d55977a2ffb3
@@ -4194,7 +4194,7 @@ Nr. XIV-2630, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09665
 4. Įstatymų nustatytais atvejais juridinių asmenų registrui pateikiamas juridinio asmens metinių finansinių ataskaitų rinkinys (metinių konsoliduotųjų finansinių ataskaitų rinkinys) ir (arba) vadovybės ataskaita (konsoliduotoji vadovybės ataskaita) ir, kai taikytina, deklaracija, nurodyta [[latest/a71c2bf036d511efbdaea558de59136c|Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme]], ar veiklos ataskaita arba metinė ataskaita kiekvienais metais per trisdešimt dienų nuo jų patvirtinimo momento, jei įstatymai nenumato kito termino. Tais atvejais, kai finansinių ataskaitų auditas privalomas pagal įstatymus, kartu su audituotu metinių finansinių ataskaitų rinkiniu (metinių konsoliduotųjų finansinių ataskaitų rinkiniu) turi būti pateikta ir auditoriaus išvada. Kai į vadovybės ataskaitą (konsoliduotąją vadovybės ataskaitą) pagal įstatymus privaloma įtraukti informaciją tvarumo klausimais (konsoliduotąją informaciją tvarumo klausimais) arba pateikti tvarumo ataskaitą (konsoliduotąją tvarumo ataskaitą), kartu su vadovybės ataskaita (konsoliduotąja vadovybės ataskaita) arba tvarumo ataskaita (konsoliduotąja tvarumo ataskaita) turi būti pateikta tvarumo atskaitomybės užtikrinimo išvada ir, kai taikytina, pareiškimas, nurodytas [[latest/a71c2bf036d511efbdaea558de59136c|Įmonių ir įmonių grupių atskaitomybės įstatyme]]. Juridinio asmens mokėjimų valdžios institucijoms ataskaita (konsoliduotoji mokėjimų valdžios institucijoms ataskaita), pelno mokesčio informacijos ataskaita ir, kai taikytina, pareiškimas, nurodytas [[latest/a71c2bf036d511efbdaea558de59136c|Įmonių ir įmonių grupių atskaitomybės įstatyme]], juridinių asmenų registrui teikiami įstatymų nustatytais atvejais ir tvarka. ^s-10e4c9f7442dd0dcfe607ea4
 
 
-5. [[latest/68f2cad098b711e9ae2e9d61b1f977b3|Lietuvos Respublikos juridinių asmenų nemokumo įstatyme]] nustatytais atvejais, kai nemokumo procesas vykdomas teismo tvarka, šio straipsnio 1 dalies 11 ir 12 punktuose nurodyti duomenys ir kiti su juridinio asmens teisinio statuso registravimu (išregistravimu) susiję duomenys juridinių asmenų registre registruojami teismo procesinių dokumentų (nutarčių, sprendimų) pagrindu. ^s-673ad3eaa2c3f95218a441c9
+5. [[latest/68f2cad098b711e9ae2e9d61b1f977b3|Lietuvos Respublikos juridinių asmenų nemokumo įstatyme]] nustatytais atvejais, kai nemokumo procesas vykdomas teismo tvarka, šio straipsnio 1 dalies [[latest/68f2cad098b711e9ae2e9d61b1f977b3|11]] ir [[latest/68f2cad098b711e9ae2e9d61b1f977b3|12]] punktuose nurodyti duomenys ir kiti su juridinio asmens teisinio statuso registravimu (išregistravimu) susiję duomenys juridinių asmenų registre registruojami teismo procesinių dokumentų (nutarčių, sprendimų) pagrindu. ^s-673ad3eaa2c3f95218a441c9
 
 
 6. Šio straipsnio 1 dalies 1–8 ir 12 punktuose išvardytų duomenų, taip pat steigimo dokumentų pakeitimai įsigalioja tik nuo jų įregistravimo juridinių asmenų registre dienos, išskyrus įstatymų numatytas išimtis. ^s-adbd5fe59ab90d5eb9927c17
@@ -4302,7 +4302,7 @@ Nr. XIV-3146, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20389
 4. Kai yra šio straipsnio 1 dalies 7 punkte numatytos aplinkybės, asmuo, padavęs teismui pareiškimą dėl juridinio asmens bankroto bylos iškėlimo ir pagal juridinių asmenų nemokumą reglamentuojantį įstatymą nesumokėjęs teismo nustatytos bankroto administravimo išlaidoms apmokėti skirtos sumos, neturi teisės šio straipsnio 3 dalyje nustatyta tvarka neigti aplinkybių dėl juridinio asmens likvidavimo pagrindo buvimo. ^s-392016a39c435835eca473b4
 
 
-5. Inicijuojamas juridinio asmens likvidavimas gali būti atšauktas, kai tas juridinis asmuo per vienerius metus nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo juridinių asmenų registro tvarkytojui pateikia šio straipsnio 1 dalyje ar juridinių asmenų registro nuostatuose nurodytus dokumentus, kuriais paneigiamas šio straipsnio 1 dalyje nurodytų aplinkybių buvimas, arba teismo sprendimu Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka. Kreiptis į teismą su prašymu atšaukti inicijuojamą juridinio asmens likvidavimą gali juridinio asmens kreditorius, turintis jo naudai išduotą vykdomąjį dokumentą, kuris nėra visiškai įvykdytas, per vienerius metus nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo. Teismas, priėmęs šį prašymą, taip pat priėmęs sprendimą dėl inicijuojamo juridinio asmens likvidavimo atšaukimo, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui. Registro tvarkytojas, gavęs šio straipsnio 1 dalyje ar juridinių asmenų registro nuostatuose nurodytus dokumentus, kuriais paneigiamas šio straipsnio 1 dalyje nurodytų aplinkybių buvimas, arba pranešimą apie teismo sprendimą dėl inicijuojamo juridinio asmens likvidavimo atšaukimo, juridinių asmenų registro nuostatuose nustatyta tvarka išregistruoja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje. ^s-46045201b51adf9aabaa7505
+5. Inicijuojamas juridinio asmens likvidavimas gali būti atšauktas, kai tas juridinis asmuo per vienerius metus nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo juridinių asmenų registro tvarkytojui pateikia šio straipsnio 1 dalyje ar juridinių asmenų registro nuostatuose nurodytus dokumentus, kuriais paneigiamas šio straipsnio 1 dalyje nurodytų aplinkybių buvimas, arba teismo sprendimu [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) XXXIX skyriuje nustatyta tvarka. Kreiptis į teismą su prašymu atšaukti inicijuojamą juridinio asmens likvidavimą gali juridinio asmens kreditorius, turintis jo naudai išduotą vykdomąjį dokumentą, kuris nėra visiškai įvykdytas, per vienerius metus nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo. Teismas, priėmęs šį prašymą, taip pat priėmęs sprendimą dėl inicijuojamo juridinio asmens likvidavimo atšaukimo, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui. Registro tvarkytojas, gavęs šio straipsnio 1 dalyje ar juridinių asmenų registro nuostatuose nurodytus dokumentus, kuriais paneigiamas šio straipsnio 1 dalyje nurodytų aplinkybių buvimas, arba pranešimą apie teismo sprendimą dėl inicijuojamo juridinio asmens likvidavimo atšaukimo, juridinių asmenų registro nuostatuose nustatyta tvarka išregistruoja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą. Apie tai registro tvarkytojas viešai paskelbia juridinių asmenų registro nuostatuose nurodytame šaltinyje. ^s-46045201b51adf9aabaa7505
 
 
 6. Juridinio asmens kreditoriai turi teisę pareikšti ieškinį teisme dėl skolininko prievolių įvykdymo ar nemokumo bylos iškėlimo per vienerių metų ieškinio senaties terminą, skaičiuojamą nuo juridinio asmens, kuriam inicijuojamas likvidavimas, statuso įgijimo. Teismas, priėmęs šioje dalyje numatytą ieškinį, privalo ne vėliau kaip kitą darbo dieną apie tai pranešti juridinių asmenų registro tvarkytojui. Registro tvarkytojas, gavęs šį teismo pranešimą, juridinių asmenų registro nuostatuose nustatyta tvarka išregistruoja juridinio asmens, kuriam inicijuojamas likvidavimas, statusą. ^s-d95b53c392d9b407b2ad26f8
@@ -5781,7 +5781,7 @@ Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 2.146 straipsnis. Teisė panaikinti įgaliojimą bei perįgaliojimą ir teisė jų atsisakyti ^s-cdebdb815f5ee423e5d2563d
 
 
-1. Įgaliotojas turi teisę bet kada panaikinti įgaliojimą, o įgaliotinis – įgaliojimo atsisakyti. Perįgaliojimą gali bet kada panaikinti tiek įgaliotojas, tiek ir įgaliotinis. Savo ruožtu ir asmuo, kuriam įgaliojimas duotas perįgaliojant, gali bet kada jo atsisakyti. Kai įgaliojimas įregistruotas Įgaliojimų registre, įgaliotojo ar įgaliotinio prašymas dėl įgaliojimo ar perįgaliojimo pabaigos gali būti pateikiamas informacinių technologijų priemonėmis, įregistruojant įgaliojimo ar perįgaliojimo pabaigą Įgaliojimų registre šio registro nuostatuose nustatyta tvarka. ^s-373c8474381fe1efe69eda61
+1. Įgaliotojas turi teisę bet kada panaikinti įgaliojimą, o įgaliotinis – įgaliojimo atsisakyti. Perįgaliojimą gali bet kada panaikinti tiek įgaliotojas, tiek ir įgaliotinis. Savo ruožtu ir asmuo, kuriam įgaliojimas duotas perįgaliojant, gali bet kada jo atsisakyti. Kai įgaliojimas įregistruotas Įgaliojimų registre, įgaliotojo ar įgaliotinio prašymas [dėl įgaliojimo](https://e-tar.lt/portal/lt/legalAct/c81efc10e1a511ec8d9390588bf2de65) ar perįgaliojimo pabaigos gali būti pateikiamas informacinių technologijų priemonėmis, įregistruojant įgaliojimo ar perįgaliojimo pabaigą Įgaliojimų registre šio registro nuostatuose nustatyta tvarka. ^s-373c8474381fe1efe69eda61
 Straipsnio dalies pakeitimai:
 Nr. XIII-3217, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15861
 
@@ -6554,7 +6554,7 @@ BENDROSIOS NUOSTATOS
 3.[[#^s-4e805bd3d3f8a407e9c8ab50|2 straipsnis]]. Šeimos teisės šaltiniai ^s-848821b5aadd7f5e2e4110ef
 
 
-1. Šeimos santykius reglamentuoja Lietuvos Respublikos Konstitucija, Civilinis kodeksas ir kiti įstatymai, taip pat Lietuvos Respublikos tarptautinės sutartys. ^s-774d3b3489a5925847bc96ad
+1. Šeimos santykius reglamentuoja [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Civilinis kodeksas ir kiti įstatymai, taip pat Lietuvos Respublikos tarptautinės sutartys. ^s-774d3b3489a5925847bc96ad
 
 
 2. Lietuvos Respublikos Vyriausybė ar kitos valstybės institucijos gali priimti teisės aktus šeimos teisės klausimais tik šio kodekso ar kitų įstatymų nustatytais atvejais ir apimtimi. ^s-863781cd277bb0cf9d5a6bc2
@@ -7382,7 +7382,7 @@ Nr. XII-1566, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05573
 2. Prašyme taip pat privalo būti nurodyta, kaip pareiškėjas įvykdys savo pareigas kitam sutuoktiniui ir nepilnamečiams vaikams. ^s-918e46ac15b13137d46617da
 
 
-3. Prašyme taip pat turi būti nurodyti Civilinio proceso kodekse numatyti duomenys. ^s-4aff792b980d0b628cd8dc0c
+3. Prašyme taip pat turi būti nurodyti [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) numatyti duomenys. ^s-4aff792b980d0b628cd8dc0c
 
 
 
@@ -8908,7 +8908,7 @@ Nr. XII-2112, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19698
 3.148 straipsnis. Tėvystės nustatymo pagrindai ^s-ee666578e3c619cb4f375661
 
 
-1. Pagrindas tėvystei nustatyti yra moksliniai įrodymai (ekspertizių įrodyti giminystės ryšį išvados) ir kitos Civilinio proceso kodekse numatytos įrodymų priemonės. Jei šalys atsisako ekspertizės, pagrindu tėvystei nustatyti gali būti įrodomieji faktai, patikimai patvirtinantys tėvystę: bendras vaiko motinos ir spėjamo vaiko tėvo gyvenimas, bendras vaiko auklėjimas, išlaikymas, taip pat ir kiti įrodymai. ^s-a2f78c9f6a7c0cc6a62d5f48
+1. Pagrindas tėvystei nustatyti yra moksliniai įrodymai (ekspertizių įrodyti giminystės ryšį išvados) ir kitos [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) numatytos įrodymų priemonės. Jei šalys atsisako ekspertizės, pagrindu tėvystei nustatyti gali būti įrodomieji faktai, patikimai patvirtinantys tėvystę: bendras vaiko motinos ir spėjamo vaiko tėvo gyvenimas, bendras vaiko auklėjimas, išlaikymas, taip pat ir kiti įrodymai. ^s-a2f78c9f6a7c0cc6a62d5f48
 
 
 2. Jei atsakovas atsisako ekspertizės, teismas, atsižvelgdamas į bylos aplinkybes, gali tokį atsakovo atsisakymą įvertinti kaip tėvystės įrodymą. ^s-864a1489f5b79d23d1a7c2e6
@@ -10263,7 +10263,7 @@ BENDRAS GYVENIMAS NEĮREGISTRAVUS SANTUOKOS
 
 
 Šio skyriaus normos nustato turtinius santykius tarp vyro ir moters, kurie, įregistravę savo partnerystę įstatymų nustatyta tvarka, bendrai gyvena ne mažiau kaip vienerius metus neįregistravę santuokos (sugyventiniai), turėdami tikslą sukurti šeiminius santykius.
-TAR pastaba. 3.229 straipsnis tiek, kiek pagal jį partnerystę galima sudaryti tik tarp vyro ir moters, prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-d861ba6f223a5a156e2cae54|21 straipsnio]] 2, 3 dalims, [[#^s-bf5c670e9b3e9fa5fffa54bb|22 straipsnio]] 1, 4 dalims, [[#^s-cd61852c59361fbd55292d5b|29 straipsniui]], [[#^s-e887cb4546db71d791433ec2|38 straipsnio]] 1, 2 dalims, konstituciniam teisinės valstybės principui.
+TAR pastaba. 3.229 straipsnis tiek, kiek pagal jį partnerystę galima sudaryti tik tarp vyro ir moters, prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-d861ba6f223a5a156e2cae54|21 straipsnio]] [[#^s-13825242eda8de60cda97cda|2]], 3 dalims, [[#^s-bf5c670e9b3e9fa5fffa54bb|22 straipsnio]] [[#^s-38871a912aff1f4b851b452b|1]], 4 dalims, [[#^s-cd61852c59361fbd55292d5b|29 straipsniui]], [[#^s-e887cb4546db71d791433ec2|38 straipsnio]] [[#^s-66ffeaee8bd8cf8cc2339374|1]], [[#^s-035825520bf6e1e412865bb2|2]] dalims, konstituciniam teisinės valstybės principui.
 
 
 Straipsnio pakeitimai:
@@ -10807,7 +10807,7 @@ Nr. XIV-888, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00070
 
 
 
-2. Valstybinė vaiko teisių apsaugos institucija, paėmusi vaiką šio straipsnio 1 dalyje nurodytu atveju, privalo per tris darbo dienas, o išimtiniais atvejais, kai tai objektyviai neįmanoma, – per penkias darbo dienas, kreiptis į teismą dėl leidimo paimti vaiką iš jo atstovų pagal įstatymą. Prašymas išduoti leidimą paimti vaiką iš jo atstovų pagal įstatymą nagrinėjamas Civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka. ^s-cabb6d661cc78eb62552a29b
+2. Valstybinė vaiko teisių apsaugos institucija, paėmusi vaiką šio straipsnio 1 dalyje nurodytu atveju, privalo per tris darbo dienas, o išimtiniais atvejais, kai tai objektyviai neįmanoma, – per penkias darbo dienas, kreiptis į teismą dėl leidimo paimti vaiką iš jo atstovų pagal įstatymą. Prašymas išduoti leidimą paimti vaiką iš jo atstovų pagal įstatymą nagrinėjamas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) XXXIX skyriuje nustatyta tvarka. ^s-cabb6d661cc78eb62552a29b
 Straipsnio dalies pakeitimai:
 Nr. XIII-2039, 2019-04-11, paskelbta TAR 2019-04-19, i. k. 2019-06551
 
@@ -13907,7 +13907,7 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 3) kitais šio kodekso numatytais atvejais.
 
 
-4. Valstybinio socialinio draudimo fondo administravimo įstaigų ir mokesčių administratorių nustatomos priverstinės hipotekos nustatymo tvarką nustato šių subjektų veiklą reglamentuojantys teisės aktai. Teismo sprendimu nustatomos priverstinės hipotekos nustatymo tvarką reglamentuoja Civilinio proceso kodeksas. Dėl įstatymų pagrindu atsiradusios priverstinės hipotekos nustatymo suinteresuoti asmenys kreipiasi į notarą. Priverstinė hipoteka gali būti nustatoma jau įkeistam nekilnojamajam daiktui. ^s-914bc6b7eec11a567421dd74
+4. Valstybinio socialinio draudimo fondo administravimo įstaigų ir mokesčių administratorių nustatomos priverstinės hipotekos nustatymo tvarką nustato šių subjektų veiklą reglamentuojantys teisės aktai. Teismo sprendimu nustatomos priverstinės hipotekos nustatymo tvarką reglamentuoja [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). Dėl įstatymų pagrindu atsiradusios priverstinės hipotekos nustatymo suinteresuoti asmenys kreipiasi į notarą. Priverstinė hipoteka gali būti nustatoma jau įkeistam nekilnojamajam daiktui. ^s-914bc6b7eec11a567421dd74
 
 
 5. Sutartinės hipotekos rūšys: ^s-b4d7183266c0be921551a0ae
@@ -13983,7 +13983,7 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 4.178 straipsnis. Hipotekos nustatymas pagal teismo sprendimą patenkintiems reikalavimams užtikrinti ^s-6c810202d5e4ab88ca9bc331
 
 
-Pagal teismo sprendimą patenkinus reikalavimą dėl pinigų išieškojimo, kreditoriaus prašymu šio kodekso nustatytais atvejais ir Civilinio proceso kodekso numatyta tvarka gali būti nustatyta priverstinė skolininko daikto hipoteka.
+Pagal teismo sprendimą patenkinus reikalavimą dėl pinigų išieškojimo, kreditoriaus prašymu šio kodekso nustatytais atvejais ir [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) numatyta tvarka gali būti nustatyta priverstinė skolininko daikto hipoteka.
 
 
 Straipsnio pakeitimai:
@@ -14074,7 +14074,7 @@ Nr. XI-1842, 2011-12-22, Žin., 2012, Nr. 6-178 (2012-01-10)
 2. Sąlygine hipoteka gali būti įkeičiamas būsimas nekilnojamasis daiktas, kuris bus sukurtas ateityje arba kurio savininku įkaito davėjas taps ateityje. Ši sąlyginė hipoteka įsigalioja nuo to momento, kai hipotekos objektu esantis daiktas įregistruojamas nekilnojamojo turto registre kaip įkaito davėjo nuosavybė. ^s-39f59b8788a1d3420e856b1b
 
 
-3. Sąlygine hipoteka gali būti įkeičiamas nekilnojamasis daiktas, kurį siekiama įsigyti nuosavybės teise Civilinio proceso kodekso VI dalyje nustatyta tvarka. Ši sąlyginė hipoteka įsigalioja nuo to momento, kai Civilinio proceso kodekso VI dalyje nustatyta tvarka įsigijęs nekilnojamąjį daiktą asmuo tampa šio daikto savininku. ^s-8d23612e558676f53e048c1d
+3. Sąlygine hipoteka gali būti įkeičiamas nekilnojamasis daiktas, kurį siekiama įsigyti nuosavybės teise [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) VI dalyje nustatyta tvarka. Ši sąlyginė hipoteka įsigalioja nuo to momento, kai [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) VI dalyje nustatyta tvarka įsigijęs nekilnojamąjį daiktą asmuo tampa šio daikto savininku. ^s-8d23612e558676f53e048c1d
 Papildyta straipsnio dalimi:
 Nr. XIII-1933, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00891
 
@@ -14239,7 +14239,7 @@ SKOLOS IŠIEŠKOJIMAS HIPOTEKOS KREDITORIAUS NAUDAI
 4. Notaras, patikrinęs, ar hipotekos kreditoriaus prašyme nurodyti duomenys atitinka viešo registro duomenis, prieš atlikdamas vykdomąjį įrašą, skolininkui išsiunčia pranešimą, kuriame turi būti nurodyti hipotekos kreditoriaus pateikti duomenys ir siūlymas ne vėliau kaip per dvidešimt dienų nuo pranešimo skolininkui išsiuntimo dienos sumokėti kreditoriui skolą ir apie prievolės įvykdymą raštu pranešti notarui arba pateikti notarui duomenis dėl hipotekos kreditoriaus reikalavimo nepagrįstumo. Atsižvelgdamas į kreditoriaus ir skolininko pateiktus duomenis, notaras atlieka vykdomąjį įrašą arba motyvuotai atsisako jį atlikti. Vykdomuoju įrašu notaras siūlo išieškoti iš skolininko hipotekos kreditoriaus nurodytą per hipotekos sandoryje nustatytą terminą nesumokėtą hipoteka užtikrinto skolinio įsipareigojimo sumą arba nesumokėtos skolos dalį su priklausančiomis palūkanomis. Apie vykdomojo įrašo atlikimo faktą notaras nedelsdamas praneša viešam registrui ir vykdomojo įrašo kopiją išsiunčia skolininkui ir įkaito davėjui. Nuo vykdomojo įrašo įregistravimo viešame registre dienos skolininkas neturi teisės disponuoti įkeistu turtu be kreditoriaus sutikimo. ^s-63dd6a8338085c9ba92cf5fa
 
 
-5. Notaro vykdomasis įrašas yra vykdytinas ir vykdomasis dokumentas, pateikiamas vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka. ^s-daf5eaeeee222e88bd4deded
+5. Notaro vykdomasis įrašas yra vykdytinas ir vykdomasis dokumentas, pateikiamas vykdyti antstoliui [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-daf5eaeeee222e88bd4deded
 
 
 6. Jeigu iki vykdomojo įrašo pateikimo antstoliui vykdyti skolininkas prievolę įvykdo sumokėdamas pinigus į notaro depozitinę sąskaitą, skolininko ar kreditoriaus prašymu notaras vykdomąjį įrašą panaikina ir apie tai praneša kreditoriui ir viešam registrui. ^s-b33099eb7af68d8c66286ee5
@@ -14248,7 +14248,7 @@ SKOLOS IŠIEŠKOJIMAS HIPOTEKOS KREDITORIAUS NAUDAI
 7. Antstoliui pradėjus priverstinio išieškojimo procedūrą, įkeistas daiktas hipotekos kreditoriaus pasirinkimu gali būti parduodamas iš viešųjų varžytynių arba perduodamas kreditoriui administruoti, išskyrus įmonės hipotekos ir svetimo turto hipotekos atvejus. Jeigu įkeistas daiktas buvo perduotas hipotekos kreditoriui administruoti ir jį administruojant paaiškėjo, kad negalima patenkinti hipoteka užtikrinto reikalavimo, hipotekos kreditorius gali kreiptis į antstolį dėl įkeisto daikto pardavimo iš varžytynių. ^s-ed34b6cdab83d8f064cc72b5
 
 
-8. Iki varžytynių pradžios skolininko (įkaito davėjo) ir hipotekos kreditoriaus susitarimu hipotekos objektas gali būti hipotekos kreditoriaus ir skolininko (įkaito davėjo) notarine forma sudarytu sandoriu perleidžiamas hipotekos kreditoriaus nuosavybėn arba trečiajam asmeniui Civilinio proceso kodekso 704 straipsnyje nustatyta tvarka. Kelis kartus įkeistas daiktas gali būti realizuojamas hipotekos kreditoriaus ir įkaito davėjo sandoryje nustatytu būdu tik visų kreditorių sutikimu. ^s-5e2b11c606b13ad77077ccf9
+8. Iki varžytynių pradžios skolininko (įkaito davėjo) ir hipotekos kreditoriaus susitarimu hipotekos objektas gali būti hipotekos kreditoriaus ir skolininko (įkaito davėjo) notarine forma sudarytu sandoriu perleidžiamas hipotekos kreditoriaus nuosavybėn arba trečiajam asmeniui [Civilinio proceso kodekso 704 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Kelis kartus įkeistas daiktas gali būti realizuojamas hipotekos kreditoriaus ir įkaito davėjo sandoryje nustatytu būdu tik visų kreditorių sutikimu. ^s-5e2b11c606b13ad77077ccf9
 
 
 9. Kai išieškoma pagal maksimaliąją hipoteką, notaras vykdomąjį įrašą atlieka, nesvarbu, ar skolos dydis yra užfiksuotas, ar ne. Jeigu maksimaliosios hipotekos skolos dydis nėra užfiksuotas, notaras tai pažymi vykdomajame įraše. ^s-0f1de6a9ac9c100d35151f8b
@@ -14258,7 +14258,7 @@ SKOLOS IŠIEŠKOJIMAS HIPOTEKOS KREDITORIAUS NAUDAI
 4.1921 straipsnis. Skolos išieškojimo iš įmonės hipoteka įkeisto turto ypatumai ^s-6e538872c5df50abe2e8bda8
 
 
-1. Kai išieškoma pagal įmonės hipotekos sandorį, įmonei gali būti nustatomas turto administravimas. Turto administravimą nustato antstolis Civilinio proceso kodekso nustatyta tvarka. Turto administratoriumi skiriamas hipotekos kreditorius arba kitas asmuo hipotekos kreditoriaus sutikimu. ^s-b87e4c2f10139c16d3104ed4
+1. Kai išieškoma pagal įmonės hipotekos sandorį, įmonei gali būti nustatomas turto administravimas. Turto administravimą nustato antstolis [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Turto administratoriumi skiriamas hipotekos kreditorius arba kitas asmuo hipotekos kreditoriaus sutikimu. ^s-b87e4c2f10139c16d3104ed4
 
 
 2. Nuo vykdomojo įrašo įregistravimo viešame registre dienos įkeistos įmonės valdymo organai be išankstinio rašytinio hipotekos kreditoriaus (kol nepaskirtas turto administratorius) arba turto administratoriaus sutikimo neturi teisės disponuoti turtu, kuris yra įmonės hipotekos objektas. ^s-300f9051f6bfe4a5f1fe19a7
@@ -14283,7 +14283,7 @@ SKOLOS IŠIEŠKOJIMAS HIPOTEKOS KREDITORIAUS NAUDAI
 2. Jeigu daiktas įkeistas kelis kartus, hipotekos kreditorių reikalavimai patenkinami pagal hipotekos įregistravimo viešame registre laiką eilės tvarka. ^s-ffbad0edeb7297a5014fa57b
 
 
-3. Jeigu daiktas įkeistas kelis kartus, bet kuris iš hipotekos kreditorių turi teisę kreiptis į notarą dėl vykdomojo įrašo atlikimo ir pateikti vykdomąjį įrašą vykdyti antstoliui. Antstolis, kuriam pateikiamas vykdomasis įrašas, Civilinio proceso kodekso nustatyta tvarka praneša kitiems hipotekos kreditoriams apie vykdomojo įrašo pateikimą vykdyti. ^s-d5c1cca09bc31f69925ffc87
+3. Jeigu daiktas įkeistas kelis kartus, bet kuris iš hipotekos kreditorių turi teisę kreiptis į notarą dėl vykdomojo įrašo atlikimo ir pateikti vykdomąjį įrašą vykdyti antstoliui. Antstolis, kuriam pateikiamas vykdomasis įrašas, [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka praneša kitiems hipotekos kreditoriams apie vykdomojo įrašo pateikimą vykdyti. ^s-d5c1cca09bc31f69925ffc87
 
 
 4. Jeigu daiktas įkeistas kelis kartus, priverstinis išieškojimas negali būti pradėtas be pirmesnių eilėje hipotekos kreditorių rašytinio sutikimo. ^s-2298f0b0f5a34e44cbd2a0f1
@@ -14423,7 +14423,7 @@ HIPOTEKOS PABAIGA
 6. Sąžiningo hipotekos kreditoriaus teisė lieka galioti net ir tuo atveju, kai hipotekos sandoris pripažįstamas negaliojančiu tokiu pagrindu, už kurį hipotekos kreditorius neatsako. Kai hipotekos sandoris įstatymų nustatyta tvarka pripažintas negaliojančiu ir nėra būtinybės ginti sąžiningo hipotekos kreditoriaus, viešame registre įregistruota hipoteka baigiama ir išregistruojama iš viešo registro pateikus įsiteisėjusį teismo sprendimą dėl hipotekos sandorio pripažinimo negaliojančiu. ^s-676afd7e91bac81fbb12bdc7
 
 
-7. Pasibaigusi hipoteka išregistruojama iš viešo registro. Hipotekos kreditorius, skolininkas arba įkaito davėjas prašymą išregistruoti pasibaigusią hipoteką informacinių technologijų priemonėmis pateikia viešam registrui šio registro nuostatų nustatyta tvarka (kai prašymą išregistruoti pasibaigusią hipoteką teikia skolininkas arba įkaito davėjas, hipotekos kreditorius privalo informacinių technologijų priemonėmis pateikti hipotekos pabaigos patvirtinimą). Hipotekos kreditoriaus, skolininko arba įkaito davėjo prašymas išregistruoti pasibaigusią hipoteką taip pat gali būti pateikiamas notarui, o šis duomenis apie hipotekos pabaigą perduoda viešam registrui. Sąlyginė hipoteka, sudaryta siekiant įsigyti nuosavybės teise nekilnojamąjį daiktą Civilinio proceso kodekso VI dalyje nustatyta tvarka, išregistruojama iš viešo registro pagal antstolio pranešimą, kad sąlyginę hipoteką sudaręs asmuo netapo šio turto savininku. ^s-7569b8d489145980d5dfddc1
+7. Pasibaigusi hipoteka išregistruojama iš viešo registro. Hipotekos kreditorius, skolininkas arba įkaito davėjas prašymą išregistruoti pasibaigusią hipoteką informacinių technologijų priemonėmis pateikia viešam registrui šio registro nuostatų nustatyta tvarka (kai prašymą išregistruoti pasibaigusią hipoteką teikia skolininkas arba įkaito davėjas, hipotekos kreditorius privalo informacinių technologijų priemonėmis pateikti hipotekos pabaigos patvirtinimą). Hipotekos kreditoriaus, skolininko arba įkaito davėjo prašymas išregistruoti pasibaigusią hipoteką taip pat gali būti pateikiamas notarui, o šis duomenis apie hipotekos pabaigą perduoda viešam registrui. Sąlyginė hipoteka, sudaryta siekiant įsigyti nuosavybės teise nekilnojamąjį daiktą [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) VI dalyje nustatyta tvarka, išregistruojama iš viešo registro pagal antstolio pranešimą, kad sąlyginę hipoteką sudaręs asmuo netapo šio turto savininku. ^s-7569b8d489145980d5dfddc1
 Straipsnio dalies pakeitimai:
 Nr. XIV-1351, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15446
 
@@ -15042,7 +15042,7 @@ KITO ASMENS TURTO ADMINISTRAVIMAS
 2. Administravimas nustatomas teismo nutartimi, įstatymu arba sandoriu. Šio kodekso numatytais atvejais administravimas gali būti nustatomas administraciniu aktu. ^s-b37b95be6d6ef110b0efe839
 
 
-3. Vykdymo proceso metu skolininko turto administravimą Civilinio proceso kodekso numatyta tvarka nustato antstolis. Šiuo atveju šio kodekso 4.240 straipsnio 4 dalyje ir 4.243 straipsnio 4 dalyje numatytus leidimus išduoda skolininko turto administravimą nustatęs antstolis. ^s-201e5d6e03b5d72392198d4e
+3. Vykdymo proceso metu skolininko turto administravimą [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) numatyta tvarka nustato antstolis. Šiuo atveju šio kodekso 4.240 straipsnio 4 dalyje ir 4.243 straipsnio 4 dalyje numatytus leidimus išduoda skolininko turto administravimą nustatęs antstolis. ^s-201e5d6e03b5d72392198d4e
 Papildyta straipsnio dalimi:
 Nr. XII-2753, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26873
 
@@ -16312,7 +16312,7 @@ Nr. XI-1484, 2011-06-21, Žin., 2011, Nr. 85-4130 (2011-07-13)
 1. Įpėdinis, priėmęs palikimą pagal antstolio sudarytą turto apyrašą, už palikėjo skolas atsako tik paveldėtu turtu. Jeigu bent vienas įpėdinis priėmė palikimą pagal turto apyrašą, tai ir visi kiti įpėdiniai laikomi priėmusiais palikimą pagal turto apyrašą. ^s-e7e83f5b3e52dc8712cbe9a3
 
 
-2. Dėl palikimo priėmimo pagal turto apyrašą įpėdinis pareiškimu kreipiasi į palikimo atsiradimo vietos notarą. Gavęs šį pareiškimą, notaras nedelsdamas išduoda įpėdiniui vykdomąjį pavedimą dėl turto apyrašo sudarymo. Šis pavedimas vykdomas Civilinio proceso kodekso nustatyta tvarka. Notaro išduotą vykdomąjį pavedimą dėl turto apyrašo sudarymo įpėdinis ne vėliau kaip per dvi savaites Civilinio proceso kodekso nustatyta tvarka pateikia vykdyti antstoliui. Per dvi savaites nuo išdavimo antstoliui nepateiktas vykdomasis pavedimas dėl turto apyrašo sudarymo negalioja ir bet kuris įpėdinis turi teisę kreiptis į notarą dėl naujo vykdomojo pavedimo išdavimo. ^s-4cf86e3a2e112340c9b67025
+2. Dėl palikimo priėmimo pagal turto apyrašą įpėdinis pareiškimu kreipiasi į palikimo atsiradimo vietos notarą. Gavęs šį pareiškimą, notaras nedelsdamas išduoda įpėdiniui vykdomąjį pavedimą dėl turto apyrašo sudarymo. Šis pavedimas vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Notaro išduotą vykdomąjį pavedimą dėl turto apyrašo sudarymo įpėdinis ne vėliau kaip per dvi savaites [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka pateikia vykdyti antstoliui. Per dvi savaites nuo išdavimo antstoliui nepateiktas vykdomasis pavedimas dėl turto apyrašo sudarymo negalioja ir bet kuris įpėdinis turi teisę kreiptis į notarą dėl naujo vykdomojo pavedimo išdavimo. ^s-4cf86e3a2e112340c9b67025
 Straipsnio dalies pakeitimai:
 Nr. XV-364, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12025
 
@@ -16336,7 +16336,7 @@ Nr. XV-364, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12025
 6. Turto apyrašą pasirašo antstolis ir įpėdinis, dalyvavęs sudarant apyrašą. Apyrašo pabaigoje turi būti įpėdinio pasirašytas paliudijimas, tolygus priesaikai, kad apyraše nurodytas visas įpėdiniui žinomas palikėjo turtas, visi palikėjo skoliniai reikalavimai ir skolinės pareigos. ^s-1f83deafeafd5fc6524148e1
 
 
-7. Įpėdinis, po turto apyrašo sudarymo sužinojęs apie neįtrauktą į apyrašą turtą, skolines teises ar skolines pareigas, privalo nedelsdamas kreiptis į notarą dėl vykdomojo pavedimo papildyti turto apyrašą išdavimo. Notaro išduotą vykdomąjį pavedimą papildyti turto apyrašą įpėdinis ne vėliau kaip per penkias darbo dienas Civilinio proceso kodekso nustatyta tvarka pateikia vykdyti antstoliui. Antstolis, vadovaudamasis įpėdinio pateiktais duomenimis, ne vėliau kaip per tris savaites privalo turto apyrašą papildyti. ^s-f572896e7f53643938a6469e
+7. Įpėdinis, po turto apyrašo sudarymo sužinojęs apie neįtrauktą į apyrašą turtą, skolines teises ar skolines pareigas, privalo nedelsdamas kreiptis į notarą dėl vykdomojo pavedimo papildyti turto apyrašą išdavimo. Notaro išduotą vykdomąjį pavedimą papildyti turto apyrašą įpėdinis ne vėliau kaip per penkias darbo dienas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka pateikia vykdyti antstoliui. Antstolis, vadovaudamasis įpėdinio pateiktais duomenimis, ne vėliau kaip per tris savaites privalo turto apyrašą papildyti. ^s-f572896e7f53643938a6469e
 Straipsnio dalies pakeitimai:
 Nr. XV-364, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12025
 
@@ -22120,7 +22120,7 @@ ATSAKOMYBĖ UŽ ŽALĄ, ATSIRADUSIĄ DĖL NETINKAMOS KOKYBĖS GAMINIŲ
 4. Gaminio ar komponento importuotojas arba įgaliotasis atstovas privalo atlyginti dėl netinkamos kokybės gaminių atsiradusią žalą, jeigu gaminio ar komponento gamintojas yra įsteigtas Europos Sąjungai nepriklausančioje valstybėje. Jeigu neįmanoma nustatyti Europos Sąjungoje įsteigto importuotojo ar įgaliotojo atstovo, atlyginti žalą privalo realizavimo paslaugų teikėjas. ^s-4319b756292de5beb87cfa65
 
 
-5. Platintojas privalo atlyginti dėl netinkamos kokybės gaminių atsiradusią žalą, jeigu neįmanoma nustatyti Europos Sąjungoje įsteigto gamintojo, komponento gamintojo, importuotojo, įgaliotojo asmens ar realizavimo paslaugų teikėjo, o platintojas per mėnesį nuo nukentėjusio asmens prašymo gavimo dienos nepraneša nukentėjusiam asmeniui nors apie vieną iš jų ar netinkamos kokybės gaminį jam pateikusį kitą platintoją. Šios dalies nuostatos taip pat taikomos bet kuriam interneto platformos, kaip ji apibrėžiama 2022 m. spalio 19 d. Europos Parlamento ir Tarybos reglamente (ES) 2022/2065 dėl bendrosios skaitmeninių paslaugų rinkos, kuriuo iš dalies keičiama Direktyva 2000/31/EB, (Skaitmeninių paslaugų akte), paslaugų teikėjui, kuris nėra ekonominės veiklos vykdytojas, jeigu toje interneto platformoje vartotojai gali sudaryti nuotolinės prekybos sutartis su prekiautojais ir jeigu tenkinamos šio reglamento 6 straipsnio 3 dalyje nustatytos sąlygos. ^s-a4b54a59913c75e457e2ec82
+5. Platintojas privalo atlyginti dėl netinkamos kokybės gaminių atsiradusią žalą, jeigu neįmanoma nustatyti Europos Sąjungoje įsteigto gamintojo, komponento gamintojo, importuotojo, įgaliotojo asmens ar realizavimo paslaugų teikėjo, o platintojas per mėnesį nuo nukentėjusio asmens prašymo gavimo dienos nepraneša nukentėjusiam asmeniui nors apie vieną iš jų ar netinkamos kokybės gaminį jam pateikusį kitą platintoją. Šios dalies nuostatos taip pat taikomos bet kuriam interneto platformos, kaip ji apibrėžiama 2022 m. spalio 19 d. Europos Parlamento ir Tarybos [reglamente (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) dėl bendrosios skaitmeninių paslaugų rinkos, kuriuo iš dalies keičiama Direktyva 2000/31/EB, (Skaitmeninių paslaugų akte), paslaugų teikėjui, kuris nėra ekonominės veiklos vykdytojas, jeigu toje interneto platformoje vartotojai gali sudaryti nuotolinės prekybos sutartis su prekiautojais ir jeigu tenkinamos šio reglamento 6 straipsnio 3 dalyje nustatytos sąlygos. ^s-a4b54a59913c75e457e2ec82
 
 
 6. Šio skirsnio normos taikomos, kai atsakomybė kyla dėl fiziniam asmeniui padarytos žalos. ^s-ddfed3cd037fa6663559377c
@@ -22148,7 +22148,7 @@ ATSAKOMYBĖ UŽ ŽALĄ, ATSIRADUSIĄ DĖL NETINKAMOS KOKYBĖS GAMINIŲ
 5) importuotojas – asmuo, kuris pateikia Europos Sąjungos rinkai gaminį ar jo komponentą iš trečiosios valstybės;
 
 
-6) realizavimo paslaugų teikėjas – asmuo, kuris, neturėdamas gaminio nuosavybės teisių, vykdydamas komercinę veiklą teikia bent dvi iš šių paslaugų: gaminio sandėliavimo, pakavimo, adresavimo ir siuntimo, išskyrus pašto paslaugas, kaip jos suprantamos pagal Lietuvos Respublikos pašto įstatymą, siuntinių pristatymo paslaugas, kaip jos suprantamos pagal 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos reglamentą (ES) 2018/644 dėl tarptautinių siuntinių pristatymo paslaugų, ar bet kokias kitas krovinių vežimo paslaugas;
+6) realizavimo paslaugų teikėjas – asmuo, kuris, neturėdamas gaminio nuosavybės teisių, vykdydamas komercinę veiklą teikia bent dvi iš šių paslaugų: gaminio sandėliavimo, pakavimo, adresavimo ir siuntimo, išskyrus pašto paslaugas, kaip jos suprantamos pagal Lietuvos Respublikos pašto įstatymą, siuntinių pristatymo paslaugas, kaip jos suprantamos pagal 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos [reglamentą (ES) 2018/644](https://eur-lex.europa.eu/eli/reg/2018/644/oj) dėl tarptautinių siuntinių pristatymo paslaugų, ar bet kokias kitas krovinių vežimo paslaugas;
 
 
 7) platintojas – tiekimo grandinėje veikiantis asmuo, kuris tiekia gaminį rinkai, bet nėra to gaminio gamintojas ar importuotojas.
@@ -22260,7 +22260,7 @@ ATSAKOMYBĖ UŽ ŽALĄ, ATSIRADUSIĄ DĖL NETINKAMOS KOKYBĖS GAMINIŲ
 2. Priežastinis gaminio netinkamos kokybės ir patirtų nuostolių ryšys preziumuojamas, jeigu nustatoma, kad gaminys yra netinkamos kokybės ir patirti nuostoliai atitinka įprastai tokios kokybės gaminio sukeliamą žalą. ^s-339a65c3ff4af9008a0b049d
 
 
-3. Preziumuojama, kad gaminys yra netinkamos kokybės ir (arba) egzistuoja priežastinis netinkamos kokybės ir nuostolių ryšys, jeigu, atsižvelgiant į visas bylos aplinkybes, nepriklausomai nuo to, ar buvo laikomasi šiame straipsnyje ir Civilinio proceso kodekse nustatytų taisyklių dėl įrodymų išreikalavimo, yra visos šios sąlygos: ^s-53797acc4941f4c6b6660b46
+3. Preziumuojama, kad gaminys yra netinkamos kokybės ir (arba) egzistuoja priežastinis netinkamos kokybės ir nuostolių ryšys, jeigu, atsižvelgiant į visas bylos aplinkybes, nepriklausomai nuo to, ar buvo laikomasi šiame straipsnyje ir [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytų taisyklių dėl įrodymų išreikalavimo, yra visos šios sąlygos: ^s-53797acc4941f4c6b6660b46
 
 
 1) ieškovas, norėdamas įrodyti, kad gaminys yra netinkamos kokybės ir (arba) yra priežastinis netinkamos kokybės ir nuostolių ryšys, susiduria su pernelyg dideliais sunkumais, įskaitant ir sunkumus, kylančius dėl techninio ar mokslinio sudėtingumo;
@@ -22269,7 +22269,7 @@ ATSAKOMYBĖ UŽ ŽALĄ, ATSIRADUSIĄ DĖL NETINKAMOS KOKYBĖS GAMINIŲ
 2) ieškovas tikėtinai pagrindžia, kad gaminys yra netinkamos kokybės ir (arba) egzistuoja priežastinis netinkamos kokybės ir nuostolių ryšys.
 
 
-4. Bylos šalis turi teisę prašyti teismo įpareigoti kitą šalį Civilinio proceso kodekso nustatyta tvarka teikiamus įrodymus byloje pateikti lengvai prieinamu ir lengvai suprantamu būdu, jeigu toks pateikimas būtų proporcingas šalies, privalančios atskleisti įrodymus, išlaidoms ir pastangoms. Teismas gali įpareigoti pateikti įrodymus nurodytu būdu ir savo iniciatyva. ^s-1cc67bea8c0a878b461601e0
+4. Bylos šalis turi teisę prašyti teismo įpareigoti kitą šalį [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka teikiamus įrodymus byloje pateikti lengvai prieinamu ir lengvai suprantamu būdu, jeigu toks pateikimas būtų proporcingas šalies, privalančios atskleisti įrodymus, išlaidoms ir pastangoms. Teismas gali įpareigoti pateikti įrodymus nurodytu būdu ir savo iniciatyva. ^s-1cc67bea8c0a878b461601e0
 
 
 
@@ -22331,7 +22331,7 @@ d) gaminio esminis pakeitimas;
 1) dėl gyvybės atėmimo ar sveikatos sužalojimo atsiradusi žala, įskaitant žalą psichikos sveikatai;
 
 
-2) žala, atsiradusi dėl duomenų, kaip jie apibrėžiami 2022 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamente (ES) 2022/868 dėl Europos duomenų valdymo, kuriuo iš dalies keičiamas Reglamentas (ES) 2018/1724, (Duomenų valdymo akte), kurie nenaudojami profesiniais tikslais, sunaikinimo ar sugadinimo;
+2) žala, atsiradusi dėl duomenų, kaip jie apibrėžiami 2022 m. gegužės 30 d. Europos Parlamento ir Tarybos [reglamente (ES) 2022/868](https://eur-lex.europa.eu/eli/reg/2022/868/oj) dėl Europos duomenų valdymo, kuriuo iš dalies keičiamas [Reglamentas (ES) 2018/1724](https://eur-lex.europa.eu/eli/reg/2018/1724/oj), (Duomenų valdymo akte), kurie nenaudojami profesiniais tikslais, sunaikinimo ar sugadinimo;
 
 
 3) bet kokiam turtui padaryta žala, išskyrus žalą, padarytą:
@@ -23208,7 +23208,7 @@ Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 1) fizinėms laikmenoms, naudojamoms tik kaip skaitmeninio turinio pateikimo priemonė;
 
 
-2) prekėms, kurios realizuojamos Civilinio proceso kodekso nustatyta tvarka vykdymo proceso metu, ir kitais įstatymų nustatytais atvejais;
+2) prekėms, kurios realizuojamos [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka vykdymo proceso metu, ir kitais įstatymų nustatytais atvejais;
 
 
 3) naudotų prekių pirkimui–pardavimui viešajame aukcione;
@@ -24595,7 +24595,7 @@ Daiktų pardavimas aukcionO BŪDU
 2. Viešasis aukcionas yra pardavimo būdas, kai daiktai ar paslaugos siūlomi pirkti keliems asmenims, kurie asmeniškai dalyvauja aukcione arba kuriems suteikiama galimybė jame asmeniškai dalyvauti ir kurie viešai varžosi per aukciono vedėją, o sutartis dėl daiktų ar paslaugų pirkimo sudaroma su tuo aukciono dalyviu, kuris pasiūlo didžiausią kainą. ^s-ad92e36b4d127af130458375
 
 
-3. Aukcionas gali būti savanoriškas arba priverstinis. Varžytynių, kaip priverstinio aukciono, ypatumus nustato Civilinio proceso kodeksas. ^s-1bff44f33b42a70cf01978e8
+3. Aukcionas gali būti savanoriškas arba priverstinis. Varžytynių, kaip priverstinio aukciono, ypatumus nustato [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). ^s-1bff44f33b42a70cf01978e8
 
 
 4. Valstybei ir savivaldybėms nuosavybės teise priklausančių daiktų pirkimui–pardavimui aukciono būdu šio skirsnio taisyklės taikomos tiek, kiek kiti įstatymai nenumato ko kita. ^s-a25b2580c229ad7db0fe3151
@@ -29316,7 +29316,7 @@ Nr. XIV-1465, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22575
 7. Kai kelionių organizatorius dėl nenugalimos jėgos negali užtikrinti keliautojo grąžinimo pagal organizuotos turistinės kelionės sutartį, kelionių organizatorius privalo apmokėti būtino apgyvendinimo, kurio kategorija, jeigu įmanoma, yra lygiavertė nurodytajai sutartyje, tam laikotarpiui, kiek trunka nenugalimos jėgos aplinkybės, bet ne ilgesniam kaip trijų nakvynių laikotarpiui kiekvienam keliautojui, išlaidas, išskyrus atvejus, kai kituose įstatymuose ar Europos Sąjungos teisės aktuose numatyti ilgesni laikotarpiai. ^s-8cec108facb3602bb1393706
 
 
-8. Šio straipsnio 7 dalyje nurodytas išlaidų apribojimas netaikomas riboto judumo asmenimis, kaip jie apibrėžti 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru [[#^s-4e805bd3d3f8a407e9c8ab50|2 straipsnio]] a dalyje, ir juos lydintiems asmenims, nėščiosioms bei nelydimiems nepilnamečiams, taip pat asmenims, kuriems reikia specialios medicinos pagalbos, jei keliautojas apie jo specialius poreikius praneša kelionių organizatoriui likus ne mažiau kaip 48 valandoms iki organizuotos turistinės kelionės pradžios. Šioje dalyje nustatytais atvejais kelionių organizatorius negali apriboti savo atsakomybės remdamasis nenugalimos jėgos aplinkybėmis, jei atitinkamas transporto paslaugų teikėjas pagal įstatymus ar Europos Sąjungos teisės aktus negali remtis tokiomis aplinkybėmis. ^s-9f48ad079065f3ec831b4dd9
+8. Šio straipsnio 7 dalyje nurodytas išlaidų apribojimas netaikomas riboto judumo asmenimis, kaip jie apibrėžti 2006 m. liepos 5 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1107/2006](https://eur-lex.europa.eu/eli/reg/1107/2006/oj) dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru [[#^s-4e805bd3d3f8a407e9c8ab50|2 straipsnio]] a dalyje, ir juos lydintiems asmenims, nėščiosioms bei nelydimiems nepilnamečiams, taip pat asmenims, kuriems reikia specialios medicinos pagalbos, jei keliautojas apie jo specialius poreikius praneša kelionių organizatoriui likus ne mažiau kaip 48 valandoms iki organizuotos turistinės kelionės pradžios. Šioje dalyje nustatytais atvejais kelionių organizatorius negali apriboti savo atsakomybės remdamasis nenugalimos jėgos aplinkybėmis, jei atitinkamas transporto paslaugų teikėjas pagal įstatymus ar Europos Sąjungos teisės aktus negali remtis tokiomis aplinkybėmis. ^s-9f48ad079065f3ec831b4dd9
 
 
 Straipsnio pakeitimai:
@@ -30984,7 +30984,7 @@ Specialios pasaugos rūšys
 7. Pasibaigus daikto saugojimui, saugotojas privalo parengti turto saugojimo ataskaitą ir ją perduoti šalims arba teismui. ^s-76ccffce2cfa706e821e09b5
 
 
-8. Jeigu areštuoto daikto saugotoju asmenį skiria teismas, antstolis, mokesčių administratorius ar kitas pareigūnas, tai tokiai pasaugai, be šio straipsnio taisyklių, taip pat yra taikomos Civilinio proceso kodekso normos. ^s-f894ec47717618b578742351
+8. Jeigu areštuoto daikto saugotoju asmenį skiria teismas, antstolis, mokesčių administratorius ar kitas pareigūnas, tai tokiai pasaugai, be šio straipsnio taisyklių, taip pat yra taikomos [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) normos. ^s-f894ec47717618b578742351
 Straipsnio dalies pakeitimai:
 Nr. XII-2645, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24685
 
@@ -33226,13 +33226,13 @@ priedas
 
 
 
-1. 1993 m. balandžio 5 d. Tarybos direktyva 93/13/EEB dėl nesąžiningų sąlygų sutartyse su vartotojais su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2161. ^s-5e5b8bac6b36682ca460e694
+1. 1993 m. balandžio 5 d. Tarybos direktyva 93/13/EEB dėl nesąžiningų sąlygų sutartyse su vartotojais su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/2161](https://eur-lex.europa.eu/eli/dir/2019/2161/oj). ^s-5e5b8bac6b36682ca460e694
 Punkto pakeitimai:
 Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
 
 
-2. 1998 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 98/6/EB dėl vartotojų apsaugos žymint vartotojams siūlomų prekių kainas su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2161. ^s-cf04124f6fef27f18222b265
+2. 1998 m. vasario 16 d. Europos Parlamento ir Tarybos direktyva 98/6/EB dėl vartotojų apsaugos žymint vartotojams siūlomų prekių kainas su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/2161](https://eur-lex.europa.eu/eli/dir/2019/2161/oj). ^s-cf04124f6fef27f18222b265
 Punkto pakeitimai:
 Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 
@@ -33241,7 +33241,7 @@ Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 3. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos direktyva 2008/122/EB dėl vartotojų apsaugos, susijusios su kai kuriais pakaitinio naudojimosi, ilgalaikio atostogų produkto, perpardavimo ir keitimosi sutarčių aspektais. ^s-d13ca18bd107a4e7c37bd4b7
 
 
-4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su paskutiniais pakeitimais, padarytais 2024 m. vasario 28 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/825. ^s-85f70fc4d2b81c3c8e471c5a
+4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su paskutiniais pakeitimais, padarytais 2024 m. vasario 28 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/825](https://eur-lex.europa.eu/eli/dir/2024/825/oj). ^s-85f70fc4d2b81c3c8e471c5a
 Punkto pakeitimai:
 Nr. XIV-885, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00066
 Nr. XV-269, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11117
@@ -33249,22 +33249,22 @@ Nr. XV-576, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20385
 
 
 
-5. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302 dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB. ^s-63ec3161724d1b6d9c733bfa
+5. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/2302](https://eur-lex.europa.eu/eli/dir/2015/2302/oj) dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB. ^s-63ec3161724d1b6d9c733bfa
 
 
-6. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/943 dėl neatskleistos praktinės patirties ir verslo informacijos (komercinių paslapčių) apsaugos nuo neteisėto jų gavimo, naudojimo ir atskleidimo. ^s-fe924cccb257c9debf53fb69
+6. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos [direktyva (ES) 2016/943](https://eur-lex.europa.eu/eli/dir/2016/943/oj) dėl neatskleistos praktinės patirties ir verslo informacijos (komercinių paslapčių) apsaugos nuo neteisėto jų gavimo, naudojimo ir atskleidimo. ^s-fe924cccb257c9debf53fb69
 
 
-7. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų. ^s-55db0d3b14d41b7b0f69988a
+7. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2017/1132](https://eur-lex.europa.eu/eli/dir/2017/1132/oj) dėl tam tikrų bendrovių teisės aspektų. ^s-55db0d3b14d41b7b0f69988a
 
 
-8. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/770 dėl tam tikrų skaitmeninio turinio ir skaitmeninių paslaugų teikimo sutarčių aspektų. ^s-2138e176805fe1b4c9066810
+8. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/770](https://eur-lex.europa.eu/eli/dir/2019/770/oj) dėl tam tikrų skaitmeninio turinio ir skaitmeninių paslaugų teikimo sutarčių aspektų. ^s-2138e176805fe1b4c9066810
 
 
-9. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 dėl tam tikrų prekių pirkimo–pardavimo sutarčių aspektų, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 ir Direktyva 2009/22/EB bei panaikinama Direktyva 1999/44/EB.) ^s-b772df6e081acd235aeb650c
+9. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/771](https://eur-lex.europa.eu/eli/dir/2019/771/oj) dėl tam tikrų prekių pirkimo–pardavimo sutarčių aspektų, kuria iš dalies keičiami [Reglamentas (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) ir Direktyva 2009/22/EB bei panaikinama Direktyva 1999/44/EB.) ^s-b772df6e081acd235aeb650c
 
 
-10. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1799 dėl bendrųjų taisyklių, kuriomis skatinamas prekių taisymas, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 bei direktyvos (ES) 2019/771 ir (ES) 2020/1828. ^s-5d922786ba4c6e912324863e
+10. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1799](https://eur-lex.europa.eu/eli/dir/2024/1799/oj) dėl bendrųjų taisyklių, kuriomis skatinamas prekių taisymas, kuria iš dalies keičiami [Reglamentas (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) bei [direktyvos (ES) 2019/771](https://eur-lex.europa.eu/eli/dir/2019/771/oj) ir (ES) 2020/1828. ^s-5d922786ba4c6e912324863e
 Kodeksas papildytas priedu:
 Nr. XI-1619, 2011-10-13, Žin., 2011, Nr. 129-6108 (2011-10-27)
 Priedo pakeitimai:
@@ -33275,7 +33275,7 @@ Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180
 
 
 
-11. 2024 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/2853 dėl atsakomybės už gaminius su trūkumais, kuria panaikinama Tarybos direktyva 85/374/EEB. ^s-4a782b30da2bd22b814b1d4f
+11. 2024 m. spalio 23 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/2853](https://eur-lex.europa.eu/eli/dir/2024/2853/oj) dėl atsakomybės už gaminius su trūkumais, kuria panaikinama Tarybos direktyva 85/374/EEB. ^s-4a782b30da2bd22b814b1d4f
 Papildyta straipsnio dalimi:
 Nr. XV-1080, 2026-06-25, paskelbta TAR 2026-07-02, i. k. 2026-11472
 
@@ -33393,8 +33393,8 @@ Nr. XI-1442, 2011-06-09, Žin., 2011, Nr. 74-3546 (2011-06-18)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1484, 2011-06-21, Žin., 2011, Nr. 85-4130 (2011-07-13)
 [[latest/TAR.7A513740CAE1|CIVILINIO KODEKSO 1.3, 1.65, 2.139, 5.39, 5.50, 5.52, 5.53, 5.54, 5.60 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus 4, 5, 6, 7, 8, [[#^s-54229aeccd3391ffeb529577|9 straipsnius]] ir šio straipsnio 3 dalį, įsigalioja 2011 m. spalio 1 d.
-Šio įstatymo 4, 5, 6, 7, 8, [[#^s-54229aeccd3391ffeb529577|9 straipsniai]] įsigalioja 2011 m. lapkričio 1 d.
+Šis įstatymas, išskyrus [[#^s-1e95b58c54b647cd953f5d8b|4]], [[#^s-bd55aec0a38db024c459ae80|5]], [[#^s-43f3c2f389fa4ee4c7357f5b|6]], [[#^s-57f56a8b62af986ce4b54758|7]], [[#^s-92d44fc068e3f3ad1582abdd|8]], [[#^s-54229aeccd3391ffeb529577|9]] straipsnius ir šio straipsnio 3 dalį, įsigalioja 2011 m. spalio 1 d.
+Šio įstatymo [[#^s-1e95b58c54b647cd953f5d8b|4]], [[#^s-bd55aec0a38db024c459ae80|5]], [[#^s-43f3c2f389fa4ee4c7357f5b|6]], [[#^s-57f56a8b62af986ce4b54758|7]], [[#^s-92d44fc068e3f3ad1582abdd|8]], [[#^s-54229aeccd3391ffeb529577|9]] straipsniai įsigalioja 2011 m. lapkričio 1 d.
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -33474,7 +33474,7 @@ CIVILINIO KODEKSO 2.138(1), 2.139, 2.140, 2.147 STRAIPSNIŲ PAKEITIMO IR PAPILDY
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-700, 2013-12-19, paskelbta TAR 2014-01-07, i. k. 2014-00069
 [[latest/f1a30bf0778f11e3996afa27049d9d4e|LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus 26 ir [[#^s-37fe77baf52522c321fbdf2c|27 straipsnius]], įsigalioja 2014 m. birželio 13 d.
+Šis įstatymas, išskyrus [[#^s-93554f42be87c826decfeefb|26]] ir [[#^s-37fe77baf52522c321fbdf2c|27]] straipsnius, įsigalioja 2014 m. birželio 13 d.
 Šio įstatymo nuostatos taikomos sutartims, sudarytoms įsigaliojus šiam įstatymui.
 Pakeitimas:
 34.1.
@@ -33493,7 +33493,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1064, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10462
 [[latest/cda72080126011e4adf3c8c5d7681e73|LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 2.46, 2.66, 2.70, 2.75, 2.106 IR 2.108 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
 Juridinių asmenų registro tvarkytojas kreipiasi į teismą su prašymu atšaukti likvidatorių, jei juridinio asmens likvidavimo procedūros buvo pradėtos Lietuvos Respublikos civilinio kodekso 2.70 straipsnyje nustatyta tvarka iki šio įstatymo įsigaliojimo. Atšaukus likvidatorių, juridinis asmuo iš juridinių asmenų registro išregistruojamas juridinių asmenų registro nuostatuose nustatyta tvarka.
-Šio straipsnio 1 dalyje nurodyti prašymai nagrinėjami Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta tvarka.
+Šio straipsnio 1 dalyje nurodyti prašymai nagrinėjami [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) XXXIX skyriuje nustatyta tvarka.
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
 
 37.
@@ -33516,7 +33516,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2007-06-07, Žin., 2007, Nr. 65-2529 (2007-06-12)
-DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. LAPKRIČIO 11 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 3.194 STRAIPSNIO 3 DALIES (2004 M. LAPKRIČIO 11 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.5F5900327B76)
 
 
 
@@ -33890,7 +33890,7 @@ Lietuvos Respublikos civilinio kodekso 4.103 straipsnio pakeitimo įstatymas
 74.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr.  KT44-A-N6/2024, 2024-05-20, paskelbta TAR 2024-05-20, i. k. 2024-09103
-Dėl Lietuvos Respublikos civilinio kodekso 3.269 straipsnio (2000 m. liepos 18 d., 2021 m. gruodžio 23 d. redakcijos) 7 punkto atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos civilinio kodekso 3.269 straipsnio (2000 m. liepos 18 d., 2021 m. gruodžio 23 d. redakcijos) 7 punkto atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/5e129a2016af11efbcbfb318996800a8)
 
 75.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -33925,7 +33925,7 @@ Lietuvos Respublikos civilinio kodekso 2.70 straipsnio pakeitimo įstatymas
 81.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT21-N5/2025, 2025-04-17, paskelbta TAR 2025-04-17, i. k. 2025-06803
-Dėl Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo [[#^s-f69a8eff453a8b6caa5691b0|28 straipsnio]], Lietuvos Respublikos civilinio kodekso 3.229 straipsnio atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo 28 straipsnio, Lietuvos Respublikos civilinio kodekso 3.229 straipsnio atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/b255c8f31b7711f08fdabd4950271e2c)
 
 82.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -33940,7 +33940,7 @@ Nr. XV-364, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12025
 84.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-443, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16789
-Lietuvos Respublikos civilinio kodekso 2.77 straipsnio pakeitimo ir 2.78, 2.79 straipsnių pripažinimo netekusiais galios įstatymas
+[Lietuvos Respublikos civilinio kodekso 2.77 straipsnio pakeitimo ir 2.78, 2.79 straipsnių pripažinimo netekusiais galios įstatymas](https://e-tar.lt/portal/lt/legalAct/f9d300b0a26f11f0a34db2fbd35a03b2)
 
 85.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -33950,7 +33950,7 @@ Nr. XV-529, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19761
 86.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-576, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20385
-Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-6, 6.228-7, 6.228-8 ir 6.228-14 straipsnių ir priedo pakeitimo įstatymas
+[Lietuvos Respublikos civilinio kodekso 6.228-1, 6.228-6, 6.228-7, 6.228-8 ir 6.228-14 straipsnių ir priedo pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/8f2aa892ce9211f08918e1adc7c5b1ec)
 
 87.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -33965,9 +33965,9 @@ Nr. XV-667, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22540
 89.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-779, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05180
-Lietuvos Respublikos civilinio kodekso 6.363, 6.364, 6.364-1, 6.364-2 straipsnių ir priedo pakeitimo įstatymas
+[Lietuvos Respublikos civilinio kodekso 6.363, 6.364, 6.364-1, 6.364-2 straipsnių ir priedo pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/b508d1b22c3c11f1a552c76556910e9c)
 
 90.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1080, 2026-06-25, paskelbta TAR 2026-07-02, i. k. 2026-11472
-Lietuvos Respublikos civilinio kodekso šeštosios knygos III dalies XXII skyriaus ketvirtojo skirsnio ir priedo pakeitimo įstatymas
+[Lietuvos Respublikos civilinio kodekso šeštosios knygos III dalies XXII skyriaus ketvirtojo skirsnio ir priedo pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/1240fc92760c11f1b53dfa020e517810)

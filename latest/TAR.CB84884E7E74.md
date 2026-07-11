@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-8e474bab188343c06a509a40
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. balandžio 7 d. dekretą Nr. 1, ratifikuoja 1987 m. lapkričio 13 d. Strasbūre priimtą Europos konvenciją dėl namuose laikomų gyvūnų apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas [2004 m. balandžio 7 d. dekretą Nr. 1](https://e-tar.lt/portal/lt/legalAct/TAR.85FF495E44FE), ratifikuoja 1987 m. lapkričio 13 d. Strasbūre priimtą Europos konvenciją dėl namuose laikomų gyvūnų apsaugos.
 
 
 

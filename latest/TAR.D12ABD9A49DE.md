@@ -210,7 +210,7 @@ AUGALŲ APSAUGOS PRODUKTŲ REGISTRACIJA
 1. Paraiškas įregistruoti augalų apsaugos produktus pareiškėjai teikia Valstybinei augalų apsaugos tarnybai (toliau – Tarnyba). Pareiškėjai privalo turėti nuolatinę buveinę vienoje iš Europos Sąjungos valstybių narių. ^s-e735b1a0027535f6488947e2
 
 
-2. Paraiškos įregistruoti augalų apsaugos produktus pateikiamos lietuvių kalba, o duomenys pagal šio straipsnio 3 ir [[#^s-d7da90149da96c1aed9a582d|4 dalyse]] nurodytus reikalavimus gali būti pateikiami lietuvių arba anglų kalba. ^s-2397cd85cbead01a606a2c6a
+2. Paraiškos įregistruoti augalų apsaugos produktus pateikiamos lietuvių kalba, o duomenys pagal šio straipsnio [[#^s-447a5e9f762f7062a5c168fb|3]] ir [[#^s-d7da90149da96c1aed9a582d|4]] dalyse nurodytus reikalavimus gali būti pateikiami lietuvių arba anglų kalba. ^s-2397cd85cbead01a606a2c6a
 
 
 3. Reikalavimus duomenims, kuriuos reikia pateikti apie veikliąsias medžiagas, esančias augalų apsaugos produktuose, tvirtina žemės ūkio ministras, suderinus su aplinkos ministru ir sveikatos apsaugos ministru. ^s-447a5e9f762f7062a5c168fb
@@ -246,7 +246,7 @@ AUGALŲ APSAUGOS PRODUKTŲ REGISTRACIJA
 1. Augalų apsaugos produktai registruojami Lietuvos Respublikoje, jeigu: ^s-adfea41f8590e7bb8c8777ef
 
 
-1) veikliosios medžiagos yra įrašytos į šio Įstatymo [[#^s-6ffa0a88aaf6f34391c82ccd|5 straipsnio 3 dalyje]] nurodytą veikliųjų medžiagų sąrašą ir yra įvykdytos visos šiame sąraše nurodytos sąlygos, augalų apsaugos produktai įvertinti pagal [[#^s-f1aba7b2bdef36c3d5a91ef2|šio straipsnio 13 dalyje]] nurodytą augalų apsaugos produktų įvertinimo ir sprendimų priėmimo tvarką ir laikomasi [[#^s-adfea41f8590e7bb8c8777ef|šio straipsnio 1 dalies]] 2, 3, 4, 5 ir [[#^s-ea1e031d9dc1ee3e958fca69|6 punktų]] reikalavimų; ^s-7baa12ed8eba2707f8d376f6
+1) veikliosios medžiagos yra įrašytos į šio Įstatymo [[#^s-6ffa0a88aaf6f34391c82ccd|5 straipsnio 3 dalyje]] nurodytą veikliųjų medžiagų sąrašą ir yra įvykdytos visos šiame sąraše nurodytos sąlygos, augalų apsaugos produktai įvertinti pagal [[#^s-f1aba7b2bdef36c3d5a91ef2|šio straipsnio 13 dalyje]] nurodytą augalų apsaugos produktų įvertinimo ir sprendimų priėmimo tvarką ir laikomasi [[#^s-adfea41f8590e7bb8c8777ef|šio straipsnio 1 dalies]] [[#^s-2e97aa8296ef968baab6d700|2]], [[#^s-b7e4f1a7593552b9d920cddc|3]], [[#^s-d07653068c9e5dc723b49d19|4]], [[#^s-003ac3b2625ec1bc336c86d6|5]] ir [[#^s-ea1e031d9dc1ee3e958fca69|6]] punktų reikalavimų; ^s-7baa12ed8eba2707f8d376f6
 
 
 2) įvertinus pateiktus duomenis apie augalų apsaugos produktą pagal šio Įstatymo [[#^s-d7da90149da96c1aed9a582d|4 straipsnio 4 dalies]] reikalavimus ir visas jo naudojimo sąlygas bei galimas pasekmes, yra nustatyta, kad augalų apsaugos produktas veikia kenksmingus organizmus, kuriems naikinti yra skirtas, neturi nepageidautino poveikio augalams ar augaliniams produktams, nesukelia nereikalingų kančių ir skausmo stuburiniams gyvūnams, neturi tiesioginio ar netiesioginio kenksmingo poveikio žmogaus ar gyvūnų sveikatai, nedaro neleistino poveikio aplinkai. Ypatingą dėmesį reikia atkreipti į augalų apsaugos produktų išlikimą ir pasiskirstymą aplinkoje, geriamojo ir gruntinio vandens teršimą, poveikį naudingoms augalų ir gyvūnų rūšims; ^s-2e97aa8296ef968baab6d700
@@ -288,10 +288,10 @@ AUGALŲ APSAUGOS PRODUKTŲ REGISTRACIJA
 8. Jeigu po 3 metų Europos Komisijos sprendimas dėl veikliųjų medžiagų įrašymo į sąrašą dar nepriimtas, Tarnyba išimties tvarka gali prašyti pratęsti laikinosios registracijos terminą, per kurį būtų galima išsamiai išnagrinėti dokumentus ar papildomą informaciją. ^s-83ccb3db9ed91af34bdcf901
 
 
-9. Laikinai įregistruojant augalų apsaugos produktus, laikomasi šio straipsnio 2 ir [[#^s-e3ad0d61b46648934487bb94|4 dalių]] nuostatų. ^s-8800dd5e071de78a321da1f8
+9. Laikinai įregistruojant augalų apsaugos produktus, laikomasi šio straipsnio [[#^s-5a577830a5b328b6a6b50261|2]] ir [[#^s-e3ad0d61b46648934487bb94|4]] dalių nuostatų. ^s-8800dd5e071de78a321da1f8
 
 
-10. Dėl kiekvienos paraiškos pradedama atskira byla. Kiekvienoje byloje turi būti paraiška, sprendimas dėl augalų apsaugos produktų registravimo, jų toksikologinis, ekotoksikologinis, išlikimo ir pasiskirstymo aplinkoje, fizikinių ir cheminių savybių, biologinio efektyvumo įvertinimas, analizės metodų pripažinimas galiojančiais, Sveikatos apsaugos ministerijos įgaliotos institucijos pateiktos rekomendacijos dėl didžiausių leistinų likučių kiekių, Tarnybos patvirtinta etiketė lietuvių kalba pagal šio Įstatymo [[#^s-2cfe0434a54be678daedc2b5|17 straipsnio]] reikalavimus ir augalų apsaugos produkto registracijos liudijimo kopija. Šie duomenys gali būti pateikti Europos Sąjungos valstybių narių įgaliotoms institucijoms ir Europos Komisijai jų prašymu. ^s-fd9b2b6380db03d0fec664f9
+10. Dėl kiekvienos paraiškos pradedama atskira byla. Kiekvienoje byloje turi būti paraiška, sprendimas [dėl augalų apsaugos produktų registravimo](https://e-tar.lt/portal/lt/legalAct/TAR.60998DB10461), jų toksikologinis, ekotoksikologinis, išlikimo ir pasiskirstymo aplinkoje, fizikinių ir cheminių savybių, biologinio efektyvumo įvertinimas, analizės metodų pripažinimas galiojančiais, Sveikatos apsaugos ministerijos įgaliotos institucijos pateiktos rekomendacijos dėl didžiausių leistinų likučių kiekių, Tarnybos patvirtinta etiketė lietuvių kalba pagal šio Įstatymo [[#^s-2cfe0434a54be678daedc2b5|17 straipsnio]] reikalavimus ir augalų apsaugos produkto registracijos liudijimo kopija. Šie duomenys gali būti pateikti Europos Sąjungos valstybių narių įgaliotoms institucijoms ir Europos Komisijai jų prašymu. ^s-fd9b2b6380db03d0fec664f9
 
 
 11. Tarnyba, vadovaudamasi Europos Sąjungos esamų ir naujų veikliųjų medžiagų peržiūros programos išvadomis, registruoja augalų apsaugos produktus, išduoda registracijos liudijimus, panaikina registraciją ar keičia augalų apsaugos produktų naudojimo reglamentus žemės ūkio ministro nustatyta tvarka. ^s-44ec8dcbb6f2657b175841f4
@@ -316,7 +316,7 @@ AUGALŲ APSAUGOS PRODUKTŲ REGISTRACIJA
 2. Augalų apsaugos produktui, registruotam pagal šio Įstatymo reikalavimus, perregistruoti pareiškėjas pateikia paraišką ir papildomus duomenis, jei jų yra, apie produkto naudojimą, poveikį žmogui, gyvūnams ir aplinkai. ^s-ba5c13ef5d161558145dc055
 
 
-3. Jeigu augalų apsaugos produktas buvo įregistruotas iki šio Įstatymo įsigaliojimo, pareiškėjas pateikia duomenis pagal šio Įstatymo [[#^s-d0c61bd63a6752807f334267|4 straipsnio]] 3 ir 4 dalių reikalavimus. ^s-e927f519e845de326511246d
+3. Jeigu augalų apsaugos produktas buvo įregistruotas iki šio Įstatymo įsigaliojimo, pareiškėjas pateikia duomenis pagal šio Įstatymo [[#^s-d0c61bd63a6752807f334267|4 straipsnio]] [[#^s-447a5e9f762f7062a5c168fb|3]] ir [[#^s-d7da90149da96c1aed9a582d|4]] dalių reikalavimus. ^s-e927f519e845de326511246d
 
 
 
@@ -351,7 +351,7 @@ AUGALŲ APSAUGOS PRODUKTŲ REGISTRACIJA
 1) su žemės ūkio veikla susijusios mokslo įstaigos, augintojų asociacijos ar profesionalūs naudotojai pateikė dokumentus apie šių produktų veiksmingumą ir likučius, pagrindžiančius naudojimo išplėtimą; ^s-4f1f602c7a6eb4cf163850dd
 
 
-2) įvykdytos šio Įstatymo [[#^s-adfea41f8590e7bb8c8777ef|6 straipsnio 1 dalies]] 3, 4 ir 5 punktuose nustatytos sąlygos ir augalų apsaugos produktas yra veiksmingas prieš kenksmingus organizmus, kuriems naikinti yra skirtas, neturi nepageidautino poveikio augalams ar augaliniams produktams, nesukelia nereikalingų kančių ir skausmo stuburiniams gyvūnams, neturi tiesioginio ar netiesioginio kenksmingo poveikio žmogaus ar gyvūnų sveikatai (per geriamąjį vandenį, maistą, pašarus ir pan.), nedaro neleistino poveikio aplinkai. Ypatingas dėmesys atkreipiamas į šių produktų išlikimą ir pasiskirstymą aplinkoje, geriamojo ir gruntinio vandens teršimą, poveikį naudingoms augalų ir gyvūnų rūšims; ^s-fbebca4aca3c9581b5ea549e
+2) įvykdytos šio Įstatymo [[#^s-adfea41f8590e7bb8c8777ef|6 straipsnio 1 dalies]] [[#^s-b7e4f1a7593552b9d920cddc|3]], [[#^s-d07653068c9e5dc723b49d19|4]] ir [[#^s-003ac3b2625ec1bc336c86d6|5]] punktuose nustatytos sąlygos ir augalų apsaugos produktas yra veiksmingas prieš kenksmingus organizmus, kuriems naikinti yra skirtas, neturi nepageidautino poveikio augalams ar augaliniams produktams, nesukelia nereikalingų kančių ir skausmo stuburiniams gyvūnams, neturi tiesioginio ar netiesioginio kenksmingo poveikio žmogaus ar gyvūnų sveikatai (per geriamąjį vandenį, maistą, pašarus ir pan.), nedaro neleistino poveikio aplinkai. Ypatingas dėmesys atkreipiamas į šių produktų išlikimą ir pasiskirstymą aplinkoje, geriamojo ir gruntinio vandens teršimą, poveikį naudingoms augalų ir gyvūnų rūšims; ^s-fbebca4aca3c9581b5ea549e
 
 
 3) naudojimo išplėtimas susijęs su mažais plotais auginamais augalais, kurių sąrašą tvirtina žemės ūkio ministras. ^s-afeaa4abb7baac63108d470d
@@ -383,7 +383,7 @@ AUGALŲ APSAUGOS PRODUKTŲ REGISTRACIJA
 ### 11 straipsnis. Veikliųjų medžiagų duomenų įvertinimas, ataskaitos rengimas ir pateikimas Europos Komisijai ^s-3b043860e870e8bafec21da8
 
 
-1. Tarnyba, Europos Komisijos įgaliota parengti veikliųjų medžiagų duomenų įvertinimo ataskaitą ir ją pateikti Europos Komisijai, gavusi paraišką ir patikrinusi, ar duomenys yra išsamūs, įpareigoja pareiškėjus išsiųsti duomenis pagal šio Įstatymo [[#^s-d0c61bd63a6752807f334267|4 straipsnio]] 3 ir 4 dalių reikalavimus kitoms Europos Sąjungos valstybių narių įgaliotoms institucijoms ir Europos Komisijai. ^s-c1a9dd1c65a0937081fe4155
+1. Tarnyba, Europos Komisijos įgaliota parengti veikliųjų medžiagų duomenų įvertinimo ataskaitą ir ją pateikti Europos Komisijai, gavusi paraišką ir patikrinusi, ar duomenys yra išsamūs, įpareigoja pareiškėjus išsiųsti duomenis pagal šio Įstatymo [[#^s-d0c61bd63a6752807f334267|4 straipsnio]] [[#^s-447a5e9f762f7062a5c168fb|3]] ir [[#^s-d7da90149da96c1aed9a582d|4]] dalių reikalavimus kitoms Europos Sąjungos valstybių narių įgaliotoms institucijoms ir Europos Komisijai. ^s-c1a9dd1c65a0937081fe4155
 
 
 2. Veikliųjų medžiagų duomenų įvertinimo, ataskaitos rengimo ir pateikimo Europos Komisijai tvarką tvirtina žemės ūkio ministras. ^s-70d4b19689fd2213b3be1918
@@ -447,7 +447,7 @@ Jeigu yra pagrindas manyti, kad įregistruoti arba privalomi registruoti pagal �
 3) 10 metų po esamų veikliųjų medžiagų įregistravimo Lietuvos Respublikoje; ^s-759101f8a81ec74ea5a7f2f3
 
 
-4) 5 metus nuo papildomos informacijos apie veikliųjų medžiagų, įrašytų į šio Įstatymo [[#^s-6ffa0a88aaf6f34391c82ccd|5 straipsnio 3 dalyje]] nurodytą veikliųjų medžiagų sąrašą, sąlygų pakeitimą ar jų išlaikymą pateikimo. Jeigu 5 metų laikotarpis baigiasi anksčiau nei laikotarpis, nustatytas [[#^s-a68449db13f93ab3d03e2b5a|šio straipsnio 1 dalies]] 2 ir [[#^s-759101f8a81ec74ea5a7f2f3|3 punktuose]], duomenų apsaugos laikotarpis pratęsiamas iki [[#^s-a68449db13f93ab3d03e2b5a|šio straipsnio 1 dalies]] 2 ir [[#^s-759101f8a81ec74ea5a7f2f3|3 punktuose]] nurodyto termino. ^s-c39a2b87ffc67231ee29392d
+4) 5 metus nuo papildomos informacijos apie veikliųjų medžiagų, įrašytų į šio Įstatymo [[#^s-6ffa0a88aaf6f34391c82ccd|5 straipsnio 3 dalyje]] nurodytą veikliųjų medžiagų sąrašą, sąlygų pakeitimą ar jų išlaikymą pateikimo. Jeigu 5 metų laikotarpis baigiasi anksčiau nei laikotarpis, nustatytas [[#^s-a68449db13f93ab3d03e2b5a|šio straipsnio 1 dalies]] [[#^s-a13cca29e62365278847f85b|2]] ir [[#^s-759101f8a81ec74ea5a7f2f3|3]] punktuose, duomenų apsaugos laikotarpis pratęsiamas iki [[#^s-a68449db13f93ab3d03e2b5a|šio straipsnio 1 dalies]] [[#^s-a13cca29e62365278847f85b|2]] ir [[#^s-759101f8a81ec74ea5a7f2f3|3]] punktuose nurodyto termino. ^s-c39a2b87ffc67231ee29392d
 
 
 2. Tarnyba, įregistruodama augalų apsaugos produktus, nesinaudoja duomenimis, pateiktais pagal šio Įstatymo [[#^s-d7da90149da96c1aed9a582d|4 straipsnio 4 dalies]] reikalavimus, kitų pareiškėjų naudai: ^s-04fcaab81cb23270ef74f441
@@ -502,7 +502,7 @@ Jeigu yra pagrindas manyti, kad įregistruoti arba privalomi registruoti pagal �
 6) rekomenduojamos saugos priemonės ir metodai, siekiant sumažinti naudojimo, saugojimo, pervežimo, pakrovimo ir iškrovimo, gaisro ar kitokį pavojų; ^s-f3921e128694418d18305d12
 
 
-7) šio Įstatymo [[#^s-adfea41f8590e7bb8c8777ef|6 straipsnio 1 dalies]] 3 ir [[#^s-449796414f3b62a2ad8fdb0d|4 punktuose]] nurodyti analizės metodai; ^s-42b29f8172554cfb611890c5
+7) šio Įstatymo [[#^s-adfea41f8590e7bb8c8777ef|6 straipsnio 1 dalies]] [[#^s-b7e4f1a7593552b9d920cddc|3]] ir [[#^s-d07653068c9e5dc723b49d19|4]] punktuose nurodyti analizės metodai; ^s-42b29f8172554cfb611890c5
 
 
 8) augalų apsaugos produktų ir jų pakuotės sunaikinimo būdai; ^s-d755ade4a85b87a802196463
@@ -664,7 +664,7 @@ Jeigu yra pagrindas manyti, kad įregistruoti arba privalomi registruoti pagal �
 ### 22 straipsnis. Valstybės rinkliava už augalų apsaugos produktų registravimą, perregistravimą, naudojimo reglamentų pakeitimą, mažais plotais auginamų augalų naudojimo išplėtimą ^s-ed4d376316bb1c86d05f9e24
 
 
-Pareiškėjai, pateikdami paraiškas dėl augalų apsaugos produktų registravimo, perregistravimo, naudojimo reglamentų pakeitimo, mažais plotais auginamų augalų naudojimo išplėtimo, sumoka valstybės rinkliavą teisės aktų nustatyta tvarka.
+Pareiškėjai, pateikdami paraiškas [dėl augalų apsaugos produktų registravimo](https://e-tar.lt/portal/lt/legalAct/TAR.60998DB10461), perregistravimo, naudojimo reglamentų pakeitimo, mažais plotais auginamų augalų naudojimo išplėtimo, sumoka valstybės rinkliavą teisės aktų nustatyta tvarka.
 
 
 
@@ -891,7 +891,7 @@ Fiziniai ir juridiniai asmenys, pažeidę šio Įstatymo reikalavimus, atsako į
 
 Lietuvos Respublikos
 augalų apsaugos
-įstatymo Nr. IX-1069
+[įstatymo Nr. IX-1069](https://e-tar.lt/portal/lt/legalAct/TAR.1F8061D73D99)
 priedas
 
 Įgyvendinami Europos Sąjungos teisės aktai

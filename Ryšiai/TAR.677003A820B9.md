@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.746227138BCB|Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymas]] - 3 citatos - Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo
-- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 2 citatos - Valstybinio socialinio draudimo įstatymo
+- [[latest/TAR.746227138BCB|Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymas]] - Moterų ir vyrų lygių galimybių įstatymo
+- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - Valstybinio socialinio draudimo įstatymo
 
 ## Šį įstatymą cituoja
 

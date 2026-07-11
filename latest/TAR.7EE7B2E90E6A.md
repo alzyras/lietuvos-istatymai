@@ -198,7 +198,7 @@ Pakeisti 14 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 ### 9 straipsnis. 23 straipsnio 1 dalies papildymas ir pakeitimas ^s-7a52b1d09e7e214bc7892a19
 
 
-23 straipsnio 1 dalį papildyti nauju [[#^s-cde5b97f2c1c683afda0df99|1 punktu]], buvusius šios dalies 1, 2, 3, 4 ir [[#^s-f5f4a767c98d29e639bdb50e|5 punktus]] laikyti atitinkamai 2, 3, 4, 5 ir [[#^s-30e2558212d2d1a32899bf36|6 punktais]] ir visą dalį išdėstyti taip:
+23 straipsnio 1 dalį papildyti nauju [[#^s-cde5b97f2c1c683afda0df99|1 punktu]], buvusius šios dalies 1, 2, 3, 4 ir 5 punktus laikyti atitinkamai 2, 3, 4, 5 ir 6 punktais ir visą dalį išdėstyti taip:
 
 
 „1. Konkurencijos taryba tiria:
@@ -243,7 +243,7 @@ Pakeisti 14 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 1) įeiti ir atlikti patikrinimą ūkio subjekto naudojamose patalpose, teritorijoje ir transporto priemonėse; ^s-ca6bc5ace73eafb9e73c8445
 
 
-2) įeiti ir atlikti patikrinimą kitose patalpose, teritorijose ir transporto priemonėse, įskaitant ūkio subjekto vadovų bei darbuotojų gyvenamąsias ir kitokias patalpas, jeigu kyla pagrįstas įtarimas, kad tokiose patalpose, teritorijoje ar transporto priemonėse yra laikomi dokumentai ar bet kokie kiti įrodymai, reikalingi tyrimui ir galintys turėti reikšmės įrodant sunkų šio įstatymo 5 ar [[#^s-7a52b1d09e7e214bc7892a19|9 straipsnio]] arba Europos bendrijos steigimo sutarties 81 ar 82 straipsnio pažeidimą; ^s-19b3be01613fcf8e5b72920f
+2) įeiti ir atlikti patikrinimą kitose patalpose, teritorijose ir transporto priemonėse, įskaitant ūkio subjekto vadovų bei darbuotojų gyvenamąsias ir kitokias patalpas, jeigu kyla pagrįstas įtarimas, kad tokiose patalpose, teritorijoje ar transporto priemonėse yra laikomi dokumentai ar bet kokie kiti įrodymai, reikalingi tyrimui ir galintys turėti reikšmės įrodant sunkų šio įstatymo [[#^s-ed9296a944fd56c713013a45|5]] ar [[#^s-7a52b1d09e7e214bc7892a19|9]] straipsnio arba Europos bendrijos steigimo sutarties 81 ar 82 straipsnio pažeidimą; ^s-19b3be01613fcf8e5b72920f
 
 
 3) peržiūrėti tyrimui reikalingus dokumentus (kad ir kokioje laikmenoje jie būtų saugomi), gauti jų kopijas ir išrašus, susipažinti su ūkio subjekto darbuotojų užrašais, susijusiais su darbo veikla, taip pat juos bei kompiuteriuose ir bet kokiose laikmenose esančią informaciją kopijuoti; ^s-793b58ca32c95e4dd8ade166
@@ -415,7 +415,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 44 straipsnio 3 dalyje išbraukti žodį „teismo“ ir šią dalį išdėstyti taip:
 
 
-„3. Ūkio subjekto nesumokėta piniginė bauda išieškoma į valstybės biudžetą. Konkurencijos tarybos nutarimas pateikiamas vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka. Nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo nutarimo priėmimo dienos.“
+„3. Ūkio subjekto nesumokėta piniginė bauda išieškoma į valstybės biudžetą. Konkurencijos tarybos nutarimas pateikiamas vykdyti antstoliui [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo nutarimo priėmimo dienos.“
 
 
 ### 21 straipsnis. 49 straipsnio pakeitimas ^s-61c9e8c4d17da772d20928d0

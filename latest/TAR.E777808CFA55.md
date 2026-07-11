@@ -76,13 +76,13 @@ Pakeisti ir papildyti 61 straipsnį ir jį išdėstyti taip:
 4) nepateikusiems pažymos, kad jie yra išklausę atitinkamą mokymo programą, kurią tvirtina Vyriausybės įgaliota institucija; ^s-9a75c043fc3790028edad8d7
 
 
-5) gyvenantiems kartu su asmenimis, nurodytais šios dalies 2 ir [[#^s-d79f7dbeaf5081b265fe04ae|3 punktuose]]. ^s-7244907be296beb2a6f3a995
+5) gyvenantiems kartu su asmenimis, nurodytais šios dalies [[#^s-92453afec84676eaba5dd4f6|2]] ir [[#^s-d79f7dbeaf5081b265fe04ae|3]] punktuose. ^s-7244907be296beb2a6f3a995
 
 
 4. Savivaldybės ar Vyriausybės įgaliotos institucijos agresyvius šunis gali paimti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka: ^s-320282446542d2c12d472cf4
 
 
-1) kai atsiranda [[#^s-54b28641364451fc7a670fa9|šio straipsnio 3 dalies]] 2, 3 ir [[#^s-686dbd10d82bfacee3146450|5 punktuose]] numatyti pagrindai; ^s-905b6e24e0a7cbe83f4ec613
+1) kai atsiranda [[#^s-54b28641364451fc7a670fa9|šio straipsnio 3 dalies]] [[#^s-97e3a7a0279e83b3ebbaef19|2]], [[#^s-26de95999d27d273b2922ea9|3]] ir [[#^s-686dbd10d82bfacee3146450|5]] punktuose numatyti pagrindai; ^s-905b6e24e0a7cbe83f4ec613
 
 
 2) panaikinus leidimą laikyti agresyvų šunį; ^s-97e3a7a0279e83b3ebbaef19

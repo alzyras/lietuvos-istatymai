@@ -156,7 +156,7 @@ IKIŠAUKTINIO AMŽIAUS JAUNUOLIŲ REGISTRACIJA
 3) stichinė nelaimė ar nelaimingas atsitikimas; ^s-f76a6f70f59fcbb0382500a5
 
 
-4) šauktinio mokymasis užsienyje, jeigu tai yra pagrindas atidėti būtinąją karo tarnybą pagal šio įstatymo [[#^s-e20876b2b5579a1e9aa862b0|9 straipsnio 1 dalies]] 1–4 punktus. ^s-a210401f1d0268ce11f34b6f
+4) šauktinio mokymasis užsienyje, jeigu tai yra pagrindas atidėti būtinąją karo tarnybą pagal šio įstatymo [[#^s-e20876b2b5579a1e9aa862b0|9 straipsnio 1 dalies]] [[#^s-314c4832bb5439cef0c29de9|1]]–[[#^s-88bfa4882c4b30e7e847274b|4]] punktus. ^s-a210401f1d0268ce11f34b6f
 
 
 2. [[#^s-34950e54a56e1ec3f456d0b7|Šio straipsnio 1 dalies]] 1–3 punktuose nurodytais atvejais šauktiniai privalo turėti pateisinamąjį dokumentą ir pateikti jį naujokų šaukimo komisijai, o 4 punkte nurodytu atveju šauktiniai privalo pateikti arba atsiųsti registruotu laišku pateisinamąjį dokumentą ir dokumentus dėl tarnybos atidėjimo. ^s-512f79a6b1d663624ed485fe
@@ -510,7 +510,7 @@ Būtinosios karo tarnybos kariai tarnybą atlieka Lietuvos Respublikos kariuomen
 3) išbuvo areštinėje. ^s-8f6c7970f8f1b08331724316
 
 
-4. Jei atsiranda šio įstatymo [[#^s-e20876b2b5579a1e9aa862b0|9 straipsnio 1 dalies]] 5–10 punktuose nurodytų aplinkybių, būtinosios karo tarnybos karys, ištarnavęs mažiau kaip pusę šiame įstatyme nustatyto laiko, paleidžiamas iš tarnybos, iki minėtos aplinkybės išnyks. ^s-71c0357689165b291f729f9b
+4. Jei atsiranda šio įstatymo [[#^s-e20876b2b5579a1e9aa862b0|9 straipsnio 1 dalies]] [[#^s-045d8d9a3acd59848834d721|5]]–[[#^s-743feeb2a1ded111135da736|10]] punktuose nurodytų aplinkybių, būtinosios karo tarnybos karys, ištarnavęs mažiau kaip pusę šiame įstatyme nustatyto laiko, paleidžiamas iš tarnybos, iki minėtos aplinkybės išnyks. ^s-71c0357689165b291f729f9b
 
 
 
@@ -523,10 +523,10 @@ Būtinosios karo tarnybos karys paleidžiamas į atsargą:
 1) ištarnavęs šio įstatymo nustatytą laiką; ^s-96547bb1f76a3ab4f886db84
 
 
-2) jei atsiranda nors viena iš šio įstatymo [[#^s-1accace70b9bb36d4430bda4|8 straipsnio 1 dalies]] 1 ir [[#^s-237d64159fbbdf588b157351|2 punktuose]] nurodytų aplinkybių; ^s-237d64159fbbdf588b157351
+2) jei atsiranda nors viena iš šio įstatymo [[#^s-1accace70b9bb36d4430bda4|8 straipsnio 1 dalies]] [[#^s-95247a960d15688f4ac35fe2|1]] ir [[#^s-4466265bcaae2beb9ada83d9|2]] punktuose nurodytų aplinkybių; ^s-237d64159fbbdf588b157351
 
 
-3) ištarnavęs daugiau kaip pusę šiame įstatyme nustatyto laiko, jei atsiranda [[#^s-e20876b2b5579a1e9aa862b0|9 straipsnio 1 dalies]] 5–10 punktuose nurodytų aplinkybių, kurios neišnyksta iki kariui sukanka 27 metai. ^s-cea5b56792c0a087bf223017
+3) ištarnavęs daugiau kaip pusę šiame įstatyme nustatyto laiko, jei atsiranda [[#^s-e20876b2b5579a1e9aa862b0|9 straipsnio 1 dalies]] [[#^s-045d8d9a3acd59848834d721|5]]–[[#^s-743feeb2a1ded111135da736|10]] punktuose nurodytų aplinkybių, kurios neišnyksta iki kariui sukanka 27 metai. ^s-cea5b56792c0a087bf223017
 
 
 
@@ -856,28 +856,28 @@ Karių aprūpinimo tvarką ir su karo tarnyba susijusias garantijas nustato Kra�
 Įsigaliojus šiam įstatymui, netenka galios:
 
 
-1) Aukščiausiosios Tarybos nutarimas „Dėl Laikinojo krašto apsaugos prievolės įstatymo įgyvendinimo“ (Žin., 1990, Nr. 21-530); ^s-fc1befa738b0328753e442e5
+1) Aukščiausiosios Tarybos nutarimas [„Dėl Laikinojo krašto apsaugos prievolės įstatymo įgyvendinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.513E86CF34EA) (Žin., 1990, Nr. 21-530); ^s-fc1befa738b0328753e442e5
 
 
-2) Laikinasis krašto apsaugos prievolės įstatymas (Žin., 1990, Nr. 21-531); ^s-a3c88507aa6a19170d77a942
+2) [Laikinasis krašto apsaugos prievolės įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.070439D183CE) (Žin., 1990, Nr. 21-531); ^s-a3c88507aa6a19170d77a942
 
 
-3) Alternatyvios (darbo) tarnybos prievolės įstatymas (Žin., 1990, Nr. 30-726); ^s-52ef04dd4d4bb18c704c6268
+3) [Alternatyvios (darbo) tarnybos prievolės įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.5879951E7DFB) (Žin., 1990, Nr. 30-726); ^s-52ef04dd4d4bb18c704c6268
 
 
-4) Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos alternatyvios (darbo) tarnybos prievolės įstatymo įsigaliojimo“ (Žin., 1990, Nr. 30-727); ^s-3798231fbeebadb1cfc8dbae
+4) Aukščiausiosios Tarybos nutarimas [„Dėl Lietuvos Respublikos alternatyvios (darbo) tarnybos prievolės įstatymo įsigaliojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.3D04C7D96B40) (Žin., 1990, Nr. 30-727); ^s-3798231fbeebadb1cfc8dbae
 
 
-5) Įstatymas „Dėl Lietuvos Respublikos laikinojo krašto apsaugos prievolės įstatymo 32 straipsnio pakeitimo“ (Žin., 1990, Nr. 30-728); ^s-7b2317646b9c2610200d18fb
+5) Įstatymas [„Dėl Lietuvos Respublikos laikinojo krašto apsaugos prievolės įstatymo 32 straipsnio pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.45EB05B10111) (Žin., 1990, Nr. 30-728); ^s-7b2317646b9c2610200d18fb
 
 
 6) [[latest/TAR.9A3AD08EA5D0|Švietimo įstatymo]] (Žin., 1991, Nr. 23-593) [[#^s-98e76de8984319850a12b4fb|26 straipsnio]] penktoji dalis; ^s-288a5f2a645fc831ad1dbd90
 
 
-7) Įstatymo „Dėl Lietuvos Respublikos policijos įstatymo, Lietuvos Respublikos laikinojo krašto apsaugos prievolės įstatymo ir Lietuvos Respublikos krašto apsaugos tarnybos įstatymo pakeitimo ir papildymo“ (Žin.,1994, Nr. 53-994) II dalis; ^s-86677ca3f3cbf6d3485a2a9d
+7) Įstatymo [„Dėl Lietuvos Respublikos policijos įstatymo, Lietuvos Respublikos laikinojo krašto apsaugos prievolės įstatymo ir Lietuvos Respublikos krašto apsaugos tarnybos įstatymo pakeitimo ir papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.E4628D05BECC) (Žin.,1994, Nr. 53-994) II dalis; ^s-86677ca3f3cbf6d3485a2a9d
 
 
-8) Įstatymas „Dėl Lietuvos Respublikos alternatyvios (darbo) tarnybos prievolės įstatymo pakeitimo“ (Žin., 1994, Nr. 89-1721). ^s-b48634c2e0757c439a8af03a
+8) Įstatymas [„Dėl Lietuvos Respublikos alternatyvios (darbo) tarnybos prievolės įstatymo pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.298326878BB7) (Žin., 1994, Nr. 89-1721). ^s-b48634c2e0757c439a8af03a
 
 
 

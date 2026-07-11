@@ -175,7 +175,7 @@ Branduolinės energetikos objekto statybos ar rekonstravimo projektas suderinama
 ### 8 straipsnis. 33 straipsnio 2 ir 3 dalių pakeitimas ^s-80362c741201ad50ee49c482
 
 
-33 straipsnio 2 ir [[#^s-77567ad51b4232bc5f5bbdfb|3 dalyse]] vietoj žodžių „Aplinkos apsaugos ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šias dalis išdėstyti taip:
+33 straipsnio 2 ir 3 dalyse vietoj žodžių „Aplinkos apsaugos ministerija“ įrašyti žodžius „Aplinkos ministerija“ ir šias dalis išdėstyti taip:
 
 
 „2. Iki objekto eksploatacijos pradžios iš sanitarinės apsaugos zonos teritorijos Vyriausybės nustatyta tvarka iškeldinami visi gyventojai. Joje draudžiama su objekto eksploatacija ar priežiūra nesusijusi veikla ir įrenginių bei pastatų statyba. Žemė, miškai ir vandens telkiniai, esantys sanitarinėje apsaugos zonoje, gali būti naudojami ūkio reikmėms tik gavus objektą eksploatuojančios organizacijos sutikimą ir Aplinkos ministerijos bei Sveikatos apsaugos ministerijos leidimus.

@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo pakeitimo ratifikavimas ^s-158844696ff860fb32446ab7
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2013 m. gegužės 6 d. dekretą Nr. 1K-1454, ratifikuoja 2011 m. gruodžio 23 d. Vilniuje ir 2011 m. gruodžio 29 d. Darmštate pasirašytą Lietuvos Respublikos ir Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) susitarimo dėl valstybės bendradarbiavimo antrąjį pakeitimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2013 m. gegužės 6 d. dekretą Nr. 1K-1454](https://e-tar.lt/portal/lt/legalAct/TAR.B71BE91BE53B), ratifikuoja 2011 m. gruodžio 23 d. Vilniuje ir 2011 m. gruodžio 29 d. Darmštate pasirašytą Lietuvos Respublikos ir Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) susitarimo dėl valstybės bendradarbiavimo antrąjį pakeitimą.
 
 
 

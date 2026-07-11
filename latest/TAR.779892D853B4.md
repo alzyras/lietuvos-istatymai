@@ -169,7 +169,7 @@ Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. [[latest/TAR
 3) lėšų priėmimas išduodant korteles ar kitas priemones, kurios naudojamos įsigyjant prekes arba paslaugas tik iš šias korteles ar kitas priemones išdavusio asmens; ^s-431199c04553de8d0c9c023d
 
 
-4) sutelktinio finansavimo paslaugų teikimas per sutelktinio finansavimo platformą, kaip tai apibrėžta 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamente (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, jeigu projekto savininkas nesiverčia sandorių, turinčių galimos rizikos požymių, sudarymu; ^s-664fda173db154cc089b40a6
+4) sutelktinio finansavimo paslaugų teikimas per sutelktinio finansavimo platformą, kaip tai apibrėžta 2020 m. spalio 7 d. Europos Parlamento ir Tarybos [reglamente (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj) dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas [Reglamentas (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) ir [Direktyva (ES) 2019/1937](https://eur-lex.europa.eu/eli/dir/2019/1937/oj), jeigu projekto savininkas nesiverčia sandorių, turinčių galimos rizikos požymių, sudarymu; ^s-664fda173db154cc089b40a6
 Papildyta straipsnio punktu:
 Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
 Straipsnio punkto pakeitimai:
@@ -229,7 +229,7 @@ Nr. X-1037, 2007-01-18, Žin., 2007, Nr. 12-498 (2007-01-30), i. k. [[latest/TAR
 
 
 
-23. Kreditingumo vertinimo paslaugos – asmens mokumo, finansinės rizikos vertinimo ir įsiskolinimo valdymo tikslais atliekamas reikalingų duomenų tvarkymas, asmens mokumo ir finansinės rizikos vertinimas, taip pat asmens kreditingumo reitingo (balo), išskyrus kredito reitingus, kuriems taikomas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų, nustatymas. ^s-ab1fda0c8ca8117771e6e23c
+23. Kreditingumo vertinimo paslaugos – asmens mokumo, finansinės rizikos vertinimo ir įsiskolinimo valdymo tikslais atliekamas reikalingų duomenų tvarkymas, asmens mokumo ir finansinės rizikos vertinimas, taip pat asmens kreditingumo reitingo (balo), išskyrus kredito reitingus, kuriems taikomas Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) dėl kredito reitingų agentūrų, nustatymas. ^s-ab1fda0c8ca8117771e6e23c
 Papildyta straipsnio dalimi:
 Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. [[latest/TAR.E85A8E1CA159|1111010ISTA0XI-1373]]
 
@@ -507,7 +507,7 @@ Nr. XI-1373, 2011-05-12, Žin., 2011, Nr. 62-2935 (2011-05-24), i. k. [[latest/T
 17) su vertybinių popierių emisijomis susijusių paslaugų teikimas; ^s-3b7a9b58def29853f3936db3
 
 
-18) elektroninių pinigų, įskaitant elektroninių pinigų žetonus, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamente (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, [[#^s-972baf27d808ec37a5205a52|3 straipsnio 1 dalies 7 punkte]], leidimas; ^s-01c885895b389068f14c32dd
+18) elektroninių pinigų, įskaitant elektroninių pinigų žetonus, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamente (ES) 2023/1114](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) dėl kriptoturto rinkų, kuriuo iš dalies keičiami [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, [[#^s-7accbfcfc2d14b17d94dc552|3]] [[#^s-972baf27d808ec37a5205a52|straipsnio 1 dalies 7 punkte]], leidimas; ^s-01c885895b389068f14c32dd
 Straipsnio punkto pakeitimai:
 Nr. XI-1872, 2011-12-22, Žin., 2011, Nr. 163-7763 (2011-12-31), i. k. [[latest/TAR.D57869A63351|1111010ISTA0XI-1872]]
 Nr. XIV-2882, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13488
@@ -528,7 +528,7 @@ Nr. XI-203, 2009-03-19, Žin., 2009, Nr. 38-1442 (2009-04-04), i. k. [[latest/TA
 
 
 
-21) sutelktinio finansavimo paslaugų teikėjo veikla, kaip tai apibrėžta Reglamente (ES) 2020/1503; ^s-0569a45f200c3da66e2cbfff
+21) sutelktinio finansavimo paslaugų teikėjo veikla, kaip tai apibrėžta [Reglamente (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj); ^s-0569a45f200c3da66e2cbfff
 Papildyta straipsnio punktu:
 Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
 Straipsnio punkto pakeitimai:
@@ -542,13 +542,13 @@ Nr. XII-2772, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26973
 
 
 
-23) su turtu susietų žetonų, kaip jie apibrėžti Reglamento (ES) 2023/1114 [[#^s-aa014036ee36ade27f7bb496|3 straipsnio 1 dalies 6 punkte]], leidimas; ^s-6cca2d8a624ec477844f2fa4
+23) su turtu susietų žetonų, kaip jie apibrėžti [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) [[#^s-aa014036ee36ade27f7bb496|6 punkte]], leidimas; ^s-6cca2d8a624ec477844f2fa4
 Papildyta straipsnio punktu:
 Nr. XIV-2882, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13488
 
 
 
-24) kriptoturto paslaugos, kaip jos apibrėžtos Reglamento (ES) 2023/1114 [[#^s-4cbe3017b0ef62b5bda0e6ab|3 straipsnio 1 dalies 16 punkte]]; ^s-bdd567766cde4f7dde181c9a
+24) kriptoturto paslaugos, kaip jos apibrėžtos [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) [[#^s-4cbe3017b0ef62b5bda0e6ab|16 punkte]]; ^s-bdd567766cde4f7dde181c9a
 Papildyta straipsnio punktu:
 Nr. XIV-2882, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13488
 
@@ -578,7 +578,7 @@ Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
 5. Finansų įstaigos gali teikti finansines paslaugas užsienio valiuta, jeigu tai nustatyta Lietuvos Respublikos įstatymuose. ^s-7f6b8cb5f3e46db92126fc1d
 
 
-6. Reglamento (ES) 2020/1503 [[#^s-b0e04de67003dd43a0b06bd4|1 straipsnio 3 dalyje]] nurodytais atvejais nereikalaujama kredito įstaigos ar kitų licencijų ir leidimų, susijusių su sutelktinio finansavimo paslaugų teikimu. ^s-883a1f27850713e7904e3ff7
+6. [Reglamento (ES) 2020/1503 1 straipsnio 3 dalyje](https://eur-lex.europa.eu/eli/reg/2020/1503/art_1/par_3/oj) nurodytais atvejais nereikalaujama kredito įstaigos ar kitų licencijų ir leidimų, susijusių su sutelktinio finansavimo paslaugų teikimu. ^s-883a1f27850713e7904e3ff7
 Papildyta straipsnio dalimi:
 Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 
@@ -602,7 +602,7 @@ Nr. XIV-1336, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15401
 
 
 
-3. Finansų įstaigos, kuri verčiasi licencinių finansinių paslaugų teikimu, veiklą prižiūri Lietuvos bankas, išskyrus atvejus, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, nuostatas priežiūrą atlieka Europos Centrinis Bankas (toliau – priežiūros institucija). ^s-abb2d27c7e590a4992256a41
+3. Finansų įstaigos, kuri verčiasi licencinių finansinių paslaugų teikimu, veiklą prižiūri Lietuvos bankas, išskyrus atvejus, kai pagal 2013 m. spalio 15 d. Tarybos [reglamento (ES) Nr. 1024/2013](https://eur-lex.europa.eu/eli/reg/1024/2013/oj), kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, nuostatas priežiūrą atlieka Europos Centrinis Bankas (toliau – priežiūros institucija). ^s-abb2d27c7e590a4992256a41
 Straipsnio dalies pakeitimai:
 Nr. XI-1675, 2011-11-17, Žin., 2011, Nr. 146-6821 (2011-12-01), i. k. [[latest/TAR.9D5181AFA813|1111010ISTA0XI-1675]]
 Nr. XII-1694, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07670
@@ -610,7 +610,7 @@ Nr. XIV-766, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26895
 
 
 
-4. Finansų įstaigos savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo Įstatymu, Lietuvos Respublikos įstatymais, reglamentuojančiais finansinių paslaugų teikimą ir finansų įstaigų veiklą, taip pat atitinkamos teisinės formos, kurios pagrindu finansų įstaiga yra įsteigta ir veikia, juridinį asmenį, ir kitais teisės aktais. ^s-c5235f2f5008f0f360b094e7
+4. Finansų įstaigos savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo Įstatymu, Lietuvos Respublikos įstatymais, reglamentuojančiais finansinių paslaugų teikimą ir finansų įstaigų veiklą, taip pat atitinkamos teisinės formos, kurios pagrindu finansų įstaiga yra įsteigta ir veikia, juridinį asmenį, ir kitais teisės aktais. ^s-c5235f2f5008f0f360b094e7
 
 
 5. Jeigu Lietuvos Respublikos įstatymai ar Europos Sąjungos teisės aktai, reglamentuojantys finansinių paslaugų teikimą ir finansų įstaigų veiklą, nustato kitokias normas negu šis Įstatymas, taikomos Lietuvos Respublikos įstatymų arba Europos Sąjungos teisės aktų, reglamentuojančių finansinių paslaugų teikimą ir finansų įstaigų veiklą, normos. ^s-0176897efd0d72c290093b39
@@ -630,7 +630,7 @@ Nr. XIV-1336, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15401
 
 
 
-7. Finansų įstaigos, teikiančios šio Įstatymo [[#^s-37de7635e8427abfc9be9b8d|3 straipsnio 1 dalies]] 2, 3 ir 21 punktuose nurodytas finansines paslaugas ir atitinkančios priežiūros institucijos nustatyta tvarka apskaičiuotą reikšmingumo kriterijų pagal užimamą rinkos dalį, priežiūros institucijai privalo teikti duomenis apie šio Įstatymo [[#^s-37de7635e8427abfc9be9b8d|3 straipsnio 1 dalies]] 2, 3 ir 21 punktuose nurodytų finansinių paslaugų gavėjus ir turi teisę naudotis šiais duomenimis priežiūros institucijos nustatyta tvarka. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie šio Įstatymo [[#^s-37de7635e8427abfc9be9b8d|3 straipsnio 1 dalies]] 2, 3 ir 21 punktuose nurodytų finansinių paslaugų gavėjus. ^s-9e7e82909fe4f6236b940e06
+7. Finansų įstaigos, teikiančios šio Įstatymo [[#^s-37de7635e8427abfc9be9b8d|3 straipsnio 1 dalies]] [[#^s-485cbe0394662b0a459ad409|2]], [[#^s-abde058a6c92ba1b240c4c9c|3]] ir [[#^s-0569a45f200c3da66e2cbfff|21]] punktuose nurodytas finansines paslaugas ir atitinkančios priežiūros institucijos nustatyta tvarka apskaičiuotą reikšmingumo kriterijų pagal užimamą rinkos dalį, priežiūros institucijai privalo teikti duomenis apie šio Įstatymo [[#^s-37de7635e8427abfc9be9b8d|3 straipsnio 1 dalies]] [[#^s-485cbe0394662b0a459ad409|2]], [[#^s-abde058a6c92ba1b240c4c9c|3]] ir [[#^s-0569a45f200c3da66e2cbfff|21]] punktuose nurodytų finansinių paslaugų gavėjus ir turi teisę naudotis šiais duomenimis priežiūros institucijos nustatyta tvarka. Priežiūros institucija savo nustatyta tvarka ir vadovaudamasi asmens duomenų apsaugą reglamentuojančiais teisės aktais turi teisę kaupti ir kitaip tvarkyti duomenis apie šio Įstatymo [[#^s-37de7635e8427abfc9be9b8d|3 straipsnio 1 dalies]] [[#^s-485cbe0394662b0a459ad409|2]], [[#^s-abde058a6c92ba1b240c4c9c|3]] ir [[#^s-0569a45f200c3da66e2cbfff|21]] punktuose nurodytų finansinių paslaugų gavėjus. ^s-9e7e82909fe4f6236b940e06
 Papildyta straipsnio dalimi:
 Nr. XIV-766, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26895
 Straipsnio dalies pakeitimai:
@@ -935,7 +935,7 @@ Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 1) finansų įstaigos dalyvio: fizinio asmens – pavardė, vardas, gyvenamosios vietos adresas, pilietybė, asmens kodas ir (arba) asmens tapatybę patvirtinančio dokumento pavadinimas ir numeris; juridinio asmens – pavadinimas, įmonės registracijos kodas, buveinės vieta, administracijos vadovo pavardė, vardas; ^s-a34428428aabe2a3bb8bc90d
 
 
-2 ) jeigu finansų įstaigos įstatinio kapitalo ir (arba) balsavimo teisių dalį valdo ne vienas asmuo – duomenys, nurodyti [[#^s-a34428428aabe2a3bb8bc90d|šio straipsnio 1 dalies 1 punkte]], apie kiekvieną iš dalyvių ir jiems atstovaujantį asmenį;
+2 ) jeigu finansų įstaigos įstatinio kapitalo ir (arba) balsavimo teisių dalį valdo ne vienas asmuo – duomenys, nurodyti šio straipsnio 1 dalies 1 punkte, apie kiekvieną iš dalyvių ir jiems atstovaujantį asmenį;
 
 
 3) dalyvio valdomų finansų įstaigos įstatinio kapitalo ir (arba) balsavimo teisių dalių – akcijų arba pajų – skaičius, akcijų nominali vertė arba pajų dydis, kiti galimi identifikavimo duomenys (akcijų rūšis, klasė, emisijos numeris, jos registracijos numeris) bei suteikiamos turtinės ir neturtinės teisės; ^s-db0d28221cd7d65826db9464
@@ -2001,10 +2001,10 @@ Nr. IX-1125, 2002-10-08, Žin., 2002, Nr. 101-4496 (2002-10-23), i. k. [[latest/
 2. Šio Įstatymo nuostatos nuo jo įsigaliojimo dienos taikomos ir jau veikiančioms finansų įmonėms bei kredito įstaigoms. ^s-9877543db0ca32e5d19e77a6
 
 
-3. Įmonė, teikianti tik šio Įstatymo [[#^s-37de7635e8427abfc9be9b8d|3 straipsnio 1 dalies]] 16 ir 17 punktuose nurodytas finansines paslaugas, nelaikoma finansų įstaiga iki Lietuvos Respublikos įstojimo į Europos Sąjungą. ^s-ea327c86d80c5c9ea7892578
+3. Įmonė, teikianti tik šio Įstatymo [[#^s-37de7635e8427abfc9be9b8d|3 straipsnio 1 dalies]] [[#^s-4cbe3017b0ef62b5bda0e6ab|16]] ir [[#^s-3b7a9b58def29853f3936db3|17]] punktuose nurodytas finansines paslaugas, nelaikoma finansų įstaiga iki Lietuvos Respublikos įstojimo į Europos Sąjungą. ^s-ea327c86d80c5c9ea7892578
 
 
-4. Šio Įstatymo 12 ir [[#^s-fe5e960887abd7b707ca3b52|39 straipsniai]] įsigalioja Lietuvos Respublikai tapus Europos Sąjungos nare. ^s-68ab3f9fe8fca22d30e7fdd4
+4. Šio Įstatymo [[#^s-f162438eb267b9c09b2501f8|12]] ir [[#^s-fe5e960887abd7b707ca3b52|39]] straipsniai įsigalioja Lietuvos Respublikai tapus Europos Sąjungos nare. ^s-68ab3f9fe8fca22d30e7fdd4
 
 
 
@@ -2038,10 +2038,10 @@ priedas
 
 
 
-1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB, su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366. ^s-69851f0e57452873cdb6ca8c
+1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB, su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj). ^s-69851f0e57452873cdb6ca8c
 
 
-2. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2024 m. gegužės 31 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1619. ^s-48d37475d4ca3a61a866d24d
+2. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2024 m. gegužės 31 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1619](https://eur-lex.europa.eu/eli/dir/2024/1619/oj). ^s-48d37475d4ca3a61a866d24d
 Punkto pakeitimai:
 Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
 Nr. XIV-2882, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13488
@@ -2049,7 +2049,7 @@ Nr. XV-940, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08787
 
 
 
-3. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB. ^s-e4a1a66d56c5e821471ea5d2
+3. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir panaikinama Direktyva 2007/64/EB. ^s-e4a1a66d56c5e821471ea5d2
 
 
 Priedo pakeitimai:
@@ -2155,7 +2155,7 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-f162438eb267
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1478, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21167
-Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 38 ir 38-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-a3e495135b440208787cf6f5|2]], [[#^s-5907cebee8fc27f53be5bb22|38]] ir 38-1 straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2165,7 +2165,7 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-a3e495135b44
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1694, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07670
-Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 4 ir 38-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-2d55185206cadae160b54fa0|4]] ir 38-1 straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2175,12 +2175,12 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-b351f1d96825
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2691, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26829
-Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2 ir [[#^s-7accbfcfc2d14b17d94dc552|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-a3e495135b440208787cf6f5|2]] ir [[#^s-7accbfcfc2d14b17d94dc552|3]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-99, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29411
-Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 4, 45, [[#^s-d0be0d03ca309c5893afee02|46 straipsnių]] pakeitimo ir [[#^s-d876193ad869b08849ab4361|47 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-2d55185206cadae160b54fa0|4]], [[#^s-5ca23c061746b9abaaf95777|45]], [[#^s-d0be0d03ca309c5893afee02|46]] straipsnių pakeitimo ir [[#^s-d876193ad869b08849ab4361|47 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2190,12 +2190,12 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-7accbfcfc2d1
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1097, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06736
-Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 18, [[#^s-25b0ae018d470770ea8c6aa4|44 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-a3e495135b440208787cf6f5|2]], [[#^s-01f90cd8e428602abf35f379|18]], [[#^s-25b0ae018d470770ea8c6aa4|44]] straipsnių ir priedo pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-828, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27720
-Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 3, 4, 7, 9, 10, 14, 16, 19, 20, [[#^s-0de7b1882e81bdb5dcdfd39d|26 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-a3e495135b440208787cf6f5|2]], [[#^s-7accbfcfc2d14b17d94dc552|3]], [[#^s-2d55185206cadae160b54fa0|4]], [[#^s-c6f8bd5a7e01e662cfcf6308|7]], [[#^s-303c6cb94e9cfa586866596f|9]], [[#^s-0d2576fcc612336a7fb4f0df|10]], [[#^s-040406315b20734cb78287d9|14]], [[#^s-7d8bf6efa910384a896b855a|16]], [[#^s-3e4a70cf82443c59f91be27d|19]], [[#^s-e47426e5a21dbec00b6fa961|20]], [[#^s-0de7b1882e81bdb5dcdfd39d|26]] straipsnių ir priedo pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2205,7 +2205,7 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-5557db87d6e6
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-766, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26895
-Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 4, [[#^s-25b0ae018d470770ea8c6aa4|44 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-a3e495135b440208787cf6f5|2]], [[#^s-2d55185206cadae160b54fa0|4]], [[#^s-25b0ae018d470770ea8c6aa4|44]] straipsnių ir priedo pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2215,7 +2215,7 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-2d55185206ca
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1492, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22680
-Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 2, 3, 4, 7, 9, 10, 14, 16, 19, 20, [[#^s-0de7b1882e81bdb5dcdfd39d|26 straipsnių]] ir priedo pakeitimo [[latest/ea595760697011eca9ac839120d251c4|įstatymo Nr. XIV-828]] [[#^s-72a7139b043f4b0c2fb5968e|13 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-a3e495135b440208787cf6f5|2]], [[#^s-7accbfcfc2d14b17d94dc552|3]], [[#^s-2d55185206cadae160b54fa0|4]], [[#^s-c6f8bd5a7e01e662cfcf6308|7]], [[#^s-303c6cb94e9cfa586866596f|9]], [[#^s-0d2576fcc612336a7fb4f0df|10]], [[#^s-040406315b20734cb78287d9|14]], [[#^s-7d8bf6efa910384a896b855a|16]], [[#^s-3e4a70cf82443c59f91be27d|19]], [[#^s-e47426e5a21dbec00b6fa961|20]], [[#^s-0de7b1882e81bdb5dcdfd39d|26]] straipsnių ir priedo pakeitimo [[latest/ea595760697011eca9ac839120d251c4|įstatymo Nr. XIV-828]] [[#^s-72a7139b043f4b0c2fb5968e|13 straipsnio]] pakeitimo įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2230,7 +2230,7 @@ Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-7accbfcfc2d1
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-940, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08787
-Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 10, 20, 43, [[#^s-b351f1d96825faf57d9513f3|57 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos finansų įstaigų įstatymo Nr. IX-1068 [[#^s-0d2576fcc612336a7fb4f0df|10]], [[#^s-e47426e5a21dbec00b6fa961|20]], [[#^s-d5a051e07750ca98c00af201|43]], [[#^s-b351f1d96825faf57d9513f3|57]] straipsnių ir priedo pakeitimo įstatymas
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas

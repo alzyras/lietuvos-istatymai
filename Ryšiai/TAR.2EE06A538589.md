@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos akcinių bendrovių \"Būtingės nafta\", \"M
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - 2 citatos - Konkurencijos įstatymo
+- [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - Konkurencijos įstatymo
 
 ## Šį įstatymą cituoja
 

@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimas ^s-1a92b6ee8116b63f077b8d07
 
 
-Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.CB941ADCC055|1 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Šis Įstatymas nustato aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdančią instituciją ir aplinkos apsaugos valstybinės kontrolės pareigūnus, jų teisinį statusą, veiklos teisinius pagrindus bei pagrindinius principus, veiklos organizavimą, reglamentuoja aplinkos apsaugos valstybinės kontrolės procesą.“
@@ -47,13 +47,13 @@ Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 2 straipsnis. 2 straipsnio pakeitimas ^s-6dda7499da26d7d4f6be9154
 
 
-1. Pakeisti [[#^s-c5368414b4a04b60ee81b007|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-c5368414b4a04b60ee81b007
+1. Pakeisti [[latest/TAR.CB941ADCC055#^s-3a3a371a8dab3539a07b05c0|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-c5368414b4a04b60ee81b007
 
 
 „1. Aplinkos apsaugos valstybinė kontrolė – aplinkos apsaugos valstybinę kontrolę Lietuvos Respublikoje vykdančios institucijos ir aplinkos apsaugos valstybinės kontrolės pareigūnų veikla ūkio subjektų, kitų fizinių ir juridinių asmenų atžvilgiu, kuria siekiama užtikrinti teisėtumą ir teisėtvarką aplinkos apsaugos ir gamtos išteklių naudojimo srityje, pasireiškianti aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ir kitų teisės aktų pažeidimų prevencija, pažeidimų nutraukimu ir asmenų, padariusių šiuos pažeidimus, nustatymu, jų patraukimu teisinėn atsakomybėn.“
 
 
-2. Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip: ^s-dcff484fd8139b0c3cfa3f6f
+2. Pakeisti [[latest/TAR.CB941ADCC055|2 straipsnio 10 dalį]] ir ją išdėstyti taip: ^s-dcff484fd8139b0c3cfa3f6f
 
 
 „10. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos arba vartojamos [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatyme]], [[latest/TAR.56935A08DD06|Lietuvos Respublikos jūros aplinkos apsaugos įstatyme]], [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatyme]], [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatyme]], [[latest/TAR.2A629A227788|Lietuvos Respublikos cheminių medžiagų ir preparatų įstatyme]], [[latest/TAR.CA89372D00AA|Lietuvos Respublikos policijos įstatyme]], [[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme]] ir [[latest/TAR.A92E17FDCD13|Lietuvos Respublikos medžioklės įstatyme]].“
@@ -68,25 +68,25 @@ Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 „Siekdami užtikrinti teisėtumą ir teisėtvarką aplinkos apsaugos ir gamtos išteklių naudojimo srityje, aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai:“.
 
 
-2. Pakeisti 3 straipsnio 3 punktą ir jį išdėstyti taip: ^s-4680b91259f8ac1c65b7606f
+2. Pakeisti [[latest/TAR.CB941ADCC055#^s-5148413906b99a12b54da08c|3 straipsnio 3 punktą]] ir jį išdėstyti taip: ^s-4680b91259f8ac1c65b7606f
 
 
 „3) kontroliuoja, ar fiziniai ir juridiniai asmenys, turintys pareigą įveisti ar atkurti gamtos išteklius, laiku ir tinkamai šią pareigą vykdo;“.
 
 
-3. Pakeisti 3 straipsnio 13 punktą ir jį išdėstyti taip: ^s-b9dbdf13971d6ecb52735e35
+3. Pakeisti [[latest/TAR.CB941ADCC055|3 straipsnio 13 punktą]] ir jį išdėstyti taip: ^s-b9dbdf13971d6ecb52735e35
 
 
 „13) kontroliuoja, ar teisėtai ir laikantis nustatytų reikalavimų naudojamas Bendrijos aplinkosaugos vadybos ir audito sistemos  logotipas ir Europos Sąjungos ekologinis ženklas;“.
 
 
-4. Papildyti 3 straipsnį 18 punktu: ^s-58ad4fc71cff0a405f1d2ea2
+4. Papildyti [[latest/TAR.CB941ADCC055|3 straipsnį 18 punktu]]: ^s-58ad4fc71cff0a405f1d2ea2
 
 
 „18) atlieka valstybinę saugomų teritorijų kontrolę aplinkos apsaugos ir gamtos išteklių naudojimo srityje;“.
 
 
-5. Papildyti 3 straipsnį 19 punktu: ^s-8ab1608e29190c8cd625452f
+5. Papildyti [[latest/TAR.CB941ADCC055|3 straipsnį 19 punktu]]: ^s-8ab1608e29190c8cd625452f
 
 
 „19) kai yra pagrindas manyti, kad viešasis interesas pažeistas aplinkos apsaugos ir gamtos išteklių naudojimo srityje, kreipiasi į teismą dėl viešojo intereso gynimo, išskyrus atvejus, kai viešasis interesas pažeistas dėl Aplinkos apsaugos departamento prie Aplinkos ministerijos veiksmų ar neveikimo. Tais atvejais, kai viešasis interesas pažeistas dėl Aplinkos apsaugos departamento prie Aplinkos ministerijos veiksmų ar neveikimo, Aplinkos apsaugos departamentas prie Aplinkos ministerijos dėl viešojo intereso gynimo kreipiasi į prokuratūrą.“
@@ -95,37 +95,37 @@ Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 4 straipsnis. 4 straipsnio pakeitimas ^s-c6aecbbc18206837a99c8d41
 
 
-1. Pakeisti 4 straipsnio 2 punktą ir jį išdėstyti taip: ^s-6f7dff8a30218875d68886c9
+1. Pakeisti [[latest/TAR.CB941ADCC055#^s-231f59d10eb3391c78d2b359|4 straipsnio 2 punktą]] ir jį išdėstyti taip: ^s-6f7dff8a30218875d68886c9
 
 
 „2) minimalios ir proporcingos kontrolės naštos principas – aplinkos apsaugos valstybinę kontrolę vykdančios institucijos ir aplinkos apsaugos valstybinės kontrolės pareigūnų veiksmai privalo būti proporcingi ir tinkami siekiamam tikslui įgyvendinti, proporcingi ūkio subjektų dydžiui ir administraciniams gebėjimams, atliekami siekiant kuo mažiau trikdyti ūkio subjektų, kitų fizinių ir juridinių asmenų veiklą;“.
 
 
-2. Pakeisti 4 straipsnio 4 punktą ir jį išdėstyti taip: ^s-3b4a74237ccb8a359c1d28af
+2. Pakeisti [[latest/TAR.CB941ADCC055#^s-e55aed7a1543ee2b3b5d9a34|4 straipsnio 4 punktą]] ir jį išdėstyti taip: ^s-3b4a74237ccb8a359c1d28af
 
 
 „4) atsakomybės neišvengiamumo principas – aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai turi siekti, kad kiekvienas asmuo, padaręs aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, būtų nustatytas, patrauktas teisinėn atsakomybėn, nubaustas, visiškai atlygintų aplinkai padarytą žalą bei pašalintų pažeidimo sukeltas neigiamas pasekmes;“.
 
 
-3. Pakeisti 4 straipsnio 5 punktą ir jį išdėstyti taip: ^s-f9ba489a4684372a5d643d63
+3. Pakeisti [[latest/TAR.CB941ADCC055#^s-763e7c20741e040e7bd52183|4 straipsnio 5 punktą]] ir jį išdėstyti taip: ^s-f9ba489a4684372a5d643d63
 
 
 „5) objektyvumo principas – sprendimų priėmimas ir kiti aplinkos apsaugos valstybinę kontrolę vykdančios institucijos ir aplinkos apsaugos valstybinės kontrolės pareigūnų veiksmai turi būti nešališki ir objektyvūs;“.
 
 
-4. Pakeisti 4 straipsnio 6 punktą ir jį išdėstyti taip: ^s-00aa2e9865bd4d814dbf6436
+4. Pakeisti [[latest/TAR.CB941ADCC055#^s-4f32a944208b3456e7262994|4 straipsnio 6 punktą]] ir jį išdėstyti taip: ^s-00aa2e9865bd4d814dbf6436
 
 
 „6) nepiktnaudžiavimo valdžia principas – aplinkos apsaugos valstybinę kontrolę vykdančiai institucijai ir aplinkos apsaugos valstybinės kontrolės pareigūnams draudžiama vykdyti veiklą neturint tam suteiktų galių arba priimti sprendimus pagal savo kompetenciją siekiant kitų, negu įstatymų nustatyta, tikslų;“.
 
 
-5. Pakeisti 4 straipsnio 8 punktą ir jį išdėstyti taip: ^s-5227ff7274d1e4047216cd27
+5. Pakeisti [[latest/TAR.CB941ADCC055|4 straipsnio 8 punktą]] ir jį išdėstyti taip: ^s-5227ff7274d1e4047216cd27
 
 
 „8) nediskriminavimo principas – aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai negali atlikti ūkio subjektų, kitų fizinių ir juridinių asmenų veiklos kontrolės, kuria būtų diskriminuojami ūkio subjektai, kiti fiziniai ir juridiniai asmenys dėl jų nuosavybės formos, pilietybės, gyvenamosios vietos ar valstybės, kurioje asmuo yra įsisteigęs, ar pagal kitus objektyvius šių asmenų požymius, jeigu kitos sąlygos, turinčios reikšmės asmens veiklos rizikingumo laipsniui, iš esmės nesiskiria;“.
 
 
-6. Pakeisti 4 straipsnio 10 punktą ir jį išdėstyti taip: ^s-152e30eee0b0f5f4d2819cd2
+6. Pakeisti [[latest/TAR.CB941ADCC055|4 straipsnio 10 punktą]] ir jį išdėstyti taip: ^s-152e30eee0b0f5f4d2819cd2
 
 
 „10) metodinės pagalbos teikimo principas – aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai bendradarbiauja su ūkio subjektais, konsultuoja ūkio subjektus savo kompetencijos klausimais, įgyvendina kitas prevencinio pobūdžio priemones, padedančias ūkio subjektams laikytis teisės aktų reikalavimų, o poveikio priemones taiko kaip ultima ratio priemonę. Šis principas netaikomas ūkio subjektų veiklos patikrinimų metu, jeigu šio principo taikymas trukdo siekti ūkio subjektų veiklos aplinkos apsaugos valstybinės kontrolės tikslų, susijusių su teisės aktų reikalavimų laikymosi priežiūra.“
@@ -188,7 +188,7 @@ Pakeisti [[#^s-49f8f35f44a9df67c54d39cb|9 straipsnį]] ir jį išdėstyti taip:
 ### 8 straipsnis. 11 straipsnio pakeitimas ^s-5a2c9438bb6eadb7c01ce0ed
 
 
-Pakeisti 11 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.CB941ADCC055#^s-189ab7a0f9c68d9da5f1bc72|11 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Vyriausiojo valstybinio aplinkos apsaugos inspektoriaus, vyresniojo valstybinio aplinkos apsaugos inspektoriaus, valstybinio aplinkos apsaugos inspektoriaus galios suteikiamos aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančios institucijos ir aplinkos apsaugos valstybinę kontrolę vykdančios institucijos valstybės tarnautojams priimant juos į šias pareigas arba aplinkos ministro įsakymu.“
@@ -197,31 +197,31 @@ Pakeisti 11 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 9 straipsnis. 12 straipsnio pakeitimas ^s-49f8f35f44a9df67c54d39cb
 
 
-1. Pakeisti 12 straipsnio 1 dalies 20 punktą ir jį išdėstyti taip: ^s-127a0eb84fbd7249b92ce37d
+1. Pakeisti [[latest/TAR.CB941ADCC055|12 straipsnio 1 dalies 20 punktą]] ir jį išdėstyti taip: ^s-127a0eb84fbd7249b92ce37d
 
 
 „20) įtardami, kad medžioklėje dalyvaujantis medžiotojas yra neblaivus ar (ir) apsvaigęs nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų, Vyriausybės nustatyta tvarka tikrinti, ar jis yra neblaivus ar apsvaigęs, taip pat esant įtarimų dėl neblaivumo ar apsvaigimo, kai medžioklėje dalyvaujantis medžiotojas nesutinka tikrintis dėl neblaivumo ar apsvaigimo, ar užfiksavus, kad medžioklėje dalyvaujantis medžiotojas yra neblaivus ar apsvaigęs, neleisti šiam medžiotojui dalyvauti medžioklėje.“
 
 
-2. Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip: ^s-598865458f3d0505cf8524ec
+2. Pakeisti [[latest/TAR.CB941ADCC055#^s-770d05f90578b7565502ff6c|12 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-598865458f3d0505cf8524ec
 
 
 „2. Vyresnieji aplinkos apsaugos inspektoriai neturi šio straipsnio 1 dalies 18 punkte nustatytų aplinkos apsaugos valstybinės kontrolės pareigūnų teisių ir pareigų.“
 
 
-3. Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip: ^s-1daed1f60ccbcb4a501b8836
+3. Pakeisti [[latest/TAR.CB941ADCC055#^s-665608f99ee9b4802647b0be|12 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-1daed1f60ccbcb4a501b8836
 
 
-„3. Valstybiniai aplinkos apsaugos inspektoriai neturi šio straipsnio 1 dalies 18 punkte nustatytų aplinkos apsaugos valstybinės kontrolės pareigūnų teisių ir pareigų vykdyti aplinkos apsaugos valstybinę kontrolę tarptautiniuose vandenyse.
+„3. Valstybiniai aplinkos apsaugos inspektoriai neturi [[latest/TAR.CB941ADCC055|šio straipsnio 1 dalies 18 punkte]] nustatytų aplinkos apsaugos valstybinės kontrolės pareigūnų teisių ir pareigų vykdyti aplinkos apsaugos valstybinę kontrolę tarptautiniuose vandenyse.
 
 
-4. Pakeisti 12 straipsnio 5 dalį ir ją išdėstyti taip: ^s-bdb8516ce2622ab86729c119
+4. Pakeisti [[latest/TAR.CB941ADCC055#^s-ec1c9fc07a365c57fc468574|12 straipsnio 5 dalį]] ir ją išdėstyti taip: ^s-bdb8516ce2622ab86729c119
 
 
 „5. Aplinkos apsaugos valstybinę kontrolę vykdančios institucijos aplinkos apsaugos valstybinės kontrolės pareigūnams jų galias patvirtinančius pažymėjimus išduoda Aplinkos apsaugos departamento prie Aplinkos ministerijos vadovas, o aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančios institucijos aplinkos apsaugos valstybinės kontrolės pareigūnams – aplinkos ministras.“
 
 
-5. Pakeisti 12 straipsnio 7 dalį ir ją išdėstyti taip: ^s-f6cf95e3b2790aa322f88fa4
+5. Pakeisti [[latest/TAR.CB941ADCC055|12 straipsnio 7 dalį]] ir ją išdėstyti taip: ^s-f6cf95e3b2790aa322f88fa4
 
 
 „7. Aplinkos apsaugos valstybinę kontrolę vykdanti institucija, gavusi aplinkos apsaugos valstybinės kontrolės pareigūno sutikimą, turi teisę nustatyti laiką, kada aplinkos apsaugos valstybinės kontrolės pareigūnas turi būti pasirengęs vykdyti aplinkos apsaugos valstybinę kontrolę ne darbo metu.“
@@ -239,10 +239,10 @@ Pakeisti [[#^s-112a3bddf5ffad61276d821a|14 straipsnio 1 dalį]] ir ją išdėsty
 ### 11 straipsnis. 398 straipsnio pakeitimas ^s-9f63517f90555da6f3787fae
 
 
-Pakeisti 398 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.CB941ADCC055|398 straipsnį]] ir jį išdėstyti taip:
 
 
-„398 straipsnis. Tarptautinis bendradarbiavimas
+„[[latest/TAR.CB941ADCC055|398 straipsnis]]. Tarptautinis bendradarbiavimas
 
 
 Aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugos valstybinės kontrolės pareigūnai privalo užsienio valstybių kompetentingoms institucijoms teikti turimą informaciją, susijusią su jūros aplinkos teršimu arba kitu jūros aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimu, taip pat atlikti kitus veiksmus, kurie padeda ar gali padėti nustatyti jūros aplinką teršiančius arba kitaip jūros aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančius įstatymus ar kitus teisės aktus pažeidžiančius laivus ir (ar) su tokia veika susijusias aplinkybes.“
@@ -251,10 +251,10 @@ Aplinkos apsaugos valstybinę kontrolę vykdanti institucija ir aplinkos apsaugo
 ### 12 straipsnis. 46 straipsnio pakeitimas ^s-0ca2e6c1f0c7e75a05dfb841
 
 
-Pakeisti 46 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.CB941ADCC055#^s-2b4f452c288777700964ba9c|46 straipsnį]] ir jį išdėstyti taip:
 
 
-„46 straipsnis. Neetatinių aplinkos apsaugos inspektorių uždaviniai
+„[[latest/TAR.CB941ADCC055#^s-2b4f452c288777700964ba9c|46 straipsnis]]. Neetatinių aplinkos apsaugos inspektorių uždaviniai
 
 
 Pagrindinis neetatinių aplinkos apsaugos inspektorių uždavinys – teikti visokeriopą pagalbą aplinkos apsaugos valstybinę kontrolę vykdančiai institucijai ir aplinkos apsaugos valstybinės kontrolės pareigūnams.“
@@ -263,13 +263,13 @@ Pagrindinis neetatinių aplinkos apsaugos inspektorių uždavinys – teikti vis
 ### 13 straipsnis. 48 straipsnio pakeitimas ^s-c1e62025c401ea14203ccf57
 
 
-1. Pakeisti 48 straipsnio 3 dalį ir ją išdėstyti taip: ^s-24522923224fa43527a5894a
+1. Pakeisti [[latest/TAR.CB941ADCC055#^s-69b2e4be60d04ff053375065|48 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-24522923224fa43527a5894a
 
 
 „3. Pažymėjimus neetatiniams aplinkos apsaugos inspektoriams išduoda Aplinkos apsaugos departamentas prie Aplinkos ministerijos.“
 
 
-2. Pakeisti 48 straipsnio 4 dalį ir ją išdėstyti taip: ^s-839fc4e349b4a5039c16f2c1
+2. Pakeisti [[latest/TAR.CB941ADCC055#^s-299970efb9cbf47cf64a00d4|48 straipsnio 4 dalį]] ir ją išdėstyti taip: ^s-839fc4e349b4a5039c16f2c1
 
 
 „4. Aplinkos apsaugos valstybinę kontrolę vykdančios institucijos vadovas suteikia galias neetatiniams aplinkos apsaugos inspektoriams veikti visoje Lietuvos Respublikos teritorijoje ar jos dalyje.“
@@ -278,13 +278,13 @@ Pagrindinis neetatinių aplinkos apsaugos inspektorių uždavinys – teikti vis
 ### 14 straipsnis. 49 straipsnio pakeitimas ^s-fed00440f323828a7f1cdbb7
 
 
-1. Pakeisti 49 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip: ^s-112a3bddf5ffad61276d821a
+1. Pakeisti [[latest/TAR.CB941ADCC055#^s-e7860377c59fe01c004af8ac|49 straipsnio 1 dalies 1 punktą]] ir jį išdėstyti taip: ^s-112a3bddf5ffad61276d821a
 
 
 „1) užfiksavę aplinkos apsaugą ir gamtos išteklių naudojimą reglamentuojančių įstatymų ar kitų teisės aktų pažeidimą, pagal savo kompetenciją imtis priemonių užkirsti jam kelią, išsiaiškinti priežastis bei pažeidimą padariusius asmenis. Kai neetatiniai aplinkos apsaugos inspektoriai pagal savo kompetenciją negali imtis priemonių dėl aplinkos apsaugos įstatymų pažeidimų, jie privalo apie tokius pažeidimus pranešti aplinkos apsaugos valstybinę kontrolę vykdančiai institucijai ar aplinkos apsaugos valstybinės kontrolės pareigūnams;“.
 
 
-2. Pakeisti 49 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip: ^s-ff2aeafea5902d321499bc59
+2. Pakeisti [[latest/TAR.CB941ADCC055#^s-56ce61d816922c9b00299609|49 straipsnio 1 dalies 2 punktą]] ir jį išdėstyti taip: ^s-ff2aeafea5902d321499bc59
 
 
 „2) pranešti aplinkos apsaugos valstybinę kontrolę vykdančiai institucijai ar aplinkos apsaugos valstybinės kontrolės pareigūnams apie pastebėtus avarinius ir kitus aplinkos užteršimo, gyvūnų žuvimo, augalijos naikinimo bei ekologinių pokyčių atvejus ir dalyvauti organizuojant pasekmių likvidavimą;“.
@@ -293,7 +293,7 @@ Pagrindinis neetatinių aplinkos apsaugos inspektorių uždavinys – teikti vis
 ### 15 straipsnis. 50 straipsnio pakeitimas ^s-4d1a968341e2a505614faa87
 
 
-Pakeisti 50 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.CB941ADCC055|50 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Neetatiniai aplinkos apsaugos inspektoriai kartu su aplinkos apsaugos valstybinės kontrolės pareigūnais turi teisę:
@@ -311,7 +311,7 @@ Pakeisti 50 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 16 straipsnis. 53 straipsnio pakeitimas ^s-de88cd6c7a8b7152c4a9ebe5
 
 
-Pakeisti 53 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.CB941ADCC055#^s-ae0001feb2bf8130accd1bf8|53 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Neetatiniams aplinkos apsaugos inspektoriams, nedalyvaujantiems arba neaktyviai dalyvaujantiems aplinkos apsaugos valstybinės kontrolės veikloje, suteiktos galios gali būti nepratęsiamos.“
@@ -320,7 +320,7 @@ Pakeisti 53 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 17 straipsnis. 54 straipsnio pakeitimas ^s-dd6a2442be7957cffa2aa481
 
 
-Pakeisti 54 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.CB941ADCC055#^s-640097a04619402417bcc600|54 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Fiziniai ir juridiniai asmenys įstatymų nustatyta tvarka turi teisę apskųsti aplinkos apsaugos valstybinę kontrolę vykdančios institucijos ir aplinkos apsaugos valstybinės kontrolės pareigūnų veiksmus (neveikimą).“

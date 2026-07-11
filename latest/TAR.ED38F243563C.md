@@ -261,10 +261,10 @@ Nukentėjusiųjų asmenų valstybinė pensija skiriama asmenų, žuvusių dėl 1
 ### 13 straipsnis. Nukentėjusiųjų asmenų, tapusių invalidais, valstybinės pensijos ^s-17739bc613d75963b434860d
 
 
-Šio įstatymo [[#^s-6c848c5fc946744d1b95b113|11 straipsnio]] pirmosios dalies 2–6 punktuose išvardintiems asmenims, tapusiems I ar II grupių invalidais arba sukakusiems senatvės pensijos amžių, skiriama ir mokama nukentėjusiųjų asmenų valstybinė pensija valstybinės socialinio draudimo bazinės pensijos dydžio, išskyrus šio straipsnio antrojoje dalyje numatytus atvejus.
+Šio įstatymo [[#^s-6c848c5fc946744d1b95b113|11 straipsnio]] pirmosios dalies 2–[[#^s-043775dfb2bc572c37188bdc|6]] punktuose išvardintiems asmenims, tapusiems I ar II grupių invalidais arba sukakusiems senatvės pensijos amžių, skiriama ir mokama nukentėjusiųjų asmenų valstybinė pensija valstybinės socialinio draudimo bazinės pensijos dydžio, išskyrus šio straipsnio antrojoje dalyje numatytus atvejus.
 
 
-Šio įstatymo [[#^s-6c848c5fc946744d1b95b113|11 straipsnio]] pirmosios dalies 2–7 punktuose išvardintiems asmenims, kurie tapo invalidais neteisėto kalinimo ir tremties, rezistencijos ir pasipriešinimo sovietinei okupacijai veiksmų metu, būdami išvežti priverstiniams darbams, būdami getuose ir koncentracijos stovyklose, taip pat dalyvaudami karo veiksmuose bei atlikdami būtinąją karinę tarnybą sovietinėje armijoje ar dėl Černobylio atominės elektrinės avarijos padarinių likvidavimo darbų poveikio, nukentėjusiųjų asmenų valstybinė pensija mokama:
+Šio įstatymo [[#^s-6c848c5fc946744d1b95b113|11 straipsnio]] pirmosios dalies 2–[[#^s-29f8cb2c54278b454ea8eb51|7]] punktuose išvardintiems asmenims, kurie tapo invalidais neteisėto kalinimo ir tremties, rezistencijos ir pasipriešinimo sovietinei okupacijai veiksmų metu, būdami išvežti priverstiniams darbams, būdami getuose ir koncentracijos stovyklose, taip pat dalyvaudami karo veiksmuose bei atlikdami būtinąją karinę tarnybą sovietinėje armijoje ar dėl Černobylio atominės elektrinės avarijos padarinių likvidavimo darbų poveikio, nukentėjusiųjų asmenų valstybinė pensija mokama:
 
 
 1) I ar II grupių invalidams – 1,5 valstybinės socialinio draudimo bazinės pensijos dydžio. Be to, I grupės invalidams dar mokamas 0,5 valstybinės socialinio draudimo bazinės pensijos dydžio priedas slaugai, jei šis priedas nemokamas iš valstybinio socialinio draudimo fondo; ^s-8849fd24b800af31cf6eadd3
@@ -307,7 +307,7 @@ Nukentėjusiųjų asmenų valstybinė našlių ir našlaičių pensija taip pat 
 4) asmeniui žuvus ar mirus būtinosios karinės tarnybos sovietinėje armijoje (1945 07 22 – 1991 12 31) metu; ^s-2722c81ad1c6a78616cd5e32
 
 
-5) mirus šio įstatymo [[#^s-6c848c5fc946744d1b95b113|11 straipsnio]] pirmosios dalies 2–5 ir 7 punktuose nurodytiems asmenims, tapusiems invalidais. ^s-ee4f9f943dc66f94f4927de0
+5) mirus šio įstatymo [[#^s-6c848c5fc946744d1b95b113|11 straipsnio]] pirmosios dalies 2–[[#^s-4383a3a0f55ccbef5d3d41f7|5]] ir [[#^s-29f8cb2c54278b454ea8eb51|7]] punktuose nurodytiems asmenims, tapusiems invalidais. ^s-ee4f9f943dc66f94f4927de0
 
 
 Šio straipsnio trečiojoje dalyje nurodytų asmenų sutuoktiniams ir vaikams nukentėjusiųjų asmenų valstybinė našlių ir našlaičių pensija mokama tokiomis pačiomis sąlygomis ir gavėjui priklausiusios nukentėjusiųjų asmenų valstybinės pensijos dalimis, kaip nurodyta [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] straipsniuose, reguliuojančiuose valstybines socialinio draudimo našlių ir našlaičių pensijas. Jei žuvusiam (mirusiam) asmeniui nebuvo paskirta nukentėjusiųjų asmenų valstybinė pensija, nustatant našlių ir našlaičių pensijos dydį laikoma, kad žuvusiam (mirusiam) asmeniui priklausė 1,5 valstybinės socialinio draudimo bazinės pensijos.

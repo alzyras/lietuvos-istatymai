@@ -302,7 +302,7 @@ Vidaus administravimo kontrolės formą ir tvarką pasirenka pati administravimo
 2. Įstatymų numatytą viešųjų paslaugų teikimą teritoriniu lygiu reguliuoja pagal kompetenciją savivaldybės arba teritorinės valstybinio administravimo institucijos. ^s-b0e6d1c64be75b9d416630bc
 
 
-3. Teritorinės valstybinio administravimo institucijos negali dubliuoti ar keisti centrinių institucijų viešųjų paslaugų teikimo reglamentavimo, tačiau turi teisę joms teikti siūlymus dėl viešųjų paslaugų teikimo tvarkos tobulinimo, taip pat organizuoti papildomų paslaugų teikimą. ^s-9053e5caa21ac99efb2ca538
+3. Teritorinės valstybinio administravimo institucijos negali dubliuoti ar keisti centrinių institucijų viešųjų paslaugų teikimo reglamentavimo, tačiau turi teisę joms teikti siūlymus [dėl viešųjų paslaugų teikimo](https://e-tar.lt/portal/lt/legalAct/2de2a1503d1a11e6bcc5c96b48152012) tvarkos tobulinimo, taip pat organizuoti papildomų paslaugų teikimą. ^s-9053e5caa21ac99efb2ca538
 
 
 4. Centrinės viešojo administravimo institucijos negali reikalauti iš teritorinių institucijų ir savivaldybių steigti viešąsias paslaugas teikiančių įstaigų, jei to nenumato įstatymai. ^s-abc6c8f39bc6c9496d7aa652

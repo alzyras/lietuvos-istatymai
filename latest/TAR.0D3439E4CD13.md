@@ -158,7 +158,7 @@ Pakeisti 2.167 straipsnį ir jį išdėstyti taip:
 3) prekybos agentas atstovaujamojo sutikimu perduoda savo teises ir pareigas pagal komercinio atstovavimo sutartį kitam asmeniui. ^s-de935e474c9a1036524ed281
 
 
-6. Prekybos agentas turi teisę į nuostolių, kurių jis patiria dėl sutarties su atstovaujamuoju nutraukimo, atlyginimą, ypač jeigu prekybos agentas netenka komisinio atlyginimo, kurį būtų gavęs dėl tinkamo komercinio atstovavimo sutarties įvykdymo, o atstovaujamasis turi esminės naudos iš prekybos agento veiklos, arba (ir) kai yra neapmokėtos prekybos agento išlaidos, kurių jis turėjo vykdydamas atstovaujamojo nurodymus. Atlyginant nuostolius, taikomos šio straipsnio 4 ir [[#^s-1a1244f83f46f9d68fb0f3cc|5 dalys]].“ ^s-bc67b24f0d76ddf2a10f7f65
+6. Prekybos agentas turi teisę į nuostolių, kurių jis patiria dėl sutarties su atstovaujamuoju nutraukimo, atlyginimą, ypač jeigu prekybos agentas netenka komisinio atlyginimo, kurį būtų gavęs dėl tinkamo komercinio atstovavimo sutarties įvykdymo, o atstovaujamasis turi esminės naudos iš prekybos agento veiklos, arba (ir) kai yra neapmokėtos prekybos agento išlaidos, kurių jis turėjo vykdydamas atstovaujamojo nurodymus. Atlyginant nuostolius, taikomos šio straipsnio [[#^s-6b34566a49c9e1d7c23780bd|4]] ir [[#^s-1a1244f83f46f9d68fb0f3cc|5]] dalys.“ ^s-bc67b24f0d76ddf2a10f7f65
 
 
 

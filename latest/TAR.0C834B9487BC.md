@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-e22bcd4d3ad0dd662e943b94
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 14 d. dekretą Nr. 337, ratifikuoja 1997 m. gegužės 26 d. Briuselyje priimtą Konvenciją dėl kovos su korupcija, susijusia su Europos Bendrijų pareigūnais ar Europos Sąjungos valstybių narių pareigūnais, parengtą vadovaujantis Europos Sąjungos sutarties K.3 straipsnio 2 dalies c punktu.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. sausio 14 d. dekretą Nr. 337](https://e-tar.lt/portal/lt/legalAct/TAR.B1AEB9A7FEAC), ratifikuoja 1997 m. gegužės 26 d. Briuselyje priimtą Konvenciją [dėl kovos su korupcija](https://e-tar.lt/portal/lt/legalAct/TAR.3CB207106C6D), susijusia su Europos Bendrijų pareigūnais ar Europos Sąjungos valstybių narių pareigūnais, parengtą vadovaujantis Europos Sąjungos sutarties K.3 straipsnio 2 dalies c punktu.
 
 
 

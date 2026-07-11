@@ -262,10 +262,10 @@ Notaras įstatymų nustatytais atvejais turi pateikti registrams duomenis apie s
 ### 11 straipsnis. Įstatymo įsigaliojimas ^s-34d975e12e8612d39e5966b0
 
 
-1. Šis įstatymas, išskyrus Notariato įstatymo 26 straipsnio 1 dalies 15 ir 16 punktus, įsigalioja nuo Lietuvos Respublikos civilinio kodekso (Žin., 2000, Nr. 74-2262) įsigaliojimo. ^s-6bb8b150ffb5b023dd9eae09
+1. Šis įstatymas, išskyrus [[latest/TAR.BE3136A78E80|Notariato įstatymo 26 straipsnio 1 dalies]] [[latest/TAR.BE3136A78E80|15]] ir [[latest/TAR.BE3136A78E80|16]] punktus, įsigalioja nuo Lietuvos Respublikos civilinio kodekso (Žin., 2000, Nr. 74-2262) įsigaliojimo. ^s-6bb8b150ffb5b023dd9eae09
 
 
-2. Notariato įstatymo 26 straipsnio 1 dalies 15 ir 16 punktai įsigalioja nuo Lietuvos Respublikos civilinio kodekso (Žin., 2000, Nr. 74-2262) 2.64 straipsnio įsigaliojimo. ^s-914e5199387509e6e8199062
+2. [[latest/TAR.BE3136A78E80|Notariato įstatymo 26 straipsnio 1 dalies]] [[latest/TAR.BE3136A78E80|15]] ir [[latest/TAR.BE3136A78E80|16]] punktai įsigalioja nuo Lietuvos Respublikos civilinio kodekso (Žin., 2000, Nr. 74-2262) 2.64 straipsnio įsigaliojimo. ^s-914e5199387509e6e8199062
 
 
 

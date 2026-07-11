@@ -99,7 +99,7 @@ Nuomojant gyvenamąsias patalpas iš savivaldybės butų fondo, jų bendras naud
 ### 4 straipsnis. 9 straipsnio pakeitimas ^s-d80995452458fad073e4819c
 
 
-9 straipsnio 1 dalies 1 ir [[#^s-561750dfeb26ac174e98233d|5 punktuose]] vietoj skaičiaus „10“ įrašyti skaičių „8“, 2 dalyje vietoj žodžių „po šio įstatymo įsigaliojimo“ įrašyti žodžius „neturėję teisės į valstybės paramą“, vietoj žodžio „buto“ – žodį „būsto“, vietoj žodžių „tokią teisę“ – žodžius „teisę būti įrašyti į eilę valstybės paramai gauti“, vietoj žodžių „gyvenamosios patalpos“ – žodį „būsto“ ir šį straipsnį išdėstyti taip:
+9 straipsnio 1 dalies 1 ir 5 punktuose vietoj skaičiaus „10“ įrašyti skaičių „8“, 2 dalyje vietoj žodžių „po šio įstatymo įsigaliojimo“ įrašyti žodžius „neturėję teisės į valstybės paramą“, vietoj žodžio „buto“ – žodį „būsto“, vietoj žodžių „tokią teisę“ – žodžius „teisę būti įrašyti į eilę valstybės paramai gauti“, vietoj žodžių „gyvenamosios patalpos“ – žodį „būsto“ ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-53ba83be3fc54f3a8a169235|9 straipsnis]]. Teisės į valstybės paramą sąlygos
@@ -284,10 +284,10 @@ Dėl valstybės paramos suteikimo šio įstatymo 20 straipsnyje nurodytiems pili
 ### 14 straipsnis. Įstatymo įsigaliojimas ^s-c9a3767cefb1ea41acee169b
 
 
-1. Piliečių eilės valstybės paramai gauti, įsigaliojus šiam įstatymui, pertvarkomos Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo 19 straipsnyje nustatyta tvarka. ^s-43fb3cae752d0c54fbf19d6c
+1. Piliečių eilės valstybės paramai gauti, įsigaliojus šiam įstatymui, pertvarkomos [[latest/TAR.9D04F98F7C14|Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo 19 straipsnyje]] nustatyta tvarka. ^s-43fb3cae752d0c54fbf19d6c
 
 
-2. Iki bus pertvarkytos piliečių eilės valstybės paramai gauti pagal [[#^s-43fb3cae752d0c54fbf19d6c|šio straipsnio 1 dalyje]] nurodytą tvarką, valstybės parama jaunoms šeimoms, nurodytoms Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo 17 straipsnio 4 dalyje, teikiama laikantis eiliškumo pagal tų šeimų balus savivaldybių patvirtintose 1997 metų pirmojoje ir antrojoje eilėse valstybės paramai gauti. Vadovaujantis šiais balais, sudaromas laikinas jaunų šeimų sąrašas, į kurį įrašomos jaunos šeimos, besikreipiančios dėl valstybės paramos. Šeimos, kurios neįrašytos į 1997 metų pirmąją ir antrąją eiles valstybės paramai gauti, į šį sąrašą neįtraukiamos. ^s-1b04b4cb07af32665d0d5fc6
+2. Iki bus pertvarkytos piliečių eilės valstybės paramai gauti pagal [[#^s-43fb3cae752d0c54fbf19d6c|šio straipsnio 1 dalyje]] nurodytą tvarką, valstybės parama jaunoms šeimoms, nurodytoms [[latest/TAR.9D04F98F7C14|Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo 17 straipsnio 4 dalyje]], teikiama laikantis eiliškumo pagal tų šeimų balus savivaldybių patvirtintose 1997 metų pirmojoje ir antrojoje eilėse valstybės paramai gauti. Vadovaujantis šiais balais, sudaromas laikinas jaunų šeimų sąrašas, į kurį įrašomos jaunos šeimos, besikreipiančios dėl valstybės paramos. Šeimos, kurios neįrašytos į 1997 metų pirmąją ir antrąją eiles valstybės paramai gauti, į šį sąrašą neįtraukiamos. ^s-1b04b4cb07af32665d0d5fc6
 
 
 3. Lietuvos Respublikos Vyriausybės įgaliota institucija iki 1998 m. sausio 31 d. privalo pertvarkyti piliečių eilių valstybės paramai gauti sudarymo programinę įrangą ir perduoti ją savivaldybėms. ^s-f8f9d5da2a830f5466e8573b

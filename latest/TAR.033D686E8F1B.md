@@ -227,16 +227,16 @@ VEŽĖJŲ NEGAUTŲ PAJAMŲ ATLYGINIMO TVARKA IR ŠALTINIAI
 Vežėjų negautos dėl važiavimo keleiviniu transportu lengvatų pajamos atlyginamos pagal su jais sudarytas sutartis iš valstybės ir savivaldybių biudžetų Vyriausybės nustatyta tvarka:
 
 
-1) dėl važiavimo keleiviniais traukiniais lengvatų, nustatytų šio įstatymo [[#^s-13f43e33fefc13cd1db31496|5 straipsnio]] 1–5 dalyse, – iš valstybės biudžeto; ^s-ae7845fd5a2e0f0d60fc557d
+1) dėl važiavimo keleiviniais traukiniais lengvatų, nustatytų šio įstatymo [[#^s-13f43e33fefc13cd1db31496|5 straipsnio]] [[#^s-996a905d335b855956586512|1]]–[[#^s-27acea38c9a62aa6f0d16d53|5]] dalyse, – iš valstybės biudžeto; ^s-ae7845fd5a2e0f0d60fc557d
 
 
-2) dėl važiavimo reguliaraus susisiekimo laivais ir keltais lengvatų, nustatytų šio įstatymo [[#^s-13f43e33fefc13cd1db31496|5 straipsnio]] 1, 2, 4 ir 5 dalyse, – iš savivaldybių, kuriose įregistruotos šių vežėjų įmonės, biudžetų; ^s-35dca7f9de95c564a82f8de3
+2) dėl važiavimo reguliaraus susisiekimo laivais ir keltais lengvatų, nustatytų šio įstatymo [[#^s-13f43e33fefc13cd1db31496|5 straipsnio]] [[#^s-996a905d335b855956586512|1]], [[#^s-9b3588eecfb06a81eee32809|2]], [[#^s-e35f669c9fcdf9c107c83c07|4]] ir [[#^s-27acea38c9a62aa6f0d16d53|5]] dalyse, – iš savivaldybių, kuriose įregistruotos šių vežėjų įmonės, biudžetų; ^s-35dca7f9de95c564a82f8de3
 
 
-3) dėl važiavimo tolimojo reguliaraus susisiekimo autobusais lengvatų, nustatytų šio įstatymo [[#^s-13f43e33fefc13cd1db31496|5 straipsnio]] 1, 2, 4 ir 5 dalyse, iki 2000 m. gruodžio 31 d. – iš savivaldybių, kuriose įregistruotos šių vežėjų įmonės, biudžetų, nuo 2001 m. sausio 1 d. – iš valstybės biudžeto; ^s-2c2069f9373765143540521a
+3) dėl važiavimo tolimojo reguliaraus susisiekimo autobusais lengvatų, nustatytų šio įstatymo [[#^s-13f43e33fefc13cd1db31496|5 straipsnio]] [[#^s-996a905d335b855956586512|1]], [[#^s-9b3588eecfb06a81eee32809|2]], [[#^s-e35f669c9fcdf9c107c83c07|4]] ir [[#^s-27acea38c9a62aa6f0d16d53|5]] dalyse, iki 2000 m. gruodžio 31 d. – iš savivaldybių, kuriose įregistruotos šių vežėjų įmonės, biudžetų, nuo 2001 m. sausio 1 d. – iš valstybės biudžeto; ^s-2c2069f9373765143540521a
 
 
-4) dėl važiavimo vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais lengvatų, nustatytų šio įstatymo [[#^s-13f43e33fefc13cd1db31496|5 straipsnio]] 1, 2, 5 ir 6 dalyse, – iš savivaldybių, išdavusių šiems vežėjams leidimus vežti keleivius vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, biudžetų; ^s-caeda9889207d1771e8a88df
+4) dėl važiavimo vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais lengvatų, nustatytų šio įstatymo [[#^s-13f43e33fefc13cd1db31496|5 straipsnio]] [[#^s-996a905d335b855956586512|1]], [[#^s-9b3588eecfb06a81eee32809|2]], [[#^s-27acea38c9a62aa6f0d16d53|5]] ir [[#^s-4dd8137a131ecf33841ea6e0|6]] dalyse, – iš savivaldybių, išdavusių šiems vežėjams leidimus vežti keleivius vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, biudžetų; ^s-caeda9889207d1771e8a88df
 
 
 5) dėl važiavimo vietinio (priemiestinio) reguliaraus susisiekimo autobusais, vežančiais keleivius per dviejų gretimų savivaldybių, iš kurių viena yra didžiųjų miestų – Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio ir Alytaus – savivaldybė, teritorijas, – iš miesto ir apie jį esančios savivaldybės biudžetų solidariai pagal tarpusavio susitarimą. ^s-cb1168187b38045795b38bb9
@@ -272,7 +272,7 @@ Asmenys, pažeidę šio įstatymo reikalavimus, atsako įstatymų nustatyta tvar
 ### 12 straipsnis. Teisės akto pripažinimas netekusiu galios ^s-7b25c4ff4197b094e9451a83
 
 
-Įsigaliojus šiam įstatymui, netenka galios Lietuvos Respublikos įstatymas „Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos“ (Žin., 1995, Nr. 87-1954, Nr. 107-2399; 1997, Nr. 117-3014; 1999, Nr. 60-1958).
+Įsigaliojus šiam įstatymui, netenka galios Lietuvos Respublikos įstatymas [„Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.C640C19DFD44) (Žin., 1995, Nr. 87-1954, Nr. 107-2399; 1997, Nr. 117-3014; 1999, Nr. 60-1958).
 
 
 

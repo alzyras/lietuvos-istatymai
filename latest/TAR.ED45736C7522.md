@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-8aa30a52c8eb13836cbc066a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2001 m. gegužės 8 d. dekretą Nr. 1312, ratifikuoja Europos susitarimą dėl pagrindinių tarptautinių geležinkelio linijų (AGC), sudarytą 1985 m. gegužės 31 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2001 m. gegužės 8 d. dekretą Nr. 1312](https://e-tar.lt/portal/lt/legalAct/TAR.D87D444B2082), ratifikuoja Europos susitarimą dėl pagrindinių tarptautinių geležinkelio linijų (AGC), sudarytą 1985 m. gegužės 31 d. Ženevoje.
 
 
 

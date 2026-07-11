@@ -149,7 +149,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 6. Zonos valdymo bendrovė moka Lietuvos Respublikos įstatymų atitinkamoms įmonėms nustatytus mokesčius. ^s-fb29dc71a7a9858f24e91993
 
 
-7. Šiame straipsnyje numatytos mokesčių lengvatos ir kiti valstybės pagalbos būdai ūkio subjektams taikomi tiek, kiek tai neprieštarauja Lietuvos Respublikos valstybės pagalbos ūkio subjektams kontrolės įstatymo nuostatoms.“ ^s-e7a9e1a56c5a76be10b50d6f
+7. Šiame straipsnyje numatytos mokesčių lengvatos ir kiti valstybės pagalbos būdai ūkio subjektams taikomi tiek, kiek tai neprieštarauja [Lietuvos Respublikos valstybės pagalbos ūkio subjektams kontrolės įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.9066FF2551F8) nuostatoms.“ ^s-e7a9e1a56c5a76be10b50d6f
 
 
 
@@ -162,7 +162,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 „16 straipsnis. Muitinės priežiūros ypatumai laisvosiose teritorijose
 
 
-Laisvųjų ekonominių zonų laisvosios teritorijos Muitinės kodekso ir jo įgyvendinimo nuostatų taikymo požiūriu laikomos laisvosiomis zonomis.“
+Laisvųjų ekonominių zonų laisvosios teritorijos [Muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) ir jo įgyvendinimo nuostatų taikymo požiūriu laikomos laisvosiomis zonomis.“
 
 
 

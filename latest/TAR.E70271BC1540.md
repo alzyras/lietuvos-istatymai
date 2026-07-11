@@ -51,7 +51,7 @@ Pakeisti 34 straipsnio 14 dalį ir ją išdėstyti taip:
 ### 2 straipsnis. 77 straipsnio 1, 3, 4, 5, 6 ir 7 dalių pakeitimas ^s-ed50376317ec00d15b417d56
 
 
-Pakeisti 77 straipsnio 1, 3, 4, 5, 6, [[#^s-852e68d79040aba4d091fdda|7 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 77 straipsnio 1, 3, 4, 5, 6, 7 dalis ir visą straipsnį išdėstyti taip:
 
 
 
@@ -64,7 +64,7 @@ Pakeisti 77 straipsnio 1, 3, 4, 5, 6, [[#^s-852e68d79040aba4d091fdda|7 dalis]] i
 2. Ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, vykdydami [[#^s-b3b57d38f620d5cdfdf8b2ae|šio straipsnio 1 dalies]] nuostatas, turi patvirtinti prašymų ir (arba) paklausimų pateikti informaciją tvarkymo vidaus taisykles. Valstybinei duomenų apsaugos inspekcijai pareikalavus, ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, pateikia jai informaciją apie šias procedūras, gautų prašymų ir (arba) paklausimų skaičių, jų teisinį pagrindą ir pateiktus atsakymus. ^s-a49378ebd6129c85e0303bbe
 
 
-3. Jeigu šio Įstatymo 65 straipsnyje nurodyti duomenys reikalingi kriminalinės žvalgybos subjektams, žvalgybos institucijoms, ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui nusikalstamoms veikoms užkardyti, tirti, nustatyti, Vyriausybės įgaliotos institucijos – kriminalinės žvalgybos subjekto, žvalgybos institucijų – nurodymu ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, turi tokią informaciją saugoti ilgiau, negu nurodyta šio Įstatymo 66 straipsnio 4, 5 ir [[#^s-d65f47827fd34d3d4ec5451b|6 dalyse]], bet ne ilgiau kaip 6 mėnesius papildomai. Už tokios informacijos saugojimą mokama valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka. ^s-3062e667c20c72f8110314e3
+3. Jeigu šio Įstatymo 65 straipsnyje nurodyti duomenys reikalingi kriminalinės žvalgybos subjektams, žvalgybos institucijoms, ikiteisminio tyrimo įstaigoms, prokurorui, teismui ar teisėjui nusikalstamoms veikoms užkardyti, tirti, nustatyti, Vyriausybės įgaliotos institucijos – kriminalinės žvalgybos subjekto, žvalgybos institucijų – nurodymu ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, turi tokią informaciją saugoti ilgiau, negu nurodyta šio Įstatymo 66 straipsnio 4, 5 ir 6 dalyse, bet ne ilgiau kaip 6 mėnesius papildomai. Už tokios informacijos saugojimą mokama valstybės biudžeto lėšomis Vyriausybės nustatyta tvarka. ^s-3062e667c20c72f8110314e3
 
 
 4. Kai yra motyvuota teismo nutartis, ūkio subjektai, teikiantys elektroninių ryšių tinklus ir (arba) paslaugas, privalo sudaryti techninę galimybę kriminalinės žvalgybos subjektams, žvalgybos institucijoms įstatymų nustatyta tvarka, o ikiteisminio tyrimo įstaigoms – [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] nustatyta tvarka, kontroliuoti elektroninių ryšių tinklais perduodamos informacijos turinį. Tam reikalinga įranga įsigyjama ir išlaikoma valstybės lėšomis. ^s-30b3c0cca15c19ec73d71532

@@ -123,7 +123,7 @@ Pakeisti 53 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 8 straipsnis. Įstatymo taikymas ^s-1ec70131f91fb74c5d9f67cd
 
 
-1. Šio įstatymo 1, 2, [[#^s-2b474b20cb113b2b3ca0f814|3 straipsnių]] nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-7e8d8951ec6162b3886abcfe
+1. Šio įstatymo [[#^s-348f5887a48e6652cc439e6f|1]], [[#^s-ee959bdc9488f9cd7b059e44|2]], [[#^s-2b474b20cb113b2b3ca0f814|3]] straipsnių nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-7e8d8951ec6162b3886abcfe
 
 
 2. Šio įstatymo [[#^s-fe4b2b6cb704bc02cd6e5781|4 straipsnio]] nuostatos taikomos apskaičiuojant 2011 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-14c1c4f1441f52eaf6a02644

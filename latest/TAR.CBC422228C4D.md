@@ -84,7 +84,7 @@ Pakeisti [[#^s-3a68d0cac3bc78df1474cbc6|4 straipsnį]] ir jį išdėstyti taip:
 1. Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip: ^s-8fb785219da522c2f14465c0
 
 
-„2. Kitais savivaldybės, kurioje priimamas sprendimas dėl socialinės paramos mokiniams skyrimo, tarybos patvirtintuose mokinių nemokamo maitinimo mokyklose ir mokinių aprūpinimo mokinio reikmenimis tvarkos aprašuose numatytais atvejais, atsižvelgiant į šeimų gyvenimo sąlygas, mokiniai turi teisę:
+„2. Kitais savivaldybės, kurioje priimamas sprendimas [dėl socialinės paramos mokiniams skyrimo](https://e-tar.lt/portal/lt/legalAct/a623ebf02f6211e4a83cb4f588d2ac1a), tarybos patvirtintuose mokinių nemokamo maitinimo mokyklose ir mokinių aprūpinimo mokinio reikmenimis tvarkos aprašuose numatytais atvejais, atsižvelgiant į šeimų gyvenimo sąlygas, mokiniai turi teisę:
 
 
 1) į nemokamus pietus, jeigu pajamos vienam šeimos nariui per mėnesį yra mažesnės kaip 2 VRP dydžiai; ^s-1a13769a3905d73e80dc76d9

@@ -90,7 +90,7 @@ Tepadeda man Dievas.“;
 ### 4 straipsnis. 24 straipsnio pakeitimas ir papildymas ^s-1adbcc9f7d2c13827ec20de4
 
 
-24 straipsnyje prieš žodžius „Atlikęs tyrimą“ įrašyti žodžius „Tyrimo metu ar“, straipsnį papildyti 8 ir [[#^s-e6bab046cb582675f16c5633|9 punktais]] ir šį straipsnį išdėstyti taip:
+24 straipsnyje prieš žodžius „Atlikęs tyrimą“ įrašyti žodžius „Tyrimo metu ar“, straipsnį papildyti 8 ir 9 punktais ir šį straipsnį išdėstyti taip:
 
 
 „24 straipsnis. Lygių galimybių kontrolieriaus sprendimai

@@ -61,14 +61,14 @@ Lietuvos Respublikos Vyriausybę (toliau - Vyriausybė) sudaro Ministras Pirmini
 1. Vyriausybė įgyvendina vykdomąją valdžią Lietuvoje. ^s-e5fe445a15c162fd98a7237b
 
 
-2. Vyriausybės galias apibrėžia Lietuvos Respublikos Konstitucija ir įstatymai. ^s-76475dc07a7e521881710507
+2. Vyriausybės galias apibrėžia [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) ir įstatymai. ^s-76475dc07a7e521881710507
 
 
 
 ### 3 straipsnis. Vyriausybės veiklos teisiniai pagrindai ^s-e65e48540c10a47b93fd6de4
 
 
-Vyriausybė savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, įstatymais, Vyriausybės programa, kitais teisės aktais ir savo veiklą derina su Valstybės pažangos strategija.
+Vyriausybė savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, įstatymais, Vyriausybės programa, kitais teisės aktais ir savo veiklą derina su Valstybės pažangos strategija.
 
 
 Straipsnio pakeitimai:
@@ -337,7 +337,7 @@ Nr. XIV-2244, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22974
 5. Ministras Pirmininkas gali turėti rezidenciją, išlaikomą iš Vyriausybės kanceliarijai valstybės biudžete numatytų lėšų. ^s-a5389b3a6190a003ba877e09
 
 
-6. Pasibaigus Vyriausybės nario įgaliojimams šio įstatymo [[#^s-b772d0e984c1ed893bf8cd7a|9 straipsnio 1 dalies 4 punkte]] numatytu atveju, Vyriausybės nariui išmokama dviejų Vyriausybės nario vidutinių mėnesinių darbo užmokesčių dydžio kompensacija, o pasibaigus Vyriausybės nario įgaliojimams šio įstatymo [[#^s-603b317d58c2d0cd7572787e|9 straipsnio 1 dalies]] 1, 2, 3 ir 5 punktuose numatytais atvejais, – vieno vidutinio mėnesinio darbo užmokesčio dydžio kompensacija.. ^s-0126abaaf7822d34877b722d
+6. Pasibaigus Vyriausybės nario įgaliojimams šio įstatymo [[#^s-b772d0e984c1ed893bf8cd7a|9 straipsnio 1 dalies 4 punkte]] numatytu atveju, Vyriausybės nariui išmokama dviejų Vyriausybės nario vidutinių mėnesinių darbo užmokesčių dydžio kompensacija, o pasibaigus Vyriausybės nario įgaliojimams šio įstatymo [[#^s-603b317d58c2d0cd7572787e|9 straipsnio 1 dalies]] [[#^s-44f4811ca86ff6b23d6df11a|1]], [[#^s-e7d13a829b4ebd35e736502c|2]], [[#^s-72f8ccf0c1e4a422ea3a477e|3]] ir [[#^s-342db5878bdb110181167c0f|5]] punktuose numatytais atvejais, – vieno vidutinio mėnesinio darbo užmokesčio dydžio kompensacija.. ^s-0126abaaf7822d34877b722d
 
 
 7. [[#^s-0126abaaf7822d34877b722d|Šio straipsnio 6 dalyje]] numatytos kompensacijos nemokamos Vyriausybės nariams, kai jie paskiriami Ministru Pirmininku ar ministrais naujai sudarytoje Vyriausybėje, taip pat jei jie yra išrinkti Seimo nariais. ^s-0dc5b0339297490a99717d9e
@@ -463,7 +463,7 @@ Nr. IX-1065, 2002-09-05, Žin., 2002, Nr. 91-3888 (2002-09-18)
 ### 201 straipsnis. Vyriausybės pareiga užtikrinti veiksmingą įstatymų ir kitų Seimo priimtų teisės aktų vykdymą ^s-46efbfe05db1602008a9e693
 
 
-Vyriausybė užtikrina veiksmingą įstatymų ir kitų Seimo priimtų teisės aktų vykdymą priimdama jiems įgyvendinti reikalingus teisės aktus. Vyriausybė gali įgalioti priimti teisės aktą atitinkamos valdymo srities ministrą, Vyriausybės įstaigą ar įstaigą prie ministerijos, jeigu teisės aktu reglamentuojamų santykių Lietuvos Respublikos Konstitucija tiesiogiai nepriskiria Vyriausybės įgaliojimams.
+Vyriausybė užtikrina veiksmingą įstatymų ir kitų Seimo priimtų teisės aktų vykdymą priimdama jiems įgyvendinti reikalingus teisės aktus. Vyriausybė gali įgalioti priimti teisės aktą atitinkamos valdymo srities ministrą, Vyriausybės įstaigą ar įstaigą prie ministerijos, jeigu teisės aktu reglamentuojamų santykių [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) tiesiogiai nepriskiria Vyriausybės įgaliojimams.
 
 
 Papildyta straipsniu:
@@ -559,7 +559,7 @@ Nr. XIV-2003, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11579
 15) sudaro Vyriausybės komitetus ir Vyriausybės komisijas; ^s-6ee050498c2f2cee1b6e01b6
 
 
-16) vykdo kitas pareigas, kurias Vyriausybei numato Lietuvos Respublikos Konstitucija, šis ir kiti įstatymai. ^s-9bd4fcc30c069a5e4a75fc66
+16) vykdo kitas pareigas, kurias Vyriausybei numato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis ir kiti įstatymai. ^s-9bd4fcc30c069a5e4a75fc66
 
 
 Straipsnio pakeitimai:
@@ -651,7 +651,7 @@ Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
 13) sprendžia Vyriausybės veiklos organizavimo klausimus; ^s-efb2d164db1bc5fd789e38c9
 
 
-14) vykdo kitas pareigas, kurias Ministrui Pirmininkui paveda Lietuvos Respublikos Konstitucija, šis ir kiti įstatymai. ^s-1d17eabc925be8ed63b68436
+14) vykdo kitas pareigas, kurias Ministrui Pirmininkui paveda [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis ir kiti įstatymai. ^s-1d17eabc925be8ed63b68436
 
 
 3. Jeigu Ministras Pirmininkas nepritaria ministro veiklos Vyriausybėje nuostatoms, jis turi teisę pateikti Respublikos Prezidentui siūlymą šį ministrą atleisti. ^s-0585b9b9bb0ea51838d253e1
@@ -675,7 +675,7 @@ Nr. XII-153, 2013-01-17, Žin., 2013, Nr. 11-497 (2013-01-30)
 1. Ministras, einantis Ministro Pirmininko pareigas, turi tuos pačius įgaliojimus kaip ir Ministras Pirmininkas. ^s-b0c75a9e7e77ee3cddacba24
 
 
-2. Ministras, pavaduojantis Ministrą Pirmininką, turi tuos pačius įgaliojimus kaip ir Ministras Pirmininkas, išskyrus šio įstatymo [[#^s-6739cdb9c9f6402d6e4d77d7|9 straipsnio]] 2 ir 6 dalyse ir [[#^s-03ee46979f96d9e3d0e98fa6|24 straipsnio 2 dalies]] 1–4 ir 10 punktuose numatytus įgaliojimus. ^s-afc7c84d5a0317175604cd78
+2. Ministras, pavaduojantis Ministrą Pirmininką, turi tuos pačius įgaliojimus kaip ir Ministras Pirmininkas, išskyrus šio įstatymo [[#^s-6739cdb9c9f6402d6e4d77d7|9 straipsnio]] [[#^s-30921821534d3903686581fe|2]] ir [[#^s-dc216e0a575f43a8b32f26f5|6]] dalyse ir [[#^s-03ee46979f96d9e3d0e98fa6|24 straipsnio 2 dalies]] [[#^s-8998f9fef74be2bdd8bddd02|1]]–[[#^s-cbc8aaabd1a514d2466bc3d8|4]] ir [[#^s-f63c9c1fc3077358c8214838|10]] punktuose numatytus įgaliojimus. ^s-afc7c84d5a0317175604cd78
 
 
 3. Ministras, einantis Ministro Pirmininko pareigas ar pavaduojantis Ministrą Pirmininką, dokumentuose nurodo savo pareigas ir daro įrašą „einantis Ministro Pirmininko pareigas“ ar „pavaduojantis Ministrą Pirmininką“. ^s-0aaa71995e994ccb7ab90f96
@@ -905,7 +905,7 @@ Nr. XIV-2244, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22974
 5. Ministerija yra biudžetinė įstaiga, turinti sąskaitą banke ir antspaudą su valstybės herbu ir savo pavadinimu. Ministerija gali turėti savo simboliką, jeigu tai numatyta jos nuostatuose. ^s-c2042ee5f1e8e2ff72cac76d
 
 
-6. Ministerija savo veiklą grindžia Lietuvos Respublikos Konstitucija, įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Vyriausybės nutarimais, kitais teisės aktais. ^s-f10097cd200b3211117c9076
+6. Ministerija savo veiklą grindžia [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Vyriausybės nutarimais, kitais teisės aktais. ^s-f10097cd200b3211117c9076
 
 
 7. Ministerijos nuostatus tvirtina Vyriausybė. ^s-a9867a84273ef5f361829879
@@ -1205,7 +1205,7 @@ Vyriausybės darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
 1. Vyriausybė valstybės valdymo reikalus sprendžia posėdžiuose visų Vyriausybės narių balsų dauguma priimdama nutarimus. ^s-a609ce5665dc94491936d8fb
 
 
-2. Vyriausybės posėdžiuose gali dalyvauti asmenys, kuriems tokią teisę numato Lietuvos Respublikos Konstitucija, kiti įstatymai ir Vyriausybės darbo reglamentas. ^s-91780040bb15a7c96da5d17f
+2. Vyriausybės posėdžiuose gali dalyvauti asmenys, kuriems tokią teisę numato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), kiti įstatymai ir Vyriausybės darbo reglamentas. ^s-91780040bb15a7c96da5d17f
 
 
 3. Į Vyriausybės posėdžius gali būti kviečiami ir kiti asmenys. ^s-33dbb4977de41a9a979fc962
@@ -1217,7 +1217,7 @@ Vyriausybės darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
 5. Vyriausybė Lietuvos Respublikos pozicijas dėl pasiūlymų priimti Europos Sąjungos teisės aktus ir dėl kitų Europos Sąjungos dokumentų prireikus svarsto Vyriausybės pasitarimuose. ^s-d773b0bcc456147df6636ce1
 
 
-6. Karo, nepaprastosios padėties, mobilizacijos, karantino, ekstremaliosios situacijos ar ekstremaliojo įvykio metu, taip pat kai būtina neatidėliotinai spręsti klausimus ar siekiant užtikrinti Vyriausybės narių ar asmenų, kuriems tokią teisę numato Lietuvos Respublikos Konstitucija, kiti įstatymai ir Vyriausybės darbo reglamentas, dalyvavimą, Vyriausybės posėdžiai ir pasitarimai gali vykti nuotoliniu būdu realiuoju laiku elektroninių ryšių priemonėmis (toliau – nuotolinis būdas). Šiuo būdu priimant Vyriausybės nutarimus, sprendimus ir rezoliucijas, turi būti užtikrintas Vyriausybės nario tapatybės ir jo balsavimo rezultatų nustatymas. ^s-c9edf67ee4b4bf1da77c24db
+6. Karo, nepaprastosios padėties, mobilizacijos, karantino, ekstremaliosios situacijos ar ekstremaliojo įvykio metu, taip pat kai būtina neatidėliotinai spręsti klausimus ar siekiant užtikrinti Vyriausybės narių ar asmenų, kuriems tokią teisę numato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), kiti įstatymai ir Vyriausybės darbo reglamentas, dalyvavimą, Vyriausybės posėdžiai ir pasitarimai gali vykti nuotoliniu būdu realiuoju laiku elektroninių ryšių priemonėmis (toliau – nuotolinis būdas). Šiuo būdu priimant Vyriausybės nutarimus, sprendimus ir rezoliucijas, turi būti užtikrintas Vyriausybės nario tapatybės ir jo balsavimo rezultatų nustatymas. ^s-c9edf67ee4b4bf1da77c24db
 Papildyta straipsnio dalimi:
 Nr. XIII-2817, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05698
 Straipsnio dalies pakeitimai:
@@ -1354,10 +1354,10 @@ Nr. X-500, 2006-01-19, Žin., 2006, Nr. 17-596 (2006-02-11)
 ### 42 straipsnis. Vyriausybės posėdžių ir pasitarimų viešumas ^s-1fd133f25fca700814acbd41
 
 
-1. Vyriausybės posėdžiai ir pasitarimai tiesiogiai transliuojami internetu, išskyrus tuos posėdžių ir pasitarimų klausimus, kuriuose svarstoma valstybės, tarnybos, komercinę paslaptį sudaranti, su asmens duomenimis, kurių viešinimas neatitiktų 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES) 2016/679) reikalavimų, susijusi informacija ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusios informacijos, projektai. ^s-e2a4cfb72db88ed96110cb32
+1. Vyriausybės posėdžiai ir pasitarimai tiesiogiai transliuojami internetu, išskyrus tuos posėdžių ir pasitarimų klausimus, kuriuose svarstoma valstybės, tarnybos, komercinę paslaptį sudaranti, su asmens duomenimis, kurių viešinimas neatitiktų 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) (toliau – [Reglamentas (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj)) reikalavimų, susijusi informacija ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) reikalavimų, susijusios informacijos, projektai. ^s-e2a4cfb72db88ed96110cb32
 
 
-2. Vyriausybės posėdžiai ir pasitarimai yra protokoluojami ir daromas jų garso įrašas. Svarstant valstybės, tarnybos, komercinę paslaptį sudarančią, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusią informaciją ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusios informacijos, projektus, garso įrašai nedaromi. Vyriausybės posėdžio ir pasitarimo protokolus pasirašo Ministras Pirmininkas. Kokie duomenys įrašomi į protokolą, nustato Vyriausybės darbo reglamentas. Vyriausybės posėdžių ir pasitarimų garso įrašai ir protokolai yra vieši ir saugomi Reglamento (ES) 2016/679 ir [[latest/TAR.1FEF229DA7C6|Dokumentų ir archyvų įstatymo]] nustatyta tvarka. ^s-4cb2fb39c314f414a88ef880
+2. Vyriausybės posėdžiai ir pasitarimai yra protokoluojami ir daromas jų garso įrašas. Svarstant valstybės, tarnybos, komercinę paslaptį sudarančią, su asmens duomenimis, kurių viešinimas neatitiktų [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) reikalavimų, susijusią informaciją ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) reikalavimų, susijusios informacijos, projektus, garso įrašai nedaromi. Vyriausybės posėdžio ir pasitarimo protokolus pasirašo Ministras Pirmininkas. Kokie duomenys įrašomi į protokolą, nustato Vyriausybės darbo reglamentas. Vyriausybės posėdžių ir pasitarimų garso įrašai ir protokolai yra vieši ir saugomi [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir [[latest/TAR.1FEF229DA7C6|Dokumentų ir archyvų įstatymo]] nustatyta tvarka. ^s-4cb2fb39c314f414a88ef880
 Straipsnio pakeitimai:
 Nr. X-1182, 2007-06-14, Žin., 2007, Nr. 72-2831 (2007-06-30)
 
@@ -1779,7 +1779,7 @@ Nr. X-1467, 2008-03-20, Žin., 2008, Nr. 38-1379 (2008-04-03)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1726, 2008-09-22, Žin., 2008, Nr. 117-4442 (2008-10-11)
 [[latest/TAR.698C18CF5AF4|VYRIAUSYBĖS ĮSTATYMO 13, 26, 27, 29, 30, 33 IR 52 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus 3 ir [[#^s-8b0160147532bed4b8a62708|7 straipsnius]], įsigalioja 2009 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-e65e48540c10a47b93fd6de4|3]] ir [[#^s-8b0160147532bed4b8a62708|7]] straipsnius, įsigalioja 2009 m. sausio 1 d.
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1799,7 +1799,7 @@ Nr. XI-129, 2009-01-12, Žin., 2009, Nr. 10-351 (2009-01-27)
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-185, 2009-03-10, Žin., 2009, Nr. 29-1139 (2009-03-17)
-[[#^s-518cbcd11ea095f6760d2812|VYRIAUSYBĖS ĮSTATYMO 26, 29, 31, 31(1), 32, 45 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+VYRIAUSYBĖS ĮSTATYMO 26, 29, 31, 31(1), [[#^s-e6651178947673b019a1074d|32]], [[#^s-518cbcd11ea095f6760d2812|45]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2009 m. liepos 1 d., išskyrus šio įstatymo [[#^s-e65e48540c10a47b93fd6de4|3 straipsnį]] ir [[#^s-c71dd8de0543afd197e59e89|šio straipsnio 2 dalį]].
 Ministerijos valstybės sekretoriaus ir ministerijos sekretoriaus pareigybės panaikinamos 2009 m. birželio 30 d.
 
@@ -1811,7 +1811,7 @@ Nr. XI-218, 2009-04-16, Žin., 2009, Nr. 46-1796 (2009-04-25)
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-319, 2009-07-07, Žin., 2009, Nr. 85-3576 (2009-07-18)
-[[#^s-099ba692ba23865803991324|VYRIAUSYBĖS ĮSTATYMO 13, 24, 27, 39, 40, 44, 44(1), 45, 46 STRAIPSNIŲ]] IR DEŠIMTOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
+VYRIAUSYBĖS ĮSTATYMO 13, 24, 27, 39, 40, 44, 44(1), [[#^s-518cbcd11ea095f6760d2812|45]], [[#^s-099ba692ba23865803991324|46]] STRAIPSNIŲ IR DEŠIMTOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-c71dd8de0543afd197e59e89|šio straipsnio 2 dalį]], įsigalioja 2009 m. rugsėjo 15 d.
 
 31.
@@ -1823,7 +1823,7 @@ VYRIAUSYBĖS ĮSTATYMO 13 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-863, 2010-06-03, Žin., 2010, Nr. 71-3541 (2010-06-19)
-[[#^s-518cbcd11ea095f6760d2812|VYRIAUSYBĖS ĮSTATYMO 3, 6, 22, 24, 26, 29, 30, 31(1), 35, 38, 45 STRAIPSNIŲ]], AŠTUNTOJO SKIRSNIO PAVADINIMO PAKEITIMO, ĮSTATYMO PAPILDYMO 28(1), 29(1) STRAIPSNIAIS IR [[#^s-8fcfb665396aa6dcb2a752c4|33 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+VYRIAUSYBĖS ĮSTATYMO 3, 6, 22, 24, 26, 29, 30, 31(1), [[#^s-735da682d3374b8f04b19a9b|35]], [[#^s-f21970a662303d84e8c9f9d5|38]], [[#^s-518cbcd11ea095f6760d2812|45]] STRAIPSNIŲ, AŠTUNTOJO SKIRSNIO PAVADINIMO PAKEITIMO, ĮSTATYMO PAPILDYMO 28(1), 29(1) STRAIPSNIAIS IR [[#^s-8fcfb665396aa6dcb2a752c4|33 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-f2b6c8228472c7337795a6ca|1 straipsnį]], [[#^s-e4fc1d376c88031b3a078148|5 straipsnio 3 dalį]] ir [[#^s-f8736147bd43339e60ef8437|18 straipsnį]], įsigalioja 2010 m. liepos 1 d.
 Šio įstatymo [[#^s-f2b6c8228472c7337795a6ca|1 straipsnis]] įsigalioja Valstybės pažangos strategijos įsigaliojimo dieną,
 t. y. nuo 2012-05-31(Strategija pavirtinta Seimo nutarimu Nr. XI-2015).
@@ -1849,7 +1849,7 @@ Nr. XI-2354, 2012-11-06, Žin., 2012, Nr. 132-6682 (2012-11-15)
 36.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-153, 2013-01-17, Žin., 2013, Nr. 11-497 (2013-01-30)
-[[#^s-099ba692ba23865803991324|VYRIAUSYBĖS ĮSTATYMO 6, 13, 22, 24, 27, 28, 39, 40, 41, 44, 44(1), 45, 46 STRAIPSNIŲ]] IR DEŠIMTOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
+VYRIAUSYBĖS ĮSTATYMO 6, 13, 22, 24, 27, 28, 39, 40, 41, 44, 44(1), [[#^s-518cbcd11ea095f6760d2812|45]], [[#^s-099ba692ba23865803991324|46]] STRAIPSNIŲ IR DEŠIMTOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio įstatymo [[#^s-f2b6c8228472c7337795a6ca|1 straipsnį]] ir [[#^s-c71dd8de0543afd197e59e89|šio straipsnio 2 dalį]], įsigalioja 2013 m. gegužės 1 d.
 
 
@@ -1858,7 +1858,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 1999 11 23, Žin., 1999, Nr. 101-2916 (1999 11 26)
-DĖL [[#^s-6afeab0bf327a83f1178e7ff|LIETUVOS RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 8 STRAIPSNIO]] 2 IR [[#^s-6441e2315f1f73a9da2d6c3d|4 DALIŲ]], [[#^s-b772d0e984c1ed893bf8cd7a|9 STRAIPSNIO 1 DALIES 4 PUNKTO]] IR [[#^s-6441e2315f1f73a9da2d6c3d|4 DALIES]], [[#^s-6540776db5d3049b45191225|22 STRAIPSNIO 1 PUNKTO]], [[#^s-03ee46979f96d9e3d0e98fa6|24 STRAIPSNIO 2 DALIES]] 5 BEI 11 PUNKTŲ, [[#^s-a1eb1e17561349a99869457f|26 STRAIPSNIO 3 DALIES 7 PUNKTO]], [[#^s-02aafe17e010288c4829090e|31 STRAIPSNIO]] 2, [[#^s-6441e2315f1f73a9da2d6c3d|4 DALIŲ]] IR 6 DALIES 2 PUNKTO, [[#^s-a3be039862dd73e127f84f7e|37 STRAIPSNIO 4 DALIES]], 45 STRAIPSNIO 4 DALIES ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS ĮSTATYMO 8 STRAIPSNIO 2 IR 4 DALIŲ, 9 STRAIPSNIO 1 DALIES 4 PUNKTO IR 4 DALIES, 22 STRAIPSNIO 1 PUNKTO, 24 STRAIPSNIO 2 DALIES 5 BEI 11 PUNKTŲ, 26 STRAIPSNIO 3 DALIES 7 PUNKTO, 31 STRAIPSNIO 2, 4 DALIŲ IR 6 DALIES 2 PUNKTO, 37 STRAIPSNIO 4 DALIES, 45 STRAIPSNIO 4 DALIES ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.48A7188CCC2B)
 
 
 Pakeitimai:
@@ -1876,7 +1876,7 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 papildymo 30-1 straipsniu 
 3.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT3-N2/2018, 2018-03-02, paskelbta TAR 2018-03-05, i. k. 2018-03510
-Dėl Lietuvos Respublikos Vyriausybės įstatymo 41(1) [[#^s-71e5a16d9686224ce573bedd|straipsnio 1 dalies]] (2004 m. lapkričio 11 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Vyriausybės 2016 m. rugsėjo 28 d. nutarimo Nr. 960 „Dėl J. Miliaus atleidimo iš Valstybinės maisto ir veterinarijos tarnybos direktoriaus pareigų“ atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Vyriausybės įstatymui ir bylos dalies nutraukimo
+Dėl Lietuvos Respublikos Vyriausybės įstatymo 41(1) [[#^s-71e5a16d9686224ce573bedd|straipsnio 1 dalies]] (2004 m. lapkričio 11 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Vyriausybės [2016 m. rugsėjo 28 d. nutarimo Nr. 960](https://e-tar.lt/portal/lt/legalAct/c28de8f0864e11e6b969d7ae07280e89) [„Dėl J. Miliaus atleidimo iš Valstybinės maisto ir veterinarijos tarnybos direktoriaus pareigų“](https://e-tar.lt/portal/lt/legalAct/c28de8f0864e11e6b969d7ae07280e89) atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Vyriausybės įstatymui ir bylos dalies nutraukimo
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1886,12 +1886,12 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 41-1 straipsnio pakeitimo 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1431, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11739
-Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 22 ir 29-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 [[#^s-398759f1e2b093db09f7d0d5|22]] ir 29-1 straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1371, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12038
-Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 6, 13, 18, 22, 24, 26, 29-1, 30, 31-1, 38, 45 ir [[#^s-099ba692ba23865803991324|46 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 [[#^s-642e4471fd186fccf92b4807|6]], [[#^s-2c442a69f999d47c0582ca99|13]], [[#^s-f8736147bd43339e60ef8437|18]], [[#^s-398759f1e2b093db09f7d0d5|22]], [[#^s-b1f4e6b5c4bee2460cfdd0b5|24]], [[#^s-e6e9303a42416d24dd58d598|26]], 29-1, [[#^s-e46fc588dabd0757cd7ba9c4|30]], 31-1, [[#^s-f21970a662303d84e8c9f9d5|38]], [[#^s-518cbcd11ea095f6760d2812|45]] ir [[#^s-099ba692ba23865803991324|46]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1906,12 +1906,12 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 [[#^s-1fd133f25fca700814ac
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1804, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21812
-Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 6, 13, 18, 22, 24, 26, 29-1, 30, 31-1, 38, 45 ir [[#^s-099ba692ba23865803991324|46 straipsnių]] pakeitimo [[latest/ed44eaa088f211e8af589337bf1eb893|įstatymo Nr. XIII-1371]] 9 ir [[#^s-2c442a69f999d47c0582ca99|13 straipsnių]] pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 [[#^s-642e4471fd186fccf92b4807|6]], [[#^s-2c442a69f999d47c0582ca99|13]], [[#^s-f8736147bd43339e60ef8437|18]], [[#^s-398759f1e2b093db09f7d0d5|22]], [[#^s-b1f4e6b5c4bee2460cfdd0b5|24]], [[#^s-e6e9303a42416d24dd58d598|26]], 29-1, [[#^s-e46fc588dabd0757cd7ba9c4|30]], 31-1, [[#^s-f21970a662303d84e8c9f9d5|38]], [[#^s-518cbcd11ea095f6760d2812|45]] ir [[#^s-099ba692ba23865803991324|46]] straipsnių pakeitimo [[latest/ed44eaa088f211e8af589337bf1eb893|įstatymo Nr. XIII-1371]] [[#^s-6739cdb9c9f6402d6e4d77d7|9]] ir [[#^s-2c442a69f999d47c0582ca99|13]] straipsnių pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2234, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10353
-Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 22 ir [[#^s-735da682d3374b8f04b19a9b|35 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 [[#^s-398759f1e2b093db09f7d0d5|22]] ir [[#^s-735da682d3374b8f04b19a9b|35]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1921,7 +1921,7 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 papildymo 30-2 straipsniu 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2817, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05698
-Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 37, 38 ir [[#^s-1fd133f25fca700814acbd41|42 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 [[#^s-1bf6f5ada398132d0c502d3f|37]], [[#^s-f21970a662303d84e8c9f9d5|38]] ir [[#^s-1fd133f25fca700814acbd41|42]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1936,12 +1936,12 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 [[#^s-2e856e62faf3a3d2c4bf
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-549, 2021-09-30, paskelbta TAR 2021-10-15, i. k. 2021-21636
-Lietuvos Respublikos vyriausybės įstatymo Nr. I-464 22 ir 30-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos vyriausybės įstatymo Nr. I-464 [[#^s-398759f1e2b093db09f7d0d5|22]] ir 30-1 straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1653, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26611
-Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 23, 37 ir 44-1 straipsnių pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 [[#^s-a155a6888fde5cacedb9b862|23]], [[#^s-1bf6f5ada398132d0c502d3f|37]] ir 44-1 straipsnių pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1951,14 +1951,14 @@ Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 vienuoliktojo skirsnio pav
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2003, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11579
-Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 13, 22, 26, 27, 28 ir [[#^s-518cbcd11ea095f6760d2812|45 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 [[#^s-2c442a69f999d47c0582ca99|13]], [[#^s-398759f1e2b093db09f7d0d5|22]], [[#^s-e6e9303a42416d24dd58d598|26]], [[#^s-4d5f8839084c87af3bf9cca0|27]], [[#^s-2e0551af9fd5a6af2adba666|28]] ir [[#^s-518cbcd11ea095f6760d2812|45]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2244, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22974
-Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 5, 13, 22, 26, 28-1, 29, 29-1, 30, 30-1, 30-2, 31, 31-1, 32 ir [[#^s-518cbcd11ea095f6760d2812|45 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 [[#^s-2e856e62faf3a3d2c4bff8a6|5]], [[#^s-2c442a69f999d47c0582ca99|13]], [[#^s-398759f1e2b093db09f7d0d5|22]], [[#^s-e6e9303a42416d24dd58d598|26]], 28-1, [[#^s-b4f8488c4e2c3399a113d61e|29]], 29-1, [[#^s-e46fc588dabd0757cd7ba9c4|30]], 30-1, 30-2, [[#^s-02aafe17e010288c4829090e|31]], 31-1, [[#^s-e6651178947673b019a1074d|32]] ir [[#^s-518cbcd11ea095f6760d2812|45]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-877, 2026-05-07, paskelbta TAR 2026-05-12, i. k. 2026-07970
-Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 5 ir [[#^s-398759f1e2b093db09f7d0d5|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 [[#^s-2e856e62faf3a3d2c4bff8a6|5]] ir [[#^s-398759f1e2b093db09f7d0d5|22]] straipsnių pakeitimo įstatymas

@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo paskirtis ^s-c54a3123b58f9338446b8f0c
 
 
-1. Šis įstatymas nustato labdaros ir paramos teikimą ir gavimą, jų teikimo ir gavimo tikslus, teikėjus ir gavėjus, labdaros ir paramos teikimo ir gavimo kontrolę bei apskaitą, kai labdaros ir (arba) paramos teikėjai ir (arba) gavėjai naudojasi įstatymų nustatytomis mokesčių ir muitų lengvatomis. Šio įstatymo nuostatos dėl paramos teikimo ir gavimo kontrolės bei apskaitos taikomos ir tais atvejais, kai parama teikiama ir (arba) gaunama [[latest/TAR.E90A0DD29952|Lietuvos Respublikos loterijų įstatymo]] nustatyta tvarka. ^s-86ed37d8463b48a12af65e8f
+1. Šis įstatymas nustato labdaros ir paramos teikimą ir gavimą, jų teikimo ir gavimo tikslus, teikėjus ir gavėjus, labdaros ir paramos teikimo ir gavimo kontrolę bei apskaitą, kai labdaros ir (arba) paramos teikėjai ir (arba) gavėjai naudojasi įstatymų nustatytomis mokesčių ir muitų lengvatomis. Šio įstatymo nuostatos [dėl paramos teikimo](https://e-tar.lt/portal/lt/legalAct/TAR.09C42F04B8CC) ir gavimo kontrolės bei apskaitos taikomos ir tais atvejais, kai parama teikiama ir (arba) gaunama [[latest/TAR.E90A0DD29952|Lietuvos Respublikos loterijų įstatymo]] nustatyta tvarka. ^s-86ed37d8463b48a12af65e8f
 Straipsnio dalies pakeitimai:
 Nr. XIII-2600, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20561
 
@@ -131,7 +131,7 @@ Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
 
 
 4. Labdaros ir paramos dalyku negali būti Lietuvos Respublikos valstybės ir savivaldybių, Valstybinio socialinio draudimo fondo, Privalomojo sveikatos draudimo fondo biudžetų ir kitų valstybės pinigų fondų, Lietuvos banko ir kitos valstybės ir savivaldybių piniginės lėšos, tabakas ir tabako gaminiai, etilo alkoholis ir alkoholiniai gėrimai bei ribotai apyvartoje esantys daiktai, taip pat nuolatinio Lietuvos gyventojo pačiam sau skiriamos piniginės lėšos, sudarančios pajamų mokesčio dalį iki 1,2 procento gyventojo pajamų mokesčio, mokėtino pagal metinę pajamų mokesčio deklaraciją, sumos, o jeigu nuolatinis Lietuvos gyventojas metinės pajamų mokesčio deklaracijos neteikia, – iki 1,2 procento mokestį išskaičiuojančio asmens išskaičiuoto pajamų mokesčio sumos. Paramos dalyku gali būti ribotai apyvartoje esantys daiktai, jeigu jie skirti valstybės biudžetinėms įstaigoms šio įstatymo [[#^s-59323bd78d601d594450f280|3 straipsnio 3 dalyje]] nurodytai veiklai nacionalinio saugumo ir gynybos, teisėtvarkos ir nusikalstamumo prevencijos srityse vykdyti. ^s-94a0a8d099a4bf3d5b2a4a94
-TAR pastaba.. [[#^s-94a0a8d099a4bf3d5b2a4a94|4 dalies]] nuostatos taikomos ribotai apyvartoje esantiems daiktams, kurie skirti valstybės biudžetinėms įstaigoms [[#^s-59323bd78d601d594450f280|Lietuvos Respublikos labdaros ir paramos įstatymo 3 straipsnio 3 dalyje]] nurodytai veiklai nacionalinio saugumo ir gynybos, teisėtvarkos ir nusikalstamumo prevencijos srityse vykdyti ir kuriuos paramos gavėjai – valstybės biudžetinės įstaigos – šiai veiklai vykdyti gauna po 2024-12-12 [[latest/67df46f2c13811ef88c08519262548c4|įstatymo Nr. XV-55]] įsigaliojimo dienos (2024-12-24).
+TAR pastaba.. 4 dalies nuostatos taikomos ribotai apyvartoje esantiems daiktams, kurie skirti valstybės biudžetinėms įstaigoms [[#^s-59323bd78d601d594450f280|Lietuvos Respublikos labdaros ir paramos įstatymo 3 straipsnio 3 dalyje]] nurodytai veiklai nacionalinio saugumo ir gynybos, teisėtvarkos ir nusikalstamumo prevencijos srityse vykdyti ir kuriuos paramos gavėjai – valstybės biudžetinės įstaigos – šiai veiklai vykdyti gauna po 2024-12-12 [[latest/67df46f2c13811ef88c08519262548c4|įstatymo Nr. XV-55]] įsigaliojimo dienos (2024-12-24).
 Straipsnio dalies pakeitimai:
 Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
 Nr. XV-55, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23064
@@ -265,7 +265,7 @@ Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
 
 
 
-3. Šio straipsnio 1 ir [[#^s-52d26e633c2f2f4c076ca822|2 dalyse]] nurodyti asmenys tampa paramos gavėjais ir įgyja teisę gauti paramą tik šio įstatymo nustatyta tvarka gavę paramos gavėjo statusą. ^s-c7238c67c6298ea1771924fe
+3. Šio straipsnio [[#^s-a5b9f0d9939543a5263210a1|1]] ir [[#^s-52d26e633c2f2f4c076ca822|2]] dalyse nurodyti asmenys tampa paramos gavėjais ir įgyja teisę gauti paramą tik šio įstatymo nustatyta tvarka gavę paramos gavėjo statusą. ^s-c7238c67c6298ea1771924fe
 Straipsnio dalies pakeitimai:
 Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
 Nr. XIV-2465, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25958
@@ -276,7 +276,7 @@ Nr. XIV-2465, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25958
 
 
 5. Parama pagal šį įstatymą pripažįstama ir tais atvejais, kai ji teikiama Europos ekonominės erdvės valstybėse ir į Vyriausybės sudarytą sąrašą įtrauktose demokratinėse bei teisinėse valstybėse, patiriančiose nusikaltimus, kaip jie suprantami pagal Tarptautinio baudžiamojo teismo Romos statutą, ratifikuotą Lietuvos Respublikos įstatymu „Dėl Tarptautinio baudžiamojo teismo Romos statuto ratifikavimo“, ir jo pakeitimus, ratifikuotus Lietuvos Respublikos įstatymu „Dėl Tarptautinio baudžiamojo teismo Romos statuto pakeitimų dėl agresijos nusikaltimo ir Tarptautinio baudžiamojo teismo Romos statuto 8 straipsnio pakeitimų ratifikavimo“, ir šių nusikaltimų padarinius, įsteigtiems juridiniams asmenims ar kitoms organizacijoms, kurių veiklos tikslas nėra pelno siekimas, o gautas pelnas negali būti skiriamas jų dalyviams, taip pat kai parama teikiama šių demokratinių bei teisinių valstybių valstybinėms institucijoms visuomenei naudingiems tikslams tenkinti. Paramos teikėjas Valstybinei mokesčių inspekcijai pateikia Vyriausybės įgaliotos institucijos nustatytus dokumentus, įrodančius, kad jo parama teikiama šių juridinių asmenų ar kitų organizacijų veiklos dokumentuose numatytiems visuomenei naudingiems tikslams, nurodytiems šio įstatymo [[#^s-59323bd78d601d594450f280|3 straipsnio 3 dalyje]]. Vyriausybės įgaliota institucija nustato šių dokumentų pateikimo Valstybinei mokesčių inspekcijai tvarką. Šios dalies nuostatos netaikomos [[#^s-4cdcec2f19252441093de558|šio straipsnio 4 dalyje]] nurodytiems juridiniams asmenims ar organizacijoms. ^s-7f6c750e582e168f42bb5b43
-TAR pastaba. [[#^s-7f6c750e582e168f42bb5b43|7 straipsnio 5 dalies]] nuostatos taikomos nuo nepaprastosios padėties įvedimo Lietuvos Respublikoje dienos, nustatytos Lietuvos Respublikos Prezidento 2022 m. vasario 24 d. dekrete Nr. 1K-872 „Dėl nepaprastosios padėties paskelbimo“.
+TAR pastaba. 7 straipsnio 5 dalies nuostatos taikomos nuo nepaprastosios padėties įvedimo Lietuvos Respublikoje dienos, nustatytos Lietuvos Respublikos Prezidento [2022 m. vasario 24 d. dekrete Nr. 1K-872](https://e-tar.lt/portal/lt/legalAct/44802a30955d11ecaf3aba0cb308998c) [„Dėl nepaprastosios padėties paskelbimo“](https://e-tar.lt/portal/lt/legalAct/44802a30955d11ecaf3aba0cb308998c).
 Straipsnio dalies pakeitimai:
 Nr. XIV-944, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05123
 
@@ -431,7 +431,7 @@ Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
 
 
 
-7. Valstybės ir (ar) savivaldybės bendrovės negali teikti paramos politinio (asmeninio) pasitikėjimo valstybės tarnautojų, Lietuvos Respublikos Seimo, Vyriausybės, savivaldybių tarybų narių, politinių organizacijų ir analitinių centrų vienasmenių ir kolegialių valdymo organų narių, jų artimųjų giminaičių, sutuoktinių, sugyventinių, partnerių, kai partnerystė įregistruota įstatymų nustatyta tvarka, įsteigtiems fondams ir įstaigoms. Šiame punkte nurodyti asmenys negali dalyvauti vertinant paraiškas gauti paramą ir priimant sprendimus dėl paramos teikimo. ^s-726dca95e096c51553806e32
+7. Valstybės ir (ar) savivaldybės bendrovės negali teikti paramos politinio (asmeninio) pasitikėjimo valstybės tarnautojų, Lietuvos Respublikos Seimo, Vyriausybės, savivaldybių tarybų narių, politinių organizacijų ir analitinių centrų vienasmenių ir kolegialių valdymo organų narių, jų artimųjų giminaičių, sutuoktinių, sugyventinių, partnerių, kai partnerystė įregistruota įstatymų nustatyta tvarka, įsteigtiems fondams ir įstaigoms. Šiame punkte nurodyti asmenys negali dalyvauti vertinant paraiškas gauti paramą ir priimant sprendimus [dėl paramos teikimo](https://e-tar.lt/portal/lt/legalAct/TAR.09C42F04B8CC). ^s-726dca95e096c51553806e32
 Straipsnio dalies pakeitimai:
 Nr. XIV-1389, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15860
 Straipsnio dalies numeracijos pakeitimas:
@@ -455,7 +455,7 @@ Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
 
 
 2) paramos gavėjas per pastaruosius 3 metus, vykdydamas ankstesnę paramos gavimo sutartį, yra padaręs sutartyje dėl paramos gavimo nustatytus esminius su valstybės ir (ar) savivaldybės bendrove sudarytos sutarties sąlygų pažeidimus. ^s-d42b8dbbde8d2e49b27af054
-TAR pastaba. Iki [[latest/2363a26023d111e9bf1ef395f41d6fbc|įstatymo Nr. XIII-1955]] įsigaliojimo (2019-01-30) valstybės ir (ar) savivaldybės bendrovių sudarytos paramos teikimo sutartys ne vėliau kaip per vienus metus nuo šio įstatymo įsigaliojimo dienos privalo būti peržiūrėtos, neatitinkančios šio įstatymo 91 ir [[#^s-818f4ff1a15780bdbdd9bc78|92 straipsniuose]] nustatytų reikalavimų, patvirtintų valstybės ir (ar) savivaldybės bendrovės paramos valdymo taisyklių ar valstybės ir (ar) savivaldybės bendrovės tam tikslui įsteigto fondo paramos valdymo taisyklėse nustatytų paramos teikimo kriterijų, nutraukiamos.
+TAR pastaba. Iki [[latest/2363a26023d111e9bf1ef395f41d6fbc|įstatymo Nr. XIII-1955]] įsigaliojimo (2019-01-30) valstybės ir (ar) savivaldybės bendrovių sudarytos paramos teikimo sutartys ne vėliau kaip per vienus metus nuo šio įstatymo įsigaliojimo dienos privalo būti peržiūrėtos, neatitinkančios šio įstatymo [[#^s-f2d4fce1144074e2c625db18|91]] ir [[#^s-818f4ff1a15780bdbdd9bc78|92]] straipsniuose nustatytų reikalavimų, patvirtintų valstybės ir (ar) savivaldybės bendrovės paramos valdymo taisyklių ar valstybės ir (ar) savivaldybės bendrovės tam tikslui įsteigto fondo paramos valdymo taisyklėse nustatytų paramos teikimo kriterijų, nutraukiamos.
 
 
 Papildyta straipsniu:
@@ -545,7 +545,7 @@ Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
 
 
 7) kitos svarbios ir su paramos teikimu susijusios nuostatos. ^s-55dc20cfd159dbf8bd19827d
-TAR pastaba. Iki [[latest/2363a26023d111e9bf1ef395f41d6fbc|įstatymo Nr. XIII-1955]] įsigaliojimo (2019-01-30) valstybės ir (ar) savivaldybės bendrovių sudarytos paramos teikimo sutartys ne vėliau kaip per vienus metus nuo šio įstatymo įsigaliojimo dienos privalo būti peržiūrėtos, neatitinkančios šio įstatymo 91 ir [[#^s-818f4ff1a15780bdbdd9bc78|92 straipsniuose]] nustatytų reikalavimų, patvirtintų valstybės ir (ar) savivaldybės bendrovės paramos valdymo taisyklių ar valstybės ir (ar) savivaldybės bendrovės tam tikslui įsteigto fondo paramos valdymo taisyklėse nustatytų paramos teikimo kriterijų, nutraukiamos.
+TAR pastaba. Iki [[latest/2363a26023d111e9bf1ef395f41d6fbc|įstatymo Nr. XIII-1955]] įsigaliojimo (2019-01-30) valstybės ir (ar) savivaldybės bendrovių sudarytos paramos teikimo sutartys ne vėliau kaip per vienus metus nuo šio įstatymo įsigaliojimo dienos privalo būti peržiūrėtos, neatitinkančios šio įstatymo [[#^s-f2d4fce1144074e2c625db18|91]] ir [[#^s-818f4ff1a15780bdbdd9bc78|92]] straipsniuose nustatytų reikalavimų, patvirtintų valstybės ir (ar) savivaldybės bendrovės paramos valdymo taisyklių ar valstybės ir (ar) savivaldybės bendrovės tam tikslui įsteigto fondo paramos valdymo taisyklėse nustatytų paramos teikimo kriterijų, nutraukiamos.
 
 
 Papildyta straipsniu:
@@ -569,7 +569,7 @@ Nr. XV-55, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23064
 
 
 
-2. Pagal šį įstatymą kaip parama gauti šio įstatymo [[#^s-a1f6267612b7ddb368c18f89|4 straipsnio]] 1 ir [[#^s-0963921f5c49b0d9ddee74c7|2 dalyse]] nurodyti labdaros ir paramos dalykai negali būti naudojami politinėms organizacijoms ir analitiniams centrams, valstybės politikams, politinei reklamai ar politinėms kampanijoms finansuoti ir politinių kampanijų dalyvių politinių kampanijų laikotarpiu atsiradusiems ar su politinėmis kampanijomis susijusiems skolos įsipareigojimams padengti. ^s-0963921f5c49b0d9ddee74c7
+2. Pagal šį įstatymą kaip parama gauti šio įstatymo [[#^s-a1f6267612b7ddb368c18f89|4 straipsnio]] [[#^s-755cbad19c60a93314d4df00|1]] ir [[#^s-f6c0455df667a37631975d2c|2]] dalyse nurodyti labdaros ir paramos dalykai negali būti naudojami politinėms organizacijoms ir analitiniams centrams, valstybės politikams, politinei reklamai ar politinėms kampanijoms finansuoti ir politinių kampanijų dalyvių politinių kampanijų laikotarpiu atsiradusiems ar su politinėmis kampanijomis susijusiems skolos įsipareigojimams padengti. ^s-0963921f5c49b0d9ddee74c7
 Straipsnio dalies pakeitimai:
 Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
@@ -618,7 +618,7 @@ Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
 
 
 
-4. Valstybinė mokesčių inspekcija šio straipsnio 1, 2 ir [[#^s-92006f2c5358c77500a8de5f|3 dalyse]] nurodytose ataskaitose pateiktą informaciją Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Valstybės duomenų agentūrai. ^s-990165beae9fb751989167c4
+4. Valstybinė mokesčių inspekcija šio straipsnio [[#^s-5fb02be08d83688e14ecdb60|1]], [[#^s-b915b956ba51598cc954654a|2]] ir [[#^s-92006f2c5358c77500a8de5f|3]] dalyse nurodytose ataskaitose pateiktą informaciją Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Valstybės duomenų agentūrai. ^s-990165beae9fb751989167c4
 Straipsnio dalies pakeitimai:
 Nr. XV-735, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23027
 
@@ -651,7 +651,7 @@ Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
 
 
 7. Valstybinė mokesčių inspekcija Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais savo interneto svetainėje skelbia paramos dalyko, nurodyto šio įstatymo [[#^s-3404ad01458411f6b7619cca|4 straipsnio 2 dalies 2 punkte]], gavėjus ir jiems kiekvienais metais pervestų piniginių lėšų sumas, taip pat paskutiniais praėjusiais metais pervestų piniginių lėšų patikslintus duomenis. ^s-057f44e3399542ea7c30899e
-TAR pastaba. [[#^s-057f44e3399542ea7c30899e|7 dalies]] nuostatos taikomos viešinant informaciją apie paramos gavėjus ir jų 2017 metais ir vėlesniais metais gautą paramą piniginėmis lėšomis, sudarančiomis pajamų mokesčio dalį iki 2 procentų gyventojo pajamų mokesčio sumos.
+TAR pastaba. 7 dalies nuostatos taikomos viešinant informaciją apie paramos gavėjus ir jų 2017 metais ir vėlesniais metais gautą paramą piniginėmis lėšomis, sudarančiomis pajamų mokesčio dalį iki 2 procentų gyventojo pajamų mokesčio sumos.
 Papildyta straipsnio dalimi:
 Nr. XIII-1309, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10962
 
@@ -679,10 +679,10 @@ Nr. XIII-1309, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10962
 1) šių asmenų įstatuose (nuostatuose) yra numatyta vykdyti šio įstatymo [[#^s-59323bd78d601d594450f280|3 straipsnio 3 dalyje]] nurodytą visuomenei naudingą veiklą ir ^s-976205a3d22b69448d5c2a33
 
 
-2) nėra šio straipsnio 5 ir [[#^s-b89d6a157fa8499f69400a36|6 dalyse]] nurodytų aplinkybių, ir ^s-feab400af0f19e4049495929
+2) nėra šio straipsnio [[#^s-e21d3c641dd5bcfe105e72e1|5]] ir [[#^s-b89d6a157fa8499f69400a36|6]] dalyse nurodytų aplinkybių, ir ^s-feab400af0f19e4049495929
 
 
-3) asmens vadovas nėra arba nebuvo kito asmens, kuriam ne anksčiau kaip prieš vienus metus buvo panaikintas paramos gavėjo statusas už bent vieną iš šio straipsnio 5 ir [[#^s-b89d6a157fa8499f69400a36|6 dalyse]] nurodytų pažeidimų arba dėl to, kad jis neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, vadovu pažeidimo padarymo metu. ^s-3cfcdcda641461874293ca62
+3) asmens vadovas nėra arba nebuvo kito asmens, kuriam ne anksčiau kaip prieš vienus metus buvo panaikintas paramos gavėjo statusas už bent vieną iš šio straipsnio [[#^s-e21d3c641dd5bcfe105e72e1|5]] ir [[#^s-b89d6a157fa8499f69400a36|6]] dalyse nurodytų pažeidimų arba dėl to, kad jis neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, vadovu pažeidimo padarymo metu. ^s-3cfcdcda641461874293ca62
 
 
 Straipsnio dalies pakeitimai:
@@ -744,7 +744,7 @@ Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
 
 
 
-7. Juridinis ar fizinis asmuo, kuriam už šio straipsnio 5 ir [[#^s-b89d6a157fa8499f69400a36|6 dalyse]] nurodytą bent vieną pažeidimą arba dėl to, kad jis neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į Juridinių asmenų registro tvarkytoją arba Kultūros ministeriją ne anksčiau kaip po vienų metų, kurie pradedami skaičiuoti nuo paramos gavėjo statuso panaikinimo dienos. ^s-4334bc87e212c69ad9fdbb20
+7. Juridinis ar fizinis asmuo, kuriam už šio straipsnio [[#^s-e21d3c641dd5bcfe105e72e1|5]] ir [[#^s-b89d6a157fa8499f69400a36|6]] dalyse nurodytą bent vieną pažeidimą arba dėl to, kad jis neatitinka minimalių patikimo mokesčių mokėtojo kriterijų, buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į Juridinių asmenų registro tvarkytoją arba Kultūros ministeriją ne anksčiau kaip po vienų metų, kurie pradedami skaičiuoti nuo paramos gavėjo statuso panaikinimo dienos. ^s-4334bc87e212c69ad9fdbb20
 Straipsnio dalies pakeitimai:
 Nr. XIII-1331, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10974
 Nr. XIII-2569, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19881
@@ -753,7 +753,7 @@ Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
 
 
 
-8. Tradicinės Lietuvos religinės bendruomenės, bendrijos ir centrai turi paramos gavėjo statusą. Jiems netaikomos šio straipsnio 1–[[#^s-4334bc87e212c69ad9fdbb20|7 dalių]] nuostatos. ^s-e289e036d70892a0a2531614
+8. Tradicinės Lietuvos religinės bendruomenės, bendrijos ir centrai turi paramos gavėjo statusą. Jiems netaikomos šio straipsnio [[#^s-8036860859828b41d7056da9|1]]–[[#^s-4334bc87e212c69ad9fdbb20|7]] dalių nuostatos. ^s-e289e036d70892a0a2531614
 Straipsnio dalies pakeitimai:
 Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
 
@@ -859,7 +859,7 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-802918ded806a
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1296, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17030
-Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 7 ir 15 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-257ac0f21ef945b9bac01779|7]] ir 15 straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -874,17 +874,17 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 pakeitimo įstatyma
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
-Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 pakeitimo [[latest/e6a90ad0aee511e5b12fbb7dc920ee2c|įstatymo Nr. XII-2202]] 1 ir [[#^s-dbf899af1a41b86a96e6ed07|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 pakeitimo [[latest/e6a90ad0aee511e5b12fbb7dc920ee2c|įstatymo Nr. XII-2202]] [[#^s-c54a3123b58f9338446b8f0c|1]] ir [[#^s-dbf899af1a41b86a96e6ed07|2]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
-Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 pakeitimo [[latest/e6a90ad0aee511e5b12fbb7dc920ee2c|įstatymo Nr. XII-2202]] 1 ir [[#^s-dbf899af1a41b86a96e6ed07|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 pakeitimo [[latest/e6a90ad0aee511e5b12fbb7dc920ee2c|įstatymo Nr. XII-2202]] [[#^s-c54a3123b58f9338446b8f0c|1]] ir [[#^s-dbf899af1a41b86a96e6ed07|2]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-486, 2017-06-22, paskelbta TAR 2017-06-29, i. k. 2017-11073
-Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 10 ir [[#^s-b39b2f74912d25880e002537|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-f4e832915a21574c08fb235e|10]] ir [[#^s-b39b2f74912d25880e002537|13]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -894,7 +894,7 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-7189b1ed3a8bb
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1326, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10971
-Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4 ir [[#^s-e6f7dd67c7d7ebad1d823d83|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-a1f6267612b7ddb368c18f89|4]] ir [[#^s-e6f7dd67c7d7ebad1d823d83|9]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -904,12 +904,12 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-b39b2f74912d2
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1706, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20946
-Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4 ir [[#^s-e6f7dd67c7d7ebad1d823d83|9 straipsnių]] pakeitimo [[latest/1f164f207c4a11e8ae2bfd1913d66d57|įstatymo Nr. XIII-1326]] pakeitimo įstatymas
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-a1f6267612b7ddb368c18f89|4]] ir [[#^s-e6f7dd67c7d7ebad1d823d83|9]] straipsnių pakeitimo [[latest/1f164f207c4a11e8ae2bfd1913d66d57|įstatymo Nr. XIII-1326]] pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1955, 2019-01-15, paskelbta TAR 2019-01-29, i. k. 2019-01320
-Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 5, [[#^s-7189b1ed3a8bbdda51e129a1|11 straipsnių]] pakeitimo ir Įstatymo papildymo 9-1, 9-2 straipsniais įstatymas
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-e0546df0d1b8abef77823eea|5]], [[#^s-7189b1ed3a8bbdda51e129a1|11]] straipsnių pakeitimo ir Įstatymo papildymo 9-1, 9-2 straipsniais įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -924,7 +924,7 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-c54a3123b58f9
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2713, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21558
-Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 5, 9-1, 9-2 ir [[#^s-7189b1ed3a8bbdda51e129a1|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-e0546df0d1b8abef77823eea|5]], 9-1, 9-2 ir [[#^s-7189b1ed3a8bbdda51e129a1|11]] straipsnių pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -934,7 +934,7 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-b39b2f74912d2
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-104, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29107
-Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4, 7, 8, 9 ir [[#^s-7189b1ed3a8bbdda51e129a1|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-a1f6267612b7ddb368c18f89|4]], [[#^s-257ac0f21ef945b9bac01779|7]], [[#^s-d759fc6de348250aa6f70115|8]], [[#^s-e6f7dd67c7d7ebad1d823d83|9]] ir [[#^s-7189b1ed3a8bbdda51e129a1|11]] straipsnių pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -944,12 +944,12 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-257ac0f21ef94
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1389, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15860
-Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 5, 7, 9-1 ir [[#^s-f4e832915a21574c08fb235e|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-e0546df0d1b8abef77823eea|5]], [[#^s-257ac0f21ef945b9bac01779|7]], 9-1 ir [[#^s-f4e832915a21574c08fb235e|10]] straipsnių pakeitimo įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2465, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25958
-Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4, 7, 8, 9 ir [[#^s-7189b1ed3a8bbdda51e129a1|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-a1f6267612b7ddb368c18f89|4]], [[#^s-257ac0f21ef945b9bac01779|7]], [[#^s-d759fc6de348250aa6f70115|8]], [[#^s-e6f7dd67c7d7ebad1d823d83|9]] ir [[#^s-7189b1ed3a8bbdda51e129a1|11]] straipsnių pakeitimo įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -959,7 +959,7 @@ Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-257ac0f21ef94
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-55, 2024-12-12, paskelbta TAR 2024-12-23, i. k. 2024-23064
-Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 4 ir [[#^s-f4e832915a21574c08fb235e|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos labdaros ir paramos įstatymo Nr. I-172 [[#^s-a1f6267612b7ddb368c18f89|4]] ir [[#^s-f4e832915a21574c08fb235e|10]] straipsnių pakeitimo įstatymas
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas

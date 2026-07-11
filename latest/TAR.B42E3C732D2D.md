@@ -104,10 +104,10 @@ Pakeisti 2 straipsnio 1 ir 2 dalį ir šį straipsnį išdėstyti taip:
 Šalpos (socialinės) pensijos skiriamos ir mokamos:
 
 
-1) šio įstatymo [[#^s-d3cbd6a8f2299344cdef20b5|1 straipsnio]] pirmojoje dalyje ir antrosios dalies 1 ir [[#^s-99faacdc2f56251bdae86dfe|3 punkte]] nurodytiems asmenims, pripažintiems invalidais: I grupės invalidams – 1,5 valstybinės socialinio draudimo bazinės pensijos dydžio, II grupės invalidams – valstybinės socialinio draudimo bazinės pensijos dydžio, III grupės invalidams – 0,5 valstybinės socialinio draudimo bazinės pensijos dydžio; ^s-2923ed0d0f1258d0d7f2ba77
+1) šio įstatymo [[#^s-d3cbd6a8f2299344cdef20b5|1 straipsnio]] pirmojoje dalyje ir antrosios dalies 1 ir 3 punkte nurodytiems asmenims, pripažintiems invalidais: I grupės invalidams – 1,5 valstybinės socialinio draudimo bazinės pensijos dydžio, II grupės invalidams – valstybinės socialinio draudimo bazinės pensijos dydžio, III grupės invalidams – 0,5 valstybinės socialinio draudimo bazinės pensijos dydžio; ^s-2923ed0d0f1258d0d7f2ba77
 
 
-2) šio įstatymo [[#^s-d3cbd6a8f2299344cdef20b5|1 straipsnio]] antrosios dalies 1 ir [[#^s-99faacdc2f56251bdae86dfe|3 punkte]] nurodytiems asmenims, sukakusiems senatvės pensijos amžių, – valstybinės socialinio draudimo bazinės pensijos dydžio; ^s-f7ce59c33f773877a683f7f6
+2) šio įstatymo [[#^s-d3cbd6a8f2299344cdef20b5|1 straipsnio]] antrosios dalies 1 ir 3 punkte nurodytiems asmenims, sukakusiems senatvės pensijos amžių, – valstybinės socialinio draudimo bazinės pensijos dydžio; ^s-f7ce59c33f773877a683f7f6
 
 
 3) šio įstatymo [[#^s-d3cbd6a8f2299344cdef20b5|1 straipsnio]] antrosios [[#^s-f7ce59c33f773877a683f7f6|dalies 2 punkte]] nurodytiems asmenims – valstybinės socialinio draudimo bazinės pensijos dydžio. ^s-99faacdc2f56251bdae86dfe

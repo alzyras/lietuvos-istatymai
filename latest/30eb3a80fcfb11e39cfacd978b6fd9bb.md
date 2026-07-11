@@ -38,7 +38,7 @@ KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO NR. VIII-723 8
 ### 1 straipsnis. 8 straipsnio pakeitimas ^s-3eb289cc48a67ff9550b5c01
 
 
-Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.15C705E93776#^s-48a24050f2967977d9584a38|8 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Krašto apsaugos sistemos institucijos finansuojamos iš valstybės biudžeto ir kitų teisės aktų nustatyta tvarka gautų lėšų. Krašto apsaugos sistemai plėtoti gali būti nustatyta tvarka panaudoti ir užsienio kreditai bei parama.“

@@ -9,12 +9,11 @@ pavadinimas: "Lietuvos Respublikos produktų saugos įstatymo pakeitimo įstatym
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Administracinių bylų teisenos įstatymo
-- [[latest/TAR.A845E65C32A2|Lietuvos Respublikos produktų saugos įstatymas]] - 5 citatos - Produktų saugos įstatymo
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Administracinių bylų teisenos įstatymo
+- [[latest/TAR.A845E65C32A2|Lietuvos Respublikos produktų saugos įstatymas]] - 3 citatos - Produktų saugos įstatymo
 - [[latest/TAR.A845E65C32A2#^s-5aaf666f6eb2ee70f2950e33|Lietuvos Respublikos produktų saugos įstatymas]] - Produktų saugos įstatymo 7 straipsnis
 - [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - Vartotojų teisių gynimo įstatymas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A845E65C32A2#^s-1999017a18db2440beb94615|Lietuvos Respublikos produktų saugos įstatymas]] - 3 citatos - 1011010ISTA00IX-427
-- [[latest/TAR.A845E65C32A2#^s-f371fc80f44e73970e10f231|Lietuvos Respublikos produktų saugos įstatymas]] - 3 citatos - 1011010ISTA00IX-427
+- [[latest/TAR.A845E65C32A2#^s-1999017a18db2440beb94615|Lietuvos Respublikos produktų saugos įstatymas]] - 2 citatos - 1011010ISTA00IX-427

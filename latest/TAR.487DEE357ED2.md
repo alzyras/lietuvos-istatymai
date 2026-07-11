@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-47168e5a6f43391ea047abb4
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1998 m. lapkričio 30 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės sutartį dėl asmenų grąžinimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės sutartį dėl asmenų grąžinimo, pasirašytą 1997 m. gegužės 20 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1998 m. lapkričio 30 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės sutartį dėl asmenų grąžinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.68022A589AEC), ratifikuoja Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės sutartį dėl asmenų grąžinimo, pasirašytą 1997 m. gegužės 20 d. Vilniuje.
 
 
 

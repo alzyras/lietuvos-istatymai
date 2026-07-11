@@ -304,7 +304,7 @@ KONKURSO TVARKA
 2. Preliminarių neįpareigojančių pasiūlymų turinio reikalavimai nurodomi konkurso sąlygose. Tokie reikalavimai nustatomi vadovaujantis šio Įstatymo [[#^s-a7c7233ab23e2edb1e92b3d1|13 straipsnio 2 dalyje]] ir konkurso sąlygose nustatytais išsamių įpareigojančių pasiūlymų turinio reikalavimais, tačiau preliminarių neįpareigojančių pasiūlymų reikalaujamas mastas gali būti mažesnis negu išsamių įpareigojančių pasiūlymų mastas. ^s-79d21f1aa364d0be4f105a0c
 
 
-3. Konkurso dalyviams, kurie teikia preliminarius neįpareigojančius pasiūlymus, taikomos šio Įstatymo [[#^s-673b6f7ddb064ee4ea25e0b1|13 straipsnio]] 2–4 dalių nuostatos. ^s-71d82a4150608b9bc755d62d
+3. Konkurso dalyviams, kurie teikia preliminarius neįpareigojančius pasiūlymus, taikomos šio Įstatymo [[#^s-673b6f7ddb064ee4ea25e0b1|13 straipsnio]] [[#^s-a7c7233ab23e2edb1e92b3d1|2]]–[[#^s-a4cc4995df5f0a132e34b2b8|4]] dalių nuostatos. ^s-71d82a4150608b9bc755d62d
 
 
 
@@ -599,7 +599,7 @@ Koncesijos sutarties šalys turi teisę pasirinkti koncesijos sutarčiai ar jos 
 ### 25 straipsnis. Ginčų sprendimas ^s-13aed8677a2adb80bb27c0e6
 
 
-1. Suteikiančioji institucija ir koncesininkas turi teisę susitarti dėl ginčų, kylančių iš koncesijos sutarties ar susijusių su ja, sprendimo tvarkos, įskaitant ginčų sprendimą tarptautinio ar nacionalinio komercinio arbitražo tvarka, atsižvelgiant į koncesijos projekto pobūdį. Lietuvos Respublikos įstatymų nustatytais atvejais suteikiančioji institucija turi gauti išankstinį steigėjo sutikimą susitarimui dėl ginčo sprendimo arbitražo tvarka. Jei ginčų sprendimas nėra aptartas koncesijos sutartyje, koncesijos sutarties šalių ginčus sprendžia Lietuvos Respublikos teismai, vadovaudamiesi Lietuvos Respublikos civilinio proceso kodeksu. ^s-51b3130bfaf37895ef6f28e4
+1. Suteikiančioji institucija ir koncesininkas turi teisę susitarti dėl ginčų, kylančių iš koncesijos sutarties ar susijusių su ja, sprendimo tvarkos, įskaitant ginčų sprendimą tarptautinio ar nacionalinio komercinio arbitražo tvarka, atsižvelgiant į koncesijos projekto pobūdį. Lietuvos Respublikos įstatymų nustatytais atvejais suteikiančioji institucija turi gauti išankstinį steigėjo sutikimą susitarimui dėl ginčo sprendimo arbitražo tvarka. Jei ginčų sprendimas nėra aptartas koncesijos sutartyje, koncesijos sutarties šalių ginčus sprendžia Lietuvos Respublikos teismai, vadovaudamiesi [Lietuvos Respublikos civilinio proceso kodeksu](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). ^s-51b3130bfaf37895ef6f28e4
 
 
 2. Kilus suteikiančiosios institucijos ir koncesininko, kuris pagal Lietuvos Respublikos investicijų įstatymą laikomas užsienio investuotoju, ginčams, koncesininkas turi teises, numatytas [[latest/TAR.C7E57DF3CEC5#^s-b8f6490f3165563c08dc7cc0|Lietuvos Respublikos investicijų įstatymo 6 straipsnio 3 dalyje]]. ^s-411716cd2f1fe901a6e4b46e

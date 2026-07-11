@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.56935A08DD06#^s-88e455f0b8b9e85b1519cf79|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - 3 citatos - 1081010ISTA00X-1560
-- [[latest/TAR.56935A08DD06#^s-933c324fcf9345ed594084f9|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - 3 citatos - 1081010ISTA00X-1560
+- [[latest/TAR.56935A08DD06#^s-88e455f0b8b9e85b1519cf79|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - 2 citatos - 1081010ISTA00X-1560

@@ -182,7 +182,7 @@ Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
 ### 8 straipsnis. Išeitinės išmokos ir papildomos išeitinės išmokos skyrimas ^s-21bcfaf645f6638122192f8e
 
 
-1. Pagal [[latest/f6d686707e7011e6b969d7ae07280e89#^s-40111d2065fb8228d3cef7da|Darbo kodekso 57 straipsnio 1 dalies 1 punktą]] iš darbo atleistiems darbuotojams skiriamos ir išmokamos [[latest/f6d686707e7011e6b969d7ae07280e89#^s-a192db00e835e2ddfe522bf7|Darbo kodekso 57 straipsnio]] 8 ir 9 dalyse numatytos išeitinės išmokos bei papildomos išeitinės išmokos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. Papildomų išeitinių išmokų dydis, atsižvelgiant į darbuotojų nepertraukiamąjį darbo stažą Ignalinos AE: ^s-a3a55d40f768166306d48a6b
+1. Pagal [[latest/f6d686707e7011e6b969d7ae07280e89#^s-a192db00e835e2ddfe522bf7|Darbo kodekso 57 straipsnio 1 dalies 1 punktą iš darbo atleistiems darbuotojams skiriamos ir išmokamos Darbo kodekso 57 straipsnio]] [[latest/f6d686707e7011e6b969d7ae07280e89#^s-d98b932350f199698049ad5c|8]] ir [[latest/f6d686707e7011e6b969d7ae07280e89#^s-9ed1cc1fef289943883cc3c5|9]] dalyse numatytos išeitinės išmokos bei papildomos išeitinės išmokos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. Papildomų išeitinių išmokų dydis, atsižvelgiant į darbuotojų nepertraukiamąjį darbo stažą Ignalinos AE: ^s-a3a55d40f768166306d48a6b
 
 
 1) kai darbo stažas nuo 5 iki 10 metų, – trijų darbuotojo vidutinių darbo užmokesčių dydžio; ^s-894d13cb23e9a54872fc302d
@@ -229,7 +229,7 @@ Nr. X-254, 2005-06-16, Žin., 2005, Nr. 79-2847 (2005-06-28), i. k. [[latest/TAR
 ### 10 straipsnis. Įdarbinimo kompensuojamose darbo vietose sąlygos ^s-0b182c7956453989921c9df9
 
 
-Atleisti iš darbo darbuotojai, kurie pagal individualius planus buvo įdarbinti arba įsidarbino kompensuojamose darbo vietose, neturi teisės į papildomas socialines garantijas, numatytas šio Įstatymo 8 ir [[#^s-8146d1cc6ccbe35c6f16c7ce|9 straipsniuose]].
+Atleisti iš darbo darbuotojai, kurie pagal individualius planus buvo įdarbinti arba įsidarbino kompensuojamose darbo vietose, neturi teisės į papildomas socialines garantijas, numatytas šio Įstatymo [[#^s-21bcfaf645f6638122192f8e|8]] ir [[#^s-8146d1cc6ccbe35c6f16c7ce|9]] straipsniuose.
 
 
 
@@ -252,7 +252,7 @@ UŽIMTUMO IR SOCIALINIŲ GARANTIJŲ FINANSAVIMAS
 ### 12 straipsnis. Užimtumo ir socialinių garantijų finansavimas ^s-fcf0fe0f0a062c6c0eb4d2c3
 
 
-1. Šio Įstatymo [[#^s-81243e6bb25e2965f195f3da|4 straipsnyje]], [[#^s-c0e0bef342f102c79df44d0b|5 straipsnio 2 dalyje]], 8, 9, [[#^s-da5c282a73252aa6502bd9dd|11 straipsniuose]] nustatytos užimtumo ir socialinės garantijos finansuojamos tarptautinės paramos ir kitų šaltinių lėšomis. ^s-e7620179f499ad35210d4f7d
+1. Šio Įstatymo [[#^s-81243e6bb25e2965f195f3da|4 straipsnyje]], [[#^s-c0e0bef342f102c79df44d0b|5 straipsnio 2 dalyje]], [[#^s-21bcfaf645f6638122192f8e|8]], [[#^s-8146d1cc6ccbe35c6f16c7ce|9]], [[#^s-da5c282a73252aa6502bd9dd|11]] straipsniuose nustatytos užimtumo ir socialinės garantijos finansuojamos tarptautinės paramos ir kitų šaltinių lėšomis. ^s-e7620179f499ad35210d4f7d
 Straipsnio dalies pakeitimai:
 Nr. XIII-3433, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24609
 
@@ -328,22 +328,22 @@ Nr. XI-586, 2009-12-21, Žin., 2010, Nr. 1-3 (2010-01-05), i. k. [[latest/TAR.4A
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2504, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18830
-Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 2, 4, 5, [[#^s-21bcfaf645f6638122192f8e|8 straipsnių]] pakeitimo ir [[#^s-d664fa9dbc684a30bc90880c|7 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 [[#^s-39ae5143bcacbe70f1c286ac|2]], [[#^s-81243e6bb25e2965f195f3da|4]], [[#^s-4e49673a05dff7405cc89f4a|5]], [[#^s-21bcfaf645f6638122192f8e|8]] straipsnių pakeitimo ir [[#^s-d664fa9dbc684a30bc90880c|7 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-148, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29781
-Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 2, 4, 5, [[#^s-21bcfaf645f6638122192f8e|8 straipsnių]] pakeitimo ir [[#^s-d664fa9dbc684a30bc90880c|7 straipsnio]] pripažinimo netekusiu galios [[latest/2494f17042ba11e6a8ae9e1795984391|įstatymo Nr. XII-2504]] [[#^s-7232ba9af46ae97f1ad9ee5f|6 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 [[#^s-39ae5143bcacbe70f1c286ac|2]], [[#^s-81243e6bb25e2965f195f3da|4]], [[#^s-4e49673a05dff7405cc89f4a|5]], [[#^s-21bcfaf645f6638122192f8e|8]] straipsnių pakeitimo ir [[#^s-d664fa9dbc684a30bc90880c|7 straipsnio]] pripažinimo netekusiu galios [[latest/2494f17042ba11e6a8ae9e1795984391|įstatymo Nr. XII-2504]] [[#^s-7232ba9af46ae97f1ad9ee5f|6 straipsnio]] pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-944, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21632
-Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 4 ir [[#^s-4e49673a05dff7405cc89f4a|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 [[#^s-81243e6bb25e2965f195f3da|4]] ir [[#^s-4e49673a05dff7405cc89f4a|5]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1343, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11438
-Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 4, 9, 11 ir [[#^s-fcf0fe0f0a062c6c0eb4d2c3|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 [[#^s-81243e6bb25e2965f195f3da|4]], [[#^s-8146d1cc6ccbe35c6f16c7ce|9]], [[#^s-da5c282a73252aa6502bd9dd|11]] ir [[#^s-fcf0fe0f0a062c6c0eb4d2c3|12]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -353,4 +353,4 @@ Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuot
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2656, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09695
-Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 4 ir [[#^s-4e49673a05dff7405cc89f4a|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės įmonės Ignalinos atominės elektrinės darbuotojų papildomų užimtumo ir socialinių garantijų įstatymo Nr. IX-1541 [[#^s-81243e6bb25e2965f195f3da|4]] ir [[#^s-4e49673a05dff7405cc89f4a|5]] straipsnių pakeitimo įstatymas

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-95d075fe14f64c26f183f5f8
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2000 m. lapkričio 7 d. dekretą  Nr. 1074, ratifikuoja Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimą dėl bendradarbiavimo ir tarpusavio pagalbos muitinės veiklos srityje, pasirašytą 2000 m. gegužės 11 d. Astanoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2000 m. lapkričio 7 d. dekretą  Nr. 1074](https://e-tar.lt/portal/lt/legalAct/TAR.B2BF34BF3012), ratifikuoja Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimą dėl bendradarbiavimo ir tarpusavio pagalbos muitinės veiklos srityje, pasirašytą 2000 m. gegužės 11 d. Astanoje.
 
 
 

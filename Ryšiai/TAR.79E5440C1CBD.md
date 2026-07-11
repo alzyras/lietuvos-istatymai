@@ -9,12 +9,11 @@ pavadinimas: "Lietuvos Respublikos elektros energetikos įstatymo pakeitimo įst
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.F57794B7899F|Lietuvos Respublikos elektros energetikos įstatymas]] - 3 citatos - Lietuvos Respublikos elektros energetikos įstatymo
-- [[latest/TAR.44235B485568|Lietuvos Respublikos energetikos įstatymas]] - 2 citatos - Energetikos įstatymu
-- [[latest/TAR.A5ACBDA529A9|Lietuvos Respublikos pelno mokesčio įstatymas]] - 2 citatos - Pelno mokesčio įstatymo
-- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Statybos įstatymas
+- [[latest/TAR.F57794B7899F|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - elektros energetikos įstatymo
+- [[latest/TAR.44235B485568|Lietuvos Respublikos energetikos įstatymas]] - Energetikos įstatymu
+- [[latest/TAR.A5ACBDA529A9|Lietuvos Respublikos pelno mokesčio įstatymas]] - Pelno mokesčio įstatymo
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - Statybos įstatymas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F57794B7899F#^s-4f12f2330edb85603ddfc4bc|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 1041010ISTA0IX-2307
-- [[latest/TAR.F57794B7899F#^s-a1a5be57f7c6eba13b66e68b|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 1041010ISTA0IX-2307
+- [[latest/TAR.F57794B7899F#^s-4f12f2330edb85603ddfc4bc|Lietuvos Respublikos elektros energetikos įstatymas]] - 1041010ISTA0IX-2307

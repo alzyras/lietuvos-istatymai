@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-ddd015e03d368312f73685f2
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. spalio 2 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Ispanijos Karalystės sutartį dėl bendradarbiavimo kultūros, švietimo ir mokslo srityse“, ratifikuoja Lietuvos Respublikos ir Ispanijos Karalystės sutartį dėl bendradarbiavimo kultūros, švietimo ir mokslo srityse, pasirašytą 1995 m. lapkričio 22 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. spalio 2 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Ispanijos Karalystės sutartį dėl bendradarbiavimo kultūros, švietimo ir mokslo srityse“](https://e-tar.lt/portal/lt/legalAct/TAR.BC62A931A653), ratifikuoja Lietuvos Respublikos ir Ispanijos Karalystės sutartį dėl bendradarbiavimo kultūros, švietimo ir mokslo srityse, pasirašytą 1995 m. lapkričio 22 d. Vilniuje.
 
 
 

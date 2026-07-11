@@ -84,7 +84,7 @@ priima šį Atominės elektrinės įstatymą.“
 „5. Projektas – naujos atominės elektrinės projektas, apimantis elektrinės projektavimą, statybą, eksploataciją, eksploatacijos nutraukimą ir radioaktyviųjų atliekų tvarkymą.“
 
 
-5. Buvusias [[#^s-315580f003067f7ec9471f0d|3 straipsnio]] 5 ir [[#^s-672d4da38216ec43c3cdcfc8|6 dalis]] laikyti atitinkamai 6 ir [[#^s-4d870555208e1ec258a2ba26|7 dalimis]], [[#^s-672d4da38216ec43c3cdcfc8|6 dalį]] pakeisti ir ją išdėstyti taip: ^s-30ec3dd6a34881a652a725df
+5. Buvusias [[#^s-315580f003067f7ec9471f0d|3 straipsnio]] [[#^s-5ceb326a6e142ad63622457e|5]] ir 6 dalis laikyti atitinkamai 6 ir 7 dalimis, [[#^s-672d4da38216ec43c3cdcfc8|6 dalį]] pakeisti ir ją išdėstyti taip: ^s-30ec3dd6a34881a652a725df
 
 
 „6. Projekto įgyvendinimo bendrovė – juridinis asmuo – atominės elektrinės statytojas, kuris priklauso valstybei nuosavybės teise arba kurio visos akcijos priklauso valstybei nuosavybės teise ir kurio pagrindinis veiklos tikslas – įgyvendinti projektą. Dalis šio juridinio asmens akcijų Lietuvos Respublikos Vyriausybės sprendimu gali būti perleidžiama strateginiam investuotojui ir (arba) strateginiams partneriams.“

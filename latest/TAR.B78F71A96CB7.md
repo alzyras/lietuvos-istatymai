@@ -359,7 +359,7 @@ FARMAKOLOGINIS BUDRUMAS
 10. Valstybinė vaistų kontrolės tarnyba turi viešai skelbti informaciją, susijusią su veikliosiomis medžiagomis, kurios įeina į vaistinių preparatų, registruotų daugiau negu vienoje EEE valstybėje, sudėtį, laikydamasi Europos vaistų agentūros nustatytų terminų ir atsižvelgdama į visų EEE valstybių sutartą bendrą pranešimą, susijusį su farmakologiniu budrumu, kurio rengimą koordinuoja Europos vaistų agentūra. ^s-cd2da460e8e441664af04925
 
 
-11. Valstybinė vaistų kontrolės tarnyba, viešai skelbdama šio straipsnio 9 ir [[#^s-cd2da460e8e441664af04925|10 dalyse]] nurodytą informaciją, turi išbraukti visą privačią ir konfidencialaus komercinio pobūdžio informaciją, išskyrus atvejus, kai, siekiant apsaugoti visuomenės sveikatą, šią informaciją skelbti būtina. ^s-2f8aa2bb01762e91cc1a8ba2
+11. Valstybinė vaistų kontrolės tarnyba, viešai skelbdama šio straipsnio [[#^s-71a2f65a0f786de05cb34dec|9]] ir [[#^s-cd2da460e8e441664af04925|10]] dalyse nurodytą informaciją, turi išbraukti visą privačią ir konfidencialaus komercinio pobūdžio informaciją, išskyrus atvejus, kai, siekiant apsaugoti visuomenės sveikatą, šią informaciją skelbti būtina. ^s-2f8aa2bb01762e91cc1a8ba2
 
 
 12. Europos Komisijos prašymu ir koordinuojant Europos vaistų agentūrai, Valstybinė vaistų kontrolės tarnyba dalyvauja derinant ir standartizuojant farmakologinio budrumo technines priemones tarptautiniu mastu. ^s-438499695ba0c2c44c32e1cb
@@ -522,13 +522,13 @@ FARMAKOLOGINIS BUDRUMAS
 3) siekiant tarptautinio suderinamumo. ^s-00438692765d1249dfe7201d
 
 
-8. Rinkodaros pažymėjimo sąlygų pakeitimai pagal šio straipsnio 5 ir [[#^s-3e24508e828a4cda07842e24|6 dalis]] įsigalioja po 6 mėnesių po jų paskelbimo Europos Sąjungos referencinių datų ir periodiškai atnaujinamų saugumo protokolų pateikimo dažnumo sąraše, kuris skelbiamas Europos vaistų interneto svetainėje. ^s-0265a543f842aaa703e60e8a
+8. Rinkodaros pažymėjimo sąlygų pakeitimai pagal šio straipsnio [[#^s-7b49fcaff74cf6379dfb5dd7|5]] ir [[#^s-3e24508e828a4cda07842e24|6]] dalis įsigalioja po 6 mėnesių po jų paskelbimo Europos Sąjungos referencinių datų ir periodiškai atnaujinamų saugumo protokolų pateikimo dažnumo sąraše, kuris skelbiamas Europos vaistų interneto svetainėje. ^s-0265a543f842aaa703e60e8a
 
 
 9. Valstybinė vaistų kontrolės tarnyba vertina periodiškai atnaujinamus saugumo protokolus ir nustato, ar atsirado nauja rizika, ar rizika pakito, ar pakito vaistinio preparato naudos ir rizikos santykis. ^s-8b6be1b5f52f049d51a77daa
 
 
-10. Vaistiniams preparatams, kurie yra registruoti daugiau negu vienoje EEE valstybėje, ir visiems vaistiniams preparatams, kuriuose yra tos pačios veikliosios medžiagos arba tas pats veikliųjų medžiagų derinys, kai pagal šio straipsnio 5 ir [[#^s-3e24508e828a4cda07842e24|6 dalis]] yra nustatyta Europos Sąjungos referencinė data bei periodiškai atnaujinamų saugumo protokolų teikimo dažnumas, atliekamas vienas periodiškai atnaujinamų saugumo protokolų duomenų vertinimas. Šį vertinimą atlieka Europos vaistų agentūros Koordinavimo grupės paskirta EEE valstybė, kai tarp vaistinių preparatų, dėl kurių atliekamas vienas periodiškai atnaujinamų saugumo protokolų duomenų vertinimas, nėra nė vieno į Bendrijos vaistinių preparatų registrą įrašyto vaistinio preparato. ^s-2c273821d95b1a91019bc5a7
+10. Vaistiniams preparatams, kurie yra registruoti daugiau negu vienoje EEE valstybėje, ir visiems vaistiniams preparatams, kuriuose yra tos pačios veikliosios medžiagos arba tas pats veikliųjų medžiagų derinys, kai pagal šio straipsnio [[#^s-7b49fcaff74cf6379dfb5dd7|5]] ir [[#^s-3e24508e828a4cda07842e24|6]] dalis yra nustatyta Europos Sąjungos referencinė data bei periodiškai atnaujinamų saugumo protokolų teikimo dažnumas, atliekamas vienas periodiškai atnaujinamų saugumo protokolų duomenų vertinimas. Šį vertinimą atlieka Europos vaistų agentūros Koordinavimo grupės paskirta EEE valstybė, kai tarp vaistinių preparatų, dėl kurių atliekamas vienas periodiškai atnaujinamų saugumo protokolų duomenų vertinimas, nėra nė vieno į Bendrijos vaistinių preparatų registrą įrašyto vaistinio preparato. ^s-2c273821d95b1a91019bc5a7
 
 
 11. Jeigu [[#^s-2c273821d95b1a91019bc5a7|šio straipsnio 10 dalyje]] nurodytam vienam periodiškai atnaujinamų saugumo protokolų vertinimui atlikti paskiriama Lietuvos Respublika, Valstybinė vaistų kontrolės tarnyba per 60 dienų nuo periodiškai atnaujinamų saugumo protokolų gavimo dienos turi parengti ir nusiųsti vertinimo protokolą Europos vaistų agentūrai bei kitoms valstybėms narėms, kuriose registruoti atitinkami vaistiniai preparatai. Gavusi vaistinių preparatų rinkodaros teisės turėtojų ir kitų valstybių narių įgaliotų institucijų pastabas, Valstybinė vaistų kontrolės tarnyba turi per 15 dienų nuo pastabų gavimo dienos patikslinti vertinimo protokolą ir jį pateikti FBRV komitetui. ^s-3a43eb66969ded74d6789849
@@ -581,7 +581,7 @@ FARMAKOLOGINIS BUDRUMAS
 4. Jeigu pranešime nurodyto vaistinio preparato rinkodaros teisė suteikta ir kitoje EEE valstybėje, Valstybinė vaistų kontrolės tarnyba įgyvendina šias priemones vadovaudamasi Europos vaistų agentūros Koordinavimo grupės sutarimu arba Europos Komisijos sprendimu. Tačiau, jeigu Valstybinė vaistų kontrolės tarnyba mano, kad, siekiant apsaugoti visuomenės sveikatą, būtina sustabdyti rinkodaros ar registracijos pažymėjimo galiojimą ir uždrausti vaistinio preparato vartojimą Lietuvos Respublikoje tol, kol Europos vaistų agentūros Koordinavimo grupė arba Europos Komisija priims galutinį sprendimą, Valstybinė vaistų kontrolės tarnyba įgyvendina šias priemones, pateikdama tokio sprendimo motyvus. Apie priimtas priemones ir motyvus ne vėliau kaip per vieną darbo dieną nuo jų priėmimo turi būti pranešta Europos Komisijai, Europos vaistų agentūrai ir kitoms EEE valstybėms. ^s-a4faaaebb06aa8d7ded55b41
 
 
-5. Valstybinė vaistų kontrolės tarnyba, pateikdama šio straipsnio 1, 2, 3 ir [[#^s-a4faaaebb06aa8d7ded55b41|4 dalyse]] nurodytą informaciją, turi kartu su ja pateikti ir visą turimą susijusią mokslinę informaciją bei vertinimus Europos vaistų agentūrai. ^s-3e4b10986604b4674ae7fcc8
+5. Valstybinė vaistų kontrolės tarnyba, pateikdama šio straipsnio [[#^s-8c4c6ecc4e6845acd04d1313|1]], [[#^s-3028fd390f52287d802aa698|2]], [[#^s-9ddbe1e8b1bd0fc52e717ab6|3]] ir [[#^s-a4faaaebb06aa8d7ded55b41|4]] dalyse nurodytą informaciją, turi kartu su ja pateikti ir visą turimą susijusią mokslinę informaciją bei vertinimus Europos vaistų agentūrai. ^s-3e4b10986604b4674ae7fcc8
 
 
 6. Kai Europos vaistų agentūra Europos vaistų interneto svetainėje paskelbia informaciją apie skubios Europos Sąjungos procedūros inicijavimą Europos vaistų interneto svetainėje, Valstybinė vaistų kontrolės tarnyba apie tai paskelbia savo interneto svetainėje. ^s-aee6f50a4e2d46ae5500d597
@@ -773,7 +773,7 @@ Pakeisti Įstatymo priedo 3 punktą ir jį išdėstyti taip:
 ### 17 straipsnis. Įstatymo įgyvendinimas ir įsigaliojimas ^s-5fcac48be28573df35ea3d43
 
 
-1. Iki 2012 m. liepos 21 d. įregistruoto vaistinio preparato registruotojas turi atitikti šio įstatymo [[#^s-00bfd15ea775978277d0853d|10 straipsnyje]] išdėstyto Lietuvos Respublikos farmacijos įstatymo 53 straipsnio 2 dalies 3 punkto nuostatas nuo vaistinio preparato perregistravimo datos, bet ne vėliau kaip nuo 2015 m. liepos 21 d. ^s-3a3afe9551e0683020edca86
+1. Iki 2012 m. liepos 21 d. įregistruoto vaistinio preparato registruotojas turi atitikti šio įstatymo [[#^s-00bfd15ea775978277d0853d|10 straipsnyje]] išdėstyto [[latest/TAR.FF33B3BF23DD|Lietuvos Respublikos farmacijos įstatymo 53 straipsnio 2 dalies 3 punkto]] nuostatas nuo vaistinio preparato perregistravimo datos, bet ne vėliau kaip nuo 2015 m. liepos 21 d. ^s-3a3afe9551e0683020edca86
 Straipsnio dalies pakeitimai:
 Nr. XII-1499, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21255
 
@@ -796,7 +796,7 @@ Nr. XII-1499, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21255
 3. Valstybinė vaistų kontrolės tarnyba turi ne vėliau kaip per 15 dienų nusiųsti į „Eudravigilance“ duomenų bazę pranešimus apie Lietuvos Respublikoje pasireiškusias įtariamas sunkius padarinius sukėlusias nepageidaujamas reakcijas, gautus pagal [[#^s-c4c96b09291efba28f95eb23|šio straipsnio 2 dalies 1 punktą]]. ^s-46b5e60295f868b768aab4c9
 
 
-4. Šio įstatymo [[#^s-00bfd15ea775978277d0853d|10 straipsnyje]] išdėstyto Lietuvos Respublikos farmacijos įstatymo 551 straipsnio 1 dalyje nustatytas įpareigojimas vaistinio preparato registruotojui taikomas po 12 mėnesių nuo Europos vaistų agentūros paskelbto pranešimo apie „Eudravigilance“ duomenų bazės funkcijų dėl periodiškai atnaujinamų saugumo protokolų priėmimo ir kaupimo sukūrimą. Iki tol vaistinio preparato registruotojas turi pateikti periodiškai atnaujinamus saugumo protokolus Valstybinei vaistų kontrolės tarnybai ir kitoms Europos ekonominės erdvės valstybėms, kuriose šis vaistinis preparatas registruotas. ^s-306ca1473f85cd26d539be6c
+4. Šio įstatymo [[#^s-00bfd15ea775978277d0853d|10 straipsnyje]] išdėstyto [[latest/TAR.FF33B3BF23DD|Lietuvos Respublikos farmacijos įstatymo 551 straipsnio 1 dalyje]] nustatytas įpareigojimas vaistinio preparato registruotojui taikomas po 12 mėnesių nuo Europos vaistų agentūros paskelbto pranešimo apie „Eudravigilance“ duomenų bazės funkcijų dėl periodiškai atnaujinamų saugumo protokolų priėmimo ir kaupimo sukūrimą. Iki tol vaistinio preparato registruotojas turi pateikti periodiškai atnaujinamus saugumo protokolus Valstybinei vaistų kontrolės tarnybai ir kitoms Europos ekonominės erdvės valstybėms, kuriose šis vaistinis preparatas registruotas. ^s-306ca1473f85cd26d539be6c
 Straipsnio dalies pakeitimai:
 Nr. XII-1499, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21255
 
@@ -829,4 +829,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1499, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21255
-Lietuvos Respublikos farmacijos įstatymo 2, 8, 10, 12, 14, 15, 17, 18, 35, 62, 64, 66, 67, 69 straipsnių, vienuoliktojo skirsnio, Įstatymo priedo pakeitimo ir papildymo įstatymo Nr. XI-2376 [[#^s-5fcac48be28573df35ea3d43|17 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos farmacijos įstatymo [[#^s-36a722fd3b5b2778fcea5649|2]], [[#^s-5d58b1c3b9ef26d54c35d399|8]], [[#^s-00bfd15ea775978277d0853d|10]], [[#^s-d80268d90acb1083ad57ef59|12]], [[#^s-f0f6c4fa5cafb59410876ca4|14]], [[#^s-ca708f3847c8482ef65776fe|15]], [[#^s-5fcac48be28573df35ea3d43|17]], 18, 35, 62, 64, 66, 67, 69 straipsnių, vienuoliktojo skirsnio, Įstatymo priedo pakeitimo ir papildymo įstatymo Nr. XI-2376 [[#^s-5fcac48be28573df35ea3d43|17 straipsnio]] pakeitimo įstatymas

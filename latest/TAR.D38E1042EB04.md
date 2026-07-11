@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-0a6a10e1a3eb5eb28c76cefd
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 24 d. dekretą Nr. 588, ratifikuoja pataisytą 1992 metų Europos archeologijos paveldo apsaugos konvenciją, pasirašytą 1998 m. sausio 26 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [1999 m. rugsėjo 24 d. dekretą Nr. 588](https://e-tar.lt/portal/lt/legalAct/TAR.1FFF69E8E82B), ratifikuoja pataisytą 1992 metų Europos archeologijos paveldo apsaugos konvenciją, pasirašytą 1998 m. sausio 26 d. Strasbūre.
 
 
 

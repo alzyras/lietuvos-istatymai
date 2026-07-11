@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-6a5a7f404c6883ece70a5827
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. spalio 2 d. dekretą Nr. 1K-1219, ratifikuoja Europos Tarybos konvenciją dėl vaikų apsaugos nuo seksualinio išnaudojimo ir seksualinės prievartos, priimtą 2007 m. spalio 25 d. Lansarotėje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. spalio 2 d. dekretą Nr. 1K-1219](https://e-tar.lt/portal/lt/legalAct/TAR.2093772F93D6), ratifikuoja Europos Tarybos konvenciją dėl vaikų apsaugos nuo seksualinio išnaudojimo ir seksualinės prievartos, priimtą 2007 m. spalio 25 d. Lansarotėje.
 
 
 

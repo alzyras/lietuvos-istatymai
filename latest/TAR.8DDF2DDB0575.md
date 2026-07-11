@@ -59,7 +59,7 @@ Vilnius
 ### 3 straipsnis. Netekęs galios teisės aktas ^s-d9e52477262e7779f752db94
 
 
-Pripažinti netekusiu galios Seimo nutarimą „Dėl Genocido ir rezistencijos aukų rėmimo fondo“ (Žin., 1994, Nr. 59-1172).
+Pripažinti netekusiu galios Seimo nutarimą [„Dėl Genocido ir rezistencijos aukų rėmimo fondo“](https://e-tar.lt/portal/lt/legalAct/TAR.F20810ABC2D9) (Žin., 1994, Nr. 59-1172).
 
 
 

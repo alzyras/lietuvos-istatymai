@@ -38,10 +38,10 @@ Vilnius
 ### 1 straipsnis. 7 straipsnio pakeitimas ^s-a701643284a3986e3557529f
 
 
-Pakeisti 7 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.00D176C81058#^s-b206189df5500dcd8611f8f3|7 straipsnį]] ir jį išdėstyti taip:
 
 
-„7 straipsnis. Šeimynos teisės ir garantijos
+„[[latest/TAR.00D176C81058#^s-b206189df5500dcd8611f8f3|7 straipsnis]]. Šeimynos teisės ir garantijos
 
 
 1. Šeimyna gali turėti ir įgyti tik tokias civilines teises, kurios neprieštarauja šeimynos įstatams ir jos veiklos tikslams. ^s-ad11ae6bb9df7065b52eb680
@@ -82,10 +82,10 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 ### 2 straipsnis. 10 straipsnio pakeitimas ^s-905795bee71214858196d0e5
 
 
-Pakeisti 10 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.00D176C81058#^s-c4105a4fe5b103b1518ae9c4|10 straipsnį]] ir jį išdėstyti taip:
 
 
-„10 straipsnis. Šeimynos dalyvių teisės ir garantijos
+„[[latest/TAR.00D176C81058#^s-c4105a4fe5b103b1518ae9c4|10 straipsnis]]. Šeimynos dalyvių teisės ir garantijos
 
 
 1. Šeimynos dalyviai tik bendru sutarimu turi teisę: ^s-b8537b2ab8384385ae79d692
@@ -106,14 +106,14 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 2. Šeimynos dalyviai turi ir kitų teisės aktuose jiems nustatytų teisių. ^s-302c84aa7ae111a120054d3d
 
 
-3. Šeimynos dalyviams garantuojamos ne mažesnės negu šio įstatymo 12 straipsnio 1 dalyje nurodytos išlaikymo pajamos.“ ^s-c5f1d8f6fe2039e5d2af20cd
+3. Šeimynos dalyviams garantuojamos ne mažesnės negu šio įstatymo [[latest/TAR.00D176C81058|12 straipsnio 1 dalyje]] nurodytos išlaikymo pajamos.“ ^s-c5f1d8f6fe2039e5d2af20cd
 
 
 
-3 straipsnis 12 straipsnio pakeitimas
+[[latest/TAR.00D176C81058#^s-f4f3ce4201956dadc71b623a|3 straipsnis]] [[latest/TAR.00D176C81058#^s-d064396adc61d66a2ececf83|12 straipsnio]] pakeitimas
 
 
-Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.00D176C81058|12 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Šeimynos dalyviams garantuojamos Vyriausybės ar jos įgaliotos institucijos patvirtintoje Socialinių paslaugų finansavimo ir lėšų apskaičiavimo metodikoje nustatytos išlaikymo pajamos, kurios negali būti mažesnės negu Vyriausybės tvirtinamos einamųjų metų draudžiamosios pajamos.“
@@ -123,7 +123,7 @@ Pakeisti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 4 straipsnis. 14 straipsnio pakeitimas ^s-61b79b6ab86520bdd368058b
 
 
-Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.00D176C81058#^s-70a9b52a4cac925578e060de|14 straipsnio 3 dalį]] ir ją išdėstyti taip:
 
 
 „3. Valstybės ir savivaldybių turtas gali būti perduodamas šeimynai jos veiklai vykdyti panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis atitinkamai Vyriausybės arba savivaldybės tarybos nustatyta tvarka.“
@@ -133,7 +133,7 @@ Pakeisti 14 straipsnio 3 dalį ir ją išdėstyti taip:
 ### 5 straipsnis. 15 straipsnio pakeitimas ^s-e2c6c88942746872e4a915b4
 
 
-Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.00D176C81058#^s-a8db4179542a6011765be802|15 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Šeimyna sudaro su savivaldybės, kuri apgyvendino likusį be tėvų globos vaiką šeimynoje, administracija sutartį dėl socialinės globos finansavimo, o esant šeimynos dalyvio rašytiniam prašymui, – ir dėl finansinės paramos šeimynos naudojamo ar nuosavybės teise valdomo nekilnojamojo turto, naudojamo šeimynos veiklai, rekonstravimo ar remonto. Sutartyje aptariamos socialinės globos finansavimo, finansinės paramos, šeimynos nekilnojamojo turto rekonstravimo ar remonto, šeimynos dalyvio išlaikymo pajamų, kitos finansinės ir materialinės pagalbos, užtikrinančios kokybišką šeimynos veiklą, skyrimo sąlygos ir priemonės. Pavyzdinę sutarties formą tvirtina Vyriausybė ar jos įgaliota institucija.“

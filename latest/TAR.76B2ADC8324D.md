@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. Papildomo protokolo ratifikavimas ^s-60143756b6d909e2f3869ee3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. birželio 19 d. dekretą Nr. 1K-1095, ratifikuoja 2010 m. spalio 15 d. Nagojoje priimtą Biologinės įvairovės konvencijos Kartachenos biosaugos protokolo papildomą Nagojos ir Kvala Lumpūro protokolą dėl atsakomybės ir žalos atlyginimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. birželio 19 d. dekretą Nr. 1K-1095](https://e-tar.lt/portal/lt/legalAct/TAR.EA80179F5544), ratifikuoja 2010 m. spalio 15 d. Nagojoje priimtą Biologinės įvairovės konvencijos Kartachenos biosaugos protokolo papildomą Nagojos ir Kvala Lumpūro protokolą dėl atsakomybės ir žalos atlyginimo.
 
 
 

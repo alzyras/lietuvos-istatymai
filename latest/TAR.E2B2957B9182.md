@@ -200,7 +200,7 @@ Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
 
 
 
-27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžtos Reglamente (ES) 2017/745 ir Reglamente (ES) 2017/746. ^s-d09424212338aab2cb52c2a7
+27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžtos [Reglamente (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) ir [Reglamente (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj). ^s-d09424212338aab2cb52c2a7
 
 
 Straipsnio pakeitimai:
@@ -357,7 +357,7 @@ Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14)
 ### 5 straipsnis. Sveikatinimo veiklos reguliavimo principai ^s-51908d6917ce3bf325596e7d
 
 
-1. Šio įstatymo 1 ir [[#^s-0929ce65e509f517228c1c45|3 straipsniuose]] nurodytiems santykiams reguliuoti taikomi šie principai: ^s-39e1aff195b72d9a17b8b9ef
+1. Šio įstatymo [[#^s-2abab2cb41d13b8d160792fc|1]] ir [[#^s-0929ce65e509f517228c1c45|3]] straipsniuose nurodytiems santykiams reguliuoti taikomi šie principai: ^s-39e1aff195b72d9a17b8b9ef
 
 
 1) visapusė asmens ir visuomenės sveikatos sauga; ^s-75d1ec72503db85dfc4f74c5
@@ -396,7 +396,7 @@ Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14)
 12) valstybės skatinamos sveikatai naudingos ūkinė veikla ir iniciatyva. ^s-03b24f30482ed84f90119a9c
 
 
-2. Jeigu šio įstatymo 1 ir [[#^s-0929ce65e509f517228c1c45|3 straipsnyje]] nurodyti santykiai įstatymų nėra sureguliuoti ir jiems negalima pritaikyti panašius santykius reguliuojančių teisės normų nuostatų, tai sprendžiant kilusius ginčus taikomi [[#^s-39e1aff195b72d9a17b8b9ef|šio straipsnio 1 dalyje]] išvardyti principai. ^s-acc95940c190de77cd18e7df
+2. Jeigu šio įstatymo [[#^s-2abab2cb41d13b8d160792fc|1]] ir [[#^s-0929ce65e509f517228c1c45|3]] straipsnyje nurodyti santykiai įstatymų nėra sureguliuoti ir jiems negalima pritaikyti panašius santykius reguliuojančių teisės normų nuostatų, tai sprendžiant kilusius ginčus taikomi [[#^s-39e1aff195b72d9a17b8b9ef|šio straipsnio 1 dalyje]] išvardyti principai. ^s-acc95940c190de77cd18e7df
 
 
 
@@ -585,7 +585,7 @@ Nr. XV-583, 2025-11-25, paskelbta TAR 2025-12-04, i. k. 2025-20654
 a) šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnio]] 1 ir 2 punktuose nurodytų įstaigų ar įmonių teikiamas mokamas asmens sveikatos priežiūros paslaugas, išskyrus šio punkto b papunktyje nurodytas paslaugas. Šių paslaugų kainų apskaičiavimo metodiką ir paslaugų teikimo tvarką nustato sveikatos apsaugos ministras. Šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnio]] 1 ir 2 punktuose nurodytų įstaigų ar įmonių vadovai, suderinę su sveikatos apsaugos ministro įgaliota įstaiga ir šių įstaigų ar įmonių dalyvio teises bei pareigas įgyvendinančiu subjektu, tvirtina šių paslaugų sąrašą ir nustato jų kainas. Kaip laikomasi šiame papunktyje nustatytų reikalavimų, prižiūri šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnio]] 1 ir 2 punktuose nurodytų įstaigų ar įmonių dalyvio teises bei pareigas įgyvendinantis subjektas;
 
 
-b) šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnyje]] nurodytų įstaigų ir įmonių teikiamas asmens sveikatos priežiūros paslaugas, dėl kurių teikimo ir apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis šios įstaigos ir įmonės yra sudariusios sutartis su Valstybine ligonių kasa, tačiau pacientas neatitinka šiame įstatyme nustatytų šių paslaugų gavimo sąlygų. Sveikatos apsaugos ministras tvirtina šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnio]] 1 ir 2 punktuose nurodytų įstaigų ir įmonių teikiamų šiame papunktyje nurodytų asmens sveikatos priežiūros paslaugų kainų apskaičiavimo metodiką. Šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnio]] 1 ir 2 punktuose nurodytų įstaigų ar įmonių vadovai, suderinę su įstaigos ar įmonės dalyvio teises bei pareigas įgyvendinančiu subjektu, tvirtina savo teikiamų mokamų asmens sveikatos priežiūros paslaugų sąrašą ir nustato jų kainas. Šio įstatymo [[#^s-f4c98be352a5eccad74dcc48|8 straipsnio 3 punkte]] nurodytų įstaigų ir įmonių teikiamų mokamų asmens sveikatos priežiūros paslaugų sąrašas ir kainos nustatomi šių įstaigų ir įmonių įstatuose nustatyta tvarka. Šių paslaugų teikimo ir šiame papunktyje nustatytų reikalavimų laikymosi priežiūros tvarką nustato sveikatos apsaugos ministras;
+b) šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnyje]] nurodytų įstaigų ir įmonių teikiamas asmens sveikatos priežiūros paslaugas, dėl kurių teikimo ir apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis šios įstaigos ir įmonės yra sudariusios sutartis su Valstybine ligonių kasa, tačiau pacientas neatitinka šiame įstatyme nustatytų šių paslaugų gavimo sąlygų. Sveikatos apsaugos ministras tvirtina šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnio]] 1 ir 2 punktuose nurodytų įstaigų ir įmonių teikiamų šiame papunktyje nurodytų asmens sveikatos priežiūros paslaugų kainų apskaičiavimo metodiką. Šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnio]] 1 ir 2 punktuose nurodytų įstaigų ar įmonių vadovai, suderinę su įstaigos ar įmonės dalyvio teises bei pareigas įgyvendinančiu subjektu, tvirtina savo teikiamų mokamų asmens sveikatos priežiūros paslaugų sąrašą ir nustato jų kainas. Šio įstatymo 8 straipsnio 3 punkte nurodytų įstaigų ir įmonių teikiamų mokamų asmens sveikatos priežiūros paslaugų sąrašas ir kainos nustatomi šių įstaigų ir įmonių įstatuose nustatyta tvarka. Šių paslaugų teikimo ir šiame papunktyje nustatytų reikalavimų laikymosi priežiūros tvarką nustato sveikatos apsaugos ministras;
 
 
 c) šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnio]] 1 ir 2 punktuose nurodytų įstaigų ir įmonių teikiamas mokamas visuomenės sveikatos priežiūros paslaugas. Sveikatos apsaugos ministras tvirtina šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnio]] 1 ir 2 punktuose nurodytų įstaigų ir įmonių teikiamų mokamų visuomenės sveikatos priežiūros paslaugų sąrašą ir šių paslaugų kainų apskaičiavimo ir indeksavimo metodiką bei nustato šių paslaugų teikimo tvarką, o šių paslaugų kainas nustato šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnio]] 1 ir 2 punktuose nurodytų įstaigų ir įmonių vadovai, suderinę su įstaigos ar įmonės dalyvio teises bei pareigas įgyvendinančiu subjektu. Kaip laikomasi šiame papunktyje nustatytų reikalavimų, prižiūri šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnio]] 1 ir 2 punktuose nurodytų įstaigų ir įmonių dalyvio teises bei pareigas įgyvendinantis subjektas;
@@ -603,7 +603,7 @@ c) šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnio]] 1 ir 2 punktuose
 1) šio įstatymo [[#^s-e582a812a52fcd6814f2f367|8 straipsnyje]] nenurodytų įstaigų ir įmonių teikiamų mokamų asmens ir visuomenės sveikatos priežiūros paslaugų kainos; ^s-8eb204e7ef7609e9cee42b02
 
 
-2) šio įstatymo [[#^s-f4c98be352a5eccad74dcc48|8 straipsnio 3 punkte]] nurodytų įstaigų ir įmonių teikiamų asmens sveikatos priežiūros paslaugų, dėl kurių jos nėra sudariusios sutarčių su Valstybine ligonių kasa arba kitais LNSS veiklos užsakovais, ir mokamų visuomenės sveikatos priežiūros paslaugų kainos. ^s-0dad63561767cfce15cd055c
+2) šio įstatymo 8 straipsnio 3 punkte nurodytų įstaigų ir įmonių teikiamų asmens sveikatos priežiūros paslaugų, dėl kurių jos nėra sudariusios sutarčių su Valstybine ligonių kasa arba kitais LNSS veiklos užsakovais, ir mokamų visuomenės sveikatos priežiūros paslaugų kainos. ^s-0dad63561767cfce15cd055c
 
 
 5. [[#^s-83813d2c17ee2e0c286c04b5|Šio straipsnio 2 dalies 2 punkte]] nurodytos įstaigos ir įmonės [[#^s-83813d2c17ee2e0c286c04b5|šio straipsnio 2 dalies 2 punkte]] nurodytų mokamų asmens sveikatos priežiūros paslaugų sąrašus ir kainas ir mokamų visuomenės sveikatos priežiūros paslaugų kainas viešai skelbia savo interneto svetainėse. Pacientai [[#^s-83813d2c17ee2e0c286c04b5|šio straipsnio 2 dalies 2 punkte]] nurodytos įstaigos ar įmonės nustatyta tvarka turi teisę susipažinti, kaip apskaičiuotos mokamų asmens ir visuomenės sveikatos priežiūros paslaugų kainos. ^s-0fb2f7fbf0b2d79df3436be6
@@ -1049,7 +1049,7 @@ Pacientų atrankos ir siuntimo į medicininės reabilitacijos ir sanatorinio gyd
 6. Užsienyje įgyta slaugytojo padėjėjo profesinė kvalifikacija pripažįstama [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo]] ir kitų teisės aktų, reglamentuojančių profesinių kvalifikacijų pripažinimą, nustatyta tvarka. ^s-cc6942f8b6183eec79dccbb2
 
 
-7. Slaugytojo padėjėjo profesinio mokymo modulinės programos apimtį, slaugytojų padėjėjų kvalifikacijos tobulinimo tvarką ir kompetenciją teikiant slaugos paslaugas, vadovaudamasis šio įstatymo [[#^s-eb513991ee469c8da648cff9|14 straipsnio 5 punktu]] ir [[#^s-ce290f0c63af2ae5ef455ab7|16 straipsnio 7 dalimi]], nustato sveikatos apsaugos ministras. ^s-f5a7b306904851db7d23bb6d
+7. Slaugytojo padėjėjo profesinio mokymo modulinės programos apimtį, slaugytojų padėjėjų kvalifikacijos tobulinimo tvarką ir kompetenciją teikiant slaugos paslaugas, vadovaudamasis šio įstatymo 14 straipsnio 5 punktu ir [[#^s-ce290f0c63af2ae5ef455ab7|16 straipsnio 7 dalimi]], nustato sveikatos apsaugos ministras. ^s-f5a7b306904851db7d23bb6d
 
 
 Straipsnio pakeitimai:
@@ -1743,7 +1743,7 @@ Nr. X-298, 2005-06-30, Žin., 2005, Nr. 85-3142 (2005-07-14)
 paslaugų teikimo LNSS įstaigose tvarka
 
 
-1. Teisę gauti valstybės laiduojamą (nemokamą) asmens sveikatos priežiūrą, nurodytą šio įstatymo [[#^s-bd2c95b1d3893e9281a6dba2|47 straipsnio 2 dalies]] 1–3 ir 9 punktuose, turi tik Lietuvos Respublikos, kitų valstybių piliečiai ir asmenys be pilietybės, nuolat gyvenantys Lietuvoje (toliau – nuolatiniai gyventojai), o valstybės laiduojamą (nemokamą) asmens sveikatos priežiūrą, nurodytą šio įstatymo [[#^s-bd2c95b1d3893e9281a6dba2|47 straipsnio 2 dalies]] 7 ir 8 punktuose, – asmenys, nurodyti [[latest/TAR.94F6B680E8B8|Sveikatos draudimo įstatyme]]. Būtinoji medicinos pagalba ir būtinosios paslaugos LNSS įstaigose teikiamos nemokamai visiems nuolatiniams gyventojams, neatsižvelgiant į tai, ar jie apdrausti privalomuoju sveikatos draudimu, taip pat neatsižvelgiant į paciento apsilankymų įstaigoje per kalendorinius metus skaičių ir jo gyvenamąją vietą. Būtinųjų paslaugų teikimo tvarką nustato sveikatos apsaugos ministras. Užsienio šalių piliečiams, asmenims be pilietybės, nepriskiriamiems nuolatiniams gyventojams ir nenurodytiems šio įstatymo [[#^s-bd2c95b1d3893e9281a6dba2|47 straipsnio 2 dalies]] 4–6 punktuose, LNSS įstaigos teikia būtinąją medicinos pagalbą sveikatos apsaugos ministro nustatyta tvarka, jeigu kitaip nenustato Lietuvos Respublikos tarptautinės sutartys. ^s-896eb3305e302ba574e2a8ec
+1. Teisę gauti valstybės laiduojamą (nemokamą) asmens sveikatos priežiūrą, nurodytą šio įstatymo [[#^s-bd2c95b1d3893e9281a6dba2|47 straipsnio 2 dalies]] [[#^s-26a028468cb5404bc6e60263|1]]–[[#^s-7a338a7f2fea3706dcb6ece7|3]] ir [[#^s-135ff52679167ae4cd4d8a0d|9]] punktuose, turi tik Lietuvos Respublikos, kitų valstybių piliečiai ir asmenys be pilietybės, nuolat gyvenantys Lietuvoje (toliau – nuolatiniai gyventojai), o valstybės laiduojamą (nemokamą) asmens sveikatos priežiūrą, nurodytą šio įstatymo [[#^s-bd2c95b1d3893e9281a6dba2|47 straipsnio 2 dalies]] [[#^s-029dbdd163832eecf8abc05b|7]] ir [[#^s-630c5e4eb9d4e6518bf706f7|8]] punktuose, – asmenys, nurodyti [[latest/TAR.94F6B680E8B8|Sveikatos draudimo įstatyme]]. Būtinoji medicinos pagalba ir būtinosios paslaugos LNSS įstaigose teikiamos nemokamai visiems nuolatiniams gyventojams, neatsižvelgiant į tai, ar jie apdrausti privalomuoju sveikatos draudimu, taip pat neatsižvelgiant į paciento apsilankymų įstaigoje per kalendorinius metus skaičių ir jo gyvenamąją vietą. Būtinųjų paslaugų teikimo tvarką nustato sveikatos apsaugos ministras. Užsienio šalių piliečiams, asmenims be pilietybės, nepriskiriamiems nuolatiniams gyventojams ir nenurodytiems šio įstatymo [[#^s-bd2c95b1d3893e9281a6dba2|47 straipsnio 2 dalies]] [[#^s-909b8f5392f53aa83039bc3b|4]]–[[#^s-e9036a0cde31a85569e474e0|6]] punktuose, LNSS įstaigos teikia būtinąją medicinos pagalbą sveikatos apsaugos ministro nustatyta tvarka, jeigu kitaip nenustato Lietuvos Respublikos tarptautinės sutartys. ^s-896eb3305e302ba574e2a8ec
 Straipsnio dalies pakeitimai:
 Nr. XIV-1043, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08798
 Nr. XIV-1637, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25404
@@ -2033,13 +2033,13 @@ MEDICINOS PRIEMONIŲ RINKOS SUBJEKTŲ VEIKLOS REGULIAVIMAS IR PRIEŽIŪRA
 ### 591 straipsnis. Medicinos priemonių pateikimas rinkai ir tiekimas ^s-259901006ce69bce39fbd50e
 
 
-1. Lietuvos Respublikos rinkai gali būti pateikiamos ir tiekiamos tik Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimus atitinkančios medicinos priemonės ([[#^s-7da268176f99ed115d5b1913|šio straipsnio 3 dalyje]] nurodytos medicinos priemonės taip pat turi būti įregistruotos [[#^s-7da268176f99ed115d5b1913|šio straipsnio 3 dalyje]] nustatyta tvarka, o [[#^s-6299eb566b707dc4df54e1d4|šio straipsnio 10 dalyje]] nurodyti asmenys registruoti pagal tos dalies reikalavimus). Sveikatos apsaugos ministras išskirtiniais atvejais, kai nėra būtinų lygiaverčių ar alternatyvių Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimus atitinkančių medicinos priemonių, gali leisti pateikti Lietuvos Respublikos rinkai medicinos priemones, kurioms nebuvo pritaikytos Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 atitikties įvertinimo procedūros, tačiau tos medicinos priemonės reikalingos sveikatos apsaugai užtikrinti. ^s-925ae3aa46ab3a15a0be2f4b
+1. Lietuvos Respublikos rinkai gali būti pateikiamos ir tiekiamos tik [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) reikalavimus atitinkančios medicinos priemonės ([[#^s-7da268176f99ed115d5b1913|šio straipsnio 3 dalyje]] nurodytos medicinos priemonės taip pat turi būti įregistruotos [[#^s-7da268176f99ed115d5b1913|šio straipsnio 3 dalyje]] nustatyta tvarka, o [[#^s-6299eb566b707dc4df54e1d4|šio straipsnio 10 dalyje]] nurodyti asmenys registruoti pagal tos dalies reikalavimus). Sveikatos apsaugos ministras išskirtiniais atvejais, kai nėra būtinų lygiaverčių ar alternatyvių [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) reikalavimus atitinkančių medicinos priemonių, gali leisti pateikti Lietuvos Respublikos rinkai medicinos priemones, kurioms nebuvo pritaikytos [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) atitikties įvertinimo procedūros, tačiau tos medicinos priemonės reikalingos sveikatos apsaugai užtikrinti. ^s-925ae3aa46ab3a15a0be2f4b
 
 
-2. Medicinos priemonių pateikimo rinkai, tiekimo reikalavimus nustato Reglamentas (ES) 2017/745 arba Reglamentas (ES) 2017/746, šis įstatymas ir sveikatos apsaugos ministro ar jo įgaliotos institucijos patvirtinti teisės aktai. ^s-b0f0c0d18ac996514b47dbb8
+2. Medicinos priemonių pateikimo rinkai, tiekimo reikalavimus nustato [Reglamentas (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamentas (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj), šis įstatymas ir sveikatos apsaugos ministro ar jo įgaliotos institucijos patvirtinti teisės aktai. ^s-b0f0c0d18ac996514b47dbb8
 
 
-3. Medicinos priemonių gamintojai, turintys buveinę Lietuvos Respublikoje, prieš pateikdami rinkai savo vardu pagal užsakymą gaminamas medicinos priemones, sveikatos apsaugos ministro įgaliotai institucijai per atstumą, elektroninėmis priemonėmis per [[latest/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatyme]] nurodytą kontaktinį centrą (toliau – kontaktinis centras) arba kreipdamiesi tiesiogiai turi pateikti dokumentus su duomenimis apie savo buveinės adresą, medicinos priemonių techniniais duomenimis ir norimų įregistruoti medicinos priemonių atitiktį Reglamentui (ES) 2017/745 įrodančius dokumentus. Sveikatos apsaugos ministro įgaliota institucija ne vėliau kaip per 20 darbo dienų nuo reikalaujamų dokumentų gavimo dienos raštu informuoja asmenį apie priimtą sprendimą dėl pateikiamų rinkai medicinos priemonių įregistravimo ir registracijos numerio suteikimo arba atsisakymo jas įregistruoti. Į šį terminą neįskaitomas (neįskaitomi) laikotarpis (laikotarpiai), kai per [[#^s-9e312e6e7393a0ece1d41867|šio straipsnio 7 dalyje]] nurodytą terminą šalinami nustatyti trūkumai. Šioje dalyje nurodyti dokumentai teikiami sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka. ^s-7da268176f99ed115d5b1913
+3. Medicinos priemonių gamintojai, turintys buveinę Lietuvos Respublikoje, prieš pateikdami rinkai savo vardu pagal užsakymą gaminamas medicinos priemones, sveikatos apsaugos ministro įgaliotai institucijai per atstumą, elektroninėmis priemonėmis per [[latest/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatyme]] nurodytą kontaktinį centrą (toliau – kontaktinis centras) arba kreipdamiesi tiesiogiai turi pateikti dokumentus su duomenimis apie savo buveinės adresą, medicinos priemonių techniniais duomenimis ir norimų įregistruoti medicinos priemonių atitiktį [Reglamentui (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) įrodančius dokumentus. Sveikatos apsaugos ministro įgaliota institucija ne vėliau kaip per 20 darbo dienų nuo reikalaujamų dokumentų gavimo dienos raštu informuoja asmenį apie priimtą sprendimą dėl pateikiamų rinkai medicinos priemonių įregistravimo ir registracijos numerio suteikimo arba atsisakymo jas įregistruoti. Į šį terminą neįskaitomas (neįskaitomi) laikotarpis (laikotarpiai), kai per [[#^s-9e312e6e7393a0ece1d41867|šio straipsnio 7 dalyje]] nurodytą terminą šalinami nustatyti trūkumai. Šioje dalyje nurodyti dokumentai teikiami sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka. ^s-7da268176f99ed115d5b1913
 
 
 4. Jeigu medicinos priemonės gamintojas neturi buveinės Europos ekonominės erdvės valstybėje, duomenis pagal [[#^s-7da268176f99ed115d5b1913|šio straipsnio 3 dalį]] turi pateikti medicinos priemonės gamintojo įgaliotas atstovas, turintis buveinę Lietuvos Respublikoje. ^s-d7ea15f5eba4381ebadbddd8
@@ -2060,7 +2060,7 @@ MEDICINOS PRIEMONIŲ RINKOS SUBJEKTŲ VEIKLOS REGULIAVIMAS IR PRIEŽIŪRA
 3) pateikti suklastoti dokumentai; ^s-4af8c6836922e945a3127ad4
 
 
-4) medicinos priemonės neatitinka Reglamento (ES) 2017/745 reikalavimų ir asmuo per 30 dienų nuo pranešimo apie trūkumus gavimo dienos nepašalina nurodytų trūkumų. ^s-8f41a80103db42708c754900
+4) medicinos priemonės neatitinka [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) reikalavimų ir asmuo per 30 dienų nuo pranešimo apie trūkumus gavimo dienos nepašalina nurodytų trūkumų. ^s-8f41a80103db42708c754900
 
 
 7. Sveikatos apsaugos ministro įgaliota institucija priima sprendimą sustabdyti [[#^s-7da268176f99ed115d5b1913|šio straipsnio 3 dalyje]] nurodytą medicinos priemonių registracijos galiojimą 90 dienų terminui nuo šio sprendimo priėmimo dienos, jeigu: ^s-9e312e6e7393a0ece1d41867
@@ -2069,10 +2069,10 @@ MEDICINOS PRIEMONIŲ RINKOS SUBJEKTŲ VEIKLOS REGULIAVIMAS IR PRIEŽIŪRA
 1) yra gautas šio straipsnio 3 ir (arba) [[#^s-d7ea15f5eba4381ebadbddd8|4 dalyse]] nurodyto asmens prašymas arba, sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pateikus užklausą, iš šio asmens per 90 dienų nuo užklausos pateikimo dienos nebuvo gautas patvirtinimas apie vykdomą medicinos priemonių rinkos subjekto veiklą; ^s-e0a1acee5f490859f937d0b8
 
 
-2) nustatoma, kad įregistruotos medicinos priemonės neatitinka Reglamento (ES) 2017/745 reikalavimų ir asmuo per 30 dienų nuo pranešimo apie trūkumus gavimo dienos nepašalina nurodytų trūkumų; ^s-086a550776fdbcf4a3d55d57
+2) nustatoma, kad įregistruotos medicinos priemonės neatitinka [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) reikalavimų ir asmuo per 30 dienų nuo pranešimo apie trūkumus gavimo dienos nepašalina nurodytų trūkumų; ^s-086a550776fdbcf4a3d55d57
 
 
-3) šio straipsnio 3 ir (arba) [[#^s-d7ea15f5eba4381ebadbddd8|4 dalyse]] nurodyti asmenys nesilaiko šio įstatymo ir Reglamento (ES) 2017/745 reikalavimų ir asmuo per 30 dienų nuo pranešimo apie trūkumus gavimo dienos nepašalina nurodytų trūkumų. ^s-600f65df946d196e6ee67b19
+3) šio straipsnio 3 ir (arba) [[#^s-d7ea15f5eba4381ebadbddd8|4 dalyse]] nurodyti asmenys nesilaiko šio įstatymo ir [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) reikalavimų ir asmuo per 30 dienų nuo pranešimo apie trūkumus gavimo dienos nepašalina nurodytų trūkumų. ^s-600f65df946d196e6ee67b19
 
 
 8. Sprendimas panaikinti [[#^s-7da268176f99ed115d5b1913|šio straipsnio 3 dalyje]] nurodytų medicinos priemonių registracijos galiojimo sustabdymą priimamas, kai šio straipsnio 3 ir (arba) [[#^s-d7ea15f5eba4381ebadbddd8|4 dalyse]] nurodyti asmenys per 90 dienų terminą nuo sprendimo sustabdyti registracijos galiojimą gavimo dienos kreipiasi dėl medicinos priemonių registracijos galiojimo sustabdymo panaikinimo, jeigu medicinos priemonių registracijos galiojimas buvo sustabdytas [[#^s-e0a1acee5f490859f937d0b8|šio straipsnio 7 dalies 1 punkte]] nurodytu pagrindu, arba kreipiasi dėl medicinos priemonių registracijos galiojimo sustabdymo panaikinimo ir pašalina trūkumus, dėl kurių buvo sustabdytas medicinos priemonių registracijos galiojimas, jeigu medicinos priemonių registracijos galiojimas buvo sustabdytas [[#^s-9e312e6e7393a0ece1d41867|šio straipsnio 7 dalies]] 2 ir 3 punktuose nurodytais pagrindais. ^s-d58a471b16e4658a290ad128
@@ -2081,7 +2081,7 @@ MEDICINOS PRIEMONIŲ RINKOS SUBJEKTŲ VEIKLOS REGULIAVIMAS IR PRIEŽIŪRA
 9. Draudžiama pateikti rinkai medicinos priemones jų registracijos galiojimo sustabdymo laikotarpiu. ^s-d10bd7f969ac3c91f5c905bd
 
 
-10. Medicinos priemonių gamintojai, medicinos priemonių gamintojų įgaliotieji atstovai, medicinos priemonių importuotojai, sistemas ar procedūrinius rinkinius surenkantys ir (arba) sterilizuojantys asmenys, turintys buveinę Lietuvos Respublikoje, prieš pateikdami rinkai medicinos priemones, išskyrus pagal užsakymą pagamintas medicinos priemones, turi registruotis Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nustatyta tvarka. ^s-6299eb566b707dc4df54e1d4
+10. Medicinos priemonių gamintojai, medicinos priemonių gamintojų įgaliotieji atstovai, medicinos priemonių importuotojai, sistemas ar procedūrinius rinkinius surenkantys ir (arba) sterilizuojantys asmenys, turintys buveinę Lietuvos Respublikoje, prieš pateikdami rinkai medicinos priemones, išskyrus pagal užsakymą pagamintas medicinos priemones, turi registruotis [Reglamente (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamente (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) nustatyta tvarka. ^s-6299eb566b707dc4df54e1d4
 
 
 11. Sveikatos apsaugos ministro įgaliota institucija panaikina [[#^s-7da268176f99ed115d5b1913|šio straipsnio 3 dalyje]] nurodytų medicinos priemonių registracijos galiojimą, jeigu: ^s-4468f809cbfaad3a97512fac
@@ -2106,7 +2106,7 @@ MEDICINOS PRIEMONIŲ RINKOS SUBJEKTŲ VEIKLOS REGULIAVIMAS IR PRIEŽIŪRA
 
 
 13. Sustabdžius medicinos priemonių registracijos galiojimą [[#^s-9e312e6e7393a0ece1d41867|šio straipsnio 7 dalies]] 2 ar 3 punkte nurodytais pagrindais arba panaikinus medicinos priemonių registracijos galiojimą [[#^s-4468f809cbfaad3a97512fac|šio straipsnio 11 dalies]] 3 ar 4 punkte nurodytais pagrindais, atsižvelgiant į nustatyto pažeidimo pobūdį pagal šio įstatymo [[#^s-254472fa5bf51678e6212423|596 straipsnio 2 dalį]], kartu taikomos šio įstatymo [[#^s-6f74f2dbff39b1af7d0aceb7|596 straipsnio 1 dalies]] 2 ir (arba) 3 punktuose nurodytos poveikio priemonės. ^s-8026dd81d00810b720a3df2a
-TAR pastaba. [[#^s-259901006ce69bce39fbd50e|591 straipsnis]] įsigalioja po 6 mėnesių nuo Europos Komisijos pranešimo, kad Europos medicinos priemonių duomenų bazė EUDAMED visiškai atlieka savo funkcijas ir atitinka 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, [[#^s-408a0e0ce26fdb408d88debc|34 straipsnio 1 dalyje]] nustatytas funkcines specifikacijas paskelbimo dienos (įsigalioja 2026-05-28, gautas Sveikatos apsaugos ministerijos raštas).
+TAR pastaba. [[#^s-259901006ce69bce39fbd50e|591 straipsnis]] įsigalioja po 6 mėnesių nuo Europos Komisijos pranešimo, kad Europos medicinos priemonių duomenų bazė EUDAMED visiškai atlieka savo funkcijas ir atitinka 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos [reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir [Reglamentas (EB) Nr. 1223/2009](https://eur-lex.europa.eu/eli/reg/1223/2009/oj), ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, [[#^s-408a0e0ce26fdb408d88debc|34 straipsnio 1 dalyje]] nustatytas funkcines specifikacijas paskelbimo dienos (įsigalioja 2026-05-28, gautas Sveikatos apsaugos ministerijos raštas).
 
 
 ### 592 straipsnis. Medicinos priemonių naudojimas ir techninės būklės tikrinimas ^s-6ac4ebce68de373344394ca8
@@ -2115,7 +2115,7 @@ TAR pastaba. [[#^s-259901006ce69bce39fbd50e|591 straipsnis]] įsigalioja po 6 m�
 1. Lietuvos Respublikoje galima pradėti naudoti tik šio įstatymo [[#^s-925ae3aa46ab3a15a0be2f4b|591 straipsnio 1 dalyje]] nurodytus reikalavimus atitinkančias medicinos priemones. ^s-7a6d03185946b0da23b01f30
 
 
-2. Medicinos priemonės turi būti naudojamos Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, šio įstatymo ir sveikatos apsaugos ministro nustatyta tvarka. Sveikatos apsaugos ministras išskirtiniais atvejais, kai nėra būtinų lygiaverčių ar alternatyvių Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimus atitinkančių medicinos priemonių, gali leisti pradėti naudoti medicinos priemones, kurioms nebuvo pritaikytos Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 atitikties įvertinimo procedūros, tačiau tos medicinos priemonės reikalingos sveikatos apsaugai užtikrinti. ^s-e9dd8a2cc933ce2861a8af4e
+2. Medicinos priemonės turi būti naudojamos [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj), šio įstatymo ir sveikatos apsaugos ministro nustatyta tvarka. Sveikatos apsaugos ministras išskirtiniais atvejais, kai nėra būtinų lygiaverčių ar alternatyvių [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) reikalavimus atitinkančių medicinos priemonių, gali leisti pradėti naudoti medicinos priemones, kurioms nebuvo pritaikytos [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) atitikties įvertinimo procedūros, tačiau tos medicinos priemonės reikalingos sveikatos apsaugai užtikrinti. ^s-e9dd8a2cc933ce2861a8af4e
 Straipsnio dalies pakeitimai:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
@@ -2194,7 +2194,7 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 3) nustatoma, kad pažymėjimą, suteikiantį teisę atlikti medicinos priemonių techninės būklės tikrinimą, turintis asmuo pateikė suklastotus dokumentus; ^s-0c88b26300f8a830305d1f34
 
 
-4) asmuo per [[#^s-660558861da03b501270b820|šio straipsnio 8 dalyje]] nustatytą terminą nepašalino trūkumų, dėl kurių buvo sustabdytas [[#^s-3d9ca60fe85c4d9d83361f75|šio straipsnio 3 dalyje]] nurodyto pažymėjimo galiojimas, ir nesikreipė dėl [[#^s-3d9ca60fe85c4d9d83361f75|šio straipsnio 3 dalyje]] nurodyto pažymėjimo galiojimo sustabdymo panaikinimo, kai šio pažymėjimo galiojimas buvo sustabdytas [[#^s-aaeae063dd3d0ede9f837c9d|šio straipsnio 7 dalies]] 2 ar [[#^s-0c88b26300f8a830305d1f34|3 punkte]] nurodytu pagrindu; ^s-966507e67d33772017c67518
+4) asmuo per [[#^s-660558861da03b501270b820|šio straipsnio 8 dalyje]] nustatytą terminą nepašalino trūkumų, dėl kurių buvo sustabdytas [[#^s-3d9ca60fe85c4d9d83361f75|šio straipsnio 3 dalyje]] nurodyto pažymėjimo galiojimas, ir nesikreipė dėl [[#^s-3d9ca60fe85c4d9d83361f75|šio straipsnio 3 dalyje]] nurodyto pažymėjimo galiojimo sustabdymo panaikinimo, kai šio pažymėjimo galiojimas buvo sustabdytas [[#^s-aaeae063dd3d0ede9f837c9d|šio straipsnio 7 dalies]] [[#^s-b05bcc1cb6430eed94f3b28b|2]] ar [[#^s-0c88b26300f8a830305d1f34|3]] punkte nurodytu pagrindu; ^s-966507e67d33772017c67518
 
 
 5) per [[#^s-660558861da03b501270b820|šio straipsnio 8 dalyje]] nustatytą terminą asmuo nesikreipė dėl [[#^s-3d9ca60fe85c4d9d83361f75|šio straipsnio 3 dalyje]] nurodyto pažymėjimo galiojimo sustabdymo panaikinimo, kai šio pažymėjimo galiojimas buvo sustabdytas [[#^s-e7956ab0ac017274bf0dbfe9|šio straipsnio 7 dalies 1 punkte]] nurodytu pagrindu. ^s-a6e9043054229932c1a23308
@@ -2222,7 +2222,7 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 2. [[#^s-1d5ad90bb4921078fe22aa20|Šio straipsnio 1 dalyje]] nurodyti asmenys, siekdami gauti laisvos prekybos sertifikatą dėl konkrečių medicinos priemonių, kurios atitinka šio įstatymo [[#^s-925ae3aa46ab3a15a0be2f4b|591 straipsnio 1 dalyje]] nurodytus reikalavimus, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka sveikatos apsaugos ministro įgaliotai institucijai per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba kreipdamiesi tiesiogiai pateikia paraišką išduoti laisvos prekybos sertifikatą ir atitiktį šio įstatymo [[#^s-925ae3aa46ab3a15a0be2f4b|591 straipsnio 1 dalyje]] nurodytiems reikalavimams įrodančius dokumentus. Atitiktį šio įstatymo [[#^s-925ae3aa46ab3a15a0be2f4b|591 straipsnio 1 dalyje]] nurodytiems reikalavimams įrodančių dokumentų pateikti nereikia asmenims, šio įstatymo [[#^s-7da268176f99ed115d5b1913|591 straipsnio 3 dalyje]] nustatyta tvarka įregistravusiems medicinos priemones. ^s-15567f8ffc9f1c16d0207330
 
 
-3. Laisvos prekybos sertifikatas galioja tiek, kiek galioja medicinos priemonės, dėl kurios išduotas laisvos prekybos sertifikatas, atitiktį Reglamentui (ES) 2017/745 arba Reglamentui (ES) 2017/746 įrodantys dokumentai, arba galioja neterminuotai, jeigu atitiktį Reglamentui (ES) 2017/745 arba Reglamentui (ES) 2017/746 įrodančių dokumentų galiojimo terminas nenurodytas. ^s-b74d7c0c95a7e3c04eaacdc6
+3. Laisvos prekybos sertifikatas galioja tiek, kiek galioja medicinos priemonės, dėl kurios išduotas laisvos prekybos sertifikatas, atitiktį [Reglamentui (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamentui (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) įrodantys dokumentai, arba galioja neterminuotai, jeigu atitiktį [Reglamentui (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamentui (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) įrodančių dokumentų galiojimo terminas nenurodytas. ^s-b74d7c0c95a7e3c04eaacdc6
 Straipsnio dalies pakeitimai:
 Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
@@ -2271,14 +2271,14 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
 
 9. Sustabdžius laisvos prekybos sertifikato, išduoto dėl medicinos priemonių, nurodytų šio įstatymo [[#^s-7da268176f99ed115d5b1913|591 straipsnio 3 dalyje]], galiojimą [[#^s-a491e749c76d3a09aee29f6f|šio straipsnio 6 dalies 2 punkte]] nurodytu pagrindu arba panaikinus jo galiojimą [[#^s-0342f619a6f0ac2a1d7714a7|šio straipsnio 8 dalies]] 2 arba 3 punkte nurodytais pagrindais, kartu taikomos šio įstatymo [[#^s-259901006ce69bce39fbd50e|591 straipsnio]] nuostatos dėl tokios medicinos priemonės registracijos galiojimo sustabdymo arba panaikinimo ir, atsižvelgus į nustatyto pažeidimo pobūdį pagal šio įstatymo [[#^s-254472fa5bf51678e6212423|596 straipsnio 2 dalį]], šio įstatymo [[#^s-6f74f2dbff39b1af7d0aceb7|596 straipsnio 1 dalies]] 2 ir (arba) 3 punktuose nurodytos poveikio priemonės. ^s-0fd8694306227fb01c0ca9c2
-TAR pastaba. [[#^s-0fd8694306227fb01c0ca9c2|593 straipsnio 9 dalies]] redakcija įsigalioja po 6 mėnesių nuo Europos Komisijos pranešimo, kad Europos medicinos priemonių duomenų bazė EUDAMED visiškai atlieka savo funkcijas ir atitinka 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, [[#^s-408a0e0ce26fdb408d88debc|34 straipsnio 1 dalyje]] nustatytas funkcines specifikacijas, paskelbimo dienos (įsigalioja 2026-05-28, gautas Sveikatos apsaugos ministerijos raštas).
+TAR pastaba. 593 straipsnio 9 dalies redakcija įsigalioja po 6 mėnesių nuo Europos Komisijos pranešimo, kad Europos medicinos priemonių duomenų bazė EUDAMED visiškai atlieka savo funkcijas ir atitinka 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos [reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir [Reglamentas (EB) Nr. 1223/2009](https://eur-lex.europa.eu/eli/reg/1223/2009/oj), ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, [[#^s-408a0e0ce26fdb408d88debc|34 straipsnio 1 dalyje]] nustatytas funkcines specifikacijas, paskelbimo dienos (įsigalioja 2026-05-28, gautas Sveikatos apsaugos ministerijos raštas).
 Straipsnio dalies pakeitimai:
 Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
 
 
 10. Sustabdžius laisvos prekybos sertifikato, išduoto dėl medicinos priemonių, nenurodytų šio įstatymo [[#^s-7da268176f99ed115d5b1913|591 straipsnio 3 dalyje]], galiojimą [[#^s-a491e749c76d3a09aee29f6f|šio straipsnio 6 dalies 2 punkte]] nurodytu pagrindu arba panaikinus jo galiojimą [[#^s-0342f619a6f0ac2a1d7714a7|šio straipsnio 8 dalies]] 2 arba 3 punkte nurodytais pagrindais, atsižvelgus į nustatyto pažeidimo pobūdį pagal šio įstatymo [[#^s-254472fa5bf51678e6212423|596 straipsnio 2 dalį]], kartu taikomos šio įstatymo [[#^s-6f74f2dbff39b1af7d0aceb7|596 straipsnio 1 dalyje]] nurodytos poveikio priemonės. ^s-208e74d9e45f1ba22e006e92
-TAR pastaba. [[#^s-208e74d9e45f1ba22e006e92|593 straipsnio 10 dalies]] redakcija įsigalioja po 6 mėnesių nuo Europos Komisijos pranešimo, kad Europos medicinos priemonių duomenų bazė EUDAMED visiškai atlieka savo funkcijas ir atitinka 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, [[#^s-408a0e0ce26fdb408d88debc|34 straipsnio 1 dalyje]] nustatytas funkcines specifikacijas, paskelbimo dienos (įsigalioja 2026-05-28, gautas Sveikatos apsaugos ministerijos raštas).
+TAR pastaba. 593 straipsnio 10 dalies redakcija įsigalioja po 6 mėnesių nuo Europos Komisijos pranešimo, kad Europos medicinos priemonių duomenų bazė EUDAMED visiškai atlieka savo funkcijas ir atitinka 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos [reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir [Reglamentas (EB) Nr. 1223/2009](https://eur-lex.europa.eu/eli/reg/1223/2009/oj), ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, [[#^s-408a0e0ce26fdb408d88debc|34 straipsnio 1 dalyje]] nustatytas funkcines specifikacijas, paskelbimo dienos (įsigalioja 2026-05-28, gautas Sveikatos apsaugos ministerijos raštas).
 Straipsnio dalies pakeitimai:
 Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
@@ -2307,7 +2307,7 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 3. Sveikatos apsaugos ministro įgaliota institucija, atlikdama medicinos priemonių valstybinės priežiūros veiksmus, turi teisę: ^s-a7222474c24f4eeac30910f2
 
 
-1) atitikties šio įstatymo reikalavimams įvertinimo, poveikio priemonių taikymo ir medicinos priemonių saugos užtikrinimo tikslais gauti iš medicinos priemonių rinkos subjektų, kitų fizinių ir juridinių asmenų visą informaciją, įskaitant asmens duomenis (tarp jų ir asmens kodą bei pacientų sveikatos duomenis), susijusią su medicinos priemonių gamyba, sauga, tiekimu, importu, naudojimu, techninės būklės tikrinimu, pateikimu rinkai, pardavimu. Asmens duomenys tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, reikalavimų ir saugomi [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymo]] bei Reglamento (ES) 2016/679 nustatyta tvarka; ^s-97978bda83e68148f3fd63a6
+1) atitikties šio įstatymo reikalavimams įvertinimo, poveikio priemonių taikymo ir medicinos priemonių saugos užtikrinimo tikslais gauti iš medicinos priemonių rinkos subjektų, kitų fizinių ir juridinių asmenų visą informaciją, įskaitant asmens duomenis (tarp jų ir asmens kodą bei pacientų sveikatos duomenis), susijusią su medicinos priemonių gamyba, sauga, tiekimu, importu, naudojimu, techninės būklės tikrinimu, pateikimu rinkai, pardavimu. Asmens duomenys tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, reikalavimų ir saugomi [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymo]] bei [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nustatyta tvarka; ^s-97978bda83e68148f3fd63a6
 Straipsnio punkto pakeitimai:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
@@ -2347,46 +2347,46 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 1) pateikti rinkai tik šio įstatymo [[#^s-925ae3aa46ab3a15a0be2f4b|591 straipsnio 1 dalyje]] nurodytus reikalavimus atitinkančias medicinos priemones; ^s-e8a9b103856123fd4452fd85
 
 
-2) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, pateikti Lietuvos Respublikos valstybine kalba parengtus dokumentus, įrodančius medicinos priemonių atitiktį Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimams, ir medicinos priemonių techninių dokumentų kopijas, patvirtintas įstatymų nustatyta tvarka; ^s-e2e7d3e94fea1c52d42f3d82
+2) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, pateikti Lietuvos Respublikos valstybine kalba parengtus dokumentus, įrodančius medicinos priemonių atitiktį [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) reikalavimams, ir medicinos priemonių techninių dokumentų kopijas, patvirtintas įstatymų nustatyta tvarka; ^s-e2e7d3e94fea1c52d42f3d82
 
 
 3) užtikrinti, kad medicinos priemonės būtų gaminamos, gabenamos ir laikomos šią veiklą reglamentuojančių teisės aktų nustatyta tvarka; ^s-fd93aa696b43a111dbd4e616
 
 
-4) sužinoję, kad medicinos priemonės neatitinka Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nustatytų reikalavimų, nedelsdami nutraukti jų pateikimą rinkai, atšaukti ir (arba) pašalinti jas iš rinkos, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus bei susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti; ^s-1d92d0d78c9a684731d24d4f
+4) sužinoję, kad medicinos priemonės neatitinka [Reglamente (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamente (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) nustatytų reikalavimų, nedelsdami nutraukti jų pateikimą rinkai, atšaukti ir (arba) pašalinti jas iš rinkos, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus bei susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti; ^s-1d92d0d78c9a684731d24d4f
 
 
-5) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai šiai institucijai reikia patikrinti jų atitiktį šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai, reikalavimams; ^s-9cfe35b606c46e75e100343e
+5) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai šiai institucijai reikia patikrinti jų atitiktį šio įstatymo, [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai, reikalavimams; ^s-9cfe35b606c46e75e100343e
 
 
-6) ne vėliau kaip per mėnesį nuo medicinos priemonės bandymo, kurio metu pagal sveikatos apsaugos ministro įgaliotos institucijos prašymą kompetentingi subjektai įvertina medicinos priemonės techninių charakteristikų atitiktį nustatytiems reikalavimams, išvadų gavimo dienos kompensuoti sveikatos apsaugos ministro įgaliotai institucijai bandymo išlaidas, jeigu atliekant bandymą buvo nustatyta, kad medicinos priemonė neatitinka šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai, reikalavimų, arba jeigu medicinos priemonių rinkos subjektas pageidavo papildomo ar pakartotinio bandymo, o šio bandymo išvados sutampa su pirminio bandymo išvadomis; ^s-38e48dea4ed6cf58f36b0f47
+6) ne vėliau kaip per mėnesį nuo medicinos priemonės bandymo, kurio metu pagal sveikatos apsaugos ministro įgaliotos institucijos prašymą kompetentingi subjektai įvertina medicinos priemonės techninių charakteristikų atitiktį nustatytiems reikalavimams, išvadų gavimo dienos kompensuoti sveikatos apsaugos ministro įgaliotai institucijai bandymo išlaidas, jeigu atliekant bandymą buvo nustatyta, kad medicinos priemonė neatitinka šio įstatymo, [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai, reikalavimų, arba jeigu medicinos priemonių rinkos subjektas pageidavo papildomo ar pakartotinio bandymo, o šio bandymo išvados sutampa su pirminio bandymo išvadomis; ^s-38e48dea4ed6cf58f36b0f47
 
 
 7) sudaryti sveikatos apsaugos ministro įgaliotos institucijos darbuotojams sąlygas patikrinti medicinos priemonių projektavimo, gamybos, surinkimo, sandėliavimo, laikymo, tarnybines patalpas, paimti medicinos priemonių pavyzdžius (arba suteikti prieigą prie jų), juos tirti ir bandyti; ^s-2e7920af512b495835fde2e4
 
 
-8) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus; ^s-48f21f7e32ec7c7ff5271d9f
+8) [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj), sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus; ^s-48f21f7e32ec7c7ff5271d9f
 
 
-9) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie klinikinių tyrimų arba veiksmingumo tyrimų metu įvykusius nepageidaujamus įvykius, jeigu jie yra atsakingi už klinikinių tyrimų arba veiksmingumo tyrimų organizavimą ir įgyvendinimą (užsakovai); šiame punkte nustatyta tvarka apie nepageidaujamus įvykius turi pranešti ir kiti, medicinos priemonės gamintojo paskirti, asmenys; ^s-1a93b5564110af70b2e6659d
+9) [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj), sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie klinikinių tyrimų arba veiksmingumo tyrimų metu įvykusius nepageidaujamus įvykius, jeigu jie yra atsakingi už klinikinių tyrimų arba veiksmingumo tyrimų organizavimą ir įgyvendinimą (užsakovai); šiame punkte nustatyta tvarka apie nepageidaujamus įvykius turi pranešti ir kiti, medicinos priemonės gamintojo paskirti, asmenys; ^s-1a93b5564110af70b2e6659d
 
 
-10) teikti sveikatos apsaugos ministro įgaliotai institucijai šio įstatymo [[#^s-259901006ce69bce39fbd50e|591 straipsnio]] 3, [[#^s-62767b9f844d750e78155029|4 dalyse]] nurodytą informaciją ir registruotis šio įstatymo [[#^s-6299eb566b707dc4df54e1d4|591 straipsnio 10 dalyje]] nustatyta tvarka; ^s-988f12586e4ad31b876ea941
+10) teikti sveikatos apsaugos ministro įgaliotai institucijai šio įstatymo [[#^s-259901006ce69bce39fbd50e|591 straipsnio]] [[#^s-7da268176f99ed115d5b1913|3]], [[#^s-d7ea15f5eba4381ebadbddd8|4]] dalyse nurodytą informaciją ir registruotis šio įstatymo [[#^s-6299eb566b707dc4df54e1d4|591 straipsnio 10 dalyje]] nustatyta tvarka; ^s-988f12586e4ad31b876ea941
 
 
 11) teikti sveikatos apsaugos ministro įgaliotai institucijai informaciją apie šio įstatymo [[#^s-7da268176f99ed115d5b1913|591 straipsnio 3 dalyje]] nurodytų duomenų pasikeitimą ir šio įstatymo [[#^s-7da268176f99ed115d5b1913|591 straipsnio 3 dalyje]] nurodyta tvarka įregistruotų medicinos priemonių pateikimo rinkai nutraukimą; ^s-5eaf96eeab0a76a28b6668ba
 
 
-12) prie pateikiamos rinkai medicinos priemonės pridėti Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nurodytą informaciją apie medicinos priemonės tinkamą naudojimą ir priežiūrą, parengtą Lietuvos Respublikos valstybine kalba, arba, jeigu informacija skirta tik sveikatos priežiūros specialistams ir sveikatos priežiūros įstaiga, kuriai tiekiama medicinos priemonė, sutinka, anglų kalba; ^s-a366c272aedc2bb71d60c06c
+12) prie pateikiamos rinkai medicinos priemonės pridėti [Reglamente (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamente (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) nurodytą informaciją apie medicinos priemonės tinkamą naudojimą ir priežiūrą, parengtą Lietuvos Respublikos valstybine kalba, arba, jeigu informacija skirta tik sveikatos priežiūros specialistams ir sveikatos priežiūros įstaiga, kuriai tiekiama medicinos priemonė, sutinka, anglų kalba; ^s-a366c272aedc2bb71d60c06c
 
 
-13) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 nustatyta tvarka teikti naudotojams vietos saugos pranešimus, parengtus Lietuvos Respublikos valstybine kalba; ^s-ad1a00458ce85d3d4ebcd671
+13) [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) nustatyta tvarka teikti naudotojams vietos saugos pranešimus, parengtus Lietuvos Respublikos valstybine kalba; ^s-ad1a00458ce85d3d4ebcd671
 
 
-14) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, teikti Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nurodytą informaciją dėl medicinos priemonių atsekamumo tiekimo grandinėje; ^s-3ab5ef44a8841abab87b90e8
+14) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, teikti [Reglamente (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamente (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) nurodytą informaciją dėl medicinos priemonių atsekamumo tiekimo grandinėje; ^s-3ab5ef44a8841abab87b90e8
 
 
-15) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, teikti duomenis apie už atitiktį reglamentuojamiems reikalavimams atsakingus asmenis ir dokumentus, pagrindžiančius šių asmenų atitiktį Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimams; ^s-c6bf95e855f73848cd6396a9
+15) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, teikti duomenis apie už atitiktį reglamentuojamiems reikalavimams atsakingus asmenis ir dokumentus, pagrindžiančius šių asmenų atitiktį [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) reikalavimams; ^s-c6bf95e855f73848cd6396a9
 
 
 16) vykdyti kitas [[#^s-62767b9f844d750e78155029|šio straipsnio 4 dalyje]] nurodytas pareigas. ^s-39a3e2b5b9e4e9a8548b99f2
@@ -2404,13 +2404,13 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 3) užtikrinti, kad medicinos priemonės būtų gabenamos, laikomos, tiekiamos ir importuojamos vadovaujantis medicinos priemonių gamintojų reikalavimais ir šią veiklą reglamentuojančių teisės aktų nustatyta tvarka; ^s-8205162c8ed7a7982b6da8fa
 
 
-4) sužinoję, kad medicinos priemonės neatitinka Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nustatytų reikalavimų, nedelsdami nutraukti jų tiekimą, importą, atšaukti ir (arba) pašalinti jas iš rinkos, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti; ^s-b8bac172b10c0a6140ccea06
+4) sužinoję, kad medicinos priemonės neatitinka [Reglamente (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamente (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) nustatytų reikalavimų, nedelsdami nutraukti jų tiekimą, importą, atšaukti ir (arba) pašalinti jas iš rinkos, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti; ^s-b8bac172b10c0a6140ccea06
 
 
-5) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai šiai institucijai reikia patikrinti jų atitiktį šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai ir tiekimą, reikalavimams; ^s-a908b02f5ac853c8264653d9
+5) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai šiai institucijai reikia patikrinti jų atitiktį šio įstatymo, [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai ir tiekimą, reikalavimams; ^s-a908b02f5ac853c8264653d9
 
 
-6) ne vėliau kaip per mėnesį nuo medicinos priemonės bandymo, kurio metu pagal sveikatos apsaugos ministro įgaliotos institucijos prašymą kompetentingi subjektai įvertina medicinos priemonės techninių charakteristikų atitiktį nustatytiems reikalavimams, išvadų gavimo dienos kompensuoti sveikatos apsaugos ministro įgaliotai institucijai bandymo išlaidas, jeigu bandymo metu buvo nustatyta, kad medicinos priemonė neatitinka šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių tiekimą, reikalavimų, arba jeigu medicinos priemonių rinkos subjektas pageidavo papildomo ar pakartotinio bandymo, o šio bandymo išvados sutampa su pirminio bandymo išvadomis; ^s-8ddb97a9fd8584059d8ab61f
+6) ne vėliau kaip per mėnesį nuo medicinos priemonės bandymo, kurio metu pagal sveikatos apsaugos ministro įgaliotos institucijos prašymą kompetentingi subjektai įvertina medicinos priemonės techninių charakteristikų atitiktį nustatytiems reikalavimams, išvadų gavimo dienos kompensuoti sveikatos apsaugos ministro įgaliotai institucijai bandymo išlaidas, jeigu bandymo metu buvo nustatyta, kad medicinos priemonė neatitinka šio įstatymo, [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) ir kitų teisės aktų, reglamentuojančių medicinos priemonių tiekimą, reikalavimų, arba jeigu medicinos priemonių rinkos subjektas pageidavo papildomo ar pakartotinio bandymo, o šio bandymo išvados sutampa su pirminio bandymo išvadomis; ^s-8ddb97a9fd8584059d8ab61f
 
 
 7) sužinoję apie incidentus, pranešti šių medicinos priemonių gamintojams arba jų įgaliotiems atstovams; ^s-2869d68e31c255d61a622995
@@ -2425,7 +2425,7 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 10) registruotis šio įstatymo [[#^s-6299eb566b707dc4df54e1d4|591 straipsnio 10 dalyje]] nustatyta tvarka; ^s-ff7e16749ed212c988c554fb
 
 
-11) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, teikti Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nurodytą informaciją dėl medicinos priemonių atsekamumo tiekimo grandinėje; ^s-9413adbfcf430ee298b6f136
+11) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, teikti [Reglamente (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamente (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) nurodytą informaciją dėl medicinos priemonių atsekamumo tiekimo grandinėje; ^s-9413adbfcf430ee298b6f136
 
 
 12) vykdyti kitas [[#^s-62767b9f844d750e78155029|šio straipsnio 4 dalyje]] nurodytas pareigas. ^s-55d4d7b1f75cb4189d62726e
@@ -2437,16 +2437,16 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 1) užtikrinti, kad medicinos priemonės būtų laikomos, naudojamos ir prižiūrimos vadovaujantis medicinos priemonių gamintojų reikalavimais ir šią veiklą reglamentuojančių teisės aktų nustatyta tvarka; ^s-143ab6fe34fc7445879b3714
 
 
-2) sužinojusi, kad medicinos priemonės neatitinka Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nustatytų reikalavimų, nedelsdama nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti; ^s-23bce08216322b703c6fa063
+2) sužinojusi, kad medicinos priemonės neatitinka [Reglamente (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamente (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) nustatytų reikalavimų, nedelsdama nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti; ^s-23bce08216322b703c6fa063
 
 
 3) sudaryti sveikatos apsaugos ministro įgaliotos institucijos darbuotojams sąlygas patikrinti medicinos priemonių laikymo, naudojimo, tarnybines patalpas, paimti medicinos priemonių pavyzdžius (arba suteikti prieigą prie jų), juos tirti ir bandyti; ^s-3611dd00630cd6175423599e
 
 
-4) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai reikia patikrinti jų atitiktį šio įstatymo, Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai, naudojimą ir tiekimą, reikalavimams; ^s-a5172d5d730810e48ed81ca9
+4) neatlygintinai pateikti sveikatos apsaugos ministro įgaliotai institucijai medicinos priemonių pavyzdžius, kai reikia patikrinti jų atitiktį šio įstatymo, [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) ir kitų teisės aktų, reglamentuojančių medicinos priemonių pateikimą rinkai, naudojimą ir tiekimą, reikalavimams; ^s-a5172d5d730810e48ed81ca9
 
 
-5) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus; ^s-32d05d8322d8fcf52c0e8a67
+5) [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj), sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus; ^s-32d05d8322d8fcf52c0e8a67
 
 
 6) vykdyti kitas [[#^s-62767b9f844d750e78155029|šio straipsnio 4 dalyje]] nurodytas pareigas. ^s-c4a0032241ddd53e4e580d27
@@ -2467,14 +2467,14 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 4) sveikatos apsaugos ministro įgaliotai institucijai, vykdančiai medicinos priemonių valstybinę priežiūrą, pareikalavus, pateikti rinkai tiekiamų dalių ir komponentų saugą ir veiksmingumą patvirtinančius įrodymus; ^s-1ae7c71e204c0e0fc976b16d
 
 
-5) vykdyti kitas Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nustatytas pareigas. ^s-57b4677778fcf2949d7ac0bc
+5) vykdyti kitas [Reglamente (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamente (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) nustatytas pareigas. ^s-57b4677778fcf2949d7ac0bc
 
 
 5. Medicinos priemonių rinkos subjektai turi teisę apskųsti sveikatos apsaugos ministro įgaliotos institucijos sprendimus [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-3dfe661131cb4e9bd8c22461
 
 
 6. Medicinos priemonių rinkos subjektai turi teisę gauti iš sveikatos apsaugos ministro įgaliotos institucijos informaciją apie jų medicinos priemonių įregistravimą, reikalavimų neatitinkančių medicinos priemonių registracijos galiojimo sustabdymą, medicinos priemonių registracijos galiojimo sustabdymo panaikinimą ar medicinos priemonių registracijos galiojimo panaikinimą, medicinos priemonių pateikimo rinkai, tiekimo, naudojimo sustabdymą, medicinos priemonių pašalinimą iš rinkos, medicinos priemonių atšaukimą iš rinkos, jeigu tai neprieštarauja komercinės paslapties neviešinimo ir asmens duomenų apsaugos principams. ^s-c13adf6b77b00058ed38ae32
-TAR pastaba. [[#^s-aa965dcc088dbeea3786b86a|595 straipsnis]] įsigalioja po 6 mėnesių nuo Europos Komisijos pranešimo, kad Europos medicinos priemonių duomenų bazė EUDAMED visiškai atlieka savo funkcijas ir atitinka 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, [[#^s-408a0e0ce26fdb408d88debc|34 straipsnio 1 dalyje]] nustatytas funkcines specifikacijas paskelbimo dienos (įsigalioja 2026-05-28, gautas Sveikatos apsaugos ministerijos raštas).
+TAR pastaba. [[#^s-aa965dcc088dbeea3786b86a|595 straipsnis]] įsigalioja po 6 mėnesių nuo Europos Komisijos pranešimo, kad Europos medicinos priemonių duomenų bazė EUDAMED visiškai atlieka savo funkcijas ir atitinka 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos [reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir [Reglamentas (EB) Nr. 1223/2009](https://eur-lex.europa.eu/eli/reg/1223/2009/oj), ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, [[#^s-408a0e0ce26fdb408d88debc|34 straipsnio 1 dalyje]] nustatytas funkcines specifikacijas paskelbimo dienos (įsigalioja 2026-05-28, gautas Sveikatos apsaugos ministerijos raštas).
 
 
 Straipsnio pakeitimai:
@@ -2491,7 +2491,7 @@ Nr. XIV-2746, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11251
 1) laikinai, bet ne ilgesniam kaip 90 dienų terminui nuo šio sprendimo priėmimo dienos sustabdo medicinos priemonių pateikimą rinkai ir (arba) tiekimą, ir (arba) naudojimą bei įpareigoja medicinos priemonių rinkos subjektus per nurodytą terminą pašalinti nustatytus pažeidimus; ^s-118f311664c80af157f3cb5a
 
 
-2) įpareigoja medicinos priemonių rinkos subjektus atšaukti ir (arba) pašalinti iš Lietuvos Respublikos rinkos Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746 reikalavimų neatitinkančias medicinos priemones arba pati jas atšaukia ir (arba) pašalina, kai medicinos priemonių rinkos subjektas nevykdo šiame punkte nurodytų įpareigojimų; ^s-e0c6056afd894b7327654cbe
+2) įpareigoja medicinos priemonių rinkos subjektus atšaukti ir (arba) pašalinti iš Lietuvos Respublikos rinkos [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) reikalavimų neatitinkančias medicinos priemones arba pati jas atšaukia ir (arba) pašalina, kai medicinos priemonių rinkos subjektas nevykdo šiame punkte nurodytų įpareigojimų; ^s-e0c6056afd894b7327654cbe
 
 
 3) uždraudžia pateikti rinkai, tiekti, naudoti medicinos priemones. ^s-2c36bf2dbcd73feec33dd5f8
@@ -2518,7 +2518,7 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 
 
 
-4) kai nustatyti pažeidimai yra susiję su Reglamente (ES) 2017/745 arba Reglamente (ES) 2017/746 nurodytos atitikties įvertinimo tvarkos, registracijos tvarkos nesilaikymu, taiko [[#^s-6f74f2dbff39b1af7d0aceb7|šio straipsnio 1 dalies]] 2 ir (arba) [[#^s-e6f0dc29d569b0f8a5d956f7|3 punktuose]] nurodytas poveikio priemones. ^s-998660f7762a67e5178cc883
+4) kai nustatyti pažeidimai yra susiję su [Reglamente (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamente (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) nurodytos atitikties įvertinimo tvarkos, registracijos tvarkos nesilaikymu, taiko [[#^s-6f74f2dbff39b1af7d0aceb7|šio straipsnio 1 dalies]] 2 ir (arba) [[#^s-e6f0dc29d569b0f8a5d956f7|3 punktuose]] nurodytas poveikio priemones. ^s-998660f7762a67e5178cc883
 Straipsnio punkto pakeitimai:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
@@ -2537,7 +2537,7 @@ Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
 6. Jeigu priimamas sprendimas taikyti priemonę, nurodytą [[#^s-2c36bf2dbcd73feec33dd5f8|šio straipsnio 1 dalies 3 punkte]], dėl medicinos priemonių, pažymėtų „CE“ ženklu, sveikatos apsaugos ministro įgaliota institucija apie tai informuoja Europos Komisiją ir kitas Europos ekonominės erdvės valstybes nares. ^s-2d92fe15da7769aabba2dc34
 
 
-7. Sprendimo, kuriuo už nustatytus pažeidimus asmeniui taikoma poveikio priemonė, vykdymas užtikrinamas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-c14358f482a85746d823347d
+7. Sprendimo, kuriuo už nustatytus pažeidimus asmeniui taikoma poveikio priemonė, vykdymas užtikrinamas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-c14358f482a85746d823347d
 
 
 8. Poveikio priemonės gali būti taikomos ne vėliau kaip per 3 metus nuo pažeidimo nustatymo, tačiau ne vėliau kaip per 5 metus nuo pažeidimo padarymo (jeigu trunkamas pažeidimas, – nuo jo paaiškėjimo) dienos. ^s-a68a19e8c88f4685959e86f3
@@ -2589,7 +2589,7 @@ Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
 7) rūpinasi, kad Lietuvos valstybės sienos ir teritorija būtų apsaugotos nuo užkrečiamųjų ligų įvežimo, jų paplitimo; ^s-f7460e70589c2787377eec32
 
 
-8) vykdo kitas sveikatinimo veiklos valdymo funkcijas, kurias Vyriausybei paveda Lietuvos Respublikos Konstitucija, šis ir kiti įstatymai. ^s-f62cf906b170e26f7ea55783
+8) vykdo kitas sveikatinimo veiklos valdymo funkcijas, kurias Vyriausybei paveda [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis ir kiti įstatymai. ^s-f62cf906b170e26f7ea55783
 
 
 
@@ -2766,7 +2766,7 @@ Nr. XII-462, 2013-07-02, Žin., 2013, Nr. 79-3983 (2013-07-23)
 ### 64 straipsnis. Savivaldybės mero ir savivaldybės administracijos kompetencija sveikatinimo veiklos klausimais ^s-aaa5d41b453e73308a880204
 
 
-1. Savivaldybės meras atlieka šio įstatymo [[#^s-dd8df26346024785d058add6|12 straipsnio]] 4 ir 5 dalyse nustatytas funkcijas ir vykdo kitus sveikatinimo veiklos įgaliojimus, nustatytus įstatymuose ir kituose teisės aktuose. ^s-65293f3ff9c2e6dd5251b72c
+1. Savivaldybės meras atlieka šio įstatymo [[#^s-dd8df26346024785d058add6|12 straipsnio]] [[#^s-111e1f4b836988f64f0a38f9|4]] ir [[#^s-640ad46b34f7c0ad6e8b0662|5]] dalyse nustatytas funkcijas ir vykdo kitus sveikatinimo veiklos įgaliojimus, nustatytus įstatymuose ir kituose teisės aktuose. ^s-65293f3ff9c2e6dd5251b72c
 
 
 2. Savivaldybės administracija: ^s-b0326fff6f0aaf8a45b71ce3
@@ -2871,7 +2871,7 @@ Nr. XIII-718, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18150
 
 
 
-3. Tarybos pirmininkas vadovauja Tarybai, jis teisės aktų nustatyta tvarka kartu yra ir šios įstaigos vadovas. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme. Tarybos pirmininkas gali dirbti kitą darbą ir gauti atlygį, jeigu tai nesukelia viešųjų ir privačių interesų konflikto ir nediskredituoja Tarybos autoriteto. Sprendimą dėl leidimo Tarybos pirmininkui dirbti kitą darbą priima Seimo valdyba. Tarybos pirmininko, naudojančio tarnybos laiką kitam darbui, darbo užmokestis apskaičiuojamas proporcingai valstybės tarnyboje dirbtam laikui. Tarybos pirmininko įgaliojimai tęsiasi iki naujos sudėties Tarybos įgaliojimų pradžios. ^s-4ca346ff2cd7003956deaeb7
+3. Tarybos pirmininkas vadovauja Tarybai, jis teisės aktų nustatyta tvarka kartu yra ir šios įstaigos vadovas. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3). Tarybos pirmininkas gali dirbti kitą darbą ir gauti atlygį, jeigu tai nesukelia viešųjų ir privačių interesų konflikto ir nediskredituoja Tarybos autoriteto. Sprendimą dėl leidimo Tarybos pirmininkui dirbti kitą darbą priima Seimo valdyba. Tarybos pirmininko, naudojančio tarnybos laiką kitam darbui, darbo užmokestis apskaičiuojamas proporcingai valstybės tarnyboje dirbtam laikui. Tarybos pirmininko įgaliojimai tęsiasi iki naujos sudėties Tarybos įgaliojimų pradžios. ^s-4ca346ff2cd7003956deaeb7
 Straipsnio dalies pakeitimai:
 Nr. XIV-403, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14507
 
@@ -3240,7 +3240,7 @@ Nr. IX-1472, 2003-04-03, Žin., 2003, Nr. 38-1717 (2003-04-24)
 ### 75 straipsnis. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos ^s-fe5cf7efc7acad99253df8ba
 
 
-1. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos yra Vyriausybės įsteigta įstaiga. Vyriausybė paveda Sveikatos apsaugos ministerijai įgyvendinti jos, kaip savininkės, teises ir pareigas (išskyrus sprendimo dėl Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos reorganizavimo ir likvidavimo priėmimą, kurį priima Vyriausybė). Tarnyba yra iš valstybės biudžeto ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga. ^s-ec08edab419b2de2a4c38ec4
+1. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos yra Vyriausybės įsteigta įstaiga. Vyriausybė paveda Sveikatos apsaugos ministerijai įgyvendinti jos, kaip savininkės, teises ir pareigas (išskyrus sprendimo [dėl Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos](https://e-tar.lt/portal/lt/legalAct/TAR.E554B4746161) prie Sveikatos apsaugos ministerijos reorganizavimo ir likvidavimo priėmimą, kurį priima Vyriausybė). Tarnyba yra iš valstybės biudžeto ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga. ^s-ec08edab419b2de2a4c38ec4
 
 
 2. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos: ^s-27223a6de52cf92e6f0af596
@@ -3261,7 +3261,7 @@ Nr. IX-1472, 2003-04-03, Žin., 2003, Nr. 38-1717 (2003-04-24)
 5) vykdo sveikatos apsaugos ministro įgaliotos institucijos valdymo funkcijas medicinos priemonių atitikties įvertinimo srityje; ^s-d5e692993d4a5d12d3bf3b9f
 
 
-51) vykdo kompetentingos institucijos, atsakingos už Reglamento (ES) 2017/745 ir Reglamento (ES) 2017/746 įgyvendinimą, funkcijas; ^s-ac9db788b670e6afd62b6a63
+51) vykdo kompetentingos institucijos, atsakingos už [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) ir [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) įgyvendinimą, funkcijas; ^s-ac9db788b670e6afd62b6a63
 Papildyta straipsnio punktu:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 Straipsnio punkto pakeitimai:
@@ -3297,7 +3297,7 @@ Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 
 
 
-111) teikia duomenis Europos medicinos priemonių duomenų bazei EUDAMED pagal Reglamentą (ES) 2017/745 ir Reglamentą (ES) 2017/746; ^s-daa4937eb0c819bc53ac2048
+111) teikia duomenis Europos medicinos priemonių duomenų bazei EUDAMED pagal [Reglamentą (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) ir [Reglamentą (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj); ^s-daa4937eb0c819bc53ac2048
 Papildyta straipsnio punktu:
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
 Straipsnio punkto pakeitimai:
@@ -3626,10 +3626,10 @@ priedas
 
 
 
-1. 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009, ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB. ^s-a1db3189fbe154132bcee8ce
+1. 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir [Reglamentas (EB) Nr. 1223/2009](https://eur-lex.europa.eu/eli/reg/1223/2009/oj), ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB. ^s-a1db3189fbe154132bcee8ce
 
 
-2. 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/746 dėl in vitro diagnostikos medicinos priemonių, kuriuo panaikinama Direktyva 98/79/EB ir Komisijos sprendimas 2010/227/ES. ^s-55c80320605fe354b9add709
+2. 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) dėl in vitro diagnostikos medicinos priemonių, kuriuo panaikinama Direktyva 98/79/EB ir Komisijos sprendimas 2010/227/ES. ^s-55c80320605fe354b9add709
 
 
 Priedo pakeitimai:
@@ -3778,7 +3778,7 @@ Nr. XI-766, 2010-04-20, Žin., 2010, Nr. 51-2476 (2010-05-04)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1129, 2010-11-16, Žin., 2010, Nr. 139-7112 (2010-11-27)
 [[#^s-9ed309c7074630433b1518e1|SVEIKATOS SISTEMOS ĮSTATYMO 70 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS IR ĮSTATYMO PAPILDYMO 70(1) STRAIPSNIU ĮSTATYMAS
-Šis įstatymas, išskyrus 4 ir [[#^s-51908d6917ce3bf325596e7d|5 straipsnius]], įsigalioja 2011 m. balandžio 1 d.
+Šis įstatymas, išskyrus [[#^s-5d7355241a352146948d606f|4]] ir [[#^s-51908d6917ce3bf325596e7d|5]] straipsnius, įsigalioja 2011 m. balandžio 1 d.
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3789,7 +3789,7 @@ Nr. XI-1318, 2011-04-14, Žin., 2011, Nr. 49-2372 (2011-04-28)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1432, 2011-06-07, Žin., 2011, Nr. 74-3541 (2011-06-18)
 [[latest/TAR.9C78AC4A4C38|SVEIKATOS SISTEMOS ĮSTATYMO 2 STRAIPSNIO PAPILDYMO IR ĮSTATYMO I DALIES PAPILDYMO III SKYRIUMI ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-55c80320605fe354b9add709|šio straipsnio 2 dalį]], įsigalioja 2011 m. rugpjūčio 1 d.
+Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. rugpjūčio 1 d.
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3801,7 +3801,7 @@ SVEIKATOS SISTEMOS ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1759, 2011-12-01, Žin., 2011, Nr. 153-7196 (2011-12-15)
 [[latest/TAR.48D041932637|SVEIKATOS SISTEMOS ĮSTATYMO 71 STRAIPSNIO PAKEITIMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-55c80320605fe354b9add709|šio straipsnio 2 dalį]], įsigalioja 2012 m. liepos 1 d
+Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. liepos 1 d
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3813,7 +3813,7 @@ Nr. XI-2344, 2012-11-06, Žin., 2012, Nr. 132-6672 (2012-11-15)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2360, 2012-11-06, Žin., 2012, Nr. 133-6758 (2012-11-17)
 [[latest/TAR.33B21E7F180B|SVEIKATOS SISTEMOS ĮSTATYMO 29 STRAIPSNIO PAKEITIMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-55c80320605fe354b9add709|šio straipsnio 2 dalį]], įsigalioja 2013 m. sausio 1 d.
+Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. sausio 1 d.
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3830,7 +3830,7 @@ Nr. XI-2402, 2012-11-08, Žin., 2012, Nr. 135-6876 (2012-11-22)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-130, 2012-12-20, Žin., 2012, Nr. 154-7936 (2012-12-29)
 [[latest/TAR.70BC705B2493|SVEIKATOS SISTEMOS ĮSTATYMO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-55c80320605fe354b9add709|šio straipsnio 2 dalį]], įsigalioja 2014 m. sausio 1 d.
+Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. sausio 1 d.
 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3850,7 +3850,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2002-07-11, Žin., 2002, Nr. 72-3080 (2002-07-17)
-DĖL [[#^s-cb108fe533fd54770e42387f|LIETUVOS RESPUBLIKOS SVEIKATOS SISTEMOS ĮSTATYMO 39 STRAIPSNIO]], LIETUVOS RESPUBLIKOS MOKSLO IR ŠVIETIMO ILGALAIKIO FINANSAVIMO ĮSTATYMO 1, 2 IR [[#^s-0929ce65e509f517228c1c45|3 STRAIPSNIŲ]], [[latest/TAR.712BBBFA3D41#^s-908f573a54a8a631595597bd|LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO 18 STRAIPSNIO 2 DALIES]] IR LIETUVOS RESPUBLIKOS SEIMO STATUTO 172 STRAIPSNIO 1 DALIES ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS SVEIKATOS SISTEMOS ĮSTATYMO 39 STRAIPSNIO, LIETUVOS RESPUBLIKOS MOKSLO IR ŠVIETIMO ILGALAIKIO FINANSAVIMO ĮSTATYMO 1, 2 IR 3 STRAIPSNIŲ, LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO 18 STRAIPSNIO 2 DALIES IR LIETUVOS RESPUBLIKOS SEIMO STATUTO 172 STRAIPSNIO 1 DALIES ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.DCDB0A306DC1)
 
 
 Pakeitimai:
@@ -3858,27 +3858,27 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1231, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14522
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 12 ir [[#^s-aaa5d41b453e73308a880204|64 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-dd8df26346024785d058add6|12]] ir [[#^s-aaa5d41b453e73308a880204|64]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1336, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17990
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 63, 64 ir [[#^s-dab21f56f9b78c96db0fbe45|65 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-6a635828dc6b0be90c6eafcd|63]], [[#^s-aaa5d41b453e73308a880204|64]] ir [[#^s-dab21f56f9b78c96db0fbe45|65]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1387, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19560
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2 ir [[#^s-d31dc637a5c54027c49ba189|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-6b2df9723e5927e88a17475a|2]] ir [[#^s-d31dc637a5c54027c49ba189|19]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1704, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08038
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 71 ir [[#^s-498948f915de1829188e632f|73 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-097b3b51ffcef0886655c0d9|71]] ir [[#^s-498948f915de1829188e632f|73]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1957, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16898
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 6, 46, 61, 64 ir [[#^s-62767c5c59c7d0f8357b1f1d|67 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-cba4af194d1765a22045cfdf|6]], [[#^s-02f3e42db32ecf851fd662ed|46]], [[#^s-44c2ca24b10fa1c2a971365b|61]], [[#^s-aaa5d41b453e73308a880204|64]] ir [[#^s-62767c5c59c7d0f8357b1f1d|67]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3898,7 +3898,7 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-7bf0750085a071
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2228, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00086
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 1, 2, 3, 4, 14, 16, 20, 54, 75, [[#^s-55f7d79d013d230587fadf13|84 straipsnių]] pakeitimo ir Įstatymo III dalies papildymo IV skyriumi įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-2abab2cb41d13b8d160792fc|1]], [[#^s-6b2df9723e5927e88a17475a|2]], [[#^s-0929ce65e509f517228c1c45|3]], [[#^s-5d7355241a352146948d606f|4]], [[#^s-0e2ef79723cfda6604039f99|14]], [[#^s-0e91070538a8c964a70ce99f|16]], [[#^s-9b28856ddb21f77119fa86ba|20]], [[#^s-231b2c65e775416d525c6d50|54]], [[#^s-fe5cf7efc7acad99253df8ba|75]], [[#^s-55f7d79d013d230587fadf13|84]] straipsnių pakeitimo ir Įstatymo III dalies papildymo IV skyriumi įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3938,7 +3938,7 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-102b41880de1a4
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1908, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00840
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 3, 29, 47, [[#^s-a5d298053047047f8941f494|74 straipsnių]] pakeitimo ir 67-1 straipsnio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-0929ce65e509f517228c1c45|3]], [[#^s-a9005045b91fa21eba4679a2|29]], [[#^s-900d32947662ae03702c9684|47]], [[#^s-a5d298053047047f8941f494|74]] straipsnių pakeitimo ir 67-1 straipsnio pripažinimo netekusiu galios įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3953,32 +3953,32 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 38-1 straipsnio pake
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3155, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15133
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 11 ir [[#^s-07f921073d84014518912c80|53 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-459000fea8db2739c85b578f|11]] ir [[#^s-07f921073d84014518912c80|53]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2772, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02007
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 6, 11, 14, 15, 16, 50, 52 ir [[#^s-8ba2bb9f867e42cde5caf1c5|86 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-6b2df9723e5927e88a17475a|2]], [[#^s-0929ce65e509f517228c1c45|3]], [[#^s-cba4af194d1765a22045cfdf|6]], [[#^s-459000fea8db2739c85b578f|11]], [[#^s-0e2ef79723cfda6604039f99|14]], [[#^s-496e33493d1aed72bb051207|15]], [[#^s-0e91070538a8c964a70ce99f|16]], [[#^s-008cec92c782586d3718526d|50]], [[#^s-e6ca647f692c833fbe8b99e5|52]] ir [[#^s-8ba2bb9f867e42cde5caf1c5|86]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3224, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15762
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 6, 11, 14, 15, 16, 50, 52 ir [[#^s-8ba2bb9f867e42cde5caf1c5|86 straipsnių]] pakeitimo [[latest/ed760400429b11ea829bc2bea81c1194|įstatymo Nr. XIII-2772]] 7 ir [[#^s-e582a812a52fcd6814f2f367|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-6b2df9723e5927e88a17475a|2]], [[#^s-0929ce65e509f517228c1c45|3]], [[#^s-cba4af194d1765a22045cfdf|6]], [[#^s-459000fea8db2739c85b578f|11]], [[#^s-0e2ef79723cfda6604039f99|14]], [[#^s-496e33493d1aed72bb051207|15]], [[#^s-0e91070538a8c964a70ce99f|16]], [[#^s-008cec92c782586d3718526d|50]], [[#^s-e6ca647f692c833fbe8b99e5|52]] ir [[#^s-8ba2bb9f867e42cde5caf1c5|86]] straipsnių pakeitimo [[latest/ed760400429b11ea829bc2bea81c1194|įstatymo Nr. XIII-2772]] [[#^s-a69bccfeb8a700970ed269aa|7]] ir [[#^s-e582a812a52fcd6814f2f367|8]] straipsnių pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3100, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15305
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 6, 46, 60, 61, 64, 65, 67 ir [[#^s-2e98c436494707a061aa8f8e|68 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-cba4af194d1765a22045cfdf|6]], [[#^s-02f3e42db32ecf851fd662ed|46]], [[#^s-1735489a046ea50fae67d3f2|60]], [[#^s-44c2ca24b10fa1c2a971365b|61]], [[#^s-aaa5d41b453e73308a880204|64]], [[#^s-dab21f56f9b78c96db0fbe45|65]], [[#^s-62767c5c59c7d0f8357b1f1d|67]] ir [[#^s-2e98c436494707a061aa8f8e|68]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2754, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00039
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 16, 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, [[#^s-fe5cf7efc7acad99253df8ba|75 straipsnių]] pakeitimo ir Įstatymo papildymo priedu įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-6b2df9723e5927e88a17475a|2]], [[#^s-0929ce65e509f517228c1c45|3]], [[#^s-0e91070538a8c964a70ce99f|16]], 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, [[#^s-fe5cf7efc7acad99253df8ba|75]] straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2947, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11067
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 16, 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, [[#^s-fe5cf7efc7acad99253df8ba|75 straipsnių]] pakeitimo ir Įstatymo papildymo priedu [[latest/3a9a99402df111eabe008ea93139d588|įstatymo Nr. XIII-2754]] 1 ir [[#^s-0e2ef79723cfda6604039f99|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-6b2df9723e5927e88a17475a|2]], [[#^s-0929ce65e509f517228c1c45|3]], [[#^s-0e91070538a8c964a70ce99f|16]], 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, [[#^s-fe5cf7efc7acad99253df8ba|75]] straipsnių pakeitimo ir Įstatymo papildymo priedu [[latest/3a9a99402df111eabe008ea93139d588|įstatymo Nr. XIII-2754]] [[#^s-2abab2cb41d13b8d160792fc|1]] ir [[#^s-0e2ef79723cfda6604039f99|14]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3988,7 +3988,7 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-62767c5c59c7d0
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-456, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15474
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 12, 61 ir [[#^s-6a635828dc6b0be90c6eafcd|63 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-dd8df26346024785d058add6|12]], [[#^s-44c2ca24b10fa1c2a971365b|61]] ir [[#^s-6a635828dc6b0be90c6eafcd|63]] straipsnių pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3998,12 +3998,12 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 38-1 straipsnio pake
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1043, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08798
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 47 ir [[#^s-b7f645ee810688005a6375d4|49 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-900d32947662ae03702c9684|47]] ir [[#^s-b7f645ee810688005a6375d4|49]] straipsnių pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1059, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09668
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, [[#^s-fe5cf7efc7acad99253df8ba|75 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-6b2df9723e5927e88a17475a|2]], 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, [[#^s-fe5cf7efc7acad99253df8ba|75]] straipsnių ir priedo pakeitimo įstatymas
 
 31.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4013,7 +4013,7 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 I dalies III skyriau
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1060, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09669
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 16, 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, [[#^s-fe5cf7efc7acad99253df8ba|75 straipsnių]] pakeitimo ir Įstatymo papildymo priedu [[latest/3a9a99402df111eabe008ea93139d588|įstatymo Nr. XIII-2754]] 5, 10 ir [[#^s-0e2ef79723cfda6604039f99|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-6b2df9723e5927e88a17475a|2]], [[#^s-0929ce65e509f517228c1c45|3]], [[#^s-0e91070538a8c964a70ce99f|16]], 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, [[#^s-fe5cf7efc7acad99253df8ba|75]] straipsnių pakeitimo ir Įstatymo papildymo priedu [[latest/3a9a99402df111eabe008ea93139d588|įstatymo Nr. XIII-2754]] [[#^s-51908d6917ce3bf325596e7d|5]], [[#^s-a4e3a295c103a8665aa6ec5c|10]] ir [[#^s-0e2ef79723cfda6604039f99|14]] straipsnių pakeitimo įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4033,7 +4033,7 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-6b2df9723e5927
 36.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1637, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25404
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 47 ir [[#^s-b7f645ee810688005a6375d4|49 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-900d32947662ae03702c9684|47]] ir [[#^s-b7f645ee810688005a6375d4|49]] straipsnių pakeitimo įstatymas
 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4043,12 +4043,12 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 70-1 straipsnio pake
 38.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2191, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20771
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 9, 10, 12, 26, 32, 38-1, 41, 46, 49, 62, 63, 64, 65, 68 ir [[#^s-c417c3e329ebbf95c2307ac6|69 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-6b2df9723e5927e88a17475a|2]], [[#^s-b641c36926c3ed99045246dc|9]], [[#^s-a4e3a295c103a8665aa6ec5c|10]], [[#^s-dd8df26346024785d058add6|12]], [[#^s-c9cf623cb4e6320f5f728a08|26]], [[#^s-2ffc2715ed191ecbbca36b4c|32]], 38-1, [[#^s-102b41880de1a45e2ae9ec06|41]], [[#^s-02f3e42db32ecf851fd662ed|46]], [[#^s-b7f645ee810688005a6375d4|49]], [[#^s-a9cb9711652a2b7ca9f5344c|62]], [[#^s-6a635828dc6b0be90c6eafcd|63]], [[#^s-aaa5d41b453e73308a880204|64]], [[#^s-dab21f56f9b78c96db0fbe45|65]], [[#^s-2e98c436494707a061aa8f8e|68]] ir [[#^s-c417c3e329ebbf95c2307ac6|69]] straipsnių pakeitimo įstatymas
 
 39.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2746, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11251
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2, 3, 16, 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, [[#^s-fe5cf7efc7acad99253df8ba|75 straipsnių]] pakeitimo ir Įstatymo papildymo priedu [[latest/3a9a99402df111eabe008ea93139d588|įstatymo Nr. XIII-2754]] [[#^s-a4e3a295c103a8665aa6ec5c|10 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-6b2df9723e5927e88a17475a|2]], [[#^s-0929ce65e509f517228c1c45|3]], [[#^s-0e91070538a8c964a70ce99f|16]], 59-1, 59-2, 59-3, 59-4, 59-5, 59-6, [[#^s-fe5cf7efc7acad99253df8ba|75]] straipsnių pakeitimo ir Įstatymo papildymo priedu [[latest/3a9a99402df111eabe008ea93139d588|įstatymo Nr. XIII-2754]] [[#^s-a4e3a295c103a8665aa6ec5c|10 straipsnio]] pakeitimo įstatymas
 
 40.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4058,17 +4058,17 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 59-2 ir 59-5 straips
 41.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2790, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12733
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 8, 11, 13 ir [[#^s-c1e4ae2a0e082df1f9270d9a|76 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-e582a812a52fcd6814f2f367|8]], [[#^s-459000fea8db2739c85b578f|11]], [[#^s-ba874b44346f7f989178a065|13]] ir [[#^s-c1e4ae2a0e082df1f9270d9a|76]] straipsnių pakeitimo įstatymas
 
 42.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-583, 2025-11-25, paskelbta TAR 2025-12-04, i. k. 2025-20654
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 11 ir [[#^s-b7f645ee810688005a6375d4|49 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-459000fea8db2739c85b578f|11]] ir [[#^s-b7f645ee810688005a6375d4|49]] straipsnių pakeitimo įstatymas
 
 43.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-698, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-22991
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 2 ir [[#^s-b0fc29cf2a84154dcf8c366c|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-6b2df9723e5927e88a17475a|2]] ir [[#^s-b0fc29cf2a84154dcf8c366c|24]] straipsnių pakeitimo įstatymas
 
 44.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4078,4 +4078,4 @@ Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 [[#^s-900d32947662ae
 45.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-594, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20806
-Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 13-1 ir [[#^s-b331ab04750fbf030f3ba2ae|59 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos sistemos įstatymo Nr. I-552 13-1 ir [[#^s-b331ab04750fbf030f3ba2ae|59]] straipsnių pakeitimo įstatymas

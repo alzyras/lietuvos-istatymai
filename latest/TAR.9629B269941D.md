@@ -147,7 +147,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 4. Deleguotiems asmenims Vyriausybės nustatyta tvarka kas mėnesį skiriama Vyriausybės nustatyto dydžio išmoka apsirūpinti gyvenamosiomis patalpomis, atitinkančiomis jų šeimos narių skaičių. Ši išmoka neskiriama, jeigu išmoką apsirūpinti gyvenamosiomis patalpomis skiria arba darbo užmokestį ar dienpinigius deleguotam asmeniui moka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią jis deleguotas. ^s-cd27f0f67942d7e18a1a01e4
 
 
-5. Kai tarptautinės ir Europos Sąjungos institucijos ar užsienio valstybės institucijos, į kurią asmuo deleguotas, mokami dienpinigiai ir kitos išmokos, išskyrus išmokas, skirtas padengti išlaidoms, nurodytoms šio straipsnio 2, 6, 7 ir [[#^s-3f68c92cbf8586140b0df897|8 dalyse]], yra mažesni negu pagal šio straipsnio 3 ir [[#^s-cd27f0f67942d7e18a1a01e4|4 dalis]] apskaičiuotos su darbu užsienyje susijusių išlaidų kompensacija ir išmoka apsirūpinti gyvenamosiomis patalpomis, deleguotam asmeniui išmokamas institucijos, į kurią asmuo deleguotas, mokamų dienpinigių ir kitų išmokų, išskyrus išmokas, skirtas padengti išlaidoms, nurodytoms šio straipsnio 2, 6, 7 ir [[#^s-3f68c92cbf8586140b0df897|8 dalyse]], sumos ir pagal šio straipsnio 3 ir [[#^s-cd27f0f67942d7e18a1a01e4|4 dalis]] apskaičiuotų su darbu užsienyje susijusių išlaidų kompensacijos ir išmokos apsirūpinti gyvenamosiomis patalpomis sumos skirtumas. ^s-72456c3b463cd4f7acf46aec
+5. Kai tarptautinės ir Europos Sąjungos institucijos ar užsienio valstybės institucijos, į kurią asmuo deleguotas, mokami dienpinigiai ir kitos išmokos, išskyrus išmokas, skirtas padengti išlaidoms, nurodytoms šio straipsnio [[#^s-9a37b5dea14b28db00416c30|2]], [[#^s-57af41886bdd1d6013ba4ebd|6]], [[#^s-a3288f031880b1a801cee321|7]] ir [[#^s-3f68c92cbf8586140b0df897|8]] dalyse, yra mažesni negu pagal šio straipsnio [[#^s-f825c75c6e209345cfcc8141|3]] ir [[#^s-cd27f0f67942d7e18a1a01e4|4]] dalis apskaičiuotos su darbu užsienyje susijusių išlaidų kompensacija ir išmoka apsirūpinti gyvenamosiomis patalpomis, deleguotam asmeniui išmokamas institucijos, į kurią asmuo deleguotas, mokamų dienpinigių ir kitų išmokų, išskyrus išmokas, skirtas padengti išlaidoms, nurodytoms šio straipsnio [[#^s-9a37b5dea14b28db00416c30|2]], [[#^s-57af41886bdd1d6013ba4ebd|6]], [[#^s-a3288f031880b1a801cee321|7]] ir [[#^s-3f68c92cbf8586140b0df897|8]] dalyse, sumos ir pagal šio straipsnio [[#^s-f825c75c6e209345cfcc8141|3]] ir [[#^s-cd27f0f67942d7e18a1a01e4|4]] dalis apskaičiuotų su darbu užsienyje susijusių išlaidų kompensacijos ir išmokos apsirūpinti gyvenamosiomis patalpomis sumos skirtumas. ^s-72456c3b463cd4f7acf46aec
 
 
 6. Vyriausybės nustatyta tvarka ir neviršijant Vyriausybės nustatyto šių išlaidų dydžio, deleguotiems asmenims ir jų šeimos nariams apmokamos persikėlimo (kelionės, bagažo gabenimo ir turto persivežimo išlaidos) iš Lietuvos Respublikos į užsienio valstybę, į kurią dirbti jis deleguotas, ir iš užsienio valstybės į Lietuvos Respubliką išlaidos. Šios išlaidos neapmokamos, jeigu jas apmoka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią jis deleguotas. Šios išlaidos, išskyrus kelionės ir bagažo gabenimo išlaidas, neapmokamos, jeigu delegavimo trukmė trumpesnė kaip 3 mėnesiai. ^s-57af41886bdd1d6013ba4ebd
@@ -159,7 +159,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 8. Deleguotiems asmenims Vyriausybės nustatyta tvarka apmokamos kitos būtinos su delegavimu susijusios išlaidos, kurias nustato, tačiau neapmoka tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią asmuo deleguotas, ir dėl kurių padengimo Užsienio reikalų ministerija pateikia išvadą pagal šio įstatymo [[#^s-dba69b12ddc2ec4a7e209a0b|7 straipsnio 1 dalį]]. ^s-3f68c92cbf8586140b0df897
 
 
-9. Šio straipsnio 2–[[#^s-a3288f031880b1a801cee321|7 dalyse]] nurodytos garantijos deleguotų asmenų šeimos nariams nėra taikomos, jeigu: ^s-c065b14bcbcb70ec2b0bd1fe
+9. Šio straipsnio [[#^s-9a37b5dea14b28db00416c30|2]]–[[#^s-a3288f031880b1a801cee321|7]] dalyse nurodytos garantijos deleguotų asmenų šeimos nariams nėra taikomos, jeigu: ^s-c065b14bcbcb70ec2b0bd1fe
 
 
 1) delegavimo trukmė trumpesnė kaip 3 mėnesiai; ^s-992057dbf731523c1ea49444
@@ -168,7 +168,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 2) tarptautinė ir Europos Sąjungos institucija ar užsienio valstybės institucija, į kurią asmuo deleguojamas, yra nustačiusi apribojimų deleguojamų asmenų šeimos nariams vykti kartu su deleguojamais asmenimis. ^s-319e43c324ec18cdb8e6a79b
 
 
-10. Šio straipsnio 2–[[#^s-3f68c92cbf8586140b0df897|8 dalyse]] nurodytos garantijos deleguotiems asmenims ir jų šeimos nariams netaikomos, jeigu į tarptautinę ar Europos Sąjungos ar užsienio valstybės instituciją deleguoto asmens faktinė darbo vieta yra Lietuvos Respublikoje.“ ^s-d7ff7bb3830c55ba1888cc7a
+10. Šio straipsnio [[#^s-9a37b5dea14b28db00416c30|2]]–[[#^s-3f68c92cbf8586140b0df897|8]] dalyse nurodytos garantijos deleguotiems asmenims ir jų šeimos nariams netaikomos, jeigu į tarptautinę ar Europos Sąjungos ar užsienio valstybės instituciją deleguoto asmens faktinė darbo vieta yra Lietuvos Respublikoje.“ ^s-d7ff7bb3830c55ba1888cc7a
 
 
 

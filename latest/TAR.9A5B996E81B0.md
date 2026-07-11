@@ -122,7 +122,7 @@ Papildyti Kodeksą 1311 straipsniu:
 4. Intensyvios priežiūros terminą nustato ikiteisminio tyrimo teisėjas ar teismas nutartyje skirti intensyvią priežiūrą, tačiau iš karto intensyvi priežiūra negali viršyti šešių mėnesių. Šis terminas ikiteisminio tyrimo teisėjo nutartimi gali būti pratęstas iki trijų mėnesių. Pratęsimų skaičius neribojamas. ^s-e4de7ffdcc90eea5294746ea
 
 
-5. Įtariamasis įspėjamas, kad už nustatytų intensyvios priežiūros sąlygų pažeidimą ir už šio straipsnio 6 ir [[#^s-d39132a6a5e22cf2d631d1ed|7 dalyse]] nustatytų pareigų ir draudimų nesilaikymą jam gali būti paskirtas suėmimas, jei tam būtų pagrindas. ^s-a36ede39ba82298b38a8bfc8
+5. Įtariamasis įspėjamas, kad už nustatytų intensyvios priežiūros sąlygų pažeidimą ir už šio straipsnio [[#^s-06bf0156fdeb9b2a2b9c107a|6]] ir [[#^s-d39132a6a5e22cf2d631d1ed|7]] dalyse nustatytų pareigų ir draudimų nesilaikymą jam gali būti paskirtas suėmimas, jei tam būtų pagrindas. ^s-a36ede39ba82298b38a8bfc8
 
 
 6. Įtariamasis, kuriam paskirta intensyvi priežiūra, privalo: ^s-06bf0156fdeb9b2a2b9c107a
@@ -187,7 +187,7 @@ Pakeisti 183 straipsnio 4 dalį ir ją išdėstyti taip:
 „1. Prokuroras, įsitikinęs, kad ikiteisminio tyrimo metu surinkta pakankamai duomenų, pagrindžiančių įtariamojo kaltę dėl nusikalstamos veikos padarymo, paskelbia įtariamajam, o jo gynėjui, nukentėjusiajam, civiliniam ieškovui, civiliniam atsakovui ir jų atstovams praneša, kad ikiteisminis tyrimas baigtas ir jie turi teisę susipažinti su ikiteisminio tyrimo medžiaga ir pateikti prašymus papildyti ikiteisminį tyrimą. Jeigu procese yra daug nukentėjusiųjų ar civilinių ieškovų, apie ikiteisminio tyrimo pabaigą jiems gali būti pranešama specialiame interneto tinklalapyje ir proceso dalyvių nurodytais elektroninio pašto adresais.“
 
 
-2. Papildyti 218 straipsnį nauja [[#^s-5bce2cf22ad107c01b536d4c|2 dalimi]]: ^s-5bce2cf22ad107c01b536d4c
+2. Papildyti 218 straipsnį nauja 2 dalimi: ^s-5bce2cf22ad107c01b536d4c
 
 
 „2. Kai yra šio Kodekso 273 straipsnio 1 dalyje numatytos sąlygos, įtariamajam ir jo gynėjui taip pat pranešama, kad įtariamasis iki kaltinamojo akto surašymo gali raštu pareikšti, jog sutinka su įtarimu ir sutinka, kad bylą nagrinėjant teisme būtų atliekamas šio Kodekso 273 straipsnyje numatytas sutrumpintas įrodymų tyrimas.“
@@ -409,10 +409,10 @@ Papildyti Kodeksą 4301 straipsniu:
 ### 28 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-d3bdffc927659aaf21cf9020
 
 
-1. Šio įstatymo 9, 10, 15, 17, 18 ir [[#^s-da6392871d57e706edead7ea|19 straipsniai]] įsigalioja 2014 m. sausio 1 d. ^s-9575710f228dceb89719aba9
+1. Šio įstatymo [[#^s-560256cef69957f6aca4645c|9]], [[#^s-67e5efb2ded71e4121e6cc4f|10]], [[#^s-7d65df71f77f50089a937f1a|15]], [[#^s-2e8ecf746bf074ae8615683f|17]], [[#^s-95f4a72e504a30d2aca32087|18]] ir [[#^s-da6392871d57e706edead7ea|19]] straipsniai įsigalioja 2014 m. sausio 1 d. ^s-9575710f228dceb89719aba9
 
 
-2. Šio įstatymo 3, 4, 5, 6, 7 ir [[#^s-8ac9f5e67d047be4c8564918|8 straipsniai]] įsigalioja 2015 m. sausio 1 d. ^s-8256ecb1f307d2c4d56ca747
+2. Šio įstatymo [[#^s-5eb3b68703541e906f5300ca|3]], [[#^s-3780d06750c4fbc64660c544|4]], [[#^s-51f78b47568aa920ad76890c|5]], [[#^s-20103044f0e6e1027e8fc55a|6]], [[#^s-ead097e23a735c48fbafe16b|7]] ir [[#^s-8ac9f5e67d047be4c8564918|8]] straipsniai įsigalioja 2015 m. sausio 1 d. ^s-8256ecb1f307d2c4d56ca747
 
 
 3. Lietuvos Respublikos Vyriausybės įgaliota institucija iki 2015 m. sausio 1 d. patvirtina intensyvios priežiūros vykdymo ir kontrolės taisykles. ^s-fdee0829e34079a8e9c2fe0f

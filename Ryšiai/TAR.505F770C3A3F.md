@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatym
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Valstybės tarnybos įstatymu
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - Valstybės tarnybos įstatymu
 - [[latest/TAR.4FC026AC03AE|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - 2 citatos - Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo
 
 ## Šį įstatymą cituoja

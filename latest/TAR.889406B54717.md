@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-e97bb82131f0b154a072b833
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 9 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1970 metų Europos konvenciją dėl tarptautinio baudžiamųjų nuosprendžių pripažinimo“, ratifikuoja su pareiškimu ir išlygomis 1970 metų Europos konvenciją dėl tarptautinio baudžiamųjų nuosprendžių pripažinimo, pasirašytą 1995 m. liepos 10 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 9 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1970 metų Europos konvenciją dėl tarptautinio baudžiamųjų nuosprendžių pripažinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.73B02E415ACA), ratifikuoja su pareiškimu ir išlygomis 1970 metų Europos konvenciją dėl tarptautinio baudžiamųjų nuosprendžių pripažinimo, pasirašytą 1995 m. liepos 10 d. Strasbūre.
 
 
 

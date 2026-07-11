@@ -50,7 +50,7 @@ Vilnius
 ### 2 straipsnis. Pasiūlymas Vyriausybei ^s-ac247ef87d90e6a47e131d47
 
 
-Vyriausybė iki 1998 m. lapkričio 1 d. parengia ir pateikia Seimui Mokesčių už aplinkos teršimą įstatymo papildymo įstatymo projektą, nustatantį medžiagų ir gaminių, tarp jų taros ir pakuotės, dėl kurių naudojimo susidaro atliekos, apmokestinimą, ir Vyriausybės nutarimo projektą, nustatantį medžiagų ir gaminių, tarp jų taros ir pakuotės, dėl kurių naudojimo susidaro atliekos, mokesčių tarifus bei Valstybinio atliekų tvarkymo fondo įstatymo projektą.
+Vyriausybė iki 1998 m. lapkričio 1 d. parengia ir pateikia Seimui [Mokesčių už aplinkos teršimą įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.897569AA8270) papildymo įstatymo projektą, nustatantį medžiagų ir gaminių, tarp jų taros ir pakuotės, dėl kurių naudojimo susidaro atliekos, apmokestinimą, ir Vyriausybės nutarimo projektą, nustatantį medžiagų ir gaminių, tarp jų taros ir pakuotės, dėl kurių naudojimo susidaro atliekos, mokesčių tarifus bei Valstybinio atliekų tvarkymo fondo įstatymo projektą.
 
 
 

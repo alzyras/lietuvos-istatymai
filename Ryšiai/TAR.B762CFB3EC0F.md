@@ -9,17 +9,18 @@ pavadinimas: "Lietuvos Respublikos statybos įstatymo 1, 2, 3, 5, 6, 12, 16, 20,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.6286F15970B3|Lietuvos Respublikos branduolinės energijos įstatymas]] - 2 citatos - Branduolinės energijos įstatymo
-- [[latest/TAR.9BC8AEE9D9F8|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - 6 citatos - Nekilnojamojo kultūros paveldo apsaugos įstatymu
-- [[latest/TAR.4F95269B43A0|Lietuvos Respublikos pajūrio juostos įstatymas]] - 2 citatos - Pajūrio juostos įstatymu
-- [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 2 citatos - Saugomų teritorijų įstatymu
-- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Lietuvos Respublikos statybos įstatymo
-- [[latest/TAR.F31E79DEC55D#^s-585ae9834e070bb967b65b82|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Lietuvos Respublikos statybos įstatymo 1 priede nurodytų įmokų ir šio įstatymo 26 straipsnį
-- [[latest/TAR.F31E79DEC55D#^s-757ac4fbeb4394c60d3d46fa|Lietuvos Respublikos statybos įstatymas]] - 6 citatos - Lietuvos Respublikos statybos įstatymo 23 straipsnio
-- [[latest/TAR.F31E79DEC55D#^s-c32e3eabd05575b8137a13a5|Lietuvos Respublikos statybos įstatymas]] - 4 citatos - Lietuvos Respublikos statybos įstatymo 28 straipsnio
-- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - Viešojo administravimo įstatyme
+- [[latest/TAR.6286F15970B3|Lietuvos Respublikos branduolinės energijos įstatymas]] - Branduolinės energijos įstatymo
+- [[latest/TAR.9BC8AEE9D9F8|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - 3 citatos - Nekilnojamojo kultūros paveldo apsaugos įstatymu
+- [[latest/TAR.4F95269B43A0|Lietuvos Respublikos pajūrio juostos įstatymas]] - Pajūrio juostos įstatymu
+- [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Saugomų teritorijų įstatymu
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 7 citatos - 10
+- [[latest/TAR.F31E79DEC55D#^s-585ae9834e070bb967b65b82|Lietuvos Respublikos statybos įstatymas]] - Lietuvos Respublikos statybos įstatymo 1 priede nurodytų įmokų ir šio įstatymo 26 straipsnį
+- [[latest/TAR.F31E79DEC55D#^s-60cd18bb80198c1d74f60172|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - 7
+- [[latest/TAR.F31E79DEC55D#^s-757ac4fbeb4394c60d3d46fa|Lietuvos Respublikos statybos įstatymas]] - 3 citatos - Lietuvos Respublikos statybos įstatymo 23 straipsnio
+- [[latest/TAR.F31E79DEC55D#^s-bd1b17902502bedb1270a74a|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - 4
+- [[latest/TAR.F31E79DEC55D#^s-c32e3eabd05575b8137a13a5|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Lietuvos Respublikos statybos įstatymo 28 straipsnio
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - Viešojo administravimo įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F31E79DEC55D#^s-de3c166036f714f06b930d4d|Lietuvos Respublikos statybos įstatymas]] - Įstatymas Nr. XI-992
-- [[latest/TAR.F31E79DEC55D#^s-fc1e8595c1f7e7bb99d779cb|Lietuvos Respublikos statybos įstatymas]] - Įstatymas Nr. XI-992
+_Nėra._

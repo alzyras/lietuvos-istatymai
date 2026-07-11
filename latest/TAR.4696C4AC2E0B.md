@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-3ff8bc99e46c469db965d1fa
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. balandžio 17 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Sutartį tarp Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės dėl bendradarbiavimo, atliekant asmenų, prekių ir transporto priemonių, vykstančių per Lietuvos ir Lenkijos valstybės sieną keliais ir geležinkeliais, kontrolę“, ratifikuoja 1997 m. rugsėjo 14 d. Vilniuje pasirašytą Sutartį tarp Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės dėl bendradarbiavimo, atliekant asmenų, prekių ir transporto priemonių, vykstančių per Lietuvos ir Lenkijos valstybės sieną keliais ir geležinkeliais, kontrolę.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. balandžio 17 d. dekretą „[Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Sutartį tarp Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės dėl bendradarbiavimo, atliekant asmenų, prekių ir transporto priemonių, vykstančių per Lietuvos ir Lenkijos valstybės sieną keliais ir geležinkeliais, kontrolę](https://e-tar.lt/portal/lt/legalAct/TAR.0A931B6E2FE0)“, ratifikuoja 1997 m. rugsėjo 14 d. Vilniuje pasirašytą Sutartį tarp Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės dėl bendradarbiavimo, atliekant asmenų, prekių ir transporto priemonių, vykstančių per Lietuvos ir Lenkijos valstybės sieną keliais ir geležinkeliais, kontrolę.
 
 
 

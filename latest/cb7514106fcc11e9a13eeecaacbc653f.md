@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 77 straipsnio pakeitimas ^s-ce9ac83dcce804f0b862ae88
 
 
-Pakeisti 77 straipsnio 3 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.C595FF45F869#^s-940dda6f9fea79de2fa4498d|77 straipsnio 3 dalį]] ir ją išdėstyti taip:
 
 
 „3. Atitinkamais metais priimamų trumposios pakopos, pirmosios pakopos ir vientisųjų studijų, antrosios pakopos, doktorantūros, profesinių studijų vietų, studijų stipendijų preliminarų skaičių ir skiriamą valstybės finansavimą (nustatytus pagal patvirtintas atitinkamų metų normines studijų kainas ir studijų krypčių grupes (mokslo ir meno doktorantūros – pagal mokslo ir meno sritis) iki kiekvienų metų balandžio 2 dienos nustato Vyriausybė, atsižvelgdama į valstybės ūkinės, socialinės ir kultūrinės plėtros poreikius ir valstybės finansines galimybes.“

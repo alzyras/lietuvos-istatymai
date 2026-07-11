@@ -102,7 +102,7 @@ Naftos dujoms ir dujiniams angliavandeniliams, jų pakaitalams ir priedams taiko
 ### 7 straipsnis. 36 straipsnio papildymas ^s-e21d3e4106f884fa6b233086
 
 
-1. Papildyti 36 straipsnio 1 dalį 7–[[#^s-e3800ee0d340295cb479312a|9 punktais]]: ^s-2e2315dac64834bb6b4ec19c
+1. Papildyti 36 straipsnio 1 dalį 7–9 punktais: ^s-2e2315dac64834bb6b4ec19c
 
 
 „7) naftos dujos ir dujiniai angliavandeniliai, išpilstyti į buitinius dujų balionus;
@@ -127,7 +127,7 @@ Naftos dujoms ir dujiniams angliavandeniliams, jų pakaitalams ir priedams taiko
 1. Šis Įstatymas įsigalioja nuo 2004 m. kovo 1 d. ^s-2252854f91f2c10d68d14cad
 
 
-2. Leidimai steigti akcizais apmokestinamų prekių sandėlius patalpose (teritorijose), kuriose vykdoma mažmeninė prekyba skirtais naudoti kaip variklių kuras (degalai) naftos dujomis ir dujiniais angliavandeniliais, centrinio mokesčio administratoriaus nustatyta tvarka panaikinami per 10 dienų nuo šio Įstatymo įsigaliojimo. Panaikinus leidimą steigti akcizais apmokestinamų prekių sandėlį, akcizų deklaracija, kurioje, be [[latest/TAR.B9E1D301256F#^s-d900c0252f0c9a1279e34bac|Lietuvos Respublikos akcizų įstatymo 9 straipsnio]] 1 ir [[#^s-ec4b9c27e895babbb92d3cbf|2 dalyse]] nustatyta tvarka apskaičiuotos akcizų sumos, turi būti deklaruota ir akcizų suma, mokėtina už visas kitą dieną po leidimo panaikinimo jame buvusias akcizais apmokestinamas prekes, už kurias akcizai dar nebuvo sumokėti, taikant galiojusius tą dieną akcizų tarifus, turi būti pateikta ir akcizai sumokėti iki 2004 m. balandžio 15 d. ^s-ec4b9c27e895babbb92d3cbf
+2. Leidimai steigti akcizais apmokestinamų prekių sandėlius patalpose (teritorijose), kuriose vykdoma mažmeninė prekyba skirtais naudoti kaip variklių kuras (degalai) naftos dujomis ir dujiniais angliavandeniliais, centrinio mokesčio administratoriaus nustatyta tvarka panaikinami per 10 dienų nuo šio Įstatymo įsigaliojimo. Panaikinus leidimą steigti akcizais apmokestinamų prekių sandėlį, akcizų deklaracija, kurioje, be [[latest/TAR.B9E1D301256F#^s-d900c0252f0c9a1279e34bac|Lietuvos Respublikos akcizų įstatymo 9 straipsnio]] [[latest/TAR.B9E1D301256F#^s-246b1b42a3e824e1f1f18f3e|1]] ir [[latest/TAR.B9E1D301256F#^s-91453727dade92f3e5045671|2]] dalyse nustatyta tvarka apskaičiuotos akcizų sumos, turi būti deklaruota ir akcizų suma, mokėtina už visas kitą dieną po leidimo panaikinimo jame buvusias akcizais apmokestinamas prekes, už kurias akcizai dar nebuvo sumokėti, taikant galiojusius tą dieną akcizų tarifus, turi būti pateikta ir akcizai sumokėti iki 2004 m. balandžio 15 d. ^s-ec4b9c27e895babbb92d3cbf
 
 
 3. Asmenys, iki šio Įstatymo įsigaliojimo įsteigę akcizais apmokestinamų prekių sandėlį, kuriame buvo vykdoma didmeninė prekyba naftos dujomis ir dujiniais angliavandeniliais, ir pageidaujantys panaikinti leidimą steigti akcizais apmokestinamų prekių sandėlį, privalo raštu kreiptis į vietos mokesčio administratorių dėl leidimo steigti akcizais apmokestinamų prekių sandėlį panaikinimo. ^s-e172d10d41fc8e712cb81b62

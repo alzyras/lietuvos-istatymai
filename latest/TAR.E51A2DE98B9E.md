@@ -5650,7 +5650,7 @@ Lietuvos Respublikos 2007 m. gruodžio 6 d. įstatymo Nr. X-1353
  iš jų
 
 
- [[latest/TAR.D3ED3792F52B#^s-a1864c659fc8c4a3612fd66d|Valstybės tarnybos įstatymo 7, 8 ir 24 straipsnių]] pakeitimo įstatymui įgyvendinti
+ [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] [[latest/TAR.D3ED3792F52B#^s-fe290f6d9de6562b5c36eab6|7]], [[latest/TAR.D3ED3792F52B#^s-3c05bebc1f0a50fee8f53726|8]] ir [[latest/TAR.D3ED3792F52B#^s-a1864c659fc8c4a3612fd66d|24]] straipsnių pakeitimo įstatymui įgyvendinti
  želdiniams ir želdynams inventorizuoti ir jiems įrašyti į nekilnojamojo turto kadastrą
  išlaidoms, susijusioms su pasirengimu atlikti gyvenamosios vietos deklaravimo duomenų ir gyvenamosios vietos neturinčių asmenų apskaitos tvarkymo funkciją
 

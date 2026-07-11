@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Papildomo protokolo ratifikavimas ^s-bc40ab0c1cfc002786d9f376
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. balandžio 14 d. dekretą Nr. 578, ratifikuoja su pareiškimu Konvencijos dėl elektroninių nusikaltimų Papildomą protokolą dėl rasistinio ir ksenofobinio pobūdžio veikų, padarytų naudojantis kompiuterinėmis sistemomis, kriminalizavimo, priimtą 2003 m. sausio 28 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. balandžio 14 d. dekretą Nr. 578](https://e-tar.lt/portal/lt/legalAct/TAR.99FAB9DC1E92), ratifikuoja su pareiškimu Konvencijos dėl elektroninių nusikaltimų Papildomą protokolą dėl rasistinio ir ksenofobinio pobūdžio veikų, padarytų naudojantis kompiuterinėmis sistemomis, kriminalizavimo, priimtą 2003 m. sausio 28 d. Strasbūre.
 
 
 

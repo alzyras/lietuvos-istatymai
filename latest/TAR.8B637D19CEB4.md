@@ -77,7 +77,7 @@ Vilnius
 2. Papildyti 10 straipsnį nauja 5 dalimi: ^s-dcf1f225e45aa24798596133
 
 
-„5. Jeigu Vyriausybė pagal šio įstatymo 9 straipsnio 4 dalį priima sprendimą dėl nustatytosios normos vienetų įsigijimo ir perleidimo sandorio sudarymo, pagal kurį nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo mainais už perleidžiamus nustatytosios normos vienetus atsiskaito turtu, ir šio straipsnio 4 dalies 1 punkte nurodyta Vyriausybės įgaliota institucija pasirašo nustatytosios normos vienetų įsigijimo ir perleidimo sutartį, mainais už perleistus nustatytosios normos vienetus gautas turtas Vyriausybės sprendimu perduodamas [[#^s-8dac374a9b8c5e5a83331d17|šio straipsnio 3 dalies]] 1 ir [[#^s-c6f828faa5aca9775c1c0ce2|2 punktuose]] nurodytų Programos lėšų panaudojimo krypčių projektus ir (ar) priemones įgyvendinantiems subjektams:
+„5. Jeigu Vyriausybė pagal šio įstatymo 9 straipsnio 4 dalį priima sprendimą dėl nustatytosios normos vienetų įsigijimo ir perleidimo sandorio sudarymo, pagal kurį nustatytosios normos vienetus perkančioji valstybė ar jos įgaliotas asmuo mainais už perleidžiamus nustatytosios normos vienetus atsiskaito turtu, ir šio straipsnio 4 dalies 1 punkte nurodyta Vyriausybės įgaliota institucija pasirašo nustatytosios normos vienetų įsigijimo ir perleidimo sutartį, mainais už perleistus nustatytosios normos vienetus gautas turtas Vyriausybės sprendimu perduodamas [[#^s-8dac374a9b8c5e5a83331d17|šio straipsnio 3 dalies]] [[#^s-529b4a2525c181af0b3b9cb2|1]] ir [[#^s-c6f828faa5aca9775c1c0ce2|2]] punktuose nurodytų Programos lėšų panaudojimo krypčių projektus ir (ar) priemones įgyvendinantiems subjektams:
 
 
 1) savivaldybėms nuosavybėn jų funkcijoms įgyvendinti, kai yra savivaldybės tarybos sutikimas; ^s-529b4a2525c181af0b3b9cb2

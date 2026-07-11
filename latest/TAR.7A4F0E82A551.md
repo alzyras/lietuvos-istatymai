@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-4cae390022b4e27b07d9f3cd
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 18 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Ukrainos konsulinę konvenciją“, ratifikuoja Lietuvos Respublikos ir Ukrainos konsulinę konvenciją, pasirašytą 1995 m. kovo 28 d. Kijeve.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 18 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Ukrainos konsulinę konvenciją“](https://e-tar.lt/portal/lt/legalAct/TAR.73770C62C6F5), ratifikuoja Lietuvos Respublikos ir Ukrainos konsulinę konvenciją, pasirašytą 1995 m. kovo 28 d. Kijeve.
 
 
 

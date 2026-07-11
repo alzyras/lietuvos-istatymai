@@ -119,10 +119,10 @@ Nr. XII-2116, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19704
 ### 7 straipsnis. Gyventojų registro valdytojo ir tvarkytojo (tvarkytojų) teisės ir pareigos ^s-4c01097260693557951de154
 
 
-1. Gyventojų registro valdytojas turi [[latest/TAR.85C510BA700A#^s-3359422ffa235b9dd29e4cc7|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo (toliau – Valstybės informacinių išteklių valdymo įstatymas) 24 straipsnio]] 1 ir [[#^s-3738cc4d7de4d95e1410620d|2 dalyse]] nustatytas teises ir to paties straipsnio 3 ir 4 dalyse nustatytas pareigas. ^s-3514bf176656774b1a92a75f
+1. Gyventojų registro valdytojas turi [[latest/TAR.85C510BA700A#^s-3359422ffa235b9dd29e4cc7|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo (toliau – Valstybės informacinių išteklių valdymo įstatymas) 24 straipsnio]] [[latest/TAR.85C510BA700A#^s-cb58ee9a800e720c67c1e1a1|1]] ir [[latest/TAR.85C510BA700A#^s-c3e3ba443e1ff7e84aff14e5|2]] dalyse nustatytas teises ir to paties straipsnio 3 ir 4 dalyse nustatytas pareigas. ^s-3514bf176656774b1a92a75f
 
 
-2. Gyventojų registro tvarkytojas (tvarkytojai) turi Valstybės informacinių išteklių valdymo įstatymo 24 straipsnio 5 dalyje nustatytas teises ir to paties straipsnio 6 dalyje nustatytas pareigas. ^s-3738cc4d7de4d95e1410620d
+2. Gyventojų registro tvarkytojas (tvarkytojai) turi [[latest/TAR.85C510BA700A|Valstybės informacinių išteklių valdymo įstatymo 24 straipsnio 5 dalyje]] nustatytas teises ir to paties straipsnio 6 dalyje nustatytas pareigas. ^s-3738cc4d7de4d95e1410620d
 
 
 3. Gyventojų registro valdytojas ir tvarkytojas (tvarkytojai), be šiame straipsnyje nurodytų teisių ir pareigų, taip pat turi teises ir pareigas, nustatytas Gyventojų registro nuostatuose. ^s-b70f5cc085aa54f85fd04e41
@@ -218,7 +218,7 @@ Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
 ### 10 straipsnis. Gyventojų registro duomenų tvarkymas ^s-121538670b534e59940e4574
 
 
-1. Gyventojų registro duomenys tvarkomi vadovaujantis šiuo įstatymu, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (toliau – Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.85C510BA700A|Valstybės informacinių išteklių valdymo įstatymu]], [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir Gyventojų registro nuostatais. ^s-26e31047b320b64542bab120
+1. Gyventojų registro duomenys tvarkomi vadovaujantis šiuo įstatymu, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (toliau – Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.85C510BA700A|Valstybės informacinių išteklių valdymo įstatymu]], [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir Gyventojų registro nuostatais. ^s-26e31047b320b64542bab120
 Straipsnio dalies pakeitimai:
 Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
 
@@ -396,7 +396,7 @@ Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 pakeitimo įstatym
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2116, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19704
-Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 2 ir [[#^s-9fd2937ff02181b8cd28a486|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 [[#^s-81e7b28a18781cb762919fa6|2]] ir [[#^s-9fd2937ff02181b8cd28a486|5]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -411,7 +411,7 @@ Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 [[#^s-7ddc5ea2288a
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2975, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12207
-Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 9, 10, 11, 13, [[#^s-90bd427b021dad999d6e946f|14 straipsnių]] pakeitimo ir [[#^s-97ab3be8da2e477eaee725aa|12 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos gyventojų registro įstatymo Nr. I-2237 [[#^s-b5d7d08e376f441b86570de1|9]], [[#^s-121538670b534e59940e4574|10]], [[#^s-7ddc5ea2288aec7809897fc9|11]], [[#^s-b26991f828bc3f3110af2bc1|13]], [[#^s-90bd427b021dad999d6e946f|14]] straipsnių pakeitimo ir [[#^s-97ab3be8da2e477eaee725aa|12 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas

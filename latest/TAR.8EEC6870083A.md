@@ -55,7 +55,7 @@ Vilnius
 1. Paveldo komisija yra Lietuvos Respublikos Seimo (toliau – Seimas), Lietuvos Respublikos Prezidento (toliau – Respublikos Prezidentas) ir Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ekspertė ir patarėja valstybinės kultūros paveldo apsaugos politikos, jos įgyvendinimo, vertinimo ir tobulinimo klausimais. Komisija atskaitinga Seimui. ^s-3b8a9e1604a790431edb3450
 
 
-2. Paveldo komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, kultūros paveldo apsaugą reglamentuojančiais, šiuo ir kitais įstatymais, Paveldo komisijos patvirtintais Valstybinės kultūros paveldo komisijos nuostatais ir kitais norminiais teisės aktais. ^s-3ec6566a3dac1ec91c96b0c5
+2. Paveldo komisija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), kultūros paveldo apsaugą reglamentuojančiais, šiuo ir kitais įstatymais, Paveldo komisijos patvirtintais Valstybinės kultūros paveldo komisijos nuostatais ir kitais norminiais teisės aktais. ^s-3ec6566a3dac1ec91c96b0c5
 
 
 3. Paveldo komisija yra juridinis asmuo, turi antspaudą su Lietuvos valstybės herbu bei savo pavadinimu ir sąskaitą banke. ^s-d917853849715db35644539b
@@ -144,13 +144,13 @@ Nr. XIV-3119, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20203
 4) teikia išvadas Seimui, Respublikos Prezidentui, Vyriausybei, Kultūros ministerijai, Kultūros paveldo departamentui, savivaldybių institucijoms, kitoms valstybės institucijoms dėl kultūros paveldo apsaugos strategijos įgyvendinimo ir prioritetinio finansavimo; ^s-40baab9ec421c4271ebc7ca8
 
 
-5) teikia siūlymus Seimui, Respublikos Prezidentui, Vyriausybei dėl Lietuvos Respublikos tarptautinių sutarčių, susijusių su kultūros paveldo apsauga, pasirašymo, ratifikavimo ir denonsavimo; ^s-5054dece2e123807a71025eb
+5) teikia siūlymus Seimui, Respublikos Prezidentui, Vyriausybei [dėl Lietuvos Respublikos tarptautinių sutarčių](https://e-tar.lt/portal/lt/legalAct/TAR.BC4A20CEA4A8), susijusių su kultūros paveldo apsauga, pasirašymo, ratifikavimo ir denonsavimo; ^s-5054dece2e123807a71025eb
 
 
 6) analizuoja ir vertina kultūros paveldo apsaugos tendencijas, jų ryšį su valstybės vykdoma kitų valdymo sričių politika; ^s-ef8a372c6bf6dd337ce5c21c
 
 
-7) vertina ir teikia išvadas dėl kultūros paveldo apsaugos politikos ir strategijos įgyvendinimo programų ir dėl biudžeto lėšų, skirtų kultūros paveldo apsaugai, panaudojimo; ^s-55625a565aa378ea3f37c6e3
+7) vertina ir teikia išvadas dėl kultūros paveldo apsaugos politikos ir strategijos įgyvendinimo programų ir [dėl biudžeto](https://e-tar.lt/portal/lt/legalAct/SAV.494628) lėšų, skirtų kultūros paveldo apsaugai, panaudojimo; ^s-55625a565aa378ea3f37c6e3
 
 
 8) vertina kultūros paveldo apsaugos valstybinio administravimo funkcijas atliekančios institucijos metines veiklos ataskaitas ir savivaldybių institucijų, įstaigų veiklą kultūros paveldo apsaugos požiūriu; ^s-817cf595c354db86f3726a5c
@@ -353,4 +353,4 @@ Lietuvos Respublikos Valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3119, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20203
-Lietuvos Respublikos Valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2453 4 ir [[#^s-a71b5d716f86523271300a9d|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Valstybinės kultūros paveldo komisijos įstatymo Nr. IX-2453 [[#^s-7b032996747a8a510f08d471|4]] ir [[#^s-a71b5d716f86523271300a9d|8]] straipsnių pakeitimo įstatymas

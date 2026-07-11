@@ -9,9 +9,13 @@ pavadinimas: "Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-21
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.3EB34933E485#^s-11ace49eed22990baa0cf29f|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 8 citatos - Mokesčių administravimo įstatymo 424 straipsnio 1 dalyje
+- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 4 citatos - 14 punktu
+- [[latest/TAR.3EB34933E485#^s-11ace49eed22990baa0cf29f|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 4 citatos - Mokesčių administravimo įstatymo 424 straipsnio 1 dalyje
+- [[latest/TAR.3EB34933E485#^s-52f179892f505aa5cafa4348|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - 424 straipsnis
+- [[latest/TAR.3EB34933E485#^s-53ab6cb0a86ddbbec119c302|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 40 straipsnio 14 punktą
+- [[latest/TAR.3EB34933E485#^s-9e55ca184ae309dc4afc3975|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 40 straipsnio 13 punktą
+- [[latest/TAR.3EB34933E485#^s-e339c32b332114febd333a54|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - 40 straipsnį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.3EB34933E485#^s-165a514f5b02ec3454d3a4c4|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Įstatymas Nr. XIV-293
-- [[latest/TAR.3EB34933E485#^s-471ad9654ded2e34c0e8a829|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Įstatymas Nr. XIV-293
+_Nėra._

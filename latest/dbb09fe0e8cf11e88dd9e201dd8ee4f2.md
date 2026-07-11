@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-4a07871454d5b84696c5272c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 2 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2018 m. rugsėjo 10 d. dekretą Nr. 1K-1403, ratifikuoja Lenkijos Respublikos Vyriausybės, Lietuvos Respublikos Vyriausybės ir Ukrainos Ministrų Kabineto susitarimą dėl Lenkijos Respublikos Vyriausybės, Lietuvos Respublikos Vyriausybės ir Ukrainos Ministrų Kabineto susitarimo dėl bendro karinio vieneto įsteigimo, pasirašyto 2014 m. rugsėjo 19 d. Varšuvoje, pakeitimo, pasirašytą 2017 m. spalio 5 d. Liubline.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 2 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento [2018 m. rugsėjo 10 d. dekretą Nr. 1K-1403](https://e-tar.lt/portal/lt/legalAct/1919c280b4e111e88f64a5ecc703f89b), ratifikuoja Lenkijos Respublikos Vyriausybės, Lietuvos Respublikos Vyriausybės ir Ukrainos Ministrų Kabineto susitarimą dėl Lenkijos Respublikos Vyriausybės, Lietuvos Respublikos Vyriausybės ir Ukrainos Ministrų Kabineto susitarimo dėl bendro karinio vieneto įsteigimo, pasirašyto 2014 m. rugsėjo 19 d. Varšuvoje, pakeitimo, pasirašytą 2017 m. spalio 5 d. Liubline.
 
 
 

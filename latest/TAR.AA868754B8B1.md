@@ -44,7 +44,7 @@ Vilnius
 1. Papildyti 140 straipsnį nauja [[#^s-dd957d1bf9f4ae3246d1a21a|2 dalimi]]: ^s-6f30967fd4182c8bcdccb216
 
 
-„2. Tas, kas [[#^s-6f30967fd4182c8bcdccb216|šio straipsnio 1 dalyje]] nurodytą veiką padarė savo artimajam giminaičiui ar šeimos nariui,
+„2. Tas, kas šio straipsnio 1 dalyje nurodytą veiką padarė savo artimajam giminaičiui ar šeimos nariui,
 baudžiamas viešaisiais darbais arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.“
 
 

@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo priedo pakeitimas ^s-d9db7a645592b9669881dd7e
 
 
-Pakeisti Įstatymo priedo 20 punktą ir jį išdėstyti taip:
+Pakeisti Įstatymo priedo [[latest/TAR.7E60B29052C0|20 punktą]] ir jį išdėstyti taip:
 
 
  „20.

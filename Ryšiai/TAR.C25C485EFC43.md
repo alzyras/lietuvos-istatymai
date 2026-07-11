@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos karo padėties įstatymo 2, 3, 5, 6, 7, 8, 26
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 6 citatos - Lietuvos Respublikos baudžiamojo proceso kodekso
+- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 5 citatos - Lietuvos Respublikos baudžiamojo proceso kodekso
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C70309CDEB7B#^s-40496bada33596b542927a2f|Lietuvos Respublikos karo padėties įstatymas]] - 3 citatos - 1031010ISTA0IX-1422
-- [[latest/TAR.C70309CDEB7B#^s-93505aeeb2edeb9e1b24417e|Lietuvos Respublikos karo padėties įstatymas]] - 3 citatos - 1031010ISTA0IX-1422
+- [[latest/TAR.C70309CDEB7B#^s-40496bada33596b542927a2f|Lietuvos Respublikos karo padėties įstatymas]] - 2 citatos - 1031010ISTA0IX-1422

@@ -161,7 +161,7 @@ Papildyti Kodeksą 723 straipsniu:
 4) asmuo, kuriam perleistas turtas, arba juridiniame asmenyje vadovaujančias pareigas ėję ir teisę jam atstovauti, juridinio asmens vardu priimti sprendimus ar kontroliuoti juridinio asmens veiklą turėję asmenys žinojo arba turėjo ir galėjo žinoti, kad šis turtas įgytas nusikalstamu būdu ar neteisėtomis kaltininko lėšomis. ^s-e4579b7958fe1bf920e19d55
 
 
-4. Šiame straipsnyje numatytas išplėstinis turto konfiskavimas negali būti taikomas kaltininko ar trečiųjų asmenų turtui ar jo daliai, iš kurių pagal Lietuvos Respublikos tarptautines sutartis, Lietuvos Respublikos civilinio proceso kodekso, kitų įstatymų nuostatas negali būti išieškoma. ^s-ded86dddbd078590651327ec
+4. Šiame straipsnyje numatytas išplėstinis turto konfiskavimas negali būti taikomas kaltininko ar trečiųjų asmenų turtui ar jo daliai, iš kurių pagal Lietuvos Respublikos tarptautines sutartis, [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), kitų įstatymų nuostatas negali būti išieškoma. ^s-ded86dddbd078590651327ec
 
 
 5. Kai konfiskuotinas visas turtas arba jo dalis yra paslėpta, suvartota, priklauso tretiesiems asmenims ar jo negalima paimti dėl kitų priežasčių arba šį turtą konfiskuoti būtų netikslinga, teismas iš kaltininko ar kitų [[#^s-0bb37f403427cb9a8f935123|šio straipsnio 3 dalyje]] nurodytų asmenų išieško konfiskuotino turto ar jo dalies vertę atitinkančią pinigų sumą. ^s-eb736e0bca3af217023117cc

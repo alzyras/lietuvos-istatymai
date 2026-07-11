@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-023d1cb65af79b3406e709e4
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. lapkričio 21 d. dekretą Nr. 289, ratifikuoja 1976 m. lapkričio 19 d. Londone priimtą 1976 m. Tarptautinę konvenciją dėl atsakomybės pagal jūrinius reikalavimus ribojimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. lapkričio 21 d. dekretą Nr. 289](https://e-tar.lt/portal/lt/legalAct/TAR.4CE984AEAABB), ratifikuoja 1976 m. lapkričio 19 d. Londone priimtą 1976 m. Tarptautinę konvenciją dėl atsakomybės pagal jūrinius reikalavimus ribojimo.
 
 
 

@@ -75,7 +75,7 @@ Lietuvos šaulių sąjunga yra valstybės remiama ir jai padedanti savanoriška 
 ### 4 straipsnis. Įstatymo įsigaliojimas ^s-87872d383c7b5220cb6c4d51
 
 
-Šio įstatymo 1 ir [[#^s-32689be876bf11202bafd28c|3 straipsniai]] įsigalioja 2010 m. sausio 1 d.
+Šio įstatymo [[#^s-74a67f837b92a05b6b1d6493|1]] ir [[#^s-32689be876bf11202bafd28c|3]] straipsniai įsigalioja 2010 m. sausio 1 d.
 
 
 

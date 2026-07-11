@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos akcini�
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.9DDDE14B8610|Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo]] - 3 citatos - „Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo“
+- [[latest/TAR.9DDDE14B8610|Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo]] - 4 citatos - „Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo“
 
 ## Šį įstatymą cituoja
 

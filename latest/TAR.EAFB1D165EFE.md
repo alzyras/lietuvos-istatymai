@@ -100,10 +100,10 @@ Teisę į valstybės paramą įsigyjant žemės ūkio paskirties žemę turi:
 
 
 1) fiziniam asmeniui – 300 ha. Asmuo, iki šio įstatymo įsigaliojimo įsigijęs didesnį kaip 300 ha žemės ūkio paskirties žemės plotą, pagal šį įstatymą žemės ūkio paskirties žemės įsigyti negali; ^s-59d8bde3593802c2dd140d0a
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo (2004 m. liepos 15 d. redakcija; Žin., 2004, Nr. 124-4490) [[#^s-59d8bde3593802c2dd140d0a|4 straipsnio 1 dalies 1 punktas]] ta apimtimi, kuria nustatyta, kad fiziniams asmenims leidžiamos įsigyti nuosavybės teise žemės ūkio paskirties žemės plotų maksimalus dydis yra ne 2000 ha, bet 300 ha, prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsnio 1 daliai, 46 straipsnio 4 dalies nuostatai „įstatymas <... > saugo sąžiningos konkurencijos laisvę“, 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus gali laisvai pasirinkti <...> verslą“.
-Pripažinti, kad Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo (2004 m. liepos 15 d. redakcija; Žin., 2004, Nr. 124-4490) [[#^s-59d8bde3593802c2dd140d0a|4 straipsnio 1 dalies 1 punkto]] nuostata „Asmuo, iki šio įstatymo įsigaliojimo įsigijęs didesnį kaip 300 ha žemės ūkio paskirties žemės plotą, pagal šį įstatymą žemės ūkio paskirties žemės įsigyti negali“ ta apimtimi, kuria įtvirtinta, kad asmenims, iki šio įstatymo įsigaliojimo įsigijusiems didesnį kaip 300 ha žemės ūkio paskirties žemės plotą, pagal šį įstatymą draudžiama įsigyti nuosavybės teise žemės ūkio paskirties žemės tiek, kad bendras jam nuosavybės teise priklausančios žemės ūkio paskirties žemės plotas būtų ne didesnis kaip 2000 ha, prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsnio 1 daliai, 46 straipsnio 4 dalies nuostatai „įstatymas <...> saugo sąžiningos konkurencijos laisvę“, 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus gali laisvai pasirinkti <... > verslą“.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo (2004 m. liepos 15 d. redakcija; Žin., 2004, Nr. 124-4490) 4 straipsnio 1 dalies 1 punktas ta apimtimi, kuria nustatyta, kad fiziniams asmenims leidžiamos įsigyti nuosavybės teise žemės ūkio paskirties žemės plotų maksimalus dydis yra ne 2000 ha, bet 300 ha, prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsnio 1 daliai, 46 straipsnio 4 dalies nuostatai „įstatymas <... > saugo sąžiningos konkurencijos laisvę“, 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus gali laisvai pasirinkti <...> verslą“.
+Pripažinti, kad Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo (2004 m. liepos 15 d. redakcija; Žin., 2004, Nr. 124-4490) 4 straipsnio 1 dalies 1 punkto nuostata „Asmuo, iki šio įstatymo įsigaliojimo įsigijęs didesnį kaip 300 ha žemės ūkio paskirties žemės plotą, pagal šį įstatymą žemės ūkio paskirties žemės įsigyti negali“ ta apimtimi, kuria įtvirtinta, kad asmenims, iki šio įstatymo įsigaliojimo įsigijusiems didesnį kaip 300 ha žemės ūkio paskirties žemės plotą, pagal šį įstatymą draudžiama įsigyti nuosavybės teise žemės ūkio paskirties žemės tiek, kad bendras jam nuosavybės teise priklausančios žemės ūkio paskirties žemės plotas būtų ne didesnis kaip 2000 ha, prieštarauja Lietuvos Respublikos Konstitucijos 29 straipsnio 1 daliai, 46 straipsnio 4 dalies nuostatai „įstatymas <...> saugo sąžiningos konkurencijos laisvę“, 48 straipsnio 1 dalies nuostatai „kiekvienas žmogus gali laisvai pasirinkti <... > verslą“.
 Straipsnio punkto pakeitimai:
-2006-03-30, Žin., 2006, Nr. 37-1319 (2006-04-04), i. k. 1061000NUTARG062042
+2006-03-30, Žin., 2006, Nr. 37-1319 (2006-04-04), i. k. [1061000NUTARG062042](https://e-tar.lt/portal/lt/legalAct/TAR.9C86ECCC7E9D)
 
 
 
@@ -138,7 +138,7 @@ Straipsnio punkto pakeitimai:
 5) jaunieji ūkininkai iki 40 metų, [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymo]] nustatyta tvarka įregistravę ūkininko ūkį ir naudoję ne mažesnį kaip 1 ha žemės sklypą žemės ūkio veiklai ne mažiau kaip metus; ^s-24d383b90b466fd4b516debd
 
 
-6) fiziniai asmenys, [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymo]] nustatyta tvarka įregistravę ūkininko ūkį, neatitinkantys šios dalies 3, 4 ir [[#^s-24d383b90b466fd4b516debd|5 punktuose]] nurodytų reikalavimų, naudoję ne mažesnį kaip 1 ha žemės sklypą žemės ūkio veiklai ne mažiau kaip metus. ^s-a702d28a4c8bd3a6d0f5b6e2
+6) fiziniai asmenys, [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymo]] nustatyta tvarka įregistravę ūkininko ūkį, neatitinkantys šios dalies [[latest/TAR.769B541DD7F7|3]], [[latest/TAR.769B541DD7F7|4]] ir [[latest/TAR.769B541DD7F7|5]] punktuose nurodytų reikalavimų, naudoję ne mažesnį kaip 1 ha žemės sklypą žemės ūkio veiklai ne mažiau kaip metus. ^s-a702d28a4c8bd3a6d0f5b6e2
 
 
 3. Žemės ūkio paskirties žemės sklypų formavimo eiliškumas asmenims, nurodytiems [[#^s-07d63a7258227e887ba1b4d0|šio straipsnio 2 dalyje]], nustatomas Žemės reformos įstatyme. Žemės ūkio paskirties žemės sklypus, nurodytus [[#^s-07d63a7258227e887ba1b4d0|šio straipsnio 2 dalies]] 1 ir 2 punktuose, pagal šį įstatymą pirkti gali tik šiuos žemės sklypus naudojantys asmenys. ^s-50dda5890a96e671f99f5009
@@ -176,7 +176,7 @@ Straipsnio punkto pakeitimai:
 ### 2 straipsnis. Įstatymo įsigaliojimas ^s-517c95c15a8a054365127790
 
 
-1. Įsigaliojus šiam įstatymui, netenka galios Lietuvos Respublikos valstybės paramos įsigyjant žemės ūkio paskirties žemę laikinasis įstatymas (Žin., 2002, Nr. 74-3140). ^s-dcfa707fb7a7096a82a2936d
+1. Įsigaliojus šiam įstatymui, netenka galios [Lietuvos Respublikos valstybės paramos įsigyjant žemės ūkio paskirties žemę laikinasis įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.B9267A8F2583) (Žin., 2002, Nr. 74-3140). ^s-dcfa707fb7a7096a82a2936d
 
 
 2. Neteko galios nuo 2006-07-27 ^s-2e2f1f5f0a0d7a35f9221ae5
@@ -200,8 +200,8 @@ Pakeitimai:
 
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2006-03-30, Žin., 2006, Nr. 37-1319 (2006-04-04), i. k. 1061000NUTARG062042
-Dėl Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo (2004 m. liepos 15 d. redakcija) [[#^s-094e6501646b5655c953f278|4 straipsnio]] atitikties Lietuvos Respublikos Konstitucijai ir dėl pareiškėjo – Lietuvos Respublikos Seimo narių grupės prašymo ištirti, ar Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo (2003 m. sausio 28 d. redakcija) [[#^s-094e6501646b5655c953f278|4 straipsnis]] neprieštarauja Lietuvos Respublikos Konstitucijai
+2006-03-30, Žin., 2006, Nr. 37-1319 (2006-04-04), i. k. [1061000NUTARG062042](https://e-tar.lt/portal/lt/legalAct/TAR.9C86ECCC7E9D)
+[Dėl Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo (2004 m. liepos 15 d. redakcija) 4 straipsnio atitikties Lietuvos Respublikos Konstitucijai ir dėl pareiškėjo – Lietuvos Respublikos Seimo narių grupės prašymo ištirti, ar Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo (2003 m. sausio 28 d. redakcija) 4 straipsnis neprieštarauja Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/TAR.9C86ECCC7E9D)
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas

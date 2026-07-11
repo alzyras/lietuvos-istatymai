@@ -9,7 +9,7 @@ pavadinimas: "Dėl rajonų valdybų žemės ūkio skyrių žemės reformos laiko
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - Lietuvos Respublikos vietos savivaldos įstatymo
+_Nėra._
 
 ## Šį įstatymą cituoja
 

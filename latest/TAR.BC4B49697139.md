@@ -46,7 +46,7 @@ Pripažinti netekusiais galios:
 1) [[latest/TAR.3EB34933E485#^s-c08a7ee45c1db29bb5a0442a|Lietuvos Respublikos mokesčių administravimo įstatymo 83 straipsnio]] pakeitimo įstatymą (Žin., 2007, Nr. 114-4629); ^s-d4e213843c167bbd077cf6bb
 
 
-2) [[latest/TAR.3EB34933E485#^s-c08a7ee45c1db29bb5a0442a|Lietuvos Respublikos mokesčių administravimo įstatymo 83 straipsnio]] pakeitimo įstatymo 2 straipsnio pakeitimo įstatymą (Žin., 2008, Nr. 149-6023). ^s-2eeae55f7303395fcfa9eab5
+2) [Lietuvos Respublikos mokesčių administravimo įstatymo 83 straipsnio pakeitimo įstatymo 2 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.47A63B418C5E) pakeitimo įstatymą (Žin., 2008, Nr. 149-6023). ^s-2eeae55f7303395fcfa9eab5
 
 
 

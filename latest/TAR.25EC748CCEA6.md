@@ -52,7 +52,7 @@ Vilnius
 1. Konstitucijos 125 straipsnio 2 dalį pripažinti netekusia galios. ^s-6e1a28b7fe33d5317c8eeda5
 
 
-2. Konstitucijos 125 straipsnio 3 dalį laikyti [[#^s-0586d2c9d58d235813d672d8|2 dalimi]], šioje dalyje po žodžio „įgaliojimus“ įrašyti žodžius „ir Lietuvos banko valdybos pirmininko teisinį statusą bei jo atleidimo pagrindus“ ir [[#^s-0586d2c9d58d235813d672d8|2 dalį]] išdėstyti taip: ^s-0586d2c9d58d235813d672d8
+2. Konstitucijos 125 straipsnio 3 dalį laikyti 2 dalimi, šioje dalyje po žodžio „įgaliojimus“ įrašyti žodžius „ir Lietuvos banko valdybos pirmininko teisinį statusą bei jo atleidimo pagrindus“ ir 2 dalį išdėstyti taip: ^s-0586d2c9d58d235813d672d8
 
 
 „Lietuvos banko organizavimo ir veiklos tvarką, taip pat įgaliojimus ir Lietuvos banko valdybos pirmininko teisinį statusą bei jo atleidimo pagrindus nustato įstatymas.“
@@ -71,5 +71,5 @@ Pakeitimai:
 
 1.
 Lietuvos Respublikos Konstitucinio Teismo pirmininkas, Pranešimas
-2013-11-13, Žin., 2013, Nr. 118-5946 (2013-11-16), i. k. 113100PPRANRG135946
-Dėl Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymo galiojimo sustabdymo
+2013-11-13, Žin., 2013, Nr. 118-5946 (2013-11-16), i. k. [113100PPRANRG135946](https://e-tar.lt/portal/lt/legalAct/TAR.C827F9A316A3)
+[Dėl Lietuvos Respublikos Konstitucijos 125 straipsnio pakeitimo įstatymo galiojimo sustabdymo](https://e-tar.lt/portal/lt/legalAct/TAR.C827F9A316A3)

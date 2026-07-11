@@ -280,7 +280,7 @@ Pakeisti [[#^s-4e07700f35df71df90aa6ead|10 straipsnį]] ir jį išdėstyti taip:
 ### 11 straipsnis. 14 straipsnio pavadinimo, 2, 3, 4 ir 6 dalių pakeitimas ^s-c4f082547bdbb93a230d53dc
 
 
-Pakeisti [[#^s-a3da314b5c75db91922d0e38|14 straipsnio]] pavadinimą, 2, 3, 4, [[#^s-ac2d83ec5578e040fda7c9a2|6 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-a3da314b5c75db91922d0e38|14 straipsnio]] pavadinimą, [[#^s-6d2b8bbe2cb6d2067a8b6b26|2]], [[#^s-cf8f651b0c872d9a7aec2904|3]], [[#^s-53296346087ce641ad66ccd8|4]], [[#^s-866c86011da11e4fd3126423|6]] dalis ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-a3da314b5c75db91922d0e38|14 straipsnis]]. Valstybės ir savivaldybių materialiojo turto nuoma
@@ -388,7 +388,7 @@ Papildyti Įstatymą 161 straipsniu:
 3. Valstybės nekilnojamasis turtas atnaujinamas pagal Vyriausybės patvirtintą atnaujinamo valstybės nekilnojamojo turto sąrašą. Atnaujinamo valstybės nekilnojamojo turto sąrašo sudarymo tvarką nustato Vyriausybė. ^s-cf8f651b0c872d9a7aec2904
 
 
-4. Valstybės nekilnojamojo turto atnaujinimo organizavimo ir koordinavimo funkcijas įgyvendina akcinė bendrovė Turto bankas (valstybės nekilnojamojo turto atnaujinimo organizatorius). Valstybės nekilnojamojo turto atnaujinimo organizatoriaus veiklą reglamentuoja Lietuvos Respublikos akcinės bendrovės Turto banko įstatų patvirtinimo įstatymas ir kiti teisės aktai. ^s-53296346087ce641ad66ccd8
+4. Valstybės nekilnojamojo turto atnaujinimo organizavimo ir koordinavimo funkcijas įgyvendina akcinė bendrovė Turto bankas (valstybės nekilnojamojo turto atnaujinimo organizatorius). Valstybės nekilnojamojo turto atnaujinimo organizatoriaus veiklą reglamentuoja [Lietuvos Respublikos akcinės bendrovės Turto banko įstatų patvirtinimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.F4A56D37CD91) ir kiti teisės aktai. ^s-53296346087ce641ad66ccd8
 
 
 5. Atnaujinant valstybės nekilnojamąjį turtą, valstybės nekilnojamojo turto atnaujinimo organizatorius ir valstybės turto valdytojas sudaro susitarimą, kuriame turi būti nurodyta: ^s-f6f3a972b084c59c93c6b37f
@@ -597,7 +597,7 @@ Valstybės ir savivaldybių turtinės ir neturtinės teisės viešosiose įstaig
 ### 22 straipsnis. 23 straipsnio pakeitimas ^s-05597783fee18518119f9744
 
 
-Pakeisti [[#^s-c31e386ee330612638a57442|23 straipsnio]] 1, 2, 4, 5, [[#^s-bb85e11b8564972b41bf71d3|6 dalis]] ir šį straipsnį išdėstyti taip:
+Pakeisti [[#^s-c31e386ee330612638a57442|23 straipsnio]] [[#^s-b45c924efdf0badf4f0b11b8|1]], [[#^s-b31af00e1a8aa20961d6b7d6|2]], [[#^s-ad25f60681da4da5d0c76388|4]], 5, 6 dalis ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-c31e386ee330612638a57442|23 straipsnis]].     Nereikalingo arba netinkamo (negalimo) naudoti valstybės ir savivaldybių turto panaudojimas ir nurašymas
@@ -606,7 +606,7 @@ Pakeisti [[#^s-c31e386ee330612638a57442|23 straipsnio]] 1, 2, 4, 5, [[#^s-bb85e1
 1. Panaudoti nereikalingą ar netinkamą (negalimą) naudoti valstybės ar savivaldybės nematerialųjį, ilgalaikį ir trumpalaikį materialųjį turtą, išskyrus šio Įstatymo [[#^s-dd4eb752eb99109012aa4757|22 straipsnio 1 dalies 6 punkte]] nurodytą atvejį, galima šiais būdais: ^s-0d4ba324702362b37ef601d5
 
 
-1) perduodant patikėjimo teise 9, 10 ir [[#^s-c4f082547bdbb93a230d53dc|11 straipsniuose]] nustatytais atvejais ir tvarka; ^s-cbcd645e28eebdefed3aa98b
+1) perduodant patikėjimo teise [[#^s-856acfb115483553ac6b2aa2|9]], [[#^s-4e07700f35df71df90aa6ead|10]] ir [[#^s-c4f082547bdbb93a230d53dc|11]] straipsniuose nustatytais atvejais ir tvarka; ^s-cbcd645e28eebdefed3aa98b
 
 
 2) perduodant pagal panaudos sutartį šio Įstatymo [[#^s-59686d9fe04ac4f8197271ba|13 straipsnyje]] nustatytais atvejais ir tvarka; ^s-f2ab98f8282bc17395a15736
@@ -624,7 +624,7 @@ Pakeisti [[#^s-c31e386ee330612638a57442|23 straipsnio]] 1, 2, 4, 5, [[#^s-bb85e1
 6) parduodant Lietuvos Respublikos diplomatinių atstovybių, konsulinių įstaigų ir atstovybių prie tarptautinių organizacijų valdomą turtą (išskyrus nekilnojamuosius daiktus) Vyriausybės nustatyta tvarka; ^s-dd4eb752eb99109012aa4757
 
 
-7) perduodant valstybės ar savivaldybių nuosavybėn šio Įstatymo 6 ir [[#^s-baa556827513abccce32f8e7|17 straipsniuose]] nustatytais atvejais ir tvarka; ^s-97fdcce60bd428f53fc6df47
+7) perduodant valstybės ar savivaldybių nuosavybėn šio Įstatymo [[#^s-6cf35795926ef31bde31edb3|6]] ir [[#^s-baa556827513abccce32f8e7|17]] straipsniuose nustatytais atvejais ir tvarka; ^s-97fdcce60bd428f53fc6df47
 
 
 8) gyvūnus parduodant ar perleidžiant Vyriausybės ar savivaldybės tarybos nustatyta tvarka. ^s-0eabc589907dfff3aab222a9
@@ -664,7 +664,7 @@ Pakeisti [[#^s-c31e386ee330612638a57442|23 straipsnio]] 1, 2, 4, 5, [[#^s-bb85e1
 2. Lietuvos Respublikos Vyriausybė iki 2007 m. sausio 1 d. parengia teisės aktus, reikalingus šio įstatymo [[#^s-a3da314b5c75db91922d0e38|14 straipsnio]] nuostatoms įgyvendinti, išskyrus [[#^s-ad25f60681da4da5d0c76388|šio straipsnio 4 dalyje]] nustatytą išimtį. ^s-b31af00e1a8aa20961d6b7d6
 
 
-3. Siekiant tinkamai įgyvendinti šio įstatymo [[#^s-a3da314b5c75db91922d0e38|14 straipsnio]] nuostatas, Lietuvos Respublikos Vyriausybė iki 2006 m. rugsėjo 1 d. pateikia Seimui Lietuvos Respublikos akcinės bendrovės Turto banko įstatų patvirtinimo įstatymo pakeitimo ir papildymo įstatymo projektą. ^s-a6428cbfc4c0568ccd9cc0a6
+3. Siekiant tinkamai įgyvendinti šio įstatymo [[#^s-a3da314b5c75db91922d0e38|14 straipsnio]] nuostatas, Lietuvos Respublikos Vyriausybė iki 2006 m. rugsėjo 1 d. pateikia Seimui [Lietuvos Respublikos akcinės bendrovės Turto banko įstatų patvirtinimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.F4A56D37CD91) pakeitimo ir papildymo įstatymo projektą. ^s-a6428cbfc4c0568ccd9cc0a6
 
 
 4. Lietuvos Respublikos Vyriausybė 2007 m. ir 2008 m. valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymų projektuose turėtų numatyti reikalingas lėšas viso valstybei ir savivaldybėms nuosavybės teise priklausančio registruotino turto inventorizavimui ir registravimui viešuosiuose registruose. ^s-ad25f60681da4da5d0c76388

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-634c9804e463ab03742892fb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. vasario 11 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl tarptautinės teisės kreiptis į teismą“, ratifikuoja su pareiškimais 1980 m. spalio 25 d. sudarytą Konvenciją dėl tarptautinės teisės kreiptis į teismą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. vasario 11 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl tarptautinės teisės kreiptis į teismą“](https://e-tar.lt/portal/lt/legalAct/TAR.85E6B75F743B), ratifikuoja su pareiškimais 1980 m. spalio 25 d. sudarytą Konvenciją dėl tarptautinės teisės kreiptis į teismą.
 
 
 

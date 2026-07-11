@@ -92,7 +92,7 @@ BENDROSIOS NUOSTATOS
 1. Asmens duomenys – bet kuri informacija, susijusi su fiziniu asmeniu – duomenų subjektu, kurio tapatybė yra žinoma arba gali būti tiesiogiai ar netiesiogiai nustatyta pasinaudojant tokiais duomenimis kaip asmens kodas, vienas arba keli asmeniui būdingi fizinio, fiziologinio, psichologinio, ekonominio, kultūrinio ar socialinio pobūdžio požymiai. ^s-1f54f29c3daa21e7ddadc6cb
 
 
-2. Duomenų gavėjas – juridinis ar fizinis asmuo, kuriam teikiami asmens duomenys. Šio Įstatymo vykdymo priežiūros institucijos, nurodytos 8 ir [[#^s-90d0b99996fb3c5ae04b17f8|29 straipsniuose]], kitos valstybės ir savivaldybių institucijos ir įstaigos nėra duomenų gavėjai, kai šios institucijos ir įstaigos pagal konkretų paklausimą gauna asmens duomenis įstatymų nustatytoms kontrolės funkcijoms atlikti. ^s-7c5c2ef22963e2d9c2c7344b
+2. Duomenų gavėjas – juridinis ar fizinis asmuo, kuriam teikiami asmens duomenys. Šio Įstatymo vykdymo priežiūros institucijos, nurodytos [[#^s-a4214f807a45e60870fe3642|8]] ir [[#^s-90d0b99996fb3c5ae04b17f8|29]] straipsniuose, kitos valstybės ir savivaldybių institucijos ir įstaigos nėra duomenų gavėjai, kai šios institucijos ir įstaigos pagal konkretų paklausimą gauna asmens duomenis įstatymų nustatytoms kontrolės funkcijoms atlikti. ^s-7c5c2ef22963e2d9c2c7344b
 
 
 3. Duomenų teikimas – asmens duomenų atskleidimas perduodant ar kitu būdu padarant juos prieinamus (išskyrus paskelbimą visuomenės informavimo priemonėse). ^s-e5abacc978ebe20bb4299d16
@@ -152,7 +152,7 @@ ASMENS DUOMENŲ TVARKYMAS
 2) tvarkomi tiksliai, sąžiningai ir teisėtai; ^s-5bab3fc8128c012c703f1cba
 
 
-3) tikslūs ir, jei reikia dėl asmens duomenų tvarkymo, nuolat atnaujinami; netikslūs ar neišsamūs duomenys turi būti ištaisyti, papildyti, sunaikinti arba sustabdytas jų tvarkymas; ^s-4f08490f9e7b388973223cd5
+3) tikslūs ir, jei reikia [dėl asmens duomenų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.CCBBCFCD3831), nuolat atnaujinami; netikslūs ar neišsamūs duomenys turi būti ištaisyti, papildyti, sunaikinti arba sustabdytas jų tvarkymas; ^s-4f08490f9e7b388973223cd5
 
 
 4) tapatūs, tinkami ir tik tokios apimties, kuri būtina jiems rinkti ir toliau tvarkyti; ^s-b7a2053dcd6995c1c8f33452
@@ -226,7 +226,7 @@ Asmens duomenys saugomi ne ilgiau, nei to reikalauja duomenų tvarkymo tikslai. 
 3. Duomenys apie asmens sveikatą taip pat gali būti tvarkomi šio Įstatymo [[#^s-942d7700e7d5548b930fc73d|10 straipsnyje]] ir sveikatos sritį reglamentuojančių įstatymų nustatytais tikslais ir tvarka. ^s-5fd8aaae279ad323d3867ad1
 
 
-4. Asmens duomenis, susijusius su asmens teistumu, nusikalstamomis veikomis ar saugumo priemonėmis, vykdant nusikalstamų veikų prevenciją, tyrimą, taip pat kitais įstatymų nustatytais atvejais įstatymų nustatyta tvarka gali tvarkyti tik valstybės institucija ar įstaiga. Kiti fiziniai ar juridiniai asmenys tokius duomenis gali tvarkyti įstatymų nustatytais atvejais, kai yra tinkamai įgyvendintos įstatymuose ir kituose teisės aktuose nustatytos priemonės duomenų subjekto teisėtiems interesams apsaugoti. Išsamūs duomenys apie asmenų teistumą gali būti tvarkomi tik Valstybės registrų įstatymo nustatyta tvarka. ^s-f2adcb72e1854ce3aebd875c
+4. Asmens duomenis, susijusius su asmens teistumu, nusikalstamomis veikomis ar saugumo priemonėmis, vykdant nusikalstamų veikų prevenciją, tyrimą, taip pat kitais įstatymų nustatytais atvejais įstatymų nustatyta tvarka gali tvarkyti tik valstybės institucija ar įstaiga. Kiti fiziniai ar juridiniai asmenys tokius duomenis gali tvarkyti įstatymų nustatytais atvejais, kai yra tinkamai įgyvendintos įstatymuose ir kituose teisės aktuose nustatytos priemonės duomenų subjekto teisėtiems interesams apsaugoti. Išsamūs duomenys apie asmenų teistumą gali būti tvarkomi tik [Valstybės registrų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296) nustatyta tvarka. ^s-f2adcb72e1854ce3aebd875c
 
 
 
@@ -252,7 +252,7 @@ Asmens duomenys šio Įstatymo nustatytais atvejais teikiami pagal duomenų vald
 1) jei tokia teisė yra nustatyta šiame ir kituose įstatymuose; ^s-4d52775e8cafd11369fd5386
 
 
-2) atliekant mokslinį arba statistinį tyrimą šio Įstatymo 12 ir [[#^s-5978015f9b399431ba1213db|13 straipsniuose]] nustatytais atvejais; ^s-23e5a0fa6a755c16efdeda7e
+2) atliekant mokslinį arba statistinį tyrimą šio Įstatymo [[#^s-266a77353cbd01e06b30a394|12]] ir [[#^s-5978015f9b399431ba1213db|13]] straipsniuose nustatytais atvejais; ^s-23e5a0fa6a755c16efdeda7e
 
 
 3) valstybės registruose ir informacinėse sistemose, jeigu jie yra įteisinti teisės aktų nustatyta tvarka; ^s-1201b89ad9784adf4109b18a
@@ -265,7 +265,7 @@ Asmens duomenys šio Įstatymo nustatytais atvejais teikiami pagal duomenų vald
 ### 8 straipsnis. Asmens duomenų tvarkymas ir visuomenės informavimo laisvės derinimas ^s-a4214f807a45e60870fe3642
 
 
-Asmens duomenų tvarkymą visuomenės informavimo priemonėse žurnalistikos, meninės ir literatūrinės raiškos bei kitais tikslais prižiūri žurnalistų etikos inspektorius. Jo kompetenciją nustato [[latest/TAR.065AB8483E1E|Visuomenės informavimo įstatymas]]. Šiais atvejais asmens duomenų tvarkymui taikomos tik šio Įstatymo 1, 2, 3, 4, 6, 7, 24, 33 ir [[#^s-24c3cb61ebd950c5e6247c07|34 straipsnių]] nuostatos.
+Asmens duomenų tvarkymą visuomenės informavimo priemonėse žurnalistikos, meninės ir literatūrinės raiškos bei kitais tikslais prižiūri žurnalistų etikos inspektorius. Jo kompetenciją nustato [[latest/TAR.065AB8483E1E|Visuomenės informavimo įstatymas]]. Šiais atvejais asmens duomenų tvarkymui taikomos tik šio Įstatymo 1, 2, 3, [[#^s-f0b0e421a6a9d96bb06e72c7|4]], [[#^s-a13f522775a86dcdf07187e5|6]], [[#^s-98e96b9614c086aab8f3b4c4|7]], [[#^s-ba78ed77d2df6bc0d1a19ed5|24]], [[#^s-5018213e410b82455b15620b|33]] ir [[#^s-24c3cb61ebd950c5e6247c07|34]] straipsnių nuostatos.
 
 
 
@@ -347,7 +347,7 @@ Socialinių paslaugų teikėjai, atlikdami savo funkcijas socialinio draudimo ir
 ### 15 straipsnis. Asmens duomenų tvarkymas telekomunikacijų srityje ^s-08be5b5ec1f86be484a50ba4
 
 
-Asmens duomenys telekomunikacijų srityje tvarkomi vadovaujantis Telekomunikacijų įstatymu ir šiuo Įstatymu.
+Asmens duomenys telekomunikacijų srityje tvarkomi vadovaujantis [Telekomunikacijų įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.027489452776) ir šiuo Įstatymu.
 
 
 
@@ -535,10 +535,10 @@ DUOMENŲ SUBJEKTO TEISĖS
 ### 21 straipsnis. Duomenų subjekto teisė nesutikti, kad būtų tvarkomi jo asmens duomenys ^s-117bb1341a801a3f1f1a8e06
 
 
-1. Duomenų valdytojas šio Įstatymo [[#^s-b2ba872f0dfae158116c2a10|5 straipsnio 1 dalies]] 5 ir 6 punktuose nustatytais atvejais, taip pat kai duomenys tvarkomi ar ketinami tvarkyti tiesioginės rinkodaros tikslu, privalo supažindinti duomenų subjektą su jo teise nesutikti, kad būtų tvarkomi jo asmens duomenys. ^s-6f716779628cf0b800492998
+1. Duomenų valdytojas šio Įstatymo [[#^s-b2ba872f0dfae158116c2a10|5 straipsnio 1 dalies]] [[#^s-2a60c4c4a4ef56ad0a463270|5]] ir [[#^s-be24d21c7b011258fe634d1e|6]] punktuose nustatytais atvejais, taip pat kai duomenys tvarkomi ar ketinami tvarkyti tiesioginės rinkodaros tikslu, privalo supažindinti duomenų subjektą su jo teise nesutikti, kad būtų tvarkomi jo asmens duomenys. ^s-6f716779628cf0b800492998
 
 
-2. Duomenų subjektas šio Įstatymo [[#^s-b2ba872f0dfae158116c2a10|5 straipsnio 1 dalies]] 5 ir 6 punktuose nurodytais atvejais turi teisę nesutikti (raštu, žodžiu ar kitokia forma), kad būtų tvarkomi jo asmens duomenys. Jei duomenų subjekto nesutikimas yra teisiškai pagrįstas, duomenų valdytojas privalo nedelsdamas ir nemokamai nutraukti asmens duomenų tvarkymo veiksmus, išskyrus įstatymų nustatytus atvejus, ir informuoti duomenų gavėjus. ^s-b7498730827ef82476580f26
+2. Duomenų subjektas šio Įstatymo [[#^s-b2ba872f0dfae158116c2a10|5 straipsnio 1 dalies]] [[#^s-2a60c4c4a4ef56ad0a463270|5]] ir [[#^s-be24d21c7b011258fe634d1e|6]] punktuose nurodytais atvejais turi teisę nesutikti (raštu, žodžiu ar kitokia forma), kad būtų tvarkomi jo asmens duomenys. Jei duomenų subjekto nesutikimas yra teisiškai pagrįstas, duomenų valdytojas privalo nedelsdamas ir nemokamai nutraukti asmens duomenų tvarkymo veiksmus, išskyrus įstatymų nustatytus atvejus, ir informuoti duomenų gavėjus. ^s-b7498730827ef82476580f26
 
 
 3. Duomenų subjektas turi teisę nesutikti, kad būtų tvarkomi jo asmens duomenys, nenurodydamas nesutikimo motyvų, kai duomenys tvarkomi ar ketinami tvarkyti tiesioginės rinkodaros tikslu. Šiuo atveju duomenų valdytojas privalo nedelsdamas ir nemokamai nutraukti asmens duomenų tvarkymo veiksmus, išskyrus įstatymų nustatytus atvejus, ir informuoti duomenų gavėjus. ^s-02f8a67cadb61dce9281ad91
@@ -643,7 +643,7 @@ Asmens duomenys gali būti tvarkomi automatiniu būdu tik kai duomenų valdytoja
 1. Valstybinė duomenų apsaugos inspekcija atlieka išankstinę patikrą šiais atvejais: ^s-fdc2da507a3227f18fd52311
 
 
-1) kai duomenų valdytojas ketina tvarkyti ypatingus asmens duomenis, išskyrus šio Įstatymo [[#^s-942d7700e7d5548b930fc73d|10 straipsnyje]] ir [[#^s-284ba234bd3bb3fce1812ee8|5 straipsnio 2 dalies]] 6 ir 7 punktuose nustatytus atvejus; ^s-d36778b8dde23261d6b62247
+1) kai duomenų valdytojas ketina tvarkyti ypatingus asmens duomenis, išskyrus šio Įstatymo [[#^s-942d7700e7d5548b930fc73d|10 straipsnyje]] ir [[#^s-284ba234bd3bb3fce1812ee8|5 straipsnio 2 dalies]] [[#^s-d812da893fa236d5e3b5a4e0|6]] ir [[#^s-97d5896a82ba687c55c0048c|7]] punktuose nustatytus atvejus; ^s-d36778b8dde23261d6b62247
 
 
 2) kai duomenų valdytojas ketina tvarkyti viešas duomenų rinkmenas, jei įstatymuose ar kituose teisės aktuose neapibrėžta duomenų teikimo tvarka; ^s-6b996849626604861211b3c7
@@ -732,7 +732,7 @@ ASMENS DUOMENŲ TEIKIMAS DUOMENŲ GAVĖJAMS, ESANTIEMS UŽSIENIO VALSTYBĖSE
 ### 30 straipsnis. Valstybinės duomenų apsaugos inspekcijos veiklos teisiniai pagrindai ir principai ^s-990ad31d56f61e81b76ae83c
 
 
-1. Valstybinė duomenų apsaugos inspekcija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais įstatymais bei kitais teisės aktais. ^s-219f0eb37b5dfe6a82ce54f6
+1. Valstybinė duomenų apsaugos inspekcija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais įstatymais bei kitais teisės aktais. ^s-219f0eb37b5dfe6a82ce54f6
 
 
 2. Valstybinės duomenų apsaugos inspekcijos veikla grindžiama teisėtumo, nešališkumo, viešumo, profesionalumo atliekant savo funkcijas principais. Valstybinė duomenų apsaugos inspekcija, atlikdama šiame Įstatyme jai nustatytas funkcijas bei priimdama sprendimus, susijusius su šiame Įstatyme jai nustatytų funkcijų atlikimu, yra nepriklausoma – jos teisės gali būti suvaržytos tik įstatymo. ^s-29c8f4918fff37ee285964cd
@@ -754,7 +754,7 @@ Valstybinė duomenų apsaugos inspekcija:
 2) nagrinėja asmenų prašymus ir skundus šio Įstatymo nustatytais atvejais [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nustatyta tvarka; ^s-8ce81810444c83b12bd2b64e
 
 
-3) tikrina asmens duomenų tvarkymo teisėtumą ir priima sprendimus dėl asmens duomenų tvarkymo pažeidimų; ^s-a2b06ddaee265249ee519ce1
+3) tikrina asmens duomenų tvarkymo teisėtumą ir priima sprendimus [dėl asmens duomenų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.CCBBCFCD3831) pažeidimų; ^s-a2b06ddaee265249ee519ce1
 
 
 4) išduoda leidimus duomenų valdytojams teikti asmens duomenis užsienio valstybių duomenų gavėjams; ^s-90c1ead0c3c6c4fa199275bc
@@ -806,10 +806,10 @@ Valstybinė duomenų apsaugos inspekcija turi teisę:
 4) kviesti ekspertus (konsultantus), sudaryti darbo grupes dėl duomenų tvarkymo ar apsaugos ekspertizės, duomenų apsaugos dokumentų rengimo, taip pat kitiems Valstybinės duomenų apsaugos inspekcijos kompetencijos klausimams spręsti; ^s-b04a7f775d47e4df7049b21a
 
 
-5) duoti duomenų valdytojui rekomendacijas ir nurodymus dėl asmens duomenų tvarkymo ir apsaugos; ^s-6bd0e6cd704da9fc71bf0f84
+5) duoti duomenų valdytojui rekomendacijas ir nurodymus [dėl asmens duomenų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.CCBBCFCD3831) ir apsaugos; ^s-6bd0e6cd704da9fc71bf0f84
 
 
-6) Administracinių teisės pažeidimų kodekso nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus; ^s-23e272d9b4cc285be5ed657d
+6) [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus; ^s-23e272d9b4cc285be5ed657d
 
 
 7) keistis informacija su kitų valstybių asmens duomenų priežiūros institucijomis ir tarptautinėmis organizacijomis tiek, kiek to reikia jų pareigoms vykdyti; ^s-aed4f71c74eb2a1c0542744d

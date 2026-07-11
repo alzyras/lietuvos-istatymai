@@ -144,16 +144,16 @@ Disponavimą privatizuota žeme ir mišku bei jų naudojimo apribojimus nustato 
 
 
 1. Rengiant žemės reformos žemėtvarkos projektą asmeninio ūkio žemės sklypų išdėstymas gali būti patikslinamas, jeigu taip nusprendė asmenų, naudojančių šią žemę toje vietoje, susirinkimas. Susirinkimo sušaukimo ir sprendimų priėmimo tvarką nustato Žemės ūkio ministerija.
-Tikslinant asmeninio ūkio žemės sklypų išsidėstymą pirmumo teisę rinktis sklypo vietą turi toje vietovėje gyvenantys asmenys, kurių žemę išperka valstybė, remdamasi Lietuvos Respublikos įstatymo „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ 12 straipsnio pirmosios dalies 3 punkto nuostatomis.
+Tikslinant asmeninio ūkio žemės sklypų išsidėstymą pirmumo teisę rinktis sklypo vietą turi toje vietovėje gyvenantys asmenys, kurių žemę išperka valstybė, remdamasi Lietuvos Respublikos įstatymo [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) 12 straipsnio pirmosios dalies 3 punkto nuostatomis.
 
 
 2. Asmeninio ūkio žemės naudotojai gali šią žemę įsigyti privatinėn nuosavybėn, jei jos sklypai įtraukiami į susigrąžinamą natūra arba ekvivalentine natūra žemės plotą arba jeigu šie asmenys neturėjo susigrąžintinos žemės arba jos turėjo mažiau, negu naudoja asmeniniam ūkiui. Šiais atvejais žemės sklypai jiems parduodami Lietuvos Respublikos Vyriausybės nustatyta tvarka, išskyrus žemę, kuri buvo suteikta po 1993 m. liepos 1 d. ir skirta plote, kuris iki tol nebuvo naudotas gyventojų asmeninio ūkio poreikiams. Už perkamą žemę gali būti atsiskaitoma iš karto arba išsimokėtinai, bet ne vėliau kaip per 15 metų.
 
 
-3. Asmenims, kurie pagal įstatymą „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ turi teisę susigrąžinti ne mažesnį kaip asmeniniam ūkiui suteiktos žemės plotą, tačiau pageidauja kompensacijos arba savo teisę susigrąžinti žemę perleidžia kitiems asmenims, arba atsisako šios teisės kitų pretendentų naudai, asmeninio ūkio žemė neparduodama.
+3. Asmenims, kurie pagal įstatymą [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) turi teisę susigrąžinti ne mažesnį kaip asmeniniam ūkiui suteiktos žemės plotą, tačiau pageidauja kompensacijos arba savo teisę susigrąžinti žemę perleidžia kitiems asmenims, arba atsisako šios teisės kitų pretendentų naudai, asmeninio ūkio žemė neparduodama.
 
 
-4. Asmeniniam ūkiui skirtą žemę turi teisę nusipirkti lengvatinėmis sąlygomis iš šeimos tik vienas asmuo, kuris Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl kaimo gyventojų sodybinių sklypų išplėtimo“ (1990 m. liepos 26 d. Nr. I-411) priėmimo dieną buvo įrašytas į apylinkės ūkinę knygą ir yra buvęs žemės ūkio įmonės darbuotojas arba pensininkas, išdirbęs ūkyje ne mažiau kaip 5 metus, ir jeigu šis asmuo:
+4. Asmeniniam ūkiui skirtą žemę turi teisę nusipirkti lengvatinėmis sąlygomis iš šeimos tik vienas asmuo, kuris Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo [„Dėl kaimo gyventojų sodybinių sklypų išplėtimo“](https://e-tar.lt/portal/lt/legalAct/TAR.CB1DCDDB40A8) (1990 m. liepos 26 d. Nr. I-411) priėmimo dieną buvo įrašytas į apylinkės ūkinę knygą ir yra buvęs žemės ūkio įmonės darbuotojas arba pensininkas, išdirbęs ūkyje ne mažiau kaip 5 metus, ir jeigu šis asmuo:
 
 
 1) ir dabar gyvena kaimo vietovėje ar buvusio rajono mieste bei turėjo teisę gauti asmeninio ūkio žemę ir ja naudojosi;
@@ -190,7 +190,7 @@ asmeninio ūkio žemės, kitas sutuoktinis – 1/3. Iškilę tarp jų ginčai sp
 3) ketvirtąją dalį papildyti tokiu pirmuoju sakiniu:
 
 
-„Skundus dėl žemės reformos metu suformuotų žemėnaudų tinkamumo bei dėl žemės privatizavimui ir nuomai parengtų dokumentų atitikimo įstatymų ir poįstatyminių aktų reikalavimams nagrinėja apskrities valdytojo administracija ir Valstybinė žemėtvarkos ir geodezijos tarnyba prie Žemės ūkio ministerijos.“
+„Skundus [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) metu suformuotų žemėnaudų tinkamumo bei dėl žemės privatizavimui ir nuomai parengtų dokumentų atitikimo įstatymų ir poįstatyminių aktų reikalavimams nagrinėja apskrities valdytojo administracija ir Valstybinė žemėtvarkos ir geodezijos tarnyba prie Žemės ūkio ministerijos.“
 
 
 12. 18 straipsnyje:

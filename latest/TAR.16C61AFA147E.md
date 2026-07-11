@@ -39,13 +39,13 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimas ir papildymas ^s-4fc08e5797e191b344691306
 
 
-1. [[#^s-045066cc7a8cc94416ee06dd|1 straipsnio 1 dalyje]] išbraukti žodžius „kraujo preparatų gamybos“ ir šią dalį išdėstyti taip: ^s-045066cc7a8cc94416ee06dd
+1. 1 straipsnio 1 dalyje išbraukti žodžius „kraujo preparatų gamybos“ ir šią dalį išdėstyti taip: ^s-045066cc7a8cc94416ee06dd
 
 
 „1. Šis įstatymas nustato kraujo donorystės įgyvendinimo principus, tvarką ir sąlygas, donorų teises ir pareigas, kraujo donorystės subjektus bei transfuzijos ypatumus.“
 
 
-2. Papildyti [[#^s-713c0720fdcff28dc2f328f6|1 straipsnį 2 dalimi]]: ^s-713c0720fdcff28dc2f328f6
+2. Papildyti 1 straipsnį 2 dalimi: ^s-713c0720fdcff28dc2f328f6
 
 
 „2. Kraujo preparatų gamybą ir jų vartojimą reglamentuoja kiti įstatymai.“

@@ -191,7 +191,7 @@ MOKĖJIMO ĮSTAIGŲ LICENCIJAVIMAS
 6) taikomos (numatomos taikyti) valdymo tvarkos ir vidaus kontrolės sistemos, įskaitant administracines, rizikos valdymo ir apskaitos sistemas, aprašymą, kuriuo įrodoma, kad ta valdymo tvarka ir vidaus kontrolės sistema yra tinkamos, patikimos ir adekvačios prisiimamai rizikai; ^s-2692c2a7a9e208e89b55048c
 
 
-7) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos) siekiant įvykdyti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentą (ES) 2023/1113 dėl informacijos, teikiamos pervedant lėšas ir tam tikrą kriptoturtą, kuriuo iš dalies keičiama Direktyva (ES) 2015/849, aprašymą; ^s-7fe2309466ac67309f19cb30
+7) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos) siekiant įvykdyti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamentą (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj) dėl informacijos, teikiamos pervedant lėšas ir tam tikrą kriptoturtą, kuriuo iš dalies keičiama [Direktyva (ES) 2015/849](https://eur-lex.europa.eu/eli/dir/2015/849/oj), aprašymą; ^s-7fe2309466ac67309f19cb30
 Straipsnio punkto pakeitimai:
 Nr. XIV-2886, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13495
 
@@ -230,10 +230,10 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 17) auditą atliekančios (atliksiančios) audito įmonės ar atestuoto auditoriaus (toliau – auditorius), kuris audito veikla verčiasi savarankiškai (toliau, kai šiame įstatyme kalbama apie audito įmonę ir auditorių, kuris audito veikla verčiasi savarankiškai, kartu – audito įmonė), atitinkančių [[latest/TAR.779892D853B4|Finansų įstaigų įstatyme]] ir Lietuvos Respublikos finansinių ataskaitų audito įstatyme nustatytus reikalavimus, duomenis; ^s-07297caf6e9f6b64611a0559
 
 
-18) dokumentus ir duomenis, kuriais patvirtinama atitiktis šio įstatymo [[#^s-b5bde37ded871e77920ac022|20 straipsnio]] 1 ir [[#^s-b6725ea9aa015b886c7fa787|3 dalyse]] nustatytiems reikalavimams ir pagrindžiamas profesinės civilinės atsakomybės draudimo arba kitos lygiavertės atsakomybės užtikrinimo priemonės sumos dydis, jeigu ketinama teikti mokėjimo inicijavimo paslaugą; ^s-9370d2d882f3914e0991806c
+18) dokumentus ir duomenis, kuriais patvirtinama atitiktis šio įstatymo [[#^s-b5bde37ded871e77920ac022|20 straipsnio]] [[#^s-3ac2e18e2d2a97907a29fb17|1]] ir [[#^s-f11d5a4f7a90b0d8c736391c|3]] dalyse nustatytiems reikalavimams ir pagrindžiamas profesinės civilinės atsakomybės draudimo arba kitos lygiavertės atsakomybės užtikrinimo priemonės sumos dydis, jeigu ketinama teikti mokėjimo inicijavimo paslaugą; ^s-9370d2d882f3914e0991806c
 
 
-19) dokumentus ir duomenis, kuriais patvirtinama atitiktis šio įstatymo [[#^s-b5bde37ded871e77920ac022|20 straipsnio]] 2 ir [[#^s-b6725ea9aa015b886c7fa787|3 dalyse]] nustatytiems reikalavimams ir pagrindžiamas profesinės civilinės atsakomybės draudimo arba kitos lygiavertės atsakomybės užtikrinimo priemonės sumos dydis, jeigu ketinama teikti sąskaitos informacijos paslaugą; ^s-b5182e5b03691bd3ef4d61b6
+19) dokumentus ir duomenis, kuriais patvirtinama atitiktis šio įstatymo [[#^s-b5bde37ded871e77920ac022|20 straipsnio]] [[#^s-9e62a2983b49f6411a21da35|2]] ir [[#^s-f11d5a4f7a90b0d8c736391c|3]] dalyse nustatytiems reikalavimams ir pagrindžiamas profesinės civilinės atsakomybės draudimo arba kitos lygiavertės atsakomybės užtikrinimo priemonės sumos dydis, jeigu ketinama teikti sąskaitos informacijos paslaugą; ^s-b5182e5b03691bd3ef4d61b6
 
 
 20) buveinės adresą. ^s-e3e7606c6761840746e31ac4
@@ -275,7 +275,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 6) prašymą pateikęs juridinis asmuo neatitinka [[#^s-57c3a2135d840f607e1cfa55|šio straipsnio 4 dalyje]] nustatytų reikalavimų. ^s-98cb8fbbcc7c436396b06d6b
 
 
-8. Kai prašymą pateikęs juridinis asmuo ketina teikti [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] 1–7 punktuose nurodytas mokėjimo paslaugas ir tuo pačiu metu ketina vykdyti ar vykdo kitą šio įstatymo [[#^s-724220bd0ba53f36eb9ebece|4 straipsnio 2 dalies 3 punkte]] nurodytą veiklą, priežiūros institucija turi teisę atsisakyti išduoti mokėjimo įstaigos licenciją, iki bus įsteigtas atskiras juridinis asmuo mokėjimo paslaugų teikimo veiklai vykdyti, jeigu prašymą pateikusio juridinio asmens ketinama vykdyti ar vykdoma kita negu mokėjimo paslaugų teikimo veikla turi ar gali turėti neigiamą įtaką jo finansiniam patikimumui ar priežiūros institucijos galimybei stebėti, ar vykdomi visi šiame įstatyme nustatyti reikalavimai. ^s-11f565072df59de59d394ab4
+8. Kai prašymą pateikęs juridinis asmuo ketina teikti [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-87dfd2aa4e7b5affcb416682|1]]–[[latest/TAR.C6C5599DD9A1#^s-d8aa2a697e71c281e9da3001|7]] punktuose nurodytas mokėjimo paslaugas ir tuo pačiu metu ketina vykdyti ar vykdo kitą šio įstatymo [[#^s-724220bd0ba53f36eb9ebece|4 straipsnio 2 dalies 3 punkte]] nurodytą veiklą, priežiūros institucija turi teisę atsisakyti išduoti mokėjimo įstaigos licenciją, iki bus įsteigtas atskiras juridinis asmuo mokėjimo paslaugų teikimo veiklai vykdyti, jeigu prašymą pateikusio juridinio asmens ketinama vykdyti ar vykdoma kita negu mokėjimo paslaugų teikimo veikla turi ar gali turėti neigiamą įtaką jo finansiniam patikimumui ar priežiūros institucijos galimybei stebėti, ar vykdomi visi šiame įstatyme nustatyti reikalavimai. ^s-11f565072df59de59d394ab4
 
 
 9. Mokėjimo įstaiga, turinti mokėjimo įstaigos licenciją ir ketinanti teikti [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnyje]] nurodytas mokėjimo paslaugas, kurios nėra numatytos jai išduotoje licencijoje, turi kreiptis į priežiūros instituciją su prašymu pakeisti galiojančią licenciją, papildant ją ketinamomis teikti mokėjimo paslaugomis, ir pateikti dėl keičiamos veiklos apimties pasikeitusius duomenis ir dokumentus, nurodytus [[#^s-27cd4d21a6269ac414877725|šio straipsnio 2 dalyje]]. Sprendimui dėl licencijos pakeitimo priimti mutatis mutandis taikomos [[#^s-7779c316cd2ede8b3c4bf1ad|šio straipsnio 6 dalies]] nuostatos. ^s-d8187169f47ee136beff567d
@@ -294,7 +294,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 ### 6 straipsnis. Mokėjimo įstaigos, teikiančios tik sąskaitos informacijos paslaugą, licencija ^s-c4e1e75fbeed2365994323fe
 
 
-1. Mokėjimo įstaigos, teikiančios tik sąskaitos informacijos paslaugą, licencija galioja ir kitose valstybėse narėse ir mokėjimo įstaigai suteikia teisę šio įstatymo [[#^s-ed542090bff50c1323013156|11 straipsnyje]] nustatytomis sąlygomis tose valstybėse narėse teikti sąskaitos informacijos paslaugą. Mokėjimo įstaigai, kuriai išduota mokėjimo įstaigos, teikiančios tik sąskaitos informacijos paslaugą, licencija, netaikomos šio įstatymo 10, 14, 16, 17, 18 ir [[#^s-d5a1d35ac3cbd884a436e7b2|19 straipsnių]] nuostatos. ^s-997a6f79bebda183f7533830
+1. Mokėjimo įstaigos, teikiančios tik sąskaitos informacijos paslaugą, licencija galioja ir kitose valstybėse narėse ir mokėjimo įstaigai suteikia teisę šio įstatymo [[#^s-ed542090bff50c1323013156|11 straipsnyje]] nustatytomis sąlygomis tose valstybėse narėse teikti sąskaitos informacijos paslaugą. Mokėjimo įstaigai, kuriai išduota mokėjimo įstaigos, teikiančios tik sąskaitos informacijos paslaugą, licencija, netaikomos šio įstatymo [[#^s-7d2e40a34eeea682deead108|10]], [[#^s-cde119e89eca19616c46f355|14]], [[#^s-424eefa88c025e6c8bab3a31|16]], [[#^s-9afa4bb64c068b22b8227fac|17]], [[#^s-d9ec96eb25a52d6e3cae1bcd|18]] ir [[#^s-d5a1d35ac3cbd884a436e7b2|19]] straipsnių nuostatos. ^s-997a6f79bebda183f7533830
 
 
 2. Steigiamas ar veikiantis juridinis asmuo (toliau šiame straipsnyje – juridinis asmuo), norėdamas gauti mokėjimo įstaigos, teikiančios tik sąskaitos informacijos paslaugą, licenciją, priežiūros institucijai turi pateikti prašymą ir šiuos dokumentus bei duomenis: ^s-3ef9636ff6081cfc5291853a
@@ -336,7 +336,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 11) filialo vadovo (vadovų) tapatybės duomenis (asmens vardą, pavardę, asmens kodą (jeigu asmens kodo neturi, – gimimo datą ir vietą), jeigu numatoma teikti mokėjimo paslaugas kitoje valstybėje narėje įsteigus filialą šio įstatymo [[#^s-ed542090bff50c1323013156|11 straipsnyje]] nustatyta tvarka; ^s-294deb1f475a3b5835a203cc
 
 
-12) dokumentus ir duomenis, kuriais patvirtinama atitiktis šio įstatymo [[#^s-b5bde37ded871e77920ac022|20 straipsnio]] 2 ir [[#^s-6b39115932bc22efcb63690d|3 dalyse]] nustatytiems reikalavimams ir pagrindžiamas profesinės civilinės atsakomybės draudimo arba kitos lygiavertės atsakomybės užtikrinimo priemonės sumos dydis; ^s-6478a87502337a1b89c37452
+12) dokumentus ir duomenis, kuriais patvirtinama atitiktis šio įstatymo [[#^s-b5bde37ded871e77920ac022|20 straipsnio]] [[#^s-9e62a2983b49f6411a21da35|2]] ir [[#^s-f11d5a4f7a90b0d8c736391c|3]] dalyse nustatytiems reikalavimams ir pagrindžiamas profesinės civilinės atsakomybės draudimo arba kitos lygiavertės atsakomybės užtikrinimo priemonės sumos dydis; ^s-6478a87502337a1b89c37452
 
 
 13) buveinės adresą. ^s-95190db7f28e5dd1e3f370c8
@@ -388,7 +388,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 ### 7 straipsnis. Mokėjimo įstaigos ribotos veiklos licencija ^s-09e3bdea11221f7f085c64ea
 
 
-1. Mokėjimo įstaigos ribotos veiklos licencija galioja tik Lietuvos Respublikoje ir nesuteikia teisės šio įstatymo [[#^s-ed542090bff50c1323013156|11 straipsnyje]] nustatytomis sąlygomis kitose valstybėse narėse teikti mokėjimo paslaugų. Mokėjimo įstaiga, kuriai išduota ribotos veiklos licencija, turi teisę teikti [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] 1–6 punktuose nurodytas mokėjimo paslaugas, kurios nustatytos priežiūros institucijos išduotoje licencijoje. Mokėjimo įstaigos, kuriai išduota mokėjimo įstaigos ribotos veiklos licencija, įskaitant tarpininkus, už kuriuos ji prisiima visą atsakomybę, per pastaruosius 12 mėnesių įvykdytų (jeigu veikla nevykdoma, – planuojamų verslo plane) mokėjimo operacijų sumos vidurkis neturi viršyti 3 000 000 eurų per mėnesį, išskyrus [[#^s-2f5009a0a8a463997320c7b5|šio straipsnio 4 dalyje]] nustatytą atvejį. Mokėjimo įstaigai, kuriai išduota mokėjimo įstaigos ribotos veiklos licencija, netaikomos šio įstatymo 10, 14 ir [[#^s-424eefa88c025e6c8bab3a31|16 straipsnių]] nuostatos. ^s-3a1441d5ed1e4315a1d7ebb4
+1. Mokėjimo įstaigos ribotos veiklos licencija galioja tik Lietuvos Respublikoje ir nesuteikia teisės šio įstatymo [[#^s-ed542090bff50c1323013156|11 straipsnyje]] nustatytomis sąlygomis kitose valstybėse narėse teikti mokėjimo paslaugų. Mokėjimo įstaiga, kuriai išduota ribotos veiklos licencija, turi teisę teikti [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-87dfd2aa4e7b5affcb416682|1]]–[[latest/TAR.C6C5599DD9A1#^s-aa84b6a0200d5b73ced39668|6]] punktuose nurodytas mokėjimo paslaugas, kurios nustatytos priežiūros institucijos išduotoje licencijoje. Mokėjimo įstaigos, kuriai išduota mokėjimo įstaigos ribotos veiklos licencija, įskaitant tarpininkus, už kuriuos ji prisiima visą atsakomybę, per pastaruosius 12 mėnesių įvykdytų (jeigu veikla nevykdoma, – planuojamų verslo plane) mokėjimo operacijų sumos vidurkis neturi viršyti 3 000 000 eurų per mėnesį, išskyrus [[#^s-2f5009a0a8a463997320c7b5|šio straipsnio 4 dalyje]] nustatytą atvejį. Mokėjimo įstaigai, kuriai išduota mokėjimo įstaigos ribotos veiklos licencija, netaikomos šio įstatymo [[#^s-7d2e40a34eeea682deead108|10]], [[#^s-cde119e89eca19616c46f355|14]] ir [[#^s-424eefa88c025e6c8bab3a31|16]] straipsnių nuostatos. ^s-3a1441d5ed1e4315a1d7ebb4
 
 
 2. Steigiamas ar veikiantis juridinis asmuo (toliau šiame straipsnyje – juridinis asmuo), norėdamas gauti mokėjimo įstaigos ribotos veiklos licenciją, turi priežiūros institucijai pateikti prašymą ir šiuos dokumentus bei duomenis: ^s-997a4cfe0a649e4b987d4ffe
@@ -406,7 +406,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 4) priemonių, kurių pagal šio įstatymo [[#^s-9afa4bb64c068b22b8227fac|17 straipsnyje]] nustatytus reikalavimus imtasi (bus imamasi) siekiant apsaugoti mokėjimo paslaugų vartotojų lėšas, aprašymą; ^s-443c2ed6a03925090d0cb441
 
 
-5) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos), siekiant įvykdyti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir Reglamentą (ES) 2023/1113, aprašymą; ^s-2ea4db0c229d28bd0119ce5b
+5) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos), siekiant įvykdyti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir [Reglamentą (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj), aprašymą; ^s-2ea4db0c229d28bd0119ce5b
 Straipsnio punkto pakeitimai:
 Nr. XIV-2886, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13495
 
@@ -451,13 +451,13 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 2) prašymą pateikęs juridinis asmuo neturi buveinės Lietuvos Respublikoje, jo teisinė forma, vadovai neatitinka šio įstatymo nustatytų reikalavimų ir jų taikymo tvarką reglamentuojančių priežiūros institucijos teisės aktų; ^s-6224ae072dc738e3f5055ad1
 
 
-3) prašymą pateikęs juridinis asmuo neatitinka šio straipsnio 1 ar [[#^s-e0d0e9aca9a275aac2bdf41f|3 dalyje]] nustatytų reikalavimų. ^s-1909c57ab4f29cb5a53b55d4
+3) prašymą pateikęs juridinis asmuo neatitinka šio straipsnio [[#^s-3a1441d5ed1e4315a1d7ebb4|1]] ar [[#^s-e0d0e9aca9a275aac2bdf41f|3]] dalyje nustatytų reikalavimų. ^s-1909c57ab4f29cb5a53b55d4
 
 
-8. Kai prašymą pateikęs juridinis asmuo ketina teikti [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] 1–6 punktuose nurodytas mokėjimo paslaugas ir tuo pačiu metu ketina vykdyti ar vykdo kitą šio įstatymo [[#^s-724220bd0ba53f36eb9ebece|4 straipsnio 2 dalies 3 punkte]] nurodytą veiklą, priežiūros institucija turi teisę atsisakyti išduoti mokėjimo įstaigos ribotos veiklos licenciją, iki bus įsteigtas atskiras juridinis asmuo mokėjimo paslaugų teikimo veiklai vykdyti, jeigu prašymą pateikusio juridinio asmens vykdoma kita negu mokėjimo paslaugų teikimo veikla turi ar gali turėti neigiamą įtaką jos finansiniam patikimumui ar priežiūros institucijos galimybei stebėti, ar vykdomi visi šiame įstatyme nustatyti reikalavimai. ^s-d84aba9d66a9d91bbb5d2c2d
+8. Kai prašymą pateikęs juridinis asmuo ketina teikti [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-87dfd2aa4e7b5affcb416682|1]]–[[latest/TAR.C6C5599DD9A1#^s-aa84b6a0200d5b73ced39668|6]] punktuose nurodytas mokėjimo paslaugas ir tuo pačiu metu ketina vykdyti ar vykdo kitą šio įstatymo [[#^s-724220bd0ba53f36eb9ebece|4 straipsnio 2 dalies 3 punkte]] nurodytą veiklą, priežiūros institucija turi teisę atsisakyti išduoti mokėjimo įstaigos ribotos veiklos licenciją, iki bus įsteigtas atskiras juridinis asmuo mokėjimo paslaugų teikimo veiklai vykdyti, jeigu prašymą pateikusio juridinio asmens vykdoma kita negu mokėjimo paslaugų teikimo veikla turi ar gali turėti neigiamą įtaką jos finansiniam patikimumui ar priežiūros institucijos galimybei stebėti, ar vykdomi visi šiame įstatyme nustatyti reikalavimai. ^s-d84aba9d66a9d91bbb5d2c2d
 
 
-9. Mokėjimo įstaigos ribotos veiklos licenciją turinti mokėjimo įstaiga, ketinanti teikti [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] 1–6 punktuose nurodytas mokėjimo paslaugas, kurios nėra numatytos jai išduotoje licencijoje, turi kreiptis į priežiūros instituciją su prašymu pakeisti galiojančią licenciją, papildant ją ketinamomis teikti mokėjimo paslaugomis, ir pateikti dėl keičiamos veiklos apimties pasikeitusius dokumentus ir duomenis, nurodytus [[#^s-997a4cfe0a649e4b987d4ffe|šio straipsnio 2 dalyje]]. Sprendimui dėl licencijos pakeitimo priimti mutatis mutandis taikomos [[#^s-02af4e12c7908c8e7ca5d8a6|šio straipsnio 6 dalies]] nuostatos. ^s-d31f7b9c87ec4d4a6fe3bdff
+9. Mokėjimo įstaigos ribotos veiklos licenciją turinti mokėjimo įstaiga, ketinanti teikti [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-87dfd2aa4e7b5affcb416682|1]]–[[latest/TAR.C6C5599DD9A1#^s-aa84b6a0200d5b73ced39668|6]] punktuose nurodytas mokėjimo paslaugas, kurios nėra numatytos jai išduotoje licencijoje, turi kreiptis į priežiūros instituciją su prašymu pakeisti galiojančią licenciją, papildant ją ketinamomis teikti mokėjimo paslaugomis, ir pateikti dėl keičiamos veiklos apimties pasikeitusius dokumentus ir duomenis, nurodytus [[#^s-997a4cfe0a649e4b987d4ffe|šio straipsnio 2 dalyje]]. Sprendimui dėl licencijos pakeitimo priimti mutatis mutandis taikomos [[#^s-02af4e12c7908c8e7ca5d8a6|šio straipsnio 6 dalies]] nuostatos. ^s-d31f7b9c87ec4d4a6fe3bdff
 
 
 10. Mokėjimo įstaigos ribotos veiklos licenciją turinti mokėjimo įstaiga visą savo veiklos laikotarpį turi atitikti šiame straipsnyje nustatytus mokėjimo įstaigos ribotos veiklos licencijos išdavimo reikalavimus. Mokėjimo įstaiga šio įstatymo įgyvendinamųjų priežiūros institucijos teisės aktų nustatyta tvarka ir terminais privalo pranešti priežiūros institucijai apie duomenų ir (arba) informacijos, kurie buvo pateikti mokėjimo įstaigos ribotos veiklos licencijai gauti, pasikeitimus. ^s-24bd31e32e4a1948d23b9105
@@ -470,13 +470,13 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 ### 8 straipsnis. Licencijos galiojimo panaikinimas ar galiojimo sustabdymas ir sustabdymo panaikinimas ^s-81eeed8ba1ff608081010299
 
 
-1. Licencijos galiojimas panaikinamas [[latest/TAR.779892D853B4#^s-2b0f40f4ac020879e7ce8572|Finansų įstaigų įstatymo 10 straipsnio 1 dalyje]] ir [[#^s-697445e4d2f93118c57e8ab2|2 dalies]] 1, 3–8 punktuose nustatytais atvejais. Šio įstatymo [[#^s-2f5009a0a8a463997320c7b5|7 straipsnio 4 dalyje]] nurodytu atveju licencijos galiojimas panaikinamas priežiūros institucijos sprendimu. ^s-7371485c930908a3e936f2c0
+1. Licencijos galiojimas panaikinamas [[latest/TAR.779892D853B4#^s-2b0f40f4ac020879e7ce8572|Finansų įstaigų įstatymo 10 straipsnio 1 dalyje]] ir [[#^s-697445e4d2f93118c57e8ab2|2 dalies]] [[latest/TAR.779892D853B4#^s-6244dac6b2679e919fcb3e96|1]], [[latest/TAR.779892D853B4|3]]–[[latest/TAR.779892D853B4|8]] punktuose nustatytais atvejais. Šio įstatymo [[#^s-2f5009a0a8a463997320c7b5|7 straipsnio 4 dalyje]] nurodytu atveju licencijos galiojimas panaikinamas priežiūros institucijos sprendimu. ^s-7371485c930908a3e936f2c0
 
 
 2. Be [[#^s-7371485c930908a3e936f2c0|šio straipsnio 1 dalyje]] nustatytų pagrindų, licencijos galiojimas priežiūros institucijos sprendimu taip pat gali būti panaikinamas, jeigu: ^s-697445e4d2f93118c57e8ab2
 
 
-1) mokėjimo įstaiga nebeatitinka šio įstatymo 5, 6 ar [[#^s-09e3bdea11221f7f085c64ea|7 straipsnyje]] nustatytų licencijos išdavimo reikalavimų arba nepraneša apie tai priežiūros institucijai; ^s-0219c099ef91b4eb2d2ba099
+1) mokėjimo įstaiga nebeatitinka šio įstatymo [[#^s-83915560da36f60a28d7d42f|5]], [[#^s-c4e1e75fbeed2365994323fe|6]] ar [[#^s-09e3bdea11221f7f085c64ea|7]] straipsnyje nustatytų licencijos išdavimo reikalavimų arba nepraneša apie tai priežiūros institucijai; ^s-0219c099ef91b4eb2d2ba099
 
 
 2) mokėjimo įstaiga, toliau teikdama mokėjimo paslaugas, keltų grėsmę kitų mokėjimo įstaigų veiklos ir finansiniam stabilumui; ^s-daf76f6855f6160d831fb4ae
@@ -488,10 +488,10 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 4) mokėjimo įstaiga šio įstatymo [[#^s-c6bea68cf5c2dbfbaa9035d1|5 straipsnio 10 dalyje]] ar [[#^s-1f76a11519f9e6e7db086267|6 straipsnio 8 dalyje]] nurodytu atveju per nustatytą terminą nesikreipia dėl licencijos panaikinimo. ^s-881b310f76520355a926ed29
 
 
-3. Panaikinant licencijos galiojimą [[#^s-697445e4d2f93118c57e8ab2|šio straipsnio 2 dalies]] 3 ar 4 punkte ar šio įstatymo [[#^s-2f5009a0a8a463997320c7b5|7 straipsnio 4 dalyje]] arba [[latest/TAR.779892D853B4#^s-65edab720020d73b1f0f7684|Finansų įstaigų įstatymo 10 straipsnio 2 dalies 8 punkte]] nustatytais pagrindais, priežiūros institucijos sprendime nurodomi sprendimo priėmimo motyvai ir apie priimtą sprendimą per 3 darbo dienas nuo sprendimo priėmimo dienos pranešama mokėjimo įstaigai. Kitais atvejais licencijos galiojimas panaikinamas šio įstatymo 33 ir [[#^s-26179c6bfda475218c279c15|34 straipsniuose]] nustatyta tvarka. ^s-ce9c28f568006b9d3fba445b
+3. Panaikinant licencijos galiojimą [[#^s-697445e4d2f93118c57e8ab2|šio straipsnio 2 dalies]] 3 ar 4 punkte ar šio įstatymo [[#^s-2f5009a0a8a463997320c7b5|7 straipsnio 4 dalyje]] arba [[latest/TAR.779892D853B4#^s-65edab720020d73b1f0f7684|Finansų įstaigų įstatymo 10 straipsnio 2 dalies 8 punkte]] nustatytais pagrindais, priežiūros institucijos sprendime nurodomi sprendimo priėmimo motyvai ir apie priimtą sprendimą per 3 darbo dienas nuo sprendimo priėmimo dienos pranešama mokėjimo įstaigai. Kitais atvejais licencijos galiojimas panaikinamas šio įstatymo [[#^s-dc9e9563f53061612e3f78e8|33]] ir [[#^s-26179c6bfda475218c279c15|34]] straipsniuose nustatyta tvarka. ^s-ce9c28f568006b9d3fba445b
 
 
-4. Licencijos galiojimas sustabdomas šio įstatymo 33 ir [[#^s-26179c6bfda475218c279c15|34 straipsniuose]] nustatytais pagrindais ir tvarka. ^s-9d1ac13a13f8cd118e1ae0b2
+4. Licencijos galiojimas sustabdomas šio įstatymo [[#^s-dc9e9563f53061612e3f78e8|33]] ir [[#^s-26179c6bfda475218c279c15|34]] straipsniuose nustatytais pagrindais ir tvarka. ^s-9d1ac13a13f8cd118e1ae0b2
 
 
 5. Priežiūros institucija, priėmusi sprendimą sustabdyti licencijos galiojimą, per 3 darbo dienas nuo tokio sprendimo priėmimo dienos apie tai praneša mokėjimo įstaigai, nurodo pažeidimą (pažeidimus) ir nustato ne trumpesnį kaip vieno mėnesio terminą, per kurį mokėjimo įstaiga privalo nurodytą pažeidimą (pažeidimus) pašalinti. ^s-66507d26087140d9cd04ed4d
@@ -509,7 +509,7 @@ Nr. XIV-2718, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11241
 8. Panaikinus licencijos galiojimą, ne vėliau kaip per 2 mėnesius mokėjimo įstaigos organai privalo priimti sprendimą likviduoti ar reorganizuoti mokėjimo įstaigą arba priimti sprendimą pakeisti veiklos rūšį ir atlikti atitinkamus įstatų, pavadinimo ir kitus reikiamus pakeitimus, susijusius su veiklos rūšies pakeitimu. ^s-a3d305c8d6dc8e91ccbfd820
 
 
-9. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą priežiūros institucija skelbia savo interneto svetainėje. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą, įskaitant licencijos galiojimo panaikinimo ar sustabdymo priežastis, priežiūros institucija praneša Europos bankininkystės institucijai Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta Direktyvos (ES) 2015/2366 [[#^s-6752d2ad1646321aaf89af1f|15 straipsnio]] 4 ir [[#^s-66507d26087140d9cd04ed4d|5 dalyse]], nustatyta tvarka. ^s-577126a60e3badb78c70822f
+9. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą priežiūros institucija skelbia savo interneto svetainėje. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą, įskaitant licencijos galiojimo panaikinimo ar sustabdymo priežastis, priežiūros institucija praneša Europos bankininkystės institucijai Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta [Direktyvos (ES) 2015/2366 15 straipsnio](https://eur-lex.europa.eu/eli/dir/2015/2366/art_15/oj) 4 ir 5 dalyse, nustatyta tvarka. ^s-577126a60e3badb78c70822f
 Straipsnio dalies pakeitimai:
 Nr. XIII-2968, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11349
 
@@ -541,7 +541,7 @@ MOKĖJIMO ĮSTAIGOS VALDYMAS
 4) asmenys, atsakingi už mokėjimo įstaigos mokėjimo paslaugų teikimo veiklos valdymą (struktūrinių padalinių vadovai), jeigu mokėjimo įstaiga teikia mokėjimo paslaugas ir tuo pačiu metu vykdo kitą šio įstatymo [[#^s-724220bd0ba53f36eb9ebece|4 straipsnio 2 dalies 3 punkte]] nurodytą veiklą (jeigu tokie asmenys paskirti). ^s-eda944998a33372eee2264bf
 
 
-3. Mokėjimo įstaigos, turinčios mokėjimo įstaigos licenciją, ir mokėjimo įstaigos, turinčios mokėjimo įstaigos, teikiančios tik sąskaitos informacijos paslaugą, licenciją, vadovai turi būti nepriekaištingos reputacijos ir turėti kvalifikaciją ir patirtį, leidžiančią tinkamai eiti pareigas. Vertinant šių vadovų nepriekaištingą reputaciją, mutatis mutandis taikomos [[latest/TAR.B6B636C7384A#^s-1da1553dfe8dcc899bb15a35|Bankų įstatymo 34 straipsnio]] 12 ir 13 dalių nuostatos. Mokėjimo įstaigos, turinčios mokėjimo įstaigos licenciją, ir mokėjimo įstaigos, turinčios mokėjimo įstaigos, teikiančios tik sąskaitos informacijos paslaugą, licenciją, vadovų kvalifikacija ir patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Mokėjimo įstaigos, turinčios mokėjimo įstaigos licenciją, ir mokėjimo įstaigos, turinčios mokėjimo įstaigos, teikiančios tik sąskaitos informacijos paslaugą, licenciją, vadovų reputacijos, kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos teisės aktų nustatyta tvarka. ^s-c6c890705708436ad793a86d
+3. Mokėjimo įstaigos, turinčios mokėjimo įstaigos licenciją, ir mokėjimo įstaigos, turinčios mokėjimo įstaigos, teikiančios tik sąskaitos informacijos paslaugą, licenciją, vadovai turi būti nepriekaištingos reputacijos ir turėti kvalifikaciją ir patirtį, leidžiančią tinkamai eiti pareigas. Vertinant šių vadovų nepriekaištingą reputaciją, mutatis mutandis taikomos [[latest/TAR.B6B636C7384A#^s-1da1553dfe8dcc899bb15a35|Bankų įstatymo 34 straipsnio]] [[latest/TAR.B6B636C7384A#^s-cbf0d3cfe40162e5179f51eb|12]] ir [[latest/TAR.B6B636C7384A#^s-20a4b9e975c400d03726ecc9|13]] dalių nuostatos. Mokėjimo įstaigos, turinčios mokėjimo įstaigos licenciją, ir mokėjimo įstaigos, turinčios mokėjimo įstaigos, teikiančios tik sąskaitos informacijos paslaugą, licenciją, vadovų kvalifikacija ir patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Mokėjimo įstaigos, turinčios mokėjimo įstaigos licenciją, ir mokėjimo įstaigos, turinčios mokėjimo įstaigos, teikiančios tik sąskaitos informacijos paslaugą, licenciją, vadovų reputacijos, kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos teisės aktų nustatyta tvarka. ^s-c6c890705708436ad793a86d
 
 
 4. Mokėjimo įstaigos, turinčios mokėjimo įstaigos ribotos veiklos licenciją, vadovai turi būti pasirengę ir tinkami eiti pareigas. Mokėjimo įstaigos, turinčios mokėjimo įstaigos ribotos veiklos licenciją, vadovų pasirengimas ir tinkamumas vertinami priežiūros institucijos teisės aktų nustatyta tvarka. Mokėjimo įstaigos, turinčios mokėjimo įstaigos ribotos veiklos licenciją, vadovų pasirengimas vertinamas atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Mokėjimo įstaigos, turinčios mokėjimo įstaigos ribotos veiklos licenciją, vadovas negali būti laikomas tinkamu, jeigu jis atitinka bent vieną iš šių sąlygų: ^s-497f3fbd0191c84cffa80638
@@ -559,7 +559,7 @@ MOKĖJIMO ĮSTAIGOS VALDYMAS
 5. Tarpininko administracijos vadovai (vadovas ir jo pavaduotojas) ir asmenys, atsakingi už mokėjimo paslaugų teikimo veiklos valdymą (struktūrinių padalinių vadovai) (toliau, kai šiame įstatyme kalbama apie tarpininko administracijos vadovus (vadovą ir jo pavaduotoją) ir asmenis, atsakingus už mokėjimo paslaugų teikimo veiklos valdymą (struktūrinių padalinių vadovus), kartu – tarpininko vadovai), kai tarpininkas nėra mokėjimo paslaugų teikėjas, turi būti pasirengę ir tinkami eiti pareigas. Tarpininko vadovų, kai tarpininkas nėra mokėjimo paslaugų teikėjas, pasirengimas ir tinkamumas vertinami priežiūros institucijos teisės aktų nustatyta tvarka. Tarpininko vadovų, kai tarpininkas nėra mokėjimo paslaugų teikėjas, pasirengimas vertinamas atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Tarpininko vadovams, kai tarpininkas nėra mokėjimo paslaugų teikėjas, mutatis mutandis taikomi [[#^s-497f3fbd0191c84cffa80638|šio straipsnio 4 dalyje]] nustatyti tinkamumo reikalavimai. ^s-daeb602d9d6f3e23f3811bbb
 
 
-6. Mokėjimo įstaiga priežiūros institucijai jos nustatyta tvarka privalo pranešti apie numatomus mokėjimo įstaigos vadovų pasikeitimus, išskyrus [[#^s-5f9c4d4be7d8f3056003f1ff|šio straipsnio 9 dalyje]] nurodytus atvejus, kai pranešimas nėra reikalingas, ir kartu pateikti priežiūros institucijos nustatytą informaciją, reikalingą įvertinti, ar vadovai atitinka jiems šio straipsnio 3 ir [[#^s-497f3fbd0191c84cffa80638|4 dalyse]] nustatytus reikalavimus. Iš naujo išrinkti (paskirti) mokėjimo įstaigos vadovai gali pradėti eiti pareigas tik tuo atveju, jeigu priežiūros institucija neprieštarauja jų kandidatūroms. Priežiūros institucija turi teisę prieštarauti mokėjimo įstaigos vadovų kandidatūroms, jeigu jie neatitinka šio straipsnio 3 ir [[#^s-497f3fbd0191c84cffa80638|4 dalyse]] nustatytų reikalavimų. ^s-8e9b70b0a6759ff1bf022267
+6. Mokėjimo įstaiga priežiūros institucijai jos nustatyta tvarka privalo pranešti apie numatomus mokėjimo įstaigos vadovų pasikeitimus, išskyrus [[#^s-5f9c4d4be7d8f3056003f1ff|šio straipsnio 9 dalyje]] nurodytus atvejus, kai pranešimas nėra reikalingas, ir kartu pateikti priežiūros institucijos nustatytą informaciją, reikalingą įvertinti, ar vadovai atitinka jiems šio straipsnio [[#^s-c6c890705708436ad793a86d|3]] ir [[#^s-497f3fbd0191c84cffa80638|4]] dalyse nustatytus reikalavimus. Iš naujo išrinkti (paskirti) mokėjimo įstaigos vadovai gali pradėti eiti pareigas tik tuo atveju, jeigu priežiūros institucija neprieštarauja jų kandidatūroms. Priežiūros institucija turi teisę prieštarauti mokėjimo įstaigos vadovų kandidatūroms, jeigu jie neatitinka šio straipsnio [[#^s-c6c890705708436ad793a86d|3]] ir [[#^s-497f3fbd0191c84cffa80638|4]] dalyse nustatytų reikalavimų. ^s-8e9b70b0a6759ff1bf022267
 
 
 7. Kai tarpininkas nėra mokėjimo paslaugų teikėjas, mokėjimo įstaiga privalo užtikrinti, o priežiūros institucijos reikalavimu – įrodyti, kad jos vardu veikiančių tarpininkų vadovai atitinka [[#^s-daeb602d9d6f3e23f3811bbb|šio straipsnio 5 dalyje]] nustatytus reikalavimus. ^s-99f617811dc322383d65dca5
@@ -571,7 +571,7 @@ MOKĖJIMO ĮSTAIGOS VALDYMAS
 9. Laikoma, kad priežiūros institucija neprieštarauja numatomo išrinkti (paskirti) mokėjimo įstaigos vadovo kandidatūrai, jeigu: ^s-5f9c4d4be7d8f3056003f1ff
 
 
-1) asmuo renkamas arba skiriamas į naujas pareigas toje pačioje mokėjimo įstaigoje, kurioje jo kandidatūra jau buvo įvertinta priežiūros institucijos ir jai neprieštarauta, arba pakartotinai renkamas arba skiriamas į tas pačias pareigas toje pačioje mokėjimo įstaigoje ir išrinkimo arba paskyrimo į naujas pareigas metu atitinka šio straipsnio 3 ir [[#^s-497f3fbd0191c84cffa80638|4 dalyse]] nustatytus reikalavimus; ^s-04c5e0d3725fc04f7ed6fa91
+1) asmuo renkamas arba skiriamas į naujas pareigas toje pačioje mokėjimo įstaigoje, kurioje jo kandidatūra jau buvo įvertinta priežiūros institucijos ir jai neprieštarauta, arba pakartotinai renkamas arba skiriamas į tas pačias pareigas toje pačioje mokėjimo įstaigoje ir išrinkimo arba paskyrimo į naujas pareigas metu atitinka šio straipsnio [[#^s-c6c890705708436ad793a86d|3]] ir [[#^s-497f3fbd0191c84cffa80638|4]] dalyse nustatytus reikalavimus; ^s-04c5e0d3725fc04f7ed6fa91
 
 
 2) asmuo renkamas arba skiriamas tuo atveju, kai saugiai ir patikimai mokėjimo įstaigos veiklai užtikrinti būtina nedelsiant išrinkti arba paskirti mokėjimo įstaigos vadovą ir dėl to mokėjimo įstaiga negali iš anksto pranešti priežiūros institucijai apie numatomą mokėjimo įstaigos vadovo pasikeitimą. ^s-796ccebdac2d55629177675b
@@ -588,7 +588,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 ### 10 straipsnis. Mokėjimo įstaigos kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis ^s-7d2e40a34eeea682deead108
 
 
-Mokėjimo įstaigos kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimui ir netekimui, įsigyjančio asmens turimų balsavimo teisių praradimui, siūlomo įsigijimo vertinimui mutatis mutandis taikomos [[latest/TAR.B6B636C7384A#^s-eb94e1ab9768b1b95813d633|Bankų įstatymo 24 ir 25 straipsnių]] nuostatos.
+Mokėjimo įstaigos kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimui ir netekimui, įsigyjančio asmens turimų balsavimo teisių praradimui, siūlomo įsigijimo vertinimui mutatis mutandis taikomos [[latest/TAR.B6B636C7384A|Bankų įstatymo]] [[latest/TAR.B6B636C7384A#^s-252a32ae1a2810f697bb33da|24]] ir [[latest/TAR.B6B636C7384A#^s-eb94e1ab9768b1b95813d633|25]] straipsnių nuostatos.
 
 
 
@@ -603,7 +603,7 @@ MOKĖJIMO ĮSTAIGOS IR KITOS VALSTYBĖS NARĖS MOKĖJIMO ĮSTAIGOS TEISĖS
 1. Mokėjimo įstaiga turi teisę šiame straipsnyje nustatyta tvarka teikti mokėjimo paslaugas kitoje valstybėje narėje įsteigusi filialą, per tarpininką ar neįsteigusi filialo. ^s-41a396a31c2d17fc0169b664
 
 
-2. Mokėjimo įstaiga, siekdama teikti mokėjimo paslaugas kitoje valstybėje narėje neįsteigusi filialo, turi apie tai pranešti priežiūros institucijai, nurodydama savo pavadinimą, adresą, licencijos numerį, valstybę narę, kurioje planuoja teikti mokėjimo paslaugas, ir numatomas teikti mokėjimo paslaugas, o jeigu ketina teikti mokėjimo paslaugas įsteigusi filialą kitoje valstybėje narėje, priežiūros institucijai turi pranešti ir šio įstatymo [[#^s-27cd4d21a6269ac414877725|5 straipsnio 2 dalies]] 3 ir 6 punktuose nurodytą informaciją apie veiklą kitoje valstybėje narėje, pateikti filialo organizacinės struktūros aprašymą, filialo vadovo (vadovų) tapatybės duomenis ir įsipareigojimo vykdyti filialo patikrinimus ne rečiau kaip kartą per metus aprašymą. Jeigu mokėjimo paslaugas kitoje valstybėje narėje planuojama teikti per tarpininką, priežiūros institucijai taip pat turi būti pateikiama šio įstatymo [[#^s-2de93e1f4d505a0ac14ff6a8|18 straipsnio 1 dalyje]] nurodyta informacija. Kai mokėjimo įstaiga ketina veiklos funkcijų vykdymą perduoti kitam asmeniui kitoje valstybėje narėje, ji apie tai priežiūros institucijos nustatyta tvarka praneša priežiūros institucijai. Detalią pranešimo apie ketinimą teikti mokėjimo paslaugas kitoje valstybėje narėje, veiklos funkcijų vykdymą perduoti kitam asmeniui pateikimo, nagrinėjimo tvarką ir detalius šioje dalyje nurodytų pateikiamų dokumentų turinio ir formos reikalavimus nustato priežiūros institucija. ^s-758294215c64ac74e1710ddf
+2. Mokėjimo įstaiga, siekdama teikti mokėjimo paslaugas kitoje valstybėje narėje neįsteigusi filialo, turi apie tai pranešti priežiūros institucijai, nurodydama savo pavadinimą, adresą, licencijos numerį, valstybę narę, kurioje planuoja teikti mokėjimo paslaugas, ir numatomas teikti mokėjimo paslaugas, o jeigu ketina teikti mokėjimo paslaugas įsteigusi filialą kitoje valstybėje narėje, priežiūros institucijai turi pranešti ir šio įstatymo [[#^s-27cd4d21a6269ac414877725|5 straipsnio 2 dalies]] [[#^s-cdbabd57242b10ebb3325358|3]] ir [[#^s-2692c2a7a9e208e89b55048c|6]] punktuose nurodytą informaciją apie veiklą kitoje valstybėje narėje, pateikti filialo organizacinės struktūros aprašymą, filialo vadovo (vadovų) tapatybės duomenis ir įsipareigojimo vykdyti filialo patikrinimus ne rečiau kaip kartą per metus aprašymą. Jeigu mokėjimo paslaugas kitoje valstybėje narėje planuojama teikti per tarpininką, priežiūros institucijai taip pat turi būti pateikiama šio įstatymo [[#^s-2de93e1f4d505a0ac14ff6a8|18 straipsnio 1 dalyje]] nurodyta informacija. Kai mokėjimo įstaiga ketina veiklos funkcijų vykdymą perduoti kitam asmeniui kitoje valstybėje narėje, ji apie tai priežiūros institucijos nustatyta tvarka praneša priežiūros institucijai. Detalią pranešimo apie ketinimą teikti mokėjimo paslaugas kitoje valstybėje narėje, veiklos funkcijų vykdymą perduoti kitam asmeniui pateikimo, nagrinėjimo tvarką ir detalius šioje dalyje nurodytų pateikiamų dokumentų turinio ir formos reikalavimus nustato priežiūros institucija. ^s-758294215c64ac74e1710ddf
 Straipsnio dalies pakeitimai:
 Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 
@@ -633,16 +633,16 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 10. Mokėjimo įstaiga apie [[#^s-758294215c64ac74e1710ddf|šio straipsnio 2 dalyje]] nurodytų duomenų pasikeitimus, taip pat apie naujus tarpininkus, filialus ar kitus asmenis, kuriems perduodamas veiklos funkcijų vykdymas kitoje valstybėje narėje, privalo nedelsdama pranešti priežiūros institucijai. Tokiu atveju taikoma šiame straipsnyje nustatyta tvarka. ^s-20d86cf3e562a1198e704b37
 
 
-11. Priežiūros institucija, gavusi iš kitos valstybės narės priežiūros institucijos informaciją apie tai, kad mokėjimo įstaiga, teikianti mokėjimo paslaugas kitoje valstybėje narėje neįsteigusi filialo, per įsteigtą filialą ar pasitelktą tarpininką, nesilaiko kitos valstybės narės teisės aktų, įgyvendinančių Direktyvą (ES) 2015/2366, nuostatų, įvertina ją ir, siekdama užtikrinti, kad mokėjimo įstaiga nebepažeistų šių teisės aktų reikalavimų, nedelsdama imasi visų reikiamų priemonių. Priežiūros institucija apie šių priemonių taikymą praneša kitos valstybės narės priežiūros institucijai ir kitų susijusių valstybių narių priežiūros institucijoms. ^s-59a99f85a1ffb03a5e243174
+11. Priežiūros institucija, gavusi iš kitos valstybės narės priežiūros institucijos informaciją apie tai, kad mokėjimo įstaiga, teikianti mokėjimo paslaugas kitoje valstybėje narėje neįsteigusi filialo, per įsteigtą filialą ar pasitelktą tarpininką, nesilaiko kitos valstybės narės teisės aktų, įgyvendinančių [Direktyvą (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj), nuostatų, įvertina ją ir, siekdama užtikrinti, kad mokėjimo įstaiga nebepažeistų šių teisės aktų reikalavimų, nedelsdama imasi visų reikiamų priemonių. Priežiūros institucija apie šių priemonių taikymą praneša kitos valstybės narės priežiūros institucijai ir kitų susijusių valstybių narių priežiūros institucijoms. ^s-59a99f85a1ffb03a5e243174
 
 
 12. Priežiūros institucija kitos valstybės narės priežiūros institucijai teikia jos prašomą informaciją, ypač apie mokėjimo įstaigos, teikiančios mokėjimo paslaugas kitoje valstybėje narėje neįsteigus filialo, mokėjimo įstaigos kitoje valstybėje narėje įsteigto filialo, jos pasitelkto tarpininko padarytus ar įtariamus pažeidimus, o visą kitą svarbią informaciją, įskaitant informaciją apie tai, ar mokėjimo įstaiga turi buveinę ir vykdo mokėjimo paslaugų teikimo veiklą Lietuvos Respublikoje, teikia savo iniciatyva. ^s-cac4e956a78180199833c904
 
 
-13. Priežiūros institucija pagal šiame straipsnyje, išskyrus jo [[#^s-5628cf7d17e0133bb472f389|14 dalį]], nustatytus reikalavimus bendradarbiauja ir keičiasi informacija su kitos valstybės narės priežiūros institucija Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta Direktyvos (ES) 2015/2366 28 straipsnio 5 dalyje, nustatyta tvarka. ^s-d788216c76be68e2348723fb
+13. Priežiūros institucija pagal šiame straipsnyje, išskyrus jo [[#^s-5628cf7d17e0133bb472f389|14 dalį]], nustatytus reikalavimus bendradarbiauja ir keičiasi informacija su kitos valstybės narės priežiūros institucija Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta [Direktyvos (ES) 2015/2366 28 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/dir/2015/2366/art_28/par_5/oj), nustatyta tvarka. ^s-d788216c76be68e2348723fb
 
 
-14. Priežiūros institucija, atlikdama priežiūrą ir taikydama poveikio priemones mokėjimo įstaigai, teikiančiai mokėjimo paslaugas kitoje valstybėje narėje įsteigus filialą, per tarpininką ar neįsteigus filialo, bendradarbiauja su kitos valstybės narės priežiūros institucija Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta Direktyvos (ES) 2015/2366 [[#^s-dcede2721d12341411cba387|29 straipsnio 6 dalyje]], nustatyta tvarka. ^s-5628cf7d17e0133bb472f389
+14. Priežiūros institucija, atlikdama priežiūrą ir taikydama poveikio priemones mokėjimo įstaigai, teikiančiai mokėjimo paslaugas kitoje valstybėje narėje įsteigus filialą, per tarpininką ar neįsteigus filialo, bendradarbiauja su kitos valstybės narės priežiūros institucija Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta [Direktyvos (ES) 2015/2366 29 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/dir/2015/2366/art_29/par_6/oj), nustatyta tvarka. ^s-5628cf7d17e0133bb472f389
 
 
 
@@ -667,32 +667,32 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 6. Jeigu priežiūros institucija turi pagrįstų priežasčių įtarti, kad kitos valstybės narės mokėjimo įstaigai Lietuvos Respublikoje įsteigus filialą ar pasitelkus tarpininką buvo, yra ar bus vykdomas pinigų plovimas ir (ar) teroristų finansavimas arba įsteigus filialą ar pasitelkus tarpininką padidėtų pinigų plovimo ir (ar) teroristų finansavimo rizika, ji apie tai praneša kitos valstybės narės priežiūros institucijai. ^s-34642f815ac98abc934d4a1a
 
 
-7. Priežiūros institucija pagal šiame straipsnyje, išskyrus jo [[#^s-fffd0bcb0563a68689ac8f24|8 dalį]], nustatytus reikalavimus bendradarbiauja ir keičiasi informacija su kitos valstybės narės priežiūros institucija Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta Direktyvos (ES) 2015/2366 28 straipsnio 5 dalyje, nustatyta tvarka. ^s-c745ccdc840d8ae0cc5c028a
+7. Priežiūros institucija pagal šiame straipsnyje, išskyrus jo [[#^s-fffd0bcb0563a68689ac8f24|8 dalį]], nustatytus reikalavimus bendradarbiauja ir keičiasi informacija su kitos valstybės narės priežiūros institucija Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta [Direktyvos (ES) 2015/2366 28 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/dir/2015/2366/art_28/par_5/oj), nustatyta tvarka. ^s-c745ccdc840d8ae0cc5c028a
 
 
-8. Priežiūros institucija bendradarbiauja ir keičiasi informacija su kitos valstybės narės priežiūros institucija, prižiūrinčia kitos valstybės narės mokėjimo įstaigą, teikiančią mokėjimo paslaugas Lietuvos Respublikoje įsteigus filialą, per tarpininką ar neįsteigus filialo, ir taikančia jai poveikio priemones, Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta Direktyvos (ES) 2015/2366 [[#^s-dcede2721d12341411cba387|29 straipsnio 6 dalyje]], nustatyta tvarka. ^s-fffd0bcb0563a68689ac8f24
+8. Priežiūros institucija bendradarbiauja ir keičiasi informacija su kitos valstybės narės priežiūros institucija, prižiūrinčia kitos valstybės narės mokėjimo įstaigą, teikiančią mokėjimo paslaugas Lietuvos Respublikoje įsteigus filialą, per tarpininką ar neįsteigus filialo, ir taikančia jai poveikio priemones, Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta [Direktyvos (ES) 2015/2366 29 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/dir/2015/2366/art_29/par_6/oj), nustatyta tvarka. ^s-fffd0bcb0563a68689ac8f24
 
 
 
 ### 13 straipsnis. Viešasis mokėjimo įstaigų sąrašas ^s-289b01df037f57700bdad50d
 
 
-1. Mokėjimo įstaigos, gavusios priežiūros institucijos išduotą licenciją ir įregistruotos Juridinių asmenų registre, mokėjimo įstaigų filialai, veikiantys kitose valstybėse narėse, ir tarpininkai yra įtraukiami į viešąjį mokėjimo įstaigų sąrašą, nurodant, kokioms mokėjimo paslaugoms teikti yra išduota licencija. Į viešąjį mokėjimo įstaigų sąrašą taip pat įtraukiami [[latest/TAR.C6C5599DD9A1#^s-0bc001e5017c51370534be1c|Mokėjimų įstatymo 8 straipsnio]] 1 ir [[#^s-e86d934b48dc0c5eeb875adb|4 dalyse]] nurodyti asmenys ir jų veiklos aprašymas, kaip nurodyta [[latest/TAR.C6C5599DD9A1#^s-b54255133b19426a748a7c60|Mokėjimų įstatymo 8 straipsnio 6 dalyje]]. ^s-fc37b845f6f5a9966aafa014
+1. Mokėjimo įstaigos, gavusios priežiūros institucijos išduotą licenciją ir įregistruotos Juridinių asmenų registre, mokėjimo įstaigų filialai, veikiantys kitose valstybėse narėse, ir tarpininkai yra įtraukiami į viešąjį mokėjimo įstaigų sąrašą, nurodant, kokioms mokėjimo paslaugoms teikti yra išduota licencija. Į viešąjį mokėjimo įstaigų sąrašą taip pat įtraukiami [[latest/TAR.C6C5599DD9A1#^s-0bc001e5017c51370534be1c|Mokėjimų įstatymo 8 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-6892b8e153d5fd1a7a473fed|1]] ir [[latest/TAR.C6C5599DD9A1#^s-ebcc3c8d1ffaa377ce33db75|4]] dalyse nurodyti asmenys ir jų veiklos aprašymas, kaip nurodyta [[latest/TAR.C6C5599DD9A1#^s-b54255133b19426a748a7c60|Mokėjimų įstatymo 8 straipsnio 6 dalyje]]. ^s-fc37b845f6f5a9966aafa014
 
 
-2. Viešojo mokėjimo įstaigų sąrašo tvarkytoja – priežiūros institucija – į viešąjį mokėjimo įstaigų sąrašą mokėjimo įstaigas įtraukia per 2 darbo dienas nuo licencijos gavimo ir įregistravimo Juridinių asmenų registre dienos, jų tarpininkus – per 2 mėnesius nuo visų šio įstatymo [[#^s-2de93e1f4d505a0ac14ff6a8|18 straipsnio 1 dalyje]] nurodytų dokumentų ir duomenų gavimo dienos, mokėjimo įstaigų filialus ir tarpininkus, veikiančius kitose valstybėse narėse, – per 3 mėnesius nuo visų šio įstatymo [[#^s-758294215c64ac74e1710ddf|11 straipsnio 2 dalyje]] nurodytų dokumentų ir duomenų gavimo dienos, [[latest/TAR.C6C5599DD9A1#^s-0bc001e5017c51370534be1c|Mokėjimų įstatymo 8 straipsnio]] 1 ir [[#^s-e86d934b48dc0c5eeb875adb|4 dalyse]] nurodytus asmenis – per 2 darbo dienas nuo pranešimo apie teikiamas paslaugas gavimo dienos. ^s-70978213a1a1dc365ce57f4a
+2. Viešojo mokėjimo įstaigų sąrašo tvarkytoja – priežiūros institucija – į viešąjį mokėjimo įstaigų sąrašą mokėjimo įstaigas įtraukia per 2 darbo dienas nuo licencijos gavimo ir įregistravimo Juridinių asmenų registre dienos, jų tarpininkus – per 2 mėnesius nuo visų šio įstatymo [[#^s-2de93e1f4d505a0ac14ff6a8|18 straipsnio 1 dalyje]] nurodytų dokumentų ir duomenų gavimo dienos, mokėjimo įstaigų filialus ir tarpininkus, veikiančius kitose valstybėse narėse, – per 3 mėnesius nuo visų šio įstatymo [[#^s-758294215c64ac74e1710ddf|11 straipsnio 2 dalyje]] nurodytų dokumentų ir duomenų gavimo dienos, [[latest/TAR.C6C5599DD9A1#^s-0bc001e5017c51370534be1c|Mokėjimų įstatymo 8 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-6892b8e153d5fd1a7a473fed|1]] ir [[latest/TAR.C6C5599DD9A1#^s-ebcc3c8d1ffaa377ce33db75|4]] dalyse nurodytus asmenis – per 2 darbo dienas nuo pranešimo apie teikiamas paslaugas gavimo dienos. ^s-70978213a1a1dc365ce57f4a
 
 
 3. Mokėjimo įstaigos, turinčios mokėjimo įstaigos licenciją, į viešąjį mokėjimo įstaigų sąrašą įtraukiamos atskirai nuo mokėjimo įstaigų, turinčių mokėjimo įstaigos ribotos veiklos licenciją, ir nuo mokėjimo įstaigų, teikiančių tik sąskaitos informacijos paslaugą. ^s-3492842393cf5a210262a4fb
 
 
-4. Priežiūros institucija apie mokėjimo įstaigos įtraukimą į sąrašą, jos licencijos galiojimo panaikinimą ar sustabdymą ir sustabdymo panaikinimą, mokėjimo įstaigos filialo, veikiančio kitoje valstybėje narėje, ir tarpininko bei [[latest/TAR.C6C5599DD9A1#^s-0bc001e5017c51370534be1c|Mokėjimų įstatymo 8 straipsnio]] 1 ir [[#^s-e86d934b48dc0c5eeb875adb|4 dalyse]] nurodytų asmenų įtraukimą į sąrašą, jų duomenų ar informacijos pakeitimą skelbia ir šią informaciją reguliariai atnaujina priežiūros institucijos interneto svetainėje esančiame viešajame mokėjimo įstaigų sąraše. ^s-e86d934b48dc0c5eeb875adb
+4. Priežiūros institucija apie mokėjimo įstaigos įtraukimą į sąrašą, jos licencijos galiojimo panaikinimą ar sustabdymą ir sustabdymo panaikinimą, mokėjimo įstaigos filialo, veikiančio kitoje valstybėje narėje, ir tarpininko bei [[latest/TAR.C6C5599DD9A1#^s-0bc001e5017c51370534be1c|Mokėjimų įstatymo 8 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-6892b8e153d5fd1a7a473fed|1]] ir [[latest/TAR.C6C5599DD9A1#^s-ebcc3c8d1ffaa377ce33db75|4]] dalyse nurodytų asmenų įtraukimą į sąrašą, jų duomenų ar informacijos pakeitimą skelbia ir šią informaciją reguliariai atnaujina priežiūros institucijos interneto svetainėje esančiame viešajame mokėjimo įstaigų sąraše. ^s-e86d934b48dc0c5eeb875adb
 
 
-5. [[#^s-e86d934b48dc0c5eeb875adb|Šio straipsnio 4 dalyje]] nurodytą informaciją priežiūros institucija nedelsdama praneša Europos bankininkystės institucijai Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta Direktyvos (ES) 2015/2366 [[#^s-6752d2ad1646321aaf89af1f|15 straipsnio]] 4 ir [[#^s-5a24c5c9da082a07dd720128|5 dalyse]], nustatyta tvarka. ^s-5a24c5c9da082a07dd720128
+5. [[#^s-e86d934b48dc0c5eeb875adb|Šio straipsnio 4 dalyje]] nurodytą informaciją priežiūros institucija nedelsdama praneša Europos bankininkystės institucijai Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta [Direktyvos (ES) 2015/2366 15 straipsnio](https://eur-lex.europa.eu/eli/dir/2015/2366/art_15/oj) 4 ir 5 dalyse, nustatyta tvarka. ^s-5a24c5c9da082a07dd720128
 
 
-6. Viešasis mokėjimo įstaigų sąrašas tvarkomas priežiūros institucijos teisės aktuose ir Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta Direktyvos (ES) 2015/2366 [[#^s-6752d2ad1646321aaf89af1f|15 straipsnio]] 4 ir [[#^s-5a24c5c9da082a07dd720128|5 dalyse]], nustatyta tvarka. ^s-f1e78950fba0a289d520ab06
+6. Viešasis mokėjimo įstaigų sąrašas tvarkomas priežiūros institucijos teisės aktuose ir Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta [Direktyvos (ES) 2015/2366 15 straipsnio](https://eur-lex.europa.eu/eli/dir/2015/2366/art_15/oj) 4 ir 5 dalyse, nustatyta tvarka. ^s-f1e78950fba0a289d520ab06
 
 
 
@@ -716,7 +716,7 @@ MOKĖJIMO ĮSTAIGOS KAPITALO IR APSAUGOS REIKALAVIMAI
 2) jeigu ketina teikti tik [[latest/TAR.C6C5599DD9A1#^s-d8aa2a697e71c281e9da3001|Mokėjimų įstatymo 5 straipsnio 7 punkte]] nurodytas mokėjimo paslaugas, – ne mažesnį kaip 50 tūkstančių eurų; ^s-304a8b12239af9e5098c4531
 
 
-3) jeigu ketina teikti [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] 1–5 punktuose nurodytas mokėjimo paslaugas, – ne mažesnį kaip 125 tūkstančiai eurų. ^s-d2d240643eaf69c03f96f078
+3) jeigu ketina teikti [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-87dfd2aa4e7b5affcb416682|1]]–[[latest/TAR.C6C5599DD9A1#^s-83a088d353cb4dc9bab104d2|5]] punktuose nurodytas mokėjimo paslaugas, – ne mažesnį kaip 125 tūkstančiai eurų. ^s-d2d240643eaf69c03f96f078
 
 
 
@@ -754,7 +754,7 @@ MOKĖJIMO ĮSTAIGOS KAPITALO IR APSAUGOS REIKALAVIMAI
 4. Mokėjimo įstaiga negali nuosavam kapitalui apskaičiuoti taikytinų elementų naudoti pakartotinai, jeigu ji priklauso tai pačiai įmonių grupei, kaip ir kita mokėjimo įstaiga, kredito įstaiga, finansų maklerio įmonė, valdymo įmonė ar draudimo įmonė. Ši nuostata taip pat taikoma, jeigu mokėjimo įstaiga vykdo ir kitą negu mokėjimo paslaugų teikimo veiklą. ^s-47261c7adddf20589fbcee77
 
 
-5. Mokėjimo įstaigos, kuri teikia [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] 1–6 punktuose nurodytas mokėjimo paslaugas, nuosavo kapitalo dydžio apskaičiavimo ir taikymo tvarką nustato priežiūros institucija. ^s-9744c73afe36f2eb141cfe97
+5. Mokėjimo įstaigos, kuri teikia [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-87dfd2aa4e7b5affcb416682|1]]–[[latest/TAR.C6C5599DD9A1#^s-aa84b6a0200d5b73ced39668|6]] punktuose nurodytas mokėjimo paslaugas, nuosavo kapitalo dydžio apskaičiavimo ir taikymo tvarką nustato priežiūros institucija. ^s-9744c73afe36f2eb141cfe97
 
 
 6. Priežiūros institucija, remdamasi rizikos valdymo proceso, duomenų apie su rizika susijusius nuostolius rinkimo kokybės ir vidaus kontrolės sistemos vertinimu, gali mokėjimo įstaigai nustatyti individualų nuosavo kapitalo dydį – iki 20 procentų mažesnį arba didesnį už priežiūros institucijos teisės aktuose nustatytais metodais apskaičiuotą nuosavo kapitalo poreikį. ^s-fdcf38654219039bbdeef0eb
@@ -764,7 +764,7 @@ MOKĖJIMO ĮSTAIGOS KAPITALO IR APSAUGOS REIKALAVIMAI
 ### 17 straipsnis. Mokėjimo paslaugų vartotojų lėšų apsaugos reikalavimai ^s-9afa4bb64c068b22b8227fac
 
 
-1. Mokėjimo įstaiga, kuri teikia [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] 1–6 punktuose nurodytas mokėjimo paslaugas, privalo apsaugoti tiesiogiai iš mokėjimo paslaugų vartotojų arba iš kito mokėjimo paslaugų teikėjo gautas mokėjimo paslaugų vartotojų lėšas mokėjimo operacijoms vykdyti vienu iš šių būdų: ^s-c8234524f1503bf345596c73
+1. Mokėjimo įstaiga, kuri teikia [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-87dfd2aa4e7b5affcb416682|1]]–[[latest/TAR.C6C5599DD9A1#^s-aa84b6a0200d5b73ced39668|6]] punktuose nurodytas mokėjimo paslaugas, privalo apsaugoti tiesiogiai iš mokėjimo paslaugų vartotojų arba iš kito mokėjimo paslaugų teikėjo gautas mokėjimo paslaugų vartotojų lėšas mokėjimo operacijoms vykdyti vienu iš šių būdų: ^s-c8234524f1503bf345596c73
 
 
 1) atskirdama šias lėšas nuo kitų fizinių arba juridinių asmenų, kurie nėra mokėjimo paslaugų vartotojai, lėšų. Jeigu gautas lėšas kitos darbo dienos pabaigoje vis dar turi mokėjimo įstaiga ir jos nėra perduotos gavėjui ar pervestos kitam mokėjimo paslaugų teikėjui, šios lėšos turi būti laikomos atskiroje sąskaitoje, atidarytoje Lietuvos Respublikos arba kitos valstybės narės kredito įstaigoje (įskaitant užsienio valstybės kredito įstaigos filialą, įsteigtą Lietuvos Respublikoje arba kitoje valstybėje narėje), Lietuvos banke arba kitos valstybės narės centriniame banke (jeigu centrinis bankas sudaro tokią galimybę), arba investuojamos į saugų, likvidų ir mažos rizikos turtą priežiūros institucijos teisės aktų nustatyta tvarka. Mokėjimo įstaiga, šiame punkte nustatytu būdu saugodama mokėjimo paslaugų vartotojų tiesiogiai arba iš kito mokėjimo paslaugų teikėjo gautas mokėjimo paslaugų vartotojų lėšas mokėjimo operacijoms vykdyti, privalo imtis priemonių, užtikrinančių mokėjimo paslaugų vartotojų nuosavybės teisių apsaugą, ypač jeigu ji yra nemoki. Mokėjimo paslaugų vartotojų lėšos, perduotos mokėjimo įstaigai mokėjimo paslaugoms vykdyti, yra jų nuosavybė ir į jas negali būti nukreiptas išieškojimas pagal mokėjimo įstaigos skolas; ^s-870ab291b37f0ca6af3008dc
@@ -801,7 +801,7 @@ KITI MOKĖJIMO ĮSTAIGAI KELIAMI REIKALAVIMAI
 1) tarpininko, kai jis yra juridinis asmuo, pavadinimą, adresą ir kodą; kai tarpininkas yra fizinis asmuo, – jo vardą, pavardę ir veiklos vietos adresą; ^s-18347041e053e82e53d97d45
 
 
-2) vidaus kontrolės procedūrų, kurias tarpininkas naudos, kad užtikrintų [[latest/TAR.C44837068B55|Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme]] (jeigu tarpininkas registruotas Lietuvos Respublikoje), kitos valstybės narės įstatymuose, įgyvendinančiuose 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyvą (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB, su visais pakeitimais, ir Reglamente (ES) 2023/1113 numatytų reikalavimų vykdymą, aprašymą; ^s-2d0cea2609ad39fe8c0ea7d4
+2) vidaus kontrolės procedūrų, kurias tarpininkas naudos, kad užtikrintų [[latest/TAR.C44837068B55|Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme]] (jeigu tarpininkas registruotas Lietuvos Respublikoje), kitos valstybės narės įstatymuose, įgyvendinančiuose 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos [direktyvą (ES) 2015/849](https://eur-lex.europa.eu/eli/dir/2015/849/oj) dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB, su visais pakeitimais, ir [Reglamente (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj) numatytų reikalavimų vykdymą, aprašymą; ^s-2d0cea2609ad39fe8c0ea7d4
 Straipsnio punkto pakeitimai:
 Nr. XIV-2886, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13495
 
@@ -890,13 +890,13 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 ### 20 straipsnis. Reikalavimai dėl profesinės civilinės atsakomybės draudimo arba kitos lygiavertės atsakomybės užtikrinimo priemonės, kai mokėjimo įstaiga teikia sąskaitos informacijos paslaugą ir (arba) mokėjimo inicijavimo paslaugą ^s-b5bde37ded871e77920ac022
 
 
-1.  Mokėjimo įstaiga, teikianti mokėjimo inicijavimo paslaugą, privalo būti apsidraudusi profesinės civilinės atsakomybės draudimu arba turėti kitą lygiavertę atsakomybės užtikrinimo priemonę dėl žalos, kuri gali atsirasti dėl jos įsipareigojimų, nurodytų [[latest/TAR.C6C5599DD9A1#^s-8bce66412d302f5ec94f20f8|Mokėjimų įstatymo 38, 51, 52 ir 53 straipsniuose]], nevykdymo ar netinkamo vykdymo, atlyginimo. ^s-3ac2e18e2d2a97907a29fb17
+1.  Mokėjimo įstaiga, teikianti mokėjimo inicijavimo paslaugą, privalo būti apsidraudusi profesinės civilinės atsakomybės draudimu arba turėti kitą lygiavertę atsakomybės užtikrinimo priemonę dėl žalos, kuri gali atsirasti dėl jos įsipareigojimų, nurodytų [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] [[latest/TAR.C6C5599DD9A1#^s-17e3af01d82d76893958a28e|38]], [[latest/TAR.C6C5599DD9A1#^s-40056ea9589e35d4632b8d34|51]], [[latest/TAR.C6C5599DD9A1#^s-b6f4e0e5a912feaf93960cb2|52]] ir [[latest/TAR.C6C5599DD9A1#^s-8bce66412d302f5ec94f20f8|53]] straipsniuose, nevykdymo ar netinkamo vykdymo, atlyginimo. ^s-3ac2e18e2d2a97907a29fb17
 
 
 2.  Mokėjimo įstaiga, teikianti sąskaitos informacijos paslaugą, privalo būti apsidraudusi profesinės civilinės atsakomybės draudimu arba turėti kitą lygiavertę atsakomybės užtikrinimo priemonę dėl žalos, kuri gali atsirasti dėl neautorizuotos arba nesąžiningos prieigos prie mokėjimo sąskaitos informacijos arba neautorizuoto ar nesąžiningo šios informacijos panaudojimo, sąskaitą tvarkančiam mokėjimo paslaugų teikėjui arba mokėjimo paslaugų vartotojui atlyginimo. ^s-9e62a2983b49f6411a21da35
 
 
-3.  Šio straipsnio 1 ir [[#^s-9e62a2983b49f6411a21da35|2 dalyse]] nurodyto profesinės civilinės atsakomybės draudimo sutartis arba sutartis dėl kitos atsakomybės užtikrinimo priemonės privalo būti sudaryta Lietuvos Respublikos draudimo įmonės ar kredito įstaigos (įskaitant užsienio valstybės draudimo įmonės ar kredito įstaigos filialą, veikiantį Lietuvos Respublikoje) ar kitos valstybės narės draudimo įmonės ar kredito įstaigos, privalo galioti tose valstybėse narėse, kuriose mokėjimo įstaiga teikia paslaugą, visą jos veiklos laikotarpį. Profesinės civilinės atsakomybės draudimo arba kitos atsakomybės užtikrinimo priemonės suma privalo būti ne mažesnė negu suma, apskaičiuota pagal Europos bankininkystės institucijos gairių, kaip nurodyta Direktyvos (ES) 2015/2366 [[#^s-57c3a2135d840f607e1cfa55|5 straipsnio 4 dalyje]], reikalavimus. ^s-f11d5a4f7a90b0d8c736391c
+3.  Šio straipsnio [[#^s-3ac2e18e2d2a97907a29fb17|1]] ir [[#^s-9e62a2983b49f6411a21da35|2]] dalyse nurodyto profesinės civilinės atsakomybės draudimo sutartis arba sutartis dėl kitos atsakomybės užtikrinimo priemonės privalo būti sudaryta Lietuvos Respublikos draudimo įmonės ar kredito įstaigos (įskaitant užsienio valstybės draudimo įmonės ar kredito įstaigos filialą, veikiantį Lietuvos Respublikoje) ar kitos valstybės narės draudimo įmonės ar kredito įstaigos, privalo galioti tose valstybėse narėse, kuriose mokėjimo įstaiga teikia paslaugą, visą jos veiklos laikotarpį. Profesinės civilinės atsakomybės draudimo arba kitos atsakomybės užtikrinimo priemonės suma privalo būti ne mažesnė negu suma, apskaičiuota pagal Europos bankininkystės institucijos gairių, kaip nurodyta [Direktyvos (ES) 2015/2366 5 straipsnio 4 dalyje](https://eur-lex.europa.eu/eli/dir/2015/2366/art_5/par_4/oj), reikalavimus. ^s-f11d5a4f7a90b0d8c736391c
 
 
 4. Mokėjimo įstaiga, teikianti sąskaitos informacijos paslaugą ir (arba) mokėjimo inicijavimo paslaugą, pasibaigus profesinės civilinės atsakomybės draudimo sutarčiai arba kitos atsakomybės užtikrinimo priemonės galiojimo terminui, per 5 darbo dienas nuo pasibaigimo dienos priežiūros institucijos nustatyta tvarka privalo pateikti priežiūros institucijai pasikeitusius dokumentus ir duomenis, kuriais pagrindžiamas draudimo arba kitos atsakomybės užtikrinimo priemonės sumos minimalus dydis. ^s-25ec2ee1f7cb79959a755e57
@@ -951,7 +951,7 @@ Nr. XIV-3095, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20116
 3. Mokėjimo įstaigos priežiūrai skirtų ataskaitų formas, ataskaitų sudarymo ir pateikimo tvarką nustato priežiūros institucijos teisės aktai. ^s-476eec11c480306bc15ca6a3
 
 
-4. Mokėjimo įstaiga, kuri teikia [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] 1–6 punktuose nurodytas mokėjimo paslaugas ir kuriai yra privalomas finansinių ataskaitų auditas, kartu su audituotomis finansinėmis ataskaitomis priežiūros institucijai turi pateikti ir finansinių ataskaitų audito ataskaitą, kurioje turi būti atskleista atskira apskaitos informacija apie mokėjimo paslaugų ir kitos vykdomos veiklos atskyrimo teisingumą ir pastebėjimai dėl mokėjimo įstaigos taikomų vidaus kontrolės procedūrų, užtikrinančių šio įstatymo [[#^s-9afa4bb64c068b22b8227fac|17 straipsnyje]] nustatytų mokėjimo paslaugų vartotojų lėšų apsaugos reikalavimų vykdymą. ^s-ef45ee358eb422f107cb7ed6
+4. Mokėjimo įstaiga, kuri teikia [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-87dfd2aa4e7b5affcb416682|1]]–[[latest/TAR.C6C5599DD9A1#^s-aa84b6a0200d5b73ced39668|6]] punktuose nurodytas mokėjimo paslaugas ir kuriai yra privalomas finansinių ataskaitų auditas, kartu su audituotomis finansinėmis ataskaitomis priežiūros institucijai turi pateikti ir finansinių ataskaitų audito ataskaitą, kurioje turi būti atskleista atskira apskaitos informacija apie mokėjimo paslaugų ir kitos vykdomos veiklos atskyrimo teisingumą ir pastebėjimai dėl mokėjimo įstaigos taikomų vidaus kontrolės procedūrų, užtikrinančių šio įstatymo [[#^s-9afa4bb64c068b22b8227fac|17 straipsnyje]] nustatytų mokėjimo paslaugų vartotojų lėšų apsaugos reikalavimų vykdymą. ^s-ef45ee358eb422f107cb7ed6
 
 
 5. Reikalavimai, taikomi mokėjimo įstaigos finansinių ataskaitų rinkinio audito atlikimui, auditoriui ir audito įmonei, jų pareigos ir atsakomybė nustatyti [[latest/TAR.779892D853B4|Finansų įstaigų įstatyme]], Akcinių bendrovių įstatyme ir Finansinių ataskaitų audito įstatyme. ^s-0cfb6700fb7fa4472c2ec4bc
@@ -994,7 +994,7 @@ MOKĖJIMO ĮSTAIGŲ PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 3. Kitų valstybių narių mokėjimo įstaigų, kurios teikia paslaugas Lietuvos Respublikoje neįsteigusios filialo, per tarpininką, ir kitų valstybių narių mokėjimo įstaigų Lietuvos Respublikoje įsteigtų filialų priežiūra atliekama atsižvelgiant į šio įstatymo [[#^s-d461798613d900e6ca08f1f0|30 straipsnio]] nuostatas. ^s-abb2d69e7dd3b5656f9629cc
 
 
-4. Licenciją turinčių mokėjimo įstaigų priežiūra nereiškia, kad priežiūros institucija atlieka ir mokėjimo įstaigų šio įstatymo [[#^s-d888aaeeab10dce673c7bb45|4 straipsnio 2 dalies]] 2 ir 3 punktuose numatytos veiklos priežiūrą. ^s-d295c33567678a7432b78c07
+4. Licenciją turinčių mokėjimo įstaigų priežiūra nereiškia, kad priežiūros institucija atlieka ir mokėjimo įstaigų šio įstatymo [[#^s-d888aaeeab10dce673c7bb45|4 straipsnio 2 dalies]] [[#^s-37fb4d0f097af380e081d3bb|2]] ir [[#^s-724220bd0ba53f36eb9ebece|3]] punktuose numatytos veiklos priežiūrą. ^s-d295c33567678a7432b78c07
 
 
 
@@ -1027,7 +1027,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 2) jeigu mokėjimo įstaigos vykdoma kita negu mokėjimo paslaugų teikimo veikla turi ar gali turėti neigiamą įtaką mokėjimo įstaigos finansiniam patikimumui ar galimybei stebėti, kaip mokėjimo įstaiga vykdo visus šiame įstatyme nustatytus reikalavimus, reikalauti, kad būtų įsteigtas atskiras juridinis asmuo mokėjimo paslaugų teikimo veiklai vykdyti; ^s-5544c125f1b4e315394477ab
 
 
-3) sudaryti sutartis su audito įmonėmis ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl mokėjimo įstaigos patikrinimo atlikimo, kad būtų nustatyta mokėjimo įstaigos turto vertė, mokėjimo įstaigos finansinė būklė, įvertintos prisiimtos rizikos ar patikrinti kiti mokėjimo įstaigos veiklos klausimai. Jeigu atlikus patikrinimą nustatoma, kad mokėjimo įstaiga priežiūros institucijai pateikė neteisingą informaciją, ar nustatoma kitų padarytų teisės aktų pažeidimų, priežiūros institucijos patirtas patikrinimo organizavimo išlaidas atlygina mokėjimo įstaiga. Pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys turi [[latest/TAR.1B4D7B687895#^s-99181756e1f45dae235dc7c5|Lietuvos banko įstatymo 421 straipsnio 5 dalies]] 1, 3, 11 ir 12 punktuose priežiūros institucijos tarnautojams nustatytas teises; ^s-42ccf2241135168f5e437d9f
+3) sudaryti sutartis su audito įmonėmis ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl mokėjimo įstaigos patikrinimo atlikimo, kad būtų nustatyta mokėjimo įstaigos turto vertė, mokėjimo įstaigos finansinė būklė, įvertintos prisiimtos rizikos ar patikrinti kiti mokėjimo įstaigos veiklos klausimai. Jeigu atlikus patikrinimą nustatoma, kad mokėjimo įstaiga priežiūros institucijai pateikė neteisingą informaciją, ar nustatoma kitų padarytų teisės aktų pažeidimų, priežiūros institucijos patirtas patikrinimo organizavimo išlaidas atlygina mokėjimo įstaiga. Pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys turi [[latest/TAR.1B4D7B687895#^s-99181756e1f45dae235dc7c5|Lietuvos banko įstatymo 421 straipsnio 5 dalies]] [[latest/TAR.1B4D7B687895#^s-04f64a4ea0a54301a4b3fa71|1]], [[latest/TAR.1B4D7B687895#^s-e7cd86468a08917863237218|3]], [[latest/TAR.1B4D7B687895#^s-c0186fb22d1b6a39f4449e7b|11]] ir [[latest/TAR.1B4D7B687895#^s-07bf787f6bc850c937f35229|12]] punktuose priežiūros institucijos tarnautojams nustatytas teises; ^s-42ccf2241135168f5e437d9f
 
 
 4) reikalauti, kad būtų pakeista audito įmonė, atliekanti mokėjimo įstaigos finansinių ataskaitų auditą, jeigu audito įmonė ar auditorius neatitinka (nevykdo) įstatymų nustatytų reikalavimų. ^s-6c8abb7cd50162902e0ea49d
@@ -1069,7 +1069,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 3. Priežiūros institucija, nustačiusi teisės aktų pažeidimų ar mokėjimo įstaigos veiklos trūkumų arba kad kyla grėsmė mokėjimo įstaigos veiklos stabilumui ir patikimumui, turi teisę laikinai mokėjimo įstaigai nustatyti individualius ar papildomus rizikos ribojimo reikalavimus. ^s-f39b30ef1f945d2a263ae510
 
 
-4. Mokėjimo įstaigos privalo įvykdyti šio straipsnio 2 ir [[#^s-f39b30ef1f945d2a263ae510|3 dalyse]] nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. ^s-73a85f941e1786d57f89903b
+4. Mokėjimo įstaigos privalo įvykdyti šio straipsnio [[#^s-b93f6f9026e8729160184cb5|2]] ir [[#^s-f39b30ef1f945d2a263ae510|3]] dalyse nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. ^s-73a85f941e1786d57f89903b
 
 
 5. Priežiūros institucijos nustatyta tvarka jos tarnautojai turi teisę dalyvauti mokėjimo įstaigos organų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti mokėjimo įstaigos veiklą. ^s-8327489ae85022c3c9f79b24
@@ -1101,7 +1101,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 4. Kitos valstybės narės priežiūros institucijos pavedimu priežiūros institucija, prieš tai pranešusi kitos valstybės narės priežiūros institucijai ir vadovaudamasi šio straipsnio nuostatomis, turi teisę patikrinti kitos valstybės narės mokėjimo įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduotas veiklos funkcijų vykdymas, Lietuvos Respublikoje. Kitos valstybės narės priežiūros institucija turi pranešti priežiūros institucijai apie ketinimą atlikti kitos valstybės narės mokėjimo įstaigos filialo, tarpininko ir kito asmens, kuriam perduotas veiklos funkcijų vykdymas, patikrinimą Lietuvos Respublikoje. ^s-3a8254c1d267e669a7fcaff4
 
 
-5. Priežiūros institucija, atlikdama savo funkcijas, susijusias su [[latest/TAR.C44837068B55|Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo]] ir Reglamento (ES) 2023/1113 nuostatų taikymu, ir vadovaudamasi šio straipsnio nuostatomis, turi teisę savo iniciatyva patikrinti kitos valstybės narės mokėjimo įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduotas veiklos funkcijų vykdymas, Lietuvos Respublikoje. ^s-e3b9e69b3d6e5eb26c988423
+5. Priežiūros institucija, atlikdama savo funkcijas, susijusias su [[latest/TAR.C44837068B55|Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo]] ir [Reglamento (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj) nuostatų taikymu, ir vadovaudamasi šio straipsnio nuostatomis, turi teisę savo iniciatyva patikrinti kitos valstybės narės mokėjimo įstaigos filialą, tarpininką ir kitą asmenį, kuriam perduotas veiklos funkcijų vykdymas, Lietuvos Respublikoje. ^s-e3b9e69b3d6e5eb26c988423
 Straipsnio dalies pakeitimai:
 Nr. XIV-2886, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13495
 
@@ -1127,7 +1127,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 3. Jeigu kitos valstybės narės priežiūros institucija nesiima veiksmų arba, Lietuvos priežiūros institucijos nuomone, veiksmai yra nepakankami, kad būtų užtikrintas šio įstatymo, [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] ir jų įgyvendinamųjų priežiūros institucijos teisės aktų reikalavimų vykdymas, arba, nepaisydama kitos valstybės narės priežiūros institucijos veiksmų, kitos valstybės narės mokėjimo įstaiga, kuri teikia mokėjimo paslaugas Lietuvos Respublikoje neįsteigusi filialo, arba kitos valstybės narės mokėjimo įstaigos Lietuvos Respublikoje įsteigtas filialas ar pasitelktas tarpininkas toliau nevykdo šio įstatymo, [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] ir jų įgyvendinamųjų priežiūros institucijos teisės aktų reikalavimų, priežiūros institucija, iš anksto apie tai pranešusi kitos valstybės narės priežiūros institucijai, turi teisę taikyti šio įstatymo nustatytas poveikio priemones. ^s-f537223504714ecdb73abfbf
 
 
-4. Susidarius kritinei situacijai, kai siekiant pašalinti rimtą grėsmę kolektyviniams mokėjimo paslaugų vartotojų interesams Lietuvos Respublikoje būtina imtis veiksmų nedelsiant, priežiūros institucija, vykstant priežiūros institucijų tarpvalstybiniam bendradarbiavimui, turi teisę taikyti šiame įstatyme nustatytas poveikio priemones neatsižvelgdama į šio straipsnio 2 ir [[#^s-f537223504714ecdb73abfbf|3 dalių]] nuostatas. ^s-e122fed811b7c7dbae3f5c36
+4. Susidarius kritinei situacijai, kai siekiant pašalinti rimtą grėsmę kolektyviniams mokėjimo paslaugų vartotojų interesams Lietuvos Respublikoje būtina imtis veiksmų nedelsiant, priežiūros institucija, vykstant priežiūros institucijų tarpvalstybiniam bendradarbiavimui, turi teisę taikyti šiame įstatyme nustatytas poveikio priemones neatsižvelgdama į šio straipsnio [[#^s-a457fc43a98c4ec4fcd3e955|2]] ir [[#^s-f537223504714ecdb73abfbf|3]] dalių nuostatas. ^s-e122fed811b7c7dbae3f5c36
 
 
 5. Poveikio priemonės, kurių imamasi pagal [[#^s-e122fed811b7c7dbae3f5c36|šio straipsnio 4 dalį]], turi būti tinkamos ir proporcingos jų tikslui apsaugoti nuo rimtos grėsmės kolektyviniams mokėjimo paslaugų vartotojų interesams Lietuvos Respublikoje, tačiau jos neturi suteikti pranašumo kitos valstybės narės mokėjimo įstaigos mokėjimo paslaugų vartotojams Lietuvos Respublikoje daugiau negu kitos valstybės narės mokėjimo įstaigos mokėjimo paslaugų vartotojams kitose valstybėse narėse. Šios priemonės turi būti laikinos ir turi būti nutraukiamos, kai pašalinamos nustatytos rimtos grėsmės, be kita ko, padedant kitos valstybės narės priežiūros institucijoms ar su jomis bendradarbiaujant arba padedant Europos bankininkystės institucijai ar su ja bendradarbiaujant, kaip nustatyta šio įstatymo [[#^s-28165d349bc74fe902cb7c32|31 straipsnio 1 dalyje]]. ^s-09d0fb129771897893dfa2e2
@@ -1136,10 +1136,10 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 6. Apie poveikio priemonių taikymą pagal [[#^s-e122fed811b7c7dbae3f5c36|šio straipsnio 4 dalį]] priežiūros institucija nedelsdama praneša kitos valstybės narės ir visų kitų susijusių valstybių narių priežiūros institucijoms, Europos Komisijai ir Europos bankininkystės institucijai. ^s-c08f27549f0abdb2c718bd0c
 
 
-7. Siekdama stebėti, kaip laikomasi [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] ir jo įgyvendinamųjų priežiūros institucijos teisės aktų nuostatų, taip pat informavimo ir (ar) statistikos tikslais priežiūros institucija turi teisę reikalauti, kad kitos valstybės narės mokėjimo įstaiga, įsteigusi filialą ar teikianti mokėjimo paslaugas per tarpininką Lietuvos Respublikoje, periodiškai teiktų priežiūros institucijai ataskaitas apie Lietuvos Respublikoje filialo ir tarpininko vykdomą mokėjimo paslaugų teikimo veiklą. Tokios informacijos apsaugai mutatis mutandis taikomos [[latest/TAR.B6B636C7384A#^s-f8b4491577818839d66a9c2d|Bankų įstatymo 65 straipsnio]] nuostatos. Priežiūros institucija, atsižvelgdama į Europos Komisijos priimtą deleguotąjį teisės aktą, kaip nurodyta Direktyvos (ES) 2015/2366 [[#^s-dcede2721d12341411cba387|29 straipsnio 6 dalyje]], nustato ataskaitų sudėtį, formas, ataskaitų sudarymo ir pateikimo tvarką. ^s-412b640969d50c0cfc4cd676
+7. Siekdama stebėti, kaip laikomasi [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] ir jo įgyvendinamųjų priežiūros institucijos teisės aktų nuostatų, taip pat informavimo ir (ar) statistikos tikslais priežiūros institucija turi teisę reikalauti, kad kitos valstybės narės mokėjimo įstaiga, įsteigusi filialą ar teikianti mokėjimo paslaugas per tarpininką Lietuvos Respublikoje, periodiškai teiktų priežiūros institucijai ataskaitas apie Lietuvos Respublikoje filialo ir tarpininko vykdomą mokėjimo paslaugų teikimo veiklą. Tokios informacijos apsaugai mutatis mutandis taikomos [[latest/TAR.B6B636C7384A#^s-f8b4491577818839d66a9c2d|Bankų įstatymo 65 straipsnio]] nuostatos. Priežiūros institucija, atsižvelgdama į Europos Komisijos priimtą deleguotąjį teisės aktą, kaip nurodyta [Direktyvos (ES) 2015/2366 29 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/dir/2015/2366/art_29/par_6/oj), nustato ataskaitų sudėtį, formas, ataskaitų sudarymo ir pateikimo tvarką. ^s-412b640969d50c0cfc4cd676
 
 
-8. Kai yra Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta Direktyvos (ES) 2015/2366 [[#^s-e3b9e69b3d6e5eb26c988423|29 straipsnio 5 dalyje]], nustatytos sąlygos, priežiūros institucija turi teisę reikalauti, kad kitos valstybės narės mokėjimo įstaiga, kuri, naudodamasi įsisteigimo teise, Lietuvos Respublikoje teikia mokėjimo paslaugas per tarpininką, paskirtų kontaktinį punktą Lietuvos Respublikoje, kad būtų užtikrintas tinkamas ryšių palaikymas, informacijos apie tai, kaip laikomasi [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] ir jo įgyvendinamųjų priežiūros institucijos teisės aktų nuostatų, teikimas ir sudarytos palankesnės sąlygos priežiūros institucijai ir kitos valstybės narės priežiūros institucijoms vykdyti kitų valstybių narių mokėjimo įstaigų, teikiančių mokėjimo paslaugas per tarpininkus, priežiūrą, taip pat pateikti priežiūros institucijų prašomus dokumentus ir kitą informaciją. ^s-04a43d62c90c64c2b4fa5db8
+8. Kai yra Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta [Direktyvos (ES) 2015/2366 29 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/dir/2015/2366/art_29/par_5/oj), nustatytos sąlygos, priežiūros institucija turi teisę reikalauti, kad kitos valstybės narės mokėjimo įstaiga, kuri, naudodamasi įsisteigimo teise, Lietuvos Respublikoje teikia mokėjimo paslaugas per tarpininką, paskirtų kontaktinį punktą Lietuvos Respublikoje, kad būtų užtikrintas tinkamas ryšių palaikymas, informacijos apie tai, kaip laikomasi [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] ir jo įgyvendinamųjų priežiūros institucijos teisės aktų nuostatų, teikimas ir sudarytos palankesnės sąlygos priežiūros institucijai ir kitos valstybės narės priežiūros institucijoms vykdyti kitų valstybių narių mokėjimo įstaigų, teikiančių mokėjimo paslaugas per tarpininkus, priežiūrą, taip pat pateikti priežiūros institucijų prašomus dokumentus ir kitą informaciją. ^s-04a43d62c90c64c2b4fa5db8
 
 
 
@@ -1156,10 +1156,10 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 ### 32 straipsnis. Atskirų valstybių narių kompetentingų institucijų nesutarimų sprendimas ^s-a8b8260854f979f6f52027bc
 
 
-1. Jeigu, priežiūros institucijos nuomone, kitos valstybės narės priežiūros institucijos nebendradarbiauja šio įstatymo 11, 12, 29, 30 ir [[#^s-8b55c477e0c7e22f5a3f7aef|31 straipsniuose]] nurodytais atvejais laikydamosi tuose straipsniuose nustatytų sąlygų, ji gali perduoti tą klausimą svarstyti Europos bankininkystės institucijai ir prašyti jos pagalbos pagal Reglamento (ES) Nr. 1093/2010 [[#^s-d5a1d35ac3cbd884a436e7b2|19 straipsnį]]. ^s-037620572f261c9f07084731
+1. Jeigu, priežiūros institucijos nuomone, kitos valstybės narės priežiūros institucijos nebendradarbiauja šio įstatymo [[#^s-ed542090bff50c1323013156|11]], [[#^s-c904d176c0cbd62603aa4646|12]], [[#^s-c00e1a6c0aa3bb0e4f7afc97|29]], [[#^s-d461798613d900e6ca08f1f0|30]] ir [[#^s-8b55c477e0c7e22f5a3f7aef|31]] straipsniuose nurodytais atvejais laikydamosi tuose straipsniuose nustatytų sąlygų, ji gali perduoti tą klausimą svarstyti Europos bankininkystės institucijai ir prašyti jos pagalbos pagal [Reglamento (ES) Nr. 1093/2010 19 straipsnį](https://eur-lex.europa.eu/eli/reg/1093/2010/art_19/oj). ^s-037620572f261c9f07084731
 
 
-2. Priežiūros institucija atideda savo sprendimo priėmimą, kol nesutarimas bus išspręstas pagal Reglamento (ES) Nr. 1093/2010 [[#^s-d5a1d35ac3cbd884a436e7b2|19 straipsnį]]. ^s-c603c1694cf572e719b81634
+2. Priežiūros institucija atideda savo sprendimo priėmimą, kol nesutarimas bus išspręstas pagal [Reglamento (ES) Nr. 1093/2010 19 straipsnį](https://eur-lex.europa.eu/eli/reg/1093/2010/art_19/oj). ^s-c603c1694cf572e719b81634
 
 
 
@@ -1270,7 +1270,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 3) nustatytais terminais nepateikiama šiame įstatyme ar kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neteisinga, neišsami ar netiksli informacija; ^s-9540d82f6129f69d12e035b4
 
 
-4) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo [[#^s-eb96238fe31808661ba89b7f|27 straipsnio]] 2 ir 3 dalis duoti privalomi nurodymai; ^s-6acb23f40c7e0c5fe33e1da9
+4) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo [[#^s-eb96238fe31808661ba89b7f|27 straipsnio]] [[#^s-b93f6f9026e8729160184cb5|2]] ir [[#^s-f39b30ef1f945d2a263ae510|3]] dalis duoti privalomi nurodymai; ^s-6acb23f40c7e0c5fe33e1da9
 
 
 5) nebetenkinami mokėjimo įstaigos licencijai išduoti nustatyti reikalavimai; ^s-06bd42810e5ac035e69faa42
@@ -1337,7 +1337,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 3. Apie priimtą sprendimą nušalinti mokėjimo įstaigos vadovą (vadovus) nuo pareigų pranešama mokėjimo įstaigai ir Juridinių asmenų registro tvarkytojui, taip pat paskelbiama priežiūros institucijos interneto svetainėje. ^s-c12427ab0a77a521162091ff
 
 
-4. Šio straipsnio 1, 2 ir [[#^s-c12427ab0a77a521162091ff|3 dalių]] nuostatos mutatis mutandis taikomos tarpininko vadovo nušalinimui nuo pareigų. ^s-341160fcca238f12860979ab
+4. Šio straipsnio [[#^s-64a432fcde3858c998ec4d8c|1]], [[#^s-cfadd7df273bb3765152edda|2]] ir [[#^s-c12427ab0a77a521162091ff|3]] dalių nuostatos mutatis mutandis taikomos tarpininko vadovo nušalinimui nuo pareigų. ^s-341160fcca238f12860979ab
 
 
 
@@ -1347,7 +1347,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 1. Priežiūros institucija turi teisę mokėjimo įstaigai paskirti laikinąjį administratorių. Laikinuoju administratoriumi gali būti paskirtas juridinis ar fizinis asmuo. Laikinuoju administratoriumi negali būti paskirtas priežiūros institucijos tarnautojas. ^s-4830d38b311a23b1a74bb765
 
 
-2. Laikinuoju administratoriumi skiriamam fiziniam asmeniui, juridiniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi [[latest/TAR.B6B636C7384A#^s-1da1553dfe8dcc899bb15a35|Bankų įstatymo 34 straipsnio]] 12 ir [[#^s-3bbecc7134d0a63d40ab0feb|13 dalyse]] nustatyti nepriekaištingos reputacijos reikalavimai ir šio įstatymo [[#^s-c6c890705708436ad793a86d|9 straipsnio 3 dalyje]] nustatyti kvalifikacijos ir patirties reikalavimai, jo neturi saistyti interesų konfliktas, tai yra laikinojo administratoriaus asmeniniai interesai negali prieštarauti mokėjimo įstaigos ar priežiūros institucijos interesams. ^s-144b6f6fce7742d45c0c7304
+2. Laikinuoju administratoriumi skiriamam fiziniam asmeniui, juridiniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi [[latest/TAR.B6B636C7384A#^s-1da1553dfe8dcc899bb15a35|Bankų įstatymo 34 straipsnio]] [[latest/TAR.B6B636C7384A#^s-cbf0d3cfe40162e5179f51eb|12]] ir [[latest/TAR.B6B636C7384A#^s-20a4b9e975c400d03726ecc9|13]] dalyse nustatyti nepriekaištingos reputacijos reikalavimai ir šio įstatymo [[#^s-c6c890705708436ad793a86d|9 straipsnio 3 dalyje]] nustatyti kvalifikacijos ir patirties reikalavimai, jo neturi saistyti interesų konfliktas, tai yra laikinojo administratoriaus asmeniniai interesai negali prieštarauti mokėjimo įstaigos ar priežiūros institucijos interesams. ^s-144b6f6fce7742d45c0c7304
 
 
 3. Laikinojo administratoriaus veiklos sąlygos, funkcijos ir jų apribojimai nustatomi priežiūros institucijos ir laikinojo administratoriaus sudaromoje laikinojo administravimo sutartyje. Tokioje sutartyje turi būti nustatyti priežiūros institucijos įsipareigojimai, susiję su laikinojo administratoriaus veiksmais atlyginant tretiesiems asmenims padarytą žalą. Bet kuriuo atveju laikinasis administratorius neatsako už žalą, atsiradusią dėl veiksmų, atliktų vykdant priežiūros institucijos duotus nurodymus. Tokiu atveju už padarytą žalą, kai yra įstatymuose, reglamentuojančiuose civilinės atsakomybės atsiradimą, nustatytos sąlygos, atsako priežiūros institucija. ^s-1374dc906494bfdece36420d
@@ -1463,7 +1463,7 @@ Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
 2) galima daryti išvadą, kad bus pažeidžiami mokėjimo paslaugų vartotojų turtiniai interesai arba gali kilti pavojus visos mokėjimų sistemos stabilumui ir patikimumui. ^s-5b45c4babb8d52bc3833c77e
 
 
-6. Šio straipsnio 1 ir [[#^s-4bf83aa0717db30d13a23b35|5 dalys]] netaikomos, jeigu sprendimas likviduoti mokėjimo įstaigą priimamas pagal šio įstatymo [[#^s-a3d305c8d6dc8e91ccbfd820|8 straipsnio 8 dalį]]. ^s-ba068c948b9b53352907cd51
+6. Šio straipsnio [[#^s-7ce0745a90ab75b973dc7872|1]] ir [[#^s-4bf83aa0717db30d13a23b35|5]] dalys netaikomos, jeigu sprendimas likviduoti mokėjimo įstaigą priimamas pagal šio įstatymo [[#^s-a3d305c8d6dc8e91ccbfd820|8 straipsnio 8 dalį]]. ^s-ba068c948b9b53352907cd51
 
 
 
@@ -1502,7 +1502,7 @@ priedas
 
 
 
-1. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, su paskutiniais pakeitimais, padarytais 2024 m. kovo 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/886. ^s-c0cba49fbf8577bbcf99c4da
+1. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir panaikinama Direktyva 2007/64/EB, su paskutiniais pakeitimais, padarytais 2024 m. kovo 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/886](https://eur-lex.europa.eu/eli/reg/2024/886/oj). ^s-c0cba49fbf8577bbcf99c4da
 
 
 _________________
@@ -1528,22 +1528,22 @@ Nr. XI-2332, 2012-11-06, Žin., 2012, Nr. 132-6660 (2012-11-15), i. k. [[latest/
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1034, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10872
-Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 4, 6 ir [[#^s-81eeed8ba1ff608081010299|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 [[#^s-a9dc111f95d1262390ccbf5b|4]], [[#^s-c4e1e75fbeed2365994323fe|6]] ir [[#^s-81eeed8ba1ff608081010299|8]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1311, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17043
-Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 6, 13 ir [[#^s-8b55c477e0c7e22f5a3f7aef|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 [[#^s-c4e1e75fbeed2365994323fe|6]], [[#^s-289b01df037f57700bdad50d|13]] ir [[#^s-8b55c477e0c7e22f5a3f7aef|31]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-103, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29415
-Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 5 ir [[#^s-d5a1d35ac3cbd884a436e7b2|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 [[#^s-83915560da36f60a28d7d42f|5]] ir [[#^s-d5a1d35ac3cbd884a436e7b2|19]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1244, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09858
-Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 21, 23, 24, 26, 29, 30, 31, 33, [[#^s-26179c6bfda475218c279c15|34 straipsnių]] pakeitimo ir 22, [[#^s-56d617fd3e4468bbd58d2965|25 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 [[#^s-9ddb29426fd4111dae78cbcb|21]], [[#^s-21c4373445c90b65b759b790|23]], [[#^s-ec5fcdd54d1455d0aac2c137|24]], [[#^s-bef5f1285335723e4e566473|26]], [[#^s-c00e1a6c0aa3bb0e4f7afc97|29]], [[#^s-d461798613d900e6ca08f1f0|30]], [[#^s-8b55c477e0c7e22f5a3f7aef|31]], [[#^s-dc9e9563f53061612e3f78e8|33]], [[#^s-26179c6bfda475218c279c15|34]] straipsnių pakeitimo ir [[#^s-c5707b2d6038f681ef5b9dee|22]], [[#^s-56d617fd3e4468bbd58d2965|25]] straipsnių pripažinimo netekusiais galios įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1553,7 +1553,7 @@ Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo įstatym
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1302, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11307
-Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo [[latest/8e34031049e211e8ade598b2394a491d|įstatymo Nr. XIII-1093]] 1 ir [[#^s-51d7f190a39a42a3bc8b58e4|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 pakeitimo [[latest/8e34031049e211e8ade598b2394a491d|įstatymo Nr. XIII-1093]] [[#^s-3a19d8141775714f0c04624f|1]] ir [[#^s-51d7f190a39a42a3bc8b58e4|2]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1568,12 +1568,12 @@ Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 [[#^s-9afa4bb64c06
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2718, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11241
-Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 8, 33 ir [[#^s-89d12568503b2f31e013409e|37 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 [[#^s-81eeed8ba1ff608081010299|8]], [[#^s-dc9e9563f53061612e3f78e8|33]] ir [[#^s-89d12568503b2f31e013409e|37]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2886, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13495
-Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 5, 7, 18 ir [[#^s-c00e1a6c0aa3bb0e4f7afc97|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokėjimo įstaigų įstatymo Nr. XI-549 [[#^s-83915560da36f60a28d7d42f|5]], [[#^s-09e3bdea11221f7f085c64ea|7]], [[#^s-d9ec96eb25a52d6e3cae1bcd|18]] ir [[#^s-c00e1a6c0aa3bb0e4f7afc97|29]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas

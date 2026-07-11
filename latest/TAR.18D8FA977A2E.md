@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-0b9a42f85fa775210e81d6f7
-DAUGIABUČIŲ NAMŲ SAVININKŲ BENDRIJŲ ĮSTATYMO 2, 3, 4, 7, 13, 14, 15, 16, 18, 19, 20, 21, 23, 24, 26, 27, 28, 29, 31, 32 STRAIPSNIŲ PAKEITIMAS bei PAPILDYMAS ir 5, 6, 8, 9, 10, 17, 33 STRAIPSNIŲ PRIPAŽINIMAS NETEKUSIAIS GALIOS
+[[latest/TAR.0EC89509170B|DAUGIABUČIŲ NAMŲ SAVININKŲ BENDRIJŲ ĮSTATYMO]] [[latest/TAR.0EC89509170B#^s-183c4733ced67889c79c7ef1|2]], [[latest/TAR.0EC89509170B#^s-0dc050e88f828de701d65317|3]], [[latest/TAR.0EC89509170B#^s-d81c0287a0d674505f5e5fb5|4]], [[latest/TAR.0EC89509170B#^s-7bc4e63b8513e0f431127a6b|7]], [[latest/TAR.0EC89509170B#^s-ae0c59ff9cd80d7d53ccf70f|13]], [[latest/TAR.0EC89509170B#^s-32c393b0c8735e0363f3bd4b|14]], [[latest/TAR.0EC89509170B#^s-19a2ceb88b4c7023fec4dd7b|15]], [[latest/TAR.0EC89509170B#^s-d9e8123ca1d859db06937f47|16]], [[latest/TAR.0EC89509170B#^s-8826c5060d864981a8159ffc|18]], [[latest/TAR.0EC89509170B#^s-e9560a141feda7630b48a0e5|19]], [[latest/TAR.0EC89509170B#^s-36ada51ada43d50740480b89|20]], [[latest/TAR.0EC89509170B#^s-b6014ea12489465d74185bcd|21]], [[latest/TAR.0EC89509170B#^s-68e97ead401e947e24ef867f|23]], [[latest/TAR.0EC89509170B#^s-a81c73aa92db25047d169e11|24]], [[latest/TAR.0EC89509170B#^s-a1d35d1516d309fee07724d2|26]], [[latest/TAR.0EC89509170B#^s-dd393098743a8d6d81e94afb|27]], [[latest/TAR.0EC89509170B|28]], [[latest/TAR.0EC89509170B|29]], [[latest/TAR.0EC89509170B|31]], [[latest/TAR.0EC89509170B|32]] STRAIPSNIŲ PAKEITIMAS bei PAPILDYMAS ir [[#^s-230ca308df8ced32c452ed6b|5]], [[#^s-7546262a16180621d0c59c63|6]], [[#^s-b33e4a404e6ce212fd5ac5e5|8]], [[#^s-753b68a31a5ffaf6fd9a09f0|9]], [[#^s-bbe29f7c793dae4605333de3|10]], [[#^s-b231c9aa9336139dd0b66ade|17]], 33 STRAIPSNIŲ PRIPAŽINIMAS NETEKUSIAIS GALIOS
 
 (Žin., 1995, Nr. 20-449; 2000, Nr. 56-1639)
 
@@ -491,7 +491,7 @@ Papildyti 28 straipsnio 1 dalį 7 punktu:
 ### 28 straipsnis. Įstatymo 11, 12, 15 ir 18 straipsnių įsigaliojimas ^s-85c49e1d31ec34db9a1e1c9d
 
 
-Šio Įstatymo 11, 12, 15 ir [[#^s-bccb730112408a2cdbf921c9|18 straipsniai]] įsigalioja nuo juridinių asmenų registro veiklos pradžios.
+Šio Įstatymo [[#^s-d3d5b94ec333d19dce831081|11]], [[#^s-824cfaef66569412f7de9168|12]], [[#^s-c7e135d4d8578f3a3772f66d|15]] ir [[#^s-bccb730112408a2cdbf921c9|18]] straipsniai įsigalioja nuo juridinių asmenų registro veiklos pradžios.
 
 
 

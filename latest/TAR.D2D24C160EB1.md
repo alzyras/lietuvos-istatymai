@@ -443,7 +443,7 @@ Fondo valdymo organai yra steigėjų susirinkimas (konferencija), valdyba, admin
 4. Administracijos vadovą ir vyriausiąjį finansininką (buhalterį) skiria, jų pareiginius atlyginimus nustato ir sudaro su jais darbo sutartis fondo valdyba. Darbo užmokestį administracijos vadovui, kuris yra fondo valdybos narys, nustato steigėjų susirinkimas. Kitus administracijos darbuotojus priima į darbą ir sudaro su jais darbo sutartis administracijos vadovas. ^s-07093db772ac2bc7a4605a4f
 
 
-5. Fondo valdyba Darbo sutarties įstatymo nustatyta tvarka gali nutraukti darbo sutartį su administracijos vadovu, o iki sutarties nutraukimo – apriboti jo įgaliojimus. ^s-f0782d8e8e27f2c7681ee99c
+5. Fondo valdyba [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) nustatyta tvarka gali nutraukti darbo sutartį su administracijos vadovu, o iki sutarties nutraukimo – apriboti jo įgaliojimus. ^s-f0782d8e8e27f2c7681ee99c
 
 
 6. Administracijos vadovas, vadovaudamasis fondo įstatais, valdybos sprendimais, pareigybės nuostatais, turi teisę sudaryti fondo sandorius. Fondo įstatuose gali būti nustatytos veiklos sritys, kuriose savarankiškai veikti ir sudaryti fondo sandorius gali ir kiti įgalioti asmenys. Administracijos vadovas atstovauja fondui teisme, valstybės valdžios ir valdymo institucijose, taip pat bendradarbiaujant su kitais asmenimis. ^s-a88281239151bc73a7d02374

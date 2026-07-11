@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 4 straipsnio pakeitimas ^s-7a6ff59036a6c9ce9243b42b
 
 
-Pakeisti 4 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.9F274C93E483#^s-65775caad078aa880fb07450|4 straipsnio 1 dalies 4 punktą]] ir jį išdėstyti taip:
 
 
 „4) viešųjų želdynų kūrimui, viešųjų želdynų ir želdinių apsaugai, priežiūrai, tvarkymui, būklės stebėsenai, viešųjų želdinių veisimui, privalomai viešųjų želdynų ir želdinių būklės ekspertizei, želdinių ir želdynų, neatsižvelgiant į žemės, kurioje jie yra, nuosavybės formą, inventorizavimui ir apskaitai;“.

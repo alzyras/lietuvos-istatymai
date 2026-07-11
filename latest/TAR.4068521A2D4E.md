@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-a5a1b1357b98476da8e89653
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. liepos 25 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Nicos sutartį dėl tarptautinės prekių ir paslaugų ženklų registravimo klasifikacijos“, ratifikuoja Nicos sutartį dėl tarptautinės prekių ir paslaugų ženklų registravimo klasifikacijos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. liepos 25 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Nicos sutartį dėl tarptautinės prekių ir paslaugų ženklų registravimo klasifikacijos“](https://e-tar.lt/portal/lt/legalAct/TAR.0D64F50B7B2F), ratifikuoja Nicos sutartį dėl tarptautinės prekių ir paslaugų ženklų registravimo klasifikacijos.
 
 
 

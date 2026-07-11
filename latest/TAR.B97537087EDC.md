@@ -68,7 +68,7 @@ Fiziniam asmeniui, šeimynai arba nevyriausybinei globos institucijai, įstatym�
 „9 straipsnis. Lėšos pašalpoms mokėti
 
 
-Pašalpos, nurodytos šio įstatymo 2, 4, 41, 6 ir 8 straipsniuose, mokamos iš savivaldybių biudžetų lėšų. Lėšos, reikalingos 41 straipsnyje nurodytoms pašalpoms mokėti 1997 metų gruodžio mėnesį, iš valstybės biudžeto pervedamos į savivaldybių biudžetus.
+Pašalpos, nurodytos šio įstatymo [[#^s-d894a9b424a1d22273d58f70|2]], [[#^s-636a938a8ebd5a40c4410450|4]], 41, 6 ir 8 straipsniuose, mokamos iš savivaldybių biudžetų lėšų. Lėšos, reikalingos 41 straipsnyje nurodytoms pašalpoms mokėti 1997 metų gruodžio mėnesį, iš valstybės biudžeto pervedamos į savivaldybių biudžetus.
 
 
 Pašalpos, nurodytos šio įstatymo 3 ir 7 straipsniuose, mokamos iš valstybės biudžeto lėšų mokymo įstaigoms skirtų asignavimų.

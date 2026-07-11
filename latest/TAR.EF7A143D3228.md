@@ -275,7 +275,7 @@ Pakeitimai:
 
 1.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-110, 1993-03-25, Lietuvos aidas, 1993, Nr. 60-0 (1993-03-31); Žin., 1993, Nr. 11-267 (1993-04-20), i. k. 0931010ISTA000I-110
+Nr. I-110, 1993-03-25, Lietuvos aidas, 1993, Nr. 60-0 (1993-03-31); Žin., 1993, Nr. 11-267 (1993-04-20), i. k. [0931010ISTA000I-110](https://e-tar.lt/portal/lt/legalAct/TAR.FB64FDB8EA24)
 Dėl apylinkių teismų teisėjų etatų skaičiaus
 
 2.

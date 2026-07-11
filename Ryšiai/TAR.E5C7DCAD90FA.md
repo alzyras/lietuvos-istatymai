@@ -10,7 +10,7 @@ pavadinimas: "Lietuvos Respublikos 2010 metų valstybės biudžeto ir savivaldyb
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.B77E00EAEBEB|Lietuvos Respublikos klimato kaitos valdymo įstatymas]] - Lietuvos Respublikos klimato kaitos valdymo finansinių instrumentų įstatymo
-- [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymas]] - 2 citatos - Lietuvos Respublikos mokslo ir studijų įstatymo
+- [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Lietuvos Respublikos mokslo ir studijų įstatymo
 
 ## Šį įstatymą cituoja
 

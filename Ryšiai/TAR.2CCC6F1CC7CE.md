@@ -19,6 +19,5 @@ pavadinimas: "Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojanči
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F94D4D2E0D8F#^s-1208e6744e782d0f3fc79b1a|Lietuvos Respublikos įmonių rejestro įstatymo, jį keitusių, papildžiusių bei su juo susijusių įstatymų pripažinimo netekusiais galios įstatymas]] - „Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo“
 - [[latest/TAR.F94D4D2E0D8F#^s-48273260c778bb4048a268dd|Lietuvos Respublikos įmonių rejestro įstatymo, jį keitusių, papildžiusių bei su juo susijusių įstatymų pripažinimo netekusiais galios įstatymas]] - „Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo“
-- [[latest/TAR.4A9B29FE9E04#^s-d7c66d25f0e44c96d5b4a766|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 3 citatos - 0931010ISTA000I-300
+- [[latest/TAR.4A9B29FE9E04#^s-d7c66d25f0e44c96d5b4a766|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 2 citatos - 0931010ISTA000I-300

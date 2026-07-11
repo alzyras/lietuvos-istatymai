@@ -117,10 +117,10 @@ Pakeisti 22 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip:
 ### 6 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-6110bd007b5acbbd0d285d46
 
 
-1. Šio įstatymo 1, [[#^s-d74ada67be45a96f07d18f86|5 straipsniai]] ir [[#^s-2fb740b0bb509cd23d21fe35|3 straipsnyje]] išdėstyto [[latest/TAR.C677663D2202#^s-bb4f0df8802a0180862d5907|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 12 straipsnio 2 dalies]] nuostatos įsigalioja 2012 m. rugsėjo 1 d. ^s-5a133d2af1e948be8d6a6292
+1. Šio įstatymo [[#^s-07463b4d420fe7db0c913ba9|1]], [[#^s-d74ada67be45a96f07d18f86|5]] straipsniai ir [[#^s-2fb740b0bb509cd23d21fe35|3 straipsnyje]] išdėstyto [[latest/TAR.C677663D2202#^s-bb4f0df8802a0180862d5907|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 12 straipsnio 2 dalies]] nuostatos įsigalioja 2012 m. rugsėjo 1 d. ^s-5a133d2af1e948be8d6a6292
 
 
-2. Šio įstatymo 2, [[#^s-0d4861ce03ed9245dfb20b72|4 straipsnių]] ir [[#^s-2fb740b0bb509cd23d21fe35|3 straipsnyje]] išdėstyto [[latest/TAR.C677663D2202#^s-cdcae182bd53e59f504d55bd|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 12 straipsnio 1 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių metų mokestinių laikotarpių pajamas. ^s-f01e43ab6c35226bfc3bbe17
+2. Šio įstatymo [[#^s-3cda03790af4b38ae9dc74d8|2]], [[#^s-0d4861ce03ed9245dfb20b72|4]] straipsnių ir [[#^s-2fb740b0bb509cd23d21fe35|3 straipsnyje]] išdėstyto [[latest/TAR.C677663D2202#^s-cdcae182bd53e59f504d55bd|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 12 straipsnio 1 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių metų mokestinių laikotarpių pajamas. ^s-f01e43ab6c35226bfc3bbe17
 
 
 

@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio papildymas ir pakeitimas ^s-73346a67fb35d44390b1297f
 
 
-Papildyti 1 straipsnį naujais 10 ir [[#^s-941399470fe24e0da070fef5|23 punktais]], buvusius 10–[[#^s-7522011363485573c07bab22|36 punktus]] laikyti atitinkamai 11–[[#^s-93808ae8243f51a885804582|38 punktais]]; [[#^s-a203447504102c2da4669ee9|13 punkte]] po žodžių „gegužės 15-oji“ įrašyti žodžius „Steigiamojo Seimo susirinkimo diena“, [[#^s-0015588733cc6f257786de75|24 punkte]] po žodžių „Juodojo kaspino“ įrašyti žodžius „ir Baltijos kelio“, [[#^s-7522011363485573c07bab22|36 punkte]] vietoj žodžio „karių“ įrašyti žodį „kariuomenės“ ir visą straipsnį išdėstyti taip:
+Papildyti 1 straipsnį naujais [[#^s-ef913d3edd190fbe7e796e68|10]] ir [[#^s-941399470fe24e0da070fef5|23]] punktais, buvusius [[#^s-ef913d3edd190fbe7e796e68|10]]–[[#^s-7522011363485573c07bab22|36]] punktus laikyti atitinkamai [[#^s-d5d155a31f690c279f2a23e3|11]]–[[#^s-93808ae8243f51a885804582|38]] punktais; [[#^s-a203447504102c2da4669ee9|13 punkte]] po žodžių „gegužės 15-oji“ įrašyti žodžius „Steigiamojo Seimo susirinkimo diena“, [[#^s-0015588733cc6f257786de75|24 punkte]] po žodžių „Juodojo kaspino“ įrašyti žodžius „ir Baltijos kelio“, [[#^s-7522011363485573c07bab22|36 punkte]] vietoj žodžio „karių“ įrašyti žodį „kariuomenės“ ir visą straipsnį išdėstyti taip:
 
 
 „1 straipsnis. Atmintinos dienos

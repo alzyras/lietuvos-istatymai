@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-7fd1fbeef34b854c77147894
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 ir 6 punktais ir atsižvelgdamas į Respublikos Prezidento 2009 m. sausio 13 d. dekretą Nr. 1K-1672, ratifikuoja 2008 m. birželio 16 d. Liuksemburge pasirašytą Europos Bendrijų bei jų valstybių narių ir Bosnijos ir Hercegovinos stabilizacijos ir asociacijos susitarimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 ir 6 punktais ir atsižvelgdamas į Respublikos Prezidento [2009 m. sausio 13 d. dekretą Nr. 1K-1672](https://e-tar.lt/portal/lt/legalAct/TAR.D912C58490EA), ratifikuoja 2008 m. birželio 16 d. Liuksemburge pasirašytą Europos Bendrijų bei jų valstybių narių ir Bosnijos ir Hercegovinos stabilizacijos ir asociacijos susitarimą.
 
 
 

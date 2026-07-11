@@ -92,7 +92,7 @@ Papildyti Įstatymą 33 straipsniu:
 2) [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka tikrina draudėjų ir apdraustųjų valstybinio socialinio draudimo įmokų apskaičiavimą, taip pat tikrina šių įmokų sumokėjimą, kiek tai susiję su tikrinamais draudėjais ir apdraustaisiais; ^s-c775e5335ec67a95c06de0dd
 
 
-3) atstovauja valstybės ir Valstybinio socialinio draudimo fondo interesams įmonėse, viešosiose įstaigose, kurioms iškeltos bankroto ar restruktūrizavimo bylos pagal Įmonių bankroto įstatymo ir Įmonių restruktūrizavimo įstatymo suteiktas kreditoriaus teises Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir Valstybinio socialinio draudimo fondo valdybos abipusio susitarimo pagrindu; ^s-27b6aed2c5ab8dae0f797f7c
+3) atstovauja valstybės ir Valstybinio socialinio draudimo fondo interesams įmonėse, viešosiose įstaigose, kurioms iškeltos bankroto ar restruktūrizavimo bylos pagal Įmonių bankroto įstatymo ir [Įmonių restruktūrizavimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.C69847B389DF) suteiktas kreditoriaus teises Valstybinės mokesčių inspekcijos prie Finansų ministerijos ir Valstybinio socialinio draudimo fondo valdybos abipusio susitarimo pagrindu; ^s-27b6aed2c5ab8dae0f797f7c
 
 
 4) nagrinėja mokestinius ginčus dėl Valstybinės mokesčių inspekcijos pareigūnų patikrinimo metu apskaičiuotų valstybinio socialinio draudimo įmokų sumų, paskirtų baudų, apskaičiuotų delspinigių [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka. ^s-d37da5f5027ca501df6222b8
@@ -113,7 +113,7 @@ Papildyti Įstatymą 33 straipsniu:
 4) Vyriausybės nustatyta tvarka atideda draudėjui apskaičiuotų delspinigių ir baudų sumokėjimo terminą arba atleidžia nuo jų mokėjimo. ^s-0485d60dd2e65f50f0d3ad55
 
 
-3. Valstybinio socialinio draudimo fondo valdyba kartu su Valstybine mokesčių inspekcija pagal šio straipsnio 1 ir [[#^s-818713a1b24e9fb39cce0022|2 dalyse]] nustatytą kompetenciją kontroliuoja valstybinio socialinio draudimo įmokų apskaičiavimą ir sumokėjimą. Šių įmokų apskaičiavimo ir sumokėjimo kontrolės srityje bendradarbiavimo tvarką nustato Valstybinė mokesčių inspekcija prie Finansų ministerijos kartu su Valstybinio socialinio draudimo fondo valdyba. ^s-cb1fe5093c8650f26f7be322
+3. Valstybinio socialinio draudimo fondo valdyba kartu su Valstybine mokesčių inspekcija pagal šio straipsnio [[#^s-ac14e54a178bff1b59675c65|1]] ir [[#^s-818713a1b24e9fb39cce0022|2]] dalyse nustatytą kompetenciją kontroliuoja valstybinio socialinio draudimo įmokų apskaičiavimą ir sumokėjimą. Šių įmokų apskaičiavimo ir sumokėjimo kontrolės srityje bendradarbiavimo tvarką nustato Valstybinė mokesčių inspekcija prie Finansų ministerijos kartu su Valstybinio socialinio draudimo fondo valdyba. ^s-cb1fe5093c8650f26f7be322
 
 
 4. Valstybinė mokesčių inspekcija prie Finansų ministerijos ir teritorinės valstybinės mokesčių inspekcijos bei Valstybinio socialinio draudimo fondo valdyba ir jos teritoriniai skyriai keičiasi informacija, reikalinga valstybinio socialinio draudimo įmokoms administruoti. Keitimosi informacija tvarką nustato Valstybinio socialinio draudimo fondo valdyba, suderinusi su Valstybine mokesčių inspekcija prie Finansų ministerijos.“ ^s-4428219579125a62e40bb187
@@ -325,10 +325,10 @@ Pakeisti 46 straipsnį ir jį išdėstyti taip:
 3. Įsigaliojus šiam Įstatymui, netenka galios: ^s-fcf21ccfa6a030a83f70b26d
 
 
-1) Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 1, 2, 34, 36, 371, 38, 42, 43, 44, 45, 46 straipsnių pakeitimo ir papildymo įstatymas (Žin., 2002, Nr. 52-1983); ^s-481e5fa3c39d73bedbc127c2
+1) [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo]] [[latest/TAR.0F9036415DBD#^s-7be326410c2586caed25a32b|1]], [[latest/TAR.0F9036415DBD#^s-a83a96f2c222ff3ddd13c44a|2]], [[latest/TAR.0F9036415DBD#^s-d5f5d83bbcdad93c865f6044|34]], [[latest/TAR.0F9036415DBD#^s-c92d2f82b467bec055d95f3a|36]], [[latest/TAR.0F9036415DBD|371]], [[latest/TAR.0F9036415DBD#^s-39037f8cd04cb242a308b4b8|38]], [[latest/TAR.0F9036415DBD|42]], [[latest/TAR.0F9036415DBD|43]], [[latest/TAR.0F9036415DBD|44]], [[latest/TAR.0F9036415DBD|45]], [[latest/TAR.0F9036415DBD|46]] straipsnių pakeitimo ir papildymo įstatymas (Žin., 2002, Nr. 52-1983); ^s-481e5fa3c39d73bedbc127c2
 
 
-2) Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 1, 2, 34, 36, 371, 38, 42, 43, 44, 45, 46 straipsnių pakeitimo ir papildymo įstatymo 11, 12, 13 straipsnių pakeitimo ir papildymo įstatymas (Žin., 2002, Nr. 123-5521). ^s-08eca42258e848c37054eaf9
+2) [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo]] [[latest/TAR.0F9036415DBD#^s-7be326410c2586caed25a32b|1]], [[latest/TAR.0F9036415DBD#^s-a83a96f2c222ff3ddd13c44a|2]], [[latest/TAR.0F9036415DBD#^s-d5f5d83bbcdad93c865f6044|34]], [[latest/TAR.0F9036415DBD#^s-c92d2f82b467bec055d95f3a|36]], [[latest/TAR.0F9036415DBD|371]], [[latest/TAR.0F9036415DBD#^s-39037f8cd04cb242a308b4b8|38]], [[latest/TAR.0F9036415DBD|42]], [[latest/TAR.0F9036415DBD|43]], [[latest/TAR.0F9036415DBD|44]], [[latest/TAR.0F9036415DBD|45]], [[latest/TAR.0F9036415DBD|46]] straipsnių pakeitimo ir papildymo įstatymo [[#^s-5bbc412a294d82f747b3ac20|11]], 12, 13 straipsnių pakeitimo ir papildymo įstatymas (Žin., 2002, Nr. 123-5521). ^s-08eca42258e848c37054eaf9
 
 
 

@@ -564,7 +564,7 @@ Pakeisti ir papildyti 61 straipsnį ir jį išdėstyti taip:
 5) atlieka mokyklos steigėjo priskirtas funkcijas, įtvirtintas mokyklos nuostatuose ir pareigybės aprašyme. ^s-1ccbad407ac06466f872ff9c
 
 
-5. Aukštosios mokyklos vadovo įgaliojimus ir atsakomybę nustato Aukštojo mokslo įstatymas.“ ^s-f57a4df75b36b74cdee5b649
+5. Aukštosios mokyklos vadovo įgaliojimus ir atsakomybę nustato [Aukštojo mokslo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F).“ ^s-f57a4df75b36b74cdee5b649
 
 
 
@@ -633,7 +633,7 @@ Pakeisti ir papildyti 61 straipsnį ir jį išdėstyti taip:
 „3. Valstybinių (išskyrus aukštųjų) ir savivaldybių mokyklų vadovų, jų pavaduotojų ugdymui, ugdymą organizuojančių skyrių vedėjų, mokytojų, pagalbos mokiniui specialistų ir kitų ugdymo procese dalyvaujančių darbuotojų darbo apmokėjimo tvarką nustato Vyriausybė.“
 
 
-5. Buvusias 70 straipsnio 3 ir [[#^s-a6146ce2b2df89cc24c17583|4 dalis]] laikyti atitinkamai 4 ir [[#^s-f94f8da3ce12912148597475|5 dalimis]]. ^s-f94f8da3ce12912148597475
+5. Buvusias 70 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-f94f8da3ce12912148597475
 
 
 6. 70 straipsnio 4 dalyje vietoj žodžių „pareiginės algos dydis“ įrašyti žodžius „darbo užmokestis“, išbraukti žodį „darbo“ ir šią dalį išdėstyti taip: ^s-4b0deb149b14e1d731c12547
@@ -684,10 +684,10 @@ Pakeisti ir papildyti 61 straipsnį ir jį išdėstyti taip:
 2. Mokytojas, baigęs aukštosios mokyklos tris kursus arba mokytojų institutą, arba studijuojantis aukštojoje mokykloje, [[#^s-c1b36d59f054892cae98bae3|šio straipsnio 1 dalyje]] nurodytą išsilavinimą ir pedagogo kvalifikaciją privalo įgyti iki 2007 m. rugsėjo 1 d. ^s-bad9170b0b51fb42f66db258
 
 
-3. Mokytojas, iki 2007 m. rugsėjo 1 d. neįvykdęs šio straipsnio 1 ir [[#^s-bad9170b0b51fb42f66db258|2 dalyse]] nustatytų reikalavimų, atleidžiamas [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] nustatyta tvarka. ^s-824d6e08635470667bce433b
+3. Mokytojas, iki 2007 m. rugsėjo 1 d. neįvykdęs šio straipsnio [[#^s-c1b36d59f054892cae98bae3|1]] ir [[#^s-bad9170b0b51fb42f66db258|2]] dalyse nustatytų reikalavimų, atleidžiamas [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] nustatyta tvarka. ^s-824d6e08635470667bce433b
 
 
-4. Šio straipsnio 1–[[#^s-824d6e08635470667bce433b|3 dalių]] reikalavimai netaikomi mokytojams, kuriems 2007 m. rugsėjo 1 d. iki senatvės pensijos amžiaus bus likę ne daugiau kaip 5 metai. ^s-eb03debc8f7cb832766ad6ec
+4. Šio straipsnio [[#^s-c1b36d59f054892cae98bae3|1]]–[[#^s-824d6e08635470667bce433b|3]] dalių reikalavimai netaikomi mokytojams, kuriems 2007 m. rugsėjo 1 d. iki senatvės pensijos amžiaus bus likę ne daugiau kaip 5 metai. ^s-eb03debc8f7cb832766ad6ec
 
 
 5. Su valstybinių (išskyrus aukštųjų) ir savivaldybių mokyklų vadovais sudarytos terminuotos darbo sutartys, jeigu terminas nustatytas dėl mokyklos vadovo kadencijos, mokyklos vadovui raštiškai sutikus, nuo 2004 m. liepos 1 d. tampa neterminuotos. ^s-5d7a6f81396bc8cd17c6a9e8

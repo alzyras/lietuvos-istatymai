@@ -169,7 +169,7 @@ Nuo karo prievolės atleidžiami:
 
 
 7) valstybės pripažintų tradicinių Lietuvos religinių bendruomenių ir bendrijų dvasininkai. ^s-47494f62734b6825462a080b
-TAR pastaba. Pripažinti, kad [[latest/TAR.E9CE9C91C255|Lietuvos Respublikos karo prievolės įstatymo]] (2011 m. birželio 23 d. redakcija; Žin., 2011, Nr. 86-4150) [[#^s-47494f62734b6825462a080b|3 straipsnio 7 punktas]] prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-a1ff14f0838bf8dcb0ed0f14|29 straipsniui]], 139 straipsnio 2 daliai.
+TAR pastaba. Pripažinti, kad [[latest/TAR.E9CE9C91C255|Lietuvos Respublikos karo prievolės įstatymo]] (2011 m. birželio 23 d. redakcija; Žin., 2011, Nr. 86-4150) 3 straipsnio 7 punktas prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-a1ff14f0838bf8dcb0ed0f14|29 straipsniui]], 139 straipsnio 2 daliai.
 Straipsnio punkto pakeitimai:
 Nr. KT9-N7/2017, 2017-07-04, paskelbta TAR 2017-07-04, i. k. 2017-11471
 
@@ -278,7 +278,7 @@ PRIVALOMOSIOS PRADINĖS KARO TARNYBOS ATLIKIMO TVARKA IR SĄLYGOS
 2) pripažįstamas netinkamas nuolatinei privalomajai pradinei karo tarnybai dėl sveikatos būklės. ^s-8e30bb5c7a7674020c1ca91a
 
 
-3. Nuolatinę privalomąją pradinę karo tarnybą atliekantis karys jo prašymu paleidžiamas iš tarnybos pirma šio įstatymo [[#^s-9f5ab1ea83cc18fd7fef638b|5 straipsnio 3 dalyje]] nustatyto laiko, kai atsiranda šio įstatymo [[#^s-b86c063a8b2629d8249faf8d|15 straipsnio 1 dalies]] 11–14 punktuose nustatytos aplinkybės. Tokiu atveju, atsižvelgiant į tai, ar karys atliktos nuolatinės privalomosios pradinės karo tarnybos metu įgijo pagrindinį karinį parengtumą, ar neįgijo, jis priskiriamas parengtajam arba neparengtajam kariuomenės personalo rezervui. ^s-c77842696cdc82d8c15e353f
+3. Nuolatinę privalomąją pradinę karo tarnybą atliekantis karys jo prašymu paleidžiamas iš tarnybos pirma šio įstatymo [[#^s-9f5ab1ea83cc18fd7fef638b|5 straipsnio 3 dalyje]] nustatyto laiko, kai atsiranda šio įstatymo [[#^s-b86c063a8b2629d8249faf8d|15 straipsnio 1 dalies]] [[#^s-86e0421d57b913411e08ce3b|11]]–[[#^s-2052128737a11bb0a88d1325|14]] punktuose nustatytos aplinkybės. Tokiu atveju, atsižvelgiant į tai, ar karys atliktos nuolatinės privalomosios pradinės karo tarnybos metu įgijo pagrindinį karinį parengtumą, ar neįgijo, jis priskiriamas parengtajam arba neparengtajam kariuomenės personalo rezervui. ^s-c77842696cdc82d8c15e353f
 
 
 4. Nuolatinę privalomąją pradinę karo tarnybą atliekantis karys paleidžiamas iš tarnybos pirma šio įstatymo [[#^s-9f5ab1ea83cc18fd7fef638b|5 straipsnio 3 dalyje]] nustatyto laiko, kai įsiteisėja teismo nuosprendis, kuriuo jis nuteisiamas už nusikaltimą ir jam skiriama bausmė, dėl kurios jis negali tęsti tarnybos. Tokiu atveju, atsižvelgiant į tai, ar karys atliktos nuolatinės privalomosios pradinės karo tarnybos metu įgijo pagrindinį karinį parengtumą, ar neįgijo, jis priskiriamas parengtajam arba neparengtajam kariuomenės personalo rezervui. ^s-c4b79cc64c406a87a48b62d6
@@ -353,7 +353,7 @@ PRIVALOMOSIOS PRADINĖS KARO TARNYBOS ATLIKIMO TVARKA IR SĄLYGOS
 3) įsiteisėja teismo nuosprendis, kuriuo jis nuteisiamas už nusikaltimą ir jam skiriama bausmė, dėl kurios jis negali tęsti bazinių karinių mokymų; ^s-0eebf3afd461ac2aaf1916b6
 
 
-4) kario prašymu, kai atsiranda šio įstatymo [[#^s-b86c063a8b2629d8249faf8d|15 straipsnio 1 dalies]] 11–14 punktuose nustatytos aplinkybės. ^s-9d306c5100624169fc1ca1ea
+4) kario prašymu, kai atsiranda šio įstatymo [[#^s-b86c063a8b2629d8249faf8d|15 straipsnio 1 dalies]] [[#^s-86e0421d57b913411e08ce3b|11]]–[[#^s-2052128737a11bb0a88d1325|14]] punktuose nustatytos aplinkybės. ^s-9d306c5100624169fc1ca1ea
 
 
 3. Paleidimo iš bazinių karinių mokymų tvarką nustato krašto apsaugos ministras. ^s-5d5b02ec3ed2d12ebfb6b96c
@@ -419,7 +419,7 @@ PRIVALOMOSIOS PRADINĖS KARO TARNYBOS ATLIKIMO TVARKA IR SĄLYGOS
 3) įsiteisėja teismo nuosprendis, kuriuo jis nuteisiamas už nusikaltimą ir jam skiriama bausmė, dėl kurios jis negali tęsti jaunesniųjų karininkų vadų mokymų; ^s-a15e65d7d8c168a86371f639
 
 
-4) kario prašymu, kai atsiranda šio įstatymo [[#^s-b86c063a8b2629d8249faf8d|15 straipsnio 1 dalies]] 11–14 punktuose nustatytos aplinkybės. ^s-b4e0625dd2213b348315a74f
+4) kario prašymu, kai atsiranda šio įstatymo [[#^s-b86c063a8b2629d8249faf8d|15 straipsnio 1 dalies]] [[#^s-86e0421d57b913411e08ce3b|11]]–[[#^s-2052128737a11bb0a88d1325|14]] punktuose nustatytos aplinkybės. ^s-b4e0625dd2213b348315a74f
 
 
 3. Paleidimo iš jaunesniųjų karininkų vadų mokymų tvarką nustato krašto apsaugos ministras. ^s-baee0d9660adcb74e48ec090
@@ -541,7 +541,7 @@ ALTERNATYVIOJI KRAŠTO APSAUGOS TARNYBA
 2. Karo prievolininkų prašymus dėl alternatyviosios krašto apsaugos tarnybos atlikimo nagrinėja ir rekomendacijas dėl prašymų pagrįstumo teikia specialioji komisija, sudaryta iš asociacijų, tradicinių religinių bendruomenių ir religinių bendrijų, aukštųjų mokyklų atstovų. Šios komisijos narių skaičių, jos sudarymo ir darbo tvarką nustato Vyriausybė ar jos įgaliota institucija. Atsižvelgdama į specialiosios komisijos rekomendacijas, karo prievolę administruojanti krašto apsaugos sistemos institucija priima sprendimą prašymą atlikti alternatyviąją krašto apsaugos tarnybą pripažinti pagrįstu arba nepagrįstu. ^s-550c5c107efb4e841e3b9e2f
 
 
-3. Karo prievolininkas yra skiriamas atlikti alternatyviąją krašto apsaugos tarnybą, jeigu jis yra atrenkamas į nuolatinę privalomąją pradinę karo tarnybą ar į bazinius kariniuos mokymus, šio įstatymo 6 ar [[#^s-8a52721a1414e59efa95c38c|9 straipsnyje]] nustatyta tvarka patikrinus jo sveikatą nustatoma, kad jis tinkamas atlikti nuolatinę privalomąją pradinę karo tarnybą ar dalyvauti baziniuose kariniuose mokymuose, jo prašymas atlikti šią tarnybą yra pripažįstamas pagrįstu [[#^s-550c5c107efb4e841e3b9e2f|šio straipsnio 2 dalyje]] nurodytos komisijos. ^s-b91afae107b9a0273d22411c
+3. Karo prievolininkas yra skiriamas atlikti alternatyviąją krašto apsaugos tarnybą, jeigu jis yra atrenkamas į nuolatinę privalomąją pradinę karo tarnybą ar į bazinius kariniuos mokymus, šio įstatymo [[#^s-ad3393cdfdf12491a06a9c15|6]] ar [[#^s-8a52721a1414e59efa95c38c|9]] straipsnyje nustatyta tvarka patikrinus jo sveikatą nustatoma, kad jis tinkamas atlikti nuolatinę privalomąją pradinę karo tarnybą ar dalyvauti baziniuose kariniuose mokymuose, jo prašymas atlikti šią tarnybą yra pripažįstamas pagrįstu [[#^s-550c5c107efb4e841e3b9e2f|šio straipsnio 2 dalyje]] nurodytos komisijos. ^s-b91afae107b9a0273d22411c
 
 
 4. Iki paskyrimo atlikti alternatyviąją krašto apsaugos tarnybą karo prievolininkas gali bet kuriuo metu atšaukti prašymą atlikti šią tarnybą. Tokiu atveju jis skiriamas atlikti nuolatinę privalomąją pradinę karo tarnybą šio įstatymo [[#^s-ad3393cdfdf12491a06a9c15|6 straipsnyje]] nustatyta tvarka arba dalyvauti baziniuose kariniuose mokymuose šio įstatymo [[#^s-8a52721a1414e59efa95c38c|9 straipsnyje]] nustatyta tvarka. ^s-2c2a4704fce109bacff89f72
@@ -573,7 +573,7 @@ ALTERNATYVIOJI KRAŠTO APSAUGOS TARNYBA
 1. Iš alternatyviosios krašto apsaugos tarnybos karo prievolininkas paleidžiamas, kai: ^s-ec5019c6b56da991ec5e486f
 
 
-1) jis atlieka šio įstatymo [[#^s-d0d62fd0555b54a547495dfd|16 straipsnio]] 2 ar 3 dalyje nustatytos trukmės alternatyviąją krašto apsaugos tarnybą; ^s-1181177efec4b8dd9644b882
+1) jis atlieka šio įstatymo [[#^s-d0d62fd0555b54a547495dfd|16 straipsnio]] [[#^s-8a0992f0f3075e87cd02c541|2]] ar [[#^s-c6c6d2e95acc5b34bd873459|3]] dalyje nustatytos trukmės alternatyviąją krašto apsaugos tarnybą; ^s-1181177efec4b8dd9644b882
 
 
 2) jis netenka Lietuvos Respublikos pilietybės; ^s-c3b8af51bec54746b28b55b4
@@ -607,7 +607,7 @@ ALTERNATYVIOJI KRAŠTO APSAUGOS TARNYBA
 1) šio įstatymo [[#^s-a1ff14f0838bf8dcb0ed0f14|29 straipsnio]] 1–7 punktuose nurodytiems karo prievolininkams; ^s-17cd7ab8de63821ab4165a52
 
 
-2) šio įstatymo [[#^s-404095d5b60a714d2890de1b|29 straipsnio 8 punkte]] nurodytiems karo prievolininkams, iki baigsis laikinas jų sveikatos sutrikimas. ^s-83247ab6b11952eb91f6c639
+2) šio įstatymo 29 straipsnio 8 punkte nurodytiems karo prievolininkams, iki baigsis laikinas jų sveikatos sutrikimas. ^s-83247ab6b11952eb91f6c639
 
 
 
@@ -663,7 +663,7 @@ TARNYBA REZERVE
 2. Parengtojo rezervo kario atliekamos tarnybos rezerve trukmė – nuo paskyrimo į pareigas parengtojo rezervo kariniame vienete iki atleidimo iš pareigų dienos. ^s-d4a670bac8755e2c465eb831
 
 
-3. Į parengtojo rezervo karinius vienetus paskirti karo prievolininkai dalyvauja to vieneto pratybose ar mokymuose nuo 20 iki 30 dienų per penkerius metus ir vykdo [[latest/TAR.15C705E93776#^s-36d8ac0f08c2e0e9ded1c128|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies]] 1 ir 2 punktuose nustatytas užduotis. Pratybų ar mokymų trukmę, periodiškumą ir programas nustato Lietuvos kariuomenės vadas. ^s-cca2a1f35a83f8e0c2bd3e73
+3. Į parengtojo rezervo karinius vienetus paskirti karo prievolininkai dalyvauja to vieneto pratybose ar mokymuose nuo 20 iki 30 dienų per penkerius metus ir vykdo [[latest/TAR.15C705E93776#^s-36d8ac0f08c2e0e9ded1c128|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies]] [[latest/TAR.15C705E93776#^s-96b8895a3bf793ee23ffeb02|1]] ir [[latest/TAR.15C705E93776#^s-eb7f3891fe694bca930f18da|2]] punktuose nustatytas užduotis. Pratybų ar mokymų trukmę, periodiškumą ir programas nustato Lietuvos kariuomenės vadas. ^s-cca2a1f35a83f8e0c2bd3e73
 
 
 4. Tarnyba rezerve tarnaujant parengtojo rezervo kariniuose vienetuose atliekama Krašto apsaugos sistemos ir karo tarnybos įstatymo nustatytomis sąlygomis ir tvarka. ^s-513af52a0f6ed5389c3cfe94
@@ -713,7 +713,7 @@ TARNYBA REZERVE
 25 straipsnis Tarnybos rezerve atidėjimas
 
 
-1. Atliekant atranką į pareigas parengtojo rezervo kariniuose vienetuose, tarnyba rezerve atidedama šio įstatymo [[#^s-b86c063a8b2629d8249faf8d|15 straipsnio 1 dalies]] 3–14 punktuose nurodytiems karo prievolininkams. ^s-1205f47fec1bc31f93c0d30c
+1. Atliekant atranką į pareigas parengtojo rezervo kariniuose vienetuose, tarnyba rezerve atidedama šio įstatymo [[#^s-b86c063a8b2629d8249faf8d|15 straipsnio 1 dalies]] [[#^s-38f73f05b71b2882b2894c1b|3]]–[[#^s-2052128737a11bb0a88d1325|14]] punktuose nurodytiems karo prievolininkams. ^s-1205f47fec1bc31f93c0d30c
 
 
 2. Atliekant atranką į pareigas kariniuose vienetuose, parengtojo rezervo kariniuose vienetuose, krašto apsaugos savanorių pajėgose ar kituose aktyviojo rezervo kariniuose vienetuose, tarnyba rezerve atidedama karo prievolininkams, kurie dėl sveikatos būklės laikinai yra netinkami atlikti tarnybą rezerve, iki baigsis laikinas jų sveikatos sutrikimas. ^s-21065cd8488b82c02c07b14e
@@ -984,7 +984,7 @@ Vyriausybės nustatyta tvarka karo prievolininkų sveikatą tikrina krašto apsa
 3) pagal karo prievolę administruojančios krašto apsaugos sistemos institucijos nurodymą laiku atvykti į paskirtą privalomosios karo tarnybos atlikimo vietą ir prisistatyti atitinkamos krašto apsaugos sistemos institucijos (jos padalinio) vadui (viršininkui); ^s-0432fe7c4faa35f5430fe7af
 
 
-4) neįvykdę šios dalies 2 ar [[#^s-0432fe7c4faa35f5430fe7af|3 punkte]] nurodytos pareigos, karo prievolę administruojančios krašto apsaugos sistemos institucijos prašymu pateikti [[#^s-8ffd55147c449575db7048e2|šio straipsnio 3 dalyje]] nurodytų aplinkybių įrodymus; ^s-6aa054a547e29f9368cf384b
+4) neįvykdę šios dalies [[#^s-1d1661d5627643ef80295908|2]] ar [[#^s-0432fe7c4faa35f5430fe7af|3]] punkte nurodytos pareigos, karo prievolę administruojančios krašto apsaugos sistemos institucijos prašymu pateikti [[#^s-8ffd55147c449575db7048e2|šio straipsnio 3 dalyje]] nurodytų aplinkybių įrodymus; ^s-6aa054a547e29f9368cf384b
 
 
 5) sukakę 18 metų ir per 3 mėnesius negavę pranešimo apie įrašymą į karinę įskaitą, kreiptis į karo prievolę administruojančią krašto apsaugos sistemos instituciją; ^s-f2966c1d6c4cbcbfaa3dd890
@@ -996,7 +996,7 @@ Vyriausybės nustatyta tvarka karo prievolininkų sveikatą tikrina krašto apsa
 2. Karo prievolininkai [[#^s-680f2010281e397a9caf11af|šio straipsnio 1 dalies]] 1 ir 4 punktuose nurodytą informaciją karo prievolę administruojančiai krašto apsaugos sistemos institucijai gali pateikti per atstumą, elektroninėmis priemonėmis per kontaktinį centrą, o kai tai neįmanoma, – raštu. ^s-818f7d226468c087c89fad8a
 
 
-3. [[#^s-680f2010281e397a9caf11af|Šio straipsnio 1 dalies]] 2 ir [[#^s-3ca453c25216d34df2b277a0|3 punktuose]] nurodytų karo prievolininkų pareigų neįvykdymą laiku pateisinančios priežastys yra šios: ^s-8ffd55147c449575db7048e2
+3. [[#^s-680f2010281e397a9caf11af|Šio straipsnio 1 dalies]] [[#^s-c100f7ace82e94317099e9cf|2]] ir [[#^s-3ca453c25216d34df2b277a0|3]] punktuose nurodytų karo prievolininkų pareigų neįvykdymą laiku pateisinančios priežastys yra šios: ^s-8ffd55147c449575db7048e2
 
 
 1) karo prievolę administruojančiai krašto apsaugos sistemos institucijai adresuota sveikatos apsaugos ministro nustatytos formos pažyma patvirtinta liga, dėl kurios asmuo negali atvykti; ^s-875beb4cd3ae8255a5ec0c05
@@ -1135,13 +1135,13 @@ Asmenys, pažeidę šį įstatymą, atsako Lietuvos Respublikos įstatymų nusta
 3. Įgijusiais pagrindinį karinį parengtumą laikomi tie karo prievolininkai, kurie iki šio įstatymo įsigaliojimo atliko privalomąją pradinę karo tarnyba arba laikomi ją atlikę. ^s-854fa222465fe1b0fa8ed772
 
 
-4. Karo prievolininkai, kurie iki šio įstatymo įsigaliojimo pradėjo ir nebaigė privalomosios pradinės karo tarnybos ar kitos ją pakeičiančios tarnybos, įsigaliojus šiam įstatymui, tęsia tarnybą, iki įgis šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės įstatymo 2 straipsnio 15 dalyje nustatytą pagrindinį karinį parengtumą. ^s-37c788b552fc288d32d2556b
+4. Karo prievolininkai, kurie iki šio įstatymo įsigaliojimo pradėjo ir nebaigė privalomosios pradinės karo tarnybos ar kitos ją pakeičiančios tarnybos, įsigaliojus šiam įstatymui, tęsia tarnybą, iki įgis šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.E9CE9C91C255|Lietuvos Respublikos karo prievolės įstatymo 2 straipsnio 15 dalyje]] nustatytą pagrindinį karinį parengtumą. ^s-37c788b552fc288d32d2556b
 
 
 5. Karo prievolininkams, baigusiems aukštąsias mokyklas iki šio įstatymo įsigaliojimo, netaikoma šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.E9CE9C91C255#^s-7676be25c6980b8ca5af2d02|Lietuvos Respublikos karo prievolės įstatymo 5 straipsnio 2 dalies]] ir [[#^s-9fdcb9f2a93e877a7bf13dff|8 straipsnio 2 dalies]] nuostatos, nustatančios, kad į nuolatinę privalomąją karo tarnybą ar bazinius karinius mokymus šaukiami aukštųjų mokyklų absolventai iki 38 metų įskaitytinai. ^s-12648e2e0cdc3158777080e3
 
 
-6. Lengvatos, nustatytos šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio 1 dalyje, taikomos karo prievolininkams, baigusiems privalomąją pradinę karo tarnybą po šio įstatymo įsigaliojimo. ^s-728813efe95fa3bd8709b360
+6. Lengvatos, nustatytos šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.E9CE9C91C255|Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio 1 dalyje]], taikomos karo prievolininkams, baigusiems privalomąją pradinę karo tarnybą po šio įstatymo įsigaliojimo. ^s-728813efe95fa3bd8709b360
 
 
 
@@ -1168,4 +1168,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT9-N7/2017, 2017-07-04, paskelbta TAR 2017-07-04, i. k. 2017-11471
-Dėl [[latest/TAR.E9CE9C91C255|Lietuvos Respublikos karo prievolės įstatymo]] nuostatos atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos karo prievolės įstatymo nuostatos atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/1b24c4e060ae11e79198ffdb108a3753)

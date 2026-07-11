@@ -333,7 +333,7 @@ Vyriausybė:
 
 
 11) apibendrina ir teikia regiono plėtros tarybai svarstyti valstybės ir savivaldybių institucijų ir įstaigų pasiūlymus dėl projektų įtraukimo į regiono plėtros tarybos Lietuvos Respublikos vidaus reikalų ministro nustatyta tvarka sudaromus ir tvirtinamus siūlomų finansuoti projektų sąrašus; ^s-5348c3e4378c4307dd3e42d0
-TAR pastaba. [[#^s-5348c3e4378c4307dd3e42d0|10 straipsnio 1 dalies 11 punktas]] galioja iki 2023 m. gruodžio 31 d.
+TAR pastaba. 10 straipsnio 1 dalies 11 punktas galioja iki 2023 m. gruodžio 31 d.
 
 
 12) atlieka kitas šiame ir kituose įstatymuose, Lietuvos Respublikos Seimo ir Vyriausybės nutarimuose nustatytas funkcijas, susijusias su nacionalinės regioninės politikos formavimu, įgyvendinimo organizavimu, koordinavimu ir kontrole. ^s-f20cd83b8d6ac9a4c7193ce9
@@ -701,7 +701,7 @@ Regiono plėtros tarybos organas yra visuotinis dalyvių susirinkimas, valdymo o
 1) keičia regiono plėtros tarybos nuostatus; ^s-ee266e10e5c0af81345a3819
 
 
-2) laikydamasis šio įstatymo [[#^s-6f3bc4161de9a16a884f88c8|22 straipsnio]] 1, 2 ir [[#^s-99b14b2f29ecdfff3803381a|3 dalyse]] nustatytų reikalavimų, priima sprendimą dėl kolegijos narių skaičiaus ir sudėties; ^s-69d103a7fb802c47a740e1fb
+2) laikydamasis šio įstatymo [[#^s-6f3bc4161de9a16a884f88c8|22 straipsnio]] [[#^s-871d8358d3abed70632e3873|1]], [[#^s-6891f2d696c5b08cac81a197|2]] ir [[#^s-eb48cc069c7f858658c22cd0|3]] dalyse nustatytų reikalavimų, priima sprendimą dėl kolegijos narių skaičiaus ir sudėties; ^s-69d103a7fb802c47a740e1fb
 
 
 3) tvirtina kolegijos personalinę sudėtį ir kolegijos darbo reglamentą; ^s-fa64973073c791f3039d98b9
@@ -780,7 +780,7 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 4) savivaldybei, kurios gyventojų skaičius, padalintas iš 35 000, yra didesnis už 1/3 visų kolegijos narių, atstovautų 1/3 kolegijos narių. ^s-6c9988887cd969e78a90ac86
 
 
-4. Atliekant šio straipsnio 2 ir [[#^s-eb48cc069c7f858658c22cd0|3 dalyse]] nurodytus veiksmus, gaunami skaičiai aritmetiškai suapvalinami. ^s-fab302b633bb45a79e791cc4
+4. Atliekant šio straipsnio [[#^s-6891f2d696c5b08cac81a197|2]] ir [[#^s-eb48cc069c7f858658c22cd0|3]] dalyse nurodytus veiksmus, gaunami skaičiai aritmetiškai suapvalinami. ^s-fab302b633bb45a79e791cc4
 
 
 5. Savivaldybės gyventojų skaičius nustatomas pagal kalendorinių metų, einančių prieš kalendorinius metus, kuriais vyko paskutiniai savivaldybių tarybų rinkimai, sausio 1 dienos gyvenamąją vietą deklaravusių asmenų ir neturinčių gyvenamosios vietos asmenų apskaitos duomenis, paskelbtus Lietuvos Respublikos gyventojų registro tvarkytojo interneto svetainėje šio registro nuostatuose nustatyta tvarka ir terminais. ^s-628c3c5b00032b598144d97f
@@ -829,7 +829,7 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 2) tvirtina regiono plėtros plano įgyvendinimo ataskaitas; ^s-0fdb1a866f78d4943bda3864
 
 
-3) priima sprendimus dėl šio įstatymo [[#^s-30e880b97d91fdeb694cf6aa|12 straipsnio 3 dalies]] 2–6 ir [[#^s-13af32753da29ae116d08542|8 punktuose]] nurodytų regiono plėtros tarybos funkcijų įgyvendinimo; ^s-7a9a80b5350a5b859cbaf94d
+3) priima sprendimus dėl šio įstatymo [[#^s-30e880b97d91fdeb694cf6aa|12 straipsnio 3 dalies]] [[#^s-932a64f367d7a530197089eb|2]]–[[#^s-cd229f1d3c0ae45d964792da|6]] ir [[#^s-4b8e57aafefa5c87b2a9affa|8]] punktuose nurodytų regiono plėtros tarybos funkcijų įgyvendinimo; ^s-7a9a80b5350a5b859cbaf94d
 
 
 4) priima sprendimus dėl projektų pripažinimo regioninės svarbos projektais, taip pat sprendimus dėl regiono plėtros tarybos sprendimų, kuriais projektai pripažinti regioninės svarbos projektais, pakeitimo ar pripažinimo netekusiais galios; ^s-cdb18b81505200e3be1cb41f
@@ -990,10 +990,10 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 
 
 
-1. Už darbo laiką atliekant kolegijos nario pareigas kolegijos nariui (išskyrus kolegijos narį – savivaldybės merą ir ne visuomeniniais pagrindais dirbantį mero pavaduotoją) mokamas atlyginimas iš Vidaus reikalų ministerijai regionų plėtros tarybų veiklai skiriamų valstybės biudžeto asignavimų, kai kolegijos nario pareigų atlikimas yra neatsiejamai susijęs su šio įstatymo [[#^s-30e880b97d91fdeb694cf6aa|12 straipsnio 3 dalies]] 1–8 ir 11 punktuose nustatytų regiono plėtros tarybos funkcijų atlikimu. Kolegijos narių darbo laikas apskaičiuojamas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Atlyginimą kolegijos nariams moka regiono plėtros taryba. ^s-dd246f9352b4f7fade551f83
+1. Už darbo laiką atliekant kolegijos nario pareigas kolegijos nariui (išskyrus kolegijos narį – savivaldybės merą ir ne visuomeniniais pagrindais dirbantį mero pavaduotoją) mokamas atlyginimas iš Vidaus reikalų ministerijai regionų plėtros tarybų veiklai skiriamų valstybės biudžeto asignavimų, kai kolegijos nario pareigų atlikimas yra neatsiejamai susijęs su šio įstatymo [[#^s-30e880b97d91fdeb694cf6aa|12 straipsnio 3 dalies]] [[#^s-3c50293679ecc241ae9cc821|1]]–[[#^s-4b8e57aafefa5c87b2a9affa|8]] ir [[#^s-288f114bab9faab977ebd188|11]] punktuose nustatytų regiono plėtros tarybos funkcijų atlikimu. Kolegijos narių darbo laikas apskaičiuojamas Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Atlyginimą kolegijos nariams moka regiono plėtros taryba. ^s-dd246f9352b4f7fade551f83
 
 
-2. Už darbo laiką atliekant kolegijos nario pareigas (išskyrus kolegijos narį – savivaldybės merą ir ne visuomeniniais pagrindais dirbantį mero pavaduotoją), kurios nesusijusios su šio įstatymo [[#^s-30e880b97d91fdeb694cf6aa|12 straipsnio 3 dalies]] 1–8 ir 11 punktuose nustatytų regiono plėtros tarybos funkcijų atlikimu, kolegijos nariui gali būti mokamas atlyginimas iš šio įstatymo [[#^s-340bda83d79936ebd71ce9fe|28 straipsnio 3 dalyje]] nurodytų regiono plėtros tarybos lėšų, jeigu regiono plėtros tarybos visuotinis dalyvių susirinkimas taip nusprendžia. ^s-8df0a6b27ed3148384f9679e
+2. Už darbo laiką atliekant kolegijos nario pareigas (išskyrus kolegijos narį – savivaldybės merą ir ne visuomeniniais pagrindais dirbantį mero pavaduotoją), kurios nesusijusios su šio įstatymo [[#^s-30e880b97d91fdeb694cf6aa|12 straipsnio 3 dalies]] [[#^s-3c50293679ecc241ae9cc821|1]]–[[#^s-4b8e57aafefa5c87b2a9affa|8]] ir [[#^s-288f114bab9faab977ebd188|11]] punktuose nustatytų regiono plėtros tarybos funkcijų atlikimu, kolegijos nariui gali būti mokamas atlyginimas iš šio įstatymo [[#^s-340bda83d79936ebd71ce9fe|28 straipsnio 3 dalyje]] nurodytų regiono plėtros tarybos lėšų, jeigu regiono plėtros tarybos visuotinis dalyvių susirinkimas taip nusprendžia. ^s-8df0a6b27ed3148384f9679e
 
 
 3. Kolegijos nariams mokėtinas atlyginimas apskaičiuojamas pagal Lietuvos statistikos departamento paskelbto paskutinio ketvirčio šalies ūkio vidutinio mėnesinio bruto darbo užmokesčio, įskaitant individualias įmones, dydį regione, atsižvelgiant į faktiškai dirbtą laiką atliekant kolegijos nario pareigas. Kolegijos pirmininkui ir pirmininko pavaduotojui, kai jis nesant kolegijos pirmininko atlieka jo pareigas, atlyginimas už laiką, praleistą kolegijos posėdžiuose ir jiems rengiantis, papildomai mokama 30 procentų faktiškai apskaičiuoto kolegijos nario atlyginimo už kiekvieną kolegijos posėdį. ^s-640624e000faffeac45256ec
@@ -1005,7 +1005,7 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 5. Kolegijos narys turi teisę atsisakyti atlyginimo už darbą kolegijoje, kolegijos darbo reglamente nustatyta tvarka pateikdamas regiono plėtros tarybos administracijos direktoriui prašymą dėl kolegijos nario pareigų atlikimo neatlygintinai (tai yra visuomeniniais pagrindais). Tokį prašymą pateikusiam kolegijos nariui atlyginimas neskaičiuojamas ir nemokamas, taip pat neskaičiuojami ir nemokami teisės aktų nustatyti privalomi mokesčiai, valstybinio socialinio draudimo ir privalomojo sveikatos draudimo įmokos. ^s-5aeb8b95edbdb6a64d0ba946
 
 
-6. Kolegijos nariui regiono plėtros taryba apmoka komandiruotės išlaidas, kai kolegijos narys už savivaldybės, kurios meras ar savivaldybės tarybos narys jis yra, ribų atlieka šio įstatymo [[#^s-23f654b2813c320f87c79390|24 straipsnio 2 dalies 4 punkte]] nustatytą kolegijos pirmininko pareigą, kolegijos sprendimu atstovauja regiono plėtros tarybai ar kolegijos sprendimu dalyvauja veikloje, skirtoje kolegijos nario pareigoms atlikti reikalingai kolegijos nario kvalifikacijai tobulinti. Kolegijos nario komandiruotės išlaidos, neatsiejamai susijusios su šio įstatymo [[#^s-30e880b97d91fdeb694cf6aa|12 straipsnio 3 dalies]] 1–8 ir 11 punktuose nustatytų regiono plėtros tarybos funkcijų atlikimu ar su kolegijos nario dalyvavimu jo kvalifikacijai tobulinti skirtoje veikloje, apmokamos iš Vidaus reikalų ministerijai regionų plėtros tarybų veiklai skiriamų valstybės biudžeto asignavimų, kitos kolegijos nario komandiruotės išlaidos – iš šio įstatymo [[#^s-340bda83d79936ebd71ce9fe|28 straipsnio 3 dalyje]] nurodytų regiono plėtros tarybos lėšų. Kolegijos nariams komandiruotės išlaidos apmokamos Vyriausybės nustatyta tvarka. ^s-4d65326d45a0ba43e9697ce5
+6. Kolegijos nariui regiono plėtros taryba apmoka komandiruotės išlaidas, kai kolegijos narys už savivaldybės, kurios meras ar savivaldybės tarybos narys jis yra, ribų atlieka šio įstatymo [[#^s-23f654b2813c320f87c79390|24 straipsnio 2 dalies 4 punkte]] nustatytą kolegijos pirmininko pareigą, kolegijos sprendimu atstovauja regiono plėtros tarybai ar kolegijos sprendimu dalyvauja veikloje, skirtoje kolegijos nario pareigoms atlikti reikalingai kolegijos nario kvalifikacijai tobulinti. Kolegijos nario komandiruotės išlaidos, neatsiejamai susijusios su šio įstatymo [[#^s-30e880b97d91fdeb694cf6aa|12 straipsnio 3 dalies]] [[#^s-3c50293679ecc241ae9cc821|1]]–[[#^s-4b8e57aafefa5c87b2a9affa|8]] ir [[#^s-288f114bab9faab977ebd188|11]] punktuose nustatytų regiono plėtros tarybos funkcijų atlikimu ar su kolegijos nario dalyvavimu jo kvalifikacijai tobulinti skirtoje veikloje, apmokamos iš Vidaus reikalų ministerijai regionų plėtros tarybų veiklai skiriamų valstybės biudžeto asignavimų, kitos kolegijos nario komandiruotės išlaidos – iš šio įstatymo [[#^s-340bda83d79936ebd71ce9fe|28 straipsnio 3 dalyje]] nurodytų regiono plėtros tarybos lėšų. Kolegijos nariams komandiruotės išlaidos apmokamos Vyriausybės nustatyta tvarka. ^s-4d65326d45a0ba43e9697ce5
 
 
 7. Kolegijos narys atleidžiamas nuo tiesioginio darbo ar pareigų bet kurioje institucijoje, įstaigoje, įmonėje ar organizacijoje tuo laiku, kai jis atlieka kolegijos nario pareigas. ^s-743a140aeb8072fb6161cb7d
@@ -1099,7 +1099,7 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 2) jis nebeatitinka šiame įstatyme nustatytų nepriekaištingos reputacijos reikalavimų; ^s-d76f59b1b1b2a4eb1a207c65
 
 
-3) jis pažeidžia šio straipsnio 7 ar [[#^s-f134cbf3f46921857b25b721|8 dalyje]] nustatytus reikalavimus; ^s-7e6c400d4045aa6d4fd1fe70
+3) jis pažeidžia šio straipsnio [[#^s-605fdfcefe570336b44f6604|7]] ar [[#^s-f134cbf3f46921857b25b721|8]] dalyje nustatytus reikalavimus; ^s-7e6c400d4045aa6d4fd1fe70
 
 
 4) jis pripažįstamas šiurkščiai pažeidusiu Lietuvos Respublikos viešųjų ir privačių interesų derinimo įstatymą. ^s-abdd1b448756ff41cd925d43
@@ -1132,7 +1132,7 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 12. Administracijos darbuotojai negali būti regiono plėtros tarybos, kurioje jie dirba, kolegijos nariais. Administracijos darbuotojai, turintys viešojo administravimo įgaliojimus, turi būti nepriekaištingos reputacijos, kaip ji suprantama pagal šio įstatymo [[#^s-cc29657b5bf9d98168eef9f7|22 straipsnio 7 dalį]]. ^s-abba9b48ccb4c6d4589dfdb2
 
 
-13. Kolegija, turėdama duomenų, keliančių pagrįstų abejonių dėl kandidato į administracijos direktoriaus pareigas ar administracijos direktoriaus atitikties šio straipsnio 7 ir [[#^s-f134cbf3f46921857b25b721|8 dalyse]] nustatytiems reikalavimams, o administracijos direktorius, turėdamas duomenų, keliančių pagrįstų abejonių dėl kandidato į administracijos darbuotojo, turinčio viešojo administravimo įgaliojimus, pareigas ar viešojo administravimo įgaliojimus turinčio administracijos darbuotojo atitikties šiame įstatyme nustatytiems nepriekaištingos reputacijos reikalavimams turi teisę motyvuotu rašytiniu prašymu kreiptis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, kad šios pateiktų apie tokį asmenį jų turimą informaciją. Institucijos, įstaigos ir įmonės šią informaciją turi pateikti ne vėliau kaip per 5 darbo dienas nuo prašymo pateikti informaciją gavimo dienos, jeigu teisės aktuose nenustatyta kitaip. ^s-20ffc301f80e5f2d62714581
+13. Kolegija, turėdama duomenų, keliančių pagrįstų abejonių dėl kandidato į administracijos direktoriaus pareigas ar administracijos direktoriaus atitikties šio straipsnio [[#^s-605fdfcefe570336b44f6604|7]] ir [[#^s-f134cbf3f46921857b25b721|8]] dalyse nustatytiems reikalavimams, o administracijos direktorius, turėdamas duomenų, keliančių pagrįstų abejonių dėl kandidato į administracijos darbuotojo, turinčio viešojo administravimo įgaliojimus, pareigas ar viešojo administravimo įgaliojimus turinčio administracijos darbuotojo atitikties šiame įstatyme nustatytiems nepriekaištingos reputacijos reikalavimams turi teisę motyvuotu rašytiniu prašymu kreiptis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, kad šios pateiktų apie tokį asmenį jų turimą informaciją. Institucijos, įstaigos ir įmonės šią informaciją turi pateikti ne vėliau kaip per 5 darbo dienas nuo prašymo pateikti informaciją gavimo dienos, jeigu teisės aktuose nenustatyta kitaip. ^s-20ffc301f80e5f2d62714581
 
 
 
@@ -1154,7 +1154,7 @@ Nr. XIV-837, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27729
 4) mokėjimas už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą. ^s-c4e6d5523c7192b291903d0c
 
 
-2. Administracijos direktoriaus ir administracijos darbuotojų darbo apmokėjimo sistemoje (toliau – darbo apmokėjimo sistema), atsižvelgiant į šio straipsnio nuostatas, nustatomi administracijos direktoriaus ir administracijos darbuotojų pareigybių pareiginės algos nustatymo kriterijai (išsilavinimas, profesinio ir (ar) vadovaujamo darbo patirtis, veiklos sudėtingumas, darbo krūvis, atsakomybės lygis, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimas ir pan.) ir pagal kiekvieną kriterijų nustatyti konkretūs pareiginės algos koeficientų dydžiai, detalizuojama šio straipsnio 5–[[#^s-4a86df7c8b3275a8cdb71a88|9 dalyse]] nustatyta priemokų ir premijų skyrimo tvarka, mokėjimo už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą tvarka ir dydžiai. ^s-0bcd398846da80a2d9eccfdb
+2. Administracijos direktoriaus ir administracijos darbuotojų darbo apmokėjimo sistemoje (toliau – darbo apmokėjimo sistema), atsižvelgiant į šio straipsnio nuostatas, nustatomi administracijos direktoriaus ir administracijos darbuotojų pareigybių pareiginės algos nustatymo kriterijai (išsilavinimas, profesinio ir (ar) vadovaujamo darbo patirtis, veiklos sudėtingumas, darbo krūvis, atsakomybės lygis, papildomų įgūdžių ar žinių, svarbių einamoms pareigoms, turėjimas ir pan.) ir pagal kiekvieną kriterijų nustatyti konkretūs pareiginės algos koeficientų dydžiai, detalizuojama šio straipsnio [[#^s-5ec7852d2a9d097c4679d016|5]]–[[#^s-4a86df7c8b3275a8cdb71a88|9]] dalyse nustatyta priemokų ir premijų skyrimo tvarka, mokėjimo už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą tvarka ir dydžiai. ^s-0bcd398846da80a2d9eccfdb
 
 
 3. Administracijos direktoriaus ir administracijos darbuotojų pareiginė alga apskaičiuojama šio įstatymo priede nustatytą atitinkamos pareiginės algos koeficientą padauginus iš [[latest/8253c29006c711ee9978886e85107ab2|Lietuvos Respublikos pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatyme]] nustatyto pareiginės algos (atlyginimo) bazinio dydžio. ^s-20a57331dd1b87d63e01fb14
@@ -1190,7 +1190,7 @@ Nr. XIV-2000, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11574
 8. Regiono plėtros tarybos veiklos rezultatai ir administracijos direktoriui nustatytų užduočių įvykdymo rezultatai vertinami pagal regiono plėtros tarybos metiniame veiklos plane nustatytus konkrečius regiono plėtros tarybos veiklos vertinimo rodiklius ir (ar) administracijos direktoriui nustatytų užduočių įvykdymo rodiklius. Administracijos darbuotojui nustatytų užduočių įvykdymo rezultatai vertinami pagal administracijos direktoriaus nustatytus konkrečiam administracijos darbuotojui nustatytų užduočių įvykdymo rodiklius. ^s-d16f6a04f6ab50dfed4f2f14
 
 
-9. Šio straipsnio 5 ir [[#^s-d1db91f5935f69fc184ea60a|7 dalyse]] nurodytas priemokas ir premijas administracijos direktoriui skiria regiono plėtros tarybos visuotinis dalyvių susirinkimas kolegijos teikimu, administracijos darbuotojui – administracijos direktorius. ^s-4a86df7c8b3275a8cdb71a88
+9. Šio straipsnio [[#^s-5ec7852d2a9d097c4679d016|5]] ir [[#^s-d1db91f5935f69fc184ea60a|7]] dalyse nurodytas priemokas ir premijas administracijos direktoriui skiria regiono plėtros tarybos visuotinis dalyvių susirinkimas kolegijos teikimu, administracijos darbuotojui – administracijos direktorius. ^s-4a86df7c8b3275a8cdb71a88
 
 
 10. Už darbą poilsio ir švenčių dienomis, nakties, viršvalandinį darbą ir budėjimą administracijos direktoriui ir administracijos darbuotojams mokama [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] nustatyta tvarka. ^s-66db611092a63f13a4e5c949
@@ -1206,7 +1206,7 @@ Nr. XIV-2000, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11574
 1. Valstybė remia regionų plėtros tarybas: ^s-c9a235db0ca57771cadd50a4
 
 
-1) valstybės biudžeto lėšomis finansuodama regiono plėtros tarybos funkcijų, nurodytų šio įstatymo [[#^s-30e880b97d91fdeb694cf6aa|12 straipsnio 3 dalies]] 1–8 ir 11 punktuose, atlikimą, taip pat kolegijos narių, administracijos direktoriaus ir administracijos darbuotojų kvalifikacijos tobulinimą; ^s-bc822940c9ead23ba1bbc4be
+1) valstybės biudžeto lėšomis finansuodama regiono plėtros tarybos funkcijų, nurodytų šio įstatymo [[#^s-30e880b97d91fdeb694cf6aa|12 straipsnio 3 dalies]] [[#^s-3c50293679ecc241ae9cc821|1]]–[[#^s-4b8e57aafefa5c87b2a9affa|8]] ir [[#^s-288f114bab9faab977ebd188|11]] punktuose, atlikimą, taip pat kolegijos narių, administracijos direktoriaus ir administracijos darbuotojų kvalifikacijos tobulinimą; ^s-bc822940c9ead23ba1bbc4be
 
 
 2) sudarydama galimybę regionų plėtros taryboms neatlygintinai gauti šio įstatymo [[#^s-995752c1aebce17bf327f9e7|14 straipsnio 2 dalyje]] nurodytų kompetencijų tinklo dalyvių pagalbą, kurios reikia atliekant šiame įstatyme nustatytas regiono plėtros tarybos funkcijas. ^s-639009fb0428ddc19feab781
@@ -1429,4 +1429,4 @@ Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 [[#^s-52c50ab2
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2000, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11574
-Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 26, [[#^s-48dc6438c5225ac5772a09e6|27 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos regioninės plėtros įstatymo Nr. VIII-1889 [[#^s-371daa337c728be96c0737e0|26]], [[#^s-48dc6438c5225ac5772a09e6|27]] straipsnių ir priedo pakeitimo įstatymas

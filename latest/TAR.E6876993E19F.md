@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir jos priedo ratifikavimas ^s-8601af83d2c947b60ba3551c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. spalio 25 d. dekretą Nr. 1958, ratifikuoja Tarptautinę muitinės procedūrų supaprastinimo ir suderinimo konvenciją, sudarytą  1973 m. gegužės 18 d. Kiote, ir jos E.3 priedą dėl muitinės sandėlių (su išlygomis).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. spalio 25 d. dekretą Nr. 1958](https://e-tar.lt/portal/lt/legalAct/TAR.BB0B4C9C56E3), ratifikuoja Tarptautinę muitinės procedūrų supaprastinimo ir suderinimo konvenciją, sudarytą  1973 m. gegužės 18 d. Kiote, ir jos E.3 priedą dėl muitinės sandėlių (su išlygomis).
 
 
 

@@ -157,7 +157,7 @@ priima šį įstatymą.
 8. Teisėjų kolegijos nutartis, jei yra šio įstatymo [[#^s-e2dcccc61b93959457ad419f|5 straipsnyje]] nurodytų valstybės pareigūnų teikimas arba suinteresuoto asmens skundas, taip pat jei iškyla abejonių dėl nutarties teisėtumo ir pagrįstumo, Lietuvos Aukščiausiojo Teismo pirmininko teikimu gali būti kartu su medžiaga perduota nagrinėti Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus septynių teisėjų kolegijai. Išnagrinėjusi byloje surinktą ir papildomai pateiktą medžiagą, ši kolegija gali priimti sprendimą panaikinti ar pakeisti nutartį arba atmesti teikimą. ^s-62242a0d13b0f9ac91d7040c
 
 
-9. Septynių teisėjų kolegija sudaroma ir procesas, nagrinėjant skundą septynių teisėjų kolegijai, vyksta su atitinkamais pakeitimais (mutatis mutandis) pagal šio straipsnio 1–[[#^s-5470e168f385ba4d5247eb0a|6 dalių]] nuostatas. ^s-1debb60e7de5f3befd70d21c
+9. Septynių teisėjų kolegija sudaroma ir procesas, nagrinėjant skundą septynių teisėjų kolegijai, vyksta su atitinkamais pakeitimais (mutatis mutandis) pagal šio straipsnio [[#^s-21f5a25b2b03eec0cccf9c74|1]]–[[#^s-5470e168f385ba4d5247eb0a|6]] dalių nuostatas. ^s-1debb60e7de5f3befd70d21c
 
 
 10. Septynių teisėjų kolegijos sprendimas galutinis. ^s-ad1a679b5f65e9a7323f253e

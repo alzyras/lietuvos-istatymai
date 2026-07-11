@@ -49,7 +49,7 @@ BENDROSIOS NUOSTATOS
 1. Šis įstatymas reglamentuoja informacinės visuomenės paslaugų teikimą ir informacinės visuomenės paslaugų teikėjų teises, pareigas ir atsakomybę. ^s-c17ed2fef31d3d5c16534f51
 
 
-2. Šis įstatymas nustato Lietuvos Respublikos ryšių reguliavimo tarnybos, Valstybinės duomenų apsaugos inspekcijos, Valstybinės vartotojų teisių apsaugos tarnybos, Žurnalistų etikos inspektoriaus tarnybos (toliau – kompetentingos institucijos) įgaliojimus užtikrinti Reglamento (ES) 2022/2065 vykdymą, Ryšių reguliavimo tarnybos įgaliojimus atlikti Reglamente (ES) 2022/2065 nustatytas skaitmeninių paslaugų koordinatoriaus funkcijas, Reglamente (ES) 2024/1689 nustatytas nacionalinės kompetentingos institucijos – rinkos priežiūros institucijos – ir bendro kontaktinio punkto funkcijas, taip pat priežiūros institucijų įgaliojimus. ^s-9114a7c18338e26e5e3f94e8
+2. Šis įstatymas nustato Lietuvos Respublikos ryšių reguliavimo tarnybos, Valstybinės duomenų apsaugos inspekcijos, Valstybinės vartotojų teisių apsaugos tarnybos, Žurnalistų etikos inspektoriaus tarnybos (toliau – kompetentingos institucijos) įgaliojimus užtikrinti [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) vykdymą, Ryšių reguliavimo tarnybos įgaliojimus atlikti [Reglamente (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) nustatytas skaitmeninių paslaugų koordinatoriaus funkcijas, [Reglamente (ES) 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) nustatytas nacionalinės kompetentingos institucijos – rinkos priežiūros institucijos – ir bendro kontaktinio punkto funkcijas, taip pat priežiūros institucijų įgaliojimus. ^s-9114a7c18338e26e5e3f94e8
 Straipsnio dalies pakeitimai:
 Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
 
@@ -122,7 +122,7 @@ Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
 11. Užsakymas – paslaugos gavėjo paslaugų teikėjui elektroninėmis priemonėmis pateiktas pasiūlymas sudaryti sutartį (oferta) arba pateikto pasiūlymo sudaryti sutartį priėmimas (akceptas). ^s-1bf5b11bade3ea22cc3186a2
 
 
-12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) 2022/2065, Reglamente (ES) 2024/1689, [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatyme]], [[latest/TAR.82D8168D3049|Elektroninių ryšių įstatyme]], [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme]], [[latest/TAR.551F0CDE5B64|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatyme]]. ^s-4d1d07d2c590a01254a036e3
+12. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [Reglamente (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj), [Reglamente (ES) 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj), [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatyme]], [[latest/TAR.82D8168D3049|Elektroninių ryšių įstatyme]], [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatyme]], [[latest/TAR.551F0CDE5B64|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatyme]]. ^s-4d1d07d2c590a01254a036e3
 Straipsnio dalies pakeitimai:
 Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
 
@@ -198,13 +198,13 @@ Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
 6. Kai informacinės visuomenės paslaugų teikimą ir kitą paslaugų teikėjų veiklą reglamentuojančios Europos Sąjungos teisės nuostatos taikomos taip pat ir Europos ekonominės erdvės valstybėms, kurios nėra Europos Sąjungos valstybės narės, šiame įstatyme Europos Sąjunga suprantama kaip Europos ekonominė erdvė. ^s-5734d218e42e796c522f822a
 
 
-7. Paslaugų teikėjo, kuris nėra įsisteigęs Europos Sąjungoje, informacinės visuomenės paslaugų teikimo laisvę Lietuvos Respublikoje riboja šio įstatymo, Reglamento (ES) 2022/2065 ir kitų Lietuvos Respublikos teisės aktų, reglamentuojančių informacinės visuomenės paslaugų teikimą, nuostatos, jeigu Lietuvos Respublikos tarptautinės sutartys ir (ar) Europos Sąjungos teisė nenustato kitaip. ^s-1cb79a9e4aad334642c37d3d
+7. Paslaugų teikėjo, kuris nėra įsisteigęs Europos Sąjungoje, informacinės visuomenės paslaugų teikimo laisvę Lietuvos Respublikoje riboja šio įstatymo, [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir kitų Lietuvos Respublikos teisės aktų, reglamentuojančių informacinės visuomenės paslaugų teikimą, nuostatos, jeigu Lietuvos Respublikos tarptautinės sutartys ir (ar) Europos Sąjungos teisė nenustato kitaip. ^s-1cb79a9e4aad334642c37d3d
 
 
-8. Kompetentingos institucijos, įgyvendindamos Reglamentą (ES) 2022/2065, turi teisę kreiptis į tarpininkavimo paslaugų teikėjų Europos Sąjungos valstybėse narėse pagal Reglamento (ES) 2022/2065 [[#^s-d64d295e0702741ec2461ca2|13 straipsnį]] paskirtus teisinius atstovus. Jei tarpininkavimo paslaugų teikėjas nusprendžia paskirti teisinį atstovą Lietuvos Respublikoje, šis tarpininkavimo paslaugų teikėjas pateikia Ryšių reguliavimo tarnybai reikalingus duomenis apie savo teisinį atstovą, kaip nurodyta Reglamento (ES) 2022/2065 [[#^s-54fa51db6c27ea5c75d635f3|13 straipsnio 4 dalyje]]. Paskirti teisiniai atstovai yra atsakingi už tarpininkavimo paslaugų teikėjų pareigų pagal Reglamentą (ES) 2022/2065 neatlikimą nedarant poveikio tarpininkavimo paslaugų teikėjo atsakomybei ir teisiniams veiksmams, kurie gali būti inicijuojami tarpininkavimo paslaugų teikėjo atžvilgiu. Paskirtiems teisiniams atstovams gali būti taikomos vykdymo užtikrinimo procedūros, nustatytos šio įstatymo 24 ir [[#^s-f2a9fe02c8df3c3d5a397140|25 straipsniuose]]. Ryšių reguliavimo tarnyba nustato pranešimo apie paskirtą teisinį atstovą pateikimo tvarką ir savo interneto svetainėje viešai skelbia apie Lietuvos Respublikoje paskirtus teisinius atstovus. ^s-1d525e26e8572f40ebf0e6d5
+8. Kompetentingos institucijos, įgyvendindamos [Reglamentą (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj), turi teisę kreiptis į tarpininkavimo paslaugų teikėjų Europos Sąjungos valstybėse narėse pagal [Reglamento (ES) 2022/2065 13 straipsnį](https://eur-lex.europa.eu/eli/reg/2022/2065/art_13/oj) paskirtus teisinius atstovus. Jei tarpininkavimo paslaugų teikėjas nusprendžia paskirti teisinį atstovą Lietuvos Respublikoje, šis tarpininkavimo paslaugų teikėjas pateikia Ryšių reguliavimo tarnybai reikalingus duomenis apie savo teisinį atstovą, kaip nurodyta [Reglamento (ES) 2022/2065 13 straipsnio 4 dalyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_13/par_4/oj). Paskirti teisiniai atstovai yra atsakingi už tarpininkavimo paslaugų teikėjų pareigų pagal [Reglamentą (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) neatlikimą nedarant poveikio tarpininkavimo paslaugų teikėjo atsakomybei ir teisiniams veiksmams, kurie gali būti inicijuojami tarpininkavimo paslaugų teikėjo atžvilgiu. Paskirtiems teisiniams atstovams gali būti taikomos vykdymo užtikrinimo procedūros, nustatytos šio įstatymo [[#^s-8914cce33225705e23096590|24]] ir [[#^s-f2a9fe02c8df3c3d5a397140|25]] straipsniuose. Ryšių reguliavimo tarnyba nustato pranešimo apie paskirtą teisinį atstovą pateikimo tvarką ir savo interneto svetainėje viešai skelbia apie Lietuvos Respublikoje paskirtus teisinius atstovus. ^s-1d525e26e8572f40ebf0e6d5
 
 
-9. Tarpininkavimo paslaugų teikėjui, kuris nėra įsisteigęs Europos Sąjungoje, nepaskyrus teisinio atstovo nė vienoje Europos Sąjungos valstybėje narėje, kompetentingos institucijos turi teisę imtis vykdymo užtikrinimo procedūrų, nustatytų šio įstatymo 24 ir [[#^s-f2a9fe02c8df3c3d5a397140|25 straipsniuose]], jei kitos Europos Sąjungos valstybės narės kompetentinga institucija ar Europos Komisija dėl tų pačių faktų nėra pradėjusios vykdymo užtikrinimo procedūrų. Kompetentingos institucijos apie savo sprendimą imtis vykdymo užtikrinimo procedūrų informuoja Ryšių reguliavimo tarnybą, o ši visą su šiuo sprendimu susijusią informaciją perduoda Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatoriams ir Europos Komisijai. ^s-b9e562de56a758567f0d23e8
+9. Tarpininkavimo paslaugų teikėjui, kuris nėra įsisteigęs Europos Sąjungoje, nepaskyrus teisinio atstovo nė vienoje Europos Sąjungos valstybėje narėje, kompetentingos institucijos turi teisę imtis vykdymo užtikrinimo procedūrų, nustatytų šio įstatymo [[#^s-8914cce33225705e23096590|24]] ir [[#^s-f2a9fe02c8df3c3d5a397140|25]] straipsniuose, jei kitos Europos Sąjungos valstybės narės kompetentinga institucija ar Europos Komisija dėl tų pačių faktų nėra pradėjusios vykdymo užtikrinimo procedūrų. Kompetentingos institucijos apie savo sprendimą imtis vykdymo užtikrinimo procedūrų informuoja Ryšių reguliavimo tarnybą, o ši visą su šiuo sprendimu susijusią informaciją perduoda Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatoriams ir Europos Komisijai. ^s-b9e562de56a758567f0d23e8
 
 
 
@@ -263,16 +263,16 @@ INFORMACIJOS TEIKIMO IR SAUGOJIMO REIKALAVIMAI
 ### 7 straipsnis. Prieiga prie duomenų ^s-f19583b7a7d2bee1f6f14dd6
 
 
-1. Vadovaudamasi Reglamento (ES) 2022/2065 [[#^s-ccfef684d53fd0830b3c741b|40 straipsnio]] nuostatomis, Ryšių reguliavimo tarnyba labai didelių interneto platformų ir labai didelių interneto paieškos sistemų paslaugų teikėjams, įsisteigusiems Lietuvos Respublikoje, teikia pagrįstus prašymus suteikti prieigą prie duomenų. Labai didelės interneto platformos ir labai didelės interneto paieškos sistemos suprantamos taip, kaip apibrėžiamos Reglamento (ES) 2022/2065 [[#^s-b20dbf672900a2455ee682bf|33 straipsnio 1 dalyje]]. ^s-abb6d80276bc9bec0d376908
+1. Vadovaudamasi [Reglamento (ES) 2022/2065 40 straipsnio](https://eur-lex.europa.eu/eli/reg/2022/2065/art_40/oj) nuostatomis, Ryšių reguliavimo tarnyba labai didelių interneto platformų ir labai didelių interneto paieškos sistemų paslaugų teikėjams, įsisteigusiems Lietuvos Respublikoje, teikia pagrįstus prašymus suteikti prieigą prie duomenų. Labai didelės interneto platformos ir labai didelės interneto paieškos sistemos suprantamos taip, kaip apibrėžiamos [Reglamento (ES) 2022/2065 33 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_33/par_1/oj). ^s-abb6d80276bc9bec0d376908
 
 
-2. Gavusi tyrėjų prašymą, kuriame pagrindžiamas poreikis konkretaus mokslinio tyrimo tikslais suteikti prieigą prie duomenų, Ryšių reguliavimo tarnyba šiems tyrėjams suteikia patikrintų tyrėjų statusą ir pagal [[#^s-abb6d80276bc9bec0d376908|šio straipsnio 1 dalį]] teikia pagrįstą prašymą labai didelių interneto platformų ir labai didelių paieškos sistemų paslaugų teikėjui, įsisteigusiam Lietuvos Respublikoje, dėl prieigos prie duomenų suteikimo, jei tyrėjai atitinka Reglamento (ES) 2022/2065 40 straipsnio 8 dalyje nurodytus reikalavimus. Ryšių reguliavimo tarnyba pateiktą tyrėjų prašymą išnagrinėja ir sprendimą dėl patikrinto tyrėjo statuso suteikimo ar atsisakymo jį suteikti priima ne vėliau kaip per 3 mėnesius nuo tinkamai parengto prašymo ir visų tinkamai įformintų dokumentų gavimo Ryšių reguliavimo tarnyboje dienos. ^s-ab44cd92548f20b091290754
+2. Gavusi tyrėjų prašymą, kuriame pagrindžiamas poreikis konkretaus mokslinio tyrimo tikslais suteikti prieigą prie duomenų, Ryšių reguliavimo tarnyba šiems tyrėjams suteikia patikrintų tyrėjų statusą ir pagal [[#^s-abb6d80276bc9bec0d376908|šio straipsnio 1 dalį]] teikia pagrįstą prašymą labai didelių interneto platformų ir labai didelių paieškos sistemų paslaugų teikėjui, įsisteigusiam Lietuvos Respublikoje, dėl prieigos prie duomenų suteikimo, jei tyrėjai atitinka [Reglamento (ES) 2022/2065 40 straipsnio 8 dalyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_40/par_8/oj) nurodytus reikalavimus. Ryšių reguliavimo tarnyba pateiktą tyrėjų prašymą išnagrinėja ir sprendimą dėl patikrinto tyrėjo statuso suteikimo ar atsisakymo jį suteikti priima ne vėliau kaip per 3 mėnesius nuo tinkamai parengto prašymo ir visų tinkamai įformintų dokumentų gavimo Ryšių reguliavimo tarnyboje dienos. ^s-ab44cd92548f20b091290754
 
 
-3. Tyrėjai, kurie yra Lietuvos Respublikoje įsisteigusių mokslinių tyrimų organizacijų nariai, turi teisę Ryšių reguliavimo tarnybai teikti prašymą dėl prieigos prie duomenų, gaunamų iš kitoje Europos Sąjungos valstybėje narėje įsisteigusio labai didelės interneto platformos ar labai didelės interneto paieškos sistemos paslaugų teikėjo, suteikimo. Ryšių reguliavimo tarnyba atlieka pradinį vertinimą, ar tyrėjai atitinka Reglamento (ES) 2022/2065 40 straipsnio 8 dalyje nurodytus reikalavimus. Ryšių reguliavimo tarnyba šį pradinį vertinimą ir tyrėjų prašymą kartu su pateiktais dokumentais perduoda įsisteigimo valstybės narės skaitmeninių paslaugų koordinatoriui, kuris priima sprendimą dėl patikrinto tyrėjo statuso suteikimo ar atsisakymo jį suteikti. Ryšių reguliavimo tarnyba atlieka pradinį vertinimą ir priima sprendimą dėl prašymo kartu su pateiktais dokumentais perdavimo įsisteigimo valstybės narės skaitmeninių paslaugų koordinatoriui ne vėliau kaip per 3 mėnesius nuo prašymo gavimo Ryšių reguliavimo tarnyboje dienos. Apie įsisteigimo valstybės narės skaitmeninių paslaugų koordinatoriui perduotų prašymų nagrinėjimo eigą ir terminus Ryšių reguliavimo tarnyba informuoja prašymus dėl prieigos prie duomenų suteikimo pateikusius tyrėjus. ^s-7928e0681e6cc7d703ac971e
+3. Tyrėjai, kurie yra Lietuvos Respublikoje įsisteigusių mokslinių tyrimų organizacijų nariai, turi teisę Ryšių reguliavimo tarnybai teikti prašymą dėl prieigos prie duomenų, gaunamų iš kitoje Europos Sąjungos valstybėje narėje įsisteigusio labai didelės interneto platformos ar labai didelės interneto paieškos sistemos paslaugų teikėjo, suteikimo. Ryšių reguliavimo tarnyba atlieka pradinį vertinimą, ar tyrėjai atitinka [Reglamento (ES) 2022/2065 40 straipsnio 8 dalyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_40/par_8/oj) nurodytus reikalavimus. Ryšių reguliavimo tarnyba šį pradinį vertinimą ir tyrėjų prašymą kartu su pateiktais dokumentais perduoda įsisteigimo valstybės narės skaitmeninių paslaugų koordinatoriui, kuris priima sprendimą dėl patikrinto tyrėjo statuso suteikimo ar atsisakymo jį suteikti. Ryšių reguliavimo tarnyba atlieka pradinį vertinimą ir priima sprendimą dėl prašymo kartu su pateiktais dokumentais perdavimo įsisteigimo valstybės narės skaitmeninių paslaugų koordinatoriui ne vėliau kaip per 3 mėnesius nuo prašymo gavimo Ryšių reguliavimo tarnyboje dienos. Apie įsisteigimo valstybės narės skaitmeninių paslaugų koordinatoriui perduotų prašymų nagrinėjimo eigą ir terminus Ryšių reguliavimo tarnyba informuoja prašymus dėl prieigos prie duomenų suteikimo pateikusius tyrėjus. ^s-7928e0681e6cc7d703ac971e
 
 
-4. Patikrintų tyrėjų statuso suteikimo ir prieigos prie duomenų panaikinimo tvarką nustato Ryšių reguliavimo tarnyba, kiek tai nereglamentuojama Reglamento (ES) 2022/2065 [[#^s-ccfef684d53fd0830b3c741b|40 straipsnio]] 8, 9, 10 ir 11 dalyse ir Europos Komisijos priimtuose deleguotuosiuose teisės aktuose, kurie papildo Reglamento (ES) 2022/2065 nuostatas. ^s-b8a3523a5d2954f04406a68e
+4. Patikrintų tyrėjų statuso suteikimo ir prieigos prie duomenų panaikinimo tvarką nustato Ryšių reguliavimo tarnyba, kiek tai nereglamentuojama [Reglamento (ES) 2022/2065 40 straipsnio](https://eur-lex.europa.eu/eli/reg/2022/2065/art_40/oj) 8, 9, 10 ir 11 dalyse ir Europos Komisijos priimtuose deleguotuosiuose teisės aktuose, kurie papildo [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) nuostatas. ^s-b8a3523a5d2954f04406a68e
 
 
 
@@ -343,7 +343,7 @@ INFORMACIJOS TEIKIMO REIKALAVIMAI IR SUTARČIŲ SUDARYMAS ELEKTRONINĖMIS PRIEMO
 2. Jei paslaugų teikėjas ir paslaugos gavėjas, veikiantis savo verslo ar profesijos tikslais, nesusitaria kitaip, paslaugų teikėjas privalo paslaugos gavėjui nurodyti elgesio kodeksus, kurių paslaugų teikėjas įsipareigoja laikytis, ir informaciją, kaip susipažinti su šiais elgesio kodeksais elektroninėmis priemonėmis. ^s-e93d2179c916935f19c1ec28
 
 
-3. Šio straipsnio 1 ir [[#^s-e93d2179c916935f19c1ec28|2 dalys]] netaikomos sutartims, kurios sudaromos tik keičiantis elektroninio pašto pranešimais arba analogiškais individualiais pranešimais. ^s-04b8922e678a9af55b9b4b50
+3. Šio straipsnio [[#^s-ae96c3b0f55d395c201e1fee|1]] ir [[#^s-e93d2179c916935f19c1ec28|2]] dalys netaikomos sutartims, kurios sudaromos tik keičiantis elektroninio pašto pranešimais arba analogiškais individualiais pranešimais. ^s-04b8922e678a9af55b9b4b50
 
 
 4. Paslaugų teikėjas privalo paslaugos gavėjui pateikti sutarčių sąlygas, tarp jų sutarčių standartines sąlygas, tokiu būdu, kuriuo šią informaciją pastarasis galėtų išsaugoti ir vėliau panaudoti. ^s-3fef0f066fd32beb8a27e3aa
@@ -362,7 +362,7 @@ INFORMACIJOS TEIKIMO REIKALAVIMAI IR SUTARČIŲ SUDARYMAS ELEKTRONINĖMIS PRIEMO
 3. Jei paslaugų teikėjas ir paslaugos gavėjas, veikiantis savo verslo ar profesijos tikslais, nesusitaria kitaip, paslaugų teikėjas turi suteikti paslaugos gavėjui tinkamas, veiksmingas ir prieinamas technines priemones, kuriomis pastarasis galėtų nustatyti ir ištaisyti įvesties klaidas, prieš pateikdamas užsakymą. ^s-b49321437d498ad256cd7812
 
 
-4. Šio straipsnio 1 ir [[#^s-b49321437d498ad256cd7812|3 dalys]] netaikomos sutartims, kurios sudaromos tik keičiantis elektroninio pašto pranešimais arba analogiškais individualiais pranešimais. ^s-f493feed024775ab1f13f9eb
+4. Šio straipsnio [[#^s-006411f88bb27e7c153652fb|1]] ir [[#^s-b49321437d498ad256cd7812|3]] dalys netaikomos sutartims, kurios sudaromos tik keičiantis elektroninio pašto pranešimais arba analogiškais individualiais pranešimais. ^s-f493feed024775ab1f13f9eb
 
 
 
@@ -390,10 +390,10 @@ PASLAUGŲ TEIKĖJŲ ATSAKOMYBĖ
 ### 14 straipsnis. Paprasto perdavimo, podėliavimo ir prieglobos paslaugos ^s-b12562302b30333bcdd481d0
 
 
-1. Paslaugų teikėjų, teikiančių paprasto perdavimo, podėliavimo ir prieglobos paslaugas, atleidimo nuo atsakomybės sąlygos nustatytos Reglamento (ES) 2022/2065 4–[[#^s-fe7a2ab30bbcbb402fdd0dbe|6 straipsniuose]]. ^s-3745d361004fe6a3f858067e
+1. Paslaugų teikėjų, teikiančių paprasto perdavimo, podėliavimo ir prieglobos paslaugas, atleidimo nuo atsakomybės sąlygos nustatytos [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) [[#^s-9c5a27504fcd14f2932ca65a|4]]–[[#^s-fe7a2ab30bbcbb402fdd0dbe|6]] straipsniuose. ^s-3745d361004fe6a3f858067e
 
 
-2. Paslaugų teikėjai, nurodyti [[#^s-3745d361004fe6a3f858067e|šio straipsnio 1 dalyje]], nelaikomi neatitinkančiais atleidimo nuo atsakomybės sąlygų dėl atliekamų savanoriškų tyrimų ir jiems nėra nustatoma bendros stebėsenos ir aktyvaus faktų nustatymo pareiga, kaip tai apibrėžiama Reglamento (ES) 2022/2065 7 ir [[#^s-e176b5bc3902252e9f7b500d|8 straipsniuose]]. ^s-d1215f4a5fe1d8d008ee2e8f
+2. Paslaugų teikėjai, nurodyti [[#^s-3745d361004fe6a3f858067e|šio straipsnio 1 dalyje]], nelaikomi neatitinkančiais atleidimo nuo atsakomybės sąlygų dėl atliekamų savanoriškų tyrimų ir jiems nėra nustatoma bendros stebėsenos ir aktyvaus faktų nustatymo pareiga, kaip tai apibrėžiama [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) [[#^s-f19583b7a7d2bee1f6f14dd6|7]] ir [[#^s-e176b5bc3902252e9f7b500d|8]] straipsniuose. ^s-d1215f4a5fe1d8d008ee2e8f
 
 
 
@@ -401,16 +401,16 @@ PASLAUGŲ TEIKĖJŲ ATSAKOMYBĖ
 ### 15 straipsnis. Neteisėtas turinys ^s-f26e3c12e577771e1f9ef926
 
 
-1. Laikoma, kad paslaugų teikėjas yra sužinojęs apie neteisėtą paslaugos gavėjo veiklą arba apie neteisėtą turinį, kai turi patikimų faktinių duomenų apie neteisėtą paslaugos gavėjo veiklą arba apie paslaugų teikėjo perduodamą ir (ar) saugomą neteisėtą turinį, sužino apie faktus ir aplinkybes, iš kurių yra akivaizdu, kad paslaugų gavėjo veikla ar turinys yra neteisėti. Paslaugų teikėjas faktinius duomenis apie paslaugos gavėjo neteisėtą veiklą arba neteisėtą turinį gali gauti savo iniciatyva, atlikęs tyrimą, arba iš paslaugos gavėjų, priežiūros institucijų, fizinių ir juridinių asmenų pateiktų pranešimų, jei šie pranešimai yra tikslūs, išsamūs ir pagrįsti, kad paslaugų teikėjas galėtų įvertinti galimai neteisėtą turinį ir imtis reikiamų veiksmų. Siekdamas nustatyti, ar paskelbta informacija yra neteisėtas turinys, paslaugų teikėjas gali prašyti paslaugos gavėjo pateikti paaiškinimą ir (ar) kreiptis į instituciją, nurodytą Lietuvos Respublikos įstatymuose ar kituose teisės aktuose, reglamentuojančiuose neteisėto turinio ribojimą ir kontrolę. Paslaugų teikėjas, per pagrįstą terminą negavęs atsakymo iš paslaugos gavėjo ar nustatęs, kad pateiktas paaiškinimas nėra pagrįstas, priima sprendimą informaciją laikyti neteisėtu turiniu ir apriboja prieigą prie šio turinio. Paslaugos gavėjų, fizinių ir juridinių asmenų pranešimų teikimo reikalavimams mutatis mutandis taikoma Reglamento (ES) 2022/2065 [[#^s-06ba400a1eec3a34b6692c81|16 straipsnio 2 dalis]]. ^s-f0d43925edc4fc98e9c16727
+1. Laikoma, kad paslaugų teikėjas yra sužinojęs apie neteisėtą paslaugos gavėjo veiklą arba apie neteisėtą turinį, kai turi patikimų faktinių duomenų apie neteisėtą paslaugos gavėjo veiklą arba apie paslaugų teikėjo perduodamą ir (ar) saugomą neteisėtą turinį, sužino apie faktus ir aplinkybes, iš kurių yra akivaizdu, kad paslaugų gavėjo veikla ar turinys yra neteisėti. Paslaugų teikėjas faktinius duomenis apie paslaugos gavėjo neteisėtą veiklą arba neteisėtą turinį gali gauti savo iniciatyva, atlikęs tyrimą, arba iš paslaugos gavėjų, priežiūros institucijų, fizinių ir juridinių asmenų pateiktų pranešimų, jei šie pranešimai yra tikslūs, išsamūs ir pagrįsti, kad paslaugų teikėjas galėtų įvertinti galimai neteisėtą turinį ir imtis reikiamų veiksmų. Siekdamas nustatyti, ar paskelbta informacija yra neteisėtas turinys, paslaugų teikėjas gali prašyti paslaugos gavėjo pateikti paaiškinimą ir (ar) kreiptis į instituciją, nurodytą Lietuvos Respublikos įstatymuose ar kituose teisės aktuose, reglamentuojančiuose neteisėto turinio ribojimą ir kontrolę. Paslaugų teikėjas, per pagrįstą terminą negavęs atsakymo iš paslaugos gavėjo ar nustatęs, kad pateiktas paaiškinimas nėra pagrįstas, priima sprendimą informaciją laikyti neteisėtu turiniu ir apriboja prieigą prie šio turinio. Paslaugos gavėjų, fizinių ir juridinių asmenų pranešimų teikimo reikalavimams mutatis mutandis taikoma [Reglamento (ES) 2022/2065 16 straipsnio 2 dalis](https://eur-lex.europa.eu/eli/reg/2022/2065/art_16/par_2/oj). ^s-f0d43925edc4fc98e9c16727
 
 
-2. Prieglobos paslaugų teikėjai, priėmę sprendimą, kad paslaugos gavėjo pateikta informacija yra neteisėtas turinys, ir apriboję prieigą prie šio turinio, per 1 darbo dieną pateikia paslaugos gavėjui motyvuotą paaiškinimą dėl priimtų sprendimų pagal Reglamento (ES) 2022/2065 [[#^s-e052f3983ece405f4a5f355b|17 straipsnį]], jeigu paslaugų teikėjui žinomi paslaugos gavėjo elektroniniai kontaktiniai duomenys. Paslaugos gavėjai, kurių atžvilgiu prieglobos paslaugų teikėjas yra pritaikęs apribojimus, reaguodami į šio prieglobos paslaugų teikėjo priimtus sprendimus, gali pasinaudoti Reglamento (ES) 2022/2065 17 straipsnio 3 dalies f punkte nurodytomis teisių gynimo priemonėmis, tokiomis kaip vidaus skundų nagrinėjimo mechanizmai, neteisminio ginčų sprendimo priemonės ir apskundimo teismine tvarka sprendimai. Skundai dėl [[latest/TAR.065AB8483E1E#^s-86da94d5cc30e82eceefa55e|Visuomenės informavimo įstatymo 50 straipsnio 1 dalyje]] nurodytų teisių apsaugos nagrinėjami [[latest/TAR.065AB8483E1E#^s-7b42e37789706958ea61ff55|Visuomenės informavimo įstatymo 50 straipsnyje]] nustatyta tvarka. ^s-a199ede88473f09f0816b3fd
+2. Prieglobos paslaugų teikėjai, priėmę sprendimą, kad paslaugos gavėjo pateikta informacija yra neteisėtas turinys, ir apriboję prieigą prie šio turinio, per 1 darbo dieną pateikia paslaugos gavėjui motyvuotą paaiškinimą dėl priimtų sprendimų pagal [Reglamento (ES) 2022/2065 17 straipsnį](https://eur-lex.europa.eu/eli/reg/2022/2065/art_17/oj), jeigu paslaugų teikėjui žinomi paslaugos gavėjo elektroniniai kontaktiniai duomenys. Paslaugos gavėjai, kurių atžvilgiu prieglobos paslaugų teikėjas yra pritaikęs apribojimus, reaguodami į šio prieglobos paslaugų teikėjo priimtus sprendimus, gali pasinaudoti [Reglamento (ES) 2022/2065 17 straipsnio 3 dalies f punkte](https://eur-lex.europa.eu/eli/reg/2022/2065/art_17/par_3/lit_f/oj) nurodytomis teisių gynimo priemonėmis, tokiomis kaip vidaus skundų nagrinėjimo mechanizmai, neteisminio ginčų sprendimo priemonės ir apskundimo teismine tvarka sprendimai. Skundai dėl [[latest/TAR.065AB8483E1E#^s-86da94d5cc30e82eceefa55e|Visuomenės informavimo įstatymo 50 straipsnio 1 dalyje]] nurodytų teisių apsaugos nagrinėjami [[latest/TAR.065AB8483E1E#^s-7b42e37789706958ea61ff55|Visuomenės informavimo įstatymo 50 straipsnyje]] nustatyta tvarka. ^s-a199ede88473f09f0816b3fd
 
 
 3. Asmenys, kai jų teises pažeidžia paslaugų teikėjo perduodama ir (ar) saugoma informacija ar su ja susijusi veikla, dėl to gali teikti skundą paslaugų teikėjui, spręsti tai ikiteisminio ginčo tvarka, kreiptis į teismą, kad būtų nutrauktas pažeidimas, vykdomas naudojant informacinės visuomenės paslaugas, nurodytas šio įstatymo [[#^s-b12562302b30333bcdd481d0|14 straipsnyje]], ar užkirstas jam kelias, nepaisant to, kad už tokį pažeidimą pagal šio įstatymo [[#^s-b12562302b30333bcdd481d0|14 straipsnį]] paslaugų teikėjas neatsako. ^s-edfca150f3f7bf45135b2b4a
 
 
-4. Kai interneto platformos paskyros valdytojas, kuris kaip fizinis ar juridinis asmuo yra susikūręs ir valdo asmeninę paskyrą, kad galėtų naudotis interneto platformos paslaugomis, (toliau – interneto platformos paskyros valdytojas) pašalina neteisėto turinio komentarą, parašytą savo sukurtame įraše, šiam interneto platformos paskyros valdytojui nėra taikomi Reglamento (ES) 2022/2065 [[#^s-e052f3983ece405f4a5f355b|17 straipsnio]] įpareigojimai pateikti motyvų paaiškinimą komentaro autoriui. Reglamento (ES) 2022/2065 [[#^s-e052f3983ece405f4a5f355b|17 straipsnyje]] numatyta pareiga pateikti motyvų paaiškinimą paveiktiems paslaugos gavėjams taikoma interneto platformai, kai ji priima sprendimus dėl paslaugos gavėjo generuojamo turinio, įskaitant komentarus, apribojimų. ^s-1f322a60302bcf4c6a895d17
+4. Kai interneto platformos paskyros valdytojas, kuris kaip fizinis ar juridinis asmuo yra susikūręs ir valdo asmeninę paskyrą, kad galėtų naudotis interneto platformos paslaugomis, (toliau – interneto platformos paskyros valdytojas) pašalina neteisėto turinio komentarą, parašytą savo sukurtame įraše, šiam interneto platformos paskyros valdytojui nėra taikomi [Reglamento (ES) 2022/2065 17 straipsnio](https://eur-lex.europa.eu/eli/reg/2022/2065/art_17/oj) įpareigojimai pateikti motyvų paaiškinimą komentaro autoriui. [Reglamento (ES) 2022/2065 17 straipsnyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_17/oj) numatyta pareiga pateikti motyvų paaiškinimą paveiktiems paslaugos gavėjams taikoma interneto platformai, kai ji priima sprendimus dėl paslaugos gavėjo generuojamo turinio, įskaitant komentarus, apribojimų. ^s-1f322a60302bcf4c6a895d17
 
 
 5. Interneto platformų paskyrų valdytojams nėra nustatoma bendra pareiga stebėti informaciją ir jie nėra įpareigojami aktyviai ieškoti faktų ar aplinkybių apie neteisėtą turinį ar veiklą šiose paskyrose. Institucijos, nurodytos Lietuvos Respublikos įstatymuose ar kituose teisės aktuose, reglamentuojančiuose neteisėto turinio ribojimą ir kontrolę, nustačiusios neteisėtą turinį, paskyrų valdytojams duoda privalomus nurodymus Lietuvos Respublikos įstatymuose ar kituose teisės aktuose, reglamentuojančiuose neteisėto turinio ribojimą ir kontrolę, nustatyta tvarka pašalinti jų parengtą neteisėtą turinį ar po juo esančius neteisėtus komentarus. ^s-8c299ed482669f5656474302
@@ -420,7 +420,7 @@ PASLAUGŲ TEIKĖJŲ ATSAKOMYBĖ
 ### 16 straipsnis. Turinio moderavimas labai didelėse interneto platformose ir labai didelėse interneto paieškos sistemose ^s-8e43b4a7bbc63816d20888ee
 
 
-1. Labai didelių interneto platformų ir labai didelių interneto paieškos sistemų paslaugų teikėjai turi vertinti ir mažinti Reglamento (ES) 2022/2065 [[#^s-d1e4c7cae4bb3fa4b4e1397b|34 straipsnyje]] nurodytas sistemines rizikas, įskaitant neigiamą poveikį saviraiškos ir informacijos laisvei, pliuralizmui, demokratiniams procesams ir pilietiniam diskursui. Šių paslaugų teikėjų atliekamas rizikų vertinimas ir mažinimas pagal Reglamento (ES) 2022/2065 34 ir [[#^s-819e399bddc8bab257e5e73a|35 straipsnius]] turi apimti rizikas dėl teisėto turinio pašalinimo ir blokavimo, algoritminių sistemų veikimo tiek, kiek tai atitinka Reglamento (ES) 2022/2065 [[#^s-d1e4c7cae4bb3fa4b4e1397b|34 straipsnio]] 1 ir [[#^s-06ba400a1eec3a34b6692c81|2 dalių]] reikalavimus. Atliekant sisteminių rizikų vertinimą turi būti atsižvelgiama į lietuvių kalbos normas ir vartoseną. ^s-e1aca3865ce8a7ca45eecd9a
+1. Labai didelių interneto platformų ir labai didelių interneto paieškos sistemų paslaugų teikėjai turi vertinti ir mažinti [Reglamento (ES) 2022/2065 34 straipsnyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_34/oj) nurodytas sistemines rizikas, įskaitant neigiamą poveikį saviraiškos ir informacijos laisvei, pliuralizmui, demokratiniams procesams ir pilietiniam diskursui. Šių paslaugų teikėjų atliekamas rizikų vertinimas ir mažinimas pagal [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) [[#^s-d1e4c7cae4bb3fa4b4e1397b|34]] ir [[#^s-819e399bddc8bab257e5e73a|35]] straipsnius turi apimti rizikas dėl teisėto turinio pašalinimo ir blokavimo, algoritminių sistemų veikimo tiek, kiek tai atitinka [Reglamento (ES) 2022/2065 34 straipsnio](https://eur-lex.europa.eu/eli/reg/2022/2065/art_34/oj) [[#^s-fad59a9b87799329e90b26dd|1]] ir [[#^s-57ffc18ccbf240d5e3590f9c|2]] dalių reikalavimus. Atliekant sisteminių rizikų vertinimą turi būti atsižvelgiama į lietuvių kalbos normas ir vartoseną. ^s-e1aca3865ce8a7ca45eecd9a
 
 
 2. Ryšių reguliavimo tarnyba ir Valstybinė duomenų apsaugos inspekcija, remdamosi visuomenės, paslaugos gavėjų, valstybės institucijų ir įstaigų, kitų Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatorių, Europos Komisijos, tarptautinių organizacijų, Lietuvos Respublikos ir tarptautinių nevyriausybinių organizacijų, kitų subjektų pateikta ar viešai prieinama informacija, analizuoja sistemines rizikas, kylančias Lietuvos Respublikoje dėl labai didelių interneto platformų ir labai didelių interneto paieškos sistemų paslaugų teikėjų paslaugų dizaino, naudojimo ir su paslaugomis susijusių sistemų ir algoritmų veikimo. Valstybinė duomenų apsaugos inspekcija analizuoja sistemines rizikas tiek, kiek jos yra susijusios su labai didelių interneto platformų ir labai didelių interneto paieškos sistemų paslaugų teikėjų naudojamomis algoritminėmis sistemomis, įskaitant šių algoritminių sistemų rekomendavimo sistemas, veikimo modelį ir turinio tvarkymą. Ryšių reguliavimo tarnyba ir Valstybinė duomenų apsaugos inspekcija bendradarbiauja tarpusavyje, keičiasi informacija ir duomenimis, reikalingais sisteminėms rizikoms vertinti. ^s-06ba400a1eec3a34b6692c81
@@ -430,7 +430,7 @@ PASLAUGŲ TEIKĖJŲ ATSAKOMYBĖ
 ### 17 straipsnis. Informavimas apie įtarimus dėl nusikalstamos veikos ^s-e052f3983ece405f4a5f355b
 
 
-Prieglobos paslaugų teikėjai privalo nedelsdami informuoti policiją, jei prieglobos paslaugų teikėjas sužino bet kokią informaciją, dėl kurios kyla įtarimų, kad buvo padaryta, daroma ar tikriausiai bus padaryta nusikalstama veika, kelianti grėsmę asmens (-ų) gyvybei ar saugumui pagal Reglamento (ES) 2022/2065 [[#^s-2030806c6dd5a7b820db4e64|18 straipsnį]].
+Prieglobos paslaugų teikėjai privalo nedelsdami informuoti policiją, jei prieglobos paslaugų teikėjas sužino bet kokią informaciją, dėl kurios kyla įtarimų, kad buvo padaryta, daroma ar tikriausiai bus padaryta nusikalstama veika, kelianti grėsmę asmens (-ų) gyvybei ar saugumui pagal [Reglamento (ES) 2022/2065 18 straipsnį](https://eur-lex.europa.eu/eli/reg/2022/2065/art_18/oj).
 
 
 
@@ -472,16 +472,16 @@ GINČŲ SPRENDIMAS
 ### 19 straipsnis. Ginčų sprendimo reglamentavimas ^s-4d26614ae230ca3723bcf69d
 
 
-1. Paslaugos gavėjai turi teisę spręsti ginčus su paslaugų teikėjais dėl informacinės visuomenės paslaugų teikimo ne teismo tvarka, įskaitant ir ginčų sprendimą naudojant elektronines priemones. Ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka nagrinėjančio subjekto sprendimas yra rekomendacinio pobūdžio. Ginčo, susijusio su informacinės visuomenės paslaugų teikimu, sprendimas ne teismo tvarka, įskaitant vartojimo ginčų sprendimą ne teismo tvarka, neužkerta kelio paslaugų gavėjams naudotis kituose teisės aktuose nustatytais jų teisių gynimo būdais. Ginčo, susijusio su informacinės visuomenės paslaugų teikimu, šalys turi teisę kreiptis į bendrosios kompetencijos teismą, kad šis nagrinėtų jų ginčą, kuris yra nagrinėjamas ne teismo tvarka, arba ginčą, dėl kurio ne teismo tvarka jį nagrinėjęs subjektas yra priėmęs sprendimą. Ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka nagrinėjantys subjektai turi nustatyti šių ginčų nagrinėjimo taisykles ir užtikrinti jų atitiktį Reglamentui (ES) 2022/2065. Šiose taisyklėse nustatomi prašymų išspręsti ginčą formos, turinio ir pateikimo, įrodymų rinkimo ir pateikimo reikalavimai, taip pat šalių taikinimo procedūra ir ginčų nagrinėjimo procedūra, kitos ginčų nagrinėjimo taisyklės. ^s-df78209286435cbc8d26f752
+1. Paslaugos gavėjai turi teisę spręsti ginčus su paslaugų teikėjais dėl informacinės visuomenės paslaugų teikimo ne teismo tvarka, įskaitant ir ginčų sprendimą naudojant elektronines priemones. Ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka nagrinėjančio subjekto sprendimas yra rekomendacinio pobūdžio. Ginčo, susijusio su informacinės visuomenės paslaugų teikimu, sprendimas ne teismo tvarka, įskaitant vartojimo ginčų sprendimą ne teismo tvarka, neužkerta kelio paslaugų gavėjams naudotis kituose teisės aktuose nustatytais jų teisių gynimo būdais. Ginčo, susijusio su informacinės visuomenės paslaugų teikimu, šalys turi teisę kreiptis į bendrosios kompetencijos teismą, kad šis nagrinėtų jų ginčą, kuris yra nagrinėjamas ne teismo tvarka, arba ginčą, dėl kurio ne teismo tvarka jį nagrinėjęs subjektas yra priėmęs sprendimą. Ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka nagrinėjantys subjektai turi nustatyti šių ginčų nagrinėjimo taisykles ir užtikrinti jų atitiktį [Reglamentui (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj). Šiose taisyklėse nustatomi prašymų išspręsti ginčą formos, turinio ir pateikimo, įrodymų rinkimo ir pateikimo reikalavimai, taip pat šalių taikinimo procedūra ir ginčų nagrinėjimo procedūra, kitos ginčų nagrinėjimo taisyklės. ^s-df78209286435cbc8d26f752
 
 
-2. Ryšių reguliavimo tarnyba nustato subjektų, ne teismo tvarka nagrinėjančių Reglamento (ES) 2022/2065 [[#^s-585354be527735fd423aa731|21 straipsnyje]] nurodytus ginčus, sertifikavimo tvarką (toliau – Sertifikavimo tvarka), kiek tai nereglamentuojama Reglamento (ES) 2022/2065 [[#^s-585354be527735fd423aa731|21 straipsnyje]] ir šiame įstatyme. Ryšių reguliavimo tarnyba, ne vėliau kaip per 3 mėnesius nuo subjekto Sertifikavimo tvarkos reikalavimus atitinkančio tinkamai parengto prašymo sertifikuoti arba pratęsti sertifikavimo laikotarpį ir visų dokumentų, reikalingų subjekto atitikčiai Reglamento (ES) 2022/2065 [[#^s-80064e373bcf59d92c6d0052|21 straipsnio 3 dalyje]] nustatytiems reikalavimams įvertinti, gavimo dienos, įvertina, ar subjektas atitinka Reglamento (ES) 2022/2065 [[#^s-80064e373bcf59d92c6d0052|21 straipsnio 3 dalyje]] nustatytus reikalavimus, ir priima sprendimą sertifikuoti subjektą, pratęsti jo sertifikavimo laikotarpį ne ilgesniam nei 5 metų laikotarpiui arba motyvuotai atsisakyti sertifikuoti subjektą arba pratęsti jo sertifikavimo laikotarpį ir apie priimtą sprendimą ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos raštu informuoja prašymą pateikusį subjektą. Sertifikavimo laikotarpio pratęsimų skaičius nėra ribojamas. ^s-8cbfec4602c675c34f29df7e
+2. Ryšių reguliavimo tarnyba nustato subjektų, ne teismo tvarka nagrinėjančių [Reglamento (ES) 2022/2065 21 straipsnyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_21/oj) nurodytus ginčus, sertifikavimo tvarką (toliau – Sertifikavimo tvarka), kiek tai nereglamentuojama [Reglamento (ES) 2022/2065 21 straipsnyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_21/oj) ir šiame įstatyme. Ryšių reguliavimo tarnyba, ne vėliau kaip per 3 mėnesius nuo subjekto Sertifikavimo tvarkos reikalavimus atitinkančio tinkamai parengto prašymo sertifikuoti arba pratęsti sertifikavimo laikotarpį ir visų dokumentų, reikalingų subjekto atitikčiai [Reglamento (ES) 2022/2065 21 straipsnio 3 dalyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_21/par_3/oj) nustatytiems reikalavimams įvertinti, gavimo dienos, įvertina, ar subjektas atitinka [Reglamento (ES) 2022/2065 21 straipsnio 3 dalyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_21/par_3/oj) nustatytus reikalavimus, ir priima sprendimą sertifikuoti subjektą, pratęsti jo sertifikavimo laikotarpį ne ilgesniam nei 5 metų laikotarpiui arba motyvuotai atsisakyti sertifikuoti subjektą arba pratęsti jo sertifikavimo laikotarpį ir apie priimtą sprendimą ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos raštu informuoja prašymą pateikusį subjektą. Sertifikavimo laikotarpio pratęsimų skaičius nėra ribojamas. ^s-8cbfec4602c675c34f29df7e
 
 
 3. Teismai ir ginčus, susijusius su informacinės visuomenės paslaugų teikimu, ne teismo tvarka nagrinėjantys subjektai turi teisę informuoti Europos Komisiją ir Ryšių reguliavimo tarnybą apie reikšmingus savo sprendimus, susijusius su informacinės visuomenės paslaugomis, ir perduoti šioms institucijoms informaciją, kaip sprendžiami ginčai, susiję su elektronine komercija. ^s-8c46d7a1d49c26724c399fdd
 
 
-4. Pagal Reglamento (ES) 2022/2065 [[#^s-585354be527735fd423aa731|21 straipsnį]] ginčus ne teismo tvarka nagrinėjantys subjektai, kuriuos Ryšių reguliavimo tarnyba yra sertifikavusi, Ryšių reguliavimo tarnybai kartą per metus pateikia nagrinėtų ginčų dėl interneto platformų paslaugų teikimo ataskaitą. Ryšių reguliavimo tarnyba kas 2 metus parengia ne teismo tvarka ginčus nagrinėjančių subjektų, kuriuos yra sertifikavusi, veiklos ataskaitą pagal Reglamento (ES) 2022/2065 [[#^s-343f4980a340f13a73392ca9|21 straipsnio 4 dalį]]. ^s-7bee0846da46ae5d9fd48f62
+4. Pagal [Reglamento (ES) 2022/2065 21 straipsnį](https://eur-lex.europa.eu/eli/reg/2022/2065/art_21/oj) ginčus ne teismo tvarka nagrinėjantys subjektai, kuriuos Ryšių reguliavimo tarnyba yra sertifikavusi, Ryšių reguliavimo tarnybai kartą per metus pateikia nagrinėtų ginčų dėl interneto platformų paslaugų teikimo ataskaitą. Ryšių reguliavimo tarnyba kas 2 metus parengia ne teismo tvarka ginčus nagrinėjančių subjektų, kuriuos yra sertifikavusi, veiklos ataskaitą pagal [Reglamento (ES) 2022/2065 21 straipsnio 4 dalį](https://eur-lex.europa.eu/eli/reg/2022/2065/art_21/par_4/oj). ^s-7bee0846da46ae5d9fd48f62
 
 
 
@@ -506,13 +506,13 @@ Lietuvos Respublikos ekonomikos ir inovacijų ministerija:
 ### 21 straipsnis. Nurodymų teikimas ir institucijų bendradarbiavimas ^s-585354be527735fd423aa731
 
 
-1. Institucijos, nurodytos Lietuvos Respublikos įstatymuose ar kituose teisės aktuose, reglamentuojančiuose neteisėto turinio ribojimą ir kontrolę, teikdamos nurodymus tarpininkavimo paslaugų teikėjams imtis veiksmų prieš neteisėtą turinį, kaip jis apibrėžiamas Reglamento (ES) 2022/2065 [[#^s-f76ea8439e9c9856122d5889|3 straipsnio]] h punkte, ar pateikti informaciją pagal Reglamento (ES) 2022/2065 9 ir [[#^s-f1e6f0cb9a6ba24d0036c986|10 straipsnius]], vadovaujasi šiuose straipsniuose nustatytais nurodymų teikimo reikalavimais. Nurodymai gali būti teikiami tarpininkavimo paslaugų teikėjams, kurių įsisteigimo vieta yra Lietuvos Respublikoje arba kurie teikia tarpininkavimo paslaugas Lietuvos Respublikoje, neatsižvelgiant į tai, kur yra tų tarpininkavimo paslaugų teikėjų įsisteigimo vieta. Teisminių ar priežiūros institucijų nurodymų teikimą tarpininkavimo paslaugų teikėjams imtis veiksmų dėl konkretaus neteisėto turinio elementų nustato Lietuvos Respublikos įstatymai ar kiti teisės aktai, reglamentuojantys neteisėto turinio ribojimą ir kontrolę. ^s-997078f80bc0641ea4da6b0c
+1. Institucijos, nurodytos Lietuvos Respublikos įstatymuose ar kituose teisės aktuose, reglamentuojančiuose neteisėto turinio ribojimą ir kontrolę, teikdamos nurodymus tarpininkavimo paslaugų teikėjams imtis veiksmų prieš neteisėtą turinį, kaip jis apibrėžiamas [Reglamento (ES) 2022/2065 3 straipsnio h punkte](https://eur-lex.europa.eu/eli/reg/2022/2065/art_3/lit_h/oj), ar pateikti informaciją pagal [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) [[#^s-92c20eb21e951fcda2f752b9|9]] ir [[#^s-f1e6f0cb9a6ba24d0036c986|10]] straipsnius, vadovaujasi šiuose straipsniuose nustatytais nurodymų teikimo reikalavimais. Nurodymai gali būti teikiami tarpininkavimo paslaugų teikėjams, kurių įsisteigimo vieta yra Lietuvos Respublikoje arba kurie teikia tarpininkavimo paslaugas Lietuvos Respublikoje, neatsižvelgiant į tai, kur yra tų tarpininkavimo paslaugų teikėjų įsisteigimo vieta. Teisminių ar priežiūros institucijų nurodymų teikimą tarpininkavimo paslaugų teikėjams imtis veiksmų dėl konkretaus neteisėto turinio elementų nustato Lietuvos Respublikos įstatymai ar kiti teisės aktai, reglamentuojantys neteisėto turinio ribojimą ir kontrolę. ^s-997078f80bc0641ea4da6b0c
 
 
 2. Nurodymą teikianti institucija, vadovaudamasi [[#^s-997078f80bc0641ea4da6b0c|šio straipsnio 1 dalimi]], per 5 darbo dienas nuo nurodymo pateikimo dienos ar teismo leidimo taikyti nurodymus išdavimo dienos, kai toks leidimas yra privalomas pagal teisės aktus, reglamentuojančius neteisėto turinio kontrolę ir ribojimą, perduoda nurodymą kartu su bet kokia informacija, gauta iš tarpininkavimo paslaugų teikėjo, apie reagavimą į tą nurodymą Ryšių reguliavimo tarnybai, jei nurodymą teikianti institucija nėra pati Ryšių reguliavimo tarnyba. Ši tarnyba nustato nurodymų ir kitos šioje dalyje nurodytos informacijos perdavimo Ryšių reguliavimo tarnybai tvarką. ^s-5a8aed6beef5903bb481abbd
 
 
-3. Ryšių reguliavimo tarnyba, gavusi pagal [[#^s-5a8aed6beef5903bb481abbd|šio straipsnio 2 dalį]] pateiktą nurodymą, perduoda jo kopiją visiems Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatoriams, naudodamasi sukurta dalijimosi informacija sistema, nurodyta Reglamento (ES) 2022/2065 85 straipsnyje. ^s-80064e373bcf59d92c6d0052
+3. Ryšių reguliavimo tarnyba, gavusi pagal [[#^s-5a8aed6beef5903bb481abbd|šio straipsnio 2 dalį]] pateiktą nurodymą, perduoda jo kopiją visiems Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatoriams, naudodamasi sukurta dalijimosi informacija sistema, nurodyta [Reglamento (ES) 2022/2065 85 straipsnyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_85/oj). ^s-80064e373bcf59d92c6d0052
 
 
 4. Šiame straipsnyje išdėstytos nuostatos nedaro poveikio civilinį ir baudžiamąjį procesą Lietuvos Respublikoje reglamentuojančioms nuostatoms, kitoms Lietuvos Respublikos ir Europos Sąjungos teisės aktų nuostatoms, kuriose numatomos taisyklės imtis veiksmų dėl konkrečios rūšies neteisėto turinio ribojimo ir kontrolės. ^s-343f4980a340f13a73392ca9
@@ -522,13 +522,13 @@ Lietuvos Respublikos ekonomikos ir inovacijų ministerija:
 ### 22 straipsnis. Reglamento (ES) 2022/2065 ir šio įstatymo taikymo priežiūra ^s-c68795c4d8d28efc6fb0bbd5
 
 
-1. Ryšių reguliavimo tarnyba prižiūri Reglamento (ES) 2022/2065 ir šio įstatymo 4, 16–[[#^s-4d26614ae230ca3723bcf69d|19 straipsnių]] įgyvendinimą ir užtikrina jų vykdymą, išskyrus Reglamento (ES) 2022/2065 ir šio įstatymo nuostatas, kurių įgyvendinimas ir vykdymo užtikrinimas pagal Reglamentą (ES) 2022/2065 yra Europos Komisijos ar pagal šį įstatymą Valstybinės vartotojų teisių apsaugos tarnybos, Valstybinės duomenų apsaugos inspekcijos, Žurnalistų etikos inspektoriaus tarnybos ar ekonomikos ir inovacijų ministro įgaliotos institucijos kompetencija. Ryšių reguliavimo tarnyba, bendradarbiaudama su kitomis kompetentingomis institucijomis, koordinuoja Reglamento (ES) 2022/2065 įgyvendinimą nacionaliniu lygmeniu. ^s-25c053dfb4e3b938f30c25f7
+1. Ryšių reguliavimo tarnyba prižiūri [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir šio įstatymo [[#^s-9c5a27504fcd14f2932ca65a|4]], [[#^s-8e43b4a7bbc63816d20888ee|16]]–[[#^s-4d26614ae230ca3723bcf69d|19]] straipsnių įgyvendinimą ir užtikrina jų vykdymą, išskyrus [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir šio įstatymo nuostatas, kurių įgyvendinimas ir vykdymo užtikrinimas pagal [Reglamentą (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) yra Europos Komisijos ar pagal šį įstatymą Valstybinės vartotojų teisių apsaugos tarnybos, Valstybinės duomenų apsaugos inspekcijos, Žurnalistų etikos inspektoriaus tarnybos ar ekonomikos ir inovacijų ministro įgaliotos institucijos kompetencija. Ryšių reguliavimo tarnyba, bendradarbiaudama su kitomis kompetentingomis institucijomis, koordinuoja [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) įgyvendinimą nacionaliniu lygmeniu. ^s-25c053dfb4e3b938f30c25f7
 
 
-2. Kompetentingos institucijos, įgyvendindamos Reglamentą (ES) 2022/2065 ir priimdamos sprendimus dėl jo vykdymo užtikrinimo, yra nepriklausomos, nesiekia ir nepriima nurodymų iš valstybės institucijų ar bet kokio kito viešojo ar privataus subjekto. Kompetentingų institucijų funkcijoms atlikti ir įgaliojimams vykdyti yra užtikrinami visi būtini finansiniai, techniniai ir žmogiškieji ištekliai. ^s-6271343a78c959f64e1d87ab
+2. Kompetentingos institucijos, įgyvendindamos [Reglamentą (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir priimdamos sprendimus dėl jo vykdymo užtikrinimo, yra nepriklausomos, nesiekia ir nepriima nurodymų iš valstybės institucijų ar bet kokio kito viešojo ar privataus subjekto. Kompetentingų institucijų funkcijoms atlikti ir įgaliojimams vykdyti yra užtikrinami visi būtini finansiniai, techniniai ir žmogiškieji ištekliai. ^s-6271343a78c959f64e1d87ab
 
 
-3. Kompetentingos institucijos Ryšių reguliavimo tarnybos prašymu pateikia visą šiai tarnybai reikalingą informaciją dėl savo vykdomos veiklos pagal Reglamentą (ES) 2022/2065. Kompetentingos institucijos teikia informaciją Ryšių reguliavimo tarnybos nustatytais terminais, kurie negali būti trumpesni kaip 5 darbo dienos. ^s-54fefad63de7edb46b3cc2e4
+3. Kompetentingos institucijos Ryšių reguliavimo tarnybos prašymu pateikia visą šiai tarnybai reikalingą informaciją dėl savo vykdomos veiklos pagal [Reglamentą (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj). Kompetentingos institucijos teikia informaciją Ryšių reguliavimo tarnybos nustatytais terminais, kurie negali būti trumpesni kaip 5 darbo dienos. ^s-54fefad63de7edb46b3cc2e4
 
 
 
@@ -538,46 +538,46 @@ Lietuvos Respublikos ekonomikos ir inovacijų ministerija:
 Ryšių reguliavimo tarnyba:
 
 
-1) atlieka skaitmeninių paslaugų koordinatoriui priskirtas funkcijas pagal Reglamentą (ES) 2022/2065; ^s-9ee75a337d4ca29134d2fd4f
+1) atlieka skaitmeninių paslaugų koordinatoriui priskirtas funkcijas pagal [Reglamentą (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj); ^s-9ee75a337d4ca29134d2fd4f
 
 
-2) pagal kompetenciją teikia bendrą informaciją apie paslaugų teikėjų ir paslaugų gavėjų teises ir pareigas, nustatytas Reglamente (ES) 2022/2065 ir šiame įstatyme; ^s-592ab26bc485a4c9c50f001f
+2) pagal kompetenciją teikia bendrą informaciją apie paslaugų teikėjų ir paslaugų gavėjų teises ir pareigas, nustatytas [Reglamente (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir šiame įstatyme; ^s-592ab26bc485a4c9c50f001f
 
 
 3) bendradarbiauja su kitų Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatoriais, Europos Sąjungos institucijomis, įstaigomis ir dalyvauja Europos skaitmeninių paslaugų valdybos (toliau – Valdyba) veikloje; ^s-38225e8d6beced09b20447be
 
 
-4) šio įstatymo X skyriuje nustatyta tvarka nagrinėja paslaugos gavėjų ir juridinių asmenų, įgaliotų šių paslaugos gavėjų vardu naudotis Reglamente (ES) 2022/2065 suteiktomis teisėmis, skundus dėl Reglamento (ES) 2022/2065 pažeidimų; ^s-e764ae6c089e295db748c411
+4) šio įstatymo X skyriuje nustatyta tvarka nagrinėja paslaugos gavėjų ir juridinių asmenų, įgaliotų šių paslaugos gavėjų vardu naudotis [Reglamente (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) suteiktomis teisėmis, skundus dėl [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) pažeidimų; ^s-e764ae6c089e295db748c411
 
 
 5) renka ir skelbia informaciją apie tarpininkavimo paslaugų teikėjų, kurie nėra įsisteigę Europos Sąjungoje, teisinius atstovus, paskirtus Lietuvos Respublikoje; ^s-0df68aa65c82e9d990473744
 
 
-6) nustato patikimo pranešėjo statuso suteikimo, jo galiojimo sustabdymo ir panaikinimo tvarką, kiek tai nereglamentuojama Reglamento (ES) 2022/2065 [[#^s-c68795c4d8d28efc6fb0bbd5|22 straipsnyje]] ir šiame įstatyme; ne vėliau kaip per 2 mėnesius nuo Lietuvos Respublikoje įsisteigusio juridinio asmens tinkamai parengto prašymo suteikti patikimo pranešėjo statusą arba pratęsti jo galiojimo terminą ir visų dokumentų, reikalingų juridinio asmens atitikčiai Reglamento (ES) 2022/2065 [[#^s-6271343a78c959f64e1d87ab|22 straipsnio 2 dalyje]] nustatytiems reikalavimams įvertinti, gavimo dienos, įvertina, ar juridinis asmuo atitinka Reglamento (ES) 2022/2065 [[#^s-6271343a78c959f64e1d87ab|22 straipsnio 2 dalyje]] nustatytus reikalavimus, ir priima sprendimą suteikti patikimo pranešėjo statusą 3 metams, jį pratęsti 3 metų laikotarpiui arba motyvuotai atsisakyti suteikti patikimo pranešėjo statusą arba pratęsti jo galiojimo terminą ir apie priimtą sprendimą ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos raštu informuoja prašymą pateikusį juridinį asmenį. Patikimo pranešėjo statuso galiojimo pratęsimų skaičius nėra ribojamas; ^s-b7b582e376024b5d3d652942
+6) nustato patikimo pranešėjo statuso suteikimo, jo galiojimo sustabdymo ir panaikinimo tvarką, kiek tai nereglamentuojama [Reglamento (ES) 2022/2065 22 straipsnyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_22/oj) ir šiame įstatyme; ne vėliau kaip per 2 mėnesius nuo Lietuvos Respublikoje įsisteigusio juridinio asmens tinkamai parengto prašymo suteikti patikimo pranešėjo statusą arba pratęsti jo galiojimo terminą ir visų dokumentų, reikalingų juridinio asmens atitikčiai [Reglamento (ES) 2022/2065 22 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_22/par_2/oj) nustatytiems reikalavimams įvertinti, gavimo dienos, įvertina, ar juridinis asmuo atitinka [Reglamento (ES) 2022/2065 22 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_22/par_2/oj) nustatytus reikalavimus, ir priima sprendimą suteikti patikimo pranešėjo statusą 3 metams, jį pratęsti 3 metų laikotarpiui arba motyvuotai atsisakyti suteikti patikimo pranešėjo statusą arba pratęsti jo galiojimo terminą ir apie priimtą sprendimą ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos raštu informuoja prašymą pateikusį juridinį asmenį. Patikimo pranešėjo statuso galiojimo pratęsimų skaičius nėra ribojamas; ^s-b7b582e376024b5d3d652942
 
 
 7) sertifikuoja subjektus, kurie ne teismo tvarka nagrinėja ginčus dėl interneto platformų paslaugų teikimo; ^s-fceb46f9518906a7aba959c3
 
 
-8) praneša Europos Komisijai, jei, remdamasi pagal Reglamento (ES) 2022/2065 [[#^s-8914cce33225705e23096590|24 straipsnio]] 2 ir 3 dalis gauta informacija, turi pagrindo manyti, kad Lietuvos Respublikoje įsisteigęs interneto platformų ar interneto paieškos sistemų paslaugų teikėjas pasiekė Reglamento (ES) 2022/2065 [[#^s-b20dbf672900a2455ee682bf|33 straipsnio 1 dalyje]] nustatytą aktyvių paslaugos gavėjų Europos Sąjungoje vidutinio mėnesinio skaičiaus ribinę vertę; ^s-1db9492f284f6e27edde4067
+8) praneša Europos Komisijai, jei, remdamasi pagal [Reglamento (ES) 2022/2065 24 straipsnio](https://eur-lex.europa.eu/eli/reg/2022/2065/art_24/oj) [[#^s-9cdd7a712a5c2464a821fbff|2]] ir [[#^s-0949a8f8a68461d933446c32|3]] dalis gauta informacija, turi pagrindo manyti, kad Lietuvos Respublikoje įsisteigęs interneto platformų ar interneto paieškos sistemų paslaugų teikėjas pasiekė [Reglamento (ES) 2022/2065 33 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_33/par_1/oj) nustatytą aktyvių paslaugos gavėjų Europos Sąjungoje vidutinio mėnesinio skaičiaus ribinę vertę; ^s-1db9492f284f6e27edde4067
 
 
-9) teikia pagrįstus prašymus labai didelių interneto platformų ar labai didelių interneto paieškos sistemų paslaugų teikėjams, įsisteigusiems Lietuvos Respublikoje, dėl prieigos prie jų duomenų suteikimo, remiantis Reglamento (ES) 2022/2065 [[#^s-ccfef684d53fd0830b3c741b|40 straipsnio]] nuostatomis; ^s-7dc14565ab928eeaec6fe6b5
+9) teikia pagrįstus prašymus labai didelių interneto platformų ar labai didelių interneto paieškos sistemų paslaugų teikėjams, įsisteigusiems Lietuvos Respublikoje, dėl prieigos prie jų duomenų suteikimo, remiantis [Reglamento (ES) 2022/2065 40 straipsnio](https://eur-lex.europa.eu/eli/reg/2022/2065/art_40/oj) nuostatomis; ^s-7dc14565ab928eeaec6fe6b5
 
 
 10) analizuoja sistemines rizikas, kylančias Lietuvos Respublikoje dėl labai didelių interneto platformų ir labai didelių interneto paieškos sistemų paslaugų teikėjų paslaugų dizaino, naudojimo ir su paslaugomis susijusių sistemų ir algoritmų veikimo pagal šio įstatymo [[#^s-06ba400a1eec3a34b6692c81|16 straipsnio 2 dalies]] nuostatas; ^s-02610b928d52e23fbeac3f0c
 
 
-11) rengia metinę veiklos ataskaitą dėl visų kompetentingų institucijų vykdomos veiklos pagal Reglamentą (ES) 2022/2065, ją skelbia viešai ir teikia Europos Komisijai ir Valdybai; ^s-dc47b9628994c1a8a612e411
+11) rengia metinę veiklos ataskaitą dėl visų kompetentingų institucijų vykdomos veiklos pagal [Reglamentą (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj), ją skelbia viešai ir teikia Europos Komisijai ir Valdybai; ^s-dc47b9628994c1a8a612e411
 
 
-12) pagal Reglamento (ES) 2024/1689 70 straipsnio 1 dalį atlieka nacionalinės kompetentingos institucijos – rinkos priežiūros institucijos – funkcijas; ^s-394161ee0b774480033a1fd2
+12) pagal [Reglamento (ES) 2024/1689 70 straipsnio 1 dalį](https://eur-lex.europa.eu/eli/reg/2024/1689/art_70/par_1/oj) atlieka nacionalinės kompetentingos institucijos – rinkos priežiūros institucijos – funkcijas; ^s-394161ee0b774480033a1fd2
 Papildyta straipsnio punktu:
 Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
 
 
 
-13) pagal Reglamento (ES) 2024/1689 70 straipsnio 2 dalį atlieka bendro kontaktinio punkto funkcijas. ^s-409e20a63e81f8cf0b04f7c0
+13) pagal [Reglamento (ES) 2024/1689 70 straipsnio 2 dalį](https://eur-lex.europa.eu/eli/reg/2024/1689/art_70/par_2/oj) atlieka bendro kontaktinio punkto funkcijas. ^s-409e20a63e81f8cf0b04f7c0
 Papildyta straipsnio punktu:
 Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
 
@@ -586,13 +586,13 @@ Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
 ### 24 straipsnis. Ryšių reguliavimo tarnybos teisės ir pareigos ^s-8914cce33225705e23096590
 
 
-1. Ryšių reguliavimo tarnyba turi Reglamente (ES) 2022/2065 nustatytus skaitmeninių paslaugų koordinatoriaus įgaliojimus. ^s-ec98a001d60e8b62309d5f67
+1. Ryšių reguliavimo tarnyba turi [Reglamente (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) nustatytus skaitmeninių paslaugų koordinatoriaus įgaliojimus. ^s-ec98a001d60e8b62309d5f67
 
 
-2. Ryšių reguliavimo tarnyba, siekdama užtikrinti Reglamento (ES) 2022/2065 vykdymą, pagal Reglamento (ES) 2022/2065 51 straipsnio 1 dalį ir šio įstatymo IX skyriuje nustatytą tvarką turi teisę atlikti tyrimus ir (ar) patikrinimus dėl Lietuvos Respublikoje įsisteigusių tarpininkavimo paslaugų teikėjų elgesio. Atlikdama tyrimą, Ryšių reguliavimo tarnyba gali prašyti tarpininkavimo paslaugų teikėjo, jo darbuotojų ar atstovo pateikti žodinį ir rašytinį paaiškinimus, reikalauti, kad tarpininkavimo paslaugų teikėjas atvyktų į Ryšių reguliavimo tarnybos patalpas pateikti paaiškinimų. ^s-9cdd7a712a5c2464a821fbff
+2. Ryšių reguliavimo tarnyba, siekdama užtikrinti [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) vykdymą, pagal [Reglamento (ES) 2022/2065 51 straipsnio 1 dalį](https://eur-lex.europa.eu/eli/reg/2022/2065/art_51/par_1/oj) ir šio įstatymo IX skyriuje nustatytą tvarką turi teisę atlikti tyrimus ir (ar) patikrinimus dėl Lietuvos Respublikoje įsisteigusių tarpininkavimo paslaugų teikėjų elgesio. Atlikdama tyrimą, Ryšių reguliavimo tarnyba gali prašyti tarpininkavimo paslaugų teikėjo, jo darbuotojų ar atstovo pateikti žodinį ir rašytinį paaiškinimus, reikalauti, kad tarpininkavimo paslaugų teikėjas atvyktų į Ryšių reguliavimo tarnybos patalpas pateikti paaiškinimų. ^s-9cdd7a712a5c2464a821fbff
 
 
-3. Ryšių reguliavimo tarnyba taiko Reglamento (ES) 2022/2065 51 straipsnio 2 dalyje nurodytus vykdymo užtikrinimo įgaliojimus: ^s-0949a8f8a68461d933446c32
+3. Ryšių reguliavimo tarnyba taiko [Reglamento (ES) 2022/2065 51 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_51/par_2/oj) nurodytus vykdymo užtikrinimo įgaliojimus: ^s-0949a8f8a68461d933446c32
 
 
 1) išnagrinėja tarpininkavimo paslaugų teikėjo rašytinį įsipareigojimą nutraukti pažeidimą, priima sprendimą dėl tarpininkavimo paslaugų teikėjo prisiimtų įsipareigojimų patvirtinimo ir nustato, kad jie yra privalomi, arba atsisako juos patvirtinti. Tarpininkavimo paslaugų teikėjas privalo pateikti rašytinį įsipareigojimą Ryšių reguliavimo tarnybai per nustatytą terminą, kuris negali būti trumpesnis kaip 5 darbo dienos. Ryšių reguliavimo tarnyba, nustatydama tarpininkavimo paslaugų teikėjo įsipareigojimų įgyvendinimo terminą, atsižvelgia į užduočių ir procedūrų atlikimo sudėtingumą, numato proporcingą ir pagrįstą įsipareigojimų įgyvendinimo terminą, kuris negali būti trumpesnis kaip 20 darbo dienų; ^s-7208f8f367803a117371f2f8
@@ -601,22 +601,22 @@ Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
 2) nurodo nutraukti pažeidimą ir, jei yra pagrindas, nustato pažeidimui proporcingus taisomuosius veiksmus. Ryšių reguliavimo tarnyba įpareigoja tarpininkavimo paslaugų teikėją per pagrįstą terminą, kuris negali būti trumpesnis kaip 20 darbo dienų, atlikti taisomuosius veiksmus; ^s-3443d31df7455786820bda71
 
 
-3) skiria baudas už Reglamento (ES) 2022/2065 nesilaikymą pagal šio įstatymo XI skyriuje nustatytą tvarką; ^s-bb0a7429a2ff89d2c043ba04
+3) skiria baudas už [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) nesilaikymą pagal šio įstatymo XI skyriuje nustatytą tvarką; ^s-bb0a7429a2ff89d2c043ba04
 
 
-4) skiria periodines baudas už pateiktų nurodymų nesilaikymą pagal Reglamento (ES) 2022/2065 51 straipsnio 2 dalies d punktą šio įstatymo XI skyriuje nustatyta tvarka; ^s-13cc29ada205fee3d7d421a1
+4) skiria periodines baudas už pateiktų nurodymų nesilaikymą pagal [Reglamento (ES) 2022/2065 51 straipsnio 2 dalies d punktą](https://eur-lex.europa.eu/eli/reg/2022/2065/art_51/par_2/lit_d/oj) šio įstatymo XI skyriuje nustatyta tvarka; ^s-13cc29ada205fee3d7d421a1
 
 
-5) paslaugų gavėjų, kitų suinteresuotų ūkio subjektų ar asmenų prašymu, taip pat savo iniciatyva, laikydamasi proporcingumo principo, taiko laikinąsias priemones, siekdama išvengti didelės žalos pavojaus paslaugų gavėjams, nepataisomų pasekmių visuomenės interesams dėl tarpininkavimo paslaugų teikėjo galimo Reglamento (ES) 2022/2065 pažeidimo arba jeigu gali tapti sunkiau atlikti tyrimą arba to padaryti bus nebeįmanoma, nesiėmus šių priemonių. Laikinosios priemonės gali būti nustatytos ne ilgesniam kaip 9 mėnesių terminui, kuris gali būti pratęsiamas Ryšių reguliavimo tarnybos sprendimu, arba, jeigu yra būtina, laikinosios priemonės gali būti taikomos iki galutinio Ryšių reguliavimo tarnybos sprendimo priėmimo. Ryšių reguliavimo tarnybos sprendimas dėl laikinųjų priemonių per 10 kalendorinių dienų nuo tokio sprendimo įteikimo tarpininkavimo paslaugų teikėjui dienos gali būti skundžiamas Regionų administraciniam teismui. ^s-2366a0bff7da7dec57abffe4
+5) paslaugų gavėjų, kitų suinteresuotų ūkio subjektų ar asmenų prašymu, taip pat savo iniciatyva, laikydamasi proporcingumo principo, taiko laikinąsias priemones, siekdama išvengti didelės žalos pavojaus paslaugų gavėjams, nepataisomų pasekmių visuomenės interesams dėl tarpininkavimo paslaugų teikėjo galimo [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) pažeidimo arba jeigu gali tapti sunkiau atlikti tyrimą arba to padaryti bus nebeįmanoma, nesiėmus šių priemonių. Laikinosios priemonės gali būti nustatytos ne ilgesniam kaip 9 mėnesių terminui, kuris gali būti pratęsiamas Ryšių reguliavimo tarnybos sprendimu, arba, jeigu yra būtina, laikinosios priemonės gali būti taikomos iki galutinio Ryšių reguliavimo tarnybos sprendimo priėmimo. Ryšių reguliavimo tarnybos sprendimas dėl laikinųjų priemonių per 10 kalendorinių dienų nuo tokio sprendimo įteikimo tarpininkavimo paslaugų teikėjui dienos gali būti skundžiamas Regionų administraciniam teismui. ^s-2366a0bff7da7dec57abffe4
 
 
 4. Jei visos [[#^s-0949a8f8a68461d933446c32|šio straipsnio 3 dalyje]] nustatytos vykdymo užtikrinimo priemonės yra išnaudotos, tačiau pažeidimas nėra nutrauktas ar yra toliau vykdomas ir kelia didelę žalą, Ryšių reguliavimo tarnyba: ^s-0f640bbaaf0cefb87bb50551
 
 
-1) pateikia reikalavimą tarpininkavimo paslaugų teikėjui ištirti padėtį, parengti veiksmų planą ir atlikti kitus veiksmus pagal Reglamento (ES) 2022/2065 51 straipsnio 3 dalies a punktą. Ryšių reguliavimo tarnyba, atsižvelgdama į pažeidimo sudėtingumą ir taisomųjų veiksmų pobūdį, nustato tarpininkavimo paslaugų teikėjui proporcingą terminą, kuris negali būti trumpesnis kaip 30 kalendorinių dienų; ^s-7c2c2cf600be160c56b104e1
+1) pateikia reikalavimą tarpininkavimo paslaugų teikėjui ištirti padėtį, parengti veiksmų planą ir atlikti kitus veiksmus pagal [Reglamento (ES) 2022/2065 51 straipsnio 3 dalies a punktą](https://eur-lex.europa.eu/eli/reg/2022/2065/art_51/par_3/lit_a/oj). Ryšių reguliavimo tarnyba, atsižvelgdama į pažeidimo sudėtingumą ir taisomųjų veiksmų pobūdį, nustato tarpininkavimo paslaugų teikėjui proporcingą terminą, kuris negali būti trumpesnis kaip 30 kalendorinių dienų; ^s-7c2c2cf600be160c56b104e1
 
 
-2) kreipiasi į Regionų administracinį teismą dėl laikino paslaugų gavėjų prieigos prie su pažeidimu susijusios paslaugos apribojimo arba, tik jei tai neįmanoma techniškai, prieigos prie tarpininkavimo paslaugų teikėjo elektroninės sąsajos apribojimo. Šis kreipimasis vykdomas tada, kai tarpininkavimo paslaugų teikėjas neįvykdo [[#^s-7c2c2cf600be160c56b104e1|šios dalies 1 punkte]] nustatytų reikalavimų, nenutraukia pažeidimo ar toliau vykdo pažeidimą, kuris kelia didelę žalą ir yra susijęs su nusikalstama veika, keliančia grėsmę asmenų gyvybei ar saugumui, kaip apibrėžiama Reglamento (ES) 2022/2065 51 straipsnio 3 dalies b punkte. Apribojimas gali būti nustatomas ne ilgesniam kaip 9 mėnesių terminui, kuris gali būti pratęsiamas Ryšių reguliavimo tarnybai pakartotinai kreipiantis į Regionų administracinį teismą, jei tarpininkavimo paslaugų teikėjo vykdomas pažeidimas atitinka šiame punkte nustatytus kriterijus. ^s-17148fd075cf0f78f6952e3f
+2) kreipiasi į Regionų administracinį teismą dėl laikino paslaugų gavėjų prieigos prie su pažeidimu susijusios paslaugos apribojimo arba, tik jei tai neįmanoma techniškai, prieigos prie tarpininkavimo paslaugų teikėjo elektroninės sąsajos apribojimo. Šis kreipimasis vykdomas tada, kai tarpininkavimo paslaugų teikėjas neįvykdo [[#^s-7c2c2cf600be160c56b104e1|šios dalies 1 punkte]] nustatytų reikalavimų, nenutraukia pažeidimo ar toliau vykdo pažeidimą, kuris kelia didelę žalą ir yra susijęs su nusikalstama veika, keliančia grėsmę asmenų gyvybei ar saugumui, kaip apibrėžiama [Reglamento (ES) 2022/2065 51 straipsnio 3 dalies b punkte](https://eur-lex.europa.eu/eli/reg/2022/2065/art_51/par_3/lit_b/oj). Apribojimas gali būti nustatomas ne ilgesniam kaip 9 mėnesių terminui, kuris gali būti pratęsiamas Ryšių reguliavimo tarnybai pakartotinai kreipiantis į Regionų administracinį teismą, jei tarpininkavimo paslaugų teikėjo vykdomas pažeidimas atitinka šiame punkte nustatytus kriterijus. ^s-17148fd075cf0f78f6952e3f
 
 
 5. Kitos Ryšių reguliavimo tarnybos teisės: ^s-71ddd781264662839075e645
@@ -634,7 +634,7 @@ Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
 4) kviesti ir (ar) samdyti ekspertus (konsultantus), sudaryti darbo grupes tarpininkavimo paslaugų teikėjų vykdomai veiklai vertinti, pažeidimams nagrinėti, tyrimams ir patikrinimams atlikti, taip pat kitiems Ryšių reguliavimo tarnybos kompetencijos klausimams spręsti; ^s-36a9216933b9ead9a49b49f9
 
 
-5) keistis šiame įstatyme nustatytoms užduotims atlikti reikalinga informacija su kitų Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatoriais ir Europos Komisija, teikti prašymus kitų Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatoriams ir (ar) Europos Komisijai išnagrinėti galimus Reglamento (ES) 2022/2065 pažeidimus ir imtis atitinkamų vykdymo užtikrinimo priemonių, kai tarpininkavimo paslaugų teikėjai nėra įsisteigę Lietuvos Respublikoje; ^s-1be1ad7a51bf0b5cb5d6a0e2
+5) keistis šiame įstatyme nustatytoms užduotims atlikti reikalinga informacija su kitų Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatoriais ir Europos Komisija, teikti prašymus kitų Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatoriams ir (ar) Europos Komisijai išnagrinėti galimus [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) pažeidimus ir imtis atitinkamų vykdymo užtikrinimo priemonių, kai tarpininkavimo paslaugų teikėjai nėra įsisteigę Lietuvos Respublikoje; ^s-1be1ad7a51bf0b5cb5d6a0e2
 
 
 6) pasitelkti policijos pareigūnus viešajai tvarkai palaikyti ir galimam prievartos panaudojimui užtikrinti; ^s-f9427afaa9d2fb2e6196abbc
@@ -647,13 +647,13 @@ Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
 ### 25 straipsnis. Kitų kompetentingų institucijų teisės ir pareigos ^s-f2a9fe02c8df3c3d5a397140
 
 
-1. Valstybinė duomenų apsaugos inspekcija turi šio įstatymo [[#^s-8914cce33225705e23096590|24 straipsnio]] 2–4 dalyse ir 5 dalies 1–3 ir 6 punktuose nustatytus vykdymo užtikrinimo įgaliojimus dėl Reglamento (ES) 2022/2065 26 straipsnio 1 dalies d punkto ir [[#^s-d0dcb7677f20f731ee7604b7|3 dalies]], [[#^s-3d1fdac0dc0bc928c56fc7b1|27 straipsnio]], [[#^s-389899121955f6c4c4a226a1|28 straipsnio]] 2 ir [[#^s-d0dcb7677f20f731ee7604b7|3 dalių]] įgyvendinimo. Valstybinei duomenų apsaugos inspekcijai nėra taikomos šio įstatymo IX ir X skyriaus nuostatos, išskyrus šio įstatymo [[#^s-c9229de2aa97b309a08b8c1b|29 straipsnio 3 dalį]], [[#^s-56dce8985d630c562bfb729a|31 straipsnį]], [[#^s-fad59a9b87799329e90b26dd|34 straipsnio 1 dalį]], [[#^s-3af3f8a0087991cb31c31384|38 straipsnį]]. Valstybinės duomenų apsaugos inspekcijos skundų nagrinėjimo ir tyrimų vykdymo tvarką nustato [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymas]]. ^s-f0871035c89c06706706fda4
+1. Valstybinė duomenų apsaugos inspekcija turi šio įstatymo [[#^s-8914cce33225705e23096590|24 straipsnio]] [[#^s-9cdd7a712a5c2464a821fbff|2]]–[[#^s-0f640bbaaf0cefb87bb50551|4]] dalyse ir 5 dalies 1–3 ir 6 punktuose nustatytus vykdymo užtikrinimo įgaliojimus dėl [Reglamento (ES) 2022/2065 26 straipsnio 1 dalies d punkto](https://eur-lex.europa.eu/eli/reg/2022/2065/art_26/par_1/lit_d/oj) ir [[#^s-d0dcb7677f20f731ee7604b7|3 dalies]], [[#^s-3d1fdac0dc0bc928c56fc7b1|27 straipsnio]], [[#^s-389899121955f6c4c4a226a1|28 straipsnio]] 2 ir 3 dalių įgyvendinimo. Valstybinei duomenų apsaugos inspekcijai nėra taikomos šio įstatymo IX ir X skyriaus nuostatos, išskyrus šio įstatymo [[#^s-c9229de2aa97b309a08b8c1b|29 straipsnio 3 dalį]], [[#^s-56dce8985d630c562bfb729a|31 straipsnį]], [[#^s-fad59a9b87799329e90b26dd|34 straipsnio 1 dalį]], [[#^s-3af3f8a0087991cb31c31384|38 straipsnį]]. Valstybinės duomenų apsaugos inspekcijos skundų nagrinėjimo ir tyrimų vykdymo tvarką nustato [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymas]]. ^s-f0871035c89c06706706fda4
 
 
-2. Valstybinė vartotojų teisių apsaugos tarnyba turi šio įstatymo [[#^s-8914cce33225705e23096590|24 straipsnio]] 2–4 dalyse ir 5 dalies 1, 3 ir 6 punktuose nustatytus vykdymo užtikrinimo įgaliojimus dėl Reglamento (ES) 2022/2065 [[#^s-f2a9fe02c8df3c3d5a397140|25 straipsnio]] (kai paslaugos gavėjai yra fiziniai asmenys), 26 straipsnio 1 dalies a–c punktų ir [[#^s-eff72d31337535d7d93ecfba|2 dalies]], 30–[[#^s-c4c30c06adc9e81c9dfd305c|32 straipsnių]] įgyvendinimo. ^s-eff72d31337535d7d93ecfba
+2. Valstybinė vartotojų teisių apsaugos tarnyba turi šio įstatymo [[#^s-8914cce33225705e23096590|24 straipsnio]] [[#^s-9cdd7a712a5c2464a821fbff|2]]–[[#^s-0f640bbaaf0cefb87bb50551|4]] dalyse ir 5 dalies 1, 3 ir 6 punktuose nustatytus vykdymo užtikrinimo įgaliojimus dėl [Reglamento (ES) 2022/2065 25 straipsnio](https://eur-lex.europa.eu/eli/reg/2022/2065/art_25/oj) (kai paslaugos gavėjai yra fiziniai asmenys), 26 straipsnio 1 dalies a–c punktų ir 2 dalies, [[#^s-52c4e3452233240846f9376c|30]]–[[#^s-c4c30c06adc9e81c9dfd305c|32]] straipsnių įgyvendinimo. ^s-eff72d31337535d7d93ecfba
 
 
-3. Žurnalistų etikos inspektoriaus tarnyba turi šio įstatymo [[#^s-8914cce33225705e23096590|24 straipsnio]] 2–4 dalyse ir 5 dalies 1, 3 ir 6 punktuose nustatytus vykdymo užtikrinimo įgaliojimus dėl Reglamento (ES) 2022/2065 14 straipsnio 3 dalies, 28 straipsnio 1 dalies. ^s-d0dcb7677f20f731ee7604b7
+3. Žurnalistų etikos inspektoriaus tarnyba turi šio įstatymo [[#^s-8914cce33225705e23096590|24 straipsnio]] [[#^s-9cdd7a712a5c2464a821fbff|2]]–[[#^s-0f640bbaaf0cefb87bb50551|4]] dalyse ir 5 dalies [[#^s-7208f8f367803a117371f2f8|1]], [[#^s-bb0a7429a2ff89d2c043ba04|3]] ir 6 punktuose nustatytus vykdymo užtikrinimo įgaliojimus dėl [Reglamento (ES) 2022/2065 14 straipsnio 3 dalies](https://eur-lex.europa.eu/eli/reg/2022/2065/art_14/par_3/oj), 28 straipsnio 1 dalies. ^s-d0dcb7677f20f731ee7604b7
 
 
 
@@ -666,10 +666,10 @@ Ekonomikos ir inovacijų ministro įgaliota institucija:
 1) pagal kompetenciją įgyvendina valstybės informacinės visuomenės plėtros politiką; ^s-a3f19adc429628f1709cc4f4
 
 
-2) prižiūri informacinės visuomenės paslaugų teikimą ir paslaugų teikėjų veiklą įgyvendinant šio įstatymo 3, 5, [[#^s-fe7a2ab30bbcbb402fdd0dbe|6 straipsnių]], III ir IV skyrių nuostatas; ^s-8a329c39a85038ca2cc0a79e
+2) prižiūri informacinės visuomenės paslaugų teikimą ir paslaugų teikėjų veiklą įgyvendinant šio įstatymo [[#^s-f76ea8439e9c9856122d5889|3]], [[#^s-c9256d50539236e92a54ca02|5]], [[#^s-fe7a2ab30bbcbb402fdd0dbe|6]] straipsnių, III ir IV skyrių nuostatas; ^s-8a329c39a85038ca2cc0a79e
 
 
-3) atlieka tyrimus dėl galimo šio įstatymo 3, 5, [[#^s-fe7a2ab30bbcbb402fdd0dbe|6 straipsnių]], III ir IV skyrių nuostatų pažeidimo bei už šių nuostatų pažeidimus skiria baudas Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka; ^s-d563499d975d5c4d471f7f68
+3) atlieka tyrimus dėl galimo šio įstatymo [[#^s-f76ea8439e9c9856122d5889|3]], [[#^s-c9256d50539236e92a54ca02|5]], [[#^s-fe7a2ab30bbcbb402fdd0dbe|6]] straipsnių, III ir IV skyrių nuostatų pažeidimo bei už šių nuostatų pažeidimus skiria baudas Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka; ^s-d563499d975d5c4d471f7f68
 
 
 4) Europos Sąjungos teisės aktų, reglamentuojančių informacinės visuomenės paslaugų teikimą ir vartotojų apsaugą, nustatyta tvarka ir sąlygomis bendradarbiauja su Europos Komisija ir reikiamomis Europos Sąjungos valstybių narių institucijomis, kontaktinius duomenis pateikia Europos Komisijai ir Europos Sąjungos valstybėms narėms; ^s-b3b143173851870827715b0e
@@ -684,7 +684,7 @@ Ekonomikos ir inovacijų ministro įgaliota institucija:
 7) elektroninėmis priemonėmis (taip pat turi teisę naudoti ir kitus būdus) teikia bendrą informaciją (tačiau ne teisines konsultacijas) apie paslaugų teikėjų ir paslaugos gavėjų teises ir pareigas, susijusias su elektroninėmis priemonėmis sudaromomis sutartimis, galimus paslaugų teikėjų ir paslaugos gavėjų ginčų sprendimo ir žalos atlyginimo būdus bei jų naudojimo praktinius aspektus, valstybės ir savivaldybių institucijas ar įstaigas, kurios gali suteikti papildomos informacijos ir (ar) praktinę pagalbą; savo interneto svetainėje skelbia apie būdus susisiekti su ekonomikos ir inovacijų ministro įgaliota institucija elektroninėmis priemonėmis; ^s-76ed836b405a03c3d11413ea
 
 
-8) pagal kompetenciją įgyvendina Reglamentą (ES) 2017/2394; ^s-4452f82f20536c26de7b9d5b
+8) pagal kompetenciją įgyvendina [Reglamentą (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj); ^s-4452f82f20536c26de7b9d5b
 
 
 9) atlieka kitas šio įstatymo ir kitų teisės aktų, reglamentuojančių informacinės visuomenės paslaugų teikimą, nustatytas funkcijas. ^s-104aeeb16bfd03dbf8b18e05
@@ -704,7 +704,7 @@ Ekonomikos ir inovacijų ministro įgaliota institucija:
 ### 28 straipsnis. Ekonomikos ir inovacijų ministro įgaliotos institucijos pareigūnų teisės ^s-389899121955f6c4c4a226a1
 
 
-Ekonomikos ir inovacijų ministro įgaliotos institucijos įgalioti pareigūnai, prižiūrėdami, kaip yra laikomasi šio įstatymo 3, 5, [[#^s-fe7a2ab30bbcbb402fdd0dbe|6 straipsnių]], III ir IV skyrių reikalavimų, turi šias teises:
+Ekonomikos ir inovacijų ministro įgaliotos institucijos įgalioti pareigūnai, prižiūrėdami, kaip yra laikomasi šio įstatymo [[#^s-f76ea8439e9c9856122d5889|3]], [[#^s-c9256d50539236e92a54ca02|5]], [[#^s-fe7a2ab30bbcbb402fdd0dbe|6]] straipsnių, III ir IV skyrių reikalavimų, turi šias teises:
 
 
 1) savo funkcijoms atlikti pagal šio ir kitų įstatymų, taip pat kitų teisės aktų, reglamentuojančių informacinės visuomenės paslaugų teikimą, nustatytas sąlygas ir procedūras iš paslaugų teikėjų gauti reikalingą informaciją; ^s-6be2397f11dc8b40db6afd8f
@@ -727,33 +727,33 @@ Ekonomikos ir inovacijų ministro įgaliotos institucijos įgalioti pareigūnai,
 
 
 ## IX SKYRIUS ^s-58ca7c7185cd8b78b6bb3830
-REGLAMENTO (ES) 2022/2065 VYKDYMO UŽTIKRINIMO PRIEMONIŲ NAUDOJIMO TVARKA
+[REGLAMENTO (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) VYKDYMO UŽTIKRINIMO PRIEMONIŲ NAUDOJIMO TVARKA
 
 
 
 ### 29 straipsnis. Tyrimai ir (ar) patikrinimai ir jų atlikimo tvarka ^s-f031efb7efb12c3b36f17851
 
 
-1. Kompetentingos institucijos turi teisę savo iniciatyva pradėti tyrimą dėl Lietuvos Respublikos kompetencijai priskiriamo tarpininkavimo paslaugų teikėjo galimo Reglamento (ES) 2022/2065 ir (ar) šio įstatymo pažeidimo. Kompetentingos institucijos informuoja tarpininkavimo paslaugų teikėją apie pradėtą tyrimą ne vėliau kaip per 5 darbo dienas nuo sprendimo atlikti tyrimą priėmimo dienos. Kompetentingų institucijų sprendimu tyrimai gali būti laikomi konfidencialiais tol, kol išnyksta grėsmė tyrimo eigai. Tyrimo metu esant pagrįstam poreikiui, kompetentingos institucijos gali priimti sprendimą atlikti patikrinimą tarpininkavimo paslaugų teikėjo patalpose, įskaitant nuomojamas ir (ar) kitais pagrindais naudojamas patalpas. Kompetentingų institucijų įgalioti pareigūnai, prižiūrintys, kaip vykdomas Reglamentas (ES) 2022/2065 ir šis įstatymas, pateikę tarnybinį pažymėjimą ir kompetentingos institucijos išduotą dokumentą, kuriuo patvirtinami jų įgaliojimai ir atliekamos funkcijos, turi teisę atlikti patikrinimą tarpininkavimo paslaugų teikėjo patalpose, įskaitant nuomojamas ir (ar) kitais pagrindais naudojamas patalpas. ^s-d73c03e9f375317c3cd3cd5d
+1. Kompetentingos institucijos turi teisę savo iniciatyva pradėti tyrimą dėl Lietuvos Respublikos kompetencijai priskiriamo tarpininkavimo paslaugų teikėjo galimo [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir (ar) šio įstatymo pažeidimo. Kompetentingos institucijos informuoja tarpininkavimo paslaugų teikėją apie pradėtą tyrimą ne vėliau kaip per 5 darbo dienas nuo sprendimo atlikti tyrimą priėmimo dienos. Kompetentingų institucijų sprendimu tyrimai gali būti laikomi konfidencialiais tol, kol išnyksta grėsmė tyrimo eigai. Tyrimo metu esant pagrįstam poreikiui, kompetentingos institucijos gali priimti sprendimą atlikti patikrinimą tarpininkavimo paslaugų teikėjo patalpose, įskaitant nuomojamas ir (ar) kitais pagrindais naudojamas patalpas. Kompetentingų institucijų įgalioti pareigūnai, prižiūrintys, kaip vykdomas [Reglamentas (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir šis įstatymas, pateikę tarnybinį pažymėjimą ir kompetentingos institucijos išduotą dokumentą, kuriuo patvirtinami jų įgaliojimai ir atliekamos funkcijos, turi teisę atlikti patikrinimą tarpininkavimo paslaugų teikėjo patalpose, įskaitant nuomojamas ir (ar) kitais pagrindais naudojamas patalpas. ^s-d73c03e9f375317c3cd3cd5d
 
 
 2. Kompetentingos institucijos taip pat turi teisę pradėti tyrimą ir (ar) patikrinimą, remdamosi visuomenės, paslaugos gavėjų, valstybės institucijų ir įstaigų, kitų Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatorių, Europos Komisijos, tarptautinių organizacijų, Lietuvos Respublikos ir tarptautinių nevyriausybinių organizacijų ar kitų šaltinių pateikta informacija tarpininkavimo paslaugų klausimais. ^s-8e733c1c86e633016251d6ad
 
 
-3. Kompetentingos institucijos, priėmusios sprendimą atlikti tyrimą dėl galimo Reglamento (ES) 2022/2065 ir (ar) šio įstatymo pažeidimo, per 5 darbo dienas nuo sprendimo atlikti tyrimą priėmimo dienos informuoja Ryšių reguliavimo tarnybą, jeigu kompetentinga institucija, priėmusi sprendimą atlikti tyrimą, nėra pati Ryšių reguliavimo tarnyba. ^s-c9229de2aa97b309a08b8c1b
+3. Kompetentingos institucijos, priėmusios sprendimą atlikti tyrimą dėl galimo [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir (ar) šio įstatymo pažeidimo, per 5 darbo dienas nuo sprendimo atlikti tyrimą priėmimo dienos informuoja Ryšių reguliavimo tarnybą, jeigu kompetentinga institucija, priėmusi sprendimą atlikti tyrimą, nėra pati Ryšių reguliavimo tarnyba. ^s-c9229de2aa97b309a08b8c1b
 
 
-4. Ryšių reguliavimo tarnyba turi teisę teikti prašymus Valdybai arba kartu su kitų Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatoriais pradėti bendrus tyrimus dėl galimo tarpininkavimo paslaugų teikėjo Reglamento (ES) 2022/2065 pažeidimo pagal Reglamento (ES) 2022/2065 58 ir 60 straipsnius. ^s-0fdece8d40664f28ed176a36
+4. Ryšių reguliavimo tarnyba turi teisę teikti prašymus Valdybai arba kartu su kitų Europos Sąjungos valstybių narių skaitmeninių paslaugų koordinatoriais pradėti bendrus tyrimus dėl galimo tarpininkavimo paslaugų teikėjo [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) pažeidimo pagal [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) 58 ir 60 straipsnius. ^s-0fdece8d40664f28ed176a36
 
 
-5. Kompetentingos institucijos tyrimus ir (ar) patikrinimus dėl galimo Reglamento (ES) 2022/2065 ir (ar) šio įstatymo pažeidimo atlieka vadovaudamosi Reglamentu (ES) 2022/2065, šio įstatymo ir savo nustatyta tvarka. ^s-7eedde4a173479cd149753d4
+5. Kompetentingos institucijos tyrimus ir (ar) patikrinimus dėl galimo [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir (ar) šio įstatymo pažeidimo atlieka vadovaudamosi [Reglamentu (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj), šio įstatymo ir savo nustatyta tvarka. ^s-7eedde4a173479cd149753d4
 
 
 
 ### 30 straipsnis. Tyrimų dėl Reglamento (ES) 2022/2065 ir šio įstatymo galimo pažeidimo atlikimo terminai ^s-52c4e3452233240846f9376c
 
 
-1. Tyrimas dėl Reglamento (ES) 2022/2065 ir (ar) šio įstatymo galimo pažeidimo turi būti atliktas ne vėliau kaip per 3 mėnesius nuo sprendimo atlikti šį tyrimą priėmimo dienos. ^s-f574986e5a3448f1b4dca06e
+1. Tyrimas dėl [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir (ar) šio įstatymo galimo pažeidimo turi būti atliktas ne vėliau kaip per 3 mėnesius nuo sprendimo atlikti šį tyrimą priėmimo dienos. ^s-f574986e5a3448f1b4dca06e
 
 
 2. [[#^s-f574986e5a3448f1b4dca06e|Šio straipsnio 1 dalyje]] nurodytas terminas kompetentingos institucijos motyvuotu sprendimu gali būti pratęsiamas iki 3 mėnesių, bet ne ilgiau kaip 6 mėnesiams nuo sprendimo atlikti šį tyrimą priėmimo dienos. Sprendimas dėl tyrimo atlikimo termino pratęsimo priimamas, atsižvelgiant į tyrimo sudėtingumą, mastą, tarpininkavimo paslaugų teikėjo vengimą vykdyti kompetentingų institucijų reikalavimus, atliekant tyrimą paaiškėjusias naujas aplinkybes ar kitas objektyvias priežastis. Priėmusi sprendimą pratęsti tyrimo atlikimo terminą, kompetentinga institucija ne vėliau kaip per 3 darbo dienas apie tai informuoja tarpininkavimo paslaugų teikėją ir nurodo termino pratęsimo priežastis. ^s-0ebd4216d29cd50da2c8decf
@@ -769,10 +769,10 @@ REGLAMENTO (ES) 2022/2065 VYKDYMO UŽTIKRINIMO PRIEMONIŲ NAUDOJIMO TVARKA
 1) konstatuoti, kad pažeidimų nenustatyta; ^s-4616c232aecf33a8cd39cabc
 
 
-2) nustatyti Reglamento (ES) 2022/2065 ir (ar) šio įstatymo pažeidimą (-us). ^s-77fe40edb2c7bd6ec328c161
+2) nustatyti [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir (ar) šio įstatymo pažeidimą (-us). ^s-77fe40edb2c7bd6ec328c161
 
 
-2. Kompetentinga institucija, nustačiusi Reglamento (ES) 2022/2065 ir (ar) šio įstatymo pažeidimą (-us), teikia tarpininkavimo paslaugų teikėjui privalomus nurodymus nutraukti pažeidimą (-us), skiria įspėjimą ir (ar) taiko kitas vykdymo užtikrinimo priemones, nurodytas Reglamento (ES) 2022/2065 51 straipsnio 2 ir [[#^s-4cdd691e4a7b0e7a899d1262|3 dalyse]], šio įstatymo [[#^s-8914cce33225705e23096590|24 straipsnio]] 1–[[#^s-e12e994f35d857b58da2911d|4 dalyse]], 5 dalies 1–3 ir 6, 7 punktuose ir [[#^s-f2a9fe02c8df3c3d5a397140|25 straipsnyje]]. Kompetentinga institucija turi teisę priimti sprendimą dėl baudos skyrimo šio įstatymo XI skyriuje nustatyta tvarka. ^s-e2c10e97f07196bc0d64c12c
+2. Kompetentinga institucija, nustačiusi [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir (ar) šio įstatymo pažeidimą (-us), teikia tarpininkavimo paslaugų teikėjui privalomus nurodymus nutraukti pažeidimą (-us), skiria įspėjimą ir (ar) taiko kitas vykdymo užtikrinimo priemones, nurodytas [Reglamento (ES) 2022/2065 51 straipsnio](https://eur-lex.europa.eu/eli/reg/2022/2065/art_51/oj) 2 ir 3 dalyse, šio įstatymo [[#^s-8914cce33225705e23096590|24 straipsnio]] [[#^s-ec98a001d60e8b62309d5f67|1]]–[[#^s-0f640bbaaf0cefb87bb50551|4]] dalyse, 5 dalies 1–3 ir 6, 7 punktuose ir [[#^s-f2a9fe02c8df3c3d5a397140|25 straipsnyje]]. Kompetentinga institucija turi teisę priimti sprendimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo šio įstatymo XI skyriuje nustatyta tvarka. ^s-e2c10e97f07196bc0d64c12c
 
 
 3. Kompetentinga institucija apie priimtą [[#^s-f50813b0bd9ebb09681b2d48|šio straipsnio 1 dalyje]] nurodytą sprendimą ne vėliau kaip per 3 darbo dienas informuoja tarpininkavimo paslaugų teikėją, kurio atžvilgiu buvo atliktas tyrimas ir (ar) patikrinimas, išskyrus šio įstatymo XI skyriuje nurodytus atvejus, kai ketinama skirti baudą. ^s-4cdd691e4a7b0e7a899d1262
@@ -810,7 +810,7 @@ REGLAMENTO (ES) 2022/2065 VYKDYMO UŽTIKRINIMO PRIEMONIŲ NAUDOJIMO TVARKA
 ### 33 straipsnis. Paslaugų teikėjų ir paslaugos gavėjų teisės ir pareigos, nagrinėjant galimus pažeidimus ^s-d8fc1cf43c4457f142e478d0
 
 
-1. Tarpininkavimo paslaugų teikėjai, kurių atžvilgiu atliekamas tyrimas ir (ar) patikrinimas, atliekama baudos skyrimo procedūra, skundžiami tarpininkavimo paslaugų teikėjai, skundą pateikę paslaugos gavėjai turi Reglamente (ES) 2022/2065 nurodytas teises ir pareigas. ^s-b20dbf672900a2455ee682bf
+1. Tarpininkavimo paslaugų teikėjai, kurių atžvilgiu atliekamas tyrimas ir (ar) patikrinimas, atliekama baudos skyrimo procedūra, skundžiami tarpininkavimo paslaugų teikėjai, skundą pateikę paslaugos gavėjai turi [Reglamente (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) nurodytas teises ir pareigas. ^s-b20dbf672900a2455ee682bf
 
 
 2. [[#^s-b20dbf672900a2455ee682bf|Šio straipsnio 1 dalyje]] nurodyti asmenys taip pat turi teisę: ^s-d7fcc7b4f39f5b3e84f3367b
@@ -837,7 +837,7 @@ SKUNDŲ NAGRINĖJIMAS
 ### 34 straipsnis. Skundų teikimas ^s-d1e4c7cae4bb3fa4b4e1397b
 
 
-1. Paslaugos gavėjas ar kitas subjektas, nurodytas Reglamento (ES) 2022/2065 53 straipsnyje, turi teisę Ryšių reguliavimo tarnybai pateikti skundą dėl galimų tarpininkavimo paslaugų teikėjų padarytų Reglamento (ES) 2022/2065 pažeidimų (toliau – skundas). Jei skundo nagrinėjimas priskirtas kitos kompetentingos institucijos kompetencijai, Ryšių reguliavimo tarnyba šį skundą perduoda nagrinėti atitinkamai kompetentingai institucijai. Paslaugos gavėjas taip pat turi teisę pateikti skundą tiesiogiai Valstybinei vartotojų teisių apsaugos tarnybai, Valstybinei duomenų apsaugos inspekcijai, Žurnalistų etikos inspektoriaus tarnybai dėl galimų tarpininkavimo paslaugų teikėjų padarytų Reglamento (ES) 2022/2065 pažeidimų, priskirtų šių institucijų kompetencijai. Skundą išnagrinėjusios Valstybinė vartotojų teisių apsaugos tarnyba, Valstybinė duomenų apsaugos inspekcija, Žurnalistų etikos inspektoriaus tarnyba ne vėliau kaip per 5 darbo dienas informuoja Ryšių reguliavimo tarnybą apie gautą skundą ir dėl jo priimtą sprendimą. Jei gautame skunde nurodytos aplinkybės ar jų dalis nepatenka į Valstybinės vartotojų teisių apsaugos tarnybos, Valstybinės duomenų apsaugos inspekcijos, Žurnalistų etikos inspektoriaus tarnybos kompetenciją, skundas ar jo dalis kartu su visais reikalingais dokumentais yra perduodamas kitai kompetentingai institucijai. Jei skunde dėl galimo Reglamento (ES) 2022/2065 pažeidimo nurodytos aplinkybės patenka į kitos Europos Sąjungos valstybės narės kompetencijos sritį, kompetentingos institucijos perduoda skundą ar jo dalį įsisteigimo valstybės narės skaitmeninių paslaugų koordinatoriui. Kompetentingos institucijos apie skundo perdavimą informuoja paslaugos gavėją ir Ryšių reguliavimo tarnybą, jei skundą ar jo dalį perdavusi kompetentinga institucija nėra pati Ryšių reguliavimo tarnyba. Kompetentingų institucijų skundų perdavimo ir informavimo terminai nustatomi Lietuvos Respublikos viešojo administravimo įstatymo 11 straipsnio 4 dalyje. ^s-fad59a9b87799329e90b26dd
+1. Paslaugos gavėjas ar kitas subjektas, nurodytas [Reglamento (ES) 2022/2065 53 straipsnyje](https://eur-lex.europa.eu/eli/reg/2022/2065/art_53/oj), turi teisę Ryšių reguliavimo tarnybai pateikti skundą dėl galimų tarpininkavimo paslaugų teikėjų padarytų [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) pažeidimų (toliau – skundas). Jei skundo nagrinėjimas priskirtas kitos kompetentingos institucijos kompetencijai, Ryšių reguliavimo tarnyba šį skundą perduoda nagrinėti atitinkamai kompetentingai institucijai. Paslaugos gavėjas taip pat turi teisę pateikti skundą tiesiogiai Valstybinei vartotojų teisių apsaugos tarnybai, Valstybinei duomenų apsaugos inspekcijai, Žurnalistų etikos inspektoriaus tarnybai dėl galimų tarpininkavimo paslaugų teikėjų padarytų [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) pažeidimų, priskirtų šių institucijų kompetencijai. Skundą išnagrinėjusios Valstybinė vartotojų teisių apsaugos tarnyba, Valstybinė duomenų apsaugos inspekcija, Žurnalistų etikos inspektoriaus tarnyba ne vėliau kaip per 5 darbo dienas informuoja Ryšių reguliavimo tarnybą apie gautą skundą ir dėl jo priimtą sprendimą. Jei gautame skunde nurodytos aplinkybės ar jų dalis nepatenka į Valstybinės vartotojų teisių apsaugos tarnybos, Valstybinės duomenų apsaugos inspekcijos, Žurnalistų etikos inspektoriaus tarnybos kompetenciją, skundas ar jo dalis kartu su visais reikalingais dokumentais yra perduodamas kitai kompetentingai institucijai. Jei skunde dėl galimo [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) pažeidimo nurodytos aplinkybės patenka į kitos Europos Sąjungos valstybės narės kompetencijos sritį, kompetentingos institucijos perduoda skundą ar jo dalį įsisteigimo valstybės narės skaitmeninių paslaugų koordinatoriui. Kompetentingos institucijos apie skundo perdavimą informuoja paslaugos gavėją ir Ryšių reguliavimo tarnybą, jei skundą ar jo dalį perdavusi kompetentinga institucija nėra pati Ryšių reguliavimo tarnyba. Kompetentingų institucijų skundų perdavimo ir informavimo terminai nustatomi [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymo 11 straipsnio 4 dalyje]]. ^s-fad59a9b87799329e90b26dd
 
 
 2. Rašytinį skundą galima pateikti elektroninėmis priemonėmis, atsiųsti paštu arba pateikti tiesiogiai, atvykus į kompetentingą instituciją. Elektroninėmis priemonėmis pateiktas skundas turi būti pasirašytas kvalifikuotu elektroniniu parašu arba suformuotas elektroninėmis priemonėmis, kuriomis užtikrinamas teksto vientisumas ir nepakeičiamumas. ^s-57ffc18ccbf240d5e3590f9c
@@ -895,7 +895,7 @@ SKUNDŲ NAGRINĖJIMAS
 1) skunde nėra pateikta šio įstatymo [[#^s-cc11c9bce91629bb4801fa4a|34 straipsnio 3 dalyje]] nurodytų duomenų ir paslaugos gavėjas per kompetentingos institucijos nustatytą terminą trūkumų nepašalina; ^s-878c71cf003a432387979ae8
 
 
-2) skundas neatitinka Reglamento (ES) 2022/2065 53 straipsnio reikalavimų, t. y. skundas pateiktas ne dėl tarpininkavimo paslaugų teikėjo veiksmų ar neveikimo ir (ar) ne dėl galimo Reglamento (ES) 2022/2065 pažeidimo; ^s-09ed6392765aa98f43ac71f8
+2) skundas neatitinka [Reglamento (ES) 2022/2065 53 straipsnio](https://eur-lex.europa.eu/eli/reg/2022/2065/art_53/oj) reikalavimų, t. y. skundas pateiktas ne dėl tarpininkavimo paslaugų teikėjo veiksmų ar neveikimo ir (ar) ne dėl galimo [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) pažeidimo; ^s-09ed6392765aa98f43ac71f8
 
 
 3) skunde nurodytų aplinkybių nagrinėjimas nėra priskirtas nė vienos kompetentingos institucijos kompetencijai; ^s-28e5627f9fa2855f7914d981
@@ -913,7 +913,7 @@ SKUNDŲ NAGRINĖJIMAS
 7) skundas yra neįskaitomas, jame nesuprantamai išdėstytos aplinkybės ir neaiškiai suformuluotas prašymas kompetentingai institucijai; ^s-4b987858e36293d063d2a158
 
 
-8) nuo galimo Reglamento (ES) 2022/2065 pažeidimo iki skundo pateikimo kompetentingai institucijai dienos praėjo daugiau kaip 2 metai. ^s-ccbc8a87dfee3674a1855162
+8) nuo galimo [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) pažeidimo iki skundo pateikimo kompetentingai institucijai dienos praėjo daugiau kaip 2 metai. ^s-ccbc8a87dfee3674a1855162
 
 
 
@@ -923,7 +923,7 @@ SKUNDŲ NAGRINĖJIMAS
 Kompetentinga institucija priima sprendimą nutraukti skundo nagrinėjimą, jeigu nagrinėjant skundą:
 
 
-1) paaiškėja, kad yra šio įstatymo [[#^s-810221ef46df1b705b264526|35 straipsnio 5 dalies]] 2–6 ar 8 punktuose nurodytas (-i) pagrindas (-ai) atsisakyti nagrinėti skundą; ^s-003f2b46869d9b3ac5767f05
+1) paaiškėja, kad yra šio įstatymo [[#^s-810221ef46df1b705b264526|35 straipsnio 5 dalies]] [[#^s-09ed6392765aa98f43ac71f8|2]]–[[#^s-27341f2e09956b5d4dea0a23|6]] ar [[#^s-ccbc8a87dfee3674a1855162|8]] punktuose nurodytas (-i) pagrindas (-ai) atsisakyti nagrinėti skundą; ^s-003f2b46869d9b3ac5767f05
 
 
 2) skundą pateikęs paslaugos gavėjas be pagrįstos priežasties per 10 darbo dienų nepateikia kompetentingai institucijai reikalingų papildomų duomenų, be kurių neįmanoma išnagrinėti skundo; ^s-6390e1ded57a7238bd38130a
@@ -958,7 +958,7 @@ Kompetentinga institucija priima sprendimą nutraukti skundo nagrinėjimą, jeig
 2) atmesti skundą ar jo dalį kaip nepagrįstą. ^s-fab8a703015c20dae89a5691
 
 
-2. Kai skundas ar jo dalis pripažįstami pagrįstais, kompetentinga institucija teikia tarpininkavimo paslaugų teikėjui privalomus nurodymus nutraukti pažeidimą, skiria įspėjimą ir (ar) taiko kitas vykdymo užtikrinimo priemones, nurodytas Reglamento (ES) 2022/2065 51 straipsnio 2 ir [[#^s-0e1154c993eb1239cbafbf6e|3 dalyse]], šio įstatymo [[#^s-8914cce33225705e23096590|24 straipsnio]] 1–[[#^s-9335144c5366bb834c9f1164|4 dalyse]], 5 dalies 1–3 ir 6, 7 punktuose ir [[#^s-f2a9fe02c8df3c3d5a397140|25 straipsnyje]]. Jei kompetentinga institucija nusprendžia skirti baudą, ji tai atlieka šio įstatymo XI skyriuje nustatyta tvarka. ^s-5413cd8ad714033d66de02d1
+2. Kai skundas ar jo dalis pripažįstami pagrįstais, kompetentinga institucija teikia tarpininkavimo paslaugų teikėjui privalomus nurodymus nutraukti pažeidimą, skiria įspėjimą ir (ar) taiko kitas vykdymo užtikrinimo priemones, nurodytas [Reglamento (ES) 2022/2065 51 straipsnio](https://eur-lex.europa.eu/eli/reg/2022/2065/art_51/oj) 2 ir 3 dalyse, šio įstatymo [[#^s-8914cce33225705e23096590|24 straipsnio]] [[#^s-ec98a001d60e8b62309d5f67|1]]–[[#^s-0f640bbaaf0cefb87bb50551|4]] dalyse, 5 dalies 1–3 ir 6, 7 punktuose ir [[#^s-f2a9fe02c8df3c3d5a397140|25 straipsnyje]]. Jei kompetentinga institucija nusprendžia skirti baudą, ji tai atlieka šio įstatymo XI skyriuje nustatyta tvarka. ^s-5413cd8ad714033d66de02d1
 
 
 3. Kompetentinga institucija apie priimtą sprendimą ne vėliau kaip per 3 darbo dienas nuo sprendimo priėmimo dienos informuoja skundą pateikusį paslaugos gavėją ir skundžiamą tarpininkavimo paslaugų teikėją, išskyrus [[#^s-5413cd8ad714033d66de02d1|šio straipsnio 2 dalyje]] nurodytus atvejus, kai ketinama skirti baudą. ^s-0e1154c993eb1239cbafbf6e
@@ -976,7 +976,7 @@ BAUDŲ SKYRIMAS IR SPRENDIMŲ DĖL JŲ SKYRIMO VYKDYMAS
 ### 39 straipsnis. Baudų skyrimo tvarka ^s-741d9c8fb89bb0c3e88f5b37
 
 
-1. Kompetentingos institucijos baudas už Reglamento (ES) 2022/2065 ir šio įstatymo pažeidimus skiria, vadovaudamosi Reglamentu (ES) 2022/2065 ir šiuo įstatymu. ^s-0d76427603efb0700c343c2c
+1. Kompetentingos institucijos baudas už [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir šio įstatymo pažeidimus skiria, vadovaudamosi [Reglamentu (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir šiuo įstatymu. ^s-0d76427603efb0700c343c2c
 
 
 2. Bauda gali būti skiriama ne vėliau kaip per 5 metus nuo pažeidimo padarymo dienos, o kai padarytas trunkamasis pažeidimas, – nuo jo paaiškėjimo dienos. Jei kompetentingos institucijos sprendimas skirti baudą tarpininkavimo paslaugų teikėjui yra nagrinėjamas teisme, baudos skyrimo terminas šiuo atveju sustabdomas nuo skundo padavimo teismui dienos iki teismo sprendimo įsiteisėjimo dienos. ^s-ea7e6b25b32110ed34c64c2d
@@ -986,16 +986,16 @@ BAUDŲ SKYRIMAS IR SPRENDIMŲ DĖL JŲ SKYRIMO VYKDYMAS
 ### 40 straipsnis. Baudų skyrimas ^s-ccfef684d53fd0830b3c741b
 
 
-1. Ryšių reguliavimo tarnyba skiria iki 6 procentų tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą už Reglamento (ES) 2022/2065 pažeidimus, išskyrus Reglamento (ES) 2022/2065 14 straipsnio 3 dalies, 26, 27, 28, 30, 31 ir [[#^s-c4c30c06adc9e81c9dfd305c|32 straipsnių]] pažeidimus. ^s-e7a3a1072bb766c4980530d2
+1. Ryšių reguliavimo tarnyba skiria iki 6 procentų tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą už [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) pažeidimus, išskyrus [Reglamento (ES) 2022/2065 14 straipsnio 3 dalies](https://eur-lex.europa.eu/eli/reg/2022/2065/art_14/par_3/oj), [[#^s-768cd513bb12f41fa7988f05|26]], [[#^s-3d1fdac0dc0bc928c56fc7b1|27]], [[#^s-389899121955f6c4c4a226a1|28]], [[#^s-52c4e3452233240846f9376c|30]], [[#^s-56dce8985d630c562bfb729a|31]] ir [[#^s-c4c30c06adc9e81c9dfd305c|32]] straipsnių pažeidimus. ^s-e7a3a1072bb766c4980530d2
 
 
-2. Valstybinė duomenų apsaugos inspekcija skiria iki 6 procentų tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą už Reglamento (ES) 2022/2065 26 straipsnio 1 dalies d punkto ir [[#^s-582f8946bd5f42ce9d4f1142|3 dalies]], [[#^s-3d1fdac0dc0bc928c56fc7b1|27 straipsnio]], [[#^s-389899121955f6c4c4a226a1|28 straipsnio]] 2 ir [[#^s-582f8946bd5f42ce9d4f1142|3 dalių]] pažeidimus. ^s-046884c73e50ac16981951a6
+2. Valstybinė duomenų apsaugos inspekcija skiria iki 6 procentų tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą už [Reglamento (ES) 2022/2065 26 straipsnio 1 dalies d punkto](https://eur-lex.europa.eu/eli/reg/2022/2065/art_26/par_1/lit_d/oj) ir [[#^s-582f8946bd5f42ce9d4f1142|3 dalies]], [[#^s-3d1fdac0dc0bc928c56fc7b1|27 straipsnio]], [[#^s-389899121955f6c4c4a226a1|28 straipsnio]] 2 ir 3 dalių pažeidimus. ^s-046884c73e50ac16981951a6
 
 
-3. Valstybinė vartotojų teisių apsaugos tarnyba skiria iki 6 procentų tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą už Reglamento (ES) 2022/2065 [[#^s-f2a9fe02c8df3c3d5a397140|25 straipsnio]] (kai paslaugos gavėjai yra fiziniai asmenys), 26 straipsnio 1 dalies a–c punktų ir [[#^s-046884c73e50ac16981951a6|2 dalies]], 30–[[#^s-c4c30c06adc9e81c9dfd305c|32 straipsnių]] pažeidimus. ^s-582f8946bd5f42ce9d4f1142
+3. Valstybinė vartotojų teisių apsaugos tarnyba skiria iki 6 procentų tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą už [Reglamento (ES) 2022/2065 25 straipsnio](https://eur-lex.europa.eu/eli/reg/2022/2065/art_25/oj) (kai paslaugos gavėjai yra fiziniai asmenys), 26 straipsnio 1 dalies a–c punktų ir [[#^s-046884c73e50ac16981951a6|2 dalies]], [[#^s-52c4e3452233240846f9376c|30]]–[[#^s-c4c30c06adc9e81c9dfd305c|32]] straipsnių pažeidimus. ^s-582f8946bd5f42ce9d4f1142
 
 
-4. Žurnalistų etikos inspektoriaus tarnyba skiria iki 6 procentų tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą už Reglamento (ES) 2022/2065 14 straipsnio 3 dalies, 28 straipsnio 1 dalies pažeidimus. ^s-d2b4f7c4e174c422955b1945
+4. Žurnalistų etikos inspektoriaus tarnyba skiria iki 6 procentų tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą už [Reglamento (ES) 2022/2065 14 straipsnio 3 dalies](https://eur-lex.europa.eu/eli/reg/2022/2065/art_14/par_3/oj), 28 straipsnio 1 dalies pažeidimus. ^s-d2b4f7c4e174c422955b1945
 
 
 5. Kompetentingos institucijos taip pat skiria iki 6 procentų tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą ir už šiuos pažeidimus: ^s-627458b4e1687644e6db5bea
@@ -1007,7 +1007,7 @@ BAUDŲ SKYRIMAS IR SPRENDIMŲ DĖL JŲ SKYRIMO VYKDYMAS
 2) tarpininkavimo paslaugų teikėjui pateiktų nurodymų įgyvendinti taisomuosius veiksmus nevykdymą pagal šio įstatymo [[#^s-3443d31df7455786820bda71|24 straipsnio 3 dalies 2 punktą]]. ^s-3219317ef3336ce8ff969b1e
 
 
-6. Kompetentingos institucijos taip pat skiria iki 1 procento tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą ir už šiuos Reglamento (ES) 2022/2065 pažeidimus: ^s-f56ead375d85618859a46615
+6. Kompetentingos institucijos taip pat skiria iki 1 procento tarpininkavimo paslaugų teikėjo bendrųjų metinių pajamų praėjusiais finansiniais metais dydžio baudą ir už šiuos [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) pažeidimus: ^s-f56ead375d85618859a46615
 
 
 1) neteisingos, neišsamios ar klaidinančios informacijos pateikimą; ^s-41e029e738bbec32053d0e05
@@ -1029,7 +1029,7 @@ BAUDŲ SKYRIMAS IR SPRENDIMŲ DĖL JŲ SKYRIMO VYKDYMAS
 ### 41 straipsnis. Periodinių baudų skyrimas ^s-988887384e77babae4fe8b74
 
 
-1. Kompetentingos institucijos gali priimti sprendimą skirti tarpininkavimo paslaugos teikėjui periodinę iki 5 procentų bendrųjų metinių pajamų per dieną praėjusiais finansiniais metais už kiekvieną šių Reglamento (ES) 2022/2065 pažeidimų vykdymo (tęsimo) dieną dydžio baudą už: ^s-a7f7b3a5ca07e67c996dd6e5
+1. Kompetentingos institucijos gali priimti sprendimą skirti tarpininkavimo paslaugos teikėjui periodinę iki 5 procentų bendrųjų metinių pajamų per dieną praėjusiais finansiniais metais už kiekvieną šių [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) pažeidimų vykdymo (tęsimo) dieną dydžio baudą už: ^s-a7f7b3a5ca07e67c996dd6e5
 
 
 1) tarpininkavimo paslaugų teikėjo pagal šio įstatymo [[#^s-7208f8f367803a117371f2f8|24 straipsnio 3 dalies 1 punktą]] prisiimtų įsipareigojimų nesilaikymą; ^s-abca5abf65f63121b0abc938
@@ -1093,7 +1093,7 @@ BAUDŲ SKYRIMAS IR SPRENDIMŲ DĖL JŲ SKYRIMO VYKDYMAS
 6) bendradarbiavo su kompetentinga institucija; ^s-103182288e5a95110e79ac64
 
 
-7) laikėsi nacionaliniu ir Europos Sąjungos lygmeniu patvirtintų elgesio kodeksų, susijusių su padarytu pažeidimu, įskaitant elgesio kodeksus pagal Reglamento (ES) 2022/2065 45–47 straipsnius, ir pagal Reglamento (ES) 2022/2065 48 straipsnį patvirtintų krizės protokolų. ^s-8880e40e5057fb4331e3e0f9
+7) laikėsi nacionaliniu ir Europos Sąjungos lygmeniu patvirtintų elgesio kodeksų, susijusių su padarytu pažeidimu, įskaitant elgesio kodeksus pagal [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) [[#^s-77173c3ba55ca006fbd91e82|45]]–47 straipsnius, ir pagal [Reglamento (ES) 2022/2065 48 straipsnį](https://eur-lex.europa.eu/eli/reg/2022/2065/art_48/oj) patvirtintų krizės protokolų. ^s-8880e40e5057fb4331e3e0f9
 
 
 3. Atsakomybę lengvinančiomis aplinkybėmis gali būti laikomos ir kitos, [[#^s-a56d188f3efb4ff71b7b38b1|šio straipsnio 2 dalyje]] nenurodytos, aplinkybės, kurias kompetentingos institucijos pripažįsta atsakomybę lengvinančiomis aplinkybėmis. ^s-4f4a3c848ce83be699ebaaac
@@ -1117,20 +1117,20 @@ BAUDŲ SKYRIMAS IR SPRENDIMŲ DĖL JŲ SKYRIMO VYKDYMAS
 5) nevykdė prisiimtų ir kompetentingos institucijos patvirtintų įsipareigojimų pašalinti pažeidimą. ^s-ec459788fd6aa54293cbc8fb
 
 
-5. Atsakomybę sunkinančiomis aplinkybėmis gali būti laikomas toks pat Reglamento (ES) 2022/2065 ir šio įstatymo pažeidimas, padarytas pakartotinai, nepraėjus 2 metams nuo kompetentingos institucijos sprendimo dėl ankstesnio Reglamento (ES) 2022/2065 ir šio įstatymo pažeidimo įsigaliojimo dienos. ^s-e15844a1536aafa4ecffa567
+5. Atsakomybę sunkinančiomis aplinkybėmis gali būti laikomas toks pat [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir šio įstatymo pažeidimas, padarytas pakartotinai, nepraėjus 2 metams nuo kompetentingos institucijos sprendimo dėl ankstesnio [Reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) ir šio įstatymo pažeidimo įsigaliojimo dienos. ^s-e15844a1536aafa4ecffa567
 
 
-6. Baudos dydis nustatomas pagal šio įstatymo [[#^s-ccfef684d53fd0830b3c741b|40 straipsnio]] 1–[[#^s-5e581d8a374000fb56da3444|6 dalyse]] ir [[#^s-a7f7b3a5ca07e67c996dd6e5|41 straipsnio 1 dalyje]] nustatytas maksimalias baudų dydžių ribas. Pirmiausia apskaičiuojamas pradinis baudos dydis, lygus 50 procentų maksimalaus už pažeidimą galimos skirti baudos dydžio. Bazinis baudos dydis nustatomas, mažinant arba didinant pradinį baudos dydį, atsižvelgiant į [[#^s-aee0ee2a006898a300ebc3cf|šio straipsnio 1 dalyje]] nurodytas aplinkybes. Jeigu yra pagrindas, bazinis baudos dydis mažinamas arba didinamas, atsižvelgiant į atsakomybę lengvinančias ir sunkinančias aplinkybes. Jeigu nustatomos vien tik atsakomybę lengvinančios aplinkybės, bazinis baudos dydis mažinamas iki 50 procentų, o jeigu nustatomos vien tik atsakomybę sunkinančios aplinkybės, bazinis baudos dydis didinamas iki 50 procentų. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, baudos dydis nustatomas, atsižvelgiant į jų kiekį ir reikšmingumą. ^s-5e581d8a374000fb56da3444
+6. Baudos dydis nustatomas pagal šio įstatymo [[#^s-ccfef684d53fd0830b3c741b|40 straipsnio]] [[#^s-e7a3a1072bb766c4980530d2|1]]–[[#^s-f56ead375d85618859a46615|6]] dalyse ir [[#^s-a7f7b3a5ca07e67c996dd6e5|41 straipsnio 1 dalyje]] nustatytas maksimalias baudų dydžių ribas. Pirmiausia apskaičiuojamas pradinis baudos dydis, lygus 50 procentų maksimalaus už pažeidimą galimos skirti baudos dydžio. Bazinis baudos dydis nustatomas, mažinant arba didinant pradinį baudos dydį, atsižvelgiant į [[#^s-aee0ee2a006898a300ebc3cf|šio straipsnio 1 dalyje]] nurodytas aplinkybes. Jeigu yra pagrindas, bazinis baudos dydis mažinamas arba didinamas, atsižvelgiant į atsakomybę lengvinančias ir sunkinančias aplinkybes. Jeigu nustatomos vien tik atsakomybę lengvinančios aplinkybės, bazinis baudos dydis mažinamas iki 50 procentų, o jeigu nustatomos vien tik atsakomybę sunkinančios aplinkybės, bazinis baudos dydis didinamas iki 50 procentų. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, baudos dydis nustatomas, atsižvelgiant į jų kiekį ir reikšmingumą. ^s-5e581d8a374000fb56da3444
 
 
 
 ### 43 straipsnis. Baudų skyrimo procedūra ^s-8c37eaa1ad522fbb765b7ab5
 
 
-1. Kompetentinga institucija pažeidimo padarymu įtariamam tarpininkavimo paslaugų teikėjui ne vėliau kaip per 3 darbo dienas nuo preliminaraus sprendimo skirti baudą priėmimo dienos išsiunčia dokumentą, kuriame išdėstytas siūlymas skirti baudą. Pažeidimo padarymu įtariamas tarpininkavimo paslaugų teikėjas per kompetentingos institucijos nustatytą terminą, kuris negali būti trumpesnis kaip 10 darbo dienų nuo šio dokumento gavimo dienos, turi teisę raštu pateikti savo paaiškinimą dėl šiame dokumente išdėstytų aplinkybių ir nurodyti informaciją, kuri yra reikšminga kompetentingai institucijai priimant sprendimą dėl baudos skyrimo. Paaiškinimo ir kitos informacijos nepateikimas per šioje dalyje nurodytą terminą kompetentingoms institucijoms netrukdo priimti sprendimo dėl baudos skyrimo. ^s-04eff2837032432e52aae24f
+1. Kompetentinga institucija pažeidimo padarymu įtariamam tarpininkavimo paslaugų teikėjui ne vėliau kaip per 3 darbo dienas nuo preliminaraus sprendimo skirti baudą priėmimo dienos išsiunčia dokumentą, kuriame išdėstytas siūlymas skirti baudą. Pažeidimo padarymu įtariamas tarpininkavimo paslaugų teikėjas per kompetentingos institucijos nustatytą terminą, kuris negali būti trumpesnis kaip 10 darbo dienų nuo šio dokumento gavimo dienos, turi teisę raštu pateikti savo paaiškinimą dėl šiame dokumente išdėstytų aplinkybių ir nurodyti informaciją, kuri yra reikšminga kompetentingai institucijai priimant sprendimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo. Paaiškinimo ir kitos informacijos nepateikimas per šioje dalyje nurodytą terminą kompetentingoms institucijoms netrukdo priimti sprendimo [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo. ^s-04eff2837032432e52aae24f
 
 
-2. Kompetentinga institucija bylą dėl baudos skyrimo nagrinėja rašytinės procedūros tvarka pagal pateiktą paaiškinimą ir kitą savo turimą medžiagą. Bylą nagrinėjant rašytinės procedūros tvarka, posėdis nerengiamas. Byla gali būti nagrinėjama žodinės procedūros tvarka, jeigu kompetentinga institucija pažeidimo padarymu įtariamo tarpininkavimo paslaugų teikėjo prašymu arba savo iniciatyva dėl aplinkybių sudėtingumo ar kitų svarbių aplinkybių nusprendžia bylą nagrinėti žodinės procedūros tvarka, nes būtina išklausyti žodinį pažeidimo padarymu įtariamo asmens paaiškinimą, arba jeigu byla gali būti geriau išnagrinėta žodinės procedūros tvarka. Nagrinėjant bylą žodinės procedūros tvarka, pažeidimo padarymu įtariamam tarpininkavimo paslaugų teikėjui, skundą pateikusiam paslaugos gavėjui ir kitiems suinteresuotiems asmenims apie posėdžio, kuriame nagrinėjama byla, vietą, datą ir laiką turi būti pranešta ne vėliau kaip prieš 10 darbo dienų iki posėdžio dienos. ^s-6df07b1e8843b36add689430
+2. Kompetentinga institucija bylą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo nagrinėja rašytinės procedūros tvarka pagal pateiktą paaiškinimą ir kitą savo turimą medžiagą. Bylą nagrinėjant rašytinės procedūros tvarka, posėdis nerengiamas. Byla gali būti nagrinėjama žodinės procedūros tvarka, jeigu kompetentinga institucija pažeidimo padarymu įtariamo tarpininkavimo paslaugų teikėjo prašymu arba savo iniciatyva dėl aplinkybių sudėtingumo ar kitų svarbių aplinkybių nusprendžia bylą nagrinėti žodinės procedūros tvarka, nes būtina išklausyti žodinį pažeidimo padarymu įtariamo asmens paaiškinimą, arba jeigu byla gali būti geriau išnagrinėta žodinės procedūros tvarka. Nagrinėjant bylą žodinės procedūros tvarka, pažeidimo padarymu įtariamam tarpininkavimo paslaugų teikėjui, skundą pateikusiam paslaugos gavėjui ir kitiems suinteresuotiems asmenims apie posėdžio, kuriame nagrinėjama byla, vietą, datą ir laiką turi būti pranešta ne vėliau kaip prieš 10 darbo dienų iki posėdžio dienos. ^s-6df07b1e8843b36add689430
 
 
 3. Pažeidimo padarymu įtariamo tarpininkavimo paslaugų teikėjo ar jo atstovo neatvykimas į žodinį bylos nagrinėjimą netrukdo nagrinėti bylą, jeigu pažeidimo padarymu įtariamam tarpininkavimo paslaugų teikėjui apie posėdį dėl bylos nagrinėjimo buvo tinkamai pranešta ir jis nėra pateikęs įrodymų, kad negali atvykti dėl svarbių priežasčių, trukdančių dalyvauti posėdyje. ^s-2c9e1e31cb3040a44bec9944
@@ -1142,7 +1142,7 @@ BAUDŲ SKYRIMAS IR SPRENDIMŲ DĖL JŲ SKYRIMO VYKDYMAS
 5. Kompetentingos institucijos sprendimas skirti baudą ne vėliau kaip per 3 darbo dienas nuo šio sprendimo priėmimo dienos išsiunčiamas tarpininkavimo paslaugų teikėjui, dėl kurio šis sprendimas priimtas, ir skundą pateikusiam paslaugos gavėjui, jei toks yra. ^s-a8bbaa25f71b6289a8f73ed0
 
 
-6. Informaciją, susijusią su priimtu sprendimu skirti baudą tarpininkavimo paslaugų teikėjui, kompetentingos institucijos ne vėliau kaip per 3 darbo dienas perduoda Ryšių reguliavimo tarnybai, jeigu sprendimą dėl baudos skyrimo priimanti kompetentinga institucija nėra pati Ryšių reguliavimo tarnyba. ^s-176b85cbcdd6a4fe804af153
+6. Informaciją, susijusią su priimtu sprendimu skirti baudą tarpininkavimo paslaugų teikėjui, kompetentingos institucijos ne vėliau kaip per 3 darbo dienas perduoda Ryšių reguliavimo tarnybai, jeigu sprendimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo priimanti kompetentinga institucija nėra pati Ryšių reguliavimo tarnyba. ^s-176b85cbcdd6a4fe804af153
 
 
 7. Kompetentingos institucijos sprendimas skirti baudą gali būti skundžiamas Regionų administraciniam teismui [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-8f5e8a0531a175c3534351f7
@@ -1152,10 +1152,10 @@ BAUDŲ SKYRIMAS IR SPRENDIMŲ DĖL JŲ SKYRIMO VYKDYMAS
 ### 44 straipsnis. Sprendimo dėl baudos skyrimo vykdymas ^s-acf48996b118674516f76844
 
 
-1. Kompetentingos institucijos sprendimas dėl baudos skyrimo turi būti įvykdytas ne vėliau kaip per 3 mėnesius nuo dienos, kurią pažeidimą įvykdęs tarpininkavimo paslaugų teikėjas gavo sprendimą dėl baudos paskyrimo. ^s-a732dc38ce165ff1a45cb5c9
+1. Kompetentingos institucijos sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo turi būti įvykdytas ne vėliau kaip per 3 mėnesius nuo dienos, kurią pažeidimą įvykdęs tarpininkavimo paslaugų teikėjas gavo sprendimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) paskyrimo. ^s-a732dc38ce165ff1a45cb5c9
 
 
-2. Kompetentingos institucijos sprendimas dėl baudos skyrimo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Jis gali būti pateiktas vykdyti ne vėliau kaip per 5 metus nuo jo priėmimo dienos. ^s-de5763f35d79a04ccbae35fb
+2. Kompetentingos institucijos sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo yra vykdomasis dokumentas, vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Jis gali būti pateiktas vykdyti ne vėliau kaip per 5 metus nuo jo priėmimo dienos. ^s-de5763f35d79a04ccbae35fb
 
 
 
@@ -1195,13 +1195,13 @@ priedas
 1. 2000 m. birželio 8 d. Europos Parlamento ir Tarybos direktyva 2000/31/EB dėl kai kurių informacinės visuomenės paslaugų, ypač elektroninės komercijos, teisinių aspektų vidaus rinkoje (Elektroninės komercijos direktyva). ^s-bd207348a203c5493d83ca3a
 
 
-2. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004, su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771. ^s-e607aa5b18c001b7f57c5cef
+2. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas [Reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj), su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/771](https://eur-lex.europa.eu/eli/dir/2019/771/oj). ^s-e607aa5b18c001b7f57c5cef
 
 
-3. 2022 m. spalio 19 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2065 dėl bendrosios skaitmeninių paslaugų rinkos, kuriuo iš dalies keičiama Direktyva 2000/31/EB (Skaitmeninių paslaugų aktas). ^s-4e51d009d98844bcc2d245ef
+3. 2022 m. spalio 19 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) dėl bendrosios skaitmeninių paslaugų rinkos, kuriuo iš dalies keičiama Direktyva 2000/31/EB (Skaitmeninių paslaugų aktas). ^s-4e51d009d98844bcc2d245ef
 
 
-4. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1689, kuriuo nustatomos suderintos dirbtinio intelekto taisyklės ir iš dalies keičiami reglamentai (EB) Nr. 300/2008, (ES) Nr. 167/2013, (ES) Nr. 168/2013, (ES) 2018/858, (ES) 2018/1139 ir (ES) 2019/2144 ir direktyvos 2014/90/ES, (ES) 2016/797 ir (ES) 2020/1828 (Dirbtinio intelekto aktas). ^s-a364accf986941955ad700f4
+4. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2024/1689](https://eur-lex.europa.eu/eli/reg/2024/1689/oj), kuriuo nustatomos suderintos dirbtinio intelekto taisyklės ir iš dalies keičiami reglamentai (EB) Nr. 300/2008, (ES) Nr. 167/2013, (ES) Nr. 168/2013, (ES) 2018/858, (ES) 2018/1139 ir (ES) 2019/2144 ir direktyvos 2014/90/ES, (ES) 2016/797 ir (ES) 2020/1828 (Dirbtinio intelekto aktas). ^s-a364accf986941955ad700f4
 Papildyta straipsnio dalimi:
 Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
 
@@ -1231,7 +1231,7 @@ Nr. XI-2382, 2012-11-08, Žin., 2012, Nr. 136-6953 (2012-11-24), i. k. [[latest/
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2669, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25265
-Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 1, 4, 16, 17, 18, [[#^s-f31f24d7abd755a23db3811f|20 straipsnių]] pakeitimo ir [[#^s-4d26614ae230ca3723bcf69d|19 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 [[#^s-f45913c5afce97180d04507c|1]], [[#^s-9c5a27504fcd14f2932ca65a|4]], [[#^s-8e43b4a7bbc63816d20888ee|16]], [[#^s-e052f3983ece405f4a5f355b|17]], [[#^s-2030806c6dd5a7b820db4e64|18]], [[#^s-f31f24d7abd755a23db3811f|20]] straipsnių pakeitimo ir [[#^s-4d26614ae230ca3723bcf69d|19 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1241,7 +1241,7 @@ Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 [[#
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1364, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11184
-Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 4, 15, 16, 17, 18, 20, 21 ir [[#^s-c68795c4d8d28efc6fb0bbd5|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 [[#^s-9c5a27504fcd14f2932ca65a|4]], [[#^s-f26e3c12e577771e1f9ef926|15]], [[#^s-8e43b4a7bbc63816d20888ee|16]], [[#^s-e052f3983ece405f4a5f355b|17]], [[#^s-2030806c6dd5a7b820db4e64|18]], [[#^s-f31f24d7abd755a23db3811f|20]], [[#^s-585354be527735fd423aa731|21]] ir [[#^s-c68795c4d8d28efc6fb0bbd5|22]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1256,4 +1256,4 @@ Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 pak
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-106, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00716
-Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 1, 2, [[#^s-7e5039e5223ca24ca9aff762|23 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo Nr. X-614 [[#^s-f45913c5afce97180d04507c|1]], [[#^s-17108b7a8d31a69fde359d6d|2]], [[#^s-7e5039e5223ca24ca9aff762|23]] straipsnių ir priedo pakeitimo įstatymas

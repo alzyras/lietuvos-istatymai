@@ -259,7 +259,7 @@ VALSTYBĖS PARAMA ŪKIui
 ### 13 straipsnis. Valstybės parama ūkiui ^s-d4ed65d3c3e296838ac5f7b3
 
 
-1. Ūkiai, kurie Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka priskirti prie visiško ir dalinio užimtumo ūkių ir šio įstatymo nustatyta tvarka įregistruoti, turi teisę naudotis valstybės parama. Valstybės paramą nustato Žemės ūkio ekonominių santykių valstybinio reguliavimo įstatymas ir kiti teisės aktai. ^s-de88effa9e49d2c6b0fb83d1
+1. Ūkiai, kurie Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka priskirti prie visiško ir dalinio užimtumo ūkių ir šio įstatymo nustatyta tvarka įregistruoti, turi teisę naudotis valstybės parama. Valstybės paramą nustato [Žemės ūkio ekonominių santykių valstybinio reguliavimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.730BCFBF587B) ir kiti teisės aktai. ^s-de88effa9e49d2c6b0fb83d1
 
 
 2. Valstybės parama skiriama ūkio atkūrimui, įkūrimui ir jo veiklai, pirmenybę teikiant ūkiams, kuriuose ūkininkauja asmenys iki 40 metų ir aukštųjų bei kitų žemės ūkio mokyklų absolventai. ^s-ee8a94b66eab30ed3420aacf
@@ -293,7 +293,7 @@ Vyriausybė iki 1999 m. rugsėjo 1d. parengia su šiuo įstatymu susijusių įst
 ### 15 straipsnis. Įstatymo įsigaliojimas ^s-1f8df562c194208f0a5b57dc
 
 
-Šiam įstatymui įsigaliojus, netenka galios įstatymas „Dėl Lietuvos Respublikos valstiečio ūkio“ (Žin., 1989, Nr. 20-242) bei Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos valstiečio ūkio įstatymo įsigaliojimo tvarkos“ (Žin., 1989, Nr. 20-243).
+Šiam įstatymui įsigaliojus, netenka galios įstatymas [„Dėl Lietuvos Respublikos valstiečio ūkio“](https://e-tar.lt/portal/lt/legalAct/TAR.50CDAF4F8A19) (Žin., 1989, Nr. 20-242) bei Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos valstiečio ūkio įstatymo įsigaliojimo tvarkos“ (Žin., 1989, Nr. 20-243).
 
 
 

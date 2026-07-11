@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos statybos įstatymo 12, 14, 15, 16, 22, 23, 23
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.6286F15970B3|Lietuvos Respublikos branduolinės energijos įstatymas]] - 2 citatos - Branduolinės energijos įstatymo
+- [[latest/TAR.6286F15970B3|Lietuvos Respublikos branduolinės energijos įstatymas]] - Branduolinės energijos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F31E79DEC55D#^s-de3c166036f714f06b930d4d|Lietuvos Respublikos statybos įstatymas]] - Įstatymas Nr. XI-501
-- [[latest/TAR.F31E79DEC55D#^s-fc1e8595c1f7e7bb99d779cb|Lietuvos Respublikos statybos įstatymas]] - Įstatymas Nr. XI-501
+_Nėra._

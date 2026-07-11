@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-f5b8fd56b939ac8764d3ede3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. gegužės 13 d. dekretą Nr. 1771, ratifikuoja Lietuvos Respublikos ir Azerbaidžano Respublikos sutartį dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose, pasirašytą 2001 m. spalio 23 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. gegužės 13 d. dekretą Nr. 1771](https://e-tar.lt/portal/lt/legalAct/TAR.DC5E66DCCBB2), ratifikuoja Lietuvos Respublikos ir Azerbaidžano Respublikos sutartį dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose, pasirašytą 2001 m. spalio 23 d. Vilniuje.
 
 
 

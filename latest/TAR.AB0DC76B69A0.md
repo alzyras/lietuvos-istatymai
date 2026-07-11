@@ -102,7 +102,7 @@ Vilnius
 1. Konstitucinio Teismo teisėjams už darbą poilsio ir švenčių dienomis mokama, kai jie atlieka [[latest/TAR.DEEB2C5600E3|Lietuvos Respublikos Konstitucinio Teismo įstatyme]] nustatytas funkcijas, kurių iš anksto negalima suplanuoti ir numatyti ir kurių negalima atidėti kitai darbo dienai (toliau – neatidėliotini veiksmai). ^s-ce519dcb56c97a5206a2e473
 
 
-2. Bendrosios kompetencijos ir specializuotų teismų teisėjams už darbą poilsio ir švenčių dienomis mokama, kai jie atlieka [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekse]], Lietuvos Respublikos civilinio proceso kodekse ir kituose įstatymuose nustatytus neatidėliotinus veiksmus. ^s-d27036115f4dfbd511606bf4
+2. Bendrosios kompetencijos ir specializuotų teismų teisėjams už darbą poilsio ir švenčių dienomis mokama, kai jie atlieka [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekse]], [Lietuvos Respublikos civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir kituose įstatymuose nustatytus neatidėliotinus veiksmus. ^s-d27036115f4dfbd511606bf4
 
 
 3. Bendrosios kompetencijos ir specializuotų teismų teisėjams už budėjimą poilsio ir švenčių dienomis mokama, kai pagal bendrosios kompetencijos ar specializuoto teismo pirmininko ar jo įgalioto bendrosios kompetencijos ar specializuoto teismo teisėjo patvirtintą bendrosios kompetencijos ar specializuoto teismo teisėjų budėjimo grafiką bendrosios kompetencijos ar specializuoto teismo teisėjas turi būti nurodytoje vietoje (bendrosios kompetencijos ar specializuotame teisme arba namuose) poilsio ir švenčių dienomis, kad prireikus galėtų atlikti neatidėliotinus veiksmus. ^s-5e34dedb99c8b30a0e0ba80e
@@ -252,7 +252,7 @@ Nr. XI-235, 2009-04-28, Žin., 2009, Nr. 49-1940 (2009-04-30), i. k. [[latest/TA
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. XI-362, 2009-07-17, Žin., 2009, Nr. 91-3917 (2009-07-31), i. k. 1091010ISTA00XI-362
+Nr. XI-362, 2009-07-17, Žin., 2009, Nr. 91-3917 (2009-07-31), i. k. [1091010ISTA00XI-362](https://e-tar.lt/portal/lt/legalAct/TAR.339B71379DA7)
 [[latest/TAR.467B48ECFF5F|Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstatymas]]
 
 4.
@@ -267,8 +267,8 @@ Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pakeitimo įstat
 
 6.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2011-02-14, Žin., 2011, Nr. 20-967 (2011-02-17), i. k. 1111000NUTARG111145
-Dėl Lietuvos Respublikos teisėjų atlyginimų įstatymo (2008 m. lapkričio 6 d. redakcija) 4 straipsnio 2 dalies 2 punkto, 5 straipsnio 1 dalies, 6 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai
+2011-02-14, Žin., 2011, Nr. 20-967 (2011-02-17), i. k. [1111000NUTARG111145](https://e-tar.lt/portal/lt/legalAct/TAR.2D9A4E94A504)
+[Dėl Lietuvos Respublikos teisėjų atlyginimų įstatymo (2008 m. lapkričio 6 d. redakcija) 4 straipsnio 2 dalies 2 punkto, 5 straipsnio 1 dalies, 6 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/TAR.2D9A4E94A504)
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas

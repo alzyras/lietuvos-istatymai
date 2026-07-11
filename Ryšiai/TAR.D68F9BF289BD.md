@@ -13,6 +13,5 @@ pavadinimas: "Lietuvos Respublikos karių materialinės atsakomybės įstatymo 7
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F43F5ED5C4BB#^s-262ceb31c11c330a73d3e3b7|Lietuvos Respublikos karių materialinės atsakomybės įstatymas]] - 3 citatos - 1031010ISTA0IX-1421
-- [[latest/TAR.F43F5ED5C4BB#^s-c42875907075cccca7773fd7|Lietuvos Respublikos karių materialinės atsakomybės įstatymas]] - 1031010ISTA0IX-1421
+- [[latest/TAR.F43F5ED5C4BB#^s-262ceb31c11c330a73d3e3b7|Lietuvos Respublikos karių materialinės atsakomybės įstatymas]] - 2 citatos - 1031010ISTA0IX-1421
 - [[latest/TAR.F43F5ED5C4BB#^s-c66bf90f9f5f06491ac2a49e|Lietuvos Respublikos karių materialinės atsakomybės įstatymas]] - 1031010ISTA0IX-1421

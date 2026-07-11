@@ -79,7 +79,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 2. Leidimas dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo pažymėjimas neišduodamas, jeigu asmuo nėra patikimas ir lojalus Lietuvos valstybei: ^s-065f68c8fcf30ea491971ca0
 
 
-1) neatitinka bent vienos [[#^s-7428db04412dba41ead89077|šio straipsnio 1 dalies]] 1–[[#^s-ed6414ddd0a9c1bfc9a3300d|4 punktuose]] nurodytos sąlygos; ^s-60ea1092680b5dc6579adaae
+1) neatitinka bent vienos [[#^s-7428db04412dba41ead89077|šio straipsnio 1 dalies]] 1–[[#^s-ed6414ddd0a9c1bfc9a3300d|4]] punktuose nurodytos sąlygos; ^s-60ea1092680b5dc6579adaae
 
 
 2) nuolat gyveno Lietuvos Respublikoje, Europos Sąjungos ar NATO valstybėse narėse mažiau kaip 5 pastaruosius metus ir Paslapčių apsaugos koordinavimo komisija priėmė sprendimą neišduoti leidimo dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo pažymėjimo; ^s-b6092c57070c76d5ac869344

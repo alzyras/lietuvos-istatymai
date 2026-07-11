@@ -115,7 +115,7 @@ Pakeisti [[#^s-0378d177ea6cc73434bcc10a|20 straipsnį]] ir jį išdėstyti taip:
 5. Kompensacinis atlyginimas turi būti mokamas už šio Įstatymo 1 priede nustatytus pirmą kartą Lietuvos Respublikoje parduodamus civilinėje apyvartoje esančius, pagamintus Lietuvos Respublikoje ar į jos teritoriją įvežtus atgaminti asmeniniam naudojimui skirtus įrenginius (toliau šiame straipsnyje – įrenginiai) ir tuščias analogines ir skaitmenines garso ir audiovizualines laikmenas (toliau šiame straipsnyje – tuščios laikmenos). Kompensacinį atlyginimą privalo mokėti asmenys, parduodantys šiuos įrenginius ir tuščias laikmenas (toliau šiame straipsnyje – kompensacinio atlyginimo mokėtojai) Lietuvos Respublikoje. ^s-6ed60feef211bdaebc3b1d19
 
 
-6. Tuščių laikmenų ir įrenginių, už kuriuos turi būti mokamas kompensacinis atlyginimas, sąrašas ir kompensacinio atlyginimo tarifai, nustatyti šio Įstatymo 1 priede, turi būti peržiūrimi ne rečiau kaip kas dveji metai. Kitas kompensacinio atlyginimo mokėjimo sąlygas ir tvarką, atsižvelgdama į tai, ar taikomos, ar netaikomos šio Įstatymo 74 straipsnio 1 ir [[#^s-d02a15c3edffff9cd97d43c7|2 dalyse]] nustatytos techninės apsaugos priemonės, nustato Vyriausybė, suderinusi su kompensacinio atlyginimo mokėtojams atstovaujančiomis asociacijomis ir autorių teisių bei gretutinių teisių kolektyvinio administravimo asociacijomis. ^s-65e5ae72fe14d6f702c81962
+6. Tuščių laikmenų ir įrenginių, už kuriuos turi būti mokamas kompensacinis atlyginimas, sąrašas ir kompensacinio atlyginimo tarifai, nustatyti šio Įstatymo 1 priede, turi būti peržiūrimi ne rečiau kaip kas dveji metai. Kitas kompensacinio atlyginimo mokėjimo sąlygas ir tvarką, atsižvelgdama į tai, ar taikomos, ar netaikomos šio Įstatymo 74 straipsnio 1 ir 2 dalyse nustatytos techninės apsaugos priemonės, nustato Vyriausybė, suderinusi su kompensacinio atlyginimo mokėtojams atstovaujančiomis asociacijomis ir autorių teisių bei gretutinių teisių kolektyvinio administravimo asociacijomis. ^s-65e5ae72fe14d6f702c81962
 
 
 7. Sumokėtas kompensacinis atlyginimas Vyriausybės nustatyta tvarka grąžinamas šiais atvejais: ^s-f4db7d830e92a8469e32407a
@@ -171,7 +171,7 @@ Papildyti Įstatymą 201 straipsniu:
 4. Kompensacinis atlyginimas turi būti mokamas už atgaminimo reprografijos būdu paslaugas, teikiamas fiziniams asmenims, ir už šio Įstatymo 2 priede numatytus pirmą kartą Lietuvos Respublikoje parduodamus civilinėje apyvartoje esančius, pagamintus Lietuvos Respublikoje ar į jos teritoriją įvežtus atgaminti asmeniniam naudojimui skirtus reprografijos įrenginius (toliau šiame straipsnyje – reprografijos įrenginiai). Kompensacinį atlyginimą privalo mokėti asmenys, teikiantys reprografijos paslaugas, ir asmenys, parduodantys reprografijos įrenginius (toliau šiame straipsnyje – kompensacinio atlyginimo mokėtojai) Lietuvos Respublikoje. ^s-5073ce7ac3180d2bb2a6829c
 
 
-5. Reprografijos įrenginių, už kuriuos turi būti mokamas kompensacinis atlyginimas, sąrašas ir kompensacinio atlyginimo tarifai, nustatyti šio Įstatymo 2 priede, turi būti peržiūrimi ne rečiau kaip kas dveji metai. Kitas kompensacinio atlyginimo mokėjimo sąlygas ir tvarką, taip pat kompensacinio atlyginimo skaičiavimo, atsižvelgiant į tai, ar taikomos, ar netaikomos šio Įstatymo 74 straipsnio 1 ir [[#^s-1102f867905ef5596913cb7b|2 dalyse]] nustatytos techninės apsaugos priemonės, tvarką nustato Vyriausybė, suderinusi su kompensacinio atlyginimo mokėtojams atstovaujančiomis asociacijomis ir autorių teisių kolektyvinio administravimo asociacijomis. ^s-122830e6ce91dd0f71dc6384
+5. Reprografijos įrenginių, už kuriuos turi būti mokamas kompensacinis atlyginimas, sąrašas ir kompensacinio atlyginimo tarifai, nustatyti šio Įstatymo 2 priede, turi būti peržiūrimi ne rečiau kaip kas dveji metai. Kitas kompensacinio atlyginimo mokėjimo sąlygas ir tvarką, taip pat kompensacinio atlyginimo skaičiavimo, atsižvelgiant į tai, ar taikomos, ar netaikomos šio Įstatymo 74 straipsnio 1 ir 2 dalyse nustatytos techninės apsaugos priemonės, tvarką nustato Vyriausybė, suderinusi su kompensacinio atlyginimo mokėtojams atstovaujančiomis asociacijomis ir autorių teisių kolektyvinio administravimo asociacijomis. ^s-122830e6ce91dd0f71dc6384
 
 
 6. Už reprografijos įrenginius sumokėtas kompensacinis atlyginimas Vyriausybės nustatyta tvarka grąžinamas šiais atvejais: ^s-137dca2d9350b9e42bd9cfad
@@ -297,7 +297,7 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 „25 straipsnis. Kūrinių panaudojimas neįgaliems žmonėms skirtais būdais
 
 
-1. Be kūrinio autoriaus ar kito šio kūrinio autorių teisių subjekto leidimo ir be autorinio atlyginimo, tačiau nurodžius, jei tai įmanoma, naudojamą šaltinį ir autoriaus vardą, Vyriausybės įgaliotos institucijos patvirtintiems fiziniams ir juridiniams asmenims, atstovaujantiems neįgalių žmonių interesams, kai jie veikia nekomerciniais tikslais, leidžiama teisėtai išleistą ar viešai paskelbtą kūrinį naudoti nekomerciniais tikslais šio straipsnio 2 ir [[#^s-83902057309f84a575f0bc58|3 dalyse]] nurodytais būdais, jeigu tuo kūriniu galės naudotis ir prieigą prie jo turės tik neįgalūs žmonės, kiek tai pateisinama konkrečia negalia, išskyrus atvejus, kai tie kūriniai buvo specialiai sukurti šiam tikslui. ^s-467e2f33a97128609b31d418
+1. Be kūrinio autoriaus ar kito šio kūrinio autorių teisių subjekto leidimo ir be autorinio atlyginimo, tačiau nurodžius, jei tai įmanoma, naudojamą šaltinį ir autoriaus vardą, Vyriausybės įgaliotos institucijos patvirtintiems fiziniams ir juridiniams asmenims, atstovaujantiems neįgalių žmonių interesams, kai jie veikia nekomerciniais tikslais, leidžiama teisėtai išleistą ar viešai paskelbtą kūrinį naudoti nekomerciniais tikslais šio straipsnio [[#^s-5c5303ece7aae25f80179c91|2]] ir [[#^s-83902057309f84a575f0bc58|3]] dalyse nurodytais būdais, jeigu tuo kūriniu galės naudotis ir prieigą prie jo turės tik neįgalūs žmonės, kiek tai pateisinama konkrečia negalia, išskyrus atvejus, kai tie kūriniai buvo specialiai sukurti šiam tikslui. ^s-467e2f33a97128609b31d418
 
 
 2. [[#^s-467e2f33a97128609b31d418|Šio straipsnio 1 dalyje]] nustatyto apribojimo tikslais galima atgaminti, išleisti, adaptuoti ir viešai skelbti, įskaitant padarymą viešai prieinamos kompiuterių tinklais (internete), kūrinio garsinę versiją (taip pat ir elektroninės formos) ir versiją Brailio raštu. ^s-5c5303ece7aae25f80179c91
@@ -755,23 +755,23 @@ Buvusį Įstatymo priedą laikyti 3 priedu, jį pakeisti ir išdėstyti taip:
 7. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/116/EB dėl autorių ir tam tikrų gretutinių teisių apsaugos terminų (kodifikuota redakcija) (OL 2006 L 372, p. 12). ^s-ef7d3bb07e4aef44bcf9f35f
 
 
-8. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/24/EB dėl kompiuterių programų teisinės apsaugos (kodifikuota redakcija) (OL 2009 L 111, p. 16).“ ^s-6b29ccfab47eb60eb347a870
+8. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/24/EB [dėl kompiuterių programų](https://e-tar.lt/portal/lt/legalAct/TAR.39984DFA23C5) teisinės apsaugos (kodifikuota redakcija) (OL 2009 L 111, p. 16).“ ^s-6b29ccfab47eb60eb347a870
 
 
 
 ### 20 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-0378d177ea6cc73434bcc10a
 
 
-1. Šio įstatymo 4, 5, 10, 15, 17, [[#^s-5a86b075160ea99bce43238d|18 straipsniai]] įsigalioja 2012 m. kovo 1 d. ^s-95033bbc5834073a69fb5436
+1. Šio įstatymo [[#^s-f61ad95d66b635549a9089ea|4]], [[#^s-816865fe0ea23327ba03ffda|5]], [[#^s-2759a8da6243b6afff462213|10]], [[#^s-c2b9865e23dd2731a28da87a|15]], [[#^s-135e089fa3e7086fd74c112f|17]], [[#^s-5a86b075160ea99bce43238d|18]] straipsniai įsigalioja 2012 m. kovo 1 d. ^s-95033bbc5834073a69fb5436
 
 
 2. Šio įstatymo [[#^s-96de20bafdd353f3da322fc9|7 straipsnyje]] išdėstyto [[latest/TAR.551F0CDE5B64#^s-af2b8a5de75a48b245f9fe38|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 22 straipsnio 3 punktas]], taip pat šio įstatymo [[#^s-c2b9865e23dd2731a28da87a|15 straipsnyje]] išdėstyto [[latest/TAR.551F0CDE5B64#^s-9c6d6ef068c965858a08ca2e|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 58 straipsnio 1 dalies 3 punktas]] taikomi tik tų kūrinių ir gretutinių teisių objektų atžvilgiu, kurie išleisti ar kitaip viešai paskelbti po šio įstatymo įsigaliojimo. ^s-73c81e2bc6ff73fff1ff6d09
 
 
-3. Lietuvos Respublikos Vyriausybė iki šio įstatymo 4, 5, 10, 15, 17, [[#^s-5a86b075160ea99bce43238d|18 straipsnių]] įsigaliojimo parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^s-2873dbdbdf630536dae93866
+3. Lietuvos Respublikos Vyriausybė iki šio įstatymo [[#^s-f61ad95d66b635549a9089ea|4]], [[#^s-816865fe0ea23327ba03ffda|5]], [[#^s-2759a8da6243b6afff462213|10]], [[#^s-c2b9865e23dd2731a28da87a|15]], [[#^s-135e089fa3e7086fd74c112f|17]], [[#^s-5a86b075160ea99bce43238d|18]] straipsnių įsigaliojimo parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^s-2873dbdbdf630536dae93866
 
 
-4. Lietuvos Respublikos kultūros ministerija iki šio įstatymo 4, 5, 10, 15, 17, [[#^s-5a86b075160ea99bce43238d|18 straipsnių]] įsigaliojimo parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^s-7576cb0e9ba1112bafe8d687
+4. Lietuvos Respublikos kultūros ministerija iki šio įstatymo [[#^s-f61ad95d66b635549a9089ea|4]], [[#^s-816865fe0ea23327ba03ffda|5]], [[#^s-2759a8da6243b6afff462213|10]], [[#^s-c2b9865e23dd2731a28da87a|15]], [[#^s-135e089fa3e7086fd74c112f|17]], [[#^s-5a86b075160ea99bce43238d|18]] straipsnių įsigaliojimo parengia ir patvirtina šio įstatymo įgyvendinamuosius teisės aktus. ^s-7576cb0e9ba1112bafe8d687
 
 
 

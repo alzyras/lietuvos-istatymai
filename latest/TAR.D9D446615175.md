@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-6b9f337b6e4d837cb478d15f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. kovo 28 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Transeuropinio geležinkelio (TER) kredito fondo susitarimą dėl bendradarbiavimo“, ratifikuoja Transeuropinio geležinkelio (TER) kredito fondo susitarimą dėl bendradarbiavimo, pasirašytą 1998 m. spalio 23 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. kovo 28 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Transeuropinio geležinkelio (TER) kredito fondo susitarimą dėl bendradarbiavimo“](https://e-tar.lt/portal/lt/legalAct/TAR.7E0058492C8C), ratifikuoja Transeuropinio geležinkelio (TER) kredito fondo susitarimą dėl bendradarbiavimo, pasirašytą 1998 m. spalio 23 d. Vilniuje.
 
 
 

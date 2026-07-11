@@ -383,7 +383,7 @@ Papildyti [[#^s-dd3b250aab2d80a5e78e5de9|24 straipsnį 2 dalimi]] ir visą strai
 1. Leidimas gyventi Lietuvos Respublikoje (toliau – leidimas gyventi) suteikia teisę užsieniečiui gyventi Lietuvos Respublikoje, pasirinkti gyvenamąją vietą Lietuvos Respublikoje, ją keisti, išvykti iš Lietuvos Respublikos ir grįžti į ją leidimo gyventi galiojimo laikotarpiu. ^s-6d5294f36a5b2d762b4b5d96
 
 
-2. Leidime gyventi elektroniniu būdu fiksuojami užsieniečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus. Leidimo gyventi formą, vadovaudamasis Reglamentu (EB) Nr. 1030/2002, nustato vidaus reikalų ministras.“ ^s-aa3aac4c6c1f60472baf0bdf
+2. Leidime gyventi elektroniniu būdu fiksuojami užsieniečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus [Reglamente (EB) Nr. 1030/2002](https://eur-lex.europa.eu/eli/reg/1030/2002/oj) numatytus atvejus. Leidimo gyventi formą, vadovaudamasis [Reglamentu (EB) Nr. 1030/2002](https://eur-lex.europa.eu/eli/reg/1030/2002/oj), nustato vidaus reikalų ministras.“ ^s-aa3aac4c6c1f60472baf0bdf
 
 
 
@@ -393,7 +393,7 @@ Papildyti [[#^s-dd3b250aab2d80a5e78e5de9|24 straipsnį 2 dalimi]] ir visą strai
 1. Pakeisti [[#^s-f1f59255cceddc09cb897f4a|26 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-180e796af96fa1a3834574da
 
 
-„2. [[#^s-180e796af96fa1a3834574da|Šio straipsnio 1 dalies]] 2–5 punktuose nustatytos sąlygos teisės aktų nustatyta tvarka gali būti netaikomos užsieniečiui, kuriam yra nustatyta globa (rūpyba), jam leista pasilikti gyventi Lietuvos Respublikoje, kadangi jis yra ar buvo prekybos žmonėmis arba nelegalaus darbo auka ir bendradarbiauja su ikiteisminio tyrimo įstaiga arba teismu kovojant su prekyba žmonėmis ar su nusikaltimais, susijusiais su prekyba žmonėmis arba su nelegaliu darbu, kai dirbta ypatingai išnaudojamo darbo sąlygomis arba kai dirbo nepilnametis, arba dėl valstybės saugumo interesų.“
+„2. Šio straipsnio 1 dalies 2–5 punktuose nustatytos sąlygos teisės aktų nustatyta tvarka gali būti netaikomos užsieniečiui, kuriam yra nustatyta globa (rūpyba), jam leista pasilikti gyventi Lietuvos Respublikoje, kadangi jis yra ar buvo prekybos žmonėmis arba nelegalaus darbo auka ir bendradarbiauja su ikiteisminio tyrimo įstaiga arba teismu kovojant su prekyba žmonėmis ar su nusikaltimais, susijusiais su prekyba žmonėmis arba su nelegaliu darbu, kai dirbta ypatingai išnaudojamo darbo sąlygomis arba kai dirbo nepilnametis, arba dėl valstybės saugumo interesų.“
 
 
 2. Pakeisti 26 straipsnio 6 dalį ir ją išdėstyti taip: ^s-1691f5e142aa2782f478fa6b
@@ -432,7 +432,7 @@ Papildyti 37 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 1. Užsienio valstybės piliečiui, kuris turi teisę laikinai ar nuolat gyventi Lietuvos Respublikoje, tačiau neturi galiojančio užsienio valstybės piliečio paso ar jį atitinkančio kelionės dokumento arba jis yra pamestas ar sunaikintas, ir dėl objektyvių priežasčių negali jo gauti iš savo kilmės valstybės kompetentingų įstaigų, vidaus reikalų ministro nustatyta tvarka gali būti išduodamas užsieniečio pasas. ^s-249fab2d58269fb7eb826755
 
 
-2. Užsieniečio pase elektroniniu būdu fiksuojami užsieniečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 2252/2004 numatytus atvejus.“ ^s-665f9bf0e9cc02a6b7a7fe7a
+2. Užsieniečio pase elektroniniu būdu fiksuojami užsieniečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus [Reglamente (EB) Nr. 2252/2004](https://eur-lex.europa.eu/eli/reg/2252/2004/oj) numatytus atvejus.“ ^s-665f9bf0e9cc02a6b7a7fe7a
 
 
 
@@ -449,7 +449,7 @@ Papildyti [[#^s-b63e98f72ddbde0ebcc2fbf1|38 straipsnį 2 dalimi]] ir visą strai
 1. Užsienio valstybės pilietybės neturinčiam asmeniui, kuris turi teisę laikinai ar nuolat gyventi Lietuvos Respublikoje, tačiau neturi užsienio valstybėje galiojančio kelionės dokumento, vidaus reikalų ministro nustatyta tvarka gali būti išduodamas 1954 m. Konvencijoje dėl asmenų be pilietybės statuso numatytas asmens be pilietybės kelionės dokumentas. ^s-c71d0877e76fe9aa595de937
 
 
-2. Asmens be pilietybės kelionės dokumente elektroniniu būdu fiksuojami asmens be pilietybės biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 2252/2004 numatytus atvejus.“ ^s-f98ba46a852555770de690ab
+2. Asmens be pilietybės kelionės dokumente elektroniniu būdu fiksuojami asmens be pilietybės biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus [Reglamente (EB) Nr. 2252/2004](https://eur-lex.europa.eu/eli/reg/2252/2004/oj) numatytus atvejus.“ ^s-f98ba46a852555770de690ab
 
 
 
@@ -618,7 +618,7 @@ Papildyti Įstatymą 493 straipsniu:
 3. 53 straipsnio 3 dalyje vietoj skaičiaus ir žodžių „8 punkte numatytu pagrindu“ įrašyti skaičius ir žodžius „8 ir 81 punktuose nustatytais pagrindais“ ir šią dalį išdėstyti taip: ^s-715b610308b97274544fed53
 
 
-„3. Užsienietis, kuriam išduodamas leidimas nuolat gyventi, turi atitikti šio Įstatymo [[#^s-e1793fb12a9114504d081e8d|26 straipsnio 1 dalies]] 1–3 punktuose nustatytas sąlygas. Leidimą nuolat gyventi išduodant užsieniečiui [[#^s-c90215c367fd5f73718cbfb8|šio straipsnio 1 dalies]] 8 ir 81 punktuose nustatytais pagrindais, pragyventas laikotarpis apskaičiuojamas vidaus reikalų ministro nustatyta tvarka.“
+„3. Užsienietis, kuriam išduodamas leidimas nuolat gyventi, turi atitikti šio Įstatymo [[#^s-e1793fb12a9114504d081e8d|26 straipsnio 1 dalies]] [[#^s-dc3f9236e5869b39774f7f3c|1]]–[[#^s-6a03e2de445da667e7650176|3]] punktuose nustatytas sąlygas. Leidimą nuolat gyventi išduodant užsieniečiui [[#^s-c90215c367fd5f73718cbfb8|šio straipsnio 1 dalies]] 8 ir 81 punktuose nustatytais pagrindais, pragyventas laikotarpis apskaičiuojamas vidaus reikalų ministro nustatyta tvarka.“
 
 
 4. 53 straipsnio 6 dalyje vietoj skaičiaus ir žodžio „8 punkte“ įrašyti skaičius ir žodžius „8 ir 81 punktuose“ ir šią dalį išdėstyti taip: ^s-a6c26d7614b58ed1aa69f747
@@ -710,7 +710,7 @@ Papildyti Įstatymą 493 straipsniu:
 Pakeisti 89 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
-„3. Pabėgėliui, kuris nuolat gyvena Lietuvos Respublikoje, išvykti į užsienio valstybę vidaus reikalų ministro nustatyta tvarka išduodamas pabėgėlio kelionės dokumentas. Pabėgėlio kelionės dokumente elektroniniu būdu fiksuojami pabėgėlio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 2252/2004 numatytus atvejus.“
+„3. Pabėgėliui, kuris nuolat gyvena Lietuvos Respublikoje, išvykti į užsienio valstybę vidaus reikalų ministro nustatyta tvarka išduodamas pabėgėlio kelionės dokumentas. Pabėgėlio kelionės dokumente elektroniniu būdu fiksuojami pabėgėlio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus [Reglamente (EB) Nr. 2252/2004](https://eur-lex.europa.eu/eli/reg/2252/2004/oj) numatytus atvejus.“
 
 
 
@@ -770,7 +770,7 @@ Papildyti Įstatymą 981 straipsniu:
 1. Pakeisti 99 straipsnio 2 dalį ir ją išdėstyti taip: ^s-6d5b6f53ce0f220818b22655
 
 
-„2. Europos Sąjungos valstybės narės piliečio šeimos nariai, kurie nėra Europos Sąjungos valstybės narės piliečiai, atvykę gyventi į Lietuvos Respubliką ilgiau negu 3 mėnesiams per pusę metų, kartu su Europos Sąjungos valstybės narės piliečiu arba pas jį, privalo gauti Europos Sąjungos leidimo laikinai gyventi kortelę. Europos Sąjungos leidimo laikinai gyventi kortelėje elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio šeimos nario biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus.“
+„2. Europos Sąjungos valstybės narės piliečio šeimos nariai, kurie nėra Europos Sąjungos valstybės narės piliečiai, atvykę gyventi į Lietuvos Respubliką ilgiau negu 3 mėnesiams per pusę metų, kartu su Europos Sąjungos valstybės narės piliečiu arba pas jį, privalo gauti Europos Sąjungos leidimo laikinai gyventi kortelę. Europos Sąjungos leidimo laikinai gyventi kortelėje elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio šeimos nario biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus [Reglamente (EB) Nr. 1030/2002](https://eur-lex.europa.eu/eli/reg/1030/2002/oj) numatytus atvejus.“
 
 
 2. Pakeisti 99 straipsnio 3 dalį ir ją išdėstyti taip: ^s-fddb01523d6cf3a6f8d0b801
@@ -837,7 +837,7 @@ Pakeisti ir papildyti 101 straipsnį ir jį išdėstyti taip:
 3) yra studentas, moksleivis, stažuotojas, kvalifikacijos kėlimo kursų ar profesinių mokymų dalyvis, turi sau ir savo šeimos nariams, jeigu jie atvyksta kartu su juo arba pas jį, pakankamai išteklių pragyventi Lietuvos Respublikoje ir turi galiojantį sveikatos draudimą patvirtinantį dokumentą; ^s-d4f836721b6deac7d9461006
 
 
-4) yra Europos Sąjungos valstybės narės piliečio, turinčio teisę gyventi Lietuvos Respublikoje pagal šios dalies 1, 2 ir [[#^s-d4f836721b6deac7d9461006|3 punktus]], šeimos narys, kuris atvyksta kartu su juo arba pas jį. ^s-58f03ae185e982265447638e
+4) yra Europos Sąjungos valstybės narės piliečio, turinčio teisę gyventi Lietuvos Respublikoje pagal šios dalies [[#^s-3f6b8903db4b5e3080dff900|1]], [[#^s-756c3950eee35d044e7b5290|2]] ir [[#^s-d4f836721b6deac7d9461006|3]] punktus, šeimos narys, kuris atvyksta kartu su juo arba pas jį. ^s-58f03ae185e982265447638e
 
 
 2. Lietuvos Respublikos piliečio šeimos nariai, kurie nėra Europos Sąjungos valstybės narės piliečiai, turi teisę gauti Europos Sąjungos leidimo laikinai gyventi kortelę, kai atvyksta gyventi į Lietuvos Respubliką kartu su Lietuvos Respublikos piliečiu, pasinaudojusiu laisvo judėjimo Europos Sąjungoje teise, ar pas jį iš kitos Europos Sąjungos valstybės narės teritorijos. ^s-d02d97e74af3dde8c6a81042
@@ -846,7 +846,7 @@ Pakeisti ir papildyti 101 straipsnį ir jį išdėstyti taip:
 3. Europos Sąjungos valstybės narės piliečio šeimos nariai, kurie nėra Europos Sąjungos valstybės narės piliečiai, turi teisę gauti Europos Sąjungos leidimo laikinai gyventi kortelę, kai atvyksta gyventi į Lietuvos Respubliką ilgiau negu 3 mėnesius per pusę metų kartu su Europos Sąjungos valstybės narės piliečiu, turinčiu teisę gyventi Lietuvos Respublikoje pagal [[#^s-2dfde94652104cb989c9b0a3|šio straipsnio 1 dalies]] 1, 2 ir 3 punktus, arba pas jį. ^s-9ec2c05c940cbc31084224aa
 
 
-4. Šio straipsnio 2 ar [[#^s-9ec2c05c940cbc31084224aa|3 dalyje]] nurodytam Lietuvos Respublikos arba kitos Europos Sąjungos valstybės narės piliečio šeimos nariui Europos Sąjungos leidimo laikinai gyventi kortelė išduodama kaip: ^s-ab8d128362e464325aee1d65
+4. Šio straipsnio [[#^s-d02d97e74af3dde8c6a81042|2]] ar [[#^s-9ec2c05c940cbc31084224aa|3]] dalyje nurodytam Lietuvos Respublikos arba kitos Europos Sąjungos valstybės narės piliečio šeimos nariui Europos Sąjungos leidimo laikinai gyventi kortelė išduodama kaip: ^s-ab8d128362e464325aee1d65
 
 
 1) sutuoktiniui arba asmeniui, su kuriuo sudaryta registruotos partnerystės sutartis; ^s-cbfe9378c604874024ec3e89
@@ -942,7 +942,7 @@ Pakeisti 104 straipsnį ir jį išdėstyti taip:
 3. Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti išduodama vidaus reikalų ministro nustatytos formos pažyma. ^s-ae271db9f456c852a98bdb29
 
 
-4. Europos Sąjungos valstybės narės piliečio šeimos nariui, kuris nėra Europos Sąjungos valstybės narės pilietis, jo teisei nuolat gyventi Lietuvos Respublikoje patvirtinti išduodama Europos Sąjungos leidimo nuolat gyventi kortelė, kuri galioja 10 metų. Europos Sąjungos leidimo nuolat gyventi kortelėje elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio šeimos nario biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus. ^s-f850313002131cd02fef6dab
+4. Europos Sąjungos valstybės narės piliečio šeimos nariui, kuris nėra Europos Sąjungos valstybės narės pilietis, jo teisei nuolat gyventi Lietuvos Respublikoje patvirtinti išduodama Europos Sąjungos leidimo nuolat gyventi kortelė, kuri galioja 10 metų. Europos Sąjungos leidimo nuolat gyventi kortelėje elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio šeimos nario biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus [Reglamente (EB) Nr. 1030/2002](https://eur-lex.europa.eu/eli/reg/1030/2002/oj) numatytus atvejus. ^s-f850313002131cd02fef6dab
 
 
 5. Nebuvimo Lietuvos Respublikoje laikotarpis, viršijantis 6 mėnesius per metus, gali būti pagrindas nesuteikti teisės nuolat gyventi Lietuvos Respublikoje, išskyrus atvejus, kai nebuvimas Lietuvos Respublikoje yra susijęs su svarbiomis priežastimis (dėl nėštumo, gimdymo, sunkios ligos, studijų, profesinio mokymo arba paskyrimo į kitą Europos Sąjungos valstybę narę ar trečiąją valstybę ar kitais pagal [[#^s-bed58a515080cbf7c6e0908c|šio straipsnio 6 dalį]] nustatytais atvejais). ^s-376416acf737670b1b140378
@@ -1119,7 +1119,7 @@ Pakeisti 106 straipsnį ir jį išdėstyti taip:
 4. Jeigu panaikinama teisė gyventi Lietuvos Respublikoje Europos Sąjungos valstybės narės piliečiui, tokios teisės netenka ir jo šeimos nariai, išskyrus atvejus, kai jie turi teisę gyventi Lietuvos Respublikoje kitu šio Įstatymo nustatytu pagrindu. ^s-c459a70efd3f7f8b6e650d03
 
 
-5. Sprendimą dėl teisės gyventi Lietuvos Respublikoje panaikinimo [[#^s-77856e62e7afc07f1877e6c5|šio straipsnio 1 dalies 1 punkte]], 2 dalies 1 punkte ir [[#^s-95ae41b2f4be8862db8cf90c|3 dalyje]] numatytais pagrindais priima Vilniaus apygardos administracinis teismas, kitais šio straipsnio 1 ir [[#^s-d714e43172d4c1adce1f3eca|2 dalyse]] nurodytais atvejais – Migracijos departamentas. ^s-d78d01b557bf3b1becdc1e40
+5. Sprendimą dėl teisės gyventi Lietuvos Respublikoje panaikinimo [[#^s-77856e62e7afc07f1877e6c5|šio straipsnio 1 dalies 1 punkte]], 2 dalies 1 punkte ir [[#^s-95ae41b2f4be8862db8cf90c|3 dalyje]] numatytais pagrindais priima Vilniaus apygardos administracinis teismas, kitais šio straipsnio [[#^s-296b686d290b203a44d52283|1]] ir [[#^s-d714e43172d4c1adce1f3eca|2]] dalyse nurodytais atvejais – Migracijos departamentas. ^s-d78d01b557bf3b1becdc1e40
 
 
 6. Netekus teisės gyventi Lietuvos Respublikoje, Europos Sąjungos valstybės narės pilietis ir (ar) jo šeimos nariai įpareigojami išvykti iš Lietuvos Respublikos, o šio įpareigojimo neįvykdę arba [[#^s-77856e62e7afc07f1877e6c5|šio straipsnio 1 dalies 1 punkte]], 2 dalies 1 punkte ir [[#^s-95ae41b2f4be8862db8cf90c|3 dalyje]] numatytais atvejais jie yra išsiunčiami šio Įstatymo nustatyta tvarka.“ ^s-03ebf5d7da2c409d5243f06c
@@ -1337,10 +1337,10 @@ priedas
 2. 1990 m. birželio 19 d. Konvencija dėl 1985 m. birželio 14 d. Šengeno susitarimo, sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo (OL 2004 m. specialusis leidimas, 19 skyrius, 2 tomas, p. 9) su paskutiniais pakeitimais, padarytais 2010 m. kovo 25 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 265/2010 (OL 2010 L 85, p. 1). ^s-7eb977c6f020110088b3a745
 
 
-3. 2000 m. gruodžio 11 d. Tarybos reglamentas (EB) Nr. 2725/2000 dėl „Eurodac“ sistemos sukūrimo pirštų atspaudams lyginti siekiant veiksmingiau taikyti Dublino konvenciją (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 26). ^s-62a0c705beeea595eba47ba9
+3. 2000 m. gruodžio 11 d. Tarybos [reglamentas (EB) Nr. 2725/2000](https://eur-lex.europa.eu/eli/reg/2725/2000/oj) dėl „Eurodac“ sistemos sukūrimo pirštų atspaudams lyginti siekiant veiksmingiau taikyti Dublino konvenciją (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 26). ^s-62a0c705beeea595eba47ba9
 
 
-4. 2001 m. kovo 15 d. Tarybos reglamentas (EB) Nr. 539/2001, nustatantis trečiųjų šalių, kurių piliečiai, kirsdami išorines sienas, privalo turėti vizas, ir trečiųjų šalių, kurių piliečiams toks reikalavimas netaikomas, sąrašus (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 65), su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 30 d. Tarybos reglamentu (EB) Nr. 1244/2009 (OL 2009 L 336, p. 1). ^s-a89bbbd44de9e5f94d0678b9
+4. 2001 m. kovo 15 d. Tarybos reglamentas (EB) Nr. 539/2001, nustatantis trečiųjų šalių, kurių piliečiai, kirsdami išorines sienas, privalo turėti vizas, ir trečiųjų šalių, kurių piliečiams toks reikalavimas netaikomas, sąrašus (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 65), su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 30 d. Tarybos [reglamentu (EB) Nr. 1244/2009](https://eur-lex.europa.eu/eli/reg/1244/2009/oj) (OL 2009 L 336, p. 1). ^s-a89bbbd44de9e5f94d0678b9
 
 
 5. 2001 m. gegužės 28 d. Tarybos direktyva 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 107). ^s-5722039a680babb9ba20321d
@@ -1352,7 +1352,7 @@ priedas
 7. 2002 m. vasario 28 d. Tarybos reglamentas (EB) Nr. 407/2002, nustatantis konkrečias teisės normas dėl Tarybos reglamento Nr. 2725/2000 dėl „Eurodac“ sistemos sukūrimo pirštų atspaudams lyginti siekiant veiksmingiau taikyti Dublino konvenciją įgyvendinimo (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 192). ^s-3ca169d141925db4a480bf3e
 
 
-8. 2002 m. birželio 13 d. Tarybos reglamentas (EB) Nr. 1030/2002, nustatantis vienodą leidimų apsigyventi trečiųjų šalių piliečiams formą (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 3), su paskutiniais pakeitimais, padarytais 2008 m. balandžio 18 d. Tarybos reglamentu (EB) Nr. 380/2008 (OL 2009 L 115, p. 1). ^s-2dd3205b3f32889890d9401d
+8. 2002 m. birželio 13 d. Tarybos [reglamentas (EB) Nr. 1030/2002](https://eur-lex.europa.eu/eli/reg/1030/2002/oj), nustatantis vienodą leidimų apsigyventi trečiųjų šalių piliečiams formą (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 3), su paskutiniais pakeitimais, padarytais 2008 m. balandžio 18 d. Tarybos reglamentu (EB) Nr. 380/2008 (OL 2009 L 115, p. 1). ^s-2dd3205b3f32889890d9401d
 
 
 9. 2003 m. sausio 27 d. Tarybos direktyva 2003/9/EB, nustatanti minimalius prieglobsčio prašytojų priėmimo standartus (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 101). ^s-ab5c861f6069d146ee5329da
@@ -1370,7 +1370,7 @@ priedas
 13. 2004 m. vasario 23 d. Tarybos sprendimas 2004/191/EB, nustatantis finansinių skirtumų, atsirandančių dėl Direktyvos 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo taikymo, kompensavimo kriterijus ir praktines priemones (OL 2004 m. specialusis leidimas, 1 skyrius, 5 tomas, p. 25). ^s-2d2c0bd57f8984ac8ac6e7f2
 
 
-14. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą (EEB) Nr. 1612/68 ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 19 skyrius, 5 tomas, p. 46). ^s-427e98a5f272a53561d2a87a
+14. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti [Reglamentą (EEB) Nr. 1612/68](https://eur-lex.europa.eu/eli/reg/1612/68/oj) ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 19 skyrius, 5 tomas, p. 46). ^s-427e98a5f272a53561d2a87a
 
 
 15. 2004 m. balandžio 29 d. Tarybos direktyva 2004/81/EB dėl leidimo gyventi šalyje išdavimo trečiųjų šalių piliečiams, kurie yra prekybos žmonėmis aukos arba kurie dalyvavo vykdant nelegalios imigracijos skatinimo veiksmus, bendradarbiaujantiems su kompetentingomis institucijomis (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 69). ^s-ca14aee7345510e15dead5ab
@@ -1382,7 +1382,7 @@ priedas
 17. 2004 m. gruodžio 13 d. Tarybos direktyva 2004/114/EB dėl trečiosios šalies piliečių įleidimo studijų, mokinių mainų, neatlygintino stažavimosi ar savanoriškos tarnybos tikslais sąlygų (OL 2004 L 375, p. 12). ^s-fb6bc31f9ba809c0ca2c348e
 
 
-18. 2004 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 2252/2004 dėl valstybių narių išduodamų pasų ir kelionės dokumentų apsauginių savybių ir biometrikos standartų (OL 2004 L 385, p. 1) su paskutiniais pakeitimais, padarytais 2009 m. gegužės 28 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 444/2009 (OL 2009 L 142, p. 1). ^s-48d4d0db396dd74e739dc714
+18. 2004 m. gruodžio 13 d. Tarybos [reglamentas (EB) Nr. 2252/2004](https://eur-lex.europa.eu/eli/reg/2252/2004/oj) dėl valstybių narių išduodamų pasų ir kelionės dokumentų apsauginių savybių ir biometrikos standartų (OL 2004 L 385, p. 1) su paskutiniais pakeitimais, padarytais 2009 m. gegužės 28 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 444/2009 (OL 2009 L 142, p. 1). ^s-48d4d0db396dd74e739dc714
 
 
 19. 2005 m. spalio 12 d. Tarybos direktyva 2005/71/EB dėl konkrečios įleidimo trečiųjų šalių piliečiams atvykti mokslinių tyrimų tikslais tvarkos (OL 2005 L 289, p. 15). ^s-962eb494cd5bd87b04e41822

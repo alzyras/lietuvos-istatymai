@@ -259,7 +259,7 @@ Pakeisti [[#^s-797692bcbcf6476f0098c63e|17 straipsnį]] ir jį išdėstyti taip:
 1. Valstybinis auditas baigiamas įforminus valstybinio audito dokumentus. ^s-105bf3cbd6e247c29623bf01
 
 
-2. Dėl audito metu nustatytų reikšmingų teisės aktų pažeidimų priimamas administracinis aktas – sprendimas. ^s-1ee107be3cc97fd901a6b59c
+2. [Dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) metu nustatytų reikšmingų teisės aktų pažeidimų priimamas administracinis aktas – sprendimas. ^s-1ee107be3cc97fd901a6b59c
 
 
 3. Valstybės kontrolės sprendimus pagal audito ataskaitas priima valstybės kontrolierius ar jo pavaduotojai.“ ^s-43cbd8e4c2d0dc5b604a801f

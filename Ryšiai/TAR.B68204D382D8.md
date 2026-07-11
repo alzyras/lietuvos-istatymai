@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.3DF892F52616#^s-588bfb3be4b153bab84b08dd|Lietuvos Respublikos vertybinių popierių įstatymas]] - 2 citatos - VERTYBINIŲ POPIERIŲ ĮSTATYMO 48 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.3DF892F52616#^s-cd027da47d58529f791889b8|Lietuvos Respublikos vertybinių popierių įstatymas]] - 2 citatos - VERTYBINIŲ POPIERIŲ ĮSTATYMO 48 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.3DF892F52616#^s-588bfb3be4b153bab84b08dd|Lietuvos Respublikos vertybinių popierių įstatymas]] - VERTYBINIŲ POPIERIŲ ĮSTATYMO 48 STRAIPSNIO PAKEITIMO ĮSTATYMAS

@@ -13,6 +13,5 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.58146A37675A#^s-015809645c671a38c84698df|Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas]] - 3 citatos - 1061010ISTA000X-484
-- [[latest/TAR.58146A37675A#^s-080131fe6ee5ccdf913b15d3|Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas]] - 1061010ISTA000X-484
+- [[latest/TAR.58146A37675A#^s-015809645c671a38c84698df|Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas]] - 4 citatos - 1061010ISTA000X-484
 - [[latest/TAR.58146A37675A#^s-afcb8406e11b046c3c5a015d|Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymas]] - 1061010ISTA000X-484

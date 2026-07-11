@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos baudžiamojo proceso kodekso pakeitimo ir pap
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 4 citatos - Baudžiamojo proceso kodekso
+- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - Baudžiamojo proceso kodekso
 
 ## Šį įstatymą cituoja
 

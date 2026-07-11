@@ -81,7 +81,7 @@ Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 5 straipsnis. 14 straipsnio papildymas 13 ir 14 punktais ^s-86e2f92bd1215a8109f92040
 
 
-Papildyti 14 straipsnį 13  ir [[#^s-b066d7edba3cf4f5acbec9e4|14 punktais]]:
+Papildyti 14 straipsnį 13  ir 14 punktais:
 
 
 „13) asignavimus, numatytus Finansų ministerijai minimaliai mėnesinei algai ir bibliotekininkų darbo užmokesčiui padidinti, paskirstyti pagal asignavimų valdytojus;

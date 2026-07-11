@@ -61,7 +61,7 @@ Pakeisti 7 straipsnio 9 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. Įstatymo galiojimas ^s-35c47baa1fe35da1e91238c0
 
 
-Šio įstatymo 1 ir [[#^s-1d905b41cfed7ab5f26ac79d|2 straipsniai]] įsigalioja 2014 m. sausio 1 d. ir galioja iki 2014 m. gruodžio 31 d.
+Šio įstatymo [[#^s-c11355047a846873d025c13f|1]] ir [[#^s-1d905b41cfed7ab5f26ac79d|2]] straipsniai įsigalioja 2014 m. sausio 1 d. ir galioja iki 2014 m. gruodžio 31 d.
 
 
 

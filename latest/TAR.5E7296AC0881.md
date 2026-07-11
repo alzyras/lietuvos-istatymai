@@ -123,7 +123,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 7) atliekamas ikiteisminis tyrimas dėl eksportuotojo, importuotojo, vežėjo ar tarpininko, įtariamų karo nusikaltimais, nusikalstamomis veikomis žmogiškumui, Lietuvos valstybės nepriklausomybei, teritorijos vientisumui ir konstitucinei santvarkai, visuomenės saugumui, nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valdymo tvarkai, arba byla dėl šių nusikalstamų veikų perduota teismui, arba įsiteisėjęs apkaltinamasis teismo nuosprendis, teismo nutarimas, sprendimas, arba teismo sprendimu šie asmenys patraukti administracinėn atsakomybėn; ^s-3bae6dc330a93ebbd844c97d
 
 
-8) gauta kita, nei nurodyta [[#^s-457b8ad201c201dd7978f821|šio straipsnio 3 dalies]] 1 ir [[#^s-92fb136149504e2fb109b923|3 punktuose]], svarbi informacija, kuri nebuvo žinoma išduodant licenciją.“ ^s-935363a3b840f7c4759bcadb
+8) gauta kita, nei nurodyta [[#^s-457b8ad201c201dd7978f821|šio straipsnio 3 dalies]] [[#^s-f63e5593f543c4d14d3f589f|1]] ir [[#^s-92fb136149504e2fb109b923|3]] punktuose, svarbi informacija, kuri nebuvo žinoma išduodant licenciją.“ ^s-935363a3b840f7c4759bcadb
 
 
 
@@ -141,7 +141,7 @@ priedas
 
 
 
-1. 2000 m. birželio 22 d. Tarybos reglamentas (EB) Nr. 1334/2000, nustatantis Bendrijos dvejopo naudojimo objektų ir technologijų eksporto kontrolės režimą, su paskutiniais pakeitimais, padarytais 2006 m. vasario 27 d. Tarybos reglamentu (EB) Nr. 394/2006, iš dalies pakeičiančiu ir atnaujinančiu Reglamentą (EB) Nr. 1334/2000, nustatantį Bendrijos dvejopo naudojimo objektų ir technologijų eksporto kontrolės režimą. ^s-f02fb7778dc6b2ec64ec3a30
+1. 2000 m. birželio 22 d. Tarybos [reglamentas (EB) Nr. 1334/2000](https://eur-lex.europa.eu/eli/reg/1334/2000/oj), nustatantis Bendrijos dvejopo naudojimo objektų ir technologijų eksporto kontrolės režimą, su paskutiniais pakeitimais, padarytais 2006 m. vasario 27 d. Tarybos reglamentu (EB) Nr. 394/2006, iš dalies pakeičiančiu ir atnaujinančiu [Reglamentą (EB) Nr. 1334/2000](https://eur-lex.europa.eu/eli/reg/1334/2000/oj), nustatantį Bendrijos dvejopo naudojimo objektų ir technologijų eksporto kontrolės režimą. ^s-f02fb7778dc6b2ec64ec3a30
 
 
 2. 2003 m. birželio 23 d. Tarybos bendroji pozicija 2003/468/BUSP dėl tarpininkavimo ginklų prekyboje kontrolės.“ ^s-33fb88bd563d6cfca41739af

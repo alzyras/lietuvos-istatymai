@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos pašto įstatymo pakeitimo įstatymas"
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.9CD153214DD1|Lietuvos Respublikos pašto įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS PAŠTO ĮSTATYMAS
+- [[latest/TAR.9CD153214DD1|Lietuvos Respublikos pašto įstatymas]] - LIETUVOS RESPUBLIKOS PAŠTO ĮSTATYMAS
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9CD153214DD1#^s-b547e42e8cd19fd1be799427|Lietuvos Respublikos pašto įstatymas]] - Įstatymas Nr. IX-563
-- [[latest/TAR.9CD153214DD1#^s-fbc5276fc3a483be4256a17e|Lietuvos Respublikos pašto įstatymas]] - Įstatymas Nr. IX-563
+_Nėra._

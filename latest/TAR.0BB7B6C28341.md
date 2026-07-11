@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 8 straipsnio papildymas ir pakeitimas ^s-66a21ad46c8ab8c9d645ec03
 
 
-Papildyti 8 straipsnį naujais 22, 23, 24, 25, 26, 27 ir [[#^s-62d646ebc9f7bf8fd38380fc|28 punktais]], buvusį [[#^s-28446f10e152fee743b495a7|22 punktą]] laikyti [[#^s-2e5a6ad99381fd93f4203a25|29 punktu]] ir šį straipsnį išdėstyti taip:
+Papildyti 8 straipsnį naujais 22, 23, 24, 25, 26, 27 ir 28 punktais, buvusį [[#^s-28446f10e152fee743b495a7|22 punktą]] laikyti [[#^s-2e5a6ad99381fd93f4203a25|29 punktu]] ir šį straipsnį išdėstyti taip:
 
 
 „8 straipsnis. Valstybinės (perduotos savivaldybėms) funkcijos

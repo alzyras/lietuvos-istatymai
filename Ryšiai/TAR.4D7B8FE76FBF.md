@@ -9,10 +9,11 @@ pavadinimas: "Lietuvos Respublikos biudžeto sandaros įstatymo 5, 7, 35, 36, 37
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C99649764C64|Lietuvos Respublikos biudžeto sandaros įstatymo 5, 7, 35, 36, 37 straipsnių pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO 5, 7, 35, 36, 37 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - 2 citatos - Viešojo sektoriaus atskaitomybės įstatymas
+- [[latest/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 8 citatos - 35
+- [[latest/TAR.712BBBFA3D41#^s-14067964cfe08ca90ac4dc86|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - 7
+- [[latest/TAR.712BBBFA3D41#^s-ba8c11da7a813082562ac44f|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - 5
+- [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - Viešojo sektoriaus atskaitomybės įstatymas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.712BBBFA3D41#^s-01e0389549414ba0e1d70457|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - BIUDŽETO SANDAROS ĮSTATYMO 5, 7, 35, 36, 37 STRAIPSNIŲ PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.712BBBFA3D41#^s-673373647a7f57dbf0f2f530|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - BIUDŽETO SANDAROS ĮSTATYMO 5, 7, 35, 36, 37 STRAIPSNIŲ PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.712BBBFA3D41#^s-01e0389549414ba0e1d70457|Lietuvos Respublikos biudžeto sandaros įstatymas]] - BIUDŽETO SANDAROS ĮSTATYMO 5, 7, 35, 36, 37 STRAIPSNIŲ PAKEITIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS

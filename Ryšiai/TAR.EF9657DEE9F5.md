@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.55627FB64864#^s-afef7bcc4c7854672a060efc|Lietuvos Respublikos valstybės iždo įstatymas]] - 3 citatos - 0971010ISTAVIII-153
-- [[latest/TAR.55627FB64864#^s-fe62e5c883d97953106dc682|Lietuvos Respublikos valstybės iždo įstatymas]] - 3 citatos - 0971010ISTAVIII-153
+- [[latest/TAR.55627FB64864#^s-afef7bcc4c7854672a060efc|Lietuvos Respublikos valstybės iždo įstatymas]] - 2 citatos - 0971010ISTAVIII-153

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Papildomo protokolo ratifikavimas ^s-7f24842a89ea90be8cab8cb3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. kovo 31 d. dekretą Nr. 419, ratifikuoja 1978 m. kovo 15 d. Strasbūre priimtą Europos konvencijos dėl informacijos apie užsienio teisę papildomą protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. kovo 31 d. dekretą Nr. 419](https://e-tar.lt/portal/lt/legalAct/TAR.7DDF22E59A04), ratifikuoja 1978 m. kovo 15 d. Strasbūre priimtą Europos konvencijos dėl informacijos apie užsienio teisę papildomą protokolą.
 
 
 

@@ -553,7 +553,7 @@ SAUGIŲJŲ DOKUMENTŲ IR SAUGIŲJŲ DOKUMENTŲ BLANKŲ GAMYBOS REIKALAVIMAI
 3. Jei saugiųjų dokumentų ir saugiųjų dokumentų blankų gamyba yra susijusi su įslaptinta informacija, žymima slaptumo žymomis „Konfidencialiai“, „Slaptai“ ar „Visiškai slaptai“, gamintojas teisės aktų nustatyta tvarka privalo gauti įmonės patikimumą patvirtinantį pažymėjimą. Gamintojas, registruotas užsienio valstybėje, privalo pateikti užsakovui tos valstybės teisės aktų nustatyta tvarka išduotus dokumentus, kuriais patvirtinamas šio gamintojo patikimumas saugoti įslaptintą informaciją gaminant saugiuosius dokumentus ir saugiuosius dokumentų blankus. ^s-f73b8ecab03fcd691fb2d15e
 
 
-4. Šio straipsnio 1–[[#^s-f73b8ecab03fcd691fb2d15e|3 dalyse]] nurodytus dokumentus iš gamintojo, registruoto užsienio valstybėje, privalo gauti užsakovas. ^s-44dd01b5b4cda5472c3ac1bf
+4. Šio straipsnio [[#^s-ebeb31dcfedc80a8ec95f3bf|1]]–[[#^s-f73b8ecab03fcd691fb2d15e|3]] dalyse nurodytus dokumentus iš gamintojo, registruoto užsienio valstybėje, privalo gauti užsakovas. ^s-44dd01b5b4cda5472c3ac1bf
 
 
 5. Gamintojas privalo užtikrinti, kad saugiųjų dokumentų ir saugiųjų dokumentų blankų gamyba atitiktų jai keliamus reikalavimus, gaminami saugieji dokumentai ir saugieji dokumentų blankai atitiktų patvirtintą saugiųjų dokumentų ar saugiųjų dokumentų blankų etaloną ir kad saugiųjų dokumentų ar saugiųjų dokumentų blankų gamybos brokas nepatektų į apyvartą. ^s-309774f9555bc6bcd02e38d4

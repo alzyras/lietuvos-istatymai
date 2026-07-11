@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-2482de23cfbcaac01af19b87
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. sausio 13 d. dekretą Nr. 495, ratifikuoja Europos Bendrijos, jos valstybių narių ir Jungtinių Amerikos Valstijų 2004 m. birželio 26 d. pasirašytą Susitarimą dėl GALILEO ir GPS palydovinių navigacijos sistemų ir su jomis susijusių programų skatinimo, suteikimo ir naudojimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. sausio 13 d. dekretą Nr. 495](https://e-tar.lt/portal/lt/legalAct/TAR.F182D5DFB744), ratifikuoja Europos Bendrijos, jos valstybių narių ir Jungtinių Amerikos Valstijų 2004 m. birželio 26 d. pasirašytą Susitarimą dėl GALILEO ir GPS palydovinių navigacijos sistemų ir su jomis susijusių programų skatinimo, suteikimo ir naudojimo.
 
 
 

@@ -986,7 +986,7 @@ Nr. XIII-3122, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15365
 1. Valstybinės eismo saugumo užtikrinimo politikos įgyvendinimą kontroliuoja nuolatinė Valstybinė eismo saugumo komisija (toliau – Komisija). ^s-59cd363a759add34252e1d24
 
 
-2. Komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Vyriausybės patvirtintais Komisijos veiklos nuostatais ir kitais teisės aktais. ^s-3d8b8242933d068ca17ef2c2
+2. Komisija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Vyriausybės patvirtintais Komisijos veiklos nuostatais ir kitais teisės aktais. ^s-3d8b8242933d068ca17ef2c2
 
 
 3. Komisiją sudaro Ministras Pirmininkas, susisiekimo ministras, vidaus reikalų ministras, Finansų ministerijos atstovas, Sveikatos apsaugos ministerijos atstovas, Švietimo, mokslo ir sporto ministerijos atstovas bei Lietuvos savivaldybių asociacijos prezidentas. Komisijos pirmininkas yra Ministras Pirmininkas. ^s-a8d913948c12911bb10f8244
@@ -1897,7 +1897,7 @@ Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 4. Motorinės transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas privalo mokėti suteikti pirmąją pagalbą per eismo įvykį nukentėjusiems asmenims. ^s-ceb83c0112c50ab4e9472518
 
 
-5. Motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos vairuotojas privalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti galiojantį atitinkamai vairuotojo pažymėjimą ar dokumentą, patvirtinantį teisę vairuoti traktorius ir (ar) savaeiges mašinas arba karinei įrangai priskiriamas taktines ir logistines transporto priemones ar jų junginius su priekabomis, transporto priemonės registravimo, privalomosios techninės apžiūros dokumentus, M2, M3, N2, N3, O3, O4 klasių transporto priemonių ir T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5 kategorijų ratinių traktorių paskutinio techninio patikrinimo ataskaitą, transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimą (polisą) ir kitus Lietuvos Respublikos įstatymų ir KET nustatytus dokumentus (išskyrus šio straipsnio 6, 7 ir [[#^s-71db0214ededd77e2c8ee9e5|8 dalyse]] nurodytus atvejus, kai motorinės transporto priemonės ir (ar) priekabos vairuotojas neprivalo su savimi turėti atitinkamų dokumentų), taip pat leisti jam patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis. ^s-84c241b0118a6c2920dcbf5e
+5. Motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos vairuotojas privalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti galiojantį atitinkamai vairuotojo pažymėjimą ar dokumentą, patvirtinantį teisę vairuoti traktorius ir (ar) savaeiges mašinas arba karinei įrangai priskiriamas taktines ir logistines transporto priemones ar jų junginius su priekabomis, transporto priemonės registravimo, privalomosios techninės apžiūros dokumentus, M2, M3, N2, N3, O3, O4 klasių transporto priemonių ir T1b, T2b, T3b, T4.1b, T4.2b, T4.3b, T5 kategorijų ratinių traktorių paskutinio techninio patikrinimo ataskaitą, transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimą (polisą) ir kitus Lietuvos Respublikos įstatymų ir KET nustatytus dokumentus (išskyrus šio straipsnio [[#^s-a5d6e59da6ccc99f8e381403|6]], [[#^s-7811210d376d21fdca755ed2|7]] ir [[#^s-71db0214ededd77e2c8ee9e5|8]] dalyse nurodytus atvejus, kai motorinės transporto priemonės ir (ar) priekabos vairuotojas neprivalo su savimi turėti atitinkamų dokumentų), taip pat leisti jam patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis. ^s-84c241b0118a6c2920dcbf5e
 Straipsnio dalies pakeitimai:
 Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
 Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
@@ -1979,7 +1979,7 @@ Nr. XIII-974, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21733
 1. Keleivius vežti leidžiama tik tam skirtomis (arba specialiai tam pritaikytomis) transporto priemonėmis ir tik pagal konstrukciją žmonėms skirtose vietose. ^s-2c4141f62a9cad4081efa3df
 
 
-2. Vairuotojai, kurie verčiasi keleivių vežimu, privalo su savimi turėti Vyriausybės nustatyta tvarka išduotą galiojančią licencijos kortelę, o veždami keleivius reguliariais reisais nustatytais maršrutais, – ir nustatyta tvarka išduotą galiojantį leidimą ir tikrinančio pareigūno reikalavimu juos bei kitus dokumentus pateikti. Jeigu C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių, jų junginių su priekabomis vairuotojas verčiasi komerciniu krovinių arba keleivių vežimu ir jo vairuotojo pažymėjime prie atitinkamų kategorijų neįrašytas suderintas Europos Sąjungos kodas (95), šis vairuotojas tikrinančio pareigūno reikalavimu privalo pateikti vairuotojo kvalifikacijos kortelę arba vairuotojo liudijimą, kaip jis apibrėžtas 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1072/2009 dėl bendrųjų patekimo į tarptautinio krovinių vežimo kelių transportu rinką taisyklių. ^s-ae17e8bc543e84b4ab999968
+2. Vairuotojai, kurie verčiasi keleivių vežimu, privalo su savimi turėti Vyriausybės nustatyta tvarka išduotą galiojančią licencijos kortelę, o veždami keleivius reguliariais reisais nustatytais maršrutais, – ir nustatyta tvarka išduotą galiojantį leidimą ir tikrinančio pareigūno reikalavimu juos bei kitus dokumentus pateikti. Jeigu C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių, jų junginių su priekabomis vairuotojas verčiasi komerciniu krovinių arba keleivių vežimu ir jo vairuotojo pažymėjime prie atitinkamų kategorijų neįrašytas suderintas Europos Sąjungos kodas (95), šis vairuotojas tikrinančio pareigūno reikalavimu privalo pateikti vairuotojo kvalifikacijos kortelę arba vairuotojo liudijimą, kaip jis apibrėžtas 2009 m. spalio 21 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1072/2009](https://eur-lex.europa.eu/eli/reg/1072/2009/oj) dėl bendrųjų patekimo į tarptautinio krovinių vežimo kelių transportu rinką taisyklių. ^s-ae17e8bc543e84b4ab999968
 Straipsnio dalies pakeitimai:
 Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
@@ -1992,7 +1992,7 @@ Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
 
 5. C1, C1E, C, CE, D1, D1E, D, DE kategorijų motorinių transporto priemonių, jų junginių su priekabomis vairuotojai, ketinantys verstis komerciniu krovinių arba keleivių vežimu, privalo nustatyta tvarka įgyti vairuotojo kvalifikaciją ir ją periodiškai tobulinti. ^s-f58ca65a9a105b2d76a7e595
-TAR pastaba. Vairuotojams, kurie teisę vairuoti D1, D1E, D ar DE kategorijų motorines transporto priemones, jų junginius su priekabomis įgijo iki 2008 m. rugsėjo 9 d. (įskaitytinai), ir vairuotojams, kurie teisę vairuoti C1, C1E, C ar CE kategorijų motorines transporto priemones, jų junginius su priekabomis įgijo iki 2009 m. rugsėjo 9 d. (įskaitytinai), [[#^s-f58ca65a9a105b2d76a7e595|14 straipsnio 5 dalyje]] nustatytas reikalavimas įgyti vairuotojo kvalifikaciją netaikomas. Vairuotojai, įgiję teisę vairuoti šioje dalyje nurodytų kategorijų transporto priemones iki šioje dalyje nurodytų datų, pageidaujantys vežti krovinius ir (ar) keleivius komerciniais tikslais, privalo užbaigti periodinį profesinį vairuotojų mokymą.
+TAR pastaba. Vairuotojams, kurie teisę vairuoti D1, D1E, D ar DE kategorijų motorines transporto priemones, jų junginius su priekabomis įgijo iki 2008 m. rugsėjo 9 d. (įskaitytinai), ir vairuotojams, kurie teisę vairuoti C1, C1E, C ar CE kategorijų motorines transporto priemones, jų junginius su priekabomis įgijo iki 2009 m. rugsėjo 9 d. (įskaitytinai), 14 straipsnio 5 dalyje nustatytas reikalavimas įgyti vairuotojo kvalifikaciją netaikomas. Vairuotojai, įgiję teisę vairuoti šioje dalyje nurodytų kategorijų transporto priemones iki šioje dalyje nurodytų datų, pageidaujantys vežti krovinius ir (ar) keleivius komerciniais tikslais, privalo užbaigti periodinį profesinį vairuotojų mokymą.
 Papildyta straipsnio dalimi:
 Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 
@@ -2259,7 +2259,7 @@ Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 4. Leidimų naudoti mėlynus ir raudonus švyturėlius ir specialiuosius garso signalus išdavimo ir naudojimo tvarką nustato Vyriausybė. ^s-ff199b727c15573c20bf0560
 
 
-5. Šio straipsnio 1, 2 ir [[#^s-a5c7da64af469ea4f2d3a9d5|3 dalyse]] nustatytas teises ir pareigas taip pat turi Europos Sąjungos valstybių narių, asocijuotų Šengeno valstybių ir Šiaurės Atlanto sutarties organizacijos (NATO) valstybių specialiųjų transporto priemonių vairuotojai, kai jie Lietuvos Respublikos tarptautinių sutarčių ar kitų susitarimų nustatytais atvejais ir tvarka vykdo tarnybines pareigas Lietuvos Respublikos teritorijoje. ^s-df1210bc8fabe7418d646636
+5. Šio straipsnio [[#^s-e1eea84a9088d9f289ec2b4b|1]], [[#^s-f0c73ea99c184fd5227529c0|2]] ir [[#^s-a5c7da64af469ea4f2d3a9d5|3]] dalyse nustatytas teises ir pareigas taip pat turi Europos Sąjungos valstybių narių, asocijuotų Šengeno valstybių ir Šiaurės Atlanto sutarties organizacijos (NATO) valstybių specialiųjų transporto priemonių vairuotojai, kai jie Lietuvos Respublikos tarptautinių sutarčių ar kitų susitarimų nustatytais atvejais ir tvarka vykdo tarnybines pareigas Lietuvos Respublikos teritorijoje. ^s-df1210bc8fabe7418d646636
 Straipsnio dalies pakeitimai:
 Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 
@@ -2299,7 +2299,7 @@ Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 
 
 
-3. Transporto priemonės savininkas ar valdytojas rūpinasi ir atsako už jam nuosavybės ar kita teise priklausančią transporto priemonę. Perleidžiant nuosavybės teisę, motorinė transporto priemonė ir (ar) priekaba privalo turėti galiojantį unikalų motorinės transporto priemonės ir (ar) priekabos deklaravimo kodą. Motorinės transporto priemonės ir (ar) priekabos (išskyrus naują transporto priemonę, kuri anksčiau nebuvo registruota) savininkas ar valdytojas viešo pasiūlymo įsigyti motorinę transporto priemonę ir (ar) priekabą metu privalo skelbti šio straipsnio 1 ir [[#^s-556791c2338c323c0d0dd0ad|2 dalyse]] nustatytais atvejais deklaruotoms motorinėms transporto priemonėms ir (ar) priekaboms suteiktą galiojantį unikalų motorinės transporto priemonės ir (ar) priekabos deklaravimo kodą. ^s-6bd342148b6faa8cd4debabe
+3. Transporto priemonės savininkas ar valdytojas rūpinasi ir atsako už jam nuosavybės ar kita teise priklausančią transporto priemonę. Perleidžiant nuosavybės teisę, motorinė transporto priemonė ir (ar) priekaba privalo turėti galiojantį unikalų motorinės transporto priemonės ir (ar) priekabos deklaravimo kodą. Motorinės transporto priemonės ir (ar) priekabos (išskyrus naują transporto priemonę, kuri anksčiau nebuvo registruota) savininkas ar valdytojas viešo pasiūlymo įsigyti motorinę transporto priemonę ir (ar) priekabą metu privalo skelbti šio straipsnio [[#^s-e58ba53225ed2c5bdc8a74a4|1]] ir [[#^s-556791c2338c323c0d0dd0ad|2]] dalyse nustatytais atvejais deklaruotoms motorinėms transporto priemonėms ir (ar) priekaboms suteiktą galiojantį unikalų motorinės transporto priemonės ir (ar) priekabos deklaravimo kodą. ^s-6bd342148b6faa8cd4debabe
 Straipsnio dalies pakeitimai:
 Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
 
@@ -2393,7 +2393,7 @@ Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
 
 
 5. Pradedantiesiems vairuotojams išduodamas 3 metus galiojantis vairuotojo pažymėjimas, kurį jie vidaus reikalų ministro ar jo įgaliotos institucijos nustatyta tvarka po 2 metų nuo jo išdavimo dienos turės teisę pakeisti į 10 metų galiojantį vairuotojo pažymėjimą nebaigę papildomo vairuotojų mokymo, jeigu per 2 metus nuo pradedantiesiems vairuotojams išduodamo vairuotojo pažymėjimo išdavimo dienos nepažeidė KET reikalavimo (reikalavimų), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, arba nesukėlė eismo įvykio, dėl kurio buvo sutrikdyta eismo dalyvio sveikata (išskyrus atvejus, kai eismo įvykis sukeltas esant baudžiamąją atsakomybę šalinančioms aplinkybėms arba aplinkybėms, kai asmuo netraukiamas administracinėn atsakomybėn). Vairuotojas, kuris, būdamas pradedantysis vairuotojas, pažeidė KET reikalavimą (reikalavimus), už kurį (kuriuos) šiame įstatyme numatytas papildomas vairuotojų mokymas, arba sukėlė eismo įvykį, dėl kurio buvo sutrikdyta eismo dalyvio sveikata (išskyrus atvejus, kai eismo įvykis sukeltas esant baudžiamąją atsakomybę šalinančioms aplinkybėms arba aplinkybėms, kai asmuo netraukiamas administracinėn atsakomybėn), papildomą vairuotojų mokymą privalo baigti per vienus metus nuo nutarimo (teismo nuosprendžio), kuriuo asmuo pripažintas padariusiu teisės pažeidimą, įsiteisėjimo dienos ar nuo administracinio nurodymo, surašyto padarius administracinį nusižengimą, įvykdymo dienos. Tais atvejais, kai teismo nuosprendžiu ar baudžiamuoju įsakymu skiriamas areštas arba terminuotas laisvės atėmimas ir paskirtos bausmės vykdymas neatidėtas, papildomą vairuotojų mokymą privaloma baigti per vienus metus nuo paskirtos bausmės atlikimo. ^s-6ef6532fbb6a4adebeeda73e
-TAR pastaba. [[#^s-6ef6532fbb6a4adebeeda73e|22 straipsnio 5 dalies]] nuostatos pradedantiesiems vairuotojams, kuriems vairuotojo pažymėjimas išduotas iki [[latest/a7761ab0d81811e8a1baff673bb7216a|įstatymo Nr. XIII-1539]] įsigaliojimo dienos (2019-04-01), netaikomos.
+TAR pastaba. 22 straipsnio 5 dalies nuostatos pradedantiesiems vairuotojams, kuriems vairuotojo pažymėjimas išduotas iki [[latest/a7761ab0d81811e8a1baff673bb7216a|įstatymo Nr. XIII-1539]] įsigaliojimo dienos (2019-04-01), netaikomos.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1539, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16597
 
@@ -2640,7 +2640,7 @@ Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
 4. Vairuotojo pažymėjimu patvirtinta teisė vairuoti: ^s-6cfddb3af9903e59f17a0d92
 
 
-1) [[#^s-07971b097ad5ce80259d3226|šio straipsnio 2 dalies]] 2–16 punktuose nurodytų kategorijų transporto priemones taip pat suteikia teisę vairuoti AM kategorijos transporto priemones; ^s-18fa89bd104a77670ef93b22
+1) [[#^s-07971b097ad5ce80259d3226|šio straipsnio 2 dalies]] [[#^s-b759f331b8dc652fc4dab0a3|2]]–16 punktuose nurodytų kategorijų transporto priemones taip pat suteikia teisę vairuoti AM kategorijos transporto priemones; ^s-18fa89bd104a77670ef93b22
 
 
 2) A2 kategorijos transporto priemones suteikia teisę vairuoti ir A1 kategorijos transporto priemones; ^s-b759f331b8dc652fc4dab0a3
@@ -3034,7 +3034,7 @@ Motorinių transporto priemonių ir (ar) priekabų savininkų ir valdytojų nust
 2) motorinės transporto priemonės ir (ar) priekabos modelį; ^s-d13f46289c73e946f93b6e44
 
 
-3) šio įstatymo [[#^s-bab56feb898a25992ea0dfd9|20 straipsnio]] 1 ir 2 dalyse nustatytais deklaravimo atvejais motorinėms transporto priemonėms ir (ar) priekaboms suteiktą ir galiojantį unikalų motorinės transporto priemonės ir (ar) priekabos deklaravimo kodą ir kodo būseną (galiojantis ar negaliojantis); ^s-bd2af2202be309796155f620
+3) šio įstatymo [[#^s-bab56feb898a25992ea0dfd9|20 straipsnio]] [[#^s-e58ba53225ed2c5bdc8a74a4|1]] ir [[#^s-556791c2338c323c0d0dd0ad|2]] dalyse nustatytais deklaravimo atvejais motorinėms transporto priemonėms ir (ar) priekaboms suteiktą ir galiojantį unikalų motorinės transporto priemonės ir (ar) priekabos deklaravimo kodą ir kodo būseną (galiojantis ar negaliojantis); ^s-bd2af2202be309796155f620
 
 
 4) apie nuosavybės teisės į motorinės transporto priemonės ir (ar) priekabos įgijimo arba perleidimo, įvežimo į Lietuvos Respublikos teritoriją deklaravimo datą; ^s-3d6bbea0b8f0b5f2335c4f9f
@@ -3078,7 +3078,7 @@ Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
 
 
 
-2. Šio įstatymo [[#^s-033a674667734cf03e42758f|25 straipsnio]] 6 ir [[#^s-7b2173cd510ecbd006910e8b|7 dalyse]] nurodytais atvejais motorinių transporto priemonių, priekabų valdytojai privalo pateikti jas privalomajai neeilinei techninei apžiūrai. ^s-4947124b1d2742c2c0b7f10c
+2. Šio įstatymo [[#^s-033a674667734cf03e42758f|25 straipsnio]] [[#^s-d110302fbfd1f1c50f7cf496|6]] ir [[#^s-f0163bd76444a6505d7557f0|7]] dalyse nurodytais atvejais motorinių transporto priemonių, priekabų valdytojai privalo pateikti jas privalomajai neeilinei techninei apžiūrai. ^s-4947124b1d2742c2c0b7f10c
 
 
 3. Naujos motorinės transporto priemonės ir priekabos laikotarpiu nuo transporto priemonės pirmo registravimo datos iki pirmos privalomosios techninės apžiūros dalyvauja viešajame eisme be privalomosios techninės apžiūros (išskyrus vienetinės gamybos transporto priemones). ^s-449a2dfc6e628e0da12e6c84
@@ -3281,22 +3281,22 @@ saugaus eismo automobilių keliais įstatymo
 
 
 
-1. Konvencija dėl eismo įvykiams taikytinos teisės, sudaryta 1971 m. gegužės 4 d. Hagoje. ^s-1a7156dda9dd1debe0d25861
+1. [Konvencija dėl eismo įvykiams taikytinos teisės](https://e-tar.lt/portal/lt/legalAct/TAR.6CE885E45531), sudaryta 1971 m. gegužės 4 d. Hagoje. ^s-1a7156dda9dd1debe0d25861
 
 
 2. 1998 m. birželio 4 d. Tarybos rekomendacija 98/376/EB dėl neįgalių asmenų automobilių statymo kortelių. ^s-e0765f7d835173b5ee7c29fe
 
 
-3. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva 2003/59/EB dėl tam tikrų kelių transporto priemonių kroviniams ir keleiviams vežti vairuotojų pradinės kvalifikacijos ir periodinio mokymo, iš dalies keičianti Tarybos reglamentą (EEB) Nr. 3820/85 ir Tarybos direktyvą 91/439/EEB bei panaikinanti Tarybos direktyvą 76/914/EEB, su paskutiniais pakeitimais, padarytais 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/645. ^s-6f98698a1cbab1ec8a56edca
+3. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva 2003/59/EB dėl tam tikrų kelių transporto priemonių kroviniams ir keleiviams vežti vairuotojų pradinės kvalifikacijos ir periodinio mokymo, iš dalies keičianti Tarybos [reglamentą (EEB) Nr. 3820/85](https://eur-lex.europa.eu/eli/reg/3820/85/oj) ir Tarybos direktyvą 91/439/EEB bei panaikinanti Tarybos direktyvą 76/914/EEB, su paskutiniais pakeitimais, padarytais 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos [direktyva (ES) 2018/645](https://eur-lex.europa.eu/eli/dir/2018/645/oj). ^s-6f98698a1cbab1ec8a56edca
 
 
-4. 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 2006/126/EB dėl vairuotojo pažymėjimų su paskutiniais pakeitimais, padarytais 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/645. ^s-ea42452a3b9da834a3128af9
+4. 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 2006/126/EB dėl vairuotojo pažymėjimų su paskutiniais pakeitimais, padarytais 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos [direktyva (ES) 2018/645](https://eur-lex.europa.eu/eli/dir/2018/645/oj). ^s-ea42452a3b9da834a3128af9
 
 
 5. 2008 m. kovo 3 d. Tarybos rekomendacija 2008/205/EB, pritaikanti Rekomendaciją 98/376/EB dėl neįgalių asmenų automobilių statymo kortelių, siekiant atsižvelgti į Bulgarijos Respublikos, Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Rumunijos, Slovėnijos Respublikos ir Slovakijos Respublikos įstojimą. ^s-c192a86dc65b5f6c06a24d02
 
 
-6. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/96/EB dėl kelių infrastruktūros saugumo valdymo su paskutiniais pakeitimais, padarytais 2019 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1936. ^s-00f1a46323c0dcb01ef3faa2
+6. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/96/EB dėl kelių infrastruktūros saugumo valdymo su paskutiniais pakeitimais, padarytais 2019 m. spalio 23 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/1936](https://eur-lex.europa.eu/eli/dir/2019/1936/oj). ^s-00f1a46323c0dcb01ef3faa2
 
 
 7. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/45/ES dėl motorinių transporto priemonių ir jų priekabų periodinės techninės apžiūros, kuria panaikinama Direktyva 2009/40/EB. ^s-7ee1b6389f2d459c7853bb34
@@ -3305,7 +3305,7 @@ saugaus eismo automobilių keliais įstatymo
 8. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/46/ES, kuria iš dalies keičiama Tarybos direktyva 1999/37/EB dėl transporto priemonių registracijos dokumentų. ^s-f96596d395a132b43fcb389a
 
 
-9. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/47/ES dėl Sąjungoje važinėjančių komercinių transporto priemonių techninio patikrinimo kelyje, kuria panaikinama Direktyva 2000/30/EB, su paskutiniais pakeitimais, padarytais 2021 m. birželio 29 d. Komisijos deleguotąja direktyva (ES) 2021/1716. ^s-c9f9c53881688574db9b7a9e
+9. 2014 m. balandžio 3 d. Europos Parlamento ir Tarybos direktyva 2014/47/ES dėl Sąjungoje važinėjančių komercinių transporto priemonių techninio patikrinimo kelyje, kuria panaikinama Direktyva 2000/30/EB, su paskutiniais pakeitimais, padarytais 2021 m. birželio 29 d. Komisijos deleguotąja [direktyva (ES) 2021/1716](https://eur-lex.europa.eu/eli/dir/2021/1716/oj). ^s-c9f9c53881688574db9b7a9e
 
 
 Priedo pakeitimai:
@@ -3512,8 +3512,8 @@ SAUGAUS EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1943, 2012-03-27, Žin., 2012, Nr. 42-2044 (2012-04-07)
 [[latest/TAR.B35D7BD62EA9|SAUGAUS EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 13, 22, 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus 1 ir [[#^s-f48d4c8e6dfc7a7736b5b95d|4 straipsnius]] ir šio straipsnio 3 dalį, įsigalioja 2012 m. gegužės 1 d.
-Šio įstatymo 1 ir [[#^s-f48d4c8e6dfc7a7736b5b95d|4 straipsniai]] įsigalioja 2013 m. sausio 19 d.
+Šis įstatymas, išskyrus [[#^s-ff86f4c2705f12d170dfbb46|1]] ir [[#^s-f48d4c8e6dfc7a7736b5b95d|4]] straipsnius ir šio straipsnio 3 dalį, įsigalioja 2012 m. gegužės 1 d.
+Šio įstatymo [[#^s-ff86f4c2705f12d170dfbb46|1]] ir [[#^s-f48d4c8e6dfc7a7736b5b95d|4]] straipsniai įsigalioja 2013 m. sausio 19 d.
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3529,9 +3529,9 @@ SAUGAUS EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 20 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-360, 2013-06-13, Žin., 2013, Nr. 68-3401 (2013-06-28)
-[[#^s-4a953a5b6197cc8294d32a7e|SAUGAUS EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 6, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 33 STRAIPSNIŲ]], ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 6(1), 27(1) STRAIPSNIAIS ĮSTATYMAS
+SAUGAUS EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], [[#^s-038f026cd73d7359e119a6ce|6]], [[#^s-df1dada9059178d47c677213|9]], [[#^s-695dee0da2115b830cfde708|10]], [[#^s-f5e76387eb1e223f2f269465|11]], [[#^s-379583c71af96feb511e9636|12]], [[#^s-e08914fde74bf057640645e4|13]], [[#^s-49ef8d109d21a160e40b02e9|14]], [[#^s-cb1c31ea7bfff6a2c2b9f813|16]], [[#^s-6f62b95efd0b3556861bb23c|17]], [[#^s-6521bf24254cb2381425dc37|18]], [[#^s-413762bb5da3c3febbb52e44|19]], [[#^s-b823bc6dd550a0657f2aa947|21]], [[#^s-675974eea580bda183831505|22]], [[#^s-a43b6db38cdab97027c538d1|23]], [[#^s-cb2e3f438d217baa5085f578|24]], [[#^s-033a674667734cf03e42758f|25]], [[#^s-c0dd17f32ae4b3c985eb211a|26]], [[#^s-11103eda433727e38a979d17|27]], [[#^s-5e1d23faaac6dd4ec936f01a|28]], [[#^s-c2bb7ba0b5236d0832394b5c|29]], [[#^s-4a953a5b6197cc8294d32a7e|33]] STRAIPSNIŲ, ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 6(1), 27(1) STRAIPSNIAIS ĮSTATYMAS
 Įstatymo įsigaliojimas:
-Šis įstatymas, išskyrus 26 straipsnio 7 dalį, [[#^s-ff86f4c2705f12d170dfbb46|1 straipsnyje]] išdėstyto [[#^s-07efec8d9ee3a52bdb4a8dd0|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 2 straipsnio]] 40 ir 57 dalis, [[#^s-a8b9036b371bd83449c1825d|15 straipsnio 2 dalį]], 17 straipsnio 6 dalį, [[#^s-e1eea84a9088d9f289ec2b4b|19 straipsnio 1 dalį]], [[#^s-bab56feb898a25992ea0dfd9|20 straipsnyje]] išdėstyto [[#^s-576782935b319f9051041cc2|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 27 straipsnio 9 dalį]], įsigalioja 2014 m. liepos 1 d.
+Šis įstatymas, išskyrus 26 straipsnio 7 dalį, [[#^s-ff86f4c2705f12d170dfbb46|1 straipsnyje]] išdėstyto [[#^s-07efec8d9ee3a52bdb4a8dd0|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 2 straipsnio]] [[#^s-d1cf8b68487fe087513bec67|40]] ir [[#^s-40a436c69a32c66ff7cdf3b8|57]] dalis, [[#^s-a8b9036b371bd83449c1825d|15 straipsnio 2 dalį]], 17 straipsnio 6 dalį, [[#^s-e1eea84a9088d9f289ec2b4b|19 straipsnio 1 dalį]], [[#^s-bab56feb898a25992ea0dfd9|20 straipsnyje]] išdėstyto [[#^s-576782935b319f9051041cc2|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 27 straipsnio 9 dalį]], įsigalioja 2014 m. liepos 1 d.
 Šio įstatymo [[#^s-ff86f4c2705f12d170dfbb46|1 straipsnyje]] išdėstyto [[#^s-d1cf8b68487fe087513bec67|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 2 straipsnio 40 dalis]], taip pat [[#^s-a8b9036b371bd83449c1825d|15 straipsnio 2 dalis]] ir 17 straipsnio 6 dalis įsigalioja 2013 m. liepos 1 d.
 Šio įstatymo [[#^s-ff86f4c2705f12d170dfbb46|1 straipsnyje]] išdėstyto [[#^s-40a436c69a32c66ff7cdf3b8|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 2 straipsnio 57 dalis]] įsigalioja 2015 m. liepos 1 d.
 Šio įstatymo [[#^s-e1eea84a9088d9f289ec2b4b|19 straipsnio 1 dalis]] įsigalioja 2014 m. sausio 1 d.
@@ -3541,7 +3541,7 @@ Pakeitimai:
 21.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-970, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09986
-[[#^s-4a953a5b6197cc8294d32a7e|LIETUVOS RESPUBLIKOS SAUGAUS EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO 2, 6, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 33 STRAIPSNIŲ]], ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 6-1, 27-1 STRAIPSNIAIS [[latest/TAR.94AB09DDD644|ĮSTATYMO NR. XII-360]] [[#^s-ff86f4c2705f12d170dfbb46|1 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS SAUGAUS EISMO AUTOMOBILIŲ KELIAIS ĮSTATYMO [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], [[#^s-038f026cd73d7359e119a6ce|6]], [[#^s-df1dada9059178d47c677213|9]], [[#^s-695dee0da2115b830cfde708|10]], [[#^s-f5e76387eb1e223f2f269465|11]], [[#^s-379583c71af96feb511e9636|12]], [[#^s-e08914fde74bf057640645e4|13]], [[#^s-49ef8d109d21a160e40b02e9|14]], [[#^s-cb1c31ea7bfff6a2c2b9f813|16]], [[#^s-6f62b95efd0b3556861bb23c|17]], [[#^s-6521bf24254cb2381425dc37|18]], [[#^s-413762bb5da3c3febbb52e44|19]], [[#^s-b823bc6dd550a0657f2aa947|21]], [[#^s-675974eea580bda183831505|22]], [[#^s-a43b6db38cdab97027c538d1|23]], [[#^s-cb2e3f438d217baa5085f578|24]], [[#^s-033a674667734cf03e42758f|25]], [[#^s-c0dd17f32ae4b3c985eb211a|26]], [[#^s-11103eda433727e38a979d17|27]], [[#^s-5e1d23faaac6dd4ec936f01a|28]], [[#^s-c2bb7ba0b5236d0832394b5c|29]], [[#^s-4a953a5b6197cc8294d32a7e|33]] STRAIPSNIŲ, ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 6-1, 27-1 STRAIPSNIAIS [[latest/TAR.94AB09DDD644|ĮSTATYMO NR. XII-360]] [[#^s-ff86f4c2705f12d170dfbb46|1 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2015 m. sausio 1 d.
 
 22.
@@ -3563,12 +3563,12 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 2.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT6-N2/2015, 2015-02-06, paskelbta TAR 2015-02-06, i. k. 2015-01856
-Dėl [[#^s-fc3596a3b3815a57e814702f|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 25 straipsnio 4 dalies]] (2010 m. balandžio 15 d., 2013 m. birželio 13 d. redakcijos), Lietuvos Respublikos Vyriausybės 2002 m. gruodžio 11 d. nutarimu Nr. 1950 „Dėl Kelių eismo taisyklių patvirtinimo“ patvirtintų Kelių eismo taisyklių 240 punkto (2008 m. liepos 16 d., 2012 m. vasario 29 d. redakcijos) atitikties Lietuvos Respublikos Konstitucijai
+Dėl Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo [[#^s-fc3596a3b3815a57e814702f|25 straipsnio 4 dalies]] (2010 m. balandžio 15 d., 2013 m. birželio 13 d. redakcijos), Lietuvos Respublikos Vyriausybės [2002 m. gruodžio 11 d. nutarimu Nr. 1950](https://e-tar.lt/portal/lt/legalAct/TAR.BBE7D61A0416) „Dėl Kelių eismo taisyklių patvirtinimo“ patvirtintų Kelių eismo taisyklių 240 punkto (2008 m. liepos 16 d., 2012 m. vasario 29 d. redakcijos) atitikties Lietuvos Respublikos Konstitucijai
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1584, 2015-03-26, paskelbta TAR 2015-04-02, i. k. 2015-05020
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 10 ir [[#^s-6f62b95efd0b3556861bb23c|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-695dee0da2115b830cfde708|10]] ir [[#^s-6f62b95efd0b3556861bb23c|17]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3588,7 +3588,7 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-106, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29755
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 10, 20 ir 27-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-695dee0da2115b830cfde708|10]], [[#^s-bab56feb898a25992ea0dfd9|20]] ir 27-1 straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3603,22 +3603,22 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-107, 2016-12-15, paskelbta TAR 2016-12-28, i. k. 2016-29786
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 10, 25, 27 ir [[#^s-5e1d23faaac6dd4ec936f01a|28 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-695dee0da2115b830cfde708|10]], [[#^s-033a674667734cf03e42758f|25]], [[#^s-11103eda433727e38a979d17|27]] ir [[#^s-5e1d23faaac6dd4ec936f01a|28]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-695, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16998
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 10, 25, 27 ir [[#^s-5e1d23faaac6dd4ec936f01a|28 straipsnių]] pakeitimo [[latest/9e25cbb0cd0011e6a2cac7383cbb90a3|įstatymo Nr. XIII-107]] 1 ir [[#^s-5f6466a72e2cb326dce3ba5b|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-695dee0da2115b830cfde708|10]], [[#^s-033a674667734cf03e42758f|25]], [[#^s-11103eda433727e38a979d17|27]] ir [[#^s-5e1d23faaac6dd4ec936f01a|28]] straipsnių pakeitimo [[latest/9e25cbb0cd0011e6a2cac7383cbb90a3|įstatymo Nr. XIII-107]] [[#^s-ff86f4c2705f12d170dfbb46|1]] ir [[#^s-5f6466a72e2cb326dce3ba5b|3]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-766, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18819
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 10, 13, 27, 29, [[#^s-4a953a5b6197cc8294d32a7e|33 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 6-2, 29-1 straipsniais [[latest/63b83360bb0b11e78643ed5347f30766|įstatymo Nr. XIII-692]] 1, 8, [[#^s-695dee0da2115b830cfde708|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], [[#^s-695dee0da2115b830cfde708|10]], [[#^s-e08914fde74bf057640645e4|13]], [[#^s-11103eda433727e38a979d17|27]], [[#^s-c2bb7ba0b5236d0832394b5c|29]], [[#^s-4a953a5b6197cc8294d32a7e|33]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 6-2, 29-1 straipsniais [[latest/63b83360bb0b11e78643ed5347f30766|įstatymo Nr. XIII-692]] [[#^s-ff86f4c2705f12d170dfbb46|1]], [[#^s-90ccd4a106995c9a180dba23|8]], [[#^s-695dee0da2115b830cfde708|10]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-856, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20338
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 10, 13, 20 ir [[#^s-033a674667734cf03e42758f|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], [[#^s-695dee0da2115b830cfde708|10]], [[#^s-e08914fde74bf057640645e4|13]], [[#^s-bab56feb898a25992ea0dfd9|20]] ir [[#^s-033a674667734cf03e42758f|25]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3628,62 +3628,62 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-692, 2017-10-19, paskelbta TAR 2017-10-27, i. k. 2017-16995
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 10, 13, 27, 29, [[#^s-4a953a5b6197cc8294d32a7e|33 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 6-2, 29-1 straipsniais įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], [[#^s-695dee0da2115b830cfde708|10]], [[#^s-e08914fde74bf057640645e4|13]], [[#^s-11103eda433727e38a979d17|27]], [[#^s-c2bb7ba0b5236d0832394b5c|29]], [[#^s-4a953a5b6197cc8294d32a7e|33]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 6-2, 29-1 straipsniais įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1139, 2018-05-10, paskelbta TAR 2018-05-15, i. k. 2018-07790
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir [[#^s-033a674667734cf03e42758f|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]] ir [[#^s-033a674667734cf03e42758f|25]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-974, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21733
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 13 ir [[#^s-675974eea580bda183831505|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-e08914fde74bf057640645e4|13]] ir [[#^s-675974eea580bda183831505|22]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1539, 2018-10-18, paskelbta TAR 2018-10-25, i. k. 2018-16597
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 22, 24 ir [[#^s-11103eda433727e38a979d17|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], [[#^s-675974eea580bda183831505|22]], [[#^s-cb2e3f438d217baa5085f578|24]] ir [[#^s-11103eda433727e38a979d17|27]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1966, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02746
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 22, 24 ir [[#^s-11103eda433727e38a979d17|27 straipsnių]] pakeitimo [[latest/a7761ab0d81811e8a1baff673bb7216a|įstatymo Nr. XIII-1539]] [[#^s-ff86f4c2705f12d170dfbb46|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], [[#^s-675974eea580bda183831505|22]], [[#^s-cb2e3f438d217baa5085f578|24]] ir [[#^s-11103eda433727e38a979d17|27]] straipsnių pakeitimo [[latest/a7761ab0d81811e8a1baff673bb7216a|įstatymo Nr. XIII-1539]] [[#^s-ff86f4c2705f12d170dfbb46|1 straipsnio]] pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1932, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00863
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir [[#^s-cb2e3f438d217baa5085f578|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]] ir [[#^s-cb2e3f438d217baa5085f578|24]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2920, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10921
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir [[#^s-413762bb5da3c3febbb52e44|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]] ir [[#^s-413762bb5da3c3febbb52e44|19]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT133-N10/2020, 2020-07-24, paskelbta TAR 2020-07-24, i. k. 2020-16411
-Dėl [[#^s-cb2e3f438d217baa5085f578|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 24 straipsnio]] 7, 8 dalių atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 24 straipsnio 7, 8 dalių atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/e311c1a0cd9e11ea997c9ee767e856b4)
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3089, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13966
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 1, 6, 9, 10, 11 ir [[#^s-379583c71af96feb511e9636|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-ff86f4c2705f12d170dfbb46|1]], [[#^s-038f026cd73d7359e119a6ce|6]], [[#^s-df1dada9059178d47c677213|9]], [[#^s-695dee0da2115b830cfde708|10]], [[#^s-f5e76387eb1e223f2f269465|11]] ir [[#^s-379583c71af96feb511e9636|12]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3122, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15365
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 7, 8, 9 ir [[#^s-695dee0da2115b830cfde708|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-9810dd98f83362777b047799|7]], [[#^s-90ccd4a106995c9a180dba23|8]], [[#^s-df1dada9059178d47c677213|9]] ir [[#^s-695dee0da2115b830cfde708|10]] straipsnių pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3441, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24618
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir [[#^s-695dee0da2115b830cfde708|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]] ir [[#^s-695dee0da2115b830cfde708|10]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3218, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15754
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 1, 2, 20 ir [[#^s-11103eda433727e38a979d17|27 straipsnių]] pakeitimo ir Įstatymo papildymo 27-3 straipsniu įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-ff86f4c2705f12d170dfbb46|1]], [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], [[#^s-bab56feb898a25992ea0dfd9|20]] ir [[#^s-11103eda433727e38a979d17|27]] straipsnių pakeitimo ir Įstatymo papildymo 27-3 straipsniu įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3698,7 +3698,7 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-265, 2021-04-22, paskelbta TAR 2021-04-28, i. k. 2021-08867
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir [[#^s-4a953a5b6197cc8294d32a7e|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]] ir [[#^s-4a953a5b6197cc8294d32a7e|33]] straipsnių pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3708,22 +3708,22 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-784, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27361
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 6-2, 10, [[#^s-f5e76387eb1e223f2f269465|11 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 11-1, 11-2, 11-3  straipsniais įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], 6-2, [[#^s-695dee0da2115b830cfde708|10]], [[#^s-f5e76387eb1e223f2f269465|11]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 11-1, 11-2, 11-3  straipsniais įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-917, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01359
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 9, 10, 14, 17, 22, 23, 27-2 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 22-1 straipsniu ir 2 priedu įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], [[#^s-df1dada9059178d47c677213|9]], [[#^s-695dee0da2115b830cfde708|10]], [[#^s-49ef8d109d21a160e40b02e9|14]], [[#^s-6f62b95efd0b3556861bb23c|17]], [[#^s-675974eea580bda183831505|22]], [[#^s-a43b6db38cdab97027c538d1|23]], 27-2 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 22-1 straipsniu ir 2 priedu įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1084, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11321
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 10, 13, [[#^s-4a953a5b6197cc8294d32a7e|33 straipsnių]] ir 1 priedo pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], [[#^s-695dee0da2115b830cfde708|10]], [[#^s-e08914fde74bf057640645e4|13]], [[#^s-4a953a5b6197cc8294d32a7e|33]] straipsnių ir 1 priedo pakeitimo įstatymas
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1445, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21161
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 3, 10, 13, 15, 17, 19, 20, 22, 24, 25, 27-1, 29, 30 ir [[#^s-4a953a5b6197cc8294d32a7e|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], [[#^s-5f6466a72e2cb326dce3ba5b|3]], [[#^s-695dee0da2115b830cfde708|10]], [[#^s-e08914fde74bf057640645e4|13]], [[#^s-19a52f094ef76e93aca26c3a|15]], [[#^s-6f62b95efd0b3556861bb23c|17]], [[#^s-413762bb5da3c3febbb52e44|19]], [[#^s-bab56feb898a25992ea0dfd9|20]], [[#^s-675974eea580bda183831505|22]], [[#^s-cb2e3f438d217baa5085f578|24]], [[#^s-033a674667734cf03e42758f|25]], 27-1, [[#^s-c2bb7ba0b5236d0832394b5c|29]], [[#^s-eb9ee78f6bb91be4e83aa2c5|30]] ir [[#^s-4a953a5b6197cc8294d32a7e|33]] straipsnių pakeitimo įstatymas
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3733,37 +3733,37 @@ Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 
 36.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-662, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25028
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 1, 6, 10 ir [[#^s-f5e76387eb1e223f2f269465|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-ff86f4c2705f12d170dfbb46|1]], [[#^s-038f026cd73d7359e119a6ce|6]], [[#^s-695dee0da2115b830cfde708|10]] ir [[#^s-f5e76387eb1e223f2f269465|11]] straipsnių pakeitimo įstatymas
 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1858, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05789
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 10, 11-1 ir [[#^s-4a953a5b6197cc8294d32a7e|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-695dee0da2115b830cfde708|10]], 11-1 ir [[#^s-4a953a5b6197cc8294d32a7e|33]] straipsnių pakeitimo įstatymas
 
 38.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2049, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12413
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 10 ir [[#^s-033a674667734cf03e42758f|25 straipsnių]] pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], [[#^s-695dee0da2115b830cfde708|10]] ir [[#^s-033a674667734cf03e42758f|25]] straipsnių pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
 
 39.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2211, 2023-10-31, paskelbta TAR 2023-11-10, i. k. 2023-21807
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 10 ir [[#^s-033a674667734cf03e42758f|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], [[#^s-695dee0da2115b830cfde708|10]] ir [[#^s-033a674667734cf03e42758f|25]] straipsnių pakeitimo įstatymas
 
 40.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2289, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23067
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 6-1, 10, 13, 22 ir [[#^s-cb2e3f438d217baa5085f578|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], 6-1, [[#^s-695dee0da2115b830cfde708|10]], [[#^s-e08914fde74bf057640645e4|13]], [[#^s-675974eea580bda183831505|22]] ir [[#^s-cb2e3f438d217baa5085f578|24]] straipsnių pakeitimo įstatymas
 
 41.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2451, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26031
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2, 3, 10, 13, 15, 17, 19, 20, 22, 24, 25, 27-1, 29, 30 ir [[#^s-4a953a5b6197cc8294d32a7e|33 straipsnių]] pakeitimo [[latest/337402c04fb111edbc04912defe897d1|įstatymo Nr. XIV-1445]] [[#^s-6f62b95efd0b3556861bb23c|17 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-07efec8d9ee3a52bdb4a8dd0|2]], [[#^s-5f6466a72e2cb326dce3ba5b|3]], [[#^s-695dee0da2115b830cfde708|10]], [[#^s-e08914fde74bf057640645e4|13]], [[#^s-19a52f094ef76e93aca26c3a|15]], [[#^s-6f62b95efd0b3556861bb23c|17]], [[#^s-413762bb5da3c3febbb52e44|19]], [[#^s-bab56feb898a25992ea0dfd9|20]], [[#^s-675974eea580bda183831505|22]], [[#^s-cb2e3f438d217baa5085f578|24]], [[#^s-033a674667734cf03e42758f|25]], 27-1, [[#^s-c2bb7ba0b5236d0832394b5c|29]], [[#^s-eb9ee78f6bb91be4e83aa2c5|30]] ir [[#^s-4a953a5b6197cc8294d32a7e|33]] straipsnių pakeitimo [[latest/337402c04fb111edbc04912defe897d1|įstatymo Nr. XIV-1445]] [[#^s-6f62b95efd0b3556861bb23c|17 straipsnio]] pakeitimo įstatymas
 
 42.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2458, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25950
-Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 6, 10, 22, 22-1, 23, 26 ir [[#^s-11103eda433727e38a979d17|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 [[#^s-038f026cd73d7359e119a6ce|6]], [[#^s-695dee0da2115b830cfde708|10]], [[#^s-675974eea580bda183831505|22]], 22-1, [[#^s-a43b6db38cdab97027c538d1|23]], [[#^s-c0dd17f32ae4b3c985eb211a|26]] ir [[#^s-11103eda433727e38a979d17|27]] straipsnių pakeitimo įstatymas
 
 
 

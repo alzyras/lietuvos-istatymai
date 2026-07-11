@@ -45,7 +45,7 @@ Papildyti Įstatymą 2 straipsniu:
 „2 straipsnis. Lietuvos Respublikos pareiškimas
 
 
-Lietuvos Respublika, ratifikuodama Tarptautinės darbo organizacijos 1985 metų 160-ąją konvenciją „Dėl darbo statistikos“, pareiškia, kad remdamasi šios Konvencijos 16 straipsniu įsipareigoja vykdyti visus šios konvencijos II dalies straipsniuose numatytus įsipareigojimus.“
+Lietuvos Respublika, ratifikuodama Tarptautinės darbo organizacijos 1985 metų 160-ąją konvenciją [„Dėl darbo statistikos“](https://e-tar.lt/portal/lt/legalAct/225742d2878c11efabdbb4a1fc8b0b63), pareiškia, kad remdamasi šios Konvencijos 16 straipsniu įsipareigoja vykdyti visus šios konvencijos II dalies straipsniuose numatytus įsipareigojimus.“
 
 
 

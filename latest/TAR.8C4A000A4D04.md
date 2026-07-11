@@ -60,7 +60,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 3) asmenims, įstatymų nustatyta tvarka Lietuvos Respublikoje turintiems pabėgėlio statusą. ^s-fec826dd123e7d3e0539ba8c
 
 
-Jei šio straipsnio antrojoje dalyje nurodytas sąlygas atitinka tik vienas iš tėvų, šio įstatymo 2, 4, 41, [[#^s-65fc00a77f289b93641e0a3d|6 straipsniuose]] nustatytos pašalpos mokamos jam tuomet, kai vaikas gyvena kartu su juo.“
+Jei šio straipsnio antrojoje dalyje nurodytas sąlygas atitinka tik vienas iš tėvų, šio įstatymo [[#^s-f4e56ddf53d5317278653048|2]], [[#^s-bd9ad26bbcf4cb1e177d2177|4]], 41, [[#^s-65fc00a77f289b93641e0a3d|6]] straipsniuose nustatytos pašalpos mokamos jam tuomet, kai vaikas gyvena kartu su juo.“
 
 
 

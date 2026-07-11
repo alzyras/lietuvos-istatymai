@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo pre
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.C44837068B55#^s-97f88b14eeea1aaa2d0ca89d|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - 252 straipsnio 3 dalį 4 punktu
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C44837068B55#^s-48fb1e3b921717942e2e176a|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - Įstatymas Nr. XIV-249
-- [[latest/TAR.C44837068B55#^s-5eff90ee0e5a3db5bc2e30ee|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - Įstatymas Nr. XIV-249
+_Nėra._

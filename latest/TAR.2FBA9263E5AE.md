@@ -57,7 +57,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 ### 2 straipsnis. 2 straipsnio 1, 3, 5, 11 ir 12 dalių pakeitimas ir papildymas 19 dalimi ^s-94733151e6803f67426a4d55
 
 
-1. [[#^s-e75a99cf5ab444c640e252fa|2 straipsnio 1 dalyje]] vietoj žodžių „juridinis ar fizinis asmuo“ įrašyti žodžius „įmonė ar kitas juridinis asmuo“ ir šią dalį išdėstyti taip: ^s-e75a99cf5ab444c640e252fa
+1. 2 straipsnio 1 dalyje vietoj žodžių „juridinis ar fizinis asmuo“ įrašyti žodžius „įmonė ar kitas juridinis asmuo“ ir šią dalį išdėstyti taip: ^s-e75a99cf5ab444c640e252fa
 
 
 „1. Atliekų tvarkytojas – įmonė ar kitas juridinis asmuo, kuris tvarko atliekas pagal Atliekų tvarkymo įstatymo ir kitų teisės aktų reikalavimus.“

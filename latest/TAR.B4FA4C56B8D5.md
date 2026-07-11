@@ -235,10 +235,10 @@ Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
 6. Teisės aktų informacinės sistemos valdytoja ir duomenų, išskyrus [[#^s-6cfadaab87e9e29b15c307c1|šio straipsnio 7 dalyje]] nurodytus duomenis, valdytoja yra Lietuvos Respublikos Seimo kanceliarija. Teisės aktų informacinės sistemos duomenis teikiantys ir tvarkantys subjektai atsako už teikiamų duomenų tikslumą ir vertinimą, ar šie duomenys gali ir turi būti skelbiami. Teisės aktų informacinėje sistemoje skelbiami tokie duomenys, kokius pateikia šios informacinės sistemos duomenis teikiantys ir tvarkantys subjektai. Seimo kanceliarija užtikrina organizacines, technines ir programines priemones šiems duomenims Teisės aktų informacinėje sistemoje tvarkyti ir skelbti. ^s-29770b1d81a80b79f63c3257
 
 
-7. Seimo kanceliarija kartu su Teisės aktų informacinės sistemos duomenis teikiančiais ir tvarkančiais subjektais yra ir bendri šios informacinės sistemos duomenis sudarančių asmens duomenų valdytojai, atsakingi už 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente) nustatytų pareigų laikymąsi, kiek tai susiję su asmens duomenų tvarkymu. Teisės aktų informacinės sistemos duomenis teikiantys ir tvarkantys subjektai atsako už šios informacinės sistemos duomenis sudarančių asmens duomenų tikslumą ir vertinimą, ar šie duomenys gali ir turi būti skelbiami, o kartu su Seimo kanceliarija – už tinkamą jų tvarkymą Teisės aktų informacinėje sistemoje. Bendrų asmens duomenų valdytojų pareigos, funkcijos ir atsakomybė duomenų subjektų atžvilgiu apibrėžiamos Teisės aktų informacinės sistemos nuostatuose ir papildomai gali būti nustatomos bendrų asmens duomenų valdytojų tarpusavio susitarimuose. Šios ir kitos Reglamente (ES) 2016/679 nustatytos bendrų asmens duomenų valdytojų pareigos įgyvendinamos jiems bendradarbiaujant. ^s-6cfadaab87e9e29b15c307c1
+7. Seimo kanceliarija kartu su Teisės aktų informacinės sistemos duomenis teikiančiais ir tvarkančiais subjektais yra ir bendri šios informacinės sistemos duomenis sudarančių asmens duomenų valdytojai, atsakingi už 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente) nustatytų pareigų laikymąsi, kiek tai susiję su asmens duomenų tvarkymu. Teisės aktų informacinės sistemos duomenis teikiantys ir tvarkantys subjektai atsako už šios informacinės sistemos duomenis sudarančių asmens duomenų tikslumą ir vertinimą, ar šie duomenys gali ir turi būti skelbiami, o kartu su Seimo kanceliarija – už tinkamą jų tvarkymą Teisės aktų informacinėje sistemoje. Bendrų asmens duomenų valdytojų pareigos, funkcijos ir atsakomybė duomenų subjektų atžvilgiu apibrėžiamos Teisės aktų informacinės sistemos nuostatuose ir papildomai gali būti nustatomos bendrų asmens duomenų valdytojų tarpusavio susitarimuose. Šios ir kitos [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nustatytos bendrų asmens duomenų valdytojų pareigos įgyvendinamos jiems bendradarbiaujant. ^s-6cfadaab87e9e29b15c307c1
 
 
-8. Siekiant užtikrinti šio įstatymo [[#^s-a903877dcc083850ee0611ae|3 straipsnio 2 dalies 4 punkte]] nustatyto atvirumo ir skaidrumo principo įgyvendinimą, šiame įstatyme nurodytus duomenų rinkinius sudarantys Teisės aktų informacinėje sistemoje tvarkomi duomenys yra vieši. Valstybinei duomenų apsaugos inspekcijai ar teismui nustačius, kad Teisės aktų informacinės sistemos duomenis sudarančių asmens duomenų skelbimas neatitinka Reglamento (ES) 2016/679, šio įstatymo ir (ar) kitų įstatymų reikalavimų, Teisės aktų informacinės sistemos nuostatų nustatyta tvarka šios informacinės sistemos duomenys skelbiami nuasmeninti. ^s-f11ff327e0600a965e580156
+8. Siekiant užtikrinti šio įstatymo [[#^s-a903877dcc083850ee0611ae|3 straipsnio 2 dalies 4 punkte]] nustatyto atvirumo ir skaidrumo principo įgyvendinimą, šiame įstatyme nurodytus duomenų rinkinius sudarantys Teisės aktų informacinėje sistemoje tvarkomi duomenys yra vieši. Valstybinei duomenų apsaugos inspekcijai ar teismui nustačius, kad Teisės aktų informacinės sistemos duomenis sudarančių asmens duomenų skelbimas neatitinka [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), šio įstatymo ir (ar) kitų įstatymų reikalavimų, Teisės aktų informacinės sistemos nuostatų nustatyta tvarka šios informacinės sistemos duomenys skelbiami nuasmeninti. ^s-f11ff327e0600a965e580156
 
 
 9. Viešojo administravimo subjektai, kuriems suteikti įgaliojimai vykdyti administracinį reglamentavimą, teisėkūrai privalo naudotis Teisės aktų informacine sistema. ^s-bf16210988f628ba8b73f4d9
@@ -475,7 +475,7 @@ Nr. XIII-3171, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15503
 4. Teisės aktų registro informacinės sistemos valdytoja ir duomenų, išskyrus [[#^s-107c947b391769b6cc5d3b61|šio straipsnio 5 dalyje]] nurodytus duomenis, valdytoja yra Seimo kanceliarija. Teisės aktų registro duomenis teikiantys subjektai atsako už teikiamų duomenų tikslumą ir vertinimą, ar šie duomenys gali ir turi būti skelbiami. Seimo kanceliarija į Teisės aktų registro informacinę sistemą įrašo, joje skelbia ir tvarko tokius duomenis, kokius pateikia šio registro duomenis teikiantys subjektai. ^s-ed6feb2d9e2e5f551c365f90
 
 
-5. Seimo kanceliarija kartu su Teisės aktų registro duomenis teikiančiais subjektais yra ir bendri Teisės aktų registro duomenis sudarančių asmens duomenų valdytojai, atsakingi už Reglamente (ES) 2016/679 nustatytų pareigų laikymąsi, kiek tai susiję su asmens duomenų tvarkymu. Teisės aktų registro duomenis teikiantys subjektai atsako už jų Teisės aktų registro informacinei sistemai teikiamų asmens duomenų tikslumą ir vertinimą, ar šie duomenys gali ir turi būti skelbiami, o Seimo kanceliarija – už jai pateiktų Teisės aktų registro duomenis sudarančių asmens duomenų tinkamą tvarkymą Teisės aktų registro informacinėje sistemoje. Bendrų asmens duomenų valdytojų pareigos, funkcijos ir atsakomybė duomenų subjektų atžvilgiu apibrėžiamos Teisės aktų registro informacinės sistemos nuostatuose ir papildomai gali būti nustatomos bendrų asmens duomenų valdytojų tarpusavio susitarimuose. Šios ir kitos Reglamente (ES) 2016/679 įtvirtintos bendrų asmens duomenų valdytojų pareigos įgyvendinamos jiems bendradarbiaujant. ^s-107c947b391769b6cc5d3b61
+5. Seimo kanceliarija kartu su Teisės aktų registro duomenis teikiančiais subjektais yra ir bendri Teisės aktų registro duomenis sudarančių asmens duomenų valdytojai, atsakingi už [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nustatytų pareigų laikymąsi, kiek tai susiję su asmens duomenų tvarkymu. Teisės aktų registro duomenis teikiantys subjektai atsako už jų Teisės aktų registro informacinei sistemai teikiamų asmens duomenų tikslumą ir vertinimą, ar šie duomenys gali ir turi būti skelbiami, o Seimo kanceliarija – už jai pateiktų Teisės aktų registro duomenis sudarančių asmens duomenų tinkamą tvarkymą Teisės aktų registro informacinėje sistemoje. Bendrų asmens duomenų valdytojų pareigos, funkcijos ir atsakomybė duomenų subjektų atžvilgiu apibrėžiamos Teisės aktų registro informacinės sistemos nuostatuose ir papildomai gali būti nustatomos bendrų asmens duomenų valdytojų tarpusavio susitarimuose. Šios ir kitos [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) įtvirtintos bendrų asmens duomenų valdytojų pareigos įgyvendinamos jiems bendradarbiaujant. ^s-107c947b391769b6cc5d3b61
 
 
 6. Suvestinė teisės akto redakcija, o kai viename teisės akte numatytas skirtingas tam tikrų keičiamo teisės akto nuostatų įsigaliojimas – atitinkamos kelios suvestinės teisės akto redakcijos Teisės aktų registro informacinėje sistemoje paskelbiama (paskelbiamos) ne vėliau kaip per 5 darbo dienas nuo teisės akto, kuriuo keičiamas ar papildomas teisės aktas ir kuris įsigalioja iš karto jį paskelbus, paskelbimo dienos arba ne vėliau kaip per 10 darbo dienų nuo teisės akto, kuriuo keičiamas ar papildomas teisės aktas ir kuriame numatyta jo paties įsigaliojimo atidėjimo data, paskelbimo dienos, tačiau ne vėliau kaip per 5 darbo dienas nuo šio teisės akto, kuriuo keičiamas ar papildomas teisės aktas, arba atskirų jo nuostatų įsigaliojimo dienos. Seimo kanceliarija, kaip Teisės aktų registro duomenų tvarkytoja, atsako už tinkamą suvestinės teisės akto redakcijos parengimą ir paskelbimą. Suvestinė teisės akto redakcija nerengiama, kai tai padaryti techniškai neįmanoma, nes teisės aktas parengtas nesilaikant teisingumo ministro tvirtinamų teisės aktų projektų rengimo rekomendacijų. Apie tokius atvejus pranešama teisės aktą pateikusiam Teisės aktų registro duomenų teikėjui ir pažymima Teisės aktų registro informacinėje sistemoje prie paskelbto teisės akto. ^s-1b274106ad349fd502f284d2
@@ -562,13 +562,13 @@ Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
 4. Darbo grupės (komisijos) teisės akto projektui parengti sudėtis ir veiklos laikotarpis turi būti nurodomi teisės akto projekto lydimuosiuose dokumentuose. ^s-53592326ad06c2225c078c56
 
 
-5. Darbas Seimo, Seimo struktūrinių padalinių arba Seimo pareigūnų sudarytose darbo grupėse (komisijose) teisės aktų projektams rengti apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. ^s-55d17d0df2ea34efedeea2f2
+5. Darbas Seimo, Seimo struktūrinių padalinių arba Seimo pareigūnų sudarytose darbo grupėse (komisijose) teisės aktų projektams rengti apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka. ^s-55d17d0df2ea34efedeea2f2
 Straipsnio dalies pakeitimai:
 Nr. XIII-1743, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20716
 
 
 
-6. Darbas Respublikos Prezidento, Vyriausybės, Ministro Pirmininko, iš valstybės biudžeto ar valstybės pinigų fondų išlaikomų įstaigų sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. ^s-41ef5e37f1b09968d6592bb3
+6. Darbas Respublikos Prezidento, Vyriausybės, Ministro Pirmininko, iš valstybės biudžeto ar valstybės pinigų fondų išlaikomų įstaigų sudaromose darbo grupėse (komisijose) teisės aktų projektams rengti apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka. ^s-41ef5e37f1b09968d6592bb3
 Straipsnio dalies pakeitimai:
 Nr. XIII-1743, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20716
 
@@ -806,7 +806,7 @@ Nr. XIV-857, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00065
 ### 19 straipsnis. Teisės aktų registravimas ir skelbimas ^s-8ceb1e13b909bc84c68dd6bc
 
 
-1. Siekiant informuoti visuomenę apie šio įstatymo [[#^s-02602419e625ade899657e9f|6 straipsnio 2 dalies]] 1–18 punktuose nurodytų teisės aktų priėmimą, jų turinį ir galiojimą trečiųjų asmenų atžvilgiu, teisės aktai registruojami ir jų duomenys, įskaitant juose esančius asmens duomenis, Teisės aktų registro informacinėje sistemoje oficialiai skelbiami nuolat, išskyrus [[#^s-b6f4f6c4ec85170772800bb6|šio straipsnio 7 dalyje]] ir kituose įstatymuose nustatytus atvejus. ^s-5483bc62bdbd6b4de21dd991
+1. Siekiant informuoti visuomenę apie šio įstatymo [[#^s-02602419e625ade899657e9f|6 straipsnio 2 dalies]] [[#^s-2369fa254abb584c57622991|1]]–[[#^s-3086d0bdb4477b92d10c2f91|18]] punktuose nurodytų teisės aktų priėmimą, jų turinį ir galiojimą trečiųjų asmenų atžvilgiu, teisės aktai registruojami ir jų duomenys, įskaitant juose esančius asmens duomenis, Teisės aktų registro informacinėje sistemoje oficialiai skelbiami nuolat, išskyrus [[#^s-b6f4f6c4ec85170772800bb6|šio straipsnio 7 dalyje]] ir kituose įstatymuose nustatytus atvejus. ^s-5483bc62bdbd6b4de21dd991
 
 
 2. Teisės aktų nustatytus įgaliojimus turinčio subjekto pasirašytas teisės aktas, kuris yra Teisės aktų registro objektas, išskyrus šio įstatymo [[#^s-4cdb7dd2a8962e982b09bf54|6 straipsnio 2 dalies 7 punkte]] nurodytus Teisės aktų registro objektus, ne vėliau kaip kitą darbo dieną po pasirašymo privalo būti pateiktas Teisės aktų registro informacinei sistemai. Šioje informacinėje sistemoje jis įregistruojamas ir paskelbiamas ne vėliau kaip per 2 darbo dienas, o pateiktas šio įstatymo [[#^s-25a4ae06809b8352dd9925b5|6 straipsnio 2 dalies 16 punkte]] nurodytas Teisės aktų registro objektas – ne vėliau kaip per 5 darbo dienas nuo pateikimo dienos. ^s-1193da4ad39ab2fc9f1d8ff8
@@ -830,7 +830,7 @@ Nr. XIV-857, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00065
 2) teisės aktas negali būti paskelbtas dėl Teisės aktų registro informacinės sistemos nuostatuose nurodytų techninių priežasčių. ^s-8f8253ed099214b8dacbcebd
 
 
-7. Siekiant užtikrinti šio įstatymo [[#^s-a903877dcc083850ee0611ae|3 straipsnio 2 dalies 4 punkte]] nustatyto atvirumo ir skaidrumo principo įgyvendinimą, šiame įstatyme nurodyti Teisės aktų registro informacinėje sistemoje tvarkomi duomenys yra vieši. Teisės aktų registro duomenys teikiami neatlygintinai. Valstybinei duomenų apsaugos inspekcijai ar teismui nustačius, kad Teisės aktų registro duomenis sudarančių asmens duomenų skelbimas neatitinka Reglamento (ES) 2016/679, šio įstatymo ir (ar) kitų įstatymų reikalavimų, Teisės aktų registro informacinės sistemos nuostatų nustatyta tvarka teisės aktai šioje informacinėje sistemoje skelbiami nuasmeninti. ^s-b6f4f6c4ec85170772800bb6
+7. Siekiant užtikrinti šio įstatymo [[#^s-a903877dcc083850ee0611ae|3 straipsnio 2 dalies 4 punkte]] nustatyto atvirumo ir skaidrumo principo įgyvendinimą, šiame įstatyme nurodyti Teisės aktų registro informacinėje sistemoje tvarkomi duomenys yra vieši. Teisės aktų registro duomenys teikiami neatlygintinai. Valstybinei duomenų apsaugos inspekcijai ar teismui nustačius, kad Teisės aktų registro duomenis sudarančių asmens duomenų skelbimas neatitinka [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), šio įstatymo ir (ar) kitų įstatymų reikalavimų, Teisės aktų registro informacinės sistemos nuostatų nustatyta tvarka teisės aktai šioje informacinėje sistemoje skelbiami nuasmeninti. ^s-b6f4f6c4ec85170772800bb6
 
 
 Straipsnio pakeitimai:
@@ -854,10 +854,10 @@ Nr. XV-1042, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11115
 4. Teisės aktai, keičiantys ar nustatantys naują ūkio subjektų veiklos ar jos priežiūros teisinį reguliavimą, paprastai įsigalioja gegužės 1 dieną arba lapkričio 1 dieną, tačiau visais atvejais ne anksčiau kaip po 3 mėnesių nuo jų oficialaus paskelbimo dienos. Ši nuostata netaikoma, kai teisinis reguliavimas nustatomas arba keičiamas pagal Europos Sąjungos teisės aktuose nustatytus įpareigojimus, Lietuvos Respublikos tarptautinių sutarčių reikalavimus, taip pat kai nustatomas ūkio subjektams palankesnis teisinis reguliavimas. ^s-5998a7b53913da40d30768b5
 
 
-5. Teisės taikymo aktas, kuris yra Teisės aktų registro objektas, įsigalioja nuo paskelbimo Teisės aktų registro informacinėje sistemoje momento, jeigu pačiame teisės taikymo akte nenumatyta vėlesnė įsigaliojimo data. Ši nuostata netaikoma Seimo nutarimams, kitiems šio straipsnio 1–[[#^s-5998a7b53913da40d30768b5|4 dalyse]] nenurodytiems Seimo priimtiems teisės aktams, Vyriausybės sprendimams ir Vyriausybės rezoliucijoms. ^s-39441dd5ff6a892ed0478646
+5. Teisės taikymo aktas, kuris yra Teisės aktų registro objektas, įsigalioja nuo paskelbimo Teisės aktų registro informacinėje sistemoje momento, jeigu pačiame teisės taikymo akte nenumatyta vėlesnė įsigaliojimo data. Ši nuostata netaikoma Seimo nutarimams, kitiems šio straipsnio [[#^s-4a26fb29e136d99229311c2c|1]]–[[#^s-5998a7b53913da40d30768b5|4]] dalyse nenurodytiems Seimo priimtiems teisės aktams, Vyriausybės sprendimams ir Vyriausybės rezoliucijoms. ^s-39441dd5ff6a892ed0478646
 
 
-6. Seimo nutarimai, taip pat kiti šio straipsnio 1–[[#^s-5998a7b53913da40d30768b5|4 dalyse]] nenurodyti Seimo priimti teisės aktai įsigalioja kitą dieną po jų oficialaus paskelbimo Teisės aktų registro informacinėje sistemoje dienos, jeigu pačiuose teisės aktuose nenustatyta kita įsigaliojimo tvarka. ^s-d03e725bcca693c2bcfc79e3
+6. Seimo nutarimai, taip pat kiti šio straipsnio [[#^s-4a26fb29e136d99229311c2c|1]]–[[#^s-5998a7b53913da40d30768b5|4]] dalyse nenurodyti Seimo priimti teisės aktai įsigalioja kitą dieną po jų oficialaus paskelbimo Teisės aktų registro informacinėje sistemoje dienos, jeigu pačiuose teisės aktuose nenustatyta kita įsigaliojimo tvarka. ^s-d03e725bcca693c2bcfc79e3
 
 
 7. Vyriausybės sprendimai ir Vyriausybės rezoliucijos įsigalioja jų pasirašymo dieną. ^s-71e150e51ac74e1416480d93
@@ -1023,13 +1023,13 @@ Teisėkūros ypatumai MOBILIZACIJOS, nepaprastOSIOS ir karo padėtiES METU
 1. Nepaprastosios ar karo padėties metu, kai nėra galimybės teisėkūrai naudoti Teisės aktų informacinės sistemos, įstatymų ir kitų teisės aktų projektai rengiami, šio įstatymo [[#^s-da54fdc884cc463872853bf2|5 straipsnio 2 dalyje]] nurodyta informacija ir dokumentai tvarkomi ir skelbiami kitomis prieinamomis priemonėmis ir būdais. ^s-ac8323e4952cbaaf6db01c54
 
 
-2. Nepaprastosios ar karo padėties metu, kai nėra galimybių teisės aktus skelbti Teisės aktų registro informacinėje sistemoje, teisės aktai, išskyrus šio įstatymo 245 ir [[#^s-8d60c61457c1c31ddea7a1fd|246 straipsniuose]] nurodytuosius, ne vėliau kaip per 3 kalendorines dienas po pasirašymo oficialiai paskelbiami visuomenės informavimo priemonėse ir įsigalioja mutatis mutandis šio įstatymo [[#^s-29ce5a2db346e32c68cadf3b|20 straipsnyje]] nustatyta tvarka. ^s-e07dc7a5e14d61439b9c3d93
+2. Nepaprastosios ar karo padėties metu, kai nėra galimybių teisės aktus skelbti Teisės aktų registro informacinėje sistemoje, teisės aktai, išskyrus šio įstatymo [[#^s-73cd6e7f0462257fb51933cd|245]] ir [[#^s-8d60c61457c1c31ddea7a1fd|246]] straipsniuose nurodytuosius, ne vėliau kaip per 3 kalendorines dienas po pasirašymo oficialiai paskelbiami visuomenės informavimo priemonėse ir įsigalioja mutatis mutandis šio įstatymo [[#^s-29ce5a2db346e32c68cadf3b|20 straipsnyje]] nustatyta tvarka. ^s-e07dc7a5e14d61439b9c3d93
 Straipsnio dalies pakeitimai:
 Nr. XV-1042, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11115
 
 
 
-3. Lietuvos Respublikos mokesčių įstatymams, nustatantiems naujus mokesčius, naujus mokesčio tarifus, mokesčio lengvatas, sankcijas už mokesčių įstatymų pažeidimus arba iš esmės pakeičiantiems apmokestinimo tam tikru mokesčiu tvarką ar apmokestinimo teisinio reglamentavimo bei taikymo principus, ir teisės aktams, keičiantiems ar nustatantiems naują ūkio subjektų veiklos ar jos priežiūros teisinį reguliavimą, kai tas teisinis reguliavimas arba jo pakeitimai reikalingi nepaprastosios padėties įvedimo tikslams pasiekti ar valstybės gynybai, kitoms gyvybiškai svarbioms valstybės funkcijoms mobilizacijos ar karo padėties metu atlikti, šio įstatymo [[#^s-29ce5a2db346e32c68cadf3b|20 straipsnio]] 3 ir 4 dalyse nustatyti reikalavimai dėl teisės aktų įsigaliojimo netaikomi. ^s-8423f4afe2978ccf0ed0df74
+3. Lietuvos Respublikos mokesčių įstatymams, nustatantiems naujus mokesčius, naujus mokesčio tarifus, mokesčio lengvatas, sankcijas už mokesčių įstatymų pažeidimus arba iš esmės pakeičiantiems apmokestinimo tam tikru mokesčiu tvarką ar apmokestinimo teisinio reglamentavimo bei taikymo principus, ir teisės aktams, keičiantiems ar nustatantiems naują ūkio subjektų veiklos ar jos priežiūros teisinį reguliavimą, kai tas teisinis reguliavimas arba jo pakeitimai reikalingi nepaprastosios padėties įvedimo tikslams pasiekti ar valstybės gynybai, kitoms gyvybiškai svarbioms valstybės funkcijoms mobilizacijos ar karo padėties metu atlikti, šio įstatymo [[#^s-29ce5a2db346e32c68cadf3b|20 straipsnio]] [[#^s-9f269d132800577d83c6f76b|3]] ir [[#^s-5998a7b53913da40d30768b5|4]] dalyse nustatyti reikalavimai dėl teisės aktų įsigaliojimo netaikomi. ^s-8423f4afe2978ccf0ed0df74
 
 
 
@@ -1098,7 +1098,7 @@ Nr. XI-2314, 2012-11-06, Žin., 2012, Nr. 132-6642 (2012-11-15), i. k. [[latest/
 ### 26 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-147758bcf2c836a88f91dfc7
 
 
-1. Šis įstatymas, išskyrus 25 ir [[#^s-9090ca1dd4c788822807c8de|28 straipsnius]], įsigalioja 2014 m. sausio 1 d. ^s-28fa5640e8e40a467a966180
+1. Šis įstatymas, išskyrus [[#^s-5d8dff4bfaefff7860f2f43d|25]] ir [[#^s-9090ca1dd4c788822807c8de|28]] straipsnius, įsigalioja 2014 m. sausio 1 d. ^s-28fa5640e8e40a467a966180
 
 
 2. Teisės aktų registro informacinėje sistemoje tvarkomi ir iki šio įstatymo įsigaliojimo Lietuvos Respublikos įstatymų ir kitų teisės aktų registre tvarkyti teisės aktų duomenys. ^s-71ee6d04d2932e95a15da8de
@@ -1139,70 +1139,70 @@ Nr. XI-2314, 2012-11-06, Žin., 2012, Nr. 132-6642 (2012-11-15), i. k. [[latest/
 Įsigaliojus šiam įstatymui, netenka galios:
 
 
-1) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ (Žin., 1993, Nr. 12-296); ^s-a7ad87a3414a2301835230bd
+1) Lietuvos Respublikos įstatymas [„Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E) (Žin., 1993, Nr. 12-296); ^s-a7ad87a3414a2301835230bd
 
 
-2) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymas (Žin., 1995, Nr. 41-991); ^s-a6a0d91874cbdbdfce39b46e
+2) [Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.502CB1B9F3DB) (Žin., 1995, Nr. 41-991); ^s-a6a0d91874cbdbdfce39b46e
 
 
-3) Lietuvos Respublikos įstatymų ir kitų teisės aktų registro įstatymas (Žin., 1995, Nr. 41-992); ^s-57551adfb2396dc7928f5fdc
+3) [Lietuvos Respublikos įstatymų ir kitų teisės aktų registro įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.957FAD7D6510) (Žin., 1995, Nr. 41-992); ^s-57551adfb2396dc7928f5fdc
 
 
-4) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ [[#^s-793695be00e5a4cf38ba7968|3 straipsnio]] papildymo įstatymas (Žin., 1996, Nr. 67-1604); ^s-ea271dbc9afb6f810a4b201a
+4) Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E) [[#^s-793695be00e5a4cf38ba7968|3 straipsnio]] papildymo įstatymas (Žin., 1996, Nr. 67-1604); ^s-ea271dbc9afb6f810a4b201a
 
 
-5) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 4, 6, 7, 8, 9 ir [[#^s-e156bc3c495ffaeda05d8bcb|11 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 1996, Nr. 68-1632); ^s-b13239c7e166dff7dc46bc1c
+5) [Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 4, 6, 7, 8, 9 ir 11 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.F1A16408B7D0) (Žin., 1996, Nr. 68-1632); ^s-b13239c7e166dff7dc46bc1c
 
 
-6) Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo [[#^s-a7ff5d559f45f2526d21d68b|14 straipsnio]] pakeitimo įstatymas (Žin., 1996, Nr. 125-2894); ^s-98374772852377cf9a5ae22b
+6) [Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 14 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.974937C73F83) (Žin., 1996, Nr. 125-2894); ^s-98374772852377cf9a5ae22b
 
 
-7) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo [[#^s-e156bc3c495ffaeda05d8bcb|11 straipsnio]] pakeitimo įstatymas (Žin., 1997, Nr. 111-2796); ^s-12f317df41d9bd104892f4ac
+7) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 11 straipsnio pakeitimo įstatymas (Žin., 1997, Nr. 111-2796); ^s-12f317df41d9bd104892f4ac
 
 
-8) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo [[#^s-d17f301fa4070402bb0710c4|4 straipsnio]] papildymo įstatymas (Žin., 1998, Nr. 6-114); ^s-8f5b6d8bb7dc9fa4f041a7ee
+8) [Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 4 straipsnio papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.CD268796656F) (Žin., 1998, Nr. 6-114); ^s-8f5b6d8bb7dc9fa4f041a7ee
 
 
-9) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ 2, 3, 8, 9, 10, 15, 16, [[#^s-f0e0b0513400c41b0d8ee36c|17 straipsnių]] pakeitimo, papildymo 101 straipsniu ir [[#^s-6a71143379eca9ac5b3b3afc|7 straipsnio]] pripažinimo netekusiu galios įstatymas (Žin., 1999, Nr. 48-1524); ^s-dd5dfbf6a0a9e87e13f79bb7
+9) Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E) [2](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E), [3](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E), [8](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E), [9](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E), [10](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E), [15](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E), [16](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E), [17](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E) straipsnių pakeitimo, papildymo 101 straipsniu ir [[#^s-6a71143379eca9ac5b3b3afc|7 straipsnio]] pripažinimo netekusiu galios įstatymas (Žin., 1999, Nr. 48-1524); ^s-dd5dfbf6a0a9e87e13f79bb7
 
 
-10) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo [[#^s-6a71143379eca9ac5b3b3afc|7 straipsnio]] pakeitimo įstatymas (Žin., 1999, Nr. 48-1527); ^s-af717821a17bdaafe5855885
+10) [Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 7 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.EBBB43C7BB44) (Žin., 1999, Nr. 48-1527); ^s-af717821a17bdaafe5855885
 
 
-11) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ 2 ir [[#^s-f0e0b0513400c41b0d8ee36c|17 straipsnių]] pakeitimo įstatymas (Žin., 1999, Nr. 60-1949); ^s-45aee96133d8cb1d210816f3
+11) Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E) [[#^s-0d133f1abeb774a9f4f4a8c9|2]] ir [[#^s-f0e0b0513400c41b0d8ee36c|17]] straipsnių pakeitimo įstatymas (Žin., 1999, Nr. 60-1949); ^s-45aee96133d8cb1d210816f3
 
 
-12) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ 4 ir [[#^s-9106805a98078966b2619cea|6 straipsnių]] papildymo įstatymas (Žin., 2000, Nr. 52-1483); ^s-468028cdfb64f06a557fe430
+12) Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E) [[#^s-d17f301fa4070402bb0710c4|4]] ir [[#^s-9106805a98078966b2619cea|6]] straipsnių papildymo įstatymas (Žin., 2000, Nr. 52-1483); ^s-468028cdfb64f06a557fe430
 
 
-13) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ 2, 15 ir [[#^s-f0e0b0513400c41b0d8ee36c|17 straipsnių]] papildymo įstatymas (Žin., 2001, Nr. 82-2831); ^s-f1f4f749de4df280f79d0071
+13) Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E) [[#^s-0d133f1abeb774a9f4f4a8c9|2]], [[#^s-33be15596ab99b14a5f8fabc|15]] ir [[#^s-f0e0b0513400c41b0d8ee36c|17]] straipsnių papildymo įstatymas (Žin., 2001, Nr. 82-2831); ^s-f1f4f749de4df280f79d0071
 
 
-14) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 4, [[#^s-37f32edcbd724b52cf867c19|5 straipsnių]] pakeitimo ir papildymo bei Įstatymo papildymo 121 straipsniu įstatymas (Žin., 2002, Nr. 66-2705); ^s-b1fce6aeba6238dda2e37e3c
+14) [Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.502CB1B9F3DB) [4](https://e-tar.lt/portal/lt/legalAct/TAR.502CB1B9F3DB), [5](https://e-tar.lt/portal/lt/legalAct/TAR.502CB1B9F3DB) straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 121 straipsniu įstatymas (Žin., 2002, Nr. 66-2705); ^s-b1fce6aeba6238dda2e37e3c
 
 
-15) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“ pakeitimo įstatymas (Žin., 2002, Nr. 124-5626); ^s-9e5a432993525fe19597531c
+15) Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E) pakeitimo įstatymas (Žin., 2002, Nr. 124-5626); ^s-9e5a432993525fe19597531c
 
 
-16) Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 1, 3, 4, 8, 10, 17, 18, 19, [[#^s-4dbdf3d0d026b2b0f8f2e723|23 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 2003, Nr. 108-4814); ^s-3d050a259b46820bd24e7f57
+16) [Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 1, 3, 4, 8, 10, 17, 18, 19, 23 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.3A39A290B10C) (Žin., 2003, Nr. 108-4814); ^s-3d050a259b46820bd24e7f57
 
 
-17) Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 1, 2, 3, 9, 11, 12, [[#^s-89b733be15a83c5e8c592bde|13 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 2005, Nr. 88-3294); ^s-d5550f9a2d55415cbc822b7a
+17) [Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 1, 2, 3, 9, 11, 12, 13 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.321CD271CA49) (Žin., 2005, Nr. 88-3294); ^s-d5550f9a2d55415cbc822b7a
 
 
-18) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo [[#^s-d17f301fa4070402bb0710c4|4 straipsnio]] pakeitimo įstatymas (Žin., 2006, Nr. 127-4823); ^s-e89b0082714ebafaab07a6fd
+18) [Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 4 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.1B421F2A00AD) (Žin., 2006, Nr. 127-4823); ^s-e89b0082714ebafaab07a6fd
 
 
-19) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo [[#^s-e156bc3c495ffaeda05d8bcb|11 straipsnio]] pakeitimo įstatymas (Žin., 2006, Nr. 141-5400); ^s-4aaa7eb4460de3082bc73f02
+19) Lietuvos Respublikos įstatymų ir kitų teisės norminių aktų rengimo tvarkos įstatymo 11 straipsnio pakeitimo įstatymas (Žin., 2006, Nr. 141-5400); ^s-4aaa7eb4460de3082bc73f02
 
 
-20) Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 3, [[#^s-b4b831dbaff55b4f0e1129d2|12 straipsnių]] pakeitimo ir Įstatymo papildymo 31 straipsniu įstatymas (Žin., 2007, Nr. 12-493); ^s-260cd450782855918355a8da
+20) [Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E) [3](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E), [12](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E) straipsnių pakeitimo ir Įstatymo papildymo 31 straipsniu įstatymas (Žin., 2007, Nr. 12-493); ^s-260cd450782855918355a8da
 
 
-21) Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo [[#^s-b4b831dbaff55b4f0e1129d2|12 straipsnio]] pakeitimo įstatymas (Žin., 2010, Nr. 48-2298); ^s-f481e605aa8ec3360775e12c
+21) [Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 12 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.F52EB5E9F358) (Žin., 2010, Nr. 48-2298); ^s-f481e605aa8ec3360775e12c
 
 
-22) Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 7 ir [[#^s-0554158203439e175ebee2b0|8 straipsnių]] pakeitimo įstatymas (Žin., 2011, Nr. 72-3471). ^s-c50c39c036eca3de1b890018
+22) [Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymo 7 ir 8 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.F043B869179C) (Žin., 2011, Nr. 72-3471). ^s-c50c39c036eca3de1b890018
 
 
 
@@ -1245,7 +1245,7 @@ Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 [[#^s-147758bc
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1411, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20435
-Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 6 ir [[#^s-8ceb1e13b909bc84c68dd6bc|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 [[#^s-9106805a98078966b2619cea|6]] ir [[#^s-8ceb1e13b909bc84c68dd6bc|19]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1255,7 +1255,7 @@ Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 [[#^s-b50d79c2
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2134, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08731
-Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 2, 3, 5, 6, 7, 8, [[#^s-b50d79c2988b6752adf3a75d|10 straipsnių]] ir ketvirtojo skirsnio pakeitimo įstatymas
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 [[#^s-0d133f1abeb774a9f4f4a8c9|2]], [[#^s-793695be00e5a4cf38ba7968|3]], [[#^s-37f32edcbd724b52cf867c19|5]], [[#^s-9106805a98078966b2619cea|6]], [[#^s-6a71143379eca9ac5b3b3afc|7]], [[#^s-0554158203439e175ebee2b0|8]], [[#^s-b50d79c2988b6752adf3a75d|10]] straipsnių ir ketvirtojo skirsnio pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1270,7 +1270,7 @@ Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 [[#^s-29ce5a2d
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2986, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12791
-Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 15, [[#^s-7856597d4a9898abbc8eff47|16 straipsnių]] pakeitimo ir 16-1 straipsnio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 [[#^s-33be15596ab99b14a5f8fabc|15]], [[#^s-7856597d4a9898abbc8eff47|16]] straipsnių pakeitimo ir 16-1 straipsnio pripažinimo netekusiu galios įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1295,7 +1295,7 @@ Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 [[#^s-403d0656
 14.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
-Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/1ce2a330b3f011eb8371ea260d59d64b)
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1315,14 +1315,14 @@ Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 [[#^s-9106805a
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2830, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12628
-Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 1, 5-3, 6, 10 ir [[#^s-89b733be15a83c5e8c592bde|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 [[#^s-1f4b2b7e1bd26d0aaacceaa4|1]], 5-3, [[#^s-9106805a98078966b2619cea|6]], [[#^s-b50d79c2988b6752adf3a75d|10]] ir [[#^s-89b733be15a83c5e8c592bde|13]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3109, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20357
-Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 5, 6 ir [[#^s-8ceb1e13b909bc84c68dd6bc|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 [[#^s-37f32edcbd724b52cf867c19|5]], [[#^s-9106805a98078966b2619cea|6]] ir [[#^s-8ceb1e13b909bc84c68dd6bc|19]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1042, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11115
-Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 2, 5, 6, 14, 15, 17, 18, 19, 20, 21, 22, 24-3, 24-4, 24-5, 24-6 ir [[#^s-147758bcf2c836a88f91dfc7|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teisėkūros pagrindų įstatymo Nr. XI-2220 [[#^s-0d133f1abeb774a9f4f4a8c9|2]], [[#^s-37f32edcbd724b52cf867c19|5]], [[#^s-9106805a98078966b2619cea|6]], [[#^s-a7ff5d559f45f2526d21d68b|14]], [[#^s-33be15596ab99b14a5f8fabc|15]], [[#^s-f0e0b0513400c41b0d8ee36c|17]], [[#^s-403d0656371c73b23820a89f|18]], [[#^s-8ceb1e13b909bc84c68dd6bc|19]], [[#^s-29ce5a2db346e32c68cadf3b|20]], [[#^s-a34931881441dc47c4a7c624|21]], [[#^s-e1d0681f6a620a0febf999b9|22]], 24-3, 24-4, 24-5, 24-6 ir [[#^s-147758bcf2c836a88f91dfc7|26]] straipsnių pakeitimo įstatymas

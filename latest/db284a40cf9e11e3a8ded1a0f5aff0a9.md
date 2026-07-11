@@ -50,7 +50,7 @@ Vilnius
 „27. Elektros ir elektroninė įranga – įranga, kuriai tinkamai funkcionuoti reikalingos elektros srovės arba elektromagnetiniai laukai, ir įranga, skirta kurti, perduoti arba išmatuoti tokias sroves ar laukus, skirta naudoti su ne didesne kaip 1 000 V įtampa esant kintamajai srovei ir su ne didesne kaip 1 500 V įtampa esant nuolatinei srovei. Elektros ir elektroninės įrangos kategorijų sąrašą tvirtina Aplinkos ministerija.“
 
 
-3. Pakeisti 2 straipsnio 36 dalį ir ją išdėstyti taip: ^s-65bb21e93b647db0c537bc8f
+3. Pakeisti [[latest/TAR.8D38517814F1#^s-383e92083d6cf40a7e07c282|2 straipsnio 36 dalį]] ir ją išdėstyti taip: ^s-65bb21e93b647db0c537bc8f
 
 
 „36. Gamintojas – teisės aktų nustatyta tvarka įregistravęs savo veiklą asmuo, kuris:
@@ -68,7 +68,7 @@ Vilnius
 4) gamina transporto priemones ar verslo tikslais importuoja į valstybę narę.“ ^s-96605b774a1f9011af2a4540
 
 
-4. Pakeisti 2 straipsnio 38 dalį ir ją išdėstyti taip: ^s-7d2aa44b7f7cb8033d4fc8c2
+4. Pakeisti [[latest/TAR.8D38517814F1#^s-eadd92b2903d33046465393c|2 straipsnio 38 dalį]] ir ją išdėstyti taip: ^s-7d2aa44b7f7cb8033d4fc8c2
 
 
 „38. Importuotojas – teisės aktų nustatyta tvarka įregistravęs savo veiklą asmuo, kuris:
@@ -89,31 +89,31 @@ Vilnius
 5) iš kitos valstybės narės įveža ir verslo tikslais Lietuvos Respublikos rinkai tiekia transporto priemones, arba ^s-5205c462694d9082589629b0
 
 
-6) iš lizingo (finansinės nuomos) paslaugas teikiančios finansų įstaigos lizingo (finansinės nuomos) būdu įsigyja į Lietuvos Respublikos teritoriją importuotus ir (ar) įvežtus 1–[[#^s-5205c462694d9082589629b0|5 punktuose]] išvardytus gaminius ir (ar) gaminių pripildytas pakuotes. Šiuo atveju lizingo (finansinės nuomos) paslaugas teikianti finansų įstaiga nelaikoma importuotoju. Jeigu lizingo (finansinės nuomos) sutartis nutraukiama, šiuo Įstatymu gaminių importuotojui nustatytas pareigas, atsiradusias po sutarties nutraukimo ir turto susigrąžinimo iš buvusio lizingo (finansinės nuomos) gavėjo, perima lizingo (finansinės nuomos) paslaugas teikianti finansų įstaiga.“ ^s-81183873427d0821a208f2ed
+6) iš lizingo (finansinės nuomos) paslaugas teikiančios finansų įstaigos lizingo (finansinės nuomos) būdu įsigyja į Lietuvos Respublikos teritoriją importuotus ir (ar) įvežtus [[#^s-2186289134faf2a6ed2d65a3|1]]–[[#^s-5205c462694d9082589629b0|5]] punktuose išvardytus gaminius ir (ar) gaminių pripildytas pakuotes. Šiuo atveju lizingo (finansinės nuomos) paslaugas teikianti finansų įstaiga nelaikoma importuotoju. Jeigu lizingo (finansinės nuomos) sutartis nutraukiama, šiuo Įstatymu gaminių importuotojui nustatytas pareigas, atsiradusias po sutarties nutraukimo ir turto susigrąžinimo iš buvusio lizingo (finansinės nuomos) gavėjo, perima lizingo (finansinės nuomos) paslaugas teikianti finansų įstaiga.“ ^s-81183873427d0821a208f2ed
 
 
-5. Pakeisti 2 straipsnio 52 dalį ir ją išdėstyti taip: ^s-9c2348844000a71930e2b5a5
+5. Pakeisti [[latest/TAR.8D38517814F1#^s-73c23cf82ff4348267ffed98|2 straipsnio 52 dalį]] ir ją išdėstyti taip: ^s-9c2348844000a71930e2b5a5
 
 
 „52. Paruošimas naudoti pakartotinai – atliekų naudojimo veikla, kai atliekomis tapę produktai ar jų sudedamosios dalys tikrinami, valomi ar taisomi, siekiant, kad būtų tinkami naudoti pakartotinai be jokio kito pradinio apdirbimo.“
 
 
-6. Papildyti [[#^s-4f4bea48a7b82a70a836cb50|2 straipsnį]] nauja 48 dalimi: ^s-0b47bd7b4076c954d08c3bd6
+6. Papildyti [[#^s-4f4bea48a7b82a70a836cb50|2 straipsnį]] nauja [[latest/TAR.8D38517814F1|48 dalimi]]: ^s-0b47bd7b4076c954d08c3bd6
 
 
 „48. Ne keliais judantys mechanizmai – energijos šaltinį turintys mechanizmai, kurie veikdami yra mobilūs arba tarp stacionarių gretimų darbo vietų juda tolydžiai ar pusiau tolydžiai.“
 
 
-7. Buvusias [[#^s-4f4bea48a7b82a70a836cb50|2 straipsnio]] 48–59 dalis laikyti atitinkamai 49–60 dalimis. ^s-86db2eef2cdb76cb3b5a732b
+7. Buvusias [[#^s-4f4bea48a7b82a70a836cb50|2 straipsnio]] [[latest/TAR.8D38517814F1#^s-a54e2acb41be6d7a0a90edc7|48]]–[[latest/TAR.8D38517814F1#^s-991f5f30066f979059a0ebb9|59]] dalis laikyti atitinkamai [[latest/TAR.8D38517814F1|49]]–[[latest/TAR.8D38517814F1#^s-541e279433cc5003e1063e4f|60]] dalimis. ^s-86db2eef2cdb76cb3b5a732b
 
 
-8. Papildyti [[#^s-4f4bea48a7b82a70a836cb50|2 straipsnį]] nauja 61 dalimi: ^s-b2a46f4bb0cf8243e496c463
+8. Papildyti [[#^s-4f4bea48a7b82a70a836cb50|2 straipsnį]] nauja [[latest/TAR.8D38517814F1|61 dalimi]]: ^s-b2a46f4bb0cf8243e496c463
 
 
 „61. Stambi stacionarioji pramoninė įranga – tam tikram darbui atlikti naudojamas didelės apimties mašinų, įrangos ir (arba) komponentų komplektas, kurį tam tikroje pramoninio gamybos komplekso arba mokslinių tyrimų ar technologinės plėtros komplekso vietoje visam laikui sumontuoja, naudoja, jo techninę priežiūrą atlieka ir išmontuoja specialistai.“
 
 
-9. Papildyti [[#^s-4f4bea48a7b82a70a836cb50|2 straipsnį]] nauja 62 dalimi: ^s-3416006bc93ee963ed47f898
+9. Papildyti [[#^s-4f4bea48a7b82a70a836cb50|2 straipsnį]] nauja [[latest/TAR.8D38517814F1|62 dalimi]]: ^s-3416006bc93ee963ed47f898
 
 
 „62. Stambus stacionarusis įrenginys – keleto tipų aparatų ir tam tikrais atvejais kitų prietaisų didelės apimties komplektas:
@@ -128,10 +128,10 @@ Vilnius
 3) kuris gali būti pakeistas tik tokiu pačiu specialiai suprojektuotu įrenginiu.“ ^s-801427b6b9085dd4c8a7cd52
 
 
-10. Buvusias [[#^s-4f4bea48a7b82a70a836cb50|2 straipsnio]] 60–63 dalis laikyti atitinkamai 63–66 dalimis. ^s-7ef9e3ea7587f7528b28e845
+10. Buvusias [[#^s-4f4bea48a7b82a70a836cb50|2 straipsnio]] [[latest/TAR.8D38517814F1#^s-541e279433cc5003e1063e4f|60]]–[[latest/TAR.8D38517814F1#^s-71bc45789db473c49d2d6054|63]] dalis laikyti atitinkamai [[latest/TAR.8D38517814F1#^s-71bc45789db473c49d2d6054|63]]–[[latest/TAR.8D38517814F1#^s-d5227f9f31ee268f19676997|66]] dalimis. ^s-7ef9e3ea7587f7528b28e845
 
 
-11. Papildyti 2 straipsnį 67 dalimi: ^s-aec5423cf7d75fe8794d9eb2
+11. Papildyti [[latest/TAR.8D38517814F1#^s-1a82249c55dc1a6f8f35ae95|2 straipsnį 67 dalimi]]: ^s-aec5423cf7d75fe8794d9eb2
 
 
 „67. Sąvoka „medicinos prietaisas“ suprantama kaip „medicinos prietaisas“ arba „priedas“, kuris atitinkamai apibrėžtas 1993 m. birželio 14 d. Tarybos direktyvos 93/42/EEB dėl medicinos prietaisų [[#^s-9e100f04bd1f23051817a980|1 straipsnio 2 dalies]] a arba b punkte ir kuris yra elektros ir elektroninė įranga. Sąvoka „in vitro diagnostikos medicinos prietaisas“ suprantama kaip „in vitro diagnostikos prietaisas“ arba „priedas“, kuris atitinkamai apibrėžtas 1998 m. spalio 27 d. Europos Parlamento ir Tarybos direktyvos 98/79/EB dėl in vitro diagnostikos medicinos prietaisų [[#^s-9e100f04bd1f23051817a980|1 straipsnio 2 dalies]] b arba c punkte ir kuris yra elektros ir elektroninė įranga. Sąvoka „aktyvusis implantuojamasis medicinos prietaisas“ suprantama kaip „aktyvusis implantuojamasis medicinos prietaisas“, kuris apibrėžtas 1990 m. birželio 20 d. Tarybos direktyvos 90/385/EEB dėl valstybių narių įstatymų, reglamentuojančių aktyviuosius implantuojamuosius medicinos prietaisus, suderinimo [[#^s-9e100f04bd1f23051817a980|1 straipsnio 2 dalies]] c punkte ir kuris yra elektros ir elektroninė įranga.“
@@ -141,10 +141,10 @@ Vilnius
 ### 2 straipsnis. 341 straipsnio pakeitimas ^s-4f4bea48a7b82a70a836cb50
 
 
-Pakeisti 341 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.8D38517814F1#^s-c003e74acbe3e8fc740c3ca3|341 straipsnį]] ir jį išdėstyti taip:
 
 
-„341 straipsnis. Elektros ir elektroninės įrangos atliekų tvarkymo sistemos dalyvių teisės ir pareigos
+„[[latest/TAR.8D38517814F1#^s-c003e74acbe3e8fc740c3ca3|341 straipsnis]]. Elektros ir elektroninės įrangos atliekų tvarkymo sistemos dalyvių teisės ir pareigos
 
 
 1. Elektros ir elektroninės įrangos gamintojų ir importuotojų pagrindinės pareigos: ^s-6d343c663dce153f9f25ce09
@@ -183,16 +183,16 @@ Pakeisti 341 straipsnį ir jį išdėstyti taip:
 1) individualiai – organizuodami po jų Lietuvos Respublikos vidaus rinkai verslo tikslais tiektos elektros ir elektroninės įrangos naudojimo susidariusių atliekų tvarkymą; ^s-9c7afa20f907862e1849c9e8
 
 
-2) kolektyviai – steigdami šio Įstatymo 342 straipsnyje nurodytą gamintojų ir importuotojų organizaciją ir (ar) tapdami tokios organizacijos dalyviais ir jai pavesdami organizuoti elektros ir elektroninės įrangos atliekų tvarkymą ir vykdyti visas ar dalį šiame Įstatyme jiems nustatytų pareigų ar organizacijai sutartiniais pagrindais pavesdami organizuoti elektros ir elektroninės įrangos atliekų tvarkymą ir vykdyti visas ar dalį šiame Įstatyme nustatytų pareigų netapdami organizacijos dalyviais. ^s-813b61e88850e622d6f13329
+2) kolektyviai – steigdami šio Įstatymo [[latest/TAR.8D38517814F1#^s-81f031c5140d5b53a7fda5ba|342 straipsnyje]] nurodytą gamintojų ir importuotojų organizaciją ir (ar) tapdami tokios organizacijos dalyviais ir jai pavesdami organizuoti elektros ir elektroninės įrangos atliekų tvarkymą ir vykdyti visas ar dalį šiame Įstatyme jiems nustatytų pareigų ar organizacijai sutartiniais pagrindais pavesdami organizuoti elektros ir elektroninės įrangos atliekų tvarkymą ir vykdyti visas ar dalį šiame Įstatyme nustatytų pareigų netapdami organizacijos dalyviais. ^s-813b61e88850e622d6f13329
 
 
-6. Siekdami įvykdyti [[#^s-6d343c663dce153f9f25ce09|šio straipsnio 1 dalies]] 2 ir 6 punktuose nustatytas pareigas, elektros ir elektroninės įrangos gamintojai ir importuotojai gali diegti savivaldybės organizuojamą komunalinių atliekų tvarkymo sistemą papildančias elektros ir elektroninės įrangos atliekų surinkimo sistemas. ^s-81672bb91bbc902b21742f3a
+6. Siekdami įvykdyti [[#^s-6d343c663dce153f9f25ce09|šio straipsnio 1 dalies]] [[latest/TAR.8D38517814F1|2]] ir [[latest/TAR.8D38517814F1|6]] punktuose nustatytas pareigas, elektros ir elektroninės įrangos gamintojai ir importuotojai gali diegti savivaldybės organizuojamą komunalinių atliekų tvarkymo sistemą papildančias elektros ir elektroninės įrangos atliekų surinkimo sistemas. ^s-81672bb91bbc902b21742f3a
 
 
 7. Buitinės elektros ir elektroninės įrangos gamintojai ir importuotojai, nuo 2005 m. rugpjūčio 13 d. tiekdami Lietuvos Respublikos vidaus rinkai verslo tikslais buitinę elektros ir elektroninę įrangą, registruodamiesi ir (ar) teikdami apskaitos ataskaitas, aplinkos ministro nustatyta tvarka turi pateikti Vyriausybės ar jos įgaliotos institucijos nustatytus dokumentus, įrodančius, kad visos jų Lietuvos Respublikos vidaus rinkai verslo tikslais tiektos buitinės elektros ir elektroninės įrangos atliekų tvarkymas bus finansuojamas. Tokių dokumentų sudarymo ir jų reikalavimų vykdymo tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-1a46f888adfdca0f0a471fbd
 
 
-8. Be dokumentų, nurodytų [[#^s-1a46f888adfdca0f0a471fbd|šio straipsnio 7 dalyje]], elektros ir elektroninės įrangos gamintojai ir importuotojai, registruodamiesi ir teikdami apskaitos ataskaitas, šio Įstatymo 342 straipsnyje nurodytos gamintojų ir importuotojų organizacijos, teikdamos veiklos ataskaitas, aplinkos ministro nustatyta tvarka turi pateikti sutarčių su atliekų tvarkytojais dėl elektros ir elektroninės įrangos atliekų surinkimo, vežimo, apdorojimo kopijas. ^s-70ce7fec2eed256597e2ccf7
+8. Be dokumentų, nurodytų [[#^s-1a46f888adfdca0f0a471fbd|šio straipsnio 7 dalyje]], elektros ir elektroninės įrangos gamintojai ir importuotojai, registruodamiesi ir teikdami apskaitos ataskaitas, šio Įstatymo [[latest/TAR.8D38517814F1#^s-81f031c5140d5b53a7fda5ba|342 straipsnyje]] nurodytos gamintojų ir importuotojų organizacijos, teikdamos veiklos ataskaitas, aplinkos ministro nustatyta tvarka turi pateikti sutarčių su atliekų tvarkytojais dėl elektros ir elektroninės įrangos atliekų surinkimo, vežimo, apdorojimo kopijas. ^s-70ce7fec2eed256597e2ccf7
 
 
 9. Elektros ir elektroninės įrangos gamintojai ir importuotojai turi organizuoti savo organizuojamose elektros ir elektroninės įrangos atliekų tvarkymo sistemose, savivaldybių įrengtose didelių gabaritų atliekų surinkimo aikštelėse, iš platintojų surinktų buitinių elektros ir elektroninės įrangos atliekų tvarkymą taip: ^s-92ecbece3347cadc2840cdaf
@@ -216,7 +216,7 @@ Pakeisti 341 straipsnį ir jį išdėstyti taip:
 11. [[#^s-419ced270f08189c692e44b1|Šio straipsnio 10 dalyje]] nenurodytų ne buitinių elektros ir elektroninės įrangos atliekų tvarkymą turi užtikrinti šių atliekų turėtojai – perduoti tokias atliekas turinčiam teisę tvarkyti atliekų tvarkytojui. ^s-070e26276ed471e0e93002b4
 
 
-12. Gamintojai ir importuotojai gali susitarti su atliekų turėtojais ir ne buitinių elektros ir elektroninės įrangos atliekų tvarkymą finansuoti kitaip, negu nurodyta šio straipsnio 10 ir [[#^s-070e26276ed471e0e93002b4|11 dalyse]]. Tokie susitarimai turi užtikrinti, kad elektros ir elektroninės įrangos atliekos bus surinktos ir sutvarkytos laikantis šio Įstatymo ir kitų teisės aktų reikalavimų. ^s-0ae9e9e55e707b0ba5fefd06
+12. Gamintojai ir importuotojai gali susitarti su atliekų turėtojais ir ne buitinių elektros ir elektroninės įrangos atliekų tvarkymą finansuoti kitaip, negu nurodyta šio straipsnio [[#^s-419ced270f08189c692e44b1|10]] ir [[#^s-070e26276ed471e0e93002b4|11]] dalyse. Tokie susitarimai turi užtikrinti, kad elektros ir elektroninės įrangos atliekos bus surinktos ir sutvarkytos laikantis šio Įstatymo ir kitų teisės aktų reikalavimų. ^s-0ae9e9e55e707b0ba5fefd06
 
 
 13. Elektros ir elektroninės įrangos gamintojai ir importuotojai, parduodami elektros ir elektroninę įrangą, pardavimo dokumentuose vartotojams gali atskirai nurodyti šios įrangos atliekų tvarkymo, tai yra surinkimo, apdorojimo ir aplinkai tinkamo šalinimo, išlaidas. Šios išlaidos negali viršyti realių elektros ir elektroninės įrangos atliekų tvarkymo išlaidų. ^s-612f85fe2144142bec4fc056
@@ -234,7 +234,7 @@ Pakeisti 341 straipsnį ir jį išdėstyti taip:
 17. Be pareigos, nurodytos [[#^s-39f8927243e2f66d12181f17|šio straipsnio 16 dalyje]], platintojai privalo nemokamai priimti vartotojo atiduodamas smulkios elektros ir elektroninės įrangos atliekas, kurių išoriniai matmenys ne didesni kaip 25 cm, mažmeninės prekybos parduotuvėse, kurių prekybinis plotas užima bent 400 m2, joms priklausančiose teritorijose arba šalia parduotuvių, tačiau ne didesniu kaip 150 metrų atstumu nuo jų, ir tuo atveju, jeigu vartotojo atiduodamos elektros ir elektroninės įrangos atliekos nėra tos pačios paskirties kaip platintojo parduodama elektros ir elektroninė įranga. ^s-5ac42b19b99890a1a73004fb
 
 
-18. Platintojai gali nesilaikyti šio straipsnio 16 ir [[#^s-5ac42b19b99890a1a73004fb|17 dalyse]] nustatytų reikalavimų ir nemokamai nepriimti vartotojo atiduodamų elektros ir elektroninės įrangos atliekų, jeigu šias atliekas sudaro elektros ir elektroninė įranga be pagrindinių tokios įrangos dalių ar jose yra atliekų, nepriskiriamų elektros ir elektroninės įrangos atliekoms, ir (ar) atliekos dėl užterštumo kelia pavojų darbuotojų saugumui ir sveikatai. Elektros ir elektroninės įrangos atliekų, kai jos dėl užterštumo kelia pavojų darbuotojų saugumui ir sveikatai, priėmimo tvarką nustato Aplinkos ministerija. ^s-3ebd70a8504e32f4aa3e773e
+18. Platintojai gali nesilaikyti šio straipsnio [[#^s-39f8927243e2f66d12181f17|16]] ir [[#^s-5ac42b19b99890a1a73004fb|17]] dalyse nustatytų reikalavimų ir nemokamai nepriimti vartotojo atiduodamų elektros ir elektroninės įrangos atliekų, jeigu šias atliekas sudaro elektros ir elektroninė įranga be pagrindinių tokios įrangos dalių ar jose yra atliekų, nepriskiriamų elektros ir elektroninės įrangos atliekoms, ir (ar) atliekos dėl užterštumo kelia pavojų darbuotojų saugumui ir sveikatai. Elektros ir elektroninės įrangos atliekų, kai jos dėl užterštumo kelia pavojų darbuotojų saugumui ir sveikatai, priėmimo tvarką nustato Aplinkos ministerija. ^s-3ebd70a8504e32f4aa3e773e
 
 
 19. Iš vartotojų priimtas buitines elektros ir elektroninės įrangos atliekas platintojai gali nemokamai (pasirinktinai): ^s-9fc6b4d218f31fff15cc20b3
@@ -243,7 +243,7 @@ Pakeisti 341 straipsnį ir jį išdėstyti taip:
 1) pristatyti į savivaldybių įrengtas didelių gabaritų atliekų surinkimo aikšteles; ^s-cfeb9a7aa6632a8ffccc2d87
 
 
-2) perduoti atliekų tvarkytojui, kuris yra sudaręs sutartį su gamintoju, importuotoju ar šio Įstatymo 342 straipsnyje nurodyta gamintojų ir importuotojų organizacija dėl elektros ir elektroninės įrangos atliekų surinkimo ir vežimo toje savivaldybėje. ^s-bb9ad7b891cb38219de4b2f7
+2) perduoti atliekų tvarkytojui, kuris yra sudaręs sutartį su gamintoju, importuotoju ar šio Įstatymo [[latest/TAR.8D38517814F1#^s-81f031c5140d5b53a7fda5ba|342 straipsnyje]] nurodyta gamintojų ir importuotojų organizacija dėl elektros ir elektroninės įrangos atliekų surinkimo ir vežimo toje savivaldybėje. ^s-bb9ad7b891cb38219de4b2f7
 
 
 20. Platintojai privalo aplinkos ministro nustatyta tvarka prekybos vietoje teikti rašytinę informaciją visiems vartotojams apie tai, kaip jie gali atiduoti šias atliekas platintojams. ^s-76329042844f5b649928f14d
@@ -252,7 +252,7 @@ Pakeisti 341 straipsnį ir jį išdėstyti taip:
 21. Gamintojo ir importuotojo pageidavimu platintojas turi vartotojui nurodyti elektros ir elektroninės įrangos atliekų tvarkymo išlaidas. ^s-89524ad1f2473169bfe5febb
 
 
-22. Šio straipsnio 15, 16, 18, 19, 20 ir [[#^s-89524ad1f2473169bfe5febb|21 dalių]] reikalavimai taip pat taikomi platintojams, kurie Lietuvos Respublikos vidaus rinkai verslo tikslais tiekdami elektros ir elektroninę įrangą naudojasi nuotolinio ryšio priemonėmis. Šiuo atveju vartotojams turi būti sudarytos sąlygos atiduoti elektros ir elektroninės įrangos atliekas elektros ir elektroninės įrangos atsiėmimo vietoje. Informacija, kurioje aiškiai nurodoma, kam ir kokiais būdais vartotojas gali atiduoti elektros ir elektroninės įrangos atliekas, turi būti paskelbta gerai matomoje vietoje platintojo naudojamoje interneto parduotuvės svetainėje. ^s-386795bf3f6eb8f7486283fd
+22. Šio straipsnio [[#^s-972245d0bb27a33a927ee23e|15]], [[#^s-39f8927243e2f66d12181f17|16]], [[#^s-3ebd70a8504e32f4aa3e773e|18]], [[#^s-9fc6b4d218f31fff15cc20b3|19]], [[#^s-76329042844f5b649928f14d|20]] ir [[#^s-89524ad1f2473169bfe5febb|21]] dalių reikalavimai taip pat taikomi platintojams, kurie Lietuvos Respublikos vidaus rinkai verslo tikslais tiekdami elektros ir elektroninę įrangą naudojasi nuotolinio ryšio priemonėmis. Šiuo atveju vartotojams turi būti sudarytos sąlygos atiduoti elektros ir elektroninės įrangos atliekas elektros ir elektroninės įrangos atsiėmimo vietoje. Informacija, kurioje aiškiai nurodoma, kam ir kokiais būdais vartotojas gali atiduoti elektros ir elektroninės įrangos atliekas, turi būti paskelbta gerai matomoje vietoje platintojo naudojamoje interneto parduotuvės svetainėje. ^s-386795bf3f6eb8f7486283fd
 
 
 23. Atliekų turėtojas privalo atskirti elektros ir elektroninės įrangos atliekas nuo kitų atliekų, nemaišyti jų su kitomis atliekomis ar medžiagomis, jų neardyti. ^s-456c1ffee566da7aa3c5aa86
@@ -267,7 +267,7 @@ Pakeisti 341 straipsnį ir jį išdėstyti taip:
 2) perduoti tokias atliekas turinčiam teisę tvarkyti atliekų tvarkytojui. ^s-9bd6bf7e7ed48d567deb1907
 
 
-25. Platintojo ar vartotojo elektros ir elektroninės įrangos atliekos, pristatomos į [[#^s-cfeb9a7aa6632a8ffccc2d87|šio straipsnio 19 dalies 1 punkte]] ir 24 dalies 1 punkte nurodytas buitinių elektros ir elektroninės įrangos atliekų priėmimo vietas, gali būti nepriimamos nemokamai, jeigu šias atliekas sudaro elektros ir elektroninė įranga be pagrindinių tokios įrangos dalių ar jose yra atliekų, nepriskiriamų elektros ir elektroninės įrangos atliekoms, ir (ar) šios atliekos dėl užterštumo kelia pavojų darbuotojų saugumui ir sveikatai. Elektros ir elektroninės įrangos atliekų, kai jos dėl užterštumo kelia pavojų darbuotojų saugumui ir sveikatai, priėmimo tvarką nustato Aplinkos ministerija. ^s-25a4f3d65875f225a16dc62d
+25. Platintojo ar vartotojo elektros ir elektroninės įrangos atliekos, pristatomos į [[#^s-cfeb9a7aa6632a8ffccc2d87|šio straipsnio 19 dalies 1 punkte]] ir 24 [[latest/TAR.8D38517814F1|dalies 1 punkte]] nurodytas buitinių elektros ir elektroninės įrangos atliekų priėmimo vietas, gali būti nepriimamos nemokamai, jeigu šias atliekas sudaro elektros ir elektroninė įranga be pagrindinių tokios įrangos dalių ar jose yra atliekų, nepriskiriamų elektros ir elektroninės įrangos atliekoms, ir (ar) šios atliekos dėl užterštumo kelia pavojų darbuotojų saugumui ir sveikatai. Elektros ir elektroninės įrangos atliekų, kai jos dėl užterštumo kelia pavojų darbuotojų saugumui ir sveikatai, priėmimo tvarką nustato Aplinkos ministerija. ^s-25a4f3d65875f225a16dc62d
 
 
 26. Ne buitines elektros ir elektroninės įrangos atliekas atliekų turėtojas gali (pasirinktinai): ^s-1d6e637e3d43232399d9fe8e
@@ -289,16 +289,16 @@ Pakeisti 341 straipsnį ir jį išdėstyti taip:
 ### 3 straipsnis. 342 straipsnio pakeitimas ^s-bf249593c677a1d25d5fc959
 
 
-1. Pakeisti 342 straipsnio 3 dalį ir ją išdėstyti taip: ^s-a50a49a42c05dd3cf2f620c8
+1. Pakeisti [[latest/TAR.8D38517814F1#^s-355ba211577e480c8cfe8fca|342 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-a50a49a42c05dd3cf2f620c8
 
 
-„3. Siekdama gauti elektros ir elektroninės įrangos atliekų tvarkymo organizavimo licenciją ir vykdydama veiklą išduotos licencijos pagrindu, Organizacija, be šio Įstatymo 3423 straipsnyje nurodytų dokumentų, turi turėti banko garantiją ar laidavimo draudimo sutartį, įrodančią, kad visų elektros ir elektroninės įrangos atliekų, kurios gali susidaryti per 3 mėnesius naudojant jos dalyvių ir gamintojų, ir importuotojų, pavedusių jai organizuoti elektros ir elektroninės įrangos atliekų tvarkymą, tiektą Lietuvos Respublikos vidaus rinkai elektros ir elektroninę įrangą, tvarkymas bus finansuojamas. Tokių dokumentų sudarymo, pateikimo ir jų reikalavimų vykdymo tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
+„3. Siekdama gauti elektros ir elektroninės įrangos atliekų tvarkymo organizavimo licenciją ir vykdydama veiklą išduotos licencijos pagrindu, Organizacija, be šio Įstatymo [[latest/TAR.8D38517814F1#^s-c14f0820fb5c3860caa4e1bd|3423 straipsnyje]] nurodytų dokumentų, turi turėti banko garantiją ar laidavimo draudimo sutartį, įrodančią, kad visų elektros ir elektroninės įrangos atliekų, kurios gali susidaryti per 3 mėnesius naudojant jos dalyvių ir gamintojų, ir importuotojų, pavedusių jai organizuoti elektros ir elektroninės įrangos atliekų tvarkymą, tiektą Lietuvos Respublikos vidaus rinkai elektros ir elektroninę įrangą, tvarkymas bus finansuojamas. Tokių dokumentų sudarymo, pateikimo ir jų reikalavimų vykdymo tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
 
 
-2. Pakeisti 342 straipsnio 4 dalį ir ją išdėstyti taip: ^s-25d4ed75de0ecf5ff2f4487b
+2. Pakeisti [[latest/TAR.8D38517814F1#^s-739e23959aa2976385ff2b57|342 straipsnio 4 dalį]] ir ją išdėstyti taip: ^s-25d4ed75de0ecf5ff2f4487b
 
 
-„4. Siekdama įvykdyti šio Įstatymo 341 straipsnyje elektros ir elektroninės įrangos gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo sudaryti:
+„4. Siekdama įvykdyti šio Įstatymo [[latest/TAR.8D38517814F1#^s-c003e74acbe3e8fc740c3ca3|341 straipsnyje]] elektros ir elektroninės įrangos gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo sudaryti:
 
 
 1) sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl buitinių elektros ir elektroninės įrangos atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų surinkimo aikštelėse ir šių aikštelių eksploatavimo dalinio finansavimo. Šiose sutartyse turi būti numatyta elektros ir elektroninės įrangos atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų aikštelėse ir šių aikštelių eksploatavimo išlaidų dalinio finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių įrengtų didelių gabaritų atliekų aikštelių infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka; ^s-d14ac1c75d0ea353cd5093bb
@@ -317,10 +317,10 @@ Pakeisti 341 straipsnį ir jį išdėstyti taip:
 ### 4 straipsnis. 343 straipsnio pakeitimas ^s-5d4609ed82e62a18f52a9f06
 
 
-1. Pakeisti 343 straipsnio 1 dalį ir ją išdėstyti taip: ^s-1d0116c9880d771d595cf816
+1. Pakeisti [[latest/TAR.8D38517814F1#^s-924176bcb41c473e3190e36f|343 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-1d0116c9880d771d595cf816
 
 
-„1. Vykdydami šio Įstatymo 341 straipsnyje nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai buitinių elektros ir elektroninės įrangos atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo:
+„1. Vykdydami šio Įstatymo [[latest/TAR.8D38517814F1#^s-c003e74acbe3e8fc740c3ca3|341 straipsnyje]] nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai buitinių elektros ir elektroninės įrangos atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo:
 
 
 1) sudaryti sutartis su visomis savivaldybėmis (arba savivaldybių įsteigtais juridiniais asmenimis, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) dėl buitinių elektros ir elektroninės įrangos atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų surinkimo aikštelėse ir šių aikštelių eksploatavimo dalinio finansavimo. Šiose sutartyse turi būti numatyta elektros ir elektroninės įrangos atliekų surinkimo savivaldybių įrengtose didelių gabaritų atliekų surinkimo aikštelėse ir šių aikštelių eksploatavimo išlaidų dalinio finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, savivaldybių įrengtų didelių gabaritų atliekų aikštelių infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka; ^s-c54f266a3a75245732f5bddb
@@ -335,10 +335,10 @@ Pakeisti 341 straipsnį ir jį išdėstyti taip:
 4) aplinkos ministro nustatyta tvarka kiekvienais metais pateikti elektros ir elektroninės įrangos atliekų tvarkymo organizavimo veiklos ataskaitą.“ ^s-950a33fb60f2feae2bc799b6
 
 
-2. Pakeisti 343 straipsnio 3 dalį ir ją išdėstyti taip: ^s-d4b54fbf37e3247eee6a13b9
+2. Pakeisti [[latest/TAR.8D38517814F1#^s-dac9e8ac1b49efc174631c92|343 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-d4b54fbf37e3247eee6a13b9
 
 
-„3. Vykdydami šio Įstatymo 341 straipsnyje nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai ne buitinių elektros ir elektroninės įrangos atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo:
+„3. Vykdydami šio Įstatymo [[latest/TAR.8D38517814F1#^s-c003e74acbe3e8fc740c3ca3|341 straipsnyje]] nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai ne buitinių elektros ir elektroninės įrangos atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo:
 
 
 1) sudaryti sutartis su elektros ir elektroninės įrangos atliekų surinkėjais dėl ne buitinių elektros ir elektroninės įrangos atliekų surinkimo, vežimo, paruošimo naudoti ir sutartis su elektros ir elektroninės įrangos atliekų naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų elektros ir elektroninės įrangos atliekų panaudojimo. Šiose sutartyse turi būti numatyta apmokėjimo už elektros ir elektroninės įrangos atliekų surinkimą iš elektros ir elektroninės įrangos platintojų, tokių surinktų atliekų vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka; ^s-2822276ba9c31a24905febdf
@@ -351,60 +351,60 @@ Pakeisti 341 straipsnį ir jį išdėstyti taip:
 ### 5 straipsnis. 344 straipsnio pakeitimas ^s-975eb170a0896aa054fe7176
 
 
-Papildyti 344 straipsnį 9 dalimi:
+Papildyti [[latest/TAR.8D38517814F1#^s-756e1c886c12831221a5f561|344 straipsnį 9 dalimi]]:
 
 
-„9. Šio straipsnio 1 dalies 4 punkto nuostatos netaikomos transporto priemones Lietuvos Respublikos teritorijoje pagaminantiems ar įvežantiems į Lietuvos Respublikos teritoriją ir savoms reikmėms sunaudojantiems gamintojams ir (ar) importuotojams.“
+„9. [[latest/TAR.8D38517814F1|Šio straipsnio 1 dalies 4 punkto]] nuostatos netaikomos transporto priemones Lietuvos Respublikos teritorijoje pagaminantiems ar įvežantiems į Lietuvos Respublikos teritoriją ir savoms reikmėms sunaudojantiems gamintojams ir (ar) importuotojams.“
 
 
 
 ### 6 straipsnis. 345 straipsnio pakeitimas ^s-a900ce6d3111c0e0c1b242ba
 
 
-Pakeisti 345 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.8D38517814F1#^s-69dbf41255531ab905feead5|345 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
-„2. Siekdama gauti eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo licenciją ir vykdydama veiklą išduotos licencijos pagrindu, Organizacija, be šio Įstatymo 3423 straipsnyje nurodytų dokumentų, turi turėti banko garantiją ar laidavimo draudimo sutartį, įrodančią, kad visų eksploatuoti netinkamų transporto priemonių, kurios gali susidaryti per 3 mėnesius naudojant jos dalyvių ir jai organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą pavedusių gamintojų ir importuotojų tiektas Lietuvos Respublikos vidaus rinkai verslo tikslais transporto priemones, tvarkymas bus finansuojamas. Tokio dokumento sudarymo, pateikimo ir jo reikalavimų vykdymo tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
+„2. Siekdama gauti eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo licenciją ir vykdydama veiklą išduotos licencijos pagrindu, Organizacija, be šio Įstatymo [[latest/TAR.8D38517814F1#^s-c14f0820fb5c3860caa4e1bd|3423 straipsnyje]] nurodytų dokumentų, turi turėti banko garantiją ar laidavimo draudimo sutartį, įrodančią, kad visų eksploatuoti netinkamų transporto priemonių, kurios gali susidaryti per 3 mėnesius naudojant jos dalyvių ir jai organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą pavedusių gamintojų ir importuotojų tiektas Lietuvos Respublikos vidaus rinkai verslo tikslais transporto priemones, tvarkymas bus finansuojamas. Tokio dokumento sudarymo, pateikimo ir jo reikalavimų vykdymo tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
 
 
 
 ### 7 straipsnis. 3412 straipsnio pakeitimas ^s-9bf29d40688910618fe63794
 
 
-Pakeisti 3412 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.8D38517814F1#^s-aedf467504248ce44f87e30f|3412 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
-„2. Siekdama gauti alyvos atliekų tvarkymo organizavimo licenciją ir vykdydama veiklą išduotos licencijos pagrindu, Organizacija, be šio Įstatymo 3423 straipsnyje nurodytų dokumentų, turi turėti banko garantiją ar laidavimo draudimo sutartį, įrodančią, kad visų alyvos atliekų, kurios gali susidaryti per 3 mėnesius naudojant jos dalyvių ir jai organizuoti alyvos atliekų tvarkymą pavedusių gamintojų ir importuotojų tiektas Lietuvos Respublikos vidaus rinkai alyvas, tvarkymas bus finansuojamas. Tokio dokumento sudarymo, pateikimo ir jo reikalavimų vykdymo tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
+„2. Siekdama gauti alyvos atliekų tvarkymo organizavimo licenciją ir vykdydama veiklą išduotos licencijos pagrindu, Organizacija, be šio Įstatymo [[latest/TAR.8D38517814F1#^s-c14f0820fb5c3860caa4e1bd|3423 straipsnyje]] nurodytų dokumentų, turi turėti banko garantiją ar laidavimo draudimo sutartį, įrodančią, kad visų alyvos atliekų, kurios gali susidaryti per 3 mėnesius naudojant jos dalyvių ir jai organizuoti alyvos atliekų tvarkymą pavedusių gamintojų ir importuotojų tiektas Lietuvos Respublikos vidaus rinkai alyvas, tvarkymas bus finansuojamas. Tokio dokumento sudarymo, pateikimo ir jo reikalavimų vykdymo tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
 
 
 
 ### 8 straipsnis. 3415 straipsnio pakeitimas ^s-94c80c04fc15c9a01e90784a
 
 
-Papildyti 3415 straipsnį 17 dalimi:
+Papildyti [[latest/TAR.8D38517814F1#^s-76ee2e91354050c739e59ca2|3415 straipsnį 17 dalimi]]:
 
 
-„17. Šio straipsnio 1 dalies 5 punkto nuostatos netaikomos baterijas ir akumuliatorius Lietuvos Respublikos teritorijoje pagaminantiems ar įvežantiems į Lietuvos Respublikos teritoriją ir savoms reikmėms sunaudojantiems gamintojams ir (ar) importuotojams.“
+„17. [[latest/TAR.8D38517814F1|Šio straipsnio 1 dalies 5 punkto]] nuostatos netaikomos baterijas ir akumuliatorius Lietuvos Respublikos teritorijoje pagaminantiems ar įvežantiems į Lietuvos Respublikos teritoriją ir savoms reikmėms sunaudojantiems gamintojams ir (ar) importuotojams.“
 
 
 
 ### 9 straipsnis. 3416 straipsnio pakeitimas ^s-f4a84775b4e49bedddcbecd6
 
 
-Pakeisti 3416 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.8D38517814F1#^s-e1493af72a0e2079d89d234e|3416 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
-„2. Siekdama gauti baterijų ir akumuliatorių atliekų tvarkymo organizavimo licenciją ir vykdydama veiklą išduotos licencijos pagrindu, Organizacija, be šio Įstatymo 3423 straipsnyje nurodytų dokumentų, turi turėti banko garantiją ar laidavimo draudimo sutartį, įrodančią, kad visų baterijų ir akumuliatorių atliekų, kurios gali susidaryti per 3 mėnesius naudojant jos dalyvių ir jai baterijų ir akumuliatorių atliekų tvarkymo organizavimą pavedusių gamintojų ir importuotojų tiektus Lietuvos Respublikos vidaus rinkai verslo tikslais baterijas ir akumuliatorius, tvarkymas bus finansuojamas. Tokio dokumento sudarymo, pateikimo ir jo reikalavimų vykdymo tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
+„2. Siekdama gauti baterijų ir akumuliatorių atliekų tvarkymo organizavimo licenciją ir vykdydama veiklą išduotos licencijos pagrindu, Organizacija, be šio Įstatymo [[latest/TAR.8D38517814F1#^s-c14f0820fb5c3860caa4e1bd|3423 straipsnyje]] nurodytų dokumentų, turi turėti banko garantiją ar laidavimo draudimo sutartį, įrodančią, kad visų baterijų ir akumuliatorių atliekų, kurios gali susidaryti per 3 mėnesius naudojant jos dalyvių ir jai baterijų ir akumuliatorių atliekų tvarkymo organizavimą pavedusių gamintojų ir importuotojų tiektus Lietuvos Respublikos vidaus rinkai verslo tikslais baterijas ir akumuliatorius, tvarkymas bus finansuojamas. Tokio dokumento sudarymo, pateikimo ir jo reikalavimų vykdymo tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija.“
 
 
 
 ### 10 straipsnis. 3424 straipsnio pakeitimas ^s-89808d8ac4481f7cd5dff7c7
 
 
-1. Pakeisti 3424 straipsnį ir jį išdėstyti taip: ^s-4c548744888a4c17a72d4fe4
+1. Pakeisti [[latest/TAR.8D38517814F1#^s-7f435b38081ddb64e276d667|3424 straipsnį]] ir jį išdėstyti taip: ^s-4c548744888a4c17a72d4fe4
 
 
-„3424 straipsnis. Aštuntojo1 ir aštuntojo4 skirsnių taikymas
+„[[latest/TAR.8D38517814F1#^s-7f435b38081ddb64e276d667|3424 straipsnis]]. Aštuntojo1 ir aštuntojo4 skirsnių taikymas
 
 
 1. Šio Įstatymo aštuntojo1 skirsnio nuostatos netaikomos: ^s-c7ba5db14c7dad99be41b82f
@@ -428,7 +428,7 @@ Pakeisti 3416 straipsnio 2 dalį ir ją išdėstyti taip:
 2) skrydžiams į kosmosą skirtoje įrangoje naudojamoms baterijoms ir akumuliatoriams.“ ^s-0c87a2920790ef0ded3d39e1
 
 
-2. Pakeisti 3424 straipsnio 1 dalį ir ją išdėstyti taip: ^s-decc8d116459e4f323a92f29
+2. Pakeisti [[latest/TAR.8D38517814F1|3424 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-decc8d116459e4f323a92f29
 
 
 „1. Šio Įstatymo aštuntojo1 skirsnio nuostatos netaikomos:
@@ -468,7 +468,7 @@ Pakeisti 3416 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 11 straipsnis. Įstatymo 5 priedo pakeitimas ^s-b91432c0c27ba3d2e2f2e9a5
 
 
-Pakeisti Įstatymo 5 priedo 5 punktą ir jį išdėstyti taip:
+Pakeisti Įstatymo 5 priedo [[latest/TAR.8D38517814F1|5 punktą]] ir jį išdėstyti taip:
 
 
 „5. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/19/ES dėl elektros ir elektroninės įrangos atliekų (OL 2012 L 197, p. 38).“
@@ -478,7 +478,7 @@ Pakeisti Įstatymo 5 priedo 5 punktą ir jį išdėstyti taip:
 ### 12 straipsnis. Įstatymo įsigaliojimas ^s-6d4361003949fd6cecc6e0ec
 
 
-Šio įstatymo [[#^s-e329fe2063915f77deda2127|1 straipsnio]] 2, 6, 7, 8, 9, 10, 11 dalys ir 10 straipsnio 2 dalis įsigalioja 2018 m. rugpjūčio 15 d.
+Šio įstatymo [[#^s-e329fe2063915f77deda2127|1 straipsnio]] [[#^s-9e100f04bd1f23051817a980|2]], [[#^s-0b47bd7b4076c954d08c3bd6|6]], [[#^s-86db2eef2cdb76cb3b5a732b|7]], [[#^s-b2a46f4bb0cf8243e496c463|8]], [[#^s-3416006bc93ee963ed47f898|9]], [[#^s-7ef9e3ea7587f7528b28e845|10]], [[#^s-aec5423cf7d75fe8794d9eb2|11]] dalys ir [[latest/TAR.8D38517814F1#^s-564b839e94d5c65fb64048ec|10 straipsnio 2 dalis]] įsigalioja 2018 m. rugpjūčio 15 d.
 
 
 

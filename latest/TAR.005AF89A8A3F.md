@@ -633,7 +633,7 @@ Pakeisti ir papildyti 48 straipsnį ir jį išdėstyti taip:
 1. Lietuvos radijo ir televizijos komisija – nepriklausoma Seimui atskaitinga Lietuvos Respublikos jurisdikcijai priklausančių radijo ir televizijos transliuotojų ir retransliuotojų veiklą reguliuojanti bei kontroliuojanti institucija. Komisija dalyvauja formuojant valstybės audiovizualinę politiką. Ji yra Seimo bei Vyriausybės ekspertė radijo ir televizijos transliavimo ir retransliavimo klausimais. ^s-2d4b7554f33a5e59ac605d4c
 
 
-2. Komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais bei teisės aktais, taip pat pačios pasitvirtintais nuostatais. ^s-b399011d78dafa85464ac3ae
+2. Komisija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais bei teisės aktais, taip pat pačios pasitvirtintais nuostatais. ^s-b399011d78dafa85464ac3ae
 
 
 3. Komisija yra viešasis juridinis asmuo, turi savo antspaudą su valstybės herbu bei sąskaitų bankuose. Komisijos būstinė yra Vilniuje. ^s-f783534637f168b26f9d731f
@@ -742,7 +742,7 @@ Pakeisti 49 straipsnį ir jį išdėstyti taip:
 9) kontroliuojant įstatymų, Komisijos sprendimų, reglamentuojančių transliuotojų bei retransliuotojų veiklą, ir licencijų sąlygų laikymąsi, vykdyti transliuotojų ir retransliuotojų programų stebėseną (monitoringą); ^s-2aa7dccd123acf3f2ca524b3
 
 
-10) transliuotojams ir retransliuotojams, pažeidusiems šio įstatymo reikalavimus ar licencijų sąlygas, nevykdantiems Komisijos priimtų sprendimų, įstatymų nustatyta tvarka taikyti šias nuobaudas: įspėjimus, Lietuvos Respublikos administracinių teisės pažeidimų kodekse numatytas pinigines baudas, ne ilgiau kaip 3 mėnesiams sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą; ^s-d64ea02053e2387046c41bf5
+10) transliuotojams ir retransliuotojams, pažeidusiems šio įstatymo reikalavimus ar licencijų sąlygas, nevykdantiems Komisijos priimtų sprendimų, įstatymų nustatyta tvarka taikyti šias nuobaudas: įspėjimus, [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytas pinigines baudas, ne ilgiau kaip 3 mėnesiams sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą; ^s-d64ea02053e2387046c41bf5
 
 
 11) teikti siūlymus dėl transliuotojų ir retransliuotojų veiklą reglamentuojančių įstatymų ir kitų su šia veikla susijusių teisės aktų rengimo; ^s-dafbb63608e4fb492c26bc9f

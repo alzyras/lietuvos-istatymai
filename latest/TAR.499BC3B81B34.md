@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 4 straipsnio pakeitimas ^s-0d47799356695642c9afd20b
 
 
-[[#^s-e0680579032c141cb284485e|4 straipsnio]] 1, 2, 3 ir [[#^s-fbe34851ae189b6943dac94a|4 dalyse]] vietoj žodžių „apskričių valdytojai“, „apskričių valdytojų“, „apskrities valdytojo“ įrašyti atitinkamai žodžius „apskričių viršininkai“, „apskričių viršininkų“, „apskrities viršininko“ ir visą straipsnį išdėstyti taip:
+[[#^s-e0680579032c141cb284485e|4 straipsnio]] [[#^s-3d1e80b6c1906117932fa2dd|1]], [[#^s-f96d9f7b8ce112ee2ce0dcb5|2]], 3 ir 4 dalyse vietoj žodžių „apskričių valdytojai“, „apskričių valdytojų“, „apskrities valdytojo“ įrašyti atitinkamai žodžius „apskričių viršininkai“, „apskričių viršininkų“, „apskrities viršininko“ ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-e0680579032c141cb284485e|4 straipsnis]]. Nekilnojamojo turto registro tvarkymas
@@ -54,7 +54,7 @@ Vilnius
 3. Nekilnojamojo turto registrą rajonuose ir miestuose tvarkantys apskrities viršininko administracijos padalinio vadovai arba kiti apskrities viršininko įgalioti šių padalinių darbuotojai (toliau vadinama – Nekilnojamojo turto registro tvarkytojai) atsako už nekilnojamojo turto ir teisių į jį įregistravimą, Nekilnojamojo turto registro duomenų teisingumą ir jų apsaugą. ^s-67b5e80eda8e805042c25c23
 
 
-4. Apskričių viršininkai ir Nekilnojamojo turto registro tvarkytojai rajonuose ir miestuose, tvarkydami Nekilnojamojo turto registrą, savo darbe vadovaujasi Lietuvos Respublikos Konstitucija, Civiliniu kodeksu, šiuo ir kitais įstatymais, Vyriausybės tvirtinamais Nekilnojamojo turto registro nuostatais.“ ^s-fbe34851ae189b6943dac94a
+4. Apskričių viršininkai ir Nekilnojamojo turto registro tvarkytojai rajonuose ir miestuose, tvarkydami Nekilnojamojo turto registrą, savo darbe vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Civiliniu kodeksu, šiuo ir kitais įstatymais, Vyriausybės tvirtinamais Nekilnojamojo turto registro nuostatais.“ ^s-fbe34851ae189b6943dac94a
 
 
 
@@ -81,7 +81,7 @@ Vilnius
 ### 4 straipsnis. 40 straipsnio pakeitimas ^s-e0680579032c141cb284485e
 
 
-40 straipsnio 1 ir [[#^s-f96d9f7b8ce112ee2ce0dcb5|2 dalyse]] vietoj žodžių „apskrities valdytojui“, „Apskrities valdytojas“, „Apskrities valdytojo“ įrašyti žodžius „apskrities viršininkui“, „Apskrities viršininkas“, „Apskrities viršininko“ ir visą straipsnį išdėstyti taip:
+40 straipsnio 1 ir 2 dalyse vietoj žodžių „apskrities valdytojui“, „Apskrities valdytojas“, „Apskrities valdytojo“ įrašyti žodžius „apskrities viršininkui“, „Apskrities viršininkas“, „Apskrities viršininko“ ir visą straipsnį išdėstyti taip:
 
 
 „40 straipsnis. Pretenzijų dėl netikslių ar neteisingų Nekilnojamojo turto registro įrašų pareiškimas

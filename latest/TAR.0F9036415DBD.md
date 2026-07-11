@@ -231,13 +231,13 @@ Nr. XIV-2742, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11580
 5. Kriminalinės žvalgybos slaptieji dalyviai, kuriems pagal su jais sudarytas rašytines slapto bendradarbiavimo sutartis mokamas atlygis, šiose sutartyse nustatytu slapto bendradarbiavimo laikotarpiu draudžiami pensijų socialiniu draudimu. ^s-ce9997d122a5061eec549d34
 
 
-6. Asmenys, gaunantys tantjemas arba atlygį už jų veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, asmenys, atlygintinai einantys renkamąsias ar skiriamąsias pareigas, išskyrus šio įstatymo [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] 1 ir [[#^s-66a74a7996a218e9403ff8dc|2 dalyse]] nurodytas pareigas, ir mažųjų bendrijų vadovai, kurie pagal Lietuvos Respublikos mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, draudžiami pensijų socialiniu draudimu. ^s-761d05fb530e2c30152a2be9
+6. Asmenys, gaunantys tantjemas arba atlygį už jų veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, asmenys, atlygintinai einantys renkamąsias ar skiriamąsias pareigas, išskyrus šio įstatymo [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] [[#^s-93a3ee30cc77f6b9a09f2c88|1]] ir [[#^s-66a74a7996a218e9403ff8dc|2]] dalyse nurodytas pareigas, ir mažųjų bendrijų vadovai, kurie pagal Lietuvos Respublikos mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, draudžiami pensijų socialiniu draudimu. ^s-761d05fb530e2c30152a2be9
 Straipsnio dalies pakeitimai:
 Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
 
 
 
-7. Šio straipsnio 1–[[#^s-761d05fb530e2c30152a2be9|6 dalyse]] nurodytų asmenų socialinio draudimo įmokas privalo mokėti apdraustieji asmenys ir draudėjai. ^s-06e24c08e5309952d5e003ac
+7. Šio straipsnio [[#^s-93a3ee30cc77f6b9a09f2c88|1]]–[[#^s-761d05fb530e2c30152a2be9|6]] dalyse nurodytų asmenų socialinio draudimo įmokas privalo mokėti apdraustieji asmenys ir draudėjai. ^s-06e24c08e5309952d5e003ac
 
 
 
@@ -358,7 +358,7 @@ SOCIALINIO DRAUDIMO ĮMOKOS IR IŠMOKOS
 ### 8 straipsnis. Socialinio draudimo įmokos, jų tarifai ^s-41445d56099cbf4732c50d87
 
 
-1. Socialinio draudimo įmokos, skirtos šio įstatymo [[#^s-f35e227fd3a8e6d7596fde8a|3 straipsnio 1 dalyje]] nurodytų socialinio draudimo rūšių išmokoms finansuoti, mokamos į Fondo biudžetą. Šio įstatymo [[#^s-f35e227fd3a8e6d7596fde8a|3 straipsnio 1 dalies]] 1, 2, 3 ir 6 punktuose nurodytų socialinio draudimo rūšių įmokos mokamos pagal apdraustiesiems patvirtintus įmokų tarifus, o šio įstatymo [[#^s-f35e227fd3a8e6d7596fde8a|3 straipsnio 1 dalies]] 4 ir 5 punktuose – pagal draudėjams patvirtintus įmokų tarifus. ^s-71badc3948099d6ecaab2ef3
+1. Socialinio draudimo įmokos, skirtos šio įstatymo [[#^s-f35e227fd3a8e6d7596fde8a|3 straipsnio 1 dalyje]] nurodytų socialinio draudimo rūšių išmokoms finansuoti, mokamos į Fondo biudžetą. Šio įstatymo [[#^s-f35e227fd3a8e6d7596fde8a|3 straipsnio 1 dalies]] [[#^s-d5b619d853a125428c18fabb|1]], [[#^s-4ca1127ff0e33f0e3e47b176|2]], [[#^s-08abf597a181249b7a0d0178|3]] ir [[#^s-02c250f2f41831c858a934b4|6]] punktuose nurodytų socialinio draudimo rūšių įmokos mokamos pagal apdraustiesiems patvirtintus įmokų tarifus, o šio įstatymo [[#^s-f35e227fd3a8e6d7596fde8a|3 straipsnio 1 dalies]] [[#^s-4f70fdec24c0f17ef54cf005|4]] ir [[#^s-7791c7e8e8992cb156f36271|5]] punktuose – pagal draudėjams patvirtintus įmokų tarifus. ^s-71badc3948099d6ecaab2ef3
 Straipsnio dalies pakeitimai:
 Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
 Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
@@ -393,7 +393,7 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 
 
 
-2. Savarankiškai dirbančių asmenų, nurodytų šio įstatymo [[#^s-8ee2840c34c94160c2f6d690|5 straipsnio]] 2 ir [[#^s-1a3f0379bcdb2dbf68311568|3 dalyse]], socialinio draudimo stažas nustatomas pagal sumokėtas socialinio draudimo įmokas. Asmenų, kurie gauna pajamas iš sporto ar atlikėjo veiklos, pagal autorines sutartis, nesiversdami atitinkama individualia veikla, ar asmenų, gaunančių tantjemas arba atlygį už jų veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, mažųjų bendrijų vadovų, kurie pagal Mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, ar šio įstatymo [[#^s-761d05fb530e2c30152a2be9|4 straipsnio 6 dalyje]] nurodytų asmenų, atlygintinai einančių renkamąsias ar skiriamąsias pareigas, socialinio draudimo stažas nustatomas pagal priskaičiuotas socialinio draudimo įmokas. Jeigu šios įmokos sumokėtos arba priskaičiuotos nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio sumos, įgyjamas vieno mėnesio socialinio draudimo stažas. Tais atvejais, kai įmokos sumokėtos arba priskaičiuotos nuo mažesnės arba didesnės negu minimalioji mėnesinė alga sumos, socialinio draudimo stažas laikomas proporcingai mažesniu arba didesniu. Šioje dalyje nurodytų asmenų socialinio draudimo stažas taip pat nustatomas pagal ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros, ligos dėl nelaimingų atsitikimų darbe ir profesinių ligų, nedarbo ir dalinio darbo socialinio draudimo išmokų iš Fondo gavimo laikotarpius. ^s-3dc976caa61cb8afda934c99
+2. Savarankiškai dirbančių asmenų, nurodytų šio įstatymo [[#^s-8ee2840c34c94160c2f6d690|5 straipsnio]] [[#^s-ba43019c058e9fc78beca4d5|2]] ir [[#^s-cbff7ee7e66893534f2ef3ab|3]] dalyse, socialinio draudimo stažas nustatomas pagal sumokėtas socialinio draudimo įmokas. Asmenų, kurie gauna pajamas iš sporto ar atlikėjo veiklos, pagal autorines sutartis, nesiversdami atitinkama individualia veikla, ar asmenų, gaunančių tantjemas arba atlygį už jų veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, mažųjų bendrijų vadovų, kurie pagal Mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, ar šio įstatymo [[#^s-761d05fb530e2c30152a2be9|4 straipsnio 6 dalyje]] nurodytų asmenų, atlygintinai einančių renkamąsias ar skiriamąsias pareigas, socialinio draudimo stažas nustatomas pagal priskaičiuotas socialinio draudimo įmokas. Jeigu šios įmokos sumokėtos arba priskaičiuotos nuo Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio sumos, įgyjamas vieno mėnesio socialinio draudimo stažas. Tais atvejais, kai įmokos sumokėtos arba priskaičiuotos nuo mažesnės arba didesnės negu minimalioji mėnesinė alga sumos, socialinio draudimo stažas laikomas proporcingai mažesniu arba didesniu. Šioje dalyje nurodytų asmenų socialinio draudimo stažas taip pat nustatomas pagal ligos, profesinės reabilitacijos, motinystės, tėvystės, vaiko priežiūros, ligos dėl nelaimingų atsitikimų darbe ir profesinių ligų, nedarbo ir dalinio darbo socialinio draudimo išmokų iš Fondo gavimo laikotarpius. ^s-3dc976caa61cb8afda934c99
 Papildyta straipsnio dalimi:
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 Straipsnio dalies pakeitimai:
@@ -422,7 +422,7 @@ Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
 3) apdraustajam asmeniui apskaičiuotą darbo užmokestį, nustatytą įstatymuose, reglamentuojančiuose valstybės politikų, teisėjų, valstybės pareigūnų, valstybės tarnautojų darbo užmokesčio mokėjimą; ^s-e2e285f7e3feb67c37107f6c
 
 
-4) priedus ir išeitines išmokas, apskaičiuotus šio įstatymo [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] 1–[[#^s-33e5825d3146ba3ba0200831|4 dalyse]] nurodytiems asmenims; ^s-d254c4a53a4398d02626f9dc
+4) priedus ir išeitines išmokas, apskaičiuotus šio įstatymo [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] [[#^s-93a3ee30cc77f6b9a09f2c88|1]]–[[#^s-7a469a5208f6b36019a05ee3|4]] dalyse nurodytiems asmenims; ^s-d254c4a53a4398d02626f9dc
 
 
 5) apskaičiuotas kompensacijas už kasmetines, tikslines atostogas (išskyrus nėštumo ir gimdymo atostogas, tėvystės atostogas, atostogas vaikui prižiūrėti), apskaičiuotas pinigines kompensacijas už nepanaudotas kasmetines atostogas, už kompensacijas, mokamas pagal [[latest/f6d686707e7011e6b969d7ae07280e89#^s-f9d91c3973e6e8b7cae74810|Darbo kodekso 218 straipsnio 4 dalį]], ar už prastovos laiką; ^s-5a0e67cdffecc986ae33974d
@@ -453,7 +453,7 @@ Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
 
 
 2. Meno kūrėjo statusą turinčių darbingo amžiaus asmenų ir šio įstatymo [[#^s-71a8c88b4cda92085058e7e2|5 straipsnio 1 dalyje]] nurodytų asmenų, gaunančių pajamas pagal autorines sutartis, iš sporto ar atlikėjo veiklos, socialinio draudimo įmokos skaičiuojamos nuo apskaičiuoto 90 procentų atlygio pagal sudarytas sutartis. ^s-077a9cedbcf1645cb3690fc4
-TAR pastaba. [[#^s-077a9cedbcf1645cb3690fc4|10 straipsnio 2 dalies]] nuostatos taikomos apskaičiuojant ir mokant valstybinio socialinio draudimo įmokas už laikotarpius nuo 2026 m. liepos 1 d.
+TAR pastaba. 10 straipsnio 2 dalies nuostatos taikomos apskaičiuojant ir mokant valstybinio socialinio draudimo įmokas už laikotarpius nuo 2026 m. liepos 1 d.
 Straipsnio dalies pakeitimai:
 Nr. XV-633, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21466
 
@@ -480,7 +480,7 @@ Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
 
 
 
-5. Šio įstatymo [[#^s-8ee2840c34c94160c2f6d690|5 straipsnio]] 1 ir [[#^s-077a9cedbcf1645cb3690fc4|2 dalyse]] nurodytų asmenų socialinio draudimo įmokų bazė, kurią privalo taikyti kiekvienas draudėjas, kalendoriniais metais negali būti didesnė negu praėjusių metų 43 VDU suma. ^s-f1da2278eafe3e728d2afd8c
+5. Šio įstatymo [[#^s-8ee2840c34c94160c2f6d690|5 straipsnio]] [[#^s-71a8c88b4cda92085058e7e2|1]] ir [[#^s-ba43019c058e9fc78beca4d5|2]] dalyse nurodytų asmenų socialinio draudimo įmokų bazė, kurią privalo taikyti kiekvienas draudėjas, kalendoriniais metais negali būti didesnė negu praėjusių metų 43 VDU suma. ^s-f1da2278eafe3e728d2afd8c
 Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 Nr. XIII-1721, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20975
@@ -493,7 +493,7 @@ Nr. XIII-1721, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20975
 7. Kai apdraustajam apskaičiuotas darbo užmokestis mažesnis negu Vyriausybės patvirtinta minimalioji mėnesinė alga, draudėjas apdraustojo ir draudėjo valstybinio socialinio draudimo įmokas už tarnautojus ar darbuotojus, dirbančius pagal darbo sutartis, apskaičiuoja nuo apskaičiuoto darbo užmokesčio ir papildomai iš savo lėšų sumoka apdraustojo ir draudėjo valstybinio socialinio draudimo įmokas nuo sumos, kurią sudaro skirtumas tarp ne mažesnės kaip Vyriausybės patvirtintos minimaliosios mėnesinės algos ir apdraustojo apskaičiuoto darbo užmokesčio, išskyrus atvejus, kai jie atitinkamą mėnesį: ^s-ee760128b9884d6b82891575
 
 
-1) buvo drausti pas kitą draudėją pagal šio įstatymo [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] 1, 2, 3 ar [[#^s-33e5825d3146ba3ba0200831|4 dalis]] arba dėl jų socialinio statuso ypatybių draudžiami pensijų socialiniu draudimu valstybės lėšomis pagal šio įstatymo [[#^s-bfa41525bf86aaeefe10fbcc|6 straipsnį]]; ^s-c5f72c7cd50b61d06f451a72
+1) buvo drausti pas kitą draudėją pagal šio įstatymo [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] [[#^s-93a3ee30cc77f6b9a09f2c88|1]], [[#^s-66a74a7996a218e9403ff8dc|2]], [[#^s-dcd65a1da4844dfdb1550380|3]] ar [[#^s-7a469a5208f6b36019a05ee3|4]] dalis arba dėl jų socialinio statuso ypatybių draudžiami pensijų socialiniu draudimu valstybės lėšomis pagal šio įstatymo [[#^s-bfa41525bf86aaeefe10fbcc|6 straipsnį]]; ^s-c5f72c7cd50b61d06f451a72
 
 
 2) gavo socialinio draudimo senatvės ar socialinio draudimo netekto darbingumo (invalidumo), socialinio draudimo negalios pensiją, šalpos neįgalumo ar šalpos senatvės pensiją, su socialinio draudimo santykiais susijusią (socialinio draudimo) senatvės ar netekto darbingumo (invalidumo), negalios pensiją iš kitos Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės, Šveicarijos Konfederacijos arba šalies, su kuria Lietuvos Respublika yra sudariusi tarptautinę sutartį dėl socialinės apsaugos taikymo; ^s-2cebc1e7031c9d5e7f70baa8
@@ -526,7 +526,7 @@ Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
 
 
 
-71. Jeigu apdraustajam, kuris yra draustas daugiau negu vieno draudėjo pagal šio įstatymo [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] 1, 2, 3 ar [[#^s-33e5825d3146ba3ba0200831|4 dalį]], visų jo draudėjų apskaičiuotas darbo užmokestis yra mažesnis negu Vyriausybės patvirtinta minimalioji mėnesinė alga, draudėjas, kurio apskaičiuotas darbo užmokestis yra mažesnis negu Vyriausybės patvirtinta minimalioji mėnesinė alga, padalinta iš visų apdraustojo draudėjų skaičiaus, (toliau šioje dalyje – vienam draudėjui tenkanti MMA dalis), nuo jo apskaičiuoto darbo užmokesčio apskaičiuoja apdraustojo ir draudėjo socialinio draudimo įmokas ir papildomai iš savo lėšų sumoka Fondo valdybos teritorinio skyriaus apskaičiuotas apdraustojo ir draudėjo socialinio draudimo įmokas (toliau šiame straipsnyje – papildomos socialinio draudimo įmokos) nuo sumos, apskaičiuojamos pagal formulę , kur: ^s-45d3bd7d562acff5a224c528
+71. Jeigu apdraustajam, kuris yra draustas daugiau negu vieno draudėjo pagal šio įstatymo [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] [[#^s-93a3ee30cc77f6b9a09f2c88|1]], [[#^s-66a74a7996a218e9403ff8dc|2]], [[#^s-dcd65a1da4844dfdb1550380|3]] ar [[#^s-7a469a5208f6b36019a05ee3|4]] dalį, visų jo draudėjų apskaičiuotas darbo užmokestis yra mažesnis negu Vyriausybės patvirtinta minimalioji mėnesinė alga, draudėjas, kurio apskaičiuotas darbo užmokestis yra mažesnis negu Vyriausybės patvirtinta minimalioji mėnesinė alga, padalinta iš visų apdraustojo draudėjų skaičiaus, (toliau šioje dalyje – vienam draudėjui tenkanti MMA dalis), nuo jo apskaičiuoto darbo užmokesčio apskaičiuoja apdraustojo ir draudėjo socialinio draudimo įmokas ir papildomai iš savo lėšų sumoka Fondo valdybos teritorinio skyriaus apskaičiuotas apdraustojo ir draudėjo socialinio draudimo įmokas (toliau šiame straipsnyje – papildomos socialinio draudimo įmokos) nuo sumos, apskaičiuojamos pagal formulę , kur: ^s-45d3bd7d562acff5a224c528
 
 
 1) Spapild – Fondo valdybos teritorinio skyriaus apskaičiuota suma, nuo kurios šis draudėjas iš savo lėšų sumoka papildomas socialinio draudimo įmokas; ^s-eea87d68d509f23967fcb326
@@ -564,7 +564,7 @@ Nr. XV-1065, 2026-06-25, paskelbta TAR 2026-06-30, i. k. 2026-11341
 
 
 
-8. Pagal darbo sutartį dirbančiam darbuotojui ar tarnautojui, nurodytam šio įstatymo [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] 1 ar [[#^s-077a9cedbcf1645cb3690fc4|2 dalyje]], kuriam priskaičiuotas darbo užmokestis yra mažesnis kaip Vyriausybės patvirtinta minimalioji mėnesinė alga dėl to, kad jis nedirbo dėl nedraudžiamojo laikotarpio ar gavo ligos išmoką ar ligos išmoką dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos, socialinio draudimo įmokos skaičiuojamos ir mokamos nuo nustatyto darbo užmokesčio, bet ne mažesnio kaip Vyriausybės patvirtinta minimalioji mėnesinė alga, perskaičiuota proporcingai atitinkamo mėnesio darbo dienų skaičiui (taikoma 5 darbo dienų savaitė), kai asmuo nedirbo dėl nedraudžiamojo laikotarpio ar gavo ligos išmoką ar ligos išmoką dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos. ^s-bc9607b9ca30c0faf31b047e
+8. Pagal darbo sutartį dirbančiam darbuotojui ar tarnautojui, nurodytam šio įstatymo [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] [[#^s-93a3ee30cc77f6b9a09f2c88|1]] ar [[#^s-66a74a7996a218e9403ff8dc|2]] dalyje, kuriam priskaičiuotas darbo užmokestis yra mažesnis kaip Vyriausybės patvirtinta minimalioji mėnesinė alga dėl to, kad jis nedirbo dėl nedraudžiamojo laikotarpio ar gavo ligos išmoką ar ligos išmoką dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos, socialinio draudimo įmokos skaičiuojamos ir mokamos nuo nustatyto darbo užmokesčio, bet ne mažesnio kaip Vyriausybės patvirtinta minimalioji mėnesinė alga, perskaičiuota proporcingai atitinkamo mėnesio darbo dienų skaičiui (taikoma 5 darbo dienų savaitė), kai asmuo nedirbo dėl nedraudžiamojo laikotarpio ar gavo ligos išmoką ar ligos išmoką dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos. ^s-bc9607b9ca30c0faf31b047e
 Straipsnio dalies pakeitimai:
 Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
 
@@ -710,7 +710,7 @@ Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 
 
 28) kompensacijų, mokamų vidaus tarnybos sistemos pareigūnams už ilgalaikę tarnybą. ^s-2095e0b4e7b6c05ad8cd070d
-TAR pastaba. [[#^s-2095e0b4e7b6c05ad8cd070d|11 straipsnio 1 dalies 28 punkto]] nuostata taikoma apskaičiuojant ir mokant valstybinio socialinio draudimo įmokas už laikotarpius nuo 2026 m. sausio 1 d
+TAR pastaba. 11 straipsnio 1 dalies 28 punkto nuostata taikoma apskaičiuojant ir mokant valstybinio socialinio draudimo įmokas už laikotarpius nuo 2026 m. sausio 1 d
 Papildyta straipsnio punktu:
 Nr. XV-959, 2026-05-14, paskelbta TAR 2026-05-21, i. k. 2026-08551
 
@@ -785,7 +785,7 @@ Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-4. Šio įstatymo [[#^s-8ee2840c34c94160c2f6d690|5 straipsnio]] 2 ir [[#^s-9e95cd5b764155d16355826b|3 dalyse]] nurodytų asmenų socialinio draudimo įmokos mokamos taip: individualios įmonės moka įmokas už šių įmonių savininkus, mažosios bendrijos – už jų narius, tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos – už jų tikruosius narius, šeimynos – už šeimynos dalyvius nuo individualios įmonės, mažosios bendrijos, bendrijos ar šeimynos įregistravimo Juridinių asmenų registro informacinėje sistemoje dienos, kiti savarankiškai dirbantys asmenys jiems priklausančias mokėti socialinio draudimo įmokas moka į Fondo lėšų sąskaitą nuo veiklos vykdymo pradžios iki veiklos pabaigos. Verslo liudijimus turintys asmenys socialinio draudimo įmokas moka už verslo liudijimo galiojimo laikotarpio veiklos vykdymo kalendorines dienas. Jeigu asmuo pagal verslo liudijimą dirba ne visą kalendorinį mėnesį, pagal asmens pateiktą Fondo valdybos direktoriaus patvirtintos formos prašymą Fondo valdybos teritoriniam skyriui gali būti sumokėtos socialinio draudimo įmokos už visą kalendorinį mėnesį, prašymą pateikiant Fondo valdybos teritoriniam skyriui ne vėliau kaip iki asmens metinės pajamų mokesčio deklaracijos už laikotarpį, į kurį įeina šis mėnuo, pateikimo Valstybinei mokesčių inspekcijai termino paskutinės dienos. Jeigu asmuo socialinio draudimo įmokų pagal pateiktą prašymą nesumoka, prašymo galiojimas nutrūksta ir socialinio draudimo įmokos skaičiuojamos už verslo liudijimo galiojimo laikotarpio veiklos vykdymo kalendorines dienas. ^s-b56183a0e7444d411c7f6713
+4. Šio įstatymo [[#^s-8ee2840c34c94160c2f6d690|5 straipsnio]] [[#^s-ba43019c058e9fc78beca4d5|2]] ir [[#^s-cbff7ee7e66893534f2ef3ab|3]] dalyse nurodytų asmenų socialinio draudimo įmokos mokamos taip: individualios įmonės moka įmokas už šių įmonių savininkus, mažosios bendrijos – už jų narius, tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos – už jų tikruosius narius, šeimynos – už šeimynos dalyvius nuo individualios įmonės, mažosios bendrijos, bendrijos ar šeimynos įregistravimo Juridinių asmenų registro informacinėje sistemoje dienos, kiti savarankiškai dirbantys asmenys jiems priklausančias mokėti socialinio draudimo įmokas moka į Fondo lėšų sąskaitą nuo veiklos vykdymo pradžios iki veiklos pabaigos. Verslo liudijimus turintys asmenys socialinio draudimo įmokas moka už verslo liudijimo galiojimo laikotarpio veiklos vykdymo kalendorines dienas. Jeigu asmuo pagal verslo liudijimą dirba ne visą kalendorinį mėnesį, pagal asmens pateiktą Fondo valdybos direktoriaus patvirtintos formos prašymą Fondo valdybos teritoriniam skyriui gali būti sumokėtos socialinio draudimo įmokos už visą kalendorinį mėnesį, prašymą pateikiant Fondo valdybos teritoriniam skyriui ne vėliau kaip iki asmens metinės pajamų mokesčio deklaracijos už laikotarpį, į kurį įeina šis mėnuo, pateikimo Valstybinei mokesčių inspekcijai termino paskutinės dienos. Jeigu asmuo socialinio draudimo įmokų pagal pateiktą prašymą nesumoka, prašymo galiojimas nutrūksta ir socialinio draudimo įmokos skaičiuojamos už verslo liudijimo galiojimo laikotarpio veiklos vykdymo kalendorines dienas. ^s-b56183a0e7444d411c7f6713
 Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
@@ -808,7 +808,7 @@ Nr. XIV-124, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28980
 
 
 
-7. Šio įstatymo [[#^s-bfa41525bf86aaeefe10fbcc|6 straipsnio]] 2–6, 10 ir 11 dalyse nurodytų asmenų socialinio draudimo įmokas valstybės biudžeto lėšomis sumoka įstaigos, kurių vadovai yra valstybės biudžeto asignavimų valdytojai, arba šių įstaigų vadovų įgaliotos asignavimų valdytojui pavaldžios ir (ar) ministrų valdymo sričių biudžetinės įstaigos. ^s-a37c16bb301c2db1043a568f
+7. Šio įstatymo [[#^s-bfa41525bf86aaeefe10fbcc|6 straipsnio]] [[#^s-9e1618bb79c5f83c9ae1d9b8|2]]–[[#^s-0d1f91aae2d260253ecfac68|6]], [[#^s-89109e6e129941ef35e3aa4c|10]] ir [[#^s-2cb7c76b3b26dad0734d3980|11]] dalyse nurodytų asmenų socialinio draudimo įmokas valstybės biudžeto lėšomis sumoka įstaigos, kurių vadovai yra valstybės biudžeto asignavimų valdytojai, arba šių įstaigų vadovų įgaliotos asignavimų valdytojui pavaldžios ir (ar) ministrų valdymo sričių biudžetinės įstaigos. ^s-a37c16bb301c2db1043a568f
 Straipsnio dalies pakeitimai:
 Nr. XIV-1175, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13891
 Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
@@ -846,7 +846,7 @@ Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
 3. Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro informacinėje sistemoje tvarkomi duomenys, išskyrus šio įstatymo [[#^s-fd742da8b03ebee3eaf9abb2|15 straipsnio 3 dalyje]] nurodytus duomenis, yra nevieši. ^s-c142602b0f889d5c9fa5ff1d
 
 
-4. Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) [[#^s-8ee2840c34c94160c2f6d690|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-bfa41525bf86aaeefe10fbcc|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-55a055d6ed971a22fff62647
+4. Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) [[#^s-8ee2840c34c94160c2f6d690|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-bfa41525bf86aaeefe10fbcc|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-55a055d6ed971a22fff62647
 
 
 5. Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro informacinėje sistemoje tvarkomi duomenys yra atveriami pakartotinai naudoti, išskyrus asmens duomenis ir duomenis, susijusius su valstybės ar tarnybos paslaptimi, taip pat duomenis, sudarančius juridinio asmens konfidencialią informaciją ar galinčius atskleisti jo komercinę (verslo) paslaptį. ^s-0a1c36647fd85846c1724f01
@@ -1010,7 +1010,7 @@ Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
 2) mažosios bendrijos vadovui, kuris pagal Mažųjų bendrijų įstatymą nėra tos mažosios bendrijos narys; ^s-9ccf90970e9bd6aa801b7eb1
 
 
-3) savarankiškai dirbantiems asmenims, nurodytiems šio įstatymo [[#^s-8ee2840c34c94160c2f6d690|5 straipsnio]] 2 ar [[#^s-ddf0a1ca9ea16d99db4d1875|3 dalyje]], išskyrus šeimynos dalyvius; ^s-9cfda8bf6bfa0d0afe463c1e
+3) savarankiškai dirbantiems asmenims, nurodytiems šio įstatymo [[#^s-8ee2840c34c94160c2f6d690|5 straipsnio]] [[#^s-ba43019c058e9fc78beca4d5|2]] ar [[#^s-cbff7ee7e66893534f2ef3ab|3]] dalyje, išskyrus šeimynos dalyvius; ^s-9cfda8bf6bfa0d0afe463c1e
 
 
 4) komandiruotam į Lietuvos Respubliką asmeniui, kuris nėra draudžiamas pagal šį įstatymą, tačiau informacija apie jį pateikta Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 62 straipsnio 8 dalyje nustatyta tvarka (toliau šiame straipsnyje – komandiruotas užsienietis). ^s-7bfad022f3d5e5d814ec96a9
@@ -1019,7 +1019,7 @@ Nr. XIV-1288, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15437
 
 
 
-2. Atskiras kodas asmeniui suformuojamas pagal kiekvieną [[#^s-9b3cd29315d85e86f38f173a|šio straipsnio 1 dalies]] 1, 2 ir [[#^s-294e6fb5ac4b8893189c75c4|3 punktuose]] nurodytą jo, kaip apdraustojo asmens, ar komandiruoto užsieniečio kategoriją pas kiekvieną jo draudėją (komandiruoto užsieniečio atveju – pas kiekvieną įmonę, įstaigą, organizaciją ar kitą organizacinę struktūrą arba fizinį asmenį Lietuvos Respublikoje, į kurią (pas kurį) komandiruojamas laikinai dirbti užsienietis ir kuri (kuris) teikia informaciją Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 62 straipsnio 8 dalyje nustatyta tvarka (toliau šiame straipsnyje – komandiruoto užsieniečio draudėjas). Kodas suformuojamas Fondo valdybos informacinėje sistemoje [[#^s-9b3cd29315d85e86f38f173a|šio straipsnio 1 dalies]] 1, 2 ir [[#^s-294e6fb5ac4b8893189c75c4|3 punktuose]] nurodytam apdraustajam asmeniui, jo draudėjui, komandiruotam užsieniečiui ar komandiruoto užsieniečio draudėjui pateikus prašymą Fondo valdybos direktoriaus nustatyta tvarka, kai joje įrašomi šie duomenys: ^s-aa6b20f224dd33f5aed5f68c
+2. Atskiras kodas asmeniui suformuojamas pagal kiekvieną [[#^s-9b3cd29315d85e86f38f173a|šio straipsnio 1 dalies]] [[#^s-b06f7d45263088721cf702d4|1]], [[#^s-19fcc34a8f41ad0164630310|2]] ir [[#^s-294e6fb5ac4b8893189c75c4|3]] punktuose nurodytą jo, kaip apdraustojo asmens, ar komandiruoto užsieniečio kategoriją pas kiekvieną jo draudėją (komandiruoto užsieniečio atveju – pas kiekvieną įmonę, įstaigą, organizaciją ar kitą organizacinę struktūrą arba fizinį asmenį Lietuvos Respublikoje, į kurią (pas kurį) komandiruojamas laikinai dirbti užsienietis ir kuri (kuris) teikia informaciją Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 62 straipsnio 8 dalyje nustatyta tvarka (toliau šiame straipsnyje – komandiruoto užsieniečio draudėjas). Kodas suformuojamas Fondo valdybos informacinėje sistemoje [[#^s-9b3cd29315d85e86f38f173a|šio straipsnio 1 dalies]] [[#^s-b06f7d45263088721cf702d4|1]], [[#^s-19fcc34a8f41ad0164630310|2]] ir [[#^s-294e6fb5ac4b8893189c75c4|3]] punktuose nurodytam apdraustajam asmeniui, jo draudėjui, komandiruotam užsieniečiui ar komandiruoto užsieniečio draudėjui pateikus prašymą Fondo valdybos direktoriaus nustatyta tvarka, kai joje įrašomi šie duomenys: ^s-aa6b20f224dd33f5aed5f68c
 Straipsnio dalies pakeitimai:
 Nr. XIV-1288, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15437
 
@@ -1027,7 +1027,7 @@ Nr. XIV-1288, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15437
 1) mažosios bendrijos vadovo statuso įgijimo data; ^s-b06f7d45263088721cf702d4
 
 
-2) [[#^s-9b3cd29315d85e86f38f173a|šio straipsnio 1 dalies]] 1 ar [[#^s-294e6fb5ac4b8893189c75c4|3 punkte]] nurodyto apdraustojo asmens socialinio draudimo pas atitinkamą draudėją pradžios data; ^s-19fcc34a8f41ad0164630310
+2) [[#^s-9b3cd29315d85e86f38f173a|šio straipsnio 1 dalies]] [[#^s-b06f7d45263088721cf702d4|1]] ar [[#^s-294e6fb5ac4b8893189c75c4|3]] punkte nurodyto apdraustojo asmens socialinio draudimo pas atitinkamą draudėją pradžios data; ^s-19fcc34a8f41ad0164630310
 
 
 3) komandiruoto užsieniečio darbo pas komandiruoto užsieniečio draudėją pradžios data. ^s-294e6fb5ac4b8893189c75c4
@@ -1039,7 +1039,7 @@ Nr. XIV-1288, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15437
 1) mažosios bendrijos vadovo statuso netekimo data; ^s-c436ad1e6542202e51a3cbc0
 
 
-2) [[#^s-9b3cd29315d85e86f38f173a|šio straipsnio 1 dalies]] 1 ar [[#^s-ce85f01c664cbfa260e27d82|3 punkte]] nurodyto apdraustojo asmens socialinio draudimo pas konkretų draudėją pabaigos data; ^s-bb2dca0dedb0ff6772e606f1
+2) [[#^s-9b3cd29315d85e86f38f173a|šio straipsnio 1 dalies]] [[#^s-c436ad1e6542202e51a3cbc0|1]] ar [[#^s-ce85f01c664cbfa260e27d82|3]] punkte nurodyto apdraustojo asmens socialinio draudimo pas konkretų draudėją pabaigos data; ^s-bb2dca0dedb0ff6772e606f1
 
 
 3) komandiruoto užsieniečio darbo pas komandiruoto užsieniečio draudėją pabaigos data ar komandiruoto užsieniečio socialinio draudimo pagal šį įstatymą pradžios pas komandiruoto užsieniečio draudėją data. ^s-ce85f01c664cbfa260e27d82
@@ -1095,7 +1095,7 @@ Nr. XIV-862, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27768
 ### 16 straipsnis. Duomenų apie draudėjus, apdraustuosius asmenis, socialinio draudimo išmokų ir kitų išmokų, kurių mokėjimas pavestas Fondo valdybos teritoriniams skyriams, gavėjus tvarkymas ^s-895611f7a52b681397c0d27d
 
 
-Duomenys apie draudėją, apdraustąjį asmenį, socialinio draudimo išmokos arba kitos išmokos, kurios mokėjimas pavestas Fondo valdybos teritoriniams skyriams, gavėją, pateikti Fondo administravimo įstaigoms, turi būti tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], šiuo įstatymu ir kitų asmens duomenų tvarkymą reglamentuojančių teisės aktų nustatyta tvarka.
+Duomenys apie draudėją, apdraustąjį asmenį, socialinio draudimo išmokos arba kitos išmokos, kurios mokėjimas pavestas Fondo valdybos teritoriniams skyriams, gavėją, pateikti Fondo administravimo įstaigoms, turi būti tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], šiuo įstatymu ir kitų asmens duomenų tvarkymą reglamentuojančių teisės aktų nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
@@ -1142,20 +1142,20 @@ Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
 ### 19 straipsnis. Atsakomybė už ne laiku ir neteisingą socialinio draudimo įmokų mokėjimą ^s-5dff98b86f837d43dc0abd39
 
 
-1. Už pavėluotai į Fondą pervestas socialinio draudimo įmokas (išskyrus įmokas už šio įstatymo [[#^s-8ee2840c34c94160c2f6d690|5 straipsnio]] 2 ir [[#^s-d329f90f3b26d86692ff7d59|3 dalyse]] nurodytus asmenis) skaičiuojami delspinigiai. Delspinigiai pradedami skaičiuoti nuo kitos dienos po to, kai socialinio draudimo įmokos turėjo būti sumokėtos, ir baigiami skaičiuoti socialinio draudimo įmokų sumokėjimo dieną įskaitytinai. Delspinigiai negali būti skaičiuojami ilgiau kaip 180 dienų nuo teisės priverstinai išieškoti socialinio draudimo įmokas atsiradimo dienos. Delspinigių dydį ir jo apskaičiavimo tvarką nustato Lietuvos Respublikos finansų ministras (toliau – finansų ministras). ^s-9296268f6e0d93a684b04c92
+1. Už pavėluotai į Fondą pervestas socialinio draudimo įmokas (išskyrus įmokas už šio įstatymo [[#^s-8ee2840c34c94160c2f6d690|5 straipsnio]] [[#^s-ba43019c058e9fc78beca4d5|2]] ir [[#^s-cbff7ee7e66893534f2ef3ab|3]] dalyse nurodytus asmenis) skaičiuojami delspinigiai. Delspinigiai pradedami skaičiuoti nuo kitos dienos po to, kai socialinio draudimo įmokos turėjo būti sumokėtos, ir baigiami skaičiuoti socialinio draudimo įmokų sumokėjimo dieną įskaitytinai. Delspinigiai negali būti skaičiuojami ilgiau kaip 180 dienų nuo teisės priverstinai išieškoti socialinio draudimo įmokas atsiradimo dienos. Delspinigių dydį ir jo apskaičiavimo tvarką nustato Lietuvos Respublikos finansų ministras (toliau – finansų ministras). ^s-9296268f6e0d93a684b04c92
 Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 
 
 
-2. Jeigu patikrinimo metu nustatoma, kad socialinio draudimo įmokos neteisėtai sumažintos, priskaičiuojama trūkstama socialinio draudimo įmokų suma ir draudėjui skiriama bauda mutatis mutandis taikant [[latest/TAR.3EB34933E485#^s-d997cc09682a154bd7e90d0b|Mokesčių administravimo įstatymo 139 ir 140 straipsniuose]] nurodytus baudų dydžius ir nustatytą baudų skyrimo tvarką. Šiuo atveju delspinigiai, numatyti [[#^s-9296268f6e0d93a684b04c92|šio straipsnio 1 dalyje]], neskaičiuojami. Jeigu draudėjas pastebėjo, kad priskaičiavo per mažas socialinio draudimo įmokas, bet iki datos, nurodytos pavedime patikrinti draudėją (jeigu pavedimo nėra – iki tikrinimo pradžios), klaidas savanoriškai ištaisė, sumokėjo trūkstamą socialinio draudimo įmokų sumą, pateikė patikslintus socialinio draudimo pranešimus ir informavo apie apdraustųjų asmenų draudžiamąsias pajamas, bauda už padarytą pažeidimą neskiriama. Šiuo atveju delspinigiai skaičiuojami [[#^s-9296268f6e0d93a684b04c92|šio straipsnio 1 dalyje]] nustatyta tvarka. Skundą nagrinėjantis teismas, atsižvelgdamas į padaryto teisės pažeidimo pobūdį, mastą, atsakomybę lengvinančias ir kitas reikšmingas aplinkybes, dėl kurių draudėjui skirta bauda akivaizdžiai per didelė ir neproporcinga (neadekvati) jo padarytam teisės pažeidimui ir dėl to neteisinga, turi teisę skirti mažesnio, negu nustatyta [[latest/TAR.3EB34933E485#^s-8e038c142a37b73d82cda751|Mokesčių administravimo įstatymo 139 straipsnyje]], dydžio baudą. ^s-5a1b3b1bf774db1e1b10eebd
+2. Jeigu patikrinimo metu nustatoma, kad socialinio draudimo įmokos neteisėtai sumažintos, priskaičiuojama trūkstama socialinio draudimo įmokų suma ir draudėjui skiriama bauda mutatis mutandis taikant [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] [[latest/TAR.3EB34933E485#^s-8e038c142a37b73d82cda751|139]] ir [[latest/TAR.3EB34933E485#^s-d997cc09682a154bd7e90d0b|140]] straipsniuose nurodytus baudų dydžius ir nustatytą baudų skyrimo tvarką. Šiuo atveju delspinigiai, numatyti [[#^s-9296268f6e0d93a684b04c92|šio straipsnio 1 dalyje]], neskaičiuojami. Jeigu draudėjas pastebėjo, kad priskaičiavo per mažas socialinio draudimo įmokas, bet iki datos, nurodytos pavedime patikrinti draudėją (jeigu pavedimo nėra – iki tikrinimo pradžios), klaidas savanoriškai ištaisė, sumokėjo trūkstamą socialinio draudimo įmokų sumą, pateikė patikslintus socialinio draudimo pranešimus ir informavo apie apdraustųjų asmenų draudžiamąsias pajamas, bauda už padarytą pažeidimą neskiriama. Šiuo atveju delspinigiai skaičiuojami [[#^s-9296268f6e0d93a684b04c92|šio straipsnio 1 dalyje]] nustatyta tvarka. Skundą nagrinėjantis teismas, atsižvelgdamas į padaryto teisės pažeidimo pobūdį, mastą, atsakomybę lengvinančias ir kitas reikšmingas aplinkybes, dėl kurių draudėjui skirta bauda akivaizdžiai per didelė ir neproporcinga (neadekvati) jo padarytam teisės pažeidimui ir dėl to neteisinga, turi teisę skirti mažesnio, negu nustatyta [[latest/TAR.3EB34933E485#^s-8e038c142a37b73d82cda751|Mokesčių administravimo įstatymo 139 straipsnyje]], dydžio baudą. ^s-5a1b3b1bf774db1e1b10eebd
 Straipsnio dalies pakeitimai:
 Nr. KT62-N6/2022, 2022-05-19, paskelbta TAR 2022-05-19, i. k. 2022-10567
 Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
 
 
 
-3. Fondo valdyba, o šio įstatymo [[#^s-f4621917643ed61f00378e01|34 straipsnio 16 punkte]] numatytais atvejais jos teritorinis skyrius Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti socialinio draudimo įmokų į Fondą įsiskolinimo mokėjimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą grąžinimo grafiką ne vėliau kaip per 4 metus. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma yra ne mažesnė kaip 125 eurai ir ne didesnė kaip 1 500 eurų, socialinio draudimo įmokų įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti socialinio draudimo įmokų sumokėjimą netenka galios ir socialinio draudimo įmokų įsiskolinimo išieškojimas vykdomas priverstine tvarka. Draudėjui, jeigu jo bendra įsiskolinimo Fondui suma mažesnė kaip 125 eurai, socialinio draudimo įmokų įsiskolinimas neatidedamas. ^s-d329f90f3b26d86692ff7d59
+3. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti socialinio draudimo įmokų į Fondą įsiskolinimo mokėjimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą grąžinimo grafiką ne vėliau kaip per 4 metus. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma yra ne mažesnė kaip 125 eurai ir ne didesnė kaip 1 500 eurų, socialinio draudimo įmokų įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti socialinio draudimo įmokų sumokėjimą netenka galios ir socialinio draudimo įmokų įsiskolinimo išieškojimas vykdomas priverstine tvarka. Draudėjui, jeigu jo bendra įsiskolinimo Fondui suma mažesnė kaip 125 eurai, socialinio draudimo įmokų įsiskolinimas neatidedamas. ^s-d329f90f3b26d86692ff7d59
 Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
@@ -1164,7 +1164,7 @@ Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
 
 
 
-4. Fondo valdyba, o šio įstatymo [[#^s-f4621917643ed61f00378e01|34 straipsnio 16 punkte]] numatytais atvejais jos teritorinis skyrius Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą grąžinimo grafiką ne vėliau kaip per 4 metus. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma yra ne mažesnė kaip 125 eurai ir ne didesnė kaip 1 500 eurų, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą netenka galios ir delspinigių išieškojimas vykdomas priverstine tvarka. Draudėjui, jeigu jo bendra įsiskolinimo Fondui suma mažesnė kaip 125 eurai, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas neatidedamas. ^s-fb8d752faed396175697ef44
+4. Fondo valdyba, o šio įstatymo 34 straipsnio 16 punkte numatytais atvejais jos teritorinis skyrius Fondų biudžetų sudarymo ir vykdymo taisyklėse nustatyta tvarka gali atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą iki vienų metų ir leisti sumokėti atidėtą sumą pagal draudėjo ir Fondo administravimo įstaigos suderintą grąžinimo grafiką ne vėliau kaip per 4 metus. Savarankiškai dirbantiems asmenims, mokantiems socialinio draudimo įmokas už save, kai jų bendra įsiskolinimo Fondui suma yra ne mažesnė kaip 125 eurai ir ne didesnė kaip 1 500 eurų, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas gali būti atidėtas iki vienų metų. Pažeidus mokėjimo grafiką, laiku nesumokėjus socialinio draudimo įmokų už einamąjį laikotarpį, Fondo administravimo įstaigos sprendimas atidėti delspinigių, priskaičiuotų draudėjams už pavėluotai pervestas socialinio draudimo įmokas, išieškojimą netenka galios ir delspinigių išieškojimas vykdomas priverstine tvarka. Draudėjui, jeigu jo bendra įsiskolinimo Fondui suma mažesnė kaip 125 eurai, delspinigių, priskaičiuotų už pavėluotai pervestas socialinio draudimo įmokas, įsiskolinimo mokėjimas neatidedamas. ^s-fb8d752faed396175697ef44
 Straipsnio dalies pakeitimai:
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
@@ -1182,7 +1182,7 @@ Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
 1) priskaičiuotų delspinigių mokėjimo, jeigu draudėjas įrodo, kad priskaičiavo per mažas socialinio draudimo įmokas ar negalėjo laiku sumokėti priskaičiuotų socialinio draudimo įmokų dėl aplinkybių, kurios nepriklausė nuo jo valios ir kurių jis nenumatė ir negalėjo numatyti; ^s-0368e832435d824376af4f20
 
 
-2) paskirtų baudų mokėjimo, jeigu draudėjui gali būti pritaikyti [[latest/TAR.3EB34933E485#^s-c1979524579250a5a8d3d261|Mokesčių administravimo įstatymo 141 straipsnio 1 dalies]] 1–3 punktuose numatyti atleidimo nuo paskirtų baudų mokėjimo pagrindai. ^s-4cf5a19c7e37a00cc4e26d13
+2) paskirtų baudų mokėjimo, jeigu draudėjui gali būti pritaikyti [[latest/TAR.3EB34933E485#^s-c1979524579250a5a8d3d261|Mokesčių administravimo įstatymo 141 straipsnio 1 dalies]] [[latest/TAR.3EB34933E485#^s-70bc2e1273f438e880e345d9|1]]–[[latest/TAR.3EB34933E485#^s-228625d0e8136ee639837aa8|3]] punktuose numatyti atleidimo nuo paskirtų baudų mokėjimo pagrindai. ^s-4cf5a19c7e37a00cc4e26d13
 Straipsnio punkto pakeitimai:
 Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
 
@@ -1205,7 +1205,7 @@ Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
 
 
 10. Šio įstatymo [[#^s-c3f2c3ddba880fbfc5a2cb3f|20 straipsnyje]] nurodytais būdais pradėtos laiku nesumokėtų socialinio draudimo įmokų, delspinigių, palūkanų ir baudų priverstinio išieškojimo procedūros tęsiamos nepaisant to, kad jų vykdymo metu pasibaigia jų priverstinio išieškojimo senaties terminas. Jeigu priimamas sprendimas atidėti socialinio draudimo įmokų įsiskolinimo sumokėjimą, delspinigių ar baudų išieškojimą, priverstinio išieškojimo senaties terminas nutrūksta. Tokiu atveju nutrūkęs priverstinio išieškojimo senaties terminas prasideda iš naujo nuo to momento, kai netenka galios sprendimas, kuriuo atitinkamos sumos sumokėjimas ar išieškojimas buvo atidėtas. ^s-5584cba17563f27b54dbe7b0
-TAR pastaba. [[#^s-5584cba17563f27b54dbe7b0|19 straipsnio 10 dalies]] nuostatos taikomos ir [[latest/6767cba0632811eca9ac839120d251c4|įstatymo Nr. XIV-750]] įsigaliojimo (2022-01-01) susidariusioms valstybinio socialinio draudimo įmokų, delspinigių, palūkanų ir baudų skoloms.
+TAR pastaba. 19 straipsnio 10 dalies nuostatos taikomos ir [[latest/6767cba0632811eca9ac839120d251c4|įstatymo Nr. XIV-750]] įsigaliojimo (2022-01-01) susidariusioms valstybinio socialinio draudimo įmokų, delspinigių, palūkanų ir baudų skoloms.
 Straipsnio dalies pakeitimai:
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
@@ -1276,7 +1276,7 @@ Nr. XIV-36, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27344
 1. Fondo valdybos teritoriniai skyriai laiku nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas gali išieškoti priverstine tvarka tokiais būdais: ^s-fea0025bf824d3d5dacef1b4
 
 
-1) duodami nurodymą kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas nurašyti iš draudėjo ar draudėjo skolininko, praleidusio skolos grąžinimo draudėjui terminą, sąskaitos, o patikrinimo metu surinktų dokumentų ir kitų įrodymų pagrindu nustačius, kad draudėjo piniginės sumos yra pas kitus draudėjus, – ir iš tokių draudėjų sąskaitų kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje Lietuvos Respublikos civilinio proceso kodekso 754 straipsnyje nustatyta tvarka; ^s-4b0193b8e4571901191e1d57
+1) duodami nurodymą kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas nurašyti iš draudėjo ar draudėjo skolininko, praleidusio skolos grąžinimo draudėjui terminą, sąskaitos, o patikrinimo metu surinktų dokumentų ir kitų įrodymų pagrindu nustačius, kad draudėjo piniginės sumos yra pas kitus draudėjus, – ir iš tokių draudėjų sąskaitų kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje [Lietuvos Respublikos civilinio proceso kodekso 754 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka; ^s-4b0193b8e4571901191e1d57
 
 
 2) duodami nurodymą skolininko darbdaviui, pensijos, stipendijos, pašalpos ar kitos išmokos mokėtojui išieškoti nesumokėtas socialinio draudimo įmokas, delspinigius, palūkanas ir baudas į Fondą; ^s-edc8cc92f0c0ae3da9852be0
@@ -1297,7 +1297,7 @@ Nr. XIV-36, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27344
 1) duoti nurodymus Lietuvos Respublikos kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoms nutraukti pinigų išdavimą bei pervedimą iš draudėjų ar draudėjų skolininkų, praleidusių skolos grąžinimo draudėjui terminą, sąskaitų, o patikrinimo metu surinktų dokumentų ir kitų įrodymų pagrindu nustačius, kad draudėjo piniginės sumos ar kitas turtas yra pas kitus draudėjus, – ir iš tokių draudėjų sąskaitų, jeigu draudėjai skolingi ir nemoka socialinio draudimo įmokų ilgiau kaip 3 mėnesius; ^s-e279377016b1795807ee1144
 
 
-2) kreiptis dėl draudėjo ar draudėjo skolininko, praleidusio skolos grąžinimo draudėjui terminą, turto, o patikrinimo metu surinktų dokumentų ir kitų įrodymų pagrindu nustačius, kad draudėjo piniginės sumos yra pas kitą draudėją, – ir tokio draudėjo turto priverstinės hipotekos ar įkeitimo įregistravimo Civilinio proceso kodekso nustatyta tvarka; ^s-36fc8544abad577a19aefd88
+2) kreiptis dėl draudėjo ar draudėjo skolininko, praleidusio skolos grąžinimo draudėjui terminą, turto, o patikrinimo metu surinktų dokumentų ir kitų įrodymų pagrindu nustačius, kad draudėjo piniginės sumos yra pas kitą draudėją, – ir tokio draudėjo turto priverstinės hipotekos ar įkeitimo įregistravimo [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka; ^s-36fc8544abad577a19aefd88
 
 
 3) areštuoti draudėjo ar draudėjo skolininko, praleidusio skolos grąžinimo draudėjui terminą, turtą, o patikrinimo metu surinktų dokumentų ir kitų įrodymų pagrindu nustačius, kad draudėjo piniginės sumos yra pas kitą draudėją, – ir tokio draudėjo turtą, jeigu Fondui nesumokėti socialinio draudimo įmokos, baudos, palūkanos ir (ar) delspinigiai. ^s-0218415712896401fea08261
@@ -1309,7 +1309,7 @@ Nr. XIV-36, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27344
 5. Jeigu nėra galimybės išieškoti nesumokėtus socialinio draudimo įmokas, delspinigius, palūkanas ir baudas iš individualios įmonės, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos, nesumokėti socialinio draudimo įmokos, delspinigiai, palūkanos ir baudos gali būti išieškomi iš individualios įmonės savininko, tikrosios ūkinės bendrijos ar komanditinės ūkinės bendrijos tikrųjų narių ar narių turto ir šiuo turtu gali būti užtikrinimas skolos išieškojimas. ^s-31feb82bc2f60e42118d920b
 
 
-6. Kai draudėjo skolininkui ar kitiems draudėjams, pas kuriuos yra draudėjo piniginės sumos, taikomos šio straipsnio 1 ir [[#^s-33cbcac034cb2c0d6fb50c78|3 dalyse]] numatytos skolos išieškojimo ir išieškojimo užtikrinimo priemonės, sumos (turto dalis), dėl kurių atliekami atitinkami veiksmai, negali viršyti atitinkamai draudėjo skolininko skolos draudėjui dydžio ar kito draudėjo turimos draudėjo pinigų sumos (kito turimo draudėjo turto (dalies) vertės). Vykdant šio straipsnio 1 ir [[#^s-33cbcac034cb2c0d6fb50c78|3 dalyse]] numatytą draudėjo skolininko skolos išieškojimą mutatis mutandis taikomos Civilinio proceso kodekso 688 straipsnio nuostatos. ^s-cb6675df72eeb07d8d9604b8
+6. Kai draudėjo skolininkui ar kitiems draudėjams, pas kuriuos yra draudėjo piniginės sumos, taikomos šio straipsnio [[#^s-fea0025bf824d3d5dacef1b4|1]] ir [[#^s-33cbcac034cb2c0d6fb50c78|3]] dalyse numatytos skolos išieškojimo ir išieškojimo užtikrinimo priemonės, sumos (turto dalis), dėl kurių atliekami atitinkami veiksmai, negali viršyti atitinkamai draudėjo skolininko skolos draudėjui dydžio ar kito draudėjo turimos draudėjo pinigų sumos (kito turimo draudėjo turto (dalies) vertės). Vykdant šio straipsnio [[#^s-fea0025bf824d3d5dacef1b4|1]] ir [[#^s-33cbcac034cb2c0d6fb50c78|3]] dalyse numatytą draudėjo skolininko skolos išieškojimą mutatis mutandis taikomos [Civilinio proceso kodekso 688 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nuostatos. ^s-cb6675df72eeb07d8d9604b8
 
 
 
@@ -1414,7 +1414,7 @@ Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
 2. Kredito, mokėjimo ir (ar) elektroninių pinigų įstaiga Fondo administravimo įstaigos nurodymą nurašyti iš šioje kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje asmens atidarytos sąskaitos laiku nesumokėtus socialinio draudimo įmokas, delspinigius, palūkanas ir baudas privalo įvykdyti per [[latest/TAR.C6C5599DD9A1|Lietuvos Respublikos mokėjimų įstatyme]] nustatytą mokėjimo nurodymo įvykdymo terminą. Kredito, mokėjimo ir (ar) elektroninių pinigų įstaiga Fondo administravimo įstaigos nurodymą nurašyti iš šioje kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje esančio asmens indėlio su priklausančiomis palūkanomis nesumokėtus socialinio draudimo įmokas, delspinigius, palūkanas ir baudas privalo įvykdyti pagal pirmą indėlininko pareikalavimą arba suėjus indėlio terminui. Fondo administravimo įstaigos nurodymas nurašyti iš šioje kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje atidarytos asmens sąskaitos nesumokėtus socialinio draudimo įmokas, delspinigius, palūkanas ir baudas turi būti priimamas bei vykdomas ir tada, kai draudėjo ar draudėjo skolininko sąskaitoje nėra pinigų ar yra mažesnė negu nurašytina pinigų suma. Tokiu atveju nurašymas turi būti atliekamas dalimis tol, kol iš draudėjo ar draudėjo skolininko sąskaitos bus nurašyta visa nurodyta suma. Fondo administravimo įstaigos nurodymas nurašyti iš šioje kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje esančio asmens indėlio su priklausančiomis palūkanomis laiku nesumokėtus socialinio draudimo įmokas, delspinigius, palūkanas ir baudas turi būti priimamas bei vykdomas ir tada, kai draudėjo ar draudėjo skolininko indėlio suma yra mažesnė negu nurašytina pinigų suma. Tokiu atveju nurodymas nurašyti laiku nesumokėtus socialinio draudimo įmokas, delspinigius, palūkanas ir baudas įvykdomas tokia dalimi, kokio dydžio yra asmens indėlis kartu su priklausančiomis palūkanomis. Fondo administravimo įstaigos sumažina nurodyme, kuris jau pateiktas kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai, numatytą nurašyti sumą, jeigu laiku nesumokėti socialinio draudimo įmokos, neginčytini delspinigiai, neginčytinos palūkanos ir neginčijamos baudos iš dalies padengiami kitokiu būdu. Šiuo atveju Fondo administravimo įstaigos apie reikalavimo sumažinimą nedelsdamos praneša kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai, o ši pateiktą nurodymą vykdo patikslindama sumas. ^s-35545d45fac29b7c29a86f45
 
 
-3. Fondo administravimo įstaigos nurodymai priverstine tvarka nurašyti nesumokėtus socialinio draudimo įmokas, delspinigius, palūkanas ir baudas iš draudėjo ar draudėjo skolininko sąskaitos vykdomi Civilinio proceso kodekso nustatyta tvarka. ^s-a65022ec5ba9384cbb44c6ea
+3. Fondo administravimo įstaigos nurodymai priverstine tvarka nurašyti nesumokėtus socialinio draudimo įmokas, delspinigius, palūkanas ir baudas iš draudėjo ar draudėjo skolininko sąskaitos vykdomi [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-a65022ec5ba9384cbb44c6ea
 
 
 4. Tuo atveju, jeigu Fondo administravimo įstaiga, pateikdama kredito, mokėjimo ir (ar) elektroninių pinigų įstaigai nurodymą apriboti asmens teisę disponuoti lėšomis, esančiomis šioje kredito, mokėjimo ir (ar) elektroninių pinigų įstaigoje asmens atidarytoje sąskaitoje, nurodo, kad asmuo gali vykdyti tam tikras operacijas su jo sąskaitoje esančiomis lėšomis, turi būti nurodyta konkreti lėšų suma, kuri per vieną kalendorinį mėnesį gali būti panaudota mokėjimams atlikti. ^s-a4b14cbff8d920ea8fa64595
@@ -2150,7 +2150,7 @@ Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
 
 
 
-7. Šio įstatymo [[#^s-36fc8544abad577a19aefd88|20 straipsnio 3 dalies 2 punkte]] numatytais atvejais duomenys apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsiant, ne vėliau kaip per 24 valandas, pateikiami priklausomai nuo įkeisto objekto Nekilnojamojo turto registro informacinei sistemai arba Sutarčių ir teisių suvaržymų registro informacinei sistemai ir priverstinė hipoteka (įkeitimas) įregistruojama atitinkamai Nekilnojamojo turto registro informacinėje sistemoje arba Sutarčių ir teisių suvaržymų registro informacinėje sistemoje šio registro informacinės sistemos nuostatuose nustatyta tvarka. Sprendimas dėl skolos išieškojimo iš priverstine hipoteka įkeisto turto yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka. ^s-496eae365549238e510a2efa
+7. Šio įstatymo [[#^s-36fc8544abad577a19aefd88|20 straipsnio 3 dalies 2 punkte]] numatytais atvejais duomenys apie priverstinės hipotekos (įkeitimo) nustatymą, pakeitimą ar pabaigą nedelsiant, ne vėliau kaip per 24 valandas, pateikiami priklausomai nuo įkeisto objekto Nekilnojamojo turto registro informacinei sistemai arba Sutarčių ir teisių suvaržymų registro informacinei sistemai ir priverstinė hipoteka (įkeitimas) įregistruojama atitinkamai Nekilnojamojo turto registro informacinėje sistemoje arba Sutarčių ir teisių suvaržymų registro informacinėje sistemoje šio registro informacinės sistemos nuostatuose nustatyta tvarka. Sprendimas dėl skolos išieškojimo iš priverstine hipoteka įkeisto turto yra vykdomasis dokumentas, vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-496eae365549238e510a2efa
 Straipsnio dalies pakeitimai:
 Nr. XIII-2737, 2019-12-19, paskelbta TAR 2020-01-06, i. k. 2020-00112
 Nr. XV-589, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20658
@@ -2246,7 +2246,7 @@ Nr. XV-347, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12013
 
 
 
-51. Į šio straipsnio 2 ir [[#^s-2ca352d656f8935fbd60be3b|5 dalyse]] nurodytus terminus skundams dėl automatizuotų Fondo valdybos teritorinių skyrių ar Fondo valdybos sprendimų paduoti neįskaitomi laikotarpiai nuo šio įstatymo [[#^s-63ae752a6d78c96cd2878414|401 straipsnio 4 dalyje]] nurodyto asmens prašymo, kuriuo reikalaujama žmogaus įsikišimo ir sprendimo, priimto po žmogaus vertinimo, paaiškinimo, pateikimo Fondo administravimo įstaigai dienos iki tos dienos, kurią asmuo sužinojo arba turėjo sužinoti apie atsakymą į tokį prašymą. ^s-a64da3b71d66e9636aad193a
+51. Į šio straipsnio 2 ir [[#^s-2ca352d656f8935fbd60be3b|5]] dalyse nurodytus terminus skundams dėl automatizuotų Fondo valdybos teritorinių skyrių ar Fondo valdybos sprendimų paduoti neįskaitomi laikotarpiai nuo šio įstatymo [[#^s-63ae752a6d78c96cd2878414|401 straipsnio 4 dalyje]] nurodyto asmens prašymo, kuriuo reikalaujama žmogaus įsikišimo ir sprendimo, priimto po žmogaus vertinimo, paaiškinimo, pateikimo Fondo administravimo įstaigai dienos iki tos dienos, kurią asmuo sužinojo arba turėjo sužinoti apie atsakymą į tokį prašymą. ^s-a64da3b71d66e9636aad193a
 Papildyta straipsnio dalimi:
 Nr. XV-347, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12013
 
@@ -2358,7 +2358,7 @@ Nr. VIII-1086, 99.03.16, Žin., 1999, Nr.32-900 (99.04.09)
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1188, 99.05.18, Žin., 1999, Nr.50-1599 (99.06.09)
-LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 7, 26, 28, 30, 31, 32, 34, 35, 36, 38, 39, 40, 41, 42 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 28(1) STRAIPSNIU ĮSTATYMAS
+LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO [[#^s-a83a96f2c222ff3ddd13c44a|2]], [[#^s-4eaeafb1cbfe6cb893f39d79|3]], [[#^s-917f4a7c9c293acaf75e8aaf|4]], [[#^s-ba0ba6635b1cab736c21db20|7]], [[#^s-7a31edb72b0a401ed8562a46|26]], [[#^s-faa4a0431e8d749ddcd7c0ca|28]], [[#^s-43d94351cdbe68a5604342e9|30]], [[#^s-61e879c220cce3e9e6ccce26|31]], [[#^s-38e804b40ff59fa764b2f9da|32]], [[#^s-d5f5d83bbcdad93c865f6044|34]], [[#^s-696bb7c166f0f62b8d864211|35]], [[#^s-c92d2f82b467bec055d95f3a|36]], [[#^s-39037f8cd04cb242a308b4b8|38]], [[#^s-b81187a75676d7cceab7bbc3|39]], [[#^s-f370d9a5951d2cc69a46a287|40]], [[#^s-a83e11a675b5b0f534df111f|41]], [[latest/TAR.0F9036415DBD|42]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 28(1) STRAIPSNIU ĮSTATYMAS
 Įsigaliojus šiam įstatymui, ūkininkai atleidžiami nuo nesumokėtų valstybinio socialinio draudimo įmokų, delspinigių ir baudų mokėjimo už laikotarpį nuo 1995 m. sausio 1 d. iki 1999 m. sausio 1 d.
 
 17.
@@ -2379,7 +2379,7 @@ Nr. VIII-1573, 00.03.16, Žin., 2000, Nr.28-763 (00.04.05)
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1705, 00.05.23, Žin., 2000, Nr.45-1299 (00.06.02)
-[[#^s-4eaeafb1cbfe6cb893f39d79|VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 3 STRAIPSNIO]] PAKEITIMO IR 20, [[#^s-fa5f4e8400dcf92ed448bf58|21 STRAIPSNIŲ]] PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+[VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR 20, 21 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.25194D3CC370)
 Šis įstatymas neteko galios nuo 2001 m. sausio 1 d.:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-113, 2000 12 21, Žin., 2000, Nr. 111-3577 (2000 12 29)
@@ -2425,14 +2425,14 @@ Nr. IX-615, 2001-11-20, Žin., 2001, Nr. 103-3657 (2001-12-07)
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-869, 2002-05-07, Žin., 2002, Nr. 52-1983 (2002-05-24)
-VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 1, 2, 34, 36, 37(1), 38, 42, 43, 44, 45, 46 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-Šio įstatymo įsigaliojimas pakeistas Įstatymu Nr. IX-1229:
-Šis Įstatymas, išskyrus [[#^s-03635355d5e552e50968ce54|12 straipsnį]] ir šio straipsnio 2 dalyje numatytą išlygą, įsigalioja nuo 2004 m. sausio 1 d. Valstybinio socialinio draudimo įstatymo 44 straipsnio 1 dalis įsigalioja nuo 2002 m. spalio 1 d.
+[VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 1, 2, 34, 36, 37(1), 38, 42, 43, 44, 45, 46 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.7B05BA273A50)
+Šio įstatymo įsigaliojimas pakeistas [Įstatymu Nr. IX-1229](https://e-tar.lt/portal/lt/legalAct/TAR.C3BE14F4B173):
+Šis Įstatymas, išskyrus [[#^s-03635355d5e552e50968ce54|12 straipsnį]] ir šio straipsnio 2 dalyje numatytą išlygą, įsigalioja nuo 2004 m. sausio 1 d. [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo 44 straipsnio 1 dalis]] įsigalioja nuo 2002 m. spalio 1 d.
 Šis įstatymas neteko galios nuo 2004 m. sausio 1 d. Tai nusako [[latest/TAR.90C15C966F7C|įstatymas Nr. IX-1831]]
 Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1229, 2002-12-10, Žin., 2002, Nr. 123-5521 (2002-12-24)
-VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 1, 2, 34, 36, 37(1), 38, 42, 43, 44, 45, 46 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 11, 12, [[#^s-cc1e09e88f3a66c9157b2b70|13 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 1, 2, 34, 36, 37(1), 38, 42, 43, 44, 45, 46 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 11, 12, 13 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.C3BE14F4B173)
 Šis įstatymas neteko galios nuo 2004 m. sausio 1 d. Tai nusako [[latest/TAR.90C15C966F7C|įstatymas Nr. IX-1831]].
 
 28.
@@ -2455,8 +2455,8 @@ Nr. IX-1213, 2002-12-03, Žin., 2002, Nr. 123-5509 (2002-12-24)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1246, 2002-12-10, Žin., 2002, Nr. 124-5621 (2002-12-27)
 VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-Šis Įstatymas, išskyrus 1 straipsnio 5 dalies nuostatas dėl Valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalies 12 punkto pakeitimo, įsigalioja nuo 2003 m. sausio 1 d.
-Šio Įstatymo 1 straipsnio 5 dalies nuostatos dėl Valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalies 12 punkto pakeitimo įsigalioja nuo 2004 m. sausio 1 d.
+Šis Įstatymas, išskyrus 1 straipsnio 5 dalies nuostatas dėl [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalies 12 punkto]] pakeitimo, įsigalioja nuo 2003 m. sausio 1 d.
+Šio Įstatymo 1 straipsnio 5 dalies nuostatos dėl [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalies 12 punkto]] pakeitimo įsigalioja nuo 2004 m. sausio 1 d.
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2528,7 +2528,7 @@ Nr. X-594, 2006-05-04, Žin., 2006, Nr. 57-2024 (2006-05-20)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-656, 2006-06-08, Žin., 2006, Nr. 72-2673 (2006-06-28)
 [[latest/TAR.5B6F65A75943|VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo 3 straipsnio 2 punkto bei [[#^s-18ee958e732a25eeb556f77b|6 straipsnio 1 dalies]] pakeitimas įsigalioja nuo 2006 m. liepos 1 d. Šio įstatymo [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] 2 ir [[#^s-171befcdf9cb9000b3eb8a5e|4 dalių]] papildymas ir pakeitimas, [[#^s-cbff7ee7e66893534f2ef3ab|5 straipsnio 3 dalies]] pakeitimas bei 9 straipsnio 7 dalies pakeitimas įsigalioja nuo 2008 m. sausio 1 d.
+Šio įstatymo 3 straipsnio 2 punkto bei [[#^s-18ee958e732a25eeb556f77b|6 straipsnio 1 dalies]] pakeitimas įsigalioja nuo 2006 m. liepos 1 d. Šio įstatymo [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] [[#^s-66a74a7996a218e9403ff8dc|2]] ir [[#^s-7a469a5208f6b36019a05ee3|4]] dalių papildymas ir pakeitimas, [[#^s-cbff7ee7e66893534f2ef3ab|5 straipsnio 3 dalies]] pakeitimas bei 9 straipsnio 7 dalies pakeitimas įsigalioja nuo 2008 m. sausio 1 d.
 Šio įstatymo pakeitimas:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1397, 2007-12-20, Žin., 2007, Nr. 138-5652 (2007-12-29)
@@ -2617,7 +2617,7 @@ Nr. XII-668, 2013-12-12, Žin., 2013, Nr. 140-7050 (2013-12-30)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-389, 2009-07-22, Žin., 2009, Nr. 93-3981 (2009-08-04)
 [[latest/TAR.F1CAB7F1B9F0|VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 2, 4, 7, 8, 9 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo 2, 3, 4, [[#^s-8ee2840c34c94160c2f6d690|5 straipsniai]] įsigalioja 2010 m. sausio 1 d. ir taikomi apskaičiuojant ir mokant valstybinio socialinio draudimo įmokas už 2010 ir vėlesnius metus.
+Šio įstatymo [[#^s-a83a96f2c222ff3ddd13c44a|2]], [[#^s-4eaeafb1cbfe6cb893f39d79|3]], [[#^s-917f4a7c9c293acaf75e8aaf|4]], [[#^s-8ee2840c34c94160c2f6d690|5]] straipsniai įsigalioja 2010 m. sausio 1 d. ir taikomi apskaičiuojant ir mokant valstybinio socialinio draudimo įmokas už 2010 ir vėlesnius metus.
 Šio įstatymo [[#^s-7be326410c2586caed25a32b|1 straipsnis]] taikomas apskaičiuojant ir mokant valstybinio socialinio draudimo įmokas už 2009 ir vėlesnius metus.
                 Šio įstatymo pakeitimas:
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2797,7 +2797,7 @@ LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO NR. I-1336 [[#^s-
 72.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1000, 2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10433
-LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO NR. I-1336 4, 5 IR [[#^s-d73413a7e0961809b00c271d|9 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO NR. I-1336 [[#^s-917f4a7c9c293acaf75e8aaf|4]], [[#^s-8ee2840c34c94160c2f6d690|5]] IR [[#^s-d73413a7e0961809b00c271d|9]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
 
 
@@ -2806,22 +2806,22 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1202, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14122
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2 ir [[#^s-99f0dd39041ad77124280ee4|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-a83a96f2c222ff3ddd13c44a|2]] ir [[#^s-99f0dd39041ad77124280ee4|27]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1393, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19920
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 5, 9, 29 ir [[#^s-61e879c220cce3e9e6ccce26|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-917f4a7c9c293acaf75e8aaf|4]], [[#^s-8ee2840c34c94160c2f6d690|5]], [[#^s-d73413a7e0961809b00c271d|9]], [[#^s-27aa5fceffbec6d70331168e|29]] ir [[#^s-61e879c220cce3e9e6ccce26|31]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1409, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20432
-[[#^s-5dff98b86f837d43dc0abd39|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 7, 8, 16, [[#^s-5dff98b86f837d43dc0abd39\|19 straipsnių]]]] pakeitimo ir papildymo [[latest/TAR.A787DFAB50C0|įstatymo Nr. XI-1792]] [[#^s-a83a96f2c222ff3ddd13c44a|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo [[#^s-917f4a7c9c293acaf75e8aaf|4]], [[#^s-ba0ba6635b1cab736c21db20|7]], [[#^s-41445d56099cbf4732c50d87|8]], [[#^s-895611f7a52b681397c0d27d|16]], [[#^s-5dff98b86f837d43dc0abd39|19]] straipsnių pakeitimo ir papildymo [[latest/TAR.A787DFAB50C0|įstatymo Nr. XI-1792]] [[#^s-a83a96f2c222ff3ddd13c44a|2 straipsnio]] pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1455, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21204
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 17, 21 ir [[#^s-c92d2f82b467bec055d95f3a|36 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-40089d0505f11e4cfa08efb2|17]], [[#^s-fa5f4e8400dcf92ed448bf58|21]] ir [[#^s-c92d2f82b467bec055d95f3a|36]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2831,22 +2831,22 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1990, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18256
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 31 ir [[#^s-c92d2f82b467bec055d95f3a|36 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-917f4a7c9c293acaf75e8aaf|4]], [[#^s-61e879c220cce3e9e6ccce26|31]] ir [[#^s-c92d2f82b467bec055d95f3a|36]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2140, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20128
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 31 ir [[#^s-c92d2f82b467bec055d95f3a|36 straipsnių]] pakeitimo [[latest/200e7ed08d2711e58711b884b80daa4f|įstatymo Nr. XII-1990]] [[#^s-7be326410c2586caed25a32b|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-917f4a7c9c293acaf75e8aaf|4]], [[#^s-61e879c220cce3e9e6ccce26|31]] ir [[#^s-c92d2f82b467bec055d95f3a|36]] straipsnių pakeitimo [[latest/200e7ed08d2711e58711b884b80daa4f|įstatymo Nr. XII-1990]] [[#^s-7be326410c2586caed25a32b|1 straipsnio]] pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2141, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20132
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 7 ir [[#^s-41445d56099cbf4732c50d87|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-ba0ba6635b1cab736c21db20|7]] ir [[#^s-41445d56099cbf4732c50d87|8]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2280, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06431
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 31 ir [[#^s-c92d2f82b467bec055d95f3a|36 straipsnių]] pakeitimo [[latest/200e7ed08d2711e58711b884b80daa4f|įstatymo Nr. XII-1990]] [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-917f4a7c9c293acaf75e8aaf|4]], [[#^s-61e879c220cce3e9e6ccce26|31]] ir [[#^s-c92d2f82b467bec055d95f3a|36]] straipsnių pakeitimo [[latest/200e7ed08d2711e58711b884b80daa4f|įstatymo Nr. XII-1990]] [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2856,22 +2856,22 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeit
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-139, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29843
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeitimo [[latest/89ccbb604a6f11e6b5d09300a16a686c|įstatymo Nr. XII-2508]] 1 ir [[#^s-a83a96f2c222ff3ddd13c44a|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeitimo [[latest/89ccbb604a6f11e6b5d09300a16a686c|įstatymo Nr. XII-2508]] [[#^s-7be326410c2586caed25a32b|1]] ir [[#^s-a83a96f2c222ff3ddd13c44a|2]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-415, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10023
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeitimo [[latest/89ccbb604a6f11e6b5d09300a16a686c|įstatymo Nr. XII-2508]] 1 ir [[#^s-a83a96f2c222ff3ddd13c44a|2 straipsnių]] pakeitimo [[latest/ac7ee820cd9811e6a2cac7383cbb90a3|įstatymo Nr. XIII-139]] 6 ir [[#^s-03635355d5e552e50968ce54|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 pakeitimo [[latest/89ccbb604a6f11e6b5d09300a16a686c|įstatymo Nr. XII-2508]] [[#^s-7be326410c2586caed25a32b|1]] ir [[#^s-a83a96f2c222ff3ddd13c44a|2]] straipsnių pakeitimo [[latest/ac7ee820cd9811e6a2cac7383cbb90a3|įstatymo Nr. XIII-139]] [[#^s-bfa41525bf86aaeefe10fbcc|6]] ir [[#^s-03635355d5e552e50968ce54|12]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-624, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12340
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 10 ir [[#^s-ef98a209b8829200eccc958b|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-917f4a7c9c293acaf75e8aaf|4]], [[#^s-66b58186ceb25bbd081e9e00|10]] ir [[#^s-ef98a209b8829200eccc958b|11]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-823, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20047
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 3, 8, 10, 11, 12, 13, 19, 25, 35 ir [[#^s-f370d9a5951d2cc69a46a287|40 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-a83a96f2c222ff3ddd13c44a|2]], [[#^s-4eaeafb1cbfe6cb893f39d79|3]], [[#^s-41445d56099cbf4732c50d87|8]], [[#^s-66b58186ceb25bbd081e9e00|10]], [[#^s-ef98a209b8829200eccc958b|11]], [[#^s-03635355d5e552e50968ce54|12]], [[#^s-cc1e09e88f3a66c9157b2b70|13]], [[#^s-5dff98b86f837d43dc0abd39|19]], [[#^s-e71bf064e7a5cc766b413b69|25]], [[#^s-696bb7c166f0f62b8d864211|35]] ir [[#^s-f370d9a5951d2cc69a46a287|40]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2881,7 +2881,7 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-883, 2017-12-12, paskelbta TAR 2017-12-28, i. k. 2017-21484
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 32 ir [[#^s-a83e11a675b5b0f534df111f|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-38e804b40ff59fa764b2f9da|32]] ir [[#^s-a83e11a675b5b0f534df111f|41]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2896,27 +2896,27 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-947, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21639
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6, 27 ir [[#^s-3c29843786c1bc653f6bc0d7|37 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-bfa41525bf86aaeefe10fbcc|6]], [[#^s-99f0dd39041ad77124280ee4|27]] ir [[#^s-3c29843786c1bc653f6bc0d7|37]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1336, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10978
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 4, 7, 8, 10, 23, 25 ir [[#^s-38e804b40ff59fa764b2f9da|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-a83a96f2c222ff3ddd13c44a|2]], [[#^s-917f4a7c9c293acaf75e8aaf|4]], [[#^s-ba0ba6635b1cab736c21db20|7]], [[#^s-41445d56099cbf4732c50d87|8]], [[#^s-66b58186ceb25bbd081e9e00|10]], [[#^s-b7b02ee8cc93e88d3fc54a4c|23]], [[#^s-e71bf064e7a5cc766b413b69|25]] ir [[#^s-38e804b40ff59fa764b2f9da|32]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1391, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12061
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4 ir [[#^s-bfa41525bf86aaeefe10fbcc|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-917f4a7c9c293acaf75e8aaf|4]] ir [[#^s-bfa41525bf86aaeefe10fbcc|6]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1720, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20974
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 10, 15, 16, 32 ir [[#^s-d5f5d83bbcdad93c865f6044|34 straipsnių]] pakeitimo ir Įstatymo papildymo 34-1 straipsniu įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-66b58186ceb25bbd081e9e00|10]], [[#^s-623a04d45ad53022ed319298|15]], [[#^s-895611f7a52b681397c0d27d|16]], [[#^s-38e804b40ff59fa764b2f9da|32]] ir [[#^s-d5f5d83bbcdad93c865f6044|34]] straipsnių pakeitimo ir Įstatymo papildymo 34-1 straipsniu įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1721, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20975
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 3, 8, 10, 11, 12, 13, 19, 25, 35 ir [[#^s-f370d9a5951d2cc69a46a287|40 straipsnių]] pakeitimo [[latest/ffd930b0e00d11e7b3f0a470b0373cb2|įstatymo Nr. XIII-823]] [[#^s-8ee2840c34c94160c2f6d690|5 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-a83a96f2c222ff3ddd13c44a|2]], [[#^s-4eaeafb1cbfe6cb893f39d79|3]], [[#^s-41445d56099cbf4732c50d87|8]], [[#^s-66b58186ceb25bbd081e9e00|10]], [[#^s-ef98a209b8829200eccc958b|11]], [[#^s-03635355d5e552e50968ce54|12]], [[#^s-cc1e09e88f3a66c9157b2b70|13]], [[#^s-5dff98b86f837d43dc0abd39|19]], [[#^s-e71bf064e7a5cc766b413b69|25]], [[#^s-696bb7c166f0f62b8d864211|35]] ir [[#^s-f370d9a5951d2cc69a46a287|40]] straipsnių pakeitimo [[latest/ffd930b0e00d11e7b3f0a470b0373cb2|įstatymo Nr. XIII-823]] [[#^s-8ee2840c34c94160c2f6d690|5 straipsnio]] pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2931,12 +2931,12 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2887, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10788
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 23, 32, 34-1  straipsnių pakeitimo ir Įstatymo papildymo 19-1 straipsniu įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-917f4a7c9c293acaf75e8aaf|4]], [[#^s-b7b02ee8cc93e88d3fc54a4c|23]], [[#^s-38e804b40ff59fa764b2f9da|32]], 34-1  straipsnių pakeitimo ir Įstatymo papildymo 19-1 straipsniu įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2853, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08967
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 27 ir [[#^s-38e804b40ff59fa764b2f9da|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-99f0dd39041ad77124280ee4|27]] ir [[#^s-38e804b40ff59fa764b2f9da|32]] straipsnių pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2961,17 +2961,17 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 19-1 s
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3011, 2020-06-04, paskelbta TAR 2020-06-15, i. k. 2020-13046
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12 ir [[#^s-5dff98b86f837d43dc0abd39|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-03635355d5e552e50968ce54|12]] ir [[#^s-5dff98b86f837d43dc0abd39|19]] straipsnių pakeitimo įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-123, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28979
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6, 10, 11, 12, 14, 15, 16, 19, 19-1, 21, 29, 30, 32, 36, 40 ir [[#^s-a83e11a675b5b0f534df111f|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-bfa41525bf86aaeefe10fbcc|6]], [[#^s-66b58186ceb25bbd081e9e00|10]], [[#^s-ef98a209b8829200eccc958b|11]], [[#^s-03635355d5e552e50968ce54|12]], [[#^s-78286826b678c4c4d2f40512|14]], [[#^s-623a04d45ad53022ed319298|15]], [[#^s-895611f7a52b681397c0d27d|16]], [[#^s-5dff98b86f837d43dc0abd39|19]], 19-1, [[#^s-fa5f4e8400dcf92ed448bf58|21]], [[#^s-27aa5fceffbec6d70331168e|29]], [[#^s-43d94351cdbe68a5604342e9|30]], [[#^s-38e804b40ff59fa764b2f9da|32]], [[#^s-c92d2f82b467bec055d95f3a|36]], [[#^s-f370d9a5951d2cc69a46a287|40]] ir [[#^s-a83e11a675b5b0f534df111f|41]] straipsnių pakeitimo įstatymas
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-124, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28980
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12 ir [[#^s-5dff98b86f837d43dc0abd39|19 straipsnių]] pakeitimo [[latest/7dedff20aee311eab9d9cd0c85e0b745|įstatymo Nr. XIII-3011]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-03635355d5e552e50968ce54|12]] ir [[#^s-5dff98b86f837d43dc0abd39|19]] straipsnių pakeitimo [[latest/7dedff20aee311eab9d9cd0c85e0b745|įstatymo Nr. XIII-3011]] pakeitimo įstatymas
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2991,7 +2991,7 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-
 38.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-750, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26582
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 4, 8, 9, 10, 11, 12, 14, 19, 19-1, 21, 23, 32, 33, 34, 34-1, [[#^s-696bb7c166f0f62b8d864211|35 straipsnių]] pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-a83a96f2c222ff3ddd13c44a|2]], [[#^s-917f4a7c9c293acaf75e8aaf|4]], [[#^s-41445d56099cbf4732c50d87|8]], [[#^s-d73413a7e0961809b00c271d|9]], [[#^s-66b58186ceb25bbd081e9e00|10]], [[#^s-ef98a209b8829200eccc958b|11]], [[#^s-03635355d5e552e50968ce54|12]], [[#^s-78286826b678c4c4d2f40512|14]], [[#^s-5dff98b86f837d43dc0abd39|19]], 19-1, [[#^s-fa5f4e8400dcf92ed448bf58|21]], [[#^s-b7b02ee8cc93e88d3fc54a4c|23]], [[#^s-38e804b40ff59fa764b2f9da|32]], [[#^s-243f2a6a9fa7f0f9509c8ef8|33]], [[#^s-d5f5d83bbcdad93c865f6044|34]], 34-1, [[#^s-696bb7c166f0f62b8d864211|35]] straipsnių pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
 
 39.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3001,27 +3001,27 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 papild
 40.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-658, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24260
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 31 ir [[#^s-243f2a6a9fa7f0f9509c8ef8|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-61e879c220cce3e9e6ccce26|31]] ir [[#^s-243f2a6a9fa7f0f9509c8ef8|33]] straipsnių pakeitimo įstatymas
 
 41.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT62-N6/2022, 2022-05-19, paskelbta TAR 2022-05-19, i. k. 2022-10567
-Dėl [[#^s-5a1b3b1bf774db1e1b10eebd|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 19 straipsnio 2 dalies]] nuostatos atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 19 straipsnio 2 dalies nuostatos atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/59cdfa70d76611ec8d9390588bf2de65)
 
 42.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1120, 2022-05-24, paskelbta TAR 2022-06-10, i. k. 2022-12612
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 ir [[#^s-ef98a209b8829200eccc958b|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-bfa41525bf86aaeefe10fbcc|6]] ir [[#^s-ef98a209b8829200eccc958b|11]] straipsnių pakeitimo įstatymas
 
 43.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1175, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13891
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 ir [[#^s-03635355d5e552e50968ce54|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-bfa41525bf86aaeefe10fbcc|6]] ir [[#^s-03635355d5e552e50968ce54|12]] straipsnių pakeitimo įstatymas
 
 44.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1288, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15437
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 15-1 ir [[#^s-c92d2f82b467bec055d95f3a|36 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 15-1 ir [[#^s-c92d2f82b467bec055d95f3a|36]] straipsnių pakeitimo įstatymas
 
 45.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3031,12 +3031,12 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-
 46.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1552, 2022-11-22, paskelbta TAR 2022-11-29, i. k. 2022-24196
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 12 ir [[#^s-5dff98b86f837d43dc0abd39|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-a83a96f2c222ff3ddd13c44a|2]], [[#^s-03635355d5e552e50968ce54|12]] ir [[#^s-5dff98b86f837d43dc0abd39|19]] straipsnių pakeitimo įstatymas
 
 47.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1228, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15594
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 ir [[#^s-ef98a209b8829200eccc958b|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-bfa41525bf86aaeefe10fbcc|6]] ir [[#^s-ef98a209b8829200eccc958b|11]] straipsnių pakeitimo įstatymas
 
 48.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3051,12 +3051,12 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-
 50.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1967, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10360
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 2, 6, 8, 10, 12, 19, 22, 23 ir [[#^s-d5f5d83bbcdad93c865f6044|34 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-a83a96f2c222ff3ddd13c44a|2]], [[#^s-bfa41525bf86aaeefe10fbcc|6]], [[#^s-41445d56099cbf4732c50d87|8]], [[#^s-66b58186ceb25bbd081e9e00|10]], [[#^s-03635355d5e552e50968ce54|12]], [[#^s-5dff98b86f837d43dc0abd39|19]], [[#^s-5a43009a116cc514be785799|22]], [[#^s-b7b02ee8cc93e88d3fc54a4c|23]] ir [[#^s-d5f5d83bbcdad93c865f6044|34]] straipsnių pakeitimo įstatymas
 
 51.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2365, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25618
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 4, 6, 10, 11, 14, 32, 34, 34-1 ir [[#^s-f370d9a5951d2cc69a46a287|40 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-917f4a7c9c293acaf75e8aaf|4]], [[#^s-bfa41525bf86aaeefe10fbcc|6]], [[#^s-66b58186ceb25bbd081e9e00|10]], [[#^s-ef98a209b8829200eccc958b|11]], [[#^s-78286826b678c4c4d2f40512|14]], [[#^s-38e804b40ff59fa764b2f9da|32]], [[#^s-d5f5d83bbcdad93c865f6044|34]], 34-1 ir [[#^s-f370d9a5951d2cc69a46a287|40]] straipsnių pakeitimo įstatymas
 
 52.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3066,7 +3066,7 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-
 53.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2778, 2024-06-20, paskelbta TAR 2024-06-26, i. k. 2024-11585
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12 ir [[#^s-b7b02ee8cc93e88d3fc54a4c|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-03635355d5e552e50968ce54|12]] ir [[#^s-b7b02ee8cc93e88d3fc54a4c|23]] straipsnių pakeitimo įstatymas
 
 54.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3076,22 +3076,22 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-
 55.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2707, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11231
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 8, 12 ir [[#^s-b7b02ee8cc93e88d3fc54a4c|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-41445d56099cbf4732c50d87|8]], [[#^s-03635355d5e552e50968ce54|12]] ir [[#^s-b7b02ee8cc93e88d3fc54a4c|23]] straipsnių pakeitimo įstatymas
 
 56.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-350, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11765
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 7, 15 ir [[#^s-b81187a75676d7cceab7bbc3|39 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-ba0ba6635b1cab736c21db20|7]], [[#^s-623a04d45ad53022ed319298|15]] ir [[#^s-b81187a75676d7cceab7bbc3|39]] straipsnių pakeitimo įstatymas
 
 57.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-347, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12013
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 32, [[#^s-a83e11a675b5b0f534df111f|41 straipsnių]] pakeitimo ir Įstatymo papildymo 40-1 straipsniu įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-38e804b40ff59fa764b2f9da|32]], [[#^s-a83e11a675b5b0f534df111f|41]] straipsnių pakeitimo ir Įstatymo papildymo 40-1 straipsniu įstatymas
 
 58.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-570, 2025-11-20, paskelbta TAR 2025-11-28, i. k. 2025-20157
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 7, 15 ir [[#^s-b81187a75676d7cceab7bbc3|39 straipsnių]] pakeitimo [[latest/4af54fa2535d11f0b070ee7f1ceefc75|įstatymo Nr. XV-350]] [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-ba0ba6635b1cab736c21db20|7]], [[#^s-623a04d45ad53022ed319298|15]] ir [[#^s-b81187a75676d7cceab7bbc3|39]] straipsnių pakeitimo [[latest/4af54fa2535d11f0b070ee7f1ceefc75|įstatymo Nr. XV-350]] [[#^s-917f4a7c9c293acaf75e8aaf|4 straipsnio]] pakeitimo įstatymas
 
 59.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3101,7 +3101,7 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-
 60.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-633, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21466
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 5, 10, 11 ir [[#^s-03635355d5e552e50968ce54|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-8ee2840c34c94160c2f6d690|5]], [[#^s-66b58186ceb25bbd081e9e00|10]], [[#^s-ef98a209b8829200eccc958b|11]] ir [[#^s-03635355d5e552e50968ce54|12]] straipsnių pakeitimo įstatymas
 
 61.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3116,7 +3116,7 @@ Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-
 63.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-589, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20658
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 12, 13, 14, 15, 15-1, 17, 32, 34, [[#^s-f370d9a5951d2cc69a46a287|40 straipsnių]] pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 [[#^s-03635355d5e552e50968ce54|12]], [[#^s-cc1e09e88f3a66c9157b2b70|13]], [[#^s-78286826b678c4c4d2f40512|14]], [[#^s-623a04d45ad53022ed319298|15]], 15-1, [[#^s-40089d0505f11e4cfa08efb2|17]], [[#^s-38e804b40ff59fa764b2f9da|32]], [[#^s-d5f5d83bbcdad93c865f6044|34]], [[#^s-f370d9a5951d2cc69a46a287|40]] straipsnių pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
 
 64.
 Lietuvos Respublikos Seimas, Įstatymas

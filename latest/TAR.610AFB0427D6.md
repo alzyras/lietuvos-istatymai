@@ -39,10 +39,10 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 3 dalimi ^s-2fd767bd6abf780798cf287a
 
 
-1. [[#^s-9565d2b0ebea172ee4b9b7ab|1 straipsnio 1 dalyje]] išbraukti žodžius „bei draudimo“ ir šią dalį išdėstyti taip: ^s-9565d2b0ebea172ee4b9b7ab
+1. 1 straipsnio 1 dalyje išbraukti žodžius „bei draudimo“ ir šią dalį išdėstyti taip: ^s-9565d2b0ebea172ee4b9b7ab
 
 
-„1. Vidaus vandenų transporto kodeksas reguliuoja vidaus vandenų laivybos, uostų veiklos, keleivių, krovinių, bagažo, pašto vežimo, buksyravimo santykius, taip pat nustato atsakomybę už žalą, padarytą vidaus vandenų transporto, bei už kitus šio kodekso nuostatų pažeidimus.“
+„1. [Vidaus vandenų transporto kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F) reguliuoja vidaus vandenų laivybos, uostų veiklos, keleivių, krovinių, bagažo, pašto vežimo, buksyravimo santykius, taip pat nustato atsakomybę už žalą, padarytą vidaus vandenų transporto, bei už kitus šio kodekso nuostatų pažeidimus.“
 
 
 2. Papildyti 1 straipsnį 3 dalimi: ^s-db86a8550f281a9328c9b670
@@ -179,13 +179,13 @@ Papildyti Kodeksą priedu:
 
 
 „Lietuvos Respublikos
-vidaus vandenų transporto kodekso
+[vidaus vandenų transporto kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F)
 priedas
 
 Europos Sąjungos teisės aktai, su kuriais suderintas
-Lietuvos Respublikos vidaus vandenų transporto kodeksas
+[Lietuvos Respublikos vidaus vandenų transporto kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F)
 
-Lietuvos Respublikos vidaus vandenų transporto kodeksas suderintas su šiais Europos Sąjungos teisės aktais:
+[Lietuvos Respublikos vidaus vandenų transporto kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F) suderintas su šiais Europos Sąjungos teisės aktais:
 
 
 1) Tarybos 1987 m. lapkričio 9 d. direktyva 87/540/EEB dėl leidimo verstis krovinių vežėjo vandens keliais vidaus ir tarptautiniais maršrutais veikla bei abipusio diplomų, pažymėjimų ir kitų oficialią kvalifikaciją patvirtinančių dokumentų pripažinimo; ^s-0be398625f888f817391d607

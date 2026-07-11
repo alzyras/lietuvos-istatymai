@@ -149,7 +149,7 @@ Korupcijos prevencijos priemonės yra šios:
 ### 6 straipsnis. Korupcijos rizikos analizė ^s-4d842d7d64baab5a6be59432
 
 
-1. Korupcijos rizikos analizė – valstybės ar savivaldybės įstaigos veiklos analizė antikorupciniu požiūriu Vyriausybės nustatyta tvarka bei motyvuotos išvados dėl kovos su korupcija programos parengimo ir pasiūlymų dėl programos turinio pateikimas, taip pat kitų korupcijos prevencijos priemonių rekomendavimas už jų įgyvendinimą atsakingoms valstybės ar savivaldybių įstaigoms. ^s-b9740db9a4e5e8bdd91191f8
+1. Korupcijos rizikos analizė – valstybės ar savivaldybės įstaigos veiklos analizė antikorupciniu požiūriu Vyriausybės nustatyta tvarka bei motyvuotos išvados [dėl kovos su korupcija](https://e-tar.lt/portal/lt/legalAct/TAR.3CB207106C6D) programos parengimo ir pasiūlymų dėl programos turinio pateikimas, taip pat kitų korupcijos prevencijos priemonių rekomendavimas už jų įgyvendinimą atsakingoms valstybės ar savivaldybių įstaigoms. ^s-b9740db9a4e5e8bdd91191f8
 
 
 2. Valstybės ar savivaldybių įstaigų vadovai, struktūriniai padaliniai arba asmenys, valstybės ar savivaldybės įstaigos vadovo įgalioti vykdyti korupcijos prevenciją ir jos kontrolę, pagal [[#^s-7c765f1b148dfaec7ad3d193|šio straipsnio 3 dalyje]] numatytus kriterijus nustato valstybės ar savivaldybės įstaigos veiklos sritis, kuriose egzistuoja didelė korupcijos pasireiškimo tikimybė. ^s-9ac082863ba3f0d8ce04430f
@@ -316,10 +316,10 @@ Korupcijos prevencijos priemonės yra šios:
 2. Juridinių asmenų registrui pateikiama informacija apie juridinius asmenis, kurie įsiteisėjusiu teismo nuosprendžiu yra pripažinti padarę korupcinius nusikaltimus arba kurių darbuotojas ar įgaliotas atstovas įsiteisėjusiu teismo nuosprendžiu yra pripažintas padaręs korupcinius nusikaltimus veikdamas juridinio asmens naudai arba jo interesais. ^s-de79975b0f54c657eccadc7f
 
 
-3. Valstybės ar savivaldybės įstaiga, priėmusi ar panaikinusi sprendimą, kad buvo padarytos šio straipsnio 1 ar [[#^s-de79975b0f54c657eccadc7f|2 dalyje]] numatytos veikos, per 14 dienų nuo sprendimo įsiteisėjimo apie tai praneša valstybės tarnautojų ir (ar) juridinių asmenų registrų tvarkytojams. ^s-e484bd8f564603e9526a101d
+3. Valstybės ar savivaldybės įstaiga, priėmusi ar panaikinusi sprendimą, kad buvo padarytos šio straipsnio [[#^s-d626eefcd1b6ace1c07b8ae9|1]] ar [[#^s-de79975b0f54c657eccadc7f|2]] dalyje numatytos veikos, per 14 dienų nuo sprendimo įsiteisėjimo apie tai praneša valstybės tarnautojų ir (ar) juridinių asmenų registrų tvarkytojams. ^s-e484bd8f564603e9526a101d
 
 
-4. Šio straipsnio 1 ir [[#^s-de79975b0f54c657eccadc7f|2 dalyse]] nurodyta informacija yra vienas iš pagrindų, apibūdinančių fizinio ar juridinio asmens patikimumą. Asmenims, praradusiems pasitikėjimą, gali būti taikomi šiame ir kituose įstatymuose numatyti apribojimai. ^s-620f2dd655d987cf5f319f7b
+4. Šio straipsnio [[#^s-d626eefcd1b6ace1c07b8ae9|1]] ir [[#^s-de79975b0f54c657eccadc7f|2]] dalyse nurodyta informacija yra vienas iš pagrindų, apibūdinančių fizinio ar juridinio asmens patikimumą. Asmenims, praradusiems pasitikėjimą, gali būti taikomi šiame ir kituose įstatymuose numatyti apribojimai. ^s-620f2dd655d987cf5f319f7b
 
 
 5. Registrų duomenų teikimo tvarką nustato atitinkamų registrų nuostatai. ^s-4598a5aa187e2f9bd50830d1
@@ -375,7 +375,7 @@ Vyriausybė, įgyvendindama šį Įstatymą:
 Vyriausioji tarnybinės etikos komisija, įgyvendindama šį Įstatymą:
 
 
-1) analizuoja valstybės tarnautojų etikos problemas ir, siekdama panaikinti prielaidas viešųjų ir privačių interesų konfliktui valstybinėje tarnyboje, teikia pasiūlymus dėl kovos su korupcija programų, teisės aktų priėmimo bei tobulinimo; ^s-f81c4bc7405cead1ed9d8a03
+1) analizuoja valstybės tarnautojų etikos problemas ir, siekdama panaikinti prielaidas viešųjų ir privačių interesų konfliktui valstybinėje tarnyboje, teikia pasiūlymus [dėl kovos su korupcija](https://e-tar.lt/portal/lt/legalAct/TAR.3CB207106C6D) programų, teisės aktų priėmimo bei tobulinimo; ^s-f81c4bc7405cead1ed9d8a03
 
 
 2) teikia pasiūlymus Seimui, kitoms valstybės ar savivaldybių įstaigoms dėl šio Įstatymo nuostatų įgyvendinimo; ^s-a5d5eb31f6760d917b57a6fc

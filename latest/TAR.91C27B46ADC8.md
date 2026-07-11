@@ -44,7 +44,7 @@ Vilnius
 8 straipsnio 2 dalyje išbraukti žodį „teisėjų“ ir šią dalį išdėstyti taip:
 
 
-„Komisijos pirmininko ir narių darbas komisijoje laikytinas darbu pagrindinėje darbovietėje ir apmokamas Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. Vyriausiosios administracinių ginčų komisijos valstybės tarnautojų priėmimo į pareigas ir darbuotojų, dirbančių pagal darbo sutartis, priėmimo į darbą tvarką, darbo užmokesčio jiems mokėjimo tvarką ir sąlygas nustato [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymas]], kiti įstatymai ir teisės aktai.“
+„Komisijos pirmininko ir narių darbas komisijoje laikytinas darbu pagrindinėje darbovietėje ir apmokamas Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka. Vyriausiosios administracinių ginčų komisijos valstybės tarnautojų priėmimo į pareigas ir darbuotojų, dirbančių pagal darbo sutartis, priėmimo į darbą tvarką, darbo užmokesčio jiems mokėjimo tvarką ir sąlygas nustato [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymas]], kiti įstatymai ir teisės aktai.“
 
 
 

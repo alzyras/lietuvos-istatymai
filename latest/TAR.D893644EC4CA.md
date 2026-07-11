@@ -48,7 +48,7 @@ Vilnius
 „4. Fizinis asmuo – Lietuvos Respublikos ar kitos valstybės narės pilietis.“
 
 
-2. Buvusias [[#^s-386887d770214a3dec759ab3|2 straipsnio]] 4 ir [[#^s-8585f51f86d5e90a1da7b0b9|5 dalis]] atitinkamai laikyti 5 ir 6 dalimis. ^s-0dbfd4e0f71045a104004a5a
+2. Buvusias [[#^s-386887d770214a3dec759ab3|2 straipsnio]] [[#^s-5e84478e80c444f845178937|4]] ir [[#^s-5f9eabbb0d4fe53b408c5ef2|5]] dalis atitinkamai laikyti [[#^s-5f9eabbb0d4fe53b408c5ef2|5]] ir [[#^s-8b7f98bde7a7c1e2fc700d10|6]] dalimis. ^s-0dbfd4e0f71045a104004a5a
 
 
 3. Papildyti [[#^s-386887d770214a3dec759ab3|2 straipsnį]] nauja 7 dalimi: ^s-b0d3a50494f35c52cb4a6733
@@ -57,7 +57,7 @@ Vilnius
 „7. Juridinis asmuo – Lietuvos Respublikoje ar kitoje valstybėje narėje įsteigtas juridinis asmuo.“
 
 
-4. Buvusias [[#^s-386887d770214a3dec759ab3|2 straipsnio]] 6, 7, 8, 9, 10, 11, 12, 13 ir 14 dalis atitinkamai laikyti 8, 9, 10, 11, 12, 13, 14, 15 ir 16 dalimis. ^s-6fa422543157181fe026ee5f
+4. Buvusias [[#^s-386887d770214a3dec759ab3|2 straipsnio]] [[#^s-8b7f98bde7a7c1e2fc700d10|6]], [[#^s-30036638d09ff462ddf19fd2|7]], [[#^s-8f6eef83f9555e7680b7aa0f|8]], [[#^s-88986e4d22901e33e3869fb5|9]], [[#^s-21b6c3d402f6a6f303396d81|10]], [[#^s-4365a72f7f8f49a7c6f2cec2|11]], [[#^s-3ac92f0f63cdb161a3cf38ce|12]], [[#^s-8169cd9b3eef50420878f373|13]] ir 14 dalis atitinkamai laikyti [[#^s-8f6eef83f9555e7680b7aa0f|8]], [[#^s-88986e4d22901e33e3869fb5|9]], [[#^s-21b6c3d402f6a6f303396d81|10]], [[#^s-4365a72f7f8f49a7c6f2cec2|11]], [[#^s-3ac92f0f63cdb161a3cf38ce|12]], [[#^s-8169cd9b3eef50420878f373|13]], 14, 15 ir 16 dalimis. ^s-6fa422543157181fe026ee5f
 
 
 5. Papildyti 2 straipsnį 17 dalimi: ^s-8585f51f86d5e90a1da7b0b9
@@ -142,7 +142,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 1) asmuo, įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos arba prižiūrimas sveikatos priežiūros įstaigos dėl psichikos ligos ar sutrikimo; ^s-a5580b37aa23532731efdcb6
 
 
-2) asmuo, kuris įrašytas į operatyvinę įskaitą arba kuriam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai; ^s-c0e0cb9a771f7f25cbfd3968
+2) asmuo, kuris įrašytas į operatyvinę įskaitą arba kuriam [Organizuoto nusikalstamumo užkardymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.67E8ECAA4910) nustatyta tvarka taikomi teismo įpareigojimai; ^s-c0e0cb9a771f7f25cbfd3968
 
 
 3) asmuo, kuriam verstis šio Įstatymo nustatyta licencijuojama veikla uždrausta teismo nuosprendžiu; ^s-4876b560dcbc9bf137fe94c1
@@ -276,7 +276,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 5. Sprogmenis gali įsigyti fiziniai ir juridiniai asmenys, turintys licencijas verstis šio Įstatymo 11 straipsnio 1 dalyje nurodyta veikla. ^s-68f5eac7dba307139a5a3953
 
 
-6. Šio straipsnio 3 ir [[#^s-f618acc59ce2bea9b26fd61c|4 dalių]] reikalavimai taip pat taikomi sprogmenų gamintojams, parduodantiems savo pagamintus sprogmenis. ^s-9f00a5868dcdbe725a1ff5db
+6. Šio straipsnio [[#^s-92e2c7dd898dba2d3dcbfe4d|3]] ir [[#^s-f618acc59ce2bea9b26fd61c|4]] dalių reikalavimai taip pat taikomi sprogmenų gamintojams, parduodantiems savo pagamintus sprogmenis. ^s-9f00a5868dcdbe725a1ff5db
 
 
 7. Sprogmenų prekybos tarpininko veikla Lietuvoje draudžiama.“ ^s-b628217ea45f5adb4b00dbc0

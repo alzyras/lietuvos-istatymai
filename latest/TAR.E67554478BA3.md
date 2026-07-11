@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-15b364efd47d3cee903c2e93
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. liepos 14 d. dekretą Nr. 1K-1441, ratifikuoja 2007 m. balandžio 25 d. Briuselyje ir 2007 m. balandžio 30 d. Vašingtone priimtą Europos Bendrijos bei jos valstybių narių ir Jungtinių Amerikos Valstijų susitarimą dėl oro susisiekimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. liepos 14 d. dekretą Nr. 1K-1441](https://e-tar.lt/portal/lt/legalAct/TAR.9A482E6B5C3A), ratifikuoja 2007 m. balandžio 25 d. Briuselyje ir 2007 m. balandžio 30 d. Vašingtone priimtą Europos Bendrijos bei jos valstybių narių ir Jungtinių Amerikos Valstijų susitarimą dėl oro susisiekimo.
 
 
 

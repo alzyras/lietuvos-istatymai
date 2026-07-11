@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-5427eec35db6b2f4128675f6
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. sausio 29 d. dekretą Nr. 307, ratifikuoja 1996 m. Europos Tarybos privilegijų ir imunitetų pagrindinio susitarimo Šeštąjį protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [1999 m. sausio 29 d. dekretą Nr. 307](https://e-tar.lt/portal/lt/legalAct/TAR.8EC90B4555FF), ratifikuoja 1996 m. Europos Tarybos privilegijų ir imunitetų pagrindinio susitarimo Šeštąjį protokolą.
 
 
 

@@ -132,20 +132,20 @@ GINČŲ NAGRINĖJIMAS. TEISIŲ GYNIMAS
 ### 502 straipsnis. Įrodymai ^s-e6e7a473b4926830edd5c518
 
 
-1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu Civilinio proceso kodekso nustatyta tvarka gali išreikalauti juos iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio įstatymo nustatytų teisių pažeidimas. ^s-5a24cc87c380ce25edf41364
+1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali išreikalauti juos iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio įstatymo nustatytų teisių pažeidimas. ^s-5a24cc87c380ce25edf41364
 
 
-2. Jeigu šio įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-5a24cc87c380ce25edf41364|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas Civilinio proceso kodekso nustatyta tvarka iš priešingos šalies gali išreikalauti banko, finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-1d9600ce2aad1964ef66e77e
+2. Jeigu šio įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-5a24cc87c380ce25edf41364|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka iš priešingos šalies gali išreikalauti banko, finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-1d9600ce2aad1964ef66e77e
 
 
 
 ### 503 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės ^s-0688598dc7550602b7761188
 
 
-1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja Civilinio proceso kodeksas ir šis įstatymas. ^s-489bb8450e710be12f935712
+1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir šis įstatymas. ^s-489bb8450e710be12f935712
 
 
-2. Kai yra pakankamas pagrindas įtarti, kad buvo pažeistos šio įstatymo nustatytos teisės, teismas Civilinio proceso kodekso nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra: ^s-2f41964ee9606bf5e3fbf385
+2. Kai yra pakankamas pagrindas įtarti, kad buvo pažeistos šio įstatymo nustatytos teisės, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra: ^s-2f41964ee9606bf5e3fbf385
 
 
 1) uždrausti asmenims daryti gresiantį šio įstatymo nustatytų teisių pažeidimą; ^s-45e82dfc28db6c23e22643c4
@@ -163,7 +163,7 @@ GINČŲ NAGRINĖJIMAS. TEISIŲ GYNIMAS
 5) areštuoti šio įstatymo nustatytų teisių pažeidimu įtariamų asmenų turtą, kurį turi jie arba tretieji asmenys, įskaitant banko ir kitų kredito įstaigų sąskaitas; taip pat reikalauti pateikti banko, finansinius arba komercinius dokumentus ar sudaryti galimybę susipažinti su šiais dokumentais, jeigu pažeidimas padarytas komerciniu tikslu; ^s-bedbe8251cd2facbd6dd4855
 
 
-6) taikyti kitas Civilinio proceso kodekso nustatytas priemones. ^s-e6a588922e82d8bb98bc3a4f
+6) taikyti kitas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytas priemones. ^s-e6a588922e82d8bb98bc3a4f
 
 
 3. Jeigu pritaikytos [[#^s-2f41964ee9606bf5e3fbf385|šio straipsnio 2 dalies]] 1 ir 2 punktuose nurodytos laikinosios apsaugos priemonės yra pažeidžiamos ir pažeidimas tęsiamas, teismas gali įpareigoti pažeidimo darymu įtariamus asmenis pateikti tinkamą galimos žalos kompensavimo užtikrinimą asmeniui, prašiusiam taikyti laikinąsias apsaugos priemones. ^s-0e053a314c8c021adf838929
@@ -181,7 +181,7 @@ GINČŲ NAGRINĖJIMAS. TEISIŲ GYNIMAS
 2) areštuoti šio įstatymo nustatytas teises pažeidžiančius gaminius, prireikus – medžiagas ir priemones, kurios yra naudojamos jų gamybai ir (arba) platinimui, bei su jomis susijusius dokumentus ir juos paimti; ^s-878be754ff8963fc8b68a4d0
 
 
-3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas Civilinio proceso kodekse. ^s-bf10f752eaa73ec9ed1f5199
+3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). ^s-bf10f752eaa73ec9ed1f5199
 
 
 6. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač tais atvejais, kai delsimas galėtų padaryti nepataisomą žalą pareiškėjui arba kai įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kad laikinosios priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, t. y. iš karto tas priemones pritaikius. Šalių prašymu, įskaitant teisę būti išklausytam, laikinosios apsaugos priemonės gali būti peržiūrėtos siekiant per protingą terminą po pranešimo apie priemonių pritaikymą nuspręsti, ar šios priemonės turi būti pakeistos, panaikintos ar patvirtintos. ^s-58c0d0d84c7be9a72194212d

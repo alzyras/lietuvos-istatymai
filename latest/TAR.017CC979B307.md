@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-2522316108227514375c2dc5
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. balandžio 27 d. dekretą Nr. 276, ratifikuoja 2003 m. gegužės 15 d. Strasbūre priimtą Protokolą, iš dalies keičiantį Europos konvenciją dėl kovos su terorizmu.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. balandžio 27 d. dekretą Nr. 276](https://e-tar.lt/portal/lt/legalAct/TAR.24899E39F64E), ratifikuoja 2003 m. gegužės 15 d. Strasbūre priimtą Protokolą, iš dalies keičiantį Europos konvenciją dėl kovos su terorizmu.
 
 
 

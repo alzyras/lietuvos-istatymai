@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D570962773F8#^s-90c969a219c331bed670b4ed|Lietuvos Respublikos atmintinų dienų įstatymas]] - 2 citatos - ATMINTINŲ DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.D570962773F8#^s-a523c94929dac329813629ce|Lietuvos Respublikos atmintinų dienų įstatymas]] - 2 citatos - ATMINTINŲ DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.D570962773F8#^s-a523c94929dac329813629ce|Lietuvos Respublikos atmintinų dienų įstatymas]] - ATMINTINŲ DIENŲ ĮSTATYMO 1 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS

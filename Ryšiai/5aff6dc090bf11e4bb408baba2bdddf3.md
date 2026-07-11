@@ -9,9 +9,11 @@ pavadinimas: "Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 3, 17
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.3E5A0E0D14C8|Lietuvos Respublikos vartojimo kredito įstatymas]] - 34 straipsnio 6 dalį
+- [[latest/TAR.3E5A0E0D14C8#^s-10472e617a43a0259e896e29|Lietuvos Respublikos vartojimo kredito įstatymas]] - 17 straipsnio 2 dalį
+- [[latest/TAR.3E5A0E0D14C8#^s-2a1070a3b924aa23813cef1c|Lietuvos Respublikos vartojimo kredito įstatymas]] - 34 straipsnio 1 dalį
+- [[latest/TAR.3E5A0E0D14C8#^s-d7e024a881285ab10e14a622|Lietuvos Respublikos vartojimo kredito įstatymas]] - 3 straipsnio 2 dalies 3 punktą
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.3E5A0E0D14C8#^s-f4cac624de92c5d9b99ea4ee|Lietuvos Respublikos vartojimo kredito įstatymas]] - Įstatymas Nr. XII-1503
-- [[latest/TAR.3E5A0E0D14C8#^s-ff81659dd21b0efd7976433a|Lietuvos Respublikos vartojimo kredito įstatymas]] - Įstatymas Nr. XII-1503
+_Nėra._

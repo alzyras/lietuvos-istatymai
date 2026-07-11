@@ -36,7 +36,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-7d7f987b3f2e91b7856ae1a8
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. lapkričio 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1977 m. sausio 27 d. Europos konvenciją dėl kovos su terorizmu“, ratifikuoja 1977 m. sausio 27 d. Europos konvenciją dėl kovos su terorizmu, pasirašytą 1996 m. birželio 7 d. (pridedama).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. lapkričio 27 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1977 m. sausio 27 d. Europos konvenciją dėl kovos su terorizmu“](https://e-tar.lt/portal/lt/legalAct/TAR.39B36F080A7F), ratifikuoja 1977 m. sausio 27 d. Europos konvenciją dėl kovos su terorizmu, pasirašytą 1996 m. birželio 7 d. (pridedama).
 
 
 
@@ -54,7 +54,7 @@ Lietuvos Respublikos
 priedėlis
 
 
-EUROPOS KONVENCIJA DĖL KOVOS SU TERORIZMU
+[EUROPOS KONVENCIJA DĖL KOVOS SU TERORIZMU](https://e-tar.lt/portal/lt/legalAct/TAR.BDA378751850)
 
 
 
@@ -120,7 +120,7 @@ Susitariančiųjų šalių galiojančios ekstradicijos sutartys ir susitarimai, 
 4 straipsnis
 
 
-Jei 1 ar 2 straipsniuose išvardyti nusikaltimai nėra išvardyti kaip nusikaltimai, už kuriuos pagal Susitariančiųjų šalių sudarytas ekstradicijos konvencijas ar sutartis yra taikoma ekstradicija, šios Konvencijos tikslais jie yra laikomi nusikaltimais, kuriuos apima aukščiau minėti susitarimai.
+Jei [[#^s-7d7f987b3f2e91b7856ae1a8|1]] ar 2 straipsniuose išvardyti nusikaltimai nėra išvardyti kaip nusikaltimai, už kuriuos pagal Susitariančiųjų šalių sudarytas ekstradicijos konvencijas ar sutartis yra taikoma ekstradicija, šios Konvencijos tikslais jie yra laikomi nusikaltimais, kuriuos apima aukščiau minėti susitarimai.
 
 
 
@@ -154,7 +154,7 @@ Jei Susitariančioji valstybė, kurios teritorijoje aptinkamas asmuo, įtariamas
 1. Susitariančiosios valstybės teikia viena kitai įvairiapusę pagalbą baudžiamosiose bylose, susijusiose su baudžiamuoju persekiojimu, pradėtu dėl 1 arba 2 straipsniuose minėtų  nusikaltimų. Visais atvejais taikomi Prašomosios valstybės įstatymai dėl savitarpio pagalbos baudžiamosiose bylose. Tačiau suteikti šią pagalbą negali būti atsisakoma vien tuo pagrindu, kad ji susijusi su politiniu nusikaltimu arba su politiniu nusikaltimu susijusiu nusikaltimu, arba su politiniais motyvais padarytu nusikaltimu. ^s-9bce8e54ce81988d69b53d78
 
 
-2. Jokia šios Konvencijos nuostata neįpareigoja teikti pagalbą, jei Prašomoji valstybė turi svarų pagrindą manyti, kad prašymas suteikti teisinę pagalbą dėl 1 ar 2 straipsnyje paminėtų nusikaltimų pateiktas siekiant persekioti ar nubausti asmenį dėl jo rasės, religijos, tautybės ar politinės nuomonės arba jei šiais pagrindais gali būti padaryta neigiama įtaka dėl to asmens padėties. ^s-34ca42f05a32b08f86258589
+2. Jokia šios Konvencijos nuostata neįpareigoja teikti pagalbą, jei Prašomoji valstybė turi svarų pagrindą manyti, kad prašymas suteikti teisinę pagalbą dėl [[#^s-7d7f987b3f2e91b7856ae1a8|1]] ar 2 straipsnyje paminėtų nusikaltimų pateiktas siekiant persekioti ar nubausti asmenį dėl jo rasės, religijos, tautybės ar politinės nuomonės arba jei šiais pagrindais gali būti padaryta neigiama įtaka dėl to asmens padėties. ^s-34ca42f05a32b08f86258589
 
 
 3. Susitariančiųjų valstybių visų taikomų sutarčių ar susitarimų dėl savitarpio pagalbos baudžiamosiose bylose, tarp jų Europos konvencijos dėl savitarpio pagalbos baudžiamosiose bylose, nuostatos galioja Susitariančiosiose valstybėse tiek, kiek jos neprieštarauja šiai Konvencijai. ^s-9f4b7cc6cbc03d9eb253a89c

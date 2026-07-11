@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-e2cbc07bcd364206db7d653d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. rugpjūčio 28 d. dekretą Nr. 1K-1188, ratifikuoja 1995 m. liepos 7 d. Londone priimtą 1995 m. tarptautinę konvenciją dėl žvejybos laivų personalo rengimo, atestavimo ir budėjimo normatyvų.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. rugpjūčio 28 d. dekretą Nr. 1K-1188](https://e-tar.lt/portal/lt/legalAct/TAR.8BFAFDA33E94), ratifikuoja 1995 m. liepos 7 d. Londone priimtą 1995 m. tarptautinę konvenciją dėl žvejybos laivų personalo rengimo, atestavimo ir budėjimo normatyvų.
 
 
 

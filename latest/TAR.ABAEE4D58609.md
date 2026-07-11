@@ -57,7 +57,7 @@ Vilnius
 ### 3 straipsnis. Prašymų nagrinėjimo bei torų perdavimo tvarka ^s-5065858c8700a26e9ddcf645
 
 
-Prašymų perduoti toras neatlygintinai nuosavybėn nagrinėjimo tvarką, terminus, taip pat torų perdavimo tvarką nustato bei sprendimus dėl torų perdavimo konkrečios žydų bendruomenės ar bendrijos nuosavybėn priima Vyriausybė, atsižvelgdama į Kultūros ministerijos ir Lietuvos žydų bendruomenės siūlymus.
+Prašymų perduoti toras neatlygintinai nuosavybėn nagrinėjimo tvarką, terminus, taip pat torų perdavimo tvarką nustato bei sprendimus [dėl torų perdavimo](https://e-tar.lt/portal/lt/legalAct/TAR.5EA1B7628D07) konkrečios žydų bendruomenės ar bendrijos nuosavybėn priima Vyriausybė, atsižvelgdama į Kultūros ministerijos ir Lietuvos žydų bendruomenės siūlymus.
 
 
 

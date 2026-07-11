@@ -48,7 +48,7 @@ Vilnius
 2. Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip: ^s-d27b432d03d54233e357eec7
 
 
-„3. Vienkartinė išmoka vaikui ir išmoka vaikui skiriama, jei [[#^s-d27b432d03d54233e357eec7|šio straipsnio 2 dalies]] nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių) ir vaikas nuolat gyvena Lietuvos Respublikoje kartu su juo. Išmoka privalomosios pradinės karo tarnybos kario vaikui (toliau – privalomosios tarnybos kario vaikui) skiriama, jei [[#^s-d27b432d03d54233e357eec7|šio straipsnio 2 dalies]] nuostatą atitinka nors vienas iš vaiko tėvų ir vaikas nuolat gyvena Lietuvos Respublikoje kartu su juo.“
+„3. Vienkartinė išmoka vaikui ir išmoka vaikui skiriama, jei šio straipsnio 2 dalies nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių) ir vaikas nuolat gyvena Lietuvos Respublikoje kartu su juo. Išmoka privalomosios pradinės karo tarnybos kario vaikui (toliau – privalomosios tarnybos kario vaikui) skiriama, jei šio straipsnio 2 dalies nuostatą atitinka nors vienas iš vaiko tėvų ir vaikas nuolat gyvena Lietuvos Respublikoje kartu su juo.“
 
 
 

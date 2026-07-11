@@ -87,7 +87,7 @@ BENDROSIOS NUOSTATOS
 2. Civilinė infrastruktūra – įvairių veiklos sričių objektų, aptarnaujančių ūkį ir gyventojus, kompleksas (inžineriniai tinklai, susisiekimo komunikacijos, komunaliniai, visuomeniniai, prekybos ir kiti paslaugoms gyventojams teikti reikalingi objektai). ^s-fec1c67f1fe50ec3edbd0e26
 
 
-3. Civilinė mobilizacijos institucija – valstybės, savivaldybės institucija ar įstaiga, išskyrus šio įstatymo 7, 8 ir [[#^s-2f78d6aa2f08927391b73afe|9 straipsniuose]] nurodytas institucijas, kurioms Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) yra paskyrusi valstybinę mobilizacinę ir (ar) priimančiosios šalies paramos teikimo užduotį. ^s-9ae9d7e8a65315c130340fea
+3. Civilinė mobilizacijos institucija – valstybės, savivaldybės institucija ar įstaiga, išskyrus šio įstatymo [[#^s-132108cd89bf84aae4c44697|7]], [[#^s-d3f2a9e7ad90e453258d1cd1|8]] ir [[#^s-2f78d6aa2f08927391b73afe|9]] straipsniuose nurodytas institucijas, kurioms Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė) yra paskyrusi valstybinę mobilizacinę ir (ar) priimančiosios šalies paramos teikimo užduotį. ^s-9ae9d7e8a65315c130340fea
 
 
 4. Civilinės mobilizacijos institucijos mobilizacijos planas – civilinės mobilizacijos institucijos pagal kompetenciją numatytų priemonių, jos vadovybės, struktūrinių padalinių, pavaldžių įstaigų veiksmų, turinčių užtikrinti paramą Lietuvos Respublikos ginkluotosioms pajėgoms, gyvybiškai svarbių valstybės funkcijų atlikimą ir paramos atvykstančioms pajėgoms teikimą, paskelbus mobilizaciją, planas. ^s-17e010d9ce75df2eb730ba31
@@ -169,7 +169,7 @@ BENDROSIOS NUOSTATOS
 ### 3 straipsnis. Teisiniai mobilizacijos ir priimančiosios šalies paramos pagrindai ^s-90e2ba0f136eab1964030274
 
 
-Mobilizacija ir demobilizacija skelbiama, mobilizacija, priimančiosios šalies parama rengiama, mobilizacija ir demobilizacija vykdoma, priimančiosios šalies parama teikiama vadovaujantis Lietuvos Respublikos Konstitucija (toliau – Konstitucija), Lietuvos Respublikos tarptautinėmis sutartimis ir susitarimais, Lietuvos Respublikos įstatymais, Lietuvos Respublikos Seimo (toliau – Seimas) nutarimais, Lietuvos Respublikos Prezidento (toliau – Respublikos Prezidentas) dekretais, Vyriausybės nutarimais, Ministro Pirmininko potvarkiais, krašto apsaugos ministro, Mobilizacijos departamento direktoriaus ir Lietuvos kariuomenės vado įsakymais, mobilizaciniais nurodymais ir kitais teisės aktais.
+Mobilizacija ir demobilizacija skelbiama, mobilizacija, priimančiosios šalies parama rengiama, mobilizacija ir demobilizacija vykdoma, priimančiosios šalies parama teikiama vadovaujantis [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) (toliau – Konstitucija), Lietuvos Respublikos tarptautinėmis sutartimis ir susitarimais, Lietuvos Respublikos įstatymais, Lietuvos Respublikos Seimo (toliau – Seimas) nutarimais, Lietuvos Respublikos Prezidento (toliau – Respublikos Prezidentas) dekretais, Vyriausybės nutarimais, Ministro Pirmininko potvarkiais, krašto apsaugos ministro, Mobilizacijos departamento direktoriaus ir Lietuvos kariuomenės vado įsakymais, mobilizaciniais nurodymais ir kitais teisės aktais.
 
 
 
@@ -585,7 +585,7 @@ PASIRENGIMAS MOBILIZACIJAI IR PRIIMANČIOSIOS ŠALIES PARAMAI TEIKTI
 4. Valstybės mobilizacijos planas rengiamas Vyriausybės nustatyta tvarka. Rengiant valstybės mobilizacijos planą, dalyvauja Krašto apsaugos ministerija, Mobilizacijos departamentas, Lietuvos kariuomenė, kitos ginkluotąsias pajėgas sudarančios institucijos, valstybės rezervo koordinatorius ir tvarkytojai. ^s-9c6cefc402ca46d761ab42f5
 
 
-5. Mobilizacijos planai, nurodyti šio straipsnio 1–[[#^s-9c6cefc402ca46d761ab42f5|4 dalyse]], įslaptinami, saugomi ir išslaptinami teisės aktų nustatyta tvarka. ^s-12fb22d205f98b0e593d550b
+5. Mobilizacijos planai, nurodyti šio straipsnio [[#^s-ebe7b52781ad634899756aab|1]]–[[#^s-9c6cefc402ca46d761ab42f5|4]] dalyse, įslaptinami, saugomi ir išslaptinami teisės aktų nustatyta tvarka. ^s-12fb22d205f98b0e593d550b
 
 
 
@@ -756,7 +756,7 @@ MOBILIZACIJOS IR DEMOBILIZACIJOS SKELBIMAS IR VYKDYMAS
 3. Seimo nutarime arba Respublikos Prezidento dekrete dėl visuotinės mobilizacijos skelbimo turi būti nurodyta, kad skelbiama visuotinė mobilizacija ir jos skelbimo pagrindas. ^s-2ea6be935a0174b5142b5904
 
 
-4. Seimui paskelbus dalinę mobilizaciją ar Respublikos Prezidentui priėmus sprendimą dėl dalinės mobilizacijos skelbimo, Seimo nutarime arba Respublikos Prezidento dekrete turi būti nurodoma: dalinės mobilizacijos skelbimo pagrindas, kurioje valstybės teritorijos dalyje mobilizacija skelbiama, kokie mobilizacijos sistemos subjektai dalyvauja ir kokios priemonės, nurodytos šio įstatymo 22–[[#^s-365bcebe0cc8a13bb740e0a0|25 straipsniuose]], turi būti vykdomos. ^s-28d26753dc6a6137adfd0c53
+4. Seimui paskelbus dalinę mobilizaciją ar Respublikos Prezidentui priėmus sprendimą dėl dalinės mobilizacijos skelbimo, Seimo nutarime arba Respublikos Prezidento dekrete turi būti nurodoma: dalinės mobilizacijos skelbimo pagrindas, kurioje valstybės teritorijos dalyje mobilizacija skelbiama, kokie mobilizacijos sistemos subjektai dalyvauja ir kokios priemonės, nurodytos šio įstatymo [[#^s-67b98ef157661f1bbe1d457c|22]]–[[#^s-365bcebe0cc8a13bb740e0a0|25]] straipsniuose, turi būti vykdomos. ^s-28d26753dc6a6137adfd0c53
 
 
 5. Išnykus priežastims, dėl kurių buvo paskelbta mobilizacija, Respublikos Prezidento siūlymu Seimas skelbia demobilizaciją. Nutarime dėl demobilizacijos skelbimo nurodoma, kokie mobilizacijos sistemos subjektai turi vykdyti demobilizaciją ir kokios priemonės turi būti vykdomos. ^s-744d60754faae8335ef3f001
@@ -791,7 +791,7 @@ MOBILIZACIJOS IR DEMOBILIZACIJOS SKELBIMAS IR VYKDYMAS
 2. Paskelbus dalinę mobilizaciją, Seimo nutarime arba Respublikos Prezidento dekrete dėl dalinės mobilizacijos paskelbimo nurodytų mobilizacijos sistemos subjektų piliečiai, įrašyti į civilinį mobilizacinio personalo rezervą, atlieka šių subjektų mobilizacijos planuose numatytas funkcijas. ^s-12c05d5bf5644df28bc49ee8
 
 
-3. Lietuvos Respublikos piliečiams, įrašytiems į civilinį mobilizacinio personalo rezervą ir turintiems atlikti jiems pavestas funkcijas šio straipsnio 1 ir [[#^s-12c05d5bf5644df28bc49ee8|2 dalyse]] nurodytais atvejais, nustatomi šie darbo ar tarnybos santykių apribojimai: ^s-fc065b138aad926925a50c38
+3. Lietuvos Respublikos piliečiams, įrašytiems į civilinį mobilizacinio personalo rezervą ir turintiems atlikti jiems pavestas funkcijas šio straipsnio [[#^s-1b0277fbf63d996c7834ecf9|1]] ir [[#^s-12c05d5bf5644df28bc49ee8|2]] dalyse nurodytais atvejais, nustatomi šie darbo ar tarnybos santykių apribojimai: ^s-fc065b138aad926925a50c38
 
 
 1) išėję visų rūšių atostogų, išskyrus nėštumo, gimdymo atostogas ar atostogas vaikui prižiūrėti, iki vaikui sueis treji metai, darbdavio sprendimu gali būti atšaukiami iš atostogų; ^s-b4ef6d4fc32dcc794f9af808
@@ -803,7 +803,7 @@ MOBILIZACIJOS IR DEMOBILIZACIJOS SKELBIMAS IR VYKDYMAS
 3) draudžiama streikuoti; ^s-b6840f04a6054e232d55cb9b
 
 
-4) sustabdomas su jais sudarytų darbo sutarčių nutraukimas ir (ar) jų atleidimas iš pareigų, išskyrus [[latest/f6d686707e7011e6b969d7ae07280e89#^s-702812be1b2b340016755148|Lietuvos Respublikos darbo kodekso 136 straipsnio 1 dalyje]] ir Valstybės tarnybos įstatymo 44 straipsnio 1 dalies 3, 13, 14, 15, 16 ir 18 punktuose nustatytus atvejus. ^s-eb3f3c10539003ae61685904
+4) sustabdomas su jais sudarytų darbo sutarčių nutraukimas ir (ar) jų atleidimas iš pareigų, išskyrus [[latest/f6d686707e7011e6b969d7ae07280e89#^s-f95dc0561c512b3e579a154a|Lietuvos Respublikos darbo kodekso 136 straipsnio 1 dalyje ir Valstybės tarnybos įstatymo 44 straipsnio 1 dalies]] [[latest/f6d686707e7011e6b969d7ae07280e89#^s-f16393de94af98a207c3a282|3]], [[latest/f6d686707e7011e6b969d7ae07280e89#^s-2c6b4283c72d4c9cef9fc612|13]], [[latest/f6d686707e7011e6b969d7ae07280e89|14]], [[latest/f6d686707e7011e6b969d7ae07280e89|15]], [[latest/f6d686707e7011e6b969d7ae07280e89|16]] ir [[latest/f6d686707e7011e6b969d7ae07280e89|18]] punktuose nustatytus atvejus. ^s-eb3f3c10539003ae61685904
 
 
 4. Lietuvos Respublikos piliečių, įrašytų į civilinį mobilizacinio personalo rezervą ir turinčių atlikti jiems nustatytas funkcijas, paskelbus mobilizaciją, neatvykimo į darbą, nebuvimo tarnyboje ar kito atsisakymo dirbti pateisinamos priežastys: ^s-ffcd7cb71d2bebabd2a146a3
@@ -827,7 +827,7 @@ MOBILIZACIJOS IR DEMOBILIZACIJOS SKELBIMAS IR VYKDYMAS
 6) kitos teisės aktuose nustatytos aplinkybės, dėl kurių apribotos asmens judėjimo galimybės. ^s-965d0142c5ec68dc634dc4bc
 
 
-5. Šio straipsnio 3 ir [[#^s-ffcd7cb71d2bebabd2a146a3|4 dalyse]] nustatyti darbo ar tarnybos santykių apribojimai, paskelbus mobilizaciją, galioja iki demobilizacijos paskelbimo. ^s-38ec3f5f5ac18ea9355d14e9
+5. Šio straipsnio [[#^s-fc065b138aad926925a50c38|3]] ir [[#^s-ffcd7cb71d2bebabd2a146a3|4]] dalyse nustatyti darbo ar tarnybos santykių apribojimai, paskelbus mobilizaciją, galioja iki demobilizacijos paskelbimo. ^s-38ec3f5f5ac18ea9355d14e9
 
 
 
@@ -843,7 +843,7 @@ MOBILIZACIJOS IR DEMOBILIZACIJOS SKELBIMAS IR VYKDYMAS
 3. Laikinąjį radioaktyviųjų medžiagų paėmimą ar rekviziciją vykdo Radiacinės saugos centras kartu su savivaldybių administracijų direktorių įgaliotais asmenimis. ^s-e52c5ed7fcb0a5731c05dd76
 
 
-4. Transporto priemonių, kito kilnojamojo ar nekilnojamojo turto, nenurodyto šio straipsnio 2 ir [[#^s-e52c5ed7fcb0a5731c05dd76|3 dalyse]], rekviziciją ir (ar) laikinąjį paėmimą savivaldybės teritorijoje vykdo policija kartu su savivaldybės administracijos direktoriaus įgaliotais asmenimis. ^s-8f5f544300a1998ab8303e35
+4. Transporto priemonių, kito kilnojamojo ar nekilnojamojo turto, nenurodyto šio straipsnio [[#^s-8c0553018c28ea278dfb8ab3|2]] ir [[#^s-e52c5ed7fcb0a5731c05dd76|3]] dalyse, rekviziciją ir (ar) laikinąjį paėmimą savivaldybės teritorijoje vykdo policija kartu su savivaldybės administracijos direktoriaus įgaliotais asmenimis. ^s-8f5f544300a1998ab8303e35
 
 
 5. Paskelbus visuotinę mobilizaciją, visų savivaldybių teritorijose gali būti rekvizuojamas arba laikinai paimamas turtas, numatytas mobilizacijos planuose. ^s-f010e3908fc990b70785e87e
@@ -869,7 +869,7 @@ MOBILIZACIJOS IR DEMOBILIZACIJOS SKELBIMAS IR VYKDYMAS
 ### 25 straipsnis. Kitos priemonės, užtikrinančios mobilizacijos vykdymą ^s-365bcebe0cc8a13bb740e0a0
 
 
-Paskelbus visuotinę mobilizaciją, įstatymų nustatyta tvarka, be šio įstatymo 22, 23 ir [[#^s-228ee0edbcf2a50215ab82cb|24 straipsniuose]] nurodytų priemonių vykdymo, taip pat taikomos, o paskelbus dalinę mobilizaciją, gali būti taikomos šios priemonės:
+Paskelbus visuotinę mobilizaciją, įstatymų nustatyta tvarka, be šio įstatymo [[#^s-67b98ef157661f1bbe1d457c|22]], [[#^s-11019848f16c45e1826c7673|23]] ir [[#^s-228ee0edbcf2a50215ab82cb|24]] straipsniuose nurodytų priemonių vykdymo, taip pat taikomos, o paskelbus dalinę mobilizaciją, gali būti taikomos šios priemonės:
 
 
 1) karo prievolininkų šaukimas į karo tarnybą; ^s-a9788d0b4153451e42bff68e

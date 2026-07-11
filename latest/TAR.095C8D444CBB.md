@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-ce7f10554a270b7e67d0d209
 
 
-Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. liepos 1 d. dekretą Nr. 978, ratifikuoja Lietuvos Respublikos ir Tarptautinio rekonstrukcijos ir plėtros banko paskolos sutartį dėl 30 mln. JAV dolerių paskolos privataus žemės ūkio plėtros projektui finansuoti, pasirašytą 1996 m. birželio 20 d. Vašingtone.
+Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento [1996 m. liepos 1 d. dekretą Nr. 978](https://e-tar.lt/portal/lt/legalAct/TAR.80A97B72E13D), ratifikuoja Lietuvos Respublikos ir Tarptautinio rekonstrukcijos ir plėtros banko paskolos sutartį dėl 30 mln. JAV dolerių paskolos privataus žemės ūkio plėtros projektui finansuoti, pasirašytą 1996 m. birželio 20 d. Vašingtone.
 
 
 

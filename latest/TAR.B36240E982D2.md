@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-f766bdb58034e30a6ff2f3cb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. rugpjūčio 1 d. dekretą Nr. 1K-1474, ratifikuoja 2007 m. gruodžio 3 d. Madride pasirašytą Lietuvos Respublikos ir Ispanijos Karalystės susitarimą dėl bendradarbiavimo išaiškinant, tiriant ir užkardant nusikaltimus.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. rugpjūčio 1 d. dekretą Nr. 1K-1474](https://e-tar.lt/portal/lt/legalAct/TAR.E61717637F44), ratifikuoja 2007 m. gruodžio 3 d. Madride pasirašytą Lietuvos Respublikos ir Ispanijos Karalystės susitarimą dėl bendradarbiavimo išaiškinant, tiriant ir užkardant nusikaltimus.
 
 
 

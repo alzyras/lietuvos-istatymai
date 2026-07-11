@@ -96,7 +96,7 @@ Vilnius
 „6) tvirtina atskirų kategorijų įrenginių techninės būklės tikrinimo kainas ir (ar) tarifus valstybės institucijų, suteikusių įgaliojimus viešosioms įstaigoms tikrinti įrenginių techninę būklę (toliau – suteikusios įgaliojimus valstybės institucijos), teikimu.“
 
 
-2. [[#^s-329fbb36df5a29c9eb7e27fc|4 straipsnio 2 dalyje]] vietoj žodžio „ministras“ įrašyti žodį „ministerija“, vietoj žodžių „įrenginių priežiūros darbus“ įrašyti žodį „veiklą“ ir šią dalį išdėstyti taip: ^s-329fbb36df5a29c9eb7e27fc
+2. 4 straipsnio 2 dalyje vietoj žodžio „ministras“ įrašyti žodį „ministerija“, vietoj žodžių „įrenginių priežiūros darbus“ įrašyti žodį „veiklą“ ir šią dalį išdėstyti taip: ^s-329fbb36df5a29c9eb7e27fc
 
 
 „2. Socialinės apsaugos ir darbo ministerija koordinuoja valstybės institucijų, atsakingų už atskirų kategorijų įrenginių priežiūros organizavimą, veiklą.“

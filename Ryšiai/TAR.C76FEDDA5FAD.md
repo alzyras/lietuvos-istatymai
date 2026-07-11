@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 1, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.F74ECE427C23|Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas]] - Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo
+_Nėra._
 
 ## Šį įstatymą cituoja
 

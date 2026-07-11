@@ -556,7 +556,7 @@ Nr. XIV-2550, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07554
 8. Etiketės, kurias pritvirtina priežiūros institucija, yra numeruojamos. Šių etikečių formą tvirtina priežiūros institucija. ^s-6631bb1a7f8387b1ef265627
 
 
-9. Lietuvos Respublikoje realizuojami šio įstatymo [[#^s-b31de432fef711720ce27b51|6 straipsnio 12 dalies]] 1–8 punktuose nurodyti tauriųjų metalų gaminiai privalo turėti atsakomybės ženklą arba gamintojo išduotą sertifikatą ir atitikti šio įstatymo [[#^s-9c04a1056845262b1e32b5f4|6 straipsnio 3 dalyje]] nustatytas standartines prabas. ^s-a0f6656bf8bd0c0c9cf2381e
+9. Lietuvos Respublikoje realizuojami šio įstatymo [[#^s-b31de432fef711720ce27b51|6 straipsnio 12 dalies]] [[#^s-e91eae934035d5c0864de934|1]]–[[#^s-a792f794c43ef20a9e64bdb5|8]] punktuose nurodyti tauriųjų metalų gaminiai privalo turėti atsakomybės ženklą arba gamintojo išduotą sertifikatą ir atitikti šio įstatymo [[#^s-9c04a1056845262b1e32b5f4|6 straipsnio 3 dalyje]] nustatytas standartines prabas. ^s-a0f6656bf8bd0c0c9cf2381e
 
 
 10. Priežiūros institucijai prabuoti ir įspauduoti arba kokybės pažymėjimui gauti gali būti pateikiami ir numatomi išvežti taurieji metalai, brangakmeniai, jų gaminiai, pusgaminiai, atliekos ir laužas. ^s-52c56b13768f0448cc6125fe
@@ -701,7 +701,7 @@ Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
 9) vykdo pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimo priežiūrą pagal Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą; ^s-eda397f3b4b35772dbc106a5
 
 
-10) pagal kompetenciją vykdo 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105 bei 2000/21/EB, su visais pakeitimais reikalavimų, susijusių su pavojingųjų cheminių medžiagų ir cheminių mišinių, jų turinčių gaminių gamybos, tiekimo rinkai ir (arba) naudojimo apribojimais, įgyvendinimo priežiūrą; ^s-6d2e193c00ed6494aeb345f6
+10) pagal kompetenciją vykdo 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos [reglamentą (EB) Nr. 1488/94](https://eur-lex.europa.eu/eli/reg/1488/94/oj), Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105 bei 2000/21/EB, su visais pakeitimais reikalavimų, susijusių su pavojingųjų cheminių medžiagų ir cheminių mišinių, jų turinčių gaminių gamybos, tiekimo rinkai ir (arba) naudojimo apribojimais, įgyvendinimo priežiūrą; ^s-6d2e193c00ed6494aeb345f6
 
 
 11) tiria [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatyme]] jos kompetencijai priskirtus juridinių asmenų padarytus pažeidimus, surašo juridinių asmenų padarytų pažeidimų protokolus ir perduoda bylas dėl ekonominės sankcijos skyrimo nagrinėti vyriausiesiems valstybiniams aplinkos apsaugos inspektoriams; ^s-9c6f21d8f3a32549062a0699
@@ -722,7 +722,7 @@ Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
 7. Priežiūros institucijos atlygio už [[#^s-e69b5376d99d6d73fefc061c|šio straipsnio 2 dalyje]] nurodytas veiklas skaičiavimo tvarką nustato priežiūros institucijos savininko teises ir pareigas įgyvendinanti institucija. ^s-f0894705adf47606b1721b9d
 
 
-8. Priežiūros institucija, vykdydama šio įstatymo [[#^s-00b1ddafde2162ed5198461b|15 straipsnio 2 dalyje]] nurodytas funkcijas, asmens duomenis tvarko vadovaudamasi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir jų įgyvendinamaisiais teisės aktais. ^s-0de8e069aa12ef3dee601e7f
+8. Priežiūros institucija, vykdydama šio įstatymo [[#^s-00b1ddafde2162ed5198461b|15 straipsnio 2 dalyje]] nurodytas funkcijas, asmens duomenis tvarko vadovaudamasi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir jų įgyvendinamaisiais teisės aktais. ^s-0de8e069aa12ef3dee601e7f
 
 
 Straipsnio pakeitimai:
@@ -771,9 +771,9 @@ Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūr
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-331, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12767
-Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo Nr. I-996 4, 5, 6, 10, 15 ir [[#^s-6b9d59c57e339a89fd9af8f9|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo Nr. I-996 [[#^s-5dceb68453f1f280fc188b02|4]], [[#^s-314e3222ddfe38bd2cc1c9f5|5]], [[#^s-c0ccfbf8cc4282554640607a|6]], [[#^s-1f7babe9fcc2f490c7957e11|10]], [[#^s-67e64699aa71631c5b6ba8f0|15]] ir [[#^s-6b9d59c57e339a89fd9af8f9|16]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2550, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07554
-Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo Nr. I-996 2, 8, 9, 10 ir [[#^s-6afa523cdd942d27609d3015|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymo Nr. I-996 [[#^s-d53c7b40e6d346cc1bfc6166|2]], [[#^s-591cbf4d38a3bdd3fdbe673c|8]], [[#^s-424f5eea9e5a6d08b908c49c|9]], [[#^s-1f7babe9fcc2f490c7957e11|10]] ir [[#^s-6afa523cdd942d27609d3015|14]] straipsnių pakeitimo įstatymas

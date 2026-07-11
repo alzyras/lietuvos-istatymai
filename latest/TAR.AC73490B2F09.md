@@ -203,10 +203,10 @@ FONDO BIUDŽETO PAJAMOS, IŠLAIDOS, PINIGINĖS ĮPLAUKOS IR IŠLAIDOS, JŲ PLANA
 1. Fondo biudžeto išlaidų pagrindą sudaro Fondo išlaidos atskiroms socialinio draudimo rūšims, tai yra: ^s-129ee1567a0c2cd2abb93840
 
 
-1) pensijų socialiniam draudimui – Fondo išlaidos valstybinėms socialinio draudimo pensijoms ir kompensacijoms už ypatingas darbo sąlygas, numatytoms [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatyme]], išankstinėms valstybinėms socialinio draudimo senatvės pensijoms, numatytoms Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatyme, taip pat šių išmokų gavėjus laidojusiems asmenims nurodytų įstatymų nustatyta tvarka išmokėtos sumos; ^s-005810efd8e44e7d4a18fb54
+1) pensijų socialiniam draudimui – Fondo išlaidos valstybinėms socialinio draudimo pensijoms ir kompensacijoms už ypatingas darbo sąlygas, numatytoms [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatyme]], išankstinėms valstybinėms socialinio draudimo senatvės pensijoms, numatytoms [Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900), taip pat šių išmokų gavėjus laidojusiems asmenims nurodytų įstatymų nustatyta tvarka išmokėtos sumos; ^s-005810efd8e44e7d4a18fb54
 
 
-2) lėšos, pervedamos į pensijų fondus, – pensijų kaupimo bendrovėms pervedamos pensijų socialinio draudimo įmokų dalies, numatytos Pensijų sistemos reformos įstatyme, sumos; ^s-171d05c59934682e14140663
+2) lėšos, pervedamos į pensijų fondus, – pensijų kaupimo bendrovėms pervedamos pensijų socialinio draudimo įmokų dalies, numatytos [Pensijų sistemos reformos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8), sumos; ^s-171d05c59934682e14140663
 
 
 3) ligos ir motinystės socialiniam draudimui – Fondo biudžeto išlaidos socialinio draudimo pašalpoms, numatytoms [[latest/TAR.068516AF734B|Ligos ir motinystės socialinio draudimo įstatyme]], ir savanoriškojo socialinio draudimo ligos ir motinystės pašalpoms; ^s-ecb0797d1b2dc5a46ba6cdb6

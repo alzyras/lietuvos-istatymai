@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-fa97e4042ec6d1299f44136f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. spalio 22 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Laikinojo įvežimo konvenciją (Stambulo konvenciją)“ ir į Baltijos Asamblėjos 1995 m. gruodžio 2 d. rezoliuciją „Dėl prisijungimo prie Konvencijos dėl laikinojo įvežimo“, ratifikuoja 1990 m. birželio 26 d. Stambule pasirašytą Laikinojo įvežimo konvenciją (Stambulo konvenciją) ir šiuos jos priedus:
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. spalio 22 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Laikinojo įvežimo konvenciją (Stambulo konvenciją)“](https://e-tar.lt/portal/lt/legalAct/TAR.8A50D1148273) ir į Baltijos Asamblėjos 1995 m. gruodžio 2 d. rezoliuciją „Dėl prisijungimo prie Konvencijos dėl laikinojo įvežimo“, ratifikuoja 1990 m. birželio 26 d. Stambule pasirašytą Laikinojo įvežimo konvenciją (Stambulo konvenciją) ir šiuos jos priedus:
 
 
 1) A priedą dėl laikinojo įvežimo dokumentų (ATA knygelių ir CPD knygelių) – su išlyga; ^s-c10ff0d6ea8c0bfaf236c8ff

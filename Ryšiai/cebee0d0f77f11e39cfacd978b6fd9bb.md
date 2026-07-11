@@ -9,10 +9,10 @@ pavadinimas: "Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 
 
 ## Šis įstatymas cituoja
 
+- [[latest/TAR.C6074E202D98#^s-ec338f46c00e263aa7bda8db|Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas]] - 3 straipsnio 2 dalį
 - [[latest/TAR.E79004684F4D|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]] - Laisvųjų ekonominių zonų pagrindų įstatymo
 - [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - Žemės įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C6074E202D98#^s-1ebf6ce6672ed7b00717180f|Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas]] - Įstatymas Nr. XII-946
-- [[latest/TAR.C6074E202D98#^s-ef40d1170ef8e7cab90eb72e|Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas]] - Įstatymas Nr. XII-946
+_Nėra._

@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos įstatymas dėl 1972 metų Europos konvencijo
 
 ## Šis įstatymas cituoja
 
-- [[latest/4bed46424dfa11f180c9c618618421ed|Lietuvos Respublikos įstatymo „Dėl 1972 metų Europos konvencijos dėl baudžiamojo proceso perdavimo ratifikavimo“ Nr. VIII-583 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-875
+_Nėra._
 
 ## Šį įstatymą cituoja
 

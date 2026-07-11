@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos bausmių vykdymo kodekso 55, 62, 73, 74, 75, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A0A0CCC6B997|Lietuvos Respublikos bausmių vykdymo kodekso patvirtinimo įstatymas. Bausmių vykdymo kodeksas]] - 2 citatos - Bausmių vykdymo kodekso
+- [[latest/TAR.A0A0CCC6B997|Lietuvos Respublikos bausmių vykdymo kodekso patvirtinimo įstatymas. Bausmių vykdymo kodeksas]] - Bausmių vykdymo kodekso
 
 ## Šį įstatymą cituoja
 

@@ -14,5 +14,4 @@ pavadinimas: "Lietuvos Respublikos miškų įstatymo 1, 3, 4, 7, 11, 16, 17, 18,
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.5D6D055CC00C#^s-538e2ea3c94a00109bb014c4|Lietuvos Respublikos miškų įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO 1, 3, 4, 7, 11, 16, 17, 18, 19, 21, 22, 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.5D6D055CC00C#^s-895c88c7b403a7b955bdae1c|Lietuvos Respublikos miškų įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO 1, 3, 4, 7, 11, 16, 17, 18, 19, 21, 22, 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.5D6D055CC00C#^s-538e2ea3c94a00109bb014c4|Lietuvos Respublikos miškų įstatymas]] - LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO 1, 3, 4, 7, 11, 16, 17, 18, 19, 21, 22, 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

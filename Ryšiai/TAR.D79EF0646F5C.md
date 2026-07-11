@@ -9,11 +9,10 @@ pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl užsieniečių teisinės pad
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 6 citatos - Administracinių bylų teisenos įstatyme
-- [[latest/TAR.F74ECE427C23|Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas]] - 2 citatos - Gyvenamosios vietos deklaravimo įstatymo
-- [[latest/TAR.F628061443C6|Lietuvos Respublikos pilietybės įstatymas]] - 2 citatos - Pilietybės įstatymo
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 4 citatos - Administracinių bylų teisenos įstatymo
+- [[latest/TAR.F74ECE427C23|Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas]] - Gyvenamosios vietos deklaravimo įstatymo
+- [[latest/TAR.F628061443C6|Lietuvos Respublikos pilietybės įstatymas]] - Pilietybės įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.42837E5A79DD#^s-b7fcdfdba0ef5139f8112d96|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - Įstatymas Nr. X-924
-- [[latest/TAR.42837E5A79DD#^s-d380d2d641411ba21387bb73|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - Įstatymas Nr. X-924
+_Nėra._

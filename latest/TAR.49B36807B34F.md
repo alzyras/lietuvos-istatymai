@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-a5371db1f1e039270530f074
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. vasario 8 d. dekretą Nr. 507, ratifikuoja Tarptautinės jūrų tyrinėjimo tarybos konvenciją, priimtą 1964 m. rugsėjo 12 d. Kopenhagoje, ir šios konvencijos protokolą, priimtą 1970 m. rugpjūčio 13 d. Kopenhagoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. vasario 8 d. dekretą Nr. 507](https://e-tar.lt/portal/lt/legalAct/TAR.7D37DE622F8C), ratifikuoja Tarptautinės jūrų tyrinėjimo tarybos konvenciją, priimtą 1964 m. rugsėjo 12 d. Kopenhagoje, ir šios konvencijos protokolą, priimtą 1970 m. rugpjūčio 13 d. Kopenhagoje.
 
 
 

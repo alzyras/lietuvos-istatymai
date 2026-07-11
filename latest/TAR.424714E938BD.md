@@ -130,7 +130,7 @@ Pakeisti 9 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 ### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-eaf85adbc7018fda84ec157e
 
 
-1. Šio įstatymo [[#^s-92f26331982a12c52fd8107e|2 straipsnis]] ir [[#^s-3a7de3a7c5722990332aa63c|4 straipsnio]] 6 ir 7 dalys įsigalioja 2013 m. sausio 1 d. ^s-6c8aacd4ff04121ec639e0ea
+1. Šio įstatymo [[#^s-92f26331982a12c52fd8107e|2 straipsnis]] ir [[#^s-3a7de3a7c5722990332aa63c|4 straipsnio]] [[#^s-b46e5f1ca70e2e53e911ffc2|6]] ir [[#^s-a4401cc8ecfafc996b84c79d|7]] dalys įsigalioja 2013 m. sausio 1 d. ^s-6c8aacd4ff04121ec639e0ea
 
 
 2. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki 2013 m. sausio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-6804cd0fc61d6895d3967166

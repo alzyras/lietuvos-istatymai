@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos viešųjų įstaigų įstatymo Nr. I-1428 8-1
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.1E52802BE548|Lietuvos Respublikos viešųjų įstaigų įstatymas]] - 81 straipsnio 7 dalį 4 punktu
 
 ## Šį įstatymą cituoja
 

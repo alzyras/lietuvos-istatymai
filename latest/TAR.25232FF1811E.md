@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-99271edc92d14337c064816a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. rugsėjo 17 d. dekretą Nr. 1K-1111, ratifikuoja 2006 m. gruodžio 12 d. Briuselyje pasirašytą Europos Bendrijos bei jos valstybių narių ir Maroko Karalystės Europos ir Viduržemio jūros regiono šalių susitarimą dėl susisiekimo oru.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. rugsėjo 17 d. dekretą Nr. 1K-1111](https://e-tar.lt/portal/lt/legalAct/TAR.AE5D6E2307F8), ratifikuoja 2006 m. gruodžio 12 d. Briuselyje pasirašytą Europos Bendrijos bei jos valstybių narių ir Maroko Karalystės Europos ir Viduržemio jūros regiono šalių susitarimą dėl susisiekimo oru.
 
 
 

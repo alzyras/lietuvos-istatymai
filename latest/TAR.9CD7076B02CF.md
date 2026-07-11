@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-fca3c594ff819cabf8e43f18
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. kovo 12 d. dekretą Nr. 1K-1275, ratifikuoja 2007 m. gruodžio 13 d. Lisabonoje pasirašytą Lisabonos sutartį, iš dalies keičiančią Europos Sąjungos sutartį ir Europos bendrijos steigimo sutartį.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. kovo 12 d. dekretą Nr. 1K-1275](https://e-tar.lt/portal/lt/legalAct/TAR.9C7E87B025E9), ratifikuoja 2007 m. gruodžio 13 d. Lisabonoje pasirašytą Lisabonos sutartį, iš dalies keičiančią Europos Sąjungos sutartį ir Europos bendrijos steigimo sutartį.
 
 
 

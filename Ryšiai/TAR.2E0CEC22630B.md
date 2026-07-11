@@ -9,7 +9,7 @@ pavadinimas: "LIetuvos Respublikos teismų įstatymo pakeitimo ir papildymo įst
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymas]] - Lietuvos Respublikos teismų įstatymo 24 straipsnio 1 dalies 1 punkte
 
 ## Šį įstatymą cituoja
 

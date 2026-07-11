@@ -139,7 +139,7 @@ Papildyti Įstatymą 191 straipsniu:
 2. Energetikos įmonių nustatytos centralizuotai tiekiamų suskystintų naftos dujų kainos galioja iki 2013 m. gruodžio 1 d. ^s-cba3d101a70f5168213a67d3
 
 
-3. Centralizuotai suskystintas naftos dujas vartotojams tiekiančioms energetikos įmonėms [[latest/TAR.44235B485568#^s-99231bebc537abb12214470d|Lietuvos Respublikos energetikos įstatymo 30 straipsnio]] 2 ir [[#^s-e00a046376a9da29772ec8ac|3 dalių]] reikalavimai taikomi nuo 2014 m. liepos 1 d. ^s-e00a046376a9da29772ec8ac
+3. Centralizuotai suskystintas naftos dujas vartotojams tiekiančioms energetikos įmonėms [[latest/TAR.44235B485568#^s-99231bebc537abb12214470d|Lietuvos Respublikos energetikos įstatymo 30 straipsnio]] [[latest/TAR.44235B485568#^s-5c9fe63bc17c04b0e5a0a9a7|2]] ir [[latest/TAR.44235B485568#^s-9bbb5fbaed8d58d3dc9c7f56|3]] dalių reikalavimai taikomi nuo 2014 m. liepos 1 d. ^s-e00a046376a9da29772ec8ac
 
 
 4. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija ir Valstybinė kainų ir energetikos kontrolės komisija pagal kompetenciją priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-0c5996d1699521bc3e783151

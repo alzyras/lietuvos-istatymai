@@ -89,7 +89,7 @@ Vykdant žemės reformą, žemės įsigijimo nuosavybėn būdai yra:
 „1. Piliečiams, įsigyjantiems žemę (įskaitant miškus ir vandens telkinius), žemės reformos metu galima parduoti tiek valstybinės žemės, kad bendras vienai šeimai sugrąžintos natūra, perduotos, suteiktos nuosavybėn neatlygintinai ir pirktos iš valstybės žemės plotas sudarytų ne daugiau kaip 150 ha.“
 
 
-2. [[#^s-6459de70ab22aad9f8d51344|9 straipsnį]] papildyti 8 ir [[#^s-d5e2238e503a58f494b79fec|9 dalimis]]: ^s-717236bb0be6874725f99cb1
+2. [[#^s-6459de70ab22aad9f8d51344|9 straipsnį]] papildyti 8 ir 9 dalimis: ^s-717236bb0be6874725f99cb1
 
 
 „8. Kovo 11-osios akto signatarams ne aukciono būdu parduodamas vienas žemės sklypas gyvenamojo namo statybai jų pageidaujamame mieste (išskyrus Neringos miestą) Vyriausybės patvirtinto dydžio, bet ne didesnis kaip 0,2 ha Vilniuje, Kaune, Klaipėdoje, Šiauliuose, Panevėžyje, Alytuje, Marijampolėje, Druskininkuose, Palangoje, Birštone ir ne didesnis kaip 0,3 ha kituose miestuose.
@@ -123,7 +123,7 @@ Pakeisti ir papildyti [[#^s-5a1d793c48375fe8e1eb3b8f|10 straipsnio 1 dalį]]:
 „5) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems (padidinti iki 30 procentų) žemės sklypai toje pat kadastrinėje vietovėje piliečiams, kurių norima susigrąžinti žemė patenka į asmeniniam ūkiui ar valstiečio ūkiui skirtą teritoriją;“;
 
 
-4) buvusį [[#^s-a42cff7e9fe0eed7c2138205|5 punktą]] laikyti [[#^s-b55dbb1fd727ebd9710aaf65|4 punktu]]; ^s-b55dbb1fd727ebd9710aaf65
+4) buvusį [[#^s-a42cff7e9fe0eed7c2138205|5 punktą]] laikyti 4 punktu; ^s-b55dbb1fd727ebd9710aaf65
 
 
 5) [[#^s-75c972cf0440c31989a27d63|8 punkte]] po žodžių „vandens telkiniai neišliko“ įrašyti žodžius „taip pat perduodami nuosavybėn neatlygintinai žemės sklypai piliečiams, kurių šeimos po 1939 metų buvo įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių Lenkijos ir Vokietijos tuometinėse teritorijose ir gyvenantiems rajono savivaldybės seniūnijos, kurioje yra perduodamas žemės sklypas, teritorijoje, jeigu jų žemės sklypai, į kuriuos šios šeimos buvo įkeldintos, priskirti valstybės išperkamai žemei“ ir šį punktą išdėstyti taip: ^s-a42cff7e9fe0eed7c2138205
@@ -135,7 +135,7 @@ Pakeisti ir papildyti [[#^s-5a1d793c48375fe8e1eb3b8f|10 straipsnio 1 dalį]]:
 6) 9 punkte vietoj žodžio „suteikiami“ įrašyti žodį „perduodami“, vietoj skaičiaus ir žodžio „[[#^s-96bc043a20c3cd810ebe1035|2 punktą]]“ įrašyti skaičius ir žodžius „2 ir 8 punktus“, po žodžio „punktus“ įrašyti žodžius „taip pat perduodami nuosavybėn neatlygintinai padidinti iki 100 procentų žemės sklypai piliečiams, kurie yra 1918–1920 m. nepriklausomybės kovų kariai savanoriai, pasipriešinimo (rezistencijos) dalyviai, politiniai kaliniai, tremtiniai, Vyčio Kryžiaus ordinu apdovanoti asmenys, taip pat jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), jeigu jų norima natūra susigrąžinti žemė yra kitos apskrities teritorijoje ir užimta asmeninio ūkio ar valstiečio ūkio“ ir šį punktą išdėstyti taip: ^s-98aa52796f2293c310b6239e
 
 
-„9) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai kitiems, šio straipsnio 1 dalies 8 punkte nenurodytiems, piliečiams, kurių turėti žemė, miškas, vandens telkiniai pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą priskirti valstybės išperkamiems arba kurių turėtas miškas ar vandens telkiniai neišliko; perduodami nuosavybėn neatlygintinai piliečiams, kurių šeimos po 1939 metų buvo įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių Lenkijos ir Vokietijos tuometinėse teritorijose, - tokio pat ploto žemės sklypai, kokius nuosavybės teise jie turėjo Lenkijos ir Vokietijos teritorijose, išskaičius tą žemės sklypo plotą, kurį jie gavo pagal šio straipsnio 1 dalies 2 ir [[#^s-75c972cf0440c31989a27d63|8 punktus]], taip pat perduodami nuosavybėn neatlygintinai padidinti iki 100 procentų žemės sklypai piliečiams, kurie yra 1918–1920 m. nepriklausomybės kovų kariai savanoriai, pasipriešinimo (rezistencijos) dalyviai, politiniai kaliniai, tremtiniai, Vyčio Kryžiaus ordinu apdovanoti asmenys, taip pat jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), jeigu jų norima natūra susigrąžinti žemė yra kitos apskrities teritorijoje ir užimta asmeninio ūkio ar valstiečio ūkio;“;
+„9) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai kitiems, šio straipsnio 1 dalies 8 punkte nenurodytiems, piliečiams, kurių turėti žemė, miškas, vandens telkiniai pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą priskirti valstybės išperkamiems arba kurių turėtas miškas ar vandens telkiniai neišliko; perduodami nuosavybėn neatlygintinai piliečiams, kurių šeimos po 1939 metų buvo įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių Lenkijos ir Vokietijos tuometinėse teritorijose, - tokio pat ploto žemės sklypai, kokius nuosavybės teise jie turėjo Lenkijos ir Vokietijos teritorijose, išskaičius tą žemės sklypo plotą, kurį jie gavo pagal šio straipsnio 1 dalies [[#^s-96bc043a20c3cd810ebe1035|2]] ir [[#^s-75c972cf0440c31989a27d63|8]] punktus, taip pat perduodami nuosavybėn neatlygintinai padidinti iki 100 procentų žemės sklypai piliečiams, kurie yra 1918–1920 m. nepriklausomybės kovų kariai savanoriai, pasipriešinimo (rezistencijos) dalyviai, politiniai kaliniai, tremtiniai, Vyčio Kryžiaus ordinu apdovanoti asmenys, taip pat jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), jeigu jų norima natūra susigrąžinti žemė yra kitos apskrities teritorijoje ir užimta asmeninio ūkio ar valstiečio ūkio;“;
 
 
 7) 11 punkte išbraukti žodžius „žemės ūkio veiklai“, po žodžio „piliečiams“ įrašyti žodžius „gyvenantiems toje kadastrinėje vietovėje, arba piliečiams“, po žodžio „kurie“ įrašyti žodžius „toje kadastrinėje vietovėje“ ir šį punktą išdėstyti taip: ^s-9c942e7c2b320bb3c1e0b4c4
@@ -154,7 +154,7 @@ Pakeisti ir papildyti [[#^s-5a1d793c48375fe8e1eb3b8f|10 straipsnio 1 dalį]]:
 ### 6 straipsnis. 13 straipsnio papildymas ^s-dc1621ce8ba2dad676d09c52
 
 
-1. 13 straipsnio 3 punkte po žodžių „veislininkystės ūkiams“ įrašyti žodžius „ir specialios paskirties veislininkystės bendrovėms“, papildyti 10 ir [[#^s-acb0f497b53de623759eb171|11 punktais]] ir šiuos punktus išdėstyti taip: ^s-3be6c62f42c57acbb210791c
+1. 13 straipsnio 3 punkte po žodžių „veislininkystės ūkiams“ įrašyti žodžius „ir specialios paskirties veislininkystės bendrovėms“, papildyti 10 ir 11 punktais ir šiuos punktus išdėstyti taip: ^s-3be6c62f42c57acbb210791c
 
 
 „3) suteikta mokslo ir mokymo, valstybinėms socialinės globos bei rūpybos įstaigoms, valstybinėms įstaigoms ir organizacijoms; perduota valstybiniams specializuotiems sėklininkystės, veislininkystės ūkiams ir specialios paskirties veislininkystės bendrovėms;“
@@ -190,7 +190,7 @@ Pakeisti ir papildyti 15 straipsnio 4 dalį ir ją išdėstyti taip:
 1. Pakeisti ir papildyti 16 straipsnio 1 dalį ir ją išdėstyti taip: ^s-7a435c267919a646cd44ecb9
 
 
-„1. Žemės reformą įgyvendina ir sprendimus grąžinti, perduoti nuosavybėn neatlygintinai, parduoti ar kaimo vietovėje nuomoti valstybinę žemę priima apskričių viršininkai. Valstybinė žemė miestuose bei Lietuvos Respublikos Vyriausybės sprendimu miestams priskirtose teritorijose išnuomojama Žemės nuomos įstatymo nustatyta tvarka.“
+„1. Žemės reformą įgyvendina ir sprendimus grąžinti, perduoti nuosavybėn neatlygintinai, parduoti ar kaimo vietovėje nuomoti valstybinę žemę priima apskričių viršininkai. Valstybinė žemė miestuose bei Lietuvos Respublikos Vyriausybės sprendimu miestams priskirtose teritorijose išnuomojama [Žemės nuomos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC) nustatyta tvarka.“
 
 
 2. 16 straipsnio 2 dalyje vietoj žodžių „Žemės ir miškų ūkio ministerija“ įrašyti žodžius „Žemėtvarkos ir teisės departamentas prie Žemės ūkio ministerijos“ ir šią dalį išdėstyti taip: ^s-99f3c80a6aec8fabc6f69dae
@@ -222,7 +222,7 @@ Pakeisti ir papildyti 15 straipsnio 4 dalį ir ją išdėstyti taip:
 1. 18 straipsnio 2 dalyje vietoj žodžių „Žemės ir miškų ūkio ministerija“ įrašyti žodžius „Žemėtvarkos ir teisės departamentas prie Žemės ūkio ministerijos“ ir šią dalį išdėstyti taip: ^s-082dd39a567efcd6560e76a2
 
 
-„2. Skundus dėl žemės reformos metu suformuotų žemėnaudų tinkamumo bei žemės privatizavimui ir nuomai parengtų dokumentų atitikimo įstatymų ir kitų teisės aktų reikalavimams nagrinėja apskričių viršininkai ir Žemėtvarkos ir teisės departamentas prie Žemės ūkio ministerijos. Žemėtvarkos ir teisės departamentas prie Žemės ūkio ministerijos nenagrinėja apskrities viršininko neapsvarstytų piliečių prašymų ir skundų.“
+„2. Skundus [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) metu suformuotų žemėnaudų tinkamumo bei žemės privatizavimui ir nuomai parengtų dokumentų atitikimo įstatymų ir kitų teisės aktų reikalavimams nagrinėja apskričių viršininkai ir Žemėtvarkos ir teisės departamentas prie Žemės ūkio ministerijos. Žemėtvarkos ir teisės departamentas prie Žemės ūkio ministerijos nenagrinėja apskrities viršininko neapsvarstytų piliečių prašymų ir skundų.“
 
 
 2. 18 straipsnio 3 dalyje po žodžių „įstatymų nustatyta tvarka“ įrašyti žodžius „ir jei dėl to neiškyla ginčų, sprendimą patikslina apskrities viršininkas, o jei kyla ginčų“ ir šią dalį išdėstyti taip: ^s-550e792d6672045c59216fc3

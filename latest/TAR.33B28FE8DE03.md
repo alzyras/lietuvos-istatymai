@@ -49,7 +49,7 @@ Vilnius
 Pakeisti [[#^s-2f326efc51fd1a98c0b5fbc6|6 straipsnio]] pirmosios dalies antrąjį sakinį ir šią dalį išdėstyti taip:
 
 
-„1. Zonos valdymo bendrovė yra juridinis asmuo. Zonos valdymo bendrovėje privačios nuosavybės teise fiziniams ir juridiniams asmenims priklausanti akcijų dalis turi būti ne mažesnė kaip suteikianti 51 procentą balsų. Ji veikia pagal Akcinių bendrovių įstatymą. Zonos valdymo bendrovė registruojama Įmonių rejestro įstatymo nustatyta tvarka.“
+„1. Zonos valdymo bendrovė yra juridinis asmuo. Zonos valdymo bendrovėje privačios nuosavybės teise fiziniams ir juridiniams asmenims priklausanti akcijų dalis turi būti ne mažesnė kaip suteikianti 51 procentą balsų. Ji veikia pagal Akcinių bendrovių įstatymą. Zonos valdymo bendrovė registruojama [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka.“
 
 
 
@@ -62,7 +62,7 @@ Pakeisti [[#^s-2f326efc51fd1a98c0b5fbc6|6 straipsnio]] pirmosios dalies antrąj�
 „[[#^s-110b01557a967db6a6e63a63|7 straipsnis]]. Zonos įmonė
 
 
-1. Zonos įmonė – toje zonoje esanti ir įregistruota pagal Lietuvos Respublikos įmonių rejestro įstatymo reikalavimus bet kokios nuosavybės formos ir rūšies įmonė, kuriai taikomos šiame įstatyme nustatytos veiklos sąlygos ir valstybės garantijos jos veiklai zonoje. ^s-9e8ab3fd37a066ff3033abd2
+1. Zonos įmonė – toje zonoje esanti ir įregistruota pagal [Lietuvos Respublikos įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) reikalavimus bet kokios nuosavybės formos ir rūšies įmonė, kuriai taikomos šiame įstatyme nustatytos veiklos sąlygos ir valstybės garantijos jos veiklai zonoje. ^s-9e8ab3fd37a066ff3033abd2
 
 
 2. Zonos įmonės steigimo tvarką nustato įmonės steigimo tvarką reglamentuojantys įstatymai ir zonos įstatymas. ^s-864d813633fc59bcec2b7535
@@ -71,10 +71,10 @@ Pakeisti [[#^s-2f326efc51fd1a98c0b5fbc6|6 straipsnio]] pirmosios dalies antrąj�
 3. Zonos įmonė veikia vadovaudamasi šiuo įstatymu, zonos įstatymu, zonos statutu, savo įstatais ir steigimo dokumentais bei sutartimi su zonos valdymo bendrove dėl veiklos zonoje sąlygų. ^s-c422ddf6969e10b194484e69
 
 
-4. Zonoje leidžiama įmonės steigimo dokumentuose nustatyta ūkinė-komercinė veikla, nesuvaržyta Lietuvos Respublikos įmonių įstatymo bei atitinkamų įmonių rūšių įstatymų. Mažmeninė prekyba leidžiama tik zonos vidaus poreikiams tenkinti. ^s-ed7d5d542fb0c68468497ad2
+4. Zonoje leidžiama įmonės steigimo dokumentuose nustatyta ūkinė-komercinė veikla, nesuvaržyta [Lietuvos Respublikos įmonių įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B) bei atitinkamų įmonių rūšių įstatymų. Mažmeninė prekyba leidžiama tik zonos vidaus poreikiams tenkinti. ^s-ed7d5d542fb0c68468497ad2
 
 
-5. Steigėjai, pageidaujantys įregistruoti zonos įmonę, rejestro tvarkytojui pateikia registravimo dokumentus, nustatytus Įmonių rejestro įstatymo, bei zonos valdymo bendrovės leidimą veiklai zonoje. ^s-f0cbbc3a184bd6d1422fcb7f
+5. Steigėjai, pageidaujantys įregistruoti zonos įmonę, rejestro tvarkytojui pateikia registravimo dokumentus, nustatytus [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14), bei zonos valdymo bendrovės leidimą veiklai zonoje. ^s-f0cbbc3a184bd6d1422fcb7f
 
 
 6. Sprendimą dėl leidimo išdavimo ūkio subjekto veiklai zonoje priima zonos valdymo bendrovė. Leidimas ūkio subjektui zonos statute nustatytais terminais ir tvarka išduodamas veiklos sritims, kurios yra nustatytos zonos įstatyme bei zonos statute. ^s-d451269cd630d7febd78849c
@@ -94,7 +94,7 @@ Zonos valdymo bendrovė atsisakymą išduoti leidimą ūkio subjekto veiklai zon
 
 
 7. Zonos įmonės veikla gali būti sustabdoma, jei įmonė pažeidė šiame įstatyme, zonos įstatyme, zonos statute, zonos įmonės įstatuose arba sutartyje tarp zonos valdymo bendrovės ir ūkio subjekto nustatytas veiklos sąlygas ar kitus zonoje galiojančius Lietuvos Respublikos įstatymus ir teisės aktus. Valstybės institucijos, įgaliotos atlikti laisvųjų ekonominių zonų valstybinę priežiūrą, arba zonos valdymo bendrovės teikimu gali būti atlikti zonos įmonės veiklos patikrinimai Lietuvos Respublikos įstatymų nustatyta tvarka. ^s-8e123794d559dbe5b3bf0eb6
-Zonos įmonėse darbai gali būti sustabdomi Žmonių saugos darbe įstatymo nustatyta tvarka.
+Zonos įmonėse darbai gali būti sustabdomi [Žmonių saugos darbe įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.1C72AF32F5CB) nustatyta tvarka.
 
 
 8. Zonos įmonė negali steigti filialų ir atstovybių už zonos ribų. Zonos įmonė gali būti įmonės, esančios už zonos ribų, steigėja. Už zonos ribų esanti įmonė gali būti zonos įmonės steigėja.“ ^s-6308c4e9240bb47e2b25d0b9

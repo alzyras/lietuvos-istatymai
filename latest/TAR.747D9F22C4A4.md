@@ -55,10 +55,10 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 „3 straipsnis. Leidimų dirbti ar susipažinti su įslaptinta informacija galiojimas
 
 
-1. Leidimai dirbti su valstybės paslaptį sudarančiomis žiniomis (informacija), išduoti asmenims, vadovaujantis Valstybės paslapčių ir jų apsaugos įstatymu, įsigaliojus Valstybės ir tarnybos paslapčių įstatymui, lieka galioti, kol bus išduoti leidimai [[latest/TAR.F4CA26A706AF|Valstybės ir tarnybos paslapčių įstatymo]] nustatyta tvarka. ^s-adcc141352e846da40418993
+1. Leidimai dirbti su valstybės paslaptį sudarančiomis žiniomis (informacija), išduoti asmenims, vadovaujantis [Valstybės paslapčių ir jų apsaugos įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.A91A47D46C52), įsigaliojus Valstybės ir tarnybos paslapčių įstatymui, lieka galioti, kol bus išduoti leidimai [[latest/TAR.F4CA26A706AF|Valstybės ir tarnybos paslapčių įstatymo]] nustatyta tvarka. ^s-adcc141352e846da40418993
 
 
-2. Teisė susipažinti su valstybės paslaptį sudarančiomis žiniomis (informacija), suteikta asmenims pagal Valstybės paslapčių ir jų apsaugos įstatyme numatytas tarnybos pareigas, išlieka tol, kol šiems asmenims [[latest/TAR.F4CA26A706AF|Valstybės ir tarnybos paslapčių įstatymo]] nustatyta tvarka bus išduoti leidimai dirbti ar susipažinti su valstybės paslaptį sudarančia informacija, bet ne ilgiau kaip iki 2000 m. lapkričio 25 d.“ ^s-dbb5c30adb2c2d85fb7199c2
+2. Teisė susipažinti su valstybės paslaptį sudarančiomis žiniomis (informacija), suteikta asmenims pagal [Valstybės paslapčių ir jų apsaugos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A91A47D46C52) numatytas tarnybos pareigas, išlieka tol, kol šiems asmenims [[latest/TAR.F4CA26A706AF|Valstybės ir tarnybos paslapčių įstatymo]] nustatyta tvarka bus išduoti leidimai dirbti ar susipažinti su valstybės paslaptį sudarančia informacija, bet ne ilgiau kaip iki 2000 m. lapkričio 25 d.“ ^s-dbb5c30adb2c2d85fb7199c2
 
 
 

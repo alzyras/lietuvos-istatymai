@@ -184,7 +184,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 „15 straipsnis. Mokesčiai, valstybės rinkliava ir kitos įmokos zonoje
 
 
-1. Zonoje įregistruotos įmonės ir jų darbuotojai Europos Sąjungos teisės aktų ir jų taikymo Lietuvos Respublikoje tvarką reglamentuojančių teisės aktų nustatyta tvarka moka importo muitus, apibrėžtus 1992 m. spalio 12 d. Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, 4 straipsnio 10 punkte. Zonoje įregistruotos įmonės ir jų darbuotojai Lietuvos Respublikos įstatymų nustatyta tvarka moka valstybės rinkliavą, mokesčius ir įmokas: ^s-2f51ebe582a05968c6b87630
+1. Zonoje įregistruotos įmonės ir jų darbuotojai Europos Sąjungos teisės aktų ir jų taikymo Lietuvos Respublikoje tvarką reglamentuojančių teisės aktų nustatyta tvarka moka importo muitus, apibrėžtus 1992 m. spalio 12 d. Tarybos [reglamento (EEB) Nr. 2913/92](https://eur-lex.europa.eu/eli/reg/2913/92/oj), nustatančio Bendrijos muitinės kodeksą, 4 straipsnio 10 punkte. Zonoje įregistruotos įmonės ir jų darbuotojai Lietuvos Respublikos įstatymų nustatyta tvarka moka valstybės rinkliavą, mokesčius ir įmokas: ^s-2f51ebe582a05968c6b87630
 
 
 1) pelno mokestį; ^s-b8e0f420cafc2e3032bff985
@@ -226,7 +226,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 6. Zonos valdymo bendrovė moka Lietuvos Respublikos įstatymų atitinkamoms įmonėms nustatytus mokesčius. ^s-9a6bc700e9d7ed5e5f4ce36c
 
 
-7. Šio straipsnio 2, 3, 4 ir [[#^s-9247e991772689e7b79da096|5 dalyse]] nustatytos mokesčių lengvatos ir kiti valstybės pagalbos būdai zonos įmonėms taikomi tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, reglamentuojantiems valstybės pagalbos teikimą, ir Lietuvos Respublikos Vyriausybės nustatytai valstybės pagalbos teikimo ir priežiūros tvarkai.“ ^s-e6d28564a97f304fdcbef81c
+7. Šio straipsnio [[#^s-26f7f8e0a6a18c67fde862c9|2]], [[#^s-6168d93b472dea511281a09a|3]], [[#^s-7600953170c857e187e91c36|4]] ir [[#^s-9247e991772689e7b79da096|5]] dalyse nustatytos mokesčių lengvatos ir kiti valstybės pagalbos būdai zonos įmonėms taikomi tiek, kiek tai neprieštarauja Europos Sąjungos teisės aktams, reglamentuojantiems valstybės pagalbos teikimą, ir Lietuvos Respublikos Vyriausybės nustatytai valstybės pagalbos teikimo ir priežiūros tvarkai.“ ^s-e6d28564a97f304fdcbef81c
 
 
 

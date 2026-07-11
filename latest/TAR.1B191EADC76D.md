@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-d19380222af7ed0ac311cc4b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. vasario 11 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl įrodymų civilinėse arba komercinėse bylose paėmimo užsienyje“, ratifikuoja su pareiškimais 1970 m. kovo 18 d. sudarytą Konvenciją dėl įrodymų civilinėse arba komercinėse bylose paėmimo užsienyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. vasario 11 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl įrodymų civilinėse arba komercinėse bylose paėmimo užsienyje“](https://e-tar.lt/portal/lt/legalAct/TAR.0E7D490FD86D), ratifikuoja su pareiškimais 1970 m. kovo 18 d. sudarytą Konvenciją dėl įrodymų civilinėse arba komercinėse bylose paėmimo užsienyje.
 
 
 

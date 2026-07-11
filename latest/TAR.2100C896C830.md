@@ -55,7 +55,7 @@ Vilnius
 ### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-a5c2249e152658dcd85eace1
 
 
-1. [[#^s-cb50ac5f07d9b1d4ca22640e|2 straipsnio 1 dalyje]] išbraukti žodžius „ar jų“, po žodžio „mišiniai“ įrašyti žodžius „ir natūralūs produktai, kurių sudėtyje yra pirmtakų“ ir šią dalį išdėstyti taip: ^s-cb50ac5f07d9b1d4ca22640e
+1. 2 straipsnio 1 dalyje išbraukti žodžius „ar jų“, po žodžio „mišiniai“ įrašyti žodžius „ir natūralūs produktai, kurių sudėtyje yra pirmtakų“ ir šią dalį išdėstyti taip: ^s-cb50ac5f07d9b1d4ca22640e
 
 
 „1. Narkotinių ir psichotropinių medžiagų pirmtakai (prekursoriai) (toliau – pirmtakai) – cheminės medžiagos, šių medžiagų druskos, mišiniai ir natūralūs produktai, kurių sudėtyje yra pirmtakų, dažnai naudojami neteisėtai narkotinių ir psichotropinių medžiagų gamybai ir dėl to kontroliuojami pagal Jungtinių Tautų 1998 metų konvenciją „Dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta“, ir įrašyti į Sveikatos apsaugos ministerijos patvirtintą pirmtakų (prekursorių) sąrašą.“
@@ -67,7 +67,7 @@ Vilnius
 „8. Su pirmtakais susijusi veikla - pirmtakų gamyba, perdirbimas, sandėliavimas, didmeninė ar mažmeninė prekyba, įskaitant prekybos tarpininko bei muitinės tarpininko veiklą, taip pat pirmtakų importas, eksportas, tranzitas.“
 
 
-3. Papildyti [[#^s-a5c2249e152658dcd85eace1|2 straipsnį]] 9 ir [[#^s-1ce9b1f354e373e7f7e029dc|10 dalimis]]: ^s-72c44c9d9dcbc8f661ab37d2
+3. Papildyti [[#^s-a5c2249e152658dcd85eace1|2 straipsnį]] 9 ir [[#^s-1ce9b1f354e373e7f7e029dc|10]] dalimis: ^s-72c44c9d9dcbc8f661ab37d2
 
 
 „9. Neterminuotas eksporto leidimas – Vyriausybės įgaliotos institucijos išduodamas nustatytos formos dokumentas, suteikiantis teisę jo turėtojui neribotą laiką eksportuoti II kategorijos pirmtakus.
@@ -138,7 +138,7 @@ Subjektai, kurie verčiasi su I ir II kategorijų pirmtakais susijusia veikla be
 2. 10 straipsnio 3 dalyje vietoj žodžių „jei eksportuojamo pirmtakų siuntinio svoris viršija Lietuvos Respublikos Vyriausybės įgaliotos institucijos nustatytąjį“ įrašyti žodžius „ir šio straipsnio 2 dalyje nurodyti neterminuoti eksporto leidimai“ ir šią dalį išdėstyti taip: ^s-d7092d24428e897fdbece68c
 
 
-„3. Leidimai importuoti, eksportuoti, gabenti tranzitu I kategorijos pirmtakus bei eksportuoti II ir III kategorijų pirmtakus į šalis, kurių sąrašas patvirtintas Lietuvos Respublikos Vyriausybės, ir [[#^s-d7092d24428e897fdbece68c|šio straipsnio 2 dalyje]] nurodyti neterminuoti eksporto leidimai išduodami Lietuvos Respublikos Vyriausybės nustatyta tvarka.“
+„3. Leidimai importuoti, eksportuoti, gabenti tranzitu I kategorijos pirmtakus bei eksportuoti II ir III kategorijų pirmtakus į šalis, kurių sąrašas patvirtintas Lietuvos Respublikos Vyriausybės, ir šio straipsnio 2 dalyje nurodyti neterminuoti eksporto leidimai išduodami Lietuvos Respublikos Vyriausybės nustatyta tvarka.“
 
 
 
@@ -165,7 +165,7 @@ Subjektai, kurie verčiasi su I ir II kategorijų pirmtakais susijusia veikla be
 14 straipsnį papildyti 3 dalimi:
 
 
-„3. Su pirmtakais susijusiai subjektų veiklai laisvosiose ekonominėse zonose ir laisvuosiuose sandėliuose, kuri vykdoma šio įstatymo, Muitinės kodekso, laisvųjų ekonominių zonų bei laisvųjų sandėlių veiklą reglamentuojančių teisės aktų nustatyta tvarka, taikomos šio straipsnio 2 dalyje nurodytos kontrolės priemonės.“
+„3. Su pirmtakais susijusiai subjektų veiklai laisvosiose ekonominėse zonose ir laisvuosiuose sandėliuose, kuri vykdoma šio įstatymo, [Muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), laisvųjų ekonominių zonų bei laisvųjų sandėlių veiklą reglamentuojančių teisės aktų nustatyta tvarka, taikomos šio straipsnio 2 dalyje nurodytos kontrolės priemonės.“
 
 
 

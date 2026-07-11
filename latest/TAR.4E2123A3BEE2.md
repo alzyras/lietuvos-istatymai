@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-3af5f26c0e6d3d3f09187839
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-4bc8872820546bc80e813288|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 2 dalimi]] bei atsižvelgdamas į Respublikos Prezidento 2002 m. gegužės 13 d. dekretą Nr. 1770, ratifikuoja Lietuvos Respublikos ir Azerbaidžano Respublikos sutartį dėl asmenų, nuteistų laisvės atėmimu, perdavimo likusiai bausmei atlikti, pasirašytą 2001 m. spalio 23 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-4bc8872820546bc80e813288|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 2 dalimi]] bei atsižvelgdamas į Respublikos Prezidento [2002 m. gegužės 13 d. dekretą Nr. 1770](https://e-tar.lt/portal/lt/legalAct/TAR.887F6284EE97), ratifikuoja Lietuvos Respublikos ir Azerbaidžano Respublikos sutartį dėl asmenų, nuteistų laisvės atėmimu, perdavimo likusiai bausmei atlikti, pasirašytą 2001 m. spalio 23 d. Vilniuje.
 
 
 

@@ -61,7 +61,7 @@ Vilnius
 ### 3 straipsnis. 12 straipsnio pakeitimas ^s-83325501be0dc918c81b6db1
 
 
-12 straipsnio 1 ir [[#^s-c3cd265e0b169d45c6ee2255|2 dalyse]] po žodžių „be specialių tikslinių dotacijų“ įrašyti žodžius „ir pajamų iš vietinių rinkliavų“, [[#^s-c3cd265e0b169d45c6ee2255|2 dalyje]] vietoj skaičiaus ir žodžio „20 procentų“ įrašyti skaičių ir žodį „21 procentu“ ir šį straipsnį išdėstyti taip:
+12 straipsnio 1 ir 2 dalyse po žodžių „be specialių tikslinių dotacijų“ įrašyti žodžius „ir pajamų iš vietinių rinkliavų“, [[#^s-c3cd265e0b169d45c6ee2255|2 dalyje]] vietoj skaičiaus ir žodžio „20 procentų“ įrašyti skaičių ir žodį „21 procentu“ ir šį straipsnį išdėstyti taip:
 
 
 

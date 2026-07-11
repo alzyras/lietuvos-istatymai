@@ -66,7 +66,7 @@ Papildyti Lietuvos Respublikos žemės ūkio įmonių turto privatizavimo įstat
 2) kitas neprivatizuotas turtas parduodamas įmonėms, įsteigtoms buvusioje privatizuojamos žemės ūkio įmonės teritorijoje, ir šio įstatymo 3 straipsnio 1-4 punktuose išvardytiems asmenims pagal ekonominį tikslingumą konkurso tvarka už ne mažesnę kaip 5 procentų turto vertės kainą. Konkursą organizuoja apylinkės agrarinės reformos tarnyba;
 
 
-3) žemės ūkio įmonėms pageidaujant, apylinkių ir rajonų savivaldybės (jų skyriai) turi parduoti 5 procentų šio turto vertės kaina neprivatizuotus socialinės ir kitos paskirties objektus, gyvenamuosius namus, pastatytus buvusių žemės ūkio įmonių lėšomis, perduotus savivaldybėms Lietuvos Respublikos Vyriausybės 1990 m. rugsėjo 28 d. nutarimu Nr.298 ir 1990 m. spalio 12 d. nutarimu Nr.420;
+3) žemės ūkio įmonėms pageidaujant, apylinkių ir rajonų savivaldybės (jų skyriai) turi parduoti 5 procentų šio turto vertės kaina neprivatizuotus socialinės ir kitos paskirties objektus, gyvenamuosius namus, pastatytus buvusių žemės ūkio įmonių lėšomis, perduotus savivaldybėms Lietuvos Respublikos Vyriausybės [1990 m. rugsėjo 28 d. nutarimu Nr.298](https://e-tar.lt/portal/lt/legalAct/TAR.E702AD862384) ir 1990 m. spalio 12 d. nutarimu Nr.420;
 
 
 4) išpirkto turto vertė žemės ūkio įmonių nariams paskirstoma [[latest/TAR.4A9B29FE9E04|Lietuvos Respublikos žemės ūkio bendrovių įstatymo]] nustatyta tvarka.“

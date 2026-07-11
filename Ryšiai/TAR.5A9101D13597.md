@@ -9,10 +9,8 @@ pavadinimas: "Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 1, 2
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.234B15954C2F|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo
 - [[latest/TAR.FF33B3BF23DD|Lietuvos Respublikos farmacijos įstatymas]] - Lietuvos Respublikos farmacijos įstatymas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.234B15954C2F#^s-c74fab25957445b0d52ecbbf|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - 3 citatos - 1071010ISTA00X-1325
-- [[latest/TAR.234B15954C2F#^s-fad71d38ad61a6b03c1ea981|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - 3 citatos - 1071010ISTA00X-1325
+- [[latest/TAR.234B15954C2F#^s-fad71d38ad61a6b03c1ea981|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - 2 citatos - 1071010ISTA00X-1325

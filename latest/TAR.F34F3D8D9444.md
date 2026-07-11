@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-5d4e1b2994555429a8dde138
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 24 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos susitarimą dėl svarbiausių tarptautinės reikšmės vidaus vandens kelių (AGN)“, ratifikuoja 1997 m. birželio 26 d. Helsinkyje pasirašytą Europos susitarimą dėl svarbiausių tarptautinės reikšmės vidaus vandens kelių (AGN).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 24 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos susitarimą dėl svarbiausių tarptautinės reikšmės vidaus vandens kelių (AGN)“](https://e-tar.lt/portal/lt/legalAct/TAR.A83FA108C749), ratifikuoja 1997 m. birželio 26 d. Helsinkyje pasirašytą Europos susitarimą dėl svarbiausių tarptautinės reikšmės vidaus vandens kelių (AGN).
 
 
 

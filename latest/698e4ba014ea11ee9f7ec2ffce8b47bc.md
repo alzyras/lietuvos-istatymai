@@ -198,7 +198,7 @@ priima šį įstatymą.
 3. Projektą pripažįsta mecenuojamuoju, bendruomenės mecenato vardą suteikia ir sprendimus dėl bendruomenės mecenato vardo panaikinimo priima tos valdymo srities, kurioje įgyvendinamas mecenuojamasis projektas, ministras, įvertinęs Mecenavimo tarybos siūlymą. ^s-cd5ef9187536907161a72341
 
 
-4. Prašymus Mecenavimo tarybai siūlyti šio straipsnio 1–[[#^s-cd5ef9187536907161a72341|3 dalyse]] nurodytiems subjektams projektą pripažinti mecenuojamuoju projektu ir asmeniui, suteikusiam paramą projektui, suteikti nacionalinio, savivaldybės ar bendruomenės mecenato vardą turi teisę teikti projektą įgyvendinantys juridiniai asmenys, kuriems [[latest/TAR.C0FF21832A85|Labdaros ir paramos įstatyme]] nustatyta tvarka suteiktas paramos gavėjo statusas. ^s-0a43292f6f587acd3943eb3b
+4. Prašymus Mecenavimo tarybai siūlyti šio straipsnio [[#^s-301d193e4b6cfdb6d47f8120|1]]–[[#^s-cd5ef9187536907161a72341|3]] dalyse nurodytiems subjektams projektą pripažinti mecenuojamuoju projektu ir asmeniui, suteikusiam paramą projektui, suteikti nacionalinio, savivaldybės ar bendruomenės mecenato vardą turi teisę teikti projektą įgyvendinantys juridiniai asmenys, kuriems [[latest/TAR.C0FF21832A85|Labdaros ir paramos įstatyme]] nustatyta tvarka suteiktas paramos gavėjo statusas. ^s-0a43292f6f587acd3943eb3b
 
 
 5. Mecenavimo tarybą sudaro, jos institucinę sudėtį ir Mecenavimo tarybos nuostatus tvirtina Vyriausybė. Mecenavimo tarybos personalinę sudėtį tvirtina kultūros ministras. Mecenavimo tarybą techniškai aptarnauja Kultūros ministerija. ^s-d5662cb0bc0616333c7d680c
@@ -207,7 +207,7 @@ priima šį įstatymą.
 6. Mecenavimo taryba atlieka šias funkcijas: ^s-d4f14f135a7851c0fc02243a
 
 
-1) vertina projektų ir asmenų atitiktį šio įstatymo 3 ir [[#^s-f702f2389cee16b24e4e91aa|4 straipsniuose]] nustatytiems reikalavimams ir teikia šio straipsnio 1–[[#^s-cd5ef9187536907161a72341|3 dalyse]] nurodytiems subjektams siūlymus dėl projektų pripažinimo mecenuojamaisiais ir nacionalinio mecenato, savivaldybės mecenato ar bendruomenės mecenato vardo suteikimo; ^s-5c9309925768ef7ad4daa662
+1) vertina projektų ir asmenų atitiktį šio įstatymo [[#^s-fb1c135db83e4cf2646ced33|3]] ir [[#^s-f702f2389cee16b24e4e91aa|4]] straipsniuose nustatytiems reikalavimams ir teikia šio straipsnio [[#^s-4e5691da48eee493d5806207|1]]–[[latest/2d294490698b11e8ac27abd8fa093003|3]] dalyse nurodytiems subjektams siūlymus dėl projektų pripažinimo mecenuojamaisiais ir nacionalinio mecenato, savivaldybės mecenato ar bendruomenės mecenato vardo suteikimo; ^s-5c9309925768ef7ad4daa662
 
 
 2) analizuoja mecenavimo ir paramos procesus, aktualias šios srities problemas, teikia Kultūros ministerijai pasiūlymus dėl šių problemų sprendimo ir mecenavimą reglamentuojančių teisės aktų tobulinimo; ^s-f3c7598c031f3e1db48b667d
@@ -236,7 +236,7 @@ priima šį įstatymą.
 1. Nacionalinių mecenatų, savivaldybės mecenatų ir bendruomenės mecenatų vardai įrašomi į Mecenatų knygą. Mecenatų knyga pildoma ir saugoma Nacionaliniame muziejuje Lietuvos Didžiosios Kunigaikštystės valdovų rūmuose. ^s-0e64378e559e360958ad1e31
 
 
-2. Mecenato vardą gavusių ar jo netekusių fizinių asmenų asmens duomenys yra tvarkomi Kultūros ministerijos, kaip duomenų valdytojo, siekiant viešojo intereso ir įgyvendinant šiame įstatyme nustatytus tikslus, vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/14/EB (Bendruoju duomenų apsaugos reglamentu), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir kitais asmens duomenų apsaugą reglamentuojančiais teisės aktais. ^s-97431853955bd425b6d589a2
+2. Mecenato vardą gavusių ar jo netekusių fizinių asmenų asmens duomenys yra tvarkomi Kultūros ministerijos, kaip duomenų valdytojo, siekiant viešojo intereso ir įgyvendinant šiame įstatyme nustatytus tikslus, vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/14/EB (Bendruoju duomenų apsaugos reglamentu), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir kitais asmens duomenų apsaugą reglamentuojančiais teisės aktais. ^s-97431853955bd425b6d589a2
 
 
 
@@ -253,7 +253,7 @@ priima šį įstatymą.
 ### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-0d22e9bfa3b4113758b8c0ae
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2024 m. sausio 1 d. ^s-1835db3df691568a6c83c320
+1. Šis įstatymas, išskyrus [[latest/2d294490698b11e8ac27abd8fa093003|šio straipsnio 2 dalį]], įsigalioja 2024 m. sausio 1 d. ^s-1835db3df691568a6c83c320
 
 
 2. Lietuvos Respublikos Vyriausybė ir kultūros ministras iki 2023 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-bb4d7ea953fcbeee396f8157

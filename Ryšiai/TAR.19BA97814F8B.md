@@ -13,7 +13,5 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C6E4170DB704#^s-376443593f8fc572972f8c1a|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas]] - 3 citatos - 1131010ISTA0XII-546
+- [[latest/TAR.C6E4170DB704#^s-376443593f8fc572972f8c1a|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas]] - 2 citatos - 1131010ISTA0XII-546
 - [[latest/TAR.C6E4170DB704#^s-75bd59b021556b7cc8f5ec1b|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas]] - 1131010ISTA0XII-546
-- [[latest/TAR.C6E4170DB704#^s-8dc4b71d2df081d9864f571e|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas]] - 3 citatos - 1131010ISTA0XII-546
-- [[latest/TAR.C6E4170DB704#^s-9dc18e2a705eca6ea401d1cd|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas]] - 1131010ISTA0XII-546

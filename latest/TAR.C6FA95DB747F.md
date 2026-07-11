@@ -118,7 +118,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 6. Priežiūros komisijos narys pareigas gali eiti tik Priežiūros komisijoje, taip pat dirbti mokslinį arba pedagoginį darbą. ^s-e90471a715eb402b30257cc4
 
 
-7. Priežiūros komisijos nariai yra skatinami, atsako, jiems teikiamos socialinės bei kitos garantijos [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso]] ir kitų teisės aktų nustatyta tvarka. Priežiūros komisijos nariams už darbą mokama Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. ^s-7d5dc68ba13ed4ab7bc4bc7b
+7. Priežiūros komisijos nariai yra skatinami, atsako, jiems teikiamos socialinės bei kitos garantijos [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso]] ir kitų teisės aktų nustatyta tvarka. Priežiūros komisijos nariams už darbą mokama Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka. ^s-7d5dc68ba13ed4ab7bc4bc7b
 
 
 8. Priežiūros komisijos funkcijoms atlikti sudaroma valstybės tarnautojų ir darbuotojų administracija. Jos struktūrą ir pareigybių sąrašą, neviršydamas lėšų, patvirtintų darbo užmokesčiui, tvirtina Priežiūros komisijos pirmininkas. ^s-ae3701f2be3cfbaf12172419

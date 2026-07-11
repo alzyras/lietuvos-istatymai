@@ -66,7 +66,7 @@ BENDROSIOS NUOSTATOS
 1. Asmuo – fizinis arba juridinis asmuo, kita organizacija ar jų padalinys. ^s-845eb17577198a1c3768f40c
 
 
-2. Europos Sąjungos prekių ženklas – ženklas, kaip jis apibrėžiamas 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 2017/1001 dėl Europos Sąjungos prekių ženklo (kodifikuota redakcija) (toliau – Europos Sąjungos prekių ženklų reglamentas). ^s-7109e1f6d02b24e3abc6fbf8
+2. Europos Sąjungos prekių ženklas – ženklas, kaip jis apibrėžiamas 2017 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamente (ES) Nr. 2017/1001](https://eur-lex.europa.eu/eli/reg/2017/1001/oj) dėl Europos Sąjungos prekių ženklo (kodifikuota redakcija) (toliau – Europos Sąjungos prekių ženklų reglamentas). ^s-7109e1f6d02b24e3abc6fbf8
 
 
 3. Geografinė kilmė – šalis, teritorija, regionas ar vietovė, pagal kurią galima nustatyti prekės ar paslaugos tikrąją kilmės vietą. ^s-ee0587bb9cb583824fadd8db
@@ -114,7 +114,7 @@ BENDROSIOS NUOSTATOS
 17. Tarptautinio biuro tarptautinių ženklų biuletenis – Pasaulinės intelektinės nuosavybės organizacijos Tarptautinio biuro periodinis leidinys „WIPO Gazette of International Marks“, kuriame Tarptautinis biuras skelbia tarptautinės ženklų registracijos duomenis. ^s-b867eac62a1b2ff3513f9f3f
 
 
-18. Trečioji valstybė – valstybė, nepriklausanti Sąjungos muitų teritorijai, kaip ji apibrėžiama 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 952/2013 (OL 2013 L 269, p. 1), kuriuo nustatomas Sąjungos muitinės kodeksas. ^s-9c577ce277423894c4315786
+18. Trečioji valstybė – valstybė, nepriklausanti Sąjungos muitų teritorijai, kaip ji apibrėžiama 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 952/2013 (OL 2013 L 269, p. 1), kuriuo nustatomas Sąjungos [muitinės kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145). ^s-9c577ce277423894c4315786
 
 
 19. Ženklo paraiška (toliau – paraiška) – visuma dokumentų, kuriuos šio įstatymo nustatyta tvarka Valstybiniam patentų biurui turi pateikti pareiškėjas, norintis įregistruoti ženklą. ^s-3e0f798e3fdfb46eb1b8577f
@@ -246,7 +246,7 @@ c) formos ar kitų charakteristikų, kurios prekėms suteikia esminę vertę;
 ### 8 straipsnis. Santykiniai atsisakymo registruoti ženklą ar ženklo registracijos pripažinimo negaliojančia pagrindai ^s-e9b59372df831a52ea178658
 
 
-1. Jeigu  suinteresuotas asmuo užginčija paraišką ar ženklo registraciją šio įstatymo 56 ar [[#^s-b257428075f07631701a3251|58 straipsnyje]] nustatyta tvarka, ženklas neregistruojamas arba įregistruoto ženklo registracija pripažįstama negaliojančia, jeigu: ^s-1cb1ad123ea8aef0a62e598e
+1. Jeigu  suinteresuotas asmuo užginčija paraišką ar ženklo registraciją šio įstatymo [[#^s-a0690efad06a0bd2c34b5829|56]] ar [[#^s-b257428075f07631701a3251|58]] straipsnyje nustatyta tvarka, ženklas neregistruojamas arba įregistruoto ženklo registracija pripažįstama negaliojančia, jeigu: ^s-1cb1ad123ea8aef0a62e598e
 
 
 1) jis tapatus ankstesniam ženklui, o prekės ar paslaugos, kurioms jis pareikštas registruoti arba kurioms jis yra įregistruotas, yra tapačios prekėms ar paslaugoms, kurioms ankstesnis ženklas yra saugomas; ^s-2b9310592a970c5c1d082fc7
@@ -276,7 +276,7 @@ c) autorių teises;
 d) pramoninės nuosavybės teises.
 
 
-2. [[#^s-1cb1ad123ea8aef0a62e598e|Šio straipsnio 1 dalies]] 1, 2 ir [[#^s-9c26ca16f7f0688861300b30|3 punktuose]] nurodytas ankstesnis ženklas yra: ^s-3dba9707ae141d314c332de1
+2. [[#^s-1cb1ad123ea8aef0a62e598e|Šio straipsnio 1 dalies]] [[#^s-7cca5cac31745c22b529864c|1]], [[#^s-28c2ce3ee23b740324c7d465|2]] ir [[#^s-9c26ca16f7f0688861300b30|3]] punktuose nurodytas ankstesnis ženklas yra: ^s-3dba9707ae141d314c332de1
 
 
 1) ženklas, kurio paraiškos padavimo Lietuvos Respublikoje data yra ankstesnė už [[#^s-1cb1ad123ea8aef0a62e598e|šio straipsnio 1 dalyje]] nurodyto ženklo paraiškos padavimo datą, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą; ^s-7cca5cac31745c22b529864c
@@ -288,16 +288,16 @@ d) pramoninės nuosavybės teises.
 3) Europos Sąjungos prekių ženklas, kurio paraiškos padavimo data pagal Europos Sąjungos prekių ženklų reglamentą yra ankstesnė už [[#^s-1cb1ad123ea8aef0a62e598e|šio straipsnio 1 dalyje]] nurodyto ženklo paraiškos padavimo datą, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą; ^s-9c26ca16f7f0688861300b30
 
 
-4) Europos Sąjungos prekių ženklas, kuriam pagal Europos Sąjungos prekių ženklų reglamentą pagrįstai prašoma suteikti pirmenybę remiantis šios dalies 1 ar [[#^s-28c2ce3ee23b740324c7d465|2 punkte]] nurodytu ženklu, net jeigu pastarojo ženklo buvo atsisakyta arba leista pasibaigti jo galiojimo laikui; ^s-86cfa7a57754735320b754f0
+4) Europos Sąjungos prekių ženklas, kuriam pagal Europos Sąjungos prekių ženklų reglamentą pagrįstai prašoma suteikti pirmenybę remiantis šios dalies [[#^s-7cca5cac31745c22b529864c|1]] ar [[#^s-28c2ce3ee23b740324c7d465|2]] punkte nurodytu ženklu, net jeigu pastarojo ženklo buvo atsisakyta arba leista pasibaigti jo galiojimo laikui; ^s-86cfa7a57754735320b754f0
 
 
-5) šios dalies 1–[[#^s-86cfa7a57754735320b754f0|4 punktuose]] nurodyto ženklo paraiška, atsižvelgiant į tai, ar ankstesnis ženklas bus įregistruotas; ^s-7e14901356d279b4b434edae
+5) šios dalies [[#^s-7cca5cac31745c22b529864c|1]]–[[#^s-86cfa7a57754735320b754f0|4]] punktuose nurodyto ženklo paraiška, atsižvelgiant į tai, ar ankstesnis ženklas bus įregistruotas; ^s-7e14901356d279b4b434edae
 
 
 6) ženklas, kuris pagal [[#^s-1cb1ad123ea8aef0a62e598e|šio straipsnio 1 dalyje]] nurodyto ženklo paraiškos padavimo datą, prireikus atsižvelgiant į prašomą suteikti ar suteiktą prioritetą, yra pripažintas plačiai žinomu Lietuvos Respublikoje. ^s-1406d40bcc764f50449163fb
 
 
-3. Jeigu suinteresuotas asmuo užginčija paraišką ar ženklo registraciją šio įstatymo 56 ar [[#^s-b257428075f07631701a3251|58 straipsnyje]] nustatyta tvarka, ženklas neregistruojamas arba įregistruoto ženklo registracija pripažįstama negaliojančia tais atvejais ir tokia apimtimi, kiek numatyta pagal Europos Sąjungos ar Lietuvos Respublikos teisės aktus, nustatančius kilmės vietos nuorodų ir geografinių nuorodų apsaugą, kai yra šios sąlygos: ^s-3c8c8c6ce5b20d2d163a2d52
+3. Jeigu suinteresuotas asmuo užginčija paraišką ar ženklo registraciją šio įstatymo [[#^s-a0690efad06a0bd2c34b5829|56]] ar [[#^s-b257428075f07631701a3251|58]] straipsnyje nustatyta tvarka, ženklas neregistruojamas arba įregistruoto ženklo registracija pripažįstama negaliojančia tais atvejais ir tokia apimtimi, kiek numatyta pagal Europos Sąjungos ar Lietuvos Respublikos teisės aktus, nustatančius kilmės vietos nuorodų ir geografinių nuorodų apsaugą, kai yra šios sąlygos: ^s-3c8c8c6ce5b20d2d163a2d52
 
 
 1) paraiška dėl kilmės vietos nuorodos ar geografinės nuorodos registravimo pateikta pagal Europos Sąjungos ar Lietuvos Respublikos teisės aktus iki paraiškos įregistruoti ženklą padavimo datos, prireikus atsižvelgiant į prioritetą, ir kilmės vietos nuoroda ar geografinė nuoroda vėliau įregistruojama; ^s-749c255dab176ae2ebbe30d2
@@ -313,7 +313,7 @@ d) pramoninės nuosavybės teises.
 ### 9 straipsnis. Atsisakymas registruoti ženklą ar ženklo registracijos pripažinimas negaliojančia tik tam tikroms prekėms ar paslaugoms ^s-a5342a1e2598df61b3018dac
 
 
-Jeigu atsisakymo registruoti ženklą ar ženklo registracijos pripažinimo negaliojančia pagrindai pagal šio įstatymo 7 ar [[#^s-e9b59372df831a52ea178658|8 straipsnį]] egzistuoja tik tam tikroms prekėms ar paslaugoms, kurioms tas ženklas pareikštas registruoti arba kurioms jis yra įregistruotas, atsisakymas registruoti ženklą ar ženklo registracijos pripažinimas negaliojančia taikomas tik toms prekėms ar paslaugoms.
+Jeigu atsisakymo registruoti ženklą ar ženklo registracijos pripažinimo negaliojančia pagrindai pagal šio įstatymo [[#^s-4fdee775e68ab109d777b420|7]] ar [[#^s-e9b59372df831a52ea178658|8]] straipsnį egzistuoja tik tam tikroms prekėms ar paslaugoms, kurioms tas ženklas pareikštas registruoti arba kurioms jis yra įregistruotas, atsisakymas registruoti ženklą ar ženklo registracijos pripažinimas negaliojančia taikomas tik toms prekėms ar paslaugoms.
 
 
 
@@ -330,7 +330,7 @@ Lietuvos Respublikoje įregistruoto ženklo arba ženklo, įregistruoto pagal Ma
 Vėlesnio ženklo registracija negali būti pripažinta negaliojančia prašymo ją pripažinti negaliojančia padavimo dieną remiantis ankstesniu ženklu, jeigu vėlesnio ženklo savininkas įrodo, kad vėlesnio ženklo paraiškos padavimo ar prioriteto datą buvo kuri nors iš šių aplinkybių:
 
 
-1) ankstesnis ženklas, kurio registraciją būtų galima pripažinti negaliojančia pagal šio įstatymo [[#^s-f61ac9cb559a2d34af0f93ac|7 straipsnio 1 dalies]] 2, 3 ar 4 punktą, dar nebuvo įgijęs skiriamojo ženklo požymio, kaip nurodyta šio įstatymo [[#^s-dc31012b88cfd47ef3656a27|7 straipsnio 2 dalyje]]; ^s-9afa1ee50b485edd060e4279
+1) ankstesnis ženklas, kurio registraciją būtų galima pripažinti negaliojančia pagal šio įstatymo [[#^s-f61ac9cb559a2d34af0f93ac|7 straipsnio 1 dalies]] [[#^s-b770a2890f2fcfc004cdbfe7|2]], [[#^s-b2b355e9def938fa1a4834d5|3]] ar [[#^s-d5455c2e03e1e72f1a07cd04|4]] punktą, dar nebuvo įgijęs skiriamojo ženklo požymio, kaip nurodyta šio įstatymo [[#^s-dc31012b88cfd47ef3656a27|7 straipsnio 2 dalyje]]; ^s-9afa1ee50b485edd060e4279
 
 
 2) pripažinti ženklo registraciją negaliojančia prašoma pagal šio įstatymo [[#^s-e910452dc707e0b7bda5dea9|8 straipsnio 1 dalies 2 punktą]], o ankstesnis ženklas dar nebuvo įgijęs pakankamai skiriamųjų ženklo požymių, kad būtų galima pagrįstai nustatyti tikimybę suklaidinti, kaip nurodyta šio įstatymo [[#^s-e910452dc707e0b7bda5dea9|8 straipsnio 1 dalies 2 punkte]]; ^s-39239b6f3abc87a10f623b9b
@@ -410,7 +410,7 @@ Vėlesnio ženklo registracija negali būti pripažinta negaliojančia prašymo 
 4. Nepažeisdamas kitų savininkų teisių, įgytų iki įregistruoto ženklo paraiškos padavimo datos arba prioriteto datos, šio ženklo savininkas taip pat turi teisę uždrausti kitiems asmenims vykdant komercinę veiklą įvežti prekių į Lietuvos Respubliką neišleidžiant jų į laisvą apyvartą Lietuvos Respublikos teritorijoje, kai tokios prekės, įskaitant jų pakuotę, įvežamos iš trečiųjų valstybių ir yra be ženklo savininko sutikimo pažymėtos ženklu, kuris yra tapatus tokioms prekėms įregistruotam ženklui arba kurio pagal esminius požymius negalima atskirti nuo to ženklo. ^s-b47d49a153c230150ccb02f1
 
 
-5. [[#^s-b47d49a153c230150ccb02f1|Šio straipsnio 4 dalis]] netaikoma, jeigu pagal Europos Parlamento ir Tarybos 2013 m. birželio 12 d. reglamentą (ES) Nr. 608/2013 dėl muitinės atliekamo intelektinės nuosavybės teisių vykdymo užtikrinimo, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1383/2003 (OL 2013 L 181, 15 p.), pradėtų procedūrų, atliekamų siekiant nustatyti, ar buvo pažeistos įregistruoto ženklo savininko teisės, metu deklarantas ar prekių turėtojas pateikia įrodymus, kad įregistruoto ženklo savininkas neturi teisės uždrausti pateikti prekes rinkai galutinės paskirties valstybėje. ^s-40f24b29f8d221fd91fca08d
+5. [[#^s-b47d49a153c230150ccb02f1|Šio straipsnio 4 dalis]] netaikoma, jeigu pagal Europos Parlamento ir Tarybos 2013 m. birželio 12 d. reglamentą (ES) Nr. 608/2013 dėl muitinės atliekamo intelektinės nuosavybės teisių vykdymo užtikrinimo, kuriuo panaikinamas Tarybos [reglamentas (EB) Nr. 1383/2003](https://eur-lex.europa.eu/eli/reg/1383/2003/oj) (OL 2013 L 181, 15 p.), pradėtų procedūrų, atliekamų siekiant nustatyti, ar buvo pažeistos įregistruoto ženklo savininko teisės, metu deklarantas ar prekių turėtojas pateikia įrodymus, kad įregistruoto ženklo savininkas neturi teisės uždrausti pateikti prekes rinkai galutinės paskirties valstybėje. ^s-40f24b29f8d221fd91fca08d
 
 
 6. Ženklo savininkas taip pat turi teisę uždrausti naudoti žymenį kitais negu prekių ar paslaugų atskyrimo tikslais, jeigu dėl to žymens naudojimo be tinkamos priežasties nesąžiningai pasinaudojama ženklo privalumais, pažeidžiami skiriamieji ženklo požymiai arba pakenkiama ženklo reputacijai. ^s-a2b19b6c61ed174e62e4e8b3
@@ -429,7 +429,7 @@ Vėlesnio ženklo registracija negali būti pripažinta negaliojančia prašymo 
 ### 15 straipsnis. Teisė uždrausti parengiamuosius pakuotės ar kitų priemonių naudojimo veiksmus ^s-92a1d3ddff05c759ea941e9a
 
 
-Kai yra tikimybė, kad pakuotės, etiketės, lipdukai, apsaugos ar autentiškumo žymenys ar įtaisai arba bet kokios kitos priemonės, pažymėtos ženklu, galėtų būti naudojami prekėms ar paslaugoms ir tas naudojimas pažeistų ženklo savininko teises pagal šio įstatymo [[#^s-9c5a8b6f6989205b1144e439|14 straipsnio]] 2 ir 3 dalis, ženklo savininkas turi teisę uždrausti šiuos veiksmus, jeigu jie atliekami vykdant komercinę veiklą:
+Kai yra tikimybė, kad pakuotės, etiketės, lipdukai, apsaugos ar autentiškumo žymenys ar įtaisai arba bet kokios kitos priemonės, pažymėtos ženklu, galėtų būti naudojami prekėms ar paslaugoms ir tas naudojimas pažeistų ženklo savininko teises pagal šio įstatymo [[#^s-9c5a8b6f6989205b1144e439|14 straipsnio]] [[#^s-0559f8914f2ada3ba836105e|2]] ir [[#^s-4fe54256f2941e7f8bf37864|3]] dalis, ženklo savininkas turi teisę uždrausti šiuos veiksmus, jeigu jie atliekami vykdant komercinę veiklą:
 
 
 1) žymėti žymeniu, kuris yra tapatus ženklui arba į jį panašus, pakuotę, etiketes, lipdukus, apsaugos ar autentiškumo žymenis ar įtaisus arba bet kokias kitas priemones, kurios gali būti pažymėtos ženklu; ^s-2ba5223b653087f4740ac64e
@@ -488,13 +488,13 @@ Jeigu ženklą atgaminus žodyne, enciklopedijoje arba panašiame informaciniame
 ### 20 straipsnis. Ženklo naudojimas ^s-2cb1478477669172e4f9e09a
 
 
-1. Jeigu per penkerius metus nuo ženklo įregistravimo Registre ženklo savininkas nepradėjo Lietuvos Respublikoje ženklu iš tikrųjų žymėti prekių ar paslaugų, kurioms jis buvo įregistruotas (toliau – ženklo naudojimas), arba jeigu ženklo naudojimas buvo sustabdytas nepertraukiamam penkerių metų laikotarpiui, taikomos šio įstatymo [[#^s-ceae4080660dc4dbe31c27c5|21 straipsnyje]], [[#^s-fb20102fa511034f0abbfdb3|23 straipsnio 1 dalyje]], [[#^s-8bc59258ec5126bad3cc7273|57 straipsnio]] 1 ir [[#^s-cb4af8078b8cfa47c28a82f5|2 dalyse]], [[#^s-8b32eeebdeb0b526d9a59bc0|59 straipsnio]] 3 ir [[#^s-5f24b584e3c7c7168f5f5b96|4 dalyse]] nurodytos pasekmės, išskyrus atvejus, kai jis nebuvo naudojamas dėl svarbių priežasčių. ^s-38bda5a51eafcc5c32bbfb98
+1. Jeigu per penkerius metus nuo ženklo įregistravimo Registre ženklo savininkas nepradėjo Lietuvos Respublikoje ženklu iš tikrųjų žymėti prekių ar paslaugų, kurioms jis buvo įregistruotas (toliau – ženklo naudojimas), arba jeigu ženklo naudojimas buvo sustabdytas nepertraukiamam penkerių metų laikotarpiui, taikomos šio įstatymo [[#^s-ceae4080660dc4dbe31c27c5|21 straipsnyje]], [[#^s-fb20102fa511034f0abbfdb3|23 straipsnio 1 dalyje]], [[#^s-8bc59258ec5126bad3cc7273|57 straipsnio]] [[#^s-277840936cd961675b92153f|1]] ir [[#^s-a1b94c38fdb8cc7b96868f50|2]] dalyse, [[#^s-8b32eeebdeb0b526d9a59bc0|59 straipsnio]] [[#^s-e28601f5e5936b6e89ecb729|3]] ir [[#^s-5685883a4dcf2b3e70724e3a|4]] dalyse nurodytos pasekmės, išskyrus atvejus, kai jis nebuvo naudojamas dėl svarbių priežasčių. ^s-38bda5a51eafcc5c32bbfb98
 
 
 2. Ženklams, galiojantiems Lietuvos Respublikoje pagal Madrido protokolą, [[#^s-38bda5a51eafcc5c32bbfb98|šio straipsnio 1 dalyje]] nurodytas penkerių metų laikotarpis skaičiuojamas nuo dienos, kai ženklui nebegalima atsisakyti suteikti apsaugos arba jo užprotestuoti pagal šio įstatymo [[#^s-b634304233e8897aa1547a30|65 straipsnį]]. Jeigu atsisakyta suteikti ženklui apsaugą arba pareikštas protestas, tas laikotarpis skaičiuojamas nuo dienos, kai sprendimas, kuriuo užbaigiama protesto procedūra, arba sprendimas suteikti apsaugą tapo galutinis, arba protestas buvo atsiimtas. ^s-cb4af8078b8cfa47c28a82f5
 
 
-3. Taikant šio straipsnio 1 ir [[#^s-cb4af8078b8cfa47c28a82f5|2 dalis]], ženklo naudojimu taip pat laikoma: ^s-bcff7f20a5ac0e0cc0e44885
+3. Taikant šio straipsnio [[#^s-38bda5a51eafcc5c32bbfb98|1]] ir [[#^s-cb4af8078b8cfa47c28a82f5|2]] dalis, ženklo naudojimu taip pat laikoma: ^s-bcff7f20a5ac0e0cc0e44885
 
 
 1) ženklo naudojimas tokia forma, kuri skiriasi savo elementais, jeigu išlieka nepakitę skiriamieji įregistruoto ženklo požymiai, nepaisant to, ar tokios formos, kokia yra naudojamas, ženklas taip pat įregistruotas ženklo savininko vardu; ^s-0496521d1b7732ce272c0de3
@@ -513,20 +513,20 @@ Jeigu ženklą atgaminus žodyne, enciklopedijoje arba panašiame informaciniame
 1. Ženklo savininkas neturi teisės uždrausti naudoti žymenį, jeigu ieškinio dėl teisių pažeidimo pareiškimo dieną ženklo registracija gali būti panaikinta pagal šio įstatymo [[#^s-bd1acd6537b9b8c35b695958|23 straipsnį]]. ^s-6f627b70c3f60d226ee2241d
 
 
-2. Jeigu atsakovas byloje dėl ženklo savininko teisių pažeidimo prašo, ženklo savininkas turi pateikti įrodymų, kad per penkerių metų laikotarpį iki ieškinio pareiškimo ženklas iš tikrųjų buvo naudojamas, kaip nustatyta šio įstatymo [[#^s-2cb1478477669172e4f9e09a|20 straipsnyje]], prekėms ar paslaugoms, kurioms jis įregistruotas ir dėl kurių pareikštas ieškinys, žymėti arba kad yra svarbių priežasčių jo nenaudoti, jeigu ieškinio pareiškimo dieną yra praėję ne mažiau negu penkeri metai pagal šio įstatymo [[#^s-2cb1478477669172e4f9e09a|20 straipsnio]] 1 ar [[#^s-0a08ff006316c05133a0623e|2 dalį]]. ^s-0a08ff006316c05133a0623e
+2. Jeigu atsakovas byloje dėl ženklo savininko teisių pažeidimo prašo, ženklo savininkas turi pateikti įrodymų, kad per penkerių metų laikotarpį iki ieškinio pareiškimo ženklas iš tikrųjų buvo naudojamas, kaip nustatyta šio įstatymo [[#^s-2cb1478477669172e4f9e09a|20 straipsnyje]], prekėms ar paslaugoms, kurioms jis įregistruotas ir dėl kurių pareikštas ieškinys, žymėti arba kad yra svarbių priežasčių jo nenaudoti, jeigu ieškinio pareiškimo dieną yra praėję ne mažiau negu penkeri metai pagal šio įstatymo [[#^s-2cb1478477669172e4f9e09a|20 straipsnio]] [[#^s-38bda5a51eafcc5c32bbfb98|1]] ar [[#^s-cb4af8078b8cfa47c28a82f5|2]] dalį. ^s-0a08ff006316c05133a0623e
 
 
 
 ### 22 straipsnis. Vėlesnio įregistruoto ženklo savininko teisė kaip gynybos priemonė teisių pažeidimo byloje ^s-fbbdcee1521c2552ac7072e5
 
 
-1. Ženklo savininkas neturi teisės uždrausti naudoti vėlesnį įregistruotą ženklą, jeigu to vėlesnio ženklo registracija nebūtų pripažinta negaliojančia pagal šio įstatymo [[#^s-71cda15c3b52b7a5d619e59f|11 straipsnį]], [[#^s-025eaef7da501d16fbbb3348|12 straipsnio]] 1 ar [[#^s-f421144bf4d2b58d434e132b|2 dalį]] arba [[#^s-e28601f5e5936b6e89ecb729|59 straipsnio 3 dalį]]. ^s-c75ec7406347efa827782963
+1. Ženklo savininkas neturi teisės uždrausti naudoti vėlesnį įregistruotą ženklą, jeigu to vėlesnio ženklo registracija nebūtų pripažinta negaliojančia pagal šio įstatymo [[#^s-71cda15c3b52b7a5d619e59f|11 straipsnį]], [[#^s-025eaef7da501d16fbbb3348|12 straipsnio]] [[#^s-10c2d762e9217ddce8ffb2c0|1]] ar [[#^s-177cbe61e587f9f33016fad2|2]] dalį arba [[#^s-e28601f5e5936b6e89ecb729|59 straipsnio 3 dalį]]. ^s-c75ec7406347efa827782963
 
 
-2. Ženklo savininkas neturi teisės uždrausti naudoti vėlesnį įregistruotą Europos Sąjungos prekių ženklą, jeigu to vėlesnio ženklo registracija nebūtų pripažinta negaliojančia pagal Europos Sąjungos prekių ženklų reglamento [[#^s-5555e829bb801c371097738b|60 straipsnio]] 1, 3 ar 4 dalį, [[#^s-1058e3aaef1618a1b58b1a4f|61 straipsnio]] 1 ar [[#^s-f421144bf4d2b58d434e132b|2 dalį]] arba [[#^s-ef72fecbfdb588b4f0f44dec|64 straipsnio 2 dalį]]. ^s-f421144bf4d2b58d434e132b
+2. Ženklo savininkas neturi teisės uždrausti naudoti vėlesnį įregistruotą Europos Sąjungos prekių ženklą, jeigu to vėlesnio ženklo registracija nebūtų pripažinta negaliojančia pagal Europos Sąjungos prekių ženklų reglamento [[#^s-5555e829bb801c371097738b|60 straipsnio]] [[#^s-b82edd2ebea04596ca59fdfc|1]], 3 ar 4 dalį, [[#^s-1058e3aaef1618a1b58b1a4f|61 straipsnio]] [[#^s-187516453e3fecc255ce62ab|1]] ar [[#^s-6fee3650e3bd4efa3f97483f|2]] dalį arba [[#^s-ef72fecbfdb588b4f0f44dec|64 straipsnio 2 dalį]]. ^s-f421144bf4d2b58d434e132b
 
 
-3. Kai ženklo savininkas neturi teisės uždrausti naudoti vėlesnį įregistruotą ženklą pagal šio straipsnio 1 ar [[#^s-f421144bf4d2b58d434e132b|2 dalį]], vėlesnio įregistruoto ženklo savininkas neturi teisės uždrausti naudoti ankstesnį ženklą, net jeigu ta ankstesne teise daugiau nebegalima pasinaudoti dėl vėlesnio ženklo. ^s-64b41325240a6b58f377b79a
+3. Kai ženklo savininkas neturi teisės uždrausti naudoti vėlesnį įregistruotą ženklą pagal šio straipsnio [[#^s-c75ec7406347efa827782963|1]] ar [[#^s-f421144bf4d2b58d434e132b|2]] dalį, vėlesnio įregistruoto ženklo savininkas neturi teisės uždrausti naudoti ankstesnį ženklą, net jeigu ta ankstesne teise daugiau nebegalima pasinaudoti dėl vėlesnio ženklo. ^s-64b41325240a6b58f377b79a
 
 
 
@@ -564,7 +564,7 @@ Jeigu ženklą atgaminus žodyne, enciklopedijoje arba panašiame informaciniame
 ### 25 straipsnis. Ženklo registracijos panaikinimas, susijęs tik su tam tikromis prekėmis ar paslaugomis ^s-5330d27534973300e6e695ec
 
 
-Jeigu šio įstatymo 23 ir [[#^s-7265374773ea910fc701b5c1|24 straipsniuose]] nurodyti pagrindai, dėl kurių panaikinama ženklo registracija, nustatomi tik tam tikroms prekėms ar paslaugoms, kurioms jis buvo įregistruotas, ženklo registracija panaikinama tik toms prekėms ar paslaugoms.
+Jeigu šio įstatymo [[#^s-bd1acd6537b9b8c35b695958|23]] ir [[#^s-7265374773ea910fc701b5c1|24]] straipsniuose nurodyti pagrindai, dėl kurių panaikinama ženklo registracija, nustatomi tik tam tikroms prekėms ar paslaugoms, kurioms jis buvo įregistruotas, ženklo registracija panaikinama tik toms prekėms ar paslaugoms.
 
 
 
@@ -591,7 +591,7 @@ Jeigu šio įstatymo 23 ir [[#^s-7265374773ea910fc701b5c1|24 straipsniuose]] nur
 3) įgaliojimas atstovui (jeigu reikia); ^s-d7e47152c2bdd89a6ad2bc7d
 
 
-4) šio įstatymo [[#^s-f61ac9cb559a2d34af0f93ac|7 straipsnio 1 dalies]] 8, 9 ir 10 punktuose nurodytas leidimas ar sutikimas, išduotas teisių perėmėjui (jeigu reikia). ^s-07e890dd92f0f343a35a1a37
+4) šio įstatymo [[#^s-f61ac9cb559a2d34af0f93ac|7 straipsnio 1 dalies]] [[#^s-5cf5bc9d300a5a9617f068ad|8]], [[#^s-4f00c4342a079694095cdd6f|9]] ir [[#^s-6eac92a86425b15f542535d6|10]] punktuose nurodytas leidimas ar sutikimas, išduotas teisių perėmėjui (jeigu reikia). ^s-07e890dd92f0f343a35a1a37
 
 
 Straipsnio dalies pakeitimai:
@@ -688,7 +688,7 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 8. Norėdamas gauti kompensaciją už jam padarytą žalą, licenciatas turi teisę įstoti į licenciaro pradėtą teisminį procesą dėl teisių pažeidimo. ^s-4e34d8e9cee7620b46497426
 
 
-9. Šio straipsnio 1–[[#^s-4e34d8e9cee7620b46497426|8 dalių]] nuostatos taikomos ir sublicencinei sutarčiai. ^s-a177df293b5a42b6065a7399
+9. Šio straipsnio [[#^s-4393954bda36767c44eca3a2|1]]–[[#^s-4e34d8e9cee7620b46497426|8]] dalių nuostatos taikomos ir sublicencinei sutarčiai. ^s-a177df293b5a42b6065a7399
 
 
 
@@ -708,7 +708,7 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 ### 29 straipsnis. Teisės į ženklą areštas ir išieškojimas vykdymo procese ^s-50559d1ca168d310971b4a5b
 
 
-1. Teisė į pareikštą registruoti ar įregistruotą ženklą gali būti areštuota ar į ją nukreiptas išieškojimas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-5c5cfa3609e579f08c4830d9
+1. Teisė į pareikštą registruoti ar įregistruotą ženklą gali būti areštuota ar į ją nukreiptas išieškojimas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-5c5cfa3609e579f08c4830d9
 
 
 2. Gavęs Turto arešto aktų registro informacinės sistemos tvarkytojo pranešimą apie areštuotą ženklą ar vykdymo procese išieškomą ženklą, Valstybinis patentų biuras su ženklu susijusius duomenis įrašo Registro informacinėje sistemoje ir apie tai paskelbia Valstybinio patentų biuro oficialiame biuletenyje. ^s-cf7a6f8f3d7bc0f34ab95087
@@ -794,7 +794,7 @@ SERTIFIKAVIMO ŽENKLAI IR KOLEKTYVINIAI ŽENKLAI
 1. Kolektyvinis ženklas neregistruojamas, jeigu: ^s-b91bd606632c3a73d0c70586
 
 
-1) yra bent vienas iš šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] 1 ar [[#^s-f0f69ec9651bf93ee2a0f2de|2 dalyje]] nurodytų pagrindų; ^s-c7b0715b626fb1e380c4bbe4
+1) yra bent vienas iš šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] [[#^s-f61ac9cb559a2d34af0f93ac|1]] ar [[#^s-dc31012b88cfd47ef3656a27|2]] dalyje nurodytų pagrindų; ^s-c7b0715b626fb1e380c4bbe4
 
 
 2) yra bent vienas iš šio įstatymo [[#^s-e9b59372df831a52ea178658|8 straipsnyje]] nurodytų pagrindų; ^s-701c5dd09de4d8055956bc0f
@@ -803,7 +803,7 @@ SERTIFIKAVIMO ŽENKLAI IR KOLEKTYVINIAI ŽENKLAI
 3) jis neatitinka kolektyvinio ženklo sąvokos, nurodytos šio įstatymo [[#^s-0cdcbafdc2b3d239bfea4784|2 straipsnio 7 dalyje]]; ^s-ed4b82497f1a3f2f1902e9de
 
 
-4) nesilaikoma šio įstatymo [[#^s-911e6aef9cadcb3230966fbb|31 straipsnio]] arba [[#^s-e94c729812d96d8eae91ca8a|32 straipsnio]] 1 ar [[#^s-f0f69ec9651bf93ee2a0f2de|2 dalies]] nuostatų; ^s-237fb0f33a04d0ef8a2bd17e
+4) nesilaikoma šio įstatymo [[#^s-911e6aef9cadcb3230966fbb|31 straipsnio]] arba [[#^s-e94c729812d96d8eae91ca8a|32 straipsnio]] [[#^s-a42bc97157013a957bbe4441|1]] ar [[#^s-7e896dbeb9272acc23b1ec20|2]] dalies nuostatų; ^s-237fb0f33a04d0ef8a2bd17e
 
 
 5) kolektyvinio ženklo naudojimo nuostatai prieštarauja viešajai tvarkai ar gerai moralei; ^s-710c9a94b01e717d889ce5b4
@@ -839,7 +839,7 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 ### 35 straipsnis. Asmenys, turintys teisę pareikšti ieškinį dėl kolektyvinio ženklo teisių pažeidimo ^s-6e4bcfac948dfd5a24e2d7f2
 
 
-1. Kiekvienam asmeniui, turinčiam teisę naudoti kolektyvinį ženklą, mutatis mutandis taikomos šio įstatymo [[#^s-41a7501d09bd24094f6206a6|27 straipsnio]] 7 ir 8 dalys. ^s-a8466088fe2d3bf3103e51e1
+1. Kiekvienam asmeniui, turinčiam teisę naudoti kolektyvinį ženklą, mutatis mutandis taikomos šio įstatymo [[#^s-41a7501d09bd24094f6206a6|27 straipsnio]] [[#^s-34d1c4b8aaebf57ff4df74f9|7]] ir [[#^s-4e34d8e9cee7620b46497426|8]] dalys. ^s-a8466088fe2d3bf3103e51e1
 
 
 2. Jeigu asmenys, turintys teisę naudoti kolektyvinį ženklą, dėl neteisėto ženklo naudojimo patyrė nuostolių, kolektyvinio ženklo savininkas jų vardu turi teisę reikalauti žalos atlyginimo iš teises pažeidusio asmens. ^s-6a90b04d1aeea22792f409ec
@@ -849,7 +849,7 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 ### 36 straipsnis. Papildomi kolektyvinio ženklo registracijos panaikinimo pagrindai ^s-f2688da90a35f01778b4a0fc
 
 
-Be šio įstatymo 23 ir [[#^s-7265374773ea910fc701b5c1|24 straipsniuose]] nustatytų ženklo registracijos panaikinimo pagrindų, kolektyvinio ženklo registracija gali būti panaikinta, jeigu:
+Be šio įstatymo [[#^s-bd1acd6537b9b8c35b695958|23]] ir [[#^s-7265374773ea910fc701b5c1|24]] straipsniuose nustatytų ženklo registracijos panaikinimo pagrindų, kolektyvinio ženklo registracija gali būti panaikinta, jeigu:
 
 
 1) kolektyvinio ženklo savininkas nesiima pagrįstų priemonių neleisti kolektyvinio ženklo naudoti tokiu būdu, kuris nesuderinamas su kolektyvinio ženklo naudojimo sąlygomis, nustatytomis kolektyvinio ženklo naudojimo nuostatuose; ^s-dcfc420b0f2ea1e024ba5624
@@ -903,7 +903,7 @@ PARAIŠKA IR ŽENKLO REGISTRACIJA
 3) prioritetą patvirtinantis dokumentas, nurodytas šio įstatymo [[#^s-66a1d78c73b2601fc9621ce8|40 straipsnio 3 dalyje]] (jeigu reikia); ^s-78028c24687ae15aaa48a77e
 
 
-4) šio įstatymo [[#^s-f61ac9cb559a2d34af0f93ac|7 straipsnio 1 dalies]] 8, 9 ir 10 punktuose nurodytas leidimas ar sutikimas (jeigu reikia); ^s-50b8fb7d029dd63dc46b9d8b
+4) šio įstatymo [[#^s-f61ac9cb559a2d34af0f93ac|7 straipsnio 1 dalies]] [[#^s-5cf5bc9d300a5a9617f068ad|8]], [[#^s-4f00c4342a079694095cdd6f|9]] ir [[#^s-6eac92a86425b15f542535d6|10]] punktuose nurodytas leidimas ar sutikimas (jeigu reikia); ^s-50b8fb7d029dd63dc46b9d8b
 
 
 5) kolektyvinio ženklo naudojimo nuostatai, kai prašoma įregistruoti kolektyvinį ženklą; ^s-eef3fe7fdf9befb1d9e55b69
@@ -921,7 +921,7 @@ PARAIŠKA IR ŽENKLO REGISTRACIJA
 1) pareiškėją ir jo atstovą (jeigu jis yra) identifikuojantys duomenys; ^s-1319726bab45a8f5f5e17b7f
 
 
-2) pareikštas registruoti ženklas – jo vaizdas ar kita išraiškos forma pagal šio įstatymo [[#^s-8c4b25dd633a9b41892f7e8d|5 straipsnio 2 punkto]] reikalavimus; ^s-ba96f9de81efd54336daf091
+2) pareikštas registruoti ženklas – jo vaizdas ar kita išraiškos forma pagal šio įstatymo 5 straipsnio 2 punkto reikalavimus; ^s-ba96f9de81efd54336daf091
 
 
 3) prekių ar paslaugų, kurioms žymėti pareikštas registruoti ženklas, grupės pagal šio įstatymo [[#^s-80c70976bee2619feaa14885|41 straipsnio]] reikalavimus; ^s-9bb796337ada51283f69291b
@@ -948,7 +948,7 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 ### 39 straipsnis. Paraiškos padavimo data ^s-dfa8dab601ab2bb800664cad
 
 
-1. Paraiškos padavimo data laikoma ta diena, kai Valstybinis patentų biuras gauna šio įstatymo [[#^s-cf8776ee354e5e547582f443|38 straipsnio 4 dalies 1 punkte]] nurodytą prašymą, kuriame pateikti bent šio įstatymo [[#^s-70683aa4355a0d08a9cc296f|38 straipsnio 5 dalies]] 1–4 punktuose nurodyti duomenys. ^s-d0329509fcca9c65f1d145dc
+1. Paraiškos padavimo data laikoma ta diena, kai Valstybinis patentų biuras gauna šio įstatymo [[#^s-cf8776ee354e5e547582f443|38 straipsnio 4 dalies 1 punkte]] nurodytą prašymą, kuriame pateikti bent šio įstatymo [[#^s-70683aa4355a0d08a9cc296f|38 straipsnio 5 dalies]] [[#^s-1319726bab45a8f5f5e17b7f|1]]–[[#^s-4535e533b8f921c4995a9d3d|4]] punktuose nurodyti duomenys. ^s-d0329509fcca9c65f1d145dc
 
 
 2. Paraiškai padavimo data nesuteikiama, jeigu nepateikiamas nors vienas iš [[#^s-d0329509fcca9c65f1d145dc|šio straipsnio 1 dalyje]] nurodytų duomenų arba pateikti duomenys neatitinka šio įstatymo arba Prekių ženklų registravimo taisyklėse nustatytų reikalavimų. Tokiu atveju paraiškos dokumentai grąžinami pareiškėjui, nurodant paraiškos nepriėmimo motyvus. ^s-ce993bb15b1162a966779158
@@ -970,10 +970,10 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 2. Paraiškoje gali būti prašymas suteikti prioriteto datą, kurią šiuo ženklu pažymėtos prekės ar paslaugos buvo eksponuojamos tarptautinėje parodoje, jeigu paraiška paduodama Valstybiniam patentų biurui per šešis mėnesius nuo pirmojo šiuo ženklu pažymėtų prekių ar paslaugų eksponavimo tarptautinėje parodoje dienos. ^s-177be1a6234d62e3eaf25ba8
 
 
-3. Pareiškėjas, norintis pasinaudoti šio straipsnio 1 ir [[#^s-177be1a6234d62e3eaf25ba8|2 dalių]] nuostatomis, privalo pateikti Valstybiniam patentų biurui patvirtintą pirmosios paraiškos (paraiškų) kopiją arba tarptautinės parodos, kurioje pirmą kartą buvo eksponuojamos šiuo ženklu pažymėtos prekės ar paslaugos, organizatoriaus pažymą. Šie dokumentai gali būti pateikti kartu su paraiška arba per tris mėnesius nuo paraiškos padavimo datos. ^s-66a1d78c73b2601fc9621ce8
+3. Pareiškėjas, norintis pasinaudoti šio straipsnio [[#^s-89972f99448dc8ee264c1c69|1]] ir [[#^s-177be1a6234d62e3eaf25ba8|2]] dalių nuostatomis, privalo pateikti Valstybiniam patentų biurui patvirtintą pirmosios paraiškos (paraiškų) kopiją arba tarptautinės parodos, kurioje pirmą kartą buvo eksponuojamos šiuo ženklu pažymėtos prekės ar paslaugos, organizatoriaus pažymą. Šie dokumentai gali būti pateikti kartu su paraiška arba per tris mėnesius nuo paraiškos padavimo datos. ^s-66a1d78c73b2601fc9621ce8
 
 
-4. Nustačius, kad pareiškėjas neįvykdė [[#^s-66a1d78c73b2601fc9621ce8|šio straipsnio 3 dalies]] reikalavimų, laikoma, kad šio straipsnio 1 ar [[#^s-177be1a6234d62e3eaf25ba8|2 dalyje]] nurodyti prašymai nebuvo paduoti. ^s-63bdf7e27ed82ae52b6a791e
+4. Nustačius, kad pareiškėjas neįvykdė [[#^s-66a1d78c73b2601fc9621ce8|šio straipsnio 3 dalies]] reikalavimų, laikoma, kad šio straipsnio [[#^s-89972f99448dc8ee264c1c69|1]] ar [[#^s-177be1a6234d62e3eaf25ba8|2]] dalyje nurodyti prašymai nebuvo paduoti. ^s-63bdf7e27ed82ae52b6a791e
 
 
 
@@ -986,7 +986,7 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 2. Pareiškėjas turi nurodyti prekes ar paslaugas, kurioms prašoma apsaugos, taip aiškiai ir tiksliai, kad kompetentingos institucijos ir ūkio subjektai galėtų nustatyti prašomos apsaugos apimtį. Klasifikuojant gali būti naudojamos bendrosios nuorodos, įtrauktos į Nicos klasifikacijos klasių antraštes, arba kiti bendrieji terminai, jeigu jie atitinka šiame straipsnyje nustatytus aiškumo ir tikslumo reikalavimus. Vartojami bendrieji terminai, įskaitant bendrąsias nuorodas Nicos klasifikacijos klasių antraštėse, aiškinami kaip apimantys visas prekes ar paslaugas, kurias aiškiai žymi pažodine reikšme vartojama nuoroda ar terminas, ir neapima tų prekių ar paslaugų, kurios negali būti taip suprantamos. ^s-dacb7acf6a4fb3756bb5fdb5
 
 
-3. Valstybinis patentų biuras atmeta paraišką dėl tų prekių ar paslaugų, kurios neatitinka šio straipsnio 1 ir [[#^s-dacb7acf6a4fb3756bb5fdb5|2 dalyse]] ar Prekių ženklų registravimo taisyklėse nustatytų klasifikavimo reikalavimų, jeigu pareiškėjas nepateikia [[#^s-dacb7acf6a4fb3756bb5fdb5|šio straipsnio 2 dalies]] reikalavimus atitinkančios prekių ar paslaugų formuluotės ir neištaiso Valstybinio patentų biuro nustatytų trūkumų. ^s-c42406fb95bd34dea528dfa0
+3. Valstybinis patentų biuras atmeta paraišką dėl tų prekių ar paslaugų, kurios neatitinka šio straipsnio [[#^s-868d8a2878a2eed41259e18c|1]] ir [[#^s-dacb7acf6a4fb3756bb5fdb5|2]] dalyse ar Prekių ženklų registravimo taisyklėse nustatytų klasifikavimo reikalavimų, jeigu pareiškėjas nepateikia [[#^s-dacb7acf6a4fb3756bb5fdb5|šio straipsnio 2 dalies]] reikalavimus atitinkančios prekių ar paslaugų formuluotės ir neištaiso Valstybinio patentų biuro nustatytų trūkumų. ^s-c42406fb95bd34dea528dfa0
 
 
 4. Pareiškėjas turi sumokėti šio įstatymo [[#^s-3076f866eb15984dbcb092fd|38 straipsnio 6 dalyje]] nurodytą mokestį, jeigu nustatoma, kad paraiškoje nurodytos prekės ar paslaugos turi būti priskirtos kitoms, negu pareiškėjas buvo nurodęs, prekių ar paslaugų klasėms. ^s-f08cbd0d3872d8f949c74b2b
@@ -999,7 +999,7 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 ### 42 straipsnis. Paraiškos ekspertizė ^s-536ed12891260eb8ff12394a
 
 
-1. Valstybinis patentų biuras, atlikdamas paraiškos ekspertizę, patikrina, ar pateikta paraiška atitinka šio įstatymo 38, 40 ir [[#^s-80c70976bee2619feaa14885|41 straipsniuose]] nustatytus reikalavimus. ^s-884d5c9fabef182306c53921
+1. Valstybinis patentų biuras, atlikdamas paraiškos ekspertizę, patikrina, ar pateikta paraiška atitinka šio įstatymo [[#^s-d86ce71761c57903150045ef|38]], [[#^s-3e9d311c974f572a4e1743a1|40]] ir [[#^s-80c70976bee2619feaa14885|41]] straipsniuose nustatytus reikalavimus. ^s-884d5c9fabef182306c53921
 
 
 2. Paraiškos ekspertizės metu nustačius trūkumų, jiems pašalinti nustatomas dviejų mėnesių terminas nuo pranešimo apie juos išsiuntimo dienos. ^s-eb836de1b6e85d35997d646b
@@ -1009,10 +1009,10 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 ### 43 straipsnis. Ženklo ekspertizė ^s-22d74ceecd78004ddc90ec80
 
 
-1. Valstybinis patentų biuras, atlikdamas ženklo ekspertizę, patikrina, ar ženklas atitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] 1 ir [[#^s-2dd5101676f61a16e993b54e|2 dalyse]] nustatytus reikalavimus. ^s-b58001896a8324527559423e
+1. Valstybinis patentų biuras, atlikdamas ženklo ekspertizę, patikrina, ar ženklas atitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] [[#^s-f61ac9cb559a2d34af0f93ac|1]] ir [[#^s-dc31012b88cfd47ef3656a27|2]] dalyse nustatytus reikalavimus. ^s-b58001896a8324527559423e
 
 
-2. Jeigu ženklas neatitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] 1 ir (ar) [[#^s-2dd5101676f61a16e993b54e|2 dalyse]] nustatytų reikalavimų, Valstybinis patentų biuras priima sprendimą neregistruoti ženklo visoms arba daliai prekių ar paslaugų. Sprendime turi būti nurodyti atsisakymo registruoti ženklą pagrindai ir motyvai. ^s-2dd5101676f61a16e993b54e
+2. Jeigu ženklas neatitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] 1 ir (ar) 2 dalyse nustatytų reikalavimų, Valstybinis patentų biuras priima sprendimą neregistruoti ženklo visoms arba daliai prekių ar paslaugų. Sprendime turi būti nurodyti atsisakymo registruoti ženklą pagrindai ir motyvai. ^s-2dd5101676f61a16e993b54e
 
 
 3. Pareiškėjas turi teisę per du mėnesius nuo sprendimo neregistruoti ženklo išsiuntimo dienos raštu pateikti Valstybiniam patentų biurui motyvuotą prašymą atlikti pakartotinę ekspertizę. ^s-2ee3b884a746aafe08bd69de
@@ -1021,7 +1021,7 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 4. Valstybinis patentų biuras, atlikęs pakartotinę ekspertizę, priima vieną iš šių sprendimų: ^s-6b095c8a1a7b42b45d1f0d08
 
 
-1) pripažinti, kad ženklas atitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] 1 ir [[#^s-2dd5101676f61a16e993b54e|2 dalių]] reikalavimus; ^s-36e86cb61c5b4b2e44e6f59e
+1) pripažinti, kad ženklas atitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] [[#^s-f61ac9cb559a2d34af0f93ac|1]] ir [[#^s-dc31012b88cfd47ef3656a27|2]] dalių reikalavimus; ^s-36e86cb61c5b4b2e44e6f59e
 
 
 2) palikti galioti sprendimą neregistruoti ženklo visoms arba daliai prekių ar paslaugų. ^s-0e9f9cffac3b6a6770ee9da8
@@ -1040,7 +1040,7 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 2) šio įstatymo [[#^s-8339791d8541e7ea65112760|30 straipsnyje]], jeigu tai sertifikavimo ženklas; ^s-c45a39337d4b40b6845047b2
 
 
-3) šio įstatymo [[#^s-b91bd606632c3a73d0c70586|33 straipsnio 1 dalies]] 1, 3–6 punktuose, jeigu tai kolektyvinis ženklas. ^s-0a532a5e13baf4d188dd1f69
+3) šio įstatymo [[#^s-b91bd606632c3a73d0c70586|33 straipsnio 1 dalies]] [[#^s-c7b0715b626fb1e380c4bbe4|1]], [[#^s-ed4b82497f1a3f2f1902e9de|3]]–[[#^s-6cb6dc8c4a4f1e54b310e503|6]] punktuose, jeigu tai kolektyvinis ženklas. ^s-0a532a5e13baf4d188dd1f69
 
 
 2. Pastabos gali būti pateiktos iki termino, nurodyto šio įstatymo [[#^s-d98304f7588ea30bcf0749cd|56 straipsnio 1 dalyje]], pabaigos arba, jeigu dėl ženklo pareikštas protestas, – prieš priimant sprendimą dėl protesto. ^s-b1a9fef007ab6e6a92a6ec07
@@ -1068,7 +1068,7 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 4. Išnagrinėjęs apeliaciją, Apeliacinis skyrius priima vieną iš šių sprendimų: ^s-3c63b5d1f65cdca1cdea645d
 
 
-1) apeliaciją patenkinti ir pripažinti, kad ženklas atitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] 1 ir [[#^s-d94d1bab39ef57f3dd4c29a3|2 dalių]] reikalavimus visoms arba daliai prekių ar paslaugų; ^s-628920020a3319910c506dde
+1) apeliaciją patenkinti ir pripažinti, kad ženklas atitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] [[#^s-f61ac9cb559a2d34af0f93ac|1]] ir [[#^s-dc31012b88cfd47ef3656a27|2]] dalių reikalavimus visoms arba daliai prekių ar paslaugų; ^s-628920020a3319910c506dde
 
 
 2) apeliaciją atmesti. ^s-3d9ef3487b2bd34c297244ef
@@ -1093,13 +1093,13 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 1. Valstybinis patentų biuras paskelbia paraiškos duomenis Valstybinio patentų biuro oficialiame biuletenyje, kai: ^s-0820ecc847678fe423e8b1b7
 
 
-1) atlikus paraiškos ir ženklo ekspertizę, nustatoma, kad ženklas atitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] 1 ir [[#^s-d90067d664b621cfcc9e2e39|2 dalių]] reikalavimus; ^s-363612c64ffa5ad1e58129b5
+1) atlikus paraiškos ir ženklo ekspertizę, nustatoma, kad ženklas atitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] [[#^s-f61ac9cb559a2d34af0f93ac|1]] ir [[#^s-dc31012b88cfd47ef3656a27|2]] dalių reikalavimus; ^s-363612c64ffa5ad1e58129b5
 
 
-2) patenkinus apeliaciją, pripažįstama, kad ženklas atitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] 1 ir [[#^s-d90067d664b621cfcc9e2e39|2 dalių]] reikalavimus. ^s-5f856d170f49238090fea345
+2) patenkinus apeliaciją, pripažįstama, kad ženklas atitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] [[#^s-f61ac9cb559a2d34af0f93ac|1]] ir [[#^s-dc31012b88cfd47ef3656a27|2]] dalių reikalavimus. ^s-5f856d170f49238090fea345
 
 
-2. Valstybinis patentų biuras, savo iniciatyva arba gavęs trečiųjų asmenų rašytines pastabas pagal šio įstatymo [[#^s-dd16b58646b8c94e52b9bb47|44 straipsnį]], turi teisę iki ženklo įregistravimo atnaujinti ženklo ekspertizę dėl ženklo atitikties šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] 1 ir [[#^s-d90067d664b621cfcc9e2e39|2 dalių]] reikalavimams. ^s-d90067d664b621cfcc9e2e39
+2. Valstybinis patentų biuras, savo iniciatyva arba gavęs trečiųjų asmenų rašytines pastabas pagal šio įstatymo [[#^s-dd16b58646b8c94e52b9bb47|44 straipsnį]], turi teisę iki ženklo įregistravimo atnaujinti ženklo ekspertizę dėl ženklo atitikties šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] [[#^s-f61ac9cb559a2d34af0f93ac|1]] ir [[#^s-dc31012b88cfd47ef3656a27|2]] dalių reikalavimams. ^s-d90067d664b621cfcc9e2e39
 
 
 3. Už veiksmus, atliekamus po paraiškos paskelbimo pagal [[#^s-0820ecc847678fe423e8b1b7|šio straipsnio 1 dalį]] dienos, pareiškėjas gali reikalauti žalos atlyginimo pagal šio įstatymo [[#^s-efe9228edbc3e3a6b366dac3|75 straipsnį]] iš jo teises pažeidusio asmens, jeigu ženklą įregistravus jis turėtų teisę šiuos veiksmus uždrausti pagal šio įstatymo nuostatas. Teismas sprendimą dėl žalos atlyginimo priima po ženklo įregistravimo. ^s-60a42b97d85816bbd5126946
@@ -1145,10 +1145,10 @@ LIETUVOS RESPUBLIKOS PREKIŲ ŽENKLŲ REGISTRAS
 4. Registro informacinės sistemos ir Registro duomenų, įskaitant asmens duomenis, valdytojas yra Valstybinis patentų biuras. ^s-86673907d8d8ff828e3f2a62
 
 
-5. Registro informacinės sistemos duomenys teikiami Registro informacinės sistemos nuostatuose nustatyta tvarka, jeigu šiame įstatyme nenustatyta kitaip, laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-66e34dd83772572c968fb6b5
+5. Registro informacinės sistemos duomenys teikiami Registro informacinės sistemos nuostatuose nustatyta tvarka, jeigu šiame įstatyme nenustatyta kitaip, laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-66e34dd83772572c968fb6b5
 
 
-6. Registro informacinėje sistemoje tvarkomi duomenys, įskaitant asmens duomenis, atveriami pakartotinai naudoti. Asmens kodas pakartotinai naudoti neatveriamas. Kiti asmens duomenys (vardas, pavardė ir adresas) atveriami pakartotinai naudoti laikantis Reglamento (ES) 2016/679 reikalavimų. ^s-e42529c705bd491678d9a69e
+6. Registro informacinėje sistemoje tvarkomi duomenys, įskaitant asmens duomenis, atveriami pakartotinai naudoti. Asmens kodas pakartotinai naudoti neatveriamas. Kiti asmens duomenys (vardas, pavardė ir adresas) atveriami pakartotinai naudoti laikantis [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) reikalavimų. ^s-e42529c705bd491678d9a69e
 
 
 Straipsnio pakeitimai:
@@ -1198,10 +1198,10 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 1) prašymą pakeisti paraiškos ar kitus Registro duomenis; ^s-679b3a6ceea121d6f39d7e9e
 
 
-2) prašymą pagrindžiančius dokumentus, jeigu prašoma įrašyti [[#^s-7d074507aaa6a3b850931e2e|šio straipsnio 1 dalies]] 3 ar 6 punkte nurodytus pakeitimus, ir prašomų įrašyti pakeitimų duomenis; ^s-535481494c33155ec05f3204
+2) prašymą pagrindžiančius dokumentus, jeigu prašoma įrašyti [[#^s-7d074507aaa6a3b850931e2e|šio straipsnio 1 dalies]] [[#^s-c1ab262d2838ad107048702b|3]] ar 6 punkte nurodytus pakeitimus, ir prašomų įrašyti pakeitimų duomenis; ^s-535481494c33155ec05f3204
 
 
-3) duomenis apie sumokėtą nustatytą mokestį, išskyrus atvejus, kai prašoma atlikti [[#^s-7d074507aaa6a3b850931e2e|šio straipsnio 1 dalies]] 2 ar 3 punkte nurodytą pakeitimą arba kai prašoma ištaisyti Valstybinio patentų biuro padarytas technines klaidas. ^s-c1ab262d2838ad107048702b
+3) duomenis apie sumokėtą nustatytą mokestį, išskyrus atvejus, kai prašoma atlikti [[#^s-7d074507aaa6a3b850931e2e|šio straipsnio 1 dalies]] [[#^s-535481494c33155ec05f3204|2]] ar 3 punkte nurodytą pakeitimą arba kai prašoma ištaisyti Valstybinio patentų biuro padarytas technines klaidas. ^s-c1ab262d2838ad107048702b
 
 
 3. Vienas prašymas gali būti paduodamas dėl tų pačių tos pačios rūšies duomenų pakeitimų, išskyrus [[#^s-8e939fc917af09f491f051d8|šio straipsnio 1 dalies 5 punkte]] nurodytą atvejį, keliose to paties pareiškėjo paraiškose ar ženklo savininko ženklų registracijose. Mokestis mokamas už pakeitimą kiekvienoje paraiškoje ar ženklo registracijoje. ^s-3e4a02ca10090987b0b70182
@@ -1278,7 +1278,7 @@ KITOS PROCEDŪRINĖS NUOSTATOS
 2. Atskirtajai paraiškai galioja pirminės paraiškos padavimo data ir prioriteto teisė, jeigu ši yra. ^s-8a9feb7ceecd0c504cd96df1
 
 
-3. Ženklo registracija gali būti padalijama, kol ji galioja, išskyrus [[#^s-e88737c5fe50ef7caf76b16f|šio straipsnio 4 dalyje]] nurodytas išimtis. Ženklo registracijos padalijimui mutatis mutandis taikomos šio straipsnio 1 ir [[#^s-8a9feb7ceecd0c504cd96df1|2 dalių]] nuostatos. ^s-f856d08811bfcb02e88c9036
+3. Ženklo registracija gali būti padalijama, kol ji galioja, išskyrus [[#^s-e88737c5fe50ef7caf76b16f|šio straipsnio 4 dalyje]] nurodytas išimtis. Ženklo registracijos padalijimui mutatis mutandis taikomos šio straipsnio [[#^s-6d25f3ddfc2738f3c6b3774e|1]] ir [[#^s-8a9feb7ceecd0c504cd96df1|2]] dalių nuostatos. ^s-f856d08811bfcb02e88c9036
 
 
 4. Jeigu nesuėjęs šio įstatymo [[#^s-d98304f7588ea30bcf0749cd|56 straipsnio 1 dalyje]] nustatytas terminas, paraiška arba ženklo registracija negali būti dalijama toms prekėms ar paslaugoms, dėl kurių paduotas protestas arba kurioms ženklo registraciją prašoma pripažinti negaliojančia arba panaikinti, iki įsigalioja atitinkamas Apeliacinio skyriaus sprendimas arba įsiteisėja teismo sprendimas. ^s-e88737c5fe50ef7caf76b16f
@@ -1323,7 +1323,7 @@ KITOS PROCEDŪRINĖS NUOSTATOS
 
 
 7. Paskelbus nepaprastąją padėtį ar valstybės lygio ekstremaliąją situaciją, ar karantiną visoje Lietuvos Respublikos teritorijoje ir dėl to nustačius ribojimus, susijusius su asmenų laisvu judėjimu ar ūkinės veiklos laisve, šio įstatymo nustatytų veiksmų atlikimo terminų, išskyrus Valstybinio patentų biuro veiksmų atlikimo terminus, eiga sustabdoma. Kai ribojimai atšaukiami, šių terminų eiga atnaujinama. Informacija apie terminų sustabdymą ir atnaujinimą skelbiama Valstybinio patentų biuro interneto svetainėje. ^s-b15e2cfe56b85b0626dda1c4
-TAR pastaba. [[#^s-b15e2cfe56b85b0626dda1c4|7 dalyje]] nustatytas terminų eigos sustabdymas taikomas terminams, kurie nebuvo suėję iki Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo, ir terminams, kurie prasidėjo įsigaliojus šiam nutarimui.
+TAR pastaba. 7 dalyje nustatytas terminų eigos sustabdymas taikomas terminams, kurie nebuvo suėję iki Lietuvos Respublikos Vyriausybės [2020 m. kovo 14 d. nutarimo Nr. 207](https://e-tar.lt/portal/lt/legalAct/73c0b060663111eabee4a336e7e6fdab) „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo, ir terminams, kurie prasidėjo įsigaliojus šiam nutarimui.
 Papildyta straipsnio dalimi:
 Nr. XIII-2860, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08724
 
@@ -1332,7 +1332,7 @@ Nr. XIII-2860, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08724
 ### 55 straipsnis. Terminų pratęsimas ^s-84db53b8dcef2644ba5e67d4
 
 
-Pareiškėjui arba ženklo ar tarptautinės ženklo registracijos savininkui pateikus rašytinį prašymą ne vėliau kaip per vieną mėnesį nuo nustatyto termino pasibaigimo dienos ir sumokėjus nustatytą mokestį, šio įstatymo [[#^s-eb836de1b6e85d35997d646b|42 straipsnio 2 dalyje]], [[#^s-2ee3b884a746aafe08bd69de|43 straipsnio 3 dalyje]], [[#^s-0d9eda721f2b94a15f682f82|45 straipsnio 1 dalyje]], [[#^s-efa1a03cfb94782437603392|54 straipsnio]] 1 ir 6 dalyse, [[#^s-b5bcbfda33fdc8bea8740052|68 straipsnio]] 1 ir 2 dalyse nustatyti terminai Valstybinio patentų biuro sprendimu gali būti pratęsti vieną kartą, bet ne ilgiau kaip vieną mėnesį nuo nustatyto termino pasibaigimo dienos.
+Pareiškėjui arba ženklo ar tarptautinės ženklo registracijos savininkui pateikus rašytinį prašymą ne vėliau kaip per vieną mėnesį nuo nustatyto termino pasibaigimo dienos ir sumokėjus nustatytą mokestį, šio įstatymo [[#^s-eb836de1b6e85d35997d646b|42 straipsnio 2 dalyje]], [[#^s-2ee3b884a746aafe08bd69de|43 straipsnio 3 dalyje]], [[#^s-0d9eda721f2b94a15f682f82|45 straipsnio 1 dalyje]], [[#^s-efa1a03cfb94782437603392|54 straipsnio]] [[#^s-74cc43fbb9ad78c4ef66c829|1]] ir [[#^s-dc36463efe261288f2c243fd|6]] dalyse, [[#^s-b5bcbfda33fdc8bea8740052|68 straipsnio]] [[#^s-cc10cfe7a9e273b1409c0e5d|1]] ir [[#^s-ff5508cf8487e29af38bb00e|2]] dalyse nustatyti terminai Valstybinio patentų biuro sprendimu gali būti pratęsti vieną kartą, bet ne ilgiau kaip vieną mėnesį nuo nustatyto termino pasibaigimo dienos.
 
 
 
@@ -1344,7 +1344,7 @@ PROTESTO, ŽENKLO REGISTRACIJOS PRIPAŽINIMO NEGALIOJANČIA AR PANAIKINIMO PROCE
 ### 56 straipsnis. Paraiškos užprotestavimas ^s-a0690efad06a0bd2c34b5829
 
 
-1. Suinteresuoti asmenys per tris mėnesius nuo paraiškos paskelbimo dienos pagal šio įstatymo [[#^s-0820ecc847678fe423e8b1b7|46 straipsnio 1 dalį]], remdamiesi šio įstatymo [[#^s-e9b59372df831a52ea178658|8 straipsnio]] 1, 2 ir [[#^s-a3f9734f7a26ea2e29b64e3e|3 dalimis]], gali užprotestuoti paraišką paduodami motyvuotą rašytinį protestą Apeliaciniam skyriui. Už protesto padavimą turi būti sumokėtas mokestis. ^s-d98304f7588ea30bcf0749cd
+1. Suinteresuoti asmenys per tris mėnesius nuo paraiškos paskelbimo dienos pagal šio įstatymo [[#^s-0820ecc847678fe423e8b1b7|46 straipsnio 1 dalį]], remdamiesi šio įstatymo [[#^s-e9b59372df831a52ea178658|8 straipsnio]] [[#^s-1cb1ad123ea8aef0a62e598e|1]], [[#^s-3dba9707ae141d314c332de1|2]] ir [[#^s-3c8c8c6ce5b20d2d163a2d52|3]] dalimis, gali užprotestuoti paraišką paduodami motyvuotą rašytinį protestą Apeliaciniam skyriui. Už protesto padavimą turi būti sumokėtas mokestis. ^s-d98304f7588ea30bcf0749cd
 
 
 2. Protestas gali būti paduotas atsižvelgiant į vieną ar daugiau ankstesnių teisių, jeigu jos visos priklauso tam pačiam savininkui, remiantis dalimi ar visomis prekėmis ar paslaugomis, kurioms ankstesnė teisė saugoma ar dėl kurių paduota paraiška, ir dėl dalies ar visų prekių ar paslaugų, kurioms paduota paraiška ginčijamam ženklui registruoti. ^s-28dc9a7cb3f5d80421ab0c0d
@@ -1378,7 +1378,7 @@ PROTESTO, ŽENKLO REGISTRACIJOS PRIPAŽINIMO NEGALIOJANČIA AR PANAIKINIMO PROCE
 2. Jeigu ankstesnis ženklas buvo naudojamas tik daliai prekių ar paslaugų, kurioms jis buvo įregistruotas, žymėti, nagrinėjant protestą laikoma, kad ženklas įregistruotas tik tai prekių ar paslaugų daliai. ^s-a1b94c38fdb8cc7b96868f50
 
 
-3. Šio straipsnio 1 ir [[#^s-a1b94c38fdb8cc7b96868f50|2 dalys]] taip pat taikomos, kai ankstesnis ženklas yra Europos Sąjungos prekių ženklas. Tokiu atveju nustatant, ar Europos Sąjungos prekių ženklas iš tikrųjų naudojamas, taikomas Europos Sąjungos prekių ženklų reglamentas. ^s-7918144f36134ccb97983c71
+3. Šio straipsnio [[#^s-277840936cd961675b92153f|1]] ir [[#^s-a1b94c38fdb8cc7b96868f50|2]] dalys taip pat taikomos, kai ankstesnis ženklas yra Europos Sąjungos prekių ženklas. Tokiu atveju nustatant, ar Europos Sąjungos prekių ženklas iš tikrųjų naudojamas, taikomas Europos Sąjungos prekių ženklų reglamentas. ^s-7918144f36134ccb97983c71
 
 
 
@@ -1388,7 +1388,7 @@ PROTESTO, ŽENKLO REGISTRACIJOS PRIPAŽINIMO NEGALIOJANČIA AR PANAIKINIMO PROCE
 1. Suinteresuotas asmuo, siekiantis ženklo registraciją pripažinti negaliojančia ar ją panaikinti, turi pateikti motyvuotą rašytinį prašymą Apeliaciniam skyriui. Už prašymo pripažinti ženklo registraciją negaliojančia arba ją panaikinti padavimą turi būti sumokėtas mokestis. ^s-e7bf11586622e842ad65f3e5
 
 
-2. Ženklo registracija gali būti panaikinta vadovaujantis šio įstatymo 23 ar [[#^s-7265374773ea910fc701b5c1|24 straipsniu]]. ^s-f11e66d19cccb87ceaa3f307
+2. Ženklo registracija gali būti panaikinta vadovaujantis šio įstatymo [[#^s-bd1acd6537b9b8c35b695958|23]] ar [[#^s-7265374773ea910fc701b5c1|24]] straipsniu. ^s-f11e66d19cccb87ceaa3f307
 
 
 3. Ženklo registracija pripažįstama negaliojančia, jeigu prašymo dėl ženklo registracijos pripažinimo negaliojančia nagrinėjimo metu nustatoma, kad ženklas neturėjo būti įregistruotas, nes: ^s-efeded46d89ce071f583b347
@@ -1397,7 +1397,7 @@ PROTESTO, ŽENKLO REGISTRACIJOS PRIPAŽINIMO NEGALIOJANČIA AR PANAIKINIMO PROCE
 1) yra bent vienas iš šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnyje]] nustatytų pagrindų; ^s-f3ee96ea96f114bbb4884853
 
 
-2) yra bent vienas iš šio įstatymo [[#^s-e9b59372df831a52ea178658|8 straipsnio]] 1, 2 ir [[#^s-efeded46d89ce071f583b347|3 dalyse]] nustatytų pagrindų. ^s-7e1a7311d18b81dcc484f90f
+2) yra bent vienas iš šio įstatymo [[#^s-e9b59372df831a52ea178658|8 straipsnio]] [[#^s-1cb1ad123ea8aef0a62e598e|1]], [[#^s-3dba9707ae141d314c332de1|2]] ir [[#^s-3c8c8c6ce5b20d2d163a2d52|3]] dalyse nustatytų pagrindų. ^s-7e1a7311d18b81dcc484f90f
 
 
 4. Prašymas pripažinti ženklo registraciją negaliojančia arba ją panaikinti gali būti susijęs su visomis prekėmis ar paslaugomis, kurioms registruotas ginčijamas ženklas, arba jų dalimi. ^s-4ec7895f2b45ef363a921381
@@ -1434,13 +1434,13 @@ PROTESTO, ŽENKLO REGISTRACIJOS PRIPAŽINIMO NEGALIOJANČIA AR PANAIKINIMO PROCE
 2. Jeigu pagal vėlesnio ženklo paraiškos padavimo datą arba prioriteto datą penkerių metų laikotarpis, per kurį ankstesnis ženklas turėjo būti pradėtas iš tikrųjų naudoti, kaip nurodyta šio įstatymo [[#^s-2cb1478477669172e4f9e09a|20 straipsnyje]], jau buvo pasibaigęs, ankstesnio ženklo savininkas turi pateikti ne tik [[#^s-9d3e38504f78e4074e1706a5|šio straipsnio 1 dalyje]] nurodytus įrodymus, bet ir įrodymus, kad per penkerių metų laikotarpį iki paraiškos padavimo datos arba prioriteto datos ženklas iš tikrųjų buvo pradėtas naudoti arba kad buvo svarbių priežasčių jo nenaudoti. ^s-795a4e93875e616d95f640e1
 
 
-3. Prašymas pripažinti ženklo registraciją negaliojančia remiantis ankstesniu ženklu atmetamas, jeigu šio straipsnio 1 ir [[#^s-795a4e93875e616d95f640e1|2 dalyse]] nurodyti įrodymai nepateikiami. ^s-e28601f5e5936b6e89ecb729
+3. Prašymas pripažinti ženklo registraciją negaliojančia remiantis ankstesniu ženklu atmetamas, jeigu šio straipsnio [[#^s-9d3e38504f78e4074e1706a5|1]] ir [[#^s-795a4e93875e616d95f640e1|2]] dalyse nurodyti įrodymai nepateikiami. ^s-e28601f5e5936b6e89ecb729
 
 
 4. Jeigu ankstesnis ženklas buvo naudojamas pagal šio įstatymo [[#^s-2cb1478477669172e4f9e09a|20 straipsnį]] tik daliai prekių ar paslaugų, kurioms jis buvo įregistruotas, žymėti, nagrinėjant prašymą pripažinti ženklo registraciją negaliojančia, laikoma, kad jis yra įregistruotas tik tai prekių ar paslaugų daliai. ^s-5685883a4dcf2b3e70724e3a
 
 
-5. Šio straipsnio 1–[[#^s-5685883a4dcf2b3e70724e3a|4 dalys]] taip pat taikomos, kai ankstesnis ženklas yra Europos Sąjungos prekių ženklas. Tokiu atveju nustatant, ar Europos Sąjungos prekių ženklas iš tikrųjų naudojamas, taikomas Europos Sąjungos prekių ženklų reglamentas. ^s-6e3d0d6591b3e120a7d42d6a
+5. Šio straipsnio [[#^s-9d3e38504f78e4074e1706a5|1]]–[[#^s-5685883a4dcf2b3e70724e3a|4]] dalys taip pat taikomos, kai ankstesnis ženklas yra Europos Sąjungos prekių ženklas. Tokiu atveju nustatant, ar Europos Sąjungos prekių ženklas iš tikrųjų naudojamas, taikomas Europos Sąjungos prekių ženklų reglamentas. ^s-6e3d0d6591b3e120a7d42d6a
 
 
 
@@ -1466,7 +1466,7 @@ PROTESTO, ŽENKLO REGISTRACIJOS PRIPAŽINIMO NEGALIOJANČIA AR PANAIKINIMO PROCE
 3. Ginčo šalys turi teisę susipažinti su protesto ar prašymo pripažinti ženklo registraciją negaliojančia arba ją panaikinti medžiaga, daryti ir gauti jos išrašus ir kopijas (skaitmenines kopijas), pareikšti nušalinimus, teikti įrodymus, žodinio posėdžio metu užduoti klausimus kitai šaliai, pateikti prašymus ir argumentus, duoti paaiškinimus, prieštarauti kitos šalies prašymams ir argumentams, gauti Apeliacinio skyriaus sprendimų patvirtintas kopijas (skaitmenines kopijas). Šalys joms priklausančiomis procesinėmis teisėmis privalo naudotis sąžiningai, privalo veikti siekdamos, kad ginčas būtų išnagrinėtas greitai ir teisingai, pasirūpinti tinkamu atstovavimu, pateikti įrodymus. Jeigu šalis negali dalyvauti Apeliacinio skyriaus posėdyje dėl svarbių priežasčių, ji privalo apie tai pranešti Apeliaciniam skyriui, nurodydama priežastis. Jeigu Apeliacinis skyrius šias priežastis pripažįsta svarbiomis, posėdžio data atidedama. ^s-52cb5088de266928ba4f6ad9
 
 
-4. Protestų ir prašymų dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo nagrinėjimui Apeliaciniame skyriuje mutatis mutandis taikomos šio įstatymo [[#^s-397a11b464f65184c17011ea|45 straipsnio]] 2 ir [[#^s-52cb5088de266928ba4f6ad9|3 dalys]]. ^s-7d5af27871db36f494b66ae8
+4. Protestų ir prašymų dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo nagrinėjimui Apeliaciniame skyriuje mutatis mutandis taikomos šio įstatymo [[#^s-397a11b464f65184c17011ea|45 straipsnio]] [[#^s-d94d1bab39ef57f3dd4c29a3|2]] ir [[#^s-3ee0b5a77f3d9964a1ddbd79|3]] dalys. ^s-7d5af27871db36f494b66ae8
 
 
 5. Protestų ir prašymų dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo nagrinėjimo tvarka nustatoma Apeliacijų, protestų ir prašymų dėl ženklo registracijos pripažinimo negaliojančia ar jos panaikinimo taisyklėse. ^s-5ce7549e5c5c65ed484c6ecc
@@ -1519,7 +1519,7 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 7. Jeigu prašymas pateikiamas ir mokesčiai sumokami tik už kai kurias prekių ar paslaugų, kurioms ženklas įregistruotas, klases, ženklo registracijos galiojimas pratęsiamas tik toms prekėms ar paslaugoms, kurios nurodytos prašyme dėl ženklo registracijos galiojimo pratęsimo. ^s-fb3af805688e5cd75a2b5196
 
 
-8. Jeigu per šio straipsnio 4 ir [[#^s-6daee400a5aa70785da2b48b|5 dalyse]] nustatytus terminus mokestis nesumokamas, ženklo galiojimas nepratęsiamas ir ženklas išregistruojamas iš Registro. ^s-b13692b1fbdc41fd7ca5b6cf
+8. Jeigu per šio straipsnio [[#^s-531f26c30fd32c498fe8b6ba|4]] ir [[#^s-6daee400a5aa70785da2b48b|5]] dalyse nustatytus terminus mokestis nesumokamas, ženklo galiojimas nepratęsiamas ir ženklas išregistruojamas iš Registro. ^s-b13692b1fbdc41fd7ca5b6cf
 
 
 
@@ -1534,7 +1534,7 @@ TARPTAUTINĖ ŽENKLO REGISTRACIJA
 1. Nuo tarptautinės ženklo registracijos, kurioje nurodoma Lietuvos Respublika, datos pagal Madrido protokolo 3 straipsnio 4 dalį arba teritorinio išplėtimo po tarptautinės ženklo registracijos (toliau – vėlesnis teritorinis išplėtimas) datos pagal Madrido protokolo 3ter [[#^s-ef72fecbfdb588b4f0f44dec|straipsnio 2 dalį]] tarptautinės registracijos ženklas turi tokią pačią teisinę apsaugą kaip ir šio įstatymo nustatyta tvarka pareikštas registruoti ženklas. ^s-0e904294f1ef0fa3a3d6d815
 
 
-2. Nuo [[#^s-0e904294f1ef0fa3a3d6d815|šio straipsnio 1 dalyje]] nurodytos datos tarptautinės registracijos ženklas turi tokią pačią teisinę apsaugą kaip ir ženklas, kuris būtų įregistruotas vadovaujantis šio įstatymo nuostatomis, jeigu pagal Madrido protokolo [[#^s-7a7a532532e38a0a5763209e|5 straipsnio]] 1 ir [[#^s-ef72fecbfdb588b4f0f44dec|2 dalių]] nuostatas tarptautinės registracijos ženklui nebuvo atsisakyta suteikti apsaugą Lietuvos Respublikoje arba jeigu toks atsisakymas vėliau buvo atšauktas. ^s-ef72fecbfdb588b4f0f44dec
+2. Nuo [[#^s-0e904294f1ef0fa3a3d6d815|šio straipsnio 1 dalyje]] nurodytos datos tarptautinės registracijos ženklas turi tokią pačią teisinę apsaugą kaip ir ženklas, kuris būtų įregistruotas vadovaujantis šio įstatymo nuostatomis, jeigu pagal Madrido protokolo [[#^s-7a7a532532e38a0a5763209e|5 straipsnio]] 1 ir 2 dalių nuostatas tarptautinės registracijos ženklui nebuvo atsisakyta suteikti apsaugą Lietuvos Respublikoje arba jeigu toks atsisakymas vėliau buvo atšauktas. ^s-ef72fecbfdb588b4f0f44dec
 
 
 3. Valstybinis patentų biuras registruoja tarptautinės ženklo registracijos, išplėstos Lietuvos Respublikoje, juridinį faktą, įrašydamas duomenis Registro informacinėje sistemoje. ^s-233629b10c53c6e3f851735f
@@ -1550,7 +1550,7 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 ### 65 straipsnis. Tarptautinės ženklo registracijos negaliojimas ir panaikinimas ^s-b634304233e8897aa1547a30
 
 
-1. Jeigu tarptautinės registracijos ženklas neatitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] 1 ar [[#^s-082889d284aa7e7041d681c4|2 dalies]], [[#^s-b91bd606632c3a73d0c70586|33 straipsnio 1 dalies]] 3–6 punktų ar [[#^s-dacb7acf6a4fb3756bb5fdb5|41 straipsnio 2 dalies]] reikalavimų arba jeigu šio įstatymo nustatyta tvarka paduotas protestas, Valstybinis patentų biuras Madrido protokolo nustatytais terminais informuoja Tarptautinį biurą, kad tokio ženklo apsauga Lietuvos Respublikoje visiškai ar iš dalies negali būti suteikta. ^s-2eb9e81eca4607e7da50e606
+1. Jeigu tarptautinės registracijos ženklas neatitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] [[#^s-f61ac9cb559a2d34af0f93ac|1]] ar [[#^s-dc31012b88cfd47ef3656a27|2]] dalies, [[#^s-b91bd606632c3a73d0c70586|33 straipsnio 1 dalies]] [[#^s-ed4b82497f1a3f2f1902e9de|3]]–[[#^s-6cb6dc8c4a4f1e54b310e503|6]] punktų ar [[#^s-dacb7acf6a4fb3756bb5fdb5|41 straipsnio 2 dalies]] reikalavimų arba jeigu šio įstatymo nustatyta tvarka paduotas protestas, Valstybinis patentų biuras Madrido protokolo nustatytais terminais informuoja Tarptautinį biurą, kad tokio ženklo apsauga Lietuvos Respublikoje visiškai ar iš dalies negali būti suteikta. ^s-2eb9e81eca4607e7da50e606
 
 
 2. Tarptautinė ženklo registracija Lietuvos Respublikoje negalioja nuo jos pripažinimo negaliojančia ar jos panaikinimo šio įstatymo [[#^s-b257428075f07631701a3251|58 straipsnyje]] nustatyta tvarka Lietuvos Respublikoje dienos. Apie tokį galutinį sprendimą Valstybinis patentų biuras Madrido protokolo nustatyta tvarka informuoja Tarptautinį biurą. ^s-082889d284aa7e7041d681c4
@@ -1612,13 +1612,13 @@ Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
 ### 68 straipsnis. Specialios nuostatos, taikomos tarptautinei ženklo registracijai ^s-b5bcbfda33fdc8bea8740052
 
 
-1. Jeigu tarptautinės registracijos ženklo savininkas nesutinka su Valstybinio patentų biuro sprendimu atsisakyti suteikti apsaugą dėl to, kad ženklas neatitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] 1 ar [[#^s-ff5508cf8487e29af38bb00e|2 dalies]] reikalavimų, jis turi teisę per tris mėnesius nuo to sprendimo priėmimo dienos pateikti prašymą atlikti pakartotinę ekspertizę. Nepateikus prašymo per nustatytą terminą, Valstybinio patentų biuro sprendimas laikomas galutiniu. ^s-cc10cfe7a9e273b1409c0e5d
+1. Jeigu tarptautinės registracijos ženklo savininkas nesutinka su Valstybinio patentų biuro sprendimu atsisakyti suteikti apsaugą dėl to, kad ženklas neatitinka šio įstatymo [[#^s-4fdee775e68ab109d777b420|7 straipsnio]] [[#^s-f61ac9cb559a2d34af0f93ac|1]] ar [[#^s-dc31012b88cfd47ef3656a27|2]] dalies reikalavimų, jis turi teisę per tris mėnesius nuo to sprendimo priėmimo dienos pateikti prašymą atlikti pakartotinę ekspertizę. Nepateikus prašymo per nustatytą terminą, Valstybinio patentų biuro sprendimas laikomas galutiniu. ^s-cc10cfe7a9e273b1409c0e5d
 
 
-2. Jeigu tarptautinės registracijos ženklo savininkas nesutinka su Valstybinio patentų biuro priimtu sprendimu atsisakyti suteikti apsaugą dėl šio įstatymo [[#^s-b91bd606632c3a73d0c70586|33 straipsnio 1 dalies]] 3–6 punktuose ar [[#^s-c42406fb95bd34dea528dfa0|41 straipsnio 3 dalyje]] nurodytų pagrindų, jis turi teisę per du mėnesius nuo šio sprendimo išsiuntimo dienos paduoti Apeliaciniam skyriui apeliaciją šio įstatymo [[#^s-397a11b464f65184c17011ea|45 straipsnyje]] nustatyta tvarka. ^s-ff5508cf8487e29af38bb00e
+2. Jeigu tarptautinės registracijos ženklo savininkas nesutinka su Valstybinio patentų biuro priimtu sprendimu atsisakyti suteikti apsaugą dėl šio įstatymo [[#^s-b91bd606632c3a73d0c70586|33 straipsnio 1 dalies]] [[#^s-ed4b82497f1a3f2f1902e9de|3]]–[[#^s-6cb6dc8c4a4f1e54b310e503|6]] punktuose ar [[#^s-c42406fb95bd34dea528dfa0|41 straipsnio 3 dalyje]] nurodytų pagrindų, jis turi teisę per du mėnesius nuo šio sprendimo išsiuntimo dienos paduoti Apeliaciniam skyriui apeliaciją šio įstatymo [[#^s-397a11b464f65184c17011ea|45 straipsnyje]] nustatyta tvarka. ^s-ff5508cf8487e29af38bb00e
 
 
-3. Suinteresuoti asmenys protestą, tretieji asmenys pastabas dėl tarptautinės ženklo registracijos turi teisę paduoti per tris mėnesius nuo duomenų apie tarptautinę ženklo registraciją paskelbimo Tarptautinio biuro Tarptautinių ženklų biuletenyje dienos. Protestas turi atitikti šio įstatymo [[#^s-a0690efad06a0bd2c34b5829|56 straipsnio]] 1, 2 ir [[#^s-30e5acc96b3b7b67c09f7091|3 dalių]] reikalavimus. ^s-30e5acc96b3b7b67c09f7091
+3. Suinteresuoti asmenys protestą, tretieji asmenys pastabas dėl tarptautinės ženklo registracijos turi teisę paduoti per tris mėnesius nuo duomenų apie tarptautinę ženklo registraciją paskelbimo Tarptautinio biuro Tarptautinių ženklų biuletenyje dienos. Protestas turi atitikti šio įstatymo [[#^s-a0690efad06a0bd2c34b5829|56 straipsnio]] [[#^s-d98304f7588ea30bcf0749cd|1]], [[#^s-28dc9a7cb3f5d80421ab0c0d|2]] ir [[#^s-a3f9734f7a26ea2e29b64e3e|3]] dalių reikalavimus. ^s-30e5acc96b3b7b67c09f7091
 
 
 4. Registro informacinėje sistemoje įrašoma data, nuo kurios pagal šio įstatymo [[#^s-cb4af8078b8cfa47c28a82f5|20 straipsnio 2 dalį]] skaičiuojamas penkerių metų ženklo nenaudojimo laikotarpis. ^s-20cb567ec27acfce65385b83
@@ -1709,7 +1709,7 @@ GINČŲ DĖL ŽENKLŲ NAGRINĖJIMAS. ŽENKLO SAVININKO TEISIŲ GYNIMAS
 6. Ženklo savininkas turi teisę kreiptis į teismą prašydamas uždrausti Lietuvos Respublikos teritorijoje naudoti Europos Sąjungos prekių ženklą pagal Belgijos Karalystės, Danijos Karalystės, Vokietijos Federacinės Respublikos, Graikijos Respublikos, Ispanijos Karalystės, Prancūzijos Respublikos, Airijos, Italijos Respublikos, Liuksemburgo Didžiosios Hercogystės, Nyderlandų Karalystės, Austrijos Respublikos, Portugalijos Respublikos, Suomijos Respublikos, Švedijos Karalystės, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (Europos Sąjungos valstybių narių) ir Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos sutarties dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo į Europos Sąjungą, pasirašytos 2003 m. balandžio 16 d. Atėnuose, ir Akto dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos stojimo sąlygų ir sutarčių, kuriomis yra grindžiama Europos Sąjunga, pritaikomųjų pataisų U priedo „Stojimo akto 20 straipsnyje nurodytas sąrašas. 4. Bendrovių teisė. C. Pramoninės nuosavybės teisės“ nuostatas dėl Europos Sąjungos (Bendrijos) prekių ženklo. ^s-1180b0ed712a522ddc249a93
 
 
-7. Šio įstatymo [[#^s-b3948978f4c111109b3a92e1|69 straipsnio 2 dalis]], šis straipsnis, 71, 72, 73, 74, 75 ir [[#^s-0863734995b7c0d636e58f5c|76 straipsniai]] mutatis mutandis taikomi ir teisėms į geografines nuorodas ginti. ^s-e57c31fa3cf39529f2cc9ca3
+7. Šio įstatymo [[#^s-b3948978f4c111109b3a92e1|69 straipsnio 2 dalis]], šis straipsnis, [[#^s-33b41ef92534247a84b8b817|71]], [[#^s-e209d8cfcf545388d66975c0|72]], [[#^s-6faf7880efa58425a3bd21be|73]], [[#^s-f5b52fe71f19dd44acee1526|74]], [[#^s-efe9228edbc3e3a6b366dac3|75]] ir [[#^s-0863734995b7c0d636e58f5c|76]] straipsniai mutatis mutandis taikomi ir teisėms į geografines nuorodas ginti. ^s-e57c31fa3cf39529f2cc9ca3
 
 
 
@@ -1732,20 +1732,20 @@ GINČŲ DĖL ŽENKLŲ NAGRINĖJIMAS. ŽENKLO SAVININKO TEISIŲ GYNIMAS
 ### 72 straipsnis. Įrodymai ^s-e209d8cfcf545388d66975c0
 
 
-1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu Civilinio proceso kodekso nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad padarytas šio įstatymo nustatytų teisių pažeidimas. ^s-f9167a5609dd42dffaa5db02
+1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad padarytas šio įstatymo nustatytų teisių pažeidimas. ^s-f9167a5609dd42dffaa5db02
 
 
-2. Jeigu šio įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-f9167a5609dd42dffaa5db02|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas Civilinio proceso kodekso nustatyta tvarka iš priešingos šalies gali išreikalauti banko, finansinius ar komercinius dokumentus, jeigu garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-c2a84e88fb777e82358fc000
+2. Jeigu šio įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-f9167a5609dd42dffaa5db02|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka iš priešingos šalies gali išreikalauti banko, finansinius ar komercinius dokumentus, jeigu garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-c2a84e88fb777e82358fc000
 
 
 
 ### 73 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės ^s-6faf7880efa58425a3bd21be
 
 
-1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja Civilinio proceso kodeksas ir šis įstatymas. ^s-f0e675445fffe1ba8cdc705c
+1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir šis įstatymas. ^s-f0e675445fffe1ba8cdc705c
 
 
-2. Kai yra pakankamas pagrindas įtarti, kad buvo pažeistos šio įstatymo nustatytos teisės, teismas Civilinio proceso kodekso nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, skubiai nutraukti neteisėtus veiksmus ir įvykdyti teismo galutinį sprendimą, tai yra: ^s-81d686d29bc03768260266b2
+2. Kai yra pakankamas pagrindas įtarti, kad buvo pažeistos šio įstatymo nustatytos teisės, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, skubiai nutraukti neteisėtus veiksmus ir įvykdyti teismo galutinį sprendimą, tai yra: ^s-81d686d29bc03768260266b2
 
 
 1) uždrausti asmenims daryti gresiantį šio įstatymo nustatytų teisių pažeidimą; ^s-bc5f2d855a3a2d167f47a78b
@@ -1763,7 +1763,7 @@ GINČŲ DĖL ŽENKLŲ NAGRINĖJIMAS. ŽENKLO SAVININKO TEISIŲ GYNIMAS
 5) areštuoti šio įstatymo nustatytų teisių pažeidimu įtariamų asmenų turtą, kurį turi jie arba tretieji asmenys, įskaitant kredito, mokėjimo ir elektroninių pinigų įstaigose atidarytas sąskaitas; taip pat reikalauti pateikti kredito, mokėjimo ir elektroninių pinigų įstaigų finansinius arba komercinius dokumentus ar sudaryti galimybę susipažinti su šiais dokumentais, jeigu pažeidimas padarytas komerciniu tikslu; ^s-35b61f565da6b1e578267d1e
 
 
-6) taikyti kitas Civilinio proceso kodekso nustatytas priemones. ^s-cd0ee632353a2a8170e9171c
+6) taikyti kitas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytas priemones. ^s-cd0ee632353a2a8170e9171c
 
 
 3. Jeigu pritaikytos [[#^s-81d686d29bc03768260266b2|šio straipsnio 2 dalies]] 1 ir 2 punktuose nurodytos laikinosios apsaugos priemonės pažeidžiamos ir pažeidimas tęsiamas, teismas gali įpareigoti pažeidimo darymu įtariamus asmenis pateikti tinkamą galimos žalos kompensavimo užtikrinimą asmeniui, prašiusiam taikyti laikinąsias apsaugos priemones. ^s-4be63ed020e6a4b699ca3fde
@@ -1781,7 +1781,7 @@ GINČŲ DĖL ŽENKLŲ NAGRINĖJIMAS. ŽENKLO SAVININKO TEISIŲ GYNIMAS
 2) areštuoti šio įstatymo nustatytas teises pažeidžiančius gaminius, prireikus – ir medžiagas, ir priemones, kurios naudojamos joms gaminti ar platinti, bei su jomis susijusius dokumentus ir juos paimti; ^s-a46c029603f5a22960f28260
 
 
-3) taikyti kitas skubias ir veiksmingas laikinąsias apsaugos priemones, nurodytas Civilinio proceso kodekse. ^s-720126a48aeea812461ff192
+3) taikyti kitas skubias ir veiksmingas laikinąsias apsaugos priemones, nurodytas [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). ^s-720126a48aeea812461ff192
 
 
 6. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač tais atvejais, kai delsimas galėtų padaryti nepataisomos žalos pareiškėjui arba kai įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kad laikinosios apsaugos priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, tai yra iš karto tas priemones pritaikius. Šalių prašymu, įskaitant teisę būti išklausytam, laikinosios apsaugos priemonės gali būti peržiūrėtos siekiant per protingą terminą po pranešimo apie priemonių pritaikymą nuspręsti, ar šios priemonės turi būti pakeistos, panaikintos ar patvirtintos. ^s-e2653c367e1bec404a356ac8
@@ -1851,7 +1851,7 @@ EUROPOS SĄJUNGOS PREKIŲ ŽENKLŲ REGLAMENTAS. ADMINISTRACINIS BENDRADARBIAVIMA
 2. Vilniaus apygardos teismas yra teismas, vykdantis Europos Sąjungos prekių ženklų teismo funkcijas pagal Europos Sąjungos prekių ženklų reglamentą. ^s-dd5707bcc0a0b4571a3316e8
 
 
-3. Lietuvos apeliacinis teismas suinteresuotos šalies prašymu, pateikus teismui Europos Sąjungos intelektinės nuosavybės tarnybos sprendimą dėl atlyginamų išlaidų dydžio kartu su patvirtintu sprendimo vertimu į lietuvių kalbą, ne vėliau kaip per penkias darbo dienas Civilinio proceso kodekso nustatyta tvarka patikrina įsiteisėjusio Europos Sąjungos intelektinės nuosavybės tarnybos sprendimo autentiškumą ir išduoda vykdomąjį raštą. ^s-80ff6926d58ad8459d8016d7
+3. Lietuvos apeliacinis teismas suinteresuotos šalies prašymu, pateikus teismui Europos Sąjungos intelektinės nuosavybės tarnybos sprendimą dėl atlyginamų išlaidų dydžio kartu su patvirtintu sprendimo vertimu į lietuvių kalbą, ne vėliau kaip per penkias darbo dienas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka patikrina įsiteisėjusio Europos Sąjungos intelektinės nuosavybės tarnybos sprendimo autentiškumą ir išduoda vykdomąjį raštą. ^s-80ff6926d58ad8459d8016d7
 
 
 
@@ -1889,10 +1889,10 @@ priedas
 1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/48/EB dėl intelektinės nuosavybės teisių gynimo (OL 2004 m. specialusis leidimas, 17 skyrius, 2 tomas, p. 32). ^s-65a4a816219513aad073bcc1
 
 
-2. 2015 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2436 valstybių narių teisės aktams, susijusiems su prekių ženklais, suderinti (nauja redakcija) (OL 2015 L 336, p. 1). ^s-c93f92938257887497663977
+2. 2015 m. gruodžio 16 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/2436](https://eur-lex.europa.eu/eli/dir/2015/2436/oj) valstybių narių teisės aktams, susijusiems su prekių ženklais, suderinti (nauja redakcija) (OL 2015 L 336, p. 1). ^s-c93f92938257887497663977
 
 
-3. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2017/1001 dėl Europos Sąjungos prekių ženklo (kodifikuota redakcija) (OL 2017 L 154, p. 1). ^s-33a66a5e38750e70312032fd
+3. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 2017/1001](https://eur-lex.europa.eu/eli/reg/2017/1001/oj) dėl Europos Sąjungos prekių ženklo (kodifikuota redakcija) (OL 2017 L 154, p. 1). ^s-33a66a5e38750e70312032fd
 
 
 Priedo pakeitimai:
@@ -1930,7 +1930,7 @@ Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 [[#^s-ceae4080660d
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-549, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11946
-Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 2, 11 ir 55-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 [[#^s-c4b76cb17f409869a70e24a1|2]], [[#^s-71cda15c3b52b7a5d619e59f|11]] ir 55-1 straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1950,4 +1950,4 @@ Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 [[#^s-65b33a0517b5
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-494, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17509
-Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 26, 27, 28, 29, 34, 38, 47, 48, 50, 63, 64, 67 ir [[#^s-b5bcbfda33fdc8bea8740052|68 straipsnių]] pakeitimo ir [[#^s-828cc803ba0b0d14ce44a196|49 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 [[#^s-27ccdb1f53da402673154c1b|26]], [[#^s-41a7501d09bd24094f6206a6|27]], [[#^s-65b33a0517b5325f9ed16660|28]], [[#^s-50559d1ca168d310971b4a5b|29]], [[#^s-7d30b8506948710c58175349|34]], [[#^s-d86ce71761c57903150045ef|38]], [[#^s-fcf40e1ac31367715646b596|47]], [[#^s-90fc7d14f5854461c1c59c04|48]], [[#^s-fb8737997d6960e2d2cb61e0|50]], [[#^s-f332b7e509261567d7f26dbe|63]], [[#^s-56fc78f624531198a5e2995b|64]], [[#^s-bd4e7e55d0ec03a76a6c64d3|67]] ir [[#^s-b5bcbfda33fdc8bea8740052|68]] straipsnių pakeitimo ir [[#^s-828cc803ba0b0d14ce44a196|49 straipsnio]] pripažinimo netekusiu galios įstatymas

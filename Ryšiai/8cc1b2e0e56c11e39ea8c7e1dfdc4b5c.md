@@ -9,9 +9,11 @@ pavadinimas: "Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo N
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 2 citatos - Valstybinių socialinio draudimo pensijų įstatymo
+- [[latest/TAR.3E147F656BC4|Lietuvos Respublikos profesionaliojo scenos meno įstatymas]] - 3 citatos - 13 straipsnio 7 dalį
+- [[latest/TAR.3E147F656BC4#^s-ab7a164c0510863decc1fd7a|Lietuvos Respublikos profesionaliojo scenos meno įstatymas]] - 13 straipsnio 2 dalį
+- [[latest/TAR.3E147F656BC4#^s-b8ad820cb6d667a7540b5682|Lietuvos Respublikos profesionaliojo scenos meno įstatymas]] - 13 straipsnio 1 dalį
+- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 3 citatos - 3
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.3E147F656BC4#^s-12a76f3d2409f24e4a62c5c5|Lietuvos Respublikos profesionaliojo scenos meno įstatymas]] - Įstatymas Nr. XII-897
-- [[latest/TAR.3E147F656BC4#^s-3274062952e2a70ccee7038b|Lietuvos Respublikos profesionaliojo scenos meno įstatymas]] - Įstatymas Nr. XII-897
+_Nėra._

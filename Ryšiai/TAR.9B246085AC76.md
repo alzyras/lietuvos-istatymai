@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 21 str
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas]] - Gyventojų pajamų mokesčio įstatymo 21 straipsnio 1 dalies 5 punkto
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C677663D2202#^s-3701335e73d96403403bbbd8|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas]] - Įstatymas Nr. IX-2272
-- [[latest/TAR.C677663D2202#^s-78a01347336b903ab240e1b9|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas]] - Įstatymas Nr. IX-2272
+_Nėra._

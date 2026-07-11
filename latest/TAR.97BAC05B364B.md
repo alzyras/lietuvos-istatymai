@@ -100,7 +100,7 @@ Kitos ministerijos:
 ### 5 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-eaf6f1ba72ba5442533553fb
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2, 3 ir [[#^s-4f6e013770723f9bc8b9a691|4 dalis]], įsigalioja 2010 m. liepos 1 d. ^s-a8ff1fd96ad52bebb9989eb5
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-263950fa0cee4bb8fbdf280d|2]], [[#^s-e4d891e9f3685182221f05f8|3]] ir [[#^s-4f6e013770723f9bc8b9a691|4]] dalis, įsigalioja 2010 m. liepos 1 d. ^s-a8ff1fd96ad52bebb9989eb5
 
 
 2. Suvalkijos (Sūduvos) regioninio kultūros centro savininko teisės ir pareigos iki 2010 m. liepos 1 d. perduodamos Vilkaviškio rajono savivaldybei, o valstybei nuosavybės teise priklausantis ir šio kultūros centro patikėjimo teise valdomas turtas – šios savivaldybės nuosavybėn. ^s-263950fa0cee4bb8fbdf280d

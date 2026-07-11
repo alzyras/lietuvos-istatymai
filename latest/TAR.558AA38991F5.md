@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-740e2c11e363a13191d9a5e4
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. lapkričio 18 d. dekretą Nr. 456, ratifikuoja 1974 m. Tarptautinės konvencijos dėl žmogaus gyvybės apsaugos jūroje 1988 m. protokolą, priimtą 1988 m. lapkričio 11 d. Londone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. lapkričio 18 d. dekretą Nr. 456](https://e-tar.lt/portal/lt/legalAct/TAR.6F758073D917), ratifikuoja 1974 m. Tarptautinės konvencijos dėl žmogaus gyvybės apsaugos jūroje 1988 m. protokolą, priimtą 1988 m. lapkričio 11 d. Londone.
 
 
 

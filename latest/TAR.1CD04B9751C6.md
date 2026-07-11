@@ -158,7 +158,7 @@ PINIGINĖS SOCIALINĖS PARAMOS TEIKIMO SĄLYGOS
 1) nuosavybės teise turimo turto, nurodyto šio įstatymo [[#^s-6f2f02f87d475728c13f1106|12 straipsnyje]], vertė neviršija turto vertės normatyvo; ^s-add1eb36bbee09bf6e956070
 
 
-2) pajamos, nurodytos ir apskaičiuotos pagal šio įstatymo 15 ir [[#^s-89c6a4d607156df02dfc91d9|16 straipsnius]], yra mažesnės už valstybės remiamas pajamas šeimai arba vienam gyvenančiam asmeniui; ^s-6d2af42c58b18a37f5cef8a7
+2) pajamos, nurodytos ir apskaičiuotos pagal šio įstatymo [[#^s-cc5ea50e0db5992ccb1b1b7e|15]] ir [[#^s-89c6a4d607156df02dfc91d9|16]] straipsnius, yra mažesnės už valstybės remiamas pajamas šeimai arba vienam gyvenančiam asmeniui; ^s-6d2af42c58b18a37f5cef8a7
 
 
 3) kiekvienas vyresnis kaip 18 metų šeimos narys, vienas gyvenantis asmuo arba vaikas nuo 16 iki 18 metų atitinka bent vieną iš šio įstatymo [[#^s-0e9364cad2e03d307ddc8f2d|7 straipsnyje]] nurodytų sąlygų. ^s-935e2863ecba1590c3f5d165
@@ -196,7 +196,7 @@ Gyvenamąją vietą būste deklaravę šeimos nariai arba vienas gyvenantis asmu
 1. Sąlygos, kurioms esant asmenys turi teisę į piniginę socialinę paramą: ^s-b607f5bb2b51ecdd59652bce
 
 
-1) vyresni kaip 18 metų asmenys dirba ir per laikotarpį, už kurį pajamos apskaičiuojamos, dirbo ne mažiau kaip du trečdalius maksimalios darbo laiko trukmės (įskaitant laikinojo nedarbingumo, prastovų ne dėl darbuotojo kaltės, kasmetinių atostogų ir kitą dėl pateisinamų priežasčių nedirbtą laiką, už kurį mokama įstatymų nustatyta tvarka), nustatytos [[latest/f6d686707e7011e6b969d7ae07280e89#^s-b4a1150ab83f744bd9b502d4|Darbo kodekso 144 straipsnio 1 dalyje]] arba 145 straipsnyje, arba dirba ne visą darbo laiką [[latest/f6d686707e7011e6b969d7ae07280e89#^s-7856c72b6d51c6a321da36ba|Darbo kodekso 146 straipsnio 1 dalies]] 2–[[#^s-dd92949a0577e438f5f1fd15|6 punktuose]] nustatytais atvejais, o jiems darbo užmokesčio apskaičiuojama ne mažiau už minimalią mėnesinę algą arba minimalų valandinį atlygį proporcingai dirbtam laikui arba atliktam darbui; ^s-6a7d9ed6b974dd5c69fcf3e9
+1) vyresni kaip 18 metų asmenys dirba ir per laikotarpį, už kurį pajamos apskaičiuojamos, dirbo ne mažiau kaip du trečdalius maksimalios darbo laiko trukmės (įskaitant laikinojo nedarbingumo, prastovų ne dėl darbuotojo kaltės, kasmetinių atostogų ir kitą dėl pateisinamų priežasčių nedirbtą laiką, už kurį mokama įstatymų nustatyta tvarka), nustatytos [[latest/f6d686707e7011e6b969d7ae07280e89#^s-7856c72b6d51c6a321da36ba|Darbo kodekso 144 straipsnio 1 dalyje arba 145 straipsnyje, arba dirba ne visą darbo laiką Darbo kodekso 146 straipsnio 1 dalies]] [[latest/f6d686707e7011e6b969d7ae07280e89|2]]–[[latest/f6d686707e7011e6b969d7ae07280e89|6]] punktuose nustatytais atvejais, o jiems darbo užmokesčio apskaičiuojama ne mažiau už minimalią mėnesinę algą arba minimalų valandinį atlygį proporcingai dirbtam laikui arba atliktam darbui; ^s-6a7d9ed6b974dd5c69fcf3e9
 
 
 2) asmenys mokosi dieninėse bendrojo lavinimo mokyklose ir kitų formaliojo švietimo įstaigų dieniniuose skyriuose, kol jiems sukaks 24 metai bei laikotarpiu nuo dieninės bendrojo lavinimo mokyklos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, bet ne ilgiau, negu kol jiems sukaks 24 metai; ^s-180951a867ccb0991fb0e58c
@@ -232,10 +232,10 @@ Gyvenamąją vietą būste deklaravę šeimos nariai arba vienas gyvenantis asmu
 12) motina arba tėvas, kai vieno iš jų nėra arba jis (ji) dėl ligos, neįgalumo, bausmės atlikimo ir kitų svarbių priežasčių negali prižiūrėti vaiko (vaikų), augina namuose vaiką (vaikus) iki 14 metų ir dirba šeimai nuosavybės teise priklausančius ar išsinuomotus ne mažiau kaip 2 hektarus žemės ūkio naudmenų; ^s-c5b39b1b266bdc45f54a1558
 
 
-13) vaikai nuo 16 iki 18 metų: mokosi; dirba; yra įsiregistravę teritorinėje darbo biržoje (šios dalies 5 ir [[#^s-03d3fae78019f2815adc9d31|10 punkto]] sąlygos netaikomos); įstatymų nustatyta tvarka yra nustatytas neįgalumas; nėštumo metu (sukakus 18 metų teisė į piniginę socialinę paramą išlieka iki [[#^s-523771b1efa61d992943b0cc|šios dalies 8 punkte]] nustatytos sąlygos atsiradimo). ^s-148a9ae27ecf2694e4ea9f1c
+13) vaikai nuo 16 iki 18 metų: mokosi; dirba; yra įsiregistravę teritorinėje darbo biržoje (šios dalies [[#^s-acd3d549dc19d3675eba8647|5]] ir [[#^s-03d3fae78019f2815adc9d31|10]] punkto sąlygos netaikomos); įstatymų nustatyta tvarka yra nustatytas neįgalumas; nėštumo metu (sukakus 18 metų teisė į piniginę socialinę paramą išlieka iki [[#^s-523771b1efa61d992943b0cc|šios dalies 8 punkte]] nustatytos sąlygos atsiradimo). ^s-148a9ae27ecf2694e4ea9f1c
 
 
-2. Auginančių vaikus iki 18 metų nesusituokusių asmenų, nutraukusių santuoką ar gyvenančių skyrium sutuoktinių šeimos, atitinkančios šio įstatymo 5 ir [[#^s-ce33374d8bb8c73bc8513008|6 straipsnių]] reikalavimus, teisę į socialinę pašalpą turi: ^s-c4a89b1d9f8bc5f9d8d8bcea
+2. Auginančių vaikus iki 18 metų nesusituokusių asmenų, nutraukusių santuoką ar gyvenančių skyrium sutuoktinių šeimos, atitinkančios šio įstatymo [[#^s-0eec3710bb1e4ce2973abbf9|5]] ir [[#^s-ce33374d8bb8c73bc8513008|6]] straipsnių reikalavimus, teisę į socialinę pašalpą turi: ^s-c4a89b1d9f8bc5f9d8d8bcea
 
 
 1) sudarius teismo patvirtintą sutartį dėl vaiko (vaikų), kuriam (kuriems) yra pripažinta tėvystė, materialinio išlaikymo arba teismui priteisus šiam vaikui (šiems vaikams) išlaikymą; ^s-c7b6e747a87e770cf857b520
@@ -572,7 +572,7 @@ PAJAMŲ PINIGINEI SOCIALINEI PARAMAI GAUTI APSKAIČIAVIMAS
 1. Kompensacijos apskaičiuojamos pagal visų šeimos narių vidutinių mėnesio pajamų dalį, tenkančią būste gyvenamąją vietą deklaravusiems šeimos nariams arba gyvenamąją vietą deklaravusio vieno gyvenančio asmens vidutines mėnesio pajamas. ^s-59c376474577e7404a18ed0f
 
 
-2. Šeimos arba vieno gyvenančio asmens mėnesio pajamos kompensacijoms gauti apskaičiuojamos šio įstatymo [[#^s-89c6a4d607156df02dfc91d9|16 straipsnio]] 1 arba [[#^s-e727763d53193b73dfa0edf3|2 dalyje]] nustatyta tvarka. ^s-e727763d53193b73dfa0edf3
+2. Šeimos arba vieno gyvenančio asmens mėnesio pajamos kompensacijoms gauti apskaičiuojamos šio įstatymo [[#^s-89c6a4d607156df02dfc91d9|16 straipsnio]] 1 arba 2 dalyje nustatyta tvarka. ^s-e727763d53193b73dfa0edf3
 
 
 3. Socialinę pašalpą gaunančiai šeimai arba vienam gyvenančiam asmeniui kompensacijos apskaičiuojamos pagal pajamas, kurios paskutinį kartą buvo nurodytos skiriant socialinę pašalpą, įskaitant pagal šias pajamas paskirtos socialinės pašalpos dydį. ^s-fe44761a8283562aa41454d7
@@ -606,13 +606,13 @@ Piniginę socialinę paramą teikia šeimos arba vieno gyvenančio asmens deklar
 ### 19 straipsnis. Kreipimasis dėl piniginės socialinės paramos ^s-c9187f0fd44e682255b5e50d
 
 
-1. Kreipdamasis dėl piniginės socialinės paramos, pareiškėjas užpildo Vyriausybės ar jos įgaliotos institucijos patvirtintą prašymą-paraišką, nurodo duomenis apie save ir šeimos narius, veiklos pobūdį, turimą turtą ir šio įstatymo [[#^s-599e21b02b945fc2ea7ff4dc|12 straipsnio 1 dalies]] 6–11 punktuose bei [[#^s-039188dfcf34352de45ed27d|2 dalyje]] nurodyto turto vertę, gaunamas pajamas, taip pat kitą piniginei socialinei paramai gauti būtiną informaciją. Prie prašymo-paraiškos pridedamos šeimos narių arba vieno gyvenančio asmens pažymos apie šio įstatymo [[#^s-cc5ea50e0db5992ccb1b1b7e|15 straipsnyje]] nurodytas pajamas, gautas per 3 praėjusius mėnesius iki mėnesio, nuo kurio skiriama piniginė socialinė parama, arba, jei pajamų šaltinis yra pasikeitęs, pajamas to mėnesio, nuo kurio prašoma skirti piniginę socialinę paramą. Visų prašyme-paraiškoje pateiktų duomenų teisingumą pareiškėjas patvirtina savo parašu. ^s-5b129a205b3407a8e16e8551
+1. Kreipdamasis dėl piniginės socialinės paramos, pareiškėjas užpildo Vyriausybės ar jos įgaliotos institucijos patvirtintą prašymą-paraišką, nurodo duomenis apie save ir šeimos narius, veiklos pobūdį, turimą turtą ir šio įstatymo [[#^s-599e21b02b945fc2ea7ff4dc|12 straipsnio 1 dalies]] [[#^s-0136a5a682b4d8dd10da7e73|6]]–[[#^s-396fef5b4fc01379693a3b88|11]] punktuose bei [[#^s-039188dfcf34352de45ed27d|2 dalyje]] nurodyto turto vertę, gaunamas pajamas, taip pat kitą piniginei socialinei paramai gauti būtiną informaciją. Prie prašymo-paraiškos pridedamos šeimos narių arba vieno gyvenančio asmens pažymos apie šio įstatymo [[#^s-cc5ea50e0db5992ccb1b1b7e|15 straipsnyje]] nurodytas pajamas, gautas per 3 praėjusius mėnesius iki mėnesio, nuo kurio skiriama piniginė socialinė parama, arba, jei pajamų šaltinis yra pasikeitęs, pajamas to mėnesio, nuo kurio prašoma skirti piniginę socialinę paramą. Visų prašyme-paraiškoje pateiktų duomenų teisingumą pareiškėjas patvirtina savo parašu. ^s-5b129a205b3407a8e16e8551
 
 
 2. Pareiškėjas pateikia duomenis apie mėnesio, einančio prieš prašymo-paraiškos pateikimo mėnesį, paskutinę dieną turimą turtą, nurodytą šio įstatymo [[#^s-6f2f02f87d475728c13f1106|12 straipsnyje]], ir tai patvirtinančius dokumentus. Šie duomenys, nesant pasikeitimų, pateikiami kas 12 mėnesių. Šiam terminui pasibaigus, socialinės paramos teikimo laikotarpiu iki paramos teikimo laikotarpio pabaigos naujų duomenų apie turimą turtą pateikti nereikia. ^s-039188dfcf34352de45ed27d
 
 
-3. Turto, nurodyto šio įstatymo [[#^s-599e21b02b945fc2ea7ff4dc|12 straipsnio 1 dalies]] 1–5 punktuose, vertę nustato savivaldybės administracija, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos parengta metodika ir Vyriausybės ar jos įgaliotos institucijos patvirtintomis žemės ūkio produkcijos sąlyginėmis vertėmis. ^s-fbce7ab98e5589650065483c
+3. Turto, nurodyto šio įstatymo [[#^s-599e21b02b945fc2ea7ff4dc|12 straipsnio 1 dalies]] [[#^s-408c6ac6b0fff1aa556e22d3|1]]–[[#^s-13c17127fcfb505f32c6d81c|5]] punktuose, vertę nustato savivaldybės administracija, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos parengta metodika ir Vyriausybės ar jos įgaliotos institucijos patvirtintomis žemės ūkio produkcijos sąlyginėmis vertėmis. ^s-fbce7ab98e5589650065483c
 
 
 
@@ -680,7 +680,7 @@ Piniginę socialinę paramą teikia šeimos arba vieno gyvenančio asmens deklar
 2) apskaičiuotų kompensacijų sumą pervedant į energiją, kurą, šaltą bei karštą vandenį tiekiančių įmonių atsiskaitomąsias sąskaitas bankuose. ^s-0e7aee900116a7c8bccbed81
 
 
-3. Šeimai arba vienam gyvenančiam asmeniui pakeitus deklaruotą gyvenamąją vietą (jei gyvenamosios vietos neturi, – savivaldybę, kurioje gyvena), ankstesnėje savivaldybėje piniginės socialinės paramos teikimas nutraukiamas išmokėjus už tą mėnesį, kurį buvo pakeista deklaruota gyvenamoji vieta (jei gyvenamosios vietos neturi – savivaldybė, kurioje gyveno). Šeimai arba vienam gyvenančiam asmeniui, kurie dėl piniginės socialinės paramos nustatyta tvarka kreipiasi į naujos deklaruojamos gyvenamosios vietos savivaldybę (jei gyvenamosios vietos neturi, – į savivaldybę, kurioje apsigyvena), ši parama teikiama vadovaujantis šio įstatymo [[#^s-6b0ee2a179ca0a303a150581|20 straipsnio]] 2 ir [[#^s-26fb4c234220a8ed78e904b8|5 dalimis]], bet ne anksčiau, kaip nuo kito mėnesio po gyvenamosios vietos pakeitimo. ^s-fc770e3754105fb3aa50bcf9
+3. Šeimai arba vienam gyvenančiam asmeniui pakeitus deklaruotą gyvenamąją vietą (jei gyvenamosios vietos neturi, – savivaldybę, kurioje gyvena), ankstesnėje savivaldybėje piniginės socialinės paramos teikimas nutraukiamas išmokėjus už tą mėnesį, kurį buvo pakeista deklaruota gyvenamoji vieta (jei gyvenamosios vietos neturi – savivaldybė, kurioje gyveno). Šeimai arba vienam gyvenančiam asmeniui, kurie dėl piniginės socialinės paramos nustatyta tvarka kreipiasi į naujos deklaruojamos gyvenamosios vietos savivaldybę (jei gyvenamosios vietos neturi, – į savivaldybę, kurioje apsigyvena), ši parama teikiama vadovaujantis šio įstatymo [[#^s-6b0ee2a179ca0a303a150581|20 straipsnio]] [[#^s-8d584d5d5dddc732cf8e8990|2]] ir [[#^s-e17c7def9a5e91980bdf4328|5]] dalimis, bet ne anksčiau, kaip nuo kito mėnesio po gyvenamosios vietos pakeitimo. ^s-fc770e3754105fb3aa50bcf9
 
 
 4. Paskirta, bet laiku neatsiimta socialinė pašalpa išmokama, jei dėl jos buvo kreiptasi ne vėliau kaip per 3 mėnesius nuo paskutinio mėnesio, už kurį pašalpa priklausė. ^s-d9c20c033a2927bc94a3be3d
@@ -714,10 +714,10 @@ Piniginę socialinę paramą teikia šeimos arba vieno gyvenančio asmens deklar
 2) kompensacijas socialinės rizikos šeimoms ar asmenims teikti šio įstatymo [[#^s-0e7aee900116a7c8bccbed81|21 straipsnio 2 dalies 2 punkte]] nustatytu būdu; ^s-807c8ca479e8b318ea32bb8d
 
 
-3) kompensacijas šeimai arba vienam gyvenančiam asmeniui, įsiskolinusiems už būsto šildymą, karštą ar šaltą vandenį, skirti šio įstatymo [[#^s-0e7aee900116a7c8bccbed81|21 straipsnio 2 dalies 2 punkte]] nustatytu būdu, jei šeima arba vienas gyvenantis asmuo neatitinka šio įstatymo [[#^s-f9dbbc813be2aa22a03cca03|6 straipsnio 6 punkto]] reikalavimo; ^s-5a1681412205944a65882790
+3) kompensacijas šeimai arba vienam gyvenančiam asmeniui, įsiskolinusiems už būsto šildymą, karštą ar šaltą vandenį, skirti šio įstatymo [[#^s-0e7aee900116a7c8bccbed81|21 straipsnio 2 dalies 2 punkte]] nustatytu būdu, jei šeima arba vienas gyvenantis asmuo neatitinka šio įstatymo 6 straipsnio 6 punkto reikalavimo; ^s-5a1681412205944a65882790
 
 
-4) neskirti kompensacijų, nutraukti jų teikimą įsiskolinusiai už būsto šildymą, šaltą bei karštą vandenį šeimai arba vienam gyvenančiam asmeniui, kurie atsisako sudaryti šio įstatymo [[#^s-f9dbbc813be2aa22a03cca03|6 straipsnio 6 punkte]] nurodytą sutartį arba jos nevykdo. ^s-e11b1fc7c004028d31db463f
+4) neskirti kompensacijų, nutraukti jų teikimą įsiskolinusiai už būsto šildymą, šaltą bei karštą vandenį šeimai arba vienam gyvenančiam asmeniui, kurie atsisako sudaryti šio įstatymo 6 straipsnio 6 punkte nurodytą sutartį arba jos nevykdo. ^s-e11b1fc7c004028d31db463f
 
 
 2. Savivaldybės administracija, teikdama piniginę socialinę paramą, turi teisę: ^s-364ad7336eac05eff7bfa7e7
@@ -744,7 +744,7 @@ Piniginę socialinę paramą teikia šeimos arba vieno gyvenančio asmens deklar
 3. Patikrinus šeimos gyvenimo sąlygas ir surašius buities tyrimo aktą, savivaldybės administracijai suteikiama teisė iš šio įstatymo [[#^s-ede46f7d91a195f2eb87f692|4 straipsnio 2 dalyje]] numatytų lėšų: ^s-5869483c47c8dc1c2e77fcb9
 
 
-1) skirti socialinę pašalpą, jei šeimos arba vieno gyvenančio asmens pajamos yra mažesnės už valstybės remiamas pajamas šeimai arba vienam gyvenančiam asmeniui, tačiau šeima arba vienas gyvenantis asmuo neatitinka šio įstatymo [[#^s-0eec3710bb1e4ce2973abbf9|5 straipsnio]] 1 ar [[#^s-b1de66da2bde70200303b7dd|3 punktuose]] nustatytų reikalavimų; ^s-81a75854d391f14e7a8e1391
+1) skirti socialinę pašalpą, jei šeimos arba vieno gyvenančio asmens pajamos yra mažesnės už valstybės remiamas pajamas šeimai arba vienam gyvenančiam asmeniui, tačiau šeima arba vienas gyvenantis asmuo neatitinka šio įstatymo [[#^s-0eec3710bb1e4ce2973abbf9|5 straipsnio]] 1 ar 3 punktuose nustatytų reikalavimų; ^s-81a75854d391f14e7a8e1391
 
 
 2) skirti kompensacijas, jei išlaidos už būsto šildymą, už faktinį šalto vandens ir karšto vandens kiekį atitinka šio įstatymo [[#^s-ac6b36bc153eb205987f1de1|9 straipsnio]] nustatytus kompensuojamus dydžius, tačiau šeima arba vienas gyvenantis asmuo neatitinka šio įstatymo [[#^s-ce33374d8bb8c73bc8513008|6 straipsnio]] 1 ar 5 punktuose nustatytų reikalavimų; ^s-4b68612535c4f2b8ac7b1336

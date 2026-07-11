@@ -120,7 +120,7 @@ Pakeisti 39 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 1. 58 straipsnio 2 dalyje vietoj žodžių „Farmacijos departamentui prie Sveikatos apsaugos ministerijos“ įrašyti žodžius „Sveikatos apsaugos ministerijai“ ir šią dalį išdėstyti taip: ^s-6679b91b43fc7b4dc254ef43
 
 
-„2. Pareiškėjas, siekdamas įrašyti vaistinį preparatą, ligą ar medicinos pagalbos priemonę į [[#^s-6679b91b43fc7b4dc254ef43|šio straipsnio 1 dalyje]] nurodytus sąrašus, sveikatos apsaugos ministro nustatyta tvarka pateikia Sveikatos apsaugos ministerijai paraišką ir dokumentus. Paraiškos nagrinėjamos sveikatos apsaugos ministro nustatyta tvarka.“
+„2. Pareiškėjas, siekdamas įrašyti vaistinį preparatą, ligą ar medicinos pagalbos priemonę į šio straipsnio 1 dalyje nurodytus sąrašus, sveikatos apsaugos ministro nustatyta tvarka pateikia Sveikatos apsaugos ministerijai paraišką ir dokumentus. Paraiškos nagrinėjamos sveikatos apsaugos ministro nustatyta tvarka.“
 
 
 2. 58 straipsnio 3 dalyje vietoj žodžių „Farmacijos departamente“ įrašyti žodžius „Sveikatos apsaugos ministerijoje“ ir šią dalį išdėstyti taip: ^s-8014646ab016062ca4749129

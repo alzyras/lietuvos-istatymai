@@ -9,9 +9,12 @@ pavadinimas: "Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 34 s
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.FF1083B528B7#^s-3b5e7773fbd4ce5d1fb72a1c|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 34 straipsnio 7 dalį
+- [[latest/TAR.FF1083B528B7#^s-d748fc3a9af7a02b5686cfa5|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 34 straipsnio
+- [[latest/TAR.FF1083B528B7#^s-e72f5ed5fedbc3288e8c0b40|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 34 straipsnio 8 dalį
+- [[latest/TAR.FF1083B528B7#^s-ed327bc97550418b7b9694c9|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 34 straipsnio 5 dalies 3 punktą
+- [[latest/TAR.FF1083B528B7#^s-f7ff7a9e43875eca9a204e88|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 34 straipsnio 1 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.FF1083B528B7#^s-6ac9fe30ead8b245d11df8b8|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Įstatymas Nr. XV-220
-- [[latest/TAR.FF1083B528B7#^s-f37a445d4c8bf2d27f9dbaf1|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Įstatymas Nr. XV-220
+_Nėra._

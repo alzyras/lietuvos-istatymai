@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis.         Europos Tarybos ir UNESCO kvalifikacijų, susijusių su aukštuoju mokslu, pripažinimo Europos regiono valstybėse konvencijos ratifikavimas ^s-83494d114fb43dd56ae4415c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1998 m. rugpjūčio 13 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos Tarybos ir UNESCO kvalifikacijų, susijusių su aukštuoju mokslu, pripažinimo Europos regiono valstybėse konvenciją“, ratifikuoja Europos Tarybos ir UNESCO kvalifikacijų, susijusių su aukštuoju mokslu, pripažinimo Europos regiono valstybėse konvenciją.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1998 m. rugpjūčio 13 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos Tarybos ir UNESCO kvalifikacijų, susijusių su aukštuoju mokslu, pripažinimo Europos regiono valstybėse konvenciją“](https://e-tar.lt/portal/lt/legalAct/TAR.CCFE9994A35F), ratifikuoja Europos Tarybos ir UNESCO kvalifikacijų, susijusių su aukštuoju mokslu, pripažinimo Europos regiono valstybėse konvenciją.
 
 
 

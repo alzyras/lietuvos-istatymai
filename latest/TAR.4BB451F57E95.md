@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. 7 straipsnio 2 dalies pakeitimas ^s-2ae30b998514ae5094f5cfa3
 
 
-Pakeisti 7 straipsnio 2 dalies 3 punktą, papildyti 4 ir [[#^s-25f53ba93e54084930f56415|5 punktais]] ir visą dalį išdėstyti taip:
+Pakeisti 7 straipsnio 2 dalies 3 punktą, papildyti 4 ir 5 punktais ir visą dalį išdėstyti taip:
 
 
 „2. Piniginės kompensacijos mokamos nuo sprendimo atkurti nuosavybės teises priėmimo dienos Vyriausybės nustatyta tvarka ir sąlygomis:

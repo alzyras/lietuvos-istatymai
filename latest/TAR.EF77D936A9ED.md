@@ -48,7 +48,7 @@ Vilnius
 5. Pasiūlyti Lietuvos Respublikos Vyriausybei:
 
 
-1) parengti ir pateikti Seimui iki 1996 m. kovo 1 d. įstatymų dėl [[latest/TAR.CC10C5274343|Žemės įstatymo]] pakeitimo ir papildymo, Įmonių įstatymo papildymo, [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatymo]] pakeitimo, Žyminio mokesčio įstatymo papildymo projektus;
+1) parengti ir pateikti Seimui iki 1996 m. kovo 1 d. įstatymų dėl [[latest/TAR.CC10C5274343|Žemės įstatymo]] pakeitimo ir papildymo, [Įmonių įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B) papildymo, [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatymo]] pakeitimo, [Žyminio mokesčio įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.6DF39F2BB769) papildymo projektus;
 
 
 2) parengti ir patvirtinti Teritorijų planavimo įstatymui įgyvendinti reikalingus poįstatyminius aktus.

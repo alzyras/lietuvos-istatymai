@@ -101,10 +101,10 @@ Nustatyti šią savivaldybių biudžetų ir valstybės biudžeto mokestinių paj
 a) savivaldybių biudžetų 1998 metais negautoms mokestinėms pajamoms dengti (pagal mokestinių pajamų plano numatomo įvykdymo duomenis);
 
 
-b) iš nepanaudotų pagal šio straipsnio [[#^s-35b980506be2e3e909c22a7d|2 punkto]] a papunktį rezervo lėšų padengiamos valstybės biudžeto 1998 metais negautos planuotos mokestinės pajamos (pagal mokestinių pajamų plano numatomo įvykdymo duomenis);
+b) iš nepanaudotų pagal šio straipsnio 2 punkto a papunktį rezervo lėšų padengiamos valstybės biudžeto 1998 metais negautos planuotos mokestinės pajamos (pagal mokestinių pajamų plano numatomo įvykdymo duomenis);
 
 
-c) nepanaudotas pagal šio straipsnio [[#^s-35b980506be2e3e909c22a7d|2 punkto]] a ir b papunkčius mokestinių pajamų išlyginimo rezervo likutis skiriamas savivaldybių butų fondui kaupti.“
+c) nepanaudotas pagal šio straipsnio 2 punkto a ir b papunkčius mokestinių pajamų išlyginimo rezervo likutis skiriamas savivaldybių butų fondui kaupti.“
 
 
 

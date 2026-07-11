@@ -188,7 +188,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 4) statutiniams valstybės tarnautojams už darbą, jei jis tiesiogiai susijęs su tarnybinių gyvūnų priežiūra ir parengimu tarnybinėms pareigoms atlikti. ^s-14042b5edf04ce031daeca2b
 
 
-2. [[#^s-708f18b4abfb7b7d3d808705|Šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytos priemokos negali būti mokamos ilgiau kaip vienerius metus nuo jų paskyrimo, išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojus. Jei valstybės tarnautojui ilgiau negu vienerius metus tenka dirbti [[#^s-708f18b4abfb7b7d3d808705|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytomis sąlygomis, laikoma, kad jos įgavo nuolatinį pobūdį. Šiuo atveju papildomas valstybės tarnautojo pareigybės aprašymas, taikoma Valstybės tarnybos įstatymo 43 straipsnio 12 dalyje nustatyta garantija ir gali būti patikslinami struktūrinio padalinio uždaviniai ir funkcijos. ^s-72689023d6a2bdfa28896fcb
+2. [[#^s-708f18b4abfb7b7d3d808705|Šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytos priemokos negali būti mokamos ilgiau kaip vienerius metus nuo jų paskyrimo, išskyrus politinio (asmeninio) pasitikėjimo valstybės tarnautojus. Jei valstybės tarnautojui ilgiau negu vienerius metus tenka dirbti [[#^s-708f18b4abfb7b7d3d808705|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytomis sąlygomis, laikoma, kad jos įgavo nuolatinį pobūdį. Šiuo atveju papildomas valstybės tarnautojo pareigybės aprašymas, taikoma [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo 43 straipsnio 12 dalyje]] nustatyta garantija ir gali būti patikslinami struktūrinio padalinio uždaviniai ir funkcijos. ^s-72689023d6a2bdfa28896fcb
 
 
 3. Priemokų dydį nustato valstybės tarnautoją į pareigas priimantis asmuo. [[#^s-708f18b4abfb7b7d3d808705|Šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytų priemokų suma negali viršyti 60 procentų pareiginės algos, o [[#^s-708f18b4abfb7b7d3d808705|1 dalies]] 3 ir 4 punktuose nurodytos priemokos dydis negali viršyti 20 procentų pareiginės algos.“ ^s-afd06bd415cf523e8e1e5a92
@@ -297,7 +297,7 @@ Viršvalandiniai darbai valstybės tarnautojui gali būti skiriami tik [[latest/
 ### 15 straipsnis. Įstatymo įsigaliojimas ^s-d0cc4e82dba1d25124797d17
 
 
-Šis įstatymas, išskyrus [[#^s-5f3eddb640d829cc61b2cee6|2 straipsnio]] 1 ir 2 dalis, [[#^s-902d0c7ca0e11ea0db6e3a33|3 straipsnį]], [[#^s-a665b20d9784bdb2acd55819|5 straipsnio 1 dalį]], 11, 13 ir [[#^s-cc7ac66435f37c12e92ff21d|14 straipsnius]], įsigalioja 2009 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-5f3eddb640d829cc61b2cee6|2 straipsnio]] [[#^s-f738ddc296a15e3db8e3ad9c|1]] ir [[#^s-2864c219fb928c79f61715e0|2]] dalis, [[#^s-902d0c7ca0e11ea0db6e3a33|3 straipsnį]], [[#^s-a665b20d9784bdb2acd55819|5 straipsnio 1 dalį]], [[#^s-c23a60d43d2e1bb15972545c|11]], [[#^s-e84e949ff0757c6c129359af|13]] ir [[#^s-cc7ac66435f37c12e92ff21d|14]] straipsnius, įsigalioja 2009 m. sausio 1 d.
 
 
 

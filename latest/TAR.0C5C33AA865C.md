@@ -75,7 +75,7 @@ Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 
 
 
-3. Europos Sąjungos energetikos reguliavimo institucijų bendradarbiavimo agentūra – agentūra, kurios veiklą reglamentuoja 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/942, kuriuo įsteigiama Europos Sąjungos energetikos reguliavimo institucijų bendradarbiavimo agentūra (toliau – Agentūra). ^s-18d7602f1990ecde36c384f5
+3. Europos Sąjungos energetikos reguliavimo institucijų bendradarbiavimo agentūra – agentūra, kurios veiklą reglamentuoja 2019 m. birželio 5 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2019/942](https://eur-lex.europa.eu/eli/reg/2019/942/oj), kuriuo įsteigiama Europos Sąjungos energetikos reguliavimo institucijų bendradarbiavimo agentūra (toliau – Agentūra). ^s-18d7602f1990ecde36c384f5
 Straipsnio dalies pakeitimai:
 Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
 
@@ -161,7 +161,7 @@ Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 19. Gamtinių dujų rinka – asmenų, vykdančių gamtinių dujų gavybą, perdavimą, skirstymą, tiekimą, skystinimą, laikymą, SGD pakartotinį dujinimą ir SGD perkrovą, santykių visuma, apimanti didmeninę ir mažmeninę prekybą gamtinėmis dujomis, paslaugų teikimą ir pagrįsta teisėtumo ir lygiateisiškumo principais bei trečiųjų šalių prieigos principu. ^s-1d6d76aec4ae05b1c63f4740
 
 
-20. Gamtinių dujų rinkos finansinė priemonė – finansinė priemonė, nurodyta [[latest/TAR.AB7AFE2F35B2#^s-bd957f5b69326a7887eb58d6|Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies]] 5, 6, 7 punktuose, jeigu ta priemonė susijusi su gamtinėmis dujomis. ^s-c53e89554ff7b2b155795947
+20. Gamtinių dujų rinkos finansinė priemonė – finansinė priemonė, nurodyta [[latest/TAR.AB7AFE2F35B2#^s-bd957f5b69326a7887eb58d6|Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-edbf5c7a8a2d2a4e3c63aee5|5]], [[latest/TAR.AB7AFE2F35B2#^s-357c955097e415f25b66d1d0|6]], [[latest/TAR.AB7AFE2F35B2#^s-64e2a40f5e6bbb6b955b6e01|7]] punktuose, jeigu ta priemonė susijusi su gamtinėmis dujomis. ^s-c53e89554ff7b2b155795947
 Straipsnio dalies pakeitimai:
 Nr. XIII-1256, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09924
 
@@ -496,7 +496,7 @@ Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
 13) nustato proporcingas laikinąsias priemones, taikytinas staiga įvykus gamtinių dujų ar visos energetikos rinkos krizei ar iškilus grėsmei asmenų, gamtinių dujų įrenginių arba gamtinių dujų sistemos vientisumo saugumui; ^s-1653b0d66949a7d2299819bb
 
 
-14) nustato pažeidžiamų gamtinių dujų vartotojų ir solidariai saugomų pažeidžiamų gamtinių dujų vartotojų ir jų grupių sąrašus, vadovaudamasi Reglamento (ES) Nr. 2017/1938 [[#^s-19c8afc02c2c8ed8a6b42063|2 straipsnio]] 5 ir [[#^s-6962e3c21a6b839de0b074c8|6 punktų]] nuostatomis; ^s-2904dfcc180cb7291c35676c
+14) nustato pažeidžiamų gamtinių dujų vartotojų ir solidariai saugomų pažeidžiamų gamtinių dujų vartotojų ir jų grupių sąrašus, vadovaudamasi [Reglamento (ES) Nr. 2017/1938 2 straipsnio](https://eur-lex.europa.eu/eli/reg/2017/1938/art_2/oj) 5 ir 6 punktų nuostatomis; ^s-2904dfcc180cb7291c35676c
 Straipsnio punkto pakeitimai:
 Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
 
@@ -705,10 +705,10 @@ Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
 
 
 
-3. Taryba rengia ir tvirtina šio straipsnio 1 ir [[#^s-31f3c966d56b471809ccef6f|2 dalyse]] nurodytų paslaugų kainų nustatymo metodikas. ^s-2b47660deafdb47ab6ef0ead
+3. Taryba rengia ir tvirtina šio straipsnio [[#^s-b1e1b667447d8495fc594e51|1]] ir [[#^s-31f3c966d56b471809ccef6f|2]] dalyse nurodytų paslaugų kainų nustatymo metodikas. ^s-2b47660deafdb47ab6ef0ead
 
 
-4. Taryba, nustatydama šio straipsnio 1 ir [[#^s-31f3c966d56b471809ccef6f|2 dalyse]] nurodytas reguliuojamas kainas: ^s-89f242f4a89f41874abb119e
+4. Taryba, nustatydama šio straipsnio [[#^s-b1e1b667447d8495fc594e51|1]] ir [[#^s-31f3c966d56b471809ccef6f|2]] dalyse nurodytas reguliuojamas kainas: ^s-89f242f4a89f41874abb119e
 
 
 1) nustato reikalavimus gamtinių dujų įmonėms teikti paslaugas kainomis, pagrįstomis sąnaudomis, įskaitant protingumo kriterijų atitinkančią investicijų grąžą, ir turi teisę pareikalauti, kad gamtinių dujų įmonės įrodytų kainų pagrindimą sąnaudomis. Taryba turi teisę nustatyti privalomą protingumo kriterijų atitinkantį terminą šioms sąnaudoms pagrįsti. Jeigu per šį terminą asmuo neįrodo sąnaudų pagrįstumo, laikoma, kad asmens sąnaudos yra nepagrįstos; ^s-cc077c2859c5b16f5d67ac4c
@@ -734,7 +734,7 @@ Nr. XIV-2841, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12636
 
 
 
-5. Nustatant šio straipsnio 1 ir [[#^s-31f3c966d56b471809ccef6f|2 dalyse]] nurodytas reguliuojamas viršutines paslaugų kainų ir (ar) pajamų ribas ar konkrečias paslaugų kainas, turi būti numatytos būtinos investicijos, užtikrinančios efektyvią gamtinių dujų įmonės veiklą. ^s-3814b97a4a03373456073e40
+5. Nustatant šio straipsnio [[#^s-b1e1b667447d8495fc594e51|1]] ir [[#^s-31f3c966d56b471809ccef6f|2]] dalyse nurodytas reguliuojamas viršutines paslaugų kainų ir (ar) pajamų ribas ar konkrečias paslaugų kainas, turi būti numatytos būtinos investicijos, užtikrinančios efektyvią gamtinių dujų įmonės veiklą. ^s-3814b97a4a03373456073e40
 
 
 6. Gamtinių dujų tiekimo kaina yra reguliuojama, kai Tarybos pagal šio įstatymo [[#^s-2e10572bffd9699a7f415f07|11 straipsnį]] atliekamo rinkos tyrimo metu yra nustatoma, kad dėl veiksmingos konkurencijos trūkumo asmuo taiko pernelyg dideles kainas, tai yra palyginamosios analizės metodu įvertintas vidutines kainas, viršijančias gamtinių dujų ir gamtinių dujų tiekimo paslaugos kainas, arba naudoja kainų spaudimą, tuo darydamas žalą rinkos dalyviams. ^s-303354262e35d74ae50f9525
@@ -774,7 +774,7 @@ Nr. XIV-1095, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10293
 
 
 
-161. Kai gamtinių dujų tarifai tvirtinami 6 kalendoriniams mėnesiams patvirtinus [[latest/TAR.44235B485568#^s-03721d19bc304d6fdffa0309|Energetikos įstatymo 192 straipsnyje]] nurodytus suvartotų gamtinių dujų kainos dalies kompensavimo buitiniams vartotojams dydžius arba perskaičiuojami pakeitus gamtinių dujų kainos dalies kompensavimo buitiniams vartotojams dydžius, [[latest/TAR.44235B485568#^s-1d96b20f7ed8d819fbd6fa31|Energetikos įstatymo 19 straipsnio 3 dalies]] nuostata netaikoma. Patvirtinti gamtinių dujų tarifai taikomi nuo prasidedančio kalendorinio pusmečio pirmo mėnesio pirmos dienos, o perskaičiuoti gamtinių dujų tarifai – nuo kito mėnesio, einančio po to mėnesio, kurį buvo priimtas Tarybos sprendimas dėl gamtinių dujų tarifų buitiniams vartotojams patvirtinimo, pirmos dienos, jeigu Tarybos sprendime nenumatyta vėlesnė įsigaliojimo data. ^s-c6ac70b071d85815e0c3e568
+161. Kai gamtinių dujų tarifai tvirtinami 6 kalendoriniams mėnesiams patvirtinus [[latest/TAR.44235B485568#^s-03721d19bc304d6fdffa0309|Energetikos įstatymo 192 straipsnyje]] nurodytus suvartotų gamtinių dujų kainos dalies kompensavimo buitiniams vartotojams dydžius arba perskaičiuojami pakeitus gamtinių dujų kainos dalies kompensavimo buitiniams vartotojams dydžius, [[latest/TAR.44235B485568#^s-1d96b20f7ed8d819fbd6fa31|Energetikos įstatymo 19 straipsnio 3 dalies]] nuostata netaikoma. Patvirtinti gamtinių dujų tarifai taikomi nuo prasidedančio kalendorinio pusmečio pirmo mėnesio pirmos dienos, o perskaičiuoti gamtinių dujų tarifai – nuo kito mėnesio, einančio po to mėnesio, kurį buvo priimtas Tarybos sprendimas [dėl gamtinių dujų tarifų buitiniams vartotojams](https://e-tar.lt/portal/lt/legalAct/TAR.BB4DFFA4D12F) patvirtinimo, pirmos dienos, jeigu Tarybos sprendime nenumatyta vėlesnė įsigaliojimo data. ^s-c6ac70b071d85815e0c3e568
 Papildyta straipsnio dalimi:
 Nr. XIV-1095, 2022-05-12, paskelbta TAR 2022-05-16, i. k. 2022-10293
 
@@ -786,7 +786,7 @@ Nr. XIV-2841, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12636
 
 
 
-17. Taryba suderina perdavimo sistemos operatoriaus pateiktą perdavimo sistemų operatorių intersisteminio kompensavimo tvarką, parengtą pagal Reglamento (ES) Nr. 2017/460 [[#^s-a06c8c029f10793eddfd6265|10 straipsnyje]] nurodytas gaires. ^s-96d9125f10b57c48ed330719
+17. Taryba suderina perdavimo sistemos operatoriaus pateiktą perdavimo sistemų operatorių intersisteminio kompensavimo tvarką, parengtą pagal [Reglamento (ES) Nr. 2017/460 10 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/460/art_10/oj) nurodytas gaires. ^s-96d9125f10b57c48ed330719
 
 
 18. Tiekimo įmonės gali siūlyti Tarybai priimti sprendimą dėl prognozuojamos gamtinių dujų (produkto) kainos mažinimo ir dėl prognozuojamos ir faktinės gamtinių dujų (produkto) kainos susidariusio skirtumo dėl faktiškai negautų ar viršytų numatytų pajamų išdėstymo per Tarybos nustatytą laikotarpį. Tiekimo įmonės tokį pasiūlymą Tarybai gali teikti, kai skirtumas tarp tiekimo įmonės planuojamo pateikti tarifo buitiniams vartotojams ir tuo metu galiojančio tarifo buitiniams vartotojams yra didesnis kaip 40 procentų. Taryba kainų nustatymo metodikoje nustatyta tvarka priima sprendimą dėl prognozuojamos gamtinių dujų (produkto) kainos mažinimo ir dėl prognozuojamos ir faktinės gamtinių dujų (produkto) kainos susidariusio skirtumo dėl faktiškai negautų ar viršytų numatytų pajamų išdėstymo per ne ilgesnį kaip 5 metų laikotarpį. Tarybai priėmus sprendimą dėl prognozuojamos gamtinių dujų (produkto) kainos mažinimo, skirtumas, susidaręs tarp to laikotarpio sumažintos prognozuotos ir faktinės gamtinių dujų (produkto) kainos, taip pat skirtumas tarp Tarybos nustatytos ir prognozuojamos gamtinių dujų (produkto) kainos likusiam laikotarpiui, kuriam galioja nustatyti gamtinių dujų tarifai, išdėstomas per Tarybos nustatytą laikotarpį ir įvertinamas nustatant papildomą dedamąją prie gamtinių dujų skirstymo paslaugos kainos, taikomos buitiniams vartotojams, arba gamtinių dujų tiekimo įmonės prašymu gamtinių dujų tiekimo kainoje. Jeigu ankstesniais laikotarpiais yra susidarę skirtumai tarp prognozuotos ir faktinės gamtinių dujų (produkto) kainos, tiekimo įmonės siūlymu toks skirtumas taip pat gali būti įvertinamas nustatant papildomą dedamąją prie gamtinių dujų skirstymo paslaugos kainos, taikomos buitiniams vartotojams. Gamtinių dujų skirstymo sistemos operatorius papildomą dedamąją prie gamtinių dujų skirstymo paslaugos kainos perveda gamtinių dujų tiekėjui, kurio vartotojų gamtinių dujų suvartojimas lėmė dėl prognozuojamos ir faktinės gamtinių dujų (produkto) kainos, taip pat Tarybos nustatytos ir prognozuojamos gamtinių dujų (produkto) kainos likusiam laikotarpiui, kuriam galioja nustatyti gamtinių dujų tarifai, susidariusį skirtumą dėl faktiškai negautų ar viršytų numatytų pajamų. Šios papildomos dedamosios administravimas negali turėti neigiamos finansinės įtakos skirstymo sistemos operatoriui. Tarybos kainų nustatymo metodikoje nustatyta tvarka skaičiuojant gamtinių dujų tarifus buitiniams vartotojams per Tarybos nustatytą laikotarpį įvertinamos skirtumo tarp prognozuojamos ir faktinės gamtinių dujų (produkto) kainos, taip pat Tarybos nustatytos ir prognozuojamos gamtinių dujų (produkto) kainos likusiam laikotarpiui, kuriam galioja nustatyti gamtinių dujų tarifai, ir (arba) tiekimo įmonės faktiškai negautų ar viršytų numatytų pajamų skolinimosi sąnaudos. ^s-773170e2197d5ec669b31b2e
@@ -1284,7 +1284,7 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 9. Asmenys, eksploatuojantys dujų perdavimo, skirstymo sistemas, dujų laikymo įrenginius ar SGD sistemas arba atliekantys energijos vartojimo auditą, privalo turėti [[latest/TAR.44235B485568|Energetikos įstatymo]] nustatyta tvarka išduotą atestatą eksploatuoti gamtinių dujų įrenginius. ^s-66cfe912284f86082230fd90
 
 
-10. Asmenys, kurie vykdo šio straipsnio 1 ir [[#^s-dbd1e77d65d228078091ad4d|2 dalyse]] nurodytą veiklą, išskyrus šio įstatymo [[#^s-a029c049061b455659df50e2|391 straipsnio 3 dalyje]] nurodytus atvejus, neturi teisės įgalioti kitų asmenų vykdyti licencijoje ar leidime nurodytą veiklą ir privalo laikytis šių bendrųjų veiklos sąlygų: ^s-deb52c363b59d5ebf18e363a
+10. Asmenys, kurie vykdo šio straipsnio [[#^s-11e5b24d4be57c601851c81d|1]] ir [[#^s-dbd1e77d65d228078091ad4d|2]] dalyse nurodytą veiklą, išskyrus šio įstatymo [[#^s-a029c049061b455659df50e2|391 straipsnio 3 dalyje]] nurodytus atvejus, neturi teisės įgalioti kitų asmenų vykdyti licencijoje ar leidime nurodytą veiklą ir privalo laikytis šių bendrųjų veiklos sąlygų: ^s-deb52c363b59d5ebf18e363a
 
 
 1) efektyviai ir ekonomiškai vykdyti licencijuojamą ir leidimais reguliuojamą veiklą, užtikrinti tiekimo patikimumą, reguliarumą, kokybę, vartotojų apsaugą ir aplinkosaugos reikalavimus, nediskriminuoti vartotojų, kitų gamtinių dujų įmonių ir sistemų naudotojų, laikytis sąžiningos konkurencijos, veiklos viešumo ir informavimo principų; ^s-e2199023ae4a4d16dc420794
@@ -1529,7 +1529,7 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 ### 27 straipsnis. Perdavimo sistemos operatorius ^s-fb608ffb5399239dd0c46524
 
 
-1. Gamtinių dujų įmonė, kuriai nuosavybės teise priklauso perdavimo sistema ir kuri buvo paskirta perdavimo sistemos operatoriumi šio įstatymo 28 ir [[#^s-9962a8901f8aaf563caf1e0e|29 straipsniuose]] nustatyta tvarka, veikia kaip perdavimo sistemos operatorius. ^s-6816933db67a12147687936d
+1. Gamtinių dujų įmonė, kuriai nuosavybės teise priklauso perdavimo sistema ir kuri buvo paskirta perdavimo sistemos operatoriumi šio įstatymo [[#^s-01d26da92572c0b9b5b124f5|28]] ir [[#^s-9962a8901f8aaf563caf1e0e|29]] straipsniuose nustatyta tvarka, veikia kaip perdavimo sistemos operatorius. ^s-6816933db67a12147687936d
 
 
 2. Taryba informuoja Europos Komisiją apie sprendimą paskirti perdavimo sistemos operatorių arba numanomą sprendimą nedelsdama, bet ne vėliau negu per vieną mėnesį nuo sprendimo priėmimo arba projekto patvirtinimo. ^s-f6925800ec6b898ab0a9ec69
@@ -1548,7 +1548,7 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 1. Jeigu gamtinių dujų įmonė įrodo, kad ji atitinka šio įstatymo ketvirtojo ir aštuntojo skirsnių reikalavimus, išduodant perdavimo sistemos operatoriaus licenciją, ta gamtinių dujų įmonė yra paskiriama perdavimo sistemos operatoriumi. ^s-3a0f499a808020e977da9f3b
 
 
-2. Numanomas sprendimas dėl perdavimo sistemos operatoriaus paskyrimo ir licencijos išdavimo yra priimamas per keturių mėnesių laikotarpį nuo visų pareiškėjo pateiktų dokumentų, reikalingų licencijai išduoti, gavimo dienos. Numanomas sprendimas notifikuojamas Europos Komisijai. Tarybos galutinis sprendimas turi būti priimtas ne vėliau kaip per du mėnesius nuo 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinančio Reglamentą (EB) Nr. 1775/2005 (OL 2009 L 211, p. 36), 3 straipsnio 1 dalyje Europos Komisijos nuomonei pateikti nustatyto laiko pabaigos. Tarybos galutinis sprendimas ir Europos Komisijos nuomonė, jeigu ji pateikta, skelbiami kartu. Jeigu Taryba nepriima jokio sprendimo iki šio laikotarpio pabaigos, laikoma, kad licencija yra išduota ir gamtinių dujų įmonė paskiriama perdavimo sistemos operatoriumi. Siekiant užtikrinti gamtinių dujų perdavimo veiklos tęstinumą ir nenutrūkstamumą, kol bus paskirtas šio įstatymo ketvirtojo ir aštuntojo skirsnių reikalavimus atitinkantis perdavimo sistemos operatorius ir jam išduota licencija, Taryba turi teisę išduoti terminuotą gamtinių dujų perdavimo licenciją, netaikydama šio įstatymo aštuntojo skirsnio reikalavimų. Terminuota gamtinių dujų perdavimo veiklos licencija galioja tol, kol energetikos įmonės, neatitinkančios šio įstatymo aštuntojo skirsnio reikalavimų, įvykdys [[latest/TAR.9467D6FD69D5|Lietuvos Respublikos gamtinių dujų įstatymo pakeitimo įstatymo įgyvendinimo įstatyme]] nustatytas procedūras ir bus paskirtas gamtinių dujų perdavimo sistemos operatorius, atitinkantis šio įstatymo ketvirtajame ir aštuntajame skirsniuose nustatytus reikalavimus. ^s-1c1b085e3664b8d2ab561857
+2. Numanomas sprendimas dėl perdavimo sistemos operatoriaus paskyrimo ir licencijos išdavimo yra priimamas per keturių mėnesių laikotarpį nuo visų pareiškėjo pateiktų dokumentų, reikalingų licencijai išduoti, gavimo dienos. Numanomas sprendimas notifikuojamas Europos Komisijai. Tarybos galutinis sprendimas turi būti priimtas ne vėliau kaip per du mėnesius nuo 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinančio [Reglamentą (EB) Nr. 1775/2005](https://eur-lex.europa.eu/eli/reg/1775/2005/oj) (OL 2009 L 211, p. 36), 3 straipsnio 1 dalyje Europos Komisijos nuomonei pateikti nustatyto laiko pabaigos. Tarybos galutinis sprendimas ir Europos Komisijos nuomonė, jeigu ji pateikta, skelbiami kartu. Jeigu Taryba nepriima jokio sprendimo iki šio laikotarpio pabaigos, laikoma, kad licencija yra išduota ir gamtinių dujų įmonė paskiriama perdavimo sistemos operatoriumi. Siekiant užtikrinti gamtinių dujų perdavimo veiklos tęstinumą ir nenutrūkstamumą, kol bus paskirtas šio įstatymo ketvirtojo ir aštuntojo skirsnių reikalavimus atitinkantis perdavimo sistemos operatorius ir jam išduota licencija, Taryba turi teisę išduoti terminuotą gamtinių dujų perdavimo licenciją, netaikydama šio įstatymo aštuntojo skirsnio reikalavimų. Terminuota gamtinių dujų perdavimo veiklos licencija galioja tol, kol energetikos įmonės, neatitinkančios šio įstatymo aštuntojo skirsnio reikalavimų, įvykdys [[latest/TAR.9467D6FD69D5|Lietuvos Respublikos gamtinių dujų įstatymo pakeitimo įstatymo įgyvendinimo įstatyme]] nustatytas procedūras ir bus paskirtas gamtinių dujų perdavimo sistemos operatorius, atitinkantis šio įstatymo ketvirtajame ir aštuntajame skirsniuose nustatytus reikalavimus. ^s-1c1b085e3664b8d2ab561857
 
 
 3. Priimdama sprendimą, Taryba atsižvelgia į Europos Komisijos poziciją, jeigu Europos Komisija ją pateikia. Jeigu Europos Komisija nepateikia nuomonės perdavimo sistemos operatoriaus paskyrimo klausimu, laikoma, kad ji neprieštarauja Tarybos sprendimui. ^s-a717a3a480800172d788cbdc
@@ -1916,7 +1916,7 @@ Straipsnio pakeitimai:
 Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 
 
-5. Šio straipsnio 1–[[#^s-b1338dc2d749b3780c2b7441|4 dalyse]] nustatyti reikalavimai, šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytos prekybos gamtinėmis dujomis, biržos operatoriaus priežiūros taisyklės ir reikalavimai netaikomi, kai biržos operatoriaus veiklą vykdo kitoje valstybėje narėje išduotą biržos operatoriaus veiklos licenciją turintis ūkio subjektas. Taryba ūkio subjekto, turinčio kitoje valstybėje narėje išduotą licenciją, suteikiančią teisę verstis biržos operatoriaus veikla, veiklos priežiūrą vykdo pagal 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo nuostatas. ^s-d32ac28c3bb0e3462319774b
+5. Šio straipsnio [[#^s-5df3c59f390000c91c0edeca|1]]–[[#^s-b1338dc2d749b3780c2b7441|4]] dalyse nustatyti reikalavimai, šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytos prekybos gamtinėmis dujomis, biržos operatoriaus priežiūros taisyklės ir reikalavimai netaikomi, kai biržos operatoriaus veiklą vykdo kitoje valstybėje narėje išduotą biržos operatoriaus veiklos licenciją turintis ūkio subjektas. Taryba ūkio subjekto, turinčio kitoje valstybėje narėje išduotą licenciją, suteikiančią teisę verstis biržos operatoriaus veikla, veiklos priežiūrą vykdo pagal 2011 m. spalio 25 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1227/2011](https://eur-lex.europa.eu/eli/reg/1227/2011/oj) dėl didmeninės energijos rinkos vientisumo ir skaidrumo nuostatas. ^s-d32ac28c3bb0e3462319774b
 Papildyta straipsnio dalimi:
 Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
 
@@ -2040,7 +2040,7 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 2) užtikrinti kiekvienam iš perdavimo sistemos operatorių nacionalinių reguliavimo institucijų nustatytas pajamų viršutines ribas; ^s-56ec6ed057700dad9364ba20
 
 
-3) užtikrinti, kad tarp įleidimo ir išleidimo taškų sistemos naudotojų nebūtų diskriminavimo ir kryžminio subsidijavimo, ir atitikti kitus Reglamentu (ES) Nr. 2017/460 nustatytus suderintos gamtinių dujų perdavimo tarifų struktūros tinklo kodekso principus; ^s-7c152c495a7e178ebda91222
+3) užtikrinti, kad tarp įleidimo ir išleidimo taškų sistemos naudotojų nebūtų diskriminavimo ir kryžminio subsidijavimo, ir atitikti kitus [Reglamentu (ES) Nr. 2017/460](https://eur-lex.europa.eu/eli/reg/2017/460/oj) nustatytus suderintos gamtinių dujų perdavimo tarifų struktūros tinklo kodekso principus; ^s-7c152c495a7e178ebda91222
 
 
 4) būti suderinti su Taryba. ^s-077001d93e4d9457c3babccc
@@ -2116,7 +2116,7 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 3. [[#^s-00ea743ebe0e577bb61df5eb|Šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytos įmonės, atliekančios kurią nors iš gavybos ar tiekimo funkcijų, apima įmones, atliekančias kurią nors iš gamtinių dujų gavybos ar tiekimo ir elektros gamybos ar tiekimo funkcijų. Atitinkamai [[#^s-00ea743ebe0e577bb61df5eb|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodyti perdavimo sistemos operatoriai ir pačios perdavimo sistemos apima tiek gamtinių dujų, tiek elektros perdavimo sistemos operatorius ir perdavimo sistemas. ^s-6c621b0db97443b4dde3b106
 
 
-4. Šio straipsnio 1 ir [[#^s-9d2a798611feefc90aba84b1|2 dalyse]] nurodytos teisės visų pirma apima: ^s-0f8fb394461da055d36b4a5e
+4. Šio straipsnio [[#^s-00ea743ebe0e577bb61df5eb|1]] ir [[#^s-9d2a798611feefc90aba84b1|2]] dalyse nurodytos teisės visų pirma apima: ^s-0f8fb394461da055d36b4a5e
 
 
 1) įgaliojimus naudotis balsavimo teisėmis; ^s-8a7d7d446068a99f55aade62
@@ -2175,7 +2175,7 @@ Nr. XIII-707, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18141
 
 
 
-5. Šio straipsnio 1, 2 ir [[#^s-e69a26661f0e7157e8df7fad|3 dalių]] reikalavimai netaikomi integruotai gamtinių dujų įmonei, skirstančiai ir tiekiančiai gamtines dujas mažiau kaip 100 tūkst. vartotojų. ^s-f6ca522bd3bb43cefb467587
+5. Šio straipsnio [[#^s-d7d3ecda4bfcc1796c7a21b2|1]], [[#^s-6c7f955f072a047191c3d0b0|2]] ir [[#^s-e69a26661f0e7157e8df7fad|3]] dalių reikalavimai netaikomi integruotai gamtinių dujų įmonei, skirstančiai ir tiekiančiai gamtines dujas mažiau kaip 100 tūkst. vartotojų. ^s-f6ca522bd3bb43cefb467587
 
 
 Straipsnio pakeitimai:
@@ -2216,7 +2216,7 @@ Nr. XII-772, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03220
 ### 44 straipsnis. Gamtinių dujų įmonių apskaitos atskyrimas ir viešumas ^s-231cae6f35220b8eb818fde2
 
 
-1. Gamtinių dujų įmonės kiekvienos gamtinių dujų veiklos (perdavimo, skirstymo, laikymo, tiekimo nebuitiniams ir buitiniams vartotojams, SGD pakartotinio dujinimo) apskaitą tvarko atskirai. Atskirai tvarkoma ir su gamtinių dujų veikla nesusijusios veiklos rūšių apskaita. Gamtinių dujų įmonės, kurios, vadovaudamosi [[latest/TAR.44235B485568#^s-f22333e4055a14a24932ef41|Energetikos įstatymo 16 straipsnio 8 dalimi]], nėra įpareigotos skelbti metinių finansinių ataskaitų interneto svetainėse, pasibaigus kiekvieniems finansiniams metams per keturis mėnesius praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo reikalavimus, paskelbia savo interneto svetainėje. Jeigu šios gamtinių dujų įmonės dėl techninių priežasčių negali paskelbti praėjusių finansinių metų metinių finansinių ataskaitų ir auditoriaus išvadų savo interneto svetainėse ar jų neturi, tuomet jos apie tai raštu informuoja Tarybą ir praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal teisės aktų reikalavimus, teikia Tarybai, kuri paskelbia jas savo interneto svetainėje. ^s-7128515e97eb423512181797
+1. Gamtinių dujų įmonės kiekvienos gamtinių dujų veiklos (perdavimo, skirstymo, laikymo, tiekimo nebuitiniams ir buitiniams vartotojams, SGD pakartotinio dujinimo) apskaitą tvarko atskirai. Atskirai tvarkoma ir su gamtinių dujų veikla nesusijusios veiklos rūšių apskaita. Gamtinių dujų įmonės, kurios, vadovaudamosi [[latest/TAR.44235B485568#^s-f22333e4055a14a24932ef41|Energetikos įstatymo 16 straipsnio 8 dalimi]], nėra įpareigotos skelbti metinių finansinių ataskaitų interneto svetainėse, pasibaigus kiekvieniems finansiniams metams per keturis mėnesius praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal [Lietuvos Respublikos įmonių finansinės atskaitomybės įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C) reikalavimus, paskelbia savo interneto svetainėje. Jeigu šios gamtinių dujų įmonės dėl techninių priežasčių negali paskelbti praėjusių finansinių metų metinių finansinių ataskaitų ir auditoriaus išvadų savo interneto svetainėse ar jų neturi, tuomet jos apie tai raštu informuoja Tarybą ir praėjusių finansinių metų metines finansines ataskaitas ir auditoriaus išvadas, kai jos privalomos pagal teisės aktų reikalavimus, teikia Tarybai, kuri paskelbia jas savo interneto svetainėje. ^s-7128515e97eb423512181797
 Straipsnio dalies pakeitimai:
 Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 
@@ -2363,7 +2363,7 @@ Nr. XIV-2196, 2023-10-26, paskelbta TAR 2023-10-31, i. k. 2023-21353
 5. Buitinių vartotojų nenutrūkstamo gamtinių dujų tiekimo saugumo išlaidos, kurių įtraukimo į gamtinių dujų tiekimo sąnaudų metodiką tvirtina Taryba, įtraukiamos apskaičiuojant gamtinių dujų tiekimo kainą kaip atskira tiekimo kainos dalis. Nebuitiniai vartotojai pagal sutartis nenutrūkstamo gamtinių dujų tiekimo saugumo išlaidas padengia savo lėšomis. ^s-4576f5ac211124a08639f65a
 
 
-6. Lietuvos energetikos agentūra, vadovaudamasi Reglamento (ES) 2017/1938 nuostatomis, atlieka gamtinių dujų tiekimo sutrikimų rizikos vertinimą, rengia ir teikia tvirtinti Energetikos ministerijai prevencinių veiksmų valdymo ir ekstremaliųjų situacijų valdymo planus. ^s-e9ddc77ff718025f850eb05f
+6. Lietuvos energetikos agentūra, vadovaudamasi [Reglamento (ES) 2017/1938](https://eur-lex.europa.eu/eli/reg/2017/1938/oj) nuostatomis, atlieka gamtinių dujų tiekimo sutrikimų rizikos vertinimą, rengia ir teikia tvirtinti Energetikos ministerijai prevencinių veiksmų valdymo ir ekstremaliųjų situacijų valdymo planus. ^s-e9ddc77ff718025f850eb05f
 
 
 7. Energetikos ministro patvirtintus prevencinių veiksmų valdymo ir ekstremaliųjų situacijų valdymo planus Energetikos ministerija viešai paskelbia savo interneto svetainėje ir užtikrina nuolatinę jų įgyvendinimo stebėseną. Apie patvirtintus prevencinių veiksmų valdymo ir ekstremaliųjų situacijų valdymo planus ir jų atnaujinimus Energetikos ministerija nedelsdama praneša Europos Komisijai. Vyriausybei paskelbus ekstremaliąją situaciją gamtinių dujų sektoriuje, Vyriausybė, Energetikos ministerija, Taryba ir gamtinių dujų įmonės imasi iš anksto nustatytų veiksmų, apibūdintų ekstremaliųjų situacijų valdymo plane, ir nedelsdamos apie tai praneša Europos Komisijai ir kitoms valstybėms narėms. Paskelbus ekstremaliąją situaciją gamtinių dujų sektoriuje, Energetikos ministerija gali kreiptis į Europos Komisiją su prašymu paskelbti regioninio arba Europos Sąjungos lygmens ekstremaliąją situaciją, kuri gali būti paskelbta Europos Komisijai atlikus patikrinimą. ^s-bcc2c919f02022d42234c21d
@@ -2377,10 +2377,10 @@ Nr. XIV-1644, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26588
 ### 47 straipsnis. Gamtinių dujų tiekimas pažeidžiamiems vartotojams ^s-5803ee0e4ad85e5264269991
 
 
-1. Tiekimo įmonės privalo imtis priemonių, kuriomis būtų užtikrintas gamtinių dujų tiekimas pažeidžiamiems vartotojams kiekvienu Reglamento (ES) 2017/1938 6 straipsnio 1 dalyje nustatytu atveju. ^s-f08c41bc29f12d31593782b7
+1. Tiekimo įmonės privalo imtis priemonių, kuriomis būtų užtikrintas gamtinių dujų tiekimas pažeidžiamiems vartotojams kiekvienu [Reglamento (ES) 2017/1938 6 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2017/1938/art_6/par_1/oj) nustatytu atveju. ^s-f08c41bc29f12d31593782b7
 
 
-2. Įgyvendindamos [[#^s-f08c41bc29f12d31593782b7|šio straipsnio 1 dalyje]] nustatytą reikalavimą, tiekimo įmonės visų pirma turi naudoti gamtinių dujų rinkos priemones, taip pat turi teisę kaupti gamtinių dujų atsargas pažeidžiamiems vartotojams, kurios gali būti panaudojamos tik laikantis Vyriausybės ar jos įgaliotos institucijos nustatytos tvarkos. Tiekimo įmonės privalo kaupti gamtinių dujų atsargas buitiniams vartotojams. Vyriausybė ar jos įgaliota institucija, atsižvelgdama į buitinių vartotojų gamtinių dujų suvartojimą Reglamento (ES) Nr. 2017/1938 6 straipsnio 1 dalyje nustatytais atvejais, nustato gamtinių dujų tiekėjams privalomą sukaupti gamtinių dujų kiekį buitiniams vartotojams ir šio kiekio sukaupimo terminus. ^s-d58350c8bb8a10cc7cc8de34
+2. Įgyvendindamos [[#^s-f08c41bc29f12d31593782b7|šio straipsnio 1 dalyje]] nustatytą reikalavimą, tiekimo įmonės visų pirma turi naudoti gamtinių dujų rinkos priemones, taip pat turi teisę kaupti gamtinių dujų atsargas pažeidžiamiems vartotojams, kurios gali būti panaudojamos tik laikantis Vyriausybės ar jos įgaliotos institucijos nustatytos tvarkos. Tiekimo įmonės privalo kaupti gamtinių dujų atsargas buitiniams vartotojams. Vyriausybė ar jos įgaliota institucija, atsižvelgdama į buitinių vartotojų gamtinių dujų suvartojimą [Reglamento (ES) Nr. 2017/1938 6 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2017/1938/art_6/par_1/oj) nustatytais atvejais, nustato gamtinių dujų tiekėjams privalomą sukaupti gamtinių dujų kiekį buitiniams vartotojams ir šio kiekio sukaupimo terminus. ^s-d58350c8bb8a10cc7cc8de34
 Straipsnio dalies pakeitimai:
 Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
 
@@ -2444,10 +2444,10 @@ Nr. XIII-1971, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03169
 ### 50 straipsnis. Teisė naudotis saugyklomis ^s-d7ae25c64d7f6956e53a33e1
 
 
-1. Suteikiant teisę asmenims naudotis gamtinių dujų įmonių saugyklomis ir gamtinių dujų laikymo vamzdynuose paslaugomis, kai tai yra būtina dėl techninių ir (arba) ekonominių priežasčių, norint užtikrinti teisę veiksmingai naudotis tiekimo vartotojams sistema, ir suteikiant teisę naudotis papildomomis paslaugomis, Taryba gali nuspręsti taikyti kurį nors vieną arba abu šio straipsnio 4 ir [[#^s-034b9110e10ac8a54b2cc8c1|5 dalyse]] nurodytus būdus. Šios procedūros įgyvendinamos laikantis objektyvių, skaidrių ir nediskriminacinių kriterijų. ^s-44a5b30b9ddb0b0fe65435a8
+1. Suteikiant teisę asmenims naudotis gamtinių dujų įmonių saugyklomis ir gamtinių dujų laikymo vamzdynuose paslaugomis, kai tai yra būtina dėl techninių ir (arba) ekonominių priežasčių, norint užtikrinti teisę veiksmingai naudotis tiekimo vartotojams sistema, ir suteikiant teisę naudotis papildomomis paslaugomis, Taryba gali nuspręsti taikyti kurį nors vieną arba abu šio straipsnio [[#^s-c82e90d60a2a381c08995ffe|4]] ir [[#^s-034b9110e10ac8a54b2cc8c1|5]] dalyse nurodytus būdus. Šios procedūros įgyvendinamos laikantis objektyvių, skaidrių ir nediskriminacinių kriterijų. ^s-44a5b30b9ddb0b0fe65435a8
 
 
-2. Taryba apibrėžia ir paskelbia kriterijus, pagal kuriuos galima nustatyti, kuris teisės naudotis saugyklomis ir gamtinių dujų laikymo vamzdynuose paslaugomis būdas taikomas. Taryba paskelbia, kokios saugyklos ar tų saugyklų dalys ir atitinkamos gamtinių dujų laikymo vamzdyne paslaugos yra siūlomos pagal šio straipsnio 4 ir [[#^s-034b9110e10ac8a54b2cc8c1|5 dalyse]] nurodytus būdus. ^s-1d6974cfd3e27c5ff0b4ea64
+2. Taryba apibrėžia ir paskelbia kriterijus, pagal kuriuos galima nustatyti, kuris teisės naudotis saugyklomis ir gamtinių dujų laikymo vamzdynuose paslaugomis būdas taikomas. Taryba paskelbia, kokios saugyklos ar tų saugyklų dalys ir atitinkamos gamtinių dujų laikymo vamzdyne paslaugos yra siūlomos pagal šio straipsnio [[#^s-c82e90d60a2a381c08995ffe|4]] ir [[#^s-034b9110e10ac8a54b2cc8c1|5]] dalyse nurodytus būdus. ^s-1d6974cfd3e27c5ff0b4ea64
 
 
 3. [[#^s-44a5b30b9ddb0b0fe65435a8|Šio straipsnio 1 dalies]] nuostatos netaikomos papildomoms ir laikinojo laikymo paslaugoms, kurios susijusios su SGD sistema ir būtinos SGD pakartotinio dujinimo procesui ir paskesniam pristatymui į perdavimo sistemą. ^s-66681f477d86f96ec2ec770c
@@ -2517,7 +2517,7 @@ Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
 5. Taryba turi teisę įpareigoti gamtinių dujų įmonę, atsisakiusią suteikti teisę naudotis sistema dėl pajėgumų ar jungčių trūkumo, atlikti būtinus ekonomiškai pagrįstus arba potencialaus vartotojo apmokamus patobulinimus. ^s-bbb587815741767d60348809
 
 
-6. Gamtinių dujų įmonės, pateikdamos argumentuotus motyvus, atsisako suteikti teisę naudotis sistema, jeigu jos įgyvendina šio įstatymo [[#^s-dc711933b7e5b22b5fe00e21|46 straipsnio]] 31 ir 32 dalyse nustatytus draudimus. ^s-1e9e67257a55e662789d5709
+6. Gamtinių dujų įmonės, pateikdamos argumentuotus motyvus, atsisako suteikti teisę naudotis sistema, jeigu jos įgyvendina šio įstatymo [[#^s-dc711933b7e5b22b5fe00e21|46 straipsnio]] [[#^s-cec48f7086b9f8ac7764cdc1|31]] ir [[#^s-0a20eee65ea5ba59bb5318bb|32]] dalyse nustatytus draudimus. ^s-1e9e67257a55e662789d5709
 Papildyta straipsnio dalimi:
 Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
 
@@ -3003,19 +3003,19 @@ priedas
 
 
 
-1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB, su paskutiniais pakeitimais, padarytais 2022 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentu (ES) 2022/869. ^s-d42b27274950423632741683
+1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB, su paskutiniais pakeitimais, padarytais 2022 m. gegužės 30 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2022/869](https://eur-lex.europa.eu/eli/reg/2022/869/oj). ^s-d42b27274950423632741683
 
 
-2. 2017 m. kovo 16 d. Komisijos reglamentas (ES) 2017/460, kuriuo nustatomas suderintos gamtinių dujų perdavimo tarifų struktūros tinklo kodeksas. ^s-b75c86c2a2b48e790e7a45f1
+2. 2017 m. kovo 16 d. Komisijos [reglamentas (ES) 2017/460](https://eur-lex.europa.eu/eli/reg/2017/460/oj), kuriuo nustatomas suderintos gamtinių dujų perdavimo tarifų struktūros tinklo kodeksas. ^s-b75c86c2a2b48e790e7a45f1
 
 
-3. 2017 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1938 dėl dujų tiekimo saugumo užtikrinimo priemonių, kuriuo panaikinamas Reglamentas (ES) Nr. 994/2010, su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/1789. ^s-d1c39509b3cb77ab49e9ceab
+3. 2017 m. spalio 25 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/1938](https://eur-lex.europa.eu/eli/reg/2017/1938/oj) dėl dujų tiekimo saugumo užtikrinimo priemonių, kuriuo panaikinamas Reglamentas (ES) Nr. 994/2010, su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/1789](https://eur-lex.europa.eu/eli/reg/2024/1789/oj). ^s-d1c39509b3cb77ab49e9ceab
 
 
-4. 2023 m. rugsėjo 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/1791 dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamas Reglamentas (ES) 2023/955. ^s-18fa0058b16f7db698f3039a
+4. 2023 m. rugsėjo 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/1791](https://eur-lex.europa.eu/eli/dir/2023/1791/oj) dėl energijos vartojimo efektyvumo, kuria iš dalies keičiamas [Reglamentas (ES) 2023/955](https://eur-lex.europa.eu/eli/reg/2023/955/oj). ^s-18fa0058b16f7db698f3039a
 
 
-5. 2023 m. rugsėjo 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1804 dėl alternatyviųjų degalų infrastruktūros diegimo, kuriuo panaikinama Direktyva 2014/94/ES. ^s-8b521ab9e68be1c30bcd69af
+5. 2023 m. rugsėjo 13 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2023/1804](https://eur-lex.europa.eu/eli/reg/2023/1804/oj) dėl alternatyviųjų degalų infrastruktūros diegimo, kuriuo panaikinama Direktyva 2014/94/ES. ^s-8b521ab9e68be1c30bcd69af
 
 
 ––––––––––––––––
@@ -3093,7 +3093,7 @@ Nr. XI-2054, 2012-06-12, Žin., 2012, Nr. 68-3467 (2012-06-19)
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-772, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03220
-LIETUVOS RESPUBLIKOS GAMTINIŲ DUJŲ ĮSTATYMO NR. VIII-1973 7, 29, 43, [[#^s-47fb50fd4d2b2eafc2736dde|57 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 43-1 STRAIPSNIU
+LIETUVOS RESPUBLIKOS GAMTINIŲ DUJŲ ĮSTATYMO NR. VIII-1973 [[#^s-7d6460b20467a678759f1ade|7]], [[#^s-9962a8901f8aaf563caf1e0e|29]], [[#^s-f56870b9089f906642695b68|43]], [[#^s-47fb50fd4d2b2eafc2736dde|57]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 43-1 STRAIPSNIU
 
 
 
@@ -3107,7 +3107,7 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-231cae6f35220
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1530, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21324
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 20, 23, 33 ir [[#^s-b370f6e628acb7db073238ad|38 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-19c8afc02c2c8ed8a6b42063|2]], [[#^s-baba14601d31e7b29b3c13a6|20]], [[#^s-4dad474143cde2ad99caae2a|23]], [[#^s-18a67a4674c1d52ab7a881aa|33]] ir [[#^s-b370f6e628acb7db073238ad|38]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3122,12 +3122,12 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-47fb50fd4d2b2
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2782, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26878
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2 ir [[#^s-39698c63b94b2f2c7844ddb6|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-19c8afc02c2c8ed8a6b42063|2]] ir [[#^s-39698c63b94b2f2c7844ddb6|13]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-267, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05921
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, [[#^s-baba14601d31e7b29b3c13a6|20 straipsnių]] pakeitimo ir Įstatymo papildymo 13-1, 13-2, 13-3 straipsniais įstatymas
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-19c8afc02c2c8ed8a6b42063|2]], [[#^s-baba14601d31e7b29b3c13a6|20]] straipsnių pakeitimo ir Įstatymo papildymo 13-1, 13-2, 13-3 straipsniais įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3147,17 +3147,17 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-19c8afc02c2c8
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1457, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11770
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 13-3 ir [[#^s-cab43957be537cd6442e53ad|37 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-19c8afc02c2c8ed8a6b42063|2]], 13-3 ir [[#^s-cab43957be537cd6442e53ad|37]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1782, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21216
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 5, 7, 9, 20, 21, 25, 31, 37-1, 38, 39, 45, 46, [[#^s-5803ee0e4ad85e5264269991|47 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo septintuoju-1 skirsniu įstatymas
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-19c8afc02c2c8ed8a6b42063|2]], [[#^s-fa0fb94bdab9587fb3e44ef4|5]], [[#^s-7d6460b20467a678759f1ade|7]], [[#^s-c7564be2e70355925f35f92b|9]], [[#^s-baba14601d31e7b29b3c13a6|20]], [[#^s-a06b4cc634088328894dceb0|21]], [[#^s-de63c68f0ce751a6942b4039|25]], [[#^s-002e183f2b3592992aa433c5|31]], 37-1, [[#^s-b370f6e628acb7db073238ad|38]], [[#^s-e8f12798457a1bb57c3a9184|39]], [[#^s-6f8eff4704f46dd619dc41b2|45]], [[#^s-dc711933b7e5b22b5fe00e21|46]], [[#^s-5803ee0e4ad85e5264269991|47]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo septintuoju-1 skirsniu įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1626, 2018-11-15, paskelbta TAR 2018-11-22, i. k. 2018-18859
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 7, 9, 20 ir [[#^s-231cae6f35220b8eb818fde2|44 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-7d6460b20467a678759f1ade|7]], [[#^s-c7564be2e70355925f35f92b|9]], [[#^s-baba14601d31e7b29b3c13a6|20]] ir [[#^s-231cae6f35220b8eb818fde2|44]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3172,12 +3172,12 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-39698c63b94b2
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3019, 2020-06-04, paskelbta TAR 2020-06-17, i. k. 2020-13236
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 31 ir 37-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-002e183f2b3592992aa433c5|31]] ir 37-1 straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3140, 2020-06-25, paskelbta TAR 2020-07-03, i. k. 2020-15002
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 7, 9, 45, 46, 51, [[#^s-8cd2722a86bf201b28282d59|53 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-19c8afc02c2c8ed8a6b42063|2]], [[#^s-7d6460b20467a678759f1ade|7]], [[#^s-c7564be2e70355925f35f92b|9]], [[#^s-6f8eff4704f46dd619dc41b2|45]], [[#^s-dc711933b7e5b22b5fe00e21|46]], [[#^s-ec263f7dddab36863dbe05fd|51]], [[#^s-8cd2722a86bf201b28282d59|53]] straipsnių ir priedo pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3187,7 +3187,7 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-c37888c71af68
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-603, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23525
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 5, 9, 45, 46, 47 ir [[#^s-47fb50fd4d2b2eafc2736dde|57 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-fa0fb94bdab9587fb3e44ef4|5]], [[#^s-c7564be2e70355925f35f92b|9]], [[#^s-6f8eff4704f46dd619dc41b2|45]], [[#^s-dc711933b7e5b22b5fe00e21|46]], [[#^s-5803ee0e4ad85e5264269991|47]] ir [[#^s-47fb50fd4d2b2eafc2736dde|57]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3197,12 +3197,12 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-c7564be2e7035
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1185, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15168
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 46, 47 ir [[#^s-99ced006ec8ddbd4398caf18|52 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-19c8afc02c2c8ed8a6b42063|2]], [[#^s-dc711933b7e5b22b5fe00e21|46]], [[#^s-5803ee0e4ad85e5264269991|47]] ir [[#^s-99ced006ec8ddbd4398caf18|52]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1644, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26588
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 45, 46, 57 ir [[#^s-96b6b3acfd530c131da0904a|62 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-19c8afc02c2c8ed8a6b42063|2]], [[#^s-6f8eff4704f46dd619dc41b2|45]], [[#^s-dc711933b7e5b22b5fe00e21|46]], [[#^s-47fb50fd4d2b2eafc2736dde|57]] ir [[#^s-96b6b3acfd530c131da0904a|62]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3212,7 +3212,7 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-dc711933b7e5b
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2421, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25642
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2 ir 13-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-19c8afc02c2c8ed8a6b42063|2]] ir 13-1 straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3222,9 +3222,9 @@ Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-c7564be2e7035
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-166, 2025-04-17, paskelbta TAR 2025-04-25, i. k. 2025-07424
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 9, 13-1, 19, 20, 37, 38, 49 ir [[#^s-47fb50fd4d2b2eafc2736dde|57 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-19c8afc02c2c8ed8a6b42063|2]], [[#^s-c7564be2e70355925f35f92b|9]], 13-1, [[#^s-7229d6c9755c9c7b76b39fb0|19]], [[#^s-baba14601d31e7b29b3c13a6|20]], [[#^s-cab43957be537cd6442e53ad|37]], [[#^s-b370f6e628acb7db073238ad|38]], [[#^s-8ac276cb593492249c989ac6|49]] ir [[#^s-47fb50fd4d2b2eafc2736dde|57]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-240, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11009
-Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 2, 7, 9, 31, 37-1 straipsnių ir priedo pakeitimo įstatymas
+Lietuvos Respublikos gamtinių dujų įstatymo Nr. VIII-1973 [[#^s-19c8afc02c2c8ed8a6b42063|2]], [[#^s-7d6460b20467a678759f1ade|7]], [[#^s-c7564be2e70355925f35f92b|9]], [[#^s-002e183f2b3592992aa433c5|31]], 37-1 straipsnių ir priedo pakeitimo įstatymas

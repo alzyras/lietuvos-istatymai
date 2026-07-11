@@ -641,4 +641,4 @@ Lietuvos Respublikos dainų švenčių įstatymo Nr. X-1334 pakeitimo įstatymas
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-320, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11984
-Lietuvos Respublikos dainų švenčių tradicijos įstatymo Nr. X-1334 4 ir [[#^s-307906e09adf176c40bbba07|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos dainų švenčių tradicijos įstatymo Nr. X-1334 [[#^s-7d630458828acdc4b96e6345|4]] ir [[#^s-307906e09adf176c40bbba07|16]] straipsnių pakeitimo įstatymas

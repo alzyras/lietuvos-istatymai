@@ -39,14 +39,14 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-9ec19a05125c6fdec7bda86b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2013 m. vasario 26 d. dekretą Nr. 1K-1380, ratifikuoja su pareiškimu 1961 m. rugpjūčio 30 d. Niujorke priimtą Jungtinių Tautų konvenciją dėl asmenų be pilietybės skaičiaus mažinimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2013 m. vasario 26 d. dekretą Nr. 1K-1380](https://e-tar.lt/portal/lt/legalAct/TAR.0C61848DC03D), ratifikuoja su pareiškimu 1961 m. rugpjūčio 30 d. Niujorke priimtą Jungtinių Tautų konvenciją dėl asmenų be pilietybės skaičiaus mažinimo.
 
 
 
 ### 2 straipsnis. Lietuvos Respublikos pareiškimas ^s-b675c48d156001e742092de3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Konvencijos 8 straipsnio 3 dalimi, pareiškia, kad Lietuvos Respublika išsaugo teisę pripažinti asmenį netekusiu pilietybės [[latest/TAR.F628061443C6#^s-222139996777885555bf7816|Lietuvos Respublikos pilietybės įstatymo 24 straipsnio]] 4 ir 6 punktuose numatytais Lietuvos Respublikos pilietybės netekimo pagrindais ir sąlygomis.
+Lietuvos Respublikos Seimas, vadovaudamasis Konvencijos 8 straipsnio 3 dalimi, pareiškia, kad Lietuvos Respublika išsaugo teisę pripažinti asmenį netekusiu pilietybės [[latest/TAR.F628061443C6#^s-222139996777885555bf7816|Lietuvos Respublikos pilietybės įstatymo 24 straipsnio]] [[latest/TAR.F628061443C6#^s-a50c584303aa7a8232b2c466|4]] ir [[latest/TAR.F628061443C6#^s-aad24dce939f576c35b5683d|6]] punktuose numatytais Lietuvos Respublikos pilietybės netekimo pagrindais ir sąlygomis.
 
 
 

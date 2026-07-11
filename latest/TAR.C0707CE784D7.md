@@ -66,7 +66,7 @@ Vilnius
 1. [[#^s-7075998aed8b6ee51cc91ec7|6 straipsnio 1 dalyje]] po žodžio „metų“ įrašyti žodį „šaukiamas“, vietoj skaičių ir žodžių „45 dienų laikotarpiu, kuris prasideda prieš 30 dienų iki 19 metų sukakties dienos ir baigiasi praėjus 15 dienų po šios sukakties“ įrašyti žodžius „šaukime nurodytu laiku“, vietoj žodžių „savivaldybės atrankos komisiją, kuri privalo juos pašaukti“ įrašyti žodžius „vietinę teritorinę karinę įstaigą, kuri juos pašaukia“ ir šią dalį išdėstyti taip: ^s-8c2c47fd50530ef4228f7b2e
 
 
-„1. Lietuvos Respublikos pilietis, kuriam sukanka 19 metų, šaukiamas privalo atvykti į vietinę teritorinę karinę įstaigą šaukime nurodytu laiku. Šauktiniai, kuriems privalomoji pradinė karo tarnyba yra atidėta šio įstatymo [[#^s-954480c5b7849c6cdb71b4bb|9 straipsnyje]] numatytais atvejais, tačiau norintys šią tarnybą atlikti, nepaisydami tarnybos atidėjimo termino gali kreiptis į vietinę teritorinę karinę įstaigą, kuri juos pašaukia į privalomąją pradinę karo tarnybą, jeigu nėra šio įstatymo [[#^s-6b033ecc74f052092f1ceb96|8 straipsnio]] 1 ir [[#^s-d10c96df97bb8a9754b7e2a6|2 dalyse]] nustatytų atleidimo nuo privalomosios tarnybos pagrindų.“
+„1. Lietuvos Respublikos pilietis, kuriam sukanka 19 metų, šaukiamas privalo atvykti į vietinę teritorinę karinę įstaigą šaukime nurodytu laiku. Šauktiniai, kuriems privalomoji pradinė karo tarnyba yra atidėta šio įstatymo [[#^s-954480c5b7849c6cdb71b4bb|9 straipsnyje]] numatytais atvejais, tačiau norintys šią tarnybą atlikti, nepaisydami tarnybos atidėjimo termino gali kreiptis į vietinę teritorinę karinę įstaigą, kuri juos pašaukia į privalomąją pradinę karo tarnybą, jeigu nėra šio įstatymo [[#^s-6b033ecc74f052092f1ceb96|8 straipsnio]] [[#^s-49d309e0f774f62e24b6fc63|1]] ir [[#^s-d91c65d7973f88cff6493ce1|2]] dalyse nustatytų atleidimo nuo privalomosios tarnybos pagrindų.“
 
 
 2. [[#^s-9832d4a92df4dec7328eab6d|6 straipsnio 2 dalyje]] išbraukti žodžius „savivaldybių atrankos komisijas“ ir šią dalį išdėstyti taip: ^s-d10c96df97bb8a9754b7e2a6
@@ -398,7 +398,7 @@ Pakeisti 1512 straipsnį ir jį išdėstyti taip:
 17 straipsnio 1 dalyje vietoj žodžių „gali būti pašaukti“ įrašyti žodį „šaukiami“, vietoj žodžių „savivaldybės atrankos komisijai arba regioniniam karo prievolės centrui“ įrašyti žodžius „vietinei teritorinei karinei įstaigai“ ir šią dalį išdėstyti taip:
 
 
-„1. Į privalomąją pradinę karo tarnybą šaukiami Lietuvos Respublikos piliečiai nuo 19 iki 26 metų. Piliečiai, parašę prašymą vietinei teritorinei karinei įstaigai, tarnybą gali pradėti ir būdami 18 metų, o krašto apsaugos ministro sutikimu – taip pat ir 27 metų, išskyrus šio įstatymo [[#^s-6b033ecc74f052092f1ceb96|8 straipsnio]] 1 ir 3 dalyse numatytus atvejus.“
+„1. Į privalomąją pradinę karo tarnybą šaukiami Lietuvos Respublikos piliečiai nuo 19 iki 26 metų. Piliečiai, parašę prašymą vietinei teritorinei karinei įstaigai, tarnybą gali pradėti ir būdami 18 metų, o krašto apsaugos ministro sutikimu – taip pat ir 27 metų, išskyrus šio įstatymo [[#^s-6b033ecc74f052092f1ceb96|8 straipsnio]] [[#^s-49d309e0f774f62e24b6fc63|1]] ir 3 dalyse numatytus atvejus.“
 
 
 

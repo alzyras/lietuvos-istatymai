@@ -147,4 +147,4 @@ Nr. XI-883, 2010-06-08, Žin., 2010, Nr. 72-3612 (2010-06-22), i. k. [[latest/TA
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-777, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18831
-Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymo Nr. IX-565 3 ir [[#^s-8f4020949d61903aadc94ad6|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos netauriųjų metalų laužo ir atliekų supirkimo įstatymo Nr. IX-565 [[#^s-23fa4ce59769bba9e4677aa9|3]] ir [[#^s-8f4020949d61903aadc94ad6|4]] straipsnių pakeitimo įstatymas

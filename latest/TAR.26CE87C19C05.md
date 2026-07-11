@@ -296,7 +296,7 @@ BENDROVĖS STEIGIMAS
 6. Bendrovės steigimo sutartis pateikiama juridinių asmenų registro tvarkytojui kartu su kitais įstatymų nustatytais bendrovei įregistruoti reikalingais dokumentais. Steigimo sutartį pakeitus iki bendrovės įregistravimo, juridinių asmenų registro tvarkytojui kartu su steigimo sutartimi pateikiami ir pakeitimai. ^s-7844e3e12616c5b942f09e14
 
 
-7. Bendrovės steigimo akto turiniui taikomi bendrovės steigimo sutarčiai [[#^s-527b11483d8a69dbc06ee64d|šio straipsnio 2 dalyje]], išskyrus 10 ir 11 punktus, nustatyti reikalavimai. Steigimo aktui taip pat taikomos šio straipsnio 3–[[#^s-7844e3e12616c5b942f09e14|6 dalys]]. ^s-b53ec247e3afbbfaf4080a6e
+7. Bendrovės steigimo akto turiniui taikomi bendrovės steigimo sutarčiai [[#^s-527b11483d8a69dbc06ee64d|šio straipsnio 2 dalyje]], išskyrus 10 ir 11 punktus, nustatyti reikalavimai. Steigimo aktui taip pat taikomos šio straipsnio [[#^s-4b8ee43983d8b0a889c41e52|3]]–[[#^s-7844e3e12616c5b942f09e14|6]] dalys. ^s-b53ec247e3afbbfaf4080a6e
 
 
 
@@ -309,7 +309,7 @@ BENDROVĖS STEIGIMAS
 2. Steigiamos bendrovės akcijos turi būti visiškai apmokėtos per steigimo sutartyje ar steigimo akte nustatytą terminą, kuris negali būti ilgesnis kaip 12 mėnesių nuo jo sudarymo dienos. ^s-404151fc48788cf408b5d21f
 
 
-3. Steigiamos bendrovės akcijų apmokėjimui taikomos šio Įstatymo [[#^s-1d43cc0bbf1f7cb387cd0dd5|45 straipsnio]] 1, 2, 3, 7, 10, 11 ir 12 dalys. ^s-ffc525103d0465dc268ae4ef
+3. Steigiamos bendrovės akcijų apmokėjimui taikomos šio Įstatymo [[#^s-1d43cc0bbf1f7cb387cd0dd5|45 straipsnio]] [[#^s-41ee7ebc12d41ff1b47bcfd0|1]], [[#^s-19e56272117f281adbf1c0c9|2]], [[#^s-93c8e872451fee6d15a76c55|3]], [[#^s-86eeb9ff8d063199fcfbb03b|7]], [[#^s-8a5c77413be31ed058d05837|10]], [[#^s-b603ccb1eaec2e43f4c7e523|11]] ir [[#^s-43c911c9313a16bb1073b302|12]] dalys. ^s-ffc525103d0465dc268ae4ef
 
 
 4. Pradiniai įnašai už pasirašytas akcijas per steigimo sutartyje ar steigimo akte nustatytą terminą mokami į steigiamos bendrovės kaupiamąją sąskaitą. Kaupiamojoje sąskaitoje esančios lėšos gali būti naudojamos tik po bendrovės įregistravimo. ^s-a4c2aa13863111fa2f11d1fa
@@ -460,7 +460,7 @@ BENDROVĖS REGISTRAVIMAS
 1. Dvejus metus nuo akcinės bendrovės įsteigimo kiekvienas jos sandoris dėl turto įsigijimo iš šios akcinės bendrovės steigėjo, kai sandorio arba bendra tokių sandorių suma per finansinius metus yra ne mažesnė kaip 1/10 akcinės bendrovės įstatinio kapitalo dydžio, turi būti visuotinio akcininkų susirinkimo patvirtintas kvalifikuota balsų dauguma, kuri negali būti mažesnė kaip 2/3 susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų. ^s-86f26c95ec2eec65ba2be4b1
 
 
-2. [[#^s-86f26c95ec2eec65ba2be4b1|Šio straipsnio 1 dalyje]] nurodytas turtas iki visuotinio akcininkų susirinkimo turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Turto vertinimo ataskaitai taikomi reikalavimai, nustatyti šio Įstatymo [[#^s-b155e711beaa2746b12e1c51|8 straipsnio 8 dalies]] 1, 2 ir 3 punktuose. Turto vertinimo ataskaitoje, be kita ko, turi būti išvada, ar akcinės bendrovės įsigyjamo turto vertė atitinka mokamą už jį sumą. ^s-20fc0f286bd14f1a053f2436
+2. [[#^s-86f26c95ec2eec65ba2be4b1|Šio straipsnio 1 dalyje]] nurodytas turtas iki visuotinio akcininkų susirinkimo turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Turto vertinimo ataskaitai taikomi reikalavimai, nustatyti šio Įstatymo [[#^s-b155e711beaa2746b12e1c51|8 straipsnio 8 dalies]] [[#^s-c8eda7a54b3205112217e45c|1]], [[#^s-ab715d934c8d4d3301e50e6c|2]] ir [[#^s-72d11e7a3363a1642958984e|3]] punktuose. Turto vertinimo ataskaitoje, be kita ko, turi būti išvada, ar akcinės bendrovės įsigyjamo turto vertė atitinka mokamą už jį sumą. ^s-20fc0f286bd14f1a053f2436
 
 
 3. Turto vertinimo ataskaita ne vėliau kaip likus 10 dienų iki visuotinio akcininkų susirinkimo turi būti pateikta akcinei bendrovei ir juridinių asmenų registro tvarkytojui. ^s-d9bbc605b64e352174eded2a
@@ -496,7 +496,7 @@ AKCININKŲ TEISĖS IR PAREIGOS
 6. Akcininkas turi grąžinti bendrovei dividendą, jeigu jis buvo išmokėtas pažeidžiant šio Įstatymo imperatyvias normas ir bendrovė įrodo, kad akcininkas tai žinojo ar turėjo žinoti. ^s-998a5927bb2dfe631f551be0
 
 
-7. Akcinės bendrovės akcininkai turi teisę reikalauti, kad kiti akcininkai jiems privalomai parduotų savo akcijas, arba reikalauti, kad kiti akcininkai privalomai nupirktų iš jų akcijas Vertybinių popierių rinkos įstatymo nustatytais atvejais ir tvarka. ^s-b67c00a4743bfbd62ba6026d
+7. Akcinės bendrovės akcininkai turi teisę reikalauti, kad kiti akcininkai jiems privalomai parduotų savo akcijas, arba reikalauti, kad kiti akcininkai privalomai nupirktų iš jų akcijas [Vertybinių popierių rinkos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nustatytais atvejais ir tvarka. ^s-b67c00a4743bfbd62ba6026d
 
 
 
@@ -882,7 +882,7 @@ BENDROVĖS VALDYMAS
 4. Jeigu visuotinis akcininkų susirinkimas neįvyksta, apie pakartotinį akcininkų susirinkimą akcininkams turi būti pranešta [[#^s-b650d665ba5f93a7a8f892d5|šio straipsnio 3 dalyje]] nustatytu būdu ne vėliau kaip likus 5 dienoms iki šio visuotinio akcininkų susirinkimo dienos. Pakartotinis visuotinis akcininkų susirinkimas šaukiamas ne anksčiau kaip praėjus 5 dienoms ir ne vėliau kaip praėjus 30 dienų nuo neįvykusio visuotinio akcininkų susirinkimo dienos. ^s-778008c071cdc183f53a23ac
 
 
-5. Visuotinis akcininkų susirinkimas gali būti šaukiamas nesilaikant šio straipsnio 3 ir [[#^s-778008c071cdc183f53a23ac|4 dalyse]] nustatytų terminų, jeigu visi akcininkai, kuriems priklausančios akcijos suteikia balsavimo teisę, su tuo raštiškai sutinka. ^s-9ec3edf8d247024f76b1ad2a
+5. Visuotinis akcininkų susirinkimas gali būti šaukiamas nesilaikant šio straipsnio [[#^s-b650d665ba5f93a7a8f892d5|3]] ir [[#^s-778008c071cdc183f53a23ac|4]] dalyse nustatytų terminų, jeigu visi akcininkai, kuriems priklausančios akcijos suteikia balsavimo teisę, su tuo raštiškai sutinka. ^s-9ec3edf8d247024f76b1ad2a
 
 
 6. Apie dokumentus, patvirtinančius, kad akcininkams buvo pranešta apie visuotinio akcininkų susirinkimo sušaukimą, būtina informuoti susirinkimo pradžioje. ^s-4c76d03347f567396a18bcfd
@@ -1027,10 +1027,10 @@ BENDROVĖS VALDYMAS
 4. Užpildytą bendrąjį balsavimo biuletenį turi pasirašyti akcininkas arba kitas asmuo, turintis teisę balsuoti šiam akcininkui priklausančiomis akcijomis. ^s-d1796a6a3748ec23552e6655
 
 
-5. Bendrasis balsavimo biuletenis laikomas galiojančiu ir negali būti atšauktas, jeigu jis atitinka šio straipsnio 3 ir [[#^s-d1796a6a3748ec23552e6655|4 dalyse]] nustatytus reikalavimus ir bendrovė jį gavo iki visuotinio akcininkų susirinkimo. ^s-5a67f87283626915986263fa
+5. Bendrasis balsavimo biuletenis laikomas galiojančiu ir negali būti atšauktas, jeigu jis atitinka šio straipsnio [[#^s-a3ff2c2cb89b8c77bd22c597|3]] ir [[#^s-d1796a6a3748ec23552e6655|4]] dalyse nustatytus reikalavimus ir bendrovė jį gavo iki visuotinio akcininkų susirinkimo. ^s-5a67f87283626915986263fa
 
 
-6. Jeigu bendrasis balsavimo biuletenis neatitinka šio straipsnio 3 ir [[#^s-d1796a6a3748ec23552e6655|4 dalyse]] nustatytų reikalavimų, laikoma, kad akcininkas iš anksto nebalsavo. ^s-b577000c8844f5909f72ecb3
+6. Jeigu bendrasis balsavimo biuletenis neatitinka šio straipsnio [[#^s-a3ff2c2cb89b8c77bd22c597|3]] ir [[#^s-d1796a6a3748ec23552e6655|4]] dalyse nustatytų reikalavimų, laikoma, kad akcininkas iš anksto nebalsavo. ^s-b577000c8844f5909f72ecb3
 
 
 7. Jeigu bendrasis balsavimo biuletenis užpildytas taip, kad atskiru klausimu neįmanoma nustatyti akcininko valios, laikoma, kad akcininkas šiuo klausimu iš anksto nebalsavo. ^s-fa2fad172ec6e0761fffc5cd
@@ -1223,7 +1223,7 @@ BENDROVĖS VALDYMAS
 6) sprendimus įsigyti ilgalaikio turto už kainą, didesnę kaip 1/20 bendrovės įstatinio kapitalo; ^s-844ad5c7995170230ed8e8c1
 
 
-7) Įmonių restruktūrizavimo įstatymo nustatytais atvejais − sprendimą restruktūrizuoti bendrovę; ^s-cbf81643bb8f40b5659f22ca
+7) [Įmonių restruktūrizavimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.C69847B389DF) nustatytais atvejais − sprendimą restruktūrizuoti bendrovę; ^s-cbf81643bb8f40b5659f22ca
 
 
 8) kitus bendrovės įstatuose ar visuotinio akcininkų susirinkimo sprendimuose valdybos kompetencijai priskirtus sprendimus. ^s-17f4baf941355b0db981d5f4
@@ -1352,7 +1352,7 @@ BENDROVĖS VALDYMAS
 7. Bendrovės vadovas nustato bendrovėje taikomus turto nusidėvėjimo skaičiavimo normatyvus. ^s-7d320251faa5770c8f6d7549
 
 
-8. Bendrovės vadovas veikia bendrovės vardu ir turi teisę vienvaldiškai sudaryti sandorius, išskyrus atvejus, kai bendrovės įstatuose nustatytas kiekybinis atstovavimas bendrovei. Šio Įstatymo [[#^s-b1686dd253e96520f16166ec|34 straipsnio 4 dalies]] 3, 4, 5 ir 6 punktuose nurodytus sandorius bendrovės vadovas gali sudaryti, kai yra bendrovės valdybos (jei bendrovėje valdyba sudaroma) sprendimas šiuos sandorius sudaryti. Jei bendrovėje valdyba nesudaroma, bendrovės vadovas priima sprendimus ir atlieka veiksmus, nustatytus šio Įstatymo [[#^s-25f13add5292ad22672d0287|34 straipsnio]] 1, 3, 4, 5, 6, 8, 9 ir [[#^s-7b610f53c07049b80e8f945c|10 dalyse]]. ^s-fd21dfbdf8f2f2c7405e4873
+8. Bendrovės vadovas veikia bendrovės vardu ir turi teisę vienvaldiškai sudaryti sandorius, išskyrus atvejus, kai bendrovės įstatuose nustatytas kiekybinis atstovavimas bendrovei. Šio Įstatymo [[#^s-b1686dd253e96520f16166ec|34 straipsnio 4 dalies]] [[#^s-f1b2295c773f8e0118f07e24|3]], [[#^s-0d71515919be35b5e7b9a01c|4]], [[#^s-a0dbd7397b88f0d096534363|5]] ir [[#^s-844ad5c7995170230ed8e8c1|6]] punktuose nurodytus sandorius bendrovės vadovas gali sudaryti, kai yra bendrovės valdybos (jei bendrovėje valdyba sudaroma) sprendimas šiuos sandorius sudaryti. Jei bendrovėje valdyba nesudaroma, bendrovės vadovas priima sprendimus ir atlieka veiksmus, nustatytus šio Įstatymo [[#^s-25f13add5292ad22672d0287|34 straipsnio]] [[#^s-fbe63b13c5742d6e4a5ab997|1]], [[#^s-6506404ebfe05f32f85876e4|3]], [[#^s-b1686dd253e96520f16166ec|4]], [[#^s-cc247734818ec9051cde86bd|5]], [[#^s-df9b41ed6ee10455da540949|6]], [[#^s-536a62006f29e1f1942e073e|8]], [[#^s-ec5175eb3a7beb65c869affc|9]] ir [[#^s-33e3466d5b242b6657424feb|10]] dalyse. ^s-fd21dfbdf8f2f2c7405e4873
 
 
 9. Bendrovės vadovas privalo saugoti bendrovės komercines (gamybines) paslaptis, kurias sužinojo eidamas šias pareigas. ^s-53bed6cd6f630a3868aee8b2
@@ -1458,10 +1458,10 @@ BENDROVĖS KAPITALAS
 4. Kiti rezervai sudaromi iš paskirstytinojo pelno ir naudojami konkretiems bendrovės tikslams įgyvendinti. ^s-fd350f53462877543c4ab7b3
 
 
-5. Šio straipsnio 3 ir [[#^s-fd350f53462877543c4ab7b3|4 dalyse]] nurodyti rezervai gali būti sudaromi tik po to, kai yra padarytas šio Įstatymo [[#^s-b8acd698e957f86960ec675a|59 straipsnio 5 dalyje]] nustatyto dydžio atskaitymas į privalomąjį rezervą, ir gali būti naudojami bendrovės nuostoliams padengti bei įstatiniam kapitalui didinti. ^s-432ba652baae486f579b9b44
+5. Šio straipsnio [[#^s-35f105a77173a4bcbd7c4d8b|3]] ir [[#^s-fd350f53462877543c4ab7b3|4]] dalyse nurodyti rezervai gali būti sudaromi tik po to, kai yra padarytas šio Įstatymo [[#^s-b8acd698e957f86960ec675a|59 straipsnio 5 dalyje]] nustatyto dydžio atskaitymas į privalomąjį rezervą, ir gali būti naudojami bendrovės nuostoliams padengti bei įstatiniam kapitalui didinti. ^s-432ba652baae486f579b9b44
 
 
-6. Jeigu šio straipsnio 3 ir [[#^s-fd350f53462877543c4ab7b3|4 dalyse]] nurodyti rezervai nepanaudoti ir nenumatoma jų panaudoti, skirstant kitų finansinių metų pelną jie gali būti perskirstyti. ^s-a1d70b8b1f8afcfa28890507
+6. Jeigu šio straipsnio [[#^s-35f105a77173a4bcbd7c4d8b|3]] ir [[#^s-fd350f53462877543c4ab7b3|4]] dalyse nurodyti rezervai nepanaudoti ir nenumatoma jų panaudoti, skirstant kitų finansinių metų pelną jie gali būti perskirstyti. ^s-a1d70b8b1f8afcfa28890507
 
 
 7. Perkainojimo rezervas − tai ilgalaikio materialiojo turto ir finansinio turto vertės padidėjimo suma, gauta perkainojus turtą. Perkainojimo rezervas mažinamas, kai perkainotas turtas nukainojamas, nurašomas, nudėvimas ar perleidžiamas kitų asmenų nuosavybėn. Perkainojimo rezervo dalimi, sudaryta perkainojus materialųjį turtą, gali būti didinamas įstatinis kapitalas. Iš perkainojimo rezervo negali būti mažinami nuostoliai. Kai perkainojamas finansinis turtas, perkelta į perkainojimo rezervą perkainojimo suma negalima didinti įstatinio kapitalo. ^s-69abc7a7e26073d3a4c816f0
@@ -1703,7 +1703,7 @@ BENDROVĖS KAPITALAS
 9. Bendrovė negali iš anksto mokėti lėšų, suteikti paskolos ar užtikrinti prievolių įvykdymo tretiesiems asmenims, jeigu šiais veiksmais siekiama sudaryti sąlygas kitiems asmenims įsigyti tos bendrovės akcijų. ^s-412785e3ba68f15d2b54a42e
 
 
-10. Už šio straipsnio 8 ir [[#^s-412785e3ba68f15d2b54a42e|9 dalyse]] nurodytų sąlygų laikymąsi yra atsakingas bendrovės vadovas. ^s-a57524b50519ee10768ab6f5
+10. Už šio straipsnio [[#^s-5ac2845c1cb710ebc3350d4c|8]] ir [[#^s-412785e3ba68f15d2b54a42e|9]] dalyse nurodytų sąlygų laikymąsi yra atsakingas bendrovės vadovas. ^s-a57524b50519ee10768ab6f5
 
 
 
@@ -1774,7 +1774,7 @@ BENDROVĖS KAPITALAS
 4. Sutartis, kurioje nėra bent vieno iš [[#^s-16d4620ec793ccd879e26819|šio straipsnio 3 dalyje]] nurodytų duomenų, yra negaliojanti nuo jos sudarymo ir sąskaitų tvarkytojai neturi teisės pagal ją daryti įrašų. ^s-f9e719d8f5825ad3d1b5e751
 
 
-5. Šio straipsnio 3 ir [[#^s-f9e719d8f5825ad3d1b5e751|4 dalių]] reikalavimai netaikomi akcijų perleidimo sutartims, kurios sudaromos vertybinių popierių biržoje. ^s-a2dc043e38b65f157fc1eef2
+5. Šio straipsnio [[#^s-16d4620ec793ccd879e26819|3]] ir [[#^s-f9e719d8f5825ad3d1b5e751|4]] dalių reikalavimai netaikomi akcijų perleidimo sutartims, kurios sudaromos vertybinių popierių biržoje. ^s-a2dc043e38b65f157fc1eef2
 
 
 6. Iki bendrovės įsteigimo arba dėl įstatinio kapitalo padidinimo pakeistų įstatų įregistravimo juridinių asmenų registre akcijas pasirašęs asmuo neturi teisės perleisti akcijų kitiems asmenims. ^s-e6a50e4ba570bdbf3ffa0678
@@ -1955,7 +1955,7 @@ BENDROVĖS KAPITALAS
 3) įstatinis kapitalas mažinamas vien tam, kad būtų panaikinti bendrovės balanse įrašyti nuostoliai. ^s-ee8ce3aecfb7b72a1fae0134
 
 
-5. Dėl įstatinio kapitalo sumažinimo pakeisti bendrovės įstatai pateikiami juridinių asmenų registro tvarkytojui po to, kai buvo įvykdyti visi šio straipsnio 1 ir [[#^s-3e33fe91ff75156cecc0c251|2 dalyse]] nustatyti veiksmai, bet ne anksčiau kaip praėjus 3 mėnesiams nuo juridinių asmenų registro tvarkytojo paskelbimo apie visuotinio akcininkų susirinkimo ar teismo sprendimą sumažinti bendrovės įstatinį kapitalą dienos. Pakeisti dėl įstatinio kapitalo sumažinimo bendrovės įstatai gali būti pateikti juridinių asmenų registro tvarkytojui nesilaikant šioje dalyje nustatyto termino, jeigu: ^s-29f67f434ecf7457a31de156
+5. Dėl įstatinio kapitalo sumažinimo pakeisti bendrovės įstatai pateikiami juridinių asmenų registro tvarkytojui po to, kai buvo įvykdyti visi šio straipsnio [[#^s-31b1c035a0e09c771effaddc|1]] ir [[#^s-3e33fe91ff75156cecc0c251|2]] dalyse nustatyti veiksmai, bet ne anksčiau kaip praėjus 3 mėnesiams nuo juridinių asmenų registro tvarkytojo paskelbimo apie visuotinio akcininkų susirinkimo ar teismo sprendimą sumažinti bendrovės įstatinį kapitalą dienos. Pakeisti dėl įstatinio kapitalo sumažinimo bendrovės įstatai gali būti pateikti juridinių asmenų registro tvarkytojui nesilaikant šioje dalyje nustatyto termino, jeigu: ^s-29f67f434ecf7457a31de156
 
 
 1) bendrovė neturi kreditorinių įsiskolinimų ir apie įstatinio kapitalo mažinimą buvo viešai paskelbta, kaip nustatyta [[#^s-31b1c035a0e09c771effaddc|šio straipsnio 1 dalyje]]; ^s-0a51b1e02f0cad825d47ba5e
@@ -2022,7 +2022,7 @@ BENDROVĖS KAPITALAS
 10. Kai bendrovės akcijas pasirašo ar įgyja asmuo, veikiantis savo vardu, bet dėl šios bendrovės interesų ir bendrovės lėšomis, laikoma, kad akcijas pasirašo ar įgyja pati bendrovė, kurios akcijos pasirašomos ar įgyjamos. ^s-379614c4469e1617355a7850
 
 
-11. Bendrovės akcijos, įgytos pažeidžiant šio straipsnio 2, 3, 4 ir [[#^s-877da7404333d73b5d8f5389|6 dalyse]] nurodytas sąlygas, turi būti perleistos kitų asmenų nuosavybėn ne vėliau kaip per 12 mėnesių nuo jų įgijimo. Jei akcijos neperleidžiamos per šį laiką, atitinkamai turi būti sumažintas įstatinis kapitalas, akcijos anuliuojamos ir paskelbiamos negaliojančiomis. ^s-79bf90506c8ee5720635da1b
+11. Bendrovės akcijos, įgytos pažeidžiant šio straipsnio [[#^s-1e952fbab1e7ca0f61dbef25|2]], [[#^s-d1c1bf45785f60fa4cb33010|3]], [[#^s-bbb8682d73150fa3d6dfd63c|4]] ir [[#^s-877da7404333d73b5d8f5389|6]] dalyse nurodytas sąlygas, turi būti perleistos kitų asmenų nuosavybėn ne vėliau kaip per 12 mėnesių nuo jų įgijimo. Jei akcijos neperleidžiamos per šį laiką, atitinkamai turi būti sumažintas įstatinis kapitalas, akcijos anuliuojamos ir paskelbiamos negaliojančiomis. ^s-79bf90506c8ee5720635da1b
 
 
 12. Jei bendrovė nepaskelbia akcijų negaliojančiomis ir jų neanuliuoja, kaip nurodyta [[#^s-79bf90506c8ee5720635da1b|šio straipsnio 11 dalyje]], akcijos pripažįstamos negaliojančiomis ir atitinkamai sumažinamas įstatinis kapitalas teismo sprendimu. Teisę kreiptis į teismą turi bendrovės vadovas, valdyba, akcininkas ir kreditorius. ^s-dcd0e04ca2345f3c9cc9a298
@@ -2031,7 +2031,7 @@ BENDROVĖS KAPITALAS
 13. Teismui priėmus sprendimą sumažinti bendrovės įstatinį kapitalą, bendrovės valdyba (jei valdyba nesudaroma − bendrovės vadovas) privalo bendrovės įstatuose atitinkamai pakeisti įstatinio kapitalo dydį bei akcijų skaičių ir atitinkamai anuliuoti bendrovės savas akcijas. Pakeisti bendrovės įstatai turi būti pateikti juridinių asmenų registro tvarkytojui ne vėliau kaip per 30 dienų nuo teismo sprendimo įsiteisėjimo. ^s-e36c32b70e8fec70175376f6
 
 
-14. Už šio straipsnio 3, 4, 5, 6, 7 ir [[#^s-79bf90506c8ee5720635da1b|11 dalyse]] nurodytų sąlygų laikymąsi yra atsakingas bendrovės vadovas. ^s-d05cdf6432321232f5fdb69a
+14. Už šio straipsnio [[#^s-d1c1bf45785f60fa4cb33010|3]], [[#^s-bbb8682d73150fa3d6dfd63c|4]], [[#^s-eced330e912da887f7d816db|5]], [[#^s-877da7404333d73b5d8f5389|6]], [[#^s-5b64bb7ec0c701be7dc63348|7]] ir [[#^s-79bf90506c8ee5720635da1b|11]] dalyse nurodytų sąlygų laikymąsi yra atsakingas bendrovės vadovas. ^s-d05cdf6432321232f5fdb69a
 
 
 
@@ -2442,7 +2442,7 @@ BENDROVėS REORGANIZAVIMAS, ATSKYRIMAS, pertvarkymas IR LIKVIDAVIMAS
 ### 65 straipsnis. Informavimas apie numatomą reorganizavimą ^s-3ff0e3e9025eb8ed76752d6c
 
 
-1. Kiekviena reorganizuojama ir dalyvaujanti reorganizavime bendrovė apie parengtas reorganizavimo sąlygas turi viešai paskelbti įstatuose nurodytame dienraštyje tris kartus ne mažesniais kaip 30 dienų intervalais arba ne vėliau kaip likus 30 dienų iki visuotinio akcininkų susirinkimo dėl bendrovės reorganizavimo viešai paskelbti įstatuose nurodytame dienraštyje vieną kartą ir pranešti visiems bendrovės kreditoriams raštu. Skelbime ar pranešime turi būti nurodyti [[#^s-63d513138904b73d909c617a|63 straipsnio 1 dalies]] 1, 2, 3, 8 ir 9 punktuose išvardyti duomenys ir nurodyta, kur ir kada galima susipažinti su [[#^s-06c49719a2ab33dfbbcf207a|šio straipsnio 2 dalyje]] išvardytais dokumentais. ^s-063f1475a74be17180564784
+1. Kiekviena reorganizuojama ir dalyvaujanti reorganizavime bendrovė apie parengtas reorganizavimo sąlygas turi viešai paskelbti įstatuose nurodytame dienraštyje tris kartus ne mažesniais kaip 30 dienų intervalais arba ne vėliau kaip likus 30 dienų iki visuotinio akcininkų susirinkimo dėl bendrovės reorganizavimo viešai paskelbti įstatuose nurodytame dienraštyje vieną kartą ir pranešti visiems bendrovės kreditoriams raštu. Skelbime ar pranešime turi būti nurodyti [[#^s-63d513138904b73d909c617a|63 straipsnio 1 dalies]] [[#^s-f6fceefbac502d3b3c05a7f5|1]], [[#^s-3b4845a868b56a352429829d|2]], [[#^s-2c7b16ae73517eb2294c8a6d|3]], [[#^s-21ea3b897fff2dd1515d8772|8]] ir [[#^s-1b8a4652493195c9cd43ba38|9]] punktuose išvardyti duomenys ir nurodyta, kur ir kada galima susipažinti su [[#^s-06c49719a2ab33dfbbcf207a|šio straipsnio 2 dalyje]] išvardytais dokumentais. ^s-063f1475a74be17180564784
 
 
 2. Ne vėliau kaip likus 30 dienų iki visuotinio akcininkų susirinkimo, kurio darbotvarkėje numatyta priimti sprendimą dėl bendrovės reorganizavimo, kiekvienam bendrovės akcininkui ir kreditoriui turi būti sudaryta galimybė kiekvienos reorganizuojamos ir reorganizavime dalyvaujančios bendrovės buveinėje susipažinti su: ^s-06c49719a2ab33dfbbcf207a
@@ -2482,10 +2482,10 @@ BENDROVėS REORGANIZAVIMAS, ATSKYRIMAS, pertvarkymas IR LIKVIDAVIMAS
 3. Bendrovė gali neteikti prievolių įvykdymo papildomo užtikrinimo, jei jos įsipareigojimų kreditoriui įvykdymas yra pakankamai užtikrintas įkeitimu, hipoteka, laidavimu ar garantija. Ginčus dėl prievolių įvykdymo papildomo užtikrinimo sprendžia teismas. ^s-77b3c6107f85475147c7ddf9
 
 
-4. Juridinių asmenų registro tvarkytojui negali būti teikiami dokumentai dėl bendrovių, kurios veiks po reorganizavimo, ar jų įstatų įregistravimo bei dokumentai dėl bendrovių, kurios po reorganizavimo pasibaigs, išregistravimo, jeigu nėra papildomai užtikrintas prievolių įvykdymas to reikalaujančiam kreditoriui, kaip nustatyta šio straipsnio 1 ir [[#^s-44d10ac5589cee77cce980bc|2 dalyse]], taip pat iki teismo sprendimo įsiteisėjimo, jeigu teisme nagrinėjamas ginčas dėl prievolių įvykdymo papildomo užtikrinimo. ^s-b68d86f8dcf096b85d06af99
+4. Juridinių asmenų registro tvarkytojui negali būti teikiami dokumentai dėl bendrovių, kurios veiks po reorganizavimo, ar jų įstatų įregistravimo bei dokumentai dėl bendrovių, kurios po reorganizavimo pasibaigs, išregistravimo, jeigu nėra papildomai užtikrintas prievolių įvykdymas to reikalaujančiam kreditoriui, kaip nustatyta šio straipsnio [[#^s-a0e64d8816f40b96e9b9e990|1]] ir [[#^s-44d10ac5589cee77cce980bc|2]] dalyse, taip pat iki teismo sprendimo įsiteisėjimo, jeigu teisme nagrinėjamas ginčas dėl prievolių įvykdymo papildomo užtikrinimo. ^s-b68d86f8dcf096b85d06af99
 
 
-5. Reorganizuojamos ar dalyvaujančios reorganizavime bendrovės obligacijų savininkai turi šio straipsnio 1 ir [[#^s-44d10ac5589cee77cce980bc|2 dalyse]] nurodytas kreditorių teises, o bendrovė obligacijų savininkų atžvilgiu turi šio straipsnio 1, 3 ir [[#^s-b68d86f8dcf096b85d06af99|4 dalyse]] nurodytas teises ir pareigas. ^s-49f41aeb47c8e9174c25f49a
+5. Reorganizuojamos ar dalyvaujančios reorganizavime bendrovės obligacijų savininkai turi šio straipsnio [[#^s-a0e64d8816f40b96e9b9e990|1]] ir [[#^s-44d10ac5589cee77cce980bc|2]] dalyse nurodytas kreditorių teises, o bendrovė obligacijų savininkų atžvilgiu turi šio straipsnio [[#^s-a0e64d8816f40b96e9b9e990|1]], [[#^s-77b3c6107f85475147c7ddf9|3]] ir [[#^s-b68d86f8dcf096b85d06af99|4]] dalyse nurodytas teises ir pareigas. ^s-49f41aeb47c8e9174c25f49a
 
 
 
@@ -2542,7 +2542,7 @@ BENDROVėS REORGANIZAVIMAS, ATSKYRIMAS, pertvarkymas IR LIKVIDAVIMAS
 3. Po reorganizavimo sukuriama nauja bendrovė įregistruojama po to, kai įvyko šios bendrovės visuotinis akcininkų susirinkimas, išrinkęs pagal įstatus visuotinio akcininkų susirinkimo renkamus bendrovės organus, kai yra išrinkti valdyba (jeigu įstatuose nustatyta, kad valdyba sudaroma), bendrovės vadovas ir juridinių asmenų registro tvarkytojui pateikti įstatymuose nurodyti dokumentai. ^s-8209cd42c6eb7eb92dfea960
 
 
-4. Šio straipsnio 2 ir [[#^s-8209cd42c6eb7eb92dfea960|3 dalyse]] nurodyti visuotiniai akcininkų susirinkimai gali spręsti visus visuotinio akcininkų susirinkimo kompetencijai priskirtus klausimus. ^s-d5719956225efe3968816605
+4. Šio straipsnio [[#^s-1b3adfbd5a5e867ef9be16a5|2]] ir [[#^s-8209cd42c6eb7eb92dfea960|3]] dalyse nurodyti visuotiniai akcininkų susirinkimai gali spręsti visus visuotinio akcininkų susirinkimo kompetencijai priskirtus klausimus. ^s-d5719956225efe3968816605
 
 
 5. Reorganizuota bendrovė pasibaigia nuo jos išregistravimo iš juridinių asmenų registro. ^s-6edd17194896c65916f609f7
@@ -2555,10 +2555,10 @@ BENDROVėS REORGANIZAVIMAS, ATSKYRIMAS, pertvarkymas IR LIKVIDAVIMAS
 ### 70 straipsnis.       Prijungimas prie bendrovės, kuriai nuosavybės teise priklauso ne mažiau kaip 90 procentų prijungiamos bendrovės akcijų ^s-7ce9373afc8d4ad10aeb58e8
 
 
-1. Prijungimui, kai po reorganizavimo tęsianti veiklą bendrovė yra visų prijungiamos bendrovės akcijų savininkė, netaikomi šio Įstatymo [[#^s-63d513138904b73d909c617a|63 straipsnio 1 dalies]] 4, 5, 6 ir 7 punktai, 2 ir 3 dalys, [[#^s-c2e4f963f7f523a9cb15c6a5|64 straipsnis]], [[#^s-06c49719a2ab33dfbbcf207a|65 straipsnio 2 dalies]] 4 ir 5 punktai ir [[#^s-01e680c1a79e44f3f5872c90|67 straipsnio]] 1, 2, 3 ir 5 dalys. ^s-322fa19f3ab4977107a047a8
+1. Prijungimui, kai po reorganizavimo tęsianti veiklą bendrovė yra visų prijungiamos bendrovės akcijų savininkė, netaikomi šio Įstatymo [[#^s-63d513138904b73d909c617a|63 straipsnio 1 dalies]] [[#^s-244e2dc0588e971d968bf4ad|4]], [[#^s-b848d39532574ffea86cdc6d|5]], [[#^s-442cdab20cb7f680687204eb|6]] ir [[#^s-3d98672f552181dff35e3f46|7]] punktai, [[#^s-f7e59a4e7b0c107cc470a2b9|2]] ir [[#^s-6ad5cb2bb09f7ecc732be4b9|3]] dalys, [[#^s-c2e4f963f7f523a9cb15c6a5|64 straipsnis]], [[#^s-06c49719a2ab33dfbbcf207a|65 straipsnio 2 dalies]] [[#^s-d57d6c7735c93cd112ee2572|4]] ir [[#^s-04db710b3d4ebfad18fc987d|5]] punktai ir [[#^s-01e680c1a79e44f3f5872c90|67 straipsnio]] [[#^s-956e30ab1c27950d3057eb4a|1]], [[#^s-e109868e120078bd234efe9a|2]], [[#^s-877e2cc39b2fe9cd416aa884|3]] ir [[#^s-eaafa9de4bb45b24b8d9d915|5]] dalys. ^s-322fa19f3ab4977107a047a8
 
 
-2. Prijungimui, kai po reorganizavimo tęsianti veiklą bendrovė yra ne mažiau kaip 90 procentų prijungiamos bendrovės akcijų savininkė, netaikomos šio Įstatymo [[#^s-7c7d9fd8673fddd89159eb2f|63 straipsnio]] 2 ir 3 dalys, [[#^s-c2e4f963f7f523a9cb15c6a5|64 straipsnis]] ir [[#^s-06c49719a2ab33dfbbcf207a|65 straipsnio 2 dalies]] 4 ir 5 punktai. Šiuo atveju, jeigu kiti prijungiamos bendrovės akcininkai pareikalauja, bendrovė iki reorganizavimo pabaigos privalo jų akcijas išpirkti. Akcijų išpirkimui taikomos šio Įstatymo [[#^s-877e2cc39b2fe9cd416aa884|67 straipsnio 3 dalies]] nuostatos. ^s-a5bf77752a5993b9bb263977
+2. Prijungimui, kai po reorganizavimo tęsianti veiklą bendrovė yra ne mažiau kaip 90 procentų prijungiamos bendrovės akcijų savininkė, netaikomos šio Įstatymo [[#^s-7c7d9fd8673fddd89159eb2f|63 straipsnio]] [[#^s-f7e59a4e7b0c107cc470a2b9|2]] ir [[#^s-6ad5cb2bb09f7ecc732be4b9|3]] dalys, [[#^s-c2e4f963f7f523a9cb15c6a5|64 straipsnis]] ir [[#^s-06c49719a2ab33dfbbcf207a|65 straipsnio 2 dalies]] [[#^s-d57d6c7735c93cd112ee2572|4]] ir [[#^s-04db710b3d4ebfad18fc987d|5]] punktai. Šiuo atveju, jeigu kiti prijungiamos bendrovės akcininkai pareikalauja, bendrovė iki reorganizavimo pabaigos privalo jų akcijas išpirkti. Akcijų išpirkimui taikomos šio Įstatymo [[#^s-877e2cc39b2fe9cd416aa884|67 straipsnio 3 dalies]] nuostatos. ^s-a5bf77752a5993b9bb263977
 
 
 
@@ -2802,7 +2802,7 @@ UŽSIENIO BENDROVIŲ FILIALAI
 2) Europos ekonominės erdvės susitarimo [[#^s-bfe11981aac39c7c7b350400|77 straipsnyje]] bei XXII priedo 8 punkte nurodytose valstybėse įsteigtų bendrovių filialai; ^s-2a2fe69738a7a71c1470087a
 
 
-3) kitose šio straipsnio 1 ir [[#^s-2a2fe69738a7a71c1470087a|2 punktuose]] nenurodytose valstybėse įsteigtų juridinių asmenų, kurių teisinės formos yra panašios į bendrovių teisines formas, filialai. ^s-ad080e0233cce34caf714b52
+3) kitose šio straipsnio [[#^s-8e2f92a9800fd8a36d7cf160|1]] ir [[#^s-2a2fe69738a7a71c1470087a|2]] punktuose nenurodytose valstybėse įsteigtų juridinių asmenų, kurių teisinės formos yra panašios į bendrovių teisines formas, filialai. ^s-ad080e0233cce34caf714b52
 
 
 2. Užsienio bendrovės filialas laikomas įsteigtu nuo jo įregistravimo juridinių asmenų registre. ^s-f500bfbacf6be11c09702bdb
@@ -2857,7 +2857,7 @@ UŽSIENIO BENDROVIŲ FILIALAI
 3. [[#^s-5b3dd286cb26f066dac8bd0c|Šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodyti dokumentai turi būti legalizuoti teisės aktų nustatyta tvarka, išskyrus tarptautinių sutarčių nustatytus atvejus. ^s-bdec9b1a89788f985afb3699
 
 
-4. Šio Įstatymo [[#^s-e82f2c058687897f6e83a18f|75 straipsnio 1 dalies]] 1 ir 2 punktuose nurodytos užsienio bendrovės, įsteigusios daugiau nei vieną filialą, gali pasirinkti, kurio filialo byloje bus saugomi [[#^s-5b3dd286cb26f066dac8bd0c|šio straipsnio 1 dalyje]] nurodyti dokumentai. Tokiu atveju kitų filialų bylose turi būti nurodytas tokio pasirinkto filialo pavadinimas, kodas ir registro tvarkytojas. ^s-3233ed6009092f6ca72ce476
+4. Šio Įstatymo [[#^s-e82f2c058687897f6e83a18f|75 straipsnio 1 dalies]] [[#^s-8e2f92a9800fd8a36d7cf160|1]] ir [[#^s-2a2fe69738a7a71c1470087a|2]] punktuose nurodytos užsienio bendrovės, įsteigusios daugiau nei vieną filialą, gali pasirinkti, kurio filialo byloje bus saugomi [[#^s-5b3dd286cb26f066dac8bd0c|šio straipsnio 1 dalyje]] nurodyti dokumentai. Tokiu atveju kitų filialų bylose turi būti nurodytas tokio pasirinkto filialo pavadinimas, kodas ir registro tvarkytojas. ^s-3233ed6009092f6ca72ce476
 
 
 5. Šio Įstatymo [[#^s-ad080e0233cce34caf714b52|75 straipsnio 1 dalies 3 punkte]] nurodytos užsienio bendrovės be dokumentų, nurodytų [[#^s-5b3dd286cb26f066dac8bd0c|šio straipsnio 1 dalyje]], bent kartą per metus juridinių asmenų registrui turi pateikti dokumentą, patvirtinantį užsienio bendrovės pasirašyto kapitalo dydį, jeigu pasirašyto kapitalo dydis nėra nurodytas [[#^s-1c5c1669043d58ec2d3000c7|šio straipsnio 1 dalies 2 punkte]] nurodytuose dokumentuose. ^s-6856e0f8c3bf269e499df8da
@@ -2897,7 +2897,7 @@ UŽSIENIO BENDROVIŲ FILIALAI
 9) filialo veiklos nutraukimo data. ^s-987a92259b24f0929ae772b3
 
 
-2. Apie šio Įstatymo [[#^s-e82f2c058687897f6e83a18f|75 straipsnio 1 dalies]] 1 ir 2 punktuose nurodytų užsienio bendrovių filialus juridinių asmenų registre, be [[#^s-3ec6cadfd71b57965c958596|šio straipsnio 1 dalyje]] nustatytų duomenų, taip pat nurodomas registras, kuriame laikoma užsienio bendrovės byla, ir bendrovės numeris tame registre. ^s-1c680c10810f840d54558372
+2. Apie šio Įstatymo [[#^s-e82f2c058687897f6e83a18f|75 straipsnio 1 dalies]] [[#^s-8e2f92a9800fd8a36d7cf160|1]] ir [[#^s-2a2fe69738a7a71c1470087a|2]] punktuose nurodytų užsienio bendrovių filialus juridinių asmenų registre, be [[#^s-3ec6cadfd71b57965c958596|šio straipsnio 1 dalyje]] nustatytų duomenų, taip pat nurodomas registras, kuriame laikoma užsienio bendrovės byla, ir bendrovės numeris tame registre. ^s-1c680c10810f840d54558372
 
 
 3. Apie šio Įstatymo [[#^s-ad080e0233cce34caf714b52|75 straipsnio 1 dalies 3 punkte]] nurodytų užsienio bendrovių filialus juridinių asmenų registre, be [[#^s-3ec6cadfd71b57965c958596|šio straipsnio 1 dalyje]] nustatytų, taip pat nurodomi šie duomenys: ^s-5f3f98763bffa565a02253ad

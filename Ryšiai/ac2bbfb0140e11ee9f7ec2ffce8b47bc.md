@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.4334D941D3DC#^s-5ae3486635f6cabaac6d15db|Lietuvos Respublikos pluoštinių kanapių įstatymas]] - 2 straipsnio 10 dalį
+- [[latest/TAR.4334D941D3DC#^s-f6eeb25158d4b5fb9222e76f|Lietuvos Respublikos pluoštinių kanapių įstatymas]] - 5 straipsnio 5 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.4334D941D3DC#^s-ca338371585c21e73152cdc0|Lietuvos Respublikos pluoštinių kanapių įstatymas]] - Įstatymas Nr. XIV-2065
-- [[latest/TAR.4334D941D3DC#^s-e2b4ea491c39ebd3cc9a0f4d|Lietuvos Respublikos pluoštinių kanapių įstatymas]] - Įstatymas Nr. XIV-2065
+_Nėra._

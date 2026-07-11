@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-371dda2d89b6f910722351c8
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. liepos 24 d. dekretą Nr. 1K-1159, ratifikuoja 2011 m. gegužės 25 d. Briuselyje priimtą Taryboje posėdžiavusių Europos Sąjungos valstybių narių susitarimą dėl įslaptintos informacijos, kuria keičiamasi Europos Sąjungos interesais, apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. liepos 24 d. dekretą Nr. 1K-1159](https://e-tar.lt/portal/lt/legalAct/TAR.6C19BA9FF77C), ratifikuoja 2011 m. gegužės 25 d. Briuselyje priimtą Taryboje posėdžiavusių Europos Sąjungos valstybių narių susitarimą dėl įslaptintos informacijos, kuria keičiamasi Europos Sąjungos interesais, apsaugos.
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-6234ae947e850f9c32af94f2
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 2000 m. kovo 23 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl skrydžių informacijos regiono nustatymo“, ratifikuoja 1998 m. balandžio 15 d. Rygoje pasirašytą Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl skrydžių informacijos regiono nustatymo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 2000 m. kovo 23 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl skrydžių informacijos regiono nustatymo“](https://e-tar.lt/portal/lt/legalAct/TAR.A49C5EC80028), ratifikuoja 1998 m. balandžio 15 d. Rygoje pasirašytą Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl skrydžių informacijos regiono nustatymo.
 
 
 

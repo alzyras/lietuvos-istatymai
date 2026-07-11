@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 8, 13-
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/4e4d1f00bab711eab9d9cd0c85e0b745|Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 8, 13-1, 21, 22, 23, 24, 28 straipsnių pakeitimo ir Įstatymo papildymo 28-1 ir 28-2 straipsniais įstatymas]] - 2 straipsnio 13 dalį
+- [[latest/4e4d1f00bab711eab9d9cd0c85e0b745#^s-e16a5a0c1885596424871f2e|Lietuvos Respublikos energetikos įstatymo Nr. IX-884 2, 6, 8, 13-1, 21, 22, 23, 24, 28 straipsnių pakeitimo ir Įstatymo papildymo 28-1 ir 28-2 straipsniais įstatymas]] - 1 straipsnio 4 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.44235B485568#^s-59158fb07ae1834c708c727a|Lietuvos Respublikos energetikos įstatymas]] - Įstatymas Nr. XIV-633
-- [[latest/TAR.44235B485568#^s-f8a571e551fcdfd0ea232567|Lietuvos Respublikos energetikos įstatymas]] - Įstatymas Nr. XIV-633
+_Nėra._

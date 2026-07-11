@@ -40,7 +40,7 @@ Pakeisti Lietuvos Respublikos įstatymo [[latest/TAR.DBCAF0AFD52A|„Dėl Lietuv
 „4 straipsnis. Deputato pareigų derinimas su kitokia veikla
 
 
-Deputatas gali užsiimti kita darbine veikla tik Aukščiausiajai Tarybai sutikus. Lietuvos Respublikos valstybės organai, įmonės, įstaigos ar organizacijos negali priimti į nuolatinį darbą Aukščiausiosios Tarybos deputato be Aukščiausiosios Tarybos sutikimo. Negavus tokio sutikimo, kita darbinė veikla turi būti nutraukta. Tokio sutikimo nereikia deputatams, užsiimantiems moksline, pedagogine ar kūrybine veikla.“
+Deputatas gali užsiimti kita darbine veikla tik [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC) sutikus. Lietuvos Respublikos valstybės organai, įmonės, įstaigos ar organizacijos negali priimti į nuolatinį darbą Aukščiausiosios Tarybos deputato be Aukščiausiosios Tarybos sutikimo. Negavus tokio sutikimo, kita darbinė veikla turi būti nutraukta. Tokio sutikimo nereikia deputatams, užsiimantiems moksline, pedagogine ar kūrybine veikla.“
 
 
 

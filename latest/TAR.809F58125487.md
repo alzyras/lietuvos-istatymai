@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio papildymas 12, 13 ir 14 dalimis ^s-5284031d70eb413c9c1a18e1
 
 
-Papildyti [[#^s-c5f68f7c65b05409fa8f8ba6|2 straipsnį]] 12, 13 ir [[#^s-54d275b44328c3dc13b6d770|14 dalimis]]:
+Papildyti [[#^s-c5f68f7c65b05409fa8f8ba6|2 straipsnį]] 12, 13 ir 14 dalimis:
 
 
 „12.Plynas laukas – neužstatytas (neįrengtas) žemės sklypas.
@@ -120,7 +120,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 10) investuojant į valstybės ir savivaldybių nebaigtus statyti statinius ar apleistus ir nenaudojamus pastatus, kurių nepavyko privatizuoti pagal Lietuvos Respublikos valstybės ir savivaldybių turto privatizavimo įstatymą, kai bent vieną kartą šio įstatymo nustatyta tvarka buvo paskelbta objekto privatizavimo programa, tačiau per objekto privatizavimo programoje nustatytą terminą šis objektas nebuvo privatizuotas, Lietuvos Respublikos Vyriausybė arba savivaldybė tokį turtą parduoda (perduoda) Vyriausybės arba savivaldybės tarybos nustatyta tvarka. ^s-be9ff4f9968d06c5c88e04e4
 
 
-2. Investavimo skatinimo būdai taikomi tiek, kiek tai neprieštarauja Lietuvos Respublikos valstybės pagalbos ūkio subjektams kontrolės įstatymo nuostatoms.“ ^s-ab340f52375c979cb18a876f
+2. Investavimo skatinimo būdai taikomi tiek, kiek tai neprieštarauja [Lietuvos Respublikos valstybės pagalbos ūkio subjektams kontrolės įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.9066FF2551F8) nuostatoms.“ ^s-ab340f52375c979cb18a876f
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.

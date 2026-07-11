@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 16 straipsn
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.9D2F66B96EBC#^s-914e7f4958104ac6754a1a77|Lietuvos Respublikos aviacijos įstatymas]] - 16 straipsnio 10 dalį
+- [[latest/TAR.9D2F66B96EBC#^s-9fd6e81118787e6bb20d373f|Lietuvos Respublikos aviacijos įstatymas]] - 16 straipsnio
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9D2F66B96EBC#^s-911e242c3135e101a4a63704|Lietuvos Respublikos aviacijos įstatymas]] - Įstatymas Nr. XIV-2984
-- [[latest/TAR.9D2F66B96EBC#^s-b988a727765b14e5d36c09ce|Lietuvos Respublikos aviacijos įstatymas]] - Įstatymas Nr. XIV-2984
+_Nėra._

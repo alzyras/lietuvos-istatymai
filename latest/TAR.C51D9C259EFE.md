@@ -231,7 +231,7 @@ KREMAVIMAS
 4. Asmuo sutikimą dėl savo palaikų kremavimo taip pat gali pareikšti raštu sudarydamas trišalę kremavimo paslaugų teikimo po jo mirties sutartį su kremavimo įmone ir laidojančiu asmeniu, įsipareigojančiu užtikrinti pareikštos valios įgyvendinimą po ją pareiškusio asmens mirties ir kremavimo paslaugų sutarties vykdymą. Ši sutartis yra vartojimo sutartis. ^s-da88c7ad555b58b4aab8ee78
 
 
-5. Jeigu mirus asmeniui, kuris šio straipsnio 2 ir [[#^s-da88c7ad555b58b4aab8ee78|4 dalyse]] nustatyta tvarka buvo pareiškęs sutikimą dėl savo palaikų kremavimo, nežinoma, kur yra testamente arba kitame valios pareiškimo dokumente paskirtas laidojantis asmuo, arba jei paskirtas laidojantis asmuo dėl objektyvių priežasčių negali vykdyti įsipareigojimų ar atsisako būti laidojančiu asmeniu, valią dėl kremavimo vykdo veiksnūs mirusiojo asmens: ^s-36ed63298c336c5c46c1d1ee
+5. Jeigu mirus asmeniui, kuris šio straipsnio [[#^s-488fef9f3e11a78122b618c6|2]] ir [[#^s-da88c7ad555b58b4aab8ee78|4]] dalyse nustatyta tvarka buvo pareiškęs sutikimą dėl savo palaikų kremavimo, nežinoma, kur yra testamente arba kitame valios pareiškimo dokumente paskirtas laidojantis asmuo, arba jei paskirtas laidojantis asmuo dėl objektyvių priežasčių negali vykdyti įsipareigojimų ar atsisako būti laidojančiu asmeniu, valią dėl kremavimo vykdo veiksnūs mirusiojo asmens: ^s-36ed63298c336c5c46c1d1ee
 
 
 1) sutuoktinis arba partneris; ^s-69388492799eba2121860f17
@@ -243,16 +243,16 @@ Nr. XIV-1086, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11322
 2) jei nėra [[#^s-69388492799eba2121860f17|šios dalies 1 punkte]] nurodyto asmens arba jis nevykdo asmens pareikštos valios, – pilnamečiai vaikai (įvaikiai); ^s-dd9e2781ff3abeef723872de
 
 
-3) jei nėra šios dalies 1 ir [[#^s-dd9e2781ff3abeef723872de|2 punktuose]] nurodytų asmenų arba jie nevykdo asmens pareikštos valios, – tėvai (įtėviai); ^s-76ff9de405c8ed0e846a4fae
+3) jei nėra šios dalies [[#^s-69388492799eba2121860f17|1]] ir [[#^s-dd9e2781ff3abeef723872de|2]] punktuose nurodytų asmenų arba jie nevykdo asmens pareikštos valios, – tėvai (įtėviai); ^s-76ff9de405c8ed0e846a4fae
 
 
-4) jei nėra šios dalies 1, 2 ir [[#^s-76ff9de405c8ed0e846a4fae|3 punktuose]] nurodytų asmenų arba jie nevykdo asmens pareikštos valios, – pilnamečiai broliai ir seserys (įbroliai, įseserės); ^s-fc48b8e7b3f6daa7a8bfbc15
+4) jei nėra šios dalies [[#^s-69388492799eba2121860f17|1]], [[#^s-dd9e2781ff3abeef723872de|2]] ir [[#^s-76ff9de405c8ed0e846a4fae|3]] punktuose nurodytų asmenų arba jie nevykdo asmens pareikštos valios, – pilnamečiai broliai ir seserys (įbroliai, įseserės); ^s-fc48b8e7b3f6daa7a8bfbc15
 
 
-5) jei nėra šios dalies 1, 2, 3 ir [[#^s-fc48b8e7b3f6daa7a8bfbc15|4 punktuose]] nurodytų asmenų arba jie nevykdo asmens pareikštos valios, – seneliai ar pilnamečiai vaikaičiai; ^s-90cabbabccebfb1a16c6fa26
+5) jei nėra šios dalies [[#^s-69388492799eba2121860f17|1]], [[#^s-dd9e2781ff3abeef723872de|2]], [[#^s-76ff9de405c8ed0e846a4fae|3]] ir [[#^s-fc48b8e7b3f6daa7a8bfbc15|4]] punktuose nurodytų asmenų arba jie nevykdo asmens pareikštos valios, – seneliai ar pilnamečiai vaikaičiai; ^s-90cabbabccebfb1a16c6fa26
 
 
-6) jei nėra šios dalies 1, 2, 3, 4 ir [[#^s-90cabbabccebfb1a16c6fa26|5 punktuose]] nurodytų asmenų arba jie nevykdo asmens pareikštos valios, – kiti giminaičiai. ^s-88c92e11c3ac51dc2847aef0
+6) jei nėra šios dalies [[#^s-69388492799eba2121860f17|1]], [[#^s-dd9e2781ff3abeef723872de|2]], [[#^s-76ff9de405c8ed0e846a4fae|3]], [[#^s-fc48b8e7b3f6daa7a8bfbc15|4]] ir [[#^s-90cabbabccebfb1a16c6fa26|5]] punktuose nurodytų asmenų arba jie nevykdo asmens pareikštos valios, – kiti giminaičiai. ^s-88c92e11c3ac51dc2847aef0
 
 
 6. Jeigu nėra [[#^s-36ed63298c336c5c46c1d1ee|šio straipsnio 5 dalies]] 1–6 punktuose nurodytų asmenų, galinčių įvykdyti asmens pareikštą valią dėl jo palaikų kremavimo, arba nežinoma, kur tokie asmenys yra, kremavimą ir kremuotų žmogaus palaikų laidojimą organizuoja savivaldybė, kurios teritorijoje asmuo nuolat gyveno. Jeigu asmuo neturėjo nuolatinės gyvenamosios vietos, kremavimą ir laidojimą organizuoja savivaldybė, kurios teritorijoje buvo nustatytas mirties faktas. Tokiu atveju laidojantis asmuo yra savivaldybės vykdomosios institucijos įgaliotas asmuo. ^s-7aa092e89403d1b5b0a53665
@@ -271,14 +271,14 @@ Nr. XIV-1086, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11322
 2) nutraukdamas trišalę sutartį su kremavimo įmone ir laidojančiu asmeniu. ^s-e3c62a03fc1dd19ee164d48d
 
 
-2. Vėliau šio įstatymo [[#^s-91721aa80a173e651ade3ddb|3 straipsnio]] 2 ir 4 dalyse nustatyta tvarka pareikšta valia dėl kremavimo panaikina pirmiau pareikštą valią dėl kremavimo. ^s-7f289bc36c54f9df6fa9465c
+2. Vėliau šio įstatymo [[#^s-91721aa80a173e651ade3ddb|3 straipsnio]] [[#^s-488fef9f3e11a78122b618c6|2]] ir [[#^s-da88c7ad555b58b4aab8ee78|4]] dalyse nustatyta tvarka pareikšta valia dėl kremavimo panaikina pirmiau pareikštą valią dėl kremavimo. ^s-7f289bc36c54f9df6fa9465c
 
 
 
 ### 5 straipsnis. Asmens, kuris nebuvo pareiškęs valios dėl savo palaikų kremavimo, palaikų kremavimas ^s-02695ccf130585aefa1f1a46
 
 
-1. Asmens, kuris, būdamas gyvas, šio įstatymo [[#^s-91721aa80a173e651ade3ddb|3 straipsnio]] 2 ir 4 dalyse nustatyta tvarka nepareiškė valios dėl savo palaikų kremavimo, palaikus kremuoti galima, jeigu mirusiojo asmens veiksnus pilnametis sutuoktinis (sutuoktinė), partneris (partnerė) ar kiti veiksnūs pilnamečiai asmenys, nurodyti Civilinio kodekso 3.135 straipsnyje, pateikia prašymą kremavimo įmonei ir raštu patvirtina, kad asmuo, būdamas gyvas, nebuvo pareiškęs nesutikimo dėl savo palaikų kremavimo. ^s-b5d2cefa7d67a67af0396010
+1. Asmens, kuris, būdamas gyvas, šio įstatymo [[#^s-91721aa80a173e651ade3ddb|3 straipsnio]] [[#^s-488fef9f3e11a78122b618c6|2]] ir [[#^s-da88c7ad555b58b4aab8ee78|4]] dalyse nustatyta tvarka nepareiškė valios dėl savo palaikų kremavimo, palaikus kremuoti galima, jeigu mirusiojo asmens veiksnus pilnametis sutuoktinis (sutuoktinė), partneris (partnerė) ar kiti veiksnūs pilnamečiai asmenys, nurodyti Civilinio kodekso 3.135 straipsnyje, pateikia prašymą kremavimo įmonei ir raštu patvirtina, kad asmuo, būdamas gyvas, nebuvo pareiškęs nesutikimo dėl savo palaikų kremavimo. ^s-b5d2cefa7d67a67af0396010
 Straipsnio dalies pakeitimai:
 Nr. XIV-1086, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11322
 
@@ -299,13 +299,13 @@ Nr. XIV-1086, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11322
 
 
 
-3) jei nėra šios dalies 1 ir [[#^s-2ae6a9af7d50ac3d75ab0636|2 punktuose]] nurodytų asmenų, – tėvai (įtėviai); ^s-a0879bae4d67ad99d918fceb
+3) jei nėra šios dalies [[#^s-cff15f8bad7a8c4e08db062d|1]] ir [[#^s-2ae6a9af7d50ac3d75ab0636|2]] punktuose nurodytų asmenų, – tėvai (įtėviai); ^s-a0879bae4d67ad99d918fceb
 
 
-4) jei nėra šios dalies 1, 2 ir [[#^s-a0879bae4d67ad99d918fceb|3 punktuose]] nurodytų asmenų, – pilnamečiai broliai ir seserys (įbroliai, įseserės); ^s-5782f74344f16dd0085c1458
+4) jei nėra šios dalies [[#^s-cff15f8bad7a8c4e08db062d|1]], [[#^s-2ae6a9af7d50ac3d75ab0636|2]] ir [[#^s-a0879bae4d67ad99d918fceb|3]] punktuose nurodytų asmenų, – pilnamečiai broliai ir seserys (įbroliai, įseserės); ^s-5782f74344f16dd0085c1458
 
 
-5) jei nėra šios dalies 1, 2, 3 ir [[#^s-5782f74344f16dd0085c1458|4 punktuose]] nurodytų asmenų, – seneliai, pilnamečiai vaikaičiai. ^s-ba2b7e118810bd3d383653ed
+5) jei nėra šios dalies [[#^s-cff15f8bad7a8c4e08db062d|1]], [[#^s-2ae6a9af7d50ac3d75ab0636|2]], [[#^s-a0879bae4d67ad99d918fceb|3]] ir [[#^s-5782f74344f16dd0085c1458|4]] punktuose nurodytų asmenų, – seneliai, pilnamečiai vaikaičiai. ^s-ba2b7e118810bd3d383653ed
 
 
 3. Kilus nesutarimams dėl žmogaus palaikų kremavimo tarp [[#^s-864100d584a4713193e91aee|šio straipsnio 2 dalies]] tame pačiame punkte nurodytų asmenų, palaikai nekremuojami. ^s-3a73b24ed0e8ec08c3193d40
@@ -331,10 +331,10 @@ Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
 2) laidojančio asmens arba asmens, turinčio teisę veikti juridinio asmens vardu, kai laidojantis asmuo yra juridinis asmuo, tapatybę patvirtinantį dokumentą (pasą, asmens tapatybės kortelę) arba leidimą nuolat ar laikinai gyventi Lietuvos Respublikoje. Jeigu laidojantis asmuo yra juridinis asmuo arba savivaldybės vykdomosios institucijos įgaliotas asmuo, asmuo, turintis teisę veikti juridinio asmens vardu, arba savivaldybės vykdomosios institucijos įgaliotas asmuo taip pat pateikia įgaliojimus patvirtinantį dokumentą; ^s-0cdca8c270344a4d9891be3d
 
 
-3) asmens, kurio palaikus prašoma kremuoti, šio įstatymo [[#^s-91721aa80a173e651ade3ddb|3 straipsnio]] 2 ir 4 dalyse nustatyta tvarka pareikštą sutikimą dėl jo palaikų kremavimo, jeigu toks sutikimas buvo pareikštas; ^s-2ff0125202e39db7a14bd94b
+3) asmens, kurio palaikus prašoma kremuoti, šio įstatymo [[#^s-91721aa80a173e651ade3ddb|3 straipsnio]] [[#^s-488fef9f3e11a78122b618c6|2]] ir [[#^s-da88c7ad555b58b4aab8ee78|4]] dalyse nustatyta tvarka pareikštą sutikimą dėl jo palaikų kremavimo, jeigu toks sutikimas buvo pareikštas; ^s-2ff0125202e39db7a14bd94b
 
 
-4) jeigu asmuo, kurio palaikus prašoma kremuoti, nebuvo šio įstatymo [[#^s-91721aa80a173e651ade3ddb|3 straipsnio]] 2 ir 4 dalyse nustatyta tvarka pareiškęs sutikimo dėl savo palaikų kremavimo, – santuokos liudijimą ar santuokos sudarymo įrašą liudijantį išrašą, išduotą [[latest/ecf91ec0a00811e58fd1fc0b9bba68a7|Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo]] nustatyta tvarka, kai laidojantis asmuo yra sutuoktinis, arba partnerystės įregistravimo faktą liudijantį dokumentą, kai laidojantis asmuo yra partneris, arba giminystės ryšį patvirtinantį dokumentą, kai laidojantis asmuo yra artimasis giminaitis. Šiuo atveju laidojantis asmuo taip pat turi pateikti rašytinį patvirtinimą (artimųjų giminaičių parašais patvirtintą susitarimą ir apie tai pažymėti prašyme kremuoti palaikus), kad tarp mirusiojo artimųjų giminaičių nėra nesutarimų dėl palaikų kremavimo; ^s-b67e369f80794839ed6f121b
+4) jeigu asmuo, kurio palaikus prašoma kremuoti, nebuvo šio įstatymo [[#^s-91721aa80a173e651ade3ddb|3 straipsnio]] [[#^s-488fef9f3e11a78122b618c6|2]] ir [[#^s-da88c7ad555b58b4aab8ee78|4]] dalyse nustatyta tvarka pareiškęs sutikimo dėl savo palaikų kremavimo, – santuokos liudijimą ar santuokos sudarymo įrašą liudijantį išrašą, išduotą [[latest/ecf91ec0a00811e58fd1fc0b9bba68a7|Lietuvos Respublikos civilinės būklės aktų registravimo įstatymo]] nustatyta tvarka, kai laidojantis asmuo yra sutuoktinis, arba partnerystės įregistravimo faktą liudijantį dokumentą, kai laidojantis asmuo yra partneris, arba giminystės ryšį patvirtinantį dokumentą, kai laidojantis asmuo yra artimasis giminaitis. Šiuo atveju laidojantis asmuo taip pat turi pateikti rašytinį patvirtinimą (artimųjų giminaičių parašais patvirtintą susitarimą ir apie tai pažymėti prašyme kremuoti palaikus), kad tarp mirusiojo artimųjų giminaičių nėra nesutarimų dėl palaikų kremavimo; ^s-b67e369f80794839ed6f121b
 Straipsnio punkto pakeitimai:
 Nr. XII-2120, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19713
 Nr. XIV-1086, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11322
@@ -513,7 +513,7 @@ Nr. XIV-1086, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11322
 1) kremavimo įmonės prašymu; ^s-e91b158ed72a003ab2e8e9a6
 
 
-2) jeigu buvo priimtas sprendimas sustabdyti licencijos galiojimą [[#^s-766df39a7d413e19f0fa86a9|šio straipsnio 8 dalies]] 2 ar [[#^s-9ea01235d0b863578f234827|3 punkte]] nurodytais pagrindais ir per šiame sprendime sustabdyti licencijos galiojimą nustatytą terminą kremavimo įmonė nepateikė dokumentų, įrodančių, kad pašalinti pažeidimai, dėl kurių licencijos galiojimas buvo sustabdytas, arba pateiktų dokumentų nepakanka nustatyti, kad nurodyti pažeidimai pašalinti, ir yra pasibaigęs pažeidimų pašalinimo terminas; ^s-6db09e3417bea7cc43153102
+2) jeigu buvo priimtas sprendimas sustabdyti licencijos galiojimą [[#^s-766df39a7d413e19f0fa86a9|šio straipsnio 8 dalies]] 2 ar [[#^s-9ea01235d0b863578f234827|3]] punkte nurodytais pagrindais ir per šiame sprendime sustabdyti licencijos galiojimą nustatytą terminą kremavimo įmonė nepateikė dokumentų, įrodančių, kad pašalinti pažeidimai, dėl kurių licencijos galiojimas buvo sustabdytas, arba pateiktų dokumentų nepakanka nustatyti, kad nurodyti pažeidimai pašalinti, ir yra pasibaigęs pažeidimų pašalinimo terminas; ^s-6db09e3417bea7cc43153102
 
 
 3) jeigu nustatoma, kad licencijos galiojimo sustabdymo metu kremavimo įmonė vykdo kremavimo veiklą; ^s-9ea01235d0b863578f234827
@@ -522,7 +522,7 @@ Nr. XIV-1086, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11322
 4) jeigu panaikinamas šio įstatymo [[#^s-4785750b8b6a18eedb41c156|11 straipsnio 3 dalies 2 punkte]] nurodyto leidimo-higienos paso galiojimas. Institucija, panaikinusi leidimo-higienos paso galiojimą, apie tai raštu informuoja licencijas išduodančią instituciją per 3 darbo dienas nuo leidimo-higienos paso galiojimo panaikinimo dienos. ^s-f4e0a2dc62c9b2204d4b1114
 
 
-11. Licencijas išduodanti institucija apie priimtą sprendimą įspėti kremavimo įmonę apie galimą kremavimo veiklos licencijos galiojimo sustabdymą arba sustabdyti kremavimo veiklos licencijos galiojimą, arba panaikinti kremavimo veiklos licencijos galiojimą Lietuvos Respublikos viešojo administravimo įstatymo 13 straipsnio 1 dalyje nustatyta tvarka ir terminais praneša kremavimo įmonei, nurodydama sprendimo priėmimo motyvus, pagrindus ir sprendimo apskundimo tvarką. ^s-34a472fa7787f893c7485e05
+11. Licencijas išduodanti institucija apie priimtą sprendimą įspėti kremavimo įmonę apie galimą kremavimo veiklos licencijos galiojimo sustabdymą arba sustabdyti kremavimo veiklos licencijos galiojimą, arba panaikinti kremavimo veiklos licencijos galiojimą [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymo 13 straipsnio 1 dalyje]] nustatyta tvarka ir terminais praneša kremavimo įmonei, nurodydama sprendimo priėmimo motyvus, pagrindus ir sprendimo apskundimo tvarką. ^s-34a472fa7787f893c7485e05
 
 
 12. Jeigu licencijas išduodanti institucija priima sprendimą sustabdyti kremavimo veiklos licencijos galiojimą arba panaikinti kremavimo veiklos licencijos galiojimą, kremavimo įmonė privalo arba sustabdyti kremavimo veiklą, arba nutraukti kremavimo veiklą ne vėliau kaip per 5 darbo dienas nuo pranešimo apie licencijos galiojimo sustabdymą arba panaikinimą gavimo dienos. ^s-e431e19109fca51bb5d1aa78
@@ -779,7 +779,7 @@ Nr. XIV-1086, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11322
 
 
 
-3. Jeigu nėra šio straipsnio 1 ir [[#^s-29e1aa190f114e6ec095fe0c|2 dalyse]] nurodytų ir galinčių organizuoti laidojimą asmenų arba nežinoma, kur tokie asmenys yra, laidojimą organizuoja savivaldybė, kurios teritorijoje asmuo nuolat gyveno. Jeigu miršta atsakingas už kapavietės ar kolumbariumo nišos priežiūrą asmuo arba asmuo, kuriam Kapinių tvarkymo taisyklių nustatyta tvarka buvo suteikta teisė prižiūrėti neprižiūrimą kapavietę, laikantis Kapinių tvarkymo taisyklėse ir Leidimo laidoti neprižiūrimose kapavietėse išdavimo tvarkos apraše nustatytos tvarkos, šie asmenys gali būti palaidoti toje kapavietėje ar kolumbariumo nišoje, jeigu jos yra laidojimą organizuojančios savivaldybės teritorijoje. Jeigu asmuo neturėjo nuolatinės gyvenamosios vietos, laidojimą organizuoja savivaldybė, kurios teritorijoje buvo nustatytas mirties faktas. Šioje dalyje nurodytais atvejais laidojantis asmuo yra savivaldybės vykdomosios institucijos įgaliotas asmuo. ^s-904e998d6212bf918c96274b
+3. Jeigu nėra šio straipsnio [[#^s-a581e952c5b440804bc92cdc|1]] ir [[#^s-29e1aa190f114e6ec095fe0c|2]] dalyse nurodytų ir galinčių organizuoti laidojimą asmenų arba nežinoma, kur tokie asmenys yra, laidojimą organizuoja savivaldybė, kurios teritorijoje asmuo nuolat gyveno. Jeigu miršta atsakingas už kapavietės ar kolumbariumo nišos priežiūrą asmuo arba asmuo, kuriam Kapinių tvarkymo taisyklių nustatyta tvarka buvo suteikta teisė prižiūrėti neprižiūrimą kapavietę, laikantis Kapinių tvarkymo taisyklėse ir Leidimo laidoti neprižiūrimose kapavietėse išdavimo tvarkos apraše nustatytos tvarkos, šie asmenys gali būti palaidoti toje kapavietėje ar kolumbariumo nišoje, jeigu jos yra laidojimą organizuojančios savivaldybės teritorijoje. Jeigu asmuo neturėjo nuolatinės gyvenamosios vietos, laidojimą organizuoja savivaldybė, kurios teritorijoje buvo nustatytas mirties faktas. Šioje dalyje nurodytais atvejais laidojantis asmuo yra savivaldybės vykdomosios institucijos įgaliotas asmuo. ^s-904e998d6212bf918c96274b
 Straipsnio dalies pakeitimai:
 Nr. XIV-2587, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08307
 
@@ -888,7 +888,7 @@ Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
 
 
 1. Kapinėse kapavietės skiriamos neatlygintinai. Už savivaldybės biudžeto lėšomis įrengto kolumbariumo nišos skyrimą mokama savivaldybės tarybos nustatyto dydžio vienkartinė vietinė rinkliava. ^s-2f01129f6f2e9b39ae6ce602
-TAR pastaba. Įstatymo [[#^s-2f01129f6f2e9b39ae6ce602|25 straipsnio 1 dalies]] nuostatos taikomos po 2026 m. liepos 1 d. savivaldybės biudžeto lėšomis įrengtiems naujiems kolumbariumams.
+TAR pastaba. Įstatymo 25 straipsnio 1 dalies nuostatos taikomos po 2026 m. liepos 1 d. savivaldybės biudžeto lėšomis įrengtiems naujiems kolumbariumams.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1086, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11322
 Nr. XV-803, 2026-04-09, paskelbta TAR 2026-04-15, i. k. 2026-06073
@@ -1076,7 +1076,7 @@ Nr. XIII-780, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18835
 
 
 
-3. Šio straipsnio 1 ir [[#^s-725a1aa5c05048aeb59bdbaf|2 dalyse]] nurodytos institucijos, nustačiusios šiame įstatyme ir kituose teisės aktuose nustatytų kremavimo veiklai taikomų reikalavimų pažeidimus, gali teikti pasiūlymus kremavimo veiklos licencijas išduodančiai institucijai dėl licencijos galiojimo sustabdymo. ^s-ec7064fbbcb803c8101a661e
+3. Šio straipsnio [[#^s-3f01f566f885ab76c28ba0ed|1]] ir [[#^s-725a1aa5c05048aeb59bdbaf|2]] dalyse nurodytos institucijos, nustačiusios šiame įstatyme ir kituose teisės aktuose nustatytų kremavimo veiklai taikomų reikalavimų pažeidimus, gali teikti pasiūlymus kremavimo veiklos licencijas išduodančiai institucijai dėl licencijos galiojimo sustabdymo. ^s-ec7064fbbcb803c8101a661e
 
 
 Straipsnio pakeitimai:
@@ -1129,7 +1129,7 @@ JURIDINIŲ ASMENŲ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 4. [[#^s-92488ba62c5b7e0f617da72d|Šio straipsnio 3 dalyje]] nurodytas pažeidimas, padarytas pakartotinai, užtraukia baudą kremavimo įmonei nuo dviejų tūkstančių iki trijų tūkstančių keturių šimtų eurų. ^s-3d2c54983cafcb75aa00fc27
 
 
-5. Kremavimo veiklos vykdymas pažeidžiant šio įstatymo [[#^s-808b408fdb186a3f679c158f|14 straipsnio]] 1 ir [[#^s-c15821201a38cab2a0f536a1|2 dalyse]] nustatytus reikalavimus užtraukia baudą kremavimo įmonei nuo trijų šimtų iki šešių šimtų dvidešimt eurų. ^s-c2e40a20b050df069fbcd993
+5. Kremavimo veiklos vykdymas pažeidžiant šio įstatymo [[#^s-808b408fdb186a3f679c158f|14 straipsnio]] [[#^s-6e4dd617fb76375094a3bc67|1]] ir [[#^s-935e9a85b9a29b41b7d6d85a|2]] dalyse nustatytus reikalavimus užtraukia baudą kremavimo įmonei nuo trijų šimtų iki šešių šimtų dvidešimt eurų. ^s-c2e40a20b050df069fbcd993
 
 
 6. [[#^s-c2e40a20b050df069fbcd993|Šio straipsnio 5 dalyje]] nurodytas pažeidimas, padarytas pakartotinai, užtraukia baudą kremavimo įmonei nuo šešių šimtų dvidešimt iki vieno tūkstančio eurų. ^s-9b3b623dfe2e52882f971a31
@@ -1238,13 +1238,13 @@ Nr. X-1684, 2008-07-03, Žin., 2008, Nr. 81-3185 (2008-07-17)
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1044, 2010-09-30, Žin., 2010, Nr. 123-6259 (2010-10-18)
-[[#^s-0415e9cb2c98787420a87a16|ŽMONIŲ PALAIKŲ LAIDOJIMO ĮSTATYMO 1, 2, 6, 9, 11, 16, 20, 21, 22, 24, 27, 29, 30, 31, 33 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, [[#^s-c2c7c2419709eaef18bd68e5|8 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS, ĮSTATYMO PAPILDYMO 11(1), 16(1) STRAIPSNIAIS IR PRIEDU ĮSTATYMAS
+ŽMONIŲ PALAIKŲ LAIDOJIMO ĮSTATYMO [[#^s-0531682b2a90fbef219ba31d|1]], [[#^s-e450cf5eea97f4372bf45360|2]], [[#^s-bdfaa5b9cde0fa5d45ab91dc|6]], [[#^s-70ddb17aa78d0bdfb2815fef|9]], [[#^s-8648ed148feba5ed2a73d430|11]], [[#^s-99bf596f922b546a96f50f47|16]], [[#^s-5cd43396dda16c49d06f563f|20]], [[#^s-2c4398ab4356ab95bd180093|21]], [[#^s-00f190e81b0bd234502c862e|22]], [[#^s-1e4abb2c78244cab691c5e65|24]], [[#^s-0eb0defade0ca28c47bd4cb9|27]], [[#^s-b605fef4feb9be62f4ad96fb|29]], [[#^s-0073cf804e04d06040723d6b|30]], [[#^s-9c6e14f127617a24ff5888ae|31]], [[#^s-0415e9cb2c98787420a87a16|33]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, [[#^s-c2c7c2419709eaef18bd68e5|8 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS, ĮSTATYMO PAPILDYMO 11(1), 16(1) STRAIPSNIAIS IR PRIEDU ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-2c4398ab4356ab95bd180093|21 straipsnį]], įsigalioja 2011 m. sausio 1 d.
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1762, 2011-12-01, Žin., 2011, Nr. 153-7199 (2011-12-15)
-[[#^s-0073cf804e04d06040723d6b|ŽMONIŲ PALAIKŲ LAIDOJIMO ĮSTATYMO 11(1), 16(1), 25, 28, 29 IR 30 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+ŽMONIŲ PALAIKŲ LAIDOJIMO ĮSTATYMO 11(1), 16(1), [[#^s-4affaf2cd1e4f1602cb9a387|25]], [[#^s-95e40172aa52a76e62e62f28|28]], [[#^s-b605fef4feb9be62f4ad96fb|29]] IR [[#^s-0073cf804e04d06040723d6b|30]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. liepos 1 d.
 
 4.
@@ -1273,22 +1273,22 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1711, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08051
-Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 2, 11-1, 16-1, 25, 28, 29 ir [[#^s-0073cf804e04d06040723d6b|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 [[#^s-e450cf5eea97f4372bf45360|2]], 11-1, 16-1, [[#^s-4affaf2cd1e4f1602cb9a387|25]], [[#^s-95e40172aa52a76e62e62f28|28]], [[#^s-b605fef4feb9be62f4ad96fb|29]] ir [[#^s-0073cf804e04d06040723d6b|30]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1671, 2015-05-07, paskelbta TAR 2015-05-15, i. k. 2015-07405
-Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 16, [[#^s-0073cf804e04d06040723d6b|30 straipsnių]] pakeitimo ir 16-1 straipsnio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 [[#^s-99bf596f922b546a96f50f47|16]], [[#^s-0073cf804e04d06040723d6b|30]] straipsnių pakeitimo ir 16-1 straipsnio pripažinimo netekusiu galios įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1802, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10361
-Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 2, 11-1, 16-1, 25, 28, 29 ir [[#^s-0073cf804e04d06040723d6b|30 straipsnių]] pakeitimo [[latest/e67820f0036911e588da8908dfa91cac|įstatymo Nr. XII-1711]] [[#^s-91721aa80a173e651ade3ddb|3 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 [[#^s-e450cf5eea97f4372bf45360|2]], 11-1, 16-1, [[#^s-4affaf2cd1e4f1602cb9a387|25]], [[#^s-95e40172aa52a76e62e62f28|28]], [[#^s-b605fef4feb9be62f4ad96fb|29]] ir [[#^s-0073cf804e04d06040723d6b|30]] straipsnių pakeitimo [[latest/e67820f0036911e588da8908dfa91cac|įstatymo Nr. XII-1711]] [[#^s-91721aa80a173e651ade3ddb|3 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2120, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19713
-Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 6, 13, 16 ir [[#^s-0eb0defade0ca28c47bd4cb9|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 [[#^s-bdfaa5b9cde0fa5d45ab91dc|6]], [[#^s-8d60681c7200b63b9658f3b3|13]], [[#^s-99bf596f922b546a96f50f47|16]] ir [[#^s-0eb0defade0ca28c47bd4cb9|27]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1298,7 +1298,7 @@ Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 [[#^s-00f1
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-857, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20341
-Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 1, 2, 6, 13, 15, 25 ir [[#^s-0eb0defade0ca28c47bd4cb9|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 [[#^s-0531682b2a90fbef219ba31d|1]], [[#^s-e450cf5eea97f4372bf45360|2]], [[#^s-bdfaa5b9cde0fa5d45ab91dc|6]], [[#^s-8d60681c7200b63b9658f3b3|13]], [[#^s-2622ea445c362b51b154be4a|15]], [[#^s-4affaf2cd1e4f1602cb9a387|25]] ir [[#^s-0eb0defade0ca28c47bd4cb9|27]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1308,12 +1308,12 @@ Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 [[#^s-0073
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1189, 2018-05-24, paskelbta TAR 2018-06-05, i. k. 2018-09345
-Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 2, 6, 7, 11, 20, 22, [[#^s-f2826f000afcdaa6ee8a0e93|32 straipsnių]] pakeitimo ir Įstatymo papildymo šeštuoju-1 skyriumi įstatymas
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 [[#^s-e450cf5eea97f4372bf45360|2]], [[#^s-bdfaa5b9cde0fa5d45ab91dc|6]], [[#^s-74e5979b67a4baf0846322dc|7]], [[#^s-8648ed148feba5ed2a73d430|11]], [[#^s-5cd43396dda16c49d06f563f|20]], [[#^s-00f190e81b0bd234502c862e|22]], [[#^s-f2826f000afcdaa6ee8a0e93|32]] straipsnių pakeitimo ir Įstatymo papildymo šeštuoju-1 skyriumi įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2194, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09852
-Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 10 ir [[#^s-1e4abb2c78244cab691c5e65|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 [[#^s-4358387c2579c40804182c50|10]] ir [[#^s-1e4abb2c78244cab691c5e65|24]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1328,7 +1328,7 @@ Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 [[#^s-2622
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1086, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11322
-Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 2, 3, 5, 6, 11, 11-1, 13, 17, 21, 25, 27 ir [[#^s-0415e9cb2c98787420a87a16|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 [[#^s-e450cf5eea97f4372bf45360|2]], [[#^s-91721aa80a173e651ade3ddb|3]], [[#^s-02695ccf130585aefa1f1a46|5]], [[#^s-bdfaa5b9cde0fa5d45ab91dc|6]], [[#^s-8648ed148feba5ed2a73d430|11]], 11-1, [[#^s-8d60681c7200b63b9658f3b3|13]], [[#^s-2a8debc237012374f02af902|17]], [[#^s-2c4398ab4356ab95bd180093|21]], [[#^s-4affaf2cd1e4f1602cb9a387|25]], [[#^s-0eb0defade0ca28c47bd4cb9|27]] ir [[#^s-0415e9cb2c98787420a87a16|33]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1343,7 +1343,7 @@ Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 [[#^s-2c43
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2754, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11258
-Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 25 ir [[#^s-b605fef4feb9be62f4ad96fb|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1404 [[#^s-4affaf2cd1e4f1602cb9a387|25]] ir [[#^s-b605fef4feb9be62f4ad96fb|29]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas

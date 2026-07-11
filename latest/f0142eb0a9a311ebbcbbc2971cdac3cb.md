@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-f0baa578289a0b53c63263d0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio antrąja dalimi, Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 10 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2021 m. kovo 9 d. dekretą Nr. 1K-546, ratifikuoja 2018 m. liepos 17 d. Tokijuje priimtą Europos Sąjungos bei jos valstybių narių ir Japonijos strateginės partnerystės susitarimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio antrąja dalimi, [[latest/TAR.5BCEC9B41811|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 10 punktu]] ir atsižvelgdamas į Lietuvos Respublikos Prezidento [2021 m. kovo 9 d. dekretą Nr. 1K-546](https://e-tar.lt/portal/lt/legalAct/46fb55e080d811eb9601893677bfd7d8), ratifikuoja 2018 m. liepos 17 d. Tokijuje priimtą Europos Sąjungos bei jos valstybių narių ir Japonijos strateginės partnerystės susitarimą.
 
 
 

@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. 16 straipsnio pakeitimas ir papildymas ^s-44dbe12cb45da9be1774c1ea
 
 
-Pakeisti 16 straipsnio 1, 2, 3, 4 ir [[#^s-db74bbf320c0a0c0847b62d6|5 dalis]], straipsnį papildyti [[#^s-290ef108d63c0fcc15e8acda|7 dalimi]] ir jį išdėstyti taip:
+Pakeisti 16 straipsnio 1, 2, 3, 4 ir 5 dalis, straipsnį papildyti [[#^s-290ef108d63c0fcc15e8acda|7 dalimi]] ir jį išdėstyti taip:
 
 
 
@@ -81,10 +81,10 @@ Pakeisti 16 straipsnio 1, 2, 3, 4 ir [[#^s-db74bbf320c0a0c0847b62d6|5 dalis]], s
 7) prioritetą patvirtinantis dokumentas pagal šio Įstatymo [[#^s-76219392b9ae870aa80ed618|11 straipsnio 3 dalį]] (jeigu reikia); ^s-193333e650248d05dd208fa2
 
 
-8) kompetentingų institucijų išduotas leidimas arba sutikimas pagal šio Įstatymo [[#^s-6ab7b7bc2a6083077fccc532|9 straipsnio]] 3 ar [[#^s-8cc9b1802aad9ea4204b6c48|4 punktą]] (jeigu reikia); ^s-1f1e3b4ac995cc42cde032f2
+8) kompetentingų institucijų išduotas leidimas arba sutikimas pagal šio Įstatymo [[#^s-6ab7b7bc2a6083077fccc532|9 straipsnio]] 3 ar 4 punktą (jeigu reikia); ^s-1f1e3b4ac995cc42cde032f2
 
 
-9) teisių savininko išduotas sutikimas pagal šio Įstatymo 10 straipsnio 1 dalies 5 ar [[#^s-df28892f65da2942e32553bb|6 punktą]] (jeigu reikia); ^s-14d2a1c630355beccd636d3c
+9) teisių savininko išduotas sutikimas pagal šio Įstatymo 10 straipsnio 1 dalies 5 ar 6 punktą (jeigu reikia); ^s-14d2a1c630355beccd636d3c
 
 
 10) prašymas dėl dizaino ankstesnio paskelbimo (jeigu reikia); ^s-f58c7b2fafd8be74c1c27c67
@@ -108,7 +108,7 @@ Pakeisti 16 straipsnio 1, 2, 3, 4 ir [[#^s-db74bbf320c0a0c0847b62d6|5 dalis]], s
 4) dizainerio tapatybės nustatymo duomenys, nustatyti Taisyklėse; ^s-ab55e9612b2044292e4c9702
 
 
-5) pirmosios paraiškos padavimo valstybė, šios paraiškos numeris, data arba eksponavimo tarptautinėje parodoje data ir valstybė (jeigu reikia). Šių duomenų nurodymas laikomas prašymu suteikti prioritetą pagal šio Įstatymo [[#^s-fed8104e9d7f535c02cb9856|11 straipsnio]] 1, [[#^s-a3d0e38bf0e3484854f503dd|2 dalis]]; ^s-4c862cd79bc41f4354e49b49
+5) pirmosios paraiškos padavimo valstybė, šios paraiškos numeris, data arba eksponavimo tarptautinėje parodoje data ir valstybė (jeigu reikia). Šių duomenų nurodymas laikomas prašymu suteikti prioritetą pagal šio Įstatymo [[#^s-fed8104e9d7f535c02cb9856|11 straipsnio]] [[#^s-3362448a244f3b033f65ab7e|1]], [[#^s-7084f721d752318a7f5bf82d|2]] dalis; ^s-4c862cd79bc41f4354e49b49
 
 
 6) ankstesnio ar vėlesnio dizaino paskelbimo nuoroda; ^s-6cd792da27c079cecc00baad
@@ -230,7 +230,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 2. Pakeisti 29 straipsnio 3 dalį ir ją išdėstyti taip: ^s-d53b8f0fdb5dc4af328c756a
 
 
-„3. Gavęs [[#^s-d53b8f0fdb5dc4af328c756a|šio straipsnio 2 dalyje]] nurodytus dokumentus, Valstybinis patentų biuras per Taisyklėse nustatytą terminą juos patikrina ir, jeigu dokumentai atitinka šio Įstatymo ir Taisyklėse nustatytus reikalavimus, pakeitimą įrašo į paraišką ar Lietuvos Respublikos dizaino registrą. Jeigu pateikti dokumentai neatitinka šio Įstatymo ar Taisyklėse nustatytų reikalavimų, pareiškėjui, dizaino savininkui ar jo atstovui išsiunčiamas pranešimas apie trūkumus. Jeigu per vieną mėnesį nuo pranešimo išsiuntimo dienos trūkumai neištaisomi, prašymas pripažįstamas nepaduotu.“
+„3. Gavęs šio straipsnio 2 dalyje nurodytus dokumentus, Valstybinis patentų biuras per Taisyklėse nustatytą terminą juos patikrina ir, jeigu dokumentai atitinka šio Įstatymo ir Taisyklėse nustatytus reikalavimus, pakeitimą įrašo į paraišką ar Lietuvos Respublikos dizaino registrą. Jeigu pateikti dokumentai neatitinka šio Įstatymo ar Taisyklėse nustatytų reikalavimų, pareiškėjui, dizaino savininkui ar jo atstovui išsiunčiamas pranešimas apie trūkumus. Jeigu per vieną mėnesį nuo pranešimo išsiuntimo dienos trūkumai neištaisomi, prašymas pripažįstamas nepaduotu.“
 
 
 
@@ -247,14 +247,14 @@ Pakeisti 31 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 9 straipsnis. 32 straipsnio pakeitimas ^s-6ab7b7bc2a6083077fccc532
 
 
-Pakeisti 32 straipsnio 1, 3 ir [[#^s-9a2befd246f396156863fdb9|4 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 32 straipsnio 1, 3 ir 4 dalis ir visą straipsnį išdėstyti taip:
 
 
 
 „32 straipsnis. Terminai
 
 
-1. Jeigu pareiškėjas ar jo atstovas pateikia rašytinį prašymą ir sumoka už termino pratęsimą nustatytą mokestį, šio Įstatymo 18 straipsnio 4 dalyje, 19 straipsnio 3 dalyje, 20 straipsnio 1 dalyje, 22 straipsnio 1 dalyje, 31 straipsnio 1 dalyje, 334 straipsnio 1 ir [[#^s-9461f6ce0dec879f6d96353f|2 dalyse]] nustatyti terminai gali būti vieną kartą pratęsti, bet ne ilgiau kaip 2 mėnesiams nuo pirminio termino pabaigos dienos. ^s-cd21c34b4de5e4f59b918490
+1. Jeigu pareiškėjas ar jo atstovas pateikia rašytinį prašymą ir sumoka už termino pratęsimą nustatytą mokestį, šio Įstatymo 18 straipsnio 4 dalyje, 19 straipsnio 3 dalyje, 20 straipsnio 1 dalyje, 22 straipsnio 1 dalyje, 31 straipsnio 1 dalyje, 334 straipsnio 1 ir 2 dalyse nustatyti terminai gali būti vieną kartą pratęsti, bet ne ilgiau kaip 2 mėnesiams nuo pirminio termino pabaigos dienos. ^s-cd21c34b4de5e4f59b918490
 
 
 2. Sumokėjęs mokestį už termino pratęsimą, pareiškėjas, dizaino savininkas arba jo atstovas ne vėliau kaip per 2 mėnesius nuo pirminio termino pabaigos dienos gali pateikti prašymą pratęsti praleistą terminą. Terminas pratęsiamas Valstybinio patentų biuro sprendimu. ^s-9461f6ce0dec879f6d96353f

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-153ea417fc6e9c1dc61250f5
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. rugsėjo 3 d. dekretą Nr. 54, ratifikuoja su pareiškimu 1907 m. spalio 18 d. Hagoje priimtą Konvenciją dėl taikaus tarptautinių ginčų sprendimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. rugsėjo 3 d. dekretą Nr. 54](https://e-tar.lt/portal/lt/legalAct/TAR.47E7AD83FB6C), ratifikuoja su pareiškimu 1907 m. spalio 18 d. Hagoje priimtą Konvenciją dėl taikaus tarptautinių ginčų sprendimo.
 
 
 

@@ -66,7 +66,7 @@ Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
 1. Pakeisti 8 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip: ^s-fe86f35da3664b131ec1ab12
 
 
-„2) iki laikinojo nedarbingumo pradžios dienos turi ne trumpesnį kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį kaip 6 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo stažą, išskyrus atvejus, numatytus šio straipsnio 2 ir [[#^s-7545517af76da982c53a2401|3 dalyse]].“
+„2) iki laikinojo nedarbingumo pradžios dienos turi ne trumpesnį kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį kaip 6 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo stažą, išskyrus atvejus, numatytus šio straipsnio [[#^s-d603ba114798c799e053d37c|2]] ir [[#^s-7545517af76da982c53a2401|3]] dalyse.“
 
 
 2. Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip: ^s-d603ba114798c799e053d37c
@@ -122,16 +122,16 @@ Pakeisti [[#^s-24ade791655b23e8a502dc38|16 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-24ade791655b23e8a502dc38|16 straipsnis]]. Teisė gauti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu
 
 
-1. Teisę gauti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu turi pagal šio įstatymo [[#^s-ab1db6ab0af68c83d333cb65|4 straipsnio]] 1, 2 ir [[#^s-f678da51392108d7c7ca545a|3 dalis]] apdrausti asmenys, kuriems suteiktos nėštumo ir gimdymo atostogos, jeigu jie iki pirmosios nėštumo ir gimdymo atostogų dienos turi ne trumpesnį kaip 12 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo stažą, išskyrus šio straipsnio 2 ir [[#^s-f678da51392108d7c7ca545a|3 dalyse]] numatytus atvejus. ^s-17aa74e4b2e4475e139f014d
+1. Teisę gauti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu turi pagal šio įstatymo [[#^s-ab1db6ab0af68c83d333cb65|4 straipsnio]] 1, 2 ir 3 dalis apdrausti asmenys, kuriems suteiktos nėštumo ir gimdymo atostogos, jeigu jie iki pirmosios nėštumo ir gimdymo atostogų dienos turi ne trumpesnį kaip 12 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo stažą, išskyrus šio straipsnio [[#^s-ccfa6981c49d809ec751f385|2]] ir [[#^s-f678da51392108d7c7ca545a|3]] dalyse numatytus atvejus. ^s-17aa74e4b2e4475e139f014d
 
 
 2. Teisę gauti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu turi apdraustieji asmenys iki 26 metų, kurie iki nėštumo ir gimdymo atostogų pradžios neįgijo [[#^s-17aa74e4b2e4475e139f014d|šio straipsnio 1 dalyje]] nustatyto stažo dėl to, kad nurodytais laikotarpiais mokėsi pagal bendrojo ugdymo programą ar pagal profesinio mokymo programą bei aukštosiose mokyklose pagal dieninę arba nuolatinę studijų formą, jeigu jie tik baigę atitinkamą mokyklą tapo apdraustaisiais asmenimis per 3 mėnesius nuo mokslo baigimo (pagal mokslo baigimą įrodantį dokumentą). ^s-ccfa6981c49d809ec751f385
 
 
-3. Teisę gauti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu taip pat turi apdraustieji, jeigu jie iki nėštumo ir gimdymo atostogų pradžios neįgijo [[#^s-17aa74e4b2e4475e139f014d|šio straipsnio 1 dalyje]] nustatyto stažo dėl to, kad nurodytais laikotarpiais buvo draudžiami kaip asmenys, išvardyti [[latest/TAR.0F9036415DBD#^s-66a74a7996a218e9403ff8dc|Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies]] 1 ar 2 punkte, ir pertrauka nuo statuso pasikeitimo neviršija 3 mėnesių. ^s-f678da51392108d7c7ca545a
+3. Teisę gauti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu taip pat turi apdraustieji, jeigu jie iki nėštumo ir gimdymo atostogų pradžios neįgijo [[#^s-17aa74e4b2e4475e139f014d|šio straipsnio 1 dalyje]] nustatyto stažo dėl to, kad nurodytais laikotarpiais buvo draudžiami kaip asmenys, išvardyti [[latest/TAR.0F9036415DBD#^s-66a74a7996a218e9403ff8dc|Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies]] [[latest/TAR.0F9036415DBD|1]] ar [[latest/TAR.0F9036415DBD|2]] punkte, ir pertrauka nuo statuso pasikeitimo neviršija 3 mėnesių. ^s-f678da51392108d7c7ca545a
 
 
-4. Moteriai, atleistai iš darbo nėštumo metu arba nėštumo ir gimdymo atostogų metu dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir turinčiai [[#^s-17aa74e4b2e4475e139f014d|šio straipsnio 1 dalyje]] nurodytą ligos ir motinystės socialinio draudimo stažą, motinystės pašalpa mokama šio įstatymo [[#^s-65db2ab60f946813ce321a15|17 straipsnyje]] nustatyta tvarka. Ši nuostata taip pat taikoma ir kitoms nėštumo ir gimdymo atostogoms, jeigu jos prasideda prieš tai gimusio vaiko auginimo iki 3 metų laikotarpiu. ^s-d9456f351e7daf358df57a1d
+4. Moteriai, atleistai iš darbo nėštumo metu arba nėštumo ir gimdymo atostogų metu dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir turinčiai [[#^s-17aa74e4b2e4475e139f014d|šio straipsnio 1 dalyje]] nurodytą ligos ir motinystės socialinio draudimo stažą, motinystės pašalpa mokama šio įstatymo [[#^s-65db2ab60f946813ce321a15|17 straipsnyje]] nustatyta tvarka. Ši nuostata taip pat taikoma ir kitoms nėštumo ir gimdymo atostogoms, jeigu jos prasideda prieš tai gimusio vaiko auginimo iki 3 metų laikotarpiu. ^s-d9456f351e7daf358df57a1d
 
 
 5. Pagrindas skirti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu yra nėštumo ir gimdymo atostogų pažymėjimas, išduotas pagal sveikatos apsaugos ir socialinės apsaugos ir darbo ministrų patvirtintas Elektroninių nedarbingumo pažymėjimų bei elektroninių nėštumo ir gimdymo atostogų pažymėjimų išdavimo taisykles.“ ^s-4b897eb17ddfdbf56c11e6e4
@@ -183,13 +183,13 @@ Pakeisti 183 straipsnio 2 dalį ir ją išdėstyti taip:
 „1. Teisę gauti motinystės (tėvystės) pašalpą turi vienas iš tėvų (įtėvių) ar globėjas, kuris:
 
 
-1) apdraustas pagal šio įstatymo [[#^s-ab1db6ab0af68c83d333cb65|4 straipsnio]] 1, 2 ir [[#^s-6d69c5a3ff4d26a31261e3d8|3 dalis]], išskyrus atvejus, numatytus šio straipsnio 6, 7 ir 8 dalyse; ^s-1070b31a300877a6f76acaeb
+1) apdraustas pagal šio įstatymo [[#^s-ab1db6ab0af68c83d333cb65|4 straipsnio]] 1, 2 ir 3 dalis, išskyrus atvejus, numatytus šio straipsnio 6, 7 ir 8 dalyse; ^s-1070b31a300877a6f76acaeb
 
 
 2) įstatymų nustatyta tvarka išleistas vaiko priežiūros atostogų, išskyrus pirmaisiais vaiko auginimo metais, kai vaiko priežiūros atostogos nutraukiamos dėl grįžimo į darbą, ar antraisiais vaiko auginimo metais bei atvejus, numatytus šio straipsnio 6 ir 7 dalyse; ^s-524844e004c97019ffaa1393
 
 
-3) per paskutinius 24 mėnesius iki pirmosios vaiko priežiūros atostogų dienos turi ne trumpesnį kaip 12 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo stažą, išskyrus šio straipsnio 2 ir [[#^s-6d69c5a3ff4d26a31261e3d8|3 dalyse]] numatytus atvejus.“ ^s-2da3aea54df76aafd52fe663
+3) per paskutinius 24 mėnesius iki pirmosios vaiko priežiūros atostogų dienos turi ne trumpesnį kaip 12 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo stažą, išskyrus šio straipsnio [[#^s-65e3aea314244006e17dd2b9|2]] ir [[#^s-6d69c5a3ff4d26a31261e3d8|3]] dalyse numatytus atvejus.“ ^s-2da3aea54df76aafd52fe663
 
 
 2. Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip: ^s-65e3aea314244006e17dd2b9
@@ -201,19 +201,19 @@ Pakeisti 183 straipsnio 2 dalį ir ją išdėstyti taip:
 3. Pakeisti 19 straipsnio 6 dalį ir ją išdėstyti taip: ^s-6d69c5a3ff4d26a31261e3d8
 
 
-„6. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka išleistam vaiko priežiūros atostogų ir gaunančiam motinystės (tėvystės) pašalpą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant motinystės (tėvystės) pašalpą, jeigu teisė ją gauti atsirado prieš tai gimusio vaiko auginimo iki 3 metų laikotarpiu.“
+„6. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka išleistam vaiko priežiūros atostogų ir gaunančiam motinystės (tėvystės) pašalpą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, motinystės (tėvystės) pašalpa mokama šio įstatymo [20](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [21](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant motinystės (tėvystės) pašalpą, jeigu teisė ją gauti atsirado prieš tai gimusio vaiko auginimo iki 3 metų laikotarpiu.“
 
 
 4. Pakeisti 19 straipsnio 7 dalį ir ją išdėstyti taip: ^s-39278ed2ce7f257e17d857c6
 
 
-„7. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam [[#^s-9ab7c0f2efdbee3d316ca35d|šio straipsnio 1 dalyje]] nurodytą ligos ir motinystės socialinio draudimo stažą arba atitinkančiam šio straipsnio 2 ar [[#^s-6d69c5a3ff4d26a31261e3d8|3 dalyje]] nustatytus reikalavimus, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir dėl to negavusiam vaiko priežiūros atostogų, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant motinystės (tėvystės) pašalpą, jeigu teisė ją gauti atsirado prieš tai gimusio vaiko auginimo iki 3 metų laikotarpiu.“
+„7. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam [[#^s-9ab7c0f2efdbee3d316ca35d|šio straipsnio 1 dalyje]] nurodytą ligos ir motinystės socialinio draudimo stažą arba atitinkančiam šio straipsnio [[#^s-65e3aea314244006e17dd2b9|2]] ar [[#^s-6d69c5a3ff4d26a31261e3d8|3]] dalyje nustatytus reikalavimus, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir dėl to negavusiam vaiko priežiūros atostogų, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant motinystės (tėvystės) pašalpą, jeigu teisė ją gauti atsirado prieš tai gimusio vaiko auginimo iki 3 metų laikotarpiu.“
 
 
 5. Papildyti 19 straipsnį 8 dalimi: ^s-843f5619e47d469af6ab5510
 
 
-„8. Vienam iš tėvų (įtėvių) ar globėjų, gaunančiam pajamas iš sporto ar atlikėjo veiklos arba pagal autorines sutartis, kuris nėra apdraustas pagal šio įstatymo [[#^s-ab1db6ab0af68c83d333cb65|4 straipsnio]] 1, 2 ir [[#^s-6d69c5a3ff4d26a31261e3d8|3 dalis]], motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka, jeigu jam buvo mokėta motinystės ar tėvystės pašalpa ir jis turi [[#^s-9ab7c0f2efdbee3d316ca35d|šio straipsnio 1 dalyje]] nustatytą ligos ir motinystės socialinio draudimo stažą arba atitinka šio straipsnio 2 ar [[#^s-6d69c5a3ff4d26a31261e3d8|3 dalyje]] nustatytus reikalavimus.“
+„8. Vienam iš tėvų (įtėvių) ar globėjų, gaunančiam pajamas iš sporto ar atlikėjo veiklos arba pagal autorines sutartis, kuris nėra apdraustas pagal šio įstatymo [[#^s-ab1db6ab0af68c83d333cb65|4 straipsnio]] 1, 2 ir 3 dalis, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka, jeigu jam buvo mokėta motinystės ar tėvystės pašalpa ir jis turi [[#^s-9ab7c0f2efdbee3d316ca35d|šio straipsnio 1 dalyje]] nustatytą ligos ir motinystės socialinio draudimo stažą arba atitinka šio straipsnio [[#^s-65e3aea314244006e17dd2b9|2]] ar [[#^s-6d69c5a3ff4d26a31261e3d8|3]] dalyje nustatytus reikalavimus.“
 
 
 

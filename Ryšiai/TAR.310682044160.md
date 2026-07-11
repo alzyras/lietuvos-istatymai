@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.4FAEA57D16AB#^s-3be0a8e81c973b235035a183|Lietuvos Respublikos Prezidento valstybinės rentos įstatymas]] - 3 citatos - 1081010ISTA00X-1799
+- [[latest/TAR.4FAEA57D16AB#^s-3be0a8e81c973b235035a183|Lietuvos Respublikos Prezidento valstybinės rentos įstatymas]] - 2 citatos - 1081010ISTA00X-1799

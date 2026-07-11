@@ -98,10 +98,10 @@ Pakeisti ir papildyti [[#^s-ff939d54ccde058cde459ead|2 straipsnį]] ir jį išd�
 11. Esminis įvykis – su emitentu susijęs ir jam žinomas ar privalomas žinoti įvykis, informacijos apie kurį atskleidimas gali turėti didelį poveikį jo išleistų vertybinių popierių rinkos kainai. ^s-ebafc6b62ec6e57aa3c7675b
 
 
-12. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) įsteigta institucija. ^s-476cb19bd1772ce8ad3b2bd5
+12. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj) dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) įsteigta institucija. ^s-476cb19bd1772ce8ad3b2bd5
 
 
-13. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84), įsteigta institucija. ^s-a28ef7967ae13957998ebc2a
+13. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84), įsteigta institucija. ^s-a28ef7967ae13957998ebc2a
 
 
 14. Finansų maklerio įmonė – kaip tai apibrėžta [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]]. ^s-4b80fbe324634cac57beb3ec
@@ -110,7 +110,7 @@ Pakeisti ir papildyti [[#^s-ff939d54ccde058cde459ead|2 straipsnį]] ir jį išd�
 15. Garantas – asmuo, užtikrinantis emitento įsipareigojimų, atsirandančių iš vertybinių popierių, vykdymą ir (arba) savo sąskaita užtikrinantis emitento vertybinių popierių išplatinimą. ^s-441607a939cbaece7afbb4e8
 
 
-16. Įmonės metinis pranešimas (toliau – metinis pranešimas) – kaip tai apibrėžta Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme. ^s-78a73b87614e0d4a7148bd5b
+16. Įmonės metinis pranešimas (toliau – metinis pranešimas) – kaip tai apibrėžta [Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C). ^s-78a73b87614e0d4a7148bd5b
 
 
 17. Įmonių grupė – kaip tai apibrėžta Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme (toliau – Įmonių grupių konsoliduotosios finansinės atskaitomybės įstatymas). ^s-d0b490b08084b4ccbf61bfe8
@@ -179,7 +179,7 @@ Pakeisti ir papildyti [[#^s-ff939d54ccde058cde459ead|2 straipsnį]] ir jį išd�
 2) kiti perleidžiamieji vertybiniai popieriai, lygiaverčiai akcinių bendrovių akcijoms; ^s-4960be3e1827544096f3c12d
 
 
-3) bet kurios kitos rūšies perleidžiamieji vertybiniai popieriai, kurie suteikia teisę, atlikus jų konvertavimą arba jų suteiktų teisių realizavimą, įgyti šios dalies 1 ir [[#^s-4960be3e1827544096f3c12d|2 punktuose]] nurodytus vertybinius popierius, jeigu šiame punkte nurodytus vertybinius popierius yra išleidęs su šiais vertybiniais popieriais susijusių šios dalies 1 ir [[#^s-4960be3e1827544096f3c12d|2 punktuose]] nurodytų vertybinių popierių emitentas arba kita šio emitento įmonių grupės įmonė. ^s-e360c8b59d3ef38d92dcc7b4
+3) bet kurios kitos rūšies perleidžiamieji vertybiniai popieriai, kurie suteikia teisę, atlikus jų konvertavimą arba jų suteiktų teisių realizavimą, įgyti šios dalies [[#^s-afb2d9c069be1f0951430a3a|1]] ir [[#^s-4960be3e1827544096f3c12d|2]] punktuose nurodytus vertybinius popierius, jeigu šiame punkte nurodytus vertybinius popierius yra išleidęs su šiais vertybiniais popieriais susijusių šios dalies [[#^s-afb2d9c069be1f0951430a3a|1]] ir [[#^s-4960be3e1827544096f3c12d|2]] punktuose nurodytų vertybinių popierių emitentas arba kita šio emitento įmonių grupės įmonė. ^s-e360c8b59d3ef38d92dcc7b4
 
 
 30. Oficialaus siūlymo cirkuliaras (toliau – cirkuliaras) – dokumentas, kuriame teikiama pagrindinė oficialaus siūlymo informacija. ^s-36395c6ef2a62ca6421f1120
@@ -429,7 +429,7 @@ Pakeisti ir papildyti [[#^s-07fb24dd9aaaea8a3c87cf6e|5 straipsnį]] ir jį išd�
 3. Papildyti [[#^s-0ac637efd23a41a2516be753|6 straipsnį]] nauja 5 dalimi: ^s-a0e4c4b67f13546add24c71b
 
 
-„5. Kai vertybiniai popieriai garantuojami valstybės narės, emitentas, vertybinių popierių siūlytojas ar asmuo, kuris kreipiasi dėl įtraukimo į prekybą reguliuojamoje rinkoje, rengdamas prospektą pagal šio įstatymo [[#^s-a0e4c4b67f13546add24c71b|4 straipsnio 3 dalį]] turi teisę neteikti informacijos apie garantą.“
+„5. Kai vertybiniai popieriai garantuojami valstybės narės, emitentas, vertybinių popierių siūlytojas ar asmuo, kuris kreipiasi dėl įtraukimo į prekybą reguliuojamoje rinkoje, rengdamas prospektą pagal šio įstatymo 4 straipsnio 3 dalį turi teisę neteikti informacijos apie garantą.“
 
 
 4. Buvusią 6 straipsnio 5 dalį laikyti 6 dalimi. ^s-6f8d24799fbc62041baba95a
@@ -662,7 +662,7 @@ Pakeisti 27 straipsnio 7 dalį ir ją išdėstyti taip:
 1. Pakeisti 38 straipsnio 3 dalį ir ją išdėstyti taip: ^s-53ed20df1fcd8588a7d94fc0
 
 
-„3. [[#^s-53ed20df1fcd8588a7d94fc0|Šio straipsnio 1 dalyje]] nurodytam oficialiam siūlymui taikomos privalomus oficialius siūlymus reglamentuojančių teisės aktų nuostatos, jeigu šiame straipsnyje nenustatyta kitaip. Oficialų siūlymą, kuriuo siekiama išbraukti akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, turi teikti akcininkai, balsavę už sprendimą išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje. Šią prievolę už kitus akcininkus turi teisę įvykdyti vienas ar keli akcininkai. Šio oficialaus siūlymo galiojimo metu parduoti akcijas turi teisę akcininkai, sprendimo išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje priėmimo metu balsavę „prieš“ arba nebalsavę.“
+„3. Šio straipsnio 1 dalyje nurodytam oficialiam siūlymui taikomos privalomus oficialius siūlymus reglamentuojančių teisės aktų nuostatos, jeigu šiame straipsnyje nenustatyta kitaip. Oficialų siūlymą, kuriuo siekiama išbraukti akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, turi teikti akcininkai, balsavę už sprendimą išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje. Šią prievolę už kitus akcininkus turi teisę įvykdyti vienas ar keli akcininkai. Šio oficialaus siūlymo galiojimo metu parduoti akcijas turi teisę akcininkai, sprendimo išbraukti emitento akcijas iš prekybos Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje priėmimo metu balsavę „prieš“ arba nebalsavę.“
 
 
 2. Pakeisti 38 straipsnio 4 dalį ir ją išdėstyti taip: ^s-45d94c2e196eeacb3d572100
@@ -781,7 +781,7 @@ Pakeisti 48 straipsnį ir jį išdėstyti taip:
 1. Šio įstatymo [[#^s-e717e843cd5fd8f3965fd945|21 straipsnio 3 dalies]] nuostata, reglamentuojanti emitentų, kurių vertybiniais popieriais yra prekiaujama Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, pareigą veiklos ataskaitoje pateikti pranešimą, kaip jie laikosi vertybinių popierių biržos patvirtinto bendrovių, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, valdymo kodekso, pradedama taikyti pateikiant 2006 metų informaciją. ^s-44794a117362e52434998066
 
 
-2. Šio įstatymo 36 straipsnio 1 ir [[#^s-89f19047f89af667478f57fe|2 dalys]] taikomos tiems bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas, ir jos vertybinių popierių savininkų arba bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas, vertybinių popierių savininkų susitarimams dėl vertybinių popierių perleidimo ar balsavimo teisių apribojimo, kurie buvo sudaryti po 2004 m. balandžio 21 d. ^s-89f19047f89af667478f57fe
+2. Šio įstatymo 36 straipsnio 1 ir 2 dalys taikomos tiems bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas, ir jos vertybinių popierių savininkų arba bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas, vertybinių popierių savininkų susitarimams dėl vertybinių popierių perleidimo ar balsavimo teisių apribojimo, kurie buvo sudaryti po 2004 m. balandžio 21 d. ^s-89f19047f89af667478f57fe
 
 
 3. Šio įstatymo 37 straipsnio nuostatos netaikomos tais atvejais, kai sprendimai dėl privalomo akcijų pardavimo ar pirkimo yra priimti ir pradėti įgyvendinti iki 2006 m. liepos 14 d. ^s-8090462acb2f34783acdf03f

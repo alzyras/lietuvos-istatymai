@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Pasaulinės pašto sąjungos dokumentų ratifikavimas ^s-32207fe7f53a0d1d99d92822
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 5 ir 6 punktais bei atsižvelgdamas į Respublikos Prezidento 2004 m. rugsėjo 3 d. dekretą Nr. 50, ratifikuoja 1964 m. liepos 10 d. Vienoje priimtus ir papildomais protokolais, priimtais 1969 metais Tokijuje, 1974 metais Lozanoje, 1984 metais Hamburge, 1989 metais Vašingtone, 1994 metais Seule ir 1999 metais Pekine, pakeistus Pasaulinės pašto sąjungos įstatus, Pasaulinės pašto sąjungos įstatų šeštąjį papildomą protokolą, Pasaulinę pašto konvenciją, jos baigiamąjį protokolą ir Pasaulinės pašto sąjungos bendrąjį reglamentą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 5 ir 6 punktais bei atsižvelgdamas į Respublikos Prezidento [2004 m. rugsėjo 3 d. dekretą Nr. 50](https://e-tar.lt/portal/lt/legalAct/TAR.8A5F90B8445D), ratifikuoja 1964 m. liepos 10 d. Vienoje priimtus ir papildomais protokolais, priimtais 1969 metais Tokijuje, 1974 metais Lozanoje, 1984 metais Hamburge, 1989 metais Vašingtone, 1994 metais Seule ir 1999 metais Pekine, pakeistus Pasaulinės pašto sąjungos įstatus, Pasaulinės pašto sąjungos įstatų šeštąjį papildomą protokolą, Pasaulinę pašto konvenciją, jos baigiamąjį protokolą ir Pasaulinės pašto sąjungos bendrąjį reglamentą.
 
 
 

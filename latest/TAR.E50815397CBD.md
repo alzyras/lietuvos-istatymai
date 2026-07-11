@@ -55,13 +55,13 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 ### 2 straipsnis. 2 straipsnio 1, 2, 7 ir 8 dalių pakeitimas ^s-24a1c1f9def2c9d6f33ee86c
 
 
-1. [[#^s-5844b48ee6098a70fb37855f|2 straipsnio 1 dalyje]] išbraukti žodį „komercinis“, vietoj žodžio „skyrių“ įrašyti žodį „filialą“ ir šią dalį išdėstyti taip: ^s-5844b48ee6098a70fb37855f
+1. 2 straipsnio 1 dalyje išbraukti žodį „komercinis“, vietoj žodžio „skyrių“ įrašyti žodį „filialą“ ir šią dalį išdėstyti taip: ^s-5844b48ee6098a70fb37855f
 
 
 „1. Draudėjas – bankas, filialą įsteigęs užsienio bankas (toliau – užsienio bankas), kredito unija arba įmonė ar užsienio įmonė, turinti teisę teikti investicines paslaugas, šio Įstatymo nustatyta tvarka mokantys draudimo įmokas į valstybės įmonės „Indėlių ir investicijų draudimas“ administruojamą Indėlių draudimo fondą ar Įsipareigojimų investuotojams draudimo fondą.“
 
 
-2. [[#^s-7b833376899aad6d5cec2e6c|2 straipsnio 2 dalyje]] išbraukti žodžius „komerciniam“ ir „komercinis“, vietoj žodžio „skyrius“ įrašyti žodžius „banko filialas“ ir šią dalį išdėstyti taip: ^s-7b833376899aad6d5cec2e6c
+2. 2 straipsnio 2 dalyje išbraukti žodžius „komerciniam“ ir „komercinis“, vietoj žodžio „skyrius“ įrašyti žodžius „banko filialas“ ir šią dalį išdėstyti taip: ^s-7b833376899aad6d5cec2e6c
 
 
 „2. Draudiminis įvykis – bankroto bylos iškėlimas kredito unijai, bankui ar įmonei arba priežiūros institucijos sprendimo dėl bankinės veiklos, indėlių priėmimo ar investicinių paslaugų teikimo nutraukimo priėmimas, kai kredito unija ar bankas (banko filialas) negali atsiskaityti su kreditoriais ar kai įmonė (įmonės filialas) yra nepajėgi įvykdyti įsipareigojimų investuotojams.“
@@ -103,7 +103,7 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 5 straipsnis. 5 straipsnio 1 ir 3 dalių pakeitimas ^s-d4e1214a1737dd1f5f0338c1
 
 
-1. [[#^s-425956ec0fe2893c4ed3b2a1|5 straipsnio 1 dalyje]] išbraukti žodį „komerciniame“, vietoj žodžio „skyriuje“ įrašyti žodžius „banko filiale“ ir šią dalį išdėstyti taip: ^s-425956ec0fe2893c4ed3b2a1
+1. 5 straipsnio 1 dalyje išbraukti žodį „komerciniame“, vietoj žodžio „skyriuje“ įrašyti žodžius „banko filiale“ ir šią dalį išdėstyti taip: ^s-425956ec0fe2893c4ed3b2a1
 
 
 „1. Indėlių draudimo suma yra lygi indėlininko indėliui, buvusiam banke, banko filiale arba kredito unijoje draudiminio įvykio dieną, tačiau ji negali būti didesnė kaip:

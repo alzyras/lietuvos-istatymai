@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Jungtinio komiteto sprendimo ratifikavimas ^s-199d930e677af6a08567dfa7
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1999 m. kovo 30 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti laisvosios prekybos sutarčių pakeitimus“, ratifikuoja Jungtinio komiteto sprendimą Nr. 1/98 „Dėl Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties, pasirašytos 1993 m. rugsėjo 13 d., A protokolo pakeitimo“.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1999 m. kovo 30 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti laisvosios prekybos sutarčių pakeitimus“](https://e-tar.lt/portal/lt/legalAct/TAR.D9F0F9B89298), ratifikuoja Jungtinio komiteto sprendimą Nr. 1/98 „Dėl Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties, pasirašytos 1993 m. rugsėjo 13 d., A protokolo pakeitimo“.
 
 
 

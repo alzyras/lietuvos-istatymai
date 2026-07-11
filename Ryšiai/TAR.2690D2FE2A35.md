@@ -9,10 +9,10 @@ pavadinimas: "Lietuvos Respublikos kariuomenės drausmės statuto pakeitimo įst
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - Lietuvos Respublikos baudžiamojo proceso kodekso
-- [[latest/TAR.23C5BC14E2B6|Lietuvos Respublikos karo policijos įstatymas]] - 2 citatos - Lietuvos Respublikos karo policijos įstatymas
-- [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - 9 citatos - Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo
-- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo
+- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Lietuvos Respublikos baudžiamojo proceso kodekso
+- [[latest/TAR.23C5BC14E2B6|Lietuvos Respublikos karo policijos įstatymas]] - Lietuvos Respublikos karo policijos įstatymas
+- [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - 6 citatos - Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo
+- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo
 
 ## Šį įstatymą cituoja
 

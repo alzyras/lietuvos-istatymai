@@ -50,7 +50,7 @@ Vilnius
 2. Pakeisti 24 straipsnio 3 dalį ir ją išdėstyti taip: ^s-f6cce43353276cafed1c1d7b
 
 
-„3. Jei nacionalinė kolektyvinė sutartis nėra sudaryta arba pakeista iki einamųjų metų birželio 1 d., tai ateinančių finansinių metų bazinį dydį Vyriausybės teikimu, atsižvelgdamas į [[#^s-f6cce43353276cafed1c1d7b|šio straipsnio 2 dalyje]] numatytas aplinkybes, tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos pabaigos.“
+„3. Jei nacionalinė kolektyvinė sutartis nėra sudaryta arba pakeista iki einamųjų metų birželio 1 d., tai ateinančių finansinių metų bazinį dydį Vyriausybės teikimu, atsižvelgdamas į šio straipsnio 2 dalyje numatytas aplinkybes, tvirtina Lietuvos Respublikos Seimas iki Seimo pavasario sesijos pabaigos.“
 
 
 

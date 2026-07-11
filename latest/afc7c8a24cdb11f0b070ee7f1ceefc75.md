@@ -167,7 +167,7 @@ Pakeisti 49 straipsnio 8 dalį ir ją išdėstyti taip:
 ### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-eb08cefe1c1040a0e7fd66e2
 
 
-1. Šio įstatymo [[#^s-6d063b33d5ada94f9041a0e3|4 straipsnio]] 2 ir 3 dalys įsigalioja 2026 m. sausio 1 d. ^s-64082752e72ed7bbf1c8a067
+1. Šio įstatymo [[#^s-6d063b33d5ada94f9041a0e3|4 straipsnio]] [[#^s-b17c84631ae8423dff94e6d6|2]] ir [[#^s-ef1e66dc17f0cdd1e12ef0b1|3]] dalys įsigalioja 2026 m. sausio 1 d. ^s-64082752e72ed7bbf1c8a067
 
 
 2. Aplinkos ministras iki 2025 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-19ef9cbc1eb314d3458d091e

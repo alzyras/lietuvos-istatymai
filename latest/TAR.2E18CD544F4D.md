@@ -67,7 +67,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 3. Aplinkosaugos sąlygas vandens telkinių dugno valymo ir gilinimo darbams laivybos reikmėms nustato aplinkos ministras. ^s-e1c975f2f4f2aee26454ae09
 
 
-4. Laivybą vidaus vandenų keliuose reglamentuoja Vidaus vandenų transporto kodeksas.“ ^s-6c23fb2a7f77be449a4e42d0
+4. Laivybą vidaus vandenų keliuose reglamentuoja [Vidaus vandenų transporto kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F).“ ^s-6c23fb2a7f77be449a4e42d0
 
 
 

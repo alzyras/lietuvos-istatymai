@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 14 
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - 3 citatos - 13 straipsnį 111 dalimi
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - Įstatymas Nr. XIII-2818
+_Nėra._

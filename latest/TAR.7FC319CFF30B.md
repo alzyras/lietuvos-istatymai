@@ -62,7 +62,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 „24) gyventojai, pageidaujantys gauti valstybės paramą būstui įsigyti ar išsinuomoti pagal Valstybės paramos būstui įsigyti ar išsinuomoti ir daugiabučiams namams atnaujinti (modernizuoti) įstatymą, ir jų šeimos nariai.“
 
 
-2. Pakeisti [[#^s-7ad24751cec7140ef18e5f10|2 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-7ad24751cec7140ef18e5f10
+2. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip: ^s-7ad24751cec7140ef18e5f10
 
 
 „2. [[#^s-4a3f634b301f340e70210c41|Šio straipsnio 1 dalies]] 1–20, 23 ir 24 punktuose nurodytais šeimos nariais laikomi sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų, kurie privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis asmuo, kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą. Šio straipsnio 1 dalies 24 punkte nurodytų gyventojų šeimos nariais taip pat laikomi nedirbantys asmenys nuo 18 iki 24 metų, kurie mokosi dieninėse bendrojo lavinimo mokyklose ir kitų formaliojo švietimo įstaigų dieniniuose skyriuose (mokiniai ar studentai), asmenys laikotarpiu nuo dieninių bendrojo lavinimo mokyklų baigimo dienos iki tų pačių metų rugsėjo 1 dienos, taip pat asmenys, teismo tvarka pripažinti šeimos nariais, ir sutuoktinių ar vienišo asmens kartu gyvenantys tėvai (įtėviai).“

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-5fa94dd8b0d7f96d6212d09a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 14 d. dekretą Nr. 340, ratifikuoja 1997 m. birželio 19 d. Ženevoje priimtą Konvenciją dėl privačių įdarbinimo agentūrų.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. sausio 14 d. dekretą Nr. 340](https://e-tar.lt/portal/lt/legalAct/TAR.424FCA765BC5), ratifikuoja 1997 m. birželio 19 d. Ženevoje priimtą Konvenciją dėl privačių įdarbinimo agentūrų.
 
 
 

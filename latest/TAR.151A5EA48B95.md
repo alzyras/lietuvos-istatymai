@@ -74,19 +74,19 @@ Pakeisti ir papildyti [[#^s-b0f6bb58763b795a2430fc1d|4 straipsnį]] ir jį išd�
 
 
 
-„[[#^s-b0f6bb58763b795a2430fc1d|4 straipsnis]]. Sprendimų dėl Lietuvos Respublikos tarptautinių sutarčių sudarymo tikslingumo ir dėl prieštaravimo išlygoms priėmimas
+„[[#^s-b0f6bb58763b795a2430fc1d|4 straipsnis]]. Sprendimų [dėl Lietuvos Respublikos tarptautinių sutarčių sudarymo](https://e-tar.lt/portal/lt/legalAct/TAR.DC9F80442BD6) tikslingumo ir dėl prieštaravimo išlygoms priėmimas
 
 
-1. Sprendimus dėl Lietuvos Respublikos tarptautinių sutarčių sudarymo tikslingumo pagal Lietuvos Respublikos Konstitucijos, šio ir kitų įstatymų bei tarptautinės teisės reikalavimus priima Lietuvos Respublikos Prezidentas, Lietuvos Respublikos Vyriausybė arba jos pavedimu ir nustatyta tvarka – Lietuvos Respublikos užsienio reikalų ministerija. ^s-46984932ebba6d7c512d39d3
+1. Sprendimus [dėl Lietuvos Respublikos tarptautinių sutarčių sudarymo](https://e-tar.lt/portal/lt/legalAct/TAR.DC9F80442BD6) tikslingumo pagal Lietuvos Respublikos Konstitucijos, šio ir kitų įstatymų bei tarptautinės teisės reikalavimus priima Lietuvos Respublikos Prezidentas, Lietuvos Respublikos Vyriausybė arba jos pavedimu ir nustatyta tvarka – Lietuvos Respublikos užsienio reikalų ministerija. ^s-46984932ebba6d7c512d39d3
 
 
-2. Sprendimai dėl Europos Sąjungos ir Lietuvos Respublikos, kaip Europos Sąjungos valstybės narės, atstovaujančių vienai tarptautinės sutarties šaliai, tarptautinių sutarčių (toliau – tarptautinės mišriosios sutartys) sudarymo tikslingumo priimami vadovaujantis Lietuvos Respublikos Konstituciniu aktu „Dėl Lietuvos Respublikos narystės Europos Sąjungoje“, įstatymais ir kitais teisės aktais, reglamentuojančiais Lietuvos Respublikos pozicijos dėl Europos Sąjungos institucijose svarstomų teisės aktų ir dokumentų projektų rengimą ir derinimą. ^s-acdd3024bad6004cdf9af30f
+2. Sprendimai dėl Europos Sąjungos ir Lietuvos Respublikos, kaip Europos Sąjungos valstybės narės, atstovaujančių vienai tarptautinės sutarties šaliai, tarptautinių sutarčių (toliau – tarptautinės mišriosios sutartys) sudarymo tikslingumo priimami vadovaujantis Lietuvos Respublikos Konstituciniu aktu [„Dėl Lietuvos Respublikos narystės Europos Sąjungoje“](https://e-tar.lt/portal/lt/legalAct/TAR.FD7C10A3072E), įstatymais ir kitais teisės aktais, reglamentuojančiais Lietuvos Respublikos pozicijos dėl Europos Sąjungos institucijose svarstomų teisės aktų ir dokumentų projektų rengimą ir derinimą. ^s-acdd3024bad6004cdf9af30f
 
 
 3. Priimant sprendimą dėl Lietuvos Respublikos tarptautinės sutarties sudarymo tikslingumo, turi būti apsvarstyta, ar šios sutarties projekto nuostatos atitinka Lietuvos Respublikos Konstituciją, Lietuvos Respublikos užsienio politikos ir nacionalinio saugumo pagrindus ir tikslus, šio įstatymo reikalavimus, tarptautinės teisės principus ir normas. ^s-2bae05d67eab97335e52c8d0
 
 
-4. Sprendimai dėl prieštaravimo kitų tarptautinės teisės subjektų padarytoms išlygoms dėl Lietuvos Respublikos tarptautinių sutarčių priimami šio straipsnio 1, 2 ir [[#^s-2bae05d67eab97335e52c8d0|3 dalyse]] nustatyta tvarka, gavus Lietuvos Respublikos Seimo Užsienio reikalų komiteto išvadą, ir skelbiami leidinyje „Valstybės žinios“. Jeigu prieštaraujant išlygai dėl ratifikuotos Lietuvos Respublikos tarptautinės sutarties prieštaraujama ir šios sutarties įsigaliojimui tarp Lietuvos Respublikos ir išlygą padariusio tarptautinės teisės subjekto, sprendimą dėl prieštaravimo šio įstatymo [[#^s-a66b9218ebfb9c6ea68d5628|8 straipsnio]] 1 ir [[#^s-acdd3024bad6004cdf9af30f|2 dalyse]] nustatyta tvarka priima Lietuvos Respublikos Seimas.“ ^s-d5da7934e2df25218d07bba8
+4. Sprendimai dėl prieštaravimo kitų tarptautinės teisės subjektų padarytoms išlygoms [dėl Lietuvos Respublikos tarptautinių sutarčių](https://e-tar.lt/portal/lt/legalAct/TAR.BC4A20CEA4A8) priimami šio straipsnio [1](https://e-tar.lt/portal/lt/legalAct/TAR.BC4A20CEA4A8), [2](https://e-tar.lt/portal/lt/legalAct/TAR.BC4A20CEA4A8) ir [3](https://e-tar.lt/portal/lt/legalAct/TAR.BC4A20CEA4A8) dalyse nustatyta tvarka, gavus Lietuvos Respublikos Seimo Užsienio reikalų komiteto išvadą, ir skelbiami leidinyje „Valstybės žinios“. Jeigu prieštaraujant išlygai dėl ratifikuotos Lietuvos Respublikos tarptautinės sutarties prieštaraujama ir šios sutarties įsigaliojimui tarp Lietuvos Respublikos ir išlygą padariusio tarptautinės teisės subjekto, sprendimą dėl prieštaravimo šio įstatymo [[#^s-a66b9218ebfb9c6ea68d5628|8 straipsnio]] 1 ir 2 dalyse nustatyta tvarka priima Lietuvos Respublikos Seimas.“ ^s-d5da7934e2df25218d07bba8
 
 
 ### 4 straipsnis. 5 straipsnio 2 dalies pakeitimas ^s-b0f6bb58763b795a2430fc1d
@@ -111,16 +111,16 @@ Pakeisti [[#^s-1dddbacccf2a9cee8df9c158|6 straipsnį]] ir jį išdėstyti taip:
 1. Įgaliojimus atlikti veiksmus, susijusius su šio įstatymo [[#^s-a4151297c0903fde19b37df0|7 straipsnyje]] nurodytų Lietuvos Respublikos tarptautinių sutarčių sudarymu, suteikia Lietuvos Respublikos Prezidentas Lietuvos Respublikos Vyriausybės teikimu. ^s-64d0373ba1f822f7e80bdde2
 
 
-2. Įgaliojimus atlikti veiksmus, susijusius su Lietuvos Respublikos tarptautinėmis sutartimis, kurioms Lietuvos Respublikos Konstitucija, šis įstatymas arba pati tarptautinė sutartis nenumato ratifikavimo procedūros, tačiau kurių sudarymą pagal šio įstatymo [[#^s-6e018a91a0d3e3de431724c5|9 straipsnyje]] nustatytą tvarką tvirtina Lietuvos Respublikos Vyriausybė, suteikia Lietuvos Respublikos Ministras Pirmininkas ministerijos ar Lietuvos Respublikos Vyriausybės įstaigos, kuri pagal kompetenciją rengia sutartį, teikimu, pritarus Lietuvos Respublikos užsienio reikalų ministerijai. ^s-39a40adc9879208bcdd20b93
+2. Įgaliojimus atlikti veiksmus, susijusius su Lietuvos Respublikos tarptautinėmis sutartimis, kurioms [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis įstatymas arba pati tarptautinė sutartis nenumato ratifikavimo procedūros, tačiau kurių sudarymą pagal šio įstatymo [[#^s-6e018a91a0d3e3de431724c5|9 straipsnyje]] nustatytą tvarką tvirtina Lietuvos Respublikos Vyriausybė, suteikia Lietuvos Respublikos Ministras Pirmininkas ministerijos ar Lietuvos Respublikos Vyriausybės įstaigos, kuri pagal kompetenciją rengia sutartį, teikimu, pritarus Lietuvos Respublikos užsienio reikalų ministerijai. ^s-39a40adc9879208bcdd20b93
 
 
-3. Įgaliojimus sudaryti Lietuvos Respublikos tarptautines sutartis, kurios įsigalioja nuo pasirašymo ar pasikeitimo laiškais dienos arba yra laikinai taikomos, jeigu joms Lietuvos Respublikos Konstitucija, šis įstatymas arba pati tarptautinė sutartis nenumato ratifikavimo procedūros, suteikia Lietuvos Respublikos Vyriausybė ministerijos ar Lietuvos Respublikos Vyriausybės įstaigos, kuri pagal kompetenciją rengia sutartį, teikimu, pritarus Lietuvos Respublikos užsienio reikalų ministerijai. ^s-1562edfeb45f8319f1f5b39c
+3. Įgaliojimus sudaryti Lietuvos Respublikos tarptautines sutartis, kurios įsigalioja nuo pasirašymo ar pasikeitimo laiškais dienos arba yra laikinai taikomos, jeigu joms [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis įstatymas arba pati tarptautinė sutartis nenumato ratifikavimo procedūros, suteikia Lietuvos Respublikos Vyriausybė ministerijos ar Lietuvos Respublikos Vyriausybės įstaigos, kuri pagal kompetenciją rengia sutartį, teikimu, pritarus Lietuvos Respublikos užsienio reikalų ministerijai. ^s-1562edfeb45f8319f1f5b39c
 
 
 4. Sudaryti Lietuvos Respublikos tarptautines sutartis pasikeičiant diplomatinėmis notomis, jeigu jos įsigalioja nuo pasikeitimo diplomatinėmis notomis dienos, Lietuvos Respublikos Vyriausybės nutarimu pavedama Lietuvos Respublikos užsienio reikalų ministerijai. ^s-9b1f79f6ab7e14543ddddff4
 
 
-5. Suteikus šio straipsnio 1, 2, 3 ir [[#^s-9b1f79f6ab7e14543ddddff4|4 dalyse]] nurodytus įgaliojimus, įgaliojamuosius raštus išduoda Lietuvos Respublikos užsienio reikalų ministerija. ^s-2ff3ec3f4e273a765cd5a3b6
+5. Suteikus šio straipsnio [[#^s-64d0373ba1f822f7e80bdde2|1]], [[#^s-39a40adc9879208bcdd20b93|2]], [[#^s-1562edfeb45f8319f1f5b39c|3]] ir [[#^s-9b1f79f6ab7e14543ddddff4|4]] dalyse nurodytus įgaliojimus, įgaliojamuosius raštus išduoda Lietuvos Respublikos užsienio reikalų ministerija. ^s-2ff3ec3f4e273a765cd5a3b6
 
 
 6. Informacija apie įgaliojamuosius raštus kaupiama ir tvarkoma Lietuvos Respublikos užsienio reikalų ministerijoje.“ ^s-ffeb408c18560c31c431deab
@@ -165,7 +165,7 @@ Pakeisti [[#^s-1dddbacccf2a9cee8df9c158|6 straipsnį]] ir jį išdėstyti taip:
 9 straipsnio 1 dalyje vietoj skaičių ir žodžio „4 ir 5“ įrašyti skaičius ir žodį „3 ir 4“ ir šią dalį išdėstyti taip:
 
 
-„1. Lietuvos Respublikos tarptautines sutartis, kurioms Lietuvos Respublikos Konstitucija, šis įstatymas arba pati sutartis nenumato ratifikavimo procedūros, tvirtina Lietuvos Respublikos Vyriausybė. Šis reikalavimas netaikomas šio įstatymo [[#^s-1dddbacccf2a9cee8df9c158|6 straipsnio]] 3 ir 4 dalyse nurodytoms Lietuvos Respublikos tarptautinėms sutartims.“
+„1. Lietuvos Respublikos tarptautines sutartis, kurioms [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis įstatymas arba pati sutartis nenumato ratifikavimo procedūros, tvirtina Lietuvos Respublikos Vyriausybė. Šis reikalavimas netaikomas šio įstatymo [[#^s-1dddbacccf2a9cee8df9c158|6 straipsnio]] [[#^s-04f416b0eb59821fe306270d|3]] ir [[#^s-36e62ceddc455c7c02227496|4]] dalyse nurodytoms Lietuvos Respublikos tarptautinėms sutartims.“
 
 
 ### 8 straipsnis. 10 straipsnio pakeitimas ^s-a66b9218ebfb9c6ea68d5628

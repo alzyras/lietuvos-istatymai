@@ -94,7 +94,7 @@ Vilnius
 3) kurio finansinė būklė yra gera ir stabili.“ ^s-8d3d505843101cba4f605948
 
 
-4. Papildyti [[#^s-9aced24df6fad2d95983e206|8 straipsnį]] nauja [[#^s-9dcd6eee5e30a11330a86d9a|4 dalimi]]: ^s-9dcd6eee5e30a11330a86d9a
+4. Papildyti [[#^s-9aced24df6fad2d95983e206|8 straipsnį]] nauja 4 dalimi: ^s-9dcd6eee5e30a11330a86d9a
 
 
 „4. Priežiūros institucija konsultuojasi su Lietuvos Respublikos priežiūros institucija, atsakinga už finansų maklerio įmonių ar draudimo įmonių priežiūrą, ar kitos Europos Sąjungos valstybės narės priežiūros institucija, atsakinga už užsienio bankų, finansų maklerio įmonių ar draudimo įmonių priežiūrą, jei bankas bus:
@@ -109,13 +109,13 @@ Vilnius
 3) kontroliuojamas tų pačių asmenų, kurie kontroliuoja kitoje Europos Sąjungos valstybėje narėje licencijuotą užsienio banką arba Lietuvos Respublikoje ar kitoje Europos Sąjungos valstybėje narėje licencijuotą finansų maklerio įmonę ar draudimo įmonę.“ ^s-e4480dd4526fdcf780c38307
 
 
-5. Papildyti [[#^s-9aced24df6fad2d95983e206|8 straipsnį]] nauja [[#^s-ae00c3b2c44a63123e546b20|5 dalimi]]: ^s-ae00c3b2c44a63123e546b20
+5. Papildyti [[#^s-9aced24df6fad2d95983e206|8 straipsnį]] nauja 5 dalimi: ^s-ae00c3b2c44a63123e546b20
 
 
 „5. Priežiūros institucija, prieš išduodama leidimą įsteigti banką ir atlikdama banko priežiūrą, konsultuojasi su [[#^s-9dcd6eee5e30a11330a86d9a|šio straipsnio 4 dalyje]] nurodytomis institucijomis ir, vertindama asmenų, įsigyjančių banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, tinkamumą ir tai pačiai grupei priklausančių įmonių vadovų reputaciją, kvalifikaciją ir patirtį, pati šiais klausimais teikia [[#^s-9dcd6eee5e30a11330a86d9a|šio straipsnio 4 dalyje]] nurodytoms institucijoms reikalingą informaciją.“
 
 
-6. Buvusias [[#^s-9aced24df6fad2d95983e206|8 straipsnio]] 4–9 dalis laikyti atitinkamai 6–11 dalimis. ^s-f69554a4c0ce7226e9a69a5c
+6. Buvusias [[#^s-9aced24df6fad2d95983e206|8 straipsnio]] [[#^s-d8c26b6b59a19836029106ce|4]]–9 dalis laikyti atitinkamai 6–11 dalimis. ^s-f69554a4c0ce7226e9a69a5c
 
 
 
@@ -129,7 +129,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 „17 straipsnis. Leidimo užsienio bankui įsteigti banką Lietuvos Respublikoje ir licencijos užsienio banko steigiamam bankui išdavimas
 
 
-Leidimas užsienio bankui įsteigti banką Lietuvos Respublikoje ir licencija įsteigtam bankui išduodama šio Įstatymo 8 ir [[#^s-257dbd49b225975acf16fdaf|9 straipsniuose]] nustatyta tvarka.“
+Leidimas užsienio bankui įsteigti banką Lietuvos Respublikoje ir licencija įsteigtam bankui išduodama šio Įstatymo [[#^s-9aced24df6fad2d95983e206|8]] ir [[#^s-257dbd49b225975acf16fdaf|9]] straipsniuose nustatyta tvarka.“
 
 
 
@@ -174,7 +174,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 2. Asmuo, nusprendęs perleisti banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba ją sumažinti tiek, kad turima banko įstatinio kapitalo ir (arba) balsavimo teisių dalis sudarytų mažiau kaip 20 procentų, 30 procentų ar 50 procentų, arba tiek, kad bankas nustotų būti jo kontroliuojamas, privalo apie tai raštu pranešti priežiūros institucijai ir nurodyti ketinamos perleisti ar sumažinti banko kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies dydį. ^s-fbdd0ecbcd9779f7e8327fbe
 
 
-3. Šiame straipsnyje ir šio Įstatymo 23 straipsnyje nurodytais tikslais nustatant kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, atsižvelgiama į [[latest/TAR.3DF892F52616#^s-5db86a45198161db47d40ef7|Vertybinių popierių įstatymo 23 ir 24 straipsnių]] nuostatas. Be to, nustatant banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, neatsižvelgiama į balsavimo teises ar akcijas, kurias finansų maklerio įmonės ar kredito įstaigos gali turėti po teiktos finansinių priemonių pasirašymo ir (arba) platinimo įsipareigojant jas išplatinti paslaugos, jei šiomis teisėmis nesinaudojama ar jos kitaip nenaudojamos siekiant kištis į emitento valdymą ir jei jos perleidžiamos per vienus metus po įsigijimo. ^s-472dd85185b07f0fd934c6ec
+3. Šiame straipsnyje ir šio Įstatymo 23 straipsnyje nurodytais tikslais nustatant kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, atsižvelgiama į [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] [[latest/TAR.3DF892F52616#^s-73a6566a6f92acda891a3ff7|23]] ir [[latest/TAR.3DF892F52616#^s-5db86a45198161db47d40ef7|24]] straipsnių nuostatas. Be to, nustatant banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, neatsižvelgiama į balsavimo teises ar akcijas, kurias finansų maklerio įmonės ar kredito įstaigos gali turėti po teiktos finansinių priemonių pasirašymo ir (arba) platinimo įsipareigojant jas išplatinti paslaugos, jei šiomis teisėmis nesinaudojama ar jos kitaip nenaudojamos siekiant kištis į emitento valdymą ir jei jos perleidžiamos per vienus metus po įsigijimo. ^s-472dd85185b07f0fd934c6ec
 
 
 4. Jei banko kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis įsigyta ar padidinta apie tai nepranešus priežiūros institucijai pagal [[#^s-76aaa9203ac7ab80f8fcc2d2|šio straipsnio 1 dalį]] arba nepasibaigus šio Įstatymo 25 straipsnio 4 dalyje nustatytam terminui (išskyrus atvejį, kai nepasibaigus šio Įstatymo 25 straipsnio 4 dalyje nustatytam terminui gautas priežiūros institucijos sprendimas neprieštarauti siūlomam įsigijimui), arba esant priežiūros institucijos prieštaravimui siūlomam įsigijimui, taip pat priežiūros institucijai priėmus sprendimą sustabdyti teisę naudotis balsavimo teise, visa įsigyjančio asmens turima banko įstatinio kapitalo ir (arba) balsavimo teisių dalis banko visuotiniame akcininkų susirinkime praranda balsavimo teisę. Balsavimo teisė vėl įgyjama tą dieną, kurią yra gaunamas priežiūros institucijos sprendimas neprieštarauti siūlomam įsigijimui arba jei priežiūros institucija nepareiškia prieštaravimo siūlomam įsigijimui, arba kai priežiūros institucija priima sprendimą atšaukti sprendimą sustabdyti teisę visuotiniame akcininkų susirinkime naudotis balsavimo teise šio Įstatymo 26 straipsnio 3 dalyje nustatytu atveju.“ ^s-d4fbecdb92826541f893f85e
@@ -221,7 +221,7 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 8. Nagrinėdama pateiktą pranešimą apie siūlomą įsigijimą ir dokumentus bei duomenis, būtinus įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti, taip pat gautus papildomus dokumentus ir duomenis, priežiūros institucija, siekdama užtikrinti patikimą ir riziką ribojantį banko, dėl kurio siūlomas įsigijimas, valdymą ir atsižvelgdama į galimą įsigyjančio asmens poveikį bankui, vertina įsigyjančio asmens tinkamumą ir siūlomo įsigijimo finansinį patikimumą pagal visus šiuos kriterijus: ^s-3751ed12118a144dce546110
 
 
-1) įsigyjančio asmens nepriekaištingą reputaciją (šio Įstatymo 34 straipsnio 12 ir [[#^s-6ef3578edac0c0e0c8ff81c2|13 dalys]]); ^s-16cbc031abfb7cf62ce8a193
+1) įsigyjančio asmens nepriekaištingą reputaciją (šio Įstatymo 34 straipsnio 12 ir 13 dalys); ^s-16cbc031abfb7cf62ce8a193
 
 
 2) asmens, kuris vadovaus bankui po siūlomo įsigijimo, nepriekaištingą reputaciją ir patirtį (šio Įstatymo 34 straipsnio 2 dalis); ^s-8af14b6109404c81f25aeec7
@@ -245,7 +245,7 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 11. Priežiūros institucija, dėl to paties banko gavusi daugiau kaip vieną pranešimą apie siūlomą įsigijimą, visus gautus pranešimus nagrinėja tokia pat tvarka, nediskriminuodama įsigyjančių asmenų. ^s-d40adf956c9f30565780c9df
 
 
-12. Jei priežiūros institucija priima sprendimą prieštarauti siūlomam įsigijimui, ji apie tai per 2 darbo dienas ir neviršydama vertinimo laikotarpio raštu praneša įsigyjančiam asmeniui, nurodydama sprendimo motyvus. Be to, sprendime nurodomos visos po konsultacijų pagal šio straipsnio 15 ir [[#^s-d98dd58f229834ee468ba1b2|16 dalis]] gautos kitų priežiūros institucijų nuomonės ar išlygos. Priežiūros institucija įsigyjančio asmens prašymu ar savo iniciatyva informaciją apie sprendimo prieštarauti siūlomam įsigijimui priėmimo motyvus turi teisę paskelbti viešai. ^s-e9171adbecaeebedbc76dad9
+12. Jei priežiūros institucija priima sprendimą prieštarauti siūlomam įsigijimui, ji apie tai per 2 darbo dienas ir neviršydama vertinimo laikotarpio raštu praneša įsigyjančiam asmeniui, nurodydama sprendimo motyvus. Be to, sprendime nurodomos visos po konsultacijų pagal šio straipsnio [[#^s-09627291021a494f2eabc3f1|15]] ir [[#^s-d98dd58f229834ee468ba1b2|16]] dalis gautos kitų priežiūros institucijų nuomonės ar išlygos. Priežiūros institucija įsigyjančio asmens prašymu ar savo iniciatyva informaciją apie sprendimo prieštarauti siūlomam įsigijimui priėmimo motyvus turi teisę paskelbti viešai. ^s-e9171adbecaeebedbc76dad9
 
 
 13. Jei priežiūros institucija per vertinimo laikotarpį raštu nepareiškia prieštaravimo siūlomam įsigijimui, laikoma, kad priežiūros institucija siūlomam įsigijimui neprieštarauja. Jei priežiūros institucija nepasibaigus vertinimo laikotarpiui priima sprendimą neprieštarauti siūlomam įsigijimui, ji apie tai per 2 darbo dienas privalo raštu pranešti įsigyjančiam asmeniui. ^s-6ef3578edac0c0e0c8ff81c2

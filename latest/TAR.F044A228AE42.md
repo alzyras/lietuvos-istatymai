@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-32a9079307211715d72c9802
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. lapkričio 21 d. dekretą Nr. 1K-1596, ratifikuoja 2008 m. birželio 10 d. Bratislavoje pasirašytą Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo išaiškinant, tiriant ir užkardant nusikaltimus.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. lapkričio 21 d. dekretą Nr. 1K-1596](https://e-tar.lt/portal/lt/legalAct/TAR.3C64E1F891E2), ratifikuoja 2008 m. birželio 10 d. Bratislavoje pasirašytą Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo išaiškinant, tiriant ir užkardant nusikaltimus.
 
 
 

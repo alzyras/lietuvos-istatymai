@@ -52,7 +52,7 @@ Vilnius
 1) valstybės įmonė – suprantama taip, kaip ji apibrėžta [[latest/TAR.29FB2C8807FE|Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatyme]]; ^s-6898bebc9f4b15b22e530d47
 
 
-2) finansiniai metai, ūkinės veiklos pradžios balansas – suprantama taip, kaip šios sąvokos apibrėžtos Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme. ^s-3194eb1b46087a0218f5bca2
+2) finansiniai metai, ūkinės veiklos pradžios balansas – suprantama taip, kaip šios sąvokos apibrėžtos [Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C). ^s-3194eb1b46087a0218f5bca2
 
 
 

@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-33f4fc1b8977a81314547802
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. birželio 12 d. dekretą Nr. 1K-1092, ratifikuoja 2010 m. gruodžio 2 d. Briuselyje pasirašytą Europos Sąjungos bei jos valstybių narių ir Gruzijos bendrosios aviacijos erdvės susitarimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. birželio 12 d. dekretą Nr. 1K-1092](https://e-tar.lt/portal/lt/legalAct/TAR.EEA13C0BB912), ratifikuoja 2010 m. gruodžio 2 d. Briuselyje pasirašytą Europos Sąjungos bei jos valstybių narių ir Gruzijos bendrosios aviacijos erdvės susitarimą.
 
 
 

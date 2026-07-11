@@ -39,13 +39,13 @@ Vilnius
 ### 1 straipsnis. 13 straipsnio pakeitimas ^s-8c8be6930c58ad6face01684
 
 
-1. 13 straipsnio 1 dalyje išbraukti žodžius „gamtos apsaugos fondo“, 1 ir [[#^s-aba76ce7a890c677a416738d|2 dalis]] sujungti ir [[#^s-06fe8ec188979cae7ac878f5|1 dalį]] išdėstyti taip: ^s-06fe8ec188979cae7ac878f5
+1. 13 straipsnio 1 dalyje išbraukti žodžius „gamtos apsaugos fondo“, 1 ir 2 dalis sujungti ir 1 dalį išdėstyti taip: ^s-06fe8ec188979cae7ac878f5
 
 
 „1. Valstybinis ir specialusis aplinkos monitoringas finansuojamas iš valstybės biudžeto lėšų.“
 
 
-2. 13 straipsnio 3 dalyje išbraukti žodžius „ir jų gamtos apsaugos fondo“, šią dalį laikyti [[#^s-aba76ce7a890c677a416738d|2 dalimi]] ir ją išdėstyti taip: ^s-aba76ce7a890c677a416738d
+2. 13 straipsnio 3 dalyje išbraukti žodžius „ir jų gamtos apsaugos fondo“, šią dalį laikyti 2 dalimi ir ją išdėstyti taip: ^s-aba76ce7a890c677a416738d
 
 
 „2. Savivaldybių aplinkos monitoringas finansuojamas iš savivaldybių biudžeto lėšų.“

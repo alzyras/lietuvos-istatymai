@@ -99,7 +99,7 @@ Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. [[latest/TAR
 10. Naudojimas – veikla, kurios metu genetiškai modifikuoti mikroorganizmai ar organizmai dauginami, auginami ar kitaip ribotai naudojami ir (ar) genetiškai modifikuoti organizmai ar jų kombinacija, kaip atskiri produktai ar esantys kituose produktuose, gaminami ir tiekiami rinkai, apgalvotai išleidžiami į aplinką, importuojami, eksportuojami, taip pat atliekami bandymai bei mokslinio tyrimo darbai. ^s-d105f02c0af7c05da9271c6d
 
 
-11. Nelaimingas atsitikimas – bet koks įvykis, susijęs su gausiu ir nenumatytu genetiškai modifikuoto mikroorganizmo ar organizmo išleidimu į aplinką jų riboto naudojimo metu, galintis kelti tiesioginį ar uždelstą pavojų žmonių sveikatai ar aplinkai. ^s-9f8247c6c2bb59dec5f052b9
+11. Nelaimingas atsitikimas – bet koks įvykis, susijęs su gausiu ir nenumatytu genetiškai modifikuoto mikroorganizmo ar organizmo išleidimu į aplinką jų [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) metu, galintis kelti tiesioginį ar uždelstą pavojų žmonių sveikatai ar aplinkai. ^s-9f8247c6c2bb59dec5f052b9
 
 
 12. Organizmas – bet kuris biologinis vienetas, galintis daugintis ir (ar) perduoti savo genetinę medžiagą. ^s-1737c1678c4b58a6bfbd4a44
@@ -178,7 +178,7 @@ Aplinkos ministerija:
 3) priima pranešimus iš fizinių ir juridinių asmenų apie genetiškai modifikuotus organizmus bei genetiškai modifikuotus produktus; ^s-93c9c183991b2c1fee1f8a54
 
 
-4) išduoda leidimus veiklai, kurios metu yra ribotai naudojami genetiškai modifikuoti mikroorganizmai ar organizmai ir apgalvotai išleidžiami į aplinką genetiškai modifikuoti organizmai ne tiekimo rinkai tikslais, ir sutikimus veiklai apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus tiekimo rinkai tikslais, jei toks genetiškai modifikuoto organizmo tiekimas rinkai neįteisintas Europos Sąjungoje; nutraukia, sustabdo, pratęsia, apriboja, pakeičia išleidimo į aplinką ar riboto naudojimo sąlygas ir panaikina šių leidimų ar sutikimų galiojimą šios ministerijos nustatyta tvarka; ^s-d107c4ada10dd81cfdb050e5
+4) išduoda leidimus veiklai, kurios metu yra ribotai naudojami genetiškai modifikuoti mikroorganizmai ar organizmai ir apgalvotai išleidžiami į aplinką genetiškai modifikuoti organizmai ne tiekimo rinkai tikslais, ir sutikimus veiklai apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus tiekimo rinkai tikslais, jei toks genetiškai modifikuoto organizmo tiekimas rinkai neįteisintas Europos Sąjungoje; nutraukia, sustabdo, pratęsia, apriboja, pakeičia išleidimo į aplinką ar [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) sąlygas ir panaikina šių leidimų ar sutikimų galiojimą šios ministerijos nustatyta tvarka; ^s-d107c4ada10dd81cfdb050e5
 Straipsnio punkto pakeitimai:
 Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. [[latest/TAR.759E351777D0|1061010ISTA000X-720]]
 
@@ -306,7 +306,7 @@ Nr. X-720, 2006-06-22, Žin. 2006, Nr. 77-2967 (2006-07-14), i. k. [[latest/TAR.
 2. GMO ekspertų komitetas organizuoja genetiškai modifikuotų organizmų ekspertų veiklą Lietuvos Respublikoje. ^s-88e35e1846cfa9dcd8a6bab5
 
 
-3. GMO ekspertų komitetas atlieka rizikos aplinkai vertinimą ir rengia išvadas bei pasiūlymus dėl genetiškai modifikuotų mikroorganizmų arba organizmų riboto naudojimo, genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką bei jų, kaip produktų ar esančių kituose produktuose, tiekimo rinkai. ^s-808e17284eec3db5d120807b
+3. GMO ekspertų komitetas atlieka rizikos aplinkai vertinimą ir rengia išvadas bei pasiūlymus dėl genetiškai modifikuotų mikroorganizmų arba organizmų [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką bei jų, kaip produktų ar esančių kituose produktuose, tiekimo rinkai. ^s-808e17284eec3db5d120807b
 
 
 4. Atlieka kitas teisės aktais nustatytas funkcijas. ^s-a6f6b49061d0eb847545cf26
@@ -343,7 +343,7 @@ Genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų valsty
 2) genetiškai modifikuotų organizmų ir genetiškai modifikuotų produktų teikimo į rinką saugos kontrolę ir rinkos priežiūrą – pagal kompetenciją Valstybinė maisto ir veterinarijos tarnyba, Žemės ūkio ministerija ir Sveikatos apsaugos ministerija ar jų įgaliotos institucijos; ^s-4a9ac9294c8f0ab9d2dc5475
 
 
-3) genetiškai modifikuotų mikroorganizmų arba organizmų riboto naudojimo kontrolę – Aplinkos ministerija ar jos įgaliotos institucijos; ^s-cb7dd5c20f6626e6be757435
+3) genetiškai modifikuotų mikroorganizmų arba organizmų [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) kontrolę – Aplinkos ministerija ar jos įgaliotos institucijos; ^s-cb7dd5c20f6626e6be757435
 Straipsnio punkto pakeitimai:
 Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. [[latest/TAR.759E351777D0|1061010ISTA000X-720]]
 
@@ -370,13 +370,13 @@ Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. [[latest/TAR
 ### 9 straipsnis. Leidimai ir sutikimai veiklai, kurios metu yra naudojami genetiškai modifikuoti organizmai ir genetiškai modifikuoti mikroorganizmai ^s-e968b99f728698faf600d1d7
 
 
-1. Lietuvos Respublikoje verstis veikla, kurios metu genetiškai modifikuoti organizmai apgalvotai išleidžiami į aplinką ne tiekimo rinkai tikslais ir (ar) ribotai naudojami genetiškai modifikuoti mikroorganizmai arba organizmai, gali fiziniai ir juridiniai asmenys, gavę leidimą apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus ir (ar) ribotai naudoti genetiškai modifikuotus mikroorganizmus arba organizmus Aplinkos ministerijos nustatyta tvarka, kuri taip pat nustato riboto naudojimo veikloje naudojamas specialias ribojimo priemones. ^s-2982ccbf4e3c4798b794465c
+1. Lietuvos Respublikoje verstis veikla, kurios metu genetiškai modifikuoti organizmai apgalvotai išleidžiami į aplinką ne tiekimo rinkai tikslais ir (ar) ribotai naudojami genetiškai modifikuoti mikroorganizmai arba organizmai, gali fiziniai ir juridiniai asmenys, gavę leidimą apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus ir (ar) ribotai naudoti genetiškai modifikuotus mikroorganizmus arba organizmus Aplinkos ministerijos nustatyta tvarka, kuri taip pat nustato [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) veikloje naudojamas specialias ribojimo priemones. ^s-2982ccbf4e3c4798b794465c
 
 
 2. Tiekimo rinkai tikslais apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus, kurių naudojimas neįteisintas Europos Sąjungoje, gali fiziniai ar juridiniai asmenys, teisės aktų nustatyta tvarka gavę sutikimą. ^s-60229382e45a5f5edfcf5f20
 
 
-3. Šio straipsnio 1 ir [[#^s-60229382e45a5f5edfcf5f20|2 dalyse]] numatytus leidimus ir sutikimus fiziniams ir juridiniams asmenims išduoda Aplinkos ministerija šios ministerijos nustatyta tvarka. ^s-1a9c1aa0da8689f9f644799e
+3. Šio straipsnio [[#^s-2982ccbf4e3c4798b794465c|1]] ir [[#^s-60229382e45a5f5edfcf5f20|2]] dalyse numatytus leidimus ir sutikimus fiziniams ir juridiniams asmenims išduoda Aplinkos ministerija šios ministerijos nustatyta tvarka. ^s-1a9c1aa0da8689f9f644799e
 
 
 4. Aplinkos ministerija, remdamasi nauja ar papildoma informacija, galinčia paveikti rizikos aplinkai įvertinimą arba pakartotinį turimos informacijos įvertinimą, taip pat naujomis ar papildomomis mokslo žiniomis, turi svarbių priežasčių manyti, kad genetiškai modifikuotas organizmas, kaip atskiras produktas ar esantis kitame produkte, kurio naudojimas įteisintas Europos Sąjungoje, kelia riziką žmonių sveikatai ar aplinkai, gali priimti sprendimą laikinai apriboti arba uždrausti tokio genetiškai modifikuoto organizmo, kaip atskiro produkto ar esančio kitame produkte, naudojimą ir (arba) pardavimą Lietuvos Respublikoje. ^s-186cf5bb877331368b4fabac
@@ -394,7 +394,7 @@ Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. [[latest/TAR
 a) sutikime pagal Direktyvą 2001/18/EB;
 
 
-b) leidime pagal 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų;
+b) leidime pagal 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 1829/2003](https://eur-lex.europa.eu/eli/reg/1829/2003/oj) dėl genetiškai modifikuoto maisto ir pašarų;
 
 
 2) neteikia prašymo Europos Komisijai dėl Lietuvos Respublikos reikalavimo išbraukti iš geografinės teritorijos taikymo Lietuvos Respublikos teritoriją numatomame išduoti sutikime (leidime), kai Žemės ūkio ministerija nepritaria konkretaus genetiškai modifikuoto organizmo draudimui auginti prašymo, nurodyto [[#^s-9455c3a839dc5c227d8bfccd|šios dalies 1 punkte]], pateikimui Europos Komisijai. ^s-1aaccef9808f29dbab914888
@@ -448,10 +448,10 @@ Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. [[latest/TAR
 ### 108 straipsnis. Sutikimo (leidimo) produkto tiekimo rinkai veiklai išdavimo ribojimas, kai genetiškai modifikuotas organizmas skirtas auginimui ^s-3b05ee407f56506d59a355d3
 
 
-1. Aplinkos ministerija teikia Europos Komisijai rašytinį prašymą dėl Lietuvos Respublikos reikalavimo, nurodyto šio įstatymo [[#^s-f06ea07b178e1676996f0225|9 straipsnio 6 dalyje]], ne vėliau kaip per 45 kalendorines dienas nuo Direktyvos 2001/18/EB 14 straipsnio 2 dalyje nurodytos vertinimo ataskaitos išplatinimo arba Reglamento (EB) Nr. 1829/2003 6 straipsnio 6 dalyje ir 18 straipsnio 6 dalyje nurodytos Europos maisto saugos tarnybos nuomonės gavimo dienos. ^s-492c38602fe32faef6438416
+1. Aplinkos ministerija teikia Europos Komisijai rašytinį prašymą dėl Lietuvos Respublikos reikalavimo, nurodyto šio įstatymo [[#^s-f06ea07b178e1676996f0225|9 straipsnio 6 dalyje]], ne vėliau kaip per 45 kalendorines dienas nuo Direktyvos 2001/18/EB 14 straipsnio 2 dalyje nurodytos vertinimo ataskaitos išplatinimo arba [Reglamento (EB) Nr. 1829/2003 6 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/reg/1829/2003/art_6/par_6/oj) ir 18 straipsnio 6 dalyje nurodytos Europos maisto saugos tarnybos nuomonės gavimo dienos. ^s-492c38602fe32faef6438416
 
 
-2. Fiziniai ir juridiniai asmenys, pateikę pranešimą tiekti rinkai auginti skirtą genetiškai modifikuotą organizmą (augalą) ar atnaujinti tokio produkto tiekimą rinkai auginti, per 30 kalendorinių dienų nuo informacijos apie prašymą gavimo dienos patvirtina pradinį pranešimo produktą tiekti rinkai geografinės teritorijos taikymą arba atsižvelgia į prašymą patikslinti geografinės teritorijos taikymą ir patikslina pranešimą. Patikslintas geografinės teritorijos taikymas nurodomas rašytiniame sutikime arba leidime, kuris išduodamas pagal Direktyvą 2001/18/EB, ir prireikus priimamame sprendime, nustatytame šios direktyvos 19 straipsnyje, taip pat sprendime dėl leidimo išdavimo Reglamento (EB) Nr. 1829/2003 7 ir 19 straipsniuose nustatyta tvarka. ^s-fccc024470b076ef6f8215dd
+2. Fiziniai ir juridiniai asmenys, pateikę pranešimą tiekti rinkai auginti skirtą genetiškai modifikuotą organizmą (augalą) ar atnaujinti tokio produkto tiekimą rinkai auginti, per 30 kalendorinių dienų nuo informacijos apie prašymą gavimo dienos patvirtina pradinį pranešimo produktą tiekti rinkai geografinės teritorijos taikymą arba atsižvelgia į prašymą patikslinti geografinės teritorijos taikymą ir patikslina pranešimą. Patikslintas geografinės teritorijos taikymas nurodomas rašytiniame sutikime arba leidime, kuris išduodamas pagal Direktyvą 2001/18/EB, ir prireikus priimamame sprendime, nustatytame šios direktyvos 19 straipsnyje, taip pat sprendime dėl leidimo išdavimo [Reglamento (EB) Nr. 1829/2003](https://eur-lex.europa.eu/eli/reg/1829/2003/oj) 7 ir 19 straipsniuose nustatyta tvarka. ^s-fccc024470b076ef6f8215dd
 
 
 3. Aplinkos ministerija, pritarus Žemės ūkio ministerijai, pagal Direktyvą 2001/18/EB teikia prašymą valstybės narės kompetentingai institucijai, kuri išdavė rašytinį sutikimą produkto tiekimo rinkai veiklai, arba Europos Komisijai, jeigu leidimas produkto tiekimo rinkai veiklai išduotas pagal Reglamentą Nr. 1829/2003, kad Lietuvos Respublikos teritorija ar jos dalis būtų įtraukta į sutikimo ar leidimo geografinės teritorijos taikymą, iš kurios buvo išbraukta šiame straipsnyje nustatyta tvarka. Tokiu atveju Žemės ūkio ministerija priima priemones, laikydamasi Direktyvos 2001/18/EB 26a straipsnio 1a dalyje nustatytos tvarkos, apie kurias praneša Europos Komisijai. ^s-993892c640a7da9b95449ce9
@@ -541,10 +541,10 @@ priedas
 1. 1990 m. balandžio 23 d. Tarybos direktyva 90/219/EEB dėl riboto genetiškai modifikuotų mikroorganizmų naudojimo (OL 2004 m. specialusis leidimas, 15 skyrius, 1 tomas, p. 381 (su paskutiniais pakeitimais, padarytais 1998 m. spalio 26 d. Tarybos direktyva 98/81/EB, OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 71). ^s-52677146eb5b30360b526d55
 
 
-2. 2001 m. kovo 12 d. Europos Parlamento ir Tarybos direktyva 2001/18/EB dėl genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką ir panaikinanti Tarybos direktyvą 90/220/EEB (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 77 (su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos Reglamentu (EB) Nr. 1830/2003, OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 455). ^s-a72a150cc3359072f5143a4c
+2. 2001 m. kovo 12 d. Europos Parlamento ir Tarybos direktyva 2001/18/EB dėl genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką ir panaikinanti Tarybos direktyvą 90/220/EEB (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 77 (su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [Reglamentu (EB) Nr. 1830/2003](https://eur-lex.europa.eu/eli/reg/1830/2003/oj), OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 455). ^s-a72a150cc3359072f5143a4c
 
 
-3. 2015 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/412, kuria iš dalies keičiamos Direktyvos 2001/18/EB nuostatos dėl valstybių narių galimybės savo teritorijoje riboti ar drausti genetiškai modifikuotų organizmų (GMO) auginimą. ^s-35e80b504a4ba5ce57511947
+3. 2015 m. kovo 11 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/412](https://eur-lex.europa.eu/eli/dir/2015/412/oj), kuria iš dalies keičiamos Direktyvos 2001/18/EB nuostatos dėl valstybių narių galimybės savo teritorijoje riboti ar drausti genetiškai modifikuotų organizmų (GMO) auginimą. ^s-35e80b504a4ba5ce57511947
 Papildyta punktu:
 Nr. XIII-3261, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15885
 
@@ -572,4 +572,4 @@ Nr. X-720, 2006-06-22, Žin., 2006, Nr. 77-2967 (2006-07-14), i. k. [[latest/TAR
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3261, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15885
-Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymo Nr. IX-375 1, 2, 4, 7-2, 9, 10, [[#^s-9833d87d0ceb8a3740fbe56e|12 straipsnių]], antrojo skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 2-1 straipsniu, trečiuoju-1 ir trečiuoju-2 skirsniais įstatymas
+Lietuvos Respublikos genetiškai modifikuotų organizmų įstatymo Nr. IX-375 [[#^s-d99357932b27486de6e3c720|1]], [[#^s-ce1b481e1c8f7c88bedf4342|2]], [[#^s-278d1285d1fd62cb5703d332|4]], 7-2, [[#^s-e968b99f728698faf600d1d7|9]], [[#^s-3a47b49766b6e2f65167ef27|10]], [[#^s-9833d87d0ceb8a3740fbe56e|12]] straipsnių, antrojo skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 2-1 straipsniu, trečiuoju-1 ir trečiuoju-2 skirsniais įstatymas

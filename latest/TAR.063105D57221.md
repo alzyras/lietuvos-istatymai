@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-5614fd1626df2342302d7dfa
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. lapkričio 4 d. dekretą Nr. 1084, ratifikuoja 1951 m. Konvenciją dėl pabėgėlių statuso bei 1967 m. Protokolą dėl pabėgėlių statuso.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [1996 m. lapkričio 4 d. dekretą Nr. 1084](https://e-tar.lt/portal/lt/legalAct/TAR.85E8F49F3F08), ratifikuoja 1951 m. Konvenciją dėl pabėgėlių statuso bei 1967 m. Protokolą dėl pabėgėlių statuso.
 
 
 
@@ -49,7 +49,7 @@ ______________
 
 
 
-KONVENCIJA DĖL PABĖGĖLIŲ STATUSO
+[KONVENCIJA DĖL PABĖGĖLIŲ STATUSO](https://e-tar.lt/portal/lt/legalAct/TAR.38F4FAD0CE84)
 
 Priimta 1951 m. liepos 28 d.
 Jungtinių Tautų Organizacijos įgaliotųjų atstovų konferencijos
@@ -64,7 +64,7 @@ Generalinės Asamblėjos 429 (V) rezoliuciją
 PREAMBULĖ
 
 Aukštosios susitariančiosios šalys,
-atsižvelgdamos į tai, kad Jungtinių Tautų Organizacijos Įstatai ir Visuotinė žmogaus teisių deklaracija, Generalinės Asamblėjos priimta 1948 m. gruodžio 10 d., nustatė principą, pagal kurį visi žmonės turi naudotis pagrindinėmis teisėmis ir laisvėmis be jokios diskriminacijos,
+atsižvelgdamos į tai, kad Jungtinių Tautų Organizacijos Įstatai ir [Visuotinė žmogaus teisių deklaracija](https://e-tar.lt/portal/lt/legalAct/TAR.181EDAC3A371), Generalinės Asamblėjos priimta 1948 m. gruodžio 10 d., nustatė principą, pagal kurį visi žmonės turi naudotis pagrindinėmis teisėmis ir laisvėmis be jokios diskriminacijos,
 atsižvelgdamos į tai, kad Jungtinių Tautų Organizacija ne kartą parodė didelį susirūpinimą pabėgėliais ir dėjo visas pastangas, kad šie galėtų kuo plačiau naudotis pagrindinėmis teisėmis ir laisvėmis,
 atsižvelgdamos į tai, kad pageidautina peržiūrėti ir apjungti ankstesnius tarptautinius susitarimus dėl pabėgėlių statuso bei nauju susitarimu išplėsti jų taikymo sritį ir teikiamą apsaugą,
 atsižvelgdamos į tai, kad prieglobsčio teisės suteikimas kai kurioms šalims gali būti per sunki našta ir kad problemos, kurios tarptautinį mastą ir pobūdį pripažino Jungtinių Tautų Organizacija, negalima teigiamai išspręsti be tarptautinio bendradarbiavimo,
@@ -130,13 +130,13 @@ C. Ši Konvencija netaikoma asmeniui, atitinkančiam A skirsnio sąlygas, jeigu 
 5) daugiau nebegali atsisakyti naudotis šalies, kurios pilietis jis yra, gynyba, nes jau nėra aplinkybių, dėl kurių jis buvo pripažintas pabėgėliu. ^s-558b058bd92a854d89b9f2f9
 
 
-Šio punkto nuostatos netaikomos pabėgėliui, nurodytam šio straipsnio A skirsnio [[#^s-55bccd3af7872726bfbaf673|1 punkte]], jeigu jis turi pakankamai argumentų, susijusių su ankstesniu persekiojimu, atsisakyti naudotis šalies, kurios pilietis jis yra, gynyba;
+Šio punkto nuostatos netaikomos pabėgėliui, nurodytam šio straipsnio A skirsnio [[#^s-5dc425e9492dd2afb280e100|1 punkte]], jeigu jis turi pakankamai argumentų, susijusių su ankstesniu persekiojimu, atsisakyti naudotis šalies, kurios pilietis jis yra, gynyba;
 
 
 6) kaip pilietybės neturintis asmuo gali grįžti į šalį, kurioje anksčiau buvo jo nuolatinė gyvenamoji vieta, nes nebėra aplinkybių, dėl kurių jis buvo pripažintas pabėgėliu. ^s-c03be8a81713d4b4e303de05
 
 
-Šio punkto nuostatos netaikomos pabėgėliui, nurodytam šio straipsnio A skirsnio [[#^s-55bccd3af7872726bfbaf673|1 punkte]], jeigu jis turi pakankamai argumentų, susijusių su ankstesniu persekiojimu, atsisakyti grįžti į šalį, kurioje anksčiau buvo jo nuolatinė gyvenamoji vieta.
+Šio punkto nuostatos netaikomos pabėgėliui, nurodytam šio straipsnio A skirsnio [[#^s-5dc425e9492dd2afb280e100|1 punkte]], jeigu jis turi pakankamai argumentų, susijusių su ankstesniu persekiojimu, atsisakyti grįžti į šalį, kurioje anksčiau buvo jo nuolatinė gyvenamoji vieta.
 
 
 D. Ši Konvencija netaikoma asmenims, kurie šiuo metu naudojasi kitų Jungtinių Tautų Organizacijos institucijų ar organizacijų, išskyrus Jungtinių Tautų Organizacijos pabėgėlių reikalų vyriausiąjį komisarą, gynyba ar parama.
@@ -208,10 +208,10 @@ Jokia šios Konvencijos nuostata nevaržo bet kokių teisių ir privilegijų, Su
 3. Kiekviena Susitariančioji valstybė ir toliau teikia pabėgėliams teises ir privilegijas, į kurias jie be jokių abipusių įsipareigojimų turėjo teisę šios Konvencijos įsigaliojimo toje valstybėje dieną. ^s-9d65444dca0290dd09167fa6
 
 
-4. Susitariančiosios valstybės pritaria galimybei netaikant abipusiškumo principo suteikti pabėgėliams teises ir privilegijas, išskyrus tas, į kurias jie turi teisę pagal 2 ir [[#^s-9d65444dca0290dd09167fa6|3 dalis]], ir galimybei netaikyti abipusiškumo principo tiems pabėgėliams, kurie neatitinka 2 ir [[#^s-9d65444dca0290dd09167fa6|3 dalyse]] numatytų sąlygų. ^s-410f2be0d6dab227c5ee1c3b
+4. Susitariančiosios valstybės pritaria galimybei netaikant abipusiškumo principo suteikti pabėgėliams teises ir privilegijas, išskyrus tas, į kurias jie turi teisę pagal [[#^s-f91cef95aff3c7ba67a2a95d|2]] ir [[#^s-9d65444dca0290dd09167fa6|3]] dalis, ir galimybei netaikyti abipusiškumo principo tiems pabėgėliams, kurie neatitinka [[#^s-f91cef95aff3c7ba67a2a95d|2]] ir [[#^s-9d65444dca0290dd09167fa6|3]] dalyse numatytų sąlygų. ^s-410f2be0d6dab227c5ee1c3b
 
 
-5. Šio straipsnio 2 ir [[#^s-9d65444dca0290dd09167fa6|3 dalių]] nuostatos taikomos šios Konvencijos 13, 18, 19, 21 ir [[#^s-e6d5e6d3df4ee3fb4b5c443c|22 straipsniuose]] nurodytoms teisėms ir privilegijoms ir toms teisėms bei privilegijoms, kurios šioje Konvencijoje nenumatytos. ^s-1e2f8ec9d445e737da46a86c
+5. Šio straipsnio [[#^s-f91cef95aff3c7ba67a2a95d|2]] ir [[#^s-9d65444dca0290dd09167fa6|3]] dalių nuostatos taikomos šios Konvencijos [[#^s-3109a1f7cb611681f7b986f8|13]], [[#^s-edea43a4079dd9cbfa6cfa2d|18]], [[#^s-e89aefc3df529535a0ebaf5e|19]], [[#^s-d86357c5f47c33d86b277c95|21]] ir [[#^s-e6d5e6d3df4ee3fb4b5c443c|22]] straipsniuose nurodytoms teisėms ir privilegijoms ir toms teisėms bei privilegijoms, kurios šioje Konvencijoje nenumatytos. ^s-1e2f8ec9d445e737da46a86c
 
 
 
@@ -423,7 +423,7 @@ ADMINISTRACINĖS PRIEMONĖS
 4. Išskyrus ypatingas lengvatas, kurios teikiamos neturtingiems asmenims, už šiame straipsnyje nurodytas paslaugas gali būti imamas mokestis, tačiau jis neturi būti didelis ir turi atitikti tą, kuris už panašias paslaugas imamas iš piliečių. ^s-1dc6123bbe8dbabbf268ccf6
 
 
-5. Šio straipsnio nuostatos nepažeidžia 27 ir [[#^s-6433cdadedec9688b8667462|28 straipsnio]] nuostatų. ^s-73453a88d8ba9a6a14125ca7
+5. Šio straipsnio nuostatos nepažeidžia [[#^s-bf2776739617811a4be2c3e6|27]] ir [[#^s-6433cdadedec9688b8667462|28]] straipsnio nuostatų. ^s-73453a88d8ba9a6a14125ca7
 
 
 
@@ -609,7 +609,7 @@ c) federacinė valstybė, šios Konvencijos šalis, kurios nors kitos Susitarian
 ### 42 straipsnis. Išlygos ^s-b40b9487487558fc76756016
 
 
-1. Kiekviena valstybė, Konvenciją pasirašydama, ratifikuodama ar prie jos prisijungdama, gali daryti šios Konvencijos straipsnių, išskyrus 1, 3, [[#^s-e92b1548331e9dc7ee3b7c25|4 straipsnius]], [[#^s-4bc31ce5c499ac6531bb956e|16 straipsnio 1 dalį]], 33, 36 – [[#^s-dc2130dddf7ef301874247cf|46 straipsnius]], išlygas. ^s-c632f802ddb62bebb527c96b
+1. Kiekviena valstybė, Konvenciją pasirašydama, ratifikuodama ar prie jos prisijungdama, gali daryti šios Konvencijos straipsnių, išskyrus 1, [[#^s-fa5922e257b0e4ff971fe116|3]], [[#^s-e92b1548331e9dc7ee3b7c25|4]] straipsnius, [[#^s-4bc31ce5c499ac6531bb956e|16 straipsnio 1 dalį]], [[#^s-fb7696b9886ed13129c22b4f|33]], [[#^s-e5d78f47774dfb025205ef5c|36]] – [[#^s-dc2130dddf7ef301874247cf|46]] straipsnius, išlygas. ^s-c632f802ddb62bebb527c96b
 
 
 2. Kiekviena valstybė, daranti išlygą pagal [[#^s-c632f802ddb62bebb527c96b|šio straipsnio 1 dalį]], gali bet kuriuo metu ją atšaukti pranešdama apie tai Jungtinių Tautų Organizacijos Generaliniam Sekretoriui. ^s-09946cdadec8416578531e5a
@@ -683,7 +683,7 @@ Sudaryta Ženevoje tūkstantis devyni šimtai penkiasdešimt pirmų metų liepos
 
 
 
-PROTOKOLAS DĖL PABĖGĖLIŲ STATUSO
+[PROTOKOLAS DĖL PABĖGĖLIŲ STATUSO](https://e-tar.lt/portal/lt/legalAct/TAR.07681F98FAF1)
 
 Priimtas Ekonominei ir socialinei tarybai pritariant
 1966 m. lapkričio 18 d. 1186 (XLI) rezoliucija ir
@@ -698,7 +698,7 @@ joms galimybę prisijungti prie Protokolo
 
 
 Valstybės, šio Protokolo šalys,
-atsižvelgdamos į tai, kad Konvencija dėl pabėgėlių statuso (toliau – Konvencija), pasirašyta Ženevoje 1951 liepos 28 d., taikoma tik tiems asmenims, kurie tapo pabėgėliais dėl įvykių, buvusių iki 1951 m. sausio 1 d.,
+atsižvelgdamos į tai, kad [Konvencija dėl pabėgėlių statuso](https://e-tar.lt/portal/lt/legalAct/TAR.38F4FAD0CE84) (toliau – Konvencija), pasirašyta Ženevoje 1951 liepos 28 d., taikoma tik tiems asmenims, kurie tapo pabėgėliais dėl įvykių, buvusių iki 1951 m. sausio 1 d.,
 atsižvelgdamos į tai, kad po Konvencijos priėmimo atsirado naujų su pabėgėliais susijusių situacijų ir dėl to jiems negali būti taikoma ši Konvencija,
 atsižvelgdamos į pageidavimą, kad visi pabėgėliai, atitinkantys Konvencijoje pateiktą apibrėžimą, turėtų vienodą statusą nepaisant nurodytos datos – 1951 m. sausio 1 d.,
 
@@ -710,7 +710,7 @@ susitarė:
 I straipsnis. Bendrosios nuostatos
 
 
-1. Valstybės, šio Protokolo šalys, įsipareigoja taikyti Konvencijos 2–[[#^s-58ea38235e6ce2ba23be553a|34 straipsnius]] pabėgėliams, kurie atitinka jų apibrėžimą. ^s-75d8474d0dc6b2a86514dd66
+1. Valstybės, šio Protokolo šalys, įsipareigoja taikyti Konvencijos [[#^s-091ad6b95179e42d718b939e|2]]–[[#^s-58ea38235e6ce2ba23be553a|34]] straipsnius pabėgėliams, kurie atitinka jų apibrėžimą. ^s-75d8474d0dc6b2a86514dd66
 
 
 2. Šiame Protokole terminas „pabėgėlis“, išskyrus atvejus, kai taikoma šio straipsnio 3 dalis, reiškia kiekvieną asmenį, kuris atitinka Konvencijos 1 straipsnio apibrėžimą be žodžių „dėl įvykių, buvusių iki 1951 m. sausio 1 d.“ ir žodžių „dėl tokių įvykių“, esančių 1 straipsnio A skirsnio 2 punkte. ^s-f26435a7889e8164d9ba68da
@@ -771,7 +771,7 @@ c) federacinė valstybė, šio Protokolo šalis, kurios nors kitos valstybės, �
 VII straipsnis. Išlygos ir pareiškimai
 
 
-1. Kiekviena valstybė, prisijungdama prie šio Protokolo, gali daryti išlygas dėl Protokolo IV straipsnio ir bet kurių Konvencijos nuostatų, išskyrus 1, 3, [[#^s-e92b1548331e9dc7ee3b7c25|4 straipsnių]], [[#^s-4bc31ce5c499ac6531bb956e|16 straipsnio 1 dalies]] ir [[#^s-fb7696b9886ed13129c22b4f|33 straipsnio]] nuostatas, taikymo pagal šio Protokolo I straipsnį su sąlyga, kad valstybės, Konvencijos šalies, išlygos, padarytos pagal šį straipsnį, nebus taikomos pabėgėliams, kuriems taikoma Konvencija. ^s-38a15b0e230617d6ff7a7641
+1. Kiekviena valstybė, prisijungdama prie šio Protokolo, gali daryti išlygas dėl Protokolo IV straipsnio ir bet kurių Konvencijos nuostatų, išskyrus 1, [[#^s-fa5922e257b0e4ff971fe116|3]], [[#^s-e92b1548331e9dc7ee3b7c25|4]] straipsnių, [[#^s-4bc31ce5c499ac6531bb956e|16 straipsnio 1 dalies]] ir [[#^s-fb7696b9886ed13129c22b4f|33 straipsnio]] nuostatas, taikymo pagal šio Protokolo I straipsnį su sąlyga, kad valstybės, Konvencijos šalies, išlygos, padarytos pagal šį straipsnį, nebus taikomos pabėgėliams, kuriems taikoma Konvencija. ^s-38a15b0e230617d6ff7a7641
 
 
 2. Valstybių, Konvencijos šalių, išlygos, padarytos pagal Konvencijos [[#^s-b40b9487487558fc76756016|42 straipsnį]], jeigu jos neatšauktos, taikomos pagal šį Protokolą prisiimtiems įsipareigojimams. ^s-37c8651ef4307a0e055f1f9c
@@ -780,7 +780,7 @@ VII straipsnis. Išlygos ir pareiškimai
 3. Kiekviena valstybė, daranti išlygą pagal šio straipsnio 1 dalį, bet kuriuo metu gali ją atšaukti pranešdama apie tai Jungtinių Tautų Organizacijos Generaliniam Sekretoriui. ^s-5f0906483023974a30f73136
 
 
-4. Pareiškimai, padaryti pagal Konvencijos [[#^s-57f0c4f7e707ff70c33a4c82|40 straipsnio]] 1 ir 2 dalis valstybės, Konvencijos šalies, prisijungiančios prie šio Protokolo, laikomi taikytinais ir šiam Protokolui, jei prisijungdama valstybė, Protokolo šalis, per Jungtinių Tautų Organizacijos Generalinį Sekretorių jų neatšaukia. Konvencijos [[#^s-57f0c4f7e707ff70c33a4c82|40 straipsnio]] 2 ir 3 dalių ir [[#^s-c1fa4025ed7500f2b3bd616a|44 straipsnio 3 dalies]] nuostatos laikomos taikytinomis mutatus mutandis šiam Protokolui. ^s-521042017b5a0cebc8e4e283
+4. Pareiškimai, padaryti pagal Konvencijos [[#^s-57f0c4f7e707ff70c33a4c82|40 straipsnio]] [[#^s-bc2742f46c3e33a70046f98f|1]] ir [[#^s-e2d25ad87dd1f4a1708a22f1|2]] dalis valstybės, Konvencijos šalies, prisijungiančios prie šio Protokolo, laikomi taikytinais ir šiam Protokolui, jei prisijungdama valstybė, Protokolo šalis, per Jungtinių Tautų Organizacijos Generalinį Sekretorių jų neatšaukia. Konvencijos [[#^s-57f0c4f7e707ff70c33a4c82|40 straipsnio]] [[#^s-e2d25ad87dd1f4a1708a22f1|2]] ir [[#^s-f7d9eb8b25064aff5e5354d9|3]] dalių ir [[#^s-c1fa4025ed7500f2b3bd616a|44 straipsnio 3 dalies]] nuostatos laikomos taikytinomis mutatus mutandis šiam Protokolui. ^s-521042017b5a0cebc8e4e283
 
 
 

@@ -243,10 +243,10 @@ priedas
 
 
 
-1. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/848 dėl nemokumo bylų. ^s-27164e05f3f7e138ff1aabad
+1. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2015/848](https://eur-lex.europa.eu/eli/reg/2015/848/oj) dėl nemokumo bylų. ^s-27164e05f3f7e138ff1aabad
 
 
-2. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2121. ^s-d9902b770fcd19b4a4026e4f
+2. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2017/1132](https://eur-lex.europa.eu/eli/dir/2017/1132/oj) dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/2121](https://eur-lex.europa.eu/eli/dir/2019/2121/oj). ^s-d9902b770fcd19b4a4026e4f
 
 
 ____________________
@@ -284,4 +284,4 @@ Lietuvos Respublikos juridinių asmenų registro įstatymo Nr. IX-368 4-1 straip
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1873, 2023-04-06, paskelbta TAR 2023-04-19, i. k. 2023-07538
-Lietuvos Respublikos juridinių asmenų registro įstatymo Nr. IX-368 2, 4-1 straipsnių ir priedo pakeitimo įstatymas
+Lietuvos Respublikos juridinių asmenų registro įstatymo Nr. IX-368 [[#^s-bb9b7d7bf97aa81be5d321f0|2]], 4-1 straipsnių ir priedo pakeitimo įstatymas

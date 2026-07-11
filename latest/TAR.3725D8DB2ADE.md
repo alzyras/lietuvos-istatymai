@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo paskirtis ^s-e6dddb30f6b70ced643332ec
 
 
-Ne pelno organizacijos (įmonės), įsteigtos pagal Lietuvos Respublikos Vyriausybės 1992 m. gegužės 26 d. nutarimą Nr. 393 „Dėl ne pelno organizacijų (įmonių) įstatų pagrindinių nuostatų patvirtinimo“ (Žin., 1992, Nr. 21-628; 1995, Nr. 42-1035, Nr. 58-1454) ir Vyriausybės 1993 m. gegužės 24 d. nutarimą Nr. 354 „Dėl ne pelno organizacijų (įmonių) registravimo“ (Žin., 1993, Nr. 17-446; 1994, Nr. 78-1473), taip pat ne pelno organizacijos (įmonės), nurodytos Vyriausybės nutarimo Nr. 393 2.10 punkte, turi būti reorganizuotos į ne pelno organizacijas ar įmones, kurias nustato [[latest/TAR.FF00B0EA2F0E|Asociacijų įstatymas]] (Žin., 1996, Nr. 32-786), [[latest/TAR.D2D24C160EB1|Labdaros ir paramos fondų įstatymas]] (Žin., 1996, Nr. 32-787), [[latest/TAR.1E52802BE548|Viešųjų įstaigų įstatymas]] (1996 m. liepos 3 d. Nr. I-1428), Visuomeninių organizacijų įstatymas (Žin., 1995, Nr. 18-400) ir Įmonių įstatymo 6 straipsnis (Žin., 1990, Nr. 14-395; 1991, Nr. 13-330; 1993, Nr. 20-492, Nr. 32-729; 1995, Nr. 60-1503).
+Ne pelno organizacijos (įmonės), įsteigtos pagal Lietuvos Respublikos Vyriausybės [1992 m. gegužės 26 d. nutarimą Nr. 393](https://e-tar.lt/portal/lt/legalAct/TAR.1FFF793940FC) [„Dėl ne pelno organizacijų (įmonių) įstatų pagrindinių nuostatų patvirtinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.1FFF793940FC) (Žin., 1992, Nr. 21-628; 1995, Nr. 42-1035, Nr. 58-1454) ir Vyriausybės [1993 m. gegužės 24 d. nutarimą Nr. 354](https://e-tar.lt/portal/lt/legalAct/TAR.CF80FF295D42) [„Dėl ne pelno organizacijų (įmonių) registravimo“](https://e-tar.lt/portal/lt/legalAct/TAR.CF80FF295D42) (Žin., 1993, Nr. 17-446; 1994, Nr. 78-1473), taip pat ne pelno organizacijos (įmonės), nurodytos Vyriausybės nutarimo Nr. 393 2.10 punkte, turi būti reorganizuotos į ne pelno organizacijas ar įmones, kurias nustato [[latest/TAR.FF00B0EA2F0E|Asociacijų įstatymas]] (Žin., 1996, Nr. 32-786), [[latest/TAR.D2D24C160EB1|Labdaros ir paramos fondų įstatymas]] (Žin., 1996, Nr. 32-787), [[latest/TAR.1E52802BE548|Viešųjų įstaigų įstatymas]] (1996 m. liepos 3 d. Nr. I-1428), [Visuomeninių organizacijų įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.D65FBAE9B378) (Žin., 1995, Nr. 18-400) ir [Įmonių įstatymo 6 straipsnis](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B) (Žin., 1990, Nr. 14-395; 1991, Nr. 13-330; 1993, Nr. 20-492, Nr. 32-729; 1995, Nr. 60-1503).
 
 
 
@@ -102,13 +102,13 @@ f) reorganizavimo terminai;
 3) likviduotos ne pelno organizacijos (įmonės) dokumentai saugomi [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos archyvų įstatymo]] nustatyta tvarka; ^s-16d98675ca58cca4491bea88
 
 
-4) likviduojant ne pelno organizaciją (įmonę), jos darbuotojai atleidžiami Lietuvos Respublikos darbo sutarties įstatymo nustatyta tvarka; ^s-b183ffe1094903ac33c0c73a
+4) likviduojant ne pelno organizaciją (įmonę), jos darbuotojai atleidžiami [Lietuvos Respublikos darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) nustatyta tvarka; ^s-b183ffe1094903ac33c0c73a
 
 
 5) apie ne pelno organizacijos (įmonės) likvidavimą viešai skelbiama du kartus ne mažesniu kaip vieno mėnesio intervalu arba kiekvienam kreditoriui pranešama raštu. ^s-12782e7b642e03229198d35b
 
 
-2. Pasiūlyti Vyriausybei panaikinti, pasibaigus šio įstatymo nustatytam ne pelno organizacijų (įmonių) reorganizavimo terminui, Vyriausybės 1992 m. gegužės 26 d. nutarimą Nr. 393 „Dėl ne pelno organizacijų (įmonių) įstatų pagrindinių nuostatų patvirtinimo“ (Žin., 1992, Nr. 21-628; 1995, Nr. 42-1035, Nr. 58-1454) ir Vyriausybės 1993 m. gegužės 24 d. nutarimą Nr. 354 „Dėl ne pelno organizacijų (įmonių) registravimo“ (Žin., 1993, Nr. 17-446; 1994, Nr. 78-1473). ^s-14bc7b52a062eea83aa375d7
+2. Pasiūlyti Vyriausybei panaikinti, pasibaigus šio įstatymo nustatytam ne pelno organizacijų (įmonių) reorganizavimo terminui, Vyriausybės [1992 m. gegužės 26 d. nutarimą Nr. 393](https://e-tar.lt/portal/lt/legalAct/TAR.1FFF793940FC) [„Dėl ne pelno organizacijų (įmonių) įstatų pagrindinių nuostatų patvirtinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.1FFF793940FC) (Žin., 1992, Nr. 21-628; 1995, Nr. 42-1035, Nr. 58-1454) ir Vyriausybės [1993 m. gegužės 24 d. nutarimą Nr. 354](https://e-tar.lt/portal/lt/legalAct/TAR.CF80FF295D42) [„Dėl ne pelno organizacijų (įmonių) registravimo“](https://e-tar.lt/portal/lt/legalAct/TAR.CF80FF295D42) (Žin., 1993, Nr. 17-446; 1994, Nr. 78-1473). ^s-14bc7b52a062eea83aa375d7
 
 
 

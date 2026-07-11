@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos prekybinės laivybos įstatymo 1, 2, 4, 6, 7,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.38B0127A21E8|Lietuvos Respublikos prekybinės laivybos įstatymas]] - 2 citatos - Lietuvos Respublikos prekybinės laivybos įstatymas
-- [[latest/TAR.8FBB384266D1|Lietuvos Respublikos saugios laivybos įstatymas]] - 2 citatos - Lietuvos Respublikos saugios laivybos įstatymo
+- [[latest/TAR.38B0127A21E8|Lietuvos Respublikos prekybinės laivybos įstatymas]] - Lietuvos Respublikos prekybinės laivybos įstatymas
+- [[latest/TAR.8FBB384266D1|Lietuvos Respublikos saugios laivybos įstatymas]] - Lietuvos Respublikos saugios laivybos įstatymo
 
 ## Šį įstatymą cituoja
 

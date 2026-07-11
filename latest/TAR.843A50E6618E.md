@@ -270,7 +270,7 @@ Pakeisti [[#^s-cdd0ea396cad68f254f57fac|11 straipsnį]] ir jį išdėstyti taip:
 3) jeigu juridiniam asmeniui ar užsienio juridinio asmens filialui, jų vadovams ar kitiems darbuotojams (veikusiems juridinio asmens ar užsienio juridinio asmens filialo vardu ar dėl jų interesų) yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl bausmės skyrimo, įsiteisėjęs teismo nutarimas, nutartis, įsiteisėjęs atitinkamas muitinės, Valstybinės mokesčių inspekcijos, policijos, Valstybinės ne maisto produktų inspekcijos ar Narkotikų, tabako ir alkoholio kontrolės departamento nutarimas dėl nuobaudos skyrimo už tabako gaminių kontrabandą, falsifikuotų tabako gaminių pardavimą, laikymą ar gabenimą, tabako gaminių pardavimą, laikymą ar gabenimą be tabako gaminių įsigijimą patvirtinančių juridinę galią turinčių dokumentų, taip pat už tabako gaminių be specialių ženklų – banderolių neteisėtą laikymą, gabenimą ar pardavimą; ^s-779ded91845fab73a70c1142
 
 
-4) šio Įstatymo 26 straipsnio 5 ir [[#^s-37c116dbc1582bbc6e841ae9|7 dalyse]] nustatytais pagrindais; ^s-cef9a43662007a568d794af3
+4) šio Įstatymo 26 straipsnio 5 ir 7 dalyse nustatytais pagrindais; ^s-cef9a43662007a568d794af3
 
 
 5) jeigu juridinis asmuo ar užsienio juridinio asmens filialas, kuris buvo įspėtas apie galimą licencijos galiojimo panaikinimą ar kuriam buvo sustabdytas licencijos galiojimas per licenciją išdavusios institucijos nustatytą terminą, kuris negali būti ilgesnis negu 30 dienų, nepašalino nurodytų pažeidimų ir apie jų pašalinimą nepranešė licenciją išdavusiai institucijai. ^s-b45fb997a0eea6967b1ac95e
@@ -282,7 +282,7 @@ Pakeisti [[#^s-cdd0ea396cad68f254f57fac|11 straipsnį]] ir jį išdėstyti taip:
 15. Už licencijų verstis šio Įstatymo [[#^s-0377b45606342ea98707feda|10 straipsnio 1 dalyje]] nurodytų rūšių veikla išdavimą, patikslinimą ir dublikato išdavimą imama valstybės rinkliava [[latest/TAR.41CD8BF53D8D|Lietuvos Respublikos rinkliavų įstatymo]] ir Lietuvos Respublikos Vyriausybės nustatyta tvarka. ^s-c3d9af91b8482f39ae59151d
 
 
-16. Šio straipsnio 6, 7, 8, 10, 11, 12 ir [[#^s-23c4a641438a964a75104bb1|13 dalyse]] nustatyti licencijų išdavimo, sustabdymo, panaikinimo, įspėjimo apie galimą licencijos galiojimo sustabdymą atvejai ir tvarka taikomi ir ūkininkams, norintiems gauti ar turintiems licencijas verstis tabako auginimu.“ ^s-e2b86cd03795d13280607f61
+16. Šio straipsnio [[#^s-906fbcb9d44f953d2f322e2d|6]], [[#^s-37c116dbc1582bbc6e841ae9|7]], [[#^s-e48a63e917eb0b944f9b8063|8]], [[#^s-e537848dd5fa4095287e5db4|10]], [[#^s-082b7de5409935a6dcb2abfe|11]], [[#^s-cfd54ff4172fddea82870a08|12]] ir [[#^s-23c4a641438a964a75104bb1|13]] dalyse nustatyti licencijų išdavimo, sustabdymo, panaikinimo, įspėjimo apie galimą licencijos galiojimo sustabdymą atvejai ir tvarka taikomi ir ūkininkams, norintiems gauti ar turintiems licencijas verstis tabako auginimu.“ ^s-e2b86cd03795d13280607f61
 
 
 
@@ -415,7 +415,7 @@ Pakeisti [[#^s-e4a46b35311fb0e4f726e25a|17 straipsnį]] ir jį išdėstyti taip:
 4. Tabako gaminių prekybos vietose, išskyrus patalpas, kuriose vyksta didmeninė prekyba tabako gaminiais, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka taip pat privalo būti pateikta informacija (įspėjimai) apie kenksmingą tabako gaminių vartojimo poveikį sveikatai ir apie draudimą parduoti tabako gaminius asmenims iki 18 metų. ^s-a2afc7ef0f8953ea427f7614
 
 
-5. [[#^s-48cd4510c17023740d4ac233|Šio straipsnio 3 dalyje]] nurodytą informaciją leidžiama pateikti tik kartu su išdėstytais tabako gaminiais. Ji negali būti pateikiama lankstinukuose, skrajutėse ir kitokiomis reklamos priemonėmis, skirtomis vartotojams išsinešti; be to, tabako gaminių prekybos vietose draudžiama pateikti tabako gaminių ar jų pakuočių imitacijas ir atvaizdus. Tabako gaminių prekybos vietose apie tabako gaminius negali būti pateikiama jokia kita šio straipsnio 3 ir [[#^s-a2afc7ef0f8953ea427f7614|4 dalyse]] nenustatyta vaizdinė ar grafinė informacija.“ ^s-eb41b7d0f19bcb20124d93ee
+5. [[#^s-48cd4510c17023740d4ac233|Šio straipsnio 3 dalyje]] nurodytą informaciją leidžiama pateikti tik kartu su išdėstytais tabako gaminiais. Ji negali būti pateikiama lankstinukuose, skrajutėse ir kitokiomis reklamos priemonėmis, skirtomis vartotojams išsinešti; be to, tabako gaminių prekybos vietose draudžiama pateikti tabako gaminių ar jų pakuočių imitacijas ir atvaizdus. Tabako gaminių prekybos vietose apie tabako gaminius negali būti pateikiama jokia kita šio straipsnio [[#^s-48cd4510c17023740d4ac233|3]] ir [[#^s-a2afc7ef0f8953ea427f7614|4]] dalyse nenustatyta vaizdinė ar grafinė informacija.“ ^s-eb41b7d0f19bcb20124d93ee
 
 
 
@@ -458,7 +458,7 @@ už [[latest/TAR.F8090E375DA0|tabako kontrolės įstatymo]] pažeidimus“.
 „1. Veiklos, susijusios su tabako gaminiais, priežiūrą, vadovaudamiesi [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymo]] nuostatomis, pagal kompetenciją vykdo Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė ne maisto produktų inspekcija, savivaldybių vykdomosios institucijos, Valstybinė mokesčių inspekcija, muitinė, policija, kitos valstybinės priežiūros ir teisėsaugos institucijos.“
 
 
-3. Buvusias 25 straipsnio 1, 2 ir [[#^s-e09146ace2dcc75ba2b0f236|3 dalis]] laikyti atitinkamai 2, 3 ir 4 dalimis. ^s-e09146ace2dcc75ba2b0f236
+3. Buvusias 25 straipsnio 1, 2 ir 3 dalis laikyti atitinkamai 2, 3 ir 4 dalimis. ^s-e09146ace2dcc75ba2b0f236
 
 
 
@@ -489,7 +489,7 @@ už [[latest/TAR.F8090E375DA0|tabako kontrolės įstatymo]] pažeidimus“.
 „13. Už šio Įstatymo nuostatų pažeidimus baudas skiria:
 
 
-1) Narkotikų, tabako ir alkoholio kontrolės departamentas – už [[#^s-586a6b5e02e97b0b3caf4876|9 straipsnio 1 dalies]], [[#^s-0377b45606342ea98707feda|10 straipsnio 1 dalies]], [[#^s-aac99e668fe3d512c5bb096a|12 straipsnio]] 1, 3, 4, 5 ir 7 dalių, [[#^s-48ac7b1821e3bfcf0f7f51bf|13 straipsnio]], [[#^s-d8a4265d772fe141f04dc158|14 straipsnio 1 dalies]], [[#^s-e09146ace2dcc75ba2b0f236|14 straipsnio 3 dalies]] 1, 2, 3, 4, 6 ir 8 punktų, 14 straipsnio 5 dalies, 15 ir [[#^s-b0d3c5a2a9a547b40a6be8db|16 straipsnių]], [[#^s-e4a46b35311fb0e4f726e25a|17 straipsnio]] 1, 4 ir [[#^s-2e6f80c8b5870e92211db932|5 dalių]], 18 straipsnio, 19 straipsnio 1 dalies 5 punkto nuostatų pažeidimus; ^s-bd01d65d8380e54e32d5b91c
+1) Narkotikų, tabako ir alkoholio kontrolės departamentas – už [[#^s-586a6b5e02e97b0b3caf4876|9 straipsnio 1 dalies]], [[#^s-0377b45606342ea98707feda|10 straipsnio 1 dalies]], [[#^s-aac99e668fe3d512c5bb096a|12 straipsnio]] 1, 3, 4, 5 ir 7 dalių, [[#^s-48ac7b1821e3bfcf0f7f51bf|13 straipsnio]], [[#^s-d8a4265d772fe141f04dc158|14 straipsnio 1 dalies]], [[#^s-e09146ace2dcc75ba2b0f236|14 straipsnio 3 dalies]] 1, 2, 3, 4, 6 ir 8 punktų, 14 straipsnio 5 dalies, [[#^s-82eef6b04323279791ed5f5e|15]] ir [[#^s-b0d3c5a2a9a547b40a6be8db|16]] straipsnių, [[#^s-e4a46b35311fb0e4f726e25a|17 straipsnio]] 1, 4 ir 5 dalių, 18 straipsnio, 19 straipsnio 1 dalies 5 punkto nuostatų pažeidimus; ^s-bd01d65d8380e54e32d5b91c
 
 
 2) Valstybinė ne maisto produktų inspekcija – už [[#^s-0377b45606342ea98707feda|10 straipsnio 1 dalies]], [[#^s-48ac7b1821e3bfcf0f7f51bf|13 straipsnio]], [[#^s-d8a4265d772fe141f04dc158|14 straipsnio 1 dalies]], 3 dalies 1–8 punktų, [[#^s-2e6f80c8b5870e92211db932|5 dalies]] 1 ir 2 punktų, 18 straipsnio 1 dalies 8 ir 9 punktų nuostatų pažeidimus; ^s-0f8af98da82da011a61e12a4
@@ -498,7 +498,7 @@ už [[latest/TAR.F8090E375DA0|tabako kontrolės įstatymo]] pažeidimus“.
 3) Valstybinė mokesčių inspekcija – už [[#^s-e09146ace2dcc75ba2b0f236|14 straipsnio 3 dalies]] 1, 4 ir 8 punktų nuostatų pažeidimus; ^s-d8d4772f70f5666e0d755b12
 
 
-4) savivaldybių vykdomosios institucijos – už [[#^s-0377b45606342ea98707feda|10 straipsnio 1 dalyje]] ir [[#^s-d8a4265d772fe141f04dc158|14 straipsnio 1 dalyje]] nustatytų reikalavimų pažeidimus mažmeninės prekybos vietose, taip pat už 15 ir [[#^s-b0d3c5a2a9a547b40a6be8db|16 straipsnių]], 17 straipsnio 1 dalies (išorinės reklamos priemonėse), 4 ir [[#^s-2e6f80c8b5870e92211db932|5 dalių]], 18 straipsnio 1 dalies nuostatų pažeidimus; ^s-6fbe6f4c7d9ee90368ca2a60
+4) savivaldybių vykdomosios institucijos – už [[#^s-0377b45606342ea98707feda|10 straipsnio 1 dalyje]] ir [[#^s-d8a4265d772fe141f04dc158|14 straipsnio 1 dalyje]] nustatytų reikalavimų pažeidimus mažmeninės prekybos vietose, taip pat už [[#^s-82eef6b04323279791ed5f5e|15]] ir [[#^s-b0d3c5a2a9a547b40a6be8db|16]] straipsnių, 17 straipsnio 1 dalies (išorinės reklamos priemonėse), 4 ir 5 dalių, 18 straipsnio 1 dalies nuostatų pažeidimus; ^s-6fbe6f4c7d9ee90368ca2a60
 
 
 5) policijos įstaigų vadovai ar jų įgalioti asmenys – už [[#^s-e09146ace2dcc75ba2b0f236|14 straipsnio 3 dalies]] 1, 2, 3 ir 8 punktų nuostatų pažeidimus; ^s-52edb796231ad11f3b635019

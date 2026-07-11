@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-69c8bc66709224edddcf6a9c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. spalio 31 d. dekretą Nr. 1529, ratifikuoja 1972 metų Muitinės konvenciją dėl konteinerių, pasirašytą 1972 m. gruodžio 2 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. spalio 31 d. dekretą Nr. 1529](https://e-tar.lt/portal/lt/legalAct/TAR.95EC915D2A1B), ratifikuoja 1972 metų Muitinės konvenciją dėl konteinerių, pasirašytą 1972 m. gruodžio 2 d. Ženevoje.
 
 
 

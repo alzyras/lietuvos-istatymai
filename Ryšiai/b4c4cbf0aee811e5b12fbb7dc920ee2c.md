@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos informuotiesiems investuotojams skirtų kolek
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.1EABAD7265D5#^s-2f3d77105e8314f66ee5cff7|Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymas]] - 39 straipsnio 2 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.1EABAD7265D5#^s-038e80b9a3de3c6be72a7f31|Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymas]] - Įstatymas Nr. XII-2216
-- [[latest/TAR.1EABAD7265D5#^s-d251ddb4c77428a8a9d0db89|Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymas]] - Įstatymas Nr. XII-2216
+_Nėra._

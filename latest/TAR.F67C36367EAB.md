@@ -34,19 +34,19 @@ LIETUVOS RESPUBLIKOS
 1994 m. lapkričio 10 d. Nr. I-654
 Vilnius
 
-DĖL LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL LIETUVOS RESPUBLIKOS BAUDŽIAMOJO, PATAISOS DARBŲ IR BAUDŽIAMOJO PROCESO KODEKSŲ PAKEITIMO IR PAPILDYMO“ NR. I-551, PRIIMTO 1994 M. LIEPOS 19 D., ĮSIGALIOJIMO TVARKOS
+DĖL LIETUVOS RESPUBLIKOS ĮSTATYMO [„DĖL LIETUVOS RESPUBLIKOS BAUDŽIAMOJO, PATAISOS DARBŲ IR BAUDŽIAMOJO PROCESO KODEKSŲ PAKEITIMO IR PAPILDYMO“](https://e-tar.lt/portal/lt/legalAct/TAR.F5484FCE932D) NR. I-551, PRIIMTO 1994 M. LIEPOS 19 D., ĮSIGALIOJIMO TVARKOS
 
 
 
 
-1. Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo“ (Žin., 1994, Nr. 60-1182) IV dalies 2 straipsnyje numatyti pakeitimai ir papildymai įsigalioja nuo 1995 m. sausio 1 dienos.
+1. Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.F5484FCE932D) (Žin., 1994, Nr. 60-1182) IV dalies 2 straipsnyje numatyti pakeitimai ir papildymai įsigalioja nuo 1995 m. sausio 1 dienos.
 Baudžiamosios bylos, perduotos apylinkių teismams iki 1994 m. gruodžio 31 d., išnagrinėjamos apylinkės teismuose, neatsižvelgiant į naujas šių bylų teismingumo taisykles.
 
 
 2. Baudžiamosiose bylose dėl nusikaltimų, padarytų iki 1995 m. sausio 1 d., nusikalstamos veikos perkvalifikuojamos pagal šio įstatymo 3 straipsnio ir Lietuvos Respublikos baudžiamojo kodekso 7 straipsnio reikalavimus, vadovaujantis [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] ir šiomis taisyklėmis:
 
 
-a) jei byloje vyksta parengtinis tardymas ir jau pareikštas kaltinimas, tai veiką perkvalifikuoja tardytojas, priimdamas naują nutarimą Baudžiamojo proceso kodekso 174 straipsnio pirmojoje dalyje nustatyta tvarka. Tokio nutarimo priėmimas ir kaltinamojo supažindinimas su juo turi būti atliktas iki 1995 m. vasario 1 dienos;
+a) jei byloje vyksta parengtinis tardymas ir jau pareikštas kaltinimas, tai veiką perkvalifikuoja tardytojas, priimdamas naują nutarimą [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso 174 straipsnio]] pirmojoje dalyje nustatyta tvarka. Tokio nutarimo priėmimas ir kaltinamojo supažindinimas su juo turi būti atliktas iki 1995 m. vasario 1 dienos;
 
 
 b) jei byla su kaltinamąja išvada perduota prokurorui, tai veiką perkvalifikuoja prokuroras, vadovaudamasis [[latest/TAR.EC588C321777#^s-0dfcc19aef390c9364a701ef|Baudžiamojo proceso kodekso 240 straipsniu]];
@@ -109,7 +109,7 @@ Baudžiamosios bylos, iškeltos pagal šiuos straipsnius, nutraukiamos.
 
 19. Neteko galios nuo 1994-12-14
 Punkto naikinimas:
-Nr. I-686, 1994-12-08, Žin. 1994, Nr. 96-1879 (1994-12-14), i. k. 0941010ISTA000I-686
+Nr. I-686, 1994-12-08, Žin. 1994, Nr. 96-1879 (1994-12-14), i. k. [0941010ISTA000I-686](https://e-tar.lt/portal/lt/legalAct/TAR.3283CB780B4D)
 
 
 
@@ -171,5 +171,5 @@ Pakeitimai:
 
 1.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. I-686, 1994-12-08, Žin., 1994, Nr. 96-1879 (1994-12-14), i. k. 0941010ISTA000I-686
-Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo" (Nr. I-551) ir Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo" Nr. I-551, priimto 1994 m. liepos 19 d., įsigaliojimo tvarkos" pakeitimo
+Nr. I-686, 1994-12-08, Žin., 1994, Nr. 96-1879 (1994-12-14), i. k. [0941010ISTA000I-686](https://e-tar.lt/portal/lt/legalAct/TAR.3283CB780B4D)
+Dėl Lietuvos Respublikos įstatymo ["Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo"](https://e-tar.lt/portal/lt/legalAct/TAR.F5484FCE932D) (Nr. I-551) ir Lietuvos Respublikos įstatymo ["Dėl Lietuvos Respublikos baudžiamojo, Pataisos darbų ir Baudžiamojo proceso kodeksų pakeitimo ir papildymo"](https://e-tar.lt/portal/lt/legalAct/TAR.F5484FCE932D) Nr. I-551, priimto 1994 m. liepos 19 d., įsigaliojimo tvarkos" pakeitimo

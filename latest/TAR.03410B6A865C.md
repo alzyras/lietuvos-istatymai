@@ -67,7 +67,7 @@ SSRS okupacijos žalos Lietuvai laikotarpiai:
 Lietuvos Respublikos Vyriausybė:
 
 
-1) iki 2000 m. rugsėjo 1 d. sudaro Lietuvos Respublikos derybų su Rusijos Federacija delegaciją dėl SSRS okupacijos žalos atlyginimo Lietuvos Respublikai; ^s-ae8caab592c4332ec7ffd335
+1) iki 2000 m. rugsėjo 1 d. sudaro Lietuvos Respublikos derybų su Rusijos Federacija delegaciją [dėl SSRS okupacijos žalos atlyginimo](https://e-tar.lt/portal/lt/legalAct/TAR.F9F3169F963E) Lietuvos Respublikai; ^s-ae8caab592c4332ec7ffd335
 
 
 2) iki 2000 m. spalio 1 d. pagal darbų programą, patvirtintą 1996 m. vasario 13 d. Vyriausybės nutarimu „Dėl žalos, padarytos Lietuvos Respublikai 1940–1991 metais buvusios SSRS ir 1991–1993 metais – Rusijos Federacijos kariuomenės, nustatymo darbų programos“ Nr. 242, patikslina ir užbaigia SSRS okupacijos padarytos žalos skaičiavimus, įtraukiant išmokėjimus Lietuvos piliečiams už SSRS okupacijos metu padarytą žalą ir jos pasekmes, taip pat deportuotų asmenų ir jų palikuonių grįžimo į Tėvynę išlaidas; ^s-28ec8c423d3a0f800bb9c388

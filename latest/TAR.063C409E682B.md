@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-5392d6bd1da6a15f1ed56fa7
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. birželio 26 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Ukrainos Vyriausybės susitarimą dėl prekybinės jūrų laivininkystės“, ratifikuoja 1996 m. balandžio 4 d. Kijeve pasirašytą Lietuvos Respublikos Vyriausybės ir Ukrainos Vyriausybės susitarimą dėl prekybinės jūrų laivininkystės.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. birželio 26 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Ukrainos Vyriausybės susitarimą dėl prekybinės jūrų laivininkystės“](https://e-tar.lt/portal/lt/legalAct/TAR.1A8F7C821971), ratifikuoja 1996 m. balandžio 4 d. Kijeve pasirašytą Lietuvos Respublikos Vyriausybės ir Ukrainos Vyriausybės susitarimą dėl prekybinės jūrų laivininkystės.
 
 
 

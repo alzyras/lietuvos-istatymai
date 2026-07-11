@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-a509acc99bf8684db69957c8
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. rugsėjo 4 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimą dėl Baltijos karinės jūrų eskadros įkūrimo“, ratifikuoja Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimą dėl Baltijos karinės jūrų eskadros įkūrimo, pasirašytą 1998 m. balandžio 16 d. Rygoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. rugsėjo 4 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimą dėl Baltijos karinės jūrų eskadros įkūrimo“](https://e-tar.lt/portal/lt/legalAct/TAR.FF600C7B635D), ratifikuoja Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimą dėl Baltijos karinės jūrų eskadros įkūrimo, pasirašytą 1998 m. balandžio 16 d. Rygoje.
 
 
 

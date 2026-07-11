@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-4fa391c6f2c03b0257dca645
 
 
-2 straipsnio 1 dalyje vietoj žodžių „administracinius įgalinimus“ įrašyti žodžius „administravimo įgaliojimus“, [[#^s-0a9685b86e7264da4c182762|2 dalį]] pripažinti netekusia galios, buvusias 3, 4, 5, 6, 7, 8 dalis laikyti atitinkamai 2, 3, 4, 5, 6, [[#^s-ac5ace9994f536c3377362b3|7 dalimis]] ir šį straipsnį išdėstyti taip:
+2 straipsnio 1 dalyje vietoj žodžių „administracinius įgalinimus“ įrašyti žodžius „administravimo įgaliojimus“, [[#^s-0a9685b86e7264da4c182762|2 dalį]] pripažinti netekusia galios, buvusias [[#^s-3b74bcff5c454d4fa45dc8ff|3]], [[#^s-826ac8a3318a67d39068a63e|4]], [[#^s-8d000c485bea65f2f5ff9159|5]], [[#^s-ef77945fde33c2be4f0ea994|6]], [[#^s-ac5ace9994f536c3377362b3|7]], 8 dalis laikyti atitinkamai [[#^s-0a9685b86e7264da4c182762|2]], [[#^s-3b74bcff5c454d4fa45dc8ff|3]], [[#^s-826ac8a3318a67d39068a63e|4]], [[#^s-8d000c485bea65f2f5ff9159|5]], [[#^s-ef77945fde33c2be4f0ea994|6]], [[#^s-ac5ace9994f536c3377362b3|7]] dalimis ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-8103a578f33077ce1ed1ebd8|2 straipsnis]]. Pagrindinės šio įstatymo sąvokos
@@ -95,7 +95,7 @@ Pakeisti [[#^s-92f7dc8e7fea3738028e3eac|5 straipsnį]] ir jį išdėstyti taip:
 2. Paaiškėjus naujoms aplinkybėms, deklaracija pateikiama nedelsiant po šių aplinkybių paaiškėjimo. ^s-2e536e4da18fdac494389d87
 
 
-3. Šio straipsnio 1 ir [[#^s-2e536e4da18fdac494389d87|2 dalyse]] nurodytos deklaracijos pateikiamos valstybės ar savivaldybės institucijos, kurioje dirba asmuo, vadovui ar jo įgaliotam atstovui. ^s-bf38e7c063976ca4ccef66e8
+3. Šio straipsnio [[#^s-2d80098fd9de2253f477a70a|1]] ir [[#^s-2e536e4da18fdac494389d87|2]] dalyse nurodytos deklaracijos pateikiamos valstybės ar savivaldybės institucijos, kurioje dirba asmuo, vadovui ar jo įgaliotam atstovui. ^s-bf38e7c063976ca4ccef66e8
 
 
 4. Nurodytos deklaracijos gali būti pateikiamos ne tik atitinkamoms institucijoms, bet ir kitiems struktūriniams padaliniams, jeigu tai numato tokios institucijos veiklos tvarką nustatantis įstatymas. ^s-f69213b6c56cac7699683f7f

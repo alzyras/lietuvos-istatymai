@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijų ratifikavimas ^s-b5b407545cb1e987ac0fb1c0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. sausio 20 d. dekretą Nr. 2031, ratifikuoja Konvenciją dėl nepriimtino vaikų darbo uždraudimo ir neatidėliotinų veiksmų tokiam darbui panaikinti, priimtą 1999 m. birželio 17 d. Ženevoje, ir Konvenciją dėl 1952 m. Motinystės apsaugos konvencijos (su pakeitimais) pakeitimo, priimtą 2000 m. birželio 15 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. sausio 20 d. dekretą Nr. 2031](https://e-tar.lt/portal/lt/legalAct/TAR.8E014F313760), ratifikuoja Konvenciją dėl nepriimtino vaikų darbo uždraudimo ir neatidėliotinų veiksmų tokiam darbui panaikinti, priimtą 1999 m. birželio 17 d. Ženevoje, ir Konvenciją dėl 1952 m. Motinystės apsaugos konvencijos (su pakeitimais) pakeitimo, priimtą 2000 m. birželio 15 d. Ženevoje.
 
 
 

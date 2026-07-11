@@ -38,10 +38,10 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-71c19f1a2edf948f047f05aa
 
 
-Pakeisti 2 straipsnio 24 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.2C94E75C224B#^s-418065917b41593e1d55a1b8|2 straipsnio 24 dalį]] ir ją išdėstyti taip:
 
 
-„24. Priežiūros institucija – Lietuvos Respublikos ir (arba) kitų valstybių narių kredito įstaigas, draudimo įmones, perdraudimo įmones, finansų maklerio įmones, kolektyvinio investavimo subjektų valdymo įmones ir profesionaliesiems investuotojams skirtų kolektyvinių investavimo subjektų valdymo įmones prižiūrinti institucija. Lietuvos Respublikos priežiūros institucija yra Lietuvos bankas arba Europos centrinis bankas, atsižvelgiant į 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63), nuostatas.“
+„24. Priežiūros institucija – Lietuvos Respublikos ir (arba) kitų valstybių narių kredito įstaigas, draudimo įmones, perdraudimo įmones, finansų maklerio įmones, kolektyvinio investavimo subjektų valdymo įmones ir profesionaliesiems investuotojams skirtų kolektyvinių investavimo subjektų valdymo įmones prižiūrinti institucija. Lietuvos Respublikos priežiūros institucija yra Lietuvos bankas arba Europos centrinis bankas, atsižvelgiant į 2013 m. spalio 15 d. Tarybos [reglamento (ES) Nr. 1024/2013](https://eur-lex.europa.eu/eli/reg/1024/2013/oj), kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika (OL 2013 L 287, p. 63), nuostatas.“
 
 
 

@@ -277,7 +277,7 @@ BENDROSIOS NUOSTATOS
 6) sustabdyti arba uždrausti neteisėtą ūkinę veiklą miško valdoje, jeigu šia veikla pažeidžiamas šis įstatymas, kitų teisės aktų reikalavimai ir daroma žala miškui; ^s-966759693c5e7a29f1ee87d9
 
 
-7) įstatymų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus, skirti administracines nuobaudas už šio įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Administracinių teisės pažeidimų kodekse; ^s-f3d17927609c49f13a3fc7f2
+7) įstatymų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus, skirti administracines nuobaudas už šio įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492); ^s-f3d17927609c49f13a3fc7f2
 
 
 8) Ginklų ir šaudmenų kontrolės bei kitų įstatymų nustatyta tvarka saugoti, nešioti ir šio įstatymo [[#^s-f44813939234a64e3d4f83fe|6 straipsnio 2 dalyje]] nurodytais atvejais naudoti šaunamąjį ginklą bei specialiąsias priemones. Jeigu atsisakoma vykdyti teisėtus pareigūno reikalavimus, pareigūnas turi teisę panaudoti prievartą, tačiau tik tiek, kiek to reikia tarnybinei pareigai įvykdyti, ir tik po to, kai visos įmanomos įtikinimo ar kitos priemonės nebuvo veiksmingos; ^s-6eb8d3862d2aec586d999197

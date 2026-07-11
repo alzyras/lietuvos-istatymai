@@ -42,7 +42,7 @@ Vilnius
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-“2. Iki 2000-ųjų metų Lietuvos Aukščiausiojo Teismo teisėjais gali būti skiriami apygardų teismų teisėjai bei Lietuvos apeliacinio teismo teisėjai ir neturintys Lietuvos Respublikos teismų įstatymo 24 straipsnio 1 dalies 1 punkte nustatyto apygardos ar Apeliacinio teismo teisėjo darbo stažo.”
+“2. Iki 2000-ųjų metų Lietuvos Aukščiausiojo Teismo teisėjais gali būti skiriami apygardų teismų teisėjai bei Lietuvos apeliacinio teismo teisėjai ir neturintys [[latest/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymo 24 straipsnio 1 dalies 1 punkte]] nustatyto apygardos ar Apeliacinio teismo teisėjo darbo stažo.”
 
 
 

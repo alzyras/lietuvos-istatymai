@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-31a88114ec1a8a18f733fa2c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. sausio 13 d. dekretą Nr. 496, ratifikuoja 2005 m. balandžio 14 d. Liuksemburge priimtą Konvenciją dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos prisijungimo prie Konvencijos dėl sutartinėms prievolėms taikytinos teisės, pateiktos pasirašyti 1980 m. birželio 19 d. Romoje, ir prie Pirmojo ir Antrojo protokolų dėl Europos Bendrijų Teisingumo Teismo įgaliojimų aiškinti šią konvenciją.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. sausio 13 d. dekretą Nr. 496](https://e-tar.lt/portal/lt/legalAct/TAR.1F6F23801A79), ratifikuoja 2005 m. balandžio 14 d. Liuksemburge priimtą Konvenciją dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos prisijungimo prie Konvencijos dėl sutartinėms prievolėms taikytinos teisės, pateiktos pasirašyti 1980 m. birželio 19 d. Romoje, ir prie Pirmojo ir Antrojo protokolų dėl Europos Bendrijų Teisingumo Teismo įgaliojimų aiškinti šią konvenciją.
 
 
 

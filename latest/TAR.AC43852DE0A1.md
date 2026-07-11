@@ -72,7 +72,7 @@ Vilnius
 ### 2 straipsnis. 12 straipsnio 2 ir 3 dalių pakeitimas ^s-335926427005fb725c156f15
 
 
-12 straipsnio 2 ir [[#^s-b68786fa731e55f2b17fdd32|3 dalyse]] vietoj žodžių „apskričių valdytojų“ įrašyti žodžius „apskričių viršininkų“ ir šias dalis išdėstyti taip:
+12 straipsnio 2 ir 3 dalyse vietoj žodžių „apskričių valdytojų“ įrašyti žodžius „apskričių viršininkų“ ir šias dalis išdėstyti taip:
 
 
 „2. Vyriausybė mobilizacinėse užduotyse nustato ministerijų, Vyriausybės įstaigų, savivaldybių bei apskričių viršininkų kompetenciją sudarant mobilizacinius planus, šių planų sudarymo ir įgyvendinimo tvarką.

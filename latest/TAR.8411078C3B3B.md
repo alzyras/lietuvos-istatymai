@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-a6d1c797d8e94b5537b973d3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. liepos 7 d. dekretą Nr. 141, ratifikuoja 1998 m. vasario 2 d. Helsinkyje priimtą Danijos Karalystės, Estijos Respublikos, Latvijos Respublikos, Lenkijos Respublikos, Lietuvos Respublikos, Rusijos Federacijos, Suomijos Respublikos, Švedijos Karalystės, Vokietijos Federacinės Respublikos Vyriausybių susitarimą dėl Baltijos jūros baseino jūrinės aplinkos apsaugos komisijos privilegijų ir imunitetų.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas [2004 m. liepos 7 d. dekretą Nr. 141](https://e-tar.lt/portal/lt/legalAct/TAR.8AC9D5B7C2D0), ratifikuoja 1998 m. vasario 2 d. Helsinkyje priimtą Danijos Karalystės, Estijos Respublikos, Latvijos Respublikos, Lenkijos Respublikos, Lietuvos Respublikos, Rusijos Federacijos, Suomijos Respublikos, Švedijos Karalystės, Vokietijos Federacinės Respublikos Vyriausybių susitarimą dėl Baltijos jūros baseino jūrinės aplinkos apsaugos komisijos privilegijų ir imunitetų.
 
 
 

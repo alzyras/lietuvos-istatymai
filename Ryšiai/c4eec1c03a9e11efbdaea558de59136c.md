@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos bausmių vykdymo kodekso 3, 6 straipsnių, XI
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 4 citatos - Mokesčių administravimo įstatymo
+- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - Mokesčių administravimo įstatymo
 
 ## Šį įstatymą cituoja
 

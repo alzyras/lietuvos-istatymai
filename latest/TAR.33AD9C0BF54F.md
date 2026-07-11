@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-daf689d1bafdbffb76911f24
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2001 m. birželio 11 d. dekretą Nr. 1355, ratifikuoja 1971 m. gegužės 4 d. sudarytą Konvenciją dėl eismo įvykiams taikytinos teisės.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2001 m. birželio 11 d. dekretą Nr. 1355](https://e-tar.lt/portal/lt/legalAct/TAR.90940465A0DB), ratifikuoja 1971 m. gegužės 4 d. sudarytą Konvenciją dėl eismo įvykiams taikytinos teisės.
 
 
 

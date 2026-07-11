@@ -113,7 +113,7 @@ NACIONALINĖS REGIONINĖS POLITIKOS TIKSLAS, UŽDAVINIAI IR ĮGYVENDINIMO PRIEMO
 ### 4 straipsnis. Nacionalinės regioninės politikos įgyvendinimo priemonės ^s-f6c6fb349f8db8ac4d37c4ab
 
 
-1. Įgyvendinant nacionalinę regioninę politiką, gali būti teikiama valstybės pagalba vadovaujantis Lietuvos Respublikos valstybės pagalbos ūkio subjektams kontrolės įstatymu. ^s-58a56623bd2935c8bbe36b9f
+1. Įgyvendinant nacionalinę regioninę politiką, gali būti teikiama valstybės pagalba vadovaujantis [Lietuvos Respublikos valstybės pagalbos ūkio subjektams kontrolės įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.9066FF2551F8). ^s-58a56623bd2935c8bbe36b9f
 
 
 2. Nacionalinė regioninė politika įgyvendinama per valstybės viešąją politiką, pirmiausia per verslo, žmogiškųjų išteklių ir infrastruktūros plėtrą. Ji yra sudedamoji valstybės viešosios politikos dalis. ^s-8442ca4bc595c224da3856cb

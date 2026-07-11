@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimų ratifikavimas ^s-6f00b269439a3c44486332f9
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. gegužės  6  d. dekretą Nr. 290, ratifikuoja Susitarimą dėl taupymo pajamų apmokestinimo tarp Lietuvos Respublikos ir Džersio, Susitarimą dėl taupymo pajamų apmokestinimo tarp Lietuvos Respublikos ir Gernsio ir Susitarimą dėl taupymo pajamų apmokestinimo tarp Lietuvos Respublikos ir Meno salos, sudarytus pasikeičiant laiškais.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. gegužės  6  d. dekretą Nr. 290](https://e-tar.lt/portal/lt/legalAct/TAR.F0A90D767144), ratifikuoja Susitarimą dėl taupymo pajamų apmokestinimo tarp Lietuvos Respublikos ir Džersio, Susitarimą dėl taupymo pajamų apmokestinimo tarp Lietuvos Respublikos ir Gernsio ir Susitarimą dėl taupymo pajamų apmokestinimo tarp Lietuvos Respublikos ir Meno salos, sudarytus pasikeičiant laiškais.
 
 
 

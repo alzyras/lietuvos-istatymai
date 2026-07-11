@@ -61,7 +61,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 „4. Elitinis medis – selekciškai labai vertingas medis, įvertintas pagal paveldėtus dauginant sėklomis vertingus požymius ir savybes.“
 
 
-2. Buvusias [[#^s-1d0c7762bff3f52f24c6dbba|2 straipsnio]] 4–32 dalis laikyti atitinkamai 5–33 dalimis. ^s-68ea5b6ee39befb4f8b44b12
+2. Buvusias [[#^s-1d0c7762bff3f52f24c6dbba|2 straipsnio]] [[#^s-3f737cd10335166d6ab643e4|4]]–32 dalis laikyti atitinkamai [[#^s-a88a4483cf16b2a1504cd04d|5]]–33 dalimis. ^s-68ea5b6ee39befb4f8b44b12
 
 
 3. Papildyti [[#^s-1d0c7762bff3f52f24c6dbba|2 straipsnį]] nauja 27 dalimi: ^s-b83b9a3b87ac1ef6f82b72b9

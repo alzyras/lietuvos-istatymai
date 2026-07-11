@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F62AD965997D#^s-14a319ec65192c059a536c25|Lietuvos Respublikos šilumos ūkio įstatymas]] - 2 citatos - Įstatymas Nr. XII-192
-- [[latest/TAR.F62AD965997D#^s-3bceadca3c08d4cc9e22d39b|Lietuvos Respublikos šilumos ūkio įstatymas]] - 2 citatos - Įstatymas Nr. XII-192
+- [[latest/TAR.F62AD965997D#^s-14a319ec65192c059a536c25|Lietuvos Respublikos šilumos ūkio įstatymas]] - ŠILUMOS ŪKIO ĮSTATYMO 3 IR 10 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

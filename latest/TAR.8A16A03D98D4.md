@@ -38,10 +38,10 @@ Vilnius
 BENDROSIOS NUOSTATOS
 
 Lietuvos Respublikos Seimas,
-pabrėždamas, kad Lietuvos Respublikos Aukščiausiajai Tarybai – Atkuriamajam Seimui 1990 m. kovo 11 d. aktais atkūrus Lietuvos Respublikos nepriklausomybę, nustojo veikę svetimos valstybės primesti įstatymai, kuriais okupacinė valdžia iš Lietuvos Respublikos piliečių neteisėtai atėmė jų turėtą turtą;
+pabrėždamas, kad Lietuvos Respublikos [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC) – Atkuriamajam Seimui 1990 m. kovo 11 d. aktais atkūrus Lietuvos Respublikos nepriklausomybę, nustojo veikę svetimos valstybės primesti įstatymai, kuriais okupacinė valdžia iš Lietuvos Respublikos piliečių neteisėtai atėmė jų turėtą turtą;
 pabrėždamas, kad Lietuvos Respublikos piliečių prieš okupaciją įgytos nuosavybės teisės nepanaikintos ir turi tęstinumą;
-pabrėždamas, kad 1992 metais Lietuvos Respublikos piliečių valia priimta Lietuvos Respublikos Konstitucija garantuoja ir gina valstybės, jos piliečių teises bei nuosavybę;
-pabrėždamas, kad tęstinių nuosavybės teisių atkūrimas grindžiamas 1991 m. birželio 18 d. Lietuvos Respublikos įstatymo „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ nuostata – Lietuvos Respublikos piliečiams grąžinamas išlikęs nekilnojamasis turtas, o jei šios galimybės nėra, teisingai už jį atlyginama;
+pabrėždamas, kad 1992 metais Lietuvos Respublikos piliečių valia priimta [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) garantuoja ir gina valstybės, jos piliečių teises bei nuosavybę;
+pabrėždamas, kad tęstinių nuosavybės teisių atkūrimas grindžiamas 1991 m. birželio 18 d. Lietuvos Respublikos įstatymo [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) nuostata – Lietuvos Respublikos piliečiams grąžinamas išlikęs nekilnojamasis turtas, o jei šios galimybės nėra, teisingai už jį atlyginama;
 atsižvelgdamas į Lietuvos Respublikos Konstitucinio Teismo 1994–1996 metų nutarimus ir sprendimus ir į 1922–1940 metų žemės reformos nustatytą 150 ha ribą,
 priima šį įstatymą.
 
@@ -50,7 +50,7 @@ priima šį įstatymą.
 ### 1 straipsnis. Įstatymo paskirtis ir sąvokos ^s-075a54589847b24851909223
 
 
-1. Šis įstatymas reglamentuoja Lietuvos Respublikos piliečių, kurių nekilnojamasis turtas pagal TSRS (LTSR) įstatymus buvo nacionalizuotas ar kitaip neteisėtai nusavintas ir kurių nuosavybės teisės buvo pradėtos atkurti pagal Lietuvos Respublikos įstatymą „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“, nuosavybės teisių atkūrimo tęstinumo pripažinimo bei atkūrimo tvarką ir sąlygas įvertinant susiformavusius objektyvius visuomeninius turtinius santykius. ^s-db526e97a30ecefcbbb6edc4
+1. Šis įstatymas reglamentuoja Lietuvos Respublikos piliečių, kurių nekilnojamasis turtas pagal TSRS (LTSR) įstatymus buvo nacionalizuotas ar kitaip neteisėtai nusavintas ir kurių nuosavybės teisės buvo pradėtos atkurti pagal Lietuvos Respublikos įstatymą [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4), nuosavybės teisių atkūrimo tęstinumo pripažinimo bei atkūrimo tvarką ir sąlygas įvertinant susiformavusius objektyvius visuomeninius turtinius santykius. ^s-db526e97a30ecefcbbb6edc4
 
 
 2. Pagrindinės šiame įstatyme vartojamos sąvokos: ^s-4e7546f7c7831f6cc3693dc6
@@ -229,7 +229,7 @@ NUOSAVYBĖS TEISIŲ ATKŪRIMO SĄLYGOS IR TVARKA
 2. Už valstybės išperkamus, taip pat už šio įstatymo [[#^s-24cfa46b4d1cfc3c06e58454|3 straipsnyje]] nurodytus neišlikusius ūkinės-komercinės paskirties pastatus ir jų priklausinius, kurie po 1991 m. rugpjūčio 1 d. neišliko dėl valstybės, savivaldybės institucijų priimtų sprendimų, atlyginama pagal šio įstatymo [[#^s-a4bbcc2b4ce4d78d2ecce4e9|16 straipsnį]]. ^s-8fec93b08b8df525e1c805a4
 
 
-3. Grąžinus ūkinės-komercinės paskirties pastatus ir jų priklausinius natūra, nuosavybės teisės į žemę, ant kurios pastatyti sugrąžintieji pastatai, piliečiams atkuriamos šio įstatymo 4 ir [[#^s-0eef1c87a0ba4198bf0d1c49|5 straipsniuose]] nustatyta tvarka, nepaisant to, ar buvo paduotas atskiras prašymas grąžinti šią žemę. ^s-7feec9d271868824f5c367b4
+3. Grąžinus ūkinės-komercinės paskirties pastatus ir jų priklausinius natūra, nuosavybės teisės į žemę, ant kurios pastatyti sugrąžintieji pastatai, piliečiams atkuriamos šio įstatymo [[#^s-983c93846ee4fdf9759f1f23|4]] ir [[#^s-0eef1c87a0ba4198bf0d1c49|5]] straipsniuose nustatyta tvarka, nepaisant to, ar buvo paduotas atskiras prašymas grąžinti šią žemę. ^s-7feec9d271868824f5c367b4
 
 
 
@@ -242,7 +242,7 @@ NUOSAVYBĖS TEISIŲ ATKŪRIMO SĄLYGOS IR TVARKA
 2. Už valstybės išperkamus, taip pat už šio įstatymo [[#^s-24cfa46b4d1cfc3c06e58454|3 straipsnyje]] nurodytus neišlikusius gyvenamuosius namus, jų dalis, butus, kurie po 1991 m. rugpjūčio 1 d. neišliko dėl valstybės, savivaldybės institucijų priimtų sprendimų, piliečiams valstybė atlygina pagal šio įstatymo [[#^s-a4bbcc2b4ce4d78d2ecce4e9|16 straipsnį]]. ^s-a4015c588b601a0a34f12f07
 
 
-3. Grąžinus gyvenamuosius namus, jų dalis, butus natūra, nuosavybės teisės į žemę, ant kurios pastatyti sugrąžintieji namai, atkuriamos šio įstatymo 4 ir [[#^s-0eef1c87a0ba4198bf0d1c49|5 straipsniuose]] nustatyta tvarka, nepaisant to, ar buvo paduotas atskiras prašymas grąžinti šią žemę. ^s-ae8dbfce1bafee1cf5533f41
+3. Grąžinus gyvenamuosius namus, jų dalis, butus natūra, nuosavybės teisės į žemę, ant kurios pastatyti sugrąžintieji namai, atkuriamos šio įstatymo [[#^s-983c93846ee4fdf9759f1f23|4]] ir [[#^s-0eef1c87a0ba4198bf0d1c49|5]] straipsniuose nustatyta tvarka, nepaisant to, ar buvo paduotas atskiras prašymas grąžinti šią žemę. ^s-ae8dbfce1bafee1cf5533f41
 
 
 4. Grąžinus šio įstatymo [[#^s-64895fa8397991dc0e96d5c3|2 straipsnyje]] nurodytiems piliečiams gyvenamuosius namus, jų dalis, butus natūra arba perdavus nuosavybėn kitas gyvenamąsias patalpas, šie piliečiai kartu su savo šeimos nariais ir subnuomininkais privalo per 2 mėnesius nuo tuščių patalpų jiems perdavimo dienos patuštinti nuomojamas valstybės ar savivaldybių butų fondo gyvenamąsias patalpas. ^s-33279dcf505954e608821d0d
@@ -258,17 +258,17 @@ NUOSAVYBĖS TEISIŲ ATKŪRIMO SĄLYGOS IR TVARKA
 1. Nuosavybės teises patvirtinantys dokumentai yra išrašai iš hipotekos knygų, jei šių nėra – turto perleidimo sutartys, teismų sprendimai, turto nacionalizavimo aktai, taip pat valstybinių archyvų išduoti pažymėjimai, testamentai ar kiti Vyriausybės nustatyti dokumentai. ^s-e2ccdade34f2d4463c3dd86c
 
 
-2. Piliečiai, kurių dokumentai, patvirtinantys nuosavybės teises į išlikusį nekilnojamąjį turtą bei patvirtinantys giminystės ryšį, neišliko, turi teisę dėl nuosavybės teisių bei giminystės ryšio nustatymo kreiptis į teismą Civilinio proceso kodekso nustatyta tvarka. ^s-aee6e5dc4f01e571438fb0ee
+2. Piliečiai, kurių dokumentai, patvirtinantys nuosavybės teises į išlikusį nekilnojamąjį turtą bei patvirtinantys giminystės ryšį, neišliko, turi teisę dėl nuosavybės teisių bei giminystės ryšio nustatymo kreiptis į teismą [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-aee6e5dc4f01e571438fb0ee
 
 
 
 ### 10 straipsnis.       Prašymų atkurti nuosavybės teises į nekilnojamąjį turtą pateikimo tvarka ^s-91abb9e7ffd6b61ae8cb1a18
 
 
-1. Nuosavybės teisės atkuriamos piliečiams, kurių prašymai atkurti nuosavybės teises į nekilnojamąjį turtą pateikti Lietuvos Respublikos įstatymo „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ nustatytais terminais. Piliečių, kurių prašymai atkurti nuosavybės teises į nekilnojamąjį turtą pateikti nuo 1993 m. rugsėjo 10 d. iki Lietuvos Respublikos įstatymo „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ sustabdymo dienos, nuosavybės teisės į išlikusį nekilnojamąjį turtą atkuriamos grąžinant žemę, mišką natūra arba atlyginama [[#^s-64895fa8397991dc0e96d5c3|Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme nurodytais būdais, išskyrus pinigais, jeigu nuosavybės teisės į šį turtą neatkurtos kitiems šio įstatymo 2 straipsnyje]] nurodytiems piliečiams. ^s-60b0ceee89be639c92c1b34f
+1. Nuosavybės teisės atkuriamos piliečiams, kurių prašymai atkurti nuosavybės teises į nekilnojamąjį turtą pateikti Lietuvos Respublikos įstatymo [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) nustatytais terminais. Piliečių, kurių prašymai atkurti nuosavybės teises į nekilnojamąjį turtą pateikti nuo 1993 m. rugsėjo 10 d. iki Lietuvos Respublikos įstatymo [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) sustabdymo dienos, nuosavybės teisės į išlikusį nekilnojamąjį turtą atkuriamos grąžinant žemę, mišką natūra arba atlyginama [[#^s-64895fa8397991dc0e96d5c3|Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme nurodytais būdais, išskyrus pinigais, jeigu nuosavybės teisės į šį turtą neatkurtos kitiems šio įstatymo 2 straipsnyje]] nurodytiems piliečiams. ^s-60b0ceee89be639c92c1b34f
 
 
-2. Piliečiai, neturėję teisės į nuosavybės teisių atkūrimą pagal Lietuvos Respublikos įstatymą „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ ir įgiję tokią teisę pagal Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą, prašymus atkurti nuosavybės teises į nekilnojamąjį turtą pateikia iki 1997 m. gruodžio 31 d. Vyriausybės įgaliotai institucijai. Šių piliečių nuosavybės teisės į išlikusį nekilnojamąjį turtą atkuriamos, jeigu nuosavybės teisės į šį turtą neatkurtos kitiems šio įstatymo [[#^s-64895fa8397991dc0e96d5c3|2 straipsnyje]] nurodytiems asmenims. ^s-c8b9660ba036e44525208c1b
+2. Piliečiai, neturėję teisės į nuosavybės teisių atkūrimą pagal Lietuvos Respublikos įstatymą [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) ir įgiję tokią teisę pagal Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą, prašymus atkurti nuosavybės teises į nekilnojamąjį turtą pateikia iki 1997 m. gruodžio 31 d. Vyriausybės įgaliotai institucijai. Šių piliečių nuosavybės teisės į išlikusį nekilnojamąjį turtą atkuriamos, jeigu nuosavybės teisės į šį turtą neatkurtos kitiems šio įstatymo [[#^s-64895fa8397991dc0e96d5c3|2 straipsnyje]] nurodytiems asmenims. ^s-c8b9660ba036e44525208c1b
 
 
 3. Kartu su prašymu atkurti nuosavybės teises pateikiamas pilietybę patvirtinantis dokumentas ir pridedami nuosavybės teises bei giminystės ryšį su savininku patvirtinantys dokumentai. Šių dokumentų pateikimo terminus nustato Vyriausybė. ^s-7406ad2c0d63dd239283ebe3
@@ -284,7 +284,7 @@ NUOSAVYBĖS TEISIŲ ATKŪRIMO SĄLYGOS IR TVARKA
 1. Prašyme atkurti nuosavybės teises į išlikusį nekilnojamąjį turtą nurodoma piliečio, turinčio teisę į nuosavybės teisių atkūrimą, vardas, pavardė, gyvenamoji vieta, išlikusio nekilnojamojo turto savininko vardas, pavardė ir to turto rūšis, dydis, buvimo vieta, nuosavybės teisių į šį turtą pagrindas, dabartinis turto valdytojas, nuosavybės teisių netekimo laikas ir būdas. ^s-8b129d5587b3824bd27642b4
 
 
-2. Piliečiai, kuriems pagal šį įstatymą neatkuriamos nuosavybės teisės į visą anksčiau turėtą žemę, mišką ar vandens telkinį (jei šis plotas yra laisvas ir grąžintinas natūra), vadovaudamiesi šio įstatymo 4 ir [[#^s-a5bc1a310de43e1ba7af8a01|6 straipsniais]], savo prašymuose nurodo žemės, miško ar vandens telkinių plotus, į kuriuos jie pageidauja atkurti nuosavybės teises. ^s-968f04eca8b55d8b075f3187
+2. Piliečiai, kuriems pagal šį įstatymą neatkuriamos nuosavybės teisės į visą anksčiau turėtą žemę, mišką ar vandens telkinį (jei šis plotas yra laisvas ir grąžintinas natūra), vadovaudamiesi šio įstatymo [[#^s-983c93846ee4fdf9759f1f23|4]] ir [[#^s-a5bc1a310de43e1ba7af8a01|6]] straipsniais, savo prašymuose nurodo žemės, miško ar vandens telkinių plotus, į kuriuos jie pageidauja atkurti nuosavybės teises. ^s-968f04eca8b55d8b075f3187
 
 
 
@@ -424,7 +424,7 @@ Gyvenamieji namai, jų dalys, butai valstybės išperkami iš šio įstatymo [[#
 4) perduodama neatlygintinai nuosavybėn lygiavertį turėtajam naują žemės sklypą individualiai statybai miestuose ir kaimo vietovėse, kur buvo turėtoji žemė, lygiavertį turėtajam esamos privačios namų valdos (sodybos) žemės sklypą (nepaisant turėtos žemės vietos). Vyriausybės nustatyta tvarka piliečio pageidavimu lygiavertis turėtajam naujas žemės sklypas individualiai statybai gali būti perduotas neatlygintinai nuosavybėn kituose, negu buvo turėtas žemės sklypas, miestuose bei kaimo vietovėse, išskyrus Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio, Alytaus, Marijampolės, Druskininkų, Palangos, Birštono ir Neringos miestus; ^s-dd9d5ae57f284a6c53f69e0d
 
 
-5) pinigais – išpirkdama kaimo vietovėje žemę, mišką, išskyrus [[#^s-983c93846ee4fdf9759f1f23|4 straipsnio]] 7 ir 10 ir [[#^s-a5bc1a310de43e1ba7af8a01|6 straipsnio]] 3 ir [[#^s-51087d6cbe1fa837986815aa|7 dalyse]] nurodytus atvejus, taip pat išskyrus atvejį, kai privačion nuosavybėn iš laisvos žemės fondo yra įsigyta žemė, kurios susigrąžinti nepageidavo šio įstatymo [[#^s-64895fa8397991dc0e96d5c3|2 straipsnyje]] nurodyti piliečiai. Atlyginimo pinigais dydis gali būti padidintas iki 30 procentų, jeigu yra išperkama žemė, į kurią nuosavybės teisės yra atkurtos Lietuvos Respublikos piliečiams – 1918–1920 m. nepriklausomybės kovų kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ar Vyčio Kryžiaus ordinu apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), ir jei ši žemė pagal šio įstatymo [[#^s-1039415001b159caa4bda46d|12 straipsnį]] yra priskirta valstybės išperkamai žemei ir yra naudojama asmeniniam arba valstiečių ūkiui; ^s-5e04aa3dcc30e1dd97e97970
+5) pinigais – išpirkdama kaimo vietovėje žemę, mišką, išskyrus [[#^s-983c93846ee4fdf9759f1f23|4 straipsnio]] [[#^s-5ea499356c1feb6ceeff1e7f|7]] ir [[#^s-91abb9e7ffd6b61ae8cb1a18|10]] ir [[#^s-a5bc1a310de43e1ba7af8a01|6]] straipsnio [[#^s-5f0e4b29f8817adbfa582f7d|3]] ir [[#^s-192bd468a3c5f29e68900905|7]] dalyse nurodytus atvejus, taip pat išskyrus atvejį, kai privačion nuosavybėn iš laisvos žemės fondo yra įsigyta žemė, kurios susigrąžinti nepageidavo šio įstatymo [[#^s-64895fa8397991dc0e96d5c3|2 straipsnyje]] nurodyti piliečiai. Atlyginimo pinigais dydis gali būti padidintas iki 30 procentų, jeigu yra išperkama žemė, į kurią nuosavybės teisės yra atkurtos Lietuvos Respublikos piliečiams – 1918–1920 m. nepriklausomybės kovų kariams savanoriams, pasipriešinimo (rezistencijos) dalyviams, politiniams kaliniams, tremtiniams ar Vyčio Kryžiaus ordinu apdovanotiems asmenims, jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), ir jei ši žemė pagal šio įstatymo [[#^s-1039415001b159caa4bda46d|12 straipsnį]] yra priskirta valstybės išperkamai žemei ir yra naudojama asmeniniam arba valstiečių ūkiui; ^s-5e04aa3dcc30e1dd97e97970
 
 
 6) pinigais – išpirkdama žemę, kuri Vyriausybės nustatyta tvarka buvo priskirta miestų teritorijoms nuo 1991 m. rugpjūčio 1 d. iki 1995 m. birželio 1 d.; ^s-dd18a446ab5d382856a5af38
@@ -524,7 +524,7 @@ Gyvenamieji namai, jų dalys, butai valstybės išperkami iš šio įstatymo [[#
 6. Nuomininkui nuosavybėn suteikiamų kitų gyvenamųjų patalpų ar neatlygintinai skiriamo žemės sklypo vertė negali viršyti Vyriausybės nustatyta tvarka apskaičiuotos kompensacijos nuomininkui. Nuomininko pageidavimu jam gali būti skiriamos mažesnės vertės gyvenamosios patalpos ar žemės sklypas, o likusi priklausančios kompensacijos dalis išmokama pinigais. ^s-1f83c4d60c3785fcf5de0667
 
 
-7. Šio straipsnio 1 ir [[#^s-0474c77c53223b7082678ed4|2 dalių]] nuostatos galioja ir pasikeitus namo, namo dalies, buto savininkui. ^s-b0358b5c89f1e3d3d7d6ed30
+7. Šio straipsnio [[#^s-052c2dcdaf132e52acfd98f2|1]] ir [[#^s-0474c77c53223b7082678ed4|2]] dalių nuostatos galioja ir pasikeitus namo, namo dalies, buto savininkui. ^s-b0358b5c89f1e3d3d7d6ed30
 
 
 
@@ -536,10 +536,10 @@ BAIGIAMOSIOS NUOSTATOS
 ### 21 straipsnis. Specialios šio įstatymo taikymo nuostatos ^s-3c7223566506edeaa970514d
 
 
-1. Piliečių prašymai atkurti nuosavybės teises, pateikti Lietuvos Respublikos įstatymo „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ nustatytais terminais ir neišnagrinėti iki Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo įsigaliojimo, nagrinėjami bei sprendimai dėl jų priimami laikantis šio įstatymo nuostatų. ^s-d6693474b41288eee25e4f05
+1. Piliečių prašymai atkurti nuosavybės teises, pateikti Lietuvos Respublikos įstatymo [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) nustatytais terminais ir neišnagrinėti iki Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo įsigaliojimo, nagrinėjami bei sprendimai dėl jų priimami laikantis šio įstatymo nuostatų. ^s-d6693474b41288eee25e4f05
 
 
-2. Piliečiai, kurių nuosavybės teisės į išlikusį nekilnojamąjį turtą atkurtos pagal Lietuvos Respublikos įstatymą „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“, turi teisę per 3 mėnesius nuo Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo įsigaliojimo dienos kreiptis ir pateikti prašymus Vyriausybės įgaliotai institucijai dėl papildomo sprendimo priėmimo pagal šį įstatymą. ^s-d40f493cbda354801581e80a
+2. Piliečiai, kurių nuosavybės teisės į išlikusį nekilnojamąjį turtą atkurtos pagal Lietuvos Respublikos įstatymą [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4), turi teisę per 3 mėnesius nuo Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo įsigaliojimo dienos kreiptis ir pateikti prašymus Vyriausybės įgaliotai institucijai dėl papildomo sprendimo priėmimo pagal šį įstatymą. ^s-d40f493cbda354801581e80a
 
 
 3. Pilietis per 3 mėnesius nuo [[#^s-3e64a51fa498303311bd2897|šio straipsnio 7 dalyje]] numatyto įstatymo įsigaliojimo dienos gali pakeisti savo pareikštą valią dėl būdo, kuriuo valstybė atlygina už išperkamą nekilnojamąjį turtą, jeigu nepriimtas sprendimas dėl nuosavybės teisių atkūrimo. Jeigu sprendimas yra priimtas, o pilietis pageidauja jį pakeisti pagal šio įstatymo sąlygas, šis sprendimas panaikinamas teismine tvarka ir pilietis atleidžiamas nuo žyminio mokesčio. ^s-5c896366cf123b59b803f387
@@ -567,13 +567,13 @@ BAIGIAMOSIOS NUOSTATOS
 Įsigaliojus šiam įstatymui, netenka galios:
 
 
-1) Lietuvos Respublikos įstatymas „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ (Žin., 1991, Nr. 21-545; 1992, Nr. 3-40, Nr. 7-155, Nr. 11-278, Nr. 15-405; 1993, Nr. 5-83, Nr. 32-725; 1994, Nr. 7-100, Nr. 14-229, Nr. 43-778; 1995, Nr. 39-965, Nr. 50-1226, Nr. 59-1465, Nr. 85-1916, Nr. 103-2299; 1996, Nr. 37-929); ^s-c9959c5634a0afd827027b29
+1) Lietuvos Respublikos įstatymas [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) (Žin., 1991, Nr. 21-545; 1992, Nr. 3-40, Nr. 7-155, Nr. 11-278, Nr. 15-405; 1993, Nr. 5-83, Nr. 32-725; 1994, Nr. 7-100, Nr. 14-229, Nr. 43-778; 1995, Nr. 39-965, Nr. 50-1226, Nr. 59-1465, Nr. 85-1916, Nr. 103-2299; 1996, Nr. 37-929); ^s-c9959c5634a0afd827027b29
 
 
 2) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos įstatymo „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ įsigaliojimo ir taikymo tvarkos“ (Žin., 1991, Nr. 21-549); ^s-c6cbef51d6e13735e47154cf
 
 
-3) Lietuvos Respublikos įstatymo „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ galiojimo sustabdymo laikinasis įstatymas (Žin., 1997, Nr. 6-89). ^s-da03ff39544c0eb5b7dff212
+3) Lietuvos Respublikos įstatymo [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) galiojimo sustabdymo laikinasis įstatymas (Žin., 1997, Nr. 6-89). ^s-da03ff39544c0eb5b7dff212
 
 
 

@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-22f6f9468666986d1d488ec3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2013 m. rugsėjo 30 d. dekretą Nr. 1K-1582, ratifikuoja 2013 m. liepos 12 d. Paryžiuje pasirašytą Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos ir saugumo srityje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2013 m. rugsėjo 30 d. dekretą Nr. 1K-1582](https://e-tar.lt/portal/lt/legalAct/TAR.BAC4F6673F5C), ratifikuoja 2013 m. liepos 12 d. Paryžiuje pasirašytą Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos ir saugumo srityje.
 
 
 

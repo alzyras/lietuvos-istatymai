@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sprendimo III/1 ratifikavimas ^s-06fd15a8e42d33d5d95db92d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. rugpjūčio 21 d. dekretą Nr. 186, ratifikuoja 1989 metų Bazelio konvencijos dėl pavojingų atliekų tarpvalstybinio pervežimo bei jų tvarkymo kontrolės šalių konferencijos sprendimą III/1 (Bazelio konvencijos pakeitimas).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. rugpjūčio 21 d. dekretą Nr. 186](https://e-tar.lt/portal/lt/legalAct/TAR.F3B677F5C784), ratifikuoja 1989 metų Bazelio konvencijos dėl pavojingų atliekų tarpvalstybinio pervežimo bei jų tvarkymo kontrolės šalių konferencijos sprendimą III/1 (Bazelio konvencijos pakeitimas).
 
 
 

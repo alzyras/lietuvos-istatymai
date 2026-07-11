@@ -116,10 +116,10 @@ Pakeisti [[#^s-d11aa59069675f086f50aeae|5 straipsnį]] ir jį išdėstyti taip:
 1. Mokiniai turi teisę į nemokamą maitinimą ir į paramą mokinio reikmenims įsigyti, jeigu vidutinės pajamos vienam šeimos nariui per mėnesį yra mažesnės kaip 1,5 valstybės remiamų pajamų (toliau – VRP) dydžio. ^s-d236d123bd1ca3a24f0fbba2
 
 
-2. Kitais savivaldybės, kurioje priimamas sprendimas dėl socialinės paramos mokiniams skyrimo, tarybos nustatytais atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, mokiniui iš tris ir daugiau vaikų auginančios ar neįgalių tėvų šeimos ir kt.), atsižvelgiant į šeimos gyvenimo sąlygas, mokiniai turi teisę į nemokamą maitinimą, jeigu vidutinės pajamos vienam šeimos nariui per mėnesį yra mažesnės kaip 2 VRP dydžiai. ^s-826b1a5994817c3916cdbdba
+2. Kitais savivaldybės, kurioje priimamas sprendimas [dėl socialinės paramos mokiniams skyrimo](https://e-tar.lt/portal/lt/legalAct/a623ebf02f6211e4a83cb4f588d2ac1a), tarybos nustatytais atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, mokiniui iš tris ir daugiau vaikų auginančios ar neįgalių tėvų šeimos ir kt.), atsižvelgiant į šeimos gyvenimo sąlygas, mokiniai turi teisę į nemokamą maitinimą, jeigu vidutinės pajamos vienam šeimos nariui per mėnesį yra mažesnės kaip 2 VRP dydžiai. ^s-826b1a5994817c3916cdbdba
 
 
-3. Šio straipsnio 1 ir [[#^s-826b1a5994817c3916cdbdba|2 dalyse]] nurodytiems mokiniams skiriamas nemokamas maitinimas vasaros atostogų metu mokyklose organizuojamose dieninėse vasaros poilsio stovyklose.“ ^s-878ca1e8158310b829b7f177
+3. Šio straipsnio [[#^s-d236d123bd1ca3a24f0fbba2|1]] ir [[#^s-826b1a5994817c3916cdbdba|2]] dalyse nurodytiems mokiniams skiriamas nemokamas maitinimas vasaros atostogų metu mokyklose organizuojamose dieninėse vasaros poilsio stovyklose.“ ^s-878ca1e8158310b829b7f177
 
 
 ### 4 straipsnis. 7 straipsnio pakeitimas ^s-96152748d1e130861bb50996
@@ -207,22 +207,22 @@ Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
 5) teikia Socialinės apsaugos ir darbo ministerijai duomenis apie suteiktą socialinę paramą mokiniams, vadovaudamosi Vyriausybės ar jos įgaliotos institucijos patvirtinta duomenų apie suteiktą socialinę paramą mokiniams teikimo tvarka, ir, jei reikia, kitą informaciją; ^s-bcf7400965912ac6de5e5577
 
 
-6) gavusios informaciją apie pasikeitusias aplinkybes, turinčias įtakos skiriant socialinę paramą mokiniams, ar kilus įtarimui, kad pateikta neteisinga informacija arba ji yra nuslėpta, apie tai praneša savivaldybės, kurioje priimamas sprendimas dėl socialinės paramos mokiniams skyrimo, administracijos direktoriui arba jo įgaliotam administracijos valstybės tarnautojui.“ ^s-9c9a84fbf7794b4f19c6f805
+6) gavusios informaciją apie pasikeitusias aplinkybes, turinčias įtakos skiriant socialinę paramą mokiniams, ar kilus įtarimui, kad pateikta neteisinga informacija arba ji yra nuslėpta, apie tai praneša savivaldybės, kurioje priimamas sprendimas [dėl socialinės paramos mokiniams skyrimo](https://e-tar.lt/portal/lt/legalAct/a623ebf02f6211e4a83cb4f588d2ac1a), administracijos direktoriui arba jo įgaliotam administracijos valstybės tarnautojui.“ ^s-9c9a84fbf7794b4f19c6f805
 
 
 3. 14 straipsnio 4 dalį papildyti 4 punktu: ^s-5a03c77e8055541047860a1c
 
 
-„4) savivaldybės, kurioje priimamas sprendimas dėl socialinės paramos mokiniams skyrimo, tarybos nustatytais atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, mokiniui iš tris ir daugiau vaikų auginančios ar neįgalių tėvų šeimos ir kt.), patikrinus šeimos gyvenimo sąlygas ir surašius buities tyrimo aktą, turi teisę skirti nemokamą maitinimą savivaldybės nustatyta tvarka. Tam tikslui gali būti panaudojama iki 2 procentų šio įstatymo [[#^s-96152748d1e130861bb50996|4 straipsnio]] 1, 2 ir 4 dalyse numatytoms išlaidoms finansuoti skirtų valstybės biudžeto lėšų.“
+„4) savivaldybės, kurioje priimamas sprendimas [dėl socialinės paramos mokiniams skyrimo](https://e-tar.lt/portal/lt/legalAct/a623ebf02f6211e4a83cb4f588d2ac1a), tarybos nustatytais atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, mokiniui iš tris ir daugiau vaikų auginančios ar neįgalių tėvų šeimos ir kt.), patikrinus šeimos gyvenimo sąlygas ir surašius buities tyrimo aktą, turi teisę skirti nemokamą maitinimą savivaldybės nustatyta tvarka. Tam tikslui gali būti panaudojama iki 2 procentų šio įstatymo [[#^s-96152748d1e130861bb50996|4 straipsnio]] [[#^s-28d0c8ce9bcd88d5605f5527|1]], [[#^s-dc41c84580be01881ac7e996|2]] ir 4 dalyse numatytoms išlaidoms finansuoti skirtų valstybės biudžeto lėšų.“
 
 
 ### 9 straipsnis. Įstatymo įsigaliojimas ^s-73b91bb00aa75db95aac97e5
 
 
-1. Šis įstatymas, išskyrus 2 ir [[#^s-d11aa59069675f086f50aeae|5 straipsnius]], [[#^s-b1606cd1f4cceb86c83ae127|6 straipsnio 1 dalį]], [[#^s-155c2bd1339836a722761756|7 straipsnį]] ir [[#^s-92cecd51ec44a302bf629244|8 straipsnio 2 dalį]], įsigalioja 2010 m. sausio 1 d. ^s-a79c2e57b3e07bffa09ca8ad
+1. Šis įstatymas, išskyrus [[#^s-e7de283c338e11ff8eb0be1c|2]] ir [[#^s-d11aa59069675f086f50aeae|5]] straipsnius, [[#^s-b1606cd1f4cceb86c83ae127|6 straipsnio 1 dalį]], [[#^s-155c2bd1339836a722761756|7 straipsnį]] ir [[#^s-92cecd51ec44a302bf629244|8 straipsnio 2 dalį]], įsigalioja 2010 m. sausio 1 d. ^s-a79c2e57b3e07bffa09ca8ad
 
 
-2. Šio įstatymo 2 ir [[#^s-d11aa59069675f086f50aeae|5 straipsniai]], [[#^s-b1606cd1f4cceb86c83ae127|6 straipsnio 1 dalis]], [[#^s-155c2bd1339836a722761756|7 straipsnis]] ir [[#^s-92cecd51ec44a302bf629244|8 straipsnio 2 dalis]] įsigalioja 2010 m. liepos 1 d. ^s-fdb00c987d125412758a063f
+2. Šio įstatymo [[#^s-e7de283c338e11ff8eb0be1c|2]] ir [[#^s-d11aa59069675f086f50aeae|5]] straipsniai, [[#^s-b1606cd1f4cceb86c83ae127|6 straipsnio 1 dalis]], [[#^s-155c2bd1339836a722761756|7 straipsnis]] ir [[#^s-92cecd51ec44a302bf629244|8 straipsnio 2 dalis]] įsigalioja 2010 m. liepos 1 d. ^s-fdb00c987d125412758a063f
 
 
 

@@ -209,7 +209,7 @@ Pagrindiniai šio įstatymo tikslai:
 41. Vartotojo sistema – vartotojo žemės sklype ar nekilnojamame daikte įrengti vamzdynai ir įrenginiai dujoms iš magistralinio ar skirstomojo dujotiekio priimti ir saugiai panaudoti vartotojo reikmėms. ^s-0387db4397807e12f8fbe980
 
 
-42. Vertikaliosios integracijos įmonė – dujų įmonė ar grupė šių įmonių, kurių tarpusavio santykiai atitinka 1989 m. gruodžio 21 d. Tarybos reglamento (EEB) Nr. 4064/89 dėl koncentracijų tarp įmonių kontrolės [[#^s-7d1d16cafbfb70a0b37cbc66|3 straipsnio 3 dalyje]] pateiktą apibrėžimą, kai ta įmonė (grupė) atlieka bent vieną iš perdavimo, skirstymo, skystinimo ar laikymo funkcijų ir bent vieną iš gamtinių dujų gavybos ar tiekimo funkcijų. ^s-9bc6d91d7d3fceaeb63218d6
+42. Vertikaliosios integracijos įmonė – dujų įmonė ar grupė šių įmonių, kurių tarpusavio santykiai atitinka 1989 m. gruodžio 21 d. Tarybos [reglamento (EEB) Nr. 4064/89](https://eur-lex.europa.eu/eli/reg/4064/89/oj) dėl koncentracijų tarp įmonių kontrolės [[#^s-7d1d16cafbfb70a0b37cbc66|3 straipsnio 3 dalyje]] pateiktą apibrėžimą, kai ta įmonė (grupė) atlieka bent vieną iš perdavimo, skirstymo, skystinimo ar laikymo funkcijų ir bent vieną iš gamtinių dujų gavybos ar tiekimo funkcijų. ^s-9bc6d91d7d3fceaeb63218d6
 
 
 43. Vietinė bendrojo naudojimo sistema – asmeniui (asmenims) nuosavybės teise priklausanti arba jo (jų) valdoma ribotoje teritorijoje įrengta skirstymo sistemos dalis, kuria dujos tiekiamos ne mažiau kaip dviem vartotojams. ^s-4870f7329e5c72ec13e5eaae
@@ -260,7 +260,7 @@ DUJŲ SEKTORIAUS VEIKLOS ORGANIZAVIMO BENDROSIOS TAISYKLĖS
 ### 7 straipsnis. Vartotojų apsauga ^s-52dfd897e0edf95c8d924c87
 
 
-1. Dujų įmonės turi užtikrinti saugų dujų perdavimą, laikymą, skirstymą ir tiekimą vartotojams. Dujų įmonės, perduodamos, laikydamos, skirstydamos ir tiekdamos dujas vartotojams, privalo laikytis nustatytų kainų, nurodytų šio įstatymo [[#^s-1ccdd1a3af2cbdda0f2f1d6b|23 straipsnio]] 1, 2 ir [[#^s-288ed5beac80ff882beb7907|3 dalyse]]. ^s-c66de4f36b7ff17961ba2ab6
+1. Dujų įmonės turi užtikrinti saugų dujų perdavimą, laikymą, skirstymą ir tiekimą vartotojams. Dujų įmonės, perduodamos, laikydamos, skirstydamos ir tiekdamos dujas vartotojams, privalo laikytis nustatytų kainų, nurodytų šio įstatymo [[#^s-1ccdd1a3af2cbdda0f2f1d6b|23 straipsnio]] [[#^s-1c081419b3f6db970b3e15fc|1]], [[#^s-acdf6d7fbd5bf5baef4ff2c0|2]] ir [[#^s-6615f276f0341a1d0a21d772|3]] dalyse. ^s-c66de4f36b7ff17961ba2ab6
 
 
 2. Vartotojai turi teisę reikalauti iš dujų įmonių kompensacijų, jeigu dujų įmonė neužtikrina dujų ir teikiamų paslaugų kokybės reikalavimų. ^s-7d2fb94b4d3421501c8c9b1c
@@ -567,7 +567,7 @@ DUJŲ RINKA
 2. [[#^s-fc4ff5729460df66abc4cecd|Šio straipsnio 1 dalies]] nuostatos taip pat gali būti taikomos didelio esamos infrastruktūros pajėgumo didinimo atvejais ir siekiant panaudoti naujus dujų tiekimo šaltinius. ^s-4a4ab1b8073e2fa5f70c083c
 
 
-3. Sprendimą dėl šio straipsnio 1 ir [[#^s-4a4ab1b8073e2fa5f70c083c|2 dalyse]] bei šio įstatymo [[#^s-8ced6ba3d45950dd52a3aea5|8 straipsnyje]] nustatytų išimčių taikymo priima Komisija. Išimtys taikomos ribotą laikotarpį. Komisijos sprendimas turi būti tinkamai pagrįstas ir viešai paskelbtas. Komisija apie priimtą sprendimą teikia informaciją Europos Komisijai. ^s-c2471ac4b0a0e9c3a2911e7c
+3. Sprendimą dėl šio straipsnio [[#^s-fc4ff5729460df66abc4cecd|1]] ir [[#^s-4a4ab1b8073e2fa5f70c083c|2]] dalyse bei šio įstatymo [[#^s-8ced6ba3d45950dd52a3aea5|8 straipsnyje]] nustatytų išimčių taikymo priima Komisija. Išimtys taikomos ribotą laikotarpį. Komisijos sprendimas turi būti tinkamai pagrįstas ir viešai paskelbtas. Komisija apie priimtą sprendimą teikia informaciją Europos Komisijai. ^s-c2471ac4b0a0e9c3a2911e7c
 
 
 
@@ -635,7 +635,7 @@ DUJŲ SEKTORIAUS KONTROLĖ IR REGULIAVIMAS
 3) nustatyti tiekimo įmonės pasirinkimo taisykles; ^s-5a0395df1635223e8e1a7822
 
 
-4) nustatyti atskirus perdavimo ir (ar) skirstymo tarifus pagal išimtis, numatytas šio įstatymo 8 ir [[#^s-930fcab6f251557e7f1a0bd0|20 straipsniuose]]; ^s-41d387e2304b87f73c2b1786
+4) nustatyti atskirus perdavimo ir (ar) skirstymo tarifus pagal išimtis, numatytas šio įstatymo [[#^s-8ced6ba3d45950dd52a3aea5|8]] ir [[#^s-930fcab6f251557e7f1a0bd0|20]] straipsniuose; ^s-41d387e2304b87f73c2b1786
 
 
 5) nustatyti sistemų balansavimo ir naudojimosi sistema taisykles, jei sistemų operatorių parengti taisyklių projektai neatitinka šio įstatymo ir kitų teisės aktų reikalavimų. ^s-6ad019088a2fcdd67b0d56f4
@@ -681,10 +681,10 @@ DUJŲ SEKTORIAUS KONTROLĖ IR REGULIAVIMAS
 2) sistemos balansavimo. ^s-0ee16510380bef865bfaaf2d
 
 
-3. Komisija parengia ir patvirtina šio straipsnio 1 ir [[#^s-acdf6d7fbd5bf5baef4ff2c0|2 dalyse]] nurodytų kainų nustatymo metodikas. ^s-6615f276f0341a1d0a21d772
+3. Komisija parengia ir patvirtina šio straipsnio [[#^s-1c081419b3f6db970b3e15fc|1]] ir [[#^s-acdf6d7fbd5bf5baef4ff2c0|2]] dalyse nurodytų kainų nustatymo metodikas. ^s-6615f276f0341a1d0a21d772
 
 
-4. Šio straipsnio 1 ir [[#^s-acdf6d7fbd5bf5baef4ff2c0|2 dalyse]] nurodytas kainas, Komisijai patikrinus, viešai paskelbia dujų įmonės. ^s-6ad98478940f3df49e18cf95
+4. Šio straipsnio [[#^s-1c081419b3f6db970b3e15fc|1]] ir [[#^s-acdf6d7fbd5bf5baef4ff2c0|2]] dalyse nurodytas kainas, Komisijai patikrinus, viešai paskelbia dujų įmonės. ^s-6ad98478940f3df49e18cf95
 
 
 5. Reguliuojamų kainų nustatymo metodikose turi būti numatytos būtinos investicijos, užtikrinančios efektyvią, saugią sistemų veiklą, ir normatyvinis pelnas šiai veiklai užtikrinti. Dujų perdavimo ir skirstymo kainos nustatomos neatsižvelgiant į dujų transportavimo atstumą. Perdavimo sistemos naudotojai skirstomi į šias grupes: sistemos naudotojai, per metus į vieną dujų pristatymo vietą transportuojantys iki 1 milijardo kubinių metrų dujų, ir sistemos naudotojai, per metus į vieną dujų pristatymo vietą transportuojantys daugiau kaip 1 milijardą kubinių metrų dujų. Vartotojams (sistemos naudotojams) dujų skirstymo kainos nustatomos atsižvelgiant į tai, kiek patiekta per metus dujų į konkrečią dujų pristatymo vietą. Buitiniams vartotojams perdavimo ar skirstymo sistemų balansavimo paslauga teikiama iš įmonės lėšų. Nebuitiniams vartotojams dujų perdavimo ir skirstymo kainos nustatomos ir diferencijuojamos pagal dujų kiekį ir galią. Buitiniams vartotojams dujų skirstymo kainos diferencijuojamos pagal dujų vartojimo kiekį. Dujų kiekio ir galios diferencijavimo principai nustatomi kainų nustatymo metodikose. Reguliuojamos kainos, jų diferencijavimas, siekiant išvengti kryžminio subsidijavimo, tarp vartotojų grupių turi būti vieši, o jų nustatymo principai – pagrįsti, objektyvūs, skaidrūs ir nediskriminuojantys. ^s-a538e2bcc0718e02448a1051
@@ -740,7 +740,7 @@ DUJŲ SEKTORIAUS KONTROLĖ IR REGULIAVIMAS
 3. Nacionalinė vartotojų teisių apsaugos taryba prie Teisingumo ministerijos išankstine skundų nagrinėjimo neteismine tvarka nagrinėja buitinių vartotojų skundus dėl dujų pirkimo–pardavimo ar paslaugų teikimo sutarčių nesąžiningų sąlygų taikymo. ^s-f38a9a110a1b2be6b93b6476
 
 
-4. Vyriausybė ar jos įgaliota institucija nustato šio straipsnio 1 ir [[#^s-1f321881d85ab6278cccecb1|2 dalyse]] nustatytų skundų nagrinėjimo tvarką. ^s-6a2986a11a2832e726733581
+4. Vyriausybė ar jos įgaliota institucija nustato šio straipsnio [[#^s-5b3a8610325202263d9dd643|1]] ir [[#^s-1f321881d85ab6278cccecb1|2]] dalyse nustatytų skundų nagrinėjimo tvarką. ^s-6a2986a11a2832e726733581
 
 
 

@@ -13,4 +13,4 @@ pavadinimas: "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.0120FD7BCFFC#^s-7c048a7c9c6b3ac6cfeb2b86|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 3 citatos - 0951010ISTA00I-1040
+- [[latest/TAR.0120FD7BCFFC#^s-7c048a7c9c6b3ac6cfeb2b86|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 2 citatos - 0951010ISTA00I-1040

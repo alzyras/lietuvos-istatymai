@@ -9,11 +9,10 @@ pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 2 straipsnio, IX-1 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 2 citatos - Civilinis kodeksas
-- [[latest/TAR.C828E20E430B|Lietuvos Respublikos kino įstatymas]] - 2 citatos - Lietuvos Respublikos kino įstatyme
-- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 4 citatos - Lietuvos Respublikos mokesčių administravimo įstatyme
+- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - Civilinis kodeksas
+- [[latest/TAR.C828E20E430B|Lietuvos Respublikos kino įstatymas]] - Lietuvos Respublikos kino įstatyme
+- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokesčių administravimo įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A5ACBDA529A9#^s-ac94209ffb95007d7dd08c35|Lietuvos Respublikos pelno mokesčio įstatymas]] - Įstatymas Nr. XII-366
-- [[latest/TAR.A5ACBDA529A9#^s-ce53f8ba0b5c21ffbcce4b33|Lietuvos Respublikos pelno mokesčio įstatymas]] - Įstatymas Nr. XII-366
+_Nėra._

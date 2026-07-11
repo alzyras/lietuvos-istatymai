@@ -289,7 +289,7 @@ Valstybės pašto pajamas sudaro pajamos, gautos už universaliąsias, pasiuntin
 1. Universaliųjų pašto paslaugų tarifai nustatomi vadovaujantis šiuo principu: tarifai privalo būti susieti su teikiamų paslaugų išlaidomis, bet turi būti prieinami pašto paslaugų naudotojams. ^s-800a04a44043cc656c558993
 
 
-2. Universaliųjų pašto paslaugų vienodų tarifų taikymas neturi apriboti universaliųjų pašto paslaugų teikėjo teisės sudaryti su pašto paslaugų naudotojais individualias sutartis dėl universaliųjų pašto paslaugų tarifų, tačiau šie tarifai negali viršyti Vyriausybės nustatytų dydžių. ^s-cd53c8bb6fa94256087ef164
+2. Universaliųjų pašto paslaugų vienodų tarifų taikymas neturi apriboti universaliųjų pašto paslaugų teikėjo teisės sudaryti su pašto paslaugų naudotojais individualias sutartis [dėl universaliųjų pašto paslaugų tarifų](https://e-tar.lt/portal/lt/legalAct/TAR.860F31B2E277), tačiau šie tarifai negali viršyti Vyriausybės nustatytų dydžių. ^s-cd53c8bb6fa94256087ef164
 
 
 

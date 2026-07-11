@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimas ^s-1490f796984748d778549556
 
 
-Lietuvos Respublikos viešojo administravimo įstatymo pakeitimo įstatymo 1 straipsnyje išdėstyto [[latest/TAR.0BDFFD850A66#^s-f5310c81a9f829d6196d3475|Lietuvos Respublikos viešojo administravimo įstatymo 11 straipsnio]] 3, 4, 5, 6, 7 dalis pripažinti netekusiomis galios.
+[[latest/TAR.73988CDF57C1#^s-279707c30b4631be43e5ce30|Lietuvos Respublikos viešojo administravimo įstatymo pakeitimo įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos viešojo administravimo įstatymo 11 straipsnio]] [[latest/TAR.73988CDF57C1#^s-e6fd6c4970f0269d8589ae2e|3]], [[latest/TAR.73988CDF57C1#^s-ddfe83a33d1505f8db7b273a|4]], [[latest/TAR.73988CDF57C1#^s-7cc8c174a19ab619237e405c|5]], [[latest/TAR.73988CDF57C1#^s-a3d4d7c96db1f6fc4b09331f|6]], [[latest/TAR.73988CDF57C1#^s-20baa50fe54dace415cfe8cb|7]] dalis pripažinti netekusiomis galios.
 
 
 

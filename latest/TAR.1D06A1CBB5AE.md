@@ -94,7 +94,7 @@ Vilnius
 ### 5 straipsnis. ETBG vykdomos užduotys ^s-6ab59dffa76725edf095c2e3
 
 
-ETBG užduotys, kurios yra vykdomos neteikiant Bendrijos paramos, gali apimti tik tuos bendradarbiavimo veiksmus, kurie išvardyti 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1080/2006 dėl Europos regioninės plėtros fondo ir panaikinančio Reglamentą (EB) Nr. 1783/1999 [[#^s-02cf46699107e0346fb8f84f|6 straipsnyje]].
+ETBG užduotys, kurios yra vykdomos neteikiant Bendrijos paramos, gali apimti tik tuos bendradarbiavimo veiksmus, kurie išvardyti 2006 m. liepos 5 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1080/2006](https://eur-lex.europa.eu/eli/reg/1080/2006/oj) dėl Europos regioninės plėtros fondo ir panaikinančio [Reglamentą (EB) Nr. 1783/1999 6 straipsnyje](https://eur-lex.europa.eu/eli/reg/1783/1999/art_6/oj).
 
 
 
@@ -162,7 +162,7 @@ priedas
 
 ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS
 
-2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1082/2006 dėl Europos teritorinio bendradarbiavimo grupės (ETBG) (OL 2006 L 210, p. 19).
+2006 m. liepos 5 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1082/2006](https://eur-lex.europa.eu/eli/reg/1082/2006/oj) dėl Europos teritorinio bendradarbiavimo grupės (ETBG) (OL 2006 L 210, p. 19).
 
 
 

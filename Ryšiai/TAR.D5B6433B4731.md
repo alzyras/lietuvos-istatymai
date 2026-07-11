@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų k
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 772 straipsnyje
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A9C13A86ED0A#^s-d9eea1ace7e5f03bebc13fe6|Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymas]] - 2 citatos - TARPTAUTINIŲ OPERACIJŲ, PRATYBŲ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 4 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.A9C13A86ED0A#^s-d9eea1ace7e5f03bebc13fe6|Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymas]] - TARPTAUTINIŲ OPERACIJŲ, PRATYBŲ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO 4 STRAIPSNIO PAPILDYMO ĮSTATYMAS

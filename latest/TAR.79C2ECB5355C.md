@@ -124,7 +124,7 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 ### 6 straipsnis. Įstatymo įsigaliojimas ^s-01415eac2feb84559eea8d7a
 
 
-1. Šio įstatymo 1, 2, 3 ir [[#^s-ed1546c2dd31a6286748223f|4 straipsniai]] įsigalioja 2009 m. sausio 1 d. ^s-969e9e49e068455b29c0f1f5
+1. Šio įstatymo [[#^s-281e6e448060a4bbcfb621c1|1]], [[#^s-0686aafbb56be7f79afc8bd7|2]], [[#^s-4d2ec1dc5933460b0c6fafbc|3]] ir [[#^s-ed1546c2dd31a6286748223f|4]] straipsniai įsigalioja 2009 m. sausio 1 d. ^s-969e9e49e068455b29c0f1f5
 
 
 2. Šio įstatymo [[#^s-967e7f2398ebbfeeb3968f81|5 straipsnis]] įsigalioja 2010 m. sausio 1 d. ^s-248897dd45a396874a0a0c40

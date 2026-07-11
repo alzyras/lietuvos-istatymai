@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 3, 4, 14, 15, 16,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 6 citatos - Valstybės tarnybos įstatymas
-- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - Viešojo administravimo įstatymo
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 4 citatos - Valstybės tarnybos įstatymas
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - Viešojo administravimo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - Įstatymas Nr. IX-1693
+_Nėra._

@@ -126,7 +126,7 @@ Pakeisti [[#^s-91343be05ac7b2a4e39a9630|7 straipsnį]] ir jį išdėstyti taip:
 3. Jeigu paaiškėja naujos aplinkybės, dėl kurių gali kilti interesų konfliktas, deklaruojantis asmuo privalo deklaraciją papildyti nedelsiant po šių aplinkybių paaiškėjimo. ^s-7488e75d2ceb10352c9ed9a4
 
 
-4. Šio straipsnio 1, 2 ir [[#^s-7488e75d2ceb10352c9ed9a4|3 dalyse]] nustatytais atvejais deklaracija patvirtinama, patikslinama ar papildoma Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka pateikiant deklaracijos priedą dėl duomenų patvirtinimo, patikslinimo ar papildymo. Šis priedas yra neatskiriama deklaracijos dalis.“ ^s-bb747ceb884f101fe554cd54
+4. Šio straipsnio [[#^s-99c262238ea3ed2921d01d0a|1]], [[#^s-bb4a75709d6900f2be53fe0f|2]] ir [[#^s-7488e75d2ceb10352c9ed9a4|3]] dalyse nustatytais atvejais deklaracija patvirtinama, patikslinama ar papildoma Vyriausiosios tarnybinės etikos komisijos nustatyta tvarka pateikiant deklaracijos priedą dėl duomenų patvirtinimo, patikslinimo ar papildymo. Šis priedas yra neatskiriama deklaracijos dalis.“ ^s-bb747ceb884f101fe554cd54
 
 
 
@@ -229,7 +229,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 3. Pakeisti 23 straipsnio 4 dalį ir ją išdėstyti taip: ^s-a74687bb49c49519d3e49df3
 
 
-„4. Vyriausiosios tarnybinės etikos komisijos narių darbo užmokestį, mokamą Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka, sudaro: pareiginė alga, priedas už ištarnautus Lietuvos valstybei metus ir vienkartinė priemoka. Sprendimą skirti komisijos nariui vienkartinę priemoką priima Seimo valdyba Seimo Pirmininko teikimu. Pasibaigus komisijos nario įgaliojimų laikui, jam išmokama dviejų mėnesių vidutinio darbo užmokesčio (toliau – VDU) dydžio išeitinė išmoka. Dviejų VDU dydžio išeitinė išmoka komisijos nariui išmokama, kai jo įgaliojimai nutrūksta pagal [[#^s-a74687bb49c49519d3e49df3|šio straipsnio 3 dalies]] 1 ir 4 punktus. Komisijos narių kasmetinių atostogų trukmę, suteikimo ir mokėjimo už jas tvarką bei sąlygas nustato [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]]. Socialinės garantijos komisijos nariams teikiamos [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso]] ir kitų teisės aktų nustatyta tvarka.“
+„4. Vyriausiosios tarnybinės etikos komisijos narių darbo užmokestį, mokamą Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka, sudaro: pareiginė alga, priedas už ištarnautus Lietuvos valstybei metus ir vienkartinė priemoka. Sprendimą skirti komisijos nariui vienkartinę priemoką priima Seimo valdyba Seimo Pirmininko teikimu. Pasibaigus komisijos nario įgaliojimų laikui, jam išmokama dviejų mėnesių vidutinio darbo užmokesčio (toliau – VDU) dydžio išeitinė išmoka. Dviejų VDU dydžio išeitinė išmoka komisijos nariui išmokama, kai jo įgaliojimai nutrūksta pagal šio straipsnio 3 dalies 1 ir 4 punktus. Komisijos narių kasmetinių atostogų trukmę, suteikimo ir mokėjimo už jas tvarką bei sąlygas nustato [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]]. Socialinės garantijos komisijos nariams teikiamos [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso]] ir kitų teisės aktų nustatyta tvarka.“
 
 
 4. Pakeisti 23 straipsnio 5 dalį ir ją išdėstyti taip: ^s-dee59bbb7b34040e9d983726

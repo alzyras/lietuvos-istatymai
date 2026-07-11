@@ -82,7 +82,7 @@ Lietuvos Respublikos Vyriausybė:
 2) iki 1997 m. balandžio 30 d. priima naujus teisės aktus ir priimtų teisės aktų pakeitimus bei papildymus, būtinus visiškam [[latest/TAR.94F6B680E8B8|Sveikatos draudimo įstatymo]] įgyvendinimui nuo 1997 m. liepos 1 d.; ^s-2298f91065e6d877a3804570
 
 
-3) Sveikatos draudimo įstatymo 20 straipsnio 3 dalies nuostatai įgyvendinti skiria Valstybinei ligonių kasai 10 mln.Lt materialinei bazei sukurti.“ ^s-4c387eb09f317aff148c22f2
+3) [[latest/TAR.94F6B680E8B8|Sveikatos draudimo įstatymo 20 straipsnio 3 dalies]] nuostatai įgyvendinti skiria Valstybinei ligonių kasai 10 mln.Lt materialinei bazei sukurti.“ ^s-4c387eb09f317aff148c22f2
 
 
 

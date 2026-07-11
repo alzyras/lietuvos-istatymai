@@ -224,7 +224,7 @@ BENDROSIOS NUOSTATOS
 2. Konkretus ugdymo turinys formuojamas ir sistemingai atnaujinamas atsižvelgiant į atitinkamo tipo mokyklai keliamus ugdymo tikslus, besikeičiančios socialinės bei kultūrinės aplinkos lemiamus Lietuvos visuomenės poreikius, vietos bei mokyklos bendruomenės reikmes, taip pat konkrečius mokinių ir studentų ugdymosi poreikius bei interesus. ^s-f4eecdee6d53ff656504ce73
 
 
-3. Šio straipsnio 1 ir [[#^s-f4eecdee6d53ff656504ce73|2 dalyse]] nurodytų reikalavimų laikomasi rengiant ikimokykliniam, priešmokykliniam ugdymui, bendrajam lavinimui, profesiniam mokymui, studijoms aukštesniosiose ir aukštosiose mokyklose skirtas ugdymo programas (modulius), išsilavinimo standartus ir (ar) kvalifikacinius reikalavimus, ugdymo ar studijų planus, egzaminų programas, vadovėlius, kitas mokymo priemones, papildomą ugdymo medžiagą. ^s-1796683eafa51f6b3193602f
+3. Šio straipsnio [[#^s-0c7ecce98e5d5db34709dab3|1]] ir [[#^s-f4eecdee6d53ff656504ce73|2]] dalyse nurodytų reikalavimų laikomasi rengiant ikimokykliniam, priešmokykliniam ugdymui, bendrajam lavinimui, profesiniam mokymui, studijoms aukštesniosiose ir aukštosiose mokyklose skirtas ugdymo programas (modulius), išsilavinimo standartus ir (ar) kvalifikacinius reikalavimus, ugdymo ar studijų planus, egzaminų programas, vadovėlius, kitas mokymo priemones, papildomą ugdymo medžiagą. ^s-1796683eafa51f6b3193602f
 
 
 
@@ -422,10 +422,10 @@ Lietuvos švietimo sistema apima:
 3. Aukštojo mokslo studijų programas vykdo aukštosios mokyklos – universitetai ir kolegijos. Studentas, studijuodamas su pertraukomis įvairiose aukštosiose mokyklose, šias programas gali įgyti atskirais moduliais. ^s-5dbd8f0576437e306949f9c5
 
 
-4. Baigus aukštojo mokslo studijų programas įgyjamas aukštasis išsilavinimas ir (ar) kvalifikacija. Mokslo laipsnis įgyjamas Aukštojo mokslo įstatyme nustatyta tvarka. ^s-d813a711683ca7d9c4df5de3
+4. Baigus aukštojo mokslo studijų programas įgyjamas aukštasis išsilavinimas ir (ar) kvalifikacija. Mokslo laipsnis įgyjamas [Aukštojo mokslo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F) nustatyta tvarka. ^s-d813a711683ca7d9c4df5de3
 
 
-5. Aukštųjų mokyklų veiklos principus ir studijų jose tvarką nustato Aukštojo mokslo įstatymas. ^s-d08d14699c39c9e9d78661a0
+5. Aukštųjų mokyklų veiklos principus ir studijų jose tvarką nustato [Aukštojo mokslo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F). ^s-d08d14699c39c9e9d78661a0
 
 
 
@@ -447,7 +447,7 @@ Lietuvos švietimo sistema apima:
 5. Specialiųjų poreikių asmenys, mokydamiesi pagal valstybinius išsilavinimo standartus atitinkančias programas, gali įgyti išsilavinimą ir (ar) kvalifikaciją. Atskirais atvejais kvalifikacija įgyjama neturint išsilavinimo. ^s-9f042fb1e0882fc5b069b04a
 
 
-6. Specialųjį ugdymą reglamentuoja Specialiojo ugdymo įstatymas. ^s-a96895fe6bdf6cbc7b077a17
+6. Specialųjį ugdymą reglamentuoja [Specialiojo ugdymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E803358CC7B7). ^s-a96895fe6bdf6cbc7b077a17
 
 
 
@@ -547,7 +547,7 @@ Lietuvos švietimo sistema apima:
 2. Specialiąją pedagoginę pagalbą asmeniui iki 21 metų amžiaus teikia pedagoginių psichologinių tarnybų, mokyklų specialieji pedagogai Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. ^s-b84562df8c2c08e9e68cfe83
 
 
-3. Specialioji pagalba teikiama asmeniui, kuriam jos reikia. Specialiojo ugdymo įstatymo nustatyta tvarka asmuo aprūpinamas ugdymui skirta kompensacine technika, jam skiriami vertėjai, skaitovai, palydovai, mokytojų padėjėjai. ^s-42afa8d507ccaf2a433e00dd
+3. Specialioji pagalba teikiama asmeniui, kuriam jos reikia. [Specialiojo ugdymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.E803358CC7B7) nustatyta tvarka asmuo aprūpinamas ugdymui skirta kompensacine technika, jam skiriami vertėjai, skaitovai, palydovai, mokytojų padėjėjai. ^s-42afa8d507ccaf2a433e00dd
 
 
 4. Pedagoginių psichologinių tarnybų, mokyklų specialieji pedagogai konsultuoja specialiosios pagalbos gavėjų tėvus (globėjus, rūpintojus) ir mokytojus. ^s-a7ed583fb39eea764ab45019
@@ -635,7 +635,7 @@ Lietuvos švietimo sistema apima:
 ### 27 straipsnis. Galimybė pasirinkti švietimo programas ^s-58f30fb74276415d167e2245
 
 
-1. Asmuo, rinkdamasis ugdymo programas, laikosi šio Įstatymo 7–[[#^s-35ddbf21275620190b84fe15|14 straipsniuose]] nustatyto programų nuoseklumo. ^s-04a443f12f4c0ad64b83ee1b
+1. Asmuo, rinkdamasis ugdymo programas, laikosi šio Įstatymo [[#^s-7b353c16bee3fe1b7ab8aac6|7]]–[[#^s-35ddbf21275620190b84fe15|14]] straipsniuose nustatyto programų nuoseklumo. ^s-04a443f12f4c0ad64b83ee1b
 
 
 2. Mokiniui suteikiama galimybė pagal gebėjimus ir polinkius rinktis švietimo programas, skirtingus jų variantus, modulius, dalykų kursų programas. Mokinys taip pat renkasi švietimo programą vykdančią mokyklą, kitą švietimo teikėją arba švietimo ir mokslo ministro nustatyta tvarka savarankišką mokymąsi. ^s-7ec29b0aa929d479bfae30c4
@@ -768,7 +768,7 @@ Lietuvos švietimo sistema apima:
 5. Tikybos mokyti pagal formaliojo švietimo programas (išskyrus aukštojo mokslo studijų) gali asmuo, įgijęs aukštąjį arba aukštesnįjį išsilavinimą bei pedagogo kvalifikaciją arba turintis tam reikalingą specialųjį pasirengimą. Toks asmuo privalo turėti tradicinės religinės bendruomenės ar bendrijos vadovybės nustatyta tvarka išduotą leidimą (siuntimą) mokyti tikybos. ^s-7b5baf89a7e9d2e30203844d
 
 
-6. Mokykla, negalinti užtikrinti mokinių ar jų tėvų (globėjų, rūpintojų) pageidaujamos tradicinės religinės bendruomenės ar bendrijos tikybos mokymo, įskaito mokiniui tikybos mokymą sekmadieninėje mokykloje ar kitoje tikybos mokymo grupėje pagal šio straipsnio 4 ir [[#^s-7b5baf89a7e9d2e30203844d|5 dalyse]] nustatytus reikalavimus. ^s-fbebaa9048e216c7a3c1f51d
+6. Mokykla, negalinti užtikrinti mokinių ar jų tėvų (globėjų, rūpintojų) pageidaujamos tradicinės religinės bendruomenės ar bendrijos tikybos mokymo, įskaito mokiniui tikybos mokymą sekmadieninėje mokykloje ar kitoje tikybos mokymo grupėje pagal šio straipsnio [[#^s-274c8c7f74558d9ed0cadc02|4]] ir [[#^s-7b5baf89a7e9d2e30203844d|5]] dalyse nustatytus reikalavimus. ^s-fbebaa9048e216c7a3c1f51d
 
 
 7. Tikybai mokyti ir tikybos programą papildantiems bei mokinių saviraiškos poreikius tenkinantiems šios programos moduliams vykdyti sudaromos tokios pat sąlygos kaip ir kitiems mokomiesiems pasirenkamiesiems dalykams mokyti bei jų programas papildantiems ir mokinių saviraiškos poreikius tenkinantiems šių programų moduliams vykdyti. ^s-30a2396fa4caf4ff4b133fb9
@@ -925,7 +925,7 @@ Lietuvos švietimo sistema apima:
 4. Švietimo ir mokslo ministro įgaliotos institucijos organizuoja egzaminus ir užsako kitus pasiekimų vertinimo būdus. ^s-64668a29ef2485d36eb8105f
 
 
-5. Aukštųjų mokyklų studentų mokymosi pasiekimai vertinami Aukštojo mokslo įstatymo nustatyta tvarka. ^s-cde131ce8108465ee5f6fa65
+5. Aukštųjų mokyklų studentų mokymosi pasiekimai vertinami [Aukštojo mokslo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F) nustatyta tvarka. ^s-cde131ce8108465ee5f6fa65
 
 
 
@@ -947,7 +947,7 @@ Lietuvos švietimo sistema apima:
 3) aukštesniojo mokslo diplomas – išėjus aukštesniųjų studijų programą ir apgynus baigiamąjį darbą (projektą) ir (ar) išlaikius baigiamuosius egzaminus. ^s-47751797811e5153eb6c639a
 
 
-3. Mokymosi pasiekimus įteisinančių dokumentų, liudijančių profesinio mokymosi ar studijų programų baigimą, aukštojo išsilavinimo, kvalifikacijos, kvalifikacinio laipsnio ir mokslo laipsnio suteikimą, išdavimą reglamentuoja [[latest/TAR.44FA08A7226F|Profesinio mokymo įstatymas]] ir Aukštojo mokslo įstatymas. ^s-1de51ff20716ed2e08abd433
+3. Mokymosi pasiekimus įteisinančių dokumentų, liudijančių profesinio mokymosi ar studijų programų baigimą, aukštojo išsilavinimo, kvalifikacijos, kvalifikacinio laipsnio ir mokslo laipsnio suteikimą, išdavimą reglamentuoja [[latest/TAR.44FA08A7226F|Profesinio mokymo įstatymas]] ir [Aukštojo mokslo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F). ^s-1de51ff20716ed2e08abd433
 
 
 4. Mokiniui, išėjusiam pradinio, pagrindinio, vidurinio ugdymo programos dalį (modulį), specialiąją programą ar neišlaikiusiam brandos egzaminų, išduodamas mokymosi pasiekimų pažymėjimas. ^s-e93bf2b96248e6a685905f74
@@ -1118,7 +1118,7 @@ MOKYKLŲ, PAGALBOS ĮSTAIGŲ STEIGIMAS, VEIKLA, PABAIGA IR PERTVARKYMAS
 4. Valstybinės ir savivaldybės mokyklos nuostatai rengiami vadovaujantis švietimo ir mokslo ministro patvirtintais reikalavimais atitinkamo mokyklos tipo nuostatams. ^s-636d2da54456d4bdc95f052a
 
 
-5. Aukštosios mokyklos veiklą reglamentuoja jos statutas. Statutas rengiamas ir tvirtinamas Aukštojo mokslo įstatymo nustatyta tvarka. ^s-4106466ac28457a49161843d
+5. Aukštosios mokyklos veiklą reglamentuoja jos statutas. Statutas rengiamas ir tvirtinamas [Aukštojo mokslo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F) nustatyta tvarka. ^s-4106466ac28457a49161843d
 
 
 6. Mokykla vidurinio ugdymo, profesinio mokymo ir aukštesniųjų studijų programas gali vykdyti tik turėdama švietimo ir mokslo ministro ar Vyriausybės išduotą licenciją. Licencijavimo taisykles tvirtina Vyriausybė ar jos įgaliota institucija. ^s-d474dfe0a78f2fc6dde81dfc
@@ -1203,7 +1203,7 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 5. Švietimo santykiai prasideda nuo mokinio pirmos mokymosi dienos. Sutartys sudaromos iki pirmos mokymosi dienos. Sutarties nuostata, prieštaraujanti šiam ir kitiems įstatymams, negalioja. Sutartis registruojama mokykloje, jeigu kiti įstatymai nenustato kitaip. ^s-fc7e14b6da4e3ca6fdba084f
 
 
-6. Profesinio bei praktinio mokymo sutartys sudaromos [[latest/TAR.44FA08A7226F|Profesinio mokymo įstatymo]] nustatyta tvarka, aukštojo mokslo studijų sutartys – Aukštojo mokslo įstatymo nustatyta tvarka. ^s-8a9e82a4a351798830072fa8
+6. Profesinio bei praktinio mokymo sutartys sudaromos [[latest/TAR.44FA08A7226F|Profesinio mokymo įstatymo]] nustatyta tvarka, aukštojo mokslo studijų sutartys – [Aukštojo mokslo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F) nustatyta tvarka. ^s-8a9e82a4a351798830072fa8
 
 
 
@@ -1283,7 +1283,7 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 4) dalyvauti mokyklos savivaldoje; ^s-623ffa9f5c1e1ea6a879a4a1
 
 
-5) naudotis Specialiojo ugdymo įstatymo ir kitų įstatymų nustatytomis teisėmis. ^s-1bbddcca1164c26bdc8efd26
+5) naudotis [Specialiojo ugdymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.E803358CC7B7) ir kitų įstatymų nustatytomis teisėmis. ^s-1bbddcca1164c26bdc8efd26
 
 
 2. Tėvai (globėjai, rūpintojai) privalo: ^s-02a336041356de02858b85c4
@@ -1583,7 +1583,7 @@ MOKINIO, TĖVŲ (globėjų, rūpintojų), MOKYTOJO IR KITO ŠVIETIMO TEIKĖJO TE
 12. Mokyklos metinei veiklos programai pritaria mokyklos taryba, steigėjas ir ją tvirtina mokyklos vadovas. ^s-e20ee6b96046f8d3654ce191
 
 
-13. Aukštojo mokslo planavimas atliekamas Aukštojo mokslo įstatymo nustatyta tvarka. ^s-90ff128aa8e89d8f81323ae5
+13. Aukštojo mokslo planavimas atliekamas [Aukštojo mokslo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F) nustatyta tvarka. ^s-90ff128aa8e89d8f81323ae5
 
 
 
@@ -1621,7 +1621,7 @@ Vyriausybė:
 3) rengti strateginius švietimo planus, metines švietimo veiklos programas; ^s-a37dbf9ec3d0c4dc7f0473c3
 
 
-4) teikti Vyriausybei siūlymus ir nutarimų projektus: dėl įstatymų ir kitų teisės aktų rengimo bei tobulinimo; dėl švietimo finansavimo, mokyklų materialinės bazės, disponavimo mokyklų turtu; dėl valstybinių aukštųjų mokyklų steigimo, reorganizavimo, likvidavimo ir pertvarkymo; dėl leidimų vykdyti studijas išdavimo; ^s-6f682688684f2fc877bab6e1
+4) teikti Vyriausybei siūlymus ir nutarimų projektus: dėl įstatymų ir kitų teisės aktų rengimo bei tobulinimo; dėl švietimo finansavimo, mokyklų materialinės bazės, disponavimo mokyklų turtu; dėl valstybinių aukštųjų mokyklų steigimo, reorganizavimo, likvidavimo ir pertvarkymo; [dėl leidimų](https://e-tar.lt/portal/lt/legalAct/TAR.49F3BFF08717) vykdyti studijas išdavimo; ^s-6f682688684f2fc877bab6e1
 
 
 5) nustatyti mokslo metų pradžią ir trukmę formaliojo švietimo mokyklose (išskyrus nevalstybines ir aukštąsias); ^s-dd2e322e994e69ced6630bde
@@ -1836,7 +1836,7 @@ Savivaldybės institucijos:
 5) atlieka mokyklos steigėjo priskirtas funkcijas, įtvirtintas mokyklos nuostatuose ir pareigybės aprašyme. ^s-0a4286881d6611344da2ce24
 
 
-2. Aukštosios mokyklos vadovo įgaliojimus ir atsakomybę nustato Aukštojo mokslo įstatymas. ^s-9bd48f246bb558165000262b
+2. Aukštosios mokyklos vadovo įgaliojimus ir atsakomybę nustato [Aukštojo mokslo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F). ^s-9bd48f246bb558165000262b
 
 
 
@@ -1984,7 +1984,7 @@ Visuomenės dalyvavimą formuojant švietimo politiką ir priimant švietimo spr
 5. Profesines, aukštesniąsias, neformaliojo suaugusiųjų švietimo mokyklas, pagalbą mokiniui, mokytojui ir mokyklai teikiančias įstaigas finansuoja steigėjai. ^s-d6561496448ffe9275d1eba4
 
 
-6. Aukštosios mokyklos finansuojamos Aukštojo mokslo įstatymo nustatyta tvarka. ^s-344c267d527cb35227a8fccf
+6. Aukštosios mokyklos finansuojamos [Aukštojo mokslo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F) nustatyta tvarka. ^s-344c267d527cb35227a8fccf
 
 
 7. Vaikų muzikos, dailės, meno ir sporto mokyklos, nevalstybinės mokyklos, neformaliojo švietimo programos Vyriausybės nustatyta tvarka remiamos iš valstybės ir savivaldybių biudžetų. Nevalstybinės tradicinės religinės bendruomenės ar bendrijos mokyklos, vykdančios formaliojo švietimo programas, finansuojamos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, skiriant iš biudžeto mokymo lėšų ir mokyklos ūkio lėšų tiek, kiek ir to paties tipo valstybinėms ar savivaldybės mokykloms, jeigu tai numatyta Lietuvos Respublikos tarptautinėje sutartyje. ^s-ebbd72afb52a5f06460139a9
@@ -2006,7 +2006,7 @@ Visuomenės dalyvavimą formuojant švietimo politiką ir priimant švietimo spr
 3. Nevalstybinių mokyklų vadovų, mokytojų ir kitų darbuotojų pareiginės algos dydis nustatomas vadovaujantis darbo įstatymų nustatyta tvarka. ^s-530fbb72af290833b71044d3
 
 
-4. Aukštosios mokyklos vadovui, dėstytojui, mokslo darbuotojui mokama už darbą atsižvelgiant į pareigas, darbo stažą ir mokslinę kvalifikaciją Aukštojo mokslo įstatymo ir kitų teisės aktų nustatyta tvarka. ^s-6a08d4f41c2022fc7bd9f9a8
+4. Aukštosios mokyklos vadovui, dėstytojui, mokslo darbuotojui mokama už darbą atsižvelgiant į pareigas, darbo stažą ir mokslinę kvalifikaciją [Aukštojo mokslo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F) ir kitų teisės aktų nustatyta tvarka. ^s-6a08d4f41c2022fc7bd9f9a8
 
 
 
@@ -2016,7 +2016,7 @@ Visuomenės dalyvavimą formuojant švietimo politiką ir priimant švietimo spr
 1. Technologinio profilio, profesinės ir aukštesniosios mokyklos mokiniui ir studentui gali būti mokama stipendija, skiriama materialinė parama Vyriausybės nustatyta tvarka. ^s-002b72cbe50d63b28e444145
 
 
-2. Paramą aukštosios mokyklos studentui reglamentuoja Aukštojo mokslo įstatymas. ^s-95d61a9c45f8052f8775c352
+2. Paramą aukštosios mokyklos studentui reglamentuoja [Aukštojo mokslo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F). ^s-95d61a9c45f8052f8775c352
 
 
 3. Neformaliojo švietimo mokiniui Vyriausybės nustatyta tvarka gali būti suteikta parama. ^s-340790aad8e2a5da230b4456

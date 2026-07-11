@@ -46,13 +46,13 @@ Vilnius
 1. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip: ^s-f834c4df58bb2a0ba778a172
 
 
-„2. Asmenys, kurie iki šio įstatymo įsigaliojimo turėjo šio įstatymo [[#^s-acf442fa18f0e515d7fd0162|1 straipsnyje]] išdėstyto [[latest/TAR.389CB90C666D#^s-ebfa71358804d43be2498c05|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 5 straipsnio]] 6, 7 ar 8 punkte nurodytų šaunamųjų ginklų, privalo iki 2014 m. sausio 1 d. Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikti prašymą ir gauti leidimą laikyti ginklus arba leidimą nešiotis ginklus. Šiems asmenims, jeigu jie pateikia įsigijimą patvirtinančius dokumentus, netaikomas šio įstatymo [[#^s-acf442fa18f0e515d7fd0162|1 straipsnyje]] išdėstyto [[latest/TAR.389CB90C666D#^s-89e718084d4a896c5132e8df|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 13 straipsnio 4 dalyje]] nustatytas 21 metų amžiaus reikalavimas. Jiems taikomas 18 metų amžiaus reikalavimas.“
+„2. Asmenys, kurie iki šio įstatymo įsigaliojimo turėjo šio įstatymo [[#^s-acf442fa18f0e515d7fd0162|1 straipsnyje]] išdėstyto [[latest/TAR.389CB90C666D#^s-ebfa71358804d43be2498c05|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 5 straipsnio]] [[latest/TAR.389CB90C666D|6]], [[latest/TAR.389CB90C666D|7]] ar [[latest/TAR.389CB90C666D|8]] punkte nurodytų šaunamųjų ginklų, privalo iki 2014 m. sausio 1 d. Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikti prašymą ir gauti leidimą laikyti ginklus arba leidimą nešiotis ginklus. Šiems asmenims, jeigu jie pateikia įsigijimą patvirtinančius dokumentus, netaikomas šio įstatymo [[#^s-acf442fa18f0e515d7fd0162|1 straipsnyje]] išdėstyto [[latest/TAR.389CB90C666D#^s-89e718084d4a896c5132e8df|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 13 straipsnio 4 dalyje]] nustatytas 21 metų amžiaus reikalavimas. Jiems taikomas 18 metų amžiaus reikalavimas.“
 
 
 2. Pakeisti 2 straipsnio 3 dalį ir ją išdėstyti taip: ^s-89abee4fdab30af3828270b7
 
 
-„3. [[#^s-89abee4fdab30af3828270b7|Šio straipsnio 2 dalyje]] nurodyti asmenys iki [[#^s-89abee4fdab30af3828270b7|šio straipsnio 2 dalyje]] nustatyto termino pabaigos turi teisę laikyti šio įstatymo [[#^s-acf442fa18f0e515d7fd0162|1 straipsnyje]] išdėstyto [[latest/TAR.389CB90C666D#^s-ebfa71358804d43be2498c05|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 5 straipsnio]] 6, 7 ar 8 punkte nurodytus šaunamuosius ginklus ar juos nešiotis be leidimo.“
+„3. Šio straipsnio 2 dalyje nurodyti asmenys iki šio straipsnio 2 dalyje nustatyto termino pabaigos turi teisę laikyti šio įstatymo [[#^s-acf442fa18f0e515d7fd0162|1 straipsnyje]] išdėstyto [[latest/TAR.389CB90C666D#^s-ebfa71358804d43be2498c05|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 5 straipsnio]] [[latest/TAR.389CB90C666D|6]], [[latest/TAR.389CB90C666D|7]] ar [[latest/TAR.389CB90C666D|8]] punkte nurodytus šaunamuosius ginklus ar juos nešiotis be leidimo.“
 
 
 3. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip: ^s-0d9fd0d14c21acae0cab5221

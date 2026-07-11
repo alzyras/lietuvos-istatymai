@@ -103,7 +103,7 @@ Papildyti 2 straipsnio 1 dalį antru sakiniu ir šią dalį išdėstyti taip:
 1. 11 straipsnio 2 dalyje vietoj žodžio „ir“ įrašyti žodį „o“, vietoj žodžio „vasario“ įrašyti žodį „kovo“ ir šią dalį išdėstyti taip: ^s-889772f665be297ddc6cd9d0
 
 
-„2. Viešieji juridiniai asmenys, nurodyti šio Įstatymo [[#^s-889772f665be297ddc6cd9d0|6 straipsnio 1 dalyje]], pateikia Valstybės kontrolei vidaus audito tarnybos metinius vidaus audito planus per 10 kalendorinių dienų po jų suderinimo su viešojo juridinio asmens vadovu, o metines vidaus audito tarnybos veiklos ataskaitas – iki kiekvienų metų kovo 1 dienos.“
+„2. Viešieji juridiniai asmenys, nurodyti šio Įstatymo 6 straipsnio 1 dalyje, pateikia Valstybės kontrolei vidaus audito tarnybos metinius vidaus audito planus per 10 kalendorinių dienų po jų suderinimo su viešojo juridinio asmens vadovu, o metines vidaus audito tarnybos veiklos ataskaitas – iki kiekvienų metų kovo 1 dienos.“
 
 
 2. Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip: ^s-55dcb7d0a9a7bb4f44f18637

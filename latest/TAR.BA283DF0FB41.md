@@ -279,7 +279,7 @@ Priklausomieji želdynai, atsižvelgiant į žemės sklypo, kurio sudėtyje yra 
 6) rekreacinių teritorijų želdynus; ^s-93f988b56a8e75c65b2c067f
 
 
-7) kitų teritorijų želdynus, neišvardytus šios dalies 1–[[#^s-93f988b56a8e75c65b2c067f|6 punktuose]]. ^s-239dd7ef8b12922997edc60a
+7) kitų teritorijų želdynus, neišvardytus šios dalies [[#^s-0fcdf5084426f5365244239f|1]]–[[#^s-93f988b56a8e75c65b2c067f|6]] punktuose. ^s-239dd7ef8b12922997edc60a
 
 
 

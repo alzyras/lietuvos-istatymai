@@ -13,4 +13,4 @@ pavadinimas: "Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis 
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9D04F98F7C14#^s-e0747e411ff1121a49e2a231|Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymas]] - Įstatymas Nr. I-875
+- [[latest/TAR.9D04F98F7C14#^s-e0747e411ff1121a49e2a231|Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymas]] - DĖL LIETUVOS RESPUBLIKOS GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO PAKEITIMO

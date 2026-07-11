@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 7 straipsnio 1 ir 2 dalių pakeitimas ^s-f3fdf0c334d71b2b43a11f04
 
 
-Pakeisti 7 straipsnio 1, [[#^s-c256214848cb63c63c2f2306|2 dalis]] ir jas išdėstyti taip:
+Pakeisti 7 straipsnio 1, 2 dalis ir jas išdėstyti taip:
 
 
 „1. Atlyginimo už atskirus nekilnojamojo turto objektus (žemę, mišką, vandens telkinius, ūkinės–komercinės paskirties pastatus ir jų priklausinius, gyvenamuosius namus, jų dalis, butus) dydžius, jo mokėjimo terminus ir tvarką kasmet, patvirtinus valstybės biudžeto ir savivaldybių biudžetų finansinius rodiklius, nustato Vyriausybė, atsižvelgdama į valstybės finansines išgales, įskaitant naujus valstybės turtinius įsipareigojimus ir valstybės pajamų šaltinius.

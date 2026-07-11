@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 10 straipsnio 1 dalies 1 ir 2 punktų pakeitimas ^s-2864ea69a649bd4e9a053aeb
 
 
-Pakeisti 10 straipsnio 1 dalies 1 ir [[#^s-777e0a38f0bbf095a001ba40|2 punktus]] ir juos išdėstyti taip:
+Pakeisti 10 straipsnio 1 dalies 1 ir 2 punktus ir juos išdėstyti taip:
 
 
 „1) gyventojų pajamų mokesčio dalį, tenkančią visų savivaldybių biudžetams nuo įplaukų į nacionalinį biudžetą. Gyventojų pajamų mokesčio dalis koreguojama atsižvelgiant į einamųjų ar ateinančių biudžetinių metų Seimo ir Vyriausybės sprendimų nulemtus savivaldybių išlaidų ar pajamų pokyčius;

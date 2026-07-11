@@ -168,7 +168,7 @@ Pakeisti 152 straipsnio 5 dalį ir ją išdėstyti taip:
 ### 11 straipsnis. 154 straipsnio pakeitimas ^s-40e99b781b8a8f75dad9c9b6
 
 
-Pakeisti 154 straipsnio 1 ir [[#^s-9a93c16c58ec71e3464000d0|2 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 154 straipsnio 1 ir 2 dalis ir visą straipsnį išdėstyti taip:
 
 
 
@@ -234,10 +234,10 @@ Pakeisti 157 straipsnį ir jį išdėstyti taip:
 4. Lygtinį paleidimą iš pataisos įstaigų taiko vietovės, kurioje yra nuteistojo pataisos įstaiga, apylinkės teismas nutartimi, kuria patvirtinamas Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimas taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos. ^s-8c632d7cbf518eda9bc820e5
 
 
-5. Teismas, nutartimi patvirtindamas [[#^s-8c632d7cbf518eda9bc820e5|šio straipsnio 4 dalyje]] nurodytą Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimą, kartu nustato nuteistajam šios komisijos siūlomas Lietuvos Respublikos baudžiamojo kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 ar [[#^s-df4a052c61873ef2a67049f5|3 dalyje]] numatytas pareigas ir laiką, per kurį nuteistasis privalo įvykdyti paskirtas baudžiamojo poveikio priemones ir (ar) pareigas. ^s-4d8569c6709a9e443bf6f693
+5. Teismas, nutartimi patvirtindamas [[#^s-8c632d7cbf518eda9bc820e5|šio straipsnio 4 dalyje]] nurodytą Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimą, kartu nustato nuteistajam šios komisijos siūlomas Lietuvos Respublikos baudžiamojo kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 ar 3 dalyje numatytas pareigas ir laiką, per kurį nuteistasis privalo įvykdyti paskirtas baudžiamojo poveikio priemones ir (ar) pareigas. ^s-4d8569c6709a9e443bf6f693
 
 
-6. Lygtinai paleidžiamiems iš pataisos įstaigų nepilnamečiams vietoj Lietuvos Respublikos baudžiamojo kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių ir (ar) Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 ar [[#^s-df4a052c61873ef2a67049f5|3 dalyje]] numatytų pareigų nustatomos Lietuvos Respublikos baudžiamojo kodekso 82 straipsnyje numatytos auklėjamojo poveikio priemonės (išskyrus atidavimą į specialią auklėjimo įstaigą). ^s-175173c49711f6dc672cd804
+6. Lygtinai paleidžiamiems iš pataisos įstaigų nepilnamečiams vietoj Lietuvos Respublikos baudžiamojo kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių ir (ar) Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 ar 3 dalyje numatytų pareigų nustatomos Lietuvos Respublikos baudžiamojo kodekso 82 straipsnyje numatytos auklėjamojo poveikio priemonės (išskyrus atidavimą į specialią auklėjimo įstaigą). ^s-175173c49711f6dc672cd804
 
 
 7. Lygtinai paleisti iš pataisos įstaigų nuteistieji, kurie buvo nukreipti atlikti likusią nuosprendžiu paskirtos laisvės atėmimo bausmės dalį, gali būti teikiami lygtinai paleisti iš pataisos įstaigų praėjus vieneriems metams nuo teismo nutarties dėl pasiuntimo į pataisos įstaigą vykdymo pradžios, kai jie yra faktiškai atlikę šią minimalią nuosprendžiu paskirtos laisvės atėmimo bausmės dalį: ^s-f97a2f287a123d1446d74253
@@ -338,10 +338,10 @@ Pakeisti 164 straipsnį ir jį išdėstyti taip:
 2. Lygtinio paleidimo iš pataisos įstaigos komisija likus ne daugiau kaip dešimt darbo dienų iki nuteistojo galimo lygtinio paleidimo iš pataisos įstaigos pagal šio Kodekso 157 straipsnį apsvarsto nuteistojo prašymą lygtinai paleisti iš pataisos įstaigos ir socialinio tyrimo išvadą, įvertina nuteistojo elgesį bausmės atlikimo metu, jam taikytas socialinės reabilitacijos priemones ir jų įvykdymo rezultatus, nusikalstamo elgesio riziką, kitas aplinkybes, kurios gali turėti įtakos sprendimui dėl lygtinio paleidimo iš pataisos įstaigos taikymo tikslingumo, ir priima motyvuotą nutarimą taikyti arba netaikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos. ^s-617da9b840f6970b90b71cbf
 
 
-3. Lygtinio paleidimo iš pataisos įstaigos komisijos nutarime taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos turi būti motyvuotai nurodytos auklėjamojo poveikio ar baudžiamojo poveikio priemonės ir (ar) Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 ar [[#^s-4f68f560d3258a23459cb9fd|3 dalyje]] numatytos pareigos, kurias tikslinga nustatyti lygtinai paleidžiamam iš pataisos įstaigos nuteistajam, ir laikas, per kurį nuteistasis privalo įvykdyti paskirtas auklėjamojo poveikio ar baudžiamojo poveikio priemones ir (ar) pareigas. Šis laikas negali būti ilgesnis už likusios bausmės laiką. Nutarimas suėjus šio Kodekso 157 straipsnio 2 ar [[#^s-4f68f560d3258a23459cb9fd|3 dalyje]] nurodytam galimam lygtinio paleidimo iš pataisos įstaigos terminui pateikiamas tvirtinti vietovės, kurioje yra nuteistojo pataisos įstaiga, apylinkės teismui. Kartu su šiuo nutarimu pateikiama ir nuteistojo asmens byla. ^s-4f68f560d3258a23459cb9fd
+3. Lygtinio paleidimo iš pataisos įstaigos komisijos nutarime taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos turi būti motyvuotai nurodytos auklėjamojo poveikio ar baudžiamojo poveikio priemonės ir (ar) Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 ar 3 dalyje numatytos pareigos, kurias tikslinga nustatyti lygtinai paleidžiamam iš pataisos įstaigos nuteistajam, ir laikas, per kurį nuteistasis privalo įvykdyti paskirtas auklėjamojo poveikio ar baudžiamojo poveikio priemones ir (ar) pareigas. Šis laikas negali būti ilgesnis už likusios bausmės laiką. Nutarimas suėjus šio Kodekso 157 straipsnio 2 ar 3 dalyje nurodytam galimam lygtinio paleidimo iš pataisos įstaigos terminui pateikiamas tvirtinti vietovės, kurioje yra nuteistojo pataisos įstaiga, apylinkės teismui. Kartu su šiuo nutarimu pateikiama ir nuteistojo asmens byla. ^s-4f68f560d3258a23459cb9fd
 
 
-4. Jeigu nuteistasis prašyme lygtinai paleisti iš pataisos įstaigos nurodė šio Kodekso 157 straipsnio 3 dalyje nustatytą sutikimą ir Lygtinio paleidimo iš pataisos įstaigos komisija priėmė nutarimą taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos, vietoj auklėjamojo poveikio ar baudžiamojo poveikio priemonių ir (ar) Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 ar [[#^s-4f68f560d3258a23459cb9fd|3 dalyje]] numatytų pareigų Lygtinio paleidimo iš pataisos įstaigos komisija nutarime nurodo, kad lygtinai paleidžiamam iš pataisos įstaigos nuteistajam tikslinga nustatyti intensyvią priežiūrą. ^s-ec51ac2ee3e7a991fc5172d5
+4. Jeigu nuteistasis prašyme lygtinai paleisti iš pataisos įstaigos nurodė šio Kodekso 157 straipsnio 3 dalyje nustatytą sutikimą ir Lygtinio paleidimo iš pataisos įstaigos komisija priėmė nutarimą taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos, vietoj auklėjamojo poveikio ar baudžiamojo poveikio priemonių ir (ar) Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 ar 3 dalyje numatytų pareigų Lygtinio paleidimo iš pataisos įstaigos komisija nutarime nurodo, kad lygtinai paleidžiamam iš pataisos įstaigos nuteistajam tikslinga nustatyti intensyvią priežiūrą. ^s-ec51ac2ee3e7a991fc5172d5
 
 
 5. Jeigu Lygtinio paleidimo iš pataisos įstaigos komisija priima nutarimą netaikyti nuteistajam lygtinio paleidimo iš pataisos įstaigos, nutarime turi būti pateikiamos motyvuotos rekomendacijos pataisos įstaigai ir (ar) nuteistajam dėl nuteistojo socialinės reabilitacijos ir (ar) nuteistojo nusikalstamo elgesio rizikos mažinimo, šių rekomendacijų įgyvendinimo terminas ir nustatyta pakartotinio svarstymo dėl nuteistojo lygtinio paleidimo iš pataisos įstaigos data. Pakartotinis svarstymas negali būti vėliau kaip po šešių mėnesių. ^s-7ad3c82982d5159bf2e7eadf
@@ -354,7 +354,7 @@ Pakeisti 164 straipsnį ir jį išdėstyti taip:
 ### 20 straipsnis. 176 straipsnio pakeitimas ^s-ec5b4263a624e1848fe8a48e
 
 
-176 straipsnio 6 punktą pripažinti netekusiu galios, buvusius 7 ir 8 punktus laikyti atitinkamai 6 ir [[#^s-82fd8eaeeeed7ca5dd6a7598|7 punktais]] ir visą straipsnį išdėstyti taip:
+176 straipsnio 6 punktą pripažinti netekusiu galios, buvusius 7 ir 8 punktus laikyti atitinkamai 6 ir 7 punktais ir visą straipsnį išdėstyti taip:
 
 
 

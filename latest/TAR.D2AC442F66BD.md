@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio 1 dalies pakeitimas ir papildymas 3 dalimi ^s-4e1c6d265c0ef055c17e864b
 
 
-1. Pakeisti [[#^s-26175794884082202eaea464|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-26175794884082202eaea464
+1. Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip: ^s-26175794884082202eaea464
 
 
 „1. Šis įstatymas reglamentuoja  santykius, atsirandančius vežant jūrų laivais krovinius, keleivius ir bagažą, taip pat laivo valdytojo ribotosios atsakomybės ribas, darbo laive ypatumus ir socialines garantijas jūrininkams tiek, kiek šių santykių nereglamentuoja Lietuvos Respublikos tarptautinės sutartys.“
@@ -377,7 +377,7 @@ Pakeisti 75 straipsnį ir jį išdėstyti taip:
 „75 straipsnis. Terminai pretenzijoms ir ieškiniams pareikšti
 
 
-1. Reikalavimams, kylantiems iš krovinių ar bagažo, keleivių vežimo, taikomi ieškinio senaties terminai, nustatyti šio straipsnio 6 ir [[#^s-48c7e3550d039d2d8d8396f1|7 dalyse]]. ^s-3df44333ee35edfdffecc242
+1. Reikalavimams, kylantiems iš krovinių ar bagažo, keleivių vežimo, taikomi ieškinio senaties terminai, nustatyti šio straipsnio [[#^s-0607b7daf6ac7760569b4b24|6]] ir [[#^s-48c7e3550d039d2d8d8396f1|7]] dalyse. ^s-3df44333ee35edfdffecc242
 
 
 2. Pretenzijos vežėjui dėl keleivių ar bagažo vežimų pareiškiamos per pirmuosius  3 ieškinio senaties termino mėnesius. ^s-8b09989d4af64605d9251b2b
@@ -474,7 +474,7 @@ Papildyti Įstatymą priedu:
 
 „Lietuvos Respublikos
 1996 m. rugsėjo 12 d.
-[[latest/TAR.38B0127A21E8|įstatymo Nr. I-1513]]
+įstatymo Nr. I-1513
 priedas
 
 Įgyvendinami Europos Sąjungos teisės aktai
@@ -497,10 +497,10 @@ priedas
 1. Šio Įstatymo [[#^s-0dcaf161ffef0593ffb452d4|6 straipsnis]] įsigalioja nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos. ^s-14386f796c7732cf3031fe2e
 
 
-2. Šio Įstatymo 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 21, 22, 23, 24, 25, 26, [[#^s-09da909082815258beb0bcb6|27 straipsniai]] įsigalioja nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai. ^s-1274d9b41537027062ef9d5c
+2. Šio Įstatymo [[#^s-26260d181b472cddca063d57|7]], [[#^s-1018bdf8adabf2b06d4bf420|8]], [[#^s-bb23718b69822346c311bb91|9]], [[#^s-5d5f1b6e546d619c792f19be|10]], [[#^s-081dd8ed6ae70b31026508ad|11]], [[#^s-aafd30396c19659ce0c03d09|12]], [[#^s-a8e58771a887e50d6c333c3a|13]], [[#^s-03f2e8431a3110bf67743f64|14]], [[#^s-0fe2f802550a47c5756dd520|15]], [[#^s-f872d6b7ffa208ec2ab093c1|16]], [[#^s-7f5e1c9edc4a26f616e9d970|21]], [[#^s-fe59f140b5432172c4b23483|22]], [[#^s-0e038ee1b8d38052b6b72d45|23]], [[#^s-0c66ab2f56b74c91982923d8|24]], [[#^s-2245dfd0cb0480a7579a8b74|25]], [[#^s-f0fb3ac7b7bf1e89fd082231|26]], [[#^s-09da909082815258beb0bcb6|27]] straipsniai įsigalioja nuo 1924 m. tarptautinės konvencijos dėl teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), 1968 m. Briuselio protokolo, iš dalies pakeičiančio Tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Visbiu taisyklės) ir Protokolo (protokolas dėl SST), iš dalies pakeičiančio 1924 m. rugpjūčio 25 d. tarptautinę konvenciją dėl kai kurių teisės normų, susijusių su konosamentais, suvienodinimo (Hagos taisyklės), iš dalies pakeistą 1968 m. vasario 23 d. protokolu (Visbiu taisyklės), įsigaliojimo Lietuvos Respublikai. ^s-1274d9b41537027062ef9d5c
 
 
-3. Šio Įstatymo 19 ir [[#^s-91791efd5ab35987418a6889|20 straipsniai]] įsigalioja nuo Jungtinių Tautų Organizacijos Jūrų teisės konvencijos įsigaliojimo Lietuvos Respublikai. ^s-2ed9a34c3e6bd72f2e66c71c
+3. Šio Įstatymo [[#^s-3b200fba008a62d8ed294a3a|19]] ir [[#^s-91791efd5ab35987418a6889|20]] straipsniai įsigalioja nuo Jungtinių Tautų Organizacijos Jūrų teisės konvencijos įsigaliojimo Lietuvos Respublikai. ^s-2ed9a34c3e6bd72f2e66c71c
 
 
 4. Vyriausybė ar jos įgaliota institucija iki 2003 m. gruodžio 31 d. parengia teisės aktus, reikalingus šiam Įstatymui įgyvendinti. ^s-bd258a53594e4078e1bb7a53

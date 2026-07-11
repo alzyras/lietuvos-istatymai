@@ -13,5 +13,4 @@ pavadinimas: "Dėl Lietuvos Respublikos prokuratūros įstatymo ir Lietuvos Resp
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.3EB53577EFCA#^s-d755605dce9449b3bb13103b|Lietuvos Respublikos prokuratūros įstatymas]] - Įstatymas Nr. I-620
-- [[latest/TAR.3EB53577EFCA#^s-f9df04e3cfb7f188918846f5|Lietuvos Respublikos prokuratūros įstatymas]] - Įstatymas Nr. I-620
+_Nėra._

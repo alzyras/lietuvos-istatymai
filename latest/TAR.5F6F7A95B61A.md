@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos pakeitimų ratifikavimas ^s-f433ce8d7e3158cd9017be10
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. rugsėjo 11 d. dekretą Nr. 1K-107, ratifikuoja Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos, pasirašytos 1972 m. lapkričio 15 d. Vienoje, pakeitimus, priimtus 2001 m. sausio 9 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. rugsėjo 11 d. dekretą Nr. 1K-107](https://e-tar.lt/portal/lt/legalAct/TAR.AAF8C3A6AF98), ratifikuoja Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos, pasirašytos 1972 m. lapkričio 15 d. Vienoje, pakeitimus, priimtus 2001 m. sausio 9 d. Ženevoje.
 
 
 

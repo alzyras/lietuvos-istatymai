@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sprendimo ratifikavimas ^s-cf5a85eb9a5489e07193b58b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. lapkričio 14 d. dekretą Nr. 1559, ratifikuoja Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimą Nr. 1/2000 „Dėl prekybos žemės ūkio prekėmis“, pasirašytą 2000 m. lapkričio 30 d. Bratislavoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. lapkričio 14 d. dekretą Nr. 1559](https://e-tar.lt/portal/lt/legalAct/TAR.7CB9BE4572C2), ratifikuoja Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimą Nr. 1/2000 „Dėl prekybos žemės ūkio prekėmis“, pasirašytą 2000 m. lapkričio 30 d. Bratislavoje.
 
 
 

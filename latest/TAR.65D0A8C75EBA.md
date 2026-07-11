@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Kvalifikaciniai reikalavimai ^s-2b2b4a477b9fdaceed852e9a
 
 
-Iki bus įgyvendinti Vyriausybės nustatyti kvalifikaciniai aukštojo teisinio išsilavinimo reikalavimai, numatyti [[latest/TAR.522B3E415B52#^s-50edb2ba5ed8d7d923f41867|Teismų įstatymo 22 straipsnio]] 1 ir 2 dalyse bei 221 straipsnio 6 dalyje, šiam išsilavinimui prilyginamas vienpakopis aukštasis teisinis universitetinis išsilavinimas. Iki Vyriausybės nustatytų kvalifikacinių aukštojo teisinio išsilavinimo reikalavimų, numatytų [[latest/TAR.522B3E415B52#^s-50edb2ba5ed8d7d923f41867|Teismų įstatymo 22 straipsnio]] 1 ir 2 dalyse bei 221 straipsnio 6 dalyje, įgyvendinimo įgytas vienpakopis teisinis universitetinis išsilavinimas laikomas atitinkančiu kvalifikacinius reikalavimus, kurie yra keliami asmenims, norintiems tapti teisėjais.
+Iki bus įgyvendinti Vyriausybės nustatyti kvalifikaciniai aukštojo teisinio išsilavinimo reikalavimai, numatyti [[latest/TAR.522B3E415B52#^s-50edb2ba5ed8d7d923f41867|Teismų įstatymo 22 straipsnio]] [[latest/TAR.522B3E415B52#^s-9126448a9037f0707005e758|1]] ir [[latest/TAR.522B3E415B52#^s-496510bea0a60d33b1b716f7|2]] dalyse bei 221 straipsnio 6 dalyje, šiam išsilavinimui prilyginamas vienpakopis aukštasis teisinis universitetinis išsilavinimas. Iki Vyriausybės nustatytų kvalifikacinių aukštojo teisinio išsilavinimo reikalavimų, numatytų [[latest/TAR.522B3E415B52#^s-50edb2ba5ed8d7d923f41867|Teismų įstatymo 22 straipsnio]] [[latest/TAR.522B3E415B52#^s-9126448a9037f0707005e758|1]] ir [[latest/TAR.522B3E415B52#^s-496510bea0a60d33b1b716f7|2]] dalyse bei 221 straipsnio 6 dalyje, įgyvendinimo įgytas vienpakopis teisinis universitetinis išsilavinimas laikomas atitinkančiu kvalifikacinius reikalavimus, kurie yra keliami asmenims, norintiems tapti teisėjais.
 
 
 
@@ -71,14 +71,14 @@ Teisėjų taryba suformuojama ne vėliau kaip per 3 mėnesius nuo [[latest/TAR.7
 ### 5 straipsnis. Lietuvos Aukščiausiojo Teismo statuto keitimas ^s-c0bc4ac6554286e8b56ac7f9
 
 
-Lietuvos Aukščiausiasis Teismas per 3 mėnesius nuo [[latest/TAR.7A20D27F92FF|Teismų įstatymo pakeitimo ir papildymo įstatymo]] įsigaliojimo dienos pateikia Lietuvos Respublikos Seimui Lietuvos Aukščiausiojo Teismo statuto pakeitimus, suderintus su [[latest/TAR.522B3E415B52|Teismų įstatymo]] nuostatomis.
+Lietuvos Aukščiausiasis Teismas per 3 mėnesius nuo [[latest/TAR.7A20D27F92FF|Teismų įstatymo pakeitimo ir papildymo įstatymo]] įsigaliojimo dienos pateikia Lietuvos Respublikos Seimui [Lietuvos Aukščiausiojo Teismo statuto](https://e-tar.lt/portal/lt/legalAct/TAR.1DAB8BD6385D) pakeitimus, suderintus su [[latest/TAR.522B3E415B52|Teismų įstatymo]] nuostatomis.
 
 
 
 ### 6 straipsnis.         Teismų įstatymo pakeitimo ir papildymo įstatymo 7, 8, 9, 10, 11 ir 12 straipsnių įsigaliojimas ^s-bbf37de9f5a0a1a886bf7b5a
 
 
-[[latest/TAR.7A20D27F92FF#^s-7e451ff4a369ca46b9bcdbe4|Teismų įstatymo pakeitimo ir papildymo įstatymo 7, 8, 9, 10, 11 ir 12 straipsniai]] įsigalioja nuo 1998 m. lapkričio 1 d.
+[[latest/TAR.7A20D27F92FF|Teismų įstatymo pakeitimo ir papildymo įstatymo]] [[latest/TAR.7A20D27F92FF#^s-50cd3da1a07f3bccf9c941d4|7]], [[latest/TAR.7A20D27F92FF#^s-2ef995726f2ec33c6c4cfd97|8]], [[latest/TAR.7A20D27F92FF#^s-c3fc9548e940210d5eb2e20c|9]], [[latest/TAR.7A20D27F92FF#^s-7897e38c053508873e78cf17|10]], [[latest/TAR.7A20D27F92FF#^s-ec716bbcdc093516740ba956|11]] ir [[latest/TAR.7A20D27F92FF#^s-7e451ff4a369ca46b9bcdbe4|12]] straipsniai įsigalioja nuo 1998 m. lapkričio 1 d.
 
 
 
@@ -95,7 +95,7 @@ Teismų departamentas prie Teisingumo ministerijos įsteigiamas nuo 1998 m. rugp
 1. Lietuvos Respublikos Vyriausybė iki 1998 m. liepos 1 d. patvirtina Teismų departamento prie Teisingumo ministerijos nuostatus bei teisinių pareigybių, numatytų [[latest/TAR.522B3E415B52#^s-496510bea0a60d33b1b716f7|Teismų įstatymo 22 straipsnio 2 dalyje]], sąrašą. ^s-f2d3b255adc2fbce8fbce5bd
 
 
-2. Lietuvos Respublikos Vyriausybė, suderinusi su aukštosiomis mokyklomis, rengiančiomis teisininkus su aukštuoju teisiniu išsilavinimu, iki 1998 m. liepos 1 d. nustato ir patvirtina aukštojo teisinio išsilavinimo kvalifikacinius reikalavimus, numatytus [[latest/TAR.522B3E415B52#^s-50edb2ba5ed8d7d923f41867|Teismų įstatymo 22 straipsnio]] 1 ir [[#^s-def15e4a4f2cc2da8ef7b117|2 dalyse]] bei 221 straipsnio 6 dalyje. ^s-def15e4a4f2cc2da8ef7b117
+2. Lietuvos Respublikos Vyriausybė, suderinusi su aukštosiomis mokyklomis, rengiančiomis teisininkus su aukštuoju teisiniu išsilavinimu, iki 1998 m. liepos 1 d. nustato ir patvirtina aukštojo teisinio išsilavinimo kvalifikacinius reikalavimus, numatytus [[latest/TAR.522B3E415B52#^s-50edb2ba5ed8d7d923f41867|Teismų įstatymo 22 straipsnio]] [[latest/TAR.522B3E415B52#^s-9126448a9037f0707005e758|1]] ir [[latest/TAR.522B3E415B52#^s-496510bea0a60d33b1b716f7|2]] dalyse bei 221 straipsnio 6 dalyje. ^s-def15e4a4f2cc2da8ef7b117
 
 
 

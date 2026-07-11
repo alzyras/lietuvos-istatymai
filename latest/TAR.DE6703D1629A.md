@@ -43,24 +43,24 @@ Vilnius
 ### 1 straipsnis. 78 straipsnio pakeitimas ^s-6717094114465af91679c79c
 
 
-78 straipsnio 1 dalyje vietoj žodžių „Lietuvos Respublikos hipotekos bei“ įrašyti žodžius „Lietuvos Respublikos civilinio proceso kodekso ir“, [[#^s-039d6c2e2f9fb55a1324123f|2 dalyje]] vietoj žodžių „Lietuvos Respublikos hipotekos įstatyme“ įrašyti žodžius „Lietuvos Respublikos civilinio proceso kodekse“ ir šį straipsnį išdėstyti taip:
+78 straipsnio 1 dalyje vietoj žodžių „Lietuvos Respublikos hipotekos bei“ įrašyti žodžius „Lietuvos Respublikos civilinio proceso kodekso ir“, [[#^s-039d6c2e2f9fb55a1324123f|2 dalyje]] vietoj žodžių [„Lietuvos Respublikos hipotekos įstatyme“](https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B) įrašyti žodžius [„Lietuvos Respublikos civilinio proceso kodekse“](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir šį straipsnį išdėstyti taip:
 
 
 
 „78 straipsnis. Laivo įkeitimo tvarka
 
 
-1. Laivai, įregistruoti Lietuvos Respublikos jūrų laivų registre, įkeičiami vadovaujantis Lietuvos Respublikos civilinio kodekso, Lietuvos Respublikos civilinio proceso kodekso ir šio Įstatymo nustatyta tvarka. ^s-3221a3dae6c1bd2f017e0b8e
+1. Laivai, įregistruoti Lietuvos Respublikos jūrų laivų registre, įkeičiami vadovaujantis Lietuvos Respublikos civilinio kodekso, [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir šio Įstatymo nustatyta tvarka. ^s-3221a3dae6c1bd2f017e0b8e
 
 
-2. Jeigu šiame Įstatyme numatytos kitokios normos negu Lietuvos Respublikos civiliniame kodekse ar Lietuvos Respublikos civilinio proceso kodekse, taikomos šio Įstatymo nuostatos.“ ^s-039d6c2e2f9fb55a1324123f
+2. Jeigu šiame Įstatyme numatytos kitokios normos negu Lietuvos Respublikos civiliniame kodekse ar [Lietuvos Respublikos civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), taikomos šio Įstatymo nuostatos.“ ^s-039d6c2e2f9fb55a1324123f
 
 
 
 ### 2 straipsnis. 79 straipsnio pakeitimas ^s-6d8a46664821696e9fb4000d
 
 
-Pakeisti 79 straipsnio 1 ir [[#^s-e99a841233daa96927865d38|3 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 79 straipsnio 1 ir 3 dalis ir visą straipsnį išdėstyti taip:
 
 
 
@@ -104,7 +104,7 @@ Prašymas nustatyti, pakeisti ar baigti priverstinę laivo hipoteką, kai tokia 
 ### 5 straipsnis. 83 straipsnio 1 dalies pakeitimas ^s-5305e28f84a4bd30370c5527
 
 
-83 straipsnio 1 dalyje vietoj žodžių „Lietuvos Respublikos hipotekos įstatymo“ įrašyti žodžius „Lietuvos Respublikos civilinio proceso kodekso“ ir šią dalį išdėstyti taip:
+83 straipsnio 1 dalyje vietoj žodžių [„Lietuvos Respublikos hipotekos įstatymo“](https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B) įrašyti žodžius [„Lietuvos Respublikos civilinio proceso kodekso“](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir šią dalį išdėstyti taip:
 
 
 „1. Sprendimas priverstinai parduoti Lietuvos Respublikoje įkeistą laivą priimamas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.“

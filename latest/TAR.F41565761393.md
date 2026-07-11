@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-36d1f56da260e3e7d812b864
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Kipro Respublikos Vyriausybės sutartį dėl oro susisiekimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Kipro Respublikos Vyriausybės sutartį dėl oro susisiekimo, pasirašytą 1997 m. rugpjūčio 1 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Kipro Respublikos Vyriausybės sutartį dėl oro susisiekimo“](https://e-tar.lt/portal/lt/legalAct/TAR.C16702833097), ratifikuoja Lietuvos Respublikos Vyriausybės ir Kipro Respublikos Vyriausybės sutartį dėl oro susisiekimo, pasirašytą 1997 m. rugpjūčio 1 d. Vilniuje.
 
 
 

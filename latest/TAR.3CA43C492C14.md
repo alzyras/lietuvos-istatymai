@@ -4810,7 +4810,7 @@ tūkst. Lt
  neformaliojo vaikų švietimo įstaigų, pagalbos mokiniui mokytojų darbo užmokesčiui padidinti
  ikimokyklinio ir priešmokyklinio ugdymo įstaigų auklėtojų ir pedagogų papildomiems etatams nuo rugsėjo 1 d. įvesti
  komunalinėms paslaugoms apmokėti už suteiktas patalpas Seimo nariui ir jo padėjėjui
- dėl darbo užmokesčio koeficiento taikymo 2002-2004 m.
+ [dėl darbo užmokesčio](https://e-tar.lt/portal/lt/legalAct/TAR.3A55ECEE9ACE) koeficiento taikymo 2002-2004 m.
  pedagogų atlyginimams padidinti nuo rugsėjo 1 d.
 
 

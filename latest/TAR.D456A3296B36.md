@@ -61,7 +61,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 „23) asmenys, ketinantys suteikti auką politinei partijai ar politinės kampanijos dalyviui, ir jų šeimos nariai.“
 
 
-2. [[#^s-a0fd87a195325f13825818e1|2 straipsnio 2 dalyje]] po skaičių „1–20“ įrašyti žodį ir skaičių „ir 23“ ir šią dalį išdėstyti taip: ^s-a0fd87a195325f13825818e1
+2. 2 straipsnio 2 dalyje po skaičių „1–20“ įrašyti žodį ir skaičių „ir 23“ ir šią dalį išdėstyti taip: ^s-a0fd87a195325f13825818e1
 
 
 „2. [[#^s-24785d0b6ea1776e6b899ebd|Šio straipsnio 1 dalies]] 1–20 ir 23 punktuose nurodytais šeimos nariais laikomi sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų, kurie privalo deklaruoti turtą tik tuo atveju, jeigu jie yra nuolatiniai Lietuvos gyventojai. Nuolatinis Lietuvos gyventojas yra fizinis asmuo, kuris laikomas nuolatiniu Lietuvos gyventoju pagal Lietuvos Respublikos gyventojų pajamų mokesčio įstatymą.“
@@ -71,7 +71,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 ### 3 straipsnis. 3 straipsnio 1 ir 5 dalių pakeitimas ^s-79c7e9b31255f28bd22316dc
 
 
-1. [[#^s-3fb141c1cc178bc2fc7e3943|3 straipsnio 1 dalyje]] po skaičių „1–21“ įrašyti žodį ir skaičių „ir 23“ ir šią dalį išdėstyti taip: ^s-3fb141c1cc178bc2fc7e3943
+1. 3 straipsnio 1 dalyje po skaičių „1–21“ įrašyti žodį ir skaičių „ir 23“ ir šią dalį išdėstyti taip: ^s-3fb141c1cc178bc2fc7e3943
 
 
 „1. Šio Įstatymo [[#^s-24785d0b6ea1776e6b899ebd|2 straipsnio 1 dalies]] 1–21 ir 23 punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą:

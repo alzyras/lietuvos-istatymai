@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-14bff15abb1ffb6d0c0a28e0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2011 m. gruodžio 5 d. dekretą Nr. 1K-887, ratifikuoja 2011 m. rugpjūčio 16 d. Kuresarėje pasirašytą Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimą dėl valstybės sienos įgaliotinių veiklos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2011 m. gruodžio 5 d. dekretą Nr. 1K-887](https://e-tar.lt/portal/lt/legalAct/TAR.6FD3F0AE9417), ratifikuoja 2011 m. rugpjūčio 16 d. Kuresarėje pasirašytą Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimą dėl valstybės sienos įgaliotinių veiklos.
 
 
 

@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos žemės ūkio bendrovių įstatymo pakeitimo 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 2 citatos - Archyvų įstatymo
-- [[latest/TAR.4A9B29FE9E04|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - Lietuvos Respublikos žemės ūkio bendrovių įstatymo
+- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - Archyvų įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.4A9B29FE9E04#^s-d7c66d25f0e44c96d5b4a766|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 3 citatos - 1011010ISTA00IX-330
+- [[latest/TAR.4A9B29FE9E04#^s-d7c66d25f0e44c96d5b4a766|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 2 citatos - 1011010ISTA00IX-330

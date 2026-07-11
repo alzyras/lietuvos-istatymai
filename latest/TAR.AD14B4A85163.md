@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo pakeitimų ratifikavimas ^s-22fa3590531cda84c428ea44
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. balandžio 2 d. dekretą Nr. 1K-1016, ratifikuoja Susitarimo dėl Europos rekonstrukcijos ir plėtros banko įsteigimo 1 ir 18 straipsnių pakeitimus, kuriems 2011 m. rugsėjo 30 d. rezoliucija Nr. 137 ir rezoliucija Nr. 138 pritarė Europos rekonstrukcijos ir plėtros banko valdytojų taryba.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. balandžio 2 d. dekretą Nr. 1K-1016](https://e-tar.lt/portal/lt/legalAct/TAR.779DC0449DD5), ratifikuoja Susitarimo dėl Europos rekonstrukcijos ir plėtros banko įsteigimo 1 ir 18 straipsnių pakeitimus, kuriems 2011 m. rugsėjo 30 d. rezoliucija Nr. 137 ir rezoliucija Nr. 138 pritarė Europos rekonstrukcijos ir plėtros banko valdytojų taryba.
 
 
 

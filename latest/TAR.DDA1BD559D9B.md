@@ -75,7 +75,7 @@ Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 ### 2 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-587fbf617e0fd4bfd1406f07
 
 
-1. Civilinė ir karinė infrastruktūra (toliau – infrastruktūra) – kaip apibrėžiama [[latest/TAR.3CD1008B88A9#^s-db098cf9f6bc0b34df59d9d4|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 2 straipsnio]] 2 ir [[#^s-dd56993356f9d6eb0bb59800|11 dalyse]]. ^s-15a9b8ed63e31c9e3fe58cb8
+1. Civilinė ir karinė infrastruktūra (toliau – infrastruktūra) – kaip apibrėžiama [[latest/TAR.3CD1008B88A9#^s-db098cf9f6bc0b34df59d9d4|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 2 straipsnio]] [[latest/TAR.3CD1008B88A9#^s-8053589a4e9212112eaa5517|2]] ir [[latest/TAR.3CD1008B88A9#^s-b85a56fe9393c2985669bc53|11]] dalyse. ^s-15a9b8ed63e31c9e3fe58cb8
 Straipsnio dalies pakeitimai:
 Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
 
@@ -87,25 +87,25 @@ Nr. XV-306, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11975
 
 
 
-21. Europos asmeninės pensijos produktas – kaip ši sąvoka apibrėžta Reglamento (ES) 2019/1238 [[#^s-93281b21e08bac2d4b7daf40|2 straipsnio 2 dalyje]]. ^s-453ed547209ce1f4ac4c6862
+21. Europos asmeninės pensijos produktas – kaip ši sąvoka apibrėžta [Reglamento (ES) 2019/1238 2 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2019/1238/art_2/par_2/oj). ^s-453ed547209ce1f4ac4c6862
 Papildyta straipsnio dalimi:
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
 
 
-22. Europos asmeninės pensijos produkto platintojas – kaip ši sąvoka apibrėžta Reglamento (ES) 2019/1238 [[#^s-06943295bb37c832e3a31c42|2 straipsnio 16 dalyje]]. ^s-b4cff0e9951e47170280b58d
+22. Europos asmeninės pensijos produkto platintojas – kaip ši sąvoka apibrėžta [Reglamento (ES) 2019/1238 2 straipsnio 16 dalyje](https://eur-lex.europa.eu/eli/reg/2019/1238/art_2/par_16/oj). ^s-b4cff0e9951e47170280b58d
 Papildyta straipsnio dalimi:
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
 
 
-23. Europos asmeninės pensijos produkto teikėjas – kaip ši sąvoka apibrėžta Reglamento (ES) 2019/1238 [[#^s-96e08767fc16107cf796aada|2 straipsnio 15 dalyje]]. ^s-d13ac97c6ebd53b3d095a398
+23. Europos asmeninės pensijos produkto teikėjas – kaip ši sąvoka apibrėžta [Reglamento (ES) 2019/1238 2 straipsnio 15 dalyje](https://eur-lex.europa.eu/eli/reg/2019/1238/art_2/par_15/oj). ^s-d13ac97c6ebd53b3d095a398
 Papildyta straipsnio dalimi:
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
 
 
-3. Finansinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-bd957f5b69326a7887eb58d6|Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies]] 1, 2, 3 ir 4 punktuose nustatytos finansinės priemonės, taip pat indėliai. ^s-a8b16b8548599f20ccbfa305
+3. Finansinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-bd957f5b69326a7887eb58d6|Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-2ecfad276d1ea5cd27238635|1]], [[latest/TAR.AB7AFE2F35B2#^s-b1dd84822e56e38d00aeca38|2]], [[latest/TAR.AB7AFE2F35B2#^s-6620da3f0582cb1a3bea4be5|3]] ir [[latest/TAR.AB7AFE2F35B2#^s-b258a760911fb8393b8ac7ad|4]] punktuose nustatytos finansinės priemonės, taip pat indėliai. ^s-a8b16b8548599f20ccbfa305
 Straipsnio dalies pakeitimai:
 Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 
@@ -138,7 +138,7 @@ Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
 
 
 
-7. Išvestinės finansinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-bd957f5b69326a7887eb58d6|Finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies]] 4–10 punktuose nurodytos finansinės priemonės. ^s-5f90850fcb1e66d36f2748d4
+7. Išvestinės finansinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-bd957f5b69326a7887eb58d6|Finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-b258a760911fb8393b8ac7ad|4]]–[[latest/TAR.AB7AFE2F35B2#^s-e0d6a88ed5e696004aaeda0d|10]] punktuose nurodytos finansinės priemonės. ^s-5f90850fcb1e66d36f2748d4
 Straipsnio dalies pakeitimai:
 Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
@@ -151,7 +151,7 @@ Nr. XV-306, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11975
 
 
 
-81. Kriptoturtas – kaip apibrėžiama 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 5 punkte. ^s-952a90f17771bc452a437850
+81. Kriptoturtas – kaip apibrėžiama 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamento (ES) 2023/1114](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) dėl kriptoturto rinkų, kuriuo iš dalies keičiami [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, [[#^s-7168a9715d126f50dfa1d5da|3]] straipsnio 1 dalies 5 punkte. ^s-952a90f17771bc452a437850
 Papildyta straipsnio dalimi:
 Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
 
@@ -211,7 +211,7 @@ Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
 2) obligacijos ir kitų formų ne nuosavybės vertybiniai popieriai; ^s-34532047ccc5f3c29922a308
 
 
-3) kiti perleidžiamieji vertybiniai popieriai, suteikiantys teisę pasirašymo ar keitimo būdu įsigyti šios dalies 1 ir [[#^s-34532047ccc5f3c29922a308|2 punktuose]] nurodytų perleidžiamųjų vertybinių popierių. ^s-6fe52e6c0e6e3588425d8fea
+3) kiti perleidžiamieji vertybiniai popieriai, suteikiantys teisę pasirašymo ar keitimo būdu įsigyti šios dalies [[#^s-7cf783ad1858e92e1eabfa79|1]] ir [[#^s-34532047ccc5f3c29922a308|2]] punktuose nurodytų perleidžiamųjų vertybinių popierių. ^s-6fe52e6c0e6e3588425d8fea
 
 
 23. Pinigų rinkos priemonės – [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]] apibrėžtos pinigų rinkos priemonės, kurių vertę visada galima tiksliai nustatyti. ^s-9e72df06f87f323963e70ff5
@@ -236,7 +236,7 @@ Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
 1) per juos yra investuota dalis verslo plėtrai skatinti skirtų Europos Sąjungos ir (arba) Lietuvos Respublikos lėšų, kurių panaudojimas administruojamas Europos Sąjungos ir (arba) Lietuvos Respublikos teisės aktų nustatyta tvarka; ^s-affbb8424abcc3fe17261b6f
 
 
-2) jų valdytojas yra licencijuotas pagal 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyvą 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kuria iš dalies keičiami direktyvos 2003/41/EB ir 2009/65/EB bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 1095/2010 (su visais pakeitimais), įskaitant subjektų valdytojus, veikiančius pagal 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų (su visais pakeitimais) ar 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentą (ES) 2015/760 dėl Europos ilgalaikių investicijų fondų. ^s-eb064f9a4a94a2e43fa37e54
+2) jų valdytojas yra licencijuotas pagal 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyvą 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kuria iš dalies keičiami direktyvos 2003/41/EB ir 2009/65/EB bei [reglamentai (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) ir (ES) Nr. 1095/2010 (su visais pakeitimais), įskaitant subjektų valdytojus, veikiančius pagal 2013 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 345/2013 dėl Europos rizikos kapitalo fondų (su visais pakeitimais) ar 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos [reglamentą (ES) 2015/760](https://eur-lex.europa.eu/eli/reg/2015/760/oj) dėl Europos ilgalaikių investicijų fondų. ^s-eb064f9a4a94a2e43fa37e54
 Straipsnio punkto pakeitimai:
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
@@ -253,7 +253,7 @@ Nr. XIII-1875, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00225
 26. Valstybė narė – Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė. ^s-f26140007a7078fb08e37b38
 
 
-27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatyme]], [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatyme]], [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatyme]], [[latest/TAR.ED28779BEADF|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme]], [[latest/TAR.1F58348F79F7|Lietuvos Respublikos pensijų kaupimo įstatyme]] ir Reglamente (ES) 2022/2554. ^s-7e5c15035e0248407084b4dd
+27. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatyme]], [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatyme]], [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatyme]], [[latest/TAR.ED28779BEADF|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme]], [[latest/TAR.1F58348F79F7|Lietuvos Respublikos pensijų kaupimo įstatyme]] ir [Reglamente (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj). ^s-7e5c15035e0248407084b4dd
 Papildyta straipsnio dalimi:
 Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 Straipsnio dalies pakeitimai:
@@ -283,7 +283,7 @@ Nr. XIII-2855, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08969
 3. Valdymo įmonė gali pradėti pensijų kaupimo veiklą tik tuo atveju, kai priežiūros institucija jos nustatyta tvarka patvirtina atitinkamas pensijų fondo taisykles. ^s-1734f11e7e6560c3e67b4936
 
 
-4. Šio straipsnio 1 ir [[#^s-3ddcd72a764cba78d505341e|2 dalyse]] nurodytos valdymo įmonės taip pat turi teisę valdyti [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatyme]] nustatytus tikslinių pensijų fondų dalyvių grupių pensijų fondus ir pensijų turto išsaugojimo pensijų fondus, jeigu jos atitinka [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatymo]] nustatytus reikalavimus. ^s-042190bd5543a55c56342680
+4. Šio straipsnio [[#^s-c22a31c2f9f416c821439549|1]] ir [[#^s-3ddcd72a764cba78d505341e|2]] dalyse nurodytos valdymo įmonės taip pat turi teisę valdyti [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatyme]] nustatytus tikslinių pensijų fondų dalyvių grupių pensijų fondus ir pensijų turto išsaugojimo pensijų fondus, jeigu jos atitinka [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatymo]] nustatytus reikalavimus. ^s-042190bd5543a55c56342680
 Straipsnio dalies pakeitimai:
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
@@ -328,13 +328,13 @@ Be Akcinių bendrovių įstatyme nustatytų bendrovėje privalomų sudaryti vald
 1) minimalų valdymo įmonės pradinį kapitalą; ^s-ed7cd7bc2d89b4124361022f
 
 
-2) 1/4 valdymo įmonės praėjusių metų pridėtinių išlaidų sumos. Pridėtinės išlaidos apskaičiuojamos 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/2033 dėl riziką ribojančių reikalavimų investicinėms įmonėms, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 575/2013, (ES) Nr. 600/2014 ir (ES) Nr. 806/2014, [[#^s-b85ad60a049ce5085779910f|13 straipsnyje]] nustatyta tvarka. ^s-5d5006e80f3162ff1ed2b6db
+2) 1/4 valdymo įmonės praėjusių metų pridėtinių išlaidų sumos. Pridėtinės išlaidos apskaičiuojamos 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) dėl riziką ribojančių reikalavimų investicinėms įmonėms, kuriuo iš dalies keičiami [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), (ES) Nr. 575/2013, (ES) Nr. 600/2014 ir (ES) Nr. 806/2014, [[#^s-b85ad60a049ce5085779910f|13]] straipsnyje nustatyta tvarka. ^s-5d5006e80f3162ff1ed2b6db
 
 
-5. Skaičiuojant valdymo įmonės nuosavų lėšų dydį pagal [[#^s-5d5006e80f3162ff1ed2b6db|šio straipsnio 4 dalies 2 punktą]], nuosavas lėšas sudarantis 2 lygio kapitalas negali būti didesnis kaip 1/3 1 lygio kapitalo. 1 lygio kapitalas ir 2 lygio kapitalas suprantami taip, kaip apibrėžiami atitinkamai Reglamento (ES) Nr. 575/2013 25 ir [[#^s-7a9f498ebf84b18ec8941255|71 straipsniuose]]. ^s-c018dcf37c2bf0e7034a6cdf
+5. Skaičiuojant valdymo įmonės nuosavų lėšų dydį pagal [[#^s-5d5006e80f3162ff1ed2b6db|šio straipsnio 4 dalies 2 punktą]], nuosavas lėšas sudarantis 2 lygio kapitalas negali būti didesnis kaip 1/3 1 lygio kapitalo. 1 lygio kapitalas ir 2 lygio kapitalas suprantami taip, kaip apibrėžiami atitinkamai Reglamento (ES) Nr. 575/2013 [[#^s-0dfc5516e5de856e43869af7|25]] ir [[#^s-7a9f498ebf84b18ec8941255|71]] straipsniuose. ^s-c018dcf37c2bf0e7034a6cdf
 
 
-6. Jeigu šio straipsnio 1 ir (arba) 2 dalyse nurodytos valdymo įmonės valdomų visų pensijų fondų bendra turto vertė viršija 250 000 000 eurų, valdymo įmonė privalo turėti papildomą nuosavų lėšų sumą, kaip tai nurodyta [[latest/TAR.ED28779BEADF#^s-20ae90e8aacc0480cc1c8551|Kolektyvinio investavimo subjektų įstatymo 5 straipsnio]]  6–8 dalyse. ^s-18c9933b54836983887fb843
+6. Jeigu šio straipsnio 1 ir (arba) 2 dalyse nurodytos valdymo įmonės valdomų visų pensijų fondų bendra turto vertė viršija 250 000 000 eurų, valdymo įmonė privalo turėti papildomą nuosavų lėšų sumą, kaip tai nurodyta [[latest/TAR.ED28779BEADF#^s-20ae90e8aacc0480cc1c8551|Kolektyvinio investavimo subjektų įstatymo 5 straipsnio]]  [[latest/TAR.ED28779BEADF#^s-32fefbfa8270461c7f03ff28|6]]–[[latest/TAR.ED28779BEADF#^s-3ed83fede9e35695c8021737|8]] dalyse. ^s-18c9933b54836983887fb843
 
 
 Papildyta straipsniu:
@@ -449,10 +449,10 @@ Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
 4. Valdymo įmonė, turinti pagal šį įstatymą priežiūros institucijos išduotą licenciją verstis pensijų kaupimo veikla, privalo užtikrinti skaitmeninės veiklos atsparumą: ^s-6deaea5a8cab81d396eae499
 
 
-1) laikydamasi Reglamente (ES) 2022/2554 ir jo pagrindu priimtuose Europos Sąjungos deleguotuosiuose ir įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų, taikomų Reglamento (ES) 2022/2554 [[#^s-cb2a77f820170a9af51e8478|16 straipsnyje]] nurodytiems finansų sektoriaus subjektams, – kai valdymo įmonė, kuri tiesiogiai arba netiesiogiai per kitą įmonę, su kuria valdymo įmonė yra susijusi bendru valdymu ar kontrole arba tiesiogiai ar netiesiogiai valdomu akcijų paketu, sudarančiu bent 1/10 valdymo įmonės įstatinio kapitalo, arba tiesiogiai ar netiesiogiai turimomis teisėmis, valdo finansinių priemonių portfelius pensijų fondų, kurių bendras valdomas turtas sudaro mažiau negu 500 milijonų eurų; ^s-49cc4ba039c2910872d94d5f
+1) laikydamasi [Reglamente (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) ir jo pagrindu priimtuose Europos Sąjungos deleguotuosiuose ir įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų, taikomų [Reglamento (ES) 2022/2554 16 straipsnyje](https://eur-lex.europa.eu/eli/reg/2022/2554/art_16/oj) nurodytiems finansų sektoriaus subjektams, – kai valdymo įmonė, kuri tiesiogiai arba netiesiogiai per kitą įmonę, su kuria valdymo įmonė yra susijusi bendru valdymu ar kontrole arba tiesiogiai ar netiesiogiai valdomu akcijų paketu, sudarančiu bent 1/10 valdymo įmonės įstatinio kapitalo, arba tiesiogiai ar netiesiogiai turimomis teisėmis, valdo finansinių priemonių portfelius pensijų fondų, kurių bendras valdomas turtas sudaro mažiau negu 500 milijonų eurų; ^s-49cc4ba039c2910872d94d5f
 
 
-2) laikydamasi Reglamente (ES) 2022/2554 ir jo pagrindu priimtuose Europos Sąjungos deleguotuosiuose ir įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų, – kai valdymo įmonė, kuri tiesiogiai arba netiesiogiai per kitą įmonę, su kuria valdymo įmonė yra susijusi bendru valdymu ar kontrole arba tiesiogiai ar netiesiogiai valdomu akcijų paketu, sudarančiu bent 1/10 valdymo įmonės įstatinio kapitalo, arba tiesiogiai ar netiesiogiai turimomis teisėmis, valdo finansinių priemonių portfelius pensijų fondų, kurių bendras valdomas turtas prilygsta 500 milijonų eurų ar viršija 500 milijonų eurų. ^s-4b7bdf410324839fc4b5941b
+2) laikydamasi [Reglamente (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) ir jo pagrindu priimtuose Europos Sąjungos deleguotuosiuose ir įgyvendinamuosiuose teisės aktuose nustatytų reikalavimų, – kai valdymo įmonė, kuri tiesiogiai arba netiesiogiai per kitą įmonę, su kuria valdymo įmonė yra susijusi bendru valdymu ar kontrole arba tiesiogiai ar netiesiogiai valdomu akcijų paketu, sudarančiu bent 1/10 valdymo įmonės įstatinio kapitalo, arba tiesiogiai ar netiesiogiai turimomis teisėmis, valdo finansinių priemonių portfelius pensijų fondų, kurių bendras valdomas turtas prilygsta 500 milijonų eurų ar viršija 500 milijonų eurų. ^s-4b7bdf410324839fc4b5941b
 
 
 Papildyta straipsnio dalimi:
@@ -469,7 +469,7 @@ Nr. XV-306, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11975
 ### 61 straipsnis. Pranešimas apie pažeidimus valdymo įmonėje ^s-5c9febffd2a6601bdf96d8c6
 
 
-Valdymo įmonė turi užtikrinti, kad būtų įdiegtos priemonės, leidžiančios jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo, Reglamento (ES) Nr. 1286/2014 ir kitų pensijų kaupimo veiklą reglamentuojančių teisės aktų pažeidimą. Šioms priemonėms įdiegti valdymo įmonė gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi [[latest/TAR.1B4D7B687895#^s-87dbd917e843670224f82dc0|Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio]] 2, 3 ir 4 punktuose nustatyti reikalavimai.
+Valdymo įmonė turi užtikrinti, kad būtų įdiegtos priemonės, leidžiančios jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo, [Reglamento (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) ir kitų pensijų kaupimo veiklą reglamentuojančių teisės aktų pažeidimą. Šioms priemonėms įdiegti valdymo įmonė gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi [[latest/TAR.1B4D7B687895#^s-87dbd917e843670224f82dc0|Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio]] [[latest/TAR.1B4D7B687895|2]], [[latest/TAR.1B4D7B687895|3]] ir [[latest/TAR.1B4D7B687895|4]] punktuose nustatyti reikalavimai.
 
 
 Papildyta straipsniu:
@@ -483,7 +483,7 @@ Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 1. Tuo atveju, kai valdymo įmonė prisiima įsipareigojimus garantuoti dalyviams tam tikrą pajamingumą, turi būti sudaromas garantijų rezervas. Šio rezervo sudarymo, investavimo ir naudojimo tvarka turi būti suderinta su priežiūros institucija. Priežiūros institucija turi teisę duoti nurodymus pakeisti ir (ar) papildyti garantijų rezervo sudarymo, investavimo ir naudojimo tvarką. ^s-dc7e32bff5a7844fad765042
 
 
-2. Garantijų rezervas investuojamas į diversifikuotą investicinių priemonių portfelį, kuriam taikomi šio įstatymo 45, 47 ir [[#^s-a75940ec779fb16c04bd19de|49 straipsniuose]] nustatyti reikalavimai. ^s-c4a221b2d9ffd51997ff6299
+2. Garantijų rezervas investuojamas į diversifikuotą investicinių priemonių portfelį, kuriam taikomi šio įstatymo [[#^s-324b854f7d4f34a0c5a4e224|45]], [[#^s-9fab38ee6509e8b80b2aa21b|47]] ir [[#^s-a75940ec779fb16c04bd19de|49]] straipsniuose nustatyti reikalavimai. ^s-c4a221b2d9ffd51997ff6299
 Straipsnio dalies pakeitimai:
 Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
 
@@ -830,7 +830,7 @@ Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 11. Priežiūros institucija turi uždrausti skelbti pastebėtą neteisingą, klaidinančią ar neaiškią reklamą ir įpareigoti paneigti, patikslinti ar papildyti jau paskelbtą tokią reklamą. ^s-e0ea25e2eb0ba1c7f8cdad41
 
 
-12. Šio straipsnio 3 ir [[#^s-d56f4246cfff898ad4320cab|4 dalių]] nuostatos mutatis mutandis taikomos ir Europos asmeninės pensijos produkto teikėjams. ^s-217981d116dfae38c86c8573
+12. Šio straipsnio [[#^s-800f46d2f46d0bc777226c81|3]] ir [[#^s-d56f4246cfff898ad4320cab|4]] dalių nuostatos mutatis mutandis taikomos ir Europos asmeninės pensijos produkto teikėjams. ^s-217981d116dfae38c86c8573
 Papildyta straipsnio dalimi:
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
@@ -1489,7 +1489,7 @@ Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
 5. Iš pensijų sąskaitos negali būti daromos jokios šiame įstatyme nenumatytos išmokos. ^s-0a1e7ceebf2c2b5b6e5cf38b
 
 
-6. Šio straipsnio 1–[[#^s-0a1e7ceebf2c2b5b6e5cf38b|5 dalys]] mutatis mutandis taikomos ir Europos asmeninės pensijos produkto teikėjams. ^s-8e89cb03a73e90aa3d01b56b
+6. Šio straipsnio [[#^s-8e3b3562b7abc07ce5caf5f2|1]]–[[#^s-0a1e7ceebf2c2b5b6e5cf38b|5]] dalys mutatis mutandis taikomos ir Europos asmeninės pensijos produkto teikėjams. ^s-8e89cb03a73e90aa3d01b56b
 Papildyta straipsnio dalimi:
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
@@ -1594,7 +1594,7 @@ Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
 ### 41 straipsnis. Depozitoriumo teisės ir pareigos ^s-d06b20fd993e87a7d4751ac9
 
 
-Depozitoriumo teisės, pareigos ir depozitoriumui taikomi reikalavimai nustatyti [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatyme]] ir 2015 m. gruodžio 17 d. Komisijos deleguotajame reglamente (ES) 2016/438, kuriuo papildomos Europos Parlamento ir Tarybos direktyvos 2009/65/EB nuostatos dėl depozitoriumų pareigų (su visais pakeitimais), jeigu šis įstatymas nenustato kitaip.
+Depozitoriumo teisės, pareigos ir depozitoriumui taikomi reikalavimai nustatyti [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatyme]] ir 2015 m. gruodžio 17 d. Komisijos deleguotajame [reglamente (ES) 2016/438](https://eur-lex.europa.eu/eli/reg/2016/438/oj), kuriuo papildomos Europos Parlamento ir Tarybos direktyvos 2009/65/EB nuostatos dėl depozitoriumų pareigų (su visais pakeitimais), jeigu šis įstatymas nenustato kitaip.
 
 
 Straipsnio pakeitimai:
@@ -1619,10 +1619,10 @@ Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 1. Depozitoriumas negali kartu verstis ir valdymo įmonės veikla, išskyrus šio įstatymo [[#^s-ab9d6cb961ebc770b0f72023|42 straipsnyje]] numatytą atvejį. ^s-edc04e92ce5290ec3c264034
 
 
-2. Valdymo įmonės atskyrimui nuo depozitoriumo taikomi [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatyme]] ir Reglamente (ES) 2016/438 nustatyti reikalavimai, išskyrus [[#^s-b4caf875099b153d0d381953|šio straipsnio 3 dalyje]] numatytą atvejį. ^s-4bee6d64f5ec722517b9f74b
+2. Valdymo įmonės atskyrimui nuo depozitoriumo taikomi [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatyme]] ir [Reglamente (ES) 2016/438](https://eur-lex.europa.eu/eli/reg/2016/438/oj) nustatyti reikalavimai, išskyrus [[#^s-b4caf875099b153d0d381953|šio straipsnio 3 dalyje]] numatytą atvejį. ^s-4bee6d64f5ec722517b9f74b
 
 
-3. Jeigu valdymo įmonė ir depozitoriumas priklauso tai pačiai įmonių grupei ir valdymo įmonė nevaldo suderintųjų kolektyvinio investavimo subjektų, valdymo įmonė ir depozitoriumas gali pasirinkti valdymo organų ir priežiūros funkcijų nepriklausomumą užtikrinti laikydamiesi arba Reglamento (ES) 2016/438 [[#^s-62191802d5a7efdb53bfa7d2|24 straipsnyje]] nustatytų reikalavimų, arba šio įstatymo [[#^s-8352b5678bba2ac2f0ef2947|55 straipsnio 31 dalyje]] nustatytų papildomų reikalavimų. ^s-b4caf875099b153d0d381953
+3. Jeigu valdymo įmonė ir depozitoriumas priklauso tai pačiai įmonių grupei ir valdymo įmonė nevaldo suderintųjų kolektyvinio investavimo subjektų, valdymo įmonė ir depozitoriumas gali pasirinkti valdymo organų ir priežiūros funkcijų nepriklausomumą užtikrinti laikydamiesi arba [Reglamento (ES) 2016/438 24 straipsnyje](https://eur-lex.europa.eu/eli/reg/2016/438/art_24/oj) nustatytų reikalavimų, arba šio įstatymo [[#^s-8352b5678bba2ac2f0ef2947|55 straipsnio 31 dalyje]] nustatytų papildomų reikalavimų. ^s-b4caf875099b153d0d381953
 
 
 Straipsnio pakeitimai:
@@ -1690,13 +1690,13 @@ INVESTAVIMO TAISYKLĖS
 1) išleistos arba garantuotos valstybės narės vyriausybės, regioninės valdžios, savivaldybės ar centrinio banko, Europos Centrinio Banko, Europos Sąjungos ar Europos investicijų banko, ne valstybės narės ar vieno iš federacinę valstybę sudarančių subjektų arba tarptautinės organizacijos, kuriai priklauso bent viena valstybė narė, arba ^s-368d7ed7d8c64fae68d1ee4c
 
 
-2) išleistos subjekto, kurio vertybiniai popieriai įtraukti į prekybą [[#^s-8fc870961b96239eafa7c75b|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytose reguliuojamose rinkose, arba ^s-4a71ba291db1624a48234d82
+2) išleistos subjekto, kurio vertybiniai popieriai įtraukti į prekybą [[#^s-8fc870961b96239eafa7c75b|šio straipsnio 1 dalies]] [[#^s-368d7ed7d8c64fae68d1ee4c|1]] ir 2 punktuose nurodytose reguliuojamose rinkose, arba ^s-4a71ba291db1624a48234d82
 
 
 3) išleistos ar garantuotos subjekto, kurio veiklos rizika yra prižiūrima pagal Europos Sąjungos teisės reikalavimus ar tokius reikalavimus, kurie yra ne mažiau griežti už nustatytus Europos Sąjungoje, arba ^s-a1fc8b4f877cc55faa4c3c6a
 
 
-4) išleistos priežiūros institucijos patvirtintus kriterijus atitinkančios įmonės, kurios kapitalas ir rezervai sudaro mažiausiai 10 000 000 eurų ir kuri rengia ir skelbia konsoliduotąsias finansines ataskaitas ir atlieka įmonių grupės finansavimo funkciją, kai bent vienos iš jos grupei priklausančių įmonių perleidžiamieji vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje, ar kuri naudojama banko paskolomis finansuojamiems vertybiniams popieriams išleisti, o investicijos į tokias pinigų rinkos priemones apsaugotos ne mažiau, kaip nurodyta šios dalies 1, 2 ir [[#^s-a1fc8b4f877cc55faa4c3c6a|3 punktuose]]. ^s-d1f4ec15aff41932de0b3790
+4) išleistos priežiūros institucijos patvirtintus kriterijus atitinkančios įmonės, kurios kapitalas ir rezervai sudaro mažiausiai 10 000 000 eurų ir kuri rengia ir skelbia konsoliduotąsias finansines ataskaitas ir atlieka įmonių grupės finansavimo funkciją, kai bent vienos iš jos grupei priklausančių įmonių perleidžiamieji vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje, ar kuri naudojama banko paskolomis finansuojamiems vertybiniams popieriams išleisti, o investicijos į tokias pinigų rinkos priemones apsaugotos ne mažiau, kaip nurodyta šios dalies [[#^s-368d7ed7d8c64fae68d1ee4c|1]], [[#^s-4a71ba291db1624a48234d82|2]] ir [[#^s-a1fc8b4f877cc55faa4c3c6a|3]] punktuose. ^s-d1f4ec15aff41932de0b3790
 
 
 3. Pensijų turtas negali būti investuotas į tauriuosius metalus arba į suteikiančius į juos teises vertybinius popierius, kriptoturtą ir į suteikiančius į jį teises vertybinius popierius. ^s-ceaca1deee256f461b3a52e6
@@ -1774,19 +1774,19 @@ Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
 ### 47 straipsnis. Investicinių priemonių portfelio diversifikavimas ^s-9fab38ee6509e8b80b2aa21b
 
 
-1. Į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota ne daugiau kaip 5 procentai pensijų fondo grynųjų aktyvų, išskyrus šio straipsnio 2, 5 ir [[#^s-59d968bc4770cbd8b6869a09|6 dalyse]] numatytus atvejus. ^s-1b6e71d10174493cb44b843c
+1. Į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota ne daugiau kaip 5 procentai pensijų fondo grynųjų aktyvų, išskyrus šio straipsnio [[#^s-bfd29ee9d3aaedc1ffdcc0cc|2]], [[#^s-53d0d85bca0d0553200e945a|5]] ir [[#^s-59d968bc4770cbd8b6869a09|6]] dalyse numatytus atvejus. ^s-1b6e71d10174493cb44b843c
 
 
-2. Į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota daugiau kaip 5 procentai, bet ne daugiau kaip 10 procentų pensijų fondo grynųjų aktyvų su sąlyga, kad tokių investicijų bendra suma nebus didesnė kaip 40 procentų pensijų fondo grynųjų aktyvų (šis apribojimas netaikomas indėliams ir išvestinėms finansinėms priemonėms, kuriomis prekiaujama už šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] 1 ir 2 punktuose nurodytų rinkų ribų, jeigu jų emitentui taikoma riziką ribojanti priežiūra). ^s-bfd29ee9d3aaedc1ffdcc0cc
+2. Į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota daugiau kaip 5 procentai, bet ne daugiau kaip 10 procentų pensijų fondo grynųjų aktyvų su sąlyga, kad tokių investicijų bendra suma nebus didesnė kaip 40 procentų pensijų fondo grynųjų aktyvų (šis apribojimas netaikomas indėliams ir išvestinėms finansinėms priemonėms, kuriomis prekiaujama už šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] [[#^s-ece4d1d3e0659e8edf8eed6a|1]] ir [[#^s-1001deadbdfe018490c3dea0|2]] punktuose nurodytų rinkų ribų, jeigu jų emitentui taikoma riziką ribojanti priežiūra). ^s-bfd29ee9d3aaedc1ffdcc0cc
 
 
 3. Investicijos į indėlius vienoje kredito įstaigoje negali sudaryti daugiau kaip 20 procentų pensijų fondo grynųjų aktyvų. ^s-bfab5aa8830dc6431b316321
 
 
-4. Bendra investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius, pinigų rinkos priemones ar indėlius ir įsipareigojimų, atsirandančių iš sandorių su tuo asmeniu dėl išvestinių finansinių priemonių, sudarytų už šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] 1 ir 2 punktuose nurodytų rinkų ribų, suma negali būti didesnė kaip 20 procentų pensijų fondo grynųjų aktyvų. ^s-6d5d8cfb27efc268a5e107e0
+4. Bendra investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius, pinigų rinkos priemones ar indėlius ir įsipareigojimų, atsirandančių iš sandorių su tuo asmeniu dėl išvestinių finansinių priemonių, sudarytų už šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] [[#^s-ece4d1d3e0659e8edf8eed6a|1]] ir [[#^s-1001deadbdfe018490c3dea0|2]] punktuose nurodytų rinkų ribų, suma negali būti didesnė kaip 20 procentų pensijų fondo grynųjų aktyvų. ^s-6d5d8cfb27efc268a5e107e0
 
 
-5. Investicijos į valstybės, kurios kredito reitingas ne mažesnis negu Lietuvos Respublikos, išleistus arba garantuotus perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones negali būti didesnės kaip 35 procentai pensijų fondo grynųjų aktyvų vertės. Priežiūros institucija į šioje dalyje numatytus perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali leisti investuoti ir didesnę dalį pensijų fondo grynųjų aktyvų, jeigu tokiu atveju dalyvių interesai būtų pakankamai apsaugoti, investuota į ne mažiau kaip 6 emisijų perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones, o į vienos emisijos perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones investuota ne daugiau kaip 30 procentų pensijų fondo grynųjų aktyvų. Šioje dalyje numatytų reikalavimų netenkinančioms finansinėms priemonėms taikomi šio straipsnio 1 ir [[#^s-bfd29ee9d3aaedc1ffdcc0cc|2 dalyse]] nustatyti ribojimai. ^s-53d0d85bca0d0553200e945a
+5. Investicijos į valstybės, kurios kredito reitingas ne mažesnis negu Lietuvos Respublikos, išleistus arba garantuotus perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones negali būti didesnės kaip 35 procentai pensijų fondo grynųjų aktyvų vertės. Priežiūros institucija į šioje dalyje numatytus perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali leisti investuoti ir didesnę dalį pensijų fondo grynųjų aktyvų, jeigu tokiu atveju dalyvių interesai būtų pakankamai apsaugoti, investuota į ne mažiau kaip 6 emisijų perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones, o į vienos emisijos perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones investuota ne daugiau kaip 30 procentų pensijų fondo grynųjų aktyvų. Šioje dalyje numatytų reikalavimų netenkinančioms finansinėms priemonėms taikomi šio straipsnio [[#^s-1b6e71d10174493cb44b843c|1]] ir [[#^s-bfd29ee9d3aaedc1ffdcc0cc|2]] dalyse nustatyti ribojimai. ^s-53d0d85bca0d0553200e945a
 
 
 6. Investicijos į obligacijas, išleistas tokios valstybėje narėje registruotą buveinę turinčios kredito įstaigos, kuri, siekiant apsaugoti obligacijų savininkų interesus, yra tos valstybės specialiai prižiūrima pagal teisės aktus, o iš obligacijų leidimo gauta suma visam obligacijų galiojimo laikui investuojama į tokį turtą, kurio pakaktų patenkinti obligacijų savininkų reikalavimams ir iš kurio emitento nemokumo atveju obligacijų savininkų reikalavimai išmokėti pagrindinę sumą ir palūkanas būtų patenkinti pirmumo teise, negali būti didesnės kaip 25 procentai pensijų fondo grynųjų aktyvų. Kai į tokias vieno emitento obligacijas investuojama daugiau kaip 5 procentai pensijų fondo grynųjų aktyvų, bet ne daugiau kaip 25 procentai pensijų fondo grynųjų aktyvų, bendra tokių investicijų suma negali būti didesnė kaip 80 procentų pensijų fondo grynųjų aktyvų. ^s-59d968bc4770cbd8b6869a09
@@ -1795,7 +1795,7 @@ Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
 7. Bendra investicijų į bendrovių, kurioms nėra suteiktas kredito reitingas, arba į bendrovių su žemesniu reitingu negu investicinis reitingas obligacijas ar kitų formų ne nuosavybės vertybinius popierius vertė negali viršyti 20 procentų pensijų fondo grynųjų aktyvų. ^s-90fb05c1c8ae0901cea63861
 
 
-8. Šio straipsnio 5 ir [[#^s-59d968bc4770cbd8b6869a09|6 dalyse]] numatyti perleidžiamieji vertybiniai popieriai ir pinigų rinkos priemonės nėra įskaitomi skaičiuojant investicijas, kurioms pagal [[#^s-bfd29ee9d3aaedc1ffdcc0cc|šio straipsnio 2 dalį]] taikoma maksimali leistina 40 procentų riba. Šio straipsnio 1–[[#^s-90fb05c1c8ae0901cea63861|7 dalyse]] ir šio įstatymo [[#^s-f595c17ef1969e40744bbb90|491 straipsnio 4 dalyje]] nustatytos ribos negali būti sudedamos, todėl investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius, pinigų rinkos priemones, indėlius ar įsipareigojimus, atsirandančius iš sandorių su tuo asmeniu dėl išvestinių finansinių priemonių, sudarytų už šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] 1 ir 2 punktuose nurodytų rinkų ribų, suma negali būti didesnė kaip 35 procentai pensijų fondo grynųjų aktyvų. ^s-1d9d1467c8ae5a05c7d6ec28
+8. Šio straipsnio [[#^s-53d0d85bca0d0553200e945a|5]] ir [[#^s-59d968bc4770cbd8b6869a09|6]] dalyse numatyti perleidžiamieji vertybiniai popieriai ir pinigų rinkos priemonės nėra įskaitomi skaičiuojant investicijas, kurioms pagal [[#^s-bfd29ee9d3aaedc1ffdcc0cc|šio straipsnio 2 dalį]] taikoma maksimali leistina 40 procentų riba. Šio straipsnio [[#^s-1b6e71d10174493cb44b843c|1]]–[[#^s-90fb05c1c8ae0901cea63861|7]] dalyse ir šio įstatymo [[#^s-f595c17ef1969e40744bbb90|491 straipsnio 4 dalyje]] nustatytos ribos negali būti sudedamos, todėl investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius, pinigų rinkos priemones, indėlius ar įsipareigojimus, atsirandančius iš sandorių su tuo asmeniu dėl išvestinių finansinių priemonių, sudarytų už šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] [[#^s-ece4d1d3e0659e8edf8eed6a|1]] ir [[#^s-1001deadbdfe018490c3dea0|2]] punktuose nurodytų rinkų ribų, suma negali būti didesnė kaip 35 procentai pensijų fondo grynųjų aktyvų. ^s-1d9d1467c8ae5a05c7d6ec28
 
 
 9. Į įmonių, priklausančių grupei, kuri turi sudaryti konsoliduotąsias finansines ataskaitas, išleistus perleidžiamuosius vertybinius popierius ir pinigų rinkos priemones gali būti investuota ne daugiau kaip 20 procentų pensijų fondo grynųjų aktyvų. ^s-2fd01172547a48b143779241
@@ -1917,16 +1917,16 @@ Nr. XIII-1875, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00225
 1. Pensijų turtą leidžiama investuoti tik į tas išvestines finansines priemones (įskaitant tas, kurios suteikia teisę tik gauti pinigų), kurios atitinka šias sąlygas: ^s-08df19421afea817a9d3dc56
 
 
-1) yra įtrauktos į prekybą šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] 1 ir [[#^s-31d0c07f181ed52f22b73792|2 punktuose]] nurodytose rinkose arba jomis prekiaujama už tokių rinkų ribų; ^s-be7544b489e2018dae945b71
+1) yra įtrauktos į prekybą šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] [[#^s-ece4d1d3e0659e8edf8eed6a|1]] ir [[#^s-1001deadbdfe018490c3dea0|2]] punktuose nurodytose rinkose arba jomis prekiaujama už tokių rinkų ribų; ^s-be7544b489e2018dae945b71
 
 
 2) yra susietos su šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalyje]] nurodytomis finansinėmis priemonėmis, finansiniais indeksais, palūkanų normomis, valiutomis ar valiutos kursais, į kuriuos, kaip nurodyta pensijų fondo taisyklėse, pensijų fondas turi teisę investuoti; ^s-31d0c07f181ed52f22b73792
 
 
-3) kita sandorių dėl išvestinių finansinių priemonių, sudarytų už šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] 1 ir [[#^s-31d0c07f181ed52f22b73792|2 punktuose]] nurodytų rinkų ribų, šalis atitinka priežiūros institucijos nustatytus kriterijus ir jai taikoma riziką ribojanti priežiūra; ^s-ddce1998cfeac59da10f0f7c
+3) kita sandorių dėl išvestinių finansinių priemonių, sudarytų už šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] [[#^s-ece4d1d3e0659e8edf8eed6a|1]] ir [[#^s-1001deadbdfe018490c3dea0|2]] punktuose nurodytų rinkų ribų, šalis atitinka priežiūros institucijos nustatytus kriterijus ir jai taikoma riziką ribojanti priežiūra; ^s-ddce1998cfeac59da10f0f7c
 
 
-4) išvestines finansines priemones, kuriomis prekiaujama už šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] 1 ir [[#^s-31d0c07f181ed52f22b73792|2 punktuose]] nurodytų rinkų ribų, kiekvieną dieną galima patikrinti, patikimai ir tiksliai įvertinti ir bet kuriuo metu parduoti ar kitaip atlyginamai realizuoti jų tikrąja verte. ^s-13737d11a4e7aa445ce89e33
+4) išvestines finansines priemones, kuriomis prekiaujama už šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] [[#^s-ece4d1d3e0659e8edf8eed6a|1]] ir [[#^s-1001deadbdfe018490c3dea0|2]] punktuose nurodytų rinkų ribų, kiekvieną dieną galima patikrinti, patikimai ir tiksliai įvertinti ir bet kuriuo metu parduoti ar kitaip atlyginamai realizuoti jų tikrąja verte. ^s-13737d11a4e7aa445ce89e33
 
 
 2. Valdymo įmonė privalo: ^s-472cbb6bda74982588bd64af
@@ -1935,7 +1935,7 @@ Nr. XIII-1875, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00225
 1) riziką valdyti taip, kad galėtų bet kuriuo metu stebėti ir skaičiuoti investicinių sandorių (investicinių pozicijų) riziką ir jos poveikį bendrai investicinių priemonių portfelio rizikai; ^s-6ba3501d4df9c91ecdc99b17
 
 
-2) tiksliai ir nepriklausomai vertinti išvestinių finansinių priemonių, kuriomis prekiaujama už šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] 1 ir 2 punktuose nurodytų rinkų ribų, vertę; ^s-62a7e9ee45793a162fa6275e
+2) tiksliai ir nepriklausomai vertinti išvestinių finansinių priemonių, kuriomis prekiaujama už šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] [[#^s-ece4d1d3e0659e8edf8eed6a|1]] ir [[#^s-1001deadbdfe018490c3dea0|2]] punktuose nurodytų rinkų ribų, vertę; ^s-62a7e9ee45793a162fa6275e
 
 
 3) priežiūros institucijos nustatyta tvarka pateikti jai informaciją apie išvestinių finansinių priemonių rūšis, dėl jų kylančią riziką, kiekybines ribas ir metodus, kuriais vertinama su išvestinių finansinių priemonių sandoriais susijusi kiekvieno pensijų fondo rizika. ^s-5dc8a6a3159c5170bfa190ce
@@ -1944,10 +1944,10 @@ Nr. XIII-1875, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00225
 3. Pagal sandorius dėl išvestinių finansinių priemonių prisiimtos rizikos apimtis negali būti didesnė už pensijų fondo grynųjų aktyvų vertę. Skaičiuojant rizikos apimtį, turi būti atsižvelgiama į išvestinės finansinės priemonės vertę skaičiavimo metu, sandorio šalies riziką, būsimus rinkos pasikeitimus ir laiką, kurio reikia įsipareigojimams pagal sandorius įvykdyti, taip pat į tai, kad išvestinė finansinė priemonė įeina į perleidžiamojo vertybinio popieriaus ar pinigų rinkos priemonės sudėtį. Į išvestines finansines priemones gali būti investuojama iki 35 procentų pensijų fondo grynųjų aktyvų vertės, bet tik tuo atveju, jeigu nebus viršytos šio įstatymo [[#^s-9fab38ee6509e8b80b2aa21b|47 straipsnyje]] nustatytos ribos. Nustatant, ar neviršytos šio įstatymo [[#^s-9fab38ee6509e8b80b2aa21b|47 straipsnyje]] nustatytos ribos, investicijos į su finansinių priemonių indeksu susietas išvestines finansines priemones skaičiuojamos atskirai. ^s-19cf44b5b208bcace0aa6bf0
 
 
-4. Pagal sandorius dėl išvestinių finansinių priemonių, sudarytų už šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] 1 ir 2 punktuose nurodytų rinkų ribų, prisiimtos rizikos apimtis negali būti didesnė kaip 5 procentai pensijų fondo grynųjų aktyvų vertės, o jeigu kita sandorio šalis yra šio įstatymo [[#^s-a647d2436d5fc6c73662fd52|45 straipsnio 1 dalies 4 punkte]] nurodyta kredito įstaiga – negali būti didesnė kaip 10 procentų pensijų fondo grynųjų aktyvų vertės. ^s-f595c17ef1969e40744bbb90
+4. Pagal sandorius dėl išvestinių finansinių priemonių, sudarytų už šio įstatymo [[#^s-8fc870961b96239eafa7c75b|45 straipsnio 1 dalies]] [[#^s-ece4d1d3e0659e8edf8eed6a|1]] ir [[#^s-1001deadbdfe018490c3dea0|2]] punktuose nurodytų rinkų ribų, prisiimtos rizikos apimtis negali būti didesnė kaip 5 procentai pensijų fondo grynųjų aktyvų vertės, o jeigu kita sandorio šalis yra šio įstatymo [[#^s-a647d2436d5fc6c73662fd52|45 straipsnio 1 dalies 4 punkte]] nurodyta kredito įstaiga – negali būti didesnė kaip 10 procentų pensijų fondo grynųjų aktyvų vertės. ^s-f595c17ef1969e40744bbb90
 
 
-5. Kai pensijų turtas investuojamas į išvestines finansines priemones tik rizikai valdyti, šio straipsnio 2–[[#^s-f595c17ef1969e40744bbb90|4 dalys]] netaikomos, tačiau kiekviena išvestinė finansinė priemonė turi būti pagrįsta konkrečiu investiciniu sandoriu (investicine pozicija). Toks sandoris ir jo rizikai valdyti naudojama išvestinė finansinė priemonė turi būti nurodyti valdymo įmonės periodinėse ataskaitose. ^s-bc1d98d7f191cac38631e7b3
+5. Kai pensijų turtas investuojamas į išvestines finansines priemones tik rizikai valdyti, šio straipsnio [[#^s-472cbb6bda74982588bd64af|2]]–[[#^s-f595c17ef1969e40744bbb90|4]] dalys netaikomos, tačiau kiekviena išvestinė finansinė priemonė turi būti pagrįsta konkrečiu investiciniu sandoriu (investicine pozicija). Toks sandoris ir jo rizikai valdyti naudojama išvestinė finansinė priemonė turi būti nurodyti valdymo įmonės periodinėse ataskaitose. ^s-bc1d98d7f191cac38631e7b3
 
 
 Papildyta straipsniu:
@@ -1961,7 +1961,7 @@ Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
 1. Pensijų fondas gali nesilaikyti šiame skirsnyje nustatytų investavimo apribojimų, jeigu jis pasinaudoja turimų perleidžiamųjų vertybinių popierių ar pinigų rinkos priemonių suteikiama pirmumo teise. Tokiu atveju, taip pat tada, kai investavimo taisyklių reikalavimai pažeidžiami dėl priežasčių, nepriklausančių nuo valdymo įmonės, neatitikimas turi būti pašalintas kuo greičiau, bet ne vėliau kaip per 6 mėnesius. ^s-2edcfa0b6c3ec8d2afa9608b
 
 
-2. Naujai sukurto pensijų fondo investicinių priemonių portfelis 6 mėnesius nuo pensijų fondo taisyklių patvirtinimo gali neatitikti šio įstatymo 47, 48 ir [[#^s-a75940ec779fb16c04bd19de|49 straipsniuose]] nustatytų diversifikavimo reikalavimų. ^s-b933a5ca825253a656f8a359
+2. Naujai sukurto pensijų fondo investicinių priemonių portfelis 6 mėnesius nuo pensijų fondo taisyklių patvirtinimo gali neatitikti šio įstatymo [[#^s-9fab38ee6509e8b80b2aa21b|47]], [[#^s-66e24280c29176127a4c0c04|48]] ir [[#^s-a75940ec779fb16c04bd19de|49]] straipsniuose nustatytų diversifikavimo reikalavimų. ^s-b933a5ca825253a656f8a359
 Straipsnio dalies pakeitimai:
 Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
 
@@ -2079,7 +2079,7 @@ Nr. XIII-90, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29282
 
 
 
-4. Priežiūros institucijos reikalavimu valdymo įmonė privalo pateikti paaiškinimus dėl pensijų fondo finansinių ataskaitų, o auditorius – paaiškinimus dėl audito ataskaitos ir nustatytų šio įstatymo ir (ar) kitų teisės aktų pažeidimų. ^s-9200340db4d5d8c046d31f16
+4. Priežiūros institucijos reikalavimu valdymo įmonė privalo pateikti paaiškinimus dėl pensijų fondo finansinių ataskaitų, o auditorius – paaiškinimus [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) ataskaitos ir nustatytų šio įstatymo ir (ar) kitų teisės aktų pažeidimų. ^s-9200340db4d5d8c046d31f16
 
 
 5. Auditorius, atlikdamas valdymo įmonės ar pensijų fondo auditą, privalo nedelsdamas raštu pranešti priežiūros institucijai apie aplinkybes ar faktus, kurie gali: ^s-374684a1c5c9f9c8006daae7
@@ -2102,7 +2102,7 @@ Nr. XIII-90, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29282
 6. Auditorius taip pat privalo pranešti priežiūros institucijai apie faktus ir aplinkybes, nurodytas [[#^s-374684a1c5c9f9c8006daae7|šio straipsnio 5 dalies]] 1, 2 ir 3 punktuose ir kurios paaiškėja atliekant įmonės, kurią sieja glaudūs ryšiai su valdymo įmone, auditą. ^s-d311fc32b3b6ef3fa1aa8970
 
 
-7. Šio straipsnio 5 ir [[#^s-d311fc32b3b6ef3fa1aa8970|6 dalyse]] nurodytas priežiūros institucijos informavimas nelaikomas teisės aktuose ar sutartyje numatyto draudimo atskleisti konfidencialią informaciją pažeidimu. ^s-878c2784006890ceb6a7c7e7
+7. Šio straipsnio [[#^s-374684a1c5c9f9c8006daae7|5]] ir [[#^s-d311fc32b3b6ef3fa1aa8970|6]] dalyse nurodytas priežiūros institucijos informavimas nelaikomas teisės aktuose ar sutartyje numatyto draudimo atskleisti konfidencialią informaciją pažeidimu. ^s-878c2784006890ceb6a7c7e7
 
 
 
@@ -2117,7 +2117,7 @@ VALDYMO ĮMONIŲ IR DEPOZITORIUMŲ VEIKLOS VALSTYBINĖ PRIEŽIŪRA
 1. Valdymo įmonių, depozitoriumų, Europos asmeninės pensijos produkto teikėjų ir Europos asmeninės pensijos produkto platintojų veiklą prižiūri priežiūros institucija. ^s-cc67d8684013799e22c561fb
 
 
-2. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi [[latest/TAR.1B4D7B687895|Lietuvos banko įstatymu]], [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatymu]], šiuo įstatymu, Reglamentu (ES) 2019/1238 ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai. ^s-63261a0f8a443910b2036a60
+2. Priežiūros institucija priežiūros funkcijas atlieka vadovaudamasi [[latest/TAR.1B4D7B687895|Lietuvos banko įstatymu]], [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatymu]], šiuo įstatymu, [Reglamentu (ES) 2019/1238](https://eur-lex.europa.eu/eli/reg/2019/1238/oj) ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai. ^s-63261a0f8a443910b2036a60
 
 
 Straipsnio pakeitimai:
@@ -2141,7 +2141,7 @@ Priežiūros institucija atlieka šias funkcijas:
 3) stebi, analizuoja, tikrina ir kitaip prižiūri valdymo įmonių, depozitoriumų, Europos asmeninės pensijos produkto teikėjų ir Europos asmeninės pensijos produkto platintojų veiklą; ^s-e02b841e246b0b69208b6237
 
 
-4) atlieka Reglamente (ES) 2019/1238, Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 kompetentingai institucijai nustatytas funkcijas, o kai taikomi šio įstatymo [[#^s-6deaea5a8cab81d396eae499|6 straipsnio 4 dalyje]] nustatyti reikalavimai, mutatis mutandis atlieka Reglamente (ES) 2022/2554 priežiūros institucijai nustatytas funkcijas; ^s-40a4c551eba8d788544d8a89
+4) atlieka [Reglamente (ES) 2019/1238](https://eur-lex.europa.eu/eli/reg/2019/1238/oj), [Reglamente (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) ir [Reglamente (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) kompetentingai institucijai nustatytas funkcijas, o kai taikomi šio įstatymo [[#^s-6deaea5a8cab81d396eae499|6 straipsnio 4 dalyje]] nustatyti reikalavimai, mutatis mutandis atlieka [Reglamente (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) priežiūros institucijai nustatytas funkcijas; ^s-40a4c551eba8d788544d8a89
 Straipsnio punkto pakeitimai:
 Nr. XV-306, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11975
 
@@ -2193,7 +2193,7 @@ Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
 3) atkurti iki teisės aktų pažeidimo buvusią padėtį; ^s-20576543db93d652441dc72f
 
 
-4) nutraukti Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei jo teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą; ^s-9691b001865c8fb2fd5ceb8d
+4) nutraukti [Reglamente (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei jo teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą; ^s-9691b001865c8fb2fd5ceb8d
 
 
 5) įpareigoti valdymo įmonę teises ir pareigas, atsirandančias iš pensijų kaupimo sutarčių, perduoti kitai valdymo įmonei; ^s-c202e3c373f8edafea3d9000
@@ -2217,7 +2217,7 @@ Nr. XIV-1601, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25179
 5. Jeigu priežiūros institucija nustato teisės aktų, reglamentuojančių riziką ribojančius reikalavimus, pažeidimus arba jeigu valdymo įmonės veikla kelia grėsmę įmonės veiklos stabilumui ir patikimumui, priežiūros institucija turi teisę valdymo įmonei nustatyti individualius veiklos riziką ribojančių normatyvų dydžius ar papildomus reikalavimus dėl veiklos rizikos ribojimo. ^s-44943a12e20c80b74b1fab05
 
 
-6. Valdymo įmonės privalo vykdyti šio straipsnio 3 ir [[#^s-44943a12e20c80b74b1fab05|5 dalyse]] nustatytus, o Europos asmeninės pensijos produkto teikėjai ir Europos asmeninės pensijos produkto platintojai – [[#^s-c9bfd8b287d6658f737bcdf1|šio straipsnio 3 dalyje]] nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. ^s-2110349e50ca2cd12b916cfe
+6. Valdymo įmonės privalo vykdyti šio straipsnio [[#^s-c9bfd8b287d6658f737bcdf1|3]] ir [[#^s-44943a12e20c80b74b1fab05|5]] dalyse nustatytus, o Europos asmeninės pensijos produkto teikėjai ir Europos asmeninės pensijos produkto platintojai – [[#^s-c9bfd8b287d6658f737bcdf1|šio straipsnio 3 dalyje]] nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdami, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. ^s-2110349e50ca2cd12b916cfe
 Straipsnio dalies pakeitimai:
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
@@ -2296,7 +2296,7 @@ Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 6) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo [[#^s-9fb36e92f6c3572de24d5d32|58 straipsnį]] duoti privalomi nurodymai; ^s-32ad45a1b0fc72d7db2e1130
 
 
-7) pažeidžiami Reglamente (ES) Nr. 1286/2014, Reglamente (ES) 2019/1238, Reglamente (ES) 2019/2088, Reglamento (ES) 2020/852 5, 6 ir [[#^s-70fe2255aae738275e077648|7 straipsniuose]] ir Reglamente (ES) 2022/2554 nustatyti reikalavimai; ^s-ed14fbf50fc2f150e94468d5
+7) pažeidžiami [Reglamente (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj), [Reglamente (ES) 2019/1238](https://eur-lex.europa.eu/eli/reg/2019/1238/oj), [Reglamente (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj), [Reglamento (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) [[#^s-176e959152b619055d421ea1|5]], [[#^s-e4b9942c23dee55c2b90016e|6]] ir [[#^s-70fe2255aae738275e077648|7]] straipsniuose ir [Reglamente (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) nustatyti reikalavimai; ^s-ed14fbf50fc2f150e94468d5
 Straipsnio punkto pakeitimai:
 Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
@@ -2342,7 +2342,7 @@ Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 3. Valdymo įmonės vadovai turi gauti atstovo veiklos priežiūrai sutikimą dėl kiekvieno su valdymo įmonės veikla susijusio sprendimo. Visi be atstovo veiklos priežiūrai sutikimo valdymo įmonės ar investicinės bendrovės sprendimai, priimti po sprendimo paskirti atstovą veiklos priežiūrai įsigaliojimo dienos, yra negaliojantys. ^s-3305d05f4a358b5a7ee02866
 
 
-4. Atstovas veiklos priežiūrai nesutinka su valdymo įmonės vadovų sprendimais, jeigu jie, jo nuomone, prieštarauja saugią ir patikimą valdymo įmonės ar investicinės bendrovės veiklą reglamentuojantiems teisės aktams ar dėl kitų priežasčių kelia grėsmę valdymo įmonės veiklos stabilumui ir patikimumui. Atstovui veiklos priežiūrai, atliekančiam savo funkcijas, mutatis mutandis taikomos [[latest/TAR.1B4D7B687895#^s-99181756e1f45dae235dc7c5|Lietuvos banko įstatymo 421 straipsnio 5 dalies]] 1, 3, 11 ir 12 punktų nuostatos. Atstovas veiklos priežiūrai privalo teikti priežiūros institucijai jos nustatytą informaciją. ^s-a470b9777e293af2cebb0dd7
+4. Atstovas veiklos priežiūrai nesutinka su valdymo įmonės vadovų sprendimais, jeigu jie, jo nuomone, prieštarauja saugią ir patikimą valdymo įmonės ar investicinės bendrovės veiklą reglamentuojantiems teisės aktams ar dėl kitų priežasčių kelia grėsmę valdymo įmonės veiklos stabilumui ir patikimumui. Atstovui veiklos priežiūrai, atliekančiam savo funkcijas, mutatis mutandis taikomos [[latest/TAR.1B4D7B687895#^s-99181756e1f45dae235dc7c5|Lietuvos banko įstatymo 421 straipsnio 5 dalies]] [[latest/TAR.1B4D7B687895#^s-04f64a4ea0a54301a4b3fa71|1]], [[latest/TAR.1B4D7B687895#^s-e7cd86468a08917863237218|3]], [[latest/TAR.1B4D7B687895#^s-c0186fb22d1b6a39f4449e7b|11]] ir [[latest/TAR.1B4D7B687895#^s-07bf787f6bc850c937f35229|12]] punktų nuostatos. Atstovas veiklos priežiūrai privalo teikti priežiūros institucijai jos nustatytą informaciją. ^s-a470b9777e293af2cebb0dd7
 
 
 5. Apie priimtą sprendimą paskirti atstovą veiklos priežiūrai ar jį atšaukti ne vėliau kaip kitą darbo dieną po sprendimo priėmimo dienos pranešama valdymo įmonei ar investicinei bendrovei ir Juridinių asmenų registro duomenų tvarkytojui, taip pat paskelbiama priežiūros institucijos interneto svetainėje. ^s-6c356d5d5b4f20ae79c7c5e0
@@ -2380,10 +2380,10 @@ Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
 2) juridinio asmens vadovams ir kitiems fiziniams asmenims - iki 50 000 eurų. ^s-fb79dc5e7f7acc266dea9682
 
 
-2. Už Reglamento (ES) Nr. 1286/2014 pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta Reglamento (ES) Nr. 1286/2014 [[#^s-62191802d5a7efdb53bfa7d2|24 straipsnyje]]. ^s-222bf4603a3583ce7a373ec1
+2. Už [Reglamento (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta [Reglamento (ES) Nr. 1286/2014 24 straipsnyje](https://eur-lex.europa.eu/eli/reg/1286/2014/art_24/oj). ^s-222bf4603a3583ce7a373ec1
 
 
-21. Už Reglamento (ES) 2019/1238 pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta Reglamento (ES) 2019/1238 67 straipsnyje. ^s-7d5b2c2631585fe53b2a3b51
+21. Už [Reglamento (ES) 2019/1238](https://eur-lex.europa.eu/eli/reg/2019/1238/oj) pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta [Reglamento (ES) 2019/1238 67 straipsnyje](https://eur-lex.europa.eu/eli/reg/2019/1238/art_67/oj). ^s-7d5b2c2631585fe53b2a3b51
 Papildyta straipsnio dalimi:
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
@@ -2434,25 +2434,25 @@ priedas
 
 
 
-1. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2021 m. gruodžio 15 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/2259. ^s-951ff6a3358a82a1782635c8
+1. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2021 m. gruodžio 15 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2021/2259](https://eur-lex.europa.eu/eli/reg/2021/2259/oj). ^s-951ff6a3358a82a1782635c8
 Punkto pakeitimai:
 Nr. XIV-1037, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08784
 
 
 
-2. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1238 dėl visos Europos asmeninės pensijos produkto (PEPP). ^s-aebc6d739f08daaedb727011
+2. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2019/1238](https://eur-lex.europa.eu/eli/reg/2019/1238/oj) dėl visos Europos asmeninės pensijos produkto (PEPP). ^s-aebc6d739f08daaedb727011
 Papildyta punktu:
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
 
 
-3. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852. ^s-3c82073c350154ceb647d014
+3. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj). ^s-3c82073c350154ceb647d014
 Punkto numeracijos pakeitimas:
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
 
 
-4. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088. ^s-1744dc86f7c609ec0b1fd973
+4. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas [Reglamentas (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj). ^s-1744dc86f7c609ec0b1fd973
 Papildyta punktu:
 Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
 Punkto numeracijos pakeitimas:
@@ -2460,7 +2460,7 @@ Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
 
 
 
-5. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011. ^s-940958e116e55e8e984215a5
+5. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami [reglamentai (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj), (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011. ^s-940958e116e55e8e984215a5
 Papildyta straipsnio dalimi:
 Nr. XV-306, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11975
 
@@ -2477,7 +2477,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-195, 2001 03 01, Žin., 2001, Nr. 25-825 (2001 03 23)
-PENSIJŲ FONDŲ ĮSTATYMO 2, 4, 5, 6, 7, 8, 9, 10, 15, 16, 17, 18, 19, 20, 21, 22, 23, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 39, 40, 41, [[#^s-ab9d6cb961ebc770b0f72023|42 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, PENKTOJO SKIRSNIO PAVADINIMO PAKEITIMO IR ĮSTATYMO PAPILDYMO 23(1) STRAIPSNIU ĮSTATYMAS
+PENSIJŲ FONDŲ ĮSTATYMO [[#^s-587fbf617e0fd4bfd1406f07|2]], [[#^s-401d2a8ead2b92477a944dbb|4]], [[#^s-176e959152b619055d421ea1|5]], [[#^s-e4b9942c23dee55c2b90016e|6]], [[#^s-70fe2255aae738275e077648|7]], [[#^s-59eddbd315cd7f9a940eeff4|8]], [[#^s-9ff46df1695a073aeed2effd|9]], [[#^s-16f0a85321c7e2cf6d9f1907|10]], [[#^s-8eccf58bf16f10f175590609|15]], [[#^s-cb2a77f820170a9af51e8478|16]], [[#^s-31d58fbea8710f581f64a9ca|17]], [[#^s-b5c77467fe7eded31e2b3ec4|18]], [[#^s-d92acf075b6ef6e9d37b8281|19]], [[#^s-30bff4320e7585cf43708af0|20]], [[#^s-5b5fc99a71719798f39e5699|21]], [[#^s-90b918a69c92a077f057d3f6|22]], [[#^s-c7891865d79167e61217ded8|23]], [[#^s-0dfc5516e5de856e43869af7|25]], [[#^s-1d55d1aee7f0edaa4fb5e5dc|26]], [[#^s-7f426f0bf5e071fed4468e70|27]], [[#^s-9bbb71b2b0dbcd48369eda5b|28]], [[#^s-2cfdf5974a089eb905248b76|29]], [[#^s-f5fa1b5c20477f02852df162|30]], [[#^s-130c7acd167746c1ed0eb17e|31]], [[#^s-2815835a29768482fe4b33b0|32]], [[#^s-4717b6b59b28f7be425db918|33]], [[#^s-2536a2ceae91526f86796a31|34]], [[#^s-e6099cde70eb4fd2e28cbb65|36]], [[#^s-6ee9d73179f84b27afea6ecc|37]], [[#^s-66bd2bdb1af09cf85699226c|39]], [[#^s-10e5b3e55ce8af4680b64ffd|40]], [[#^s-d06b20fd993e87a7d4751ac9|41]], [[#^s-ab9d6cb961ebc770b0f72023|42]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, PENKTOJO SKIRSNIO PAVADINIMO PAKEITIMO IR ĮSTATYMO PAPILDYMO 23(1) STRAIPSNIU ĮSTATYMAS
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2536,7 +2536,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-70, 2012-12-20, Žin., 2012, Nr. 155-7980 (2012-12-31)
 PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
-Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-3c82073c350154ceb647d014|3 dalis]], įsigalioja 2013 m. sausio 1 d.
+Šis įstatymas, išskyrus šio straipsnio [[#^s-aebc6d739f08daaedb727011|2]] ir [[#^s-3c82073c350154ceb647d014|3]] dalis, įsigalioja 2013 m. sausio 1 d.
 
 
 
@@ -2546,52 +2546,52 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1113, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13422
-Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 34 ir [[#^s-124074ca8b53b5119d2c2c1b|59 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 [[#^s-2536a2ceae91526f86796a31|34]] ir [[#^s-124074ca8b53b5119d2c2c1b|59]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2455, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17722
-Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 15 ir [[#^s-b91b843220aa4cc68651d9a6|57 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 [[#^s-8eccf58bf16f10f175590609|15]] ir [[#^s-b91b843220aa4cc68651d9a6|57]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-90, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29282
-Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 41, 43 ir [[#^s-e5ef2a171a228dfcfe037a6a|55 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 [[#^s-d06b20fd993e87a7d4751ac9|41]], [[#^s-ebe5f3c14a499d45a52bbd4e|43]] ir [[#^s-e5ef2a171a228dfcfe037a6a|55]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1237, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09844
-Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 1, 2, 6, 8, 45, 47, 56, 57, 58, [[#^s-124074ca8b53b5119d2c2c1b|59 straipsnių]] pakeitimo, Įstatymo papildymo 6-1, 39-1, 57-1, 58-1, 58-2, 58-3 straipsniais ir priedu ir 15, 16, 17, [[#^s-90edb2fe6609b49fdc1f0ca5|60 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 [[#^s-a03948271eb2c3119a54fd36|1]], [[#^s-587fbf617e0fd4bfd1406f07|2]], [[#^s-e4b9942c23dee55c2b90016e|6]], [[#^s-59eddbd315cd7f9a940eeff4|8]], [[#^s-324b854f7d4f34a0c5a4e224|45]], [[#^s-9fab38ee6509e8b80b2aa21b|47]], [[#^s-197ce77e00bbe542ac1038e3|56]], [[#^s-b91b843220aa4cc68651d9a6|57]], [[#^s-9fb36e92f6c3572de24d5d32|58]], [[#^s-124074ca8b53b5119d2c2c1b|59]] straipsnių pakeitimo, Įstatymo papildymo 6-1, 39-1, 57-1, 58-1, 58-2, 58-3 straipsniais ir priedu ir [[#^s-8eccf58bf16f10f175590609|15]], [[#^s-cb2a77f820170a9af51e8478|16]], [[#^s-31d58fbea8710f581f64a9ca|17]], [[#^s-90edb2fe6609b49fdc1f0ca5|60]] straipsnių pripažinimo netekusiais galios įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1875, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00225
-Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 2, 6, 34, 45, 47, 48, 49, 50 ir [[#^s-e5ef2a171a228dfcfe037a6a|55 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 [[#^s-587fbf617e0fd4bfd1406f07|2]], [[#^s-e4b9942c23dee55c2b90016e|6]], [[#^s-2536a2ceae91526f86796a31|34]], [[#^s-324b854f7d4f34a0c5a4e224|45]], [[#^s-9fab38ee6509e8b80b2aa21b|47]], [[#^s-66e24280c29176127a4c0c04|48]], [[#^s-a75940ec779fb16c04bd19de|49]], [[#^s-632b7fa01e1563d85ea7dee1|50]] ir [[#^s-e5ef2a171a228dfcfe037a6a|55]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2657, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20831
-Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 1, 2, 6, 8, 45, 47, 56, 57, 58, [[#^s-124074ca8b53b5119d2c2c1b|59 straipsnių]] pakeitimo, Įstatymo papildymo 6-1, 39-1, 57-1, 58-1, 58-2, 58-3 straipsniais ir priedu ir 15, 16, 17, [[#^s-90edb2fe6609b49fdc1f0ca5|60 straipsnių]] pripažinimo netekusiais galios [[latest/81d99b206f0d11e8b83be60b2e217f90|įstatymo Nr. XIII-1237]] 19 ir [[#^s-30bff4320e7585cf43708af0|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 [[#^s-a03948271eb2c3119a54fd36|1]], [[#^s-587fbf617e0fd4bfd1406f07|2]], [[#^s-e4b9942c23dee55c2b90016e|6]], [[#^s-59eddbd315cd7f9a940eeff4|8]], [[#^s-324b854f7d4f34a0c5a4e224|45]], [[#^s-9fab38ee6509e8b80b2aa21b|47]], [[#^s-197ce77e00bbe542ac1038e3|56]], [[#^s-b91b843220aa4cc68651d9a6|57]], [[#^s-9fb36e92f6c3572de24d5d32|58]], [[#^s-124074ca8b53b5119d2c2c1b|59]] straipsnių pakeitimo, Įstatymo papildymo 6-1, 39-1, 57-1, 58-1, 58-2, 58-3 straipsniais ir priedu ir [[#^s-8eccf58bf16f10f175590609|15]], [[#^s-cb2a77f820170a9af51e8478|16]], [[#^s-31d58fbea8710f581f64a9ca|17]], [[#^s-90edb2fe6609b49fdc1f0ca5|60]] straipsnių pripažinimo netekusiais galios [[latest/81d99b206f0d11e8b83be60b2e217f90|įstatymo Nr. XIII-1237]] [[#^s-d92acf075b6ef6e9d37b8281|19]] ir [[#^s-30bff4320e7585cf43708af0|20]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2855, 2020-04-21, paskelbta TAR 2020-04-29, i. k. 2020-08969
-Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 2 ir [[#^s-7168a9715d126f50dfa1d5da|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 [[#^s-587fbf617e0fd4bfd1406f07|2]] ir [[#^s-7168a9715d126f50dfa1d5da|3]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-806, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27384
-Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 57, 58-2 straipsnių ir priedo pakeitimo įstatymas
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 [[#^s-b91b843220aa4cc68651d9a6|57]], 58-2 straipsnių ir priedo pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1036, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08783
-Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 1, 2, 6, 8, 45, 47, 56, 57, 58, [[#^s-124074ca8b53b5119d2c2c1b|59 straipsnių]] pakeitimo, Įstatymo papildymo 6-1, 39-1, 57-1, 58-1, 58-2, 58-3 straipsniais ir priedu ir 15, 16, 17, [[#^s-90edb2fe6609b49fdc1f0ca5|60 straipsnių]] pripažinimo netekusiais galios [[latest/81d99b206f0d11e8b83be60b2e217f90|įstatymo Nr. XIII-1237]] [[#^s-30bff4320e7585cf43708af0|20 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 [[#^s-a03948271eb2c3119a54fd36|1]], [[#^s-587fbf617e0fd4bfd1406f07|2]], [[#^s-e4b9942c23dee55c2b90016e|6]], [[#^s-59eddbd315cd7f9a940eeff4|8]], [[#^s-324b854f7d4f34a0c5a4e224|45]], [[#^s-9fab38ee6509e8b80b2aa21b|47]], [[#^s-197ce77e00bbe542ac1038e3|56]], [[#^s-b91b843220aa4cc68651d9a6|57]], [[#^s-9fb36e92f6c3572de24d5d32|58]], [[#^s-124074ca8b53b5119d2c2c1b|59]] straipsnių pakeitimo, Įstatymo papildymo 6-1, 39-1, 57-1, 58-1, 58-2, 58-3 straipsniais ir priedu ir [[#^s-8eccf58bf16f10f175590609|15]], [[#^s-cb2a77f820170a9af51e8478|16]], [[#^s-31d58fbea8710f581f64a9ca|17]], [[#^s-90edb2fe6609b49fdc1f0ca5|60]] straipsnių pripažinimo netekusiais galios [[latest/81d99b206f0d11e8b83be60b2e217f90|įstatymo Nr. XIII-1237]] [[#^s-30bff4320e7585cf43708af0|20 straipsnio]] pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1454, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22565
-Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 1, 2, 3, 8, 14, 21, 32, 35, 36, 41, 49, 56, 57, 58, 58-1, 58-2, [[#^s-124074ca8b53b5119d2c2c1b|59 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 [[#^s-a03948271eb2c3119a54fd36|1]], [[#^s-587fbf617e0fd4bfd1406f07|2]], [[#^s-7168a9715d126f50dfa1d5da|3]], [[#^s-59eddbd315cd7f9a940eeff4|8]], [[#^s-cf32e66c2804636176818b3f|14]], [[#^s-5b5fc99a71719798f39e5699|21]], [[#^s-2815835a29768482fe4b33b0|32]], [[#^s-3b04d4f5c4e71699345240c7|35]], [[#^s-e6099cde70eb4fd2e28cbb65|36]], [[#^s-d06b20fd993e87a7d4751ac9|41]], [[#^s-a75940ec779fb16c04bd19de|49]], [[#^s-197ce77e00bbe542ac1038e3|56]], [[#^s-b91b843220aa4cc68651d9a6|57]], [[#^s-9fb36e92f6c3572de24d5d32|58]], 58-1, 58-2, [[#^s-124074ca8b53b5119d2c2c1b|59]] straipsnių ir priedo pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2606,9 +2606,9 @@ Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-486, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17644
-Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 2, 6, 7, 13, 20, 21, 31, 32, 35, 40, 45, 46, 47, 50, 52, 58, 58-2 ir 58-3 straipsnių pakeitimo ir Įstatymo papildymo 5-1, 7-1 ir 49-1 straipsniais įstatymas
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 [[#^s-587fbf617e0fd4bfd1406f07|2]], [[#^s-e4b9942c23dee55c2b90016e|6]], [[#^s-70fe2255aae738275e077648|7]], [[#^s-b85ad60a049ce5085779910f|13]], [[#^s-30bff4320e7585cf43708af0|20]], [[#^s-5b5fc99a71719798f39e5699|21]], [[#^s-130c7acd167746c1ed0eb17e|31]], [[#^s-2815835a29768482fe4b33b0|32]], [[#^s-3b04d4f5c4e71699345240c7|35]], [[#^s-10e5b3e55ce8af4680b64ffd|40]], [[#^s-324b854f7d4f34a0c5a4e224|45]], [[#^s-6618e727a0729c9f54f506cb|46]], [[#^s-9fab38ee6509e8b80b2aa21b|47]], [[#^s-632b7fa01e1563d85ea7dee1|50]], [[#^s-7e49d07971ef5f4870f69175|52]], [[#^s-9fb36e92f6c3572de24d5d32|58]], 58-2 ir 58-3 straipsnių pakeitimo ir Įstatymo papildymo 5-1, 7-1 ir 49-1 straipsniais įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-306, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11975
-Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 2, 6, 57, 58-2 straipsnių ir priedo pakeitimo įstatymas
+Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymo Nr. VIII-1212 [[#^s-587fbf617e0fd4bfd1406f07|2]], [[#^s-e4b9942c23dee55c2b90016e|6]], [[#^s-b91b843220aa4cc68651d9a6|57]], 58-2 straipsnių ir priedo pakeitimo įstatymas

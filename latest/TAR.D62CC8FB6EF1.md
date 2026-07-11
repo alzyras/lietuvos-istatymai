@@ -26,7 +26,7 @@ rysiai: "[[Ryšiai/TAR.D62CC8FB6EF1]]"
 
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
-DĖL LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL LIETUVOS VALSTYBĖS HERBO“ PAKEITIMO
+DĖL LIETUVOS RESPUBLIKOS ĮSTATYMO [„DĖL LIETUVOS VALSTYBĖS HERBO“](https://e-tar.lt/portal/lt/legalAct/TAR.10BB96A1E015) PAKEITIMO
 
 1991 m. rugsėjo 4 d. Nr. I-1751
 Vilnius
@@ -36,7 +36,7 @@ Vilnius
 Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
 
-Lietuvos Respublikos įstatymo „Dėl Lietuvos valstybės herbo“ 1 straipsnį išdėstyti taip:
+Lietuvos Respublikos įstatymo [„Dėl Lietuvos valstybės herbo“](https://e-tar.lt/portal/lt/legalAct/TAR.10BB96A1E015) 1 straipsnį išdėstyti taip:
 
 
 „1 straipsnis.

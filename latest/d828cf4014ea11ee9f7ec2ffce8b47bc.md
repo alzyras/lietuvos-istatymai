@@ -43,25 +43,25 @@ Vilnius
 ### 1 straipsnis. 3 straipsnio pakeitimas ^s-767ebb91a843d0c1f35f8f0e
 
 
-1. Pakeisti 3 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip: ^s-1760b1813ddafb989d31fb3b
+1. Pakeisti [[latest/0457ba8067e611eca9ac839120d251c4#^s-1ae503ce36e918d741a5ae99|3 straipsnio 2 dalies 1 punktą]] ir jį išdėstyti taip: ^s-1760b1813ddafb989d31fb3b
 
 
 „1) prašomus pateikti sveikatos duomenis (jų apimtis, kiekybinius ir kokybinius kriterijus) ir jų atitikties prašyme nurodytam pakartotinio sveikatos duomenų naudojimo tikslui pagrindimą;“.
 
 
-2. Papildyti 3 straipsnio 8 dalį 8 punktu: ^s-98a8be5db78ee1722b93476e
+2. Papildyti [[latest/0457ba8067e611eca9ac839120d251c4#^s-e77ae78721e2e35e24076681|3 straipsnio 8 dalį 8 punktu]]: ^s-98a8be5db78ee1722b93476e
 
 
 „8) pareiškėjo prašomi sveikatos duomenys (jų apimtys, kiekybiniai ir kokybiniai kriterijai) neatitinka prašyme išduoti leidimą nurodyto sveikatos duomenų pakartotinio naudojimo tikslo.“
 
 
-3. Papildyti 3 straipsnio 10 dalį 6 punktu: ^s-b19abca21b62a419261f6839
+3. Papildyti [[latest/0457ba8067e611eca9ac839120d251c4#^s-e2f1ea4dfc83b8ee4d1d780b|3 straipsnio 10 dalį 6 punktu]]: ^s-b19abca21b62a419261f6839
 
 
 „6) pareiškėjo prašomi sveikatos duomenys (jų apimtys, kiekybiniai ir kokybiniai kriterijai) neatitinka prašyme tikslinti leidimą nurodyto sveikatos duomenų pakartotinio naudojimo tikslo.“
 
 
-4. Papildyti 3 straipsnį 15 dalimi: ^s-8d22f371f2a8dd9733b234b5
+4. Papildyti [[latest/0457ba8067e611eca9ac839120d251c4#^s-030a252591a25359d909ab6f|3 straipsnį 15 dalimi]]: ^s-8d22f371f2a8dd9733b234b5
 
 
 „15. Sveikatos duomenų atitikties pakartotinio sveikatos duomenų naudojimo tikslui vertinimo kriterijus nustato Vyriausybės įgaliota institucija.“
@@ -71,23 +71,23 @@ Vilnius
 ### 2 straipsnis. 4 straipsnio pakeitimas ^s-2ed47495d04659629cf74fc1
 
 
-1. Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip: ^s-66b7e10595872ed12cf33447
+1. Pakeisti [[latest/0457ba8067e611eca9ac839120d251c4#^s-d96b8984de6915ce22675272|4 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-66b7e10595872ed12cf33447
 
 
-„1. Jeigu Vyriausybės įgaliota institucija Leidimų išdavimo tvarkos apraše nustatyta tvarka nustato, kad leidimo turėtojas Vyriausybės nustatyta tvarka nesumokėjo šio įstatymo 7 straipsnio 4 dalyje nurodyto atlyginimo arba nesilaiko leidimo sąlygų ir (arba) nesilaiko kitų šiame įstatyme nustatytų pakartotinio sveikatos duomenų naudojimo sąlygų ir tvarkos, ir (arba) jo sveikatos duomenų pakartotinio naudojimo aplinka neatitinka šio įstatymo 7 straipsnio 7 dalyje nustatytų reikalavimų, ji nedelsdama, ne vėliau kaip per 2 darbo dienas nuo šioje dalyje nurodytų aplinkybių paaiškėjimo dienos, priima sprendimą sustabdyti leidimo galiojimą 3 mėnesiams.“
+„1. Jeigu Vyriausybės įgaliota institucija Leidimų išdavimo tvarkos apraše nustatyta tvarka nustato, kad leidimo turėtojas Vyriausybės nustatyta tvarka nesumokėjo šio įstatymo [[latest/0457ba8067e611eca9ac839120d251c4#^s-eae391e19498f857600cd617|7 straipsnio 4 dalyje]] nurodyto atlyginimo arba nesilaiko leidimo sąlygų ir (arba) nesilaiko kitų šiame įstatyme nustatytų pakartotinio sveikatos duomenų naudojimo sąlygų ir tvarkos, ir (arba) jo sveikatos duomenų pakartotinio naudojimo aplinka neatitinka šio įstatymo [[latest/0457ba8067e611eca9ac839120d251c4#^s-305907c3a353ce6fe43bfbb3|7 straipsnio 7 dalyje]] nustatytų reikalavimų, ji nedelsdama, ne vėliau kaip per 2 darbo dienas nuo šioje dalyje nurodytų aplinkybių paaiškėjimo dienos, priima sprendimą sustabdyti leidimo galiojimą 3 mėnesiams.“
 
 
-2. Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip: ^s-df47ac2cbb314a3dbe6ff6ac
+2. Pakeisti [[latest/0457ba8067e611eca9ac839120d251c4#^s-1ffb300a0666f6b279bdce49|4 straipsnio 4 dalį]] ir ją išdėstyti taip: ^s-df47ac2cbb314a3dbe6ff6ac
 
 
-„4. Leidimo galiojimo sustabdymo laikotarpiu, išskyrus atvejus, kai jis sustabdytas dėl to, kad leidimo turėtojas Vyriausybės nustatyta tvarka nesumokėjo šio įstatymo 7 straipsnio 4 dalyje nurodyto atlyginimo, panaikinama leidimo turėtojo prieiga prie sveikatos duomenų Valstybės sveikatos duomenų pakartotinio naudojimo platformoje, o jeigu sveikatos duomenys naudojami ne Valstybės sveikatos duomenų pakartotinio naudojimo platformoje, o kitoje sveikatos duomenų pakartotinio naudojimo aplinkoje, leidimo turėtojas šių sveikatos duomenų nebegali naudoti ir turi juos sunaikinti ne vėliau kaip per vieną darbo dieną nuo sprendimo sustabdyti leidimo galiojimą gavimo dienos. Kai leidimo galiojimas sustabdytas dėl to, kad leidimo turėtojas Vyriausybės nustatyta tvarka nesumokėjo šio įstatymo 7 straipsnio 4 dalyje nurodyto atlyginimo, Vyriausybės įgaliota institucija sveikatos duomenų ir (arba) jų rinkinių leidimo turėtojui neteikia.“
+„4. Leidimo galiojimo sustabdymo laikotarpiu, išskyrus atvejus, kai jis sustabdytas dėl to, kad leidimo turėtojas Vyriausybės nustatyta tvarka nesumokėjo šio įstatymo [[latest/0457ba8067e611eca9ac839120d251c4#^s-eae391e19498f857600cd617|7 straipsnio 4 dalyje]] nurodyto atlyginimo, panaikinama leidimo turėtojo prieiga prie sveikatos duomenų Valstybės sveikatos duomenų pakartotinio naudojimo platformoje, o jeigu sveikatos duomenys naudojami ne Valstybės sveikatos duomenų pakartotinio naudojimo platformoje, o kitoje sveikatos duomenų pakartotinio naudojimo aplinkoje, leidimo turėtojas šių sveikatos duomenų nebegali naudoti ir turi juos sunaikinti ne vėliau kaip per vieną darbo dieną nuo sprendimo sustabdyti leidimo galiojimą gavimo dienos. Kai leidimo galiojimas sustabdytas dėl to, kad leidimo turėtojas Vyriausybės nustatyta tvarka nesumokėjo šio įstatymo [[latest/0457ba8067e611eca9ac839120d251c4#^s-eae391e19498f857600cd617|7 straipsnio 4 dalyje]] nurodyto atlyginimo, Vyriausybės įgaliota institucija sveikatos duomenų ir (arba) jų rinkinių leidimo turėtojui neteikia.“
 
 
 
 ### 3 straipsnis. 7 straipsnio pakeitimas ^s-b11e87399b7dc48c189382b2
 
 
-Pakeisti 7 straipsnio 4 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/0457ba8067e611eca9ac839120d251c4#^s-eae391e19498f857600cd617|7 straipsnio 4 dalį]] ir ją išdėstyti taip:
 
 
 „4. Už sveikatos duomenų atranką, surinkimą, apdorojimą, sujungimą, nuasmeninimą, pseudoniminimą ir naudojimąsi Valstybės sveikatos duomenų pakartotinio naudojimo platforma leidimo turėtojas moka atlyginimą, kurio dydį nustato Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka. Šioje dalyje nurodytas atlyginimas sumokamas Vyriausybės nustatyta tvarka.“
@@ -107,13 +107,13 @@ Pakeisti IV skyriaus pavadinimą ir jį išdėstyti taip:
 ### 5 straipsnis. 12 straipsnio pakeitimas ^s-5293c3e812448dcf2f6714da
 
 
-Pakeisti 12 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/0457ba8067e611eca9ac839120d251c4#^s-e2518c2854bd784485396fe5|12 straipsnį]] ir jį išdėstyti taip:
 
 
-„12 straipsnis. Reikalavimai dėl duomenų subjekto sutikimo
+„[[latest/0457ba8067e611eca9ac839120d251c4#^s-e2518c2854bd784485396fe5|12 straipsnis]]. Reikalavimai dėl duomenų subjekto sutikimo
 
 
-Jeigu sveikatos duomenys, dėl kurių pakartotinio naudojimo pateiktas prašymas, buvo surinkti turint duomenų subjekto sutikimą pakartotinai naudoti sveikatos duomenis, atitinkantį Reglamento (ES) 2016/679 reikalavimus, arba sutikimą dalyvauti biobanko veikloje [[latest/TAR.234B15954C2F|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo]] nustatyta tvarka, leidimas išduodamas tik tiems sveikatos duomenims, dėl kurių turimas duomenų subjekto sutikimas, pakartotinai naudoti ir tik sutikime nurodytam laikotarpiui. Leidimas pakartotinai naudoti sveikatos duomenis, kurie buvo surinkti sveikatos priežiūros tikslais, gali būti išduodamas neturint duomenų subjekto sutikimo pakartotinai naudoti šiuos sveikatos duomenis. Leidimas pakartotinai naudoti sveikatos duomenis, kurie buvo surinkti kitais tikslais, biomedicininio tyrimo užsakovui, jo įgaliotam atstovui ir pagrindiniam tyrėjui, vykdantiems biomedicininį tyrimą [[latest/TAR.234B15954C2F|Biomedicininių tyrimų etikos įstatyme]] nustatyta tvarka, gali būti išduodamas neturint duomenų subjekto sutikimo pakartotinai naudoti šiuos sveikatos duomenis.“
+Jeigu sveikatos duomenys, dėl kurių pakartotinio naudojimo pateiktas prašymas, buvo surinkti turint duomenų subjekto sutikimą pakartotinai naudoti sveikatos duomenis, atitinkantį [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) reikalavimus, arba sutikimą dalyvauti biobanko veikloje [[latest/TAR.234B15954C2F|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo]] nustatyta tvarka, leidimas išduodamas tik tiems sveikatos duomenims, dėl kurių turimas duomenų subjekto sutikimas, pakartotinai naudoti ir tik sutikime nurodytam laikotarpiui. Leidimas pakartotinai naudoti sveikatos duomenis, kurie buvo surinkti sveikatos priežiūros tikslais, gali būti išduodamas neturint duomenų subjekto sutikimo pakartotinai naudoti šiuos sveikatos duomenis. Leidimas pakartotinai naudoti sveikatos duomenis, kurie buvo surinkti kitais tikslais, biomedicininio tyrimo užsakovui, jo įgaliotam atstovui ir pagrindiniam tyrėjui, vykdantiems biomedicininį tyrimą [[latest/TAR.234B15954C2F|Biomedicininių tyrimų etikos įstatyme]] nustatyta tvarka, gali būti išduodamas neturint duomenų subjekto sutikimo pakartotinai naudoti šiuos sveikatos duomenis.“
 
 
 

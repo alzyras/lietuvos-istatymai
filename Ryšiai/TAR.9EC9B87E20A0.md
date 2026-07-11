@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C0FF21832A85#^s-0e00f3e8bf131a1044b52278|Lietuvos Respublikos labdaros ir paramos įstatymas]] - 3 citatos - 0981010ISTAVIII-627
+- [[latest/TAR.C0FF21832A85#^s-0e00f3e8bf131a1044b52278|Lietuvos Respublikos labdaros ir paramos įstatymas]] - 2 citatos - 0981010ISTAVIII-627

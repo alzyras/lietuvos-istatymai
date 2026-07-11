@@ -106,7 +106,7 @@ Papildyti 10 straipsnio 1 dalies 3 punktą „f“ papunkčiu:
 ### 5 straipsnis. 11 straipsnio papildymas ir pakeitimas ^s-2b00c0527436ba04c07c5dd4
 
 
-Papildyti 11 straipsnio 1 dalį nauju [[#^s-d455f3045260dd0cceef0453|1 punktu]], buvusius 1, 2, 3, [[#^s-b2e6b6f24e4e31f8506c3124|4 punktus]] laikyti atitinkamai 2, 3, 4, [[#^s-3f5a420fe4c22e0ff76d2837|5 punktais]], [[#^s-b59a35fd0a21ec9fbfa4f240|2 punkte]] prieš žodį „metus“ įrašyti  skaičių „1998“, 4 ir [[#^s-3f5a420fe4c22e0ff76d2837|5 punktuose]] po žodžio „straipsnio“ įrašyti skaičių „1“ ir visą straipsnį išdėstyti taip:
+Papildyti 11 straipsnio 1 dalį nauju [[#^s-d455f3045260dd0cceef0453|1 punktu]], buvusius 1, 2, 3, 4 punktus laikyti atitinkamai 2, 3, 4, 5 punktais, [[#^s-b59a35fd0a21ec9fbfa4f240|2 punkte]] prieš žodį „metus“ įrašyti  skaičių „1998“, [[#^s-b2e6b6f24e4e31f8506c3124|4]] ir [[#^s-3f5a420fe4c22e0ff76d2837|5]] punktuose po žodžio „straipsnio“ įrašyti skaičių „1“ ir visą straipsnį išdėstyti taip:
 
 
 „11 straipsnis.     Savivaldybių biudžetų ir valstybės biudžeto mokestinių pajamų išlyginimo rezervo naudojimas
@@ -124,10 +124,10 @@ Nustatyti šią savivaldybių biudžetų ir valstybės biudžeto mokestinių paj
 3) 1998 metų antrame pusmetyje rezervo lėšomis padengiamos savivaldybių biudžetų 1998 metais negautos planuotos mokestinės pajamos (pagal mokestinių pajamų plano įvykdymo duomenis); ^s-44d85c47379ba09ea7f857a7
 
 
-4) iš nepanaudotų pagal šio straipsnio 1 ir  [[#^s-44d85c47379ba09ea7f857a7|3 punktus]] rezervo lėšų padengiamos valstybės biudžeto 1998 metais negautos planuotos mokestinės pajamos (pagal mokestinių pajamų plano įvykdymo duomenis); ^s-b2e6b6f24e4e31f8506c3124
+4) iš nepanaudotų pagal šio straipsnio [[#^s-d455f3045260dd0cceef0453|1]] ir  [[#^s-44d85c47379ba09ea7f857a7|3]] punktus rezervo lėšų padengiamos valstybės biudžeto 1998 metais negautos planuotos mokestinės pajamos (pagal mokestinių pajamų plano įvykdymo duomenis); ^s-b2e6b6f24e4e31f8506c3124
 
 
-5) nepanaudotas pagal šio straipsnio 1, 3 ir [[#^s-b2e6b6f24e4e31f8506c3124|4 punktus]] mokestinių pajamų išlyginimo rezervo likutis paskirstomas taip: ^s-3f5a420fe4c22e0ff76d2837
+5) nepanaudotas pagal šio straipsnio [[#^s-d455f3045260dd0cceef0453|1]], [[#^s-44d85c47379ba09ea7f857a7|3]] ir [[#^s-b2e6b6f24e4e31f8506c3124|4]] punktus mokestinių pajamų išlyginimo rezervo likutis paskirstomas taip: ^s-3f5a420fe4c22e0ff76d2837
 
 
 a) savivaldybių butų fondui kaupti – ne daugiau kaip 10 mln. litų;

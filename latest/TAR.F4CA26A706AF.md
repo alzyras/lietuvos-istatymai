@@ -124,7 +124,7 @@ Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
 
 
 
-19. Personalo patikimumo užtikrinimas – darbo ar susipažinimo su įslaptinta informacija sąlygų nustatymas ir asmenų, kurie pretenduoja gauti leidimus dirbti ar susipažinti su įslaptinta informacija arba teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, tikrinimo procedūros, kurias atlikus priimamas sprendimas, ar asmeniui galima patikėti įslaptintą informaciją, taip pat šių asmenų kontrolė (priežiūra) ir periodiškas instruktavimas apie įslaptintos informacijos apsaugos reikalavimus ir supažindinimas su atsakomybe už tokių reikalavimų pažeidimą. ^s-2cbdbda2028394babe9c6f27
+19. Personalo patikimumo užtikrinimas – darbo ar susipažinimo su įslaptinta informacija sąlygų nustatymas ir asmenų, kurie pretenduoja gauti leidimus dirbti ar susipažinti su įslaptinta informacija arba teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), tikrinimo procedūros, kurias atlikus priimamas sprendimas, ar asmeniui galima patikėti įslaptintą informaciją, taip pat šių asmenų kontrolė (priežiūra) ir periodiškas instruktavimas apie įslaptintos informacijos apsaugos reikalavimus ir supažindinimas su atsakomybe už tokių reikalavimų pažeidimą. ^s-2cbdbda2028394babe9c6f27
 
 
 20. Saugumo zona – saugoma teritorija ar patalpa, skirta dirbti su įslaptinta informacija ir šiai informacijai laikyti. ^s-2b008d32d287012c064d363d
@@ -180,7 +180,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 5. Visais įslaptintos informacijos administravimo etapais turi būti užtikrinta reikiama informacijos apsauga visą jos įslaptinimo terminą. ^s-211e2f7de2725388f69b347b
 
 
-6. Įslaptinta informacija turi būti patikima griežtai laikantis principo „Būtina žinoti“. Principas „Būtina žinoti“ reiškia, kad įslaptinta informacija, žymima slaptumo žymomis „Visiškai slaptai“, „Slaptai“, „Konfidencialiai“, užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų Lietuvos Respublikai perduota įslaptinta informacija, žymima slaptumo žymų „Visiškai slaptai“, „Slaptai“ arba „Konfidencialiai“ atitikmenimis, gali būti patikėta tik asmenims, turintiems atitinkamus leidimus dirbti ar susipažinti su įslaptinta informacija, kuriems vykdant tarnybines pareigas reikia susipažinti ir dirbti su šia informacija, o įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų Lietuvos Respublikai perduota įslaptinta informacija, žymima slaptumo žymos „Riboto naudojimo“ atitikmeniu, gali būti patikėta tik asmenims, turintiems teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, arba leidimą dirbti ar susipažinti su įslaptinta informacija, kuriems vykdant tarnybines pareigas reikia susipažinti ir dirbti su šia informacija. ^s-b405b449d9e6e565baaf1f5f
+6. Įslaptinta informacija turi būti patikima griežtai laikantis principo „Būtina žinoti“. Principas „Būtina žinoti“ reiškia, kad įslaptinta informacija, žymima slaptumo žymomis „Visiškai slaptai“, „Slaptai“, „Konfidencialiai“, užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų Lietuvos Respublikai perduota įslaptinta informacija, žymima slaptumo žymų „Visiškai slaptai“, „Slaptai“ arba „Konfidencialiai“ atitikmenimis, gali būti patikėta tik asmenims, turintiems atitinkamus leidimus dirbti ar susipažinti su įslaptinta informacija, kuriems vykdant tarnybines pareigas reikia susipažinti ir dirbti su šia informacija, o įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų Lietuvos Respublikai perduota įslaptinta informacija, žymima slaptumo žymos [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) atitikmeniu, gali būti patikėta tik asmenims, turintiems teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), arba leidimą dirbti ar susipažinti su įslaptinta informacija, kuriems vykdant tarnybines pareigas reikia susipažinti ir dirbti su šia informacija. ^s-b405b449d9e6e565baaf1f5f
 
 
 7. Įslaptintos informacijos apsaugai užtikrinti turi būti kompleksiškai taikomi visų įslaptintos informacijos apsaugos sričių (personalo patikimumo užtikrinimo, įslaptintos informacijos administravimo, įslaptintos informacijos fizinės apsaugos, įslaptintų sandorių saugumo, ĮIRIS apsaugos) reikalavimai. ^s-40ce1fa73882e81722986241
@@ -202,7 +202,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 4. Tarnybos paslaptį sudaranti informacija užsienio valstybėms, Europos Sąjungai ar tarptautinėms organizacijoms perduodama paslapčių subjekto vadovo ar jo įgalioto asmens sprendimu, kai tai būtina paslapčių subjekto funkcijoms atlikti. ^s-7d9a0fce3be917bef20c6187
 
 
-5. Nacionaliniam saugumui užtikrinti svarbioms įmonėms, aviacijos saugumo srityje veikiantiems subjektams, kuriems atliekant įstatymuose ar kituose norminiuose teisės aktuose nustatytas funkcijas būtina susipažinti su įslaptinta informacija, tokią informaciją naudoti, įslaptinta informacija perduodama nesudarant įslaptinto sandorio, tačiau šio įstatymo septintajame skirsnyje nustatyta tvarka įvertinus jų patikimumą ir išdavus tiekėjo patikimumo pažymėjimą ar įvertinus jų atitiktį įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimams. Šioje dalyje nurodytiems subjektams taikomi šio įstatymo [[#^s-122132bb6d8cc0d936036b40|33 straipsnio 9 dalies]] 1, 2, 3, 4, 7, 8 ir 9 punktuose nustatyti reikalavimai. ^s-b428000efc584016d7b1888d
+5. Nacionaliniam saugumui užtikrinti svarbioms įmonėms, aviacijos saugumo srityje veikiantiems subjektams, kuriems atliekant įstatymuose ar kituose norminiuose teisės aktuose nustatytas funkcijas būtina susipažinti su įslaptinta informacija, tokią informaciją naudoti, įslaptinta informacija perduodama nesudarant įslaptinto sandorio, tačiau šio įstatymo septintajame skirsnyje nustatyta tvarka įvertinus jų patikimumą ir išdavus tiekėjo patikimumo pažymėjimą ar įvertinus jų atitiktį įslaptintos informacijos, žymimos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), apsaugos reikalavimams. Šioje dalyje nurodytiems subjektams taikomi šio įstatymo [[#^s-122132bb6d8cc0d936036b40|33 straipsnio 9 dalies]] [[#^s-c65ab97b08fc3594620a80de|1]], [[#^s-0122eedca193dfee51181023|2]], [[#^s-02c34ddc4bfed5e545daebac|3]], [[#^s-5ebe142e757a6c9c8b6409d1|4]], [[#^s-c9e35714d7e09a453c2eacf6|7]], [[#^s-1ec0fab17397bf81baaa9183|8]] ir [[#^s-1e0f8434aaa29dd5fad1c730|9]] punktuose nustatyti reikalavimai. ^s-b428000efc584016d7b1888d
 Straipsnio dalies pakeitimai:
 Nr. XIII-1013, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01026
 Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
@@ -219,7 +219,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 ### 5 straipsnis. Įslaptintos informacijos skirstymas ir žymėjimas ^s-a18f0b3284781bac98fc7a36
 
 
-1. Įslaptinta informacija pagal svarbą, galimos žalos, kurią patirtų valstybė, jos institucijos ar asmenys, jeigu ši informacija būtų prarasta arba atskleista neturintiems teisės ją sužinoti asmenims, dydį ir pagal apsaugos, būtinos tokiai informacijai apsaugoti, lygį yra skirstoma į visiškai slaptą, slaptą, konfidencialią ir riboto naudojimo informaciją. ^s-9ddeff0883ede5f45317f308
+1. Įslaptinta informacija pagal svarbą, galimos žalos, kurią patirtų valstybė, jos institucijos ar asmenys, jeigu ši informacija būtų prarasta arba atskleista neturintiems teisės ją sužinoti asmenims, dydį ir pagal apsaugos, būtinos tokiai informacijai apsaugoti, lygį yra skirstoma į visiškai slaptą, slaptą, konfidencialią ir [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) informaciją. ^s-9ddeff0883ede5f45317f308
 
 
 2. Slaptumo žyma „Visiškai slaptai“ suteikiama valstybės paslaptį sudarančiai informacijai, kurios praradimas arba neteisėtas atskleidimas gali sukelti grėsmę Lietuvos Respublikos suverenitetui ar teritorijos vientisumui arba turėti ypač sunkių pasekmių valstybės interesams, arba sukelti pavojų žmogaus gyvybei. ^s-b9d26f5b95487d12f316f409
@@ -231,7 +231,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 4. Slaptumo žyma „Konfidencialiai“ suteikiama tarnybos paslaptį sudarančiai informacijai, kurios praradimas arba neteisėtas atskleidimas gali turėti ypač sunkių pasekmių valstybės institucijų interesams ar sudaryti prielaidas kilti pavojui žmogaus sveikatai. ^s-206140bd1cc9a3a3acf435a6
 
 
-5. Slaptumo žyma „Riboto naudojimo“ suteikiama tarnybos paslaptį sudarančiai informacijai, kurios praradimas arba neteisėtas atskleidimas gali padaryti žalos valstybės institucijų interesams. ^s-6be3585a237c84474c77cb26
+5. Slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) suteikiama tarnybos paslaptį sudarančiai informacijai, kurios praradimas arba neteisėtas atskleidimas gali padaryti žalos valstybės institucijų interesams. ^s-6be3585a237c84474c77cb26
 
 
 6. Slaptumo žymos nuo aukščiausios iki žemiausios yra šios: ^s-e75f3a81a518ea5b76c85ff6
@@ -246,7 +246,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 3) „Konfidencialiai“; ^s-0302378ed363bcc94919a19b
 
 
-4) „Riboto naudojimo“. ^s-738045f741d1dbc5c4732634
+4) [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7). ^s-738045f741d1dbc5c4732634
 
 
 7. Draudžiama šiame straipsnyje nustatytas informacijos slaptumo žymas suteikti šio įstatymo nereglamentuojamai informacijai. ^s-98ffaf15af984e5abb04cbbf
@@ -496,7 +496,7 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 3) informacija, žymima slaptumo žyma „Konfidencialiai“, – 10 metų; ^s-285a54522993f1c096742fc8
 
 
-4) informacija, žymima slaptumo žyma „Riboto naudojimo“, – 5 metai. ^s-aac51caf8b0dbedf77f093c6
+4) informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), – 5 metai. ^s-aac51caf8b0dbedf77f093c6
 
 
 2. Įslaptinta informacija, kurios atskleidimas gali sukelti pavojų žmogaus gyvybei ar sveikatai arba sudaryti prielaidas kilti pavojui žmogaus gyvybei, įslaptinama 75 metams. ^s-eedcce61d90ea51368874e9f
@@ -511,7 +511,7 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 
 
 
-5. Tais atvejais, kai informacijos įslaptinimo terminas turi būti ilgesnis, negu nurodyta [[#^s-1071a53814ce0c6f2d30489a|šio straipsnio 1 dalyje]], šį klausimą sprendžia ir įslaptinimo terminą pratęsia įslaptintą informaciją parengusio paslapčių subjekto vadovas ar jo įgaliotas asmuo. Informacijos, žymimos slaptumo žymomis „Visiškai slaptai“ ir „Slaptai“, įslaptinimo terminas gali būti pratęsiamas iki 10 metų, o informacijos, žymimos slaptumo žymomis „Konfidencialiai“ ir „Riboto naudojimo“, – iki 5 metų. Pratęsimų skaičius neribojamas. ^s-19ab1c0766f8a299af906868
+5. Tais atvejais, kai informacijos įslaptinimo terminas turi būti ilgesnis, negu nurodyta [[#^s-1071a53814ce0c6f2d30489a|šio straipsnio 1 dalyje]], šį klausimą sprendžia ir įslaptinimo terminą pratęsia įslaptintą informaciją parengusio paslapčių subjekto vadovas ar jo įgaliotas asmuo. Informacijos, žymimos slaptumo žymomis „Visiškai slaptai“ ir „Slaptai“, įslaptinimo terminas gali būti pratęsiamas iki 10 metų, o informacijos, žymimos slaptumo žymomis „Konfidencialiai“ ir [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), – iki 5 metų. Pratęsimų skaičius neribojamas. ^s-19ab1c0766f8a299af906868
 Straipsnio dalies pakeitimai:
 Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 
@@ -545,7 +545,7 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 3. Pasibaigus nustatytam įslaptinimo terminui, informacija, žymima slaptumo žymomis „Visiškai slaptai“, „Slaptai“ ir „Konfidencialiai“, išslaptinama įslaptintos informacijos rengėjo sprendimu. Sprendimas išslaptinti informaciją turi būti priimtas ne vėliau kaip atliekant artimiausią įslaptintos informacijos inventorizaciją. ^s-a07de50eb973d0d6fda675ff
 
 
-4. Pasibaigus nustatytam įslaptinimo terminui, informacija, žymima slaptumo žyma „Riboto naudojimo“, laikoma išslaptinta nepriimant atskiro sprendimo, jeigu informacija neturi papildomos nuorodos „IPSS“ (išslaptinama paslapčių subjekto sprendimu) ir įslaptintos informacijos rengėjas nepranešė apie informacijos įslaptinimo termino pratęsimą. ^s-e57755a3379a9fc8ec485669
+4. Pasibaigus nustatytam įslaptinimo terminui, informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), laikoma išslaptinta nepriimant atskiro sprendimo, jeigu informacija neturi papildomos nuorodos „IPSS“ (išslaptinama paslapčių subjekto sprendimu) ir įslaptintos informacijos rengėjas nepranešė apie informacijos įslaptinimo termino pratęsimą. ^s-e57755a3379a9fc8ec485669
 
 
 
@@ -566,7 +566,7 @@ Vyriausybė atlieka šias funkcijas:
 2) nustato Saugumo priežiūros tarnybos, Nacionalinės komunikacijų apsaugos tarnybos, Nacionalinės šifrų paskirstymo tarnybos, apsaugos nuo elektromagnetinės spinduliuotės tarnybų kompetenciją ir funkcijas užtikrinant Lietuvos Respublikos įslaptintos informacijos, užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų Lietuvos Respublikai perduotos įslaptintos informacijos apsaugą; ^s-9a4917d8f2a79ea354364b69
 
 
-3) nustato asmenų, pretenduojančių gauti leidimą dirbti ar susipažinti su įslaptinta informacija, tikrinimo ir asmenų, turinčių leidimą dirbti ar susipažinti su įslaptinta informacija, pakartotinio, papildomo bei šio įstatymo [[#^s-bdf43ab284c5c52fc0fba0fe|17 straipsnio 81 dalyje]] nurodyto tikrinimo ar teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo tvarką; ^s-06d89b8b074f02d8bed1d7f6
+3) nustato asmenų, pretenduojančių gauti leidimą dirbti ar susipažinti su įslaptinta informacija, tikrinimo ir asmenų, turinčių leidimą dirbti ar susipažinti su įslaptinta informacija, pakartotinio, papildomo bei šio įstatymo [[#^s-bdf43ab284c5c52fc0fba0fe|17 straipsnio 81 dalyje]] nurodyto tikrinimo ar teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), suteikimo tvarką; ^s-06d89b8b074f02d8bed1d7f6
 Straipsnio punkto pakeitimai:
 Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 
@@ -727,13 +727,13 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 
 
 
-4. Paslapčių subjektai sudaro pareigybių, kurias užimantys asmenys turi turėti leidimą dirbti ar susipažinti su įslaptinta informacija ar turėti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, sąrašą. Jame nurodomas paslapčių subjekto, paslapčių subjektui pavaldžios ar jo reguliavimo sričiai priskirtos įstaigos, įmonės, taip pat jos padalinio, kurio struktūroje yra pareigybė, pavadinimas, pareigybės pavadinimas ir aukščiausia įslaptintos informacijos, su kuria asmenys, einantys sąraše nurodytas pareigas, gali dirbti ar susipažinti, slaptumo žyma. ^s-702410c74dabdbbb5739797f
+4. Paslapčių subjektai sudaro pareigybių, kurias užimantys asmenys turi turėti leidimą dirbti ar susipažinti su įslaptinta informacija ar turėti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), sąrašą. Jame nurodomas paslapčių subjekto, paslapčių subjektui pavaldžios ar jo reguliavimo sričiai priskirtos įstaigos, įmonės, taip pat jos padalinio, kurio struktūroje yra pareigybė, pavadinimas, pareigybės pavadinimas ir aukščiausia įslaptintos informacijos, su kuria asmenys, einantys sąraše nurodytas pareigas, gali dirbti ar susipažinti, slaptumo žyma. ^s-702410c74dabdbbb5739797f
 Straipsnio dalies pakeitimai:
 Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 
 
 
-5. Paslapčių subjektuose, paslapčių subjektui pavaldžiose ar jo reguliavimo sričiai priskirtose įstaigose, įmonėse, disponuojančiose Lietuvos Respublikos, užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų įslaptinta informacija, turi būti sudarytas sąrašas asmenų, kuriems yra išduoti leidimai dirbti ar susipažinti su įslaptinta informacija ar suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“. Šiame sąraše turi būti nurodoma aukščiausia įslaptintos informacijos, su kuria asmeniui yra leidžiama dirbti ar susipažinti, slaptumo žyma, leidimo dirbti ar susipažinti su įslaptinta informacija registracijos numeris, išdavimo data ir galiojimo terminas arba sprendimo suteikti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, data ir numeris. ^s-38ea88b14eb6c1b840c3b9f2
+5. Paslapčių subjektuose, paslapčių subjektui pavaldžiose ar jo reguliavimo sričiai priskirtose įstaigose, įmonėse, disponuojančiose Lietuvos Respublikos, užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų įslaptinta informacija, turi būti sudarytas sąrašas asmenų, kuriems yra išduoti leidimai dirbti ar susipažinti su įslaptinta informacija ar suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7). Šiame sąraše turi būti nurodoma aukščiausia įslaptintos informacijos, su kuria asmeniui yra leidžiama dirbti ar susipažinti, slaptumo žyma, leidimo dirbti ar susipažinti su įslaptinta informacija registracijos numeris, išdavimo data ir galiojimo terminas arba sprendimo suteikti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), data ir numeris. ^s-38ea88b14eb6c1b840c3b9f2
 Straipsnio dalies pakeitimai:
 Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 
@@ -753,10 +753,10 @@ Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 1. Krašto apsaugos ministras įtraukia Lietuvos šaulių sąjungą į pagal šio įstatymo [[#^s-dcd534007af7a35a8c45ffc2|13 straipsnio 3 dalį]] savo tvirtinamą Lietuvos Respublikos krašto apsaugos ministerijai pavaldžių ar jos reguliavimo sričiai priskirtų įstaigų, įmonių, kuriose dirbama su įslaptinta informacija ar saugoma įslaptinta informacija, sąrašą. ^s-3860a21b1049defd82e3de60
 
 
-2. Už bendrą įslaptintos informacijos, kuria disponuoja Lietuvos šaulių sąjunga, apsaugos organizavimą ir būklę atsako krašto apsaugos ministras, o už įslaptintos informacijos apsaugos reikalavimų vykdymą – Lietuvos šaulių sąjungos vadas. Krašto apsaugos ministro ar jo įgalioto asmens sprendimu paskiriamas už įslaptintos informacijos apsaugą Lietuvos šaulių sąjungoje atsakingas asmuo. Krašto apsaugos ministras ar jo įgaliotas asmuo sudaro Lietuvos šaulių sąjungos pareigybių, kurias užimantys asmenys turi turėti leidimą dirbti ar susipažinti su įslaptinta informacija ar turėti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, sąrašą. Jame nurodomas padalinio, kurio struktūroje yra pareigybė, pavadinimas, pareigybės pavadinimas ir aukščiausia įslaptintos informacijos, su kuria asmenys, einantys sąraše nurodytas pareigas, gali dirbti ar susipažinti, slaptumo žyma. Už patikėtos įslaptintos informacijos praradimą ar neteisėtą atskleidimą atsako šaulys, kuriam tokia informacija patikėta. ^s-0cbe4a03c2fd8a7f5587c0e9
+2. Už bendrą įslaptintos informacijos, kuria disponuoja Lietuvos šaulių sąjunga, apsaugos organizavimą ir būklę atsako krašto apsaugos ministras, o už įslaptintos informacijos apsaugos reikalavimų vykdymą – Lietuvos šaulių sąjungos vadas. Krašto apsaugos ministro ar jo įgalioto asmens sprendimu paskiriamas už įslaptintos informacijos apsaugą Lietuvos šaulių sąjungoje atsakingas asmuo. Krašto apsaugos ministras ar jo įgaliotas asmuo sudaro Lietuvos šaulių sąjungos pareigybių, kurias užimantys asmenys turi turėti leidimą dirbti ar susipažinti su įslaptinta informacija ar turėti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), sąrašą. Jame nurodomas padalinio, kurio struktūroje yra pareigybė, pavadinimas, pareigybės pavadinimas ir aukščiausia įslaptintos informacijos, su kuria asmenys, einantys sąraše nurodytas pareigas, gali dirbti ar susipažinti, slaptumo žyma. Už patikėtos įslaptintos informacijos praradimą ar neteisėtą atskleidimą atsako šaulys, kuriam tokia informacija patikėta. ^s-0cbe4a03c2fd8a7f5587c0e9
 
 
-3. Krašto apsaugos ministras ar jo įgaliotas asmuo sudaro sąrašą Lietuvos šaulių sąjungos narių, kuriems yra išduoti leidimai dirbti ar susipažinti su įslaptinta informacija ar suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“. Šiame sąraše turi būti nurodoma aukščiausia įslaptintos informacijos, su kuria asmeniui leidžiama dirbti ar susipažinti, slaptumo žyma, leidimo dirbti ar susipažinti su įslaptinta informacija registracijos numeris, išdavimo data ir galiojimo terminas arba sprendimo suteikti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, data ir numeris. ^s-876eeea294c59ec2fc2b0de1
+3. Krašto apsaugos ministras ar jo įgaliotas asmuo sudaro sąrašą Lietuvos šaulių sąjungos narių, kuriems yra išduoti leidimai dirbti ar susipažinti su įslaptinta informacija ar suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7). Šiame sąraše turi būti nurodoma aukščiausia įslaptintos informacijos, su kuria asmeniui leidžiama dirbti ar susipažinti, slaptumo žyma, leidimo dirbti ar susipažinti su įslaptinta informacija registracijos numeris, išdavimo data ir galiojimo terminas arba sprendimo suteikti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), data ir numeris. ^s-876eeea294c59ec2fc2b0de1
 
 
 4. Lietuvos šaulių sąjungai mutatis mutandis taikomos šio įstatymo nuostatos, reguliuojančios įslaptintos informacijos žymėjimą, įslaptinimą, saugojimą, naudojimą, išslaptinimą, administravimą ir apsaugos įgyvendinimą Krašto apsaugos ministerijai pavaldžiose ar jos reguliavimo sričiai priskirtose įstaigose, įmonėse, kuriose dirbama su įslaptinta informacija. ^s-7eb8ccc81d9870eabb032ad1
@@ -773,7 +773,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 1. Paslapčių subjektuose įslaptintos informacijos apsaugą koordinuoja paslapčių subjekto vadovo sprendimu sudaromos nuolatinės specialiosios ekspertų komisijos. Šios komisijos: ^s-10466fd2f5021a670010fbad
 
 
-1) teikia paslapčių subjekto vadovui siūlymus dėl leidimų dirbti ar susipažinti su įslaptinta informacija išdavimo asmenims arba išduotų leidimų panaikinimo; ^s-998756db54ab2315812577bb
+1) teikia paslapčių subjekto vadovui siūlymus [dėl leidimų](https://e-tar.lt/portal/lt/legalAct/TAR.49F3BFF08717) dirbti ar susipažinti su įslaptinta informacija išdavimo asmenims arba išduotų leidimų panaikinimo; ^s-998756db54ab2315812577bb
 
 
 2) teikia paslapčių subjekto vadovui siūlymus ir išvadas dėl informacijos įslaptinimo pagrįstumo, įslaptinimo termino pratęsimo, slaptumo žymų keitimo, įslaptintos informacijos išslaptinimo ar sunaikinimo; ^s-5a88b2d305819f03f9397a0c
@@ -801,13 +801,13 @@ PERSONALO PATIKIMUMO UŽTIKRINIMAS
 1. Lietuvos Respublikos įslaptintą informaciją, žymimą slaptumo žymomis „Visiškai slaptai“, „Slaptai“ arba „Konfidencialiai“, užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų Lietuvos Respublikai perduotą įslaptintą informaciją, žymimą slaptumo žymų „Visiškai slaptai“, „Slaptai“ arba „Konfidencialiai“ atitikmenimis, naudoti, saugoti ar tokią informaciją gabenti gali tik atitinkamus leidimus dirbti ar susipažinti su įslaptinta informacija turintys asmenys. ^s-202acf14fed115c8a7257c7c
 
 
-2. Lietuvos Respublikos įslaptintą informaciją, žymimą slaptumo žyma „Riboto naudojimo“, užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų Lietuvos Respublikai perduotą įslaptintą informaciją, žymimą slaptumo žymos „Riboto naudojimo“ atitikmeniu, naudoti, saugoti ar tokią informaciją gabenti gali tik teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, arba leidimą dirbti ar susipažinti su įslaptinta informacija turintys asmenys. ^s-32e74bfcfe2e2eb231b4263b
+2. Lietuvos Respublikos įslaptintą informaciją, žymimą slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų Lietuvos Respublikai perduotą įslaptintą informaciją, žymimą slaptumo žymos [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) atitikmeniu, naudoti, saugoti ar tokią informaciją gabenti gali tik teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), arba leidimą dirbti ar susipažinti su įslaptinta informacija turintys asmenys. ^s-32e74bfcfe2e2eb231b4263b
 
 
 3. Pagal pareigas susipažinti su įslaptinta informacija ir ja naudotis gali Respublikos Prezidentas, Seimo Pirmininkas ir Ministras Pirmininkas. ^s-83e2dbd39232773f350aaded
 
 
-4. Susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, ir ja naudotis gali Seimo nariai, savivaldybių tarybų nariai, kuriems tai būtina pagal vykdomas pareigas. ^s-9062b3886b4dce0c2bdd2385
+4. Susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), ir ja naudotis gali Seimo nariai, savivaldybių tarybų nariai, kuriems tai būtina pagal vykdomas pareigas. ^s-9062b3886b4dce0c2bdd2385
 
 
 5. Lietuvos Respublikos teismų teisėjai, vykdydami savo įgaliojimus, turi teisę susipažinti su įslaptinta informacija ir ja naudotis. ^s-4fb07098b68c4f4e63b81561
@@ -836,7 +836,7 @@ Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 
 
-9. Šio straipsnio 4, 5, 6, 7 ir [[#^s-24b02974555f77bc210d71a1|8 dalyse]] nurodyti asmenys yra supažindinami su įslaptintos informacijos apsaugą reglamentuojančių teisės aktų reikalavimais, įspėjami dėl atsakomybės už įslaptintos informacijos neteisėtą atskleidimą ar praradimą ir už įslaptintos informacijos apsaugą atsakingam asmeniui turi pateikti rašytinį pasižadėjimą saugoti įslaptintą informaciją. ^s-abfc6a4a46ad819db2b76583
+9. Šio straipsnio [[#^s-9062b3886b4dce0c2bdd2385|4]], [[#^s-4fb07098b68c4f4e63b81561|5]], [[#^s-7b7ecee12160dec00c5134d1|6]], [[#^s-9460197a6fa34d041dfd207e|7]] ir [[#^s-24b02974555f77bc210d71a1|8]] dalyse nurodyti asmenys yra supažindinami su įslaptintos informacijos apsaugą reglamentuojančių teisės aktų reikalavimais, įspėjami dėl atsakomybės už įslaptintos informacijos neteisėtą atskleidimą ar praradimą ir už įslaptintos informacijos apsaugą atsakingam asmeniui turi pateikti rašytinį pasižadėjimą saugoti įslaptintą informaciją. ^s-abfc6a4a46ad819db2b76583
 Straipsnio dalies pakeitimai:
 Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 
@@ -845,7 +845,7 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 ### 16 straipsnis. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“ ^s-4ee3b4cda041c2b4072275ba
 
 
-1. Paslapčių subjekto darbuotojams teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikia paslapčių subjekto vadovas ar jo įgaliotas asmuo, šauliams – krašto apsaugos ministras ar jo įgaliotas asmuo. Paslapčių subjekto vadovui teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikia paslapčių subjekto vadovą į pareigas skiriantis asmuo ar jo įgaliotas asmuo, kai vadovą į pareigas skiria kolegialus subjektas, teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikia kolegialaus subjekto vadovas ar jo įgaliotas asmuo. Ši teisė suteikiama iki darbo (tarnybos) santykių nutraukimo arba iki renkamų ar skiriamų į pareigas asmenų įgaliojimų laiko pabaigos. Išleistam į atsargą ir į tarnybą aktyviajame kariuomenės personalo rezerve paskirtam kariui iki jo išleidimo į atsargą ir paskyrimo į tarnybą aktyviajame kariuomenės personalo rezerve suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, lieka galioti iki jo atleidimo iš tarnybos aktyviajame kariuomenės personalo rezerve dienos. Paslapčių subjekto nuolatinių ar laikinų kolegialių struktūrinių darinių (pavyzdžiui, komisijų, darbo grupių, tarybų, komitetų, kolegijų ir pan.), įsteigtų (sudarytų) patariamojo pobūdžio sprendimams priimti, nariams ar paslapčių subjekto pakviestiems ekspertams (toliau kartu – kolegialaus darinio narys ar pakviestas ekspertas), kurie nėra paslapčių subjekto darbuotojai ir kuriems nėra suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikia šį kolegialų darinį įsteigusio (sudariusio) ar ekspertą pakvietusio paslapčių subjekto vadovas ar jo įgaliotas asmuo. Ši teisė suteikiama iki kolegialaus darinio nario ar pakviesto eksperto įgaliojimų laiko ar ekspertinių paslaugų teikimo pabaigos. ^s-9aa155bbc401aa6a588dfe1d
+1. Paslapčių subjekto darbuotojams teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), suteikia paslapčių subjekto vadovas ar jo įgaliotas asmuo, šauliams – krašto apsaugos ministras ar jo įgaliotas asmuo. Paslapčių subjekto vadovui teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), suteikia paslapčių subjekto vadovą į pareigas skiriantis asmuo ar jo įgaliotas asmuo, kai vadovą į pareigas skiria kolegialus subjektas, teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), suteikia kolegialaus subjekto vadovas ar jo įgaliotas asmuo. Ši teisė suteikiama iki darbo (tarnybos) santykių nutraukimo arba iki renkamų ar skiriamų į pareigas asmenų įgaliojimų laiko pabaigos. Išleistam į atsargą ir į tarnybą aktyviajame kariuomenės personalo rezerve paskirtam kariui iki jo išleidimo į atsargą ir paskyrimo į tarnybą aktyviajame kariuomenės personalo rezerve suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), lieka galioti iki jo atleidimo iš tarnybos aktyviajame kariuomenės personalo rezerve dienos. Paslapčių subjekto nuolatinių ar laikinų kolegialių struktūrinių darinių (pavyzdžiui, komisijų, darbo grupių, tarybų, komitetų, kolegijų ir pan.), įsteigtų (sudarytų) patariamojo pobūdžio sprendimams priimti, nariams ar paslapčių subjekto pakviestiems ekspertams (toliau kartu – kolegialaus darinio narys ar pakviestas ekspertas), kurie nėra paslapčių subjekto darbuotojai ir kuriems nėra suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), suteikia šį kolegialų darinį įsteigusio (sudariusio) ar ekspertą pakvietusio paslapčių subjekto vadovas ar jo įgaliotas asmuo. Ši teisė suteikiama iki kolegialaus darinio nario ar pakviesto eksperto įgaliojimų laiko ar ekspertinių paslaugų teikimo pabaigos. ^s-9aa155bbc401aa6a588dfe1d
 Straipsnio dalies pakeitimai:
 Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
@@ -853,7 +853,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 
 
 
-2. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, nesuteikiama arba panaikinama, jeigu asmuo: ^s-7151efdc1742f8bf32cbceea
+2. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), nesuteikiama arba panaikinama, jeigu asmuo: ^s-7151efdc1742f8bf32cbceea
 
 
 1) įsiteisėjusiu nuosprendžiu buvo pripažintas kaltu dėl labai sunkaus ar sunkaus nusikaltimo ir turi neišnykusį ar nepanaikintą teistumą; ^s-c30e047ac8c28a063228be7a
@@ -862,7 +862,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 2) įsiteisėjusiu nuosprendžiu buvo pripažintas kaltu dėl valstybės ar tarnybos paslapties atskleidimo, neteisėto disponavimo informacija, kuri yra valstybės paslaptis, valstybės paslapties praradimo, tarnybos paslapties pagrobimo ar kitokio neteisėto įgijimo ir turi neišnykusį ar nepanaikintą teistumą arba baudžiamojo nusižengimo atveju nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo 3 metai; ^s-300e5ad7df7558623bb4ed11
 
 
-3) buvo atleistas iš pareigų dėl darbo su įslaptinta informacija tvarkos pažeidimo ar už tokius pažeidimus jam buvo panaikintas leidimas dirbti ar susipažinti su įslaptinta informacija arba teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, ir nuo tokio sprendimo dienos nepraėjo 5 metai; ^s-842f1aff417b6379e217f8c8
+3) buvo atleistas iš pareigų dėl darbo su įslaptinta informacija tvarkos pažeidimo ar už tokius pažeidimus jam buvo panaikintas leidimas dirbti ar susipažinti su įslaptinta informacija arba teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), ir nuo tokio sprendimo dienos nepraėjo 5 metai; ^s-842f1aff417b6379e217f8c8
 
 
 4) buvo atleistas iš pareigų dėl priesaikos ar pasižadėjimo sulaužymo, pareigūno vardo pažeminimo, profesinės etikos pažeidimo ir nuo atleidimo iš pareigų dienos nepraėjo 3 metai; ^s-a661c274bc5547dc9397b0cc
@@ -880,19 +880,19 @@ Nr. XIII-1922, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00855
 
 
 
-21. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, nesuteikiama, jeigu paslapčių subjekto darbuotojui ar šauliui buvo panaikinta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, vadovaujantis [[#^s-f95ba2055aab427e8d2b57f3|šio straipsnio 22 dalimi]] arba panaikintas leidimas dirbti ar susipažinti su įslaptinta informacija vadovaujantis šio įstatymo [[#^s-9d9f5cc85c80ac92375bcf30|20 straipsnio 1 dalies 5 punktu]] ir nuo tokio sprendimo priėmimo dienos nepraėjo 3 metai. ^s-c817e4ad096558b26a3d9812
+21. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), nesuteikiama, jeigu paslapčių subjekto darbuotojui ar šauliui buvo panaikinta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), vadovaujantis [[#^s-f95ba2055aab427e8d2b57f3|šio straipsnio 22 dalimi]] arba panaikintas leidimas dirbti ar susipažinti su įslaptinta informacija vadovaujantis šio įstatymo [[#^s-9d9f5cc85c80ac92375bcf30|20 straipsnio 1 dalies 5 punktu]] ir nuo tokio sprendimo priėmimo dienos nepraėjo 3 metai. ^s-c817e4ad096558b26a3d9812
 Papildyta straipsnio dalimi:
 Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
 
 
 
-22. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, panaikinama, jeigu paslapčių subjekto darbuotojas ar šaulys pažeidė apribojimą, nurodytą šio įstatymo [[#^s-e00a165fe99abd0573c825c4|211 straipsnyje]]. ^s-f95ba2055aab427e8d2b57f3
+22. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), panaikinama, jeigu paslapčių subjekto darbuotojas ar šaulys pažeidė apribojimą, nurodytą šio įstatymo [[#^s-e00a165fe99abd0573c825c4|211 straipsnyje]]. ^s-f95ba2055aab427e8d2b57f3
 Papildyta straipsnio dalimi:
 Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
 
 
 
-3. Informaciją, ar asmuo atitinka šio straipsnio 2, 21 ir [[#^s-f95ba2055aab427e8d2b57f3|22 dalyse]] nustatytas sąlygas, surenka paslapčių subjekto vadovas ar jo įgaliotas asmuo arba krašto apsaugos ministras ar jo įgaliotas asmuo, jeigu tikrinamas asmuo yra šaulys, arba kolegialaus subjekto vadovas ar jo įgaliotas asmuo, jeigu tikrinamas kolegialaus subjekto į pareigas skiriamas paslapčių subjekto vadovas, iš valstybės informacinių išteklių arba kreipdamasis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, tvarkančias atitinkamą informaciją, o šios turimą informaciją privalo pateikti ne vėliau kaip per 15 darbo dienų nuo prašymo gavimo dienos. Paslapčių subjekto vadovas ar jo įgaliotas asmuo arba krašto apsaugos ministras ar jo įgaliotas asmuo, jeigu tikrinamas asmuo yra šaulys, gali tikrinamo asmens paprašyti pateikti tikrinimui reikalingą informaciją ar dokumentus. ^s-9e69d4d642658309c951338d
+3. Informaciją, ar asmuo atitinka šio straipsnio [[#^s-7151efdc1742f8bf32cbceea|2]], [[#^s-c817e4ad096558b26a3d9812|21]] ir [[#^s-f95ba2055aab427e8d2b57f3|22]] dalyse nustatytas sąlygas, surenka paslapčių subjekto vadovas ar jo įgaliotas asmuo arba krašto apsaugos ministras ar jo įgaliotas asmuo, jeigu tikrinamas asmuo yra šaulys, arba kolegialaus subjekto vadovas ar jo įgaliotas asmuo, jeigu tikrinamas kolegialaus subjekto į pareigas skiriamas paslapčių subjekto vadovas, iš valstybės informacinių išteklių arba kreipdamasis į teisėsaugos, kontrolės ir kitas institucijas, įstaigas ar įmones, tvarkančias atitinkamą informaciją, o šios turimą informaciją privalo pateikti ne vėliau kaip per 15 darbo dienų nuo prašymo gavimo dienos. Paslapčių subjekto vadovas ar jo įgaliotas asmuo arba krašto apsaugos ministras ar jo įgaliotas asmuo, jeigu tikrinamas asmuo yra šaulys, gali tikrinamo asmens paprašyti pateikti tikrinimui reikalingą informaciją ar dokumentus. ^s-9e69d4d642658309c951338d
 Straipsnio dalies pakeitimai:
 Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
@@ -900,16 +900,16 @@ Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
 
 
 
-4. Sprendimas dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo turi būti priimtas ne vėliau kaip per 30 darbo dienų nuo prašymo suteikti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, gavimo dienos. ^s-6bf6dd9721d0a3d9c350b981
+4. Sprendimas dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), suteikimo turi būti priimtas ne vėliau kaip per 30 darbo dienų nuo prašymo suteikti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), gavimo dienos. ^s-6bf6dd9721d0a3d9c350b981
 Straipsnio dalies pakeitimai:
 Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 
 
-5. Asmenys, kuriems yra išduotas leidimas dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žymomis „Visiškai slaptai“, „Slaptai“ arba „Konfidencialiai“, nėra tikrinami dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo. ^s-89f097a482c1bb3c115dc1f2
+5. Asmenys, kuriems yra išduotas leidimas dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žymomis „Visiškai slaptai“, „Slaptai“ arba „Konfidencialiai“, nėra tikrinami dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), suteikimo. ^s-89f097a482c1bb3c115dc1f2
 
 
-6. Jeigu leidimas dirbti ar susipažinti su įslaptinta informacija arba teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, neteko galios nutraukus asmens darbo (tarnybos) santykius, asmenį atleidus iš tarnybos aktyviajame kariuomenės personalo rezerve arba pasibaigus renkamų ar skiriamų į pareigas asmenų įgaliojimų laikui, arba šio įstatymo [[#^s-303ec6b906173a8926de55b1|35 straipsnio 6 dalyje]] nustatytu atveju, teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, asmeniui iš naujo suteikiama neatliekant jo tikrinimo, jeigu nuo dienos, kurią leidimas dirbti ar susipažinti su įslaptinta informacija arba teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, neteko galios, nėra praėję 12 mėnesių ir nuo paskutinio asmens tikrinimo dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo arba teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo nėra praėję 10 metų. ^s-5923eb03085542b9f006c937
+6. Jeigu leidimas dirbti ar susipažinti su įslaptinta informacija arba teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), neteko galios nutraukus asmens darbo (tarnybos) santykius, asmenį atleidus iš tarnybos aktyviajame kariuomenės personalo rezerve arba pasibaigus renkamų ar skiriamų į pareigas asmenų įgaliojimų laikui, arba šio įstatymo [[#^s-303ec6b906173a8926de55b1|35 straipsnio 6 dalyje]] nustatytu atveju, teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), asmeniui iš naujo suteikiama neatliekant jo tikrinimo, jeigu nuo dienos, kurią leidimas dirbti ar susipažinti su įslaptinta informacija arba teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), neteko galios, nėra praėję 12 mėnesių ir nuo paskutinio asmens tikrinimo dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo arba teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), suteikimo nėra praėję 10 metų. ^s-5923eb03085542b9f006c937
 Straipsnio dalies pakeitimai:
 Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
 Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
@@ -918,7 +918,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 
 
 
-7. Sprendimai dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, nesuteikimo ar panaikinimo gali būti skundžiami [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-67fb46379e27b95c4b4a0be6
+7. Sprendimai dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), nesuteikimo ar panaikinimo gali būti skundžiami [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-67fb46379e27b95c4b4a0be6
 Papildyta straipsnio dalimi:
 Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 
@@ -984,7 +984,7 @@ Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
 12) asmuo buvo atleistas iš pareigų dėl darbo su įslaptinta informacija tvarkos pažeidimo ar už tokius pažeidimus jam buvo panaikintas leidimas dirbti ar susipažinti su įslaptinta informacija ir nuo tokio sprendimo dienos nepraėjo 5 metai; ^s-a1ec455d67192301e2b35c2f
 
 
-121) paslapčių subjekto darbuotojui ar šauliui buvo panaikinta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, vadovaujantis šio įstatymo [[#^s-f95ba2055aab427e8d2b57f3|16 straipsnio 22 dalimi]] arba panaikintas leidimas dirbti ar susipažinti su įslaptinta informacija vadovaujantis šio įstatymo [[#^s-9d9f5cc85c80ac92375bcf30|20 straipsnio 1 dalies 5 punktu]] ir nuo tokio sprendimo priėmimo dienos nepraėjo 3 metai; ^s-2dd99cd5d8d04eb016424bdf
+121) paslapčių subjekto darbuotojui ar šauliui buvo panaikinta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), vadovaujantis šio įstatymo [[#^s-f95ba2055aab427e8d2b57f3|16 straipsnio 22 dalimi]] arba panaikintas leidimas dirbti ar susipažinti su įslaptinta informacija vadovaujantis šio įstatymo [[#^s-9d9f5cc85c80ac92375bcf30|20 straipsnio 1 dalies 5 punktu]] ir nuo tokio sprendimo priėmimo dienos nepraėjo 3 metai; ^s-2dd99cd5d8d04eb016424bdf
 Papildyta straipsnio punktu:
 Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
 
@@ -1014,7 +1014,7 @@ Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
 20) tikrinimo metu nustatomos ar per pastaruosius 3 metus buvo nustatytos asmens savybės, kita veikla ar ryšiai, ar kitos su asmeniu susijusios aplinkybės, ar faktai, dėl kurių kyla grėsmė patikėtos įslaptintos informacijos saugumui. ^s-e7a64f583ac424e60aeedab3
 
 
-3. Asmenims, turintiems leidimus, suteikiančius teisę dirbti ar susipažinti su įslaptinta informacija, žymima aukštesne slaptumo žyma, atskiras leidimas dirbti ar susipažinti su įslaptinta informacija, žymima žemesne slaptumo žyma, ar teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, nereikalingi. ^s-311acdf532f4885db9c221a0
+3. Asmenims, turintiems leidimus, suteikiančius teisę dirbti ar susipažinti su įslaptinta informacija, žymima aukštesne slaptumo žyma, atskiras leidimas dirbti ar susipažinti su įslaptinta informacija, žymima žemesne slaptumo žyma, ar teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), nereikalingi. ^s-311acdf532f4885db9c221a0
 
 
 4. Asmeniui prireikus dirbti ar susipažinti su įslaptinta informacija, žymima aukštesne slaptumo žyma, negu yra išduotas leidimas dirbti ar susipažinti su įslaptinta informacija, asmuo tikrinamas iš naujo. Lietuvos Respublikoje paskelbus karo ar nepaprastąją padėtį arba karinių operacijų metu asmeniui prireikus dirbti ar susipažinti su įslaptinta informacija, žymima aukštesne slaptumo žyma, negu yra išduotas leidimas dirbti ar susipažinti su įslaptinta informacija, asmuo iš naujo netikrinamas. ^s-f4ae3bbb5cee850e5330f87d
@@ -1092,7 +1092,7 @@ Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
 
 
-4) Valstybės saugumo departamentas, kai leidimą dirbti ar susipažinti su įslaptinta informacija pretenduoja gauti asmuo, nenurodytas šios dalies 1, 2 ir [[#^s-3ed83389c1ea8f8ebc90ce23|3 punktuose]]. ^s-c61602328ddceba870f458f4
+4) Valstybės saugumo departamentas, kai leidimą dirbti ar susipažinti su įslaptinta informacija pretenduoja gauti asmuo, nenurodytas šios dalies [[#^s-1b72b3468c185c54311fff67|1]], [[#^s-717eaae7724692d16859e9c8|2]] ir [[#^s-3ed83389c1ea8f8ebc90ce23|3]] punktuose. ^s-c61602328ddceba870f458f4
 
 
 7. Asmenį, kurio patikimumą dėl darbo su įslaptinta informacija prašo patikrinti užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų įgaliotos institucijos, dėl leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo tikrina ir prireikus leidimą dirbti ar susipažinti su įslaptinta informacija išduoda Valstybės saugumo departamentas. Valstybės saugumo departamentas pateikia Paslapčių apsaugos koordinavimo komisijai informaciją apie asmeniui išduotą leidimą dirbti ar susipažinti su įslaptinta informacija, ji atitinkamai užsienio valstybės, Europos Sąjungos ar tarptautinės organizacijos institucijai pateikia pažymą, patvirtinančią, kad asmuo turi teisę dirbti ar susipažinti su atitinkama slaptumo žyma žymima įslaptinta užsienio valstybių, Europos Sąjungos ar tarptautinių organizacijų informacija. ^s-c94426323d8a428d094dc1a7
@@ -1120,7 +1120,7 @@ Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
 
 
 
-11. Asmenų tikrinimą atliekančios institucijos asmens duomenis tvarko automatiniu būdu. Paslapčių subjektai ir [[#^s-5309f5dbb214a59969968c84|šio straipsnio 6 dalyje]] nurodytos institucijos tikrinamų asmenų ir leidimus dirbti ar susipažinti su įslaptinta informacija turinčių asmenų, o [[#^s-5309f5dbb214a59969968c84|šio straipsnio 6 dalyje]] nurodytos institucijos taip pat ir asmenų, kurių duomenis būtina tvarkyti siekiant įvertinti, ar dėl tikrinamo asmens ryšių negalėtų kilti grėsmė jam patikėtos įslaptintos informacijos saugumui, asmens duomenis tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu]] (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, [[#^s-8d5390841be52734cd4a04ef|30 straipsnio 1 dalyje]] nurodytos informacijos teikimas duomenų subjektams (tikrinamiems asmenims, leidimus dirbti ar susipažinti su įslaptinta informacija turintiems asmenims, taip pat asmenims, kurių duomenis būtina tvarkyti siekiant įvertinti, ar dėl tikrinamo asmens ryšių negalėtų kilti grėsmė jam patikėtos įslaptintos informacijos saugumui) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-011e75788ba7970d270bd193|12 straipsnyje]], [[#^s-21368d9e0b821c3f96826244|14 straipsnio]] 1, 2 ir [[#^s-b6f3b93c2d4fd44b4078e3d4|3 dalyse]] nustatytos duomenų subjektų (tikrinamų asmenų, leidimus dirbti ar susipažinti su įslaptinta informacija turinčių asmenų, taip pat asmenų, kurių duomenis būtina tvarkyti siekiant įvertinti, ar dėl tikrinamo asmens ryšių negalėtų kilti grėsmė jam patikėtos įslaptintos informacijos saugumui) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (arba) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma užtikrinti personalo patikimumo ir (arba) įslaptintų sandorių apsaugos. Paslapčių subjektai ir [[#^s-5309f5dbb214a59969968c84|šio straipsnio 6 dalyje]] nurodytos institucijos turi kiekvienu konkrečiu atveju paslapčių subjekto vadovo ar atitinkamai [[#^s-5309f5dbb214a59969968c84|šio straipsnio 6 dalyje]] nurodytos institucijos vadovo nustatyta tvarka įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu. ^s-6654af5c19e6cf99a34890aa
+11. Asmenų tikrinimą atliekančios institucijos asmens duomenis tvarko automatiniu būdu. Paslapčių subjektai ir [[#^s-5309f5dbb214a59969968c84|šio straipsnio 6 dalyje]] nurodytos institucijos tikrinamų asmenų ir leidimus dirbti ar susipažinti su įslaptinta informacija turinčių asmenų, o [[#^s-5309f5dbb214a59969968c84|šio straipsnio 6 dalyje]] nurodytos institucijos taip pat ir asmenų, kurių duomenis būtina tvarkyti siekiant įvertinti, ar dėl tikrinamo asmens ryšių negalėtų kilti grėsmė jam patikėtos įslaptintos informacijos saugumui, asmens duomenis tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu]] (toliau – [[latest/TAR.299D835159BE|Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas]]) ir šiuo įstatymu. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo 11 straipsnio 2 dalyje, 14 straipsnio 5 dalyje, [[#^s-8d5390841be52734cd4a04ef|30 straipsnio 1 dalyje]] nurodytos informacijos teikimas duomenų subjektams (tikrinamiems asmenims, leidimus dirbti ar susipažinti su įslaptinta informacija turintiems asmenims, taip pat asmenims, kurių duomenis būtina tvarkyti siekiant įvertinti, ar dėl tikrinamo asmens ryšių negalėtų kilti grėsmė jam patikėtos įslaptintos informacijos saugumui) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-011e75788ba7970d270bd193|12 straipsnyje]], [[#^s-21368d9e0b821c3f96826244|14 straipsnio]] [[#^s-10466fd2f5021a670010fbad|1]], [[#^s-c28a35d665353c0e84a658ed|2]] ir 3 dalyse nustatytos duomenų subjektų (tikrinamų asmenų, leidimus dirbti ar susipažinti su įslaptinta informacija turinčių asmenų, taip pat asmenų, kurių duomenis būtina tvarkyti siekiant įvertinti, ar dėl tikrinamo asmens ryšių negalėtų kilti grėsmė jam patikėtos įslaptintos informacijos saugumui) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (arba) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma užtikrinti personalo patikimumo ir (arba) įslaptintų sandorių apsaugos. Paslapčių subjektai ir [[#^s-5309f5dbb214a59969968c84|šio straipsnio 6 dalyje]] nurodytos institucijos turi kiekvienu konkrečiu atveju paslapčių subjekto vadovo ar atitinkamai [[#^s-5309f5dbb214a59969968c84|šio straipsnio 6 dalyje]] nurodytos institucijos vadovo nustatyta tvarka įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu. ^s-6654af5c19e6cf99a34890aa
 Straipsnio dalies pakeitimai:
 Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
 
@@ -1226,7 +1226,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 ### 21 straipsnis. Asmens, kuriam yra išduotas leidimas dirbti ar susipažinti su įslaptinta informacija arba suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, pareigos ^s-668881ae8701e4526862c9b7
 
 
-Asmuo, kuriam yra išduotas leidimas dirbti ar susipažinti su įslaptinta informacija arba suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, privalo:
+Asmuo, kuriam yra išduotas leidimas dirbti ar susipažinti su įslaptinta informacija arba suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), privalo:
 
 
 1) išmanyti teisės aktų, reglamentuojančių įslaptintos informacijos apsaugą, reikalavimus ir juos vykdyti; ^s-a76d7305004ea11cb542a081
@@ -1265,7 +1265,7 @@ Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
 ### 211 straipsnis. Vykimo į užsienio valstybes ar teritorijas apribojimai ^s-e00a165fe99abd0573c825c4
 
 
-Paslapčių subjekto darbuotojui ar šauliui, kuriam yra išduotas leidimas dirbti ar susipažinti su įslaptinta informacija arba suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, ne tarnybos ar ne darbo tikslais draudžiama vykti į užsienio valstybes ar teritorijas, kurių sąrašą, įvertinusi Lietuvos Respublikos Seimo tvirtinamoje Nacionalinio saugumo strategijoje ir kituose planavimo dokumentuose apibrėžiamus rizikos veiksnius, pavojus ir grėsmes nacionaliniam saugumui, taip pat kitų nacionalinio saugumo užtikrinimo subjektų šiuo tikslu priimtus sprendimus ar suteiktą informaciją, tvirtina Vyriausybė. Atsižvelgdama į rizikos veiksnių, pavojų ir grėsmių nacionaliniam saugumui raidą ir pokyčius, Vyriausybė turi teisę nustatyti atvejus (įskaitant išimtinius atvejus dėl asmeninių aplinkybių) ir tvarką, pagal kurią paslapčių subjekto darbuotojų ar šaulių vykimas į šiame sąraše esančias užsienio valstybes ar teritorijas būtų galimas tik turint leidimą arba deklaravus informaciją apie išvykimą.
+Paslapčių subjekto darbuotojui ar šauliui, kuriam yra išduotas leidimas dirbti ar susipažinti su įslaptinta informacija arba suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), ne tarnybos ar ne darbo tikslais draudžiama vykti į užsienio valstybes ar teritorijas, kurių sąrašą, įvertinusi Lietuvos Respublikos Seimo tvirtinamoje Nacionalinio saugumo strategijoje ir kituose planavimo dokumentuose apibrėžiamus rizikos veiksnius, pavojus ir grėsmes nacionaliniam saugumui, taip pat kitų nacionalinio saugumo užtikrinimo subjektų šiuo tikslu priimtus sprendimus ar suteiktą informaciją, tvirtina Vyriausybė. Atsižvelgdama į rizikos veiksnių, pavojų ir grėsmių nacionaliniam saugumui raidą ir pokyčius, Vyriausybė turi teisę nustatyti atvejus (įskaitant išimtinius atvejus dėl asmeninių aplinkybių) ir tvarką, pagal kurią paslapčių subjekto darbuotojų ar šaulių vykimas į šiame sąraše esančias užsienio valstybes ar teritorijas būtų galimas tik turint leidimą arba deklaravus informaciją apie išvykimą.
 TAR pastaba: atvykusiems į [[#^s-e00a165fe99abd0573c825c4|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo 211 straipsnyje]] nurodytą valstybę ar teritoriją iki 2024-10-03 [[latest/204d84a086d211efabdbb4a1fc8b0b63|įstatymo Nr. XIV-3006]] įsigaliojimo dienos (2025-01-01), [[#^s-f95ba2055aab427e8d2b57f3|Valstybės ir tarnybos paslapčių įstatymo 16 straipsnio 22 dalies]] ir [[#^s-9d9f5cc85c80ac92375bcf30|Valstybės ir tarnybos paslapčių įstatymo 20 straipsnio 1 dalies 5 punkto]] nuostatos netaikomos.
 
 
@@ -1292,16 +1292,16 @@ Už įslaptintos informacijos apsaugą atsakingas asmuo:
 4) iki šio įstatymo [[#^s-b62a0fcb03bd531f5485889c|17 straipsnio 6 dalyje]] nurodyto termino pradžios organizuoja pakartotinį asmens tikrinimą; ^s-a7bdf922b9542a00330172e6
 
 
-5) paima iš asmenų, kuriems išduodami leidimai dirbti ar susipažinti su įslaptinta informacija arba suteikiama teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, Vyriausybės nustatyto pavyzdžio rašytinius pasižadėjimus saugoti įslaptintą informaciją; ^s-2867bed53a454d547aee28ec
+5) paima iš asmenų, kuriems išduodami leidimai dirbti ar susipažinti su įslaptinta informacija arba suteikiama teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), Vyriausybės nustatyto pavyzdžio rašytinius pasižadėjimus saugoti įslaptintą informaciją; ^s-2867bed53a454d547aee28ec
 Straipsnio punkto pakeitimai:
 Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
 
 
 
-6) prireikus pasirašytinai supažindina asmenis, kuriems išduoti leidimai dirbti ar susipažinti su įslaptinta informacija arba suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, su detaliu įslaptintos informacijos, susijusios su paslapčių subjekto veikla, sąrašu; ^s-b7c7926cd0b11c892a4af1fd
+6) prireikus pasirašytinai supažindina asmenis, kuriems išduoti leidimai dirbti ar susipažinti su įslaptinta informacija arba suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), su detaliu įslaptintos informacijos, susijusios su paslapčių subjekto veikla, sąrašu; ^s-b7c7926cd0b11c892a4af1fd
 
 
-7) atlieka saugumo instruktažus (pasirašytinai supažindina su įslaptintos informacijos apsaugą reglamentuojančių teisės aktų reikalavimais, informuoja apie atsakomybę už neteisėtą disponavimą įslaptinta informacija, įslaptintos informacijos atskleidimą, praradimą, pagrobimą ar kitokį neteisėtą įgijimą bei apie grėsmes įslaptintos informacijos saugumui) asmeniui išdavus leidimą dirbti ar susipažinti su įslaptinta informacija arba suteikus teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, ir vėliau ne rečiau kaip kartą per metus. ^s-5542c9dd51e0549e335b2679
+7) atlieka saugumo instruktažus (pasirašytinai supažindina su įslaptintos informacijos apsaugą reglamentuojančių teisės aktų reikalavimais, informuoja apie atsakomybę už neteisėtą disponavimą įslaptinta informacija, įslaptintos informacijos atskleidimą, praradimą, pagrobimą ar kitokį neteisėtą įgijimą bei apie grėsmes įslaptintos informacijos saugumui) asmeniui išdavus leidimą dirbti ar susipažinti su įslaptinta informacija arba suteikus teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), ir vėliau ne rečiau kaip kartą per metus. ^s-5542c9dd51e0549e335b2679
 Straipsnio punkto pakeitimai:
 Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 
@@ -1409,7 +1409,7 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 5) naikinami paslapčių subjekto vadovo ar jo įgalioto asmens sprendimu, surašant sunaikinimo aktą. Dokumentų kopijos naikinamos paslapčių subjekto padalinio, atsakingo už užduoties vykdymą, vadovo ar jo įgalioto asmens sprendimu. Apie dokumento kopijos sunaikinimą pažymima dokumentų registruose, sunaikinimo aktas nerašomas. ^s-8f75de90a763718200a3089c
 
 
-4. Įslaptinti dokumentai, žymimi slaptumo žyma „Riboto naudojimo“, administruojami taip: ^s-945de3e6ec7f78d5211e00ec
+4. Įslaptinti dokumentai, žymimi slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), administruojami taip: ^s-945de3e6ec7f78d5211e00ec
 
 
 1) saugomi ir tvarkomi administracinėje, I ar II klasės saugumo zonoje; ^s-bd75b7a17283886af8940a77
@@ -1456,13 +1456,13 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 3. Įslaptintą informaciją, žymimą slaptumo žyma „Konfidencialiai“, Lietuvos Respublikos teritorijoje turi gabenti karinis ar diplomatinis, ar kurjerių pašto tarnybų kurjeris (kurjeriai) arba paslapčių subjekto vadovo ar jo įgalioto asmens paskirtas asmuo (asmenys). ^s-bb43b7f1f18165f556cc5a24
 
 
-4. Įslaptintą informaciją, žymimą slaptumo žyma „Riboto naudojimo“, Lietuvos Respublikos teritorijoje turi gabenti karinis ar diplomatinis, ar kurjerių pašto tarnybų kurjeris (kurjeriai) arba paslapčių subjekto vadovo ar jo įgalioto asmens paskirtas asmuo (asmenys) ar vykdytojas (vykdytojai). ^s-d56d9434b023b1ca155727aa
+4. Įslaptintą informaciją, žymimą slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), Lietuvos Respublikos teritorijoje turi gabenti karinis ar diplomatinis, ar kurjerių pašto tarnybų kurjeris (kurjeriai) arba paslapčių subjekto vadovo ar jo įgalioto asmens paskirtas asmuo (asmenys) ar vykdytojas (vykdytojai). ^s-d56d9434b023b1ca155727aa
 
 
 5. Įslaptintą informaciją, žymimą slaptumo žymomis „Visiškai slaptai“, „Slaptai“ ar „Konfidencialiai“, užsienio valstybėse turi gabenti ne mažiau kaip du kariniai ar diplomatiniai kurjeriai arba paslapčių subjekto vadovo ar jo įgalioto asmens paskirti asmenys. ^s-731a62cb2ea7cb5eb330594e
 
 
-6. Įslaptintą informaciją, žymimą slaptumo žyma „Riboto naudojimo“, užsienio valstybėse turi gabenti karinis ar diplomatinis kurjeris (kurjeriai) arba paslapčių subjekto vadovo ar jo įgalioto asmens paskirtas asmuo (asmenys). ^s-d2befd56556f39dd1c971904
+6. Įslaptintą informaciją, žymimą slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), užsienio valstybėse turi gabenti karinis ar diplomatinis kurjeris (kurjeriai) arba paslapčių subjekto vadovo ar jo įgalioto asmens paskirtas asmuo (asmenys). ^s-d2befd56556f39dd1c971904
 
 
 7. Asmenys, įgalioti gabenti įslaptintą informaciją, žymimą slaptumo žymomis „Visiškai slaptai“, „Slaptai“ arba „Konfidencialiai“, privalo turėti leidimus dirbti ar susipažinti su įslaptinta informacija, žymima ne žemesne slaptumo žyma, negu gabenama įslaptinta informacija. ^s-53785fc23c3f495c6d156bee
@@ -1505,7 +1505,7 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 ### 28 straipsnis. Įslaptintų dokumentų projektų administravimo reikalavimai ^s-8933e7bb6e51e6dadb056fbe
 
 
-1. Dokumentų projektai, kuriuose esanti informacija žymėtina slaptumo žymomis „Visiškai slaptai“, „Slaptai“ ir „Konfidencialiai“, rengiami ir laikomi I ar II klasės saugumo zonoje, dokumentų projektai, kuriuose esanti informacija žymėtina slaptumo žyma „Riboto naudojimo“, – administracinėje, I ar II klasės saugumo zonoje. Dokumentų projektai tarnybos užduočių vykdymo, karinių operacijų, mokymų, pratybų metu paslapčių subjekto vadovo arba jo įgalioto asmens sprendimu gali būti rengiami ar laikomi ir kitose vietose, kurios nėra priskirtos saugumo zonai, kai jose taikomos fizinės apsaugos priemonės, užtikrinančios įslaptintos informacijos apsaugą. ^s-1ea1eef4eef572d111707f02
+1. Dokumentų projektai, kuriuose esanti informacija žymėtina slaptumo žymomis „Visiškai slaptai“, „Slaptai“ ir „Konfidencialiai“, rengiami ir laikomi I ar II klasės saugumo zonoje, dokumentų projektai, kuriuose esanti informacija žymėtina slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), – administracinėje, I ar II klasės saugumo zonoje. Dokumentų projektai tarnybos užduočių vykdymo, karinių operacijų, mokymų, pratybų metu paslapčių subjekto vadovo arba jo įgalioto asmens sprendimu gali būti rengiami ar laikomi ir kitose vietose, kurios nėra priskirtos saugumo zonai, kai jose taikomos fizinės apsaugos priemonės, užtikrinančios įslaptintos informacijos apsaugą. ^s-1ea1eef4eef572d111707f02
 
 
 2. Dokumentų projektai, kuriuose esanti informacija žymėtina slaptumo žymomis „Visiškai slaptai“, „Slaptai“ ir „Konfidencialiai“, perduodami ir gaunami fiksuojant priemonėmis, kurios nustato informacijos siuntėją ir gavėją. Šie įslaptintų dokumentų projektai kitiems paslapčių subjektams perduodami tik turint rašytinį paslapčių subjekto vadovo ar jo įgalioto asmens sutikimą. ^s-7ab68218e60bdfe99b15016c
@@ -1542,7 +1542,7 @@ Už įslaptintos informacijos apsaugą atsakingas asmuo:
 7) organizuoja įslaptintų dokumentų naikinimą; ^s-ca8db7e3f14540fe970a1eac
 
 
-8) užtikrina, kad su įslaptinta informacija susipažintų tik atitinkamus leidimus dirbti ar susipažinti su įslaptinta informacija ar teisę dirbti arba susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, turintys asmenys ir būtų griežtai laikomasi principo „Būtina žinoti“; ^s-a833bd642e7ecf05d1ea7736
+8) užtikrina, kad su įslaptinta informacija susipažintų tik atitinkamus leidimus dirbti ar susipažinti su įslaptinta informacija ar teisę dirbti arba susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), turintys asmenys ir būtų griežtai laikomasi principo „Būtina žinoti“; ^s-a833bd642e7ecf05d1ea7736
 
 
 9) užtikrina, kad įslaptintos informacijos, su kuria asmuo dirba ar susipažįsta, slaptumo žyma nebūtų aukštesnė už nurodytą šiam asmeniui suteiktame leidime dirbti ar susipažinti su įslaptinta informacija. ^s-21da2a39c11a416d40a02505
@@ -1578,7 +1578,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 
 
 
-11) krašto apsaugos ministro įgalioti krašto apsaugos sistemos institucijų ar Lietuvos šaulių sąjungos padaliniai, jeigu vertinamos krašto apsaugos sistemos institucijų, jų tiekėjų ar Lietuvos šaulių sąjungos patalpos ir teritorijos, kuriose bus dirbama su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“; ^s-0b78a5fc87c64405eb819635
+11) krašto apsaugos ministro įgalioti krašto apsaugos sistemos institucijų ar Lietuvos šaulių sąjungos padaliniai, jeigu vertinamos krašto apsaugos sistemos institucijų, jų tiekėjų ar Lietuvos šaulių sąjungos patalpos ir teritorijos, kuriose bus dirbama su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7); ^s-0b78a5fc87c64405eb819635
 Papildyta straipsnio punktu:
 Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 
@@ -1612,7 +1612,7 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 1) kontroliuojamas asmenų ir transporto priemonių patekimas; ^s-aae4b1a7df37881f61b5de7a
 
 
-2) įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, išskyrus elektronines laikmenas, kuriose įslaptinta informacija laikoma užšifruota Nacionalinės komunikacijų apsaugos tarnybos patvirtintais kriptografiniais metodais ir produktais, laikoma rakinamose metalinėse spintose arba seifuose. ^s-59757653787609aa9d4e9a80
+2) įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), išskyrus elektronines laikmenas, kuriose įslaptinta informacija laikoma užšifruota Nacionalinės komunikacijų apsaugos tarnybos patvirtintais kriptografiniais metodais ir produktais, laikoma rakinamose metalinėse spintose arba seifuose. ^s-59757653787609aa9d4e9a80
 
 
 3. II klasės saugumo zonai keliami šie reikalavimai: ^s-cbad5d543df5511d5f86324e
@@ -1627,7 +1627,7 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 3) zonoje nelydimi gali būti tik asmenys, kurie turi leidimą dirbti ar susipažinti su įslaptinta informacija, žymima ne žemesne negu aukščiausia toje saugumo zonoje saugomos informacijos slaptumo žyma, ir kuriems paslapčių subjekto vadovas ar jo įgaliotas asmuo yra suteikęs teisę savarankiškai patekti į tą saugumo zoną. Kitus asmenis turi lydėti paslapčių subjekto vadovo ar jo įgalioto asmens paskirtas (paskirti) asmuo (asmenys), turintis (turintys) leidimą dirbti ar susipažinti su įslaptinta informacija, žymima ne žemesne negu aukščiausia toje saugumo zonoje saugomos informacijos slaptumo žyma; ^s-d74a5a74bb39b87284f7fbbc
 
 
-4) įslaptinta informacija, žymima slaptumo žyma „Slaptai“ arba „Visiškai slaptai“, turi būti laikoma seifuose. Įslaptinta informacija, žymima slaptumo žyma „Konfidencialiai“, laikoma rakinamose metalinėse spintose arba seifuose. Įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, laikoma rakinamuose biuro balduose, metalinėse spintose arba seifuose. Šie reikalavimai netaikomi elektroninėms laikmenoms, kuriose įslaptinta informacija laikoma užšifruota Nacionalinės komunikacijų apsaugos tarnybos patvirtintais kriptografiniais metodais ir produktais; ^s-b242a2db3f10a1d8718b567c
+4) įslaptinta informacija, žymima slaptumo žyma „Slaptai“ arba „Visiškai slaptai“, turi būti laikoma seifuose. Įslaptinta informacija, žymima slaptumo žyma „Konfidencialiai“, laikoma rakinamose metalinėse spintose arba seifuose. Įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), laikoma rakinamuose biuro balduose, metalinėse spintose arba seifuose. Šie reikalavimai netaikomi elektroninėms laikmenoms, kuriose įslaptinta informacija laikoma užšifruota Nacionalinės komunikacijų apsaugos tarnybos patvirtintais kriptografiniais metodais ir produktais; ^s-b242a2db3f10a1d8718b567c
 
 
 5) į zoną negali būti įnešama vaizdo ar garso, informacijos fiksavimo ir perdavimo įranga, elektroninės laikmenos, o darbo reikmėms skirta įranga gali būti įnešama tik paslapčių subjekto vadovo ar jo įgalioto asmens sprendimu. ^s-50d04d1b95e583af91532ee2
@@ -1701,13 +1701,13 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 
 
 
-2. Įslaptintas sandoris gali būti sudarytas tik su tiekėju, kuriam šio įstatymo nustatyta tvarka yra išduotas tiekėjo patikimumo pažymėjimas, tiekėjo leidimas dirbti ar susipažinti su įslaptinta informacija, arba su tiekėju, kuris atitinka įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimus, išskyrus [[#^s-1693a0a65440040016a2a2dd|šio straipsnio 21 dalyje]] nurodytus atvejus. ^s-f68dd1329d7e01995a327179
+2. Įslaptintas sandoris gali būti sudarytas tik su tiekėju, kuriam šio įstatymo nustatyta tvarka yra išduotas tiekėjo patikimumo pažymėjimas, tiekėjo leidimas dirbti ar susipažinti su įslaptinta informacija, arba su tiekėju, kuris atitinka įslaptintos informacijos, žymimos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), apsaugos reikalavimus, išskyrus [[#^s-1693a0a65440040016a2a2dd|šio straipsnio 21 dalyje]] nurodytus atvejus. ^s-f68dd1329d7e01995a327179
 Straipsnio dalies pakeitimai:
 Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 
 
 
-21. Lietuvos Respublikoje paskelbus mobilizaciją ar įvedus karo padėtį, paslapčių subjekto vadovo ar jo įgalioto asmens sprendimu įslaptintas sandoris gali būti sudarytas su tiekėju, kuriam nėra išduotas tiekėjo patikimumo pažymėjimas, tiekėjo leidimas dirbti ar susipažinti su įslaptinta informacija, išskyrus įslaptintą informaciją, žymimą slaptumo žyma „Visiškai slaptai“, arba su tiekėju, kurio darbuotojams nėra išduotas leidimas dirbti ar susipažinti su įslaptinta informacija, išskyrus informaciją, žymimą slaptumo žyma „Visiškai slaptai“, arba kuris neatitinka įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimų. Paslapčių subjektas turi užtikrinti, kad tiekėjo darbuotojams prieš pradedant dirbti ar susipažinti su įslaptinta informacija būtų atliktas saugumo instruktažas, o užtikrinant įslaptintos informacijos apsaugą būtų mutatis mutandis taikomos šio straipsnio ir šio įstatymo [[#^s-cfdb2a57180c3497785e3064|31 straipsnio 6 dalies]] nuostatos. ^s-1693a0a65440040016a2a2dd
+21. Lietuvos Respublikoje paskelbus mobilizaciją ar įvedus karo padėtį, paslapčių subjekto vadovo ar jo įgalioto asmens sprendimu įslaptintas sandoris gali būti sudarytas su tiekėju, kuriam nėra išduotas tiekėjo patikimumo pažymėjimas, tiekėjo leidimas dirbti ar susipažinti su įslaptinta informacija, išskyrus įslaptintą informaciją, žymimą slaptumo žyma „Visiškai slaptai“, arba su tiekėju, kurio darbuotojams nėra išduotas leidimas dirbti ar susipažinti su įslaptinta informacija, išskyrus informaciją, žymimą slaptumo žyma „Visiškai slaptai“, arba kuris neatitinka įslaptintos informacijos, žymimos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), apsaugos reikalavimų. Paslapčių subjektas turi užtikrinti, kad tiekėjo darbuotojams prieš pradedant dirbti ar susipažinti su įslaptinta informacija būtų atliktas saugumo instruktažas, o užtikrinant įslaptintos informacijos apsaugą būtų mutatis mutandis taikomos šio straipsnio ir šio įstatymo [[#^s-cfdb2a57180c3497785e3064|31 straipsnio 6 dalies]] nuostatos. ^s-1693a0a65440040016a2a2dd
 Papildyta straipsnio dalimi:
 Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 
@@ -1765,13 +1765,13 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 1) šio įstatymo ir kitų teisės aktų, reglamentuojančių įslaptintos informacijos apsaugą, nustatyta tvarka organizuoti ir vykdyti patikėtos ar įslaptinto sandorio metu sukurtos įslaptintos informacijos apsaugą; ^s-c65ab97b08fc3594620a80de
 
 
-2) užtikrinti, kad su įslaptinta informacija dirbs ar susipažins tik leidimus dirbti ar susipažinti su įslaptinta informacija arba teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, turintys asmenys ir tik vadovaujantis principu „Būtina žinoti“; ^s-0122eedca193dfee51181023
+2) užtikrinti, kad su įslaptinta informacija dirbs ar susipažins tik leidimus dirbti ar susipažinti su įslaptinta informacija arba teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), turintys asmenys ir tik vadovaujantis principu „Būtina žinoti“; ^s-0122eedca193dfee51181023
 
 
 3) paskirti už įslaptintos informacijos apsaugą atsakingą asmenį (asmenis); ^s-02c34ddc4bfed5e545daebac
 
 
-4) pasikeitus šio įstatymo [[#^s-e08dfacefbfad1f309c8c5b7|35 straipsnio 1 dalies]] 3, 4, [[#^s-8ba7f810d0c3ab9831e7fcd6|5 punktuose]] nurodytai informacijai ar atsiradus [[#^s-38fbc021f0ba08d6e323faae|37 straipsnio 1 dalies]] 1, 4, 5, 8, 9, 11 punktuose nurodytoms aplinkybėms, ne vėliau kaip per 5 darbo dienas apie tai informuoti Valstybės saugumo departamentą ir įslaptintų sandorių saugumą užtikrinančią instituciją; ^s-5ebe142e757a6c9c8b6409d1
+4) pasikeitus šio įstatymo [[#^s-e08dfacefbfad1f309c8c5b7|35 straipsnio 1 dalies]] [[#^s-3e9137bde6239eeed7a9eb8b|3]], [[#^s-c0a10541ece674ff430d0833|4]], [[#^s-6b6c97a0eb2956ebc8b46978|5]] punktuose nurodytai informacijai ar atsiradus [[#^s-38fbc021f0ba08d6e323faae|37 straipsnio 1 dalies]] [[#^s-31a2e0037fabe4a29fb1a376|1]], [[#^s-75b92929c1cb08482800605a|4]], [[#^s-85f0bcb4d99d852c3631073a|5]], [[#^s-4ad521e7d9801a036b550a45|8]], [[#^s-f5a57be3ef9426dc19440622|9]], [[#^s-769a183e2ff2ecaba2339416|11]] punktuose nurodytoms aplinkybėms, ne vėliau kaip per 5 darbo dienas apie tai informuoti Valstybės saugumo departamentą ir įslaptintų sandorių saugumą užtikrinančią instituciją; ^s-5ebe142e757a6c9c8b6409d1
 
 
 5) įvykdžius įslaptintą sandorį ar jo vykdymą nutraukus prieš terminą, paslapčių subjektui perduoti visą gautą ar įslaptinto sandorio vykdymo metu sukurtą įslaptintą informaciją ir, jeigu sandorio vykdymo metu buvo naudojama tiekėjui priklausanti ĮIRIS įslaptintai informacijai apdoroti ar perduoti, neatkuriamai ištrinti šią informaciją; ^s-8ba7f810d0c3ab9831e7fcd6
@@ -1786,7 +1786,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 8) vykdyti įslaptintų sandorių saugumą užtikrinančių institucijų teisėtus reikalavimus; ^s-1ec0fab17397bf81baaa9183
 
 
-9) ne vėliau kaip per 5 darbo dienas pranešti paslapčių subjekto už įslaptintos informacijos apsaugą atsakingam asmeniui ir įslaptintų sandorių saugumą užtikrinančiai institucijai apie sutarties su įslaptinto sandorio dalį vykdančiu prekių subtiekėju, paslaugų subteikėju, subrangovu nutraukimą, taip pat apie darbo santykių nutraukimą su darbuotojais, kuriems yra išduoti leidimai dirbti ar susipažinti su įslaptinta informacija arba suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“. ^s-1e0f8434aaa29dd5fad1c730
+9) ne vėliau kaip per 5 darbo dienas pranešti paslapčių subjekto už įslaptintos informacijos apsaugą atsakingam asmeniui ir įslaptintų sandorių saugumą užtikrinančiai institucijai apie sutarties su įslaptinto sandorio dalį vykdančiu prekių subtiekėju, paslaugų subteikėju, subrangovu nutraukimą, taip pat apie darbo santykių nutraukimą su darbuotojais, kuriems yra išduoti leidimai dirbti ar susipažinti su įslaptinta informacija arba suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7). ^s-1e0f8434aaa29dd5fad1c730
 Straipsnio punkto pakeitimai:
 Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 
@@ -1795,10 +1795,10 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 ### 34 straipsnis. Įslaptintų sandorių saugumą užtikrinančios institucijos ^s-9e8a9baa52f6fa9f00637758
 
 
-1. Tiekėjų patikimumą ir atitiktį reikalavimams, keliamiems įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugai vertina ir įslaptintos informacijos apsaugos priežiūrą atlieka: ^s-a517c95d0da4a64885915d4c
+1. Tiekėjų patikimumą ir atitiktį reikalavimams, keliamiems įslaptintos informacijos, žymimos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), apsaugai vertina ir įslaptintos informacijos apsaugos priežiūrą atlieka: ^s-a517c95d0da4a64885915d4c
 
 
-1) Valstybės saugumo departamentas, išskyrus šios dalies 2 ir [[#^s-2b4b22337d8c981cc2c7a53a|3 punktuose]] numatytus atvejus; ^s-05c9233bd110960d1f6a26ca
+1) Valstybės saugumo departamentas, išskyrus šios dalies [[#^s-ff42805711260dd0a09ba7fc|2]] ir [[#^s-2b4b22337d8c981cc2c7a53a|3]] punktuose numatytus atvejus; ^s-05c9233bd110960d1f6a26ca
 
 
 2) Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos – krašto apsaugos sistemos institucijoms sudarant ir vykdant įslaptintus sandorius; ^s-ff42805711260dd0a09ba7fc
@@ -1876,7 +1876,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 3) tiekėjo verslo ryšiai, tiekėjo – juridinio asmens patronuojamosios įmonės, tiekėjo – juridinio asmens dalyvių, turinčių ne mažiau kaip 1/3 balsų dalyvių susirinkime, tiekėjo vadovo, tiekėjo valdymo organo narių, finansinę apskaitą tvarkančio asmens ir finansinę apskaitą tvarkančio padalinio vadovo (jeigu tiekėjas turi finansinę apskaitą tvarkantį padalinį) ar finansinę apskaitą tvarkančio kito asmens (toliau kartu – tiekėjas ar su juo susiję asmenys) ryšiai su asmenimis, turinčiais teistumą už nusikalstamas veikas, padarytas organizuotos grupės ar nusikalstamo susivienijimo, arba asmenimis, kuriems taikomos organizuoto nusikalstamumo prevencijos priemonės pagal Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymą, ryšiai su užsienio valstybių saugumo ir (ar) žvalgybos tarnybomis, kurių veikla yra priešiška Lietuvos valstybės interesams; ^s-7501e2a4ccb2f931dad87a44
 
 
-4) šio įstatymo 31 ir [[#^s-fc7a8e0d0984eb5095fe44a0|42 straipsniuose]] nustatytų įslaptintos informacijos apsaugos reikalavimų įgyvendinimas; ^s-b56ab40ad8abfb6dc212b470
+4) šio įstatymo [[#^s-530fe2d5a0e51f3cdc894ce3|31]] ir [[#^s-fc7a8e0d0984eb5095fe44a0|42]] straipsniuose nustatytų įslaptintos informacijos apsaugos reikalavimų įgyvendinimas; ^s-b56ab40ad8abfb6dc212b470
 
 
 5) šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytų asmenų atitiktis šio įstatymo [[#^s-6150118d3009430f014831de|17 straipsnio 1 dalyje]] nustatytoms leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo sąlygoms. ^s-2f7a2ec1d4c0d88536238c5b
@@ -1941,7 +1941,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 11) tiekėjo – juridinio asmens dalyvis, turintis ne mažiau kaip 1/3 balsų dalyvių susirinkime, yra registruotas ne Europos Sąjungos ar NATO valstybėse narėse, valstybėse, nepasirašiusiose Europos ekonominės erdvės sutarties, arba valstybėse, su kuriomis Lietuvos Respublika nėra sudariusi sutarties dėl įslaptintos informacijos abipusės apsaugos, ir Paslapčių apsaugos koordinavimo komisija nepriėmė sprendimo dėl tokio tiekėjo patikimumo pažymėjimo išdavimo; ^s-769a183e2ff2ecaba2339416
 
 
-12) tiekėjas nėra įvykdęs šio įstatymo 31 ir [[#^s-fc7a8e0d0984eb5095fe44a0|42 straipsniuose]] nustatytų įslaptintos informacijos apsaugos užtikrinimo reikalavimų; ^s-e62027683f163f151c7e3fed
+12) tiekėjas nėra įvykdęs šio įstatymo [[#^s-530fe2d5a0e51f3cdc894ce3|31]] ir [[#^s-fc7a8e0d0984eb5095fe44a0|42]] straipsniuose nustatytų įslaptintos informacijos apsaugos užtikrinimo reikalavimų; ^s-e62027683f163f151c7e3fed
 
 
 13) tiekėjui dėl jo kaltės anksčiau buvo atsisakyta išduoti tiekėjo patikimumo pažymėjimą, buvo panaikintas išduotas tiekėjo patikimumo pažymėjimas ir nėra pašalintos tokio pažymėjimo neišdavimo arba panaikinimo priežastys; ^s-994f14a841ecb5c3c1e1f751
@@ -1964,7 +1964,7 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 ### 38 straipsnis. Tiekėjo patikimumo pažymėjimo galiojimo sustabdymas, tiekėjo patikimumo pažymėjimo panaikinimas ^s-4c426f671f1bde4254b13151
 
 
-1. Išduoto tiekėjo patikimumo pažymėjimo galiojimas sustabdomas, kai tiekėjas ar su juo susiję asmenys yra įtariami ar kaltinami šio įstatymo [[#^s-38fbc021f0ba08d6e323faae|37 straipsnio 1 dalies]] 4 ir 5 punktuose nurodytų nusikalstamų veikų padarymu. ^s-7e996c3129a130bf563a6d86
+1. Išduoto tiekėjo patikimumo pažymėjimo galiojimas sustabdomas, kai tiekėjas ar su juo susiję asmenys yra įtariami ar kaltinami šio įstatymo [[#^s-38fbc021f0ba08d6e323faae|37 straipsnio 1 dalies]] [[#^s-75b92929c1cb08482800605a|4]] ir [[#^s-85f0bcb4d99d852c3631073a|5]] punktuose nurodytų nusikalstamų veikų padarymu. ^s-7e996c3129a130bf563a6d86
 
 
 2. Išduotas tiekėjo patikimumo pažymėjimas panaikinamas, kai: ^s-c7e5334b692046f56f2814da
@@ -1976,16 +1976,16 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 2) paaiškėja bent viena šio įstatymo [[#^s-38fbc021f0ba08d6e323faae|37 straipsnio 1 dalyje]] nurodyta aplinkybė. ^s-122aa49d8d41067c64b77e79
 
 
-3. Valstybės saugumo departamentas ne vėliau kaip per 5 darbo dienas nuo informacijos apie šio straipsnio 1 ir [[#^s-c7e5334b692046f56f2814da|2 dalyse]] numatytas aplinkybes gavimo ar paaiškėjimo dienos priima sprendimą sustabdyti tiekėjo patikimumo pažymėjimo ir šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims išduotų leidimų dirbti ar susipažinti su įslaptinta informacija galiojimą arba panaikinti tiekėjo patikimumo pažymėjimą ir apie tai informuoja tiekėją, įslaptintų sandorių saugumą užtikrinančią instituciją ir paslapčių subjektus, turinčius su tiekėju sudarytų ir nebaigtų vykdyti įslaptintų sandorių. ^s-a60c72f4e9d9553f4d7a5cdb
+3. Valstybės saugumo departamentas ne vėliau kaip per 5 darbo dienas nuo informacijos apie šio straipsnio [[#^s-7e996c3129a130bf563a6d86|1]] ir [[#^s-c7e5334b692046f56f2814da|2]] dalyse numatytas aplinkybes gavimo ar paaiškėjimo dienos priima sprendimą sustabdyti tiekėjo patikimumo pažymėjimo ir šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims išduotų leidimų dirbti ar susipažinti su įslaptinta informacija galiojimą arba panaikinti tiekėjo patikimumo pažymėjimą ir apie tai informuoja tiekėją, įslaptintų sandorių saugumą užtikrinančią instituciją ir paslapčių subjektus, turinčius su tiekėju sudarytų ir nebaigtų vykdyti įslaptintų sandorių. ^s-a60c72f4e9d9553f4d7a5cdb
 
 
 4. Įslaptintą sandorį sudaręs paslapčių subjektas ne vėliau kaip per 15 darbo dienų nuo informacijos apie tiekėjo patikimumo pažymėjimo galiojimo sustabdymą gavimo dienos sustabdo sudaryto įslaptinto sandorio vykdymą, o gavęs informaciją apie tiekėjo patikimumo pažymėjimo panaikinimą, per šioje dalyje numatytą terminą nutraukia sudarytą įslaptintą sandorį arba kreipiasi į Paslapčių apsaugos koordinavimo komisiją dėl leidimo baigti vykdyti sandorį. ^s-6518b6738db3acf3c19fd070
 
 
-5. Sustabdžius tiekėjo patikimumo pažymėjimo galiojimą, panaikinus tiekėjo patikimumo pažymėjimą arba pasibaigus tiekėjo patikimumo pažymėjimo galiojimo terminui, sudaryto įslaptinto sandorio vykdymas gali būti nestabdomas arba sudarytas įslaptintas sandoris gali būti nenutraukiamas (išskyrus atvejus, kai nustatoma šio įstatymo [[#^s-38fbc021f0ba08d6e323faae|37 straipsnio 1 dalies]] 6, 7, 8 ir 9 punktuose nurodytų aplinkybių), jeigu įslaptintas sandoris yra vykdomas ir žala dėl įslaptinto sandorio sustabdymo ar nutraukimo būtų neproporcingai didesnė negu galima grėsmė įslaptintai informacijai. Sprendimą leisti baigti vykdyti įslaptintą sandorį, susijusį su įslaptinta informacija, žymima slaptumo žymomis „Visiškai slaptai“, „Slaptai“ ir „Konfidencialiai“, priima ir apie tai paslapčių subjektą informuoja Paslapčių apsaugos koordinavimo komisija ne vėliau kaip per 15 darbo dienų nuo paslapčių subjekto kreipimosi dėl leidimo baigti vykdyti sandorį gavimo dienos. [[#^s-6518b6738db3acf3c19fd070|Šio straipsnio 4 dalyje]] numatytas terminas nutraukti sudarytą įslaptintą sandorį sustabdomas iki Paslapčių apsaugos koordinavimo komisijos sprendimo gavimo paslapčių subjekte dienos. ^s-db651187753037477a8eda71
+5. Sustabdžius tiekėjo patikimumo pažymėjimo galiojimą, panaikinus tiekėjo patikimumo pažymėjimą arba pasibaigus tiekėjo patikimumo pažymėjimo galiojimo terminui, sudaryto įslaptinto sandorio vykdymas gali būti nestabdomas arba sudarytas įslaptintas sandoris gali būti nenutraukiamas (išskyrus atvejus, kai nustatoma šio įstatymo [[#^s-38fbc021f0ba08d6e323faae|37 straipsnio 1 dalies]] [[#^s-7d8e824a01292ef230a21923|6]], [[#^s-4fb7fe0d3dea3a178ab6c191|7]], [[#^s-4ad521e7d9801a036b550a45|8]] ir [[#^s-f5a57be3ef9426dc19440622|9]] punktuose nurodytų aplinkybių), jeigu įslaptintas sandoris yra vykdomas ir žala dėl įslaptinto sandorio sustabdymo ar nutraukimo būtų neproporcingai didesnė negu galima grėsmė įslaptintai informacijai. Sprendimą leisti baigti vykdyti įslaptintą sandorį, susijusį su įslaptinta informacija, žymima slaptumo žymomis „Visiškai slaptai“, „Slaptai“ ir „Konfidencialiai“, priima ir apie tai paslapčių subjektą informuoja Paslapčių apsaugos koordinavimo komisija ne vėliau kaip per 15 darbo dienų nuo paslapčių subjekto kreipimosi dėl leidimo baigti vykdyti sandorį gavimo dienos. [[#^s-6518b6738db3acf3c19fd070|Šio straipsnio 4 dalyje]] numatytas terminas nutraukti sudarytą įslaptintą sandorį sustabdomas iki Paslapčių apsaugos koordinavimo komisijos sprendimo gavimo paslapčių subjekte dienos. ^s-db651187753037477a8eda71
 
 
-6. Jeigu [[#^s-7e996c3129a130bf563a6d86|šio straipsnio 1 dalyje]] nurodytais atvejais pradėtas ikiteisminis tyrimas nutraukiamas, įsiteisėja teismo nuosprendis, kuriuo asmuo išteisinamas dėl šio įstatymo [[#^s-38fbc021f0ba08d6e323faae|37 straipsnio 1 dalies]] 4 ir 5 punktuose nurodytų nusikalstamų veikų padarymo, ar baudžiamoji byla nutraukiama, Valstybės saugumo departamentas ne vėliau kaip per 5 darbo dienas nuo šios informacijos gavimo ar paaiškėjimo dienos priima sprendimą atnaujinti tiekėjui išduoto tiekėjo patikimumo pažymėjimo ir šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims išduotų leidimų dirbti ar susipažinti su įslaptinta informacija galiojimą ir apie tai informuoja tiekėją, įslaptintų sandorių saugumą užtikrinančią instituciją ir paslapčių subjektus, turinčius su tiekėju sudarytų įslaptintų sandorių, kurių vykdymas yra sustabdytas. ^s-200822f1844e81b74e714b0f
+6. Jeigu [[#^s-7e996c3129a130bf563a6d86|šio straipsnio 1 dalyje]] nurodytais atvejais pradėtas ikiteisminis tyrimas nutraukiamas, įsiteisėja teismo nuosprendis, kuriuo asmuo išteisinamas dėl šio įstatymo [[#^s-38fbc021f0ba08d6e323faae|37 straipsnio 1 dalies]] [[#^s-75b92929c1cb08482800605a|4]] ir [[#^s-85f0bcb4d99d852c3631073a|5]] punktuose nurodytų nusikalstamų veikų padarymo, ar baudžiamoji byla nutraukiama, Valstybės saugumo departamentas ne vėliau kaip per 5 darbo dienas nuo šios informacijos gavimo ar paaiškėjimo dienos priima sprendimą atnaujinti tiekėjui išduoto tiekėjo patikimumo pažymėjimo ir šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims išduotų leidimų dirbti ar susipažinti su įslaptinta informacija galiojimą ir apie tai informuoja tiekėją, įslaptintų sandorių saugumą užtikrinančią instituciją ir paslapčių subjektus, turinčius su tiekėju sudarytų įslaptintų sandorių, kurių vykdymas yra sustabdytas. ^s-200822f1844e81b74e714b0f
 
 
 7. Valstybės saugumo departamento sprendimai sustabdyti tiekėjui išduoto tiekėjo patikimumo pažymėjimo galiojimą, panaikinti išduotą tiekėjo patikimumo pažymėjimą gali būti skundžiami [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-6b673b88150db4a369fe24e0
@@ -2000,28 +2000,28 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 ### 381 straipsnis. Tiekėjo atitikties įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimams vertinimas, įslaptintų sandorių, kuriuos vykdant dirbama ar susipažįstama su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, nutraukimas ^s-f3f4bfcc9744bed6625ebfb0
 
 
-1. Vertinant tiekėjo atitiktį įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimams, tikrinama: ^s-ec55e63b65c4275c9e33df3c
+1. Vertinant tiekėjo atitiktį įslaptintos informacijos, žymimos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), apsaugos reikalavimams, tikrinama: ^s-ec55e63b65c4275c9e33df3c
 
 
-1) kaip įgyvendinami šio įstatymo 31 ir [[#^s-fc7a8e0d0984eb5095fe44a0|42 straipsniuose]] nustatyti įslaptintos informacijos apsaugos reikalavimai; ^s-45851ca15b0e0f6d04c2af64
+1) kaip įgyvendinami šio įstatymo [[#^s-530fe2d5a0e51f3cdc894ce3|31]] ir [[#^s-fc7a8e0d0984eb5095fe44a0|42]] straipsniuose nustatyti įslaptintos informacijos apsaugos reikalavimai; ^s-45851ca15b0e0f6d04c2af64
 
 
 2) ar šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodyti asmenys neatitinka šio įstatymo [[#^s-7151efdc1742f8bf32cbceea|16 straipsnio 2 dalyje]] nustatytų sąlygų. ^s-8a30d4c5405c1af179399945
 
 
-2. Įslaptintų sandorių saugumą užtikrinanti institucija, atlikdama tiekėjo atitikties įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimams vertinimą, turi teisę neatlygintinai gauti visą informaciją, susijusią su tiekėjo, šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytų asmenų patikimumo vertinimu, iš valstybės informacinių išteklių, valstybės, savivaldybės institucijų, kitų įmonių, įstaigų, organizacijų, juridinių ir fizinių asmenų. ^s-c7aa30899d00ca92100667a6
+2. Įslaptintų sandorių saugumą užtikrinanti institucija, atlikdama tiekėjo atitikties įslaptintos informacijos, žymimos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), apsaugos reikalavimams vertinimą, turi teisę neatlygintinai gauti visą informaciją, susijusią su tiekėjo, šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytų asmenų patikimumo vertinimu, iš valstybės informacinių išteklių, valstybės, savivaldybės institucijų, kitų įmonių, įstaigų, organizacijų, juridinių ir fizinių asmenų. ^s-c7aa30899d00ca92100667a6
 
 
-3. Tiekėjai, kreipdamiesi į įslaptintų sandorių saugumą užtikrinančią instituciją dėl atitikties įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimams vertinimo, privalo pateikti: ^s-6dbbdc0694e89310580fd72d
+3. Tiekėjai, kreipdamiesi į įslaptintų sandorių saugumą užtikrinančią instituciją dėl atitikties įslaptintos informacijos, žymimos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), apsaugos reikalavimams vertinimo, privalo pateikti: ^s-6dbbdc0694e89310580fd72d
 
 
 1) šio įstatymo [[#^s-e08dfacefbfad1f309c8c5b7|35 straipsnio 1 dalies]] 4 ir (ar) 5 punktuose nurodytą informaciją (kai vykdant įslaptintą sandorį bus dirbama ar susipažįstama su įslaptinta informacija tiekėjo patalpose ir (ar) tiekėjo ĮIRIS); ^s-6df3dd5b9d15378a962af1ee
 
 
-2) šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytų asmenų prašymus suteikti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, ir kitą informaciją, reikalingą tikrinimui dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo atlikti. ^s-529c61fd4e16fc3306d31370
+2) šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytų asmenų prašymus suteikti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), ir kitą informaciją, reikalingą tikrinimui dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), suteikimo atlikti. ^s-529c61fd4e16fc3306d31370
 
 
-4. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, nesuteikiama šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims: ^s-ed12bdc67cc91a6c2ff50993
+4. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), nesuteikiama šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims: ^s-ed12bdc67cc91a6c2ff50993
 
 
 1) jeigu jie yra tiekėjo, kuris registruotas ne Lietuvos Respublikoje, darbuotojai; ^s-02dafa2827d0022ee6df5d4a
@@ -2030,16 +2030,16 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 2) jeigu atliekant tikrinimą nustatoma, kad jie atitinka bent vieną iš šio įstatymo [[#^s-7151efdc1742f8bf32cbceea|16 straipsnio 2 dalyje]] nustatytų sąlygų. ^s-f33237652290d9fe6f4e03f1
 
 
-5. Įslaptintų sandorių saugumą užtikrinančios institucijos sprendimą dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikimo šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims priima ne vėliau kaip per 30 darbo dienų nuo asmens prašymo suteikti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, gavimo dienos. Jeigu iš institucijų ar specialistų tikrinimui atlikti reikalingos informacijos ar išvadų negaunama, šis terminas įslaptintų sandorių saugumą užtikrinančios institucijos vadovo ar jo įgalioto asmens sprendimu pratęsiamas, bet ne ilgiau kaip 10 darbo dienų. ^s-3ffe6215b4bfa10a573aa38e
+5. Įslaptintų sandorių saugumą užtikrinančios institucijos sprendimą dėl teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), suteikimo šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims priima ne vėliau kaip per 30 darbo dienų nuo asmens prašymo suteikti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), gavimo dienos. Jeigu iš institucijų ar specialistų tikrinimui atlikti reikalingos informacijos ar išvadų negaunama, šis terminas įslaptintų sandorių saugumą užtikrinančios institucijos vadovo ar jo įgalioto asmens sprendimu pratęsiamas, bet ne ilgiau kaip 10 darbo dienų. ^s-3ffe6215b4bfa10a573aa38e
 
 
-6. Šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikiama 5 metams. ^s-301d03bd3ebea288caa9238e
+6. Šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), suteikiama 5 metams. ^s-301d03bd3ebea288caa9238e
 
 
-7. Įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos reikalavimus atitinkančiu laikomas tiekėjas, kuris turi šio įstatymo [[#^s-29f03fcc7e67a9cddb709f30|36 straipsnio]] 4 ir (ar) [[#^s-3ffe6215b4bfa10a573aa38e|5 dalyse]] nurodytus leidimus (kai vykdant įslaptintą sandorį bus dirbama ar susipažįstama su įslaptinta informacija tiekėjo patalpose ir (ar) tiekėjo ĮIRIS) ir kurio šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“. ^s-d0adc53db16497c50d0d32aa
+7. Įslaptintos informacijos, žymimos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), apsaugos reikalavimus atitinkančiu laikomas tiekėjas, kuris turi šio įstatymo [[#^s-29f03fcc7e67a9cddb709f30|36 straipsnio]] 4 ir (ar) [[#^s-3ffe6215b4bfa10a573aa38e|5 dalyse]] nurodytus leidimus (kai vykdant įslaptintą sandorį bus dirbama ar susipažįstama su įslaptinta informacija tiekėjo patalpose ir (ar) tiekėjo ĮIRIS) ir kurio šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7). ^s-d0adc53db16497c50d0d32aa
 
 
-8. Šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, panaikinama, kai: ^s-fe9799ff3ce7c604dffd3537
+8. Šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), panaikinama, kai: ^s-fe9799ff3ce7c604dffd3537
 
 
 1) asmuo pažeidė nustatytus įslaptintos informacijos apsaugos reikalavimus ir tai lėmė tiekėjui patikėtos įslaptintos informacijos neteisėtą atskleidimą ar praradimą arba sukėlė įslaptintos informacijos praradimo ar neteisėto atskleidimo grėsmę; ^s-29287b2f70f1211533104544
@@ -2048,13 +2048,13 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 2) paaiškėja, kad asmuo atitinka bent vieną šio įstatymo [[#^s-7151efdc1742f8bf32cbceea|16 straipsnio 2 dalyje]] nustatytų sąlygų. ^s-e02437811fdbeae173303d91
 
 
-9. Įslaptintų sandorių saugumą užtikrinanti institucija ne vėliau kaip per 5 darbo dienas nuo informacijos apie [[#^s-fe9799ff3ce7c604dffd3537|šio straipsnio 8 dalyje]] numatytas aplinkybes gavimo ar paaiškėjimo dienos priima sprendimą panaikinti šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims suteiktą teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, ir apie tai informuoja tiekėją ir paslapčių subjektus, turinčius su tiekėju sudarytų ir nebaigtų vykdyti įslaptintų sandorių. ^s-297ee5a2f0afc95ddb089237
+9. Įslaptintų sandorių saugumą užtikrinanti institucija ne vėliau kaip per 5 darbo dienas nuo informacijos apie [[#^s-fe9799ff3ce7c604dffd3537|šio straipsnio 8 dalyje]] numatytas aplinkybes gavimo ar paaiškėjimo dienos priima sprendimą panaikinti šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims suteiktą teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), ir apie tai informuoja tiekėją ir paslapčių subjektus, turinčius su tiekėju sudarytų ir nebaigtų vykdyti įslaptintų sandorių. ^s-297ee5a2f0afc95ddb089237
 
 
-10. Įslaptintas sandoris, kurį vykdant dirbama ar susipažįstama su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, nutraukiamas, kai: ^s-7e2605b17beee59db27f5e95
+10. Įslaptintas sandoris, kurį vykdant dirbama ar susipažįstama su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), nutraukiamas, kai: ^s-7e2605b17beee59db27f5e95
 
 
-1) bent vienam šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytų asmenų panaikinta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, neteko galios arba pasibaigė šios teisės galiojimo terminas ir to asmens negalima pakeisti kitu asmeniu; ^s-0bbee0e1f4d74867f617a008
+1) bent vienam šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytų asmenų panaikinta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), neteko galios arba pasibaigė šios teisės galiojimo terminas ir to asmens negalima pakeisti kitu asmeniu; ^s-0bbee0e1f4d74867f617a008
 
 
 2) paaiškėja, kad, vykdydamas sandorį, tiekėjas nesilaiko šio įstatymo [[#^s-29f03fcc7e67a9cddb709f30|36 straipsnio]] 4 ir (ar) [[#^s-3ffe6215b4bfa10a573aa38e|5 dalių]] nuostatų ir dirba su įslaptinta informacija ar tokią informaciją saugo patalpose, kuriose dirbti su įslaptinta informacija ar tokią informaciją saugoti leidimas neišduotas, ir (arba) apdoroja ar saugo įslaptintą informaciją ar tokią informaciją perduoda ĮIRIS, kurias naudoti nėra išduotas leidimas; ^s-ae9103bf07d619d1911a6599
@@ -2063,16 +2063,16 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 3) tiekėjas ar jo darbuotojas pažeidė nustatytus įslaptintos informacijos apsaugos reikalavimus ir tai lėmė tiekėjui patikėtos įslaptintos informacijos neteisėtą atskleidimą ar praradimą arba sukėlė įslaptintos informacijos praradimo ar neteisėto atskleidimo grėsmę. ^s-ae84c07aa89ef0263b6c78fb
 
 
-11. Įslaptintą sandorį sudaręs paslapčių subjektas ne vėliau kaip per 15 darbo dienų nuo [[#^s-7e2605b17beee59db27f5e95|šio straipsnio 10 dalyje]] numatytų aplinkybių paaiškėjimo dienos arba nutraukia sudarytą įslaptintą sandorį, kurį vykdant dirbama ar susipažįstama su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, ir ne vėliau kaip per 15 darbo dienų nuo sandorio nutraukimo dienos informuoja apie tai įslaptintų sandorių saugumą užtikrinančią instituciją, arba kreipiasi į Paslapčių apsaugos koordinavimo komisiją dėl leidimo baigti vykdyti įslaptintą sandorį. ^s-a1f9dc396eb5c127df59e585
+11. Įslaptintą sandorį sudaręs paslapčių subjektas ne vėliau kaip per 15 darbo dienų nuo [[#^s-7e2605b17beee59db27f5e95|šio straipsnio 10 dalyje]] numatytų aplinkybių paaiškėjimo dienos arba nutraukia sudarytą įslaptintą sandorį, kurį vykdant dirbama ar susipažįstama su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), ir ne vėliau kaip per 15 darbo dienų nuo sandorio nutraukimo dienos informuoja apie tai įslaptintų sandorių saugumą užtikrinančią instituciją, arba kreipiasi į Paslapčių apsaugos koordinavimo komisiją dėl leidimo baigti vykdyti įslaptintą sandorį. ^s-a1f9dc396eb5c127df59e585
 
 
 12. Atsiradus [[#^s-7e2605b17beee59db27f5e95|šio straipsnio 10 dalyje]] numatytoms aplinkybėms, sudarytas įslaptintas sandoris gali būti nenutraukiamas, jeigu įslaptintas sandoris yra vykdomas ir žala dėl įslaptinto sandorio nutraukimo būtų neproporcingai didesnė negu galima grėsmė įslaptintai informacijai. Sprendimą leisti baigti vykdyti įslaptintą sandorį priima ir apie tai paslapčių subjektą informuoja Paslapčių apsaugos koordinavimo komisija ne vėliau kaip per 15 darbo dienų nuo paslapčių subjekto kreipimosi dėl leidimo baigti vykdyti sandorį gavimo dienos. [[#^s-a1f9dc396eb5c127df59e585|Šio straipsnio 11 dalyje]] numatytas terminas nutraukti sudarytą įslaptintą sandorį sustabdomas iki Paslapčių apsaugos koordinavimo komisijos sprendimo gavimo paslapčių subjekte dienos. ^s-4fa722dd85a16368918aed4c
 
 
-13. [[#^s-7e2605b17beee59db27f5e95|Šio straipsnio 10 dalyje]] nustatytais atvejais nutraukus įslaptintą sandorį, kurį vykdant dirbama ar susipažįstama su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, netenka galios. ^s-5866f3088de578f40c0f4f77
+13. [[#^s-7e2605b17beee59db27f5e95|Šio straipsnio 10 dalyje]] nustatytais atvejais nutraukus įslaptintą sandorį, kurį vykdant dirbama ar susipažįstama su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), netenka galios. ^s-5866f3088de578f40c0f4f77
 
 
-14. Įslaptintų sandorių saugumą užtikrinančios institucijos sprendimai nesuteikti šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, arba panaikinti tokią jiems suteiktą teisę, gali būti skundžiami [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-ec898a38c3942d574ee2216b
+14. Įslaptintų sandorių saugumą užtikrinančios institucijos sprendimai nesuteikti šio įstatymo [[#^s-3e9137bde6239eeed7a9eb8b|35 straipsnio 1 dalies 3 punkte]] nurodytiems asmenims teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), arba panaikinti tokią jiems suteiktą teisę, gali būti skundžiami [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-ec898a38c3942d574ee2216b
 
 
 Papildyta straipsniu:
@@ -2083,13 +2083,13 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 ### 39 straipsnis. Įslaptintų sandorių sudarymas su fiziniu asmeniu ^s-d42248166aac7a94e26db418
 
 
-1. Įslaptintus sandorius sudaryti ir vykdyti gali fizinis asmuo, kuriam yra išduotas tiekėjo leidimas dirbti ar susipažinti su įslaptinta informacija arba suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“. Tiekėjo leidimas dirbti ar susipažinti su įslaptinta informacija išduodamas, jeigu asmuo atitinka šio įstatymo [[#^s-6150118d3009430f014831de|17 straipsnio 1 dalyje]] nustatytas leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo sąlygas, teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikiama, jeigu asmuo neatitinka šio įstatymo [[#^s-7151efdc1742f8bf32cbceea|16 straipsnio 2 dalyje]] nustatytų sąlygų. ^s-c086648524e8fa7fe872a1fe
+1. Įslaptintus sandorius sudaryti ir vykdyti gali fizinis asmuo, kuriam yra išduotas tiekėjo leidimas dirbti ar susipažinti su įslaptinta informacija arba suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7). Tiekėjo leidimas dirbti ar susipažinti su įslaptinta informacija išduodamas, jeigu asmuo atitinka šio įstatymo [[#^s-6150118d3009430f014831de|17 straipsnio 1 dalyje]] nustatytas leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo sąlygas, teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), suteikiama, jeigu asmuo neatitinka šio įstatymo [[#^s-7151efdc1742f8bf32cbceea|16 straipsnio 2 dalyje]] nustatytų sąlygų. ^s-c086648524e8fa7fe872a1fe
 
 
-2. Jeigu įslaptintas sandoris bus vykdomas fiziniam asmeniui priklausančiose patalpose ir (ar) įslaptintai informacijai apdoroti ar perduoti bus naudojamos fiziniam asmeniui priklausančios ĮIRIS, taikomos šio įstatymo [[#^s-29f03fcc7e67a9cddb709f30|36 straipsnio]] 4 ir [[#^s-a8c6bd96fb63ee58910b5494|5 dalių]] nuostatos. ^s-34351d2ecf852a54db0152ee
+2. Jeigu įslaptintas sandoris bus vykdomas fiziniam asmeniui priklausančiose patalpose ir (ar) įslaptintai informacijai apdoroti ar perduoti bus naudojamos fiziniam asmeniui priklausančios ĮIRIS, taikomos šio įstatymo [[#^s-29f03fcc7e67a9cddb709f30|36 straipsnio]] [[#^s-5e844be9619ccc89f8981536|4]] ir [[#^s-5ef7ece2b9e296db51f3a0e3|5]] dalių nuostatos. ^s-34351d2ecf852a54db0152ee
 
 
-3. Tiekėjo leidimą dirbti ar susipažinti su įslaptinta informacija išduoda arba teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikia Valstybės saugumo departamentas. ^s-5924184227fd51888664df59
+3. Tiekėjo leidimą dirbti ar susipažinti su įslaptinta informacija išduoda arba teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), suteikia Valstybės saugumo departamentas. ^s-5924184227fd51888664df59
 
 
 4. Tiekėjo leidimas dirbti ar susipažinti su įslaptinta informacija išduodamas terminuotam laikotarpiui: ^s-7a7888ebe238cac7e596c8f6
@@ -2101,25 +2101,25 @@ Nr. XV-703, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23002
 2) 5 metams – leidimas, suteikiantis teisę sudaryti įslaptintus sandorius, kuriuos vykdant susipažįstama su įslaptinta informacija, žymima slaptumo žymomis „Slaptai“ ir „Konfidencialiai“, ar tokia informacija sukuriama. ^s-8e75a8dd23586a17254da5e8
 
 
-5. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, suteikiama 5 metams. ^s-a8c6bd96fb63ee58910b5494
+5. Teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), suteikiama 5 metams. ^s-a8c6bd96fb63ee58910b5494
 
 
-6. Fiziniam asmeniui, sudariusiam įslaptintą sandorį, yra taikomi šio įstatymo [[#^s-122132bb6d8cc0d936036b40|33 straipsnio 9 dalies]] 1, 5–9 punktų reikalavimai. ^s-02a1be8dc01f6291d5446afa
+6. Fiziniam asmeniui, sudariusiam įslaptintą sandorį, yra taikomi šio įstatymo [[#^s-122132bb6d8cc0d936036b40|33 straipsnio 9 dalies]] [[#^s-c65ab97b08fc3594620a80de|1]], [[#^s-8ba7f810d0c3ab9831e7fcd6|5]]–[[#^s-1e0f8434aaa29dd5fad1c730|9]] punktų reikalavimai. ^s-02a1be8dc01f6291d5446afa
 
 
 7. Tiekėjo leidimas dirbti ar susipažinti su įslaptinta informacija panaikinamas, kai nustatoma šio įstatymo [[#^s-db4117c19ce54fc2a531e142|38 straipsnio 2 dalies 1 punkte]] nurodytų aplinkybių arba paaiškėja, kad tiekėjas neatitinka šio įstatymo [[#^s-6150118d3009430f014831de|17 straipsnio 1 dalyje]] nustatytų leidimo dirbti ar susipažinti su įslaptinta informacija išdavimo sąlygų. ^s-121c59a0114569e7691ae04a
 
 
-8. Tiekėjui suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, panaikinama, kai nustatoma šio įstatymo [[#^s-29287b2f70f1211533104544|381 straipsnio 8 dalies 1 punkte]] nurodytų aplinkybių arba paaiškėja, kad asmuo atitinka bent vieną šio įstatymo [[#^s-7151efdc1742f8bf32cbceea|16 straipsnio 2 dalyje]] nustatytų sąlygų. ^s-90820256127f1b6610be0ddd
+8. Tiekėjui suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), panaikinama, kai nustatoma šio įstatymo [[#^s-29287b2f70f1211533104544|381 straipsnio 8 dalies 1 punkte]] nurodytų aplinkybių arba paaiškėja, kad asmuo atitinka bent vieną šio įstatymo [[#^s-7151efdc1742f8bf32cbceea|16 straipsnio 2 dalyje]] nustatytų sąlygų. ^s-90820256127f1b6610be0ddd
 
 
-9. Šio įstatymo nustatyta tvarka panaikinus tiekėjo leidimą dirbti ar susipažinti su įslaptinta informacija, tiekėjui suteiktą teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, įslaptintą sandorį sudaręs paslapčių subjektas ne vėliau kaip per 15 darbo dienų arba nutraukia sudarytą įslaptintą sandorį ir ne vėliau kaip per 15 darbo dienų nuo sandorio nutraukimo dienos informuoja apie tai įslaptintų sandorių saugumą užtikrinančią instituciją, arba kreipiasi į Paslapčių apsaugos koordinavimo komisiją dėl leidimo baigti vykdyti įslaptintą sandorį. ^s-7d0350dd80fa36a1296e5977
+9. Šio įstatymo nustatyta tvarka panaikinus tiekėjo leidimą dirbti ar susipažinti su įslaptinta informacija, tiekėjui suteiktą teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), įslaptintą sandorį sudaręs paslapčių subjektas ne vėliau kaip per 15 darbo dienų arba nutraukia sudarytą įslaptintą sandorį ir ne vėliau kaip per 15 darbo dienų nuo sandorio nutraukimo dienos informuoja apie tai įslaptintų sandorių saugumą užtikrinančią instituciją, arba kreipiasi į Paslapčių apsaugos koordinavimo komisiją dėl leidimo baigti vykdyti įslaptintą sandorį. ^s-7d0350dd80fa36a1296e5977
 
 
 10. Atsiradus [[#^s-7d0350dd80fa36a1296e5977|šio straipsnio 9 dalyje]] numatytų aplinkybių sudarytas įslaptintas sandoris gali būti nenutraukiamas, jeigu įslaptintas sandoris yra vykdomas ir žala dėl įslaptinto sandorio nutraukimo būtų neproporcingai didesnė negu galima grėsmė įslaptintai informacijai. Sprendimą leisti baigti vykdyti įslaptintą sandorį priima ir apie tai paslapčių subjektą informuoja Paslapčių apsaugos koordinavimo komisija ne vėliau kaip per 15 darbo dienų nuo paslapčių subjekto kreipimosi dėl leidimo baigti vykdyti sandorį gavimo dienos. [[#^s-7d0350dd80fa36a1296e5977|Šio straipsnio 9 dalyje]] numatytas terminas nutraukti sudarytą įslaptintą sandorį sustabdomas iki Paslapčių apsaugos koordinavimo komisijos sprendimo gavimo paslapčių subjekte dienos. ^s-a63dc84d9f3a2abf78448ea5
 
 
-11. Valstybės saugumo departamento sprendimas panaikinti tiekėjo leidimą dirbti ar susipažinti su įslaptinta informacija ar panaikinti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, gali būti skundžiamas [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-5c3f4a81ff727f0867d6bfda
+11. Valstybės saugumo departamento sprendimas panaikinti tiekėjo leidimą dirbti ar susipažinti su įslaptinta informacija ar panaikinti teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), gali būti skundžiamas [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-5c3f4a81ff727f0867d6bfda
 
 
 Straipsnio pakeitimai:
@@ -2204,7 +2204,7 @@ Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
 4. Įslaptintą informaciją draudžiama perduoti viešaisiais ryšių tinklais neužšifruotą, išskyrus [[#^s-ba46cb9125221e84f7410101|šio straipsnio 5 dalyje]] nustatytus atvejus. ^s-e06ea8e2082e093aa7847baa
 
 
-5. Jeigu paskelbus karo ar nepaprastąją padėtį nėra galimybių užšifruoti informaciją, o pristatymo greitis yra svarbesnis negu galimas tokios informacijos atskleidimo pavojus, paslapčių subjekto, paslapčių subjekto padalinio, paslapčių subjektui pavaldžios ar jo reguliavimo sričiai priskirtos įstaigos, įmonės, disponuojančios įslaptinta informacija, vadovo sprendimu įslaptinta informacija, žymima slaptumo žymomis „Riboto naudojimo“, „Konfidencialiai“ ir „Slaptai“, perduodama viešaisiais ryšių tinklais neužšifruota. ^s-ba46cb9125221e84f7410101
+5. Jeigu paskelbus karo ar nepaprastąją padėtį nėra galimybių užšifruoti informaciją, o pristatymo greitis yra svarbesnis negu galimas tokios informacijos atskleidimo pavojus, paslapčių subjekto, paslapčių subjekto padalinio, paslapčių subjektui pavaldžios ar jo reguliavimo sričiai priskirtos įstaigos, įmonės, disponuojančios įslaptinta informacija, vadovo sprendimu įslaptinta informacija, žymima slaptumo žymomis [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), „Konfidencialiai“ ir „Slaptai“, perduodama viešaisiais ryšių tinklais neužšifruota. ^s-ba46cb9125221e84f7410101
 
 
 6. Kriptografinių produktų, mechanizmų ir įslaptintos informacijos apsauga turi atitikti žalos, kurią gali sukelti įslaptintos informacijos neteisėtas atskleidimas, dydį. ^s-319993508beea555c027fa53
@@ -2330,7 +2330,7 @@ Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 4. Lietuvos Respublikai perduotos užsienio valstybių, Europos Sąjungos ir tarptautinių organizacijų įslaptintos informacijos apsaugos būklės tikrinimą atlieka Paslapčių apsaugos koordinavimo komisija ir, vadovaudamosi šio įstatymo [[#^s-e9d8a486058a260cfab461c3|12 straipsnio 5 dalimi]], Paslapčių apsaugos koordinavimo komisijos įgaliotos institucijos. ^s-a6808fffb3a49e88de980a9e
 
 
-5. Lietuvos Respublikos įslaptintos informacijos ir Lietuvos Respublikai perduotos užsienio valstybių, Europos Sąjungos ir tarptautinių organizacijų įslaptintos informacijos, žymimos slaptumo žymos „Riboto naudojimo“ atitikmeniu, apsaugos būklė tikrinama ne rečiau kaip kartą per 4 metus, o Lietuvos Respublikai perduotos užsienio valstybių, Europos Sąjungos ir tarptautinių organizacijų įslaptintos informacijos, žymimos slaptumo žymų „Visiškai slaptai“, „Slaptai“ arba „Konfidencialiai“ atitikmenimis, apsaugos būklė – ne rečiau kaip kartą per 2 metus. ^s-04a57a890a2f6cfb49909c9e
+5. Lietuvos Respublikos įslaptintos informacijos ir Lietuvos Respublikai perduotos užsienio valstybių, Europos Sąjungos ir tarptautinių organizacijų įslaptintos informacijos, žymimos slaptumo žymos [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) atitikmeniu, apsaugos būklė tikrinama ne rečiau kaip kartą per 4 metus, o Lietuvos Respublikai perduotos užsienio valstybių, Europos Sąjungos ir tarptautinių organizacijų įslaptintos informacijos, žymimos slaptumo žymų „Visiškai slaptai“, „Slaptai“ arba „Konfidencialiai“ atitikmenimis, apsaugos būklė – ne rečiau kaip kartą per 2 metus. ^s-04a57a890a2f6cfb49909c9e
 Straipsnio dalies pakeitimai:
 Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
 
@@ -2448,7 +2448,7 @@ Nauja įstatymo redakcija
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2137, 2004-04-15, Žin., 2004, Nr. 68-2364 (2004-04-29)
-VALSTYBĖS IR TARNYBOS PASLAPČIŲ ĮSTATYMO, PAKEISTO [[latest/TAR.83D9F662C0E4|2003 M. GRUODŽIO 16 D. ĮSTATYMU NR. IX-1908]], [[#^s-75dc8e902b827ac986620afa|7 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+VALSTYBĖS IR TARNYBOS PASLAPČIŲ ĮSTATYMO, PAKEISTO [[latest/TAR.83D9F662C0E4|2003 M. GRUODŽIO 16 D. ĮSTATYMU NR. IX-1908]], [[#^s-75dc8e902b827ac986620afa|7]] STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2004 m. gegužės 1 d.
 Įstatymo atitaisymas skelbtas: Žin., 2004, Nr. 82 (2004-05-20)
 
@@ -2500,7 +2500,7 @@ Nr. XI-1266, 2010-12-23, Žin., 2011, Nr. 2-39 (2011-01-06)
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2183, 2012-06-29, Žin., 2012, Nr. 82-4269 (2012-07-13)
-[[#^s-4ee3b4cda041c2b4072275ba|VALSTYBĖS IR TARNYBOS PASLAPČIŲ ĮSTATYMO 2, 11, 16 STRAIPSNIŲ]], SEPTINTOJO SKIRSNIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 15(1) STRAIPSNIU ĮSTATYMAS
+VALSTYBĖS IR TARNYBOS PASLAPČIŲ ĮSTATYMO [[#^s-bfb6ba14b7548eef2033502f|2]], [[#^s-707996ce725ee188160817f8|11]], [[#^s-4ee3b4cda041c2b4072275ba|16]] STRAIPSNIŲ, SEPTINTOJO SKIRSNIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 15(1) STRAIPSNIU ĮSTATYMAS
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2518,7 +2518,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2011-07-07, Žin., 2011, Nr. 84-4106 (2011-07-12)
-DĖL LIETUVOS RESPUBLIKOS VALSTYBĖS IR TARNYBOS PASLAPČIŲ ĮSTATYMO (2003 M. GRUODŽIO 16 D. REDAKCIJA) 16 STRAIPSNIO 2 DALIES 13 PUNKTO, 18 STRAIPSNIO 1 DALIES 4 PUNKTO, [[latest/TAR.4FC026AC03AE#^s-45617dccef3ddcf7e6372716|LIETUVOS RESPUBLIKOS VIDAUS TARNYBOS STATUTO PATVIRTINIMO ĮSTATYMU PATVIRTINTO VIDAUS TARNYBOS STATUTO 28 STRAIPSNIO]] (2007 M. GEGUŽĖS 15 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS VALSTYBĖS IR TARNYBOS PASLAPČIŲ ĮSTATYMO (2003 M. GRUODŽIO 16 D. REDAKCIJA) 16 STRAIPSNIO 2 DALIES 13 PUNKTO, 18 STRAIPSNIO 1 DALIES 4 PUNKTO, LIETUVOS RESPUBLIKOS VIDAUS TARNYBOS STATUTO PATVIRTINIMO ĮSTATYMU PATVIRTINTO VIDAUS TARNYBOS STATUTO 28 STRAIPSNIO (2007 M. GEGUŽĖS 15 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.795349094022)
 
 
 
@@ -2543,12 +2543,12 @@ Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-437, 2017-06-13, paskelbta TAR 2017-06-19, i. k. 2017-10253
-Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 2, 13, 15, 16, 18, 19 ir [[#^s-29f03fcc7e67a9cddb709f30|36 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 [[#^s-bfb6ba14b7548eef2033502f|2]], [[#^s-6880b199846b8171178442a3|13]], [[#^s-f761eb96d21aeb4c7bdecc7e|15]], [[#^s-4ee3b4cda041c2b4072275ba|16]], [[#^s-b24ae41cb5b811cb21db234f|18]], [[#^s-df8cdfd65219aed52a99e0be|19]] ir [[#^s-29f03fcc7e67a9cddb709f30|36]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1013, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01026
-Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 4 ir [[#^s-75dc8e902b827ac986620afa|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 [[#^s-d4bbac17118a3236b19d920f|4]] ir [[#^s-75dc8e902b827ac986620afa|7]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2558,7 +2558,7 @@ Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1922, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00855
-Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 16 ir [[#^s-8c30efd9526d0c4cc134eb2c|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 [[#^s-4ee3b4cda041c2b4072275ba|16]] ir [[#^s-8c30efd9526d0c4cc134eb2c|17]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2568,27 +2568,27 @@ Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3073, 2020-06-23, paskelbta TAR 2020-06-29, i. k. 2020-14348
-Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 7, 17 ir [[#^s-29f03fcc7e67a9cddb709f30|36 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 [[#^s-75dc8e902b827ac986620afa|7]], [[#^s-8c30efd9526d0c4cc134eb2c|17]] ir [[#^s-29f03fcc7e67a9cddb709f30|36]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3255, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15770
-Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 12, 15, 16, 17, 18, 19, 20 ir [[#^s-10e532847220d7b6edcce771|35 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 [[#^s-011e75788ba7970d270bd193|12]], [[#^s-f761eb96d21aeb4c7bdecc7e|15]], [[#^s-4ee3b4cda041c2b4072275ba|16]], [[#^s-8c30efd9526d0c4cc134eb2c|17]], [[#^s-b24ae41cb5b811cb21db234f|18]], [[#^s-df8cdfd65219aed52a99e0be|19]], [[#^s-c8219770ae8b7a50b200b012|20]] ir [[#^s-10e532847220d7b6edcce771|35]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-282, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09684
-Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 4, 7, 8, 12, 13, 14, 15, 16, 17, 18, 19, 20, 24, 26, 27, 30, 31, 33, 35, 37, 38, 46, 47 ir [[#^s-8ab41cc659ccc91c7b22e3c4|48 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 [[#^s-d4bbac17118a3236b19d920f|4]], [[#^s-75dc8e902b827ac986620afa|7]], [[#^s-7a13240033dd17ea2d597d7a|8]], [[#^s-011e75788ba7970d270bd193|12]], [[#^s-6880b199846b8171178442a3|13]], [[#^s-21368d9e0b821c3f96826244|14]], [[#^s-f761eb96d21aeb4c7bdecc7e|15]], [[#^s-4ee3b4cda041c2b4072275ba|16]], [[#^s-8c30efd9526d0c4cc134eb2c|17]], [[#^s-b24ae41cb5b811cb21db234f|18]], [[#^s-df8cdfd65219aed52a99e0be|19]], [[#^s-c8219770ae8b7a50b200b012|20]], [[#^s-28ee2c2e5070bbc949a1c348|24]], [[#^s-582c7d774f2d98175101b271|26]], [[#^s-f7b91e722eaf3422b345da26|27]], [[#^s-31818c692126960615b22d6e|30]], [[#^s-530fe2d5a0e51f3cdc894ce3|31]], [[#^s-de05586b6bd9e4fefc5116dd|33]], [[#^s-10e532847220d7b6edcce771|35]], [[#^s-088673281c0e20ca4bc55e2d|37]], [[#^s-4c426f671f1bde4254b13151|38]], [[#^s-78bbfc8b86f0207810d52b79|46]], [[#^s-6fbd2a5b5032eee25c730e84|47]] ir [[#^s-8ab41cc659ccc91c7b22e3c4|48]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2911, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13546
-Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 4 ir [[#^s-75dc8e902b827ac986620afa|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 [[#^s-d4bbac17118a3236b19d920f|4]] ir [[#^s-75dc8e902b827ac986620afa|7]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3006, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17770
-Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 2, 6, 7, 12, 16, 17, 18, 20, 21, 22, 35, 36, [[#^s-19f4e82ebd67daae3bed2f59|43 straipsnių]] pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas
+Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo Nr. VIII-1443 [[#^s-bfb6ba14b7548eef2033502f|2]], [[#^s-bf4ba489c31d62c5bbd7f29c|6]], [[#^s-75dc8e902b827ac986620afa|7]], [[#^s-011e75788ba7970d270bd193|12]], [[#^s-4ee3b4cda041c2b4072275ba|16]], [[#^s-8c30efd9526d0c4cc134eb2c|17]], [[#^s-b24ae41cb5b811cb21db234f|18]], [[#^s-c8219770ae8b7a50b200b012|20]], [[#^s-668881ae8701e4526862c9b7|21]], [[#^s-3b2f21723a8ad89beed78b7e|22]], [[#^s-10e532847220d7b6edcce771|35]], [[#^s-29f03fcc7e67a9cddb709f30|36]], [[#^s-19f4e82ebd67daae3bed2f59|43]] straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas

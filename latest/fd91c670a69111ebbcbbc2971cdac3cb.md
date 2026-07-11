@@ -40,32 +40,32 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-c228aa98956381cb49f844a2
 
 
-1. Pakeisti 2 straipsnio 11 dalį ir ją išdėstyti taip: ^s-f42ee04d46aafc067fd626bd
+1. Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-0192adea25250bd9ff018e2d|2 straipsnio 11 dalį]] ir ją išdėstyti taip: ^s-f42ee04d46aafc067fd626bd
 
 
 „11. Selekcinis užmokestis – žemės naudotojo selekcininkui mokamas užmokestis už savo naudojamoje žemėje užaugintą ir toliau sėjai savo reikmėms naudojamą saugomos veislės dauginamąją medžiagą.“
 
 
-2. Pripažinti netekusia galios 2 straipsnio 12 dalį. ^s-81d5b9a3ce41d1b58183136d
+2. Pripažinti netekusia galios [[latest/TAR.7DE5B8AD5D5B#^s-80592adef582519248d51f70|2 straipsnio 12 dalį]]. ^s-81d5b9a3ce41d1b58183136d
 
 
 
 ### 2 straipsnis. 9 straipsnio pakeitimas ^s-7753962fbf33ab36d840668b
 
 
-1. Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip: ^s-d43e95bb55f38318597a620b
+1. Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-8b02465b7d7fd0244c27eec4|9 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-d43e95bb55f38318597a620b
 
 
 „1. Selekcininkas arba jo įgaliotasis atstovas (toliau – pareiškėjas), pageidaujantis, kad jo sukurtai ar atrastai ir išskirtai veislei būtų suteikta teisinė apsauga, pateikia Saugomų veislių sąrašo tvarkytojui paraišką.“
 
 
-2. Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip: ^s-634a1270612dd5ee9a2f7cf0
+2. Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-96fddf6f8e8fc042874943a3|9 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-634a1270612dd5ee9a2f7cf0
 
 
-„3. Dėl kiekvienos veislės pateikiama atskira paraiška. Paraiška ir kiti su paraiška susiję [[#^s-634a1270612dd5ee9a2f7cf0|šio straipsnio 2 dalyje]] nurodyti dokumentai pateikiami lietuvių kalba. Kai paraišką ir su ja susijusius [[#^s-634a1270612dd5ee9a2f7cf0|šio straipsnio 2 dalyje]] nurodytus dokumentus teikia kitos valstybės selekcininkas ar jo įgaliotasis atstovas, paraiška ir šie dokumentai gali būti pateikiami anglų kalba. Tuo atveju, kai paraiška ir kiti su paraiška susiję [[#^s-634a1270612dd5ee9a2f7cf0|šio straipsnio 2 dalyje]] nurodyti dokumentai pateikiami kita negu lietuvių ar anglų kalba, pateikiamas jų oficialus vertimas į lietuvių kalbą.“
+„3. Dėl kiekvienos veislės pateikiama atskira paraiška. Paraiška ir kiti su paraiška susiję [[latest/TAR.7DE5B8AD5D5B|šio straipsnio 2 dalyje]] nurodyti dokumentai pateikiami lietuvių kalba. Kai paraišką ir su ja susijusius [[latest/TAR.7DE5B8AD5D5B|šio straipsnio 2 dalyje]] nurodytus dokumentus teikia kitos valstybės selekcininkas ar jo įgaliotasis atstovas, paraiška ir šie dokumentai gali būti pateikiami anglų kalba. Tuo atveju, kai paraiška ir kiti su paraiška susiję [[latest/TAR.7DE5B8AD5D5B|šio straipsnio 2 dalyje]] nurodyti dokumentai pateikiami kita negu lietuvių ar anglų kalba, pateikiamas jų oficialus vertimas į lietuvių kalbą.“
 
 
-3. Pakeisti 9 straipsnio 6 dalį ir ją išdėstyti taip: ^s-0401a44083c361372f50d242
+3. Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-349882d6feb3508b1561b0cc|9 straipsnio 6 dalį]] ir ją išdėstyti taip: ^s-0401a44083c361372f50d242
 
 
 „6. Paraiškos pateikimo data laikoma diena, kurią Saugomų veislių sąrašo tvarkytojas gavo paraišką. Jeigu pareiškėjas pateikė ne visus Saugomų veislių sąrašo tvarkytojo nustatytus dokumentus ar (ir) nesumokėjo valstybės rinkliavos už paraiškos ekspertizę, Saugomų veislių sąrašo tvarkytojas per 3 darbo dienas nuo paraiškos gavimo dienos praneša pareiškėjui raštu apie nustatytus trūkumus ir nurodo šių trūkumų pašalinimo terminą, kuris negali būti ilgesnis kaip 10 darbo dienų. Šiuo atveju paraiškos pateikimo data laikoma diena, kurią pateikiami visi trūkstami dokumentai ar (ir) sumokama valstybės rinkliava už paraiškos ekspertizę.“
@@ -74,10 +74,10 @@ Vilnius
 ### 3 straipsnis. 10 straipsnio pakeitimas ^s-d262c799964a17754aff2a55
 
 
-Pakeisti 10 straipsnio 3 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-085c1585262c29cda952bc0c|10 straipsnio 3 dalį]] ir ją išdėstyti taip:
 
 
-„3. Pareiškėjas, norintis pasinaudoti paraiškos pirmenybės teise šio straipsnio 2 dalyje nurodytu atveju, privalo ne vėliau kaip per tris mėnesius nuo paraiškos pateikimo Saugomų veislių sąrašo tvarkytojui dienos pateikti pirmosios paraiškos kopiją, patvirtintą ją priėmusios kompetentingos kitos valstybės institucijos. Saugomų veislių sąrašo tvarkytojas gali pareikalauti iš pareiškėjo papildomų dokumentų ar kitų įrodymų, patvirtinančių, kad abiejų paraiškų objektas yra ta pati veislė.“
+„3. Pareiškėjas, norintis pasinaudoti paraiškos pirmenybės teise [[latest/TAR.7DE5B8AD5D5B|šio straipsnio 2 dalyje]] nurodytu atveju, privalo ne vėliau kaip per tris mėnesius nuo paraiškos pateikimo Saugomų veislių sąrašo tvarkytojui dienos pateikti pirmosios paraiškos kopiją, patvirtintą ją priėmusios kompetentingos kitos valstybės institucijos. Saugomų veislių sąrašo tvarkytojas gali pareikalauti iš pareiškėjo papildomų dokumentų ar kitų įrodymų, patvirtinančių, kad abiejų paraiškų objektas yra ta pati veislė.“
 
 
 ### 4 straipsnis. 11 straipsnio pakeitimas ^s-5647b4e3bd5572f19066cd25
@@ -92,10 +92,10 @@ Pakeisti [[#^s-e72c1236e5463fc165e0bd5f|11 straipsnio 2 dalį]] ir ją išdėsty
 ### 5 straipsnis. 12 straipsnio pakeitimas ^s-a8ca38a7787375039d025242
 
 
-Pakeisti 12 straipsnio 3 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-d881d7fc40c031e879c0fac0|12 straipsnio 3 dalį]] ir ją išdėstyti taip:
 
 
-„3. Saugomų veislių sąrašo tvarkytojas, nustatęs, kad veislė neatitinka šio straipsnio 2 dalyje nustatytų reikalavimų, apie tai raštu praneša pareiškėjui. Jeigu pareiškėjas per Saugomų veislių sąrašo tvarkytojo nurodytą terminą, kuris negali būti ilgesnis kaip 10 darbo dienų, nustatytų trūkumų nepašalina, Saugomų veislių sąrašo tvarkytojas priima sprendimą atmesti paraišką ir apie tai raštu praneša pareiškėjui.“
+„3. Saugomų veislių sąrašo tvarkytojas, nustatęs, kad veislė neatitinka [[latest/TAR.7DE5B8AD5D5B|šio straipsnio 2 dalyje]] nustatytų reikalavimų, apie tai raštu praneša pareiškėjui. Jeigu pareiškėjas per Saugomų veislių sąrašo tvarkytojo nurodytą terminą, kuris negali būti ilgesnis kaip 10 darbo dienų, nustatytų trūkumų nepašalina, Saugomų veislių sąrašo tvarkytojas priima sprendimą atmesti paraišką ir apie tai raštu praneša pareiškėjui.“
 
 
 ### 6 straipsnis. 13 straipsnio pakeitimas ^s-b756df28a75e2b63f6d6e74a
@@ -140,13 +140,13 @@ Pakeisti [[#^s-6b911d4383a687efbffd26e0|14 straipsnį]] ir jį išdėstyti taip:
 „3) veisles, kurioms suteikta teisinė apsauga, jų pareiškėjus;“.
 
 
-2. Pakeisti 16 straipsnio 5 punktą ir jį išdėstyti taip: ^s-9a1f21720c36257a8659df90
+2. Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-f7e0603b7bd6c3d8d8a54147|16 straipsnio 5 punktą]] ir jį išdėstyti taip: ^s-9a1f21720c36257a8659df90
 
 
 „5) pareiškėjų pasikeitimą;“.
 
 
-3. Pakeisti 16 straipsnio 6 punktą ir jį išdėstyti taip: ^s-7e15e925b9d1b4c1ffa76ac5
+3. Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-9c8b56b633545802808600b7|16 straipsnio 6 punktą]] ir jį išdėstyti taip: ^s-7e15e925b9d1b4c1ffa76ac5
 
 
 „6) sprendimus dėl veislės teisinės apsaugos pripažinimo negaliojančia ar šios apsaugos panaikinimo;“.
@@ -155,7 +155,7 @@ Pakeisti [[#^s-6b911d4383a687efbffd26e0|14 straipsnį]] ir jį išdėstyti taip:
 ### 9 straipsnis. 17 straipsnio pakeitimas ^s-e6026a610e19e5ec839b55a6
 
 
-Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-c0ab0d5447b91debee3d369e|17 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Veislei turi būti suteiktas pavadinimas pagal jos gentinę priklausomybę. Pavadinimas nurodomas pareiškėjo teikiamoje paraiškoje arba Saugomų veislių sąrašo tvarkytojo nustatytoje siūlomo veislės pavadinimo teikimo formoje.“
@@ -191,13 +191,13 @@ Pakeisti [[#^s-7f2335f05000346c89afe985|22 straipsnį]] ir jį išdėstyti taip:
 ### 12 straipsnis. 23 straipsnio pakeitimas ^s-82e8d63ea5c8771eab06eacf
 
 
-1. Pakeisti 23 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip: ^s-ffd1229150e86a5aeb6f7e2c
+1. Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-21f2c4d6c604ce1f8de6d92e|23 straipsnio 1 dalies 2 punktą]] ir jį išdėstyti taip: ^s-ffd1229150e86a5aeb6f7e2c
 
 
-„2) veislei buvo suteikta apsauga vadovaujantis tik pareiškėjo pateikta informacija, bet veislė apsaugos suteikimo metu neatitiko vienodumo ar stabilumo reikalavimų pagal šio Įstatymo 6 ir [[#^s-ca0e823715e0065cd94a5d29|7 straipsnių]] nuostatas ar patvirtintas veislės pavadinimas neatitinka šio Įstatymo [[#^s-de3fbce127f6d43a9b755da8|18 straipsnyje]] nustatytų reikalavimų;“.
+„2) veislei buvo suteikta apsauga vadovaujantis tik pareiškėjo pateikta informacija, bet veislė apsaugos suteikimo metu neatitiko vienodumo ar stabilumo reikalavimų pagal šio Įstatymo [[#^s-b756df28a75e2b63f6d6e74a|6]] ir [[#^s-ca0e823715e0065cd94a5d29|7]] straipsnių nuostatas ar patvirtintas veislės pavadinimas neatitinka šio Įstatymo [[#^s-de3fbce127f6d43a9b755da8|18 straipsnyje]] nustatytų reikalavimų;“.
 
 
-2. Pakeisti 23 straipsnio 2 dalį ir ją išdėstyti taip: ^s-08c04dcf103bfd6ed2193f3a
+2. Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-f127f26139951f3b50a2f189|23 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-08c04dcf103bfd6ed2193f3a
 
 
 „2. Saugomų veislių sąrašo tvarkytojas, nustatęs šio straipsnio 1 dalyje nurodytas aplinkybes, priima sprendimą pripažinti veislės teisinę apsaugą negaliojančia ir apie tai raštu praneša pareiškėjui.“
@@ -206,39 +206,39 @@ Pakeisti [[#^s-7f2335f05000346c89afe985|22 straipsnį]] ir jį išdėstyti taip:
 ### 13 straipsnis. 24 straipsnio pakeitimas ^s-5b4557633822578bba954e5e
 
 
-1. Pakeisti 24 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip: ^s-c07f47fcde674771649ec7ad
+1. Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-a8baa1de53df7e1bf703d297|24 straipsnio 1 dalies 1 punktą]] ir jį išdėstyti taip: ^s-c07f47fcde674771649ec7ad
 
 
 „1) pareiškėjas Saugomų veislių sąrašo tvarkytojui pateikia raštišką prašymą išbraukti veislę iš Saugomų veislių sąrašo;“.
 
 
-2. Pripažinti netekusiu galios 24 straipsnio 1 dalies 5 punktą. ^s-6d2b7431354e37a1d92fef78
+2. Pripažinti netekusiu galios [[latest/TAR.7DE5B8AD5D5B#^s-ee54a2a4853454453e4b24d8|24 straipsnio 1 dalies 5 punktą]]. ^s-6d2b7431354e37a1d92fef78
 
 
 
 ### 14 straipsnis. 25 straipsnio pripažinimas netekusiu galios ^s-6b911d4383a687efbffd26e0
 
 
-Pripažinti netekusiu galios 25 straipsnį.
+Pripažinti netekusiu galios [[latest/TAR.7DE5B8AD5D5B#^s-d6910038288e886586d41cd5|25 straipsnį]].
 
 
 
 ### 15 straipsnis. 26 straipsnio pakeitimas ^s-dff21bc5db16c396f1b89a86
 
 
-Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-6c5272245586f6f5e09f6211|26 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
-„2. Asmeniui, nesudariusiam licencinės sutarties dėl veislės, kuriai suteikta teisinė apsauga, dauginamosios medžiagos panaudojimo, draudžiama atlikti bet kokius šio straipsnio 1 dalyje nurodytus veiksmus, susijusius su saugomos veislės dauginamąja medžiaga.“
+„2. Asmeniui, nesudariusiam licencinės sutarties dėl veislės, kuriai suteikta teisinė apsauga, dauginamosios medžiagos panaudojimo, draudžiama atlikti bet kokius [[latest/TAR.7DE5B8AD5D5B|šio straipsnio 1 dalyje]] nurodytus veiksmus, susijusius su saugomos veislės dauginamąja medžiaga.“
 
 
 ### 16 straipsnis. 28 straipsnio pakeitimas ^s-a2f4a37cd3c5280684fdb510
 
 
-Pakeisti 28 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-9dc4cdd0c9f0398c1706a9f3|28 straipsnį]] ir jį išdėstyti taip:
 
 
-„28 straipsnis. Selekcininko teisių išimtys
+„[[latest/TAR.7DE5B8AD5D5B#^s-9dc4cdd0c9f0398c1706a9f3|28 straipsnis]]. Selekcininko teisių išimtys
 
 
 1. Veislė gali būti naudojama be selekcininko sutikimo: ^s-559dbc5e78a54e2a1e411145
@@ -250,7 +250,7 @@ Pakeisti 28 straipsnį ir jį išdėstyti taip:
 2) moksliniams tikslams; ^s-78d46aa053c039959c44178f
 
 
-3) naujoms veislėms kurti ir šio Įstatymo 26 straipsnyje nurodytiems veiksmams su šiomis veislėmis atlikti, išskyrus atvejus, kai taikomos šio Įstatymo 27 straipsnio nuostatos. ^s-9b2896cacf14460a7829eaba
+3) naujoms veislėms kurti ir šio Įstatymo [[latest/TAR.7DE5B8AD5D5B#^s-a0315af2003cc90637af993a|26 straipsnyje]] nurodytiems veiksmams su šiomis veislėmis atlikti, išskyrus atvejus, kai taikomos šio Įstatymo [[latest/TAR.7DE5B8AD5D5B#^s-aeb7aaa09ea7991c51a509c5|27 straipsnio]] nuostatos. ^s-9b2896cacf14460a7829eaba
 
 
 2. Žemės naudotojai gali naudoti saugomą veislę be selekcininko sutikimo, kai: ^s-f285e011b2992b09e0f4ef70
@@ -280,26 +280,26 @@ Pakeisti 28 straipsnį ir jį išdėstyti taip:
 ### 17 straipsnis. 32 straipsnio pakeitimas ^s-7a38735cc7f11431588e9b3e
 
 
-Pakeisti 32 straipsnio 3 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-661e4e7a159fccf804faa113|32 straipsnio 3 dalį]] ir ją išdėstyti taip:
 
 
-„3. Šio Įstatymo 34 straipsnyje nurodyti licencinės sutarties duomenys įrašomi Licencinių sutarčių registravimo žurnale Saugomų veislių sąrašo tvarkytojo nustatyta tvarka. Prieš trečiuosius asmenis licencinė sutartis gali būti panaudota ir jiems sukelia teisines pasekmes tik tuo atveju, kai jos duomenys įrašyti į Licencinių sutarčių registravimo žurnalą.“
+„3. Šio Įstatymo [[latest/TAR.7DE5B8AD5D5B#^s-55ec526b97d26f0a33c3c47b|34 straipsnyje]] nurodyti licencinės sutarties duomenys įrašomi Licencinių sutarčių registravimo žurnale Saugomų veislių sąrašo tvarkytojo nustatyta tvarka. Prieš trečiuosius asmenis licencinė sutartis gali būti panaudota ir jiems sukelia teisines pasekmes tik tuo atveju, kai jos duomenys įrašyti į Licencinių sutarčių registravimo žurnalą.“
 
 
 ### 18 straipsnis. 35 straipsnio pripažinimas netekusiu galios ^s-de3fbce127f6d43a9b755da8
 
 
-Pripažinti netekusiu galios 35 straipsnį.
+Pripažinti netekusiu galios [[latest/TAR.7DE5B8AD5D5B#^s-05c0c863d17486dc28671cf3|35 straipsnį]].
 
 
 
 ### 19 straipsnis. 38 straipsnio pakeitimas ^s-42abc6b62c6a95efecaf37ec
 
 
-Pakeisti 38 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-b722c88ac2ac43738142f7e0|38 straipsnį]] ir jį išdėstyti taip:
 
 
-„38 straipsnis. Paraiškų ekspertizių, sprendimų priėmimo, apskundimo ir skundų nagrinėjimo tvarka
+„[[latest/TAR.7DE5B8AD5D5B#^s-b722c88ac2ac43738142f7e0|38 straipsnis]]. Paraiškų ekspertizių, sprendimų priėmimo, apskundimo ir skundų nagrinėjimo tvarka
 
 
 1. Paraiškos ekspertizės, veislės pavadinimo patvirtinimo ir keitimo, veislės teisinės apsaugos suteikimo, pripažinimo negaliojančia ir panaikinimo procedūros, Saugomų veislių sąrašo tvarkytojo sprendimų priėmimo tvarka ir terminai, pranešimų apie priimtus sprendimus pateikimo terminai ir sprendimų apskundimo terminai ir tvarka nustatomi Saugomų veislių sąrašo nuostatuose. Šiuos nuostatus tvirtina Saugomų veislių sąrašo tvarkytojas. ^s-7327520abcb592cf54efcb68
@@ -311,7 +311,7 @@ Pakeisti 38 straipsnį ir jį išdėstyti taip:
 ### 20 straipsnis. 41 straipsnio pakeitimas ^s-809d9774985a0a9c8a46bbd3
 
 
-Pakeisti 41 straipsnio 1 dalies pirmąją pastraipą ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.7DE5B8AD5D5B#^s-4f7b277889ca9ce84d817363|41 straipsnio 1 dalies]] pirmąją pastraipą ir ją išdėstyti taip:
 
 
 „1. Pareiškėjai, gindami savo teises, taip pat licenciatai, gindami jiems suteiktas teises, įstatymų nustatyta tvarka turi teisę kreiptis į teismą ir reikalauti:“.
@@ -320,7 +320,7 @@ Pakeisti 41 straipsnio 1 dalies pirmąją pastraipą ir ją išdėstyti taip:
 ### 21 straipsnis. 417 straipsnio pripažinimas netekusiu galios ^s-f46434d5f37508e4dfb2cfad
 
 
-Pripažinti netekusiu galios 417 straipsnį.
+Pripažinti netekusiu galios [[latest/TAR.7DE5B8AD5D5B#^s-bdd5e05ce932dc5d767d7da1|417 straipsnį]].
 
 
 

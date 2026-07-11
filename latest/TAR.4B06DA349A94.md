@@ -104,7 +104,7 @@ Pakeisti 42 straipsnio 6 dalį ir ją išdėstyti taip:
 1. Pakeisti 72 straipsnio 5 dalį ir ją išdėstyti taip: ^s-6560a5444d321a36745bacf7
 
 
-„5. Kai konfiskuotinas turtas yra paslėptas, suvartotas, priklauso tretiesiems asmenims ar jo negalima paimti dėl kitų priežasčių, teismas iš kaltininko, jo bendrininkų ar kitų šio straipsnio 2, 3 ir 4 dalyse nurodytų asmenų išieško konfiskuotino turto vertę atitinkančią pinigų sumą.“
+„5. Kai konfiskuotinas turtas yra paslėptas, suvartotas, priklauso tretiesiems asmenims ar jo negalima paimti dėl kitų priežasčių, teismas iš kaltininko, jo bendrininkų ar kitų šio straipsnio [[#^s-d084face77ddf68553c80b2d|2]], 3 ir 4 dalyse nurodytų asmenų išieško konfiskuotino turto vertę atitinkančią pinigų sumą.“
 
 
 2. Pakeisti 72 straipsnio 6 dalį ir ją išdėstyti taip: ^s-d084face77ddf68553c80b2d
@@ -602,7 +602,7 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki dvejų metų.
 ### 42 straipsnis. Įstatymo įgyvendinimo tvarka ^s-cf557afa099aabf669a86461
 
 
-Asmenims, kuriems baudos ar arešto bausmės vykdymas atidėtas pagal Lietuvos Respublikos baudžiamojo kodekso 75 ar 92 straipsnius, nustatyti įpareigojimai vykdomi ir po šio įstatymo įsigaliojimo iki bausmės vykdymo atidėjimo termino pabaigos. Galutinį sprendimą pasibaigus bausmės vykdymo atidėjimo terminui teismas priima vadovaudamasis Lietuvos Respublikos baudžiamojo kodekso 3, 75 ir 92 straipsniais.
+Asmenims, kuriems baudos ar arešto bausmės vykdymas atidėtas pagal Lietuvos Respublikos baudžiamojo kodekso 75 ar 92 straipsnius, nustatyti įpareigojimai vykdomi ir po šio įstatymo įsigaliojimo iki bausmės vykdymo atidėjimo termino pabaigos. Galutinį sprendimą pasibaigus bausmės vykdymo atidėjimo terminui teismas priima vadovaudamasis Lietuvos Respublikos baudžiamojo kodekso [[#^s-9cebb61ea6f43e8068f2b2f2|3]], 75 ir 92 straipsniais.
 
 
 

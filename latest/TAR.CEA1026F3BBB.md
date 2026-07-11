@@ -44,7 +44,7 @@ Vilnius
 ### 2 straipsnis.         Specialios paskirties akcinės bendrovės „Lietuvos energija“ reorganizavimas ^s-4c9fb369b22a92ae55567813
 
 
-Specialios paskirties akcinės bendrovės „Lietuvos energija“ šilumos ūkio valdymas decentralizuojamas reorganizuojant šią bendrovę, atskiriant jai priklausančius Vilniaus (įtraukiant Vilniaus elektrinę), Kauno (įtraukiant Kauno elektrinę), Klaipėdos, Šiaulių, Panevėžio ir Alytaus regioninius šilumos tiekimo filialus bei Mažeikių rajono šilumos tinklus ir jų pagrindu įsteigiant specialios paskirties akcines bendroves Akcinių bendrovių įstatymo, įstatymo „Dėl specialios paskirties bendrovių ir jų veiklos sričių“  bei šio įstatymo nustatyta tvarka. Miestų ir rajonų (išskyrus Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio ir Alytaus miestų) savivaldybių pageidavimu specialios paskirties akcinės bendrovės „Lietuvos energija“ reorganizavimo metu iš regioninių šilumos tiekimo filialų gali būti atskiriamas konkrečios savivaldybės teritorijoje esantis regioninio filialo padalinys ir jo pagrindu steigiama specialios paskirties akcinė bendrovė.
+Specialios paskirties akcinės bendrovės „Lietuvos energija“ šilumos ūkio valdymas decentralizuojamas reorganizuojant šią bendrovę, atskiriant jai priklausančius Vilniaus (įtraukiant Vilniaus elektrinę), Kauno (įtraukiant Kauno elektrinę), Klaipėdos, Šiaulių, Panevėžio ir Alytaus regioninius šilumos tiekimo filialus bei Mažeikių rajono šilumos tinklus ir jų pagrindu įsteigiant specialios paskirties akcines bendroves Akcinių bendrovių įstatymo, įstatymo [„Dėl specialios paskirties bendrovių ir jų veiklos sričių“](https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455)  bei šio įstatymo nustatyta tvarka. Miestų ir rajonų (išskyrus Vilniaus, Kauno, Klaipėdos, Šiaulių, Panevėžio ir Alytaus miestų) savivaldybių pageidavimu specialios paskirties akcinės bendrovės „Lietuvos energija“ reorganizavimo metu iš regioninių šilumos tiekimo filialų gali būti atskiriamas konkrečios savivaldybės teritorijoje esantis regioninio filialo padalinys ir jo pagrindu steigiama specialios paskirties akcinė bendrovė.
 
 
 
@@ -60,7 +60,7 @@ Specialios paskirties akcinės bendrovės „Lietuvos energija“ šilumos ūkio
 3. Atskirtų šilumos tiekimo specialios paskirties akcinių bendrovių valstybei priklausančios akcijos paskirstomos miestų ir rajonų savivaldybėms proporcingai reorganizavimo metu priskirto ilgalaikio šilumos ūkio turto likutinei vertei, o fizinių ir juridinių asmenų akcijos – pagal akcininkų pageidavimą. ^s-e1da771bc587a49c9ca57425
 
 
-4. Reorganizavimo ir perdavimo metu bendrovės turtas apskaitomas ir inventorizuojamas pagal balansinę vertę, vadovaujantis Buhalterinės apskaitos pagrindų įstatymu bei kitais teisės aktais (netaikant Akcinių bendrovių įstatymo 10 straipsnio 7 dalies 2 punkto reikalavimų). ^s-f8b570839ade598b85a76f2a
+4. Reorganizavimo ir perdavimo metu bendrovės turtas apskaitomas ir inventorizuojamas pagal balansinę vertę, vadovaujantis [Buhalterinės apskaitos pagrindų įstatymu bei kitais teisės aktais (netaikant Akcinių bendrovių įstatymo 10 straipsnio 7 dalies 2 punkto](https://e-tar.lt/portal/lt/legalAct/TAR.F15B67B048EB) reikalavimų). ^s-f8b570839ade598b85a76f2a
 
 
 5. Apie specialios paskirties akcinės bendrovės „Lietuvos energija“ reorganizavimą viešai skelbiama 2 kartus su ne mažesniu kaip 14 dienų intervalu (netaikomi Akcinių bendrovių įstatymo 10 straipsnio 12 dalies reikalavimai). ^s-916658202ad3553fe4bfe8b5

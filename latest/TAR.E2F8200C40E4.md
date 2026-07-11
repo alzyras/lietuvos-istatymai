@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-70a23d8f8d7ef989dec5a7be
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-4bc8872820546bc80e813288|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 2 dalimi]] ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2002 m. vasario 8 d. dekretą Nr. 1658 „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Jungtinių Tautų Organizacijos Konvenciją prieš tarptautinį organizuotą nusikalstamumą“, ratifikuoja su išlyga ir pareiškimais Jungtinių Tautų Organizacijos Konvenciją prieš tarptautinį organizuotą nusikalstamumą, pasirašytą 2000 m. gruodžio 13 d. Palerme, (toliau – Konvencija).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-4bc8872820546bc80e813288|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 2 dalimi]] ir atsižvelgdamas į Lietuvos Respublikos Prezidento [2002 m. vasario 8 d. dekretą Nr. 1658](https://e-tar.lt/portal/lt/legalAct/TAR.CE25F7D35766) [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Jungtinių Tautų Organizacijos Konvenciją prieš tarptautinį organizuotą nusikalstamumą“](https://e-tar.lt/portal/lt/legalAct/TAR.CE25F7D35766), ratifikuoja su išlyga ir pareiškimais Jungtinių Tautų Organizacijos Konvenciją prieš tarptautinį organizuotą nusikalstamumą, pasirašytą 2000 m. gruodžio 13 d. Palerme, (toliau – Konvencija).
 
 
 Straipsnio pakeitimai:
@@ -52,7 +52,7 @@ Nr. XIV-3103, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20123
 ### 2 straipsnis. Lietuvos Respublikos pareiškimai ^s-4a90d4b5c48e17bc3de324ff
 
 
-1. Lietuvos Respublikos Seimas pareiškia, kad remdamasi Konvencijos 13 straipsnio 6 dalimi Lietuvos Respublika laikys Konvenciją būtinu ir pakankamu sutartiniu pagrindu šios Konvencijos 13 straipsnio 1 ir [[#^s-89e01ecec644742ad2ccee97|2 dalyse]] nurodytoms priemonėms vykdyti. ^s-d68bd1f461b18e6ab7a66d26
+1. Lietuvos Respublikos Seimas pareiškia, kad remdamasi Konvencijos 13 straipsnio 6 dalimi Lietuvos Respublika laikys Konvenciją būtinu ir pakankamu sutartiniu pagrindu šios Konvencijos 13 straipsnio 1 ir 2 dalyse nurodytoms priemonėms vykdyti. ^s-d68bd1f461b18e6ab7a66d26
 
 
 2. Remdamasis Konvencijos 18 straipsnio 13 dalimi, Lietuvos Respublikos Seimas pareiškia, kad Teisingumo ministerija ir Generalinė prokuratūra prie Lietuvos Aukščiausiojo Teismo yra skiriamos centrinėmis įstaigomis priimti tarpusavio teisinės pagalbos prašymus. ^s-89e01ecec644742ad2ccee97
@@ -94,4 +94,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3103, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20123
-Lietuvos Respublikos įstatymo „Dėl Jungtinių Tautų Organizacijos konvencijos prieš tarptautinį organizuotą nusikalstamumą ratifikavimo“ Nr. IX-794 1 ir [[#^s-0ee40c697416fd2a3f651fbf|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos įstatymo „Dėl Jungtinių Tautų Organizacijos konvencijos prieš tarptautinį organizuotą nusikalstamumą ratifikavimo“ Nr. IX-794 [[#^s-70a23d8f8d7ef989dec5a7be|1]] ir [[#^s-0ee40c697416fd2a3f651fbf|3]] straipsnių pakeitimo įstatymas

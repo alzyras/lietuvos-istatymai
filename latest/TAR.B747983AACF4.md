@@ -67,10 +67,10 @@ Pakeisti [[#^s-213e2e32777f5db04d306f1c|4 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-213e2e32777f5db04d306f1c|4 straipsnis]]. Teismo ekspertizes atliekantys subjektai
 
 
-1. Teismo ekspertizes atlieka teismo ekspertai, įrašyti į Lietuvos Respublikos teismo ekspertų sąrašą, išskyrus šio straipsnio 2, 3 ir [[#^s-43be610d8fa74299dde5f47a|4 dalyse]] numatytus atvejus. ^s-ff87d976c3dd08685ffe0d7e
+1. Teismo ekspertizes atlieka teismo ekspertai, įrašyti į Lietuvos Respublikos teismo ekspertų sąrašą, išskyrus šio straipsnio [[#^s-828808b9d2b31e91d89ed345|2]], [[#^s-77602dc6df7a3013020e917c|3]] ir [[#^s-43be610d8fa74299dde5f47a|4]] dalyse numatytus atvejus. ^s-ff87d976c3dd08685ffe0d7e
 
 
-2. Valstybės narės teismo ekspertams neribojama laisvė laikinai teikti paslaugas Lietuvos Respublikoje. Valstybės narės teismo ekspertams, teikiantiems paslaugas Lietuvos Respublikoje savo valstybės narės suteiktu teismo eksperto vardu, netaikomi šio Įstatymo 5, 6, 8, 9 ir 10 straipsniai. ^s-828808b9d2b31e91d89ed345
+2. Valstybės narės teismo ekspertams neribojama laisvė laikinai teikti paslaugas Lietuvos Respublikoje. Valstybės narės teismo ekspertams, teikiantiems paslaugas Lietuvos Respublikoje savo valstybės narės suteiktu teismo eksperto vardu, netaikomi šio Įstatymo [[#^s-12ffbe44d7ba9efdd6dc054f|5]], [[#^s-beb0dcec071a1bfe4e13dc54|6]], 8, 9 ir 10 straipsniai. ^s-828808b9d2b31e91d89ed345
 
 
 3. Jeigu Lietuvos Respublikos teismo ekspertų sąraše nėra reikiamos specialybės teismo ekspertų, ekspertu gali būti skiriamas į šį sąrašą neįrašytas asmuo. Proceso įstatymuose gali būti nustatyta kitokia ekspertų skyrimo tvarka. ^s-77602dc6df7a3013020e917c

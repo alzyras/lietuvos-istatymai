@@ -51,7 +51,7 @@ Vilnius
 2. Pakeisti [[#^s-d024ab2464600f7fa135470e|3 straipsnio 8 dalį]] ir ją išdėstyti taip: ^s-ff87a3627e949b33223d9aa7
 
 
-„8. Finansų maklerio įmonės akcijų paketas – tiesiogiai ar netiesiogiai valdoma finansų maklerio įmonės įstatinio kapitalo ar balsavimo teisių dalis, sudaranti ne mažiau kaip 1/10 įstatinio kapitalo ar balsavimo teisių arba leidžianti daryti esminę įtaką finansų maklerio įmonės valdymui. Skaičiuojant, ar įmonės įstatinio kapitalo ar balsavimo teisių dalis sudaro ne mažiau kaip 1/10 įstatinio kapitalo, atsižvelgiama į [[latest/TAR.3DF892F52616#^s-5db86a45198161db47d40ef7|Vertybinių popierių įstatymo 23 ir 24 straipsniuose]] nustatytus įpareigojimus bei balsų skaičiavimo tvarką.“
+„8. Finansų maklerio įmonės akcijų paketas – tiesiogiai ar netiesiogiai valdoma finansų maklerio įmonės įstatinio kapitalo ar balsavimo teisių dalis, sudaranti ne mažiau kaip 1/10 įstatinio kapitalo ar balsavimo teisių arba leidžianti daryti esminę įtaką finansų maklerio įmonės valdymui. Skaičiuojant, ar įmonės įstatinio kapitalo ar balsavimo teisių dalis sudaro ne mažiau kaip 1/10 įstatinio kapitalo, atsižvelgiama į [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] [[latest/TAR.3DF892F52616#^s-73a6566a6f92acda891a3ff7|23]] ir [[latest/TAR.3DF892F52616#^s-5db86a45198161db47d40ef7|24]] straipsniuose nustatytus įpareigojimus bei balsų skaičiavimo tvarką.“
 
 
 3. Pakeisti 3 straipsnio 11 dalies 1 punktą ir jį išdėstyti taip: ^s-737ebbf7b86acb6b3f5e8bca
@@ -174,7 +174,7 @@ Pakeisti [[#^s-f16279d8c629edd3f8d7c4b7|10 straipsnį]] ir jį išdėstyti taip:
 11. Vertybinių popierių komisija neturi teisės nustatyti jokių išankstinių sąlygų dėl privalomo įsigyti finansų maklerio įmonės akcijų paketo dydžio ir nenagrinėja siūlomo įsigijimo pagal rinkos ekonominius poreikius. ^s-f22ab0f131590cce55bd57fe
 
 
-12. Vertybinių popierių komisija turi teisę prieštarauti siūlomam įsigijimui tik remdamasi [[#^s-01da4e1e3e5589f7706a6693|šio straipsnio 10 dalyje]] nurodytais kriterijais arba tuo atveju, jei įsigyjantis asmuo pateikė ne visus šio straipsnio 5 ar [[#^s-d024ab2464600f7fa135470e|8 dalyje]] nustatytus dokumentus ir duomenis. ^s-b1310f8a830ec7d550b78cea
+12. Vertybinių popierių komisija turi teisę prieštarauti siūlomam įsigijimui tik remdamasi [[#^s-01da4e1e3e5589f7706a6693|šio straipsnio 10 dalyje]] nurodytais kriterijais arba tuo atveju, jei įsigyjantis asmuo pateikė ne visus šio straipsnio [[#^s-360fa794a535310f714aa307|5]] ar [[#^s-d024ab2464600f7fa135470e|8]] dalyje nustatytus dokumentus ir duomenis. ^s-b1310f8a830ec7d550b78cea
 
 
 13. Vertybinių popierių komisija, prieš priimdama sprendimą dėl siūlomo įsigijimo, konsultuojasi su Lietuvos Respublikos ir kitų valstybių narių priežiūros institucijomis, jeigu įsigyjantis asmuo yra valstybėje narėje licencijuota finansų maklerio įmonė, suderintųjų kolektyvinio investavimo subjektų valdymo įmonė, kredito įstaiga, draudimo įmonė, perdraudimo įmonė arba bet kurio iš šių subjektų patronuojanti įmonė ar kontroliuojantis asmuo. ^s-bb747b5a2e2dfe5b8a6c23ca
@@ -192,7 +192,7 @@ Pakeisti [[#^s-f16279d8c629edd3f8d7c4b7|10 straipsnį]] ir jį išdėstyti taip:
 17. Jei baigusi vertinimą Vertybinių popierių komisija priima sprendimą prieštarauti siūlomam įsigijimui, ji per 2 darbo dienas nuo sprendimo priėmimo ir neviršydama vertinimo laikotarpio raštu praneša apie tai įsigyjančiam asmeniui, nurodydama sprendimo motyvus. ^s-fdad24061be1b51198b22140
 
 
-18. Vertybinių popierių komisijos sprendime dėl siūlomo įsigijimo nurodomos visos po konsultacijų pagal šio straipsnio 13 ir [[#^s-9c0ce946c95fa2319f7c9384|14 dalis]] gautos kitų priežiūros institucijų nuomonės ir išlygos. Vertybinių popierių komisijos sprendimas prieštarauti siūlomam įsigijimui gali būti skundžiamas teismui. Vertybinių popierių komisija viešai paskelbia sprendimą ir jo motyvus, nepaisydama to, ar yra gautas įsigyjančio asmens sutikimas. Vertybinių popierių komisija turi teisę viešai neskelbti sprendimo ir jo motyvų tais atvejais, kai toks paskelbimas padarytų žalos rinkai ar padarytų neproporcingos žalos suinteresuotiems asmenims. ^s-847e08417007dccf01293559
+18. Vertybinių popierių komisijos sprendime dėl siūlomo įsigijimo nurodomos visos po konsultacijų pagal šio straipsnio [[#^s-bb747b5a2e2dfe5b8a6c23ca|13]] ir [[#^s-9c0ce946c95fa2319f7c9384|14]] dalis gautos kitų priežiūros institucijų nuomonės ir išlygos. Vertybinių popierių komisijos sprendimas prieštarauti siūlomam įsigijimui gali būti skundžiamas teismui. Vertybinių popierių komisija viešai paskelbia sprendimą ir jo motyvus, nepaisydama to, ar yra gautas įsigyjančio asmens sutikimas. Vertybinių popierių komisija turi teisę viešai neskelbti sprendimo ir jo motyvų tais atvejais, kai toks paskelbimas padarytų žalos rinkai ar padarytų neproporcingos žalos suinteresuotiems asmenims. ^s-847e08417007dccf01293559
 
 
 19. Jei Vertybinių popierių komisija gauna daugiau negu vieną pranešimą apie siūlomą įsigijimą toje pačioje finansų maklerio įmonėje, visi pranešimai nagrinėjami tokia pat tvarka, nediskriminuojant įsigyjančių asmenų. ^s-0b13338c5dfb9888fe71bf16
@@ -434,7 +434,7 @@ Pakeisti 97 straipsnį ir išdėstyti jį taip:
 „97 straipsnis. Piniginių baudų išieškojimas
 
 
-Piniginės baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kai asmuo gavo Vertybinių popierių komisijos sprendimą skirti baudą. Apskundus tokį sprendimą, bauda turi būti sumokėta ne vėliau kaip per 40 dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. Jei bauda nebuvo savanoriškai sumokėta, Vertybinių popierių komisijos sprendimas skirti baudą vykdomas Civilinio proceso kodekso nustatyta tvarka.“
+Piniginės baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kai asmuo gavo Vertybinių popierių komisijos sprendimą skirti baudą. Apskundus tokį sprendimą, bauda turi būti sumokėta ne vėliau kaip per 40 dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. Jei bauda nebuvo savanoriškai sumokėta, Vertybinių popierių komisijos sprendimas skirti baudą vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.“
 
 
 

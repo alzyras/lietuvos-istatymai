@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-d8229db07ac53ab3da772269
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. rugsėjo 3 d. dekretą Nr. 57, ratifikuoja 2003 m. gegužės 21 d. Ženevoje priimtą Pasaulio sveikatos organizacijos Tabako kontrolės pagrindų konvenciją.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. rugsėjo 3 d. dekretą Nr. 57](https://e-tar.lt/portal/lt/legalAct/TAR.31DEC1DF6C23), ratifikuoja 2003 m. gegužės 21 d. Ženevoje priimtą Pasaulio sveikatos organizacijos Tabako kontrolės pagrindų konvenciją.
 
 
 

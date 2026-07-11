@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-bd0efad0861e616ce57b2b4e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. lapkričio 7 d. dekretą Nr. 1071, ratifikuoja Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl išsimokslinimo pripažinimo Baltijos valstybių aukštojo mokslo erdvėje, pasirašytą 2000 m. vasario 18 d. Taline.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2000 m. lapkričio 7 d. dekretą Nr. 1071](https://e-tar.lt/portal/lt/legalAct/TAR.DD4773131B35), ratifikuoja Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl išsimokslinimo pripažinimo Baltijos valstybių aukštojo mokslo erdvėje, pasirašytą 2000 m. vasario 18 d. Taline.
 
 
 

@@ -49,7 +49,7 @@ EUROPOS KOOPERATINIŲ BENDROVIŲ
 2. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu šio įstatymo priede. ^s-eb42c4e85f8d3138dc894c5b
 
 
-3. Europos kooperatinėms bendrovėms, kurių buveinė yra Lietuvos Respublikoje, mutatis mutandis taikomi [[latest/TAR.94DB985EB965|Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas]], reglamentuojantis kooperatines bendroves (kooperatyvus), ir Lietuvos Respublikos akcinių bendrovių įstatymas, reglamentuojantis akcines bendroves, kiek tai leidžia Reglamentas (EB) Nr. 1435/2003 (toliau – Reglamentas) ir kiek kitaip nenustatyta jame, šiame įstatyme ir kituose teisės aktuose, reglamentuojančiuose Europos kooperatines bendroves. ^s-4858f4a57a2619d850d549b7
+3. Europos kooperatinėms bendrovėms, kurių buveinė yra Lietuvos Respublikoje, mutatis mutandis taikomi [[latest/TAR.94DB985EB965|Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas]], reglamentuojantis kooperatines bendroves (kooperatyvus), ir Lietuvos Respublikos akcinių bendrovių įstatymas, reglamentuojantis akcines bendroves, kiek tai leidžia [Reglamentas (EB) Nr. 1435/2003](https://eur-lex.europa.eu/eli/reg/1435/2003/oj) (toliau – Reglamentas) ir kiek kitaip nenustatyta jame, šiame įstatyme ir kituose teisės aktuose, reglamentuojančiuose Europos kooperatines bendroves. ^s-4858f4a57a2619d850d549b7
 
 
 
@@ -99,7 +99,7 @@ EUROPOS KOOPERATINIŲ BENDROVIŲ
 4. Ataskaitą, patvirtinančią, kad laikomasi Reglamento 35 straipsnio 5 dalyje nustatytų reikalavimų, rengia audito įmonė, su kuria kooperatinė bendrovė (kooperatyvas) sudaro sutartį. ^s-cfa3a96b3aec866cc4c8eeb7
 
 
-5. Pertvarkant kooperatinę bendrovę (kooperatyvą) į Europos kooperatinę bendrovę, mutatis mutandis taikomos šio įstatymo [[#^s-405df9ed3a19cb7e95b52a75|6 straipsnio]] 3, 4, 5 ir 6 dalys. ^s-f586f15ab2d5e13dbe5d5601
+5. Pertvarkant kooperatinę bendrovę (kooperatyvą) į Europos kooperatinę bendrovę, mutatis mutandis taikomos šio įstatymo [[#^s-405df9ed3a19cb7e95b52a75|6 straipsnio]] [[#^s-b1388a2f30b752c0c7b1a9d9|3]], [[#^s-5fbff2dea9eda835120d569a|4]], [[#^s-39c7aea54c61c061a3f69659|5]] ir [[#^s-3d4d4048e52bb1804b8aefb7|6]] dalys. ^s-f586f15ab2d5e13dbe5d5601
 
 
 
@@ -224,7 +224,7 @@ priedas
 
 
 
-2003 m. liepos 22 d. Tarybos reglamentas (EB) Nr. 1435/2003 dėl Europos kooperatinės bendrovės (SCE) statuto.
+2003 m. liepos 22 d. Tarybos [reglamentas (EB) Nr. 1435/2003](https://eur-lex.europa.eu/eli/reg/1435/2003/oj) dėl Europos kooperatinės bendrovės (SCE) statuto.
 
 
 _______________

@@ -9,12 +9,10 @@ pavadinimas: "Lietuvos Respublikos pensijų fondų įstatymo pakeitimo įstatyma
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Administracinių bylų teisenos įstatymo
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Administracinių bylų teisenos įstatymo
 - [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatymas]] - Finansų įstaigų įstatymo
-- [[latest/TAR.DDA1BD559D9B|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO ĮSTATYMAS
-- [[latest/TAR.1F58348F79F7|Lietuvos Respublikos pensijų kaupimo įstatymas]] - 4 citatos - Pensijų kaupimo įstatyme
+- [[latest/TAR.1F58348F79F7|Lietuvos Respublikos pensijų kaupimo įstatymas]] - 2 citatos - Pensijų kaupimo įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.DDA1BD559D9B#^s-90edb2fe6609b49fdc1f0ca5|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - 2 citatos - PENSIJŲ FONDŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.DDA1BD559D9B#^s-940958e116e55e8e984215a5|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - 2 citatos - PENSIJŲ FONDŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.DDA1BD559D9B#^s-940958e116e55e8e984215a5|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - PENSIJŲ FONDŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS

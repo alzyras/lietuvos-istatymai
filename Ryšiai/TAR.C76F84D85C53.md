@@ -9,13 +9,11 @@ pavadinimas: "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos �
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Lietuvos Respublikos administracinių bylų teisenos įstatymo
-- [[latest/TAR.EC588C321777#^s-4e5fa60d31bcb36ca316c373|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 8 citatos - Baudžiamojo proceso kodekso 51 straipsnis
-- [[latest/TAR.EC588C321777#^s-4f994a64e82b0c258f79f347|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - Baudžiamojo proceso kodekso 104 straipsnio 2 dalyje
-- [[latest/TAR.EAA93A47BAA1|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Lietuvos Respublikos administracinių bylų teisenos įstatymo
+- [[latest/TAR.EC588C321777#^s-4e5fa60d31bcb36ca316c373|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 4 citatos - Baudžiamojo proceso kodekso 51 straipsnis
+- [[latest/TAR.EC588C321777#^s-4f994a64e82b0c258f79f347|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Baudžiamojo proceso kodekso 104 straipsnio 2 dalyje
 - [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EAA93A47BAA1#^s-0f63c27229205d79c53ad37c|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - Įstatymas Nr. X-78
-- [[latest/TAR.EAA93A47BAA1#^s-bec2d66e6c1e480c7164ee42|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - Įstatymas Nr. X-78
+_Nėra._

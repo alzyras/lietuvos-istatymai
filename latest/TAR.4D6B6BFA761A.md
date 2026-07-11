@@ -153,7 +153,7 @@ Pakeisti 91 straipsnio 2 dalies 5 punktą ir jį išdėstyti taip:
 ### 11 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-db1b831357562387f5112960
 
 
-1. Šio įstatymo 7, 8 ir [[#^s-3fe4997aa8b634a68183accc|9 straipsniai]] įsigalioja 2013 m. kovo 1 d. ^s-7c4c0da297b46520950ab28c
+1. Šio įstatymo [[#^s-68c456c3f7f1ea5c2d690cad|7]], [[#^s-ffa002f66393c4a0d1048f98|8]] ir [[#^s-3fe4997aa8b634a68183accc|9]] straipsniai įsigalioja 2013 m. kovo 1 d. ^s-7c4c0da297b46520950ab28c
 
 
 2. Šio įstatymo [[#^s-116523768319008d91143cdf|1 straipsnio 1 dalyje]] išdėstytos [[latest/TAR.ED68997709F5#^s-81b6955a60eacee3d11d0375|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 1 punkto]] nuostatos taikomos iki 2013 m. gruodžio 31 d. tame punkte nurodytoms faktiškai patiektoms prekėms. ^s-0701c6261b7de8e33eca6e0f

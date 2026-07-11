@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-053c45a30c91ef16dccefba3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. spalio 17 d. dekretą Nr. 1948, ratifikuoja Muitinės konvenciją dėl komercinių kelių transporto priemonių laikinojo įvežimo, priimtą 1956 m. gegužės 18 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. spalio 17 d. dekretą Nr. 1948](https://e-tar.lt/portal/lt/legalAct/TAR.B07EF5160803), ratifikuoja Muitinės konvenciją dėl komercinių kelių transporto priemonių laikinojo įvežimo, priimtą 1956 m. gegužės 18 d. Ženevoje.
 
 
 

@@ -63,7 +63,7 @@ Vilnius
 ### 3 straipsnis. Tyrimo subjektų veiklos teisiniai pagrindai ^s-237674c52965b48749ea10d3
 
 
-1. Tyrimo subjektai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, kitais Seimo priimtais teisės aktais, Lietuvos Respublikos tarptautinėmis sutartimis, Respublikos Prezidento dekretais, Vyriausybės nutarimais bei kitais teisės aktais. ^s-39c7dcf4ef6bb812f021b88e
+1. Tyrimo subjektai savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, kitais Seimo priimtais teisės aktais, Lietuvos Respublikos tarptautinėmis sutartimis, Respublikos Prezidento dekretais, Vyriausybės nutarimais bei kitais teisės aktais. ^s-39c7dcf4ef6bb812f021b88e
 
 
 2. Tyrimas poligrafu draudžiamas, išskyrus šiame įstatyme numatytiems tyrimo subjektams. ^s-96365a874719ff7748dc591c

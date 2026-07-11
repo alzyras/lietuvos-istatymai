@@ -392,7 +392,7 @@ BENDROSIOS NUOSTATOS
 22) laukinių gyvūnų, kurie buvo prižiūrimi žmogaus, paleidimas į laisvę, jeigu šie gyvūnai nebuvo tinkamai paruošti gyventi natūralioje aplinkoje; ^s-b1fffcbdc37731566e6254ca
 
 
-23) gyvūno savininko ar laikytojo sutikimas atlikti šios dalies 1–[[#^s-b1fffcbdc37731566e6254ca|22 punktuose]] nurodytus veiksmus ar sąlygų atlikti tokius veiksmus sudarymas; ^s-fe42f34212beb9d5c9b56703
+23) gyvūno savininko ar laikytojo sutikimas atlikti šios dalies [[#^s-e5bd4aae887fe50e896d336b|1]]–[[#^s-b1fffcbdc37731566e6254ca|22]] punktuose nurodytus veiksmus ar sąlygų atlikti tokius veiksmus sudarymas; ^s-fe42f34212beb9d5c9b56703
 
 
 24) kiti veiksmai, sukeliantys gyvūnų žūtį, skausmą, kančią, pavojų gyvūnų sveikatai ar gyvybei, išskyrus teisės aktuose nustatytus atvejus. ^s-82b36d50d17c1f2dc5b87338
@@ -521,7 +521,7 @@ Kiekvienas gyvūnas privalo būti laikomas ir prižiūrimas gyvūno rūšį, am�
 3) teistiems už tyčinius smurtinius nusikaltimus, jeigu teistumas neišnykęs arba nepanaikintas; ^s-22a0f7b8dd58f53b5ea2e1c5
 
 
-4) gyvenantiems kartu su asmenimis, nurodytais šios dalies 2 ir [[#^s-22a0f7b8dd58f53b5ea2e1c5|3 punktuose]]. ^s-aec914ee8855831c87cd7faa
+4) gyvenantiems kartu su asmenimis, nurodytais šios dalies [[#^s-cd943ffbfe4f02396af71704|2]] ir [[#^s-22a0f7b8dd58f53b5ea2e1c5|3]] punktuose. ^s-aec914ee8855831c87cd7faa
 
 
 5. Pavojingo šuns savininkas turi užtikrinti, kad tokio šuns laikymas nebus patikėtas [[#^s-b935794ca1598146b6f3bf6d|šio straipsnio 4 dalies]] 2 ir 3 punktuose nurodytiems asmenims. ^s-ad358428bfc764eed6146c6b
@@ -825,13 +825,13 @@ ASMENŲ TEISĖS, PAREIGOS, ATSAKOMYBĖ IR ŠIO ĮSTATYMO VYKDYMO KONTROLĖ
 ### 2 straipsnis. Įstatymo įsigaliojimas ^s-40900ef01256d3c04e47d83b
 
 
-1. Iki šio įstatymo įsigaliojimo laikomiems koviniams šunims, kovinių ir pavojingų šunų mišrūnams, kuriems savivaldybės administracija yra išdavusi leidimą, šiuo įstatymu keičiamo [[latest/TAR.8DDDD8D87491#^s-65c721516f02d3b6f6fae55b|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo 8 straipsnio]] 1 ir [[#^s-7440b9d06dec57b09a9a8e8f|10 dalių]] nuostatos netaikomos. Tokie koviniai šunys, kovinių ir pavojingų šunų mišrūnai turi būti kastruoti ir negali būti toliau veisiami, įsigyjami ir parduodami. Šių šunų laikymo kontrolę savivaldybės teritorijoje vykdo ir jų paėmimą bei laikiną globą organizuoja savivaldybės administracija. ^s-a931356bf6173f9ebd38b367
+1. Iki šio įstatymo įsigaliojimo laikomiems koviniams šunims, kovinių ir pavojingų šunų mišrūnams, kuriems savivaldybės administracija yra išdavusi leidimą, šiuo įstatymu keičiamo [[latest/TAR.8DDDD8D87491#^s-65c721516f02d3b6f6fae55b|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo 8 straipsnio]] [[latest/TAR.8DDDD8D87491#^s-1c1a853192bc13fcf647a38e|1]] ir [[latest/TAR.8DDDD8D87491#^s-04a39858142a1590842ed86d|10]] dalių nuostatos netaikomos. Tokie koviniai šunys, kovinių ir pavojingų šunų mišrūnai turi būti kastruoti ir negali būti toliau veisiami, įsigyjami ir parduodami. Šių šunų laikymo kontrolę savivaldybės teritorijoje vykdo ir jų paėmimą bei laikiną globą organizuoja savivaldybės administracija. ^s-a931356bf6173f9ebd38b367
 
 
 2. Iki šio įstatymo įsigaliojimo laikomiems pavojingiems šunims, kuriems savivaldybės administracija yra išdavusi leidimą, šiuo įstatymu keičiamo [[latest/TAR.8DDDD8D87491#^s-04a39858142a1590842ed86d|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo 8 straipsnio 10 dalies]] nuostatos netaikomos. ^s-c22686218248af1c62148d8d
 
 
-3. Šis įstatymas, išskyrus šiuo įstatymu keičiamo [[latest/TAR.8DDDD8D87491#^s-9655529eaed87b51265e60b8|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo 7 straipsnio 2 dalį]], [[#^s-8e3180ce50a447789d82dc2b|8 straipsnio 10 dalį]], [[#^s-697cc378404d087d525831e0|10 straipsnio 4 dalį]] ir šio straipsnio 4 ir 5 dalis, įsigalioja 2013 m. sausio 1 d. ^s-1ec8f0670822531d1a1cafb0
+3. Šis įstatymas, išskyrus šiuo įstatymu keičiamo [[latest/TAR.8DDDD8D87491#^s-0718c62f035c3189dca9f26f|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo 7 straipsnio 2 dalį, 8 straipsnio 10 dalį, 10 straipsnio 4 dalį]] ir šio straipsnio [[latest/TAR.8DDDD8D87491#^s-0718c62f035c3189dca9f26f|4]] ir [[latest/TAR.8DDDD8D87491#^s-0482310e89ec5d1d681675a3|5]] dalis, įsigalioja 2013 m. sausio 1 d. ^s-1ec8f0670822531d1a1cafb0
 
 
 4. Šiuo įstatymu keičiamo [[latest/TAR.8DDDD8D87491#^s-9655529eaed87b51265e60b8|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo 7 straipsnio 2 dalis]], [[#^s-697cc378404d087d525831e0|10 straipsnio 4 dalis]] įsigalioja 2016 m. sausio 1 d. ^s-7a3b4168f84664e499238847

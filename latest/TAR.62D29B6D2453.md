@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-d9aa01279ac99742622f015f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. spalio 5 d. dekretą Nr. 761, ratifikuoja 2006 m. rugpjūčio 1 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės Vyriausybės susitarimą dėl įslaptintos informacijos abipusės apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. spalio 5 d. dekretą Nr. 761](https://e-tar.lt/portal/lt/legalAct/TAR.91D5105E5241), ratifikuoja 2006 m. rugpjūčio 1 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės Vyriausybės susitarimą dėl įslaptintos informacijos abipusės apsaugos.
 
 
 

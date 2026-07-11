@@ -92,7 +92,7 @@ Fiziniams asmenims, savo vardu patentuojantiems išradimus bei registruojantiems
 ### 6 straipsnis. 6 straipsnio 1 dalies, 2 dalies 2 punkto ir 3 dalies pakeitimas ^s-8c3215d82eda925a6750e826
 
 
-1. [[#^s-6bd16f87cad642bdf2a3ed07|6 straipsnio 1 dalyje]] išbraukti žodį „pramoninio“ ir šią dalį išdėstyti taip: ^s-6bd16f87cad642bdf2a3ed07
+1. 6 straipsnio 1 dalyje išbraukti žodį „pramoninio“ ir šią dalį išdėstyti taip: ^s-6bd16f87cad642bdf2a3ed07
 
 
 „1. Mokesčiai už išradimo patentavimą, dizaino, puslaidininkinio gaminio topografijos, prekių ženklo registravimą ir su tuo susijusių dokumentų išdavimą bei patentinio patikėtinio registravimą mokami mokėjimo dieną nustatytais dydžiais litais prieš registruojant pramoninės nuosavybės objektus ir išduodant su tuo susijusius dokumentus bei prieš registruojant patentinį patikėtinį Valstybiniame patentų biure.“
@@ -104,7 +104,7 @@ Fiziniams asmenims, savo vardu patentuojantiems išradimus bei registruojantiems
 „2) per šešis paskutinius dizaino galiojimo termino mėnesius;“.
 
 
-3. [[#^s-1db8819066123a82c99e76a6|6 straipsnio 3 dalyje]] išbraukti žodį „pramoninio“ ir šią dalį išdėstyti taip: ^s-1db8819066123a82c99e76a6
+3. 6 straipsnio 3 dalyje išbraukti žodį „pramoninio“ ir šią dalį išdėstyti taip: ^s-1db8819066123a82c99e76a6
 
 
 „3. Mokesčiai už išradimo patento, dizaino ir prekių ženklo galiojimo termino pratęsimą gali būti sumokėti pasibaigus šio straipsnio 2 dalies 1–3 punktuose nustatytam mokėjimo terminui, tačiau ne vėliau kaip per 6 mėnesius.“

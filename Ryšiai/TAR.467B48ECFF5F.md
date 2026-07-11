@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos teisėjų atlyginimų įstatymo priedėlio pa
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.AB0DC76B69A0|Lietuvos Respublikos teisėjų atlyginimų įstatymas]] - 2 citatos - Lietuvos Respublikos teisėjų atlyginimų įstatymo
+- [[latest/TAR.AB0DC76B69A0|Lietuvos Respublikos teisėjų atlyginimų įstatymas]] - 2 citatos - teisėjų atlyginimų įstatymo
 
 ## Šį įstatymą cituoja
 

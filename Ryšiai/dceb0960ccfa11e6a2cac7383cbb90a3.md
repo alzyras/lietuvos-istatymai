@@ -9,11 +9,9 @@ pavadinimas: "Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/aababfc042b811e6a8ae9e1795984391#^s-3ce2c0930dcf0b31faf7bb2b|Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 pakeitimo įstatymas]] - 2 straipsnio 1 dalį
+- [[latest/aababfc042b811e6a8ae9e1795984391#^s-a20d98059ff11419ddd42db6|Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 pakeitimo įstatymas]] - 2 straipsnio 2 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.FDF42614DE52#^s-2e39512a5d730466d01b3504|Lietuvos Respublikos nedarbo socialinio draudimo įstatymas]] - Įstatymas Nr. XIII-141
-- [[latest/TAR.FDF42614DE52#^s-442ecdaaddfb9f937206c16f|Lietuvos Respublikos nedarbo socialinio draudimo įstatymas]] - Įstatymas Nr. XIII-141
-- [[latest/aababfc042b811e6a8ae9e1795984391#^s-22a2b46c1d210d7cfbbdc6b7|Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 pakeitimo įstatymas]] - Įstatymas Nr. XIII-141
-- [[latest/aababfc042b811e6a8ae9e1795984391#^s-f843f9d1a09f6175f2ee4549|Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 pakeitimo įstatymas]] - Įstatymas Nr. XIII-141
+_Nėra._

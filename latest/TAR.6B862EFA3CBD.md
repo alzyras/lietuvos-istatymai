@@ -46,7 +46,7 @@ Vilnius
 Pakeisti 2 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
 
 
-„8) individualių įmonių savininkai, mažųjų bendrijų nariai, tikrųjų ūkinių bendrijų nariai, komanditinių ūkinių bendrijų tikrieji nariai, taip pat asmenys, kurie verčiasi individualia veikla, kaip ji apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]] (advokatai, advokatų padėjėjai, notarai, antstoliai ir kiti asmenys), išskyrus individualią veiklą, kuria verčiamasi turint verslo liudijimą (toliau – savarankiškai dirbantys asmenys), taip pat ūkininkai ir jų partneriai, kaip jie apibrėžti [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatyme]] (toliau – ūkininkai ir jų partneriai), šeimynos dalyviai, kaip jie apibrėžti [[latest/TAR.00D176C81058|Šeimynų įstatyme]] (toliau – šeimynos dalyviai);“.
+„8) individualių įmonių savininkai, mažųjų bendrijų nariai, tikrųjų ūkinių bendrijų nariai, komanditinių ūkinių bendrijų tikrieji nariai, taip pat asmenys, kurie verčiasi individualia veikla, kaip ji apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]] (advokatai, advokatų padėjėjai, notarai, antstoliai ir kiti asmenys), išskyrus individualią veiklą, kuria verčiamasi turint verslo liudijimą (toliau – savarankiškai dirbantys asmenys), taip pat [[latest/TAR.0F9036415DBD|ūkininkai ir jų partneriai]], kaip jie apibrėžti [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatyme]] (toliau – [[latest/TAR.0F9036415DBD|ūkininkai ir jų partneriai]]), [[latest/TAR.00D176C81058|šeimynos dalyviai]], kaip jie apibrėžti [[latest/TAR.00D176C81058|Šeimynų įstatyme]] (toliau – [[latest/TAR.00D176C81058|šeimynos dalyviai]]);“.
 
 
 

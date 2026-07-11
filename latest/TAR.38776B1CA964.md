@@ -47,10 +47,10 @@ Pakeisti 57 straipsnį ir jį išdėstyti taip:
 „57 straipsnis. Asmenys, turintys teisę pateikti muitinės deklaraciją
 
 
-1. Deklarantas, pateikiantis rašytinę muitinės deklaraciją arba muitinės deklaraciją, pateikiamą naudojantis duomenų apdorojimo techninėmis priemonėmis, turi būti Bendrijos muitinės kodekso 64 straipsnyje nurodytas asmuo, muitinės įtrauktas į Muitinės prievolininkų registrą arba turintis ekonominių operacijų vykdytojų registracijos ir identifikavimo kodą (EORI kodą), kurį vadovaudamasi Bendrijos muitinės kodekso įgyvendinimo nuostatų 4l straipsniu suteikė kitos Europos Sąjungos valstybės narės muitinė arba paskirtoji institucija. ^s-72ec687ecdd67ae9f826882a
+1. Deklarantas, pateikiantis rašytinę muitinės deklaraciją arba muitinės deklaraciją, pateikiamą naudojantis duomenų apdorojimo techninėmis priemonėmis, turi būti Bendrijos [muitinės kodekso 64 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nurodytas asmuo, muitinės įtrauktas į Muitinės prievolininkų registrą arba turintis ekonominių operacijų vykdytojų registracijos ir identifikavimo kodą (EORI kodą), kurį vadovaudamasi Bendrijos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) įgyvendinimo nuostatų 4l straipsniu suteikė kitos Europos Sąjungos valstybės narės muitinė arba paskirtoji institucija. ^s-72ec687ecdd67ae9f826882a
 
 
-2. Muitinės departamentas arba Muitinės departamento generalinio direktoriaus įgaliotos muitinės įstaigos registruoja asmenis Muitinės prievolininkų registre, tvarko šį registrą ir įkelia jo duomenis į centrinę elektroninę informacijos ir ryšių sistemą, kurioje kaupiami visų Europos Sąjungos valstybių narių pateikti duomenys, Bendrijos muitinės kodekso įgyvendinimo nuostatų I dalies I antraštinės dalies 6 skyriuje ir Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.“ ^s-7e272bf01fa3dbf0463fab9c
+2. Muitinės departamentas arba Muitinės departamento generalinio direktoriaus įgaliotos muitinės įstaigos registruoja asmenis Muitinės prievolininkų registre, tvarko šį registrą ir įkelia jo duomenis į centrinę elektroninę informacijos ir ryšių sistemą, kurioje kaupiami visų Europos Sąjungos valstybių narių pateikti duomenys, Bendrijos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) įgyvendinimo nuostatų I dalies I antraštinės dalies 6 skyriuje ir Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka.“ ^s-7e272bf01fa3dbf0463fab9c
 
 
 

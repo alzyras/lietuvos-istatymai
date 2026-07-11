@@ -608,7 +608,7 @@ Pakeisti [[#^s-258c5c0866acb921d9d462e5|20 straipsnį]] ir jį išdėstyti taip:
 2. Pakeisti 39 straipsnio 4 dalį ir ją išdėstyti taip: ^s-ea3885b1d39b5b2e43f1dba7
 
 
-„4. Jeigu yra priimtas sprendimas nutraukti profesinės karo tarnybos sutartį šio įstatymo 38 straipsnio 1 dalies 5 ir 6 punktuose bei [[#^s-ea3885b1d39b5b2e43f1dba7|2 dalies]] 4, 5, 6, 9, 10, 11 ir 12 punktuose ir 37 straipsnio 1 dalyje numatytais atvejais, o karys suserga iki numatytos atleidimo iš karo tarnybos dienos, iš pareigų jis gali būti atleistas ir ligos metu. Šiuo atveju jo atleidimo iš karo tarnybos diena nukeliama į kitą dieną po paskutinės ligos dienos, bet ne ilgiau kaip 60 dienų.“
+„4. Jeigu yra priimtas sprendimas nutraukti profesinės karo tarnybos sutartį šio įstatymo 38 straipsnio 1 dalies 5 ir 6 punktuose bei 2 dalies 4, 5, 6, 9, 10, 11 ir 12 punktuose ir 37 straipsnio 1 dalyje numatytais atvejais, o karys suserga iki numatytos atleidimo iš karo tarnybos dienos, iš pareigų jis gali būti atleistas ir ligos metu. Šiuo atveju jo atleidimo iš karo tarnybos diena nukeliama į kitą dieną po paskutinės ligos dienos, bet ne ilgiau kaip 60 dienų.“
 
 
 
@@ -645,7 +645,7 @@ Pakeisti 42 straipsnį ir jį išdėstyti taip:
 6) šio įstatymo 49 straipsnio 3 dalyje numatytu atveju – stažuotės ar mokymosi laikotarpiui; ^s-b1aaf3fc7bb9f9ff24aea529
 
 
-7) kariui grįžus iš šio įstatymo 49 straipsnio 3 dalyje nurodytos stažuotės ar mokymosi arba šio straipsnio 3 ir [[#^s-95991ed4a24001debe80a857|5 dalyse]] nurodytų pareigų (tarnybos) – kol bus paskirtas į kitas pareigas, bet ne ilgiau kaip 1 mėnesiui; ^s-d52f3f22de12c6ccac4554e2
+7) kariui grįžus iš šio įstatymo 49 straipsnio 3 dalyje nurodytos stažuotės ar mokymosi arba šio straipsnio 3 ir 5 dalyse nurodytų pareigų (tarnybos) – kol bus paskirtas į kitas pareigas, bet ne ilgiau kaip 1 mėnesiui; ^s-d52f3f22de12c6ccac4554e2
 
 
 8) šio įstatymo 59 straipsnio 9 dalyje nustatytu atveju – atostogų vaikui prižiūrėti laikotarpiui; ^s-2bc5ce44b4b7c5f928820587
@@ -685,7 +685,7 @@ Pakeisti 44 straipsnio 1 dalį ir ją išdėstyti taip:
 2. Pakeisti 44 straipsnio 2 dalį ir ją išdėstyti taip: ^s-464e476248e4e187ac418a34
 
 
-„2. Iš kario, su kuriuo prieš terminą nutraukiama profesinės karo tarnybos sutartis jo iniciatyva, arba kario, su kuriuo profesinės karo tarnybos sutartis nutraukiama 38 straipsnio 1 dalies 1, 2, 3, 5, 6, 8 punktuose ir [[#^s-464e476248e4e187ac418a34|2 dalies]] 3, 4, 7, 8, 9, 10, 11 punktuose numatytais atvejais, įstatymų nustatyta tvarka gali būti išieškotos krašto apsaugos sistemos išlaidos, tiesiogiai susijusios su jo mokymu, profesiniu parengimu ar kvalifikacijos kėlimu.“
+„2. Iš kario, su kuriuo prieš terminą nutraukiama profesinės karo tarnybos sutartis jo iniciatyva, arba kario, su kuriuo profesinės karo tarnybos sutartis nutraukiama 38 straipsnio 1 dalies 1, 2, 3, 5, 6, 8 punktuose ir 2 dalies 3, 4, 7, 8, 9, 10, 11 punktuose numatytais atvejais, įstatymų nustatyta tvarka gali būti išieškotos krašto apsaugos sistemos išlaidos, tiesiogiai susijusios su jo mokymu, profesiniu parengimu ar kvalifikacijos kėlimu.“
 
 
 
@@ -708,7 +708,7 @@ Pakeisti 44 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 22 straipsnis. 49 straipsnio pakeitimas ^s-70c5f731754d1f11a76c0cb4
 
 
-49 straipsnio pavadinime išbraukti žodžius „Profesinės karo tarnybos“, „užsienyje“, 1 ir [[#^s-1c9bc234728474df60781da2|2 dalyse]] išbraukti žodį „užsienyje“, [[#^s-fc3a28093d211bd790d8b129|3 dalyje]] išbraukti žodžius „į užsienį“ ir šį straipsnį išdėstyti taip:
+49 straipsnio pavadinime išbraukti žodžius „Profesinės karo tarnybos“, „užsienyje“, 1 ir 2 dalyse išbraukti žodį „užsienyje“, [[#^s-fc3a28093d211bd790d8b129|3 dalyje]] išbraukti žodžius „į užsienį“ ir šį straipsnį išdėstyti taip:
 
 
 „49 straipsnis. Karių kvalifikacijos kėlimo sąlygos
@@ -777,7 +777,7 @@ Pakeisti 53 straipsnį 3 dalį ją išdėstyti taip:
 6. Pakeisti 54 straipsnio 8 dalį ir ją išdėstyti taip: ^s-6f99d3db03309419392cb595
 
 
-„8. Atsižvelgiant į Seimo patvirtintą generolų bei admirolų skaičių ir laikantis [[#^s-eaee398ab34c202f42f686c4|šio straipsnio 4 dalyje]] nustatytų sąlygų, kitais nei [[#^s-6f99d3db03309419392cb595|šio straipsnio 6 dalyje]] numatytais atvejais brigados generolo (flotilės admirolo) laipsnis gali būti suteikiamas karininkui, ištarnavusiam pulkininku (jūrų kapitonu) ne mažiau kaip 3 metus ir atitinkančiam [[#^s-9a3a21c0a7788a83b1c67845|šio straipsnio 5 dalyje]] nustatytą reikalavimą, paskyrus jį karinių jūrų pajėgų ar karinių oro pajėgų vadu arba į kitas generolo (admirolo) laipsnį atitinkančias pareigas.“
+„8. Atsižvelgiant į Seimo patvirtintą generolų bei admirolų skaičių ir laikantis [[#^s-eaee398ab34c202f42f686c4|šio straipsnio 4 dalyje]] nustatytų sąlygų, kitais nei šio straipsnio 6 dalyje numatytais atvejais brigados generolo (flotilės admirolo) laipsnis gali būti suteikiamas karininkui, ištarnavusiam pulkininku (jūrų kapitonu) ne mažiau kaip 3 metus ir atitinkančiam [[#^s-9a3a21c0a7788a83b1c67845|šio straipsnio 5 dalyje]] nustatytą reikalavimą, paskyrus jį karinių jūrų pajėgų ar karinių oro pajėgų vadu arba į kitas generolo (admirolo) laipsnį atitinkančias pareigas.“
 
 
 7. Pakeisti 54 straipsnio 9 dalį ir ją išdėstyti taip: ^s-376960bd7556a19514729242
@@ -861,7 +861,7 @@ Pakeisti 67 straipsnį ir jį išdėstyti taip:
 „67 straipsnis. Kompensacijos kario žūties ar sveikatos sutrikimo atveju
 
 
-1. Dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, arba dėl tarnybos tapusiam neįgaliam arba ir netapusiam neįgaliam kariui, kuriam dėl sveikatos sutrikimo liko liekamųjų reiškinių ir sumažėjo tinkamumo tarnybai laipsnis, išmokama šio straipsnio 5, 6, 7, 8, 9 ir [[#^s-cde544bd7b73b9bd67b18808|10 dalyse]] nustatyto dydžio vienkartinė kompensacija, sumažinta priklausančių išmokėti draudimo iš valstybės biudžeto išmokų dydžiu. Kariui žuvus dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, arba dėl tarnybos, išmokama [[#^s-4adbe9a35d2c2a0dc8b68656|šio straipsnio 11 dalyje]] nustatyto dydžio vienkartinė kompensacija, sumažinta priklausančių išmokėti draudimo iš valstybės biudžeto išmokų dydžiu. Šios kompensacijos mokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto lėšų. ^s-f8a5a860edb6f3927a5bd3a6
+1. Dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, arba dėl tarnybos tapusiam neįgaliam arba ir netapusiam neįgaliam kariui, kuriam dėl sveikatos sutrikimo liko liekamųjų reiškinių ir sumažėjo tinkamumo tarnybai laipsnis, išmokama šio straipsnio [[#^s-1b607412e1bc6213e3598b11|5]], [[#^s-f2677d3efb4fb6b383d91ee5|6]], [[#^s-55603283bf802d0ab1c5073e|7]], [[#^s-a771d145e7c2084af11d0632|8]], [[#^s-423973320da1c9ce68aabc8b|9]] ir [[#^s-cde544bd7b73b9bd67b18808|10]] dalyse nustatyto dydžio vienkartinė kompensacija, sumažinta priklausančių išmokėti draudimo iš valstybės biudžeto išmokų dydžiu. Kariui žuvus dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, arba dėl tarnybos, išmokama [[#^s-4adbe9a35d2c2a0dc8b68656|šio straipsnio 11 dalyje]] nustatyto dydžio vienkartinė kompensacija, sumažinta priklausančių išmokėti draudimo iš valstybės biudžeto išmokų dydžiu. Šios kompensacijos mokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto lėšų. ^s-f8a5a860edb6f3927a5bd3a6
 
 
 2. Šiame straipsnyje nustatytos kompensacijos nemokamos, jeigu karys žūva ar jo sveikata sutrinka darant tyčinę nusikalstamą veiką ar kitą teisės pažeidimą, nevykdant teisėto įsakymo, nesilaikant saugumo technikos ar pareigybės nuostatų reikalavimų, taip pat jei kario žuvimo ar sveikatos sutrikimo priežastis buvo apsvaigimas nuo alkoholio, narkotinių, psichotropinių ar toksinių medžiagų, jei karys nusižudė, kėsinosi nusižudyti ar tyčia susižalojo. ^s-fe2a8f8f8c83cc6e20a07be8

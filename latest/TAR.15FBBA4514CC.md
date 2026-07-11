@@ -72,7 +72,7 @@ Pakeisti 342 straipsnio 4 dalį ir ją išdėstyti taip:
 1) dėl viešųjų darbų bausmės – pataisos inspekcijoms; ^s-78d91859fbbaf983ea506dff
 
 
-2) dėl baudos priverstinio išieškojimo – antstoliams; ^s-11c80fcfc0881c6ac67d689f
+2) [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) priverstinio išieškojimo – antstoliams; ^s-11c80fcfc0881c6ac67d689f
 
 
 3) dėl laisvės apribojimo bausmės – pataisos inspekcijoms; ^s-d0efb74a4a325d5c8141aee4

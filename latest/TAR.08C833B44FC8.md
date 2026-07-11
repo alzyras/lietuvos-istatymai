@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-f3a83dbd98cf030973bcee0e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. liepos 9 d. dekretą Nr. 1K-1142, ratifikuoja Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimą dėl asmenų readmisijos, pasirašytą 2011 m. spalio 6 d. Astanoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. liepos 9 d. dekretą Nr. 1K-1142](https://e-tar.lt/portal/lt/legalAct/TAR.143E8AB8154E), ratifikuoja Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimą dėl asmenų readmisijos, pasirašytą 2011 m. spalio 6 d. Astanoje.
 
 
 

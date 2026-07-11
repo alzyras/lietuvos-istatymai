@@ -217,7 +217,7 @@ Nr. XV-961, 2026-05-14, paskelbta TAR 2026-05-21, i. k. 2026-08553
 
 
 
-43. Retransliavimo paslaugos – visuomenei skirtų nesutrumpintų ir nepakeistų radijo ir (ar) televizijos programų ar atskirų jų laidų perdavimas visuomenei tuo pačiu metu, kai vyksta pirminė programų transliacija, nepriklausomai nuo techninių ir programinių perdavimo priemonių, jeigu pirminė transliacija nėra vykdoma internetu, o programas perduoda ne ta transliuojančioji organizacija, kuri vykdo pirminę transliaciją, ją prižiūri ir prisiima atsakomybę už ją. Programų perdavimas internetu laikomas retransliavimo paslauga, jeigu naudojant interneto prieigos paslaugas, kaip jos apibrėžiamos 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamento (ES) 2015/2120, kuriuo nustatomos priemonės, susijusios su atvira interneto prieiga, ir kuriuo iš dalies keičiami Direktyva 2002/22/EB dėl universaliųjų paslaugų ir paslaugų gavėjų teisių, susijusių su elektroninių ryšių tinklais ir paslaugomis, ir Reglamentas (ES) Nr. 531/2012 dėl tarptinklinio ryšio per viešuosius judriojo ryšio tinklus Sąjungoje, [[#^s-9076d388fc5cf747e8ce109c|2 straipsnio]] antrosios pastraipos 2 punkte, programos yra perduodamos retransliuotojo administruojamoje aplinkoje, kurioje jis teikia saugias programų perdavimo paslaugas teisėtą prieigą turintiems naudotojams. ^s-91f1c58153a0af93e7ac7ad1
+43. Retransliavimo paslaugos – visuomenei skirtų nesutrumpintų ir nepakeistų radijo ir (ar) televizijos programų ar atskirų jų laidų perdavimas visuomenei tuo pačiu metu, kai vyksta pirminė programų transliacija, nepriklausomai nuo techninių ir programinių perdavimo priemonių, jeigu pirminė transliacija nėra vykdoma internetu, o programas perduoda ne ta transliuojančioji organizacija, kuri vykdo pirminę transliaciją, ją prižiūri ir prisiima atsakomybę už ją. Programų perdavimas internetu laikomas retransliavimo paslauga, jeigu naudojant interneto prieigos paslaugas, kaip jos apibrėžiamos 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [reglamento (ES) 2015/2120](https://eur-lex.europa.eu/eli/reg/2015/2120/oj), kuriuo nustatomos priemonės, susijusios su atvira interneto prieiga, ir kuriuo iš dalies keičiami Direktyva 2002/22/EB dėl universaliųjų paslaugų ir paslaugų gavėjų teisių, susijusių su elektroninių ryšių tinklais ir paslaugomis, ir Reglamentas (ES) Nr. 531/2012 dėl tarptinklinio ryšio per viešuosius judriojo ryšio tinklus Sąjungoje, [[#^s-9076d388fc5cf747e8ce109c|2 straipsnio]] antrosios pastraipos 2 punkte, programos yra perduodamos retransliuotojo administruojamoje aplinkoje, kurioje jis teikia saugias programų perdavimo paslaugas teisėtą prieigą turintiems naudotojams. ^s-91f1c58153a0af93e7ac7ad1
 
 
 44. Retransliavimą papildančios paslaugos – paslaugos (išskyrus internetines transliavimo paslaugas ir retransliavimo paslaugas), kurias sudaro teisėtai retransliuojamų radijo ir (ar) televizijos programų ar atskirų jų laidų viešas paskelbimas arba padarymas viešai prieinamų šių paslaugų teikėjo (retransliuotojo) administruojamoje saugioje aplinkoje taip, kad teisėtą prieigą turintys šių paslaugų naudotojai galėtų jas pasiekti savo pasirinktoje vietoje ar pasirinktu laiku ribotą laiką po pirminės transliuojančiosios organizacijos perduodamos transliacijos retransliavimo. Interaktyviosios televizijos žiūrėjimo atidėjimo ar sustabdymo paslaugos laikomos retransliavimą papildančiomis paslaugomis. ^s-7bb82a10748ea0707c3ce21a
@@ -371,7 +371,7 @@ AUTORIŲ TEISIŲ OBJEKTAI
 2) kūrinių rinkiniai ar duomenų rinkiniai, duomenų bazės (išreikštos techninėmis priemonėmis skaityti pritaikyta ar kita forma), kurie dėl turinio parinkimo ar išdėstymo yra autoriaus intelektinės kūrybos rezultatas; ^s-707e269ea7ea915ec4ebebb5
 
 
-3) teisės aktų, oficialių administracinio, teisinio ar norminio pobūdžio dokumentų, nurodytų šio Įstatymo [[#^s-ca61ecc354e5c12252594a3c|5 straipsnio 2 punkte]], neoficialūs vertimai. ^s-84f6a9166ba998d3c072d7b6
+3) teisės aktų, oficialių administracinio, teisinio ar norminio pobūdžio dokumentų, nurodytų šio Įstatymo 5 straipsnio 2 punkte, neoficialūs vertimai. ^s-84f6a9166ba998d3c072d7b6
 
 
 4. Autorių teisės išvestiniams kūriniams ir rinkiniams taikomos nepažeidžiant autorių teisių į kūrinį ar kūrinius, kurių pagrindu buvo sukurtas išvestinis kūrinys arba sudarytas rinkinys, bet netaikomos duomenims ar medžiagai, nesantiems autorių teisių objektais, iš kurių sudaryta duomenų bazė. ^s-08c649f0f41fc8923c4e11c0
@@ -725,7 +725,7 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
 
 
-6. Perpardavimo teisės galiojimo terminams mutatis mutandis taikomos šio Įstatymo [[#^s-3112a137212841347855bcea|34 straipsnio 1 dalies]], [[#^s-a0540b170f6c934e9f751bf2|35 straipsnio]] 1 ir [[#^s-35ff7842fee560c9cd5e6067|2 dalių]] ir [[#^s-42473440a047dfba97d1d7a5|37 straipsnio 1 dalies]] nuostatos. ^s-2f26c12b986d7a0df1316dd5
+6. Perpardavimo teisės galiojimo terminams mutatis mutandis taikomos šio Įstatymo [[#^s-3112a137212841347855bcea|34 straipsnio 1 dalies]], [[#^s-a0540b170f6c934e9f751bf2|35 straipsnio]] [[#^s-f53ad01cad54d50633651fe3|1]] ir [[#^s-083499101816dee1b64693cf|2]] dalių ir [[#^s-42473440a047dfba97d1d7a5|37 straipsnio 1 dalies]] nuostatos. ^s-2f26c12b986d7a0df1316dd5
 
 
 7. [[#^s-0193d3d4466d49cb9456f8dc|Šio straipsnio 1 dalyje]] numatyta perpardavimo teisė trečiųjų šalių autoriams ar jų teisių paveldėtojams Lietuvos Respublikoje taikoma tik tuo atveju, jeigu trečiosios šalies, kuriai priklauso autorius ar jo teisių paveldėtojas, įstatymai numato perpardavimo teisę Lietuvos Respublikos ir kitų Europos ekonominės erdvės valstybių autoriams ir jų teisių paveldėtojams. ^s-9a430528b2ab6de02e23db72
@@ -794,7 +794,7 @@ Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
 1) architektūros kūriniai pastatų ar kitokių statinių pavidalu; ^s-c6903dcc554d79dbe9f6413f
 
 
-2) kompiuterių programos (išskyrus šio Įstatymo 30 ir [[#^s-3b9515853479688a2e84b5f0|31 straipsniuose]] numatytus atvejus); ^s-14f2f650f37b479f092af096
+2) kompiuterių programos (išskyrus šio Įstatymo [[#^s-6fd3d46087b9484ea3c0387a|30]] ir [[#^s-3b9515853479688a2e84b5f0|31]] straipsniuose numatytus atvejus); ^s-14f2f650f37b479f092af096
 
 
 3) elektroninės duomenų bazės (išskyrus šio Įstatymo [[#^s-93e0e014505e9c30c0b7a694|32 straipsnyje]] numatytus atvejus). ^s-9188793e33c29b58db6aec48
@@ -809,7 +809,7 @@ Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
 5. Kompensacinis atlyginimas turi būti mokamas už šio Įstatymo 1 priede nustatytus pirmą kartą Lietuvos Respublikoje parduodamus civilinėje apyvartoje esančius, pagamintus Lietuvos Respublikoje ar į jos teritoriją įvežtus atgaminti asmeniniam naudojimui skirtus įrenginius (toliau šiame straipsnyje – įrenginiai) ir tuščias analogines ir skaitmenines garso ir audiovizualines laikmenas (toliau šiame straipsnyje – tuščios laikmenos). Kompensacinį atlyginimą privalo mokėti asmenys, parduodantys šiuos įrenginius ir tuščias laikmenas (toliau šiame straipsnyje – kompensacinio atlyginimo mokėtojai) Lietuvos Respublikoje. ^s-78a49f2477b41ecd384ae34f
 
 
-6. Tuščių laikmenų ir įrenginių, už kuriuos turi būti mokamas kompensacinis atlyginimas, sąrašas ir kompensacinio atlyginimo tarifai, nustatyti šio Įstatymo 1 priede, turi būti peržiūrimi ne rečiau kaip kas dveji metai. Kitas kompensacinio atlyginimo mokėjimo sąlygas ir tvarką, atsižvelgdama į tai, ar taikomos, ar netaikomos šio Įstatymo [[#^s-91cc5ac0286a23628938d7e6|74 straipsnio]] 1 ir [[#^s-66a563b94cd19bbb47c41612|2 dalyse]] nustatytos techninės apsaugos priemonės, nustato Vyriausybė, suderinusi su kompensacinio atlyginimo mokėtojams atstovaujančiomis asociacijomis ir kolektyvinio administravimo organizacijomis. ^s-2960bc2abfe613791de7d9d7
+6. Tuščių laikmenų ir įrenginių, už kuriuos turi būti mokamas kompensacinis atlyginimas, sąrašas ir kompensacinio atlyginimo tarifai, nustatyti šio Įstatymo 1 priede, turi būti peržiūrimi ne rečiau kaip kas dveji metai. Kitas kompensacinio atlyginimo mokėjimo sąlygas ir tvarką, atsižvelgdama į tai, ar taikomos, ar netaikomos šio Įstatymo [[#^s-91cc5ac0286a23628938d7e6|74 straipsnio]] [[#^s-af9edccf4b5ecb65525fd845|1]] ir [[#^s-560146cc7f23283f773fe247|2]] dalyse nustatytos techninės apsaugos priemonės, nustato Vyriausybė, suderinusi su kompensacinio atlyginimo mokėtojams atstovaujančiomis asociacijomis ir kolektyvinio administravimo organizacijomis. ^s-2960bc2abfe613791de7d9d7
 Straipsnio dalies pakeitimai:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
@@ -986,7 +986,7 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 
 
 3) naudoti kūrinius, esančius bibliotekose, mokymo ir mokslo įstaigų bibliotekose, muziejuose arba archyvuose, nekomerciniais mokslinių tyrimų ar asmeninių studijų tikslais juos padarant viešai prieinamus kompiuterių tinklais tam skirtuose terminaluose tų įstaigų patalpose, jeigu kūrinio nėra viešoje prekyboje ir autorių teisių subjektai nėra uždraudę tokio kūrinių panaudojimo. Šio apribojimo tikslais šiame punkte nurodytos įstaigos gali atgaminti įsigytus kūrinių egzempliorius, tačiau tik tam, kad būtų įmanoma techniškai padaryti kūrinį viešai prieinamą kompiuterių tinklais. Tuo pačiu metu negali būti padaroma prieinamų kompiuterių tinklais daugiau kūrinio egzempliorių, negu jų yra šiose įstaigose. Šiame punkte nurodytos įstaigos privalo užtikrinti, kad būtų naudojamos efektyvios techninės apsaugos priemonės, neleidžiančios atgaminti kūrinių kopijų, taip pat bet kokiu būdu perkelti ar perduoti kūrinių turinio informaciją už įstaigų terminalų ribų į išorės tinklus; ^s-af2b8a5de75a48b245f9fe38
-Pastaba. [[#^s-af2b8a5de75a48b245f9fe38|22 straipsnio 3 punktas]] taikomas tik tų kūrinių ir gretutinių teisių objektų atžvilgiu, kurie išleisti ar kitaip viešai paskelbti po šio įstatymo (Nr. XI-1833) įsigaliojimo.
+Pastaba. 22 straipsnio 3 punktas taikomas tik tų kūrinių ir gretutinių teisių objektų atžvilgiu, kurie išleisti ar kitaip viešai paskelbti po šio įstatymo (Nr. XI-1833) įsigaliojimo.
 
 
 
@@ -1099,7 +1099,7 @@ Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
 3) kruopščiai tvarkyti kūrinius ar kitus objektus ir jų prieinamos formos kopijas, fiksuodamas tvarkomąjį darbą (duomenų rinkimą, įrašymą, rūšiavimą, saugojimą ir kita); ^s-08b47c18c38dec53ec0cdd50
 
 
-4) savo interneto svetainėje ar kitais viešą prieigą užtikrinančiais būdais skelbti ir atnaujinti informaciją apie šios dalies 1, 2 ir [[#^s-08b47c18c38dec53ec0cdd50|3 punktuose]] numatytų įsipareigojimų vykdymą; ^s-7b8f9c63b54b3901577ad3eb
+4) savo interneto svetainėje ar kitais viešą prieigą užtikrinančiais būdais skelbti ir atnaujinti informaciją apie šios dalies [[#^s-5816f3c5daa4457722cc60a4|1]], [[#^s-0bab8756857f0fe1b7b19bfc|2]] ir [[#^s-08b47c18c38dec53ec0cdd50|3]] punktuose numatytų įsipareigojimų vykdymą; ^s-7b8f9c63b54b3901577ad3eb
 
 
 5) skaitymo negalią turinčių asmenų, kitų įgaliotųjų subjektų ar teisių turėtojų prašymu pateikti informaciją, kokias prieinamos formos kopijas ir formas jis turi, taip pat įgaliotųjų subjektų, su kuriais jis keitėsi prieinamos formos kopijomis, pavadinimus ir kontaktinius duomenis. ^s-053e307332a3759156ccc929
@@ -1192,7 +1192,7 @@ Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
 3. Jokia kompiuterių programos kopija ar adaptuota programa negali būti be autoriaus ar kito autorių teisių subjekto leidimo naudojama kitokiems tikslams, negu nustatyti [[#^s-62e6d0e6575778e21a4289e7|šio straipsnio 1 dalyje]]. ^s-2a2b0089756501c5c507f89a
 
 
-4. Negalioja sutartys, trukdančios atlikti šio straipsnio 1 ir [[#^s-3e47d6ae9d22fa9f2dbeefcc|2 dalyse]] nurodytus veiksmus. ^s-b14d1aea1b5e2ded2ca12c1e
+4. Negalioja sutartys, trukdančios atlikti šio straipsnio [[#^s-62e6d0e6575778e21a4289e7|1]] ir [[#^s-3e47d6ae9d22fa9f2dbeefcc|2]] dalyse nurodytus veiksmus. ^s-b14d1aea1b5e2ded2ca12c1e
 
 
 
@@ -1236,7 +1236,7 @@ Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
 ### 32 straipsnis. Duomenų bazių naudojimas ^s-93e0e014505e9c30c0b7a694
 
 
-1. Teisėtas duomenų bazės ar jos kopijos naudotojas be autoriaus arba kito autorių teisių subjekto leidimo turi teisę atlikti šio Įstatymo [[#^s-12de517d5284ae5bb7b18c00|15 straipsnio 1 dalyje]] nurodytus veiksmus, jeigu šie veiksmai reikalingi tam, kad teisėtas duomenų bazės naudotojas galėtų sužinoti duomenų bazės turinį ir juo tinkamai naudotis. Šio Įstatymo [[#^s-600168122da7957e10d4711d|25 straipsnio 2 dalyje]] nurodytais atvejais nekomerciniais tikslais teisėtas duomenų bazės ar jos kopijos naudotojas be autoriaus arba kito autorių teisių subjekto leidimo turi teisę atlikti šio Įstatymo [[#^s-12de517d5284ae5bb7b18c00|15 straipsnio 1 dalies]] 1, 5 ir 8 punktuose nurodytus veiksmus. ^s-a901a8abab15ede1b5a8f25a
+1. Teisėtas duomenų bazės ar jos kopijos naudotojas be autoriaus arba kito autorių teisių subjekto leidimo turi teisę atlikti šio Įstatymo [[#^s-12de517d5284ae5bb7b18c00|15 straipsnio 1 dalyje]] nurodytus veiksmus, jeigu šie veiksmai reikalingi tam, kad teisėtas duomenų bazės naudotojas galėtų sužinoti duomenų bazės turinį ir juo tinkamai naudotis. Šio Įstatymo [[#^s-600168122da7957e10d4711d|25 straipsnio 2 dalyje]] nurodytais atvejais nekomerciniais tikslais teisėtas duomenų bazės ar jos kopijos naudotojas be autoriaus arba kito autorių teisių subjekto leidimo turi teisę atlikti šio Įstatymo [[#^s-12de517d5284ae5bb7b18c00|15 straipsnio 1 dalies]] [[#^s-1895c07e327f19b6d35c9ac5|1]], [[#^s-6825401a07b325a152006163|5]] ir [[#^s-71325a8974bd5f1fe4672610|8]] punktuose nurodytus veiksmus. ^s-a901a8abab15ede1b5a8f25a
 Straipsnio dalies pakeitimai:
 Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
 
@@ -1245,7 +1245,7 @@ Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
 2. Kai teisėtam duomenų bazės naudotojui leidžiama naudotis tik bazės dalimi, [[#^s-a901a8abab15ede1b5a8f25a|šio straipsnio 1 dalies]] nuostatos taikomos tik tai duomenų bazės daliai. ^s-4f47fead5207fa5212d04981
 
 
-3. Sutarčių sąlygos, trukdančios atlikti šio straipsnio 1, 5, 6 ir [[#^s-3f34d8b2ddf01af4a403d755|7 dalyse]] nurodytus veiksmus, yra niekinės ir negalioja. ^s-9d7f8a0c4793e27c90fddc4a
+3. Sutarčių sąlygos, trukdančios atlikti šio straipsnio [[#^s-a901a8abab15ede1b5a8f25a|1]], [[#^s-a836b23dbcf8add72e48c561|5]], [[#^s-a95fc6763c2977ff190fb1aa|6]] ir [[#^s-3f34d8b2ddf01af4a403d755|7]] dalyse nurodytus veiksmus, yra niekinės ir negalioja. ^s-9d7f8a0c4793e27c90fddc4a
 Straipsnio dalies pakeitimai:
 Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 
@@ -1321,7 +1321,7 @@ AUTORIŲ TEISIŲ GALIOJIMO TERMINAI
 
 
 5. Autorių turtinės teisės į muzikos kūrinį su žodžiais galioja visą muzikos kūrinio su žodžiais autorių (kompozitoriaus ir žodžių autoriaus) gyvenimą ir 70 metų po ilgiausiai išgyvenusio autoriaus mirties, neatsižvelgiant į tai, ar šie asmenys laikomi bendraautoriais, ar ne, su sąlyga, kad jų sukurtos kūrinio dalys (muzika ir žodžiai) buvo specialiai kuriamos tam muzikos kūriniui su žodžiais. ^s-44ed0a7972eae516e74fea9a
-Pastaba. [[#^s-44ed0a7972eae516e74fea9a|5 dalis]] taikoma muzikos kūrinių su žodžiais autoriams (kompozitoriams ir žodžių autoriams), jeigu iki 2013 m. lapkričio 1 d. nėra pasibaigę kompozitoriaus ar žodžių autoriaus teisių galiojimo terminai, taip pat autoriams (kompozitoriams ir žodžių autoriams), kurių muzikos kūriniai su žodžiais sukurti po 2013 m. lapkričio 1 d.
+Pastaba. 5 dalis taikoma muzikos kūrinių su žodžiais autoriams (kompozitoriams ir žodžių autoriams), jeigu iki 2013 m. lapkričio 1 d. nėra pasibaigę kompozitoriaus ar žodžių autoriaus teisių galiojimo terminai, taip pat autoriams (kompozitoriams ir žodžių autoriams), kurių muzikos kūriniai su žodžiais sukurti po 2013 m. lapkričio 1 d.
 
 
 Straipsnio pakeitimai:
@@ -1342,7 +1342,7 @@ Nr. XII-888, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05732
 ### 37 straipsnis. Autorių teisių galiojimo terminų skaičiavimas ^s-62e59b824812a470f8267b4f
 
 
-1. Šio Įstatymo 34–[[#^s-3435212360d8de49c017d764|36 straipsniuose]] nustatyti terminai pradedami skaičiuoti nuo sausio 1 dienos po tų metų, kada buvo juridinis faktas, kurio pagrindu pradedamas skaičiuoti terminas. ^s-42473440a047dfba97d1d7a5
+1. Šio Įstatymo [[#^s-42c1b914d4db05bca04286ff|34]]–[[#^s-3435212360d8de49c017d764|36]] straipsniuose nustatyti terminai pradedami skaičiuoti nuo sausio 1 dienos po tų metų, kada buvo juridinis faktas, kurio pagrindu pradedamas skaičiuoti terminas. ^s-42473440a047dfba97d1d7a5
 
 
 2. Autorių teisių į kūrinį, išleistą atskirais vienetais (tomais, dalimis, laidomis, epizodais), galiojimo terminas skaičiuojamas kiekvienam vienetui atskirai nuo to vieneto teisėto išleidimo datos. ^s-ddffc0ca882ae735c573ffbe
@@ -1472,13 +1472,13 @@ a) ar autoriaus įnašas turėjo tiesioginės įtakos bendrai kūrinio komercine
 b) ar autoriaus įnašas galėjo būti pakeistas kito autoriaus įnašu, nedarant poveikio kūrinio komercinei sėkmei.
 
 
-4. Jeigu nesutariama dėl informacijos teikimo šio straipsnio 1 ar [[#^s-cc74a6162c04356e157d5e60|2 dalyje]] numatytais atvejais, bet kuri iš sutarties šalių gali kreiptis į šio Įstatymo [[#^s-b4926908615a7634406d3b6e|7230 straipsnio 1 dalyje]] nurodytą Lietuvos autorių teisių ir gretutinių teisių komisiją su prašymu išspręsti ginčą, pasinaudoti kitais teisės aktuose numatytais ikiteisminio ginčų sprendimo būdais arba teisės aktų nustatyta tvarka kreiptis į teismą. ^s-4d2ebeff3dcdee6e3e6804c2
+4. Jeigu nesutariama [dėl informacijos teikimo](https://e-tar.lt/portal/lt/legalAct/dffb9e80727911eabee4a336e7e6fdab) šio straipsnio [1](https://e-tar.lt/portal/lt/legalAct/dffb9e80727911eabee4a336e7e6fdab) ar [2](https://e-tar.lt/portal/lt/legalAct/dffb9e80727911eabee4a336e7e6fdab) dalyje numatytais atvejais, bet kuri iš sutarties šalių gali kreiptis į šio Įstatymo [[#^s-b4926908615a7634406d3b6e|7230 straipsnio 1 dalyje]] nurodytą Lietuvos autorių teisių ir gretutinių teisių komisiją su prašymu išspręsti ginčą, pasinaudoti kitais teisės aktuose numatytais ikiteisminio ginčų sprendimo būdais arba teisės aktų nustatyta tvarka kreiptis į teismą. ^s-4d2ebeff3dcdee6e3e6804c2
 
 
 5. Sutarčių sąlygos, kuriomis atsisakoma teisės į informaciją, numatytą [[#^s-545d830f77ce80d0b9d642c9|šio straipsnio 1 dalyje]], yra niekinės ir negalioja. ^s-6236a3af25eeff411ae38ec3
 
 
-6. Informacija autoriams teikiama laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (toliau – Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] reikalavimų ir užtikrinant tinkamą komercinės paslapties ir (arba) konfidencialios informacijos apsaugą. Autoriui ir šaliai, kuriai autoriai sutartimi perdavė ar suteikė teises, ar kitai informaciją teikiančiai šaliai susitarus dėl informacijos atskleidimo, šalis gali reikalauti, kad prieš atskleidžiant informaciją autorius būtų įpareigojamas neatskleisti komercinės paslapties ir užtikrinti tinkamą komercinės paslapties ir (arba) konfidencialios informacijos apsaugą. ^s-9d788621faf007e1e7fb715e
+6. Informacija autoriams teikiama laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (toliau – Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] reikalavimų ir užtikrinant tinkamą komercinės paslapties ir (arba) konfidencialios informacijos apsaugą. Autoriui ir šaliai, kuriai autoriai sutartimi perdavė ar suteikė teises, ar kitai informaciją teikiančiai šaliai susitarus dėl informacijos atskleidimo, šalis gali reikalauti, kad prieš atskleidžiant informaciją autorius būtų įpareigojamas neatskleisti komercinės paslapties ir užtikrinti tinkamą komercinės paslapties ir (arba) konfidencialios informacijos apsaugą. ^s-9d788621faf007e1e7fb715e
 
 
 Papildyta straipsniu:
@@ -1621,7 +1621,7 @@ Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
 1. Leidybos sutartis turi būti sudaroma raštu. ^s-74bd2c11bbc0b92059b8fe7f
 
 
-2. Leidybos sutartyje, be šio Įstatymo 40 ir [[#^s-6008f6ec69ea2a1d03ab3f72|41 straipsniuose]] nurodytų sąlygų, turi būti nustatyta kūrinio pateikimo tvarka ir (ar) būdas, kūrinio aprobavimo tvarka ir terminai, autorių teisės ir pareigos rengiant kūrinį spaudai (kūrinio pakeitimas, redagavimas, korektūros skaitymas ir kita), didžiausias ir (ar) mažiausias išleidžiamų kūrinio kopijų (egzempliorių) skaičius, jų platinimo tvarka, autoriui perduodamų išleisto kūrinio kopijų (autorinių egzempliorių, kuriais laikomi ne daugiau kaip dešimt išleidžiamo kūrinio kopijų) skaičius ir kitos sąlygos. ^s-62162858ea5b6168bcb9638a
+2. Leidybos sutartyje, be šio Įstatymo [[#^s-5f35d366240f31f831e8f544|40]] ir [[#^s-6008f6ec69ea2a1d03ab3f72|41]] straipsniuose nurodytų sąlygų, turi būti nustatyta kūrinio pateikimo tvarka ir (ar) būdas, kūrinio aprobavimo tvarka ir terminai, autorių teisės ir pareigos rengiant kūrinį spaudai (kūrinio pakeitimas, redagavimas, korektūros skaitymas ir kita), didžiausias ir (ar) mažiausias išleidžiamų kūrinio kopijų (egzempliorių) skaičius, jų platinimo tvarka, autoriui perduodamų išleisto kūrinio kopijų (autorinių egzempliorių, kuriais laikomi ne daugiau kaip dešimt išleidžiamo kūrinio kopijų) skaičius ir kitos sąlygos. ^s-62162858ea5b6168bcb9638a
 
 
 Straipsnio pakeitimai:
@@ -1632,7 +1632,7 @@ Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
 ### 45 straipsnis. Kūrinio išleidimas knyga ^s-f0c0237276de81290f12595c
 
 
-1. Kai kūrinys išleidžiamas knyga, be šio Įstatymo 40 ir [[#^s-077b67fe717105c1c639fe93|44 straipsniuose]] nustatytų sąlygų, leidybos sutartyje turi būti nurodyta: ^s-a47f4ea0254cffddd8e712d9
+1. Kai kūrinys išleidžiamas knyga, be šio Įstatymo [[#^s-5f35d366240f31f831e8f544|40]] ir [[#^s-077b67fe717105c1c639fe93|44]] straipsniuose nustatytų sąlygų, leidybos sutartyje turi būti nurodyta: ^s-a47f4ea0254cffddd8e712d9
 
 
 1) kalba ar kalbos, kuriomis kūrinys turi būti išleistas; ^s-19dfa376bf6b89b16a2b5ac8
@@ -1771,7 +1771,7 @@ GRETUTINĖS TEISĖS
 3. Šio Įstatymo [[#^s-8515d7225062c7de2ab6f7c6|6 straipsnio 2 dalis]] mutatis mutandis taikoma ir gretutinių teisių subjektams. ^s-15e2f7f9b8d2766d2effe487
 
 
-4. Šio Įstatymo 151 ir [[#^s-ee3aa80a006e7e18545d9c99|152 straipsnių]] nuostatos mutatis mutandis taikomos ir gretutinių teisių objektų naudojimui. ^s-9d645b179f2a36e1a001edf3
+4. Šio Įstatymo [[#^s-b0927ddbbfcff8dea4bba517|151]] ir [[#^s-ee3aa80a006e7e18545d9c99|152]] straipsnių nuostatos mutatis mutandis taikomos ir gretutinių teisių objektų naudojimui. ^s-9d645b179f2a36e1a001edf3
 Papildyta straipsnio dalimi:
 Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 
@@ -1828,7 +1828,7 @@ Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
 5. Atlikėjas, kuris sudarydamas sutartį su fonogramos gamintoju perdavė fonogramos gamintojui teisę nuomoti į fonogramą įrašytą atlikimą, turi neatšaukiamą teisę į tam tikrą atlyginimą už fonogramos ar jos kopijos nuomą. ^s-9ad4389d30f4be5c132d3e9a
 
 
-6. Šio straipsnio 4 ir [[#^s-9ad4389d30f4be5c132d3e9a|5 dalyse]] numatytos teisės į atlyginimą paprastai įgyvendinamos per kolektyvinio administravimo organizaciją. Šį atlyginimą moka fiziniai arba juridiniai asmenys, kuriems fonogramos ar audiovizualinio kūrinio gamintojas perdavė arba suteikė teisę nuomoti tas fonogramas, audiovizualinius įrašus ar jų kopijas. ^s-03bb8022872170ec30292501
+6. Šio straipsnio [[#^s-4599c29a4e491613e591157f|4]] ir [[#^s-9ad4389d30f4be5c132d3e9a|5]] dalyse numatytos teisės į atlyginimą paprastai įgyvendinamos per kolektyvinio administravimo organizaciją. Šį atlyginimą moka fiziniai arba juridiniai asmenys, kuriems fonogramos ar audiovizualinio kūrinio gamintojas perdavė arba suteikė teisę nuomoti tas fonogramas, audiovizualinius įrašus ar jų kopijas. ^s-03bb8022872170ec30292501
 Straipsnio dalies pakeitimai:
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 
@@ -2027,7 +2027,7 @@ Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
 3) naudotis saugomų teisių objektais, kai saugomų teisių galiojimo terminas jau pasibaigė. ^s-d59d8bc608e8fd976cc0fd69
 
 
-5. [[#^s-d9017cfc984082b9098a9a6a|Šio straipsnio 1 dalyje]] nurodytoms teisėms mutatis mutandis taikomi šio Įstatymo 221, 222, 23 ir 89–[[#^s-8e0352bfbe444ccc4e0e791b|96 straipsniai]]. ^s-617fb816b50497e1c84e4143
+5. [[#^s-d9017cfc984082b9098a9a6a|Šio straipsnio 1 dalyje]] nurodytoms teisėms mutatis mutandis taikomi šio Įstatymo [[#^s-92ca78edf30253d44eb6c342|221]], [[#^s-4ecb6039987a8988728337c3|222]], [[#^s-8df90554bccd6c13dda80362|23]] ir [[#^s-878282693f8e2f202c06394d|89]]–[[#^s-8e0352bfbe444ccc4e0e791b|96]] straipsniai. ^s-617fb816b50497e1c84e4143
 
 
 6. Elektroninės spaudos leidėjai privalo užtikrinti, kad į elektroninius spaudos leidinius įtrauktų kūrinių autoriai gautų tinkamą dalį pajamų, kurias elektroninės spaudos leidėjai gauna už tai, kad elektroninius spaudos leidinius naudoja informacinės visuomenės paslaugų teikėjai. Jeigu elektroninės spaudos leidėjas ir į elektroninį spaudos leidinį įtrauktų kūrinių autorius dėl pajamų dalies nesutaria kitaip, pajamos padalijamos į lygias dalis. ^s-814db61a34b951c46b006769
@@ -2052,7 +2052,7 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 2) atgaminti, viešai skelbti trumpas gretutinių teisių objektų ištraukas aktualių įvykių apžvalgose tiek, kiek to reikia informacijai apie tuos įvykius; ^s-2e3aa8d61fda2d566bfea66a
 
 
-3) naudoti gretutinių teisių objektus, esančius bibliotekose, mokymo ir mokslo įstaigų bibliotekose, muziejuose arba archyvuose taip, kaip nurodyta šio Įstatymo [[#^s-af2b8a5de75a48b245f9fe38|22 straipsnio 3 punkte]]; ^s-9c6d6ef068c965858a08ca2e
+3) naudoti gretutinių teisių objektus, esančius bibliotekose, mokymo ir mokslo įstaigų bibliotekose, muziejuose arba archyvuose taip, kaip nurodyta šio Įstatymo 22 straipsnio 3 punkte; ^s-9c6d6ef068c965858a08ca2e
 
 
 4) atgaminti gretutinių teisių objektą, nuolat esantį kultūros paveldo įstaigos fonde ar kolekcijoje, išskyrus gretutinių teisių objektą, paskelbtą kompiuterių tinklais (internete), kai gretutinių teisių objekto kopija daroma bet kokiu formatu ar bet kokioje laikmenoje tokių kūrinių išsaugojimo tikslais ir tiek, kiek tai būtina jiems išsaugoti. Sutarčių sąlygos, kurios neleidžia taikyti šiame straipsnyje numatyto turtinių teisių apribojimo, yra niekinės ir negalioja; ^s-303fad75740210e307bbc9f5
@@ -2097,7 +2097,7 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 
 
 
-15) gretutinių turtinių teisių apribojimams mutatis mutandis taikomos šio Įstatymo 221, 222 ir [[#^s-8df90554bccd6c13dda80362|23 straipsnių]] nuostatos. ^s-85d426d51f6c80770bb719cb
+15) gretutinių turtinių teisių apribojimams mutatis mutandis taikomos šio Įstatymo [[#^s-92ca78edf30253d44eb6c342|221]], [[#^s-4ecb6039987a8988728337c3|222]] ir [[#^s-8df90554bccd6c13dda80362|23]] straipsnių nuostatos. ^s-85d426d51f6c80770bb719cb
 Papildyta straipsnio punktu:
 Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 
@@ -2221,7 +2221,7 @@ Nr. XII-888, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05732
 3. Atlikėjai, fonogramų gamintojai, transliuojančiosios organizacijos ir audiovizualinio kūrinio (filmo) pirmojo įrašo gamintojai turtines teises į gretutinių teisių objektus gali suteikti pagal licencinę sutartį. ^s-b7de81b169c1765d85c59d42
 
 
-4. Sutartims dėl gretutinių turtinių teisių perdavimo ir licencinėms sutartims dėl turtinių teisių suteikimo taikomos mutatis mutandis šio Įstatymo 38–46, 48 ir [[#^s-bb974bd908088eaef76bbf07|50 straipsnių]] nuostatos. ^s-38103c11638681265b5556e8
+4. Sutartims dėl gretutinių turtinių teisių perdavimo ir licencinėms sutartims dėl turtinių teisių suteikimo taikomos mutatis mutandis šio Įstatymo [[#^s-bea290057996ba014e81de2f|38]]–[[#^s-511fe0216cb1a59fd9ed1ee6|46]], [[#^s-b4a94029e6859df75e57c00e|48]] ir [[#^s-bb974bd908088eaef76bbf07|50]] straipsnių nuostatos. ^s-38103c11638681265b5556e8
 
 
 5. Kai kūrinį atlieka kolektyvas (choras, ansamblis, orkestras, aktorių grupė ir pan.), sutartis dėl atlikėjų turtinių teisių perdavimo ar licencijos suteikimo sudaro kolektyvo įgaliotas atstovas. Kai tokio įgaliojimo nėra, sutartį gali sudaryti kolektyvo vadovas. ^s-bc70bcaa2cea6f96f76d038c
@@ -2281,7 +2281,7 @@ Nr. X-855, 2006-10-12, Žin., 2006, Nr. 116-4400 (2006-10-31)
 4. Duomenų bazės, kuri teisėtai bet kuriuo būdu tapo viešai prieinama, teisėtas naudotojas privalo nepažeisti autorių teisių ir gretutinių teisių subjektų teisių į kūrinius ir gretutinių teisių objektus, kurie sudaro duomenų bazės turinį. ^s-81b438a12db12e5ee48065a7
 
 
-5. Šio straipsnio 1–[[#^s-81b438a12db12e5ee48065a7|4 dalių]] nuostatoms prieštaraujančios sutartys negalioja. ^s-f6d13fa334ec73cd8eb97f32
+5. Šio straipsnio [[#^s-48dcaedbaf29a9f7d20f2672|1]]–[[#^s-81b438a12db12e5ee48065a7|4]] dalių nuostatoms prieštaraujančios sutartys negalioja. ^s-f6d13fa334ec73cd8eb97f32
 
 
 
@@ -2414,7 +2414,7 @@ BENDROSIOS NUOSTATOS
 3. Kai autorių teisių ar gretutinių teisių subjektas nėra suteikęs įgaliojimų jokiai kolektyvinio administravimo organizacijai administruoti jo išimtinę teisę leisti retransliuoti, teikti retransliavimą papildančias internetines paslaugas ar viešai paskelbti per signalų skleidėjus kūrinį ar gretutinių teisių objektą, laikoma, kad tokius įgaliojimus turi kolektyvinio administravimo organizacija, Lietuvos Respublikos teritorijoje administruojanti tokio pobūdžio teises. Toks autorių teisių ar gretutinių teisių subjektas turi tokias pačias teises ir pareigas pagal retransliuotojų, retransliavimą papildančių internetinių paslaugų ar signalų skleidėjų ir kolektyvinio administravimo organizacijos sudarytas sutartis kaip ir kiti teisių subjektai, kurie yra suteikę kolektyvinio administravimo organizacijai tokius įgaliojimus. Toks autorių teisių ar gretutinių teisių subjektas per 3 metų laikotarpį, skaičiuojant nuo retransliavimo ar kitokio šioje dalyje reglamentuojamo panaudojimo, kuriam buvo panaudotas jo kūrinys ar gretutinių teisių objektas, dienos, gali kreiptis į šio Įstatymo [[#^s-b4926908615a7634406d3b6e|7230 straipsnio 1 dalyje]] nurodytą Lietuvos autorių teisių ir gretutinių teisių komisiją su prašymu spręsti dėl jo teisių administravimo. Jeigu šioje dalyje nurodytas teises Lietuvos Respublikoje administruoja daugiau negu viena kolektyvinio administravimo organizacija, sprendimą, kuri iš jų bus laikoma įgaliota kolektyviai administruoti jo teises, priima Vyriausybės įgaliota institucija. ^s-7e1f831090ca505b0626a3df
 
 
-4. Šio straipsnio 2 ir [[#^s-7e1f831090ca505b0626a3df|3 dalys]] netaikomos transliuojančiosios organizacijos retransliavimo paslaugų teisėms, kuriomis ji naudojasi savo transliacijų atžvilgiu, nepaisant to, ar atitinkamos teisės yra jos pačios teisės, ar jai perduotos kitų autorių teisių ar gretutinių teisių subjektų. Kai transliuojančiosios organizacijos ir retransliuotojai pradeda derybas dėl leidimo retransliuoti transliuojančiųjų organizacijų transliacijas suteikimo, tokios derybos turi būti vedamos sąžiningai. Derybose dalyvaujančios šalys viena kitai turi pateikti visą deryboms reikalingą informaciją, vadovaudamosi sąžiningumo, skaidrumo, teisėtumo ir protingumo principais. Jeigu derybų metu šalims nepavyksta susitarti dėl licencinės sutarties sąlygų ir (ar) atlyginimo tarifų ir sudaryti licencinę sutartį, bet kuri iš derybų šalių gali kreiptis į šio Įstatymo [[#^s-b4926908615a7634406d3b6e|7230 straipsnio 1 dalyje]] nurodytą Lietuvos autorių teisių ir gretutinių teisių komisiją ar kitą tarpininkavimo derybose (mediacijos) paslaugas teikiantį tarpininką su prašymu tarpininkauti derybose dėl licencinės sutarties sudarymo. ^s-1216477dc0b815ffef1bf569
+4. Šio straipsnio [[#^s-f163569326677f7510497e67|2]] ir [[#^s-7e1f831090ca505b0626a3df|3]] dalys netaikomos transliuojančiosios organizacijos retransliavimo paslaugų teisėms, kuriomis ji naudojasi savo transliacijų atžvilgiu, nepaisant to, ar atitinkamos teisės yra jos pačios teisės, ar jai perduotos kitų autorių teisių ar gretutinių teisių subjektų. Kai transliuojančiosios organizacijos ir retransliuotojai pradeda derybas dėl leidimo retransliuoti transliuojančiųjų organizacijų transliacijas suteikimo, tokios derybos turi būti vedamos sąžiningai. Derybose dalyvaujančios šalys viena kitai turi pateikti visą deryboms reikalingą informaciją, vadovaudamosi sąžiningumo, skaidrumo, teisėtumo ir protingumo principais. Jeigu derybų metu šalims nepavyksta susitarti dėl licencinės sutarties sąlygų ir (ar) atlyginimo tarifų ir sudaryti licencinę sutartį, bet kuri iš derybų šalių gali kreiptis į šio Įstatymo [[#^s-b4926908615a7634406d3b6e|7230 straipsnio 1 dalyje]] nurodytą Lietuvos autorių teisių ir gretutinių teisių komisiją ar kitą tarpininkavimo derybose (mediacijos) paslaugas teikiantį tarpininką su prašymu tarpininkauti derybose dėl licencinės sutarties sudarymo. ^s-1216477dc0b815ffef1bf569
 
 
 Straipsnio pakeitimai:
@@ -2467,7 +2467,7 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 8. Naudotojas, gavęs kolektyvinio administravimo organizacijos pranešimą [[#^s-27595c48bd680faf7c9078e6|šio straipsnio 7 dalyje]] nustatyta tvarka, nutraukia pranešime nurodytą naudojimą per pranešime nustatytą terminą, jeigu po pranešimo gavimo dienos negavo leidimo toliau naudoti iš paties teisių subjekto. Veiksmai, kuriuos naudotojas atliko iki pranešime nurodyto termino, nuo kurio licencija yra nustojama teikti, teisių subjektui paprieštaravus dėl kūrinių ar gretutinių teisių objektų naudojimo pagal išplėstinę licenciją, laikomi teisėtais ir nesukelia jam neigiamų padarinių. ^s-82443376473bf5c6825146c9
 
 
-9. Jeigu kolektyvinio administravimo organizacija turi išplėstinai kolektyviai administruojamų teisių subjektui mokėtinų sumų, surinktų už kūrinių ar gretutinių teisių objektų naudojimą pagal išplėstinę licenciją, suteiktą iki administravimo teisės panaikinimo ar leidimo administruoti pasirinktas arba tam tikrų kategorijų teises atšaukimo, teisių turėtojo teisės, numatytos šio Įstatymo 727, 728, 729, 7215, 7217, 7224 ir [[#^s-e31649bf6f48a0403ac0accc|7227 straipsniuose]], lieka galioti iki teisės administruoti panaikinimo ar teisės administruoti pasirinktas arba tam tikrų kategorijų teises atšaukimo įsigaliojimo. ^s-d900cf761c8a7078906c884c
+9. Jeigu kolektyvinio administravimo organizacija turi išplėstinai kolektyviai administruojamų teisių subjektui mokėtinų sumų, surinktų už kūrinių ar gretutinių teisių objektų naudojimą pagal išplėstinę licenciją, suteiktą iki administravimo teisės panaikinimo ar leidimo administruoti pasirinktas arba tam tikrų kategorijų teises atšaukimo, teisių turėtojo teisės, numatytos šio Įstatymo [[#^s-31b742959c9bd0cf21f4674a|727]], [[#^s-53a2c28458bf49a92adefe7a|728]], [[#^s-57877fbd9ab5d4a2d410a61c|729]], [[#^s-8fd32deebbb42e6c6c169d33|7215]], [[#^s-f3edf8060a8afe6fe49bcafa|7217]], [[#^s-d973ce23552ade4a9c5fd7f4|7224]] ir [[#^s-e31649bf6f48a0403ac0accc|7227]] straipsniuose, lieka galioti iki teisės administruoti panaikinimo ar teisės administruoti pasirinktas arba tam tikrų kategorijų teises atšaukimo įsigaliojimo. ^s-d900cf761c8a7078906c884c
 
 
 10. Kolektyvinio administravimo organizacija, teikianti išplėstines licencijas, savo interneto svetainėje turi skelbti informaciją apie: ^s-8fb34f21677d483610244fcb
@@ -2499,16 +2499,16 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 3) Lietuvos Respublikoje įsteigti trečiųjų šalių kolektyvinio administravimo organizacijų filialai ar atstovybės, vykdantys kolektyvinio administravimo veiklą Lietuvos Respublikoje. ^s-bc7983e513695d6de4f41ff1
 
 
-2. Šio skyriaus pirmojo, antrojo, trečiojo, ketvirtojo, penktojo ir septintojo skirsnių nuostatos (išskyrus šio Įstatymo [[#^s-0ec857bbb0cb57838d46e8c4|7228 straipsnio 2 dalies]] 4, 5, 6 punktų nuostatas ir [[#^s-f2c762634f7c13b9f9638506|7230 straipsnio 2 dalies]] nuostatas) taikomos visoms kolektyvinio administravimo organizacijoms. ^s-d20363c339ad709b3985b15f
+2. Šio skyriaus pirmojo, antrojo, trečiojo, ketvirtojo, penktojo ir septintojo skirsnių nuostatos (išskyrus šio Įstatymo [[#^s-0ec857bbb0cb57838d46e8c4|7228 straipsnio 2 dalies]] [[#^s-b15785bc6e84c522dbeb13aa|4]], [[#^s-26395fcb99aa8f6c094a8acb|5]], [[#^s-28dbe3fe5108b7ef3956d4bf|6]] punktų nuostatas ir [[#^s-f2c762634f7c13b9f9638506|7230 straipsnio 2 dalies]] nuostatas) taikomos visoms kolektyvinio administravimo organizacijoms. ^s-d20363c339ad709b3985b15f
 
 
-3. Šio skyriaus šeštojo skirsnio nuostatos, šio Įstatymo [[#^s-0ec857bbb0cb57838d46e8c4|7228 straipsnio 2 dalies]] 4, 5, 6 punktų nuostatos ir [[#^s-f2c762634f7c13b9f9638506|7230 straipsnio 2 dalies]] nuostatos taikomos tik toms kolektyvinio administravimo organizacijoms, kurios administruoja autorių teises naudoti muzikos kūrinius internete daugelyje teritorijų ir teikia naudotojams kolektyviai administruojamas daugiateritores licencijas. ^s-6a97c0e95c5d09c9cb2ecba9
+3. Šio skyriaus šeštojo skirsnio nuostatos, šio Įstatymo [[#^s-0ec857bbb0cb57838d46e8c4|7228 straipsnio 2 dalies]] [[#^s-b15785bc6e84c522dbeb13aa|4]], [[#^s-26395fcb99aa8f6c094a8acb|5]], [[#^s-28dbe3fe5108b7ef3956d4bf|6]] punktų nuostatos ir [[#^s-f2c762634f7c13b9f9638506|7230 straipsnio 2 dalies]] nuostatos taikomos tik toms kolektyvinio administravimo organizacijoms, kurios administruoja autorių teises naudoti muzikos kūrinius internete daugelyje teritorijų ir teikia naudotojams kolektyviai administruojamas daugiateritores licencijas. ^s-6a97c0e95c5d09c9cb2ecba9
 
 
 4. Tais atvejais, kai šio Įstatymo [[#^s-0218ca8ff03dd4d2f709e0d0|67 straipsnio 2 dalyje]] numatytas atskiras kolektyvinio administravimo funkcijas kolektyvinio administravimo organizacijų pavedimu atlieka jų valdomi ar kontroliuojami subjektai, jiems šio skyriaus nuostatos taikomos tiek, kiek jos taikomos tas funkcijas tiesiogiai atliekančioms kolektyvinio administravimo organizacijoms. ^s-ed7a9bf916b944940e7b26b2
 
 
-5. Šio skyriaus 7212, 7215, [[#^s-f3edf8060a8afe6fe49bcafa|7217 straipsnių]], [[#^s-f79097790f22a65de2eda744|7218 straipsnio 1 dalies]] 1, 2, 3, 5, 6, 7 punktų, 7219, 7228 ir [[#^s-4f4750695e6b70fb1a27360e|7231 straipsnių]] nuostatos mutatis mutandis taikomos kolektyvinio administravimo nepriklausomiems subjektams. ^s-017ea29587659c14a750fdc7
+5. Šio skyriaus [[#^s-f46210528c69ecc5d21ea05d|7212]], [[#^s-8fd32deebbb42e6c6c169d33|7215]], [[#^s-f3edf8060a8afe6fe49bcafa|7217]] straipsnių, [[#^s-f79097790f22a65de2eda744|7218 straipsnio 1 dalies]] [[#^s-f890dcfaf2fbac6758591acd|1]], [[#^s-99a89a9fa8926f7ed3762539|2]], [[#^s-fc7b1cde903832cba49a91ba|3]], [[#^s-d58c592ae7f72eb726b260a1|5]], [[#^s-48ac2a85ae573166c12c45eb|6]], [[#^s-450b8f02be8b51fc4f24e9c4|7]] punktų, [[#^s-9266612ff9989853f4ed6213|7219]], [[#^s-6f163a286776a30154346880|7228]] ir [[#^s-4f4750695e6b70fb1a27360e|7231]] straipsnių nuostatos mutatis mutandis taikomos kolektyvinio administravimo nepriklausomiems subjektams. ^s-017ea29587659c14a750fdc7
 
 
 
@@ -2588,13 +2588,13 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 3) [[#^s-cea5d6d230040872b9a1223d|šio straipsnio 3 dalyje]] nustatyta tvarka panaikinti kolektyvinio administravimo organizacijai suteiktą leidimą administruoti visas jų turimas autorių teises ar gretutines teises, savo pasirinkimu atšaukti leidimą administruoti tam tikrų kategorijų teises ar tam tikrų rūšių kūrinius ir gretutinių teisių objektus jų pasirinktoje teritorijoje. ^s-62c7759d819413aeb5be7279
 
 
-2. [[#^s-7b9f3f69645ab315e0f6e5fa|Šio straipsnio 1 dalyje]] nurodytos kolektyviai administruojamų teisių turėtojų teisės, jų įgyvendinimo sąlygos ir tvarka turi būti išdėstytos kolektyvinio administravimo organizacijos įstatuose arba narystės sąlygose. Kolektyvinio administravimo organizacija iki kolektyvinio administravimo sutarties sudarymo turi informuoti teisių turėtoją apie [[#^s-7b9f3f69645ab315e0f6e5fa|šio straipsnio 1 dalyje]] nurodytas kolektyviai administruojamų teisių turėtojų teises ir šio straipsnio 3, 4 ir [[#^s-e0daa8b778fbd0b38b87761c|5 dalyse]] nurodytas jų įgyvendinimo sąlygas. ^s-43ed8f2345ee3bdfdcabbe1b
+2. [[#^s-7b9f3f69645ab315e0f6e5fa|Šio straipsnio 1 dalyje]] nurodytos kolektyviai administruojamų teisių turėtojų teisės, jų įgyvendinimo sąlygos ir tvarka turi būti išdėstytos kolektyvinio administravimo organizacijos įstatuose arba narystės sąlygose. Kolektyvinio administravimo organizacija iki kolektyvinio administravimo sutarties sudarymo turi informuoti teisių turėtoją apie [[#^s-7b9f3f69645ab315e0f6e5fa|šio straipsnio 1 dalyje]] nurodytas kolektyviai administruojamų teisių turėtojų teises ir šio straipsnio [[#^s-cea5d6d230040872b9a1223d|3]], [[#^s-4610201b19b2db2e66de97d2|4]] ir [[#^s-e0daa8b778fbd0b38b87761c|5]] dalyse nurodytas jų įgyvendinimo sąlygas. ^s-43ed8f2345ee3bdfdcabbe1b
 
 
 3. Įgyvendindami [[#^s-62c7759d819413aeb5be7279|šio straipsnio 1 dalies 3 punkte]] numatytą teisę panaikinti suteiktą leidimą administruoti visas jų turimas autorių teises ar gretutines teises arba atšaukti leidimą administruoti pasirinktas teises, tam tikrų kategorijų teises ir tam tikrų rūšių kūrinius ar gretutinių teisių objektus jų pasirinktoje teritorijoje, kolektyviai administruojamų teisių turėtojai prieš 6 mėnesius iki leidimo administruoti šias teises panaikinimo arba atšaukimo turi pateikti kolektyvinio administravimo organizacijai laisvos formos pranešimą, kuriame turi būti nurodytos pagrįstos leidimo administruoti šias teises panaikinimo ar atšaukimo priežastys. Kolektyvinio administravimo organizacija gali nutarti, kad kolektyvinio administravimo organizacijai suteikto leidimo panaikinimas ar atšaukimas įsigalioja tik pasibaigus finansiniams metams. ^s-cea5d6d230040872b9a1223d
 
 
-4. Jeigu kolektyvinio administravimo organizacija turi kolektyviai administruojamų teisių turėtojui mokėtinų sumų, surinktų už kūrinių ar gretutinių teisių objektų naudojimą pagal kolektyvinio administravimo organizacijos licenciją, suteiktą iki leidimo kolektyviai administruoti teises panaikinimo ar leidimo administruoti pasirinktas arba tam tikrų kategorijų teises atšaukimo, teisių turėtojo teisės, numatytos šio Įstatymo 727, 728, 729, 7215, 7217, 7224 ir [[#^s-e31649bf6f48a0403ac0accc|7227 straipsniuose]], lieka galioti iki leidimo kolektyviai administruoti teises panaikinimo ar leidimo administruoti pasirinktas arba tam tikrų kategorijų teises atšaukimo įsigaliojimo. ^s-4610201b19b2db2e66de97d2
+4. Jeigu kolektyvinio administravimo organizacija turi kolektyviai administruojamų teisių turėtojui mokėtinų sumų, surinktų už kūrinių ar gretutinių teisių objektų naudojimą pagal kolektyvinio administravimo organizacijos licenciją, suteiktą iki leidimo kolektyviai administruoti teises panaikinimo ar leidimo administruoti pasirinktas arba tam tikrų kategorijų teises atšaukimo, teisių turėtojo teisės, numatytos šio Įstatymo [[#^s-31b742959c9bd0cf21f4674a|727]], [[#^s-53a2c28458bf49a92adefe7a|728]], [[#^s-57877fbd9ab5d4a2d410a61c|729]], [[#^s-8fd32deebbb42e6c6c169d33|7215]], [[#^s-f3edf8060a8afe6fe49bcafa|7217]], [[#^s-d973ce23552ade4a9c5fd7f4|7224]] ir [[#^s-e31649bf6f48a0403ac0accc|7227]] straipsniuose, lieka galioti iki leidimo kolektyviai administruoti teises panaikinimo ar leidimo administruoti pasirinktas arba tam tikrų kategorijų teises atšaukimo įsigaliojimo. ^s-4610201b19b2db2e66de97d2
 
 
 5. Kolektyvinio administravimo organizacija, kuriai buvo panaikintas leidimas administruoti visas teises ar atšauktas leidimas administruoti pasirinktas arba tam tikrų kategorijų teises, negali reikalauti, kad teisių turėtojas suteiktų leidimą administruoti tas teises ar jų dalį kitai kolektyvinio administravimo organizacijai ar kitaip riboti teisių turėtojų galimybes pasirinkti šiame Įstatyme numatytus teisių įgyvendinimo būdus. ^s-e0daa8b778fbd0b38b87761c
@@ -2780,7 +2780,7 @@ KOLEKTYVINIO ADMINISTRAVIMO ORGANIZACIJOS PAJAMŲ IR TURTO ADMINISTRAVIMAS
 ### 725 straipsnis. Kolektyvinio administravimo pajamų administravimas ^s-b856a3d11e6fc6beb1198391
 
 
-1. Kolektyvinio administravimo organizacija, įgyvendindama šio Įstatymo [[#^s-0218ca8ff03dd4d2f709e0d0|67 straipsnio 2 dalies]] 3 ir 4 punktuose numatytas kolektyvinio administravimo funkcijas, turi užtikrinti kruopštų ir skaidrų kolektyvinio administravimo pajamų surinkimą, teisių turėtojams mokėtinų sumų paskirstymą ir išmokėjimą. ^s-c8cdf7ebef0cf90e012a8942
+1. Kolektyvinio administravimo organizacija, įgyvendindama šio Įstatymo [[#^s-0218ca8ff03dd4d2f709e0d0|67 straipsnio 2 dalies]] [[#^s-0ea631b4a3fe6081f0dd6574|3]] ir [[#^s-dd701766861bfa01c0c44d60|4]] punktuose numatytas kolektyvinio administravimo funkcijas, turi užtikrinti kruopštų ir skaidrų kolektyvinio administravimo pajamų surinkimą, teisių turėtojams mokėtinų sumų paskirstymą ir išmokėjimą. ^s-c8cdf7ebef0cf90e012a8942
 
 
 2. Kolektyvinio administravimo organizacija turi: ^s-beb2b6479a55883908531fdd
@@ -2844,7 +2844,7 @@ KOLEKTYVINIO ADMINISTRAVIMO ORGANIZACIJOS PAJAMŲ IR TURTO ADMINISTRAVIMAS
 2. Kolektyvinio administravimo organizacija, taip pat jos narės kolektyvinio administravimo organizacijos turi paskirstyti kolektyvinio administravimo pajamas ir išmokėti teisių turėtojams mokėtinas sumas ne vėliau kaip per devynis mėnesius, pasibaigus finansiniams metams, kuriais buvo surinktos kolektyvinio teisių administravimo pajamos, išskyrus atvejus, kai kolektyvinio administravimo organizacijos neturi galimybės laikytis šio termino dėl objektyvių priežasčių, susijusių su kolektyviai administruojamų kūrinių ar gretutinių teisių objektų naudotojų pranešimais apie kūrinių ir gretutinių teisių objektų panaudojimą, su tokiu panaudojimu susijusių teisių nustatymu, teisių turėtojų nustatymu ir paieška, informacijos, kuri leistų kūrinius ir gretutinių teisių objektus priskirti konkretiems teisių turėtojams, paieška. ^s-c04567311c2bc7103be27361
 
 
-3. Kolektyvinio administravimo organizacija, atsižvelgdama į šio straipsnio 1 ir [[#^s-c04567311c2bc7103be27361|2 dalių]] nuostatas, turi taikyti visas būtinas priemones kolektyviai administruojamų teisių turėtojų tapatybei ar gyvenamajai vietai arba buveinei nustatyti. Kolektyvinio administravimo organizacija turi patikrinti šio Įstatymo [[#^s-c65a42ce7443f386998fa162|70 straipsnio 3 dalies 3 punkte]] nurodytus kolektyvinio administravimo organizacijos narių registracijos duomenis, kitų turimų duomenų bazių duomenis, taip pat [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]] nurodytų registrų, žinybinių registrų, valstybės informacinių sistemų ir kitų informacinių sistemų, kuriuos naudoja kolektyvinio administravimo organizacija, duomenis. ^s-fbc6746200a5b5ab43f5f55d
+3. Kolektyvinio administravimo organizacija, atsižvelgdama į šio straipsnio [[#^s-64a1b33830fc9795702ec01e|1]] ir [[#^s-c04567311c2bc7103be27361|2]] dalių nuostatas, turi taikyti visas būtinas priemones kolektyviai administruojamų teisių turėtojų tapatybei ar gyvenamajai vietai arba buveinei nustatyti. Kolektyvinio administravimo organizacija turi patikrinti šio Įstatymo [[#^s-c65a42ce7443f386998fa162|70 straipsnio 3 dalies 3 punkte]] nurodytus kolektyvinio administravimo organizacijos narių registracijos duomenis, kitų turimų duomenų bazių duomenis, taip pat [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]] nurodytų registrų, žinybinių registrų, valstybės informacinių sistemų ir kitų informacinių sistemų, kuriuos naudoja kolektyvinio administravimo organizacija, duomenis. ^s-fbc6746200a5b5ab43f5f55d
 Straipsnio dalies pakeitimai:
 Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 
@@ -2865,7 +2865,7 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 4) visa kita kolektyvinio administravimo organizacijos turima informacija apie kūrinį ar gretutinių teisių objektą, kuri galėtų padėti nustatyti teisių turėtoją. ^s-c3f1fe3826a8bb5554ee43bb
 
 
-5. Jeigu kolektyvinio administravimo organizacijos taikytos priemonės, nurodytos šio straipsnio 3 ir [[#^s-1d1970cf520148d85a341dfc|4 dalyse]], nedavė rezultatų, kolektyvinio administravimo organizacija ne vėliau kaip per vienerius metus, pasibaigus [[#^s-1d1970cf520148d85a341dfc|šio straipsnio 4 dalyje]] numatytam trijų mėnesių terminui, turi viešai paskelbti informaciją apie kūrinius ar gretutinių teisių objektus, kurių teisių turėtojų nepavyko nustatyti ar surasti, nurodydama, jeigu įmanoma, [[#^s-1d1970cf520148d85a341dfc|šio straipsnio 4 dalies]] 1, 2 ir 3 punktuose nurodytą informaciją apie tuos kūrinius ar gretutinių teisių objektus. ^s-9425f92d272195c2296c842a
+5. Jeigu kolektyvinio administravimo organizacijos taikytos priemonės, nurodytos šio straipsnio [[#^s-fbc6746200a5b5ab43f5f55d|3]] ir [[#^s-1d1970cf520148d85a341dfc|4]] dalyse, nedavė rezultatų, kolektyvinio administravimo organizacija ne vėliau kaip per vienerius metus, pasibaigus [[#^s-1d1970cf520148d85a341dfc|šio straipsnio 4 dalyje]] numatytam trijų mėnesių terminui, turi viešai paskelbti informaciją apie kūrinius ar gretutinių teisių objektus, kurių teisių turėtojų nepavyko nustatyti ar surasti, nurodydama, jeigu įmanoma, [[#^s-1d1970cf520148d85a341dfc|šio straipsnio 4 dalies]] 1, 2 ir 3 punktuose nurodytą informaciją apie tuos kūrinius ar gretutinių teisių objektus. ^s-9425f92d272195c2296c842a
 
 
 6. Kolektyvinio administravimo pajamas, kurios dėl objektyvių priežasčių, numatytų [[#^s-c04567311c2bc7103be27361|šio straipsnio 2 dalyje]], nebuvo paskirstytos ir išmokėtos kolektyviai administruojamų teisių turėtojams per [[#^s-c04567311c2bc7103be27361|šio straipsnio 2 dalyje]] nurodytą terminą, kolektyvinio administravimo organizacija turi laikyti atskiroje, nepaskirstytų kolektyvinio administravimo pajamų, sąskaitoje. ^s-a3125de0f4e7097713a5de6b
@@ -2875,7 +2875,7 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 ### 7210 straipsnis. Kolektyviai administruojamų teisių turėtojams nepaskirstomų sumų naudojimas ^s-4ac03ad2fddcbd5c54b7007d
 
 
-1. Tais atvejais, kai teisių turėtojams mokėtinų sumų neįmanoma paskirstyti ir išmokėti, nors kolektyvinio administravimo organizacija ėmėsi visų šio Įstatymo [[#^s-57877fbd9ab5d4a2d410a61c|729 straipsnio]] 3 ir 4 dalyse numatytų būtinų priemonių teisių turėtojų tapatybei ar gyvenamajai vietai arba buveinei nustatyti, praėjus trejiems metams nuo finansinių metų, kuriais buvo surinktos kolektyvinio teisių administravimo pajamos, pabaigos, tos nepaskirstytos sumos laikomos teisių turėtojams nepaskirstomomis sumomis. ^s-68786bd8e30d8bad12ffd6d8
+1. Tais atvejais, kai teisių turėtojams mokėtinų sumų neįmanoma paskirstyti ir išmokėti, nors kolektyvinio administravimo organizacija ėmėsi visų šio Įstatymo [[#^s-57877fbd9ab5d4a2d410a61c|729 straipsnio]] [[#^s-fbc6746200a5b5ab43f5f55d|3]] ir [[#^s-1d1970cf520148d85a341dfc|4]] dalyse numatytų būtinų priemonių teisių turėtojų tapatybei ar gyvenamajai vietai arba buveinei nustatyti, praėjus trejiems metams nuo finansinių metų, kuriais buvo surinktos kolektyvinio teisių administravimo pajamos, pabaigos, tos nepaskirstytos sumos laikomos teisių turėtojams nepaskirstomomis sumomis. ^s-68786bd8e30d8bad12ffd6d8
 
 
 2. Sprendimą dėl teisių turėtojams nepaskirstomų sumų panaudojimo priima visuotinis narių susirinkimas, vadovaudamasis šio Įstatymo [[#^s-261c29c5b1b68c14b8af03b4|721 straipsnio 2 dalies 5 punkte]] nurodytame teisių turėtojams nepaskirstomų sumų panaudojimo tvarkos apraše nustatytais kriterijais. Šis sprendimas netrukdo paaiškėjusiems teisių turėtojams pareikalauti tokių sumų iš kolektyvinio administravimo organizacijos. Šiems reikalavimams taikomi Civiliniame kodekse numatyti senaties terminai. ^s-69d4b521cbac3915e29b1351
@@ -2899,7 +2899,7 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 4. Atstovaujamoji kolektyvinio administravimo organizacija, taip pat jos narės kolektyvinio administravimo organizacijos, turi paskirstyti ir išmokėti iš atstovaujančiosios kolektyvinio administravimo organizacijos gautas sumas ne vėliau kaip per šešis mėnesius nuo tos dienos, kai kolektyvinio administravimo organizacija gavo šias sumas iš atstovaujančiosios kolektyvinio administravimo organizacijos, išskyrus atvejus, kai kolektyvinio administravimo organizacija ar jos nariai, kurie yra teisių turėtojams atstovaujantys subjektai, neturi galimybės laikytis šio termino dėl objektyvių priežasčių, susijusių su kūrinių ir gretutinių teisių objektų naudotojų pranešimais apie kūrinių ir gretutinių teisių objektų panaudojimą, su tokiu panaudojimu susijusių teisių nustatymu, teisių turėtojų nustatymu ir paieška arba informacijos, kuri leistų kūrinius ir gretutinių teisių objektus priskirti konkretiems teisių turėtojams, paieška. ^s-b707970e6bd45902eb229fe4
 
 
-5. Šio Įstatymo [[#^s-57877fbd9ab5d4a2d410a61c|729 straipsnio]] 3, 4, 5 ir 6 dalių ir [[#^s-4ac03ad2fddcbd5c54b7007d|7210 straipsnio]] nuostatos mutatis mutandis taikomos šio straipsnio 3 ir [[#^s-b707970e6bd45902eb229fe4|4 dalyse]] nurodytoms kolektyvinio administravimo organizacijoms. ^s-6e7163c2a1c1a900a6420186
+5. Šio Įstatymo [[#^s-57877fbd9ab5d4a2d410a61c|729 straipsnio]] [[#^s-fbc6746200a5b5ab43f5f55d|3]], [[#^s-1d1970cf520148d85a341dfc|4]], [[#^s-9425f92d272195c2296c842a|5]] ir [[#^s-a3125de0f4e7097713a5de6b|6]] dalių ir [[#^s-4ac03ad2fddcbd5c54b7007d|7210 straipsnio]] nuostatos mutatis mutandis taikomos šio straipsnio 3 ir 4 dalyse nurodytoms kolektyvinio administravimo organizacijoms. ^s-6e7163c2a1c1a900a6420186
 
 
 
@@ -3146,13 +3146,13 @@ KOLEKTYVIAI ADMINISTRUOJAMOS DAUGIATERITORĖS LICENCIJOS NAUDOTI MUZIKOS KŪRINI
 ### 7220 straipsnis. Kolektyviai administruojamų daugiateritorių licencijų taikymo sritis ir sąlygos ^s-99e841cea6d135f46776f0c4
 
 
-1. Visos Lietuvos Respublikos teritorijoje įsteigtos kolektyvinio administravimo organizacijos, teikdamos kolektyviai administruojamas daugiateritores licencijas (toliau – daugiateritorės licencijos) asmenims, teikiantiems vartotojams internetines muzikos paslaugas atsisiųsti muzikos kūrinių įrašus arba klausytis muzikos kūrinių įrašų srautinio duomenų siuntimo režimu ar kitais internetinės muzikos kūrinių prieigos būdais (toliau – internetinių muzikos paslaugų teikėjai), turi laikytis šio Įstatymo 7221–[[#^s-80f2c4a54397aa5bedada511|7226 straipsnių]] nuostatų. ^s-f014ec26cb5bbf071f1bbc77
+1. Visos Lietuvos Respublikos teritorijoje įsteigtos kolektyvinio administravimo organizacijos, teikdamos kolektyviai administruojamas daugiateritores licencijas (toliau – daugiateritorės licencijos) asmenims, teikiantiems vartotojams internetines muzikos paslaugas atsisiųsti muzikos kūrinių įrašus arba klausytis muzikos kūrinių įrašų srautinio duomenų siuntimo režimu ar kitais internetinės muzikos kūrinių prieigos būdais (toliau – internetinių muzikos paslaugų teikėjai), turi laikytis šio Įstatymo [[#^s-63d314f63fc10dd643c29b87|7221]]–[[#^s-80f2c4a54397aa5bedada511|7226]] straipsnių nuostatų. ^s-f014ec26cb5bbf071f1bbc77
 
 
 2. Kolektyvinio administravimo organizacijų tiesiogiai ar netiesiogiai, visiškai ar iš dalies valdomų ar kontroliuojamų subjektų kolektyvinio administravimo veiklai taikomos šio skirsnio atitinkamos nuostatos, kurios būtų taikomos, jeigu šią kolektyvinio administravimo veiklą vykdytų pačios kolektyvinio administravimo organizacijos. ^s-66a03514534312aaef938c46
 
 
-3. Šio Įstatymo 7221–[[#^s-80f2c4a54397aa5bedada511|7226 straipsnių]] nuostatos netaikomos kolektyvinio administravimo organizacijoms, kai jos, laikydamosi konkurencijos taisyklių, numatytų Sutarties dėl Europos Sąjungos veikimo 101 ir [[#^s-768c6f09f0cec70d30855118|102 straipsniuose]], teikia daugiateritores licencijas naudoti muzikos kūrinius internete transliuojančiosioms organizacijoms, kurios viešai skelbia savo radijo ar televizijos programas, tuo pačiu metu, kai vyksta jų transliacija ar vėliau, pasibaigus šiai transliacijai, taip pat bet kokiai kitai pačios transliuojančiosios organizacijos ar jos užsakymu sukurtai internete pateikiamai medžiagai, įskaitant jos peržiūras, papildančias pirmąją radijo ar televizijos programos transliaciją. ^s-a75aaed7ff742f7a0cceccfc
+3. Šio Įstatymo [[#^s-63d314f63fc10dd643c29b87|7221]]–[[#^s-80f2c4a54397aa5bedada511|7226]] straipsnių nuostatos netaikomos kolektyvinio administravimo organizacijoms, kai jos, laikydamosi konkurencijos taisyklių, numatytų Sutarties dėl Europos Sąjungos veikimo [[#^s-7c70611cc1f34d4e8643fe31|101]] ir [[#^s-768c6f09f0cec70d30855118|102]] straipsniuose, teikia daugiateritores licencijas naudoti muzikos kūrinius internete transliuojančiosioms organizacijoms, kurios viešai skelbia savo radijo ar televizijos programas, tuo pačiu metu, kai vyksta jų transliacija ar vėliau, pasibaigus šiai transliacijai, taip pat bet kokiai kitai pačios transliuojančiosios organizacijos ar jos užsakymu sukurtai internete pateikiamai medžiagai, įskaitant jos peržiūras, papildančias pirmąją radijo ar televizijos programos transliaciją. ^s-a75aaed7ff742f7a0cceccfc
 
 
 
@@ -3211,7 +3211,7 @@ KOLEKTYVIAI ADMINISTRUOJAMOS DAUGIATERITORĖS LICENCIJOS NAUDOTI MUZIKOS KŪRINI
 4. Kolektyvinio administravimo organizacija turi suteikti kolektyviai administruojamų teisių turėtojams, kurių muzikos kūriniai yra įtraukti į jos daugiateritorį muzikos kūrinių repertuarą, priemones elektronine forma teikti jai informaciją apie jų muzikos kūrinius, teises į tuos muzikos kūrinius ir teritorijas, kuriose teisių turėtojai suteikia leidimą kolektyvinio administravimo organizacijai administruoti jų teises. ^s-9445ec2fc22fbf5e6ce17571
 
 
-5. [[#^s-9445ec2fc22fbf5e6ce17571|Šio straipsnio 4 dalies]] nuostatos taip pat taikomos, kai kolektyvinio administravimo organizacija, vadovaudamasi šio Įstatymo 7225 ir [[#^s-80f2c4a54397aa5bedada511|7226 straipsnių]] nuostatomis, kolektyviai administruoja teises ir teikia daugiateritores licencijas pagal kolektyvinio administravimo atstovavimo sutartį, jeigu kitaip nenustatyta kolektyvinio administravimo organizacijų atstovavimo sutartyje. ^s-58bc82589d2e871e72a5d5fd
+5. [[#^s-9445ec2fc22fbf5e6ce17571|Šio straipsnio 4 dalies]] nuostatos taip pat taikomos, kai kolektyvinio administravimo organizacija, vadovaudamasi šio Įstatymo [[#^s-ed546b766d7a50449c6038b2|7225]] ir [[#^s-80f2c4a54397aa5bedada511|7226]] straipsnių nuostatomis, kolektyviai administruoja teises ir teikia daugiateritores licencijas pagal kolektyvinio administravimo atstovavimo sutartį, jeigu kitaip nenustatyta kolektyvinio administravimo organizacijų atstovavimo sutartyje. ^s-58bc82589d2e871e72a5d5fd
 
 
 
@@ -3252,14 +3252,14 @@ KOLEKTYVIAI ADMINISTRUOJAMOS DAUGIATERITORĖS LICENCIJOS NAUDOTI MUZIKOS KŪRINI
 3) kolektyvinio administravimo organizacijos iš kiekvieno internetinių muzikos paslaugų teikėjo surinktas kolektyvinio administravimo pajamas, atskaitymus iš šių pajamų ir sumas, kurias kolektyvinio administravimo organizacija paskirstė. ^s-88cedf124eea00b656e7ded2
 
 
-3. Kai kolektyvinio administravimo organizacija, vadovaudamasi šio Įstatymo 7225 ir [[#^s-80f2c4a54397aa5bedada511|7226 straipsnių]] nuostatomis, įgalioja kitą kolektyvinio administravimo organizaciją teikti daugiateritores licencijas, įgaliotoji kolektyvinio administravimo organizacija tiksliai ir nedelsdama, ne vėliau kaip per šešis mėnesius nuo tos dienos, kai internetinių muzikos paslaugų teikėjai praneša apie faktinį muzikos kūrinių panaudojimą, išskyrus atvejus, kai to padaryti neįmanoma dėl priežasčių, susijusių su internetinių muzikos paslaugų teikėjo veiksmais ar neveikimu, paskirsto [[#^s-d58378f9645dbc2cfaa761f9|šio straipsnio 1 dalyje]] nurodytas kolektyvinio administravimo pajamas ir teikia [[#^s-32abc178e1980fcce14913a5|šio straipsnio 2 dalyje]] nurodytą informaciją įgaliojančiajai kolektyvinio administravimo organizacijai. Įgaliojančioji kolektyvinio administravimo organizacija yra atsakinga už tolesnį tokių pajamų paskirstymą ir [[#^s-32abc178e1980fcce14913a5|šio straipsnio 2 dalyje]] nurodytos informacijos teikimą teisių turėtojams, jeigu kitaip nenustatyta kolektyvinio administravimo organizacijų atstovavimo sutartyje. ^s-967a841ce00024990a49397c
+3. Kai kolektyvinio administravimo organizacija, vadovaudamasi šio Įstatymo [[#^s-ed546b766d7a50449c6038b2|7225]] ir [[#^s-80f2c4a54397aa5bedada511|7226]] straipsnių nuostatomis, įgalioja kitą kolektyvinio administravimo organizaciją teikti daugiateritores licencijas, įgaliotoji kolektyvinio administravimo organizacija tiksliai ir nedelsdama, ne vėliau kaip per šešis mėnesius nuo tos dienos, kai internetinių muzikos paslaugų teikėjai praneša apie faktinį muzikos kūrinių panaudojimą, išskyrus atvejus, kai to padaryti neįmanoma dėl priežasčių, susijusių su internetinių muzikos paslaugų teikėjo veiksmais ar neveikimu, paskirsto [[#^s-d58378f9645dbc2cfaa761f9|šio straipsnio 1 dalyje]] nurodytas kolektyvinio administravimo pajamas ir teikia [[#^s-32abc178e1980fcce14913a5|šio straipsnio 2 dalyje]] nurodytą informaciją įgaliojančiajai kolektyvinio administravimo organizacijai. Įgaliojančioji kolektyvinio administravimo organizacija yra atsakinga už tolesnį tokių pajamų paskirstymą ir [[#^s-32abc178e1980fcce14913a5|šio straipsnio 2 dalyje]] nurodytos informacijos teikimą teisių turėtojams, jeigu kitaip nenustatyta kolektyvinio administravimo organizacijų atstovavimo sutartyje. ^s-967a841ce00024990a49397c
 
 
 
 ### 7225 straipsnis. Kolektyvinio administravimo atstovavimo sutartys dėl įgaliojimo teikti daugiateritores licencijas ^s-ed546b766d7a50449c6038b2
 
 
-1. Visos kolektyvinio administravimo atstovavimo sutartys dėl įgaliojimo teikti daugiateritores licencijas turi būti neišimtinės. Įgaliotoji kolektyvinio administravimo organizacija administruoja suteiktas teises ir teikia daugiateritores licencijas laikydamasi teisių turėtojų nediskriminavimo principų. ^s-81735938032e4f4e8edcde75
+1. Visos kolektyvinio administravimo atstovavimo sutartys [dėl įgaliojimo](https://e-tar.lt/portal/lt/legalAct/c81efc10e1a511ec8d9390588bf2de65) teikti daugiateritores licencijas turi būti neišimtinės. Įgaliotoji kolektyvinio administravimo organizacija administruoja suteiktas teises ir teikia daugiateritores licencijas laikydamasi teisių turėtojų nediskriminavimo principų. ^s-81735938032e4f4e8edcde75
 
 
 2. Kolektyvinio administravimo atstovavimo sutartyje turi būti numatytos šios sąlygos: ^s-c98a527e581ea94fd64b0335
@@ -3287,7 +3287,7 @@ KOLEKTYVIAI ADMINISTRUOJAMOS DAUGIATERITORĖS LICENCIJOS NAUDOTI MUZIKOS KŪRINI
 2. Paprašytoji kolektyvinio administravimo organizacija atsako prašančiajai kolektyvinio administravimo organizacijai raštu ir be pagrįstos priežasties nedelsdama (ne vėliau kaip per mėnesį nuo tos dienos, kai buvo gautas prašymas sudaryti kolektyvinio administravimo atstovavimo sutartį). ^s-770493f1328ef5c9c71a0c52
 
 
-3. Atsižvelgiant į šio straipsnio 4 ir [[#^s-7033c4ff5e8d7d5b47b70368|5 dalių]] nuostatas, paprašytoji kolektyvinio administravimo organizacija administruoja prašančiosios kolektyvinio administravimo organizacijos muzikos kūrinių repertuarą tomis pačiomis sąlygomis, kokiomis ji administruoja savo pačios kolektyviai administruojamą repertuarą. ^s-23243f9261dba2bbfa0e18ab
+3. Atsižvelgiant į šio straipsnio [[#^s-99d7e9454f26e5091f78d5ac|4]] ir [[#^s-7033c4ff5e8d7d5b47b70368|5]] dalių nuostatas, paprašytoji kolektyvinio administravimo organizacija administruoja prašančiosios kolektyvinio administravimo organizacijos muzikos kūrinių repertuarą tomis pačiomis sąlygomis, kokiomis ji administruoja savo pačios kolektyviai administruojamą repertuarą. ^s-23243f9261dba2bbfa0e18ab
 
 
 4. Paprašytoji kolektyvinio administravimo organizacija turi įtraukti prašančiosios kolektyvinio administravimo organizacijos muzikos kūrinių repertuarą į visus savo pasiūlymus, kuriuos ji teikia internetinių muzikos paslaugų teikėjams. ^s-99d7e9454f26e5091f78d5ac
@@ -3330,7 +3330,7 @@ KOLEKTYVINIO ADMINISTRAVIMO ORGANIZACIJŲ VEIKLOS UŽTIKRINIMO PRIEMONĖS IR VAL
 1) sudaro, nuolat atnaujina ir viešai skelbia Lietuvos Respublikoje įsisteigusių kolektyvinio administravimo organizacijų (įskaitant Lietuvos Respublikoje įsteigtus trečiųjų šalių kolektyvinio administravimo organizacijų filialus ir atstovybes), kitose valstybėse narėse įsisteigusių, Lietuvos Respublikos teritorijoje kolektyvinio administravimo veiklą vykdančių, kolektyvinio administravimo organizacijų sąrašą, taip pat daugiateritores licencijas siūlančių ir (ar) teikiančių kolektyvinio administravimo organizacijų sąrašą (toliau – kolektyvinio administravimo organizacijų sąrašai). Kolektyvinio administravimo organizacijų sąrašuose esančią ir nuolat atnaujinamą informaciją apie Lietuvos Respublikoje įsisteigusias kolektyvinio administravimo organizacijas Vyriausybės įgaliota institucija teikia Europos Komisijai; ^s-d8bda0b9cc1acfe3441dac5c
 
 
-2) vykdo Lietuvos Respublikoje įsisteigusių kolektyvinio administravimo organizacijų (įskaitant Lietuvos Respublikoje įsteigtus trečiųjų šalių kolektyvinio administravimo organizacijų filialus ir atstovybes) ir kitose valstybėse narėse įsisteigusių, Lietuvos Respublikos teritorijoje veiklą vykdančių, kolektyvinio administravimo organizacijų veiklos teisėtumo ir skaidrumo stebėseną ir taiko atitinkamai šio straipsnio 6 ir [[#^s-c1a2614ae1f336539fb70920|7 dalyse]] numatytas priemones kolektyvinio administravimo organizacijų veiklos teisėtumui ir skaidrumui užtikrinti; ^s-e537bbe3416e9cab2c7005e4
+2) vykdo Lietuvos Respublikoje įsisteigusių kolektyvinio administravimo organizacijų (įskaitant Lietuvos Respublikoje įsteigtus trečiųjų šalių kolektyvinio administravimo organizacijų filialus ir atstovybes) ir kitose valstybėse narėse įsisteigusių, Lietuvos Respublikos teritorijoje veiklą vykdančių, kolektyvinio administravimo organizacijų veiklos teisėtumo ir skaidrumo stebėseną ir taiko atitinkamai šio straipsnio [[#^s-50c098331048ca7c86eb0993|6]] ir [[#^s-c1a2614ae1f336539fb70920|7]] dalyse numatytas priemones kolektyvinio administravimo organizacijų veiklos teisėtumui ir skaidrumui užtikrinti; ^s-e537bbe3416e9cab2c7005e4
 
 
 3) organizuoja ir užtikrina šio Įstatymo [[#^s-79df875d7d083f48ea9b4256|7230 straipsnyje]] numatytą ikiteisminį kolektyvinio administravimo ginčų sprendimą ir tarpininkavimą derybose; ^s-4d3df42faa92395fa59f659a
@@ -3342,7 +3342,7 @@ KOLEKTYVINIO ADMINISTRAVIMO ORGANIZACIJŲ VEIKLOS UŽTIKRINIMO PRIEMONĖS IR VAL
 5) nagrinėja, apibendrina ir viešai skelbia informaciją, susijusią su [[#^s-b15785bc6e84c522dbeb13aa|šio straipsnio 2 dalies 4 punkte]] numatytų Europos Komisijos organizuojamų konsultacijų išvadomis, taip pat su naudotojų, vartotojų, teisių turėtojų ir kitų suinteresuotų asmenų teikiama informacija apie daugiateritorių licencijų teikimo sąlygas ir plėtrą; ^s-26395fcb99aa8f6c094a8acb
 
 
-6) rengia ir teikia Europos Komisijai daugiateritorių licencijų teikimo veiklos ir šios veiklos plėtros ataskaitas, kuriose pateikiama informacija apie Lietuvos Respublikoje siūlomas daugiateritores licencijas, apie kolektyvinio administravimo organizacijų kompetencijos ir veiklos sąlygų atitiktį šio Įstatymo 7221–[[#^s-80f2c4a54397aa5bedada511|7226 straipsnių]] nuostatoms, taip pat informaciją apie naudotojų, vartotojų, teisių turėtojų ir kitų suinteresuotų asmenų pateiktus daugiateritorių licencijų plėtros vertinimus; ^s-28dbe3fe5108b7ef3956d4bf
+6) rengia ir teikia Europos Komisijai daugiateritorių licencijų teikimo veiklos ir šios veiklos plėtros ataskaitas, kuriose pateikiama informacija apie Lietuvos Respublikoje siūlomas daugiateritores licencijas, apie kolektyvinio administravimo organizacijų kompetencijos ir veiklos sąlygų atitiktį šio Įstatymo [[#^s-63d314f63fc10dd643c29b87|7221]]–[[#^s-80f2c4a54397aa5bedada511|7226]] straipsnių nuostatoms, taip pat informaciją apie naudotojų, vartotojų, teisių turėtojų ir kitų suinteresuotų asmenų pateiktus daugiateritorių licencijų plėtros vertinimus; ^s-28dbe3fe5108b7ef3956d4bf
 
 
 7) dalyvauja Europos Komisijos kolektyvinio administravimo ekspertų grupės (toliau – ekspertų grupė) veikloje. ^s-aadc6288c3b62af0fbd5d549
@@ -3398,10 +3398,10 @@ Kolektyvinio administravimo organizacijų ir naudotojų ginčai, susiję su taik
 2. Komisija sprendžia: ^s-f2c762634f7c13b9f9638506
 
 
-1) turinio dalijimosi internetu paslaugų naudotojų ginčus su autorių teisių ar gretutinių teisių subjektais, išskyrus elektroninės spaudos leidėjus, – dėl šio Įstatymo 105 ir [[#^s-5d8364d1d441297939cb5d31|106 straipsnių]] nuostatų taikymo; ^s-4a8f21d46599845ce8cbdaba
+1) turinio dalijimosi internetu paslaugų naudotojų ginčus su autorių teisių ar gretutinių teisių subjektais, išskyrus elektroninės spaudos leidėjus, – dėl šio Įstatymo [[#^s-0b8cec9ffec2b4b33b148a18|105]] ir [[#^s-5d8364d1d441297939cb5d31|106]] straipsnių nuostatų taikymo; ^s-4a8f21d46599845ce8cbdaba
 
 
-2) autorių ar atlikėjų ginčus su kitomis sutarčių šalimis, kylančius dėl informacijos teikimo taikant šio Įstatymo [[#^s-6d875cd0ff3c103b71553a2b|401 straipsnio]] nuostatas; ^s-a9ab34039d717b323610c675
+2) autorių ar atlikėjų ginčus su kitomis sutarčių šalimis, kylančius [dėl informacijos teikimo taikant šio Įstatymo 401 straipsnio](https://e-tar.lt/portal/lt/legalAct/dffb9e80727911eabee4a336e7e6fdab) nuostatas; ^s-a9ab34039d717b323610c675
 
 
 3) autorių ar atlikėjų ginčus su kitomis sutarčių šalimis, kylančius dėl papildomo atlyginimo taikant šio Įstatymo [[#^s-8d79bb324765dd150a4b77aa|402 straipsnio]] nuostatas; ^s-f9a62399cc51777170c5c0bf
@@ -3410,19 +3410,19 @@ Kolektyvinio administravimo organizacijų ir naudotojų ginčai, susiję su taik
 4) Lietuvos Respublikos teritorijoje įsisteigusių kolektyvinio administravimo organizacijų, teikiančių ar siūlančių teikti daugiateritores licencijas, ginčus: ^s-0f99934e53f458981848f6ec
 
 
-a) su faktiniais ar potencialiais internetinių muzikos paslaugų teikėjais – dėl šio Įstatymo 7212, 7222 ir [[#^s-5830c8f99d4c8552aad20116|7223 straipsnių]] nuostatų taikymo;
+a) su faktiniais ar potencialiais internetinių muzikos paslaugų teikėjais – dėl šio Įstatymo [[#^s-f46210528c69ecc5d21ea05d|7212]], [[#^s-4d9745a390b3e79d4bcdb725|7222]] ir [[#^s-5830c8f99d4c8552aad20116|7223]] straipsnių nuostatų taikymo;
 
 
-b) su teisių turėtojais – dėl šio Įstatymo 7222–[[#^s-80f2c4a54397aa5bedada511|7226 straipsniuose]] numatytų nuostatų taikymo;
+b) su teisių turėtojais – dėl šio Įstatymo [[#^s-4d9745a390b3e79d4bcdb725|7222]]–[[#^s-80f2c4a54397aa5bedada511|7226]] straipsniuose numatytų nuostatų taikymo;
 
 
-c) su kitomis kolektyvinio administravimo organizacijomis – dėl šio Įstatymo 7222–[[#^s-80f2c4a54397aa5bedada511|7226 straipsniuose]] numatytų nuostatų taikymo.
+c) su kitomis kolektyvinio administravimo organizacijomis – dėl šio Įstatymo [[#^s-4d9745a390b3e79d4bcdb725|7222]]–[[#^s-80f2c4a54397aa5bedada511|7226]] straipsniuose numatytų nuostatų taikymo.
 
 
 3. Komisija taip pat atlieka šias funkcijas: ^s-c4d8f7e1bd4ad6adf243d729
 
 
-1) Vyriausybės įgaliotos institucijos teikimu nagrinėja su valstybine kolektyvinio administravimo veiklos priežiūra susijusius klausimus, numatytus šio Įstatymo [[#^s-6f163a286776a30154346880|7228 straipsnio]] 6, 7 ir 8 dalyse, ir teikia Vyriausybės įgaliotai institucijai išvadas ir siūlymus; ^s-c71dd875b788ede5f03a63fd
+1) Vyriausybės įgaliotos institucijos teikimu nagrinėja su valstybine kolektyvinio administravimo veiklos priežiūra susijusius klausimus, numatytus šio Įstatymo [[#^s-6f163a286776a30154346880|7228 straipsnio]] [[#^s-50c098331048ca7c86eb0993|6]], [[#^s-c1a2614ae1f336539fb70920|7]] ir [[#^s-920b8c63bdd6a548fb5907b0|8]] dalyse, ir teikia Vyriausybės įgaliotai institucijai išvadas ir siūlymus; ^s-c71dd875b788ede5f03a63fd
 
 
 2) Vyriausybės įgaliotos institucijos prašymu teikia siūlymus dėl šio Įstatymo [[#^s-949dcd8562b4cedac58dd286|16 straipsnio 3 dalyje]] numatyto kompensacinio atlyginimo už knygų panaudą bibliotekose dydžio ir jo mokėjimo tvarkos; ^s-cfd6bb03ccfacaed4ae71875
@@ -3446,7 +3446,7 @@ c) su kitomis kolektyvinio administravimo organizacijomis – dėl šio Įstatym
 8) tarpininkauja derybose dėl teisės teikti užsakomųjų vaizdo programų paslaugas siekiant užtikrinti audiovizualinių kūrinių prieinamumą kompiuterių tinklais (internete). ^s-e2f5bc52f5dd2ba8cf38b8c3
 
 
-4. Šio straipsnio 1 ir [[#^s-f2c762634f7c13b9f9638506|2 dalyse]] nurodytus ginčus Komisija sprendžia pagal Vyriausybės įgaliotos institucijos tvirtinamą ikiteisminio kolektyvinio administravimo ginčų sprendimo tvarkos aprašą. [[#^s-c4d8f7e1bd4ad6adf243d729|Šio straipsnio 3 dalies]] 4–8 punktuose numatytas tarpininkavimo funkcijas Komisija atlieka pagal Vyriausybės įgaliotos institucijos tvirtinamą tarpininkavimo derybose tvarkos aprašą. Šiuose aprašuose numatytos ginčų sprendimo ir tarpininkavimo procedūros turi būti skubios, nepriklausomos ir nešališkos. Ginčo sprendimo ar tarpininkavimo derybose procesas negali trukti ilgiau kaip 90 dienų, skaičiuojant nuo ginčo sprendimo ar tarpininkavimo proceso pirmojo posėdžio dienos. Šis terminas gali būti pratęstas 30 dienų, jeigu paaiškėja naujos esminės aplinkybės, kurios nebuvo ir negalėjo būti žinomos ginčo ar derybų šalims iki ginčo sprendimo ar tarpininkavimo proceso pradžios, arba į procesą įstojus naujai ginčo ar derybų šaliai, arba Komisijos narį pakeitus kitu Komisijos nariu. Komisijos nariai dalyvauja ginčo sprendimo ar tarpininkavimo procese tik pasirašę nešališkumo deklaraciją, kurioje patvirtina savo nešališkumą ir nepriklausomumą nuo ginčo ar derybų šalių. ^s-568cd525737790132c0247e1
+4. Šio straipsnio [[#^s-b4926908615a7634406d3b6e|1]] ir [[#^s-f2c762634f7c13b9f9638506|2]] dalyse nurodytus ginčus Komisija sprendžia pagal Vyriausybės įgaliotos institucijos tvirtinamą ikiteisminio kolektyvinio administravimo ginčų sprendimo tvarkos aprašą. [[#^s-c4d8f7e1bd4ad6adf243d729|Šio straipsnio 3 dalies]] 4–8 punktuose numatytas tarpininkavimo funkcijas Komisija atlieka pagal Vyriausybės įgaliotos institucijos tvirtinamą tarpininkavimo derybose tvarkos aprašą. Šiuose aprašuose numatytos ginčų sprendimo ir tarpininkavimo procedūros turi būti skubios, nepriklausomos ir nešališkos. Ginčo sprendimo ar tarpininkavimo derybose procesas negali trukti ilgiau kaip 90 dienų, skaičiuojant nuo ginčo sprendimo ar tarpininkavimo proceso pirmojo posėdžio dienos. Šis terminas gali būti pratęstas 30 dienų, jeigu paaiškėja naujos esminės aplinkybės, kurios nebuvo ir negalėjo būti žinomos ginčo ar derybų šalims iki ginčo sprendimo ar tarpininkavimo proceso pradžios, arba į procesą įstojus naujai ginčo ar derybų šaliai, arba Komisijos narį pakeitus kitu Komisijos nariu. Komisijos nariai dalyvauja ginčo sprendimo ar tarpininkavimo procese tik pasirašę nešališkumo deklaraciją, kurioje patvirtina savo nešališkumą ir nepriklausomumą nuo ginčo ar derybų šalių. ^s-568cd525737790132c0247e1
 Straipsnio dalies pakeitimai:
 Nr. XV-961, 2026-05-14, paskelbta TAR 2026-05-21, i. k. 2026-08553
 
@@ -3524,24 +3524,24 @@ Autorių teisių, gretutinių teisių ar sui generis teisių pažeidimu laikomi 
 2) paslaugų, susijusių su techninių apsaugos priemonių šalinimu ar vengimu, teikimas. ^s-c5e1718c5681239c0a2a23c6
 
 
-5. Šio straipsnio 3 ir [[#^s-ae6c4736206fd7eb855a4c09|4 dalys]] netaikomos tobulinant ar naudojant bet kokius techninių apsaugos priemonių šalinimo ar vengimo būdus, būtinus šio Įstatymo [[#^s-3e47d6ae9d22fa9f2dbeefcc|30 straipsnio 2 dalyje]] ir [[#^s-3b9515853479688a2e84b5f0|31 straipsnyje]] nurodytiems veiksmams atlikti. ^s-2cf2d2bf37a53d242a728444
+5. Šio straipsnio [[#^s-9bcdb53e5904cdf4f26546b7|3]] ir [[#^s-ae6c4736206fd7eb855a4c09|4]] dalys netaikomos tobulinant ar naudojant bet kokius techninių apsaugos priemonių šalinimo ar vengimo būdus, būtinus šio Įstatymo [[#^s-3e47d6ae9d22fa9f2dbeefcc|30 straipsnio 2 dalyje]] ir [[#^s-3b9515853479688a2e84b5f0|31 straipsnyje]] nurodytiems veiksmams atlikti. ^s-2cf2d2bf37a53d242a728444
 
 
-6. Šio straipsnio 3 ir [[#^s-ae6c4736206fd7eb855a4c09|4 dalys]] taip pat taikomos techninėms apsaugos priemonėms, kurios skirtos užtikrinti naudotojų teisę pasinaudoti šio Įstatymo [[#^s-9c73f89fc45ec4e6f0ad1282|75 straipsnio 1 dalyje]] nurodytais teisių apribojimais ir kurias savanoriškai taiko autorių teisių, gretutinių teisių ir sui generis teisių subjektai. ^s-0b6e31ad2b0c234912dc4694
+6. Šio straipsnio [[#^s-9bcdb53e5904cdf4f26546b7|3]] ir [[#^s-ae6c4736206fd7eb855a4c09|4]] dalys taip pat taikomos techninėms apsaugos priemonėms, kurios skirtos užtikrinti naudotojų teisę pasinaudoti šio Įstatymo [[#^s-9c73f89fc45ec4e6f0ad1282|75 straipsnio 1 dalyje]] nurodytais teisių apribojimais ir kurias savanoriškai taiko autorių teisių, gretutinių teisių ir sui generis teisių subjektai. ^s-0b6e31ad2b0c234912dc4694
 
 
 
 ### 75 straipsnis. Techninių apsaugos priemonių taikymo apribojimai ^s-ebf10512cb958b27e24eebdd
 
 
-1. Kai autorių teisių, gretutinių teisių ir sui generis teisių subjektų taikomos techninės apsaugos priemonės šių teisių naudotojams trukdo pasinaudoti autorių teisių, gretutinių teisių ir sui generis teisių apribojimais, numatytais šio Įstatymo [[#^s-2fb35b3d0d6cd5cce168c3c1|20 straipsnio 1 dalyje]], [[#^s-7fe347ae674bad60f461905a|201 straipsnio 1 dalyje]], 22 straipsnio 1 dalies 1 punkte, 221, 222, 23, 25, [[#^s-a5fb5c43ac9d44bc73900bcb|27 straipsniuose]], [[#^s-aa197760f00850c0c75a140c|29 straipsnio 1 dalies 2 punkte]], [[#^s-93e0e014505e9c30c0b7a694|32 straipsnio]] 5, 6, 7, 8 dalyse, [[#^s-36177c3fd41e6738ccab233c|58 straipsnio 1 dalies]] 4, 5, 7, 8, 9, 15 punktuose ir [[#^s-407ae9609347a71d210044cc|2 dalyje]] ir [[#^s-7f8bdbc370428add8b7d61b6|63 straipsnio 1 dalyje]], teisių naudotojams turi būti sudarytos sąlygos ar suteiktos tinkamos priemonės (pvz., dekodavimo prietaisai ir kitos), leidžiančios pasinaudoti teisėtai prieinamais autorių teisių, gretutinių teisių ar sui generis teisių objektais tiek, kad teisių naudotojai turėtų nekomercinės naudos iš jų interesais numatytų autorių teisių, gretutinių teisių ir sui generis teisių apribojimų. ^s-9c73f89fc45ec4e6f0ad1282
+1. Kai autorių teisių, gretutinių teisių ir sui generis teisių subjektų taikomos techninės apsaugos priemonės šių teisių naudotojams trukdo pasinaudoti autorių teisių, gretutinių teisių ir sui generis teisių apribojimais, numatytais šio Įstatymo [[#^s-2fb35b3d0d6cd5cce168c3c1|20 straipsnio 1 dalyje]], [[#^s-7fe347ae674bad60f461905a|201 straipsnio 1 dalyje]], 22 straipsnio 1 dalies 1 punkte, [[#^s-92ca78edf30253d44eb6c342|221]], [[#^s-4ecb6039987a8988728337c3|222]], [[#^s-8df90554bccd6c13dda80362|23]], [[#^s-ec2a8f24fde853625186486d|25]], [[#^s-a5fb5c43ac9d44bc73900bcb|27]] straipsniuose, [[#^s-aa197760f00850c0c75a140c|29 straipsnio 1 dalies 2 punkte]], [[#^s-93e0e014505e9c30c0b7a694|32 straipsnio]] [[#^s-a836b23dbcf8add72e48c561|5]], [[#^s-a95fc6763c2977ff190fb1aa|6]], [[#^s-3f34d8b2ddf01af4a403d755|7]], [[#^s-2ef9bff5f236fee160f770da|8]] dalyse, [[#^s-36177c3fd41e6738ccab233c|58 straipsnio 1 dalies]] [[#^s-303fad75740210e307bbc9f5|4]], [[#^s-04f6b5e0f7b709180cbbf58d|5]], [[#^s-4bfef4d00f5d1097d72407eb|7]], [[#^s-596038b52753e023e640a844|8]], [[#^s-9005dda532d9360f685986cf|9]], [[#^s-85d426d51f6c80770bb719cb|15]] punktuose ir [[#^s-407ae9609347a71d210044cc|2 dalyje]] ir [[#^s-7f8bdbc370428add8b7d61b6|63 straipsnio 1 dalyje]], teisių naudotojams turi būti sudarytos sąlygos ar suteiktos tinkamos priemonės (pvz., dekodavimo prietaisai ir kitos), leidžiančios pasinaudoti teisėtai prieinamais autorių teisių, gretutinių teisių ar sui generis teisių objektais tiek, kad teisių naudotojai turėtų nekomercinės naudos iš jų interesais numatytų autorių teisių, gretutinių teisių ir sui generis teisių apribojimų. ^s-9c73f89fc45ec4e6f0ad1282
 Straipsnio dalies pakeitimai:
 Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
 Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 
 
 
-2. [[#^s-9c73f89fc45ec4e6f0ad1282|Šio straipsnio 1 dalis]] netaikoma kūriniams, gretutinių teisių ir sui generis teisių objektams, kurie teikiant dialogines užsakomąsias paslaugas kompiuterių tinklais (internete) padaryti viešai prieinami visuomenės nariams individualiai pasirinktoje vietoje ir pasirinktu laiku. Tokių paslaugų teikimo sąlygos nustatomos sutartyse. Ši dalis netaikoma autorių teisių, gretutinių teisių ir sui generis teisių apribojimams, numatytiems šio Įstatymo 221, 222, [[#^s-8df90554bccd6c13dda80362|23 straipsniuose]], [[#^s-93e0e014505e9c30c0b7a694|32 straipsnio]] 5, 6, 7, 8 dalyse, [[#^s-85d426d51f6c80770bb719cb|58 straipsnio 1 dalies 15 punkte]] ir [[#^s-7f8bdbc370428add8b7d61b6|63 straipsnio 1 dalyje]]. ^s-407ae9609347a71d210044cc
+2. [[#^s-9c73f89fc45ec4e6f0ad1282|Šio straipsnio 1 dalis]] netaikoma kūriniams, gretutinių teisių ir sui generis teisių objektams, kurie teikiant dialogines užsakomąsias paslaugas kompiuterių tinklais (internete) padaryti viešai prieinami visuomenės nariams individualiai pasirinktoje vietoje ir pasirinktu laiku. Tokių paslaugų teikimo sąlygos nustatomos sutartyse. Ši dalis netaikoma autorių teisių, gretutinių teisių ir sui generis teisių apribojimams, numatytiems šio Įstatymo [[#^s-92ca78edf30253d44eb6c342|221]], [[#^s-4ecb6039987a8988728337c3|222]], [[#^s-8df90554bccd6c13dda80362|23]] straipsniuose, [[#^s-93e0e014505e9c30c0b7a694|32 straipsnio]] [[#^s-a836b23dbcf8add72e48c561|5]], [[#^s-a95fc6763c2977ff190fb1aa|6]], [[#^s-3f34d8b2ddf01af4a403d755|7]], [[#^s-2ef9bff5f236fee160f770da|8]] dalyse, [[#^s-85d426d51f6c80770bb719cb|58 straipsnio 1 dalies 15 punkte]] ir [[#^s-7f8bdbc370428add8b7d61b6|63 straipsnio 1 dalyje]]. ^s-407ae9609347a71d210044cc
 Straipsnio dalies pakeitimai:
 Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 
@@ -3655,7 +3655,7 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 4) atlikti kitus tyrimo veiksmus, reikalingus įvertinti [[#^s-764a951e4a5b5b3fb5863082|šio straipsnio 6 dalyje]] nurodytus kriterijus ir jų reikšmingumą. ^s-37eca88b4abbdebdc6e158c1
 
 
-8. Lietuvos radijo ir televizijos komisija, įvertinusi teisių subjekto, jo įgalioto asmens ar kolektyvinio administravimo organizacijos pateiktą prašymą, numatytą [[#^s-acde78a84cfbeeb3ca51950f|šio straipsnio 2 dalyje]], ir siekdama taikyti [[#^s-704f89b627e81630e9f02e58|šio straipsnio 3 dalyje]] numatytus privalomus nurodymus pašalinti ar panaikinti galimybę pasiekti informaciją (neteisėtai viešai paskelbtą autorių teisių saugomą turinį), ne vėliau kaip per 14 kalendorinių dienų nuo visų dokumentų gavimo dienos priima sprendimą dėl privalomų nurodymų taikymo, vadovaudamasi [[latest/TAR.065AB8483E1E#^s-eee73b585f7694d8d3ec4b8c|Lietuvos Respublikos visuomenės informavimo įstatymo 47 straipsnio]] 12, 13 ir 14 dalimis. ^s-7126aab7c02a865a7b0f04cd
+8. Lietuvos radijo ir televizijos komisija, įvertinusi teisių subjekto, jo įgalioto asmens ar kolektyvinio administravimo organizacijos pateiktą prašymą, numatytą [[#^s-acde78a84cfbeeb3ca51950f|šio straipsnio 2 dalyje]], ir siekdama taikyti [[#^s-704f89b627e81630e9f02e58|šio straipsnio 3 dalyje]] numatytus privalomus nurodymus pašalinti ar panaikinti galimybę pasiekti informaciją (neteisėtai viešai paskelbtą autorių teisių saugomą turinį), ne vėliau kaip per 14 kalendorinių dienų nuo visų dokumentų gavimo dienos priima sprendimą dėl privalomų nurodymų taikymo, vadovaudamasi [[latest/TAR.065AB8483E1E#^s-eee73b585f7694d8d3ec4b8c|Lietuvos Respublikos visuomenės informavimo įstatymo 47 straipsnio]] [[latest/TAR.065AB8483E1E#^s-83332c218f2f80bd5a2fe07b|12]], [[latest/TAR.065AB8483E1E#^s-6cd16ab6ae19c5d7b4c98d57|13]] ir [[latest/TAR.065AB8483E1E#^s-01ee422c84226e5f7e01e7c0|14]] dalimis. ^s-7126aab7c02a865a7b0f04cd
 
 
 9. Lietuvos radijo ir televizijos komisija, taikydama privalomus nurodymus mokėjimo, kredito ar kitai finansų įstaigai nutraukti mokėjimus ar kitas finansines operacijas, susijusias su subjektu, vykdančiu veiklą, kuria autorių teisių saugomas turinys neteisėtai viešai paskelbiamas viešo naudojimo kompiuterių tinklais (internete), privalo [[latest/TAR.82D8168D3049#^s-8ced48fe06cc6baf66db741c|Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje]] nustatyta tvarka pateikti pirmosios instancijos administraciniam teismui prašymą išduoti leidimą taikyti privalomus nurodymus. Prašymas sankcionuoti Lietuvos radijo ir televizijos komisijos sprendimą turi būti pagrįstas objektyviais duomenimis (faktais), juos pagrindžiančiais dokumentais ir teisės aktų normomis, jame turi būti nurodyti numatomi atlikti veiksmai (privalomi nurodymai). ^s-df99c0e0a00dfccd8560a06b
@@ -3664,7 +3664,7 @@ Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
 10. Lietuvos radijo ir televizijos komisija, įgyvendinama šio straipsnio nuostatas, turi teisę duoti privalomus nurodymus mokėjimo, kredito ar kitai finansų įstaigai nutraukti mokėjimus ar kitas finansines operacijas, susijusias su subjektu, vykdančiu veiklą, kuria autorių teisių saugomas turinys neteisėtai viešai paskelbiamas viešo naudojimo kompiuterių tinklais (internete). ^s-23d5346d8ae1841e9c7cb729
 
 
-11. [[#^s-df99c0e0a00dfccd8560a06b|Šio straipsnio 9 dalyje]] nurodyti privalomi nurodymai mokėjimo, kredito ar kitai finansų įstaigai gali būti taikomi kartu su [[#^s-704f89b627e81630e9f02e58|šio straipsnio 3 dalyje]] nurodytais privalomais nurodymais arba atskirai, vadovaujantis šio straipsnio 4–[[#^s-7126aab7c02a865a7b0f04cd|8 dalių]] nuostatomis. ^s-dbff3f1a7aafaf63d0a70e69
+11. [[#^s-df99c0e0a00dfccd8560a06b|Šio straipsnio 9 dalyje]] nurodyti privalomi nurodymai mokėjimo, kredito ar kitai finansų įstaigai gali būti taikomi kartu su [[#^s-704f89b627e81630e9f02e58|šio straipsnio 3 dalyje]] nurodytais privalomais nurodymais arba atskirai, vadovaujantis šio straipsnio [[#^s-7d914ef0849434708f5be3dd|4]]–[[#^s-7126aab7c02a865a7b0f04cd|8]] dalių nuostatomis. ^s-dbff3f1a7aafaf63d0a70e69
 
 
 12. Jeigu buvo pritaikyti [[#^s-df99c0e0a00dfccd8560a06b|šio straipsnio 9 dalyje]] nurodyti privalomi nurodymai ir gauta informacija, kad autorių teisių saugomo turinio pažeidimas yra pašalintas, Lietuvos radijo ir televizijos komisija kreipiasi į mokėjimo, kredito ar kitas finansų įstaigas įpareigodama jas per 5 darbo dienas nuo kreipimosi į mokėjimo, kredito ar kitas finansų įstaigas dienos atnaujinti mokėjimus ar kitas finansines operacijas. ^s-4d8fd30520c78af9b204a693
@@ -3701,20 +3701,20 @@ Nr. XIV-2141, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14037
 ### 80 straipsnis. Įrodymai ^s-e2095c451913ef8ddee1b315
 
 
-1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka gali iš priešingos šalies išreikalauti šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio Įstatymo nustatytų teisių pažeidimas. ^s-04121d5472e700745a9b8fde
+1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali iš priešingos šalies išreikalauti šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio Įstatymo nustatytų teisių pažeidimas. ^s-04121d5472e700745a9b8fde
 Straipsnio dalies pakeitimai:
 Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 
 
 
-2. Jeigu šio Įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-04121d5472e700745a9b8fde|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas Civilinio proceso kodekso nustatyta tvarka iš priešingos šalies gali išreikalauti ir banko, finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-021ec8605ea10aecad960582
+2. Jeigu šio Įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-04121d5472e700745a9b8fde|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka iš priešingos šalies gali išreikalauti ir banko, finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-021ec8605ea10aecad960582
 
 
 
 ### 81 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės ^s-841f02327b0279a861946721
 
 
-1. Kai yra pakankamas pagrindas įtarti, kad buvo padarytas autorių teisių, gretutinių teisių ar sui generis teisių pažeidimas, teismas Civilinio proceso kodekso nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra: ^s-09b20a8f0f70b86c67c8f6a1
+1. Kai yra pakankamas pagrindas įtarti, kad buvo padarytas autorių teisių, gretutinių teisių ar sui generis teisių pažeidimas, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra: ^s-09b20a8f0f70b86c67c8f6a1
 
 
 1) uždrausti asmenims daryti gresiantį pagal šį Įstatymą saugomų teisių pažeidimą; ^s-ea987d26a1cb50d0a08086ae
@@ -3732,7 +3732,7 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 5) areštuoti pagal šį Įstatymą saugomų teisių pažeidimu įtariamų asmenų turtą, kurį turi jie arba tretieji asmenys, įskaitant banko sąskaitas, ypač priemones ir įrangą, kurios, kaip įtariama, daugiausia naudojamos pagal šį Įstatymą saugomas teises pažeidžiančioms kūrinių, kitų saugomų teisių objektų kopijoms, prekėms sukurti ar gaminti; ^s-31c9673b85ce22e27ff75380
 
 
-6) taikyti kitas Civilinio proceso kodekso nustatytas priemones. ^s-e749bcbfe7c4aedb6ae136b2
+6) taikyti kitas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytas priemones. ^s-e749bcbfe7c4aedb6ae136b2
 
 
 2. Jeigu pritaikytos [[#^s-09b20a8f0f70b86c67c8f6a1|šio straipsnio 1 dalies]] 1 ir 2 punktuose numatytos laikinosios apsaugos priemonės pažeidžiamos ar šis pažeidimas tęsiamas, teismas gali įpareigoti pažeidimo padarymu įtariamus asmenis pateikti tinkamą žalos kompensavimo užtikrinimą asmeniui, prašiusiam taikyti laikinąsias apsaugos priemones. ^s-981b0711d4478c1f40df09c2
@@ -3753,16 +3753,16 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 2) areštuoti ir paimti pagal šį Įstatymą saugomas teises pažeidžiančias kūrinių ir kitų saugomų teisių objektų kopijas, prekes, o prireikus – medžiagas ir priemones, kurios naudojamos jų gamybai ir (arba) platinimui bei su jomis susijusius dokumentus; ^s-4e47c0c8be2b8296faeb868d
 
 
-3) taikyti kitas laikinąsias priemones, numatytas Civilinio proceso kodekse. ^s-04b3d9c6425dbfa9babb67ec
+3) taikyti kitas laikinąsias priemones, numatytas [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). ^s-04b3d9c6425dbfa9babb67ec
 
 
-6. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač tais atvejais, kai delsimas galėtų padaryti nepataisomą žalą pareiškėjui arba kai yra įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kai tokios priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, tai yra iš karto tas priemones pritaikius. Atsakovo prašymu, įskaitant jo prašymą būti išklausytam, teismas pritaikytas laikinąsias apsaugos ir įrodymų užtikrinimo priemones gali panaikinti ar pakeisti kitomis Civilinio proceso kodekso nustatyta tvarka. ^s-710943c58df467ed77e6392d
+6. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač tais atvejais, kai delsimas galėtų padaryti nepataisomą žalą pareiškėjui arba kai yra įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kai tokios priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, tai yra iš karto tas priemones pritaikius. Atsakovo prašymu, įskaitant jo prašymą būti išklausytam, teismas pritaikytas laikinąsias apsaugos ir įrodymų užtikrinimo priemones gali panaikinti ar pakeisti kitomis [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-710943c58df467ed77e6392d
 
 
 7. Jeigu teismas taikytas laikinąsias apsaugos ar įrodymų užtikrinimo priemones panaikina arba jos tampa nepagrįstomis dėl asmens, kuris kreipėsi dėl tų priemonių taikymo, veikimo ar neveikimo, arba įsiteisėja teismo sprendimas, nustatantis, kad pagal šį Įstatymą saugomų teisių pažeidimo ar pažeidimo grėsmės nebuvo, arba asmuo, kuris kreipėsi dėl laikinųjų apsaugos ar įrodymų užtikrinimo priemonių taikymo, per teismo nustatytą terminą nepareiškia ieškinio, atsakovas turi teisę reikalauti atlyginti žalą, atsiradusią dėl tokių priemonių taikymo. ^s-a44ef12593e19ae04a356a34
 
 
-8. Visais kitais su laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymu susijusiais klausimais, kurie nereglamentuoti šiame straipsnyje, taikomos Civilinio proceso kodekso normos. ^s-671840379684ef332d58bd8c
+8. Visais kitais su laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymu susijusiais klausimais, kurie nereglamentuoti šiame straipsnyje, taikomos [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) normos. ^s-671840379684ef332d58bd8c
 
 
 
@@ -3807,7 +3807,7 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 ### 84 straipsnis. Neturtinės žalos atlyginimas ^s-9846a2c9ef784590307e33da
 
 
-Šio Įstatymo 14 ir [[#^s-afc0e9cbd0759e0cd4d0628d|52 straipsniuose]] nurodytas autorių ar atlikėjų asmenines neturtines teises pažeidęs asmuo privalo atlyginti neturtinę žalą. Šios žalos dydį pinigais nustato teismas vadovaudamasis Civilinio kodekso normomis, reglamentuojančiomis neturtinės žalos atlyginimą.
+Šio Įstatymo [[#^s-e539bb6be0cfeabcbb0a2feb|14]] ir [[#^s-afc0e9cbd0759e0cd4d0628d|52]] straipsniuose nurodytas autorių ar atlikėjų asmenines neturtines teises pažeidęs asmuo privalo atlyginti neturtinę žalą. Šios žalos dydį pinigais nustato teismas vadovaudamasis Civilinio kodekso normomis, reglamentuojančiomis neturtinės žalos atlyginimą.
 
 
 
@@ -3958,7 +3958,7 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 3. Kai yra pagrįstų įrodymų, kad svarbios informacijos apie teisių turėtojus galima rasti ne tik valstybėse narėse, arba paaiškėja, kad audiovizualinio kūrinio gamintojas nė vienoje iš valstybių narių neturi buveinės arba gyvenamosios vietos, tikrinami ir kitose šalyse esantys paieškos šaltiniai. ^s-2535364083330deec4fce1f0
 
 
-4. Nenustatytų teisių turėtojų kūrinių naudotojai šio straipsnio 1, 2 ir [[#^s-2535364083330deec4fce1f0|3 dalyse]] numatytai teisių turėtojų paieškai atlikti turi teisę įstatymų nustatyta tvarka pagal sutartis pasitelkti kitus asmenis. ^s-310dda9e5aae327fb9c727d4
+4. Nenustatytų teisių turėtojų kūrinių naudotojai šio straipsnio [[#^s-9da7bf2264903e6d6552423d|1]], [[#^s-2e082c74e57cf465545cfe1a|2]] ir [[#^s-2535364083330deec4fce1f0|3]] dalyse numatytai teisių turėtojų paieškai atlikti turi teisę įstatymų nustatyta tvarka pagal sutartis pasitelkti kitus asmenis. ^s-310dda9e5aae327fb9c727d4
 
 
 
@@ -3971,7 +3971,7 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 2. [[#^s-db3cf23ac3bc077a2de2cbd6|Šio straipsnio 1 dalyje]] nurodytoje duomenų bazėje registruojamų duomenų sąrašą tvirtina Vyriausybės įgaliota institucija. ^s-264e6165231daf97987277d4
 
 
-3. Lietuvos nacionalinei Martyno Mažvydo bibliotekai šio straipsnio 1 ir [[#^s-264e6165231daf97987277d4|2 dalyse]] nustatyta tvarka įregistravus teisių turėtojų paieškos rezultatus, kūrinys ar fonograma įgyja nenustatytų teisių turėtojų kūrinio statusą ir gali būti naudojami šio Įstatymo [[#^s-b76436666bdc441d1e70af30|94 straipsnyje]] numatytais būdais ir sąlygomis. ^s-85c79fdfb857f783fa786a4d
+3. Lietuvos nacionalinei Martyno Mažvydo bibliotekai šio straipsnio [[#^s-db3cf23ac3bc077a2de2cbd6|1]] ir [[#^s-264e6165231daf97987277d4|2]] dalyse nustatyta tvarka įregistravus teisių turėtojų paieškos rezultatus, kūrinys ar fonograma įgyja nenustatytų teisių turėtojų kūrinio statusą ir gali būti naudojami šio Įstatymo [[#^s-b76436666bdc441d1e70af30|94 straipsnyje]] numatytais būdais ir sąlygomis. ^s-85c79fdfb857f783fa786a4d
 
 
 4. Nenustatytų teisių turėtojų kūrinio statusui Lietuvos Respublikoje ir kitose valstybėse narėse taikomas tarpusavio pripažinimo principas. Pagal tarpusavio pripažinimo principą kūrinys ar fonograma, kurie įgijo nenustatytų teisių turėtojų kūrinio statusą bet kurioje valstybėje narėje, laikomi nenustatytų teisių turėtojų kūriniu ir Lietuvos Respublikoje. Nenustatytų teisių turėtojų kūrinių naudotojai šiuos nenustatytų teisių turėtojų kūrinius gali naudoti šio Įstatymo [[#^s-b76436666bdc441d1e70af30|94 straipsnyje]] nustatytais būdais ir sąlygomis. ^s-d0e0bfdfdebb3ab2dd0b9c23
@@ -4014,7 +4014,7 @@ Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
 2. Panaikinus nenustatytų teisių turėtojų kūrinio statusą, kūrinys ar fonograma toliau gali būti naudojami šio Įstatymo [[#^s-63334418faea6e27a0adc660|94 straipsnio 1 dalyje]] numatytais būdais tik gavus teisių turėtojo ar jo įgalioto asmens leidimą (išskyrus kūrinio ar fonogramos atgaminimą šio Įstatymo [[#^s-8df90554bccd6c13dda80362|23 straipsnyje]] ir [[#^s-303fad75740210e307bbc9f5|58 straipsnio 1 dalies 4 punkte]] numatytais išsaugojimo tikslais). ^s-ccee92226480b16f433b7b54
 
 
-3. Šio straipsnio 1 ir [[#^s-ccee92226480b16f433b7b54|2 dalių]] nuostatos dėl nenustatytų teisių turėtojų kūrinio statuso panaikinimo mutatis mutandis taikomos šio Įstatymo [[#^s-47fef839840e22aba762357e|90 straipsnio 2 dalyje]] nurodytų nenustatytų ar nesurastų teisių turėtojų teisėms į kūrinį ar fonogramą. ^s-a2f2cc489115ef088015081e
+3. Šio straipsnio [[#^s-e1ea452f2df85b5e213610f5|1]] ir [[#^s-ccee92226480b16f433b7b54|2]] dalių nuostatos dėl nenustatytų teisių turėtojų kūrinio statuso panaikinimo mutatis mutandis taikomos šio Įstatymo [[#^s-47fef839840e22aba762357e|90 straipsnio 2 dalyje]] nurodytų nenustatytų ar nesurastų teisių turėtojų teisėms į kūrinį ar fonogramą. ^s-a2f2cc489115ef088015081e
 
 
 
@@ -4033,7 +4033,7 @@ Nr. XV-961, 2026-05-14, paskelbta TAR 2026-05-21, i. k. 2026-08553
 2. Kompensacija už buvusio nenustatytų teisių turėtojų kūrinio naudojimą neturi viršyti 10 bazinių socialinių išmokų dydžio sumos. Ši kompensacijos suma paskirstoma ir mokama proporcingai jo teisių turėtojams. Kompensacija teisių turėtojams išmokama iki kitų metų kovo 31 dienos, pasibaigus metams, kuriais Vyriausybės įgaliota institucija, atsižvelgusi į ekspertų komisijos rekomendacines išvadas, priėmė sprendimą dėl kompensacijos mokėjimo ir jos dydžio. Kitas kompensacijos už buvusio nenustatytų teisių turėtojų kūrinio naudojimą mokėjimo sąlygas ir tvarką nustato Vyriausybės įgaliota institucija. ^s-6631aac966b99a8ee49a2299
 
 
-3. Kompensacija už buvusio nenustatytų teisių turėtojų kūrinio naudojimą mokama iš valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme šiam tikslui numatytų lėšų, kurių poreikis nustatomas atsižvelgus į [[#^s-6631aac966b99a8ee49a2299|šio straipsnio 2 dalyje]] nustatyta tvarka priimtus sprendimus dėl kompensacijų mokėjimo ir jų dydžio. ^s-b7781b64c43723ea4a82f5d9
+3. Kompensacija už buvusio nenustatytų teisių turėtojų kūrinio naudojimą mokama iš valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme šiam tikslui numatytų lėšų, kurių poreikis nustatomas atsižvelgus į [[#^s-6631aac966b99a8ee49a2299|šio straipsnio 2 dalyje]] nustatyta tvarka priimtus sprendimus [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) mokėjimo ir jų dydžio. ^s-b7781b64c43723ea4a82f5d9
 
 
 Papildyta skyriumi:
@@ -4112,7 +4112,7 @@ KŪRINIAI, GRETUTINIŲ TEISIŲ IR SUI GENERIS TEISIŲ OBJEKTAI, KURIAIS NEBEPREK
 3. [[#^s-d9b11304da2937a44252dc56|Šio straipsnio 1 dalyje]] nurodytame Europos Sąjungos portale ir [[#^s-504d3c95f84d385832ae2dad|2 dalyje]] nurodytoje duomenų bazėje viešinamų duomenų sąrašą tvirtina ir viešinimo tvarką nustato Vyriausybės įgaliota institucija. Kūriniai ar kiti objektai, kuriais nebeprekiaujama, Europos Sąjungos portale turi būti paviešinti ne vėliau kaip prieš 6 mėnesius iki jų naudojimo pradžios. ^s-d8d0e8abeda1d1476d90ffc8
 
 
-4. Kūriniai ar kiti objektai, paviešinti šio straipsnio 1, 2 ir [[#^s-d8d0e8abeda1d1476d90ffc8|3 dalyse]] nustatyta tvarka ir sąlygomis, įgyja kūrinių, kuriais nebeprekiaujama, statusą ir gali būti naudojami šio Įstatymo 101 ir [[#^s-768c6f09f0cec70d30855118|102 straipsniuose]] nustatytais būdais ir sąlygomis. ^s-d041a2e919c3968d322bc920
+4. Kūriniai ar kiti objektai, paviešinti šio straipsnio [[#^s-d9b11304da2937a44252dc56|1]], [[#^s-504d3c95f84d385832ae2dad|2]] ir [[#^s-d8d0e8abeda1d1476d90ffc8|3]] dalyse nustatyta tvarka ir sąlygomis, įgyja kūrinių, kuriais nebeprekiaujama, statusą ir gali būti naudojami šio Įstatymo [[#^s-7c70611cc1f34d4e8643fe31|101]] ir [[#^s-768c6f09f0cec70d30855118|102]] straipsniuose nustatytais būdais ir sąlygomis. ^s-d041a2e919c3968d322bc920
 
 
 
@@ -4132,7 +4132,7 @@ KŪRINIAI, GRETUTINIŲ TEISIŲ IR SUI GENERIS TEISIŲ OBJEKTAI, KURIAIS NEBEPREK
 ### 102 straipsnis. Leistini kūrinių ar kitų objektų, kuriais nebeprekiaujama, naudojimo būdai ir sąlygos taikant autorių teisių ar kitų turtinių teisių apribojimus ^s-768c6f09f0cec70d30855118
 
 
-1. Kai kultūros paveldo įstaigos neturi sąlygų gauti šio Įstatymo [[#^s-35a2c6879ff25d7014913deb|651 straipsnyje]] numatytos kolektyvinio administravimo organizacijos licencijos naudoti turimus kūrinius ar kitus objektus, kuriais nebeprekiaujama, (nėra kolektyvinio administravimo organizacijos, atitinkančios šio Įstatymo [[#^s-7f177f5c46ab65656457a816|651 straipsnio 3 dalyje]] numatytus reikalavimus, arba ji nevykdo tam tikrų rūšių kūrinių ar kitų objektų kolektyvinio teisių administravimo), kultūros paveldo įstaigos turi teisę nekomerciniais tikslais naudoti savo fondų rinkiniuose ar kolekcijose esančius kūrinius ar kitus objektus, kuriais nebeprekiaujama, juos atgaminti, platinti, viešai skelbti ar padaryti viešai prieinamus kompiuterių tinklais (internete), taikydamos šio Įstatymo 19–33, 58 ir [[#^s-5a55e9e7c3634805e5c17570|63 straipsniuose]] numatytus turtinių teisių apribojimus. ^s-806343e82774e555b08500cc
+1. Kai kultūros paveldo įstaigos neturi sąlygų gauti šio Įstatymo [[#^s-35a2c6879ff25d7014913deb|651 straipsnyje]] numatytos kolektyvinio administravimo organizacijos licencijos naudoti turimus kūrinius ar kitus objektus, kuriais nebeprekiaujama, (nėra kolektyvinio administravimo organizacijos, atitinkančios šio Įstatymo [[#^s-7f177f5c46ab65656457a816|651 straipsnio 3 dalyje]] numatytus reikalavimus, arba ji nevykdo tam tikrų rūšių kūrinių ar kitų objektų kolektyvinio teisių administravimo), kultūros paveldo įstaigos turi teisę nekomerciniais tikslais naudoti savo fondų rinkiniuose ar kolekcijose esančius kūrinius ar kitus objektus, kuriais nebeprekiaujama, juos atgaminti, platinti, viešai skelbti ar padaryti viešai prieinamus kompiuterių tinklais (internete), taikydamos šio Įstatymo [[#^s-27ae07c8b474169ceacc05f2|19]]–[[#^s-3d70c9e794764771b4d77eec|33]], [[#^s-f1c3170a841e640304cca710|58]] ir [[#^s-5a55e9e7c3634805e5c17570|63]] straipsniuose numatytus turtinių teisių apribojimus. ^s-806343e82774e555b08500cc
 
 
 2. Kūriniai ar kiti objektai, kuriais nebeprekiaujama, [[#^s-806343e82774e555b08500cc|šio straipsnio 1 dalyje]] numatytomis sąlygomis gali būti naudojami tik Lietuvos Respublikoje, jeigu tokiais būdais ir tokiomis sąlygomis naudojanti kūrinius ar kitus objektus kultūros paveldo įstaiga yra įsteigta Lietuvos Respublikos teritorijoje. ^s-6a1f923fd544a67a19418c39
@@ -4166,7 +4166,7 @@ KŪRINIAI, GRETUTINIŲ TEISIŲ IR SUI GENERIS TEISIŲ OBJEKTAI, KURIAIS NEBEPREK
 1) kultūros paveldo įstaiga, jeigu [[#^s-e912c4c295736f2e5156a2a0|šio straipsnio 2 dalies 1 punkte]] numatyta tvarka pateiktas prašymas susijęs su kūrinio ar kito objekto, kuriuo nebeprekiaujama, naudojimu pagal turtinių teisių apribojimą, numatytą šio Įstatymo [[#^s-806343e82774e555b08500cc|102 straipsnio 1 dalyje]]; kultūros paveldo įstaiga nedelsdama, ne vėliau kaip per 10 darbo dienų po teisių turėtojo prašymo gavimo dienos, įvertina teisių turėtojo pateiktą prašymą, imasi veiksmų nutraukti kūrinių ar kitų objektų, kuriais nebeprekiaujama, naudojimą, nurodytą prašyme, ir apie tai informuoja teisių turėtoją; ^s-4f75c974205ac521686bee27
 
 
-2) kolektyvinio administravimo organizacija šio Įstatymo [[#^s-35a2c6879ff25d7014913deb|651 straipsnio]] 6 ir 7 dalyse nustatyta tvarka, jeigu [[#^s-e912c4c295736f2e5156a2a0|šio straipsnio 2 dalies 1 punkte]] numatyta tvarka pateiktas prašymas susijęs su kūrinio ar kito objekto, kuriuo nebeprekiaujama, naudojimu pagal licenciją, suteiktą laikantis šio Įstatymo [[#^s-7c70611cc1f34d4e8643fe31|101 straipsnio]] reikalavimų; ^s-c7367c6a2a4b11de23522373
+2) kolektyvinio administravimo organizacija šio Įstatymo [[#^s-35a2c6879ff25d7014913deb|651 straipsnio]] [[#^s-3ec760a94a356c7d9d31e27a|6]] ir [[#^s-27595c48bd680faf7c9078e6|7]] dalyse nustatyta tvarka, jeigu [[#^s-e912c4c295736f2e5156a2a0|šio straipsnio 2 dalies 1 punkte]] numatyta tvarka pateiktas prašymas susijęs su kūrinio ar kito objekto, kuriuo nebeprekiaujama, naudojimu pagal licenciją, suteiktą laikantis šio Įstatymo [[#^s-7c70611cc1f34d4e8643fe31|101 straipsnio]] reikalavimų; ^s-c7367c6a2a4b11de23522373
 
 
 3) tas Europos Sąjungos portalo naudotojas (kultūros paveldo įstaiga ar kolektyvinio administravimo organizacija), kuris yra registruotas portalo naudotoju Vyriausybės įgaliotos institucijos nustatyta tvarka ir kuriam portalo sistema pateiks pranešimą, jeigu prašymas pateiktas [[#^s-2e611737f0aaf2efdbb32efb|šio straipsnio 2 dalies 2 punkte]] numatytu būdu. ^s-c270c031895e7be6b4be1905
@@ -4185,7 +4185,7 @@ KŪRINIAI, GRETUTINIŲ TEISIŲ IR SUI GENERIS TEISIŲ OBJEKTAI, KURIAIS NEBEPREK
 3. Vienkartinę kompensaciją už buvusio kūrinio ar kito objekto, kuriuo nebeprekiaujama, naudojimą šio Įstatymo [[#^s-806343e82774e555b08500cc|102 straipsnio 1 dalyje]] nustatytais būdais teisių turėtojai gali gauti Vyriausybės įgaliotai institucijai pateikę prašymus išmokėti šią kompensaciją. Sprendimą dėl kompensacijos išmokėjimo ir jos dydžio Vyriausybės įgaliota institucija priima atsižvelgdama į ekspertų komisijos, nurodytos šio Įstatymo [[#^s-3d1c3adfaa4d323e61f1f34e|96 straipsnio 1 dalyje]], rekomendacines išvadas. ^s-8e2ad1a1c95f24fe6a120f58
 
 
-4. Kompensacija negali viršyti 10 bazinių socialinių išmokų dydžių sumos. Ši kompensacijos suma paskirstoma ir mokama proporcingai buvusio kūrinio ar kito objekto, kuriuo nebeprekiaujama, teisių turėtojams. Kompensacija mokama iš Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme šiam tikslui numatytų lėšų, kurių poreikis nustatomas atsižvelgus į šioje dalyje nustatyta tvarka priimtus sprendimus dėl kompensacijų mokėjimo ir jų dydžio. ^s-34571a6cbf8953df3206a317
+4. Kompensacija negali viršyti 10 bazinių socialinių išmokų dydžių sumos. Ši kompensacijos suma paskirstoma ir mokama proporcingai buvusio kūrinio ar kito objekto, kuriuo nebeprekiaujama, teisių turėtojams. Kompensacija mokama iš Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme šiam tikslui numatytų lėšų, kurių poreikis nustatomas atsižvelgus į šioje dalyje nustatyta tvarka priimtus sprendimus [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) mokėjimo ir jų dydžio. ^s-34571a6cbf8953df3206a317
 
 
 Papildyta skyriumi:
@@ -4276,7 +4276,7 @@ Nr. XV-961, 2026-05-14, paskelbta TAR 2026-05-21, i. k. 2026-08553
 2) gavę saugomo turinio subjektų ar kolektyvinio administravimo organizacijos pakankamai pagrįstą pranešimą apie saugomo turinio naudojimą paslaugų teikėjo interneto svetainėje, operatyviai ėmėsi veiksmų panaikinti prieigą prie saugomo turinio, apie kurio naudojimą pranešta, arba pašalinti jį iš savo interneto svetainės ir dėjo geriausias pastangas užkirsti kelią to konkretaus saugomo turinio įkėlimui ateityje pagal [[#^s-21cac91556d1ccc9343f4fe4|šio straipsnio 2 dalies 2 punkto]] reikalavimus. ^s-77c1d7a2f32603b34405da62
 
 
-6. Šio straipsnio 2, 4 ir [[#^s-8b785c48287d007d27b6ba01|5 dalys]] netaikomos paslaugų teikėjams, kurių pagrindinis tikslas – dalyvauti vykdant autorių teisių ar gretutinių teisių objektų neteisėto naudojimo veiklą arba ją palengvinti, tai nustatoma taikant šio Įstatymo [[#^s-764a951e4a5b5b3fb5863082|78 straipsnio 6 dalį]]. ^s-908623afc7fdc690a164e1e4
+6. Šio straipsnio [[#^s-87a02021669383e41b626e22|2]], [[#^s-71c9424dc6a7ebd7da5a9241|4]] ir [[#^s-8b785c48287d007d27b6ba01|5]] dalys netaikomos paslaugų teikėjams, kurių pagrindinis tikslas – dalyvauti vykdant autorių teisių ar gretutinių teisių objektų neteisėto naudojimo veiklą arba ją palengvinti, tai nustatoma taikant šio Įstatymo [[#^s-764a951e4a5b5b3fb5863082|78 straipsnio 6 dalį]]. ^s-908623afc7fdc690a164e1e4
 
 
 
@@ -4554,7 +4554,7 @@ autorių teisių ir gretutinių teisių įstatymo
 7. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/116/EB dėl autorių ir tam tikrų gretutinių teisių apsaugos terminų (kodifikuota redakcija). ^s-90ecfe299357b8776695fca1
 
 
-8. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/24/EB dėl kompiuterių programų teisinės apsaugos (kodifikuota redakcija). ^s-fe50d3cf96f1ed7ef0da924c
+8. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/24/EB [dėl kompiuterių programų](https://e-tar.lt/portal/lt/legalAct/TAR.39984DFA23C5) teisinės apsaugos (kodifikuota redakcija). ^s-fe50d3cf96f1ed7ef0da924c
 
 
 9. 2011 m. rugsėjo 27 d. Europos Parlamento ir Tarybos direktyva 2011/77/ES, kuria iš dalies keičiama Direktyva 2006/116/EB dėl autorių ir tam tikrų gretutinių teisių apsaugos terminų. ^s-1e759fac3c28803a6cd7f774
@@ -4566,16 +4566,16 @@ autorių teisių ir gretutinių teisių įstatymo
 11. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/26/ES dėl kolektyvinio autorių teisių ir gretutinių teisių administravimo ir daugiateritorių licencijų naudoti muzikos kūrinius internete teikimo vidaus rinkoje. ^s-50fd98e568fdfb7a07611f75
 
 
-12. 2017 m. rugsėjo 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1564 dėl aklų, regos sutrikimų ar kitų spausdinto teksto skaitymo negalią turinčių asmenų labui leidžiamų tam tikrų būdų naudoti tam tikrus autorių teisių ir gretutinių teisių saugomus kūrinius ir kitus objektus, kuria iš dalies keičiama Direktyva 2001/29/EB dėl autorių teisių ir gretutinių teisių informacinėje visuomenėje tam tikrų aspektų suderinimo. ^s-d6257c79995c1106ee13f887
+12. 2017 m. rugsėjo 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2017/1564](https://eur-lex.europa.eu/eli/dir/2017/1564/oj) dėl aklų, regos sutrikimų ar kitų spausdinto teksto skaitymo negalią turinčių asmenų labui leidžiamų tam tikrų būdų naudoti tam tikrus autorių teisių ir gretutinių teisių saugomus kūrinius ir kitus objektus, kuria iš dalies keičiama Direktyva 2001/29/EB dėl autorių teisių ir gretutinių teisių informacinėje visuomenėje tam tikrų aspektų suderinimo. ^s-d6257c79995c1106ee13f887
 
 
-13. 2017 m. rugsėjo 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1563 dėl Sąjungos ir trečiųjų šalių tarpvalstybinio keitimosi autorių ir gretutinių teisių saugomų tam tikrų kūrinių ir kitų objektų prieinamos formos kopijomis aklų, regos sutrikimų ar kitą spausdinto teksto skaitymo negalią turinčių asmenų labui. ^s-127deb0459df616a72160905
+13. 2017 m. rugsėjo 13 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/1563](https://eur-lex.europa.eu/eli/reg/2017/1563/oj) dėl Sąjungos ir trečiųjų šalių tarpvalstybinio keitimosi autorių ir gretutinių teisių saugomų tam tikrų kūrinių ir kitų objektų prieinamos formos kopijomis aklų, regos sutrikimų ar kitą spausdinto teksto skaitymo negalią turinčių asmenų labui. ^s-127deb0459df616a72160905
 
 
-14. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/789, kuria nustatomos naudojimosi autorių teisėmis ir gretutinėmis teisėmis, taikytinomis tam tikroms transliuojančiųjų organizacijų internetu transliuojamoms programoms bei retransliuojamoms televizijos ir radijo programoms, taisyklės ir kuria iš dalies keičiama Tarybos direktyva 93/83/EEB. ^s-c9cd9ab0bed22b5010e213cd
+14. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/789](https://eur-lex.europa.eu/eli/dir/2019/789/oj), kuria nustatomos naudojimosi autorių teisėmis ir gretutinėmis teisėmis, taikytinomis tam tikroms transliuojančiųjų organizacijų internetu transliuojamoms programoms bei retransliuojamoms televizijos ir radijo programoms, taisyklės ir kuria iš dalies keičiama Tarybos direktyva 93/83/EEB. ^s-c9cd9ab0bed22b5010e213cd
 
 
-15. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/790 dėl autorių teisių ir gretutinių teisių bendrojoje skaitmeninėje rinkoje, kuria iš dalies keičiamos direktyvos 96/9/EB ir 2001/29/EB. ^s-8411fa0f5060133559364858
+15. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/790](https://eur-lex.europa.eu/eli/dir/2019/790/oj) dėl autorių teisių ir gretutinių teisių bendrojoje skaitmeninėje rinkoje, kuria iš dalies keičiamos direktyvos 96/9/EB ir 2001/29/EB. ^s-8411fa0f5060133559364858
 
 
 Priedo pakeitimai:
@@ -4602,7 +4602,7 @@ Nr. IX-1355, 2003-03-05, Žin., 2003, Nr. 28-1125 (2003-03-21)
 Kai fonogramų gamintojų teisių apsaugos, suteiktos pagal Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo (Žin., 1999, Nr. 50-1598; 2000, Nr. 60-1985) [[#^s-5cbc458414bfb8d9d1fbc4d2|50 straipsnio 2 dalį]], terminas pasibaigia 2002 m. gruodžio 22 d., fonogramų gamintojų teisių apsauga pagal šį Įstatymą iš naujo nesuteikiama.
 Bet kokie veiksmai, padaryti iki šio Įstatymo įsigaliojimo ir nepažeidę tuo metu galiojusių įstatymų nuostatų, nelaikomi teisės pažeidimu ir nėra pagrindas atsirasti pagal šį Įstatymą suteikiamai teisei į autorinį ar kitą atlyginimą.
 Iki šio Įstatymo įsigaliojimo sudarytos sutartys taikomos tiek, kiek jos neprieštarauja šio Įstatymo nuostatoms.
-Šio Įstatymo [[#^s-2b1ccae63777484c003f0533|1 straipsnyje]] išdėstyto [[#^s-0a2fc298bfb2e4e458e7af64|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 20 straipsnio]] 3, 4, 5, 6 dalys įsigalioja nuo 2004 m. sausio 1 d.
+Šio Įstatymo [[#^s-2b1ccae63777484c003f0533|1 straipsnyje]] išdėstyto [[#^s-0a2fc298bfb2e4e458e7af64|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 20 straipsnio]] [[#^s-ade2917f617c01c380acfedb|3]], [[#^s-e36eacb427ffe627f9208b79|4]], [[#^s-78a49f2477b41ecd384ae34f|5]], [[#^s-2960bc2abfe613791de7d9d7|6]] dalys įsigalioja nuo 2004 m. sausio 1 d.
 Nauja įstatymo redakcija
 
 3.
@@ -4618,22 +4618,22 @@ Nr. X-1454, 2008-03-13, Žin., 2008, Nr. 35-1243 (2008-03-27)
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-656, 2010-01-19, Žin., 2010, Nr. 13-621 (2010-02-02)
-[[#^s-f0eec1fe382f8309ed6d5a21|AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 17, 71 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 71(1) STRAIPSNIU ĮSTATYMAS
+AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO [[#^s-c882a0bd63973d1a8b200314|17]], [[#^s-f0eec1fe382f8309ed6d5a21|71]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 71(1) STRAIPSNIU ĮSTATYMAS
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1833, 2011-12-21, Žin., 2012, Nr. 6-177 (2012-01-10)
-[[#^s-ebf10512cb958b27e24eebdd|AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 2, 16, 19, 20, 21, 22, 23, 24, 25, 26, 28, 33, 39, 58, 75 STRAIPSNIŲ]] IR ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 20(1) STRAIPSNIU IR 1, 2 PRIEDAIS ĮSTATYMAS
-Šio įstatymo 4, 5, 10, 15, 17, [[#^s-0a40a31e8045d519f9ea3f73|18 straipsniai]] įsigalioja 2012 m. kovo 1 d.
+AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO [[#^s-9076d388fc5cf747e8ce109c|2]], [[#^s-62d7fd699836c27109a5e61b|16]], [[#^s-27ae07c8b474169ceacc05f2|19]], [[#^s-0a2fc298bfb2e4e458e7af64|20]], [[#^s-490ad1c7c29b20c30e2f52ef|21]], [[#^s-bc9bada0bf9cdd526cf8a638|22]], [[#^s-8df90554bccd6c13dda80362|23]], [[#^s-202625f922858d6cf797c32b|24]], [[#^s-ec2a8f24fde853625186486d|25]], [[#^s-a4741be2f1dabb65c90e4538|26]], [[#^s-d305de0105650bfffdaa8898|28]], [[#^s-3d70c9e794764771b4d77eec|33]], [[#^s-7d1263ab2b93695cf19bc69f|39]], [[#^s-f1c3170a841e640304cca710|58]], [[#^s-ebf10512cb958b27e24eebdd|75]] STRAIPSNIŲ IR ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 20(1) STRAIPSNIU IR 1, 2 PRIEDAIS ĮSTATYMAS
+Šio įstatymo [[#^s-961b0c4dd29d898b6cf13791|4]], [[#^s-1ba6cc026d72e69294450cea|5]], [[#^s-745e993cbe971babab989955|10]], [[#^s-0b5be27d52fc0a2caa5786ff|15]], [[#^s-c882a0bd63973d1a8b200314|17]], [[#^s-0a40a31e8045d519f9ea3f73|18]] straipsniai įsigalioja 2012 m. kovo 1 d.
 Šio įstatymo [[#^s-c57557a50c2a9b426b504c16|7 straipsnyje]] išdėstyto [[#^s-af2b8a5de75a48b245f9fe38|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 22 straipsnio 3 punktas]], taip pat šio įstatymo [[#^s-0b5be27d52fc0a2caa5786ff|15 straipsnyje]] išdėstyto [[#^s-9c6d6ef068c965858a08ca2e|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 58 straipsnio 1 dalies 3 punktas]] taikomi tik tų kūrinių ir gretutinių teisių objektų atžvilgiu, kurie išleisti ar kitaip viešai paskelbti po šio įstatymo įsigaliojimo.
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-888, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05732
-LIETUVOS RESPUBLIKOS AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO NR. VIII-1185 35, [[#^s-7c37ea0071888c522d0f3b94|59 STRAIPSNIŲ]] IR 3 PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO 59-1, 59-2 STRAIPSNIAIS ĮSTATYMAS
+LIETUVOS RESPUBLIKOS AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO NR. VIII-1185 [[#^s-a0540b170f6c934e9f751bf2|35]], [[#^s-7c37ea0071888c522d0f3b94|59]] STRAIPSNIŲ IR 3 PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO 59-1, 59-2 STRAIPSNIAIS ĮSTATYMAS
 Šio įstatymo [[#^s-961b0c4dd29d898b6cf13791|4 straipsnis]] įsigalioja 2014 m. birželio 1 d.
 Šio įstatymo [[#^s-2b1ccae63777484c003f0533|1 straipsnis]] taikomas muzikos kūrinių su žodžiais autoriams (kompozitoriams ir žodžių autoriams), jeigu iki 2013 m. lapkričio 1 d. nėra pasibaigę kompozitoriaus ar žodžių autoriaus teisių galiojimo terminai, taip pat autoriams (kompozitoriams ir žodžių autoriams), kurių muzikos kūriniai su žodžiais sukurti po 2013 m. lapkričio 1 d.
-Šio įstatymo 2, 3 ir [[#^s-961b0c4dd29d898b6cf13791|4 straipsniai]] taikomi atlikėjams ir fonogramų gamintojams, kurių teisių galiojimo terminai – 50 metų po atlikimo įrašo ir fonogramos pirmojo teisėto išleidimo arba pirmojo teisėto viešo paskelbimo – nepasibaigė iki 2013 m. lapkričio 1 d., taip pat atlikėjams ir fonogramų gamintojams, kurių atlikimo įrašai ir fonogramos sukurti po 2013 m. lapkričio 1 d.
+Šio įstatymo [[#^s-9076d388fc5cf747e8ce109c|2]], [[#^s-501bfffc584413456f7d3a37|3]] ir [[#^s-961b0c4dd29d898b6cf13791|4]] straipsniai taikomi atlikėjams ir fonogramų gamintojams, kurių teisių galiojimo terminai – 50 metų po atlikimo įrašo ir fonogramos pirmojo teisėto išleidimo arba pirmojo teisėto viešo paskelbimo – nepasibaigė iki 2013 m. lapkričio 1 d., taip pat atlikėjams ir fonogramų gamintojams, kurių atlikimo įrašai ir fonogramos sukurti po 2013 m. lapkričio 1 d.
 
 
 
@@ -4647,7 +4647,7 @@ Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1460, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21223
-Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 2, [[#^s-c882a0bd63973d1a8b200314|17 straipsnių]] ir 3 priedo pakeitimo ir Įstatymo papildymo VII skyriumi įstatymas
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 [[#^s-9076d388fc5cf747e8ce109c|2]], [[#^s-c882a0bd63973d1a8b200314|17]] straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo VII skyriumi įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4667,27 +4667,27 @@ Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2708, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26894
-Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 2, 11, 15, 16, 17, 20, 20-1, 40, 53, 55, 58, 59-2, 75, 77, 86, 95, [[#^s-8e0352bfbe444ccc4e0e791b|96 straipsnių]], V skyriaus ir 3 priedo pakeitimo įstatymas
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 [[#^s-9076d388fc5cf747e8ce109c|2]], [[#^s-d886d30a3a1a18e088bd8f80|11]], [[#^s-0b5be27d52fc0a2caa5786ff|15]], [[#^s-62d7fd699836c27109a5e61b|16]], [[#^s-c882a0bd63973d1a8b200314|17]], [[#^s-0a2fc298bfb2e4e458e7af64|20]], 20-1, [[#^s-5f35d366240f31f831e8f544|40]], [[#^s-ca67a8f04dd4a6226690cb66|53]], [[#^s-34f2258a65fd4732098a798a|55]], [[#^s-f1c3170a841e640304cca710|58]], 59-2, [[#^s-ebf10512cb958b27e24eebdd|75]], [[#^s-47d1718c4683ea20ff5ae0c3|77]], [[#^s-872343f8e432e11d61860d90|86]], [[#^s-7c6d3616b6a2889ef125ef6c|95]], [[#^s-8e0352bfbe444ccc4e0e791b|96]] straipsnių, V skyriaus ir 3 priedo pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-552, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11949
-Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 15, 53, 54, 56, 57 ir [[#^s-d7db6e13ddd773906c171b2b|61 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 [[#^s-0b5be27d52fc0a2caa5786ff|15]], [[#^s-ca67a8f04dd4a6226690cb66|53]], [[#^s-b857f4753645a7a95af74e13|54]], [[#^s-b2936c0d5e0ad4b29eb45ea2|56]], [[#^s-0a1d1f4bf975627fabc150f3|57]] ir [[#^s-d7db6e13ddd773906c171b2b|61]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1612, 2018-11-08, paskelbta TAR 2018-11-19, i. k. 2018-18615
-Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 20, 20-1, 65, [[#^s-e7c0826803fb277449b2d8c2|78 straipsnių]] ir 1, 2 priedų pakeitimo įstatymas
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 [[#^s-0a2fc298bfb2e4e458e7af64|20]], 20-1, [[#^s-8ca0db4e9f9419673c450853|65]], [[#^s-e7c0826803fb277449b2d8c2|78]] straipsnių ir 1, 2 priedų pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1840, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21868
-Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 2, 20, 20-1, 25, 31, 32, 63, [[#^s-ebf10512cb958b27e24eebdd|75 straipsnių]] ir 3 priedo pakeitimo įstatymas
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 [[#^s-9076d388fc5cf747e8ce109c|2]], [[#^s-0a2fc298bfb2e4e458e7af64|20]], 20-1, [[#^s-ec2a8f24fde853625186486d|25]], [[#^s-3b9515853479688a2e84b5f0|31]], [[#^s-93e0e014505e9c30c0b7a694|32]], [[#^s-5a55e9e7c3634805e5c17570|63]], [[#^s-ebf10512cb958b27e24eebdd|75]] straipsnių ir 3 priedo pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1758, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20739
-Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 72-30 ir [[#^s-8e0352bfbe444ccc4e0e791b|96 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 72-30 ir [[#^s-8e0352bfbe444ccc4e0e791b|96]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4697,7 +4697,7 @@ Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-970, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06306
-Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 1, 2, 3, 5, 11, 15, 21, 22, 23, 25, 32, 40, 42, 46, 48, 51, 53, 55, 56, 58, 59, 63, 65, 68, 70, 72-9, 72-10, 72-12, 72-13, 72-30, 72-31, 75, 78, 80, 87, 89, 91, 92, 93, 95, [[#^s-8e0352bfbe444ccc4e0e791b|96 straipsnių]], 3 priedo pakeitimo ir Įstatymo papildymo 15-1, 15-2, 21-1, 22-1, 22-2, 40-1, 40-2, 40-3, 57-1, 65-1 straipsniais, VIII ir IX skyriais įstatymas
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 [[#^s-2b1ccae63777484c003f0533|1]], [[#^s-9076d388fc5cf747e8ce109c|2]], [[#^s-501bfffc584413456f7d3a37|3]], [[#^s-1ba6cc026d72e69294450cea|5]], [[#^s-d886d30a3a1a18e088bd8f80|11]], [[#^s-0b5be27d52fc0a2caa5786ff|15]], [[#^s-490ad1c7c29b20c30e2f52ef|21]], [[#^s-bc9bada0bf9cdd526cf8a638|22]], [[#^s-8df90554bccd6c13dda80362|23]], [[#^s-ec2a8f24fde853625186486d|25]], [[#^s-93e0e014505e9c30c0b7a694|32]], [[#^s-5f35d366240f31f831e8f544|40]], [[#^s-a36b4cd8d4cadd82968139a5|42]], [[#^s-511fe0216cb1a59fd9ed1ee6|46]], [[#^s-b4a94029e6859df75e57c00e|48]], [[#^s-953a5017cadeb523034e56c3|51]], [[#^s-ca67a8f04dd4a6226690cb66|53]], [[#^s-34f2258a65fd4732098a798a|55]], [[#^s-b2936c0d5e0ad4b29eb45ea2|56]], [[#^s-f1c3170a841e640304cca710|58]], [[#^s-7c37ea0071888c522d0f3b94|59]], [[#^s-5a55e9e7c3634805e5c17570|63]], [[#^s-8ca0db4e9f9419673c450853|65]], [[#^s-ce6367c30adbd192e40824e2|68]], [[#^s-4f7a998ab723cd5864354c8c|70]], 72-9, 72-10, 72-12, 72-13, 72-30, 72-31, [[#^s-ebf10512cb958b27e24eebdd|75]], [[#^s-e7c0826803fb277449b2d8c2|78]], [[#^s-e2095c451913ef8ddee1b315|80]], [[#^s-3da667a75c1e18a4ed3e53b1|87]], [[#^s-878282693f8e2f202c06394d|89]], [[#^s-6ab56c437290bfdcd98d1bdd|91]], [[#^s-351242dece803c67ad094d31|92]], [[#^s-08fd33957f57815f04c432ad|93]], [[#^s-7c6d3616b6a2889ef125ef6c|95]], [[#^s-8e0352bfbe444ccc4e0e791b|96]] straipsnių, 3 priedo pakeitimo ir Įstatymo papildymo 15-1, 15-2, 21-1, 22-1, 22-2, 40-1, 40-2, 40-3, 57-1, 65-1 straipsniais, VIII ir IX skyriais įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4712,4 +4712,4 @@ Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-961, 2026-05-14, paskelbta TAR 2026-05-21, i. k. 2026-08553
-Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 2, 17, 20, 20-1, 25, 72-30, 96 ir [[#^s-5d8364d1d441297939cb5d31|106 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo Nr. VIII-1185 [[#^s-9076d388fc5cf747e8ce109c|2]], [[#^s-c882a0bd63973d1a8b200314|17]], [[#^s-0a2fc298bfb2e4e458e7af64|20]], 20-1, [[#^s-ec2a8f24fde853625186486d|25]], 72-30, [[#^s-8e0352bfbe444ccc4e0e791b|96]] ir [[#^s-5d8364d1d441297939cb5d31|106]] straipsnių pakeitimo įstatymas

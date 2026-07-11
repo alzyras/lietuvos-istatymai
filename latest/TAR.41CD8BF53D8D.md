@@ -351,7 +351,7 @@ Nr. XII-608, 2013-11-21, Žin., 2013, Nr. 124-6284 (2013-12-05)
 ### 61 straipsnis. Atleidimas nuo valstybės rinkliavos, kai yra sumokėtas konsulinis mokestis ^s-a49c8c8cd8ce6501e9c59f2a
 
 
-1. Nuo valstybės rinkliavos už paso ar asmens tapatybės kortelės išdavimą ar keitimą ir lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančių dokumentų išdavimą ar keitimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų [[latest/TAR.B2F1F575D794#^s-189d776edecdacea990c8bf3|Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio]] 1 ar 15 punkte, atlikimą. ^s-06dddcf36293637217514180
+1. Nuo valstybės rinkliavos už paso ar asmens tapatybės kortelės išdavimą ar keitimą ir lietuvių kilmę ar teisę atkurti Lietuvos Respublikos pilietybę patvirtinančių dokumentų išdavimą ar keitimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų [[latest/TAR.B2F1F575D794#^s-189d776edecdacea990c8bf3|Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio]] [[latest/TAR.B2F1F575D794#^s-59a071019615d3916200026f|1]] ar [[latest/TAR.B2F1F575D794#^s-b1d6d72cc9336a5ed546e09b|15]] punkte, atlikimą. ^s-06dddcf36293637217514180
 
 
 2. Neteko galios nuo 2023-01-01 ^s-859487bc33468381354c31ae
@@ -360,7 +360,7 @@ Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
 
 
 
-3. Nuo valstybės rinkliavos už civilinės būklės aktų įregistravimą, civilinės būklės aktų įrašus liudijančių išrašų išdavimą ir daugiakalbės standartinės formos pagal 2016 m. liepos 6 d. Europos Parlamento ir Tarybos reglamentą (ES) 2016/1191, kuriuo skatinamas laisvas piliečių judėjimas supaprastinant tam tikrų viešųjų dokumentų pateikimo Europos Sąjungoje reikalavimus ir iš dalies keičiamas Reglamentas (ES) Nr. 1024/2012, išdavimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų [[latest/TAR.B2F1F575D794#^s-cc969d6915ea9696beaa5514|Konsulinio mokesčio įstatymo 3 straipsnio 5 punkte]], atlikimą. ^s-58b2d013002a5467bb981641
+3. Nuo valstybės rinkliavos už civilinės būklės aktų įregistravimą, civilinės būklės aktų įrašus liudijančių išrašų išdavimą ir daugiakalbės standartinės formos pagal 2016 m. liepos 6 d. Europos Parlamento ir Tarybos [reglamentą (ES) 2016/1191](https://eur-lex.europa.eu/eli/reg/2016/1191/oj), kuriuo skatinamas laisvas piliečių judėjimas supaprastinant tam tikrų viešųjų dokumentų pateikimo Europos Sąjungoje reikalavimus ir iš dalies keičiamas [Reglamentas (ES) Nr. 1024/2012](https://eur-lex.europa.eu/eli/reg/1024/2012/oj), išdavimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų [[latest/TAR.B2F1F575D794#^s-cc969d6915ea9696beaa5514|Konsulinio mokesčio įstatymo 3 straipsnio 5 punkte]], atlikimą. ^s-58b2d013002a5467bb981641
 
 
 Įstatymas papildytas straipsniu:
@@ -414,7 +414,7 @@ Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
 ### 9 straipsnis. Valstybės rinkliavos mokėjimo tvarka ^s-71bc71b264c67d56ff68d111
 
 
-1. Valstybės rinkliava yra mokėjimo dieną galiojančio dydžio ir mokama iki institucijų teikiamų paslaugų suteikimo momento, išskyrus šio straipsnio 2 ir [[#^s-944ece21912cfe279f1117d3|3 dalyse]] nurodytus atvejus. ^s-f3f295d164bfae270a72246d
+1. Valstybės rinkliava yra mokėjimo dieną galiojančio dydžio ir mokama iki institucijų teikiamų paslaugų suteikimo momento, išskyrus šio straipsnio [[#^s-1e243c014ad15a83cc4d6ddf|2]] ir [[#^s-944ece21912cfe279f1117d3|3]] dalyse nurodytus atvejus. ^s-f3f295d164bfae270a72246d
 
 
 2. Kai įstatymuose, Europos Sąjungos reglamentuose ar sprendimuose, reglamentuojančiuose dokumento (leidimo, licencijos, liudijimo, teikimo, atestato, sprendimo, sertifikato, pažymėjimo ar panašiai), reikalingo tam tikrai ūkinei veiklai pradėti ar vykdyti, išdavimą, įrašymą ar įsirašymą į sąrašą ar informacines sistemas, kuriuo įgyjama teisė pradėti ar vykdyti tam tikrą ūkinę veiklą, privalomą informacijos pateikimą prieš pradedant teisėtai vykdyti ūkinę veiklą, taip pat kitokį leidimo vykdyti ūkinę veiklą suteikimą (toliau – leidimas vykdyti ūkinę veiklą), nustatyta, kad leidimas vykdyti ūkinę veiklą laikomas išduotu asmeniui kitą dieną nuo pranešimo ar kito dokumento apie ketinimą vykdyti veiklą (toliau – pranešimas) pateikimo institucijai dienos arba nuo pranešime nurodytos dienos, jeigu ji yra vėlesnė negu pranešimo pateikimo institucijai diena, valstybės rinkliava turi būti sumokama iki pranešimo pateikimo momento. ^s-1e243c014ad15a83cc4d6ddf
@@ -689,7 +689,7 @@ Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
 3. Jeigu asmuo nesumoka valstybės rinkliavos šio įstatymo [[#^s-944ece21912cfe279f1117d3|9 straipsnio 3 dalyje]] nurodytu terminu, jam [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka skaičiuojami delspinigiai, kurie administruojami pagal Mokesčių administravimo įstatymą tokia pačia tvarka, kokia taikoma skaičiuojant nedeklaruojamo mokesčio delspinigius. Nesumokėta valstybės rinkliava ir delspinigiai išieškomi [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka. ^s-4b9a5e839dcd0eead9f1368b
 
 
-4. Už nesumokėtą arba pavėluotai sumokėtą vietinę rinkliavą, išskyrus atvejus, kai už vietinės rinkliavos mokėjimo tvarkos pažeidimus taikomos šios straipsnio 1 ir [[#^s-9f5a69d81d2951b2cd1a0811|2 dalyse]] nurodytos teisinės pasekmės, savivaldybės taryba turi teisę nustatyti delspinigius. Delspinigių dydis neturi viršyti Lietuvos Respublikos finansų ministro pagal Mokesčių administravimo įstatymą nustatyto delspinigių dydžio. ^s-0170a36cdb5e9cb428982a06
+4. Už nesumokėtą arba pavėluotai sumokėtą vietinę rinkliavą, išskyrus atvejus, kai už vietinės rinkliavos mokėjimo tvarkos pažeidimus taikomos šios straipsnio [[#^s-3ca2a9c29a0eb31252bece85|1]] ir [[#^s-9f5a69d81d2951b2cd1a0811|2]] dalyse nurodytos teisinės pasekmės, savivaldybės taryba turi teisę nustatyti delspinigius. Delspinigių dydis neturi viršyti Lietuvos Respublikos finansų ministro pagal Mokesčių administravimo įstatymą nustatyto delspinigių dydžio. ^s-0170a36cdb5e9cb428982a06
 
 
 Straipsnio pakeitimai:
@@ -729,7 +729,7 @@ BAIGIAMOSIOS NUOSTATOS
 2) iki šio įstatymo įsigaliojimo panaikina šiam įstatymui prieštaraujančias rinkliavas; ^s-e5ca39bdd302c11363589081
 
 
-3) pateikia Seimui svarstyti [[latest/TAR.3EB34933E485#^s-82bc868e93982f2bd195baa9|Mokesčių administravimo įstatymo 5 straipsnio]] pakeitimo įstatymo projektą, kuriuo būtų patikslintas Valstybinės mokesčių inspekcijos administruojamų mokesčių sąrašas. ^s-d5e7dbccde9b932a44648889
+3) pateikia Seimui svarstyti Mokesčių administravimo įstatymo 5 straipsnio pakeitimo įstatymo projektą, kuriuo būtų patikslintas Valstybinės mokesčių inspekcijos administruojamų mokesčių sąrašas. ^s-d5e7dbccde9b932a44648889
 
 
 2. Savivaldybių tarybos apsvarsto iki šio įstatymo įsigaliojimo priimtus sprendimus dėl vietinių rinkliavų nustatymo ir prieštaraujančius šiam įstatymui sprendimus panaikina. ^s-11cbaa5612f56b8ff6ff4e22
@@ -745,10 +745,10 @@ BAIGIAMOSIOS NUOSTATOS
 2. Įsigaliojus šiam įstatymui, netenka galios: ^s-46e933e204eaa82a111a0ce2
 
 
-1) Lietuvos Respublikos žyminio mokesčio įstatymas (Žin., 1994, Nr.51-950, Nr.89-1712; 1995, Nr.47-1135; 1996, Nr.18-462, Nr.46-1112, Nr.116-2691; 1997, Nr.33-810, Nr.97-2443; 1998, Nr.98-2714); ^s-ac953886a63fae09713124f7
+1) Lietuvos Respublikos [žyminio mokesčio įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.6DF39F2BB769) (Žin., 1994, Nr.51-950, Nr.89-1712; 1995, Nr.47-1135; 1996, Nr.18-462, Nr.46-1112, Nr.116-2691; 1997, Nr.33-810, Nr.97-2443; 1998, Nr.98-2714); ^s-ac953886a63fae09713124f7
 
 
-2) Lietuvos Respublikos vietinių rinkliavų įstatymas (Žin., 1996, Nr.57-1339; 1997, Nr.58-1329; 1998, Nr.38-998). ^s-d2b1689f77669c281b22a0d8
+2) [Lietuvos Respublikos vietinių rinkliavų įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.8A9D7D4A1BC8) (Žin., 1996, Nr.57-1339; 1997, Nr.58-1329; 1998, Nr.38-998). ^s-d2b1689f77669c281b22a0d8
 
 
 
@@ -782,7 +782,7 @@ priedas
 
 
 
-2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas), su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2667.
+2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas), su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2023/2667](https://eur-lex.europa.eu/eli/reg/2023/2667/oj).
 
 
 _____________________
@@ -850,7 +850,7 @@ RINKLIAVŲ ĮSTATYMO 4 IR 6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1277, 2007-09-18, Žin., 2007, Nr. 101-4107 (2007-09-27)
 [[latest/TAR.D85A75CD037B|RINKLIAVŲ ĮSTATYMO 4, 5, 6, 7, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus 5 ir [[#^s-14cfdb1e63033f79e74a4758|6 straipsnius]], įsigalioja nuo 2008 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-bb13e645af787d61e4797d26|5]] ir [[#^s-14cfdb1e63033f79e74a4758|6]] straipsnius, įsigalioja nuo 2008 m. sausio 1 d.
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -895,17 +895,17 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1128, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13616
-Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 5 ir [[#^s-d298db575c8ab5210f086661|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-bb13e645af787d61e4797d26|5]] ir [[#^s-d298db575c8ab5210f086661|13]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1397, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19924
-Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6, 6-1 straipsnių ir priedo pakeitimo įstatymas
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-14cfdb1e63033f79e74a4758|6]], 6-1 straipsnių ir priedo pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1520, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21282
-Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6, 6-1 straipsnių ir priedo pakeitimo [[latest/48c582f0868a11e481c9c95e73113964|įstatymo Nr. XII-1397]] 2 ir [[#^s-5b0a3170af68ca51f0179b94|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-14cfdb1e63033f79e74a4758|6]], 6-1 straipsnių ir priedo pakeitimo [[latest/48c582f0868a11e481c9c95e73113964|įstatymo Nr. XII-1397]] [[#^s-9ad864f50014d0c861a67232|2]] ir [[#^s-5b0a3170af68ca51f0179b94|4]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -940,7 +940,7 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-9ad864f50014d0c861
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-377, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09157
-Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 5, 6, 9, 10, 11, 12, 13, 14, [[#^s-4f0b0b5593e42163c7aea39a|15 straipsnių]] ir IV skyriaus pavadinimo pakeitimo įstatymas
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-bb13e645af787d61e4797d26|5]], [[#^s-14cfdb1e63033f79e74a4758|6]], [[#^s-71bc71b264c67d56ff68d111|9]], [[#^s-ebada821a6e0bf5b68978158|10]], [[#^s-f5b660774c1ee6d8cdc4ee20|11]], [[#^s-5bddfda05dc713e69df8c240|12]], [[#^s-d298db575c8ab5210f086661|13]], [[#^s-d9f5714ed4642378ceb12ced|14]], [[#^s-4f0b0b5593e42163c7aea39a|15]] straipsnių ir IV skyriaus pavadinimo pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -960,7 +960,7 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-14cfdb1e63033f79e7
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2477, 2019-10-10, paskelbta TAR 2019-10-29, i. k. 2019-17214
-Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 7 ir [[#^s-f5b660774c1ee6d8cdc4ee20|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-9cefbc813510a1454c7807b5|7]] ir [[#^s-f5b660774c1ee6d8cdc4ee20|11]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -975,7 +975,7 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-f5b660774c1ee6d8cd
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2973, 2020-05-21, paskelbta TAR 2020-06-04, i. k. 2020-12204
-Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 1, 6, 6-1, [[#^s-3e82e37f86fa16a1ef62e036|8 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-78fa027b884df91fdd09ec17|1]], [[#^s-14cfdb1e63033f79e74a4758|6]], 6-1, [[#^s-3e82e37f86fa16a1ef62e036|8]] straipsnių ir priedo pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -985,17 +985,17 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-14cfdb1e63033f79e7
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-702, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25130
-Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 2 ir [[#^s-5bddfda05dc713e69df8c240|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-9ad864f50014d0c861a67232|2]] ir [[#^s-5bddfda05dc713e69df8c240|12]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1284, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15433
-Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6, 6-1, 7 ir [[#^s-3e82e37f86fa16a1ef62e036|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-14cfdb1e63033f79e74a4758|6]], 6-1, [[#^s-9cefbc813510a1454c7807b5|7]] ir [[#^s-3e82e37f86fa16a1ef62e036|8]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2552, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07451
-Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 6 ir [[#^s-f5b660774c1ee6d8cdc4ee20|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-14cfdb1e63033f79e74a4758|6]] ir [[#^s-f5b660774c1ee6d8cdc4ee20|11]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1005,7 +1005,7 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-f5b660774c1ee6d8cd
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2962, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13623
-Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 11 ir [[#^s-d298db575c8ab5210f086661|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-f5b660774c1ee6d8cdc4ee20|11]] ir [[#^s-d298db575c8ab5210f086661|13]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1015,7 +1015,7 @@ Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-f5b660774c1ee6d8cd
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-623, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20826
-Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 9, [[#^s-f5b660774c1ee6d8cdc4ee20|11 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos rinkliavų įstatymo Nr. VIII-1725 [[#^s-71bc71b264c67d56ff68d111|9]], [[#^s-f5b660774c1ee6d8cdc4ee20|11]] straipsnių ir priedo pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas

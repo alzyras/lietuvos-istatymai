@@ -78,7 +78,7 @@ Valstybinės nuosavybės žemę sudaro žemė, kuri nėra grąžinta arba parduo
 1) lietuvių kilmės asmenims, kurių šeimos buvo įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių Lenkijos ir Prūsijos (dabartinė Rusijos Federacijos Kaliningrado sritis) teritorijose, tokiomis pat sąlygomis ir tvarka, kaip ir asmenims, kuriems žemė ir miškas sugrąžinami ekvivalentine natūra, bet ne daugiau, kaip šie asmenys turėjo žemės ar miško nuosavybės teise, arba gavo naudotis įkeldinant juos į Lietuvos Respublikos teritoriją;
 
 
-2) asmenims, įstatymo „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ nustatyta tvarka kompensuojant už žemę, turėtą miestuose ir miesto tipo gyvenvietėse, arba valstybės išperkamą žemę;
+2) asmenims, įstatymo [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) nustatyta tvarka kompensuojant už žemę, turėtą miestuose ir miesto tipo gyvenvietėse, arba valstybės išperkamą žemę;
 
 
 3) asmenims, išsikeliantiems iš grąžinamų buvusiems savininkams gyvenamųjų namų, suteikiant žemės sklypus individualiai statybai Lietuvos Respublikos Vyriausybės nustatyta tvarka.“
@@ -305,7 +305,7 @@ Atsižvelgiant į vietos sąlygas ir žemėtvarkos projekte suformuotos žemėna
 1. Žemė gyventojų asmeniniam ūkiui apylinkės tarybos sprendimu suteikiama:
 
 
-1) asmenims, turintiems teisę gauti iki 3 arba iki 2 ha žemės ūkio naudmenų vienai šeimai pagal Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. liepos 26 d. nutarimą Nr. I-411;
+1) asmenims, turintiems teisę gauti iki 3 arba iki 2 ha žemės ūkio naudmenų vienai šeimai pagal Lietuvos Respublikos Aukščiausiosios Tarybos [1990 m. liepos 26 d. nutarimą Nr. I-411](https://e-tar.lt/portal/lt/legalAct/TAR.CB1DCDDB40A8);
 
 
 2) kitiems asmenims, gyvenantiems kaimo vietovėje:
@@ -341,7 +341,7 @@ gyvenantiems rajonų pavaldumo miestuose ir miesto tipo gyvenvietėse ir turinti
 7. Asmeninio ūkio žemės naudotojai gali ją įsigyti privatinėn nuosavybėn, įtraukiant šios žemės sklypus į susigrąžinamą ekvivalentine natūra žemės plotą, arba, jeigu šie asmenys neturėjo susigrąžinamos žemės, parduodant jiems žemės sklypus Lietuvos Respublikos Vyriausybės nustatyta tvarka, išskyrus žemę, kuri buvo suteikta po 1993 m. liepos 1 d. ir skirta plote, anksčiau nenaudotame gyventojų asmeninio ūkio poreikiams.
 
 
-8. Asmeniniam ūkiui skirtą žemę turi teisę nusipirkti lengvatinėmis sąlygomis tik vienas asmuo iš šeimos, kuris Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo dėl kaimo gyventojų sodybinių sklypų išplėtimo (1990 m. liepos 26 d. Nr. I- 411) priėmimo dieną buvo įrašytas į apylinkės ūkinę knygą ir yra buvęs žemės ūkio įmonės darbuotojas arba pensininkas, išdirbęs ūkyje ne mažiau kaip 5 metus ir jeigu šis asmuo:
+8. Asmeniniam ūkiui skirtą žemę turi teisę nusipirkti lengvatinėmis sąlygomis tik vienas asmuo iš šeimos, kuris Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo [dėl kaimo gyventojų sodybinių sklypų išplėtimo](https://e-tar.lt/portal/lt/legalAct/TAR.CB1DCDDB40A8) (1990 m. liepos 26 d. Nr. I- 411) priėmimo dieną buvo įrašytas į apylinkės ūkinę knygą ir yra buvęs žemės ūkio įmonės darbuotojas arba pensininkas, išdirbęs ūkyje ne mažiau kaip 5 metus ir jeigu šis asmuo:
 
 
 1) ir dabar gyvena kaimo vietovėje ar rajono mieste, miesto tipo gyvenvietėje bei turėjo teisę gauti ir naudojosi asmeninio ūkio žeme;

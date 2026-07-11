@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-cf79ec2590600cbc594a853e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. birželio 11 d. dekretą Nr. 1356, ratifikuoja Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos srityje, pasirašytą 2001 m. vasario 5 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. birželio 11 d. dekretą Nr. 1356](https://e-tar.lt/portal/lt/legalAct/TAR.187BA584E1E0), ratifikuoja Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos srityje, pasirašytą 2001 m. vasario 5 d. Vilniuje.
 
 
 

@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos specialios paskirties akcinės bendrovės \"L
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.44235B485568|Lietuvos Respublikos energetikos įstatymas]] - 2 citatos - Energetikos įstatymu
+- [[latest/TAR.44235B485568|Lietuvos Respublikos energetikos įstatymas]] - Energetikos įstatymu
 
 ## Šį įstatymą cituoja
 

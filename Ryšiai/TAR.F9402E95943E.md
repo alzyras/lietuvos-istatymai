@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 2, 4,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymas]] - 2 citatos - Lietuvos Respublikos investicijų įstatyme
-- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Lietuvos Respublikos statybos įstatymo
+- [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymas]] - Lietuvos Respublikos investicijų įstatyme
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - Lietuvos Respublikos statybos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.B4FAA1DD73CF#^s-9cb73c03fa3fa41bb4e5ad7f|Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas]] - 3 citatos - 1111010ISTA0XI-1828
+- [[latest/TAR.B4FAA1DD73CF#^s-9cb73c03fa3fa41bb4e5ad7f|Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas]] - 2 citatos - 1111010ISTA0XI-1828

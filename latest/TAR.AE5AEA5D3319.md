@@ -45,7 +45,7 @@ Vilnius
 „5. Universiteto ligoninė – viešoji asmens sveikatos priežiūros ir mokslo įstaiga, kartu su valstybine aukštąja mokykla vykdanti trijų pakopų medicinos studijas, teikianti visų lygių asmens sveikatos priežiūros paslaugas ir tobulinanti medicinos specialistus. Universiteto ligoninės steigėjai – Sveikatos apsaugos ministerija ir valstybinė aukštoji mokykla.“
 
 
-2. Buvusias [[#^s-ba714c92316b4efc138cb278|2 straipsnio]] 5, 6, 7, 8, 9 ir 10 dalis atitinkamai laikyti 6, 7, 8, 9, 10 ir 11 dalimis. ^s-e23dedae76ea38668398c86b
+2. Buvusias [[#^s-ba714c92316b4efc138cb278|2 straipsnio]] [[#^s-ed82f962bcd5aecb5e3db798|5]], [[#^s-2809d8d960a78b393f1d57a2|6]], [[#^s-aa375a54f367347c3446b001|7]], 8, 9 ir 10 dalis atitinkamai laikyti [[#^s-2809d8d960a78b393f1d57a2|6]], [[#^s-aa375a54f367347c3446b001|7]], 8, 9, 10 ir 11 dalimis. ^s-e23dedae76ea38668398c86b
 
 
 
@@ -76,7 +76,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 6. Universitetų ligoninių sveikatos priežiūros specialistai į darbą priimami viešo konkurso būdu penkeriems metams. Viešą konkursą organizuoja ir jo nuostatus tvirtina atitinkamos įstaigos vadovas. LNSS biudžetinių ir viešųjų įstaigų ar jų filialų ir padalinių vadovai bei šių įstaigų sveikatos priežiūros specialistai į darbą priimami ir iš darbo atleidžiami [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] nustatyta tvarka ir pagrindais. ^s-2809d8d960a78b393f1d57a2
 
 
-7. Šio straipsnio 1–[[#^s-ed82f962bcd5aecb5e3db798|5 dalių]] nuostatos netaikomos tų LNSS biudžetinių ir viešųjų įstaigų, jų padalinių ir filialų vadovams, kurių steigėja yra Krašto apsaugos ministerija ar Vidaus reikalų ministerija.“ ^s-aa375a54f367347c3446b001
+7. Šio straipsnio [[#^s-4aec44744016acca1af0e7a2|1]]–[[#^s-ed82f962bcd5aecb5e3db798|5]] dalių nuostatos netaikomos tų LNSS biudžetinių ir viešųjų įstaigų, jų padalinių ir filialų vadovams, kurių steigėja yra Krašto apsaugos ministerija ar Vidaus reikalų ministerija.“ ^s-aa375a54f367347c3446b001
 
 
 

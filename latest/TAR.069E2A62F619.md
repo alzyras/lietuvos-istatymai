@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-48a455188bbf9db715bdc3f0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. lapkričio 24 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės sutartį dėl bendradarbiavimo kultūros, švietimo ir mokslo srityse“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės sutartį dėl bendradarbiavimo kultūros, švietimo ir mokslo srityse, pasirašytą 1994 m. spalio 2 d. Jeruzalėje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. lapkričio 24 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės sutartį dėl bendradarbiavimo kultūros, švietimo ir mokslo srityse“](https://e-tar.lt/portal/lt/legalAct/TAR.D82B8778D4E4), ratifikuoja Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės sutartį dėl bendradarbiavimo kultūros, švietimo ir mokslo srityse, pasirašytą 1994 m. spalio 2 d. Jeruzalėje.
 
 
 

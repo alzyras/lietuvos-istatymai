@@ -51,7 +51,7 @@ BENDROSIOS NUOSTATOS
 1. Šis įstatymas nustato karo padėties įvedimo ir atšaukimo tvarką, valstybės valdymo ir vietos savivaldos ypatumus, ginkluotųjų pajėgų statusą ir žmogaus teisių ir laisvių laikinus apribojimus karo padėties metu, piliečių pasirengimo valstybės gynybai pagrindus, taip pat karo padėties metu ir atšaukus karo padėtį taikytinas priemones. ^s-d26dbdfcbf4f89423f9c80a3
 
 
-2. Šiame įstatyme nustatytos specialiosios priemonės, išskyrus nustatytąją šio įstatymo [[#^s-a7b77cf6b0c3d86e4e1644e5|16 straipsnio 1 dalyje]], taip pat šio įstatymo [[#^s-48f51f9eab846b9e09eb9efc|27 straipsnio]] 1 ir [[#^s-650ca4f6e198bf86042ae9bb|2 dalyse]], [[#^s-5bf1aad152182dd9a08b9e47|28 straipsnio 2 dalyje]] nustatyti žmogaus teisių ir laisvių laikini apribojimai karo padėties metu taikomi visoje valstybėje, o šio įstatymo [[#^s-a7b77cf6b0c3d86e4e1644e5|16 straipsnio 1 dalyje]] nustatyta specialioji priemonė ir kiti šiame įstatyme nustatyti žmogaus teisių ir laisvių laikini apribojimai – tik toje valstybės dalyje, kurioje įvesta karo padėtis. Specialiosios priemonės ir žmogaus teisių ir laisvių apribojimai gali būti laikinai taikomi tik tiek, kiek tai būtina valstybės gynybos ar kitoms gyvybiškai svarbioms valstybės funkcijoms atlikti, ir jeigu tokie žmogaus teisių ir laisvių apribojimai numatyti Lietuvos Respublikos Prezidento dekrete ar Lietuvos Respublikos Seimo nutarime dėl karo padėties įvedimo. ^s-650ca4f6e198bf86042ae9bb
+2. Šiame įstatyme nustatytos specialiosios priemonės, išskyrus nustatytąją šio įstatymo [[#^s-a7b77cf6b0c3d86e4e1644e5|16 straipsnio 1 dalyje]], taip pat šio įstatymo [[#^s-48f51f9eab846b9e09eb9efc|27 straipsnio]] [[#^s-e466fb44b9dedcf8625feaf4|1]] ir [[#^s-25c97fb93017e01d2d205bc7|2]] dalyse, [[#^s-5bf1aad152182dd9a08b9e47|28 straipsnio 2 dalyje]] nustatyti žmogaus teisių ir laisvių laikini apribojimai karo padėties metu taikomi visoje valstybėje, o šio įstatymo [[#^s-a7b77cf6b0c3d86e4e1644e5|16 straipsnio 1 dalyje]] nustatyta specialioji priemonė ir kiti šiame įstatyme nustatyti žmogaus teisių ir laisvių laikini apribojimai – tik toje valstybės dalyje, kurioje įvesta karo padėtis. Specialiosios priemonės ir žmogaus teisių ir laisvių apribojimai gali būti laikinai taikomi tik tiek, kiek tai būtina valstybės gynybos ar kitoms gyvybiškai svarbioms valstybės funkcijoms atlikti, ir jeigu tokie žmogaus teisių ir laisvių apribojimai numatyti Lietuvos Respublikos Prezidento dekrete ar Lietuvos Respublikos Seimo nutarime dėl karo padėties įvedimo. ^s-650ca4f6e198bf86042ae9bb
 
 
 3. Jeigu yra šio įstatymo ir kitų įstatymų prieštaravimų, taikomos šio įstatymo normos, išskyrus atvejus, kai šis įstatymas pirmenybę suteikia kitų įstatymų normoms. ^s-b5a83f39273d8d3306b0eda3
@@ -142,7 +142,7 @@ KARO PADĖTIES ĮVEDIMAS IR INFORMAVIMAS APIE KARO PADĖTIES ĮVEDIMĄ
 3) skelbiama mobilizacija, jeigu prieš tai ji nebuvo paskelbta; ^s-f0c926e4c4abe8c48e245eb0
 
 
-4) numatoma, kokios Konstitucijos 22, 24, 25, 32, 35, 36 straipsniuose nurodytos teisės ir laisvės gali būti laikinai apribojamos; ^s-fe57527649b96c81c3ac53b1
+4) numatoma, kokios Konstitucijos [[#^s-babf866ceb1d3cef46b5dd64|22]], [[#^s-bfc7825a2d8910d10caeff89|24]], [[#^s-98dc34fcc056d28472e6cd26|25]], [[#^s-cbee84fa4468593f3bf23307|32]], [[#^s-93505aeeb2edeb9e1b24417e|35]], 36 straipsniuose nurodytos teisės ir laisvės gali būti laikinai apribojamos; ^s-fe57527649b96c81c3ac53b1
 
 
 5) nustatoma, ar leidžiama kitų valstybių kariniams vienetams atvykti į Lietuvos Respublikos teritoriją ir juos panaudoti kolektyvinės gynybos ar kitos operacijos tikslais, jeigu sprendimas dėl kitų valstybių karinių vienetų atvykimo į Lietuvos Respublikos teritoriją ir panaudojimo kolektyvinės gynybos ar kitos operacijos tikslais prieš tai nebuvo priimtas; ^s-613ae92f2b253e46ae2d3a84
@@ -235,7 +235,7 @@ VALSTYBĖS VALDYMO IR VIETOS SAVIVALDOS YPATUMAI
 4. Seimas: ^s-3891adea0539c5753ab0d00d
 
 
-1) šio įstatymo [[#^s-74b58d7c422a90efeeccc233|4 straipsnio]] 1 ir [[#^s-2a36929e0a051743c2b3aa35|2 dalyse]] nustatytais atvejais ir tvarka priima sprendimą įvesti karo padėtį; ^s-396a1e3e0a59347e039cb843
+1) šio įstatymo [[#^s-74b58d7c422a90efeeccc233|4 straipsnio]] [[#^s-3e99426a2dbd479dbde64017|1]] ir [[#^s-07ddbc4fc128fef9085a7a6e|2]] dalyse nustatytais atvejais ir tvarka priima sprendimą įvesti karo padėtį; ^s-396a1e3e0a59347e039cb843
 
 
 2) tvirtina sprendimą dėl leidimo atvykti į Lietuvos Respubliką ir joje panaudoti kolektyvinės gynybos ar kitos operacijos tikslais kitų valstybių karinius vienetus; ^s-f9f4eabb4e1acdebde0f63df
@@ -253,7 +253,7 @@ VALSTYBĖS VALDYMO IR VIETOS SAVIVALDOS YPATUMAI
 1) vadovauja ginkluotai valstybės gynybai; ^s-b2a5d0698e1d5fae30f2a0b1
 
 
-2) šio įstatymo [[#^s-7dfd229938f62c3c3f33169d|12 straipsnio]] 6, 7 ir [[#^s-60240fd82a7bacd775fe0038|8 dalyse]] nustatyta tvarka skiria į pareigas, perkelia į kitas pareigas ir atleidžia iš tarnybos ginkluotųjų pajėgų narius; ^s-5501c3d726cc40af7b7b8f7a
+2) šio įstatymo [[#^s-7dfd229938f62c3c3f33169d|12 straipsnio]] [[#^s-b2508f38b4880547d4ccf5c9|6]], [[#^s-a215b6c59e5b7a68e82728bf|7]] ir [[#^s-62d5471b5a473b249bb218e8|8]] dalyse nustatyta tvarka skiria į pareigas, perkelia į kitas pareigas ir atleidžia iš tarnybos ginkluotųjų pajėgų narius; ^s-5501c3d726cc40af7b7b8f7a
 
 
 3) atsižvelgdamas į ginkluotųjų pajėgų poreikius, priima sprendimą leisti atlikti karo tarnybą [[latest/TAR.E9CE9C91C255|Karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatyme]] nurodytiems nuo karo prievolės atleistiems Lietuvos Respublikos piliečiams, raštu pareiškusiems norą atlikti tarnybą paskelbus mobilizaciją; ^s-0bb265c74ae0c492aa381efb
@@ -453,7 +453,7 @@ Nr. XV-942, 2026-05-14, paskelbta TAR 2026-05-21, i. k. 2026-08548
 4. Partizanų vienetai ginkluotųjų pajėgų vado ar jo įgalioto asmens sprendimu tampa ginkluotųjų pajėgų dalimi ir ginkluotųjų pajėgų vado ar jo įgalioto asmens nurodymus ir kitus savarankiškus ginkluoto pasipriešinimo veiksmus okupuotoje Lietuvos valstybės teritorijoje vykdo koordinuodami su ginkluotųjų pajėgų vadu ar jo įgaliotu asmeniu. Kai ginkluotųjų pajėgų vadas negali veikti, partizanų vienetai ginkluotųjų pajėgų dalimi tampa Tautos pasipriešinimo vadovybės sprendimu ir ginkluoto pasipriešinimo veiksmus okupuotoje Lietuvos valstybės teritorijoje vykdo koordinuodami su šia vadovybe. Partizanų vieneto vadas informuoja ginkluotųjų pajėgų vadą ar jo įgaliotą asmenį, o kai jie negali veikti, – Tautos pasipriešinimo vadovybę apie jo vadovaujamo partizanų vieneto sudėtį, veikimo teritoriją ir narių nešiojamus sutartinius skiriamuosius ženklus. ^s-9b2cceec98c68bb226ef263f
 
 
-5. Asmenys, priklausantys šio straipsnio 3 ir [[#^s-9b2cceec98c68bb226ef263f|4 dalyse]] nurodytiems ginkluoto pasipriešinimo ir partizanų vienetams, privalo veikti organizuotai (turėti vadą ir struktūrą, koordinuoti veiksmus tarpusavyje), laikytis visuotinai pripažintų tarptautinės humanitarinės teisės normų ir papročių, taip pat vykdydami karinę operaciją atvirai nešioti ginklą, turėti sutartinį skiriamąjį, gerai iš toli matomą ženklą. ^s-43634bdeb1ea40987d208b9c
+5. Asmenys, priklausantys šio straipsnio [[#^s-aca3bd8fabb46bbe5eef36b8|3]] ir [[#^s-9b2cceec98c68bb226ef263f|4]] dalyse nurodytiems ginkluoto pasipriešinimo ir partizanų vienetams, privalo veikti organizuotai (turėti vadą ir struktūrą, koordinuoti veiksmus tarpusavyje), laikytis visuotinai pripažintų tarptautinės humanitarinės teisės normų ir papročių, taip pat vykdydami karinę operaciją atvirai nešioti ginklą, turėti sutartinį skiriamąjį, gerai iš toli matomą ženklą. ^s-43634bdeb1ea40987d208b9c
 
 
 6. Ginkluotųjų pajėgų vadas ar jo įgaliotas asmuo visuomenės informavimo priemonėse skelbia informaciją apie ginkluotųjų pajėgų narių uniformų ir skiriamųjų ženklų pavyzdžius. ^s-823bd1d8c552d7914e0038d5
@@ -680,7 +680,7 @@ Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
 7. Siekdami užtikrinti [[#^s-2f1cc395b668d28a6e32af90|šio straipsnio 6 dalyje]] nurodytų būtinųjų užduočių vykdymą, šias užduotis nustatę Vyriausybė ar savivaldybės administracijos direktorius į ūkio subjektus gali paskirti savo atstovus. Paskirtų atstovų nurodymai, susiję su būtinųjų užduočių vykdymo užtikrinimu, ūkio subjektų vadovams ir darbuotojams yra privalomi. Kai ūkio subjektų vadovų ir juos pavaduojančių asmenų nėra arba jie negali eiti savo pareigų, jų funkcijas atlieka Vyriausybės ar savivaldybės administracijos direktoriaus paskirti atstovai, tačiau tik tokia apimtimi, kiek tai reikalinga Vyriausybės ar savivaldybės administracijos direktoriaus nustatytoms užduotims vykdyti. Vyriausybės ar savivaldybės administracijos direktoriaus paskirto atstovo teisės ir pareigos nustatomos sprendimu, kuriuo asmuo skiriamas atstovu atitinkamame ūkio subjekte. ^s-2b74cbeb584b35df9497b10e
 
 
-8. Jeigu [[#^s-792aa94d6e3a74f750d32ad6|šio straipsnio 1 dalyje]] nurodytų ūkio subjektų veiklos tęstinumo ar ūkio subjektams nustatytų būtinųjų užduočių vykdymo šio straipsnio 2 ar [[#^s-2b74cbeb584b35df9497b10e|7 dalyje]] nurodytomis priemonėmis užtikrinti neįmanoma, Vyriausybės sprendimu ne ilgiau, negu to reikia valstybės, ginkluotųjų pajėgų ir (ar) visuomenės reikmių tenkinimui užtikrinti, gali būti stabdomi šių ūkio subjektų valdymo organų įgaliojimai. Ūkio subjekto, kurio valdymo organų įgaliojimai sustabdyti, valdymą perima Vyriausybės įgalioti asmenys. Su ūkio subjekto valdymo perėmimu susiję nuostoliai atlyginami atšaukus karo padėtį įstatymų nustatytomis sąlygomis ir tvarka. ^s-3dfb39f9aebc9e30481225f1
+8. Jeigu [[#^s-792aa94d6e3a74f750d32ad6|šio straipsnio 1 dalyje]] nurodytų ūkio subjektų veiklos tęstinumo ar ūkio subjektams nustatytų būtinųjų užduočių vykdymo šio straipsnio [[#^s-fc1eacaf432c9b75f1e8fd7c|2]] ar [[#^s-2b74cbeb584b35df9497b10e|7]] dalyje nurodytomis priemonėmis užtikrinti neįmanoma, Vyriausybės sprendimu ne ilgiau, negu to reikia valstybės, ginkluotųjų pajėgų ir (ar) visuomenės reikmių tenkinimui užtikrinti, gali būti stabdomi šių ūkio subjektų valdymo organų įgaliojimai. Ūkio subjekto, kurio valdymo organų įgaliojimai sustabdyti, valdymą perima Vyriausybės įgalioti asmenys. Su ūkio subjekto valdymo perėmimu susiję nuostoliai atlyginami atšaukus karo padėtį įstatymų nustatytomis sąlygomis ir tvarka. ^s-3dfb39f9aebc9e30481225f1
 
 
 
@@ -699,7 +699,7 @@ Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
 4. Mobilizacijos sistemos subjekto, šio įstatymo [[#^s-6af8cdf7fdcae11d5b1fb934|7 straipsnio 2 dalyje]] nurodyto valstybinio ar savivaldybių administravimo subjekto arba ūkio subjekto, kuris privalo užtikrinti savo vykdomos veiklos tęstinumą ar kuriam yra nustatytos būtinosios užduotys, vadovo sprendimu, siekiant užtikrinti valstybinių mobilizacinių ar priimančiosios šalies paramos teikimo užduočių, mobilizacijos planuose numatytų priemonių ir veiksmų, mobilizacinių nurodymų, mobilizacinio užsakymo ar priimančiosios šalies paramos teikimo sutarčių, šio įstatymo [[#^s-6af8cdf7fdcae11d5b1fb934|7 straipsnio 2 dalies]] pagrindu valstybinio ar savivaldybių administravimo subjektams pavestų funkcijų, ūkio subjektams nustatytų būtinųjų užduočių vykdymą ar ūkio subjektų vykdomos veiklos tęstinumą, valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartis, gali būti atšaukti iš visų rūšių atostogų, išskyrus nėštumo ir gimdymo atostogas ir atostogas vaikui prižiūrėti (jeigu asmuo, kuriam suteiktos atostogos vaikui prižiūrėti, pateikia informaciją, pagrindžiančią, kad nėra kito iš vaiko tėvų (įtėvių) ar globėjo, galinčių prižiūrėti vaiką), ar tarnybinių komandiruočių. Iš atostogų ar tarnybinių komandiruočių atšaukti asmenys privalo nedelsdami, ne vėliau kaip kitą darbo dieną nuo informacijos apie atšaukimą gavimo dienos, atvykti į savo darbo vietą, o kai dėl objektyvių priežasčių to padaryti neįmanoma, – informuoti tiesioginį vadovą apie negalėjimo šioje dalyje nurodytu laiku atvykti į darbo vietą priežastį ir atvykimo į darbo vietą laiką. ^s-beb08143f84a8afd605feb33
 
 
-5. Mobilizacijos sistemos subjekto, šio įstatymo [[#^s-6af8cdf7fdcae11d5b1fb934|7 straipsnio 2 dalyje]] nurodyto valstybinio ar savivaldybių administravimo subjekto arba ūkio subjekto, kuris privalo užtikrinti savo vykdomos veiklos tęstinumą ar kuriam yra nustatytos būtinosios užduotys, vadovas, siekdamas užtikrinti valstybinių mobilizacinių ar priimančiosios šalies paramos teikimo užduočių, mobilizacijos planuose numatytų priemonių ir veiksmų, mobilizacinių nurodymų, mobilizacinio užsakymo ar priimančiosios šalies paramos teikimo sutarčių, šio įstatymo [[#^s-6af8cdf7fdcae11d5b1fb934|7 straipsnio 2 dalies]] pagrindu valstybinio ar savivaldybių administravimo subjektams pavestų funkcijų, ūkio subjektams nustatytų būtinųjų užduočių vykdymą ar ūkio subjektų vykdomos veiklos tęstinumą, jeigu to neįmanoma pasiekti darbo ar valstybės tarnybos santykius reguliuojančiuose teisės aktuose nustatytomis priemonėmis, gali nustatyti kitokį, negu [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekse]] reikalaujama, darbo ir poilsio laiką, tačiau atitinkantį šio straipsnio 6 ir [[#^s-7b3967be4b5b84e8eb062f29|7 dalyse]] nustatytus reikalavimus. ^s-5001b88977354e1d69f4962d
+5. Mobilizacijos sistemos subjekto, šio įstatymo [[#^s-6af8cdf7fdcae11d5b1fb934|7 straipsnio 2 dalyje]] nurodyto valstybinio ar savivaldybių administravimo subjekto arba ūkio subjekto, kuris privalo užtikrinti savo vykdomos veiklos tęstinumą ar kuriam yra nustatytos būtinosios užduotys, vadovas, siekdamas užtikrinti valstybinių mobilizacinių ar priimančiosios šalies paramos teikimo užduočių, mobilizacijos planuose numatytų priemonių ir veiksmų, mobilizacinių nurodymų, mobilizacinio užsakymo ar priimančiosios šalies paramos teikimo sutarčių, šio įstatymo [[#^s-6af8cdf7fdcae11d5b1fb934|7 straipsnio 2 dalies]] pagrindu valstybinio ar savivaldybių administravimo subjektams pavestų funkcijų, ūkio subjektams nustatytų būtinųjų užduočių vykdymą ar ūkio subjektų vykdomos veiklos tęstinumą, jeigu to neįmanoma pasiekti darbo ar valstybės tarnybos santykius reguliuojančiuose teisės aktuose nustatytomis priemonėmis, gali nustatyti kitokį, negu [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekse]] reikalaujama, darbo ir poilsio laiką, tačiau atitinkantį šio straipsnio [[latest/f6d686707e7011e6b969d7ae07280e89|6]] ir [[latest/f6d686707e7011e6b969d7ae07280e89|7]] dalyse nustatytus reikalavimus. ^s-5001b88977354e1d69f4962d
 
 
 6. Darbo laikas, įskaitant viršvalandžius ir darbą pagal susitarimą dėl papildomo darbo, per darbo dieną (pamainą) negali būti ilgesnis kaip 16 valandų ir 86 valandos per kiekvieną 7 dienų laikotarpį. ^s-53c38087336392429fec1d4c
@@ -820,7 +820,7 @@ Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
 5. Išlikęs turtas grąžinamas nedelsiant, ne vėliau kaip per 3 mėnesius nuo to laiko, kai išnyksta priežastys, dėl kurių jis buvo laikinai paimtas. ^s-2f15651f3348bc2d88cfa47d
 
 
-6. Už laikinai paimtą ar rekvizuotą turtą, atsižvelgiant į valstybės finansines galimybes, atlyginama Vyriausybės sprendimu iš valstybės biudžeto lėšų per kuo trumpesnį laiką nuo karo padėties atšaukimo. Atlyginama rekvizuoto, laikinai paimto, tačiau neišlikusio turto vertė, nuostoliai dėl laikinai paimto išlikusio turto sužalojimo, taip pat dėl laikinai paimto turto paruošimo, pristatymo į paėmimo vietą ir atsiėmimo turėtos išlaidos. Rekvizuoto ir laikinai paimto, tačiau neišlikusio turto vertė nustatoma vadovaujantis Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytais vertės nustatymo principais, atsižvelgiant į esamą tos pačios rūšies turto rinkos vertę. Nuostoliai dėl laikinai paimto išlikusio turto sužalojimo nustatomi įvertinus turto paėmimo ir grąžinimo metu nustatytus turto būklės pokyčius. Išlaidos dėl turto paruošimo, pristatymo į paėmimo vietą ir atsiėmimo nustatomos pagal savininko ar turto valdytojo pateiktus išlaidas pagrindžiančius dokumentus. ^s-61eacbb785fdaadcce2e8db2
+6. Už laikinai paimtą ar rekvizuotą turtą, atsižvelgiant į valstybės finansines galimybes, atlyginama Vyriausybės sprendimu iš valstybės biudžeto lėšų per kuo trumpesnį laiką nuo karo padėties atšaukimo. Atlyginama rekvizuoto, laikinai paimto, tačiau neišlikusio turto vertė, nuostoliai dėl laikinai paimto išlikusio turto sužalojimo, taip pat dėl laikinai paimto turto paruošimo, pristatymo į paėmimo vietą ir atsiėmimo turėtos išlaidos. Rekvizuoto ir laikinai paimto, tačiau neišlikusio turto vertė nustatoma vadovaujantis [Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nustatytais vertės nustatymo principais, atsižvelgiant į esamą tos pačios rūšies turto rinkos vertę. Nuostoliai dėl laikinai paimto išlikusio turto sužalojimo nustatomi įvertinus turto paėmimo ir grąžinimo metu nustatytus turto būklės pokyčius. Išlaidos dėl turto paruošimo, pristatymo į paėmimo vietą ir atsiėmimo nustatomos pagal savininko ar turto valdytojo pateiktus išlaidas pagrindžiančius dokumentus. ^s-61eacbb785fdaadcce2e8db2
 
 
 7. Laikinojo turto paėmimo ir turto rekvizicijos organizavimo ir vykdymo, laikinai paimto išlikusio turto grąžinimo, atlyginimo už rekvizuotą ir laikinai paimtą turtą tvarką ir laikinai paimto ir rekvizuoto turto apskaitos dokumentų formas nustato Vyriausybė ar jos įgaliota institucija. ^s-79d26c95dfb52e8d9a1ef8a4
@@ -871,7 +871,7 @@ Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
 2. Sprendimą dėl savivaldybės turto, reikalingo valstybės gynybos ar kitoms gyvybiškai svarbioms valstybės funkcijoms, mobilizacijos planams ir valstybinėms mobilizacinėms užduotims vykdyti, valstybės ar savivaldybių institucijos ar įstaigos prašymu perdavimo patikėjimo teise ar panaudos pagrindais priima savivaldybės administracijos direktorius. Apie tokį turto perdavimą savivaldybės administracijos direktorius ne vėliau kaip per 5 darbo dienas nuo sprendimo perduoti turtą priėmimo dienos informuoja savivaldybės tarybą. ^s-9f5af8b547f73424fddbaf50
 
 
-3. Turto valdytojas ar savivaldybės administracijos direktorius gali atsisakyti perduoti valstybės ar savivaldybės turtą prašančiai valstybės ar savivaldybių institucijai ar įstaigai, jeigu toks turtas reikalingas pačiam turto valdytojui ar savivaldybės administracijai valstybės gynybos ar kitoms gyvybiškai svarbioms valstybės funkcijoms, mobilizacijos planams ar valstybinėms mobilizacinėms užduotims vykdyti. Kai dėl to paties valstybės ar savivaldybės turto prašymus yra pateikusios kelios šio straipsnio 1 ir [[#^s-9f5af8b547f73424fddbaf50|2 dalyse]] nurodytos institucijos ar įstaigos arba kai turto valdytojas ar savivaldybės administracijos direktorius atsisako perduoti turtą, sprendimą dėl turto perdavimo priima Vyriausybė arba jos įgaliota institucija, atsižvelgdama į turto poreikio pagrindimą. ^s-69cf289b40717c500cf59aab
+3. Turto valdytojas ar savivaldybės administracijos direktorius gali atsisakyti perduoti valstybės ar savivaldybės turtą prašančiai valstybės ar savivaldybių institucijai ar įstaigai, jeigu toks turtas reikalingas pačiam turto valdytojui ar savivaldybės administracijai valstybės gynybos ar kitoms gyvybiškai svarbioms valstybės funkcijoms, mobilizacijos planams ar valstybinėms mobilizacinėms užduotims vykdyti. Kai dėl to paties valstybės ar savivaldybės turto prašymus yra pateikusios kelios šio straipsnio [[#^s-f80c808a101e0250da808d99|1]] ir [[#^s-9f5af8b547f73424fddbaf50|2]] dalyse nurodytos institucijos ar įstaigos arba kai turto valdytojas ar savivaldybės administracijos direktorius atsisako perduoti turtą, sprendimą dėl turto perdavimo priima Vyriausybė arba jos įgaliota institucija, atsižvelgdama į turto poreikio pagrindimą. ^s-69cf289b40717c500cf59aab
 
 
 4. Šiame straipsnyje nustatyta tvarka perduotas išlikęs ilgalaikis materialusis turtas atšaukus karo padėtį nedelsiant grąžinamas iki šiame straipsnyje nustatyta tvarka atlikto turto perdavimo buvusiam šio turto valdytojui. ^s-6e75a70f40897848570a236e
@@ -921,7 +921,7 @@ Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
 ### 23 straipsnis. Atvykimo į Lietuvos Respubliką apribojimas ^s-f629a0d4d728ba2e324c7abb
 
 
-1. Lietuvos Respublikos vidaus reikalų ministras, laikydamasis Europos Sąjungos teisės aktų, reglamentuojančių asmenų judėjimą per sienas, reikalavimų, kai būtina imtis skubių veiksmų, priima sprendimą atnaujinti patikrinimus prie Lietuvos Respublikos valstybės sienų, kurios yra ir Europos Sąjungos vidaus sienos. Kiti 2016 m. kovo 9 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 2016/399 dėl taisyklių, reglamentuojančių asmenų judėjimą per sienas, Sąjungos kodekso (Šengeno sienų kodeksas) su visais vėlesniais pakeitimais (toliau – Šengeno sienų kodeksas) nurodyti veiksmai, susiję su Lietuvos Respublikos valstybės sienų kontrole, atliekami vadovaujantis Šengeno sienų kodeksu ir valstybės sienos apsaugą ir kontrolę reglamentuojančiais teisės aktais. ^s-8bccde52b93c1a9c943eda17
+1. Lietuvos Respublikos vidaus reikalų ministras, laikydamasis Europos Sąjungos teisės aktų, reglamentuojančių asmenų judėjimą per sienas, reikalavimų, kai būtina imtis skubių veiksmų, priima sprendimą atnaujinti patikrinimus prie Lietuvos Respublikos valstybės sienų, kurios yra ir Europos Sąjungos vidaus sienos. Kiti 2016 m. kovo 9 d. Europos Parlamento ir Tarybos [reglamente (ES) Nr. 2016/399](https://eur-lex.europa.eu/eli/reg/2016/399/oj) dėl taisyklių, reglamentuojančių asmenų judėjimą per sienas, Sąjungos kodekso (Šengeno sienų kodeksas) su visais vėlesniais pakeitimais (toliau – Šengeno sienų kodeksas) nurodyti veiksmai, susiję su Lietuvos Respublikos valstybės sienų kontrole, atliekami vadovaujantis Šengeno sienų kodeksu ir valstybės sienos apsaugą ir kontrolę reglamentuojančiais teisės aktais. ^s-8bccde52b93c1a9c943eda17
 
 
 2. Lietuvos Respublikos kariniams vienetams, kitų valstybių kariniams vienetams, kuriems leista atvykti į Lietuvos Respublikos teritoriją ir juos panaudoti kolektyvinės gynybos ar kitos operacijos tikslais, jų kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams per Lietuvos Respublikos valstybės sieną galima vykti ginkluotųjų pajėgų vado nustatytose vietose. Specialiąją Lietuvos Respublikos valstybės sienos perėjimo šioje dalyje nurodytais atvejais tvarką nustato Vyriausybė. ^s-6ae5e83fbbf62e03e2e7fa61
@@ -1039,7 +1039,7 @@ KARO PADĖTIES ATŠAUKIMAS IR INFORMAVIMAS APIE KARO PADĖTIES ATŠAUKIMĄ
 3. Karo padėtis laikoma atšaukta įsigaliojus Respublikos Prezidento dekretui, kuriuo atšaukiamas sprendimas dėl karo padėties įvedimo, Seimo nutarimui, kuriuo panaikinamas Respublikos Prezidento sprendimas dėl karo padėties įvedimo, arba Seimo nutarimui dėl karo padėties atšaukimo. ^s-740dd5886a01947730c35234
 
 
-4. Šio straipsnio 1 ar [[#^s-bb279c2e936ecb0f4e68aee7|2 dalyje]] nurodytas Respublikos Prezidento dekretas ar Seimo nutarimas oficialiai skelbiamas [[latest/TAR.B4FA4C56B8D5|Teisėkūros pagrindų įstatyme]] nustatyta tvarka. ^s-387af3a7a259af60cb60c5a3
+4. Šio straipsnio [[#^s-e98b2e95a12dd4b7a566278c|1]] ar [[#^s-bb279c2e936ecb0f4e68aee7|2]] dalyje nurodytas Respublikos Prezidento dekretas ar Seimo nutarimas oficialiai skelbiamas [[latest/TAR.B4FA4C56B8D5|Teisėkūros pagrindų įstatyme]] nustatyta tvarka. ^s-387af3a7a259af60cb60c5a3
 
 
 
@@ -1067,7 +1067,7 @@ Tarptautinės humanitarinės teisės įgyvendinimas, žalos atlyginimas ir kitos
 1) Respublikos Prezidentas Užsienio reikalų ministerijos siūlymu skiria valstybę globėją, kaip numatyta 1949 m. rugpjūčio 12 d. Ženevos konvencijų papildomame protokole dėl tarptautinių ginkluotų konfliktų aukų apsaugos (1 protokolas); ^s-13875baa6e386000781e3b0e
 
 
-2) Vyriausybė ar jos įgaliota institucija, vadovaudamasi 1949 m. rugpjūčio 12 d. Ženevos konvencija dėl elgesio su karo belaisviais, sudaro tribunolą, kuris, kilus bet kokių abejonių dėl asmens turimo karo belaisvio statuso, sprendžia dėl minėto statuso asmenims suteikimo. Tribunolo darbo tvarką nustato Vyriausybė ar jos įgaliota institucija. Tribunolo sprendimai dėl karo belaisvio statuso nustatymo gali būti skundžiami teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka; ^s-cbfdff03fa7b9073b9790366
+2) Vyriausybė ar jos įgaliota institucija, vadovaudamasi [1949 m. rugpjūčio 12 d. Ženevos konvencija dėl elgesio su karo belaisviais](https://e-tar.lt/portal/lt/legalAct/TAR.E18788655942), sudaro tribunolą, kuris, kilus bet kokių abejonių dėl asmens turimo karo belaisvio statuso, sprendžia dėl minėto statuso asmenims suteikimo. Tribunolo darbo tvarką nustato Vyriausybė ar jos įgaliota institucija. Tribunolo sprendimai dėl karo belaisvio statuso nustatymo gali būti skundžiami teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka; ^s-cbfdff03fa7b9073b9790366
 
 
 3) Vyriausybė ar jos įgaliota institucija įsteigia oficialų informacijos biurą informacijai apie Lietuvos Respublikos žinioje esančius priešiškos valstybės asmenis, patyrusius laivo sudužimą, sužeistuosius, ligonius ir mirusiuosius, kaip tai numatyta 1949 m. rugpjūčio 12 d. Ženevos konvencijoje dėl sužeistųjų, sergančiųjų ir skęstančiųjų ginkluotųjų pajėgų narių jūrose padėties pagerinimo ir 1949 m. rugpjūčio 12 d. Ženevos konvencijoje dėl sužeistųjų ir ligonių padėties veikiančiose armijose pagerinimo, Lietuvos Respublikoje esančius saugomus asmenis, kaip jie apibrėžti 1949 m. rugpjūčio 12 d. Ženevos konvencijoje dėl civilių apsaugos karo metu, rinkti ir perduoti. Informacijos biuro sudarymo ir darbo tvarką nustato Vyriausybė ar jos įgaliota institucija; ^s-e67362d420629e25ddda36da
@@ -1191,22 +1191,22 @@ Nr. XI-2248, 2012-10-02, Žin., 2012, Nr. 122-6107 (2012-10-20), i. k. [[latest/
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1282, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15006
-Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir [[#^s-0bd36790cc0b14f501f647e9|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 [[#^s-1a2c2c8eb06c10579ffd1baa|2]] ir [[#^s-0bd36790cc0b14f501f647e9|21]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1542, 2015-03-19, paskelbta TAR 2015-03-27, i. k. 2015-04360
-Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 3, 4 ir [[#^s-cc1045b6b4ff4c4e2841245f|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 [[#^s-837a8f8eb6e08ab27a3c5380|3]], [[#^s-74b58d7c422a90efeeccc233|4]] ir [[#^s-cc1045b6b4ff4c4e2841245f|26]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2441, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17528
-Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 11 ir [[#^s-029822b23b607e594b1af6d0|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 [[#^s-9463568d2d4c76565c387e53|11]] ir [[#^s-029822b23b607e594b1af6d0|14]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2909, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10906
-Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2 ir [[#^s-0bd36790cc0b14f501f647e9|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 [[#^s-1a2c2c8eb06c10579ffd1baa|2]] ir [[#^s-0bd36790cc0b14f501f647e9|21]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1216,9 +1216,9 @@ Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 pakeitimo įstatymas
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2730, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11567
-Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 8, 12, 14, 17, 25 ir [[#^s-48f51f9eab846b9e09eb9efc|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 [[#^s-1a2c2c8eb06c10579ffd1baa|2]], [[#^s-c85acb5a5dc6d19357eb43fe|8]], [[#^s-7dfd229938f62c3c3f33169d|12]], [[#^s-029822b23b607e594b1af6d0|14]], [[#^s-cc74c13f63be11fefacbf374|17]], [[#^s-98dc34fcc056d28472e6cd26|25]] ir [[#^s-48f51f9eab846b9e09eb9efc|27]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-942, 2026-05-14, paskelbta TAR 2026-05-21, i. k. 2026-08548
-Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 2, 11 ir [[#^s-7dfd229938f62c3c3f33169d|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos karo padėties įstatymo Nr. VIII-1721 [[#^s-1a2c2c8eb06c10579ffd1baa|2]], [[#^s-9463568d2d4c76565c387e53|11]] ir [[#^s-7dfd229938f62c3c3f33169d|12]] straipsnių pakeitimo įstatymas

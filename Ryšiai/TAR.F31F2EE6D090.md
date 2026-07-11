@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 33 straipsnio pak
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - Vietos savivaldos įstatymo 33 straipsnio 5 dalies
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - VIETOS SAVIVALDOS ĮSTATYMO 33 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - VIETOS SAVIVALDOS ĮSTATYMO 33 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS

@@ -184,7 +184,7 @@ Komisijos uždaviniai:
 ### 10 straipsnis. Įstatymo įgyvendinimas ^s-1190d637955fc762b9fa11f8
 
 
-Klausimai, pradėti nagrinėti pagal įstatymą „Dėl Seimo Ekonominių nusikaltimų tyrimo komisijos reglamento“, baigiami nagrinėti pagal Seimo Antikorupcijos komisijos įstatymą.
+Klausimai, pradėti nagrinėti pagal įstatymą [„Dėl Seimo Ekonominių nusikaltimų tyrimo komisijos reglamento“](https://e-tar.lt/portal/lt/legalAct/TAR.CE6600FE96DB), baigiami nagrinėti pagal Seimo Antikorupcijos komisijos įstatymą.
 
 
 Vadovaudamasis Lietuvos Respublikos Konstitucijos 71 straipsnio antrąja dalimi, skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.

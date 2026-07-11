@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-c5e5515338ca231e8e74790f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2004 m. rugsėjo 3 d. dekretą Nr. 58, ratifikuoja Tamperės konvenciją dėl telekomunikacijų išteklių teikimo didelių nelaimių padariniams švelninti ir pagalbos operacijoms, priimtą 1998 m. birželio 18 d. Tamperėje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2004 m. rugsėjo 3 d. dekretą Nr. 58](https://e-tar.lt/portal/lt/legalAct/TAR.3EFBF4FB38C3), ratifikuoja Tamperės konvenciją dėl telekomunikacijų išteklių teikimo didelių nelaimių padariniams švelninti ir pagalbos operacijoms, priimtą 1998 m. birželio 18 d. Tamperėje.
 
 
 

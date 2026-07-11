@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-3f4c70f32625f5e674d04abc
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. lapkričio 21 d. dekretą Nr. 288, ratifikuoja 2003 m. birželio 5 d. Kijeve pasirašytą Lietuvos Respublikos Vyriausybės ir Ukrainos Ministrų Tarybos susitarimą dėl įslaptintos informacijos abipusės apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. lapkričio 21 d. dekretą Nr. 288](https://e-tar.lt/portal/lt/legalAct/TAR.3C651A850094), ratifikuoja 2003 m. birželio 5 d. Kijeve pasirašytą Lietuvos Respublikos Vyriausybės ir Ukrainos Ministrų Tarybos susitarimą dėl įslaptintos informacijos abipusės apsaugos.
 
 
 

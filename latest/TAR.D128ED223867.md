@@ -111,7 +111,7 @@ BENDROSIOS NUOSTATOS
 9) atskirų sporto varžybų neįgaliesiems rengimą. ^s-31ef82b9d9747855c729278d
 
 
-8. Nurodymas diskriminuoti asmenį lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu laikomas diskriminacija, apibrėžta šio straipsnio 4 ir [[#^s-2abca19609d61b090262c974|7 dalyse]]. ^s-386582568a8d647052aff116
+8. Nurodymas diskriminuoti asmenį lyties, rasės, tautybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu laikomas diskriminacija, apibrėžta šio straipsnio [[#^s-3404b29732a66d1527015c44|4]] ir [[#^s-2abca19609d61b090262c974|7]] dalyse. ^s-386582568a8d647052aff116
 
 
 

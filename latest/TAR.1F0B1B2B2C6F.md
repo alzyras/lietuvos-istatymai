@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-b0e3b7d49ce4a78f91affcb2
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. balandžio 20 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1989 metų tarptautinę turto gelbėjimo vandenyse konvenciją“, ratifikuoja 1989 metų tarptautinę turto gelbėjimo vandenyse konvenciją.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. balandžio 20 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1989 metų tarptautinę turto gelbėjimo vandenyse konvenciją“](https://e-tar.lt/portal/lt/legalAct/TAR.C571D4A62E31), ratifikuoja 1989 metų tarptautinę turto gelbėjimo vandenyse konvenciją.
 
 
 

@@ -96,7 +96,7 @@ Asmenims, atliekantiems laisvės atėmimo bausmę:
 2) pažeidinėjantiems bausmės atlikimo režimą. ^s-f23b530d9064c64ef6533353
 
 
-Šio straipsnio 1 ir [[#^s-f23b530d9064c64ef6533353|2 punktuose]] nurodytiems asmenims bausmės sumažinimas, kuris numatytas šio įstatymo [[#^s-45c73d64dcebc60cdde2b89c|3 straipsnyje]], taikomas, jei taip nusprendžia amnestijos komisija.
+Šio straipsnio [[#^s-3d09464ce1b0e89812fd1a04|1]] ir 2 punktuose nurodytiems asmenims bausmės sumažinimas, kuris numatytas šio įstatymo [[#^s-45c73d64dcebc60cdde2b89c|3 straipsnyje]], taikomas, jei taip nusprendžia amnestijos komisija.
 
 
 
@@ -109,7 +109,7 @@ Amnestijos komisija, kurioje turi būti pataisos darbų įstaigos arba specialio
 Motyvuotą sprendimą netaikyti amnestijos nuteistasis per 5 dienas nuo sprendimo priėmimo gali apskųsti bausmės atlikimo vietos teismui.
 
 
-Teismas tokius skundus nagrinėja Lietuvos Respublikos administracinių teisės pažeidimų kodekso nustatyta tvarka.
+Teismas tokius skundus nagrinėja [Lietuvos Respublikos administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka.
 
 
 
@@ -146,7 +146,7 @@ Nutraukti baudžiamąsias bylas, kuriose daromas parengtinis tyrimas bei kurios 
 ### 9 straipsnis. ^s-6adf2ac1da5cb305eed1f595
 
 
-Šio įstatymo 7 ir [[#^s-b4e4a4ca9bcfc1646eb5d714|8 straipsniuose]] numatytais atvejais amnestija taikoma tik po civilinio ieškinio išsprendimo.
+Šio įstatymo [[#^s-12ac6b502ca2148c031418d4|7]] ir [[#^s-b4e4a4ca9bcfc1646eb5d714|8]] straipsniuose numatytais atvejais amnestija taikoma tik po civilinio ieškinio išsprendimo.
 
 
 
@@ -218,7 +218,7 @@ Vidaus reikalų, kvotos ir parengtinio tardymo organų nutarimai [[latest/TAR.06
 Amnestija turi būti įvykdyta (išskyrus tuos atvejus, kai ją taiko ir vykdo teismai) per tris mėnesius nuo šio įstatymo įsigaliojimo dienos.
 
 
-Ginčus dėl amnestijos taikymo, kilusius po šio įstatymo įvykdymo, sprendžia Lietuvos Respublikos teismai Baudžiamojo proceso kodekso 414 straipsnyje nustatyta tvarka.
+Ginčus [[latest/TAR.06438E0A26EC|dėl amnestijos taikymo, kilusius po šio įstatymo įvykdymo, sprendžia Lietuvos Respublikos teismai Baudžiamojo proceso kodekso 414 straipsnyje]] nustatyta tvarka.
 
 
 

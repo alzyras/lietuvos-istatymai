@@ -9,9 +9,12 @@ pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įst
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.068516AF734B|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 4 citatos - 181 straipsnio 3 dalį
+- [[latest/TAR.068516AF734B#^s-61bd94695f9294db7df9bb58|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 8 straipsnio 3 dalį
+- [[latest/TAR.068516AF734B#^s-709bec94700e64edc4a2fe6a|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 19 straipsnio 3 dalį
+- [[latest/TAR.068516AF734B#^s-b5430257e2086db62038947c|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 16 straipsnio 3 dalį
+- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 5 citatos - Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies 1 punkte
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.068516AF734B#^s-436f77e02002fa6659c940b5|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - Įstatymas Nr. XII-2142
-- [[latest/TAR.068516AF734B#^s-c4cb3e6d78e276364a5ef670|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - Įstatymas Nr. XII-2142
+_Nėra._

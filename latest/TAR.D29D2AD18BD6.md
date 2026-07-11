@@ -52,7 +52,7 @@ Vilnius
 2. Pakeisti 20 straipsnio 4 dalį ir ją išdėstyti taip: ^s-219009b3f1caa764d577f2cd
 
 
-„4. [[#^s-219009b3f1caa764d577f2cd|Šio straipsnio 2 dalyje]] nustatytas draudimas netaikomas prižiūrint daugiabučio namo šildymo ir karšto vandens sistemas pastatuose, esančiuose gyvenamojoje vietovėje, kurioje, Lietuvos statistikos departamento duomenimis, gyvena mažiau negu 150 000 gyventojų, jeigu savivaldybės taryba nenusprendžia kitaip. Šis draudimas netaikomas šilumos tiekimo įmonėms, aptarnaujančioms mažiau kaip 5 000 prijungtų vartotojų, arba šilumos tiekimo įmonėms, per metus realizuojančioms mažiau negu 50 000 MWh šilumos, taip pat tais atvejais, kai atestuotas pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) yra fizinis asmuo, kuris gyvena tame pastate.“
+„4. Šio straipsnio 2 dalyje nustatytas draudimas netaikomas prižiūrint daugiabučio namo šildymo ir karšto vandens sistemas pastatuose, esančiuose gyvenamojoje vietovėje, kurioje, Lietuvos statistikos departamento duomenimis, gyvena mažiau negu 150 000 gyventojų, jeigu savivaldybės taryba nenusprendžia kitaip. Šis draudimas netaikomas šilumos tiekimo įmonėms, aptarnaujančioms mažiau kaip 5 000 prijungtų vartotojų, arba šilumos tiekimo įmonėms, per metus realizuojančioms mažiau negu 50 000 MWh šilumos, taip pat tais atvejais, kai atestuotas pastato šildymo ir karšto vandens sistemos prižiūrėtojas (eksploatuotojas) yra fizinis asmuo, kuris gyvena tame pastate.“
 
 
 

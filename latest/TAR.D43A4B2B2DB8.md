@@ -133,7 +133,7 @@ Pakeisti 9 straipsnio 1 dalies 6 punktą, 2 dalies 8 punktą pripažinti netekus
 ### 2 straipsnis. 21 straipsnio pakeitimas ^s-003de9c06c80ffaf6dd8d9ee
 
 
-21 straipsnio 1 dalį pripažinti netekusia galios, pakeisti [[#^s-dd9905612ae6c4dfc1b31f46|2 dalį]], 2–4 dalis laikyti 1–[[#^s-13c5d765457f4abf382993fb|3 dalimis]] ir visą straipsnį išdėstyti taip:
+21 straipsnio 1 dalį pripažinti netekusia galios, pakeisti [[#^s-dd9905612ae6c4dfc1b31f46|2 dalį]], 2–4 dalis laikyti 1–3 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „21 straipsnis. Kilnojamųjų kultūros vertybių konservavimas ir restauravimas
@@ -152,7 +152,7 @@ Pakeisti 9 straipsnio 1 dalies 6 punktą, 2 dalies 8 punktą pripažinti netekus
 ### 3 straipsnis. 23 straipsnio pakeitimas ^s-296feb917e196df99a8403e1
 
 
-23 straipsnio 1 dalį pripažinti netekusia galios, 2–5 dalis laikyti 1–[[#^s-c4add54cdf71debb6e58ee3f|4 dalimis]] ir visą straipsnį išdėstyti taip:
+23 straipsnio 1 dalį pripažinti netekusia galios, 2–5 dalis laikyti 1–4 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „23 straipsnis. Prekyba antikvariniais daiktais

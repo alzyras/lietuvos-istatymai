@@ -11,10 +11,11 @@ pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įst
 
 - [[latest/TAR.FDF42614DE52|Lietuvos Respublikos nedarbo socialinio draudimo įstatymas]] - Nedarbo socialinio draudimo įstatymu
 - [[latest/TAR.4325B0C38B2F|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas]] - Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu
-- [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 4 citatos - Valstybinio socialinio draudimo įstatymo 4 straipsnio
-- [[latest/TAR.0F9036415DBD#^s-93a3ee30cc77f6b9a09f2c88|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 2 citatos - Valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalyje
+- [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 2 citatos - Valstybinio socialinio draudimo įstatymo 4 straipsnio
+- [[latest/TAR.0F9036415DBD#^s-93a3ee30cc77f6b9a09f2c88|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - Valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalyje
+- [[latest/TAR.0F9036415DBD#^s-ce9997d122a5061eec549d34|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 2 citatos - 5
+- [[latest/TAR.0F9036415DBD#^s-dcd65a1da4844dfdb1550380|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 2 citatos - 3
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.068516AF734B#^s-436f77e02002fa6659c940b5|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - Įstatymas Nr. XI-71
-- [[latest/TAR.068516AF734B#^s-c4cb3e6d78e276364a5ef670|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - Įstatymas Nr. XI-71
+_Nėra._

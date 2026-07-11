@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.234B15954C2F#^s-c74fab25957445b0d52ecbbf|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - 3 citatos - 1071010ISTA00X-1074
-- [[latest/TAR.234B15954C2F#^s-fad71d38ad61a6b03c1ea981|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - 3 citatos - 1071010ISTA00X-1074
+- [[latest/TAR.234B15954C2F#^s-fad71d38ad61a6b03c1ea981|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - 2 citatos - 1071010ISTA00X-1074

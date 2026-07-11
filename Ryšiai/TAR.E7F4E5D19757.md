@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.61BB05227699#^s-561f5e2a1868ed6f00eb46af|Lietuvos Respublikos valstybės kontrolės įstatymas]] - Įstatymas Nr. XI-843
-- [[latest/TAR.61BB05227699#^s-907df066f8fe096da4c622a3|Lietuvos Respublikos valstybės kontrolės įstatymas]] - Įstatymas Nr. XI-843
+_Nėra._

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-a0e7893ed07be129eb60dd5e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. vasario 5 d. dekretą Nr. 2046, ratifikuoja Lietuvos Respublikos ir Uzbekistano Respublikos sutartį dėl tarpvalstybinių santykių pagrindų, draugystės ir bendradarbiavimo, pasirašytą 2002 m. rugsėjo 24 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. vasario 5 d. dekretą Nr. 2046](https://e-tar.lt/portal/lt/legalAct/TAR.1E45F3D11E9C), ratifikuoja Lietuvos Respublikos ir Uzbekistano Respublikos sutartį dėl tarpvalstybinių santykių pagrindų, draugystės ir bendradarbiavimo, pasirašytą 2002 m. rugsėjo 24 d. Vilniuje.
 
 
 

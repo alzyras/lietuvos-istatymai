@@ -148,7 +148,7 @@ Fizinių asmenų prašymus susigrąžinti nuosavybėn, gauti nuosavybėn neatlyg
 18 straipsnio 2 dalyje vietoj žodžių „Žemėtvarkos ir teisės departamentas prie Žemės ūkio ministerijos“ įrašyti žodžius „Vyriausybės įgaliota institucija“ ir šią dalį išdėstyti taip:
 
 
-„2. Skundus dėl žemės reformos metu suformuotų žemėnaudų tinkamumo, žemės privatizavimui ir nuomai parengtų dokumentų bei įstatymų ir kitų teisės aktų reikalavimų neatitikimo nagrinėja apskričių viršininkai ir Vyriausybės įgaliota institucija. Vyriausybės įgaliota institucija nenagrinėja apskrities viršininko neapsvarstytų piliečių prašymų ir skundų.“
+„2. Skundus [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) metu suformuotų žemėnaudų tinkamumo, žemės privatizavimui ir nuomai parengtų dokumentų bei įstatymų ir kitų teisės aktų reikalavimų neatitikimo nagrinėja apskričių viršininkai ir Vyriausybės įgaliota institucija. Vyriausybės įgaliota institucija nenagrinėja apskrities viršininko neapsvarstytų piliečių prašymų ir skundų.“
 
 
 

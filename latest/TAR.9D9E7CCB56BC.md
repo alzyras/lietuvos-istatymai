@@ -95,7 +95,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 ### 3 straipsnis. 16 straipsnio pakeitimas ^s-ff22b83e937182fff4540ea1
 
 
-16 straipsnyje po žodžio „išnuomojamas“ įrašyti žodžius „Civilinio kodekso“, išbraukti žodžius „Žemės nuomos įstatymo“ ir visą straipsnį išdėstyti taip:
+16 straipsnyje po žodžio „išnuomojamas“ įrašyti žodžius „Civilinio kodekso“, išbraukti žodžius [„Žemės nuomos įstatymo“](https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC) ir visą straipsnį išdėstyti taip:
 
 
 

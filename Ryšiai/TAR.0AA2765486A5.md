@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos statybos įstatymo 2 straipsnio bei priedo pa
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - Lietuvos Respublikos statybos įstatymo 431 straipsnio 3 dalyje
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F31E79DEC55D#^s-de3c166036f714f06b930d4d|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - STATYBOS ĮSTATYMO 2 STRAIPSNIO BEI PRIEDO PAPILDYMO IR ĮSTATYMO PAPILDYMO 43(1) STRAIPSNIU ĮSTATYMAS
-- [[latest/TAR.F31E79DEC55D#^s-fc1e8595c1f7e7bb99d779cb|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - STATYBOS ĮSTATYMO 2 STRAIPSNIO BEI PRIEDO PAPILDYMO IR ĮSTATYMO PAPILDYMO 43(1) STRAIPSNIU ĮSTATYMAS
+- [[latest/TAR.F31E79DEC55D#^s-fc1e8595c1f7e7bb99d779cb|Lietuvos Respublikos statybos įstatymas]] - STATYBOS ĮSTATYMO 2 STRAIPSNIO BEI PRIEDO PAPILDYMO IR ĮSTATYMO PAPILDYMO 43(1) STRAIPSNIU ĮSTATYMAS

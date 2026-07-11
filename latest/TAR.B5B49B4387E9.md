@@ -64,7 +64,7 @@ Vilnius
 ### 2 straipsnis. 10 straipsnio papildymas ir pakeitimas ^s-4c7ecedc84c19c625d563c0e
 
 
-Papildyti 10 straipsnį nauju [[#^s-27227ae338946ec351c42585|1 punktu]], buvusius 1, 2, 3, 4, [[#^s-4745bceaea636e02a4b993c8|5 punktus]] laikyti atitinkamai 2, 3, 4, 5, [[#^s-df5402578284cfe2db5e33a7|6 punktais]], 3 ir [[#^s-ea6c425150a3db33ec9368ad|4 punktus]] pakeisti ir visą straipsnį išdėstyti taip:
+Papildyti 10 straipsnį nauju [[#^s-27227ae338946ec351c42585|1 punktu]], buvusius 1, 2, 3, 4, 5 punktus laikyti atitinkamai 2, 3, 4, 5, 6 punktais, 3 ir 4 punktus pakeisti ir visą straipsnį išdėstyti taip:
 
 
 „10 straipsnis.     Vyriausybės įgaliojimai nustatant ir įgyvendinant nacionalinę regioninę politiką

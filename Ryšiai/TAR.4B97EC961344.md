@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos biomedicininių tyrimų etikos įstatymo 2, 1
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.234B15954C2F|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - 2000 m. gegužės 11 d. įstatymo Nr. VIII-1679
+- [[latest/TAR.234B15954C2F|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - įstatymo Nr. VIII-1679
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.234B15954C2F#^s-c74fab25957445b0d52ecbbf|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - 3 citatos - 1041010ISTA0IX-2164
-- [[latest/TAR.234B15954C2F#^s-fad71d38ad61a6b03c1ea981|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - 3 citatos - 1041010ISTA0IX-2164
+- [[latest/TAR.234B15954C2F#^s-fad71d38ad61a6b03c1ea981|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - 2 citatos - 1041010ISTA0IX-2164

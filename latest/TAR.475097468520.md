@@ -49,13 +49,13 @@ Iš [[#^s-7f882f07cab169b7eb411296|2 straipsnio 1 dalies]] išbraukti žodžius 
 ### 2 straipsnis.         10 straipsnio papildymas nauja 1 dalimi, 2 dalies 14 punkto pakeitimas ir papildymas ^s-af9716cbbb20b932b281dc6b
 
 
-1. 10 straipsnį papildyti nauja [[#^s-7f882f07cab169b7eb411296|1 dalimi]]: ^s-7f882f07cab169b7eb411296
+1. 10 straipsnį papildyti nauja 1 dalimi: ^s-7f882f07cab169b7eb411296
 
 
 „Valstybės kontrolė prižiūri, ar teisėtai ir efektyviai valdomas ir naudojamas valstybės turtas, kaip vykdomas valstybės biudžetas, kaip valstybės įstaigos laikosi finansinės drausmės, ir teikia siūlymus finansinei drausmei užtikrinti.“
 
 
-2. Buvusias 1 ir [[#^s-788a6cdff5ba5a08876171ef|2 dalis]] laikyti 2 ir [[#^s-807f8f0691dcbe17eadb68a7|3 dalimis]]. ^s-788a6cdff5ba5a08876171ef
+2. Buvusias [[#^s-7f882f07cab169b7eb411296|1]] ir 2 dalis laikyti 2 ir [[#^s-807f8f0691dcbe17eadb68a7|3]] dalimis. ^s-788a6cdff5ba5a08876171ef
 
 
 3. 2 dalies 14 punkte vietoj žodžių „valstybės žemės, miškų, vandenų“ įrašyti žodžius „Lietuvos Respublikos žemės fondo“, po žodžio „teisėtumą“ įrašyti žodžius „ir apskaitą“ ir šį punktą išdėstyti taip: ^s-807f8f0691dcbe17eadb68a7

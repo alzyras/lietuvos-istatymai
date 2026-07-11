@@ -663,13 +663,13 @@ Elektros energetikos sektorių sudaro elektros energijos vartotojai, gamintojai,
 7. Asmenys, kurie siekia verstis elektros energijos perdavimo ar skirstymo veikla, privalo turėti teisės aktų nustatyta tvarka išduodamą atestatą ar kitą dokumentą, suteikiantį teisę eksploatuoti elektros įrenginius, arba sudaryti sutartį dėl tokių įrenginių eksploatavimo su kitu asmeniu, turinčiu atitinkamą atestatą ar kitą dokumentą. ^s-f1c0d0a1f6f84a2c5fe2cc76
 
 
-8. Elektros energijos perdavimo veiklos licencija išduodama asmeniui, atitinkančiam šio straipsnio 5, 6 ir [[#^s-f1c0d0a1f6f84a2c5fe2cc76|7 dalyse]] nustatytus reikalavimus ir nuosavybės teise, kaip nurodyta šio įstatymo [[#^s-ebe9488c2ae7b7255f8058ba|53 straipsnio 2 dalyje]], ar kitais teisėtais pagrindais valdančiam perdavimo tinklus Lietuvos Respublikos teritorijoje. ^s-3b8eaebd6182fb38e20ce4e0
+8. Elektros energijos perdavimo veiklos licencija išduodama asmeniui, atitinkančiam šio straipsnio [[#^s-6d55ec490d5b087e626fa4f4|5]], [[#^s-0e2ea7a6d5b36b9d033cd034|6]] ir [[#^s-f1c0d0a1f6f84a2c5fe2cc76|7]] dalyse nustatytus reikalavimus ir nuosavybės teise, kaip nurodyta šio įstatymo [[#^s-ebe9488c2ae7b7255f8058ba|53 straipsnio 2 dalyje]], ar kitais teisėtais pagrindais valdančiam perdavimo tinklus Lietuvos Respublikos teritorijoje. ^s-3b8eaebd6182fb38e20ce4e0
 
 
 9. Siekiant užtikrinti elektros energijos perdavimo veiklos tęstinumą ir nenutrūkstamumą, iki Komisijos galutinio sprendimo dėl perdavimo sistemos operatoriaus paskyrimo šio įstatymo [[#^s-f76c1d45c851d4765149c264|25 straipsnyje]] nustatyta tvarka asmeniui, atitinkančiam [[#^s-3b8eaebd6182fb38e20ce4e0|šio straipsnio 8 dalyje]] nustatytus reikalavimus, Komisija išduoda terminuotą elektros energijos perdavimo veiklos licenciją ne ilgesniam kaip 12 mėnesių laikotarpiui. Kai Komisija paskiria perdavimo sistemos operatorių, jam išduodama neterminuota elektros energijos perdavimo veiklos licencija. Išdavus neterminuotą elektros energijos perdavimo veiklos licenciją, šioje dalyje numatyta terminuota veiklos licencija laikoma netekusia galios. ^s-0d1f582f75fde5bf60d6e4fb
 
 
-10. Elektros energijos skirstymo veiklos licencija išduodama asmeniui, atitinkančiam šio straipsnio 5, 6 ir [[#^s-f1c0d0a1f6f84a2c5fe2cc76|7 dalyse]] nustatytus reikalavimus ir nuosavybės teise ar kitais teisėtais pagrindais valdančiam skirstomuosius tinklus, tiesiogiai sujungtus su perdavimo tinklais. ^s-2651afb8c7d6a9493d5dca72
+10. Elektros energijos skirstymo veiklos licencija išduodama asmeniui, atitinkančiam šio straipsnio [[#^s-6d55ec490d5b087e626fa4f4|5]], [[#^s-0e2ea7a6d5b36b9d033cd034|6]] ir [[#^s-f1c0d0a1f6f84a2c5fe2cc76|7]] dalyse nustatytus reikalavimus ir nuosavybės teise ar kitais teisėtais pagrindais valdančiam skirstomuosius tinklus, tiesiogiai sujungtus su perdavimo tinklais. ^s-2651afb8c7d6a9493d5dca72
 
 
 11. Asmenys, kurie verčiasi viena iš [[#^s-2668fc43b7fbc3b88b4ddd54|šio straipsnio 1 dalyje]] nurodytų licencijuojamos veiklos rūšių, neturi teisės įgalioti kitų asmenų verstis licencijoje nurodyta veikla ir privalo laikytis šių bendrųjų veiklos sąlygų: ^s-f3777b5415779a6419acf258
@@ -690,7 +690,7 @@ Elektros energetikos sektorių sudaro elektros energijos vartotojai, gamintojai,
 5) užtikrinti, kad būtų atliekamos kitos šiame įstatyme ir kituose teisės aktuose nustatytos pareigos ir būtų laikomasi elektros energetikos sektoriuje vykdomai veiklai keliamų reikalavimų. ^s-e6ab6e9559cdc8fd84f17ae4
 
 
-12. Elektros energijos perdavimo ir skirstymo veiklos licencijos turėtojas, be [[#^s-f3777b5415779a6419acf258|šio straipsnio 11 dalyje]] nustatytų sąlygų, privalo vykdyti atitinkamai šio įstatymo 31 ir [[#^s-8d742e12cb48e7e5566e8a87|39 straipsniuose]] nustatytas licencijuojamos veiklos sąlygas ir: ^s-da1644284c234ff5a89e3880
+12. Elektros energijos perdavimo ir skirstymo veiklos licencijos turėtojas, be [[#^s-f3777b5415779a6419acf258|šio straipsnio 11 dalyje]] nustatytų sąlygų, privalo vykdyti atitinkamai šio įstatymo [[#^s-0f6208f6f7911b4a0897d90e|31]] ir [[#^s-8d742e12cb48e7e5566e8a87|39]] straipsniuose nustatytas licencijuojamos veiklos sąlygas ir: ^s-da1644284c234ff5a89e3880
 
 
 1) derinti su licenciją išdavusia institucija valdomo turto priežiūros ir eksploatavimo, taip pat investicijų į valdomą turtą planus; ^s-321c0ffd430bd50f443020e7
@@ -1013,13 +1013,13 @@ ELEKTROS ENERGIJOS PERDAVIMAS
 ### 25 straipsnis. Perdavimo sistemos operatoriaus paskyrimas ^s-f76c1d45c851d4765149c264
 
 
-1. Asmuo gali vykdyti perdavimo veiklą tik gavęs elektros energijos perdavimo veiklos licenciją, kaip nurodyta šio įstatymo 15 ir [[#^s-8b71b7ef2b7f704f0f836e8f|17 straipsniuose]]. ^s-89c7ebe03ca28e6004e46655
+1. Asmuo gali vykdyti perdavimo veiklą tik gavęs elektros energijos perdavimo veiklos licenciją, kaip nurodyta šio įstatymo [[#^s-f35dca59ddd9bc9e85a8b0ec|15]] ir [[#^s-8b71b7ef2b7f704f0f836e8f|17]] straipsniuose. ^s-89c7ebe03ca28e6004e46655
 
 
 2. Iki perdavimo sistemos operatoriaus paskyrimo šiame straipsnyje nustatyta tvarka ir sąlygomis, gali būti išduodama terminuota elektros energijos perdavimo veiklos licencija, kaip nurodyta šio įstatymo [[#^s-0d1f582f75fde5bf60d6e4fb|15 straipsnio 9 dalyje]], arba asmuo gali būti laikomas paskirtu laikinai vykdyti elektros energijos perdavimo veiklą, kaip nurodyta šio įstatymo [[#^s-e2fc858660eb24dc20fa0fa7|80 straipsnio 2 dalyje]]. ^s-18cf6891ce9f92b2de63c59e
 
 
-3. Perdavimo sistemos operatorius, įvykdęs šio įstatymo [[#^s-96c2737c72a45a9389c70c3d|53 straipsnio]] 2 ir [[#^s-ebd418dce0c6e5352a13867e|3 dalyse]] nustatytus reikalavimus, raštu informuoja Komisiją ir pateikia visus šių reikalavimų įvykdymą pagrindžiančius dokumentus, duomenis ir informaciją. Perdavimo sistemos operatoriaus dokumentų, duomenų ir informacijos pateikimo tvarką ir sąlygas nustato Komisija. ^s-ebd418dce0c6e5352a13867e
+3. Perdavimo sistemos operatorius, įvykdęs šio įstatymo [[#^s-96c2737c72a45a9389c70c3d|53 straipsnio]] [[#^s-ebe9488c2ae7b7255f8058ba|2]] ir [[#^s-0053f7a70195f3563a285cd1|3]] dalyse nustatytus reikalavimus, raštu informuoja Komisiją ir pateikia visus šių reikalavimų įvykdymą pagrindžiančius dokumentus, duomenis ir informaciją. Perdavimo sistemos operatoriaus dokumentų, duomenų ir informacijos pateikimo tvarką ir sąlygas nustato Komisija. ^s-ebd418dce0c6e5352a13867e
 
 
 4. Komisija ne vėliau kaip per 4 mėnesių laikotarpį nuo visų reikalingų ir tinkamai parengtų dokumentų, duomenų ir informacijos pateikimo dienos įvertina įgyvendintų perdavimo sistemos operatoriaus nepriklausomumo ir veiklos atskyrimo reikalavimų tinkamumą bei priima sprendimą dėl perdavimo sistemos operatoriaus paskyrimo. Pasibaigus šioje dalyje nustatytam terminui ir Komisijai nepriėmus sprendimo, laikoma, kad yra priimtas teigiamas sprendimas dėl perdavimo sistemos operatoriaus paskyrimo. ^s-7175d30a3af21032ff2996ba
@@ -1028,7 +1028,7 @@ ELEKTROS ENERGIJOS PERDAVIMAS
 5. Komisija [[#^s-7175d30a3af21032ff2996ba|šio straipsnio 4 dalyje]] nurodytais atvejais informuoja perdavimo sistemos operatorių ir Europos Komisiją apie priimtą sprendimą, kartu pateikdama sprendimą pagrindžiančius dokumentus, duomenis ir informaciją. ^s-5bb6d03b57fa39d50bef43b4
 
 
-6. Komisija, 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio Reglamentą (EB) Nr. 1228/2003, [[#^s-f6285eb50393df5a6be9bb4d|3 straipsnyje]] nustatytais terminais gavusi teigiamą Europos Komisijos išvadą arba negavusi neigiamos išvados, priima galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo. ^s-b99ec8d99f0053426e1ae735
+6. Komisija, 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio [Reglamentą (EB) Nr. 1228/2003](https://eur-lex.europa.eu/eli/reg/1228/2003/oj), [[#^s-f6285eb50393df5a6be9bb4d|3]] straipsnyje nustatytais terminais gavusi teigiamą Europos Komisijos išvadą arba negavusi neigiamos išvados, priima galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo. ^s-b99ec8d99f0053426e1ae735
 
 
 7. Komisija, [[#^s-b99ec8d99f0053426e1ae735|šio straipsnio 6 dalyje]] nustatyta tvarka gavusi Europos Komisijos prieštaravimų dėl perdavimo sistemos operatoriaus paskyrimo, nurodo perdavimo sistemos operatoriui pašalinti Europos Komisijos nustatytus neatitikimus ir ne vėliau kaip per 2 mėnesių laikotarpį priima galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo. ^s-e3cb926e7dcdf1cacbdbb4d7
@@ -1072,13 +1072,13 @@ ELEKTROS ENERGIJOS PERDAVIMAS
 2. Siekiant tinkamo [[#^s-5d01dd774f44991e1b74cf63|šio straipsnio 1 dalyje]] numatytos Komisijos pareigos informuoti Europos Komisiją įgyvendinimo, asmuo, prašantis išduoti elektros energijos perdavimo veiklos licenciją ir (ar) paskirti vykdyti perdavimo veiklą, taip pat veiklą vykdantis perdavimo sistemos operatorius privalo nedelsdami savarankiškai arba Komisijos reikalavimu Komisijai pateikti visus duomenis ir informaciją, susijusią su įmonės tiesiogine ar netiesiogine kontrole ar jos pokyčiais. Dokumentų, duomenų ir informacijos pateikimo tvarką ir sąlygas nustato Komisija. ^s-64a6a16f67b22b0d6d977e14
 
 
-3. Siekiant užtikrinti perdavimo veiklos tęstinumą ir nenutrūkstamumą, kaip nurodyta šio įstatymo [[#^s-0d1f582f75fde5bf60d6e4fb|15 straipsnio 9 dalyje]], iki Komisijos galutinio sprendimo dėl perdavimo sistemos operatoriaus paskyrimo šiame straipsnyje nustatyta tvarka Komisija išduoda nustatytus reikalavimus atitinkančiam asmeniui terminuotą elektros energijos perdavimo veiklos licenciją šio įstatymo 15 ir [[#^s-8b71b7ef2b7f704f0f836e8f|17 straipsniuose]] nustatyta tvarka ir sąlygomis. ^s-de31bb385f8c44180e85fb15
+3. Siekiant užtikrinti perdavimo veiklos tęstinumą ir nenutrūkstamumą, kaip nurodyta šio įstatymo [[#^s-0d1f582f75fde5bf60d6e4fb|15 straipsnio 9 dalyje]], iki Komisijos galutinio sprendimo dėl perdavimo sistemos operatoriaus paskyrimo šiame straipsnyje nustatyta tvarka Komisija išduoda nustatytus reikalavimus atitinkančiam asmeniui terminuotą elektros energijos perdavimo veiklos licenciją šio įstatymo [[#^s-f35dca59ddd9bc9e85a8b0ec|15]] ir [[#^s-8b71b7ef2b7f704f0f836e8f|17]] straipsniuose nustatyta tvarka ir sąlygomis. ^s-de31bb385f8c44180e85fb15
 
 
 4. Komisija priima sprendimą dėl perdavimo sistemos operatoriaus paskyrimo per 4 mėnesius nuo [[#^s-64a6a16f67b22b0d6d977e14|šio straipsnio 2 dalyje]] numatyto pranešimo dienos. Komisija atsisako paskirti perdavimo sistemos operatorių, jeigu asmuo neįrodo, kad: ^s-e40ecafee5071caf2714fb41
 
 
-1) jis yra tinkamai įvykdęs šio įstatymo 24 ir [[#^s-96c2737c72a45a9389c70c3d|53 straipsniuose]] nustatytus nepriklausomumo ir veiklos atskyrimo reikalavimus; ^s-c35d2f32088ef2d4f16ded0b
+1) jis yra tinkamai įvykdęs šio įstatymo [[#^s-cbf34117af377fd3fc2fecd2|24]] ir [[#^s-96c2737c72a45a9389c70c3d|53]] straipsniuose nustatytus nepriklausomumo ir veiklos atskyrimo reikalavimus; ^s-c35d2f32088ef2d4f16ded0b
 
 
 2) jo veikla nekelia grėsmės elektros energetikos sistemos darbo saugumui ir patikimumui, viešiesiems interesams elektros energetikos sektoriuje, vartotojų teisių ir teisėtų interesų apsaugai, visuomenės saugumui ar nacionalinio saugumo interesams. Atitikties nacionalinio saugumo interesams įvertinamas atliekamas [[latest/TAR.57E0E8B29108|Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatyme]] nustatyta tvarka ir sąlygomis. ^s-d3361d851e5fe6143b8847ae
@@ -1105,7 +1105,7 @@ ELEKTROS ENERGIJOS PERDAVIMAS
 8. Prieš priimdama galutinį sprendimą dėl perdavimo sistemos operatoriaus paskyrimo, Komisija privalo kreiptis į Europos Komisiją su prašymu pateikti nuomonę dėl: ^s-38c9f59f5a7f5a0ecb4c454f
 
 
-1) asmens atitikties šio įstatymo 24 ir [[#^s-96c2737c72a45a9389c70c3d|53 straipsniuose]] nustatytiems nepriklausomumo ir veiklos atskyrimo reikalavimams; ^s-889bc836ef8ff381781c1e7e
+1) asmens atitikties šio įstatymo [[#^s-cbf34117af377fd3fc2fecd2|24]] ir [[#^s-96c2737c72a45a9389c70c3d|53]] straipsniuose nustatytiems nepriklausomumo ir veiklos atskyrimo reikalavimams; ^s-889bc836ef8ff381781c1e7e
 
 
 2) asmens veiklos poveikio elektros energijos tiekimo Europos Sąjungai saugumui ir patikimumui. ^s-64423079e8a540c56b3f28c9
@@ -1124,7 +1124,7 @@ ELEKTROS ENERGIJOS PERDAVIMAS
 ### 28 straipsnis. Informacijos teikimas ^s-be0e23d1a18f6af0394f6f1a
 
 
-1. Perdavimo sistemos operatorius, asmuo, ketinantis verstis elektros energijos perdavimo veikla, ir (ar) vertikaliai integruota įmonė ar bet kuri jos grupės įmonė privalo pateikti Komisijai visus pagrįstai Komisijos ar Europos Komisijos reikalaujamus dokumentus, duomenis ir informaciją, reikalingus šio įstatymo 25, 26 ir [[#^s-4506e8bc36fcaf8fc23c0be5|27 straipsniuose]] nustatytiems veiksmams atlikti. ^s-78556aa835c22e3de99702cf
+1. Perdavimo sistemos operatorius, asmuo, ketinantis verstis elektros energijos perdavimo veikla, ir (ar) vertikaliai integruota įmonė ar bet kuri jos grupės įmonė privalo pateikti Komisijai visus pagrįstai Komisijos ar Europos Komisijos reikalaujamus dokumentus, duomenis ir informaciją, reikalingus šio įstatymo [[#^s-f76c1d45c851d4765149c264|25]], [[#^s-abea3048c7f4fa58ff37a440|26]] ir [[#^s-4506e8bc36fcaf8fc23c0be5|27]] straipsniuose nustatytiems veiksmams atlikti. ^s-78556aa835c22e3de99702cf
 
 
 2. Dėl [[#^s-78556aa835c22e3de99702cf|šio straipsnio 1 dalyje]] nurodytų dokumentų, duomenų ar informacijos pateikimo Komisija ar Europos Komisija gali kreiptis bet kuriuo metu iki galutinio Komisijos sprendimo pateikimo. Dokumentų, duomenų ir informacijos pateikimo tvarką ir sąlygas nustato Komisija. ^s-3ee74431ae1d682de83ba58d
@@ -1241,7 +1241,7 @@ Perdavimo sistemos operatorius privalo:
 17) užtikrinti, kad perdavimo tinklai Lietuvos Respublikos teritorijoje veiktų efektyviai, patikimai ir saugiai aplinkos apsaugos požiūriu; ^s-e6d85cf18a84eaffa45bc74f
 
 
-18) užtikrinti linijų perkrovų valdymą rinkos mechanizmais, gautų perkrovų pajamų paskirstymą ir dėl tarpsisteminių elektros energijos srautų atsiradusių sąnaudų kompensavimą pagal 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio Reglamentą (EB) Nr. 1228/2003, nustatytus principus; ^s-65ea5ab5bca1261c90cdfc63
+18) užtikrinti linijų perkrovų valdymą rinkos mechanizmais, gautų perkrovų pajamų paskirstymą ir dėl tarpsisteminių elektros energijos srautų atsiradusių sąnaudų kompensavimą pagal 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio [Reglamentą (EB) Nr. 1228/2003](https://eur-lex.europa.eu/eli/reg/1228/2003/oj), nustatytus principus; ^s-65ea5ab5bca1261c90cdfc63
 
 
 19) užtikrinti informacijos, gautos atliekant savo funkcijas ir sudarančios komercinę ar kitokią paslaptį, konfidencialumą, išskyrus įstatymų nustatytus atvejus, ir nenaudoti šios informacijos kitų elektros energetikos sektoriaus dalyvių diskriminavimo tikslais. Komisija prižiūri ir kontroliuoja, kad perdavimo sistemos operatoriaus gauta informacija, sudaranti komercinę ar kitokią paslaptį, nebūtų perduodama jokiems tretiesiems asmenims, išskyrus įstatymų nustatytus atvejus, o perdavimo sistemos operatoriaus personalas neteiktų paslaugų ar nebūtų perleidžiamas įmonėms, vykdančioms elektros energijos gamybos ar tiekimo veiklą; ^s-06f6d53703c30603aa954e5f
@@ -1303,7 +1303,7 @@ Perdavimo sistemos operatorius privalo:
 4. Komisija dėl perdavimo sistemos operatoriaus pateikto tinklų plėtros plano vykdo skaidrias ir viešas konsultacijas su visais suinteresuotais tinklų naudotojais. Komisija savo interneto svetainėje skelbia konsultacijų rezultatus, visų pirma galimą investicijų į tinklų plėtrą poreikį. ^s-49f12b058653bf59da39f188
 
 
-5. Komisija įvertina, ar perdavimo sistemos operatoriaus pateiktame tinklų plėtros plane atsižvelgta į visus investicijų poreikius, kurie buvo nustatyti konsultacijų metu, ir ar planas neprieštarauja neprivalomam Europos Sąjungos 10 metų tinklų plėtros planui, nurodytam 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio Reglamentą (EB) Nr. 1228/2003, 8 straipsnio 3 dalies b punkte. ^s-fe68acd3c64cfb99d54d3aa1
+5. Komisija įvertina, ar perdavimo sistemos operatoriaus pateiktame tinklų plėtros plane atsižvelgta į visus investicijų poreikius, kurie buvo nustatyti konsultacijų metu, ir ar planas neprieštarauja neprivalomam Europos Sąjungos 10 metų tinklų plėtros planui, nurodytam 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančio [Reglamentą (EB) Nr. 1228/2003](https://eur-lex.europa.eu/eli/reg/1228/2003/oj), [[#^s-035bb1092d0c0246382fafd5|8]] [[#^s-d25f86be2111dc6b202c6cbc|straipsnio 3 dalies]] b punkte. ^s-fe68acd3c64cfb99d54d3aa1
 
 
 6. Komisija vykdo tinklų plėtros plano įgyvendinimo stebėseną ir atlieka jo vertinimą. Perdavimo sistemos operatorius, nepateikęs plėtros plano [[#^s-d9185423aed79346616a2b3e|šio straipsnio 1 dalyje]] nustatytais terminais arba pateikęs plėtros planą nesilaikydamas šiame straipsnyje nustatytų reikalavimų ir nepašalinęs nustatytų pažeidimų per Komisijos nurodytą terminą, laikomas pažeidusiu reguliuojamos elektros energijos perdavimo veiklos sąlygas. ^s-be87a9676890608eb03293bf
@@ -1384,7 +1384,7 @@ ELEKTROS ENERGIJOS SKIRSTYMAS
 ### 37 straipsnis. Skirstomųjų tinklų operatoriaus paskyrimas ^s-d0751d740915c3c68a2ae62d
 
 
-Asmuo gali verstis skirstymo veikla tik gavęs elektros energijos skirstymo veiklos licenciją, kaip nurodyta šio įstatymo 15 ir [[#^s-8b71b7ef2b7f704f0f836e8f|17 straipsniuose]]. Licenciją gavęs asmuo laikomas paskirtu vykdyti elektros energijos skirstymo veiklą.
+Asmuo gali verstis skirstymo veikla tik gavęs elektros energijos skirstymo veiklos licenciją, kaip nurodyta šio įstatymo [[#^s-f35dca59ddd9bc9e85a8b0ec|15]] ir [[#^s-8b71b7ef2b7f704f0f836e8f|17]] straipsniuose. Licenciją gavęs asmuo laikomas paskirtu vykdyti elektros energijos skirstymo veiklą.
 
 
 
@@ -1528,7 +1528,7 @@ ELEKTROS ENERGIJOS TIEKIMAS
 4) buitiniams vartotojams, nepasirinkusiems nepriklausomo elektros energijos tiekėjo ar kai jų pasirinktas nepriklausomas tiekėjas nevykdo prisiimtų įsipareigojimų, užtikrinamas elektros energijos tiekimas visuomenine elektros energijos kaina šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka ir sąlygomis. Buitiniams vartotojams garantinio elektros energijos tiekimo sąlygos nėra taikomos. ^s-9b53fa0836ce35f5512458c9
 
 
-3. Vartotojai, kuriems šiame straipsnyje nustatyta tvarka ir sąlygomis užtikrinamas garantinis elektros energijos tiekimas, atsiskaito su tinklų operatoriumi, prie kurio valdomų tinklų yra prijungti vartotojo įrenginiai, už elektros energijos persiuntimą perdavimo ir (ar) skirstomaisiais tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, kaip nurodyta šio įstatymo [[#^s-f5037bd5320bab681b5ab096|46 straipsnio]] 5 ir 6 dalyse. ^s-d6b755f35c257116068bef85
+3. Vartotojai, kuriems šiame straipsnyje nustatyta tvarka ir sąlygomis užtikrinamas garantinis elektros energijos tiekimas, atsiskaito su tinklų operatoriumi, prie kurio valdomų tinklų yra prijungti vartotojo įrenginiai, už elektros energijos persiuntimą perdavimo ir (ar) skirstomaisiais tinklais, taip pat už sistemines paslaugas ir viešuosius interesus atitinkančias paslaugas, kaip nurodyta šio įstatymo [[#^s-f5037bd5320bab681b5ab096|46 straipsnio]] [[#^s-3aea81b04a442000d095381e|5]] ir [[#^s-68888ebc0545e91367e55390|6]] dalyse. ^s-d6b755f35c257116068bef85
 
 
 
@@ -1796,7 +1796,7 @@ APSKAITOS IR VEIKLOS ELEKTROS ENERGETIKOS SEKTORIUJE SKAIDRUMAS
 5) tas pats asmuo neturi teisės kartu būti asmens, vykdančio gamybos ir (ar) tiekimo veiklą, ir perdavimo sistemos operatoriaus priežiūros organų, valdymo organų ar administracijos narys. ^s-0859bd3d7bf9785c14ba8e35
 
 
-4. [[#^s-0053f7a70195f3563a285cd1|Šio straipsnio 3 dalies]] 2, 3 ir 4 punktuose nurodytos teisės visų pirma apima: ^s-6c6b7edcbca50f95ff78871a
+4. [[#^s-0053f7a70195f3563a285cd1|Šio straipsnio 3 dalies]] [[#^s-dbe50fe3cb4c8e72c37c3c0f|2]], [[#^s-376555fc88abbcb37c3893c7|3]] ir 4 punktuose nurodytos teisės visų pirma apima: ^s-6c6b7edcbca50f95ff78871a
 
 
 1) įgaliojimus naudotis balsavimo teisėmis; ^s-1902993823a243a6792491d5
@@ -1808,7 +1808,7 @@ APSKAITOS IR VEIKLOS ELEKTROS ENERGETIKOS SEKTORIUJE SKAIDRUMAS
 3) akcijų paketo, suteikiančio daugiau kaip 1/3 akcijų ir balsų įmonės visuotiniame akcininkų susirinkime, valdymą ir disponavimą juo. ^s-376555fc88abbcb37c3893c7
 
 
-5. Priimant sprendimus, kuriais įgyvendinami šio straipsnio 3 ir [[#^s-6c6b7edcbca50f95ff78871a|4 dalyse]] nurodyti reikalavimai, vadovaujamasi šio įstatymo nuostatomis. Kitų teisės aktų nuostatos taikomos tiek, kiek jos neprieštarauja šiam įstatymui. ^s-733e49cee8a6a88df43f7503
+5. Priimant sprendimus, kuriais įgyvendinami šio straipsnio [[#^s-0053f7a70195f3563a285cd1|3]] ir [[#^s-6c6b7edcbca50f95ff78871a|4]] dalyse nurodyti reikalavimai, vadovaujamasi šio įstatymo nuostatomis. Kitų teisės aktų nuostatos taikomos tiek, kiek jos neprieštarauja šiam įstatymui. ^s-733e49cee8a6a88df43f7503
 
 
 6. Tuo atveju, kai [[#^s-0053f7a70195f3563a285cd1|šio straipsnio 3 dalyje]] nurodytas asmuo yra valstybės institucija, įstaiga, organizacija ar kitas viešasis asmuo, laikoma, kad perdavimo veiklos atskyrimas yra tinkamai įgyvendintas, jeigu perdavimo sistemos operatorių ir asmenis, vykdančius elektros energijos gamybos ar tiekimo veiklą, tiesiogiai ar netiesiogiai kontroliuoja atskiros valstybės institucijos, įstaigos, organizacijos ar kiti viešieji asmenys. Valstybės institucijos, įstaigos, organizacijos ar kiti viešieji asmenys nėra atskiri, jeigu jie yra tiesiogiai pavaldūs tam pačiam viešajam asmeniui, pažeidžiant [[#^s-0053f7a70195f3563a285cd1|šio straipsnio 3 dalyje]] nurodytus perdavimo sistemos operatoriaus nepriklausomumo reikalavimus. ^s-dcbffadfaf9a30af3b48647e
@@ -1817,7 +1817,7 @@ APSKAITOS IR VEIKLOS ELEKTROS ENERGETIKOS SEKTORIUJE SKAIDRUMAS
 7. Priimant sprendimus, kuriais vykdomos [[#^s-0053f7a70195f3563a285cd1|šio straipsnio 3 dalies]] 2 ir 3 punktų ir [[#^s-6c6b7edcbca50f95ff78871a|4 dalies]] nuostatos ir įgyvendinamas elektros energijos perdavimo veiklos atskyrimas, įmone, vykdančia gamybos, perdavimo ir tiekimo veiklą, taip pat laikoma atitinkamą veiklą dujų sektoriuje vykdanti įmonė, kaip nurodyta [[latest/TAR.0C5C33AA865C|Lietuvos Respublikos gamtinių dujų įstatyme]]. ^s-1c82ec6b971e78d3c0635d07
 
 
-8. Valstybių narių asmenys, vykdantys elektros energijos gamybos ir (ar) tiekimo veiklą, negali tiesiogiai ar netiesiogiai kontroliuoti Lietuvos Respublikos perdavimo sistemos operatoriaus, įgyvendinusio šio straipsnio 2 ir [[#^s-0053f7a70195f3563a285cd1|3 dalių]] reikalavimus, ar turėti kokių nors teisių jo atžvilgiu. ^s-2f497bf0daaa9643b045e560
+8. Valstybių narių asmenys, vykdantys elektros energijos gamybos ir (ar) tiekimo veiklą, negali tiesiogiai ar netiesiogiai kontroliuoti Lietuvos Respublikos perdavimo sistemos operatoriaus, įgyvendinusio šio straipsnio [[#^s-ebe9488c2ae7b7255f8058ba|2]] ir [[#^s-0053f7a70195f3563a285cd1|3]] dalių reikalavimus, ar turėti kokių nors teisių jo atžvilgiu. ^s-2f497bf0daaa9643b045e560
 
 
 
@@ -1883,7 +1883,7 @@ Už elektros energijos perdavimo ar skirstymo veiklos nepriklausomumo ir veiklos
 3. Apskaitos atskyrimo taisykles ir su apskaitos atskyrimu susijusius reikalavimus, taip pat reikalavimus nepriklausomam auditui, kurį šiame įstatyme nurodyti asmenys privalo atlikti Komisijos nustatytu periodiškumu, nustato Komisija. ^s-4b25d8111163409547a40846
 
 
-4. Perdavimo sistemos operatorius, skirstomųjų tinklų operatoriai, gamintojai ir tiekėjai savo metines finansines ataskaitas parengia, pateikia nepriklausomam auditui ir paskelbia [[latest/TAR.43178AA9832E|Lietuvos Respublikos buhalterinės apskaitos įstatyme]], Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme ir Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme nustatyta tvarka ir sąlygomis. ^s-87fd79fadb193d0e182f712e
+4. Perdavimo sistemos operatorius, skirstomųjų tinklų operatoriai, gamintojai ir tiekėjai savo metines finansines ataskaitas parengia, pateikia nepriklausomam auditui ir paskelbia [[latest/TAR.43178AA9832E|Lietuvos Respublikos buhalterinės apskaitos įstatyme]], [Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C) ir Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme nustatyta tvarka ir sąlygomis. ^s-87fd79fadb193d0e182f712e
 
 
 5. Asmenys, kurie teisiškai nėra įpareigoti skelbti savo metinių finansinių ataskaitų, jų kopijas laiko savo pagrindinėje buveinėje, kur su jomis gali susipažinti visuomenė. ^s-c3ff2436f9597381a774ebac
@@ -1899,7 +1899,7 @@ Už elektros energijos perdavimo ar skirstymo veiklos nepriklausomumo ir veiklos
 2. Komisija turi teisę gauti iš valstybės institucijų, įskaitant ir jų turimą Europos Sąjungos institucijų bei kitų valstybių narių disponuojamą informaciją, ir savivaldybių institucijų bei įstaigų, elektros energijos gamybos, perdavimo, skirstymo ir tiekimo veiklą vykdančių įmonių, taip pat iš elektros biržos operatoriaus ir kitų asmenų informaciją, kuri reikalinga elektros energijos rinkai tinkamai prižiūrėti, Komisijai pagal kompetenciją vykdant elektros energetikos sektoriaus reguliavimą ir priežiūrą. ^s-1dd20120da16b07154bfccbe
 
 
-3. Elektros energijos gamybos, perdavimo, skirstymo, tiekimo veiklą vykdančios įmonės ir elektros biržos operatorius šio straipsnio 1 ir [[#^s-1dd20120da16b07154bfccbe|2 dalyse]] nurodytą informaciją privalo teikti teisės aktų nustatyta tvarka. ^s-950215fbf70b88a71aca1838
+3. Elektros energijos gamybos, perdavimo, skirstymo, tiekimo veiklą vykdančios įmonės ir elektros biržos operatorius šio straipsnio [[#^s-4fa6b4001c4fee80c7b4a7fd|1]] ir [[#^s-1dd20120da16b07154bfccbe|2]] dalyse nurodytą informaciją privalo teikti teisės aktų nustatyta tvarka. ^s-950215fbf70b88a71aca1838
 
 
 4. Komisija ar kitos institucijos užtikrina informacijos, laikomos komercine (gamybine) ar profesine paslaptimi, konfidencialumą ir gautą konfidencialią informaciją gali naudoti tik tiems tikslams, dėl kurių informacijos buvo prašoma. Konfidenciali informacija gali būti atskleidžiama tik tokiais atvejais, kai tai yra būtina kompetentingoms institucijoms pagal įstatymus tinkamai atlikti savo funkcijas. ^s-f1da46e64c986785e3b92bdb
@@ -1993,7 +1993,7 @@ ELEKTROS ENERGIJOS RINKA
 ### 62 straipsnis. Naujų elektros energijos gamintojų dalyvavimas rinkoje ^s-ab2ae04f0674be666cd97701
 
 
-Elektros energijos gamintoju gali tapti kiekvienas asmuo, šio įstatymo 16 ir [[#^s-8b71b7ef2b7f704f0f836e8f|17 straipsniuose]] nustatyta tvarka ir sąlygomis gavęs leidimą gaminti elektros energiją.
+Elektros energijos gamintoju gali tapti kiekvienas asmuo, šio įstatymo [[#^s-5b8d926b6940902e20d973dc|16]] ir [[#^s-8b71b7ef2b7f704f0f836e8f|17]] straipsniuose nustatyta tvarka ir sąlygomis gavęs leidimą gaminti elektros energiją.
 
 
 
@@ -2196,7 +2196,7 @@ Elektros energijos gamintoju gali tapti kiekvienas asmuo, šio įstatymo 16 ir [
 7. Tinklų operatorių sąnaudos, susijusios su gamintojo, gaminančio elektros energiją iš atsinaujinančių energijos išteklių, elektros įrenginių prijungimu prie elektros tinklų, paskirstomos tarp gamintojo ir tinklų operatoriaus [[latest/TAR.FC7AB69BE291|Atsinaujinančių išteklių energetikos įstatyme]] nustatyta tvarka ir sąlygomis. ^s-14f2025da454f4745bf42fbd
 
 
-8. Skirstomųjų tinklų operatoriaus sąnaudos, nurodytos šio straipsnio 6 ir [[#^s-14f2025da454f4745bf42fbd|7 dalyse]], apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo ar gamintojo elektros įrenginių prijungimu prie skirstomųjų tinklų. Tokias perdavimo sistemos operatoriaus sąnaudas vartotojas ir gamintojas, taikant [[#^s-ffd64c797532369459f9b6e0|šio straipsnio 6 dalyje]] nustatytą sąnaudų paskirstymo tvarką, apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriui 100 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gamintojo elektros įrenginius, arba 40 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo elektros įrenginius. Likusi nepadengta perdavimo sistemos operatoriaus sąnaudų dalis laikoma perdavimo sistemos operatoriaus tinklų plėtros išlaidomis. ^s-e06f5230705bd809ba159d42
+8. Skirstomųjų tinklų operatoriaus sąnaudos, nurodytos šio straipsnio [[#^s-ffd64c797532369459f9b6e0|6]] ir [[#^s-14f2025da454f4745bf42fbd|7]] dalyse, apima ir perdavimo sistemos operatoriaus sąnaudas, patiriamas dėl elektros perdavimo tinklų plėtros ar atnaujinimo, susijusio su atitinkamo vartotojo ar gamintojo elektros įrenginių prijungimu prie skirstomųjų tinklų. Tokias perdavimo sistemos operatoriaus sąnaudas vartotojas ir gamintojas, taikant [[#^s-ffd64c797532369459f9b6e0|šio straipsnio 6 dalyje]] nustatytą sąnaudų paskirstymo tvarką, apmoka skirstomųjų tinklų operatoriui, o skirstomųjų tinklų operatorius padengia perdavimo sistemos operatoriui 100 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant gamintojo elektros įrenginius, arba 40 procentų visų perdavimo sistemos operatoriaus sąnaudų, patirtų prijungiant vartotojo elektros įrenginius. Likusi nepadengta perdavimo sistemos operatoriaus sąnaudų dalis laikoma perdavimo sistemos operatoriaus tinklų plėtros išlaidomis. ^s-e06f5230705bd809ba159d42
 
 
 9. Tuo atveju, kai buitinis vartotojas, kurio elektros įrenginiai buvo prijungti prie elektros skirstomųjų tinklų taikant [[#^s-28199d01badc4dd77477b4ff|šio straipsnio 6 dalies 1 punkte]] nurodytą sąnaudų paskirstymo tvarką, ne vėliau kaip per 12 mėnesių nuo elektros įrenginių prijungimo momento pradeda vartoti šiais įrenginiais patiektą elektros energiją savo ar kitų asmenų ūkinės komercinės ar profesinės veiklos reikmėms tenkinti, toks vartotojas nėra laikomas buitiniu vartotoju ir, gavęs atitinkamą skirstomųjų tinklų operatoriaus reikalavimą, privalo apmokėti likusią sąnaudų dalį, apskaičiuojamą [[#^s-0bb3bc378070d7d119186acd|šio straipsnio 6 dalies 2 punkte]] nustatyta tvarka. ^s-adf10d03d35aca048263641b
@@ -2527,7 +2527,7 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 2. Perdavimo sistemos operatorius, atlikdamas jam pavestas funkcijas, gali sudaryti bendradarbiavimo susitarimus su kitų valstybių perdavimo sistemos operatoriais, reguliavimo institucijomis, pagal kompetenciją dalyvauti tarptautinių ir regioninių organizacijų, asociacijų, komitetų, komisijų ir darbo grupių veikloje. ^s-c714ce6609fd0b03c509c254
 
 
-3. Lietuvos Respublikos perdavimo sistemos operatorius dalyvauja Europos elektros energijos perdavimo sistemos operatorių tinklo, veikiančio pagal 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinantį Reglamentą (EB) Nr. 1228/2003, veikloje. ^s-89bc6aa885828234fcf8919e
+3. Lietuvos Respublikos perdavimo sistemos operatorius dalyvauja Europos elektros energijos perdavimo sistemos operatorių tinklo, veikiančio pagal 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinantį [Reglamentą (EB) Nr. 1228/2003](https://eur-lex.europa.eu/eli/reg/1228/2003/oj), veikloje. ^s-89bc6aa885828234fcf8919e
 
 
 
@@ -2595,7 +2595,7 @@ BAIGIAMOSIOS NUOSTATOS
 1. Jeigu skirstomųjų tinklų operatorius šio įstatymo įsigaliojimo dieną neatitinka šiame įstatyme nustatytų veiklos atskyrimo sąlygų ir reikalavimų, vertikaliai integruota įmonė ir skirstomųjų tinklų operatorius privalo imtis visų būtinų priemonių jiems įgyvendinti, įskaitant įmonės reorganizavimą ar kitas teisėtas priemones. ^s-e2edb738f2fe60c76eedc3af
 
 
-2. Skirstomųjų tinklų operatorius užtikrina, kad ne vėliau kaip nuo 2012 m. kovo 3 d. skirstomųjų tinklų operatoriaus, esančio vertikaliai integruotos įmonės dalimi, ir kitų su elektros energijos skirstymu nesusijusių veiklų komerciniai interesai bus atskirti, įgyvendinant šio įstatymo [[#^s-07ba7a0cab7e08d6d10e4e2a|54 straipsnio]] 1 ir 3 dalyse nustatytus reikalavimus. ^s-db5fac7e126def3d0eac416a
+2. Skirstomųjų tinklų operatorius užtikrina, kad ne vėliau kaip nuo 2012 m. kovo 3 d. skirstomųjų tinklų operatoriaus, esančio vertikaliai integruotos įmonės dalimi, ir kitų su elektros energijos skirstymu nesusijusių veiklų komerciniai interesai bus atskirti, įgyvendinant šio įstatymo [[#^s-07ba7a0cab7e08d6d10e4e2a|54 straipsnio]] [[#^s-96b4674c8c59566f5d80f379|1]] ir [[#^s-9dcc8f298fe7e3d9d0f53941|3]] dalyse nustatytus reikalavimus. ^s-db5fac7e126def3d0eac416a
 
 
 
@@ -2632,7 +2632,7 @@ Iki elektros biržos operatoriaus veiklos pradžios, kaip nurodyta šio įstatym
 1. Šio įstatymo [[#^s-4506e8bc36fcaf8fc23c0be5|27 straipsnis]] įsigalioja 2013 m. kovo 3 d. ^s-c67d937ef381c5e4b241b638
 
 
-2. Šio įstatymo [[#^s-3c2f2adf43859ff1e119d3dd|53 straipsnio 1 dalis]] taikoma perdavimo sistemos operatoriaus veiklos atskyrimui iki visiško perdavimo sistemos operatoriaus atskyrimo nuo vertikaliai integruotos įmonės šio įstatymo [[#^s-96c2737c72a45a9389c70c3d|53 straipsnio]] 2 ir [[#^s-3f3ebba93e72426acc8adb64|3 dalyse]] nustatytomis sąlygomis. ^s-5c539618db78232c8707353b
+2. Šio įstatymo [[#^s-3c2f2adf43859ff1e119d3dd|53 straipsnio 1 dalis]] taikoma perdavimo sistemos operatoriaus veiklos atskyrimui iki visiško perdavimo sistemos operatoriaus atskyrimo nuo vertikaliai integruotos įmonės šio įstatymo [[#^s-96c2737c72a45a9389c70c3d|53 straipsnio]] [[#^s-ebe9488c2ae7b7255f8058ba|2]] ir [[#^s-0053f7a70195f3563a285cd1|3]] dalyse nustatytomis sąlygomis. ^s-5c539618db78232c8707353b
 
 
 
@@ -2659,7 +2659,7 @@ priedas
 5. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 713/2009, įsteigiantis Energetikos reguliavimo institucijų bendradarbiavimo agentūrą (OL 2009 L 211, p. 1). ^s-5cbc9995309af161a663e374
 
 
-6. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinantis Reglamentą (EB) Nr. 1228/2003 (OL 2009 L 211, p. 15). ^s-74a4dbbe1c11eb8c32655a5f
+6. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinantis [Reglamentą (EB) Nr. 1228/2003](https://eur-lex.europa.eu/eli/reg/1228/2003/oj) (OL 2009 L 211, p. 15). ^s-74a4dbbe1c11eb8c32655a5f
 
 
 7. 2010 m. birželio 24 d. Tarybos reglamentas (ES, Euratomas) Nr. 617/2010 dėl pranešimo Komisijai apie energetikos infrastruktūros investicinius projektus Europos Sąjungoje ir dėl Reglamento (EB) Nr. 736/96 panaikinimo (OL 2010 L 180, p. 7). ^s-4c849e2f7bb26540b605bf2e

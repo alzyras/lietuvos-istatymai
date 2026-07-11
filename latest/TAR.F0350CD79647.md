@@ -36,7 +36,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-0dad3aeadaf00b11fd4e48cc
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. balandžio 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Madrido sutarties dėl tarptautinės ženklų registracijos protokolą“, ratifikuoja Madrido sutarties dėl tarptautinės ženklų registracijos protokolą, priimtą 1989 m.birželio 27 d. Madride.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. balandžio 8 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Madrido sutarties dėl tarptautinės ženklų registracijos protokolą“](https://e-tar.lt/portal/lt/legalAct/TAR.180780E9B57B), ratifikuoja Madrido sutarties dėl tarptautinės ženklų registracijos protokolą, priimtą 1989 m.birželio 27 d. Madride.
 
 
 

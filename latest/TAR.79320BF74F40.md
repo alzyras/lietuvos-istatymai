@@ -94,7 +94,7 @@ Asmuo įgyja teisę gauti valstybinę socialinio draudimo senatvės pensiją, ka
 2) turi minimalų valstybinio socialinio pensijų draudimo stažą, nustatytą senatvės pensijai. ^s-e8e3a96e91bc016b61252bf1
 
 
-Asmuo turi atitikti šio straipsnio pirmosios [[#^s-e8e3a96e91bc016b61252bf1|dalies 2 punkto]] reikalavimus senatvės pensijos amžiaus sukakties dieną arba kreipimosi dėl pensijos dieną, kai pensijos kreipiamasi jau sukakus pensijos amžių.“
+Asmuo turi atitikti šio straipsnio pirmosios dalies 2 punkto reikalavimus senatvės pensijos amžiaus sukakties dieną arba kreipimosi dėl pensijos dieną, kai pensijos kreipiamasi jau sukakus pensijos amžių.“
 
 
 

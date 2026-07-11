@@ -66,7 +66,7 @@ Pakeisti 11 straipsnio 6 dalį ir ją išdėstyti taip:
 3. Pakeisti 13 straipsnio 7 dalį ir ją išdėstyti taip: ^s-0fcb9cbb8e1d270409934ac5
 
 
-„7. Savivaldybės tarybos posėdžio darbotvarkė gali būti papildyta ar pakeista savivaldybės tarybos sprendimu komiteto, komisijos, frakcijos ar 1/[[#^s-0fcb9cbb8e1d270409934ac5|3 dalyvaujančių]] posėdyje tarybos narių siūlymu, jei dėl šių siūlymų sprendimų projektai įregistruoti ne vėliau kaip prieš 24 valandas iki posėdžio pradžios. Ši nuostata netaikoma siūlymams, susijusiems su norminio pobūdžio sprendimų projektų pateikimu. Ekstremaliųjų įvykių, atitinkančių Vyriausybės patvirtintus kriterijus, atvejais meras turi teisę pateikti savivaldybės tarybai svarstyti klausimą ir siūlyti priimti sprendimą skubos tvarka.“
+„7. Savivaldybės tarybos posėdžio darbotvarkė gali būti papildyta ar pakeista savivaldybės tarybos sprendimu komiteto, komisijos, frakcijos ar 1/3 dalyvaujančių posėdyje tarybos narių siūlymu, jei dėl šių siūlymų sprendimų projektai įregistruoti ne vėliau kaip prieš 24 valandas iki posėdžio pradžios. Ši nuostata netaikoma siūlymams, susijusiems su norminio pobūdžio sprendimų projektų pateikimu. Ekstremaliųjų įvykių, atitinkančių Vyriausybės patvirtintus kriterijus, atvejais meras turi teisę pateikti savivaldybės tarybai svarstyti klausimą ir siūlyti priimti sprendimą skubos tvarka.“
 
 
 4. Pakeisti 13 straipsnio 9 dalį ir ją išdėstyti taip: ^s-83d85af3c2a7b8f4b8a74c1d

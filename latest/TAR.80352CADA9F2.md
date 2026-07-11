@@ -227,7 +227,7 @@ Papildyti Įstatymą 111 straipsniu:
 1) kremavimo įmonės prašymu; ^s-c1dc6905bc49093893d89e1f
 
 
-2) jeigu buvo priimtas sprendimas sustabdyti licencijos galiojimą [[#^s-e862dbbdf68cea97457f6110|šio straipsnio 9 dalies]] 2 ar [[#^s-4ba89173a9235d354ea543c5|3 punktuose]] nurodytais pagrindais ir per šiame sprendime sustabdyti licencijos galiojimą nustatytą terminą kremavimo įmonė nepateikė dokumentų, įrodančių, kad pašalinti pažeidimai, dėl kurių licencijos galiojimas buvo sustabdytas, arba pateiktų dokumentų nepakanka nustatyti, kad nurodyti pažeidimai pašalinti, ir yra pasibaigęs pažeidimų pašalinimo terminas; ^s-a20e5d1c252a11a64dfe4218
+2) jeigu buvo priimtas sprendimas sustabdyti licencijos galiojimą [[#^s-e862dbbdf68cea97457f6110|šio straipsnio 9 dalies]] 2 ar [[#^s-4ba89173a9235d354ea543c5|3]] punktuose nurodytais pagrindais ir per šiame sprendime sustabdyti licencijos galiojimą nustatytą terminą kremavimo įmonė nepateikė dokumentų, įrodančių, kad pašalinti pažeidimai, dėl kurių licencijos galiojimas buvo sustabdytas, arba pateiktų dokumentų nepakanka nustatyti, kad nurodyti pažeidimai pašalinti, ir yra pasibaigęs pažeidimų pašalinimo terminas; ^s-a20e5d1c252a11a64dfe4218
 
 
 3) jeigu nustatoma, kad licencijos galiojimo sustabdymo metu kremavimo įmonė vykdo kremavimo veiklą; ^s-4ba89173a9235d354ea543c5
@@ -347,7 +347,7 @@ Papildyti Įstatymą 161 straipsniu:
 1) balzamavimo licencijos turėtojo prašymu; ^s-2e2b89a7da7ac82b6c70fb35
 
 
-2) jeigu buvo priimtas sprendimas sustabdyti licencijos galiojimą [[#^s-653020d0ac6d93f1701ddedf|šio straipsnio 9 dalies]] 2 ar [[#^s-d69a31a03910415a6e4713c5|3 punktuose]] nurodytais pagrindais ir per sprendime sustabdyti licencijos galiojimą nustatytą terminą balzamavimo licencijos turėtojas nepateikė dokumentų, įrodančių, kad pašalinti pažeidimai, dėl kurių licencijos galiojimas buvo sustabdytas, arba pateiktų dokumentų nepakanka nustatyti, kad nurodyti pažeidimai pašalinti, ir yra pasibaigęs pažeidimų pašalinimo terminas; ^s-cfa2d0c17dae7dc14631f77b
+2) jeigu buvo priimtas sprendimas sustabdyti licencijos galiojimą [[#^s-653020d0ac6d93f1701ddedf|šio straipsnio 9 dalies]] 2 ar [[#^s-d69a31a03910415a6e4713c5|3]] punktuose nurodytais pagrindais ir per sprendime sustabdyti licencijos galiojimą nustatytą terminą balzamavimo licencijos turėtojas nepateikė dokumentų, įrodančių, kad pašalinti pažeidimai, dėl kurių licencijos galiojimas buvo sustabdytas, arba pateiktų dokumentų nepakanka nustatyti, kad nurodyti pažeidimai pašalinti, ir yra pasibaigęs pažeidimų pašalinimo terminas; ^s-cfa2d0c17dae7dc14631f77b
 
 
 3) jeigu nustatoma, kad licencijos galiojimo sustabdymo metu balzamavimo licencijos turėtojas atlieka balzamavimą; ^s-d69a31a03910415a6e4713c5
@@ -441,7 +441,7 @@ Pakeisti [[#^s-13c3ac621f2d847d48d5bb21|21 straipsnį]] ir jį išdėstyti taip:
 2) mirusio asmens sutuoktinis, pilnamečiai vaikai (įvaikiai), tėvai (įtėviai), o jeigu jų nėra, – kiti giminaičiai ar kiti veiksnūs asmenys, galintys organizuoti laidojimą. ^s-3fdac74cd68882ca59a400df
 
 
-3. Jeigu nėra šio straipsnio 1 ir [[#^s-b85614c36c58ee68bcb81244|2 dalyse]] nurodytų ir galinčių organizuoti laidojimą asmenų arba nežinoma, kur tokie asmenys yra, laidojimą organizuoja savivaldybė, kurios teritorijoje asmuo nuolat gyveno. Jeigu asmuo neturėjo nuolatinės gyvenamosios vietos, laidojimą organizuoja savivaldybė, kurios teritorijoje buvo nustatytas mirties faktas. Šioje dalyje nurodytais atvejais laidojantis asmuo yra savivaldybės vykdomosios institucijos įgaliotas asmuo. ^s-ea724bfd5d433f538684a5a2
+3. Jeigu nėra šio straipsnio [[#^s-8290abd0498c39ac23d1497c|1]] ir [[#^s-b85614c36c58ee68bcb81244|2]] dalyse nurodytų ir galinčių organizuoti laidojimą asmenų arba nežinoma, kur tokie asmenys yra, laidojimą organizuoja savivaldybė, kurios teritorijoje asmuo nuolat gyveno. Jeigu asmuo neturėjo nuolatinės gyvenamosios vietos, laidojimą organizuoja savivaldybė, kurios teritorijoje buvo nustatytas mirties faktas. Šioje dalyje nurodytais atvejais laidojantis asmuo yra savivaldybės vykdomosios institucijos įgaliotas asmuo. ^s-ea724bfd5d433f538684a5a2
 
 
 4. Nenustatytos tapatybės žmogaus palaikų laidojimą organizuoja savivaldybės, kurios teritorijoje buvo nustatytas mirties faktas, vykdomoji institucija Vyriausybės įgaliotos institucijos nustatyta tvarka. ^s-573fa953de73d5ecc92e4123
@@ -532,7 +532,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 2. Aplinkos ministerijos regionų aplinkos apsaugos departamentai ir kitos valstybinės priežiūros institucijos pagal kompetenciją prižiūri kremavimo įmonių, balzamavimo licencijų turėtojų, laidojimo paslaugų teikėjų ir kapinių prižiūrėtojų veiklą ir kontroliuoja, kaip jie vykdo aplinkos apsaugos, asmens duomenų tvarkymo ir apsaugos reikalavimus, nustatytus šiame įstatyme ir kituose teisės aktuose. ^s-b19b2ae9a4a9c9d72611fd75
 
 
-3. Šio straipsnio 1 ir [[#^s-b19b2ae9a4a9c9d72611fd75|2 dalyse]] nurodytos institucijos, nustačiusios šio įstatymo ir kitų teisės aktų nustatytų kremavimo veiklai ir balzamavimui taikomų reikalavimų pažeidimus, gali teikti pasiūlymus kremavimo veiklos ir balzamavimo licencijas išduodančioms institucijoms dėl licencijos galiojimo sustabdymo.“ ^s-846b54619851df747151640f
+3. Šio straipsnio [[#^s-e2ee8858a41b156b4bab27d6|1]] ir [[#^s-b19b2ae9a4a9c9d72611fd75|2]] dalyse nurodytos institucijos, nustačiusios šio įstatymo ir kitų teisės aktų nustatytų kremavimo veiklai ir balzamavimui taikomų reikalavimų pažeidimus, gali teikti pasiūlymus kremavimo veiklos ir balzamavimo licencijas išduodančioms institucijoms dėl licencijos galiojimo sustabdymo.“ ^s-846b54619851df747151640f
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-3dabe1f2ffe53c4593921000
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. sausio 31 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Flandrijos Vyriausybės bendradarbiavimo sutartį“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Flandrijos Vyriausybės bendradarbiavimo sutartį, pasirašytą 1996 m. kovo 7 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. sausio 31 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Flandrijos Vyriausybės bendradarbiavimo sutartį“](https://e-tar.lt/portal/lt/legalAct/TAR.7C3BF5938694), ratifikuoja Lietuvos Respublikos Vyriausybės ir Flandrijos Vyriausybės bendradarbiavimo sutartį, pasirašytą 1996 m. kovo 7 d. Vilniuje.
 
 
 

@@ -218,13 +218,13 @@ Pakeisti [[#^s-93bcc75242975e721fa628f8|10 straipsnį]] ir jį išdėstyti taip:
 7. Asmenys, kurie eksploatuoja elektros energijos perdavimo ar skirstymo tinklus, privalo turėti [[latest/TAR.44235B485568|Energetikos įstatymo]] nustatyta tvarka išduotą atestatą, suteikiantį teisę eksploatuoti elektros įrenginius. ^s-d5241547c27c3f456e367e9a
 
 
-8. Elektros energijos perdavimo licencija išduodama asmeniui, atitinkančiam šio straipsnio 5, 6 ir [[#^s-d5241547c27c3f456e367e9a|7 dalyse]] nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais valdančiam perdavimo tinklus Lietuvos Respublikos teritorijoje. ^s-0c12e07ee80707eebb3a3043
+8. Elektros energijos perdavimo licencija išduodama asmeniui, atitinkančiam šio straipsnio [[#^s-3eaf8c1a64bd53d2c0f468f8|5]], [[#^s-0782ad7776100cace5648c09|6]] ir [[#^s-d5241547c27c3f456e367e9a|7]] dalyse nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais valdančiam perdavimo tinklus Lietuvos Respublikos teritorijoje. ^s-0c12e07ee80707eebb3a3043
 
 
-9. Elektros energijos skirstymo licencija išduodama asmeniui, atitinkančiam šio straipsnio 5, 6 ir [[#^s-d5241547c27c3f456e367e9a|7 dalyse]] nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais valdančiam skirstomuosius tinklus, tiesiogiai sujungtus su perdavimo tinklais. ^s-28fe2eeedd75b01e7ad3566f
+9. Elektros energijos skirstymo licencija išduodama asmeniui, atitinkančiam šio straipsnio [[#^s-3eaf8c1a64bd53d2c0f468f8|5]], [[#^s-0782ad7776100cace5648c09|6]] ir [[#^s-d5241547c27c3f456e367e9a|7]] dalyse nustatytus reikalavimus ir nuosavybės teise turinčiam ar kitais teisėtais pagrindais valdančiam skirstomuosius tinklus, tiesiogiai sujungtus su perdavimo tinklais. ^s-28fe2eeedd75b01e7ad3566f
 
 
-10. Elektros energijos rinkos operatoriaus licencija išduodama asmeniui, atitinkančiam šio straipsnio 5 ir [[#^s-0782ad7776100cace5648c09|6 dalyse]] nustatytus reikalavimus ir valdančiam technines priemones, reikalingas prisijungti prie perdavimo sistemos operatoriaus informacinio komplekso, ir programinę įrangą bei ryšių priemones, reikalingas elektros prekybai ir atsiskaitymams organizuoti. ^s-a432b965d42af9975b31ca30
+10. Elektros energijos rinkos operatoriaus licencija išduodama asmeniui, atitinkančiam šio straipsnio [[#^s-3eaf8c1a64bd53d2c0f468f8|5]] ir [[#^s-0782ad7776100cace5648c09|6]] dalyse nustatytus reikalavimus ir valdančiam technines priemones, reikalingas prisijungti prie perdavimo sistemos operatoriaus informacinio komplekso, ir programinę įrangą bei ryšių priemones, reikalingas elektros prekybai ir atsiskaitymams organizuoti. ^s-a432b965d42af9975b31ca30
 
 
 11. Asmenys, kurie vykdo [[#^s-5efaf1fee72ddfaf9f3e42e9|šio straipsnio 1 dalyje]] nurodytas licencijuojamos veiklos rūšis, neturi teisės įgalioti kitų asmenų vykdyti licencijoje nurodytą veiklą ir privalo laikytis šių veiklos sąlygų: ^s-63dbd55b6fec62ccfe3b1772
@@ -245,7 +245,7 @@ Pakeisti [[#^s-93bcc75242975e721fa628f8|10 straipsnį]] ir jį išdėstyti taip:
 5) užtikrinti kitų šiuo įstatymu ir kitais įstatymais nustatytų pareigų ir teisės aktais nustatytų reikalavimų laikymąsi. ^s-2cd098eafc8c26da4ebcfe63
 
 
-12. Elektros energijos perdavimo ir skirstymo licencijos turėtojas, be [[#^s-63dbd55b6fec62ccfe3b1772|šio straipsnio 11 dalyje]] nustatytų sąlygų, privalo vykdyti atitinkamai šio įstatymo 17 ir [[#^s-79c3fb634a66fe404c7bf6d8|21 straipsniuose]] nustatytas licencijuojamos veiklos sąlygas ir: ^s-d88d2a59d8cfc89c0808b338
+12. Elektros energijos perdavimo ir skirstymo licencijos turėtojas, be [[#^s-63dbd55b6fec62ccfe3b1772|šio straipsnio 11 dalyje]] nustatytų sąlygų, privalo vykdyti atitinkamai šio įstatymo [[#^s-6538af73f34785d2c342dc57|17]] ir [[#^s-79c3fb634a66fe404c7bf6d8|21]] straipsniuose nustatytas licencijuojamos veiklos sąlygas ir: ^s-d88d2a59d8cfc89c0808b338
 
 
 1) derinti su licenciją išdavusia institucija valdomo turto priežiūros ir eksploatavimo planus; ^s-7bed1f295a5d56e874ead18c
@@ -653,7 +653,7 @@ Papildyti Įstatymą 421 straipsniu:
 3. 43 straipsnio 4 dalį pripažinti netekusia galios. ^s-6755a69e4262d1fcc74629f0
 
 
-4. Buvusias 43 straipsnio 5 ir 6 dalis laikyti atitinkamai 4 ir [[#^s-41ba6e4952f43a0204470a35|5 dalimis]]. ^s-c7044e0024c9782344c65cdf
+4. Buvusias 43 straipsnio 5 ir 6 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-c7044e0024c9782344c65cdf
 
 
 5. Pakeisti 43 straipsnio 5 dalį ir ją išdėstyti taip: ^s-41ba6e4952f43a0204470a35
@@ -671,7 +671,7 @@ Papildyti Įstatymą 421 straipsniu:
 „1. Komisijai nustačius viršutines kainų ribas, konkrečias perdavimo, skirstymo ir visuomeninio tiekimo paslaugų kainas ir tarifus nustato ir keičia paslaugų teikėjai. Paslaugų teikėjo nustatytų kainų ir tarifų svertinis vidurkis kiekvienais reguliavimo periodo metais neturi viršyti atitinkamų viršutinių kainų ribų.“
 
 
-2. 44 straipsnį papildyti nauja [[#^s-49f2c74e4d6d3b47e5f5614e|2 dalimi]]: ^s-49f2c74e4d6d3b47e5f5614e
+2. 44 straipsnį papildyti nauja 2 dalimi: ^s-49f2c74e4d6d3b47e5f5614e
 
 
 „2. Visuomeninę elektros energijos kainą ir tarifus nustato visuomeniniai tiekėjai pusei kalendorinių metų. Visuomeninę elektros energijos kainą sudaro Komisijos prognozuojamos elektros energijos įsigijimo kainos, kurią moka visuomeninis tiekėjas, Komisijos paskelbtos perdavimo paslaugos, viešuosius interesus atitinkančių paslaugų, skirstymo paslaugos, visuomeninio tiekimo paslaugos kainų ir ankstesnio laikotarpio prognozuotų ir faktinių elektros energijos įsigijimo kainos, kurią faktiškai mokėjo visuomeninis tiekėjas, skirtumo, suma. Visuomeninių tiekėjų nustatytas visuomenines elektros energijos kainas ir tarifus tikrina Komisija šio straipsnio 5 dalyje nustatyta tvarka.“
@@ -693,7 +693,7 @@ Pakeisti 45 straipsnio 7 dalį ir ją išdėstyti taip:
 ### 20 straipsnis. Įstatymo įsigaliojimas ^s-65360b0efe869a1eb35baad0
 
 
-1. Šis įstatymas, išskyrus 1, 4 ir [[#^s-65360b0efe869a1eb35baad0|20 straipsnius]], įsigalioja 2010 m. sausio 1 d. ^s-473b5ebaa3994427155ac86d
+1. Šis įstatymas, išskyrus [[#^s-ee46c46049abb35270ecffa6|1]], [[#^s-24b45a100430843b513de16f|4]] ir [[#^s-65360b0efe869a1eb35baad0|20]] straipsnius, įsigalioja 2010 m. sausio 1 d. ^s-473b5ebaa3994427155ac86d
 
 
 2. Šio įstatymo [[#^s-ee46c46049abb35270ecffa6|1 straipsnis]], išskyrus [[#^s-473b5ebaa3994427155ac86d|1 dalies]] nuostatą „Lokaliojo tinklo, maitinančio galutinius vartotojus, leistinoji naudoti galia yra transformatorinės pastotės (transformatoriaus) galingumas atėmus galios nuostolius lokaliajame tinkle“ ir 15 dalį, ir [[#^s-24b45a100430843b513de16f|4 straipsnis]] įsigalioja 2009 m. gruodžio 28 d. ^s-3a85387a9b5efbdafb90a40d

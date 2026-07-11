@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.B4FAA1DD73CF#^s-9cb73c03fa3fa41bb4e5ad7f|Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas]] - 3 citatos - 1081010ISTA00X-1479
+- [[latest/TAR.B4FAA1DD73CF#^s-9cb73c03fa3fa41bb4e5ad7f|Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas]] - 2 citatos - 1081010ISTA00X-1479

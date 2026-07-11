@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 31 straipsnio pak
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.BE3136A78E80|Lietuvos Respublikos notariato įstatymas]] - 2 citatos - Notariato įstatymo
+- [[latest/TAR.BE3136A78E80|Lietuvos Respublikos notariato įstatymas]] - Notariato įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - VIETOS SAVIVALDOS ĮSTATYMO 31 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - VIETOS SAVIVALDOS ĮSTATYMO 31 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS

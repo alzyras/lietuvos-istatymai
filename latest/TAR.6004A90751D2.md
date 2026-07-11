@@ -68,7 +68,7 @@ Vyriausybė kasmet ne vėliau kaip iki gegužės 1 d. pateikia Seimui metinę at
 „Gynybos veiksmų civilinę vadovybę sudaro Respublikos Prezidentas ir krašto apsaugos ministras. Pagal demokratinės civilių kontrolės principą operacinio vadovavimo karinėms operacijoms ir kitiems gynybos veiksmams grandinė prasideda nuo Respublikos Prezidento ir per krašto apsaugos ministrą paprastai eina kariuomenės vadui, o jeigu yra išimtinių aplinkybių, – tiesiai lauko pajėgų vadui, reguliariųjų pajėgų rūšių vadams ar Savanorių pajėgų vadui.“
 
 
-2. 11 skyriaus [[#^s-194bb5e5e44280ade4a2968d|1 dalyje]] vietoj žodžių „nacionalinį saugumą stiprinančios“ įrašyti žodžius „nacionalinio saugumo stiprinimo“, pakeisti [[#^s-f4b2d1a733272bd226ea0c6f|2 dalį]] ir šį skyrių išdėstyti taip: ^s-f4b2d1a733272bd226ea0c6f
+2. 11 skyriaus [[#^s-194bb5e5e44280ade4a2968d|1 dalyje]] vietoj žodžių „nacionalinį saugumą stiprinančios“ įrašyti žodžius „nacionalinio saugumo stiprinimo“, pakeisti 2 dalį ir šį skyrių išdėstyti taip: ^s-f4b2d1a733272bd226ea0c6f
 
 
 „11 skyrius
@@ -96,7 +96,7 @@ Svarbiausios ilgalaikės nacionalinio saugumo stiprinimo valstybinės programos:
 Prireikus parengiamos ir kitos programos. Saugumo stiprinimo valstybines programas, išskyrus valstybės paslaptį sudarančias jų dalis, Vyriausybė pateikia Seimui. Dėl pateiktų programų Seimas priima nutarimą. Programos finansuojamos iš valstybės biudžeto ar kitų įstatymuose numatytų šaltinių.“
 
 
-3. 17 skyriaus pirmojo skirsnio [[#^s-ca85c2ab9fe4c29bd7096419|3 dalyje]] vietoj žodžių „generalinis kariuomenės inspektorius“ įrašyti žodžius „krašto apsaugos generalinis inspektorius“ ir šią dalį išdėstyti taip: ^s-ca85c2ab9fe4c29bd7096419
+3. 17 skyriaus pirmojo skirsnio 3 dalyje vietoj žodžių „generalinis kariuomenės inspektorius“ įrašyti žodžius „krašto apsaugos generalinis inspektorius“ ir šią dalį išdėstyti taip: ^s-ca85c2ab9fe4c29bd7096419
 
 
 „Krašto apsaugos ministras prižiūri ir kontroliuoja kariuomenės parengimą. Šią kontrolę vykdo ministrui pavaldus krašto apsaugos generalinis inspektorius.“

@@ -38,13 +38,13 @@ Vilnius
 ### 1 straipsnis. 9 straipsnio pakeitimas ^s-1d7326de5c124e22e7cac851
 
 
-1. Papildyti 9 straipsnį nauja [[#^s-ef77e0da618a9e9f246c745d|2 dalimi]]: ^s-ed62e192995187c06faf8087
+1. Papildyti [[latest/TAR.D38B48DC3EF0#^s-dae54ca7d5e52ad610c81892|9 straipsnį]] nauja [[#^s-ef77e0da618a9e9f246c745d|2 dalimi]]: ^s-ed62e192995187c06faf8087
 
 
 „2. Jeigu vienas sistemos operatorius kitam sistemos operatoriui pateikia įkaitą, susijusį su sąveikaujančia sistema, įkaitą pateikiančio sistemos operatoriaus teisėms į tą įkaitą neturi įtakos dėl įkaitą gavusio sistemos operatoriaus pradėtas bankroto procesas.“
 
 
-2. Buvusias 9 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis. ^s-ef77e0da618a9e9f246c745d
+2. Buvusias [[latest/TAR.D38B48DC3EF0#^s-dae54ca7d5e52ad610c81892|9 straipsnio]] [[latest/TAR.D38B48DC3EF0#^s-c6e7e78ed134146e0fa89089|2]] ir [[latest/TAR.D38B48DC3EF0#^s-79c0d7b34df2b02765830126|3]] dalis laikyti atitinkamai [[latest/TAR.D38B48DC3EF0#^s-79c0d7b34df2b02765830126|3]] ir [[latest/TAR.D38B48DC3EF0#^s-74d68b63bb15586e4f15ed71|4]] dalimis. ^s-ef77e0da618a9e9f246c745d
 
 
 
@@ -62,7 +62,7 @@ priedas
 
 
 
-1. 1998 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 98/26/EB dėl atsiskaitymų baigtinumo mokėjimų ir vertybinių popierių atsiskaitymų sistemose (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 107) su paskutiniais pakeitimais, padarytais 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (OL 2012 L 201, p. 1).“ ^s-4e6aef9b7ec40f9a9c8ab9a1
+1. 1998 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 98/26/EB dėl atsiskaitymų baigtinumo mokėjimų ir vertybinių popierių atsiskaitymų sistemose (OL 2004 m. specialusis leidimas, [[latest/TAR.D38B48DC3EF0|6 skyrius]], 3 tomas, p. 107) su paskutiniais pakeitimais, padarytais 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų (OL 2012 L 201, p. 1).“ ^s-4e6aef9b7ec40f9a9c8ab9a1
 
 
 

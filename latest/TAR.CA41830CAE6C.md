@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-423f177dc385624412e86e5a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. spalio 13 d. dekretą Nr. 88, ratifikuoja 1951 m. rugsėjo 20 d. Otavoje priimtą Susitarimą dėl Šiaurės Atlanto Sutarties Organizacijos, valstybių atstovų ir tarptautinio personalo statuso.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. spalio 13 d. dekretą Nr. 88](https://e-tar.lt/portal/lt/legalAct/TAR.551E04337CBE), ratifikuoja 1951 m. rugsėjo 20 d. Otavoje priimtą Susitarimą dėl Šiaurės Atlanto Sutarties Organizacijos, valstybių atstovų ir tarptautinio personalo statuso.
 
 
 

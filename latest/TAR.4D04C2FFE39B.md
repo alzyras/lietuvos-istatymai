@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis.         Valstybės ir tarnybos paslapčių įstatymo, pakeisto 2003 m. gruodžio 16 d. įstatymu Nr. IX-1908, 7 straipsnio 2 dalies 23 punkto pripažinimas netekusiu galios ^s-3babb625baf10b1579544e24
 
 
-7 straipsnio 2 dalies 23 punktą pripažinti netekusiu galios.
+[[latest/TAR.83D9F662C0E4#^s-b5f7cab8374118d9b80ff4ed|7 straipsnio 2 dalies 23 punktą]] pripažinti netekusiu galios.
 
 
 

@@ -10,7 +10,7 @@ pavadinimas: "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 2,
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - Aplinkos apsaugos rėmimo programos įstatyme
-- [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas]] - 2 citatos - Lietuvos Respublikos   mokesčio už aplinkos teršimą įstatymo
+- [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas]] - 2 citatos - mokesčio už aplinkos teršimą įstatymo
 
 ## Šį įstatymą cituoja
 

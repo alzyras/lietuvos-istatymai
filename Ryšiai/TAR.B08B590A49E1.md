@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldyb
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D641C5B5ADFD|Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 7 citatos - 2008 m. gruodžio 22 d. įstatymo Nr. XI-96
+- [[latest/TAR.D641C5B5ADFD|Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 7 citatos - įstatymo Nr. XI-96
 
 ## Šį įstatymą cituoja
 

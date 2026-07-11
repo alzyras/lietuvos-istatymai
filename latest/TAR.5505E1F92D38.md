@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sprendimo ratifikavimas ^s-c88fc067e9f35cacf3888505
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. lapkričio 14 d. dekretą Nr. 1555, ratifikuoja Lietuvos ir ELPA jungtinio komiteto sprendimą Nr.2/2000 „B protokolo pakeitimai“, pasirašytą 2000 m. gruodžio 7 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. lapkričio 14 d. dekretą Nr. 1555](https://e-tar.lt/portal/lt/legalAct/TAR.F396A1EFFBAC), ratifikuoja Lietuvos ir ELPA jungtinio komiteto sprendimą Nr.2/2000 „B protokolo pakeitimai“, pasirašytą 2000 m. gruodžio 7 d. Ženevoje.
 
 
 

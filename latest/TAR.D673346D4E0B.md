@@ -70,7 +70,7 @@ Papildyti 17 straipsnį 91 dalimi:
 2. Pakeisti 18 straipsnio 5 dalį ir ją išdėstyti taip: ^s-47cf40042e391abec9fa4118
 
 
-„5. Pasibaigus kalendoriniams metams, asmenys, nurodyti šio Įstatymo 17 straipsnio 3 ir [[#^s-3cfde6cc627c0189dd4c2aa3|4 dalyse]], taip pat paslaugų teikėjai, teikiantys žemės ūkio ar miškininkystės paslaugas pagal paslaugų kvitą, nurodyti šio Įstatymo 17 straipsnio 91 dalyje, turi perskaičiuoti už praėjusius kalendorinius metus mokėtinas privalomojo sveikatos draudimo įmokas, atsižvelgdami į šio Įstatymo 17 straipsnio 3, 4, 91, 10 ir 11 dalių nuostatas, ir ne vėliau kaip iki gegužės 1 dienos sumokėti per praėjusius kalendorinius metus sumokėtos privalomojo sveikatos draudimo įmokų sumos ir mokėtinos privalomojo sveikatos draudimo įmokų sumos skirtumą.“
+„5. Pasibaigus kalendoriniams metams, asmenys, nurodyti šio Įstatymo 17 straipsnio 3 ir 4 dalyse, taip pat paslaugų teikėjai, teikiantys žemės ūkio ar miškininkystės paslaugas pagal paslaugų kvitą, nurodyti šio Įstatymo 17 straipsnio 91 dalyje, turi perskaičiuoti už praėjusius kalendorinius metus mokėtinas privalomojo sveikatos draudimo įmokas, atsižvelgdami į šio Įstatymo 17 straipsnio 3, 4, 91, 10 ir 11 dalių nuostatas, ir ne vėliau kaip iki gegužės 1 dienos sumokėti per praėjusius kalendorinius metus sumokėtos privalomojo sveikatos draudimo įmokų sumos ir mokėtinos privalomojo sveikatos draudimo įmokų sumos skirtumą.“
 
 
 3. Papildyti 18 straipsnį nauja 8 dalimi: ^s-fce7dc7573202d225df48966

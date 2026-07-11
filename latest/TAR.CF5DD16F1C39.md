@@ -47,7 +47,7 @@ Vilnius
 „3. Finansinės priemonės:
 
 
-1) suderintajam kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektui (toliau – suderintasis kolektyvinio investavimo subjektas) – kaip tai apibrėžta [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] 1–4 punktuose; ^s-40f8baf69ee214e9b5d0c65a
+1) suderintajam kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektui (toliau – suderintasis kolektyvinio investavimo subjektas) – kaip tai apibrėžta [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-058ef0e4834e6f1ad4368f73|1]]–[[latest/TAR.AB7AFE2F35B2#^s-71078f5c7f1fdabf0a7adbe6|4]] punktuose; ^s-40f8baf69ee214e9b5d0c65a
 
 
 2) specialiajam kolektyvinio investavimo subjektui – kaip tai apibrėžta [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalyje]].“ ^s-303a9b361896cfa8a0a4743b
@@ -59,7 +59,7 @@ Vilnius
 „10. Investicinės priemonės:
 
 
-1) suderintajam kolektyvinio investavimo subjektui – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] 1–4 punktuose nurodytos finansinės priemonės, taip pat indėliai, nekilnojamasis ir kilnojamasis turtas, būtini tiesioginei investicinės kintamojo kapitalo bendrovės veiklai; ^s-fd60d9d8e5e0c703610ca3d7
+1) suderintajam kolektyvinio investavimo subjektui – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-058ef0e4834e6f1ad4368f73|1]]–[[latest/TAR.AB7AFE2F35B2#^s-71078f5c7f1fdabf0a7adbe6|4]] punktuose nurodytos finansinės priemonės, taip pat indėliai, nekilnojamasis ir kilnojamasis turtas, būtini tiesioginei investicinės kintamojo kapitalo bendrovės veiklai; ^s-fd60d9d8e5e0c703610ca3d7
 
 
 2) specialiajam kolektyvinio investavimo subjektui – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalyje]] nurodytos finansinės priemonės, taip pat indėliai, nekilnojamasis turtas ir jam eksploatuoti būtinas kilnojamasis turtas bei įrenginiai.“ ^s-37469bb02954725090253085
@@ -71,10 +71,10 @@ Vilnius
 „14. Išvestinės finansinės priemonės:
 
 
-1) suderintajam kolektyvinio investavimo subjektui – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] 1–4 punktuose nurodytos finansinės priemonės, kurių vertė keičiasi priklausomai nuo palūkanų normos, perleidžiamųjų vertybinių popierių kainos, valiutos keitimo kurso arba finansinio indekso; ^s-3c36fd3515ed2f5799ce5fae
+1) suderintajam kolektyvinio investavimo subjektui – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-058ef0e4834e6f1ad4368f73|1]]–[[latest/TAR.AB7AFE2F35B2#^s-71078f5c7f1fdabf0a7adbe6|4]] punktuose nurodytos finansinės priemonės, kurių vertė keičiasi priklausomai nuo palūkanų normos, perleidžiamųjų vertybinių popierių kainos, valiutos keitimo kurso arba finansinio indekso; ^s-3c36fd3515ed2f5799ce5fae
 
 
-2) specialiajam kolektyvinio investavimo subjektui – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] 4–10 punktuose nurodytos finansinės priemonės, kurių vertė priklauso nuo vienos ar kelių finansinių priemonių vertės.“ ^s-69b761015d0583646b96eca9
+2) specialiajam kolektyvinio investavimo subjektui – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-71078f5c7f1fdabf0a7adbe6|4]]–[[latest/TAR.AB7AFE2F35B2|10]] punktuose nurodytos finansinės priemonės, kurių vertė priklauso nuo vienos ar kelių finansinių priemonių vertės.“ ^s-69b761015d0583646b96eca9
 
 
 4. Pakeisti 2 straipsnio 25 dalį ir ją išdėstyti taip: ^s-de6271483ebeb41b1e48e711

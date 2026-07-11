@@ -216,16 +216,16 @@ Papildyti Įstatymą 81 straipsniu:
 ### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-64903e6c40916e14191e12e4
 
 
-1. Šio įstatymo [[#^s-a39cb5af38728df7fc9d9147|7 straipsnio]], kuriuo [[latest/TAR.F62AD965997D#^s-16453507bf47afa5ec5b1b84|Lietuvos Respublikos šilumos ūkio įstatymo 32 straipsnis]] papildomas naujomis 3 ir [[#^s-82dded815add4988cd8fc572|4 dalimis]], nuostatos, susijusios su vidutinės biokuro kainos taikymu, galioja nuo 2014 m. sausio 1 d. iki 2016 m. sausio 1 d. ^s-93300e7b3a0aa92429a8513c
+1. Šio įstatymo [[#^s-a39cb5af38728df7fc9d9147|7 straipsnio]], kuriuo [[latest/TAR.F62AD965997D#^s-16453507bf47afa5ec5b1b84|Lietuvos Respublikos šilumos ūkio įstatymo 32 straipsnis]] papildomas naujomis [[latest/TAR.F62AD965997D#^s-9f53439328fdd9acc1837e8e|3]] ir [[latest/TAR.F62AD965997D#^s-7950a617678efde0462a1bb2|4]] dalimis, nuostatos, susijusios su vidutinės biokuro kainos taikymu, galioja nuo 2014 m. sausio 1 d. iki 2016 m. sausio 1 d. ^s-93300e7b3a0aa92429a8513c
 
 
-2. Nuo 2016 m. sausio 1 d. galioja šio įstatymo [[#^s-a39cb5af38728df7fc9d9147|7 straipsnio]], kuriuo [[latest/TAR.F62AD965997D#^s-16453507bf47afa5ec5b1b84|Lietuvos Respublikos šilumos ūkio įstatymo 32 straipsnis]] papildomas naujomis 3 ir [[#^s-82dded815add4988cd8fc572|4 dalimis]], nuostatos, susijusios su vidutinės biokuro biržos kainos taikymu. ^s-bb209d759515eff7adc3cb09
+2. Nuo 2016 m. sausio 1 d. galioja šio įstatymo [[#^s-a39cb5af38728df7fc9d9147|7 straipsnio]], kuriuo [[latest/TAR.F62AD965997D#^s-16453507bf47afa5ec5b1b84|Lietuvos Respublikos šilumos ūkio įstatymo 32 straipsnis]] papildomas naujomis [[latest/TAR.F62AD965997D#^s-9f53439328fdd9acc1837e8e|3]] ir [[latest/TAR.F62AD965997D#^s-7950a617678efde0462a1bb2|4]] dalimis, nuostatos, susijusios su vidutinės biokuro biržos kainos taikymu. ^s-bb209d759515eff7adc3cb09
 
 
 3. Lietuvos Respublikos Vyriausybė ir (ar) jos įgaliota institucija, Valstybinė kainų ir energetikos kontrolės komisija per 2 mėnesius nuo šio įstatymo oficialaus paskelbimo priima šio įstatymo įgyvendinamuosius teisės aktus, išskyrus [[#^s-b74d6dd309a1b4d07a8e28ca|šio straipsnio 5 dalyje]] nurodytą Nacionalinę šilumos ūkio plėtros programą. ^s-469cd4adb8af268e2784660c
 
 
-4. Prireikus Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija per 6 mėnesius nuo šio įstatymo oficialaus paskelbimo parengia ir pateikia Lietuvos Respublikos Seimui šio įstatymo [[#^s-1161a100b379215519af2f3f|3 straipsnyje]] išdėstyto Lietuvos Respublikos šilumos ūkio įstatymo 7 straipsnio 1 dalies 6 punkte numatyto įstatymo projektą. ^s-82dded815add4988cd8fc572
+4. Prireikus Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija per 6 mėnesius nuo šio įstatymo oficialaus paskelbimo parengia ir pateikia Lietuvos Respublikos Seimui šio įstatymo [[#^s-1161a100b379215519af2f3f|3 straipsnyje]] išdėstyto [[latest/TAR.F62AD965997D|Lietuvos Respublikos šilumos ūkio įstatymo 7 straipsnio 1 dalies 6 punkte]] numatyto įstatymo projektą. ^s-82dded815add4988cd8fc572
 
 
 5. Lietuvos Respublikos energetikos ministerija per 6 mėnesius nuo šio įstatymo oficialaus paskelbimo parengia ir pateikia Lietuvos Respublikos Vyriausybei tvirtinti Nacionalinę šilumos ūkio plėtros programą. ^s-b74d6dd309a1b4d07a8e28ca

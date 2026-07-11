@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 10 straipsnio 1, 2 ir 3 dalių pakeitimas ^s-d6040d9dee49f5556e2ae434
 
 
-1. Pakeisti 10 straipsnio 1 dalies 2 punktą, dalį papildyti nauju [[#^s-bb5a9feafd16335aea21440f|3 punktu]], buvusius 3, 4, 5, [[#^s-f6eb4a92e533b1e6e3ba2499|6 punktus]] laikyti atitinkamai 4, 5, 6, [[#^s-72fd5ab87ebb91c40b1bddd2|7 punktais]] ir šią dalį išdėstyti taip: ^s-03007ba3972b12fdb3d9092d
+1. Pakeisti 10 straipsnio 1 dalies 2 punktą, dalį papildyti nauju [[#^s-bb5a9feafd16335aea21440f|3 punktu]], buvusius 3, 4, 5, 6 punktus laikyti atitinkamai 4, 5, 6, 7 punktais ir šią dalį išdėstyti taip: ^s-03007ba3972b12fdb3d9092d
 
 
 „1. Į karjeros valstybės tarnautojo pareigas priima:
@@ -66,7 +66,7 @@ Vilnius
 7) kituose teismuose – teismo pirmininkas.“ ^s-72fd5ab87ebb91c40b1bddd2
 
 
-2. Pakeisti 10 straipsnio 2 dalies 2 ir [[#^s-2bdfaad0d0212ffa6ad63f0a|3 punktus]] ir šią dalį išdėstyti taip: ^s-091737ff5de9a11e656e6fbb
+2. Pakeisti 10 straipsnio 2 dalies 2 ir 3 punktus ir šią dalį išdėstyti taip: ^s-091737ff5de9a11e656e6fbb
 
 
 „2. Į įstaigų vadovų pareigas priima:

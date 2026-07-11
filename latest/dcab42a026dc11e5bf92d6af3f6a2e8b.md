@@ -155,7 +155,7 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki vienerių metų.“
 3. Pakeisti 281 straipsnio 9 dalį ir ją išdėstyti taip: ^s-39e5320c9813a41fefcfc877
 
 
-„9. Laikoma, kad šio straipsnio 2, 4 ar 6 dalyje numatytą veiką padaręs asmuo yra apsvaigęs nuo alkoholio, kai jo kraujyje yra 0,41 promilės ir daugiau alkoholio arba kai jis vengia neblaivumo patikrinimo arba vartojo alkoholį po eismo įvykio iki jo aplinkybių nustatymo.“
+„9. Laikoma, kad šio straipsnio [[#^s-6a1e887f215e12ce89e10219|2]], 4 ar 6 dalyje numatytą veiką padaręs asmuo yra apsvaigęs nuo alkoholio, kai jo kraujyje yra 0,41 promilės ir daugiau alkoholio arba kai jis vengia neblaivumo patikrinimo arba vartojo alkoholį po eismo įvykio iki jo aplinkybių nustatymo.“
 
 
 

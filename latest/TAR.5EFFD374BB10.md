@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-13e33124d5f47e7adf7709f9
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2004 m. lapkričio 5 d. dekretą Nr. 124, ratifikuoja 2003 m. rugsėjo 15 d. Jerevane pasirašytą Lietuvos Respublikos ir Armėnijos Respublikos sutartį dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento [2004 m. lapkričio 5 d. dekretą Nr. 124](https://e-tar.lt/portal/lt/legalAct/TAR.291DC96DEB5C), ratifikuoja 2003 m. rugsėjo 15 d. Jerevane pasirašytą Lietuvos Respublikos ir Armėnijos Respublikos sutartį dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose.
 
 
 

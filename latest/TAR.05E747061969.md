@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 3 straipsnio pakeitimas ^s-b41ba36d5168fbf98ac437d1
 
 
-3 straipsnio 1 dalies antrame sakinyje vietoj žodžių „ir pirmininko kandidatūrą“ įrašyti žodžius „komisijos pirmininko ir pirmininko pavaduotojo kandidatūras“, 2 ir [[#^s-1bb55f2bc82d08ea1c8e5935|3 dalyse]] vietoj žodžių „apskrities taryba“ įrašyti žodžius „regiono plėtros taryba“, 4 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
+3 straipsnio 1 dalies antrame sakinyje vietoj žodžių „ir pirmininko kandidatūrą“ įrašyti žodžius „komisijos pirmininko ir pirmininko pavaduotojo kandidatūras“, [[#^s-babb3f869d5e872fd4fe877b|2]] ir [[#^s-1bb55f2bc82d08ea1c8e5935|3]] dalyse vietoj žodžių „apskrities taryba“ įrašyti žodžius „regiono plėtros taryba“, 4 dalį pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-def48ce48d9e09eaa13c0983|3 straipsnis]]. Savivaldybės ir apskrities administracinių ginčų komisijos sudarymas
@@ -58,7 +58,7 @@ Vilnius
 ### 2 straipsnis. 6 straipsnio pakeitimas ir papildymas ^s-5f2c2098c449ad28667cb9bd
 
 
-6 straipsnį papildyti nauja [[#^s-57a4d76d3195f09052031e77|2 dalimi]], buvusias 2 ir [[#^s-6ecd8a56b3c8da215c2a25d8|3 dalis]] laikyti atitinkamai 3 ir [[#^s-45100a18735d6d5a85bd6b9e|4 dalimis]], [[#^s-45100a18735d6d5a85bd6b9e|4 dalyje]] vietoj žodžių „apskrities tarybai“ įrašyti žodžius „regiono plėtros tarybai“ ir visą straipsnį išdėstyti taip:
+6 straipsnį papildyti nauja [[#^s-57a4d76d3195f09052031e77|2 dalimi]], buvusias 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis, [[#^s-45100a18735d6d5a85bd6b9e|4 dalyje]] vietoj žodžių „apskrities tarybai“ įrašyti žodžius „regiono plėtros tarybai“ ir visą straipsnį išdėstyti taip:
 
 
 „6 straipsnis. Savivaldybės ir apskrities administracinių ginčų komisijos darbo tvarka

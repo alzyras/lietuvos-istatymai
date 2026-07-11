@@ -192,7 +192,7 @@ Pakeisti [[#^s-41c981768610b0fba1004465|9 straipsnį]] ir jį išdėstyti taip:
 4) įmokų valstybinės socialinio draudimo pensijos pagrindinei ir papildomai dalims gauti tarifai; ^s-8748bed819a4077663a2be03
 
 
-5) nedarbo socialinio draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms užimtumo rėmimo priemonėms įgyvendinti dydis; ^s-88a1a968eceef711db46d97b
+5) nedarbo socialinio draudimo lėšų [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytoms užimtumo rėmimo priemonėms įgyvendinti dydis; ^s-88a1a968eceef711db46d97b
 
 
 6) įmokų savanoriškojo pensijų socialinio draudimo pagrindinei ir papildomai pensijos dalims gauti tarifai; ^s-ca1c66d5c7807eef413ede03

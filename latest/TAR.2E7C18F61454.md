@@ -41,116 +41,116 @@ CIVILINIO PROCESO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR ĮGYVENDINIMO
 ### 1 straipsnis. Lietuvos Respublikos civilinio proceso kodekso patvirtinimas ^s-95734a11f0418862d9c5bbb1
 
 
-Šiuo Įstatymu Seimas patvirtina Lietuvos Respublikos civilinio proceso kodeksą (toliau – Civilinio proceso kodeksas).
+Šiuo Įstatymu Seimas patvirtina Lietuvos Respublikos civilinio proceso kodeksą (toliau – [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F)).
 
 
 
 ### 2 straipsnis. Civilinio proceso kodekso įsigaliojimas ^s-d4b64193913d501bfaa6a353
 
 
-Civilinio proceso kodeksas įsigalioja nuo 2003 m. sausio 1 d.
+[Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigalioja nuo 2003 m. sausio 1 d.
 
 
 
 ### 3 straipsnis. Civilinio proceso kodekso normų, reglamentuojančių atstovavimą, taikymas ^s-7f7f5c313a3bf0b47fb42acc
 
 
-Asmenys, kurie netenka teisės atstovauti kitiems asmenims pagal Civilinio proceso kodeksą, tačiau yra pateikę teismui įgalinimus iki Civilinio proceso kodekso įsigaliojimo, turi teisę atstovauti neviršydami įgaliojime ar kitame dokumente, patvirtinančiame asmens įgalinimus, numatytų įgalinimų iki įgaliojimo ar kito dokumento, patvirtinančio asmens įgalinimus, termino pabaigos ar kitaip pasibaigus įgalinimams, bet ne ilgiau kaip iki sprendimo toje byloje įsiteisėjimo.
+Asmenys, kurie netenka teisės atstovauti kitiems asmenims pagal Civilinio proceso kodeksą, tačiau yra pateikę teismui įgalinimus iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo, turi teisę atstovauti neviršydami įgaliojime ar kitame dokumente, patvirtinančiame asmens įgalinimus, numatytų įgalinimų iki įgaliojimo ar kito dokumento, patvirtinančio asmens įgalinimus, termino pabaigos ar kitaip pasibaigus įgalinimams, bet ne ilgiau kaip iki sprendimo toje byloje įsiteisėjimo.
 
 
 
 ### 4 straipsnis. Civilinio proceso kodekso 29 straipsnio ir 123 straipsnio 4 dalies nuostatų, susijusių su juridinių asmenų registru, taikymas ^s-c06b3c82a10ce915db899ffa
 
 
-Civilinio proceso kodekso [[#^s-d24a57fde6d14bf2d773ea81|29 straipsnio]] ir [[#^s-869af72ab46cd9566a96110b|123 straipsnio 4 dalies]] nuostatos, susijusios su juridinių asmenų registru, taikomos nuo juridinių asmenų registro veiklos pradžios. Iki juridinių asmenų registro veiklos pradžios Civilinio proceso kodekso [[#^s-d24a57fde6d14bf2d773ea81|29 straipsnio]] ir [[#^s-869af72ab46cd9566a96110b|123 straipsnio 4 dalyje]] nurodyta informacija nustatoma pagal įmonių rejestro ar kitų juridinius asmenis registruojančių registrų duomenis.
+[Civilinio proceso kodekso 29 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir [[#^s-869af72ab46cd9566a96110b|123 straipsnio 4 dalies]] nuostatos, susijusios su juridinių asmenų registru, taikomos nuo juridinių asmenų registro veiklos pradžios. Iki juridinių asmenų registro veiklos pradžios [Civilinio proceso kodekso 29 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir [[#^s-869af72ab46cd9566a96110b|123 straipsnio 4 dalyje]] nurodyta informacija nustatoma pagal įmonių rejestro ar kitų juridinius asmenis registruojančių registrų duomenis.
 
 
 
 ### 5 straipsnis. Civilinio proceso kodekso nuostatų, reglamentuojančių bylinėjimosi išlaidas, taikymas ^s-94b474ca1facd779157acaab
 
 
-1. Už ieškinį (pareiškimus, prašymus), pateiktą iki Civilinio proceso kodekso įsigaliojimo, žyminis mokestis mokamas pagal procesines teisės normas, galiojusias iki šio Kodekso įsigaliojimo. ^s-db9031b1a370b2fe30e4da06
+1. Už ieškinį (pareiškimus, prašymus), pateiktą iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo, žyminis mokestis mokamas pagal procesines teisės normas, galiojusias iki šio Kodekso įsigaliojimo. ^s-db9031b1a370b2fe30e4da06
 
 
-2. Už apeliacinius skundus, atskiruosius skundus ar kasacinius skundus dėl bylų, kurios atitinkamai pirmosios instancijos teisme ar apeliacinės instancijos teisme buvo nagrinėjamos pagal teisės normas, galiojusias iki Civilinio proceso kodekso įsigaliojimo, žyminis mokestis mokamas vadovaujantis iki Civilinio proceso kodekso įsigaliojimo galiojusiomis procesinėmis teisės normomis, jei jos nustato mažesnį žyminį mokestį. ^s-87e7e73c139b6de0359e98c0
+2. Už apeliacinius skundus, atskiruosius skundus ar kasacinius skundus dėl bylų, kurios atitinkamai pirmosios instancijos teisme ar apeliacinės instancijos teisme buvo nagrinėjamos pagal teisės normas, galiojusias iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo, žyminis mokestis mokamas vadovaujantis iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo galiojusiomis procesinėmis teisės normomis, jei jos nustato mažesnį žyminį mokestį. ^s-87e7e73c139b6de0359e98c0
 
 
-3. Šio Įstatymo 3 straipsnyje nurodytu atveju bylinėjimosi (teismo) išlaidos atstovo pagalbai apmokėti priteisiamos pagal procesines teisės normas, galiojusias iki Civilinio proceso kodekso įsigaliojimo. ^s-c4b0077feaeeebb62adff3f3
+3. Šio Įstatymo 3 straipsnyje nurodytu atveju bylinėjimosi (teismo) išlaidos atstovo pagalbai apmokėti priteisiamos pagal procesines teisės normas, galiojusias iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo. ^s-c4b0077feaeeebb62adff3f3
 
 
 
 ### 6 straipsnis. Bylų nagrinėjimas pirmosios instancijos teisme ^s-369e4afd6e54299f53fed8c4
 
 
-1. Pirmosios instancijos teismai iki Civilinio proceso kodekso įsigaliojimo priimtus ieškinius (pareiškimus, prašymus) išnagrinėja pagal procesines teisės normas, galiojusias iki šio Kodekso įsigaliojimo. ^s-1812089460c7068f2cc2dd75
+1. Pirmosios instancijos teismai iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo priimtus ieškinius (pareiškimus, prašymus) išnagrinėja pagal procesines teisės normas, galiojusias iki šio Kodekso įsigaliojimo. ^s-1812089460c7068f2cc2dd75
 
 
-2. Kai apeliacinės instancijos ar kasacinis teismas priima sprendimą perduoti bylą pirmosios instancijos teismui nagrinėti iš naujo, pirmosios instancijos teismas ją nagrinėja pagal Civilinio proceso kodeksą. Šiuo atveju netaikomi Civilinio proceso kodekso 141, 142, [[#^s-f8d947ce24a488cccc6128bc|143 straipsniuose]] numatyti apribojimai ir jų nesilaikymo pasekmės. ^s-a1565df23c672c87a39b225e
+2. Kai apeliacinės instancijos ar kasacinis teismas priima sprendimą perduoti bylą pirmosios instancijos teismui nagrinėti iš naujo, pirmosios instancijos teismas ją nagrinėja pagal Civilinio proceso kodeksą. Šiuo atveju netaikomi [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) [141](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [142](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [143](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) straipsniuose numatyti apribojimai ir jų nesilaikymo pasekmės. ^s-a1565df23c672c87a39b225e
 
 
-3. Bylas, priimtas savo žinion pagal teismingumo taisykles, galiojusias iki Civilinio proceso kodekso įsigaliojimo, teismas išsprendžia iš esmės, nors pagal Civilinio proceso kodeksą byla būtų teisminga kitam teismui. ^s-943719a8d1470810d740a20c
+3. Bylas, priimtas savo žinion pagal teismingumo taisykles, galiojusias iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo, teismas išsprendžia iš esmės, nors pagal Civilinio proceso kodeksą byla būtų teisminga kitam teismui. ^s-943719a8d1470810d740a20c
 
 
 
 ### 7 straipsnis. Bylų nagrinėjimas apeliacinės instancijos teisme ^s-3171132e91ab3577fdd1d41d
 
 
-1. Bylose, kuriose sprendimai pirmosios instancijos teisme priimti iki Civilinio proceso kodekso įsigaliojimo, apeliaciniai skundai ar atskirieji skundai dėl jų išnagrinėjami pagal procesines teisės normas, galiojusias iki šio Kodekso įsigaliojimo. ^s-3a77f4a3a13f7222cf6d0793
+1. Bylose, kuriose sprendimai pirmosios instancijos teisme priimti iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo, apeliaciniai skundai ar atskirieji skundai dėl jų išnagrinėjami pagal procesines teisės normas, galiojusias iki šio Kodekso įsigaliojimo. ^s-3a77f4a3a13f7222cf6d0793
 
 
 2. Kai kasacinis teismas priima nutartį perduoti bylą iš naujo nagrinėti apeliacinės instancijos teismui, apeliacinės instancijos teismas ją nagrinėja pagal Civilinio proceso kodeksą. ^s-54253da70e60ff82d137e274
 
 
-3. Civilinio proceso kodekso [[#^s-7dd26c1d89bd68a693870ee7|303 straipsnyje]] nustatytas apeliacijos ribojimas netaikomas ieškinio pareiškimams, kurie buvo priimti iki Civilinio proceso kodekso įsigaliojimo. ^s-9dac6e7a9165adca2804b6ed
+3. [Civilinio proceso kodekso 303 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytas apeliacijos ribojimas netaikomas ieškinio pareiškimams, kurie buvo priimti iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo. ^s-9dac6e7a9165adca2804b6ed
 
 
 
 ### 8 straipsnis. Bylų nagrinėjimas kasacine tvarka ^s-f7cf7469c8e26909b5eb2f87
 
 
-Bylose, kuriose sprendimai ar nutartys apeliacinės instancijos teisme priimti iki Civilinio proceso kodekso įsigaliojimo, kasaciniai skundai dėl šių sprendimų ar nutarčių išnagrinėjami pagal procesines, įskaitant reglamentuojančias atstovavimą, teisės normas, galiojusias iki šio Kodekso įsigaliojimo.
+Bylose, kuriose sprendimai ar nutartys apeliacinės instancijos teisme priimti iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo, kasaciniai skundai dėl šių sprendimų ar nutarčių išnagrinėjami pagal procesines, įskaitant reglamentuojančias atstovavimą, teisės normas, galiojusias iki šio Kodekso įsigaliojimo.
 
 
 
 ### 9 straipsnis. Prašymų atnaujinti procesą nagrinėjimas ^s-5b1c5a7115c3712711338079
 
 
-Prašymai atnaujinti procesą, priimti iki Civilinio proceso kodekso įsigaliojimo, nagrinėjami pagal procesines teisės normas, galiojusias iki šio Kodekso įsigaliojimo.
+Prašymai atnaujinti procesą, priimti iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo, nagrinėjami pagal procesines teisės normas, galiojusias iki šio Kodekso įsigaliojimo.
 
 
 
 ### 10 straipsnis. Vykdomųjų dokumentų vykdymas ^s-79d94ba08fa0685235a06bdb
 
 
-1. Vykdomieji dokumentai dėl piniginių sumų išieškojimo, gauti vykdyti teismo antstolių kontoroje iki Civilinio proceso kodekso įsigaliojimo, užbaigiami vykdyti pagal procesines teisės normas, galiojusias iki šio Kodekso įsigaliojimo, išskyrus šiame straipsnyje nustatytus atvejus. Kiti vykdomieji dokumentai, taip pat vykdomieji dokumentai, gauti vykdyti teismo antstolių kontoroje įsigaliojus Civilinio proceso kodeksui (nesvarbu, ar jie pirmą ar pakartotinį kartą teikiami teismo antstolių kontorai), vykdomi pagal Civilinio proceso kodeksą. ^s-bdbfe5445d589cf854a035e4
+1. Vykdomieji dokumentai dėl piniginių sumų išieškojimo, gauti vykdyti teismo antstolių kontoroje iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo, užbaigiami vykdyti pagal procesines teisės normas, galiojusias iki šio Kodekso įsigaliojimo, išskyrus šiame straipsnyje nustatytus atvejus. Kiti vykdomieji dokumentai, taip pat vykdomieji dokumentai, gauti vykdyti teismo antstolių kontoroje įsigaliojus Civilinio proceso kodeksui (nesvarbu, ar jie pirmą ar pakartotinį kartą teikiami teismo antstolių kontorai), vykdomi pagal Civilinio proceso kodeksą. ^s-bdbfe5445d589cf854a035e4
 
 
-2. Taikant iki Civilinio proceso kodekso įsigaliojimo galiojusias teisės normas, reglamentuojančias teismo sprendimų vykdymo procesą, visus procesinius veiksmus, kuriuos turėtų atlikti vyresnysis teismo antstolis, atlieka apylinkės teismo, prie kurio yra teismo antstolių kontora, teisėjas. ^s-029705ce7c039e391167177e
+2. Taikant iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo galiojusias teisės normas, reglamentuojančias teismo sprendimų vykdymo procesą, visus procesinius veiksmus, kuriuos turėtų atlikti vyresnysis teismo antstolis, atlieka apylinkės teismo, prie kurio yra teismo antstolių kontora, teisėjas. ^s-029705ce7c039e391167177e
 
 
-3. Raginimas įvykdyti sprendimą pagal vykdomuosius dokumentus, išduotus iki Civilinio proceso kodekso įsigaliojimo, tačiau gautus vykdyti teismo antstolių kontoroje po šio Kodekso įsigaliojimo, siunčiamas ar įteikiamas pagal Civilinio proceso kodeksą. ^s-d453840461c774e336bdaa75
+3. Raginimas įvykdyti sprendimą pagal vykdomuosius dokumentus, išduotus iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo, tačiau gautus vykdyti teismo antstolių kontoroje po šio Kodekso įsigaliojimo, siunčiamas ar įteikiamas pagal Civilinio proceso kodeksą. ^s-d453840461c774e336bdaa75
 
 
-4. Vykdomosiose bylose, kuriose po Civilinio proceso kodekso įsigaliojimo išieškojimas vykdomas pagal procesines teisės normas, galiojusias iki šio Kodekso įsigaliojimo, tačiau kuriose teismo antstolis turtą areštuoja po šio Kodekso įsigaliojimo, nuo turto arešto akto surašymo momento toliau išieškojimas iš šio turto vykdomas pagal Civilinio proceso kodeksą. ^s-aff14abf3741becedb4238b5
+4. Vykdomosiose bylose, kuriose po [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo išieškojimas vykdomas pagal procesines teisės normas, galiojusias iki šio Kodekso įsigaliojimo, tačiau kuriose teismo antstolis turtą areštuoja po šio Kodekso įsigaliojimo, nuo turto arešto akto surašymo momento toliau išieškojimas iš šio turto vykdomas pagal Civilinio proceso kodeksą. ^s-aff14abf3741becedb4238b5
 
 
 5. Vykdant išieškojimą iš skolininko darbo užmokesčio ir iš kitų jam prilygintų išmokų bei davinių, neatsižvelgiant į tai, kada pradėtas vykdyti vykdomasis dokumentas, įsigaliojus Civilinio proceso kodeksui išieškojimas vykdomas pagal jame nustatytus dydžius. ^s-bb163eea563e432677bda275
 
 
-6. Civilinio proceso kodekso nustatytas 10 metų senaties įsiteisėjusio teismo sprendimo pateikimo vykdyti terminas taikomas, jeigu šis terminas prasidėjo įsigaliojus šiam Kodeksui, taip pat jei iki Civilinio proceso kodekso įsigaliojimo nustatytas 3 metų įsiteisėjusio teismo sprendimo pateikimo vykdyti terminas yra nepasibaigęs iki šio Civilinio proceso kodekso įsigaliojimo. Iki šio Kodekso įsigaliojimo praėjusi senaties įsiteisėjusio teismo sprendimo pateikimo vykdyti termino dalis įskaitoma į šio Kodekso nustatytą senaties įsiteisėjusio teismo sprendimo pateikimo vykdyti terminą. ^s-424735485cb9acd45b495071
+6. [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytas 10 metų senaties įsiteisėjusio teismo sprendimo pateikimo vykdyti terminas taikomas, jeigu šis terminas prasidėjo įsigaliojus šiam Kodeksui, taip pat jei iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo nustatytas 3 metų įsiteisėjusio teismo sprendimo pateikimo vykdyti terminas yra nepasibaigęs iki šio [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo. Iki šio Kodekso įsigaliojimo praėjusi senaties įsiteisėjusio teismo sprendimo pateikimo vykdyti termino dalis įskaitoma į šio Kodekso nustatytą senaties įsiteisėjusio teismo sprendimo pateikimo vykdyti terminą. ^s-424735485cb9acd45b495071
 
 
-7. Institucijos ar įstaigos, pagal įstatymus ar kitus teisės aktus turėjusios teisę priimti sprendimus, kurie iki Civilinio proceso kodekso įsigaliojimo buvo laikomi vykdomaisiais dokumentais, ir toliau turi teisę išduoti šiuos vykdomuosius dokumentus ir šie dokumentai vykdomi pagal Civilinio proceso kodeksą, jei įstatymai nenustato kitaip. ^s-2ca51a9a3abf3c848ddf46e1
+7. Institucijos ar įstaigos, pagal įstatymus ar kitus teisės aktus turėjusios teisę priimti sprendimus, kurie iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo buvo laikomi vykdomaisiais dokumentais, ir toliau turi teisę išduoti šiuos vykdomuosius dokumentus ir šie dokumentai vykdomi pagal Civilinio proceso kodeksą, jei įstatymai nenustato kitaip. ^s-2ca51a9a3abf3c848ddf46e1
 
 
-8. Iki [[latest/TAR.94F5702CA0F1|Antstolių įstatymo]] įsigaliojimo dienos Civilinio proceso kodekse numatyti mokėjimai ir pervedimai į antstolio depozitinę sąskaitą atliekami į teismo antstolių kontoros depozitinę sąskaitą. ^s-b7eaf36b8622670bf6a9eaf2
+8. Iki [[latest/TAR.94F5702CA0F1|Antstolių įstatymo]] įsigaliojimo dienos [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) numatyti mokėjimai ir pervedimai į antstolio depozitinę sąskaitą atliekami į teismo antstolių kontoros depozitinę sąskaitą. ^s-b7eaf36b8622670bf6a9eaf2
 
 
 
 ### 11 straipsnis. Tarptautinis procesas ^s-d092e687aae53c27260640f8
 
 
-Prašymai dėl užsienio teismų sprendimų pripažinimo ir vykdymo, gauti iki Civilinio proceso kodekso įsigaliojimo, nagrinėjami pagal procesines teisės normas, galiojusias iki šio Kodekso įsigaliojimo.
+Prašymai dėl užsienio teismų sprendimų pripažinimo ir vykdymo, gauti iki [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo, nagrinėjami pagal procesines teisės normas, galiojusias iki šio Kodekso įsigaliojimo.
 
 
 
@@ -172,7 +172,7 @@ Prašymai dėl užsienio teismų sprendimų pripažinimo ir vykdymo, gauti iki C
 4) sprendimų vykdymo instrukciją. ^s-e6e4aca24c3931a7828ab8ab
 
 
-2. Vyriausybė iki 2002 m. rugsėjo 1 d., atsižvelgdama į Civilinio proceso kodeksą, parengia ir pateikia Seimui Įmonių bankroto įstatymo pakeitimo įstatymo, Įmonių restruktūrizavimo įstatymo pakeitimo įstatymo ir [[latest/TAR.9F4371AB03A3|Advokatūros įstatymo]] pakeitimo įstatymo projektus. ^s-f299e643cb3c9a0e4b055dbc
+2. Vyriausybė iki 2002 m. rugsėjo 1 d., atsižvelgdama į Civilinio proceso kodeksą, parengia ir pateikia Seimui Įmonių bankroto įstatymo pakeitimo įstatymo, [Įmonių restruktūrizavimo įstatymo pakeitimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.1412C382D30A) ir [[latest/TAR.9F4371AB03A3|Advokatūros įstatymo]] pakeitimo įstatymo projektus. ^s-f299e643cb3c9a0e4b055dbc
 
 
 3. Teisingumo ministras iki 2002 m. rugsėjo 1 d. patvirtina: ^s-cb11277fbf2a64e4320eb98d
@@ -190,7 +190,7 @@ Prašymai dėl užsienio teismų sprendimų pripažinimo ir vykdymo, gauti iki C
 4) procesinių dokumentų formas pagal atskiras reikalavimų rūšis. ^s-decd72491fe462d0eaaab002
 
 
-4. Teisingumo ministerija sudaro sąlygas nuo Civilinio proceso kodekso įsigaliojimo skelbti apie visą iš varžytynių parduodamą turtą viename tinklapyje internete. ^s-c66eb1cff3a8b232a1640cc2
+4. Teisingumo ministerija sudaro sąlygas nuo [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigaliojimo skelbti apie visą iš varžytynių parduodamą turtą viename tinklapyje internete. ^s-c66eb1cff3a8b232a1640cc2
 
 
 
@@ -206,13 +206,13 @@ Prašymai dėl užsienio teismų sprendimų pripažinimo ir vykdymo, gauti iki C
 2. Įsigaliojus Civilinio proceso kodeksui, netenka galios šie teisės aktai: ^s-0076c8fe99576817304ef9ec
 
 
-1) Lietuvos Respublikos civilinio proceso kodeksas (Žin., 1964, Nr. 19-139; 1966, Nr. 33-238; 1967, Nr. 36-349; 1968, Nr. 9-64; 1970, Nr. 6-37; 1972, Nr. 21-161, Nr. 30-241; 1973, Nr. 31-275; 1975, Nr. 9-72; 1977, Nr. 30-396; 1981, Nr. 16-183, Nr. 21-268, Nr. 28-331; 1982, Nr. 12-100, Nr. 14-128; 1984, Nr. 34-390; 1985, Nr. 7-61, Nr. 8-73; 1986, Nr. 4-32; 1987, Nr. 36-429; 1988, Nr. 4-29, Nr. 17-160; 1989, Nr. 27-330; 1991, Nr. 5-134, Nr. 33-891; 1993, Nr. 6-113, Nr. 54-1051, Nr. 62-1168; 1994, Nr. 43-776, Nr. 51-949, Nr. 58-1131, 1134, Nr. 93-1809; 1995, Nr. 19-435, Nr. 44-1079, Nr. 51-1244, Nr. 55-1353, Nr. 59-1482, Nr. 63-1580, Nr. 104-2325, Nr. 106-2351, 2354, Nr. 107-2397, 2412; 1996, Nr. 4-90, Nr. 16-413, Nr. 41-991, Nr. 67-1602, 1606, Nr. 73-1744, Nr. 110-2506; 1997, Nr. 39-952, Nr. 63-1471, Nr. 64-1496, 1510, Nr. 66-1613, Nr. 99-2503, Nr. 104-2619, 2624, Nr. 108-2730, Nr. 117-3009, Nr. 118-3044; 1998, Nr. 26-673, Nr. 38-1000, Nr. 55-1517, Nr. 66-1911, Nr. 112-3106, Nr. 115-3232; 1999, Nr. 11-242, Nr. 13-312, Nr. 23-648, Nr. 32-901, 904, Nr. 36-1065, 1069, Nr. 43-1360, Nr. 63-2059, Nr. 101-2900, Nr. 113-3287; 2000, Nr. 32-887, Nr. 54-1555, Nr. 56-1641, Nr. 64-1929, Nr. 85-2571, Nr. 89-2746, Nr. 92-2870, Nr. 113-3604; 2001, Nr. 23-763, Nr. 31-1013, Nr. 55-1947); ^s-aabea3576924268960ca5ac9
+1) [Lietuvos Respublikos civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) (Žin., 1964, Nr. 19-139; 1966, Nr. 33-238; 1967, Nr. 36-349; 1968, Nr. 9-64; 1970, Nr. 6-37; 1972, Nr. 21-161, Nr. 30-241; 1973, Nr. 31-275; 1975, Nr. 9-72; 1977, Nr. 30-396; 1981, Nr. 16-183, Nr. 21-268, Nr. 28-331; 1982, Nr. 12-100, Nr. 14-128; 1984, Nr. 34-390; 1985, Nr. 7-61, Nr. 8-73; 1986, Nr. 4-32; 1987, Nr. 36-429; 1988, Nr. 4-29, Nr. 17-160; 1989, Nr. 27-330; 1991, Nr. 5-134, Nr. 33-891; 1993, Nr. 6-113, Nr. 54-1051, Nr. 62-1168; 1994, Nr. 43-776, Nr. 51-949, Nr. 58-1131, 1134, Nr. 93-1809; 1995, Nr. 19-435, Nr. 44-1079, Nr. 51-1244, Nr. 55-1353, Nr. 59-1482, Nr. 63-1580, Nr. 104-2325, Nr. 106-2351, 2354, Nr. 107-2397, 2412; 1996, Nr. 4-90, Nr. 16-413, Nr. 41-991, Nr. 67-1602, 1606, Nr. 73-1744, Nr. 110-2506; 1997, Nr. 39-952, Nr. 63-1471, Nr. 64-1496, 1510, Nr. 66-1613, Nr. 99-2503, Nr. 104-2619, 2624, Nr. 108-2730, Nr. 117-3009, Nr. 118-3044; 1998, Nr. 26-673, Nr. 38-1000, Nr. 55-1517, Nr. 66-1911, Nr. 112-3106, Nr. 115-3232; 1999, Nr. 11-242, Nr. 13-312, Nr. 23-648, Nr. 32-901, 904, Nr. 36-1065, 1069, Nr. 43-1360, Nr. 63-2059, Nr. 101-2900, Nr. 113-3287; 2000, Nr. 32-887, Nr. 54-1555, Nr. 56-1641, Nr. 64-1929, Nr. 85-2571, Nr. 89-2746, Nr. 92-2870, Nr. 113-3604; 2001, Nr. 23-763, Nr. 31-1013, Nr. 55-1947); ^s-aabea3576924268960ca5ac9
 
 
-2) Lietuvos Respublikos hipotekos įstatymas (Žin., 1992, Nr. 31-951; 1994, Nr. 76-1419; 1996, Nr. 100-2264; 1997, Nr. 63-1468; 1998, Nr. 31-822; 1999, Nr. 101-2901; 2000, Nr. 75-2268, Nr. 85-2586; 2001, Nr. 55-1941); ^s-9d4cd450176ed44a2af4edc4
+2) [Lietuvos Respublikos hipotekos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B) (Žin., 1992, Nr. 31-951; 1994, Nr. 76-1419; 1996, Nr. 100-2264; 1997, Nr. 63-1468; 1998, Nr. 31-822; 1999, Nr. 101-2901; 2000, Nr. 75-2268, Nr. 85-2586; 2001, Nr. 55-1941); ^s-9d4cd450176ed44a2af4edc4
 
 
-3) Lietuvos Respublikos kilnojamojo turto įkeitimo įstatymas (Žin., 1997, Nr. 60-1400, Nr. 117-3008; 1998, Nr. 31-821; 1999, Nr. 99-2843; 2001, Nr. 55-1942). ^s-88ae6aeeb6b3c90d516320cf
+3) [Lietuvos Respublikos kilnojamojo turto įkeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.6E6D07011CF5) (Žin., 1997, Nr. 60-1400, Nr. 117-3008; 1998, Nr. 31-821; 1999, Nr. 99-2843; 2001, Nr. 55-1942). ^s-88ae6aeeb6b3c90d516320cf
 
 
 
@@ -282,7 +282,7 @@ Civilinio proceso tikslai – ginti asmenų, kurių materialinės subjektinės t
 ### 3 straipsnis. Bylų nagrinėjimas pagal galiojančią teisę ^s-4c7444b7965572408b488a1d
 
 
-1. Teismas privalo nagrinėti bylas vadovaudamasis Lietuvos Respublikos Konstitucija (toliau – Konstitucija), Lietuvos Respublikos tarptautinėmis sutartimis, Lietuvos Respublikos įstatymais, kitais teisės aktais. Teismas, aiškindamas ir taikydamas įstatymus bei kitus teisės aktus, privalo vadovautis teisingumo, sąžiningumo ir protingumo principais. ^s-22e33c6543f873b9f02a81ac
+1. Teismas privalo nagrinėti bylas vadovaudamasis [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) (toliau – Konstitucija), Lietuvos Respublikos tarptautinėmis sutartimis, Lietuvos Respublikos įstatymais, kitais teisės aktais. Teismas, aiškindamas ir taikydamas įstatymus bei kitus teisės aktus, privalo vadovautis teisingumo, sąžiningumo ir protingumo principais. ^s-22e33c6543f873b9f02a81ac
 
 
 2. Lietuvos Respublikos tarptautinių sutarčių ar įstatymų numatytais atvejais užsienio teisę taiko, aiškina bei jos turinį nustato teismas savo iniciatyva (ex officio). ^s-3de18a87522c9eef7fd11986
@@ -655,7 +655,7 @@ Nr. XI-2090, 2012-06-21, Žin., 2012, Nr. 76-3933 (2012-06-30)
 2. Jeigu iškyla abejonių arba galiojančių įstatymų kolizija dėl konkretaus ginčo priskyrimo teismui ar kitai institucijai, ginčas nagrinėjamas teisme. ^s-8acf77ca97ff3cab6aa53cec
 
 
-3. Šio straipsnio 1 ir [[#^s-8acf77ca97ff3cab6aa53cec|2 dalių]] nuostatos netaikomos, kai šalys yra sudariusios susitarimą perduoti ginčą spręsti arbitražo tvarka. ^s-9a09cf1b0b2bbdadec4203aa
+3. Šio straipsnio [[#^s-566d695b86b9642631c1251b|1]] ir [[#^s-8acf77ca97ff3cab6aa53cec|2]] dalių nuostatos netaikomos, kai šalys yra sudariusios susitarimą perduoti ginčą spręsti arbitražo tvarka. ^s-9a09cf1b0b2bbdadec4203aa
 Papildyta straipsnio dalimi:
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
@@ -676,7 +676,7 @@ Civilines bylas nagrinėja apylinkės ir apygardos teismai, kaip pirmosios insta
 ### 26 straipsnis. Civilinių bylų rūšinis teismingumas ^s-34b3a1591e94d3aed7a8ef37
 
 
-Visas civilines bylas pirmąja instancija nagrinėja apylinkės teismai, išskyrus bylas, nurodytas šio Kodekso 27, [[#^s-674c83279313ed2e0f0455a5|28 straipsniuose]].
+Visas civilines bylas pirmąja instancija nagrinėja apylinkės teismai, išskyrus bylas, nurodytas šio Kodekso [[#^s-1888c32bad3ad678aa217c6d|27]], [[#^s-674c83279313ed2e0f0455a5|28]] straipsniuose.
 
 
 Straipsnio pakeitimai:
@@ -694,7 +694,7 @@ Apygardos teismai, kaip pirmosios instancijos teismai, nagrinėja civilines byla
 Straipsnio punkto pakeitimai:
 Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
-TAR pastaba. [[#^s-99d8d4940cae30d8c9c98af7|1 punkto]] nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+TAR pastaba. 1 punkto nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
 Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
 
 
@@ -852,7 +852,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 ### 34 straipsnis. Teismo priimtos savo žinion bylos perdavimas kitam teismui ^s-e4da980e7d95f961f6416f73
 
 
-1. Teismas, laikydamasis teismingumo taisyklių, priimtą bylą turi išspręsti iš esmės, nors vėliau ji taptų teisminga kitam teismui, išskyrus šio straipsnio 5, 6 ir [[#^s-e77e0bfc0c41633da645011f|7 dalyse]] numatytus atvejus. ^s-8335e567ece76a3f62db3918
+1. Teismas, laikydamasis teismingumo taisyklių, priimtą bylą turi išspręsti iš esmės, nors vėliau ji taptų teisminga kitam teismui, išskyrus šio straipsnio [[#^s-40d7c25bfa2cbdb2c33992ba|5]], [[#^s-3deef2b572af6ee002608d4e|6]] ir [[#^s-e77e0bfc0c41633da645011f|7]] dalyse numatytus atvejus. ^s-8335e567ece76a3f62db3918
 
 
 2. Teismas nutartimi perduoda bylą nagrinėti kitam teismui arba kitiems teismo rūmams: ^s-271e001e2f53bc5b4928ee2e
@@ -903,7 +903,7 @@ Nr. XII-2479, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17983
 
 1. Kiekvieną bylą, iš vieno teismo perduotą nagrinėti kitam teismui šio Kodekso [[#^s-e4da980e7d95f961f6416f73|34 straipsnyje]] numatytais atvejais ir tvarka, turi besąlygiškai priimti savo žinion tas teismas, kuriam ji perduota, ir jokie ginčai dėl to tarp teismų neleidžiami. ^s-0b47c67760ed88aa2611df2d
 Straipsnio dalies pakeitimai:
-TAR pastaba. [[#^s-0b47c67760ed88aa2611df2d|1 dalies]] nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+TAR pastaba. 1 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
 Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
 
 
@@ -1312,7 +1312,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 2. Juridinių asmenų atstovais pagal pavedimą teisme gali būti: ^s-122bdfd255ff67089a2d8ad8
 
 
-1) [[#^s-96c0f797d0ba18fbbd9c631e|šio straipsnio 1 dalies]] 1, 2, 3, 6 punktuose nurodyti asmenys; ^s-a064c61005e80843fe9e03aa
+1) [[#^s-96c0f797d0ba18fbbd9c631e|šio straipsnio 1 dalies]] 1, [[#^s-efd10b7bef5d733c18ae3d4d|2]], [[#^s-f84364b25c8a8d9b25d5af18|3]], 6 punktuose nurodyti asmenys; ^s-a064c61005e80843fe9e03aa
 Straipsnio punkto pakeitimai:
 Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
 
@@ -1346,13 +1346,13 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 1. Atstovo pagal pavedimą teisės turi būti išreikštos įstatymų nustatyta tvarka išduotame ir įformintame įgaliojime. ^s-e14646075753979ddb5997ee
 
 
-2. Fizinių asmenų duodami įgaliojimai patvirtinami notarine tvarka, išskyrus Civiliniame kodekse numatytus atvejus, kai įgaliojimo patvirtinimas yra prilyginamas notariniam jo patvirtinimui. Šio Kodekso [[#^s-96c0f797d0ba18fbbd9c631e|56 straipsnio 1 dalies]] 5 ir 6 punktuose numatytais atvejais, kai bylą teisme veda atitinkamai profesinės sąjungos ar asociacijos arba kito viešojo juridinio asmens darbuotojai, turintys aukštąjį universitetinį teisinį išsilavinimą, taip pat šio Kodekso [[#^s-122bdfd255ff67089a2d8ad8|56 straipsnio 2 dalyje]] numatytu atveju įgaliojimus Civilinio kodekso nustatyta tvarka gali išduoti atitinkamo juridinio asmens organas, o šio Kodekso [[#^s-7df76491aad8270a2e6370c8|56 straipsnio 1 dalies 7 punkte]] numatytu atveju – atstovaujamas antstolis. ^s-49019a792a0329b7503c2a9c
+2. Fizinių asmenų duodami įgaliojimai patvirtinami notarine tvarka, išskyrus Civiliniame kodekse numatytus atvejus, kai įgaliojimo patvirtinimas yra prilyginamas notariniam jo patvirtinimui. Šio Kodekso [[#^s-96c0f797d0ba18fbbd9c631e|56 straipsnio 1 dalies]] [[#^s-653972f9471416491c02571d|5]] ir [[#^s-8a219820b712ac560dcf90ea|6]] punktuose numatytais atvejais, kai bylą teisme veda atitinkamai profesinės sąjungos ar asociacijos arba kito viešojo juridinio asmens darbuotojai, turintys aukštąjį universitetinį teisinį išsilavinimą, taip pat šio Kodekso [[#^s-122bdfd255ff67089a2d8ad8|56 straipsnio 2 dalyje]] numatytu atveju įgaliojimus Civilinio kodekso nustatyta tvarka gali išduoti atitinkamo juridinio asmens organas, o šio Kodekso [[#^s-7df76491aad8270a2e6370c8|56 straipsnio 1 dalies 7 punkte]] numatytu atveju – atstovaujamas antstolis. ^s-49019a792a0329b7503c2a9c
 
 
-3. Advokato arba advokato padėjėjo teisės ir pareigos bei jų mastas patvirtinami rašytine su klientu sudaryta sutartimi ar jos išrašu. Tuo atveju, kai yra teikiama valstybės garantuojama teisinė pagalba, advokato teises ir pareigas bei jų mastą patvirtina [[latest/TAR.EAA93A47BAA1|Valstybės garantuojamos teisinės pagalbos įstatyme]] nurodyti dokumentai. Šio Kodekso [[#^s-96c0f797d0ba18fbbd9c631e|56 straipsnio 1 dalies]] 5 ir 6 punktuose numatytais atvejais profesinės sąjungos ar asociacijos arba kito viešojo juridinio asmens teisės ir pareigos patvirtinamos atstovaujamo asmens (profesinės sąjungos nario ar asociacijos arba kito viešojo juridinio asmens dalyvio) ir atitinkamai profesinės sąjungos ar asociacijos arba kito viešojo juridinio asmens rašytine sutartimi. ^s-da49067532291107ff473c98
+3. Advokato arba advokato padėjėjo teisės ir pareigos bei jų mastas patvirtinami rašytine su klientu sudaryta sutartimi ar jos išrašu. Tuo atveju, kai yra teikiama valstybės garantuojama teisinė pagalba, advokato teises ir pareigas bei jų mastą patvirtina [[latest/TAR.EAA93A47BAA1|Valstybės garantuojamos teisinės pagalbos įstatyme]] nurodyti dokumentai. Šio Kodekso [[#^s-96c0f797d0ba18fbbd9c631e|56 straipsnio 1 dalies]] [[#^s-653972f9471416491c02571d|5]] ir [[#^s-8a219820b712ac560dcf90ea|6]] punktuose numatytais atvejais profesinės sąjungos ar asociacijos arba kito viešojo juridinio asmens teisės ir pareigos patvirtinamos atstovaujamo asmens (profesinės sąjungos nario ar asociacijos arba kito viešojo juridinio asmens dalyvio) ir atitinkamai profesinės sąjungos ar asociacijos arba kito viešojo juridinio asmens rašytine sutartimi. ^s-da49067532291107ff473c98
 
 
-4. Šio Kodekso [[#^s-96c0f797d0ba18fbbd9c631e|56 straipsnio 1 dalies]] 3 ir 4 punktuose nurodytos atstovo teisės gali būti išreiškiamos teisme žodiniu įgaliotojo pareiškimu, kuris turi būti įrašytas į teismo posėdžio protokolą, jei posėdžio eiga fiksuojama. Kitais atvejais įgaliojimas turi būti patvirtintas [[#^s-49019a792a0329b7503c2a9c|šio straipsnio 2 dalyje]] nustatyta tvarka. ^s-859e63fdf4e5973162e41e37
+4. Šio Kodekso [[#^s-96c0f797d0ba18fbbd9c631e|56 straipsnio 1 dalies]] [[#^s-cdd3acb4addfa54164991722|3]] ir [[#^s-5cdf4278ff936b72a6e39478|4]] punktuose nurodytos atstovo teisės gali būti išreiškiamos teisme žodiniu įgaliotojo pareiškimu, kuris turi būti įrašytas į teismo posėdžio protokolą, jei posėdžio eiga fiksuojama. Kitais atvejais įgaliojimas turi būti patvirtintas [[#^s-49019a792a0329b7503c2a9c|šio straipsnio 2 dalyje]] nustatyta tvarka. ^s-859e63fdf4e5973162e41e37
 
 
 Straipsnio pakeitimai:
@@ -1591,7 +1591,7 @@ Be šio Kodekso [[#^s-a649fc5c7bb6c4980d42d90e|65 straipsnyje]] numatytų pagrin
 ### 67 straipsnis. Pagrindai ekspertui, vertėjui, teismo posėdžio sekretoriui nušalinti ^s-f111d3f37b097efb178da8dd
 
 
-1. Pagrindai, nurodyti šio Kodekso [[#^s-4259e632190fb1eaa065df79|65 straipsnio 1 dalies]] 1–5 punktuose, taikomi taip pat ekspertui, vertėjui ir teismo posėdžio sekretoriui. ^s-e4dd6f772fc1c1a08516e9a9
+1. Pagrindai, nurodyti šio Kodekso [[#^s-4259e632190fb1eaa065df79|65 straipsnio 1 dalies]] [[#^s-d233ff12fc38ac9ab99304e2|1]]–[[#^s-214788f1910f002313064fd2|5]] punktuose, taikomi taip pat ekspertui, vertėjui ir teismo posėdžio sekretoriui. ^s-e4dd6f772fc1c1a08516e9a9
 
 
 2. Ekspertas taip pat negali dalyvauti nagrinėjant bylą, jeigu: ^s-334a14fa8d780a7d837a36dc
@@ -1610,7 +1610,7 @@ Be šio Kodekso [[#^s-a649fc5c7bb6c4980d42d90e|65 straipsnyje]] numatytų pagrin
 ### 68 straipsnis. Pareiškimai dėl nušalinimų ^s-d2afc15b39d6cc958b9d8d8c
 
 
-1. Jeigu yra aplinkybių, nurodytų šio Kodekso 65, 66 ir [[#^s-f111d3f37b097efb178da8dd|67 straipsniuose]], teisėjas, ekspertas, vertėjas, teismo posėdžio sekretorius privalo pareikšti, kad jie patys nusišalina. Tais pačiais pagrindais nušalinimą gali pareikšti dalyvaujantys byloje asmenys. ^s-6af02712d5b4fb7dcf3dea55
+1. Jeigu yra aplinkybių, nurodytų šio Kodekso [[#^s-a649fc5c7bb6c4980d42d90e|65]], [[#^s-80e4ab3ac678ba7e2bedd1c6|66]] ir [[#^s-f111d3f37b097efb178da8dd|67]] straipsniuose, teisėjas, ekspertas, vertėjas, teismo posėdžio sekretorius privalo pareikšti, kad jie patys nusišalina. Tais pačiais pagrindais nušalinimą gali pareikšti dalyvaujantys byloje asmenys. ^s-6af02712d5b4fb7dcf3dea55
 
 
 2. Nušalinimas turi būti motyvuotas ir pareiškiamas (žodžiu arba raštu) prieš pradedant nagrinėti bylą iš esmės. Vėliau pareikšti nušalinimą leidžiama tik tais atvejais, kada pareiškiantis nušalinimą asmuo apie pagrindą nušalinti sužino vėliau. Rašytiniame procese nušalinimas turi būti pareiškiamas raštu. ^s-d780980435dd5d221e172ec3
@@ -1645,7 +1645,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 4. Jeigu bylą nagrinėja teisėjų kolegija ir nušalinimas pareiškiamas ne visiems kolegijos nariams, nušalinimo klausimą išsprendžia teisėjai (teisėjas), kuriems nušalinimas nėra pareikštas. Jeigu balsų už ir prieš nušalinimą yra po lygiai, teisėjas laikomas nušalintu. ^s-c30cbb6c32d71efe8692bc90
 
 
-5. Jeigu dalyvaujantis byloje asmuo piktnaudžiauja nušalinimo teise, bylą nagrinėjantis teisėjas ar teisėjų kolegija išsprendžia nušalinimo klausimą ir pagal šio Kodekso [[#^s-155fa54b6dc8c6f918fbf68a|95 straipsnio 2 dalį]] priima nutartį dėl baudos šiam asmeniui skyrimo. Teisę skirti baudą piktnaudžiaujančiam nušalinimo teise asmeniui turi ir [[#^s-211264bf4c0c67ed9d3c9d59|šio straipsnio 1 dalyje]] nurodyti asmenys, kurie sprendžia teisėjo (teisėjų) nušalinimo klausimą. ^s-e18f53c25df8a5398500106d
+5. Jeigu dalyvaujantis byloje asmuo piktnaudžiauja nušalinimo teise, bylą nagrinėjantis teisėjas ar teisėjų kolegija išsprendžia nušalinimo klausimą ir pagal šio Kodekso [[#^s-155fa54b6dc8c6f918fbf68a|95 straipsnio 2 dalį]] priima nutartį [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) šiam asmeniui skyrimo. Teisę skirti baudą piktnaudžiaujančiam nušalinimo teise asmeniui turi ir [[#^s-211264bf4c0c67ed9d3c9d59|šio straipsnio 1 dalyje]] nurodyti asmenys, kurie sprendžia teisėjo (teisėjų) nušalinimo klausimą. ^s-e18f53c25df8a5398500106d
 
 
 Straipsnio pakeitimai:
@@ -1927,7 +1927,7 @@ Nr. XIII-2223, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10337
 
 7. Šiame straipsnyje nurodytus procesinius dokumentus ir jų priedus pateikiant teismui tik elektroninių ryšių priemonėmis bei išreiškus pageidavimą procesinius dokumentus gauti tik šiomis priemonėmis, mokama 75 procentai už atitinkamą procesinį dokumentą mokėtinos žyminio mokesčio sumos, bet ne mažiau kaip penki eurai. ^s-2f8ed48fb352622b556be595
 Straipsnio dalies pakeitimai:
-TAR pastaba. [[#^s-2f8ed48fb352622b556be595|7 dalies]] nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+TAR pastaba. 7 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
 Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
 
 
@@ -2145,7 +2145,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 3. Jeigu šalis bylos nagrinėjimo metu atsisako procesinius dokumentus gauti tik elektroninių ryšių priemonėmis ir buvo taikyta šio Kodekso [[#^s-2f8ed48fb352622b556be595|80 straipsnio 7 dalyje]] nurodyta žyminio mokesčio lengvata, šalis primoka trūkstamą žyminio mokesčio dalį. ^s-bbeeb91909232072420bee08
 Papildyta straipsnio dalimi:
-TAR pastaba. [[#^s-bbeeb91909232072420bee08|3 dalies]] nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+TAR pastaba. 3 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
 Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
 
 
@@ -2369,7 +2369,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 3. Šiame straipsnyje išdėstytos taisyklės taikomos taip pat ir tam žyminiam mokesčiui, kurį šalys įmoka paduodamos apeliacinius ir kasacinius skundus, taip pat prašymus dėl proceso atnaujinimo. ^s-7659441725deddf3f1f6def0
 
 
-4. Teismas gali nukrypti nuo šio straipsnio 1, 2 ir [[#^s-7659441725deddf3f1f6def0|3 dalyse]] nustatytų bylinėjimosi išlaidų paskirstymo taisyklių, atsižvelgdamas į tai, ar šalių procesinis elgesys buvo tinkamas, ir įvertindamas priežastis, dėl kurių susidarė bylinėjimosi išlaidos. Šalies procesinis elgesys laikomas tinkamu, jeigu ji sąžiningai naudojosi procesinėmis teisėmis ir sąžiningai atliko procesines pareigas. Teismas, nustatęs, kad šalis neargumentuotai atsisakė pasinaudoti privalomąja mediacija arba prašymą perduoti ginčą spręsti mediacijos būdu pareiškė nesąžiningai, arba nesąžiningai naudojosi mediacija, arba mediacijos metu reiškė nesąžiningus prašymus, taip pat gali nukrypti nuo šio straipsnio 1, 2 ir [[#^s-7659441725deddf3f1f6def0|3 dalyse]] nustatytų bylinėjimosi išlaidų paskirstymo taisyklių. ^s-927d70ac20243e713f1c7d47
+4. Teismas gali nukrypti nuo šio straipsnio [[#^s-9f07769257d5fb95d5ec9610|1]], [[#^s-f1683d959a37a4942243be64|2]] ir [[#^s-7659441725deddf3f1f6def0|3]] dalyse nustatytų bylinėjimosi išlaidų paskirstymo taisyklių, atsižvelgdamas į tai, ar šalių procesinis elgesys buvo tinkamas, ir įvertindamas priežastis, dėl kurių susidarė bylinėjimosi išlaidos. Šalies procesinis elgesys laikomas tinkamu, jeigu ji sąžiningai naudojosi procesinėmis teisėmis ir sąžiningai atliko procesines pareigas. Teismas, nustatęs, kad šalis neargumentuotai atsisakė pasinaudoti privalomąja mediacija arba prašymą perduoti ginčą spręsti mediacijos būdu pareiškė nesąžiningai, arba nesąžiningai naudojosi mediacija, arba mediacijos metu reiškė nesąžiningus prašymus, taip pat gali nukrypti nuo šio straipsnio [[#^s-9f07769257d5fb95d5ec9610|1]], [[#^s-f1683d959a37a4942243be64|2]] ir [[#^s-7659441725deddf3f1f6def0|3]] dalyse nustatytų bylinėjimosi išlaidų paskirstymo taisyklių. ^s-927d70ac20243e713f1c7d47
 Straipsnio dalies pakeitimai:
 Nr. XIII-535, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12054
 
@@ -2417,7 +2417,7 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 
 
-3. Kai yra pagrindas manyti, kad ieškinį (pradinį ar priešieškinį), apeliacinį, atskirąjį ar kasacinį skundą, prašymą atnaujinti procesą, pareiškimą ar prašymą ypatingosios teisenos tvarka pateikęs asmuo gali piktnaudžiauti procesinėmis teisėmis ir neatlyginti bylinėjimosi išlaidų, teismas turi teisę įpareigoti šį asmenį sumokėti užstatą galimų bylinėjimosi išlaidų atlyginimui užtikrinti. Kai užstatą prašo taikyti dalyvaujantis byloje asmuo, šis prašymas turi būti išnagrinėtas ne vėliau kaip per septynias darbo dienas nuo prašymo gavimo dienos. Užstato per teismo nustatytą terminą nesumokėjus, teismas procesinį dokumentą palieka nenagrinėtą. Užstato dydis nustatomas, užstatas grąžinamas, bylinėjimosi išlaidos iš užstato atlyginamos mutatis mutandis taikant šio Kodekso 795, 796, 797 ir [[#^s-485aa17130ff7529857fb221|798 straipsnius]]. ^s-08699812c1f4929344a33cb8
+3. Kai yra pagrindas manyti, kad ieškinį (pradinį ar priešieškinį), apeliacinį, atskirąjį ar kasacinį skundą, prašymą atnaujinti procesą, pareiškimą ar prašymą ypatingosios teisenos tvarka pateikęs asmuo gali piktnaudžiauti procesinėmis teisėmis ir neatlyginti bylinėjimosi išlaidų, teismas turi teisę įpareigoti šį asmenį sumokėti užstatą galimų bylinėjimosi išlaidų atlyginimui užtikrinti. Kai užstatą prašo taikyti dalyvaujantis byloje asmuo, šis prašymas turi būti išnagrinėtas ne vėliau kaip per septynias darbo dienas nuo prašymo gavimo dienos. Užstato per teismo nustatytą terminą nesumokėjus, teismas procesinį dokumentą palieka nenagrinėtą. Užstato dydis nustatomas, užstatas grąžinamas, bylinėjimosi išlaidos iš užstato atlyginamos mutatis mutandis taikant šio Kodekso [[#^s-43bb049e7d34ab7985a7e8d1|795]], [[#^s-e6e1f92156c70e1ffe101ef5|796]], [[#^s-91edf1d6fa3dd51e85dd5d5d|797]] ir [[#^s-485aa17130ff7529857fb221|798]] straipsnius. ^s-08699812c1f4929344a33cb8
 Papildyta straipsnio dalimi:
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 Straipsnio dalies pakeitimai:
@@ -2474,7 +2474,7 @@ Nr. XV-700, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-22993
 4. Jeigu abi šalys nuo bylinėjimosi išlaidų mokėjimo atleistos, bylinėjimosi išlaidos apmokamos iš valstybės biudžeto lėšų. ^s-2518763a2a912548dd8eee7f
 
 
-5. Teismas gali nukrypti nuo šio straipsnio 1, 2 ir [[#^s-403151dee42e3e7becded1a9|3 dalyse]] nustatytų bylinėjimosi išlaidų atlyginimo valstybei taisyklių, atsižvelgdamas į tai, ar šalių procesinis elgesys buvo tinkamas, ir įvertindamas priežastis, dėl kurių susidarė bylinėjimosi išlaidos. ^s-9d8b7e4c6386157715adc1b5
+5. Teismas gali nukrypti nuo šio straipsnio [[#^s-b4b4be06859e85859b707698|1]], [[#^s-78f7db356ab0ce6928dfc808|2]] ir [[#^s-403151dee42e3e7becded1a9|3]] dalyse nustatytų bylinėjimosi išlaidų atlyginimo valstybei taisyklių, atsižvelgdamas į tai, ar šalių procesinis elgesys buvo tinkamas, ir įvertindamas priežastis, dėl kurių susidarė bylinėjimosi išlaidos. ^s-9d8b7e4c6386157715adc1b5
 
 
 6. Jeigu iš šalies pagal šį straipsnį į valstybės biudžetą išieškotina bendra suma yra mažesnė už teisingumo ministro kartu su finansų ministru nustatytą minimalią valstybei priteistiną bylinėjimosi išlaidų sumą, teismas tokios sumos nepriteisia ir ji nėra išieškoma. ^s-ad3edeb23babb34deed9e52a
@@ -2893,7 +2893,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 5. Teismo nutartis pašalinti procesinio dokumento trūkumus yra įteikiama tik šį dokumentą pateikusiam asmeniui. Ši nutartis atskiruoju skundu neskundžiama. Atskiruoju skundu gali būti skundžiama teismo nutartis, kuria procesinis dokumentas grąžintas dėl to, kad nepašalinti jo trūkumai. ^s-48946cae7ea360b22b1b973d
 Straipsnio dalies pakeitimai:
-TAR pastaba. [[#^s-48946cae7ea360b22b1b973d|5 dalies]] nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+TAR pastaba. 5 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
 Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
 
 
@@ -3042,7 +3042,7 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 4. Kai procesinį dokumentą pristatantis asmuo neranda adresato juridinio asmens buveinės vietoje ar kitoje juridinio asmens nurodytoje vietoje, procesinis dokumentas įteikiamas bet kuriam kitam įteikimo vietoje esančiam juridinio asmens darbuotojui. Kai šioje dalyje nustatyta tvarka procesinių dokumentų įteikti nepavyksta, procesinis dokumentas siunčiamas juridinio asmens buveinės adresu ir laikomas įteiktu praėjus dešimčiai dienų nuo išsiuntimo. ^s-869af72ab46cd9566a96110b
 
 
-5. Procesinio dokumento įteikimo diena laikoma jo įteikimo šio straipsnio  1–[[#^s-869af72ab46cd9566a96110b|4 dalyse]] numatytiems asmenims diena. Jeigu procesinis dokumentas įteikiamas ne pačiam adresatui, priėmęs dokumentą asmuo privalo esant pirmai galimybei perduoti jį adresatui. ^s-86eeb1a4e3d9ee0ea48fc06c
+5. Procesinio dokumento įteikimo diena laikoma jo įteikimo šio straipsnio  [[#^s-5b2c052c0d54857272df8d09|1]]–[[#^s-869af72ab46cd9566a96110b|4]] dalyse numatytiems asmenims diena. Jeigu procesinis dokumentas įteikiamas ne pačiam adresatui, priėmęs dokumentą asmuo privalo esant pirmai galimybei perduoti jį adresatui. ^s-86eeb1a4e3d9ee0ea48fc06c
 
 
 6. Dalyvaujantiems byloje asmenims yra įteikiamos procesinių dokumentų patvirtintos kopijos, išskyrus teismo šaukimus ir pranešimus. ^s-504171c5b63c84e3c4aa0d83
@@ -3065,7 +3065,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 3. Teismo nustatytu terminu procesinius dokumentus įteikiantis asmuo pateikia teismui informaciją apie procesinio dokumento įteikimo datą, procesinį dokumentą priėmusį asmenį ir jo ryšį su adresatu arba einamas pareigas, kai įteikiama ne pačiam adresatui, apie atsisakymą priimti procesinį dokumentą arba pasirašyti ir atsisakymo priežastis, apie tai, kad procesinio dokumento įteikti nepavyko, ir neįvykusio įteikimo priežastis arba apie procesinio dokumento persiuntimą teismo nurodytu kitu įteikimo adresu. Įteikiant teismo šaukimus ir ieškinius (pareiškimus, skundus, atsiliepimus į ieškinį, dublikus), apeliacinius (atskiruosius) skundus, kasacinius skundus šio Kodekso [[#^s-96f5736dc5009ec25306fb0c|117 straipsnio 2 dalyje]] nustatyta tvarka, teismui taip pat turi būti pristatytas adresato pasirašytas patvirtinimas dėl procesinio dokumento gavimo. ^s-e435286b4faec1ebde027337
 
 
-4. Kai nėra galimybės arba nepavyksta procesinius dokumentus dalyvaujančiam byloje asmeniui įteikti asmeniškai ir nėra galimybės arba nepavyksta procesinius dokumentus įteikti šio Kodekso [[#^s-3344fb2a12b16aa68c74874b|123 straipsnio]] 3 ir [[#^s-42a6948fa59b19b8b5f40be8|4 dalyse]] nustatyta tvarka, procesiniai dokumentai įteikiami šio Kodekso 129, [[#^s-5f324d07533977c7cbf54bc4|130 straipsniuose]] nustatyta tvarka. ^s-42a6948fa59b19b8b5f40be8
+4. Kai nėra galimybės arba nepavyksta procesinius dokumentus dalyvaujančiam byloje asmeniui įteikti asmeniškai ir nėra galimybės arba nepavyksta procesinius dokumentus įteikti šio Kodekso [[#^s-3344fb2a12b16aa68c74874b|123 straipsnio]] [[#^s-112ae39e0fe9f464644dd8af|3]] ir [[#^s-869af72ab46cd9566a96110b|4]] dalyse nustatyta tvarka, procesiniai dokumentai įteikiami šio Kodekso [[#^s-4f6c8378313d2d95574358a0|129]], [[#^s-5f324d07533977c7cbf54bc4|130]] straipsniuose nustatyta tvarka. ^s-42a6948fa59b19b8b5f40be8
 
 
 Straipsnio pakeitimai:
@@ -3198,7 +3198,7 @@ Teismo šaukimai ir pranešimai
 1. Dalyvaujantiems byloje asmenims teismo šaukimais ar pranešimais pranešama apie teismo posėdžio ar atskirų procesinių veiksmų atlikimo laiką ir vietą. Dalyvaujančiam byloje asmeniui tinkamai įteikus teismo šaukimą, apie kitus teismo posėdžius pranešama pranešimais. Teismo šaukimais taip pat šaukiami į teismą liudytojai, vertėjai ir ekspertai. ^s-defba928c912ab666154dfc8
 
 
-2. Dalyvaujantiems byloje asmenims šaukimas ar pranešimas turi būti įteiktas šio Kodekso 117–[[#^s-80c72b2a7c36970ccfd89f62|132 straipsniuose]] nustatyta tvarka ir tokiais terminais, kad jie turėtų pakankamai laiko nustatytu laiku atvykti į teismą ir pasirengti bylai. ^s-835d72cb7e67b1867e05965a
+2. Dalyvaujantiems byloje asmenims šaukimas ar pranešimas turi būti įteiktas šio Kodekso [[#^s-17a83f4947393972dc31ab5e|117]]–[[#^s-80c72b2a7c36970ccfd89f62|132]] straipsniuose nustatyta tvarka ir tokiais terminais, kad jie turėtų pakankamai laiko nustatytu laiku atvykti į teismą ir pasirengti bylai. ^s-835d72cb7e67b1867e05965a
 
 
 3. Kai byla nagrinėjama iš esmės rašytinio proceso tvarka, apie teismo posėdžio datą, laiką, vietą ir teismo sudėtį skelbiama specialiame interneto tinklalapyje ne vėliau kaip prieš septynias dienas iki teismo posėdžio dienos, išskyrus šio Kodekso numatytus atvejus, kai dalyvaujantiems byloje asmenims pranešama kita tvarka. Šią informaciją taip pat teikia teismo raštinė. Kai rašytinio proceso tvarka nagrinėjami kiti procesiniai klausimai, dalyvaujantiems byloje asmenims apie teismo posėdį pranešama tik šio Kodekso numatytais atvejais. ^s-e5d907835e2874e9fc3569e1
@@ -3597,7 +3597,7 @@ Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 5. Tais atvejais, kai yra laikinai apribojamos nuosavybės teisės į daiktą, priklausantį bendrosios nuosavybės teise, gali būti areštuota tik asmeniui, kuriam taikomos laikinosios apsaugos priemonės, priklausanti turto dalis. Kai turto dalis bendrojoje nuosavybėje nenustatyta, laikinai, kol bus nustatyta šio asmens turto dalis bendrojoje nuosavybėje, gali būti areštuotas visas turtas. ^s-7309a5c3fbfa8da96708386a
 
 
-6. Taikant laikinąsias apsaugos priemones, draudžiama areštuoti lėšas, nurodytas šio Kodekso 668 ir [[#^s-459a5ea6d635ad7f1733401b|739 straipsniuose]]. Areštavus lėšas, esančias kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose, leidžiama su jomis atlikti tik tas operacijas, kurios nurodytos teismo nutartyje. Teismas, leisdamas atlikti tam tikras operacijas, nurodo antstoliui nustatyti konkrečią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti. Šioje dalyje nurodytų lėšų areštas, teismo nutartyje nurodytas leidimas atlikti operacijas su areštuotomis lėšomis ar antstolio nustatyta konkreti suma, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti, nestabdo tos pačios ar pirmesnės reikalavimų patenkinimo eilės išieškojimo vykdymo. Šiuo atveju išieškojimas iš areštuotų lėšų, esančių kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose, vykdomas Sprendimų vykdymo instrukcijoje nustatyta tvarka. ^s-adb03fd5e74062da5d63a704
+6. Taikant laikinąsias apsaugos priemones, draudžiama areštuoti lėšas, nurodytas šio Kodekso [[#^s-431ba488dedbc460d5417926|668]] ir [[#^s-459a5ea6d635ad7f1733401b|739]] straipsniuose. Areštavus lėšas, esančias kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose, leidžiama su jomis atlikti tik tas operacijas, kurios nurodytos teismo nutartyje. Teismas, leisdamas atlikti tam tikras operacijas, nurodo antstoliui nustatyti konkrečią lėšų sumą, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti. Šioje dalyje nurodytų lėšų areštas, teismo nutartyje nurodytas leidimas atlikti operacijas su areštuotomis lėšomis ar antstolio nustatyta konkreti suma, kuri per vieną kalendorinį mėnesį gali būti panaudota operacijoms atlikti, nestabdo tos pačios ar pirmesnės reikalavimų patenkinimo eilės išieškojimo vykdymo. Šiuo atveju išieškojimas iš areštuotų lėšų, esančių kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų sąskaitose, vykdomas Sprendimų vykdymo instrukcijoje nustatyta tvarka. ^s-adb03fd5e74062da5d63a704
 Straipsnio dalies pakeitimai:
 Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
 Nr. XIII-3034, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13472
@@ -4020,7 +4020,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 5. Įspėjimas ir pašalinimas iš teismo posėdžių salės įforminami vadovaujantis atitinkamai šio Kodekso [[#^s-f06c08b0e358d38933c0b89c|104 straipsnio 2 dalimi]] ir [[#^s-a8659d9ac200e4efedf0ce83|105 straipsnio 2 dalimi]]. ^s-1ec5a57d55d7cbfb884c7bb9
 
 
-6. Šio straipsnio 2, 3 ir [[#^s-47bd7120a85cb821f493522c|4 dalyse]] nurodytiems asmenims, piktybiškai nepaklususiems teismo posėdžio pirmininko patvarkymui arba pažeidusiems tvarką teismo posėdžio metu, teismo nutartimi skiriama iki trijų šimtų eurų bauda arba areštas iki penkiolikos parų. ^s-2782cd25994adcccf33a185d
+6. Šio straipsnio [[#^s-3b3f9322d951645d63f3ee0f|2]], [[#^s-f05a305898fc9a3130527e37|3]] ir [[#^s-47bd7120a85cb821f493522c|4]] dalyse nurodytiems asmenims, piktybiškai nepaklususiems teismo posėdžio pirmininko patvarkymui arba pažeidusiems tvarką teismo posėdžio metu, teismo nutartimi skiriama iki trijų šimtų eurų bauda arba areštas iki penkiolikos parų. ^s-2782cd25994adcccf33a185d
 Straipsnio dalies pakeitimai:
 Nr. XII-1241, 2014-10-16, paskelbta TAR 2014-10-28, i. k. 2014-15011
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
@@ -4073,7 +4073,7 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
 4. Bylos nagrinėjimą atidėjus, byla pradedama nagrinėti nuo to procesinio veiksmo, kurį atlikus jos nagrinėjimas buvo atidėtas. Dalyvaujančių byloje asmenų prašymu byla, kurios nagrinėjimas buvo atidėtas, gali būti nagrinėjama iš pradžių. ^s-f68af6f8909e212081f0e4fc
 Straipsnio dalies pakeitimai:
-TAR pastaba. [[#^s-f68af6f8909e212081f0e4fc|4 dalies]] nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+TAR pastaba. 4 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
 Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
 
 
@@ -4170,7 +4170,7 @@ Nr. XII-1772, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09613
 1. Byla sustabdoma: ^s-6e73a62b246468b82a48e238
 
 
-1) šio Kodekso [[#^s-067bc26b619566bea0b45ddc|163 straipsnio]] 1 ir [[#^s-fd652002b8b05e216c993b17|2 punktuose]] numatytais atvejais – iki paaiškės mirusio fizinio asmens ar pasibaigusio juridinio asmens teisių perėmėjas ar aplinkybės, dėl kurių teisių perėmimas neįvyko, arba iki bus paskirtas neveiksnaus tam tikroje srityje fizinio asmens atstovas pagal įstatymą; ^s-9a2e7bd6fae6931a84b56a77
+1) šio Kodekso [[#^s-067bc26b619566bea0b45ddc|163 straipsnio]] [[#^s-d11162e7bb7470186d5ffdfb|1]] ir [[#^s-edcb7a43a8524cba9aad641d|2]] punktuose numatytais atvejais – iki paaiškės mirusio fizinio asmens ar pasibaigusio juridinio asmens teisių perėmėjas ar aplinkybės, dėl kurių teisių perėmimas neįvyko, arba iki bus paskirtas neveiksnaus tam tikroje srityje fizinio asmens atstovas pagal įstatymą; ^s-9a2e7bd6fae6931a84b56a77
 Straipsnio punkto pakeitimai:
 Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
@@ -4188,10 +4188,10 @@ Nr. XII-2066, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19179
 
 
 
-5) šio Kodekso [[#^s-a3a24303bd05500ea88b0b8d|164 straipsnio 3 punkte]] numatytais atvejais – iki šalis baigs tarnybą Lietuvos Respublikos krašto apsaugos dalinyje, kuriame paskelbta karinė padėtis; ^s-da3743bc030306f8182f25a2
+5) šio Kodekso 164 straipsnio 3 punkte numatytais atvejais – iki šalis baigs tarnybą Lietuvos Respublikos krašto apsaugos dalinyje, kuriame paskelbta karinė padėtis; ^s-da3743bc030306f8182f25a2
 
 
-6) kitais šio Kodekso 163 ir [[#^s-946c8e3d5ff062ddf2c4666f|164 straipsniuose]] numatytais atvejais – iki bus pašalintos aplinkybės, dėl kurių buvo sustabdyta byla. ^s-6d6cac0e23e076df8c4e4041
+6) kitais šio Kodekso [[#^s-067bc26b619566bea0b45ddc|163]] ir [[#^s-946c8e3d5ff062ddf2c4666f|164]] straipsniuose numatytais atvejais – iki bus pašalintos aplinkybės, dėl kurių buvo sustabdyta byla. ^s-6d6cac0e23e076df8c4e4041
 
 
 2. Šio Kodekso [[#^s-cb27cd0dadbcf0093a652758|163 straipsnio 1 dalies 5 punkte]] numatytais atvejais sustabdyta byla perduodama bankroto ar restruktūrizavimo bylą iškėlusiam teismui, o šis ją atnaujina ir prideda prie bankroto ar restruktūrizavimo bylos. ^s-e18417ccb82dca2aa26a1a9d
@@ -4323,7 +4323,7 @@ Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29)
 4. Dalyvaujantys byloje asmenys privalo nedelsdami pranešti teismui ir kitiems dalyvaujantiems byloje asmenims apie kiekvieną savo elektroninio pašto adreso, telefono ir fakso numerių, taip pat kitų elektroninių ryšių priemonių adresų pasikeitimą. ^s-10fdc4e62601ca2321f7ea3f
 
 
-5. Kai byla vedama per advokatą, be šio Kodekso 135 ir [[#^s-b8b3775da73673c43ac98123|142 straipsniuose]] nustatytų reikalavimų, atitinkamai ieškinyje arba atsiliepime į ieškinį taip pat nurodomas advokato elektroninio pašto adresas, telefono ir fakso numeriai, kitų turimų elektroninių ryšių priemonių adresai. ^s-2399f7f42af7179cf07990d2
+5. Kai byla vedama per advokatą, be šio Kodekso [[#^s-f7792e762ffe072fedcce129|135]] ir [[#^s-b8b3775da73673c43ac98123|142]] straipsniuose nustatytų reikalavimų, atitinkamai ieškinyje arba atsiliepime į ieškinį taip pat nurodomas advokato elektroninio pašto adresas, telefono ir fakso numeriai, kitų turimų elektroninių ryšių priemonių adresai. ^s-2399f7f42af7179cf07990d2
 
 
 6. Elektroninės formos procesiniai dokumentai, pateikti teismui elektroninių ryšių priemonėmis asmens tapatybę patvirtinus [[latest/TAR.522B3E415B52#^s-0dc9a196f70a82a3f4abec65|Teismų įstatyme nustatytais būdais, atitinka šio Kodekso 111 straipsnyje]] nustatytą reikalavimą, kad procesinis dokumentas turi būti pasirašytas. ^s-e761bdbfe3c8549f66a21091
@@ -4481,7 +4481,7 @@ Nereikia įrodinėti aplinkybių:
 
 
 3) asmens nusikalstamų veikų padarinių, nustatytų įsiteisėjusiu teismo nuosprendžiu baudžiamojoje byloje, ar administracinio nusižengimo padarinių, nustatytų įsiteisėjusiu teismo nutarimu (prejudiciniai faktai); ^s-a818cb91911ca884db7dcec0
-TAR pastaba. [[#^s-a818cb91911ca884db7dcec0|182 straipsnio 3 punkto]] nuostatos taikomos ir įsiteisėjusiu teismo nutarimu nustatytoms administracinio teisės pažeidimo, numatyto Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas), pasekmėms.
+TAR pastaba. 182 straipsnio 3 punkto nuostatos taikomos ir įsiteisėjusiu teismo nutarimu nustatytoms administracinio teisės pažeidimo, numatyto [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), patvirtintame 1984 m. [įstatymu Nr. X-4449](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) (toliau – [Administracinių teisės pažeidimų kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492)), pasekmėms.
 Straipsnio punkto pakeitimai:
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
 
@@ -4606,7 +4606,7 @@ Liudytojų parodymai
 
 
 1) atstovai civilinėje, administracinėje ar administracinio nusižengimo byloje ar gynėjai baudžiamojoje byloje – apie aplinkybes, kurias jie sužinojo būdami atstovu ar gynėju; ^s-3b021c6013027d40e43956ae
-TAR pastaba. [[#^s-3b021c6013027d40e43956ae|189 straipsnio 2 dalies 1 punkto]] nuostatos taikomos ir atstovams administracinio teisės pažeidimo, numatyto Administracinių teisės pažeidimų kodekse, bylose.
+TAR pastaba. 189 straipsnio 2 dalies 1 punkto nuostatos taikomos ir atstovams administracinio teisės pažeidimo, numatyto [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), bylose.
 Straipsnio punkto pakeitimai:
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
 
@@ -5240,7 +5240,7 @@ Pasirengimo nagrinėti bylą teisme metu šalys ir tretieji asmenys turi pateikt
 ### 227 straipsnis. Pasirengimas nagrinėti bylą teisme paruošiamųjų dokumentų būdu ^s-8b671015ac2e2e6c6157fce0
 
 
-1. Bylą nagrinėjantis teismas privalo paskirti pasirengimo nagrinėti bylą teisme paruošiamaisiais dokumentais būdą, jeigu abiem šalims atstovauja šio Kodekso  [[#^s-96c0f797d0ba18fbbd9c631e|56 straipsnio 1 dalies]] 1 ir 2 punktuose ar [[#^s-06b8f313bbb0a1e1ed28e6ed|2 dalyje]] nurodyti asmenys, išskyrus šio Kodekso [[#^s-2171d6198df06ae5592edc3c|228 straipsnio 1 dalyje]] numatytus atvejus. ^s-2e525d7d9d79693c4efe5ef7
+1. Bylą nagrinėjantis teismas privalo paskirti pasirengimo nagrinėti bylą teisme paruošiamaisiais dokumentais būdą, jeigu abiem šalims atstovauja šio Kodekso  [[#^s-96c0f797d0ba18fbbd9c631e|56 straipsnio 1 dalies]] [[#^s-ee253a5ca1d7c2b9a9404b9e|1]] ir [[#^s-9ebde3fce7e00063386790aa|2]] punktuose ar [[#^s-06b8f313bbb0a1e1ed28e6ed|2 dalyje]] nurodyti asmenys, išskyrus šio Kodekso [[#^s-2171d6198df06ae5592edc3c|228 straipsnio 1 dalyje]] numatytus atvejus. ^s-2e525d7d9d79693c4efe5ef7
 
 
 2. Pasirengimo nagrinėti bylą teisme metu gali būti pateikiami ne daugiau kaip du paruošiamieji dokumentai (neįskaitant ieškinio ir atsiliepimo į pareikštą ieškinį). Ieškovas privalo pateikti dubliką (ieškovo atsiliepimą į atsakovo pareikštą atsiliepimą), o atsakovas – tripliką (atsakovo atsiliepimą į dubliką). Paruošiamiesiems dokumentams pateikti gali būti nustatytas ne ilgesnis kaip keturiolikos dienų terminas nuo teismo pranešimo įteikimo dienos. Teismas turi teisę atsisakyti priimti įrodymus ir motyvus, kurie galėjo būti pateikti šioje dalyje nurodytuose procesiniuose dokumentuose, jeigu mano, kad vėlesnis jų pateikimas užvilkins sprendimo priėmimą byloje. ^s-06b8f313bbb0a1e1ed28e6ed
@@ -5670,7 +5670,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 1. Įrodymų tyrimas pradedamas dalyvaujančių byloje asmenų paaiškinimų tyrimu. Pirmas teismo posėdyje paaiškinimus duoda ieškovas ir jo pusėje dalyvaujantis trečiasis asmuo, po to – atsakovas ir jo pusėje dalyvaujantis trečiasis asmuo, taip pat kiti byloje dalyvaujantys asmenys. Dalyvaujantys byloje asmenys turi teisę užduoti vienas kitam klausimų. Kiekvienam dalyvaujančiam byloje asmeniui turi būti suteikiama galimybė pareikšti savo nuomonę dėl kiekvieno kito dalyvaujančio byloje asmens pareiškimo ir prašymo. Teismo posėdžio pirmininkas šio Kodekso numatytais atvejais balsu perskaito rašytinius dalyvaujančių byloje asmenų paaiškinimus, taip pat paaiškinimus, teismo gautus teismo pavedimo įvykdymo ir įrodymų užtikrinimo tvarka. ^s-0c12eefe6f12b1dbd2c14940
 
 
-2. Išklausęs dalyvaujančių byloje asmenų paaiškinimus, teismas šio Kodekso 186–[[#^s-ddbaec90551fbf3f4f7cc2d2|220 straipsniuose]] nustatyta tvarka ištiria visus kitus byloje esančius įrodymus. ^s-5201793c6420479d89619695
+2. Išklausęs dalyvaujančių byloje asmenų paaiškinimus, teismas šio Kodekso [[#^s-02f815a830eb44eacbe875ef|186]]–[[#^s-ddbaec90551fbf3f4f7cc2d2|220]] straipsniuose nustatyta tvarka ištiria visus kitus byloje esančius įrodymus. ^s-5201793c6420479d89619695
 
 
 3. Byloje esantys procesiniai dokumentai, įteikti šio Kodekso nustatyta tvarka, teismo posėdžio metu neskaitomi, išskyrus atvejus, kai dalyvaujantys byloje asmenys nežino jų turinio arba kai reikia tiksliai cituoti procesinį dokumentą. ^s-7b5a5267998650230056e54d
@@ -5978,10 +5978,10 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 1. Teismas, išnagrinėjęs bylą, gali nutarti sprendimą priimti ir paskelbti ne vėliau kaip per dvidešimt dienų. Šiuo laikotarpiu teisėjas gali nagrinėti kitas bylas. Sprendimas priimamas per teismo nustatytą terminą, o sprendimo paskelbimo data laikoma priėmimo data. Sprendimui priimti ir paskelbti taikomi šio Kodekso [[#^s-b94b7e4c0f4f8c0292c79848|268 straipsnyje]] nustatyti reikalavimai. ^s-0cf7bf1aa9d984338c010431
 
 
-2. Nutartis dėl sprendimo priėmimo ir paskelbimo gali būti teismo priimta ir neišeinant į sprendimų priėmimo kambarį. ^s-35baed6e7f655b9ffbcd3693
+2. Nutartis [dėl sprendimo priėmimo](https://e-tar.lt/portal/lt/legalAct/8ed63190bdd311e688d0ed775a2e782a) ir paskelbimo gali būti teismo priimta ir neišeinant į sprendimų priėmimo kambarį. ^s-35baed6e7f655b9ffbcd3693
 
 
-3. Nutartyje dėl sprendimo priėmimo ir paskelbimo teismas nurodo sprendimo paskelbimo datą ir vietą. ^s-736aa72ee7d8a8d107cf3793
+3. Nutartyje [dėl sprendimo priėmimo](https://e-tar.lt/portal/lt/legalAct/8ed63190bdd311e688d0ed775a2e782a) ir paskelbimo teismas nurodo sprendimo paskelbimo datą ir vietą. ^s-736aa72ee7d8a8d107cf3793
 Straipsnio dalies pakeitimai:
 Nr. XII-2479, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17983
 
@@ -6257,7 +6257,7 @@ Teismo sprendimai gali būti vykdomi, kai jie įsiteisėja, išskyrus atvejus, k
 1) dėl išlaikymo priteisimo; ^s-b1fddd99b6cc43047fc37fd4
 
 
-2) dėl darbo užmokesčio priteisimo – sprendime nustatyta dalis neviršija vieno mėnesio vidutinio darbo užmokesčio; ^s-7023da1501316578998bd378
+2) [dėl darbo užmokesčio](https://e-tar.lt/portal/lt/legalAct/TAR.3A55ECEE9ACE) priteisimo – sprendime nustatyta dalis neviršija vieno mėnesio vidutinio darbo užmokesčio; ^s-7023da1501316578998bd378
 
 
 3) dėl iškeldintų iš gyvenamųjų patalpų asmenų įkeldinimo; ^s-1b8ba9e5d21036ac8d32497b
@@ -6314,7 +6314,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 2. Jeigu [[#^s-40a2ad03d521c92f51263841|šio straipsnio 1 dalyje]] nurodyti klausimai nebuvo išspręsti teismo sprendimu, jie išnagrinėjami rašytinio proceso tvarka, pranešus apie tai dalyvaujantiems byloje asmenims, išskyrus atvejus, kai šiuos klausimus žodinio proceso tvarka prašo išspręsti bent vienas dalyvaujantis byloje asmuo arba teismas pripažįsta, kad juos būtina nagrinėti žodinio proceso tvarka. ^s-7367f8d1e39ed47fce980b60
 Straipsnio dalies pakeitimai:
-TAR pastaba. [[#^s-7367f8d1e39ed47fce980b60|2 dalies]] nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+TAR pastaba. 2 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
 Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
 
 
@@ -6710,7 +6710,7 @@ Nr. XI-2090, 2012-06-21, Žin., 2012, Nr. 76-3933 (2012-06-30)
 ### 297 straipsnis. Pareiškimo palikimo nenagrinėto tvarka ir pasekmės ^s-0e3b6b122237026ee6a9dcc7
 
 
-1. Tais atvejais, kai pareiškimas paliekamas nenagrinėtas, byla užbaigiama teismo nutartimi. Šioje nutartyje teismas privalo nurodyti, kaip pašalinti aplinkybes, išvardytas šio Kodekso [[#^s-5345f0a6893d6592188d9c3c|296 straipsnio 1 dalies]] 1, 2, 3, 7, 8, 11 ir 12 punktuose, kliudančias nagrinėti bylą. ^s-815a7d0410c2005884fb54ef
+1. Tais atvejais, kai pareiškimas paliekamas nenagrinėtas, byla užbaigiama teismo nutartimi. Šioje nutartyje teismas privalo nurodyti, kaip pašalinti aplinkybes, išvardytas šio Kodekso [[#^s-5345f0a6893d6592188d9c3c|296 straipsnio 1 dalies]] [[#^s-d9c055c5a446f221512d2d8f|1]], [[#^s-b8a680831c3bb7a6aefa8e4a|2]], [[#^s-c7fd3de6d60feffd054b7792|3]], [[#^s-7307bb1f975153da74ca5f88|7]], [[#^s-b3ab7e97c8067235577ddab8|8]], [[#^s-9f775a6bb68fe4d27df137e1|11]] ir [[#^s-be6bc61941a76799f319b438|12]] punktuose, kliudančias nagrinėti bylą. ^s-815a7d0410c2005884fb54ef
 Straipsnio dalies pakeitimai:
 Nr. XIV-1748, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27568
 
@@ -7018,7 +7018,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 ### 316 straipsnis. Apeliacinio skundo, atsiliepimo į apeliacinį skundą ir pareiškimo dėl prisidėjimo prie apeliacinio skundo trūkumų šalinimas ^s-38b03649283ad58f37ea17e3
 
 
-1. Jeigu paduotas apeliacinis skundas ar jo priedai neatitinka šio Kodekso 306 ir [[#^s-52464f27ae03863c48638060|311 straipsniuose]] nurodytų reikalavimų, teismas priima nutartį ir nustato apeliantui terminą trūkumams pašalinti. ^s-84783d2baafb04c2798270ad
+1. Jeigu paduotas apeliacinis skundas ar jo priedai neatitinka šio Kodekso [[#^s-03fdc09bd7ef54a8c31d3a9f|306]] ir [[#^s-52464f27ae03863c48638060|311]] straipsniuose nurodytų reikalavimų, teismas priima nutartį ir nustato apeliantui terminą trūkumams pašalinti. ^s-84783d2baafb04c2798270ad
 
 
 2. Jeigu apeliantas per nustatytą terminą įvykdo nutartyje nurodytus reikalavimus, skundas laikomas paduotu pradinio padavimo dieną. Priešingu atveju skundas laikomas nepaduotu ir nutartimi grąžinamas jį padavusiam asmeniui. ^s-d0593a43ed5b13cf2fbdb3c7
@@ -7105,7 +7105,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 ### 3201 straipsnis. Atstovavimas ^s-8a3c81fda7fe85eeb8eeb4c0
 
 
-Apeliacinės instancijos teismo posėdžio metu šalims ir tretiesiems asmenims gali atstovauti atstovai pagal įstatymą, advokatai, juridinio asmens darbuotojai ar valstybės tarnautojai, turintys aukštąjį universitetinį teisinį išsilavinimą, ir šio Kodekso [[#^s-96c0f797d0ba18fbbd9c631e|56 straipsnio 1 dalies]] 4, 5, 6 ir 7 punktuose nurodyti asmenys.
+Apeliacinės instancijos teismo posėdžio metu šalims ir tretiesiems asmenims gali atstovauti atstovai pagal įstatymą, advokatai, juridinio asmens darbuotojai ar valstybės tarnautojai, turintys aukštąjį universitetinį teisinį išsilavinimą, ir šio Kodekso [[#^s-96c0f797d0ba18fbbd9c631e|56 straipsnio 1 dalies]] [[#^s-5cdf4278ff936b72a6e39478|4]], [[#^s-653972f9471416491c02571d|5]], [[#^s-8a219820b712ac560dcf90ea|6]] ir [[#^s-7df76491aad8270a2e6370c8|7]] punktuose nurodyti asmenys.
 
 
 Papildyta straipsniu:
@@ -7229,7 +7229,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 4) panaikinti pirmosios instancijos teismo sprendimą visą ar iš dalies ir perduoti bylą pirmosios instancijos teismui nagrinėti iš naujo; ^s-4963d69fd0941d130f738aac
 
 
-5) panaikinti pirmosios instancijos teismo sprendimą (visą ar iš dalies), o bylą nutraukti arba pareiškimą palikti nenagrinėtą, jeigu nustatomos šio Kodekso 293 ir [[#^s-cba7d89cec4839055d3ba3b8|296 straipsniuose]] nurodytos aplinkybės, išskyrus šio Kodekso [[#^s-5345f0a6893d6592188d9c3c|296 straipsnio 1 dalies]] 7, 8 ir 11 punktuose nurodytus atvejus. ^s-7c9281946d3e0dd0ecc9f908
+5) panaikinti pirmosios instancijos teismo sprendimą (visą ar iš dalies), o bylą nutraukti arba pareiškimą palikti nenagrinėtą, jeigu nustatomos šio Kodekso [[#^s-7d3f46bf0e95408ab4e3ef68|293]] ir [[#^s-cba7d89cec4839055d3ba3b8|296]] straipsniuose nurodytos aplinkybės, išskyrus šio Kodekso [[#^s-5345f0a6893d6592188d9c3c|296 straipsnio 1 dalies]] [[#^s-7307bb1f975153da74ca5f88|7]], [[#^s-b3ab7e97c8067235577ddab8|8]] ir [[#^s-9f775a6bb68fe4d27df137e1|11]] punktuose nurodytus atvejus. ^s-7c9281946d3e0dd0ecc9f908
 
 
 2. [[#^s-48dc7c437c369d86ed7a916d|Šio straipsnio 1 dalies 2 punkte]] numatytu atveju priimamas teismo sprendimas, o 1, 3, 4 ir 5 punktuose numatytais atvejais – teismo nutartis. ^s-5371676f47312670789e81c8
@@ -7242,7 +7242,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 1. Apeliacinės instancijos teismas panaikina apskųstą teismo sprendimą ir perduoda bylą pirmosios instancijos teismui nagrinėti iš naujo, jeigu: ^s-7c315348af7fd1089c918711
 
 
-1) nustatomi šio Kodekso [[#^s-c6f4889fcb0ab4e6cbd58eac|329 straipsnio]] 2 ir 3 dalyse nurodyti pagrindai; ^s-11dfd5932fe529e1008c3219
+1) nustatomi šio Kodekso [[#^s-c6f4889fcb0ab4e6cbd58eac|329 straipsnio]] [[#^s-a6e896543a234863373484ae|2]] ir [[#^s-1e5275beb6945249d7d7c26f|3]] dalyse nurodyti pagrindai; ^s-11dfd5932fe529e1008c3219
 
 
 2) neatskleista bylos esmė ir pagal byloje pateiktus įrodymus bylos negalima išnagrinėti iš esmės apeliacinės instancijos teisme. ^s-f5300d82050dc53db5595764
@@ -7522,7 +7522,7 @@ BYLŲ PROCESAS KASACINIAME TEISME
 4. Kasacine tvarka bylą šiame skyriuje numatytais atvejais nagrinėja arba trijų teisėjų kolegija, arba septynių teisėjų kolegija, arba mišri Civilinių bylų skyriaus ir Baudžiamųjų bylų skyriaus trijų ar išplėstinė septynių teisėjų kolegija, arba Civilinių bylų skyriaus ar teismo plenarinė sesija. ^s-1088509f21d83124a67be4cc
 
 
-5. Jeigu šiame skyriuje tam tikrų procesinių veiksmų atlikimas nereglamentuojamas, taikomi šio Kodekso 1–[[#^s-79bcdf1ae0d2be8470846e8a|300 straipsniai]], kiek jie neprieštarauja šio skyriaus nuostatoms. ^s-ea4d871a7dbeb0e9324885ff
+5. Jeigu šiame skyriuje tam tikrų procesinių veiksmų atlikimas nereglamentuojamas, taikomi šio Kodekso 1–[[#^s-79bcdf1ae0d2be8470846e8a|300]] straipsniai, kiek jie neprieštarauja šio skyriaus nuostatoms. ^s-ea4d871a7dbeb0e9324885ff
 
 
 6. Šiame skyriuje nustatyta tvarka ir sąlygomis taip pat nagrinėjami skundai dėl Lietuvos apeliacinio teismo nutarčių, priimtų [[latest/TAR.952D5CAC35AC|Komercinio arbitražo įstatymo]] numatytais atvejais. ^s-8509f7303802429ddfff814f
@@ -7627,7 +7627,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 2. Kasaciniame skunde neleidžiama remtis naujais įrodymais bei aplinkybėmis, kurie nebuvo nagrinėti pirmosios ar apeliacinės instancijos teisme. ^s-2694689511cf843a408de6f2
 
 
-3. Kasacinį skundą surašo advokatas. Juridinio asmens kasacinį skundą taip pat gali surašyti juridinio asmens darbuotojai ar valstybės tarnautojai, turintys aukštąjį universitetinį teisinį išsilavinimą. Jeigu kasatorius yra fizinis asmuo, turintis aukštąjį universitetinį teisinį išsilavinimą, surašyti kasacinį skundą turi teisę jis pats. Be to, kasacinį skundą gali surašyti šio Kodekso [[#^s-96c0f797d0ba18fbbd9c631e|56 straipsnio 1 dalies]] 4, 5, 6 ir 7 punktuose nurodyti asmenys. Kasacinį skundą pasirašo jį paduodantis asmuo ir skundą surašęs asmuo. ^s-bbb1b646e552c99135caf0ea
+3. Kasacinį skundą surašo advokatas. Juridinio asmens kasacinį skundą taip pat gali surašyti juridinio asmens darbuotojai ar valstybės tarnautojai, turintys aukštąjį universitetinį teisinį išsilavinimą. Jeigu kasatorius yra fizinis asmuo, turintis aukštąjį universitetinį teisinį išsilavinimą, surašyti kasacinį skundą turi teisę jis pats. Be to, kasacinį skundą gali surašyti šio Kodekso [[#^s-96c0f797d0ba18fbbd9c631e|56 straipsnio 1 dalies]] [[#^s-5cdf4278ff936b72a6e39478|4]], [[#^s-653972f9471416491c02571d|5]], [[#^s-8a219820b712ac560dcf90ea|6]] ir [[#^s-7df76491aad8270a2e6370c8|7]] punktuose nurodyti asmenys. Kasacinį skundą pasirašo jį paduodantis asmuo ir skundą surašęs asmuo. ^s-bbb1b646e552c99135caf0ea
 Straipsnio dalies pakeitimai:
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
@@ -7682,7 +7682,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 1. Kasacinio skundo priėmimo klausimą sprendžia Lietuvos Aukščiausiojo Teismo pirmininko ar šio teismo Civilinių bylų skyriaus pirmininko nutartimi iš trijų teisėjų sudaryta atrankos kolegija. Kasacinis skundas laikomas priimtu, jeigu už jį balsavo bent vienas iš atrankos kolegijos narių. Kasacinio skundo priėmimo klausimas išsprendžiamas priimant nutartį rašytinio proceso tvarka. Teisėjo dalyvavimas atrankos kolegijoje, sprendžiant tam tikro kasacinio skundo priėmimo klausimą, netrukdo jam nagrinėti bylą pagal tą kasacinį skundą kasacine tvarka. ^s-e0f2b497a71e7a62a255119c
 Straipsnio dalies pakeitimai:
-TAR pastaba. [[#^s-e0f2b497a71e7a62a255119c|1 dalies]] nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+TAR pastaba. 1 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
 Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
 
 
@@ -7731,7 +7731,7 @@ Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
 
 9. [[#^s-e0f2b497a71e7a62a255119c|Šio straipsnio 1 dalyje]] nurodyta nutartis dėl tam tikram veiklos laikotarpiui sudarytos atrankos kolegijos paskelbiama Lietuvos Aukščiausiojo Teismo interneto tinklalapyje likus ne mažiau kaip 6 darbo dienoms iki šios kolegijos veiklos pradžios. Nutartis, kuria atrankos kolegijos sudėtis pakeičiama tam tikram veiklos laikotarpiui, paskelbiama Lietuvos Aukščiausiojo Teismo interneto tinklalapyje tą pačią dieną, kurią buvo priimta. Apie šią nutartį ne vėliau kaip kitą darbo dieną po jos priėmimo pranešama dalyvaujantiems byloje asmenims, kurių paduoti procesiniai dokumentai nebuvo išnagrinėti iki atrankos kolegijos sudėties pakeitimo. Nutartis, kuria atrankos kolegijos sudėtis pakeista konkrečioje byloje, ne vėliau kaip kitą darbo dieną išsiunčiama dalyvaujantiems byloje asmenims. ^s-232b4c9bcae2ea6010f25bc7
 Papildyta straipsnio dalimi:
-TAR pastaba. [[#^s-232b4c9bcae2ea6010f25bc7|9 dalies]] nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
+TAR pastaba. 9 dalies nuostatos taikomos nagrinėjant ieškinius (pareiškimus, prašymus, skundus), paduotus po 2023 m. sausio 1 d.
 Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
 
 
@@ -7792,7 +7792,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 ### 354 straipsnis. Atstovavimas ^s-91cb937d16fe25bf74ed746d
 
 
-Kasacinio teismo posėdžio metu šalims ir tretiesiems asmenims gali atstovauti atstovai pagal įstatymą, advokatai, juridinio asmens darbuotojai ar valstybės tarnautojai, turintys aukštąjį universitetinį teisinį išsilavinimą, ir šio Kodekso [[#^s-96c0f797d0ba18fbbd9c631e|56 straipsnio 1 dalies]] 4, 5, 6 ir 7 punktuose nurodyti asmenys.
+Kasacinio teismo posėdžio metu šalims ir tretiesiems asmenims gali atstovauti atstovai pagal įstatymą, advokatai, juridinio asmens darbuotojai ar valstybės tarnautojai, turintys aukštąjį universitetinį teisinį išsilavinimą, ir šio Kodekso [[#^s-96c0f797d0ba18fbbd9c631e|56 straipsnio 1 dalies]] [[#^s-5cdf4278ff936b72a6e39478|4]], [[#^s-653972f9471416491c02571d|5]], [[#^s-8a219820b712ac560dcf90ea|6]] ir [[#^s-7df76491aad8270a2e6370c8|7]] punktuose nurodyti asmenys.
 
 
 Straipsnio pakeitimai:
@@ -7924,14 +7924,14 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 4. Kasacinis teismas pakeičia arba panaikina sprendimą, nutartį ir priima naują sprendimą, jeigu nustato, kad buvo pažeistos tik materialinės teisės normos jas netinkamai taikant arba išaiškinant. Šią teisę kasacinis teismas taip pat turi ir tuo atveju, kai yra nustatomas proceso teisės normų pažeidimas, kurį jis pats gali pašalinti. Šiais atvejais kasacinis teismas yra saistomas pirmosios ir (ar) apeliacinės instancijos teismų nustatytų aplinkybių. ^s-4ccc4bcadc4cd097ecd2429f
 
 
-5. Teismo sprendimas, nutartis kasacine tvarka panaikinami ir byla nutraukiama arba pareiškimas paliekamas nenagrinėtas šio Kodekso 293 ir [[#^s-cba7d89cec4839055d3ba3b8|296 straipsniuose]], išskyrus [[#^s-5345f0a6893d6592188d9c3c|296 straipsnio 1 dalies]] 7, 8 ir 11 punktus, nurodytais pagrindais. ^s-a30bb6042242739d7a4358f1
+5. Teismo sprendimas, nutartis kasacine tvarka panaikinami ir byla nutraukiama arba pareiškimas paliekamas nenagrinėtas šio Kodekso [[#^s-7d3f46bf0e95408ab4e3ef68|293]] ir [[#^s-cba7d89cec4839055d3ba3b8|296]] straipsniuose, išskyrus [[#^s-5345f0a6893d6592188d9c3c|296 straipsnio 1 dalies]] [[#^s-7307bb1f975153da74ca5f88|7]], [[#^s-b3ab7e97c8067235577ddab8|8]] ir [[#^s-9f775a6bb68fe4d27df137e1|11]] punktus, nurodytais pagrindais. ^s-a30bb6042242739d7a4358f1
 
 
 
 ### 360 straipsnis. Teismo teisė grąžinti bylą pirmosios instancijos teismui ^s-ec61d3399b35cb0088dab8d3
 
 
-Kasacinis teismas sprendimą ar nutartį visą arba iš dalies panaikina ir perduoda bylą iš naujo nagrinėti pirmosios instancijos teismui, jeigu yra konstatuojami absoliutūs sprendimo ar nutarties negaliojimo pagrindai, nurodyti šio Kodekso [[#^s-c6f4889fcb0ab4e6cbd58eac|329 straipsnio]] 2 ir 3 dalyse. Byla gali būti perduodama nagrinėti pirmosios instancijos teismui taip pat nustačius esminius proceso teisės normų pažeidimus, kurie negali būti pašalinti apeliacinės instancijos teisme.
+Kasacinis teismas sprendimą ar nutartį visą arba iš dalies panaikina ir perduoda bylą iš naujo nagrinėti pirmosios instancijos teismui, jeigu yra konstatuojami absoliutūs sprendimo ar nutarties negaliojimo pagrindai, nurodyti šio Kodekso [[#^s-c6f4889fcb0ab4e6cbd58eac|329 straipsnio]] [[#^s-a6e896543a234863373484ae|2]] ir [[#^s-1e5275beb6945249d7d7c26f|3]] dalyse. Byla gali būti perduodama nagrinėti pirmosios instancijos teismui taip pat nustačius esminius proceso teisės normų pažeidimus, kurie negali būti pašalinti apeliacinės instancijos teisme.
 
 
 
@@ -8117,7 +8117,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 ### 367 straipsnis. Prašymų atnaujinti procesą pateikimas ^s-86997a9559ba6360982e4c37
 
 
-1. Jeigu prašymas atnaujinti procesą grindžiamas šio Kodekso [[#^s-c68232b3b2301162f13385d4|366 straipsnio 1 dalies]] 1 ar 10 punkte numatytu pagrindu, jis pateikiamas Lietuvos Aukščiausiajam Teismui. ^s-7f7a9a09558acf4281bfd435
+1. Jeigu prašymas atnaujinti procesą grindžiamas šio Kodekso [[#^s-c68232b3b2301162f13385d4|366 straipsnio 1 dalies]] [[#^s-8e79c2986ae5a3ada0467e21|1]] ar [[#^s-740591a85a26ce8c5909700f|10]] punkte numatytu pagrindu, jis pateikiamas Lietuvos Aukščiausiajam Teismui. ^s-7f7a9a09558acf4281bfd435
 Straipsnio dalies pakeitimai:
 Nr. XIII-2329, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12370
 
@@ -8178,7 +8178,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 ### 370 straipsnis. Prašymo atnaujinti procesą nagrinėjimas ^s-d34f6ee2d77f6c56aa46a03f
 
 
-1. Spręsdamas prašymo atnaujinti procesą priėmimo klausimą, teismas patikrina, ar prašymas atitinka šio Kodekso [[#^s-3cdf98a01e93b799bfea3712|369 straipsnyje]] nustatytus šiam procesiniam dokumentui keliamus reikalavimus. Jeigu prašymas atnaujinti procesą neatitinka jo formai ir turiniui keliamų reikalavimų arba jeigu už jį nesumokėtas žyminis mokestis, teismas šio Kodekso nustatyta tvarka išsprendžia šio prašymo trūkumų pašalinimo klausimą, o kai yra šio Kodekso [[#^s-edfd36c3065d1e2f785536a3|137 straipsnio 2 dalies]] 1, 2, 7 ir 8 punktuose numatyti pagrindai, atsisako prašymą priimti. Teismo nutartis, kuria prašymą atnaujinti procesą atsisakyta priimti, gali būti skundžiama atskiruoju skundu. ^s-6d5cafdb90d4c3c32c673b62
+1. Spręsdamas prašymo atnaujinti procesą priėmimo klausimą, teismas patikrina, ar prašymas atitinka šio Kodekso [[#^s-3cdf98a01e93b799bfea3712|369 straipsnyje]] nustatytus šiam procesiniam dokumentui keliamus reikalavimus. Jeigu prašymas atnaujinti procesą neatitinka jo formai ir turiniui keliamų reikalavimų arba jeigu už jį nesumokėtas žyminis mokestis, teismas šio Kodekso nustatyta tvarka išsprendžia šio prašymo trūkumų pašalinimo klausimą, o kai yra šio Kodekso [[#^s-edfd36c3065d1e2f785536a3|137 straipsnio 2 dalies]] [[#^s-ee85fddd0f886f6181c4b85e|1]], [[#^s-b7b49a862fa74dccc3de9d95|2]], [[#^s-2684f5c99407ac7be7fdc1cf|7]] ir [[#^s-00dffa2799b846e2fe8219d3|8]] punktuose numatyti pagrindai, atsisako prašymą priimti. Teismo nutartis, kuria prašymą atnaujinti procesą atsisakyta priimti, gali būti skundžiama atskiruoju skundu. ^s-6d5cafdb90d4c3c32c673b62
 
 
 2. Priėmęs prašymą atnaujinti procesą, teismas jo kopijas išsiunčia šalims ir tretiesiems asmenims ir paskiria prašymo atnaujinti procesą nagrinėjimo teismo posėdyje datą. Prašymas atnaujinti procesą nagrinėjamas rašytinio proceso tvarka, išskyrus atvejus, kai teismas nusprendžia prašymą nagrinėti žodinio proceso tvarka. Iki teismo posėdžio dienos dalyvaujantys byloje asmenys turi teisę pateikti atsiliepimus į prašymą atnaujinti procesą. Teismo posėdis skiriamas ne anksčiau kaip per keturiolika dienų nuo prašymo priėmimo dienos. Iš prašymą padavusio asmens teismas turi teisę pareikalauti papildomų įrodymų, kad nepraleistas šio Kodekso [[#^s-ca9672f19da4ffaad81ec02e|368 straipsnyje]] nustatytas terminas arba kad yra šio Kodekso [[#^s-c68232b3b2301162f13385d4|366 straipsnio 1 dalyje]] numatyti pagrindai. ^s-487bbc81ddfbbda9224ad23d
@@ -8442,7 +8442,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 1. Priimdamas sprendimą nutraukti santuoką, teismas privalo išspręsti pareikštų reikalavimų dėl vaikų išlaikymo, jų gyvenamosios vietos, dalyvavimo juos auklėjant ir nepilnamečių vaikų bendravimo su skyrium gyvenančiu tėvu (motina) tvarkos nustatymo, vieno sutuoktinio išlaikymo ir turto padalijimo, žalos atlyginimo, jeigu šis reikalavimas pareikštas, klausimus. Pripažindamas santuoką negaliojančia, teismas turi išspręsti vaikų ir sąžiningo sutuoktinio išlaikymo, taip pat vaikų gyvenamosios vietos, dalyvavimo juos auklėjant ir nepilnamečių vaikų bendravimo su skyrium gyvenančiu tėvu (motina) tvarkos nustatymo klausimus. ^s-5e62e022ef043aca274709dd
-TAR pastaba. Iki [[latest/719d2640442211e6bd3bfefc575ccac4|įstatymo Nr. XII-2553]] įsigaliojimo (2017-01-02) pradėtos bylos, nurodytos Lietuvos Respublikos civilinio proceso kodekso IV dalies XIX skyriaus antrajame skirsnyje ir V dalies XXXV skyriuje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas.
+TAR pastaba. Iki [[latest/719d2640442211e6bd3bfefc575ccac4|įstatymo Nr. XII-2553]] įsigaliojimo (2017-01-02) pradėtos bylos, nurodytos [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) IV dalies XIX skyriaus antrajame skirsnyje ir V dalies XXXV skyriuje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nuostatas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2553, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19359
 
@@ -8561,7 +8561,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 393 straipsnis Motinystės nustatymas
 
 
-Šio Kodekso 387–[[#^s-334cd03a2f44e45ff8908012|392 straipsniai]] mutatis mutandis taikomi ir motinystei nustatyti.
+Šio Kodekso [[#^s-958ccfa545be901d92533e19|387]]–[[#^s-334cd03a2f44e45ff8908012|392]] straipsniai mutatis mutandis taikomi ir motinystei nustatyti.
 
 
 
@@ -8816,7 +8816,7 @@ Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 ### 416 straipsnis. Procesinis darbuotojo teisių perėmimas ^s-b2260e5b751d489f754dafde
 
 
-Darbo bylose darbuotojo procesinis teisių perėmimas galimas tik pagal darbuotojo ieškinius dėl darbo užmokesčio ar kitų išmokų, susijusių su darbo teisiniais santykiais, priteisimo.
+Darbo bylose darbuotojo procesinis teisių perėmimas galimas tik pagal darbuotojo ieškinius [dėl darbo užmokesčio](https://e-tar.lt/portal/lt/legalAct/TAR.3A55ECEE9ACE) ar kitų išmokų, susijusių su darbo teisiniais santykiais, priteisimo.
 
 
 
@@ -9112,7 +9112,7 @@ dokumentinis procesas
 1. Be reikalavimų, nurodytų šio Kodekso [[#^s-f7792e762ffe072fedcce129|135 straipsnyje]], ieškinyje turi būti nurodomas ieškovo prašymas nagrinėti bylą dokumentinio proceso tvarka bei nurodyti visi rašytiniai įrodymai, kuriais ieškovas grindžia savo reikalavimus. ^s-36a89249734ce791323fcf0c
 
 
-2. Prie ieškinio šio Kodekso 113, [[#^s-5cb667b90a01faa53d8bfc07|114 straipsniuose]] nustatyta tvarka turi būti pridėti rašytiniai įrodymai, kuriais grindžiamas reiškiamas reikalavimas. ^s-90d3a11f1887e18b97504eef
+2. Prie ieškinio šio Kodekso [[#^s-04aa832558b2d720e9b9543f|113]], [[#^s-5cb667b90a01faa53d8bfc07|114]] straipsniuose nustatyta tvarka turi būti pridėti rašytiniai įrodymai, kuriais grindžiamas reiškiamas reikalavimas. ^s-90d3a11f1887e18b97504eef
 
 
 3. Už ieškinį, paduodamą dokumentinio proceso tvarka, mokamas žyminis mokestis yra lygus pusei sumos, kurią reikėtų mokėti už ieškinio nagrinėjimą teisme pagal bendrąsias ginčo teisenos taisykles, tačiau ne mažesnis kaip dešimt eurų, išskyrus atvejus, kai pagal įstatymus ar teismo nutartimi asmuo nuo žyminio mokesčio yra visiškai ar iš dalies atleistas arba kai žyminio mokesčio sumokėjimo terminas atidėtas. ^s-bcdbb389f69506e45fa9b617
@@ -9225,7 +9225,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 ### 429 straipsnis. Preliminaraus teismo sprendimo ir jo priedų kopijų išsiuntimas ^s-fc7619019da1678eeb6130f8
 
 
-1. Preliminaraus teismo sprendimo patvirtinta kopija kartu su ieškinio ir jo priedų kopijomis išsiunčiamos atsakovui ne vėliau kaip kitą darbo dieną po preliminaraus sprendimo priėmimo ir įteikiamos šio Kodekso 123 ir [[#^s-680d361782cffdadb55f57d7|124 straipsniuose]] nustatyta tvarka, išskyrus įteikimą kuratoriui ir viešo paskelbimo būdu. Ieškovui preliminaraus teismo sprendimo patvirtinta kopija išsiunčiama ne vėliau kaip per tris darbo dienas po šio sprendimo įsiteisėjimo. ^s-61dfd037face602dfb4bd663
+1. Preliminaraus teismo sprendimo patvirtinta kopija kartu su ieškinio ir jo priedų kopijomis išsiunčiamos atsakovui ne vėliau kaip kitą darbo dieną po preliminaraus sprendimo priėmimo ir įteikiamos šio Kodekso [[#^s-3344fb2a12b16aa68c74874b|123]] ir [[#^s-680d361782cffdadb55f57d7|124]] straipsniuose nustatyta tvarka, išskyrus įteikimą kuratoriui ir viešo paskelbimo būdu. Ieškovui preliminaraus teismo sprendimo patvirtinta kopija išsiunčiama ne vėliau kaip per tris darbo dienas po šio sprendimo įsiteisėjimo. ^s-61dfd037face602dfb4bd663
 Straipsnio dalies pakeitimai:
 Nr. XII-2011, 2015-11-12, paskelbta TAR 2015-11-17, i. k. 2015-18264
 
@@ -9261,7 +9261,7 @@ Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29)
 1. Atsakovo prieštaravimai dėl pareikšto ieškinio ir preliminaraus teismo sprendimo turi būti pateikti raštu per dvidešimt dienų nuo preliminaraus sprendimo įteikimo dienos. Atsakovo prieštaravimai turi atitikti bendruosius reikalavimus, keliamus procesinių dokumentų turiniui ir formai, turi būti motyvuoti ir pagrįsti šio Kodekso [[#^s-4aa304276b019e5f902db0e3|177 straipsnyje]] nurodytomis įrodinėjimo priemonėmis. Priėmus prieštaravimus, ieškovas žyminio mokesčio neprimoka. ^s-0665e0658225d3258f202efe
 
 
-2. Priėmęs atsakovo prieštaravimus, teismas ne vėliau kaip kitą darbo dieną ieškovui išsiunčia atsakovo prieštaravimų kopiją ir priedus, išskyrus atvejus, kai pagal šio Kodekso nuostatas pateiktas tik vienas priedų egzempliorius. Ieškovas turi teisę per keturiolika dienų nuo teismo pranešimo įteikimo dienos pateikti atsiliepimą į atsakovo prieštaravimus ir savo reikalavimams pagrįsti atsiliepime nurodyti papildomus motyvus, ir pateikti naujus įrodymus. Gautą ieškovo atsiliepimą į atsakovo prieštaravimus teismas ne vėliau kaip per tris darbo dienas išsiunčia atsakovui. Dokumentiniam procesui netaikomos šio Kodekso 225–[[#^s-a10352ff9372ae2507337e3c|233 straipsniuose]] numatytos pasirengimo bylų nagrinėjimui taisyklės. ^s-92e9377a1ec2c00eee980f5f
+2. Priėmęs atsakovo prieštaravimus, teismas ne vėliau kaip kitą darbo dieną ieškovui išsiunčia atsakovo prieštaravimų kopiją ir priedus, išskyrus atvejus, kai pagal šio Kodekso nuostatas pateiktas tik vienas priedų egzempliorius. Ieškovas turi teisę per keturiolika dienų nuo teismo pranešimo įteikimo dienos pateikti atsiliepimą į atsakovo prieštaravimus ir savo reikalavimams pagrįsti atsiliepime nurodyti papildomus motyvus, ir pateikti naujus įrodymus. Gautą ieškovo atsiliepimą į atsakovo prieštaravimus teismas ne vėliau kaip per tris darbo dienas išsiunčia atsakovui. Dokumentiniam procesui netaikomos šio Kodekso [[#^s-3615b23525408d6703a29986|225]]–[[#^s-a10352ff9372ae2507337e3c|233]] straipsniuose numatytos pasirengimo bylų nagrinėjimui taisyklės. ^s-92e9377a1ec2c00eee980f5f
 
 
 3. Teismo posėdis skiriamas ne vėliau kaip per trisdešimt dienų nuo dienos, kurią teismas gavo ieškovo atsiliepimą į atsakovo prieštaravimus arba pasibaigė terminas atsiliepimui pateikti. ^s-3ff9a6cabdcadcfb72776afd
@@ -9475,7 +9475,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 1. Kreditoriaus pareiškimo priėmimo klausimas išsprendžiamas ne vėliau kaip kitą darbo dieną nuo jo padavimo teismui dienos. Jeigu kreditoriaus pareiškimas atitinka šiame skyriuje nustatytus reikalavimus, išduodamas teismo įsakymas ir nesurašoma teismo nutartis ar teisėjo rezoliucija dėl pareiškimo priėmimo. ^s-b25e9814178c9a5968183356
 
 
-2. Teismas nutartimi atsisako priimti pareiškimą dėl teismo įsakymo išdavimo, jeigu pareiškimas neatitinka bendrųjų reikalavimų, keliamų procesinių dokumentų turiniui ir formai, ir šio Kodekso [[#^s-6354f129b85fcd76c2030945|433 straipsnyje]] nurodytų reikalavimų, jeigu yra šio Kodekso [[#^s-edfd36c3065d1e2f785536a3|137 straipsnio 2 dalyje]] nurodytos aplinkybės, jeigu pareiškimas neatitinka šio Kodekso [[#^s-60b7264b7b76648efc0879b2|431 straipsnio]] 1 ir [[#^s-e0731fef8cc1fe496ccf3192|2 dalyse]] numatytų leistinumo reikalavimų arba jeigu pareiškimas yra aiškiai nepagrįstas. Nutartis atsisakyti priimti pareiškimą atskiruoju skundu neskundžiama. ^s-e0731fef8cc1fe496ccf3192
+2. Teismas nutartimi atsisako priimti pareiškimą dėl teismo įsakymo išdavimo, jeigu pareiškimas neatitinka bendrųjų reikalavimų, keliamų procesinių dokumentų turiniui ir formai, ir šio Kodekso [[#^s-6354f129b85fcd76c2030945|433 straipsnyje]] nurodytų reikalavimų, jeigu yra šio Kodekso [[#^s-edfd36c3065d1e2f785536a3|137 straipsnio 2 dalyje]] nurodytos aplinkybės, jeigu pareiškimas neatitinka šio Kodekso [[#^s-60b7264b7b76648efc0879b2|431 straipsnio]] [[#^s-35909b99accb531ad31cc45b|1]] ir [[#^s-b0fd969fbcaa763d2f3834cd|2]] dalyse numatytų leistinumo reikalavimų arba jeigu pareiškimas yra aiškiai nepagrįstas. Nutartis atsisakyti priimti pareiškimą atskiruoju skundu neskundžiama. ^s-e0731fef8cc1fe496ccf3192
 Straipsnio dalies pakeitimai:
 Nr. XII-2751, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26956
 
@@ -9589,7 +9589,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 ### 438 straipsnis. Procesinių dokumentų įteikimas ^s-b35864c0f7031d4b43c8501b
 
 
-Kreditoriaus pareiškimo ir teismo įsakymo kopijos ir teismo pranešimas skolininkui įteikiami šio Kodekso 123 ir [[#^s-680d361782cffdadb55f57d7|124 straipsniuose]] nustatyta tvarka, išskyrus įteikimą kuratoriui ir viešo paskelbimo būdu. Įsiteisėjęs teismo įsakymas per tris darbo dienas išsiunčiamas išieškotojui.
+Kreditoriaus pareiškimo ir teismo įsakymo kopijos ir teismo pranešimas skolininkui įteikiami šio Kodekso [[#^s-3344fb2a12b16aa68c74874b|123]] ir [[#^s-680d361782cffdadb55f57d7|124]] straipsniuose nustatyta tvarka, išskyrus įteikimą kuratoriui ir viešo paskelbimo būdu. Įsiteisėjęs teismo įsakymas per tris darbo dienas išsiunčiamas išieškotojui.
 
 
  Straipsnio pakeitimai:
@@ -9731,7 +9731,7 @@ Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
 2) buvo laikytasi šio Kodekso [[#^s-29fa54de39bb33454b3dc8ec|4412 straipsnyje]] numatytos išankstinio ginčų sprendimo ne teisme tvarkos; ^s-fef0a009cd97e2e42e20990c
 
 
-3) grupė turi grupės atstovą, kuris atitinka šio Kodekso [[#^s-006aee9b7cc56a7014c5d588|4414 straipsnio]] 1 ar [[#^s-a90e77936b0b53f5f1a0f06f|2 dalyje]] nustatytus reikalavimus. ^s-f7cee928721716d3f529055a
+3) grupė turi grupės atstovą, kuris atitinka šio Kodekso [[#^s-006aee9b7cc56a7014c5d588|4414 straipsnio]] [[#^s-94445f195388b98afe89d31b|1]] ar [[#^s-abe46f3a6f8c69c2dd3abe36|2]] dalyje nustatytus reikalavimus. ^s-f7cee928721716d3f529055a
 
 
 2. Be šiame Kodekse nustatytų bendrųjų ieškinio pareiškimo sąlygų, grupės ieškinys turi atitikti šias specialiąsias sąlygas: ^s-a90e77936b0b53f5f1a0f06f
@@ -9758,7 +9758,7 @@ Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
 4) pareikšti individualaus pobūdžio turtiniai grupės narių reikalavimai (jeigu jie reiškiami) ir nurodytos aplinkybės, kurios gali būti svarbios vertinant šiuos reikalavimus; ^s-f990cbb0139d6b4d276c09b9
 
 
-5) nurodyti duomenys, pagrindžiantys, kad grupės atstovas atitinka šio Kodekso [[#^s-006aee9b7cc56a7014c5d588|4414 straipsnio]] 1 ar [[#^s-a90e77936b0b53f5f1a0f06f|2 dalyje]] nustatytus reikalavimus; ^s-b3df6606584d7d1f07351c15
+5) nurodyti duomenys, pagrindžiantys, kad grupės atstovas atitinka šio Kodekso [[#^s-006aee9b7cc56a7014c5d588|4414 straipsnio]] [[#^s-94445f195388b98afe89d31b|1]] ar [[#^s-abe46f3a6f8c69c2dd3abe36|2]] dalyje nustatytus reikalavimus; ^s-b3df6606584d7d1f07351c15
 
 
 6) nurodyta, ar buvo tinkamai laikytasi šio Kodekso [[#^s-29fa54de39bb33454b3dc8ec|4412 straipsnyje]] numatytos išankstinio ginčų sprendimo ne teisme tvarkos; ^s-808bc1b8aa0ec98e4b529743
@@ -9808,7 +9808,7 @@ Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
 3. Grupės atstovas yra laikomas ieškovu. Bylos nagrinėjimo metu grupės atstovas grupės narių vardu teikia teismui įrodymus, atsikirtimus, argumentus, reikalavimus ar skundus, naudojasi kitomis šio Kodekso [[#^s-04bb8b11740d1df3685f30cd|42 straipsnyje]] nurodytomis šalių procesinėmis teisėmis. ^s-3cdd8935f0fe4fefd41615ef
 
 
-4. Grupės atstovas turi visas su bylinėjimosi išlaidų apmokėjimu susijusias teises ir pareigas. Bylinėjimosi išlaidas apmoka grupės nariai grupės atstovui šio Kodekso 44116 ir [[#^s-2822241302191d8e6313355f|44117 straipsniuose]] nustatyta tvarka. ^s-1e3ba8d9aaa5fd2d508fba0f
+4. Grupės atstovas turi visas su bylinėjimosi išlaidų apmokėjimu susijusias teises ir pareigas. Bylinėjimosi išlaidas apmoka grupės nariai grupės atstovui šio Kodekso [[#^s-5af85a7c649f8d6892d04be8|44116]] ir [[#^s-2822241302191d8e6313355f|44117]] straipsniuose nustatyta tvarka. ^s-1e3ba8d9aaa5fd2d508fba0f
 
 
 5. Grupės atstovas privalo: ^s-26e4485a325af314964b92ab
@@ -9869,7 +9869,7 @@ Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
 2. Laikoma, kad grupės narys yra prisijungęs prie grupės, kai jis grupės atstovui pateikia šio Kodekso [[#^s-7a72e16ecfccd641e419169e|4413 straipsnio 2 dalies 1 punkte]] nurodytą pareiškimą. ^s-bd28699199f4acf8fea189c7
 
 
-3. Kiekvienas grupės narys gali raštu pranešti teismui, kad pasitraukia iš grupės. Šia teise grupės narys gali pasinaudoti tol, kol teismas priima šio Kodekso [[#^s-26e3a630b2d3a44759a03783|4418 straipsnio 5 dalyje]] nurodytą nutartį, išskyrus šio Kodekso [[#^s-0bd1203a43648c04751dc341|4416 straipsnio]] 3 ir [[#^s-8413d0526d4ad2320d011d54|4 dalyse]] nurodytus atvejus. Pasitraukimas iš grupės neužkerta pasitraukusiam grupės nariui kelio reikšti individualų ieškinį tuo pačiu pagrindu ir dėl to paties dalyko. ^s-ad61921d684290dc36cc7279
+3. Kiekvienas grupės narys gali raštu pranešti teismui, kad pasitraukia iš grupės. Šia teise grupės narys gali pasinaudoti tol, kol teismas priima šio Kodekso [[#^s-26e3a630b2d3a44759a03783|4418 straipsnio 5 dalyje]] nurodytą nutartį, išskyrus šio Kodekso [[#^s-0bd1203a43648c04751dc341|4416 straipsnio]] [[#^s-9c03673b2b275af73b48e2dd|3]] ir [[#^s-2dcea90d6e2667a9dd7f4354|4]] dalyse nurodytus atvejus. Pasitraukimas iš grupės neužkerta pasitraukusiam grupės nariui kelio reikšti individualų ieškinį tuo pačiu pagrindu ir dėl to paties dalyko. ^s-ad61921d684290dc36cc7279
 
 
 4. Kai grupės ieškiniu reiškiami ir individualaus pobūdžio turtiniai grupės narių reikalavimai, kiekvienas grupės narys, išreikšdamas valią būti grupės nariu ir pareikšti ieškinį teismui, privalo grupės atstovui pranešti apie turimą individualaus pobūdžio turtinį reikalavimą ir pateikti jį pagrindžiančius įrodymus. ^s-8413d0526d4ad2320d011d54
@@ -9919,7 +9919,7 @@ Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
 
 
 
-3. Kai grupės ieškinys neatitinka šio Kodekso [[#^s-61cea61069e636f9d8d5b2ce|4413 straipsnio]] 2, 3 ir [[#^s-919a5dd5226defc5791d1274|4 dalyse]] nustatytų reikalavimų, ieškinio trūkumai šalinami šio Kodekso nustatyta procesinių dokumentų trūkumams pašalinti tvarka. ^s-49b06a385fa08f739c57763b
+3. Kai grupės ieškinys neatitinka šio Kodekso [[#^s-61cea61069e636f9d8d5b2ce|4413 straipsnio]] [[#^s-a90e77936b0b53f5f1a0f06f|2]], [[#^s-67d396875934cd4d2ec1aa6b|3]] ir [[#^s-f5ff143528e6e576fbbd5c78|4]] dalyse nustatytų reikalavimų, ieškinio trūkumai šalinami šio Kodekso nustatyta procesinių dokumentų trūkumams pašalinti tvarka. ^s-49b06a385fa08f739c57763b
 
 
 4. Teismas, priėmęs nutartį dėl grupės ieškinio priėmimo, specialiame interneto tinklalapyje paskelbia teismo patvirtintą pranešimą dėl grupės pildymo. ^s-919a5dd5226defc5791d1274
@@ -10056,7 +10056,7 @@ Nr. XIII-2778, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02013
 ### 44114 straipsnis. Kasacinio proceso ypatumai ^s-3c9f226a0c0f5f6872333b4a
 
 
-1. Kasaciniam procesui grupės ieškinio byloje mutatis mutandis taikomos šio Kodekso [[#^s-10124d001662019c0773d7b2|44113 straipsnio]] 1, 2, 4, 6 ir 7 dalių nuostatos ir bendrosios kasacinio proceso taisyklės. ^s-6cf617bb7dfac1e7fca78d5b
+1. Kasaciniam procesui grupės ieškinio byloje mutatis mutandis taikomos šio Kodekso [[#^s-10124d001662019c0773d7b2|44113 straipsnio]] [[#^s-766d84533b6e6d0b68fefd15|1]], [[#^s-04e83fec74f8684318e9cfd0|2]], [[#^s-5251c141d54166424777b6a0|4]], [[#^s-d6f4c6ead0f62624ccf817e8|6]] ir [[#^s-c94d8109a4942a2fe8e8e2b0|7]] dalių nuostatos ir bendrosios kasacinio proceso taisyklės. ^s-6cf617bb7dfac1e7fca78d5b
 
 
 2. Nutartis dėl iki kasacinio skundo padavimo termino pabaigos prireikus paduodamų kreipimųsi dėl grupės atstovo pakeitimo priima bendrą sprendimą dėl grupės ieškinio arba tarpinį sprendimą priėmęs pirmosios instancijos teismas. ^s-74507545e7194f0c38bdc2fa
@@ -10104,10 +10104,10 @@ Nr. XII-1242, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14517
 1. Prie su bylos nagrinėjimu susijusių išlaidų, be šio Kodekso [[#^s-3f0cb70198d0aea8a87d9b24|88 straipsnio 1 dalyje]] nurodytųjų, priskiriamos ir grupės atstovo protingos ir būtinos išlaidos. ^s-e91c1ddcc100dee51f10ac5d
 
 
-2. Kai pagal šio Kodekso [[#^s-d2c627f4de68d134cb10047c|93 straipsnį]] teismas priteisia iš grupės atlyginti kitos šalies bylinėjimosi išlaidas, laikoma, kad šios išlaidos grupės nariams priteisiamos lygiomis dalimis, išskyrus šio straipsnio 3, 4 ir [[#^s-1d71721a918e34727b88715d|5 dalyse]] numatytus atvejus. ^s-d4899dc4fffd7d52163a85a3
+2. Kai pagal šio Kodekso [[#^s-d2c627f4de68d134cb10047c|93 straipsnį]] teismas priteisia iš grupės atlyginti kitos šalies bylinėjimosi išlaidas, laikoma, kad šios išlaidos grupės nariams priteisiamos lygiomis dalimis, išskyrus šio straipsnio [[#^s-a325fbb65ba3b37b3e2dbd97|3]], [[#^s-0b09d4b8619feea75f53a8f7|4]] ir [[#^s-1d71721a918e34727b88715d|5]] dalyse numatytus atvejus. ^s-d4899dc4fffd7d52163a85a3
 
 
-3. Kai priimamas tarpinis sprendimas, šio straipsnio 1 ir [[#^s-d4899dc4fffd7d52163a85a3|2 dalyse]] nustatytos taisyklės taikomos tik tarpinio sprendimo priėmimo išlaidoms.  Individualaus pobūdžio turtinių grupės narių reikalavimų nagrinėjimo išlaidos po tarpinio sprendimo priėmimo tenka atskirai kiekvienam individualaus pobūdžio turtinį reikalavimą pareiškusiam grupės nariui. ^s-a325fbb65ba3b37b3e2dbd97
+3. Kai priimamas tarpinis sprendimas, šio straipsnio [[#^s-e91c1ddcc100dee51f10ac5d|1]] ir [[#^s-d4899dc4fffd7d52163a85a3|2]] dalyse nustatytos taisyklės taikomos tik tarpinio sprendimo priėmimo išlaidoms.  Individualaus pobūdžio turtinių grupės narių reikalavimų nagrinėjimo išlaidos po tarpinio sprendimo priėmimo tenka atskirai kiekvienam individualaus pobūdžio turtinį reikalavimą pareiškusiam grupės nariui. ^s-a325fbb65ba3b37b3e2dbd97
 
 
 4. Grupės narys, kuris pasitraukia iš grupės, atsako tik už tas išlaidas, kurios yra susijusios su procesiniais veiksmais, atliktais iki jo pasitraukimo. ^s-0b09d4b8619feea75f53a8f7
@@ -10391,7 +10391,7 @@ Pareiškime dėl fizinio asmens paskelbimo mirusiu, be bendrųjų reikalavimų, 
 3. Skelbimuose apie bylos iškėlimą turi būti nurodyta: ^s-561c6a649e19372c49a7d46c
 
 
-1) šio Kodekso [[#^s-4239b82422894f74d6f9b04a|450 straipsnio]] 1 ir [[#^s-4e87ce382d2ec1f900174ceb|2 punktuose]] nurodyti duomenys apie dingusį asmenį; ^s-068cdde77e28c98726ec1fca
+1) šio Kodekso [[#^s-4239b82422894f74d6f9b04a|450 straipsnio]] 1 ir 2 punktuose nurodyti duomenys apie dingusį asmenį; ^s-068cdde77e28c98726ec1fca
 
 
 2) iš bylos medžiagos žinomos esminės aplinkybės, kurios galėtų padėti rasti dingusį asmenį; ^s-4e87ce382d2ec1f900174ceb
@@ -10506,7 +10506,7 @@ Pasirengimas bylos dėl fizinio asmens pripažinimo nežinia kur esančiu nagrin
 ### 457 straipsnis. Bylos nagrinėjimas ^s-c3a52aca9584a151bc75de14
 
 
-Bylą dėl fizinio asmens pripažinimo nežinia kur esančiu teismas nagrinėja pagal šio Kodekso [[#^s-16709a56ffaa55ca0fd5226c|452 straipsnio]] 1 ir 2 dalyse nustatytas taisykles.
+Bylą dėl fizinio asmens pripažinimo nežinia kur esančiu teismas nagrinėja pagal šio Kodekso [[#^s-16709a56ffaa55ca0fd5226c|452 straipsnio]] [[#^s-2b41e5c6e6fa0b2426fe4469|1]] ir [[#^s-98bfdfdb269f816916e06552|2]] dalyse nustatytas taisykles.
 
 
 
@@ -10798,10 +10798,10 @@ Nr. XII-2127, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19743
 ### 472 straipsnis. Bylos nagrinėjimas ^s-b0a026c50984a8fb6495c5bf
 
 
-1. Byla dėl fizinio asmens pripažinimo ribotai veiksniu nagrinėjama laikantis šio Kodekso [[#^s-193374b44c0968e0259684dc|467 straipsnio]] 1, 2 ir 3 dalyse nustatytų taisyklių. ^s-b00ac774ae758c5289280c3d
+1. Byla dėl fizinio asmens pripažinimo ribotai veiksniu nagrinėjama laikantis šio Kodekso [[#^s-193374b44c0968e0259684dc|467 straipsnio]] [[#^s-07fd014b2b50c441c7a33ac6|1]], [[#^s-6ee330669564aab083214ab7|2]] ir [[#^s-494cd5c9abee3c295bdbdd3c|3]] dalyse nustatytų taisyklių. ^s-b00ac774ae758c5289280c3d
 
 
-2. Jeigu bylos dėl fizinio asmens pripažinimo ribotai veiksniu tam tikroje srityje nagrinėjimo metu nustatoma, kad šis asmuo dėl psichikos sutrikimo negali suprasti savo veiksmų reikšmės ar jų valdyti, teismas pareiškėjo prašymu ar savo iniciatyva turi aiškintis ir aplinkybes, ar nėra pagrindo asmenį pripažinti neveiksniu tam tikroje srityje. Šiuo atveju asmeniui teismas gali taikyti šio Kodekso [[#^s-f8b93db1162aa601e9a0e73e|467 straipsnio 4 dalyje]] numatytas priemones. Be to, teismas turi išspręsti šio Kodekso [[#^s-bb14a9aab41a316c94370f55|466 straipsnio]] 2 ir 3 dalyse nurodytus klausimus. Kai teismui kyla abejonių dėl asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje tikslingumo, visos abejonės turi būti vertinamos asmens, kurį prašoma pripažinti ribotai veiksniu tam tikroje srityje, naudai ir visais atvejais turi būti taikomos kuo mažiau asmens veiksnumą ribojančios priemonės. ^s-edc212ad78c1f41a4406eea9
+2. Jeigu bylos dėl fizinio asmens pripažinimo ribotai veiksniu tam tikroje srityje nagrinėjimo metu nustatoma, kad šis asmuo dėl psichikos sutrikimo negali suprasti savo veiksmų reikšmės ar jų valdyti, teismas pareiškėjo prašymu ar savo iniciatyva turi aiškintis ir aplinkybes, ar nėra pagrindo asmenį pripažinti neveiksniu tam tikroje srityje. Šiuo atveju asmeniui teismas gali taikyti šio Kodekso [[#^s-f8b93db1162aa601e9a0e73e|467 straipsnio 4 dalyje]] numatytas priemones. Be to, teismas turi išspręsti šio Kodekso [[#^s-bb14a9aab41a316c94370f55|466 straipsnio]] [[#^s-964bf1185b7e3e5196c5d776|2]] ir [[#^s-5a325205bebf07347d508971|3]] dalyse nurodytus klausimus. Kai teismui kyla abejonių dėl asmens pripažinimo neveiksniu tam tikroje srityje ar ribotai veiksniu tam tikroje srityje tikslingumo, visos abejonės turi būti vertinamos asmens, kurį prašoma pripažinti ribotai veiksniu tam tikroje srityje, naudai ir visais atvejais turi būti taikomos kuo mažiau asmens veiksnumą ribojančios priemonės. ^s-edc212ad78c1f41a4406eea9
 
 
 
@@ -10877,7 +10877,7 @@ Teismas, rengdamasis nagrinėti bylą:
 
 
 2) išreikalauja duomenis, ar nepilnametis nėra teistas ar įvykdęs administracinių nusižengimų ir kitų teisės pažeidimų; ^s-9e3a3c6d45575d057a0f7c77
-TAR pastaba. [[#^s-9e3a3c6d45575d057a0f7c77|476 straipsnio 2 punkto]] nuostatos taikomos ir tuo atveju, kai padaryti administraciniai teisės pažeidimai, numatyti Administracinių teisės pažeidimų kodekse.
+TAR pastaba. 476 straipsnio 2 punkto nuostatos taikomos ir tuo atveju, kai padaryti administraciniai teisės pažeidimai, numatyti [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492).
 Straipsnio punkto pakeitimai:
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
 
@@ -11078,7 +11078,7 @@ Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
 
 
 7. Paprastai bylos nagrinėjimas teisme baigiamas ir sprendimas dėl įvaikinimo priimamas ne vėliau kaip per du mėnesius nuo pareiškimo priėmimo dienos. Išimtiniais atvejais, kai tai būtina dėl vaiko interesų, šis terminas gali būti pratęstas. ^s-731926e03b875b66c9d2e6f9
-TAR pastaba. Iki [[latest/2307c440aeea11e5b12fbb7dc920ee2c|įstatymo Nr. XII-2236]] įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos Lietuvos Respublikos civilinio proceso kodekso V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas.
+TAR pastaba. Iki [[latest/2307c440aeea11e5b12fbb7dc920ee2c|įstatymo Nr. XII-2236]] įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nuostatas.
 Papildyta straipsnio dalimi:
 Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
 
@@ -11415,7 +11415,7 @@ Nr. XI-1032, 2010-09-23, Žin., 2010, Nr. 126-6457 (2010-10-26)
 1. Teismas, priėmęs sprendimą apriboti tėvų valdžią, privalo savo iniciatyva pradėti bylos dėl vaiko nuolatinės globos ar rūpybos nustatymo, vaiko globėjo ar rūpintojo paskyrimo nagrinėjimą. ^s-58f3a57b05eb8bd18f45d300
 
 
-2. Teismas, priėmęs sprendimą apriboti tėvų valdžią, tą pačią dieną nutartimi paveda valstybinei vaiko teisių apsaugos institucijai per dešimt dienų pateikti teismui šio Kodekso 498 ir [[#^s-e2241672dff80110026402d3|499 straipsniuose]] nurodytus duomenis, būtinus bylai išnagrinėti, taip pat išvadą dėl vaiko nuolatinės globos ar rūpybos nustatymo ir vaiko globėjo ar rūpintojo paskyrimo reikalingumo. ^s-4412fc9a708c95df591020ff
+2. Teismas, priėmęs sprendimą apriboti tėvų valdžią, tą pačią dieną nutartimi paveda valstybinei vaiko teisių apsaugos institucijai per dešimt dienų pateikti teismui šio Kodekso [[#^s-7eb0e10833e9309991e05824|498]] ir [[#^s-e2241672dff80110026402d3|499]] straipsniuose nurodytus duomenis, būtinus bylai išnagrinėti, taip pat išvadą dėl vaiko nuolatinės globos ar rūpybos nustatymo ir vaiko globėjo ar rūpintojo paskyrimo reikalingumo. ^s-4412fc9a708c95df591020ff
 
 
 3. Jeigu reikalinga skirti vaiko globėją ar rūpintoją ir jeigu vaiko globėju ar rūpintoju rekomenduojama skirti fizinį asmenį arba šeimyną, teismas išreikalauja duomenis apie šio fizinio asmens ir kartu su juo gyvenančių vyresnių kaip šešiolikos metų asmenų ar šeimynos dalyvių teistumą ir padarytus administracinius nusižengimus. ^s-1faa4b5a3e8b507ff030dc8a
@@ -11476,7 +11476,7 @@ Pareiškime turi būti pateikti duomenys apie vaiką, nurodyti šio Kodekso [[#^
 
 
 1) prašoma taikyti globos ar rūpybos forma ir jos pagrindimas, o tais atvejais, kai vaiko globėja ar rūpintoja rekomenduojama skirti vaikų globos (rūpybos) instituciją, taip pat duomenys apie priemones, kurios buvo taikytos siekiant užtikrinti vaiko globą ar rūpybą šeimoje, globos centre arba šeimynoje; ^s-1f12be175c8191aec6e0b917
-TAR pastaba. Iki [[latest/2307c440aeea11e5b12fbb7dc920ee2c|įstatymo Nr. XII-2236]] įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos Lietuvos Respublikos civilinio proceso kodekso V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas.
+TAR pastaba. Iki [[latest/2307c440aeea11e5b12fbb7dc920ee2c|įstatymo Nr. XII-2236]] įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nuostatas.
 Straipsnio punkto pakeitimai:
 Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
 Nr. XV-668, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22542
@@ -11527,7 +11527,7 @@ Nr. XIV-889, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00071
 
 
 2. Jei pareiškimą dėl vaiko nuolatinės globos ar rūpybos nustatymo paduoda prokuroras, prie šio pareiškimo gali būti pridėti valstybinės vaiko teisių apsaugos institucijos pareiškimas dėl globėjo ar rūpintojo skyrimo ir išvada dėl vaiko nuolatinės globos ar rūpybos nustatymo reikalingumo ir globėjo ar rūpintojo paskyrimo. Šie valstybinės vaiko teisių apsaugos institucijos dokumentai turi būti parengti ne anksčiau kaip prieš mėnesį iki prokuroro pareiškimo teismui įteikimo dienos. ^s-777ecb075426b338b5c1f923
-TAR pastaba. Iki [[latest/2307c440aeea11e5b12fbb7dc920ee2c|įstatymo Nr. XII-2236]] įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos Lietuvos Respublikos civilinio proceso kodekso V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas.
+TAR pastaba. Iki [[latest/2307c440aeea11e5b12fbb7dc920ee2c|įstatymo Nr. XII-2236]] įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nuostatas.
 
 
 Straipsnio pakeitimai:
@@ -11539,7 +11539,7 @@ Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
 
 
 1. Priėmęs prokuroro pareiškimą dėl vaiko nuolatinės globos ar rūpybos nustatymo, teismas paveda valstybinei vaiko teisių apsaugos institucijai pateikti pareiškimą dėl globėjo ar rūpintojo skyrimo ir išvadą dėl vaiko nuolatinės globos ar rūpybos nustatymo reikalingumo ir globėjo ar rūpintojo paskyrimo, išskyrus atvejus, kai šie dokumentai pateikiami kartu su prokuroro pareiškimu. ^s-1eaf0ff7664e17d23fbfa742
-TAR pastaba. Iki [[latest/2307c440aeea11e5b12fbb7dc920ee2c|įstatymo Nr. XII-2236]] įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos Lietuvos Respublikos civilinio proceso kodekso V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas.
+TAR pastaba. Iki [[latest/2307c440aeea11e5b12fbb7dc920ee2c|įstatymo Nr. XII-2236]] įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nuostatas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
 
@@ -11612,7 +11612,7 @@ Nr. XIII-242, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05913
 
 
 5. Paprastai bylos dėl vaiko nuolatinės globos ar rūpybos nustatymo ir (ar) globėjo ar rūpintojo paskyrimo (kai kartu nepareiškiama kitų reikalavimų, dėl kurių kyla ginčas) nagrinėjimas teisme baigiamas ir teismo nutartis dėl vaiko nuolatinės globos ar rūpybos nustatymo priimama ne vėliau kaip per vieną mėnesį nuo dienos, kurią buvo baigta pasirengti bylą nagrinėti teisme. Išimtiniais atvejais, kai tai būtina dėl vaiko interesų, bylos nagrinėjimas gali būti pratęstas. ^s-65ea126366a920eca63ecb12
-TAR pastaba. Iki [[latest/2307c440aeea11e5b12fbb7dc920ee2c|įstatymo Nr. XII-2236]] įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos Lietuvos Respublikos civilinio proceso kodekso V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas.
+TAR pastaba. Iki [[latest/2307c440aeea11e5b12fbb7dc920ee2c|įstatymo Nr. XII-2236]] įsigaliojimo (2016-01-01) pradėtos bylos, nurodytos [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) V dalies XXIX skyriuje ir XXX skyriaus antrajame skirsnyje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nuostatas.
 Papildyta straipsnio dalimi:
 Nr. XII-2236, 2015-12-22, paskelbta TAR 2015-12-30, i. k. 2015-21022
 
@@ -11667,7 +11667,7 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 
 
 3. Jeigu reikalinga skirti globėją ar rūpintoją, teismas išreikalauja duomenis apie asmens, rekomenduojamo paskirti globėju ar rūpintoju, teistumą ir padarytus administracinius nusižengimus. ^s-de65d8e0d5a449c0988f47f7
-TAR pastaba. [[#^s-de65d8e0d5a449c0988f47f7|506 straipsnio 3 dalies]] nuostatos taikomos ir tuo atveju, kai padaryti administraciniai teisės pažeidimai, numatyti Administracinių teisės pažeidimų kodekse.
+TAR pastaba. 506 straipsnio 3 dalies nuostatos taikomos ir tuo atveju, kai padaryti administraciniai teisės pažeidimai, numatyti [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492).
 Straipsnio dalies pakeitimai:
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
 
@@ -11746,14 +11746,14 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 2. Pareiškimas dėl rūpybos nustatymo ir rūpintojo paskyrimo paduodamas apylinkės teismui pagal asmens, kuriam reikalinga rūpyba, gyvenamąją vietą, o jeigu tokios vietos nėra, – pagal asmens buvimo vietą. ^s-a526597a800c38ce929d4a48
 
 
-3. Veiksnaus asmens pareiškime turi būti nurodyti rūpybos nustatymo ir rūpintojo paskyrimo reikalingumo motyvai. Teismas, rengdamasis nagrinėti bylą, paveda globos ir rūpybos institucijai pateikti teismui bylai išnagrinėti būtinus duomenis. Globos ir rūpybos institucija pateikia teismui išvadą, kurios turiniui atitinkamai taikytini šio Kodekso [[#^s-ca50f700705526a9ed43f6db|506 straipsnio 2 dalies]] 1, 2 ir 3 punktų reikalavimai. ^s-1212d992759aca0cf3338565
+3. Veiksnaus asmens pareiškime turi būti nurodyti rūpybos nustatymo ir rūpintojo paskyrimo reikalingumo motyvai. Teismas, rengdamasis nagrinėti bylą, paveda globos ir rūpybos institucijai pateikti teismui bylai išnagrinėti būtinus duomenis. Globos ir rūpybos institucija pateikia teismui išvadą, kurios turiniui atitinkamai taikytini šio Kodekso [[#^s-ca50f700705526a9ed43f6db|506 straipsnio 2 dalies]] [[#^s-4b74fca7c85f94d47ef48c3b|1]], [[#^s-594fe0f8636a337e509106df|2]] ir [[#^s-d8e6c4a3676a209f825a48bb|3]] punktų reikalavimai. ^s-1212d992759aca0cf3338565
 
 
-4. Globos ir rūpybos institucijos pareiškime turi būti nurodyti duomenys apie veiksnų asmenį, kuriam prašoma nustatyti rūpybą ir paskirti rūpintoją, taip pat išdėstytas rūpybos nustatymo ir rūpintojo paskyrimo reikalingumo pagrindimas. Prie pareiškimo turi būti pridėta globos ir rūpybos institucijos išvada, kurios turiniui atitinkamai taikytini šio Kodekso [[#^s-ca50f700705526a9ed43f6db|506 straipsnio 2 dalies]] 1, 2 ir 3 punktų reikalavimai. ^s-d820d198577c26920d797b09
+4. Globos ir rūpybos institucijos pareiškime turi būti nurodyti duomenys apie veiksnų asmenį, kuriam prašoma nustatyti rūpybą ir paskirti rūpintoją, taip pat išdėstytas rūpybos nustatymo ir rūpintojo paskyrimo reikalingumo pagrindimas. Prie pareiškimo turi būti pridėta globos ir rūpybos institucijos išvada, kurios turiniui atitinkamai taikytini šio Kodekso [[#^s-ca50f700705526a9ed43f6db|506 straipsnio 2 dalies]] [[#^s-4b74fca7c85f94d47ef48c3b|1]], [[#^s-594fe0f8636a337e509106df|2]] ir [[#^s-d8e6c4a3676a209f825a48bb|3]] punktų reikalavimai. ^s-d820d198577c26920d797b09
 
 
 5. Teismas, rengdamasis nagrinėti bylą, išreikalauja duomenis apie asmens, rekomenduojamo paskirti rūpintoju, teistumą ir padarytus administracinius nusižengimus. ^s-715bcfc7963845df4eab4091
-TAR pastaba. [[#^s-715bcfc7963845df4eab4091|509 straipsnio 5 dalies]] nuostatos taikomos ir tuo atveju, kai padaryti administraciniai teisės pažeidimai, numatyti Administracinių teisės pažeidimų kodekse.
+TAR pastaba. 509 straipsnio 5 dalies nuostatos taikomos ir tuo atveju, kai padaryti administraciniai teisės pažeidimai, numatyti [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492).
 Straipsnio dalies pakeitimai:
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
 
@@ -12297,7 +12297,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 
 
 2. Priimdamas sprendimą nutraukti santuoką vieno sutuoktinio prašymu, teismas taip pat turi išspręsti sutuoktinių nepilnamečių vaikų gyvenamosios vietos, dalyvavimo juos auklėjant ir nepilnamečių vaikų bendravimo su skyrium gyvenančiu tėvu (motina) tvarkos nustatymo ir jų išlaikymo, taip pat vieno sutuoktinio išlaikymo bei jų bendro turto padalijimo klausimus, išskyrus atvejus, kai turtas padalytas bendru sutuoktinių susitarimu, patvirtintu notaro, arba yra įsiteisėjęs teismo sprendimas dėl bendro turto padalijimo. ^s-85b869f2d4f56c78e8d43b95
-TAR pastaba. Iki [[latest/719d2640442211e6bd3bfefc575ccac4|įstatymo Nr. XII-2553]] įsigaliojimo (2017-01-02) pradėtos bylos, nurodytos Lietuvos Respublikos civilinio proceso kodekso IV dalies XIX skyriaus antrajame skirsnyje ir V dalies XXXV skyriuje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias Lietuvos Respublikos civilinio proceso kodekso nuostatas.
+TAR pastaba. Iki [[latest/719d2640442211e6bd3bfefc575ccac4|įstatymo Nr. XII-2553]] įsigaliojimo (2017-01-02) pradėtos bylos, nurodytos [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) IV dalies XIX skyriaus antrajame skirsnyje ir V dalies XXXV skyriuje, nagrinėjamos pagal iki šio įstatymo įsigaliojimo galiojusias [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nuostatas.
 Straipsnio dalies pakeitimai:
 Nr. XII-2553, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19359
 
@@ -12727,7 +12727,7 @@ Nr. XII-1065, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10461
 
 
 2. Valstybinė vaiko teisių apsaugos institucija teismui teikiamame prašyme išduoti teismo leidimą paimti vaiką iš jo atstovų pagal įstatymą turi nurodyti advokatą (jeigu jis žinomas), kuris atstovaus vaiko atstovams pagal įstatymą, taip pat prie prašymo pridėti Valstybės garantuojamos teisinės pagalbos tarnybos sprendimą dėl antrinės teisinės pagalbos teikimo vaiko atstovams pagal įstatymą (jeigu sprendimas yra priimtas). Jei kreipimosi į teismą metu šioje dalyje nurodytų duomenų ar dokumentų valstybinė vaiko teisių apsaugos institucija neturi, teismui jie pateikiami nedelsiant po to, kai gaunami. ^s-ae4253abc7b79d3179ae549b
-TAR pastaba. [[#^s-ae4253abc7b79d3179ae549b|581 straipsnio 2 dalis]] įsigalioja 2020-01-01.
+TAR pastaba. 581 straipsnio 2 dalis įsigalioja 2020-01-01.
 
 
 3. Prie prašymo išduoti teismo leidimą paimti vaiką iš jo atstovų pagal įstatymą turi būti pridėti įrodymai, kad iki kreipimosi į teismą šis prašymas su priedais buvo pasirašytinai įteiktas vaiko atstovams pagal įstatymą, arba prašyme nurodoma, dėl kokių priežasčių prašymo su priedais įteikti vaiko atstovams pagal įstatymą nėra galimybių arba nepavyko. ^s-d951962613b17f4bca7f8bf6
@@ -12769,7 +12769,7 @@ Nr. XIV-1349, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15470
 
 
 9. Teismui nagrinėjant bylą dėl leidimo paimti vaiką iš jo atstovų pagal įstatymą, būtina, kad vaiko atstovams pagal įstatymą atstovautų advokatas. ^s-0f87f9787b27ea25179853dd
-TAR pastaba. [[#^s-0f87f9787b27ea25179853dd|582 straipsnio 9 dalis]] įsigalioja 2020-01-01.
+TAR pastaba. 582 straipsnio 9 dalis įsigalioja 2020-01-01.
 
 
 10. Byla nagrinėjama šiame skyriuje nustatyta tvarka, neatsižvelgiant į tai, kad ginčas kyla dėl teisės, išskyrus Civiliniame kodekse numatytus atvejus. ^s-4adf77537e50d5ddc8be5b61
@@ -12834,7 +12834,7 @@ Nr. XIV-2806, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12623
 
 
 3) teismo nutarimai administracinių nusižengimų bylose tiek, kiek jie susiję su turtinio pobūdžio išieškojimais; ^s-95a6fd5d94129029102c5a66
-TAR pastaba. [[#^s-95a6fd5d94129029102c5a66|584 straipsnio 1 dalies 3 punkto]] nuostatos taikomos ir nutarimams administracinių teisės pažeidimų, numatytų Administracinių teisės pažeidimų kodekse, bylose.
+TAR pastaba. 584 straipsnio 1 dalies 3 punkto nuostatos taikomos ir nutarimams administracinių teisės pažeidimų, numatytų [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), bylose.
 Straipsnio punkto pakeitimai:
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
 
@@ -12850,7 +12850,7 @@ Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
 
 
 1) institucijų ir pareigūnų nutarimai administracinių nusižengimų bylose tiek, kiek jie susiję su turtinio pobūdžio išieškojimais; ^s-41a3b72ae428517ea516f7df
-TAR pastaba. [[#^s-41a3b72ae428517ea516f7df|584 straipsnio 2 dalies 1 punkto]] nuostatos taikomos ir nutarimams administracinių teisės pažeidimų, numatytų Administracinių teisės pažeidimų kodekse, bylose.
+TAR pastaba. 584 straipsnio 2 dalies 1 punkto nuostatos taikomos ir nutarimams administracinių teisės pažeidimų, numatytų [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), bylose.
 Straipsnio punkto pakeitimai:
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
 
@@ -12930,7 +12930,7 @@ Vykdomieji dokumentai yra:
 
 
 6) institucijų ir pareigūnų nutarimai administracinių nusižengimų bylose tiek – kiek jie susiję su turtinio pobūdžio išieškojimais; ^s-7b44f5feaa3c18907eac58b5
-TAR pastaba. [[#^s-7b44f5feaa3c18907eac58b5|587 straipsnio 6 punkto]] nuostatos taikomos ir nutarimams administracinių teisės pažeidimų, numatytų Administracinių teisės pažeidimų kodekse, bylose.
+TAR pastaba. 587 straipsnio 6 punkto nuostatos taikomos ir nutarimams administracinių teisės pažeidimų, numatytų [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), bylose.
 Straipsnio punkto pakeitimai:
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
 
@@ -13006,7 +13006,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 3. Vykdomasis dokumentas dėl nepiniginio pobūdžio išieškojimo pateikiamas vykdyti antstoliui, kurio veiklos teritorijoje turi būti atliekami vykdymo veiksmai. ^s-0eafa57e06849ad1402fab09
 
 
-4. Jeigu vykdomojo dokumento pateikimo vykdyti momentu antstolis jau vykdo išieškojimą iš skolininko, šio straipsnio 1 ir [[#^s-98658a66bc02a07ac3454426|2 dalys]] netaikomos ir vykdomasis dokumentas pateikiamas vykdyti antstoliui, jau vykdančiam išieškojimą iš šio skolininko. ^s-ba56f7ba2e03c816d9a894de
+4. Jeigu vykdomojo dokumento pateikimo vykdyti momentu antstolis jau vykdo išieškojimą iš skolininko, šio straipsnio [[#^s-c1a7e1940022d4376a41888a|1]] ir [[#^s-98658a66bc02a07ac3454426|2]] dalys netaikomos ir vykdomasis dokumentas pateikiamas vykdyti antstoliui, jau vykdančiam išieškojimą iš šio skolininko. ^s-ba56f7ba2e03c816d9a894de
 
 
 5. Antstolis vykdymo veiksmus atlieka savo veiklos teritorijoje. Jeigu vykdymo veiksmai turi būti atliekami kito antstolio veiklos teritorijoje, išskyrus šio Kodekso [[#^s-ba483d4b5cbff5c4b192d0ae|591 straipsnio 1 dalyje]] nurodytą atvejį, antstolis vykdomąjį dokumentą grąžina išieškotojui. ^s-ac03fe9b90cdd5b9f3db6996
@@ -13307,7 +13307,7 @@ Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 ### 605 straipsnis. Antstolio procesinių dokumentų įteikimo būdai ^s-005921ed8a64f3072f832847
 
 
-1. Antstolio procesiniai dokumentai vykdymo proceso dalyviams įteikiami pasirašytinai, siunčiami registruotąja pašto siunta arba elektroninių ryšių priemonėmis šio straipsnio 2, 3 ir [[#^s-0f85b0ee4eef2d104bcf1ece|4 dalyse]] nustatyta tvarka. ^s-19d686c7d9ac036543088d68
+1. Antstolio procesiniai dokumentai vykdymo proceso dalyviams įteikiami pasirašytinai, siunčiami registruotąja pašto siunta arba elektroninių ryšių priemonėmis šio straipsnio [[#^s-4a926464830d1f324f9a02f3|2]], [[#^s-b9d196192680d061b3355b59|3]] ir [[#^s-0f85b0ee4eef2d104bcf1ece|4]] dalyse nustatyta tvarka. ^s-19d686c7d9ac036543088d68
 
 
 2. Vykdomosiose bylose dėl mažesnių negu 1 000 eurų pinigų sumų išieškojimo antstolio procesiniai dokumentai vykdymo proceso dalyviams siunčiami elektroninių ryšių priemonėmis, išskyrus šiame Kodekse nustatytus atvejus, kai procesinis dokumentas siunčiamas registruotąja pašto siunta. Procesinių dokumentų siuntimo elektroninių ryšių priemonėmis tvarką nustato teisingumo ministras. ^s-4a926464830d1f324f9a02f3
@@ -13527,7 +13527,7 @@ Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 ### 616 straipsnis. Bauda ir areštas vykdymo procese ^s-0017873e4d1d95d8236daf2a
 
 
-1. Vykdymo procese nustatytais atvejais kalti asmenys už proceso pažeidimus gali būti baudžiami pinigine bauda arba areštu šio Kodekso 106, [[#^s-96e3fb93994e429fa3c3db4b|108 straipsniuose]] nustatyta tvarka. ^s-cc8691f3858af823b1cfb03a
+1. Vykdymo procese nustatytais atvejais kalti asmenys už proceso pažeidimus gali būti baudžiami pinigine bauda arba areštu šio Kodekso [[#^s-e7cf0b51995780ef706de5f9|106]], [[#^s-96e3fb93994e429fa3c3db4b|108]] straipsniuose nustatyta tvarka. ^s-cc8691f3858af823b1cfb03a
 
 
 2. Prašymą teismui taikyti [[#^s-cc8691f3858af823b1cfb03a|šio straipsnio 1 dalyje]] numatytas sankcijas gali pateikti antstolis arba vykdymo proceso šalys. ^s-4cd738b3041fae2d135bd24d
@@ -13755,7 +13755,7 @@ Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 
 4. Antstolis, iš Užimtumo tarnybos prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos gavęs duomenis apie skolininką, kuris paskutinius 6 mėnesius nedirbo pagal darbo sutartį arba darbo santykiams prilygintų teisinių santykių pagrindu ir pradėjo dirbti pagal darbo sutartį arba darbo santykiams prilygintų teisinių santykių pagrindu, esant rašytiniam skolininko prašymui, privalo sustabdyti išieškojimą iš skolininko darbo užmokesčio ir jam prilygintų išmokų bei davinių. ^s-9738399c1db32faf905abd3d
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos civilinio proceso kodekso [[#^s-9738399c1db32faf905abd3d|626 straipsnio 4 dalis]] (2024 m. gegužės 16 d. redakcija, TAR, 2024-05-30, Nr. 9690, identifikacinis kodas 2024-09690) tiek, kiek pagal ją sustabdomas nepilnamečių vaikų išlaikymo išieškojimas, prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-d29b1524519d5c566856c972|38 straipsnio]] 2, [[#^s-d82e11e02895b0ded6b92db4|6 dalims]], [[#^s-28a93fdc0ac0b9cb0ebfedf1|39 straipsnio 3 daliai]].
+TAR pastaba. Pripažinti, kad [Lietuvos Respublikos civilinio proceso kodekso 626 straipsnio 4 dalis](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) (2024 m. gegužės 16 d. redakcija, TAR, 2024-05-30, Nr. 9690, identifikacinis kodas 2024-09690) tiek, kiek pagal ją sustabdomas nepilnamečių vaikų išlaikymo išieškojimas, prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-d29b1524519d5c566856c972|38 straipsnio]] [[#^s-b4ca6701666f8a3581e30a9a|2]], 6 dalims, [[#^s-28a93fdc0ac0b9cb0ebfedf1|39 straipsnio 3 daliai]].
 Papildyta straipsnio dalimi:
 Nr. XIV-2652, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09690
 Straipsnio dalies pakeitimai:
@@ -13769,13 +13769,13 @@ Nr. XIV-2652, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09690
 
 
 
-6. Šio straipsnio 4 ir [[#^s-c4a0335ba5b15c9f1eea4dbc|5 dalių]] nuostatos taikomos skolininko darbo užmokesčiui ir jam prilygintoms išmokoms ir daviniams, kuriuos skolininko darbdavys jam išmoka po šio skolininko prašymo stabdyti išieškojimą pateikimo antstoliui dienos, tačiau netaikomos išieškant iš šio Kodekso [[#^s-d059d6f17d142fa8a9332007|737 straipsnyje]] nurodytų skolininko pajamų. ^s-d82e11e02895b0ded6b92db4
+6. Šio straipsnio [[#^s-9738399c1db32faf905abd3d|4]] ir [[#^s-c4a0335ba5b15c9f1eea4dbc|5]] dalių nuostatos taikomos skolininko darbo užmokesčiui ir jam prilygintoms išmokoms ir daviniams, kuriuos skolininko darbdavys jam išmoka po šio skolininko prašymo stabdyti išieškojimą pateikimo antstoliui dienos, tačiau netaikomos išieškant iš šio Kodekso [[#^s-d059d6f17d142fa8a9332007|737 straipsnyje]] nurodytų skolininko pajamų. ^s-d82e11e02895b0ded6b92db4
 Papildyta straipsnio dalimi:
 Nr. XIV-2652, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09690
 
 
 
-7. Šio straipsnio 4, 5 ir [[#^s-d82e11e02895b0ded6b92db4|6 dalių]] nuostatos netaikomos išieškant išlaikymą, žalos, padarytos suluošinimu ar kitokiu sveikatos sužalojimu, taip pat maitintojo gyvybės atėmimu, atlyginimą. ^s-c1bfe7750ea1b5113f4bf2d7
+7. Šio straipsnio [[#^s-9738399c1db32faf905abd3d|4]], [[#^s-c4a0335ba5b15c9f1eea4dbc|5]] ir [[#^s-d82e11e02895b0ded6b92db4|6]] dalių nuostatos netaikomos išieškant išlaikymą, žalos, padarytos suluošinimu ar kitokiu sveikatos sužalojimu, taip pat maitintojo gyvybės atėmimu, atlyginimą. ^s-c1bfe7750ea1b5113f4bf2d7
 Papildyta straipsnio dalimi:
 Nr. XV-1041, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11114
 
@@ -13843,7 +13843,7 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 2. Vykdomoji byla atnaujinama išieškotojo ar skolininko pareiškimu arba antstolio iniciatyva. ^s-3294b539e4f375aad5bfffe4
 
 
-3. Sustabdžius vykdomąją bylą šio Kodekso 626 ir [[#^s-f3ecbd786ba0bb5d7d953bd1|627 straipsniuose]] numatytais pagrindais, antstolis gali imtis tik priemonių skolininko turtui surasti bei areštuoti. ^s-64e3d254e0919118daf05cb9
+3. Sustabdžius vykdomąją bylą šio Kodekso [[#^s-471ae693ad1ec1909da649e2|626]] ir [[#^s-f3ecbd786ba0bb5d7d953bd1|627]] straipsniuose numatytais pagrindais, antstolis gali imtis tik priemonių skolininko turtui surasti bei areštuoti. ^s-64e3d254e0919118daf05cb9
 
 
 4. Vykdomoji byla, kurioje mirusio skolininko turtą paveldi valstybė, išskyrus atvejus, kai vykdomas išieškojimas iš įkeisto turto, sustabdoma tol, kol valstybės institucija Vyriausybės nustatyta tvarka realizuos valstybės paveldėtą skolininko turtą ir apmokės antstoliui vykdymo išlaidas, apskaičiuotas iki vykdomosios bylos sustabdymo dėl to, kad mirusio skolininko turtą paveldi valstybė. ^s-ef3b911b9a721e19de5fcfa6
@@ -14022,7 +14022,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 4) persiuntus vykdomąjį dokumentą bankroto ar restruktūrizavimo bylą nagrinėjančiam teismui. ^s-80e9190f0bc1911ca103a8b0
 
 
-2. Antstolis, baigdamas vykdomąją bylą [[#^s-80e9190f0bc1911ca103a8b0|šio straipsnio 1 dalies 4 punkte]] numatytu atveju ar šio Kodekso [[#^s-6b1247305d1829a4e3447c37|631 straipsnio 1 dalies]] 7 ir 8 punktuose nurodytais pagrindais vykdomąjį dokumentą grąžinęs išieškotojui, nepanaikina priemonių, kurių buvo imtasi išieškojimui vykdyti. Taikytos priverstinio vykdymo priemonės galioja iki vykdomojo dokumento įvykdymo, išskyrus atvejus, kai, šio Kodekso [[#^s-6b1247305d1829a4e3447c37|631 straipsnio 1 dalies]] 7 ir 8 punktuose nurodytais pagrindais vykdomąjį dokumentą grąžinus išieškotojui, išieškotojas per 20 darbo dienų vykdomojo dokumento nepateikia vykdyti pakartotinai. Antstolis, priėmęs vykdyti vykdomąjį dokumentą, kai šio Kodekso [[#^s-6b1247305d1829a4e3447c37|631 straipsnio 1 dalies]] 7 ir 8 punktuose nurodytais pagrindais šį dokumentą grąžinus išieškotojui nebuvo panaikintos priemonės, kurių buvo imtasi išieškojimui įvykdyti, turi teisę taikyti papildomas priverstinio vykdymo priemones arba panaikinti anksčiau taikytąsias. ^s-98824e2590bf9ceeba499af9
+2. Antstolis, baigdamas vykdomąją bylą [[#^s-80e9190f0bc1911ca103a8b0|šio straipsnio 1 dalies 4 punkte]] numatytu atveju ar šio Kodekso [[#^s-6b1247305d1829a4e3447c37|631 straipsnio 1 dalies]] [[#^s-079bf0a5d05f76dec1dfa766|7]] ir [[#^s-c388e7aeeafed5df79c28c1d|8]] punktuose nurodytais pagrindais vykdomąjį dokumentą grąžinęs išieškotojui, nepanaikina priemonių, kurių buvo imtasi išieškojimui vykdyti. Taikytos priverstinio vykdymo priemonės galioja iki vykdomojo dokumento įvykdymo, išskyrus atvejus, kai, šio Kodekso [[#^s-6b1247305d1829a4e3447c37|631 straipsnio 1 dalies]] [[#^s-079bf0a5d05f76dec1dfa766|7]] ir [[#^s-c388e7aeeafed5df79c28c1d|8]] punktuose nurodytais pagrindais vykdomąjį dokumentą grąžinus išieškotojui, išieškotojas per 20 darbo dienų vykdomojo dokumento nepateikia vykdyti pakartotinai. Antstolis, priėmęs vykdyti vykdomąjį dokumentą, kai šio Kodekso [[#^s-6b1247305d1829a4e3447c37|631 straipsnio 1 dalies]] [[#^s-079bf0a5d05f76dec1dfa766|7]] ir [[#^s-c388e7aeeafed5df79c28c1d|8]] punktuose nurodytais pagrindais šį dokumentą grąžinus išieškotojui nebuvo panaikintos priemonės, kurių buvo imtasi išieškojimui įvykdyti, turi teisę taikyti papildomas priverstinio vykdymo priemones arba panaikinti anksčiau taikytąsias. ^s-98824e2590bf9ceeba499af9
 
 
 Straipsnio pakeitimai:
@@ -14453,7 +14453,7 @@ XLV SKYRIUS VYKDOMŲJŲ DOKUMENTŲ PATEIKIMO IR  PRIĖMIMO VYKDYTI TVARKA
 
 
 2. Pateikdami išieškojimui vykdyti vykdomąjį dokumentą, Valstybinė mokesčių inspekcija dėl turtinio pobūdžio išieškojimų, kitos institucijos ir pareigūnai, kurių sprendimų vykdymas civilinio proceso tvarka nustatytas įstatymuose, kartu pateikia antstoliui duomenis, patvirtinančius, kad pateikiamas vykdomasis dokumentas nėra įvykdytas ir turi būti vykdomas priverstine tvarka, taip pat atsako už šių duomenų teisingumą. ^s-273f1e278a5b6fca5ed8f3ed
-TAR pastaba. [[#^s-273f1e278a5b6fca5ed8f3ed|650 straipsnio 2 dalies]] nuostatos taikomos ir administracinių teisės pažeidimų, numatytų Administracinių teisės pažeidimų kodekse, byloms.
+TAR pastaba. 650 straipsnio 2 dalies nuostatos taikomos ir administracinių teisės pažeidimų, numatytų [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), byloms.
 Straipsnio dalies pakeitimai:
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
 Nr. XIV-2806, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12623
@@ -14507,7 +14507,7 @@ Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 
 8) ar Valstybinė mokesčių inspekcija dėl turtinio pobūdžio išieškojimų, kitos institucijos ir pareigūnai, kurių sprendimų vykdymą civilinio proceso tvarka nustato įstatymai, patikrino, kad pateikiamas vykdomasis dokumentas nėra įvykdytas ir turi būti vykdomas priverstine tvarka; ^s-cf60a67ee4bdece5d20280f1
-TAR pastaba. [[#^s-afc149bbe36bd431c70c524e|651 straipsnio 2 dalies 7 punkto]] nuostatos taikomos ir administracinių teisės pažeidimų, numatytų Administracinių teisės pažeidimų kodekse, byloms.
+TAR pastaba. [[#^s-afc149bbe36bd431c70c524e|651 straipsnio 2 dalies 7 punkto]] nuostatos taikomos ir administracinių teisės pažeidimų, numatytų [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), byloms.
 Straipsnio punkto pakeitimai:
 Nr. XII-2719, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26505
 Nr. XIV-2806, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12623
@@ -14601,7 +14601,7 @@ Raginime įvykdyti sprendimą nurodoma:
 5) kad neįvykdžius sprendimo, antstolis sprendimą vykdys priverstinai ir iš skolininko bus išieškotos Sprendimų vykdymo instrukcijoje nustatytos vykdymo išlaidos; ^s-a2a3aa713fb39f22d3247dd2
 
 
-6) skolininko teisės ir pareigos vykdymo procese, nurodytos 643 ir [[#^s-97d9ef71ddbc74ce7c7cce9b|644 straipsniuose]]. ^s-7e481a9dce8548c18a0608c3
+6) skolininko teisės ir pareigos vykdymo procese, nurodytos [[#^s-d08cb673d425e055c30b8200|643]] ir [[#^s-97d9ef71ddbc74ce7c7cce9b|644]] straipsniuose. ^s-7e481a9dce8548c18a0608c3
 
 
 
@@ -14698,13 +14698,13 @@ IŠIEŠKOJIMO IŠ SKOLININKO TURTO BENDROSIOS TAISYKLĖS
 ### 662 straipsnis. Išieškojimo iš skolininko pajamų ar turto eilės tvarka ^s-26b63f91696bad86e3424168
 
 
-1. Išieškotojas, laikydamasis šio Kodekso 664, [[#^s-432832ace66fc71d6e6c5201|665 straipsniuose]] nustatytos eilės, iki priverstinio vykdymo pradžios gali raštu nurodyti, iš kokio skolininko turto ar pajamų išieškoma pirmiausia. ^s-3b9ccb0dbed9dad3b76752d8
+1. Išieškotojas, laikydamasis šio Kodekso [[#^s-e2dbe17b240fc7ff1a78493e|664]], [[#^s-432832ace66fc71d6e6c5201|665]] straipsniuose nustatytos eilės, iki priverstinio vykdymo pradžios gali raštu nurodyti, iš kokio skolininko turto ar pajamų išieškoma pirmiausia. ^s-3b9ccb0dbed9dad3b76752d8
 
 
 2. Jeigu išieškotojas nurodė, iš kokio turto išieškoti, šis nurodymas antstoliui yra privalomas. ^s-1515b8fdc2f2d7b34a4622ac
 
 
-3. Jeigu išieškotojas per [[#^s-3b9ccb0dbed9dad3b76752d8|šio straipsnio 1 dalyje]] nustatytą terminą nenurodė, iš kokio turto išieškoti, antstolis, laikydamasis šio Kodekso 664 ir [[#^s-432832ace66fc71d6e6c5201|665 straipsniuose]] nustatytos tvarkos, pats nustato, iš kokio skolininko turto ar pajamų išieškoti. ^s-42709bc784ba4f201eb291de
+3. Jeigu išieškotojas per [[#^s-3b9ccb0dbed9dad3b76752d8|šio straipsnio 1 dalyje]] nustatytą terminą nenurodė, iš kokio turto išieškoti, antstolis, laikydamasis šio Kodekso [[#^s-e2dbe17b240fc7ff1a78493e|664]] ir [[#^s-432832ace66fc71d6e6c5201|665]] straipsniuose nustatytos tvarkos, pats nustato, iš kokio skolininko turto ar pajamų išieškoti. ^s-42709bc784ba4f201eb291de
 
 
 4. Iš paskesnės eilės turto gali būti išieškoma tik tuo atveju, jeigu nėra antstoliui žinomo pirmesnės eilės turto, šio turto gali neužtekti išieškomai sumai ir vykdymo išlaidoms padengti, šis turtas yra nelikvidus arba jeigu to raštu prašo skolininkas. ^s-41d119facba7799b99fd6e93
@@ -14758,7 +14758,7 @@ Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 2. Antrąja eile išieškoma iš skolininkui priklausančių pinigų, turtinių teisių, vertybinių popierių, darbo užmokesčio, stipendijos ar kitų pajamų arba kilnojamojo turto. ^s-a2a5c5d2adef1564a58986ec
 
 
-3. Trečiąja eile išieškoma iš skolininkui priklausančio nekilnojamojo turto, išskyrus nurodytą šio straipsnio 4 ir [[#^s-9c3e9955e662c7166ffbb1fd|5 dalyse]]. ^s-cee877c0b20bcbecd02ff395
+3. Trečiąja eile išieškoma iš skolininkui priklausančio nekilnojamojo turto, išskyrus nurodytą šio straipsnio [[#^s-d341dcaa41b363493edf29dd|4]] ir [[#^s-9c3e9955e662c7166ffbb1fd|5]] dalyse. ^s-cee877c0b20bcbecd02ff395
 
 
 4. Ketvirtąja eile išieškoma iš skolininkui priklausančios žemės ūkio paskirties žemės, jeigu skolininko pagrindinis verslas yra žemės ūkis. ^s-d341dcaa41b363493edf29dd
@@ -14852,7 +14852,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 ### 669 straipsnis. Išieškojimo tvarka likviduojant įmones, įstaigas, organizacijas ^s-5c0d9e7309be578cd3f6894e
 
 
-Likviduojant įmonę, įstaigą, organizaciją, išieškojimas gali būti nukreipiamas į visą jos turtą, nesilaikant šio Kodekso [[#^s-432832ace66fc71d6e6c5201|665 straipsnio]] 2 – 4 dalyse nustatytos eilės.
+Likviduojant įmonę, įstaigą, organizaciją, išieškojimas gali būti nukreipiamas į visą jos turtą, nesilaikant šio Kodekso [[#^s-432832ace66fc71d6e6c5201|665 straipsnio]] [[#^s-6e0603a9c90ab4d8295eff4e|2]] – [[#^s-bb3484e66d28a630ebed746a|4]] dalyse nustatytos eilės.
 
 
 
@@ -14999,7 +14999,7 @@ Kiekvieną areštuotą daiktą antstolis, jeigu yra galimybė, iš išorės paž
 11) asmens, kuriam turtas perduotas saugoti (administruoti), vardas, pavardė, asmens kodas ir adresas, jeigu turtą saugoti (administruoti) pavedama ne pačiam skolininkui; ^s-3888cd797b059de3ce25dc34
 
 
-12) kad skolininkui ir kitiems asmenims išaiškinta antstolio veiksmų apskundimo tvarka ir terminas, taip pat kad skolininkui arba turto saugotojui (administratoriui) išaiškintos su saugojimu susijusios jų pareigos ir atsakomybė, numatyta šio Kodekso 619 ir [[#^s-cef43c928409ba15e2fe8136|683 straipsniuose]]; ^s-a9479794adce1662cfafc8e5
+12) kad skolininkui ir kitiems asmenims išaiškinta antstolio veiksmų apskundimo tvarka ir terminas, taip pat kad skolininkui arba turto saugotojui (administratoriui) išaiškintos su saugojimu susijusios jų pareigos ir atsakomybė, numatyta šio Kodekso [[#^s-b6709746421fa94e6b80e9bd|619]] ir [[#^s-cef43c928409ba15e2fe8136|683]] straipsniuose; ^s-a9479794adce1662cfafc8e5
 
 
 13) išieškotojo, skolininko ir kitų asmenų, dalyvaujančių aprašant turtą, pastabos bei pareiškimai, kai sudaromas turto aprašas, taip pat antstolio patvarkymai dėl jų. ^s-b89466c30a179a6768df4709
@@ -15071,13 +15071,13 @@ Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
 
 
-2. Jeigu išieškotojas ar skolininkas pareiškia motyvuotus prieštaravimus dėl ekspertizės išvados, jų prašymu antstolis patvarkymu gali skirti papildomą ar pakartotinę ekspertizę. Antstolio patvarkymas atsisakyti skirti papildomą ar pakartotinę ekspertizę turi būti motyvuotas ir gali būti skundžiamas teismui. ^s-d810df4f043d26b6de1fad8c
+2. Jeigu išieškotojas ar skolininkas pareiškia motyvuotus prieštaravimus [dėl ekspertizės](https://e-tar.lt/portal/lt/legalAct/TAR.CE0C6BC088F0) išvados, jų prašymu antstolis patvarkymu gali skirti papildomą ar pakartotinę ekspertizę. Antstolio patvarkymas atsisakyti skirti papildomą ar pakartotinę ekspertizę turi būti motyvuotas ir gali būti skundžiamas teismui. ^s-d810df4f043d26b6de1fad8c
 
 
 3. Skolininkas ar išieškotojas, prieštaraujantys dėl antstolio nustatytos turto vertės, turi prieš skiriant ekspertizę sumokėti į antstolio depozitinę sąskaitą sumas, būtinas už ekspertizės atlikimą. Jeigu skolininkas ar išieškotojas pareiškia prieštaravimus dėl antstolio nustatytos turto vertės, tačiau už ekspertizės atlikimą būtinų sumų nesumoka ir nėra pagrindo jo nuo šių sumų sumokėjimo atleisti, antstolis savo iniciatyva gali skirti ekspertizę turto vertei nustatyti. Šiuo atveju už ekspertizės atlikimą sumokama iš antstolio sąskaitos. Ekspertizės atlikimo išlaidos išieškomos iš skolininko šio Kodekso [[#^s-e6dcc6a2c466fffeaf42666a|611 straipsnyje]] nustatyta tvarka. Šioje dalyje numatytu atveju antstolio patvarkymas atsisakyti skirti ekspertizę turi būti motyvuotas ir gali būti skundžiamas teismui. ^s-dc3833c55c2991c045cd9bc7
 
 
-4. Skolininkas ar išieškotojas motyvuotu prašymu gali kreiptis į antstolį, kad atidėtų šio straipsnio 2 ir [[#^s-dc3833c55c2991c045cd9bc7|3 dalyse]] nurodytų sumų mokėjimą, o išieškotojas – kad visiškai ar iš dalies atleistų nuo mokėjimo bei šias sumas apmokėtų iš antstolio lėšų. Prie prašymo turi būti pridedami įrodymai, patvirtinantys, kad šių sumų mokėjimą būtina atidėti, iš dalies ar visiškai nuo jo atleisti. Antstolis, atsižvelgdamas į turtinę prašytojų padėtį, savo rašytiniu patvarkymu gali atidėti išlaidų mokėjimą iki turto realizavimo pabaigos, visiškai ar iš dalies atleisti nuo sumų, būtinų ekspertams ir ekspertinėms įstaigoms, sumokėjimo arba prašymą atmesti. ^s-0d944bf4eb2ca46cf0c7b2f5
+4. Skolininkas ar išieškotojas motyvuotu prašymu gali kreiptis į antstolį, kad atidėtų šio straipsnio [[#^s-d810df4f043d26b6de1fad8c|2]] ir [[#^s-dc3833c55c2991c045cd9bc7|3]] dalyse nurodytų sumų mokėjimą, o išieškotojas – kad visiškai ar iš dalies atleistų nuo mokėjimo bei šias sumas apmokėtų iš antstolio lėšų. Prie prašymo turi būti pridedami įrodymai, patvirtinantys, kad šių sumų mokėjimą būtina atidėti, iš dalies ar visiškai nuo jo atleisti. Antstolis, atsižvelgdamas į turtinę prašytojų padėtį, savo rašytiniu patvarkymu gali atidėti išlaidų mokėjimą iki turto realizavimo pabaigos, visiškai ar iš dalies atleisti nuo sumų, būtinų ekspertams ir ekspertinėms įstaigoms, sumokėjimo arba prašymą atmesti. ^s-0d944bf4eb2ca46cf0c7b2f5
 
 
 5. Šiame straipsnyje nurodytos išlaidos, kurių mokėjimas buvo atidėtas iki turto realizavimo pabaigos, antstoliui išieškomos iš skolininko šio Kodekso [[#^s-e6dcc6a2c466fffeaf42666a|611 straipsnyje]] nustatyta tvarka. ^s-f6bf060ed48d5a1b93b884f7
@@ -15189,7 +15189,7 @@ Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 3. Kitų institucijų ar pareigūnų, turinčių teisę areštuoti ar duoti nurodymus priverstinai nurašyti skolininko pinigines lėšas arba nutraukti lėšų išmokėjimą iš skolininko sąskaitos (sąskaitų), pateikiamuose nurodymuose turi būti nurodytas disponavimo piniginėmis lėšomis ribojimo arba priverstinio lėšų nurašymo pagrindas ir piniginių lėšų, kuriomis disponavimas yra ribojamas ar kurios priverstinai nurašomos, suma. Jei ši suma nenurodyta, apribojamas disponavimas visomis skolininko sąskaitoje (sąskaitose) esančiomis piniginėmis lėšomis. Institucija ar pareigūnas, turintys teisę areštuoti ar duoti nurodymus priverstinai nurašyti skolininko pinigines lėšas arba nutraukti lėšų išmokėjimą iš skolininko sąskaitos (sąskaitų), privalo pranešti skolininkui apie dėl jo piniginių lėšų priimtą sprendimą. ^s-09b0caeda4237ff0a54680b3
 
 
-4. Kredito, mokėjimo ir (ar) elektroninių pinigų įstaigos, elektroninių ryšių priemonėmis per Piniginių lėšų apribojimų informacinę sistemą gavusios šio straipsnio 2 ir [[#^s-09b0caeda4237ff0a54680b3|3 dalyse]] numatytus antstolio, kitų institucijų ar pareigūno nurodymus, Piniginių lėšų apribojimų informacinės sistemos valdytojo nustatyta tvarka per Piniginių lėšų apribojimų informacinę sistemą pateikia šiems nurodymams įvykdyti reikalingus duomenis, nurodytus Piniginių lėšų apribojimų informacinės sistemos nuostatuose. ^s-2727950aa4548bf067a7bfef
+4. Kredito, mokėjimo ir (ar) elektroninių pinigų įstaigos, elektroninių ryšių priemonėmis per Piniginių lėšų apribojimų informacinę sistemą gavusios šio straipsnio [[#^s-f223335a0761b33fbe6654a4|2]] ir [[#^s-09b0caeda4237ff0a54680b3|3]] dalyse numatytus antstolio, kitų institucijų ar pareigūno nurodymus, Piniginių lėšų apribojimų informacinės sistemos valdytojo nustatyta tvarka per Piniginių lėšų apribojimų informacinę sistemą pateikia šiems nurodymams įvykdyti reikalingus duomenis, nurodytus Piniginių lėšų apribojimų informacinės sistemos nuostatuose. ^s-2727950aa4548bf067a7bfef
 
 
 5. Piniginių lėšų apribojimų informacinėje sistemoje gavus duomenis iš Turto arešto aktų registro apie skolininko piniginių lėšų areštą (areštus) [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] ar [[latest/a49670c0756911eabee4a336e7e6fdab|Civilinio turto konfiskavimo įstatymo]] nustatyta tvarka, siekiant užtikrinti galimą šių lėšų konfiskavimą, išplėstinį turto konfiskavimą, civilinį turto konfiskavimą ar nusikalstamu būdu užvaldyto turto grąžinimą savininkui ar teisėtam valdytojui, pateikti nurodymai priverstinai nurašyti skolininko pinigines lėšas sustabdomi ir nevykdomi tiek, kokio dydžio piniginių lėšų suma yra areštuota. Piniginių lėšų apribojimų informacinėje sistemoje iš Turto arešto aktų registro gavus antstolio nurodymą areštuoti skolininko pinigines lėšas, pateikti nurodymai priverstinai nurašyti skolininko pinigines lėšas vykdomi Sprendimų vykdymo instrukcijoje nustatyta tvarka laikantis šio Kodekso [[#^s-fbde5c6aab0be81d16004144|626 straipsnio 3 dalyje]] ir [[#^s-b07c39119add51b39c6792a1|754 straipsnyje]] nustatytų reikalavimų. Piniginių lėšų apribojimų informacinėje sistemoje gavus duomenis iš Turto arešto aktų registro apie piniginių lėšų areštą, siekiant užtikrinti civilinį ieškinį baudžiamojoje byloje, ar areštą (areštus) pagal teismo nutartį (nutartis) dėl laikinųjų apsaugos priemonių taikymo skolininko lėšoms su nurodytu reikalavimų patenkinimo eiliškumu arba duomenis apie tai, kad nurodymą pateikia antstolis, institucija ar pareigūnas, turintys teisę areštuoti skolininko pinigines lėšas arba nutraukti lėšų išmokėjimą iš skolininko sąskaitos (sąskaitų), vykdomi pateikti tos pačios ir (ar) pirmesnės eilės nurodymai šio Kodekso [[#^s-fbde5c6aab0be81d16004144|626 straipsnio 3 dalyje]] ir [[#^s-b07c39119add51b39c6792a1|754 straipsnyje]] nustatyta tvarka. ^s-602aa7ac1a8f2de07e47b05c
@@ -15199,7 +15199,7 @@ Nr. XIV-2802, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12133
 
 
 
-6. Piniginių lėšų apribojimų informacinėje sistemoje gavus visus šio straipsnio 2, 3 ir [[#^s-2727950aa4548bf067a7bfef|4 dalyse]] nustatytiems nurodymams vykdyti reikalingus duomenis, piniginės lėšos, viršijančios pagal Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymą apskaičiuotą minimalių vartojimo poreikių dydį, Vyriausybės, Sprendimų vykdymo instrukcijoje ir šio Kodekso [[#^s-b07c39119add51b39c6792a1|754 straipsnyje]] nustatyta tvarka paskirstomos pagal reikalavimų patenkinimo eilę ir reikalaujamos sumos elektroninių ryšių priemonėmis išsiunčiamos į kredito, mokėjimo ir (ar) elektroninių pinigų įstaigas nurodymams vykdyti. Kredito, mokėjimo ir (ar) elektroninių pinigų įstaigos, gavusios nurodymus dėl piniginių lėšų nurašymo, privalo nurodytas sumas ne vėliau kaip kitą darbo dieną pervesti į šio straipsnio 2 ir [[#^s-09b0caeda4237ff0a54680b3|3 dalyse]] nustatyta tvarka pateiktuose nurodymuose nurodytą antstolio depozitinę ir (ar) institucijos, turinčios teisę duoti nurodymus nurašyti skolininko pinigines lėšas iš skolininko sąskaitos (sąskaitų), sąskaitą. ^s-4172fd5ee68d389b3434348e
+6. Piniginių lėšų apribojimų informacinėje sistemoje gavus visus šio straipsnio [[#^s-f223335a0761b33fbe6654a4|2]], [[#^s-09b0caeda4237ff0a54680b3|3]] ir [[#^s-2727950aa4548bf067a7bfef|4]] dalyse nustatytiems nurodymams vykdyti reikalingus duomenis, piniginės lėšos, viršijančios pagal Lietuvos Respublikos socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymą apskaičiuotą minimalių vartojimo poreikių dydį, Vyriausybės, Sprendimų vykdymo instrukcijoje ir šio Kodekso [[#^s-b07c39119add51b39c6792a1|754 straipsnyje]] nustatyta tvarka paskirstomos pagal reikalavimų patenkinimo eilę ir reikalaujamos sumos elektroninių ryšių priemonėmis išsiunčiamos į kredito, mokėjimo ir (ar) elektroninių pinigų įstaigas nurodymams vykdyti. Kredito, mokėjimo ir (ar) elektroninių pinigų įstaigos, gavusios nurodymus dėl piniginių lėšų nurašymo, privalo nurodytas sumas ne vėliau kaip kitą darbo dieną pervesti į šio straipsnio [[#^s-f223335a0761b33fbe6654a4|2]] ir [[#^s-09b0caeda4237ff0a54680b3|3]] dalyse nustatyta tvarka pateiktuose nurodymuose nurodytą antstolio depozitinę ir (ar) institucijos, turinčios teisę duoti nurodymus nurašyti skolininko pinigines lėšas iš skolininko sąskaitos (sąskaitų), sąskaitą. ^s-4172fd5ee68d389b3434348e
 Straipsnio dalies pakeitimai:
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
@@ -15540,7 +15540,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 1. Norintys dalyvauti varžytynėse asmenys privalo: ^s-e7e233b86daa09ffb4b59ef7
 
 
-1) patvirtinti, kad susipažino su Sprendimų vykdymo instrukcijoje nustatytos formos dokumentu, kuriame nurodyta varžytynių vykdymo tvarka, antstolių veiksmų apskundimo tvarka ir turto pardavimo iš varžytynių galimos pasekmės, numatytos šio Kodekso 602, 703, 704, 711, 715, 716, 717, 719 ir [[#^s-b83b9c802b9cae582cca2724|724 straipsniuose]], ir patvirtinti, kad nėra šio Kodekso [[#^s-3cb9b416efd1e4115162a311|709 straipsnio 2 dalyje]] ir kituose teisės aktuose numatytų kliūčių jiems dalyvauti varžytynėse; ^s-094d09af09ac1f84ab926cbf
+1) patvirtinti, kad susipažino su Sprendimų vykdymo instrukcijoje nustatytos formos dokumentu, kuriame nurodyta varžytynių vykdymo tvarka, antstolių veiksmų apskundimo tvarka ir turto pardavimo iš varžytynių galimos pasekmės, numatytos šio Kodekso [[#^s-af593180d4b8aa5ad3f42ec1|602]], [[#^s-20cd833999d90210f2a7ee6a|703]], [[#^s-cfda3273f3fa9545d7dd918c|704]], [[#^s-dfb680d399245c9d0a2c637a|711]], [[#^s-a3afd15a1e12036917d86346|715]], [[#^s-43cadc043811120b17ec6271|716]], [[#^s-2f459acdfe7d065cecdc69b4|717]], [[#^s-f88742887b01d4413b9df6ec|719]] ir [[#^s-b83b9c802b9cae582cca2724|724]] straipsniuose, ir patvirtinti, kad nėra šio Kodekso [[#^s-3cb9b416efd1e4115162a311|709 straipsnio 2 dalyje]] ir kituose teisės aktuose numatytų kliūčių jiems dalyvauti varžytynėse; ^s-094d09af09ac1f84ab926cbf
 
 
 2) nurodyti savo duomenis – vardą, pavardę, asmens kodą (juridinio asmens pavadinimą, kodą), gyvenamąją vietą (buveinę), elektroninio pašto adresą, telefono numerį, kitus elektroninių ryšių priemonių adresus ir kredito, mokėjimo ir (ar) elektroninių pinigų įstaigose esančias sąskaitas, į kurias turėtų būti grąžintas varžytynių dalyvio mokestis, jeigu varžytynių dalyvis varžytynių nelaimės; ^s-3fee218379a8accadbd72026
@@ -15651,7 +15651,7 @@ Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 13. Varžytynių laimėtoju pripažįstamas tas varžytynių dalyvis, kuris pasiūlė didžiausią kainą. Varžytynes laimėjusio varžytynių dalyvio pasiūlyta kaina kartu yra ir turto pardavimo kaina. ^s-4f4ef2238da2a905e0e8046b
 
 
-14. Pasibaigus varžytynėms, specialiame interneto tinklalapyje paskelbiama, už kokią kainą turtas parduotas. Varžytynes organizavusiam antstoliui ne vėliau kaip kitą darbo dieną elektroninių ryšių priemonėmis išsiunčiamas pranešimas, kuriame nurodomi šio Kodekso [[#^s-e7e233b86daa09ffb4b59ef7|710 straipsnio 1 dalies]] 2 ir 3 punktuose nustatyti varžytynes laimėjusio varžytynių dalyvio duomenys, ir į antstolio depozitinę sąskaitą pervedamas varžytynes laimėjusio varžytynių dalyvio sumokėtas varžytynių dalyvio mokestis. Varžytynes laimėjusiam varžytynių dalyviui šioje dalyje nustatyta tvarka išsiunčiamas Sprendimų vykdymo instrukcijoje nustatytos formos pranešimas apie laimėtas varžytynes. Varžytynių nelaimėjusiems varžytynių dalyviams jų sumokėtas varžytynių dalyvio mokestis, atskaičius mokesčius už kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų paslaugas, ne vėliau kaip kitą darbo dieną grąžinamas į šio Kodekso [[#^s-3fee218379a8accadbd72026|710 straipsnio 1 dalies 2 punkte]] nurodytas kredito, mokėjimo ir (ar) elektroninių pinigų įstaigose esančias sąskaitas. ^s-456afba98c595225aadcbb36
+14. Pasibaigus varžytynėms, specialiame interneto tinklalapyje paskelbiama, už kokią kainą turtas parduotas. Varžytynes organizavusiam antstoliui ne vėliau kaip kitą darbo dieną elektroninių ryšių priemonėmis išsiunčiamas pranešimas, kuriame nurodomi šio Kodekso [[#^s-e7e233b86daa09ffb4b59ef7|710 straipsnio 1 dalies]] [[#^s-3fee218379a8accadbd72026|2]] ir [[#^s-bf05f1fa1c85e42577dc5f1b|3]] punktuose nustatyti varžytynes laimėjusio varžytynių dalyvio duomenys, ir į antstolio depozitinę sąskaitą pervedamas varžytynes laimėjusio varžytynių dalyvio sumokėtas varžytynių dalyvio mokestis. Varžytynes laimėjusiam varžytynių dalyviui šioje dalyje nustatyta tvarka išsiunčiamas Sprendimų vykdymo instrukcijoje nustatytos formos pranešimas apie laimėtas varžytynes. Varžytynių nelaimėjusiems varžytynių dalyviams jų sumokėtas varžytynių dalyvio mokestis, atskaičius mokesčius už kredito, mokėjimo ir (ar) elektroninių pinigų įstaigų paslaugas, ne vėliau kaip kitą darbo dieną grąžinamas į šio Kodekso [[#^s-3fee218379a8accadbd72026|710 straipsnio 1 dalies 2 punkte]] nurodytas kredito, mokėjimo ir (ar) elektroninių pinigų įstaigose esančias sąskaitas. ^s-456afba98c595225aadcbb36
 Straipsnio dalies pakeitimai:
 Nr. XII-1452, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21188
 
@@ -15758,7 +15758,7 @@ Pirmosiose varžytynėse parduodamo turto nustatoma pradinė kaina sudaro aštuo
 ### 719 straipsnis. Turto nepardavimo iš pirmųjų varžytinių pasekmės ^s-f88742887b01d4413b9df6ec
 
 
-1. Jeigu varžytynės paskelbtos neįvykusiomis dėl to, kad jose nedalyvavo nė vienas varžytynių dalyvis (šio Kodekso [[#^s-c6e0c7fcb478157331982cad|717 straipsnio 1 punktas]]), turtas perduodamas išieškotojui už pradinę turto pardavimo iš varžytynių kainą. ^s-223b515ba08774c9bf8e3a9d
+1. Jeigu varžytynės paskelbtos neįvykusiomis dėl to, kad jose nedalyvavo nė vienas varžytynių dalyvis (šio Kodekso 717 straipsnio 1 punktas), turtas perduodamas išieškotojui už pradinę turto pardavimo iš varžytynių kainą. ^s-223b515ba08774c9bf8e3a9d
 
 
 2. Jeigu varžytynės paskelbtos neįvykusiomis dėl to, kad varžytynes laimėjęs varžytynių dalyvis už varžytynėse pirktą turtą per nustatytą terminą nesumokėjo visos sumos, arba dėl to, kad paaiškėjo, kad varžytynes laimėjęs varžytynių dalyvis neturėjo teisės dalyvauti varžytynėse (šio Kodekso [[#^s-2f459acdfe7d065cecdc69b4|717 straipsnio]] 3 ir 5 punktai), turtas išieškotojui perduodamas už tą kainą, už kurią jis buvo perkamas paskelbtose neįvykusiomis varžytynėse. ^s-357d197fda9eb569ad6f62ad
@@ -15767,10 +15767,10 @@ Pirmosiose varžytynėse parduodamo turto nustatoma pradinė kaina sudaro aštuo
 3. Paskelbęs varžytynes neįvykusiomis, išskyrus šio Kodekso [[#^s-2f459acdfe7d065cecdc69b4|717 straipsnio]] 2 ir 4 punktuose numatytus atvejus, antstolis pasiūlo išieškotojui paimti neparduotą iš varžytynių turtą šiame straipsnyje ir šio Kodekso [[#^s-f33d28c4b3c68751e01ddea7|720 straipsnio 1 dalyje]] nurodytomis sąlygomis ir nustato terminą, per kurį išieškotojas turi raštu antstoliui pranešti apie savo sutikimą paimti turtą. ^s-eae3828381630b90e23119b8
 
 
-4. Paskelbęs varžytynes neįvykusiomis šio Kodekso [[#^s-30fc93610753ce141f16a09b|717 straipsnio 4 punkte]] numatytu atveju, antstolis panaikina turto areštą ir grąžina turtą skolininkui. Šiuo pagrindu paskelbus varžytynes neįvykusiomis, varžytynių dalyvis turi teisę reikalauti iš skolininko atlyginti tiesioginius nuostolius, atsiradusius dėl dalyvavimo varžytynėse. ^s-bdea57ed7514bd1be575647c
+4. Paskelbęs varžytynes neįvykusiomis šio Kodekso 717 straipsnio 4 punkte numatytu atveju, antstolis panaikina turto areštą ir grąžina turtą skolininkui. Šiuo pagrindu paskelbus varžytynes neįvykusiomis, varžytynių dalyvis turi teisę reikalauti iš skolininko atlyginti tiesioginius nuostolius, atsiradusius dėl dalyvavimo varžytynėse. ^s-bdea57ed7514bd1be575647c
 
 
-5. Paskelbęs varžytynes neįvykusiomis šio Kodekso [[#^s-db7c31b1503ca62d1ab8db51|717 straipsnio 2 punkte]] numatytu atveju, antstolis skelbia pirmąsias pakartotines varžytynes, kurios vyksta tomis pačiomis sąlygomis kaip ir paskelbtos neįvykusiomis varžytinės. ^s-1b9a7264b2e4ecf6085aa721
+5. Paskelbęs varžytynes neįvykusiomis šio Kodekso 717 straipsnio 2 punkte numatytu atveju, antstolis skelbia pirmąsias pakartotines varžytynes, kurios vyksta tomis pačiomis sąlygomis kaip ir paskelbtos neįvykusiomis varžytinės. ^s-1b9a7264b2e4ecf6085aa721
 
 
 Straipsnio pakeitimai:
@@ -15821,16 +15821,16 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 1. Antrosios varžytynės vyksta tokiomis pačiomis sąlygomis ir tvarka kaip ir pirmosios varžytynės su ta išimtimi, kad antrosiose varžytynėse parduodamo turto nustatoma pradinė kaina sudaro šešiasdešimt procentų šio Kodekso [[#^s-42941de6fcb7475a426c8fa7|681 straipsnyje]] nustatyta tvarka nustatytos turto kainos. ^s-6d46715b3ea3aff3ada8a2de
 
 
-2. Jeigu antrosios varžytynės paskelbtos neįvykusiomis dėl to, kad jose nedalyvavo nė vienas varžytynių dalyvis (šio Kodekso [[#^s-c6e0c7fcb478157331982cad|717 straipsnio 1 punktas]]), antstolis išieškotojui pasiūlo pasiimti neparduotą turtą už neįvykusiose antrosiose varžytynėse skelbtą pradinę parduodamo turto kainą, laikantis šio Kodekso [[#^s-f33d28c4b3c68751e01ddea7|720 straipsnio 1 dalyje]] nustatytos sąlygos. Jeigu išieškotojas atsisako paimti neparduotą turtą, taikomos šio Kodekso [[#^s-b3a870a8e6e80ff05bae62a7|723 straipsnyje]] numatytos pasekmės. ^s-ea4bcd968d9fc4c4477f9a80
+2. Jeigu antrosios varžytynės paskelbtos neįvykusiomis dėl to, kad jose nedalyvavo nė vienas varžytynių dalyvis (šio Kodekso 717 straipsnio 1 punktas), antstolis išieškotojui pasiūlo pasiimti neparduotą turtą už neįvykusiose antrosiose varžytynėse skelbtą pradinę parduodamo turto kainą, laikantis šio Kodekso [[#^s-f33d28c4b3c68751e01ddea7|720 straipsnio 1 dalyje]] nustatytos sąlygos. Jeigu išieškotojas atsisako paimti neparduotą turtą, taikomos šio Kodekso [[#^s-b3a870a8e6e80ff05bae62a7|723 straipsnyje]] numatytos pasekmės. ^s-ea4bcd968d9fc4c4477f9a80
 
 
 3. Jeigu antrosios varžytynės paskelbtos neįvykusiomis šio Kodekso [[#^s-2f459acdfe7d065cecdc69b4|717 straipsnio]] 3 ir 5 punktuose numatytais pagrindais, antstolis išieškotojui pasiūlo paimti neparduotą turtą už tą kainą, už kurią turtas buvo perkamas neįvykusiose antrosiose varžytynėse, laikantis šio Kodekso [[#^s-f33d28c4b3c68751e01ddea7|720 straipsnio 1 dalyje]] nustatytų sąlygų. ^s-58fd3e7393020eb46677e6b9
 
 
-4. Jeigu antrosios varžytynės paskelbtos neįvykusiomis šio Kodekso [[#^s-db7c31b1503ca62d1ab8db51|717 straipsnio 2 punkte]] numatytu atveju arba išieškotojas atsisako paimti turtą [[#^s-58fd3e7393020eb46677e6b9|šio straipsnio 3 dalyje]] numatytomis sąlygomis, skelbiamos antrosios pakartotinės varžytynės. Jos vyksta tomis pačiomis sąlygomis kaip ir varžytynės, kurios paskelbtos neįvykusiomis. ^s-0c4280d089a967dd995fd552
+4. Jeigu antrosios varžytynės paskelbtos neįvykusiomis šio Kodekso 717 straipsnio 2 punkte numatytu atveju arba išieškotojas atsisako paimti turtą [[#^s-58fd3e7393020eb46677e6b9|šio straipsnio 3 dalyje]] numatytomis sąlygomis, skelbiamos antrosios pakartotinės varžytynės. Jos vyksta tomis pačiomis sąlygomis kaip ir varžytynės, kurios paskelbtos neįvykusiomis. ^s-0c4280d089a967dd995fd552
 
 
-5. Paskelbęs antrąsias varžytynes neįvykusiomis šio Kodekso [[#^s-30fc93610753ce141f16a09b|717 straipsnio 4 punkte]] numatytu atveju, antstolis panaikina turto areštą ir grąžina turtą skolininkui. ^s-f27274fae03def46544dbddb
+5. Paskelbęs antrąsias varžytynes neįvykusiomis šio Kodekso 717 straipsnio 4 punkte numatytu atveju, antstolis panaikina turto areštą ir grąžina turtą skolininkui. ^s-f27274fae03def46544dbddb
 
 
 Straipsnio pakeitimai:
@@ -16213,7 +16213,7 @@ Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 
 
 
-9) laisvės atėmimo vietų įstaigoje atidarytoje nuteistojo asmeninėje sąskaitoje esančios piniginės lėšos, neviršijančios pusės Lietuvos Respublikos bausmių vykdymo kodekso 38 straipsnio 3 dalyje nustatytų dydžių; ^s-0e7fd4193add3ced5c851233
+9) laisvės atėmimo vietų įstaigoje atidarytoje nuteistojo asmeninėje sąskaitoje esančios piniginės lėšos, neviršijančios pusės [[latest/TAR.A0A0CCC6B997|Lietuvos Respublikos bausmių vykdymo kodekso 38 straipsnio 3 dalyje]] nustatytų dydžių; ^s-0e7fd4193add3ced5c851233
 Papildyta straipsnio punktu:
 Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 Straipsnio punkto pakeitimai:
@@ -16537,7 +16537,7 @@ Nr. XIV-2317, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25069
 
 
 5. Jeigu išieškotos sumos neužtenka visiems vienos eilės reikalavimams visiškai patenkinti, jie patenkinami proporcingai kiekvienam išieškotojui priklausančiai sumai. Jeigu to paties išieškotojo naudai vykdomos kelios vykdomosios bylos, išieškotos sumos skiriamos reikalavimams anksčiausiai pradėtoje vykdomojoje byloje patenkinti. ^s-0daa26194299a5f96c308f8d
-TAR pastaba. [[#^s-0daa26194299a5f96c308f8d|5 dalis]] taikoma išieškotas lėšas išieškotojams skirstant po [[latest/64f0ebe02ad611eabe008ea93139d588|įstatymo Nr. XIII-2721]] įsigaliojimo (2020-07-01).
+TAR pastaba. 5 dalis taikoma išieškotas lėšas išieškotojams skirstant po [[latest/64f0ebe02ad611eabe008ea93139d588|įstatymo Nr. XIII-2721]] įsigaliojimo (2020-07-01).
 Straipsnio dalies pakeitimai:
 Nr. XIII-2721, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21560
 
@@ -16596,7 +16596,7 @@ Nr. XII-889, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05571
 4) nekilnojamojo daikto draudimo įmokoms. ^s-d6f5b05766d3cbd561b1dab1
 
 
-2. Likusios pajamos skiriamos skolininko įsiskolinimui padengti šio Kodekso 753, 754 ir [[#^s-b9e4f06f3cb92aafebfab39f|755 straipsniuose]] nustatyta tvarka. ^s-85386676ec9a95a89bf5e775
+2. Likusios pajamos skiriamos skolininko įsiskolinimui padengti šio Kodekso [[#^s-d7d58041833c3cb268d6de7f|753]], [[#^s-b07c39119add51b39c6792a1|754]] ir [[#^s-b9e4f06f3cb92aafebfab39f|755]] straipsniuose nustatyta tvarka. ^s-85386676ec9a95a89bf5e775
 
 
 
@@ -16665,13 +16665,13 @@ SPRENDIMŲ ĮVYKDYMO ATGRĘŽIMAS
 1. Jeigu teismas, išnagrinėjęs bylą apeliacine ar kasacine tvarka, savo nutartimi galutinai išsprendžia ginčą dėl teisės arba nutraukia bylą, arba palieka ieškinį nenagrinėtą, jis privalo išspręsti sprendimo įvykdymo atgręžimo klausimą, išskyrus atvejus, kai pagal byloje esančią medžiagą išspręsti sprendimo įvykdymo atgręžimo klausimą nagrinėjant bylą apeliacine ar kasacine tvarka nėra galimybės. Tokiu atveju šis klausimas perduodamas spręsti pirmosios instancijos teismui. ^s-d6253b0446c199114e633cdf
 
 
-2. Jeigu apeliacinės instancijos ar kasacinio teismo nutartyje nėra jokių nurodymų dėl įvykdymo atgręžimo, atsakovas turi teisę paduoti atitinkamą pareiškimą pirmosios instancijos teismui. Šis išnagrinėja ir išsprendžia tą pareiškimą pagal šio Kodekso 760 ir [[#^s-df7dbed3d7f94b5755d19897|761 straipsnių]] nuostatas. ^s-2721463cb24be7bcb282c84c
+2. Jeigu apeliacinės instancijos ar kasacinio teismo nutartyje nėra jokių nurodymų dėl įvykdymo atgręžimo, atsakovas turi teisę paduoti atitinkamą pareiškimą pirmosios instancijos teismui. Šis išnagrinėja ir išsprendžia tą pareiškimą pagal šio Kodekso [[#^s-5ff870281ca2ea50df448429|760]] ir [[#^s-df7dbed3d7f94b5755d19897|761]] straipsnių nuostatas. ^s-2721463cb24be7bcb282c84c
 
 
 3. Apeliacine ar kasacine tvarka panaikinus sprendimą bylose dėl išlaikymo periodinėmis išmokomis išieškojimo, atgręžti įvykdymą leidžiama tik tais atvejais, kada panaikintasis sprendimas buvo pagrįstas ieškovo pateiktais melagingais duomenimis ar suklastotais dokumentais. ^s-851d34d426cbaae374176b72
 
 
-4. Apeliacine ar kasacine tvarka panaikinus sprendimą bylose dėl darbo užmokesčio ar jam prilygintų išmokų išieškojimo, atgręžti įvykdymą leidžiama tik tais atvejais, kai gavėjas veikė nesąžiningai ar buvo padaryta sąskaitybos klaidų. ^s-43d242a1178734a553b666cc
+4. Apeliacine ar kasacine tvarka panaikinus sprendimą bylose [dėl darbo užmokesčio](https://e-tar.lt/portal/lt/legalAct/TAR.3A55ECEE9ACE) ar jam prilygintų išmokų išieškojimo, atgręžti įvykdymą leidžiama tik tais atvejais, kai gavėjas veikė nesąžiningai ar buvo padaryta sąskaitybos klaidų. ^s-43d242a1178734a553b666cc
 
 
 Straipsnio pakeitimai:
@@ -16746,7 +16746,7 @@ Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 2. Jeigu iškeldinimo metu iškeldinamas asmuo nedalyvauja arba atsisako pasiimti iškeldinamą turtą, to turto apsaugą turi užtikrinti antstolis. ^s-43776b25af3bea49c4bf4900
 
 
-3. [[#^s-43776b25af3bea49c4bf4900|Šio straipsnio 2 dalyje]] nurodytais atvejais antstolis aprašo ir įkainoja iškeldinamo asmens patalpoje esantį turtą laikydamasis šio Kodekso 677 ir [[#^s-42941de6fcb7475a426c8fa7|681 straipsnių]] nuostatų. ^s-dc36e21e4391eb95e6e612b9
+3. [[#^s-43776b25af3bea49c4bf4900|Šio straipsnio 2 dalyje]] nurodytais atvejais antstolis aprašo ir įkainoja iškeldinamo asmens patalpoje esantį turtą laikydamasis šio Kodekso [[#^s-a94357da4a989119972450d6|677]] ir [[#^s-42941de6fcb7475a426c8fa7|681]] straipsnių nuostatų. ^s-dc36e21e4391eb95e6e612b9
 
 
 4. Aprašytas turtas kartu su turto aprašo kopija perduodamas saugoti asmeniui, paskirtam turto saugotoju. Turto aprašo kopija įteikiama skolininkui šio Kodekso [[#^s-005921ed8a64f3072f832847|605 straipsnyje]] nustatyta tvarka. ^s-011104ace6e39498e1e7c598
@@ -16871,7 +16871,7 @@ Vykdant sprendimus dėl garbės ir orumo gynimo, taikomos Civilinio kodekso 2.[[
 7. Jeigu skolininkas antrą kartą ir daugiau kartų pažeidžia sprendimui įvykdyti nustatytus terminus ar toliau nevykdo privalomojo nurodymo, teismas skolininkui vėl pritaiko priemones, numatytas [[#^s-c97b24ad4889e9010ba2cb76|šio straipsnio 6 dalyje]]. Baudos sumokėjimas neatleidžia skolininko nuo pareigos atlikti arba nutraukti teismo sprendime ar privalomajame nurodyme numatytus veiksmus. ^s-da8a506954a4707ee0fb22da
 
 
-8. Tuo atveju, kai sprendimo, įpareigojančio atlikti arba nutraukti tam tikrus veiksmus, nesusijusius su turto ar lėšų perdavimu, arba privalomojo nurodymo neįvykdo juridinis asmuo, priemones, numatytas šio straipsnio 6 ir [[#^s-da8a506954a4707ee0fb22da|7 dalyse]], teismas gali pritaikyti juridinio asmens vadovui arba kitam už sprendimo ar privalomojo nurodymo įvykdymą atsakingam asmeniui. ^s-fe1db0fd6398f7ab9645461b
+8. Tuo atveju, kai sprendimo, įpareigojančio atlikti arba nutraukti tam tikrus veiksmus, nesusijusius su turto ar lėšų perdavimu, arba privalomojo nurodymo neįvykdo juridinis asmuo, priemones, numatytas šio straipsnio [[#^s-c97b24ad4889e9010ba2cb76|6]] ir [[#^s-da8a506954a4707ee0fb22da|7]] dalyse, teismas gali pritaikyti juridinio asmens vadovui arba kitam už sprendimo ar privalomojo nurodymo įvykdymą atsakingam asmeniui. ^s-fe1db0fd6398f7ab9645461b
 
 
 9. Dėl nutarčių šiame straipsnyje nurodytais klausimais gali būti duodamas atskirasis skundas. ^s-34eca87852c78fd4d76385e1
@@ -17182,23 +17182,23 @@ Lietuvos Respublikos teismams Neteismingos bylos
 ### 791 straipsnis. Išimčių netaikymas ^s-6757b15f31e12920fc2658e6
 
 
-1. Išimtys, numatytos šio Kodekso [[#^s-42a4e5a0b8eacf2660470bf3|790 straipsnio]] 1 ir [[#^s-7500f2bf65074954f988a976|3 dalyse]], nėra taikomos, jeigu valstybė, siųsdama asmenis, aiškiai atsisako taikyti jiems imunitetą. ^s-e2a0735e0f8c253e36bf44d8
+1. Išimtys, numatytos šio Kodekso [[#^s-42a4e5a0b8eacf2660470bf3|790 straipsnio]] [[#^s-074dffcb0d130710f8c1487e|1]] ir [[#^s-e2470307cb520739867b74b0|3]] dalyse, nėra taikomos, jeigu valstybė, siųsdama asmenis, aiškiai atsisako taikyti jiems imunitetą. ^s-e2a0735e0f8c253e36bf44d8
 
 
 2. Tarptautinių organizacijų pareigūnams taikomo imuniteto atsisakymą gali pareikšti tik išimtinai šios tarptautinės organizacijos. ^s-557e061cb53347d8f31938d1
 
 
-3. Jeigu asmenys, nurodyti šio Kodekso [[#^s-42a4e5a0b8eacf2660470bf3|790 straipsnio]] 1 ir [[#^s-7500f2bf65074954f988a976|3 dalyse]], pareiškia ieškinį Lietuvos Respublikos teisme, šio Kodekso nustatyta tvarka jiems galima reikšti priešieškinį. ^s-7500f2bf65074954f988a976
+3. Jeigu asmenys, nurodyti šio Kodekso [[#^s-42a4e5a0b8eacf2660470bf3|790 straipsnio]] [[#^s-074dffcb0d130710f8c1487e|1]] ir [[#^s-e2470307cb520739867b74b0|3]] dalyse, pareiškia ieškinį Lietuvos Respublikos teisme, šio Kodekso nustatyta tvarka jiems galima reikšti priešieškinį. ^s-7500f2bf65074954f988a976
 
 
 
 ### 792 straipsnis. Draudimas atlikti vykdymo veiksmus ^s-dc592323963a73a0bb109678
 
 
-1. Asmenims, nurodytiems šio Kodekso [[#^s-42a4e5a0b8eacf2660470bf3|790 straipsnio]] 1 ir [[#^s-d43bfa72f53aa22d65bd3a2c|3 dalyse]], negali būti atliekami jokie vykdymo veiksmai, išskyrus atvejus, kai jie gali būti atsakovais Lietuvos Respublikos teisme. ^s-b8669487b71c5c4288825354
+1. Asmenims, nurodytiems šio Kodekso [[#^s-42a4e5a0b8eacf2660470bf3|790 straipsnio]] [[#^s-074dffcb0d130710f8c1487e|1]] ir [[#^s-e2470307cb520739867b74b0|3]] dalyse, negali būti atliekami jokie vykdymo veiksmai, išskyrus atvejus, kai jie gali būti atsakovais Lietuvos Respublikos teisme. ^s-b8669487b71c5c4288825354
 
 
-2. Asmenims, nurodytiems šio Kodekso [[#^s-42a4e5a0b8eacf2660470bf3|790 straipsnio]] 1 ir [[#^s-d43bfa72f53aa22d65bd3a2c|3 dalyse]], gali būti atliekami vykdymo veiksmai, jeigu atitinkamos valstybės ar tarptautinės organizacijos šio Kodekso [[#^s-6757b15f31e12920fc2658e6|791 straipsnyje]] nustatyta tvarka pareiškia, kad imuniteto atsisakymas galioja ir vykdymo procesui. ^s-74cf0c44caec579d5302c9a9
+2. Asmenims, nurodytiems šio Kodekso [[#^s-42a4e5a0b8eacf2660470bf3|790 straipsnio]] [[#^s-074dffcb0d130710f8c1487e|1]] ir [[#^s-e2470307cb520739867b74b0|3]] dalyse, gali būti atliekami vykdymo veiksmai, jeigu atitinkamos valstybės ar tarptautinės organizacijos šio Kodekso [[#^s-6757b15f31e12920fc2658e6|791 straipsnyje]] nustatyta tvarka pareiškia, kad imuniteto atsisakymas galioja ir vykdymo procesui. ^s-74cf0c44caec579d5302c9a9
 
 
 3. Draudžiama atlikti vykdymo veiksmus užsienio valstybių diplomatinių atstovybių, misijų, konsulatų patalpose bei asmenų, nurodytų šio Kodekso [[#^s-074dffcb0d130710f8c1487e|790 straipsnio 1 dalyje]], gyvenamosiose patalpose, išskyrus atvejus, kai diplomatinės atstovybės ar misijos vadovas su tuo sutinka. ^s-d43bfa72f53aa22d65bd3a2c
@@ -17452,7 +17452,7 @@ Užsienio teisės taikymas
 2. Jeigu užsienio teisės taikymą numato šalių susitarimas, tai visus įrodymus, susijusius su taikomos užsienio teisės normų turiniu, pagal tos teisės oficialų aiškinimą, jos taikymo praktiką ir doktriną atitinkamoje užsienio valstybėje pateikia ginčo šalis, kuri remiasi užsienio teise. Šalies prašymu teismas gali padėti jai surinkti informaciją apie taikytiną užsienio teisę. ^s-883d0720c4e64e562dc32751
 
 
-3. Jeigu teismui ar šaliai, kuri remiasi užsienio teise, nepavyksta įvykdyti šio straipsnio 1 ir [[#^s-883d0720c4e64e562dc32751|2 dalyse]] numatytos pareigos, taikoma Lietuvos Respublikos teisė. ^s-f64c7e7fa314ea373e045c56
+3. Jeigu teismui ar šaliai, kuri remiasi užsienio teise, nepavyksta įvykdyti šio straipsnio [[#^s-dfdf433eff7cf5efdd011001|1]] ir [[#^s-883d0720c4e64e562dc32751|2]] dalyse numatytos pareigos, taikoma Lietuvos Respublikos teisė. ^s-f64c7e7fa314ea373e045c56
 
 
 4. Išimtiniais atvejais, kai būtina imtis skubių laikinų asmens teisių ar jo turto apsaugos priemonių, kol bus nustatyta ginčui taikytina teisė ir jos turinys, teismas gali išspręsti neatidėliotinus klausimus taikydamas Lietuvos Respublikos teisę. ^s-5d0ae5b15ef1d2030d7a07ff
@@ -17477,7 +17477,7 @@ Nr. XIII-3175, 2020-06-26, paskelbta TAR 2020-07-08, i. k. 2020-15238
 2. Nereikalauja pripažinimo įsiteisėję užsienio teismų sprendimai dėl neturtinių ginčų tarp ne Lietuvos Respublikos piliečių, išskyrus atvejus, kai šis sprendimas yra santuokos sudarymo arba kitokio civilinės būklės akto registravimo pagrindas ar kitokių teisių registravimo viešame registre pagrindas. ^s-137f77f07f0e39a5d0c83d2f
 
 
-3. Įsiteisėjusio užsienio teismo sprendimo dėl santuokos nutraukimo, gyvenimo skyrium (separacijos) ar santuokos pripažinimo negaliojančia pagrindais Lietuvos Respublikoje civilinės būklės aktų įrašai keičiami ir atnaujinami netaikant specialios užsienio teismų sprendimų pripažinimo procedūros. Suinteresuoti asmenys per vienus metus nuo sužinojimo apie tokį civilinės būklės aktų įrašų pakeitimą ar atnaujinimą gali kreiptis į Lietuvos apeliacinį teismą šio Kodekso 810, 811 ir [[#^s-6d85a2e3c3fceff92187fd74|812 straipsnių]] nustatyta tvarka ir pagrindais su prašymu pripažinti užsienio teismo sprendimo pagrindu padarytą įrašą negaliojančiu. ^s-9387b09dcde4c041075fe458
+3. Įsiteisėjusio užsienio teismo sprendimo dėl santuokos nutraukimo, gyvenimo skyrium (separacijos) ar santuokos pripažinimo negaliojančia pagrindais Lietuvos Respublikoje civilinės būklės aktų įrašai keičiami ir atnaujinami netaikant specialios užsienio teismų sprendimų pripažinimo procedūros. Suinteresuoti asmenys per vienus metus nuo sužinojimo apie tokį civilinės būklės aktų įrašų pakeitimą ar atnaujinimą gali kreiptis į Lietuvos apeliacinį teismą šio Kodekso [[#^s-3e334d39f90fa025ee2f5dda|810]], [[#^s-8869033de472c92eea7723b3|811]] ir [[#^s-6d85a2e3c3fceff92187fd74|812]] straipsnių nustatyta tvarka ir pagrindais su prašymu pripažinti užsienio teismo sprendimo pagrindu padarytą įrašą negaliojančiu. ^s-9387b09dcde4c041075fe458
 
 
 4. Šio Kodekso nuostatos dėl užsienio teismų sprendimų pripažinimo mutatis mutandis taikomos kitų užsienio valstybių institucijų, kurios pagal kilmės valstybės įstatymus turi teisę spręsti Lietuvos Respublikos teisinės sistemos teismo kompetencijai priskirtus klausimus, sprendimams (aktams) pripažinti. ^s-7c1b11d1a19d595e60542e0b
@@ -17527,7 +17527,7 @@ Nr. XII-1567, 2015-03-26, paskelbta TAR 2015-04-10, i. k. 2015-05574
 5. Užsienio teismų sprendimai tarptautinių sutarčių pagrindu pripažįstami pagal šiose sutartyse numatytas sąlygas. ^s-737a8a540301c5e2fcbf858e
 
 
-6. Užsienio arbitražų sprendimų pripažinimo ir vykdymo sąlygas nustato 1958 m. Niujorko konvencija dėl užsienio arbitražų sprendimų pripažinimo ir vykdymo ir [[latest/TAR.952D5CAC35AC|Komercinio arbitražo įstatymas]]. ^s-cff8c534ed3d32131cc15e73
+6. Užsienio arbitražų sprendimų pripažinimo ir vykdymo sąlygas nustato [1958 m. Niujorko konvencija dėl užsienio arbitražų sprendimų pripažinimo ir vykdymo](https://e-tar.lt/portal/lt/legalAct/TAR.07D524E12612) ir [[latest/TAR.952D5CAC35AC|Komercinio arbitražo įstatymas]]. ^s-cff8c534ed3d32131cc15e73
 
 
 Straipsnio pakeitimai:
@@ -17712,14 +17712,14 @@ Nr. X-1810, 2008-11-13, Žin., 2008, Nr. 137-5367 (2008-11-29)
 
 
 Lietuvos Respublikos
-civilinio proceso kodekso
+[civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F)
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
 
 
-2024 m. balandžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1069 dėl asmenų, užsiimančių visuomenės dalyvavimo veikla, apsaugos nuo akivaizdžiai nepagrįstų ieškinių ar piktnaudžiaujamojo pobūdžio teismo procesų (Strateginiai ieškiniai dėl visuomenės dalyvavimo).
+2024 m. balandžio 11 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1069](https://eur-lex.europa.eu/eli/dir/2024/1069/oj) dėl asmenų, užsiimančių visuomenės dalyvavimo veikla, apsaugos nuo akivaizdžiai nepagrįstų ieškinių ar piktnaudžiaujamojo pobūdžio teismo procesų (Strateginiai ieškiniai dėl visuomenės dalyvavimo).
 
 
 __________________
@@ -17731,7 +17731,7 @@ Nr. XV-700, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-22993
 
 
 Lietuvos Respublikos
-civilinio proceso kodekso
+[civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F)
 priedas
 Neteko galios nuo 2008-11-29.
 Priedo pakeitimas:
@@ -17798,7 +17798,7 @@ Nr. XI-999, 2010-07-02, Žin., 2010, Nr. 84-4408 (2010-07-15)
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1032, 2010-09-23, Žin., 2010, Nr. 126-6457 (2010-10-26)
-CIVILINIO PROCESO KODEKSO PAPILDYMO 464(1) STRAIPSNIU IR [[#^s-ded76ec72e3965820e062cb4|496 STRAIPSNIO]] PAPILDYMO ĮSTATYMAS
+[CIVILINIO PROCESO KODEKSO PAPILDYMO 464(1) STRAIPSNIU IR 496 STRAIPSNIO](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) PAPILDYMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. sausio 1 d.
 
 12.
@@ -17806,11 +17806,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1480, 2011-06-21, Žin., 2011, Nr. 85-4126 (2011-07-13)
 [[latest/TAR.10D407E502F2|CIVILINIO PROCESO KODEKSO PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
 Šis įstatymas, išskyrus šio straipsnio 2, 3, 4 ir 5 dalyse nurodytas išimtis ir [[#^s-2445159e939b0d977e5c7cbf|388 straipsnį]], įsigalioja 2011 m. spalio 1 d.
-Šio įstatymo [[#^s-fe393c5958d64e3b9876ff81|331 straipsnio 2 dalis]], 334, 336, 337, 338, 339, 340, 342, 343, 344 ir [[#^s-a67dec076e8b57831fc67072|352 straipsniai]] įsigalioja 2013 m. sausio 1 d.
-Šio įstatymo [[#^s-17a83f4947393972dc31ab5e|117 straipsnyje]] išdėstytas Lietuvos Respublikos civilinio proceso kodekso [[#^s-607945311df1c62300e0ae24|1752 straipsnis]] įsigalioja 2013 m. kovo 1 d.
-Šio įstatymo [[#^s-17a83f4947393972dc31ab5e|117 straipsnyje]] išdėstyti Lietuvos Respublikos civilinio proceso kodekso XII skyriaus ketvirtojo skirsnio pavadinimas ir [[#^s-1b1a0efb2e0199b4e88b4c8e|1751 straipsnis]], 234, 237, 297 ir [[#^s-278efa46b2d8f9ac24e1b793|385 straipsniai]] įsigalioja 2013 m. liepos 1 d.
+Šio įstatymo [[#^s-fe393c5958d64e3b9876ff81|331 straipsnio 2 dalis]], [[#^s-caeb01f21275dc6623f6706d|334]], [[#^s-8c4a83ff28e192e2d1844f13|336]], [[#^s-288c2252d8efea8d2991c9dd|337]], [[#^s-b893f07fc66725e7a2cfe192|338]], [[#^s-87a07984e58125213f301a64|339]], [[#^s-54b4e559de9ddec2e313996e|340]], [[#^s-9226fb991d6d260ec85c5ee1|342]], [[#^s-be88f9fb4b3f31a8c7b9bd4b|343]], [[#^s-9d7173df76fcf0c475bd5257|344]] ir [[#^s-a67dec076e8b57831fc67072|352]] straipsniai įsigalioja 2013 m. sausio 1 d.
+Šio įstatymo [[#^s-17a83f4947393972dc31ab5e|117 straipsnyje]] išdėstytas [Lietuvos Respublikos civilinio proceso kodekso 1752 straipsnis](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigalioja 2013 m. kovo 1 d.
+Šio įstatymo [[#^s-17a83f4947393972dc31ab5e|117 straipsnyje]] išdėstyti [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) XII skyriaus ketvirtojo skirsnio pavadinimas ir [[#^s-1b1a0efb2e0199b4e88b4c8e|1751 straipsnis]], [234](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [237](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [297](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir [385](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) straipsniai įsigalioja 2013 m. liepos 1 d.
 Šio įstatymo [[#^s-dd71c71daae665fa861b7d9d|115 straipsnis]] įsigalioja 2014 m. sausio 1 d.
-Šio įstatymo 37, [[#^s-eb86ea574e62e61423e8fd08|39 straipsniai]], [[#^s-1a28b6ec67c5c1b98416109c|51 straipsnio 2 dalis]], 125 straipsnio 3 dalis, 278, 279, [[#^s-13c62fa10a6bcbb6bfef34aa|294 straipsniai]], 303 straipsnio 1 dalis, 320, 324, 368, 369 ir [[#^s-d34f6ee2d77f6c56aa46a03f|370 straipsniai]] įsigalioja 2011 m. lapkričio 1 d.
+Šio įstatymo [[#^s-6aa6434e5fba200f5ee521dc|37]], [[#^s-eb86ea574e62e61423e8fd08|39]] straipsniai, [[#^s-1a28b6ec67c5c1b98416109c|51 straipsnio 2 dalis]], 125 straipsnio 3 dalis, [[#^s-c84340dd035ca3f698188796|278]], [[#^s-d7805810dedd6967300c93aa|279]], [[#^s-13c62fa10a6bcbb6bfef34aa|294]] straipsniai, 303 straipsnio 1 dalis, [[#^s-6b6a57a7de0df5aeaeac05cd|320]], [[#^s-220aa205ff4a9f058028eefa|324]], [[#^s-ca9672f19da4ffaad81ec02e|368]], [[#^s-3cdf98a01e93b799bfea3712|369]] ir [[#^s-d34f6ee2d77f6c56aa46a03f|370]] straipsniai įsigalioja 2011 m. lapkričio 1 d.
 Šio įstatymo [[#^s-f8c4cf82fc7453450e4bf0df|330 straipsnis]] įsigalioja 2012 m. liepos 1 d.
                 Šis įstatymas ir jo galiojimas keistas:
 12.1.
@@ -17821,7 +17821,7 @@ Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29)
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1711, 2011-11-17, Žin., 2011, Nr. 139-6551 (2011-11-18)
-CIVILINIO PROCESO KODEKSO [[#^s-23d21fc9565fdd26ce0e1c83|145 STRAIPSNIO]] PAPILDYMO IR PAKEITIMO IR KODEKSO PAPILDYMO 267(1) STRAIPSNIU ĮSTATYMAS
+[CIVILINIO PROCESO KODEKSO 145 STRAIPSNIO](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) PAPILDYMO IR PAKEITIMO IR KODEKSO PAPILDYMO 267(1) STRAIPSNIU ĮSTATYMAS
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -17838,7 +17838,7 @@ CIVILINIO PROCESO KODEKSO 83 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2090, 2012-06-21, Žin., 2012, Nr. 76-3933 (2012-06-30)
-CIVILINIO PROCESO KODEKSO 23, 147, 296, 340, 587, 810, 811, 812, 813, 814, [[#^s-ab7dc8dfe1334d0028c184cb|815 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 811(1) STRAIPSNIU ĮSTATYMAS
+[CIVILINIO PROCESO KODEKSO](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) [23](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [147](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [296](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [340](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [587](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [810](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [811](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [812](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [813](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [814](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [815](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 811(1) STRAIPSNIU ĮSTATYMAS
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -17878,14 +17878,14 @@ Nr. XII-771, 2014-03-13, paskelbta TAR 2014-03-27, i. k. 2014-03570
 22.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1242, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14517
-Lietuvos Respublikos civilinio proceso kodekso 49, 80, [[#^s-ba15398231dd267b4e48586c|182 straipsnių]] pakeitimo ir Kodekso papildymo 261-1 straipsniu bei XXIV-1 skyriumi [[latest/bb8b1d50b57e11e3ad2eed5a4e1b7108|įstatymo Nr. XII-771]] 2 straipsnio pripažinimo netekusiu galios ir 5 straipsnio pakeitimo įstatymas
+Lietuvos Respublikos civilinio proceso kodekso [[#^s-2cc663c71ae23449969d2aa5|49]], [[#^s-9740d37b7c4ce69a0b8c5809|80]], [[#^s-ba15398231dd267b4e48586c|182]] straipsnių pakeitimo ir Kodekso papildymo 261-1 straipsniu bei XXIV-1 skyriumi [[latest/bb8b1d50b57e11e3ad2eed5a4e1b7108|įstatymo Nr. XII-771]] 2 straipsnio pripažinimo netekusiu galios ir 5 straipsnio pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-889, 2014-05-15, paskelbta TAR 2014-05-21, i. k. 2014-05571
 [[latest/b717a390e0e111e388bee944977d73d2|LIETUVOS RESPUBLIKOS CIVILINIO PROCESO KODEKSO 510, 602, 644, 646, 661, 696, 703, 704, 706, 707, 708, 713, 717, 719, 722, 724, 746 IR 756 STRAIPSNIŲ PAKEITIMO IR 705 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS]]
 Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2014 m. rugpjūčio 1 d.
-Šio įstatymo 10, 11, 12, 13, 15 ir [[#^s-87bafe89149e4cb7df3991aa|16 straipsniai]] taikomi varžytynėms, paskelbtoms po šio įstatymo įsigaliojimo.
+Šio įstatymo 10, 11, 12, 13, [[#^s-553b7f8cfb148df68465c0fa|15]] ir [[#^s-87bafe89149e4cb7df3991aa|16]] straipsniai taikomi varžytynėms, paskelbtoms po šio įstatymo įsigaliojimo.
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -17905,7 +17905,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2006-09-21, Žin., 2006, Nr. 102-3957 (2006-09-26)
-DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO 85 STRAIPSNIO 3 DALIES (2000 M. RUGSĖJO 19 D. REDAKCIJA), [[#^s-b648616e3de67bde45f4f202|139 STRAIPSNIO]] 2, 3 DALIŲ (2000 M. RUGSĖJO 19 D. RED.), [[latest/TAR.EC588C321777#^s-74a6de218a2c75b62ce52bd4|LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO KODEKSO 306 STRAIPSNIO]] (2004 M. LIEPOS 8 D. RED.), [[#^s-cd01f554448b3b8ca0b08860|308 STRAIPSNIO]] (2006 M. BIRŽELIO 1 D. RED.) 2 DALIES (2002 M. KOVO 14 D. RED.), [[#^s-220aa205ff4a9f058028eefa|324 STRAIPSNIO]] 12, 13 DALIŲ (2002 M. KOVO 14 D. RED.), [[#^s-bfd19024c6e6b4a181901902|377 STRAIPSNIO]] (2004 M. LIEPOS 8 D. RED.) 9 DALIES (2002 M. KOVO 14 D. RED.), 448 STRAIPSNIO 7 DALIES (2002 M. KOVO 14 D. RED.), [[#^s-ba318d6b71c9bc175af5236a|454 STRAIPSNIO]] 5, 6 DALIŲ (2002 M. KOVO 14 D. RED.), [[#^s-ae713e747adfe80cfff01957|460 STRAIPSNIO]] 4, 5 DALIŲ (2002 M. KOVO 14 D. RED.), LIETUVOS RESPUBLIKOS CIVILINIO PROCESO KODEKSO [[#^s-f8fc5a2b69deafbdea31647e|268 STRAIPSNIO 3 DALIES]] (2002 M. VASARIO 28 D. RED.), [[#^s-1ac873befd2a904441d221b4|285 STRAIPSNIO]] 2, 5 DALIŲ (2002 M. VASARIO 28 D. RED.), [[#^s-c8b6d384f37fffe09d183c6e|286 STRAIPSNIO 1 DALIES]] (2002 M. VASARIO 28 D. RED.), [[#^s-43f1362151ba74a59f23664d|288 STRAIPSNIO 4 DALIES]] (2002 M. VASARIO 28 D. RED.), 289 STRAIPSNIO 2 DALIES (2002 M. VASARIO 28 D. RED.), 303 STRAIPSNIO 2 DALIES (2002 M. VASARIO 28 D. RED.), [[#^s-cf898db97c5047b965da60fc|320 STRAIPSNIO 2 DALIES]] (2002 M. VASARIO 28 D. RED.), [[#^s-f0fe936927b0748da2c13e76|325 STRAIPSNIO]] 2, 3 DALIŲ (2002 M. VASARIO 28 D. RED.), [[#^s-1ebe7b3d2b5ee7c3db518f70|358 STRAIPSNIO]] 2, 3 DALIŲ (2002 M. VASARIO 28 D. RED.) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, TAIP PAT DĖL PAREIŠKĖJO - SEIMO NARIŲ GRUPĖS PRAŠYMO IŠTIRTI, AR [[latest/TAR.522B3E415B52#^s-0fd3d0bd9c4deb250f17300d|LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 119 STRAIPSNIO 2 DALIES 1 PUNKTAS]] (2002 M. SAUSIO 24 D. REDAKCIJA), 119 STRAIPSNIO 5 DALIS (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-3ff590bd0a45a92ad7c32107|120 STRAIPSNIO]] (2003 M. SAUSIO 21 D. REDAKCIJA) 1 PUNKTAS (2002 M. SAUSIO 24 D. REDAKCIJA), LIETUVOS RESPUBLIKOS PREZIDENTO 2003 M. VASARIO 19 D. DEKRETAS NR. 2067 "DĖL APYGARDOS TEISMO TEISĖJO ĮGALIOJIMŲ PRATĘSIMO", LIETUVOS RESPUBLIKOS PREZIDENTO 2003 M. BIRŽELIO 18 D. DEKRETAS NR. 128 "DĖL APYGARDŲ TEISMŲ SKYRIŲ PIRMININKŲ SKYRIMO" TA APIMTIMI, KURIA NUSTATYTA, KAD VILNIAUS APYGARDOS TEISMO TEISĖJAS KONSTANTAS RAMELIS SKIRIAMAS ŠIO TEISMO CIVILINIŲ BYLŲ SKYRIAUS PIRMININKU, NEPRIEŠTARAUJA LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+DĖL [[latest/TAR.67B5099C5848|LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO 85 STRAIPSNIO 3 DALIES]] (2000 M. RUGSĖJO 19 D. REDAKCIJA), [[#^s-b648616e3de67bde45f4f202|139 STRAIPSNIO]] [[#^s-310d0874060104a6aaa2b545|2]], 3 DALIŲ (2000 M. RUGSĖJO 19 D. RED.), [[latest/TAR.EC588C321777#^s-74a6de218a2c75b62ce52bd4|LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO KODEKSO 306 STRAIPSNIO]] (2004 M. LIEPOS 8 D. RED.), [[#^s-cd01f554448b3b8ca0b08860|308 STRAIPSNIO]] (2006 M. BIRŽELIO 1 D. RED.) 2 DALIES (2002 M. KOVO 14 D. RED.), [[#^s-220aa205ff4a9f058028eefa|324 STRAIPSNIO]] 12, 13 DALIŲ (2002 M. KOVO 14 D. RED.), [[#^s-bfd19024c6e6b4a181901902|377 STRAIPSNIO]] (2004 M. LIEPOS 8 D. RED.) 9 DALIES (2002 M. KOVO 14 D. RED.), 448 STRAIPSNIO 7 DALIES (2002 M. KOVO 14 D. RED.), [[#^s-ba318d6b71c9bc175af5236a|454 STRAIPSNIO]] 5, 6 DALIŲ (2002 M. KOVO 14 D. RED.), [[#^s-ae713e747adfe80cfff01957|460 STRAIPSNIO]] 4, 5 DALIŲ (2002 M. KOVO 14 D. RED.), [LIETUVOS RESPUBLIKOS CIVILINIO PROCESO KODEKSO 268 STRAIPSNIO 3 DALIES](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) (2002 M. VASARIO 28 D. RED.), [[#^s-1ac873befd2a904441d221b4|285 STRAIPSNIO]] [[#^s-6b7960ec61dc155890cc7a6b|2]], [[#^s-55f4664d7a3c17e8949d1567|5]] DALIŲ (2002 M. VASARIO 28 D. RED.), [[#^s-c8b6d384f37fffe09d183c6e|286 STRAIPSNIO 1 DALIES]] (2002 M. VASARIO 28 D. RED.), [[#^s-43f1362151ba74a59f23664d|288 STRAIPSNIO 4 DALIES]] (2002 M. VASARIO 28 D. RED.), 289 STRAIPSNIO 2 DALIES (2002 M. VASARIO 28 D. RED.), 303 STRAIPSNIO 2 DALIES (2002 M. VASARIO 28 D. RED.), [[#^s-cf898db97c5047b965da60fc|320 STRAIPSNIO 2 DALIES]] (2002 M. VASARIO 28 D. RED.), [[#^s-f0fe936927b0748da2c13e76|325 STRAIPSNIO]] [[#^s-36e2d6be3aacba1b4509cd1f|2]], [[#^s-40a7940a22952fdb4e00c930|3]] DALIŲ (2002 M. VASARIO 28 D. RED.), [[#^s-1ebe7b3d2b5ee7c3db518f70|358 STRAIPSNIO]] [[#^s-158b9a9ac4a5f13a41e2e027|2]], [[#^s-b983a0eb73a18eb8e5fa7d81|3]] DALIŲ (2002 M. VASARIO 28 D. RED.) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, TAIP PAT DĖL PAREIŠKĖJO - SEIMO NARIŲ GRUPĖS PRAŠYMO IŠTIRTI, AR [[latest/TAR.522B3E415B52#^s-0fd3d0bd9c4deb250f17300d|LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 119 STRAIPSNIO 2 DALIES 1 PUNKTAS]] (2002 M. SAUSIO 24 D. REDAKCIJA), 119 STRAIPSNIO 5 DALIS (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-3ff590bd0a45a92ad7c32107|120 STRAIPSNIO]] (2003 M. SAUSIO 21 D. REDAKCIJA) 1 PUNKTAS (2002 M. SAUSIO 24 D. REDAKCIJA), LIETUVOS RESPUBLIKOS PREZIDENTO [2003 M. VASARIO 19 D. DEKRETAS NR. 2067](https://e-tar.lt/portal/lt/legalAct/TAR.7FC0AA625C11) "DĖL APYGARDOS TEISMO TEISĖJO ĮGALIOJIMŲ PRATĘSIMO", LIETUVOS RESPUBLIKOS PREZIDENTO [2003 M. BIRŽELIO 18 D. DEKRETAS NR. 128](https://e-tar.lt/portal/lt/legalAct/TAR.915DFDF763FC) "DĖL APYGARDŲ TEISMŲ SKYRIŲ PIRMININKŲ SKYRIMO" TA APIMTIMI, KURIA NUSTATYTA, KAD VILNIAUS APYGARDOS TEISMO TEISĖJAS KONSTANTAS RAMELIS SKIRIAMAS ŠIO TEISMO CIVILINIŲ BYLŲ SKYRIAUS PIRMININKU, NEPRIEŠTARAUJA LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 
 
@@ -17924,7 +17924,7 @@ Lietuvos Respublikos civilinio proceso kodekso pakeitimo įstatymas
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1242, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14517
-Lietuvos Respublikos civilinio proceso kodekso 49, 80, [[#^s-ba15398231dd267b4e48586c|182 straipsnių]] pakeitimo ir Kodekso papildymo 261-1 straipsniu bei XXIV-1 skyriumi [[latest/bb8b1d50b57e11e3ad2eed5a4e1b7108|įstatymo Nr. XII-771]] 2 straipsnio pripažinimo netekusiu galios ir 5 straipsnio pakeitimo įstatymas
+Lietuvos Respublikos civilinio proceso kodekso [[#^s-2cc663c71ae23449969d2aa5|49]], [[#^s-9740d37b7c4ce69a0b8c5809|80]], [[#^s-ba15398231dd267b4e48586c|182]] straipsnių pakeitimo ir Kodekso papildymo 261-1 straipsniu bei XXIV-1 skyriumi [[latest/bb8b1d50b57e11e3ad2eed5a4e1b7108|įstatymo Nr. XII-771]] 2 straipsnio pripažinimo netekusiu galios ir 5 straipsnio pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -17949,7 +17949,7 @@ Nr. XII-2011, 2015-11-12, paskelbta TAR 2015-11-17, i. k. 2015-18264
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2068, 2015-11-24, paskelbta TAR 2015-12-01, i. k. 2015-19107
-Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir [[#^s-dd82bf2564442fea7d18d7c4|366 straipsnių]] pakeitimo [[latest/ef2dcf6013ea11e58569be21ff080a8c|įstatymo Nr. XII-1772]] 2 straipsnio pakeitimo įstatymas
+Lietuvos Respublikos civilinio proceso kodekso 3, [[#^s-067bc26b619566bea0b45ddc|163]], [[#^s-0d09400141041801b04713fd|165]] ir [[#^s-dd82bf2564442fea7d18d7c4|366]] straipsnių pakeitimo [[latest/ef2dcf6013ea11e58569be21ff080a8c|įstatymo Nr. XII-1772]] 2 straipsnio pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -17969,7 +17969,7 @@ Lietuvos Respublikos civilinio proceso kodekso 83 straipsnio pakeitimo įstatyma
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2127, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19743
-Lietuvos Respublikos civilinio proceso kodekso pakeitimo [[latest/22ced7f0df7b11e48b678a6bad30f55f|įstatymo Nr. XII-1567]] 15 ir [[#^s-87bafe89149e4cb7df3991aa|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos civilinio proceso kodekso pakeitimo [[latest/22ced7f0df7b11e48b678a6bad30f55f|įstatymo Nr. XII-1567]] [[#^s-553b7f8cfb148df68465c0fa|15]] ir [[#^s-87bafe89149e4cb7df3991aa|16]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -17989,7 +17989,7 @@ Nr. XII-2113, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19700
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2410, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15665
-Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir [[#^s-dd82bf2564442fea7d18d7c4|366 straipsnių]] pakeitimo [[latest/ef2dcf6013ea11e58569be21ff080a8c|įstatymo Nr. XII-1772]] 2 straipsnio pakeitimo įstatymas
+Lietuvos Respublikos civilinio proceso kodekso 3, [[#^s-067bc26b619566bea0b45ddc|163]], [[#^s-0d09400141041801b04713fd|165]] ir [[#^s-dd82bf2564442fea7d18d7c4|366]] straipsnių pakeitimo [[latest/ef2dcf6013ea11e58569be21ff080a8c|įstatymo Nr. XII-1772]] 2 straipsnio pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -18019,7 +18019,7 @@ Nr. XII-2479, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17983
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2754, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26874
-Lietuvos Respublikos civilinio proceso kodekso 3, 163, 165 ir [[#^s-dd82bf2564442fea7d18d7c4|366 straipsnių]] pakeitimo [[latest/ef2dcf6013ea11e58569be21ff080a8c|įstatymo Nr. XII-1772]] 4 straipsnio pakeitimo įstatymas
+Lietuvos Respublikos civilinio proceso kodekso 3, [[#^s-067bc26b619566bea0b45ddc|163]], [[#^s-0d09400141041801b04713fd|165]] ir [[#^s-dd82bf2564442fea7d18d7c4|366]] straipsnių pakeitimo [[latest/ef2dcf6013ea11e58569be21ff080a8c|įstatymo Nr. XII-1772]] 4 straipsnio pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -18034,7 +18034,7 @@ Lietuvos Respublikos civilinio proceso kodekso pakeitimo įstatymas
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-140, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29844
-Lietuvos Respublikos civilinio proceso kodekso 737, 738 ir [[#^s-459a5ea6d635ad7f1733401b|739 straipsnių]] pakeitimo [[latest/89ddbf9048f411e6b5d09300a16a686c|įstatymo Nr. XII-2518]] 3 straipsnio pakeitimo įstatymas
+Lietuvos Respublikos civilinio proceso kodekso [[#^s-d059d6f17d142fa8a9332007|737]], [[#^s-2f3bb448f91bd74d410b5ee6|738]] ir [[#^s-459a5ea6d635ad7f1733401b|739]] straipsnių pakeitimo [[latest/89ddbf9048f411e6b5d09300a16a686c|įstatymo Nr. XII-2518]] 3 straipsnio pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -18079,7 +18079,7 @@ Nr. XIII-646, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16081
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1291, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10595
-Lietuvos Respublikos civilinio proceso kodekso 28, 336, 404, 480, 481, 482, 483, 487, 489, 490 ir [[#^s-7fd31684e2c172f7e9d33d84|582 straipsnių]] pakeitimo [[latest/2fe77d90adb711e78a4c904b1afa0332|įstatymo Nr. XIII-646]] pakeitimo įstatymas
+Lietuvos Respublikos civilinio proceso kodekso [[#^s-674c83279313ed2e0f0455a5|28]], [[#^s-8c4a83ff28e192e2d1844f13|336]], [[#^s-7c0ae6e18a89b4f16415ed94|404]], [[#^s-e2889de01f99a270ef4cd833|480]], [[#^s-3016034d40a4b7aff501785d|481]], [[#^s-fe3d736aaa857d86a0db7bbd|482]], [[#^s-fafd657e7edfa9a8c7237dd2|483]], [[#^s-34f57e0c0b01719810ddb9af|487]], [[#^s-b949418cc70f9154986d2632|489]], [[#^s-1c4f9c96b3938037f38978aa|490]] ir [[#^s-7fd31684e2c172f7e9d33d84|582]] straipsnių pakeitimo [[latest/2fe77d90adb711e78a4c904b1afa0332|įstatymo Nr. XIII-646]] pakeitimo įstatymas
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -18089,7 +18089,7 @@ Nr. XIII-1460, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11774
 36.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT22-N12/2018, 2018-12-14, paskelbta TAR 2018-12-14, i. k. 2018-20548
-Dėl Lietuvos Respublikos civilinio proceso kodekso [[#^s-fdc3fad8aad8d2753d156882|93 straipsnio 6 dalies]] atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos civilinio proceso kodekso 93 straipsnio 6 dalies atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/6126b940ffa311e8a969c20aa4d38bd4)
 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -18099,7 +18099,7 @@ Nr. XIII-1846, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21876
 38.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT9-N3/2019, 2019-03-01, paskelbta TAR 2019-03-01, i. k. 2019-03464
-Dėl Lietuvos Respublikos civilinio proceso kodekso [[#^s-fb503be7169d7fa298f037c2|306 straipsnio 3 dalies]] atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos civilinio proceso kodekso 306 straipsnio 3 dalies atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/b49ebff03c2511e99595d005d42b863e)
 
 39.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -18164,7 +18164,7 @@ Nr. XIII-3034, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13472
 51.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3035, 2020-06-09, paskelbta TAR 2020-06-19, i. k. 2020-13473
-Lietuvos Respublikos civilinio proceso kodekso 570, 629, 631, 663, 668, 688, 689, 736, 739, 746 ir [[#^s-cb46516aecaa7a4a6f26b838|749 straipsnių]] pakeitimo [[latest/7582669084d911e8ae2bfd1913d66d57|įstatymo Nr. XIII-1460]] 12 straipsnio pakeitimo įstatymas
+Lietuvos Respublikos civilinio proceso kodekso [[#^s-0d6b13559652bc3fb2204c27|570]], [[#^s-bf2ac5966b70bbd570079d5d|629]], [[#^s-e498b26421392537f84afc9c|631]], [[#^s-b276ae54f6899a9e36426b8f|663]], [[#^s-431ba488dedbc460d5417926|668]], [[#^s-608381224c49d3ce12a673c2|688]], [[#^s-2085e40e55d401ae30603369|689]], [[#^s-ef8d34d6f846a753200438c1|736]], [[#^s-459a5ea6d635ad7f1733401b|739]], [[#^s-a7a56cf08c2a3dc0f8a9f4cd|746]] ir [[#^s-cb46516aecaa7a4a6f26b838|749]] straipsnių pakeitimo [[latest/7582669084d911e8ae2bfd1913d66d57|įstatymo Nr. XIII-1460]] 12 straipsnio pakeitimo įstatymas
 
 52.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -18229,7 +18229,7 @@ Nr. XIV-2652, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09690
 64.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2802, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12133
-Lietuvos Respublikos civilinio proceso kodekso 82, 108, 145, 192, 590, 593, 596, 601, 602, 609, 610, 611, 614, 624-1, 626, 627, 631, 632, 634, 636, 648, 650, 651, 654, 656, 661, 663, 668, 685, 689, 702, 706, 710, 713, 723, 727, 731, 732, 753, 754, 755 ir 771-1 straipsnių pakeitimo [[latest/57fdc6b0a09311eea5a28c81c82193a8|įstatymo Nr. XIV-2317]] 15 ir [[#^s-8555f60db4b471534eecde2a|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos civilinio proceso kodekso [[#^s-c64684ebd2412c1ad30b13e9|82]], [[#^s-96e3fb93994e429fa3c3db4b|108]], [[#^s-23d21fc9565fdd26ce0e1c83|145]], [[#^s-e390cff05707f2d673315ee3|192]], [[#^s-34be4fe512119411bb20c54b|590]], [[#^s-72f5b5dfdec54f50fa51ae55|593]], [[#^s-0b4c553f815dec1b56fc5581|596]], [[#^s-846b1ab1e45fb0c0ba465045|601]], [[#^s-af593180d4b8aa5ad3f42ec1|602]], [[#^s-00e72ac5235b07b62e378259|609]], [[#^s-dda9995a8795736801061495|610]], [[#^s-e6dcc6a2c466fffeaf42666a|611]], [[#^s-0eca412147c07fee4eebba39|614]], 624-1, [[#^s-471ae693ad1ec1909da649e2|626]], [[#^s-f3ecbd786ba0bb5d7d953bd1|627]], [[#^s-e498b26421392537f84afc9c|631]], [[#^s-561aa1d5b74f9c936fd51b47|632]], [[#^s-48f4b4403e700b8626ba224b|634]], [[#^s-53c889d3dd09940cf657e315|636]], [[#^s-3f27b0bbb10d12f6e9fdc47f|648]], [[#^s-8005afb826617f23cac97230|650]], [[#^s-226aac7ce0913371c9a94a27|651]], [[#^s-a1c21434d63e2cc9a6719bde|654]], [[#^s-3a76c6ee541ee39d5e4aa206|656]], [[#^s-e7b1228c9114f2018ecd8d8e|661]], [[#^s-b276ae54f6899a9e36426b8f|663]], [[#^s-431ba488dedbc460d5417926|668]], [[#^s-479dd009a60738d27acdb19c|685]], [[#^s-2085e40e55d401ae30603369|689]], [[#^s-b9b8bf58df6e18dc781bebeb|702]], [[#^s-af060555989c38d6c0678d94|706]], [[#^s-b14ccdd2a54deeef081580c9|710]], [[#^s-78197d543d1e703c1a58411d|713]], [[#^s-b3a870a8e6e80ff05bae62a7|723]], [[#^s-4840ecdafc7b3998595f258d|727]], [[#^s-2ecf0a8de5f257273ceb923e|731]], [[#^s-057d3670d2b91eaae62a2f32|732]], [[#^s-d7d58041833c3cb268d6de7f|753]], [[#^s-b07c39119add51b39c6792a1|754]], [[#^s-b9e4f06f3cb92aafebfab39f|755]] ir 771-1 straipsnių pakeitimo [[latest/57fdc6b0a09311eea5a28c81c82193a8|įstatymo Nr. XIV-2317]] [[#^s-553b7f8cfb148df68465c0fa|15]] ir [[#^s-8555f60db4b471534eecde2a|30]] straipsnių pakeitimo įstatymas
 
 65.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -18254,12 +18254,12 @@ Lietuvos Respublikos civilinio proceso kodekso 83 straipsnio pakeitimo įstatyma
 69.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-615, 2025-11-27, paskelbta TAR 2025-12-02, i. k. 2025-20536
-Lietuvos Respublikos civilinio proceso kodekso 145, 648, 668, 688 ir [[#^s-2085e40e55d401ae30603369|689 straipsnių]] pakeitimo įstatymas
+[Lietuvos Respublikos civilinio proceso kodekso 145, 648, 668, 688 ir 689 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/11421582cf8c11f08918e1adc7c5b1ec)
 
 70.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT66-N14/2025, 2025-12-04, paskelbta TAR 2025-12-04, i. k. 2025-20677
-Dėl Lietuvos Respublikos civilinio proceso kodekso [[#^s-9738399c1db32faf905abd3d|626 straipsnio 4 dalies]] (2024 m. gegužės 16 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos civilinio proceso kodekso 626 straipsnio 4 dalies (2024 m. gegužės 16 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/1140b5d2d11411f08918e1adc7c5b1ec)
 
 71.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -18279,7 +18279,7 @@ Nr. XV-922, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08257
 74.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1028, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11104
-Lietuvos Respublikos civilinio proceso kodekso 82, 108, 145, 192, 590, 593, 596, 601, 602, 609, 610, 611, 614, 624-1, 626, 627, 631, 632, 634, 636, 648, 650, 651, 654, 656, 661, 663, 668, 685, 689, 702, 706, 710, 713, 723, 727, 731, 732, 753, 754, 755 ir 771-1 straipsnių pakeitimo [[latest/57fdc6b0a09311eea5a28c81c82193a8|įstatymo Nr. XIV-2317]] [[#^s-06a23cf81eeee6d606ca76fa|43 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos civilinio proceso kodekso [[#^s-c64684ebd2412c1ad30b13e9|82]], [[#^s-96e3fb93994e429fa3c3db4b|108]], [[#^s-23d21fc9565fdd26ce0e1c83|145]], [[#^s-e390cff05707f2d673315ee3|192]], [[#^s-34be4fe512119411bb20c54b|590]], [[#^s-72f5b5dfdec54f50fa51ae55|593]], [[#^s-0b4c553f815dec1b56fc5581|596]], [[#^s-846b1ab1e45fb0c0ba465045|601]], [[#^s-af593180d4b8aa5ad3f42ec1|602]], [[#^s-00e72ac5235b07b62e378259|609]], [[#^s-dda9995a8795736801061495|610]], [[#^s-e6dcc6a2c466fffeaf42666a|611]], [[#^s-0eca412147c07fee4eebba39|614]], 624-1, [[#^s-471ae693ad1ec1909da649e2|626]], [[#^s-f3ecbd786ba0bb5d7d953bd1|627]], [[#^s-e498b26421392537f84afc9c|631]], [[#^s-561aa1d5b74f9c936fd51b47|632]], [[#^s-48f4b4403e700b8626ba224b|634]], [[#^s-53c889d3dd09940cf657e315|636]], [[#^s-3f27b0bbb10d12f6e9fdc47f|648]], [[#^s-8005afb826617f23cac97230|650]], [[#^s-226aac7ce0913371c9a94a27|651]], [[#^s-a1c21434d63e2cc9a6719bde|654]], [[#^s-3a76c6ee541ee39d5e4aa206|656]], [[#^s-e7b1228c9114f2018ecd8d8e|661]], [[#^s-b276ae54f6899a9e36426b8f|663]], [[#^s-431ba488dedbc460d5417926|668]], [[#^s-479dd009a60738d27acdb19c|685]], [[#^s-2085e40e55d401ae30603369|689]], [[#^s-b9b8bf58df6e18dc781bebeb|702]], [[#^s-af060555989c38d6c0678d94|706]], [[#^s-b14ccdd2a54deeef081580c9|710]], [[#^s-78197d543d1e703c1a58411d|713]], [[#^s-b3a870a8e6e80ff05bae62a7|723]], [[#^s-4840ecdafc7b3998595f258d|727]], [[#^s-2ecf0a8de5f257273ceb923e|731]], [[#^s-057d3670d2b91eaae62a2f32|732]], [[#^s-d7d58041833c3cb268d6de7f|753]], [[#^s-b07c39119add51b39c6792a1|754]], [[#^s-b9e4f06f3cb92aafebfab39f|755]] ir 771-1 straipsnių pakeitimo [[latest/57fdc6b0a09311eea5a28c81c82193a8|įstatymo Nr. XIV-2317]] [[#^s-06a23cf81eeee6d606ca76fa|43 straipsnio]] pakeitimo įstatymas
 
 75.
 Lietuvos Respublikos Seimas, Įstatymas

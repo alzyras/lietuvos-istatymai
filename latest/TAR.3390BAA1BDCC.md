@@ -36,7 +36,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-98bdfcef654de80c574c6eed
 
 
-Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 ir 6 punktais bei atsižvelgdamas į Respublikos Prezidento 1996 m. gegužės 14 d. dekretą Nr.938, ratifikuoja Europos sutartį, steigiančią Europos bendrijų bei jų šalių narių ir Lietuvos Respublikos asociaciją, pasirašytą 1995 m. birželio 12 d. Liuksemburge.
+Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 ir 6 punktais bei atsižvelgdamas į Respublikos Prezidento [1996 m. gegužės 14 d. dekretą Nr.938](https://e-tar.lt/portal/lt/legalAct/TAR.E7B88CB8A92E), ratifikuoja Europos sutartį, steigiančią Europos bendrijų bei jų šalių narių ir Lietuvos Respublikos asociaciją, pasirašytą 1995 m. birželio 12 d. Liuksemburge.
 
 
 

@@ -66,7 +66,7 @@ Pakeisti 49 straipsnį ir jį išdėstyti taip:
 4. Inspektoriumi negali būti Seimo, Vyriausybės nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai. Inspektorius ir jo šeimos nariai negali būti susiję darbo santykiais su viešosios informacijos rengėjais ir (ar) skleidėjais, negali turėti viešosios informacijos rengėjų ir (ar) skleidėjų akcijų. Savo kadencijos laikotarpiu inspektorius negali dalyvauti politinėje veikloje. ^s-6b537bb7ca9a3084ef323771
 
 
-5. Inspektorius vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, ratifikuotomis Lietuvos Respublikos tarptautinėmis sutartimis, Europos Sąjungos teisės aktais, Lietuvos žurnalistų ir leidėjų etikos kodeksu ir kitais teisės aktais. ^s-6942a1c8e5694caa4a381437
+5. Inspektorius vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, ratifikuotomis Lietuvos Respublikos tarptautinėmis sutartimis, Europos Sąjungos teisės aktais, Lietuvos žurnalistų ir leidėjų etikos kodeksu ir kitais teisės aktais. ^s-6942a1c8e5694caa4a381437
 
 
 6. Inspektoriaus veikla grindžiama teisėtumo, nešališkumo, nepriklausomumo, teisingumo ir viešumo principais. ^s-4b94cdaac321e616124cd508
@@ -200,10 +200,10 @@ Pakeisti 50 straipsnį ir jį išdėstyti taip:
 3) kreiptis į kompetentingas valstybės institucijas ir Žurnalistų ir leidėjų etikos komisiją dėl pastebėtų šio Įstatymo ir kitų visuomenės informavimą reglamentuojančių teisės aktų pažeidimų; ^s-398b103059a8888d8257e550
 
 
-4) Administracinių teisės pažeidimų kodekso nustatytais atvejais surašyti administracinių teisės pažeidimų protokolus; ^s-6d55e2078f52f2089e3bf7f4
+4) [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatytais atvejais surašyti administracinių teisės pažeidimų protokolus; ^s-6d55e2078f52f2089e3bf7f4
 
 
-5) Administracinių teisės pažeidimų kodekso nustatytais atvejais nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas; ^s-b0a5a4231ea8e88fb1e2133f
+5) [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatytais atvejais nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas; ^s-b0a5a4231ea8e88fb1e2133f
 
 
 6) skundą (pareiškimą) pripažinti nepagrįstu; ^s-89b4d606c580fb8a4e8f8d7f

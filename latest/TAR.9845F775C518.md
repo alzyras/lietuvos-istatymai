@@ -244,13 +244,13 @@ b) 2 milijardus eurų per pastaruosius 12 mėnesių atliktų bendrų mokėjimo o
 c) 15 milijonų eurų įsipareigojimų elektroninių pinigų, įskaitant elektroninių pinigų žetonus, turėtojams ir (arba) mokėjimo paslaugų vartotojams už lėšas, gautas už leistus elektroninius pinigus, įskaitant elektroninių pinigų žetonus, ir (arba) mokėjimo operacijoms vykdyti;
 
 
-8) su turtu susietų žetonų, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 6 punkte, emitentai, kurių su tokių žetonų leidimo veikla susijusios pajamos paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija 10 milijonų eurų ir bendra įsipareigojimų su turtu susietų žetonų turėtojams vertė viršija 15 milijonų eurų; ^s-e51a298dbca86462fd5c2948
+8) su turtu susietų žetonų, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamento (ES) 2023/1114](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) dėl kriptoturto rinkų, kuriuo iš dalies keičiami [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, [[#^s-806d845c4f3cf7366e983539|3]] straipsnio 1 dalies 6 punkte, emitentai, kurių su tokių žetonų leidimo veikla susijusios pajamos paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija 10 milijonų eurų ir bendra įsipareigojimų su turtu susietų žetonų turėtojams vertė viršija 15 milijonų eurų; ^s-e51a298dbca86462fd5c2948
 
 
 9) valstybės įmonė ar savivaldybės įmonė, kurių ne mažiau kaip 2 rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus [[latest/a71c2bf036d511efbdaea558de59136c#^s-41473d6224a8fab6cc42fae8|Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymo 4 straipsnio 3 dalyje]], akcinė bendrovė ar uždaroji akcinė bendrovė, kurių akcijos ar dalis akcijų, suteikiančių daugiau kaip 1/2 visų balsų šių bendrovių visuotiniame akcininkų susirinkime, nuosavybės teise priklauso valstybei ir (arba) vienai ar kelioms savivaldybėms ir kurių ne mažiau kaip 2 rodikliai arba, jeigu ji yra patronuojančioji įmonė, konsoliduoti įmonių grupės rodikliai paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija dydžius, nurodytus [[latest/a71c2bf036d511efbdaea558de59136c#^s-41473d6224a8fab6cc42fae8|Įmonių ir įmonių grupių atskaitomybės įstatymo 4 straipsnio 3 dalyje]]; ^s-8b84ffd1965a20d4d059fe4c
 
 
-10) kriptoturto paslaugų teikėjai, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 15 punkte, kurių pajamos paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija 2 milijonus eurų. ^s-ef070ba031eb1bf317380c24
+10) kriptoturto paslaugų teikėjai, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamento (ES) 2023/1114](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) dėl kriptoturto rinkų, kuriuo iš dalies keičiami [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, [[#^s-806d845c4f3cf7366e983539|3]] straipsnio 1 dalies 15 punkte, kurių pajamos paskutinę finansinių metų dieną ne mažiau kaip 2 finansinius metus iš eilės viršija 2 milijonus eurų. ^s-ef070ba031eb1bf317380c24
 Papildyta straipsnio punktu:
 Nr. XIV-2812, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12135
 
@@ -351,10 +351,10 @@ c) vidutinis metinis darbuotojų skaičius, apskaičiuotas finansų ministro nus
 4. Auditoriams ir audito įmonėms, teikiantiems tvarumo atskaitomybės užtikrinimo paslaugas: ^s-40d67810b1e32f74dfdea0cc
 
 
-1) mutatis mutandis taikomos šio įstatymo 7–[[#^s-d8d30a7dd86618b5945218d6|12 straipsnių]], išskyrus šio įstatymo [[#^s-800aaa3b67ff7b8010ee019b|8 straipsnio]] 6–8 dalis dėl ribojimų atlikti finansinių ataskaitų auditą, nuostatos; ^s-69de6093460807577e5d7af1
+1) mutatis mutandis taikomos šio įstatymo [[#^s-9c9bf9ad80572b8cd6e84799|7]]–[[#^s-d8d30a7dd86618b5945218d6|12]] straipsnių, išskyrus šio įstatymo [[#^s-800aaa3b67ff7b8010ee019b|8 straipsnio]] [[#^s-a2f8236ff90b11417097ef5f|6]]–[[#^s-7de37f8c679c1c18da122bfd|8]] dalis dėl ribojimų atlikti finansinių ataskaitų auditą, nuostatos; ^s-69de6093460807577e5d7af1
 
 
-2) mutatis mutandis taikomi šio įstatymo IX skyriuje nustatyti reikalavimai, išskyrus šio įstatymo [[#^s-202f39a7e17c28175d461252|55 straipsnio 4 punkte]] nurodytą reikalavimą dėl finansinių ataskaitų audito ataskaitos parengimo; ^s-746b64481bf734f0dc8e230c
+2) mutatis mutandis taikomi šio įstatymo IX skyriuje nustatyti reikalavimai, išskyrus šio įstatymo 55 straipsnio 4 punkte nurodytą reikalavimą dėl finansinių ataskaitų audito ataskaitos parengimo; ^s-746b64481bf734f0dc8e230c
 
 
 3) taikomos Audito reglamento [[#^s-9c9bf9ad80572b8cd6e84799|7 straipsnio]] nuostatos dėl veiksmų, kurių turi būti imamasi įtarus arba nustačius pažeidimų, kai teikiamos viešojo intereso įmonės tvarumo atskaitomybės užtikrinimo paslaugos. ^s-d7935be89e3f7189980414a9
@@ -363,7 +363,7 @@ c) vidutinis metinis darbuotojų skaičius, apskaičiuotas finansų ministro nus
 5. Nepriklausomam užtikrinimo paslaugos teikėjui ir jo darbuotojui arba dalyviui, kai pagal atitinkamos teisinės formos juridinius asmenis reglamentuojančius teisės aktus juridinis asmuo neprivalo turėti darbuotojų, užtikrinimo specialistui mutatis mutandis taikomos šio įstatymo nuostatos, reglamentuojančios auditoriams ir audito įmonėms teikiant tvarumo atskaitomybės užtikrinimo paslaugas taikomus reikalavimus dėl: ^s-d99e1b940428f5539605023e
 
 
-1) profesinės etikos, ypač nepriklausomumo ir objektyvumo, konfidencialumo ir profesinės paslapties principų, darbo organizavimo ir įmonės vidaus organizacinės struktūros reikalavimų, atlyginimo už suteiktas tvarumo atskaitomybės užtikrinimo paslaugas, kaip nustatyta šio įstatymo II skyriuje, išskyrus šio įstatymo [[#^s-800aaa3b67ff7b8010ee019b|8 straipsnio]] 6–8 dalis ir [[#^s-c93bb8d9724700f58d9302bf|14 straipsnį]]; ^s-ef9fba49f26d18c2cae387ed
+1) profesinės etikos, ypač nepriklausomumo ir objektyvumo, konfidencialumo ir profesinės paslapties principų, darbo organizavimo ir įmonės vidaus organizacinės struktūros reikalavimų, atlyginimo už suteiktas tvarumo atskaitomybės užtikrinimo paslaugas, kaip nustatyta šio įstatymo II skyriuje, išskyrus šio įstatymo [[#^s-800aaa3b67ff7b8010ee019b|8 straipsnio]] [[#^s-a2f8236ff90b11417097ef5f|6]]–[[#^s-7de37f8c679c1c18da122bfd|8]] dalis ir [[#^s-c93bb8d9724700f58d9302bf|14 straipsnį]]; ^s-ef9fba49f26d18c2cae387ed
 
 
 2) pareigos drausti savo civilinę atsakomybę, kaip nustatyta šio įstatymo [[#^s-6701173f1e4476179fc37a0a|29 straipsnyje]]; ^s-95fcfb85d8b58aa5ea8919c1
@@ -517,7 +517,7 @@ PROFESINĖS ETIKOS PRINCIPAI IR REIKALAVIMAI AUDITORIAMS, AUDITO ĮMONĖMS IR AS
 2. Kai atliekamas įmonių grupės konsoliduotųjų finansinių ataskaitų auditas, [[#^s-ed4b2359445075878be6ba46|šio straipsnio 1 dalyje]] nurodyti reikalavimai keliami grupės auditoriui ir reikšmingų patronuojamųjų įmonių pagrindiniam partneriui (pagrindiniams partneriams). ^s-05e0a6aca07e89b51a6c93a3
 
 
-3. Kitiems audito įmonių darbuotojams, dalyviams ir pagrindiniams partneriams, išskyrus nurodytus šio straipsnio 1 ir [[#^s-05e0a6aca07e89b51a6c93a3|2 dalyse]], taip pat kitiems asmenims, kurių paslaugomis auditorius, pagrindinis partneris arba audito įmonė naudojasi arba kurių paslaugas kontroliuoja, jeigu tie asmenys yra patvirtinti auditoriais, taikomi [[#^s-ed4b2359445075878be6ba46|šio straipsnio 1 dalyje]] nustatyti apribojimai, jeigu nėra praėję vieni metai nuo to laiko, kai jie tiesiogiai dalyvavo atliekant finansinių ataskaitų auditą. ^s-876df80cc37da00099d920a9
+3. Kitiems audito įmonių darbuotojams, dalyviams ir pagrindiniams partneriams, išskyrus nurodytus šio straipsnio [[#^s-ed4b2359445075878be6ba46|1]] ir [[#^s-05e0a6aca07e89b51a6c93a3|2]] dalyse, taip pat kitiems asmenims, kurių paslaugomis auditorius, pagrindinis partneris arba audito įmonė naudojasi arba kurių paslaugas kontroliuoja, jeigu tie asmenys yra patvirtinti auditoriais, taikomi [[#^s-ed4b2359445075878be6ba46|šio straipsnio 1 dalyje]] nustatyti apribojimai, jeigu nėra praėję vieni metai nuo to laiko, kai jie tiesiogiai dalyvavo atliekant finansinių ataskaitų auditą. ^s-876df80cc37da00099d920a9
 
 
 4. Įmonių grupei priklausanti patronuojamoji įmonė yra reikšminga įmonių grupės požiūriu, jeigu jos turtas finansinių metų pabaigoje viršija 5 procentus patronuojančiosios įmonės turto, o pardavimo grynosios pajamos per ataskaitinius metus viršija 5 procentus patronuojančiosios įmonės pardavimo grynųjų pajamų per tą patį laikotarpį. ^s-c4969df4b468a5aa22385f6a
@@ -684,7 +684,7 @@ Nr. XIV-2812, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12135
 4) pažeidė nepriekaištingos reputacijos reikalavimą, jeigu pagal teisės aktus asmeniui toks reikalavimas taikomas, dėl to turėjo nutraukti vykdomą veiklą ir po tokio veiklos nutraukimo nepraėjo 3 metai; ^s-8b4a819d792f1f66b1c7c9d5
 
 
-5) buvo audito įmonės, kuriai buvo panaikintas audito įmonės pažymėjimo galiojimas, vadovas tuo metu, kai susidarė aplinkybės, dėl kurių audito įmonės pažymėjimo galiojimas buvo panaikintas, ir nuo to momento nepraėjo 3 metai. Šis punktas netaikomas, jeigu audito įmonei audito įmonės pažymėjimo galiojimas buvo panaikintas šio įstatymo [[#^s-41588f60d593a11ad0347ec1|33 straipsnio 1 dalies]] 3 ir [[#^s-8b4a819d792f1f66b1c7c9d5|4 punktuose]] nurodytais atvejais; ^s-319c229e91a694ff53faddde
+5) buvo audito įmonės, kuriai buvo panaikintas audito įmonės pažymėjimo galiojimas, vadovas tuo metu, kai susidarė aplinkybės, dėl kurių audito įmonės pažymėjimo galiojimas buvo panaikintas, ir nuo to momento nepraėjo 3 metai. Šis punktas netaikomas, jeigu audito įmonei audito įmonės pažymėjimo galiojimas buvo panaikintas šio įstatymo [[#^s-41588f60d593a11ad0347ec1|33 straipsnio 1 dalies]] [[#^s-4fa586f6198875ae225213a4|3]] ir [[#^s-5c18a594a293d65344300424|4]] punktuose nurodytais atvejais; ^s-319c229e91a694ff53faddde
 
 
 6) pažeidė Pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir jam buvo paskirta [[latest/TAR.C44837068B55#^s-1a7def7a3bf36eb95441b9f9|Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies 6 punkte]] nurodyta poveikio priemonė – išduotos licencijos ar leidimo vykdyti veiklą panaikinimas ir nuo šios poveikio priemonės paskyrimo dienos nepraėjo 5 metai. ^s-ab48611b42d0c3559fbd161f
@@ -737,7 +737,7 @@ Nr. XIV-2812, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12135
 3) kvalifikacinių auditoriaus egzaminų rezultatus. ^s-a370c478db46e7a41b0744cc
 
 
-6. Kvalifikacinių auditoriaus egzaminų, į kurių užduotis įtraukiami šio straipsnio 8 ir [[#^s-4022c92ffafc7b18db87985c|9 dalyse]] išvardytų sričių klausimai, sąrašą Auditorių rūmų teikimu tvirtina Įstaiga. Kvalifikacinių auditoriaus egzaminų užduotis pagal Egzaminų komisijos tvirtinamas programas rengia Auditorių rūmai. ^s-3fb28320a9c3087b0b7f78a9
+6. Kvalifikacinių auditoriaus egzaminų, į kurių užduotis įtraukiami šio straipsnio [[#^s-4246a36ee09c1a92f930a6d8|8]] ir [[#^s-4022c92ffafc7b18db87985c|9]] dalyse išvardytų sričių klausimai, sąrašą Auditorių rūmų teikimu tvirtina Įstaiga. Kvalifikacinių auditoriaus egzaminų užduotis pagal Egzaminų komisijos tvirtinamas programas rengia Auditorių rūmai. ^s-3fb28320a9c3087b0b7f78a9
 
 
 7. Kvalifikaciniai auditoriaus egzaminai rengiami taip, kad būtų patikrintos juos laikančių asmenų teorinės žinios, reikalingos finansinių ataskaitų auditui atlikti, ir gebėjimas tas žinias taikyti atliekant finansinių ataskaitų auditą. Bent dalis šio egzamino laikoma raštu. ^s-6d2461a950b57b144f6af443
@@ -831,7 +831,7 @@ Nr. XIV-2812, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12135
 4) tvarumo atskaitomybės užtikrinimo standartų. ^s-ae4233b6d63840e513f05536
 
 
-3. Tvarumo atskaitomybės užtikrinimo egzaminui mutatis mutandis taikomos šio įstatymo [[#^s-9052491800025b09d6ff7200|18 straipsnio]] 1–7 dalių nuostatos. ^s-4e72b09eb0153b7a8aa5b251
+3. Tvarumo atskaitomybės užtikrinimo egzaminui mutatis mutandis taikomos šio įstatymo [[#^s-9052491800025b09d6ff7200|18 straipsnio]] [[#^s-a915ba8f865e47c2d8c3737a|1]]–[[#^s-6d2461a950b57b144f6af443|7]] dalių nuostatos. ^s-4e72b09eb0153b7a8aa5b251
 
 
 
@@ -993,7 +993,7 @@ Nr. XIV-2812, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12135
 2. Kitų valstybių narių auditoriams pažymėjimas, suteikiantis teisę atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas, išduodamas pateikus buveinės valstybės narės kompetentingos institucijos išduotus dokumentus, kuriais įrodoma teisė atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas toje valstybėje narėje ir kuriais įrodoma, kad ši teisė nėra sustabdyta arba panaikinta, ir išlaikius žinių patikrinimo egzaminus. ^s-372408b4df234be4093fdb1f
 
 
-3. Žinių patikrinimo egzaminai Įstaigos nustatyta tvarka valstybine kalba laikomi iš sričių, nurodytų šio įstatymo [[#^s-4246a36ee09c1a92f930a6d8|18 straipsnio 8 dalies]] 2 ir 8 punktuose, 9 dalies 1–4 punktuose ir [[#^s-13c843c1332af8bfddfd599b|19 straipsnio 2 dalyje]], kiek tai susiję su tvarumo atskaitomybės reglamentavimu nacionaliniu lygmeniu. ^s-791e965b9bda5a66d463a3be
+3. Žinių patikrinimo egzaminai Įstaigos nustatyta tvarka valstybine kalba laikomi iš sričių, nurodytų šio įstatymo [[#^s-4246a36ee09c1a92f930a6d8|18 straipsnio 8 dalies]] [[#^s-a5969c460c7d3de8c2bae240|2]] ir [[#^s-d9f38ea55c88acd93ba6941b|8]] punktuose, 9 dalies [[#^s-e6c9dfb6a827a3aebfe40c05|1]]–[[#^s-503b649a6934b2fe147aa96d|4]] punktuose ir [[#^s-13c843c1332af8bfddfd599b|19 straipsnio 2 dalyje]], kiek tai susiję su tvarumo atskaitomybės reglamentavimu nacionaliniu lygmeniu. ^s-791e965b9bda5a66d463a3be
 
 
 4. Kai kitos valstybės narės auditorius gauna pažymėjimą, suteikiantį teisę atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas šiame straipsnyje nustatyta tvarka, jis yra įtraukiamas į auditorių sąrašą, laikoma, kad jis yra patvirtintas auditoriumi Lietuvos Respublikoje ir gali atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas, ir jam mutatis mutandis taikomos šio įstatymo nuostatos, reglamentuojančios auditorių veiklą. ^s-48915a691109f807667c14fe
@@ -1009,7 +1009,7 @@ Nr. XIV-2812, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12135
 1. Įstaiga savo nustatyta tvarka priima sprendimus dėl pažymėjimo, suteikiančio teisę atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas, išdavimo (neišdavimo) trečiųjų valstybių auditoriams ir savo nustatyta tvarka Auditorių rūmus informuoja apie priimtus sprendimus. ^s-e7d08563157ca2d0c12123ae
 
 
-2. Trečiųjų valstybių auditoriams pažymėjimas, suteikiantis teisę atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas, išduodamas pateikus trečiosios valstybės kompetentingos institucijos išduotus dokumentus, kuriais įrodoma, kad trečiosios valstybės auditorius atitinka reikalavimus, lygiaverčius nustatytiems šio įstatymo [[#^s-63ce6f4fa71efe6f3b7170da|15 straipsnio]] 1–4 punktuose, [[#^s-f4bdeb5dc656c108f0f8e63f|16 straipsnyje]], [[#^s-9052491800025b09d6ff7200|18 straipsnio]] 8 ir 9 dalyse ir [[#^s-13c843c1332af8bfddfd599b|19 straipsnio 2 dalyje]], ir kuriais įrodoma, kad ši teisė nėra sustabdyta arba panaikinta, ir išlaikius žinių patikrinimo egzaminus, kaip nustatyta šio įstatymo [[#^s-791e965b9bda5a66d463a3be|24 straipsnio 3 dalyje]]. Jeigu trečiosios valstybės auditoriui teisė atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas suteikta kitoje valstybėje narėje, trečiosios valstybės auditoriui pažymėjimas, suteikiantis teisę atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas, išduodamas išlaikius žinių patikrinimo egzaminus, kaip nustatyta šio įstatymo [[#^s-791e965b9bda5a66d463a3be|24 straipsnio 3 dalyje]]. ^s-713170c9d4f469914cb1e8f0
+2. Trečiųjų valstybių auditoriams pažymėjimas, suteikiantis teisę atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas, išduodamas pateikus trečiosios valstybės kompetentingos institucijos išduotus dokumentus, kuriais įrodoma, kad trečiosios valstybės auditorius atitinka reikalavimus, lygiaverčius nustatytiems šio įstatymo [[#^s-63ce6f4fa71efe6f3b7170da|15 straipsnio]] 1–4 punktuose, [[#^s-f4bdeb5dc656c108f0f8e63f|16 straipsnyje]], [[#^s-9052491800025b09d6ff7200|18 straipsnio]] [[#^s-4246a36ee09c1a92f930a6d8|8]] ir [[#^s-4022c92ffafc7b18db87985c|9]] dalyse ir [[#^s-13c843c1332af8bfddfd599b|19 straipsnio 2 dalyje]], ir kuriais įrodoma, kad ši teisė nėra sustabdyta arba panaikinta, ir išlaikius žinių patikrinimo egzaminus, kaip nustatyta šio įstatymo [[#^s-791e965b9bda5a66d463a3be|24 straipsnio 3 dalyje]]. Jeigu trečiosios valstybės auditoriui teisė atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas suteikta kitoje valstybėje narėje, trečiosios valstybės auditoriui pažymėjimas, suteikiantis teisę atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas, išduodamas išlaikius žinių patikrinimo egzaminus, kaip nustatyta šio įstatymo [[#^s-791e965b9bda5a66d463a3be|24 straipsnio 3 dalyje]]. ^s-713170c9d4f469914cb1e8f0
 
 
 3. Kai trečiosios valstybės auditorius gauna pažymėjimą, suteikiantį teisę atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas šiame straipsnyje nustatyta tvarka, jis yra įtraukiamas į auditorių sąrašą, laikoma, kad jis yra patvirtintas auditoriumi ir gali atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas, ir jam mutatis mutandis taikomos šio įstatymo nuostatos, reglamentuojančios auditorių veiklą. ^s-d064046f471301875822b296
@@ -1113,7 +1113,7 @@ Nr. XV-857, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06966
 ### 30 straipsnis. Audito įmonės pažymėjimo išdavimo tvarka ^s-1d649cba700644db7006f2aa
 
 
-1. Auditorių rūmai ne vėliau kaip per 20 darbo dienų nuo visų dokumentų gavimo dienos savo nustatyta tvarka, suderinta su Įstaiga, priima sprendimą dėl audito įmonės pažymėjimo išdavimo (neišdavimo) ir išduoda audito įmonės pažymėjimą, kuriuo patvirtinama, kad įmonė yra audito įmonė, arba nurodo audito įmonės pažymėjimo neišdavimo priežastį (priežastis). ^s-bfce81dd229d8d5e910d9979
+1. Auditorių rūmai ne vėliau kaip per 20 darbo dienų nuo visų dokumentų gavimo dienos savo nustatyta tvarka, suderinta su Įstaiga, priima sprendimą [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) įmonės pažymėjimo išdavimo (neišdavimo) ir išduoda audito įmonės pažymėjimą, kuriuo patvirtinama, kad įmonė yra audito įmonė, arba nurodo audito įmonės pažymėjimo neišdavimo priežastį (priežastis). ^s-bfce81dd229d8d5e910d9979
 
 
 2. Įmonė, gavusi audito įmonės pažymėjimą šiame straipsnyje nustatyta tvarka, įtraukiama į audito įmonių sąrašą ir įgyja teisę atlikti finansinių ataskaitų auditą. ^s-2fca11293687f0057585e96b
@@ -1187,7 +1187,7 @@ Nr. XV-857, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06966
 8. Audito įmonei, kurios audito įmonės pažymėjimo galiojimas sustabdytas Auditorių rūmų sprendimu audito įmonės prašymu, pateikus Auditorių rūmams prašymą atnaujinti audito įmonės pažymėjimo galiojimą, jeigu audito įmonės dalyviai, kuriems priklauso daugiau kaip 1/2 balsavimo teisių, su tuo sutinka, audito įmonės pažymėjimo galiojimas atnaujinamas. ^s-c6a43c86462ab757cf065fc1
 
 
-9. Sprendimas dėl audito įmonės pažymėjimo galiojimo sustabdymo ir sprendimas dėl audito įmonės pažymėjimo galiojimo atnaujinimo įsigalioja po 3 darbo dienų nuo sprendimo priėmimo dienos. ^s-502428b54ec7799b1fcdff4e
+9. Sprendimas [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) įmonės pažymėjimo galiojimo sustabdymo ir sprendimas [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) įmonės pažymėjimo galiojimo atnaujinimo įsigalioja po 3 darbo dienų nuo sprendimo priėmimo dienos. ^s-502428b54ec7799b1fcdff4e
 
 
 10. Įstaiga, sustabdžiusi audito įmonės pažymėjimo galiojimą ir atnaujinusi audito įmonės pažymėjimo galiojimą, apie tai informuoja Auditorių rūmus per 2 darbo dienas nuo atitinkamo sprendimo priėmimo dienos. ^s-cb8cd08c9554bf24449dd4f8
@@ -1224,22 +1224,22 @@ Nr. XV-857, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06966
 2) skyrus poveikio priemonę panaikinti audito įmonės pažymėjimo galiojimą. ^s-556fe46681781ba6b0d7a074
 
 
-3. Sprendimas dėl audito įmonės pažymėjimo galiojimo panaikinimo įsigalioja kitą darbo dieną nuo šio straipsnio 1 ir [[#^s-15d0edc3204a9cf8f466376f|2 dalyse]] nustatytais atvejais priimtame sprendime nurodytos dienos. ^s-adb776efb3d37c85e547a61f
+3. Sprendimas [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) įmonės pažymėjimo galiojimo panaikinimo įsigalioja kitą darbo dieną nuo šio straipsnio [1](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) ir [2](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) dalyse nustatytais atvejais priimtame sprendime nurodytos dienos. ^s-adb776efb3d37c85e547a61f
 
 
-4. Įstaiga, panaikinusi audito įmonės pažymėjimo galiojimą, apie tai informuoja Auditorių rūmus per 2 darbo dienas nuo sprendimo dėl audito įmonės pažymėjimo galiojimo panaikinimo įsigaliojimo dienos. ^s-3f1b96cbc8ef1d9f61283e5a
+4. Įstaiga, panaikinusi audito įmonės pažymėjimo galiojimą, apie tai informuoja Auditorių rūmus per 2 darbo dienas nuo sprendimo [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) įmonės pažymėjimo galiojimo panaikinimo įsigaliojimo dienos. ^s-3f1b96cbc8ef1d9f61283e5a
 
 
-5. Įmonė sprendimo dėl audito įmonės pažymėjimo galiojimo panaikinimo įsigaliojimo dieną išbraukiama iš audito įmonių sąrašo ir netenka teisės atlikti finansinių ataskaitų auditą ir teikti tvarumo atskaitomybės užtikrinimo paslaugas. ^s-8f72d90438bde552964656e3
+5. Įmonė sprendimo [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) įmonės pažymėjimo galiojimo panaikinimo įsigaliojimo dieną išbraukiama iš audito įmonių sąrašo ir netenka teisės atlikti finansinių ataskaitų auditą ir teikti tvarumo atskaitomybės užtikrinimo paslaugas. ^s-8f72d90438bde552964656e3
 
 
-6. Panaikinus audito įmonės pažymėjimo galiojimą [[#^s-31bdb543fc2a5476e3ad94d6|šio straipsnio 1 dalies 2 punkte]] ir [[#^s-15d0edc3204a9cf8f466376f|2 dalyje]] nustatytais atvejais, įmonė kreiptis į Auditorių rūmus dėl naujo audito įmonės pažymėjimo gavimo gali ne anksčiau kaip po 3 metų nuo Įstaigos arba Auditorių rūmų sprendimo dėl audito įmonės pažymėjimo galiojimo panaikinimo įsigaliojimo dienos. ^s-e409229c5f840e8b216bace6
+6. Panaikinus audito įmonės pažymėjimo galiojimą [[#^s-31bdb543fc2a5476e3ad94d6|šio straipsnio 1 dalies 2 punkte]] ir [[#^s-15d0edc3204a9cf8f466376f|2 dalyje]] nustatytais atvejais, įmonė kreiptis į Auditorių rūmus dėl naujo audito įmonės pažymėjimo gavimo gali ne anksčiau kaip po 3 metų nuo Įstaigos arba Auditorių rūmų sprendimo [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) įmonės pažymėjimo galiojimo panaikinimo įsigaliojimo dienos. ^s-e409229c5f840e8b216bace6
 
 
 7. [[#^s-41588f60d593a11ad0347ec1|Šio straipsnio 1 dalies]] 1 ir 4 punktuose nustatytais atvejais panaikinus audito įmonės pažymėjimo galiojimą, įmonė gali kreiptis dėl naujo audito įmonės pažymėjimo gavimo, kai pašalinamos priežastys, dėl kurių audito įmonės pažymėjimo galiojimas buvo panaikintas. ^s-12bba0dda6ed3fa37d679dec
 
 
-8. [[#^s-5c18a594a293d65344300424|Šio straipsnio 1 dalies 4 punkte]] nustatytu atveju audito įmonė per 3 mėnesius nuo sprendimo – teismo nutarties iškelti bankroto bylą įsiteisėjimo ar kreditorių susirinkimo priimto nutarimo bankroto procedūras vykdyti ne teismo tvarka – priėmimo dienos turi baigti vykdyti, pakeisti arba nutraukti finansinių ataskaitų audito ir (arba) tvarumo atskaitomybės užtikrinimo paslaugų sutartis, sudarytas iki sprendimo priėmimo dienos. Šiuo atveju laikoma, kad sprendimas dėl audito įmonės pažymėjimo galiojimo panaikinimo įsigalioja kitą dieną praėjus 3 mėnesiams nuo sprendimo priėmimo dienos. ^s-741c12b9738c62c3bb6a6fb8
+8. [[#^s-5c18a594a293d65344300424|Šio straipsnio 1 dalies 4 punkte]] nustatytu atveju audito įmonė per 3 mėnesius nuo sprendimo – teismo nutarties iškelti bankroto bylą įsiteisėjimo ar kreditorių susirinkimo priimto nutarimo bankroto procedūras vykdyti ne teismo tvarka – priėmimo dienos turi baigti vykdyti, pakeisti arba nutraukti finansinių ataskaitų audito ir (arba) tvarumo atskaitomybės užtikrinimo paslaugų sutartis, sudarytas iki sprendimo priėmimo dienos. Šiuo atveju laikoma, kad sprendimas [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) įmonės pažymėjimo galiojimo panaikinimo įsigalioja kitą dieną praėjus 3 mėnesiams nuo sprendimo priėmimo dienos. ^s-741c12b9738c62c3bb6a6fb8
 
 
 9. Jeigu audito įmonės pažymėjimo galiojimas panaikinamas audito įmonei, pripažįstamai audito įmone priimančiojoje valstybėje narėje, apie šį faktą ir priežastis Įstaiga praneša priimančiosios valstybės narės kompetentingai (kompetentingoms) institucijai (institucijoms) ne vėliau kaip per 3 darbo dienas nuo sprendimo panaikinti audito įmonės pažymėjimą priėmimo dienos. ^s-a8703ad8c944f8911f1de618
@@ -1255,7 +1255,7 @@ Nr. XV-857, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06966
 1. Įstaiga savo nustatyta tvarka priima sprendimus dėl pažymėjimo, suteikiančio teisę atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas, išdavimo (neišdavimo) kitų valstybių narių audito įmonėms ir Auditorių rūmus informuoja apie priimtus sprendimus. ^s-82cd8e305a4734713e3790df
 
 
-2. Kitos valstybės narės audito įmonė turi teisę atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas šio įstatymo nustatyta tvarka, jeigu jos pagrindinis partneris atitinka šio įstatymo [[#^s-f4ab44781923eaffb32d29e2|24 straipsnio]] 2 ir [[#^s-14fa1f6aa8e8e182f2179480|3 dalyse]] nustatytus reikalavimus ir turi auditoriaus pažymėjimą, išduotą šio įstatymo 20 ar [[#^s-f4ab44781923eaffb32d29e2|24 straipsnyje]] nustatyta tvarka. ^s-b3354bc257cf52d4eb5ee823
+2. Kitos valstybės narės audito įmonė turi teisę atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas šio įstatymo nustatyta tvarka, jeigu jos pagrindinis partneris atitinka šio įstatymo [[#^s-f4ab44781923eaffb32d29e2|24 straipsnio]] [[#^s-372408b4df234be4093fdb1f|2]] ir [[#^s-791e965b9bda5a66d463a3be|3]] dalyse nustatytus reikalavimus ir turi auditoriaus pažymėjimą, išduotą šio įstatymo [[#^s-09148e6e9f8dec68cc6d37a8|20]] ar [[#^s-f4ab44781923eaffb32d29e2|24]] straipsnyje nustatyta tvarka. ^s-b3354bc257cf52d4eb5ee823
 
 
 3. Kai kitos valstybės narės audito įmonė įtraukiama į audito įmonių sąrašą, ji gali atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas ir yra laikoma pripažinta audito įmone Lietuvos Respublikoje, jai mutatis mutandis taikomos šio įstatymo nuostatos, reglamentuojančios audito įmonių veiklą. Įstaiga informuoja buveinės valstybės narės kompetentingą instituciją apie kitos valstybės narės audito įmonę, kuriai išduotas pažymėjimas, suteikiantis teisę atlikti finansinių ataskaitų auditą ir (arba) teikti tvarumo atskaitomybės užtikrinimo paslaugas. ^s-14fa1f6aa8e8e182f2179480
@@ -1309,7 +1309,7 @@ AUDITORIŲ IR AUDITO ĮMONIŲ SĄRAŠAI
 6) jeigu kitos valstybės narės arba trečiosios valstybės kompetentingos institucijos patvirtino jį kitos valstybės narės auditoriumi arba trečiosios valstybės auditoriumi ir (arba) jam yra suteikta teisė vykdyti tvarumo atskaitomybės užtikrinimo veiklą, – priimančiosios valstybės narės arba trečiosios valstybės kompetentingos (kompetentingų) institucijos (institucijų) pavadinimas (pavadinimai), registracijos numeris (numeriai), jeigu jis (jie) yra, informacija, ar suteikta teisė vykdyti tvarumo atskaitomybės užtikrinimo veiklą, ir kita informacija apie tokį registravimą; ^s-31e29274400f16d6c2389d87
 
 
-7) galiojantys ir ginčijami nurodymai ir poveikio priemonės, nurodyti šio įstatymo [[#^s-d84beaa60886ffc74f60deba|75 straipsnio]] 1 ir [[#^s-8de744baac3ae4ebbaddb51c|2 dalyse]], Įstaigos sprendimo duoti nurodymą ar skirti poveikio priemonę numeris ir data, jeigu yra, – informacija apie ginčijamo nurodymo ar poveikio priemonės apskundimą ar nagrinėjant skundą teismo priimto sprendimo esmę. Kai nurodoma informacija apie šio įstatymo [[#^s-9400152dc66f15b7d700400f|75 straipsnio 2 dalies 1 punkte]] nustatytą poveikio priemonę, kartu nurodomas ir poveikio priemonės skyrimo pagrindas. ^s-bb1787bdb29d288258916bf5
+7) galiojantys ir ginčijami nurodymai ir poveikio priemonės, nurodyti šio įstatymo [[#^s-d84beaa60886ffc74f60deba|75 straipsnio]] [[#^s-bc0b13ceb8aca214f7636572|1]] ir [[#^s-ba5d898a4e9197bc23484c98|2]] dalyse, Įstaigos sprendimo duoti nurodymą ar skirti poveikio priemonę numeris ir data, jeigu yra, – informacija apie ginčijamo nurodymo ar poveikio priemonės apskundimą ar nagrinėjant skundą teismo priimto sprendimo esmę. Kai nurodoma informacija apie šio įstatymo [[#^s-9400152dc66f15b7d700400f|75 straipsnio 2 dalies 1 punkte]] nustatytą poveikio priemonę, kartu nurodomas ir poveikio priemonės skyrimo pagrindas. ^s-bb1787bdb29d288258916bf5
 
 
 3. Įstaiga nustato informacijos apie auditoriaus atliktus viešojo intereso įmonių finansinių ataskaitų auditus pateikimo Įstaigai ir Auditorių rūmams tvarką. ^s-9b5146677628bfc2f705ec2c
@@ -1386,7 +1386,7 @@ AUDITORIŲ IR AUDITO ĮMONIŲ SĄRAŠAI
 10) jeigu audito įmonę kitos valstybės narės kompetentinga institucija pripažino kitos valstybės narės audito įmone ir (arba) ji yra registruota trečiojoje valstybėje, – visa su tuo susijusi informacija ir priimančiosios valstybės narės kompetentingos institucijos ir (arba) trečiosios valstybės kompetentingos institucijos pavadinimas, registracijos numeris (numeriai), jeigu jis (jie) yra, nurodant, ar suteikta teisė vykdyti tvarumo atskaitomybės užtikrinimo veiklą; ^s-a991d5a2c7b2cddcb3d40ace
 
 
-11) galiojantys ir ginčijami nurodymai ar poveikio priemonės, nurodyti šio įstatymo [[#^s-d84beaa60886ffc74f60deba|75 straipsnio]] 1 ir [[#^s-a0f50a657a2ba274efa35267|2 dalyse]], nurodant Įstaigos sprendimo dėl nurodymo davimo ar poveikio priemonės skyrimo numerį ir datą, jeigu yra, – informacija apie ginčijamo nurodymo ar poveikio priemonės apskundimą ar nagrinėjant skundą teismo priimto sprendimo esmę. Kai nurodoma informacija apie šio įstatymo [[#^s-9400152dc66f15b7d700400f|75 straipsnio 2 dalies 1 punkte]] nustatytą poveikio priemonę, kartu nurodomas ir poveikio priemonės skyrimo pagrindas. ^s-1491de61e81058988c9434ce
+11) galiojantys ir ginčijami nurodymai ar poveikio priemonės, nurodyti šio įstatymo [[#^s-d84beaa60886ffc74f60deba|75 straipsnio]] [[#^s-bc0b13ceb8aca214f7636572|1]] ir [[#^s-ba5d898a4e9197bc23484c98|2]] dalyse, nurodant Įstaigos sprendimo dėl nurodymo davimo ar poveikio priemonės skyrimo numerį ir datą, jeigu yra, – informacija apie ginčijamo nurodymo ar poveikio priemonės apskundimą ar nagrinėjant skundą teismo priimto sprendimo esmę. Kai nurodoma informacija apie šio įstatymo [[#^s-9400152dc66f15b7d700400f|75 straipsnio 2 dalies 1 punkte]] nustatytą poveikio priemonę, kartu nurodomas ir poveikio priemonės skyrimo pagrindas. ^s-1491de61e81058988c9434ce
 
 
 3. Įstaiga nustato informacijos apie audito įmonės suteiktas viešojo intereso įmonių finansinių ataskaitų audito paslaugas pateikimo Įstaigai ir Auditorių rūmams tvarką. ^s-ef2905701007ade659eda038
@@ -1479,10 +1479,10 @@ b) vadovybės ataskaitoje ir (arba) konsoliduotojoje vadovybės ataskaitoje, nur
 3. Atlikdamas pelno siekiančių juridinių asmenų, kurių vadovybės ataskaitoje pateikiama informacija apie bendrovių valdyseną, finansinių ataskaitų auditą, be dalykų, nurodytų [[#^s-9bea8c048cfe8e2bdee7d706|šio straipsnio 2 dalyje]], auditorius: ^s-81b631c86fad8a84194f9f32
 
 
-1) pateikia [[#^s-9bea8c048cfe8e2bdee7d706|šio straipsnio 2 dalyje]] nurodytą nuomonę dėl pagal [[latest/a71c2bf036d511efbdaea558de59136c#^s-006847a8c626e1018db91425|Įmonių ir įmonių grupių atskaitomybės įstatymo 24 straipsnio 1 dalies]] 3–9 punktus parengtos informacijos; ^s-e8ee6e819a01f7515f42c602
+1) pateikia [[#^s-9bea8c048cfe8e2bdee7d706|šio straipsnio 2 dalyje]] nurodytą nuomonę dėl pagal [[latest/a71c2bf036d511efbdaea558de59136c#^s-006847a8c626e1018db91425|Įmonių ir įmonių grupių atskaitomybės įstatymo 24 straipsnio 1 dalies]] [[latest/a71c2bf036d511efbdaea558de59136c#^s-cc204f28e4c97610a92650e7|3]]–[[latest/a71c2bf036d511efbdaea558de59136c#^s-87dca35bd9abf8060ebf0185|9]] punktus parengtos informacijos; ^s-e8ee6e819a01f7515f42c602
 
 
-2) patikrina, ar buvo pateikta [[latest/a71c2bf036d511efbdaea558de59136c#^s-006847a8c626e1018db91425|Įmonių ir įmonių grupių atskaitomybės įstatymo 24 straipsnio 1 dalies]] 1, 2, 10, 11, 12 ir 13 punktuose nurodyta informacija, ir tai nurodo auditoriaus išvadoje. ^s-ea440cb2b917b200e5560b3d
+2) patikrina, ar buvo pateikta [[latest/a71c2bf036d511efbdaea558de59136c#^s-006847a8c626e1018db91425|Įmonių ir įmonių grupių atskaitomybės įstatymo 24 straipsnio 1 dalies]] [[latest/a71c2bf036d511efbdaea558de59136c#^s-5ab72cefc625a26dfa1f983a|1]], [[latest/a71c2bf036d511efbdaea558de59136c#^s-cb1b732c517e50108b053ca8|2]], [[latest/a71c2bf036d511efbdaea558de59136c#^s-819d98a13e4482f2e5478abe|10]], [[latest/a71c2bf036d511efbdaea558de59136c#^s-25815c8b91e66783f9d136b5|11]], [[latest/a71c2bf036d511efbdaea558de59136c#^s-71adb05b45cc6e41f752437e|12]] ir [[latest/a71c2bf036d511efbdaea558de59136c#^s-b230a9e0a29dd8598da13118|13]] punktuose nurodyta informacija, ir tai nurodo auditoriaus išvadoje. ^s-ea440cb2b917b200e5560b3d
 
 
 4. Atlikdamas pelno siekiančių juridinių asmenų, kurių vadovybės ataskaitoje pateikiama informacija apie atlygį, finansinių ataskaitų auditą, be dalykų, nurodytų [[#^s-9bea8c048cfe8e2bdee7d706|šio straipsnio 2 dalyje]], auditorius patikrina vadovybės ataskaitoje teikiamą informaciją apie atlygį ir tai nurodo auditoriaus išvadoje. ^s-487ef97ca4bdc30563895cc5
@@ -1516,7 +1516,7 @@ b) vadovybės ataskaitoje ir (arba) konsoliduotojoje vadovybės ataskaitoje, nur
 4) nurodomi kiti dalykai, į kuriuos auditorius (auditoriai) arba audito įmonė (įmonės) atkreipia dėmesį, nors dėl jų nekeičia nuomonės, nurodytos [[#^s-b6e823b8481104c8a3f4ad57|šios dalies 3 punkte]]; ^s-9c3e9261989d8ac49912e386
 
 
-5) grindžiant finansinių ataskaitų audito metu atliktu darbu pateikiama šio įstatymo [[#^s-c3e4f79b9572755fc8ea425c|41 straipsnio]] 2–5 dalyse nurodyta nuomonė ir informacija; ^s-884a8e05f3daee53e0e4e580
+5) grindžiant finansinių ataskaitų audito metu atliktu darbu pateikiama šio įstatymo [[#^s-c3e4f79b9572755fc8ea425c|41 straipsnio]] [[#^s-9bea8c048cfe8e2bdee7d706|2]]–[[#^s-d1d069f67f1d24c61d3f0345|5]] dalyse nurodyta nuomonė ir informacija; ^s-884a8e05f3daee53e0e4e580
 
 
 6) pateikiamas pareiškimas dėl visų esminių neaiškumų, susijusių su įvykiais arba sąlygomis, dėl kurių gali kilti didelių abejonių dėl audituojamos įmonės veiklos tęstinumo; ^s-d06ea4001e98990c0b2eaf4b
@@ -1541,7 +1541,7 @@ b) vadovybės ataskaitoje ir (arba) konsoliduotojoje vadovybės ataskaitoje, nur
 1. Auditoriaus išvada rengiama raštu. ^s-c31feffa208eaecbc83f94ae
 
 
-2. Kai tą patį finansinių ataskaitų auditą atlieka daugiau kaip viena audito įmonė, visų audito įmonių pagrindiniai partneriai sutaria dėl audito rezultatų ir pateikia bendrą auditoriaus išvadą. Jeigu nesutariama dėl nuomonės, audito įmonės (įmonių) pagrindinis partneris (partneriai), kuris (kurie) nepritaria nuomonei, pateikia savo nuomonę atskiru auditoriaus išvados punktu ir nurodo nesutarimo priežastį. ^s-d1dd18adfefd41838dd5c75b
+2. Kai tą patį finansinių ataskaitų auditą atlieka daugiau kaip viena audito įmonė, visų audito įmonių pagrindiniai partneriai sutaria [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) rezultatų ir pateikia bendrą auditoriaus išvadą. Jeigu nesutariama dėl nuomonės, audito įmonės (įmonių) pagrindinis partneris (partneriai), kuris (kurie) nepritaria nuomonei, pateikia savo nuomonę atskiru auditoriaus išvados punktu ir nurodo nesutarimo priežastį. ^s-d1dd18adfefd41838dd5c75b
 
 
 3. Kai atliekamas konsoliduotųjų finansinių ataskaitų auditas, auditoriaus arba audito įmonės auditoriaus išvadoje pateikta nuomonė ir pareiškimas turi būti pagrįsti darbu, atliktu audituojant konsoliduotąsias finansines ataskaitas ir peržiūrint konsoliduotąją vadovybės ataskaitą. Kai prie konsoliduotųjų finansinių ataskaitų pridedamos patronuojančiosios įmonės metinės finansinės ataskaitos, auditoriaus išvados gali būti sujungiamos. ^s-8906f250cd4a0438ee45e70f
@@ -1569,7 +1569,7 @@ b) vadovybės ataskaitoje ir (arba) konsoliduotojoje vadovybės ataskaitoje, nur
 3) konsoliduotųjų finansinių ataskaitų audito tikslais peržiūri tų auditorių ir (arba) audito įmonių atliktą finansinių ataskaitų auditą, jų pateiktus dokumentus ir šią peržiūrą įformina darbo dokumentais. ^s-507bbd6f7667039e1f3c975a
 
 
-3. Grupės auditoriaus saugomi dokumentai turi būti tokie, kad Įstaiga ir Auditorių rūmai galėtų patikrinti grupės auditoriaus šio straipsnio 1 ir [[#^s-cd4211c5284f5773f0460383|2 dalyse]] nurodytą atliktą darbą. ^s-0dfbd8e7d83111d43ebb27ef
+3. Grupės auditoriaus saugomi dokumentai turi būti tokie, kad Įstaiga ir Auditorių rūmai galėtų patikrinti grupės auditoriaus šio straipsnio [[#^s-4168d708440e7efcf0d8c7ab|1]] ir [[#^s-cd4211c5284f5773f0460383|2]] dalyse nurodytą atliktą darbą. ^s-0dfbd8e7d83111d43ebb27ef
 
 
 4. Jeigu grupės auditorius negali laikytis [[#^s-cd4211c5284f5773f0460383|šio straipsnio 2 dalies]] nuostatų, jis: ^s-83e78c51d3157ca910e0f031
@@ -1581,7 +1581,7 @@ b) vadovybės ataskaitoje ir (arba) konsoliduotojoje vadovybės ataskaitoje, nur
 2) papildomą su finansinių ataskaitų auditu susijusį darbą paveda atlikti kitam auditoriui arba audito įmonei. ^s-25a7a7055976deb2df3bb0cb
 
 
-5. Jeigu grupės auditorius negali atitikti šio straipsnio 2 ir [[#^s-83e78c51d3157ca910e0f031|4 dalyse]] nustatytų reikalavimų dėl ne nuo savęs priklausančių aplinkybių, jis darbo dokumentuose nurodo priežastis, dėl kurių negali to padaryti, ir apie tai informuoja Įstaigą. ^s-05688d831f5e0920455ff0f3
+5. Jeigu grupės auditorius negali atitikti šio straipsnio [[#^s-cd4211c5284f5773f0460383|2]] ir [[#^s-83e78c51d3157ca910e0f031|4]] dalyse nustatytų reikalavimų dėl ne nuo savęs priklausančių aplinkybių, jis darbo dokumentuose nurodo priežastis, dėl kurių negali to padaryti, ir apie tai informuoja Įstaigą. ^s-05688d831f5e0920455ff0f3
 
 
 6. Grupės auditorius informuoja Įstaigą, jeigu ėmėsi [[#^s-83e78c51d3157ca910e0f031|šio straipsnio 4 dalyje]] nurodytų veiksmų ir jeigu atsirado [[#^s-05688d831f5e0920455ff0f3|šio straipsnio 5 dalyje]] nurodytų aplinkybių. ^s-b7e3b4f3333951705ce4809a
@@ -1676,7 +1676,7 @@ NEPRIKLAUSOMAS UŽTIKRINIMO PASLAUGOS TEIKĖJAS IR UŽTIKRINIMO SPECIALISTAS
 2. Trečiojoje valstybėje pripažintas užtikrinimo specialistas įtraukiamas į užtikrinimo specialistų sąrašą, jeigu jis: ^s-0c2098af3db901a4bbf48739
 
 
-1) atitinka šio įstatymo [[#^s-8c430e336eb3abbbd13b30e5|46 straipsnio 1 dalies]] 1–3 punktuose nustatytus reikalavimus; ^s-a3b85d1d405824b580cd8dda
+1) atitinka šio įstatymo [[#^s-8c430e336eb3abbbd13b30e5|46 straipsnio 1 dalies]] [[#^s-60c491d05d6fc3bd5090aa4a|1]]–[[#^s-fe0a5f713daad9b09d58fbe3|3]] punktuose nustatytus reikalavimus; ^s-a3b85d1d405824b580cd8dda
 
 
 2) yra išlaikęs žinių patikrinimo egzaminą, kaip nustatyta šio įstatymo [[#^s-791e965b9bda5a66d463a3be|24 straipsnio 3 dalyje]]. ^s-d61cb44e1c80e695a6e0fc11
@@ -1707,7 +1707,7 @@ NEPRIKLAUSOMAS UŽTIKRINIMO PASLAUGOS TEIKĖJAS IR UŽTIKRINIMO SPECIALISTAS
 4) jeigu užtikrinimo specialistui skiriama šio įstatymo [[#^s-b3013112f27fcb49e9f9038f|75 straipsnio 2 dalies 4 punkte]] nurodyta poveikio priemonė, – teisės sustabdyti vykdyti tvarumo atskaitomybės užtikrinimo veiklą pradžia, pagrindas ir sprendimo dėl poveikio priemonės skyrimo numeris ir data; ^s-5e486927b8405606342245e4
 
 
-5) galiojantys ir ginčijami nurodymai ir poveikio priemonės, nurodyti šio įstatymo [[#^s-d84beaa60886ffc74f60deba|75 straipsnio]] 1 ir [[#^s-575b5cb7729ccaf09f697a46|2 dalyse]], sprendimo duoti nurodymą ar skirti poveikio priemonę numeris ir data, jeigu yra, – informacija apie ginčijamo nurodymo ar poveikio priemonės apskundimą ar nagrinėjant skundą teismo priimto sprendimo esmę. ^s-adfbbc2a220cf3acdcc91aeb
+5) galiojantys ir ginčijami nurodymai ir poveikio priemonės, nurodyti šio įstatymo [[#^s-d84beaa60886ffc74f60deba|75 straipsnio]] [[#^s-bc0b13ceb8aca214f7636572|1]] ir [[#^s-ba5d898a4e9197bc23484c98|2]] dalyse, sprendimo duoti nurodymą ar skirti poveikio priemonę numeris ir data, jeigu yra, – informacija apie ginčijamo nurodymo ar poveikio priemonės apskundimą ar nagrinėjant skundą teismo priimto sprendimo esmę. ^s-adfbbc2a220cf3acdcc91aeb
 
 
 3. Asmens laikymą užtikrinimo specialistu sustabdo: ^s-7331d66c30c7543d82da9a73
@@ -1813,7 +1813,7 @@ TVARUMO ATSKAITOMYBĖS UŽTIKRINIMAS
 2) įmonės procesų, kuriuos ji taiko rinkdama ir teikdama informaciją tvarumo klausimais pagal [[#^s-7450c2017e2a9b2f2252dc9b|šios dalies 1 punkte]] nurodytus standartus; ^s-485740bf1673dda6348a7317
 
 
-3) 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamento (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088, (toliau – Taksonomijos reglamentas) [[#^s-800aaa3b67ff7b8010ee019b|8 straipsnyje]] nustatytų informacijos teikimo reikalavimų laikymosi; ^s-88d70b7859d2686c3e0c3b5b
+3) 2020 m. birželio 18 d. Europos Parlamento ir Tarybos [reglamento (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas [Reglamentas (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj), (toliau – Taksonomijos reglamentas) [[#^s-800aaa3b67ff7b8010ee019b|8 straipsnyje]] nustatytų informacijos teikimo reikalavimų laikymosi; ^s-88d70b7859d2686c3e0c3b5b
 
 
 4) reikalavimo ženklinti tvarumo ataskaitoje teikiamą informaciją, įskaitant Taksonomijos reglamento [[#^s-800aaa3b67ff7b8010ee019b|8 straipsnyje]] nustatytą atskleistiną informaciją, teikiamą pagal ES elektroninio ataskaitų teikimo formatą, laikymosi. ^s-684180e4d2ae1efed3f23810
@@ -1986,7 +1986,7 @@ Audito įmonė privalo:
 3. Teisėsaugos arba kitos institucijos gali paimti arba tikrinti darbo dokumentus, kuriuos auditorius yra gavęs arba parengęs atlikdamas finansinių ataskaitų auditą, tik įstatymų nustatytais atvejais. ^s-cfd4e68003c1bed7538ca126
 
 
-4. Auditorius ir (arba) audito įmonė turi teisę pasidaryti šio straipsnio 2 ir [[#^s-cfd4e68003c1bed7538ca126|3 dalyse]] nustatytais atvejais paimamų darbo dokumentų kopijas. ^s-336c32726dac3a0e3f538a8f
+4. Auditorius ir (arba) audito įmonė turi teisę pasidaryti šio straipsnio [[#^s-6da9fc11c64338635af047ae|2]] ir [[#^s-cfd4e68003c1bed7538ca126|3]] dalyse nustatytais atvejais paimamų darbo dokumentų kopijas. ^s-336c32726dac3a0e3f538a8f
 
 
 
@@ -1998,13 +1998,13 @@ VIEŠOJO INTERESO ĮMONIŲ, JŲ AUDITORIŲ IR AUDITO ĮMONIŲ PAREIGOS
 ### 57 straipsnis. Viešojo intereso įmonių pareigos ^s-e0ac961c04a2a57a8d701004
 
 
-1. Viešojo intereso įmonėse, išskyrus šio įstatymo [[#^s-2e2775bcbfcf376e0af358de|2 straipsnio 39 dalies]] 4–8 ir 10 punktuose nustatytas viešojo intereso įmones, sudaromas audito komitetas. Viešojo intereso įmonės, kurios yra įmonių grupės patronuojamosios įmonės, gali nesudaryti audito komiteto, jeigu įmonių grupės lygmeniu yra sudaromas audito komitetas arba organas, kuris atlieka audito komiteto funkcijoms prilygstančias funkcijas, ir yra laikomasi Audito reglamento [[#^s-fc491ba006abe240c98eea2e|11 straipsnio]] 1 ir [[#^s-bae53aace2fddac792b21454|2 dalyse]] bei 16 straipsnio 5 dalyje nustatytų reikalavimų. ^s-16f2f1a12a82f5f046220647
+1. Viešojo intereso įmonėse, išskyrus šio įstatymo [[#^s-2e2775bcbfcf376e0af358de|2 straipsnio 39 dalies]] [[#^s-f0c8a8b32992fc3768a3f0ec|4]]–[[#^s-e51a298dbca86462fd5c2948|8]] ir [[#^s-ef070ba031eb1bf317380c24|10]] punktuose nustatytas viešojo intereso įmones, sudaromas audito komitetas. Viešojo intereso įmonės, kurios yra įmonių grupės patronuojamosios įmonės, gali nesudaryti audito komiteto, jeigu įmonių grupės lygmeniu yra sudaromas audito komitetas arba organas, kuris atlieka audito komiteto funkcijoms prilygstančias funkcijas, ir yra laikomasi Audito reglamento [[#^s-fc491ba006abe240c98eea2e|11 straipsnio]] [[#^s-7dfe7b9553aa9108dd8d3711|1]] ir [[#^s-fe1d92ba9575ab5f6d954a22|2]] dalyse bei 16 straipsnio 5 dalyje nustatytų reikalavimų. ^s-16f2f1a12a82f5f046220647
 Straipsnio dalies pakeitimai:
 Nr. XIV-2812, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12135
 
 
 
-2. Viešojo intereso įmonėje, kuri laikoma maža ir vidutine įmone, kaip jos apibrėžtos 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB, su visais pakeitimais [[#^s-e0ecfe1e7951a5b7c5c96200|2 straipsnio]] f punkte, audito komiteto funkcijas gali atlikti priežiūros organas (toliau – audito komitetas). ^s-bae53aace2fddac792b21454
+2. Viešojo intereso įmonėje, kuri laikoma maža ir vidutine įmone, kaip jos apibrėžtos 2017 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamento (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB, su visais pakeitimais [[#^s-e0ecfe1e7951a5b7c5c96200|2 straipsnio]] f punkte, audito komiteto funkcijas gali atlikti priežiūros organas (toliau – audito komitetas). ^s-bae53aace2fddac792b21454
 
 
 
@@ -2014,16 +2014,16 @@ Nr. XIV-2812, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12135
 1. Lietuvos bankas nustato reikalavimus audito komitetui ir audito komiteto sudėtį šių viešojo intereso įmonių: ^s-aeaf4d28e58182aa46bf69ef
 
 
-1) nurodytų šio įstatymo [[#^s-2e2775bcbfcf376e0af358de|2 straipsnio 39 dalies]] 1–[[#^s-dc2c41e8dc0133fc7ede6256|3 punktuose]]; ^s-19d14b989a4ed2ca5789c9ea
+1) nurodytų šio įstatymo [[#^s-2e2775bcbfcf376e0af358de|2 straipsnio 39 dalies]] [[#^s-2d6ff341363cd4d1d52ba5c7|1]]–[[#^s-a4825f358283b04dfdb683f5|3]] punktuose; ^s-19d14b989a4ed2ca5789c9ea
 
 
-2) šio įstatymo [[#^s-8b84ffd1965a20d4d059fe4c|2 straipsnio 39 dalies 9 punkte]] nurodytų įmonių, kurios priskirtinos šio įstatymo [[#^s-2e2775bcbfcf376e0af358de|2 straipsnio 39 dalies]] 1–[[#^s-dc2c41e8dc0133fc7ede6256|3 punktuose]] nurodytoms įmonėms; ^s-f3ff3c883b6ad68081d9e634
+2) šio įstatymo [[#^s-8b84ffd1965a20d4d059fe4c|2 straipsnio 39 dalies 9 punkte]] nurodytų įmonių, kurios priskirtinos šio įstatymo [[#^s-2e2775bcbfcf376e0af358de|2 straipsnio 39 dalies]] [[#^s-2d6ff341363cd4d1d52ba5c7|1]]–[[#^s-a4825f358283b04dfdb683f5|3]] punktuose nurodytoms įmonėms; ^s-f3ff3c883b6ad68081d9e634
 
 
-3) patronuojančiųjų įmonių, kurios nepriskirtinos šio įstatymo [[#^s-2e2775bcbfcf376e0af358de|2 straipsnio 39 dalies]] 1–3 punktuose nurodytoms įmonėms, turinčioms patronuojamųjų įmonių, priskirtinų šio įstatymo [[#^s-2e2775bcbfcf376e0af358de|2 straipsnio 39 dalies]] 1–3 punktuose nurodytoms įmonėms, jeigu patronuojančiosios įmonės sudaro audito komitetus įmonių grupės lygmeniu. ^s-dc2c41e8dc0133fc7ede6256
+3) patronuojančiųjų įmonių, kurios nepriskirtinos šio įstatymo [[#^s-2e2775bcbfcf376e0af358de|2 straipsnio 39 dalies]] [[#^s-2d6ff341363cd4d1d52ba5c7|1]]–[[#^s-a4825f358283b04dfdb683f5|3]] punktuose nurodytoms įmonėms, turinčioms patronuojamųjų įmonių, priskirtinų šio įstatymo [[#^s-2e2775bcbfcf376e0af358de|2 straipsnio 39 dalies]] [[#^s-2d6ff341363cd4d1d52ba5c7|1]]–[[#^s-a4825f358283b04dfdb683f5|3]] punktuose nurodytoms įmonėms, jeigu patronuojančiosios įmonės sudaro audito komitetus įmonių grupės lygmeniu. ^s-dc2c41e8dc0133fc7ede6256
 
 
-2. Reikalavimus viešojo intereso įmonės, nurodytos šio įstatymo [[#^s-8b84ffd1965a20d4d059fe4c|2 straipsnio 39 dalies 9 punkte]], išskyrus [[#^s-aeaf4d28e58182aa46bf69ef|šio straipsnio 1 dalies]] 2 ir 3 punktuose nurodytus atvejus, audito komitetui, audito komitetą sudarančius įmonės organus ir šio audito komiteto sudėtį nustato Vyriausybė. ^s-8393f4a46135b15ff0a85258
+2. Reikalavimus viešojo intereso įmonės, nurodytos šio įstatymo [[#^s-8b84ffd1965a20d4d059fe4c|2 straipsnio 39 dalies 9 punkte]], išskyrus [[#^s-aeaf4d28e58182aa46bf69ef|šio straipsnio 1 dalies]] [[#^s-421033c5212ee97fa1744df5|2]] ir [[#^s-a4825f358283b04dfdb683f5|3]] punktuose nurodytus atvejus, audito komitetui, audito komitetą sudarančius įmonės organus ir šio audito komiteto sudėtį nustato Vyriausybė. ^s-8393f4a46135b15ff0a85258
 
 
 3. Audito komiteto pareigos: ^s-ed0afa30a77b913f17aa1924
@@ -2041,7 +2041,7 @@ Nr. XIV-2812, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12135
 4) stebėti metinių finansinių ataskaitų ir konsoliduotųjų finansinių ataskaitų auditą ir (arba) metinės ir konsoliduotosios tvarumo atskaitomybės užtikrinimą, ypač atkreipiant dėmesį į audito atlikimą ir (arba) užtikrinimo paslaugų suteikimą, atsižvelgiant į Įstaigos tikrinimo metu nustatytus finansinių ataskaitų audito ir (arba) tvarumo atskaitomybės užtikrinimo trūkumus ir padarytas išvadas pagal Audito reglamento 26 straipsnio 6 dalį; ^s-0e0da70c5abcf985ec9ff5ac
 
 
-5) peržiūrėti ir stebėti auditorių ar audito įmonių arba nepriklausomų užtikrinimo paslaugų teikėjų nepriklausomumą pagal šio įstatymo [[#^s-d7935be89e3f7189980414a9|4 straipsnio 4 dalies 3 punkte]], 7–[[#^s-5e9d6f19589493880d0dd479|13 straipsniuose]] ir Audito reglamento [[#^s-853baf6ea32e8dc72b5bf00b|6 straipsnyje]] nustatytus reikalavimus, ypač dėl ne audito paslaugų teikimo audituojamai įmonei pagal Audito reglamento [[#^s-7188d38e22a1c0f883143a51|5 straipsnio]] nuostatas tinkamumo; ^s-6fe1f29565b5f8f65250ace6
+5) peržiūrėti ir stebėti auditorių ar audito įmonių arba nepriklausomų užtikrinimo paslaugų teikėjų nepriklausomumą pagal šio įstatymo [[#^s-d7935be89e3f7189980414a9|4 straipsnio 4 dalies 3 punkte]], [[#^s-9c9bf9ad80572b8cd6e84799|7]]–[[#^s-5e9d6f19589493880d0dd479|13]] straipsniuose ir Audito reglamento [[#^s-853baf6ea32e8dc72b5bf00b|6 straipsnyje]] nustatytus reikalavimus, ypač dėl ne audito paslaugų teikimo audituojamai įmonei pagal Audito reglamento [[#^s-7188d38e22a1c0f883143a51|5 straipsnio]] nuostatas tinkamumo; ^s-6fe1f29565b5f8f65250ace6
 
 
 6) kai planuojamas atlikti finansinių ataskaitų auditas, atsakyti už auditoriaus (auditorių) arba audito įmonės (įmonių) atrankos procedūros atlikimą ir rekomendacijos, kurį (kuriuos) auditorių (auditorius) arba audito įmonę (įmones) paskirti, pateikimą pagal Audito reglamento [[#^s-f4bdeb5dc656c108f0f8e63f|16 straipsnį]], išskyrus atvejus, kai taikomos Audito reglamento 16 straipsnio 8 dalies nuostatos. ^s-c427a105a401f2ed4c5e2842
@@ -2371,7 +2371,7 @@ UŽTIKRINIMO PASLAUGŲ KOKYBĖS TYRIMAS IR PAŽEIDIMO TYRIMAS, KONSOLIDUOTŲJŲ 
 1. Užtikrinimo paslaugų kokybės tyrimas (toliau šiame skyriuje – tyrimas) gali būti pradėtas Įstaigos sprendimu: ^s-9ee45ccad5f4346bdf7f5c3d
 
 
-1) šio įstatymo [[#^s-98a75ce56dfe26a58f69e4d8|63 straipsnio 4 dalies]] 3 ir [[#^s-10d14f7676e358904047c70d|4 punktuose]] nustatytais atvejais; ^s-342e758b7a996023ca2092ca
+1) šio įstatymo [[#^s-98a75ce56dfe26a58f69e4d8|63 straipsnio 4 dalies]] [[#^s-4712c73ab721f82d12be52ee|3]] ir [[#^s-abc639bcac4ee961def8a84f|4]] punktuose nustatytais atvejais; ^s-342e758b7a996023ca2092ca
 
 
 2) kai valstybės institucijos, valstybės įstaigos, Auditorių rūmai, kiti juridiniai ir fiziniai asmenys kreipiasi į Įstaigą su prašymu atlikti auditoriaus ir (arba) audito įmonės tyrimą; ^s-45a9cdbf05804223e27da479
@@ -2557,16 +2557,16 @@ NURODYMAI IR POVEIKIO PRIEMONĖS
 2. Atlikus įmonių grupės konsoliduotųjų finansinių ataskaitų audito ir (arba) konsoliduotosios tvarumo atskaitomybės užtikrinimo kokybės peržiūrą, tikrinimą, tyrimą arba pažeidimo tyrimą, nurodymai duodami ir (arba) poveikio priemonės skiriamos grupės auditoriui ir (arba) reikšmingų patronuojamųjų įmonių pagrindiniam (pagrindiniams) partneriui (partneriams), pagrindiniam tvarumo atskaitomybės užtikrinimo partneriui užtikrinimo specialistui. ^s-f28fb25f3b74674484b9d5ba
 
 
-3. Šio įstatymo 36 ir [[#^s-9735b45125e3b51f2dd8d984|38 straipsniuose]] nurodytiems trečiųjų valstybių auditoriams ir audito įmonėms nurodymai duodami ir poveikio priemonės skiriamos šio įstatymo nustatyta tvarka. ^s-d56ba55a9504c786e2d124bc
+3. Šio įstatymo [[#^s-f07eb72fee7aaff5f0cfc386|36]] ir [[#^s-9735b45125e3b51f2dd8d984|38]] straipsniuose nurodytiems trečiųjų valstybių auditoriams ir audito įmonėms nurodymai duodami ir poveikio priemonės skiriamos šio įstatymo nustatyta tvarka. ^s-d56ba55a9504c786e2d124bc
 
 
-4. Įstaiga, prieš duodama vieną ar kelis šio įstatymo [[#^s-bc0b13ceb8aca214f7636572|75 straipsnio 1 dalyje]] nustatytus nurodymus ir (arba) skirdama vieną iš šio įstatymo [[#^s-ba5d898a4e9197bc23484c98|75 straipsnio 2 dalyje]] nurodytų poveikio priemonių, nustato ne trumpesnį kaip 5 darbo dienų terminą šio straipsnio 1 ir [[#^s-f28fb25f3b74674484b9d5ba|2 dalyse]] nurodytiems asmenims pateikti paaiškinimus Įstaigai dėl užtikrinimo paslaugų kokybės peržiūros ataskaitos, tikrinimo ataskaitos, tyrimo ataskaitos ar pažeidimo tyrimo ataskaitos. ^s-b8ab3fe44dda3b584a8cf458
+4. Įstaiga, prieš duodama vieną ar kelis šio įstatymo [[#^s-bc0b13ceb8aca214f7636572|75 straipsnio 1 dalyje]] nustatytus nurodymus ir (arba) skirdama vieną iš šio įstatymo [[#^s-ba5d898a4e9197bc23484c98|75 straipsnio 2 dalyje]] nurodytų poveikio priemonių, nustato ne trumpesnį kaip 5 darbo dienų terminą šio straipsnio [[#^s-bc0b13ceb8aca214f7636572|1]] ir [[#^s-ba5d898a4e9197bc23484c98|2]] dalyse nurodytiems asmenims pateikti paaiškinimus Įstaigai dėl užtikrinimo paslaugų kokybės peržiūros ataskaitos, tikrinimo ataskaitos, tyrimo ataskaitos ar pažeidimo tyrimo ataskaitos. ^s-b8ab3fe44dda3b584a8cf458
 
 
-5. Įstaiga ne vėliau kaip prieš 5 darbo dienas praneša šio straipsnio 1 ir [[#^s-f28fb25f3b74674484b9d5ba|2 dalyse]] nurodytiems asmenims apie posėdžio, kuriame bus svarstomas šio įstatymo [[#^s-bc0b13ceb8aca214f7636572|75 straipsnio 1 dalyje]] nustatyto nurodymo davimo ir (arba) šio įstatymo [[#^s-ba5d898a4e9197bc23484c98|75 straipsnio 2 dalyje]] nustatytos poveikio priemonės skyrimo klausimas, datą ir laiką. ^s-c0f8d33e8cb36f917a171f73
+5. Įstaiga ne vėliau kaip prieš 5 darbo dienas praneša šio straipsnio [[#^s-4e9f594573d69c6f77284572|1]] ir [[#^s-f28fb25f3b74674484b9d5ba|2]] dalyse nurodytiems asmenims apie posėdžio, kuriame bus svarstomas šio įstatymo [[#^s-bc0b13ceb8aca214f7636572|75 straipsnio 1 dalyje]] nustatyto nurodymo davimo ir (arba) šio įstatymo [[#^s-ba5d898a4e9197bc23484c98|75 straipsnio 2 dalyje]] nustatytos poveikio priemonės skyrimo klausimas, datą ir laiką. ^s-c0f8d33e8cb36f917a171f73
 
 
-6. Šio straipsnio 1 ir [[#^s-f28fb25f3b74674484b9d5ba|2 dalyse]] nurodytų asmenų atstovai turi teisę: ^s-29ed4ab458101d758e4f8d27
+6. Šio straipsnio [[#^s-4e9f594573d69c6f77284572|1]] ir [[#^s-f28fb25f3b74674484b9d5ba|2]] dalyse nurodytų asmenų atstovai turi teisę: ^s-29ed4ab458101d758e4f8d27
 
 
 1) susipažinti su finansinių ataskaitų audito ir (arba) tvarumo atskaitomybės užtikrinimo peržiūros ataskaita, tikrinimo ataskaita, tyrimo ataskaita ar pažeidimo tyrimo ataskaita, posėdyje duoti paaiškinimus, pateikti įrodymus, naudotis advokato paslaugomis; ^s-e273749563cbe96a11621c72
@@ -2600,10 +2600,10 @@ NURODYMAI IR POVEIKIO PRIEMONĖS
 4) auditoriui arba audito įmonei ir užsakovui nutraukti finansinių ataskaitų audito sutartį ir (arba) tvarumo atskaitomybės užtikrinimo paslaugų sutartį, jeigu nustatoma, kad auditorių arba audito įmonę užsakovas pasirinko ribojamas aplinkybių, nurodytų šio įstatymo [[#^s-6070e37df7ae5d685e2ba163|6 straipsnio 2 dalyje]]. Šiam nurodymui vykdyti nustatomas ne trumpesnis kaip 15 darbo dienų terminas ir jo vykdymą kontroliuoja Įstaiga; ^s-1fbc9d437f7e03e83b63b3c2
 
 
-5) kad auditoriaus išvada neatitinka šio įstatymo 42 ir [[#^s-e85dde9f2e94805a5e656a5a|43 straipsniuose]] nustatytų reikalavimų arba, kai taikytinas Audito reglamentas, šio reglamento [[#^s-ec3780a1b6de8aaedbde20f3|10 straipsnyje]] nustatytų reikalavimų; ^s-928c867a1ecb2f3f932deacf
+5) kad auditoriaus išvada neatitinka šio įstatymo [[#^s-44ae33ed9911d359bad0b1a1|42]] ir [[#^s-e85dde9f2e94805a5e656a5a|43]] straipsniuose nustatytų reikalavimų arba, kai taikytinas Audito reglamentas, šio reglamento [[#^s-ec3780a1b6de8aaedbde20f3|10 straipsnyje]] nustatytų reikalavimų; ^s-928c867a1ecb2f3f932deacf
 
 
-6) kad tvarumo atskaitomybės užtikrinimo išvada neatitinka šio įstatymo 50 ir [[#^s-13b6a39fb6409fa92c591252|51 straipsniuose]] nustatytų reikalavimų. ^s-d0c60c2959f6de9d9cd94249
+6) kad tvarumo atskaitomybės užtikrinimo išvada neatitinka šio įstatymo [[#^s-41443feb2cdaf42bc5eee902|50]] ir [[#^s-13b6a39fb6409fa92c591252|51]] straipsniuose nustatytų reikalavimų. ^s-d0c60c2959f6de9d9cd94249
 
 
 2. Jeigu nesilaikoma šio įstatymo, Audito reglamento nustatytų reikalavimų, jeigu auditorius, užtikrinimo specialistas arba audito įmonė nevykdo nurodymų, nustatytų [[#^s-bc0b13ceb8aca214f7636572|šio straipsnio 1 dalyje]], Įstaiga, atsižvelgdama į šio įstatymo [[#^s-c3cc028456e969dc000e8983|77 straipsnio]] nuostatas, gali skirti vieną iš šių poveikio priemonių: ^s-ba5d898a4e9197bc23484c98
@@ -2799,7 +2799,7 @@ NURODYMAI IR POVEIKIO PRIEMONĖS
 2. Apskundus sprendimą dėl piniginės baudos, bauda sumokama ne vėliau kaip per 90 dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. ^s-a3fe8f34ea0d8d9450013376
 
 
-3. Savanoriškai neįvykdytas Įstaigos sprendimas dėl piniginės baudos vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-71477d00ab1c0308b6b8a755
+3. Savanoriškai neįvykdytas Įstaigos sprendimas dėl piniginės baudos vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-71477d00ab1c0308b6b8a755
 
 
 4. Kai Įstaiga priima sprendimą skirti poveikio priemonę – draudimą eiti audito įmonių arba viešojo intereso įmonių vadovaujamas pareigas, Įstaigos įgaliotas asmuo pateikia Regionų administraciniam teismui prašymą dėl šio sprendimo sankcionavimo. Prašyme nurodomi asmenų, kuriems skirta poveikio priemonė, duomenys ir įtariamų pažeidimų pobūdis. Prie prašymo pridedami įrodymai, patvirtinantys įtariamus pažeidimus. Prašymas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 30 dienų nuo prašymo pateikimo momento. Jeigu Įstaiga nesutinka su Regionų administracinio teismo nutartimi atmesti prašymą, ji turi teisę per 7 dienas apskųsti nutartį Lietuvos vyriausiajam administraciniam teismui. ^s-61b2b592fbf1c6a658626e65
@@ -2815,7 +2815,7 @@ NURODYMAI IR POVEIKIO PRIEMONĖS
 1. Įstaiga Europos audito priežiūros įstaigų komitetui kiekvienais metais pateikia apibendrintą informaciją apie skirtas poveikio priemones. ^s-4810b427c368536915cee09f
 
 
-2. Įstaiga nedelsdama praneša Europos audito priežiūros įstaigų komitetui apie skirtas poveikio priemones, nurodytas šio įstatymo [[#^s-ba5d898a4e9197bc23484c98|75 straipsnio 2 dalies]] 2–8 punktuose, pasibaigus šiame įstatyme nustatytam Įstaigos sprendimų apskundimo terminui. ^s-4e5534a04efae668b3e27ff6
+2. Įstaiga nedelsdama praneša Europos audito priežiūros įstaigų komitetui apie skirtas poveikio priemones, nurodytas šio įstatymo [[#^s-ba5d898a4e9197bc23484c98|75 straipsnio 2 dalies]] [[#^s-4332c28be28519c394f09a72|2]]–[[#^s-b89c72923b8aba9fb0cbe63d|8]] punktuose, pasibaigus šiame įstatyme nustatytam Įstaigos sprendimų apskundimo terminui. ^s-4e5534a04efae668b3e27ff6
 
 
 
@@ -2888,7 +2888,7 @@ g) priimdama sprendimus dėl šio įstatymo [[#^s-48a10a0a1a86671f578a36f3|85 st
 4) bendradarbiauja, keičiasi informacija su Lietuvos banku, nacionaline akreditacijos įstaiga, kitomis valstybės institucijomis, valstybės įstaigomis ir Auditorių rūmais ir šią informaciją perduoda jiems, kiek tai susiję su priežiūros funkcijų atlikimu; ^s-39c094c1d344e3e08398af19
 
 
-5) bendradarbiauja, keičiasi informacija su Europos priežiūros institucijomis: Europos vertybinių popierių ir rinkų institucija, Europos bankininkystės institucija, Europos draudimo ir profesinių pensijų institucija, taip pat su Europos audito priežiūros įstaigų komitetu, kiek tai susiję su viešąja priežiūra pagal šį įstatymą ir Audito reglamentą, taip pat, siekdama nuostatų suderinamumo, dėl reikalavimų, nustatytų šio įstatymo [[#^s-63ce6f4fa71efe6f3b7170da|15 straipsnio]] 1, 3 ir [[#^s-39c094c1d344e3e08398af19|4 punktuose]], [[#^s-372408b4df234be4093fdb1f|24 straipsnio 2 dalyje]] ir dėl žinių patikrinimo egzamino, kaip nustatyta šio įstatymo [[#^s-791e965b9bda5a66d463a3be|24 straipsnio 3 dalyje]]; ^s-9b0047d65d16ee4560feaad7
+5) bendradarbiauja, keičiasi informacija su Europos priežiūros institucijomis: Europos vertybinių popierių ir rinkų institucija, Europos bankininkystės institucija, Europos draudimo ir profesinių pensijų institucija, taip pat su Europos audito priežiūros įstaigų komitetu, kiek tai susiję su viešąja priežiūra pagal šį įstatymą ir Audito reglamentą, taip pat, siekdama nuostatų suderinamumo, dėl reikalavimų, nustatytų šio įstatymo [[#^s-63ce6f4fa71efe6f3b7170da|15 straipsnio]] 1, 3 ir 4 punktuose, [[#^s-372408b4df234be4093fdb1f|24 straipsnio 2 dalyje]] ir dėl žinių patikrinimo egzamino, kaip nustatyta šio įstatymo [[#^s-791e965b9bda5a66d463a3be|24 straipsnio 3 dalyje]]; ^s-9b0047d65d16ee4560feaad7
 
 
 6) pagal savo kompetenciją dalyvauja Europos audito priežiūros įstaigų komiteto, kitų tarptautinių auditorių ir audito įmonių viešajai priežiūrai skirtų komitetų ir darbo grupių veikloje; ^s-8773cb51d1902e6ff588713b
@@ -3026,7 +3026,7 @@ g) priimdama sprendimus dėl šio įstatymo [[#^s-48a10a0a1a86671f578a36f3|85 st
 3. Auditorių ir (arba) audito įmonių turimus darbo ir kitus dokumentus, užtikrinimo paslaugų kokybės tikrinimo arba tyrimo ataskaitas Įstaiga gali perduoti trečiųjų valstybių kompetentingoms institucijoms tada, kai šie auditorių ir (arba) audito įmonių darbo ir kiti dokumentai yra susiję su tose trečiosiose valstybėse savo vertybinius popierius išleidusiomis įmonėmis, jų patronuojamosiomis įmonėmis. ^s-2bfbcf6c8f7e91f345d69f47
 
 
-4. Asmens duomenys gali būti perduodami trečiųjų valstybių kompetentingoms institucijoms, vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) V skyriuje nustatyta tvarka. ^s-29d0256fb8fa866265d9a0db
+4. Asmens duomenys gali būti perduodami trečiųjų valstybių kompetentingoms institucijoms, vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) V skyriuje nustatyta tvarka. ^s-29d0256fb8fa866265d9a0db
 
 
 5. Bendradarbiavimo su trečiųjų valstybių kompetentingomis institucijomis susitarimai abipusiškumo pagrindu turi užtikrinti audituojamos įmonės komercinių interesų, įskaitant jos pramoninės ir intelektinės nuosavybės teises, apsaugą. ^s-47f35f3bd38baa13a966caec
@@ -3055,7 +3055,7 @@ g) priimdama sprendimus dėl šio įstatymo [[#^s-48a10a0a1a86671f578a36f3|85 st
 ### 88 straipsnis. Įstaigos bendradarbiavimas ir keitimasis informacija su kitų valstybių narių ir trečiųjų valstybių kompetentingomis institucijomis teikiant tvarumo atskaitomybės užtikrinimo paslaugas ^s-aa020891f0ddf362d3ec8941
 
 
-Įstaigai bendradarbiaujant su tvarumo atskaitomybės užtikrinimo kokybės priežiūrą atliekančiomis kompetentingomis institucijomis mutatis mutandis taikomi šio įstatymo 84–[[#^s-65afa56ee65e6051fd6e8d97|87 straipsniuose]] nustatyti reikalavimai dėl finansinių ataskaitų audito.
+Įstaigai bendradarbiaujant su tvarumo atskaitomybės užtikrinimo kokybės priežiūrą atliekančiomis kompetentingomis institucijomis mutatis mutandis taikomi šio įstatymo [[#^s-6cd6972baeed497067a4fb08|84]]–[[#^s-65afa56ee65e6051fd6e8d97|87]] straipsniuose nustatyti reikalavimai dėl finansinių ataskaitų audito.
 
 
 
@@ -3067,7 +3067,7 @@ AUDITORIŲ RŪMAI
 ### 89 straipsnis. Auditorių rūmai ^s-ea6041c84524d13aae095197
 
 
-Auditorių rūmai – viešasis juridinis asmuo, kuris savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu, [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatymu]] tiek, kiek šis įstatymas nenustato kitaip, ir Auditorių rūmų statutu. Auditorių rūmų statutą tvirtina Auditorių rūmų narių visuotinis susirinkimas.
+Auditorių rūmai – viešasis juridinis asmuo, kuris savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo įstatymu, [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatymu]] tiek, kiek šis įstatymas nenustato kitaip, ir Auditorių rūmų statutu. Auditorių rūmų statutą tvirtina Auditorių rūmų narių visuotinis susirinkimas.
 
 
 
@@ -3240,13 +3240,13 @@ SPRENDIMŲ APSKUNDIMAS IR GINČŲ NAGRINĖJIMAS
 1) kvalifikacinių auditoriaus egzaminų ir tvarumo atskaitomybės užtikrinimo egzamino įvertinimo; ^s-76e0db1174de253ac4b7b634
 
 
-2) atsisakymo netikrinti šio įstatymo [[#^s-ff1b14f50b21780ae2ed9c43|18 straipsnio 8 dalies 5 punkte]] ir 9 dalies 2–8  punktuose išvardytų sričių žinių; ^s-a1cc4a813db750a9e6124392
+2) atsisakymo netikrinti šio įstatymo [[#^s-ff1b14f50b21780ae2ed9c43|18 straipsnio 8 dalies 5 punkte]] ir 9 dalies [[#^s-a5969c460c7d3de8c2bae240|2]]–[[#^s-d9f38ea55c88acd93ba6941b|8]]  punktuose išvardytų sričių žinių; ^s-a1cc4a813db750a9e6124392
 
 
 3) atsisakymo įskaityti šio įstatymo [[#^s-d3924f6bfe4af58d501bf3fe|21 straipsnio 1 dalies 2 punkte]] ir [[#^s-fe0a5f713daad9b09d58fbe3|46 straipsnio 1 dalies 3 punkte]] nustatytą 8 mėnesių praktiką; ^s-c70d458fe0d76149660646a4
 
 
-4) atsisakymo įskaityti į šio įstatymo [[#^s-c7cd3660a2a9f386ad2e6a99|49 straipsnio 2 dalyje]] ir [[#^s-7b2a07259d6eadbfe5df3c22|53 straipsnio 2 dalies 2 punkte]] nustatytų kvalifikacijos tobulinimo kursų valandų skaičių auditoriaus, užtikrinimo specialisto, profesinę kvalifikaciją tobulinusio ne Auditorių rūmų organizuojamuose kvalifikacijos tobulinimo kursuose arba baigusio lygiavertį profesinės kvalifikacijos tobulinimo kursą, kaip nustatyta šio įstatymo [[#^s-07f93f511f80ec2fe329220f|92 straipsnio 8 punkte]], kvalifikacijos tobulinimo kursų valandas. ^s-4a8bf6e5659ff1b74c1475ca
+4) atsisakymo įskaityti į šio įstatymo [[#^s-c7cd3660a2a9f386ad2e6a99|49 straipsnio 2 dalyje]] ir [[#^s-7b2a07259d6eadbfe5df3c22|53 straipsnio 2 dalies 2 punkte]] nustatytų kvalifikacijos tobulinimo kursų valandų skaičių auditoriaus, užtikrinimo specialisto, profesinę kvalifikaciją tobulinusio ne Auditorių rūmų organizuojamuose kvalifikacijos tobulinimo kursuose arba baigusio lygiavertį profesinės kvalifikacijos tobulinimo kursą, kaip nustatyta šio įstatymo 92 straipsnio 8 punkte, kvalifikacijos tobulinimo kursų valandas. ^s-4a8bf6e5659ff1b74c1475ca
 
 
 3. Šio straipsnio 2 dalyje nurodyti Auditorių rūmų sprendimai Įstaigos nustatyta tvarka gali būti skundžiami Įstaigai per 10 darbo dienų nuo pranešimo apie sprendimą įteikimo dienos. Įstaiga gautus skundus nagrinėja savo nustatyta tvarka ir sprendimą dėl šių skundų priima per 20 darbo dienų nuo jų gavimo dienos ^s-335273688351abbdfc42f1f8
@@ -3275,10 +3275,10 @@ priedas
 
 
 
-1. 2006 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva 2006/43/EB dėl teisės aktų nustatyto metinės finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės audito, iš dalies keičianti Tarybos direktyvas 78/660/EEB ir 83/349/EEB bei panaikinanti Tarybos direktyvą 84/253/EEB, su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2864. ^s-4f464206721f8b03eab5cc50
+1. 2006 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva 2006/43/EB dėl teisės aktų nustatyto metinės finansinės atskaitomybės ir konsoliduotos finansinės atskaitomybės audito, iš dalies keičianti Tarybos direktyvas 78/660/EEB ir 83/349/EEB bei panaikinanti Tarybos direktyvą 84/253/EEB, su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/2864](https://eur-lex.europa.eu/eli/dir/2023/2864/oj). ^s-4f464206721f8b03eab5cc50
 
 
-2. 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/2869, kuriuo iš dalies keičiami tam tikri reglamentai, kiek tai susiję su Europos bendro prieigos punkto sukūrimu ir veikimu. ^s-7ffb13922979cd9bc1d94777
+2. 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2023/2869](https://eur-lex.europa.eu/eli/reg/2023/2869/oj), kuriuo iš dalies keičiami tam tikri reglamentai, kiek tai susiję su Europos bendro prieigos punkto sukūrimu ir veikimu. ^s-7ffb13922979cd9bc1d94777
 
 
 –––––––––––––––––
@@ -3362,7 +3362,7 @@ Nr. XI-1600, 2011-09-22, Žin., 2011, Nr. 121-5706 (2011-10-08)
 11.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1707, 2011-11-17, Žin., 2011, Nr. 146-6851 (2011-12-01)
-AUDITO ĮSTATYMO 1, 2, 5, 6, 10, 11, 12, 13, 14, 15, 16, 17, 20, 21, 22, 23, 24, 25, 28, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 53, 54, 57, 58, [[#^s-802912635e31d324bbe202f5|59 STRAIPSNIŲ]] IR DEVINTOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYM0 13, 28, 32, 33 IR [[#^s-44ae33ed9911d359bad0b1a1|42 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+AUDITO ĮSTATYMO [[#^s-2ff1bd9970ec3fa6aba99075|1]], [[#^s-e0ecfe1e7951a5b7c5c96200|2]], [[#^s-7188d38e22a1c0f883143a51|5]], [[#^s-853baf6ea32e8dc72b5bf00b|6]], [[#^s-ec3780a1b6de8aaedbde20f3|10]], [[#^s-fc491ba006abe240c98eea2e|11]], [[#^s-d8d30a7dd86618b5945218d6|12]], [[#^s-5e9d6f19589493880d0dd479|13]], [[#^s-c93bb8d9724700f58d9302bf|14]], [[#^s-63ce6f4fa71efe6f3b7170da|15]], [[#^s-f4bdeb5dc656c108f0f8e63f|16]], [[#^s-ec2e541e00bc53a4d1a8588a|17]], [[#^s-09148e6e9f8dec68cc6d37a8|20]], [[#^s-3d6b1a5ae14f353228ba1ce9|21]], [[#^s-b956204f89fed17932b682df|22]], [[#^s-a84d8d2094ba29b0dfc3a9b2|23]], [[#^s-f4ab44781923eaffb32d29e2|24]], [[#^s-85f609cfaf8662ec83ee2312|25]], [[#^s-1e03b14d8de4d9d09296cdb6|28]], [[#^s-1d649cba700644db7006f2aa|30]], [[#^s-07aba3380eb0971bf2ae45c9|31]], [[#^s-0ab4b95d43066b67c60bd459|32]], [[#^s-79cd53ef716c349c6caa03ff|34]], [[#^s-bab1b786f88178bce5a52fd2|35]], [[#^s-f07eb72fee7aaff5f0cfc386|36]], [[#^s-a116c8e4f268260c9d7a751e|37]], [[#^s-9735b45125e3b51f2dd8d984|38]], [[#^s-062dd01330c2cbf6f63c4f89|39]], [[#^s-50680997e4568a934d3b8f03|40]], [[#^s-c3e4f79b9572755fc8ea425c|41]], [[#^s-44ae33ed9911d359bad0b1a1|42]], [[#^s-e85dde9f2e94805a5e656a5a|43]], [[#^s-c71f1f64a4cc98fb9f5cc6c9|44]], [[#^s-e7e7eee1c30435d4211b61b6|45]], [[#^s-733ab0b61d9cfc2a0ee30469|46]], [[#^s-134bcf9b681a4908a435fa51|47]], [[#^s-4680a5e437b706febffc57e2|48]], [[#^s-1612ad0124251f435301239d|49]], [[#^s-41443feb2cdaf42bc5eee902|50]], [[#^s-284c20bebb77aa9ae16c1440|53]], [[#^s-d2f61a6613bfb160957db30f|54]], [[#^s-e0ac961c04a2a57a8d701004|57]], [[#^s-7bc0c8d2d811099dc3de9999|58]], [[#^s-802912635e31d324bbe202f5|59]] STRAIPSNIŲ IR DEVINTOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYM0 [[#^s-5e9d6f19589493880d0dd479|13]], [[#^s-1e03b14d8de4d9d09296cdb6|28]], [[#^s-0ab4b95d43066b67c60bd459|32]], [[#^s-d073398dd9e541fdf3bc1476|33]] IR [[#^s-44ae33ed9911d359bad0b1a1|42]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2012 m. gegužės 1 d.
 
 12.
@@ -3380,7 +3380,7 @@ Nr. XII-340, 2013-05-28, Žin., 2013, Nr. 62-3055 (2013-06-12)
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-951, 2014-06-17, paskelbta TAR 2014-06-26, i. k. 2014-09156
-LIETUVOS RESPUBLIKOS AUDITO ĮSTATYMO NR. VIII-1227 8, 10, 19, 23, 24, 27, 35, 37 IR [[#^s-13b6a39fb6409fa92c591252|51 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS AUDITO ĮSTATYMO NR. VIII-1227 [[#^s-800aaa3b67ff7b8010ee019b|8]], [[#^s-ec3780a1b6de8aaedbde20f3|10]], [[#^s-53d9c14dd894ae1967f774f9|19]], [[#^s-a84d8d2094ba29b0dfc3a9b2|23]], [[#^s-f4ab44781923eaffb32d29e2|24]], [[#^s-0f3eb073c6ad17bfaaccdc13|27]], [[#^s-bab1b786f88178bce5a52fd2|35]], [[#^s-a116c8e4f268260c9d7a751e|37]] IR [[#^s-13b6a39fb6409fa92c591252|51]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 
 
@@ -3395,12 +3395,12 @@ Lietuvos Respublikos audito įstatymo Nr. VIII-1227 [[#^s-09148e6e9f8dec68cc6d37
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1612, 2015-04-16, paskelbta TAR 2015-04-21, i. k. 2015-06059
-Lietuvos Respublikos audito įstatymo Nr. VIII-1227 13, 14, 22, 34, 37, 38, 39 ir [[#^s-c71f1f64a4cc98fb9f5cc6c9|44 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos audito įstatymo Nr. VIII-1227 [[#^s-5e9d6f19589493880d0dd479|13]], [[#^s-c93bb8d9724700f58d9302bf|14]], [[#^s-b956204f89fed17932b682df|22]], [[#^s-79cd53ef716c349c6caa03ff|34]], [[#^s-a116c8e4f268260c9d7a751e|37]], [[#^s-9735b45125e3b51f2dd8d984|38]], [[#^s-062dd01330c2cbf6f63c4f89|39]] ir [[#^s-c71f1f64a4cc98fb9f5cc6c9|44]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1698, 2015-05-14, paskelbta TAR 2015-05-27, i. k. 2015-08120
-Lietuvos Respublikos audito įstatymo Nr. VIII-1227 3, [[#^s-d073398dd9e541fdf3bc1476|33 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos audito įstatymo Nr. VIII-1227 [[#^s-806d845c4f3cf7366e983539|3]], [[#^s-d073398dd9e541fdf3bc1476|33]] straipsnių ir priedo pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3410,17 +3410,17 @@ Lietuvos Respublikos audito įstatymo Nr. VIII-1227 pakeitimo įstatymas
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-573, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12074
-Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 10, 14, 15, 20, 23 ir [[#^s-f4ab44781923eaffb32d29e2|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 [[#^s-ec3780a1b6de8aaedbde20f3|10]], [[#^s-c93bb8d9724700f58d9302bf|14]], [[#^s-63ce6f4fa71efe6f3b7170da|15]], [[#^s-09148e6e9f8dec68cc6d37a8|20]], [[#^s-a84d8d2094ba29b0dfc3a9b2|23]] ir [[#^s-f4ab44781923eaffb32d29e2|24]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-786, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18849
-Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 2 ir [[#^s-7445133a8e9f9eb6e72a078c|69 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 [[#^s-e0ecfe1e7951a5b7c5c96200|2]] ir [[#^s-7445133a8e9f9eb6e72a078c|69]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1630, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18920
-Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 1, 2, 12, 15, 23, 36, 37, 38, 53, 54, 55, 56, 58, 62, 68, 69, [[#^s-d0e4f8d548926cefeb26158d|73 straipsnių]], dvyliktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo vienuoliktuoju-1 skirsniu įstatymas
+Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 [[#^s-2ff1bd9970ec3fa6aba99075|1]], [[#^s-e0ecfe1e7951a5b7c5c96200|2]], [[#^s-d8d30a7dd86618b5945218d6|12]], [[#^s-63ce6f4fa71efe6f3b7170da|15]], [[#^s-a84d8d2094ba29b0dfc3a9b2|23]], [[#^s-f07eb72fee7aaff5f0cfc386|36]], [[#^s-a116c8e4f268260c9d7a751e|37]], [[#^s-9735b45125e3b51f2dd8d984|38]], [[#^s-284c20bebb77aa9ae16c1440|53]], [[#^s-d2f61a6613bfb160957db30f|54]], [[#^s-3727056f820577891f6d2f57|55]], [[#^s-e5dd9cfac71554591625afd1|56]], [[#^s-7bc0c8d2d811099dc3de9999|58]], [[#^s-bd84ee31243a7e73b641ebca|62]], [[#^s-73e5a0f6eb5f08d4b70a51ad|68]], [[#^s-7445133a8e9f9eb6e72a078c|69]], [[#^s-d0e4f8d548926cefeb26158d|73]] straipsnių, dvyliktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo vienuoliktuoju-1 skirsniu įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3430,7 +3430,7 @@ Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 [[#^s
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2024, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11843
-Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 2, 12, 26, 28, 32, 35, 43, 49, 52-1, 61, 62, 68, [[#^s-d0e4f8d548926cefeb26158d|73 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 [[#^s-e0ecfe1e7951a5b7c5c96200|2]], [[#^s-d8d30a7dd86618b5945218d6|12]], [[#^s-deed21b49c086529c716c5d4|26]], [[#^s-1e03b14d8de4d9d09296cdb6|28]], [[#^s-0ab4b95d43066b67c60bd459|32]], [[#^s-bab1b786f88178bce5a52fd2|35]], [[#^s-e85dde9f2e94805a5e656a5a|43]], [[#^s-1612ad0124251f435301239d|49]], 52-1, [[#^s-7b0e5832284354fef9dc6644|61]], [[#^s-bd84ee31243a7e73b641ebca|62]], [[#^s-73e5a0f6eb5f08d4b70a51ad|68]], [[#^s-d0e4f8d548926cefeb26158d|73]] straipsnių ir priedo pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas

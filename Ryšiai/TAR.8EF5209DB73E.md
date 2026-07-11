@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo fondo biudže
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.CB4A936A2395|Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2004 metų rodiklių patvirtinimo įstatymas]] - 2 citatos - 2003 m. gruodžio 16 d. įstatymo Nr. IX-1902
+- [[latest/TAR.CB4A936A2395|Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto 2004 metų rodiklių patvirtinimo įstatymas]] - 2 citatos - įstatymo Nr. IX-1902
 
 ## Šį įstatymą cituoja
 

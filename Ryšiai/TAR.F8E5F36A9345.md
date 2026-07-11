@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos įstatymas dėl Lietuvos Laisvės Kovos Sąj�
 
 ## Šis įstatymas cituoja
 
-- [[latest/275071300a9c11e9a5eaf2cd290f1944|Lietuvos Respublikos įstatymo „Dėl Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaracijos“ Nr. VIII-1021 1 ir 3 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1829
+_Nėra._
 
 ## Šį įstatymą cituoja
 

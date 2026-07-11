@@ -42,7 +42,7 @@ Vilnius
 
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. kovo 12 d. dekretą Nr. 1K-1274, ratifikuoja:
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. kovo 12 d. dekretą Nr. 1K-1274](https://e-tar.lt/portal/lt/legalAct/TAR.4ED02D7C5F31), ratifikuoja:
 
 
 1) Europos Bendrijų bei jų valstybių narių ir Argentinos susitarimą dėl 2004 m. birželio 11 d. dokumento S/SECRET/8 pagal Bendrojo susitarimo dėl prekybos paslaugomis (GATS) XXI straipsnio 2 dalies a punktą, sudarytą bendru laišku (su prie jo pridėtais derybų ataskaitos I ir II priedais) pagal GATS XXI straipsnio įgyvendinimo tvarkos 5 dalį (S/L/80, 1999 m. spalio 29 d.) dėl dalinių pakeitimų, siūlomų Europos Bendrijų ir jų valstybių narių GATS įsipareigojimų sąrašuose, siekiant atsižvelgti į Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Austrijos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos, Slovakijos Respublikos, Suomijos Respublikos, Švedijos Karalystės įstojimą į Europos Bendrijas; ^s-249a4e681c5c9b3a577adf6a

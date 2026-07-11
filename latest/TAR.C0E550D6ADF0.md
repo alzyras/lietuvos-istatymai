@@ -132,7 +132,7 @@ Privačių interesųvienodos formos deklaraciją privalo pildyti:
 3. Deklaracija paaiškėjus naujoms aplinkybėms pateikiama nedelsiant po šių aplinkybių paaiškėjimo. ^s-4a0972f375bf534f174b6a49
 
 
-4. Šio straipsnio 1–[[#^s-4a0972f375bf534f174b6a49|3 dalyse]] nurodytos deklaracijos pateikiamos valstybės ar savivaldybės institucijos, kurioje dirba arba nori dirbti asmuo, vadovui ar jo įgaliotam atstovui. ^s-9f7978922fd0ea3c592abf83
+4. Šio straipsnio [[#^s-0c1702f831860e355f2e6409|1]]–[[#^s-4a0972f375bf534f174b6a49|3]] dalyse nurodytos deklaracijos pateikiamos valstybės ar savivaldybės institucijos, kurioje dirba arba nori dirbti asmuo, vadovui ar jo įgaliotam atstovui. ^s-9f7978922fd0ea3c592abf83
 
 
 5. Nurodytos deklaracijos atskirose institucijose gali būti pateikiamos ir kitoms struktūroms, jeigu tai numato tokios institucijos veiklos tvarką nustatantis įstatymas. ^s-908dda9e5b50aa4fabe714c7
@@ -208,10 +208,10 @@ Jeigu paaiškėja naujos aplinkybės, kurios nebuvo nurodytos pateiktoje deklara
 Jeigu reikia patikrinti, ar deklaracijoje pateikti duomenys atitinka tikrovę, tikrina:
 
 
-1) šio įstatymo [[#^s-d179a8aef3009c586537bcb9|6 straipsnio 1 dalies]] 1–3 punktuose nurodytus duomenis – institucijos vadovo ar Vyriausiosios tarnybinės etikos komisijos teikimu Valstybinė mokesčių inspekcija; ^s-8ac22590b0d4b57a8cdc8819
+1) šio įstatymo [[#^s-d179a8aef3009c586537bcb9|6 straipsnio 1 dalies]] [[#^s-0544d458a33cdc26e918a6f5|1]]–[[#^s-9ebb9bfc9860e0d7df806f3f|3]] punktuose nurodytus duomenis – institucijos vadovo ar Vyriausiosios tarnybinės etikos komisijos teikimu Valstybinė mokesčių inspekcija; ^s-8ac22590b0d4b57a8cdc8819
 
 
-2) šio įstatymo [[#^s-d179a8aef3009c586537bcb9|6 straipsnio 1 dalies]] 4, 5 punktuose nurodytus duomenis – institucijos vadovas, jo įgaliotas atstovas arba Vyriausioji tarnybinės etikos komisija. ^s-a92e969df0e6927b3164d28e
+2) šio įstatymo [[#^s-d179a8aef3009c586537bcb9|6 straipsnio 1 dalies]] [[#^s-66de0d558b79bc1833fd8bc1|4]], [[#^s-cf0f2a898455f4bfd3f7fdf8|5]] punktuose nurodytus duomenis – institucijos vadovas, jo įgaliotas atstovas arba Vyriausioji tarnybinės etikos komisija. ^s-a92e969df0e6927b3164d28e
 
 
 
@@ -274,7 +274,7 @@ VALSTYBĖS IR SAVIVALDYBĖS TARNYBOJE
 2. Asmuo, dirbantis valstybės ar savivaldybės tarnyboje, negali atstovauti privačioms grupėms ar asmenims ir ginti jų interesų valstybės ar savivaldybės institucijose, išskyrus atvejus, kai jie veikia kaip įstatyminiai atstovai. Skundų ir pareiškimų nagrinėjimas, tyrimas ir svarstymas nelaikomas privačių grupių ar asmenų atstovavimu. ^s-c568a1cae777be5757e05d72
 
 
-3. Šio straipsnio 1 ir [[#^s-c568a1cae777be5757e05d72|2 dalyse]] išvardytų apribojimų išimtis konkrečiu atveju gali nustatyti atitinkamos institucijos vadovas ar jo įgaliotas atstovas. Sprendimas apie išimties taikymą turi būti viešai paskelbtas. ^s-ee4a409f1de4ad5288a5f523
+3. Šio straipsnio [[#^s-7807b45e85ba05d6113b668f|1]] ir [[#^s-c568a1cae777be5757e05d72|2]] dalyse išvardytų apribojimų išimtis konkrečiu atveju gali nustatyti atitinkamos institucijos vadovas ar jo įgaliotas atstovas. Sprendimas apie išimties taikymą turi būti viešai paskelbtas. ^s-ee4a409f1de4ad5288a5f523
 
 
 
@@ -307,7 +307,7 @@ VALSTYBĖS IR SAVIVALDYBĖS TARNYBOJE
 ### 15 straipsnis. Kiti apribojimai ir draudimai ^s-592972d374d34cbcf79c1d98
 
 
-Asmenims, dirbantiems valstybės ar savivaldybės tarnyboje, taikomi Valdininkų įstatyme nustatyti apribojimai ir draudimai.
+Asmenims, dirbantiems valstybės ar savivaldybės tarnyboje, taikomi [Valdininkų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.3EFC5919D726) nustatyti apribojimai ir draudimai.
 
 
 
@@ -365,7 +365,7 @@ Asmuo, nustojęs eiti pareigas valstybės ar savivaldybės tarnyboje, vienerius 
 ### 21 straipsnis. Apribojimų netaikymas ^s-e98a755340f368379c9788a3
 
 
-18–[[#^s-c557f4889014604dd7b74e23|20 straipsniuose]] išvardytų apribojimų taikymo išimtis konkrečiais atvejais, kai apribojimų taikymas gali pakenkti visuomenės ar valstybės interesams, nustato Vyriausioji tarnybinės etikos komisija.
+[[#^s-f6cfa1538afe856b59ee8fb7|18]]–[[#^s-c557f4889014604dd7b74e23|20]] straipsniuose išvardytų apribojimų taikymo išimtis konkrečiais atvejais, kai apribojimų taikymas gali pakenkti visuomenės ar valstybės interesams, nustato Vyriausioji tarnybinės etikos komisija.
 
 
 

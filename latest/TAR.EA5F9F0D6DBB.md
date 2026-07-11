@@ -103,7 +103,7 @@ Vilnius
 ### 3 straipsnis. Tiesioginio valdymo įvedimas ^s-73c547b5fd6c7609899fa6f9
 
 
-1. Motyvuotą pasiūlymą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo [[#^s-dfce1b23c11f264d72377d64|2 straipsnio 2 dalies]] 1, 2, 3 ir 6 punktuose nustatytais pagrindais Seimui teikia Lietuvos Respublikos Vyriausybė, Vyriausybės nustatyta tvarka įvertinusi šių pagrindų buvimą. ^s-ada2bdef8131817407e236a4
+1. Motyvuotą pasiūlymą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo [[#^s-dfce1b23c11f264d72377d64|2 straipsnio 2 dalies]] [[#^s-90496d95babf35d7ad994c89|1]], [[#^s-a70471efbfc849275df71afe|2]], [[#^s-725fa5d145e5dbf91a2f913f|3]] ir [[#^s-8a6c9a3fa884ee3444d8189c|6]] punktuose nustatytais pagrindais Seimui teikia Lietuvos Respublikos Vyriausybė, Vyriausybės nustatyta tvarka įvertinusi šių pagrindų buvimą. ^s-ada2bdef8131817407e236a4
 
 
 2. Motyvuotą pasiūlymą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo [[#^s-ce220335d0630b69f8339b35|2 straipsnio 2 dalies 4 punkte]] nustatytais pagrindais Seimui teikia Seimo Valstybės valdymo ir savivaldybių komitetas. ^s-921c254fbda1b392eb1f353c
@@ -112,16 +112,16 @@ Vilnius
 3. Motyvuotą pasiūlymą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo [[#^s-203abb7b5bb689cf829e1194|2 straipsnio 2 dalies 5 punkte]] nustatytu pagrindu, kai savivaldybės taryba negali vykdyti savo įgaliojimų dėl aplinkybių, susijusių su nepaprastosios padėties įvedimu savivaldybės teritorijoje, Seimui teikia Seimo Valstybės valdymo ir savivaldybių komitetas arba Respublikos Prezidentas savo dekrete dėl nepaprastosios padėties įvedimo. Motyvuotą pasiūlymą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo [[#^s-203abb7b5bb689cf829e1194|2 straipsnio 2 dalies 5 punkte]] nustatytu pagrindu, kai savivaldybės taryba negali vykdyti savo įgaliojimų dėl aplinkybių, susijusių su karo padėties įvedimu savivaldybės teritorijoje, Seimui teikia Seimo Valstybės valdymo ir savivaldybių komitetas ar Nacionalinio saugumo ir gynybos komitetas, taip pat šį pasiūlymą gali pateikti Respublikos Prezidentas savo dekrete dėl karo padėties įvedimo. ^s-080c5d5d31d7e57bfc77599a
 
 
-4. Seimas, priimdamas sprendimą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo [[#^s-dfce1b23c11f264d72377d64|2 straipsnio 2 dalies]] 1, 2, 3, 4 punktuose nustatytais pagrindais arba pratęsdamas tiesioginį valdymą šio įstatymo [[#^s-e9edb9e719dc095287e0a8f6|2 straipsnio 3 dalies 2 punkte]] nustatytu atveju, nustato naujų savivaldybės tarybos rinkimų datą. Šiais atvejais naujai išrinktos savivaldybės tarybos kadencija baigiasi tuo laiku ir tokia pačia tvarka, kaip būtų pasibaigusi įgaliojimų netekusios savivaldybės tarybos kadencija. ^s-99ab257fb4508fa80c825ab6
+4. Seimas, priimdamas sprendimą įvesti tiesioginį valdymą savivaldybės teritorijoje šio įstatymo [[#^s-dfce1b23c11f264d72377d64|2 straipsnio 2 dalies]] [[#^s-90496d95babf35d7ad994c89|1]], [[#^s-a70471efbfc849275df71afe|2]], [[#^s-725fa5d145e5dbf91a2f913f|3]], [[#^s-ce220335d0630b69f8339b35|4]] punktuose nustatytais pagrindais arba pratęsdamas tiesioginį valdymą šio įstatymo [[#^s-e9edb9e719dc095287e0a8f6|2 straipsnio 3 dalies 2 punkte]] nustatytu atveju, nustato naujų savivaldybės tarybos rinkimų datą. Šiais atvejais naujai išrinktos savivaldybės tarybos kadencija baigiasi tuo laiku ir tokia pačia tvarka, kaip būtų pasibaigusi įgaliojimų netekusios savivaldybės tarybos kadencija. ^s-99ab257fb4508fa80c825ab6
 
 
-5. Įsigaliojus Seimo nutarimui dėl tiesioginio valdymo įvedimo savivaldybės teritorijoje šio įstatymo [[#^s-dfce1b23c11f264d72377d64|2 straipsnio 2 dalies]] 1, 2, 3, 4 punktuose nustatytais pagrindais, šios savivaldybės taryba, tarybos nariai ir savivaldybės tarybos narys – savivaldybės meras (toliau – meras) netenka įgaliojimų. ^s-4407bb9114ac12f05c9fe437
+5. Įsigaliojus Seimo nutarimui dėl tiesioginio valdymo įvedimo savivaldybės teritorijoje šio įstatymo [[#^s-dfce1b23c11f264d72377d64|2 straipsnio 2 dalies]] [[#^s-90496d95babf35d7ad994c89|1]], [[#^s-a70471efbfc849275df71afe|2]], [[#^s-725fa5d145e5dbf91a2f913f|3]], [[#^s-ce220335d0630b69f8339b35|4]] punktuose nustatytais pagrindais, šios savivaldybės taryba, tarybos nariai ir savivaldybės tarybos narys – savivaldybės meras (toliau – meras) netenka įgaliojimų. ^s-4407bb9114ac12f05c9fe437
 
 
-6. Įsigaliojus Seimo nutarimui dėl tiesioginio valdymo savivaldybės teritorijoje įvedimo šio įstatymo [[#^s-dfce1b23c11f264d72377d64|2 straipsnio 2 dalies]] 5 ar 6 punkte nustatytu pagrindu, šios savivaldybės tarybos, tarybos narių ir mero įgaliojimai sustabdomi. ^s-b9f0dd4ac8bdbd36afa2d4ef
+6. Įsigaliojus Seimo nutarimui dėl tiesioginio valdymo savivaldybės teritorijoje įvedimo šio įstatymo [[#^s-dfce1b23c11f264d72377d64|2 straipsnio 2 dalies]] [[#^s-203abb7b5bb689cf829e1194|5]] ar [[#^s-8a6c9a3fa884ee3444d8189c|6]] punkte nustatytu pagrindu, šios savivaldybės tarybos, tarybos narių ir mero įgaliojimai sustabdomi. ^s-b9f0dd4ac8bdbd36afa2d4ef
 
 
-7. Pasibaigus šio įstatymo [[#^s-dfce1b23c11f264d72377d64|2 straipsnio 2 dalies]] 5 ar 6 punkte nustatytais pagrindais įvesto tiesioginio valdymo terminui, savivaldybės taryba, vykdžiusi įgaliojimus iki tiesioginio valdymo įvedimo, tęsia įgaliojimų vykdymą iki kadencijos pabaigos. ^s-8d0c2bb22674dfdd9185ba69
+7. Pasibaigus šio įstatymo [[#^s-dfce1b23c11f264d72377d64|2 straipsnio 2 dalies]] [[#^s-203abb7b5bb689cf829e1194|5]] ar [[#^s-8a6c9a3fa884ee3444d8189c|6]] punkte nustatytais pagrindais įvesto tiesioginio valdymo terminui, savivaldybės taryba, vykdžiusi įgaliojimus iki tiesioginio valdymo įvedimo, tęsia įgaliojimų vykdymą iki kadencijos pabaigos. ^s-8d0c2bb22674dfdd9185ba69
 
 
 
@@ -158,7 +158,7 @@ Vilnius
 10. Vyriausybės įgaliotinio pavaduotojas (pavaduotojai) atlieka Vyriausybės įgaliotinio jam (jiems) pavestas funkcijas, o kai Vyriausybės įgaliotinis laikinai negali eiti savo pareigų, Ministrui Pirmininkui pavedus vienas iš Vyriausybės įgaliotinio pavaduotojų atlieka visas Vyriausybės įgaliotinio funkcijas. ^s-0b7f430795cf01771dc8c652
 
 
-11. Vyriausybės įgaliotinio, Vyriausybės įgaliotinio pavaduotojo (pavaduotojų) įgaliojimai pasibaigia, kai išrinkta nauja savivaldybės taryba susirenka į pirmąjį posėdį, kuriame šios tarybos nariai prisiekia. Jeigu tiesioginis valdymas savivaldybės teritorijoje įvestas šio įstatymo [[#^s-dfce1b23c11f264d72377d64|2 straipsnio 2 dalies]] 5 ar 6 punkte nustatytu pagrindu, Vyriausybės įgaliotinio, Vyriausybės įgaliotinio pavaduotojo (pavaduotojų) įgaliojimai pasibaigia, kai pasibaigia tiesioginio valdymo terminas ir negalėjusi vykdyti įgaliojimų savivaldybės taryba susirenka į posėdį. Posėdį ne vėliau kaip per vieną savaitę pasibaigus tiesioginio valdymo terminui šaukia Vyriausybės įgaliotinis, o kai jis negali, – Vyriausybės įgaliotinio pavaduotojas. ^s-cc937a19ec7639612f73a763
+11. Vyriausybės įgaliotinio, Vyriausybės įgaliotinio pavaduotojo (pavaduotojų) įgaliojimai pasibaigia, kai išrinkta nauja savivaldybės taryba susirenka į pirmąjį posėdį, kuriame šios tarybos nariai prisiekia. Jeigu tiesioginis valdymas savivaldybės teritorijoje įvestas šio įstatymo [[#^s-dfce1b23c11f264d72377d64|2 straipsnio 2 dalies]] [[#^s-203abb7b5bb689cf829e1194|5]] ar [[#^s-8a6c9a3fa884ee3444d8189c|6]] punkte nustatytu pagrindu, Vyriausybės įgaliotinio, Vyriausybės įgaliotinio pavaduotojo (pavaduotojų) įgaliojimai pasibaigia, kai pasibaigia tiesioginio valdymo terminas ir negalėjusi vykdyti įgaliojimų savivaldybės taryba susirenka į posėdį. Posėdį ne vėliau kaip per vieną savaitę pasibaigus tiesioginio valdymo terminui šaukia Vyriausybės įgaliotinis, o kai jis negali, – Vyriausybės įgaliotinio pavaduotojas. ^s-cc937a19ec7639612f73a763
 
 
 
@@ -198,7 +198,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-144, 1997-03-13, Žin., 1997, Nr. 27-621 (1997-03-28), i. k. [[latest/TAR.24F4C00A56A4|0971010ISTAVIII-144]]
-Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos miestų ir rajonų laikino tiesioginio valdymo" 1, 7, 8 straipsnių pakeitimo ir papildymo įstatymas
+Lietuvos Respublikos įstatymo "Dėl Lietuvos Respublikos miestų ir rajonų laikino tiesioginio valdymo" [[#^s-cdab31e6be1556855696d366|1]], 7, 8 straipsnių pakeitimo ir papildymo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -223,12 +223,12 @@ Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įst
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1654, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19163
-Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 2, 4 ir [[#^s-e2d6b18015c3b751adaad78e|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 [[#^s-2ada3633dd4c3e483dd1bc2c|2]], [[#^s-d0d4e517e6a917140b169e67|4]] ir [[#^s-e2d6b18015c3b751adaad78e|5]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3236, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15871
-Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 2, 3, 4 ir [[#^s-e2d6b18015c3b751adaad78e|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos laikino tiesioginio valdymo savivaldybės teritorijoje įstatymo Nr. I-830 [[#^s-2ada3633dd4c3e483dd1bc2c|2]], [[#^s-73c547b5fd6c7609899fa6f9|3]], [[#^s-d0d4e517e6a917140b169e67|4]] ir [[#^s-e2d6b18015c3b751adaad78e|5]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas

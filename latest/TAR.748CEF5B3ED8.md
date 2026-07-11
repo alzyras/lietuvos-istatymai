@@ -44,7 +44,7 @@ Vilnius
 ### 2 straipsnis. Likvidacinės komisijos sudarymas ^s-3f980163a8df13cc32d5957f
 
 
-Šiaulių laisvosios ekonominės zonos likvidacinę komisiją sudaro Lietuvos Respublikos Vyriausybė. Likvidacinė komisija veikia pagal Lietuvos Respublikos Vyriausybės patvirtintus nuostatus, taip pat teikia pasiūlymus Lietuvos Respublikos Vyriausybei dėl nepriklausomo audito nustatytų Šiaulių laisvosios ekonominės zonos steigimo metu padarytų išlaidų.
+Šiaulių laisvosios ekonominės zonos likvidacinę komisiją sudaro Lietuvos Respublikos Vyriausybė. Likvidacinė komisija veikia pagal Lietuvos Respublikos Vyriausybės patvirtintus nuostatus, taip pat teikia pasiūlymus Lietuvos Respublikos Vyriausybei [dėl nepriklausomo audito](https://e-tar.lt/portal/lt/legalAct/TAR.0525ED5A718E) nustatytų Šiaulių laisvosios ekonominės zonos steigimo metu padarytų išlaidų.
 
 
 
@@ -57,10 +57,10 @@ Vilnius
 1) [[latest/TAR.F61ABF8F5638|Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymas]] (Žin., 1996, Nr. 67-1596); ^s-63896ec84bb9131080b695a5
 
 
-2) [[latest/TAR.F61ABF8F5638#^s-a8552181b3af8b02bb073ba3|Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo 6 straipsnio]] pakeitimo įstatymas (Žin., 1997, Nr. 65-1552); ^s-5c41772ff0f0b0ab4993cb04
+2) [Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo 6 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.449156D394FD) (Žin., 1997, Nr. 65-1552); ^s-5c41772ff0f0b0ab4993cb04
 
 
-3) [[latest/TAR.F61ABF8F5638#^s-c443d33abf470d133a4c7a74|Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo 7 straipsnio]] pakeitimo įstatymas (Žin., 2000, Nr. 92-2861). ^s-2de64ed000a6985f90007442
+3) [Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo 7 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.C18E7B1B4BED) (Žin., 2000, Nr. 92-2861). ^s-2de64ed000a6985f90007442
 
 
 

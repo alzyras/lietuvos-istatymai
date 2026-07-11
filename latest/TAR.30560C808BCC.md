@@ -277,7 +277,7 @@ Juridiniai ir fiziniai asmenys, kurių žemėje, priklausančioje jiems nuosavyb
 1) rezervatų – ūkinė veikla draudžiama; ^s-6ebadbd3ce9b5be6ac7d86ba
 
 
-2) riboto naudojimo – leidžiama ribota ūkinė veikla; ^s-0c128c4fe0c0d8cd69f7d79c
+2) [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) – leidžiama ribota ūkinė veikla; ^s-0c128c4fe0c0d8cd69f7d79c
 
 
 3) atkuriančiojo naudojimo, skatinančio ir užtikrinančio saugomų rūšių egzistavimą. ^s-30f8ee1cae8660fd4706e91e

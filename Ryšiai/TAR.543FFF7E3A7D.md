@@ -9,12 +9,15 @@ pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įst
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.068516AF734B#^s-313d22c88b5777a5c3f5e671|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 19 straipsnio
-- [[latest/TAR.068516AF734B#^s-5d65b63b82fdb238863a9e59|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 8 straipsnio
-- [[latest/TAR.0F9036415DBD#^s-66a74a7996a218e9403ff8dc|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 8 citatos - Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 3 citatos - Valstybės tarnybos įstatyme
+- [[latest/TAR.068516AF734B|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 2 citatos - 6
+- [[latest/TAR.068516AF734B#^s-313d22c88b5777a5c3f5e671|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 19 straipsnio
+- [[latest/TAR.068516AF734B#^s-5d65b63b82fdb238863a9e59|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 8 straipsnio
+- [[latest/TAR.068516AF734B#^s-61bd94695f9294db7df9bb58|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 3
+- [[latest/TAR.068516AF734B#^s-778bfd987da00d7500a47c55|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 2
+- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 8 citatos - 1
+- [[latest/TAR.0F9036415DBD#^s-66a74a7996a218e9403ff8dc|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 4 citatos - Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Valstybės tarnybos įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.068516AF734B#^s-436f77e02002fa6659c940b5|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - Įstatymas Nr. X-1338
-- [[latest/TAR.068516AF734B#^s-c4cb3e6d78e276364a5ef670|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - Įstatymas Nr. X-1338
+_Nėra._

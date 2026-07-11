@@ -9,7 +9,8 @@ pavadinimas: "Lietuvos Respublikos vidaus vandenų transporto kodekso 30 straips
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A7D82E8EDC6B#^s-6a2f57ccc528041fab6123e7|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - 4 citatos - Kelių priežiūros ir plėtros programos finansavimo įstatymo 9 straipsnio 7 dalies
+- [[latest/TAR.A7D82E8EDC6B|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - 8 citatos - 1
+- [[latest/TAR.A7D82E8EDC6B#^s-6a2f57ccc528041fab6123e7|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - 2 citatos - Kelių priežiūros ir plėtros programos finansavimo įstatymo 9 straipsnio 7 dalies
 
 ## Šį įstatymą cituoja
 

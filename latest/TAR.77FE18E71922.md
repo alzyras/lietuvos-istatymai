@@ -42,7 +42,7 @@ Vilnius
 41 straipsnio 5 dalies antrajame sakinyje vietoj žodžių „viešosios apyvartos“ įrašyti žodį „rinkos“ ir šią dalį išdėstyti taip:
 
 
-„5. Nematerialios akcijos yra pažymimos įrašais vertybinių popierių sąskaitose. Uždarųjų akcinių bendrovių nematerialių akcijų sąskaitas tvarko jas išleidusi uždaroji akcinė bendrovė, o akcinių bendrovių akcijų sąskaitas tvarko Vertybinių popierių rinkos įstatyme nustatyti subjektai (toliau – sąskaitų tvarkytojai).“
+„5. Nematerialios akcijos yra pažymimos įrašais vertybinių popierių sąskaitose. Uždarųjų akcinių bendrovių nematerialių akcijų sąskaitas tvarko jas išleidusi uždaroji akcinė bendrovė, o akcinių bendrovių akcijų sąskaitas tvarko [Vertybinių popierių rinkos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nustatyti subjektai (toliau – sąskaitų tvarkytojai).“
 
 
 

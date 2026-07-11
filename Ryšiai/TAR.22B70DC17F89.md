@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.845C6618A647#^s-51465b794935d805ec5c28a9|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - 3 citatos - 1031010ISTA0IX-1416
+- [[latest/TAR.845C6618A647#^s-51465b794935d805ec5c28a9|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - 2 citatos - 1031010ISTA0IX-1416

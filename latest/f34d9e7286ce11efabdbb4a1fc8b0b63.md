@@ -122,13 +122,13 @@ Pakeisti 52 straipsnio 3 dalį ir ją išdėstyti taip:
 ### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-6c58c4f652137a55ae978057
 
 
-1. Šio įstatymo 1, 2 ir [[#^s-ec857d8d373cd3ff870b6caa|5 straipsniai]] įsigalioja 2024 m. lapkričio 1 d. ^s-a58da206cd961ce48cee59b4
+1. Šio įstatymo [[#^s-66250af30d108bdf4f7df548|1]], [[#^s-84b73ccf908701180051a296|2]] ir [[#^s-ec857d8d373cd3ff870b6caa|5]] straipsniai įsigalioja 2024 m. lapkričio 1 d. ^s-a58da206cd961ce48cee59b4
 
 
 2. Šio įstatymo [[#^s-2874effa87ba16f663095504|3 straipsnis]] įsigalioja 2025 m. sausio 1 d. ^s-a428eb46917e17c902419e27
 
 
-3. Šio įstatymo 4, 6 ir [[#^s-156dfd9e1cc20e1c4f29d815|7 straipsniai]] įsigalioja 2025 m. liepos 1 d. ^s-28d6b4fc61444442867545b5
+3. Šio įstatymo [[#^s-28c423781cb195dd6ba05a2f|4]], [[#^s-8833ce226aa0bff3e862816a|6]] ir [[#^s-156dfd9e1cc20e1c4f29d815|7]] straipsniai įsigalioja 2025 m. liepos 1 d. ^s-28d6b4fc61444442867545b5
 
 
 4. Lietuvos Respublikos Vyriausybė ir aplinkos ministras iki 2024 m. spalio 31 d. priima šio įstatymo [[#^s-66250af30d108bdf4f7df548|1 straipsnyje]] išdėstyto [[latest/TAR.CC10C5274343#^s-93e0c6d378664ed178cc68ac|Lietuvos Respublikos žemės įstatymo 8 straipsnio]], šio įstatymo [[#^s-84b73ccf908701180051a296|2 straipsnyje]] išdėstyto [[latest/TAR.CC10C5274343#^s-02614d798473732ec9520587|Žemės įstatymo 9 straipsnio]] ir šio įstatymo [[#^s-ec857d8d373cd3ff870b6caa|5 straipsnyje]] išdėstyto [[latest/TAR.CC10C5274343#^s-463b56d1970e961e4898fe73|Žemės įstatymo 362 straipsnio]] įgyvendinamuosius teisės aktus. ^s-703a78aeaa57e976f892be6a

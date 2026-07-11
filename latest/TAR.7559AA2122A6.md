@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-9613834f6ed5c279be6a56ed
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. kovo 31 d. dekretą Nr. 420, ratifikuoja 2003 m. birželio 27 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Mongolijos Vyriausybės susitarimą dėl investicijų skatinimo ir abipusės apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. kovo 31 d. dekretą Nr. 420](https://e-tar.lt/portal/lt/legalAct/TAR.7BF499FE46D0), ratifikuoja 2003 m. birželio 27 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Mongolijos Vyriausybės susitarimą dėl investicijų skatinimo ir abipusės apsaugos.
 
 
 

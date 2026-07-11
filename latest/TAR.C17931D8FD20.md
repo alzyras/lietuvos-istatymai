@@ -68,7 +68,7 @@ Lietuvos Respublikos valstybinės valdžios, valdymo ir teisėsaugos struktūrų
  Iš jų nepaprastosios
 
 
- I. Valstybinės valdžios, valdymo organų, atskaitingų Aukščiausiajai Tarybai, centrinis aparatas
+ I. Valstybinės valdžios, valdymo organų, atskaitingų [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC), centrinis aparatas
 
 
 

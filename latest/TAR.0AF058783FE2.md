@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-152c26add8dc04c598aa88a2
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. liepos 1 d. dekretą Nr. 144, ratifikuoja Jungtinių Tautų konvenciją dėl kovos su dykumėjimu šalyse, kurios patiria dideles sausras ir (ar) dykumėjimą, ypač esančiose Afrikoje, sudarytą 1994 m. birželio 17 d. Paryžiuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. liepos 1 d. dekretą Nr. 144](https://e-tar.lt/portal/lt/legalAct/TAR.12760FA04926), ratifikuoja Jungtinių Tautų konvenciją dėl kovos su dykumėjimu šalyse, kurios patiria dideles sausras ir (ar) dykumėjimą, ypač esančiose Afrikoje, sudarytą 1994 m. birželio 17 d. Paryžiuje.
 
 
 

@@ -9,12 +9,11 @@ pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 3
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.B9E1D301256F|Lietuvos Respublikos akcizų įstatymas]] - 2 citatos - Lietuvos Respublikos akcizų įstatyme
-- [[latest/TAR.C0FF21832A85|Lietuvos Respublikos labdaros ir paramos įstatymas]] - 2 citatos - Lietuvos Respublikos labdaros ir paramos įstatyme
-- [[latest/TAR.ED68997709F5#^s-81b6955a60eacee3d11d0375|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - 2 citatos - Pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 1 punkto
-- [[latest/TAR.94F6B680E8B8|Lietuvos Respublikos sveikatos draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos sveikatos draudimo įstatymo
+- [[latest/TAR.B9E1D301256F|Lietuvos Respublikos akcizų įstatymas]] - Lietuvos Respublikos akcizų įstatyme
+- [[latest/TAR.C0FF21832A85|Lietuvos Respublikos labdaros ir paramos įstatymas]] - Lietuvos Respublikos labdaros ir paramos įstatyme
+- [[latest/TAR.ED68997709F5#^s-81b6955a60eacee3d11d0375|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - Pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 1 punkto
+- [[latest/TAR.94F6B680E8B8|Lietuvos Respublikos sveikatos draudimo įstatymas]] - Lietuvos Respublikos sveikatos draudimo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.ED68997709F5#^s-008949054ab861703ff664c3|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - Įstatymas Nr. XI-1187
-- [[latest/TAR.ED68997709F5#^s-951ad7fe84aa679fdc57d085|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - Įstatymas Nr. XI-1187
+_Nėra._

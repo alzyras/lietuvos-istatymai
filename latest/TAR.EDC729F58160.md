@@ -195,7 +195,7 @@ Vilnius
 ### 7 straipsnis. Sprendimas dėl jungimosi ^s-1302493a7f9a22c0e08a3b88
 
 
-1. Sprendimą dėl jungimosi, atsižvelgdamas į šio įstatymo 4 ir [[#^s-9e9f443258c941b3f833f6df|5 straipsniuose]] nurodytas ataskaitas, priima kiekvienos besijungiančios akcinės bendrovės ar uždarosios akcinės bendrovės visuotinis akcininkų susirinkimas. ^s-9ae56161ede60c5ff7eeb3e8
+1. Sprendimą dėl jungimosi, atsižvelgdamas į šio įstatymo [[#^s-a7fd7a5b21a385a37a9a64fb|4]] ir [[#^s-9e9f443258c941b3f833f6df|5]] straipsniuose nurodytas ataskaitas, priima kiekvienos besijungiančios akcinės bendrovės ar uždarosios akcinės bendrovės visuotinis akcininkų susirinkimas. ^s-9ae56161ede60c5ff7eeb3e8
 
 
 2. Sprendimu dėl jungimosi turi būti patvirtintos jungimosi sąlygos ir po jungimosi veiksiančios bendrovės įstatai. ^s-010eb325127e7cf91eea11a0
@@ -292,7 +292,7 @@ Vilnius
 ### 11 straipsnis. Supaprastintas jungimasis ^s-d079874dc272781082b4cc20
 
 
-1. Jei įsigyjanti bendrovė yra visų įsigyjamos bendrovės dalių, išreiškiančių įsigyjamos bendrovės kapitalą, ar kitų vertybinių popierių, suteikiančių teisę balsuoti šios bendrovės visuotiniame dalyvių susirinkime, savininkė, jungimuisi netaikomi šio įstatymo [[#^s-c51db7bb0454ee65389b0f6f|3 straipsnio 1 dalies]] 3, 4, 5 ir 7 punktai, [[#^s-a7fd7a5b21a385a37a9a64fb|4 straipsnis]] ir [[#^s-a6850432339b6d5c8d8e56db|10 straipsnio 2 dalis]], o įsigyjamai bendrovei – ir [[#^s-9ae56161ede60c5ff7eeb3e8|7 straipsnio 1 dalis]]. ^s-5760ea05b85184f5ce15ed60
+1. Jei įsigyjanti bendrovė yra visų įsigyjamos bendrovės dalių, išreiškiančių įsigyjamos bendrovės kapitalą, ar kitų vertybinių popierių, suteikiančių teisę balsuoti šios bendrovės visuotiniame dalyvių susirinkime, savininkė, jungimuisi netaikomi šio įstatymo [[#^s-c51db7bb0454ee65389b0f6f|3 straipsnio 1 dalies]] [[#^s-9dbff88985a19dd89ac08727|3]], [[#^s-fd71f04aaa55a800eafe97f4|4]], [[#^s-77c04b7721cf937584a0ad07|5]] ir [[#^s-02164e60ac62f5a852dab525|7]] punktai, [[#^s-a7fd7a5b21a385a37a9a64fb|4 straipsnis]] ir [[#^s-a6850432339b6d5c8d8e56db|10 straipsnio 2 dalis]], o įsigyjamai bendrovei – ir [[#^s-9ae56161ede60c5ff7eeb3e8|7 straipsnio 1 dalis]]. ^s-5760ea05b85184f5ce15ed60
 
 
 2. Jei įsigyjanti bendrovė yra ne mažiau kaip 90 procentų įsigyjamos bendrovės dalių, išreiškiančių įsigyjamos bendrovės kapitalą, ar kitų vertybinių popierių, suteikiančių teisę balsuoti šios bendrovės visuotiniame dalyvių susirinkime, savininkė, šio įstatymo [[#^s-a7fd7a5b21a385a37a9a64fb|4 straipsnyje]] nurodytos jungimosi sąlygų vertinimo ataskaitos nereikalaujama, jei pagal nors vienai iš besijungiančių bendrovių valstybės narės taikytiną teisę nenustatyta kitaip. ^s-8a138616bfae587d3b99d9c8

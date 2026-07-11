@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos kariuomenės drausmės statuto 16, 22, 25, 28
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.29CFE27F6B13#^s-dbff4d52e71c81a170b74f34|Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas]] - 3 citatos - 1031010ISTA0IX-1429
+- [[latest/TAR.29CFE27F6B13#^s-dbff4d52e71c81a170b74f34|Lietuvos Respublikos Lietuvos kariuomenės drausmės statuto patvirtinimo įstatymas]] - 2 citatos - 1031010ISTA0IX-1429

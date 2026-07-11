@@ -45,7 +45,7 @@ Vilnius
 „1 straipsnis. Kodekso paskirtis
 
 
-Lietuvos Respublikos kelių transporto kodeksas (toliau – šis kodeksas) reguliuoja keleivių, bagažo, krovinių ir pašto, dokumentų siuntų vežimų organizavimą ir vykdymą, vežimų valstybinį valdymą ir kontrolę, atsakomybę už turtinę žalą.“
+[Lietuvos Respublikos kelių transporto kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C) (toliau – [šis kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C)) reguliuoja keleivių, bagažo, krovinių ir pašto, dokumentų siuntų vežimų organizavimą ir vykdymą, vežimų valstybinį valdymą ir kontrolę, atsakomybę už turtinę žalą.“
 
 
 ### 2 straipsnis. 2 straipsnio 3 ir 6 dalių pakeitimas, papildymas naujomis 7 ir 8 dalimis bei 11 dalies pripažinimas netekusia galios ^s-c9367eba75d404b4f7fb0a6e
@@ -189,13 +189,13 @@ Pakeisti ir papildyti [[#^s-d0087ded6148e0910a32f7a2|14 straipsnį]] ir jį išd
 „[[#^s-d0087ded6148e0910a32f7a2|14 straipsnis]]. Kelių transporto kontrolės tarnybų įgaliojimai
 
 
-1. Valstybinės kelių transporto inspekcijos transporto veiklos kontrolės įgaliojimus nustato šis kodeksas, Keleivinio kelių transporto kontrolės nuostatai, patvirtinti Susisiekimo ministerijos, bei Valstybinės kelių transporto inspekcijos nuostatai. ^s-569d4a65d9ce3cbbbecf5784
+1. Valstybinės kelių transporto inspekcijos transporto veiklos kontrolės įgaliojimus nustato [šis kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C), Keleivinio kelių transporto kontrolės nuostatai, patvirtinti Susisiekimo ministerijos, bei Valstybinės kelių transporto inspekcijos nuostatai. ^s-569d4a65d9ce3cbbbecf5784
 
 
 2. Valstybinės kelių transporto inspekcijos pareigūnai turi teisę sustabdyti krovinines ir keleivines kelių transporto priemones, jas pasverti, tikrinti jų matmenis, apipavidalinimą, techninę būklę, valstybinės techninės apžiūros atlikimo periodiškumą, ekipažo, taip pat keleiviams, bagažui ir kroviniams vežti privalomus dokumentus, tarp jų – keleivių ir bagažo bilietus, važtaraščius. Šie pareigūnai taip pat turi teisę tikrinti, ar laikomasi ekipažo darbo ir poilsio režimo. ^s-6334a7ff4bf333e972c7893a
 
 
-3. Savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto veiklos kontrolės tarnybų įgaliojimus nustato šis kodeksas, Keleivinio kelių transporto kontrolės nuostatai bei šių tarnybų nuostatai. ^s-93dad66394073aaa66c09e00
+3. Savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto veiklos kontrolės tarnybų įgaliojimus nustato [šis kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C), Keleivinio kelių transporto kontrolės nuostatai bei šių tarnybų nuostatai. ^s-93dad66394073aaa66c09e00
 
 
 4. Savivaldybių institucijų arba jų įgaliotų įstaigų kelių transporto veiklos kontrolės tarnybų pareigūnai turi teisę savo bei gretimų savivaldybių teritorijose sustabdyti ir tikrinti lengvuosius automobilius taksi ir keleivines kelių transporto priemones, dirbančias vietinio ir tolimojo susisiekimo maršrutais, bei šių priemonių ekipažų, taip pat keleiviams ir bagažui vežti privalomus dokumentus, tarp jų – keleivių ir bagažo bilietus bei ekipažų darbo ir poilsio režimo laikymąsi. ^s-9a32331766ee9c0ef8ef47d9
@@ -243,7 +243,7 @@ Pakeisti [[#^s-63c9c8016bb832a334ef7471|17 straipsnį]] ir jį išdėstyti taip:
 3. Smulkios siuntos – daiktai arba krovinys, kuriuos juridiniai ar fiziniai asmenys siunčia keleivine kelių transporto priemone. ^s-dba69ebbf7a7786a46be5dbd
 
 
-4. Bagažo ir smulkių siuntų maksimalų dydį ir svorį nustato Keleivių ir bagažo vežimo taisyklės.“ ^s-87d34ccc7add8b45f3b959f2
+4. Bagažo ir smulkių siuntų maksimalų dydį ir svorį nustato [Keleivių ir bagažo vežimo taisyklės](https://e-tar.lt/portal/lt/legalAct/TAR.08D39ED22C2C).“ ^s-87d34ccc7add8b45f3b959f2
 
 
 ### 10 straipsnis. Kodekso papildymas 171 straipsniu ^s-987e3c40ddb85f2780e888b6
@@ -282,13 +282,13 @@ Papildyti Kodeksą 171 straipsniu:
 ### 11 straipsnis. 18 straipsnio pakeitimas ir papildymas ^s-9f35ea88393d99dab5817f99
 
 
-Pakeisti [[#^s-ccca5568a9a3b57d476f6037|18 straipsnio]] 1, 2, 3, 4, 5, 6, 7, 8 ir [[#^s-62325ea2db1898294e54d83b|9 dalis]], papildyti straipsnį naujomis 7 ir [[#^s-473c932eb5c3d37f4c93cc18|8 dalimis]], buvusias 7, 8, [[#^s-62325ea2db1898294e54d83b|9 dalis]] laikyti 9, 10, [[#^s-e882d36db12c973f30451eca|11 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-ccca5568a9a3b57d476f6037|18 straipsnio]] 1, 2, 3, 4, 5, 6, 7, 8 ir 9 dalis, papildyti straipsnį naujomis 7 ir 8 dalimis, buvusias 7, 8, 9 dalis laikyti 9, 10, 11 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-ccca5568a9a3b57d476f6037|18 straipsnis]]. Keleivių vežimas
 
 
-1. Keleiviai vežami keleiviams vežti pagamintomis keleivinėmis kelių transporto priemonėmis – autobusais, troleibusais, lengvaisiais automobiliais, lengvaisiais automobiliais taksi. Keleivių vežimą reglamentuoja Susisiekimo ministerijos patvirtintos Keleivių ir bagažo vežimo taisyklės bei Keleivių vežimo lengvaisiais automobiliais taksi taisyklės. ^s-7b361fdcdab0ce6708f9d484
+1. Keleiviai vežami keleiviams vežti pagamintomis keleivinėmis kelių transporto priemonėmis – autobusais, troleibusais, lengvaisiais automobiliais, lengvaisiais automobiliais taksi. Keleivių vežimą reglamentuoja Susisiekimo ministerijos patvirtintos [Keleivių ir bagažo vežimo taisyklės](https://e-tar.lt/portal/lt/legalAct/TAR.08D39ED22C2C) bei Keleivių vežimo lengvaisiais automobiliais taksi taisyklės. ^s-7b361fdcdab0ce6708f9d484
 
 
 2. Keleiviai vežami reguliariais, specialiais bei užsakomaisiais reisais vietinio (miesto ir priemiestinio), tolimojo ir tarptautinio susisiekimo maršrutais. ^s-5da0561d21bb6887c0a62a72
@@ -360,13 +360,13 @@ Pakeisti [[#^s-ccca5568a9a3b57d476f6037|18 straipsnio]] 1, 2, 3, 4, 5, 6, 7, 8 i
 „1. Keleivio bagažo vežimo sutartyje vežėjas įsipareigoja nuvežti keleivio bagažą į keleivio biliete ar bagažo kvite nurodytą paskirties punktą ir išduoti jį keleiviui, o keleivis įsipareigoja sumokėti sutartyje nustatytą užmokestį.“
 
 
-3. [[#^s-5185d2a7f7cd46ad36c1b221|23 straipsnį]] papildyti [[#^s-88940ab5b5784819d5459fe3|3 dalimi]]: ^s-88940ab5b5784819d5459fe3
+3. [[#^s-5185d2a7f7cd46ad36c1b221|23 straipsnį]] papildyti 3 dalimi: ^s-88940ab5b5784819d5459fe3
 
 
 „3. Smulkios siuntos vežimo sutartyje vežėjas įsipareigoja nuvežti siuntą į kvite nurodytą paskirties punktą, o siuntėjas – sumokėti nustatytą užmokestį.“
 
 
-4. [[#^s-5185d2a7f7cd46ad36c1b221|23 straipsnį]] papildyti [[#^s-4cb22d69307ab161fd24ab52|4 dalimi]]: ^s-4cb22d69307ab161fd24ab52
+4. [[#^s-5185d2a7f7cd46ad36c1b221|23 straipsnį]] papildyti 4 dalimi: ^s-4cb22d69307ab161fd24ab52
 
 
 „4. Smulkios siuntos vežimo sutartį patvirtinantis dokumentas yra kvitas.“
@@ -449,7 +449,7 @@ ATSAKOMYBĖ“.
 ### 21 straipsnis. 47 straipsnio pakeitimas ^s-84a4c0ec3658868c32e08ad5
 
 
-Pakeisti 47 straipsnio 1 ir [[#^s-a289cf426f5ed10ebab6c430|2 dalis]] ir šį straipsnį išdėstyti taip:
+Pakeisti 47 straipsnio 1 ir 2 dalis ir šį straipsnį išdėstyti taip:
 
 
 „47 straipsnis. Atsakomybė už keleivio, bagažo, krovinio ar pašto siuntos pavėluotą vežimą

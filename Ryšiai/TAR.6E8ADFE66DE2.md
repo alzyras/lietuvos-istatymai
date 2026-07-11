@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.1559303036A8#^s-a26cbd7ba9902e0a22458ffe|Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymas]] - Įstatymas Nr. IX-695
+_Nėra._

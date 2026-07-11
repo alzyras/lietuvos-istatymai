@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D4A66ACB9F97#^s-82006bf67248d5bf62fcf88d|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - 2 citatos - GYVENTOJŲ TURTO DEKLARAVIMO ĮSTATYMO 1, 2, 3, 7 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 3 IR 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.D4A66ACB9F97#^s-8a54e4d204bbb6894e068997|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - 2 citatos - GYVENTOJŲ TURTO DEKLARAVIMO ĮSTATYMO 1, 2, 3, 7 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 3 IR 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.D4A66ACB9F97#^s-8a54e4d204bbb6894e068997|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - GYVENTOJŲ TURTO DEKLARAVIMO ĮSTATYMO 1, 2, 3, 7 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMO 3 IR 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

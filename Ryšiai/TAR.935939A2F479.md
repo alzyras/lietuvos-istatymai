@@ -9,12 +9,11 @@ pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl užsieniečių teisinės pad
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.F74ECE427C23|Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas]] - 4 citatos - Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo
-- [[latest/TAR.F628061443C6|Lietuvos Respublikos pilietybės įstatymas]] - 3 citatos - Lietuvos Respublikos pilietybės įstatymo
+- [[latest/TAR.F74ECE427C23|Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymas]] - 2 citatos - Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo
+- [[latest/TAR.F628061443C6|Lietuvos Respublikos pilietybės įstatymas]] - 2 citatos - Lietuvos Respublikos pilietybės įstatymo
 - [[latest/TAR.41CD8BF53D8D|Lietuvos Respublikos rinkliavų įstatymas]] - Lietuvos Respublikos rinkliavų įstatyme
-- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 2 citatos - Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo
+- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.42837E5A79DD#^s-b7fcdfdba0ef5139f8112d96|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - Įstatymas Nr. XI-2189
-- [[latest/TAR.42837E5A79DD#^s-d380d2d641411ba21387bb73|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - Įstatymas Nr. XI-2189
+_Nėra._

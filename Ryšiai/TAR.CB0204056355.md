@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo l
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C44837068B55#^s-fb61f4a14fc5df6b09a0ffbd|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - 2 citatos - Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 17 straipsnyje
+- [[latest/TAR.C44837068B55#^s-fb61f4a14fc5df6b09a0ffbd|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 17 straipsnyje
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.7A932101FADA#^s-05731db0ef3f1f69b9975547|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas]] - 3 citatos - 1131010ISTA0XII-458
-- [[latest/TAR.7A932101FADA#^s-6cf35f8d9a36d0e769f9df8e|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas]] - 3 citatos - 1131010ISTA0XII-458
+- [[latest/TAR.7A932101FADA#^s-05731db0ef3f1f69b9975547|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas]] - 2 citatos - 1131010ISTA0XII-458

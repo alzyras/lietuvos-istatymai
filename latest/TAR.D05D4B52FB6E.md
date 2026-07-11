@@ -39,10 +39,10 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ^s-44c85eaa728367b2775183ca
 
 
-2 straipsnio 3 dalyje išbraukti 2 ir [[#^s-448fff9baaeaa00bb06253a7|3 punktus]], buvusius 4, 5, 6, 7, 8, 9, 10, 11 punktus laikyti atitinkamai 2, 3, 4, 5, 6, 7, 8, [[#^s-400015fb6ee1e282f8c7e3d5|9 punktais]], [[#^s-5aade665ab7f1e3cfd229a52|8 punkte]] po žodžio „vadovams“ įrašyti žodžius „(išskyrus Valstybės saugumo departamento generalinį direktorių ir jo pavaduotojus bei Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus)“ ir šią dalį išdėstyti taip:
+2 straipsnio 3 dalyje išbraukti 2 ir 3 punktus, buvusius 4, 5, 6, 7, 8, 9, 10, 11 punktus laikyti atitinkamai 2, 3, 4, 5, 6, 7, 8, 9 punktais, [[#^s-5aade665ab7f1e3cfd229a52|8 punkte]] po žodžio „vadovams“ įrašyti žodžius „(išskyrus Valstybės saugumo departamento generalinį direktorių ir jo pavaduotojus bei Specialiųjų tyrimų tarnybos direktorių ir jo pavaduotojus)“ ir šią dalį išdėstyti taip:
 
 
-„3. Šio įstatymo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taip pat taikomi tiems valstybės pareigūnams, kuriems netaikomas [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] (toliau – valstybės pareigūnai):
+„3. Šio įstatymo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taip pat taikomi tiems valstybės pareigūnams, kuriems netaikomas [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] (toliau – [[latest/TAR.D3ED3792F52B|valstybės pareigūnai]]):
 
 
 1) prokuratūros pareigūnams; ^s-04fda3a1bdb8bebe0992e7ea

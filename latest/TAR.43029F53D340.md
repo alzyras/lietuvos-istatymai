@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-8bdc64e047a7ef41f90497be
-VIDAUS TARNYBOS STATUTO 2, 6, 7, 8, 9, 10, 14, 19, 21, 22, 26, 31, 37, 38, 40, 41, 43, 46, 47, 48, 49, 52, 57 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
+VIDAUS TARNYBOS STATUTO 2, [[#^s-b2e8e88a4c9143f615053a23|6]], [[#^s-2bd3fc8bd5227a51149b5e3a|7]], [[#^s-7d309f4af4fb20f023613f93|8]], [[#^s-412d4a956374c48fb9223082|9]], [[#^s-698d4f2e35370035c0a2f1ab|10]], [[#^s-f32dc4571f3ce4728c837379|14]], [[#^s-cbb78c1c32b7a4cfadd45c1a|19]], [[#^s-9b5b2613667070ce5c4c2057|21]], [[#^s-02d1ba0972fd51fef338f4b4|22]], 26, 31, 37, 38, 40, 41, 43, 46, 47, 48, 49, 52, 57 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 2003, Nr. 42-1927; 2004, Nr. 167-6105, Nr. 171-6296, Nr. 188-7000; 2006, Nr. 72-2681)
 
@@ -386,7 +386,7 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 1. 37 straipsnio 1 dalies 6 punkte vietoj žodžių „gaisrininkais, gaisrininkais vairuotojais“ įrašyti žodžius „operatyviniais budinčiais, profilaktikos instruktoriais, sargybos viršininkais, skyrininkais, ugniagesiais (gaisrininkais), vairuotojais, dispečeriais, dujų-dūmų apsaugos tarnybos meistrais (priešdūminės ir priešdujinės tarnybos meistrais)“ ir šį punktą išdėstyti taip: ^s-6337c9740468e7593abdc473
 
 
-„6) darbo laiką, išdirbtą profesionaliosios priešgaisrinės apsaugos padalinių vadovais, operatyviniais budinčiais, profilaktikos instruktoriais, sargybos viršininkais, skyrininkais, ugniagesiais (gaisrininkais), vairuotojais, dispečeriais, dujų-dūmų apsaugos tarnybos meistrais (priešdūminės ir priešdujinės tarnybos meistrais) Darbo sutarties įstatymo pagrindais, jeigu vėliau šie darbuotojai buvo paskirti statutiniais priešgaisrinės apsaugos pareigūnais;“.
+„6) darbo laiką, išdirbtą profesionaliosios priešgaisrinės apsaugos padalinių vadovais, operatyviniais budinčiais, profilaktikos instruktoriais, sargybos viršininkais, skyrininkais, ugniagesiais (gaisrininkais), vairuotojais, dispečeriais, dujų-dūmų apsaugos tarnybos meistrais (priešdūminės ir priešdujinės tarnybos meistrais) [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pagrindais, jeigu vėliau šie darbuotojai buvo paskirti statutiniais priešgaisrinės apsaugos pareigūnais;“.
 
 
 2. 37 straipsnio 1 dalies 9 punkte po žodžių „kariniuose mokymuose“ įrašyti žodžius „ar vidaus reikalų profesinio mokymo įstaigos įvadinio mokymo kursų“ ir šį punktą išdėstyti taip: ^s-b8b2bcaee92ffa6514e6908a
@@ -451,7 +451,7 @@ Pakeisti 40 straipsnį ir jį išdėstyti taip:
 7) lengvo sveikatos sutrikdymo atveju – 12 mėnesių vidutinio darbo užmokesčio dydžio. ^s-e2062bb72364dbb263168ba8
 
 
-4. Kursanto mirties, sužalojimo, susižalojimo ar jo sveikatos sutrikdymo per profesinį ar įvadinį mokymą atvejais kompensacijos mokamos šio straipsnio 1 ir [[#^s-14f0a6290854f5f15066fd84|3 dalyse]] nustatytomis sąlygomis ir tvarka, išskyrus tai, kad kompensacijų dydis apskaičiuojamas pagal įvykio metu Vyriausybės nustatytą minimalią mėnesinę algą. ^s-e1fe4a2491233a85f6ccf263
+4. Kursanto mirties, sužalojimo, susižalojimo ar jo sveikatos sutrikdymo per profesinį ar įvadinį mokymą atvejais kompensacijos mokamos šio straipsnio [[#^s-a549c18cd98d8e84cf2355d1|1]] ir [[#^s-14f0a6290854f5f15066fd84|3]] dalyse nustatytomis sąlygomis ir tvarka, išskyrus tai, kad kompensacijų dydis apskaičiuojamas pagal įvykio metu Vyriausybės nustatytą minimalią mėnesinę algą. ^s-e1fe4a2491233a85f6ccf263
 
 
 5. Ar pareigūno mirtis, susižalojimas, sužalojimas arba sveikatos sutrikdymas yra susijęs su tarnybinių pareigų atlikimu ar pareigūno statusu, o kursanto – su profesiniu ar įvadiniu mokymu, taip pat ar tarnybinių pareigų atlikimas, profesinis ar įvadinis mokymas susijęs su padidėjusiu pavojumi ar padidėjusia rizika pareigūno ar kursanto gyvybei ar sveikatai, nustatoma vidaus reikalų ministro nustatyta tvarka. ^s-9ec5dc37e4d5ab88ad6b1614
@@ -597,7 +597,7 @@ Pakeisti 52 straipsnio 4 dalį ir ją išdėstyti taip:
 
 ### ANTRASIS SKIRSNIS ^s-b4707362d5beacbcadaff9df
 LIETUVOS RESPUBLIKOS
-[[latest/TAR.2A8A2BA51B01#^s-6f44207c161c570528d75177|VIDAUS TARNYBOS STATUTO PATVIRTINIMO ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO 1, 5 STRAIPSNIŲ]] PAKEITIMAS IR PAPILDYMAS
+[[latest/TAR.2A8A2BA51B01|VIDAUS TARNYBOS STATUTO PATVIRTINIMO ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO]] [[latest/TAR.2A8A2BA51B01#^s-9e93c77054e726ce37807694|1]], [[latest/TAR.2A8A2BA51B01#^s-6f44207c161c570528d75177|5]] STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 2003, Nr. 42-1928)
 

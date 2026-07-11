@@ -10,6 +10,7 @@ pavadinimas: "Lietuvos Respublikos notariato įstatymo 20, 26, 27, 31, 45, 46, 4
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - Civilinis kodeksas
+- [[latest/TAR.BE3136A78E80|Lietuvos Respublikos notariato įstatymas]] - 6 citatos - 15
 
 ## Šį įstatymą cituoja
 

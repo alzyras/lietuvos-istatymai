@@ -59,7 +59,7 @@ Vilnius
 2. Registrą steigia ir Registro nuostatus tvirtina Lietuvos Respublikos Vyriausybė. ^s-5e2a456a7d253298444a0678
 
 
-3. Registro ir jo duomenų tvarkymą reglamentuoja šis įstatymas, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas]], [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]], [[latest/TAR.72C31F8DD98E|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]], [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]], Registro nuostatai, Nekilnojamojo turto kadastro nuostatai (toliau – Kadastro nuostatai) ir kiti teisės aktai, nustatantys Registro tvarkymą. ^s-265025bc47c7c1b36f7502a3
+3. Registro ir jo duomenų tvarkymą reglamentuoja šis įstatymas, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas]], [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]], [[latest/TAR.72C31F8DD98E|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]], [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]], Registro nuostatai, Nekilnojamojo turto kadastro nuostatai (toliau – Kadastro nuostatai) ir kiti teisės aktai, nustatantys Registro tvarkymą. ^s-265025bc47c7c1b36f7502a3
 
 
 
@@ -266,7 +266,7 @@ Nr. XIV-2150, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14336
 ### 8 straipsnis. Sprendimų dėl Registro objektų registravimo priėmimo terminai ^s-6619a43888ef26adcbfcd4a0
 
 
-1. Sprendimas dėl Registro objekto, išskyrus nekilnojamąjį daiktą, registravimo turi būti priimtas ne vėliau kaip per 5 darbo dienas nuo prašymo gavimo dienos, išskyrus šio straipsnio 2 ir [[#^s-02e8e148478463d025c4309e|3 dalyse]] nustatytas išimtis. Kai kartu prašoma įregistruoti ar išregistruoti ir nekilnojamąjį daiktą arba pakeisti jo kadastro duomenis, – ne vėliau kaip per 5 darbo dienas nuo tos dienos, kurią baigiasi Kadastro nuostatuose nustatytas prašymų įregistruoti ar išregistruoti nekilnojamąjį daiktą arba pakeisti jo kadastro duomenis nagrinėjimo terminas. ^s-b08062b31a8c17a01c9f8a19
+1. Sprendimas dėl Registro objekto, išskyrus nekilnojamąjį daiktą, registravimo turi būti priimtas ne vėliau kaip per 5 darbo dienas nuo prašymo gavimo dienos, išskyrus šio straipsnio [[#^s-e1e6dfba2e55e7f2c0ad87d8|2]] ir [[#^s-02e8e148478463d025c4309e|3]] dalyse nustatytas išimtis. Kai kartu prašoma įregistruoti ar išregistruoti ir nekilnojamąjį daiktą arba pakeisti jo kadastro duomenis, – ne vėliau kaip per 5 darbo dienas nuo tos dienos, kurią baigiasi Kadastro nuostatuose nustatytas prašymų įregistruoti ar išregistruoti nekilnojamąjį daiktą arba pakeisti jo kadastro duomenis nagrinėjimo terminas. ^s-b08062b31a8c17a01c9f8a19
 
 
 2. Asmens, pateikusio prašymą, pageidavimu sprendimas dėl Registro objekto registravimo gali būti priimtas skubos tvarka – per vieną arba 3 darbo dienas. ^s-e1e6dfba2e55e7f2c0ad87d8
@@ -361,7 +361,7 @@ Nr. XIV-2150, 2023-07-04, paskelbta TAR 2023-07-11, i. k. 2023-14336
 1. Registro duomenys, Registrui pateiktų dokumentų kopijos, informacija apie Registro objektus ir su šiais Registro objektais susijusių asmenų duomenys teikiami šiame įstatyme nustatytomis sąlygomis ir Registro nuostatuose nustatyta tvarka. ^s-7499fd54c1d41e7b3c94a846
 
 
-2. Registre tvarkomi asmens duomenys, Registrui pateiktų dokumentų kopijos ir Registro informacija teikiami vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymu]]. ^s-2057b8d452d0980b54931f13
+2. Registre tvarkomi asmens duomenys, Registrui pateiktų dokumentų kopijos ir Registro informacija teikiami vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymu]]. ^s-2057b8d452d0980b54931f13
 
 
 3. Registro duomenys, Registrui pateiktų dokumentų kopijos ir Registro informacija teikiami asmenims, turintiems teisinį duomenų gavimo pagrindą ir nurodžiusiems apibrėžtą ir teisėtą duomenų naudojimo tikslą, išskyrus atvejus: ^s-99cd9be2f06227bda85a7d98
@@ -541,8 +541,8 @@ Nr. X-1239, 2007-06-28, Žin., 2007, Nr. 81-3314 (2007-07-21), i. k. [[latest/TA
 
 8.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2011-06-09, Žin., 2011, Nr. 156-7405 (2011-12-22), i. k. 1111000NUTARG117405
-Dėl Lietuvos Respublikos nekilnojamojo turto registro įstatymo (2001 m. birželio 21 d. redakcija) 42 straipsnio atitikties Lietuvos Respublikos Konstitucijai ir Lietuvos Respublikos Vyriausybės 2002 m. liepos 12 d. nutarimu Nr. 1129 "Dėl Nekilnojamojo turto registro nuostatų patvirtinimo" patvirtintų Nekilnojamojo turto registro nuostatų 88 punkto (2007 m. vasario 27 d. redakcija), 97 punkto (2007 m. vasario 27 d., 2008 m. spalio 22 d., 2010 m. kovo 3 d., 2011 m. gegužės 4 d. redakcijos) atitikties Lietuvos Respublikos Konstitucijai
+2011-06-09, Žin., 2011, Nr. 156-7405 (2011-12-22), i. k. [1111000NUTARG117405](https://e-tar.lt/portal/lt/legalAct/TAR.B10E59D8F52E)
+Dėl Lietuvos Respublikos nekilnojamojo turto registro įstatymo (2001 m. birželio 21 d. redakcija) 42 straipsnio atitikties Lietuvos Respublikos Konstitucijai ir Lietuvos Respublikos Vyriausybės [2002 m. liepos 12 d. nutarimu Nr. 1129](https://e-tar.lt/portal/lt/legalAct/TAR.4913B9CEDF48) "Dėl Nekilnojamojo turto registro nuostatų patvirtinimo" patvirtintų Nekilnojamojo turto registro nuostatų 88 punkto (2007 m. vasario 27 d. redakcija), 97 punkto (2007 m. vasario 27 d., 2008 m. spalio 22 d., 2010 m. kovo 3 d., 2011 m. gegužės 4 d. redakcijos) atitikties Lietuvos Respublikos Konstitucijai
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -562,12 +562,12 @@ Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 17, 23, 2
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2184, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09967
-Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 1, 2, 3, 8, 15, 16, 21, 22, 23, 24, 26, 27, 29, 33, 35, 36, 37, 41, 43, 44, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 [[#^s-7f337ba7da4456e1fff0eea8|1]], [[#^s-e593427ec603e56e020aa5e9|2]], [[#^s-942b52471bae1ed650ef793e|3]], [[#^s-6619a43888ef26adcbfcd4a0|8]], 15, 16, 21, 22, 23, 24, 26, 27, 29, 33, 35, 36, 37, 41, 43, 44, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2726, 2019-12-19, paskelbta TAR 2020-01-03, i. k. 2020-00086
-Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 5, 11, 15, 17 ir 38 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 [[#^s-a9acd2a71a3cc62d5951c371|5]], [[#^s-9ad12b0045e814890a234a57|11]], 15, 17 ir 38 straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -577,12 +577,12 @@ Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 42 straip
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-666, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24266
-Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 9, 21 ir 26 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 [[#^s-ed0325dfab80c58db8d50996|9]], 21 ir 26 straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-667, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24270
-Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 1, 2, 3, 8, 15, 16, 21, 22, 23, 24, 26, 27, 29, 33, 35, 36, 37, 41, 43, 44, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu [[latest/a0502490935911e9ae2e9d61b1f977b3|įstatymo Nr. XIII-2184]] 8 ir [[#^s-0f6a2ea7c89124f981bbce6d|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 [[#^s-7f337ba7da4456e1fff0eea8|1]], [[#^s-e593427ec603e56e020aa5e9|2]], [[#^s-942b52471bae1ed650ef793e|3]], [[#^s-6619a43888ef26adcbfcd4a0|8]], 15, 16, 21, 22, 23, 24, 26, 27, 29, 33, 35, 36, 37, 41, 43, 44, 45 straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu [[latest/a0502490935911e9ae2e9d61b1f977b3|įstatymo Nr. XIII-2184]] [[#^s-6619a43888ef26adcbfcd4a0|8]] ir [[#^s-0f6a2ea7c89124f981bbce6d|12]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas

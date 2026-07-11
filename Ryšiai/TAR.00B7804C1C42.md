@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo pa
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.E2B2957B9182|Lietuvos Respublikos sveikatos sistemos įstatymas]] - Sveikatos sistemos įstatymo
+_Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.4043B97881A2#^s-6c9a48b1922928075a0b5ef7|Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas]] - 3 citatos - 0991010ISTAIII-1461
+- [[latest/TAR.4043B97881A2#^s-6c9a48b1922928075a0b5ef7|Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas]] - 2 citatos - 0991010ISTAIII-1461

@@ -10,10 +10,9 @@ pavadinimas: "Lietuvos Respublikos autorių teisių ir gretutinių teisių įsta
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.551F0CDE5B64|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas]] - 3 citatos - Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo
-- [[latest/TAR.551F0CDE5B64#^s-9c6d6ef068c965858a08ca2e|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas]] - 2 citatos - Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 58 straipsnio 1 dalies 3 punktas
-- [[latest/TAR.551F0CDE5B64#^s-af2b8a5de75a48b245f9fe38|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas]] - 2 citatos - Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 22 straipsnio 3 punktas
+- [[latest/TAR.551F0CDE5B64#^s-9c6d6ef068c965858a08ca2e|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas]] - Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 58 straipsnio 1 dalies 3 punktas
+- [[latest/TAR.551F0CDE5B64#^s-af2b8a5de75a48b245f9fe38|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas]] - Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymo 22 straipsnio 3 punktas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.551F0CDE5B64#^s-8411fa0f5060133559364858|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas]] - Įstatymas Nr. XI-1833
-- [[latest/TAR.551F0CDE5B64#^s-f196df1d7eef6d29c79b03b7|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas]] - Įstatymas Nr. XI-1833
+_Nėra._

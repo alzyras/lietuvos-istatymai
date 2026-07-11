@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EDDCB615126E#^s-56e51fa1ccd5494964ba67f6|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - Įstatymas Nr. XIII-923
-- [[latest/TAR.EDDCB615126E#^s-ebca7f488c83e6092064f614|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - Įstatymas Nr. XIII-923
+_Nėra._

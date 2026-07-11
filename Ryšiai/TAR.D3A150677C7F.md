@@ -9,7 +9,7 @@ pavadinimas: "Dėl pelno mokesčio lengvatų žemės ūkio įmonėms"
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A5ACBDA529A9#^s-f30e14b5548a1ff78bb0785f|Lietuvos Respublikos pelno mokesčio įstatymas]] - pelno mokesčio įstatymo 8 straipsnyje
+_Nėra._
 
 ## Šį įstatymą cituoja
 

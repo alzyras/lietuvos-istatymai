@@ -44,7 +44,7 @@ Iki 1996 m. liepos 1 d. susidariusioms mokesčio permokoms grąžinti taikomas p
 ### 2 straipsnis. Mokesčių administravimo įstatymo 54, 561, 57 ir 58 straipsnių taikymas ^s-4c8d98c34a7e293c6fb67e39
 
 
-Iki aukštesniojo administracinio teismo įsteigimo mokesčio mokėtojo skundai dėl centrinio mokesčio administratoriaus sprendimų, kuriuos patvirtino arba iš dalies patvirtino Mokestinių ginčų komisija, nagrinėjami Vilniaus apygardos teisme. Skundai dėl vietos arba centrinio mokesčio administratoriaus veiksmų (sprendimų), paduoti teismams iki šio įstatymo įsigaliojimo, toliau nagrinėjami Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+Iki aukštesniojo administracinio teismo įsteigimo mokesčio mokėtojo skundai dėl centrinio mokesčio administratoriaus sprendimų, kuriuos patvirtino arba iš dalies patvirtino Mokestinių ginčų komisija, nagrinėjami Vilniaus apygardos teisme. Skundai dėl vietos arba centrinio mokesčio administratoriaus veiksmų (sprendimų), paduoti teismams iki šio įstatymo įsigaliojimo, toliau nagrinėjami [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.
 
 
 

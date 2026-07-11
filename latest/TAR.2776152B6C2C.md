@@ -45,19 +45,19 @@ Vilnius
 1. Papildyti 3 straipsnį 46 dalimi: ^s-4e8eac2b97c8dc942bbe3ca4
 
 
-„46. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), įsteigta institucija.“
+„46. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), įsteigta institucija.“
 
 
 2. Papildyti 3 straipsnį 47 dalimi: ^s-15830540e3db9de4baaa629e
 
 
-„47. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) įsteigta institucija.“
+„47. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj) dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) įsteigta institucija.“
 
 
 3. Papildyti 3 straipsnį 48 dalimi: ^s-2855c518d35bb59213a48e23
 
 
-„48. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84), įsteigta institucija.“
+„48. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84), įsteigta institucija.“
 
 
 
@@ -143,7 +143,7 @@ Priežiūros institucija sudaro Lietuvos Respublikoje veikiančių reguliuojamų
 1. Papildyti 70 straipsnio 2 dalį nauju 12 punktu: ^s-db12ef2af346b64d35ba59a8
 
 
-„12) bendradarbiauja su Europos vertybinių popierių ir rinkų institucija pagal Reglamentą (ES) Nr. 1095/2010 ir su Europos bankininkystės institucija pagal Reglamentą (ES) Nr. 1093/2010 ir nedelsdama teikia joms visą jų užduotims vykdyti būtiną informaciją;“.
+„12) bendradarbiauja su Europos vertybinių popierių ir rinkų institucija pagal [Reglamentą (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj) ir su Europos bankininkystės institucija pagal [Reglamentą (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir nedelsdama teikia joms visą jų užduotims vykdyti būtiną informaciją;“.
 
 
 2. Buvusius 70 straipsnio 2 dalies 12 ir 13 punktus laikyti atitinkamai 13 ir 14 punktais. ^s-7b50d04e71f72533e0a5f41c
@@ -271,19 +271,19 @@ Papildyti 80 straipsnį 3 dalimi:
 1. Pakeisti 90 straipsnio 3 dalį ir ją išdėstyti taip: ^s-8f1f6acd4f2c9860e545ebb2
 
 
-„3. Jeigu, nepaisydama finansų maklerio įmonės priežiūros institucijos pritaikytų poveikio priemonių arba dėl to, kad pritaikytos poveikio priemonės yra nepakankamos, finansų maklerio įmonė ir toliau nesilaiko šiame įstatyme nustatytų reikalavimų ir pažeidžia Lietuvos Respublikos investuotojų interesus arba kelia grėsmę sklandžiam finansinių priemonių rinkų veikimui, priežiūros institucija, prieš tai pranešusi finansų maklerio įmonės priežiūros institucijai, turi teisę imtis visų reikalingų priemonių investuotojų interesams apsaugoti ir sklandžiam rinkų veikimui užtikrinti. Priežiūros institucija turi teisę imtis priemonių, užkertančių galimybę finansų maklerio įmonėms, pažeidžiančioms teisės aktų reikalavimus, sudaryti sandorius dėl finansinių priemonių Lietuvos Respublikoje. Apie priemones, kurių buvo imtasi, priežiūros institucija nedelsdama praneša Europos Komisijai ir Europos vertybinių popierių ir rinkų institucijai. Priežiūros institucija taip pat gali perduoti šį klausimą Europos vertybinių popierių ir rinkų institucijai, kuri gali imtis veiksmų pagal Reglamentu (ES) Nr. 1095/2010 jai suteiktus įgaliojimus.“
+„3. Jeigu, nepaisydama finansų maklerio įmonės priežiūros institucijos pritaikytų poveikio priemonių arba dėl to, kad pritaikytos poveikio priemonės yra nepakankamos, finansų maklerio įmonė ir toliau nesilaiko šiame įstatyme nustatytų reikalavimų ir pažeidžia Lietuvos Respublikos investuotojų interesus arba kelia grėsmę sklandžiam finansinių priemonių rinkų veikimui, priežiūros institucija, prieš tai pranešusi finansų maklerio įmonės priežiūros institucijai, turi teisę imtis visų reikalingų priemonių investuotojų interesams apsaugoti ir sklandžiam rinkų veikimui užtikrinti. Priežiūros institucija turi teisę imtis priemonių, užkertančių galimybę finansų maklerio įmonėms, pažeidžiančioms teisės aktų reikalavimus, sudaryti sandorius dėl finansinių priemonių Lietuvos Respublikoje. Apie priemones, kurių buvo imtasi, priežiūros institucija nedelsdama praneša Europos Komisijai ir Europos vertybinių popierių ir rinkų institucijai. Priežiūros institucija taip pat gali perduoti šį klausimą Europos vertybinių popierių ir rinkų institucijai, kuri gali imtis veiksmų pagal [Reglamentu (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj) jai suteiktus įgaliojimus.“
 
 
 2. Pakeisti 90 straipsnio 5 dalį ir ją išdėstyti taip: ^s-9f179c44b3709d33f3365fd1
 
 
-„5. Jeigu, nepaisydama priežiūros institucijos pritaikytų poveikio priemonių, finansų maklerio įmonė toliau pažeidinėja Lietuvos Respublikos teisės aktų reikalavimus, priežiūros institucija turi teisę, prieš tai pranešusi finansų maklerio įmonės priežiūros institucijai, imtis visų reikalingų priemonių investuotojų interesams apsaugoti ir sklandžiam rinkų veikimui užtikrinti. Apie priemones, kurių buvo imtasi, priežiūros institucija nedelsdama praneša Europos Komisijai ir Europos vertybinių popierių ir rinkų institucijai. Priežiūros institucija taip pat gali perduoti šį klausimą Europos vertybinių popierių ir rinkų institucijai, kuri gali imtis veiksmų pagal Reglamentu (ES) Nr. 1095/2010 jai suteiktus įgaliojimus.“
+„5. Jeigu, nepaisydama priežiūros institucijos pritaikytų poveikio priemonių, finansų maklerio įmonė toliau pažeidinėja Lietuvos Respublikos teisės aktų reikalavimus, priežiūros institucija turi teisę, prieš tai pranešusi finansų maklerio įmonės priežiūros institucijai, imtis visų reikalingų priemonių investuotojų interesams apsaugoti ir sklandžiam rinkų veikimui užtikrinti. Apie priemones, kurių buvo imtasi, priežiūros institucija nedelsdama praneša Europos Komisijai ir Europos vertybinių popierių ir rinkų institucijai. Priežiūros institucija taip pat gali perduoti šį klausimą Europos vertybinių popierių ir rinkų institucijai, kuri gali imtis veiksmų pagal [Reglamentu (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj) jai suteiktus įgaliojimus.“
 
 
 3. Pakeisti 90 straipsnio 6 dalį ir ją išdėstyti taip: ^s-ea1c707eec495a6efdbc5ab5
 
 
-„6. Jeigu priežiūros institucija turi pagrindą įtarti, kad šiame įstatyme nustatytus reikalavimus pažeidžia kitoje valstybėje narėje veikiančią reguliuojamą rinką ar daugiašalę prekybos sistemą administruojantis rinkos operatorius ar finansų maklerio įmonė, kurie ėmėsi šio įstatymo nustatytų veiksmų Lietuvos Respublikoje, kuriais siekiama sudaryti galimybę Lietuvos Respublikoje įsteigtiems subjektams tapti jų administruojamos reguliuojamos rinkos ar daugiašalės prekybos sistemos nariais arba palengvinti prekybą joje, priežiūros institucija apie tai nedelsdama praneša reguliuojamos rinkos operatoriaus ar daugiašalės prekybos sistemos operatoriaus priežiūros institucijai. Jeigu, nepaisydamas buveinės priežiūros institucijos pritaikytų poveikio priemonių arba dėl to, kad pritaikytos poveikio priemonės yra nepakankamos, reguliuojamos rinkos ar daugiašalės prekybos sistemos operatorius ir toliau pažeidinėja Lietuvos Respublikos investuotojų interesus ar kelia grėsmę sklandžiam finansinių priemonių rinkų veikimui, priežiūros institucija, pranešusi buveinės priežiūros institucijai, turi teisę imtis visų reikalingų priemonių investuotojų interesams apsaugoti ir sklandžiam rinkų veikimui užtikrinti. Priežiūros institucija turi teisę neleisti reguliuojamos rinkos ar daugiašalės prekybos sistemos operatoriui imtis veiksmų Lietuvos Respublikoje, kuriais siekiama sudaryti galimybę Lietuvos Respublikoje įsteigtiems subjektams tapti tos reguliuojamos rinkos ar daugiašalės prekybos sistemos nariais arba palengvinti prekybą joje. Apie priemones, kurių buvo imtasi, priežiūros institucija nedelsdama praneša Europos Komisijai ir Europos vertybinių popierių ir rinkų institucijai. Priežiūros institucija taip pat gali perduoti šį klausimą Europos vertybinių popierių ir rinkų institucijai, kuri gali imtis veiksmų pagal Reglamentu (ES) Nr. 1095/2010 jai suteiktus įgaliojimus.“
+„6. Jeigu priežiūros institucija turi pagrindą įtarti, kad šiame įstatyme nustatytus reikalavimus pažeidžia kitoje valstybėje narėje veikiančią reguliuojamą rinką ar daugiašalę prekybos sistemą administruojantis rinkos operatorius ar finansų maklerio įmonė, kurie ėmėsi šio įstatymo nustatytų veiksmų Lietuvos Respublikoje, kuriais siekiama sudaryti galimybę Lietuvos Respublikoje įsteigtiems subjektams tapti jų administruojamos reguliuojamos rinkos ar daugiašalės prekybos sistemos nariais arba palengvinti prekybą joje, priežiūros institucija apie tai nedelsdama praneša reguliuojamos rinkos operatoriaus ar daugiašalės prekybos sistemos operatoriaus priežiūros institucijai. Jeigu, nepaisydamas buveinės priežiūros institucijos pritaikytų poveikio priemonių arba dėl to, kad pritaikytos poveikio priemonės yra nepakankamos, reguliuojamos rinkos ar daugiašalės prekybos sistemos operatorius ir toliau pažeidinėja Lietuvos Respublikos investuotojų interesus ar kelia grėsmę sklandžiam finansinių priemonių rinkų veikimui, priežiūros institucija, pranešusi buveinės priežiūros institucijai, turi teisę imtis visų reikalingų priemonių investuotojų interesams apsaugoti ir sklandžiam rinkų veikimui užtikrinti. Priežiūros institucija turi teisę neleisti reguliuojamos rinkos ar daugiašalės prekybos sistemos operatoriui imtis veiksmų Lietuvos Respublikoje, kuriais siekiama sudaryti galimybę Lietuvos Respublikoje įsteigtiems subjektams tapti tos reguliuojamos rinkos ar daugiašalės prekybos sistemos nariais arba palengvinti prekybą joje. Apie priemones, kurių buvo imtasi, priežiūros institucija nedelsdama praneša Europos Komisijai ir Europos vertybinių popierių ir rinkų institucijai. Priežiūros institucija taip pat gali perduoti šį klausimą Europos vertybinių popierių ir rinkų institucijai, kuri gali imtis veiksmų pagal [Reglamentu (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj) jai suteiktus įgaliojimus.“
 
 
 
@@ -293,7 +293,7 @@ Papildyti 80 straipsnį 3 dalimi:
 1. Pakeisti Įstatymo priedo 2 punktą ir jį išdėstyti taip: ^s-cb2cc47625feaf09af69ad4e
 
 
-„2. 2003 m. sausio 28 d. Europos Parlamento ir Tarybos direktyva 2003/6/EB dėl prekybos vertybiniais popieriais, pasinaudojant viešai neatskleista informacija, ir manipuliavimo rinka (piktnaudžiavimo rinka) (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 367) su paskutiniais pakeitimais, padarytais 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/78/ES (OL 2010 L 331, p. 120).“
+„2. 2003 m. sausio 28 d. Europos Parlamento ir Tarybos direktyva 2003/6/EB [dėl prekybos vertybiniais popieriais](https://e-tar.lt/portal/lt/legalAct/TAR.212C24D01B45), pasinaudojant viešai neatskleista informacija, ir manipuliavimo rinka (piktnaudžiavimo rinka) (OL 2004 m. specialusis leidimas, 6 skyrius, 4 tomas, p. 367) su paskutiniais pakeitimais, padarytais 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/78/ES (OL 2010 L 331, p. 120).“
 
 
 2. Pakeisti Įstatymo priedo 3 punktą ir jį išdėstyti taip: ^s-45ac44671d50f39519b84f37

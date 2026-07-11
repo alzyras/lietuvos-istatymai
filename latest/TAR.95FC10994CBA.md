@@ -991,25 +991,25 @@ Pakeisti 155 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 61 straipsnis. Įstatymo įsigaliojimas ir galiojimas ^s-0c7e383770363c7c34cc1d02
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2, 4 ir [[#^s-e0d695c8ea9ce4152b209dd2|5 dalyse]] nurodytas išimtis ir [[#^s-36726f36eed7a600f74485df|62 straipsnį]], įsigalioja 2011 m. spalio 1 d. ^s-2242a37e998596c23f02b0a6
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-239fe9b30f0f8cd43ceead3b|2]], [[#^s-d2f0552683be9090cd7eb817|4]] ir [[#^s-e0d695c8ea9ce4152b209dd2|5]] dalyse nurodytas išimtis ir [[#^s-36726f36eed7a600f74485df|62 straipsnį]], įsigalioja 2011 m. spalio 1 d. ^s-2242a37e998596c23f02b0a6
 
 
 2. Šio įstatymo [[#^s-75ee6ba6d5ffe81d45b635f5|2 straipsnis]], [[#^s-e28a4395906b0315d2fb1137|11 straipsnio 2 dalis]] įsigalioja 2011 m. lapkričio 1 d. ^s-239fe9b30f0f8cd43ceead3b
 
 
-3. Šio įstatymo 29, [[#^s-b929dc427dce04f1942cd4e1|45 straipsniai]], [[#^s-8972b58767ca4de4113dd5d7|50 straipsnio 1 dalis]], [[#^s-2b43973513775215e0d9d343|54 straipsnio 2 dalis]] galioja iki 2012 m. birželio 30 d. ^s-06125ab4503d2e638ad7de6c
+3. Šio įstatymo [[#^s-20eb675a8a9e15fa01917e3a|29]], [[#^s-b929dc427dce04f1942cd4e1|45]] straipsniai, [[#^s-8972b58767ca4de4113dd5d7|50 straipsnio 1 dalis]], [[#^s-2b43973513775215e0d9d343|54 straipsnio 2 dalis]] galioja iki 2012 m. birželio 30 d. ^s-06125ab4503d2e638ad7de6c
 
 
-4. Šio įstatymo 14, 16, 28, 30, 31, 32, 35, 36, 46, 51, 53, [[#^s-1c61adafb89f0fa64b9e8a70|55 straipsniai]] įsigalioja 2012 m. liepos 1 d. ^s-d2f0552683be9090cd7eb817
+4. Šio įstatymo [[#^s-6bb98da24297e10dae1baaed|14]], [[#^s-aded2d376c871aaf2e0d0172|16]], [[#^s-b16bc7517fed056d011a1ee1|28]], [[#^s-59437c8b040c99c8d9094333|30]], [[#^s-f25d4462d64666ed70037267|31]], [[#^s-1c48bc47ab31ec33fbd95abf|32]], [[#^s-9dd15e354e847c97de96c8ca|35]], [[#^s-fd05a211226c27a21a825439|36]], [[#^s-64985d3b4fef84eb07519c10|46]], [[#^s-01e117174d42d773da9197f4|51]], [[#^s-ba133be6d71f1b4839da8808|53]], [[#^s-1c61adafb89f0fa64b9e8a70|55]] straipsniai įsigalioja 2012 m. liepos 1 d. ^s-d2f0552683be9090cd7eb817
 
 
-5. Šio įstatymo [[#^s-217c09ff56ba9eb39236a5d2|22 straipsnio]] 1 ir [[#^s-239fe9b30f0f8cd43ceead3b|2 dalys]] ir [[#^s-599882c58b6b853600bca122|56 straipsnis]] galioja iki 2012 m. gruodžio 31 d. ^s-e0d695c8ea9ce4152b209dd2
+5. Šio įstatymo [[#^s-217c09ff56ba9eb39236a5d2|22 straipsnio]] [[#^s-e823d4c6a99904d7d4bca999|1]] ir [[#^s-a4c56bf4d3a397d384ccd955|2]] dalys ir [[#^s-599882c58b6b853600bca122|56 straipsnis]] galioja iki 2012 m. gruodžio 31 d. ^s-e0d695c8ea9ce4152b209dd2
 
 
 6. Šio įstatymo [[#^s-64985d3b4fef84eb07519c10|46 straipsnis]] ir [[#^s-dee9857bb82bd44f2fba3f20|51 straipsnio 1 dalis]] galioja iki 2012 m. gruodžio 31 d. ^s-bb486de7540a6054bf89c071
 
 
-7. Šio įstatymo 1, 4, 5, 6, 7, 8, [[#^s-653705602ad80fcce56ae9b3|9 straipsniai]], [[#^s-3e1440c4b45b63f4c730b1e1|11 straipsnio 1 dalis]], 12, 13, 17, 18, 20, 21, 23, 24, 25, 26, 33, 37, 38, 39, 40, 41, 42, 43, 44, 47, 48, 49, 52, 57, 58, [[#^s-68d1798ebd34fa443dd6fed4|60 straipsniai]] įsigalioja 2013 m. sausio 1 d. ^s-98b073f2f801ad0f3eab1c6a
+7. Šio įstatymo [[#^s-8eba9193b7f918195973a033|1]], [[#^s-82a9d61bc30fc512188d8f62|4]], [[#^s-2bfd0520a67fa63a86b75247|5]], [[#^s-5afc92ae02e5b235234f9bb5|6]], [[#^s-64c9947927ec7da3dc724a01|7]], [[#^s-cb7356369d022b1285725041|8]], [[#^s-653705602ad80fcce56ae9b3|9]] straipsniai, [[#^s-3e1440c4b45b63f4c730b1e1|11 straipsnio 1 dalis]], [[#^s-394ad1557659447189865155|12]], [[#^s-18f6ed64af5321c8fef1107e|13]], [[#^s-3973a32cd57cc98caf5e7899|17]], [[#^s-0df1aafb1b8f0219a0479496|18]], [[#^s-54308a6f9d9e75832b990702|20]], [[#^s-20d8a7b346f688c7bec15ce6|21]], [[#^s-4fc2b213edf79941dc14b6f1|23]], [[#^s-e56ecd2c08b09ad6faff020c|24]], [[#^s-448cba42c668e34911e45c95|25]], [[#^s-68241b62ce2f6191e72727ce|26]], [[#^s-ac19e48f66496269176a47ff|33]], [[#^s-d6ea24c4991c0765f140cd59|37]], [[#^s-e3b1f5eceed82e539b5bbb1f|38]], [[#^s-fa056f6ebb97bf6bb57a84d7|39]], [[#^s-1246e290cea184794d68a876|40]], [[#^s-14e3b665be927cb59575055b|41]], [[#^s-103518b906d225b4d1859885|42]], [[#^s-4452c376fc5fb6567984fc28|43]], [[#^s-2bcca80d6b1e40344125b93e|44]], [[#^s-f6730a13f93220615d9cfab6|47]], [[#^s-d8478ff776c925bb99210f0f|48]], [[#^s-2104c24055dc5ff494a4e707|49]], [[#^s-7c13a87b0e4ee69e51818239|52]], [[#^s-ed71dfca6e1200afe50a4ebc|57]], [[#^s-0f89d89908c3fa8faba8b4a1|58]], [[#^s-68d1798ebd34fa443dd6fed4|60]] straipsniai įsigalioja 2013 m. sausio 1 d. ^s-98b073f2f801ad0f3eab1c6a
 
 
 

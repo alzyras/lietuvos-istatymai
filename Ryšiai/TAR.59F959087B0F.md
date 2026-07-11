@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos karo prievolės įstatymo 8, 11, 13, 14, 17, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.E9CE9C91C255|Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas]] - 2 citatos - Karo prievolės įstatymo
+- [[latest/TAR.E9CE9C91C255|Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas]] - Karo prievolės įstatymo
 
 ## Šį įstatymą cituoja
 

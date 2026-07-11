@@ -9,155 +9,149 @@ pavadinimas: "Lietuvos Respublikos reklamos įstatymas"
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Lietuvos Respublikos administracinių bylų teisenos įstatymo
-- [[latest/TAR.94F5702CA0F1|Lietuvos Respublikos antstolių įstatymas]] - 2 citatos - Lietuvos Respublikos antstolių įstatymu
-- [[latest/TAR.9BC8AEE9D9F8|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo
-- [[latest/TAR.817CC58C1A54|Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymas]] - 2 citatos - Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatyme
-- [[latest/TAR.55FFE350795A|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme
-- [[latest/TAR.55FFE350795A#^s-6ae6db52cad1136811e34a7c|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - 2 citatos - Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 6 straipsnio 3 dalyje
-- [[latest/TAR.55FFE350795A#^s-862fad541b2060d6505a3548|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - 2 citatos - Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 7 straipsnio
-- [[latest/TAR.BE3136A78E80|Lietuvos Respublikos notariato įstatymas]] - 2 citatos - Lietuvos Respublikos notariato įstatymu
-- [[latest/TAR.54FC55C97307|Lietuvos Respublikos reklamos įstatymo 1, 17, 19 straipsnių ir priedo pakeitimo ir papildymo įstatymas]] - 6 citatos - 1061010ISTA000X-808
-- [[latest/TAR.2B74E1DEA323|Lietuvos Respublikos reklamos įstatymo 1, 2, 5, 6, 12, 17, 18, 22, 23, 24, 25 straipsnių ir priedo pakeitimo ir papildymo įstatymas]] - 6 citatos - 1081010ISTA00X-1414
-- [[latest/TAR.8CEEE7FBD953|Lietuvos Respublikos reklamos įstatymo 1, 2, 5, 6, 18, 19, 21, 22, 23 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas]] - 6 citatos - 1021010ISTA0IX-1212
-- [[latest/TAR.43AAF2D3EA80|Lietuvos Respublikos reklamos įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas]] - 4 citatos - 1111010ISTA0XI-1606
-- [[latest/TAR.878B3BA45B65|Lietuvos Respublikos reklamos įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas]] - 4 citatos - 1131010ISTA0XII-577
-- [[latest/TAR.2491E2F260C8|Lietuvos Respublikos reklamos įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas]] - 6 citatos - 1101010ISTA00XI-923
-- [[latest/41e9faf0105111ea9d279ea27696ab7b|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 1 straipsnio ir priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2515
-- [[latest/681627101b2b11eeb233e8b04dc9bb3d|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 12 ir 19 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2106
-- [[latest/40e13ba020aa11e5b336e9064144f02a|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 14 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1885
-- [[latest/2d86dc902df211eabe008ea93139d588|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 15 straipsnio ir priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2757
-- [[latest/cf5d7210ccfe11ec8d9390588bf2de65|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 15 straipsnio ir priedo pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1062
-- [[latest/e72716509e8c11ea9515f752ff221ec9|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 15 straipsnio ir priedo pakeitimo įstatymo Nr. XIII-2757 3 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2950
-- [[latest/f95f0520554111e9975f9c35aedfe438|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2010
-- [[latest/fa61f870a73311ef90b5ee8931e5ce5e|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2 ir 12 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-3152
-- [[latest/784e12e04c7411e8ade598b2394a491d|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1123
-- [[latest/53ff09f055cc11e4b3a0e0257391d42c|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1189
-- [[latest/31688ce0973f11e9ae2e9d61b1f977b3|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2218
-- [[latest/TAR.391A0D624391|Lietuvos Respublikos reklamos įstatymo pakeitimo įstatymas]] - 6 citatos - 1131010ISTA0XII-315
-- [[latest/TAR.5DC1759E42CB|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - 2 citatos - Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - 2 citatos - Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme
-- [[latest/TAR.0B0253BB424C|Lietuvos Respublikos valstybinės kalbos įstatymas]] - 2 citatos - Lietuvos Respublikos valstybinės kalbos įstatymo
-- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - Lietuvos Respublikos viešojo administravimo įstatymo
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Lietuvos Respublikos administracinių bylų teisenos įstatymo
+- [[latest/TAR.94F5702CA0F1|Lietuvos Respublikos antstolių įstatymas]] - Lietuvos Respublikos antstolių įstatymu
+- [[latest/TAR.9BC8AEE9D9F8|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo
+- [[latest/TAR.817CC58C1A54|Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymas]] - Lietuvos Respublikos nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatyme
+- [[latest/TAR.55FFE350795A|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme
+- [[latest/TAR.55FFE350795A#^s-118272753837c058769812ca|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - 21
+- [[latest/TAR.55FFE350795A#^s-6ae6db52cad1136811e34a7c|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 6 straipsnio 3 dalyje
+- [[latest/TAR.55FFE350795A#^s-862fad541b2060d6505a3548|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 7 straipsnio
+- [[latest/TAR.55FFE350795A#^s-bcdbfe69810a17d05acc3466|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - 1
+- [[latest/TAR.BE3136A78E80|Lietuvos Respublikos notariato įstatymas]] - Lietuvos Respublikos notariato įstatymu
+- [[latest/TAR.54FC55C97307|Lietuvos Respublikos reklamos įstatymo 1, 17, 19 straipsnių ir priedo pakeitimo ir papildymo įstatymas]] - 2 citatos - 1061010ISTA000X-808
+- [[latest/TAR.2B74E1DEA323|Lietuvos Respublikos reklamos įstatymo 1, 2, 5, 6, 12, 17, 18, 22, 23, 24, 25 straipsnių ir priedo pakeitimo ir papildymo įstatymas]] - 2 citatos - 1081010ISTA00X-1414
+- [[latest/TAR.8CEEE7FBD953|Lietuvos Respublikos reklamos įstatymo 1, 2, 5, 6, 18, 19, 21, 22, 23 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas]] - 2 citatos - 1021010ISTA0IX-1212
+- [[latest/TAR.43AAF2D3EA80|Lietuvos Respublikos reklamos įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas]] - 1111010ISTA0XI-1606
+- [[latest/TAR.878B3BA45B65|Lietuvos Respublikos reklamos įstatymo 14 straipsnio pakeitimo ir papildymo įstatymas]] - 1131010ISTA0XII-577
+- [[latest/TAR.2491E2F260C8|Lietuvos Respublikos reklamos įstatymo 2 straipsnio pakeitimo ir papildymo įstatymas]] - 2 citatos - 1101010ISTA00XI-923
+- [[latest/2d86dc902df211eabe008ea93139d588|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 15 straipsnio ir priedo pakeitimo įstatymas]] - įstatymo Nr. XIII-2757
+- [[latest/TAR.391A0D624391|Lietuvos Respublikos reklamos įstatymo pakeitimo įstatymas]] - 2 citatos - 1131010ISTA0XII-315
+- [[latest/TAR.5DC1759E42CB|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme
+- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme
+- [[latest/TAR.0B0253BB424C|Lietuvos Respublikos valstybinės kalbos įstatymas]] - Lietuvos Respublikos valstybinės kalbos įstatymo
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - Lietuvos Respublikos viešojo administravimo įstatymo
 - [[latest/TAR.065AB8483E1E|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Lietuvos Respublikos visuomenės informavimo įstatymas
 
 ## Šį įstatymą cituoja
 
+- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-a88dc824fb45ad81e0203a3c|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos reklamos įstatyme nustatytų kitų reklamos naudojimo reikalavimų ir draudimų nesilaikymas (išskyrus šio kodekso 145 straipsnyje
 - [[latest/TAR.FF33B3BF23DD#^s-17686ea02692e92ae76b111d|Lietuvos Respublikos farmacijos įstatymas]] - Reklamos įstatymo
-- [[latest/TAR.FF33B3BF23DD#^s-4a2a843636e8127e85725e25|Lietuvos Respublikos farmacijos įstatymas]] - Reklamos įstatymo
 - [[latest/TAR.BF41D2C35D24#^s-35c2eb4ede5305be0d00f15e|Lietuvos Respublikos kelių įstatymas]] - Reklamos įstatyme
-- [[latest/TAR.BF41D2C35D24#^s-4ca5e7acd6e15b92d3d4f353|Lietuvos Respublikos kelių įstatymas]] - Lietuvos Respublikos reklamos įstatyme
-- [[latest/TAR.BF41D2C35D24#^s-d0dc743ba4e7fee2491e368f|Lietuvos Respublikos kelių įstatymas]] - Reklamos įstatyme
 - [[latest/TAR.BF41D2C35D24#^s-f0b26904f76d1380eb4d7cf4|Lietuvos Respublikos kelių įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/37ac6e40a73411ef90b5ee8931e5ce5e#^s-a57f142b37e0a43f552e892b|Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 13 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/46da1290554211e9975f9c35aedfe438#^s-d13df573f722e9f9b7d4e158|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 15, 16, 18, 19, 22 ir 32 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos reklamos įstatymo
-- [[latest/46da1290554211e9975f9c35aedfe438#^s-e2dd6e427d36dfcc60a1fba7|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 15, 16, 18, 19, 22 ir 32 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos reklamos įstatymo
-- [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-18e2ffff9a3c845ccf071016|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Reklamos įstatymo
 - [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-19f3939019eabf0352f9c009|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Reklamos įstatymu
 - [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-297e0754f180245a1c42cf86|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Reklamos įstatymo
 - [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-31387bd69de279ef81a8362a|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Reklamos įstatymo
-- [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-3232ad02b12d483c7b87f537|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Reklamos įstatymu
-- [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-48df897d3aa017b2999e369f|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Reklamos įstatymo
 - [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-625ac2a9d02f1d6f077efb9b|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Reklamos įstatymas
 - [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-702d27a4121b8b9a02664fbf|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Reklamos įstatymas
-- [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-831d218545b0202037cf7d1a|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Reklamos įstatymas
-- [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-98dfbe15d405502bed8778fc|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Reklamos įstatymo
 - [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-aa6b2a0b748863cebfa5db58|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Reklamos įstatymo
 - [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-c1985ddfba98bc6c2decb190|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Reklamos įstatymo
-- [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-e522010eaef88ec72eaf84de|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Reklamos įstatymas
 - [[latest/ad961110dd8911e69ae9f38427b46dd7#^s-f05493a7b5ed07092b302921|Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas]] - Reklamos įstatymo
 - [[latest/4bb0838002da11efbcbfb318996800a8#^s-3fce1bd151c0bfe509438531|Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 2, 11, 16, 18, 28 ir 29 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
-- [[latest/c5adb5f0222d11eabe008ea93139d588#^s-1816029f12d2ac995411299e|Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/c5adb5f0222d11eabe008ea93139d588#^s-c3447a7239d1dcb899b5ec6a|Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
-- [[latest/a019d200554211e9975f9c35aedfe438#^s-95bc7ee50caaaa0243235982|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 9 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos reklamos įstatymo
 - [[latest/a019d200554211e9975f9c35aedfe438#^s-9b60972811b3569841631c4e|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo Nr. X-1409 9 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos reklamos įstatymo
 - [[latest/TAR.5B55C0654B4A#^s-1378e3a023520b0ce8ae1fbf|Lietuvos Respublikos pašarų įstatymas]] - Reklamos įstatymo
-- [[latest/TAR.5B55C0654B4A#^s-757ab109c3344292dd9b09fa|Lietuvos Respublikos pašarų įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/TAR.5B55C0654B4A#^s-9d2eb2d0efe5880c031a0084|Lietuvos Respublikos pašarų įstatymas]] - Reklamos įstatyme
-- [[latest/TAR.5B55C0654B4A#^s-b9e4be3fdd0e74d86675ae72|Lietuvos Respublikos pašarų įstatymas]] - 2 citatos - Reklamos įstatyme
 - [[latest/TAR.5B55C0654B4A#^s-d9d5383c273a9f6de8509321|Lietuvos Respublikos pašarų įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/76dead30c1ce11ea9815f635b9c0dcef#^s-22e2602f687918066d6585cc|Lietuvos Respublikos pašarų įstatymo Nr. VIII-1610 pakeitimo įstatymas]] - Reklamos įstatymo
-- [[latest/76dead30c1ce11ea9815f635b9c0dcef#^s-34368614f4b8f0e010d7ca62|Lietuvos Respublikos pašarų įstatymo Nr. VIII-1610 pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/76dead30c1ce11ea9815f635b9c0dcef#^s-4ccd942c310dfe4f4b78e562|Lietuvos Respublikos pašarų įstatymo Nr. VIII-1610 pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
-- [[latest/76dead30c1ce11ea9815f635b9c0dcef#^s-515325128cce6714341fdac1|Lietuvos Respublikos pašarų įstatymo Nr. VIII-1610 pakeitimo įstatymas]] - 2 citatos - Reklamos įstatyme
 - [[latest/76dead30c1ce11ea9815f635b9c0dcef#^s-e927feb71bf6e9cf9134fa24|Lietuvos Respublikos pašarų įstatymo Nr. VIII-1610 pakeitimo įstatymas]] - Reklamos įstatyme
-- [[latest/TAR.9CD153214DD1#^s-63565954ada350973597e6dc|Lietuvos Respublikos pašto įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/TAR.9CD153214DD1#^s-b8f4d39239ee5173293898f2|Lietuvos Respublikos pašto įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/TAR.9CD153214DD1#^s-c70c92c5e3e643f8ac2b6feb|Lietuvos Respublikos pašto įstatymas]] - Reklamos įstatymo
-- [[latest/TAR.9CD153214DD1#^s-d26729c70d5e8c9485d5ce7b|Lietuvos Respublikos pašto įstatymas]] - Reklamos įstatymo
 - [[latest/26cb843080f811ed8df094f359a60216#^s-7ec932015ab86b6cf60994cb|Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 3, 5, 6 ir 17 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
-- [[latest/26cb843080f811ed8df094f359a60216#^s-e12f35bed498d55edeaaa29e|Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 3, 5, 6 ir 17 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/9c083ca09cb411e58fd1fc0b9bba68a7#^s-2da199a5de8eed360307b98f|Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 3, 6, 10 ir 13 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/bc76bc70a58b11ef90b5ee8931e5ce5e#^s-1a6b23b4125e0d1fe8653fcf|Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 pakeitimo įstatymas]] - Reklamos įstatymo
-- [[latest/bc76bc70a58b11ef90b5ee8931e5ce5e#^s-3d85a54083557b4d98c42027|Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 pakeitimo įstatymas]] - Reklamos įstatymo
-- [[latest/bc76bc70a58b11ef90b5ee8931e5ce5e#^s-71493c167b049422cf3e326d|Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/bc76bc70a58b11ef90b5ee8931e5ce5e#^s-a60ff76b90a2f9217dfa16ae|Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/TAR.8D703458FB7C#^s-3a34a5d780da0be29ebf2c5a|Lietuvos Respublikos pašto įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
-- [[latest/TAR.8D703458FB7C#^s-ab9adfda6aa90f113a3a8063|Lietuvos Respublikos pašto įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
-- [[latest/TAR.B494EC0B78B0#^s-9c5a8b6f6989205b1144e439|Lietuvos Respublikos prekių ženklų įstatymas]] - Lietuvos Respublikos reklamos įstatymo
 - [[latest/TAR.B494EC0B78B0#^s-cf02a5e83b748a9343fbcf72|Lietuvos Respublikos prekių ženklų įstatymas]] - Lietuvos Respublikos reklamos įstatymo
 - [[latest/69c2779002b111e9a5eaf2cd290f1944#^s-ce4690b4bd6a1a2be9bfa7f8|Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatymo
-- [[latest/69c2779002b111e9a5eaf2cd290f1944#^s-d0b2f40f5d87e8a093dda940|Lietuvos Respublikos prekių ženklų įstatymo Nr. VIII-1981 pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatymo
-- [[latest/TAR.54FC55C97307#^s-ef73f65e5979e2f5d6e7b2e6|Lietuvos Respublikos reklamos įstatymo 1, 17, 19 straipsnių ir priedo pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos reklamos įstatymo
+- [[latest/TAR.54FC55C97307#^s-ef73f65e5979e2f5d6e7b2e6|Lietuvos Respublikos reklamos įstatymo 1, 17, 19 straipsnių ir priedo pakeitimo ir papildymo įstatymas]] - reklamos įstatymo
 - [[latest/TAR.2B74E1DEA323#^s-f1a198dcdc867e56e221e70f|Lietuvos Respublikos reklamos įstatymo 1, 2, 5, 6, 12, 17, 18, 22, 23, 24, 25 straipsnių ir priedo pakeitimo ir papildymo įstatymas]] - Reklamos įstatymo
 - [[latest/TAR.8CEEE7FBD953#^s-69dce9467bb4db9161984695|Lietuvos Respublikos reklamos įstatymo 1, 2, 5, 6, 18, 19, 21, 22, 23 straipsnių pakeitimo ir papildymo bei įstatymo papildymo priedu įstatymas]] - 2 citatos - Lietuvos Respublikos reklamos įstatymas
-- [[latest/ba3b0eb04c7411e8ade598b2394a491d#^s-3ad4ccd12f3bb6d5c3e99a55|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 12 ir 19 straipsnių pakeitimo įstatymo Nr. XIII-781 pripažinimo netekusiu galios įstatymas]] - įstatymo Nr. VIII-1871
-- [[latest/cf5d7210ccfe11ec8d9390588bf2de65#^s-3f727305ffa5fbefbdbfa90e|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 15 straipsnio ir priedo pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatymo
-- [[latest/f95f0520554111e9975f9c35aedfe438#^s-f92b482bb6d1c8f7fda69493|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos reklamos įstatymo
+- [[latest/41e9faf0105111ea9d279ea27696ab7b#^s-390b15ac8415d39e9a12f9dd|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 1 straipsnio ir priedo pakeitimo įstatymas]] - 1 punktą
+- [[latest/41e9faf0105111ea9d279ea27696ab7b#^s-7c24cf303614dfc62cc28f07|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 1 straipsnio ir priedo pakeitimo įstatymas]] - 7 punktu
+- [[latest/41e9faf0105111ea9d279ea27696ab7b#^s-f5ec1ebd371e9c769899d5ab|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 1 straipsnio ir priedo pakeitimo įstatymas]] - 3 citatos - 5
+- [[latest/681627101b2b11eeb233e8b04dc9bb3d#^s-0d311c3a191622c5a8c176d2|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 12 ir 19 straipsnių pakeitimo įstatymas]] - 12 straipsnio 5 dalį
+- [[latest/681627101b2b11eeb233e8b04dc9bb3d#^s-8bf5b47c83eb92efecc598a1|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 12 ir 19 straipsnių pakeitimo įstatymas]] - 19 straipsnio 1 dalies 3 punktą
+- [[latest/681627101b2b11eeb233e8b04dc9bb3d#^s-9ab104870dbaf954fe0f5878|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 12 ir 19 straipsnių pakeitimo įstatymas]] - 12 straipsnio 7 dalį
+- [[latest/ba3b0eb04c7411e8ade598b2394a491d#^s-3ad4ccd12f3bb6d5c3e99a55|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 12 ir 19 straipsnių pakeitimo įstatymo Nr. XIII-781 pripažinimo netekusiu galios įstatymas]] - 3 citatos - įstatymo Nr. VIII-1871
+- [[latest/40e13ba020aa11e5b336e9064144f02a#^s-29134e6498b81711ee888fde|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 14 straipsnio pakeitimo įstatymas]] - 14 straipsnį 8 dalimi
+- [[latest/cf5d7210ccfe11ec8d9390588bf2de65#^s-3f727305ffa5fbefbdbfa90e|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 15 straipsnio ir priedo pakeitimo įstatymas]] - reklamos įstatymo
+- [[latest/cf5d7210ccfe11ec8d9390588bf2de65#^s-55839605f12dcb8de12d157a|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 15 straipsnio ir priedo pakeitimo įstatymas]] - 15 straipsnio 2 dalį
+- [[latest/2d86dc902df211eabe008ea93139d588#^s-78fdbf116176bc2d48082752|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 15 straipsnio ir priedo pakeitimo įstatymas]] - 7 punktu
+- [[latest/2d86dc902df211eabe008ea93139d588#^s-9bbd96d41b4358ed99ddba32|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 15 straipsnio ir priedo pakeitimo įstatymas]] - 2 citatos - 15 straipsnis
+- [[latest/f95f0520554111e9975f9c35aedfe438#^s-17c6b030f5df32c6ef55d53c|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas]] - 6 citatos - 1
+- [[latest/f95f0520554111e9975f9c35aedfe438#^s-224a3930b2433ea1970ad2b1|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas]] - 14 straipsnio
+- [[latest/f95f0520554111e9975f9c35aedfe438#^s-2c124a22c4b981e48bf2a25d|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas]] - 6 citatos - 1
+- [[latest/f95f0520554111e9975f9c35aedfe438#^s-51db8cc9993ed5f2d25439a2|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas]] - 25 straipsnio 7 dalį
+- [[latest/f95f0520554111e9975f9c35aedfe438#^s-5b84c26dbec5ba841862de23|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas]] - 24 straipsnio 2 dalį
+- [[latest/f95f0520554111e9975f9c35aedfe438#^s-5ce7a44d374cdf0197e8b959|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas]] - 2 citatos - 19 straipsnis
+- [[latest/f95f0520554111e9975f9c35aedfe438#^s-996edcc82777f4cbec0df263|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas]] - 11 citatos - 8
+- [[latest/f95f0520554111e9975f9c35aedfe438#^s-c0eb1707bab26a862e463fcf|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas]] - 6 citatos - 1
+- [[latest/f95f0520554111e9975f9c35aedfe438#^s-da281af8b9ba771c9856b563|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas]] - 2 citatos - šio straipsnio 1 dalyje
 - [[latest/f95f0520554111e9975f9c35aedfe438#^s-ff231cc46305f67126148a01|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 19, 21, 24 ir 25 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos reklamos įstatymo
-- [[latest/784e12e04c7411e8ade598b2394a491d#^s-af6c9f22584e4bd7696a0398|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - Lietuvos Respublikos reklamos įstatymo
+- [[latest/fa61f870a73311ef90b5ee8931e5ce5e#^s-9328da6177c6c150324267f1|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2 ir 12 straipsnių pakeitimo įstatymas]] - 12 straipsnio 1 dalies 1 punktą
+- [[latest/fa61f870a73311ef90b5ee8931e5ce5e#^s-bc818141050e189fd0372b39|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2 ir 12 straipsnių pakeitimo įstatymas]] - 2 straipsnio 19 dalį
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-126e394c79510594a35f6b48|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 25 straipsnio 14 dalį
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-34fc90b742f213482ef3f5e9|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 25 straipsnio 5 dalies 6 punktą
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-41dd43f0822602a307dfd730|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 25 straipsnio 5 dalies 5 punktą
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-478bae659d25197a0c5c1a69|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 2 citatos - 12 straipsnis
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-49a6117849397238964a8c6e|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 7 citatos - 19 straipsnio 1 dalies 6 punktą
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-592aef533b5c45cc6209566c|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 19 straipsnio 1 dalies 4 punktą
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-633426c916b09262370823a2|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 21 straipsnio 3 dalį
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-6f3e12f3c4a6aa2020f679ed|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 7 citatos - 1
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-7d52ef2ec244ed292c732cf4|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 2 citatos - šio straipsnio 14 dalyje
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-9583863af51099a7defbba0c|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 25 straipsnio 15 dalį
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-9beb76e7574835a748fd670c|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 5 citatos - 1
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-b3f3f49057accc3b8ff09b43|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 19 straipsnio 1 dalies 5 punktą
 - [[latest/784e12e04c7411e8ade598b2394a491d#^s-cb4eca959c47295c89589a6b|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - Lietuvos Respublikos reklamos įstatymo
-- [[latest/31688ce0973f11e9ae2e9d61b1f977b3#^s-509ca02c5fbfc2730baff29f|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatymo
-- [[latest/31688ce0973f11e9ae2e9d61b1f977b3#^s-63b714f0a3a7bcdbb85ae3c6|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatymo
-- [[latest/31688ce0973f11e9ae2e9d61b1f977b3#^s-6f7be8e40675cf83f80241a6|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatymo
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-d19334874b06083487d5ee64|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 7 citatos - 1
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-e5ad9f8dd8eb745e16277153|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 2 citatos - 75 straipsnio 1 dalyje
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-eb2f7f26e305ee6de6880f90|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 2 citatos - 211 straipsnis
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-f0c7809e17d48d9b17fa806d|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 2 citatos - 14 straipsnis
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-f24e4b8f75064f8a0a4ba3a1|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 2 citatos - 15 straipsnis
+- [[latest/784e12e04c7411e8ade598b2394a491d#^s-f4e38bd137441dcb6a6d1137|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 2, 12, 14, 15, 19, 21, 24, 25, 26 straipsnių pakeitimo ir Įstatymo papildymo 21-1 straipsniu įstatymas]] - 26 straipsnio 1 dalį
+- [[latest/53ff09f055cc11e4b3a0e0257391d42c#^s-1d76ec0d2f140b5608f2259b|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas]] - 24 straipsnio 2 dalį
+- [[latest/31688ce0973f11e9ae2e9d61b1f977b3#^s-509ca02c5fbfc2730baff29f|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas]] - 2 citatos - 24 straipsnis
+- [[latest/31688ce0973f11e9ae2e9d61b1f977b3#^s-6f7be8e40675cf83f80241a6|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas]] - 3 citatos - 6
+- [[latest/53ff09f055cc11e4b3a0e0257391d42c#^s-7f1981b9e388c1ae047fa6a5|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas]] - 6 citatos - 1
+- [[latest/53ff09f055cc11e4b3a0e0257391d42c#^s-93f1ed026888e51a40634e49|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas]] - 16 citatos - 8
 - [[latest/31688ce0973f11e9ae2e9d61b1f977b3#^s-9acccbb10cb20b983e53b4f6|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatymo
+- [[latest/53ff09f055cc11e4b3a0e0257391d42c#^s-9b467941879a17f265a025a0|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas]] - 24 straipsnio 3 dalį
+- [[latest/31688ce0973f11e9ae2e9d61b1f977b3#^s-a0eef0ba5eeb9c732b7a81d2|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas]] - 65 citatos - 8
+- [[latest/31688ce0973f11e9ae2e9d61b1f977b3#^s-f2d2a0a41352aee0dce7a57a|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 24 straipsnio pakeitimo įstatymas]] - 6 citatos - 1
 - [[latest/faa56610502d11f180c9c618618421ed#^s-359aa59fa842f392d1ff203d|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 26 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatymo
-- [[latest/faa56610502d11f180c9c618618421ed#^s-f381abe91c16dd19ac38fa59|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 26 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatymo
+- [[latest/faa56610502d11f180c9c618618421ed#^s-3746ee311e6728e54872c784|Lietuvos Respublikos reklamos įstatymo Nr. VIII-1871 26 straipsnio pakeitimo įstatymas]] - 26 straipsnio 3 dalį
 - [[latest/TAR.391A0D624391#^s-0cb700451328918c041672d8|Lietuvos Respublikos reklamos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatymo 14 straipsnio 4 dalis
-- [[latest/TAR.391A0D624391#^s-4f72771521155a527330a6ee|Lietuvos Respublikos reklamos įstatymo pakeitimo įstatymas]] - 3 citatos - Lietuvos Respublikos reklamos įstatymo
 - [[latest/TAR.391A0D624391#^s-5a4fbdb1382a5e8e30796e5e|Lietuvos Respublikos reklamos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
-- [[latest/TAR.391A0D624391#^s-8b2bc2c125486fc4b505d588|Lietuvos Respublikos reklamos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatymo
+- [[latest/TAR.391A0D624391#^s-8b2bc2c125486fc4b505d588|Lietuvos Respublikos reklamos įstatymo pakeitimo įstatymas]] - reklamos įstatymo
 - [[latest/TAR.391A0D624391#^s-933e98bc6af56af0bbff8428|Lietuvos Respublikos reklamos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatymo 14 straipsnio 4 dalį
-- [[latest/TAR.391A0D624391#^s-a2c96ee93021c5355c109459|Lietuvos Respublikos reklamos įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS  REKLAMOS ĮSTATYMAS
+- [[latest/TAR.391A0D624391#^s-a2c96ee93021c5355c109459|Lietuvos Respublikos reklamos įstatymo pakeitimo įstatymas]] - LIETUVOS RESPUBLIKOS  REKLAMOS ĮSTATYMAS
 - [[latest/TAR.391A0D624391#^s-d5dd136d1cb3c07d5cbc243e|Lietuvos Respublikos reklamos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatymo
-- [[latest/TAR.391A0D624391#^s-f42b2d0f4aaa220fce383302|Lietuvos Respublikos reklamos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatymo
 - [[latest/TAR.5DC1759E42CB#^s-61a626ee37a8695aee2c08f4|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Reklamos įstatymas
-- [[latest/TAR.5DC1759E42CB#^s-f5e76387eb1e223f2f269465|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Reklamos įstatymas
 - [[latest/70fb9a90a73411ef90b5ee8931e5ce5e#^s-801733a8e1c588f2d9a88a42|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir 11 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/70fb9a90a73411ef90b5ee8931e5ce5e#^s-b37b8e332c91b4733828d6cf|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo Nr. VIII-2043 2 ir 11 straipsnio pakeitimo įstatymas]] - Reklamos įstatymas
-- [[latest/TAR.8D97CD7E1857#^s-022da9bf63e1c0318830ff4a|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo pakeitimo įstatymas]] - Reklamos įstatymas
 - [[latest/TAR.8D97CD7E1857#^s-c339b8d1b8126f931dab7a86|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo pakeitimo įstatymas]] - Reklamos įstatymas
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-3290bc11a393aa0fd24a4092|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Lietuvos Respublikos reklamos įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-5e3312708d7035474d0d29c1|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/ba03da02a73311ef90b5ee8931e5ce5e#^s-8350ac9c8153adba94959ac4|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2 ir 19 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
-- [[latest/af0add73325111f08fdabd4950271e2c#^s-0929d56b615a1096e6d8c100|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/af0add73325111f08fdabd4950271e2c#^s-d673e51301e19189a76c8fa7|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
-- [[latest/ea8fee50ac9311e6b844f0f29024f5ac#^s-20f107758450d2e866d7ef1a|Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas]] - Lietuvos Respublikos reklamos įstatymo
 - [[latest/ea8fee50ac9311e6b844f0f29024f5ac#^s-85cbb675ead66a891380d74a|Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymas]] - Lietuvos Respublikos reklamos įstatymo
-- [[latest/TAR.3E5A0E0D14C8#^s-45ac749bafe2902dbe01268c|Lietuvos Respublikos vartojimo kredito įstatymas]] - Lietuvos Respublikos reklamos įstatymo
 - [[latest/TAR.3E5A0E0D14C8#^s-610701f23a4206b9b6b98eaa|Lietuvos Respublikos vartojimo kredito įstatymas]] - Lietuvos Respublikos reklamos įstatymo
-- [[latest/f83a84908dc011e5a6f4e928c954d72b#^s-55754a78d4f00e4f47ee4e27|Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 1, 2, 3, 4, 5, 6, 8, 9, 11, 15, 16, 17, 20, 21, 22, 23, 24, 27, 28, 29, 31, 33, 34, 35, 36, 37, 38, 40 straipsnių, trečiojo ir penktojo skirsnių pavadinimų ir 1, 2 priedų pakeitimo ir Įstatymo papildymo 11-1, 14-1, 21-1, 22-1, 22-2, 23-1, 25-1 straipsniais ir penktuoju-1 skirsniu įstatymas]] - Lietuvos Respublikos reklamos įstatymo
 - [[latest/f83a84908dc011e5a6f4e928c954d72b#^s-e116f055e79ceda428dbcf6b|Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 1, 2, 3, 4, 5, 6, 8, 9, 11, 15, 16, 17, 20, 21, 22, 23, 24, 27, 28, 29, 31, 33, 34, 35, 36, 37, 38, 40 straipsnių, trečiojo ir penktojo skirsnių pavadinimų ir 1, 2 priedų pakeitimo ir Įstatymo papildymo 11-1, 14-1, 21-1, 22-1, 22-2, 23-1, 25-1 straipsniais ir penktuoju-1 skirsniu įstatymas]] - Lietuvos Respublikos reklamos įstatymo
 - [[latest/df9ce4f0dda011ec8d9390588bf2de65#^s-24ce37fbbc327ab7b7c25615|Lietuvos Respublikos veterinarinių vaistų įstatymas]] - Lietuvos Respublikos reklamos įstatymo
-- [[latest/df9ce4f0dda011ec8d9390588bf2de65#^s-b3d0548dbcc3089f3e2a9d82|Lietuvos Respublikos veterinarinių vaistų įstatymas]] - Lietuvos Respublikos reklamos įstatymo
 - [[latest/TAR.065AB8483E1E#^s-22f625e87ae68ab56c6ee61f|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/TAR.065AB8483E1E#^s-4506fea23286e9636dfc426d|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Reklamos įstatyme
-- [[latest/TAR.065AB8483E1E#^s-52f0f4f872b7e979e4258773|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/TAR.065AB8483E1E#^s-aca64670909f0355badd9810|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Reklamos įstatyme
-- [[latest/TAR.065AB8483E1E#^s-f48b47a9a38175043e47ce50|Lietuvos Respublikos visuomenės informavimo įstatymas]] - 2 citatos - Reklamos įstatymas
 - [[latest/TAR.065AB8483E1E#^s-f7876b83cc1ae2ccb23f9d5a|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Reklamos įstatymas
 - [[latest/TAR.0A0A728FEF4C#^s-cbeced4cfffa4da0a78be1e0|Lietuvos Respublikos visuomenės informavimo įstatymo 2, 5, 19, 22, 25, 26, 28, 31, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 44, 47, 48, 49, 50, 52, 54 straipsnių ir priedo pakeitimo, Įstatymo papildymo 34-1, 34-2, 40-1 straipsniais ir nauju trečiuoju skirsniu įstatymas]] - Reklamos įstatymas
-- [[latest/TAR.0A0A728FEF4C#^s-d9cb54150eee141c3da827c8|Lietuvos Respublikos visuomenės informavimo įstatymo 2, 5, 19, 22, 25, 26, 28, 31, 32, 33, 34, 35, 37, 38, 39, 40, 41, 42, 44, 47, 48, 49, 50, 52, 54 straipsnių ir priedo pakeitimo, Įstatymo papildymo 34-1, 34-2, 40-1 straipsniais ir nauju trečiuoju skirsniu įstatymas]] - Reklamos įstatymas
 - [[latest/e0838a10a80211ebbcbbc2971cdac3cb#^s-22be6e1533f30cb4818f9707|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2 ir 6 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
-- [[latest/56ceb2d05fdd11eb9dc7b575f08e8bea#^s-5810b682867328496b33e3c1|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 20, 22, 24, 25, 31, 33, 34, 34-1, 37, 38, 39, 40, 40-1, 40-3, 40-4, 43, 45, 47, 48, 51, 52 straipsnių pakeitimo, Įstatymo papildymo 32-1, 40-5 straipsniais, 34-2 straipsnio pripažinimo netekusiu galios ir Įstatymo trečiojo skirsnio pavadinimo pakeitimo įstatymas]] - 2 citatos - Reklamos įstatymas
 - [[latest/56ceb2d05fdd11eb9dc7b575f08e8bea#^s-6f5a455c7adc476a076ae2b2|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 20, 22, 24, 25, 31, 33, 34, 34-1, 37, 38, 39, 40, 40-1, 40-3, 40-4, 43, 45, 47, 48, 51, 52 straipsnių pakeitimo, Įstatymo papildymo 32-1, 40-5 straipsniais, 34-2 straipsnio pripažinimo netekusiu galios ir Įstatymo trečiojo skirsnio pavadinimo pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/56ceb2d05fdd11eb9dc7b575f08e8bea#^s-87e226ed3e4a9d45678f2dc2|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 20, 22, 24, 25, 31, 33, 34, 34-1, 37, 38, 39, 40, 40-1, 40-3, 40-4, 43, 45, 47, 48, 51, 52 straipsnių pakeitimo, Įstatymo papildymo 32-1, 40-5 straipsniais, 34-2 straipsnio pripažinimo netekusiu galios ir Įstatymo trečiojo skirsnio pavadinimo pakeitimo įstatymas]] - Reklamos įstatyme
-- [[latest/56ceb2d05fdd11eb9dc7b575f08e8bea#^s-b963c38833ec9277a49dbd2b|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 20, 22, 24, 25, 31, 33, 34, 34-1, 37, 38, 39, 40, 40-1, 40-3, 40-4, 43, 45, 47, 48, 51, 52 straipsnių pakeitimo, Įstatymo papildymo 32-1, 40-5 straipsniais, 34-2 straipsnio pripažinimo netekusiu galios ir Įstatymo trečiojo skirsnio pavadinimo pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/56ceb2d05fdd11eb9dc7b575f08e8bea#^s-dbb6fbcc865a2f74153a4bab|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 20, 22, 24, 25, 31, 33, 34, 34-1, 37, 38, 39, 40, 40-1, 40-3, 40-4, 43, 45, 47, 48, 51, 52 straipsnių pakeitimo, Įstatymo papildymo 32-1, 40-5 straipsniais, 34-2 straipsnio pripažinimo netekusiu galios ir Įstatymo trečiojo skirsnio pavadinimo pakeitimo įstatymas]] - Reklamos įstatyme
 - [[latest/56ceb2d05fdd11eb9dc7b575f08e8bea#^s-f939878453fe58ff14051554|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19, 20, 22, 24, 25, 31, 33, 34, 34-1, 37, 38, 39, 40, 40-1, 40-3, 40-4, 43, 45, 47, 48, 51, 52 straipsnių pakeitimo, Įstatymo papildymo 32-1, 40-5 straipsniais, 34-2 straipsnio pripažinimo netekusiu galios ir Įstatymo trečiojo skirsnio pavadinimo pakeitimo įstatymas]] - Reklamos įstatymas
 - [[latest/9a4b54c2502b11f180c9c618618421ed#^s-f81106aa022d92221ea51d27|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 19-1, 19-2, 48 ir 52 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/01e052b006c011ee9978886e85107ab2#^s-e009aefb7cc4b26a4f9f470e|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 47 ir 49 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos reklamos įstatyme
 - [[latest/379a1180e4b911ed9978886e85107ab2#^s-1c269a949269c175dcb642ed|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 6, 19, 24, 27, 28, 48 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 19-1, 19-2 straipsniais įstatymas]] - Lietuvos Respublikos reklamos įstatyme
-- [[latest/379a1180e4b911ed9978886e85107ab2#^s-40459cdf3b34027ce5058b4f|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 2, 6, 19, 24, 27, 28, 48 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 19-1, 19-2 straipsniais įstatymas]] - Lietuvos Respublikos reklamos įstatyme
-- [[latest/481c1300554311e9975f9c35aedfe438#^s-74e140e1503fba793bb75bd3|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 39 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos reklamos įstatymo
 - [[latest/481c1300554311e9975f9c35aedfe438#^s-cfc710fb76592477ca2cd642|Lietuvos Respublikos visuomenės informavimo įstatymo Nr. I-1418 39 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos reklamos įstatymo

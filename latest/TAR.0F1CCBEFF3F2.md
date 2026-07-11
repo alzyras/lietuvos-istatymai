@@ -49,7 +49,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 „11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 
-1. Šio įstatymo 4 straipsnio 3 dalis, 5 straipsnio 3 dalis, 6 straipsnyje išdėstyto [[latest/TAR.8D38517814F1#^s-17dd154ccf2f7b65c087b1ca|Atliekų tvarkymo įstatymo 30 straipsnio]] 8 ir 14 dalys įsigalioja 2012 m. spalio 1 d., šio įstatymo 6 straipsnyje išdėstyto [[latest/TAR.8D38517814F1#^s-17dd154ccf2f7b65c087b1ca|Atliekų tvarkymo įstatymo 30 straipsnio]] 16 ir 18 dalys įsigalioja 2013 m. sausio 1 d., šio įstatymo 7 ir 8 straipsniai – 2013 m. liepos 1 d. ^s-b91fef77d954c61649d14137
+1. Šio įstatymo 4 straipsnio 3 dalis, 5 straipsnio 3 dalis, 6 straipsnyje išdėstyto [[latest/TAR.8D38517814F1#^s-17dd154ccf2f7b65c087b1ca|Atliekų tvarkymo įstatymo 30 straipsnio]] [[latest/TAR.8D38517814F1#^s-9df0de428f47c245cec2c6ec|8]] ir [[latest/TAR.8D38517814F1#^s-3a59628e69ae1e7cd2962b75|14]] dalys įsigalioja 2012 m. spalio 1 d., šio įstatymo 6 straipsnyje išdėstyto [[latest/TAR.8D38517814F1#^s-17dd154ccf2f7b65c087b1ca|Atliekų tvarkymo įstatymo 30 straipsnio]] [[latest/TAR.8D38517814F1#^s-084c5ce39fbe93a36ab30455|16]] ir [[latest/TAR.8D38517814F1#^s-5c235684919fb08f42613d9b|18]] dalys įsigalioja 2013 m. sausio 1 d., šio įstatymo 7 ir 8 straipsniai – 2013 m. liepos 1 d. ^s-b91fef77d954c61649d14137
 
 
 2. Vyriausybė ar kitos valstybės ar savivaldybių institucijos atitinkamai iki 2012 m. rugsėjo 30 d., 2012 m. gruodžio 31 d. arba iki 2013 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus.“ ^s-f13ff610671e8dff4bd52bf5

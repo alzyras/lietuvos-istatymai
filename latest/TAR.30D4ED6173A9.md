@@ -132,7 +132,7 @@ Vilnius
 ### 7 straipsnis. 24 straipsnio 2, 5 ir 6 dalių pakeitimas ^s-d41de0b2a58b0ae6f09145ab
 
 
-24 straipsnio 2, 5 ir [[#^s-7270692045e448e04ae21e16|6 dalyse]] vietoj žodžių „apskričių valdytojų“, „apskrities valdytojo“ įrašyti atitinkamai žodžius „apskričių viršininkų“, „apskrities viršininko“ ir šias dalis išdėstyti taip:
+24 straipsnio 2, 5 ir 6 dalyse vietoj žodžių „apskričių valdytojų“, „apskrities valdytojo“ įrašyti atitinkamai žodžius „apskričių viršininkų“, „apskrities viršininko“ ir šias dalis išdėstyti taip:
 
 
 „2. Statybos valstybinę priežiūrą atlieka apskričių viršininkų administracijos statybų valstybinės priežiūros tarnybos, kurių veiklos atitikimą šio įstatymo nuostatoms tikrina Vyriausybė arba jos įgaliota valstybės valdžios institucija.“

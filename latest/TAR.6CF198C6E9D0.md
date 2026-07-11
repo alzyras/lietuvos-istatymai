@@ -622,22 +622,22 @@ priedas
 
 
 
-1. 1993 m. spalio 12 d. Tarybos reglamentas (EEB) Nr. 2847/93, nustatantis bendrosios žuvininkystės politikos kontrolės sistemą (su paskutiniais pakeitimais, padarytais 2003 m. balandžio 14 d. Tarybos reglamentu (EB) Nr. 806/2003). ^s-a09aa037618bb1f7a8d2eaeb
+1. 1993 m. spalio 12 d. Tarybos [reglamentas (EEB) Nr. 2847/93](https://eur-lex.europa.eu/eli/reg/2847/93/oj), nustatantis bendrosios žuvininkystės politikos kontrolės sistemą (su paskutiniais pakeitimais, padarytais 2003 m. balandžio 14 d. Tarybos reglamentu (EB) Nr. 806/2003). ^s-a09aa037618bb1f7a8d2eaeb
 
 
-2. 1999 m. birželio 21 d. Tarybos reglamentas (EB) Nr. 1263/1999 dėl Žuvininkystės orientavimo finansinio instrumento. ^s-da486460e4f866ec1c209ad8
+2. 1999 m. birželio 21 d. Tarybos [reglamentas (EB) Nr. 1263/1999](https://eur-lex.europa.eu/eli/reg/1263/1999/oj) dėl Žuvininkystės orientavimo finansinio instrumento. ^s-da486460e4f866ec1c209ad8
 
 
-3. 1999 m. gruodžio 17 d. Tarybos reglamentas (EB) Nr. 2792/1999, nustatantis išsamias Bendrijos struktūrinės paramos žuvininkystės sektoriuje taisykles ir tvarką (su paskutiniais pakeitimais, padarytais 2002 m. gruodžio 20 d. Tarybos reglamentu (EB) Nr. 2369/2002). ^s-c7dacaae8cebe938386b980d
+3. 1999 m. gruodžio 17 d. Tarybos [reglamentas (EB) Nr. 2792/1999](https://eur-lex.europa.eu/eli/reg/2792/1999/oj), nustatantis išsamias Bendrijos struktūrinės paramos žuvininkystės sektoriuje taisykles ir tvarką (su paskutiniais pakeitimais, padarytais 2002 m. gruodžio 20 d. Tarybos [reglamentu (EB) Nr. 2369/2002](https://eur-lex.europa.eu/eli/reg/2369/2002/oj)). ^s-c7dacaae8cebe938386b980d
 
 
 4. 1999 m. gruodžio 17 d. Tarybos reglamentas (EB) Nr. 104/2000 dėl bendro žuvininkystės ir akvakultūros produktų rinkų organizavimo. ^s-8c4d6da0f2db878e0cc69759
 
 
-5. 2000 m. birželio 29 d. Tarybos reglamentas (EB) Nr. 1543/2000, nustatantis duomenų, būtinų Bendrijos bendrosios žuvininkystės politikos vykdymui, rinkimo ir tvarkymo sistemą. ^s-a2c46af0ce448cfa7408b42b
+5. 2000 m. birželio 29 d. Tarybos [reglamentas (EB) Nr. 1543/2000](https://eur-lex.europa.eu/eli/reg/1543/2000/oj), nustatantis duomenų, būtinų Bendrijos bendrosios žuvininkystės politikos vykdymui, rinkimo ir tvarkymo sistemą. ^s-a2c46af0ce448cfa7408b42b
 
 
-6. 2002 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 2371/2002 dėl žuvų išteklių išsaugojimo ir tausojančio naudojimo pagal bendrąją žuvininkystės politiką. ^s-509e7f8efb80558730404d34
+6. 2002 m. gruodžio 20 d. Tarybos [reglamentas (EB) Nr. 2371/2002](https://eur-lex.europa.eu/eli/reg/2371/2002/oj) dėl žuvų išteklių išsaugojimo ir tausojančio naudojimo pagal bendrąją žuvininkystės politiką. ^s-509e7f8efb80558730404d34
 
 
 7. 2003 m. gruodžio 30 d. Komisijos reglamentas (EB) Nr. 26/2004 dėl Bendrijos žvejybos laivų registro.“ ^s-c9bd3a7792ab2aa31a3249cc

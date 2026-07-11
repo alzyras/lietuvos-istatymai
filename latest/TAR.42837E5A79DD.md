@@ -63,7 +63,7 @@ Nr. XIII-2348, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12439
 3. Šis Įstatymas netaikomas užsieniečiams, kurie naudojasi privilegijomis ir imunitetais pagal Lietuvos Respublikos tarptautines sutartis ir kitus teisės aktus. ^s-11e9cff846b3e5507ed28220
 
 
-4. Kitų Lietuvos Respublikos įstatymų nuostatos šio Įstatymo reglamentuojamiems teisiniams santykiams taikomos tiek, kiek jų nereglamentuoja šis Įstatymas, išskyrus šio straipsnio 5, 6 ir [[#^s-92115b03531f4cde6b7f6913|7 dalyse]] nurodytas išimtis. ^s-a61b6b76f79e81c5cf4de2d9
+4. Kitų Lietuvos Respublikos įstatymų nuostatos šio Įstatymo reglamentuojamiems teisiniams santykiams taikomos tiek, kiek jų nereglamentuoja šis Įstatymas, išskyrus šio straipsnio [[#^s-7a1deee2e83bc3677d0c41ed|5]], [[#^s-3b99095f27c32fc50f2f7674|6]] ir [[#^s-92115b03531f4cde6b7f6913|7]] dalyse nurodytas išimtis. ^s-a61b6b76f79e81c5cf4de2d9
 Straipsnio dalies pakeitimai:
 Nr. XIII-2078, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07317
 Nr. XIII-3162, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15493
@@ -165,7 +165,7 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 10. Kelionės dokumentas – užsienio valstybės piliečio pasas ar jį atitinkantis dokumentas, skirtas vykti į užsienio valstybę bei pripažintas Lietuvos Respublikoje. ^s-c549e0b894ced35b6dbb68c5
 
 
-101. Kelionės leidimas – sprendimas, priimtas pagal Reglamentą (ES) 2018/1240. ^s-6fd7583c0f8a9eb73a09ba83
+101. Kelionės leidimas – sprendimas, priimtas pagal [Reglamentą (ES) 2018/1240](https://eur-lex.europa.eu/eli/reg/2018/1240/oj). ^s-6fd7583c0f8a9eb73a09ba83
 Papildyta straipsnio dalimi:
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
@@ -478,7 +478,7 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 33. Viza – į užsieniečio kelionės dokumentą įklijuojamas įklijos formos leidimas, leidžiantis atvykti į Lietuvos Respubliką, būti joje ar vykti tranzitu. ^s-34adc516886ed44122abfef6
 
 
-34. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Reglamente (EB) Nr. 810/2009 (toliau – Vizų kodeksas), 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB, ir Reglamente (ES) 2018/1240. ^s-317227619c6466aad631f2d2
+34. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Reglamente (EB) Nr. 810/2009 (toliau – Vizų kodeksas), 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 910/2014 dėl elektroninės atpažinties ir elektroninių operacijų patikimumo užtikrinimo paslaugų vidaus rinkoje, kuriuo panaikinama Direktyva 1999/93/EB, ir [Reglamente (ES) 2018/1240](https://eur-lex.europa.eu/eli/reg/2018/1240/oj). ^s-317227619c6466aad631f2d2
 Papildyta straipsnio dalimi:
 Nr. XIII-2348, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12439
 Straipsnio dalies pakeitimai:
@@ -502,7 +502,7 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 ### 3 straipsnis. Užsieniečių teisės ir pareigos Lietuvos Respublikoje ^s-f30149cd155290b85d4caf25
 
 
-1. Užsieniečiai Lietuvos Respublikoje turi tas teises ir laisves, kurias numato Lietuvos Respublikos Konstitucija, tarptautinės sutartys, Lietuvos Respublikos įstatymai ir Europos Sąjungos teisės aktai. ^s-29754cbbd5241e376db6d76d
+1. Užsieniečiai Lietuvos Respublikoje turi tas teises ir laisves, kurias numato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), tarptautinės sutartys, Lietuvos Respublikos įstatymai ir Europos Sąjungos teisės aktai. ^s-29754cbbd5241e376db6d76d
 
 
 2. Užsieniečiai Lietuvos Respublikoje yra lygūs pagal įstatymus, neatsižvelgiant į jų lytį, rasę, tautybę, kalbą, kilmę, socialinę padėtį, tikėjimą, įsitikinimus ar pažiūras. ^s-3fa3e82a985e71bf96a32021
@@ -562,7 +562,7 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-7. Užsieniečiams, gavusiems prieglobstį, užsieniečiams, kuriems išduotas leidimas laikinai gyventi šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 8 ar 10 punkte nustatytu pagrindu, ir pažeidžiamiems užsieniečiams, kurių išsiuntimo iš Lietuvos Respublikos vykdymas sustabdytas dėl šio Įstatymo [[#^s-22b4c47cf266fcfcb85dc43c|128 straipsnio 2 dalies]] 2, 3 ir 4 punktuose nurodytų aplinkybių, savo lėšomis, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais, tvarka ir sąlygomis gali būti leista laikinai apsigyventi laikino apgyvendinimo vietose, jeigu jose yra laisvų vietų. Apmokėjimo už gyvenimą laikino apgyvendinimo vietose tvarką nustato socialinės apsaugos ir darbo ministras. Lietuvos Respublikos Vyriausybės nustatytais atvejais Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka šioje dalyje nurodytiems užsieniečiams leidžiama laikinai apsigyventi laikino apgyvendinimo vietose neatlygintinai. Tokiu atveju Lietuvos Respublikos valstybės biudžeto lėšos naudojamos tiek, kiek apgyvendinimo sąnaudos nedengiamos Europos Sąjungos struktūrinių fondų ir Lietuvos Respublikos fizinių ir juridinių asmenų įsteigtų humanitarinės pagalbos fondų lėšomis. ^s-a63f7665d0093bba0f854333
+7. Užsieniečiams, gavusiems prieglobstį, užsieniečiams, kuriems išduotas leidimas laikinai gyventi šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] [[#^s-e58ee29c5023a5cdf4ea6fff|8]] ar [[#^s-c12176fb5015800a18189c20|10]] punkte nustatytu pagrindu, ir pažeidžiamiems užsieniečiams, kurių išsiuntimo iš Lietuvos Respublikos vykdymas sustabdytas dėl šio Įstatymo [[#^s-22b4c47cf266fcfcb85dc43c|128 straipsnio 2 dalies]] [[#^s-8dfb487b66eebabbc5458265|2]], [[#^s-18422f8c806b9ea276a731dd|3]] ir [[#^s-d303810bdf5d11698286d8a9|4]] punktuose nurodytų aplinkybių, savo lėšomis, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais, tvarka ir sąlygomis gali būti leista laikinai apsigyventi laikino apgyvendinimo vietose, jeigu jose yra laisvų vietų. Apmokėjimo už gyvenimą laikino apgyvendinimo vietose tvarką nustato socialinės apsaugos ir darbo ministras. Lietuvos Respublikos Vyriausybės nustatytais atvejais Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka šioje dalyje nurodytiems užsieniečiams leidžiama laikinai apsigyventi laikino apgyvendinimo vietose neatlygintinai. Tokiu atveju Lietuvos Respublikos valstybės biudžeto lėšos naudojamos tiek, kiek apgyvendinimo sąnaudos nedengiamos Europos Sąjungos struktūrinių fondų ir Lietuvos Respublikos fizinių ir juridinių asmenų įsteigtų humanitarinės pagalbos fondų lėšomis. ^s-a63f7665d0093bba0f854333
 Papildyta straipsnio dalimi:
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
@@ -664,7 +664,7 @@ Nr. XIV-2427, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25931
 
 
 
-1. Užsieniečiams, atvykstantiems į Lietuvos Respubliką ir išvykstantiems iš jos, taikomos Reglamento (ES) 2016/399 (toliau – Šengeno sienų kodeksas) nuostatos. ^s-37ef2fff9b4d98b54615e71a
+1. Užsieniečiams, atvykstantiems į Lietuvos Respubliką ir išvykstantiems iš jos, taikomos [Reglamento (ES) 2016/399](https://eur-lex.europa.eu/eli/reg/2016/399/oj) (toliau – Šengeno sienų kodeksas) nuostatos. ^s-37ef2fff9b4d98b54615e71a
 
 
 2. Užsieniečių buvimas Lietuvos Respublikos tarptautinių oro uostų tranzito zonose (toliau – tranzito zonos) nelaikomas atvykimu į Lietuvos Respublikos teritoriją. Užsieniečių, pateikusių prašymą suteikti prieglobstį pasienio kontrolės punktuose, tranzito zonose ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo, buvimas [[#^s-3a50d99f5b3224ea59a292ca|šio straipsnio 6 dalyje]] nurodytose laikino apgyvendinimo vietose nelaikomas atvykimu į Lietuvos Respublikos teritoriją, iki priimamas sprendimas įleisti prieglobsčio prašytoją į Lietuvos Respubliką. ^s-464e722bf6844b8e4594993f
@@ -699,7 +699,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-41. [[#^s-7e8cd831684e3b6af391a83f|Šio straipsnio 4 dalyje]] nurodytam užsieniečiui teisė likti Lietuvos Respublikos teritorijoje nesuteikiama, jeigu užsienietis pateikia paskesnį prašymą suteikti prieglobstį, kuriame nėra naujų esminių motyvų, tik siekdamas atidėti ar sutrukdyti įvykdyti sprendimą išsiųsti užsienietį iš Lietuvos Respublikos, kuriuo remiantis jis būtų artimiausiu metu išsiųstas, arba jeigu užsienietis pateikia naują paskesnį prašymą, kai dėl ankstesnio paskesnio prašymo suteikti prieglobstį yra priimtas galutinis sprendimas, ir nėra šio Įstatymo [[#^s-fb509ab16fff6dd33edbf248|130 straipsnio]] 1 ir [[#^s-464e722bf6844b8e4594993f|2 dalyse]] nurodytų priežasčių, dėl kurių negalima jo išsiųsti iš Lietuvos Respublikos. ^s-e60859d4f8991a8d9bce9e72
+41. [[#^s-7e8cd831684e3b6af391a83f|Šio straipsnio 4 dalyje]] nurodytam užsieniečiui teisė likti Lietuvos Respublikos teritorijoje nesuteikiama, jeigu užsienietis pateikia paskesnį prašymą suteikti prieglobstį, kuriame nėra naujų esminių motyvų, tik siekdamas atidėti ar sutrukdyti įvykdyti sprendimą išsiųsti užsienietį iš Lietuvos Respublikos, kuriuo remiantis jis būtų artimiausiu metu išsiųstas, arba jeigu užsienietis pateikia naują paskesnį prašymą, kai dėl ankstesnio paskesnio prašymo suteikti prieglobstį yra priimtas galutinis sprendimas, ir nėra šio Įstatymo [[#^s-fb509ab16fff6dd33edbf248|130 straipsnio]] [[#^s-7e41076c0b40a92536c9bae7|1]] ir [[#^s-a9d5349ea4a6014e5fe83da4|2]] dalyse nurodytų priežasčių, dėl kurių negalima jo išsiųsti iš Lietuvos Respublikos. ^s-e60859d4f8991a8d9bce9e72
 Papildyta straipsnio dalimi:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
@@ -727,7 +727,7 @@ Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
 
 
 
-9. Kai pagal šio straipsnio 3 ar [[#^s-1aeb75c12afcf123924a3f62|8 dalį]] priimamas sprendimas įleisti prieglobsčio prašytoją į Lietuvos Respubliką ir yra šio Įstatymo [[#^s-064e0c2d18fffe27eb2959a0|113 straipsnio 4 dalyje]] nurodytas bent vienas užsieniečio sulaikymo pagrindas, Valstybės sienos apsaugos tarnyba kreipiasi į teismą dėl užsieniečio sulaikymo ar alternatyvios sulaikymui priemonės skyrimo. ^s-ff3fed8fddbb1daa438aeead
+9. Kai pagal šio straipsnio [[#^s-b934573429ed7040b61cd7f8|3]] ar [[#^s-1aeb75c12afcf123924a3f62|8]] dalį priimamas sprendimas įleisti prieglobsčio prašytoją į Lietuvos Respubliką ir yra šio Įstatymo [[#^s-064e0c2d18fffe27eb2959a0|113 straipsnio 4 dalyje]] nurodytas bent vienas užsieniečio sulaikymo pagrindas, Valstybės sienos apsaugos tarnyba kreipiasi į teismą dėl užsieniečio sulaikymo ar alternatyvios sulaikymui priemonės skyrimo. ^s-ff3fed8fddbb1daa438aeead
 Straipsnio dalies pakeitimai:
 Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
 
@@ -739,7 +739,7 @@ Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
 11. Užsienietis, kuriam buvo išduotas leidimas laikinai gyventi šio Įstatymo [[#^s-b9632fcb1a84760e8881f689|40 straipsnio 1 dalies 42 punkte]] nustatytu pagrindu, išskyrus leidimą laikinai gyventi, išduotą pagal šio Įstatymo [[#^s-229bc04e5d732ccde0369519|442 straipsnio 9 dalį]], ir jo šeimos nariai, kuriems buvo išduoti leidimai laikinai gyventi šeimos susijungimo su šiuo užsieniečiu pagrindu, gali atvykti į Lietuvos Respubliką iš kitos Europos Sąjungos valstybės narės, kurioje į priimančiąją įmonę užsienietis buvo perkeltas įmonės viduje, ir tais atvejais, jeigu leidimas laikinai gyventi Lietuvos Respublikoje nebegalioja arba užsieniečio perkėlimo įmonės viduje į priimančiąją įmonę kitoje Europos Sąjungos valstybėje narėje laikotarpiu leidimas laikinai gyventi Lietuvos Respublikoje buvo panaikintas. Sprendimą dėl šių užsieniečių įleidimo į Lietuvos Respubliką priima Migracijos departamentas, gavęs kitos Europos Sąjungos valstybės narės, į kurią užsienietis buvo perkeltas įmonės viduje, prašymą. Šių užsieniečių teisinė padėtis Lietuvos Respublikoje nustatoma pagal šį Įstatymą. ^s-f9c971d631be1514eb6f0cae
 
 
-12. Užsienietis, kuriam buvo išduotas leidimas laikinai gyventi šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 6 ar 13 punkte nustatytu pagrindu, ir jo šeimos nariai, kuriems buvo išduoti leidimai laikinai gyventi šeimos susijungimo su šiuo užsieniečiu pagrindu, gali atvykti į Lietuvos Respubliką iš kitos Europos Sąjungos valstybės narės, į kurią užsienietis išvyko tęsti dalį studijų arba vykdyti dalį savo mokslinių tyrimų ir eksperimentinės plėtros darbų, ir tais atvejais, jeigu leidimas laikinai gyventi Lietuvos Respublikoje buvimo kitoje Europos Sąjungos valstybėje narėje laikotarpiu tapo negaliojantis arba buvo panaikintas. Sprendimą dėl šių užsieniečių įleidimo į Lietuvos Respubliką priima Migracijos departamentas, gavęs kitos Europos Sąjungos valstybės narės, kuri užsienietį įpareigojo išvykti, prašymą. Šių užsieniečių teisinė padėtis Lietuvos Respublikoje nustatoma pagal šį Įstatymą. ^s-c971c5eaf0c29ae8058ff4ed
+12. Užsienietis, kuriam buvo išduotas leidimas laikinai gyventi šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] [[#^s-b6750d92d8ce4593dcc91ee6|6]] ar [[#^s-b872b6ca39e84c336aac8b7b|13]] punkte nustatytu pagrindu, ir jo šeimos nariai, kuriems buvo išduoti leidimai laikinai gyventi šeimos susijungimo su šiuo užsieniečiu pagrindu, gali atvykti į Lietuvos Respubliką iš kitos Europos Sąjungos valstybės narės, į kurią užsienietis išvyko tęsti dalį studijų arba vykdyti dalį savo mokslinių tyrimų ir eksperimentinės plėtros darbų, ir tais atvejais, jeigu leidimas laikinai gyventi Lietuvos Respublikoje buvimo kitoje Europos Sąjungos valstybėje narėje laikotarpiu tapo negaliojantis arba buvo panaikintas. Sprendimą dėl šių užsieniečių įleidimo į Lietuvos Respubliką priima Migracijos departamentas, gavęs kitos Europos Sąjungos valstybės narės, kuri užsienietį įpareigojo išvykti, prašymą. Šių užsieniečių teisinė padėtis Lietuvos Respublikoje nustatoma pagal šį Įstatymą. ^s-c971c5eaf0c29ae8058ff4ed
 
 
 Straipsnio pakeitimai:
@@ -869,10 +869,10 @@ Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 
 
-1. Užsieniečio, kuris nėra Europos Sąjungos valstybės narės pilietis, atvykimui į Lietuvos Respubliką ir buvimui joje taikomos Reglamento (ES) 2018/1806, nustatančio trečiųjų šalių, kurių piliečiai, kirsdami išorines sienas, privalo turėti vizas, ir trečiųjų šalių, kurių piliečiams tas reikalavimas netaikomas, sąrašus (toliau – Vizų režimo reglamentas), nuostatos. Lietuvos Respublikos Vyriausybė Vizų režimo reglamento nustatytais atvejais gali taikyti vizų režimo išimtis. ^s-c20dfaa4a114d8de3b9a2025
+1. Užsieniečio, kuris nėra Europos Sąjungos valstybės narės pilietis, atvykimui į Lietuvos Respubliką ir buvimui joje taikomos [Reglamento (ES) 2018/1806](https://eur-lex.europa.eu/eli/reg/2018/1806/oj), nustatančio trečiųjų šalių, kurių piliečiai, kirsdami išorines sienas, privalo turėti vizas, ir trečiųjų šalių, kurių piliečiams tas reikalavimas netaikomas, sąrašus (toliau – Vizų režimo reglamentas), nuostatos. Lietuvos Respublikos Vyriausybė Vizų režimo reglamento nustatytais atvejais gali taikyti vizų režimo išimtis. ^s-c20dfaa4a114d8de3b9a2025
 
 
-2. Užsienietis, kuriam taikomas bevizis režimas, turi teisę atvykti į Lietuvos Respubliką ir būti Lietuvos Respublikoje turėdamas galiojantį kelionės leidimą, jeigu to reikalaujama pagal Reglamentą (ES) 2018/1240, bet jo buvimas Lietuvos Respublikoje ir kitose Šengeno valstybėse negali trukti ilgiau negu 90 dienų per bet kurį 180 dienų laikotarpį. Užsienietis, turintis riboto teritorinio galiojimo kelionės leidimą, išduotą pagal Reglamento (ES) 2018/1240 [[#^s-7a0a61352e525cdcb3fee664|44 straipsnį]], suteikiantį teisę būti Lietuvos Respublikos teritorijoje, gali atvykti į Lietuvos Respubliką ir būti joje ne ilgiau kaip 90 dienų nuo pirmo atvykimo su šiuo leidimu dienos. ^s-bec06f83eebdfe4f5b8a5b51
+2. Užsienietis, kuriam taikomas bevizis režimas, turi teisę atvykti į Lietuvos Respubliką ir būti Lietuvos Respublikoje turėdamas galiojantį kelionės leidimą, jeigu to reikalaujama pagal [Reglamentą (ES) 2018/1240](https://eur-lex.europa.eu/eli/reg/2018/1240/oj), bet jo buvimas Lietuvos Respublikoje ir kitose Šengeno valstybėse negali trukti ilgiau negu 90 dienų per bet kurį 180 dienų laikotarpį. Užsienietis, turintis riboto teritorinio galiojimo kelionės leidimą, išduotą pagal [Reglamento (ES) 2018/1240 44 straipsnį](https://eur-lex.europa.eu/eli/reg/2018/1240/art_44/oj), suteikiantį teisę būti Lietuvos Respublikos teritorijoje, gali atvykti į Lietuvos Respubliką ir būti joje ne ilgiau kaip 90 dienų nuo pirmo atvykimo su šiuo leidimu dienos. ^s-bec06f83eebdfe4f5b8a5b51
 Straipsnio dalies pakeitimai:
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
@@ -917,7 +917,7 @@ Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 
 
-11. Į Lietuvos Respublikos jūrų uostus atplaukusių laivų civiliams įgulų nariams, kurie turi jūrininko tapatybės dokumentus, išduotus vadovaujantis Tarptautinės darbo organizacijos konvencijomis – 1958 m. gegužės 13 d. Konvencija Nr. 108 dėl jūreivių nacionalinių asmens pažymėjimų arba 2003 m. birželio 16 d. Konvencija Nr. 185 dėl jūrininkų nacionalinių asmens pažymėjimų (pataisyta) – arba 1965 m. balandžio 9 d. Tarptautinės jūrų organizacijos konvencija dėl tarptautinės jūrų laivybos sąlygų lengvinimo, taip pat civiliams jūrininkams, kurie atvyko į laivą vizos galiojimo laiku ir yra įtraukti į laivo įgulos sąrašą ir kurie turi šioje dalyje nurodytus jūrininko tapatybės dokumentus, leidžiama be vizos išlipti į krantą Lietuvos Respublikoje ir būti savivaldybės, į kurią įplaukia jų laivas, teritorijoje tol, kol laivas stovi uoste, bet ne ilgiau kaip šešis mėnesius. ^s-f17cf1ee361e387eccf279b8
+11. Į Lietuvos Respublikos jūrų uostus atplaukusių laivų civiliams įgulų nariams, kurie turi jūrininko tapatybės dokumentus, išduotus vadovaujantis Tarptautinės darbo organizacijos konvencijomis – 1958 m. gegužės 13 d. [Konvencija Nr. 108 dėl jūreivių nacionalinių asmens pažymėjimų](https://e-tar.lt/portal/lt/legalAct/TAR.A6A9FDD4A0B3) arba 2003 m. birželio 16 d. Konvencija Nr. 185 dėl jūrininkų nacionalinių asmens pažymėjimų (pataisyta) – arba 1965 m. balandžio 9 d. [Tarptautinės jūrų organizacijos konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.5B1D74CE3269) dėl tarptautinės jūrų laivybos sąlygų lengvinimo, taip pat civiliams jūrininkams, kurie atvyko į laivą vizos galiojimo laiku ir yra įtraukti į laivo įgulos sąrašą ir kurie turi šioje dalyje nurodytus jūrininko tapatybės dokumentus, leidžiama be vizos išlipti į krantą Lietuvos Respublikoje ir būti savivaldybės, į kurią įplaukia jų laivas, teritorijoje tol, kol laivas stovi uoste, bet ne ilgiau kaip šešis mėnesius. ^s-f17cf1ee361e387eccf279b8
 
 
 Straipsnio pakeitimai:
@@ -1064,7 +1064,7 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 11) jis nepateikia leidimo dirbti, kai jį būtina turėti; ^s-41a95e611254119d82fe2a9d
 
 
-12) dėl jo kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal Reglamento (ES) 2018/1861 nuostatas ar perspėjimą dėl užsieniečio grąžinimo pagal Reglamento (ES) 2018/1860 nuostatas kartu su draudimu atvykti arba jis yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą; ^s-da632e080edd2856e2520cbe
+12) dėl jo kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo pagal [Reglamento (EB) Nr. 1987/2006](https://eur-lex.europa.eu/eli/reg/1987/2006/oj) nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal [Reglamento (ES) 2018/1861](https://eur-lex.europa.eu/eli/reg/2018/1861/oj) nuostatas ar perspėjimą dėl užsieniečio grąžinimo pagal [Reglamento (ES) 2018/1860](https://eur-lex.europa.eu/eli/reg/2018/1860/oj) nuostatas kartu su draudimu atvykti arba jis yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą; ^s-da632e080edd2856e2520cbe
 Straipsnio punkto pakeitimai:
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
@@ -1103,7 +1103,7 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 ### 201 straipsnis. Sprendimų dėl kelionės leidimų priėmimas ^s-8ce3564c4ea83edd887d428c
 
 
-Sprendimus dėl kelionės leidimo išdavimo ar atsisakymo jį išduoti, jo panaikinimo arba atšaukimo priima Valstybės sienos apsaugos tarnyba, vadovaudamasi Reglamento (ES) 2018/1240 nuostatomis, vidaus reikalų ministro nustatyta ir su užsienio reikalų ministru suderinta tvarka.
+Sprendimus dėl kelionės leidimo išdavimo ar atsisakymo jį išduoti, jo panaikinimo arba atšaukimo priima Valstybės sienos apsaugos tarnyba, vadovaudamasi [Reglamento (ES) 2018/1240](https://eur-lex.europa.eu/eli/reg/2018/1240/oj) nuostatomis, vidaus reikalų ministro nustatyta ir su užsienio reikalų ministru suderinta tvarka.
 
 
 Papildyta straipsniu:
@@ -1298,10 +1298,10 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 4) šio Įstatymo [[#^s-c01ecc2419d8896ea1ca60e5|124 straipsnio 3 dalyje]] nurodyti užsieniečiai – kol sustabdytas Įstatymo [[#^s-c01ecc2419d8896ea1ca60e5|124 straipsnio 3 dalyje]] nurodytų sprendimų vykdymas; šie užsieniečiai teisės likti Lietuvos Respublikos teritorijoje laikotarpiu turi teisę dirbti arba vykdyti savarankišką veiklą, jeigu šias teises buvo įgiję iki teisės likti Lietuvos Respublikos teritorijoje įgijimo; ^s-b1bb409b9f53225e77ed1ffc
 
 
-5) kurie vidaus reikalų ministro nustatyta tvarka ir joje nustatytais terminais yra pateikę prašymą pakeisti leidimą laikinai gyventi arba turėdami leidimą laikinai gyventi yra pateikę prašymą išduoti leidimą laikinai gyventi kitu pagrindu, jeigu prašymo nagrinėjimo metu baigė galioti jų turimas leidimas laikinai gyventi ir dėl to užsieniečių buvimas pagal šio Įstatymo [[#^s-701c6d429f2357cf48b63795|23 straipsnio]] 1 ar [[#^s-f9d37441a168bfed11a5304a|2 punktą]] arba [[#^s-117992479cdaf212ca4d3f54|39 straipsnio]] 1 ar [[#^s-f9d37441a168bfed11a5304a|2 punktą]] laikomas neteisėtu, – iki sprendimo dėl jų teisinės padėties priėmimo; šie užsieniečiai teisės likti Lietuvos Respublikos teritorijoje laikotarpiu turi teisę tęsti darbą pas tą patį darbdavį ar tęsti kitą veiklą, kurią jie teisėtai vykdė iki teisės likti Lietuvos Respublikos teritorijoje įgijimo. ^s-aec77824743e8f6de38fd46a
+5) kurie vidaus reikalų ministro nustatyta tvarka ir joje nustatytais terminais yra pateikę prašymą pakeisti leidimą laikinai gyventi arba turėdami leidimą laikinai gyventi yra pateikę prašymą išduoti leidimą laikinai gyventi kitu pagrindu, jeigu prašymo nagrinėjimo metu baigė galioti jų turimas leidimas laikinai gyventi ir dėl to užsieniečių buvimas pagal šio Įstatymo [[#^s-701c6d429f2357cf48b63795|23 straipsnio]] 1 ar 2 punktą arba [[#^s-117992479cdaf212ca4d3f54|39 straipsnio]] 1 ar 2 punktą laikomas neteisėtu, – iki sprendimo dėl jų teisinės padėties priėmimo; šie užsieniečiai teisės likti Lietuvos Respublikos teritorijoje laikotarpiu turi teisę tęsti darbą pas tą patį darbdavį ar tęsti kitą veiklą, kurią jie teisėtai vykdė iki teisės likti Lietuvos Respublikos teritorijoje įgijimo. ^s-aec77824743e8f6de38fd46a
 
 
-2. Teisė likti Lietuvos Respublikos teritorijoje neužkerta kelio priimti ir vykdyti sprendimus dėl užsieniečių grąžinimo į užsienio valstybę ir išsiuntimo iš Lietuvos Respublikos šio Įstatymo 125 ir [[#^s-d3d4ed63d213f2e0290241ea|126 straipsniuose]] nurodytais pagrindais. ^s-d20c26c532562a37f03cbe78
+2. Teisė likti Lietuvos Respublikos teritorijoje neužkerta kelio priimti ir vykdyti sprendimus dėl užsieniečių grąžinimo į užsienio valstybę ir išsiuntimo iš Lietuvos Respublikos šio Įstatymo [[#^s-77d368cc6a07935b83575555|125]] ir [[#^s-d3d4ed63d213f2e0290241ea|126]] straipsniuose nurodytais pagrindais. ^s-d20c26c532562a37f03cbe78
 
 
 3. Teisę likti Lietuvos Respublikos teritorijoje turinčiam užsieniečiui vidaus reikalų ministro nustatyta tvarka išduodamas ir keičiamas vidaus reikalų ministro nustatytos formos užsieniečio registracijos pažymėjimas. Užsieniečio registracijos pažymėjimas galioja iki jame nurodyto termino, bet ne ilgiau, negu užsienietis turi teisę likti Lietuvos Respublikos teritorijoje. ^s-57be77a389c8937428bc7406
@@ -1365,7 +1365,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 Užsieniečio buvimas Lietuvos Respublikoje laikomas neteisėtu, jeigu užsienietis:
 
 
-1) yra Lietuvos Respublikoje laikotarpį, viršijantį šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] 2–9, 11 dalyse užsieniečiams nustatytą buvimo joje laiką; ^s-fb494f96a6a0f46b39b3a286
+1) yra Lietuvos Respublikoje laikotarpį, viršijantį šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] [[#^s-bec06f83eebdfe4f5b8a5b51|2]]–[[#^s-aa1c3785a4fc9f763bd2c0e9|9]], [[#^s-f17cf1ee361e387eccf279b8|11]] dalyse užsieniečiams nustatytą buvimo joje laiką; ^s-fb494f96a6a0f46b39b3a286
 Straipsnio punkto pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
@@ -1408,7 +1408,7 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 8) yra neteisėtai atvykęs į Lietuvos Respubliką; ^s-379e0a28c1b55c373ef1a800
 
 
-9) yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą arba dėl jo kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal Reglamento (ES) 2018/1861 nuostatas, išskyrus Vizų kodekse numatytą atvejį, kai užsieniečiui išduota riboto teritorinio galiojimo viza, arba Reglamente (ES) 2018/1240 numatytą atvejį, kai užsieniečiui išduotas riboto teritorinio galiojimo kelionės leidimas, ir šios aplinkybės paaiškėja užsieniečio buvimo Lietuvos Respublikoje metu. ^s-01b294c440d4f6bd8dff16a1
+9) yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą arba dėl jo kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo pagal [Reglamento (EB) Nr. 1987/2006](https://eur-lex.europa.eu/eli/reg/1987/2006/oj) nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal [Reglamento (ES) 2018/1861](https://eur-lex.europa.eu/eli/reg/2018/1861/oj) nuostatas, išskyrus Vizų kodekse numatytą atvejį, kai užsieniečiui išduota riboto teritorinio galiojimo viza, arba [Reglamente (ES) 2018/1240](https://eur-lex.europa.eu/eli/reg/2018/1240/oj) numatytą atvejį, kai užsieniečiui išduotas riboto teritorinio galiojimo kelionės leidimas, ir šios aplinkybės paaiškėja užsieniečio buvimo Lietuvos Respublikoje metu. ^s-01b294c440d4f6bd8dff16a1
 Papildyta straipsnio punktu:
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 Straipsnio punkto pakeitimai:
@@ -1430,7 +1430,7 @@ Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 
 
 
-2. Leidime gyventi elektroniniu būdu fiksuojami užsieniečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus. Leidimo gyventi formą, vadovaudamasis Reglamentu (EB) Nr. 1030/2002, nustato vidaus reikalų ministras. ^s-f015c98e58b8f88c42420f99
+2. Leidime gyventi elektroniniu būdu fiksuojami užsieniečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus [Reglamente (EB) Nr. 1030/2002](https://eur-lex.europa.eu/eli/reg/1030/2002/oj) numatytus atvejus. Leidimo gyventi formą, vadovaudamasis [Reglamentu (EB) Nr. 1030/2002](https://eur-lex.europa.eu/eli/reg/1030/2002/oj), nustato vidaus reikalų ministras. ^s-f015c98e58b8f88c42420f99
 
 
 Straipsnio pakeitimai:
@@ -1488,7 +1488,7 @@ Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 
 
 
-2. [[#^s-861491cb7415229f5ecc0433|Šio straipsnio 1 dalies]] 2–5 punktuose nustatytos sąlygos netaikomos užsieniečiui, kuriam leidimas laikinai gyventi išduodamas šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 1 ar 2 punkte nustatytu pagrindu, ir šio užsieniečio šeimos nariams arba užsieniečiui, kuriam išduodamas leidimas nuolat gyventi šio Įstatymo [[#^s-07002a1cb5aac560380727b8|53 straipsnio 1 dalies]] 1 ar 2 punkte nustatytu pagrindu. [[#^s-861491cb7415229f5ecc0433|Šio straipsnio 1 dalies]] 1–5 punktuose nustatytos sąlygos netaikomos užsieniečiui, kuriam leidimas laikinai gyventi išduodamas šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 7 (kai užsieniečiui yra nustatyta globa (rūpyba), 8, 10, 11 ar 12 punkte nustatytu pagrindu. ^s-e7df80643dca467f09fb676f
+2. [[#^s-861491cb7415229f5ecc0433|Šio straipsnio 1 dalies]] 2–5 punktuose nustatytos sąlygos netaikomos užsieniečiui, kuriam leidimas laikinai gyventi išduodamas šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] [[#^s-7cce2a7282a8a82dec4d1685|1]] ar [[#^s-87a5f4529247fd7417739ff0|2]] punkte nustatytu pagrindu, ir šio užsieniečio šeimos nariams arba užsieniečiui, kuriam išduodamas leidimas nuolat gyventi šio Įstatymo [[#^s-07002a1cb5aac560380727b8|53 straipsnio 1 dalies]] [[#^s-cb63fd25584ff9d016344387|1]] ar [[#^s-f16ad0b42e39fab188655745|2]] punkte nustatytu pagrindu. [[#^s-861491cb7415229f5ecc0433|Šio straipsnio 1 dalies]] 1–5 punktuose nustatytos sąlygos netaikomos užsieniečiui, kuriam leidimas laikinai gyventi išduodamas šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 7 (kai užsieniečiui yra nustatyta globa (rūpyba), [[#^s-e58ee29c5023a5cdf4ea6fff|8]], [[#^s-c12176fb5015800a18189c20|10]], [[#^s-644ef9caca8c142cc3a6c34d|11]] ar [[#^s-541dbc3e7957b22daa42c797|12]] punkte nustatytu pagrindu. ^s-e7df80643dca467f09fb676f
 Straipsnio dalies pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
@@ -1520,14 +1520,14 @@ Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 5. [[#^s-861491cb7415229f5ecc0433|Šio straipsnio 1 dalies]] nuostatos, išskyrus šio Įstatymo [[#^s-15aef83cdd56bb6f65c6dd53|6 straipsnio 1 dalyje]] numatytą pareigą užsieniečiui turėti galiojantį kelionės dokumentą, netaikomos leidimo nuolat gyventi keitimo atveju. ^s-e3e48f507f139b3909b7eee6
 
 
-6. Jeigu išduodant ar keičiant leidimą gyventi nustatoma, kad kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl užsieniečio neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal Reglamento (ES) 2018/1861 nuostatas arba perspėjimą dėl užsieniečio grąžinimo pagal Reglamento (ES) 2018/1860 nuostatas kartu su draudimu atvykti, Migracijos departamentas turi konsultuotis su šia Šengeno valstybe ir atsižvelgti į jos interesus. Leidimas gyventi gali būti išduodamas ar keičiamas tik dėl humanitarinių priežasčių arba dėl tarptautinių įsipareigojimų. ^s-83bfcf0b804b73f43203d08f
+6. Jeigu išduodant ar keičiant leidimą gyventi nustatoma, kad kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl užsieniečio neįsileidimo pagal [Reglamento (EB) Nr. 1987/2006](https://eur-lex.europa.eu/eli/reg/1987/2006/oj) nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal [Reglamento (ES) 2018/1861](https://eur-lex.europa.eu/eli/reg/2018/1861/oj) nuostatas arba perspėjimą dėl užsieniečio grąžinimo pagal [Reglamento (ES) 2018/1860](https://eur-lex.europa.eu/eli/reg/2018/1860/oj) nuostatas kartu su draudimu atvykti, Migracijos departamentas turi konsultuotis su šia Šengeno valstybe ir atsižvelgti į jos interesus. Leidimas gyventi gali būti išduodamas ar keičiamas tik dėl humanitarinių priežasčių arba dėl tarptautinių įsipareigojimų. ^s-83bfcf0b804b73f43203d08f
 Straipsnio dalies pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
 
 
-7. Migracijos departamentas konsultuoja kitas Šengeno valstybes dėl leidimo gyventi ar nacionalinės vizos išdavimo užsieniečiui, kai įspėjimą dėl jo neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal Reglamento (ES) 2018/1861 nuostatas arba perspėjimą dėl užsieniečio grąžinimo pagal Reglamento (ES) 2018/1860 nuostatas kartu su draudimu atvykti yra pateikusi Lietuvos Respublika. Jeigu kita Šengeno valstybė po konsultacijų su Lietuvos Respublika užsieniečiui išduoda leidimą gyventi ar nacionalinę vizą arba jeigu šis jau turi vienos iš susitariančiųjų šalių išduotą galiojantį leidimą gyventi ar galiojančią nacionalinę vizą, įspėjimas dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas ar perspėjimas dėl draudimo užsieniečiui atvykti ir apsigyventi pagal Reglamento (ES) 2018/1861 nuostatas ištrinamas iš Šengeno informacinės sistemos. ^s-320dae6910e411e5621c4c6a
+7. Migracijos departamentas konsultuoja kitas Šengeno valstybes dėl leidimo gyventi ar nacionalinės vizos išdavimo užsieniečiui, kai įspėjimą dėl jo neįsileidimo pagal [Reglamento (EB) Nr. 1987/2006](https://eur-lex.europa.eu/eli/reg/1987/2006/oj) nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal [Reglamento (ES) 2018/1861](https://eur-lex.europa.eu/eli/reg/2018/1861/oj) nuostatas arba perspėjimą dėl užsieniečio grąžinimo pagal [Reglamento (ES) 2018/1860](https://eur-lex.europa.eu/eli/reg/2018/1860/oj) nuostatas kartu su draudimu atvykti yra pateikusi Lietuvos Respublika. Jeigu kita Šengeno valstybė po konsultacijų su Lietuvos Respublika užsieniečiui išduoda leidimą gyventi ar nacionalinę vizą arba jeigu šis jau turi vienos iš susitariančiųjų šalių išduotą galiojantį leidimą gyventi ar galiojančią nacionalinę vizą, įspėjimas dėl neįsileidimo pagal [Reglamento (EB) Nr. 1987/2006](https://eur-lex.europa.eu/eli/reg/1987/2006/oj) nuostatas ar perspėjimas dėl draudimo užsieniečiui atvykti ir apsigyventi pagal [Reglamento (ES) 2018/1861](https://eur-lex.europa.eu/eli/reg/2018/1861/oj) nuostatas ištrinamas iš Šengeno informacinės sistemos. ^s-320dae6910e411e5621c4c6a
 Straipsnio dalies pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
@@ -1700,7 +1700,7 @@ Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05124
 1. Užsieniečio prašymas išduoti ar pakeisti leidimą gyventi turi būti išnagrinėtas ir leidimas gyventi turi būti išduotas, pakeistas arba atsisakyta jį išduoti ar pakeisti: ^s-89eb8e43c391b29019f2e48b
 
 
-1) dėl leidimo laikinai gyventi išdavimo, išskyrus šios dalies 2 ir [[#^s-9a6a0be7b944a53a0449e3f6|3 punktuose]] nurodytus atvejus, – ne vėliau kaip per 3 mėnesius nuo prašymo pateikimo dienos; ^s-acb76bbb8cb052ef7f4a083d
+1) dėl leidimo laikinai gyventi išdavimo, išskyrus šios dalies [[#^s-e1d95442bd8b3b7f94602a6b|2]] ir [[#^s-9a6a0be7b944a53a0449e3f6|3]] punktuose nurodytus atvejus, – ne vėliau kaip per 3 mėnesius nuo prašymo pateikimo dienos; ^s-acb76bbb8cb052ef7f4a083d
 
 
 2) dėl leidimo laikinai gyventi išdavimo ‒ ne vėliau kaip per 2 mėnesius nuo prašymo pateikimo dienos: ^s-e1d95442bd8b3b7f94602a6b
@@ -1712,7 +1712,7 @@ a) šio Įstatymo [[#^s-b9632fcb1a84760e8881f689|40 straipsnio 1 dalies 42 punkt
 b) šio punkto a papunktyje nurodyto užsieniečio šeimos nariui;
 
 
-c) šio Įstatymo [[#^s-98aa47efbcacdc6265ca5755|40 straipsnio 1 dalies 5 punkte]] nustatytu pagrindu, kai yra šio Įstatymo [[#^s-b9b8400a3e078eb58053f268|45 straipsnio 1 dalies 8 punkte]] nurodytas atvejis, taip pat šio Įstatymo [[#^s-b6750d92d8ce4593dcc91ee6|40 straipsnio 1 dalies 6 punkte]] nustatytu pagrindu, kai yra šio Įstatymo [[#^s-21aa4da0a9faab2969e5f1a0|46 straipsnio 1 dalies]] 1, 3 ar [[#^s-07e7a8f8f52e536ebb5d8fb7|5 punkte]] nurodytas atvejis;
+c) šio Įstatymo [[#^s-98aa47efbcacdc6265ca5755|40 straipsnio 1 dalies 5 punkte]] nustatytu pagrindu, kai yra šio Įstatymo [[#^s-b9b8400a3e078eb58053f268|45 straipsnio 1 dalies 8 punkte]] nurodytas atvejis, taip pat šio Įstatymo [[#^s-b6750d92d8ce4593dcc91ee6|40 straipsnio 1 dalies 6 punkte]] nustatytu pagrindu, kai yra šio Įstatymo [[#^s-21aa4da0a9faab2969e5f1a0|46 straipsnio 1 dalies]] [[#^s-240568fedb1fc8fd7c65eb15|1]], [[#^s-d05b84d7a3eaed620acfba46|3]] ar [[#^s-0c78c745b8e2f8099210328f|5]] punkte nurodytas atvejis;
 Papunkčio pakeitimai:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
@@ -1727,13 +1727,13 @@ d) šio Įstatymo [[#^s-4aeaba62648b88cd58cd0685|40 straipsnio 1 dalies 4 punkte
 a) kai užsienietis ketina dirbti aukštos profesinės kvalifikacijos reikalaujantį darbą;
 
 
-b) šio Įstatymo [[#^s-b9632fcb1a84760e8881f689|40 straipsnio 1 dalies 42 punkte]] nustatytu pagrindu, kai užsienietis yra perkeliamas įmonės viduje, ir yra šio Įstatymo [[#^s-beacc17269fccfa8463822cc|442 straipsnio 1 dalies]] 1 ar [[#^s-e1d95442bd8b3b7f94602a6b|2 punkte]] nurodytas atvejis;
+b) šio Įstatymo [[#^s-b9632fcb1a84760e8881f689|40 straipsnio 1 dalies 42 punkte]] nustatytu pagrindu, kai užsienietis yra perkeliamas įmonės viduje, ir yra šio Įstatymo [[#^s-beacc17269fccfa8463822cc|442 straipsnio 1 dalies]] [[#^s-cfadd8b913643b7aac69af1b|1]] ar [[#^s-bceea03ff250e56504f5c975|2]] punkte nurodytas atvejis;
 
 
-c) šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 51, 13 ir 15 punktuose nustatytais pagrindais;
+c) šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] [[#^s-55d1d6dbb7b205584f65614f|51]], [[#^s-b872b6ca39e84c336aac8b7b|13]] ir [[#^s-b6bc1dcee0960d8760f93ca4|15]] punktuose nustatytais pagrindais;
 
 
-d) šio Įstatymo [[#^s-cbe3c5f9b970ac2b2e4d11e9|45 straipsnio 1 dalies]] 21 ir 22 punktuose nustatytais pagrindais;
+d) šio Įstatymo [[#^s-cbe3c5f9b970ac2b2e4d11e9|45 straipsnio 1 dalies]] [[#^s-3e40ddd0fb1e95d2f8dc5448|21]] ir [[#^s-c42c614150815af5155aa2b4|22]] punktuose nustatytais pagrindais;
 
 
 e) šio punkto a, b, c ir d papunkčiuose nurodyto užsieniečio šeimos nariui;
@@ -1777,7 +1777,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-6. Teismui priėmus sprendimą įpareigoti Migracijos departamentą iš naujo išnagrinėti prašymą išduoti ar pakeisti leidimą gyventi ar prašymą naujai įforminti leidimą laikinai gyventi, Migracijos departamentas priima sprendimą kuo greičiau, bet ne vėliau kaip per šio straipsnio 1–[[#^s-356593508bffc1c7a03283be|3 dalyse]] nustatytą terminą nuo teismo sprendimo įsiteisėjimo dienos. ^s-8081297297a9b74c41593d1c
+6. Teismui priėmus sprendimą įpareigoti Migracijos departamentą iš naujo išnagrinėti prašymą išduoti ar pakeisti leidimą gyventi ar prašymą naujai įforminti leidimą laikinai gyventi, Migracijos departamentas priima sprendimą kuo greičiau, bet ne vėliau kaip per šio straipsnio [[#^s-89eb8e43c391b29019f2e48b|1]]–[[#^s-356593508bffc1c7a03283be|3]] dalyse nustatytą terminą nuo teismo sprendimo įsiteisėjimo dienos. ^s-8081297297a9b74c41593d1c
 Papildyta straipsnio dalimi:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
@@ -1837,7 +1837,7 @@ Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 
 
 
-3) dėl jo kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo pagal Reglamento (EB) Nr. 1987/2006 nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal Reglamento (ES) 2018/1861 nuostatas arba perspėjimą dėl užsieniečio grąžinimo pagal Reglamento (ES) 2018/1860 nuostatas kartu su draudimu atvykti ir nėra pagrindo išduoti leidimą gyventi dėl humanitarinių priežasčių ar tarptautinių įsipareigojimų arba jis yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą; ^s-b185c917f478e266777602ef
+3) dėl jo kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo pagal [Reglamento (EB) Nr. 1987/2006](https://eur-lex.europa.eu/eli/reg/1987/2006/oj) nuostatas, perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal [Reglamento (ES) 2018/1861](https://eur-lex.europa.eu/eli/reg/2018/1861/oj) nuostatas arba perspėjimą dėl užsieniečio grąžinimo pagal [Reglamento (ES) 2018/1860](https://eur-lex.europa.eu/eli/reg/2018/1860/oj) nuostatas kartu su draudimu atvykti ir nėra pagrindo išduoti leidimą gyventi dėl humanitarinių priežasčių ar tarptautinių įsipareigojimų arba jis yra įtrauktas į užsieniečių, kuriems draudžiama atvykti į Lietuvos Respubliką, nacionalinį sąrašą; ^s-b185c917f478e266777602ef
 Straipsnio punkto pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
@@ -1906,12 +1906,12 @@ Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 
 
 
-16) darbdavys, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba bent vienas iš darbdavių, kuris įsipareigoja įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, kai dėl leidimo laikinai gyventi kreipiamasi pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 4 ar 41 punktą, ar priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeliamas įmonės viduje, ar priimantysis subjektas: ^s-c890b14aee422fb952641937
+16) darbdavys, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba bent vienas iš darbdavių, kuris įsipareigoja įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, kai dėl leidimo laikinai gyventi kreipiamasi pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] [[#^s-4aeaba62648b88cd58cd0685|4]] ar [[#^s-ed146938bc60888b53cbd33d|41]] punktą, ar priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeliamas įmonės viduje, ar priimantysis subjektas: ^s-c890b14aee422fb952641937
 Straipsnio punkto pakeitimai:
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
-a) yra bausti už leidimą dirbti nelegalų darbą, nedeklaruotą darbą ar bent 2 kartus per pastaruosius metus yra bausti už užsieniečių įdarbinimo ar informavimo apie įdarbintus arba komandiruojamus laikinai dirbti į Lietuvos Respubliką užsieniečius tvarkos pažeidimus pagal [[latest/422c8b5042b811e6a8ae9e1795984391#^s-a7fd8f938286d857d314f1b1|Lietuvos Respublikos užimtumo įstatymo 56, 561, 57 ar 58 straipsnio]] nuostatas ir nuo nutarimo įsiteisėjimo dienos praėjo mažiau kaip 1 metai arba per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbo. Taip pat kai darbdavio, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba bent vieno iš darbdavių, kuris įsipareigoja įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, kai dėl leidimo laikinai gyventi kreipiamasi pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 4 ar 41 punktą, priimančiosios įmonės, įsteigtos Lietuvos Respublikoje, į kurią užsienietis perkeliamas įmonės viduje, ar priimančiojo subjekto vadovas ar kitas atsakingas asmuo buvo bausti pagal Lietuvos Respublikos administracinių nusižengimų kodekso [[#^s-5f6ce3cdb668e693c27536ed|95 straipsnio]] nuostatas ir nuo nutarimo administracinio nusižengimo byloje įsiteisėjimo dienos praėjo mažiau kaip 1 metai;
+a) yra bausti už leidimą dirbti nelegalų darbą, nedeklaruotą darbą ar bent 2 kartus per pastaruosius metus yra bausti už užsieniečių įdarbinimo ar informavimo apie įdarbintus arba komandiruojamus laikinai dirbti į Lietuvos Respubliką užsieniečius tvarkos pažeidimus pagal [[latest/422c8b5042b811e6a8ae9e1795984391|Lietuvos Respublikos užimtumo įstatymo]] [[latest/422c8b5042b811e6a8ae9e1795984391#^s-c32bb96d59f12719f70fa948|56]], [[latest/422c8b5042b811e6a8ae9e1795984391#^s-80b5a2c86b8dd272de72c28d|561]], [[latest/422c8b5042b811e6a8ae9e1795984391#^s-28948307c543e68b9ca304ce|57]] ar [[latest/422c8b5042b811e6a8ae9e1795984391#^s-a7fd8f938286d857d314f1b1|58]] straipsnio nuostatas ir nuo nutarimo įsiteisėjimo dienos praėjo mažiau kaip 1 metai arba per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbo. Taip pat kai darbdavio, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba bent vieno iš darbdavių, kuris įsipareigoja įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, kai dėl leidimo laikinai gyventi kreipiamasi pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] [[#^s-4aeaba62648b88cd58cd0685|4]] ar [[#^s-ed146938bc60888b53cbd33d|41]] punktą, priimančiosios įmonės, įsteigtos Lietuvos Respublikoje, į kurią užsienietis perkeliamas įmonės viduje, ar priimančiojo subjekto vadovas ar kitas atsakingas asmuo buvo bausti pagal Lietuvos Respublikos administracinių nusižengimų kodekso [[#^s-5f6ce3cdb668e693c27536ed|95 straipsnio]] nuostatas ir nuo nutarimo administracinio nusižengimo byloje įsiteisėjimo dienos praėjo mažiau kaip 1 metai;
 Papunkčio pakeitimai:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
@@ -1999,10 +1999,10 @@ Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 3. (neteko galios). ^s-0f17f09fc465482e35c6127a
 
 
-4. Šio straipsnio 1 ir [[#^s-be8e88853590ccd52947be64|2 dalių]] nuostatos netaikomos leidimo nuolat gyventi keitimo atveju. ^s-9106a87e1aaa499c4dae9cf8
+4. Šio straipsnio [[#^s-43b06bd7b30499751b7e77ee|1]] ir [[#^s-be8e88853590ccd52947be64|2]] dalių nuostatos netaikomos leidimo nuolat gyventi keitimo atveju. ^s-9106a87e1aaa499c4dae9cf8
 
 
-5. [[#^s-43b06bd7b30499751b7e77ee|Šio straipsnio 1 dalies]] 5–7 punktai netaikomi šio Įstatymo [[#^s-354f603c4b1c63b53d05fd74|26 straipsnio]] 2 ir [[#^s-0f17f09fc465482e35c6127a|3 dalyse]] nurodytiems užsieniečiams. ^s-640d8ce9335b2b35d3a74c03
+5. [[#^s-43b06bd7b30499751b7e77ee|Šio straipsnio 1 dalies]] 5–7 punktai netaikomi šio Įstatymo [[#^s-354f603c4b1c63b53d05fd74|26 straipsnio]] [[#^s-e7df80643dca467f09fb676f|2]] ir [[#^s-c70485103dfdaec003f3b779|3]] dalyse nurodytiems užsieniečiams. ^s-640d8ce9335b2b35d3a74c03
 Papildyta straipsnio dalimi:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
@@ -2028,7 +2028,7 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 2) pasikeičia jo šeiminė padėtis, kai leidimas laikinai gyventi išduotas šeimos susijungimo pagrindu; ^s-9f8a899a0fab2802feba14ec
 
 
-3) pasibaigė jo darbo santykiai, bet jis ketina pasinaudoti šio Įstatymo [[#^s-f6eb6af3668b9947f6dd71c1|44 straipsnio 8 dalyje]] numatyta teise pakeisti darbdavį, kai leidimas laikinai gyventi išduotas šio Įstatymo [[#^s-4d1c5605dd8ec777bb2ac280|44 straipsnio 1 dalies]] 2 ar 3 punkte nurodytu pagrindu; ^s-9c59b3b84eb98dcd9f05471f
+3) pasibaigė jo darbo santykiai, bet jis ketina pasinaudoti šio Įstatymo [[#^s-f6eb6af3668b9947f6dd71c1|44 straipsnio 8 dalyje]] numatyta teise pakeisti darbdavį, kai leidimas laikinai gyventi išduotas šio Įstatymo [[#^s-4d1c5605dd8ec777bb2ac280|44 straipsnio 1 dalies]] [[#^s-8ea43336c002063f4ca9fb0f|2]] ar [[#^s-0015827839182bbc03003185|3]] punkte nurodytu pagrindu; ^s-9c59b3b84eb98dcd9f05471f
 
 
 4) jis pateikia prašymą būti priimtas į kitos mokslo ir studijų institucijos lygiavertę studijų programą, rezidentūrą arba į doktorantūrą pagal šio Įstatymo [[#^s-924c955fae7ef4ca899ba268|46 straipsnio 7 dalį]]. ^s-1ba22d3216abb627d738b363
@@ -2092,7 +2092,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-6) priimančioji įmonė, įsteigta Lietuvos Respublikoje, – apie sąlygų, kurios pagal šio Įstatymo [[#^s-a2920a92d36f0ee18025c726|442 straipsnio]] 1, 2, 3 ir 5 dalis taikomos užsieniečio perkėlimui įmonės viduje, pasikeitimą; ^s-d9ab40e9223de8311323b057
+6) priimančioji įmonė, įsteigta Lietuvos Respublikoje, – apie sąlygų, kurios pagal šio Įstatymo [[#^s-a2920a92d36f0ee18025c726|442 straipsnio]] [[#^s-beacc17269fccfa8463822cc|1]], [[#^s-82016af895160090f71e1446|2]], [[#^s-7ebf1bc3b0a02c4857800c98|3]] ir [[#^s-b3c8168fc63f2ccc14578466|5]] dalis taikomos užsieniečio perkėlimui įmonės viduje, pasikeitimą; ^s-d9ab40e9223de8311323b057
 
 
 7) mokslo ir studijų institucija – apie bet kokias atsiradusias aplinkybes, kurios galėtų sukliudyti vykdyti darbo sutartį, sudarytą su tyrėju; ^s-fdb6f8f30ad16b10963faeb5
@@ -2125,7 +2125,7 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 1. Užsienio valstybės piliečiui, kuris turi teisę laikinai ar nuolat gyventi Lietuvos Respublikoje, tačiau neturi galiojančio užsienio valstybės piliečio paso ar jį atitinkančio kelionės dokumento arba jis yra pamestas ar sunaikintas, ir dėl objektyvių priežasčių negali jo gauti iš savo kilmės valstybės kompetentingų įstaigų, vidaus reikalų ministro nustatyta tvarka gali būti išduodamas užsieniečio pasas. ^s-b5d687443b6c470a77765869
 
 
-2. Užsieniečio pase elektroniniu būdu fiksuojami užsieniečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 2252/2004 numatytus atvejus. ^s-8c9c133780f25ac5fd19db90
+2. Užsieniečio pase elektroniniu būdu fiksuojami užsieniečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus [Reglamente (EB) Nr. 2252/2004](https://eur-lex.europa.eu/eli/reg/2252/2004/oj) numatytus atvejus. ^s-8c9c133780f25ac5fd19db90
 
 
 Straipsnio pakeitimai:
@@ -2139,7 +2139,7 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 1. Užsienio valstybės pilietybės neturinčiam asmeniui, kuris turi teisę laikinai ar nuolat gyventi Lietuvos Respublikoje, tačiau neturi užsienio valstybėje galiojančio kelionės dokumento, vidaus reikalų ministro nustatyta tvarka gali būti išduodamas 1954 m. Konvencijoje dėl asmenų be pilietybės statuso numatytas asmens be pilietybės kelionės dokumentas. ^s-bfe867ad51c912b356b70393
 
 
-2. Asmens be pilietybės kelionės dokumente elektroniniu būdu fiksuojami asmens be pilietybės biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 2252/2004 numatytus atvejus. ^s-5f3ad5dfbab79fb515cf5886
+2. Asmens be pilietybės kelionės dokumente elektroniniu būdu fiksuojami asmens be pilietybės biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus [Reglamente (EB) Nr. 2252/2004](https://eur-lex.europa.eu/eli/reg/2252/2004/oj) numatytus atvejus. ^s-5f3ad5dfbab79fb515cf5886
 
 
 Straipsnio pakeitimai:
@@ -2225,7 +2225,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 7) jam yra nustatyta globa (rūpyba) arba jis yra paskirtas globėju (rūpintoju); ^s-084abd5c505bae1e2fb106dc
 
 
-8) nelydimas nepilnametis užsienietis negrąžinamas į užsienio valstybę, užsienietis negali išvykti iš Lietuvos Respublikos arba negali grįžti į kilmės valstybę dėl šio Įstatymo [[#^s-cab34e9aa1c5cb5edb4d2675|1301 straipsnyje]] nurodytų aplinkybių, arba užsieniečio negalima grąžinti į užsienio valstybę arba išsiųsti iš Lietuvos Respublikos šio Įstatymo [[#^s-fb509ab16fff6dd33edbf248|130 straipsnio]] 1 ar [[#^s-9b4610f6ed8737799740b66b|2 dalyse]] nurodytais atvejais, arba užsieniečio išsiuntimo iš Lietuvos Respublikos vykdymas sustabdytas dėl šio Įstatymo [[#^s-3fe35d09219e23af2e451db6|132 straipsnio 1 dalyje]] nurodytų aplinkybių; ^s-e58ee29c5023a5cdf4ea6fff
+8) nelydimas nepilnametis užsienietis negrąžinamas į užsienio valstybę, užsienietis negali išvykti iš Lietuvos Respublikos arba negali grįžti į kilmės valstybę dėl šio Įstatymo [[#^s-cab34e9aa1c5cb5edb4d2675|1301 straipsnyje]] nurodytų aplinkybių, arba užsieniečio negalima grąžinti į užsienio valstybę arba išsiųsti iš Lietuvos Respublikos šio Įstatymo [[#^s-fb509ab16fff6dd33edbf248|130 straipsnio]] [[#^s-7e41076c0b40a92536c9bae7|1]] ar [[#^s-a9d5349ea4a6014e5fe83da4|2]] dalyse nurodytais atvejais, arba užsieniečio išsiuntimo iš Lietuvos Respublikos vykdymas sustabdytas dėl šio Įstatymo [[#^s-3fe35d09219e23af2e451db6|132 straipsnio 1 dalyje]] nurodytų aplinkybių; ^s-e58ee29c5023a5cdf4ea6fff
 Straipsnio punkto pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
@@ -2258,7 +2258,7 @@ Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 14) jis kitoje Europos Sąjungos valstybėje narėje yra įgijęs ilgalaikio gyventojo statusą ir turi tos valstybės išduotą leidimą gyventi; ^s-7df83a1bbdb9b5ccc98ea87f
 
 
-15) jis yra studijas arba mokymąsi pagal formaliojo profesinio mokymo programą užbaigęs užsienietis, kuriam leidimas laikinai gyventi buvo išduotas šio Įstatymo [[#^s-21aa4da0a9faab2969e5f1a0|46 straipsnio 1 dalies]] 1, 2 ar [[#^s-98aa47efbcacdc6265ca5755|5 punkte]] nurodytais atvejais, arba mokslinius tyrimus ir eksperimentinės plėtros darbus užbaigęs užsienietis, kuriam leidimas laikinai gyventi buvo išduotas šio Įstatymo [[#^s-5dc7c0d8a2c829b16f32a128|492 straipsnio 1 dalyje]] nurodytu atveju; ^s-b6bc1dcee0960d8760f93ca4
+15) jis yra studijas arba mokymąsi pagal formaliojo profesinio mokymo programą užbaigęs užsienietis, kuriam leidimas laikinai gyventi buvo išduotas šio Įstatymo [[#^s-21aa4da0a9faab2969e5f1a0|46 straipsnio 1 dalies]] [[#^s-240568fedb1fc8fd7c65eb15|1]], [[#^s-96c3094edb905134fb76e36c|2]] ar [[#^s-0c78c745b8e2f8099210328f|5]] punkte nurodytais atvejais, arba mokslinius tyrimus ir eksperimentinės plėtros darbus užbaigęs užsienietis, kuriam leidimas laikinai gyventi buvo išduotas šio Įstatymo [[#^s-5dc7c0d8a2c829b16f32a128|492 straipsnio 1 dalyje]] nurodytu atveju; ^s-b6bc1dcee0960d8760f93ca4
 Papildyta straipsnio punktu:
 Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 Straipsnio punkto pakeitimai:
@@ -2324,7 +2324,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 5. Užsienietis, turintis leidimą laikinai gyventi, pasikeitus aplinkybėms, lemiančioms šio leidimo išdavimo pagrindą, privalo gauti naują leidimą laikinai gyventi. ^s-8bc6bef36f399e5729a8d837
 
 
-6. Šeimos narys, atvykstantis gyventi į Lietuvos Respubliką kartu su užsieniečiu, kuris atitinka šio Įstatymo [[#^s-09575495c4e4304d736fc41a|43 straipsnio]] 6 ir 61 dalyse nustatytas sąlygas, dėl leidimo laikinai gyventi išdavimo gali kreiptis kartu su šiuo užsieniečiu ir prašymas nagrinėjamas kartu su šio užsieniečio prašymu bei sprendimai dėl leidimo išdavimo priimami tuo pačiu metu, jeigu prašymai dėl leidimo laikinai gyventi išdavimo buvo pateikti kartu. Leidimas laikinai gyventi jam išduodamas tokiam pačiam laikotarpiui kaip ir užsieniečiui, su kuriuo į Lietuvos Respubliką atvyksta šeimos narys. ^s-01fab059971066c101224731
+6. Šeimos narys, atvykstantis gyventi į Lietuvos Respubliką kartu su užsieniečiu, kuris atitinka šio Įstatymo [[#^s-09575495c4e4304d736fc41a|43 straipsnio]] [[#^s-73bf93792ee86c29e25c5501|6]] ir [[#^s-3209c8314b71732efa02d2ca|61]] dalyse nustatytas sąlygas, dėl leidimo laikinai gyventi išdavimo gali kreiptis kartu su šiuo užsieniečiu ir prašymas nagrinėjamas kartu su šio užsieniečio prašymu bei sprendimai dėl leidimo išdavimo priimami tuo pačiu metu, jeigu prašymai dėl leidimo laikinai gyventi išdavimo buvo pateikti kartu. Leidimas laikinai gyventi jam išduodamas tokiam pačiam laikotarpiui kaip ir užsieniečiui, su kuriuo į Lietuvos Respubliką atvyksta šeimos narys. ^s-01fab059971066c101224731
 Straipsnio dalies pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
@@ -2413,7 +2413,7 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
 
 
-3. [[#^s-76aab47c331dfe3e90d22621|Šio straipsnio 1 dalies]] 2, 4–7 punktuose numatytais atvejais užsieniečiui šeimos nariui leidimas laikinai gyventi gali būti išduodamas arba keičiamas, jeigu jis atitinka šio Įstatymo [[#^s-861491cb7415229f5ecc0433|26 straipsnio 1 dalies]] 2–4 punktuose nustatytas sąlygas (su [[#^s-72db45beda7e8495690f3d28|šio straipsnio 3 dalyje]] nurodyta išimtimi) arba asmuo, pas kurį atvykstama šeimos susijungimo tikslu, teisės aktų nustatyta tvarka užtikrina, kad jo šeimos narys atitinka minėtas sąlygas. ^s-72db45beda7e8495690f3d28
+3. [[#^s-76aab47c331dfe3e90d22621|Šio straipsnio 1 dalies]] 2, 4–7 punktuose numatytais atvejais užsieniečiui šeimos nariui leidimas laikinai gyventi gali būti išduodamas arba keičiamas, jeigu jis atitinka šio Įstatymo [[#^s-861491cb7415229f5ecc0433|26 straipsnio 1 dalies]] [[#^s-7c9fda672dedd6c2b3744be9|2]]–[[#^s-22dd022f32686e2275d7e30c|4]] punktuose nustatytas sąlygas (su šio straipsnio 3 dalyje nurodyta išimtimi) arba asmuo, pas kurį atvykstama šeimos susijungimo tikslu, teisės aktų nustatyta tvarka užtikrina, kad jo šeimos narys atitinka minėtas sąlygas. ^s-72db45beda7e8495690f3d28
 
 
 4. Jeigu leidimas laikinai gyventi užsieniečiui išduodamas pagal [[#^s-760aee731f2734a4990a94a5|šio straipsnio 1 dalies 5 punktą]], vidaus reikalų ministro nustatyta tvarka turi būti įvertinama, ar nėra rimto pagrindo manyti, kad sudaryta fiktyvi santuoka arba fiktyvi registruota partnerystė, o jeigu nepilnametis užsienietis buvo įvaikintas, – ar nėra rimto pagrindo manyti, kad įvaikinimas fiktyvus. ^s-d0cb22371aae7b7a36cc39ed
@@ -2425,13 +2425,13 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-6. [[#^s-76aab47c331dfe3e90d22621|Šio straipsnio 1 dalies]] 2, 5 ir [[#^s-cd74915dbad6e660378d4aaa|6 punktuose]] nurodytas užsienietis, kurio šeimos nariai atvyksta šeimos susijungimo tikslu, turi būti pragyvenęs Lietuvos Respublikoje pastaruosius 2 metus, turėti ne mažiau kaip vienerius metus galiojantį leidimą laikinai gyventi ir turėti pagrįstas perspektyvas įgyti teisę nuolat gyventi Lietuvos Respublikoje, reglamentuojamas pagal šio Įstatymo [[#^s-23efdcc555fa79711d703e05|28 straipsnio 5 dalyje]] nustatytą tvarką. Šis reikalavimas netaikomas, kai šeimos nariai atvyksta pas užsienietį: ^s-73bf93792ee86c29e25c5501
+6. [[#^s-76aab47c331dfe3e90d22621|Šio straipsnio 1 dalies]] [[#^s-84507aa10035280444cf0489|2]], [[#^s-bc78e9c57e014b88bf1b3e42|5]] ir [[#^s-cd74915dbad6e660378d4aaa|6]] punktuose nurodytas užsienietis, kurio šeimos nariai atvyksta šeimos susijungimo tikslu, turi būti pragyvenęs Lietuvos Respublikoje pastaruosius 2 metus, turėti ne mažiau kaip vienerius metus galiojantį leidimą laikinai gyventi ir turėti pagrįstas perspektyvas įgyti teisę nuolat gyventi Lietuvos Respublikoje, reglamentuojamas pagal šio Įstatymo [[#^s-23efdcc555fa79711d703e05|28 straipsnio 5 dalyje]] nustatytą tvarką. Šis reikalavimas netaikomas, kai šeimos nariai atvyksta pas užsienietį: ^s-73bf93792ee86c29e25c5501
 
 
 1) kuriam suteiktas prieglobstis Lietuvos Respublikoje; ^s-a4abf895cefbb3acb4de214f
 
 
-2) kuris kreipiasi dėl leidimo laikinai gyventi arba turi leidimą laikinai gyventi, išduotą šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 1, 2, 41, 42, 51, 13 ar 16 punkte nustatytais pagrindais; ^s-84507aa10035280444cf0489
+2) kuris kreipiasi dėl leidimo laikinai gyventi arba turi leidimą laikinai gyventi, išduotą šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] [[#^s-7cce2a7282a8a82dec4d1685|1]], [[#^s-87a5f4529247fd7417739ff0|2]], [[#^s-ed146938bc60888b53cbd33d|41]], [[#^s-b9632fcb1a84760e8881f689|42]], [[#^s-55d1d6dbb7b205584f65614f|51]], [[#^s-b872b6ca39e84c336aac8b7b|13]] ar [[#^s-a28046983450940af11eb8e2|16]] punkte nustatytais pagrindais; ^s-84507aa10035280444cf0489
 
 
 3) kuris kreipiasi dėl leidimo laikinai gyventi arba turi leidimą laikinai gyventi, išduotą šio Įstatymo [[#^s-7df83a1bbdb9b5ccc98ea87f|40 straipsnio 1 dalies 14 punkte]] nustatytu pagrindu. Šia teise užsienietis gali pasinaudoti, jeigu šeima jau buvo sukurta toje Europos Sąjungos valstybėje narėje, kurioje užsienietis įgijo ilgalaikio gyventojo statusą; ^s-1d62e48a5898ce0b738799a1
@@ -2443,7 +2443,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 5) kuris tiesiogiai dalyvaudamas valstybei svarbiuose projektuose yra investavęs Lietuvos Respublikoje nuosavą, skolintą ar patikėjimo teise valdomą ir naudojamą turtą; ^s-bc78e9c57e014b88bf1b3e42
 
 
-6) kuris kreipiasi dėl leidimo laikinai gyventi arba turi leidimą laikinai gyventi, išduotą šio Įstatymo [[#^s-cbe3c5f9b970ac2b2e4d11e9|45 straipsnio 1 dalies]] 1–22 punktuose nustatytais pagrindais. ^s-cd74915dbad6e660378d4aaa
+6) kuris kreipiasi dėl leidimo laikinai gyventi arba turi leidimą laikinai gyventi, išduotą šio Įstatymo [[#^s-cbe3c5f9b970ac2b2e4d11e9|45 straipsnio 1 dalies]] [[#^s-e385cc35334e8e3fa5487a57|1]]–[[#^s-c42c614150815af5155aa2b4|22]] punktuose nustatytais pagrindais. ^s-cd74915dbad6e660378d4aaa
 
 
 Straipsnio dalies pakeitimai:
@@ -2455,7 +2455,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 61. [[#^s-73bf93792ee86c29e25c5501|Šio straipsnio 6 dalyje]] nustatyti reikalavimai netaikomi: ^s-3209c8314b71732efa02d2ca
 
 
-1) kai šeimos nariai atvyksta šeimos susijungimo tikslu pas užsienietį, nurodytą [[#^s-76aab47c331dfe3e90d22621|šio straipsnio 1 dalies]] 2 ir 5 punktuose, kuris kreipiasi dėl leidimo laikinai gyventi arba turi leidimą laikinai gyventi, išduotą šio Įstatymo [[#^s-0c78c745b8e2f8099210328f|46 straipsnio 1 dalies 5 punkte]] nustatytu pagrindu, taip pat kai užsienietis kreipiasi dėl leidimo laikinai gyventi išdavimo šio Įstatymo 44 ar [[#^s-28854c9aa8cb515ec9e7e1dc|494 straipsnyje]] nustatytu pagrindu ir yra Lietuvos Respublikoje užbaigęs magistrantūros, rezidentūros arba doktorantūros studijas arba mokslinius tyrimus ir eksperimentinės plėtros darbus; ^s-e9d49e89368dd08faf0b0af9
+1) kai šeimos nariai atvyksta šeimos susijungimo tikslu pas užsienietį, nurodytą [[#^s-76aab47c331dfe3e90d22621|šio straipsnio 1 dalies]] [[#^s-0f939643e371e84cfb5c1fc3|2]] ir 5 punktuose, kuris kreipiasi dėl leidimo laikinai gyventi arba turi leidimą laikinai gyventi, išduotą šio Įstatymo [[#^s-0c78c745b8e2f8099210328f|46 straipsnio 1 dalies 5 punkte]] nustatytu pagrindu, taip pat kai užsienietis kreipiasi dėl leidimo laikinai gyventi išdavimo šio Įstatymo [[#^s-7a0a61352e525cdcb3fee664|44]] ar [[#^s-28854c9aa8cb515ec9e7e1dc|494]] straipsnyje nustatytu pagrindu ir yra Lietuvos Respublikoje užbaigęs magistrantūros, rezidentūros arba doktorantūros studijas arba mokslinius tyrimus ir eksperimentinės plėtros darbus; ^s-e9d49e89368dd08faf0b0af9
 Straipsnio punkto pakeitimai:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
@@ -2494,7 +2494,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-3) kuriems suteiktas prieglobstis Lietuvos Respublikoje, jeigu jų šeimos nariams nebūtų suteikiamas prieglobstis Lietuvos Respublikoje pagal šio Įstatymo [[#^s-8c53df2ea6e10fc3a2e8b5e2|88 straipsnio 2 dalies]] 3–5 punktus arba [[#^s-72db45beda7e8495690f3d28|3 dalį]]. ^s-0c1049e636543f620a14f451
+3) kuriems suteiktas prieglobstis Lietuvos Respublikoje, jeigu jų šeimos nariams nebūtų suteikiamas prieglobstis Lietuvos Respublikoje pagal šio Įstatymo [[#^s-8c53df2ea6e10fc3a2e8b5e2|88 straipsnio 2 dalies]] [[#^s-90b0a807044eef17ab837bc6|3]]–[[#^s-51f5c860d49fa59083248901|5]] punktus arba [[#^s-72db45beda7e8495690f3d28|3 dalį]]. ^s-0c1049e636543f620a14f451
 
 
 Straipsnio dalies pakeitimai:
@@ -2556,7 +2556,7 @@ b) užsienietis turi arba kvalifikaciją, susijusią su atliktinu darbu, arba ne
 9. Kai pasibaigia užsieniečio darbo santykiai, jis privalo išvykti iš Lietuvos Respublikos, išskyrus: ^s-991db5632ad4e84daf5bef19
 
 
-1) šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] 2–[[#^s-024777cf7e88525e7345905a|5 dalyse]] nurodytus atvejus; ^s-61ce8e8afc913e6566e9facc
+1) šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] [[#^s-bec06f83eebdfe4f5b8a5b51|2]]–[[#^s-aa982ee003d377594b214732|5]] dalyse nurodytus atvejus; ^s-61ce8e8afc913e6566e9facc
 
 
 2) [[#^s-f6eb6af3668b9947f6dd71c1|šio straipsnio 8 dalyje]] nurodytu atveju, kai jis pateikia šio Įstatymo [[#^s-9c59b3b84eb98dcd9f05471f|36 straipsnio 1 dalies 3 punkte]] nurodytą pranešimą per 10 darbo dienų nuo darbo santykių nutraukimo; ^s-acfed6ef4d0796e339891ba2
@@ -2583,7 +2583,7 @@ b) užsienietis turi arba kvalifikaciją, susijusią su atliktinu darbu, arba ne
 2) jam nebuvo skirta administracinė nuobauda pagal Administracinių nusižengimų kodeksą už nepranešimą apie pasikeitusius užsieniečio duomenis ar melagingų duomenų pateikimą kviečiant užsienietį atvykti į Lietuvos Respubliką arba pagalbą kitu neteisėtu būdu užsieniečiui gauti teisę būti ar gyventi Lietuvos Respublikoje patvirtinantį dokumentą arba nuo nutarimo administracinio nusižengimo byloje įsiteisėjimo dienos praėjo daugiau kaip 1 metai; ^s-075702448e335ee0c5b48c9d
 
 
-3) nenustatoma šio Įstatymo [[#^s-43b06bd7b30499751b7e77ee|35 straipsnio 1 dalies]] 16 ar 19 punkte nurodytų atsisakymo išduoti ar pakeisti leidimą laikinai gyventi pagrindų; ^s-175a3bb2e347a7d60c5e5294
+3) nenustatoma šio Įstatymo [[#^s-43b06bd7b30499751b7e77ee|35 straipsnio 1 dalies]] [[#^s-c890b14aee422fb952641937|16]] ar [[#^s-fba070f87612303b1234fe6c|19]] punkte nurodytų atsisakymo išduoti ar pakeisti leidimą laikinai gyventi pagrindų; ^s-175a3bb2e347a7d60c5e5294
 
 
 4) vykdo veiklą, kuriai kviečia užsienietį, ne trumpiau negu pastaruosius 6 mėnesius; ^s-d448df40476a1b551999be6f
@@ -2748,10 +2748,10 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 7. Užsieniečiui, kuris perkeliamas įmonės viduje, leidimas laikinai gyventi išduodamas laikotarpiui, kuriam jis perkeliamas į priimančiąją įmonę, įsteigtą Lietuvos Respublikoje, bet ne ilgiau kaip 3 metams, kai jis perkeliamas kaip vadovas arba specialistas, ir ne ilgiau kaip vieniems metams, kai jis perkeliamas kaip darbuotojas – stažuotojas. ^s-50c31698c305b3e9b7ada5df
 
 
-8. Leidimas laikinai gyventi gali būti keičiamas, jeigu užsienietis atitinka šio straipsnio 1, 2 ir [[#^s-7ebf1bc3b0a02c4857800c98|3 dalyse]] nustatytus reikalavimus ir jo perkėlimas įmonės viduje netruks ilgiau kaip [[#^s-214e56931e0fdae2031c5dd7|šio straipsnio 6 dalyje]] nustatytas laikotarpis. ^s-aea321c3e43b93f66ec0e2e0
+8. Leidimas laikinai gyventi gali būti keičiamas, jeigu užsienietis atitinka šio straipsnio [[#^s-beacc17269fccfa8463822cc|1]], [[#^s-82016af895160090f71e1446|2]] ir [[#^s-7ebf1bc3b0a02c4857800c98|3]] dalyse nustatytus reikalavimus ir jo perkėlimas įmonės viduje netruks ilgiau kaip [[#^s-214e56931e0fdae2031c5dd7|šio straipsnio 6 dalyje]] nustatytas laikotarpis. ^s-aea321c3e43b93f66ec0e2e0
 
 
-9. Užsieniečiui, kuris turi kitos Europos Sąjungos valstybės narės išduotą galiojantį leidimą laikinai gyventi kaip perkeltas įmonės viduje ir atvyksta į priimančiąją įmonę, įsteigtą Lietuvos Respublikoje, ilgesniam negu 90 dienų per 180 dienų laikotarpiui, leidimui laikinai gyventi išduoti taikomi šio straipsnio 2, 3, 4, 6 ir [[#^s-50c31698c305b3e9b7ada5df|7 dalyse]] nustatyti reikalavimai. ^s-229bc04e5d732ccde0369519
+9. Užsieniečiui, kuris turi kitos Europos Sąjungos valstybės narės išduotą galiojantį leidimą laikinai gyventi kaip perkeltas įmonės viduje ir atvyksta į priimančiąją įmonę, įsteigtą Lietuvos Respublikoje, ilgesniam negu 90 dienų per 180 dienų laikotarpiui, leidimui laikinai gyventi išduoti taikomi šio straipsnio [[#^s-82016af895160090f71e1446|2]], [[#^s-7ebf1bc3b0a02c4857800c98|3]], [[#^s-9ef99cbca20ec00586c26fa1|4]], [[#^s-214e56931e0fdae2031c5dd7|6]] ir [[#^s-50c31698c305b3e9b7ada5df|7]] dalyse nustatyti reikalavimai. ^s-229bc04e5d732ccde0369519
 
 
 
@@ -2847,7 +2847,7 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 
 
 
-4. Užsienietis, nutraukęs teisėtą veiklą Lietuvos Respublikoje, privalo išvykti iš Lietuvos Respublikos, išskyrus šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] 2–[[#^s-31f5918b66f890c334782d91|5 dalyse]] nurodytus atvejus arba atvejus, kai jam išduodamas leidimas gyventi kitu šio Įstatymo nustatytu pagrindu. ^s-062414ddfc820cfc96ab69db
+4. Užsienietis, nutraukęs teisėtą veiklą Lietuvos Respublikoje, privalo išvykti iš Lietuvos Respublikos, išskyrus šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] [[#^s-bec06f83eebdfe4f5b8a5b51|2]]–[[#^s-aa982ee003d377594b214732|5]] dalyse nurodytus atvejus arba atvejus, kai jam išduodamas leidimas gyventi kitu šio Įstatymo nustatytu pagrindu. ^s-062414ddfc820cfc96ab69db
 Straipsnio dalies pakeitimai:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
@@ -2914,7 +2914,7 @@ Nr. XII-1193, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14279
 4. Užsieniečiui, kuris ketina Lietuvos Respublikoje steigti startuolį ir vykdyti jo veiklą, leidimas laikinai gyventi išduodamas 2 metams. Šis leidimas, ekonomikos ir inovacijų ministro įgaliotai institucijai patvirtinus, kad užsienietis atitinka [[#^s-de65f99a9c72a938e8fc39a3|šio straipsnio 1 dalyje]] nurodytus reikalavimus, gali būti pakeistas 3 metams. ^s-140a14620149e1cd1d0dd642
 
 
-5. Užsienietis, nutraukęs startuolio veiklą, privalo išvykti iš Lietuvos Respublikos, išskyrus šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] 2–[[#^s-43a8c780ab59b95f0a0897f1|5 dalyse]] nurodytus atvejus arba atvejus, kai jam išduodamas leidimas gyventi kitu šio Įstatymo nustatytu pagrindu. ^s-43a8c780ab59b95f0a0897f1
+5. Užsienietis, nutraukęs startuolio veiklą, privalo išvykti iš Lietuvos Respublikos, išskyrus šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] [[#^s-bec06f83eebdfe4f5b8a5b51|2]]–[[#^s-aa982ee003d377594b214732|5]] dalyse nurodytus atvejus arba atvejus, kai jam išduodamas leidimas gyventi kitu šio Įstatymo nustatytu pagrindu. ^s-43a8c780ab59b95f0a0897f1
 Straipsnio dalies pakeitimai:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
@@ -2957,7 +2957,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 4. Kai leidimas laikinai gyventi išduodamas arba keičiamas [[#^s-0c78c745b8e2f8099210328f|šio straipsnio 1 dalies 5 punkte]] nurodytam užsieniečiui, išskyrus užsienietį, priimtą studijuoti į antrosios pakopos studijų programą, leidimas laikinai gyventi išduodamas 3 metų laikotarpiui, o keičiamas likusiam studijų laikotarpiui, bet ne ilgiau kaip 3 metams. Tais atvejais, kai leidimas laikinai gyventi išduodamas arba keičiamas studijų paskutinių metų laikotarpiui, leidimas laikinai gyventi išduodamas arba keičiamas laikotarpiui, iki 6 mėnesių ilgesniam negu numatomas studijų laikotarpis. ^s-2b07a97c9661a581beb411a3
 
 
-5. Kai pasibaigia mokymosi, studijų, stažuotės ar kvalifikacijos tobulinimo laikotarpis arba užsienietis nutraukia mokymąsi, studijas, stažuotę ar kvalifikacijos tobulinimą, jis privalo išvykti iš Lietuvos Respublikos, išskyrus šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] 2–[[#^s-ea2110fe13edfdc26b29e9cb|5 dalyse]] nurodytus atvejus arba atvejus, kai jam išduodamas leidimas gyventi kitu šio Įstatymo nustatytu pagrindu, arba, jeigu užsienietis, užbaigęs mokymąsi arba studijas Lietuvos Respublikoje, pradeda dirbti leidimo laikinai gyventi galiojimo laikotarpiu ir kreipiasi dėl leidimo gyventi išdavimo kitu šio Įstatymo nustatytu pagrindu. ^s-ea2110fe13edfdc26b29e9cb
+5. Kai pasibaigia mokymosi, studijų, stažuotės ar kvalifikacijos tobulinimo laikotarpis arba užsienietis nutraukia mokymąsi, studijas, stažuotę ar kvalifikacijos tobulinimą, jis privalo išvykti iš Lietuvos Respublikos, išskyrus šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] [[#^s-bec06f83eebdfe4f5b8a5b51|2]]–[[#^s-aa982ee003d377594b214732|5]] dalyse nurodytus atvejus arba atvejus, kai jam išduodamas leidimas gyventi kitu šio Įstatymo nustatytu pagrindu, arba, jeigu užsienietis, užbaigęs mokymąsi arba studijas Lietuvos Respublikoje, pradeda dirbti leidimo laikinai gyventi galiojimo laikotarpiu ir kreipiasi dėl leidimo gyventi išdavimo kitu šio Įstatymo nustatytu pagrindu. ^s-ea2110fe13edfdc26b29e9cb
 
 
 6. [[#^s-240568fedb1fc8fd7c65eb15|Šio straipsnio 1 dalies 1 punkte]] nurodytas užsienietis, studijuojantis 1 arba 2 kurse, turi teisę dirbti ne daugiau kaip 20 valandų per savaitę, išskyrus mokslo ir studijų institucijos nustatytus vasaros atostogų ir studijų laikotarpiu numatytos praktikos laikotarpius. ^s-61b5f3e434d11661793c67dc
@@ -3067,7 +3067,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-5. Užsienietis, nutraukęs dėstytojo arba tyrėjo darbą arba pasibaigus užsieniečio darbo sutarčiai, sudarytai su mokslo ir studijų institucija, privalo išvykti iš Lietuvos Respublikos, išskyrus šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] 2–[[#^s-18f5cf3767d5d4836d337a1c|5 dalyse]] nurodytus atvejus arba atvejus, kai jam išduodamas leidimas gyventi kitu šio Įstatymo nustatytu pagrindu. ^s-18f5cf3767d5d4836d337a1c
+5. Užsienietis, nutraukęs dėstytojo arba tyrėjo darbą arba pasibaigus užsieniečio darbo sutarčiai, sudarytai su mokslo ir studijų institucija, privalo išvykti iš Lietuvos Respublikos, išskyrus šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] [[#^s-bec06f83eebdfe4f5b8a5b51|2]]–[[#^s-aa982ee003d377594b214732|5]] dalyse nurodytus atvejus arba atvejus, kai jam išduodamas leidimas gyventi kitu šio Įstatymo nustatytu pagrindu. ^s-18f5cf3767d5d4836d337a1c
 Straipsnio dalies pakeitimai:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
@@ -3188,7 +3188,7 @@ Nr. XIII-2338, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12401
 1) leidimas gautas apgaulės būdu; ^s-91d587045d07e132fd8554f0
 
 
-2) paaiškėja, kad yra šio Įstatymo [[#^s-43b06bd7b30499751b7e77ee|35 straipsnio 1 dalies]] 1–[[#^s-27d2d869bb22ceb31a239baa|19 punktuose]] nustatyti pagrindai; ^s-01906ea13d678251ab8d3769
+2) paaiškėja, kad yra šio Įstatymo [[#^s-43b06bd7b30499751b7e77ee|35 straipsnio 1 dalies]] [[#^s-127cb3846ea00a8bda6cea95|1]]–[[#^s-fba070f87612303b1234fe6c|19]] punktuose nustatyti pagrindai; ^s-01906ea13d678251ab8d3769
 Straipsnio punkto pakeitimai:
 Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 
@@ -3208,7 +3208,7 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
 
 
-6) nutraukiama darbo sutartis su užsieniečiu ir užsienietis nepateikia šio Įstatymo [[#^s-9c59b3b84eb98dcd9f05471f|36 straipsnio 1 dalies 3 punkte]] nurodyto pranešimo per 10 darbo dienų nuo darbo sutarties nutraukimo dienos arba užsienietis pateikia šio Įstatymo [[#^s-9c59b3b84eb98dcd9f05471f|36 straipsnio 1 dalies 3 punkte]] nurodytą pranešimą ir leidimo laikinai gyventi galiojimo laikotarpiu užsieniečio nedarbo laikotarpiai viršija 3 mėnesius iš eilės, kai jis turi šio Įstatymo [[#^s-4d1c5605dd8ec777bb2ac280|44 straipsnio 1 dalies]] 2 ar [[#^s-13dcb758a099b95e24ce0074|3 punkte]] nurodytu pagrindu išduotą leidimą laikinai gyventi  trumpiau negu 2 metus, arba užsieniečio nedarbo laikotarpiai viršija 6 mėnesius iš eilės, kai jis turi [[#^s-4b94750d5540b4270af148cf|šio straipsnio 1 dalies]] 2 ar [[#^s-13dcb758a099b95e24ce0074|3 punkte]] nurodytu pagrindu išduotą leidimą laikinai gyventi ilgiau negu 2 metus, arba nustatoma, kad su užsieniečiu darbo sutartis nesudaryta, arba užsienietis, kuriam leidimas laikinai gyventi išduotas pagal šio Įstatymo [[#^s-4d1c5605dd8ec777bb2ac280|44 straipsnio 1 dalies]] 2 ar [[#^s-13dcb758a099b95e24ce0074|3 punktą]], pakeitė darbdavį ar darbo funkciją nesilaikydamas šio Įstatymo [[#^s-bdedb7cbd81d4b8d5519081c|44 straipsnio 10 dalyje]] nustatytų reikalavimų; ^s-02bc20125773ccb0cc1b1d10
+6) nutraukiama darbo sutartis su užsieniečiu ir užsienietis nepateikia šio Įstatymo [[#^s-9c59b3b84eb98dcd9f05471f|36 straipsnio 1 dalies 3 punkte]] nurodyto pranešimo per 10 darbo dienų nuo darbo sutarties nutraukimo dienos arba užsienietis pateikia šio Įstatymo [[#^s-9c59b3b84eb98dcd9f05471f|36 straipsnio 1 dalies 3 punkte]] nurodytą pranešimą ir leidimo laikinai gyventi galiojimo laikotarpiu užsieniečio nedarbo laikotarpiai viršija 3 mėnesius iš eilės, kai jis turi šio Įstatymo [[#^s-4d1c5605dd8ec777bb2ac280|44 straipsnio 1 dalies]] [[#^s-8ea43336c002063f4ca9fb0f|2]] ar [[#^s-0015827839182bbc03003185|3]] punkte nurodytu pagrindu išduotą leidimą laikinai gyventi  trumpiau negu 2 metus, arba užsieniečio nedarbo laikotarpiai viršija 6 mėnesius iš eilės, kai jis turi [[#^s-4b94750d5540b4270af148cf|šio straipsnio 1 dalies]] [[#^s-01906ea13d678251ab8d3769|2]] ar [[#^s-13dcb758a099b95e24ce0074|3]] punkte nurodytu pagrindu išduotą leidimą laikinai gyventi ilgiau negu 2 metus, arba nustatoma, kad su užsieniečiu darbo sutartis nesudaryta, arba užsienietis, kuriam leidimas laikinai gyventi išduotas pagal šio Įstatymo [[#^s-4d1c5605dd8ec777bb2ac280|44 straipsnio 1 dalies]] [[#^s-8ea43336c002063f4ca9fb0f|2]] ar [[#^s-0015827839182bbc03003185|3]] punktą, pakeitė darbdavį ar darbo funkciją nesilaikydamas šio Įstatymo [[#^s-bdedb7cbd81d4b8d5519081c|44 straipsnio 10 dalyje]] nustatytų reikalavimų; ^s-02bc20125773ccb0cc1b1d10
 Straipsnio punkto pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
@@ -3218,7 +3218,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-7) nustatoma, kad priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeltas įmonės viduje, arba įmonė, kurios dalyvis ar vadovas yra užsienietis, yra fiktyvi, kad įmonė ar užsienietis neatitinka šio Įstatymo [[#^s-cbe3c5f9b970ac2b2e4d11e9|45 straipsnio 1 dalies]] 1, 21 ar 22 punkte nustatytų reikalavimų arba kad užsienietis nebėra įmonės vadovas arba jam nuosavybės teise nebepriklauso akcinės bendrovės ar uždarosios akcinės bendrovės akcijos, kurių nominalioji vertė sudaro 1/3 šios bendrovės įstatinio kapitalo; ^s-01acac43893ecd605a2c4a1b
+7) nustatoma, kad priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeltas įmonės viduje, arba įmonė, kurios dalyvis ar vadovas yra užsienietis, yra fiktyvi, kad įmonė ar užsienietis neatitinka šio Įstatymo [[#^s-cbe3c5f9b970ac2b2e4d11e9|45 straipsnio 1 dalies]] [[#^s-e385cc35334e8e3fa5487a57|1]], [[#^s-3e40ddd0fb1e95d2f8dc5448|21]] ar [[#^s-c42c614150815af5155aa2b4|22]] punkte nustatytų reikalavimų arba kad užsienietis nebėra įmonės vadovas arba jam nuosavybės teise nebepriklauso akcinės bendrovės ar uždarosios akcinės bendrovės akcijos, kurių nominalioji vertė sudaro 1/3 šios bendrovės įstatinio kapitalo; ^s-01acac43893ecd605a2c4a1b
 Straipsnio punkto pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
@@ -3259,7 +3259,7 @@ Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
 12) šio Įstatymo nustatyta tvarka panaikinama užsieniečiui suteikta papildoma arba laikinoji apsauga; ^s-6bb561101d42e690530e97dd
 
 
-13) užsienietis išvyksta gyventi arba gyvena užsienio valstybėje ilgiau negu 6 mėnesius, išskyrus atvejus, kai leidimas laikinai gyventi išduotas pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 41, 42 ar 13 punktą arba [[#^s-21aa4da0a9faab2969e5f1a0|46 straipsnio 1 dalies]] 1 ar [[#^s-a6d681ccfcefde782550aa02|5 punktą]]; ^s-cfcd7a9bff42cf89ac07a34f
+13) užsienietis išvyksta gyventi arba gyvena užsienio valstybėje ilgiau negu 6 mėnesius, išskyrus atvejus, kai leidimas laikinai gyventi išduotas pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] [[#^s-ed146938bc60888b53cbd33d|41]], [[#^s-b9632fcb1a84760e8881f689|42]] ar [[#^s-b872b6ca39e84c336aac8b7b|13]] punktą arba [[#^s-21aa4da0a9faab2969e5f1a0|46 straipsnio 1 dalies]] [[#^s-240568fedb1fc8fd7c65eb15|1]] ar [[#^s-0c78c745b8e2f8099210328f|5]] punktą; ^s-cfcd7a9bff42cf89ac07a34f
 Straipsnio punkto pakeitimai:
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
 Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
@@ -3297,12 +3297,12 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-19) darbdavys, kuris įsipareigojo įdarbinti užsienietį pagal darbo sutartį, arba vienas iš darbdavių, kurie įsipareigojo įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, kai leidimas laikinai gyventi išduotas pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 4 ar 41 punktą, ar priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeltas įmonės viduje, ar priimantysis subjektas: ^s-27d2d869bb22ceb31a239baa
+19) darbdavys, kuris įsipareigojo įdarbinti užsienietį pagal darbo sutartį, arba vienas iš darbdavių, kurie įsipareigojo įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, kai leidimas laikinai gyventi išduotas pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] [[#^s-4aeaba62648b88cd58cd0685|4]] ar [[#^s-ed146938bc60888b53cbd33d|41]] punktą, ar priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeltas įmonės viduje, ar priimantysis subjektas: ^s-27d2d869bb22ceb31a239baa
 Straipsnio punkto pakeitimai:
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
-a) yra bausti už leidimą dirbti nelegalų darbą pagal [[latest/422c8b5042b811e6a8ae9e1795984391#^s-80b5a2c86b8dd272de72c28d|Užimtumo įstatymo 56 ar 561 straipsnio]] nuostatas arba bent 2 kartus per pastaruosius metus yra bausti už nedeklaruotą darbą pagal [[latest/422c8b5042b811e6a8ae9e1795984391#^s-a7fd8f938286d857d314f1b1|Užimtumo įstatymo 58 straipsnį]] ir nuo nutarimo įsiteisėjimo dienos praėjo mažiau kaip 1 metai arba per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbo. Taip pat, kai darbdavio, kuris įsipareigojo įdarbinti užsienietį pagal darbo sutartį, arba vieno iš darbdavių, kurie įsipareigojo įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, kai dėl leidimo laikinai gyventi kreipiamasi pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 4 ar 41 punktą, priimančiosios įmonės, įsteigtos Lietuvos Respublikoje, į kurią užsienietis perkeliamas įmonės viduje, ar priimančiojo subjekto vadovas ar kitas atsakingas asmuo buvo bausti pagal Administracinių nusižengimų kodekso [[#^s-5f6ce3cdb668e693c27536ed|95 straipsnio]] nuostatas ir nuo nutarimo administracinio nusižengimo byloje įsiteisėjimo dienos praėjo mažiau kaip 1 metai.
+a) yra bausti už leidimą dirbti nelegalų darbą pagal [[latest/422c8b5042b811e6a8ae9e1795984391|Užimtumo įstatymo]] [[latest/422c8b5042b811e6a8ae9e1795984391#^s-c32bb96d59f12719f70fa948|56]] ar [[latest/422c8b5042b811e6a8ae9e1795984391#^s-80b5a2c86b8dd272de72c28d|561]] straipsnio nuostatas arba bent 2 kartus per pastaruosius metus yra bausti už nedeklaruotą darbą pagal [[latest/422c8b5042b811e6a8ae9e1795984391#^s-a7fd8f938286d857d314f1b1|Užimtumo įstatymo 58 straipsnį]] ir nuo nutarimo įsiteisėjimo dienos praėjo mažiau kaip 1 metai arba per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbo. Taip pat, kai darbdavio, kuris įsipareigojo įdarbinti užsienietį pagal darbo sutartį, arba vieno iš darbdavių, kurie įsipareigojo įdarbinti užsienietį pagal darbo keliems darbdaviams sutartį, kai dėl leidimo laikinai gyventi kreipiamasi pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] [[#^s-4aeaba62648b88cd58cd0685|4]] ar [[#^s-ed146938bc60888b53cbd33d|41]] punktą, priimančiosios įmonės, įsteigtos Lietuvos Respublikoje, į kurią užsienietis perkeliamas įmonės viduje, ar priimančiojo subjekto vadovas ar kitas atsakingas asmuo buvo bausti pagal Administracinių nusižengimų kodekso [[#^s-5f6ce3cdb668e693c27536ed|95 straipsnio]] nuostatas ir nuo nutarimo administracinio nusižengimo byloje įsiteisėjimo dienos praėjo mažiau kaip 1 metai.
 Papunkčio pakeitimai:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
@@ -3509,7 +3509,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 9) Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ įgyvendinimo įstatymo [[#^s-fbe60a6151b37cfd117ea146|2 straipsnyje]] numatytu atveju; ^s-6f3bac88ec937ceae16fdc7d
 
 
-10) pragyveno užsienio valstybėje laikotarpį, ne ilgesnį negu nurodytą šio Įstatymo [[#^s-a2b1960c476147379cbe34c3|54 straipsnio 1 dalies]] 3 ir [[#^s-95ca55b856f84926a9bf1e8d|4 punktuose]], kitoje Europos Sąjungos valstybėje narėje neįgijo ilgalaikio gyventojo statuso, o iki apsigyvenimo užsienio valstybėje gyveno Lietuvos Respublikoje ir turėjo leidimą nuolat gyventi. ^s-53945c319e5a1429dbd096a2
+10) pragyveno užsienio valstybėje laikotarpį, ne ilgesnį negu nurodytą šio Įstatymo [[#^s-a2b1960c476147379cbe34c3|54 straipsnio 1 dalies]] [[#^s-34d0a2046b337b30ff859c6c|3]] ir [[#^s-daa8c8c6ce5234b210037493|4]] punktuose, kitoje Europos Sąjungos valstybėje narėje neįgijo ilgalaikio gyventojo statuso, o iki apsigyvenimo užsienio valstybėje gyveno Lietuvos Respublikoje ir turėjo leidimą nuolat gyventi. ^s-53945c319e5a1429dbd096a2
 
 
 2. Užsienietis privalo kreiptis dėl leidimo nuolat gyventi pakeitimo, jeigu: ^s-52b00ef21b0b835e4173c58d
@@ -3540,7 +3540,7 @@ Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 
 
 
-3. Užsienietis, kuriam išduodamas leidimas nuolat gyventi, turi atitikti šio Įstatymo [[#^s-861491cb7415229f5ecc0433|26 straipsnio 1 dalies]] 1–3 punktuose nustatytas sąlygas. Teisėtai pragyvento laikotarpio nustatymo ir apskaičiavimo tvarką išduodant užsieniečiui leidimą nuolat gyventi [[#^s-07002a1cb5aac560380727b8|šio straipsnio 1 dalies]] 8–82 punktuose nustatytais pagrindais nustato vidaus reikalų ministras. ^s-7bfd11f72c7a5ada148d95fd
+3. Užsienietis, kuriam išduodamas leidimas nuolat gyventi, turi atitikti šio Įstatymo [[#^s-861491cb7415229f5ecc0433|26 straipsnio 1 dalies]] [[#^s-45933516172c6f86bb355914|1]]–[[#^s-edeba177e2fcdb250d4956e3|3]] punktuose nustatytas sąlygas. Teisėtai pragyvento laikotarpio nustatymo ir apskaičiavimo tvarką išduodant užsieniečiui leidimą nuolat gyventi [[#^s-07002a1cb5aac560380727b8|šio straipsnio 1 dalies]] 8–82 punktuose nustatytais pagrindais nustato vidaus reikalų ministras. ^s-7bfd11f72c7a5ada148d95fd
 Straipsnio dalies pakeitimai:
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
@@ -3569,7 +3569,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 7. Šeimos nariams, atvykstantiems gyventi kartu su užsieniečiu, nurodytu [[#^s-07002a1cb5aac560380727b8|šio straipsnio 1 dalies]] 1 ir 2 punktuose, ir kartu gyvenantiems, išduodamas leidimas nuolat gyventi. ^s-a3385289f4e6ae94a00b664d
 
 
-8. Asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 0–55 procentų darbingumo lygis), ir asmenims, kuriems [[latest/TAR.199156E4E004|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo]] nustatyta tvarka yra nustatyti individualieji pagalbos poreikiai (iki 2023 m. gruodžio 31 d. – specialieji poreikiai), taip pat sunkių lėtinių psichikos ir elgesio sutrikimų turintiems asmenims, vaikams ir užsieniečiams, kurių anksčiau turėtas leidimas nuolat gyventi buvo panaikintas šio Įstatymo [[#^s-a2b1960c476147379cbe34c3|54 straipsnio 1 dalies]] 3 ar 4 punkte nustatytais pagrindais, [[#^s-d60921c6098b28d7ff624e26|šio straipsnio 6 dalyje]] nustatyti reikalavimai netaikomi. ^s-d8fc1efc4f2aaf1755c487fb
+8. Asmenims, kuriems sukako 65 metai, asmenims, kuriems nustatytas 0–55 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. – 0–55 procentų darbingumo lygis), ir asmenims, kuriems [[latest/TAR.199156E4E004|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo]] nustatyta tvarka yra nustatyti individualieji pagalbos poreikiai (iki 2023 m. gruodžio 31 d. – specialieji poreikiai), taip pat sunkių lėtinių psichikos ir elgesio sutrikimų turintiems asmenims, vaikams ir užsieniečiams, kurių anksčiau turėtas leidimas nuolat gyventi buvo panaikintas šio Įstatymo [[#^s-a2b1960c476147379cbe34c3|54 straipsnio 1 dalies]] [[#^s-34d0a2046b337b30ff859c6c|3]] ar [[#^s-daa8c8c6ce5234b210037493|4]] punkte nustatytais pagrindais, [[#^s-d60921c6098b28d7ff624e26|šio straipsnio 6 dalyje]] nustatyti reikalavimai netaikomi. ^s-d8fc1efc4f2aaf1755c487fb
 Straipsnio dalies pakeitimai:
 Nr. XIII-1921, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00854
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
@@ -3637,7 +3637,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-3) užsienietis gyvena ne Europos Sąjungos valstybėje narėje ilgiau negu 12 mėnesių iš eilės arba užsienietis, kuriam leidimas nuolat gyventi išduotas šio Įstatymo [[#^s-07002a1cb5aac560380727b8|53 straipsnio 1 dalies]] 81 ar 82 punkte nustatytu pagrindu, gyvena ne Europos Sąjungos valstybėje narėje ilgiau negu 24 mėnesius iš eilės; ^s-34d0a2046b337b30ff859c6c
+3) užsienietis gyvena ne Europos Sąjungos valstybėje narėje ilgiau negu 12 mėnesių iš eilės arba užsienietis, kuriam leidimas nuolat gyventi išduotas šio Įstatymo [[#^s-07002a1cb5aac560380727b8|53 straipsnio 1 dalies]] [[#^s-81c290934fc1932cb62e11fd|81]] ar [[#^s-73db29a75d1da0851c72bfcb|82]] punkte nustatytu pagrindu, gyvena ne Europos Sąjungos valstybėje narėje ilgiau negu 24 mėnesius iš eilės; ^s-34d0a2046b337b30ff859c6c
 Straipsnio punkto pakeitimai:
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
@@ -3773,7 +3773,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 2. Įvertinęs [[#^s-a0a92180ee9c40e9be9400a6|šio straipsnio 1 dalyje]] nurodytą siūlymą dėl kvotos nustatymo, kvotą kalendoriniams metams tvirtina socialinės apsaugos ir darbo ministras, suderinęs su vidaus reikalų ministru. Nustatomas kvotos dydis kalendoriniams metams negali būti didesnis negu 1,4 procento Valstybės duomenų agentūros praėjusių kalendorinių metų liepos 1 dieną paskelbto Lietuvos nuolatinių gyventojų skaičiaus dydžio. ^s-d6efa3a69ad92a31783a7bf8
 
 
-3. Kvota laikoma išnaudota, jeigu užsieniečių, kuriems tais metais buvo išduoti leidimai laikinai gyventi šio Įstatymo [[#^s-4d1c5605dd8ec777bb2ac280|44 straipsnio 1 dalies]] 2 ir 3 punkte nustatytu pagrindu, skaičius pasiekia kalendoriniams metams nustatytą kvotą. ^s-9077a271e95b00426bcfcbce
+3. Kvota laikoma išnaudota, jeigu užsieniečių, kuriems tais metais buvo išduoti leidimai laikinai gyventi šio Įstatymo [[#^s-4d1c5605dd8ec777bb2ac280|44 straipsnio 1 dalies]] [[#^s-8ea43336c002063f4ca9fb0f|2]] ir [[#^s-0015827839182bbc03003185|3]] punkte nustatytu pagrindu, skaičius pasiekia kalendoriniams metams nustatytą kvotą. ^s-9077a271e95b00426bcfcbce
 Straipsnio dalies pakeitimai:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
@@ -3811,7 +3811,7 @@ Straipsnio dalies pakeitimai:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
-1) turi arba kreipiasi dėl leidimo laikinai gyventi pakeitimo pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 1–3, 7–10 ar [[#^s-f3ac36eeb7cb42e08999d331|12 punktus]]; ^s-9b647d636ea507bddb70999b
+1) turi arba kreipiasi dėl leidimo laikinai gyventi pakeitimo pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] [[#^s-7cce2a7282a8a82dec4d1685|1]]–[[#^s-30abf4f549d34121ff2bceb9|3]], [[#^s-084abd5c505bae1e2fb106dc|7]]–[[#^s-c12176fb5015800a18189c20|10]] ar [[#^s-541dbc3e7957b22daa42c797|12]] punktus; ^s-9b647d636ea507bddb70999b
 Straipsnio punkto pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
@@ -3819,7 +3819,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-11) turi arba kreipiasi dėl leidimo laikinai gyventi pakeitimo pagal šio Įstatymo [[#^s-b6750d92d8ce4593dcc91ee6|40 straipsnio 1 dalies 6 punktą]] (kai leidimas laikinai gyventi išduotas pagal šio Įstatymo [[#^s-21aa4da0a9faab2969e5f1a0|46 straipsnio 1 dalies]] 1, 3 ar [[#^s-92176ed22b0b0efe2499f55e|5 punktą]]). Užsienietis, studijuojantis pirmosios pakopos 1 arba 2 kurse, gali dirbti tik laikydamasis apribojimo, nustatyto šio Įstatymo [[#^s-61b5f3e434d11661793c67dc|46 straipsnio 6 dalyje]]; ^s-02d48049b7b02da2a02c9fa6
+11) turi arba kreipiasi dėl leidimo laikinai gyventi pakeitimo pagal šio Įstatymo [[#^s-b6750d92d8ce4593dcc91ee6|40 straipsnio 1 dalies 6 punktą]] (kai leidimas laikinai gyventi išduotas pagal šio Įstatymo [[#^s-21aa4da0a9faab2969e5f1a0|46 straipsnio 1 dalies]] [[#^s-240568fedb1fc8fd7c65eb15|1]], [[#^s-d05b84d7a3eaed620acfba46|3]] ar [[#^s-0c78c745b8e2f8099210328f|5]] punktą). Užsienietis, studijuojantis pirmosios pakopos 1 arba 2 kurse, gali dirbti tik laikydamasis apribojimo, nustatyto šio Įstatymo [[#^s-61b5f3e434d11661793c67dc|46 straipsnio 6 dalyje]]; ^s-02d48049b7b02da2a02c9fa6
 Papildyta straipsnio punktu:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
@@ -3837,7 +3837,7 @@ Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 3) turi leidimą nuolat gyventi; ^s-0224bea87b7a7e3716f76a9d
 
 
-4) turi arba kreipiasi dėl leidimo laikinai gyventi pakeitimo pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 4, 41, 42, 5, 51, 13, 14, 15 ar [[#^s-15785b39330d8196e5ca03a7|16 punktą]] arba kreipiasi dėl leidimo laikinai gyventi išdavimo pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 41, 42 ar [[#^s-bcb17909f34f1a8ce41671d0|13 punktą]]; ^s-ee15ad7b3e4ee7cfbf54fa31
+4) turi arba kreipiasi dėl leidimo laikinai gyventi pakeitimo pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] [[#^s-4aeaba62648b88cd58cd0685|4]], [[#^s-ed146938bc60888b53cbd33d|41]], [[#^s-b9632fcb1a84760e8881f689|42]], [[#^s-98aa47efbcacdc6265ca5755|5]], [[#^s-55d1d6dbb7b205584f65614f|51]], [[#^s-b872b6ca39e84c336aac8b7b|13]], [[#^s-7df83a1bbdb9b5ccc98ea87f|14]], [[#^s-b6bc1dcee0960d8760f93ca4|15]] ar [[#^s-a28046983450940af11eb8e2|16]] punktą arba kreipiasi dėl leidimo laikinai gyventi išdavimo pagal šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] [[#^s-ed146938bc60888b53cbd33d|41]], [[#^s-b9632fcb1a84760e8881f689|42]] ar [[#^s-b872b6ca39e84c336aac8b7b|13]] punktą; ^s-ee15ad7b3e4ee7cfbf54fa31
 Straipsnio punkto pakeitimai:
 Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
@@ -3878,7 +3878,7 @@ Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 8) atvyksta į Lietuvos Respubliką ne ilgesniam kaip 3 mėnesių laikotarpiui per metus tvarkyti reikalų, susijusių su derybomis dėl sutarties sudarymo ir šios sutarties vykdymu, su personalo mokymu ar įrangos įdiegimu; ^s-a97fe09eef2c5650f7233566
 
 
-9) atvyksta į Lietuvos Respubliką užsiimti šio Įstatymo [[#^s-cbe3c5f9b970ac2b2e4d11e9|45 straipsnio 1 dalies]] 3–[[#^s-a97fe09eef2c5650f7233566|8 punktuose]] nurodyta teisėta veikla, taip pat dirbti kaip dėstytojas arba atlikti mokslinus tyrimus ir eksperimentinės plėtros darbus kaip tyrėjas, turėdamas darbo arba autorinę sutartį, sudarytą su mokslo ir studijų institucija; ^s-5850938ee5b22bb6ab5f4a2f
+9) atvyksta į Lietuvos Respubliką užsiimti šio Įstatymo [[#^s-cbe3c5f9b970ac2b2e4d11e9|45 straipsnio 1 dalies]] [[#^s-cb5cf35f2403a6811b318ac1|3]]–[[#^s-b9b8400a3e078eb58053f268|8]] punktuose nurodyta teisėta veikla, taip pat dirbti kaip dėstytojas arba atlikti mokslinus tyrimus ir eksperimentinės plėtros darbus kaip tyrėjas, turėdamas darbo arba autorinę sutartį, sudarytą su mokslo ir studijų institucija; ^s-5850938ee5b22bb6ab5f4a2f
 Straipsnio punkto pakeitimai:
 Nr. XIII-1310, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10963
 
@@ -3919,7 +3919,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-14) jis yra įgijęs šio Įstatymo [[#^s-7a9b46443d3d9486d6cd3bf6|221 straipsnio 1 dalies]] 3, 4 ar [[#^s-92176ed22b0b0efe2499f55e|5 punkte]], [[#^s-d8403c63fe24c8b4ffb6f87f|71 straipsnio 1 dalies 10 punkte]], [[#^s-96b26aed8293eafc1dc39bb3|14013 straipsnio 1 dalies 2 punkte]] arba [[#^s-5cb070cecce601fab248a614|14013 straipsnio 3 dalies 2 punkte]] nurodytą teisę arba jis yra šio Įstatymo [[#^s-0efd3a36ac6a0b0e550383eb|94 straipsnio 1 dalyje]] nurodytas užsienietis; ^s-d88487695858ea44bab6388c
+14) jis yra įgijęs šio Įstatymo [[#^s-7a9b46443d3d9486d6cd3bf6|221 straipsnio 1 dalies]] [[#^s-a880e1d85da08a576feb62c4|3]], [[#^s-b1bb409b9f53225e77ed1ffc|4]] ar [[#^s-aec77824743e8f6de38fd46a|5]] punkte, [[#^s-d8403c63fe24c8b4ffb6f87f|71 straipsnio 1 dalies 10 punkte]], [[#^s-96b26aed8293eafc1dc39bb3|14013 straipsnio 1 dalies 2 punkte]] arba [[#^s-5cb070cecce601fab248a614|14013 straipsnio 3 dalies 2 punkte]] nurodytą teisę arba jis yra šio Įstatymo [[#^s-0efd3a36ac6a0b0e550383eb|94 straipsnio 1 dalyje]] nurodytas užsienietis; ^s-d88487695858ea44bab6388c
 Papildyta straipsnio punktu:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Straipsnio punkto pakeitimai:
@@ -4034,7 +4034,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 1. Užsienietis gali įsidarbinti Lietuvos Respublikoje pagal darbo sutartį arba, kai jo nuolatinė darbo vieta yra užsienyje, gali būti komandiruojamas laikinai dirbti į Lietuvos Respubliką. ^s-a54be70a53463a4adb2e20fe
 
 
-2. Šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] 2–[[#^s-1cb5cc8f9d1c2b5e20acd0a6|5 dalyse]] nurodytas užsienietis teisėto buvimo Lietuvos Respublikoje laikotarpiu gali dirbti Lietuvos Respublikoje, jeigu jis atitinka šio Įstatymo [[#^s-7e5355aed89473d1f873f28a|58 straipsnio]] 4, 6–10 ir 13 punktuose arba [[#^s-9f32a0aa7494c96c6c5443be|59 straipsnio 2 dalyje]] nustatytas sąlygas. ^s-7293578bbd0767013146bcf3
+2. Šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] [[#^s-bec06f83eebdfe4f5b8a5b51|2]]–[[#^s-aa982ee003d377594b214732|5]] dalyse nurodytas užsienietis teisėto buvimo Lietuvos Respublikoje laikotarpiu gali dirbti Lietuvos Respublikoje, jeigu jis atitinka šio Įstatymo [[#^s-7e5355aed89473d1f873f28a|58 straipsnio]] 4, 6–10 ir 13 punktuose arba [[#^s-9f32a0aa7494c96c6c5443be|59 straipsnio 2 dalyje]] nustatytas sąlygas. ^s-7293578bbd0767013146bcf3
 
 
 3. Darbdavys gali sudaryti darbo sutartį su užsieniečiu, turinčiu šio Įstatymo [[#^s-20428f1918e2670e305342bc|57 straipsnio 1 dalies 1 punkte]] nurodytu pagrindu išduotą leidimą dirbti, arba užsieniečiu, turinčiu teisę dirbti pagal šio Įstatymo [[#^s-7e5355aed89473d1f873f28a|58 straipsnį]]. ^s-334ff0990017a992bcf105d0
@@ -4055,7 +4055,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 8. Darbdavys, įdarbinęs užsienietį, įmonė, į kurią užsienietis komandiruojamas laikinai dirbti, arba fizinis asmuo, pas kurį užsienietis komandiruojamas laikinai dirbti, informaciją apie įdarbintą arba komandiruotą laikinai dirbti į Lietuvos Respubliką užsienietį, taip pat apie darbo sutarties nutraukimą teikia Migracijos departamentui, Valstybinei darbo inspekcijai ir Užimtumo tarnybai per Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos informacinę sistemą Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos direktoriaus, Lietuvos Respublikos vyriausiojo valstybinio darbo inspektoriaus ir Užimtumo tarnybos direktoriaus nustatyta tvarka. ^s-9432a4a57c7f55990f63583e
 
 
-9. Kai užsieniečiui atsisakoma išduoti leidimą dirbti šio Įstatymo [[#^s-fddcb7589168e0f5bd15ee76|63 straipsnio 1 dalies]] 7 ar 9 punkte nustatytu pagrindu, darbdavys, kuris buvo įsipareigojęs užsienietį įdarbinti, gali pateikti prašymą išduoti leidimą dirbti praėjus ne mažiau kaip 6 mėnesiams nuo sprendimo atsisakyti išduoti leidimą dirbti priėmimo dienos. ^s-04b99cc75c702112d946d917
+9. Kai užsieniečiui atsisakoma išduoti leidimą dirbti šio Įstatymo [[#^s-fddcb7589168e0f5bd15ee76|63 straipsnio 1 dalies]] [[#^s-986ecea4b683c645a5b39410|7]] ar [[#^s-55bae4c0d4c8bcd56f992170|9]] punkte nustatytu pagrindu, darbdavys, kuris buvo įsipareigojęs užsienietį įdarbinti, gali pateikti prašymą išduoti leidimą dirbti praėjus ne mažiau kaip 6 mėnesiams nuo sprendimo atsisakyti išduoti leidimą dirbti priėmimo dienos. ^s-04b99cc75c702112d946d917
 
 
 Straipsnio pakeitimai:
@@ -4129,7 +4129,7 @@ Nr. XIII-219, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04613
 3) užsieniečio darbo užmokestis neatitinka šio Įstatymo [[#^s-1cb5cc8f9d1c2b5e20acd0a6|62 straipsnio 5 dalyje]] nurodyto dydžio; ^s-fd63879c63a7baca516cca78
 
 
-4) darbdavys, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba įmonė Lietuvos Respublikoje (ar fizinis asmuo), į kurią (pas kurį) užsienietis komandiruojamas laikinai dirbti, yra bausti už leidimą dirbti nelegalų darbą, nedeklaruotą darbą ar bent 2 kartus per pastaruosius metus yra bausti už užsieniečių įdarbinimo ar informavimo apie įdarbintus arba komandiruojamus laikinai dirbti į Lietuvos Respubliką užsieniečius tvarkos pažeidimus pagal [[latest/422c8b5042b811e6a8ae9e1795984391#^s-a7fd8f938286d857d314f1b1|Užimtumo įstatymo 56, 561, 57 ar 58 straipsnio]] nuostatas ir nuo nutarimo įsiteisėjimo dienos praėjo mažiau kaip 1 metai arba per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbo. Taip pat kai darbdavio, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba įmonės Lietuvos Respublikoje, į kurią užsienietis komandiruojamas laikinai dirbti, vadovas ar kitas atsakingas asmuo, fizinis asmuo, pas kurį užsienietis komandiruojamas laikinai dirbti, buvo bausti pagal Administracinių nusižengimų kodekso [[#^s-5f6ce3cdb668e693c27536ed|95 straipsnio]] nuostatas ir nuo nutarimo administracinio nusižengimo byloje įsiteisėjimo dienos praėjo mažiau kaip 1 metai; ^s-dab275cc837c98e19fda45f3
+4) darbdavys, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba įmonė Lietuvos Respublikoje (ar fizinis asmuo), į kurią (pas kurį) užsienietis komandiruojamas laikinai dirbti, yra bausti už leidimą dirbti nelegalų darbą, nedeklaruotą darbą ar bent 2 kartus per pastaruosius metus yra bausti už užsieniečių įdarbinimo ar informavimo apie įdarbintus arba komandiruojamus laikinai dirbti į Lietuvos Respubliką užsieniečius tvarkos pažeidimus pagal [[latest/422c8b5042b811e6a8ae9e1795984391|Užimtumo įstatymo]] [[latest/422c8b5042b811e6a8ae9e1795984391#^s-c32bb96d59f12719f70fa948|56]], [[latest/422c8b5042b811e6a8ae9e1795984391#^s-80b5a2c86b8dd272de72c28d|561]], [[latest/422c8b5042b811e6a8ae9e1795984391#^s-28948307c543e68b9ca304ce|57]] ar [[latest/422c8b5042b811e6a8ae9e1795984391#^s-a7fd8f938286d857d314f1b1|58]] straipsnio nuostatas ir nuo nutarimo įsiteisėjimo dienos praėjo mažiau kaip 1 metai arba per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbo. Taip pat kai darbdavio, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba įmonės Lietuvos Respublikoje, į kurią užsienietis komandiruojamas laikinai dirbti, vadovas ar kitas atsakingas asmuo, fizinis asmuo, pas kurį užsienietis komandiruojamas laikinai dirbti, buvo bausti pagal Administracinių nusižengimų kodekso [[#^s-5f6ce3cdb668e693c27536ed|95 straipsnio]] nuostatas ir nuo nutarimo administracinio nusižengimo byloje įsiteisėjimo dienos praėjo mažiau kaip 1 metai; ^s-dab275cc837c98e19fda45f3
 Straipsnio punkto pakeitimai:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
@@ -4162,7 +4162,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 3) nustatoma, kad užsienietis neatitinka leidimo dirbti išdavimo sąlygų, nustatytų šio Įstatymo [[#^s-80d80efac91f50d2a5d8a849|57 straipsnio 1 dalies 2 punkte]] ar [[#^s-1130f2599d9b67909743c4e3|621 straipsnio 1 dalyje]]; ^s-ebb35f56e56b0331fa5a5a81
 
 
-4) darbdavys, kuris įsipareigojo įdarbinti užsienietį pagal darbo sutartį, arba įmonė Lietuvos Respublikoje (ar fizinis asmuo), į kurią (pas kurį) užsienietis komandiruojamas laikinai dirbti, yra bausti už leidimą dirbti nelegalų darbą pagal [[latest/422c8b5042b811e6a8ae9e1795984391#^s-80b5a2c86b8dd272de72c28d|Užimtumo įstatymo 56 ar 561 straipsnio]] nuostatas arba bent 2 kartus per pastaruosius metus yra bausti už nedeklaruotą darbą pagal [[latest/422c8b5042b811e6a8ae9e1795984391#^s-a7fd8f938286d857d314f1b1|Užimtumo įstatymo 58 straipsnį]] ir nuo nutarimo įsiteisėjimo dienos praėjo mažiau kaip 1 metai arba per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbo, arba darbdavio, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba įmonės Lietuvos Respublikoje, į kurią užsienietis komandiruojamas laikinai dirbti, vadovas ar kitas atsakingas asmuo, fizinis asmuo, pas kurį užsienietis komandiruojamas laikinai dirbti, buvo bausti pagal Administracinių nusižengimų kodekso [[#^s-5f6ce3cdb668e693c27536ed|95 straipsnio]] nuostatas ir nuo nutarimo administracinio nusižengimo byloje įsiteisėjimo dienos praėjo mažiau kaip 1 metai; ^s-4ed62212ae12a76cc3e2cd6a
+4) darbdavys, kuris įsipareigojo įdarbinti užsienietį pagal darbo sutartį, arba įmonė Lietuvos Respublikoje (ar fizinis asmuo), į kurią (pas kurį) užsienietis komandiruojamas laikinai dirbti, yra bausti už leidimą dirbti nelegalų darbą pagal [[latest/422c8b5042b811e6a8ae9e1795984391|Užimtumo įstatymo]] [[latest/422c8b5042b811e6a8ae9e1795984391#^s-c32bb96d59f12719f70fa948|56]] ar [[latest/422c8b5042b811e6a8ae9e1795984391#^s-80b5a2c86b8dd272de72c28d|561]] straipsnio nuostatas arba bent 2 kartus per pastaruosius metus yra bausti už nedeklaruotą darbą pagal [[latest/422c8b5042b811e6a8ae9e1795984391#^s-a7fd8f938286d857d314f1b1|Užimtumo įstatymo 58 straipsnį]] ir nuo nutarimo įsiteisėjimo dienos praėjo mažiau kaip 1 metai arba per pastaruosius 5 metus yra įsiteisėjęs apkaltinamasis teismo nuosprendis dėl Lietuvos Respublikoje nelegaliai esančių trečiųjų šalių piliečių darbo, arba darbdavio, kuris įsipareigoja įdarbinti užsienietį pagal darbo sutartį, arba įmonės Lietuvos Respublikoje, į kurią užsienietis komandiruojamas laikinai dirbti, vadovas ar kitas atsakingas asmuo, fizinis asmuo, pas kurį užsienietis komandiruojamas laikinai dirbti, buvo bausti pagal Administracinių nusižengimų kodekso [[#^s-5f6ce3cdb668e693c27536ed|95 straipsnio]] nuostatas ir nuo nutarimo administracinio nusižengimo byloje įsiteisėjimo dienos praėjo mažiau kaip 1 metai; ^s-4ed62212ae12a76cc3e2cd6a
 Straipsnio punkto pakeitimai:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
@@ -4505,7 +4505,7 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-5. Šio straipsnio 1–[[#^s-363cc3bd3b015b55f9c9b320|21 dalyse]] nustatytoms prieglobsčio prašytojų teisėms įgyvendinti ir [[#^s-b564b6d27e14d41f8d129a9e|šio straipsnio 3 dalyje]] nurodytai piniginei pašalpai mokėti skiriamos Lietuvos Respublikos valstybės lėšos, taip pat gali būti naudojamos tarptautinių organizacijų, Europos Sąjungos struktūrinių fondų, Lietuvos Respublikos fizinių ir juridinių asmenų įsteigtų humanitarinės pagalbos fondų, nevyriausybinių organizacijų lėšos tiek, kiek prieglobsčio prašytojas jų negali garantuoti deklaruotinomis lėšomis ir turtu. Lietuvos Respublikos valstybės lėšos [[#^s-21ab9c61630a727f12030997|šio straipsnio 1 dalies]]  1–5 punktuose nustatytoms teisėms įgyvendinti ir [[#^s-b564b6d27e14d41f8d129a9e|šio straipsnio 3 dalyje]] nurodytai piniginei pašalpai mokėti naudojamos tiek, kiek prieglobsčio prašytojas jų negali įgyvendinti savo turimomis lėšomis, ir tiek, kiek jos neįgyvendinamos tarptautinių organizacijų, Europos Sąjungos struktūrinių fondų, Lietuvos Respublikos fizinių ir juridinių asmenų įsteigtų humanitarinės pagalbos fondų, nevyriausybinių organizacijų lėšomis. ^s-f3faac7574554aa3e93edb44
+5. Šio straipsnio [[#^s-21ab9c61630a727f12030997|1]]–[[#^s-363cc3bd3b015b55f9c9b320|21]] dalyse nustatytoms prieglobsčio prašytojų teisėms įgyvendinti ir [[#^s-b564b6d27e14d41f8d129a9e|šio straipsnio 3 dalyje]] nurodytai piniginei pašalpai mokėti skiriamos Lietuvos Respublikos valstybės lėšos, taip pat gali būti naudojamos tarptautinių organizacijų, Europos Sąjungos struktūrinių fondų, Lietuvos Respublikos fizinių ir juridinių asmenų įsteigtų humanitarinės pagalbos fondų, nevyriausybinių organizacijų lėšos tiek, kiek prieglobsčio prašytojas jų negali garantuoti deklaruotinomis lėšomis ir turtu. Lietuvos Respublikos valstybės lėšos [[#^s-21ab9c61630a727f12030997|šio straipsnio 1 dalies]]  1–5 punktuose nustatytoms teisėms įgyvendinti ir [[#^s-b564b6d27e14d41f8d129a9e|šio straipsnio 3 dalyje]] nurodytai piniginei pašalpai mokėti naudojamos tiek, kiek prieglobsčio prašytojas jų negali įgyvendinti savo turimomis lėšomis, ir tiek, kiek jos neįgyvendinamos tarptautinių organizacijų, Europos Sąjungos struktūrinių fondų, Lietuvos Respublikos fizinių ir juridinių asmenų įsteigtų humanitarinės pagalbos fondų, nevyriausybinių organizacijų lėšomis. ^s-f3faac7574554aa3e93edb44
 Straipsnio dalies pakeitimai:
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
@@ -4608,7 +4608,7 @@ PRIEGLOBSČIO LIETUVOS RESPUBLIKOJE SUTEIKIMO TVARKA
 1. Migracijos departamentas, įvertinęs surinktus įrodymus bei nustatytas faktines aplinkybes ir nustatęs, kad už prašymo suteikti prieglobstį nagrinėjimą yra atsakinga Lietuvos Respublika ir nėra aplinkybių, nurodytų šio Įstatymo [[#^s-3e36ac56caef00d49f4b8b89|77 straipsnio 1 dalyje]], nagrinėja prašymą suteikti prieglobstį iš esmės. ^s-993e0151406ebdff79950b2f
 
 
-2. Nagrinėdamas prašymą suteikti prieglobstį iš esmės, Migracijos departamentas atlieka tyrimą, kurio tikslas – nustatyti, ar prieglobsčio prašytojas atitinka šio Įstatymo 86 ar [[#^s-675ff851781883ef067dc123|87 straipsnyje]] nustatytus kriterijus, taip pat ar nėra aplinkybių, nurodytų šio Įstatymo [[#^s-f81de294c3fbc933b797cec4|88 straipsnyje]]. ^s-0c842c7c489613cfe1116531
+2. Nagrinėdamas prašymą suteikti prieglobstį iš esmės, Migracijos departamentas atlieka tyrimą, kurio tikslas – nustatyti, ar prieglobsčio prašytojas atitinka šio Įstatymo [[#^s-97022cb3d7fff74f5dd5ee47|86]] ar [[#^s-675ff851781883ef067dc123|87]] straipsnyje nustatytus kriterijus, taip pat ar nėra aplinkybių, nurodytų šio Įstatymo [[#^s-f81de294c3fbc933b797cec4|88 straipsnyje]]. ^s-0c842c7c489613cfe1116531
 
 
 3. Prireikus Migracijos departamentas prašymams suteikti prieglobstį nagrinėti pasitelkia reikiamų sričių specialistus ar ekspertus. ^s-6b974100289c26b8f1aa4374
@@ -4629,7 +4629,7 @@ PRIEGLOBSČIO LIETUVOS RESPUBLIKOJE SUTEIKIMO TVARKA
 4) pateikia prašymą suteikti prieglobstį, kuris yra paremtas prieglobsčio prašytojo pateiktais duomenimis, kurie yra nenuoseklūs, prieštaringi, klaidinantys bei prieštaraujantys surinktai informacijai apie užsieniečio kilmės šalį ir dėl to akivaizdžiai neįtikinami; ^s-4f036cfd4607a0b2214cacc1
 
 
-5) pateikia paskesnį prašymą suteikti prieglobstį, kai neatsirado arba nebuvo pateikta naujos esminės informacijos arba duomenų, dėl kurių labai padidėja tikimybė, kad prieglobsčio prašytojas gali atitikti šio Įstatymo 86 ar [[#^s-675ff851781883ef067dc123|87 straipsnyje]] nustatytus kriterijus; ^s-5bdb6322efc2e1c3d70e8200
+5) pateikia paskesnį prašymą suteikti prieglobstį, kai neatsirado arba nebuvo pateikta naujos esminės informacijos arba duomenų, dėl kurių labai padidėja tikimybė, kad prieglobsčio prašytojas gali atitikti šio Įstatymo [[#^s-97022cb3d7fff74f5dd5ee47|86]] ar [[#^s-675ff851781883ef067dc123|87]] straipsnyje nustatytus kriterijus; ^s-5bdb6322efc2e1c3d70e8200
 
 
 6) pateikia prašymą suteikti prieglobstį tik siekdamas sutrukdyti priimti ar įvykdyti sprendimą grąžinti ar išsiųsti užsienietį į užsienio valstybę; ^s-c8186a336fce2b97e4f8b58f
@@ -4705,7 +4705,7 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 ### 79 straipsnis. Prieglobsčio prašytojo apgyvendinimas Lietuvos Respublikoje ^s-87a3a802af7291df6c0fb55a
 
 
-1. Prieglobsčio prašytojai, išskyrus šio straipsnio 2 ir [[#^s-7b7275e36b185b9c14038c60|5 dalyse]] nurodytus atvejus ir prieglobsčio prašytojus, kurie yra sulaikyti, apgyvendinami laikino apgyvendinimo vietose. ^s-3d8dcff6dab16683a02a1459
+1. Prieglobsčio prašytojai, išskyrus šio straipsnio [[#^s-bfdc68d51e26f68e91fe5938|2]] ir [[#^s-7b7275e36b185b9c14038c60|5]] dalyse nurodytus atvejus ir prieglobsčio prašytojus, kurie yra sulaikyti, apgyvendinami laikino apgyvendinimo vietose. ^s-3d8dcff6dab16683a02a1459
 
 
 2. Prieglobsčio prašytojui pateikus prašymą, Migracijos departamento sprendimu jam gali būti leista apsigyventi jo pasirinktoje gyvenamojoje vietoje. ^s-bfdc68d51e26f68e91fe5938
@@ -4787,7 +4787,7 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 ### 821 straipsnis. Medicininė apžiūra ^s-9b9a0e733f0a86d36bb5433a
 
 
-1. Kai nagrinėjant prašymą suteikti prieglobstį iš esmės nustatoma, kad medicininės apžiūros rezultatai gali patvirtinti arba paneigti prieglobsčio prašytojo pateiktus duomenis, kurie gali turėti esminės įtakos nustatant, ar prieglobsčio prašytojas atitinka šio Įstatymo 86 ar [[#^s-675ff851781883ef067dc123|87 straipsnyje]] nustatytus kriterijus, Migracijos departamentas vidaus reikalų ministro nustatyta tvarka organizuoja ir apmoka prieglobsčio prašytojo medicininės apžiūros atlikimą. ^s-ad161f2750adb00b3a2c4cd9
+1. Kai nagrinėjant prašymą suteikti prieglobstį iš esmės nustatoma, kad medicininės apžiūros rezultatai gali patvirtinti arba paneigti prieglobsčio prašytojo pateiktus duomenis, kurie gali turėti esminės įtakos nustatant, ar prieglobsčio prašytojas atitinka šio Įstatymo [[#^s-97022cb3d7fff74f5dd5ee47|86]] ar [[#^s-675ff851781883ef067dc123|87]] straipsnyje nustatytus kriterijus, Migracijos departamentas vidaus reikalų ministro nustatyta tvarka organizuoja ir apmoka prieglobsčio prašytojo medicininės apžiūros atlikimą. ^s-ad161f2750adb00b3a2c4cd9
 
 
 2. [[#^s-ad161f2750adb00b3a2c4cd9|Šio straipsnio 1 dalyje]] nurodyta medicininė apžiūra gali būti atliekama tik prieglobsčio prašytojo sutikimu. Jeigu prieglobsčio prašytojas yra nepilnametis, tokia apžiūra atliekama tik gavus teisėto atstovo arba atstovo sutikimą. ^s-9c253dea7f1aaa19a693599f
@@ -4863,7 +4863,7 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 3. Sprendimą nutraukti arba atnaujinti prieglobsčio prašytojo prašymo suteikti prieglobstį nagrinėjimą priima Migracijos departamentas. ^s-dcad0af10905c977881d8541
 
 
-4. Jeigu prašymo suteikti prieglobstį nagrinėjimas nutraukiamas, nutraukiamas ir paslaugų bei paramos, įgyvendinant šio Įstatymo [[#^s-9340dd3011bf88a9fd46baac|71 straipsnio]] 1 ir [[#^s-dd4be8c03fd60bd2cdbb516e|2 dalyse]] nurodytas teises, teikimas ir šio Įstatymo [[#^s-b564b6d27e14d41f8d129a9e|71 straipsnio 3 dalyje]] nurodytos piniginės pašalpos mokėjimas. Paslaugų ir paramos teikimas atnaujinamas atnaujinus prašymo suteikti prieglobstį nagrinėjimą. ^s-2518dcd0a57882d2b039317a
+4. Jeigu prašymo suteikti prieglobstį nagrinėjimas nutraukiamas, nutraukiamas ir paslaugų bei paramos, įgyvendinant šio Įstatymo [[#^s-9340dd3011bf88a9fd46baac|71 straipsnio]] [[#^s-21ab9c61630a727f12030997|1]] ir [[#^s-cd1d840e398e8eabf6149fb4|2]] dalyse nurodytas teises, teikimas ir šio Įstatymo [[#^s-b564b6d27e14d41f8d129a9e|71 straipsnio 3 dalyje]] nurodytos piniginės pašalpos mokėjimas. Paslaugų ir paramos teikimas atnaujinamas atnaujinus prašymo suteikti prieglobstį nagrinėjimą. ^s-2518dcd0a57882d2b039317a
 
 
 Straipsnio pakeitimai:
@@ -4875,7 +4875,7 @@ Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 ### 86 straipsnis. Pabėgėlio statuso suteikimas ^s-97022cb3d7fff74f5dd5ee47
 
 
-1. Pabėgėlio statusas suteikiamas prieglobsčio prašytojui, kuris dėl visiškai pagrįstos baimės būti persekiojamas dėl rasės, religijos, tautybės, priklausymo tam tikrai socialinei grupei ar dėl politinių įsitikinimų yra už valstybės, kurios pilietis jis yra, ribų ir negali ar bijo naudotis tos valstybės apsauga arba neturi atitinkamos užsienio valstybės pilietybės, yra už valstybės, kurioje buvo jo nuolatinė gyvenamoji vieta, ribų ir dėl išvardytų priežasčių negali ar bijo į ją grįžti, jeigu nėra priežasčių, nustatytų šio Įstatymo [[#^s-f81de294c3fbc933b797cec4|88 straipsnio]] 1, [[#^s-51dd1d54c6fc9e5f0bfd1f10|2 dalyse]]. ^s-1c1184980d09fce1260fd226
+1. Pabėgėlio statusas suteikiamas prieglobsčio prašytojui, kuris dėl visiškai pagrįstos baimės būti persekiojamas dėl rasės, religijos, tautybės, priklausymo tam tikrai socialinei grupei ar dėl politinių įsitikinimų yra už valstybės, kurios pilietis jis yra, ribų ir negali ar bijo naudotis tos valstybės apsauga arba neturi atitinkamos užsienio valstybės pilietybės, yra už valstybės, kurioje buvo jo nuolatinė gyvenamoji vieta, ribų ir dėl išvardytų priežasčių negali ar bijo į ją grįžti, jeigu nėra priežasčių, nustatytų šio Įstatymo [[#^s-f81de294c3fbc933b797cec4|88 straipsnio]] [[#^s-34b8afcf3d2b6ff456ffae7e|1]], [[#^s-8c53df2ea6e10fc3a2e8b5e2|2]] dalyse. ^s-1c1184980d09fce1260fd226
 
 
 2. [[#^s-1c1184980d09fce1260fd226|Šio straipsnio 1 dalyje]] nurodyto persekiojimo vykdytojais gali būti valstybė, valstybę ar didelę jos teritorijos dalį valdančios grupės ar organizacijos, taip pat nevalstybiniai subjektai, jeigu valstybė, valstybę ar didelę jos teritorijos dalį valdančios grupės ar organizacijos, įskaitant tarptautines organizacijas, negali arba nenori suteikti veiksmingos ir ilgalaikio pobūdžio apsaugos nuo persekiojimo. Paprastai laikoma, kad suteikiama veiksminga ir ilgalaikio pobūdžio apsauga, kai valstybė, valstybę ar didelę jos teritorijos dalį valdanti grupė ar organizacija, įskaitant tarptautines organizacijas, imasi pagrįstų priemonių, kad užkirstų kelią persekiojimui ar šio Įstatymo [[#^s-ea3b93fc2eb7e9d2c96dbf92|87 straipsnio 1 dalyje]] nurodytiems veiksmams, taikydami veiksmingą teisinę sistemą persekiojimui ar šio Įstatymo [[#^s-ea3b93fc2eb7e9d2c96dbf92|87 straipsnio 1 dalyje]] nurodytiems veiksmams nustatyti, persekioti dėl tokių veiksmų ir nubausti už juos. ^s-51dd1d54c6fc9e5f0bfd1f10
@@ -4933,7 +4933,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 1. Užsieniečių perkėlimas vykdomas bendradarbiaujant su kitomis Europos Sąjungos valstybėmis narėmis, trečiosiomis valstybėmis, Europos Sąjungos institucijomis ar tarptautinėmis organizacijomis. ^s-c2a6409c377cb0406e08b267
 
 
-2. Sprendimą dėl užsieniečių perkėlimo į Lietuvos Respublikos teritoriją priima Lietuvos Respublikos Vyriausybė. ^s-994c60f953c53f436902fc85
+2. Sprendimą [dėl užsieniečių perkėlimo į Lietuvos Respublikos teritoriją](https://e-tar.lt/portal/lt/legalAct/fe6ffa00196911e58569be21ff080a8c) priima Lietuvos Respublikos Vyriausybė. ^s-994c60f953c53f436902fc85
 
 
 3. Migracijos departamentas, vadovaudamasis šiuo Įstatymu, priima sprendimą dėl kiekvieno perkėlimui atrinkto užsieniečio perkėlimo į Lietuvos Respublikos teritoriją. ^s-0a13961c2b10d39c8da5700e
@@ -5015,7 +5015,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 ### 89 straipsnis. Kelionės dokumentų išdavimas užsieniečiams, gavusiems prieglobstį Lietuvos Respublikoje ^s-5b9cc49724948b06cc17cb7a
 
 
-1. Pabėgėliui, kuris nuolat gyvena Lietuvos Respublikoje, išvykti į užsienio valstybę vidaus reikalų ministro nustatyta tvarka išduodamas pabėgėlio kelionės dokumentas. Pabėgėlio kelionės dokumente elektroniniu būdu fiksuojami pabėgėlio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 2252/2004 numatytus atvejus. ^s-946befdc60ddf8a3b5b7c5c9
+1. Pabėgėliui, kuris nuolat gyvena Lietuvos Respublikoje, išvykti į užsienio valstybę vidaus reikalų ministro nustatyta tvarka išduodamas pabėgėlio kelionės dokumentas. Pabėgėlio kelionės dokumente elektroniniu būdu fiksuojami pabėgėlio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus [Reglamente (EB) Nr. 2252/2004](https://eur-lex.europa.eu/eli/reg/2252/2004/oj) numatytus atvejus. ^s-946befdc60ddf8a3b5b7c5c9
 
 
 2. Užsieniečiui, kuriam suteikta papildoma apsauga, gyvenančiam Lietuvos Respublikoje, pagal šio Įstatymo [[#^s-5caed3f65d295272dda603d2|37 straipsnio]] nuostatas išduodamas užsieniečio pasas. ^s-a7f5bbc560e873d979a6dd11
@@ -5062,7 +5062,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 7) pabėgėlio statusą gavo apgaulės būdu, išskyrus atvejus, kai jo pateikta informacija apie save neturėjo esminės įtakos priimant sprendimą suteikti jam pabėgėlio statusą; ^s-b0f4bc9ea46c13e31fac98ca
 
 
-8) gavo pabėgėlio statusą, nors toks statusas jam neturėjo būti suteiktas dėl šio Įstatymo [[#^s-8c53df2ea6e10fc3a2e8b5e2|88 straipsnio 2 dalies]] 1–[[#^s-dff47190e13272f3f5aa24ff|4 punktuose]] numatytų aplinkybių; ^s-64e49a366f9b0283316947a6
+8) gavo pabėgėlio statusą, nors toks statusas jam neturėjo būti suteiktas dėl šio Įstatymo [[#^s-8c53df2ea6e10fc3a2e8b5e2|88 straipsnio 2 dalies]] [[#^s-a72b8879eb4e14f28c4768fd|1]]–[[#^s-ee2b792e40bed4bebc848628|4]] punktuose numatytų aplinkybių; ^s-64e49a366f9b0283316947a6
 Straipsnio punkto pakeitimai:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
@@ -5094,7 +5094,7 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 
 
-3. Paaiškėjus šio straipsnio 1 ir [[#^s-342ef74405c9161dc99d4aa4|2 dalyse]] nurodytoms aplinkybėms, Migracijos departamentas pradeda pabėgėlio statuso ar papildomos apsaugos panaikinimo procedūrą. Sprendimą dėl pabėgėlio statuso arba papildomos apsaugos panaikinimo priima Migracijos departamentas. ^s-090fd512077094a29f471711
+3. Paaiškėjus šio straipsnio [[#^s-eac4eb64963f2250ea3d5027|1]] ir [[#^s-342ef74405c9161dc99d4aa4|2]] dalyse nurodytoms aplinkybėms, Migracijos departamentas pradeda pabėgėlio statuso ar papildomos apsaugos panaikinimo procedūrą. Sprendimą dėl pabėgėlio statuso arba papildomos apsaugos panaikinimo priima Migracijos departamentas. ^s-090fd512077094a29f471711
 Straipsnio dalies pakeitimai:
 Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
@@ -5145,7 +5145,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 4. Prašymo suteikti prieglobstį nagrinėjimo metu Jungtinių Tautų vyriausiojo pabėgėlių komisaro valdybos atstovai gali teikti nuomonę dėl tam tikro prašymo suteikti prieglobstį Lietuvos Respublikos kompetentingoms institucijoms ir įstaigoms bei teismams. ^s-0e8eacddcfa76062e06bb9de
 
 
-5. Šio straipsnio 2–[[#^s-0e8eacddcfa76062e06bb9de|4 dalys]] taikomos ir tuo atveju, kai šio Įstatymo nustatyta tvarka priimamas sprendimas dėl užsieniečiui suteikto prieglobsčio panaikinimo. ^s-4a5d426be5151a2fcfa1bb60
+5. Šio straipsnio [[#^s-2b3c5ef61d066204e41f9ab3|2]]–[[#^s-0e8eacddcfa76062e06bb9de|4]] dalys taikomos ir tuo atveju, kai šio Įstatymo nustatyta tvarka priimamas sprendimas dėl užsieniečiui suteikto prieglobsčio panaikinimo. ^s-4a5d426be5151a2fcfa1bb60
 
 
 Straipsnio pakeitimai:
@@ -5173,7 +5173,7 @@ LAIKINOSIOS APSAUGOS SUTEIKIMAS
 4. Pasibaigus [[#^s-46e0c14afdaa246a39f9dfe8|šio straipsnio 3 dalyje]] nurodytam laikinosios apsaugos laikotarpiui, Lietuvos Respublikos Vyriausybė laikinosios apsaugos suteikimo laikotarpį gali pratęsti, bet ne ilgiau kaip vieneriems metams, jeigu sprendimą pratęsti laikinosios apsaugos laikotarpį priima Europos Sąjungos Taryba. ^s-10c038d5232ecc82bb34e6de
 
 
-5. Laikinosios apsaugos terminas baigiasi pasibaigus šio straipsnio 3 ar [[#^s-10c038d5232ecc82bb34e6de|4 dalyje]] nustatytam laikinosios apsaugos laikotarpiui arba Europos Sąjungos Tarybai priėmus sprendimą panaikinti laikinąją apsaugą. ^s-ddc7407f6e4ec2d6b5b95c52
+5. Laikinosios apsaugos terminas baigiasi pasibaigus šio straipsnio [[#^s-46e0c14afdaa246a39f9dfe8|3]] ar [[#^s-10c038d5232ecc82bb34e6de|4]] dalyje nustatytam laikinosios apsaugos laikotarpiui arba Europos Sąjungos Tarybai priėmus sprendimą panaikinti laikinąją apsaugą. ^s-ddc7407f6e4ec2d6b5b95c52
 
 
 6. Lietuvos Respublikos Vyriausybė, priimdama [[#^s-d328f5db94d8082372b69e81|šio straipsnio 1 dalyje]] nurodytą nutarimą, paskiria valstybės institucijas ir įstaigas, atsakingas už laikinosios apsaugos suteikimo ir įgyvendinimo proceso valdymą, ir suteikia joms įgaliojimus. ^s-6e6fb7eaa92126af6f23f59d
@@ -5230,7 +5230,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-5) pateikę prašymą išduoti arba pakeisti leidimą laikinai gyventi šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] 4 ar [[#^s-0c9d8621be6eb5524860a29a|10 punkte]] nurodytu pagrindu, – dirbti (taip pat ir pagal laikinojo darbo sutartį) ir vykdyti savarankišką veiklą; ^s-f72ae16416c86db1218a15cd
+5) pateikę prašymą išduoti arba pakeisti leidimą laikinai gyventi šio Įstatymo [[#^s-8ba1da3fb5532298d28684ed|40 straipsnio 1 dalies]] [[#^s-4aeaba62648b88cd58cd0685|4]] ar [[#^s-c12176fb5015800a18189c20|10]] punkte nurodytu pagrindu, – dirbti (taip pat ir pagal laikinojo darbo sutartį) ir vykdyti savarankišką veiklą; ^s-f72ae16416c86db1218a15cd
 Straipsnio punkto pakeitimai:
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
@@ -5261,13 +5261,13 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 3. Užsieniečiai, kuriems suteikta laikinoji apsauga, laikinosios apsaugos laikotarpiu turi šias teises: ^s-6d5aaf26fe94f43ce84aa79a
 
 
-1) numatytas šio straipsnio 1 ir [[#^s-db35d6bb73febb95c6676082|2 dalyse]]; ^s-004fc0ca3ae7284dd6969738
+1) numatytas šio straipsnio [[#^s-0efd3a36ac6a0b0e550383eb|1]] ir [[#^s-db35d6bb73febb95c6676082|2]] dalyse; ^s-004fc0ca3ae7284dd6969738
 
 
 2) gauti piniginę socialinę paramą nepasiturintiems gyventojams, išmokas vaikams, laidojimo pašalpą, slaugos ir priežiūros (pagalbos) išlaidų tikslinę kompensaciją, šalpos išmoką, pateikę prašymą nurodytos socialinės paramos skyrimą ir mokėjimą reglamentuojančių teisės aktų nustatyta tvarka; ^s-e64728e21d34ad619977e9cd
 
 
-3) gauti šio Įstatymo [[#^s-1e231528f97d3db71288d98a|108 straipsnio 1 dalies]] 2 ir [[#^s-59030c3fc55cbf099b9312f9|5 punktuose]] nurodytas išmoką ir kompensaciją, kurių skyrimo ir finansavimo tvarką nustato socialinės apsaugos ir darbo ministras. Šio Įstatymo [[#^s-8146ccd23abfbd5027ea77ff|108 straipsnio 1 dalies 5 punkte]] nurodyta kompensacija mokama ne daugiau kaip už 6 mėnesius nuo ikimokyklinio ir (arba) priešmokyklinio ugdymo pagal ikimokyklinio ar priešmokyklinio ugdymo programą pradžios ir neturi įtakos kitoms užsieniečiams pagal Lietuvos Respublikos įstatymus priklausančioms kas mėnesį mokamoms išmokoms ir (ar) kompensacijoms, taip pat skiriamai piniginei socialinei paramai, paramai būstui įsigyti ar išsinuomoti arba apmokėjimui už socialines paslaugas; ^s-cf3b23ac992fa20a36e6feba
+3) gauti šio Įstatymo [[#^s-1e231528f97d3db71288d98a|108 straipsnio 1 dalies]] [[#^s-8f36b9584468282686e05337|2]] ir [[#^s-8146ccd23abfbd5027ea77ff|5]] punktuose nurodytas išmoką ir kompensaciją, kurių skyrimo ir finansavimo tvarką nustato socialinės apsaugos ir darbo ministras. Šio Įstatymo [[#^s-8146ccd23abfbd5027ea77ff|108 straipsnio 1 dalies 5 punkte]] nurodyta kompensacija mokama ne daugiau kaip už 6 mėnesius nuo ikimokyklinio ir (arba) priešmokyklinio ugdymo pagal ikimokyklinio ar priešmokyklinio ugdymo programą pradžios ir neturi įtakos kitoms užsieniečiams pagal Lietuvos Respublikos įstatymus priklausančioms kas mėnesį mokamoms išmokoms ir (ar) kompensacijoms, taip pat skiriamai piniginei socialinei paramai, paramai būstui įsigyti ar išsinuomoti arba apmokėjimui už socialines paslaugas; ^s-cf3b23ac992fa20a36e6feba
 
 
 4) kreiptis į Asmens su negalia teisių apsaugos agentūrą prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos dėl jiems jų kilmės valstybėje nustatytos negalios prilyginimo [[latest/TAR.199156E4E004|Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatyme]] reglamentuojamai negaliai socialinės apsaugos ir darbo ministro nustatyta tvarka; ^s-fcf65b3cd2781987db6662d5
@@ -5327,10 +5327,10 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-10. Šio straipsnio 1, 2 ir [[#^s-6d5aaf26fe94f43ce84aa79a|3 dalyse]] nustatytoms užsieniečių teisėms įgyvendinti skiriamos Lietuvos Respublikos valstybės lėšos, taip pat gali būti naudojamos tarptautinių organizacijų, Europos Sąjungos fondų, Europos Sąjungos struktūrinių fondų, Lietuvos Respublikos fizinių ir juridinių asmenų įsteigtų humanitarinės pagalbos fondų, nevyriausybinių organizacijų lėšos tiek, kiek užsienietis, kuriam suteikta laikinoji apsauga, negali jų garantuoti turimomis lėšomis ir turtu. ^s-fca68fcc254b03cd48ef0326
+10. Šio straipsnio [[#^s-0efd3a36ac6a0b0e550383eb|1]], [[#^s-db35d6bb73febb95c6676082|2]] ir [[#^s-6d5aaf26fe94f43ce84aa79a|3]] dalyse nustatytoms užsieniečių teisėms įgyvendinti skiriamos Lietuvos Respublikos valstybės lėšos, taip pat gali būti naudojamos tarptautinių organizacijų, Europos Sąjungos fondų, Europos Sąjungos struktūrinių fondų, Lietuvos Respublikos fizinių ir juridinių asmenų įsteigtų humanitarinės pagalbos fondų, nevyriausybinių organizacijų lėšos tiek, kiek užsienietis, kuriam suteikta laikinoji apsauga, negali jų garantuoti turimomis lėšomis ir turtu. ^s-fca68fcc254b03cd48ef0326
 
 
-11. Paaiškėjus, kad užsienietis, kuriam suteikta laikinoji apsauga, turėjo lėšų apmokėti už šio straipsnio 1 ir [[#^s-6d5aaf26fe94f43ce84aa79a|3 dalyse]] nustatytų teisių įgyvendinimą, kai jo pagrindiniai poreikiai buvo tenkinami nemokamai, jis privalo apmokėti valstybės patirtas išlaidas. ^s-0de0f74a774aff7df6738a70
+11. Paaiškėjus, kad užsienietis, kuriam suteikta laikinoji apsauga, turėjo lėšų apmokėti už šio straipsnio [[#^s-0efd3a36ac6a0b0e550383eb|1]] ir [[#^s-6d5aaf26fe94f43ce84aa79a|3]] dalyse nustatytų teisių įgyvendinimą, kai jo pagrindiniai poreikiai buvo tenkinami nemokamai, jis privalo apmokėti valstybės patirtas išlaidas. ^s-0de0f74a774aff7df6738a70
 
 
 
@@ -5382,7 +5382,7 @@ TEISINĖ PADĖTIS LIETUVOS RESPUBLIKOJE
 2. Europos Sąjungos valstybės narės piliečio šeimos nariai gali atvykti į Lietuvos Respubliką kartu su Europos Sąjungos valstybės narės piliečiu arba atvykti pas jį ir būti Lietuvos Respublikoje [[#^s-3d0b266599d4876e8d4e3ddc|šio straipsnio 1 dalyje]] nurodytą laiką. ^s-7227c1ef25d2ac72a1a55d74
 
 
-3. Šio Įstatymo V skyriaus nuostatos dėl Europos Sąjungos valstybės narės piliečio šeimos narių, išskyrus šio Įstatymo 1011 ir [[#^s-545f5dbc0e1523861767e883|105 straipsnius]], taikomos ir kitiems asmenims, kurie pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise. ^s-f9304490cae7da8f34972ca0
+3. Šio Įstatymo V skyriaus nuostatos dėl Europos Sąjungos valstybės narės piliečio šeimos narių, išskyrus šio Įstatymo 1011 ir [[#^s-545f5dbc0e1523861767e883|105]] straipsnius, taikomos ir kitiems asmenims, kurie pagal Europos Sąjungos teisės aktus naudojasi laisvo asmenų judėjimo teise. ^s-f9304490cae7da8f34972ca0
 
 
 Straipsnio pakeitimas:
@@ -5431,10 +5431,10 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 ### 99 straipsnis. Gyvenimas Lietuvos Respublikoje ^s-f6ec29b558e18ecba13ad2ca
 
 
-1. Europos Sąjungos valstybės narės piliečiui, atvykusiam gyventi į Lietuvos Respubliką ilgiau negu 3 mėnesius per pusę metų ir atitinkančiam bent vieną iš šio Įstatymo 101 straipsnio 1 dalyje numatytų pagrindų, jo teisei laikinai gyventi Lietuvos Respublikoje patvirtinti išduodamas teisės laikinai gyventi Lietuvos Respublikoje pažymėjimas. Teisės laikinai gyventi Lietuvos Respublikoje pažymėjime elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus. ^s-92ecf5d524917b5eddc8c006
+1. Europos Sąjungos valstybės narės piliečiui, atvykusiam gyventi į Lietuvos Respubliką ilgiau negu 3 mėnesius per pusę metų ir atitinkančiam bent vieną iš šio Įstatymo 101 straipsnio 1 dalyje numatytų pagrindų, jo teisei laikinai gyventi Lietuvos Respublikoje patvirtinti išduodamas teisės laikinai gyventi Lietuvos Respublikoje pažymėjimas. Teisės laikinai gyventi Lietuvos Respublikoje pažymėjime elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus [Reglamente (EB) Nr. 1030/2002](https://eur-lex.europa.eu/eli/reg/1030/2002/oj) numatytus atvejus. ^s-92ecf5d524917b5eddc8c006
 
 
-2. Europos Sąjungos valstybės narės piliečio šeimos nariai, kurie nėra Europos Sąjungos valstybės narės piliečiai, atvykę gyventi į Lietuvos Respubliką ilgiau negu 3 mėnesiams per pusę metų kartu su Europos Sąjungos valstybės narės piliečiu arba pas jį, privalo gauti leidimo gyventi šalyje kortelę. Leidimo gyventi šalyje kortelėje elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio šeimos nario biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus. ^s-9a057126fb511dd75dfc4aa1
+2. Europos Sąjungos valstybės narės piliečio šeimos nariai, kurie nėra Europos Sąjungos valstybės narės piliečiai, atvykę gyventi į Lietuvos Respubliką ilgiau negu 3 mėnesiams per pusę metų kartu su Europos Sąjungos valstybės narės piliečiu arba pas jį, privalo gauti leidimo gyventi šalyje kortelę. Leidimo gyventi šalyje kortelėje elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio šeimos nario biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus [Reglamente (EB) Nr. 1030/2002](https://eur-lex.europa.eu/eli/reg/1030/2002/oj) numatytus atvejus. ^s-9a057126fb511dd75dfc4aa1
 
 
 3. Tvarką, nustatančią teisės laikinai gyventi Lietuvos Respublikoje pažymėjimo ir leidimo gyventi šalyje kortelės išdavimą, keitimą ir panaikinimą, Europos Sąjungos valstybės narės piliečio ir (ar) jo šeimos nario teisės laikinai gyventi Lietuvos Respublikoje panaikinimą, nustato vidaus reikalų ministras. ^s-deecf149a6ef88d8003aafdb
@@ -5502,7 +5502,7 @@ Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 3. Europos Sąjungos valstybės narės piliečio šeimos nariai, kurie nėra Europos Sąjungos valstybės narės piliečiai, turi teisę gauti leidimo gyventi šalyje kortelę, kai atvyksta gyventi į Lietuvos Respubliką ilgiau negu 3 mėnesius per pusę metų kartu su Europos Sąjungos valstybės narės piliečiu, turinčiu teisę gyventi Lietuvos Respublikoje pagal šio straipsnio 1 dalies 1, 2 ir 3 punktus, arba pas jį. ^s-a82a4cfbe8c5a360f2f12a36
 
 
-4. Šio straipsnio 2 ar [[#^s-a82a4cfbe8c5a360f2f12a36|3 dalyje]] nurodytam Lietuvos Respublikos arba kitos Europos Sąjungos valstybės narės piliečio šeimos nariui leidimo gyventi šalyje kortelė išduodama kaip: ^s-79607b554839bddab36cad31
+4. Šio straipsnio 2 ar [[#^s-a82a4cfbe8c5a360f2f12a36|3]] dalyje nurodytam Lietuvos Respublikos arba kitos Europos Sąjungos valstybės narės piliečio šeimos nariui leidimo gyventi šalyje kortelė išduodama kaip: ^s-79607b554839bddab36cad31
 
 
 1) sutuoktiniui arba asmeniui, su kuriuo sudaryta registruotos partnerystės sutartis; ^s-4d3f383c6ed1192fdef9fc85
@@ -5632,13 +5632,13 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 2. [[#^s-132783796c5cb6e0bce165fc|Šio straipsnio 1 dalyje]] nurodyto Europos Sąjungos valstybės narės piliečio šeimos nariai taip pat įgyja teisę nuolat gyventi Lietuvos Respublikoje, jeigu jie Lietuvos Respublikoje teisėtai gyveno pastaruosius 5 metus su Europos Sąjungos valstybės narės piliečiu arba jie yra Europos Sąjungos valstybės narės piliečio, turinčio teisę atkurti Lietuvos Respublikos pilietybę [[latest/TAR.F628061443C6|Lietuvos Respublikos pilietybės įstatymo]] nustatyta tvarka, arba lietuvių kilmės asmens šeimos nariai. Teisę nuolat gyventi Lietuvos Respublikoje taip pat įgyja šio Įstatymo 1011 straipsnio 1 dalyje nurodyti Europos Sąjungos piliečio šeimos nariai, kurie teisėtai gyveno Lietuvos Respublikoje pastaruosius 5 metus. ^s-b5641fd718677c6df1335312
 
 
-3. Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti išduodamas teisės nuolat gyventi Lietuvos Respublikoje pažymėjimas, kuris galioja 10 metų nuo jo išdavimo dienos. Teisės nuolat gyventi Lietuvos Respublikoje pažymėjime elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus. ^s-4eb66ba65964f09ed9e21dec
+3. Europos Sąjungos valstybės narės piliečio teisei nuolat gyventi Lietuvos Respublikoje patvirtinti išduodamas teisės nuolat gyventi Lietuvos Respublikoje pažymėjimas, kuris galioja 10 metų nuo jo išdavimo dienos. Teisės nuolat gyventi Lietuvos Respublikoje pažymėjime elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus [Reglamente (EB) Nr. 1030/2002](https://eur-lex.europa.eu/eli/reg/1030/2002/oj) numatytus atvejus. ^s-4eb66ba65964f09ed9e21dec
 Straipsnio dalies pakeitimai:
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 
 
-4. Europos Sąjungos valstybės narės piliečio šeimos nariui, kuris nėra Europos Sąjungos valstybės narės pilietis, jo teisei nuolat gyventi Lietuvos Respublikoje patvirtinti išduodama leidimo nuolat gyventi šalyje kortelė, kuri galioja 10 metų. Leidimo nuolat gyventi šalyje kortelėje elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio šeimos nario biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus. ^s-1225719fd35b1f6bf1a3c150
+4. Europos Sąjungos valstybės narės piliečio šeimos nariui, kuris nėra Europos Sąjungos valstybės narės pilietis, jo teisei nuolat gyventi Lietuvos Respublikoje patvirtinti išduodama leidimo nuolat gyventi šalyje kortelė, kuri galioja 10 metų. Leidimo nuolat gyventi šalyje kortelėje elektroniniu būdu fiksuojami Europos Sąjungos valstybės narės piliečio šeimos nario biometriniai duomenys tapatybei patvirtinti – veido atvaizdas ir dviejų pirštų atspaudai, išskyrus [Reglamente (EB) Nr. 1030/2002](https://eur-lex.europa.eu/eli/reg/1030/2002/oj) numatytus atvejus. ^s-1225719fd35b1f6bf1a3c150
 Straipsnio dalies pakeitimai:
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
@@ -5661,7 +5661,7 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-8. Šio straipsnio 1 ir [[#^s-b5641fd718677c6df1335312|2 dalyse]] nurodytą 5 metų terminą nutraukia teismo paskirtos laisvės atėmimo bausmės atlikimo laikas. ^s-91361b162679b82d5ecc760e
+8. Šio straipsnio [[#^s-132783796c5cb6e0bce165fc|1]] ir [[#^s-b5641fd718677c6df1335312|2]] dalyse nurodytą 5 metų terminą nutraukia teismo paskirtos laisvės atėmimo bausmės atlikimo laikas. ^s-91361b162679b82d5ecc760e
 Papildyta straipsnio dalimi:
 Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 
@@ -5869,7 +5869,7 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 ### 1061 straipsnis. Teisės nuolat gyventi Lietuvos Respublikoje pažymėjimo ir leidimo nuolat gyventi šalyje kortelės negaliojimas ^s-9e6a4bce4294bc62f9048bab
 
 
-Teisės nuolat gyventi Lietuvos Respublikoje pažymėjimas ir leidimo nuolat gyventi šalyje kortelė negalioja, kai yra nors vienas iš šio Įstatymo [[#^s-0f020d7778cafd7d1784b9a2|1031 straipsnio]] 1–7, 9 ir 10 punktuose nustatytų pagrindų.
+Teisės nuolat gyventi Lietuvos Respublikoje pažymėjimas ir leidimo nuolat gyventi šalyje kortelė negalioja, kai yra nors vienas iš šio Įstatymo [[#^s-0f020d7778cafd7d1784b9a2|1031 straipsnio]] [[#^s-e055f8f53cff6dba37789e7c|1]]–[[#^s-15fb2f82ac46c0237677a90a|7]], [[#^s-769ba02d53aa9993929fc396|9]] ir [[#^s-b81e436c0b0a5deb4b84fb72|10]] punktuose nustatytų pagrindų.
 
 
 Straipsnio pakeitimai:
@@ -5917,7 +5917,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 5) gyvendami laikino apgyvendinimo vietoje ar gyvenamojoje vietoje savivaldybės teritorijoje gauti mėnesinę kompensaciją atlyginimui švietimo teikėjui už vaiko, ugdomo pagal ikimokyklinio ar priešmokyklinio ugdymo programas, išlaikymą apmokėti; ^s-8146ccd23abfbd5027ea77ff
 
 
-6) naudotis kitomis paslaugomis laikino apgyvendinimo vietoje ar gyvenamojoje vietoje savivaldybės teritorijoje, kurios Lietuvos valstybės paramos integracijai laikotarpiu teikiamos paramos integracijai srityse pagal šio Įstatymo [[#^s-fdbdd1f20da01fb9a71e7e39|109 straipsnio 3 dalyje]] nurodytos Lietuvos valstybės paramos teikimą integracijai įgyvendinančios institucijos ar įstaigos su užsieniečiu, gavusiu prieglobstį Lietuvos Respublikoje, sudarytą sutartį dėl Lietuvos valstybės paramos integracijai teikimo. ^s-fc90574484e7656b78873dcc
+6) naudotis kitomis paslaugomis laikino apgyvendinimo vietoje ar gyvenamojoje vietoje savivaldybės teritorijoje, kurios Lietuvos valstybės paramos integracijai laikotarpiu teikiamos paramos integracijai srityse pagal šio Įstatymo [[#^s-fdbdd1f20da01fb9a71e7e39|109 straipsnio 3 dalyje]] nurodytos Lietuvos valstybės paramos teikimą integracijai įgyvendinančios institucijos ar įstaigos su užsieniečiu, gavusiu prieglobstį Lietuvos Respublikoje, sudarytą sutartį [dėl Lietuvos valstybės](https://e-tar.lt/portal/lt/legalAct/TAR.59F99B2B61F2) paramos integracijai teikimo. ^s-fc90574484e7656b78873dcc
 
 
 Straipsnio dalies pakeitimai:
@@ -5925,13 +5925,13 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-2. Užsieniečiai, kuriems teikiama Lietuvos valstybės parama integracijai, privalo vykdyti įsipareigojimus, nurodytus šio Įstatymo [[#^s-fdbdd1f20da01fb9a71e7e39|109 straipsnio 3 dalyje]] nurodytos Lietuvos valstybės paramos teikimą integracijai įgyvendinančios institucijos ar įstaigos su šiuo užsieniečiu sudarytoje sutartyje dėl Lietuvos valstybės paramos integracijai teikimo. ^s-c6dd99d5eb3afe7163af4b6a
+2. Užsieniečiai, kuriems teikiama Lietuvos valstybės parama integracijai, privalo vykdyti įsipareigojimus, nurodytus šio Įstatymo [[#^s-fdbdd1f20da01fb9a71e7e39|109 straipsnio 3 dalyje]] nurodytos Lietuvos valstybės paramos teikimą integracijai įgyvendinančios institucijos ar įstaigos su šiuo užsieniečiu sudarytoje sutartyje [dėl Lietuvos valstybės](https://e-tar.lt/portal/lt/legalAct/TAR.59F99B2B61F2) paramos integracijai teikimo. ^s-c6dd99d5eb3afe7163af4b6a
 
 
 3. Lietuvos valstybės paramos integracijai teikimas nutraukiamas, jeigu užsienietis, kuriam teikiama Lietuvos valstybės parama integracijai: ^s-2b8b8804965e0e4d043a7d0e
 
 
-1) nevykdo įsipareigojimų, nurodytų šio Įstatymo [[#^s-fdbdd1f20da01fb9a71e7e39|109 straipsnio 3 dalyje]] nurodytos Lietuvos valstybės paramos teikimą integracijai įgyvendinančios institucijos ar įstaigos su šiuo užsieniečiu sudarytoje sutartyje dėl Lietuvos valstybės paramos integracijai teikimo; ^s-322de95b55e87ebab1067af9
+1) nevykdo įsipareigojimų, nurodytų šio Įstatymo [[#^s-fdbdd1f20da01fb9a71e7e39|109 straipsnio 3 dalyje]] nurodytos Lietuvos valstybės paramos teikimą integracijai įgyvendinančios institucijos ar įstaigos su šiuo užsieniečiu sudarytoje sutartyje [dėl Lietuvos valstybės](https://e-tar.lt/portal/lt/legalAct/TAR.59F99B2B61F2) paramos integracijai teikimo; ^s-322de95b55e87ebab1067af9
 
 
 2) ilgiau kaip vieną mėnesį yra išvykęs iš Lietuvos Respublikos; ^s-8edd37aa84a4efe63fea38d6
@@ -5940,7 +5940,7 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 3) už administracinį nusižengimą nubaustas trečią kartą per pastaruosius 6 mėnesius arba jam įsiteisėjo apkaltinamasis teismo nuosprendis. ^s-b3d58e1d0ce0bca0f100bdc8
 
 
-4. Užsieniečiams, perkeltiems į Lietuvos Respublikos teritoriją bendradarbiaujant su kitomis Europos Sąjungos valstybėmis narėmis, trečiosiomis valstybėmis, Europos Sąjungos institucijomis ar tarptautinėmis organizacijomis, ir nelydimiems nepilnamečiams užsieniečiams taikomos šio straipsnio nuostatos dėl Lietuvos valstybės paramos integracijai. ^s-266127fd482ee55ce31fc38e
+4. Užsieniečiams, perkeltiems į Lietuvos Respublikos teritoriją bendradarbiaujant su kitomis Europos Sąjungos valstybėmis narėmis, trečiosiomis valstybėmis, Europos Sąjungos institucijomis ar tarptautinėmis organizacijomis, ir nelydimiems nepilnamečiams užsieniečiams taikomos šio straipsnio nuostatos [dėl Lietuvos valstybės](https://e-tar.lt/portal/lt/legalAct/TAR.59F99B2B61F2) paramos integracijai. ^s-266127fd482ee55ce31fc38e
 
 
 5. Neteko galios nuo 2022-07-15 ^s-e946868812583d133dc4ab3f
@@ -6091,7 +6091,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-2) siekiant išsiaiškinti motyvus, kuriais grindžiamas jo prašymas suteikti prieglobstį (kai informacija dėl motyvų negalėtų būti gauta prieglobsčio prašytojo nesulaikius), ir įvertinus [[#^s-16e3b6ac87e9eccbdb8b2c08|šio straipsnio 5 dalies]] 1, 6–[[#^s-e71700ae357df005aad5fa9b|11 punktuose]] nurodytas aplinkybes, yra pagrindas manyti, kad užsienietis gali pasislėpti siekdamas išvengti grąžinimo į užsienio valstybę ar išsiuntimo iš Lietuvos Respublikos; ^s-244a8c5448b2c52e18f04144
+2) siekiant išsiaiškinti motyvus, kuriais grindžiamas jo prašymas suteikti prieglobstį (kai informacija dėl motyvų negalėtų būti gauta prieglobsčio prašytojo nesulaikius), ir įvertinus [[#^s-16e3b6ac87e9eccbdb8b2c08|šio straipsnio 5 dalies]] [[#^s-2c6ea39ae34b21ff7c8e615a|1]], 6–[[#^s-e71700ae357df005aad5fa9b|11]] punktuose nurodytas aplinkybes, yra pagrindas manyti, kad užsienietis gali pasislėpti siekdamas išvengti grąžinimo į užsienio valstybę ar išsiuntimo iš Lietuvos Respublikos; ^s-244a8c5448b2c52e18f04144
 Straipsnio punkto pakeitimai:
 Nr. XIII-3412, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24582
 
@@ -6190,7 +6190,7 @@ Nr. XII-548, 2013-10-10, Žin., 2013, Nr. 111-5488 (2013-10-24)
 4. Pažeidžiami asmenys ir šeimų, kuriose yra nepilnamečių užsieniečių, nariai gali būti sulaikyti tik ypatingu atveju, atsižvelgiant į geriausius vaiko ir pažeidžiamų asmenų interesus. ^s-e34826bb53af1f3952b015e5
 
 
-5. Prieglobsčio prašytojų sulaikymas turi trukti kuo trumpiau ir ne ilgiau, negu būtina pagal atitinkamą šio Įstatymo [[#^s-064e0c2d18fffe27eb2959a0|113 straipsnio 4 dalyje]] nustatytą sulaikymo pagrindą, bet ne ilgiau kaip 6 mėnesius, išskyrus atvejus, kai prieglobsčio prašytojas sulaikytas šio Įstatymo [[#^s-064e0c2d18fffe27eb2959a0|113 straipsnio 4 dalies]] 2 ar 5 punkte nurodytu pagrindu. Šiais atvejais sulaikymo terminas gali būti pratęstas papildomam, ne ilgesniam kaip 6 mėnesių, laikotarpiui. ^s-b2a93fcefe61d2a2d46a91b7
+5. Prieglobsčio prašytojų sulaikymas turi trukti kuo trumpiau ir ne ilgiau, negu būtina pagal atitinkamą šio Įstatymo [[#^s-064e0c2d18fffe27eb2959a0|113 straipsnio 4 dalyje]] nustatytą sulaikymo pagrindą, bet ne ilgiau kaip 6 mėnesius, išskyrus atvejus, kai prieglobsčio prašytojas sulaikytas šio Įstatymo [[#^s-064e0c2d18fffe27eb2959a0|113 straipsnio 4 dalies]] [[#^s-244a8c5448b2c52e18f04144|2]] ar [[#^s-947ad9e879264ee53392bdea|5]] punkte nurodytu pagrindu. Šiais atvejais sulaikymo terminas gali būti pratęstas papildomam, ne ilgesniam kaip 6 mėnesių, laikotarpiui. ^s-b2a93fcefe61d2a2d46a91b7
 
 
 6. Užsieniečio sulaikymas turi trukti kuo trumpiau, bet ne ilgiau kaip 6 mėnesius, išskyrus atvejus, kai jis nebendradarbiauja siekiant jį grąžinti į užsienio valstybę ar išsiųsti iš Lietuvos Respublikos (atsisako pateikti apie save duomenis, teikia klaidinančią informaciją ir pan.) arba negaunami reikiami dokumentai tokio užsieniečio grąžinimui į užsienio valstybę ar išsiuntimui iš Lietuvos Respublikos. Šiais atvejais sulaikymo terminas gali būti pratęstas papildomam, ne ilgesniam kaip 12 mėnesių, laikotarpiui. Į šioje dalyje nustatytą sulaikymo terminą neįskaičiuojama sulaikymo pagal atitinkamą šio Įstatymo [[#^s-064e0c2d18fffe27eb2959a0|113 straipsnio 4 dalyje]] nustatytą sulaikymo pagrindą trukmė, jeigu užsienietis buvo sulaikytas prašymo suteikti prieglobstį nagrinėjimo metu. ^s-cbc32b2e0a23e2360adf48a4
@@ -6311,7 +6311,7 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 ### 118 straipsnis. Sprendimo sulaikyti užsienietį pakartotinis svarstymas ^s-1a24138c63af0465a810ff57
 
 
-1. Išnykus užsieniečio sulaikymo pagrindams, užsienietis turi teisę, o Valstybės sienos apsaugos tarnyba nedelsdama privalo kreiptis į apylinkės teismą pagal užsieniečio buvimo vietą su prašymu pakartotinai svarstyti sprendimą sulaikyti užsienietį, išskyrus atvejus, kai užsienietis iš sulaikymo vietos paleidžiamas [[#^s-6baf369d1bd979793f34fa73|šio straipsnio 5 dalyje]] nurodytu pagrindu. Jeigu užsienietis, kuris yra sulaikytas šio Įstatymo [[#^s-4c2d6f53c34f5685cb3b9bca|113 straipsnio]] 1 ir [[#^s-ae40acf0f8a3889c209dc420|2 dalyse]] nurodytais pagrindais, pateikia prašymą suteikti prieglobstį, Valstybės sienos apsaugos tarnyba nedelsdama privalo kreiptis į apylinkės teismą su prašymu pakartotinai svarstyti sprendimą sulaikyti prieglobsčio prašytoją. ^s-1c42f98e06260fd4c888f62c
+1. Išnykus užsieniečio sulaikymo pagrindams, užsienietis turi teisę, o Valstybės sienos apsaugos tarnyba nedelsdama privalo kreiptis į apylinkės teismą pagal užsieniečio buvimo vietą su prašymu pakartotinai svarstyti sprendimą sulaikyti užsienietį, išskyrus atvejus, kai užsienietis iš sulaikymo vietos paleidžiamas [[#^s-6baf369d1bd979793f34fa73|šio straipsnio 5 dalyje]] nurodytu pagrindu. Jeigu užsienietis, kuris yra sulaikytas šio Įstatymo [[#^s-4c2d6f53c34f5685cb3b9bca|113 straipsnio]] [[#^s-d4eb41a449c3e288368bd0cc|1]] ir [[#^s-ce958b15fabe3af98cbee9c5|2]] dalyse nurodytais pagrindais, pateikia prašymą suteikti prieglobstį, Valstybės sienos apsaugos tarnyba nedelsdama privalo kreiptis į apylinkės teismą su prašymu pakartotinai svarstyti sprendimą sulaikyti prieglobsčio prašytoją. ^s-1c42f98e06260fd4c888f62c
 
 
 2. Teismas, gavęs užsieniečio ar Valstybės sienos apsaugos tarnybos prašymą pakartotinai svarstyti sprendimą dėl užsieniečio sulaikymo, ne vėliau kaip per 10 dienų nuo prašymo priėmimo dienos pakartotinai svarsto sprendimą sulaikyti užsienietį ir priima vieną iš šių sprendimų: ^s-ae40acf0f8a3889c209dc420
@@ -6326,7 +6326,7 @@ Nr. XII-2609, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23714
 3) panaikinti sprendimą sulaikyti užsienietį. ^s-ce277befc502145f0860f366
 
 
-3. [[#^s-d6dc645ef93115c073a5972d|Šio straipsnio 3 dalyje]] išvardyti apylinkės teismo sprendimai įsigalioja jų priėmimo dieną. ^s-d6dc645ef93115c073a5972d
+3. Šio straipsnio 3 dalyje išvardyti apylinkės teismo sprendimai įsigalioja jų priėmimo dieną. ^s-d6dc645ef93115c073a5972d
 
 
 4. Teismo sprendimas gali būti skundžiamas šio Įstatymo [[#^s-41e3d25156cb3082bddeb3dd|117 straipsnio 1 dalyje]] nustatyta tvarka. ^s-33ba87d071baa962439407b5
@@ -6453,7 +6453,7 @@ UŽSIENIEČIŲ IŠVYKIMAS IŠ LIETUVOS RESPUBLIKOS
 1. Užsienietis privalo išvykti iš Lietuvos Respublikos iki kelionės leidimo, vizos arba leidimo laikinai gyventi galiojimo pabaigos. ^s-06228e368fb46852962e600a
 
 
-2. Užsienietis privalo išvykti iš Lietuvos Respublikos iki šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] 2–9, 11 dalyse užsieniečiams nustatyto buvimo laiko pabaigos, išskyrus atvejus, kai jis gauna dokumentą, patvirtinantį jo teisę likti Lietuvos Respublikos teritorijoje, teisę būti arba gyventi Lietuvos Respublikoje. ^s-6bcdc3e6783dc6b27f485fee
+2. Užsienietis privalo išvykti iš Lietuvos Respublikos iki šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] [[#^s-bec06f83eebdfe4f5b8a5b51|2]]–[[#^s-aa1c3785a4fc9f763bd2c0e9|9]], [[#^s-f17cf1ee361e387eccf279b8|11]] dalyse užsieniečiams nustatyto buvimo laiko pabaigos, išskyrus atvejus, kai jis gauna dokumentą, patvirtinantį jo teisę likti Lietuvos Respublikos teritorijoje, teisę būti arba gyventi Lietuvos Respublikoje. ^s-6bcdc3e6783dc6b27f485fee
 
 
 3. Užsieniečiui išvykti iš Lietuvos Respublikos neleidžiama, jeigu jam paskirta kardomoji priemonė arba taikoma laikinoji apsaugos priemonė, kurios apriboja jo teisę išvykti iš Lietuvos Respublikos. Tokiu atveju atsakingos institucijos, nustačiusios, kad yra šio Įstatymo [[#^s-2bc560642f7a77752b4e6172|125 straipsnio 1 dalyje]] nustatyti užsieniečio grąžinimo į užsienio valstybę pagrindai arba šio Įstatymo [[#^s-a27e21925189257143c17fe8|126 straipsnio 1 dalyje]] nustatyti užsieniečio išsiuntimo iš Lietuvos Respublikos pagrindai, priima sprendimą dėl užsieniečio grąžinimo į užsienio valstybę arba sprendimą dėl užsieniečio išsiuntimo iš Lietuvos Respublikos ir sustabdo priimto sprendimo, taip pat sprendimų dėl užsieniečio įpareigojimo išvykti, grąžinimo, išsiuntimo ar prieglobsčio prašytojo perdavimo kitai Europos Sąjungos valstybei narei, atsakingai už prašymo suteikti prieglobstį nagrinėjimą, jeigu tokie sprendimai buvo priimti, vykdymą tol, kol išnyks šioje dalyje nurodytos priežastys, kurios apriboja užsieniečio teisę išvykti iš Lietuvos Respublikos. ^s-c01ecc2419d8896ea1ca60e5
@@ -6491,7 +6491,7 @@ Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 5) į Lietuvos Respubliką jis atvyko teisėtai, tačiau gyvena Lietuvos Respublikoje be leidimo laikinai gyventi ar leidimo nuolat gyventi, jeigu privalo jį turėti; ^s-56c032bbd121528f9679280c
 
 
-6) jis yra Lietuvos Respublikoje laikotarpį, viršijantį šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] 2–9, 11 dalyse užsieniečiams nustatytą buvimo laiką; ^s-b19cd900eb7a23c174cee36e
+6) jis yra Lietuvos Respublikoje laikotarpį, viršijantį šio Įstatymo [[#^s-4d390e274064b535ca5497c3|11 straipsnio]] [[#^s-bec06f83eebdfe4f5b8a5b51|2]]–[[#^s-aa1c3785a4fc9f763bd2c0e9|9]], [[#^s-f17cf1ee361e387eccf279b8|11]] dalyse užsieniečiams nustatytą buvimo laiką; ^s-b19cd900eb7a23c174cee36e
 Straipsnio punkto pakeitimai:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Nr. XIII-382, 2017-05-25, paskelbta TAR 2017-06-02, i. k. 2017-09471
@@ -6507,7 +6507,7 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 
 
-8) jis yra šio Įstatymo [[#^s-3a50d99f5b3224ea59a292ca|5 straipsnio 6 dalyje]], [[#^s-db3bfa1512f209424c897eb8|1408 straipsnio]] 3 ar [[#^s-99e18f604d7d18581613866c|4 dalyje]] nurodytas užsienietis ir prašo leisti savanoriškai grįžti į užsienio valstybę, bendradarbiauja su kompetentingomis institucijomis grąžinimo į užsienio valstybę klausimu. ^s-8a6f7a9891c137044cd605e6
+8) jis yra šio Įstatymo [[#^s-3a50d99f5b3224ea59a292ca|5 straipsnio 6 dalyje]], [[#^s-db3bfa1512f209424c897eb8|1408 straipsnio]] [[#^s-baaf14fd48c14f7a079fa334|3]] ar [[#^s-08ade933974057dba19a0e6e|4]] dalyje nurodytas užsienietis ir prašo leisti savanoriškai grįžti į užsienio valstybę, bendradarbiauja su kompetentingomis institucijomis grąžinimo į užsienio valstybę klausimu. ^s-8a6f7a9891c137044cd605e6
 Papildyta straipsnio punktu:
 Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
 Straipsnio punkto pakeitimai:
@@ -6540,7 +6540,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-31. Sprendimas dėl užsieniečio grąžinimo į užsienio valstybę nepriimamas, jeigu užsienietis išvyksta iš Lietuvos Respublikos per išorinę Europos Sąjungos sieną ir kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi perspėjimą dėl šio užsieniečio grąžinimo pagal Reglamento (ES) 2018/1860 nuostatas, perspėjime nurodytas savanoriško išvykimo laikotarpis nėra pasibaigęs ir jeigu nėra šio Įstatymo [[#^s-a27e21925189257143c17fe8|126 straipsnio 1 dalyje]] nustatyto užsieniečio išsiuntimo pagrindo. ^s-39fbad3909d1d349cb50c514
+31. Sprendimas dėl užsieniečio grąžinimo į užsienio valstybę nepriimamas, jeigu užsienietis išvyksta iš Lietuvos Respublikos per išorinę Europos Sąjungos sieną ir kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi perspėjimą dėl šio užsieniečio grąžinimo pagal [Reglamento (ES) 2018/1860](https://eur-lex.europa.eu/eli/reg/2018/1860/oj) nuostatas, perspėjime nurodytas savanoriško išvykimo laikotarpis nėra pasibaigęs ir jeigu nėra šio Įstatymo [[#^s-a27e21925189257143c17fe8|126 straipsnio 1 dalyje]] nustatyto užsieniečio išsiuntimo pagrindo. ^s-39fbad3909d1d349cb50c514
 Papildyta straipsnio dalimi:
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
@@ -6626,7 +6626,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 
 
 
-32. Šio straipsnio 1, [[#^s-a54859711e0af81f1f7570d4|3 dalyse]] nurodytas terminas, per kurį užsienietis įpareigojamas savanoriškai išvykti iš Lietuvos Respublikos, gali būti pratęstas dėl šio Įstatymo [[#^s-9b1d6e14b9bea43434803d07|128 straipsnio 1 dalies]] 1–3 punktuose ir [[#^s-766ada21cb0ee7660745af9b|2 dalies]] 3, 4 punktuose nurodytų aplinkybių. ^s-78a3eb80f4a140f3dfa7e0a2
+32. Šio straipsnio [[#^s-ab727287d05b0a1149cca2db|1]], [[#^s-a54859711e0af81f1f7570d4|3]] dalyse nurodytas terminas, per kurį užsienietis įpareigojamas savanoriškai išvykti iš Lietuvos Respublikos, gali būti pratęstas dėl šio Įstatymo [[#^s-9b1d6e14b9bea43434803d07|128 straipsnio 1 dalies]] [[#^s-611abbdcff0148d078c1c89c|1]]–[[#^s-114d148521b3341e42138a16|3]] punktuose ir [[#^s-766ada21cb0ee7660745af9b|2 dalies]] [[#^s-114d148521b3341e42138a16|3]], [[#^s-cb8b9bc60b304bdee6388490|4]] punktuose nurodytų aplinkybių. ^s-78a3eb80f4a140f3dfa7e0a2
 Papildyta straipsnio dalimi:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Straipsnio dalies pakeitimai:
@@ -6640,7 +6640,7 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 
 
 
-5. Sprendimą dėl užsieniečio išsiuntimo šio Įstatymo [[#^s-a27e21925189257143c17fe8|126 straipsnio 1 dalies]] 1, 2 ir 3 punktuose nustatytais pagrindais ir sprendimą dėl vykdymo galimumo šio Įstatymo [[#^s-20e4c4c13f55a4529f6d27bf|126 straipsnio 1 dalies 4 punkte]] nustatytu pagrindu priima institucija, nustačiusi užsieniečio išsiuntimo pagrindą, – Migracijos departamentas arba Valstybės sienos apsaugos tarnyba, o juos vykdo Valstybės sienos apsaugos tarnyba. Prieš priimdamos sprendimą šio Įstatymo [[#^s-20e4c4c13f55a4529f6d27bf|126 straipsnio 1 dalies 4 punkte]] nustatytu pagrindu, šioje dalyje nurodytos institucijos dėl sprendimo vykdymo konsultuojasi su sprendimą užsienietį išsiųsti priėmusia valstybe. ^s-2eb3cfdd7724d18cb53e0292
+5. Sprendimą dėl užsieniečio išsiuntimo šio Įstatymo [[#^s-a27e21925189257143c17fe8|126 straipsnio 1 dalies]] [[#^s-26fee73e086b4f8023cab640|1]], [[#^s-ed99f08bd8016de37b7b5dd1|2]] ir [[#^s-1b6938b6ec3e056cb6704a44|3]] punktuose nustatytais pagrindais ir sprendimą dėl vykdymo galimumo šio Įstatymo [[#^s-20e4c4c13f55a4529f6d27bf|126 straipsnio 1 dalies 4 punkte]] nustatytu pagrindu priima institucija, nustačiusi užsieniečio išsiuntimo pagrindą, – Migracijos departamentas arba Valstybės sienos apsaugos tarnyba, o juos vykdo Valstybės sienos apsaugos tarnyba. Prieš priimdamos sprendimą šio Įstatymo [[#^s-20e4c4c13f55a4529f6d27bf|126 straipsnio 1 dalies 4 punkte]] nustatytu pagrindu, šioje dalyje nurodytos institucijos dėl sprendimo vykdymo konsultuojasi su sprendimą užsienietį išsiųsti priėmusia valstybe. ^s-2eb3cfdd7724d18cb53e0292
 Straipsnio dalies pakeitimai:
 Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
@@ -6778,7 +6778,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-5. Užsieniečiui, kuris neišsiunčiamas iš Lietuvos Respublikos ar negrąžinamas į užsienio valstybę šio straipsnio 1 ar [[#^s-a9d5349ea4a6014e5fe83da4|2 dalyse]] nurodytais atvejais, šio Įstatymo [[#^s-e58ee29c5023a5cdf4ea6fff|40 straipsnio 1 dalies 8 punkte]] nustatytu pagrindu išduodamas ne ilgiau kaip 1 metus galiojantis leidimas laikinai gyventi, kurio galiojimo laikotarpiu užsienietis turi teisę dirbti. ^s-a44fcc24faeba145785596d5
+5. Užsieniečiui, kuris neišsiunčiamas iš Lietuvos Respublikos ar negrąžinamas į užsienio valstybę šio straipsnio [[#^s-7e41076c0b40a92536c9bae7|1]] ar [[#^s-a9d5349ea4a6014e5fe83da4|2]] dalyse nurodytais atvejais, šio Įstatymo [[#^s-e58ee29c5023a5cdf4ea6fff|40 straipsnio 1 dalies 8 punkte]] nustatytu pagrindu išduodamas ne ilgiau kaip 1 metus galiojantis leidimas laikinai gyventi, kurio galiojimo laikotarpiu užsienietis turi teisę dirbti. ^s-a44fcc24faeba145785596d5
 Papildyta straipsnio dalimi:
 Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 Straipsnio dalies pakeitimai:
@@ -6856,7 +6856,7 @@ Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 ### 132 straipsnis. Leidimo laikinai gyventi išdavimas užsieniečiui, kai sprendimo dėl jo išsiuntimo iš Lietuvos Respublikos vykdymas yra sustabdytas ^s-f9b4ac81a97a54e9febae80f
 
 
-1. Jeigu sprendimo dėl užsieniečio išsiuntimo iš Lietuvos Respublikos vykdymas yra sustabdytas dėl šio Įstatymo [[#^s-22b4c47cf266fcfcb85dc43c|128 straipsnio 2 dalies]] 2, 3 ir 4 punktuose nurodytų aplinkybių, šios aplinkybės per vienerius metus nuo sprendimo išsiųsti užsienietį iš Lietuvos Respublikos vykdymo sustabdymo neišnyko ir užsienietis nėra sulaikytas, jam išduodamas leidimas laikinai gyventi. ^s-3fe35d09219e23af2e451db6
+1. Jeigu sprendimo dėl užsieniečio išsiuntimo iš Lietuvos Respublikos vykdymas yra sustabdytas dėl šio Įstatymo [[#^s-22b4c47cf266fcfcb85dc43c|128 straipsnio 2 dalies]] [[#^s-8dfb487b66eebabbc5458265|2]], [[#^s-18422f8c806b9ea276a731dd|3]] ir [[#^s-d303810bdf5d11698286d8a9|4]] punktuose nurodytų aplinkybių, šios aplinkybės per vienerius metus nuo sprendimo išsiųsti užsienietį iš Lietuvos Respublikos vykdymo sustabdymo neišnyko ir užsienietis nėra sulaikytas, jam išduodamas leidimas laikinai gyventi. ^s-3fe35d09219e23af2e451db6
 
 
 2. [[#^s-3fe35d09219e23af2e451db6|Šio straipsnio 1 dalyje]] nurodytu atveju užsieniečiui šio Įstatymo [[#^s-e58ee29c5023a5cdf4ea6fff|40 straipsnio 1 dalies 8 punkte]] nustatytu pagrindu išduodamas ne ilgiau kaip vienerius metus galiojantis leidimas laikinai gyventi, kurio galiojimo laikotarpiu užsienietis turi teisę dirbti. ^s-cd1fa38cbac721facac924cf
@@ -6874,7 +6874,7 @@ Nr. XII-2080, 2015-11-26, paskelbta TAR 2015-11-27, i. k. 2015-18919
 ### 133 straipsnis. Draudimas atvykti į Lietuvos Respubliką ^s-ccf431aeb38bc13c49c3819d
 
 
-1. Užsieniečiui, kuriam buvo atsisakyta išduoti kelionės leidimą ar jis buvo panaikintas ar atšauktas dėl vienos ar kelių priežasčių, nustatytų Reglamento (ES) 2018/1240 [[#^s-b5d687443b6c470a77765869|37 straipsnio 1 dalies]] a–e punktuose, arba kuriam buvo atsisakyta išduoti vizą ar ji buvo panaikinta, ar atšaukta Šengeno viza, arba kuriam buvo atsisakyta išduoti leidimą gyventi ar jis buvo panaikintas, užsieniečiui, kuris buvo neįleistas į Lietuvos Respubliką, įpareigotas išvykti iš Lietuvos Respublikos, grąžintas į užsienio valstybę, perduotas užsienio valstybei pagal Lietuvos Respublikos sudarytą tarptautinę sutartį dėl neteisėtai esančių asmenų grąžinimo (readmisijos) arba bandė neteisėtai išvykti iš Lietuvos Respublikos ar išvyko iš jos, arba užsieniečiui, kuris neturi teisės gyventi Lietuvos Respublikoje ir nevykdo įsipareigojimų muitinei, nesumokėjo Lietuvos Respublikos įstatymų nustatyta tvarka skirtos (skirtų) baudos (baudų) arba nepateikė bent vienos iš privalomų teikti mokesčių deklaracijų, gali būti uždrausta atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui. ^s-83808abd0c25b71e702fe8c6
+1. Užsieniečiui, kuriam buvo atsisakyta išduoti kelionės leidimą ar jis buvo panaikintas ar atšauktas dėl vienos ar kelių priežasčių, nustatytų [Reglamento (ES) 2018/1240 37 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2018/1240/art_37/par_1/oj) a–e punktuose, arba kuriam buvo atsisakyta išduoti vizą ar ji buvo panaikinta, ar atšaukta Šengeno viza, arba kuriam buvo atsisakyta išduoti leidimą gyventi ar jis buvo panaikintas, užsieniečiui, kuris buvo neįleistas į Lietuvos Respubliką, įpareigotas išvykti iš Lietuvos Respublikos, grąžintas į užsienio valstybę, perduotas užsienio valstybei pagal Lietuvos Respublikos sudarytą tarptautinę sutartį dėl neteisėtai esančių asmenų grąžinimo (readmisijos) arba bandė neteisėtai išvykti iš Lietuvos Respublikos ar išvyko iš jos, arba užsieniečiui, kuris neturi teisės gyventi Lietuvos Respublikoje ir nevykdo įsipareigojimų muitinei, nesumokėjo Lietuvos Respublikos įstatymų nustatyta tvarka skirtos (skirtų) baudos (baudų) arba nepateikė bent vienos iš privalomų teikti mokesčių deklaracijų, gali būti uždrausta atvykti į Lietuvos Respubliką ne ilgesniam kaip 5 metų laikotarpiui. ^s-83808abd0c25b71e702fe8c6
 Straipsnio dalies pakeitimai:
 Nr. XIII-1864, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00220
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
@@ -6942,7 +6942,7 @@ Nr. XIII-742, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18802
 2. Perduoti užsienietį per Lietuvos Respublikos teritoriją neleidžiama, jeigu: ^s-b8947caaa998d9c837e3f1f2
 
 
-1) valstybėje, į kurią perduodamas užsienietis, nustatomos šio Įstatymo [[#^s-fb509ab16fff6dd33edbf248|130 straipsnio]] 1 ir [[#^s-b8947caaa998d9c837e3f1f2|2 dalyse]] nurodytos priežastys; ^s-a22ab982f22eeea17481edbd
+1) valstybėje, į kurią perduodamas užsienietis, nustatomos šio Įstatymo [[#^s-fb509ab16fff6dd33edbf248|130 straipsnio]] [[#^s-7e41076c0b40a92536c9bae7|1]] ir [[#^s-a9d5349ea4a6014e5fe83da4|2]] dalyse nurodytos priežastys; ^s-a22ab982f22eeea17481edbd
 
 
 2) užsienietis pagal Lietuvos Respublikos įstatymus yra įtariamasis, kaltinamasis arba nuteistasis; ^s-92a4bc99358018ae4c62661f
@@ -7195,7 +7195,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-2. Užsienietis, kuris siekia įgyti e. rezidento statusą, privalo pateikti savo biometrinius duomenis tapatybei patvirtinti (veido atvaizdą ir dviejų pirštų atspaudus), išskyrus Reglamente (EB) Nr. 1030/2002 numatytus atvejus, vidaus reikalų ministro nustatyta tvarka. ^s-f49cce22b7f2e7e0445fbc85
+2. Užsienietis, kuris siekia įgyti e. rezidento statusą, privalo pateikti savo biometrinius duomenis tapatybei patvirtinti (veido atvaizdą ir dviejų pirštų atspaudus), išskyrus [Reglamente (EB) Nr. 1030/2002](https://eur-lex.europa.eu/eli/reg/1030/2002/oj) numatytus atvejus, vidaus reikalų ministro nustatyta tvarka. ^s-f49cce22b7f2e7e0445fbc85
 
 
 
@@ -7205,7 +7205,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 E. rezidento statusas užsieniečiui nesuteikiamas, jeigu:
 
 
-1) dėl jo kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo, įvedusi perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal Reglamento (ES) 2018/1861 nuostatas arba perspėjimą dėl užsieniečio grąžinimo pagal Reglamento (ES) 2018/1860 nuostatas kartu su draudimu atvykti; ^s-f3a66187aa7672024a314c15
+1) dėl jo kita Šengeno valstybė į Šengeno informacinę sistemą yra įtraukusi įspėjimą dėl neįsileidimo, įvedusi perspėjimą dėl draudimo užsieniečiui atvykti ir apsigyventi pagal [Reglamento (ES) 2018/1861](https://eur-lex.europa.eu/eli/reg/2018/1861/oj) nuostatas arba perspėjimą dėl užsieniečio grąžinimo pagal [Reglamento (ES) 2018/1860](https://eur-lex.europa.eu/eli/reg/2018/1860/oj) nuostatas kartu su draudimu atvykti; ^s-f3a66187aa7672024a314c15
 Straipsnio punkto pakeitimai:
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 
@@ -7321,7 +7321,7 @@ UŽSIENIEČIŲ ATVYKIMAS IR PRIEGLOBSČIO LIETUVOS RESPUBLIKOJE SUTEIKIMAS
 1. Užsieniečių buvimas tranzito zonose nelaikomas atvykimu į Lietuvos Respublikos teritoriją. Užsieniečių, pateikusių prašymą suteikti prieglobstį pasienio kontrolės punktuose, tranzito zonose arba Lietuvos Respublikos teritorijoje, kai jie į ją pateko neteisėtai kirtę Lietuvos Respublikos valstybės sieną, iki priimamas sprendimas įleisti juos į Lietuvos Respubliką, taip pat užsieniečių, kurie į Lietuvos Respublikos teritoriją pateko neteisėtai kirtę Lietuvos Respublikos valstybės sieną ir kurie nėra prieglobsčio prašytojai, buvimas [[#^s-baaf14fd48c14f7a079fa334|šio straipsnio 3 dalyje]] nurodytose laikino apgyvendinimo vietose 5 mėnesius nuo jų užregistravimo Lietuvos migracijos informacinėje sistemoje dienos nelaikomas atvykimu į Lietuvos Respublikos teritoriją. ^s-12b0ea8e72f99c6b9b143ba9
 
 
-2. Jeigu užsienietis, būdamas pasienio kontrolės punkte, tranzito zonoje arba Lietuvos Respublikos teritorijoje, kai jis į ją pateko neteisėtai kirtęs Lietuvos Respublikos valstybės sieną, pateikia prašymą suteikti prieglobstį, Migracijos departamentas per 48 valandas nuo šio prašymo pateikimo momento priima sprendimą įleisti prieglobsčio prašytoją į Lietuvos Respubliką ir apgyvendinti jį šio Įstatymo 79 ir [[#^s-b522be62348709b23a61c556|14016 straipsniuose]] nustatyta tvarka neribojant jo teisės laisvai judėti Lietuvos Respublikos teritorijoje, išskyrus [[#^s-baaf14fd48c14f7a079fa334|šio straipsnio 3 dalyje]] nurodytus atvejus. ^s-ec28a189db95c1a75e347a55
+2. Jeigu užsienietis, būdamas pasienio kontrolės punkte, tranzito zonoje arba Lietuvos Respublikos teritorijoje, kai jis į ją pateko neteisėtai kirtęs Lietuvos Respublikos valstybės sieną, pateikia prašymą suteikti prieglobstį, Migracijos departamentas per 48 valandas nuo šio prašymo pateikimo momento priima sprendimą įleisti prieglobsčio prašytoją į Lietuvos Respubliką ir apgyvendinti jį šio Įstatymo [[#^s-87a3a802af7291df6c0fb55a|79]] ir [[#^s-b522be62348709b23a61c556|14016]] straipsniuose nustatyta tvarka neribojant jo teisės laisvai judėti Lietuvos Respublikos teritorijoje, išskyrus [[#^s-baaf14fd48c14f7a079fa334|šio straipsnio 3 dalyje]] nurodytus atvejus. ^s-ec28a189db95c1a75e347a55
 
 
 3. Migracijos departamentas, nustatęs, kad yra šio Įstatymo [[#^s-c2cb79a477f28121a615d6a6|76 straipsnio 4 dalyje]] arba [[#^s-3e36ac56caef00d49f4b8b89|77 straipsnio 1 dalyje]] nurodytų aplinkybių ir nėra individualių aplinkybių, susijusių su prieglobsčio prašytojo amžiumi, sveikatos būkle, šeimine padėtimi ar kitų individualių aplinkybių, dėl kurių negalėtų būti ribojama prieglobsčio prašytojo teisė laisvai judėti Lietuvos Respublikos teritorijoje, priima sprendimą laikinai apgyvendinti prieglobsčio prašytoją, pateikusį prašymą suteikti prieglobstį pasienio kontrolės punkte, tranzito zonoje ar netrukus po neteisėto Lietuvos Respublikos valstybės sienos kirtimo, priėmimą užtikrinančios įstaigos paskirtoje laikino apgyvendinimo vietoje, nesuteikiant jam teisės laisvai judėti Lietuvos Respublikos teritorijoje, iki priimamas sprendimas jį įleisti į Lietuvos Respubliką. Šis teisės laisvai judėti Lietuvos Respublikos teritorijoje ribojimas negali būti taikomas ilgiau kaip 5 mėnesius, o nelydimam nepilnamečiam prieglobsčio prašytojui, kai yra pagrįstų abejonių dėl užsieniečio nurodyto amžiaus, – iki bus nustatytas jo amžius, bet ne ilgiau kaip 28 dienas nuo prieglobsčio prašytojo užregistravimo Lietuvos migracijos informacinėje sistemoje dienos. Jeigu pasikeičia su prieglobsčio prašytoju susijusios aplinkybės ir Migracijos departamentas jas įvertinęs nustato, kad nėra šio Įstatymo [[#^s-c2cb79a477f28121a615d6a6|76 straipsnio 4 dalyje]] arba [[#^s-3e36ac56caef00d49f4b8b89|77 straipsnio 1 dalyje]] nurodytų aplinkybių ir (ar) atsirado individualių aplinkybių, dėl kurių negalėtų būti ribojama prieglobsčio prašytojo teisė laisvai judėti Lietuvos Respublikos teritorijoje, Migracijos departamentas priima [[#^s-ec28a189db95c1a75e347a55|šio straipsnio 2 dalyje]] nurodytą sprendimą. ^s-baaf14fd48c14f7a079fa334
@@ -7333,31 +7333,31 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 4. Valstybės sienos apsaugos tarnybai nustačius, kad yra šio Įstatymo [[#^s-16e3b6ac87e9eccbdb8b2c08|113 straipsnio 5 dalyje]] nurodytos aplinkybės, Valstybės sienos apsaugos tarnybos sprendimu užsienietis, kuris į Lietuvos Respublikos teritoriją pateko neteisėtai kirtęs Lietuvos Respublikos valstybės sieną ir kuris nėra prieglobsčio prašytojas, iki bus įvykdytas galutinis sprendimas dėl užsieniečio grąžinimo ar išsiuntimo arba išduotas užsieniečio registracijos pažymėjimas, apgyvendinamas [[#^s-baaf14fd48c14f7a079fa334|šio straipsnio 3 dalyje]] nurodytose laikino apgyvendinimo vietose, nesuteikiant jam teisės laisvai judėti Lietuvos Respublikos teritorijoje. Šis teisės laisvai judėti Lietuvos Respublikos teritorijoje ribojimas negali būti taikomas ilgiau kaip 5 mėnesius nuo užsieniečio užregistravimo Lietuvos migracijos informacinėje sistemoje dienos. Jeigu Valstybės sienos apsaugos tarnyba nenustatė šio Įstatymo [[#^s-16e3b6ac87e9eccbdb8b2c08|113 straipsnio 5 dalyje]] nurodytų aplinkybių ir nepriėmė sprendimo apgyvendinti užsienietį [[#^s-baaf14fd48c14f7a079fa334|šio straipsnio 3 dalyje]] nurodytose laikino apgyvendinimo vietose, nesuteikiant jam teisės laisvai judėti Lietuvos Respublikos teritorijoje, bet yra šio Įstatymo [[#^s-d4eb41a449c3e288368bd0cc|113 straipsnio 1 dalyje]] nurodyti sulaikymo pagrindai, Valstybės sienos apsaugos tarnyba kreipiasi į teismą dėl užsieniečio sulaikymo ar alternatyvios sulaikymui priemonės skyrimo. Ši dalis netaikoma nelydimiems nepilnamečiams užsieniečiams, jie apgyvendinami šio Įstatymo [[#^s-ac959ef28970cf5b0c27109d|32 straipsnio 8 dalyje]] nustatyta tvarka. ^s-08ade933974057dba19a0e6e
 
 
-5. Skundas dėl šio straipsnio 3 ir [[#^s-08ade933974057dba19a0e6e|4 dalyse]] nurodytų sprendimų apgyvendinti užsienietį [[#^s-baaf14fd48c14f7a079fa334|šio straipsnio 3 dalyje]] nurodytose laikino apgyvendinimo vietose, nesuteikiant jam teisės laisvai judėti Lietuvos Respublikos teritorijoje, gali būti paduotas apylinkės teismui pagal užsieniečio buvimo vietą arba kitam artimiausiam užsieniečio buvimo vietai apylinkės teismui per 14 dienų nuo sprendimo įteikimo dienos. Priimtas apylinkės teismo sprendimas gali būti skundžiamas ir skundas nagrinėjamas šio Įstatymo [[#^s-5c2f9bd2707faa3352e22f18|117 straipsnyje]] nustatyta tvarka. ^s-b4431be356839257662eff15
+5. Skundas dėl šio straipsnio [[#^s-baaf14fd48c14f7a079fa334|3]] ir [[#^s-08ade933974057dba19a0e6e|4]] dalyse nurodytų sprendimų apgyvendinti užsienietį [[#^s-baaf14fd48c14f7a079fa334|šio straipsnio 3 dalyje]] nurodytose laikino apgyvendinimo vietose, nesuteikiant jam teisės laisvai judėti Lietuvos Respublikos teritorijoje, gali būti paduotas apylinkės teismui pagal užsieniečio buvimo vietą arba kitam artimiausiam užsieniečio buvimo vietai apylinkės teismui per 14 dienų nuo sprendimo įteikimo dienos. Priimtas apylinkės teismo sprendimas gali būti skundžiamas ir skundas nagrinėjamas šio Įstatymo [[#^s-5c2f9bd2707faa3352e22f18|117 straipsnyje]] nustatyta tvarka. ^s-b4431be356839257662eff15
 
 
-6. Jeigu šio straipsnio 3 ir [[#^s-08ade933974057dba19a0e6e|4 dalyse]] nurodytiems prieglobsčio prašytojams ir užsieniečiams laikino apgyvendinimo vietose neteikiamos medicinos, socialinės, švietimo, maitinimo ir (ar) kitos paslaugos, psichologinė pagalba, prieglobsčio prašytojams ir užsieniečiams laikino apgyvendinimo vietos vadovo ar jo įgalioto asmens leidimu gali būti leidžiama laikinai išvykti iš laikino apgyvendinimo vietos, kad gautų šias paslaugas ar įsigytų maisto produktų, kai yra valdoma pasišalinimo iš laikino apgyvendinimo vietų rizika. Teikiant šioje dalyje nurodytas paslaugas nepilnamečiams, prioritetas teikiamas paslaugų suteikimui už laikino apgyvendinimo vietos ribų, kai yra valdoma pasišalinimo iš laikino apgyvendinimo vietos rizika. ^s-27fc8068cda265e4803f4f9c
+6. Jeigu šio straipsnio [[#^s-baaf14fd48c14f7a079fa334|3]] ir [[#^s-08ade933974057dba19a0e6e|4]] dalyse nurodytiems prieglobsčio prašytojams ir užsieniečiams laikino apgyvendinimo vietose neteikiamos medicinos, socialinės, švietimo, maitinimo ir (ar) kitos paslaugos, psichologinė pagalba, prieglobsčio prašytojams ir užsieniečiams laikino apgyvendinimo vietos vadovo ar jo įgalioto asmens leidimu gali būti leidžiama laikinai išvykti iš laikino apgyvendinimo vietos, kad gautų šias paslaugas ar įsigytų maisto produktų, kai yra valdoma pasišalinimo iš laikino apgyvendinimo vietų rizika. Teikiant šioje dalyje nurodytas paslaugas nepilnamečiams, prioritetas teikiamas paslaugų suteikimui už laikino apgyvendinimo vietos ribų, kai yra valdoma pasišalinimo iš laikino apgyvendinimo vietos rizika. ^s-27fc8068cda265e4803f4f9c
 Straipsnio dalies pakeitimai:
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-7. Šio straipsnio 3 ir [[#^s-08ade933974057dba19a0e6e|4 dalyse]] nurodytų prieglobsčio prašytojų ir užsieniečių laikino apgyvendinimo [[#^s-baaf14fd48c14f7a079fa334|šio straipsnio 3 dalyje]] nurodytose laikino apgyvendinimo vietose sąlygas bei tvarką ir laikino išvykimo iš laikino apgyvendinimo vietų tvarką nustato socialinės apsaugos ir darbo ministras. ^s-be788f95b8536a1178f223dc
+7. Šio straipsnio [[#^s-baaf14fd48c14f7a079fa334|3]] ir [[#^s-08ade933974057dba19a0e6e|4]] dalyse nurodytų prieglobsčio prašytojų ir užsieniečių laikino apgyvendinimo [[#^s-baaf14fd48c14f7a079fa334|šio straipsnio 3 dalyje]] nurodytose laikino apgyvendinimo vietose sąlygas bei tvarką ir laikino išvykimo iš laikino apgyvendinimo vietų tvarką nustato socialinės apsaugos ir darbo ministras. ^s-be788f95b8536a1178f223dc
 Straipsnio dalies pakeitimai:
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-8. Jeigu per įvestos karo padėties, nepaprastosios padėties, taip pat paskelbtos ekstremaliosios situacijos dėl masinio užsieniečių antplūdžio laikotarpį ir 28 dienas jam pasibaigus, tačiau ne ilgiau kaip per 5 mėnesius nuo užsieniečio užregistravimo Lietuvos migracijos informacinėje sistemoje dienos, nebuvo priimtas galutinis sprendimas dėl prieglobsčio prašytojo, laikinai apgyvendinto [[#^s-baaf14fd48c14f7a079fa334|šio straipsnio 3 dalyje]] nurodytose laikino apgyvendinimo vietose, teisinės padėties, Migracijos departamentas priima sprendimą įleisti tokį prieglobsčio prašytoją į Lietuvos Respubliką ir apgyvendinti jį šio Įstatymo 79 ir [[#^s-b522be62348709b23a61c556|14016 straipsniuose]] nustatyta tvarka [[#^s-baaf14fd48c14f7a079fa334|šio straipsnio 3 dalyje]] nurodytose laikino apgyvendinimo vietose, neribojant jo teisės laisvai judėti Lietuvos Respublikos teritorijoje. Prieglobsčio prašytojui pateikus prašymą, Migracijos departamento sprendimu jam gali būti leista apsigyventi jo pasirinktoje gyvenamojoje vietoje. ^s-8e05b729645705f55b80363c
+8. Jeigu per įvestos karo padėties, nepaprastosios padėties, taip pat paskelbtos ekstremaliosios situacijos dėl masinio užsieniečių antplūdžio laikotarpį ir 28 dienas jam pasibaigus, tačiau ne ilgiau kaip per 5 mėnesius nuo užsieniečio užregistravimo Lietuvos migracijos informacinėje sistemoje dienos, nebuvo priimtas galutinis sprendimas dėl prieglobsčio prašytojo, laikinai apgyvendinto [[#^s-baaf14fd48c14f7a079fa334|šio straipsnio 3 dalyje]] nurodytose laikino apgyvendinimo vietose, teisinės padėties, Migracijos departamentas priima sprendimą įleisti tokį prieglobsčio prašytoją į Lietuvos Respubliką ir apgyvendinti jį šio Įstatymo [[#^s-87a3a802af7291df6c0fb55a|79]] ir [[#^s-b522be62348709b23a61c556|14016]] straipsniuose nustatyta tvarka [[#^s-baaf14fd48c14f7a079fa334|šio straipsnio 3 dalyje]] nurodytose laikino apgyvendinimo vietose, neribojant jo teisės laisvai judėti Lietuvos Respublikos teritorijoje. Prieglobsčio prašytojui pateikus prašymą, Migracijos departamento sprendimu jam gali būti leista apsigyventi jo pasirinktoje gyvenamojoje vietoje. ^s-8e05b729645705f55b80363c
 Straipsnio dalies pakeitimai:
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-9. Kai pagal šio straipsnio 2 ar [[#^s-8e05b729645705f55b80363c|8 dalį]] priimamas sprendimas įleisti prieglobsčio prašytoją į Lietuvos Respubliką ir yra šio Įstatymo [[#^s-064e0c2d18fffe27eb2959a0|113 straipsnio 4 dalyje]] nurodytas bent vienas prieglobsčio prašytojo sulaikymo pagrindas, Valstybės sienos apsaugos tarnyba kreipiasi į teismą dėl prieglobsčio prašytojo sulaikymo ar alternatyvios sulaikymui priemonės skyrimo. Jeigu per įvestos karo padėties, nepaprastosios padėties, taip pat paskelbtos ekstremaliosios situacijos dėl masinio užsieniečių antplūdžio laikotarpį ir 28 dienas jam pasibaigus, tačiau ne ilgiau kaip per 5 mėnesius nuo užsieniečio, kuris neteisėtai kirto Lietuvos Respublikos valstybės sieną ir kuris nėra prieglobsčio prašytojas, užregistravimo Lietuvos migracijos informacinėje sistemoje dienos, neįvykdomas galutinis Migracijos departamento ar Valstybės sienos apsaugos tarnybos sprendimas dėl užsieniečio grąžinimo ar išsiuntimo, Valstybės sienos apsaugos tarnyba, nustačiusi, kad yra šio Įstatymo [[#^s-d4eb41a449c3e288368bd0cc|113 straipsnio 1 dalyje]] nurodyti sulaikymo pagrindai, kreipiasi į teismą dėl užsieniečio sulaikymo ar alternatyvios sulaikymui priemonės skyrimo. ^s-104c3408b3ce2878c15f2b26
+9. Kai pagal šio straipsnio [[#^s-ec28a189db95c1a75e347a55|2]] ar [[#^s-8e05b729645705f55b80363c|8]] dalį priimamas sprendimas įleisti prieglobsčio prašytoją į Lietuvos Respubliką ir yra šio Įstatymo [[#^s-064e0c2d18fffe27eb2959a0|113 straipsnio 4 dalyje]] nurodytas bent vienas prieglobsčio prašytojo sulaikymo pagrindas, Valstybės sienos apsaugos tarnyba kreipiasi į teismą dėl prieglobsčio prašytojo sulaikymo ar alternatyvios sulaikymui priemonės skyrimo. Jeigu per įvestos karo padėties, nepaprastosios padėties, taip pat paskelbtos ekstremaliosios situacijos dėl masinio užsieniečių antplūdžio laikotarpį ir 28 dienas jam pasibaigus, tačiau ne ilgiau kaip per 5 mėnesius nuo užsieniečio, kuris neteisėtai kirto Lietuvos Respublikos valstybės sieną ir kuris nėra prieglobsčio prašytojas, užregistravimo Lietuvos migracijos informacinėje sistemoje dienos, neįvykdomas galutinis Migracijos departamento ar Valstybės sienos apsaugos tarnybos sprendimas dėl užsieniečio grąžinimo ar išsiuntimo, Valstybės sienos apsaugos tarnyba, nustačiusi, kad yra šio Įstatymo [[#^s-d4eb41a449c3e288368bd0cc|113 straipsnio 1 dalyje]] nurodyti sulaikymo pagrindai, kreipiasi į teismą dėl užsieniečio sulaikymo ar alternatyvios sulaikymui priemonės skyrimo. ^s-104c3408b3ce2878c15f2b26
 
 
-10. Šio Įstatymo [[#^s-fd856745c22cdbb05942b837|5 straipsnio]] 2, 3, 31, 32, 4, 6, 7, 8 ir [[#^s-104c3408b3ce2878c15f2b26|9 dalių]] nuostatos dėl užsieniečių atvykimo į Lietuvos Respubliką ir laikino jų apgyvendinimo netaikomos. ^s-f27f4b45fcf6e870c5660247
+10. Šio Įstatymo [[#^s-fd856745c22cdbb05942b837|5 straipsnio]] [[#^s-464e722bf6844b8e4594993f|2]], [[#^s-b934573429ed7040b61cd7f8|3]], [[#^s-39a76ba7cd04ec51d33c07fc|31]], [[#^s-a08118a95f194ad142170e3d|32]], [[#^s-7e8cd831684e3b6af391a83f|4]], [[#^s-3a50d99f5b3224ea59a292ca|6]], [[#^s-fc9eb27e5711a0b2e100e036|7]], [[#^s-1aeb75c12afcf123924a3f62|8]] ir [[#^s-ff3fed8fddbb1daa438aeead|9]] dalių nuostatos dėl užsieniečių atvykimo į Lietuvos Respubliką ir laikino jų apgyvendinimo netaikomos. ^s-f27f4b45fcf6e870c5660247
 
 
 Straipsnio pakeitimai:
@@ -7374,7 +7374,7 @@ Nr. XIV-2427, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25931
 2. Užsieniečiui, kuris neteisėtai kirto Lietuvos Respublikos valstybės sieną ir kuris nėra prieglobsčio prašytojas, šio Įstatymo [[#^s-5e3cb5cec55f58ee8141104c|221 straipsnyje]] nustatyta tvarka Migracijos departamentas išduoda užsieniečio registracijos pažymėjimą praėjus 5 mėnesiams nuo užsieniečio užregistravimo Lietuvos migracijos informacinėje sistemoje dienos. ^s-d27e929fc35b0a2a7206189a
 
 
-3. Šio Įstatymo [[#^s-7a9b46443d3d9486d6cd3bf6|221 straipsnio 1 dalies]] 1 ir 2 punktų nuostatos dėl teisės likti Lietuvos Respublikos teritorijoje netaikomos. ^s-faad08de69634809aec2e6ec
+3. Šio Įstatymo [[#^s-7a9b46443d3d9486d6cd3bf6|221 straipsnio 1 dalies]] [[#^s-c3ef99a9a774a9fb6ad96958|1]] ir [[#^s-f9d37441a168bfed11a5304a|2]] punktų nuostatos dėl teisės likti Lietuvos Respublikos teritorijoje netaikomos. ^s-faad08de69634809aec2e6ec
 
 
 Straipsnio pakeitimai:
@@ -7431,7 +7431,7 @@ Nr. XIV-1889, 2023-04-20, paskelbta TAR 2023-04-26, i. k. 2023-08041
 1. Šio Įstatymo [[#^s-baaf14fd48c14f7a079fa334|1408 straipsnio 3 dalyje]] nurodyti prieglobsčio prašytojai turi: ^s-754f88a23b6bb668d9a6d453
 
 
-1) teises, nurodytas šio Įstatymo [[#^s-9340dd3011bf88a9fd46baac|71 straipsnio]] 1, 2 ir 21 dalyse, išskyrus teisę gauti piniginę pašalpą; ^s-ea9c660607c45c8fa0358760
+1) teises, nurodytas šio Įstatymo [[#^s-9340dd3011bf88a9fd46baac|71 straipsnio]] [[#^s-21ab9c61630a727f12030997|1]], [[#^s-cd1d840e398e8eabf6149fb4|2]] ir [[#^s-363cc3bd3b015b55f9c9b320|21]] dalyse, išskyrus teisę gauti piniginę pašalpą; ^s-ea9c660607c45c8fa0358760
 
 
 2) teisę dirbti arba vykdyti savarankišką veiklą praėjus 12 mėnesių nuo užsieniečio užregistravimo Lietuvos migracijos informacinėje sistemoje dienos, jeigu ji nebuvo įgyta šio Įstatymo [[#^s-d8403c63fe24c8b4ffb6f87f|71 straipsnio 1 dalies 10 punkte]] nurodytu atveju. ^s-96b26aed8293eafc1dc39bb3
@@ -7440,7 +7440,7 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 
 
 
-2. Šio Įstatymo [[#^s-9340dd3011bf88a9fd46baac|71 straipsnio]] 1, 2 ir [[#^s-cf2d3c006c2b856b74f98e61|3 dalyse]] nurodytos prieglobsčio prašytojo teisės gali būti laikinai ir proporcingai ribojamos, jeigu jų negalima užtikrinti dėl objektyvių ir pagrįstų priežasčių, išskyrus teises, nurodytas šio Įstatymo [[#^s-21ab9c61630a727f12030997|71 straipsnio 1 dalies]] 1, 2, 4, 7, 8 ir 9 punktuose. Išnykus šiame straipsnyje nurodytoms priežastims, šio Įstatymo [[#^s-9340dd3011bf88a9fd46baac|71 straipsnio]] 1, 2 ir [[#^s-cf2d3c006c2b856b74f98e61|3 dalyse]] nurodytos prieglobsčio prašytojų teisės atkuriamos nedelsiant. Jeigu dėl pasikeitusių šiame straipsnyje nurodytų priežasčių visų šio Įstatymo [[#^s-9340dd3011bf88a9fd46baac|71 straipsnio]] 1, 2 ir [[#^s-cf2d3c006c2b856b74f98e61|3 dalyse]] nurodytų prieglobsčio prašytojų teisių visiems prieglobsčio prašytojams nedelsiant atkurti neįmanoma, jos pirmiausia atkuriamos pažeidžiamiems asmenims. ^s-323e4b43d4f87b8359be25da
+2. Šio Įstatymo [[#^s-9340dd3011bf88a9fd46baac|71 straipsnio]] [[#^s-21ab9c61630a727f12030997|1]], [[#^s-cd1d840e398e8eabf6149fb4|2]] ir [[#^s-b564b6d27e14d41f8d129a9e|3]] dalyse nurodytos prieglobsčio prašytojo teisės gali būti laikinai ir proporcingai ribojamos, jeigu jų negalima užtikrinti dėl objektyvių ir pagrįstų priežasčių, išskyrus teises, nurodytas šio Įstatymo [[#^s-21ab9c61630a727f12030997|71 straipsnio 1 dalies]] [[#^s-2e9c515d4e0c4f1272b389dd|1]], [[#^s-84e28765a7e5b2471a0a9bd4|2]], [[#^s-c76f168b3a3cd94975202d6a|4]], [[#^s-e4006e5fb125c0d7f1c1b85f|7]], [[#^s-18bf870aad709520b3efd35a|8]] ir [[#^s-149f2f250ddd630d4e274066|9]] punktuose. Išnykus šiame straipsnyje nurodytoms priežastims, šio Įstatymo [[#^s-9340dd3011bf88a9fd46baac|71 straipsnio]] [[#^s-21ab9c61630a727f12030997|1]], [[#^s-cd1d840e398e8eabf6149fb4|2]] ir [[#^s-b564b6d27e14d41f8d129a9e|3]] dalyse nurodytos prieglobsčio prašytojų teisės atkuriamos nedelsiant. Jeigu dėl pasikeitusių šiame straipsnyje nurodytų priežasčių visų šio Įstatymo [[#^s-9340dd3011bf88a9fd46baac|71 straipsnio]] [[#^s-21ab9c61630a727f12030997|1]], [[#^s-cd1d840e398e8eabf6149fb4|2]] ir [[#^s-b564b6d27e14d41f8d129a9e|3]] dalyse nurodytų prieglobsčio prašytojų teisių visiems prieglobsčio prašytojams nedelsiant atkurti neįmanoma, jos pirmiausia atkuriamos pažeidžiamiems asmenims. ^s-323e4b43d4f87b8359be25da
 
 
 3. Šio Įstatymo [[#^s-08ade933974057dba19a0e6e|1408 straipsnio 4 dalyje]] nurodyti užsieniečiai, kurie neteisėtai kirto Lietuvos Respublikos valstybės sieną ir nėra prieglobsčio prašytojai, turi: ^s-cf2d3c006c2b856b74f98e61
@@ -7467,7 +7467,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-5. Jeigu šio Įstatymo [[#^s-db3bfa1512f209424c897eb8|1408 straipsnio]] 3 ir [[#^s-a2e7290d947f8f5280e4bed1|4 dalyse]] nurodyti prieglobsčio prašytojai ir užsieniečiai, įgiję teisę dirbti, dėl objektyvių priežasčių neturi mokėjimo sąskaitos, jiems darbo užmokestis ir kitos su darbo santykiais susijusios išmokos, taip pat dienpinigiai ir komandiruotės išlaidų kompensacijos gali būti mokami grynaisiais pinigais. ^s-8216a74c1ddbf829501c74cb
+5. Jeigu šio Įstatymo [[#^s-db3bfa1512f209424c897eb8|1408 straipsnio]] [[#^s-baaf14fd48c14f7a079fa334|3]] ir [[#^s-08ade933974057dba19a0e6e|4]] dalyse nurodyti prieglobsčio prašytojai ir užsieniečiai, įgiję teisę dirbti, dėl objektyvių priežasčių neturi mokėjimo sąskaitos, jiems darbo užmokestis ir kitos su darbo santykiais susijusios išmokos, taip pat dienpinigiai ir komandiruotės išlaidų kompensacijos gali būti mokami grynaisiais pinigais. ^s-8216a74c1ddbf829501c74cb
 Straipsnio dalies pakeitimai:
 Nr. XIV-2427, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25931
 
@@ -7490,7 +7490,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 2. Šio Įstatymo [[#^s-c2cb79a477f28121a615d6a6|76 straipsnio 4 dalies]] nuostatos taikomos prieglobsčio prašytojams, kurie buvo kankinti, išprievartauti ar patyrė kitokį sunkų psichologinį, fizinį ar seksualinį smurtą. Šio Įstatymo [[#^s-c2cb79a477f28121a615d6a6|76 straipsnio 4 dalies]] nuostatos netaikomos nelydimiems nepilnamečiams prieglobsčio prašytojams, išskyrus atvejus, jeigu kyla pagrįstų abejonių dėl nelydimo nepilnamečio prieglobsčio prašytojo amžiaus, – iki bus nustatytas jo amžius, arba jeigu nustatomos šio Įstatymo [[#^s-e276e2bf32e2b841cd5a697f|76 straipsnio 4 dalies 8 punkte]] nurodytos aplinkybės. ^s-0c9ccf236e794a368d913b7a
 
 
-3. Nagrinėjant prašymus suteikti prieglobstį, šio Įstatymo [[#^s-f74e01287d98b83fc8ed754f|76 straipsnio]] 5 ir 6 dalių nuostatos netaikomos. ^s-532e9a427af8bd18547f5bd2
+3. Nagrinėjant prašymus suteikti prieglobstį, šio Įstatymo [[#^s-f74e01287d98b83fc8ed754f|76 straipsnio]] [[#^s-297f11403cd4a44e40b76872|5]] ir [[#^s-bc01efe56d70cd003e806f46|6]] dalių nuostatos netaikomos. ^s-532e9a427af8bd18547f5bd2
 
 
 Straipsnio pakeitimai:
@@ -7550,7 +7550,7 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 ### 14021 straipsnis. Sprendimo sulaikyti užsienietį pakartotinis svarstymas ^s-998774b6741584e95be02be1
 
 
-1. Išnykus užsieniečio sulaikymo pagrindams, užsienietis turi teisę, o Valstybės sienos apsaugos tarnyba nedelsdama privalo kreiptis į apylinkės teismą pagal užsieniečio buvimo vietą arba į kitą artimiausią užsieniečio buvimo vietai apylinkės teismą su prašymu pakartotinai svarstyti sprendimą sulaikyti užsienietį, išskyrus atvejus, kai užsienietis iš sulaikymo vietos paleidžiamas [[#^s-f94e4781d7c8108d44efc87f|šio straipsnio 2 dalyje]] nurodytu pagrindu. Jeigu užsienietis, kuris yra sulaikytas šio Įstatymo [[#^s-4c2d6f53c34f5685cb3b9bca|113 straipsnio]] 1 ir [[#^s-f94e4781d7c8108d44efc87f|2 dalyse]] nurodytais pagrindais, pateikia prašymą suteikti prieglobstį, Valstybės sienos apsaugos tarnyba nedelsdama privalo kreiptis į apylinkės teismą pagal užsieniečio buvimo vietą arba į kitą artimiausią užsieniečio buvimo vietai apylinkės teismą su prašymu pakartotinai svarstyti sprendimą sulaikyti prieglobsčio prašytoją. ^s-e4d77de05ba26b4ecba8a47a
+1. Išnykus užsieniečio sulaikymo pagrindams, užsienietis turi teisę, o Valstybės sienos apsaugos tarnyba nedelsdama privalo kreiptis į apylinkės teismą pagal užsieniečio buvimo vietą arba į kitą artimiausią užsieniečio buvimo vietai apylinkės teismą su prašymu pakartotinai svarstyti sprendimą sulaikyti užsienietį, išskyrus atvejus, kai užsienietis iš sulaikymo vietos paleidžiamas [[#^s-f94e4781d7c8108d44efc87f|šio straipsnio 2 dalyje]] nurodytu pagrindu. Jeigu užsienietis, kuris yra sulaikytas šio Įstatymo [[#^s-4c2d6f53c34f5685cb3b9bca|113 straipsnio]] [[#^s-d4eb41a449c3e288368bd0cc|1]] ir [[#^s-ce958b15fabe3af98cbee9c5|2]] dalyse nurodytais pagrindais, pateikia prašymą suteikti prieglobstį, Valstybės sienos apsaugos tarnyba nedelsdama privalo kreiptis į apylinkės teismą pagal užsieniečio buvimo vietą arba į kitą artimiausią užsieniečio buvimo vietai apylinkės teismą su prašymu pakartotinai svarstyti sprendimą sulaikyti prieglobsčio prašytoją. ^s-e4d77de05ba26b4ecba8a47a
 
 
 2. Šio Įstatymo [[#^s-1c42f98e06260fd4c888f62c|118 straipsnio 1 dalies]] nuostatos dėl sprendimo sulaikyti užsienietį pakartotinio svarstymo netaikomos. ^s-f94e4781d7c8108d44efc87f
@@ -7580,7 +7580,7 @@ Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
 ### 14023 straipsnis. Humanitarinės pagalbos teikimas ^s-d4396b853b2f6b4943aa75aa
 
 
-1. Kai įvesta karo padėtis, nepaprastoji padėtis, taip pat paskelbta ekstremalioji situacija dėl masinio užsieniečių antplūdžio, humanitarinę pagalbą užsieniečiams Lietuvos Respublikos teritorijoje teikia Lietuvos Respublikos valstybės ir savivaldybių institucijos ir įstaigos, taip pat nevyriausybinės organizacijos, pagal su Vyriausybe arba jos įgaliota institucija sudarytą sutartį ar susitarimą dėl humanitarinės pagalbos teikimo, ir tarptautinės organizacijos. Sudarant sutartis ar susitarimus su nevyriausybinėmis organizacijomis dėl humanitarinės pagalbos teikimo, įvertinama nevyriausybinės organizacijos patirtis teikiant humanitarinę pagalbą užsieniečiams ir Vyriausybės ar jos įgaliotos institucijos nustatytas humanitarinės pagalbos teikimo poreikis. ^s-eb0cb41db06c11cd7fe8a550
+1. Kai įvesta karo padėtis, nepaprastoji padėtis, taip pat paskelbta ekstremalioji situacija dėl masinio užsieniečių antplūdžio, humanitarinę pagalbą užsieniečiams Lietuvos Respublikos teritorijoje teikia Lietuvos Respublikos valstybės ir savivaldybių institucijos ir įstaigos, taip pat nevyriausybinės organizacijos, pagal su Vyriausybe arba jos įgaliota institucija sudarytą sutartį ar susitarimą [dėl humanitarinės pagalbos](https://e-tar.lt/portal/lt/legalAct/TAR.A07ED955047A) teikimo, ir tarptautinės organizacijos. Sudarant sutartis ar susitarimus su nevyriausybinėmis organizacijomis [dėl humanitarinės pagalbos](https://e-tar.lt/portal/lt/legalAct/TAR.A07ED955047A) teikimo, įvertinama nevyriausybinės organizacijos patirtis teikiant humanitarinę pagalbą užsieniečiams ir Vyriausybės ar jos įgaliotos institucijos nustatytas humanitarinės pagalbos teikimo poreikis. ^s-eb0cb41db06c11cd7fe8a550
 
 
 2. Nevyriausybinių organizacijų ir tarptautinių organizacijų humanitarinės pagalbos užsieniečiams Lietuvos Respublikos teritorijoje teikimą koordinuoja Socialinės apsaugos ir darbo ministerija. ^s-c0e9850b0bd1ce1034abde98
@@ -7604,7 +7604,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-1. Skundas dėl sprendimų, nurodytų šio Įstatymo [[#^s-3e36ac56caef00d49f4b8b89|77 straipsnio 1 dalyje]], [[#^s-fd3cbafd00d81c9f887b162a|86 straipsnio 3 dalyje]], [[#^s-7dfddb9dc84097c9102d784b|87 straipsnio 3 dalyje]], 125, 126 ir [[#^s-ccf431aeb38bc13c49c3819d|133 straipsniuose]], gali būti paduotas Regionų administraciniam teismui per 7 dienas nuo sprendimo įteikimo dienos. ^s-84cd82c14db950e490800ca0
+1. Skundas dėl sprendimų, nurodytų šio Įstatymo [[#^s-3e36ac56caef00d49f4b8b89|77 straipsnio 1 dalyje]], [[#^s-fd3cbafd00d81c9f887b162a|86 straipsnio 3 dalyje]], [[#^s-7dfddb9dc84097c9102d784b|87 straipsnio 3 dalyje]], [[#^s-77d368cc6a07935b83575555|125]], [[#^s-d3d4ed63d213f2e0290241ea|126]] ir [[#^s-ccf431aeb38bc13c49c3819d|133]] straipsniuose, gali būti paduotas Regionų administraciniam teismui per 7 dienas nuo sprendimo įteikimo dienos. ^s-84cd82c14db950e490800ca0
 Straipsnio dalies pakeitimai:
 Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 
@@ -7620,7 +7620,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 
 
 
-1. Apskųsto sprendimo vykdymas sustabdomas šio Įstatymo [[#^s-844ced6dad127bbef756edba|139 straipsnio 1 dalies]] 4 ir 5 punktuose nurodytais atvejais. ^s-da10e2b31f1631b8cb26bf2d
+1. Apskųsto sprendimo vykdymas sustabdomas šio Įstatymo [[#^s-844ced6dad127bbef756edba|139 straipsnio 1 dalies]] [[#^s-cc7b9531cc6c25c9928a6add|4]] ir [[#^s-b87026f8248a3bbfcaa7a00f|5]] punktuose nurodytais atvejais. ^s-da10e2b31f1631b8cb26bf2d
 Straipsnio dalies pakeitimai:
 Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
 
@@ -7692,7 +7692,7 @@ BAIGIAMOSIOS NUOSTATOS
 1. Migracijos departamentas, Valstybės sienos apsaugos tarnyba turi teisę iš Lietuvos Respublikos valstybės ir savivaldybių institucijų, įstaigų ir įmonių neatlygintinai gauti duomenis, kurių reikia funkcijoms, susijusioms su užsieniečių teisinės padėties Lietuvos Respublikoje nustatymu, atlikti. ^s-5c7902d4ca095fb6f629438d
 
 
-2. Siekdami nustatyti užsieniečių teisinę padėtį Lietuvos Respublikoje ar priimdami sprendimus dėl užsieniečių teisinės padėties Lietuvos Respublikoje, Migracijos departamento valstybės tarnautojai: ^s-d13fa5c624a1ee2b52c6880c
+2. Siekdami nustatyti užsieniečių teisinę padėtį Lietuvos Respublikoje ar priimdami sprendimus [dėl užsieniečių teisinės padėties Lietuvos Respublikoje](https://e-tar.lt/portal/lt/legalAct/TAR.4B9E85955EF6), Migracijos departamento valstybės tarnautojai: ^s-d13fa5c624a1ee2b52c6880c
 
 
 1) turi teisę be išankstinio perspėjimo lankytis įmonės arba užsienio valstybėje įsteigtos įmonės filialo ar atstovybės patalpose ir atlikti jų apžiūrą, kai įtariama, kad jose gali būti laikomi ar gyventi neteisėtai Lietuvos Respublikoje esantys užsieniečiai, ar kai įtariama, kad įmonė, kurios dalyvis ar vadovas yra užsienietis, arba priimančioji įmonė, įsteigta Lietuvos Respublikoje, į kurią užsienietis perkeliamas įmonės viduje, yra fiktyvi; ^s-2263dbf8047ecd37302e6069
@@ -7735,7 +7735,7 @@ Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
 2) e. rezidentai; ^s-e9106e2ac73b161a1a936073
 
 
-3) kiti užsieniečiai, nenurodyti šios dalies 1 ir [[#^s-e9106e2ac73b161a1a936073|2 punktuose]], turintys ekonominių ir (arba) socialinių interesų, ir (arba) prievolių Lietuvos Respublikoje. ^s-13bda12b9c4f9e037cb4507a
+3) kiti užsieniečiai, nenurodyti šios dalies [[#^s-d0cfc54c9c64a39971624b26|1]] ir [[#^s-e9106e2ac73b161a1a936073|2]] punktuose, turintys ekonominių ir (arba) socialinių interesų, ir (arba) prievolių Lietuvos Respublikoje. ^s-13bda12b9c4f9e037cb4507a
 
 
 Straipsnio dalies pakeitimai:
@@ -7757,7 +7757,7 @@ Nr. XII-1396, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19923
 ### 1421 straipsnis. Lietuvos migracijos informacinė sistema ^s-15d4a508ba611c5116ac9df4
 
 
-Lietuvos migracijos informacinė sistema yra valstybės informacinė sistema, skirta informacinių technologijų priemonėmis tvarkyti duomenis, kurių reikia sprendimams dėl užsieniečių teisinės padėties Lietuvos Respublikoje nustatymo priimti, taip pat kitoms migracijos paslaugoms, teikiamoms asmenims, ir procedūroms, kurios reglamentuojamos Lietuvos Respublikos įstatymuose, Europos Sąjungos teisės aktuose ir tarptautinėse sutartyse, centralizuotai valdyti ir kaupti bei teikti visus susijusius duomenis.
+Lietuvos migracijos informacinė sistema yra valstybės informacinė sistema, skirta informacinių technologijų priemonėmis tvarkyti duomenis, kurių reikia sprendimams [dėl užsieniečių teisinės padėties Lietuvos Respublikoje](https://e-tar.lt/portal/lt/legalAct/TAR.4B9E85955EF6) nustatymo priimti, taip pat kitoms migracijos paslaugoms, teikiamoms asmenims, ir procedūroms, kurios reglamentuojamos Lietuvos Respublikos įstatymuose, Europos Sąjungos teisės aktuose ir tarptautinėse sutartyse, centralizuotai valdyti ir kaupti bei teikti visus susijusius duomenis.
 
 
 Papildyta straipsniu:
@@ -7782,7 +7782,7 @@ Jeigu Lietuvos Respublikos tarptautinėse sutartyse nustatytos kitokios nuostato
 ### 1441 straipsnis. Asmens duomenų tvarkymas ^s-31bee4458905aa36d9fd634f
 
 
-Įgyvendinant šį Įstatymą, užsieniečių asmens duomenys, įskaitant specialių kategorijų asmens duomenis, tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymo]] reikalavimais.
+Įgyvendinant šį Įstatymą, užsieniečių asmens duomenys, įskaitant specialių kategorijų asmens duomenis, tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymo]] reikalavimais.
 
 
 Papildyta straipsniu:
@@ -7820,10 +7820,10 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 5) Lietuvos Respublikos įstatymas „Dėl užsieniečių teisinės padėties“ (Žin., 1998, Nr. 115-3236); ^s-a51be1e003220d8707d58c69
 
 
-6) Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 5, 7, 10, [[#^s-b99ba42e9a22f431ac696601|14 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 1999, Nr. 89-2618); ^s-7dbd2dd3d45488d3d9896f10
+6) Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ [[#^s-fd856745c22cdbb05942b837|5]], [[#^s-5b1d98fe2b9e15d55bb19c33|7]], [[#^s-fc7a8b08e05503d855fcb044|10]], [[#^s-b99ba42e9a22f431ac696601|14]] straipsnių pakeitimo ir papildymo įstatymas (Žin., 1999, Nr. 89-2618); ^s-7dbd2dd3d45488d3d9896f10
 
 
-7) Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 19 ir [[#^s-354f603c4b1c63b53d05fd74|26 straipsnių]] papildymo ir pakeitimo įstatymas (Žin., 2000, Nr. 5-125); ^s-b802fa29f6de5f43cc41fe9a
+7) Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ [[#^s-aed5c71965368d7fa9c081a2|19]] ir [[#^s-354f603c4b1c63b53d05fd74|26]] straipsnių papildymo ir pakeitimo įstatymas (Žin., 2000, Nr. 5-125); ^s-b802fa29f6de5f43cc41fe9a
 
 
 8) Lietuvos Respublikos įstatymo „Dėl pabėgėlių Lietuvos Respublikoje statuso“ pakeitimo įstatymas (Žin., 2000, Nr. 56-1651); ^s-b93a920a50132171e310be72
@@ -7835,16 +7835,16 @@ Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
 10) Lietuvos Respublikos įstatymo „Dėl pabėgėlių Lietuvos Respublikoje statuso“ pakeitimo įstatymas (Žin., 2000, Nr. 56-1651); ^s-28826b50706e392cf96820fc
 
 
-11) Lietuvos Respublikos įstatymo „Dėl pabėgėlių Lietuvos Respublikoje statuso“ 8, 9 ir [[#^s-4d390e274064b535ca5497c3|11 straipsnių]] pakeitimo įstatymas (Žin., 2000, Nr. 92-2859); ^s-ecae2f44eacac4625fb610c4
+11) Lietuvos Respublikos įstatymo „Dėl pabėgėlių Lietuvos Respublikoje statuso“ [[#^s-5607a2c2a881b9339c0b298e|8]], [[#^s-5f721b5c7f4db23a9279dab0|9]] ir [[#^s-4d390e274064b535ca5497c3|11]] straipsnių pakeitimo įstatymas (Žin., 2000, Nr. 92-2859); ^s-ecae2f44eacac4625fb610c4
 
 
 12) Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ pakeitimo ir papildymo įstatymas (Žin., 2001, Nr. 55-1944); ^s-bee371f729554dfeac0d5eb0
 
 
-13) Lietuvos Respublikos įstatymo „Dėl pabėgėlio statuso“ 2, 4, 5, 6, 8, 9, 10, 11, 13, 14, 17, 18, 22, [[#^s-354f603c4b1c63b53d05fd74|26 straipsnių]] pakeitimo bei papildymo ir Įstatymo papildymo 12(1), 12(2) , 12(3) , 12(4) , 12(5) , 12(6) straipsniais įstatymas (Žin., 2002, Nr. 13-466); ^s-4d7f47eb88214a382ef3549f
+13) Lietuvos Respublikos įstatymo „Dėl pabėgėlio statuso“ [[#^s-fbe60a6151b37cfd117ea146|2]], [[#^s-d428816ba1ce90264116ef4e|4]], [[#^s-fd856745c22cdbb05942b837|5]], [[#^s-beafabfe0dd1ac264a3236d1|6]], [[#^s-5607a2c2a881b9339c0b298e|8]], [[#^s-5f721b5c7f4db23a9279dab0|9]], [[#^s-fc7a8b08e05503d855fcb044|10]], [[#^s-4d390e274064b535ca5497c3|11]], [[#^s-4ee8c06b1013b3c0e9c45b16|13]], [[#^s-b99ba42e9a22f431ac696601|14]], [[#^s-4ebc74b0f244a43ba68b7de4|17]], [[#^s-97a0ee197a2ef1513fc41e66|18]], [[#^s-fcf0bb132e5938d7b32aedae|22]], [[#^s-354f603c4b1c63b53d05fd74|26]] straipsnių pakeitimo bei papildymo ir Įstatymo papildymo 12(1), 12(2) , 12(3) , 12(4) , 12(5) , 12(6) straipsniais įstatymas (Žin., 2002, Nr. 13-466); ^s-4d7f47eb88214a382ef3549f
 
 
-14) Lietuvos Respublikos įstatymo „Dėl pabėgėlio statuso“ 4 ir [[#^s-5b1d98fe2b9e15d55bb19c33|7 straipsnių]] pakeitimo įstatymas (Žin., 2003, Nr. 38-1688). ^s-77f4f4009083b9a332a53e8f
+14) Lietuvos Respublikos įstatymo „Dėl pabėgėlio statuso“ [[#^s-d428816ba1ce90264116ef4e|4]] ir [[#^s-5b1d98fe2b9e15d55bb19c33|7]] straipsnių pakeitimo įstatymas (Žin., 2003, Nr. 38-1688). ^s-77f4f4009083b9a332a53e8f
 
 
 
@@ -7870,7 +7870,7 @@ priedas
 1. 1985 m. birželio 14 d. Šengeno susitarimas tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių dėl laipsniško jų bendrų sienų kontrolės panaikinimo. ^s-d85c392486b4f6e4f78f53bd
 
 
-2. 1990 m. birželio 19 d. Konvencija dėl 1985 m. birželio 14 d. Šengeno susitarimo, sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo su paskutiniais pakeitimais, padarytais 2018 m. lapkričio 28 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1861. ^s-a1fb084363b0086a1c954297
+2. 1990 m. birželio 19 d. Konvencija dėl 1985 m. birželio 14 d. Šengeno susitarimo, sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo su paskutiniais pakeitimais, padarytais 2018 m. lapkričio 28 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2018/1861](https://eur-lex.europa.eu/eli/reg/2018/1861/oj). ^s-a1fb084363b0086a1c954297
 
 
 3. 2001 m. gegužės 28 d. Tarybos direktyva 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo. ^s-1c4cf4d15a96f4969937e1c3
@@ -7879,7 +7879,7 @@ priedas
 4. 2001 m. liepos 20 d. Tarybos direktyva 2001/55/EB dėl minimalių normų suteikiant perkeltiesiems asmenims laikiną apsaugą esant masiniam jų srautui ir dėl priemonių, skatinančių valstybių narių tarpusavio pastangų priimant tokius asmenis ir atsakant už tokio veiksmo padarinius pusiausvyrą. ^s-f4aeb946ab49fd1383f5c1bc
 
 
-5. 2002 m. birželio 13 d. Tarybos reglamentas (EB) Nr. 1030/2002, nustatantis vienodą leidimų apsigyventi trečiųjų šalių piliečiams formą, su paskutiniais pakeitimais, padarytais 2017 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentu (ES) 2017/1954. ^s-c3e711eb5fcc556a83d23bad
+5. 2002 m. birželio 13 d. Tarybos [reglamentas (EB) Nr. 1030/2002](https://eur-lex.europa.eu/eli/reg/1030/2002/oj), nustatantis vienodą leidimų apsigyventi trečiųjų šalių piliečiams formą, su paskutiniais pakeitimais, padarytais 2017 m. spalio 25 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2017/1954](https://eur-lex.europa.eu/eli/reg/2017/1954/oj). ^s-c3e711eb5fcc556a83d23bad
 
 
 6. 2003 m. rugsėjo 22 d. Tarybos direktyva 2003/86/EB dėl teisės į šeimos susijungimą. ^s-540859b5a41fe1c40aaccf4e
@@ -7894,19 +7894,19 @@ priedas
 9. 2004 m. vasario 23 d. Tarybos sprendimas 2004/191/EB, nustatantis finansinių skirtumų, atsirandančių dėl Direktyvos 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo taikymo, kompensavimo kriterijus ir praktines priemones. ^s-92dfb743813f10f6ecf25446
 
 
-10. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą (EEB) Nr. 1612/68 ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB. ^s-b3ad6f174740d7d159f38746
+10. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti [Reglamentą (EEB) Nr. 1612/68](https://eur-lex.europa.eu/eli/reg/1612/68/oj) ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB. ^s-b3ad6f174740d7d159f38746
 
 
 11. 2004 m. balandžio 29 d. Tarybos direktyva 2004/81/EB dėl leidimo gyventi šalyje išdavimo trečiųjų šalių piliečiams, kurie yra prekybos žmonėmis aukos arba kurie dalyvavo vykdant nelegalios imigracijos skatinimo veiksmus, bendradarbiaujantiems su kompetentingomis institucijomis. ^s-9b4c211b546b76beccc4ab67
 
 
-12. 2004 m. gruodžio 13 d. Tarybos reglamentas (EB) Nr. 2252/2004 dėl valstybių narių išduodamų pasų ir kelionės dokumentų apsauginių savybių ir biometrikos standartų su paskutiniais pakeitimais, padarytais 2009 m. gegužės 28 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 444/2009. ^s-eec68057b2030a555fd8a24b
+12. 2004 m. gruodžio 13 d. Tarybos [reglamentas (EB) Nr. 2252/2004](https://eur-lex.europa.eu/eli/reg/2252/2004/oj) dėl valstybių narių išduodamų pasų ir kelionės dokumentų apsauginių savybių ir biometrikos standartų su paskutiniais pakeitimais, padarytais 2009 m. gegužės 28 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 444/2009. ^s-eec68057b2030a555fd8a24b
 
 
-13. 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1987/2006 dėl antrosios kartos Šengeno informacinės sistemos (SIS II) sukūrimo, veikimo ir naudojimo su paskutiniais pakeitimais, padarytais 2018 m. lapkričio 28 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1861. ^s-836a0a5d91b898af68dbf01e
+13. 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1987/2006](https://eur-lex.europa.eu/eli/reg/1987/2006/oj) dėl antrosios kartos Šengeno informacinės sistemos (SIS II) sukūrimo, veikimo ir naudojimo su paskutiniais pakeitimais, padarytais 2018 m. lapkričio 28 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2018/1861](https://eur-lex.europa.eu/eli/reg/2018/1861/oj). ^s-836a0a5d91b898af68dbf01e
 
 
-14. 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 767/2008 dėl Vizų informacinės sistemos (VIS) ir apsikeitimo duomenimis apie trumpalaikes vizas tarp valstybių narių (VIS reglamentas) su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/817. ^s-9bbfb9383c917b3c9008071b
+14. 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 767/2008 dėl Vizų informacinės sistemos (VIS) ir apsikeitimo duomenimis apie trumpalaikes vizas tarp valstybių narių (VIS reglamentas) su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/817](https://eur-lex.europa.eu/eli/reg/2019/817/oj). ^s-9bbfb9383c917b3c9008071b
 
 
 15. 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2008/115/EB dėl bendrų nelegaliai esančių trečiųjų šalių piliečių grąžinimo standartų ir tvarkos valstybėse narėse. ^s-f2fed340b866aa7b8172b140
@@ -7921,7 +7921,7 @@ Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 17. 2009 m. birželio 18 d. Europos Parlamento ir Tarybos direktyva 2009/52/EB, kuria numatomi sankcijų ir priemonių nelegaliai esančių trečiųjų šalių piliečių darbdaviams būtiniausi standartai. ^s-1eba99097a9a67e53fa5d930
 
 
-18. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas), su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1155. ^s-c162cf670a8914e6d325b8b7
+18. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas), su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/1155](https://eur-lex.europa.eu/eli/reg/2019/1155/oj). ^s-c162cf670a8914e6d325b8b7
 
 
 19. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/95/ES dėl trečiųjų šalių piliečių ar asmenų be pilietybės priskyrimo prie tarptautinės apsaugos gavėjų, vienodo statuso pabėgėliams arba papildomą apsaugą galintiems gauti asmenims ir suteikiamos apsaugos pobūdžio reikalavimų. ^s-6ab3b8d4afe33d5a7c183c3a
@@ -7933,7 +7933,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-21. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 603/2013 dėl Eurodac sistemos pirštų atspaudams lyginti sukūrimo siekiant veiksmingai taikyti Reglamentą (ES) Nr. 604/2013, kuriuo išdėstomi valstybės narės, atsakingos už trečiosios šalies piliečio arba asmens be pilietybės vienoje iš valstybių narių pateikto tarptautinės apsaugos prašymo nagrinėjimą, nustatymo kriterijai ir mechanizmai, ir dėl valstybių narių teisėsaugos institucijų bei Europolo teisėsaugos tikslais teikiamų prašymų palyginti duomenis su Eurodac sistemos duomenimis ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 1077/2011, kuriuo įsteigiama Europos didelės apimties IT sistemų laisvės, saugumo ir teisingumo erdvėje operacijų valdymo agentūra (nauja redakcija). ^s-4b3c57ee16bc7bc2d96b7709
+21. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 603/2013 dėl Eurodac sistemos pirštų atspaudams lyginti sukūrimo siekiant veiksmingai taikyti Reglamentą (ES) Nr. 604/2013, kuriuo išdėstomi valstybės narės, atsakingos už trečiosios šalies piliečio arba asmens be pilietybės vienoje iš valstybių narių pateikto tarptautinės apsaugos prašymo nagrinėjimą, nustatymo kriterijai ir mechanizmai, ir dėl valstybių narių teisėsaugos institucijų bei Europolo teisėsaugos tikslais teikiamų prašymų palyginti duomenis su Eurodac sistemos duomenimis ir kuriuo iš dalies keičiamas [Reglamentas (ES) Nr. 1077/2011](https://eur-lex.europa.eu/eli/reg/1077/2011/oj), kuriuo įsteigiama Europos didelės apimties IT sistemų laisvės, saugumo ir teisingumo erdvėje operacijų valdymo agentūra (nauja redakcija). ^s-4b3c57ee16bc7bc2d96b7709
 
 
 22. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 604/2013, kuriuo išdėstomi valstybės narės, atsakingos už trečiosios šalies piliečio arba asmens be pilietybės vienoje iš valstybių narių pateikto tarptautinės apsaugos prašymo nagrinėjimą, nustatymo kriterijai ir mechanizmai (nauja redakcija). ^s-d2a29d15b50425bf5c564745
@@ -7954,7 +7954,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-27. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 516/2014, kuriuo įsteigiamas Prieglobsčio, migracijos ir integracijos fondas ir iš dalies keičiamas Tarybos sprendimas 2008/381/EB ir panaikinami Europos Parlamento ir Tarybos sprendimai Nr. 573/2007/EB ir Nr. 575/2007/EB bei Tarybos sprendimas 2007/435/EB su paskutiniais pakeitimais, padarytais 2019 m. spalio 15 d. Komisijos deleguotuoju reglamentu (ES) 2020/445. ^s-0252ffefec38e5cf6e9118c5
+27. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 516/2014, kuriuo įsteigiamas Prieglobsčio, migracijos ir integracijos fondas ir iš dalies keičiamas Tarybos sprendimas 2008/381/EB ir panaikinami Europos Parlamento ir Tarybos sprendimai Nr. 573/2007/EB ir Nr. 575/2007/EB bei Tarybos sprendimas 2007/435/EB su paskutiniais pakeitimais, padarytais 2019 m. spalio 15 d. Komisijos deleguotuoju [reglamentu (ES) 2020/445](https://eur-lex.europa.eu/eli/reg/2020/445/oj). ^s-0252ffefec38e5cf6e9118c5
 Punkto numeracijos pakeitimas:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
@@ -7966,19 +7966,19 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-29. 2016 m. kovo 9 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/399 dėl taisyklių, reglamentuojančių asmenų judėjimą per sienas, Sąjungos kodekso (Šengeno sienų kodeksas) su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/817. ^s-96ff040265f93236630ce740
+29. 2016 m. kovo 9 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/399](https://eur-lex.europa.eu/eli/reg/2016/399/oj) dėl taisyklių, reglamentuojančių asmenų judėjimą per sienas, Sąjungos kodekso (Šengeno sienų kodeksas) su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/817](https://eur-lex.europa.eu/eli/reg/2019/817/oj). ^s-96ff040265f93236630ce740
 Punkto numeracijos pakeitimas:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-30. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/801 dėl trečiųjų šalių piliečių atvykimo ir gyvenimo mokslinių tyrimų, studijų, stažavimosi, savanoriškos tarnybos, mokinių mainų programų arba edukacinių projektų ir dalyvavimo Au pair programoje tikslais sąlygų (nauja redakcija). ^s-b09ab903dfcad9dc36638239
+30. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos [direktyva (ES) 2016/801](https://eur-lex.europa.eu/eli/dir/2016/801/oj) dėl trečiųjų šalių piliečių atvykimo ir gyvenimo mokslinių tyrimų, studijų, stažavimosi, savanoriškos tarnybos, mokinių mainų programų arba edukacinių projektų ir dalyvavimo Au pair programoje tikslais sąlygų (nauja redakcija). ^s-b09ab903dfcad9dc36638239
 Punkto numeracijos pakeitimas:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-31. 2018 m. rugsėjo 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1240, kuriuo sukuriama Europos kelionių informacijos ir leidimų sistema (ETIAS) ir iš dalies keičiami reglamentai (ES) Nr. 1077/2011, (ES) Nr. 515/2014, (ES) 2016/399, (ES) 2016/1624 ir (ES) 2017/2226, su paskutiniais pakeitimais, padarytais 2021 m. liepos 7 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/1152. ^s-b9e46866618baffec61d3c35
+31. 2018 m. rugsėjo 12 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2018/1240](https://eur-lex.europa.eu/eli/reg/2018/1240/oj), kuriuo sukuriama Europos kelionių informacijos ir leidimų sistema (ETIAS) ir iš dalies keičiami [reglamentai (ES) Nr. 1077/2011](https://eur-lex.europa.eu/eli/reg/1077/2011/oj), (ES) Nr. 515/2014, (ES) 2016/399, (ES) 2016/1624 ir (ES) 2017/2226, su paskutiniais pakeitimais, padarytais 2021 m. liepos 7 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2021/1152](https://eur-lex.europa.eu/eli/reg/2021/1152/oj). ^s-b9e46866618baffec61d3c35
 Papildyta punktu:
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 Punkto numeracijos pakeitimas:
@@ -7986,14 +7986,14 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-32. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1806, nustatantis trečiųjų šalių, kurių piliečiai, kirsdami išorines sienas, privalo turėti vizas, ir trečiųjų šalių, kurių piliečiams tas reikalavimas netaikomas, sąrašus. ^s-e53bbcab419d786d36d8e783
+32. 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2018/1806](https://eur-lex.europa.eu/eli/reg/2018/1806/oj), nustatantis trečiųjų šalių, kurių piliečiai, kirsdami išorines sienas, privalo turėti vizas, ir trečiųjų šalių, kurių piliečiams tas reikalavimas netaikomas, sąrašus. ^s-e53bbcab419d786d36d8e783
 Punkto numeracijos pakeitimas:
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-33. 2018 m. lapkričio 28 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1860 dėl Šengeno informacinės sistemos naudojimo neteisėtai esančių trečiųjų šalių piliečių grąžinimui su paskutiniais pakeitimais, padarytais 2021 m. liepos 7 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/1152. ^s-7355ce3efd0e19bf7e5fcf6d
+33. 2018 m. lapkričio 28 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2018/1860](https://eur-lex.europa.eu/eli/reg/2018/1860/oj) dėl Šengeno informacinės sistemos naudojimo neteisėtai esančių trečiųjų šalių piliečių grąžinimui su paskutiniais pakeitimais, padarytais 2021 m. liepos 7 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2021/1152](https://eur-lex.europa.eu/eli/reg/2021/1152/oj). ^s-7355ce3efd0e19bf7e5fcf6d
 Papildyta punktu:
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 Punkto numeracijos pakeitimas:
@@ -8001,7 +8001,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-34. 2018 m. lapkričio 28 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1861 dėl Šengeno informacinės sistemos (SIS) sukūrimo, eksploatavimo ir naudojimo patikrinimams kertant sieną, kuriuo iš dalies keičiama Konvencija dėl Šengeno susitarimo įgyvendinimo ir iš dalies keičiamas bei panaikinamas Reglamentas (EB) Nr. 1987/2006, su paskutiniais pakeitimais, padarytais 2021 m. liepos 7 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/1152. ^s-13745201af4b47e3eb29dc17
+34. 2018 m. lapkričio 28 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2018/1861](https://eur-lex.europa.eu/eli/reg/2018/1861/oj) dėl Šengeno informacinės sistemos (SIS) sukūrimo, eksploatavimo ir naudojimo patikrinimams kertant sieną, kuriuo iš dalies keičiama Konvencija dėl Šengeno susitarimo įgyvendinimo ir iš dalies keičiamas bei panaikinamas [Reglamentas (EB) Nr. 1987/2006](https://eur-lex.europa.eu/eli/reg/1987/2006/oj), su paskutiniais pakeitimais, padarytais 2021 m. liepos 7 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2021/1152](https://eur-lex.europa.eu/eli/reg/2021/1152/oj). ^s-13745201af4b47e3eb29dc17
 Papildyta punktu:
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
 Punkto numeracijos pakeitimas:
@@ -8019,7 +8019,7 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-36. 2021 m. spalio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/1883 dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo siekiant dirbti aukštos kvalifikacijos darbą sąlygų, kuria panaikinama Tarybos direktyva 2009/50/EB. ^s-7328d44788447a5e6a76d010
+36. 2021 m. spalio 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2021/1883](https://eur-lex.europa.eu/eli/dir/2021/1883/oj) dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo siekiant dirbti aukštos kvalifikacijos darbą sąlygų, kuria panaikinama Tarybos direktyva 2009/50/EB. ^s-7328d44788447a5e6a76d010
 Papildyta punktu:
 Nr. XIV-1277, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15427
 Punkto numeracijos pakeitimas:
@@ -8028,19 +8028,19 @@ Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-37. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1233 dėl vienos prašymų išduoti vieną leidimą trečiųjų valstybių piliečiams gyventi ir dirbti valstybės narės teritorijoje teikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų valstybių darbuotojų bendrų teisių ^s-a5429c191c344422a6ca883c
+37. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1233](https://eur-lex.europa.eu/eli/dir/2024/1233/oj) dėl vienos prašymų išduoti vieną leidimą trečiųjų valstybių piliečiams gyventi ir dirbti valstybės narės teritorijoje teikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų valstybių darbuotojų bendrų teisių ^s-a5429c191c344422a6ca883c
 Papildyta punktu:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-38. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1712, kuria iš dalies keičiama Direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos ^s-1ad3790cdcf08074815cbb74
+38. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1712](https://eur-lex.europa.eu/eli/dir/2024/1712/oj), kuria iš dalies keičiama Direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos ^s-1ad3790cdcf08074815cbb74
 Papildyta punktu:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
 
 
-39. 2025 m. birželio 12 d. Tarybos reglamentas (ES) 2025/1208 dėl Sąjungos piliečių tapatybės kortelių ir Sąjungos piliečiams bei jų šeimos nariams, kurie naudojasi laisvo judėjimo teise, išduodamų teisę gyventi šalyje patvirtinančių dokumentų saugumo didinimo. ^s-b7fcdfdba0ef5139f8112d96
+39. 2025 m. birželio 12 d. Tarybos [reglamentas (ES) 2025/1208](https://eur-lex.europa.eu/eli/reg/2025/1208/oj) dėl Sąjungos piliečių tapatybės kortelių ir Sąjungos piliečiams bei jų šeimos nariams, kurie naudojasi laisvo judėjimo teise, išduodamų teisę gyventi šalyje patvirtinančių dokumentų saugumo didinimo. ^s-b7fcdfdba0ef5139f8112d96
 Papildyta punktu:
 Nr. XV-945, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08446
 
@@ -8056,13 +8056,13 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-924, 2006-11-28, Žin., 2006, Nr. 137-5199 (2006-12-16)
-ĮSTATYMO „DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES“ 2, 6, 7, 8, 11, 17, 18, 21, 25, 26, 28, 33, 34, 35, 40, 43, 46, 50, 51, 53, 54, 55, 56, 64, 79, 88, 90, 93, 97, 99, 100, 101, 102, 104, 106, 113, 115, 127, 130, 131, 132, 136, 138, [[#^s-899af516cc28c884b0294df2|140 STRAIPSNIŲ]] PAKEITIMO, ĮSTATYMO PAPILDYMO 49(1), 101(1), 140(1) STRAIPSNIAIS, 30, [[#^s-545f5dbc0e1523861767e883|105 STRAIPSNIŲ]] PRIPAŽINIMO NETEKUSIAIS GALIOS, X SKYRIAUS PAVADINIMO PAKEITIMO BEI ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ĮSTATYMO „DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES“ [[#^s-fbe60a6151b37cfd117ea146|2]], [[#^s-beafabfe0dd1ac264a3236d1|6]], [[#^s-5b1d98fe2b9e15d55bb19c33|7]], [[#^s-5607a2c2a881b9339c0b298e|8]], [[#^s-4d390e274064b535ca5497c3|11]], [[#^s-4ebc74b0f244a43ba68b7de4|17]], [[#^s-97a0ee197a2ef1513fc41e66|18]], [[#^s-2c57c44747506a848e2d333a|21]], [[#^s-f8e897dbd58d6a4fedf25e25|25]], [[#^s-354f603c4b1c63b53d05fd74|26]], [[#^s-17f1c3b44f26b0ab76c9be71|28]], [[#^s-d99dc1c6f9d8c2e1f44a1e6c|33]], [[#^s-eb3e20083610392d10eae27d|34]], [[#^s-ddea40c9799d6a9e3088444a|35]], [[#^s-f12850f8f83f92a81187f98f|40]], [[#^s-09575495c4e4304d736fc41a|43]], [[#^s-08b4ac9400ee881fad109eaa|46]], [[#^s-7c995fb05ac11ff967c7b014|50]], [[#^s-8341ef0bac88b542ee0e69a0|51]], [[#^s-6cd6b6aa5fd96b0fd727ea8e|53]], [[#^s-156fae18a2ac47fee4a9258a|54]], [[#^s-43477ffbcd230a6f0cba845e|55]], [[#^s-8eff4a37cae4d7481fb9cc3b|56]], [[#^s-1985941ee4874756737118b4|64]], [[#^s-87a3a802af7291df6c0fb55a|79]], [[#^s-f81de294c3fbc933b797cec4|88]], [[#^s-125f5401f6f0395b6577493e|90]], [[#^s-fdc217c1e07812d3dc3565b8|93]], [[#^s-1138db8aafa01a403ed29209|97]], [[#^s-f6ec29b558e18ecba13ad2ca|99]], [[#^s-8c6891ee3799b43b45209500|100]], [[#^s-40cf7d9e330f6a84d7139f0e|101]], [[#^s-9d4b8534757c664c163b40d5|102]], [[#^s-23828aaa9203e2b458c1fd99|104]], [[#^s-2457b95c06d1caff81db2e9b|106]], [[#^s-4c2d6f53c34f5685cb3b9bca|113]], [[#^s-5ca6d93bae5b158385c858be|115]], [[#^s-62df61cd3b1ef72ccccaccbf|127]], [[#^s-fb509ab16fff6dd33edbf248|130]], [[#^s-48ec382553c27f26b869ec9d|131]], [[#^s-f9b4ac81a97a54e9febae80f|132]], [[#^s-bc79168e1ea7c8bf95468b43|136]], [[#^s-512624445e9016beed36ac42|138]], [[#^s-899af516cc28c884b0294df2|140]] STRAIPSNIŲ PAKEITIMO, ĮSTATYMO PAPILDYMO 49(1), 101(1), 140(1) STRAIPSNIAIS, [[#^s-b5e065c79c975e7b1964789b|30]], [[#^s-545f5dbc0e1523861767e883|105]] STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS, X SKYRIAUS PAVADINIMO PAKEITIMO BEI ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1442, 2008-02-01, Žin., 2008, Nr. 22-803 (2008-02-22)
-ĮSTATYMO „DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES“ 2, 5, 8, 26, 32, 35, 40, 43, 46, 50, 53, 71, 72, 90, 99, 104, 113, 124, 125, 126, 127, 131, 133, [[#^s-b079dd0e7841135d963bccf3|134 STRAIPSNIŲ]], III SKYRIAUS PIRMOJO SKIRSNIO IR PRIEDO PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 49(2) STRAIPSNIU IR [[#^s-5b1d98fe2b9e15d55bb19c33|7 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
-Šio įstatymo [[#^s-27eccfc9082d7568b36f466e|1 straipsnio]] 4–[[#^s-6861429a5288fd6e6e997e93|7 dalys]], 2–6 ir 21–[[#^s-6e0df0ab69bca2c2979557a4|27 straipsniai]] įsigalioja nuo visiško 1990 m. birželio 19 d. Konvencijos dėl 1985 m. birželio 14 d. Šengeno susitarimo, sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo įsigaliojimo Lietuvos Respublikai dienos.
+ĮSTATYMO „DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES“ [[#^s-fbe60a6151b37cfd117ea146|2]], [[#^s-fd856745c22cdbb05942b837|5]], [[#^s-5607a2c2a881b9339c0b298e|8]], [[#^s-354f603c4b1c63b53d05fd74|26]], [[#^s-1ce1e99f973b0ee71082dea9|32]], [[#^s-ddea40c9799d6a9e3088444a|35]], [[#^s-f12850f8f83f92a81187f98f|40]], [[#^s-09575495c4e4304d736fc41a|43]], [[#^s-08b4ac9400ee881fad109eaa|46]], [[#^s-7c995fb05ac11ff967c7b014|50]], [[#^s-6cd6b6aa5fd96b0fd727ea8e|53]], [[#^s-9340dd3011bf88a9fd46baac|71]], [[#^s-203533adf4e51ae21f81edbc|72]], [[#^s-125f5401f6f0395b6577493e|90]], [[#^s-f6ec29b558e18ecba13ad2ca|99]], [[#^s-23828aaa9203e2b458c1fd99|104]], [[#^s-4c2d6f53c34f5685cb3b9bca|113]], [[#^s-d398ab074c397b104df03185|124]], [[#^s-77d368cc6a07935b83575555|125]], [[#^s-d3d4ed63d213f2e0290241ea|126]], [[#^s-62df61cd3b1ef72ccccaccbf|127]], [[#^s-48ec382553c27f26b869ec9d|131]], [[#^s-ccf431aeb38bc13c49c3819d|133]], [[#^s-b079dd0e7841135d963bccf3|134]] STRAIPSNIŲ, III SKYRIAUS PIRMOJO SKIRSNIO IR PRIEDO PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 49(2) STRAIPSNIU IR [[#^s-5b1d98fe2b9e15d55bb19c33|7 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+Šio įstatymo [[#^s-27eccfc9082d7568b36f466e|1 straipsnio]] [[#^s-a61b6b76f79e81c5cf4de2d9|4]]–[[#^s-92115b03531f4cde6b7f6913|7]] dalys, [[#^s-fbe60a6151b37cfd117ea146|2]]–[[#^s-beafabfe0dd1ac264a3236d1|6]] ir [[#^s-2c57c44747506a848e2d333a|21]]–[[#^s-6e0df0ab69bca2c2979557a4|27]] straipsniai įsigalioja nuo visiško 1990 m. birželio 19 d. Konvencijos dėl 1985 m. birželio 14 d. Šengeno susitarimo, sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo įsigaliojimo Lietuvos Respublikai dienos.
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -8072,7 +8072,7 @@ Nr. XI-392, 2009-07-22, Žin., 2009, Nr. 93-3984 (2009-08-04)
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1786, 2011-12-08, Žin., 2011, Nr. 156-7384 (2011-12-22)
-ĮSTATYMO "DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES" 2, 19, 77, 113, 114, 125, 126, 127, 128, 129, 132, 133, [[#^s-5205ab02eaf6276bfb7e55cc|139 STRAIPSNIŲ]] IR ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ĮSTATYMO "DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES" [[#^s-fbe60a6151b37cfd117ea146|2]], [[#^s-aed5c71965368d7fa9c081a2|19]], [[#^s-ab875bcfe950cbea9ba7eca7|77]], [[#^s-4c2d6f53c34f5685cb3b9bca|113]], [[#^s-0e75c1a719f3130e66b26d28|114]], [[#^s-77d368cc6a07935b83575555|125]], [[#^s-d3d4ed63d213f2e0290241ea|126]], [[#^s-62df61cd3b1ef72ccccaccbf|127]], [[#^s-e9f68011049430b13b1f15a1|128]], [[#^s-0ffb7a0234134c33345be9c0|129]], [[#^s-f9b4ac81a97a54e9febae80f|132]], [[#^s-ccf431aeb38bc13c49c3819d|133]], [[#^s-5205ab02eaf6276bfb7e55cc|139]] STRAIPSNIŲ IR ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-1c4cf4d15a96f4969937e1c3|šio straipsnio 3 dalį]], įsigalioja 2012 m. vasario 1 d.
 Procedūros dėl neteisėtai į Lietuvos Respubliką atvykusių ar neteisėtai joje esančių užsieniečių, pradėtos iki šio įstatymo įsigaliojimo, užbaigiamos pagal iki šio įstatymo įsigaliojimo galiojusią tvarką.
 
@@ -8084,7 +8084,7 @@ Nr. XI-2190, 2012-06-30, Žin., 2012, Nr. 80-4146 (2012-07-10)
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2189, 2012-06-30, Žin., 2012, Nr. 85-4450 (2012-07-19)
-ĮSTATYMO "DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES" 1, 2, 6, 9, 10, 11, 12(1), 17, 19, 21, 22, 24, 26, 33, 37, 38, 40, 43, 49(1), 50, 53, 54, 55, 57, 58, 89, 97, 98, 99, 100, 101, 102, 104, 106, 113, 128, 131, 133, 139, 140(1), 141(1) STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 44(1), 49(3), 98(1), 99(1), 103(1), 105, 105(1), 105(2), 105(3), 105(4), 106(1) STRAIPSNIAIS IR 12(2), 13, 14, 15, 16, 18, 20, [[#^s-2587912fd929f2dc91fb9511|145 STRAIPSNIŲ]] PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+ĮSTATYMO "DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES" 1, 2, 6, 9, 10, 11, 12(1), 17, 19, 21, 22, 24, 26, 33, 37, 38, 40, 43, 49(1), 50, 53, 54, 55, 57, 58, 89, 97, 98, 99, 100, 101, 102, 104, 106, 113, 128, 131, 133, 139, 140(1), 141(1) STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 44(1), 49(3), 98(1), 99(1), 103(1), 105, 105(1), 105(2), 105(3), 105(4), 106(1) STRAIPSNIAIS IR 12(2), [[#^s-4ee8c06b1013b3c0e9c45b16|13]], [[#^s-b99ba42e9a22f431ac696601|14]], [[#^s-f933a885a4e49413e36cf9d7|15]], [[#^s-652b9e71e7a33f47091cd272|16]], [[#^s-97a0ee197a2ef1513fc41e66|18]], [[#^s-6220793bdb6614abd7bd4bb8|20]], [[#^s-2587912fd929f2dc91fb9511|145]] STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-f4aeb946ab49fd1383f5c1bc|šio straipsnio 4 dalį]], įsigalioja 2013 m. sausio 1 d.
 Prašymai, pateikti iki šio įstatymo įsigaliojimo dienos, baigiami nagrinėti pagal iki šio įstatymo įsigaliojimo dienos galiojusią tvarką.
 Europos Sąjungos valstybės narės piliečio šeimos nario leidimai gyventi Lietuvos Respublikoje, išduoti iki šio įstatymo įsigaliojimo, galioja leidimuose nurodytą laiką.
@@ -8092,21 +8092,21 @@ Europos Sąjungos valstybės narės piliečio šeimos nario leidimai gyventi Lie
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-436, 2013-06-27, Žin., 2013, Nr. 76-3844 (2013-07-16)
-ĮSTATYMO "DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES" 2, 53, [[#^s-40cf7d9e330f6a84d7139f0e|101 STRAIPSNIŲ]] IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ĮSTATYMO "DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES" [[#^s-fbe60a6151b37cfd117ea146|2]], [[#^s-6cd6b6aa5fd96b0fd727ea8e|53]], [[#^s-40cf7d9e330f6a84d7139f0e|101]] STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-548, 2013-10-10, Žin., 2013, Nr. 111-5488 (2013-10-24)
-ĮSTATYMO "DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES" 26, 33, 40, 41, 53, 104, 109, 113, [[#^s-77d368cc6a07935b83575555|125 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-Šis įstatymas, išskyrus 3, 4, 5, 6, 8, [[#^s-5f721b5c7f4db23a9279dab0|9 straipsnius]] ir šio straipsnio 2 dalį, įsigalioja 2014 m. sausio 1 d.
+ĮSTATYMO "DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES" [[#^s-354f603c4b1c63b53d05fd74|26]], [[#^s-d99dc1c6f9d8c2e1f44a1e6c|33]], [[#^s-f12850f8f83f92a81187f98f|40]], 41, [[#^s-6cd6b6aa5fd96b0fd727ea8e|53]], [[#^s-23828aaa9203e2b458c1fd99|104]], [[#^s-ab4e0a1fc026b450ceda85e4|109]], [[#^s-4c2d6f53c34f5685cb3b9bca|113]], [[#^s-77d368cc6a07935b83575555|125]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis įstatymas, išskyrus [[#^s-f30149cd155290b85d4caf25|3]], [[#^s-d428816ba1ce90264116ef4e|4]], [[#^s-fd856745c22cdbb05942b837|5]], [[#^s-beafabfe0dd1ac264a3236d1|6]], [[#^s-5607a2c2a881b9339c0b298e|8]], [[#^s-5f721b5c7f4db23a9279dab0|9]] straipsnius ir šio straipsnio 2 dalį, įsigalioja 2014 m. sausio 1 d.
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-965, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-09973
-LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES“ NR. IX-2206 2, 4, 19, 21, 26, 32, 33, 34, 35, 36, 40, 43, 44, 44-1, 45, 46, 49-2, 50, 51, 57, 58, 62, 64, 71, 94, 101, 104, 128, [[#^s-f7a464ef016227d93ad4bcb9|141 STRAIPSNIŲ]] PAKEITIMO IR 141-1 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL UŽSIENIEČIŲ TEISINĖS PADĖTIES“ NR. IX-2206 [[#^s-fbe60a6151b37cfd117ea146|2]], [[#^s-d428816ba1ce90264116ef4e|4]], [[#^s-aed5c71965368d7fa9c081a2|19]], [[#^s-2c57c44747506a848e2d333a|21]], [[#^s-354f603c4b1c63b53d05fd74|26]], [[#^s-1ce1e99f973b0ee71082dea9|32]], [[#^s-d99dc1c6f9d8c2e1f44a1e6c|33]], [[#^s-eb3e20083610392d10eae27d|34]], [[#^s-ddea40c9799d6a9e3088444a|35]], [[#^s-c5c2624fdd175ffbc285f7fb|36]], [[#^s-f12850f8f83f92a81187f98f|40]], [[#^s-09575495c4e4304d736fc41a|43]], [[#^s-7a0a61352e525cdcb3fee664|44]], 44-1, [[#^s-9d0c6bd26d9c8113b9ecd97b|45]], [[#^s-08b4ac9400ee881fad109eaa|46]], 49-2, [[#^s-7c995fb05ac11ff967c7b014|50]], [[#^s-8341ef0bac88b542ee0e69a0|51]], [[#^s-6cb1a0f9000f6e506cded914|57]], [[#^s-7e5355aed89473d1f873f28a|58]], [[#^s-e3c32dd2faf30709a8bb1807|62]], [[#^s-1985941ee4874756737118b4|64]], [[#^s-9340dd3011bf88a9fd46baac|71]], [[#^s-62a5c07538999fa0794a5c1a|94]], [[#^s-40cf7d9e330f6a84d7139f0e|101]], [[#^s-23828aaa9203e2b458c1fd99|104]], [[#^s-e9f68011049430b13b1f15a1|128]], [[#^s-f7a464ef016227d93ad4bcb9|141]] STRAIPSNIŲ PAKEITIMO IR 141-1 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-c3e711eb5fcc556a83d23bad|šio straipsnio 5 dalį]], įsigalioja 2014 m. lapkričio 1 d.
 Užsieniečių prašymai išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje, pateikti iki šio įstatymo įsigaliojimo, baigiami nagrinėti ir sprendimai išduoti ar pakeisti leidimą laikinai gyventi Lietuvos Respublikoje priimamai vadovaujantis iki šio įstatymo įsigaliojimo dienos galiojusio Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ ir kitų teisės aktų nuostatomis, išskyrus [[#^s-1c4cf4d15a96f4969937e1c3|šio straipsnio 3 dalyje]] nustatytą atvejį. Šiems užsieniečiams leidimai laikinai gyventi Lietuvos Respublikoje išduodami ar keičiami tokiam terminui, kuris buvo nustatytas iki šio įstatymo įsigaliojimo, o, pasibaigus jų galiojimui, – keičiami pagal jų keitimo metu galiojančių teisės aktų reikalavimus.
-Jeigu užsieniečiui leidimas laikinai gyventi Lietuvos Respublikoje buvo išduotas iki šio įstatymo įsigaliojimo galiojusio Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ [[#^s-cbe3c5f9b970ac2b2e4d11e9|45 straipsnio 1 dalies]] 1 ir 2 punktuose nustatytais pagrindais, šio užsieniečio prašymas pakeisti leidimą laikinai gyventi Lietuvos Respublikoje, pateiktas iki 2015 m. gegužės 1 d., nagrinėjamas ir sprendimas pakeisti leidimą laikinai gyventi Lietuvos Respublikoje priimamas vadovaujantis iki šio įstatymo įsigaliojimo dienos galiojusio Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ ir kitų teisės aktų nuostatomis. Šiam užsieniečiui leidimas laikinai gyventi Lietuvos Respublikoje keičiamas tokiam terminui, kuris buvo nustatytas iki šio įstatymo įsigaliojimo, o, pasibaigus jo galiojimui, – keičiamas pagal jo keitimo metu galiojančių teisės aktų reikalavimus.
+Jeigu užsieniečiui leidimas laikinai gyventi Lietuvos Respublikoje buvo išduotas iki šio įstatymo įsigaliojimo galiojusio Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ [[#^s-cbe3c5f9b970ac2b2e4d11e9|45 straipsnio 1 dalies]] [[#^s-e385cc35334e8e3fa5487a57|1]] ir [[#^s-d8767b5ab342906e4bfff716|2]] punktuose nustatytais pagrindais, šio užsieniečio prašymas pakeisti leidimą laikinai gyventi Lietuvos Respublikoje, pateiktas iki 2015 m. gegužės 1 d., nagrinėjamas ir sprendimas pakeisti leidimą laikinai gyventi Lietuvos Respublikoje priimamas vadovaujantis iki šio įstatymo įsigaliojimo dienos galiojusio Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ ir kitų teisės aktų nuostatomis. Šiam užsieniečiui leidimas laikinai gyventi Lietuvos Respublikoje keičiamas tokiam terminui, kuris buvo nustatytas iki šio įstatymo įsigaliojimo, o, pasibaigus jo galiojimui, – keičiamas pagal jo keitimo metu galiojančių teisės aktų reikalavimus.
 Pagal prašymus, pateiktus iki šio įstatymo įsigaliojimo, Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos sprendimus dėl užsieniečio darbo atitikties Lietuvos Respublikos darbo rinkos poreikiams priima pagal iki šio įstatymo įsigaliojimo dienos galiojusių teisės aktų reikalavimus.
 
 
@@ -8131,7 +8131,7 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1894, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11180
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 4, 24, 26, 35, 55, 90, 93, 106, 127, 140, 140-1 straipsnių, X skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 34-1 straipsniu įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-d428816ba1ce90264116ef4e|4]], [[#^s-f2bddc4a69cb1b4568b79f3b|24]], [[#^s-354f603c4b1c63b53d05fd74|26]], [[#^s-ddea40c9799d6a9e3088444a|35]], [[#^s-43477ffbcd230a6f0cba845e|55]], [[#^s-125f5401f6f0395b6577493e|90]], [[#^s-fdc217c1e07812d3dc3565b8|93]], [[#^s-2457b95c06d1caff81db2e9b|106]], [[#^s-62df61cd3b1ef72ccccaccbf|127]], [[#^s-899af516cc28c884b0294df2|140]], 140-1 straipsnių, X skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 34-1 straipsniu įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -8146,7 +8146,7 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-219, 2017-03-14, paskelbta TAR 2017-03-20, i. k. 2017-04613
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 12-1, 19, 44, 57, 61, 62, [[#^s-ac685e533708d673c6f3a829|63 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 62-1 straipsniu įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-fbe60a6151b37cfd117ea146|2]], 12-1, [[#^s-aed5c71965368d7fa9c081a2|19]], [[#^s-7a0a61352e525cdcb3fee664|44]], [[#^s-6cb1a0f9000f6e506cded914|57]], 61, [[#^s-e3c32dd2faf30709a8bb1807|62]], [[#^s-ac685e533708d673c6f3a829|63]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 62-1 straipsniu įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -8161,7 +8161,7 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-943, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21629
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 44, 44-1, 45, 57, 58, 60, 62, 62-1, 101, 105 ir [[#^s-2457b95c06d1caff81db2e9b|106 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-7a0a61352e525cdcb3fee664|44]], 44-1, [[#^s-9d0c6bd26d9c8113b9ecd97b|45]], [[#^s-6cb1a0f9000f6e506cded914|57]], [[#^s-7e5355aed89473d1f873f28a|58]], [[#^s-fe2fa0af90523391da5d7cc9|60]], [[#^s-e3c32dd2faf30709a8bb1807|62]], 62-1, [[#^s-40cf7d9e330f6a84d7139f0e|101]], [[#^s-545f5dbc0e1523861767e883|105]] ir [[#^s-2457b95c06d1caff81db2e9b|106]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -8181,7 +8181,7 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1921, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00854
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2 ir [[#^s-6cd6b6aa5fd96b0fd727ea8e|53 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-fbe60a6151b37cfd117ea146|2]] ir [[#^s-6cd6b6aa5fd96b0fd727ea8e|53]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -8196,7 +8196,7 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2582, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20018
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 58, 64, 71 ir [[#^s-f81de294c3fbc933b797cec4|88 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-fbe60a6151b37cfd117ea146|2]], [[#^s-7e5355aed89473d1f873f28a|58]], [[#^s-1985941ee4874756737118b4|64]], [[#^s-9340dd3011bf88a9fd46baac|71]] ir [[#^s-f81de294c3fbc933b797cec4|88]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -8206,7 +8206,7 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2348, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12439
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 1, 2, [[#^s-3c9f492361a6997e5248a424|142 straipsnių]] pakeitimo ir Įstatymo papildymo X-1 skyriumi įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-27eccfc9082d7568b36f466e|1]], [[#^s-fbe60a6151b37cfd117ea146|2]], [[#^s-3c9f492361a6997e5248a424|142]] straipsnių pakeitimo ir Įstatymo papildymo X-1 skyriumi įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -8231,7 +8231,7 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-506, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16266
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 5, 71, 76, 77, 79, 113, 131, 136, 138, 139, [[#^s-899af516cc28c884b0294df2|140 straipsnių]] pakeitimo ir Įstatymo papildymo IX-1  skyriumi įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-fd856745c22cdbb05942b837|5]], [[#^s-9340dd3011bf88a9fd46baac|71]], [[#^s-f74e01287d98b83fc8ed754f|76]], [[#^s-ab875bcfe950cbea9ba7eca7|77]], [[#^s-87a3a802af7291df6c0fb55a|79]], [[#^s-4c2d6f53c34f5685cb3b9bca|113]], [[#^s-48ec382553c27f26b869ec9d|131]], [[#^s-bc79168e1ea7c8bf95468b43|136]], [[#^s-512624445e9016beed36ac42|138]], [[#^s-5205ab02eaf6276bfb7e55cc|139]], [[#^s-899af516cc28c884b0294df2|140]] straipsnių pakeitimo ir Įstatymo papildymo IX-1  skyriumi įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -8241,17 +8241,17 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-816, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27706
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 3, 5, 26, 32, 40, 50, 67, 71, 76, 77, 79, 113, 125, 126, 130-1, 136, 138, 139, [[#^s-899af516cc28c884b0294df2|140 straipsnių]] pakeitimo, [[#^s-254d788c45770ac6e2485a07|69 straipsnio]] ir IX-1 skyriaus pripažinimo netekusiais galios ir Įstatymo papildymo X-2 skyriumi įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-fbe60a6151b37cfd117ea146|2]], [[#^s-f30149cd155290b85d4caf25|3]], [[#^s-fd856745c22cdbb05942b837|5]], [[#^s-354f603c4b1c63b53d05fd74|26]], [[#^s-1ce1e99f973b0ee71082dea9|32]], [[#^s-f12850f8f83f92a81187f98f|40]], [[#^s-7c995fb05ac11ff967c7b014|50]], [[#^s-21a0af503705478ea9bb1d77|67]], [[#^s-9340dd3011bf88a9fd46baac|71]], [[#^s-f74e01287d98b83fc8ed754f|76]], [[#^s-ab875bcfe950cbea9ba7eca7|77]], [[#^s-87a3a802af7291df6c0fb55a|79]], [[#^s-4c2d6f53c34f5685cb3b9bca|113]], [[#^s-77d368cc6a07935b83575555|125]], [[#^s-d3d4ed63d213f2e0290241ea|126]], 130-1, [[#^s-bc79168e1ea7c8bf95468b43|136]], [[#^s-512624445e9016beed36ac42|138]], [[#^s-5205ab02eaf6276bfb7e55cc|139]], [[#^s-899af516cc28c884b0294df2|140]] straipsnių pakeitimo, [[#^s-254d788c45770ac6e2485a07|69 straipsnio]] ir IX-1 skyriaus pripažinimo netekusiais galios ir Įstatymo papildymo X-2 skyriumi įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-893, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00750
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 11, 19, 23, 26, 35, 53, 62, 98-1, 124, 125, 133, 140-3 straipsnių, III skyriaus pirmojo skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-fbe60a6151b37cfd117ea146|2]], [[#^s-4d390e274064b535ca5497c3|11]], [[#^s-aed5c71965368d7fa9c081a2|19]], [[#^s-701c6d429f2357cf48b63795|23]], [[#^s-354f603c4b1c63b53d05fd74|26]], [[#^s-ddea40c9799d6a9e3088444a|35]], [[#^s-6cd6b6aa5fd96b0fd727ea8e|53]], [[#^s-e3c32dd2faf30709a8bb1807|62]], 98-1, [[#^s-d398ab074c397b104df03185|124]], [[#^s-77d368cc6a07935b83575555|125]], [[#^s-ccf431aeb38bc13c49c3819d|133]], 140-3 straipsnių, III skyriaus pirmojo skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-946, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05124
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 32, 64, 68 ir [[#^s-8816722fc5d5568051bc44be|108 straipsnių]] pakeitimo ir Įstatymo X-2 skyriaus papildymo ketvirtuoju skirsniu įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-1ce1e99f973b0ee71082dea9|32]], [[#^s-1985941ee4874756737118b4|64]], [[#^s-7a46499a7a2a59fed7cdabed|68]] ir [[#^s-8816722fc5d5568051bc44be|108]] straipsnių pakeitimo ir Įstatymo X-2 skyriaus papildymo ketvirtuoju skirsniu įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -8271,7 +8271,7 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1889, 2023-04-20, paskelbta TAR 2023-04-26, i. k. 2023-08041
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 4, 67, 140-8, 140-12 straipsnių pakeitimo ir 140-11, 140-17 straipsnių pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-d428816ba1ce90264116ef4e|4]], [[#^s-21a0af503705478ea9bb1d77|67]], 140-8, 140-12 straipsnių pakeitimo ir 140-11, 140-17 straipsnių pripažinimo netekusiais galios įstatymas
 
 33.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
@@ -8286,17 +8286,17 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 35.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2427, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25931
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 5, 79, 113, 115, 125, 126, 130-1, 140-8, 140-10, 140-13, 140-14 ir 140-19 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-fd856745c22cdbb05942b837|5]], [[#^s-87a3a802af7291df6c0fb55a|79]], [[#^s-4c2d6f53c34f5685cb3b9bca|113]], [[#^s-5ca6d93bae5b158385c858be|115]], [[#^s-77d368cc6a07935b83575555|125]], [[#^s-d3d4ed63d213f2e0290241ea|126]], 130-1, 140-8, 140-10, 140-13, 140-14 ir 140-19 straipsnių pakeitimo įstatymas
 
 36.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2673, 2024-05-30, paskelbta TAR 2024-06-07, i. k. 2024-10549
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 2, 3, 4, 5, 11, 21, 22-1, 26, 28, 32, 44, 58, 62, 67, 71, 79, 85, 94, 99, 100, 101, 102, 103-1, 104, 105-2, 105-3, 105-4, 106-1, 108, 113, 114, 115, 115-1, 118, 123, 125, 127, 140-2, 140-8, 140-9, 140-13, 140-18, 140-21, 140-28 straipsnių ir priedo pakeitimo, 140-16, 140-19 straipsnių pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-fbe60a6151b37cfd117ea146|2]], [[#^s-f30149cd155290b85d4caf25|3]], [[#^s-d428816ba1ce90264116ef4e|4]], [[#^s-fd856745c22cdbb05942b837|5]], [[#^s-4d390e274064b535ca5497c3|11]], [[#^s-2c57c44747506a848e2d333a|21]], 22-1, [[#^s-354f603c4b1c63b53d05fd74|26]], [[#^s-17f1c3b44f26b0ab76c9be71|28]], [[#^s-1ce1e99f973b0ee71082dea9|32]], [[#^s-7a0a61352e525cdcb3fee664|44]], [[#^s-7e5355aed89473d1f873f28a|58]], [[#^s-e3c32dd2faf30709a8bb1807|62]], [[#^s-21a0af503705478ea9bb1d77|67]], [[#^s-9340dd3011bf88a9fd46baac|71]], [[#^s-87a3a802af7291df6c0fb55a|79]], [[#^s-b799867942a1041ffc0d730a|85]], [[#^s-62a5c07538999fa0794a5c1a|94]], [[#^s-f6ec29b558e18ecba13ad2ca|99]], [[#^s-8c6891ee3799b43b45209500|100]], [[#^s-40cf7d9e330f6a84d7139f0e|101]], [[#^s-9d4b8534757c664c163b40d5|102]], 103-1, [[#^s-23828aaa9203e2b458c1fd99|104]], 105-2, 105-3, 105-4, 106-1, [[#^s-8816722fc5d5568051bc44be|108]], [[#^s-4c2d6f53c34f5685cb3b9bca|113]], [[#^s-0e75c1a719f3130e66b26d28|114]], [[#^s-5ca6d93bae5b158385c858be|115]], 115-1, [[#^s-1a24138c63af0465a810ff57|118]], [[#^s-c539d18aa0296b1837859c03|123]], [[#^s-77d368cc6a07935b83575555|125]], [[#^s-62df61cd3b1ef72ccccaccbf|127]], 140-2, 140-8, 140-9, 140-13, 140-18, 140-21, 140-28 straipsnių ir priedo pakeitimo, 140-16, 140-19 straipsnių pripažinimo netekusiais galios įstatymas
 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2784, 2024-06-20, paskelbta TAR 2024-06-27, i. k. 2024-11777
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 5, 21-1, 26, 28, 33, 35, 36, 40, 44, 44-1, 49-5, 50, 53, 57, 57-1, 58, 59, 61, 62, 62-1, 63, 94, 95, 100, 103, 105-2, 128, 133, 137, 138, 139, 140-1, 140-5, 140-25, 140-26, 140-27 straipsnių pakeitimo ir 61-1 straipsnio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-fd856745c22cdbb05942b837|5]], 21-1, [[#^s-354f603c4b1c63b53d05fd74|26]], [[#^s-17f1c3b44f26b0ab76c9be71|28]], [[#^s-d99dc1c6f9d8c2e1f44a1e6c|33]], [[#^s-ddea40c9799d6a9e3088444a|35]], [[#^s-c5c2624fdd175ffbc285f7fb|36]], [[#^s-f12850f8f83f92a81187f98f|40]], [[#^s-7a0a61352e525cdcb3fee664|44]], 44-1, 49-5, [[#^s-7c995fb05ac11ff967c7b014|50]], [[#^s-6cd6b6aa5fd96b0fd727ea8e|53]], [[#^s-6cb1a0f9000f6e506cded914|57]], 57-1, [[#^s-7e5355aed89473d1f873f28a|58]], [[#^s-819ee6b42e787c8e1d5b0df4|59]], 61, [[#^s-e3c32dd2faf30709a8bb1807|62]], 62-1, [[#^s-ac685e533708d673c6f3a829|63]], [[#^s-62a5c07538999fa0794a5c1a|94]], [[#^s-5f6ce3cdb668e693c27536ed|95]], [[#^s-8c6891ee3799b43b45209500|100]], [[#^s-de1585a6f67e4555c66a0b5f|103]], 105-2, [[#^s-e9f68011049430b13b1f15a1|128]], [[#^s-ccf431aeb38bc13c49c3819d|133]], [[#^s-3d72458554ee8abe2e3a8c69|137]], [[#^s-512624445e9016beed36ac42|138]], [[#^s-5205ab02eaf6276bfb7e55cc|139]], 140-1, 140-5, 140-25, 140-26, 140-27 straipsnių pakeitimo ir 61-1 straipsnio pripažinimo netekusiu galios įstatymas
 
 38.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -8306,12 +8306,12 @@ Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr.
 39.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3065, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19823
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 62, 63 ir [[#^s-62a5c07538999fa0794a5c1a|94 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-e3c32dd2faf30709a8bb1807|62]], [[#^s-ac685e533708d673c6f3a829|63]] ir [[#^s-62a5c07538999fa0794a5c1a|94]] straipsnių pakeitimo įstatymas
 
 40.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3159, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20394
-Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 1 ir [[#^s-7a0a61352e525cdcb3fee664|44 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 [[#^s-27eccfc9082d7568b36f466e|1]] ir [[#^s-7a0a61352e525cdcb3fee664|44]] straipsnių pakeitimo įstatymas
 
 41.
 Lietuvos Respublikos Seimas, Įstatymas

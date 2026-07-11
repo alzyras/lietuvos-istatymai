@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-c7eec2f248d2dbb76302cfae
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. rugsėjo 8 d. dekretą Nr. 1K-1495, ratifikuoja 2000 m. birželio 1 d. Ženevoje priimtą Patentų teisės sutartį.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. rugsėjo 8 d. dekretą Nr. 1K-1495](https://e-tar.lt/portal/lt/legalAct/TAR.14D2B0C5A339), ratifikuoja 2000 m. birželio 1 d. Ženevoje priimtą Patentų teisės sutartį.
 
 
 

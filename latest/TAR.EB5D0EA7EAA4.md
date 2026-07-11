@@ -76,13 +76,13 @@ Vilnius
 2. 34 straipsnio 3 dalyje po žodžio „Įstatymo“ įrašyti skaičius ir žodžius „17 straipsnio 1 dalies 1 ir 12 punktuose, 2 dalies 1 ir 10 punktuose“ ir šią dalį išdėstyti taip: ^s-cdb95f894b76b99f5e4dd070
 
 
-„3. Už šio Įstatymo 17 straipsnio 1 dalies 1 ir 12 punktuose, [[#^s-cdb95f894b76b99f5e4dd070|2 dalies]] 1 ir 10 punktuose, 18 straipsnio 1, [[#^s-cc6ca4642552ef2bdc88f34f|3 dalyse]] ir [[#^s-8570769d15102d5b6bd24f7d|4 dalies]] 1, 2 punktuose nustatytų reikalavimų nesilaikymą įmonės baudžiamos nuo penkių šimtų litų iki dviejų tūkstančių litų bauda, o už šių reikalavimų pažeidimą, padarytą pakartotinai per penkerius metus nuo baudos paskyrimo, – nuo dviejų tūkstančių litų iki penkių tūkstančių litų bauda.“
+„3. Už šio Įstatymo 17 straipsnio 1 dalies 1 ir 12 punktuose, 2 dalies 1 ir 10 punktuose, 18 straipsnio 1, 3 dalyse ir [[#^s-8570769d15102d5b6bd24f7d|4 dalies]] 1, 2 punktuose nustatytų reikalavimų nesilaikymą įmonės baudžiamos nuo penkių šimtų litų iki dviejų tūkstančių litų bauda, o už šių reikalavimų pažeidimą, padarytą pakartotinai per penkerius metus nuo baudos paskyrimo, – nuo dviejų tūkstančių litų iki penkių tūkstančių litų bauda.“
 
 
 3. Pakeisti 34 straipsnio 11 dalį ir ją išdėstyti taip: ^s-cc6ca4642552ef2bdc88f34f
 
 
-„11. Baudas už šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7–12 punktuose, [[#^s-cdb95f894b76b99f5e4dd070|2 dalies]] 2, 3, 6–10 punktuose, 5–11 dalyse, 18 straipsnio 1, 3 ir [[#^s-8570769d15102d5b6bd24f7d|4 dalyse]] nustatytų reikalavimų nesilaikymą skiria Tarnyba ir policija. Policijos vardu skirti baudas turi teisę policijos įstaigų vadovai ar jų įgalioti asmenys.“
+„11. Baudas už šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7–12 punktuose, [[#^s-cdb95f894b76b99f5e4dd070|2 dalies]] 2, 3, 6–10 punktuose, 5–11 dalyse, 18 straipsnio 1, 3 ir 4 dalyse nustatytų reikalavimų nesilaikymą skiria Tarnyba ir policija. Policijos vardu skirti baudas turi teisę policijos įstaigų vadovai ar jų įgalioti asmenys.“
 
 
 

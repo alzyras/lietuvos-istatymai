@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 14 straipsnio 1 ir 2 dalių pakeitimas ^s-6771a51676fd344803f362cd
 
 
-14 straipsnio 1 ir [[#^s-da7168bff6ee20e213303c75|2 dalis]] pakeisti ir išdėstyti taip:
+14 straipsnio 1 ir 2 dalis pakeisti ir išdėstyti taip:
 
 
 „1. Viešas akcijų pardavimas – valstybei ar savivaldybei nuosavybės teise priklausančių akcijų pardavimo būdas, kai akcijos parduodamos viešai jas platinant vidaus ir (ar) užsienio valstybių vertybinių popierių rinkose, o akcijų pardavimo kaina nustatoma įvertinus paklausos ir pasiūlos santykį.

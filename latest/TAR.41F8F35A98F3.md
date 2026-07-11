@@ -187,7 +187,7 @@ Pakeisti 4.175 straipsnį ir jį išdėstyti taip:
 3) kitais šio kodekso numatytais atvejais. ^s-11dfb8b8d83b9a67e667eeea
 
 
-4. Valstybinio socialinio draudimo fondo administravimo įstaigų ir mokesčių administratorių nustatomos priverstinės hipotekos nustatymo tvarką nustato šių subjektų veiklą reglamentuojantys teisės aktai. Teismo sprendimu nustatomos priverstinės hipotekos nustatymo tvarką reglamentuoja Civilinio proceso kodeksas. Dėl įstatymų pagrindu atsiradusios priverstinės hipotekos nustatymo suinteresuoti asmenys kreipiasi į notarą. Priverstinė hipoteka gali būti nustatoma jau įkeistam nekilnojamajam daiktui. ^s-5053c2de0eee01e99521a901
+4. Valstybinio socialinio draudimo fondo administravimo įstaigų ir mokesčių administratorių nustatomos priverstinės hipotekos nustatymo tvarką nustato šių subjektų veiklą reglamentuojantys teisės aktai. Teismo sprendimu nustatomos priverstinės hipotekos nustatymo tvarką reglamentuoja [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). Dėl įstatymų pagrindu atsiradusios priverstinės hipotekos nustatymo suinteresuoti asmenys kreipiasi į notarą. Priverstinė hipoteka gali būti nustatoma jau įkeistam nekilnojamajam daiktui. ^s-5053c2de0eee01e99521a901
 
 
 5. Sutartinės hipotekos rūšys: ^s-823720d0940da9b6a0c752fa
@@ -268,7 +268,7 @@ Pakeisti 4.178 straipsnį ir jį išdėstyti taip:
 „4.178 straipsnis. Hipotekos nustatymas pagal teismo sprendimą patenkintiems reikalavimams užtikrinti
 
 
-Pagal teismo sprendimą patenkinus reikalavimą dėl pinigų išieškojimo, kreditoriaus prašymu šio kodekso nustatytais atvejais ir Civilinio proceso kodekso numatyta tvarka gali būti nustatyta priverstinė skolininko daikto hipoteka.“
+Pagal teismo sprendimą patenkinus reikalavimą dėl pinigų išieškojimo, kreditoriaus prašymu šio kodekso nustatytais atvejais ir [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) numatyta tvarka gali būti nustatyta priverstinė skolininko daikto hipoteka.“
 
 
 
@@ -532,7 +532,7 @@ Pakeisti 4.192 straipsnį ir jį išdėstyti taip:
 4. Notaras, patikrinęs, ar hipotekos kreditoriaus prašyme nurodyti duomenys atitinka Hipotekos registro duomenis, prieš atlikdamas vykdomąjį įrašą, skolininkui išsiunčia pranešimą, kuriame turi būti nurodyti hipotekos kreditoriaus pateikti duomenys ir siūlymas ne vėliau kaip per dvidešimt dienų nuo pranešimo skolininkui išsiuntimo dienos sumokėti kreditoriui skolą ir apie prievolės įvykdymą raštu pranešti notarui arba pateikti notarui duomenis dėl hipotekos kreditoriaus reikalavimo nepagrįstumo. Atsižvelgdamas į kreditoriaus ir skolininko pateiktus duomenis, notaras atlieka vykdomąjį įrašą arba motyvuotai atsisako jį atlikti. Vykdomuoju įrašu notaras siūlo išieškoti iš skolininko hipotekos kreditoriaus nurodytą per hipotekos sandoryje nustatytą terminą nesumokėtą hipoteka užtikrinto skolinio įsipareigojimo sumą arba nesumokėtos skolos dalį su priklausančiomis palūkanomis. Apie vykdomojo įrašo atlikimo faktą notaras nedelsdamas praneša Hipotekos registrui ir vykdomojo įrašo kopiją išsiunčia skolininkui ir įkaito davėjui. Nuo vykdomojo įrašo įregistravimo Hipotekos registre dienos skolininkas neturi teisės disponuoti įkeistu turtu be kreditoriaus sutikimo. ^s-4e393af18c5f7494b2805a1c
 
 
-5. Notaro vykdomasis įrašas yra vykdytinas ir vykdomasis dokumentas, pateikiamas vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka. ^s-ff91c1f9fbf1a186efbdcb06
+5. Notaro vykdomasis įrašas yra vykdytinas ir vykdomasis dokumentas, pateikiamas vykdyti antstoliui [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-ff91c1f9fbf1a186efbdcb06
 
 
 6. Jeigu iki vykdomojo įrašo pateikimo antstoliui vykdyti, skolininkas prievolę įvykdo sumokėdamas pinigus į notaro depozitinę sąskaitą, skolininko ar kreditoriaus prašymu notaras vykdomąjį įrašą panaikina ir apie tai praneša kreditoriui ir Hipotekos registrui. ^s-2f167599956679547f470a16
@@ -541,7 +541,7 @@ Pakeisti 4.192 straipsnį ir jį išdėstyti taip:
 7. Antstoliui pradėjus priverstinio išieškojimo procedūrą, įkeistas daiktas hipotekos kreditoriaus pasirinkimu gali būti parduodamas iš viešųjų varžytynių arba perduodamas kreditoriui administruoti, išskyrus įmonės hipotekos ir svetimo turto hipotekos atvejus. Jeigu įkeistas daiktas buvo perduotas hipotekos kreditoriui administruoti ir jį administruojant paaiškėjo, kad negalima patenkinti hipoteka užtikrinto reikalavimo, hipotekos kreditorius gali kreiptis į antstolį dėl įkeisto daikto pardavimo iš varžytynių. ^s-c891750370e900c2b4d5e556
 
 
-8. Iki varžytynių pradžios skolininko (įkaito davėjo) ir hipotekos kreditoriaus susitarimu hipotekos objektas gali būti hipotekos kreditoriaus ir skolininko (įkaito davėjo) notarine forma sudarytu sandoriu perleidžiamas hipotekos kreditoriaus nuosavybėn arba trečiajam asmeniui Civilinio proceso kodekso 704 straipsnio nustatyta tvarka. Kelis kartus įkeistas daiktas gali būti realizuojamas hipotekos kreditoriaus ir įkaito davėjo sandoryje nustatytu būdu tik visų kreditorių sutikimu. ^s-bda304229502e8ba2c2aee1f
+8. Iki varžytynių pradžios skolininko (įkaito davėjo) ir hipotekos kreditoriaus susitarimu hipotekos objektas gali būti hipotekos kreditoriaus ir skolininko (įkaito davėjo) notarine forma sudarytu sandoriu perleidžiamas hipotekos kreditoriaus nuosavybėn arba trečiajam asmeniui [Civilinio proceso kodekso 704 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Kelis kartus įkeistas daiktas gali būti realizuojamas hipotekos kreditoriaus ir įkaito davėjo sandoryje nustatytu būdu tik visų kreditorių sutikimu. ^s-bda304229502e8ba2c2aee1f
 
 
 9. Kai išieškoma pagal maksimaliąją hipoteką, notaras vykdomąjį įrašą atlieka nesvarbu, ar skolos dydis yra užfiksuotas. Jeigu maksimaliosios hipotekos skolos dydis nėra užfiksuotas, notaras tai pažymi vykdomajame įraše.“ ^s-5d95003afa07fc47511151ea
@@ -558,7 +558,7 @@ Papildyti Kodeksą 4.1921 straipsniu:
 „4.1921 straipsnis. Skolos išieškojimo iš įmonės hipoteka įkeisto turto ypatumai
 
 
-1. Kai išieškoma pagal įmonės hipotekos sandorį, įmonei gali būti nustatomas turto administravimas. Turto administravimą nustato antstolis Civilinio proceso kodekso nustatyta tvarka. Turto administratoriumi skiriamas hipotekos kreditorius arba kitas asmuo hipotekos kreditoriaus sutikimu. ^s-63defba0058136beeb723e76
+1. Kai išieškoma pagal įmonės hipotekos sandorį, įmonei gali būti nustatomas turto administravimas. Turto administravimą nustato antstolis [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Turto administratoriumi skiriamas hipotekos kreditorius arba kitas asmuo hipotekos kreditoriaus sutikimu. ^s-63defba0058136beeb723e76
 
 
 2. Nuo vykdomojo įrašo įregistravimo Hipotekos registre dienos įkeistos įmonės valdymo organai be išankstinio rašytinio hipotekos kreditoriaus (kol nepaskirtas turto administratorius) arba turto administratoriaus sutikimo neturi teisės disponuoti turtu, kuris yra įmonės hipotekos objektas. ^s-0fed6f56ba0e3159bf5f39cb
@@ -590,7 +590,7 @@ Pakeisti 4.193 straipsnį ir jį išdėstyti taip:
 2. Jeigu daiktas įkeistas kelis kartus, hipotekos kreditorių reikalavimai patenkinami pagal hipotekos įregistravimo Hipotekos registre laiką eilės tvarka. ^s-a636cabf7e3d8070760d0c3d
 
 
-3. Jeigu daiktas įkeistas kelis kartus, bet kuris iš hipotekos kreditorių turi teisę kreiptis į notarą dėl vykdomojo įrašo atlikimo ir pateikti vykdomąjį įrašą vykdyti antstoliui. Antstolis, kuriam pateikiamas vykdomasis įrašas, Civilinio proceso kodekso nustatyta tvarka praneša kitiems hipotekos kreditoriams apie vykdomojo įrašo pateikimą vykdyti. ^s-841f6cf84e22b88b2d332f50
+3. Jeigu daiktas įkeistas kelis kartus, bet kuris iš hipotekos kreditorių turi teisę kreiptis į notarą dėl vykdomojo įrašo atlikimo ir pateikti vykdomąjį įrašą vykdyti antstoliui. Antstolis, kuriam pateikiamas vykdomasis įrašas, [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka praneša kitiems hipotekos kreditoriams apie vykdomojo įrašo pateikimą vykdyti. ^s-841f6cf84e22b88b2d332f50
 
 
 4. Jeigu daiktas įkeistas kelis kartus, priverstinis išieškojimas negali būti pradėtas be pirmesnių eilėje hipotekos kreditorių rašytinio sutikimo. ^s-1cb7fe358381e56cd0679278

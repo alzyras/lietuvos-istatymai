@@ -9,10 +9,9 @@ pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, na
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymas]] - 2 citatos - Investicijų įstatymo
-- [[latest/TAR.5947BABF19A2|Lietuvos Respublikos koncesijų įstatymo pakeitimo įstatymas]] - 2 citatos - Koncesijų įstatymo pakeitimo įstatymo
+- [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymas]] - Investicijų įstatymo
+- [[latest/TAR.5947BABF19A2|Lietuvos Respublikos koncesijų įstatymo pakeitimo įstatymas]] - Koncesijų įstatymo pakeitimo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D5496D69DF98#^s-96b6c331d00aa138b840e3cc|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 2 citatos - VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 2 IR 19 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.D5496D69DF98#^s-e9e2aec5bba3abafcff3a61c|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 2 citatos - VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 2 IR 19 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.D5496D69DF98#^s-96b6c331d00aa138b840e3cc|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 2 IR 19 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS

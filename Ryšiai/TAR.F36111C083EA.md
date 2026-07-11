@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.27B041C4CCDE|Lietuvos Respublikos mediacijos įstatymas]] - Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymo
+- [[latest/TAR.27B041C4CCDE|Lietuvos Respublikos mediacijos įstatymas]] - Lietuvos Respublikos civilinių ginčų taikinamojo tarpininkavimo įstatymo 10 straipsnio 3 dalyje
 
 ## Šį įstatymą cituoja
 

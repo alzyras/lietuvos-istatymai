@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos notariato įstatymo 2, 3, 6, 7, 9, 10, 11, 13
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.BE3136A78E80|Lietuvos Respublikos notariato įstatymas]] - 2 citatos - Notariato įstatymo 62 straipsnio 5 dalis
 
 ## Šį įstatymą cituoja
 

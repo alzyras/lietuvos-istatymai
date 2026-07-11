@@ -46,7 +46,7 @@ Nr. 60-1411, Nr. 100-2265)
 „Apylinkės teisme gali būti steigiamas hipotekos skyrius. Apylinkės teismus, kuriuose steigiami hipotekos skyriai, ir šių skyrių veiklos teritoriją nustato teisingumo ministras.“
 
 
-2. [[#^s-9d5cd92d039b6ca4ba4cd216|10 straipsnio]] buvusią [[#^s-b8c3ed7c5bbca108a5a272f2|2 dalį]] laikyti 3 dalimi. ^s-b8c3ed7c5bbca108a5a272f2
+2. [[#^s-9d5cd92d039b6ca4ba4cd216|10 straipsnio]] buvusią 2 dalį laikyti 3 dalimi. ^s-b8c3ed7c5bbca108a5a272f2
 
 
 
@@ -154,7 +154,7 @@ Pakeisti 681 straipsnį bei jo pavadinimą ir visą straipsnį išdėstyti taip:
 Apylinkės teismo hipotekos skyrius (toliau – hipotekos skyrius) įstatymų nustatytais atvejais ir tvarka registruoja turto įkeitimus, tvarko hipotekos registrą, priima sprendimus dėl skolos išieškojimo iš įkeisto turto bei paskirsto išieškotas sumas tarp išieškotojų.
 
 
-Hipotekos skyrius vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais Lietuvos Respublikos įstatymais, Vyriausybės nutarimais, Vyriausybės patvirtintais Hipotekos registro nuostatais bei Teisingumo ministerijos teisės aktais.
+Hipotekos skyrius vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais Lietuvos Respublikos įstatymais, Vyriausybės nutarimais, Vyriausybės patvirtintais Hipotekos registro nuostatais bei Teisingumo ministerijos teisės aktais.
 
 
 Hipotekos skyrius turi antspaudą su savo pavadinimu bei Lietuvos valstybės herbu ir sąskaitą banke.“

@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio 1 ir 3 dalių pakeitimas ^s-11e77d79e3663e0c168756ff
 
 
-1. [[#^s-a225b35d09b947726309c468|1 straipsnio 1 dalyje]] vietoj žodžio „paminklosaugos“ įrašyti žodžius „kultūros paveldo“ ir šią dalį išdėstyti taip: ^s-a225b35d09b947726309c468
+1. 1 straipsnio 1 dalyje vietoj žodžio „paminklosaugos“ įrašyti žodžius „kultūros paveldo“ ir šią dalį išdėstyti taip: ^s-a225b35d09b947726309c468
 
 
 „Nuo 1995 m. vasario 1 d. steigiama Valstybinė kultūros paveldo komisija.“

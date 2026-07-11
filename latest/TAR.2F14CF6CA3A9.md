@@ -46,7 +46,7 @@ Vilnius
 1. 1990 metų blokados fondas likviduojamas. ^s-d94ea77c791e52d41cf534b1
 
 
-2. Lietuvos Respublikos 1990 metų blokados fondo įstatymas pripažįstamas netekusiu galios. ^s-c196a6e4c5f7fb0b11ea51d0
+2. [Lietuvos Respublikos 1990 metų blokados fondo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.0BE1C9A7DCC9) pripažįstamas netekusiu galios. ^s-c196a6e4c5f7fb0b11ea51d0
 
 
 

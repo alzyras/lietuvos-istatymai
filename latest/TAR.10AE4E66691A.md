@@ -520,7 +520,7 @@ SAVIVALDYBIŲ INSTITUCIJOS, JŲ SUDARYMAS IR ĮGALIOJIMAI
 4) svarsto savivaldybės kontrolieriaus parengtą ataskaitą dėl jo (savivaldybės kontrolieriaus tarnybos) veiksmų plano įvykdymo, jos pagrindu rengia ir teikia savivaldybės tarybai išvadas dėl savivaldybės turto ir lėšų naudojimo teisėtumo, tikslingumo ir efektyvumo bei savivaldybės kontrolieriaus ir savivaldybės kontrolieriaus tarnybos veiklos; ^s-d49ccd5f6384dc82780b52e6
 
 
-5) siūlo savivaldybės tarybai atlikti nepriklausomą savivaldybės turto ir lėšų naudojimo bei savivaldybės veiklos auditą, teikia savo išvadas dėl audito rezultatų; ^s-8c365a7867e06755e34a9311
+5) siūlo savivaldybės tarybai atlikti nepriklausomą savivaldybės turto ir lėšų naudojimo bei savivaldybės veiklos auditą, teikia savo išvadas [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) rezultatų; ^s-8c365a7867e06755e34a9311
 
 
 6) periodiškai (kartą per ketvirtį) svarsto, kaip vykdomas savivaldybės kontrolieriaus (savivaldybės kontrolieriaus tarnybos) veiksmų planas, savivaldybės kontrolieriaus ar savo iniciatyva išklauso institucijų, įstaigų ir įmonių vadovus dėl savivaldybės kontrolieriaus (savivaldybės kontrolieriaus tarnybos) atliktų patikrinimų metu nustatytų trūkumų ar pažeidimų pašalinimo, prireikus kreipiasi į savivaldybės administratorių dėl savivaldybės kontrolieriaus reikalavimų įvykdymo; ^s-dbde9af404c73c3f52a00242
@@ -539,7 +539,7 @@ SAVIVALDYBIŲ INSTITUCIJOS, JŲ SUDARYMAS IR ĮGALIOJIMAI
 ### 16 straipsnis. Savivaldybės tarybos komisijos ^s-f4ec8b1c2bd869ede508f85e
 
 
-1. Savivaldybės taryba savo įgaliojimų laikui prie tarybos sudaro Administracinę komisiją. Ši komisija nagrinėja Administracinių teisės pažeidimų kodekso jos kompetencijai priskirtas administracinių teisės pažeidimų bylas. Savivaldybės taryba šios komisijos pirmininku mero teikimu skiria tarybos narį. Komisijos atsakingojo sekretoriaus pareigas atlieka savivaldybės administratoriaus paskirtas savivaldybės tarnautojas, šios funkcijos įrašomas į jo pareigybės aprašymą. ^s-9775a6b52ce5dc66b636b297
+1. Savivaldybės taryba savo įgaliojimų laikui prie tarybos sudaro Administracinę komisiją. Ši komisija nagrinėja [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) jos kompetencijai priskirtas administracinių teisės pažeidimų bylas. Savivaldybės taryba šios komisijos pirmininku mero teikimu skiria tarybos narį. Komisijos atsakingojo sekretoriaus pareigas atlieka savivaldybės administratoriaus paskirtas savivaldybės tarnautojas, šios funkcijos įrašomas į jo pareigybės aprašymą. ^s-9775a6b52ce5dc66b636b297
 
 
 2. Įstatymų nustatytais atvejais ar savivaldybės tarybos sprendimu gali būti sudaromos ir kitos nuolatinės (tos kadencijos laikotarpiui) bei laikinosios (atskiriems klausimams nagrinėti) komisijos. Šių komisijų sudarymo tvarką nustato savivaldybės tarybos veiklos reglamentas, jų veiklos nuostatus tvirtina savivaldybės taryba. ^s-f5b251c1a0402a43b1295302
@@ -651,7 +651,7 @@ Savivaldybės taryba:
 32) priima sprendimus dėl savivaldybės valdomo išlikusio nekilnojamojo turto nuosavybės teisių atkūrimo religinėms bendrijoms ir bendruomenėms; ^s-0cc58e0eeec973fc818f19df
 
 
-33) priima sprendimus dėl kompensacijų tam tikroms vartotojų grupėms mokėjimo už perkamą kurą, elektros ir šilumos energiją, karštą vandenį bei gamtines dujas; ^s-1e824fa4cdb8b5f66aed7e50
+33) priima sprendimus [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) tam tikroms vartotojų grupėms mokėjimo už perkamą kurą, elektros ir šilumos energiją, karštą vandenį bei gamtines dujas; ^s-1e824fa4cdb8b5f66aed7e50
 
 
 34) priima sprendimus dėl koncesijų naudotis savivaldybės objektais suteikimo tikslingumo ir atlyginimo dydžio nustatymo; ^s-cf93baceaddf49e97010858e
@@ -725,7 +725,7 @@ Savivaldybės taryba:
 5) nagrinėja piliečių prašymus atkurti nuosavybės teises į gyvenamuosius namus, jų dalis, butus, ūkinės ir komercinės paskirties pastatus; ^s-273ad587588863e727105dcc
 
 
-6) priima sprendimus dėl kompensacijų mokėjimo už valstybės išperkamus grąžintinus pastatus ar jų dalis ir kitus statinius; ^s-905c4bee9208550530646902
+6) priima sprendimus [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) mokėjimo už valstybės išperkamus grąžintinus pastatus ar jų dalis ir kitus statinius; ^s-905c4bee9208550530646902
 
 
 7) savivaldybės tarybos nustatyta tvarka skirsto gautą labdarą, jeigu labdaros davėjas nenurodė konkretaus labdaros gavėjo; ^s-48eab9540451d9ed1f1880ae
@@ -807,7 +807,7 @@ Savivaldybės taryba:
 10. Mero pavaduotojas pirmininkauja savivaldybės tarybos ar valdybos posėdžiui, kai priimant sprendimą meras negali dalyvauti. ^s-7b90b840d8613f41b8c94e28
 
 
-11. Merui, mero pavaduotojui Darbo sutarties įstatymas, taip pat darbo įstatymų nuostatos, reglamentuojančios drausminių nuobaudų skyrimą, netaikomi. ^s-7a459c2639132580ce6fc23a
+11. Merui, mero pavaduotojui [Darbo sutarties įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), taip pat darbo įstatymų nuostatos, reglamentuojančios drausminių nuobaudų skyrimą, netaikomi. ^s-7a459c2639132580ce6fc23a
 
 
 12. Savo įgaliojimų laikui meras gali turėti politinio (asmeninio) pasitikėjimo valstybės tarnautojų. Jų skaičių nustato valdyba. ^s-bbdad98acbf6ae831172c3ad
@@ -898,7 +898,7 @@ SAVIVALDYBĖS TARYBOS NARIAI
 ### 22 straipsnis. Tarybos nario statusas ^s-c988c759d852ea5994ddd6a7
 
 
-1. Tarybos narys yra Savivaldybių tarybų rinkimų įstatymo nustatyta tvarka gyventojų išrinktas savivaldybės bendruomenės atstovas. Naujai išrinktos tarybos nario įgaliojimai prasideda, o ankstesnės kadencijos tarybos nario įgaliojimai baigiasi nuo tos dienos, kurią naujai išrinkta savivaldybės taryba susirenka į pirmąjį posėdį. ^s-a3571de029596224fbe1e220
+1. Tarybos narys yra [Savivaldybių tarybų rinkimų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC) nustatyta tvarka gyventojų išrinktas savivaldybės bendruomenės atstovas. Naujai išrinktos tarybos nario įgaliojimai prasideda, o ankstesnės kadencijos tarybos nario įgaliojimai baigiasi nuo tos dienos, kurią naujai išrinkta savivaldybės taryba susirenka į pirmąjį posėdį. ^s-a3571de029596224fbe1e220
 
 
 2. Tarybos narys turi savivaldybės tarybos nario pažymėjimą. Šį pažymėjimą įteikia apygardos rinkimų komisijos pirmininkas, o jeigu asmuo tarybos nariu tampa vietoj netekusio mandato tarybos nario, – meras. ^s-cfd15335d0aa79c0019a7c4e
@@ -942,7 +942,7 @@ Tarybos narys turi teisę:
 1) šio įstatymo nustatyta tvarka rinkti ir būti išrinktas į pareigas savivaldybės institucijose; ^s-b031476b1e7fdd2abb946981
 
 
-2) savivaldybės tarybos veiklos reglamento nustatyta tvarka siūlyti savivaldybės tarybai svarstyti klausimus, rengti savivaldybės tarybos sprendimų projektus, iš savivaldybės administracijos ar kitų savivaldybės įstaigų ir organizacijų gauti su savivaldybės taryboje nagrinėjamais klausimais susijusią informaciją, dalyvauti diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas dėl savivaldybės tarybos sprendimų projektų, dėl savivaldybės tarybos darbo tvarkos ir kt., savivaldybės tarybos posėdžio metu klausti pranešėjus, pasisakyti dėl vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės teritorijoje, vadovus ir tarnautojus; ^s-4f7ed8bca9a8dfc195b224ce
+2) savivaldybės tarybos veiklos reglamento nustatyta tvarka siūlyti savivaldybės tarybai svarstyti klausimus, rengti savivaldybės tarybos sprendimų projektus, iš savivaldybės administracijos ar kitų savivaldybės įstaigų ir organizacijų gauti su savivaldybės taryboje nagrinėjamais klausimais susijusią informaciją, dalyvauti diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas [dėl savivaldybės tarybos sprendimų](https://e-tar.lt/portal/lt/legalAct/355fa5c08a0111e6b969d7ae07280e89) projektų, dėl savivaldybės tarybos darbo tvarkos ir kt., savivaldybės tarybos posėdžio metu klausti pranešėjus, pasisakyti dėl vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės teritorijoje, vadovus ir tarnautojus; ^s-4f7ed8bca9a8dfc195b224ce
 
 
 3) dalyvauti ir pasisakyti komitetų ir komisijų posėdžiuose, taip pat valdybos posėdžiuose, kuriuose svarstomi jo pateikti klausimai; ^s-7423aa81574717c41cf6c626
@@ -1089,7 +1089,7 @@ SAVIVALDYBĖS KONTROLĖS INSTITUCIJA
 3) pagal kompetenciją [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nustatyta tvarka nagrinėja gyventojų skundus ir pareiškimus. Anoniminiai skundai ar pareiškimai nagrinėjami, jeigu taip nusprendžia savivaldybės kontrolierius; ^s-0e3d00af2fb67e810bbf2552
 
 
-4) Administracinių teisės pažeidimų kodekso nustatytais atvejais surašo administracinių teisės pažeidimų protokolus ir juos teikia nagrinėti įstatymų nustatyta tvarka savivaldybės Administracinei komisijai. ^s-b56afcdfcfbb1b7a5c9f4da1
+4) [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatytais atvejais surašo administracinių teisės pažeidimų protokolus ir juos teikia nagrinėti įstatymų nustatyta tvarka savivaldybės Administracinei komisijai. ^s-b56afcdfcfbb1b7a5c9f4da1
 
 
 
@@ -1306,7 +1306,7 @@ TURTAS IR FINANSAI
 ### 34 straipsnis. Savivaldybių nuosavybė ^s-b04031e0be169731954210df
 
 
-1. Savivaldybių turto sandarą ir įsigijimo būdus, šio turto valdymo, naudojimo ir disponavimo juo tvarką nustato Lietuvos Respublikos Konstitucija, įstatymai, Vyriausybės nutarimai ir savivaldybių tarybų sprendimai. ^s-97e0aa1bce14dbd68d5222b8
+1. Savivaldybių turto sandarą ir įsigijimo būdus, šio turto valdymo, naudojimo ir disponavimo juo tvarką nustato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymai, Vyriausybės nutarimai ir savivaldybių tarybų sprendimai. ^s-97e0aa1bce14dbd68d5222b8
 
 
 2. Savivaldybei nuosavybės teise priklausančio turto savininko funkcijas, susijusias su savivaldybei nuosavybės teise priklausančiu turtu, remdamasi įstatymais įgyvendina savivaldybės taryba. ^s-985777b72347e8ad69603ebf
@@ -1418,7 +1418,7 @@ INSTITUCIJOMIS IR ATSTOVAVIMAS
 ### 38 straipsnis. Savivaldybių santykiai su valstybės institucijomis ir įstaigomis ^s-e567bc1db84780b7357f5025
 
 
-1. Savivaldybių santykiai su valstybės institucijomis ir įstaigomis grindžiami Lietuvos Respublikos Konstitucija ir įstatymais. ^s-908b1b9d2011dfee34c73435
+1. Savivaldybių santykiai su valstybės institucijomis ir įstaigomis grindžiami [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) ir įstatymais. ^s-908b1b9d2011dfee34c73435
 
 
 2. Savivaldybės nėra pavaldžios valstybės institucijoms. ^s-cb51e81dd2c43c812d0fcb95
@@ -1507,10 +1507,10 @@ SAVIVALDYBIŲ ATRIBUTIKA IR RAŠTVEDYBA
 1. Savivaldybės turi savo atributiką. ^s-76576728d9d6f619dac0f552
 
 
-2. Savivaldybių atributiką ir jos naudojimo tvarką reglamentuoja Savivaldybių atributikos įstatymas. ^s-29fe14ff7fefa97c9ef40dd1
+2. Savivaldybių atributiką ir jos naudojimo tvarką reglamentuoja [Savivaldybių atributikos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.94228C66BDB8). ^s-29fe14ff7fefa97c9ef40dd1
 
 
-3. Savivaldybių herbai yra savivaldybių nuosavybė ir Savivaldybių atributikos įstatymo nenumatytais atvejais gali būti naudojami tik savivaldybių tarybų leidimu. ^s-b2feb5e968baade4935788e3
+3. Savivaldybių herbai yra savivaldybių nuosavybė ir [Savivaldybių atributikos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.94228C66BDB8) nenumatytais atvejais gali būti naudojami tik savivaldybių tarybų leidimu. ^s-b2feb5e968baade4935788e3
 
 
 4. Savivaldybių vėliavų etaloną tvirtina savivaldybių tarybos. ^s-bd06ffa98203e4347df89a00
@@ -1527,7 +1527,7 @@ Savivaldybių raštvedyba, apskaitos, atskaitomybės, finansiniai bei techniniai
 ### 2 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-801e957b26492a3969b0d6c7
 
 
-Įsigaliojus šiam įstatymui, netenka galios Lietuvos Respublikos savivaldybės tarybos nario statuso įstatymas (Žin., 1995, Nr. 18-403).
+Įsigaliojus šiam įstatymui, netenka galios [Lietuvos Respublikos savivaldybės tarybos nario statuso įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.08F18F6833C8) (Žin., 1995, Nr. 18-403).
 
 
 
@@ -1537,13 +1537,13 @@ Savivaldybių raštvedyba, apskaitos, atskaitomybės, finansiniai bei techniniai
 1. Įsigaliojus šiam įstatymui, Vyriausybė per 6 mėnesius parengia ir pateikia Seimui: ^s-9b7c9bcb92c2a5f604371596
 
 
-1) Apskrities valdymo įstatymo pakeitimo įstatymo projektą; ^s-3ef7d028a7506e7481e4a82e
+1) [Apskrities valdymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF) pakeitimo įstatymo projektą; ^s-3ef7d028a7506e7481e4a82e
 
 
 2) [[latest/TAR.6021EDE9B5FE|Bibliotekų įstatymo pakeitimo įstatymo]] projektą; ^s-43bc059a5dc2d52e0875962d
 
 
-3) Kainų įstatymo pakeitimo įstatymo projektą; ^s-29b12c053acf1dd011b59ab8
+3) [Kainų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.90F8B1B91FDB) pakeitimo įstatymo projektą; ^s-29b12c053acf1dd011b59ab8
 
 
 4) [[latest/TAR.4659985F557B|Muziejų įstatymo pakeitimo įstatymo]] projektą; ^s-e416640a961d5fc58815dc0e

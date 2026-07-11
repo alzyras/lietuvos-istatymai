@@ -45,7 +45,7 @@ Nr. I-486, 1994-05-31, Žin. 1994, Nr. 43-773 (1994-06-08), i. k. [[latest/TAR.F
 
 
 
-2. Panaikinti Lietuvos Respublikos liaudies kontrolės komitetą, o jo vietoje įsteigti Lietuvos Respublikos Aukščiausiajai Tarybai atskaitingą Lietuvos Respublikos valstybės kontrolės departamentą.
+2. Panaikinti Lietuvos Respublikos liaudies kontrolės komitetą, o jo vietoje įsteigti Lietuvos Respublikos [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC) atskaitingą Lietuvos Respublikos valstybės kontrolės departamentą.
 
 
 3. Neteko galios nuo 1994-06-08
@@ -54,7 +54,7 @@ Nr. I-486, 1994-05-31, Žin. 1994, Nr. 43-773 (1994-06-08), i. k. [[latest/TAR.F
 
 
 
-4. Pavesti Lietuvos Respublikos Aukščiausiosios Tarybos gamtos apsaugos komisijai iki š.m. gegužės 15 d. baigti rengti [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymo]] projektą, o valstybės atkūrimo komisijai – parengti [[latest/TAR.61BB05227699|Lietuvos Respublikos valstybės kontrolės įstatymo]] projektą ir pateikti juos Lietuvos Respublikos Aukščiausiajai Tarybai.
+4. Pavesti Lietuvos Respublikos Aukščiausiosios Tarybos gamtos apsaugos komisijai iki š.m. gegužės 15 d. baigti rengti [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymo]] projektą, o valstybės atkūrimo komisijai – parengti [[latest/TAR.61BB05227699|Lietuvos Respublikos valstybės kontrolės įstatymo]] projektą ir pateikti juos Lietuvos Respublikos [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC).
 
 
 5. Neteko galios nuo 1994-06-08

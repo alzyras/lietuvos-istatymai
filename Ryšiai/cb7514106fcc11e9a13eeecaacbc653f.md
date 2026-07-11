@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 77 st
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.C595FF45F869#^s-940dda6f9fea79de2fa4498d|Lietuvos Respublikos mokslo ir studijų įstatymas]] - 77 straipsnio 3 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C595FF45F869#^s-76226fc1bd60145b22b44d51|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Įstatymas Nr. XIII-2089
-- [[latest/TAR.C595FF45F869#^s-c01667f4509815403772ac77|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Įstatymas Nr. XIII-2089
+_Nėra._

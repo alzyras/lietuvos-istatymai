@@ -39,13 +39,13 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimas ^s-945205b974af766f8fd1eca1
 
 
-1. Pakeisti [[#^s-8012a55b77c6419f0867399c|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-8012a55b77c6419f0867399c
+1. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-4128ccae9ce24cc46b9f8682|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-8012a55b77c6419f0867399c
 
 
 „1. Šis įstatymas nustato pateikiamo į rinką maisto ir jo tvarkymo reikalavimus, valstybės institucijų ir visuomeninių vartotojų teisių gynimo organizacijų kompetenciją užtikrinant maisto saugą, taip pat reglamentuoja maisto tvarkymo subjektų ir su maistu besiliečiančių gaminių ir medžiagų gamintojų ir tiekėjų pareigas ir atsakomybę. Šio įstatymo nuostatos suderintos su Įstatymo priede nurodytais Europos Sąjungos teisės aktais.“
 
 
-2. Pakeisti 1 straipsnio 2 dalies 1 punktą ir jį išdėstyti taip: ^s-fe243de32ed91a26ff6c2159
+2. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-31cc0de5f7954dcc0be1da26|1 straipsnio 2 dalies 1 punktą]] ir jį išdėstyti taip: ^s-fe243de32ed91a26ff6c2159
 
 
 „1) į rinką būtų teikiamas maistas, su maistu besiliečiantys gaminiai ir medžiagos, atitinkantys šio įstatymo ir kitų teisės aktų nustatytus saugos reikalavimus;“.
@@ -55,7 +55,7 @@ Vilnius
 ### 2 straipsnis. 2 straipsnio pakeitimas ^s-c64841a04d34cc82e19a154d
 
 
-1. Pakeisti [[#^s-0df1cdf3b01202bcb8e43ad3|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-0df1cdf3b01202bcb8e43ad3
+1. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-525deac620180a47f884cfea|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-0df1cdf3b01202bcb8e43ad3
 
 
 „1. Maistas – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002, nustatančio maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiančio Europos maisto saugos tarnybą ir nustatančio su maisto saugos klausimais susijusias procedūras (toliau – Reglamentas (EB) Nr. 178/2002), [[#^s-c64841a04d34cc82e19a154d|2 straipsnyje]].“
@@ -64,7 +64,7 @@ Vilnius
 2. Pakeisti [[#^s-2f4fee012db753dac7d1e1c1|2 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-779c7fa9c1693d407a072d52
 
 
-„3. Su maistu besiliečiantys gaminiai ir medžiagos – su maistu skirti liestis gaminiai ir medžiagos, kuriems taikomas 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1935/2004 dėl žaliavų ir gaminių, skirtų liestis su maistu, ir panaikinantis direktyvas 80/590/EEB ir 89/109/EEB (OL 2004 L 338, p. 4), su paskutiniais pakeitimais, padarytais 2009 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 596/2009 (OL 2009 L 188, p. 14) (toliau – Reglamentas (EB) Nr. 1935/2004).“
+„3. Su maistu besiliečiantys gaminiai ir medžiagos – su maistu skirti liestis gaminiai ir medžiagos, kuriems taikomas 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1935/2004](https://eur-lex.europa.eu/eli/reg/1935/2004/oj) dėl žaliavų ir gaminių, skirtų liestis su maistu, ir panaikinantis direktyvas 80/590/EEB ir 89/109/EEB (OL 2004 L 338, p. 4), su paskutiniais pakeitimais, padarytais 2009 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 596/2009 (OL 2009 L 188, p. 14) (toliau – [Reglamentas (EB) Nr. 1935/2004](https://eur-lex.europa.eu/eli/reg/1935/2004/oj)).“
 
 
 3. Pakeisti [[#^s-220d1557747d2e02adf4168d|2 straipsnio 8 dalį]] ir ją išdėstyti taip: ^s-2f4fee012db753dac7d1e1c1
@@ -76,46 +76,46 @@ Vilnius
 4. Pakeisti [[#^s-dcf794bbea8959df283a1550|2 straipsnio 9 dalį]] ir ją išdėstyti taip: ^s-8a6ae7bf62d4ca5b3cd419b6
 
 
-„9. Su maistu besiliečiančių gaminių ir medžiagų gamintojas – fizinis ar juridinis asmuo, Lietuvos Respublikos teisės aktų nustatyta tvarka įregistravęs veiklą, gaminantis su maistu besiliečiančius gaminius ir medžiagas, kuriems taikomas Reglamentas (EB) Nr. 1935/2004.“
+„9. Su maistu besiliečiančių gaminių ir medžiagų gamintojas – fizinis ar juridinis asmuo, Lietuvos Respublikos teisės aktų nustatyta tvarka įregistravęs veiklą, gaminantis su maistu besiliečiančius gaminius ir medžiagas, kuriems taikomas [Reglamentas (EB) Nr. 1935/2004](https://eur-lex.europa.eu/eli/reg/1935/2004/oj).“
 
 
 5. Pakeisti [[#^s-7d4223d444dfd9c05ef19c60|2 straipsnio 10 dalį]] ir ją išdėstyti taip: ^s-16f4927e88453611582742f3
 
 
-„10. Su maistu besiliečiančių gaminių ir medžiagų tiekėjas – fizinis ar juridinis asmuo, Lietuvos Respublikos teisės aktų nustatyta tvarka įregistravęs veiklą, pateikiantis į rinką su maistu besiliečiančius gaminius ir medžiagas, kuriems taikomas Reglamentas (EB) Nr. 1935/2004.“
+„10. Su maistu besiliečiančių gaminių ir medžiagų tiekėjas – fizinis ar juridinis asmuo, Lietuvos Respublikos teisės aktų nustatyta tvarka įregistravęs veiklą, pateikiantis į rinką su maistu besiliečiančius gaminius ir medžiagas, kuriems taikomas [Reglamentas (EB) Nr. 1935/2004](https://eur-lex.europa.eu/eli/reg/1935/2004/oj).“
 
 
-6. Pakeisti 2 straipsnio 12 dalį ir ją išdėstyti taip: ^s-7cd77b65000ee7ff8e12e58e
+6. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-924c041a4213443dd9eabd42|2 straipsnio 12 dalį]] ir ją išdėstyti taip: ^s-7cd77b65000ee7ff8e12e58e
 
 
 „12. Galutinis vartotojas (toliau – vartotojas) – kaip apibrėžta Reglamento (EB) Nr. 178/2002 3 straipsnio 18 dalyje.“
 
 
-7. Pakeisti 2 straipsnio 14 dalį ir ją išdėstyti taip: ^s-120c99309e72ce5c6294f973
+7. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-e2bdb425a6683373040997f5|2 straipsnio 14 dalį]] ir ją išdėstyti taip: ^s-120c99309e72ce5c6294f973
 
 
 „14. Specialios mitybos maistas – maistas, kuris dėl savo ypatingos sudėties ar tvarkymo skiriasi nuo įprastinio maisto, skiriamas dėl ypatingos fizinės ar fiziologinės būklės kylantiems mitybos poreikiams tenkinti ir atitinka deklaruojamą specialią paskirtį. Jis ženklinamas ir pateikiamas į rinką tokiu būdu, iš kurio matyti, kokiai vartotojų grupei jis skirtas.“
 
 
-8. Pakeisti 2 straipsnio 17 dalį ir ją išdėstyti taip: ^s-220d1557747d2e02adf4168d
+8. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-50ee432974bb763fdd07c8b5|2 straipsnio 17 dalį]] ir ją išdėstyti taip: ^s-220d1557747d2e02adf4168d
 
 
 „17. Pateikimas į rinką – kaip apibrėžta Reglamento (EB) Nr. 178/2002 3 straipsnio 8 dalyje.“
 
 
-9. Pakeisti 2 straipsnio 18 dalį ir ją išdėstyti taip: ^s-dcf794bbea8959df283a1550
+9. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-58bde34b4e524f09b3ca8b24|2 straipsnio 18 dalį]] ir ją išdėstyti taip: ^s-dcf794bbea8959df283a1550
 
 
 „18. Pirminė gamyba – kaip apibrėžta Reglamento (EB) Nr. 178/2002 3 straipsnio 17 dalyje.“
 
 
-10. Papildyti 2 straipsnį 21 dalimi: ^s-7d4223d444dfd9c05ef19c60
+10. Papildyti [[latest/TAR.5B99A78DA6C7#^s-edcb5e7b0c1b11823a59d2e9|2 straipsnį 21 dalimi]]: ^s-7d4223d444dfd9c05ef19c60
 
 
 „21. Susigrąžinimas – priemonės, kurias taikant siekiama užtikrinti, kad būtų susigrąžintas nesaugus maistas ar su maistu besiliečiantis gaminys ar medžiaga, kurį maisto tvarkymo subjektas ar su maistu besiliečiančių gaminių ir medžiagų gamintojas ir (ar) tiekėjas pateikė vartotojui arba kurį vartotojas jau gali vartoti ar naudoti.“
 
 
-11. Papildyti 2 straipsnį 22 dalimi: ^s-799a532f570b6ee6f5879b56
+11. Papildyti [[latest/TAR.5B99A78DA6C7#^s-60e22dc2f6ca92c0bb3de6c0|2 straipsnį 22 dalimi]]: ^s-799a532f570b6ee6f5879b56
 
 
 „22. Pašalinimas iš rinkos – taikomos priemonės, kuriomis maisto tvarkymo subjektas ar su maistu besiliečiančių gaminių ir medžiagų gamintojas ir (ar) tiekėjas išima iš rinkos pateiktą (pateiktus) nesaugų (nesaugius) ir nekontroliuojamą (nekontroliuojamus) maistą ar su maistu besiliečiančius gaminius ir medžiagas, išskyrus maistą ar su maistu besiliečiantį (besiliečiančius) gaminį (gaminius) ar medžiagą (medžiagas), kurį (kuriuos) jau turi vartotojai.“
@@ -125,7 +125,7 @@ Vilnius
 ### 3 straipsnis. 3 straipsnio pakeitimas ^s-be03436b8c19f016aa07926b
 
 
-Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.5B99A78DA6C7#^s-f3d1504702d410587b8db533|3 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Šis įstatymas taikomas juridiniams ir fiziniams asmenims, tvarkantiems ir (ar) pateikiantiems į rinką maistą, su maistu besiliečiančius gaminius ir medžiagas, taip pat valstybės institucijoms, prižiūrinčioms ir kontroliuojančioms maisto, su maistu besiliečiančių gaminių ir medžiagų, saugą, kokybę ir tvarkymą. Šio įstatymo nuostatos negali riboti maisto, su maistu besiliečiančių gaminių ir medžiagų, pateikimo į rinką, jeigu tas maistas, su maistu besiliečiantys gaminiai ir medžiagos yra legaliai pagaminti ir pateikiami į rinką vienoje iš Europos Sąjungos valstybių narių arba Europos ekonominės erdvės valstybių ir atitinka jų lygiaverčius saugos, kokybės ir tvarkymo reikalavimus.“
@@ -135,13 +135,13 @@ Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 4 straipsnis. 4 straipsnio pakeitimas ^s-9ba956168c959cab0fee5b13
 
 
-1. Pakeisti [[#^s-d4bec24e81679c110414ffa1|4 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-d4bec24e81679c110414ffa1
+1. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-d90c76c93ede20f99cd2aa97|4 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-d4bec24e81679c110414ffa1
 
 
-„1. Į rinką turi būti teikiamas šiame įstatyme ir kituose teisės aktuose nustatytus saugos, kokybės ir tvarkymo reikalavimus atitinkantis maistas, su maistu besiliečiantys gaminiai ir medžiagos. Ar maistas yra saugus, nustatoma vadovaujantis Reglamento (EB) Nr. 178/2002 14 straipsnyje įtvirtintais kriterijais. Ar su maistu besiliečiantys gaminiai ir medžiagos yra saugūs, nustatoma vadovaujantis Reglamento (EB) Nr. 1935/2004 3 straipsnio 1 dalyje įtvirtintais kriterijais.“
+„1. Į rinką turi būti teikiamas šiame įstatyme ir kituose teisės aktuose nustatytus saugos, kokybės ir tvarkymo reikalavimus atitinkantis maistas, su maistu besiliečiantys gaminiai ir medžiagos. Ar maistas yra saugus, nustatoma vadovaujantis Reglamento (EB) Nr. 178/2002 [[latest/TAR.5B99A78DA6C7#^s-617f59ccb23f201731f80fb4|14 straipsnyje]] įtvirtintais kriterijais. Ar su maistu besiliečiantys gaminiai ir medžiagos yra saugūs, nustatoma vadovaujantis [Reglamento (EB) Nr. 1935/2004 3 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/1935/2004/art_3/par_1/oj) įtvirtintais kriterijais.“
 
 
-2. Pakeisti [[#^s-126e7123c64674e8c2a3ff2c|4 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-126e7123c64674e8c2a3ff2c
+2. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-e97aa6afdf06f27305adf07a|4 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-126e7123c64674e8c2a3ff2c
 
 
 „2. Maistas ir su maistu besiliečiantys gaminiai ir medžiagos turi atitikti šiuos pagrindinius reikalavimus:
@@ -166,10 +166,10 @@ Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 5 straipsnis. 5 straipsnio pakeitimas ^s-4c5f280508350d2e083801ee
 
 
-Pakeisti 5 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.5B99A78DA6C7#^s-84f60587771f1ae67f0de17f|5 straipsnį]] ir jį išdėstyti taip:
 
 
-„5 straipsnis. Vartotojų informavimo reikalavimai
+„[[latest/TAR.5B99A78DA6C7#^s-84f60587771f1ae67f0de17f|5 straipsnis]]. Vartotojų informavimo reikalavimai
 
 
 1. Vartotojams turi būti teikiama teisinga informacija apie maistą. Draudžiama: ^s-fb20ab60afe5f7fc712d0ed8
@@ -243,32 +243,32 @@ Pakeisti [[#^s-254965ec0bce801a98249364|7 straipsnį]] ir jį išdėstyti taip:
 „2) rengia ir tvirtina maisto kokybės gerinimo, sveiko, ekologiško maisto gamybos ir pateikimo į rinką programas, nustato maisto sudėties ir kokybės, žaliavų kokybės vertinimo, maistui skirtų augalų auginimo, pateikimo į rinką bei augalų apsaugos priemonių naudojimo ir kontrolės privalomuosius reikalavimus;“.
 
 
-4. Pakeisti 9 straipsnio 5 dalies 8 punktą ir jį išdėstyti taip: ^s-3b1149cc2f0721114c5b6162
+4. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-7b9e95f35542c3d241e435d7|9 straipsnio 5 dalies 8 punktą]] ir jį išdėstyti taip: ^s-3b1149cc2f0721114c5b6162
 
 
 „8) nustato tvarką ir pripažįsta į Lietuvos Respublikos rinką pateikiamą natūralų mineralinį vandenį ir išduoda natūralaus mineralinio vandens pripažinimo Lietuvos Respublikoje pažymėjimą. Už natūralaus mineralinio vandens pripažinimo Lietuvos Respublikoje pažymėjimų ir jų dublikatų išdavimą bei šių pažymėjimų tikslinimą imama valstybės rinkliava;“.
 
 
-5. Pakeisti 9 straipsnio 5 dalies 10 punktą ir jį išdėstyti taip: ^s-376b45d7cbfd2b50ed80a1dd
+5. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-82d63a0db28006e9d6e9796e|9 straipsnio 5 dalies 10 punktą]] ir jį išdėstyti taip: ^s-376b45d7cbfd2b50ed80a1dd
 
 
 „10) vykdo Europos Sąjungos ir nacionalinių teisės aktų nustatytų su maistu besiliečiančių gaminių ir medžiagų gamybos, perdirbimo, pateikimo į rinką ir importo reikalavimų valstybinę kontrolę;“.
 
 
-6. Papildyti [[#^s-76a2b755370980cf5375c91f|9 straipsnio 5 dalį]] nauju 11 punktu: ^s-7f54da8e2b433abf7dc93987
+6. Papildyti [[#^s-76a2b755370980cf5375c91f|9 straipsnio 5 dalį]] nauju [[latest/TAR.5B99A78DA6C7|11 punktu]]: ^s-7f54da8e2b433abf7dc93987
 
 
 „11) derina vaikų ugdymo įstaigų, vaikų socialinės globos įstaigų ir vaikų poilsio stovyklų valgiaraščius;“.
 
 
-7. Buvusį 9 straipsnio 5 dalies 11 punktą laikyti 12 punktu. ^s-3f16f73008d632f95d4d4eb4
+7. Buvusį [[latest/TAR.5B99A78DA6C7#^s-eb5129f7ecf34081c16d2804|9 straipsnio 5 dalies 11 punktą]] laikyti [[latest/TAR.5B99A78DA6C7|12 punktu]]. ^s-3f16f73008d632f95d4d4eb4
 
 
 
 ### 8 straipsnis. 10 straipsnio pakeitimas ^s-0cf65bc383105b8233a7d9e3
 
 
-Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.5B99A78DA6C7#^s-9227f2ee23f59e7b88fcc34f|10 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Siekdama bendradarbiauti su Europos Komisija ir teikti jai reikalingą paramą, konsultuoti suinteresuotas Lietuvos Respublikos institucijas teikiant moksliškai rizikos vertinimu pagrįstas išvadas su mityba, maisto sauga, kokybe ir vartotojų apsauga susijusiais klausimais, Valstybinė maisto ir veterinarijos tarnyba steigia tarpžinybinius mokslo komitetus.“
@@ -278,13 +278,13 @@ Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 9 straipsnis. 11 straipsnio pakeitimas ^s-afc55e2765ea85bbe57d60d1
 
 
-1. Pakeisti 11 straipsnio 5 dalies 3 punktą ir jį išdėstyti taip: ^s-8ba7428f4141fc1bc325695e
+1. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-39a10c6b2d2344612fa3272c|11 straipsnio 5 dalies 3 punktą]] ir jį išdėstyti taip: ^s-8ba7428f4141fc1bc325695e
 
 
 „3) tikrinti maistą, jo ženklinimą, su maistu besiliečiančius gaminius ir medžiagas, maistui tvarkyti, patalpoms ir įrenginiams valyti ir taisyti naudojamas priemones, medžiagas ir įrenginius;“.
 
 
-2. Pakeisti 11 straipsnio 6 dalį ir ją išdėstyti taip: ^s-846b29d0ce4185e98b09c94a
+2. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-6d50642aa998567bd7d6c661|11 straipsnio 6 dalį]] ir ją išdėstyti taip: ^s-846b29d0ce4185e98b09c94a
 
 
 „6. Nustačiusi šio įstatymo ar kitų teisės aktų pažeidimus, susijusius su maisto ar su maistu besiliečiančių gaminių ir medžiagų sauga, Valstybinė maisto ir veterinarijos tarnyba jos nustatyta tvarka turi teisę pagal kompetenciją taikyti vieną ar kelias iš šių pateikimo į rinką ribojimo priemonių:
@@ -314,7 +314,7 @@ Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 8) kitas įstatymų ar kitų teisės aktų nustatytas priemones.“ ^s-700deab319544440ee00c63f
 
 
-3. Pakeisti 11 straipsnio 7 dalį ir ją išdėstyti taip: ^s-0fe3c72069136d3b534fe5ad
+3. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-4c2bc21c328b35e929f3b2c5|11 straipsnio 7 dalį]] ir ją išdėstyti taip: ^s-0fe3c72069136d3b534fe5ad
 
 
 „7. Nustačiusi šio įstatymo ar kitų teisės aktų pažeidimus, Valstybinė maisto ir veterinarijos tarnyba jos nustatyta tvarka taip pat turi teisę pagal kompetenciją taikyti 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 882/2004 dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių, nustatytas administracinio poveikio priemones:
@@ -332,13 +332,13 @@ Pakeisti 10 straipsnio 1 dalį ir ją išdėstyti taip:
 4) maisto ar su maistu besiliečiančių gaminių ir medžiagų pateikimo į rinką uždraudimą.“ ^s-4821aacaa0122bac790594d2
 
 
-4. Pakeisti 11 straipsnio 8 dalį ir ją išdėstyti taip: ^s-a3c3d30804a40e7f2e22cfa6
+4. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-046602788d6436d7bbc9e023|11 straipsnio 8 dalį]] ir ją išdėstyti taip: ^s-a3c3d30804a40e7f2e22cfa6
 
 
 „8. Maisto tvarkymo subjektai ir su maistu besiliečiančių gaminių ir medžiagų gamintojai ar tiekėjai turi teisę apskųsti Valstybinės maisto ir veterinarijos tarnybos veiksmus [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] (toliau – [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymas]]) nustatyta tvarka.“
 
 
-5. Pakeisti 11 straipsnio 9 dalį ir ją išdėstyti taip: ^s-76a2b755370980cf5375c91f
+5. Pakeisti [[latest/TAR.5B99A78DA6C7#^s-c3d87f33756fef6ca74158ae|11 straipsnio 9 dalį]] ir ją išdėstyti taip: ^s-76a2b755370980cf5375c91f
 
 
 „9. Valstybinė maisto ir veterinarijos tarnyba privalo užtikrinti iš maisto tvarkymo subjektų ir su maistu besiliečiančių gaminių ir medžiagų gamintojų ir tiekėjų gautos informacijos, kuri sudaro komercinę paslaptį, konfidencialumą, išskyrus įstatymų nustatytus atvejus, ir vykdyti kitas įstatymų bei kitų teisės aktų nustatytas pareigas. Komercine paslaptimi negali būti laikomi šie duomenys apie maistą ar su maistu besiliečiančius gaminius ir medžiagas:
@@ -378,7 +378,7 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO NUOSTATŲ DĖL MAISTO AR SU MAISTU BESILIEČIAN�
 ### 121 straipsnis. Maisto ar su maistu besiliečiančių gaminių ir medžiagų pateikimo į rinką ribojimo priemonių taikymo pagrindai ^s-5dddfb4c23627fbf9c731276
 
 
-1. Maisto ar su maistu besiliečiančių gaminių ir medžiagų pateikimo į rinką ribojimo priemones (toliau – rinkos ribojimo priemonės) Valstybinė maisto ir veterinarijos tarnyba gali pagal kompetenciją taikyti, jeigu maistas ar su maistu besiliečiantys gaminiai ir medžiagos pateikiami į rinką pažeidžiant šio įstatymo [[#^s-254965ec0bce801a98249364|7 straipsnio]] 1, 2 ir (ar) 3 dalies reikalavimus. ^s-e08cee7049c3765eac5c2296
+1. Maisto ar su maistu besiliečiančių gaminių ir medžiagų pateikimo į rinką ribojimo priemones (toliau – rinkos ribojimo priemonės) Valstybinė maisto ir veterinarijos tarnyba gali pagal kompetenciją taikyti, jeigu maistas ar su maistu besiliečiantys gaminiai ir medžiagos pateikiami į rinką pažeidžiant šio įstatymo [[#^s-254965ec0bce801a98249364|7 straipsnio]] 1, 2 ir (ar) [[latest/TAR.5B99A78DA6C7|3 dalies]] reikalavimus. ^s-e08cee7049c3765eac5c2296
 
 
 2. Valstybinė maisto ir veterinarijos tarnyba pagal kompetenciją gali taikyti rinkos ribojimo priemones, jeigu yra pagrindas manyti, kad maistas ar su maistu besiliečiantys gaminiai ir medžiagos gali būti nesaugūs vartotojų sveikatai ar gyvybei. ^s-b9b8bf23d8554c17e2c9f1ed
@@ -444,7 +444,7 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO NUOSTATŲ DĖL MAISTO AR SU MAISTU BESILIEČIAN�
 ### 124 straipsnis. Baudų skyrimo terminas ^s-660da4509ea6659d34411a9a
 
 
-Šio įstatymo [[#^s-cd67acb6cc5c9ef91a024960|122 straipsnyje]] numatytas baudas Valstybinė maisto ir veterinarijos tarnyba gali skirti ne vėliau kaip per šešis mėnesius nuo šio įstatymo [[#^s-254965ec0bce801a98249364|7 straipsnio]] 1, 2 ir (ar) 3 dalies reikalavimų pažeidimo nustatymo, o jeigu toks pažeidimas yra tęstinis, – nuo jo išaiškėjimo dienos. Ši nuostata netaikoma, kai nesaugiu (nesaugiais) maistu ar su maistu besiliečiančiu (besiliečiančiais) gaminiu (gaminiais) ir medžiaga (medžiagomis) pakenkiama vartotojo sveikatai ar atimama gyvybė.
+Šio įstatymo [[#^s-cd67acb6cc5c9ef91a024960|122 straipsnyje]] numatytas baudas Valstybinė maisto ir veterinarijos tarnyba gali skirti ne vėliau kaip per šešis mėnesius nuo šio įstatymo [[#^s-254965ec0bce801a98249364|7 straipsnio]] 1, 2 ir (ar) [[latest/TAR.5B99A78DA6C7|3 dalies]] reikalavimų pažeidimo nustatymo, o jeigu toks pažeidimas yra tęstinis, – nuo jo išaiškėjimo dienos. Ši nuostata netaikoma, kai nesaugiu (nesaugiais) maistu ar su maistu besiliečiančiu (besiliečiančiais) gaminiu (gaminiais) ir medžiaga (medžiagomis) pakenkiama vartotojo sveikatai ar atimama gyvybė.
 
 
 
@@ -481,10 +481,10 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO NUOSTATŲ DĖL MAISTO AR SU MAISTU BESILIEČIAN�
 ### 127 straipsnis. Baudų išieškojimas ^s-6d0a8361cc857da4e7e6a09a
 
 
-1. Paskirtos baudos, numatytos šio įstatymo [[#^s-cd67acb6cc5c9ef91a024960|122 straipsnyje]], į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo tos dienos, kurią šio įstatymo pažeidėjas gavo nutarimą dėl baudos paskyrimo. ^s-c47c3cc5982d000ea8050b65
+1. Paskirtos baudos, numatytos šio įstatymo [[#^s-cd67acb6cc5c9ef91a024960|122 straipsnyje]], į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo tos dienos, kurią šio įstatymo pažeidėjas gavo nutarimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) paskyrimo. ^s-c47c3cc5982d000ea8050b65
 
 
-2. Nesumokėtos baudos išieškomos Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.“ ^s-07b961d722d360e1756a4687
+2. Nesumokėtos baudos išieškomos [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.“ ^s-07b961d722d360e1756a4687
 
 
 
@@ -493,10 +493,10 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO NUOSTATŲ DĖL MAISTO AR SU MAISTU BESILIEČIAN�
 ### 11 straipsnis. Įstatymo priedo pakeitimas ^s-305e57b9c190938fb7069e78
 
 
-Pakeisti Įstatymo priedo 3 punktą ir jį išdėstyti taip:
+Pakeisti Įstatymo priedo [[latest/TAR.5B99A78DA6C7|3 punktą]] ir jį išdėstyti taip:
 
 
-„3. 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 178/2002, nustatantis maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiantis Europos maisto saugos tarnybą ir nustatantis su maisto saugos klausimais susijusias procedūras (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 463).“
+„3. 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 178/2002, nustatantis maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiantis Europos maisto saugos tarnybą ir nustatantis su maisto saugos klausimais susijusias procedūras (OL 2004 m. specialusis leidimas, [[latest/TAR.5B99A78DA6C7|15 skyrius]], 6 tomas, p. 463).“
 
 
 

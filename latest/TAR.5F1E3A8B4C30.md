@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-ae75683f772b94013f92ead4
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 20 d. dekretą Nr. 347, ratifikuoja 1999 m. lapkričio 30 d. Geteborge priimtą 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos Protokolą dėl rūgštėjimo, eutrofikacijos ir pažemio ozono mažinimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. sausio 20 d. dekretą Nr. 347](https://e-tar.lt/portal/lt/legalAct/TAR.49DE5740C754), ratifikuoja 1999 m. lapkričio 30 d. Geteborge priimtą 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos Protokolą dėl rūgštėjimo, eutrofikacijos ir pažemio ozono mažinimo.
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-4a28261cfcec86bfd00adb7e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 1 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. balandžio 27 d. dekretą Nr. 594, ratifikuoja 2005 m. spalio 27 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės, Lenkijos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimą dėl valstybių sienų sankirtos nustatymo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 1 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. balandžio 27 d. dekretą Nr. 594](https://e-tar.lt/portal/lt/legalAct/TAR.4B6F6EE30AF1), ratifikuoja 2005 m. spalio 27 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės, Lenkijos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimą dėl valstybių sienų sankirtos nustatymo.
 
 
 

@@ -214,7 +214,7 @@ Asmuo, manantis, kad jam buvo taikomi šiame skyriuje nurodyti diskriminuojantys
 ### 11 straipsnis. Moterų ir vyrų lygių galimybių kontrolieriaus tarnybos teisiniai pagrindai ^s-6dd6124229c3b063ccce82f9
 
 
-1. Moterų ir vyrų lygių galimybių kontrolieriaus tarnyba vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-e2d66d0da96678cc213a0b8d
+1. Moterų ir vyrų lygių galimybių kontrolieriaus tarnyba vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo įstatymu, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-e2d66d0da96678cc213a0b8d
 
 
 2. Moterų ir vyrų lygių galimybių kontrolieriaus tarnyba savo veiklą grindžia teisėtumo, bešališkumo ir teisingumo principais. ^s-cba7dcc1bd575c0c0c6692cc

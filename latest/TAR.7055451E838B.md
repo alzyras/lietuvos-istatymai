@@ -281,7 +281,7 @@ Nr. XV-534, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19766
 
 
 5. Savivaldybės privatizavimo komisijos sprendimai yra skelbiami Teisės aktų registre. ^s-d72fb740572426cac0616bfd
-TAR pastaba. [[#^s-d72fb740572426cac0616bfd|6 straipsnio 5 dalies]] nuostatos taikomos savivaldybių privatizavimo komisijų sprendimams, priimtiems nuo 2022-11-01.
+TAR pastaba. 6 straipsnio 5 dalies nuostatos taikomos savivaldybių privatizavimo komisijų sprendimams, priimtiems nuo 2022-11-01.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1373, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15202
 
@@ -329,7 +329,7 @@ Nr. XV-534, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19766
 4. Jeigu privatizavimo objektas nuosavybės teise priklauso savivaldybei, [[#^s-337187a734bf1b1e74809c27|šio straipsnio 1 dalyje]] nurodytos privatizavimo lėšos pervedamos į savivaldybės biudžetą. Tais atvejais, kai sudaryta sutartis su centralizuotai valdomo valstybės turto valdytoju dėl savivaldybei nuosavybės teise priklausančių akcijų privatizavimo, privatizavimo lėšos, gautos privatizavus savivaldybei nuosavybės teise priklausančias akcijas, į savivaldybės biudžetą pervedamos pagal centralizuotai valdomo valstybės turto valdytojo ir savivaldybės tarybos įgalioto savivaldybės administracijos direktoriaus pasirašytą atstovavimo sutartį, atskaičius atlygį centralizuotai valdomo valstybės turto valdytojui už savivaldybei nuosavybės teise priklausančių akcijų privatizavimą, apskaičiuotą pagal Vyriausybės nustatytą atlygio už akcijų privatizavimą apskaičiavimo tvarką. ^s-c5eb5da176a093e3e0661470
 
 
-5. Jeigu valstybei nuosavybės teise priklausančios akcijos privatizuojamos kartu su savivaldybėms ar kitiems akcininkams nuosavybės teise priklausančiomis įmonės akcijomis, privatizavimo lėšos paskirstomos proporcingai atsižvelgiant į kiekvieno akcijų savininko dalį. Valstybei ir savivaldybei tenkančios lėšos pervedamos šio straipsnio 2 ir [[#^s-c5eb5da176a093e3e0661470|4 dalyse]] nustatyta tvarka atitinkamai į valstybės biudžetą ir savivaldybės biudžetą. Kitiems buvusiems akcijų savininkams tenkančios privatizavimo lėšos pervedamos atskaičius atlygį centralizuotai valdomo valstybės turto valdytojui, apskaičiuotą  proporcingai atsižvelgiant į kiekvieno akcijų savininko dalį pagal Vyriausybės nustatytą atlygio už akcijų privatizavimą apskaičiavimo tvarką. ^s-935a469dba1d6e60d5e2e952
+5. Jeigu valstybei nuosavybės teise priklausančios akcijos privatizuojamos kartu su savivaldybėms ar kitiems akcininkams nuosavybės teise priklausančiomis įmonės akcijomis, privatizavimo lėšos paskirstomos proporcingai atsižvelgiant į kiekvieno akcijų savininko dalį. Valstybei ir savivaldybei tenkančios lėšos pervedamos šio straipsnio [[#^s-435ad69bd9c1f97659a32495|2]] ir [[#^s-c5eb5da176a093e3e0661470|4]] dalyse nustatyta tvarka atitinkamai į valstybės biudžetą ir savivaldybės biudžetą. Kitiems buvusiems akcijų savininkams tenkančios privatizavimo lėšos pervedamos atskaičius atlygį centralizuotai valdomo valstybės turto valdytojui, apskaičiuotą  proporcingai atsižvelgiant į kiekvieno akcijų savininko dalį pagal Vyriausybės nustatytą atlygio už akcijų privatizavimą apskaičiavimo tvarką. ^s-935a469dba1d6e60d5e2e952
 
 
 Straipsnio pakeitimai:
@@ -359,19 +359,19 @@ PRIVATIZAVIMO OBJEKTŲ PARENGIMAS PRIVATIZUOTI
 ### 9 straipsnis. Privatizavimo objekto vertinimas ir pradinės kainos nustatymas ^s-7377d1c4dfe007717aedcb22
 
 
-1. Privatizavimo objektas vertinamas Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nurodytais vertės nustatymo metodais ir nustatyta tvarka, išskyrus atvejus, kai šiame įstatyme nustatyta kitaip. ^s-8246b59802947b35df55b2e0
+1. Privatizavimo objektas vertinamas [Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nurodytais vertės nustatymo metodais ir nustatyta tvarka, išskyrus atvejus, kai šiame įstatyme nustatyta kitaip. ^s-8246b59802947b35df55b2e0
 
 
-2. Privatizavimo objektą vertina viešuosius pirkimus reglamentuojančių teisės aktų nustatyta tvarka parinkti turto vertintojai, atitinkantys Turto ir verslo vertinimo pagrindų įstatyme nepriklausomiems turto vertintojams nustatytus reikalavimus. ^s-beb82fbbac3d09ece287aac3
+2. Privatizavimo objektą vertina viešuosius pirkimus reglamentuojančių teisės aktų nustatyta tvarka parinkti turto vertintojai, atitinkantys [Turto ir verslo vertinimo pagrindų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nepriklausomiems turto vertintojams nustatytus reikalavimus. ^s-beb82fbbac3d09ece287aac3
 
 
-3. Turto vertintojai teisės aktų ir sutartyje dėl turto įvertinimo nustatyta tvarka atsako už atlikto vertinimo teisingumą, jo atlikimo terminus, taip pat atlygina privatizavimo objekto valdytojui žalą, atsiradusią dėl netinkamai įvykdytų įsipareigojimų. ^s-c63f6a79bf655f929521828c
+3. Turto vertintojai teisės aktų ir sutartyje [dėl turto įvertinimo](https://e-tar.lt/portal/lt/legalAct/TAR.ACFFF8505A58) nustatyta tvarka atsako už atlikto vertinimo teisingumą, jo atlikimo terminus, taip pat atlygina privatizavimo objekto valdytojui žalą, atsiradusią dėl netinkamai įvykdytų įsipareigojimų. ^s-c63f6a79bf655f929521828c
 
 
-4. Turto ir verslo vertinimo pagrindų įstatyme nurodyti vertės nustatymo metodai privatizavimo institucijos sprendimu gali būti netaikomi viešo akcijų pardavimo ar viešo aukciono būdu parduodamų akcijų vertei nustatyti tais atvejais, kai valstybei (savivaldybei) nuosavybės teise priklauso mažiau kaip 1/3 akcinės bendrovės akcijų ir šios akcinės bendrovės akcijomis yra prekiaujama reguliuojamoje rinkoje. Šiuo atveju akcijos vertė yra akcijos rinkos kaina, nustatyta vadovaujantis vertybinių popierių rinką reglamentuojančiais teisės aktais. ^s-f30d8c86f147a145dce28ca2
+4. [Turto ir verslo vertinimo pagrindų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nurodyti vertės nustatymo metodai privatizavimo institucijos sprendimu gali būti netaikomi viešo akcijų pardavimo ar viešo aukciono būdu parduodamų akcijų vertei nustatyti tais atvejais, kai valstybei (savivaldybei) nuosavybės teise priklauso mažiau kaip 1/3 akcinės bendrovės akcijų ir šios akcinės bendrovės akcijomis yra prekiaujama reguliuojamoje rinkoje. Šiuo atveju akcijos vertė yra akcijos rinkos kaina, nustatyta vadovaujantis vertybinių popierių rinką reglamentuojančiais teisės aktais. ^s-f30d8c86f147a145dce28ca2
 
 
-5. Šio straipsnio 1 ir [[#^s-beb82fbbac3d09ece287aac3|2 dalyse]] nustatyti reikalavimai dėl privatizavimo objekto vertinimo privatizavimo institucijų sprendimu gali būti netaikomi, jeigu tam pritaria Privatizavimo komisija ir (ar) savivaldybės privatizavimo komisija, kai yra viena iš šių sąlygų: ^s-74759abcdd6f0afdce60e9b3
+5. Šio straipsnio [[#^s-8246b59802947b35df55b2e0|1]] ir [[#^s-beb82fbbac3d09ece287aac3|2]] dalyse nustatyti reikalavimai dėl privatizavimo objekto vertinimo privatizavimo institucijų sprendimu gali būti netaikomi, jeigu tam pritaria Privatizavimo komisija ir (ar) savivaldybės privatizavimo komisija, kai yra viena iš šių sąlygų: ^s-74759abcdd6f0afdce60e9b3
 
 
 1) į privatizavimo objektų sąrašą įtrauktų valstybei nuosavybės teise priklausančių įmonės akcijų nominaliųjų verčių suma yra mažesnė negu 10 000 eurų; ^s-27931ec6d4af239f8709fa54
@@ -509,7 +509,7 @@ Nr. XV-534, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19766
 9) privatizavimo objektas į privatizavimo objektų sąrašą įtrauktas pažeidžiant įstatymus; ^s-5a27033a12e3da1582d82981
 
 
-10) savivaldybės taryba yra priėmusi sprendimą dėl privatizavimo objekto, nuosavybės teise priklausančio tai savivaldybei, išbraukimo, kai tenkinama bent viena iš šios dalies 1–3, 5–[[#^s-5a27033a12e3da1582d82981|9 punktuose]] nurodytų sąlygų. ^s-4d9ed46d496c6e7ad1e86377
+10) savivaldybės taryba yra priėmusi sprendimą dėl privatizavimo objekto, nuosavybės teise priklausančio tai savivaldybei, išbraukimo, kai tenkinama bent viena iš šios dalies 1–3, 5–9 punktuose nurodytų sąlygų. ^s-4d9ed46d496c6e7ad1e86377
 
 
 Straipsnio dalies pakeitimai:
@@ -612,7 +612,7 @@ Nr. XV-534, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19766
 2) informuodama kiekvieną potencialų pirkėją, kuris raštu kreipiasi dėl informacijos apie privatizuojamas valstybės ar savivaldybės valdomos įmonės akcijas. ^s-ff59b3eea062e6fe21f64d8d
 
 
-4. Nuo privatizavimo objekto privatizavimo programų paskelbimo dienos iki privatizavimo sandorių sudarymo dienos arba iki šių objektų privatizavimo programų sustabdymo ir (ar) vykdymo nutraukimo dienos akcininkui – valstybei arba savivaldybei atstovaujantis asmuo bendrovėje, kurioje valstybė ar savivaldybė turi 1/2 ar mažiau akcijų, suteikiančių balso teisę visuotiniame akcininkų susirinkime (išskyrus atvejus, kai kelioms savivaldybėms nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime), tokiame susirinkime privalo balsuoti prieš, jeigu šios bendrovės visuotiniame akcininkų susirinkime būtų svarstomi šio straipsnio 1 ir [[#^s-f0caa60e0c48ff83bd3346ae|2 dalyse]] nustatyti klausimai. ^s-9d87310cf39b928365999ebe
+4. Nuo privatizavimo objekto privatizavimo programų paskelbimo dienos iki privatizavimo sandorių sudarymo dienos arba iki šių objektų privatizavimo programų sustabdymo ir (ar) vykdymo nutraukimo dienos akcininkui – valstybei arba savivaldybei atstovaujantis asmuo bendrovėje, kurioje valstybė ar savivaldybė turi 1/2 ar mažiau akcijų, suteikiančių balso teisę visuotiniame akcininkų susirinkime (išskyrus atvejus, kai kelioms savivaldybėms nuosavybės teise priklausančios akcijos suteikia daugiau kaip 1/2 balsų visuotiniame akcininkų susirinkime), tokiame susirinkime privalo balsuoti prieš, jeigu šios bendrovės visuotiniame akcininkų susirinkime būtų svarstomi šio straipsnio [[#^s-ab74cba389351e6ab21f0d36|1]] ir [[#^s-f0caa60e0c48ff83bd3346ae|2]] dalyse nustatyti klausimai. ^s-9d87310cf39b928365999ebe
 
 
 Straipsnio pakeitimai:
@@ -953,14 +953,14 @@ Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privati
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1169, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08642
-Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 2, 3, 4, 10, 11, 12, 13, 18 ir [[#^s-8511e08ed37cdc75a56f86ab|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 [[#^s-9c57b471a72fdc0aaae1d604|2]], [[#^s-5d0b6032615d85134ab025e5|3]], [[#^s-24d63c21308b5f98c80ee6ed|4]], [[#^s-1bc3716f7aa11883a5a52b5b|10]], [[#^s-48470960cf640248b19ae5a7|11]], [[#^s-419a77653bd46211f7e339da|12]], [[#^s-1b9dcf640c4b7dcaf7ab8d11|13]], [[#^s-5db413475378dbc8d8880a34|18]] ir [[#^s-8511e08ed37cdc75a56f86ab|21]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1373, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15202
-Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 19, 20 ir [[#^s-8511e08ed37cdc75a56f86ab|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 [[#^s-9c57b471a72fdc0aaae1d604|2]], [[#^s-5d0b6032615d85134ab025e5|3]], [[#^s-24d63c21308b5f98c80ee6ed|4]], [[#^s-5d8fa9c3fdd7d168acbfd490|5]], [[#^s-8fa3e2a2531918f20be10fa9|6]], [[#^s-679440c328443d0ff9d86b47|7]], [[#^s-7377d1c4dfe007717aedcb22|9]], [[#^s-1bc3716f7aa11883a5a52b5b|10]], [[#^s-48470960cf640248b19ae5a7|11]], [[#^s-419a77653bd46211f7e339da|12]], [[#^s-1b9dcf640c4b7dcaf7ab8d11|13]], [[#^s-28ee5960efdb4c2289ca6f39|19]], [[#^s-8645407789f3c86a0c9065c7|20]] ir [[#^s-8511e08ed37cdc75a56f86ab|21]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-534, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19766
-Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 2, 4, 5, 6, 7, 10, 11, 13, 14 ir [[#^s-6713fc2a2b011b69fd6f7a02|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybei ir savivaldybėms priklausančių akcijų privatizavimo įstatymo Nr. VIII-480 [[#^s-9c57b471a72fdc0aaae1d604|2]], [[#^s-24d63c21308b5f98c80ee6ed|4]], [[#^s-5d8fa9c3fdd7d168acbfd490|5]], [[#^s-8fa3e2a2531918f20be10fa9|6]], [[#^s-679440c328443d0ff9d86b47|7]], [[#^s-1bc3716f7aa11883a5a52b5b|10]], [[#^s-48470960cf640248b19ae5a7|11]], [[#^s-1b9dcf640c4b7dcaf7ab8d11|13]], [[#^s-166f423f0d0a873e0387835c|14]] ir [[#^s-6713fc2a2b011b69fd6f7a02|22]] straipsnių pakeitimo įstatymas

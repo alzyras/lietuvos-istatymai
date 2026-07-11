@@ -13,7 +13,5 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.FF00B0EA2F0E#^s-4f9dc3deda1019b96abdecc6|Lietuvos Respublikos asociacijų įstatymas]] - 3 citatos - 1101010ISTA0XI-1222
-- [[latest/TAR.FF00B0EA2F0E#^s-7d7b0929c1282adcb8b42d0c|Lietuvos Respublikos asociacijų įstatymas]] - 3 citatos - 1101010ISTA0XI-1222
+- [[latest/TAR.FF00B0EA2F0E#^s-4f9dc3deda1019b96abdecc6|Lietuvos Respublikos asociacijų įstatymas]] - 2 citatos - 1101010ISTA0XI-1222
 - [[latest/TAR.FF00B0EA2F0E#^s-b222d7ef99cb9529150ac963|Lietuvos Respublikos asociacijų įstatymas]] - 1101010ISTA0XI-1222
-- [[latest/TAR.FF00B0EA2F0E#^s-c184d6ac01095dfc3fffe502|Lietuvos Respublikos asociacijų įstatymas]] - 1101010ISTA0XI-1222

@@ -762,7 +762,7 @@ Nr. XIV-894, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00751
 7. Kontrolieriumi skiriamas nepriekaištingos reputacijos asmuo, turintis mokslo (meno) daktaro laipsnį ir vadovaujamo darbo patirties. ^s-22c118003cac1f6ea8df7b6e
 
 
-8. Kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis arba skiriamomis pareigomis valstybės ir savivaldybių institucijose, taip pat su darbu kitose įstaigose, įmonėse, organizacijose. Kontrolierius negali gauti jokio kito atlyginimo, išskyrus atlyginimą už kūrybinę veiklą ir dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose projektuose, kurie yra susiję su akademine etika ir Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnybos (toliau – Tarnyba) veiklos tobulinimu ir kuriuose nedalyvauja Lietuvos mokslo ir studijų institucijose dirbantys asmenys. Šios dalies nuostatos netaikomos šio straipsnio 9 ir [[#^s-ebb66e032869c8a130ee8ef3|10 dalyse]] nurodytais atvejais. ^s-94f7281ce70f29425fe24d20
+8. Kontrolieriaus pareigos nesuderinamos su jokiomis kitomis renkamomis arba skiriamomis pareigomis valstybės ir savivaldybių institucijose, taip pat su darbu kitose įstaigose, įmonėse, organizacijose. Kontrolierius negali gauti jokio kito atlyginimo, išskyrus atlyginimą už kūrybinę veiklą ir dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose projektuose, kurie yra susiję su akademine etika ir Lietuvos Respublikos akademinės etikos ir procedūrų kontrolieriaus tarnybos (toliau – Tarnyba) veiklos tobulinimu ir kuriuose nedalyvauja Lietuvos mokslo ir studijų institucijose dirbantys asmenys. Šios dalies nuostatos netaikomos šio straipsnio [[#^s-ed6bc7749e2bd0f49890b3dd|9]] ir [[#^s-ebb66e032869c8a130ee8ef3|10]] dalyse nurodytais atvejais. ^s-94f7281ce70f29425fe24d20
 
 
 9. Kai kontrolierius atostogauja arba dėl kitų priežasčių (ligos, komandiruotės ir pan.) negali eiti savo pareigų, Seimo valdybos sprendimu jį pavaduoja Seimo kontrolierius arba lygių galimybių kontrolierius, arba asmuo, atitinkantis kontrolieriui keliamus reikalavimus. ^s-ed6bc7749e2bd0f49890b3dd
@@ -1076,7 +1076,7 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 5. Tarybos nariais negali būti Respublikos Prezidentas, Europos Parlamento nariai, Seimo ir Vyriausybės nariai, savivaldybių merai ir savivaldybių tarybų nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai, taip pat aukštosios mokyklos darbuotojai, tiesiogiai pavaldūs rektoriui (direktoriui), bei įstaigų, įmonių ar organizacijų, kuriose aukštoji mokykla visuotiniame dalyvių susirinkime turi ne mažiau kaip 50 procentų visų juridinio asmens dalyvių balsų, vadovai ir jų pavaduotojai. Tarybos nariu negali būti senato (akademinės tarybos) narys. ^s-5b614b527c6648c58c52340e
-TAR pastaba. [[#^s-5b614b527c6648c58c52340e|27 straipsnio 5 dalyje]] numatytas draudimas valstybinės aukštosios mokyklos tarybos nariui būti Europos Parlamento nariu, savivaldybės meru ar savivaldybės tarybos nariu taikomas po [[latest/145eb2407c4811e8ae2bfd1913d66d57|įstatymo Nr. XIII-1312]] įsigaliojimo (2018-11-29) renkamiems aukštųjų mokyklų tarybų nariams.
+TAR pastaba. 27 straipsnio 5 dalyje numatytas draudimas valstybinės aukštosios mokyklos tarybos nariui būti Europos Parlamento nariu, savivaldybės meru ar savivaldybės tarybos nariu taikomas po [[latest/145eb2407c4811e8ae2bfd1913d66d57|įstatymo Nr. XIII-1312]] įsigaliojimo (2018-11-29) renkamiems aukštųjų mokyklų tarybų nariams.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1657, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19223
 
@@ -1608,14 +1608,14 @@ Nr. XV-608, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20821
 8) aukštoji mokykla yra likviduojama. ^s-29782b3ad5290b8bb9f0abc5
 
 
-2. Švietimo, mokslo ir sporto ministras per 20 darbo dienų nuo [[#^s-05fba6aee877aec5761b1c53|šio straipsnio 1 dalyje]] nurodytų aplinkybių paaiškėjimo dienos priima sprendimą panaikinti leidimą vykdyti studijas ir su studijomis susijusią veiklą. Sprendimas dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą panaikinimo įsigalioja nuo jo paskelbimo Teisės aktų registro informacinėje sistemoje dienos, jeigu pačiame įsakyme dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą panaikinimo nenumatyta vėlesnė jo įsigaliojimo data. ^s-5460501b7a28889e410a7a09
+2. Švietimo, mokslo ir sporto ministras per 20 darbo dienų nuo [[#^s-05fba6aee877aec5761b1c53|šio straipsnio 1 dalyje]] nurodytų aplinkybių paaiškėjimo dienos priima sprendimą panaikinti leidimą vykdyti studijas ir su studijomis susijusią veiklą. Sprendimas [dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą panaikinimo](https://e-tar.lt/portal/lt/legalAct/ce277920577e11e9975f9c35aedfe438) įsigalioja nuo jo paskelbimo Teisės aktų registro informacinėje sistemoje dienos, jeigu pačiame įsakyme [dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą panaikinimo](https://e-tar.lt/portal/lt/legalAct/ce277920577e11e9975f9c35aedfe438) nenumatyta vėlesnė jo įsigaliojimo data. ^s-5460501b7a28889e410a7a09
 Straipsnio dalies pakeitimai:
 Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 Nr. XV-608, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20821
 
 
 
-3. Panaikinus leidimą vykdyti studijas ir su studijomis susijusią veiklą, leidimą gavusi aukštoji mokykla arba užsienio valstybės aukštosios mokyklos filialas praranda teisę vykdyti studijas ir su studijomis susijusią veiklą nuo sprendimo dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą panaikinimo įsigaliojimo dienos. ^s-61e52ca888822953ef2bd9f6
+3. Panaikinus leidimą vykdyti studijas ir su studijomis susijusią veiklą, leidimą gavusi aukštoji mokykla arba užsienio valstybės aukštosios mokyklos filialas praranda teisę vykdyti studijas ir su studijomis susijusią veiklą nuo sprendimo [dėl leidimo vykdyti studijas ir su studijomis susijusią veiklą panaikinimo](https://e-tar.lt/portal/lt/legalAct/ce277920577e11e9975f9c35aedfe438) įsigaliojimo dienos. ^s-61e52ca888822953ef2bd9f6
 
 
 
@@ -2403,7 +2403,7 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 8. Aukštosios mokyklos gali nustatyti įvairias dėstytojų praktikų pareigybes. Tokie dėstytojai dėsto, veda praktinius užsiėmimus, vadovauja studentų praktiniams darbams, supažindina studentus su mokslinių tyrimų taikymu praktikoje, padeda jiems atlikti taikomosios mokslinės veiklos darbus, perteikia jiems praktinio darbo žinias. Su į šias pareigas aukštosios mokyklos nustatyta tvarka priimamais asmenimis gali būti sudaryta terminuota darbo sutartis ne ilgesniam kaip 2 metų laikotarpiui. Atlikdami pareigas tokie dėstytojai privalo dirbti praktinį darbą ne mokslo ir studijų institucijose, turėti ne mažesnę kaip 3 metų tokio praktinio darbo, susijusio su dėstymo sritimi, patirtį, profesinių pasiekimų ir atitikti aukštosios mokyklos numatytas dėstymo kompetencijas. Aukštosioms mokykloms, į kurias dėstyti atvyksta dėstytojai praktikai iš užsienio valstybių, šiai akademinei veiklai švietimo, mokslo ir sporto ministro nustatyta tvarka gali būti skiriama lėšų iš valstybės biudžeto. ^s-82f8daa7c9e8d4db169c608a
 
 
-9. Kvalifikacinius dėstytojų pareigybių reikalavimus, ne žemesnius, kaip nustatyti šio straipsnio 2–[[#^s-6466621a622390d5f0776062|7 dalyse]], konkursų šioms pareigoms eiti organizavimo ir dėstytojų atestavimo tvarką nustato aukštoji mokykla. ^s-16b108f952d9926239042756
+9. Kvalifikacinius dėstytojų pareigybių reikalavimus, ne žemesnius, kaip nustatyti šio straipsnio [[#^s-f43e28e5c92a5befb7bf87b7|2]]–[[#^s-6466621a622390d5f0776062|7]] dalyse, konkursų šioms pareigoms eiti organizavimo ir dėstytojų atestavimo tvarką nustato aukštoji mokykla. ^s-16b108f952d9926239042756
 
 
 Straipsnio pakeitimai:
@@ -2433,7 +2433,7 @@ Nr. XIV-2308, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24175
 6. Jaunesniojo mokslo darbuotojo pareigas gali eiti pradedantysis tyrėjas. Jaunesnysis mokslo darbuotojas turi atlikti arba padėti atlikti mokslinius tyrimus ir eksperimentinės plėtros darbus. ^s-5266fa34952f9947f3c2e44c
 
 
-7. Kvalifikacinius mokslo darbuotojų pareigybių reikalavimus, ne žemesnius, kaip nustatyti šio straipsnio 2–[[#^s-5266fa34952f9947f3c2e44c|6 dalyse]], konkursų šioms pareigoms eiti organizavimo ir mokslo darbuotojų atestavimo tvarką nustato mokslo ir studijų institucijos. Nustatydamos kvalifikacinius mokslo darbuotojų pareigybių reikalavimus, mokslo ir studijų institucijos turi atsižvelgti į Lietuvos mokslo tarybos nustatytus reikalavimus dėl visų tyrėjų pakopų privalomų kompetencijų. ^s-f708c0d5d1e3066fbc2b0b2f
+7. Kvalifikacinius mokslo darbuotojų pareigybių reikalavimus, ne žemesnius, kaip nustatyti šio straipsnio [[#^s-484050dd99cc2c3366d60dfd|2]]–[[#^s-5266fa34952f9947f3c2e44c|6]] dalyse, konkursų šioms pareigoms eiti organizavimo ir mokslo darbuotojų atestavimo tvarką nustato mokslo ir studijų institucijos. Nustatydamos kvalifikacinius mokslo darbuotojų pareigybių reikalavimus, mokslo ir studijų institucijos turi atsižvelgti į Lietuvos mokslo tarybos nustatytus reikalavimus dėl visų tyrėjų pakopų privalomų kompetencijų. ^s-f708c0d5d1e3066fbc2b0b2f
 
 
 Straipsnio pakeitimai:
@@ -2560,7 +2560,7 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 ### 72 straipsnis. Priėmimas į mokslo ir studijų institucijų dėstytojų ir mokslo darbuotojų pareigas ^s-40de2bef88e1436d01785246
 
 
-1. Į mokslo ir studijų institucijų dėstytojų ir mokslo darbuotojų, išskyrus asmenis, nurodytus šio įstatymo [[#^s-82f8daa7c9e8d4db169c608a|65 straipsnio 8 dalyje]], [[#^s-3001b28ffda91d6a3d63747b|68 straipsnyje]] ir šio straipsnio 10 ir [[#^s-a1ae87901bf8cd232097a3fc|11 dalyse]], pareigas asmenys priimami dirbti ne mažiau kaip 0,25 darbo laiko normos viešo konkurso būdu. Mokslo ir studijų institucijos nustatyti dėstytojų ir mokslo darbuotojų pareigybių kvalifikaciniai reikalavimai ir privalomos mokslo ir studijų institucijos tyrėjų kompetencijos šios institucijos nustatyta tvarka skelbiami viešai šios institucijos interneto svetainėje. ^s-e827b6e7cb57e7f602da16b0
+1. Į mokslo ir studijų institucijų dėstytojų ir mokslo darbuotojų, išskyrus asmenis, nurodytus šio įstatymo [[#^s-82f8daa7c9e8d4db169c608a|65 straipsnio 8 dalyje]], [[#^s-3001b28ffda91d6a3d63747b|68 straipsnyje]] ir šio straipsnio 10 ir 11 dalyse, pareigas asmenys priimami dirbti ne mažiau kaip 0,25 darbo laiko normos viešo konkurso būdu. Mokslo ir studijų institucijos nustatyti dėstytojų ir mokslo darbuotojų pareigybių kvalifikaciniai reikalavimai ir privalomos mokslo ir studijų institucijos tyrėjų kompetencijos šios institucijos nustatyta tvarka skelbiami viešai šios institucijos interneto svetainėje. ^s-e827b6e7cb57e7f602da16b0
 
 
 2. Viešas konkursas [[#^s-e827b6e7cb57e7f602da16b0|šio straipsnio 1 dalyje]] išvardytoms pareigoms eiti skelbiamas ne vėliau kaip 6 mėnesiai iki numatomos darbo pradžios. Pranešimas apie konkursą pareigoms eiti turi būti skelbiamas mokslo ir studijų institucijos ir Lietuvos mokslo tarybos interneto svetainėse, šalies ir, jeigu tikslinga, tarptautinėse visuomenės informavimo priemonėse. Konkurso sąlygose, inter alia, turi būti numatyta, kad pretendentas pateikia savo veiklos planą 5 metų laikotarpiui. ^s-dbf9e7b79c9718cb1ae85664
@@ -2578,7 +2578,7 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 6. Dėstytojui ar mokslo darbuotojui, dirbančiam pagal neterminuotą darbo sutartį, laimėjus konkursą eiti kitas dėstytojo ar mokslo darbuotojo pareigas toje pačioje mokslo ir studijų institucijoje, jo darbo santykiai jam einant naujas pareigas tęsiami pagal neterminuotą darbo sutartį. Jeigu konkurso sąlygas atitinka vienintelis kandidatas, toje mokslo ir studijų institucijoje pagal neterminuotą darbo sutartį einantis docento, asistento, lektoriaus, vyresniojo mokslo darbuotojo ar mokslo darbuotojo pareigas, jis gali būti perkeltas į aukštesnes pareigas toje pačioje mokslo ir studijų institucijoje (atitinkamai į profesoriaus, docento, vyresniojo lektoriaus, vyriausiojo mokslo darbuotojo ir vyresniojo mokslo darbuotojo) be konkurso. ^s-4eefa4bb9c4dfa57a27f0bda
 
 
-7. Neterminuotos darbo sutarties laikotarpiu dėstytojo ar mokslo darbuotojo pareigas einantis asmuo atestuojamas kas 5 metai arba jam gali būti rengiama neeilinė atestacija mokslo ir studijų institucijos nustatyta tvarka. Tokių asmenų atestacijos reikalavimus nustato mokslo ir studijų institucija. Šie reikalavimai turi būti ne žemesni kaip viešo konkurso dėstytojo ar mokslo darbuotojo pareigoms eiti reikalavimai. Laikotarpis, kuriuo asmeniui mokslo ir studijų institucija buvo suteikusi nėštumo ir gimdymo, tėvystės atostogas ar atostogas vaikui prižiūrėti, taip pat ligos laikotarpis, trunkantis ilgiau kaip 3 mėnesius, į atestacijos laikotarpį neįtraukiamas. Neatestuotas darbuotojas atleidžiamas iš darbo. Atleidžiamam darbuotojui taikomos garantijos, nustatytos [[latest/f6d686707e7011e6b969d7ae07280e89#^s-a192db00e835e2ddfe522bf7|Lietuvos Respublikos darbo kodekso 57 straipsnio]] 7, 8, [[#^s-5e667a57d36797a51209af2b|9 dalyse]]. ^s-4f763b02417a65827b19876e
+7. Neterminuotos darbo sutarties laikotarpiu dėstytojo ar mokslo darbuotojo pareigas einantis asmuo atestuojamas kas 5 metai arba jam gali būti rengiama neeilinė atestacija mokslo ir studijų institucijos nustatyta tvarka. Tokių asmenų atestacijos reikalavimus nustato mokslo ir studijų institucija. Šie reikalavimai turi būti ne žemesni kaip viešo konkurso dėstytojo ar mokslo darbuotojo pareigoms eiti reikalavimai. Laikotarpis, kuriuo asmeniui mokslo ir studijų institucija buvo suteikusi nėštumo ir gimdymo, tėvystės atostogas ar atostogas vaikui prižiūrėti, taip pat ligos laikotarpis, trunkantis ilgiau kaip 3 mėnesius, į atestacijos laikotarpį neįtraukiamas. Neatestuotas darbuotojas atleidžiamas iš darbo. Atleidžiamam darbuotojui taikomos garantijos, nustatytos [[latest/f6d686707e7011e6b969d7ae07280e89#^s-a192db00e835e2ddfe522bf7|Lietuvos Respublikos darbo kodekso 57 straipsnio]] [[latest/f6d686707e7011e6b969d7ae07280e89#^s-2ec3f38793808e1122c350dc|7]], [[latest/f6d686707e7011e6b969d7ae07280e89#^s-d98b932350f199698049ad5c|8]], [[latest/f6d686707e7011e6b969d7ae07280e89#^s-9ed1cc1fef289943883cc3c5|9]] dalyse. ^s-4f763b02417a65827b19876e
 
 
 8. Neterminuotos darbo sutarties laikotarpiu mokslo ir studijų institucijos vadovo siūlymu ir darbuotojo sutikimu pastarojo einamos tyrėjo pareigos gali būti keičiamos į kitas lygiavertes tos pačios pakopos tyrėjo pareigas (išskyrus mokslininko stažuotojo pareigas), jeigu darbuotojas atitinka toms pareigoms mokslo ir studijų institucijos nustatytus kvalifikacinius reikalavimus. ^s-6825199efc219281eb94079d
@@ -2676,7 +2676,7 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-9. Institutų direktoriai gali dirbti mokslinį ir pedagoginį darbą pagal instituto savininko teises ir pareigas įgyvendinančios institucijos (juridinio asmens dalyvių susirinkimo) ir direktoriaus susitarimą dėl papildomo darbo, fiksuojamą darbo sutartyje. Institutų direktoriams, jų pavaduotojams ir moksliniams sekretoriams, tame pačiame institute papildomai einantiems mokslo darbuotojo pareigas, už darbą einant šias pareigas apmokama vadovaujantis [[#^s-5995a12c78f9ea93e5bf5b3c|šio straipsnio 5 dalies]] 3–6 punktų ir šio straipsnio 10–[[#^s-3e3f7a8c70a4c20362990d7e|12 dalių]] nuostatomis. ^s-84e2f1b7044fafa855476cb5
+9. Institutų direktoriai gali dirbti mokslinį ir pedagoginį darbą pagal instituto savininko teises ir pareigas įgyvendinančios institucijos (juridinio asmens dalyvių susirinkimo) ir direktoriaus susitarimą dėl papildomo darbo, fiksuojamą darbo sutartyje. Institutų direktoriams, jų pavaduotojams ir moksliniams sekretoriams, tame pačiame institute papildomai einantiems mokslo darbuotojo pareigas, už darbą einant šias pareigas apmokama vadovaujantis [[#^s-5995a12c78f9ea93e5bf5b3c|šio straipsnio 5 dalies]] 3–6 punktų ir šio straipsnio [[#^s-1a39da2e2cf92da5b6cf7ecc|10]]–[[#^s-3e3f7a8c70a4c20362990d7e|12]] dalių nuostatomis. ^s-84e2f1b7044fafa855476cb5
 Straipsnio dalies pakeitimai:
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
@@ -2711,7 +2711,7 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 
-13. Šio straipsnio 7 ir [[#^s-04113ae5fdf8dc3f4c608eed|11 dalyse]] nurodyti priedai ir priemokos gali būti skiriami nurodant konkretų, bet ne ilgesnį kaip iki kalendorinių metų pabaigos, terminą. ^s-6a8d78ce198b149f578874ff
+13. Šio straipsnio [[#^s-93c1dc9ac8af722d7074e37b|7]] ir [[#^s-04113ae5fdf8dc3f4c608eed|11]] dalyse nurodyti priedai ir priemokos gali būti skiriami nurodant konkretų, bet ne ilgesnį kaip iki kalendorinių metų pabaigos, terminą. ^s-6a8d78ce198b149f578874ff
 Straipsnio dalies pakeitimai:
 Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
 
@@ -2946,7 +2946,7 @@ Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
 4. Formaliojo vertinimo kriterijų svorio koeficientus tvirtina Vyriausybė ar jos įgaliota institucija, atsižvelgdama į Lietuvos mokslo tarybos siūlymą. ^s-2e663a72c0c8aa0c66b617a5
 
 
-5. Duomenis, kurių reikia siekiant atlikti šio straipsnio 1–[[#^s-39a6dcef2b4326cfcdf80b52|3 dalyse]] nurodytus vertinimus, mokslo ir studijų institucijos teikia Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. ^s-51fc72c0c3d3b23d30a19045
+5. Duomenis, kurių reikia siekiant atlikti šio straipsnio [[#^s-98ac6ef09b7f7ea11b1dbc00|1]]–[[#^s-39a6dcef2b4326cfcdf80b52|3]] dalyse nurodytus vertinimus, mokslo ir studijų institucijos teikia Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. ^s-51fc72c0c3d3b23d30a19045
 
 
 6. Mokslinių tyrimų ir eksperimentinės plėtros ekspertinį vertinimą, meno veiklos ekspertinį vertinimą ir formalųjį vertinimą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atlieka Lietuvos mokslo taryba. ^s-a063af3b04af6df32b237ad7
@@ -3281,7 +3281,7 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 4) asmenys vienu metu studijuoja pagal dvi ar daugiau trumposios pakopos studijų programas ir bent viena jų finansuojama valstybės biudžeto lėšomis. ^s-383dc3037c90f72e273e715f
 
 
-2. Teisės šio įstatymo 77 ir [[#^s-1c7821830c5181afec29e93f|79 straipsniuose]] nustatyta tvarka į valstybės finansuojamą studijų vietą ar į studijų kainos kompensavimą neturi: ^s-6c2e2e2b6fe2a13669952d4f
+2. Teisės šio įstatymo [[#^s-26cf4d11d371c16ec1ce7fbe|77]] ir [[#^s-1c7821830c5181afec29e93f|79]] straipsniuose nustatyta tvarka į valstybės finansuojamą studijų vietą ar į studijų kainos kompensavimą neturi: ^s-6c2e2e2b6fe2a13669952d4f
 
 
 1) asmenys, pakartotinai studijuojantys pagal tos pačios pakopos studijų programą, jeigu daugiau kaip pusę tos studijų programos kreditų jie įgijo valstybės biudžeto lėšomis; jeigu asmuo baigė vientisųjų studijų programą ir daugiau kaip pusę studijų programos kreditų įgijo valstybės biudžeto lėšomis, teisės į valstybės finansuojamą pirmosios pakopos studijų vietą ir studijų kainos kompensavimą asmuo nebeturi; jeigu asmuo baigė pirmosios pakopos studijų programą ir daugiau kaip pusę studijų programos kreditų įgijo valstybės biudžeto lėšomis, teisės į valstybės finansuojamą vientisųjų studijų vietą ir studijų kainos kompensavimą asmuo nebeturi; jeigu asmuo baigė antrosios pakopos studijų programą ir daugiau kaip pusę studijų programos kreditų įgijo valstybės biudžeto lėšomis, teisės į valstybės finansuojamą vientisųjų studijų vietą ir studijų kainos kompensavimą asmuo nebeturi; ^s-3ba17cc6a63bdcb352bcfab6
@@ -3296,7 +3296,7 @@ Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
 4) asmenys, pakartotinai studijuojantys pagal trumposios pakopos studijų programą, jeigu daugiau kaip pusę tos studijų programos kreditų jie įgijo valstybės biudžeto lėšomis; ^s-416f24be5e7f92e7317c26aa
 
 
-5) užsieniečiai, išskyrus šio įstatymo [[#^s-3dfe269c245c87c18a12e966|82 straipsnio]] 7 ir 8 dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečius, dirbančius ir (arba) turinčius teisę nuolat arba laikinai gyventi Lietuvos Respublikoje, ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius teisę nuolat gyventi Lietuvos Respublikoje, taip pat išskyrus kitus užsieniečius ir asmenis be pilietybės, turinčius teisę nuolat ar laikinai gyventi Lietuvos Respublikoje arba turinčius teisę likti Lietuvos Respublikos teritorijoje Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 221 straipsnio 1 dalies 5 punkte nurodytu atveju, įgijusius vidurinį išsilavinimą pagal Lietuvos vidurinio ugdymo programą, studijuojančius pagal trumposios, pirmosios pakopų ar vientisųjų studijų programą, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose įstatymuose nenustatyta kitaip. ^s-6b6fe22b4fd65ea356b20634
+5) užsieniečiai, išskyrus šio įstatymo [[#^s-3dfe269c245c87c18a12e966|82 straipsnio]] [[#^s-461c02389c5290d9050755f5|7]] ir [[#^s-fddb8111d29a88eba4e71aa4|8]] dalyse nurodytus asmenis, taip pat Europos Sąjungos valstybių narių, Europos laisvosios prekybos asociacijos valstybių piliečius, dirbančius ir (arba) turinčius teisę nuolat arba laikinai gyventi Lietuvos Respublikoje, ir jų šeimos narius, kitų užsienio valstybių piliečius ir asmenis be pilietybės, turinčius teisę nuolat gyventi Lietuvos Respublikoje, taip pat išskyrus kitus užsieniečius ir asmenis be pilietybės, turinčius teisę nuolat ar laikinai gyventi Lietuvos Respublikoje arba turinčius teisę likti Lietuvos Respublikos teritorijoje Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 221 straipsnio 1 dalies 5 punkte nurodytu atveju, įgijusius vidurinį išsilavinimą pagal Lietuvos vidurinio ugdymo programą, studijuojančius pagal trumposios, pirmosios pakopų ar vientisųjų studijų programą, jeigu Lietuvos Respublikos tarptautinėse sutartyse ar kituose įstatymuose nenustatyta kitaip. ^s-6b6fe22b4fd65ea356b20634
 Straipsnio punkto pakeitimai:
 Nr. XV-949, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08450
 
@@ -3667,7 +3667,7 @@ Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
 
 
 5. Valstybės kontrolė atlieka valstybinių mokslo ir studijų institucijų auditą teisės aktų nustatyta tvarka. Valstybinių mokslo ir studijų institucijų, kurių teisinė forma yra viešoji įstaiga, finansinių ataskaitų auditas turi būti atliekamas [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme]] ir [[latest/TAR.1E52802BE548|Lietuvos Respublikos viešųjų įstaigų įstatyme]] nustatytais atvejais. ^s-d8ac9d330b95bd4d4507ee3a
-TAR pastaba. [[#^s-d8ac9d330b95bd4d4507ee3a|5 dalies]] nuostatos taikomos 2018 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių valstybinių mokslo ir studijų institucijų, veikiančių kaip viešosios įstaigos, finansinių ataskaitų rinkinių auditams.
+TAR pastaba. 5 dalies nuostatos taikomos 2018 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių valstybinių mokslo ir studijų institucijų, veikiančių kaip viešosios įstaigos, finansinių ataskaitų rinkinių auditams.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1186, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09077
 
@@ -3707,7 +3707,7 @@ VALSTYBINIŲ AUKŠTŲJŲ MOKYKLŲ TURTO VALDYMAS, NAUDOJIMAS IR DISPONAVIMAS JUO
 
 
 1. Valstybė jai nuosavybės teise priklausantį ilgalaikį materialųjį turtą Vyriausybės nustatyta tvarka gali perduoti valstybinėms aukštosioms mokykloms patikėjimo teise pagal patikėjimo sutartį. Sprendimą dėl turto perdavimo patikėjimo teise priima Vyriausybė. Tokiame sprendime turi būti nurodyta valstybės institucija ar įstaiga, įgaliota sudaryti turto patikėjimo sutartį. Valstybinės aukštosios mokyklos negali šio turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, išskyrus [[latest/TAR.82D8168D3049#^s-e16afbf468244b0bdec26304|Lietuvos Respublikos elektroninių ryšių įstatymo 461 straipsnyje]] nustatytą išimtį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų. ^s-54635e13aba57ebfa816abae
-TAR pastaba: [[#^s-54635e13aba57ebfa816abae|87 straipsnio 1 dalies]] nuostatos taikomos ir valstybės nekilnojamajam turtui, kuris valstybinėms aukštosioms mokykloms yra perduotas patikėjimo teise valdyti, naudoti ir disponuoti juo pagal patikėjimo sutartis, sudarytas iki 2023-10-26  [[latest/23b247507d6111eea5a28c81c82193a8|įstatymo Nr. XIV-2203]] įsigaliojimo dienos (2024-01-01) .
+TAR pastaba: 87 straipsnio 1 dalies nuostatos taikomos ir valstybės nekilnojamajam turtui, kuris valstybinėms aukštosioms mokykloms yra perduotas patikėjimo teise valdyti, naudoti ir disponuoti juo pagal patikėjimo sutartis, sudarytas iki 2023-10-26  [[latest/23b247507d6111eea5a28c81c82193a8|įstatymo Nr. XIV-2203]] įsigaliojimo dienos (2024-01-01) .
 Straipsnio dalies pakeitimai:
 Nr. XIV-2203, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21643
 
@@ -3750,7 +3750,7 @@ Nr. XIV-2203, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21643
 4) kitos piniginės lėšos, išskyrus valstybės biudžeto lėšas; ^s-c9563d90de4b6ef541bc15d7
 
 
-5) iš valstybės biudžeto lėšų ir iš šios dalies 2–[[#^s-c9563d90de4b6ef541bc15d7|4 punktuose]] numatytų lėšų įgytas turtas, išskyrus nekilnojamąjį turtą, įgytą už Europos Sąjungos paramą, valstybės biudžeto ir valstybės fondų lėšas; ^s-e882171c9d21142912a20a22
+5) iš valstybės biudžeto lėšų ir iš šios dalies [[#^s-c18762a25b619a2d9b505050|2]]–[[#^s-c9563d90de4b6ef541bc15d7|4]] punktuose numatytų lėšų įgytas turtas, išskyrus nekilnojamąjį turtą, įgytą už Europos Sąjungos paramą, valstybės biudžeto ir valstybės fondų lėšas; ^s-e882171c9d21142912a20a22
 
 
 6) dovanotas turtas; ^s-b8a7ddc15f5ef2edf0ac0736
@@ -3762,7 +3762,7 @@ Nr. XIV-2203, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21643
 8) turtinės teisės, atsirandančios iš intelektinės veiklos rezultatų (mokslo ar meno kūrinių ir pramoninės nuosavybės teisių objektų – išradimų patentų, dizaino, prekių ženklų ir puslaidininkinių gaminių topografijų, kitų intelektinės nuosavybės objektų); ^s-27c8e9595b8e2ab1acee4b13
 
 
-9) pajamos, turtas ar kita nauda, gauta valdant, naudojant šios dalies 1–[[#^s-27c8e9595b8e2ab1acee4b13|8 punktuose]] nurodytas lėšas ar kitą turtą ir jais disponuojant, išskyrus šiame įstatyme nustatytus atvejus. ^s-a96cb17ded39ca77ca842ce1
+9) pajamos, turtas ar kita nauda, gauta valdant, naudojant šios dalies [[#^s-8a48dde6690bbeb3e63a057b|1]]–[[#^s-27c8e9595b8e2ab1acee4b13|8]] punktuose nurodytas lėšas ar kitą turtą ir jais disponuojant, išskyrus šiame įstatyme nustatytus atvejus. ^s-a96cb17ded39ca77ca842ce1
 
 
 2. Valdydamos, naudodamos [[#^s-03128afc769fdfa8205d1602|šio straipsnio 1 dalyje]] numatytą turtą ir juo disponuodamos, valstybinės aukštosios mokyklos gali sudaryti tik tokius civilinius sandorius, kurie neprieštarauja jų steigimo dokumentams ir veiklos tikslams. ^s-491aea30940b531c9f94bc58
@@ -3836,7 +3836,7 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1920, 2012-01-19, Žin., 2012, Nr. 13-554 (2012-01-28)
 [[latest/TAR.29E3D98AEDFC|MOKSLO IR STUDIJŲ ĮSTATYMO 7, 11, 21, 22, 69, 70 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo [[#^s-ed42e6d24d2bba5cee50ac8f|6 straipsnyje]] išdėstytos Lietuvos Respublikos mokslo ir studijų įstatymo 70 straipsnio 7 dalies nuostatos taikomos ir asmenims, kurių pirmosios pakopos ar vientisosios studijos yra valstybės finansuojamos ir kurie į aukštąsias mokyklas priimti iki šio įstatymo įsigaliojimo, bet ne anksčiau kaip 2009 m. gegužės 12 d., jeigu jų studijų sutartyse nėra numatyta kitokia studijų rezultatų palyginimo tvarka.
+Šio įstatymo [[#^s-ed42e6d24d2bba5cee50ac8f|6 straipsnyje]] išdėstytos [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymo 70 straipsnio 7 dalies]] nuostatos taikomos ir asmenims, kurių pirmosios pakopos ar vientisosios studijos yra valstybės finansuojamos ir kurie į aukštąsias mokyklas priimti iki šio įstatymo įsigaliojimo, bet ne anksčiau kaip 2009 m. gegužės 12 d., jeigu jų studijų sutartyse nėra numatyta kitokia studijų rezultatų palyginimo tvarka.
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3865,7 +3865,7 @@ Konstitucinio Teismo nutarimas:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2011-12-22, Žin., 2011, Nr. 160-7591 (2011-12-28)
-DĖL LIETUVOS RESPUBLIKOS MOKSLO IR STUDIJŲ ĮSTATYMO (2009 M. BALANDŽIO 30 D. REDAKCIJA) NUOSTATŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS MOKSLO IR STUDIJŲ ĮSTATYMO (2009 M. BALANDŽIO 30 D. REDAKCIJA) NUOSTATŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.7F5076246381)
 
 
 
@@ -3876,7 +3876,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT48-N15/2014, 2014-11-10, paskelbta TAR 2014-11-10, i. k. 2014-16400
-Dėl Lietuvos Respublikos mokslo ir studijų įstatymo 20 straipsnio 3 dalies (2012 m. balandžio 24 d. redakcija), 70 straipsnio 7 dalies (2012 m. sausio 19 d. redakcija) nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos mokslo ir studijų įstatymo 20 straipsnio 3 dalies (2012 m. balandžio 24 d. redakcija), 70 straipsnio 7 dalies (2012 m. sausio 19 d. redakcija) nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/326e90a068df11e4b6b89037654e22b1)
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3886,7 +3886,7 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-15f33ea5a7d5b
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2198, 2015-12-17, paskelbta TAR 2015-12-29, i. k. 2015-20896
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 7, 42 ir [[#^s-3aafe6f9da4a55c3b0279a02|52 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-a803d9dd150b2e05b4cbce22|7]], [[#^s-0602938458f78b8f1ece4f08|42]] ir [[#^s-3aafe6f9da4a55c3b0279a02|52]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3926,7 +3926,7 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-8013b69cfae9b
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-625, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12341
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 75 ir [[#^s-20a6e95a48d016cbfda05d42|83 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-01b2fd020c8320088d514766|75]] ir [[#^s-20a6e95a48d016cbfda05d42|83]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3941,7 +3941,7 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pak
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-891, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21317
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 19 ir [[#^s-905da0e1f8868a30f2823308|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-cf284f252a10b5d776b0cb4a|19]] ir [[#^s-905da0e1f8868a30f2823308|21]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3951,7 +3951,7 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-eb8136890a42b
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1059, 2018-03-22, paskelbta TAR 2018-03-29, i. k. 2018-04815
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 80 ir [[#^s-3dfe269c245c87c18a12e966|82 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-15f33ea5a7d5b161a62395e6|80]] ir [[#^s-3dfe269c245c87c18a12e966|82]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3961,7 +3961,7 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-8013b69cfae9b
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1170, 2018-05-17, paskelbta TAR 2018-05-23, i. k. 2018-08264
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 2, 4 ir [[#^s-74d7c99566d4aaea319aedb4|49 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-d502a316a3dfbfafa3de4ab1|2]], [[#^s-632ff32a813f7edc4d61edd6|4]] ir [[#^s-74d7c99566d4aaea319aedb4|49]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3971,7 +3971,7 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-3aafe6f9da4a5
 20.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT15-N10/2018, 2018-06-29, paskelbta TAR 2018-06-29, i. k. 2018-10929
-Dėl [[#^s-aa1bd649a37a654e542eca2c|Lietuvos Respublikos mokslo ir studijų įstatymo 27 straipsnio 2 dalies 9 punkto]], [[#^s-2dd7d167310adf9905c272cc|38 straipsnio 1 dalies]], [[#^s-68861eaaf6c8375f5faa487f|39 straipsnio 1 dalies]] atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Seimo 2018 m. sausio 12 d. nutarimo Nr. XIII-1021 „Dėl pritarimo Lietuvos sporto universiteto reorganizavimui prijungimo prie Lietuvos sveikatos mokslų universiteto būdu“ atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos mokslo ir studijų įstatymui
+Dėl Lietuvos Respublikos mokslo ir studijų įstatymo [[#^s-aa1bd649a37a654e542eca2c|27 straipsnio 2 dalies 9 punkto]], [[#^s-2dd7d167310adf9905c272cc|38 straipsnio 1 dalies]], [[#^s-68861eaaf6c8375f5faa487f|39 straipsnio 1 dalies]] atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos Seimo [2018 m. sausio 12 d. nutarimo Nr. XIII-1021](https://e-tar.lt/portal/lt/legalAct/db8a22d0fb5311e78bcec397524184ce) [„Dėl pritarimo Lietuvos sporto universiteto reorganizavimui prijungimo prie Lietuvos sveikatos mokslų universiteto būdu“](https://e-tar.lt/portal/lt/legalAct/db8a22d0fb5311e78bcec397524184ce) atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos mokslo ir studijų įstatymui
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3991,7 +3991,7 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pak
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1369, 2018-06-29, paskelbta TAR 2018-07-10, i. k. 2018-11698
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 54 ir [[#^s-26cf4d11d371c16ec1ce7fbe|77 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-0ad3afcc854939168f29bc92|54]] ir [[#^s-26cf4d11d371c16ec1ce7fbe|77]] straipsnių pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4001,7 +4001,7 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-3dfe269c245c8
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1415, 2018-06-30, paskelbta TAR 2018-07-13, i. k. 2018-11960
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 14, 15, 21, 23, 24, [[#^s-ac1b671cb833e4398275835d|84 straipsnių]] pakeitimo ir 18, [[#^s-03c7860376f2d8fe970025e1|25 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]], [[#^s-09b98f9b2943a7207bc15e9f|14]], [[#^s-744e4fc5597f70499d2b525f|15]], [[#^s-905da0e1f8868a30f2823308|21]], [[#^s-217b529d175c0f9f808b6197|23]], [[#^s-1a50cee455759bc405b3ba84|24]], [[#^s-ac1b671cb833e4398275835d|84]] straipsnių pakeitimo ir [[#^s-c19d22b5786d2a6a3794d4cb|18]], [[#^s-03c7860376f2d8fe970025e1|25]] straipsnių pripažinimo netekusiais galios įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4011,7 +4011,7 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-422e7e85d0982
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1658, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19227
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 48, 52, 53, 58, 59, 77, 78, 79 ir [[#^s-3dfe269c245c87c18a12e966|82 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]], [[#^s-8306987e490a0d889059ea97|10]], [[#^s-8aff9fb954e1cd7485c89b38|11]], [[#^s-eb8136890a42b031f0c7335b|48]], [[#^s-3aafe6f9da4a55c3b0279a02|52]], [[#^s-47bf88fba1db05b33399ca39|53]], [[#^s-d98bb46c594622fb5ee3a007|58]], [[#^s-0ba43836837d5b244e730cf2|59]], [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-9624916bed2f6a2827b0722c|78]], [[#^s-1c7821830c5181afec29e93f|79]] ir [[#^s-3dfe269c245c87c18a12e966|82]] straipsnių pakeitimo įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4026,7 +4026,7 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-3dfe269c245c8
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2057, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06693
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 80 ir [[#^s-3dfe269c245c87c18a12e966|82 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-15f33ea5a7d5b161a62395e6|80]] ir [[#^s-3dfe269c245c87c18a12e966|82]] straipsnių pakeitimo įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4036,7 +4036,7 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-26cf4d11d371c
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2367, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12448
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 9, 14 ir [[#^s-905da0e1f8868a30f2823308|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-2fcbe1e3f85925e72041a77a|9]], [[#^s-09b98f9b2943a7207bc15e9f|14]] ir [[#^s-905da0e1f8868a30f2823308|21]] straipsnių pakeitimo įstatymas
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4056,17 +4056,17 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pak
 37.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3415, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24584
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 48, 52 ir [[#^s-0ba43836837d5b244e730cf2|59 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-eb8136890a42b031f0c7335b|48]], [[#^s-3aafe6f9da4a55c3b0279a02|52]] ir [[#^s-0ba43836837d5b244e730cf2|59]] straipsnių pakeitimo įstatymas
 
 38.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3116, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15349
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 20 ir [[#^s-1a50cee455759bc405b3ba84|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]], [[#^s-19688a85f80833594dc8daae|20]] ir [[#^s-1a50cee455759bc405b3ba84|24]] straipsnių pakeitimo įstatymas
 
 39.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3153, 2020-06-25, paskelbta TAR 2020-06-29, i. k. 2020-14368
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 76 ir [[#^s-3dfe269c245c87c18a12e966|82 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-ead9af22ec3c823c0a3f6c9b|76]] ir [[#^s-3dfe269c245c87c18a12e966|82]] straipsnių pakeitimo įstatymas
 
 40.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4076,22 +4076,22 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pak
 41.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT208-N17/2020, 2020-12-07, paskelbta TAR 2021-07-01, i. k. 2021-14848
-Dėl [[#^s-01b2fd020c8320088d514766|Lietuvos Respublikos mokslo ir studijų įstatymo 75 straipsnio]] 2, [[#^s-eb988852d8a527a43cbcff06|3 dalių]], Lietuvos Respublikos Vyriausybės 2017 m. kovo 1 d. nutarimo Nr. 149 „Dėl Lietuvos Respublikos mokslo ir studijų įstatymo įgyvendinimo“ 1.2, 3.6 papunkčių ir šiuo nutarimu patvirtinto Lietuvos Respublikos valstybės biudžeto lėšų moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai plėtoti skyrimo mokslo ir studijų institucijoms tvarkos aprašo atitikties Lietuvos Respublikos Konstitucijai
+Dėl Lietuvos Respublikos mokslo ir studijų įstatymo [[#^s-01b2fd020c8320088d514766|75 straipsnio]] [[#^s-c5e9c0ebba1958fbe530eaba|2]], [[#^s-f47640c322d4fb35827bda03|3]] dalių, Lietuvos Respublikos Vyriausybės [2017 m. kovo 1 d. nutarimo Nr. 149](https://e-tar.lt/portal/lt/legalAct/29ad846004a211e79ba1ee3112ade9bc) [„Dėl Lietuvos Respublikos mokslo ir studijų įstatymo įgyvendinimo“](https://e-tar.lt/portal/lt/legalAct/29ad846004a211e79ba1ee3112ade9bc) 1.2, 3.6 papunkčių ir šiuo nutarimu patvirtinto Lietuvos Respublikos valstybės biudžeto lėšų moksliniams tyrimams, eksperimentinei plėtrai ir meno veiklai plėtoti skyrimo mokslo ir studijų institucijoms tvarkos aprašo atitikties Lietuvos Respublikos Konstitucijai
 
 42.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-448, 2021-06-29, paskelbta TAR 2021-06-30, i. k. 2021-14797
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 75, [[#^s-ac1b671cb833e4398275835d|84 straipsnių]] pakeitimo ir Įstatymo papildymo 75-1, 75-2, 75-3 straipsniais įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-01b2fd020c8320088d514766|75]], [[#^s-ac1b671cb833e4398275835d|84]] straipsnių pakeitimo ir Įstatymo papildymo 75-1, 75-2, 75-3 straipsniais įstatymas
 
 43.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-449, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15453
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4 ir [[#^s-8013b69cfae9bf3a6756b1c6|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]] ir [[#^s-8013b69cfae9bf3a6756b1c6|17]] straipsnių pakeitimo įstatymas
 
 44.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-654, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25020
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, [[#^s-20a6e95a48d016cbfda05d42|83 straipsnių]] pakeitimo, [[#^s-2fcbe1e3f85925e72041a77a|9 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-4254b0547f971d753273b23f|46]], [[#^s-0ba43836837d5b244e730cf2|59]], [[#^s-ad7fbe321507bae6d7295c89|74]], [[#^s-01b2fd020c8320088d514766|75]], 75-1, 75-2, 75-3, [[#^s-ead9af22ec3c823c0a3f6c9b|76]], [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-3dfe269c245c87c18a12e966|82]], [[#^s-20a6e95a48d016cbfda05d42|83]] straipsnių pakeitimo, [[#^s-2fcbe1e3f85925e72041a77a|9 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais įstatymas
 
 45.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4101,12 +4101,12 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pak
 46.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-894, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00751
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 15, [[#^s-a6d58181dbff165eebfec7eb|73 straipsnių]] pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-744e4fc5597f70499d2b525f|15]], [[#^s-a6d58181dbff165eebfec7eb|73]] straipsnių pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
 
 47.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-738, 2021-12-09, paskelbta TAR 2021-12-15, i. k. 2021-25851
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 14, [[#^s-ac1b671cb833e4398275835d|84 straipsnių]] pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-09b98f9b2943a7207bc15e9f|14]], [[#^s-ac1b671cb833e4398275835d|84]] straipsnių pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
 
 48.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4116,27 +4116,27 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-8013b69cfae9b
 49.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1257, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15485
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, [[#^s-ef5f84479481726df77ce7a0|85 straipsnių]] pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]], [[#^s-8306987e490a0d889059ea97|10]], [[#^s-8aff9fb954e1cd7485c89b38|11]], [[#^s-744e4fc5597f70499d2b525f|15]], [[#^s-422e7e85d09823655c0d12e3|27]], [[#^s-2955ba4df36af7c52f8f1da4|28]], [[#^s-a2983550bff61e59fcf0785b|35]], [[#^s-1950df272e1d33f9e944440f|38]], [[#^s-931071ddf0fe11cf0be77852|39]], [[#^s-eb8136890a42b031f0c7335b|48]], [[#^s-3aafe6f9da4a55c3b0279a02|52]], [[#^s-47bf88fba1db05b33399ca39|53]], [[#^s-74a38f7015d12fc42c2f9b23|56]], [[#^s-d98bb46c594622fb5ee3a007|58]], [[#^s-0ab93290424e09560ba78dca|60]], [[#^s-e8cbf7d44a379dfe1a0bf45d|65]], [[#^s-1569cd9c59d0748a34862655|66]], [[#^s-df161230e731648f5670b8c6|67]], [[#^s-ed71bd6278351749f4cd1694|69]], [[#^s-84894699c8fb6c3935f420a1|71]], [[#^s-40de2bef88e1436d01785246|72]], 72-1, [[#^s-a6d58181dbff165eebfec7eb|73]], 75-3, [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-ef5f84479481726df77ce7a0|85]] straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu įstatymas
 
 50.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1040, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08794
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 14, [[#^s-ac1b671cb833e4398275835d|84 straipsnių]] pakeitimo ir 18-1, [[#^s-19688a85f80833594dc8daae|20 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-09b98f9b2943a7207bc15e9f|14]], [[#^s-ac1b671cb833e4398275835d|84]] straipsnių pakeitimo ir 18-1, [[#^s-19688a85f80833594dc8daae|20]] straipsnių pripažinimo netekusiais galios įstatymas
 
 51.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1258, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15551
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, [[#^s-20a6e95a48d016cbfda05d42|83 straipsnių]] pakeitimo, [[#^s-2fcbe1e3f85925e72041a77a|9 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais [[latest/f56dfdd0537811ec862fdcbc8b3e3e05|įstatymo Nr. XIV-654]] 3 ir [[#^s-b7951af5f0e2eb95f107068c|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-4254b0547f971d753273b23f|46]], [[#^s-0ba43836837d5b244e730cf2|59]], [[#^s-ad7fbe321507bae6d7295c89|74]], [[#^s-01b2fd020c8320088d514766|75]], 75-1, 75-2, 75-3, [[#^s-ead9af22ec3c823c0a3f6c9b|76]], [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-3dfe269c245c87c18a12e966|82]], [[#^s-20a6e95a48d016cbfda05d42|83]] straipsnių pakeitimo, [[#^s-2fcbe1e3f85925e72041a77a|9 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais [[latest/f56dfdd0537811ec862fdcbc8b3e3e05|įstatymo Nr. XIV-654]] [[#^s-a4f659ad2faf26694aad8f38|3]] ir [[#^s-b7951af5f0e2eb95f107068c|16]] straipsnių pakeitimo įstatymas
 
 52.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1260, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15487
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 19, 52, 53, 58, 77, 82-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]], [[#^s-cf284f252a10b5d776b0cb4a|19]], [[#^s-3aafe6f9da4a55c3b0279a02|52]], [[#^s-47bf88fba1db05b33399ca39|53]], [[#^s-d98bb46c594622fb5ee3a007|58]], [[#^s-26cf4d11d371c16ec1ce7fbe|77]], 82-1 straipsnių pakeitimo įstatymas
 
 53.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1262, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15489
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, [[#^s-20a6e95a48d016cbfda05d42|83 straipsnių]] pakeitimo, [[#^s-2fcbe1e3f85925e72041a77a|9 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais [[latest/f56dfdd0537811ec862fdcbc8b3e3e05|įstatymo Nr. XIV-654]] 9, 12 ir [[#^s-b7951af5f0e2eb95f107068c|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-4254b0547f971d753273b23f|46]], [[#^s-0ba43836837d5b244e730cf2|59]], [[#^s-ad7fbe321507bae6d7295c89|74]], [[#^s-01b2fd020c8320088d514766|75]], 75-1, 75-2, 75-3, [[#^s-ead9af22ec3c823c0a3f6c9b|76]], [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-3dfe269c245c87c18a12e966|82]], [[#^s-20a6e95a48d016cbfda05d42|83]] straipsnių pakeitimo, [[#^s-2fcbe1e3f85925e72041a77a|9 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais [[latest/f56dfdd0537811ec862fdcbc8b3e3e05|įstatymo Nr. XIV-654]] [[#^s-2fcbe1e3f85925e72041a77a|9]], [[#^s-0d3ebc7847f51d871505689b|12]] ir [[#^s-b7951af5f0e2eb95f107068c|16]] straipsnių pakeitimo įstatymas
 
 54.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4146,7 +4146,7 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pak
 55.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1634, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26101
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, [[#^s-20a6e95a48d016cbfda05d42|83 straipsnių]] pakeitimo, [[#^s-2fcbe1e3f85925e72041a77a|9 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais [[latest/f56dfdd0537811ec862fdcbc8b3e3e05|įstatymo Nr. XIV-654]] 9 ir [[#^s-b7951af5f0e2eb95f107068c|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-4254b0547f971d753273b23f|46]], [[#^s-0ba43836837d5b244e730cf2|59]], [[#^s-ad7fbe321507bae6d7295c89|74]], [[#^s-01b2fd020c8320088d514766|75]], 75-1, 75-2, 75-3, [[#^s-ead9af22ec3c823c0a3f6c9b|76]], [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-3dfe269c245c87c18a12e966|82]], [[#^s-20a6e95a48d016cbfda05d42|83]] straipsnių pakeitimo, [[#^s-2fcbe1e3f85925e72041a77a|9 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais [[latest/f56dfdd0537811ec862fdcbc8b3e3e05|įstatymo Nr. XIV-654]] [[#^s-2fcbe1e3f85925e72041a77a|9]] ir [[#^s-b7951af5f0e2eb95f107068c|16]] straipsnių pakeitimo įstatymas
 
 56.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4156,12 +4156,12 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-0ba43836837d5
 57.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1543, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24193
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, [[#^s-ef5f84479481726df77ce7a0|85 straipsnių]] pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] [[#^s-1a50cee455759bc405b3ba84|24 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]], [[#^s-8306987e490a0d889059ea97|10]], [[#^s-8aff9fb954e1cd7485c89b38|11]], [[#^s-744e4fc5597f70499d2b525f|15]], [[#^s-422e7e85d09823655c0d12e3|27]], [[#^s-2955ba4df36af7c52f8f1da4|28]], [[#^s-a2983550bff61e59fcf0785b|35]], [[#^s-1950df272e1d33f9e944440f|38]], [[#^s-931071ddf0fe11cf0be77852|39]], [[#^s-eb8136890a42b031f0c7335b|48]], [[#^s-3aafe6f9da4a55c3b0279a02|52]], [[#^s-47bf88fba1db05b33399ca39|53]], [[#^s-74a38f7015d12fc42c2f9b23|56]], [[#^s-d98bb46c594622fb5ee3a007|58]], [[#^s-0ab93290424e09560ba78dca|60]], [[#^s-e8cbf7d44a379dfe1a0bf45d|65]], [[#^s-1569cd9c59d0748a34862655|66]], [[#^s-df161230e731648f5670b8c6|67]], [[#^s-ed71bd6278351749f4cd1694|69]], [[#^s-84894699c8fb6c3935f420a1|71]], [[#^s-40de2bef88e1436d01785246|72]], 72-1, [[#^s-a6d58181dbff165eebfec7eb|73]], 75-3, [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-ef5f84479481726df77ce7a0|85]] straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] [[#^s-1a50cee455759bc405b3ba84|24 straipsnio]] pakeitimo įstatymas
 
 58.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1482, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22950
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, [[#^s-ef5f84479481726df77ce7a0|85 straipsnių]] pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] 19 ir [[#^s-cada747912d1450d895e0c54|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]], [[#^s-8306987e490a0d889059ea97|10]], [[#^s-8aff9fb954e1cd7485c89b38|11]], [[#^s-744e4fc5597f70499d2b525f|15]], [[#^s-422e7e85d09823655c0d12e3|27]], [[#^s-2955ba4df36af7c52f8f1da4|28]], [[#^s-a2983550bff61e59fcf0785b|35]], [[#^s-1950df272e1d33f9e944440f|38]], [[#^s-931071ddf0fe11cf0be77852|39]], [[#^s-eb8136890a42b031f0c7335b|48]], [[#^s-3aafe6f9da4a55c3b0279a02|52]], [[#^s-47bf88fba1db05b33399ca39|53]], [[#^s-74a38f7015d12fc42c2f9b23|56]], [[#^s-d98bb46c594622fb5ee3a007|58]], [[#^s-0ab93290424e09560ba78dca|60]], [[#^s-e8cbf7d44a379dfe1a0bf45d|65]], [[#^s-1569cd9c59d0748a34862655|66]], [[#^s-df161230e731648f5670b8c6|67]], [[#^s-ed71bd6278351749f4cd1694|69]], [[#^s-84894699c8fb6c3935f420a1|71]], [[#^s-40de2bef88e1436d01785246|72]], 72-1, [[#^s-a6d58181dbff165eebfec7eb|73]], 75-3, [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-ef5f84479481726df77ce7a0|85]] straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] [[#^s-cf284f252a10b5d776b0cb4a|19]] ir [[#^s-cada747912d1450d895e0c54|29]] straipsnių pakeitimo įstatymas
 
 59.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4171,12 +4171,12 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-3001b28ffda91
 60.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2059, 2023-06-15, paskelbta TAR 2023-06-27, i. k. 2023-12865
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, [[#^s-ef5f84479481726df77ce7a0|85 straipsnių]] pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] 18 ir [[#^s-cada747912d1450d895e0c54|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]], [[#^s-8306987e490a0d889059ea97|10]], [[#^s-8aff9fb954e1cd7485c89b38|11]], [[#^s-744e4fc5597f70499d2b525f|15]], [[#^s-422e7e85d09823655c0d12e3|27]], [[#^s-2955ba4df36af7c52f8f1da4|28]], [[#^s-a2983550bff61e59fcf0785b|35]], [[#^s-1950df272e1d33f9e944440f|38]], [[#^s-931071ddf0fe11cf0be77852|39]], [[#^s-eb8136890a42b031f0c7335b|48]], [[#^s-3aafe6f9da4a55c3b0279a02|52]], [[#^s-47bf88fba1db05b33399ca39|53]], [[#^s-74a38f7015d12fc42c2f9b23|56]], [[#^s-d98bb46c594622fb5ee3a007|58]], [[#^s-0ab93290424e09560ba78dca|60]], [[#^s-e8cbf7d44a379dfe1a0bf45d|65]], [[#^s-1569cd9c59d0748a34862655|66]], [[#^s-df161230e731648f5670b8c6|67]], [[#^s-ed71bd6278351749f4cd1694|69]], [[#^s-84894699c8fb6c3935f420a1|71]], [[#^s-40de2bef88e1436d01785246|72]], 72-1, [[#^s-a6d58181dbff165eebfec7eb|73]], 75-3, [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-ef5f84479481726df77ce7a0|85]] straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] [[#^s-c19d22b5786d2a6a3794d4cb|18]] ir [[#^s-cada747912d1450d895e0c54|29]] straipsnių pakeitimo įstatymas
 
 61.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2094, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13991
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, [[#^s-20a6e95a48d016cbfda05d42|83 straipsnių]] pakeitimo, [[#^s-2fcbe1e3f85925e72041a77a|9 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais [[latest/f56dfdd0537811ec862fdcbc8b3e3e05|įstatymo Nr. XIV-654]] [[#^s-a4f659ad2faf26694aad8f38|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-4254b0547f971d753273b23f|46]], [[#^s-0ba43836837d5b244e730cf2|59]], [[#^s-ad7fbe321507bae6d7295c89|74]], [[#^s-01b2fd020c8320088d514766|75]], 75-1, 75-2, 75-3, [[#^s-ead9af22ec3c823c0a3f6c9b|76]], [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-3dfe269c245c87c18a12e966|82]], [[#^s-20a6e95a48d016cbfda05d42|83]] straipsnių pakeitimo, [[#^s-2fcbe1e3f85925e72041a77a|9 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais [[latest/f56dfdd0537811ec862fdcbc8b3e3e05|įstatymo Nr. XIV-654]] [[#^s-a4f659ad2faf26694aad8f38|3 straipsnio]] pakeitimo įstatymas
 
 62.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4186,22 +4186,22 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-c70e238fcd7f7
 63.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2275, 2023-11-21, paskelbta TAR 2023-11-30, i. k. 2023-23060
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, [[#^s-ef5f84479481726df77ce7a0|85 straipsnių]] pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] 24, [[#^s-cada747912d1450d895e0c54|29 straipsnių]] pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]], [[#^s-8306987e490a0d889059ea97|10]], [[#^s-8aff9fb954e1cd7485c89b38|11]], [[#^s-744e4fc5597f70499d2b525f|15]], [[#^s-422e7e85d09823655c0d12e3|27]], [[#^s-2955ba4df36af7c52f8f1da4|28]], [[#^s-a2983550bff61e59fcf0785b|35]], [[#^s-1950df272e1d33f9e944440f|38]], [[#^s-931071ddf0fe11cf0be77852|39]], [[#^s-eb8136890a42b031f0c7335b|48]], [[#^s-3aafe6f9da4a55c3b0279a02|52]], [[#^s-47bf88fba1db05b33399ca39|53]], [[#^s-74a38f7015d12fc42c2f9b23|56]], [[#^s-d98bb46c594622fb5ee3a007|58]], [[#^s-0ab93290424e09560ba78dca|60]], [[#^s-e8cbf7d44a379dfe1a0bf45d|65]], [[#^s-1569cd9c59d0748a34862655|66]], [[#^s-df161230e731648f5670b8c6|67]], [[#^s-ed71bd6278351749f4cd1694|69]], [[#^s-84894699c8fb6c3935f420a1|71]], [[#^s-40de2bef88e1436d01785246|72]], 72-1, [[#^s-a6d58181dbff165eebfec7eb|73]], 75-3, [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-ef5f84479481726df77ce7a0|85]] straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] [[#^s-1a50cee455759bc405b3ba84|24]], [[#^s-cada747912d1450d895e0c54|29]] straipsnių pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
 
 64.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2308, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24175
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, [[#^s-ef5f84479481726df77ce7a0|85 straipsnių]] pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] [[#^s-c19d22b5786d2a6a3794d4cb|18 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]], [[#^s-8306987e490a0d889059ea97|10]], [[#^s-8aff9fb954e1cd7485c89b38|11]], [[#^s-744e4fc5597f70499d2b525f|15]], [[#^s-422e7e85d09823655c0d12e3|27]], [[#^s-2955ba4df36af7c52f8f1da4|28]], [[#^s-a2983550bff61e59fcf0785b|35]], [[#^s-1950df272e1d33f9e944440f|38]], [[#^s-931071ddf0fe11cf0be77852|39]], [[#^s-eb8136890a42b031f0c7335b|48]], [[#^s-3aafe6f9da4a55c3b0279a02|52]], [[#^s-47bf88fba1db05b33399ca39|53]], [[#^s-74a38f7015d12fc42c2f9b23|56]], [[#^s-d98bb46c594622fb5ee3a007|58]], [[#^s-0ab93290424e09560ba78dca|60]], [[#^s-e8cbf7d44a379dfe1a0bf45d|65]], [[#^s-1569cd9c59d0748a34862655|66]], [[#^s-df161230e731648f5670b8c6|67]], [[#^s-ed71bd6278351749f4cd1694|69]], [[#^s-84894699c8fb6c3935f420a1|71]], [[#^s-40de2bef88e1436d01785246|72]], 72-1, [[#^s-a6d58181dbff165eebfec7eb|73]], 75-3, [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-ef5f84479481726df77ce7a0|85]] straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] [[#^s-c19d22b5786d2a6a3794d4cb|18 straipsnio]] pakeitimo įstatymas
 
 65.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2309, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24176
-Lietuvos Respublikos dėl Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 46, 59, 74, 75, 75-1, 75-2, 75-3, 76, 77, 82, [[#^s-20a6e95a48d016cbfda05d42|83 straipsnių]] pakeitimo, [[#^s-2fcbe1e3f85925e72041a77a|9 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais [[latest/f56dfdd0537811ec862fdcbc8b3e3e05|įstatymo Nr. XIV-654]] 8 ir [[#^s-b7951af5f0e2eb95f107068c|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos dėl Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-4254b0547f971d753273b23f|46]], [[#^s-0ba43836837d5b244e730cf2|59]], [[#^s-ad7fbe321507bae6d7295c89|74]], [[#^s-01b2fd020c8320088d514766|75]], 75-1, 75-2, 75-3, [[#^s-ead9af22ec3c823c0a3f6c9b|76]], [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-3dfe269c245c87c18a12e966|82]], [[#^s-20a6e95a48d016cbfda05d42|83]] straipsnių pakeitimo, [[#^s-2fcbe1e3f85925e72041a77a|9 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo 76-1, 76-2, 83-1 straipsniais [[latest/f56dfdd0537811ec862fdcbc8b3e3e05|įstatymo Nr. XIV-654]] [[#^s-d925ced1be3b06e3de324f6d|8]] ir [[#^s-b7951af5f0e2eb95f107068c|16]] straipsnių pakeitimo įstatymas
 
 66.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2585, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08305
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 5, 15, 17, 22, 42, 43, 44, 51, 53, 72-1, 75-3, 76-2, 80, 81, 82-1, [[#^s-c01667f4509815403772ac77|90 straipsnių]] pakeitimo ir Įstatymo papildymo 24-2 straipsniu įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]], [[#^s-1815a78f3fbb0901729000e5|5]], [[#^s-744e4fc5597f70499d2b525f|15]], [[#^s-8013b69cfae9bf3a6756b1c6|17]], [[#^s-12dc15b72b5f778026ca828e|22]], [[#^s-0602938458f78b8f1ece4f08|42]], [[#^s-d50bef7d37f5c5edc831364d|43]], [[#^s-8142e0b7439aa4e40f522092|44]], [[#^s-dc9305dcbd8d3e006d2b0396|51]], [[#^s-47bf88fba1db05b33399ca39|53]], 72-1, 75-3, 76-2, [[#^s-15f33ea5a7d5b161a62395e6|80]], [[#^s-5f523a8ef38368b2f5078228|81]], 82-1, [[#^s-c01667f4509815403772ac77|90]] straipsnių pakeitimo ir Įstatymo papildymo 24-2 straipsniu įstatymas
 
 67.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4211,7 +4211,7 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-26cf4d11d371c
 68.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2844, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12154
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 62 ir [[#^s-26cf4d11d371c16ec1ce7fbe|77 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-c28d827a382d5c388782e1d8|62]] ir [[#^s-26cf4d11d371c16ec1ce7fbe|77]] straipsnių pakeitimo įstatymas
 
 69.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4236,12 +4236,12 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pak
 73.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-85, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23080
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, [[#^s-ef5f84479481726df77ce7a0|85 straipsnių]] pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] [[#^s-cada747912d1450d895e0c54|29 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]], [[#^s-8306987e490a0d889059ea97|10]], [[#^s-8aff9fb954e1cd7485c89b38|11]], [[#^s-744e4fc5597f70499d2b525f|15]], [[#^s-422e7e85d09823655c0d12e3|27]], [[#^s-2955ba4df36af7c52f8f1da4|28]], [[#^s-a2983550bff61e59fcf0785b|35]], [[#^s-1950df272e1d33f9e944440f|38]], [[#^s-931071ddf0fe11cf0be77852|39]], [[#^s-eb8136890a42b031f0c7335b|48]], [[#^s-3aafe6f9da4a55c3b0279a02|52]], [[#^s-47bf88fba1db05b33399ca39|53]], [[#^s-74a38f7015d12fc42c2f9b23|56]], [[#^s-d98bb46c594622fb5ee3a007|58]], [[#^s-0ab93290424e09560ba78dca|60]], [[#^s-e8cbf7d44a379dfe1a0bf45d|65]], [[#^s-1569cd9c59d0748a34862655|66]], [[#^s-df161230e731648f5670b8c6|67]], [[#^s-ed71bd6278351749f4cd1694|69]], [[#^s-84894699c8fb6c3935f420a1|71]], [[#^s-40de2bef88e1436d01785246|72]], 72-1, [[#^s-a6d58181dbff165eebfec7eb|73]], 75-3, [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-ef5f84479481726df77ce7a0|85]] straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] [[#^s-cada747912d1450d895e0c54|29 straipsnio]] pakeitimo įstatymas
 
 74.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-608, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20821
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 15, 17, 42, 43, 44 ir [[#^s-eb8136890a42b031f0c7335b|48 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-744e4fc5597f70499d2b525f|15]], [[#^s-8013b69cfae9bf3a6756b1c6|17]], [[#^s-0602938458f78b8f1ece4f08|42]], [[#^s-d50bef7d37f5c5edc831364d|43]], [[#^s-8142e0b7439aa4e40f522092|44]] ir [[#^s-eb8136890a42b031f0c7335b|48]] straipsnių pakeitimo įstatymas
 
 75.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4251,12 +4251,12 @@ Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 72-1 straipsnio pak
 76.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-611, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20823
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, [[#^s-ef5f84479481726df77ce7a0|85 straipsnių]] pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] [[#^s-cada747912d1450d895e0c54|29 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]], [[#^s-8306987e490a0d889059ea97|10]], [[#^s-8aff9fb954e1cd7485c89b38|11]], [[#^s-744e4fc5597f70499d2b525f|15]], [[#^s-422e7e85d09823655c0d12e3|27]], [[#^s-2955ba4df36af7c52f8f1da4|28]], [[#^s-a2983550bff61e59fcf0785b|35]], [[#^s-1950df272e1d33f9e944440f|38]], [[#^s-931071ddf0fe11cf0be77852|39]], [[#^s-eb8136890a42b031f0c7335b|48]], [[#^s-3aafe6f9da4a55c3b0279a02|52]], [[#^s-47bf88fba1db05b33399ca39|53]], [[#^s-74a38f7015d12fc42c2f9b23|56]], [[#^s-d98bb46c594622fb5ee3a007|58]], [[#^s-0ab93290424e09560ba78dca|60]], [[#^s-e8cbf7d44a379dfe1a0bf45d|65]], [[#^s-1569cd9c59d0748a34862655|66]], [[#^s-df161230e731648f5670b8c6|67]], [[#^s-ed71bd6278351749f4cd1694|69]], [[#^s-84894699c8fb6c3935f420a1|71]], [[#^s-40de2bef88e1436d01785246|72]], 72-1, [[#^s-a6d58181dbff165eebfec7eb|73]], 75-3, [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-ef5f84479481726df77ce7a0|85]] straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] [[#^s-cada747912d1450d895e0c54|29 straipsnio]] pakeitimo įstatymas
 
 77.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2586, 2024-04-25, paskelbta TAR 2024-05-03, i. k. 2024-08306
-Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 4, 10, 11, 15, 27, 28, 35, 38, 39, 48, 52, 53, 56, 58, 60, 65, 66, 67, 69, 71, 72, 72-1, 73, 75-3, 77, [[#^s-ef5f84479481726df77ce7a0|85 straipsnių]] pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] [[#^s-a4e2bcf801c80bdb3fd34fff|13 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 [[#^s-632ff32a813f7edc4d61edd6|4]], [[#^s-8306987e490a0d889059ea97|10]], [[#^s-8aff9fb954e1cd7485c89b38|11]], [[#^s-744e4fc5597f70499d2b525f|15]], [[#^s-422e7e85d09823655c0d12e3|27]], [[#^s-2955ba4df36af7c52f8f1da4|28]], [[#^s-a2983550bff61e59fcf0785b|35]], [[#^s-1950df272e1d33f9e944440f|38]], [[#^s-931071ddf0fe11cf0be77852|39]], [[#^s-eb8136890a42b031f0c7335b|48]], [[#^s-3aafe6f9da4a55c3b0279a02|52]], [[#^s-47bf88fba1db05b33399ca39|53]], [[#^s-74a38f7015d12fc42c2f9b23|56]], [[#^s-d98bb46c594622fb5ee3a007|58]], [[#^s-0ab93290424e09560ba78dca|60]], [[#^s-e8cbf7d44a379dfe1a0bf45d|65]], [[#^s-1569cd9c59d0748a34862655|66]], [[#^s-df161230e731648f5670b8c6|67]], [[#^s-ed71bd6278351749f4cd1694|69]], [[#^s-84894699c8fb6c3935f420a1|71]], [[#^s-40de2bef88e1436d01785246|72]], 72-1, [[#^s-a6d58181dbff165eebfec7eb|73]], 75-3, [[#^s-26cf4d11d371c16ec1ce7fbe|77]], [[#^s-ef5f84479481726df77ce7a0|85]] straipsnių pakeitimo ir Įstatymo papildymo 64-1 straipsniu [[latest/60718c50037311edb32c9f9d8ba206f8|įstatymo Nr. XIV-1257]] [[#^s-a4e2bcf801c80bdb3fd34fff|13 straipsnio]] pakeitimo įstatymas
 
 78.
 Lietuvos Respublikos Seimas, Įstatymas

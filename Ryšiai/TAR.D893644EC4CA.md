@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo 2, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - 2 citatos - Ginklų ir šaudmenų kontrolės įstatymo
+- [[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - Ginklų ir šaudmenų kontrolės įstatymo
 
 ## Šį įstatymą cituoja
 

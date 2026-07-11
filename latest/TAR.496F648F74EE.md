@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ir protokolo ratifikavimas ^s-349a359b7dc881a074fd790e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. birželio 14 d. dekretą Nr. 1K-1008, ratifikuoja 2007 m. kovo 2 d. Vysbadene pasirašytus Estijos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Lietuvos Respublikos Vyriausybės susitarimą dėl Baltijos oro erdvės stebėjimo ir kontrolės sistemos plėtojimo ir Estijos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Lietuvos Respublikos Vyriausybės protokolą dėl bendro valdymo ir pranešimų centro Karmėlavoje ir jo personalo statuso.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. birželio 14 d. dekretą Nr. 1K-1008](https://e-tar.lt/portal/lt/legalAct/TAR.B0F956B88803), ratifikuoja 2007 m. kovo 2 d. Vysbadene pasirašytus Estijos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Lietuvos Respublikos Vyriausybės susitarimą dėl Baltijos oro erdvės stebėjimo ir kontrolės sistemos plėtojimo ir Estijos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Lietuvos Respublikos Vyriausybės protokolą dėl bendro valdymo ir pranešimų centro Karmėlavoje ir jo personalo statuso.
 
 
 

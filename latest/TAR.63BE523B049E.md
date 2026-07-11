@@ -99,7 +99,7 @@ Papildyti 7 straipsnį 8 dalimi:
 „2) iš anksto pateikti bendrovei klausimų, susijusių su visuotinių akcininkų susirinkimų darbotvarkės klausimais;“.
 
 
-2. Buvusius [[#^s-20027759a892a71c35499aa5|16 straipsnio 1 dalies]] 2, 3 ir 4 punktus laikyti atitinkamai 3, 4 ir 5 punktais. ^s-a7cc894f330da0d226f3ef06
+2. Buvusius [[#^s-20027759a892a71c35499aa5|16 straipsnio 1 dalies]] [[#^s-616c3450446abd9336ebdf00|2]], [[#^s-d1ff1d5c44a9a33a24c2aa6f|3]] ir [[#^s-82e6da53ea99e27cbbe71619|4]] punktus laikyti atitinkamai [[#^s-d1ff1d5c44a9a33a24c2aa6f|3]], [[#^s-82e6da53ea99e27cbbe71619|4]] ir 5 punktais. ^s-a7cc894f330da0d226f3ef06
 
 
 3. Papildyti 16 straipsnio 1 dalį 6 punktu: ^s-4ba53e951a46dd727595a6db
@@ -220,7 +220,7 @@ Pakeisti [[#^s-193702cc8d192592dabb27ba|21 straipsnį]] ir jį išdėstyti taip:
 „4. Jeigu nė vienas akcininkas visuotiniame akcininkų susirinkime iki balsavimo pradžios nereikalauja išsamios balsavimo ataskaitos, šio straipsnio 3 dalis netaikoma.“
 
 
-3. Buvusią 22 straipsnio 3 dalį laikyti 5 dalimi, joje vietoj žodžio „dalyje“ įrašyti žodžius ir skaičių „ir [[#^s-cdc0a38df8411ad151d5db2e|3 dalyse]]“ ir šią dalį išdėstyti taip: ^s-cdc0a38df8411ad151d5db2e
+3. Buvusią 22 straipsnio 3 dalį laikyti 5 dalimi, joje vietoj žodžio „dalyje“ įrašyti žodžius ir skaičių „ir 3 dalyse“ ir šią dalį išdėstyti taip: ^s-cdc0a38df8411ad151d5db2e
 
 
 „5. Jeigu inspektoriaus rinkimas bendrovės įstatuose nenumatytas arba išrinktas inspektorius negali vykdyti savo pareigų, visuotinis akcininkų susirinkimas išrenka asmenį, atsakingą už šio straipsnio 2 ir 3 dalyse numatytus veiksmus.“
@@ -294,7 +294,7 @@ Pakeisti [[#^s-dfe147317193ffcd2f6a76f0|26 straipsnį]] ir jį išdėstyti taip:
 3) susirinkimo apskaitos diena ir paaiškinta, kad dalyvauti ir balsuoti visuotiniame akcininkų susirinkime turi teisę tik tie asmenys, kurie yra akcininkai visuotinio akcininkų susirinkimo apskaitos dienos pabaigoje (akcinei bendrovei); ^s-cf9af3ea28cc04ee95f5f1d0
 
 
-4) teisių apskaitos diena, jeigu visuotiniame akcininkų susirinkime priimami spendimai yra susiję su akcininkų turtinėmis teisėmis, nurodytomis šio Įstatymo [[#^s-46c3313fb5f248e4068f5192|15 straipsnio 1 dalies]] 1, 2, 3 ir 4 punktuose, ir paaiškinta, kad šias teises turės asmenys, kurie dešimtos darbo dienos pabaigoje po atitinkamą sprendimą priėmusio visuotinio akcininkų susirinkimo bus akcinės bendrovės akcininkai (akcinei bendrovei); ^s-54bc4ca1449570f6b3292496
+4) teisių apskaitos diena, jeigu visuotiniame akcininkų susirinkime priimami spendimai yra susiję su akcininkų turtinėmis teisėmis, nurodytomis šio Įstatymo [[#^s-46c3313fb5f248e4068f5192|15 straipsnio 1 dalies]] [[#^s-61a22cdd4ce9c54bf4e5231d|1]], [[#^s-426f05b09e27a0b6c2951d91|2]], [[#^s-5192dd6e10d3ba0ff5cec989|3]] ir [[#^s-e5b3480a098510a61dd0b036|4]] punktuose, ir paaiškinta, kad šias teises turės asmenys, kurie dešimtos darbo dienos pabaigoje po atitinkamą sprendimą priėmusio visuotinio akcininkų susirinkimo bus akcinės bendrovės akcininkai (akcinei bendrovei); ^s-54bc4ca1449570f6b3292496
 
 
 5) susirinkimo darbotvarkė; ^s-174252b738b9524d4dc46a37
@@ -327,7 +327,7 @@ Pakeisti [[#^s-dfe147317193ffcd2f6a76f0|26 straipsnį]] ir jį išdėstyti taip:
 6. Jeigu visuotinis akcininkų susirinkimas neįvyksta, pakartotinis visuotinis akcininkų susirinkimas šaukiamas ne anksčiau kaip praėjus 5 dienoms ir ne vėliau kaip praėjus 21 dienai nuo neįvykusio visuotinio akcininkų susirinkimo dienos. Apie pakartotinį visuotinį akcininkų susirinkimą akcininkams turi būti pranešta [[#^s-153ca4487fcdc642896f5e12|šio straipsnio 4 dalyje]] nustatytu būdu ne vėliau kaip likus 5 dienoms iki pakartotinio visuotinio akcininkų susirinkimo. ^s-fcef42610d3962a728a00b6f
 
 
-7. Visuotinis akcininkų susirinkimas gali būti šaukiamas nesilaikant šio straipsnio 4, 5 ir [[#^s-fcef42610d3962a728a00b6f|6 dalyse]] nustatytų terminų, jeigu visi akcininkai, kuriems priklausančios akcijos suteikia balsavimo teisę, su tuo pasirašytinai sutinka. ^s-5106812373d157c5022072b2
+7. Visuotinis akcininkų susirinkimas gali būti šaukiamas nesilaikant šio straipsnio [[#^s-153ca4487fcdc642896f5e12|4]], [[#^s-fc16643c918f88be52c6ea98|5]] ir [[#^s-fcef42610d3962a728a00b6f|6]] dalyse nustatytų terminų, jeigu visi akcininkai, kuriems priklausančios akcijos suteikia balsavimo teisę, su tuo pasirašytinai sutinka. ^s-5106812373d157c5022072b2
 
 
 8. Pranešimas apie visuotinio akcininkų susirinkimo sušaukimą bet kuriuo šiame Įstatyme nustatytu būdu akcininkams turi būti skelbiamas, įteikiamas ar siunčiamas neatlygintinai. ^s-d53b77dc292452688b8cc0a9
@@ -339,7 +339,7 @@ Pakeisti [[#^s-dfe147317193ffcd2f6a76f0|26 straipsnį]] ir jį išdėstyti taip:
 10. Ne vėliau kaip likus 10 dienų iki visuotinio akcininkų susirinkimo akcininkams turi būti sudaryta galimybė susipažinti su bendrovės turimais dokumentais, susijusiais su susirinkimo darbotvarke, įskaitant sprendimų projektus arba, kai sprendimų priimti nereikia, – stebėtojų tarybos, valdybos (jeigu valdyba nesudaroma, – bendrovės vadovo) ir akcininkų paaiškinimus dėl jų pasiūlyto visuotinio akcininkų susirinkimo darbotvarkės klausimo, taip pat visuotinio akcininkų susirinkimo sušaukimo iniciatorių pateiktą paraišką valdybai ar šio Įstatymo [[#^s-1bc51d23f4ad202e6046d2b6|23 straipsnio 3 dalyje]] nustatytais atvejais bendrovės vadovui. Jeigu akcininkas raštu pageidauja, bendrovės vadovas ne vėliau kaip per 3 dienas nuo rašytinio prašymo gavimo visus susirinkimo sprendimų projektus arba, kai sprendimų priimti nereikia, – stebėtojų tarybos, valdybos (jeigu valdyba nesudaroma, – bendrovės vadovo) ir akcininkų paaiškinimus dėl jų pasiūlyto visuotinio akcininkų susirinkimo darbotvarkės klausimo įteikia akcininkui pasirašytinai ar išsiunčia registruotu laišku. Sprendimų projektuose turi būti nurodyta, kieno iniciatyva jie yra pateikti. Jei sprendimo projekto iniciatorius pateikė sprendimo projekto pagrindimą, jis turi būti pridėtas prie sprendimo projekto. ^s-0549e3dad9533d534198a30c
 
 
-11. Šio straipsnio 3, 4, 5, 6, 7 ir [[#^s-0549e3dad9533d534198a30c|10 dalys]] netaikomos akcinėms bendrovėms, kurių akcijomis leista prekiauti reguliuojamoje rinkoje.“ ^s-574454d164d6424ba87cc399
+11. Šio straipsnio [[#^s-ad006b050ed9ba24cc564b65|3]], [[#^s-153ca4487fcdc642896f5e12|4]], [[#^s-fc16643c918f88be52c6ea98|5]], [[#^s-fcef42610d3962a728a00b6f|6]], [[#^s-5106812373d157c5022072b2|7]] ir [[#^s-0549e3dad9533d534198a30c|10]] dalys netaikomos akcinėms bendrovėms, kurių akcijomis leista prekiauti reguliuojamoje rinkoje.“ ^s-574454d164d6424ba87cc399
 
 
 
@@ -421,7 +421,7 @@ Papildyti Įstatymą 262 straipsniu:
 4. Kai pagal šio Įstatymo 261 straipsnio 4 dalį apie neeilinį visuotinį akcininkų susirinkimą pranešama ne vėliau kaip likus 16 dienų iki visuotinio akcininkų susirinkimo, o pagal šio Įstatymo 261 straipsnio 5 dalį apie pakartotinį visuotinį akcininkų susirinkimą pranešama ne vėliau kaip likus 14 dienų iki pakartotinio visuotinio akcininkų susirinkimo, [[#^s-20027759a892a71c35499aa5|šio straipsnio 1 dalyje]] nurodytas terminas atitinkamai sutrumpinamas. ^s-c21f6289b34e243f70e01bd8
 
 
-5. Ne vėliau kaip per 7 dienas po visuotinio akcininkų susirinkimo akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje pateikia akcininkams balsavimo rezultatus, nustatytus pagal šio Įstatymo [[#^s-0e47aa57de998f1a0a6c0c1a|22 straipsnio]] 2 ir [[#^s-543f214b8ffa5267edc70318|3 dalis]].“ ^s-afc98a6c7dfa3a35d1be7666
+5. Ne vėliau kaip per 7 dienas po visuotinio akcininkų susirinkimo akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje pateikia akcininkams balsavimo rezultatus, nustatytus pagal šio Įstatymo [[#^s-0e47aa57de998f1a0a6c0c1a|22 straipsnio]] [[#^s-777b66a38487081b1f60eeac|2]] ir 3 dalis.“ ^s-afc98a6c7dfa3a35d1be7666
 
 
 
@@ -496,7 +496,7 @@ Papildyti Įstatymą 302 straipsniu:
 5. [[#^s-f3ccfab3d435650c50d7e7ac|Šio straipsnio 1 dalyje]] nurodytam įgaliojimui, [[#^s-230ce9eec2c9c9d2a11a21e6|šio straipsnio 2 dalyje]] nurodytam pranešimui apie duotą įgaliojimą ir balsavimo nurodymų pateikimui įgaliotiniui gali būti taikomi tik tokie reikalavimai, kurie yra būtini akcininko ir įgaliotinio tapatybei nustatyti ir balsavimo nurodymų turiniui patikrinti, ir tik tuo atveju, kai jie yra proporcingi šiems tikslams pasiekti. ^s-0f852739ddfd3d13f4c4d6a2
 
 
-6. Šio straipsnio 1–[[#^s-0f852739ddfd3d13f4c4d6a2|5 dalys]] mutatis mutandis taikomos ir įgaliojimo atšaukimui. ^s-4d58ddef516791e653957c08
+6. Šio straipsnio [[#^s-f3ccfab3d435650c50d7e7ac|1]]–[[#^s-0f852739ddfd3d13f4c4d6a2|5]] dalys mutatis mutandis taikomos ir įgaliojimo atšaukimui. ^s-4d58ddef516791e653957c08
 
 
 7. Jeigu akcininko turimos akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, akcijos yra laikomos keliose vertybinių popierių sąskaitose, akcininkas gali įgalioti po atskirą įgaliotinį dalyvauti ir balsuoti visuotiniame akcininkų susirinkime pagal kiekvienoje vertybinių popierių sąskaitoje laikomų akcijų suteikiamas teises. Tokiu atveju akcininko duoti įgaliojimai galioja vienam visuotiniam akcininkų susirinkimui.“ ^s-69644aa1d055ebcb8c52f935
@@ -785,7 +785,7 @@ Papildyti Įstatymo priedą 11 punktu:
 ### 40 straipsnis. Įstatymo įsigaliojimas ^s-7dec83894d771e052cf98862
 
 
-Šio įstatymo [[#^s-8d2b3734ffc678801624d603|5 straipsnio 1 dalis]], [[#^s-5185053de39f65ad2a3bfffe|6 straipsnis]], [[#^s-aa9243e90aabaca431b7f034|10 straipsnio]] 1 ir 2 dalys, 15, 16, 17, 19, 20, 21 ir [[#^s-736ad8c26730a82e179593d3|38 straipsniai]] įsigalioja 2009 m. rugpjūčio 1 d.
+Šio įstatymo [[#^s-8d2b3734ffc678801624d603|5 straipsnio 1 dalis]], [[#^s-5185053de39f65ad2a3bfffe|6 straipsnis]], [[#^s-aa9243e90aabaca431b7f034|10 straipsnio]] [[#^s-cad706519d6ec9f2c6fea5e1|1]] ir [[#^s-73582e6223445c1a8e11e712|2]] dalys, [[#^s-427c5509dc4faf0ef583c0d6|15]], [[#^s-df7e416011c6508b681c2ac5|16]], [[#^s-a48dab2076d0678c03895f57|17]], [[#^s-de7a10869164f185bbb35350|19]], [[#^s-5c3de77bab501c4de6cdd5e4|20]], [[#^s-193702cc8d192592dabb27ba|21]] ir [[#^s-736ad8c26730a82e179593d3|38]] straipsniai įsigalioja 2009 m. rugpjūčio 1 d.
 
 
 

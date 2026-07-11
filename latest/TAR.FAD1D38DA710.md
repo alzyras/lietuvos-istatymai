@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-278e606e0b2d21c580224fc1
-VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 5, 34, 35, 36, 38, 39, 46, 64 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS, IV SKYRIAUS PAVADINIMO PAKEITIMAS, 37 IR 47 STRAIPSNIŲ PRIPAŽINIMAS NETEKUSIAIS GALIOS
+[[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]] [[latest/TAR.A7F77DF94F5D#^s-185ae4cd376b928f4d330b75|5]], [[latest/TAR.A7F77DF94F5D#^s-5588e0dd4927669d9163f666|34]], [[latest/TAR.A7F77DF94F5D#^s-37fa706f93454b00e769633c|35]], [[latest/TAR.A7F77DF94F5D#^s-3c50246512d269ab920f3de0|36]], [[latest/TAR.A7F77DF94F5D#^s-a0ac7559fb5815c4a6351bb9|38]], [[latest/TAR.A7F77DF94F5D#^s-ce359f209917eb9c09c3c9d6|39]], [[latest/TAR.A7F77DF94F5D#^s-1a2168dd17e848c899f71507|46]], [[latest/TAR.A7F77DF94F5D|64]] STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS, IV SKYRIAUS PAVADINIMO PAKEITIMAS, 37 IR 47 STRAIPSNIŲ PRIPAŽINIMAS NETEKUSIAIS GALIOS
 
 (Žin., 1994, Nr. 59-1153; 2005, Nr. 71-2555)
 
@@ -218,7 +218,7 @@ Pakeisti 64 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
 ### ANTRASIS SKIRSNIS ^s-e4bfe9d79bc0f70cb0c62ac0
-VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTATYMO [[#^s-6ebf04a2c9bfffbe49f39ccf|8 STRAIPSNIO]] PAKEITIMAS
+[VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTATYMO 8 STRAIPSNIO](https://e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900) PAKEITIMAS
 
 (Žin., 2003, Nr. 114-5116; 2005, Nr. 71-2554)
 
@@ -248,7 +248,7 @@ BAIGIAMOSIOS NUOSTATOS
 ### 1 straipsnis. Įstatymo įgyvendinimas ^s-2ff9f2aa2ff5a744c2b8b547
 
 
-1. Iki šio įstatymo įsigaliojimo paskirtos valstybinės socialinio draudimo našlių pensijos (toliau – našlių pensijos) ir valstybinės socialinio draudimo našlaičių pensijos (toliau – našlaičių pensijos), išskyrus šio straipsnio 2, 5, 6 ir [[#^s-1a0352ef86a4405f00b9a9e4|7 dalyse]] nustatytus atvejus, pradedamos mokėti naujų dydžių ne vėliau kaip praėjus 2 mėnesiams nuo šio įstatymo įsigaliojimo. Šioms pensijoms [[latest/TAR.A7F77DF94F5D#^s-3989686b7d351c91f14464e4|Valstybinių socialinio draudimo pensijų įstatymo 34 straipsnio 1 dalies 2 punkto]] reikalavimas netaikomas. Paskirtų ir naujo dydžio našlių pensijų dydžių skirtumas kompensuojamas nuo šio įstatymo įsigaliojimo dienos. ^s-5aded1ca612255b319eeaf8a
+1. Iki šio įstatymo įsigaliojimo paskirtos valstybinės socialinio draudimo našlių pensijos (toliau – našlių pensijos) ir valstybinės socialinio draudimo našlaičių pensijos (toliau – našlaičių pensijos), išskyrus šio straipsnio 2, [[#^s-7774db6f94258018ca7c9519|5]], [[#^s-1a268426fce6a832ff2b7fd0|6]] ir [[#^s-1a0352ef86a4405f00b9a9e4|7]] dalyse nustatytus atvejus, pradedamos mokėti naujų dydžių ne vėliau kaip praėjus 2 mėnesiams nuo šio įstatymo įsigaliojimo. Šioms pensijoms [[latest/TAR.A7F77DF94F5D#^s-3989686b7d351c91f14464e4|Valstybinių socialinio draudimo pensijų įstatymo 34 straipsnio 1 dalies 2 punkto]] reikalavimas netaikomas. Paskirtų ir naujo dydžio našlių pensijų dydžių skirtumas kompensuojamas nuo šio įstatymo įsigaliojimo dienos. ^s-5aded1ca612255b319eeaf8a
 
 
 2. Jeigu iki 2007 m. sausio 1 d. paskirtos našlių pensijos dydis viršija našlių pensijos bazinį dydį, ši pensija mokama 2006 m. gruodžio mėnesio dydžio, jo neindeksuojant ir jokiu kitu būdu nedidinant tol, kol našlių pensijos bazinis dydis ima viršyti mokamos našlių pensijos dydį. Kai našlių pensijos bazinis dydis ima viršyti mokamos našlių pensijos dydį, našlių pensija našlei (našliui) toliau mokama našlių pensijos bazinio dydžio. ^s-7d02abacbccf7a15092696c8

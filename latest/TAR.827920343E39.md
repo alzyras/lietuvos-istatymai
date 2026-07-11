@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir Protokolo ratifikavimas ^s-e86774fe40ebcc1089054bd0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2002 m. spalio 8 d. dekretą Nr. 1934, ratifikuoja Konvenciją dėl kovos su neteisėtais veiksmais prieš saugią jūrų laivybą ir Protokolą dėl kovos su neteisėtais veiksmais prieš stacionarių platformų kontinentiniame šelfe saugą, priimtus 1988 m. kovo 10 d. Romoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2002 m. spalio 8 d. dekretą Nr. 1934](https://e-tar.lt/portal/lt/legalAct/TAR.BA1D0FFE19A9), ratifikuoja Konvenciją dėl kovos su neteisėtais veiksmais prieš saugią jūrų laivybą ir Protokolą dėl kovos su neteisėtais veiksmais prieš stacionarių platformų kontinentiniame šelfe saugą, priimtus 1988 m. kovo 10 d. Romoje.
 
 
 

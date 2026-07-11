@@ -69,7 +69,7 @@ BENDROSIOS NUOSTATOS
 3. Jeigu kiti Lietuvos Respublikos įstatymai nustato papildomų ar kitų reklamos naudojimo reikalavimų arba nustato kitą reklamos naudojimo priežiūros tvarką ar reklaminės veiklos subjektų atsakomybę, taikomos tų įstatymų nuostatos. Jeigu Lietuvos Respublikos ratifikuotose tarptautinėse sutartyse nustatomi kitokie reklamos naudojimo reikalavimai, taikomos tų sutarčių nuostatos. ^s-e433c4ef613eabee87d6fd82
 
 
-4. Šio įstatymo nuostatos atitinkamai taikomos dėl Europos Sąjungoje daromo pažeidimo, kaip jis apibrėžiamas 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo („Reglamentas dėl bendradarbiavimo vartotojų apsaugos srityje“) (toliau – Reglamentas (EB) Nr. 2006/2004), kai pažeidžiamos šio įstatymo 5 ar [[#^s-a7b7ae17cf796723d8599c42|6 straipsnio]] nuostatos. ^s-b3a9c772e71887b48f4830a9
+4. Šio įstatymo nuostatos atitinkamai taikomos dėl Europos Sąjungoje daromo pažeidimo, kaip jis apibrėžiamas 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo („Reglamentas dėl bendradarbiavimo vartotojų apsaugos srityje“) (toliau – [Reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj)), kai pažeidžiamos šio įstatymo [[#^s-83057a13248c1f95b04c5399|5]] ar [[#^s-a7b7ae17cf796723d8599c42|6]] straipsnio nuostatos. ^s-b3a9c772e71887b48f4830a9
 
 
 5. Šis įstatymas nereglamentuoja politinės ir socialinės reklamos ir skelbimų, nesusijusių su ūkine komercine, finansine ar profesine veikla. ^s-576ef31d25b2b742681cf592
@@ -241,7 +241,7 @@ Reklama turi būti:
 5) vartotojo teises, riziką, su kuria jis gali susidurti, ir skundų nagrinėjimą. ^s-38f6e3fde52d19e3c3ecbe3c
 
 
-6. Reklama bet kuriomis aplinkybėmis laikoma klaidinančia, jeigu ji turi [[latest/TAR.55FFE350795A#^s-862fad541b2060d6505a3548|Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 7 straipsnio]] 1–21 punktuose nustatytų klaidinančios komercinės veiklos požymių. ^s-51f53e2ad0381ba111170da9
+6. Reklama bet kuriomis aplinkybėmis laikoma klaidinančia, jeigu ji turi [[latest/TAR.55FFE350795A#^s-862fad541b2060d6505a3548|Nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 7 straipsnio]] [[latest/TAR.55FFE350795A#^s-bcdbfe69810a17d05acc3466|1]]–[[latest/TAR.55FFE350795A#^s-118272753837c058769812ca|21]] punktuose nustatytų klaidinančios komercinės veiklos požymių. ^s-51f53e2ad0381ba111170da9
 
 
 7. Kai sprendžiama, ar reklama yra klaidinanti, laikoma, kad vartotojai susidaro nuomonę apie reklamoje pateikiamų teiginių teisingumą, reklamos išsamumą ir reklamos pateikimo būdą ar formą ir priima tokius sprendimus, kurių galima tikėtis iš vidutinio vartotojo. ^s-b90ce740f977117d0558ea55
@@ -489,7 +489,7 @@ Ginklų ir šaudmenų reklama leidžiama tik jų prekybos vietose, ginklų, šau
 ### 17 straipsnis. Kosmetikos gaminių reklama ^s-3e638e4fb8cc319a481ad94b
 
 
-Draudžiama 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1223/2009 dėl kosmetikos gaminių nuostatų neatitinkanti reklama.
+Draudžiama 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1223/2009](https://eur-lex.europa.eu/eli/reg/1223/2009/oj) dėl kosmetikos gaminių nuostatų neatitinkanti reklama.
 
 
 
@@ -511,25 +511,25 @@ REKLAMOS PRIEŽIŪRA
 1. Šiame įstatyme nustatytų reikalavimų įgyvendinimo priežiūrą, vadovaudamiesi šiuo ir kitais įstatymais, pagal kompetenciją atlieka: ^s-98af4ec1f32a9d4c4b0962a6
 
 
-1) Valstybinė vartotojų teisių apsaugos tarnyba – dėl šio įstatymo 4, 7, 8, 9, 11, [[#^s-1209e937b92f05d98e5ab9ba|13 straipsnių]], [[#^s-c99324b8c9ee758ba2d02414|14 straipsnio]] (nagrinėja šiame straipsnyje nustatytų reikalavimų pažeidimus ir skiria baudas dėl pažeidimų, ištirtų savo iniciatyva, arba pagal Valstybinės maisto ir veterinarijos tarnybos pateiktus pažeidimų tyrimo dokumentus su atlikto tyrimo išvadomis (aktą, protokolą ar kitą dokumentą) (toliau – tyrimo dokumentas), 15, 16, 17 ir [[#^s-e36726dd4dcdfe63bad94c29|18 straipsnių]] nuostatų; ^s-cd3481cb1e510a511cc19a4a
+1) Valstybinė vartotojų teisių apsaugos tarnyba – dėl šio įstatymo [[#^s-a5f83da95f853cca0718eb03|4]], [[#^s-87425ea4124b14de0da1feab|7]], [[#^s-99f497c9b379c0b4d6c74be1|8]], [[#^s-a9927c1fa606789afbf831d5|9]], [[#^s-145780a4aa0c11dc4ba18d90|11]], [[#^s-1209e937b92f05d98e5ab9ba|13]] straipsnių, [[#^s-c99324b8c9ee758ba2d02414|14 straipsnio]] (nagrinėja šiame straipsnyje nustatytų reikalavimų pažeidimus ir skiria baudas dėl pažeidimų, ištirtų savo iniciatyva, arba pagal Valstybinės maisto ir veterinarijos tarnybos pateiktus pažeidimų tyrimo dokumentus su atlikto tyrimo išvadomis (aktą, protokolą ar kitą dokumentą) (toliau – tyrimo dokumentas), [[#^s-4d9f5ac4ad96d084cd47239c|15]], [[#^s-d6e962e8185fedbd6af58f20|16]], [[#^s-3e638e4fb8cc319a481ad94b|17]] ir [[#^s-e36726dd4dcdfe63bad94c29|18]] straipsnių nuostatų; ^s-cd3481cb1e510a511cc19a4a
 
 
-2) Lietuvos Respublikos konkurencijos taryba (toliau – Konkurencijos taryba) – dėl šio įstatymo 5 ir [[#^s-a7b7ae17cf796723d8599c42|6 straipsnių]] nuostatų; ^s-551aa9146a8e6ac63573362e
+2) Lietuvos Respublikos konkurencijos taryba (toliau – Konkurencijos taryba) – dėl šio įstatymo [[#^s-83057a13248c1f95b04c5399|5]] ir [[#^s-a7b7ae17cf796723d8599c42|6]] straipsnių nuostatų; ^s-551aa9146a8e6ac63573362e
 
 
 3) Valstybinė maisto ir veterinarijos tarnyba – dėl šio įstatymo [[#^s-c99324b8c9ee758ba2d02414|14 straipsnio]] nuostatų (atlieka tyrimą dėl šiame straipsnyje nustatytų reikalavimų pažeidimo ir surašo tyrimo dokumentus); ^s-3595491de1f1d252b569170c
 
 
-4) savivaldybių vykdomosios institucijos – dėl šio įstatymo [[#^s-15c32fcf84aba37bccdd96f8|12 straipsnio]] 1, 2, 4 ir 12 dalių nuostatų; ^s-06a6f9ef0827644d0462ec3e
+4) savivaldybių vykdomosios institucijos – dėl šio įstatymo [[#^s-15c32fcf84aba37bccdd96f8|12 straipsnio]] [[#^s-b774b0e940cdb00757fc835f|1]], [[#^s-dc604a0c6871dcc0ce0e51c2|2]], [[#^s-552ee84d51dc74d3f0a32f31|4]] ir [[#^s-b6e863f17f21a574dc4399b1|12]] dalių nuostatų; ^s-06a6f9ef0827644d0462ec3e
 
 
-5) Kultūros paveldo departamentas prie Kultūros ministerijos – dėl šio įstatymo [[#^s-15c32fcf84aba37bccdd96f8|12 straipsnio]] 1, 2, 4 ir 12 dalių nuostatų (dėl išorinės reklamos įrengimo kultūros paveldo objektuose, jų teritorijose ir apsaugos zonose); ^s-387aa3c9e371e4af193eb0ce
+5) Kultūros paveldo departamentas prie Kultūros ministerijos – dėl šio įstatymo [[#^s-15c32fcf84aba37bccdd96f8|12 straipsnio]] [[#^s-b774b0e940cdb00757fc835f|1]], [[#^s-dc604a0c6871dcc0ce0e51c2|2]], [[#^s-552ee84d51dc74d3f0a32f31|4]] ir [[#^s-b6e863f17f21a574dc4399b1|12]] dalių nuostatų (dėl išorinės reklamos įrengimo kultūros paveldo objektuose, jų teritorijose ir apsaugos zonose); ^s-387aa3c9e371e4af193eb0ce
 
 
-6) saugomų teritorijų direkcija arba regiono aplinkos apsaugos departamentas, kai saugomoje teritorijoje nėra įsteigtos saugomų teritorijų direkcijos, – dėl šio įstatymo [[#^s-15c32fcf84aba37bccdd96f8|12 straipsnio]] 1, 2, 4 ir 12 dalių nuostatų (dėl išorinės reklamos įrengimo saugomose teritorijose). ^s-987e2287007849a8712cdafb
+6) saugomų teritorijų direkcija arba regiono aplinkos apsaugos departamentas, kai saugomoje teritorijoje nėra įsteigtos saugomų teritorijų direkcijos, – dėl šio įstatymo [[#^s-15c32fcf84aba37bccdd96f8|12 straipsnio]] [[#^s-b774b0e940cdb00757fc835f|1]], [[#^s-dc604a0c6871dcc0ce0e51c2|2]], [[#^s-552ee84d51dc74d3f0a32f31|4]] ir [[#^s-b6e863f17f21a574dc4399b1|12]] dalių nuostatų (dėl išorinės reklamos įrengimo saugomose teritorijose). ^s-987e2287007849a8712cdafb
 
 
-2. Konkurencijos taryba yra atsakinga už Reglamento (EB) Nr. 2006/2004 taikymą, kiek tai susiję su Konkurencijos tarybos funkcijomis prižiūrint, ar reklama nėra klaidinanti, ir lyginamąją reklamą. ^s-3452e30eb2995d83bfcb9358
+2. Konkurencijos taryba yra atsakinga už [Reglamento (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) taikymą, kiek tai susiję su Konkurencijos tarybos funkcijomis prižiūrint, ar reklama nėra klaidinanti, ir lyginamąją reklamą. ^s-3452e30eb2995d83bfcb9358
 
 
 3. [[#^s-98af4ec1f32a9d4c4b0962a6|Šio straipsnio 1 dalyje]] nurodytos institucijos (toliau – priežiūros institucijos), atlikdamos reklamos naudojimo priežiūrą, bendradarbiauja su reklamos savitvarkos institucijomis. ^s-394654710cd09f9f9a92ff59
@@ -591,7 +591,7 @@ REKLAMOS PRIEŽIŪRA
 1) teisę įpareigoti reklaminės veiklos subjektus, kurių reklama pripažinta klaidinančia ar neleidžiama lyginamąja, ją paneigti ir nustatyti šio įpareigojimo įvykdymo terminus, tvarką ir sąlygas; ^s-948b1f700e524f083a059ac2
 
 
-2) Reglamente (EB) Nr. 2006/2004 kompetentingai institucijai numatytas teises, kiek tai susiję su Konkurencijos tarybos funkcijomis prižiūrint, ar reklama nėra klaidinanti, ir lyginamąją reklamą; ^s-d97bb83ecb23f55b667deb3c
+2) [Reglamente (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) kompetentingai institucijai numatytas teises, kiek tai susiję su Konkurencijos tarybos funkcijomis prižiūrint, ar reklama nėra klaidinanti, ir lyginamąją reklamą; ^s-d97bb83ecb23f55b667deb3c
 
 
 3) teisę nustatyti Konkurencijos tarybos veiklos, atliekant reklamos naudojimo priežiūrą, prioritetus, kurie skelbiami Konkurencijos tarybos interneto svetainėje. ^s-7888a7ddff9d43bd387fc635
@@ -629,7 +629,7 @@ ATSAKOMYBĖ UŽ šiame ĮSTATYME NUSTATYTŲ REIKALAVIMŲ PAŽEIDIMUS IR JOS TAIK
 ### 24 straipsnis. Baudos ^s-c80eb59109e2c2ed7d2237ff
 
 
-1. Už šio įstatymo 4, 5, 6, 7, 8, 9, 11, 13, 14, 15, 16, 17 ir [[#^s-e36726dd4dcdfe63bad94c29|18 straipsniuose]] nustatytų reikalavimų nesilaikymą reklaminės veiklos subjektams gali būti skiriama bauda nuo vieno tūkstančio iki trisdešimties tūkstančių litų. Tais atvejais, kai šio įstatymo 5 ar [[#^s-a7b7ae17cf796723d8599c42|6 straipsnyje]] nustatyti reikalavimai pažeidžiami pakartotinai per vienus metus nuo baudos paskyrimo, reklaminės veiklos subjektams gali būti skiriama didesnė, iki vieno šimto dvidešimties tūkstančių litų, bauda. ^s-4c267d7fc8aff5d03efd6ce5
+1. Už šio įstatymo [[#^s-a5f83da95f853cca0718eb03|4]], [[#^s-83057a13248c1f95b04c5399|5]], [[#^s-a7b7ae17cf796723d8599c42|6]], [[#^s-87425ea4124b14de0da1feab|7]], [[#^s-99f497c9b379c0b4d6c74be1|8]], [[#^s-a9927c1fa606789afbf831d5|9]], [[#^s-145780a4aa0c11dc4ba18d90|11]], [[#^s-1209e937b92f05d98e5ab9ba|13]], [[#^s-c99324b8c9ee758ba2d02414|14]], [[#^s-4d9f5ac4ad96d084cd47239c|15]], [[#^s-d6e962e8185fedbd6af58f20|16]], [[#^s-3e638e4fb8cc319a481ad94b|17]] ir [[#^s-e36726dd4dcdfe63bad94c29|18]] straipsniuose nustatytų reikalavimų nesilaikymą reklaminės veiklos subjektams gali būti skiriama bauda nuo vieno tūkstančio iki trisdešimties tūkstančių litų. Tais atvejais, kai šio įstatymo [[#^s-83057a13248c1f95b04c5399|5]] ar [[#^s-a7b7ae17cf796723d8599c42|6]] straipsnyje nustatyti reikalavimai pažeidžiami pakartotinai per vienus metus nuo baudos paskyrimo, reklaminės veiklos subjektams gali būti skiriama didesnė, iki vieno šimto dvidešimties tūkstančių litų, bauda. ^s-4c267d7fc8aff5d03efd6ce5
 
 
 2. Už priežiūros institucijų laikino įpareigojimo sustabdyti reklamos skleidimą nevykdymą, įpareigojimo nutraukti šiame įstatyme nustatytų reikalavimų neatitinkančios reklamos naudojimą nevykdymą ar netinkamą jo vykdymą, už reklamos, kurios naudojimą reklaminės veiklos subjektas buvo įpareigotas nutraukti, pakartotinį naudojimą, jeigu tai pažeidžia šiame įstatyme nustatytus reikalavimus, arba Konkurencijos tarybos įpareigojimo paneigti klaidinančią ar neleidžiamą lyginamąją reklamą nevykdymą ar netinkamą jo vykdymą reklaminės veiklos subjektams skiriama vieno tūkstančio litų bauda už kiekvieną įpareigojimų nevykdymo, netinkamo vykdymo ar reklamos pakartotinio naudojimo dieną. ^s-34efc9877e34d90c186e637f
@@ -638,10 +638,10 @@ ATSAKOMYBĖ UŽ šiame ĮSTATYME NUSTATYTŲ REIKALAVIMŲ PAŽEIDIMUS IR JOS TAIK
 3. Už priežiūros institucijų reikalavimo pateikti informaciją ir dokumentus, o prireikus – ir reklamuojamų prekių ir reklamos pavyzdžius, reikalingus šiame įstatyme nustatytų reikalavimų pažeidimui tirti, nevykdymą ar netinkamą jo vykdymą reklaminės veiklos subjektams skiriama bauda nuo vieno tūkstančio iki dešimties tūkstančių litų. ^s-ff2c991204dc52bcd25daa2e
 
 
-4. Už šio įstatymo [[#^s-15c32fcf84aba37bccdd96f8|12 straipsnio]] 1, 2, 4 ir 12 dalyse nustatytų reikalavimų nesilaikymą reklaminės veiklos subjektams gali būti skiriama bauda nuo vieno tūkstančio iki dešimties tūkstančių litų. ^s-aa16b19ee934a42e34043816
+4. Už šio įstatymo [[#^s-15c32fcf84aba37bccdd96f8|12 straipsnio]] [[#^s-b774b0e940cdb00757fc835f|1]], [[#^s-dc604a0c6871dcc0ce0e51c2|2]], [[#^s-552ee84d51dc74d3f0a32f31|4]] ir [[#^s-b6e863f17f21a574dc4399b1|12]] dalyse nustatytų reikalavimų nesilaikymą reklaminės veiklos subjektams gali būti skiriama bauda nuo vieno tūkstančio iki dešimties tūkstančių litų. ^s-aa16b19ee934a42e34043816
 
 
-5. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudos vidurkį ir atsižvelgiant į šio straipsnio 7 ir [[#^s-c5a4ce353aa9e1f0c10b5aef|8 dalyse]] nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. ^s-fd3000ddfd4d2e4c30c18e7f
+5. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudos vidurkį ir atsižvelgiant į šio straipsnio [[#^s-26b23c3d938a4fa8e25c7be2|7]] ir [[#^s-c5a4ce353aa9e1f0c10b5aef|8]] dalyse nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. ^s-fd3000ddfd4d2e4c30c18e7f
 
 
 6. Skundą dėl priežiūros institucijų nutarimo nagrinėjantis teismas, atsižvelgdamas į atsakomybę lengvinančias ir kitas aplinkybes (dėl kurių atitinkama piniginė bauda reklaminės veiklos subjektui, kuris pažeidė šį įstatymą, būtų akivaizdžiai per didelė, nes neproporcinga padarytam teisės pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingumo, protingumo kriterijais, turi teisę skirti mažesnę piniginę baudą negu atitinkamoje šio straipsnio dalyje nustatyta minimali piniginė bauda. ^s-ee4b27b6081fcc7ab2a86bf8
@@ -653,10 +653,10 @@ ATSAKOMYBĖ UŽ šiame ĮSTATYME NUSTATYTŲ REIKALAVIMŲ PAŽEIDIMUS IR JOS TAIK
 8. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad reklaminės veiklos subjektas kliudė vykdyti tyrimą, tęsė šiame įstatyme nustatytų reikalavimų pažeidimą, nepaisydamas įpareigojimo jį nutraukti, jeigu reklamos vartotojams ar kitiems asmenims buvo padaryta žala arba pažeidimas padarytas pakartotinai per metus nuo šiame įstatyme numatytos baudos paskyrimo. ^s-c5a4ce353aa9e1f0c10b5aef
 
 
-9. Už [[#^s-4c267d7fc8aff5d03efd6ce5|šio straipsnio 1 dalies]] pirmame sakinyje, 2, 3 ir [[#^s-aa16b19ee934a42e34043816|4 dalyse]] nurodytus pažeidimus skiriamos baudos dydis neturi viršyti 3 procentų reklaminės veiklos subjekto metinių pajamų praėjusiais finansiniais metais, o už [[#^s-4c267d7fc8aff5d03efd6ce5|šio straipsnio 1 dalies]] antrame sakinyje nurodytus pažeidimus – 6 procentų reklaminės veiklos subjekto metinių pajamų praėjusiais finansiniais metais. Jeigu reklaminės veiklos subjektas vykdo veiklą trumpiau negu metus, atsižvelgiama į jo gaunamas pajamas einamaisiais finansiniais metais. ^s-d14ac7818a7c0c3f676e16cd
+9. Už [[#^s-4c267d7fc8aff5d03efd6ce5|šio straipsnio 1 dalies]] pirmame sakinyje, [[#^s-34efc9877e34d90c186e637f|2]], [[#^s-ff2c991204dc52bcd25daa2e|3]] ir [[#^s-aa16b19ee934a42e34043816|4]] dalyse nurodytus pažeidimus skiriamos baudos dydis neturi viršyti 3 procentų reklaminės veiklos subjekto metinių pajamų praėjusiais finansiniais metais, o už [[#^s-4c267d7fc8aff5d03efd6ce5|šio straipsnio 1 dalies]] antrame sakinyje nurodytus pažeidimus – 6 procentų reklaminės veiklos subjekto metinių pajamų praėjusiais finansiniais metais. Jeigu reklaminės veiklos subjektas vykdo veiklą trumpiau negu metus, atsižvelgiama į jo gaunamas pajamas einamaisiais finansiniais metais. ^s-d14ac7818a7c0c3f676e16cd
 
 
-10. Bauda gali būti skiriama ne vėliau kaip per vienus metus nuo reklamos skleidimo paskutinės dienos, šio straipsnio 2 ir [[#^s-ff2c991204dc52bcd25daa2e|3 dalyse]] nustatytais atvejais – nuo priežiūros institucijos sprendimo priėmimo dienos, o [[#^s-aa16b19ee934a42e34043816|šio straipsnio 4 dalyje]] nustatytais atvejais – nuo pažeidimo nustatymo dienos. Jeigu reklamos davėjas reklamoje nurodo įsipareigojimus tam tikram laikotarpiui, bauda gali būti skiriama per vienus metus nuo įsipareigojimų laikotarpio paskutinės dienos, bet ne vėliau kaip per trejus metus nuo paskutinės reklamos skleidimo dienos. ^s-78ad10df99bbe3cc3e25c202
+10. Bauda gali būti skiriama ne vėliau kaip per vienus metus nuo reklamos skleidimo paskutinės dienos, šio straipsnio [[#^s-34efc9877e34d90c186e637f|2]] ir [[#^s-ff2c991204dc52bcd25daa2e|3]] dalyse nustatytais atvejais – nuo priežiūros institucijos sprendimo priėmimo dienos, o [[#^s-aa16b19ee934a42e34043816|šio straipsnio 4 dalyje]] nustatytais atvejais – nuo pažeidimo nustatymo dienos. Jeigu reklamos davėjas reklamoje nurodo įsipareigojimus tam tikram laikotarpiui, bauda gali būti skiriama per vienus metus nuo įsipareigojimų laikotarpio paskutinės dienos, bet ne vėliau kaip per trejus metus nuo paskutinės reklamos skleidimo dienos. ^s-78ad10df99bbe3cc3e25c202
 
 
 
@@ -669,7 +669,7 @@ ATSAKOMYBĖ UŽ šiame ĮSTATYME NUSTATYTŲ REIKALAVIMŲ PAŽEIDIMUS IR JOS TAIK
 2. Teisę reikalauti, kad būtų pradėtas šiame įstatyme nustatytų reikalavimų pažeidimų nagrinėjimas, turi asmenys, kurių interesai yra pažeisti, valstybės ir savivaldybės institucijos ir įstaigos bei asmenų interesams atstovaujančios asociacijos (toliau – pareiškėjai). ^s-7343e36dad5c8fc52ada9202
 
 
-3. Priežiūros institucija turi teisę pradėti nagrinėti šiame įstatyme nustatytų reikalavimų pažeidimus savo iniciatyva, priimdama motyvuotą nutarimą. Tokiu atveju mutatis mutandis taikomos šio straipsnio 8–[[#^s-57f2ada484557e1adc0311f4|19 dalių]] nuostatos. ^s-2f35a338c9194256afa65b1d
+3. Priežiūros institucija turi teisę pradėti nagrinėti šiame įstatyme nustatytų reikalavimų pažeidimus savo iniciatyva, priimdama motyvuotą nutarimą. Tokiu atveju mutatis mutandis taikomos šio straipsnio [[#^s-61d1d2fe4bf6e50913f44c77|8]]–[[#^s-57f2ada484557e1adc0311f4|19]] dalių nuostatos. ^s-2f35a338c9194256afa65b1d
 
 
 4. Pranešimas (skundas) dėl šiame įstatyme nustatytų reikalavimų pažeidimo turi būti pateiktas raštu. Pranešime (skunde) turi būti nurodyta: ^s-367015824385cf9e1858cdde
@@ -705,7 +705,7 @@ ATSAKOMYBĖ UŽ šiame ĮSTATYME NUSTATYTŲ REIKALAVIMŲ PAŽEIDIMUS IR JOS TAIK
 6. Motyvuotu priežiūros institucijos nutarimu arba motyvuotu jos įgalioto pareigūno sprendimu taip pat gali būti atsisakoma pradėti pranešimo (skundo) nagrinėjimo procedūrą, jeigu reklamos savitvarkos institucija pateikia priežiūros institucijai dokumentą, patvirtinantį, kad pranešime (skunde) nurodyti faktai jau buvo nagrinėti, dėl jų reklamos savitvarkos institucija yra priėmusi sprendimą ir šiame įstatyme nustatytų reikalavimų pažeidimą padaręs reklaminės veiklos subjektas nutraukė pažeidimą. ^s-5d10464ef29581cad23dd922
 
 
-7. Konkurencijos taryba arba jos įgaliotas pareigūnas, be šio straipsnio 5 ir [[#^s-5d10464ef29581cad23dd922|6 dalyse]] nurodytų pranešimo (skundo) nagrinėjimo atsisakymo atvejų, gali atsisakyti pradėti pranešimo (skundo) nagrinėjimo procedūrą, jeigu pranešime (skunde) nurodyto šiame įstatyme nustatytų reikalavimų pažeidimo nagrinėjimas neatitinka Konkurencijos tarybos veiklos prioritetų. Ši nuostata netaikoma, jeigu pranešime (skunde) yra faktinių duomenų, leidžiančių pagrįstai įtarti, kad pažeidimas daro esminę žalą šio įstatymo saugomiems asmenų interesams. ^s-14781042879e9f5989d97ebb
+7. Konkurencijos taryba arba jos įgaliotas pareigūnas, be šio straipsnio [[#^s-f33c24577ea7750551c39eb0|5]] ir [[#^s-5d10464ef29581cad23dd922|6]] dalyse nurodytų pranešimo (skundo) nagrinėjimo atsisakymo atvejų, gali atsisakyti pradėti pranešimo (skundo) nagrinėjimo procedūrą, jeigu pranešime (skunde) nurodyto šiame įstatyme nustatytų reikalavimų pažeidimo nagrinėjimas neatitinka Konkurencijos tarybos veiklos prioritetų. Ši nuostata netaikoma, jeigu pranešime (skunde) yra faktinių duomenų, leidžiančių pagrįstai įtarti, kad pažeidimas daro esminę žalą šio įstatymo saugomiems asmenų interesams. ^s-14781042879e9f5989d97ebb
 
 
 8. Motyvuotas priežiūros institucijos nutarimas pradėti pranešimo (skundo) nagrinėjimo procedūrą, motyvuotas priežiūros institucijos nutarimas arba motyvuotas priežiūros institucijos įgalioto pareigūno sprendimas atsisakyti pradėti pranešimo (skundo) nagrinėjimo procedūrą turi būti priimtas ne vėliau kaip per 30 kalendorinių dienų nuo pranešimo (skundo) gavimo dienos, išskyrus [[#^s-f33c24577ea7750551c39eb0|šio straipsnio 5 dalies]] 1, 2 ir 3 punktuose nurodytus atvejus. Apie priimtą priežiūros institucijos nutarimą arba priežiūros institucijos įgalioto pareigūno sprendimą pareiškėjas informuojamas raštu ne vėliau kaip per 3 darbo dienas nuo nutarimo ar sprendimo priėmimo dienos. [[#^s-f33c24577ea7750551c39eb0|Šio straipsnio 5 dalies]] 1, 2 ir 3 punktuose nurodytais atvejais motyvuotas priežiūros institucijos nutarimas arba motyvuotas priežiūros institucijos įgalioto pareigūno sprendimas atsisakyti pradėti pranešimo (skundo) nagrinėjimo procedūrą turi būti priimtas ir apie tai pareiškėjas turi būti informuotas ne vėliau kaip per 5 darbo dienas nuo pranešimo (skundo) gavimo dienos. ^s-61d1d2fe4bf6e50913f44c77
@@ -784,20 +784,20 @@ ATSAKOMYBĖ UŽ šiame ĮSTATYME NUSTATYTŲ REIKALAVIMŲ PAŽEIDIMUS IR JOS TAIK
 ### 26 straipsnis. Baudų išieškojimas ^s-e05e2cf24656312596d3b1ff
 
 
-1. Priežiūros institucijos paskirta bauda į valstybės biudžetą sumokama ne vėliau kaip per vieną mėnesį nuo nutarimo dėl baudos paskyrimo priėmimo dienos. ^s-223dd5a0af07488e0c765817
+1. Priežiūros institucijos paskirta bauda į valstybės biudžetą sumokama ne vėliau kaip per vieną mėnesį nuo nutarimo [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) paskyrimo priėmimo dienos. ^s-223dd5a0af07488e0c765817
 
 
 2. Motyvuotu reklaminės veiklos subjekto prašymu priežiūros institucija turi teisę baudos arba jos dalies sumokėjimą atidėti iki trijų mėnesių, jeigu reklaminės veiklos subjektas sumokėti baudos laiku negali dėl objektyvių priežasčių. ^s-0745ab26bbda414bfab0d76a
 
 
-3. Priežiūros institucijos nutarimas dėl baudos skyrimo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-dba9810d8c3cf270138f2ee8
+3. Priežiūros institucijos nutarimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo yra vykdomasis dokumentas, vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-dba9810d8c3cf270138f2ee8
 
 
 
 ### 27 straipsnis. Priežiūros institucijos nutarimų ir jos įgaliotų pareigūnų sprendimų apskundimas ^s-fbe8497b3e4c82f4391ec342
 
 
-1. Reklaminės veiklos subjektas, dėl kurio veiksmų (neveikimo) buvo priimtas nutarimas, pareiškėjas, nesutinkantys su priežiūros institucijos nutarimu, priimtu pagal šio įstatymo [[#^s-c8f135dc043cbb2beccf3494|21 straipsnio 1 dalies 4 punktą]] ar [[#^s-2eba0aa3441529a40c61efeb|25 straipsnio 17 dalį]], arba pareiškėjas, nesutinkantis su priežiūros institucijos nutarimu arba jos įgalioto pareigūno sprendimu, priimtu pagal šio įstatymo [[#^s-1f46d3f65860d8cd875bde9f|25 straipsnio]] 5, 6 ir 7 dalis, turi teisę per 30 kalendorinių dienų nuo nutarimo ar sprendimo priėmimo dienos apskųsti jį teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-fd81c1623f4bc6cded85a07d
+1. Reklaminės veiklos subjektas, dėl kurio veiksmų (neveikimo) buvo priimtas nutarimas, pareiškėjas, nesutinkantys su priežiūros institucijos nutarimu, priimtu pagal šio įstatymo [[#^s-c8f135dc043cbb2beccf3494|21 straipsnio 1 dalies 4 punktą]] ar [[#^s-2eba0aa3441529a40c61efeb|25 straipsnio 17 dalį]], arba pareiškėjas, nesutinkantis su priežiūros institucijos nutarimu arba jos įgalioto pareigūno sprendimu, priimtu pagal šio įstatymo [[#^s-1f46d3f65860d8cd875bde9f|25 straipsnio]] [[#^s-f33c24577ea7750551c39eb0|5]], [[#^s-5d10464ef29581cad23dd922|6]] ir [[#^s-14781042879e9f5989d97ebb|7]] dalis, turi teisę per 30 kalendorinių dienų nuo nutarimo ar sprendimo priėmimo dienos apskųsti jį teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-fd81c1623f4bc6cded85a07d
 
 
 2. Kreipimasis į teismą nesustabdo nutarimo vykdymo, jeigu teismas nenustato kitaip. ^s-cd757b56c083875e4017b2cd
@@ -831,10 +831,10 @@ priedas
 
 
 
-1. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo („Reglamentas dėl bendradarbiavimo vartotojų apsaugos srityje“) (OL 2004 L 364, p. 1). ^s-f036a01d8ebee37c1216b437
+1. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo („Reglamentas dėl bendradarbiavimo vartotojų apsaugos srityje“) (OL 2004 L 364, p. 1). ^s-f036a01d8ebee37c1216b437
 
 
-2. 2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/29/EB dėl nesąžiningos įmonių komercinės veiklos vartotojų atžvilgiu vidaus rinkoje ir iš dalies keičianti Tarybos direktyvą 84/450/EEB, Europos Parlamento ir Tarybos direktyvas 97/7/EB, 98/27/EB bei 2002/65/EB ir Europos Parlamento ir Tarybos reglamentą (EB) Nr. 2006/2004 („Nesąžiningos komercinės veiklos direktyva“) (OL 2005 L 149, p. 22). ^s-653668e3efe4b67eb2f3e45a
+2. 2005 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2005/29/EB dėl nesąžiningos įmonių komercinės veiklos vartotojų atžvilgiu vidaus rinkoje ir iš dalies keičianti Tarybos direktyvą 84/450/EEB, Europos Parlamento ir Tarybos direktyvas 97/7/EB, 98/27/EB bei 2002/65/EB ir Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) („Nesąžiningos komercinės veiklos direktyva“) (OL 2005 L 149, p. 22). ^s-653668e3efe4b67eb2f3e45a
 
 
 3. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/114/EB dėl klaidinančios ir lyginamosios reklamos (kodifikuota redakcija) (OL 2006 L 376, p. 21). ^s-dfea377119c42a11f54062e6
@@ -843,7 +843,7 @@ priedas
 4. 2006 m. gruodžio 22 d. Komisijos direktyva 2006/141/EB dėl pradinių mišinių kūdikiams ir tolesnio maitinimo mišinių, iš dalies keičianti Direktyvą 1999/21/EB (OL 2006 L 401, p. 1). ^s-fcce6f7d5f53958fb26521c7
 
 
-5. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1223/2009 dėl kosmetikos gaminių (OL 2009 L 342, p. 59). ^s-527dc9bcb25e44e84f15fe4a
+5. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1223/2009](https://eur-lex.europa.eu/eli/reg/1223/2009/oj) dėl kosmetikos gaminių (OL 2009 L 342, p. 59). ^s-527dc9bcb25e44e84f15fe4a
 
 
 6. 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 528/2012 dėl biocidinių produktų tiekimo rinkai ir jų naudojimo (OL 2012 L 167, p. 1).“ ^s-4861b73404720d063d7c7191

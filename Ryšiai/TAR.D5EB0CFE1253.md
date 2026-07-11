@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statu
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.33A63C3E9D4C#^s-6cae446d180b77a0afe3a5c4|Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymas]] - 3 citatos - 0981010ISTAVIII-922
-- [[latest/TAR.33A63C3E9D4C#^s-8cb84ae0e1a58ae9a4426ca3|Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymas]] - 3 citatos - 0981010ISTAVIII-922
+- [[latest/TAR.33A63C3E9D4C#^s-6cae446d180b77a0afe3a5c4|Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos įstatymas]] - 2 citatos - 0981010ISTAVIII-922

@@ -51,7 +51,7 @@ Vilnius
 2. Vyriausioji administracinių ginčų komisija nesprendžia: ^s-324976d87c47a07802068235
 
 
-1) [[latest/TAR.67B5099C5848#^s-39c9f5005208c00cfce0baa0|Administracinių bylų teisenos įstatymo 16 straipsnyje]], 18 straipsnyje, 19 straipsnio 2 ir 3 dalyse ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų; ^s-5a07018b9b558d035f1cce01
+1) [[latest/TAR.67B5099C5848#^s-e87cc1799e1a723ab0c8765d|Administracinių bylų teisenos įstatymo 16 straipsnyje, 18 straipsnyje, 19 straipsnio]] [[latest/TAR.67B5099C5848#^s-7824410e9d37e212cd7c0c56|2]] ir [[latest/TAR.67B5099C5848|3]] dalyse ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų; ^s-5a07018b9b558d035f1cce01
 
 
 2) administracinių ginčų, kuriems nagrinėti įstatymai numato kitokią tvarką.“ ^s-67eb639e8f4d9d9f293bb05b
@@ -68,7 +68,7 @@ Vilnius
 ### 3 straipsnis. Įstatymo įgyvendinimas ^s-edb927ef1fe85b4783ade91b
 
 
-Skundai (prašymai) dėl Antidempingo įstatymo pažeidimų, priimti Vyriausiosios administracinių ginčų komisijos, bet neišnagrinėti iki šio Įstatymo įsigaliojimo, baigiami nagrinėti pagal tuo metu galiojusią tvarką.
+Skundai (prašymai) dėl [Antidempingo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.834893A1E7FD) pažeidimų, priimti Vyriausiosios administracinių ginčų komisijos, bet neišnagrinėti iki šio Įstatymo įsigaliojimo, baigiami nagrinėti pagal tuo metu galiojusią tvarką.
 
 
 

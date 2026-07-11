@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-e8030cd96b736fdcd23263d3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. lapkričio 15 d. dekretą Nr. 132, ratifikuoja 1992 m. kovo 24 d. Helsinkyje sudarytą Atviros oro erdvės sutartį.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. lapkričio 15 d. dekretą Nr. 132](https://e-tar.lt/portal/lt/legalAct/TAR.3A6D06CB4A23), ratifikuoja 1992 m. kovo 24 d. Helsinkyje sudarytą Atviros oro erdvės sutartį.
 
 
 

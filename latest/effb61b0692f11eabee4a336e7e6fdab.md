@@ -40,13 +40,13 @@ Vilnius
 ### 1 straipsnis. 9 straipsnio pakeitimas ^s-7624abd88433d568c2009578
 
 
-1. Pakeisti 9 straipsnio 1 punktą ir jį išdėstyti taip: ^s-42895e8567e564e1467c3fa7
+1. Pakeisti [[latest/9af9c40028ab11eabe008ea93139d588#^s-3c16b61783994b273b0e24ff|9 straipsnio 1 punktą]] ir jį išdėstyti taip: ^s-42895e8567e564e1467c3fa7
 
 
 „1) už valstybės garantuojamų garantijų institucijų prisiimtus įsipareigojimus pagal garantijas. Bendra tokių įsipareigojimų, prisiimtų 2020 ir ankstesniais metais, suma vienu metu negali viršyti 768 000 tūkst. eurų. Į garantijų institucijų prisiimtų įsipareigojimų pagal garantijas limitą neįtraukiama garantijų institucijų įsipareigojimų pagal garantijas dalis, kuri yra pergarantuota finansų institucijų, turinčių aukščiausią kredito reitingą (AAA), suteiktą bent dviejų iš tarptautinių reitingų agentūrų Moody’s, Standard & Poor’s ir Fitch Ratings;“.
 
 
-2. Papildyti 9 straipsnį 4 punktu: ^s-82bc8c8e5fcc70040b6b4d83
+2. Papildyti [[latest/9af9c40028ab11eabe008ea93139d588#^s-98c3db23bb2547cff464581e|9 straipsnį 4 punktu]]: ^s-82bc8c8e5fcc70040b6b4d83
 
 
 „4) dėl paskolų, naudojamų ekstremaliųjų situacijų paveiktos ekonomikos skatinimo tikslams įgyvendinti ir likvidumui didinti. Bendra tokių įsipareigojimų, prisiimtų 2020 metais, suma vienu metu negali viršyti 500 000  tūkst. eurų.“
@@ -56,10 +56,10 @@ Vilnius
 ### 2 straipsnis. 10 straipsnio pakeitimas ^s-de67a3c38965162fca79f743
 
 
-Pakeisti 10 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/9af9c40028ab11eabe008ea93139d588#^s-6a4e046da82b82678fe32e50|10 straipsnį]] ir jį išdėstyti taip:
 
 
-„10 straipsnis. Vyriausybės grynojo skolinių įsipareigojimų pokyčio limitas
+„[[latest/9af9c40028ab11eabe008ea93139d588#^s-6a4e046da82b82678fe32e50|10 straipsnis]]. Vyriausybės grynojo skolinių įsipareigojimų pokyčio limitas
 
 
 2020 metų Vyriausybės grynojo skolinių įsipareigojimų pokyčio limitas yra (teigiamas) 5 401 437 tūkst. eurų, iš jų 1 099 368 tūkst. eurų skirta sukaupti lėšoms euroobligacijų emisijai 2021 metais išpirkti.“
@@ -69,7 +69,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 ### 3 straipsnis. Įstatymo taikymas ^s-8cbfdfef93a0085b8e05a30b
 
 
-Lietuvos Respublikos Vyriausybė turi teisę, iki nustatyta tvarka bus priimtas [[latest/9af9c40028ab11eabe008ea93139d588#^s-d9433456384417a3b5e20743|Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas, prireikus viršyti šio įstatymo 1 ir 2 straipsniuose]] nustatytus limitus.
+Lietuvos Respublikos Vyriausybė turi teisę, iki nustatyta tvarka bus priimtas [[latest/9af9c40028ab11eabe008ea93139d588|Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo]] pakeitimo įstatymas, prireikus viršyti šio įstatymo [[latest/9af9c40028ab11eabe008ea93139d588#^s-7e4daa19b8fa0bb40006c2ad|1]] ir [[latest/9af9c40028ab11eabe008ea93139d588#^s-d9433456384417a3b5e20743|2]] straipsniuose nustatytus limitus.
 
 
 

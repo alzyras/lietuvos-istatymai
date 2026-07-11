@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Sprendimo ratifikavimas ^s-5263b37d59b04275e0a77aa1
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. spalio 27 d. dekretą Nr. 788, ratifikuoja 2004 m. lapkričio 10 d. Briuselyje priimtą Taryboje posėdžiavusių Europos Sąjungos valstybių narių vyriausybių atstovų sprendimą dėl Europos gynybos agentūrai ir jos personalo nariams suteikiamų privilegijų ir imunitetų.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. spalio 27 d. dekretą Nr. 788](https://e-tar.lt/portal/lt/legalAct/TAR.F2F573EF6B20), ratifikuoja 2004 m. lapkričio 10 d. Briuselyje priimtą Taryboje posėdžiavusių Europos Sąjungos valstybių narių vyriausybių atstovų sprendimą dėl Europos gynybos agentūrai ir jos personalo nariams suteikiamų privilegijų ir imunitetų.
 
 
 

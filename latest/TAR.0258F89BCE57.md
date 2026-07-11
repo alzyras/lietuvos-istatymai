@@ -167,13 +167,13 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMO SĄLYGOS IR TVARKA
 3) įsiteisėjusi teismo nutartis taikyti priverčiamąsias medicinos priemones; ^s-eda5c7badd1ba734b98541c3
 
 
-4) ikiteisminio tyrimo pareigūno ar prokuroro nutarimas atsisakyti pradėti ikiteisminį tyrimą arba prokuroro nutarimas ar ikiteisminio tyrimo teisėjo nutartis nutraukti ikiteisminį tyrimą, arba teismo nutartis nutraukti baudžiamąją bylą, nes yra [[latest/TAR.EC588C321777#^s-4e3572876114ef5766e45d8d|Baudžiamojo proceso kodekso 3 straipsnio 1 dalies]] 3, 4 ar 7 punkte nurodyta aplinkybė. ^s-98f6204f24d6ba1848fed996
+4) ikiteisminio tyrimo pareigūno ar prokuroro nutarimas atsisakyti pradėti ikiteisminį tyrimą arba prokuroro nutarimas ar ikiteisminio tyrimo teisėjo nutartis nutraukti ikiteisminį tyrimą, arba teismo nutartis nutraukti baudžiamąją bylą, nes yra [[latest/TAR.EC588C321777#^s-4e3572876114ef5766e45d8d|Baudžiamojo proceso kodekso 3 straipsnio 1 dalies]] [[latest/TAR.EC588C321777#^s-b2f7c56f827014ffd4e72a3e|3]], [[latest/TAR.EC588C321777#^s-5637f8641a7d20da14084975|4]] ar [[latest/TAR.EC588C321777#^s-b39ad8c49fa923ea92e51c5a|7]] punkte nurodyta aplinkybė. ^s-98f6204f24d6ba1848fed996
 
 
 3. Smurtiniu nusikaltimu padaryta žala laikoma neatlyginta, jeigu yra visos šios sąlygos: ^s-d79bdb297ca5475400c074bb
 
 
-1) žalos per teismo nustatytą ar patvirtintą terminą savanoriškai neatlygino už žalą atsakingas asmuo ir žala neišieškota dėl Civilinio proceso kodekso 631 straipsnio 1 dalies 2, 3, 4, 6 ar 9 punkte nurodytų aplinkybių; ^s-9c4aa505bdc4b7b8759d8cf5
+1) žalos per teismo nustatytą ar patvirtintą terminą savanoriškai neatlygino už žalą atsakingas asmuo ir žala neišieškota dėl [Civilinio proceso kodekso 631 straipsnio 1 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) [2](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [3](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [4](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [6](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ar [9](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) punkte nurodytų aplinkybių; ^s-9c4aa505bdc4b7b8759d8cf5
 
 
 2) žala neatlyginta ir nekompensuota iš Valstybinio socialinio draudimo fondo ir Privalomojo sveikatos draudimo fondo biudžetų, žalos neatlygino ir nekompensavo užsienio valstybių kompetentingos institucijos ar kiti asmenys, išskyrus atvejus, kai žalą atlygino draudikas pagal savanoriškojo draudimo sutartį, jei draudikui nepereina teisė reikalauti išmokėtų sumų iš už žalą atsakingo asmens (netaikoma subrogacija). Žalos atlyginimu ar kompensavimu nelaikomos piniginės aukos ar kita suteikta materialinė parama; ^s-2e303a63a51439a028d08fd1
@@ -225,16 +225,16 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMO SĄLYGOS IR TVARKA
 2) turtinės žalos dydį pagrindžiančius dokumentus; ^s-69cb9635a2ae07274c9f446a
 
 
-3) antstolio surašytą aktą, kad žala neišieškota dėl Civilinio proceso kodekso 631 straipsnio 1 dalies 2, 3, 4, 6 ar 9 punkte nurodytų aplinkybių; ^s-1731fbfd3574ba062a0fa8f5
+3) antstolio surašytą aktą, kad žala neišieškota dėl [Civilinio proceso kodekso 631 straipsnio 1 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) [2](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [3](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [4](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [6](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ar [9](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) punkte nurodytų aplinkybių; ^s-1731fbfd3574ba062a0fa8f5
 
 
 4) santuokos, giminystės ar išlaikymo faktą patvirtinančius dokumentus, jeigu prašymą pateikia šio įstatymo [[#^s-01e05b51871ffd2b1bdf9627|3 straipsnio 1 dalies 2 punkte]] nurodytas asmuo. ^s-946c28caba6f5eb96a813bbf
 
 
-4. Fondo administratorius turi teisę gauti iš teismo, teisėsaugos ar kitų institucijų sprendimui dėl žalos kompensavimo priimti reikalingą informaciją, įskaitant informaciją apie šio įstatymo [[#^s-2ab86e411fe10f0605fc6f79|3 straipsnio]] 2, 3 ir [[#^s-a9b5782daa4a074b414a4628|4 dalyse]] nurodytas aplinkybes. Šio įstatymo [[#^s-7c5335c1254ea876ee834130|4 straipsnio 1 dalies 1 punkte]] nurodyto teismo ar teisėsaugos institucijos sprendimo nuorašą, taip pat ikiteisminio tyrimo pareigūno, prokuroro nutarimo ar teismo nutarties dėl asmens pripažinimo nukentėjusiuoju nuorašą Fondo administratoriui tiesiogiai pateikia teismas ar teisėsaugos institucija. ^s-a9b5782daa4a074b414a4628
+4. Fondo administratorius turi teisę gauti iš teismo, teisėsaugos ar kitų institucijų sprendimui dėl žalos kompensavimo priimti reikalingą informaciją, įskaitant informaciją apie šio įstatymo [[#^s-2ab86e411fe10f0605fc6f79|3 straipsnio]] [[#^s-2fca64c7bcfcf8f5b23aebc8|2]], [[#^s-5ef56e46ae9da8d6b681bddb|3]] ir [[#^s-76c45d11b517b9e505f594d2|4]] dalyse nurodytas aplinkybes. Šio įstatymo [[#^s-7c5335c1254ea876ee834130|4 straipsnio 1 dalies 1 punkte]] nurodyto teismo ar teisėsaugos institucijos sprendimo nuorašą, taip pat ikiteisminio tyrimo pareigūno, prokuroro nutarimo ar teismo nutarties dėl asmens pripažinimo nukentėjusiuoju nuorašą Fondo administratoriui tiesiogiai pateikia teismas ar teisėsaugos institucija. ^s-a9b5782daa4a074b414a4628
 
 
-5. Fondo administratorius priima sprendimą dėl žalos kompensavimo – sprendimą kompensuoti žalą (išmokėti piniginę kompensaciją) arba motyvuotą sprendimą atsisakyti kompensuoti žalą – ne vėliau kaip per mėnesį nuo šio straipsnio 2, 3 ir [[#^s-a9b5782daa4a074b414a4628|4 dalyse]] nurodytų dokumentų gavimo dienos. ^s-cc567429daf0ca14deeacf0f
+5. Fondo administratorius priima sprendimą dėl žalos kompensavimo – sprendimą kompensuoti žalą (išmokėti piniginę kompensaciją) arba motyvuotą sprendimą atsisakyti kompensuoti žalą – ne vėliau kaip per mėnesį nuo šio straipsnio [[#^s-af3266b5cfe758396b57a619|2]], [[#^s-fb9d472ce926c6a5c01c261c|3]] ir [[#^s-a9b5782daa4a074b414a4628|4]] dalyse nurodytų dokumentų gavimo dienos. ^s-cc567429daf0ca14deeacf0f
 
 
 6. Jeigu baudžiamasis procesas atnaujinamas ar yra kitų svarbių aplinkybių, dėl kurių Fondo administratorius negali priimti sprendimo dėl žalos kompensavimo, asmens prašymo kompensuoti smurtiniu nusikaltimu padarytą žalą nagrinėjimas motyvuotu Fondo administratoriaus sprendimu sustabdomas iki baudžiamojo proceso pabaigos ar kitų svarbių aplinkybių, dėl kurių Fondo administratorius negali priimti sprendimo dėl žalos kompensavimo, išnykimo. ^s-fb051bfb3ce393a1ff901b09
@@ -335,19 +335,19 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMO SĄLYGOS IR TVARKA
 2) smurtinis nusikaltimas padarytas Lietuvos Respublikos teritorijoje arba laive ar orlaivyje su Lietuvos valstybės vėliava ar skiriamaisiais ženklais; ^s-91e1fec430242d323bb91d79
 
 
-3) už žalą atsakingas asmuo savanoriškai neatlygino turtinės žalos ir yra šio įstatymo [[#^s-d79bdb297ca5475400c074bb|4 straipsnio 3 dalies]] 2 ir 3 punktuose nurodytos aplinkybės; ^s-1a05663cedce3371340d9f7b
+3) už žalą atsakingas asmuo savanoriškai neatlygino turtinės žalos ir yra šio įstatymo [[#^s-d79bdb297ca5475400c074bb|4 straipsnio 3 dalies]] [[#^s-2e303a63a51439a028d08fd1|2]] ir [[#^s-53e305e1c0e340185ef934eb|3]] punktuose nurodytos aplinkybės; ^s-1a05663cedce3371340d9f7b
 
 
 4) prašymas Fondo administratoriui avansu kompensuoti smurtiniu nusikaltimu padarytą žalą pateiktas ne vėliau kaip per trejus metus po nusikaltimo padarymo, išskyrus atvejus, kai šis terminas praleistas dėl svarbių priežasčių; ^s-51d6adc42fcf8f5ef95817ce
 
 
-5) nėra nustatyta šio įstatymo [[#^s-2ab86e411fe10f0605fc6f79|3 straipsnio]] 2, 3 ar [[#^s-2e7b0a251d221d4b29667fc0|4 dalyje]] nurodytų aplinkybių. ^s-06df11cc915bb6c23b927061
+5) nėra nustatyta šio įstatymo [[#^s-2ab86e411fe10f0605fc6f79|3 straipsnio]] [[#^s-2fca64c7bcfcf8f5b23aebc8|2]], [[#^s-5ef56e46ae9da8d6b681bddb|3]] ar [[#^s-76c45d11b517b9e505f594d2|4]] dalyje nurodytų aplinkybių. ^s-06df11cc915bb6c23b927061
 
 
 3. Kompensuojama avansu turtinė žala negali viršyti 25 MGL. ^s-a5cae0b23f1ca406c763ae4c
 
 
-4. Prašymo avansu kompensuoti smurtiniu nusikaltimu padarytą žalą formą tvirtina teisingumo ministras. Prašyme avansu kompensuoti smurtiniu nusikaltimu padarytą žalą turi būti nurodyti šio įstatymo [[#^s-af3266b5cfe758396b57a619|5 straipsnio 2 dalies]] 1, 2, 3, 5, 6, 7, 8 punktuose nurodyti duomenys ir ikiteisminį tyrimą dėl smurtinio nusikaltimo atliekanti (atlikusi) institucija, ir (ar) baudžiamąją bylą nagrinėjantis (išnagrinėjęs) teismas. Kartu su prašymu turi būti pateikiami šio įstatymo [[#^s-fb9d472ce926c6a5c01c261c|5 straipsnio 3 dalies]] 1, 2 ir 4 punktuose nurodyti dokumentai. ^s-2e7b0a251d221d4b29667fc0
+4. Prašymo avansu kompensuoti smurtiniu nusikaltimu padarytą žalą formą tvirtina teisingumo ministras. Prašyme avansu kompensuoti smurtiniu nusikaltimu padarytą žalą turi būti nurodyti šio įstatymo [[#^s-af3266b5cfe758396b57a619|5 straipsnio 2 dalies]] [[#^s-f482d338450ed932a8282ad6|1]], [[#^s-17f8f18f41fc91efff447c79|2]], [[#^s-efa7961a804bbee27f227ed0|3]], [[#^s-b73f0d08cf63df0b17000575|5]], [[#^s-b9e2c06c1c2d674ff8fbe4bd|6]], [[#^s-693263256e67d6fa2bcae6f1|7]], [[#^s-a829bd1bcef28cb099b4bae2|8]] punktuose nurodyti duomenys ir ikiteisminį tyrimą dėl smurtinio nusikaltimo atliekanti (atlikusi) institucija, ir (ar) baudžiamąją bylą nagrinėjantis (išnagrinėjęs) teismas. Kartu su prašymu turi būti pateikiami šio įstatymo [[#^s-fb9d472ce926c6a5c01c261c|5 straipsnio 3 dalies]] [[#^s-dd980ad09b20f78d47b1cf52|1]], [[#^s-69cb9635a2ae07274c9f446a|2]] ir [[#^s-946c28caba6f5eb96a813bbf|4]] punktuose nurodyti dokumentai. ^s-2e7b0a251d221d4b29667fc0
 
 
 5. Asmuo, kuriam turtinė žala kompensuota avansu, privalo avansą grąžinti, jeigu paaiškėja, kad: ^s-e3122598065bad2986861fbb
@@ -385,10 +385,10 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMO SĄLYGOS IR TVARKA
 1. Fondo administratorius, šio įstatymo nustatyta tvarka kompensavęs smurtiniu nusikaltimu padarytą žalą, įgyja regreso (atgręžtinio reikalavimo) teisę iš už žalą atsakingo asmens, jeigu šis yra nustatytas, teismo tvarka išieškoti tokio dydžio sumas, kiek išmokėjo šio įstatymo [[#^s-0b7b44fe14458b0c89b75c00|3 straipsnio 1 dalyje]] nurodytiems asmenims. ^s-3bc2ef2273694428e53f7e61
 
 
-2. Fondo administratorius turi teisę iš asmenų, pateikusių melagingą informaciją, taip pat iš šio įstatymo [[#^s-2ab86e411fe10f0605fc6f79|3 straipsnio]] 2, 3 ir 4 dalyse nurodytų asmenų, kuriems šio įstatymo nustatyta tvarka kompensuota žala, teismo tvarka išieškoti jiems išmokėtas sumas. ^s-0529d1f616414ffdbac956b4
+2. Fondo administratorius turi teisę iš asmenų, pateikusių melagingą informaciją, taip pat iš šio įstatymo [[#^s-2ab86e411fe10f0605fc6f79|3 straipsnio]] [[#^s-2fca64c7bcfcf8f5b23aebc8|2]], [[#^s-5ef56e46ae9da8d6b681bddb|3]] ir [[#^s-76c45d11b517b9e505f594d2|4]] dalyse nurodytų asmenų, kuriems šio įstatymo nustatyta tvarka kompensuota žala, teismo tvarka išieškoti jiems išmokėtas sumas. ^s-0529d1f616414ffdbac956b4
 
 
-3. Šio straipsnio 1 ir [[#^s-0529d1f616414ffdbac956b4|2 dalyse]] nustatyta tvarka išieškotos lėšos pervedamos Fondui. ^s-97c9b35ce5d9e307e60cb70b
+3. Šio straipsnio [[#^s-3bc2ef2273694428e53f7e61|1]] ir [[#^s-0529d1f616414ffdbac956b4|2]] dalyse nustatyta tvarka išieškotos lėšos pervedamos Fondui. ^s-97c9b35ce5d9e307e60cb70b
 
 
 
@@ -406,7 +406,7 @@ NUKENTĖJUSIŲ NUO NUSIKALTIMŲ ASMENŲ FONDAS
 2. Fondą administruoja Fondo administratorius – Lietuvos Respublikos teisingumo ministerija arba jos įgaliota institucija. ^s-1459a05d8e4f0570a332de29
 
 
-3. Fondas administruojamas vadovaujantis Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos Vyriausybės nutarimais bei kitais teisės aktais. ^s-a8ad6feb4d7d1443ecfc3cf3
+3. Fondas administruojamas vadovaujantis [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Lietuvos Respublikos Vyriausybės nutarimais bei kitais teisės aktais. ^s-a8ad6feb4d7d1443ecfc3cf3
 
 
 4. Fondo administratorius: ^s-61f38ad1d244127ae814fbea

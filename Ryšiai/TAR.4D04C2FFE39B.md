@@ -9,10 +9,8 @@ pavadinimas: "Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - Valstybės ir tarnybos paslapčių įstatymo
-- [[latest/TAR.83D9F662C0E4|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo pakeitimo įstatymas]] - 2003 m. gruodžio 16 d. įstatymu Nr. IX-1908
+- [[latest/TAR.83D9F662C0E4#^s-b5f7cab8374118d9b80ff4ed|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo pakeitimo įstatymas]] - 7 straipsnio 2 dalies 23 punktą
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F4CA26A706AF#^s-8ab41cc659ccc91c7b22e3c4|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - Įstatymas Nr. IX-2137
-- [[latest/TAR.F4CA26A706AF#^s-cc938f92d563237f4466a759|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - Įstatymas Nr. IX-2137
+_Nėra._

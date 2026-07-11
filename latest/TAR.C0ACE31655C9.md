@@ -143,7 +143,7 @@ VIII skyrių pripažinti netekusiu galios.
 ### 9 straipsnis. 41 straipsnio pakeitimas ^s-311b6e6d4220e4f5f1f74f56
 
 
-41 straipsnio 1 punktą pripažinti netekusiu galios, buvusius 2 ir 3 punktus laikyti atitinkamai 1 ir [[#^s-9606ac735c934ed34ec19a56|2 punktais]] ir visą straipsnį išdėstyti taip:
+41 straipsnio 1 punktą pripažinti netekusiu galios, buvusius 2 ir 3 punktus laikyti atitinkamai 1 ir 2 punktais ir visą straipsnį išdėstyti taip:
 
 
 „41 straipsnis. Pasiūlymai Vyriausybei

@@ -49,7 +49,7 @@ Vilnius
 2. Papildyti 13 straipsnį 6 dalimi: ^s-fc1e70b2d375423f9ab3e6ba
 
 
-„6. Jeigu [[#^s-fc1e70b2d375423f9ab3e6ba|šio straipsnio 2 dalyje]] nustatytų šaltinių nepakanka, kad savivaldybių biudžetų negautos pajamos būtų kompensuotos, Vyriausybė, atsižvelgdama į savivaldybių biudžetų negautas prognozuotas pajamų sumas, biudžetiniams metams pasibaigus, iki balandžio 1 dienos priima nutarimą, kuriame nurodo kiekvienai savivaldybei priklausiusias pervesti, bet praėjusiais biudžetiniais metais nepervestas bendrosios dotacijos kompensacijų sumas (atitinkamą jų dalį), nuo kurių pervedimo savivaldybė atleidžiama, arba praėjusiais biudžetiniais metais pervestas bendrosios dotacijos kompensacijų sumas (atitinkamą jų dalį), kurios grąžinamos savivaldybei iki biudžetinių metų pabaigos iš valstybės biudžeto gautų bendrosios dotacijos kompensacijų.“
+„6. Jeigu šio straipsnio 2 dalyje nustatytų šaltinių nepakanka, kad savivaldybių biudžetų negautos pajamos būtų kompensuotos, Vyriausybė, atsižvelgdama į savivaldybių biudžetų negautas prognozuotas pajamų sumas, biudžetiniams metams pasibaigus, iki balandžio 1 dienos priima nutarimą, kuriame nurodo kiekvienai savivaldybei priklausiusias pervesti, bet praėjusiais biudžetiniais metais nepervestas bendrosios dotacijos kompensacijų sumas (atitinkamą jų dalį), nuo kurių pervedimo savivaldybė atleidžiama, arba praėjusiais biudžetiniais metais pervestas bendrosios dotacijos kompensacijų sumas (atitinkamą jų dalį), kurios grąžinamos savivaldybei iki biudžetinių metų pabaigos iš valstybės biudžeto gautų bendrosios dotacijos kompensacijų.“
 
 
 

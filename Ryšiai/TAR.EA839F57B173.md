@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos psichikos sveikatos priežiūros įstatymo IX
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.4043B97881A2#^s-6c9a48b1922928075a0b5ef7|Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas]] - 3 citatos - 1031010ISTA0IX-1444
+- [[latest/TAR.4043B97881A2#^s-6c9a48b1922928075a0b5ef7|Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas]] - 2 citatos - 1031010ISTA0IX-1444

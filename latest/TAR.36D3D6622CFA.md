@@ -78,7 +78,7 @@ Pakeisti 2 straipsnio 11 dalį ir ją išdėstyti taip:
 [[#^s-28219a50876537fd349dab54|8 straipsnio 1 dalyje]] po žodžio „išmoka“ įrašyti žodžius „Lietuvos Respublikos žmonių saugos darbe įstatyme nustatyto dydžio“, išbraukti žodžius „ne mažesnę kaip 100 respublikos ūkio vidutinių darbo užmokesčių. Apskaičiuojant šią pašalpą, respublikos ūkio vidutinis darbo užmokestis imamas tokio dydžio, kokį Statistikos departamentas prie Lietuvos Respublikos Vyriausybės paskelbė mėnesiui, ėjusiam prieš tą mėnesį, kurį įvyko mirtinas nelaimingas atsitikimas darbe“ ir šią dalį išdėstyti taip:
 
 
-„1. Įmonė, kurioje dėl saugos darbe norminių aktų pažeidimo įvyko mirtinas nelaimingas atsitikimas, mirusiojo šeimai išmoka Lietuvos Respublikos žmonių saugos darbe įstatyme nustatyto dydžio vienkartinę pašalpą. Ši pašalpa lygiomis dalimis išmokama kiekvienam mirusiojo šeimos nariui.“
+„1. Įmonė, kurioje dėl saugos darbe norminių aktų pažeidimo įvyko mirtinas nelaimingas atsitikimas, mirusiojo šeimai išmoka [Lietuvos Respublikos žmonių saugos darbe įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.1C72AF32F5CB) nustatyto dydžio vienkartinę pašalpą. Ši pašalpa lygiomis dalimis išmokama kiekvienam mirusiojo šeimos nariui.“
 
 
 
@@ -104,7 +104,7 @@ Pakeisti 2 straipsnio 11 dalį ir ją išdėstyti taip:
 12 straipsnio 5 dalies pirmajame sakinyje po žodžio „mokama“ įrašyti žodį „lygiomis“, pakeisti antrąjį sakinį ir visą dalį išdėstyti taip:
 
 
-„5. Vienkartinė kompensacija gali būti mokama lygiomis dalimis, bet ne ilgiau kaip per metus. Nuo neišmokėtos per kompensacijos mokėjimo dalimis laikotarpį sumos skaičiuojami ir išmokami delspinigiai Lietuvos Respublikos delspinigių nustatymo už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą įstatymo nustatyta tvarka ir dydžiais.“
+„5. Vienkartinė kompensacija gali būti mokama lygiomis dalimis, bet ne ilgiau kaip per metus. Nuo neišmokėtos per kompensacijos mokėjimo dalimis laikotarpį sumos skaičiuojami ir išmokami delspinigiai [Lietuvos Respublikos delspinigių nustatymo už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2B8927CF0E9E) nustatyta tvarka ir dydžiais.“
 
 
 
@@ -187,7 +187,7 @@ Papildyti Įstatymą 181 straipsniu:
 2) gavusiems ar gaunantiems vienkartinę netekto darbingumo kompensaciją – ne vėliau kaip iki 2000 m. rugsėjo 30 d. ^s-a69f83fb3679d217cd8ef46c
 
 
-3. Jeigu per [[#^s-e57c800f6bd1bfe34c0076fc|šio straipsnio 2 dalyje]] nustatytą laiką nurodytos išmokos neišmokamos, skaičiuojami ir išmokami delspinigiai Lietuvos Respublikos delspinigių nustatymo už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą įstatymo nustatyta tvarka ir dydžiais. ^s-c817cb0f23a2c89029c96947
+3. Jeigu per [[#^s-e57c800f6bd1bfe34c0076fc|šio straipsnio 2 dalyje]] nustatytą laiką nurodytos išmokos neišmokamos, skaičiuojami ir išmokami delspinigiai [Lietuvos Respublikos delspinigių nustatymo už išmokų, susijusių su darbo santykiais, pavėluotą mokėjimą įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2B8927CF0E9E) nustatyta tvarka ir dydžiais. ^s-c817cb0f23a2c89029c96947
 
 
 4. Jeigu perskaičiuotas pagal šį įstatymą žalos atlyginimo dydis yra mažesnis negu buvo iki 1999 m. gruodžio 1 d., mokamas buvusio iki šio įstatymo įsigaliojimo dydžio žalos atlyginimas. ^s-8b0e61b04983054a64cb79e4

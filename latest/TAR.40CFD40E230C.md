@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-c7086cf6750abbb1b3e55e77
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir  atsižvelgdamas į Respublikos Prezidento 2002 m. vasario 8 d. dekretą Nr. 1657, ratifikuoja su išlygomis Konvenciją dėl tarptautinio vaikų grobimo civilinių aspektų, sudarytą 1980 m. spalio 25 d.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir  atsižvelgdamas į Respublikos Prezidento [2002 m. vasario 8 d. dekretą Nr. 1657](https://e-tar.lt/portal/lt/legalAct/TAR.ADB5FBEA23CB), ratifikuoja su išlygomis Konvenciją dėl tarptautinio vaikų grobimo civilinių aspektų, sudarytą 1980 m. spalio 25 d.
 
 
 

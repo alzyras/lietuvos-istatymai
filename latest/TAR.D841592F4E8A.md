@@ -111,7 +111,7 @@ Savivaldybių administracijų sprendimai dėl valstybės paramos skyrimo ir (ar)
 2. Valstybės paramos skyrimo ir mokėjimo tikslu savivaldybių administracijos turi teisę neatlyginamai gauti ir tvarkyti informaciją ir asmens duomenis, įskaitant specialių kategorijų asmens duomenis, susijusius su asmens sveikatos būkle (dalyvumo lygiu, darbingumo lygiu, invalidumu), iš valstybės ir savivaldybių institucijų, įstaigų, įmonių ir organizacijų bei duomenis, tvarkomus registrų, valstybės ir vidaus administravimo informacinėse sistemose. ^s-c204d29393d9746095eccacd
 
 
-3. Įgyvendinant šį įstatymą, asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą ir tvarkymą, nuostatomis. ^s-114177c0f42e4a6b250b62ed
+3. Įgyvendinant šį įstatymą, asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą ir tvarkymą, nuostatomis. ^s-114177c0f42e4a6b250b62ed
 
 
 4. Įgyvendinant šį įstatymą, tvarkant specialių kategorijų asmens duomenis, nustatomos šios duomenų subjekto pagrindinių teisių ir interesų apsaugos priemonės: ^s-0bf6661287336cb5143a3d77
@@ -123,7 +123,7 @@ Savivaldybių administracijų sprendimai dėl valstybės paramos skyrimo ir (ar)
 2) duomenų valdytojai ne rečiau kaip kartą per kalendorinius metus atlieka periodinį šių duomenų tvarkymo teisėtumo auditą. ^s-353ca1eb365c674337b2a4cc
 
 
-5. Duomenų subjektų teisės įgyvendinamos Reglamento (ES) 2016/679 ir duomenų valdytojo, į kurį kreipiamasi dėl duomenų subjekto teisių įgyvendinimo, nustatyta tvarka. ^s-ba06e252e2ae2f07e23776ca
+5. Duomenų subjektų teisės įgyvendinamos [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir duomenų valdytojo, į kurį kreipiamasi dėl duomenų subjekto teisių įgyvendinimo, nustatyta tvarka. ^s-ba06e252e2ae2f07e23776ca
 
 
 6. Dokumentai saugomi [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymo]] nustatyta tvarka. ^s-0319ae8bdd1cfe467f260fc1
@@ -151,7 +151,7 @@ Nr. VIII-1471, 1999-12-07, Žin., 1999, Nr. 108-3131 (1999-12-22), i. k. [[lates
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-295, 2005-06-30, Žin., 2005, Nr. 85-3139 (2005-07-14), i. k. [[latest/TAR.008FB9670B82|1051010ISTA000X-295]]
-Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo, Įstatymo [[latest/TAR.3C56DC9F15F3|"Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)"]], [[latest/TAR.F19AC41B9F15|Nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo]], Įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių, kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo įstatymas
+Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymo, Įstatymo [[latest/TAR.3C56DC9F15F3|"Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)"]], Nepriklausomybės gynėjų ir kitų nukentėjusių nuo 1991 m. sausio 11-13 d. ir po to vykdytos SSRS agresijos asmenų teisinio statuso pripažinimo įstatymo, Įstatymo "Dėl papildomų socialinių garantijų šeimoms asmenų, nukentėjusių, kovojant už Lietuvos Respublikos laisvę, nuo 1991 m. sausio 11-13 d. vykdytos agresijos ir po to buvusių įvykių" pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-cee3fe4bbd8f707fbc3e8135
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2004 m. spalio 13 d. dekretą Nr. 89, ratifikuoja 2004 m. liepos 9 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo ir tarpusavio pagalbos muitinės veiklos srityje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2004 m. spalio 13 d. dekretą Nr. 89](https://e-tar.lt/portal/lt/legalAct/TAR.EFA9180DB64E), ratifikuoja 2004 m. liepos 9 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo ir tarpusavio pagalbos muitinės veiklos srityje.
 
 
 

@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-f160f581105af0f095da24ce
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2009 m. kovo 18 d. dekretą Nr. 1K-1742, ratifikuoja 1973 m. spalio 26 d. Strasbūre priimtą Susitarimą dėl mirusiųjų kūnų pervežimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento [2009 m. kovo 18 d. dekretą Nr. 1K-1742](https://e-tar.lt/portal/lt/legalAct/TAR.A0375246C3BC), ratifikuoja 1973 m. spalio 26 d. Strasbūre priimtą Susitarimą dėl mirusiųjų kūnų pervežimo.
 
 
 

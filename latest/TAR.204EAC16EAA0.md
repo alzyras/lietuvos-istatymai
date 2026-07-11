@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Statuto ratifikavimas ^s-8fc6f0bd9e5051d308343b88
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. liepos 22 d. dekretą Nr. 1K-49, ratifikuoja 2009 m. sausio 26 d. Bonoje pasirašytą Tarptautinės atsinaujinančios energijos agentūros (IRENA) statutą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. liepos 22 d. dekretą Nr. 1K-49](https://e-tar.lt/portal/lt/legalAct/TAR.CAEB6E63A2A5), ratifikuoja 2009 m. sausio 26 d. Bonoje pasirašytą Tarptautinės atsinaujinančios energijos agentūros (IRENA) statutą.
 
 
 

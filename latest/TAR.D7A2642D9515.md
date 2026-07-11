@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis.         Europos saugios oro navigacijos organizacijos tarptautinių sutarčių ratifikavimas ^s-86a3522c766ce964cf27c805
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2006 m. sausio 13 d. dekretą Nr. 498, ratifikuoja šias Europos saugios oro navigacijos organizacijos (toliau – Eurokontrolė) tarptautines sutartis:
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2006 m. sausio 13 d. dekretą Nr. 498](https://e-tar.lt/portal/lt/legalAct/TAR.DA700878C8F9), ratifikuoja šias Europos saugios oro navigacijos organizacijos (toliau – Eurokontrolė) tarptautines sutartis:
 
 
 1) Eurokontrolės tarptautinę konvenciją dėl bendradarbiavimo oro navigacijos saugos srityje, pasirašytą 1960 m. gruodžio 13 d. Briuselyje; ^s-6dd3b093e3c121925905baff

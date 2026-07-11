@@ -72,7 +72,7 @@ Naftos ir dujų išteklių mokesčio mokėtojai yra Lietuvos ir užsienio apmoke
 2. Kai išgauta nafta sunaudojama savo reikmėms, naftos ir dujų išteklių mokestis apskaičiuojamas nuo praėjusio mokestinio laikotarpio vidutinės išgautos naftos ir dujų pardavimo kainos už toną gavybos vietoje. ^s-4859ea5459ea1647693b2ed2
 
 
-3. Kai naftos ir dujų išteklių mokesčio šio straipsnio 1 ir [[#^s-4859ea5459ea1647693b2ed2|2 dalių]] nustatyta tvarka neįmanoma apskaičiuoti, naftos ir dujų išteklių mokestis yra apskaičiuojamas nuo praėjusio mokestinio laikotarpio vidutinės Statistikos departamento apskaičiuotos ir paskelbtos išgautos naftos ir dujų pardavimo kainos už toną gavybos vietoje. ^s-06e7404f0e33bfb824fcccca
+3. Kai naftos ir dujų išteklių mokesčio šio straipsnio [[#^s-70604a738e52439f93103654|1]] ir [[#^s-4859ea5459ea1647693b2ed2|2]] dalių nustatyta tvarka neįmanoma apskaičiuoti, naftos ir dujų išteklių mokestis yra apskaičiuojamas nuo praėjusio mokestinio laikotarpio vidutinės Statistikos departamento apskaičiuotos ir paskelbtos išgautos naftos ir dujų pardavimo kainos už toną gavybos vietoje. ^s-06e7404f0e33bfb824fcccca
 
 
 

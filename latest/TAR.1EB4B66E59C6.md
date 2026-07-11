@@ -209,7 +209,7 @@ Pakeisti [[#^s-74ef99abd337a4975c19bd9d|12 straipsnį]] ir jį išdėstyti taip:
 2) jeigu po pažymėjimo išdavimo paaiškėjo faktai, dėl kurių būtų buvę atsisakyta leisti laikyti kvalifikacinius auditoriaus egzaminus ir išduoti pažymėjimą; ^s-e7362a6b6b424b6b6271f26d
 
 
-3) jeigu atsirado šio įstatymo [[#^s-c02aff5341a7b5dee25a83e2|6 straipsnio]] 2 ar [[#^s-0ebdf58cb70de620ab0b800a|4 punkte]] nurodytos sąlygos; ^s-fc8d344a7fe5b9a0c084b5df
+3) jeigu atsirado šio įstatymo [[#^s-c02aff5341a7b5dee25a83e2|6 straipsnio]] 2 ar 4 punkte nurodytos sąlygos; ^s-fc8d344a7fe5b9a0c084b5df
 
 
 4) Auditorių garbės teismo sprendimu; ^s-0ebdf58cb70de620ab0b800a
@@ -274,7 +274,7 @@ Pakeisti [[#^s-6995cceedfb30db59e92dd06|15 straipsnį]] ir jį išdėstyti taip:
 4. Sprendimas įrašyti įmonę į audito įmonių sąrašą turi būti priimtas ne vėliau kaip per 15 dienų po visų dokumentų, nurodytų [[#^s-34ed13fa9f8a34d348af6ed0|šio straipsnio 3 dalyje]], įteikimo Auditorių rūmams. ^s-93597a4f7b5bf33f0f07875c
 
 
-5. Auditorių rūmai gali atsisakyti įrašyti įmonę į audito įmonių sąrašą, jeigu nepateikti [[#^s-34ed13fa9f8a34d348af6ed0|šio straipsnio 3 dalyje]] nurodyti dokumentai arba įmonė neatitinka šio įstatymo 13 ir [[#^s-e83ad48ef821753edc96b937|14 straipsnių]] reikalavimų. Atsisakyti įrašyti įmonę į audito įmonių sąrašą remiantis kitokiais motyvais negalima. ^s-1ecf2f3deec67be6912dd26c
+5. Auditorių rūmai gali atsisakyti įrašyti įmonę į audito įmonių sąrašą, jeigu nepateikti [[#^s-34ed13fa9f8a34d348af6ed0|šio straipsnio 3 dalyje]] nurodyti dokumentai arba įmonė neatitinka šio įstatymo [[#^s-2f931de4cd9f3a912cb9ce72|13]] ir [[#^s-e83ad48ef821753edc96b937|14]] straipsnių reikalavimų. Atsisakyti įrašyti įmonę į audito įmonių sąrašą remiantis kitokiais motyvais negalima. ^s-1ecf2f3deec67be6912dd26c
 
 
 6. Apie sprendimą įmonę įrašyti arba jos neįrašyti į audito įmonių sąrašą Auditorių rūmai privalo per 15 dienų nuo dokumentų pateikimo dienos motyvuotai raštu pranešti įmonei. ^s-f7f8eeff58f64226ceb16087

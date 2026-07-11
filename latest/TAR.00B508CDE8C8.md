@@ -189,7 +189,7 @@ Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 2. Papildyti 37 straipsnio 12 dalį nauju 3 punktu: ^s-3e8af2b7efa3e405551bc46d
 
 
-„3) sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto parengimą, tarpinių finansinių ataskaitų rinkinio sudarymą ir tarpinio pranešimo parengimą, sprendimui dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo priimti. Tarpiniam pranešimui mutatis mutandis taikomos Įmonių finansinės atskaitomybės įstatymo nuostatos, reglamentuojančios metinio pranešimo rengimą ir skelbimą;“.
+„3) sprendimo dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo projekto parengimą, tarpinių finansinių ataskaitų rinkinio sudarymą ir tarpinio pranešimo parengimą, sprendimui dėl dividendų už trumpesnį negu finansiniai metai laikotarpį skyrimo priimti. Tarpiniam pranešimui mutatis mutandis taikomos [Įmonių finansinės atskaitomybės įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C) nuostatos, reglamentuojančios metinio pranešimo rengimą ir skelbimą;“.
 
 
 3. Buvusius 37 straipsnio 12 dalies 3, 4, 5, 6, 7, 8, 9 ir 10 punktus laikyti atitinkamai 4, 5, 6, 7, 8, 9, 10 ir 11 punktais. ^s-20f46bd9d33ba3c80557def6

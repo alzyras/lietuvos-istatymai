@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C44837068B55#^s-48fb1e3b921717942e2e176a|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - Įstatymas Nr. IX-1716
-- [[latest/TAR.C44837068B55#^s-5eff90ee0e5a3db5bc2e30ee|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - Įstatymas Nr. IX-1716
+_Nėra._

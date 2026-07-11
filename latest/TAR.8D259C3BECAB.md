@@ -44,11 +44,11 @@ Vilnius
 ### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-ce8196d7f814e8761963124e
 
 
-Lietuvos Respublikos apskrities valdymo įstatymo 9 straipsnio pakeitimo įstatymą pripažinti netekusiu galios.
+[Lietuvos Respublikos apskrities valdymo įstatymo 9 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF) pakeitimo įstatymą pripažinti netekusiu galios.
 
 
 
-ANTRASIS SKIRSNIS [[latest/TAR.FA425BBE67E2#^s-9f58ec016202dd8b2f31be78|APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO]] PAKEITIMO ĮSTATYMO PRIPAŽINIMAS NETEKUSIU GALIOS
+ANTRASIS SKIRSNIS [APSKRITIES VALDYMO ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMO](https://e-tar.lt/portal/lt/legalAct/TAR.54570882ECE5) PRIPAŽINIMAS NETEKUSIU GALIOS
 
 (Žin., 2000, Nr. 113-3622)
 

@@ -323,7 +323,7 @@ augalų sėklininkystės
 10. 2002 m. birželio 13 d. Tarybos direktyva 2002/54/EB dėl prekybos runkelių sėkla (su paskutiniais pakeitimais, padarytais 2003 m. birželio 18 d. Tarybos direktyva 2003/61/ EB). ^s-30db8964a939e48d744f8701
 
 
-11. 2002 m. birželio 13 d. Tarybos direktyva 2002/55/EB dėl prekybos daržovių sėkla (su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos Reglamentu (EB) Nr. 1829/2003). ^s-804b0a0ecc5219e810fc79c2
+11. 2002 m. birželio 13 d. Tarybos direktyva 2002/55/EB dėl prekybos daržovių sėkla (su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [Reglamentu (EB) Nr. 1829/2003](https://eur-lex.europa.eu/eli/reg/1829/2003/oj)). ^s-804b0a0ecc5219e810fc79c2
 
 
 12. 2002 m. birželio 13 d. Tarybos direktyva 2002/56/EB dėl prekybos sėklinėmis bulvėmis (su paskutiniais pakeitimais, padarytais 2003 m. birželio 18 d. Tarybos direktyva 2003/61/ EB). ^s-7d85b6570769e0108a11b644

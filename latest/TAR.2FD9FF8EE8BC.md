@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-5b8eb39986bdc737aa13971b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. gruodžio 17 d. dekretą Nr. 1K-1312, ratifikuoja 2012 m. birželio 13 d. Briuselyje priimtą Protokolą dėl Airijos žmonių susirūpinimo dėl Lisabonos sutarties.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. gruodžio 17 d. dekretą Nr. 1K-1312](https://e-tar.lt/portal/lt/legalAct/TAR.8F1D1673E7FB), ratifikuoja 2012 m. birželio 13 d. Briuselyje priimtą Protokolą dėl Airijos žmonių susirūpinimo dėl Lisabonos sutarties.
 
 
 

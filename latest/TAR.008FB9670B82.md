@@ -128,7 +128,7 @@ NEPRIKLAUSOMYBĖS GYNĖJŲ IR KITŲ NUKENTĖJUSIŲ NUO 1991 M. SAUSIO 11–13 D.
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-992987f4d6ac227138499f25
 
 
-2 straipsnio 1 ir [[#^s-48252663e3959e076538ad9c|2 punktuose]] išbraukti žodžius „prie Lietuvos Aukščiausiojo Teismo“ ir šiuos punktus išdėstyti taip:
+2 straipsnio [[#^s-79feefdf45c2b2c076248426|1]] ir [[#^s-3bae9348be98eb24b7a214d3|2]] punktuose išbraukti žodžius „prie Lietuvos Aukščiausiojo Teismo“ ir šiuos punktus išdėstyti taip:
 
 
 „1) žuvo dėl 1991 m. sausio 11–13 d. ir po to vykdytos SSRS agresijos (asmenų žuvimo faktą patvirtina Generalinės prokuratūros išduotos pažymos);

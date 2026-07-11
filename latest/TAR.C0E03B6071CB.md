@@ -157,7 +157,7 @@ GYVENTOJŲ INDĖLIŲ KOMPENSAVIMO FONDAS
 1. Fondą pagal Seimo patvirtintus Fondo veiklos nuostatus kaupia bei jo lėšomis disponuoja Finansų ministerija. ^s-99de7f109cb232288b52aab1
 
 
-2. Fondo įsipareigojimams, nustatytiems šio įstatymo 4 ir [[#^s-cd030d94458bee6707802d6f|6 straipsniuose]], finansuoti Finansų ministerija turi teisę skolintis lėšų, vidaus rinkoje leisdama valstybės vertybinius popierius. ^s-cf4e641e740ab7ee9426b860
+2. Fondo įsipareigojimams, nustatytiems šio įstatymo [[#^s-e0f3b62ea0e3551897aa5d70|4]] ir [[#^s-cd030d94458bee6707802d6f|6]] straipsniuose, finansuoti Finansų ministerija turi teisę skolintis lėšų, vidaus rinkoje leisdama valstybės vertybinius popierius. ^s-cf4e641e740ab7ee9426b860
 
 
 

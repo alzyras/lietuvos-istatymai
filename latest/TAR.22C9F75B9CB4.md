@@ -167,7 +167,7 @@ Už statinio naudojimą pažeidžiant šiame ir kituose įstatymuose nustatytus 
 ### 7 straipsnis. Pasiūlymai Vyriausybei ^s-78b3d7db67010d112be37661
 
 
-1. Vyriausybė iki šio įstatymo 1 ir [[#^s-d43cbbbb0696db7139d2f3f7|2 straipsnių]] įsigaliojimo priima šio įstatymo 1 ir [[#^s-d43cbbbb0696db7139d2f3f7|2 straipsnių]] įgyvendinamuosius teisės aktus. ^s-391b2bff7a35eb3462bd0e17
+1. Vyriausybė iki šio įstatymo [[#^s-47d6b3f0848cdaa907a10998|1]] ir [[#^s-d43cbbbb0696db7139d2f3f7|2]] straipsnių įsigaliojimo priima šio įstatymo [[#^s-47d6b3f0848cdaa907a10998|1]] ir [[#^s-d43cbbbb0696db7139d2f3f7|2]] straipsnių įgyvendinamuosius teisės aktus. ^s-391b2bff7a35eb3462bd0e17
 
 
 2. Vyriausybė arba jos įgaliotos institucijos ir Aplinkos ministerija iki 2012 m. liepos 9 d. priima šio įstatymo [[#^s-2effe734d3ea7c0eaec4d3cc|4 straipsnio]] įgyvendinamuosius teisės aktus. ^s-ea79c488cd322c8d7f8e9e8f
@@ -177,13 +177,13 @@ Už statinio naudojimą pažeidžiant šiame ir kituose įstatymuose nustatytus 
 ### 8 straipsnis. Įstatymo įsigaliojimas ^s-17253b0884661f488a865b7b
 
 
-1. Šis įstatymas, išskyrus 1, [[#^s-d43cbbbb0696db7139d2f3f7|2 straipsnius]], [[#^s-34a1f706395c38dcb9e5a754|6 straipsnio 2 dalį]] ir [[#^s-78b3d7db67010d112be37661|7 straipsnį]], įsigalioja 2013 m. sausio 9 d. ^s-2e3b8286e69a824f2be05101
+1. Šis įstatymas, išskyrus [[#^s-47d6b3f0848cdaa907a10998|1]], [[#^s-d43cbbbb0696db7139d2f3f7|2]] straipsnius, [[#^s-34a1f706395c38dcb9e5a754|6 straipsnio 2 dalį]] ir [[#^s-78b3d7db67010d112be37661|7 straipsnį]], įsigalioja 2013 m. sausio 9 d. ^s-2e3b8286e69a824f2be05101
 
 
-2. Šio įstatymo [[#^s-47d6b3f0848cdaa907a10998|1 straipsnyje]] išdėstyto Lietuvos Respublikos statybos įstatymo 91 straipsnio 2 dalis įsigalioja 2013 m. sausio 1 d. ^s-80f1b03c8340d76aebcce021
+2. Šio įstatymo [[#^s-47d6b3f0848cdaa907a10998|1 straipsnyje]] išdėstyto [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymo 91 straipsnio 2 dalis]] įsigalioja 2013 m. sausio 1 d. ^s-80f1b03c8340d76aebcce021
 
 
-3. Šio įstatymo [[#^s-47d6b3f0848cdaa907a10998|1 straipsnyje]] išdėstyto Lietuvos Respublikos statybos įstatymo 91 straipsnio 1 dalis, [[#^s-d43cbbbb0696db7139d2f3f7|2 straipsnis]] ir [[#^s-34a1f706395c38dcb9e5a754|6 straipsnio 2 dalis]] įsigalioja 2013 m. liepos 1 d. ^s-a41728caa687c7b820238fb9
+3. Šio įstatymo [[#^s-47d6b3f0848cdaa907a10998|1 straipsnyje]] išdėstyto [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymo 91 straipsnio 1 dalis]], [[#^s-d43cbbbb0696db7139d2f3f7|2 straipsnis]] ir [[#^s-34a1f706395c38dcb9e5a754|6 straipsnio 2 dalis]] įsigalioja 2013 m. liepos 1 d. ^s-a41728caa687c7b820238fb9
 
 
 

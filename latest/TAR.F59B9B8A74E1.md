@@ -99,7 +99,7 @@ Iš 12 straipsnio 3 punkto išbraukti paskutinįjį sakinį ir šį punktą išd
 1. Papildyti 13 straipsnio 1 dalį ir ją išdėstyti taip: ^s-9d3db52592d9a23455761619
 
 
-„1. Pirminės ar specializuotos medicinos praktikos licencijų galiojimą panaikina Sveikatos apsaugos ministerija savo iniciatyva arba kai dėl to kreipiasi [[#^s-09c0f2cebdda41bc1f09a478|šio straipsnio 2 dalyje]] nurodytos institucijos šio įstatymo 12 straipsnyje nurodytais pagrindais. Licencijos galiojimo panaikinimo klausimas turi būti išnagrinėtas per vieną mėnesį nuo kreipimosi į Sveikatos apsaugos ministeriją dienos. Sveikatos apsaugos ministerija apie priimtą sprendimą per penkias darbo dienas praneša gydytojui bei jo darbdaviui. Pagal šį sprendimą darbdavys privalo nutraukti darbo sutartį su gydytoju Darbo sutarties įstatymo nustatyta tvarka.“
+„1. Pirminės ar specializuotos medicinos praktikos licencijų galiojimą panaikina Sveikatos apsaugos ministerija savo iniciatyva arba kai dėl to kreipiasi [[#^s-09c0f2cebdda41bc1f09a478|šio straipsnio 2 dalyje]] nurodytos institucijos šio įstatymo 12 straipsnyje nurodytais pagrindais. Licencijos galiojimo panaikinimo klausimas turi būti išnagrinėtas per vieną mėnesį nuo kreipimosi į Sveikatos apsaugos ministeriją dienos. Sveikatos apsaugos ministerija apie priimtą sprendimą per penkias darbo dienas praneša gydytojui bei jo darbdaviui. Pagal šį sprendimą darbdavys privalo nutraukti darbo sutartį su gydytoju [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) nustatyta tvarka.“
 
 
 2. Pakeisti 13 straipsnio 2 dalį ir ją išdėstyti taip: ^s-09c0f2cebdda41bc1f09a478

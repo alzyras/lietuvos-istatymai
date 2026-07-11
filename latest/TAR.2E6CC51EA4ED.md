@@ -324,7 +324,7 @@ Bendrosios nuostatos
 2) kai gautas pranešimas apie įstaigos likvidavimą arba reorganizavimą (kai įstaiga, kaip savarankiškas ūkio subjektas, nutraukia veiklą); ^s-bff7a3ecfa83c004a4be277f
 
 
-3) jei, sustabdžius licencijos galiojimą, įstaiga per nustatytą terminą nepašalino pažeidimų ar nesikreipė dėl licencijos galiojimo atnaujinimo; ^s-9c7fdcb02547e2e87b3c86e0
+3) jei, sustabdžius licencijos galiojimą, įstaiga per nustatytą terminą nepašalino pažeidimų ar nesikreipė [dėl licencijos galiojimo](https://e-tar.lt/portal/lt/legalAct/TAR.FADCAE4257CE) atnaujinimo; ^s-9c7fdcb02547e2e87b3c86e0
 
 
 4) sveikatos priežiūros veiklą kontroliuojančios valstybės institucijų teikimu, jei, joms sustabdžius dalies ar visų paslaugų teikimą, įstaiga per nustatytą terminą nepašalina pažeidimų; ^s-a9d87e111991b81dce0804cd
@@ -574,7 +574,7 @@ LNSS NEPRIKLAUSANČIOS įstaigOS
 ### 17 straipsnis. LNSS nepriklausančių įstaigų steigimas ^s-17d0a221802b8cc52a959487
 
 
-LNSS nepriklausančių įstaigų steigimo, reorganizavimo, likvidavimo klausimus reguliuoja Įmonių įstatymas, [[latest/TAR.1E52802BE548|Viešųjų įstaigų įstatymas]], Įmonių rejestro įstatymas, atskirų įmonių rūšių įstatymai, kiti įstatymai bei teisės aktai.
+LNSS nepriklausančių įstaigų steigimo, reorganizavimo, likvidavimo klausimus reguliuoja [Įmonių įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B), [[latest/TAR.1E52802BE548|Viešųjų įstaigų įstatymas]], [Įmonių rejestro įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14), atskirų įmonių rūšių įstatymai, kiti įstatymai bei teisės aktai.
 
 
 
@@ -980,7 +980,7 @@ Viešą konkursą valstybės aukštųjų mokyklų, valstybinių mokslo įstaigų
 3. Likviduojamos viešosios įstaigos dokumentai saugomi [[latest/TAR.1FEF229DA7C6|Archyvų įstatymo]] nustatyta tvarka. ^s-50ef85db5033ffddd4b17678
 
 
-4. Likviduojant įstaigą, jos darbuotojai atleidžiami Darbo sutarties įstatymo nustatyta tvarka. ^s-f5779a250573266c5e7865ad
+4. Likviduojant įstaigą, jos darbuotojai atleidžiami [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) nustatyta tvarka. ^s-f5779a250573266c5e7865ad
 
 
 5. Sudarius viešosios įstaigos likvidavimo aktą, apie įstaigos likvidavimą viešai skelbiama du kartus ne mažesniu kaip vieno mėnesio intervalu. ^s-5e6519b1b9b7430bfd3ff557
@@ -1048,7 +1048,7 @@ Viešą konkursą valstybės aukštųjų mokyklų, valstybinių mokslo įstaigų
 7) savivaldybių medicinos punktai; ^s-0d9c494e12be8017a3630365
 
 
-8) savivaldybių greitosios medicinos pagalbos stotys ar skyriai, veikiantys kaip savarankiški juridiniai asmenys ar kaip [[#^s-1373cad867cf63e8cc468439|šio straipsnio 1 dalies]] 1 ir [[#^s-5ca992ca9d5ce3e8d21332bb|2 punktuose]] nurodytų pirminės sveikatos priežiūros įstaigų padaliniai; ^s-9c36faed9abefc1a8a284435
+8) savivaldybių greitosios medicinos pagalbos stotys ar skyriai, veikiantys kaip savarankiški juridiniai asmenys ar kaip [[#^s-1373cad867cf63e8cc468439|šio straipsnio 1 dalies]] [[#^s-ce2a6f077004dabd9409e2c1|1]] ir [[#^s-5ca992ca9d5ce3e8d21332bb|2]] punktuose nurodytų pirminės sveikatos priežiūros įstaigų padaliniai; ^s-9c36faed9abefc1a8a284435
 
 
 9) savivaldybės palaikomojo gydymo ir slaugos ligoninės (slaugos); ^s-3d246b9cc4496abd2084aee8

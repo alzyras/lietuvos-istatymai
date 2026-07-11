@@ -59,7 +59,7 @@ Papildyti 140 straipsnį 3 dalimi:
 ### 3 straipsnis. 176 straipsnio papildymas ir pakeitimas ^s-bd67ceea8d756c5232d8d28e
 
 
-Papildyti 176 straipsnį nauja [[#^s-87d604bf1f378327774dd506|1 dalimi]], buvusias 1 ir [[#^s-4c2078b30d63e9b95e958c12|2 dalis]] laikyti atitinkamai 2 ir [[#^s-036a21a7a037c99f0f2aaa0f|3 dalimis]], [[#^s-4c2078b30d63e9b95e958c12|2 dalį]] pakeisti ir visą straipsnį išdėstyti taip:
+Papildyti 176 straipsnį nauja [[#^s-87d604bf1f378327774dd506|1 dalimi]], buvusias 1 ir 2 dalis laikyti atitinkamai 2 ir 3 dalimis, [[#^s-4c2078b30d63e9b95e958c12|2 dalį]] pakeisti ir visą straipsnį išdėstyti taip:
 
 
 „176 straipsnis. Darbų saugos ir sveikatos apsaugos darbe reikalavimų pažeidimas
@@ -160,7 +160,7 @@ baudžiamas laisvės atėmimu nuo trejų iki penkiolikos metų.
 baudžiamas laisvės atėmimu nuo šešerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
-3. Tas, kas organizavo šio straipsnio 1 ar [[#^s-e8966e253a8e07ebc02c5495|2 dalyje]] numatytus nusikalstamus susivienijimus arba jiems vadovavo, ^s-1aa51dcbabdb90c170e409b4
+3. Tas, kas organizavo šio straipsnio [[#^s-b479dc7709c55d6cfcdd7d59|1]] ar [[#^s-e8966e253a8e07ebc02c5495|2]] dalyje numatytus nusikalstamus susivienijimus arba jiems vadovavo, ^s-1aa51dcbabdb90c170e409b4
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.“
 
 
@@ -198,7 +198,7 @@ baudžiamas laisvės atėmimu iki aštuonerių metų.
 baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
 
-7. Asmuo atsako pagal šio straipsnio 1–[[#^s-ced473ab770598b1494dd040|6 dalis]] tik tais atvejais, kai jose numatytos veikos yra padarytos dėl neatsargumo. ^s-6c2eb7bda52c02a928c1eecf
+7. Asmuo atsako pagal šio straipsnio [[#^s-337a3ecfbcfa3d45bac796f0|1]]–[[#^s-ced473ab770598b1494dd040|6]] dalis tik tais atvejais, kai jose numatytos veikos yra padarytos dėl neatsargumo. ^s-6c2eb7bda52c02a928c1eecf
 
 
 8. Laikoma, kad asmuo yra apsvaigęs nuo alkoholio, kai jo kraujyje yra 0,4 promilės ir daugiau alkoholio. ^s-e8d0a1f0e6fd718904bfa82b

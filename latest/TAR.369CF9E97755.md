@@ -155,7 +155,7 @@ SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 ### 5 straipsnis. Bendrosios slaugos praktikos ir akušerijos praktikos licencijavimo tvarka ^s-bdd4f599fbeedf2837f18abf
 
 
-1. Bendrosios slaugos praktikos ir akušerijos praktikos licencijas (toliau – licencija) išduoda, atsisako jas išduoti, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, galiojimą panaikina, licencijos duomenis tikslina ir prižiūri, kaip laikomasi licencijuojamos veiklos sąlygų, sveikatos apsaugos ministro įgaliota institucija (toliau – Licencijavimo institucija), vadovaudamasi šiuo įstatymu ir sveikatos apsaugos ministro tvirtinamomis Slaugos praktikos licencijavimo taisyklėmis ir Akušerijos praktikos licencijavimo taisyklėmis (toliau kartu – Taisyklės). Licencijavimo institucija, siekdama patikrinti, ar yra įvykdytos licencijos išdavimo sąlygos, ar licencijos turėtojas laikosi šio įstatymo 14 ir [[#^s-a54bacffe9f9e1ea6e8b1c94|15 straipsniuose]] nurodytų pareigų, ar yra pagrindas sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą, patikslinti licencijos duomenis, turi teisę iš valstybės ir savivaldybių institucijų ir įstaigų, kitų juridinių asmenų, tvarkančių duomenis, susijusius su šio įstatymo reglamentuojama slaugos praktika ar akušerijos praktika, gauti duomenis apie bendrosios praktikos slaugytojo ar akušerio atitiktį [[#^s-b2fb1734bd57b3ff30f19df5|šio straipsnio 4 dalyje]] nurodytoms licencijos išdavimo sąlygoms, šio įstatymo 14 ir [[#^s-a54bacffe9f9e1ea6e8b1c94|15 straipsniuose]] nurodytų pareigų vykdymą, juridinių faktų, nurodytų šio įstatymo [[#^s-3d91f0cf7111a9a7cf9803e6|6 straipsnyje]], [[#^s-cd3fd4176662ead0d8618167|7 straipsnio 1 dalies]] 2–7 punktuose ir [[#^s-6835994fc90101742671fd4d|8 straipsnio 1 dalies]] 2–8 punktuose, buvimą. Valstybės ir savivaldybių institucijos ir įstaigos, kiti juridiniai asmenys, tvarkantys duomenis, susijusius su šio įstatymo reglamentuojama slaugos praktika ar akušerijos praktika, privalo pateikti šioje dalyje nurodytus duomenis Licencijavimo institucijai per jos nurodytą terminą, kuris negali būti trumpesnis kaip 15 darbo dienų. ^s-e51d64389cec2fe9c4c811ef
+1. Bendrosios slaugos praktikos ir akušerijos praktikos licencijas (toliau – licencija) išduoda, atsisako jas išduoti, jų galiojimą sustabdo, galiojimo sustabdymą panaikina, galiojimą panaikina, licencijos duomenis tikslina ir prižiūri, kaip laikomasi licencijuojamos veiklos sąlygų, sveikatos apsaugos ministro įgaliota institucija (toliau – Licencijavimo institucija), vadovaudamasi šiuo įstatymu ir sveikatos apsaugos ministro tvirtinamomis Slaugos praktikos licencijavimo taisyklėmis ir Akušerijos praktikos licencijavimo taisyklėmis (toliau kartu – Taisyklės). Licencijavimo institucija, siekdama patikrinti, ar yra įvykdytos licencijos išdavimo sąlygos, ar licencijos turėtojas laikosi šio įstatymo [[#^s-39c5d8b48010e0c5a4c14e2a|14]] ir [[#^s-a54bacffe9f9e1ea6e8b1c94|15]] straipsniuose nurodytų pareigų, ar yra pagrindas sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą, patikslinti licencijos duomenis, turi teisę iš valstybės ir savivaldybių institucijų ir įstaigų, kitų juridinių asmenų, tvarkančių duomenis, susijusius su šio įstatymo reglamentuojama slaugos praktika ar akušerijos praktika, gauti duomenis apie bendrosios praktikos slaugytojo ar akušerio atitiktį [[#^s-b2fb1734bd57b3ff30f19df5|šio straipsnio 4 dalyje]] nurodytoms licencijos išdavimo sąlygoms, šio įstatymo [[#^s-39c5d8b48010e0c5a4c14e2a|14]] ir [[#^s-a54bacffe9f9e1ea6e8b1c94|15]] straipsniuose nurodytų pareigų vykdymą, juridinių faktų, nurodytų šio įstatymo [[#^s-3d91f0cf7111a9a7cf9803e6|6 straipsnyje]], [[#^s-cd3fd4176662ead0d8618167|7 straipsnio 1 dalies]] [[#^s-b50026759064fa064bc4bcb8|2]]–[[#^s-e45c42b4221b63fbdef39090|7]] punktuose ir [[#^s-6835994fc90101742671fd4d|8 straipsnio 1 dalies]] [[#^s-1018c33d01542cc87f929dd1|2]]–[[#^s-859da4c8da47c5a705d53ee8|8]] punktuose, buvimą. Valstybės ir savivaldybių institucijos ir įstaigos, kiti juridiniai asmenys, tvarkantys duomenis, susijusius su šio įstatymo reglamentuojama slaugos praktika ar akušerijos praktika, privalo pateikti šioje dalyje nurodytus duomenis Licencijavimo institucijai per jos nurodytą terminą, kuris negali būti trumpesnis kaip 15 darbo dienų. ^s-e51d64389cec2fe9c4c811ef
 
 
 2. Bendrosios praktikos slaugytojas ar akušeris, siekiantis gauti licenciją, turi atitikti [[#^s-b2fb1734bd57b3ff30f19df5|šio straipsnio 4 dalyje]] nurodytas licencijos išdavimo sąlygas. Jeigu bendrosios praktikos slaugytojas ar akušeris, siekiantis gauti licenciją, profesinę kvalifikaciją yra įgijęs ne anksčiau negu prieš 2 metus iki kreipimosi dėl licencijos išdavimo dienos ir jam netaikytina užsienyje įgytos profesinės kvalifikacijos pripažinimo procedūra, laikoma, kad licencija yra išduota kitą dieną nuo deklaracijos apie ketinimą verstis bendrąja slaugos praktika ar akušerijos praktika (toliau – deklaracija), kuria bendrosios praktikos slaugytojas ar akušeris deklaruoja minėto reikalavimo ir licencijos išdavimo sąlygų atitiktį ir įsipareigoja per 22 darbo dienas nuo šios deklaracijos pateikimo dienos pateikti Taisyklėse nurodytus licencijai gauti reikalingus dokumentus (toliau – licencijai gauti reikalingi dokumentai), jeigu jų nepateikia kartu su deklaracija, pateikimo Licencijavimo institucijai dienos arba nuo šioje deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu deklaracijos pateikimo Licencijavimo institucijai diena. Jeigu bendrosios praktikos slaugytojas ar akušeris, siekiantis gauti licenciją, profesinę kvalifikaciją yra įgijęs anksčiau negu prieš 2 metus iki kreipimosi dėl licencijos išdavimo dienos arba jam taikytina užsienyje įgytos profesinės kvalifikacijos pripažinimo procedūra, Licencijavimo institucija nuo tos dienos, kai bendrosios praktikos slaugytojas ar akušeris pateikė paraišką ir licencijai gauti reikalingus dokumentus, išduoda licenciją arba pateikia motyvuotą atsisakymą ją išduoti: ^s-dd83490cddc4800196b142da
@@ -203,16 +203,16 @@ SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 2) praėjus 1 metams nuo licencijos galiojimo panaikinimo dienos, jeigu licencijos galiojimas yra panaikintas vadovaujantis šio įstatymo [[#^s-f62276c1d37055d56047b9b5|8 straipsnio 1 dalies 3 punktu]]. ^s-3fef46cfa204d41b5f686abc
 
 
-6. Slaugytojas ar akušeris, kurio licencijos galiojimas yra panaikintas vadovaujantis šio įstatymo [[#^s-6835994fc90101742671fd4d|8 straipsnio 1 dalies]] 4, 5 ar 7 punktu, gali kreiptis dėl naujos licencijos išdavimo [[#^s-dd83490cddc4800196b142da|šio straipsnio 2 dalyje]] ir Taisyklėse nustatyta tvarka, tik kai išnyksta licencijos galiojimo panaikinimo pagrindas. ^s-7685474d85a3f2d171ae7de0
+6. Slaugytojas ar akušeris, kurio licencijos galiojimas yra panaikintas vadovaujantis šio įstatymo [[#^s-6835994fc90101742671fd4d|8 straipsnio 1 dalies]] [[#^s-6dc706d0c1bcf9cbbc905b3a|4]], [[#^s-c4d5324b28115b56feda9054|5]] ar [[#^s-266c4cbb3c7fe6b2cfaf45b7|7]] punktu, gali kreiptis dėl naujos licencijos išdavimo [[#^s-dd83490cddc4800196b142da|šio straipsnio 2 dalyje]] ir Taisyklėse nustatyta tvarka, tik kai išnyksta licencijos galiojimo panaikinimo pagrindas. ^s-7685474d85a3f2d171ae7de0
 
 
 7. Duomenys apie licencijas įrašomi Licencijų informacinėje sistemoje kitą dieną nuo deklaracijos pateikimo Licencijavimo institucijai dienos arba nuo deklaracijoje nurodytos dienos, jeigu ši diena yra vėlesnė negu deklaracijos pateikimo Licencijavimo institucijai diena, arba licencijos išdavimo dieną, kai vadovaujantis šio įstatymo [[#^s-dd83490cddc4800196b142da|5 straipsnio 2 dalimi]] licencija išduodama. ^s-f89c505381621b95ba3c6d18
 
 
-8. Bendrosios praktikos slaugytojų ir akušerių, siekiančių gauti licenciją, ir licencijų turėtojų asmens duomenys tvarkomi šio įstatymo ir Taisyklėse nustatyta tvarka vykdant bendrosios slaugos praktikos ir akušerijos praktikos licencijavimą, įskaitant ir licencijuojamos veiklos priežiūrą, siekiant užtikrinti bendrosios praktikos slaugytojų ir akušerių teikiamų asmens sveikatos priežiūros paslaugų kokybę. Asmens duomenys tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] ir kitų teisės aktų, reglamentuojančių asmens duomenų tvarkymą. ^s-e332fa43f065ece1962d2478
+8. Bendrosios praktikos slaugytojų ir akušerių, siekiančių gauti licenciją, ir licencijų turėtojų asmens duomenys tvarkomi šio įstatymo ir Taisyklėse nustatyta tvarka vykdant bendrosios slaugos praktikos ir akušerijos praktikos licencijavimą, įskaitant ir licencijuojamos veiklos priežiūrą, siekiant užtikrinti bendrosios praktikos slaugytojų ir akušerių teikiamų asmens sveikatos priežiūros paslaugų kokybę. Asmens duomenys tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] ir kitų teisės aktų, reglamentuojančių asmens duomenų tvarkymą. ^s-e332fa43f065ece1962d2478
 
 
-9. Licencijavimo institucija, siekdama užtikrinti pacientų teisę į tinkamas ir kokybiškas slaugos ir akušerijos paslaugas ir informuoti visuomenę bei bendrosios praktikos slaugytojus ir akušerius apie išduotas, patikslintas licencijas ir licencijas, kurių galiojimas sustabdytas ar panaikintas, Taisyklėse nustatyta tvarka skelbia savo interneto svetainėje šiuos aktualius licencijų duomenis: licencijos numerį, licencijos turėtojo vardą, pavardę, spaudo numerį, licencijos turėtojo praktikos rūšį, licencijos išdavimo datą, licencijos duomenų patikslinimo įrašant duomenis apie įgytą išplėstinės praktikos slaugytojo profesinę kvalifikaciją datą, licencijos galiojimo sustabdymo ir licencijos galiojimo panaikinimo datą. Šioje dalyje nurodyti licencijų duomenys, išskyrus duomenis apie licencijos galiojimo panaikinimą, skelbiami iki licencijos galiojimo panaikinimo dienos. Duomenys apie licencijos galiojimo panaikinimą skelbiami 1 metus nuo jos galiojimo panaikinimo dienos. Licencijų informacinėje sistemoje tvarkomi licencijų duomenys – licencijos turėtojo vardas, pavardė, licencijos numeris, licencijos turėtojo praktikos rūšis ir licencijos galiojimo būsena – yra vieši. ^s-a6863c7bb0cd1e850f96b207
+9. Licencijavimo institucija, siekdama užtikrinti pacientų teisę į tinkamas ir kokybiškas slaugos ir akušerijos paslaugas ir informuoti visuomenę bei bendrosios praktikos slaugytojus ir akušerius [apie išduotas, patikslintas licencijas](https://e-tar.lt/portal/lt/legalAct/TAR.99355D1CAC6A) ir licencijas, kurių galiojimas sustabdytas ar panaikintas, Taisyklėse nustatyta tvarka skelbia savo interneto svetainėje šiuos aktualius licencijų duomenis: licencijos numerį, licencijos turėtojo vardą, pavardę, spaudo numerį, licencijos turėtojo praktikos rūšį, licencijos išdavimo datą, licencijos duomenų patikslinimo įrašant duomenis apie įgytą išplėstinės praktikos slaugytojo profesinę kvalifikaciją datą, licencijos galiojimo sustabdymo ir licencijos galiojimo panaikinimo datą. Šioje dalyje nurodyti licencijų duomenys, išskyrus duomenis apie licencijos galiojimo panaikinimą, skelbiami iki licencijos galiojimo panaikinimo dienos. Duomenys apie licencijos galiojimo panaikinimą skelbiami 1 metus nuo jos galiojimo panaikinimo dienos. Licencijų informacinėje sistemoje tvarkomi licencijų duomenys – licencijos turėtojo vardas, pavardė, licencijos numeris, licencijos turėtojo praktikos rūšis ir licencijos galiojimo būsena – yra vieši. ^s-a6863c7bb0cd1e850f96b207
 
 
 
@@ -247,7 +247,7 @@ SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 1) gaunamas licencijos turėtojo prašymas sustabdyti licencijos galiojimą; ^s-69b817ea0f35a57020600380
 
 
-2) licencijos turėtojas per 1 metus nuo paskutinio bent vienos iš šio įstatymo 14 ar [[#^s-a54bacffe9f9e1ea6e8b1c94|15 straipsniuose]] nurodytų pareigų pažeidimo dar kartą pažeidžia bent vieną šio įstatymo 14 ar [[#^s-a54bacffe9f9e1ea6e8b1c94|15 straipsniuose]] nurodytą pareigą; ^s-b50026759064fa064bc4bcb8
+2) licencijos turėtojas per 1 metus nuo paskutinio bent vienos iš šio įstatymo [[#^s-39c5d8b48010e0c5a4c14e2a|14]] ar [[#^s-a54bacffe9f9e1ea6e8b1c94|15]] straipsniuose nurodytų pareigų pažeidimo dar kartą pažeidžia bent vieną šio įstatymo [[#^s-39c5d8b48010e0c5a4c14e2a|14]] ar [[#^s-a54bacffe9f9e1ea6e8b1c94|15]] straipsniuose nurodytą pareigą; ^s-b50026759064fa064bc4bcb8
 
 
 3) teismas priima sprendimą dėl slaugytojo ar akušerio laikino nušalinimo nuo pareigų ar laikino teisės verstis slaugos ar akušerijos praktika sustabdymo; ^s-0a436af4a480bdcfc6693037
@@ -268,7 +268,7 @@ SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 2. Licencijos galiojimas sustabdomas: ^s-4bdc9444b241b94424c0426d
 
 
-1) iki dokumentų ir (ar) duomenų, patvirtinančių, kad pašalintas (-i) ar išnykęs (-ę) licencijos galiojimo sustabdymo pagrindas (-ai), pateikimo Licencijavimo institucijai dienos, bet ne ilgiau kaip 1 metams, jeigu licencijos galiojimas stabdomas vadovaujantis [[#^s-cd3fd4176662ead0d8618167|šio straipsnio 1 dalies]] 4, 5 ar 7 punktu; ^s-fc58cae2fa26cda5e6d4e86b
+1) iki dokumentų ir (ar) duomenų, patvirtinančių, kad pašalintas (-i) ar išnykęs (-ę) licencijos galiojimo sustabdymo pagrindas (-ai), pateikimo Licencijavimo institucijai dienos, bet ne ilgiau kaip 1 metams, jeigu licencijos galiojimas stabdomas vadovaujantis [[#^s-cd3fd4176662ead0d8618167|šio straipsnio 1 dalies]] [[#^s-53e024319c071ae664f84fca|4]], 5 ar 7 punktu; ^s-fc58cae2fa26cda5e6d4e86b
 
 
 2) 1 metams, jeigu licencijos galiojimas stabdomas vadovaujantis [[#^s-cd3fd4176662ead0d8618167|šio straipsnio 1 dalies]] 2 ar 6 punktu; ^s-dc491aa3526f0d48134cd1ee
@@ -286,7 +286,7 @@ SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 4. Licencijavimo institucija sprendimą sustabdyti licencijos galiojimą ne vėliau kaip kitą darbo dieną nuo šio sprendimo priėmimo dienos pateikia: ^s-9bfb18f947d58e0707035855
 
 
-1) slaugytojui ar akušeriui ir, jeigu licencijos galiojimas buvo sustabdytas vadovaujantis [[#^s-cd3fd4176662ead0d8618167|šio straipsnio 1 dalies]] 2 arba 4–7 punktais, kartu nurodo, kad, per 1 metus nuo sprendimo sustabdyti licencijos galiojimą priėmimo dienos nepateikus [[#^s-a05f4ec6a42c1ea70239787d|šio straipsnio 6 dalies]] 1 ar [[#^s-aa6a807a183d21c72ac8d466|2 punkte]] nurodytų dokumentų, licencijos galiojimas bus panaikintas; ^s-5147d9596565f334a874e103
+1) slaugytojui ar akušeriui ir, jeigu licencijos galiojimas buvo sustabdytas vadovaujantis [[#^s-cd3fd4176662ead0d8618167|šio straipsnio 1 dalies]] 2 arba 4–7 punktais, kartu nurodo, kad, per 1 metus nuo sprendimo sustabdyti licencijos galiojimą priėmimo dienos nepateikus [[#^s-a05f4ec6a42c1ea70239787d|šio straipsnio 6 dalies]] 1 ar [[#^s-aa6a807a183d21c72ac8d466|2]] punkte nurodytų dokumentų, licencijos galiojimas bus panaikintas; ^s-5147d9596565f334a874e103
 
 
 2) asmens sveikatos priežiūros įstaigos, kurioje slaugytojas ar akušeris verčiasi slaugos praktika ar akušerijos praktika, vadovui arba jo įgaliotam atstovui (toliau – darbdavys). Vykdydamas Licencijavimo institucijos sprendimą sustabdyti licencijos galiojimą, darbdavys privalo licencijos galiojimo sustabdymo laikotarpiu nušalinti licencijos turėtoją nuo pareigų [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso]] nustatyta tvarka. ^s-aa6a807a183d21c72ac8d466
@@ -298,7 +298,7 @@ SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 6. Licencijos galiojimo sustabdymas panaikinamas Licencijavimo institucijos sprendimu: ^s-a05f4ec6a42c1ea70239787d
 
 
-1) gavus dokumentus ir (ar) duomenis, patvirtinančius, kad išnykęs (-ę) licencijos galiojimo sustabdymo pagrindas (-ai), jeigu licencijos galiojimas yra sustabdytas [[#^s-cd3fd4176662ead0d8618167|šio straipsnio 1 dalies]] 4, 5 ar 7 punkte nurodytais pagrindais; ^s-b49b503c687aa6bd2952500a
+1) gavus dokumentus ir (ar) duomenis, patvirtinančius, kad išnykęs (-ę) licencijos galiojimo sustabdymo pagrindas (-ai), jeigu licencijos galiojimas yra sustabdytas [[#^s-cd3fd4176662ead0d8618167|šio straipsnio 1 dalies]] [[#^s-a23d10834b1b7535861109a8|4]], 5 ar 7 punkte nurodytais pagrindais; ^s-b49b503c687aa6bd2952500a
 
 
 2) gavus dokumentus ir (ar) duomenis, patvirtinančius, kad įvykdyta [[#^s-dbfd9315368afedffd3c265a|šio straipsnio 7 dalyje]] nurodyta sąlyga, jeigu licencijos galiojimas yra sustabdytas [[#^s-441a83061cd6413b701c12a9|šio straipsnio 1 dalies 6 punkte]] nurodytu pagrindu; ^s-c3fabf23a1619c2219b2c244
@@ -316,7 +316,7 @@ SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 8. Sprendimas panaikinti licencijos galiojimo sustabdymą priimamas Taisyklėse nustatyta tvarka ne vėliau kaip: ^s-85cc9ca730a111a2b5348fce
 
 
-1) per 10 darbo dienų nuo prašymo panaikinti licencijos galiojimo sustabdymą ir [[#^s-a05f4ec6a42c1ea70239787d|šio straipsnio 6 dalies]] 1 ar [[#^s-59295b1ed7812b131d6fa5be|2 punkte]] nurodytų dokumentų ir (ar) duomenų gavimo Licencijavimo institucijoje dienos; ^s-ddee8105056ee34e6d31f1ed
+1) per 10 darbo dienų nuo prašymo panaikinti licencijos galiojimo sustabdymą ir [[#^s-a05f4ec6a42c1ea70239787d|šio straipsnio 6 dalies]] 1 ar [[#^s-59295b1ed7812b131d6fa5be|2]] punkte nurodytų dokumentų ir (ar) duomenų gavimo Licencijavimo institucijoje dienos; ^s-ddee8105056ee34e6d31f1ed
 
 
 2) per 2 darbo dienas nuo licencijos turėtojo prašymo panaikinti licencijos galiojimo sustabdymą gavimo Licencijavimo institucijoje dienos, jeigu licencijos galiojimas yra sustabdytas [[#^s-69b817ea0f35a57020600380|šio straipsnio 1 dalies 1 punkte]] nurodytu pagrindu ir prašoma panaikinti licencijos galiojimo sustabdymą nepasibaigus licencijos galiojimo sustabdymo laikotarpiui; ^s-59295b1ed7812b131d6fa5be
@@ -347,7 +347,7 @@ SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 4) įsiteisėjusiu teismo nuosprendžiu licencijos turėtojui atimama teisė verstis slaugos praktika ar akušerijos praktika; ^s-6dc706d0c1bcf9cbbc905b3a
 
 
-5) bendrosios praktikos slaugytojas ar akušeris per 1 metus nuo sprendimo sustabdyti licencijos galiojimą priėmimo dienos nepateikia šio įstatymo [[#^s-a05f4ec6a42c1ea70239787d|7 straipsnio 6 dalies]] 1 ar [[#^s-1018c33d01542cc87f929dd1|2 punkte]] nurodytų dokumentų, patvirtinančių licencijos galiojimo sustabdymo pagrindo išnykimą; ^s-c4d5324b28115b56feda9054
+5) bendrosios praktikos slaugytojas ar akušeris per 1 metus nuo sprendimo sustabdyti licencijos galiojimą priėmimo dienos nepateikia šio įstatymo [[#^s-a05f4ec6a42c1ea70239787d|7 straipsnio 6 dalies]] [[#^s-b49b503c687aa6bd2952500a|1]] ar [[#^s-c3fabf23a1619c2219b2c244|2]] punkte nurodytų dokumentų, patvirtinančių licencijos galiojimo sustabdymo pagrindo išnykimą; ^s-c4d5324b28115b56feda9054
 
 
 6) licencijos turėtojas miršta; ^s-680a674ec09b84bb07e8f8e0
@@ -378,7 +378,7 @@ SLAUGOS PRAKTIKA IR AKUŠERIJOS PRAKTIKA
 1. Slaugytojas ar akušeris, kuris yra teisėtai įsisteigęs kitoje valstybėje narėje, vadovaujantis [[latest/TAR.074B2F6259F9|Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu]], turi teisę laikinai ir kartais teikti slaugos ar akušerijos paslaugas Lietuvos Respublikoje ir neturėdamas licencijos. ^s-ab875222e90409e2dc527b79
 
 
-2. Slaugytojas ar akušeris, kuris yra teisėtai įsisteigęs kitoje valstybėje narėje, laikinai ir kartais teikdamas slaugos ar akušerijos paslaugas Lietuvos Respublikoje, turi šio įstatymo 11–[[#^s-566e222b3c6200177b2ec20b|13 straipsniuose]] nurodytas teises ir šio įstatymo [[#^s-39c5d8b48010e0c5a4c14e2a|14 straipsnio]] 2, 3, 6–10 punktuose bei [[#^s-a54bacffe9f9e1ea6e8b1c94|15 straipsnio]] 2, 3, 6–10 punktuose nurodytas pareigas. ^s-ca5349f68817ef57ac4b8811
+2. Slaugytojas ar akušeris, kuris yra teisėtai įsisteigęs kitoje valstybėje narėje, laikinai ir kartais teikdamas slaugos ar akušerijos paslaugas Lietuvos Respublikoje, turi šio įstatymo [[#^s-6eddbcda8c3755805f7f8bbb|11]]–[[#^s-566e222b3c6200177b2ec20b|13]] straipsniuose nurodytas teises ir šio įstatymo [[#^s-39c5d8b48010e0c5a4c14e2a|14 straipsnio]] 2, 3, 6–10 punktuose bei [[#^s-a54bacffe9f9e1ea6e8b1c94|15 straipsnio]] 2, 3, 6–10 punktuose nurodytas pareigas. ^s-ca5349f68817ef57ac4b8811
 
 
 3. Licencijavimo institucija teisėtai įsisteigusių kitoje valstybėje narėje slaugytojų ar akušerių vardą, pavardę, įsisteigimo šalį, licencijos numerį, duomenis apie jos galiojimą ir praktikos rūšį skelbia savo interneto svetainėje 12 mėnesių nuo Licencijavimo institucijos sprendimo leisti laikinai ir kartais teikti paslaugas pagal reglamentuojamą profesinę kvalifikaciją, įskaitant atvejus, kai priimamas sprendimas netikrinti profesinės kvalifikacijos, priėmimo dienos arba profesinės kvalifikacijos pripažinimo dienos, siekiant užtikrinti pacientų teisę į tinkamas ir kokybiškas slaugos ir akušerijos paslaugas ir informuoti visuomenę apie šių slaugytojų ir akušerių teikiamas asmens sveikatos priežiūros paslaugas Lietuvos Respublikoje. Šioje dalyje nurodytų duomenų apie teisėtai įsisteigusius kitoje valstybėje narėje slaugytojus ar akušerius, laikinai ir kartais teikiančius atitinkamai slaugos ar akušerijos paslaugas Lietuvos Respublikoje, skelbimo Licencijavimo institucijos interneto svetainėje terminas pratęsiamas, jeigu slaugytojas ar akušeris, vadovaudamasis [[latest/TAR.074B2F6259F9#^s-94b431d2f01f0c2d4dcc3925|Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 9 straipsnio 2 dalimi]], deklaruoja apie ketinimą dar 1 metus teikti atitinkamai slaugos ar akušerijos paslaugas laikinai ir kartais. ^s-2e8f960be69da1304a384936
@@ -517,13 +517,13 @@ Slaugytojas privalo:
 4) tobulinti profesinę kvalifikaciją sveikatos apsaugos ministro nustatyta apimtimi ir tvarka, taip pat papildomai tobulinti profesinę kvalifikaciją šio įstatymo [[#^s-0c99a49ceaa32218abf3e4f1|16 straipsnio 4 dalyje]] nurodytu atveju; ^s-adbf3c4291f50aa49e082f7b
 
 
-5) Licencijavimo institucijai jos prašymu teikti duomenis apie slaugytojo atitiktį šio įstatymo [[#^s-b2fb1734bd57b3ff30f19df5|5 straipsnio 4 dalyje]] nurodytoms sąlygoms, šiame straipsnyje nurodytų pareigų vykdymą, juridinių faktų, nurodytų šio įstatymo [[#^s-3d91f0cf7111a9a7cf9803e6|6 straipsnyje]], [[#^s-cd3fd4176662ead0d8618167|7 straipsnio 1 dalies]] 2–[[#^s-c6e68bbcff90dc3d591f7ffa|7 punktuose]] ir [[#^s-6835994fc90101742671fd4d|8 straipsnio 1 dalies]] 2–5, 7 ir [[#^s-cd591843ab8d94185f40f732|8 punktuose]], buvimą; ^s-e1e2acc4761f7249d0a1b1c7
+5) Licencijavimo institucijai jos prašymu teikti duomenis apie slaugytojo atitiktį šio įstatymo [[#^s-b2fb1734bd57b3ff30f19df5|5 straipsnio 4 dalyje]] nurodytoms sąlygoms, šiame straipsnyje nurodytų pareigų vykdymą, juridinių faktų, nurodytų šio įstatymo [[#^s-3d91f0cf7111a9a7cf9803e6|6 straipsnyje]], [[#^s-cd3fd4176662ead0d8618167|7 straipsnio 1 dalies]] [[#^s-b50026759064fa064bc4bcb8|2]]–[[#^s-e45c42b4221b63fbdef39090|7]] punktuose ir [[#^s-6835994fc90101742671fd4d|8 straipsnio 1 dalies]] [[#^s-1018c33d01542cc87f929dd1|2]]–[[#^s-c4d5324b28115b56feda9054|5]], [[#^s-266c4cbb3c7fe6b2cfaf45b7|7]] ir [[#^s-859da4c8da47c5a705d53ee8|8]] punktuose, buvimą; ^s-e1e2acc4761f7249d0a1b1c7
 
 
 6) gerbti pacientų teises ir jų nepažeisti; ^s-9ca0717c90e0faf192fd370b
 
 
-7) teikti informaciją apie paciento sveikatą Reglamento (ES) 2016/679, [[latest/TAR.C6E4170DB704|Pacientų teisių ir žalos sveikatai atlyginimo įstatymo]] ir kitų Lietuvos Respublikos teisės aktų, reguliuojančių pacientų asmens duomenų tvarkymą, nustatyta tvarka; ^s-c6e68bbcff90dc3d591f7ffa
+7) teikti informaciją apie paciento sveikatą [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), [[latest/TAR.C6E4170DB704|Pacientų teisių ir žalos sveikatai atlyginimo įstatymo]] ir kitų Lietuvos Respublikos teisės aktų, reguliuojančių pacientų asmens duomenų tvarkymą, nustatyta tvarka; ^s-c6e68bbcff90dc3d591f7ffa
 
 
 8) teikdamas slaugos paslaugas, koordinuoti kitos sveikatinimo veiklos specialistų veiklą ir bendradarbiauti su sveikatos priežiūros ir kitais specialistais; ^s-cd591843ab8d94185f40f732
@@ -554,13 +554,13 @@ Akušeris privalo:
 4) tobulinti profesinę kvalifikaciją sveikatos apsaugos ministro nustatyta apimtimi ir tvarka, taip pat papildomai tobulinti profesinę kvalifikaciją šio įstatymo [[#^s-0c99a49ceaa32218abf3e4f1|16 straipsnio 4 dalyje]] nurodytu atveju; ^s-92bf959549147a7c01abc70e
 
 
-5) Licencijavimo institucijai jos prašymu teikti duomenis apie akušerio atitiktį šio įstatymo [[#^s-b2fb1734bd57b3ff30f19df5|5 straipsnio 4 dalyje]] nurodytoms sąlygoms, šiame straipsnyje nurodytų pareigų vykdymą, juridinių faktų, nurodytų šio įstatymo [[#^s-3d91f0cf7111a9a7cf9803e6|6 straipsnyje]], [[#^s-cd3fd4176662ead0d8618167|7 straipsnio 1 dalies]] 2–[[#^s-9c4cb979e733185432cf9ae7|7 punktuose]] ir [[#^s-6835994fc90101742671fd4d|8 straipsnio 1 dalies]] 2–5, 7 ir [[#^s-db19b081a8c8e71ea9efe1f9|8 punktuose]], buvimą; ^s-afd29c3d73efd53f2982d66e
+5) Licencijavimo institucijai jos prašymu teikti duomenis apie akušerio atitiktį šio įstatymo [[#^s-b2fb1734bd57b3ff30f19df5|5 straipsnio 4 dalyje]] nurodytoms sąlygoms, šiame straipsnyje nurodytų pareigų vykdymą, juridinių faktų, nurodytų šio įstatymo [[#^s-3d91f0cf7111a9a7cf9803e6|6 straipsnyje]], [[#^s-cd3fd4176662ead0d8618167|7 straipsnio 1 dalies]] [[#^s-b50026759064fa064bc4bcb8|2]]–[[#^s-e45c42b4221b63fbdef39090|7]] punktuose ir [[#^s-6835994fc90101742671fd4d|8 straipsnio 1 dalies]] [[#^s-1018c33d01542cc87f929dd1|2]]–[[#^s-c4d5324b28115b56feda9054|5]], [[#^s-266c4cbb3c7fe6b2cfaf45b7|7]] ir [[#^s-859da4c8da47c5a705d53ee8|8]] punktuose, buvimą; ^s-afd29c3d73efd53f2982d66e
 
 
 6) gerbti pacientų teises ir jų nepažeisti; ^s-8976726100372cd435e68705
 
 
-7) teikti informaciją apie paciento sveikatą Reglamento (ES) 2016/679, [[latest/TAR.C6E4170DB704|Pacientų teisių ir žalos sveikatai atlyginimo įstatymo]] ir kitų Lietuvos Respublikos teisės aktų, reguliuojančių pacientų asmens duomenų tvarkymą, nustatyta tvarka; ^s-9c4cb979e733185432cf9ae7
+7) teikti informaciją apie paciento sveikatą [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), [[latest/TAR.C6E4170DB704|Pacientų teisių ir žalos sveikatai atlyginimo įstatymo]] ir kitų Lietuvos Respublikos teisės aktų, reguliuojančių pacientų asmens duomenų tvarkymą, nustatyta tvarka; ^s-9c4cb979e733185432cf9ae7
 
 
 8) teikdamas akušerijos paslaugas, bendradarbiauti su sveikatos priežiūros ir kitais specialistais; ^s-db19b081a8c8e71ea9efe1f9
@@ -651,32 +651,32 @@ Nr. XI-2373, 2012-11-06, Žin., 2012, Nr. 135-6864 (2012-11-22), i. k. [[latest/
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1913, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11091
-Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 2, 3, 4, 8, 11, 12, [[#^s-566e222b3c6200177b2ec20b|13 straipsnių]], trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 [[#^s-70e8a211fe780aa613c0bba3|2]], [[#^s-0512ed207430cef1574db872|3]], [[#^s-1e75e1a8306dfaea5874ef23|4]], [[#^s-2062145ab98f2c8ec978605e|8]], [[#^s-6eddbcda8c3755805f7f8bbb|11]], [[#^s-f32b13978eb2cca2d17385e7|12]], [[#^s-566e222b3c6200177b2ec20b|13]] straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1956, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16897
-Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 5, 6, 7, 8, 13 ir [[#^s-39c5d8b48010e0c5a4c14e2a|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 [[#^s-bdd4f599fbeedf2837f18abf|5]], [[#^s-3d91f0cf7111a9a7cf9803e6|6]], [[#^s-70d9a5d9a32930bf5c497ecb|7]], [[#^s-2062145ab98f2c8ec978605e|8]], [[#^s-566e222b3c6200177b2ec20b|13]] ir [[#^s-39c5d8b48010e0c5a4c14e2a|14]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1334, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11322
-Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 1, 2, 3, 11, 11-1, 12, [[#^s-a54bacffe9f9e1ea6e8b1c94|15 straipsnių]] pakeitimo ir Įstatymo papildymo [[#^s-a31ce9ad1326be40ba07e1ae|16 straipsniu]] įstatymas
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 [[#^s-b6e0692804b6553dcd1f697e|1]], [[#^s-70e8a211fe780aa613c0bba3|2]], [[#^s-0512ed207430cef1574db872|3]], [[#^s-6eddbcda8c3755805f7f8bbb|11]], 11-1, [[#^s-f32b13978eb2cca2d17385e7|12]], [[#^s-a54bacffe9f9e1ea6e8b1c94|15]] straipsnių pakeitimo ir Įstatymo papildymo [[#^s-a31ce9ad1326be40ba07e1ae|16 straipsniu]] įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2380, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12803
-Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 5, 7 ir [[#^s-2062145ab98f2c8ec978605e|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 [[#^s-bdd4f599fbeedf2837f18abf|5]], [[#^s-70d9a5d9a32930bf5c497ecb|7]] ir [[#^s-2062145ab98f2c8ec978605e|8]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2560, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19868
-Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 2, 5, 7, 8, 9, 13 ir [[#^s-39c5d8b48010e0c5a4c14e2a|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 [[#^s-70e8a211fe780aa613c0bba3|2]], [[#^s-bdd4f599fbeedf2837f18abf|5]], [[#^s-70d9a5d9a32930bf5c497ecb|7]], [[#^s-2062145ab98f2c8ec978605e|8]], [[#^s-ca7a1976a60e13bd4bbf22fa|9]], [[#^s-566e222b3c6200177b2ec20b|13]] ir [[#^s-39c5d8b48010e0c5a4c14e2a|14]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2192, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20772
-Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 11, 11-1 ir [[#^s-f32b13978eb2cca2d17385e7|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 [[#^s-6eddbcda8c3755805f7f8bbb|11]], 11-1 ir [[#^s-f32b13978eb2cca2d17385e7|12]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -686,7 +686,7 @@ Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2617, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08909
-Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 11 ir [[#^s-f32b13978eb2cca2d17385e7|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos slaugos praktikos ir akušerijos praktikos įstatymo Nr. IX-413 [[#^s-6eddbcda8c3755805f7f8bbb|11]] ir [[#^s-f32b13978eb2cca2d17385e7|12]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas

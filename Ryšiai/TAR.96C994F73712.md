@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.0F470A65DFCA#^s-11b7fd7f86b62e01a9e8f9d0|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - 3 citatos - 1021010ISTA0IX-1092
-- [[latest/TAR.0F470A65DFCA#^s-807543bff31794ce0a6ea360|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - 3 citatos - 1021010ISTA0IX-1092
+- [[latest/TAR.0F470A65DFCA#^s-807543bff31794ce0a6ea360|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - 2 citatos - 1021010ISTA0IX-1092

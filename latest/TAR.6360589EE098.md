@@ -42,7 +42,7 @@ Vilnius
 1. 23 straipsnio 2 dalį pripažinti netekusia galios. ^s-30a97ce85dbc577f843cfb5d
 
 
-2. 23 straipsnio buvusią 3 dalį laikyti [[#^s-0d284f8806683c4db0f9087c|2 dalimi]]. ^s-0d284f8806683c4db0f9087c
+2. 23 straipsnio buvusią 3 dalį laikyti 2 dalimi. ^s-0d284f8806683c4db0f9087c
 
 
 

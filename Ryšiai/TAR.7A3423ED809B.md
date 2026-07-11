@@ -9,10 +9,9 @@ pavadinimas: "Lietuvos Respublikos žemės reformos įstatymo 8, 9, 10, 13, 15, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 2 citatos - „Civilinis kodeksas“
-- [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - 4 citatos - „Žemės įstatymas“
+- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - „Civilinis kodeksas“
+- [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - 3 citatos - Žemės įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.075D49C59279#^s-f3d9ec0b6214bdca8f9da877|Lietuvos Respublikos žemės reformos įstatymas]] - 2 citatos - Įstatymas Nr. IX-496
-- [[latest/TAR.075D49C59279#^s-fd93d558e29561f60c2cba71|Lietuvos Respublikos žemės reformos įstatymas]] - 2 citatos - Įstatymas Nr. IX-496
+- [[latest/TAR.075D49C59279#^s-f3d9ec0b6214bdca8f9da877|Lietuvos Respublikos žemės reformos įstatymas]] - ŽEMĖS REFORMOS ĮSTATYMO 8, 9, 10, 13, 15, 16, 17, 18, 19, 21, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

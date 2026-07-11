@@ -40,7 +40,7 @@ Vilnius
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos įstatymą „Dėl deputatų, įtariamų sąmoningu bendradarbiavimu su kitų valstybių specialiosiomis tarnybomis, mandatų patikrinimo“ (Žin., 1992, Nr. 1-1); ^s-5dbf8e1504f73cff93645b90
+1) Lietuvos Respublikos įstatymą [„Dėl deputatų, įtariamų sąmoningu bendradarbiavimu su kitų valstybių specialiosiomis tarnybomis, mandatų patikrinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.45944FBF2E3C) (Žin., 1992, Nr. 1-1); ^s-5dbf8e1504f73cff93645b90
 
 
 2) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos įstatymo „Dėl deputatų, įtariamų sąmoningu bendradarbiavimu su kitų valstybių specialiosiomis tarnybomis, mandatų patikrinimo“ pakeitimo“ (Žin., 1994, Nr. 89-1717). ^s-08c912b7085820ecb999efda

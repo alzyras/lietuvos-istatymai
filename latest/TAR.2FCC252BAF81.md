@@ -117,7 +117,7 @@ Vilnius
 Papildyti 7 straipsnį 4 dalimi:
 
 
-„4. Pensijų kaupimo bendrovė, pateikdama artimiausią Papildomo savanoriško pensijų kaupimo įstatymo 51 straipsnio 1 dalyje nurodytą pranešimą, privalo informuoti dalyvį, kuriam iki senatvės pensijos amžiaus yra likę mažiau negu 7 metai, apie galimybę kaupti pensiją konservatyvaus investavimo pensijų fonde. Kartu su šia informacija turi būti pateikiama:
+„4. Pensijų kaupimo bendrovė, pateikdama artimiausią [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatymo 51 straipsnio 1 dalyje]] nurodytą pranešimą, privalo informuoti dalyvį, kuriam iki senatvės pensijos amžiaus yra likę mažiau negu 7 metai, apie galimybę kaupti pensiją konservatyvaus investavimo pensijų fonde. Kartu su šia informacija turi būti pateikiama:
 
 
 1) išsami informacija apie galimą riziką dalyvaujant kitos rūšies negu konservatyvaus investavimo pensijų fonde ir pensijų fondo, kurio dalyvis yra šios dalies pirmame sakinyje nurodytas asmuo, bei konservatyvaus investavimo pensijų fondo investavimo rizikos palyginimas; ^s-8e6675662e6a60b0f6161adc
@@ -199,7 +199,7 @@ Pakeisti [[#^s-705c0cef9a48d10978175707|12 straipsnį]] ir jį išdėstyti taip:
 „1. Pensijų turtą gali sudaryti tik tokie vertybiniai popieriai ir pinigų rinkos priemonės, kurie nustatyti [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatyme]] ir kuriais prekiaujama rinkose, pagal Vertybinių popierių rinkos įstatymą laikomose reguliuojamomis ir veikiančiose Lietuvos Respublikoje, Europos Sąjungos valstybėje narėje, ar kurie yra įtraukti į Ekonominio bendradarbiavimo ir plėtros organizacijos valstybėje narėje esančios vertybinių popierių biržos oficialųjį prekybos sąrašą arba kuriais prekiaujama ten esančioje reguliuojamoje rinkoje, veikiančioje pagal nustatytas taisykles, pripažintoje ir visuomenei prieinamoje, jei ši birža arba rinka yra nurodyta pensijų fondo taisyklėse. Pensijų turtą taip pat gali sudaryti išleidžiami nauji vertybiniai popieriai, jeigu emisijos sąlygose yra numatytas įsipareigojimas įtraukti šiuos vertybinius popierius į vertybinių popierių biržos oficialųjį prekybos sąrašą ar reguliuojamos rinkos prekybos sąrašą ir jeigu į sąrašą bus įtraukiama ne vėliau kaip per 1 metus nuo išleidimo (jei tokia birža ar rinka yra valstybėje ne Europos Sąjungos narėje, ji turi būti nurodyta pensijų fondo taisyklėse).“
 
 
-2. Papildyti [[#^s-e3979ce4dc69f123cde59362|13 straipsnį]] naujomis 3 ir [[#^s-e6fa3f04e21dfefdad37b2b7|4 dalimis]]: ^s-81f30a6d91a102474fc59340
+2. Papildyti [[#^s-e3979ce4dc69f123cde59362|13 straipsnį]] naujomis 3 ir 4 dalimis: ^s-81f30a6d91a102474fc59340
 
 
 „3. Iki 20 procentų pensijų fondo grynųjų aktyvų gali būti investuojama į [[latest/TAR.DDA1BD559D9B#^s-422ec969f9a73b45af716a52|Papildomo savanoriško pensijų kaupimo įstatymo 49 straipsnio 1 dalyje]] nurodytų sąlygų neatitinkančių kolektyvinio investavimo subjektų investicinius vienetus ar akcijas, jeigu tokie kolektyvinio investavimo subjektai atitinka šias sąlygas:
@@ -299,10 +299,10 @@ Papildyti Įstatymą 181 straipsniu:
 3. Valdymo įmonė apie ketinimą perleisti teises ir pareigas, atsirandančias iš pensijų kaupimo sutarčių, privalo informuoti dalyvius priežiūros institucijos nustatyta tvarka ir terminais. Teisių ir pareigų, atsirandančių iš pensijų kaupimo sutarčių, perleidimo tvarką nustato priežiūros institucija. ^s-76bcd78e9fca0654fab2f3aa
 
 
-4. Perduodant teises ir pareigas pagal pensijų kaupimo sutartis, dalyvių sutikimas nereikalingas, tačiau iki teisių ir pareigų perdavimo privalo būti sudarytos sąlygos dalyviams patiems pereiti į kitą pensijų kaupimo bendrovę be atskaitymų iš jų pensijų turto, numatytų šio Įstatymo [[#^s-0674787a404baa4b9cf790ee|14 straipsnio]] 4 ir [[#^s-be2b21be46941f545e0e8985|5 dalyse]]. ^s-5dcfd87952a31e866f0b1a9d
+4. Perduodant teises ir pareigas pagal pensijų kaupimo sutartis, dalyvių sutikimas nereikalingas, tačiau iki teisių ir pareigų perdavimo privalo būti sudarytos sąlygos dalyviams patiems pereiti į kitą pensijų kaupimo bendrovę be atskaitymų iš jų pensijų turto, numatytų šio Įstatymo [[#^s-0674787a404baa4b9cf790ee|14 straipsnio]] 4 ir 5 dalyse. ^s-5dcfd87952a31e866f0b1a9d
 
 
-5. Tais atvejais, kai dėl valdymo įmonės teisių ir pareigų pagal pensijų kaupimo sutartis perdavimo pensijų fondai sujungiami, naujoji pensijų kaupimo bendrovė turi teisę pakeisti pensijų fondo, kurio dalyvių atžvilgiu ji perima teises ir pareigas, taisykles, kiek tai būtina siekiant suvienodinti dalyvavimo jos valdomame bei perimame pensijų fonduose sąlygas. Šiuo atveju su pensijų fondo taisyklių pakeitimais nesutinkantys pensijų fondo, kurio dalyvių atžvilgiu teises ir pareigas perima kita pensijų kaupimo bendrovė, dalyviai per 3 mėnesius nuo sprendimo sujungti pensijų fondus priėmimo turi teisę pereiti į jų pasirinktą kitos pensijų kaupimo bendrovės valdomą pensijų fondą be šio Įstatymo [[#^s-0674787a404baa4b9cf790ee|14 straipsnio]] 4 ir [[#^s-be2b21be46941f545e0e8985|5 dalyse]] nustatytų atskaitymų. ^s-be2b21be46941f545e0e8985
+5. Tais atvejais, kai dėl valdymo įmonės teisių ir pareigų pagal pensijų kaupimo sutartis perdavimo pensijų fondai sujungiami, naujoji pensijų kaupimo bendrovė turi teisę pakeisti pensijų fondo, kurio dalyvių atžvilgiu ji perima teises ir pareigas, taisykles, kiek tai būtina siekiant suvienodinti dalyvavimo jos valdomame bei perimame pensijų fonduose sąlygas. Šiuo atveju su pensijų fondo taisyklių pakeitimais nesutinkantys pensijų fondo, kurio dalyvių atžvilgiu teises ir pareigas perima kita pensijų kaupimo bendrovė, dalyviai per 3 mėnesius nuo sprendimo sujungti pensijų fondus priėmimo turi teisę pereiti į jų pasirinktą kitos pensijų kaupimo bendrovės valdomą pensijų fondą be šio Įstatymo [[#^s-0674787a404baa4b9cf790ee|14 straipsnio]] 4 ir 5 dalyse nustatytų atskaitymų. ^s-be2b21be46941f545e0e8985
 
 
 6. Perduodant teises ir pareigas pagal pensijų kaupimo sutartis, kartu perduodamas ir pensijų turtas. ^s-1aa2aa6121e039bf2be1fcec
@@ -318,7 +318,7 @@ Papildyti Įstatymą 181 straipsniu:
 19 straipsnio 4 dalyje vietoj skaičių „1–6“ įrašyti skaičius „1, 2, 3, 5, 6“, po žodžių „4 dalis“ įrašyti žodžius „54 straipsnį“ ir šią dalį išdėstyti taip:
 
 
-„4. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms mutatis mutandis taikomi Papildomo savanoriško pensijų kaupimo įstatymo antrojo skirsnio 6 straipsnio 10 punktas, 10, 12 (išskyrus 1 dalies 2, 4, 5, 6, 8 punktus), [[#^s-0674787a404baa4b9cf790ee|14 straipsniai]], trečiojo skirsnio 23, 24, 30, 31 (išskyrus 1, 2, 3, 5, 6 dalis), 34, 35 straipsniai, ketvirtasis–šeštasis skirsniai (išskyrus 53 straipsnio 1 ir 4 dalis, 54 straipsnį). Vertybinių popierių komisijai priskirtas teises turi ir jos funkcijas vykdo draudimo įmonių atžvilgiu pagal Draudimo įstatymą draudimo veiklos priežiūrą atliekanti institucija.“
+„4. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms mutatis mutandis taikomi [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatymo antrojo skirsnio 6 straipsnio 10 punktas]], 10, 12 (išskyrus 1 dalies [[latest/TAR.DDA1BD559D9B|2]], [[latest/TAR.DDA1BD559D9B|4]], [[latest/TAR.DDA1BD559D9B|5]], [[latest/TAR.DDA1BD559D9B|6]], [[latest/TAR.DDA1BD559D9B|8]] punktus), [[#^s-0674787a404baa4b9cf790ee|14 straipsniai]], trečiojo skirsnio 23, 24, 30, 31 (išskyrus 1, 2, 3, 5, 6 dalis), 34, 35 straipsniai, ketvirtasis–šeštasis skirsniai (išskyrus 53 straipsnio 1 ir 4 dalis, 54 straipsnį). Vertybinių popierių komisijai priskirtas teises turi ir jos funkcijas vykdo draudimo įmonių atžvilgiu pagal Draudimo įstatymą draudimo veiklos priežiūrą atliekanti institucija.“
 
 
 
@@ -355,7 +355,7 @@ Pakeisti 24 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 17 straipsnis. Įstatymo įsigaliojimas ^s-27a0babd819fb479c23562fb
 
 
-Šis įstatymas, išskyrus [[#^s-a0f6be7cec48455b3c41b3f5|3 straipsnio 1 dalį]], 5, 7, 8, 11, 12, 13, 14, 15 ir [[#^s-19a034be6c73b0f3b045b10e|18 straipsnius]], įsigalioja nuo 2007 m. liepos 1 d.
+Šis įstatymas, išskyrus [[#^s-a0f6be7cec48455b3c41b3f5|3 straipsnio 1 dalį]], [[#^s-75b8ea22eebe5bd7eee56c8e|5]], [[#^s-f177179887d5a02a99b0bc6b|7]], [[#^s-ff6b9263efd1c70dc1792208|8]], [[#^s-5217b057a33fe6ce0608903d|11]], [[#^s-705c0cef9a48d10978175707|12]], [[#^s-e3979ce4dc69f123cde59362|13]], [[#^s-0674787a404baa4b9cf790ee|14]], [[#^s-6858fec97b0a988f1414d4c3|15]] ir [[#^s-19a034be6c73b0f3b045b10e|18]] straipsnius, įsigalioja nuo 2007 m. liepos 1 d.
 
 
 
@@ -368,7 +368,7 @@ Pakeisti 24 straipsnio 2 dalį ir ją išdėstyti taip:
 2. Pensijų kaupimo bendrovės iki 2007 m. liepos 1 d. privalo parengti ir priežiūros institucijai pateikti taisykles, nustatančias pensijų kaupimo bendrovės valdomų pensijų fondų lyginamųjų indeksų pasirinkimo ir keitimo kriterijus bei tvarką. ^s-ac563c0c7db9eddcf493d8a3
 
 
-3. Pensijų kaupimo bendrovės iki 2007 m. liepos 1 d. privalo suderinti jų valdomų pensijų fondų taisykles su šio įstatymo nuostatomis ir pateikti jas tvirtinti priežiūros institucijai. Šiuo atveju pensijų fondų taisyklių pakeitimai įsigalioja praėjus 30 dienų nuo jų patvirtinimo priežiūros institucijoje, bet ne anksčiau, negu įsigalioja šio įstatymo [[#^s-723455205407d2a0fdde575c|9 straipsnis]]. Šiems pensijų fondų taisyklių pakeitimams pensijų fondų dalyvių sutikimas nebūtinas. Pensijų kaupimo bendrovės turi teisę pranešti dalyviams apie pensijų fondų taisyklių pakeitimus pateikdamos artimiausią Papildomo savanoriško pensijų kaupimo įstatymo 51 straipsnio 1 dalyje numatytą pranešimą. Šiuo atveju Papildomo savanoriško pensijų kaupimo įstatymo 23 straipsnio 6 dalies pirmo sakinio nuostatos netaikomos. ^s-84f4768afdd069ff0006d604
+3. Pensijų kaupimo bendrovės iki 2007 m. liepos 1 d. privalo suderinti jų valdomų pensijų fondų taisykles su šio įstatymo nuostatomis ir pateikti jas tvirtinti priežiūros institucijai. Šiuo atveju pensijų fondų taisyklių pakeitimai įsigalioja praėjus 30 dienų nuo jų patvirtinimo priežiūros institucijoje, bet ne anksčiau, negu įsigalioja šio įstatymo [[#^s-723455205407d2a0fdde575c|9 straipsnis]]. Šiems pensijų fondų taisyklių pakeitimams pensijų fondų dalyvių sutikimas nebūtinas. Pensijų kaupimo bendrovės turi teisę pranešti dalyviams apie pensijų fondų taisyklių pakeitimus pateikdamos artimiausią [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatymo 51 straipsnio 1 dalyje]] numatytą pranešimą. Šiuo atveju [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatymo 23 straipsnio 6 dalies]] pirmo sakinio nuostatos netaikomos. ^s-84f4768afdd069ff0006d604
 
 
 

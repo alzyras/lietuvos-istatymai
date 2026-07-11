@@ -40,7 +40,7 @@ Vilnius
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos piliečio pažymėjimo“ (Žin., 1990, Nr. 11-354); ^s-4db6358f90487ec1aa3cdbc2
+1) Lietuvos Respublikos įstatymą [„Dėl Lietuvos Respublikos piliečio pažymėjimo“](https://e-tar.lt/portal/lt/legalAct/TAR.2252FAAA4A79) (Žin., 1990, Nr. 11-354); ^s-4db6358f90487ec1aa3cdbc2
 
 
 2) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos piliečio pažymėjimo“ [[#^s-9b34e5e36d6f9d2633bb9ea0|1 straipsnio]] pirmosios dalies pakeitimo“ (Žin., 1991, Nr. 11-281). ^s-174dd35ea931468650353471

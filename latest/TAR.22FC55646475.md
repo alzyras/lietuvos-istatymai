@@ -62,13 +62,13 @@ Vilnius
 4. Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip: ^s-224d1da77bdda158dc041010
 
 
-„5. Be [[#^s-224d1da77bdda158dc041010|šio straipsnio 4 dalyje]] nurodytų asmenų, indėlius ir kitas grąžintinas lėšas kredito unija turi teisę priimti ir iš Lietuvos Respublikos Vyriausybės ar savivaldybių įstaigų ir institucijų, jeigu tai numatyta kredito unijų steigimo dokumentuose, Lietuvos Respublikoje įsteigtų asociacijų, religinių bendruomenių ir bendrijų, profesinių sąjungų organizacijų, labdaros ir paramos fondų, tarptautinių ar užsienio valstybių labdaros ir paramos fondų, taip pat Lietuvos Respublikos civilinio kodekso nustatyta tvarka iš kredito unijos narių nepilnamečių vaikų (įvaikių) ar globojamų vaikų, jeigu bent vienas iš tėvų ar globėjų (rūpintojų) yra kredito unijos narys. Kredito unija taip pat turi teisę teikti šioje dalyje nurodytiems asmenims šio straipsnio 2 dalies 2 punkte nustatytas mokėjimo paslaugas.“
+„5. Be šio straipsnio 4 dalyje nurodytų asmenų, indėlius ir kitas grąžintinas lėšas kredito unija turi teisę priimti ir iš Lietuvos Respublikos Vyriausybės ar savivaldybių įstaigų ir institucijų, jeigu tai numatyta kredito unijų steigimo dokumentuose, Lietuvos Respublikoje įsteigtų asociacijų, religinių bendruomenių ir bendrijų, profesinių sąjungų organizacijų, labdaros ir paramos fondų, tarptautinių ar užsienio valstybių labdaros ir paramos fondų, taip pat Lietuvos Respublikos civilinio kodekso nustatyta tvarka iš kredito unijos narių nepilnamečių vaikų (įvaikių) ar globojamų vaikų, jeigu bent vienas iš tėvų ar globėjų (rūpintojų) yra kredito unijos narys. Kredito unija taip pat turi teisę teikti šioje dalyje nurodytiems asmenims šio straipsnio 2 dalies 2 punkte nustatytas mokėjimo paslaugas.“
 
 
 5. Pakeisti 4 straipsnio 6 dalį ir ją išdėstyti taip: ^s-d57eb006f2996e6c5645a1ca
 
 
-„6. Kredito unijai išduota licencija suteikia teisę teikti šio straipsnio 2 dalies 2 punkte nustatytas mokėjimo paslaugas, išskyrus [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Lietuvos Respublikos mokėjimų įstatymo 5 straipsnio]] 1, 2, 5 ir 6 punktuose nurodytas mokėjimo paslaugas:
+„6. Kredito unijai išduota licencija suteikia teisę teikti šio straipsnio 2 dalies 2 punkte nustatytas mokėjimo paslaugas, išskyrus [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Lietuvos Respublikos mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-87dfd2aa4e7b5affcb416682|1]], [[latest/TAR.C6C5599DD9A1#^s-96a93ff7e18f051cff733dc4|2]], [[latest/TAR.C6C5599DD9A1#^s-83a088d353cb4dc9bab104d2|5]] ir [[latest/TAR.C6C5599DD9A1#^s-aa84b6a0200d5b73ced39668|6]] punktuose nurodytas mokėjimo paslaugas:
 
 
 1) netiesiogiai per Centrinę kredito uniją, jeigu kredito unija yra jos narė; ^s-8235867f9169e1dbfd176744
@@ -84,13 +84,13 @@ Vilnius
 1. Pakeisti 9 straipsnio 4 dalies 9 punktą ir jį išdėstyti taip: ^s-656ad7bd2c8c6ef83888cabf
 
 
-„9) dokumentus ir informaciją, patvirtinančius, kad yra pasirengta teikti šio įstatymo 4 straipsnio 2 dalies 2 punkte nustatytas mokėjimo paslaugas, išskyrus [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Lietuvos Respublikos mokėjimų įstatymo 5 straipsnio]] 1, 2, 5 ir 6 punktuose nurodytas mokėjimo paslaugas, netiesiogiai per Centrinę kredito uniją, jeigu kredito unija yra jos narė;“.
+„9) dokumentus ir informaciją, patvirtinančius, kad yra pasirengta teikti šio įstatymo 4 straipsnio 2 dalies 2 punkte nustatytas mokėjimo paslaugas, išskyrus [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Lietuvos Respublikos mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-87dfd2aa4e7b5affcb416682|1]], [[latest/TAR.C6C5599DD9A1#^s-96a93ff7e18f051cff733dc4|2]], [[latest/TAR.C6C5599DD9A1#^s-83a088d353cb4dc9bab104d2|5]] ir [[latest/TAR.C6C5599DD9A1#^s-aa84b6a0200d5b73ced39668|6]] punktuose nurodytas mokėjimo paslaugas, netiesiogiai per Centrinę kredito uniją, jeigu kredito unija yra jos narė;“.
 
 
 2. Pakeisti 9 straipsnio 4 dalies 10 punktą ir jį išdėstyti taip: ^s-6018450872d1901e4c2f2250
 
 
-„10) dokumentus ir informaciją, patvirtinančius, kad yra pasirengta teikti šio įstatymo 4 straipsnio 2 dalies 2 punkte nustatytas mokėjimo paslaugas, išskyrus [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Lietuvos Respublikos mokėjimų įstatymo 5 straipsnio]] 1, 2, 5 ir 6 punktuose nurodytas mokėjimo paslaugas, netiesiogiai per pasirinktą banką, jeigu kredito unija nėra Centrinės kredito unijos narė.“
+„10) dokumentus ir informaciją, patvirtinančius, kad yra pasirengta teikti šio įstatymo 4 straipsnio 2 dalies 2 punkte nustatytas mokėjimo paslaugas, išskyrus [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Lietuvos Respublikos mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-87dfd2aa4e7b5affcb416682|1]], [[latest/TAR.C6C5599DD9A1#^s-96a93ff7e18f051cff733dc4|2]], [[latest/TAR.C6C5599DD9A1#^s-83a088d353cb4dc9bab104d2|5]] ir [[latest/TAR.C6C5599DD9A1#^s-aa84b6a0200d5b73ced39668|6]] punktuose nurodytas mokėjimo paslaugas, netiesiogiai per pasirinktą banką, jeigu kredito unija nėra Centrinės kredito unijos narė.“
 
 
 

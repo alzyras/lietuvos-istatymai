@@ -44,7 +44,7 @@ Statutai, patvirtinti iki [[latest/TAR.15C705E93776|Krašto apsaugos sistemos or
 ### 2 straipsnis. Juridinio asmens statusą turinčių subjektų veikla ^s-0cbf8b1f78f09d745f542dc0
 
 
-1. Iki [[latest/TAR.15C705E93776|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo]] įsigaliojimo juridinio asmens statusą turėję kariuomenės daliniai, junginiai ar kiti kariniai vienetai šį statusą turi, kol bus įgyvendintos [[latest/TAR.15C705E93776#^s-e785cda06b9e04f4cc2d3737|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 11 straipsnio]] 2 ir [[#^s-746615a38dcd6b4b911f59c6|3 dalių]] nuostatos, bet ne trumpiau kaip iki 1999 m. sausio 1 d. ^s-a9d17ecdc980db0bb7f2eae9
+1. Iki [[latest/TAR.15C705E93776|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo]] įsigaliojimo juridinio asmens statusą turėję kariuomenės daliniai, junginiai ar kiti kariniai vienetai šį statusą turi, kol bus įgyvendintos [[latest/TAR.15C705E93776#^s-e785cda06b9e04f4cc2d3737|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 11 straipsnio]] [[latest/TAR.15C705E93776#^s-90085bd3a07bb89613b1ce99|2]] ir [[latest/TAR.15C705E93776#^s-744625efc36e2c9693fa7bfc|3]] dalių nuostatos, bet ne trumpiau kaip iki 1999 m. sausio 1 d. ^s-a9d17ecdc980db0bb7f2eae9
 
 
 2. Kariuomenės dalinių, junginių ar kitų karinių vienetų sudarytos sutartys ir kitokie susitarimai (ūkiniai, nuomos, apsaugos ar kitų paslaugų, tiekimo ir kt.) įvertinami krašto apsaugos ministro nustatyta tvarka ir terminais ir sudaromi iš naujo įstatymų nustatyta tvarka. ^s-b76add76fcd7fff4d5f6814b
@@ -60,7 +60,7 @@ Statutai, patvirtinti iki [[latest/TAR.15C705E93776|Krašto apsaugos sistemos or
 1. Profesinės karo tarnybos karių sutartims, kurias sudarant galiojo kitokios sąlygos, negu nustatytos [[latest/TAR.15C705E93776#^s-a20ce164f2f0033efff39696|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme, taikomos Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo sąlygos, išskyrus šio įstatymo 5 straipsnio 1 dalyje]] nurodytus reikalavimus atitinkančių karininkų išleidimo į atsargą amžiaus sąlygą. ^s-2e00718de8883881b44a644c
 
 
-2. Iki [[latest/TAR.15C705E93776|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo]] įsigaliojimo su kariais sudarytos profesinės karo tarnybos sutartys galioja, kol pasibaigs jose numatytas 5 metų terminas, jeigu jos anksčiau nebus nutrauktos [[latest/TAR.15C705E93776#^s-fe76eb7a9bd7b2f84723a03a|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 37 ir 38 straipsniuose]] numatytais pagrindais. ^s-ef571f2ae1aef4ddc4eada6a
+2. Iki [[latest/TAR.15C705E93776|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo]] įsigaliojimo su kariais sudarytos profesinės karo tarnybos sutartys galioja, kol pasibaigs jose numatytas 5 metų terminas, jeigu jos anksčiau nebus nutrauktos [[latest/TAR.15C705E93776|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo]] [[latest/TAR.15C705E93776#^s-95e76d8bad0973888425a319|37]] ir [[latest/TAR.15C705E93776#^s-fe76eb7a9bd7b2f84723a03a|38]] straipsniuose numatytais pagrindais. ^s-ef571f2ae1aef4ddc4eada6a
 
 
 3. Profesinėje karo tarnyboje tarnaujantys kariai, su kuriais profesinės karo tarnybos sutartis nebuvo sudaryta iki [[latest/TAR.15C705E93776|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo]] įsigaliojimo ir nesudaroma pagal [[latest/TAR.15C705E93776#^s-a118118b263c8562279b9a07|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo sąlygas, atleidžiami pagal Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 39 straipsnio 1 dalies]] reikalavimus. ^s-cfbe6b9fe14072aa20b6f697
@@ -112,10 +112,10 @@ Karininkų rotaciją krašto apsaugos sistemoje pagal [[latest/TAR.15C705E93776#
 1. [[latest/TAR.15C705E93776#^s-c753afd31f5f4877ee582396|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 60 straipsnyje]] nustatytų atlyginimų ir priedų dydžius ir jų mokėjimo tvarką Vyriausybė nustato ne vėliau kaip iki 1998 m. spalio 31 d. ^s-261d79618c4383f7edc65901
 
 
-2. Iki Vyriausybė nustatys profesinės karo tarnybos karių atlyginimus ir priedus pagal [[latest/TAR.15C705E93776#^s-c753afd31f5f4877ee582396|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 60 straipsnio]] 3, 4 ir 5 dalis, atlyginimai ir priedai profesinės karo tarnybos kariams mokami laikantis sąlygų ir tvarkos, galiojusių iki [[latest/TAR.15C705E93776|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo]] įsigaliojimo. ^s-de2e5c603b5588a233be2e1a
+2. Iki Vyriausybė nustatys profesinės karo tarnybos karių atlyginimus ir priedus pagal [[latest/TAR.15C705E93776#^s-c753afd31f5f4877ee582396|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 60 straipsnio]] [[latest/TAR.15C705E93776#^s-cced37f6e2379b2c721e84fc|3]], [[latest/TAR.15C705E93776#^s-c8e4e5720c69eee56c28ec40|4]] ir [[latest/TAR.15C705E93776#^s-3dce172a23aff22b56465e48|5]] dalis, atlyginimai ir priedai profesinės karo tarnybos kariams mokami laikantis sąlygų ir tvarkos, galiojusių iki [[latest/TAR.15C705E93776|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo]] įsigaliojimo. ^s-de2e5c603b5588a233be2e1a
 
 
-3. Iki Vyriausybė nustatys profesinės karo tarnybos karių atlyginimus ir priedus pagal [[latest/TAR.15C705E93776#^s-c753afd31f5f4877ee582396|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 60 straipsnio]] 3, 4 ir 5 dalis, taikant [[latest/TAR.15C705E93776#^s-2d433e2cc4feb0ade63a8630|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 40 straipsnio]], 66 straipsnio 6 dalies ir 67 straipsnio normas, tarnybiniam atlyginimui prilyginamas kario darbo užmokestis, nustatytas iki [[latest/TAR.15C705E93776|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo]] įsigaliojimo, neįskaitant priedo už stažą. ^s-6bac0c7984d3200c5614fee0
+3. Iki Vyriausybė nustatys profesinės karo tarnybos karių atlyginimus ir priedus pagal [[latest/TAR.15C705E93776#^s-c753afd31f5f4877ee582396|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 60 straipsnio]] [[latest/TAR.15C705E93776#^s-cced37f6e2379b2c721e84fc|3]], [[latest/TAR.15C705E93776#^s-c8e4e5720c69eee56c28ec40|4]] ir [[latest/TAR.15C705E93776#^s-3dce172a23aff22b56465e48|5]] dalis, taikant [[latest/TAR.15C705E93776#^s-2d433e2cc4feb0ade63a8630|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 40 straipsnio]], 66 straipsnio 6 dalies ir 67 straipsnio normas, tarnybiniam atlyginimui prilyginamas kario darbo užmokestis, nustatytas iki [[latest/TAR.15C705E93776|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo]] įsigaliojimo, neįskaitant priedo už stažą. ^s-6bac0c7984d3200c5614fee0
 
 
 
@@ -141,10 +141,10 @@ Karininkų rotaciją krašto apsaugos sistemoje pagal [[latest/TAR.15C705E93776#
 ### 9 straipsnis. Civilinės krašto apsaugos tarnybos sąlygų taikymas ^s-6857147ef0e56c0d202816b6
 
 
-1. Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 71–77 straipsniuose nustatytos civilinės krašto apsaugos tarnybos sąlygos taikomos Vyriausybei patvirtinus 75 straipsnyje numatytus atlyginimų priedus, bet ne vėliau kaip nuo 1998 m. spalio 31 d. ^s-cea9955aa1a887351fb5bb8c
+1. [[latest/TAR.15C705E93776|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo]] [[latest/TAR.15C705E93776|71]]–[[latest/TAR.15C705E93776|77]] straipsniuose nustatytos civilinės krašto apsaugos tarnybos sąlygos taikomos Vyriausybei patvirtinus 75 straipsnyje numatytus atlyginimų priedus, bet ne vėliau kaip nuo 1998 m. spalio 31 d. ^s-cea9955aa1a887351fb5bb8c
 
 
-2. Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 76 straipsnyje numatytas civilių aprūpinimas uniformomis įgyvendinamas Vyriausybei patvirtinus aprūpinimo uniformomis sąlygas bei tvarką, bet ne vėliau kaip nuo 1999 m. sausio 1 d. ^s-5c9126eb8ee4892a3b694e7f
+2. [[latest/TAR.15C705E93776|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 76 straipsnyje]] numatytas civilių aprūpinimas uniformomis įgyvendinamas Vyriausybei patvirtinus aprūpinimo uniformomis sąlygas bei tvarką, bet ne vėliau kaip nuo 1999 m. sausio 1 d. ^s-5c9126eb8ee4892a3b694e7f
 
 
 

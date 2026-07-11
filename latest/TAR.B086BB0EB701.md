@@ -68,7 +68,7 @@ Pakeisti Lietuvos Respublikos smulkaus ir vidutinio verslo įstatymą ir jį iš
 2. Įmonės finansiniai duomenys – įmonės balanse nurodyto turto vertė ir įmonės metinės pajamos. ^s-0317deacd6afbc447cfa3cb8
 
 
-3. Įmonės metinės pajamos – pardavimo grynosios pajamos, kaip jos apibrėžtos Įmonių finansinės atskaitomybės įstatyme. ^s-dac62f37fbf0756284487999
+3. Įmonės metinės pajamos – pardavimo grynosios pajamos, kaip jos apibrėžtos [Įmonių finansinės atskaitomybės įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C). ^s-dac62f37fbf0756284487999
 
 
 4. Labai maža paskola (mikrokreditas) – paskola verslininkui ar labai mažai įmonei (mikroįmonei) iki 86 320 litų dydžio. ^s-aa3b8f1376e0f508aea2b2b5
@@ -110,7 +110,7 @@ Pakeisti Lietuvos Respublikos smulkaus ir vidutinio verslo įstatymą ir jį iš
 4) įmonė, kuri dėl sutarčių, sudarytų su kitos įmonės dalyviais, kontroliuoja daugumą šios įmonės dalyvių balsų; ^s-3dbc4a09781701f3da253e62
 
 
-5) dėl to paties fizinio asmens ar kartu veikiančių fizinių asmenų veiklos susiformavę šios dalies 1–[[#^s-3dbc4a09781701f3da253e62|4 punktuose]] nurodyti įmonių ryšiai, jei šios įmonės verčiasi tokia pačia veikla ar tokios pačios veiklos dalimi toje pačioje atitinkamoje rinkoje ar susijusiose rinkose. ^s-c94a497b7713075f8309923f
+5) dėl to paties fizinio asmens ar kartu veikiančių fizinių asmenų veiklos susiformavę šios dalies [[#^s-ff72c3316a9dc6171e7881f2|1]]–[[#^s-3dbc4a09781701f3da253e62|4]] punktuose nurodyti įmonių ryšiai, jei šios įmonės verčiasi tokia pačia veikla ar tokios pačios veiklos dalimi toje pačioje atitinkamoje rinkoje ar susijusiose rinkose. ^s-c94a497b7713075f8309923f
 
 
 13. Valstybės parama: ^s-f28bb58e6736497a3f717b87
@@ -171,25 +171,25 @@ Pakeisti Lietuvos Respublikos smulkaus ir vidutinio verslo įstatymą ir jį iš
 2) įmonės balanse nurodyto turto vertė neviršija 5 mln. litų. ^s-b049d7de70a8a994edfbb3d1
 
 
-4. Įmonės gali deklaruoti esančios vidutinės, mažos ar labai mažos įmonės nuo jų įsteigimo dienos. Deklaruodamos savo, kaip vidutinės, mažos ar labai mažos įmonės, statusą, privalo nurodyti ir šio straipsnio 1, 2 ir [[#^s-3bc8cf87a5572fbb04bf8728|3 dalyse]] nustatytus duomenis. Deklaracijos formą ir deklaravimo tvarką nustato Vyriausybė ar jos įgaliota institucija ^s-40263b8724da639cea324461
+4. Įmonės gali deklaruoti esančios vidutinės, mažos ar labai mažos įmonės nuo jų įsteigimo dienos. Deklaruodamos savo, kaip vidutinės, mažos ar labai mažos įmonės, statusą, privalo nurodyti ir šio straipsnio [[#^s-7e37be72cff5660a298366c6|1]], [[#^s-11bd6ed751c3dbff5688afb4|2]] ir [[#^s-3bc8cf87a5572fbb04bf8728|3]] dalyse nustatytus duomenis. Deklaracijos formą ir deklaravimo tvarką nustato Vyriausybė ar jos įgaliota institucija ^s-40263b8724da639cea324461
 
 
 5. Darbuotojų skaičių atitinka vidutinis metų sąrašinis darbuotojų skaičius. Vidutinio metų sąrašinio darbuotojų skaičiaus nustatymo tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-408a4fe6421048847c96b583
 
 
-6. Įmonių finansiniai duomenys nustatomi pagal patvirtintą įmonės metinę finansinę atskaitomybę arba konsoliduotą finansinę atskaitomybę. Jei pagal galiojančius teisės aktus sudaryti ir tvirtinti metinę finansinę atskaitomybę įmonei nėra privaloma, finansiniai duomenys nustatomi remiantis kitais teisės aktų nustatyta tvarka patvirtintais finansiniais dokumentais, kuriuose sukauptos informacijos pakanka šio straipsnio 1, 2 ir [[#^s-3bc8cf87a5572fbb04bf8728|3 dalyse]] nurodytiems finansiniams duomenims nustatyti (toliau – kiti finansiniai dokumentai). ^s-707b700b0a392b9155c322fd
+6. Įmonių finansiniai duomenys nustatomi pagal patvirtintą įmonės metinę finansinę atskaitomybę arba konsoliduotą finansinę atskaitomybę. Jei pagal galiojančius teisės aktus sudaryti ir tvirtinti metinę finansinę atskaitomybę įmonei nėra privaloma, finansiniai duomenys nustatomi remiantis kitais teisės aktų nustatyta tvarka patvirtintais finansiniais dokumentais, kuriuose sukauptos informacijos pakanka šio straipsnio [[#^s-7e37be72cff5660a298366c6|1]], [[#^s-11bd6ed751c3dbff5688afb4|2]] ir [[#^s-3bc8cf87a5572fbb04bf8728|3]] dalyse nurodytiems finansiniams duomenims nustatyti (toliau – kiti finansiniai dokumentai). ^s-707b700b0a392b9155c322fd
 
 
-7. Įmonės ir šio straipsnio 1, 2 ir [[#^s-3bc8cf87a5572fbb04bf8728|3 dalyse]] nustatytų sąlygų atitiktis fiksuojama nuo metinės finansinės atskaitomybės ar kitų finansinių dokumentų patvirtinimo dienos, išskyrus atvejį, kai nustatomas naujos įmonės, kurios metinė finansinė atskaitomybė ar kiti finansiniai dokumentai dar nepatvirtinti, statusas. Nauja įmonė priskiriama vidutinei, mažai ar labai mažai įmonei [[#^s-4ec6ac2910e86e9b725d582c|šio straipsnio 8 dalyje]] nustatyta tvarka nustačius, kad ji atitinka šio straipsnio 1, 2 ir [[#^s-3bc8cf87a5572fbb04bf8728|3 dalyse]] nustatytas sąlygas. ^s-c5254877ecc53b52a2955ffb
+7. Įmonės ir šio straipsnio [[#^s-7e37be72cff5660a298366c6|1]], [[#^s-11bd6ed751c3dbff5688afb4|2]] ir [[#^s-3bc8cf87a5572fbb04bf8728|3]] dalyse nustatytų sąlygų atitiktis fiksuojama nuo metinės finansinės atskaitomybės ar kitų finansinių dokumentų patvirtinimo dienos, išskyrus atvejį, kai nustatomas naujos įmonės, kurios metinė finansinė atskaitomybė ar kiti finansiniai dokumentai dar nepatvirtinti, statusas. Nauja įmonė priskiriama vidutinei, mažai ar labai mažai įmonei [[#^s-4ec6ac2910e86e9b725d582c|šio straipsnio 8 dalyje]] nustatyta tvarka nustačius, kad ji atitinka šio straipsnio [[#^s-7e37be72cff5660a298366c6|1]], [[#^s-11bd6ed751c3dbff5688afb4|2]] ir [[#^s-3bc8cf87a5572fbb04bf8728|3]] dalyse nustatytas sąlygas. ^s-c5254877ecc53b52a2955ffb
 
 
-8. Įsteigtos naujos įmonės, kurios metinė finansinė atskaitomybė ar kiti finansiniai dokumentai dar nėra patvirtinti, ir šio straipsnio 1, 2 ir [[#^s-3bc8cf87a5572fbb04bf8728|3 dalyse]] nustatytų sąlygų atitiktis nustatoma pagal sąrašinį darbuotojų skaičių, balanse nurodyto turto vertę, įmonės gautas pajamas nuo įsteigimo dienos ir pagal planuojamus finansinių metų duomenis. ^s-4ec6ac2910e86e9b725d582c
+8. Įsteigtos naujos įmonės, kurios metinė finansinė atskaitomybė ar kiti finansiniai dokumentai dar nėra patvirtinti, ir šio straipsnio [[#^s-7e37be72cff5660a298366c6|1]], [[#^s-11bd6ed751c3dbff5688afb4|2]] ir [[#^s-3bc8cf87a5572fbb04bf8728|3]] dalyse nustatytų sąlygų atitiktis nustatoma pagal sąrašinį darbuotojų skaičių, balanse nurodyto turto vertę, įmonės gautas pajamas nuo įsteigimo dienos ir pagal planuojamus finansinių metų duomenis. ^s-4ec6ac2910e86e9b725d582c
 
 
 9. Įmonė, dėl veiklos trukmės turinti patvirtintą tik vienų metų finansinę atskaitomybę ar kitus finansinius dokumentus, priskiriama vidutinei, mažai ar labai mažai įmonei pagal finansinių metų, už kuriuos finansinė atskaitomybė ar kiti finansiniai dokumentai patvirtinti, duomenis. ^s-1b714c473b389893a2711287
 
 
-10. Daugiau kaip dvejus metus veikianti įmonė tampa vidutine, maža ar labai maža įmone, jei dvejus finansinius metus iš eilės fiksuojamas darbuotojų skaičius ir įmonės finansiniai duomenys atitinka šio straipsnio 1, 2 ar [[#^s-3bc8cf87a5572fbb04bf8728|3 dalyse]] nustatytas sąlygas. Vidutinė, maža ar labai maža įmonė atitinkamai praranda tokį statusą, jei dvejus finansinius metus iš eilės fiksuojamas darbuotojų skaičius ir įmonės finansiniai duomenys neatitinka šio straipsnio 1, 2 ar [[#^s-3bc8cf87a5572fbb04bf8728|3 dalyse]] nustatytų sąlygų. ^s-35379e5404adf03b9bb34847
+10. Daugiau kaip dvejus metus veikianti įmonė tampa vidutine, maža ar labai maža įmone, jei dvejus finansinius metus iš eilės fiksuojamas darbuotojų skaičius ir įmonės finansiniai duomenys atitinka šio straipsnio [[#^s-7e37be72cff5660a298366c6|1]], [[#^s-11bd6ed751c3dbff5688afb4|2]] ar [[#^s-3bc8cf87a5572fbb04bf8728|3]] dalyse nustatytas sąlygas. Vidutinė, maža ar labai maža įmonė atitinkamai praranda tokį statusą, jei dvejus finansinius metus iš eilės fiksuojamas darbuotojų skaičius ir įmonės finansiniai duomenys neatitinka šio straipsnio [[#^s-7e37be72cff5660a298366c6|1]], [[#^s-11bd6ed751c3dbff5688afb4|2]] ar [[#^s-3bc8cf87a5572fbb04bf8728|3]] dalyse nustatytų sąlygų. ^s-35379e5404adf03b9bb34847
 
 
 11. Įmonė nepriskiriama vidutinei, mažai ar labai mažai įmonei, jei daugiau kaip 25 procentus įmonės akcijų, pajų ar kitokių dalyvavimą įmonės kapitale žyminčių kapitalo dalių arba daugiau kaip 25 procentus įmonės dalyvių balsų tiesiogiai ar netiesiogiai (pagal balsavimo sutartį, balsavimo teisės perleidimo sutartį, įgaliojimą ir pan.) turi valstybė ir (arba) savivaldybė, išskyrus atvejus, kai nuo 25 iki 50 procentų įmonės akcijų, pajų ar kitokių dalyvavimą įmonės kapitale žyminčių kapitalo dalių arba nuo 25 iki 50 procentų visų įmonės dalyvių balsų tiesiogiai ar netiesiogiai (pagal balsavimo sutartį, balsavimo teisės perleidimo sutartį, įgaliojimą ir pan.) turi savivaldybė, atitinkanti [[#^s-4de9ca37252fef4213e91575|šio straipsnio 16 dalies 4 punkte]] nustatytas sąlygas. ^s-dee9f13eb44a14d133b61bc1
@@ -198,9 +198,9 @@ Pakeisti Lietuvos Respublikos smulkaus ir vidutinio verslo įstatymą ir jį iš
 12. Savarankiškos įmonės darbuotojų skaičiumi laikomas tik šioje įmonėje dirbančių darbuotojų skaičius, o įmonės metinės pajamos ir balanse nurodyto turto vertė nustatoma remiantis tik šios įmonės finansiniais duomenimis, nurodytais įmonės metinėje finansinėje atskaitomybėje ar kituose finansiniuose dokumentuose. ^s-bd12d6b31cb4d1d8d604f977
 
 
-13. Įmonės, turinčios partnerinių įmonių ir (arba) susijusių įmonių, šio straipsnio 1, 2 ir [[#^s-3bc8cf87a5572fbb04bf8728|3 dalyse]] nurodyti duomenys (darbuotojų skaičius, įmonės metinės pajamos arba įmonės balanse nurodyto turto vertė) apskaičiuojami pagal formulę: ^s-1a50ceb73dff5944f02ff052
+13. Įmonės, turinčios partnerinių įmonių ir (arba) susijusių įmonių, šio straipsnio [[#^s-7e37be72cff5660a298366c6|1]], [[#^s-11bd6ed751c3dbff5688afb4|2]] ir [[#^s-3bc8cf87a5572fbb04bf8728|3]] dalyse nurodyti duomenys (darbuotojų skaičius, įmonės metinės pajamos arba įmonės balanse nurodyto turto vertė) apskaičiuojami pagal formulę: ^s-1a50ceb73dff5944f02ff052
 DAg = DA + Σkn DPn + ΣDSn. Čia:
-DAg – šio straipsnio 1, 2 ir [[#^s-3bc8cf87a5572fbb04bf8728|3 dalyse]] nurodyti duomenys, skaičiuojami aptariamajai įmonei;
+DAg – šio straipsnio [[#^s-7e37be72cff5660a298366c6|1]], [[#^s-11bd6ed751c3dbff5688afb4|2]] ir [[#^s-3bc8cf87a5572fbb04bf8728|3]] dalyse nurodyti duomenys, skaičiuojami aptariamajai įmonei;
 DA – aptariamosios įmonės duomenys;
 DPn – n-tosios partnerinės įmonės duomenys;
 DSn – n-tosios susijusios įmonės duomenys (jei nebuvo įtraukti į aptariamosios įmonės konsoliduotą finansinę atskaitomybę);

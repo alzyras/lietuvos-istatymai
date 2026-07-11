@@ -43,7 +43,7 @@ Vilnius
 Pakeisti 4 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 
 
-„2) Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme, [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šio straipsnio 2 dalyje), [[latest/TAR.981F27E01089|Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme]] nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), taip pat gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys.“
+„2) Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3), [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šio straipsnio 2 dalyje), [[latest/TAR.981F27E01089|Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme]] nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), taip pat gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys.“
 
 
 

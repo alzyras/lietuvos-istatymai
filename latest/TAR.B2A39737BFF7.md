@@ -176,7 +176,7 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS
 2) įsiteisėjusio teismo sprendimo, kuriuo buvo priteista smurtiniu nusikaltimu padaryta turtinė ir (ar) neturtinė žala, arba patvirtintos sutarties dėl šios žalos atlyginimo ar pašalinimo nuorašą; ^s-e85b512b7a39cc0081ce0c71
 
 
-3) antstolio surašytą aktą, kad žala neišieškota dėl Civilinio proceso kodekso 631 straipsnio 1 dalies 2, 3, 4, 6 ar 9 punkte nurodytų aplinkybių, arba antstolio surašytą teisingumo ministro patvirtintos formos pažymą, kad žala, neviršijanti šio įstatymo [[#^s-60304b785315603545bec200|7 straipsnyje]] nustatytų kompensuojamos žalos dydžių, neišieškota dėl objektyvių priežasčių, išskyrus atvejus, kai už žalą atsakingas asmuo yra miręs. ^s-273bcdbaf09962b59655ddb5
+3) antstolio surašytą aktą, kad žala neišieškota dėl [Civilinio proceso kodekso 631 straipsnio 1 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) [2](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [3](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [4](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [6](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ar [9](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) punkte nurodytų aplinkybių, arba antstolio surašytą teisingumo ministro patvirtintos formos pažymą, kad žala, neviršijanti šio įstatymo [[#^s-60304b785315603545bec200|7 straipsnyje]] nustatytų kompensuojamos žalos dydžių, neišieškota dėl objektyvių priežasčių, išskyrus atvejus, kai už žalą atsakingas asmuo yra miręs. ^s-273bcdbaf09962b59655ddb5
 
 
 
@@ -268,7 +268,7 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS
 4. Jeigu smurtiniu nusikaltimu buvo atimta žmogaus gyvybė ir teismas priteisė šiuo nusikaltimu padarytą turtinę ir (ar) neturtinę žalą arba patvirtino sutartį dėl šios žalos atlyginimo ar pašalinimo keliems asmenims, ir bendra žalos suma viršija [[#^s-426a00beaea3c662181aae73|šio straipsnio 2 dalies 1 punkte]] ir (ar) [[#^s-a5b878e68849ffbdbc4adc8e|šio straipsnio 3 dalies 1 punkte]] nurodytą sumą, kiekvienam asmeniui išmokama kompensacijos dalis proporcinga jam priteistai ar teismo patvirtintoje sutartyje nurodytai žalos sumai. ^s-5ea75cb91ae3d4c34361bc5d
 
 
-5. Jeigu nukentėjusiam asmeniui žala padaryta keliais smurtiniais nusikaltimais, kurie sudaro idealiąją nusikaltimų sutaptį, žala kompensuojama neviršijant šio straipsnio 2 ir [[#^s-4887897b7397240975e993f5|3 dalyse]] nustatytų dydžių dėl sunkiausio iš šių nusikaltimų. ^s-0db3fe0cc56a0af192c81815
+5. Jeigu nukentėjusiam asmeniui žala padaryta keliais smurtiniais nusikaltimais, kurie sudaro idealiąją nusikaltimų sutaptį, žala kompensuojama neviršijant šio straipsnio [[#^s-d1a19401f7a34cac9325d722|2]] ir [[#^s-4887897b7397240975e993f5|3]] dalyse nustatytų dydžių dėl sunkiausio iš šių nusikaltimų. ^s-0db3fe0cc56a0af192c81815
 
 
 6. Kompensacija mažinama avansu kompensuotos žalos suma, jeigu teismo sprendime neatsižvelgta į šią aplinkybę. ^s-c918a9563bd46db54c5cfbab
@@ -295,7 +295,7 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS AVANSU
 2. Smurtiniais nusikaltimais padaryta žala [[#^s-59906bf8889e4149a877354f|šio straipsnio 1 dalyje]] nurodytiems asmenims kompensuojama avansu, jeigu yra visos šios sąlygos: ^s-bbfd7132227d2b4eb8312850
 
 
-1) vyksta baudžiamasis procesas dėl smurtinio nusikaltimo ir asmuo yra pripažintas civiliniu ieškovu arba įsiteisėjusiu teismo sprendimu nustatyta, kad buvo padarytas smurtinis nusikaltimas, tačiau nebuvo pareikštas ieškinys dėl smurtiniu nusikaltimu padarytos žalos atlyginimo ar ieškinys paliktas nenagrinėtas, arba nustatyta [[latest/TAR.EC588C321777#^s-4e3572876114ef5766e45d8d|Baudžiamojo proceso kodekso 3 straipsnio 1 dalies]] 3, 4 ar 7 punkte nurodyta aplinkybė; ^s-b9be65a6e0ed4274a8ee98eb
+1) vyksta baudžiamasis procesas dėl smurtinio nusikaltimo ir asmuo yra pripažintas civiliniu ieškovu arba įsiteisėjusiu teismo sprendimu nustatyta, kad buvo padarytas smurtinis nusikaltimas, tačiau nebuvo pareikštas ieškinys dėl smurtiniu nusikaltimu padarytos žalos atlyginimo ar ieškinys paliktas nenagrinėtas, arba nustatyta [[latest/TAR.EC588C321777#^s-4e3572876114ef5766e45d8d|Baudžiamojo proceso kodekso 3 straipsnio 1 dalies]] [[latest/TAR.EC588C321777#^s-b2f7c56f827014ffd4e72a3e|3]], [[latest/TAR.EC588C321777#^s-5637f8641a7d20da14084975|4]] ar [[latest/TAR.EC588C321777#^s-b39ad8c49fa923ea92e51c5a|7]] punkte nurodyta aplinkybė; ^s-b9be65a6e0ed4274a8ee98eb
 
 
 2) smurtinis nusikaltimas padarytas Lietuvos Respublikos teritorijoje arba laive ar orlaivyje su Lietuvos valstybės vėliava ar skiriamaisiais ženklais; ^s-d69093b1708a89081f5ec8f0
@@ -362,7 +362,7 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS AVANSU
 2) turtinės žalos dydį pagrindžiančius dokumentus; ^s-b784ee00df80863986c59f1d
 
 
-3) nutarimą ar nutartį, kuria asmuo yra pripažintas civiliniu ieškovu, arba įsiteisėjusį teismo sprendimą, kuriuo nustatyta, kad padarytas smurtinis nusikaltimas, tačiau nėra priteisiamas žalos atlyginimas, arba procesinio sprendimo, kad baudžiamasis procesas nutrauktas dėl [[latest/TAR.EC588C321777#^s-4e3572876114ef5766e45d8d|Baudžiamojo proceso kodekso 3 straipsnio 1 dalies]] 3, 4 ir 7 punktuose nurodytų aplinkybių, nuorašas; ^s-4602cfcfe08587d3a786b8b4
+3) nutarimą ar nutartį, kuria asmuo yra pripažintas civiliniu ieškovu, arba įsiteisėjusį teismo sprendimą, kuriuo nustatyta, kad padarytas smurtinis nusikaltimas, tačiau nėra priteisiamas žalos atlyginimas, arba procesinio sprendimo, kad baudžiamasis procesas nutrauktas dėl [[latest/TAR.EC588C321777#^s-4e3572876114ef5766e45d8d|Baudžiamojo proceso kodekso 3 straipsnio 1 dalies]] [[latest/TAR.EC588C321777#^s-b2f7c56f827014ffd4e72a3e|3]], [[latest/TAR.EC588C321777#^s-5637f8641a7d20da14084975|4]] ir [[latest/TAR.EC588C321777#^s-b39ad8c49fa923ea92e51c5a|7]] punktuose nurodytų aplinkybių, nuorašas; ^s-4602cfcfe08587d3a786b8b4
 
 
 4) santuokos, giminystės ar išlaikymo faktą patvirtinančius dokumentus, jeigu prašymą pateikia šio įstatymo [[#^s-93f36657193e5ef9e2bd5ae8|8 straipsnio 1 dalies 2 punkte]] nurodytas asmuo. ^s-fadfb5ea4ea343641adbe969
@@ -454,7 +454,7 @@ SMURTINIAIS NUSIKALTIMAIS PADARYTOS ŽALOS KOMPENSAVIMAS AVANSU
 5. Jeigu smurtiniu nusikaltimu buvo atimta žmogaus gyvybė ir teisę į šiuo nusikaltimu padarytos žalos kompensaciją turi daugiau negu vienas iš šio įstatymo [[#^s-93f36657193e5ef9e2bd5ae8|8 straipsnio 1 dalies 2 punkte]] nurodytų asmenų, kompensacija dėl neturtinės žalos padarymo dalijama lygiomis dalimis visiems asmenims, turintiems teisę į žalos kompensavimą avansu. ^s-9b78d0303fb922f33e7a253d
 
 
-6. Jeigu šio įstatymo [[#^s-c1fac8699403c4b9c731f4f6|8 straipsnio]] 1 ar [[#^s-9cca983e343f5817fa993342|2 dalyje]] nurodytas asmuo gavo pašalpą ar kitas iš valstybės ar savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto, Privalomojo sveikatos draudimo fondo biudžeto mokamas kompensacijas, draudimo išmokas, taip pat užsienio valstybių kompetentingų institucijų išmokas, avansu mokama kompensacija atitinkamai mažinama. ^s-cf0a70ec22fa779cc1fd6561
+6. Jeigu šio įstatymo [[#^s-c1fac8699403c4b9c731f4f6|8 straipsnio]] [[#^s-59906bf8889e4149a877354f|1]] ar [[#^s-bbfd7132227d2b4eb8312850|2]] dalyje nurodytas asmuo gavo pašalpą ar kitas iš valstybės ar savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto, Privalomojo sveikatos draudimo fondo biudžeto mokamas kompensacijas, draudimo išmokas, taip pat užsienio valstybių kompetentingų institucijų išmokas, avansu mokama kompensacija atitinkamai mažinama. ^s-cf0a70ec22fa779cc1fd6561
 
 
 
@@ -519,10 +519,10 @@ SPECIALIOJI NUKENTĖJUSIŲ NUO NUSIKALTIMŲ ASMENŲ FONDO PROGRAMA
 2. Valstybė turi teisę iš asmenų, kuriems šio įstatymo nustatyta tvarka kompensuota smurtiniais nusikaltimais padaryta žala, teismo tvarka išieškoti jiems sumokėtas kompensacijas, jeigu paaiškėja, kad asmuo, kuriam buvo kompensuota smurtiniu nusikaltimu padaryta žala, neturėjo teisės į žalos kompensavimą. ^s-f21b3e08398312113af79200
 
 
-3. Šio straipsnio 1 ir [[#^s-f21b3e08398312113af79200|2 dalyse]] nustatyta tvarka išieškotos lėšos pervedamos į specialiąją programą. ^s-3e412b922bbd5691e329aefc
+3. Šio straipsnio [[#^s-e0c009b256ce6b41c17f43e2|1]] ir [[#^s-f21b3e08398312113af79200|2]] dalyse nustatyta tvarka išieškotos lėšos pervedamos į specialiąją programą. ^s-3e412b922bbd5691e329aefc
 
 
-4. Šio straipsnio 1 ir [[#^s-f21b3e08398312113af79200|2 dalyse]] nustatytais atvejais valstybei atstovauja Lietuvos Respublikos Vyriausybės įgaliota institucija. ^s-6582cb1aaef2d2eb9f11faa3
+4. Šio straipsnio [[#^s-e0c009b256ce6b41c17f43e2|1]] ir [[#^s-f21b3e08398312113af79200|2]] dalyse nustatytais atvejais valstybei atstovauja Lietuvos Respublikos Vyriausybės įgaliota institucija. ^s-6582cb1aaef2d2eb9f11faa3
 
 
 

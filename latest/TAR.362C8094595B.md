@@ -49,7 +49,7 @@ Vilnius
 ### 2 straipsnis. 8 straipsnio pakeitimas ^s-fcdf4f21fcad6c4e53b0d338
 
 
-8 straipsnio 1 punktą pripažinti netekusiu galios, buvusius 2, 3, 4 punktus atitinkamai laikyti 1, 2, [[#^s-8498c7a94c3eaf0921cbe0a9|3 punktais]] ir šį straipsnį išdėstyti taip:
+8 straipsnio 1 punktą pripažinti netekusiu galios, buvusius 2, 3, 4 punktus atitinkamai laikyti 1, 2, 3 punktais ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-e8b1da0aa6526ce25113c44c|8 straipsnis]]. Nekilnojamojo turto registre registruojami teisių į nekilnojamąjį turtą apribojimai
@@ -164,7 +164,7 @@ Pakeisti 40 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 8 straipsnis. Šio įstatymo 1, 2, 3, 4 straipsnių įsigaliojimas ^s-e8b1da0aa6526ce25113c44c
 
 
-Šio įstatymo 1, 2, 3, [[#^s-716fefae7e47395e19320d8b|4 straipsniai]] įsigalioja turto arešto aktų registrui pradėjus darbą.
+Šio įstatymo [[#^s-855906f73cf1854e72c65616|1]], [[#^s-fcdf4f21fcad6c4e53b0d338|2]], [[#^s-cfef4fef6b78615022682eaf|3]], [[#^s-716fefae7e47395e19320d8b|4]] straipsniai įsigalioja turto arešto aktų registrui pradėjus darbą.
 
 
 

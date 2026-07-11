@@ -42,7 +42,7 @@ Vilnius
 4 straipsnio 2 dalyje po skaičiaus „33“ įrašyti žodžius ir skaičių „(išskyrus 4 dalį)“ ir šią dalį išdėstyti taip:
 
 
-„2. Statutiniams valstybės tarnautojams be išlygų taikomi šio įstatymo 2 ir [[#^s-1978ae3bc4286a10b6d828f1|3 straipsniai]], 4 straipsnio 2 dalis, [[#^s-978a98596d51100171dc0770|5 straipsnis]], 6 straipsnio 1 ir 2 dalys (išskyrus 2 dalies 2 punktą), 7 ir 8 straipsniai, 9 straipsnio 1 ir 6 dalys, 22 straipsnis, 24 straipsnio 1 dalis, 25 straipsnio 1 dalis, 28, 31, 32, 33 (išskyrus 4 dalį), 34, 35, 37, 45, 48, 55, 56, 62, 63, 64, 68, 69 ir 70 straipsniai. Kiti šio įstatymo straipsniai taikomi tiek, kiek jų statuso nereglamentuoja atskiri įstatymai ar statutai. Statutinių valstybės tarnautojų statusą reglamentuojantys įstatymai (statutai) gali nustatyti griežtesnius reikalavimus, negu nustatyta šio įstatymo 9 straipsnio 1 ir 6 dalyse, 22, 28, 56, 68 ir 70 straipsniuose.“
+„2. Statutiniams valstybės tarnautojams be išlygų taikomi šio įstatymo [[#^s-1fa9536759481e257b377ec2|2]] ir [[#^s-1978ae3bc4286a10b6d828f1|3]] straipsniai, 4 straipsnio 2 dalis, [[#^s-978a98596d51100171dc0770|5 straipsnis]], 6 straipsnio 1 ir 2 dalys (išskyrus 2 dalies 2 punktą), 7 ir 8 straipsniai, 9 straipsnio 1 ir 6 dalys, 22 straipsnis, 24 straipsnio 1 dalis, 25 straipsnio 1 dalis, 28, 31, 32, 33 (išskyrus 4 dalį), 34, 35, 37, 45, 48, 55, 56, 62, 63, 64, 68, 69 ir 70 straipsniai. Kiti šio įstatymo straipsniai taikomi tiek, kiek jų statuso nereglamentuoja atskiri įstatymai ar statutai. Statutinių valstybės tarnautojų statusą reglamentuojantys įstatymai (statutai) gali nustatyti griežtesnius reikalavimus, negu nustatyta šio įstatymo 9 straipsnio 1 ir 6 dalyse, 22, 28, 56, 68 ir 70 straipsniuose.“
 
 
 

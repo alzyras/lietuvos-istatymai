@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo „Dėl asmenų, kurie sistemingai daro administracinius teisės pažeidimus būdami apsvaigę nuo alkoholio, narkotinių ar toksinių priemonių, socialinės bei psichologinės reabilitacijos“ pripažinimas netekusiu galios ^s-68188faa48e68f807fc778ea
 
 
-Pripažinti netekusiu galios įstatymą „Dėl asmenų, kurie sistemingai daro administracinius teisės pažeidimus būdami apsvaigę nuo alkoholio, narkotinių ar toksinių priemonių, socialinės bei psichologinės reabilitacijos“ (Žin., 1994, Nr. 47-868).
+Pripažinti netekusiu galios įstatymą [„Dėl asmenų, kurie sistemingai daro administracinius teisės pažeidimus būdami apsvaigę nuo alkoholio, narkotinių ar toksinių priemonių, socialinės bei psichologinės reabilitacijos“](https://e-tar.lt/portal/lt/legalAct/TAR.52B76C116D38) (Žin., 1994, Nr. 47-868).
 
 
 
@@ -50,7 +50,7 @@ Pripažinti netekusiais galios:
 1) Socialinės bei psichologinės reabilitacijos taikymo laikinąjį įstatymą (Žin., 1991, Nr. 6-163, Nr. 36-984); ^s-6828a6378ee8ee57de05f010
 
 
-2) Aukščiausiosios Tarybos nutarimą „Dėl Lietuvos Respublikos socialinės bei psichologinės reabilitacijos taikymo laikinojo įstatymo įsigaliojimo“ (Žin., 1991, Nr. 6-164); ^s-12d58c5c8de455dd5bc22f75
+2) Aukščiausiosios Tarybos nutarimą [„Dėl Lietuvos Respublikos socialinės bei psichologinės reabilitacijos taikymo laikinojo įstatymo įsigaliojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.781322CF9EE1) (Žin., 1991, Nr. 6-164); ^s-12d58c5c8de455dd5bc22f75
 
 
 3) Seimo nutarimą „Dėl Lietuvos Respublikos įstatymo „ Dėl asmenų, kurie sistemingai daro administracinius teisės pažeidimus būdami apsvaigę nuo alkoholio, narkotinių ar toksinių priemonių, socialinės bei psichologinės reabilitacijos“ įgyvendinimo“ (Žin., 1994, Nr. 47-869). ^s-9826fd5ea2575f2ae97b1a78

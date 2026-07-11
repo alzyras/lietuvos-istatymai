@@ -89,7 +89,7 @@ Vilnius
 2. 20 straipsnio 3 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^s-ad48245ed11198013f3d275a
 
 
-„3. Savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas), gavęs [[#^s-ad48245ed11198013f3d275a|šio straipsnio 2 dalyje]] išvardytus dokumentus, per 3 dienas pateikia paraišką statinio projektavimo sąlygoms, nurodytoms šio Įstatymo 2 straipsnio 32 dalyje, parengti (pagal kompetenciją):
+„3. Savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas), gavęs šio straipsnio 2 dalyje išvardytus dokumentus, per 3 dienas pateikia paraišką statinio projektavimo sąlygoms, nurodytoms šio Įstatymo 2 straipsnio 32 dalyje, parengti (pagal kompetenciją):
 
 
 1) inžinerinių tinklų bei susisiekimo komunikacijų savininkams ar naudotojams; ^s-e998d5068cc76d8862443a02
@@ -156,7 +156,7 @@ Vilnius
 1) nustatytos formos prašymą; ^s-ca73c8334b56e92d124e8572
 
 
-2) dokumentus, nurodytus šio Įstatymo 20 straipsnio 2 dalies 2 ir [[#^s-560c9d7266f745cb386eccd1|3 punktuose]]; ^s-b668e58ca79b6d6f192ccb88
+2) dokumentus, nurodytus šio Įstatymo 20 straipsnio 2 dalies 2 ir 3 punktuose; ^s-b668e58ca79b6d6f192ccb88
 
 
 3) sutartį su žemės savininku dėl sklypo laikino naudojimo statybos metu, dėl šio sklypo servitutų naudojant pastatytą statinį ir kompensacijų už naudojimąsi žemės sklypu bei žalą (jeigu ji padaroma) tais atvejais, kai pagal statinio projektavimo sąlygų sąvadą inžineriniai tinklai, susisiekimo komunikacijos numatomi tiesti statytojui (užsakovui) nepriklausančiame žemės sklype ar kai tokio sklypo dalį numatoma panaudoti statybvietei įrengti; ^s-560c9d7266f745cb386eccd1
@@ -189,7 +189,7 @@ Vilnius
 1) nustatytos formos prašymą; ^s-16102f602c8aca1daf7e6afb
 
 
-2) dokumentus, nurodytus šio Įstatymo 20 straipsnio 2 dalies 2 ir [[#^s-ee4087cb0ce856c29f025e92|3 punktuose]]; ^s-a951ed0faadead4f784411d8
+2) dokumentus, nurodytus šio Įstatymo 20 straipsnio 2 dalies 2 ir 3 punktuose; ^s-a951ed0faadead4f784411d8
 
 
 3) įstatymų nustatyta tvarka priimtą sprendimą nugriauti statinį, priklausantį valstybės, savivaldybės ar kito juridinio asmens nuosavybei; ^s-ee4087cb0ce856c29f025e92
@@ -204,7 +204,7 @@ Vilnius
 4. 23 straipsnio 9 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“, vietoj žodžių „merui (jo įgaliotam savivaldybės administratoriui ar kitam savivaldybės administracijos tarnautojui)“ įrašyti žodžius „administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui)“ ir šią dalį išdėstyti taip: ^s-8580aa6465e37413c435189c
 
 
-„9. Savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas), gavęs statytojo (užsakovo) šio straipsnio 6 ar [[#^s-e334516327b0d96999162a18|7 dalyse]] nurodytą prašymą ir kitus dokumentus, perduoda juos Nuolatinei statybos komisijai, kuri privalo patikrinti ir nustatyti, ar statyba atitinka teritorijų planavimo dokumentuose nustatytus statybos sklypo tvarkymo reikalavimus (reglamentą) bei projektavimo sąlygų sąvado reikalavimus. Komisija protokolu įformina statinio projekto patikrinimo rezultatus ir rekomenduoja savivaldybės administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui) išduoti ar neišduoti statytojui (užsakovui) jo prašomą statybos leidimą.“
+„9. Savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas), gavęs statytojo (užsakovo) šio straipsnio [[#^s-edd1dfd02836bdb276aa4b56|6]] ar [[#^s-e334516327b0d96999162a18|7]] dalyse nurodytą prašymą ir kitus dokumentus, perduoda juos Nuolatinei statybos komisijai, kuri privalo patikrinti ir nustatyti, ar statyba atitinka teritorijų planavimo dokumentuose nustatytus statybos sklypo tvarkymo reikalavimus (reglamentą) bei projektavimo sąlygų sąvado reikalavimus. Komisija protokolu įformina statinio projekto patikrinimo rezultatus ir rekomenduoja savivaldybės administracijos direktoriui (jo įgaliotam savivaldybės administracijos valstybės tarnautojui) išduoti ar neišduoti statytojui (užsakovui) jo prašomą statybos leidimą.“
 
 
 5. 23 straipsnio 10 dalyje vietoj žodžio „meras“ įrašyti žodį „taryba“ ir šią dalį išdėstyti taip: ^s-54c82ece02e5a47876f7fd76
@@ -216,13 +216,13 @@ Vilnius
 6. Pakeisti 23 straipsnio 11 dalį ir ją išdėstyti taip: ^s-edd1dfd02836bdb276aa4b56
 
 
-„11. Kai statybos leidimą išduoda apskrities viršininko administracija, jai savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) privalo per 10 dienų nuo dokumentų, nurodytų šio straipsnio 6 ar [[#^s-e334516327b0d96999162a18|7 dalyse]], gavimo perduoti Nuolatinės statybos komisijos protokolą. Šis protokolas tvirtinamas savivaldybės tarybos patvirtintų šios komisijos nuostatų nustatyta tvarka.“
+„11. Kai statybos leidimą išduoda apskrities viršininko administracija, jai savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) privalo per 10 dienų nuo dokumentų, nurodytų šio straipsnio 6 ar [[#^s-e334516327b0d96999162a18|7]] dalyse, gavimo perduoti Nuolatinės statybos komisijos protokolą. Šis protokolas tvirtinamas savivaldybės tarybos patvirtintų šios komisijos nuostatų nustatyta tvarka.“
 
 
 7. 23 straipsnio 12 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^s-e334516327b0d96999162a18
 
 
-„12. Statybos leidimą savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) išduoda ne vėliau kaip per 10 dienų (ypatingo statinio statybos leidimą – per 15 dienų) nuo dokumentų, nurodytų šio straipsnio 6 ar [[#^s-e334516327b0d96999162a18|7 dalyse]], pateikimo, o apskrities viršininko administracija – per 7 dienas nuo Nuolatinės statybos komisijos protokolo gavimo.“
+„12. Statybos leidimą savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) išduoda ne vėliau kaip per 10 dienų (ypatingo statinio statybos leidimą – per 15 dienų) nuo dokumentų, nurodytų šio straipsnio [[#^s-edd1dfd02836bdb276aa4b56|6]] ar 7 dalyse, pateikimo, o apskrities viršininko administracija – per 7 dienas nuo Nuolatinės statybos komisijos protokolo gavimo.“
 
 
 8. 23 straipsnio 14 dalyje vietoj žodžių „meras (jo įgaliotas savivaldybės administratorius ar kitas savivaldybės administracijos tarnautojas)“ įrašyti žodžius „administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas)“ ir šią dalį išdėstyti taip: ^s-9e251b44fd1e7359bba25f93

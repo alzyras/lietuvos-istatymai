@@ -109,7 +109,7 @@ Vyriausybė nustato biudžetinių įstaigų skolų padengimo tvarką.
 ### 7 straipsnis. Savivaldybių darbo užmokesčio fondas ^s-210d1cb49924c16752e6b93c
 
 
-Nustatyti, kad iš savivaldybių biudžetų finansuojamų įstaigų darbo užmokesčio fondą tvirtina miestų, rajonų tarybos, neviršydamos 1996 metams tam skirtų lėšų, perskaičiuotų pagal Vyriausybės nutarimus dėl darbo užmokesčio didinimo.
+Nustatyti, kad iš savivaldybių biudžetų finansuojamų įstaigų darbo užmokesčio fondą tvirtina miestų, rajonų tarybos, neviršydamos 1996 metams tam skirtų lėšų, perskaičiuotų pagal Vyriausybės nutarimus [dėl darbo užmokesčio](https://e-tar.lt/portal/lt/legalAct/TAR.3A55ECEE9ACE) didinimo.
 
 
 

@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. 14 straipsnio pakeitimas ^s-b1523fc7d16f15dbffc634d2
 
 
-Pakeisti 14 straipsnio 2 ir [[#^s-8b25e321ff9a2b46ac5df234|3 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 14 straipsnio 2 ir 3 dalis ir visą straipsnį išdėstyti taip:
 
 
 

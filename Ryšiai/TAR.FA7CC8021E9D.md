@@ -9,19 +9,22 @@ pavadinimas: "Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų o
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.5E8A7E08E9D6|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo 2, 3, 5, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas]] - 6 citatos - 1001010ISTAIII-1522
-- [[latest/TAR.F2DCFA1F8AA2|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo 7 ir 9 straipsnių papildymo įstatymas]] - 6 citatos - 1041010ISTA0IX-2384
-- [[latest/TAR.BCE11AB4EAB0|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 5, 7, 7-1, 9 straipsnių pakeitimo ir papildymo įstatymas]] - 12 citatos - 1091010ISTA00XI-260
-- [[latest/TAR.B4032BBFAA07|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 7 straipsnio papildymo ir 9 straipsnio pakeitimo įstatymas]] - 6 citatos - 1061010ISTA00X-1005
-- [[latest/c85bf81089f911e4a98a9f2247652cf4|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 3, 7 straipsnių pakeitimo ir Įstatymo papildymo 7-2 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XII-1423
-- [[latest/0b8182e0ad4011e98451fa7b5933515d|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 5 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2325
-- [[latest/a9787b600a9e11ee9978886e85107ab2|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 5 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2032
-- [[latest/a5eda3d002dc11efbcbfb318996800a8|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 5 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2553
-- [[latest/737816a0133211e4adf3c8c5d7681e73|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 5-1 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1025
-- [[latest/TAR.04F896671DC8|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo pakeitimo įstatymas]] - 6 citatos - 1071010ISTA00X-1234
-- [[latest/TAR.1DEF7AF5F45C|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 7 straipsnio papildymo įstatymas]] - 8 citatos - 1121010ISTA0XI-2006
+- [[latest/TAR.5E8A7E08E9D6|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo 2, 3, 5, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas]] - 2 citatos - 1001010ISTAIII-1522
+- [[latest/TAR.F2DCFA1F8AA2|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo 7 ir 9 straipsnių papildymo įstatymas]] - 2 citatos - 1041010ISTA0IX-2384
+- [[latest/TAR.BCE11AB4EAB0|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 5, 7, 7-1, 9 straipsnių pakeitimo ir papildymo įstatymas]] - 6 citatos - 1091010ISTA00XI-260
+- [[latest/TAR.B4032BBFAA07|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 7 straipsnio papildymo ir 9 straipsnio pakeitimo įstatymas]] - 2 citatos - 1061010ISTA00X-1005
+- [[latest/TAR.04F896671DC8|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo pakeitimo įstatymas]] - 2 citatos - 1071010ISTA00X-1234
+- [[latest/TAR.1DEF7AF5F45C|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo 7 straipsnio papildymo įstatymas]] - 3 citatos - 1121010ISTA0XI-2006
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.5E8A7E08E9D6#^s-556f9a7f66fd348760dbb453|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo 2, 3, 5, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas]] - Asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas taikomas asmenims, kurie šio įstatymo 1 straipsnio 2 dalyje
 - [[latest/TAR.5E8A7E08E9D6#^s-d6b52855c4c3dd97a818d7e1|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymo 2, 3, 5, 7, 8, 9 straipsnių pakeitimo ir papildymo įstatymas]] - Asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas taikomas asmenims, kurie šio įstatymo 1 straipsnio 2 dalyje
+- [[latest/c85bf81089f911e4a98a9f2247652cf4#^s-1f22d1535391ade7dff195c9|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 3, 7 straipsnių pakeitimo ir Įstatymo papildymo 7-2 straipsniu įstatymas]] - 7 straipsnio 1 dalies 8 punkto
+- [[latest/c85bf81089f911e4a98a9f2247652cf4#^s-4009cdac8f106843c2d2c9c0|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 3, 7 straipsnių pakeitimo ir Įstatymo papildymo 7-2 straipsniu įstatymas]] - 3 punktu
+- [[latest/c85bf81089f911e4a98a9f2247652cf4#^s-ab8669db951d2e0e12bf11e5|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 3, 7 straipsnių pakeitimo ir Įstatymo papildymo 7-2 straipsniu įstatymas]] - 2 citatos - 4 punktu
+- [[latest/c85bf81089f911e4a98a9f2247652cf4#^s-b5f0049f654e2ab41103ca9a|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 3, 7 straipsnių pakeitimo ir Įstatymo papildymo 7-2 straipsniu įstatymas]] - 7 straipsnio 1 dalies 8 punkto
+- [[latest/c85bf81089f911e4a98a9f2247652cf4#^s-d42427be23e23bee4183f75f|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 3, 7 straipsnių pakeitimo ir Įstatymo papildymo 7-2 straipsniu įstatymas]] - 2 citatos - 72 straipsnis
+- [[latest/a9787b600a9e11ee9978886e85107ab2#^s-0b82dfed5914a6599f0ab04a|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 5 straipsnio pakeitimo įstatymas]] - 3 citatos - dalies 1 punkte
+- [[latest/a5eda3d002dc11efbcbfb318996800a8#^s-7531d11b0fef7d39f50e0f39|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 5 straipsnio pakeitimo įstatymas]] - 5 straipsnio 2 dalies 5 punktą
+- [[latest/0b8182e0ad4011e98451fa7b5933515d#^s-c4bb13fa89a268b2f4f9e23f|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 5 straipsnio pakeitimo įstatymas]] - 5 straipsnio 2 dalį 5 punktu
+- [[latest/737816a0133211e4adf3c8c5d7681e73#^s-d40349fccbbf61cac3a2b191|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 5-1 straipsnio pakeitimo įstatymas]] - 2 citatos - 51 straipsnis

@@ -33,7 +33,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-206f08d6e0ab8b4e8c24f3e8
-[[latest/TAR.068516AF734B#^s-c7306bc6822026a88b0469b1|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 7, 9, 11, 12, 22 STRAIPSNIŲ]] PAKEITIMAS IR PAPILDYMAS BEI ĮSTATYMO PAPILDYMAS NAUJU IV SKIRSNIU
+[[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] [[latest/TAR.068516AF734B#^s-43adb4ba3437d0d2d5f88914|2]], [[latest/TAR.068516AF734B#^s-51fd289c361281809cf1fba3|3]], [[latest/TAR.068516AF734B#^s-4da7929808132472d50c22b0|4]], [[latest/TAR.068516AF734B#^s-2a1673d78143c79e930e4282|5]], [[latest/TAR.068516AF734B#^s-e1fdabbb2f73863e98c4c01a|7]], [[latest/TAR.068516AF734B#^s-8e2b38a5313e0bbaffd24037|9]], [[latest/TAR.068516AF734B#^s-3daf4994538abe8e6a6c69bd|11]], [[latest/TAR.068516AF734B#^s-f28f80e80aa899d84914c225|12]], [[latest/TAR.068516AF734B#^s-c7306bc6822026a88b0469b1|22]] STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS BEI ĮSTATYMO PAPILDYMAS NAUJU IV SKIRSNIU
 
 (Žin., 2000, Nr. 111-3574; 2002, Nr. 13-469; 2004, Nr. 171-6300)
 
@@ -92,7 +92,7 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 1) asmenys, dirbantys pagal darbo sutartis pas juridinius ar fizinius asmenis, kandidatai į notarus (asesoriai), taip pat darbo užmokestį gaunantys asmenys ir einantys narystės pagrindu renkamąsias pareigas renkamose organizacijose, skiriami į apygardų, miestų, rajonų, apylinkių rinkimų ir referendumo komisijas ir gaunantys darbo užmokestį asmenys; ^s-8c175b1ac3c410d3265830da
 
 
-2) Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus [[latest/TAR.0F9036415DBD#^s-66a74a7996a218e9403ff8dc|Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalyje]]), taip pat gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys.“ ^s-2a8623212fe0c63e21b4c0c1
+2) Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus [[latest/TAR.0F9036415DBD#^s-66a74a7996a218e9403ff8dc|Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalyje]]), taip pat gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys.“ ^s-2a8623212fe0c63e21b4c0c1
 
 
 
@@ -249,7 +249,7 @@ Nutrauktos profesinės reabilitacijos pašalpos mokėjimas Vyriausybės patvirti
 
 
 ### ANTRASIS SKIRSNIS ^s-f5ab3c72d9a907e5e70af7b0
-[[latest/TAR.4325B0C38B2F#^s-3710424e002449d304e90983|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 7, 14, 21, 22, 23, 24, 25, 26, 27 STRAIPSNIŲ]] PAKEITIMAS IR PAPILDYMAS
+[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]] [[latest/TAR.4325B0C38B2F#^s-8370cb83f05bea06e1bc463b|3]], [[latest/TAR.4325B0C38B2F#^s-737e8edd028db0830bb7bcb8|4]], [[latest/TAR.4325B0C38B2F#^s-3d587db23fc0092c748ee41a|7]], [[latest/TAR.4325B0C38B2F#^s-57e48c0e1e7b9cc0148b136e|14]], [[latest/TAR.4325B0C38B2F#^s-f30a629aef4b3e92066827fd|21]], [[latest/TAR.4325B0C38B2F#^s-9a928cde0031ba200f634be1|22]], [[latest/TAR.4325B0C38B2F#^s-116cedc5dc2d7566cb91146f|23]], [[latest/TAR.4325B0C38B2F#^s-8f35167110a33b1269395128|24]], [[latest/TAR.4325B0C38B2F#^s-c97516f982c7ad1c52515a02|25]], [[latest/TAR.4325B0C38B2F#^s-4ed366a19004b17befad1592|26]], [[latest/TAR.4325B0C38B2F#^s-3710424e002449d304e90983|27]] STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 1999, Nr. 110-3207; 2003, Nr. 114-5114; 2004, Nr. 98-3624, Nr. 171-6300, 6311)
 
@@ -295,7 +295,7 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 1) asmenys, dirbantys pagal darbo sutartis pas juridinius ar fizinius asmenis, kandidatai į notarus (asesoriai), taip pat darbo užmokestį gaunantys asmenys ir einantys narystės pagrindu renkamąsias pareigas renkamosiose organizacijose, skiriami į apygardų, miestų, rajonų, apylinkių rinkimų ir referendumo komisijas ir gaunantys darbo užmokestį asmenys; ^s-f2de3eafda226a7ab1c0d3ed
 
 
-2) Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus [[latest/TAR.0F9036415DBD#^s-66a74a7996a218e9403ff8dc|Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalyje]]), taip pat gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys; ^s-094234a746b9d894a7160ece
+2) Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus [[latest/TAR.0F9036415DBD#^s-66a74a7996a218e9403ff8dc|Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalyje]]), taip pat gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys; ^s-094234a746b9d894a7160ece
 
 
 3) profesinių mokyklų moksleiviai, aukštesniųjų ir aukštųjų mokyklų studentai bei asmenys, teritorinių darbo biržų siųsti persikvalifikuoti, – jų profesinio mokymo (praktikos) įstaigoje ar įmonėje laikui; ^s-355b05fc84641c35180e9712
@@ -563,7 +563,7 @@ Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 ### KETVIRTASIS SKIRSNIS ^s-f88a85cd643b8a2aec85c321
-[[latest/TAR.0F9036415DBD#^s-61e879c220cce3e9e6ccce26|VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 4, 8, 29 IR 31 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.0F9036415DBD|VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO]] [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|4]], [[latest/TAR.0F9036415DBD#^s-41445d56099cbf4732c50d87|8]], [[latest/TAR.0F9036415DBD#^s-27aa5fceffbec6d70331168e|29]] IR [[latest/TAR.0F9036415DBD#^s-61e879c220cce3e9e6ccce26|31]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1991, Nr. 17-447; 2004, Nr. 171-6295)
 
@@ -595,10 +595,10 @@ Pakeisti 4 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
 
 
 
-3 straipsnis 29 straipsnio 2 dalies 9 ir [[#^s-d4137ae25ab66bdd19dc7f31|10 punktų]] pakeitimas
+3 straipsnis 29 straipsnio 2 dalies 9 ir 10 punktų pakeitimas
 
 
-Pakeisti 29 straipsnio 2 dalies 9 ir [[#^s-d4137ae25ab66bdd19dc7f31|10 punktus]] ir juos išdėstyti taip:
+Pakeisti 29 straipsnio 2 dalies 9 ir 10 punktus ir juos išdėstyti taip:
 
 
 „9) pripažinti socialinio draudimo įmokų, delspinigių ir baudų skolas beviltiškomis, jeigu jų neįmanoma išieškoti dėl objektyvių priežasčių arba jas priverstinai išieškoti netikslinga socialiniu ir (arba) ekonominiu požiūriu, kai: nerasta socialinio draudimo įmokų mokėtojo turto arba rastas turtas yra nelikvidus (mažai likvidus); priverstinio išieškojimo išlaidos didesnės už mokestinę nepriemoką; netikslinga priverstinai išieškoti nepriemoką, kadangi sunki fizinio asmens ekonominė (socialinė) padėtis: fiziniam asmeniui reikia valstybės paramos (asmuo yra pensinio amžiaus, neįgalusis (iki 2005 m. liepos 1 d. – invalidas), asmeniui reikalingas gydymas, medicininė profilaktika ir reabilitacija, asmuo yra bedarbis, gauna socialinę pašalpą) arba tokia parama jau teikiama;
@@ -611,7 +611,7 @@ Pakeisti 29 straipsnio 2 dalies 9 ir [[#^s-d4137ae25ab66bdd19dc7f31|10 punktus]]
 ### 4 straipsnis. 31 straipsnio 1 dalies 14 ir 15 punktų pakeitimas ^s-baa8bf0c2ef3a8c8f057cf18
 
 
-Pakeisti 31 straipsnio 1 dalies 14 ir [[#^s-550a2d34c614cb1f879f9e01|15 punktus]] ir juos išdėstyti taip:
+Pakeisti 31 straipsnio 1 dalies 14 ir 15 punktus ir juos išdėstyti taip:
 
 
 „14) kontroliuoja nedarbingumo pažymėjimų, profesinės reabilitacijos pažymėjimų bei nėštumo ir gimdymo atostogų pažymėjimų išdavimo ir tęsimo teisėtumą bei pagrįstumą (laikinojo nedarbingumo nustatymo teisėtumą ir pagrįstumą);

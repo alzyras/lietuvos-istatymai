@@ -88,7 +88,7 @@ Savivaldybės kontrolierius:
 2) pagal savo kompetenciją leidžia įsakymus; ^s-c6194039e8e9a2b43f6e79d3
 
 
-3) teikia tarybai išvadas dėl savivaldybės biudžeto vykdymo, dėl nebiudžetinių lėšų ir fondų naudojimo; ^s-845ca0cc8b0500c1dabc3c6b
+3) teikia tarybai išvadas dėl savivaldybės biudžeto vykdymo, [dėl nebiudžetinių lėšų](https://e-tar.lt/portal/lt/legalAct/TAR.066AD2FE5216) ir fondų naudojimo; ^s-845ca0cc8b0500c1dabc3c6b
 
 
 4) savo iniciatyva arba tarybos, jos komitetų, mero (valdybos, jeigu ji sudaroma) siūlymu organizuoja patikrinimus bei revizijas administracijoje, savivaldybės biudžetinėse įstaigose ir organizacijose, savivaldybės įmonėse, taip pat tarybos (valdybos, mero) siūlymu – akcinėse bendrovėse, kuriose savivaldybei nuosavybės teise priklauso ne mažiau kaip pusę balsų suteikiančių akcijų; ^s-0ac07d7a8e59b74c9fcb211e

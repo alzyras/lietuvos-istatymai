@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo papildymas priedu ^s-3e38fabe0b746c402235fb4a
 
 
-Lietuvos Respublikos Seimas, atsižvelgdamas į Respublikos Prezidento 2008 m. birželio 4 d. dekretą Nr. 1K-1368, papildo Lietuvos Respublikos Valstybių Šiaurės Atlanto sutarties dalyvių ir kitų valstybių, dalyvaujančių programoje „Partnerystė taikos labui“, susitarimo dėl jų karinių pajėgų statuso ir šio susitarimo papildomo protokolo ratifikavimo įstatymą priedu:
+Lietuvos Respublikos Seimas, atsižvelgdamas į Respublikos Prezidento [2008 m. birželio 4 d. dekretą Nr. 1K-1368](https://e-tar.lt/portal/lt/legalAct/TAR.A483D6FA492B), papildo Lietuvos Respublikos Valstybių Šiaurės Atlanto sutarties dalyvių ir kitų valstybių, dalyvaujančių programoje „Partnerystė taikos labui“, susitarimo dėl jų karinių pajėgų statuso ir šio susitarimo papildomo protokolo ratifikavimo įstatymą priedu:
 
 
 „Lietuvos Respublikos
@@ -58,7 +58,7 @@ dėl 2007 m. rugpjūčio 28 d. Rusijos Federacijos pareiškimo, padaryto ratifik
 Lietuvos Respublikos Seimas,
 
 
-vadovaudamasis Vienos konvencijos dėl tarptautinių sutarčių teisės (Žin., 2002, Nr. 13-480) 20 straipsnio 4 ir [[#^s-7c3a4f3c92c8372c83c89b9e|5 dalimis]],
+vadovaudamasis Vienos konvencijos dėl tarptautinių sutarčių teisės (Žin., 2002, Nr. 13-480) 20 straipsnio 4 ir 5 dalimis,
 
 
 atsižvelgdamas į 2007 m. rugpjūčio 28 d. Rusijos Federacijos pareiškimą, padarytą ratifikuojant Valstybių Šiaurės Atlanto sutarties dalyvių ir kitų valstybių, dalyvaujančių programoje „Partnerystė taikos labui“, susitarimą dėl jų karinių pajėgų statuso (toliau – PTL susitarimas) ir šio susitarimo papildomą protokolą (toliau – Rusijos Federacijos pareiškimas),
@@ -85,7 +85,7 @@ pareiškia, kad:
 5) dėl NATO susitarimo XI [[#^s-80c1a6c4b79d6ce6d276d7db|straipsnio 4 dalies]], kaip jos išdėstytos Rusijos Federacijos pareiškimo [[#^s-4256fa15c278b0c96bca1b7e|6 punkto]] 2 pastraipoje; ^s-587d057a8c90f6074b1c501d
 
 
-6) dėl NATO susitarimo XI straipsnio 2, 4, 5 ir 6 dalių, kaip jos išdėstytos Rusijos Federacijos pareiškimo 6 punkto 1 pastraipos 2 sakinyje; ^s-4256fa15c278b0c96bca1b7e
+6) dėl NATO susitarimo XI straipsnio [[#^s-18d1dcee75ebddb415f1e063|2]], [[#^s-80c1a6c4b79d6ce6d276d7db|4]], [[#^s-7c3a4f3c92c8372c83c89b9e|5]] ir 6 dalių, kaip jos išdėstytos Rusijos Federacijos pareiškimo 6 punkto 1 pastraipos 2 sakinyje; ^s-4256fa15c278b0c96bca1b7e
 
 
 7) dėl NATO susitarimo XI straipsnio, kaip jos išdėstytos Rusijos Federacijos pareiškimo [[#^s-4256fa15c278b0c96bca1b7e|6 punkto]] 4 pastraipoje; ^s-92e103db29606b6a0e48fc13
@@ -106,10 +106,10 @@ pareiškia, kad:
 1) dėl NATO susitarimo VI straipsnio nuostatų, kaip jos išdėstytos Rusijos Federacijos pareiškimo [[#^s-b8e927ee95c7e8c22c3e6964|2 punkte]]; ^s-030e02abb4d32ad4336e685d
 
 
-2) dėl NATO susitarimo XI straipsnio 2, 4, 5 ir 6 dalių nuostatų, kaip jos išdėstytos Rusijos Federacijos pareiškimo 6 punkto 1 pastraipos 1 sakinyje; ^s-b8e927ee95c7e8c22c3e6964
+2) dėl NATO susitarimo XI straipsnio [[#^s-18d1dcee75ebddb415f1e063|2]], [[#^s-80c1a6c4b79d6ce6d276d7db|4]], [[#^s-7c3a4f3c92c8372c83c89b9e|5]] ir 6 dalių nuostatų, kaip jos išdėstytos Rusijos Federacijos pareiškimo 6 punkto 1 pastraipos 1 sakinyje; ^s-b8e927ee95c7e8c22c3e6964
 
 
-3) dėl NATO susitarimo XI straipsnio 2, 5 ir 6 dalių nuostatų, kaip jos išdėstytos Rusijos Federacijos pareiškimo 6 punkto 7 pastraipoje; ^s-28486d40609ff8da6d372c01
+3) dėl NATO susitarimo XI straipsnio [[#^s-18d1dcee75ebddb415f1e063|2]], [[#^s-7c3a4f3c92c8372c83c89b9e|5]] ir 6 dalių nuostatų, kaip jos išdėstytos Rusijos Federacijos pareiškimo 6 punkto 7 pastraipoje; ^s-28486d40609ff8da6d372c01
 
 
 4) dėl NATO susitarimo XI straipsnio nuostatų, kaip jos išdėstytos Rusijos Federacijos pareiškimo 6 punkto 5 pastraipoje; ^s-baa11e3fa3fee4ef4eee2c25

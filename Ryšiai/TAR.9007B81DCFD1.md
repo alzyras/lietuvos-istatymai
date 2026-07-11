@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos mokesčių už pramoninės nuosavybės objekt
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.07786E0929A8|Lietuvos Respublikos patentų įstatymas]] - 2 citatos - Patentų įstatymo
+- [[latest/TAR.07786E0929A8|Lietuvos Respublikos patentų įstatymas]] - Patentų įstatymo
 
 ## Šį įstatymą cituoja
 

@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-c278f8c9018cbcb0dc97edd9
 
 
-Lietuvos Respublikos muitinės kodekso įgyvendinimo įstatymą pripažinti netekusiu galios.
+[Lietuvos Respublikos muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) įgyvendinimo įstatymą pripažinti netekusiu galios.
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-d3f909a3456e6ff9430e4abe
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. lapkričio 24 d. dekretą Nr. 294, ratifikuoja 2001 m. gegužės 17 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Maltos Vyriausybės sutartį dėl pajamų dvigubo apmokestinimo išvengimo ir pajamų mokesčių slėpimo prevencijos ir protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. lapkričio 24 d. dekretą Nr. 294](https://e-tar.lt/portal/lt/legalAct/TAR.A85CA8152963), ratifikuoja 2001 m. gegužės 17 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Maltos Vyriausybės sutartį dėl pajamų dvigubo apmokestinimo išvengimo ir pajamų mokesčių slėpimo prevencijos ir protokolą.
 
 
 

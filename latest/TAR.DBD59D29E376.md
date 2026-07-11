@@ -48,7 +48,7 @@ Vilnius
 Pakeisti 32 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Šio įstatymo 19 straipsnyje išdėstyto Visuomenės informavimo įstatymo 401 straipsnio 2 dalies 4 punktas taikomas ne visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo arba su juo susijusios bendrovės sukurtoms arba užsakytoms sukurti programoms nuo 2012 m. gruodžio 31 d.“
+„2. Šio įstatymo 19 straipsnyje išdėstyto [[latest/TAR.065AB8483E1E|Visuomenės informavimo įstatymo 401 straipsnio 2 dalies 4 punktas]] taikomas ne visuomenės informavimo audiovizualinėmis priemonėmis paslaugų teikėjo arba su juo susijusios bendrovės sukurtoms arba užsakytoms sukurti programoms nuo 2012 m. gruodžio 31 d.“
 
 
 

@@ -55,7 +55,7 @@ Vilnius
 ### 2 straipsnis. 2 straipsnio 1 ir 10 dalių pakeitimas ^s-dde5ed2c0ef0f3fe658ce6ff
 
 
-1. [[#^s-99fd0cc2016380def8afa7af|2 straipsnio 1 dalyje]] vietoj žodžių „vietos savivaldos“ įrašyti žodį „savivaldybių“ ir šią dalį išdėstyti taip: ^s-99fd0cc2016380def8afa7af
+1. 2 straipsnio 1 dalyje vietoj žodžių „vietos savivaldos“ įrašyti žodį „savivaldybių“ ir šią dalį išdėstyti taip: ^s-99fd0cc2016380def8afa7af
 
 
 „1. Oficialioji statistika – valstybės ir savivaldybių institucijų ir įstaigų valstybės reikmėms skirtų statistinių duomenų apie ekonominius, demografinius procesus, socialinius veiksnius ir visuomeninius bei aplinkos pokyčius rinkimo, tvarkymo ir statistinės informacijos skelbimo pagal Oficialiosios statistikos darbų programą sistema.“

@@ -77,7 +77,7 @@ Pakeisti 4 straipsnio 10 dalį ir ją išdėstyti taip:
 „3. Šio įstatymo 9 straipsnio 1 dalies 13-15 punktuose nurodyti duomenys gali būti teikiami tik teisėtvarkos bei asmens tapatybę patvirtinančius dokumentus išduodančioms institucijoms.“
 
 
-5. Buvusias 9 straipsnio 3 ir [[#^s-b159d452d8eb34a9140fdff0|4 dalis]] laikyti atitinkamai 4 ir [[#^s-c38f7346b45deb09b8fad379|5 dalimis]]. ^s-c38f7346b45deb09b8fad379
+5. Buvusias 9 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-c38f7346b45deb09b8fad379
 
 
 

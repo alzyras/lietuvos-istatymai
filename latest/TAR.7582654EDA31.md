@@ -50,7 +50,7 @@ Pasiūlyti Vyriausybei:
 ### 2 straipsnis. Teisės akto pripažinimas netekusiu galios ^s-3fae460527fa8816c3dfd698
 
 
-Įsigaliojus Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymui ir Lietuvos Respublikos čekių įstatymui, netenka galios Lietuvos Respublikos Aukščiausiosios Tarybos 1992 m. birželio 30 d. nutarimo Nr. I-2688 „Dėl Lietuvos Respublikos prisijungimo prie Ženevos vekselių ir čekių konvencijų“ (Žin., 1992, Nr. 26-766) 2 punktas.
+Įsigaliojus Lietuvos Respublikos įsakomųjų ir paprastųjų vekselių įstatymui ir Lietuvos Respublikos čekių įstatymui, netenka galios Lietuvos Respublikos Aukščiausiosios Tarybos [1992 m. birželio 30 d. nutarimo Nr. I-2688](https://e-tar.lt/portal/lt/legalAct/TAR.CCB8BCCA032C) [„Dėl Lietuvos Respublikos prisijungimo prie Ženevos vekselių ir čekių konvencijų“](https://e-tar.lt/portal/lt/legalAct/TAR.CCB8BCCA032C) (Žin., 1992, Nr. 26-766) 2 punktas.
 
 
 

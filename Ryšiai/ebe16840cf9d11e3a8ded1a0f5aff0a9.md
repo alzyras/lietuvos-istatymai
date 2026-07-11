@@ -9,9 +9,10 @@ pavadinimas: "Lietuvos Respublikos Lietuvos banko įstatymo 1, 6, 7, 8, 11, 12, 
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.7D36321FB46F|Lietuvos Respublikos Lietuvos banko įstatymo 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53, 54, 541, 55 straipsnių, ketvirtojo ir penktojo skirsnių pavadinimų pakeitimo, 26, 27, 28, 29, 30, 32, 37 straipsnių pripažinimo netekusiais galios ir įstatymo priedo papildymo įstatymas]] - 3 citatos - 54 straipsnio
+- [[latest/TAR.7D36321FB46F#^s-998f5cfc8fb001e792ba45dd|Lietuvos Respublikos Lietuvos banko įstatymo 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53, 54, 541, 55 straipsnių, ketvirtojo ir penktojo skirsnių pavadinimų pakeitimo, 26, 27, 28, 29, 30, 32, 37 straipsnių pripažinimo netekusiais galios ir įstatymo priedo papildymo įstatymas]] - 8 straipsnyje
+- [[latest/TAR.7D36321FB46F#^s-c52310b175c111c112152dc2|Lietuvos Respublikos Lietuvos banko įstatymo 1, 6, 7, 8, 11, 12, 14, 19, 20, 25, 31, 33, 35, 36, 38, 47, 49, 50, 53, 54, 541, 55 straipsnių, ketvirtojo ir penktojo skirsnių pavadinimų pakeitimo, 26, 27, 28, 29, 30, 32, 37 straipsnių pripažinimo netekusiais galios ir įstatymo priedo papildymo įstatymas]] - 2 citatos - 29 straipsnis
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.1B4D7B687895#^s-233503f4978506aa7c3c471d|Lietuvos Respublikos Lietuvos banko įstatymas]] - Įstatymas Nr. XII-829
-- [[latest/TAR.1B4D7B687895#^s-28658092b22604ccafe85957|Lietuvos Respublikos Lietuvos banko įstatymas]] - Įstatymas Nr. XII-829
+_Nėra._

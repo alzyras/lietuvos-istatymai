@@ -63,7 +63,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 6. LNSS biudžetinių ir viešųjų įstaigų ar jų filialų ir padalinių sveikatos priežiūros specialistai į darbą priimami ir iš darbo atleidžiami [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] nustatyta tvarka ir pagrindais. ^s-80898047d3a4d9fadad2871b
 
 
-7. Šio straipsnio 1–[[#^s-beeda3816121d0675effb191|5 dalių]] nuostatos netaikomos tų LNSS biudžetinių ir viešųjų įstaigų, jų padalinių ir filialų vadovams, kurių steigėja yra Krašto apsaugos ministerija ar Vidaus reikalų ministerija.“ ^s-6b43b28184bef863778eb428
+7. Šio straipsnio [[#^s-5511ab327d506956378e9d56|1]]–[[#^s-beeda3816121d0675effb191|5]] dalių nuostatos netaikomos tų LNSS biudžetinių ir viešųjų įstaigų, jų padalinių ir filialų vadovams, kurių steigėja yra Krašto apsaugos ministerija ar Vidaus reikalų ministerija.“ ^s-6b43b28184bef863778eb428
 
 
 

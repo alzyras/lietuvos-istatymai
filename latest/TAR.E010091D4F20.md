@@ -92,7 +92,7 @@ Papildyti Įstatymą 701 straipsniu:
 ### 3 straipsnis. Įstatymo įsigaliojimas ^s-360a26b7688f16eb6871a013
 
 
-Šis įstatymas, išskyrus 4 ir [[#^s-c1afcbebc19a1461f7ab86c4|5 straipsnius]], įsigalioja 2011 m. balandžio 1 d.
+Šis įstatymas, išskyrus [[#^s-8260182ee8f300f187cb6949|4]] ir [[#^s-c1afcbebc19a1461f7ab86c4|5]] straipsnius, įsigalioja 2011 m. balandžio 1 d.
 
 
 

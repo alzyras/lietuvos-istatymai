@@ -164,10 +164,10 @@ Papildyti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 1) faktinis tarnybos kitų valstybių ginkluotosiose pajėgose, pasienio tarnyboje, vidaus reikalų ir kitose tarnybose (išskyrus tarnybą naikintojų būriuose ir batalionuose) laikas – Lietuvos Respublikos Vyriausybės nustatyta tvarka; ^s-7582dc0143dbbbf7e42c1a94
 
 
-2) darbo policijoje (milicijoje), vidaus tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas Darbo sutarties įstatymo pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms; ^s-bcd7738e702efe646269c709
+2) darbo policijoje (milicijoje), vidaus tarnybos, valstybės saugumo, krašto apsaugos ir prokuratūros sistemose laikas [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pagrindais, jeigu vėliau tos pareigos priskirtos pareigūno pareigoms; ^s-bcd7738e702efe646269c709
 
 
-3) darbo laikas, išdirbtas profesionaliosios priešgaisrinės apsaugos padalinių vadovais, gaisrininkais, gaisrininkais vairuotojais Darbo sutarties įstatymo pagrindais, jeigu vėliau šie darbuotojai buvo paskirti sukarintos priešgaisrinės apsaugos pareigūnais; ^s-0d546b462dd42b8973b73ecd
+3) darbo laikas, išdirbtas profesionaliosios priešgaisrinės apsaugos padalinių vadovais, gaisrininkais, gaisrininkais vairuotojais [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pagrindais, jeigu vėliau šie darbuotojai buvo paskirti sukarintos priešgaisrinės apsaugos pareigūnais; ^s-0d546b462dd42b8973b73ecd
 
 
 4) viena tarnybos ar darbo diena Krašto apsaugos departamento struktūriniuose padaliniuose nuo 1990 m. balandžio 25 d. ir Valstybės saugumo departamento prie Lietuvos Respublikos Vyriausybės sistemoje nuo 1990 m. kovo 26 d. iki 1991 m. rugpjūčio 23 d. įskaitoma kaip trys tarnybos dienos; ^s-285bf6be6fb6eadf551e5a9c
@@ -183,7 +183,7 @@ Papildyti 12 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 7 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-00e9326c6ba099f15e708918
 
 
-Pripažinti netekusiu galios [[latest/TAR.EDDCB615126E#^s-457898e92b1498d0c089e2e8|Lietuvos Respublikos vidaus reikalų, valstybės saugumo, krašto apsaugos ir prokuratūros pareigūnų ir karių valstybinių pensijų įstatymo pavadinimo, 1, 3, 6, 12, 16 straipsnių]] pakeitimo ir papildymo įstatymą (Žin., 2000, Nr. 36-986).
+Pripažinti netekusiu galios [[latest/TAR.EDDCB615126E|Lietuvos Respublikos vidaus reikalų, valstybės saugumo, krašto apsaugos ir prokuratūros pareigūnų ir karių valstybinių pensijų įstatymo]] pavadinimo, [[latest/TAR.EDDCB615126E#^s-fe77095137d924d696a4c330|1]], [[latest/TAR.EDDCB615126E#^s-a3374467863a2f9a8493d397|3]], [[latest/TAR.EDDCB615126E#^s-c847b9e900f8fb86ff750979|6]], [[latest/TAR.EDDCB615126E#^s-de8c0aafa7cf8af73e3be05a|12]], [[latest/TAR.EDDCB615126E#^s-457898e92b1498d0c089e2e8|16]] straipsnių pakeitimo ir papildymo įstatymą (Žin., 2000, Nr. 36-986).
 
 
 

@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-8f14ec8a02e492bac08b3996
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. birželio 18 d. dekretą Nr. 116, ratifikuoja 1980 m. gegužės 9 d. Tarptautinio vežimo geležinkeliais sutarties (COTIF) pakeitimo 1999 m. birželio 3 d. protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. birželio 18 d. dekretą Nr. 116](https://e-tar.lt/portal/lt/legalAct/TAR.4E030BE38BE4), ratifikuoja 1980 m. gegužės 9 d. Tarptautinio vežimo geležinkeliais sutarties (COTIF) pakeitimo 1999 m. birželio 3 d. protokolą.
 
 
 

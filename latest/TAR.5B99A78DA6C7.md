@@ -114,13 +114,13 @@ Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
 10. Maisto pardavėjas (toliau – pardavėjas) – maisto tvarkymo subjektas, pagal vartojimo pirkimo–pardavimo sutartį parduodantis maistą galutiniam vartotojui. ^s-02c0347442f90b99b1e28db1
 
 
-11. Maisto priedai – kaip apibrėžta 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1333/2008 dėl maisto priedų [[#^s-cdcbcae0ea712761f12f6563|3 straipsnio 2 dalies]] a punkte. ^s-e4fd55d7a550dee24ed02c89
+11. Maisto priedai – kaip apibrėžta 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1333/2008](https://eur-lex.europa.eu/eli/reg/1333/2008/oj) dėl maisto priedų [[#^s-cdcbcae0ea712761f12f6563|3 straipsnio 2 dalies]] a punkte. ^s-e4fd55d7a550dee24ed02c89
 
 
 12. Maisto sauga (toliau – sauga) – visuma Lietuvos Respublikos maisto įstatymo bei kitų teisės aktų nustatytų maisto ir jo tvarkymo reikalavimų, kuriais užtikrinama, kad vartojant maistą įprastomis, gamintojo nustatytomis ar galimomis iš anksto pagrįstai numatyti vartojimo sąlygomis, įskaitant ir ilgalaikį vartojimą, nebus jokios rizikos vartotojų sveikatai ar gyvybei arba ji bus ne didesnė, negu teisės aktuose nustatyta kaip leidžiama ir laikoma atitinkančia aukštą vartotojų apsaugos lygį. ^s-924c041a4213443dd9eabd42
 
 
-13. Maisto srities teisės aktai – kaip apibrėžta Reglamento (ES) 2017/625 3 straipsnio 1 punkte. ^s-de2ccc078a9e6b2d3e153c35
+13. Maisto srities teisės aktai – kaip apibrėžta [Reglamento (ES) 2017/625 3 straipsnio](https://eur-lex.europa.eu/eli/reg/2017/625/art_3/oj) 1 punkte. ^s-de2ccc078a9e6b2d3e153c35
 
 
 14. Maisto teršalas (toliau – teršalas) – atsitiktinai į maistą patekusi ar įdėta bet kokia cheminė ar biologinė ne maisto medžiaga ar kitoks objektas, išskyrus maisto priedus, atsiradę tvarkymo metu arba dėl aplinkos užterštumo, galintys pakenkti maisto saugai ar padaryti maistą netinkamą vartoti. ^s-e2bdb425a6683373040997f5
@@ -135,7 +135,7 @@ Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
 17. Maisto tvarkymo vieta – viešųjų ar privačių juridinių asmenų vieta (įskaitant teritoriją, statinius ir transporto priemones), kurioje tvarkomas maistas. ^s-50ee432974bb763fdd07c8b5
 
 
-18. Minimalus maisto produkto tinkamumo vartoti terminas – kaip apibrėžta 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1169/2011 dėl informacijos apie maistą teikimo vartotojams, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 1924/2006 ir (EB) Nr. 1925/2006 bei kuriuo panaikinami Komisijos direktyva 87/250/EEB, Tarybos direktyva 90/496/EEB, Komisijos direktyva 1999/10/EB, Europos Parlamento ir Tarybos direktyva 2000/13/EB, Komisijos direktyvos 2002/67/EB ir 2008/5/EB bei Komisijos reglamentas (EB) Nr. 608/2004, su visais pakeitimais [[#^s-232f8f2d1fb6a9c7607e346b|2 straipsnio 2 dalies]] r punkte. ^s-58bde34b4e524f09b3ca8b24
+18. Minimalus maisto produkto tinkamumo vartoti terminas – kaip apibrėžta 2011 m. spalio 25 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1169/2011](https://eur-lex.europa.eu/eli/reg/1169/2011/oj) dėl informacijos apie maistą teikimo vartotojams, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos [reglamentai (EB) Nr. 1924/2006](https://eur-lex.europa.eu/eli/reg/1924/2006/oj) ir (EB) Nr. 1925/2006 bei kuriuo panaikinami Komisijos direktyva 87/250/EEB, Tarybos direktyva 90/496/EEB, Komisijos direktyva 1999/10/EB, Europos Parlamento ir Tarybos direktyva 2000/13/EB, Komisijos direktyvos 2002/67/EB ir 2008/5/EB bei Komisijos reglamentas (EB) Nr. 608/2004, su visais pakeitimais [[#^s-232f8f2d1fb6a9c7607e346b|2 straipsnio 2 dalies]] r punkte. ^s-58bde34b4e524f09b3ca8b24
 
 
 181. Paramos gavėjai – paramos gavėjo statusą turintys juridiniai asmenys, nurodyti [[latest/TAR.C0FF21832A85#^s-a5b9f0d9939543a5263210a1|Lietuvos Respublikos labdaros ir paramos įstatymo 7 straipsnio 1 dalyje]]. ^s-36b7e8c0d21aa382be64d49a
@@ -174,7 +174,7 @@ Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
 28. Su maistu besiliečiančių gaminių ir medžiagų tiekėjas – Lietuvos Respublikos teisės aktų nustatyta tvarka veiklą įregistravęs fizinis ar juridinis asmuo, pateikiantis į rinką su maistu besiliečiančius gaminius ir medžiagas. ^s-896b2ecab8cb33992c58588d
 
 
-29. Su maistu besiliečiantys gaminiai ir medžiagos – su maistu skirti liestis gaminiai ir medžiagos, kuriems taikomas 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1935/2004 dėl žaliavų ir gaminių, skirtų liestis su maistu, ir panaikinantis direktyvas 80/590/EEB ir 89/109/EEB, su paskutiniais pakeitimais, padarytais 2009 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 596/2009. ^s-cee43428395bc1fd4697126e
+29. Su maistu besiliečiantys gaminiai ir medžiagos – su maistu skirti liestis gaminiai ir medžiagos, kuriems taikomas 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1935/2004](https://eur-lex.europa.eu/eli/reg/1935/2004/oj) dėl žaliavų ir gaminių, skirtų liestis su maistu, ir panaikinantis direktyvas 80/590/EEB ir 89/109/EEB, su paskutiniais pakeitimais, padarytais 2009 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 596/2009. ^s-cee43428395bc1fd4697126e
 
 
 30. Susigrąžinimas – priemonės, kurias taikant siekiama užtikrinti, kad būtų atsiimtas nesaugus maistas ar su maistu besiliečiantis gaminys ar medžiaga, kuriuos maisto tvarkymo subjektas ar su maistu besiliečiančių gaminių ir medžiagų gamintojas ir (ar) tiekėjas pateikė vartotojui arba kuriuos vartotojas jau gali vartoti ar naudoti. ^s-7e8a030a371dcf5ad3a0457b
@@ -186,7 +186,7 @@ Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
 32. Viso paros raciono pakaitalas svoriui kontroliuoti – kaip apibrėžta Reglamento (ES) Nr.  609/2013 [[#^s-232f8f2d1fb6a9c7607e346b|2 straipsnio 2 dalies]] h punkte. ^s-590aada20d82f2760938711e
 
 
-33. Šiame įstatyme sąvoka „valstybinė maisto kontrolė“ atitinka sąvoką „oficiali kontrolė“ ir vartojama ta pačia reikšme, kaip ji apibrėžta Reglamento (ES) 2017/625 2 straipsnio 1 punkte. ^s-6bd466a1ff45e7b32e9d759d
+33. Šiame įstatyme sąvoka „valstybinė maisto kontrolė“ atitinka sąvoką „oficiali kontrolė“ ir vartojama ta pačia reikšme, kaip ji apibrėžta [Reglamento (ES) 2017/625 2 straipsnio](https://eur-lex.europa.eu/eli/reg/2017/625/art_2/oj) 1 punkte. ^s-6bd466a1ff45e7b32e9d759d
 
 
 Straipsnio pakeitimai:
@@ -228,7 +228,7 @@ maisto ir jo tvarkymo reikalavimai
 ### 4 straipsnis. Pagrindiniai maisto saugos, kokybės ir tvarkymo reikalavimai ^s-53300a40fec18c1edc0177b9
 
 
-1. Į rinką turi būti teikiamas šiame įstatyme ir kituose teisės aktuose nustatytus saugos, kokybės ir tvarkymo reikalavimus atitinkantis maistas, su maistu besiliečiantys gaminiai ir medžiagos. Ar maistas yra saugus, nustatoma vadovaujantis Reglamento (EB) Nr. 178/2002 [[#^s-617f59ccb23f201731f80fb4|14 straipsnyje]] įtvirtintais kriterijais. Ar su maistu besiliečiantys gaminiai ir medžiagos yra saugūs, nustatoma vadovaujantis Reglamento (EB) Nr. 1935/2004 [[#^s-f3d1504702d410587b8db533|3 straipsnio 1 dalyje]] įtvirtintais kriterijais. ^s-d90c76c93ede20f99cd2aa97
+1. Į rinką turi būti teikiamas šiame įstatyme ir kituose teisės aktuose nustatytus saugos, kokybės ir tvarkymo reikalavimus atitinkantis maistas, su maistu besiliečiantys gaminiai ir medžiagos. Ar maistas yra saugus, nustatoma vadovaujantis Reglamento (EB) Nr. 178/2002 [[#^s-617f59ccb23f201731f80fb4|14 straipsnyje]] įtvirtintais kriterijais. Ar su maistu besiliečiantys gaminiai ir medžiagos yra saugūs, nustatoma vadovaujantis [Reglamento (EB) Nr. 1935/2004 3 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/1935/2004/art_3/par_1/oj) įtvirtintais kriterijais. ^s-d90c76c93ede20f99cd2aa97
 Straipsnio dalies pakeitimai:
 Nr. IX-937, 2002-06-06, Žin., 2002, Nr. 64-2574 (2002-06-26), i. k. [[latest/TAR.9F2F0CB0B560|1021010ISTA00IX-937]]
 Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
@@ -839,7 +839,7 @@ Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
 
 
 
-7. Nustačiusi šio įstatymo ar kitų teisės aktų pažeidimus, Valstybinė maisto ir veterinarijos tarnyba jos direktoriaus nustatyta tvarka taip pat turi teisę pagal kompetenciją taikyti Reglamento (ES) 2017/625 nustatytas administracinio poveikio priemones: ^s-4c2bc21c328b35e929f3b2c5
+7. Nustačiusi šio įstatymo ar kitų teisės aktų pažeidimus, Valstybinė maisto ir veterinarijos tarnyba jos direktoriaus nustatyta tvarka taip pat turi teisę pagal kompetenciją taikyti [Reglamento (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj) nustatytas administracinio poveikio priemones: ^s-4c2bc21c328b35e929f3b2c5
 
 
 1) laikiną maisto tvarkymo subjekto ar su maistu besiliečiančių gaminių ir medžiagų gamintojo ir (ar) tiekėjo veiklos sustabdymą; ^s-8c77c16939d8f849a2607b9f
@@ -1056,13 +1056,13 @@ Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
 ### 127 straipsnis. Baudų išieškojimas ^s-458f7b20c7798782106f3e0f
 
 
-1. Paskirtos baudos, numatytos šio įstatymo [[#^s-b77c6c70d6326a4c143fc926|122 straipsnyje]], į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo tos dienos, kurią šio įstatymo pažeidėjas gavo nutarimą dėl baudos paskyrimo. Įvertinusi atsakomybėn traukiamo maisto tvarkymo subjekto ar su maistu besiliečiančių gaminių ir medžiagų gamintojo ir (ar) tiekėjo finansinę padėtį ir kitas reikšmingas aplinkybes, jo rašytiniu prašymu Valstybinė maisto ir veterinarijos tarnyba, kai maisto tvarkymo subjektas ar su maistu besiliečiančių gaminių ir medžiagų gamintojas ir (ar) tiekėjas pateikia finansinę padėtį ar kitas reikšmingas aplinkybes pagrindžiančius įrodymus, priimdama nutarimą byloje ir atsižvelgdama į gautą rašytinį prašymą dėl baudos mokėjimo dalimis ir skiriamos baudos dydį, gali leisti paskirtą baudą sumokėti dalimis per nustatytą ne ilgesnį negu dvejų metų laikotarpį. Po nutarimo priėmimo paskirtos baudos mokėjimo tvarkos klausimai sprendžiami [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] nustatyta tvarka. Maisto tvarkymo subjektams, gaminantiems ir (ar) pateikusiems į rinką suklastotą maistą, paskirtos baudos mokėjimas dalimis netaikomas. ^s-ef0a758c97e9346c1e2cf0a1
+1. Paskirtos baudos, numatytos šio įstatymo [[#^s-b77c6c70d6326a4c143fc926|122 straipsnyje]], į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo tos dienos, kurią šio įstatymo pažeidėjas gavo nutarimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) paskyrimo. Įvertinusi atsakomybėn traukiamo maisto tvarkymo subjekto ar su maistu besiliečiančių gaminių ir medžiagų gamintojo ir (ar) tiekėjo finansinę padėtį ir kitas reikšmingas aplinkybes, jo rašytiniu prašymu Valstybinė maisto ir veterinarijos tarnyba, kai maisto tvarkymo subjektas ar su maistu besiliečiančių gaminių ir medžiagų gamintojas ir (ar) tiekėjas pateikia finansinę padėtį ar kitas reikšmingas aplinkybes pagrindžiančius įrodymus, priimdama nutarimą byloje ir atsižvelgdama į gautą rašytinį prašymą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) mokėjimo dalimis ir skiriamos baudos dydį, gali leisti paskirtą baudą sumokėti dalimis per nustatytą ne ilgesnį negu dvejų metų laikotarpį. Po nutarimo priėmimo paskirtos baudos mokėjimo tvarkos klausimai sprendžiami [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] nustatyta tvarka. Maisto tvarkymo subjektams, gaminantiems ir (ar) pateikusiems į rinką suklastotą maistą, paskirtos baudos mokėjimas dalimis netaikomas. ^s-ef0a758c97e9346c1e2cf0a1
 Straipsnio dalies pakeitimai:
 Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
 
 
 
-2. Nesumokėtos baudos išieškomos Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-2c0e9281cdf80539c9533496
+2. Nesumokėtos baudos išieškomos [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-2c0e9281cdf80539c9533496
 
 
 Papildyta skirsniu:
@@ -1119,7 +1119,7 @@ Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
 
 
 
-4. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/625 dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas) (OL 2017 L 95, p. 1). ^s-5dc55845b5523146b8a4e059
+4. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj) dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas) (OL 2017 L 95, p. 1). ^s-5dc55845b5523146b8a4e059
 Papildyta punktu:
 Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
 
@@ -1167,22 +1167,22 @@ Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 [[#^s-91b871a9d59d28963afbdb
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1491, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21250
-Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 1, 2, 3, 4, 5, 7, 9, 10, [[#^s-222eed29d350bab7f0f0381a|11 straipsnių]], priedo pakeitimo ir Įstatymo papildymo ketvirtuoju-1 skirsniu įstatymas
+Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 [[#^s-f2cca652837bca2d63d89433|1]], [[#^s-91b871a9d59d28963afbdbe1|2]], [[#^s-10a9a6ad6fa4b0c7175b2776|3]], [[#^s-53300a40fec18c1edc0177b9|4]], [[#^s-84f60587771f1ae67f0de17f|5]], [[#^s-66ad8c2b56749574db5adcc5|7]], [[#^s-434623f4914d5982c8480c27|9]], [[#^s-b1a58c5a6041ef465a466817|10]], [[#^s-222eed29d350bab7f0f0381a|11]] straipsnių, priedo pakeitimo ir Įstatymo papildymo ketvirtuoju-1 skirsniu įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2204, 2019-06-06, paskelbta TAR 2019-06-17, i. k. 2019-09728
-Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 2, 4, 6, 7, 9, 11, 12, 12-1, 12-2, 12-3, 12-4, 12-7 straipsnių, ketvirtojo-1 skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 4-1, 4-2, 4-3 straipsniais įstatymas
+Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 [[#^s-91b871a9d59d28963afbdbe1|2]], [[#^s-53300a40fec18c1edc0177b9|4]], [[#^s-91c35cf308d9f8a065103024|6]], [[#^s-66ad8c2b56749574db5adcc5|7]], [[#^s-434623f4914d5982c8480c27|9]], [[#^s-222eed29d350bab7f0f0381a|11]], [[#^s-755c01f3d930ab0d9ee6dde4|12]], 12-1, 12-2, 12-3, 12-4, 12-7 straipsnių, ketvirtojo-1 skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 4-1, 4-2, 4-3 straipsniais įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2288, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23078
-Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 2 ir [[#^s-53300a40fec18c1edc0177b9|4 straipsnių]] pakeitimo ir Įstatymo papildymo 6-2 straipsniu įstatymas
+Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 [[#^s-91b871a9d59d28963afbdbe1|2]] ir [[#^s-53300a40fec18c1edc0177b9|4]] straipsnių pakeitimo ir Įstatymo papildymo 6-2 straipsniu įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2506, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05467
-Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 1, 2, 4, 9, 12-2 straipsnių ir ketvirtojo-1 skirsnio pavadinimo pakeitimo įstatymas
+Lietuvos Respublikos maisto įstatymo Nr. VIII-1608 [[#^s-f2cca652837bca2d63d89433|1]], [[#^s-91b871a9d59d28963afbdbe1|2]], [[#^s-53300a40fec18c1edc0177b9|4]], [[#^s-434623f4914d5982c8480c27|9]], 12-2 straipsnių ir ketvirtojo-1 skirsnio pavadinimo pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas

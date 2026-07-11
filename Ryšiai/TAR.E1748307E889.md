@@ -9,8 +9,7 @@ pavadinimas: "Lietuvos Respublikos mokesčių administravimo įstatymo 2, 17, 26
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.3EB34933E485#^s-843baf615009d34b9d00f14c|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - Mokesčių administravimo įstatymo 38 straipsnio
-- [[latest/TAR.3EB34933E485#^s-90a1b2bf3ac81248e84b5df3|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Mokesčių administravimo įstatymo 54, 561, 57 ir 58 straipsnių
+- [[latest/TAR.3EB34933E485#^s-843baf615009d34b9d00f14c|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Mokesčių administravimo įstatymo 38 straipsnyje
 
 ## Šį įstatymą cituoja
 

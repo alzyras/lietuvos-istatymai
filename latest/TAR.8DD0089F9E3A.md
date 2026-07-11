@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Įstatų ratifikavimas ^s-e764f359880d8cc3a130d58e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. sausio 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Centrinės ir Rytų Europos privatizavimo tinklo (CEEPN) įstatus“, ratifikuoja Centrinės ir Rytų Europos privatizavimo tinklo (CEEPN) įstatus, pasirašytus 1997 m. rugsėjo 12 d. Liublianoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. sausio 27 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Centrinės ir Rytų Europos privatizavimo tinklo (CEEPN) įstatus“](https://e-tar.lt/portal/lt/legalAct/TAR.0ACB22D0EFEF), ratifikuoja Centrinės ir Rytų Europos privatizavimo tinklo (CEEPN) įstatus, pasirašytus 1997 m. rugsėjo 12 d. Liublianoje.
 
 
 

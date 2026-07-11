@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-91a317c15eb8416af1d8a446
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. balandžio 8 d. dekretą Nr. 1732, ratifikuoja Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutartį dėl bendradarbiavimo kovojant su organizuotu nusikalstamumu, terorizmu ir kitais sunkiais nusikaltimais, pasirašytą 2001 m. vasario 23 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. balandžio 8 d. dekretą Nr. 1732](https://e-tar.lt/portal/lt/legalAct/TAR.8378CD8309E2), ratifikuoja Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės sutartį dėl bendradarbiavimo kovojant su organizuotu nusikalstamumu, terorizmu ir kitais sunkiais nusikaltimais, pasirašytą 2001 m. vasario 23 d. Vilniuje.
 
 
 

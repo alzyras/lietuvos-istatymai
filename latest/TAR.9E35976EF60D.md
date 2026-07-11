@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-1055045757aceb702088704c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. rugpjūčio 27 d. dekretą Nr. 1871, ratifikuoja Europos kraštovaizdžio konvenciją, pasirašytą 2000 m. spalio 20 d. Florencijoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. rugpjūčio 27 d. dekretą Nr. 1871](https://e-tar.lt/portal/lt/legalAct/TAR.1C3DB0971BF6), ratifikuoja Europos kraštovaizdžio konvenciją, pasirašytą 2000 m. spalio 20 d. Florencijoje.
 
 
 

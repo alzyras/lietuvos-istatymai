@@ -99,7 +99,7 @@ Nr. XV-500, 2025-10-21, paskelbta TAR 2025-10-28, i. k. 2025-17895
 ### 4 straipsnis. Nedarbo draudimu draudžiami asmenys ^s-954f6375ab203d75ab97ee66
 
 
-Šio įstatymo nustatyta tvarka nedarbo draudimu privalomai draudžiami [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio]] 1–4 dalyse, [[#^s-7c80a73a112aaedd304df1ff|6 straipsnio]] 1–4 dalyse nurodyti asmenys ir [[#^s-ae83e9d27e4036b701ebb9ee|5 straipsnio 2 dalyje]] nurodyti individualių įmonių savininkai, mažųjų bendrijų nariai ir ūkinių bendrijų tikrieji nariai.
+Šio įstatymo nustatyta tvarka nedarbo draudimu privalomai draudžiami [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 straipsnio]] [[latest/TAR.0F9036415DBD#^s-93a3ee30cc77f6b9a09f2c88|1]]–[[latest/TAR.0F9036415DBD#^s-7a469a5208f6b36019a05ee3|4]] dalyse, [[#^s-7c80a73a112aaedd304df1ff|6 straipsnio]] [[#^s-f068e99e35e012b5dcfed19a|1]]–4 dalyse nurodyti asmenys ir [[#^s-ae83e9d27e4036b701ebb9ee|5 straipsnio 2 dalyje]] nurodyti individualių įmonių savininkai, mažųjų bendrijų nariai ir ūkinių bendrijų tikrieji nariai.
 
 
 
@@ -140,10 +140,10 @@ Nr. XIV-1532, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24176
 ### 6 straipsnis. Nedarbo draudimo išmokos skyrimo sąlygos ^s-7c80a73a112aaedd304df1ff
 
 
-1. Nedarbo draudimo išmoka skiriama bedarbiais Užimtumo tarnyboje registruotiems asmenims ir pradedama mokėti nuo aštuntos po bedarbio statuso įgijimo dienos, išskyrus šio straipsnio 2 ir [[#^s-c38bf24596f0f363611b45dc|3 dalyse]] nurodytus atvejus. ^s-f068e99e35e012b5dcfed19a
+1. Nedarbo draudimo išmoka skiriama bedarbiais Užimtumo tarnyboje registruotiems asmenims ir pradedama mokėti nuo aštuntos po bedarbio statuso įgijimo dienos, išskyrus šio straipsnio [[#^s-b3c978340f9bff6a5609510e|2]] ir [[#^s-c38bf24596f0f363611b45dc|3]] dalyse nurodytus atvejus. ^s-f068e99e35e012b5dcfed19a
 
 
-2. Bedarbiams, nurodytiems šio įstatymo [[#^s-e15e414e0af475f479e6d138|5 straipsnio 1 dalies]] 1 ir 3 punktuose, atleistiems iš darbo (tarnybos) dėl darbuotojo (tarnautojo) kaltės, nedarbo draudimo išmoka pradedama mokėti praėjus 3 mėnesiams nuo įsiregistravimo Užimtumo tarnyboje dienos, tačiau ne anksčiau negu nuo bedarbio statuso įgijimo dienos. ^s-b3c978340f9bff6a5609510e
+2. Bedarbiams, nurodytiems šio įstatymo [[#^s-e15e414e0af475f479e6d138|5 straipsnio 1 dalies]] [[#^s-6db1bdef3adf6a91791b1913|1]] ir [[#^s-8cd3dab4bb081db8fe40acca|3]] punktuose, atleistiems iš darbo (tarnybos) dėl darbuotojo (tarnautojo) kaltės, nedarbo draudimo išmoka pradedama mokėti praėjus 3 mėnesiams nuo įsiregistravimo Užimtumo tarnyboje dienos, tačiau ne anksčiau negu nuo bedarbio statuso įgijimo dienos. ^s-b3c978340f9bff6a5609510e
 Straipsnio dalies pakeitimai:
 Nr. XIV-2072, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12584
 Nr. XV-500, 2025-10-21, paskelbta TAR 2025-10-28, i. k. 2025-17895
@@ -199,7 +199,7 @@ Nr. XIV-2659, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09700
 3) septintą–devintą nedarbo draudimo išmokos mokėjimo mėnesį – 25 procentai apdraustojo vidutinių mėnesinių draudžiamųjų pajamų. ^s-820c202b151a52552396e80b
 
 
-4. Pratęsiant nedarbo draudimo išmokos mokėjimą šio įstatymo [[#^s-d6d8212403a2eb8763606918|12 straipsnio]] 1, 2 ir [[#^s-92b114cd55095b802c53561b|5 dalyse]] numatytais atvejais, mokama nedarbo draudimo išmoka, kurios dydis lygus mokėjimo termino pabaigos dieną galiojusiam nedarbo draudimo išmokos dydžiui. ^s-c35c06b45a94191b076eac18
+4. Pratęsiant nedarbo draudimo išmokos mokėjimą šio įstatymo [[#^s-d6d8212403a2eb8763606918|12 straipsnio]] [[#^s-516407b8c93d560073fa185b|1]], [[#^s-d3c847f245dacb0cf2529d95|2]] ir [[#^s-9656b2410bd16d7750033de0|5]] dalyse numatytais atvejais, mokama nedarbo draudimo išmoka, kurios dydis lygus mokėjimo termino pabaigos dieną galiojusiam nedarbo draudimo išmokos dydžiui. ^s-c35c06b45a94191b076eac18
 
 
 5. Apdraustojo vidutinės mėnesinės draudžiamosios pajamos apskaičiuojamos kaip 24 mėnesių, praėjusių iki užpraeito kalendorinio mėnesio pabaigos nuo bedarbio statuso įgijimo dienos, apdraustojo draudžiamųjų pajamų vidurkis. Jeigu kurį nors mėnesį draudžiamųjų pajamų nėra, jos prilyginamos nuliui. ^s-92b114cd55095b802c53561b
@@ -319,7 +319,7 @@ Nr. XIV-2072, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12584
 5. Moterims, kurioms nedarbo draudimo išmokos mokėjimo metu suteiktos nėštumo ir gimdymo atostogos, paskirtos nedarbo draudimo išmokos mokėjimo trukmė pratęsiama laikotarpiui, atitinkančiam [[latest/TAR.068516AF734B#^s-fcfce72d7a862af54e16df51|Ligos ir motinystės socialinio draudimo įstatymo 17 straipsnyje]] nustatytą motinystės išmokos nėštumo ir gimdymo atostogų laikotarpiu mokėjimo trukmę. ^s-9656b2410bd16d7750033de0
 
 
-6. Pagrindas šio straipsnio 2 ir [[#^s-9656b2410bd16d7750033de0|5 dalyse]] nurodytiems bedarbiams mokėti nedarbo draudimo išmoką ir (arba) pratęsti jos mokėjimo trukmę yra nedarbingumo pažymėjimas arba nėštumo ir gimdymo atostogų pažymėjimas, išduotas bedarbiui pagal sveikatos apsaugos ministro ir socialinės apsaugos ir darbo ministro patvirtintas Elektroninių nedarbingumo pažymėjimų bei elektroninių nėštumo ir gimdymo atostogų pažymėjimų išdavimo taisykles. ^s-767e0988e9759c875b8e0f1a
+6. Pagrindas šio straipsnio [[#^s-d3c847f245dacb0cf2529d95|2]] ir [[#^s-9656b2410bd16d7750033de0|5]] dalyse nurodytiems bedarbiams mokėti nedarbo draudimo išmoką ir (arba) pratęsti jos mokėjimo trukmę yra nedarbingumo pažymėjimas arba nėštumo ir gimdymo atostogų pažymėjimas, išduotas bedarbiui pagal sveikatos apsaugos ministro ir socialinės apsaugos ir darbo ministro patvirtintas Elektroninių nedarbingumo pažymėjimų bei elektroninių nėštumo ir gimdymo atostogų pažymėjimų išdavimo taisykles. ^s-767e0988e9759c875b8e0f1a
 Straipsnio dalies pakeitimai:
 Nr. XIV-2072, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12584
 
@@ -363,14 +363,14 @@ Nedarbo draudimo išmoka, neišmokėta iki turėjusio į ją teisę asmens mirti
 
 
 1. Jeigu nedarbo draudimo išmoka buvo išmokėta bedarbiui, kuris dirbo nelegalų darbą ar vykdė nedeklaruotą savarankišką veiklą, jis privalo grąžinti nedarbo draudimo išmoką už nelegalaus darbo ar nedeklaruotos savarankiškos veiklos laikotarpį. ^s-d6ebb5d7f219339e3ea3664b
-TAR pastaba: [[#^s-d6ebb5d7f219339e3ea3664b|straipsnio 1 dalies]] nuostata dėl nedarbo socialinio draudimo išmokos grąžinimo, jeigu vykdyta nedeklaruota savarankiška veikla, taikoma bedarbiui, kuris vykdė nedeklaruotą savarankišką veiklą 2024 m. liepos 1 d. ar vėliau.
+TAR pastaba: straipsnio 1 dalies nuostata dėl nedarbo socialinio draudimo išmokos grąžinimo, jeigu vykdyta nedeklaruota savarankiška veikla, taikoma bedarbiui, kuris vykdė nedeklaruotą savarankišką veiklą 2024 m. liepos 1 d. ar vėliau.
 
 
 2. Jeigu neteisėtai gauta nedarbo draudimo išmoka negrąžinama per 3 mėnesius nuo Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus kreipimosi į asmenį dėl susidariusios nedarbo draudimo išmokos permokos grąžinimo, permoka Valstybinio socialinio draudimo fondo valdybos teritorinio skyriaus direktoriaus sprendimu gali būti išieškota (išskaityta) iš bet kurios kitos Valstybinio socialinio draudimo fondo valdybos teritoriniame skyriuje jam paskirtos (mokamos) išmokos arba išieškoma [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo]] nustatyta tvarka. ^s-8d88d89d2a6de792d36ec90e
 
 
 3. Išmokėtos nedarbo draudimo išmokos grąžinti nereikia, jeigu bedarbis, kuris dirba nelegalų darbą, apie tai praneša bent vienai iš [[latest/422c8b5042b811e6a8ae9e1795984391#^s-a62f5eb3646d41ee7eb7330b|Užimtumo įstatymo 55 straipsnyje]] nurodytų institucijų ir bendradarbiauja su šiomis institucijomis, kol jos priima nutarimą. ^s-199cff73f519a787f60cec0e
-TAR pastaba:  [[#^s-199cff73f519a787f60cec0e|straipsnio 3 dalies]] nuostata dėl bedarbio bendradarbiavimo su [[latest/422c8b5042b811e6a8ae9e1795984391#^s-a62f5eb3646d41ee7eb7330b|Lietuvos Respublikos užimtumo įstatymo 55 straipsnyje]] nurodytomis institucijomis, kol jos priima nutarimą, taikoma bedarbiui, kuris atliko šiuos veiksmus 2024 m. liepos 1 d. ar vėliau.
+TAR pastaba:  straipsnio 3 dalies nuostata dėl bedarbio bendradarbiavimo su [[latest/422c8b5042b811e6a8ae9e1795984391#^s-a62f5eb3646d41ee7eb7330b|Lietuvos Respublikos užimtumo įstatymo 55 straipsnyje]] nurodytomis institucijomis, kol jos priima nutarimą, taikoma bedarbiui, kuris atliko šiuos veiksmus 2024 m. liepos 1 d. ar vėliau.
 
 
 Straipsnio pakeitimai:
@@ -505,7 +505,7 @@ priedas
 
 
 
-2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1233 dėl vienos prašymų išduoti vieną leidimą trečiųjų valstybių piliečiams gyventi ir dirbti valstybės narės teritorijoje teikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų valstybių darbuotojų bendrų teisių.
+2024 m. balandžio 24 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1233](https://eur-lex.europa.eu/eli/dir/2024/1233/oj) dėl vienos prašymų išduoti vieną leidimą trečiųjų valstybių piliečiams gyventi ir dirbti valstybės narės teritorijoje teikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų valstybių darbuotojų bendrų teisių.
 
 
 __________________________
@@ -521,7 +521,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
-[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]], ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, [[latest/TAR.94F6B680E8B8|SVEIKATOS DRAUDIMO ĮSTATYMO]], NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO, [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]], VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34, 36, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, [[latest/TAR.A7F77DF94F5D#^s-737ad56397e2a7b754e12bc0|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO]], [[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]], ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, [[latest/TAR.94F6B680E8B8|SVEIKATOS DRAUDIMO ĮSTATYMO]], NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO, [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]], [[latest/TAR.CA0F08EF687E|VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO]], INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO [[latest/TAR.A7F77DF94F5D#^s-f47bd8a85e88a1ed5fdb4426|33]], [[latest/TAR.A7F77DF94F5D#^s-5588e0dd4927669d9163f666|34]], [[latest/TAR.A7F77DF94F5D#^s-3c50246512d269ab920f3de0|36]], [[latest/TAR.A7F77DF94F5D#^s-f3e4bd0c130420115fe58c82|45]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]] [[latest/TAR.9347C8C7E0A3|9]], [[latest/TAR.9347C8C7E0A3|16]], [[latest/TAR.9347C8C7E0A3|28]], [[latest/TAR.9347C8C7E0A3|35]], [[latest/TAR.9347C8C7E0A3|36]], [[latest/TAR.9347C8C7E0A3|40]], [[latest/TAR.9347C8C7E0A3|43]], [[latest/TAR.9347C8C7E0A3|45]], [[latest/TAR.9347C8C7E0A3|49]], [[latest/TAR.9347C8C7E0A3|50]], [[latest/TAR.9347C8C7E0A3|54]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO]], [[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 
 2.
@@ -546,7 +546,7 @@ Nr. X-594, 2006-05-04, Žin., 2006, Nr. 57-2024 (2006-05-20)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-657, 2006-06-08, Žin., 2006, Nr. 72-2674 (2006-06-28)
 [[latest/TAR.1BABB07628F4|NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 8, 18 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo [[#^s-1cdeea4b848a5b616af7da50|3 straipsnio]] 3 ir 8 dalių bei 6 straipsnio 4 dalies pakeitimas įsigalioja nuo 2006 m. liepos 1 d. Šio įstatymo [[#^s-954f6375ab203d75ab97ee66|4 straipsnio]] papildymas 7 punktu, [[#^s-53401d1e10fd90ff8dc90e6b|5 straipsnio]] 1, 2 ir [[#^s-2e39512a5d730466d01b3504|3 dalių]] papildymas ir pakeitimas, [[#^s-92b114cd55095b802c53561b|8 straipsnio 5 dalies]] pakeitimas bei [[#^s-724feaee87d0db1c98efe9aa|18 straipsnio]] 1 ir [[#^s-50ea4670ba2e927ea56a784a|2 dalių]] pakeitimas įsigalioja nuo 2008 m. sausio 1 d.
+Šio įstatymo [[#^s-1cdeea4b848a5b616af7da50|3 straipsnio]] [[#^s-a3030737749c18d5ee3ff467|3]] ir 8 dalių bei 6 straipsnio 4 dalies pakeitimas įsigalioja nuo 2006 m. liepos 1 d. Šio įstatymo [[#^s-954f6375ab203d75ab97ee66|4 straipsnio]] papildymas 7 punktu, [[#^s-53401d1e10fd90ff8dc90e6b|5 straipsnio]] [[#^s-e15e414e0af475f479e6d138|1]], [[#^s-ae83e9d27e4036b701ebb9ee|2]] ir 3 dalių papildymas ir pakeitimas, [[#^s-92b114cd55095b802c53561b|8 straipsnio 5 dalies]] pakeitimas bei [[#^s-724feaee87d0db1c98efe9aa|18 straipsnio]] [[#^s-1bf4aee96c871121fbf02c7a|1]] ir [[#^s-9005569f7c919df55d5f038c|2]] dalių pakeitimas įsigalioja nuo 2008 m. sausio 1 d.
 Šis įstatymas keistas:
 5.1.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -644,7 +644,7 @@ Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 [[#^s-4ff
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-149, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29782
-Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 3, 4, 6, 14, 15 ir [[#^s-724feaee87d0db1c98efe9aa|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 [[#^s-1cdeea4b848a5b616af7da50|3]], [[#^s-954f6375ab203d75ab97ee66|4]], [[#^s-7c80a73a112aaedd304df1ff|6]], [[#^s-8df4f5f00537ef0c91af6beb|14]], [[#^s-b4e751d95378ed92ece0c56c|15]] ir [[#^s-724feaee87d0db1c98efe9aa|18]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -669,17 +669,17 @@ Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 [[#^s-4ff
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-945, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21633
-Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 5, 6, 8, 10 ir [[#^s-4ff69e79794ff884d6d7c0b6|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 [[#^s-53401d1e10fd90ff8dc90e6b|5]], [[#^s-7c80a73a112aaedd304df1ff|6]], [[#^s-311b9c473749770019de08f2|8]], [[#^s-89e2c03ba26701357fe73db1|10]] ir [[#^s-4ff69e79794ff884d6d7c0b6|11]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1340, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11436
-Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 2, 3, 6, 8, 13, 15 ir [[#^s-a99449edddfea8ded72f17d0|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 [[#^s-ccbfc1a96e88476508b341a7|2]], [[#^s-1cdeea4b848a5b616af7da50|3]], [[#^s-7c80a73a112aaedd304df1ff|6]], [[#^s-311b9c473749770019de08f2|8]], [[#^s-c749309ca222528bb05fadd1|13]], [[#^s-b4e751d95378ed92ece0c56c|15]] ir [[#^s-a99449edddfea8ded72f17d0|19]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2652, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20993
-Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 7, 8, 12, 13, 15, 17 ir [[#^s-724feaee87d0db1c98efe9aa|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 [[#^s-67c010ec87f5de690c816ceb|7]], [[#^s-311b9c473749770019de08f2|8]], [[#^s-d6d8212403a2eb8763606918|12]], [[#^s-c749309ca222528bb05fadd1|13]], [[#^s-b4e751d95378ed92ece0c56c|15]], [[#^s-42d45c506c01b2d5f862e97b|17]] ir [[#^s-724feaee87d0db1c98efe9aa|18]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -699,17 +699,17 @@ Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 [[#^s-c74
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-754, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26586
-Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 2 ir [[#^s-a99449edddfea8ded72f17d0|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 [[#^s-ccbfc1a96e88476508b341a7|2]] ir [[#^s-a99449edddfea8ded72f17d0|19]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1532, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24176
-Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 5, 6, 8, 10, 11 ir [[#^s-724feaee87d0db1c98efe9aa|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 [[#^s-53401d1e10fd90ff8dc90e6b|5]], [[#^s-7c80a73a112aaedd304df1ff|6]], [[#^s-311b9c473749770019de08f2|8]], [[#^s-89e2c03ba26701357fe73db1|10]], [[#^s-4ff69e79794ff884d6d7c0b6|11]] ir [[#^s-724feaee87d0db1c98efe9aa|18]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2072, 2023-06-15, paskelbta TAR 2023-06-23, i. k. 2023-12584
-Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 6, 8 ir [[#^s-d6d8212403a2eb8763606918|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 [[#^s-7c80a73a112aaedd304df1ff|6]], [[#^s-311b9c473749770019de08f2|8]] ir [[#^s-d6d8212403a2eb8763606918|12]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -719,7 +719,7 @@ Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 [[#^s-a99
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2659, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09700
-Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 7 ir [[#^s-b4e751d95378ed92ece0c56c|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 [[#^s-67c010ec87f5de690c816ceb|7]] ir [[#^s-b4e751d95378ed92ece0c56c|15]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -729,4 +729,4 @@ Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 [[#^s-534
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-500, 2025-10-21, paskelbta TAR 2025-10-28, i. k. 2025-17895
-Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 1, 3, 5, 6, 8, 9, 11, 12, 17, [[#^s-442ecdaaddfb9f937206c16f|21 straipsnių]] pakeitimo, Įstatymo papildymo priedu ir [[#^s-89e2c03ba26701357fe73db1|10 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos nedarbo socialinio draudimo įstatymo Nr. IX-1904 [[#^s-f497c5289210bc970067abf3|1]], [[#^s-1cdeea4b848a5b616af7da50|3]], [[#^s-53401d1e10fd90ff8dc90e6b|5]], [[#^s-7c80a73a112aaedd304df1ff|6]], [[#^s-311b9c473749770019de08f2|8]], [[#^s-dad13e315fdbcbfad8d8da5e|9]], [[#^s-4ff69e79794ff884d6d7c0b6|11]], [[#^s-d6d8212403a2eb8763606918|12]], [[#^s-42d45c506c01b2d5f862e97b|17]], [[#^s-442ecdaaddfb9f937206c16f|21]] straipsnių pakeitimo, Įstatymo papildymo priedu ir [[#^s-89e2c03ba26701357fe73db1|10 straipsnio]] pripažinimo netekusiu galios įstatymas

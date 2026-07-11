@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos Seimo kontrolierių įstatymo 7, 25, 28 strai
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.EC01522BCE65|Lietuvos Respublikos Seimo kontrolierių įstatymas]] - Lietuvos Respublikos Seimo kontrolierių įstatymo 9 straipsnio 4 dalies
 
 ## Šį įstatymą cituoja
 

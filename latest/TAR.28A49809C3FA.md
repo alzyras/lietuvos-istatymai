@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos pakeitimų ir Protokolo ratifikavimas ^s-a7bbe8532398a9e0ed5b497a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2010 m. liepos 9 d. dekretą Nr. 1K-419, ratifikuoja 1991 m. Konvencijos dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste, priimtos 1991 m. vasario 25 d. Espo, pirmąjį pakeitimą, priimtą 2001 m. vasario 27 d. Sofijoje, ir antrąjį pakeitimą, priimtą 2004 m. birželio 4 d. Kavtate, ir 1991 m. Konvencijos dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste, priimtos 1991 m. vasario 25 d. Espo, Strateginio aplinkos vertinimo protokolą, priimtą 2003 m. gegužės 21 d. Kijeve.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2010 m. liepos 9 d. dekretą Nr. 1K-419](https://e-tar.lt/portal/lt/legalAct/TAR.30C03DF4455B), ratifikuoja 1991 m. Konvencijos dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste, priimtos 1991 m. vasario 25 d. Espo, pirmąjį pakeitimą, priimtą 2001 m. vasario 27 d. Sofijoje, ir antrąjį pakeitimą, priimtą 2004 m. birželio 4 d. Kavtate, ir 1991 m. Konvencijos dėl poveikio aplinkai vertinimo tarpvalstybiniame kontekste, priimtos 1991 m. vasario 25 d. Espo, Strateginio aplinkos vertinimo protokolą, priimtą 2003 m. gegužės 21 d. Kijeve.
 
 
 

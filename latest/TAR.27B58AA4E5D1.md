@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-fabcdfb90166693a3c1c46cd
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2001 m. birželio 11 d. dekretą Nr.1354, ratifikuoja Lietuvos Respublikos Vyriausybės ir Indijos Respublikos Vyriausybės susitarimą dėl oro susisiekimo, pasirašytą 2001 m. vasario 20 d. Niu Delyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2001 m. birželio 11 d. dekretą Nr.1354](https://e-tar.lt/portal/lt/legalAct/TAR.FC59B336DD76), ratifikuoja Lietuvos Respublikos Vyriausybės ir Indijos Respublikos Vyriausybės susitarimą dėl oro susisiekimo, pasirašytą 2001 m. vasario 20 d. Niu Delyje.
 
 
 

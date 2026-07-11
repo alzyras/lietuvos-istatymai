@@ -70,7 +70,7 @@ Vilnius
 2. 34 straipsnio 11 dalyje vietoj žodžio ir skaičiaus „ir 4“ įrašyti skaičius ir žodį „4 ir 9“ ir šią dalį išdėstyti taip: ^s-2c55be1739bc8fe2bf662814
 
 
-„11. Baudas už šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7–12 punktuose, [[#^s-2c55be1739bc8fe2bf662814|2 dalies]] 2, 3, 6–10 punktuose, 5-11 dalyse, 18 straipsnio 1, 3, 4 ir 9 dalyse nustatytų reikalavimų nesilaikymą skiria Tarnyba ir policija. Policijos vardu skirti baudas turi teisę policijos įstaigų vadovai ar jų įgalioti asmenys.“
+„11. Baudas už šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7–12 punktuose, 2 dalies 2, 3, 6–10 punktuose, 5-11 dalyse, 18 straipsnio 1, 3, 4 ir 9 dalyse nustatytų reikalavimų nesilaikymą skiria Tarnyba ir policija. Policijos vardu skirti baudas turi teisę policijos įstaigų vadovai ar jų įgalioti asmenys.“
 
 
 

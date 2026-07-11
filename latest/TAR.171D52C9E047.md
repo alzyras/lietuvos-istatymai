@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-69c13b01dacc6eaa0d0fe716
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2012 m. rugsėjo 21 d. dekretą Nr. 1K-1215, ratifikuoja 2012 m. gegužės 16 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimą dėl buvusios SSRS draudimo stažo įskaitymo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2012 m. rugsėjo 21 d. dekretą Nr. 1K-1215](https://e-tar.lt/portal/lt/legalAct/TAR.F733D02C3590), ratifikuoja 2012 m. gegužės 16 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimą dėl buvusios SSRS draudimo stažo įskaitymo.
 
 
 

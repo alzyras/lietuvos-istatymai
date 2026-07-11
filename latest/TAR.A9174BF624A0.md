@@ -76,13 +76,13 @@ Papildyti Įstatymą 111 straipsniu:
 ### 3 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-4e2b08e56bc063b5c4869ae0
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2, 3 ir [[#^s-dd3da940a7661d61f229a4fa|4 dalis]], įsigalioja 2012 m. sausio 1 d. ^s-a864747e40f6423b5c55c053
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-0acc66354d94f0b72c73319e|2]], [[#^s-ecd95710934512459e6b2ff2|3]] ir [[#^s-dd3da940a7661d61f229a4fa|4]] dalis, įsigalioja 2012 m. sausio 1 d. ^s-a864747e40f6423b5c55c053
 
 
 2. Specialiųjų tyrimų tarnybos direktoriaus pirmojo pavaduotojo ir Specialiųjų tyrimų tarnybos direktoriaus pavaduotojų, paskirtų į pareigas iki šio įstatymo įsigaliojimo, penkerių metų kadencija prasideda nuo šio įstatymo įsigaliojimo dienos. ^s-0acc66354d94f0b72c73319e
 
 
-3. Specialiųjų tyrimų tarnybos struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovų ir pavaduotojų, paskirtų į pareigas iki šio įstatymo įsigaliojimo ir šias pareigas ėjusių daugiau kaip penkerius metus, tarnyba prilyginama vienam Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 111 straipsnyje nustatytam tarnybos laikotarpiui, o šias pareigas ėjusių daugiau kaip dešimt metų – dviem tarnybos laikotarpiams. ^s-ecd95710934512459e6b2ff2
+3. Specialiųjų tyrimų tarnybos struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovų ir pavaduotojų, paskirtų į pareigas iki šio įstatymo įsigaliojimo ir šias pareigas ėjusių daugiau kaip penkerius metus, tarnyba prilyginama vienam [[latest/TAR.9C9FA25983BC|Lietuvos Respublikos specialiųjų tyrimų tarnybos įstatymo 111 straipsnyje]] nustatytam tarnybos laikotarpiui, o šias pareigas ėjusių daugiau kaip dešimt metų – dviem tarnybos laikotarpiams. ^s-ecd95710934512459e6b2ff2
 
 
 4. Specialiųjų tyrimų tarnybos direktorius, atsižvelgdamas į tarnybinį būtinumą, daugiau negu dešimt metų tas pačias pareigas ėjusį Specialiųjų tyrimų tarnybos struktūrinio padalinio, nesančio kitame struktūriniame padalinyje, vadovą ar pavaduotoją, kurių tarnyba įvertinama labai gerai, gali į šias pareigas pakartotinai skirti ne ilgesniam kaip dvejų metų laikotarpiui. ^s-dd3da940a7661d61f229a4fa

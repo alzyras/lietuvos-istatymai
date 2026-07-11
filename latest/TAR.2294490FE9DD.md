@@ -88,7 +88,7 @@ BENDROSIOS NUOSTATOS
 6. Specialiosios muitinės priemonės – muitinės ginkluotėje esamos lazdos, antrankiai, surišimo priemonės, transporto priverstinio sustabdymo ir kitos įstatymais leidžiamos priemonės. ^s-448a7a56bfe830b502fe9c1e
 
 
-7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) Nr. 952/2013, Reglamente (ES) 2015/2446, Reglamente (ES) 2015/2447, [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]], Lietuvos Respublikos vidaus tarnybos statute, [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme]], [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatyme]], [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme]] ir [[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme]]. ^s-486e427f3f69aa057c6c0f23
+7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) Nr. 952/2013, [Reglamente (ES) 2015/2446](https://eur-lex.europa.eu/eli/reg/2015/2446/oj), [Reglamente (ES) 2015/2447](https://eur-lex.europa.eu/eli/reg/2015/2447/oj), [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]], Lietuvos Respublikos vidaus tarnybos statute, [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme]], [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatyme]], [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme]] ir [[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme]]. ^s-486e427f3f69aa057c6c0f23
 Straipsnio dalies pakeitimai:
 Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
 Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
@@ -125,10 +125,10 @@ Muitinės įgyvendinamuose Europos Sąjungos teisės aktuose nustatytais atvejai
 ### 6 straipsnis. Muitinės kompetencija jos įgyvendinamų Europos Sąjungos teisės aktų taikymo srityje ^s-b2113b826d5267e0e0bd7bde
 
 
-1. Lietuvos Respublikos teritorijoje taikant muitinės įgyvendinamų Europos Sąjungos teisės aktų, kuriuose minima muitinė arba muitinės įstaigos, nuostatas, laikoma, kad šios sąvokos reiškia Lietuvos Respublikos muitinę arba Lietuvos Respublikos muitinės įstaigas ar jų struktūrinius padalinius, nurodytus šio įstatymo 17 ir [[#^s-1279c711ae83176cf273cedc|18 straipsniuose]], jeigu Lietuvos Respublikos teisės aktai nenustato kitaip. ^s-08e85aaccb92aa05653837e8
+1. Lietuvos Respublikos teritorijoje taikant muitinės įgyvendinamų Europos Sąjungos teisės aktų, kuriuose minima muitinė arba muitinės įstaigos, nuostatas, laikoma, kad šios sąvokos reiškia Lietuvos Respublikos muitinę arba Lietuvos Respublikos muitinės įstaigas ar jų struktūrinius padalinius, nurodytus šio įstatymo [[#^s-ff9c2d51ba1a62ae7088d9ce|17]] ir [[#^s-1279c711ae83176cf273cedc|18]] straipsniuose, jeigu Lietuvos Respublikos teisės aktai nenustato kitaip. ^s-08e85aaccb92aa05653837e8
 
 
-2. Muitinės įstaigų ir jų struktūrinių padalinių, nurodytų šio įstatymo 17 ir [[#^s-1279c711ae83176cf273cedc|18 straipsniuose]], kompetenciją muitinės įgyvendinamų Europos Sąjungos teisės aktų taikymo srityje nustato Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos (toliau – Muitinės departamentas), jeigu už jų nuostatų įgyvendinimą atsakingos muitinės įstaigos ar jų struktūriniai padaliniai atskirai nenurodyti šio įstatymo [[#^s-c02d44e9c3bb51dbf3071c73|4 straipsnio]] 1, 2 ir 3 punktuose nurodytuose teisės aktuose. ^s-e47eb51d5073457a3f19f5f7
+2. Muitinės įstaigų ir jų struktūrinių padalinių, nurodytų šio įstatymo [[#^s-ff9c2d51ba1a62ae7088d9ce|17]] ir [[#^s-1279c711ae83176cf273cedc|18]] straipsniuose, kompetenciją muitinės įgyvendinamų Europos Sąjungos teisės aktų taikymo srityje nustato Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos (toliau – Muitinės departamentas), jeigu už jų nuostatų įgyvendinimą atsakingos muitinės įstaigos ar jų struktūriniai padaliniai atskirai nenurodyti šio įstatymo [[#^s-c02d44e9c3bb51dbf3071c73|4 straipsnio]] 1, 2 ir 3 punktuose nurodytuose teisės aktuose. ^s-e47eb51d5073457a3f19f5f7
 
 
 3. Lietuvos Respublikos teritorijoje taikant muitinės įgyvendinamų Europos Sąjungos teisės aktų nuostatas, suteikiančias muitinei sprendimo priėmimo teisę, sprendimus priima arba atitinkamų nuostatų taikymo Lietuvos Respublikoje tvarką nustato Muitinės departamento generalinis direktorius arba jo įgaliotos muitinės įstaigos direktorius. ^s-db632e874660c313e335f7e3
@@ -143,7 +143,7 @@ MUITINĖS VEIKLA
 ### 7 straipsnis. Muitinės veiklos teisiniai pagrindai ^s-85c2b1cf2c9d637198c363af
 
 
-Muitinė savo veiklą grindžia Lietuvos Respublikos Konstitucija, teisės aktais, nurodytais šio įstatymo [[#^s-c02d44e9c3bb51dbf3071c73|4 straipsnyje]], šiuo įstatymu, Lietuvos Respublikos vidaus tarnybos statutu, [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymu]], [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymu]], kitais Europos Sąjungos ir Lietuvos Respublikos teisės aktais.
+Muitinė savo veiklą grindžia [Lietuvos Respublikos Konstitucija, teisės aktais, nurodytais šio įstatymo 4 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo įstatymu, Lietuvos Respublikos vidaus tarnybos statutu, [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymu]], [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymu]], kitais Europos Sąjungos ir Lietuvos Respublikos teisės aktais.
 
 
 Straipsnio pakeitimai:
@@ -440,7 +440,7 @@ Nr. XIV-2407, 2023-12-19, paskelbta TAR 2023-12-29, i. k. 2023-25920
 4. Teritorinės muitinės ir specialiosios muitinės įstaigos nuostatus tvirtina Muitinės departamento generalinis direktorius. ^s-32974dc2a38632c7e9900023
 
 
-5. Teritorinės muitinės ir specialiosios muitinės įstaigos naudojasi šio įstatymo [[#^s-6c61e791b7993a935461bae9|15 straipsnio 3 dalies]] 2, 3, 4 ir 5 punktuose nurodytomis teisėmis tiek, kiek tai būtina Muitinės departamento pavestoms jų funkcijoms atlikti. ^s-2ec9c0cff18d933cdb3425ed
+5. Teritorinės muitinės ir specialiosios muitinės įstaigos naudojasi šio įstatymo [[#^s-6c61e791b7993a935461bae9|15 straipsnio 3 dalies]] [[#^s-79bd454e2c601f783a1622e5|2]], [[#^s-3c865c8df2f178fd561be93b|3]], [[#^s-75ae70469a8fec7cbc6327aa|4]] ir [[#^s-0f18e4325b3673d3493b92f6|5]] punktuose nurodytomis teisėmis tiek, kiek tai būtina Muitinės departamento pavestoms jų funkcijoms atlikti. ^s-2ec9c0cff18d933cdb3425ed
 
 
 
@@ -628,7 +628,7 @@ MUITINĖS PAREIGŪNAI
 10) naudotis kitomis [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekse]], [[latest/TAR.3B8E4F16C815|Lietuvos Respublikos kriminalinės žvalgybos įstatyme]] ir kituose Lietuvos Respublikos įstatymuose nustatytomis teisėmis. ^s-b1d760b9290d7d36b16dad93
 
 
-2. Muitinės pareigūnas, turintis įgaliojimus vykdyti kriminalinę žvalgybą ir (arba) atlikti ikiteisminį tyrimą, tirdamas nusikalstamas veikas, be pareigų, išvardytų šio įstatymo [[#^s-cd9b647f75ecdb86acc61f13|19 straipsnio]] 1 ir 3 dalyse, taip pat privalo vykdyti kitas pareigas, numatytas [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekse]], [[latest/TAR.3B8E4F16C815|Lietuvos Respublikos kriminalinės žvalgybos įstatyme]] ir kituose Lietuvos Respublikos įstatymuose. ^s-4b668a6f015ee43981fd4d1c
+2. Muitinės pareigūnas, turintis įgaliojimus vykdyti kriminalinę žvalgybą ir (arba) atlikti ikiteisminį tyrimą, tirdamas nusikalstamas veikas, be pareigų, išvardytų šio įstatymo [[#^s-cd9b647f75ecdb86acc61f13|19 straipsnio]] [[#^s-66cea31832ec3910d4d46d37|1]] ir 3 dalyse, taip pat privalo vykdyti kitas pareigas, numatytas [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekse]], [[latest/TAR.3B8E4F16C815|Lietuvos Respublikos kriminalinės žvalgybos įstatyme]] ir kituose Lietuvos Respublikos įstatymuose. ^s-4b668a6f015ee43981fd4d1c
 
 
 
@@ -658,7 +658,7 @@ Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
 
 
 
-2. Psichinę prievartą muitinės pareigūnas turi teisę panaudoti šio straipsnio 4 ir [[#^s-dc5d10ed0f804400dbf4e915|5 dalyse]] arba šio įstatymo [[#^s-d030eaaa46017b6d6202f53c|23 straipsnio 2 dalyje]] išvardytais atvejais. ^s-c15525007b8a305db2a8575b
+2. Psichinę prievartą muitinės pareigūnas turi teisę panaudoti šio straipsnio [[#^s-3e1bbd74f02c6482ba969056|4]] ir [[#^s-dc5d10ed0f804400dbf4e915|5]] dalyse arba šio įstatymo [[#^s-d030eaaa46017b6d6202f53c|23 straipsnio 2 dalyje]] išvardytais atvejais. ^s-c15525007b8a305db2a8575b
 
 
 3. Fizinė prievarta naudojama tik tada, kai psichinė prievarta buvo neveiksminga arba neįmanoma arba kai bet koks delsimas kelia pavojų muitinės pareigūno ar kito asmens gyvybei, sveikatai ar turtui arba aviacijos saugumui, Lietuvos Respublikos valstybės sienos apsaugai, nacionaliniam saugumui užtikrinti svarbioms įmonėms, nacionaliniam saugumui užtikrinti svarbiems įrenginiams ir turtui ar kitiems muitinės pareigūno saugomiems objektams. ^s-a620b32d6f5c857d54ff41ed
@@ -790,7 +790,7 @@ Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
 6. Jeigu neišvengiamo pavojaus muitinės pareigūno ar kitų asmenų gyvybei ar sveikatai nėra, šaunamąjį ginklą panaudoti draudžiama: ^s-aa9328e30b238c1161a023be
 
 
-1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus [[#^s-d030eaaa46017b6d6202f53c|šio straipsnio 2 dalies]] 1 ir [[#^s-63090930fca216ca54439075|2 punktuose]] nurodytus atvejus; ^s-d1191c24152b6bc686794b2e
+1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus [[#^s-d030eaaa46017b6d6202f53c|šio straipsnio 2 dalies]] 1 ir [[#^s-63090930fca216ca54439075|2]] punktuose nurodytus atvejus; ^s-d1191c24152b6bc686794b2e
 
 
 2) patalpose, kuriose yra sprogstamųjų medžiagų, lengvai užsidegančių medžiagų, galinčių sukelti pavojų asmens gyvybei bei sveikatai ar visuomenės saugumui. ^s-63090930fca216ca54439075
@@ -802,7 +802,7 @@ Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
 8. Muitinės pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie geba veikti situacijomis, susijusiomis su šaunamojo ginklo panaudojimu. Muitinės pareigūnų parengimo ir tikrinimo tvarką nustato Vyriausybė. ^s-b6e9267c07af21a4d966e098
 
 
-9. Šio straipsnio 1, 2 ir [[#^s-336d74a9d0ad20d6cdef2712|3 dalys]] ir 6 dalies 1 punktas netaikomi tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji muitinės priemonė. ^s-5832848c58367b9fc73dca41
+9. Šio straipsnio [[#^s-6dd76b23381a1e6edfa1a978|1]], [[#^s-d030eaaa46017b6d6202f53c|2]] ir [[#^s-336d74a9d0ad20d6cdef2712|3]] dalys ir 6 dalies 1 punktas netaikomi tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji muitinės priemonė. ^s-5832848c58367b9fc73dca41
 
 
 
@@ -826,7 +826,7 @@ ASMENŲ TEISĖS IR PAREIGOS, SUSIJUSIOS SU MUITINĖS ĮGYVENDINAMŲ TEISĖS AKT�
 2. Muitinės departamentas arba kita Muitinės departamento generalinio direktoriaus įgaliota muitinės įstaiga suteikia [[#^s-3d7567fbbc81cbe02ad58f49|šio straipsnio 1 dalyje]] nurodytiems asmenims identifikavimo kodus, kuriuos jie naudoja teikdami atstovavimo muitinėje paslaugas Lietuvos Respublikos teritorijoje. Suteikiant identifikavimo kodus, jokios papildomos sąlygos ar reikalavimai juos naudosiantiems asmenims netaikomi. ^s-7a77f0bc6416459b7bb82c3d
 
 
-3. Pašto paslaugų teikėjai, apibrėžti Reglamento (ES) 2015/2446 1 straipsnio 25 punkte, arba įmonės, gabenančios skubias siuntas, siunčiamas per pasiuntinių (kurjerių) tarptautinį tinklą, laikomi turinčiais jų siuntėjų arba gavėjų įgaliojimą deklaruoti tokias siuntas, kurių vertė neviršija 1 000 eurų, o neto masė neviršija 1 000 kilogramų, savo vardu, jeigu šie siuntėjai arba gavėjai nėra iš anksto informavę pašto paslaugų teikėjų arba įmonių, gabenančių skubias siuntas, siunčiamas per pasiuntinių (kurjerių) tarptautinį tinklą, kad pageidauja deklaruoti jų siunčiamas arba gaunamas siuntas patys arba paskirdami kitą atstovą muitinėje. ^s-e503261b5b43f799411c49d1
+3. Pašto paslaugų teikėjai, apibrėžti [Reglamento (ES) 2015/2446 1 straipsnio](https://eur-lex.europa.eu/eli/reg/2015/2446/art_1/oj) 25 punkte, arba įmonės, gabenančios skubias siuntas, siunčiamas per pasiuntinių (kurjerių) tarptautinį tinklą, laikomi turinčiais jų siuntėjų arba gavėjų įgaliojimą deklaruoti tokias siuntas, kurių vertė neviršija 1 000 eurų, o neto masė neviršija 1 000 kilogramų, savo vardu, jeigu šie siuntėjai arba gavėjai nėra iš anksto informavę pašto paslaugų teikėjų arba įmonių, gabenančių skubias siuntas, siunčiamas per pasiuntinių (kurjerių) tarptautinį tinklą, kad pageidauja deklaruoti jų siunčiamas arba gaunamas siuntas patys arba paskirdami kitą atstovą muitinėje. ^s-e503261b5b43f799411c49d1
 Straipsnio dalies pakeitimai:
 Nr. XIII-3347, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23934
 
@@ -859,7 +859,7 @@ Nr. XIII-3347, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23934
 4. Tvarkant [[#^s-ded5580c68a1b2d613a0c157|šio straipsnio 3 dalyje]] nurodytą apskaitą, be kitų muitinės įgyvendinamuose teisės aktuose numatytų duomenų, turi būti registruojami su atitinkamomis operacijomis susiję muitinės ir finansinės atskaitomybės dokumentai. ^s-d79e1e4e73d278edb94365f9
 
 
-5. Šio straipsnio 1 ir [[#^s-ded5580c68a1b2d613a0c157|3 dalyse]] nurodyti asmenys privalo, kai muitinė tikrina jų saugomus dokumentus ir informaciją, neatlygintinai teikti tokiam tikrinimui atlikti reikalingą pagalbą ir paaiškinimus. Jeigu [[#^s-ded5580c68a1b2d613a0c157|šio straipsnio 3 dalyje]] nurodytą apskaitą pagal sutartį tvarko kitas asmuo, jis taip pat privalo neatlygintinai teikti pagalbą ir paaiškinimus, reikalingus šios apskaitos dokumentų ir duomenų muitiniam tikrinimui atlikti. ^s-e1cb153fe81869c19ce96fe1
+5. Šio straipsnio [[#^s-e781be6d65e0ad4813029421|1]] ir [[#^s-ded5580c68a1b2d613a0c157|3]] dalyse nurodyti asmenys privalo, kai muitinė tikrina jų saugomus dokumentus ir informaciją, neatlygintinai teikti tokiam tikrinimui atlikti reikalingą pagalbą ir paaiškinimus. Jeigu [[#^s-ded5580c68a1b2d613a0c157|šio straipsnio 3 dalyje]] nurodytą apskaitą pagal sutartį tvarko kitas asmuo, jis taip pat privalo neatlygintinai teikti pagalbą ir paaiškinimus, reikalingus šios apskaitos dokumentų ir duomenų muitiniam tikrinimui atlikti. ^s-e1cb153fe81869c19ce96fe1
 
 
 
@@ -888,7 +888,7 @@ Nr. XIII-3347, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23934
 ### 27 straipsnis. Identifikavimo priemonės ^s-626ac5e15a35980984afd031
 
 
-1. Muitinės plombų ir kitų prekių identifikavimo priemonių charakteristikas (pavyzdžių aprašymus), vadovaudamasis Reglamento (ES) Nr. 952/2013 192 straipsnio 1 dalies ir Reglamento (ES) 2015/2447 301, 302, 317 ir 318 straipsnių nuostatomis ir kitais muitų teisės aktais, nustato Muitinės departamento generalinis direktorius. ^s-d7585c1dad2b6aec1eb3bb47
+1. Muitinės plombų ir kitų prekių identifikavimo priemonių charakteristikas (pavyzdžių aprašymus), vadovaudamasis Reglamento (ES) Nr. 952/2013 192 straipsnio 1 dalies ir [Reglamento (ES) 2015/2447](https://eur-lex.europa.eu/eli/reg/2015/2447/oj) 301, 302, 317 ir 318 straipsnių nuostatomis ir kitais muitų teisės aktais, nustato Muitinės departamento generalinis direktorius. ^s-d7585c1dad2b6aec1eb3bb47
 
 
 2. Identifikavimo priemonės taip pat gali būti naudojamos muitinės formalumams atlikti naudojamiems dokumentams žymėti, kai būtina kontroliuoti dokumentų tapatumą. Šios priemonės turi būti naudojamos taip, kad nepablogėtų dokumento įskaitomumas. ^s-60b60750773d25670b0bdf78
@@ -910,7 +910,7 @@ Nr. XIII-3347, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23934
 3. Muitinės formalumams atlikti naudojamų dokumentų blankų formas ir (arba) jų spausdinimo reikalavimus nustato Muitinės departamento generalinis direktorius, vadovaudamasis muitų teisės aktais ir dokumentų spausdinimo tvarką reglamentuojančiais Lietuvos Respublikos teisės aktais. ^s-53cc6af1cdade0a851bca61d
 
 
-4. Šio straipsnio 1, 2 ir [[#^s-53cc6af1cdade0a851bca61d|3 dalių]] nuostatos netaikomos, kai muitinės įgyvendinami teisės aktai, nurodyti šio įstatymo [[#^s-c02d44e9c3bb51dbf3071c73|4 straipsnio]] 1 ir 2 punktuose, arba Lietuvos Respublikos tarptautinės sutartys nustato kitokią muitinės formalumams atlikti naudojamų dokumentų blankų formų bei jų spausdinimo reikalavimų nustatymo ir (arba) šių dokumentų spausdinimo tvarką. ^s-05faf830a9721c8fdafe515b
+4. Šio straipsnio [[#^s-8aa73bf22c28e829fc70af57|1]], [[#^s-525e29fa467b040b3184944b|2]] ir [[#^s-53cc6af1cdade0a851bca61d|3]] dalių nuostatos netaikomos, kai muitinės įgyvendinami teisės aktai, nurodyti šio įstatymo [[#^s-c02d44e9c3bb51dbf3071c73|4 straipsnio]] 1 ir 2 punktuose, arba Lietuvos Respublikos tarptautinės sutartys nustato kitokią muitinės formalumams atlikti naudojamų dokumentų blankų formų bei jų spausdinimo reikalavimų nustatymo ir (arba) šių dokumentų spausdinimo tvarką. ^s-05faf830a9721c8fdafe515b
 
 
 
@@ -922,7 +922,7 @@ MUITINĖS ĮSTAIGŲ SPRENDIMAI IR SKUNDAI, JŲ PATEIKIMAS, NAGRINĖJIMAS
 ### 29 straipsnis. Muitinės įstaigų sprendimai ^s-2a24a5492f2509ac5413cc6d
 
 
-Muitinės įstaigų sprendimai priimami pagal Reglamento (ES) Nr. 952/2013 22, 23, 27, 28, 29 ir [[#^s-e35c5def8f894f25bd643881|30 straipsnius]].
+Muitinės įstaigų sprendimai priimami pagal Reglamento (ES) Nr. 952/2013 [[#^s-924b122bc133b403b45abe03|22]], [[#^s-169a5a58fea51f279142f5bf|23]], [[#^s-626ac5e15a35980984afd031|27]], [[#^s-c7c1bfce1122cd74b0af74aa|28]], 29 ir [[#^s-e35c5def8f894f25bd643881|30]] straipsnius.
 
 
 
@@ -956,7 +956,7 @@ Muitinės įstaigų sprendimai priimami pagal Reglamento (ES) Nr. 952/2013 22, 2
 4. Tais atvejais, kai sprendimų ir (arba) dokumentų asmeniui įteikti [[#^s-47cad271eaba8a1a7f447678|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytais būdais neįmanoma, muitinės įstaiga muitinės interneto svetainėje paskelbia pranešimą, kuriame asmeniui (jo atstovui) per nustatytą terminą (ne trumpesnį kaip 10 dienų nuo pranešimo paskelbimo dienos) pasiūloma atvykti į muitinės įstaigą atsiimti atitinkamo dokumento [[#^s-c6932bf60621632daa1f6072|šio straipsnio 1 dalies 1 punkte]] nurodytu būdu. Jeigu asmuo per nustatytą terminą neatvyksta arba nesusisiekia su muitinės įstaiga kitu būdu, dokumentas laikomas įteiktu minėto pranešimo paskelbimo dieną. Šioje dalyje nurodytų procedūrų Muitinės departamentas neprivalo taikyti šio įstatymo [[#^s-acae381fad61ea4e8f1ca474|35 straipsnyje]] nurodytais atvejais. ^s-4b15ddfc183d6845d71b6238
 
 
-5. Sprendimų įteikimo diena, nustatyta šio straipsnio 2, 3 ir [[#^s-4b15ddfc183d6845d71b6238|4 dalyse]], yra laikoma Reglamento (ES) Nr. 952/2013 [[#^s-3e1bbd74f02c6482ba969056|22 straipsnio 4 dalyje]] nustatyta sprendimo įsigaliojimo diena. ^s-4b2c36f081c8a72a96a33cdd
+5. Sprendimų įteikimo diena, nustatyta šio straipsnio [[#^s-29d208605f6f7b4b9d19a0b0|2]], [[#^s-05b8d8c9172afb65da37a195|3]] ir [[#^s-4b15ddfc183d6845d71b6238|4]] dalyse, yra laikoma Reglamento (ES) Nr. 952/2013 [[#^s-3e1bbd74f02c6482ba969056|22 straipsnio 4 dalyje]] nustatyta sprendimo įsigaliojimo diena. ^s-4b2c36f081c8a72a96a33cdd
 
 
 
@@ -1030,7 +1030,7 @@ Reglamento (ES) Nr. 952/2013 [[#^s-18d873b81eeffe0ca191df11|45 straipsnio]] nuos
 ### 38 straipsnis. Mokestiniai ir kiti su mokesčiais susiję ginčai ^s-8818898c32c65bbab9d6beab
 
 
-Šio įstatymo 31–[[#^s-5839656fe0f099f3c132ae52|37 straipsniai]] netaikomi mokestiniams ginčams, taip pat mokesčių mokėtojo skundams dėl mokesčių administratoriaus sprendimo neatleisti nuo baudų ir (arba) delspinigių mokėjimo ir mokesčių administratoriaus atlikto mokesčių mokėtojo turimos mokesčio permokos įskaitymo, kurie nagrinėjami [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] nustatyta tvarka.
+Šio įstatymo [[#^s-8b7980fcc2d6bae9120eec41|31]]–[[#^s-5839656fe0f099f3c132ae52|37]] straipsniai netaikomi mokestiniams ginčams, taip pat mokesčių mokėtojo skundams dėl mokesčių administratoriaus sprendimo neatleisti nuo baudų ir (arba) delspinigių mokėjimo ir mokesčių administratoriaus atlikto mokesčių mokėtojo turimos mokesčio permokos įskaitymo, kurie nagrinėjami [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] nustatyta tvarka.
 
 
 
@@ -1078,7 +1078,7 @@ ATLEIDIMAS NUO MUITŲ, SKOLA MUITINEI IR GARANTIJOS
 ### 42 straipsnis. Atleidimo nuo muitų sąlygos ir tvarka ^s-f912c136cee64dbeeaaf90e6
 
 
-1. Reglamente (EB) Nr. 1186/2009 ir (arba) jį įgyvendinančiuose Europos Sąjungos teisės aktuose numatytais atvejais, kai Europos Sąjungos valstybėms narėms suteikta sprendimo priėmimo teisė, atleidimo nuo muitų tvarką nustato Vyriausybė arba jos įgaliota institucija. ^s-02219c76d74b73c014f2f968
+1. [Reglamente (EB) Nr. 1186/2009](https://eur-lex.europa.eu/eli/reg/1186/2009/oj) ir (arba) jį įgyvendinančiuose Europos Sąjungos teisės aktuose numatytais atvejais, kai Europos Sąjungos valstybėms narėms suteikta sprendimo priėmimo teisė, atleidimo nuo muitų tvarką nustato Vyriausybė arba jos įgaliota institucija. ^s-02219c76d74b73c014f2f968
 
 
 2. Muitinės departamento generalinis direktorius nustato specialias muitinės priežiūros priemones, būtinas piktnaudžiavimo [[#^s-02219c76d74b73c014f2f968|šio straipsnio 1 dalyje]] nurodytu atleidimu nuo muitų prevencijai. ^s-be4417656a52588fb99c98fb
@@ -1095,7 +1095,7 @@ Jeigu skola muitinei atsirado dėl Reglamento (ES) Nr. 952/2013 103 straipsnio 2
 ### 44 straipsnis. Lietuvos Respublikoje nenaudojamos garantijos formos ^s-706ba9f1f6011518e28818dc
 
 
-Mokestinių prievolių įvykdymui užtikrinti nenaudojamos tos Reglamento (ES) 2015/2446 83 straipsnio 1 dalyje nurodytos garantijos formos, kurių naudojimas nenumatytas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]].
+Mokestinių prievolių įvykdymui užtikrinti nenaudojamos tos [Reglamento (ES) 2015/2446 83 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2015/2446/art_83/par_1/oj) nurodytos garantijos formos, kurių naudojimas nenumatytas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]].
 
 
 
@@ -1132,7 +1132,7 @@ PREKIŲ ĮVEŽIMAS Į SĄJUNGOS MUITŲ TERITORIJĄ IR IŠVEŽIMAS IŠ JOS PER LI
 3) Lietuvos Respublikos teritorijoje laikomoms, perkraunamoms, gabenamoms ar naudojamoms prekėms, kurioms taikomi muitinės įgyvendinami teisės aktai; ^s-076f76c6b9aace0558376f1e
 
 
-4) visoms transporto priemonėms, talpykloms ir pakuotėms, jeigu jose laikomos, gabenamos ar į jas perkraunamos arba gali būti laikomos ar gabenamos šios dalies 1–[[#^s-076f76c6b9aace0558376f1e|3 punktuose]] nurodytos prekės. ^s-3fd12790d3b9b1b234b51719
+4) visoms transporto priemonėms, talpykloms ir pakuotėms, jeigu jose laikomos, gabenamos ar į jas perkraunamos arba gali būti laikomos ar gabenamos šios dalies [[#^s-4d6a2c0639c359511bc01933|1]]–[[#^s-076f76c6b9aace0558376f1e|3]] punktuose nurodytos prekės. ^s-3fd12790d3b9b1b234b51719
 
 
 2. Vyriausybė arba jos įgaliota institucija nustato muitinės priežiūros taikymo tvarką: ^s-c7893b04baf48fb4b3e5bc6e
@@ -1181,7 +1181,7 @@ Nr. XV-249, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11018
 1) muitinės postų muitinio tikrinimo vietose; ^s-6fb223253a8089d05d9129a8
 
 
-2) kitose Muitinės departamento generalinio direktoriaus arba jo įgaliojimu teritorinės muitinės direktoriaus nustatytose prekių pateikimo muitinei vietose, atitinkančiose Reglamento (ES) 2015/2446 115 straipsnio 1 dalyje ir, ją taikant, Muitinės departamento generalinio direktoriaus nustatytus reikalavimus; ^s-2dd174e815b92f6432befbc5
+2) kitose Muitinės departamento generalinio direktoriaus arba jo įgaliojimu teritorinės muitinės direktoriaus nustatytose prekių pateikimo muitinei vietose, atitinkančiose [Reglamento (ES) 2015/2446 115 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2015/2446/art_115/par_1/oj) ir, ją taikant, Muitinės departamento generalinio direktoriaus nustatytus reikalavimus; ^s-2dd174e815b92f6432befbc5
 
 
 3) judančiose transporto priemonėse, kuriose muitinės įgyvendinamų teisės aktų nustatytais atvejais atliekami muitinės formalumai. ^s-b7a1ed71452a4430f90af41c
@@ -1216,10 +1216,10 @@ Lietuvos Respublikos teritorijoje prekės laikinai saugomos:
 1) muitinės postų muitinio tikrinimo vietose; ^s-1645ca3747a1f0f23648e61f
 
 
-2) laikinojo saugojimo sandėliuose, kurių turėjimo sąlygas ir tvarką, vadovaudamasis Reglamento (ES) Nr. 952/2013 148 straipsniu ir Reglamento (ES) 2015/2446 116, 117 ir 118 straipsniais, nustato Muitinės departamento generalinis direktorius; ^s-fc5254637b6325c2b846ac7b
+2) laikinojo saugojimo sandėliuose, kurių turėjimo sąlygas ir tvarką, vadovaudamasis Reglamento (ES) Nr. 952/2013 148 straipsniu ir [Reglamento (ES) 2015/2446](https://eur-lex.europa.eu/eli/reg/2015/2446/oj) 116, 117 ir 118 straipsniais, nustato Muitinės departamento generalinis direktorius; ^s-fc5254637b6325c2b846ac7b
 
 
-3) kitose Muitinės departamento generalinio direktoriaus arba jo įgaliojimu teritorinės muitinės direktoriaus nustatytose prekių laikinojo saugojimo vietose, atitinkančiose Reglamento (ES) 2015/2446 115 straipsnio 2 dalyje ir, ją taikant, Muitinės departamento generalinio direktoriaus nustatytus reikalavimus. ^s-9cc9960cfab82b0412c194bf
+3) kitose Muitinės departamento generalinio direktoriaus arba jo įgaliojimu teritorinės muitinės direktoriaus nustatytose prekių laikinojo saugojimo vietose, atitinkančiose [Reglamento (ES) 2015/2446 115 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2015/2446/art_115/par_2/oj) ir, ją taikant, Muitinės departamento generalinio direktoriaus nustatytus reikalavimus. ^s-9cc9960cfab82b0412c194bf
 
 
 
@@ -1235,7 +1235,7 @@ Lietuvos Respublikos teritorijoje prekės laikinai saugomos:
 3. Prekių turėtojai, gavę muitinės pareigūnų nurodymą išgabenti prekes iš muitinės posto muitinio tikrinimo vietos, turi nedelsdami jį įvykdyti. ^s-b2fb05ea2f189bac151ec059
 
 
-4. Muitinė neatlygina jokių asmenų patirtų išlaidų, susijusių su šio straipsnio 1 ir [[#^s-b2fb05ea2f189bac151ec059|3 dalyse]] nustatytų reikalavimų vykdymu. ^s-ddcc6eed93fd8ce9c56607b0
+4. Muitinė neatlygina jokių asmenų patirtų išlaidų, susijusių su šio straipsnio [[#^s-80b181e0cd67a3cc65b57c11|1]] ir [[#^s-b2fb05ea2f189bac151ec059|3]] dalyse nustatytų reikalavimų vykdymu. ^s-ddcc6eed93fd8ce9c56607b0
 
 
 
@@ -1254,10 +1254,10 @@ Deklaracijų, pranešimų, prašymų, sprendimų ir kitų dokumentų bei informa
 ### 53 straipsnis. Muitinės prievolininkų registravimas ^s-f6c5baeaf1c682282d944378
 
 
-1. Ekonominės veiklos vykdytojai ir kiti asmenys, Lietuvos Respublikos teritorijoje atliekantys Reglamento (ES) 2015/2446 5 straipsnio 1 dalyje ir [[#^s-08e85aaccb92aa05653837e8|6 straipsnio 1 dalyje]] nurodytus veiksmus, jeigu jiems netaikomos Reglamento (ES) 2015/2446 [[#^s-178597757582be81f177bd93|5 straipsnio]] 2–5 dalyse ir [[#^s-e47eb51d5073457a3f19f5f7|6 straipsnio 2 dalyje]] nustatytos išimtys, turi būti muitinės įtraukti į Lietuvos Respublikoje tvarkomą Muitinės prievolininkų registrą arba turėti ekonominės veiklos vykdytojo registracijos ir identifikavimo (EORI) kodą, kurį vadovaudamasi Reglamento (ES) Nr. 952/2013 [[#^s-acdf7cfd66aa414504d60a57|9 straipsniu]] ir Reglamento (ES) 2015/2446 3, 4, 5 ir [[#^s-b2113b826d5267e0e0bd7bde|6 straipsniais]] suteikė kitos Europos Sąjungos valstybės narės muitinė. ^s-4b5026fa87f235fa98f0ba23
+1. Ekonominės veiklos vykdytojai ir kiti asmenys, Lietuvos Respublikos teritorijoje atliekantys [Reglamento (ES) 2015/2446 5 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2015/2446/art_5/par_1/oj) ir [[#^s-08e85aaccb92aa05653837e8|6 straipsnio 1 dalyje]] nurodytus veiksmus, jeigu jiems netaikomos [Reglamento (ES) 2015/2446 5 straipsnio](https://eur-lex.europa.eu/eli/reg/2015/2446/art_5/oj) 2–5 dalyse ir [[#^s-e47eb51d5073457a3f19f5f7|6 straipsnio 2 dalyje]] nustatytos išimtys, turi būti muitinės įtraukti į Lietuvos Respublikoje tvarkomą Muitinės prievolininkų registrą arba turėti ekonominės veiklos vykdytojo registracijos ir identifikavimo (EORI) kodą, kurį vadovaudamasi Reglamento (ES) Nr. 952/2013 [[#^s-acdf7cfd66aa414504d60a57|9 straipsniu]] ir [Reglamento (ES) 2015/2446](https://eur-lex.europa.eu/eli/reg/2015/2446/oj) [[#^s-50ad0a1354979546cee4d512|3]], [[#^s-c02d44e9c3bb51dbf3071c73|4]], [[#^s-178597757582be81f177bd93|5]] ir [[#^s-b2113b826d5267e0e0bd7bde|6]] straipsniais suteikė kitos Europos Sąjungos valstybės narės muitinė. ^s-4b5026fa87f235fa98f0ba23
 
 
-2. Muitinės departamentas arba Muitinės departamento generalinio direktoriaus įgaliotos muitinės įstaigos registruoja [[#^s-4b5026fa87f235fa98f0ba23|šio straipsnio 1 dalyje]] nurodytus asmenis Muitinės prievolininkų registre, tvarko šį registrą ir įkelia jo duomenis į centrinę elektroninę informacijos ir ryšių sistemą, kurioje kaupiami visų Europos Sąjungos valstybių narių pateikti duomenys, Reglamento (ES) 2015/2446 I antraštinės dalies 2 skyriaus 1 skirsnio 2 poskirsnyje ir Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. ^s-374cac6b2f46a07f14fddfc5
+2. Muitinės departamentas arba Muitinės departamento generalinio direktoriaus įgaliotos muitinės įstaigos registruoja [[#^s-4b5026fa87f235fa98f0ba23|šio straipsnio 1 dalyje]] nurodytus asmenis Muitinės prievolininkų registre, tvarko šį registrą ir įkelia jo duomenis į centrinę elektroninę informacijos ir ryšių sistemą, kurioje kaupiami visų Europos Sąjungos valstybių narių pateikti duomenys, [Reglamento (ES) 2015/2446](https://eur-lex.europa.eu/eli/reg/2015/2446/oj) I antraštinės dalies 2 skyriaus 1 skirsnio 2 poskirsnyje ir Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. ^s-374cac6b2f46a07f14fddfc5
 
 
 
@@ -1271,7 +1271,7 @@ Deklaranto prašymu muitinės įstaiga patvirtina naudojantis elektroninėmis du
 ### 55 straipsnis. Prekių muitinis tikrinimas ir įforminimas ^s-243f9e991e217a6db38cb884
 
 
-1. Pirmumo tvarka atliekamas prekių muitinis tikrinimas ir įforminimas, kai tai nustatyta muitų teisės aktuose, taip pat kai muitinei pateikiamos nukentėjusiems nuo nelaimės skirtos prekės, nurodytos Reglamento (EB) Nr. 1186/2009 74 straipsnyje, Lietuvos Respublikoje esančioms diplomatinėms arba konsulinėms atstovybėms skirtos arba jų išsiunčiamos prekės, gyvi gyvūnai, greitai gendančios prekės, kurių sąrašą tvirtina Muitinės departamento generalinis direktorius, taip pat kitos prekės, kurių muitinis tikrinimas ir įforminimas vadovaujantis muitinės įgyvendinamais teisės aktais arba Muitinės departamento generalinio direktoriaus sprendimu turi būti atliekamas skubos tvarka. ^s-3beabaa19000421e4d830d7a
+1. Pirmumo tvarka atliekamas prekių muitinis tikrinimas ir įforminimas, kai tai nustatyta muitų teisės aktuose, taip pat kai muitinei pateikiamos nukentėjusiems nuo nelaimės skirtos prekės, nurodytos [Reglamento (EB) Nr. 1186/2009 74 straipsnyje](https://eur-lex.europa.eu/eli/reg/1186/2009/art_74/oj), Lietuvos Respublikoje esančioms diplomatinėms arba konsulinėms atstovybėms skirtos arba jų išsiunčiamos prekės, gyvi gyvūnai, greitai gendančios prekės, kurių sąrašą tvirtina Muitinės departamento generalinis direktorius, taip pat kitos prekės, kurių muitinis tikrinimas ir įforminimas vadovaujantis muitinės įgyvendinamais teisės aktais arba Muitinės departamento generalinio direktoriaus sprendimu turi būti atliekamas skubos tvarka. ^s-3beabaa19000421e4d830d7a
 
 
 2. Jeigu be muitinio tikrinimo turi būti atliekamas ir kitoks kitų kompetentingų Lietuvos Respublikos institucijų tų pačių prekių tikrinimas, tai jis, kai tai įmanoma, atliekamas prekių muitinio tikrinimo vietose ir tuo pačiu laiku, kaip ir muitinis tikrinimas, muitinei atliekant koordinatoriaus vaidmenį. ^s-27dad73d788b3ec59d375f57
@@ -1288,13 +1288,13 @@ Muitinės procedūrų atlikimą reglamentuojančių muitų teisės aktų nuostat
 ### 561 straipsnis. TIR įgaliotojo siuntėjo statusas ^s-fb4df9c4fd7b5ec78aa6e61b
 
 
-1. Muitinės departamentas arba kita Muitinės departamento generalinio direktoriaus įgaliota muitinės įstaiga, gavę asmens prašymą, gali jam suteikti leidimą naudotis TIR įgaliotojo siuntėjo statusu, kurį įgijusiam leidimo turėtojui leidžiama įforminti prekėms TIR procedūrą – tranzito procedūrą, atliekamą vadovaujantis Muitinės konvencija dėl tarptautinio krovinių gabenimo su TIR knygelėmis (1975 m. TIR konvencija), nepateikiant prekių ir TIR knygelės muitinei. ^s-de0b2fa38325c778b595a23e
+1. Muitinės departamentas arba kita Muitinės departamento generalinio direktoriaus įgaliota muitinės įstaiga, gavę asmens prašymą, gali jam suteikti leidimą naudotis TIR įgaliotojo siuntėjo statusu, kurį įgijusiam leidimo turėtojui leidžiama įforminti prekėms TIR procedūrą – tranzito procedūrą, atliekamą vadovaujantis [Muitinės konvencija dėl tarptautinio krovinių gabenimo su TIR knygelėmis (1975 m. TIR konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.D27C5181E04A)), nepateikiant prekių ir TIR knygelės muitinei. ^s-de0b2fa38325c778b595a23e
 
 
 2. [[#^s-de0b2fa38325c778b595a23e|Šio straipsnio 1 dalyje]] nurodytą TIR įgaliotojo siuntėjo statusą įgijęs asmuo šiuo statusu naudotis gali tik tuo atveju, kai TIR procedūra pradedama Lietuvos Respublikos teritorijoje. ^s-ecdc2287b226abafbe4f4c39
 
 
-3. Leidimas naudotis TIR įgaliotojo siuntėjo statusu suteikiamas asmeniui, atitinkančiam Reglamento (ES) 2015/2446 191 straipsnyje nustatytus reikalavimus. Vertinant, ar asmuo atitinka Reglamento (ES) Nr. 952/2013 [[#^s-7f2ffe42e675fe21ab174e50|39 straipsnio]] a, b ir d punktuose nustatytus kriterijus, vadovaujamasi Reglamento (ES) 2015/2447 24, 25 ir [[#^s-626ac5e15a35980984afd031|27 straipsniais]]. ^s-9ebb5b846ec2a399c444017a
+3. Leidimas naudotis TIR įgaliotojo siuntėjo statusu suteikiamas asmeniui, atitinkančiam [Reglamento (ES) 2015/2446 191 straipsnyje](https://eur-lex.europa.eu/eli/reg/2015/2446/art_191/oj) nustatytus reikalavimus. Vertinant, ar asmuo atitinka Reglamento (ES) Nr. 952/2013 [[#^s-7f2ffe42e675fe21ab174e50|39 straipsnio]] a, b ir d punktuose nustatytus kriterijus, vadovaujamasi [Reglamento (ES) 2015/2447](https://eur-lex.europa.eu/eli/reg/2015/2447/oj) [[#^s-fc062feb421c28c9697b7934|24]], [[#^s-89d50dd9ea739750ddedf4dc|25]] ir [[#^s-626ac5e15a35980984afd031|27]] straipsniais. ^s-9ebb5b846ec2a399c444017a
 
 
 4. Leidimų naudotis TIR įgaliotojo siuntėjo statusu suteikimo, leidimų naudotis TIR įgaliotojo siuntėjo statusu suteikiamų teisių įgyvendinimo ir muitinės priežiūros tvarką nustato Muitinės departamento generalinis direktorius. ^s-d9ec1719607db72c892f80c9
@@ -1336,7 +1336,7 @@ Laisvosios zonos Lietuvos Respublikos teritorijoje yra:
 4. Keleiviai, atvykstantys į Lietuvos Respubliką iš trečiųjų šalių, gali įsigyti [[#^s-eaa6264fac93982b795efabd|šio straipsnio 1 dalyje]] nurodytose neapmuitinamose parduotuvėse importo muitais neapmokestintų prekių. ^s-528c46c33b637d40f7b83f0e
 
 
-5. Neapmuitinamos parduotuvės steigiamos ir veikia kaip Reglamento (ES) 2015/2446 201 straipsnio a punkte nurodyti muitinės sandėliai, kuriuose leidžiama mažmeninė prekyba, parduodant neapmokestintas importo muitais ir mokesčiais prekes iš Lietuvos Respublikos į trečiąsias šalis išvykstantiems keleiviams. Šioms prekėms taip pat taikomos Lietuvos Respublikos akcizų įstatymo 19 straipsnio 1 punkto ir [[latest/TAR.ED68997709F5#^s-34ce70586eda8ae509e2d9db|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 53 straipsnio 4 dalies]] nuostatos. ^s-b2e0a990eb84ffb4d537a071
+5. Neapmuitinamos parduotuvės steigiamos ir veikia kaip [Reglamento (ES) 2015/2446 201 straipsnio a punkte](https://eur-lex.europa.eu/eli/reg/2015/2446/art_201/lit_a/oj) nurodyti muitinės sandėliai, kuriuose leidžiama mažmeninė prekyba, parduodant neapmokestintas importo muitais ir mokesčiais prekes iš Lietuvos Respublikos į trečiąsias šalis išvykstantiems keleiviams. Šioms prekėms taip pat taikomos [[latest/TAR.B9E1D301256F|Lietuvos Respublikos akcizų įstatymo 19 straipsnio 1 punkto]] ir [[latest/TAR.ED68997709F5#^s-34ce70586eda8ae509e2d9db|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 53 straipsnio 4 dalies]] nuostatos. ^s-b2e0a990eb84ffb4d537a071
 
 
 
@@ -1362,13 +1362,13 @@ Laisvosios zonos Lietuvos Respublikos teritorijoje yra:
 ### 60 straipsnis. Prekių perdavimas valstybės nuosavybėn ^s-7dbc85cc1875f7847edad7ec
 
 
-1. Muitinės arba kitų Lietuvos Respublikos valstybės institucijų sulaikytos ne Sąjungos prekės, neturinčios savininko arba kurių savininkas nežinomas, pereina valstybės nuosavybėn pagal muitinės pareiškimą vadovaujantis Reglamento (ES) Nr. 952/2013 199 straipsniu ir Reglamento (ES) 2015/2447 249 straipsnio 2 dalimi. ^s-69ff3febc96bcf44c65c2d96
+1. Muitinės arba kitų Lietuvos Respublikos valstybės institucijų sulaikytos ne Sąjungos prekės, neturinčios savininko arba kurių savininkas nežinomas, pereina valstybės nuosavybėn pagal muitinės pareiškimą vadovaujantis Reglamento (ES) Nr. 952/2013 199 straipsniu ir [Reglamento (ES) 2015/2447 249 straipsnio 2 dalimi](https://eur-lex.europa.eu/eli/reg/2015/2447/art_249/par_2/oj). ^s-69ff3febc96bcf44c65c2d96
 
 
 2. Valstybės nuosavybėn perduotos prekės realizuojamos vadovaujantis šio įstatymo [[#^s-47a9c9cff18f885dc30465f9|59 straipsnio 3 dalimi]]. ^s-54e64678fd7cd6150e27d582
 
 
-3. Valstybės nuosavybėn negali būti perduotos prekės, nurodytos Reglamento (ES) 2015/2447 249 straipsnio 1 dalyje. ^s-efcdbdb835ef2bb3540f0564
+3. Valstybės nuosavybėn negali būti perduotos prekės, nurodytos [Reglamento (ES) 2015/2447 249 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2015/2447/art_249/par_1/oj). ^s-efcdbdb835ef2bb3540f0564
 
 
 
@@ -1405,31 +1405,31 @@ priedas
 
 
 
-1. 1987 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2658/87 dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382) (su paskutiniais pakeitimais, padarytais 2016 m. birželio 28 d. Komisijos įgyvendinimo reglamentu (ES) 2016/1047 (OL 2016 L 170, p. 36). ^s-61aa2c50058d8e97f1d9c0bf
+1. 1987 m. liepos 23 d. Tarybos [reglamentas (EEB) Nr. 2658/87](https://eur-lex.europa.eu/eli/reg/2658/87/oj) [dėl tarifų](https://e-tar.lt/portal/lt/legalAct/SAV.511075) ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382) (su paskutiniais pakeitimais, padarytais 2016 m. birželio 28 d. Komisijos įgyvendinimo [reglamentu (ES) 2016/1047](https://eur-lex.europa.eu/eli/reg/2016/1047/oj) (OL 2016 L 170, p. 36). ^s-61aa2c50058d8e97f1d9c0bf
 
 
-2. 1988 m. gruodžio 15 d. Komisijos reglamentas (EEB) Nr. 3915/88, išdėstantis nuostatas dėl Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 63c straipsnio įgyvendinimo (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 37). ^s-550c57398357371f09065110
+2. 1988 m. gruodžio 15 d. Komisijos [reglamentas (EEB) Nr. 3915/88](https://eur-lex.europa.eu/eli/reg/3915/88/oj), išdėstantis nuostatas dėl Tarybos reglamento (EEB) Nr. 918/83, nustatančio Bendrijos atleidimo nuo muitų sistemą, 63c straipsnio įgyvendinimo (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 37). ^s-550c57398357371f09065110
 
 
-3. 1997 m. kovo 13 d. Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą (OL 2004 m. specialusis leidimas, 2 skyrius, 8 tomas, p. 217), su paskutiniais pakeitimais, padarytais 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 2015/1525 (OL 2015 L 243, p. 1). ^s-87e04a77d8163612bbe79a9c
+3. 1997 m. kovo 13 d. Tarybos reglamentas (EB) Nr. 515/97 dėl valstybių narių administracinių institucijų tarpusavio pagalbos ir dėl pastarųjų bei Komisijos bendradarbiavimo, siekiant užtikrinti teisingą muitinės ir žemės ūkio teisės aktų taikymą (OL 2004 m. specialusis leidimas, 2 skyrius, 8 tomas, p. 217), su paskutiniais pakeitimais, padarytais 2015 m. rugsėjo 9 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 2015/1525](https://eur-lex.europa.eu/eli/reg/2015/1525/oj) (OL 2015 L 243, p. 1). ^s-87e04a77d8163612bbe79a9c
 
 
 4. 2000 m. gegužės 22 d. Tarybos reglamentas (EB, Euratomas), Nr. 1150/2000, įgyvendinantis Sprendimą 94/728/EB, Euratomas dėl Bendrijų nuosavų išteklių sistemos (OL 2004 m. specialusis leidimas, 1 skyrius, 3 tomas, p. 169), su paskutiniais pakeitimais, padarytais 2014 m. gruodžio 18 d. Tarybos reglamentu (ES, Euratomas) Nr. 1377/2014 (OL 2014 L 367, p. 14). ^s-65b6270740233817e12f9a37
 
 
-5. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 638/2004 dėl prekybos prekėmis tarp valstybių narių Bendrijos statistinių duomenų, panaikinantis Tarybos reglamentą (EEB) Nr. 3330/91 (OL 2004 m. specialusis leidimas, 2 skyrius, 16 tomas, p. 64), su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 659/2014 (OL 2014 L 189, p. 128). ^s-e4f7baa782659cb8f363ccbc
+5. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 638/2004 dėl prekybos prekėmis tarp valstybių narių Bendrijos statistinių duomenų, panaikinantis Tarybos [reglamentą (EEB) Nr. 3330/91](https://eur-lex.europa.eu/eli/reg/3330/91/oj) (OL 2004 m. specialusis leidimas, 2 skyrius, 16 tomas, p. 64), su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 659/2014 (OL 2014 L 189, p. 128). ^s-e4f7baa782659cb8f363ccbc
 
 
-6. 2004 m. lapkričio 18 d. Komisijos reglamentas (EB) Nr. 1982/2004, įgyvendinantis Europos Parlamento ir Tarybos reglamentą (EB) Nr. 638/2004 dėl prekybos prekėmis tarp valstybių narių Bendrijos statistinių duomenų, panaikinantis Komisijos reglamentus (EB) Nr. 1901/2000 ir (EEB) Nr. 3590/92 (OL 2004 L 343, p. 3), su paskutiniais pakeitimais, padarytais 2013 m. lapkričio 4 d. Komisijos reglamentu (ES) Nr. 1093/2013 (OL 2013 L 294, p. 28). ^s-22f6d19ff9fcab8020239137
+6. 2004 m. lapkričio 18 d. Komisijos [reglamentas (EB) Nr. 1982/2004](https://eur-lex.europa.eu/eli/reg/1982/2004/oj), įgyvendinantis Europos Parlamento ir Tarybos reglamentą (EB) Nr. 638/2004 dėl prekybos prekėmis tarp valstybių narių Bendrijos statistinių duomenų, panaikinantis Komisijos [reglamentus (EB) Nr. 1901/2000](https://eur-lex.europa.eu/eli/reg/1901/2000/oj) ir (EEB) Nr. 3590/92 (OL 2004 L 343, p. 3), su paskutiniais pakeitimais, padarytais 2013 m. lapkričio 4 d. Komisijos [reglamentu (ES) Nr. 1093/2013](https://eur-lex.europa.eu/eli/reg/1093/2013/oj) (OL 2013 L 294, p. 28). ^s-22f6d19ff9fcab8020239137
 
 
 7. 2008 m. sausio 15 d. Europos Parlamento ir Tarybos sprendimas Nr. 70/2008/EB dėl nepopierinės muitinės ir verslo aplinkos (OL 2008 L 23, p. 21). ^s-12f047670721ee985690a328
 
 
-8. 2009 m. gegužės 6 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 471/2009 dėl Bendrijos statistikos, susijusios su išorės prekyba su ES nepriklausančiomis šalimis, ir panaikinantis Tarybos reglamentą (EB) Nr. 1172/95 (OL 2009 L 152, p. 23). ^s-076acdf1dbdb75881b6381cd
+8. 2009 m. gegužės 6 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 471/2009 dėl Bendrijos statistikos, susijusios su išorės prekyba su ES nepriklausančiomis šalimis, ir panaikinantis Tarybos [reglamentą (EB) Nr. 1172/95](https://eur-lex.europa.eu/eli/reg/1172/95/oj) (OL 2009 L 152, p. 23). ^s-076acdf1dbdb75881b6381cd
 
 
-9. 2009 m. lapkričio 16 d. Tarybos reglamentas (EB) Nr. 1186/2009, nustatantis Bendrijos atleidimo nuo muitų sistemą (OL 2009 L 324, p. 23). ^s-2553055d0d96d5368d5e804e
+9. 2009 m. lapkričio 16 d. Tarybos [reglamentas (EB) Nr. 1186/2009](https://eur-lex.europa.eu/eli/reg/1186/2009/oj), nustatantis Bendrijos atleidimo nuo muitų sistemą (OL 2009 L 324, p. 23). ^s-2553055d0d96d5368d5e804e
 
 
 10. 2010 m. vasario 2 d. Komisijos reglamentas (ES) Nr. 92/2010, kuriuo įgyvendinamos Europos Parlamento ir Tarybos reglamento (EB) Nr. 471/2009 dėl Bendrijos statistikos, susijusios su išorės prekyba su ES nepriklausančiomis šalimis, nuostatos dėl muitinių ir nacionalinių statistikos institucijų keitimosi duomenimis, statistinės informacijos rengimo ir kokybės vertinimo (OL 2010 L 31, p. 4). ^s-ce67abe11d720ff3113b6d43
@@ -1438,37 +1438,37 @@ priedas
 11. 2010 m. vasario 9 d. Komisijos reglamentas (ES) Nr. 113/2010, kuriuo įgyvendinamos Europos Parlamento ir Tarybos reglamento (EB) Nr. 471/2009 dėl Bendrijos statistikos, susijusios su išorės prekyba su ES nepriklausančiomis šalimis, nuostatos dėl prekybos aprėpties, duomenų apibrėžčių, pagal verslo charakteristikas ir sąskaitose faktūrose nurodytą valiutą suskirstytos prekybos statistikos rengimo ir specifinių prekių arba prekių gabenimo (OL 2010 L 37, p. 1). ^s-0f98006e865d550b7cfcfe7d
 
 
-12. 2011 m. lapkričio 28 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 1224/2011, išdėstantis Tarybos reglamento (EB) Nr. 1186/2009, nustatančio Bendrijos atleidimo nuo muitų taisykles, 66–73 straipsnių taikymo nuostatas (Kodifikuota redakcija) (OL 2011 L 314, p. 14) su paskutiniais pakeitimais, padarytais 2013 m. vasario 21 d. Komisijos reglamentu (ES) Nr. 519/2013 (OL 2013 L 158, p. 74). ^s-e46d021086a20176dfc1670e
+12. 2011 m. lapkričio 28 d. Komisijos įgyvendinimo [reglamentas (ES) Nr. 1224/2011](https://eur-lex.europa.eu/eli/reg/1224/2011/oj), išdėstantis Tarybos [reglamento (EB) Nr. 1186/2009](https://eur-lex.europa.eu/eli/reg/1186/2009/oj), nustatančio Bendrijos atleidimo nuo muitų taisykles, 66–73 straipsnių taikymo nuostatas (Kodifikuota redakcija) (OL 2011 L 314, p. 14) su paskutiniais pakeitimais, padarytais 2013 m. vasario 21 d. Komisijos reglamentu (ES) Nr. 519/2013 (OL 2013 L 158, p. 74). ^s-e46d021086a20176dfc1670e
 
 
-13. 2011 m. lapkričio 28 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 1225/2011, išdėstantis Tarybos reglamento (EB) Nr. 1186/2009, nustatančio Bendrijos atleidimo nuo muitų sistemą, 42–52, 57 ir [[#^s-d5f06cd7e5ffb35de2c5652f|58 straipsnių]] taikymo nuostatas (Kodifikuota redakcija) (OL 2011 L 314, p. 20), su paskutiniais pakeitimais, padarytais 2013 m. vasario 21 d. Komisijos reglamentu (ES) Nr. 519/2013 (OL 2013 L 158, p. 74). ^s-00c2abd777661ef85080e073
+13. 2011 m. lapkričio 28 d. Komisijos įgyvendinimo [reglamentas (ES) Nr. 1225/2011](https://eur-lex.europa.eu/eli/reg/1225/2011/oj), išdėstantis Tarybos [reglamento (EB) Nr. 1186/2009](https://eur-lex.europa.eu/eli/reg/1186/2009/oj), nustatančio Bendrijos atleidimo nuo muitų sistemą, [[#^s-f912c136cee64dbeeaaf90e6|42]]–[[#^s-d45ab5a33b4a8caa7174df56|52]], [[#^s-4b6cb69f536b007f9263d9c2|57]] ir [[#^s-d5f06cd7e5ffb35de2c5652f|58]] straipsnių taikymo nuostatas (Kodifikuota redakcija) (OL 2011 L 314, p. 20), su paskutiniais pakeitimais, padarytais 2013 m. vasario 21 d. Komisijos reglamentu (ES) Nr. 519/2013 (OL 2013 L 158, p. 74). ^s-00c2abd777661ef85080e073
 
 
-14. 2012 m. sausio 31 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 80/2012, išdėstantis biologinių ir cheminių medžiagų, numatytų Tarybos reglamento (EB) Nr. 1186/2009, nustatančio Bendrijos atleidimo nuo muitų sistemą, [[#^s-4b5026fa87f235fa98f0ba23|53 straipsnio 1 dalies]] b punkte, sąrašą (OL 2012 L 29, p. 33), su paskutiniais pakeitimais, padarytais 2013 m. kovo 7 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 197/2013 (OL 2013 L 65, p. 15). ^s-2c688dddb0aef88c56d4a743
+14. 2012 m. sausio 31 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 80/2012, išdėstantis biologinių ir cheminių medžiagų, numatytų Tarybos [reglamento (EB) Nr. 1186/2009](https://eur-lex.europa.eu/eli/reg/1186/2009/oj), nustatančio Bendrijos atleidimo nuo muitų sistemą, [[#^s-4b5026fa87f235fa98f0ba23|53 straipsnio 1 dalies]] b punkte, sąrašą (OL 2012 L 29, p. 33), su paskutiniais pakeitimais, padarytais 2013 m. kovo 7 d. Komisijos įgyvendinimo reglamentu (ES) Nr. 197/2013 (OL 2013 L 65, p. 15). ^s-2c688dddb0aef88c56d4a743
 
 
-15. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 608/2013 dėl muitinės atliekamo intelektinės nuosavybės teisių vykdymo užtikrinimo, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1383/2003 (OL 2013 L 181, p. 15). ^s-c8e0a07353683c37e20b61ae
+15. 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 608/2013 dėl muitinės atliekamo intelektinės nuosavybės teisių vykdymo užtikrinimo, kuriuo panaikinamas Tarybos [reglamentas (EB) Nr. 1383/2003](https://eur-lex.europa.eu/eli/reg/1383/2003/oj) (OL 2013 L 181, p. 15). ^s-c8e0a07353683c37e20b61ae
 
 
-16. 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas (OL 2013 L 269, p. 1). ^s-361939edde24cbfdca415b2d
+16. 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos [muitinės kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) (OL 2013 L 269, p. 1). ^s-361939edde24cbfdca415b2d
 
 
-17. 2013 m. gruodžio 4 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 1352/2013, kuriuo nustatomos Europos Parlamento ir Tarybos reglamente (ES) Nr. 608/2013 dėl muitinės atliekamo intelektinės nuosavybės teisių vykdymo užtikrinimo numatytos formos (OL 2013 L 341, p. 10). ^s-fbf858c65049ec996babb73b
+17. 2013 m. gruodžio 4 d. Komisijos įgyvendinimo [reglamentas (ES) Nr. 1352/2013](https://eur-lex.europa.eu/eli/reg/1352/2013/oj), kuriuo nustatomos Europos Parlamento ir Tarybos reglamente (ES) Nr. 608/2013 dėl muitinės atliekamo intelektinės nuosavybės teisių vykdymo užtikrinimo numatytos formos (OL 2013 L 341, p. 10). ^s-fbf858c65049ec996babb73b
 
 
-18. 2015 m. liepos 28 d. Komisijos deleguotasis reglamentas (ES) 2015/2446, kuriuo Europos Parlamento ir Tarybos reglamentas (ES) Nr. 952/2013 papildomas išsamiomis taisyklėmis, kuriomis patikslinamos kai kurios Sąjungos muitinės kodekso nuostatos (OL 2015 L 343, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. gruodžio 17 d. Komisijos deleguotuoju reglamentu (ES) 2016/341 (OL 2016 L 69, p. 1). ^s-b4b122b7aeaeaa6d81da7eaa
+18. 2015 m. liepos 28 d. Komisijos deleguotasis [reglamentas (ES) 2015/2446](https://eur-lex.europa.eu/eli/reg/2015/2446/oj), kuriuo Europos Parlamento ir Tarybos reglamentas (ES) Nr. 952/2013 papildomas išsamiomis taisyklėmis, kuriomis patikslinamos kai kurios Sąjungos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nuostatos (OL 2015 L 343, p. 1), su paskutiniais pakeitimais, padarytais 2015 m. gruodžio 17 d. Komisijos deleguotuoju [reglamentu (ES) 2016/341](https://eur-lex.europa.eu/eli/reg/2016/341/oj) (OL 2016 L 69, p. 1). ^s-b4b122b7aeaeaa6d81da7eaa
 
 
-19. 2015 m. lapkričio 24 d. Komisijos įgyvendinimo reglamentas (ES) 2015/2447, kuriuo nustatomos išsamios tam tikrų Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas, nuostatų įgyvendinimo taisyklės (OL 2015 L 343, p. 558). ^s-3bd588f135433c752e97457c
+19. 2015 m. lapkričio 24 d. Komisijos įgyvendinimo [reglamentas (ES) 2015/2447](https://eur-lex.europa.eu/eli/reg/2015/2447/oj), kuriuo nustatomos išsamios tam tikrų Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos [muitinės kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), nuostatų įgyvendinimo taisyklės (OL 2015 L 343, p. 558). ^s-3bd588f135433c752e97457c
 
 
-20. 2015 m. gruodžio 17 d. Komisijos deleguotasis reglamentas (ES) 2016/341, kuriuo Europos Parlamento ir Tarybos reglamentas (ES) Nr. 952/2013 papildomas tam tikrų Sąjungos muitinės kodekso nuostatų taikymo pereinamuoju laikotarpiu, kol bus įdiegtos tam tikros elektroninės sistemos, taisyklėmis ir iš dalies keičiamas Deleguotasis reglamentas (ES) 2015/2446 (OL 2016 L 69, p. 1). ^s-887d7db239ced2b1932ae574
+20. 2015 m. gruodžio 17 d. Komisijos deleguotasis [reglamentas (ES) 2016/341](https://eur-lex.europa.eu/eli/reg/2016/341/oj), kuriuo Europos Parlamento ir Tarybos reglamentas (ES) Nr. 952/2013 papildomas tam tikrų Sąjungos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nuostatų taikymo pereinamuoju laikotarpiu, kol bus įdiegtos tam tikros elektroninės sistemos, taisyklėmis ir iš dalies keičiamas Deleguotasis [reglamentas (ES) 2015/2446](https://eur-lex.europa.eu/eli/reg/2015/2446/oj) (OL 2016 L 69, p. 1). ^s-887d7db239ced2b1932ae574
 
 
-21. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1036 dėl apsaugos nuo importo dempingo kaina iš Europos Sąjungos narėmis nesančių valstybių (OL 2016 L 176, p. 21). ^s-17a736d21f3ca3790d53d385
+21. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2016/1036](https://eur-lex.europa.eu/eli/reg/2016/1036/oj) dėl apsaugos nuo importo dempingo kaina iš Europos Sąjungos narėmis nesančių valstybių (OL 2016 L 176, p. 21). ^s-17a736d21f3ca3790d53d385
 
 
-22. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1037 dėl apsaugos nuo subsidijuoto importo Europos Sąjungos narėmis nesančių valstybių (Kodifikuota redakcija) (OL 2016 L 176, p. 55). ^s-381eee49f226b384d59e0c72
+22. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2016/1037](https://eur-lex.europa.eu/eli/reg/2016/1037/oj) dėl apsaugos nuo subsidijuoto importo Europos Sąjungos narėmis nesančių valstybių (Kodifikuota redakcija) (OL 2016 L 176, p. 55). ^s-381eee49f226b384d59e0c72
 
 
 Priedo pakeitimai:
@@ -1513,17 +1513,17 @@ Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 IV skyriaus ketvirtojo skir
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1161, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13592
-Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 25 ir [[#^s-e43f03774a47f676b60a7500|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 [[#^s-89d50dd9ea739750ddedf4dc|25]] ir [[#^s-e43f03774a47f676b60a7500|26]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1201, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14124
-Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 39 ir 107 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 [[#^s-7f2ffe42e675fe21ab174e50|39]] ir 107 straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2324, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10429
-Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 3, 69 straipsnių ir priedo pakeitimo ir 70, 71, 72, 73, 74, 75, 76, 77 straipsnių pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 [[#^s-50ad0a1354979546cee4d512|3]], 69 straipsnių ir priedo pakeitimo ir 70, 71, 72, 73, 74, 75, 76, 77 straipsnių pripažinimo netekusiais galios įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1533,7 +1533,7 @@ Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 pakeitimo įstatymas
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1384, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12052
-Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 3, 7, 15, [[#^s-ff9c2d51ba1a62ae7088d9ce|17 straipsnių]] pakeitimo ir Įstatymo papildymo 18-1 ir 18-2 straipsniais įstatymas
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 [[#^s-50ad0a1354979546cee4d512|3]], [[#^s-85c2b1cf2c9d637198c363af|7]], [[#^s-abf57d4cb137b1b4065f5c6e|15]], [[#^s-ff9c2d51ba1a62ae7088d9ce|17]] straipsnių pakeitimo ir Įstatymo papildymo 18-1 ir 18-2 straipsniais įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1553,9 +1553,9 @@ Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 [[#^s-d8e8b9d5858ca00040923
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3140, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20378
-Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 3, 22 ir [[#^s-169a5a58fea51f279142f5bf|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 [[#^s-50ad0a1354979546cee4d512|3]], [[#^s-924b122bc133b403b45abe03|22]] ir [[#^s-169a5a58fea51f279142f5bf|23]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-249, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11018
-Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 3 ir [[#^s-361d3344ea3820b7bc8511e2|46 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos muitinės įstatymo Nr. IX-2183 [[#^s-50ad0a1354979546cee4d512|3]] ir [[#^s-361d3344ea3820b7bc8511e2|46]] straipsnių pakeitimo įstatymas

@@ -208,10 +208,10 @@ Veislės pavadinimas gali būti pakeistas Saugomų veislių sąrašo tvarkytojo 
 1. Papildyti 26 straipsnį nauja [[#^s-b20e2e1185fd96738da17b7f|2 dalimi]]: ^s-0c8de4fbf8460635ac5e8be9
 
 
-„2. Asmeniui, nesudariusiam licencinės sutarties arba negavusiam selekcininko raštiško sutikimo dėl veislės, kuriai suteikta teisinė apsauga, dauginamosios medžiagos panaudojimo, draudžiama atlikti bet kokius [[#^s-0c8de4fbf8460635ac5e8be9|šio straipsnio 1 dalyje]] nurodytus veiksmus, susijusius su saugomos veislės dauginamąja medžiaga.“
+„2. Asmeniui, nesudariusiam licencinės sutarties arba negavusiam selekcininko raštiško sutikimo dėl veislės, kuriai suteikta teisinė apsauga, dauginamosios medžiagos panaudojimo, draudžiama atlikti bet kokius šio straipsnio 1 dalyje nurodytus veiksmus, susijusius su saugomos veislės dauginamąja medžiaga.“
 
 
-2. Buvusias 26 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir [[#^s-24ba959eb7005f489675b903|4 dalimis]], [[#^s-24ba959eb7005f489675b903|4 dalyje]] vietoj žodžio „augalinę“ įrašyti žodį „augalų“ ir šias dalis išdėstyti taip: ^s-b20e2e1185fd96738da17b7f
+2. Buvusias 26 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis, [[#^s-24ba959eb7005f489675b903|4 dalyje]] vietoj žodžio „augalinę“ įrašyti žodį „augalų“ ir šias dalis išdėstyti taip: ^s-b20e2e1185fd96738da17b7f
 
 
 „3. Asmenys, naudojantys veislę pagal licencinę sutartį, privalo pranešti selekcininkui apie padaugintą, parduotą bei kitaip realizuotą dauginamąją medžiagą, jeigu kitaip nenumatyta licencinėje sutartyje.
@@ -297,20 +297,20 @@ Nagrinėdamas ginčą dėl šio Įstatymo nustatytų teisių pažeidimo, teismas
 ### 412 straipsnis. Įrodymai ^s-03343740eacacf92b5c2efc0
 
 
-1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu Civilinio proceso kodekso nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą augalo veislės, kuriai suteikta teisinė apsauga, dauginamosios medžiagos atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio Įstatymo nustatytų teisių pažeidimas. ^s-17d6867cf8da2c60a2705fef
+1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą augalo veislės, kuriai suteikta teisinė apsauga, dauginamosios medžiagos atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio Įstatymo nustatytų teisių pažeidimas. ^s-17d6867cf8da2c60a2705fef
 
 
-2. Jeigu šio Įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-17d6867cf8da2c60a2705fef|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas Civilinio proceso kodekso nustatyta tvarka gali išreikalauti iš priešingos šalies banko finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-c9bac4eee3cf5a9d435b3911
+2. Jeigu šio Įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-17d6867cf8da2c60a2705fef|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali išreikalauti iš priešingos šalies banko finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-c9bac4eee3cf5a9d435b3911
 
 
 
 ### 413 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės ^s-fa6762a21a843228aa092495
 
 
-1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja Civilinio proceso kodeksas ir šis Įstatymas. ^s-b76c7520479b257834e83434
+1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir šis Įstatymas. ^s-b76c7520479b257834e83434
 
 
-2. Kai yra pakankamas pagrindas įtarti, kad buvo šio Įstatymo nustatytų teisių pažeidimas, teismas Civilinio proceso kodekso nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra: ^s-e17f9ff5edf0db56d9709fd5
+2. Kai yra pakankamas pagrindas įtarti, kad buvo šio Įstatymo nustatytų teisių pažeidimas, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra: ^s-e17f9ff5edf0db56d9709fd5
 
 
 1) uždrausti asmenims daryti gresiantį šio Įstatymo nustatytų teisių pažeidimą; ^s-7d5c896e5722e773297ec7c6
@@ -325,7 +325,7 @@ Nagrinėdamas ginčą dėl šio Įstatymo nustatytų teisių pažeidimo, teismas
 4) areštuoti šio Įstatymo nustatytų teisių pažeidimu įtariamų asmenų turtą, kurį turi jie arba tretieji asmenys, įskaitant banko ir kitų kredito įstaigų sąskaitas; taip pat reikalauti pateikti banko, finansinius ar komercinius dokumentus ar sudaryti galimybę susipažinti su šiais dokumentais, jeigu pažeidimas padarytas komerciniu tikslu; ^s-7288d1d140b6db7b6a94846c
 
 
-5) taikyti kitas Civilinio proceso kodekso nustatytas priemones. ^s-6dbc8fa88e9c2087d17b9ab6
+5) taikyti kitas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytas priemones. ^s-6dbc8fa88e9c2087d17b9ab6
 
 
 3. Jeigu pritaikytos [[#^s-e17f9ff5edf0db56d9709fd5|šio straipsnio 2 dalies]] 1 ir 2 punktuose nurodytos laikinosios apsaugos priemonės yra pažeidžiamos ir šis pažeidimas tęsiamas, teismas gali įpareigoti pažeidimo darymu įtariamus asmenis užtikrinti tinkamą galimos žalos kompensavimą asmeniui, prašiusiam taikyti laikinąsias apsaugos priemones. ^s-4c1359bef13d66179c8f78e0
@@ -343,7 +343,7 @@ Nagrinėdamas ginčą dėl šio Įstatymo nustatytų teisių pažeidimo, teismas
 2) areštuoti šio Įstatymo nustatytas teises pažeidžiančią saugomos veislės dauginamąją medžiagą ir su ja susijusius dokumentus ir juos paimti; ^s-6bbca06e755e4e60578e4dd4
 
 
-3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas Civilinio proceso kodekse. ^s-e3f1ba33765ac43aff535a26
+3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). ^s-e3f1ba33765ac43aff535a26
 
 
 6. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač tais atvejais, kai delsimas galėtų padaryti nepataisomą žalą pareiškėjui arba kai įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kad laikinosios priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, t. y. iš karto tas priemones pritaikius. Šalių prašymu, įskaitant teisę būti išklausytam, laikinosios apsaugos ir įrodymų priemonės gali būti peržiūrėtos siekiant per proto kriterijus atitinkantį terminą po pranešimo apie priemonių taikymą nuspręsti, ar šios priemonės turi būti pakeistos, panaikintos ar patvirtintos. ^s-6e3a4b826cb8c4c9c33664d2

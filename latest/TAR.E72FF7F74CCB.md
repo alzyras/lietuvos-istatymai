@@ -81,7 +81,7 @@ Vilnius
 „28 straipsnis. Valstybinio socialinio draudimo fondo biudžetas ir turtas“.
 
 
-2. Papildyti 28 straipsnį nauja [[#^s-ef1f2d50f3063c11b3102e4e|2 dalimi]]: ^s-ef1f2d50f3063c11b3102e4e
+2. Papildyti 28 straipsnį nauja 2 dalimi: ^s-ef1f2d50f3063c11b3102e4e
 
 
 „Valstybinio socialinio draudimo fondo turtą sudaro ilgalaikis materialusis ir nematerialusis, finansinis turtas (iš jo – lėšų likučiai Valstybinio socialinio draudimo fondo sąskaitose ir kasoje, indėliai, akcijos ir vertybiniai popieriai), taip pat išankstiniai apmokėjimai bei gautinų ar išieškotinų skolų sumos.“
@@ -107,7 +107,7 @@ Asignavimai iš Valstybės biudžeto skiriami, kai dėl Lietuvos Respublikos Sei
 ### 6 straipsnis. 30 straipsnio 1 dalies pakeitimas ir papildymas ^s-3fb576fe2492cb112d0da602
 
 
-30 straipsnio 1 dalies 2 punkte vietoj žodžių „Valstybinio socialinio draudimo fondo valdybos veiklos pajamos“ įrašyti žodžius „baudos ir delspinigiai“, papildyti dalį 5 ir [[#^s-533979448db5de54741f2621|6 punktais]] ir visą ją išdėstyti taip:
+30 straipsnio 1 dalies 2 punkte vietoj žodžių „Valstybinio socialinio draudimo fondo valdybos veiklos pajamos“ įrašyti žodžius „baudos ir delspinigiai“, papildyti dalį [[#^s-6964aa70bc8197987e4c6fe2|5]] ir [[#^s-533979448db5de54741f2621|6]] punktais ir visą ją išdėstyti taip:
 
 
 „Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto pajamas sudaro:
@@ -147,7 +147,7 @@ d) kitos veiklos pajamos.“
 ### 7 straipsnis. 36 straipsnio papildymas ^s-9a335fc5b81afad84309d3dc
 
 
-36 straipsnio 2 dalyje po žodžių „4 straipsnio“ įrašyti žodžius „antrosios dalies“, straipsnį papildyti naujomis 3 ir 4 dalimis, buvusią 3 dalį laikyti 5 dalimi ir joje po žodžio „mokėjimo“ įrašyti žodžius „jų mokėjimo atidėjimo“ ir visą straipsnį išdėstyti taip :
+36 straipsnio 2 dalyje po žodžių „4 straipsnio“ įrašyti žodžius „antrosios dalies“, straipsnį papildyti naujomis [[#^s-b7f66998a2c2b781d74ab398|3]] ir 4 dalimis, buvusią 3 dalį laikyti 5 dalimi ir joje po žodžio „mokėjimo“ įrašyti žodžius „jų mokėjimo atidėjimo“ ir visą straipsnį išdėstyti taip :
 
 
 „36 straipsnis. Valstybinio socialinio draudimo įmokų mokėjimo tvarka
@@ -201,7 +201,7 @@ Valstybinio socialinio draudimo įstaigos moka delspinigius už draudėjams pav�
 „3) užtikrina šiame įstatyme numatytą apdraustųjų aprūpinimą;“.
 
 
-2. Papildyti 42 straipsnį nauja [[#^s-921029e8fbdd748917c737e4|2 dalimi]]: ^s-921029e8fbdd748917c737e4
+2. Papildyti 42 straipsnį nauja 2 dalimi: ^s-921029e8fbdd748917c737e4
 
 
 „Valstybinio socialinio draudimo fondo valdyba ir jos teritoriniai skyriai Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka patikėjimo teise naudoja, valdo Valstybinio socialinio draudimo fondo turtą bei juo disponuoja.“

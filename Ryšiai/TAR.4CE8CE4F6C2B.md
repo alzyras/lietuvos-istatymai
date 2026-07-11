@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.97094B63FD95#^s-a43ff941bacda63852e4c79d|Lietuvos Respublikos ūkinių bendrijų įstatymas]] - 3 citatos - 1091010ISTA00XI-602
-- [[latest/TAR.97094B63FD95#^s-a858b3417f747f6f50b949f2|Lietuvos Respublikos ūkinių bendrijų įstatymas]] - 3 citatos - 1091010ISTA00XI-602
+- [[latest/TAR.97094B63FD95#^s-a858b3417f747f6f50b949f2|Lietuvos Respublikos ūkinių bendrijų įstatymas]] - 2 citatos - 1091010ISTA00XI-602

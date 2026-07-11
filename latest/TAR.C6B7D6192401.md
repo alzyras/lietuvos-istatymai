@@ -49,13 +49,13 @@ Papildyti 1 straipsnį 4 dalimi:
 ### 2 straipsnis. 2 straipsnio papildymas 1 dalimi ^s-2cf3598ebb5f5d55973d1e0a
 
 
-1. Papildyti [[#^s-2cf3598ebb5f5d55973d1e0a|2 straipsnį]] nauja [[#^s-88fa9115cfa1e392089fb6ce|1 dalimi]]: ^s-88fa9115cfa1e392089fb6ce
+1. Papildyti [[#^s-2cf3598ebb5f5d55973d1e0a|2 straipsnį]] nauja 1 dalimi: ^s-88fa9115cfa1e392089fb6ce
 
 
 „1. Agentūrinė operatyvinė informacija – asmenų, slapta bendradarbiavusių su buvusios SSRS specialiosiomis tarnybomis, duomenys, taip pat duomenys apie šių asmenų verbavimą ir naudojimą, jų surinkti duomenys ir kiti duomenys apie asmenis, gauti taikant operatyvinės veiklos priemones ir metodus.“
 
 
-2. Buvusias [[#^s-2cf3598ebb5f5d55973d1e0a|2 straipsnio]] 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 dalis laikyti atitinkamai 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 dalimis. ^s-3849a403ed20d8e2fb72b40d
+2. Buvusias [[#^s-2cf3598ebb5f5d55973d1e0a|2 straipsnio]] [[#^s-88fa9115cfa1e392089fb6ce|1]], 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17 dalis laikyti atitinkamai 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 dalimis. ^s-3849a403ed20d8e2fb72b40d
 
 
 

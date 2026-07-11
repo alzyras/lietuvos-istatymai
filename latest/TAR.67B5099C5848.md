@@ -59,7 +59,7 @@ PAGRINDINĖS NUOSTATOS
 1. Šis įstatymas nustato administracinių bylų dėl ginčų, kylančių iš administracinių teisinių santykių, nagrinėjimo tvarką. ^s-e4277a3ba6f75f475dd2891e
 
 
-2. Nagrinėdamas bylas, administracinis teismas vadovaujasi šio įstatymo normomis, taip pat Lietuvos Respublikos civilinio proceso kodekso (toliau – Civilinio proceso kodeksas) normomis, kai šis įstatymas jas tiesiogiai nurodo. ^s-d648d02cf83e44b1860d7514
+2. Nagrinėdamas bylas, administracinis teismas vadovaujasi šio įstatymo normomis, taip pat [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) (toliau – [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F)) normomis, kai šis įstatymas jas tiesiogiai nurodo. ^s-d648d02cf83e44b1860d7514
 
 
 3. Atskirų administracinių bylų kategorijų teiseną gali reglamentuoti ir kiti įstatymai. ^s-1956b6f3511a171b6f9951be
@@ -350,7 +350,7 @@ Nr. XIII-876, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20430
 8) ginčų tarp nepavaldžių vienas kitam viešojo administravimo subjektų dėl kompetencijos ar įstatymų pažeidimo, išskyrus civilinius ginčus, priskirtus bendrosios kompetencijos teismams; ^s-90feccc85dca59e78cbd6ebf
 
 
-9) Lietuvos Respublikos rinkimų kodekso ir Lietuvos Respublikos referendumo konstitucinio įstatymo pažeidimų; ^s-d6d7223e96dc73a2a37eabe3
+9) [Lietuvos Respublikos rinkimų kodekso](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) ir Lietuvos Respublikos referendumo konstitucinio įstatymo pažeidimų; ^s-d6d7223e96dc73a2a37eabe3
 Straipsnio punkto pakeitimai:
 Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
 
@@ -365,14 +365,14 @@ Nr. XIV-2248, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22978
 11) bendrijų, politinių partijų, politinių organizacijų ar asociacijų priimtų bendro pobūdžio teisės aktų teisėtumo; ^s-9e6621acefd5e866396c1396
 
 
-12) užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, dėl leidimų gyventi Lietuvoje pakeitimo, dėl skundų dėl prieglobsčio nesuteikimo ar panaikinimo, taip pat dėl perkeliamųjų asmenų skundų dėl perkeliamojo asmens statuso nesuteikimo ar panaikinimo; ^s-8bf27047b38401b571f508c8
+12) užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, [dėl leidimų](https://e-tar.lt/portal/lt/legalAct/TAR.49F3BFF08717) gyventi Lietuvoje pakeitimo, dėl skundų dėl prieglobsčio nesuteikimo ar panaikinimo, taip pat dėl perkeliamųjų asmenų skundų dėl perkeliamojo asmens statuso nesuteikimo ar panaikinimo; ^s-8bf27047b38401b571f508c8
 Straipsnio punkto pakeitimai:
 Nr. XIII-2079, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07318
 
 
 
 13) savivaldybės tarybos prašymų pateikti išvadą, ar savivaldybės tarybos narys, savivaldybės meras (toliau – meras), kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė (prašyme nurodytų) jiems įstatymuose nustatytų įgaliojimų; ^s-d3f9ea015c6529fa4b6aa7a7
-TAR pastaba. [[#^s-d3f9ea015c6529fa4b6aa7a7|17 straipsnio 1 dalies 13 punkto]] nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+TAR pastaba. 17 straipsnio 1 dalies 13 punkto nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
 Straipsnio punkto pakeitimai:
 Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
 
@@ -413,7 +413,7 @@ Nr. XIV-871, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26908
 ### 20 straipsnis. Regionų administracinio teismo kompetencija ^s-f7fa60d0a8e03ad80b9f6a1a
 
 
-1. Regionų administracinis teismas yra pirmoji instancija administracinėms byloms, nurodytoms šio įstatymo [[#^s-16fb6aeceb9b474c7ff3ff40|17 straipsnyje]], išskyrus bylas, nurodytas šio įstatymo [[#^s-48977122498e19b6cff05403|17 straipsnio 1 dalies]] 11, 13 ir 14 punktuose. ^s-aa3c66cd9dacc5ea3d70c14e
+1. Regionų administracinis teismas yra pirmoji instancija administracinėms byloms, nurodytoms šio įstatymo [[#^s-16fb6aeceb9b474c7ff3ff40|17 straipsnyje]], išskyrus bylas, nurodytas šio įstatymo [[#^s-48977122498e19b6cff05403|17 straipsnio 1 dalies]] [[#^s-9e6621acefd5e866396c1396|11]], [[#^s-d3f9ea015c6529fa4b6aa7a7|13]] ir [[#^s-d2c863674a792275c2c7912e|14]] punktuose. ^s-aa3c66cd9dacc5ea3d70c14e
 
 
 2. Netaikant išankstinio nagrinėjimo ne teismo tvarka procedūros, Regionų administracinis teismas, kaip pirmosios instancijos teismas, nagrinėja šias bylas: ^s-4e1ad017c0e3f8c01ba16992
@@ -440,7 +440,7 @@ Nr. XIV-871, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26908
 7) dėl Seimo kontrolieriaus pareiškimų dėl tarnybos santykių su valstybės tarnautojais nutraukimo; ^s-e1bc9484d1412cf79ec62375
 
 
-8) dėl užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, dėl leidimų gyventi Lietuvoje pakeitimo, dėl skundų dėl prieglobsčio nesuteikimo ar panaikinimo, taip pat dėl perkeliamųjų asmenų skundų dėl perkeliamojo asmens statuso nesuteikimo ar panaikinimo; ^s-14342902ce9e41ad3854afff
+8) dėl užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, [dėl leidimų](https://e-tar.lt/portal/lt/legalAct/TAR.49F3BFF08717) gyventi Lietuvoje pakeitimo, dėl skundų dėl prieglobsčio nesuteikimo ar panaikinimo, taip pat dėl perkeliamųjų asmenų skundų dėl perkeliamojo asmens statuso nesuteikimo ar panaikinimo; ^s-14342902ce9e41ad3854afff
 
 
 9) pagal ypatingos valstybinės svarbos projektus įgyvendinančių institucijų pareiškimus dėl žemės paėmimo visuomenės poreikiams teisės akto teisėtumo. ^s-092fdfac49a59d8374ff09a6
@@ -481,7 +481,7 @@ Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 2. Lietuvos vyriausiasis administracinis teismas nagrinėja prašymus dėl proceso atnaujinimo administracinėse bylose, kurios užbaigtos įsiteisėjusiu teismo sprendimu ar nutartimi. ^s-d52186959fff717e066f6341
 
 
-3. Lietuvos vyriausiasis administracinis teismas nagrinėja šio įstatymo [[#^s-48977122498e19b6cff05403|17 straipsnio 1 dalies]] 13 ir 14 punktuose nurodytas bylas. ^s-0344ca7b165f4b85b6fbbe32
+3. Lietuvos vyriausiasis administracinis teismas nagrinėja šio įstatymo [[#^s-48977122498e19b6cff05403|17 straipsnio 1 dalies]] [[#^s-d3f9ea015c6529fa4b6aa7a7|13]] ir [[#^s-d2c863674a792275c2c7912e|14]] punktuose nurodytas bylas. ^s-0344ca7b165f4b85b6fbbe32
 Straipsnio dalies pakeitimai:
 Nr. XIII-1434, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11744
 
@@ -539,7 +539,7 @@ BENDROSIOS NUOSTATOS DĖL SKUNDŲ (PRAŠYMŲ, PAREIŠKIMŲ)
 2. Su prašymais į administracinių ginčų komisiją arba administracinį teismą kreipiasi viešojo administravimo subjektai, o su skundais – kiti asmenys. Dėl rinkliavų išieškojimo paslaugas teikiančios organizacijos kreipiasi į administracinių ginčų komisiją arba administracinį teismą su prašymais. ^s-55b92846e093e5cb87dac20d
 
 
-3. Šio įstatymo [[#^s-48977122498e19b6cff05403|17 straipsnio 1 dalies]] 7 ir 11 punktuose, [[#^s-4e1ad017c0e3f8c01ba16992|20 straipsnio 2 dalies]] 3 ir 9 punktuose, 32 ir [[#^s-72ff64ff2e6195e9ee8ac655|55 straipsniuose]], [[#^s-b76cb5b38c3ad6ae6e5231d0|112 straipsnio]] 1 ir [[#^s-55b92846e093e5cb87dac20d|2 dalyse]] ir kitais įstatymuose nustatytais atvejais į administracinį teismą kreipiamasi su pareiškimais. Kiti įstatymai gali nustatyti ir kitas kreipimosi formas. ^s-c5d1ff36244acbaa08fe68ef
+3. Šio įstatymo [[#^s-48977122498e19b6cff05403|17 straipsnio 1 dalies]] [[#^s-2d7ca5f08994bbec8424d414|7]] ir [[#^s-9e6621acefd5e866396c1396|11]] punktuose, [[#^s-4e1ad017c0e3f8c01ba16992|20 straipsnio 2 dalies]] [[#^s-e49869df13aa989f9cc8ed5f|3]] ir [[#^s-092fdfac49a59d8374ff09a6|9]] punktuose, [[#^s-5f0cdb7bd41ed6778eff9ffc|32]] ir [[#^s-72ff64ff2e6195e9ee8ac655|55]] straipsniuose, [[#^s-b76cb5b38c3ad6ae6e5231d0|112 straipsnio]] [[#^s-c1ef91b1ca9489766df78af0|1]] ir [[#^s-962204f6904b64fde6355da1|2]] dalyse ir kitais įstatymuose nustatytais atvejais į administracinį teismą kreipiamasi su pareiškimais. Kiti įstatymai gali nustatyti ir kitas kreipimosi formas. ^s-c5d1ff36244acbaa08fe68ef
 Straipsnio dalies pakeitimai:
 Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
@@ -724,7 +724,7 @@ Nr. XIII-1434, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11744
 ### 30 straipsnis. Praleisto termino atnaujinimas ^s-3eb5dfb7dfddd7a6bf924bfb
 
 
-1. Pareiškėjo prašymu administracinis teismas skundo (prašymo, pareiškimo) padavimo terminus gali atnaujinti, jeigu bus pripažinta, kad terminas praleistas dėl svarbios priežasties ir nėra aplinkybių, nurodytų šio įstatymo [[#^s-17881f24564cee060bafa6f0|33 straipsnio 2 dalies]] 1–8 punktuose. Skundo (prašymo, pareiškimo) padavimo terminas negali būti atnaujintas, jeigu nuo skundžiamo teisės akto priėmimo ar veiksmo atlikimo arba nuo įstatymo ar kito teisės akto nustatyto klausimo išsprendimo termino pasibaigimo praėjo daugiau kaip dešimt metų, išskyrus atvejus, kai įsiteisėjusiu teismo nuosprendžiu nustatyta nusikalstama veika, susijusi su teisės akto priėmimu, veiksmo atlikimu arba neveikimu ar vilkinimu atlikti veiksmus. ^s-de3b1aa4110f82de998dae3a
+1. Pareiškėjo prašymu administracinis teismas skundo (prašymo, pareiškimo) padavimo terminus gali atnaujinti, jeigu bus pripažinta, kad terminas praleistas dėl svarbios priežasties ir nėra aplinkybių, nurodytų šio įstatymo [[#^s-17881f24564cee060bafa6f0|33 straipsnio 2 dalies]] [[#^s-0554955afde54e0e7d53512b|1]]–[[#^s-f1e4df632654d9d353522baf|8]] punktuose. Skundo (prašymo, pareiškimo) padavimo terminas negali būti atnaujintas, jeigu nuo skundžiamo teisės akto priėmimo ar veiksmo atlikimo arba nuo įstatymo ar kito teisės akto nustatyto klausimo išsprendimo termino pasibaigimo praėjo daugiau kaip dešimt metų, išskyrus atvejus, kai įsiteisėjusiu teismo nuosprendžiu nustatyta nusikalstama veika, susijusi su teisės akto priėmimu, veiksmo atlikimu arba neveikimu ar vilkinimu atlikti veiksmus. ^s-de3b1aa4110f82de998dae3a
 
 
 2. Prašyme atnaujinti terminą nurodomos termino praleidimo priežastys ir pateikiami jas patvirtinantys įrodymai. Kartu su prašymu atnaujinti terminą administraciniam teismui turi būti paduotas skundas (prašymas, pareiškimas). Kai prašymas atnaujinti terminą paduodamas elektroninių ryšių priemonėmis, skundas (prašymas, pareiškimas) taip pat paduodamas elektroninių ryšių priemonėmis. ^s-b094e17d75894c8de3154993
@@ -769,14 +769,14 @@ Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 ### 32 straipsnis. Seimo kontrolieriaus pareiškimas ^s-5f0cdb7bd41ed6778eff9ffc
 
 
-Kai dėl piliečio skundo pagal Lietuvos Respublikos Seimo kontrolierių įstatymą (toliau – [[latest/TAR.EC01522BCE65#^s-d465931749032f1984019be2|Seimo kontrolierių įstatymas) į administracinį teismą kreipiasi Seimo kontrolierius, jo pareiškimas turi atitikti šio įstatymo 24 straipsnio]] 1 ir 2 dalyse ir [[#^s-3813f173b778a080001f52a8|25 straipsnio 3 dalyje]] nustatytus reikalavimus.
+Kai dėl piliečio skundo pagal Lietuvos Respublikos Seimo kontrolierių įstatymą (toliau – [[latest/TAR.EC01522BCE65#^s-d465931749032f1984019be2|Seimo kontrolierių įstatymas) į administracinį teismą kreipiasi Seimo kontrolierius, jo pareiškimas turi atitikti šio įstatymo 24 straipsnio]] [[latest/TAR.EC01522BCE65|1]] ir [[latest/TAR.EC01522BCE65|2]] dalyse ir [[#^s-3813f173b778a080001f52a8|25 straipsnio 3 dalyje]] nustatytus reikalavimus.
 
 
 
 ### 33 straipsnis. Skundo (prašymo, pareiškimo) priėmimas ^s-94f9fa64fb497c94aec656c1
 
 
-1. Gavus teisme skundą (prašymą, pareiškimą), administracinio teismo pirmininkas ar teisėjas jo priėmimo klausimą išsprendžia ne vėliau kaip per septynias darbo dienas. Kai sprendžiamas skundo (prašymo, pareiškimo) padavimo termino atnaujinimo klausimas ir šio įstatymo [[#^s-5b46216cb42835b0ea50e2ab|30 straipsnio 3 dalyje]] nustatyta tvarka pranešama suinteresuotiems asmenims, administracinio teismo pirmininkas ar teisėjas skundo (prašymo, pareiškimo) priėmimo klausimą išsprendžia ne vėliau kaip per dešimt darbo dienų. Jeigu skundas (prašymas, pareiškimas) neatitinka šio įstatymo [[#^s-74cde64ac0bbb87c3a98266f|9 straipsnio 2 dalyje]], 24, 25 ir [[#^s-c30a64786bf474addd0f1e31|35 straipsniuose]] nustatytų reikalavimų, nutartimi nustatomas terminas trūkumams pašalinti. Jeigu per teismo nustatytą terminą trūkumai pašalinami, skundas (prašymas, pareiškimas) laikomas paduotu pradinio jo padavimo teismui dieną. Jeigu per teismo nustatytą terminą trūkumai nepašalinami, skundas (prašymas, pareiškimas) laikomas nepaduotu ir teisėjo nutartimi grąžinamas pareiškėjui. Dėl nutarties grąžinti skundą (prašymą, pareiškimą) pareiškėjui gali būti paduodamas atskirasis skundas. ^s-d4bfd8b03a7ccd5c49e5aebc
+1. Gavus teisme skundą (prašymą, pareiškimą), administracinio teismo pirmininkas ar teisėjas jo priėmimo klausimą išsprendžia ne vėliau kaip per septynias darbo dienas. Kai sprendžiamas skundo (prašymo, pareiškimo) padavimo termino atnaujinimo klausimas ir šio įstatymo [[#^s-5b46216cb42835b0ea50e2ab|30 straipsnio 3 dalyje]] nustatyta tvarka pranešama suinteresuotiems asmenims, administracinio teismo pirmininkas ar teisėjas skundo (prašymo, pareiškimo) priėmimo klausimą išsprendžia ne vėliau kaip per dešimt darbo dienų. Jeigu skundas (prašymas, pareiškimas) neatitinka šio įstatymo [[#^s-74cde64ac0bbb87c3a98266f|9 straipsnio 2 dalyje]], [[#^s-6dcb164ab7fa8872d02d667a|24]], [[#^s-5ab5e9c72fe7444d3acdb4e8|25]] ir [[#^s-c30a64786bf474addd0f1e31|35]] straipsniuose nustatytų reikalavimų, nutartimi nustatomas terminas trūkumams pašalinti. Jeigu per teismo nustatytą terminą trūkumai pašalinami, skundas (prašymas, pareiškimas) laikomas paduotu pradinio jo padavimo teismui dieną. Jeigu per teismo nustatytą terminą trūkumai nepašalinami, skundas (prašymas, pareiškimas) laikomas nepaduotu ir teisėjo nutartimi grąžinamas pareiškėjui. Dėl nutarties grąžinti skundą (prašymą, pareiškimą) pareiškėjui gali būti paduodamas atskirasis skundas. ^s-d4bfd8b03a7ccd5c49e5aebc
 
 
 2. Administracinio teismo pirmininkas ar teisėjas motyvuota nutartimi atsisako priimti skundą (prašymą, pareiškimą), jeigu: ^s-17881f24564cee060bafa6f0
@@ -841,7 +841,7 @@ Nr. XV-923, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08258
 ### 35 straipsnis. Žyminio mokesčio dydis ^s-c30a64786bf474addd0f1e31
 
 
-1. Administracinėse bylose už kiekvieną skundą (prašymą, pareiškimą), nepaisant to, kiek jame keliama reikalavimų, mokamas 30 eurų žyminis mokestis, išskyrus išimtis, nurodytas šio įstatymo 36 ir [[#^s-7ffd5fe2df33082782835353|37 straipsniuose]]. ^s-be3ee80d0560b25fb33dbf33
+1. Administracinėse bylose už kiekvieną skundą (prašymą, pareiškimą), nepaisant to, kiek jame keliama reikalavimų, mokamas 30 eurų žyminis mokestis, išskyrus išimtis, nurodytas šio įstatymo [[#^s-991d1219a8f947bc96bc1e76|36]] ir [[#^s-7ffd5fe2df33082782835353|37]] straipsniuose. ^s-be3ee80d0560b25fb33dbf33
 
 
 2. Už apeliacinį skundą dėl teismo sprendimo mokamas 15 eurų žyminis mokestis. ^s-31495ae0e3ee91e45b9b8516
@@ -865,7 +865,7 @@ Nr. XIV-1350, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15445
 2) pensijų skyrimo ar atsisakymo jas skirti; ^s-5d96536feb841f11fd8e7ad6
 
 
-3) Rinkimų kodekso ir Referendumo konstitucinio įstatymo pažeidimų; ^s-d48f5234300460acbe811cb3
+3) [Rinkimų kodekso](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) ir Referendumo konstitucinio įstatymo pažeidimų; ^s-d48f5234300460acbe811cb3
 Straipsnio punkto pakeitimai:
 Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
 
@@ -893,7 +893,7 @@ Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
 
 
 11) išvadų, ar savivaldybės tarybos narys, meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė (prašyme nurodytų) jiems įstatymuose nustatytų įgaliojimų, pateikimo; ^s-df80530d4366a385500378ab
-TAR pastaba. [[#^s-df80530d4366a385500378ab|36 straipsnio 1 dalies 11 punkto]] nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+TAR pastaba. 36 straipsnio 1 dalies 11 punkto nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
 Straipsnio punkto pakeitimai:
 Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
 
@@ -908,7 +908,7 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 2. Žyminiu mokesčiu neapmokestinami ir kiti viešojo administravimo subjektų kreipimaisi į administracinį teismą, kurie tiesiogiai susiję su jų atliekamomis viešojo administravimo funkcijomis. ^s-439f482676d863c9b66198a8
 
 
-3. Žyminiu mokesčiu neapmokestinami ir proceso šalių atskirieji skundai, taip pat apeliaciniai skundai dėl administracinių teismų sprendimų dėl šio straipsnio 1 ir [[#^s-439f482676d863c9b66198a8|2 dalyse]] nurodytų skundų (prašymų, pareiškimų), taip pat šio įstatymo [[#^s-b76cb5b38c3ad6ae6e5231d0|112 straipsnio]] 1 ir [[#^s-439f482676d863c9b66198a8|2 dalyse]] nurodytų subjektų pareiškimai ištirti norminio administracinio akto ar kito bendro pobūdžio teisės akto teisėtumą. ^s-2b44c559aad8bdd9ecc35713
+3. Žyminiu mokesčiu neapmokestinami ir proceso šalių atskirieji skundai, taip pat apeliaciniai skundai dėl administracinių teismų sprendimų dėl šio straipsnio [[#^s-e01d4db480c619215afa61bd|1]] ir [[#^s-439f482676d863c9b66198a8|2]] dalyse nurodytų skundų (prašymų, pareiškimų), taip pat šio įstatymo [[#^s-b76cb5b38c3ad6ae6e5231d0|112 straipsnio]] [[#^s-c1ef91b1ca9489766df78af0|1]] ir [[#^s-962204f6904b64fde6355da1|2]] dalyse nurodytų subjektų pareiškimai ištirti norminio administracinio akto ar kito bendro pobūdžio teisės akto teisėtumą. ^s-2b44c559aad8bdd9ecc35713
 
 
 4. Teismas turi teisę pareikalauti iš asmenų, kurie piktnaudžiauja teisminės gynybos teise (tai yra kreipiasi į teismą be rimto pagrindo arba dažniau kaip vieną kartą per mėnesį), sumokėti žyminį mokestį. ^s-34d17f2e72c32ca6f395def3
@@ -1032,13 +1032,13 @@ Nr. XV-923, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08258
 3. Kai išnagrinėjus bylą yra patenkinamos ar apginamos trečiųjų suinteresuotų asmenų teisės, šie asmenys turi tokias pačias teises į išlaidų atlyginimą, kaip ir proceso šalis, kurios naudai priimtas sprendimas. ^s-fcfd1273f7ebb75c496c69fd
 
 
-4. Teismas gali nesilaikyti šio straipsnio 1, 2 ir [[#^s-fcfd1273f7ebb75c496c69fd|3 dalyse]] nustatytų bylinėjimosi išlaidų paskirstymo taisyklių, atsižvelgdamas į tai, ar proceso šalių procesinis elgesys buvo tinkamas (taip pat ir mediacijos atveju), ir įvertinęs ginčo kilimo ir kitas priežastis, dėl kurių susidarė bylinėjimosi išlaidos. Proceso šalies procesinis elgesys laikomas tinkamu, jeigu ji sąžiningai naudojosi procesinėmis teisėmis ir sąžiningai atliko procesines pareigas. ^s-df8311ac797bb38c9bbf83e2
+4. Teismas gali nesilaikyti šio straipsnio [[#^s-0723d2b022ff8c2d06aae1a7|1]], [[#^s-604066cf37c89b799d38e1ac|2]] ir [[#^s-fcfd1273f7ebb75c496c69fd|3]] dalyse nustatytų bylinėjimosi išlaidų paskirstymo taisyklių, atsižvelgdamas į tai, ar proceso šalių procesinis elgesys buvo tinkamas (taip pat ir mediacijos atveju), ir įvertinęs ginčo kilimo ir kitas priežastis, dėl kurių susidarė bylinėjimosi išlaidos. Proceso šalies procesinis elgesys laikomas tinkamu, jeigu ji sąžiningai naudojosi procesinėmis teisėmis ir sąžiningai atliko procesines pareigas. ^s-df8311ac797bb38c9bbf83e2
 Straipsnio dalies pakeitimai:
 Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
 
 
 
-5. Proceso šalis, kurios naudai priimtas sprendimas, turi teisę reikalauti atlyginti jai išlaidas advokato ar advokato padėjėjo pagalbai apmokėti. Kitų atstovų pagal pavedimą pagalbai apmokėti patirtos išlaidos atlyginamos, jeigu teismas pripažįsta, kad jos buvo būtinos ir pagrįstos ir jos nėra susijusios su teisinių paslaugų teikimu proceso šaliai. Atstovavimo išlaidų atlyginimo klausimas sprendžiamas Civilinio proceso kodekso ir kitų teisės aktų nustatyta tvarka. ^s-ec68292c2598fcf134ec71a1
+5. Proceso šalis, kurios naudai priimtas sprendimas, turi teisę reikalauti atlyginti jai išlaidas advokato ar advokato padėjėjo pagalbai apmokėti. Kitų atstovų pagal pavedimą pagalbai apmokėti patirtos išlaidos atlyginamos, jeigu teismas pripažįsta, kad jos buvo būtinos ir pagrįstos ir jos nėra susijusios su teisinių paslaugų teikimu proceso šaliai. Atstovavimo išlaidų atlyginimo klausimas sprendžiamas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir kitų teisės aktų nustatyta tvarka. ^s-ec68292c2598fcf134ec71a1
 
 
 6. Jeigu ginčo šalys, sudarydamos taikos sutartį, nenustatė bylinėjimosi išlaidų paskirstymo tvarkos, teismas šį klausimą išsprendžia pagal šio straipsnio nuostatas. ^s-a9076eed158fe884e8a8585f
@@ -1051,7 +1051,7 @@ Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
 ### 41 straipsnis. Sprendimo dėl išlaidų atlyginimo priėmimas ^s-f9e88c67f3a4cef0f8821820
 
 
-1. Dėl išlaidų atlyginimo suinteresuota proceso šalis iki bylos nagrinėjimo iš esmės pabaigos teismui pateikia prašymą raštu su išlaidų apskaičiavimu ir pagrindimu. Prašymus dėl išlaidų atlyginimo teismas išnagrinėja priimdamas sprendimą dėl administracinės bylos. ^s-2434b9a58d6fc61b4815be10
+1. [Dėl išlaidų atlyginimo](https://e-tar.lt/portal/lt/legalAct/11996f80d68711ec8d9390588bf2de65) suinteresuota proceso šalis iki bylos nagrinėjimo iš esmės pabaigos teismui pateikia prašymą raštu su išlaidų apskaičiavimu ir pagrindimu. Prašymus [dėl išlaidų atlyginimo](https://e-tar.lt/portal/lt/legalAct/11996f80d68711ec8d9390588bf2de65) teismas išnagrinėja priimdamas sprendimą dėl administracinės bylos. ^s-2434b9a58d6fc61b4815be10
 
 
 2. Jeigu pareiškėjas atsisako skundo (prašymo, pareiškimo) dėl to, kad atsakovas geruoju patenkina jo reikalavimą, teismas bylinėjimosi išlaidų atlyginimo klausimą išsprendžia nutartimi. ^s-22ddfebeae88be4e66d17953
@@ -1060,7 +1060,7 @@ Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
 3. Jeigu Lietuvos vyriausiasis administracinis teismas, neperduodamas bylos iš naujo nagrinėti, pakeičia pirmosios instancijos teismo sprendimą arba priima naują sprendimą, jis atitinkamai pakeičia bylinėjimosi išlaidų paskirstymą. Jeigu Lietuvos vyriausiasis administracinis teismas bylinėjimosi išlaidų nepaskirsto, šį klausimą išsprendžia pirmosios instancijos teismas paprastai rašytinio proceso tvarka priimdamas nutartį. ^s-28cd5dd95dc500085aef72a4
 
 
-4. Pirmosios instancijos teismo nutartis dėl išlaidų atlyginimo per septynias kalendorines dienas nuo paskelbimo gali būti skundžiama Lietuvos vyriausiajam administraciniam teismui. ^s-f9f7bc180fdb9f928c651f04
+4. Pirmosios instancijos teismo nutartis [dėl išlaidų atlyginimo](https://e-tar.lt/portal/lt/legalAct/11996f80d68711ec8d9390588bf2de65) per septynias kalendorines dienas nuo paskelbimo gali būti skundžiama Lietuvos vyriausiajam administraciniam teismui. ^s-f9f7bc180fdb9f928c651f04
 
 
 Straipsnio pakeitimai:
@@ -1071,7 +1071,7 @@ Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 ### 42 straipsnis. Valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo valstybei tvarka ^s-bf9f9daf8724adaed784aed9
 
 
-1. Jeigu proceso šaliai, kurios naudai priimtas sprendimas, buvo paskirta valstybės garantuojama teisinė pagalba, teismas savo iniciatyva, gavęs iš valstybės garantuojamos teisinės pagalbos teikimą organizuojančios institucijos duomenis apie apskaičiuotas teisinės pagalbos išlaidas, išsprendžia valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo valstybei klausimą, mutatis mutandis taikydamas šio įstatymo 40 ir [[#^s-f9e88c67f3a4cef0f8821820|41 straipsnių]] nuostatas, reglamentuojančias išlaidų atlyginimą. ^s-b352d7b34109cdfc52b1be9b
+1. Jeigu proceso šaliai, kurios naudai priimtas sprendimas, buvo paskirta valstybės garantuojama teisinė pagalba, teismas savo iniciatyva, gavęs iš valstybės garantuojamos teisinės pagalbos teikimą organizuojančios institucijos duomenis apie apskaičiuotas teisinės pagalbos išlaidas, išsprendžia valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo valstybei klausimą, mutatis mutandis taikydamas šio įstatymo [[#^s-76cb36653ed97b624eab4611|40]] ir [[#^s-f9e88c67f3a4cef0f8821820|41]] straipsnių nuostatas, reglamentuojančias išlaidų atlyginimą. ^s-b352d7b34109cdfc52b1be9b
 
 
 2. Jeigu valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo klausimas nebuvo išspręstas priimant sprendimą išnagrinėjus bylą iš esmės, valstybės garantuojamos teisinės pagalbos teikimą organizuojanti institucija turi teisę ne vėliau kaip per keturiolika kalendorinių dienų nuo šio sprendimo įsiteisėjimo pateikti teismui prašymą dėl valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo valstybei. Šiuo atveju teismas išsprendžia valstybės garantuojamos teisinės pagalbos išlaidų atlyginimo valstybei klausimą priimdamas papildomą sprendimą. ^s-ac6e69bf6c110ec7c56f71c7
@@ -1088,7 +1088,7 @@ TEISMO SUDĖTIS. TEISĖJO IR KITŲ ASMENŲ NUŠALINIMAS
 ### 43 straipsnis. Administracinio teismo sudėtis ^s-50ca3486c1d2e767076c2c72
 
 
-1. Regionų administraciniame teisme bylas, nurodytas šio įstatymo [[#^s-48977122498e19b6cff05403|17 straipsnio 1 dalies]] 3, 4 ir 5 punktuose, [[#^s-8fee79d5ea5db37bdabed7bf|131 straipsnio]] 1 ir [[#^s-001a411f873dae7dae0f27d0|2 dalyse]], bylas dėl viešojo administravimo subjektų sprendimų, susijusių su valstybės garantuojamos teisinės pagalbos teikimu, bylas dėl administracinių ginčų komisijų ir kitų kolegialių išankstinio ginčų nagrinėjimo ne teismo tvarka institucijų priimtų sprendimų, taip pat šio įstatymo [[#^s-fa0546f64365093f8af0372f|99 straipsnio 5 dalyje]] nustatytais atvejais nagrinėja vienas teisėjas, kitas bylas – trijų teisėjų kolegija. Tam tikrais atvejais teismo pirmininko ar jo paskirto teisėjo nutartimi gali būti sudaroma teisėjų kolegija nagrinėti ir toms byloms, kurioms nustatytas vienasmenis nagrinėjimas. Kai teismas yra sudarytas iš teismo rūmų, teisėjų kolegija gali būti sudaroma iš teisėjų, kurie paskirti į tuos pačius ar skirtingus teismo rūmus. ^s-cfb9829de351b14b6609c9ef
+1. Regionų administraciniame teisme bylas, nurodytas šio įstatymo [[#^s-48977122498e19b6cff05403|17 straipsnio 1 dalies]] [[#^s-7c83bba03d1654c2930e57b0|3]], [[#^s-ff9fe11f5aa45c167152a79b|4]] ir [[#^s-c16b002cf17e1820a8f3557a|5]] punktuose, [[#^s-8fee79d5ea5db37bdabed7bf|131 straipsnio]] [[#^s-11fcd077ba2518ad2a533a2a|1]] ir [[#^s-af67d4758dbb76a60531fb31|2]] dalyse, bylas dėl viešojo administravimo subjektų sprendimų, susijusių su valstybės garantuojamos teisinės pagalbos teikimu, bylas dėl administracinių ginčų komisijų ir kitų kolegialių išankstinio ginčų nagrinėjimo ne teismo tvarka institucijų priimtų sprendimų, taip pat šio įstatymo [[#^s-fa0546f64365093f8af0372f|99 straipsnio 5 dalyje]] nustatytais atvejais nagrinėja vienas teisėjas, kitas bylas – trijų teisėjų kolegija. Tam tikrais atvejais teismo pirmininko ar jo paskirto teisėjo nutartimi gali būti sudaroma teisėjų kolegija nagrinėti ir toms byloms, kurioms nustatytas vienasmenis nagrinėjimas. Kai teismas yra sudarytas iš teismo rūmų, teisėjų kolegija gali būti sudaroma iš teisėjų, kurie paskirti į tuos pačius ar skirtingus teismo rūmus. ^s-cfb9829de351b14b6609c9ef
 Straipsnio dalies pakeitimai:
 Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
 Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
@@ -1140,7 +1140,7 @@ Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
 
 
 
-3. [[#^s-f4d148338da1b7e3f8827678|Šio straipsnio 2 dalies]] 2 ir [[#^s-ea58bc6e8093fec9b7ee1d27|3 punktuose]] nurodyti nušalinimo pagrindai taip pat taikomi specialistui, ekspertui, vertėjui ir teismo posėdžio sekretoriui. Ekspertas, be to, negali dalyvauti nagrinėjant bylą: ^s-cefa025508020fd1e2cc1e86
+3. [[#^s-f4d148338da1b7e3f8827678|Šio straipsnio 2 dalies]] [[#^s-08b7aeffe7a250e44a525896|2]] ir [[#^s-ea58bc6e8093fec9b7ee1d27|3]] punktuose nurodyti nušalinimo pagrindai taip pat taikomi specialistui, ekspertui, vertėjui ir teismo posėdžio sekretoriui. Ekspertas, be to, negali dalyvauti nagrinėjant bylą: ^s-cefa025508020fd1e2cc1e86
 
 
 1) jeigu jis pagal tarnybą ar kitaip yra priklausomas bent nuo vienos iš proceso šalių ar kitų proceso dalyvių; ^s-390ddbaf8332ab0edcee8aab
@@ -1168,7 +1168,7 @@ Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
 ### 45 straipsnis. Pareikšto nušalinimo išsprendimo tvarka ^s-bf446dbfa8c94ef834422559
 
 
-1. Kai šio įstatymo [[#^s-c87068a3d9954370d2f7d7ba|44 straipsnio]] 1 ir [[#^s-8c430938e7acc62c8f25ad7b|2 dalyse]] nurodytais pagrindais nušalinimą teisėjui (teisėjams) pareiškia proceso dalyvis, nušalinimo klausimą sprendžia to teismo pirmininkas, teismo pirmininko pavaduotojas arba jų paskirtas teisėjas, išskyrus [[#^s-8c430938e7acc62c8f25ad7b|šio straipsnio 2 dalyje]] nurodytus atvejus. ^s-ce31d947043f6dbe8f3ead2f
+1. Kai šio įstatymo [[#^s-c87068a3d9954370d2f7d7ba|44 straipsnio]] [[#^s-c8c8b84b7016ea5ea8073a37|1]] ir [[#^s-f4d148338da1b7e3f8827678|2]] dalyse nurodytais pagrindais nušalinimą teisėjui (teisėjams) pareiškia proceso dalyvis, nušalinimo klausimą sprendžia to teismo pirmininkas, teismo pirmininko pavaduotojas arba jų paskirtas teisėjas, išskyrus [[#^s-8c430938e7acc62c8f25ad7b|šio straipsnio 2 dalyje]] nurodytus atvejus. ^s-ce31d947043f6dbe8f3ead2f
 
 
 2. Kai bylai nagrinėti yra sudaryta teisėjų kolegija ir nušalinimas pareiškiamas ne visiems teisėjų kolegijos nariams, nušalinimo klausimą sprendžia teisėjai (teisėjas), kuriems (kuriam) nušalinimas nėra pareikštas. Jeigu balsų už ir prieš nušalinimą yra po lygiai, teisėjas laikomas nušalintu. Pareiškus pakartotinį nušalinimą, grindžiamą tais pačiais argumentais, kuriais grįstas nušalinimas buvo atmestas, nušalinimo klausimą nedelsdamas išsprendžia bylą nagrinėjantis teisėjas ar teisėjų kolegija. ^s-8c430938e7acc62c8f25ad7b
@@ -1253,7 +1253,7 @@ Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
 5. Kartu su [[#^s-60783cbb1ad1688df984c35c|šio straipsnio 3 dalyje]] ir [[#^s-840911979fccc6e9145c0b39|4 dalies]] 1, 2 ir 5 punktuose nurodytais asmenimis atstovais pagal pavedimą gali būti ir kiti asmenys. Jeigu į teismo posėdį neatvyksta [[#^s-60783cbb1ad1688df984c35c|šio straipsnio 3 dalyje]] ir [[#^s-840911979fccc6e9145c0b39|4 dalies]] 1, 2 ir 5 punktuose nurodyti asmenys, kiti asmenys byloje atstovauti pagal pavedimą savarankiškai negali. ^s-7ea9b4f6839283c82c164648
 
 
-6. Advokato arba advokato padėjėjo įgaliojimai patvirtinami advokato arba advokato padėjėjo su klientu pasirašyta sutartimi ar sutarties išrašu. Kitų atstovų įgaliojimai patvirtinami Civilinio proceso kodekso nustatyta tvarka. ^s-321ec3750e95d7e37211b2e7
+6. Advokato arba advokato padėjėjo įgaliojimai patvirtinami advokato arba advokato padėjėjo su klientu pasirašyta sutartimi ar sutarties išrašu. Kitų atstovų įgaliojimai patvirtinami [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-321ec3750e95d7e37211b2e7
 
 
 7. Jeigu proceso šalis yra nepilnametis ar asmuo, įstatymų nustatyta tvarka pripažintas neveiksniu tam tikroje srityje arba ribotai veiksniu tam tikroje srityje, jų interesams turi teisę atstovauti jų atstovai pagal įstatymą (tėvai, įtėviai, globėjai, rūpintojai). ^s-5eca72fa53d4688c5a2d0457
@@ -1306,15 +1306,15 @@ Nr. XIII-1848, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21880
 2. Pareiškėjas turi teisę atsisakyti skundo (prašymo, pareiškimo) bet kurioje bylos nagrinėjimo stadijoje, iki teismas išeina į pasitarimų kambarį. Teismas nepriima pareiškėjo skundo (prašymo, pareiškimo) atsisakymo, jeigu tai prieštarauja imperatyvioms įstatymų nuostatoms ar viešajam interesui. Jeigu pareiškėjas atsisako skundo (prašymo, pareiškimo), bylos nutraukimo klausimas gali būti sprendžiamas rašytinio proceso tvarka. ^s-cdb4aa347ca875bb7e34b8f5
 
 
-3. Pareiškėjas turi teisę tikslinti, pakeisti skundo (prašymo, pareiškimo) pagrindą ar dalyką per keturiolika kalendorinių dienų nuo proceso šalių atsiliepimų gavimo dienos. Tokiu atveju teismui yra pateikiamas patikslintas skundas (prašymas, pareiškimas), kuris turi atitikti šio įstatymo [[#^s-74cde64ac0bbb87c3a98266f|9 straipsnio 2 dalyje]] ir 24 ir [[#^s-5ab5e9c72fe7444d3acdb4e8|25 straipsniuose]] nustatytus reikalavimus. Patikslinto skundo (prašymo, pareiškimo) priėmimo klausimas sprendžiamas mutatis mutandis taikant šio įstatymo [[#^s-94f9fa64fb497c94aec656c1|33 straipsnio]] nuostatas. Teismas atsisako priimti pavėluotai pateiktą patikslintą skundą (prašymą, pareiškimą), išskyrus atvejus, kai atsakovas neprieštarauja dėl patikslinto skundo (prašymo, pareiškimo) priėmimo arba jeigu būtinybė pateikti patikslintą skundą (prašymą, pareiškimą) iškilo vėliau, arba jeigu teismas mano, kad tai yra būtina bylai teisingai išspręsti. Teismo nutartis atsisakyti priimti patikslintą skundą (prašymą, pareiškimą) atskiruoju skundu neskundžiama. ^s-ec6b3aa548d8eec85d100a10
+3. Pareiškėjas turi teisę tikslinti, pakeisti skundo (prašymo, pareiškimo) pagrindą ar dalyką per keturiolika kalendorinių dienų nuo proceso šalių atsiliepimų gavimo dienos. Tokiu atveju teismui yra pateikiamas patikslintas skundas (prašymas, pareiškimas), kuris turi atitikti šio įstatymo [[#^s-74cde64ac0bbb87c3a98266f|9 straipsnio 2 dalyje]] ir [[#^s-6dcb164ab7fa8872d02d667a|24]] ir [[#^s-5ab5e9c72fe7444d3acdb4e8|25]] straipsniuose nustatytus reikalavimus. Patikslinto skundo (prašymo, pareiškimo) priėmimo klausimas sprendžiamas mutatis mutandis taikant šio įstatymo [[#^s-94f9fa64fb497c94aec656c1|33 straipsnio]] nuostatas. Teismas atsisako priimti pavėluotai pateiktą patikslintą skundą (prašymą, pareiškimą), išskyrus atvejus, kai atsakovas neprieštarauja dėl patikslinto skundo (prašymo, pareiškimo) priėmimo arba jeigu būtinybė pateikti patikslintą skundą (prašymą, pareiškimą) iškilo vėliau, arba jeigu teismas mano, kad tai yra būtina bylai teisingai išspręsti. Teismo nutartis atsisakyti priimti patikslintą skundą (prašymą, pareiškimą) atskiruoju skundu neskundžiama. ^s-ec6b3aa548d8eec85d100a10
 
 
 
 ### 51 straipsnis. Teisė sudaryti taikos sutartį ^s-a4730c647eeb75ff9ae44957
 
 
-1. Bet kurioje proceso stadijoje ginčo šalys gali baigti bylą taikos sutartimi, jeigu ją sudaryti galima atsižvelgiant į ginčo pobūdį. Taikos sutartis turi neprieštarauti imperatyvioms įstatymų ir kitų teisės aktų nuostatoms, viešajam interesui, nepažeisti trečiųjų suinteresuotų asmenų teisių ar teisėtų interesų. Taikos sutartis negali būti sudaroma bylose dėl norminių administracinių aktų teisėtumo, bylose pagal skundus dėl Rinkimų kodekso ir Referendumo konstitucinio įstatymo pažeidimų, bylose dėl savivaldybės tarybos prašymų pateikti išvadą, ar savivaldybės tarybos narys, meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė jiems įstatymuose nustatytų įgaliojimų. Taikos sutarties dalykas turi būti to paties pobūdžio, kaip ir skunde (prašyme) nurodyti reikalavimai. Taikos sutartimi gali būti išspręstas visas ginčas ar jo dalis (atskiri reikalavimai). Teismas imasi priemonių ginčo šalims sutaikyti tik tuo atveju, kai yra ginčo šalių sutikimas pradėti derybas dėl taikos sutarties sudarymo. ^s-1ba1ccee791dd61b9720b2c9
-TAR pastaba. [[#^s-1ba1ccee791dd61b9720b2c9|51 straipsnio 1 dalies]] nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+1. Bet kurioje proceso stadijoje ginčo šalys gali baigti bylą taikos sutartimi, jeigu ją sudaryti galima atsižvelgiant į ginčo pobūdį. Taikos sutartis turi neprieštarauti imperatyvioms įstatymų ir kitų teisės aktų nuostatoms, viešajam interesui, nepažeisti trečiųjų suinteresuotų asmenų teisių ar teisėtų interesų. Taikos sutartis negali būti sudaroma bylose dėl norminių administracinių aktų teisėtumo, bylose pagal skundus dėl [Rinkimų kodekso](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) ir Referendumo konstitucinio įstatymo pažeidimų, bylose dėl savivaldybės tarybos prašymų pateikti išvadą, ar savivaldybės tarybos narys, meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė jiems įstatymuose nustatytų įgaliojimų. Taikos sutarties dalykas turi būti to paties pobūdžio, kaip ir skunde (prašyme) nurodyti reikalavimai. Taikos sutartimi gali būti išspręstas visas ginčas ar jo dalis (atskiri reikalavimai). Teismas imasi priemonių ginčo šalims sutaikyti tik tuo atveju, kai yra ginčo šalių sutikimas pradėti derybas dėl taikos sutarties sudarymo. ^s-1ba1ccee791dd61b9720b2c9
+TAR pastaba. 51 straipsnio 1 dalies nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
 Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
@@ -1874,7 +1874,7 @@ Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 7) kad asmuo, priėmęs šaukimą nesant adresato, privalo atsiradus galimybei įteikti jį adresatui; ^s-b9e2ab0fe84d93204e03d168
 
 
-8) neatvykimo pasekmės (šio įstatymo 58, 77, 83 ir [[#^s-a49ec49610af59894b8f37cb|105 straipsniai]]). ^s-ad7d659d28e2a2d5a58bab0f
+8) neatvykimo pasekmės (šio įstatymo [[#^s-2305b183a9228265fb5da3f7|58]], [[#^s-e580408ccf8f76e66dba77eb|77]], [[#^s-21379912d4d1efc5ce779182|83]] ir [[#^s-a49ec49610af59894b8f37cb|105]] straipsniai). ^s-ad7d659d28e2a2d5a58bab0f
 
 
 2. Po šaukimo tekstu nurodomos proceso šalių pagrindinės procesinės teisės ir pareigos. Šaukime taip pat nurodoma, kad tretieji suinteresuoti asmenys gali pageidauti, kad byla būtų nagrinėjama naudojant informacines ir elektroninių ryšių technologijas (per vaizdo konferencijas, telekonferencijas ir kitaip), ir (arba) gali pageidauti užtikrinti jiems ir (ar) jų atstovams galimybę pasinaudoti teismo informacinėmis ir elektroninių ryšių technologijomis (vaizdo konferencijomis, telekonferencijomis ar kitaip) teismo patalpose. Šaukimo įteikimas reiškia, kad proceso šaliai yra išaiškintos jos procesinės teisės. ^s-486fd96028243fc2dbe958b9
@@ -1948,7 +1948,7 @@ Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
 1. Byla administracinio teismo posėdyje nagrinėjama tik tada, kai proceso dalyviams apie posėdžio laiką ir vietą iš anksto pranešta šaukimu, pranešimu arba viešo paskelbimo būdu. ^s-063b0865cc6ad3450d9b1c30
 
 
-2. Bylose dėl Rinkimų kodekso ir Referendumo konstitucinio įstatymo pažeidimų, taip pat bylose dėl ginčų, kuriems nagrinėti įstatymas nustato specialius terminus, šaukimai proceso dalyviams gali būti įteikti prieš vieną kalendorinę dieną iki posėdžio pradžios. ^s-a8814db69829b2bc396aced7
+2. Bylose dėl [Rinkimų kodekso](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) ir Referendumo konstitucinio įstatymo pažeidimų, taip pat bylose dėl ginčų, kuriems nagrinėti įstatymas nustato specialius terminus, šaukimai proceso dalyviams gali būti įteikti prieš vieną kalendorinę dieną iki posėdžio pradžios. ^s-a8814db69829b2bc396aced7
 Straipsnio dalies pakeitimai:
 Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
 
@@ -2075,7 +2075,7 @@ Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
 1. Mediatorius skiriamas vykdyti teisminę mediaciją [[latest/TAR.27B041C4CCDE|Mediacijos įstatymo]] nustatyta tvarka. Jeigu teisminę mediaciją vykdys administracinę bylą nagrinėjantis teisėjas ar administracinę bylą nagrinėjančios teisėjų kolegijos narys, jo sutikimas vykdyti teisminę mediaciją įforminamas nutartimi. Prieš duodamas sutikimą vykdyti teisminę mediaciją, mediatorius turi teisę gauti šio įstatymo [[#^s-618cbf51f37153ee4c151ff2|791 straipsnio 3 dalyje]] nurodytą informaciją apie ginčo esmę, proceso šalis, bylos kategoriją. ^s-6b7882d205c9af36d88d7442
 
 
-2. Mediatorius turi nusišalinti nuo ginčo sprendimo teisminės mediacijos būdu šio įstatymo [[#^s-f4d148338da1b7e3f8827678|44 straipsnio 2 dalies]] 1, 2, 3 ir 4 punktuose nurodytais pagrindais. Be to, mediatorius turi nusišalinti, jeigu: ^s-d3cce42561cc93650ef9369a
+2. Mediatorius turi nusišalinti nuo ginčo sprendimo teisminės mediacijos būdu šio įstatymo [[#^s-f4d148338da1b7e3f8827678|44 straipsnio 2 dalies]] [[#^s-b1b08c5df4dc00188faef7a6|1]], [[#^s-c04c838ce440b8e4538fbd0e|2]], [[#^s-1313355eeb829d277c52e52c|3]] ir [[#^s-6849a37c0206cae43ff8b7ad|4]] punktuose nurodytais pagrindais. Be to, mediatorius turi nusišalinti, jeigu: ^s-d3cce42561cc93650ef9369a
 
 
 1) jis pats arba institucija ar įstaiga, su kuria jis susijęs tarnybos (darbo) santykiais, dalyvavo priimant šioje byloje skundžiamą individualų administracinį aktą arba šioje byloje skundžiami jo, institucijos ar įstaigos, su kuria jis susijęs tarnybos (darbo) santykiais, veiksmai (neveikimas) ar vilkinimas atlikti veiksmus; ^s-41820e911f502d5cec2e1c99
@@ -2234,7 +2234,7 @@ Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
 ### 85 straipsnis. Teismo sprendimo įvykdymo atidėjimas ar išdėstymas ^s-bee89e6000f6245f8e8b810a
 
 
-Teismo sprendimo įvykdymo atidėjimo ar išdėstymo klausimas sprendžiamas vadovaujantis Civilinio proceso kodekso normomis.
+Teismo sprendimo įvykdymo atidėjimo ar išdėstymo klausimas sprendžiamas vadovaujantis [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) normomis.
 
 
 
@@ -2465,16 +2465,16 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 1. Įsiteisėjus teismo sprendimui, kuriuo skundas (prašymas, pareiškimas) patenkinamas, jo patvirtinta kopija (nuorašas) nusiunčiama vykdyti viešojo administravimo subjektui ar kitam asmeniui, kurio teisės aktai arba veiksmai (neveikimas) ar vilkinimas atlikti veiksmus buvo apskųsti, arba viešojo administravimo subjektui, kuris byloje atstovavo valstybei (Vyriausybei), taip pat pareiškėjui. ^s-cf9ed5a069ce71cab0254b2f
 
 
-2. Jeigu per penkiolika kalendorinių dienų ar per teismo nustatytą terminą [[#^s-cf9ed5a069ce71cab0254b2f|šio straipsnio 1 dalyje]] nurodytas viešojo administravimo subjektas ar kitas asmuo sprendimo neįvykdo, pareiškėjo prašymu sprendimą priėmęs administracinis teismas išduoda jam vykdomąjį raštą, kartu nurodydamas jį vykdyti antstoliui pagal atsakovo buveinės vietą Civilinio proceso kodekso nustatyta tvarka. Kai išieškomos pinigų sumos į valstybės biudžetą ar išieškoma žala, atsiradusi dėl viešojo administravimo subjektų neteisėtų veiksmų, taip pat kai išieškomos sumos, susijusios su tarnybiniais teisiniais santykiais ar pensijų mokėjimu, teismas išduoda vykdomąjį raštą išieškotojui be jo prašymo. ^s-250b91233ab4fd0a471537b6
+2. Jeigu per penkiolika kalendorinių dienų ar per teismo nustatytą terminą [[#^s-cf9ed5a069ce71cab0254b2f|šio straipsnio 1 dalyje]] nurodytas viešojo administravimo subjektas ar kitas asmuo sprendimo neįvykdo, pareiškėjo prašymu sprendimą priėmęs administracinis teismas išduoda jam vykdomąjį raštą, kartu nurodydamas jį vykdyti antstoliui pagal atsakovo buveinės vietą [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Kai išieškomos pinigų sumos į valstybės biudžetą ar išieškoma žala, atsiradusi dėl viešojo administravimo subjektų neteisėtų veiksmų, taip pat kai išieškomos sumos, susijusios su tarnybiniais teisiniais santykiais ar pensijų mokėjimu, teismas išduoda vykdomąjį raštą išieškotojui be jo prašymo. ^s-250b91233ab4fd0a471537b6
 
 
 3. Vykdomasis raštas išduodamas pasirašytinai arba išsiunčiamas registruotąja pašto siunta, o šio įstatymo [[#^s-e42869690834094169a84236|74 straipsnio 7 dalyje]] nurodytais atvejais siunčiamas elektroninių ryšių priemonėmis. Apie vykdomojo rašto išdavimą pažymima byloje. ^s-4b2cf6bb6c44fe0dc50e6b08
 
 
-4. Neįvykdyti teismo sprendimai dėl žalos atlyginimo, dėl priteistų sumų ir nesumokėtų baudų išieškojimo, taip pat neįvykdytos teismo patvirtintos taikos sutartys vykdomi Civilinio proceso kodekso nustatyta tvarka. Šiais atvejais vykdomieji dokumentai pareiškėjui išduodami teismo sprendimui įsiteisėjus. ^s-a76ce1e4b0ad66783f032b8a
+4. Neįvykdyti teismo sprendimai dėl žalos atlyginimo, dėl priteistų sumų ir nesumokėtų baudų išieškojimo, taip pat neįvykdytos teismo patvirtintos taikos sutartys vykdomi [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Šiais atvejais vykdomieji dokumentai pareiškėjui išduodami teismo sprendimui įsiteisėjus. ^s-a76ce1e4b0ad66783f032b8a
 
 
-5. [[#^s-a76ce1e4b0ad66783f032b8a|Šio straipsnio 4 dalyje]] nurodytų teismo sprendimų ir taikos sutarčių vykdymo metu Civilinio proceso kodekso nustatyta tvarka gali būti sudaromos taikos sutartys. Sudarytos taikos sutartys perduodamos Regionų administracinio teismo rūmams, kurių veiklos teritorijoje yra antstolio kontoros buveinė. ^s-fa0546f64365093f8af0372f
+5. [[#^s-a76ce1e4b0ad66783f032b8a|Šio straipsnio 4 dalyje]] nurodytų teismo sprendimų ir taikos sutarčių vykdymo metu [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali būti sudaromos taikos sutartys. Sudarytos taikos sutartys perduodamos Regionų administracinio teismo rūmams, kurių veiklos teritorijoje yra antstolio kontoros buveinė. ^s-fa0546f64365093f8af0372f
 Straipsnio dalies pakeitimai:
 Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
@@ -2552,13 +2552,13 @@ Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
 Bylos nagrinėjimas sustabdomas:
 
 
-1) šio įstatymo [[#^s-d7d6b2fb6058592c75e667b5|100 straipsnio 1 dalies]] 1 ir [[#^s-ce1f0a4d9b6cbeb8d09f3e75|2 punktuose]] nurodytais atvejais – iki paaiškės mirusio asmens ar pasibaigusio juridinio asmens teisių perėmėjas arba iki neveiksniam tam tikroje srityje asmeniui bus paskirtas atstovas pagal įstatymą; ^s-05b53bada2194f74e0d7e9d6
+1) šio įstatymo [[#^s-d7d6b2fb6058592c75e667b5|100 straipsnio 1 dalies]] [[#^s-ab12b3c2010effa04cecb1e6|1]] ir [[#^s-e26e0b573e1b97a6132dc205|2]] punktuose nurodytais atvejais – iki paaiškės mirusio asmens ar pasibaigusio juridinio asmens teisių perėmėjas arba iki neveiksniam tam tikroje srityje asmeniui bus paskirtas atstovas pagal įstatymą; ^s-05b53bada2194f74e0d7e9d6
 
 
 2) šio įstatymo [[#^s-cdca9799dc476aae14d36deb|100 straipsnio 1 dalies 3 punkte]] nurodytais atvejais – iki įsiteisės teismo sprendimas, nuosprendis, nutarimas ar nutartis; ^s-ce1f0a4d9b6cbeb8d09f3e75
 
 
-3) šio įstatymo [[#^s-d7d6b2fb6058592c75e667b5|100 straipsnio 1 dalies]] 4, 5, 6, 7 ir [[#^s-d4947ba1e69d431be3ddb335|8 punktuose]] nurodytais atvejais – iki Konstitucinis Teismas ar administracinis teismas išnagrinės bylą ar iki bus atlikta ekspertizė arba gauti įrodymai iš užsienio valstybės; ^s-b9a1084bd48601f82b9e180a
+3) šio įstatymo [[#^s-d7d6b2fb6058592c75e667b5|100 straipsnio 1 dalies]] [[#^s-46b2092db2d2e70e88d0bfa1|4]], [[#^s-de976133e10b07c97fc4f795|5]], [[#^s-483457cbe608af314e2d66ca|6]], [[#^s-1c199619223b9319b6bb02e8|7]] ir [[#^s-26b2887e4602e09f4239a506|8]] punktuose nurodytais atvejais – iki Konstitucinis Teismas ar administracinis teismas išnagrinės bylą ar iki bus atlikta ekspertizė arba gauti įrodymai iš užsienio valstybės; ^s-b9a1084bd48601f82b9e180a
 
 
 4) šio įstatymo [[#^s-faea72c410c11532df01a3f4|100 straipsnio 1 dalies 9 punkte]] nurodytu atveju – iki bus gautas kompetentingos Europos Sąjungos teisminės institucijos prejudicinis sprendimas; ^s-74ec8fbd5abcb4a996c84ee4
@@ -2576,7 +2576,7 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 
-8) šio įstatymo [[#^s-d7d6b2fb6058592c75e667b5|100 straipsnio 1 dalies]] 12 ir 13 punktuose nurodytais atvejais – iki bus pašalintos aplinkybės, dėl kurių buvo sustabdytas bylos nagrinėjimas. ^s-d4947ba1e69d431be3ddb335
+8) šio įstatymo [[#^s-d7d6b2fb6058592c75e667b5|100 straipsnio 1 dalies]] [[#^s-7d6f21cbe765828ad42f1a70|12]] ir [[#^s-e9c4968aeac9d4644db9a079|13]] punktuose nurodytais atvejais – iki bus pašalintos aplinkybės, dėl kurių buvo sustabdytas bylos nagrinėjimas. ^s-d4947ba1e69d431be3ddb335
 Straipsnio punkto pakeitimai:
 Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
 
@@ -2815,7 +2815,7 @@ Nr. XIV-871, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26908
 3. Prie pareiškimo ištirti norminio administracinio ar kito bendro pobūdžio teisės akto teisėtumą turi būti pridėtos skundžiamo teisės akto, taip pat įstatymo ar Vyriausybės norminio teisės akto, kuriam prieštarauja skundžiamas norminis administracinis aktas, kopijos. ^s-849638f3cb58ea81418f0e19
 
 
-4. Šio straipsnio 1 ir [[#^s-962204f6904b64fde6355da1|2 dalyse]] nurodyti subjektai abstraktų pareiškimą ištirti norminio administracinio akto teisėtumą paduoda raštu, faksimiliniu laišku arba elektronine forma elektroninių ryšių priemonėmis. ^s-ccee8ab909895b193f073983
+4. Šio straipsnio [[#^s-c1ef91b1ca9489766df78af0|1]] ir [[#^s-962204f6904b64fde6355da1|2]] dalyse nurodyti subjektai abstraktų pareiškimą ištirti norminio administracinio akto teisėtumą paduoda raštu, faksimiliniu laišku arba elektronine forma elektroninių ryšių priemonėmis. ^s-ccee8ab909895b193f073983
 
 
 
@@ -2964,7 +2964,7 @@ PRAŠYMAI PATEIKTI IŠVADĄ
 
 
 1. Prašymą pateikti išvadą, ar savivaldybės tarybos narys, meras, kuriems pradėta įgaliojimų netekimo procedūra, sulaužė priesaiką ir (ar) nevykdė (prašyme nurodytų) jiems įstatymuose nustatytų įgaliojimų (toliau – prašymas pateikti išvadą), paduoda savivaldybės taryba [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatyme]] nustatyta tvarka. ^s-e30bd4c8d7628a9d0852c27f
-TAR pastaba. [[#^s-e30bd4c8d7628a9d0852c27f|120 straipsnio 1 dalies]] nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
+TAR pastaba. 120 straipsnio 1 dalies nuostatos pradedamos taikyti, kai naujai išrinktos savivaldybių tarybos susirenka į pirmąjį posėdį.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
 
@@ -3072,7 +3072,7 @@ PRAŠYMAS KREIPTIS Į KOMPETENTINGĄ EUROPOS SĄJUNGOS TEISMINĘ INSTITUCIJĄ D�
 2. Prašyme dėl Europos Komisijos sprendimo turi būti nurodyta: ^s-f8a219b2e72a7c4d3d0e6464
 
 
-1) šio įstatymo [[#^s-0200727a7d0d1a8afe5977be|24 straipsnio 2 dalies]] 1, 2, 3, 8, 12, 13 punktuose nurodyta informacija; ^s-743acd9bd13e3e324df3d7e5
+1) šio įstatymo [[#^s-0200727a7d0d1a8afe5977be|24 straipsnio 2 dalies]] [[#^s-67e2a6984f6ad377eb9e0522|1]], [[#^s-a3b38b8ebff43416cc907edb|2]], [[#^s-5b28a6e959b892a1e372f924|3]], [[#^s-84a88bad59c3ba28e0f94153|8]], [[#^s-0f84daf0b2e80fea620c7276|12]], [[#^s-a15ba21c3b2b0516db1d84e4|13]] punktuose nurodyta informacija; ^s-743acd9bd13e3e324df3d7e5
 Straipsnio punkto pakeitimai:
 Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
@@ -3122,14 +3122,14 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 
 
 ### TREČIASIS SKIRSNIS ^s-36e1264b6633409f794e3607
-SKUNDAI DĖL RINKIMŲ KODEKSO AR REFERENDUMO KONSTITUCINIO ĮSTATYMO PAŽEIDIMŲ
+SKUNDAI DĖL [RINKIMŲ KODEKSO](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) AR REFERENDUMO KONSTITUCINIO ĮSTATYMO PAŽEIDIMŲ
 
 
 
 ### 124 straipsnis. Skundo dėl Lietuvos Respublikos vyriausiosios rinkimų komisijos sprendimų padavimas ^s-763acb491a7f3feed96b1120
 
 
-1. Rinkimų kodekse, Referendumo konstituciniame įstatyme nustatyti asmenys šiuose įstatymuose nurodytais pagrindais ir per nurodytus terminus gali apskųsti Lietuvos Respublikos vyriausiosios rinkimų komisijos sprendimus. ^s-5b01f2717d2a84227d0e13e4
+1. [Rinkimų kodekse](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5), Referendumo konstituciniame įstatyme nustatyti asmenys šiuose įstatymuose nurodytais pagrindais ir per nurodytus terminus gali apskųsti Lietuvos Respublikos vyriausiosios rinkimų komisijos sprendimus. ^s-5b01f2717d2a84227d0e13e4
 
 
 2. Skundai paduodami raštu, faksimiliniu laišku arba elektronine forma elektroninių ryšių priemonėmis Lietuvos vyriausiajam administraciniam teismui. ^s-cf87244ae63992f603442d96
@@ -3139,7 +3139,7 @@ SKUNDAI DĖL RINKIMŲ KODEKSO AR REFERENDUMO KONSTITUCINIO ĮSTATYMO PAŽEIDIMŲ
 ### 125 straipsnis. Skundo dėl Rinkimų kodekso, Referendumo konstitucinio įstatymo ar kitų įstatymų pažeidimo išnagrinėjimo terminai ir tvarka ^s-d0de5c0a8baf5f3426ac2690
 
 
-1. Skundą dėl Rinkimų kodekso ar Referendumo konstitucinio įstatymo pažeidimo ar skundą dėl rinkimų komisijų sprendimų įstatymų nustatytais atvejais administracinis teismas išnagrinėja per šiuose įstatymuose nustatytus terminus. ^s-21d1e478e79c569619c52369
+1. Skundą dėl [Rinkimų kodekso](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) ar Referendumo konstitucinio įstatymo pažeidimo ar skundą dėl rinkimų komisijų sprendimų įstatymų nustatytais atvejais administracinis teismas išnagrinėja per šiuose įstatymuose nustatytus terminus. ^s-21d1e478e79c569619c52369
 
 
 2. Skundą administracinis teismas nagrinėja pranešęs pareiškėjui ir atitinkamai rinkimų komisijai. Nurodytų asmenų neatvykimas į teismo posėdį, jeigu jiems apie teismo posėdį buvo pranešta, nėra kliūtis bylai nagrinėti ir sprendimui priimti. ^s-01243b4ef8c56c450f7b2bb5
@@ -3149,7 +3149,7 @@ SKUNDAI DĖL RINKIMŲ KODEKSO AR REFERENDUMO KONSTITUCINIO ĮSTATYMO PAŽEIDIMŲ
 ### 126 straipsnis. Teismo sprendimas dėl Rinkimų kodekso, Referendumo konstitucinio įstatymo ar kitų įstatymų pažeidimo ^s-2405684e20931467d10c696c
 
 
-1. Administracinio teismo sprendimas pagal skundą dėl Rinkimų kodekso ar Referendumo konstitucinio įstatymo pažeidimo ar pagal skundą dėl rinkimų komisijų sprendimų įstatymų nustatytais atvejais įsiteisėja nuo paskelbimo. ^s-8d54f6c0b5269eafaa4a3205
+1. Administracinio teismo sprendimas pagal skundą dėl [Rinkimų kodekso](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) ar Referendumo konstitucinio įstatymo pažeidimo ar pagal skundą dėl rinkimų komisijų sprendimų įstatymų nustatytais atvejais įsiteisėja nuo paskelbimo. ^s-8d54f6c0b5269eafaa4a3205
 
 
 2. Priėmus sprendimą, jo patvirtintos kopijos (nuorašai, skaitmeninės kopijos) nedelsiant nusiunčiamos paštu ar elektroninių ryšių priemonėmis atitinkamai rinkimų komisijai ir pareiškėjui. ^s-3d9b2557273620889ff726ac
@@ -3277,10 +3277,10 @@ Be šio įstatymo [[#^s-5ab5e9c72fe7444d3acdb4e8|25 straipsnyje]] nustatytų sku
 2. Teismas nutartimi dėl grupės skundo priėmimo taip pat nusprendžia, ar skundas gali būti nagrinėjamas pagal grupės skundo proceso taisykles, įvertina, ar visi skundą reiškiantys asmenys gali būti laikomi grupės nariais, ar pareikšti individualaus pobūdžio reikalavimai yra susiję su grupės skundo dalyku ir pagrindu. Teismas, spręsdamas, ar grupės skundas yra tikslingesnis, efektyvesnis ir tinkamesnis būdas išspręsti konkretų ginčą negu individualūs skundai, pagal grupės atstovo pateiktą informaciją ir kitus teismui žinomus duomenis įvertina apibūdintą grupę, grupės skundu ginamų pažeistų teisių ir įstatymų saugomų interesų pobūdį, bendro grupės reikalavimo ir individualaus pobūdžio grupės narių reikalavimų (jeigu jie reiškiami) santykį, individualaus pobūdžio grupės narių reikalavimų (jeigu jie reiškiami) dydį ir kitas aplinkybes. ^s-7433371a322a82186f943bcf
 
 
-3. Kai grupės skundas neatitinka šio įstatymo [[#^s-1d8a26945c955eedae2b55bc|1262 straipsnio]] 5, 6 ir 7 punktuose, 1263, 1264 ir [[#^s-f9dd731d8b1de730d18f7bf8|1266 straipsniuose]] nustatytų reikalavimų, skundo trūkumai šalinami šio įstatymo [[#^s-d4bfd8b03a7ccd5c49e5aebc|33 straipsnio 1 dalyje]] nustatyta tvarka. Teismas gali nustatyti terminą grupės skundo trūkumams šalinti ir tais atvejais, kai ne visi skundą reiškiantys asmenys gali būti grupės nariais, ne visi skunde nurodyti reikalavimai gali būti nagrinėjami pagal grupės skundo proceso taisykles arba ne visi grupės narių individualaus pobūdžio reikalavimai susiję su grupės skundo dalyku ir pagrindu. ^s-f614c8407c65ab4e54f52fd5
+3. Kai grupės skundas neatitinka šio įstatymo [[#^s-1d8a26945c955eedae2b55bc|1262 straipsnio]] 5, 6 ir 7 punktuose, [[#^s-a463434156af48495bb8956e|1263]], [[#^s-ab57a176a66479a4c840737c|1264]] ir [[#^s-f9dd731d8b1de730d18f7bf8|1266]] straipsniuose nustatytų reikalavimų, skundo trūkumai šalinami šio įstatymo [[#^s-d4bfd8b03a7ccd5c49e5aebc|33 straipsnio 1 dalyje]] nustatyta tvarka. Teismas gali nustatyti terminą grupės skundo trūkumams šalinti ir tais atvejais, kai ne visi skundą reiškiantys asmenys gali būti grupės nariais, ne visi skunde nurodyti reikalavimai gali būti nagrinėjami pagal grupės skundo proceso taisykles arba ne visi grupės narių individualaus pobūdžio reikalavimai susiję su grupės skundo dalyku ir pagrindu. ^s-f614c8407c65ab4e54f52fd5
 
 
-4. Prieš priimdamas nutartį dėl grupės skundo priėmimo, teismas išsiunčia atsakovui grupės skundo nuorašą (skaitmeninę kopiją) ir nurodo terminą, per kurį atsakovas gali pareikšti nuomonę dėl grupės skundo ir grupės narių sąrašo. Be to, teismas praneša atsakovui apie jam žinomus pareiškėjus prie grupės skundo nuorašo (skaitmeninės kopijos) pridėdamas grupės narių sąrašo nuorašą (skaitmeninę kopiją) ir pažymi, kad šiuo metu grupė nėra patvirtinta, todėl žinomi ne visi pareiškėjai. Šios dalies nuostatos netaikomos, kai teismas atsisako priimti grupės skundą šio įstatymo [[#^s-17881f24564cee060bafa6f0|33 straipsnio 2 dalyje]] nurodytais pagrindais ar dėl to, kad nėra šio įstatymo [[#^s-e773b91bac76df3d4d5f005e|1262 straipsnio 4 punkte]] nurodytos sąlygos. ^s-67ccc1bed6a0752ce2054fb7
+4. Prieš priimdamas nutartį dėl grupės skundo priėmimo, teismas išsiunčia atsakovui grupės skundo nuorašą (skaitmeninę kopiją) ir nurodo terminą, per kurį atsakovas gali pareikšti nuomonę dėl grupės skundo ir grupės narių sąrašo. Be to, teismas praneša atsakovui apie jam žinomus pareiškėjus prie grupės skundo nuorašo (skaitmeninės kopijos) pridėdamas grupės narių sąrašo nuorašą (skaitmeninę kopiją) ir pažymi, kad šiuo metu grupė nėra patvirtinta, todėl žinomi ne visi pareiškėjai. Šios dalies nuostatos netaikomos, kai teismas atsisako priimti grupės skundą šio įstatymo [[#^s-17881f24564cee060bafa6f0|33 straipsnio 2 dalyje]] nurodytais pagrindais ar dėl to, kad nėra šio įstatymo 1262 straipsnio 4 punkte nurodytos sąlygos. ^s-67ccc1bed6a0752ce2054fb7
 
 
 5. Nutartis dėl grupės skundo priėmimo gali būti skundžiama atskiruoju skundu. Jeigu atskirasis skundas paduodamas, byla sustabdoma, kol jis bus išnagrinėtas. ^s-7c7db50ebf5ac681c6e3517f
@@ -3309,10 +3309,10 @@ Be šio įstatymo [[#^s-5ab5e9c72fe7444d3acdb4e8|25 straipsnyje]] nustatytų sku
 1. Prie bylos nagrinėjimo išlaidų, be šio įstatymo [[#^s-ceacbd8e45e871fd8af5cce3|39 straipsnio 1 dalyje]] nurodytųjų, priskiriamos ir grupės atstovo bei grupės narių būtinos ir pagrįstos išlaidos. ^s-50027c3767dc26484da1b40a
 
 
-2. Kai pagal šio įstatymo [[#^s-76cb36653ed97b624eab4611|40 straipsnį]] teismas priteisia iš grupės atlyginti kitos šalies bylinėjimosi išlaidas, laikoma, kad šios išlaidos grupės nariams priteisiamos lygiomis dalimis, išskyrus šio straipsnio 3, 4 ir [[#^s-aabcde1a698565b1739da844|5 dalyse]] nurodytus atvejus. ^s-600733a43031dccef11bbda0
+2. Kai pagal šio įstatymo [[#^s-76cb36653ed97b624eab4611|40 straipsnį]] teismas priteisia iš grupės atlyginti kitos šalies bylinėjimosi išlaidas, laikoma, kad šios išlaidos grupės nariams priteisiamos lygiomis dalimis, išskyrus šio straipsnio [[#^s-47b603fdf61b6f5d0888a46b|3]], [[#^s-a26697d74bf4a2ac7aea2d62|4]] ir [[#^s-aabcde1a698565b1739da844|5]] dalyse nurodytus atvejus. ^s-600733a43031dccef11bbda0
 
 
-3. Kai priimamas tarpinis sprendimas, šio straipsnio 1 ir [[#^s-600733a43031dccef11bbda0|2 dalyse]] nustatytos taisyklės taikomos tik tarpinio sprendimo priėmimo išlaidoms. Individualaus pobūdžio grupės narių reikalavimų nagrinėjimo išlaidos po tarpinio sprendimo priėmimo tenka atskirai kiekvienam individualaus pobūdžio reikalavimą pareiškusiam grupės nariui. ^s-47b603fdf61b6f5d0888a46b
+3. Kai priimamas tarpinis sprendimas, šio straipsnio [[#^s-50027c3767dc26484da1b40a|1]] ir [[#^s-600733a43031dccef11bbda0|2]] dalyse nustatytos taisyklės taikomos tik tarpinio sprendimo priėmimo išlaidoms. Individualaus pobūdžio grupės narių reikalavimų nagrinėjimo išlaidos po tarpinio sprendimo priėmimo tenka atskirai kiekvienam individualaus pobūdžio reikalavimą pareiškusiam grupės nariui. ^s-47b603fdf61b6f5d0888a46b
 
 
 4. Grupės narys, kuris pasitraukia iš grupės, atsako tik už tas išlaidas, kurios yra susijusios su iki jo pasitraukimo atliktais procesiniais veiksmais. ^s-a26697d74bf4a2ac7aea2d62
@@ -3328,26 +3328,26 @@ Be šio įstatymo [[#^s-5ab5e9c72fe7444d3acdb4e8|25 straipsnyje]] nustatytų sku
 1. Grupės atstovas yra reikalavimą byloje pareiškiantis ir bylos baigtimi suinteresuotas grupės narys (išskyrus atvejus, kai grupei atstovauja šioje dalyje nurodyta asociacija arba profesinė sąjunga), kuris grupės narių vardu kartu su grupės advokatu pasirašo skundą ir kartu su grupės advokatu veda grupės skundo bylą atstovaudamas visų grupės narių interesams. Grupės atstove gali būti asociacija arba profesinė sąjunga, kai grupės skundu reiškiami reikalavimai kyla iš teisinių santykių, tiesiogiai susijusių su asociacijos arba profesinės sąjungos veiklos tikslais ir sritimi, ir kai ne mažiau kaip dešimt grupės narių yra asociacijos arba profesinės sąjungos nariai. Šiuo atveju grupės nariais gali būti ne tik asociacijos arba profesinės sąjungos nariai, tačiau, nagrinėjant bylą, asociacija arba profesinė sąjunga kartu su grupės advokatu atstovauja visų grupės narių interesams. ^s-21f0c1a2ec05c875b5aae459
 
 
-2. Grupės atstovas laikomas pareiškėju. Grupės atstovo procesinei padėčiai, teisėms ir pareigoms mutatis mutandis taikomos Civilinio proceso kodekso 4414 straipsnio 5 dalies 1–6 punktų ir 6–9 dalių nuostatos. ^s-0f6e44ac7113532861886823
+2. Grupės atstovas laikomas pareiškėju. Grupės atstovo procesinei padėčiai, teisėms ir pareigoms mutatis mutandis taikomos [Civilinio proceso kodekso 4414 straipsnio 5 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) [1](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F)–[6](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) punktų ir 6–9 dalių nuostatos. ^s-0f6e44ac7113532861886823
 
 
-3. Visi grupės nariai laikomi pareiškėjais. Grupės narių procesinei padėčiai, teisėms ir pareigoms mutatis mutandis taikomos Civilinio proceso kodekso 4415 straipsnio 1, 3, 4 ir 5 dalių nuostatos. ^s-79e1c83faaaa5f04c5d5b837
+3. Visi grupės nariai laikomi pareiškėjais. Grupės narių procesinei padėčiai, teisėms ir pareigoms mutatis mutandis taikomos [Civilinio proceso kodekso 4415 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) [1](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [3](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [4](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir [5](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) dalių nuostatos. ^s-79e1c83faaaa5f04c5d5b837
 
 
-4. Grupės procesinėms teisėms ir pareigoms mutatis mutandis taikomos Civilinio proceso kodekso 4416 straipsnio nuostatos. ^s-1c580b27efaa0d1dfdd9b25b
+4. Grupės procesinėms teisėms ir pareigoms mutatis mutandis taikomos [Civilinio proceso kodekso 4416 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nuostatos. ^s-1c580b27efaa0d1dfdd9b25b
 
 
 
 ### 1269 straipsnis. Grupės pildymas ir tvirtinimas ^s-a2a032dde550d8871c84b2d2
 
 
-1. Teismas nutartyje dėl grupės skundo priėmimo nustato grupės papildymo terminą, patvirtina šio įstatymo [[#^s-e79c04eef03efe5c524eac34|1264 straipsnio 4 punkte]] nurodytą pranešimą dėl grupės pildymo ir jį paskelbia specialiame interneto tinklalapyje. Grupės atstovas teismo patvirtintą šio įstatymo [[#^s-e79c04eef03efe5c524eac34|1264 straipsnio 4 punkte]] nurodytą pranešimą dėl grupės pildymo gali skelbti per visuomenės informavimo priemones ir kitais būdais. ^s-51caabbdf26a6e967ff099df
+1. Teismas nutartyje dėl grupės skundo priėmimo nustato grupės papildymo terminą, patvirtina šio įstatymo 1264 straipsnio 4 punkte nurodytą pranešimą dėl grupės pildymo ir jį paskelbia specialiame interneto tinklalapyje. Grupės atstovas teismo patvirtintą šio įstatymo 1264 straipsnio 4 punkte nurodytą pranešimą dėl grupės pildymo gali skelbti per visuomenės informavimo priemones ir kitais būdais. ^s-51caabbdf26a6e967ff099df
 
 
-2. Pildant ir tvirtinant grupę mutatis mutandis taikomi Civilinio proceso kodekso 4418 straipsnio 1, 4–8 dalyse nustatyti reikalavimai. ^s-90be706d175162183c377825
+2. Pildant ir tvirtinant grupę mutatis mutandis taikomi [Civilinio proceso kodekso 4418 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) [1](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [4](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F)–[8](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) dalyse nustatyti reikalavimai. ^s-90be706d175162183c377825
 
 
-3. Asmens teisė prisijungti prie grupės skundo ar iš grupės pasitraukti per teismo nustatytą grupės papildymo terminą neribojama. Asmuo prisijungia prie grupės pateikdamas grupės atstovui šio įstatymo [[#^s-2ed32c43d04265354308e845|1262 straipsnio 6 punkte]] nurodytą pareiškimą, o pasitraukia iš grupės pateikdamas teismui ir grupės atstovui rašytinį atsisakymą būti grupės nariu ir pareiškėju grupės skundo byloje. Laikoma, kad grupės narys yra prisijungęs prie grupės, kai jis grupės atstovui pateikia šio įstatymo [[#^s-2ed32c43d04265354308e845|1262 straipsnio 6 punkte]] nurodytą pareiškimą. ^s-aa430b32afeeadc7acdeda7d
+3. Asmens teisė prisijungti prie grupės skundo ar iš grupės pasitraukti per teismo nustatytą grupės papildymo terminą neribojama. Asmuo prisijungia prie grupės pateikdamas grupės atstovui šio įstatymo 1262 straipsnio 6 punkte nurodytą pareiškimą, o pasitraukia iš grupės pateikdamas teismui ir grupės atstovui rašytinį atsisakymą būti grupės nariu ir pareiškėju grupės skundo byloje. Laikoma, kad grupės narys yra prisijungęs prie grupės, kai jis grupės atstovui pateikia šio įstatymo 1262 straipsnio 6 punkte nurodytą pareiškimą. ^s-aa430b32afeeadc7acdeda7d
 
 
 4. Teismui priėmus nutartį patvirtinti galutinį grupės narių sąrašą, asmenys, dėl svarbių priežasčių negalėję pasinaudoti teise tapti grupės nariais, turi teisę pateikti teismui motyvuotą prašymą prisijungti prie grupės. Teismas šį prašymą gali tenkinti tik tuo atveju, kai yra grupės atstovo ir atsakovo sutikimai. Atsakovo sutikimo nereikia tampant grupės nariu šio įstatymo [[#^s-4f9531a8c51a36601a7fd247|12610 straipsnyje]] nurodytu atveju. ^s-71117eb204216b1a67a86063
@@ -3371,7 +3371,7 @@ Teismo šaukimų ir pranešimų įteikimas grupės atstovui ir grupės advokatui
 ### 12612 straipsnis. Teismo vaidmuo nagrinėjant grupės skundo bylą ^s-a0f78c21d2944bbcf95467d1
 
 
-Teismas, nagrinėdamas grupės skundo bylą, mutatis mutandis vadovaujasi Civilinio proceso kodekso 44111 straipsnio nuostatomis.
+Teismas, nagrinėdamas grupės skundo bylą, mutatis mutandis vadovaujasi [Civilinio proceso kodekso 44111 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nuostatomis.
 
 
 
@@ -3394,7 +3394,7 @@ Teismas, nagrinėdamas grupės skundo bylą, mutatis mutandis vadovaujasi Civili
 ### 12614 straipsnis. Apeliacinio proceso taisyklės grupės skundo byloje ^s-77cb9ff4b29a199a876f2625
 
 
-1. Apeliaciniam procesui grupės skundo byloje taikomos Civilinio proceso kodekso 44113 straipsnio 1–7 dalių nuostatos ir šiame įstatyme nustatytos apeliacinio proceso taisyklės. ^s-dc52adae83d6bf20bc1d3acb
+1. Apeliaciniam procesui grupės skundo byloje taikomos [Civilinio proceso kodekso 44113 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) [1](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F)–[7](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) dalių nuostatos ir šiame įstatyme nustatytos apeliacinio proceso taisyklės. ^s-dc52adae83d6bf20bc1d3acb
 
 
 2. Atskiruosius skundus dėl pirmosios instancijos teismo priimtų nutarčių grupės skundo byloje turi teisę paduoti grupės atstovas. Atskirąjį skundą surašo grupės advokatas, pasirašo grupės advokatas ir grupės atstovas. Atskirieji skundai paduodami ir nagrinėjami pagal šio įstatymo III dalies ketvirtajame skyriuje nustatytas taisykles. ^s-2ef940281928de94eab30a0b
@@ -3404,7 +3404,7 @@ Teismas, nagrinėdamas grupės skundo bylą, mutatis mutandis vadovaujasi Civili
 ### 12615 straipsnis. Proceso atnaujinimo ypatumai grupės skundo bylose ^s-f465c3296984e9009b4740cb
 
 
-1. Atnaujinant procesą grupės skundo byloje mutatis mutandis taikomos Civilinio proceso kodekso 44113 straipsnio 1, 2, 4, 6 ir 7 dalių nuostatos ir šiame įstatyme nustatytos prašymų dėl proceso atnaujinimo nagrinėjimo taisyklės. ^s-677e77de1d498bbdbdae1bf6
+1. Atnaujinant procesą grupės skundo byloje mutatis mutandis taikomos [Civilinio proceso kodekso 44113 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) [1](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [2](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [4](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [6](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir [7](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) dalių nuostatos ir šiame įstatyme nustatytos prašymų dėl proceso atnaujinimo nagrinėjimo taisyklės. ^s-677e77de1d498bbdbdae1bf6
 
 
 2. Nutartis dėl kreipimųsi pakeisti grupės atstovą, prireikus paduodamų iki prašymų atnaujinti procesą padavimo termino pabaigos, priima bendrą sprendimą dėl grupės skundo arba tarpinį sprendimą priėmęs pirmosios instancijos teismas. ^s-0a0e9579517785b53dd65ee1
@@ -3500,7 +3500,7 @@ Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 3. Individualioji vienarūšė byla pirmosios instancijos teisme nagrinėjama žodinio proceso tvarka, jeigu per septynias darbo dienas nuo nutarties bylą nagrinėti supaprastinta tvarka įteikimo to prašo bet kuri proceso šalis. Teismas visais atvejais gali nuspręsti individualiąją vienarūšę bylą nagrinėti bendra tvarka. ^s-49aa289884a00437ae55c061
 
 
-4. Šio straipsnio 1, 2 ir [[#^s-49aa289884a00437ae55c061|3 dalyse]] nustatytos taisyklės taikomos tik tuo atveju, jeigu pirmosios instancijos teismo sprendimo modelinėje byloje teisėtumas ir pagrįstumas buvo patikrintas apeliacine tvarka Lietuvos vyriausiajame administraciniame teisme arba Lietuvos vyriausiasis administracinis teismas priėmė sprendimą modelinėje byloje pagal šio įstatymo [[#^s-81ce51c70fe0451c8a598c7a|128 straipsnio 1 dalį]]. Jeigu pirmosios instancijos teismo sprendimo modelinėje byloje teisėtumas ir pagrįstumas nebuvo patikrintas apeliacine tvarka Lietuvos vyriausiajame administraciniame teisme, atnaujintos individualiosios vienarūšės bylos nagrinėjamos bendra tvarka. ^s-9da2dce7486d236ffa2a74b6
+4. Šio straipsnio [[#^s-11fcd077ba2518ad2a533a2a|1]], [[#^s-af67d4758dbb76a60531fb31|2]] ir [[#^s-49aa289884a00437ae55c061|3]] dalyse nustatytos taisyklės taikomos tik tuo atveju, jeigu pirmosios instancijos teismo sprendimo modelinėje byloje teisėtumas ir pagrįstumas buvo patikrintas apeliacine tvarka Lietuvos vyriausiajame administraciniame teisme arba Lietuvos vyriausiasis administracinis teismas priėmė sprendimą modelinėje byloje pagal šio įstatymo [[#^s-81ce51c70fe0451c8a598c7a|128 straipsnio 1 dalį]]. Jeigu pirmosios instancijos teismo sprendimo modelinėje byloje teisėtumas ir pagrįstumas nebuvo patikrintas apeliacine tvarka Lietuvos vyriausiajame administraciniame teisme, atnaujintos individualiosios vienarūšės bylos nagrinėjamos bendra tvarka. ^s-9da2dce7486d236ffa2a74b6
 
 
 
@@ -3558,7 +3558,7 @@ Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 1. Pareiškimas dėl teismo įsakymo išdavimo paduodamas elektroninių ryšių priemonėmis. Pareiškimo dėl teismo įsakymo išdavimo padavimo elektroninių ryšių priemonėmis tvarką ir formą nustato teisingumo ministras. ^s-b52e4585f84980e878a275dc
 
 
-2. Pareiškime dėl teismo įsakymo išdavimo, be šio įstatymo [[#^s-0200727a7d0d1a8afe5977be|24 straipsnio 2 dalies]] 1, 3, 13 punktuose ir [[#^s-1048b6f0f3d27cf84fbbadfe|3 dalyje]] nustatytų reikalavimų, keliamų pareiškimo turiniui ir formai, turi būti nurodyta:. ^s-081402151cc7fd88f57af870
+2. Pareiškime dėl teismo įsakymo išdavimo, be šio įstatymo [[#^s-0200727a7d0d1a8afe5977be|24 straipsnio 2 dalies]] [[#^s-67e2a6984f6ad377eb9e0522|1]], [[#^s-5b28a6e959b892a1e372f924|3]], [[#^s-a15ba21c3b2b0516db1d84e4|13]] punktuose ir [[#^s-1048b6f0f3d27cf84fbbadfe|3 dalyje]] nustatytų reikalavimų, keliamų pareiškimo turiniui ir formai, turi būti nurodyta:. ^s-081402151cc7fd88f57af870
 Straipsnio dalies pakeitimai:
 Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 
@@ -3674,7 +3674,7 @@ Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 4) informacija apie tai, kad, išduodamas teismo įsakymą, teismas netikrino pareiškėjo pareikšto reikalavimo pagrįstumo. ^s-8ee5f7284973e8a7167f9443
 
 
-2. Pareiškimo dėl teismo įsakymo išdavimo ir teismo įsakymo kopijos ir teismo pranešimas skolininkui įteikiami Civilinio proceso kodekse nustatyta pagal šį kodeksą išduoto teismo įsakymo ir susijusių dokumentų kopijų įteikimo skolininkams tvarka. Procesiniai dokumentai skolininkui gali būti įteikiami elektroninių ryšių priemonėmis teisingumo ministro nustatyta tvarka. ^s-a47a181a2804836bd182a8f0
+2. Pareiškimo dėl teismo įsakymo išdavimo ir teismo įsakymo kopijos ir teismo pranešimas skolininkui įteikiami [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta pagal šį kodeksą išduoto teismo įsakymo ir susijusių dokumentų kopijų įteikimo skolininkams tvarka. Procesiniai dokumentai skolininkui gali būti įteikiami elektroninių ryšių priemonėmis teisingumo ministro nustatyta tvarka. ^s-a47a181a2804836bd182a8f0
 
 
 3. Kai po teismo įsakymo išdavimo paaiškėja, kad fizinio asmens (skolininko) gyvenamoji ir darbo vietos yra nežinomos, teismas panaikina teismo įsakymą ir pareiškimą dėl teismo įsakymo išdavimo palieka nenagrinėtą. Ši teismo nutartis atskiruoju skundu neskundžiama. Šioje dalyje numatytu atveju teismas gali panaikinti teismo įsakymą ir pareiškimą dėl teismo įsakymo išdavimo palikti nenagrinėtą tik prieš tai nustatęs pareiškėjui terminą patikslinti fizinio asmens (skolininko) gyvenamąją ir darbo vietą arba atlikti veiksmus, kad teismas galėtų įteikti procesinius dokumentus kitu būdu. ^s-1b18adf947608cb334d097e4
@@ -3687,7 +3687,7 @@ Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 1. Prieštaravimus dėl pareiškimo dėl teismo įsakymo išdavimo ar dėl jo dalies skolininkas pateikia teismo įsakymą išdavusiam teismui. Jeigu skolininkas dalį pareiškėjo reikalavimų įvykdė arba nors ir neįvykdė, tačiau dalį reikalavimų pripažįsta, jis gali pareikšti prieštaravimus dėl likusios reikalavimų dalies pagrįstumo. ^s-4dc609591e2cb6127adc2fab
 
 
-2. Skolininko prieštaravimai dėl pareiškimo dėl teismo įsakymo išdavimo turi būti pateikti raštu ar elektroninių ryšių priemonėmis per dvidešimt kalendorinių dienų nuo pranešimo apie teismo įsakymo išdavimą įteikimo skolininkui dienos. Prieštaravimai turi atitikti šio įstatymo [[#^s-6dcb164ab7fa8872d02d667a|24 straipsnyje]] (išskyrus [[#^s-0b64c32b3edf60ee4e74b4a0|2 dalies]] 3, 5, 6, 7, 8, 9 punktus) nustatytus reikalavimus, keliamus procesinių dokumentų turiniui ir formai, išskyrus reikalavimą nurodyti prieštaravimų pagrindą. Jeigu dėl svarbių priežasčių skolininkas prieštaravimus pareiškė pasibaigus šiame skirsnyje nustatytam terminui, skolininko prašymu teismas terminą prieštaravimams pareikšti gali atnaujinti. Nutartis, kuria toks skolininko prašymas atmestas, gali būti skundžiama atskiruoju skundu. ^s-0b64c32b3edf60ee4e74b4a0
+2. Skolininko prieštaravimai dėl pareiškimo dėl teismo įsakymo išdavimo turi būti pateikti raštu ar elektroninių ryšių priemonėmis per dvidešimt kalendorinių dienų nuo pranešimo apie teismo įsakymo išdavimą įteikimo skolininkui dienos. Prieštaravimai turi atitikti šio įstatymo [[#^s-6dcb164ab7fa8872d02d667a|24 straipsnyje]] (išskyrus 2 dalies [[#^s-5b28a6e959b892a1e372f924|3]], [[#^s-59474ca723a19285d7200888|5]], [[#^s-286ba78a4f7162de665dd30c|6]], [[#^s-f4d1a1416436b8b6b6ec3a46|7]], [[#^s-84a88bad59c3ba28e0f94153|8]], [[#^s-05a5ea0723cc8d8c45c2e0ba|9]] punktus) nustatytus reikalavimus, keliamus procesinių dokumentų turiniui ir formai, išskyrus reikalavimą nurodyti prieštaravimų pagrindą. Jeigu dėl svarbių priežasčių skolininkas prieštaravimus pareiškė pasibaigus šiame skirsnyje nustatytam terminui, skolininko prašymu teismas terminą prieštaravimams pareikšti gali atnaujinti. Nutartis, kuria toks skolininko prašymas atmestas, gali būti skundžiama atskiruoju skundu. ^s-0b64c32b3edf60ee4e74b4a0
 
 
 3. Gavęs skolininko prieštaravimus, teismas ne vėliau kaip per tris darbo dienas privalo pranešti pareiškėjui, kad šis ne vėliau kaip per keturiolika kalendorinių dienų nuo teismo pranešimo įteikimo dienos turi teisę pagal bendrąsias administracinių bylų nagrinėjimo taisykles teismui pateikti prašymą, atitinkantį šio įstatymo [[#^s-6dcb164ab7fa8872d02d667a|24 straipsnio]] reikalavimus. ^s-a8620193447df012a667525f
@@ -3708,7 +3708,7 @@ Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
 8. Jeigu pareiškimą dėl teismo įsakymo išdavimo pateikęs pareiškėjas ir skolininkas po teismo įsakymo išdavimo sudaro taikos sutartį ir teismas ją patvirtina, ta pačia teismo nutartimi teismo įsakymas panaikinamas. ^s-477ab809ee92d269e7bb5b6d
 
 
-9. Įsiteisėję teismo įsakymai vykdomi Civilinio proceso kodekse nustatyta tvarka. ^s-f5ec62e5757a9c8b2cff6d0d
+9. Įsiteisėję teismo įsakymai vykdomi [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-f5ec62e5757a9c8b2cff6d0d
 
 
 Papildyta skirsniu:
@@ -4023,7 +4023,7 @@ Nr. XII-2399, 2016-06-02, paskelbta TAR 2016-06-15, i. k. 2016-16849
 4) panaikinti pirmosios instancijos teismo sprendimą visą ar iš dalies ir perduoti bylą pirmosios instancijos teismui nagrinėti iš naujo; ^s-7131a7b5b3460d4d8c9af35f
 
 
-5) panaikinti pirmosios instancijos teismo sprendimą, o bylą nutraukti arba skundą (prašymą, pareiškimą) palikti nenagrinėtą, jeigu nustatomos šio įstatymo 103 ir [[#^s-a49ec49610af59894b8f37cb|105 straipsniuose]] nurodytos aplinkybės. ^s-62c3441f805bf2981161c503
+5) panaikinti pirmosios instancijos teismo sprendimą, o bylą nutraukti arba skundą (prašymą, pareiškimą) palikti nenagrinėtą, jeigu nustatomos šio įstatymo [[#^s-eb24ece6522f0f88f35f0e5c|103]] ir [[#^s-a49ec49610af59894b8f37cb|105]] straipsniuose nurodytos aplinkybės. ^s-62c3441f805bf2981161c503
 
 
 2. [[#^s-3b9d0cb047467789275b54ad|Šio straipsnio 1 dalies 2 punkte]] nurodytu atveju priimamas teismo sprendimas, o 1, 3, 4 ir 5 punktuose nurodytais atvejais – motyvuota teismo nutartis. ^s-60f52751d6044508af92d3eb
@@ -4302,7 +4302,7 @@ Nr. XIV-1474, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22947
 
 
 
-2. Jeigu prašymas dėl proceso atnaujinimo paduodamas vadovaujantis šio įstatymo [[#^s-739bf7fe2144a82cc5392d49|156 straipsnio 2 dalies]] 10 ir (ar) 12 punktuose nustatytais pagrindais, tokį prašymą surašo advokatas. Šioje dalyje nurodytais atvejais valstybės atstovo, kito juridinio asmens prašymą dėl proceso atnaujinimo taip pat gali surašyti juridinio asmens darbuotojai ar valstybės tarnautojai, turintys aukštąjį universitetinį teisinį išsilavinimą. Jeigu prašymą dėl proceso atnaujinimo šioje dalyje nurodytais atvejais paduoda fizinis asmuo, turintis aukštąjį universitetinį teisinį išsilavinimą, surašyti šį prašymą turi teisę jis pats. Be to, prašymą dėl proceso atnaujinimo šiais atvejais gali surašyti šio įstatymo [[#^s-840911979fccc6e9145c0b39|47 straipsnio 4 dalies]] 4 ir 7 punktuose nurodyti asmenys. Prašymą dėl proceso atnaujinimo pasirašo jį paduodantis asmuo ir prašymą surašęs asmuo. Prašymą paduodančio asmens parašas nėra būtinas, jeigu jį pasirašo jo įgaliotas prašymą surašęs asmuo. ^s-b211dfe0cd8644987c148085
+2. Jeigu prašymas dėl proceso atnaujinimo paduodamas vadovaujantis šio įstatymo [[#^s-739bf7fe2144a82cc5392d49|156 straipsnio 2 dalies]] 10 ir (ar) 12 punktuose nustatytais pagrindais, tokį prašymą surašo advokatas. Šioje dalyje nurodytais atvejais valstybės atstovo, kito juridinio asmens prašymą dėl proceso atnaujinimo taip pat gali surašyti juridinio asmens darbuotojai ar valstybės tarnautojai, turintys aukštąjį universitetinį teisinį išsilavinimą. Jeigu prašymą dėl proceso atnaujinimo šioje dalyje nurodytais atvejais paduoda fizinis asmuo, turintis aukštąjį universitetinį teisinį išsilavinimą, surašyti šį prašymą turi teisę jis pats. Be to, prašymą dėl proceso atnaujinimo šiais atvejais gali surašyti šio įstatymo [[#^s-840911979fccc6e9145c0b39|47 straipsnio 4 dalies]] [[#^s-f4fe4d81d3b6db08de5f33f8|4]] ir [[#^s-e5a3fd8822235a557daaff9c|7]] punktuose nurodyti asmenys. Prašymą dėl proceso atnaujinimo pasirašo jį paduodantis asmuo ir prašymą surašęs asmuo. Prašymą paduodančio asmens parašas nėra būtinas, jeigu jį pasirašo jo įgaliotas prašymą surašęs asmuo. ^s-b211dfe0cd8644987c148085
 Straipsnio dalies pakeitimai:
 Nr. KT20-A-N1/2022, 2022-02-10, paskelbta TAR 2022-02-10, i. k. 2022-02427
 Nr. XIV-1474, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22947
@@ -4383,7 +4383,7 @@ PRAŠYMŲ DĖL PROCESO ATNAUJINIMO NAGRINĖJIMAS
 ### 161 straipsnis. Prašymo dėl proceso atnaujinimo nagrinėjimo tvarka ^s-0471017b80bebd8cb428806b
 
 
-1. Prašymo dėl proceso atnaujinimo priėmimo klausimą, taip pat priimtą nagrinėti prašymą dėl proceso atnaujinimo nagrinėja Lietuvos vyriausiojo administracinio teismo pirmininko sudaryta teisėjų kolegija. Nagrinėjant prašymo priėmimą, mutatis mutandis vadovaujamasi šio įstatymo [[#^s-94f9fa64fb497c94aec656c1|33 straipsniu]]. Taip pat patikrinama, ar prašymas atitinka šio įstatymo 157, 158, 159 ir [[#^s-cb8944e73921fedd9f0e5a9d|160 straipsniuose]] nustatytus reikalavimus. ^s-ddc40c2ee544e827f47a2b9f
+1. Prašymo dėl proceso atnaujinimo priėmimo klausimą, taip pat priimtą nagrinėti prašymą dėl proceso atnaujinimo nagrinėja Lietuvos vyriausiojo administracinio teismo pirmininko sudaryta teisėjų kolegija. Nagrinėjant prašymo priėmimą, mutatis mutandis vadovaujamasi šio įstatymo [[#^s-94f9fa64fb497c94aec656c1|33 straipsniu]]. Taip pat patikrinama, ar prašymas atitinka šio įstatymo [[#^s-a4b20072a5f8e7d32f7cf316|157]], [[#^s-fb7f98fbdc0b2847217d68c7|158]], [[#^s-c0823811940c29eb0fe22944|159]] ir [[#^s-cb8944e73921fedd9f0e5a9d|160]] straipsniuose nustatytus reikalavimus. ^s-ddc40c2ee544e827f47a2b9f
 
 
 2. Priėmęs prašymą atnaujinti procesą, teismas ne vėliau kaip per 5 darbo dienas jo kopijas išsiunčia proceso šalims. Proceso šalys turi teisę pateikti atsiliepimą į prašymą dėl proceso atnaujinimo per keturiolika kalendorinių dienų nuo prašymo atnaujinti procesą kopijos gavimo. Šio įstatymo [[#^s-e42869690834094169a84236|74 straipsnio 7 dalyje]] nustatytais atvejais teismas prašymo atnaujinti procesą skaitmenines kopijas siunčia elektroninių ryšių priemonėmis. ^s-8d28b272336bdc9644df5fa7
@@ -4418,7 +4418,7 @@ Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 1. Teismui priėmus nutartį dėl proceso atnaujinimo, byla nagrinėti iš naujo paprastai perduodama tos pačios instancijos teismui, kurio sprendimas ar nutartis yra skundžiami. ^s-fa8f5384f54ca73695a6acc4
 
 
-2. Tais atvejais, kai skundžiami sprendimas ar nutartis buvo priimti išnagrinėjus bylą apeliacine tvarka, byla nagrinėti iš naujo priimama Lietuvos vyriausiajame administraciniame teisme. Jeigu procesas tokioje byloje buvo atnaujintas šio įstatymo [[#^s-739bf7fe2144a82cc5392d49|156 straipsnio 2 dalies]] 10 ar 12 punkte nurodytu pagrindu, byla perduodama nagrinėti iš naujo Lietuvos vyriausiojo administracinio teismo išplėstinei teisėjų kolegijai ar plenarinei sesijai. ^s-61e3452fc320ba5ec569c778
+2. Tais atvejais, kai skundžiami sprendimas ar nutartis buvo priimti išnagrinėjus bylą apeliacine tvarka, byla nagrinėti iš naujo priimama Lietuvos vyriausiajame administraciniame teisme. Jeigu procesas tokioje byloje buvo atnaujintas šio įstatymo [[#^s-739bf7fe2144a82cc5392d49|156 straipsnio 2 dalies]] [[#^s-23908fcc250c618b7933c3aa|10]] ar [[#^s-f212cb2290a7a5fef9edc716|12]] punkte nurodytu pagrindu, byla perduodama nagrinėti iš naujo Lietuvos vyriausiojo administracinio teismo išplėstinei teisėjų kolegijai ar plenarinei sesijai. ^s-61e3452fc320ba5ec569c778
 
 
 3. Skiriant bylą nagrinėti iš naujo, sudaromoje teisėjų kolegijoje negali dalyvauti teisėjas, dėl kurio sprendimo ar nutarties yra atnaujintas procesas, išskyrus Lietuvos vyriausiąjį administracinį teismą. ^s-6ec2d336e6a172691bac0a19
@@ -4434,7 +4434,7 @@ Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
 2. Jeigu skundžiami teismo sprendimas ar nutartis buvo priimti nagrinėjant bylą apeliacine tvarka, atnaujinus procesą bylos nagrinėjimas iš naujo vyksta apeliacinio proceso tvarka. ^s-05a1e6bdab61706260051108
 
 
-3. Vadovaudamasis šio straipsnio 1 ar [[#^s-05a1e6bdab61706260051108|2 dalyje]] nurodytomis taisyklėmis, teismas atnaujintą bylą nagrinėja neperžengdamas ribų, kurias apibrėžia proceso atnaujinimo pagrindai. ^s-a1bd59e9d41226961d2a4506
+3. Vadovaudamasis šio straipsnio [[#^s-8a90a9ff3878838636d1ac46|1]] ar [[#^s-05a1e6bdab61706260051108|2]] dalyje nurodytomis taisyklėmis, teismas atnaujintą bylą nagrinėja neperžengdamas ribų, kurias apibrėžia proceso atnaujinimo pagrindai. ^s-a1bd59e9d41226961d2a4506
 
 
 
@@ -4584,13 +4584,13 @@ Nr. XI-1308, 2011-04-12, Žin., 2011, Nr. 49-2363 (2011-04-28)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1485, 2011-06-21, Žin., 2011, Nr. 85-4131 (2011-07-13)
 [[latest/TAR.95FC10994CBA|ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO 11, 12, 21, 22, 23, 24, 34, 37, 39, 50, 51, 53, 57, 61, 62, 64, 66, 68, 70, 71, 72, 73, 74, 75, 77, 78, 82, 83, 85, 87, 93, 101, 105, 106, 107, 110, 118, 119, 121, 129, 130, 131, 132, 134, 135, 137, 138, 142, 150, 155, 156, 157 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-dcc4e652735b6ed1f52b2fd5|61 straipsnio]] 2, 4 ir 5 dalyse nurodytas išimtis ir [[#^s-fd286f3cb003ab97a5e53593|62 straipsnį]], įsigalioja 2011 m. spalio 1 d.
+Šis įstatymas, išskyrus [[#^s-dcc4e652735b6ed1f52b2fd5|61 straipsnio]] [[#^s-9ff9c63fb624140c8b7333d0|2]], [[#^s-5091f7ce0d5b7b8f135225eb|4]] ir 5 dalyse nurodytas išimtis ir [[#^s-fd286f3cb003ab97a5e53593|62 straipsnį]], įsigalioja 2011 m. spalio 1 d.
 Šio įstatymo [[#^s-274cd4a2fb9ffb9e4337bf1b|2 straipsnis]], [[#^s-02cebb9ff9f1e08392c131e8|11 straipsnio 2 dalis]] įsigalioja 2011 m. lapkričio 1 d.
-Šio įstatymo 29, [[#^s-bf446dbfa8c94ef834422559|45 straipsniai]], [[#^s-8d62770f835c885d39cfb1d8|50 straipsnio 1 dalis]], [[#^s-46f1fc5a5448291c944fc206|54 straipsnio 2 dalis]] galioja iki 2012 m. birželio 30 d.
-Šio įstatymo 14, 16, 28, 30, 31, 32, 35, 36, 46, 51, 53, [[#^s-72ff64ff2e6195e9ee8ac655|55 straipsniai]] įsigalioja 2012 m. liepos 1 d.
-Šio įstatymo [[#^s-b1af42f8ba4cf98f19dfee2f|22 straipsnio]] 1 ir [[#^s-700e34ded2e3cb585645932c|2 dalys]] ir [[#^s-ba9dca4d579991b011271833|56 straipsnis]] galioja iki 2013 m. birželio 30 d.
+Šio įstatymo [[#^s-63cb33e2ae99ca1ae07dacd1|29]], [[#^s-bf446dbfa8c94ef834422559|45]] straipsniai, [[#^s-8d62770f835c885d39cfb1d8|50 straipsnio 1 dalis]], [[#^s-46f1fc5a5448291c944fc206|54 straipsnio 2 dalis]] galioja iki 2012 m. birželio 30 d.
+Šio įstatymo [[#^s-44915c2369f654fec76d3d17|14]], [[#^s-39c9f5005208c00cfce0baa0|16]], [[#^s-62fa3ded34c0de3cd341c48d|28]], [[#^s-3eb5dfb7dfddd7a6bf924bfb|30]], [[#^s-b90c89f7b152a271e53e1f9a|31]], [[#^s-5f0cdb7bd41ed6778eff9ffc|32]], [[#^s-c30a64786bf474addd0f1e31|35]], [[#^s-991d1219a8f947bc96bc1e76|36]], [[#^s-d529e8af5ed3713b25f4d779|46]], [[#^s-a4730c647eeb75ff9ae44957|51]], [[#^s-1afc899646cc5fb8158e27bf|53]], [[#^s-72ff64ff2e6195e9ee8ac655|55]] straipsniai įsigalioja 2012 m. liepos 1 d.
+Šio įstatymo [[#^s-b1af42f8ba4cf98f19dfee2f|22 straipsnio]] [[#^s-b3a879c6b2fbfcc1a9814a8e|1]] ir [[#^s-26e2a86eee8a4a603b35e43e|2]] dalys ir [[#^s-ba9dca4d579991b011271833|56 straipsnis]] galioja iki 2013 m. birželio 30 d.
 Šio įstatymo [[#^s-d529e8af5ed3713b25f4d779|46 straipsnis]] ir [[#^s-1ba1ccee791dd61b9720b2c9|51 straipsnio 1 dalis]] galioja iki 2013 m. birželio 30 d.
-Šio įstatymo 1, 4, 5, 6, 7, 8, [[#^s-8f125dc5685cc513eaa94342|9 straipsniai]], [[#^s-23c053c30e5a68d846d97335|11 straipsnio 1 dalis]], 12, 13, 17, 18, 20, 21, 23, 24, 25, 26, 33, 37, 38, 39, 40, 41, 42, 43, 44, 47, 48, 49, 52, 57, 58, [[#^s-5f2de8d76d23fff276b59a71|60 straipsniai]] įsigalioja 2013 m. liepos 1 d.
+Šio įstatymo [[#^s-23e431003114df8a521cd883|1]], [[#^s-ce61a856ae9fef63e2806eae|4]], [[#^s-79b4dc8db4ffaa291c414ec8|5]], [[#^s-9cc6d2c8e86fbfe5f24ca4e0|6]], [[#^s-9f28f81dc02fbfb2be8a20c1|7]], [[#^s-1f0c924eb255e802a0c5becc|8]], [[#^s-8f125dc5685cc513eaa94342|9]] straipsniai, [[#^s-23c053c30e5a68d846d97335|11 straipsnio 1 dalis]], [[#^s-b2901a323888d6c8223c79d4|12]], [[#^s-88e6b3d23c06093773daf648|13]], [[#^s-16fb6aeceb9b474c7ff3ff40|17]], [[#^s-d7a61be4c157c40c46fcfbf2|18]], [[#^s-f7fa60d0a8e03ad80b9f6a1a|20]], [[#^s-08f47e0a5f216fbce51962c0|21]], [[#^s-51b23caa87f5e92e6fe1834d|23]], [[#^s-6dcb164ab7fa8872d02d667a|24]], [[#^s-5ab5e9c72fe7444d3acdb4e8|25]], [[#^s-dd1a6c3f7e5ed639301146ae|26]], [[#^s-94f9fa64fb497c94aec656c1|33]], [[#^s-7ffd5fe2df33082782835353|37]], [[#^s-9a16b9f66952b80e003747b1|38]], [[#^s-0c4c029d3f9717bd59837596|39]], [[#^s-76cb36653ed97b624eab4611|40]], [[#^s-f9e88c67f3a4cef0f8821820|41]], [[#^s-bf9f9daf8724adaed784aed9|42]], [[#^s-50ca3486c1d2e767076c2c72|43]], [[#^s-c87068a3d9954370d2f7d7ba|44]], [[#^s-8df1c03a3c74bf24f41a17b8|47]], [[#^s-2b224c270574f665eaf04a3a|48]], [[#^s-b4454c1b6bc911e5f87c7d0d|49]], [[#^s-622d5e27610c1a269330110c|52]], [[#^s-1f6e4484bc369fbc63f79257|57]], [[#^s-2305b183a9228265fb5da3f7|58]], [[#^s-5f2de8d76d23fff276b59a71|60]] straipsniai įsigalioja 2013 m. liepos 1 d.
 Šis įstatymas ir jo įsigaliojimas keistas:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-73, 2012-12-20, Žin., 2012, Nr. 153-7825 (2012-12-29)
@@ -4609,7 +4609,7 @@ Nr. XI-1709, 2011-11-17, Žin., 2011, Nr. 139-6549 (2011-11-18)
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1973, 2012-04-17, Žin., 2012, Nr. 50-2442 (2012-04-28)
-[[#^s-1b36548c8d357323c57c9b54|ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO 47, 84, 85, 97, 127, 130, 137, 138, 139, 150, 154 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 47(1) STRAIPSNIU ĮSTATYMAS
+ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO [[#^s-8df1c03a3c74bf24f41a17b8|47]], [[#^s-777327e8d2d83e011cba8c4e|84]], [[#^s-bee89e6000f6245f8e8b810a|85]], [[#^s-2258070e010e16fc30e73af7|97]], [[#^s-7f50fff642f9353b54942710|127]], [[#^s-a26892b24f85a64071b1426d|130]], [[#^s-8aa391636ca149461f711664|137]], [[#^s-9c2d561f244794a030cfff94|138]], [[#^s-3919287f2dcc589e474ab14d|139]], [[#^s-cc4cf6b54627d2922f502164|150]], [[#^s-1b36548c8d357323c57c9b54|154]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 47(1) STRAIPSNIU ĮSTATYMAS
 Šis įstatymas įsigalioja 2012 m. liepos 1 d.
 
 22.
@@ -4627,7 +4627,7 @@ ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMAS
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-348, 2013-05-30, Žin., 2013, Nr. 62-3060 (2013-06-12)
-[[#^s-703e9aa3321eb1159ee6223b|ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO 37, 42, 44, 46, 50, 53, 68, 80, 82, 97, 101 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 52(1) STRAIPSNIU ĮSTATYMAS
+ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO [[#^s-7ffd5fe2df33082782835353|37]], [[#^s-bf9f9daf8724adaed784aed9|42]], [[#^s-c87068a3d9954370d2f7d7ba|44]], [[#^s-d529e8af5ed3713b25f4d779|46]], [[#^s-e0ff206fba5b5cb233a29e93|50]], [[#^s-1afc899646cc5fb8158e27bf|53]], [[#^s-401874905007a15dfdce923b|68]], [[#^s-6b4e9ab539dd05645f3d1db8|80]], [[#^s-06c102a8856cc7668d5cc27d|82]], [[#^s-2258070e010e16fc30e73af7|97]], [[#^s-703e9aa3321eb1159ee6223b|101]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 52(1) STRAIPSNIU ĮSTATYMAS
 Šis įstatymas įsigalioja 2013 m. rugpjūčio 1 d.
 
 25.
@@ -4638,7 +4638,7 @@ ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO PAPILDYMO 85(1) STRAIPSNIU ĮSTATYMAS
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1051, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10746
-LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO NR. VIII-1029 71 IR 88-1 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO NR. VIII-1029 [[#^s-32c6ce0fb6a469cc4a50a0b4|71]] IR 88-1 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 
 *** Pabaiga ***
@@ -4649,7 +4649,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2006-09-21, Žin., 2006, Nr. 102-3957 (2006-09-26)
-DĖL LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO 85 STRAIPSNIO 3 DALIES (2000 M. RUGSĖJO 19 D. REDAKCIJA), [[#^s-3919287f2dcc589e474ab14d|139 STRAIPSNIO]] 2, 3 DALIŲ (2000 M. RUGSĖJO 19 D. RED.), [[latest/TAR.EC588C321777#^s-74a6de218a2c75b62ce52bd4|LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO KODEKSO 306 STRAIPSNIO]] (2004 M. LIEPOS 8 D. RED.), 308 STRAIPSNIO (2006 M. BIRŽELIO 1 D. RED.) [[#^s-700e34ded2e3cb585645932c|2 DALIES]] (2002 M. KOVO 14 D. RED.), 324 STRAIPSNIO 12, 13 DALIŲ (2002 M. KOVO 14 D. RED.), 377 STRAIPSNIO (2004 M. LIEPOS 8 D. RED.) 9 DALIES (2002 M. KOVO 14 D. RED.), 448 STRAIPSNIO 7 DALIES (2002 M. KOVO 14 D. RED.), 454 STRAIPSNIO 5, 6 DALIŲ (2002 M. KOVO 14 D. RED.), 460 STRAIPSNIO 4, 5 DALIŲ (2002 M. KOVO 14 D. RED.), LIETUVOS RESPUBLIKOS CIVILINIO PROCESO KODEKSO 268 STRAIPSNIO 3 DALIES (2002 M. VASARIO 28 D. RED.), 285 STRAIPSNIO 2, 5 DALIŲ (2002 M. VASARIO 28 D. RED.), 286 STRAIPSNIO 1 DALIES (2002 M. VASARIO 28 D. RED.), 288 STRAIPSNIO 4 DALIES (2002 M. VASARIO 28 D. RED.), 289 STRAIPSNIO 2 DALIES (2002 M. VASARIO 28 D. RED.), 303 STRAIPSNIO 2 DALIES (2002 M. VASARIO 28 D. RED.), 320 STRAIPSNIO 2 DALIES (2002 M. VASARIO 28 D. RED.), 325 STRAIPSNIO 2, 3 DALIŲ (2002 M. VASARIO 28 D. RED.), 358 STRAIPSNIO 2, 3 DALIŲ (2002 M. VASARIO 28 D. RED.) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, TAIP PAT DĖL PAREIŠKĖJO - SEIMO NARIŲ GRUPĖS PRAŠYMO IŠTIRTI, AR [[latest/TAR.522B3E415B52#^s-0fd3d0bd9c4deb250f17300d|LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 119 STRAIPSNIO 2 DALIES 1 PUNKTAS]] (2002 M. SAUSIO 24 D. REDAKCIJA), 119 STRAIPSNIO 5 DALIS (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-6aa6245faeec07853f609d47|120 STRAIPSNIO]] (2003 M. SAUSIO 21 D. REDAKCIJA) 1 PUNKTAS (2002 M. SAUSIO 24 D. REDAKCIJA), LIETUVOS RESPUBLIKOS PREZIDENTO 2003 M. VASARIO 19 D. DEKRETAS NR. 2067 "DĖL APYGARDOS TEISMO TEISĖJO ĮGALIOJIMŲ PRATĘSIMO", LIETUVOS RESPUBLIKOS PREZIDENTO 2003 M. BIRŽELIO 18 D. DEKRETAS NR. 128 "DĖL APYGARDŲ TEISMŲ SKYRIŲ PIRMININKŲ SKYRIMO" TA APIMTIMI, KURIA NUSTATYTA, KAD VILNIAUS APYGARDOS TEISMO TEISĖJAS KONSTANTAS RAMELIS SKIRIAMAS ŠIO TEISMO CIVILINIŲ BYLŲ SKYRIAUS PIRMININKU, NEPRIEŠTARAUJA LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+DĖL [[latest/TAR.67B5099C5848|LIETUVOS RESPUBLIKOS ADMINISTRACINIŲ BYLŲ TEISENOS ĮSTATYMO 85 STRAIPSNIO 3 DALIES]] (2000 M. RUGSĖJO 19 D. REDAKCIJA), [[#^s-3919287f2dcc589e474ab14d|139 STRAIPSNIO]] [[#^s-1d5faaea8c6def70e07d225e|2]], [[#^s-6bde0aacdb0a1fa791f5e8c1|3]] DALIŲ (2000 M. RUGSĖJO 19 D. RED.), [[latest/TAR.EC588C321777#^s-74a6de218a2c75b62ce52bd4|LIETUVOS RESPUBLIKOS BAUDŽIAMOJO PROCESO KODEKSO 306 STRAIPSNIO]] (2004 M. LIEPOS 8 D. RED.), 308 STRAIPSNIO (2006 M. BIRŽELIO 1 D. RED.) 2 DALIES (2002 M. KOVO 14 D. RED.), 324 STRAIPSNIO 12, 13 DALIŲ (2002 M. KOVO 14 D. RED.), 377 STRAIPSNIO (2004 M. LIEPOS 8 D. RED.) 9 DALIES (2002 M. KOVO 14 D. RED.), 448 STRAIPSNIO 7 DALIES (2002 M. KOVO 14 D. RED.), 454 STRAIPSNIO 5, 6 DALIŲ (2002 M. KOVO 14 D. RED.), 460 STRAIPSNIO 4, 5 DALIŲ (2002 M. KOVO 14 D. RED.), [LIETUVOS RESPUBLIKOS CIVILINIO PROCESO KODEKSO 268 STRAIPSNIO 3 DALIES](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) (2002 M. VASARIO 28 D. RED.), 285 STRAIPSNIO 2, 5 DALIŲ (2002 M. VASARIO 28 D. RED.), 286 STRAIPSNIO 1 DALIES (2002 M. VASARIO 28 D. RED.), 288 STRAIPSNIO 4 DALIES (2002 M. VASARIO 28 D. RED.), 289 STRAIPSNIO 2 DALIES (2002 M. VASARIO 28 D. RED.), 303 STRAIPSNIO 2 DALIES (2002 M. VASARIO 28 D. RED.), 320 STRAIPSNIO 2 DALIES (2002 M. VASARIO 28 D. RED.), 325 STRAIPSNIO 2, 3 DALIŲ (2002 M. VASARIO 28 D. RED.), 358 STRAIPSNIO 2, 3 DALIŲ (2002 M. VASARIO 28 D. RED.) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, TAIP PAT DĖL PAREIŠKĖJO - SEIMO NARIŲ GRUPĖS PRAŠYMO IŠTIRTI, AR [[latest/TAR.522B3E415B52#^s-0fd3d0bd9c4deb250f17300d|LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 119 STRAIPSNIO 2 DALIES 1 PUNKTAS]] (2002 M. SAUSIO 24 D. REDAKCIJA), 119 STRAIPSNIO 5 DALIS (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-6aa6245faeec07853f609d47|120 STRAIPSNIO]] (2003 M. SAUSIO 21 D. REDAKCIJA) 1 PUNKTAS (2002 M. SAUSIO 24 D. REDAKCIJA), LIETUVOS RESPUBLIKOS PREZIDENTO [2003 M. VASARIO 19 D. DEKRETAS NR. 2067](https://e-tar.lt/portal/lt/legalAct/TAR.7FC0AA625C11) "DĖL APYGARDOS TEISMO TEISĖJO ĮGALIOJIMŲ PRATĘSIMO", LIETUVOS RESPUBLIKOS PREZIDENTO [2003 M. BIRŽELIO 18 D. DEKRETAS NR. 128](https://e-tar.lt/portal/lt/legalAct/TAR.915DFDF763FC) "DĖL APYGARDŲ TEISMŲ SKYRIŲ PIRMININKŲ SKYRIMO" TA APIMTIMI, KURIA NUSTATYTA, KAD VILNIAUS APYGARDOS TEISMO TEISĖJAS KONSTANTAS RAMELIS SKIRIAMAS ŠIO TEISMO CIVILINIŲ BYLŲ SKYRIAUS PIRMININKU, NEPRIEŠTARAUJA LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 
 
@@ -4659,32 +4659,32 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1243, 2014-10-16, paskelbta TAR 2014-10-22, i. k. 2014-14516
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 39, 59, 71, 77 ir [[#^s-777327e8d2d83e011cba8c4e|84 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-0c4c029d3f9717bd59837596|39]], [[#^s-13a8d85d0bc929550021f0fa|59]], [[#^s-32c6ce0fb6a469cc4a50a0b4|71]], [[#^s-e580408ccf8f76e66dba77eb|77]] ir [[#^s-777327e8d2d83e011cba8c4e|84]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1401, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19929
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 15 ir [[#^s-e87cc1799e1a723ab0c8765d|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-d4045e44a72badf1a25ee73e|15]] ir [[#^s-e87cc1799e1a723ab0c8765d|19]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1507, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21266
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 15, 20, 40, 43, 44, 46, [[#^s-604f6e345def3f562b801ffd|153 straipsnių]] pakeitimo ir Įstatymo papildymo šešioliktuoju-1 skirsniu įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-d4045e44a72badf1a25ee73e|15]], [[#^s-f7fa60d0a8e03ad80b9f6a1a|20]], [[#^s-76cb36653ed97b624eab4611|40]], [[#^s-50ca3486c1d2e767076c2c72|43]], [[#^s-c87068a3d9954370d2f7d7ba|44]], [[#^s-d529e8af5ed3713b25f4d779|46]], [[#^s-604f6e345def3f562b801ffd|153]] straipsnių pakeitimo ir Įstatymo papildymo šešioliktuoju-1 skirsniu įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1774, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09618
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 4, 98 ir [[#^s-1361a4df30cb886287e28beb|99 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-ce61a856ae9fef63e2806eae|4]], [[#^s-3581f2673a200a934657a174|98]] ir [[#^s-1361a4df30cb886287e28beb|99]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2069, 2015-11-24, paskelbta TAR 2015-12-01, i. k. 2015-19108
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 4, 98 ir [[#^s-1361a4df30cb886287e28beb|99 straipsnių]] pakeitimo [[latest/68a3dd8013eb11e58569be21ff080a8c|įstatymo Nr. XII-1774]] [[#^s-be0074099bb428b0aacfeca7|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-ce61a856ae9fef63e2806eae|4]], [[#^s-3581f2673a200a934657a174|98]] ir [[#^s-1361a4df30cb886287e28beb|99]] straipsnių pakeitimo [[latest/68a3dd8013eb11e58569be21ff080a8c|įstatymo Nr. XII-1774]] [[#^s-be0074099bb428b0aacfeca7|3 straipsnio]] pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2067, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19180
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 71, 88-1, 98 ir [[#^s-1361a4df30cb886287e28beb|99 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-32c6ce0fb6a469cc4a50a0b4|71]], 88-1, [[#^s-3581f2673a200a934657a174|98]] ir [[#^s-1361a4df30cb886287e28beb|99]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4704,7 +4704,7 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 pak
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2655, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24695
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 30, 31, 43, 63, 67, 68, 69, 72, 73, 77, 84, 127 ir [[#^s-70120095191f0561d39d3dba|143 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-3eb5dfb7dfddd7a6bf924bfb|30]], [[#^s-b90c89f7b152a271e53e1f9a|31]], [[#^s-50ca3486c1d2e767076c2c72|43]], [[#^s-2c325810b0136b8c7c9eb22d|63]], [[#^s-c449ef8b5230c248a8479066|67]], [[#^s-401874905007a15dfdce923b|68]], [[#^s-d6f3307aea28723c5ea0eef2|69]], [[#^s-2c8d94828a39f214bd7d0825|72]], [[#^s-59d48885a5c68456b226d0ea|73]], [[#^s-e580408ccf8f76e66dba77eb|77]], [[#^s-777327e8d2d83e011cba8c4e|84]], [[#^s-7f50fff642f9353b54942710|127]] ir [[#^s-70120095191f0561d39d3dba|143]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4714,7 +4714,7 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-460, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10818
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 47, 57, 100, 101, [[#^s-a49ec49610af59894b8f37cb|105 straipsnių]] pakeitimo ir Įstatymo II dalies II skyriaus papildymo trečiuoju-1 skirsniu įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-8df1c03a3c74bf24f41a17b8|47]], [[#^s-1f6e4484bc369fbc63f79257|57]], [[#^s-1d1d83e4d0a413c8b8320a8f|100]], [[#^s-703e9aa3321eb1159ee6223b|101]], [[#^s-a49ec49610af59894b8f37cb|105]] straipsnių pakeitimo ir Įstatymo II dalies II skyriaus papildymo trečiuoju-1 skirsniu įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4724,37 +4724,37 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr.VIII-1029 [[#^
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-876, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20430
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 17, 20 ir [[#^s-b90c89f7b152a271e53e1f9a|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-16fb6aeceb9b474c7ff3ff40|17]], [[#^s-f7fa60d0a8e03ad80b9f6a1a|20]] ir [[#^s-b90c89f7b152a271e53e1f9a|31]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-609, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12430
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 13 ir [[#^s-777327e8d2d83e011cba8c4e|84 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-88e6b3d23c06093773daf648|13]] ir [[#^s-777327e8d2d83e011cba8c4e|84]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1434, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11744
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 17, 20, 21, 29, [[#^s-991d1219a8f947bc96bc1e76|36 straipsnių]] pakeitimo ir II dalies II skyriaus papildymo antruoju-1 skirsniu įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-16fb6aeceb9b474c7ff3ff40|17]], [[#^s-f7fa60d0a8e03ad80b9f6a1a|20]], [[#^s-08f47e0a5f216fbce51962c0|21]], [[#^s-63cb33e2ae99ca1ae07dacd1|29]], [[#^s-991d1219a8f947bc96bc1e76|36]] straipsnių pakeitimo ir II dalies II skyriaus papildymo antruoju-1 skirsniu įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1833, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21854
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 25, 41, 42, 66, 70, 84, 97, 127, 132, 133, 138, 143, 144, 153 ir [[#^s-0471017b80bebd8cb428806b|161 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-5ab5e9c72fe7444d3acdb4e8|25]], [[#^s-f9e88c67f3a4cef0f8821820|41]], [[#^s-bf9f9daf8724adaed784aed9|42]], [[#^s-48e9abac704e4035fec1562e|66]], [[#^s-26dd9ae110b030b077346176|70]], [[#^s-777327e8d2d83e011cba8c4e|84]], [[#^s-2258070e010e16fc30e73af7|97]], [[#^s-7f50fff642f9353b54942710|127]], [[#^s-d5ab251069cdbc0cb76ebd23|132]], [[#^s-87b113e0e57a9df911b029ec|133]], [[#^s-9c2d561f244794a030cfff94|138]], [[#^s-70120095191f0561d39d3dba|143]], [[#^s-3237855edf175711c346379c|144]], [[#^s-604f6e345def3f562b801ffd|153]] ir [[#^s-0471017b80bebd8cb428806b|161]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1848, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21880
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 14, 49, 59 ir [[#^s-c3f80dff2e1dbfcf11d7deec|86 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-44915c2369f654fec76d3d17|14]], [[#^s-b4454c1b6bc911e5f87c7d0d|49]], [[#^s-13a8d85d0bc929550021f0fa|59]] ir [[#^s-c3f80dff2e1dbfcf11d7deec|86]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1834, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21856
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 2, 40, 44, 51, 56, 59, 67 ir [[#^s-32c6ce0fb6a469cc4a50a0b4|71 straipsnių]] pakeitimo ir Įstatymo papildymo 79-1 straipsniu įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-274cd4a2fb9ffb9e4337bf1b|2]], [[#^s-76cb36653ed97b624eab4611|40]], [[#^s-c87068a3d9954370d2f7d7ba|44]], [[#^s-a4730c647eeb75ff9ae44957|51]], [[#^s-ba9dca4d579991b011271833|56]], [[#^s-13a8d85d0bc929550021f0fa|59]], [[#^s-c449ef8b5230c248a8479066|67]] ir [[#^s-32c6ce0fb6a469cc4a50a0b4|71]] straipsnių pakeitimo ir Įstatymo papildymo 79-1 straipsniu įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2079, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07318
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 17 ir [[#^s-f7fa60d0a8e03ad80b9f6a1a|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-16fb6aeceb9b474c7ff3ff40|17]] ir [[#^s-f7fa60d0a8e03ad80b9f6a1a|20]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4769,7 +4769,7 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3049, 2020-06-11, paskelbta TAR 2020-06-22, i. k. 2020-13617
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 2, 20, 28, 36, 44, 56, 79, 79-1, [[#^s-3919287f2dcc589e474ab14d|139 straipsnių]] pakeitimo ir Įstatymo papildymo 79-2 straipsniu įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-274cd4a2fb9ffb9e4337bf1b|2]], [[#^s-f7fa60d0a8e03ad80b9f6a1a|20]], [[#^s-62fa3ded34c0de3cd341c48d|28]], [[#^s-991d1219a8f947bc96bc1e76|36]], [[#^s-c87068a3d9954370d2f7d7ba|44]], [[#^s-ba9dca4d579991b011271833|56]], [[#^s-589c7c9e5b84000ac2077a6d|79]], 79-1, [[#^s-3919287f2dcc589e474ab14d|139]] straipsnių pakeitimo ir Įstatymo papildymo 79-2 straipsniu įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4789,17 +4789,17 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-508, 2021-07-13, paskelbta TAR 2021-07-22, i. k. 2021-16269
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 20 ir [[#^s-d6f3307aea28723c5ea0eef2|69 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-f7fa60d0a8e03ad80b9f6a1a|20]] ir [[#^s-d6f3307aea28723c5ea0eef2|69]] straipsnių pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-417, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14574
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 23 ir [[#^s-6dcb164ab7fa8872d02d667a|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-51b23caa87f5e92e6fe1834d|23]] ir [[#^s-6dcb164ab7fa8872d02d667a|24]] straipsnių pakeitimo įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-871, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26908
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 14, 18 ir [[#^s-b76cb5b38c3ad6ae6e5231d0|112 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-44915c2369f654fec76d3d17|14]], [[#^s-d7a61be4c157c40c46fcfbf2|18]] ir [[#^s-b76cb5b38c3ad6ae6e5231d0|112]] straipsnių pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4809,12 +4809,12 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#
 31.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT20-A-N1/2022, 2022-02-10, paskelbta TAR 2022-02-10, i. k. 2022-02427
-Dėl Lietuvos Respublikos administracinių bylų teisenos įstatymo (2016 m. birželio 2 d. redakcija) [[#^s-b211dfe0cd8644987c148085|158 straipsnio 2 dalies]] atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos administracinių bylų teisenos įstatymo (2016 m. birželio 2 d. redakcija) 158 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/d414ff908a7711ec902c973ca77da22a)
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1383, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15853
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 17, 20, 23, 36, 51, 77, 120, 121, [[#^s-2790d8e6d2ebb8e9f0852335|122 straipsnių]] ir II dalies II skyriaus trečiojo skirsnio pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-16fb6aeceb9b474c7ff3ff40|17]], [[#^s-f7fa60d0a8e03ad80b9f6a1a|20]], [[#^s-51b23caa87f5e92e6fe1834d|23]], [[#^s-991d1219a8f947bc96bc1e76|36]], [[#^s-a4730c647eeb75ff9ae44957|51]], [[#^s-e580408ccf8f76e66dba77eb|77]], [[#^s-6aa6245faeec07853f609d47|120]], [[#^s-1d5106710025b418413fc3fa|121]], [[#^s-2790d8e6d2ebb8e9f0852335|122]] straipsnių ir II dalies II skyriaus trečiojo skirsnio pakeitimo įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4824,22 +4824,22 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1350, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15445
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 35, 38 ir [[#^s-a49ec49610af59894b8f37cb|105 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-c30a64786bf474addd0f1e31|35]], [[#^s-9a16b9f66952b80e003747b1|38]] ir [[#^s-a49ec49610af59894b8f37cb|105]] straipsnių pakeitimo įstatymas
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1571, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25122
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 13, 20, 21, 22, 23, 24, 31, 43, 45, 51, 63, 67, 68, 69, 71, 72, 73, 77, 78, 81, 84, 99, 122-1, 127, 128, 129, 130, 131-1, 131-2, 132, 134 ir [[#^s-a4b20072a5f8e7d32f7cf316|157 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-88e6b3d23c06093773daf648|13]], [[#^s-f7fa60d0a8e03ad80b9f6a1a|20]], [[#^s-08f47e0a5f216fbce51962c0|21]], [[#^s-b1af42f8ba4cf98f19dfee2f|22]], [[#^s-51b23caa87f5e92e6fe1834d|23]], [[#^s-6dcb164ab7fa8872d02d667a|24]], [[#^s-b90c89f7b152a271e53e1f9a|31]], [[#^s-50ca3486c1d2e767076c2c72|43]], [[#^s-bf446dbfa8c94ef834422559|45]], [[#^s-a4730c647eeb75ff9ae44957|51]], [[#^s-2c325810b0136b8c7c9eb22d|63]], [[#^s-c449ef8b5230c248a8479066|67]], [[#^s-401874905007a15dfdce923b|68]], [[#^s-d6f3307aea28723c5ea0eef2|69]], [[#^s-32c6ce0fb6a469cc4a50a0b4|71]], [[#^s-2c8d94828a39f214bd7d0825|72]], [[#^s-59d48885a5c68456b226d0ea|73]], [[#^s-e580408ccf8f76e66dba77eb|77]], [[#^s-74ddbf69233efaac419fd9d3|78]], [[#^s-8f624a4153fc1eb7bf3babc3|81]], [[#^s-777327e8d2d83e011cba8c4e|84]], [[#^s-1361a4df30cb886287e28beb|99]], 122-1, [[#^s-7f50fff642f9353b54942710|127]], [[#^s-5c231b1df4d1a8dbdd5e6c0b|128]], [[#^s-5d5be9bd73606b6ff2fbae87|129]], [[#^s-a26892b24f85a64071b1426d|130]], 131-1, 131-2, [[#^s-d5ab251069cdbc0cb76ebd23|132]], [[#^s-b52dd3b4cd113daaa9f18ac4|134]] ir [[#^s-a4b20072a5f8e7d32f7cf316|157]] straipsnių pakeitimo įstatymas
 
 36.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2248, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22978
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 17 ir [[#^s-73d7a90de9b0a39ff6382ca2|110 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-16fb6aeceb9b474c7ff3ff40|17]] ir [[#^s-73d7a90de9b0a39ff6382ca2|110]] straipsnių pakeitimo įstatymas
 
 37.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT85-N13/2024, 2024-11-07, paskelbta TAR 2024-11-07, i. k. 2024-19451
-Dėl [[#^s-739bf7fe2144a82cc5392d49|Lietuvos Respublikos administracinių bylų teisenos įstatymo 156 straipsnio 2 dalies]] (su 2020 m. birželio 30 d. pakeitimu) atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos administracinių bylų teisenos įstatymo 156 straipsnio 2 dalies (su 2020 m. birželio 30 d. pakeitimu) atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/edd903229d0e11efa605b9842742bf37)
 
 38.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4849,4 +4849,4 @@ Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#
 39.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-923, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08258
-Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 25, 34 ir [[#^s-9a16b9f66952b80e003747b1|38 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos administracinių bylų teisenos įstatymo Nr. VIII-1029 [[#^s-5ab5e9c72fe7444d3acdb4e8|25]], [[#^s-1c3ba0802254be78ca2021b9|34]] ir [[#^s-9a16b9f66952b80e003747b1|38]] straipsnių pakeitimo įstatymas

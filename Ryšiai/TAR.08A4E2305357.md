@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos Lietuvos Respublikoje išrinktų Europos Parl
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - Lietuvos Respublikos baudžiamojo proceso kodekso
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Valstybės tarnybos įstatymo
+- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Lietuvos Respublikos baudžiamojo proceso kodekso
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - Valstybės tarnybos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.2091FFDA9D20#^s-278c98b299ced5a4c2e23494|Lietuvos Respublikos Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymo įgyvendinimo įstatymas]] - 2 citatos - Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymo
+- [[latest/TAR.2091FFDA9D20#^s-278c98b299ced5a4c2e23494|Lietuvos Respublikos Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymo įgyvendinimo įstatymas]] - 3 citatos - Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymo

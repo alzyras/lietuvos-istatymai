@@ -506,7 +506,7 @@ TEISINIS METROLOGINIS REGLAMENTAVIMAS
 2. Matavimo priemonių, kurioms netaikomi techniniai reglamentai, tipo įvertinimo ir patvirtinimo tvarką nustato Valstybinė metrologijos tarnyba. ^s-6bdd67bb227a02927612713f
 
 
-3. Lietuvoje patvirtinti matavimo priemonių tipai įrašomi j Lietuvos matavimo priemonių registrą, įkurtą vadovaujantis Lietuvos Respublikos valstybės registrų įstatymu. Lietuvos Respublikos Vyriausybės patvirtinti Lietuvos matavimo priemonių registro nuostatai reglamentuoja šio registro steigimą, paskirtį, objektus, registro tvarkymo teises ir pareigas, jo reorganizavimą ir likvidavimą. Registrą tvarkanti įstaiga yra Valstybinė metrologijos tarnyba. ^s-778b0e6fc19a87f0fa6e3670
+3. Lietuvoje patvirtinti matavimo priemonių tipai įrašomi j Lietuvos matavimo priemonių registrą, įkurtą vadovaujantis [Lietuvos Respublikos valstybės registrų įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296). Lietuvos Respublikos Vyriausybės patvirtinti Lietuvos matavimo priemonių registro nuostatai reglamentuoja šio registro steigimą, paskirtį, objektus, registro tvarkymo teises ir pareigas, jo reorganizavimą ir likvidavimą. Registrą tvarkanti įstaiga yra Valstybinė metrologijos tarnyba. ^s-778b0e6fc19a87f0fa6e3670
 
 
 4. Matavimo priemonės tipo patvirtinimas, atliktas Europos Sąjungos valstybėse narėse pagal Europos Sąjungos teisės aktų reikalavimus, yra pripažįstamas Lietuvos Respublikoje. ^s-c675056aa666795b096e8de7

@@ -82,7 +82,7 @@ Nr. XV-947, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08448
 8) asmenims, kuriems suteiktas perkeliamojo asmens statusas. ^s-f1e8cf091786ae515dee8593
 
 
-3. Šio įstatymo 19 ir [[#^s-34b655f1cd28c0ce2653b3bd|20 straipsniai]] taip pat taikomi Lietuvos Respublikoje gyvenantiems užsieniečiams, kuriems leidimas laikinai gyventi išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą, taip pat teisę likti Lietuvos Respublikos teritorijoje Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 221 straipsnio 1 dalies 5 punkte nurodytu atveju įgijusiems užsieniečiams, kai ši teisė buvo įgyta pateikus prašymą pakeisti leidimą laikinai gyventi kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą, ir užsieniečiams, kuriems išduotas leidimas laikinai gyventi ar kurie įgijo teisę likti Lietuvos Respublikos teritorijoje Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 221 straipsnio 1 dalies 5 punkte nurodytu atveju, jeigu jie dirba Lietuvos Respublikoje arba dirbo ne trumpesnį kaip 6 mėnesių laikotarpį ir yra įsiregistravę Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos kaip bedarbiai, išskyrus užsieniečius, kuriems leista atvykti studijuoti. ^s-88c353bd55de92eee0f9cc0d
+3. Šio įstatymo [[#^s-1960e55cbbc1d52b6b6f84a2|19]] ir [[#^s-34b655f1cd28c0ce2653b3bd|20]] straipsniai taip pat taikomi Lietuvos Respublikoje gyvenantiems užsieniečiams, kuriems leidimas laikinai gyventi išduotas kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą, taip pat teisę likti Lietuvos Respublikos teritorijoje Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 221 straipsnio 1 dalies 5 punkte nurodytu atveju įgijusiems užsieniečiams, kai ši teisė buvo įgyta pateikus prašymą pakeisti leidimą laikinai gyventi kaip ketinantiems dirbti Lietuvos Respublikoje aukštos profesinės kvalifikacijos reikalaujantį darbą, ir užsieniečiams, kuriems išduotas leidimas laikinai gyventi ar kurie įgijo teisę likti Lietuvos Respublikos teritorijoje Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 221 straipsnio 1 dalies 5 punkte nurodytu atveju, jeigu jie dirba Lietuvos Respublikoje arba dirbo ne trumpesnį kaip 6 mėnesių laikotarpį ir yra įsiregistravę Užimtumo tarnyboje prie Lietuvos Respublikos socialinės apsaugos ir darbo ministerijos kaip bedarbiai, išskyrus užsieniečius, kuriems leista atvykti studijuoti. ^s-88c353bd55de92eee0f9cc0d
 Straipsnio dalies pakeitimai:
 Nr. XV-587, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20656
 Nr. XV-947, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08448
@@ -1160,7 +1160,7 @@ Nr. XV-587, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20656
 3) slaugomas ar prižiūrimas asmuo miršta. ^s-aa7e79e8a7f8c1663a9ce4f2
 
 
-8. Agentūros direktoriaus ar jo įgalioto asmens sprendimą dėl aprūpintojo skyrimo pripažinus netekusiu galios [[#^s-afcee604801751c6cdc00543|šio straipsnio 5 dalyje]] ir 7 dalies 2 punkte nurodytais pagrindais, slaugomam ar prižiūrimam asmeniui šio straipsnio 1, 2 ir [[#^s-3f626f6e0965069dd201e700|3 dalyse]] nustatyta tvarka gali būti paskirtas kitas aprūpintojas. Aprūpintojas skiriamas laikotarpiui, likusiam iki datos, kai sukanka 36 mėnesiai nuo slaugomo ar prižiūrimo asmens pilnametystės. Agentūros direktoriaus ar jo įgalioto asmens sprendimas dėl aprūpintojo skyrimo įsigalioja nuo fizinio asmens rašytinio prašymo paskirti jį aprūpintoju ir dokumentų ar jų kopijų gavimo Agentūroje dienos. ^s-ee355ae248543dc4349b5daf
+8. Agentūros direktoriaus ar jo įgalioto asmens sprendimą dėl aprūpintojo skyrimo pripažinus netekusiu galios [[#^s-afcee604801751c6cdc00543|šio straipsnio 5 dalyje]] ir 7 dalies 2 punkte nurodytais pagrindais, slaugomam ar prižiūrimam asmeniui šio straipsnio [[#^s-ee0782a14f228f05bf25c463|1]], [[#^s-59f7dde24a6dcbce0c0a1683|2]] ir [[#^s-3f626f6e0965069dd201e700|3]] dalyse nustatyta tvarka gali būti paskirtas kitas aprūpintojas. Aprūpintojas skiriamas laikotarpiui, likusiam iki datos, kai sukanka 36 mėnesiai nuo slaugomo ar prižiūrimo asmens pilnametystės. Agentūros direktoriaus ar jo įgalioto asmens sprendimas dėl aprūpintojo skyrimo įsigalioja nuo fizinio asmens rašytinio prašymo paskirti jį aprūpintoju ir dokumentų ar jų kopijų gavimo Agentūroje dienos. ^s-ee355ae248543dc4349b5daf
 
 
 9. Aprūpintojo skyrimo ir jo veiklos priežiūros tvarką nustato Agentūros direktorius. ^s-ce2e5a696d6773143515f71f
@@ -1247,7 +1247,7 @@ BAIGIAMOSIOS NUOSTATOS
 ### 33 straipsnis. Asmens duomenų apsauga ^s-5de15047c9a6dd5d4d6abcde
 
 
-Šiame įstatyme nurodyti asmens duomenys tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]].
+Šiame įstatyme nurodyti asmens duomenys tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]].
 
 
 
@@ -1290,19 +1290,19 @@ Nr. XV-947, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08448
 4. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis. ^s-fe1908db120d7ab586c76368
 
 
-5. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/882 dėl gaminių ir paslaugų prieinamumo reikalavimų. ^s-f273e6723cce6f6b2ecd0082
+5. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/882](https://eur-lex.europa.eu/eli/dir/2019/882/oj) dėl gaminių ir paslaugų prieinamumo reikalavimų. ^s-f273e6723cce6f6b2ecd0082
 Papildyta straipsnio dalimi:
 Nr. XV-761, 2026-03-10, paskelbta TAR 2026-03-13, i. k. 2026-04024
 
 
 
-6. 2021 m. spalio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/1883 dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo siekiant dirbti aukštos kvalifikacijos darbą sąlygų, kuria panaikinama Tarybos direktyva 2009/50/EB. ^s-889c882a81aaed74ba7f05bd
+6. 2021 m. spalio 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2021/1883](https://eur-lex.europa.eu/eli/dir/2021/1883/oj) dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo siekiant dirbti aukštos kvalifikacijos darbą sąlygų, kuria panaikinama Tarybos direktyva 2009/50/EB. ^s-889c882a81aaed74ba7f05bd
 Punkto numeracijos pakeitimas:
 Nr. XV-761, 2026-03-10, paskelbta TAR 2026-03-13, i. k. 2026-04024
 
 
 
-7. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1233 dėl vienos prašymų išduoti vieną leidimą trečiųjų valstybių piliečiams gyventi ir dirbti valstybės narės teritorijoje teikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų valstybių darbuotojų bendrų teisių. ^s-29261fb447ced34c4672b471
+7. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1233](https://eur-lex.europa.eu/eli/dir/2024/1233/oj) dėl vienos prašymų išduoti vieną leidimą trečiųjų valstybių piliečiams gyventi ir dirbti valstybės narės teritorijoje teikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų valstybių darbuotojų bendrų teisių. ^s-29261fb447ced34c4672b471
 Papildyta punktu:
 Nr. XV-947, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08448
 
@@ -1319,7 +1319,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1080, 1995-10-31, Žin., 1995, Nr. 92-2056 (1995-11-10), i. k. [[latest/TAR.A18D5887558C|0951010ISTA00I-1080]]
-Dėl kai kurių Lietuvos Respublikos įstatymų ir kitų teisės aktų, susijusių su Lietuvos Respublikos įstatymu "Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos", pakeitimo ir papildymo
+Dėl kai kurių Lietuvos Respublikos įstatymų ir kitų teisės aktų, susijusių su Lietuvos Respublikos įstatymu ["Dėl važiavimo keleiviniu transportu lengvatų ir kai kurių kategorijų pareigūnų, tarnautojų bei kitų asmenų važiavimo keleiviniu transportu išlaidų kompensavimo tvarkos"](https://e-tar.lt/portal/lt/legalAct/TAR.C640C19DFD44), pakeitimo ir papildymo
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1404,7 +1404,7 @@ Nr. XII-471, 2013-07-02, Žin., 2013, Nr. 79-3992 (2013-07-23), i. k. [[latest/T
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2357, 2016-05-17, paskelbta TAR 2016-05-24, i. k. 2016-13918
-Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1, 11, 16, 17, 18, [[#^s-3ad7aeb96449798758654d1b|25 straipsnių]], trečiojo skirsnio pavadinimo ir priedo pakeitimo įstatymas
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 [[#^s-2a400681fa6f216a41137329|1]], [[#^s-c74861746018c671130ede3c|11]], [[#^s-6deacda468be300d5073cd5b|16]], [[#^s-a856acce15b591ebda727eb9|17]], [[#^s-785cca13e10b2c29f52484c3|18]], [[#^s-3ad7aeb96449798758654d1b|25]] straipsnių, trečiojo skirsnio pavadinimo ir priedo pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1424,12 +1424,12 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1261, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10487
-Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 1, 2, 14, 16, 18, 19, 20, 21, 22, 23, [[#^s-b8b9eda23c41f8ba2ff63138|24 straipsnių]], ketvirtojo ir penktojo skirsnių pavadinimų pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 [[#^s-2a400681fa6f216a41137329|1]], [[#^s-2665b54b210a61ff971408dd|2]], [[#^s-9839b806d6c2e6cd94c6af91|14]], [[#^s-6deacda468be300d5073cd5b|16]], [[#^s-785cca13e10b2c29f52484c3|18]], [[#^s-1960e55cbbc1d52b6b6f84a2|19]], [[#^s-34b655f1cd28c0ce2653b3bd|20]], [[#^s-087c7dd0a897ffcb903162b7|21]], [[#^s-8abd6d3f35671e8537b90caf|22]], [[#^s-76a8ec08eaf692e4aa2ae5a4|23]], [[#^s-b8b9eda23c41f8ba2ff63138|24]] straipsnių, ketvirtojo ir penktojo skirsnių pavadinimų pakeitimo ir Įstatymo papildymo 20-1 straipsniu įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1344, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11442
-Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 5 ir [[#^s-087c7dd0a897ffcb903162b7|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 [[#^s-3104aaaa7ae4dc09109d7bde|5]] ir [[#^s-087c7dd0a897ffcb903162b7|21]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1454,12 +1454,12 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3119, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15356
-Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 6 ir [[#^s-6deacda468be300d5073cd5b|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 [[#^s-7cbb06c46a2ffc8688968cd9|6]] ir [[#^s-6deacda468be300d5073cd5b|16]] straipsnių pakeitimo įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-215, 2021-03-25, paskelbta TAR 2021-03-31, i. k. 2021-06552
-Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 2, 16, 18 ir 20-1 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 [[#^s-2665b54b210a61ff971408dd|2]], [[#^s-6deacda468be300d5073cd5b|16]], [[#^s-785cca13e10b2c29f52484c3|18]] ir 20-1 straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1474,7 +1474,7 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1363, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15457
-Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 2, 3, 6, 16, 18, 20, 25-1 straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 20-2 straipsniu įstatymas
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 [[#^s-2665b54b210a61ff971408dd|2]], [[#^s-e35c65037d1b679d22c23d3e|3]], [[#^s-7cbb06c46a2ffc8688968cd9|6]], [[#^s-6deacda468be300d5073cd5b|16]], [[#^s-785cca13e10b2c29f52484c3|18]], [[#^s-34b655f1cd28c0ce2653b3bd|20]], 25-1 straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 20-2 straipsniu įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1484,12 +1484,12 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1395, 2022-07-19, paskelbta TAR 2022-07-25, i. k. 2022-16122
-Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 16, [[#^s-785cca13e10b2c29f52484c3|18 straipsnių]], ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 20-3 straipsniu įstatymas
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 [[#^s-6deacda468be300d5073cd5b|16]], [[#^s-785cca13e10b2c29f52484c3|18]] straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 20-3 straipsniu įstatymas
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1840, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05734
-Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 11 ir 25-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 [[#^s-c74861746018c671130ede3c|11]] ir 25-1 straipsnių pakeitimo įstatymas
 
 36.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1514,12 +1514,12 @@ Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044
 40.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-695, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-22988
-Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo Nr. I-2044 10 ir [[#^s-a856acce15b591ebda727eb9|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo Nr. I-2044 [[#^s-ca874de18d5458e83f9b352b|10]] ir [[#^s-a856acce15b591ebda727eb9|17]] straipsnių pakeitimo įstatymas
 
 41.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-587, 2025-11-27, paskelbta TAR 2025-12-04, i. k. 2025-20656
-Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo Nr. I-2044 1, 2, 15, 24, 26, 30 ir [[#^s-5b9955b671b602ae2cb9f090|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos asmens su negalia teisių apsaugos pagrindų įstatymo Nr. I-2044 [[#^s-2a400681fa6f216a41137329|1]], [[#^s-2665b54b210a61ff971408dd|2]], [[#^s-c3eecd071471d03a214680dd|15]], [[#^s-b8b9eda23c41f8ba2ff63138|24]], [[#^s-bf900c248da6b91b97763b4c|26]], [[#^s-804fb009bd953e14c9b10e9b|30]] ir [[#^s-5b9955b671b602ae2cb9f090|32]] straipsnių pakeitimo įstatymas
 
 42.
 Lietuvos Respublikos Seimas, Įstatymas

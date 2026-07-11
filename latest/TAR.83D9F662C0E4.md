@@ -219,7 +219,7 @@ BENDROSIOS NUOSTATOS
 ### 5 straipsnis. Informacijos klasifikavimas ir žymėjimas ^s-ecb0bafcad7cff0b5b4b26d9
 
 
-1. Įslaptinta informacija pagal svarbą, galimos žalos, kurią patirtų valstybė, jos institucijos ar asmenys, jeigu ši informacija būtų prarasta arba atskleista neturintiems teisės ją sužinoti asmenims, dydį ir pagal apsaugos, būtinos tokiai informacijai apsaugoti, lygį yra skirstoma į visiškai slaptą, slaptą, konfidencialią bei riboto naudojimo informaciją. ^s-06c7d370cf2706bdbe8c06de
+1. Įslaptinta informacija pagal svarbą, galimos žalos, kurią patirtų valstybė, jos institucijos ar asmenys, jeigu ši informacija būtų prarasta arba atskleista neturintiems teisės ją sužinoti asmenims, dydį ir pagal apsaugos, būtinos tokiai informacijai apsaugoti, lygį yra skirstoma į visiškai slaptą, slaptą, konfidencialią bei [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) informaciją. ^s-06c7d370cf2706bdbe8c06de
 
 
 2. Žyma „Visiškai slaptai“ suteikiama valstybės paslaptį sudarančiai informacijai, kurios praradimas arba neteisėtas atskleidimas gali sukelti grėsmę Lietuvos Respublikos suverenitetui ar teritorijos vientisumui arba turėti ypač sunkių pasekmių valstybės interesams, arba sukelti pavojų žmogaus gyvybei. ^s-30754786db6441490901b788
@@ -231,7 +231,7 @@ BENDROSIOS NUOSTATOS
 4. Žyma „Konfidencialiai“ suteikiama tarnybos paslaptį sudarančiai informacijai, kurios praradimas arba neteisėtas atskleidimas gali pakenkti valstybės interesams arba padaryti žalos valstybės institucijų veiklai ar sudaryti prielaidas neteisėtam valstybės paslaptį sudarančios informacijos atskleidimui. ^s-52851917fd8edc7ac59e8ff4
 
 
-5. Žyma „Riboto naudojimo“ suteikiama tarnybos paslaptį sudarančiai informacijai, kurios praradimas arba neteisėtas atskleidimas gali pakenkti valstybės institucijų interesams. ^s-7231bcd0d9f914b64d9d7101
+5. Žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) suteikiama tarnybos paslaptį sudarančiai informacijai, kurios praradimas arba neteisėtas atskleidimas gali pakenkti valstybės institucijų interesams. ^s-7231bcd0d9f914b64d9d7101
 
 
 6. Slaptumo žymos nuo aukščiausios iki žemiausios yra šios: ^s-366bdf93290c637be3832847
@@ -246,7 +246,7 @@ BENDROSIOS NUOSTATOS
 3) „Konfidencialiai“; ^s-9d22650b014db84d8c0e3315
 
 
-4) „Riboto naudojimo“. ^s-04cc3dacea207cc0b0e2e01d
+4) [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7). ^s-04cc3dacea207cc0b0e2e01d
 
 
 7. Draudžiama šiame straipsnyje nustatytas informacijos slaptumo žymas suteikti šio Įstatymo nereglamentuojamai informacijai. ^s-a81d983e829f0d0afe521bdb
@@ -425,7 +425,7 @@ BENDROSIOS NUOSTATOS
 22) tyrimo poligrafu išvada ir tyrimo metu padaryti garso ir (ar) vaizdo įrašai; ^s-f60485a5b90210fdcbfd36ea
 
 
-23) informacija, telekomunikacinės veiklos reguliavimo, priežiūros ir Telekomunikacijų įstatymo nuostatų įgyvendinimo tikslams gauta iš valstybės ir savivaldybės institucijų, telekomunikacijų operatorių bei paslaugų teikėjų ir radijo dažnių (kanalų) bei telefono ryšio numerių naudotojų; ^s-b5f7cab8374118d9b80ff4ed
+23) informacija, telekomunikacinės veiklos reguliavimo, priežiūros ir [Telekomunikacijų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.027489452776) nuostatų įgyvendinimo tikslams gauta iš valstybės ir savivaldybės institucijų, telekomunikacijų operatorių bei paslaugų teikėjų ir radijo dažnių (kanalų) bei telefono ryšio numerių naudotojų; ^s-b5f7cab8374118d9b80ff4ed
 
 
 24) informacija apie [[latest/TAR.57E0E8B29108#^s-59652b9d264fbe5592c8c9d1|Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 3 straipsnio 1 dalyje]] ir [[#^s-a0c6a29d08dd041579a410f3|4 straipsnio 1 dalyje]] nurodytų įmonių privatizavimo sandorių sudarymą, jeigu tokios informacijos atskleidimas padarytų žalą valstybės ekonominiams ir politiniams interesams; ^s-756dbd64a7a5957988adaa12
@@ -456,7 +456,7 @@ BENDROSIOS NUOSTATOS
 3) informacija, žymima slaptumo žyma „Konfidencialiai“ – 10 metų; ^s-e13b6c35bf48246823b81a6a
 
 
-4) informacija, žymima slaptumo žyma „Riboto naudojimo“ – 5 metams. ^s-4498ea1f5d96b6372f82093a
+4) informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) – 5 metams. ^s-4498ea1f5d96b6372f82093a
 
 
 2. Informacijos įslaptinimo terminas skaičiuojamas nuo slaptumo žymos suteikimo dienos. ^s-b3d04df1d11896825cf0ed4f
@@ -506,7 +506,7 @@ BENDROSIOS NUOSTATOS
 2. Įslaptinta informacija, kai nustatytas įslaptinimo terminas dar nepasibaigęs, gali būti išslaptinama tik įslaptintos informacijos rengėjo sprendimu. ^s-ff355363274aa7f2cc21d6aa
 
 
-3. Pasibaigus nustatytam įslaptinimo terminui, informacija, žymima slaptumo žymomis „Visiškai slaptai“, „Slaptai“ ir „Konfidencialiai“, išslaptinama tik įslaptintos informacijos rengėjo sprendimu. Pasibaigus nustatytam įslaptinimo terminui, informacija, žymima slaptumo žyma „Riboto naudojimo“, laikoma išslaptinta nepriimant atskiro sprendimo, jeigu informacija neturi papildomos nuorodos ir informacijos rengėjas nepranešė apie informacijos įslaptinimo termino pratęsimą. ^s-48cc3271dd3acc65d00dfdb3
+3. Pasibaigus nustatytam įslaptinimo terminui, informacija, žymima slaptumo žymomis „Visiškai slaptai“, „Slaptai“ ir „Konfidencialiai“, išslaptinama tik įslaptintos informacijos rengėjo sprendimu. Pasibaigus nustatytam įslaptinimo terminui, informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), laikoma išslaptinta nepriimant atskiro sprendimo, jeigu informacija neturi papildomos nuorodos ir informacijos rengėjas nepranešė apie informacijos įslaptinimo termino pratęsimą. ^s-48cc3271dd3acc65d00dfdb3
 
 
 
@@ -566,10 +566,10 @@ VALSTYBĖS INSTITUCIJŲ KOMPETENCIJA IR ĮGALIOJIMAI ĮSLAPTINTOS INFORMACIJOS A
 11) paslapčių subjektams tarpininkaujant, sprendžia klausimus dėl galimybės išduoti asmens patikimumo pažymėjimus arba leidimus dirbti ar susipažinti su įslaptinta informacija asmenims, turintiems dvigubą pilietybę, arba asmenims, neturintiems šio Įstatymo [[#^s-662301ccecd12636b6beabaf|16 straipsnio 2 dalies 2 punkte]] nustatyto nuolatinio gyvenimo Lietuvos Respublikoje cenzo; ^s-f40362f8195909fd9c5acdba
 
 
-12) pasibaigus šio Įstatymo [[#^s-64fb69710871eebcdb3d2305|8 straipsnio 1 dalies]] 1 ir [[#^s-ac86d16c7d7f558d6a9ea6b4|2 punktuose]] nustatytam informacijos įslaptinimo terminui, paslapčių subjektų teikimu sprendžia klausimus dėl įslaptinimo termino pratęsimo tikslingumo; ^s-02de01cab1e8377761830da1
+12) pasibaigus šio Įstatymo [[#^s-64fb69710871eebcdb3d2305|8 straipsnio 1 dalies]] [[#^s-19b47b6f0636e435a3c463ad|1]] ir [[#^s-17318c673dc6f904b0cc037f|2]] punktuose nustatytam informacijos įslaptinimo terminui, paslapčių subjektų teikimu sprendžia klausimus dėl įslaptinimo termino pratęsimo tikslingumo; ^s-02de01cab1e8377761830da1
 
 
-13) sprendžia ginčus tarp paslapčių subjektų, taip pat ginčus tarp paslapčių subjektų ir kitų asmenų, kylančius dėl informacijos įslaptinimo, įslaptintos informacijos saugojimo, naudojimo, išslaptinimo, apsaugos kontrolės ir dėl leidimų dirbti ar susipažinti su įslaptinta informacija bei asmens patikimumo pažymėjimų, įmonės patikimumo pažymėjimų neišdavimo ar panaikinimo pagrįstumo; ^s-433184296e99c1606cb71021
+13) sprendžia ginčus tarp paslapčių subjektų, taip pat ginčus tarp paslapčių subjektų ir kitų asmenų, kylančius dėl informacijos įslaptinimo, įslaptintos informacijos saugojimo, naudojimo, išslaptinimo, apsaugos kontrolės ir [dėl leidimų](https://e-tar.lt/portal/lt/legalAct/TAR.49F3BFF08717) dirbti ar susipažinti su įslaptinta informacija bei asmens patikimumo pažymėjimų, įmonės patikimumo pažymėjimų neišdavimo ar panaikinimo pagrįstumo; ^s-433184296e99c1606cb71021
 
 
 14) teikia paslapčių subjektams siūlymus dėl informacijos, kuri pagal savo pobūdį ir svarbą turėtų būti įslaptinta, tačiau nuosavybės teise priklauso paslapčių subjektu nesančiam fiziniam ar juridiniam asmeniui, įsigijimo pagrįstumo ir galimo atlygio informacijos savininkui dydžio; ^s-dc6023614079e625e98817ee
@@ -606,7 +606,7 @@ VALSTYBĖS INSTITUCIJŲ KOMPETENCIJA IR ĮGALIOJIMAI ĮSLAPTINTOS INFORMACIJOS A
 5. Paslapčių subjektai sudaro pareigų, kurias einantiems asmenims reikia asmens patikimumo pažymėjimų, sąrašus. ^s-933758ea70d038fbb13d26c4
 
 
-6. Šio straipsnio 4 ir [[#^s-933758ea70d038fbb13d26c4|5 dalyse]] nurodytuose pareigų sąrašuose turi būti nurodoma aukščiausia kategorija įslaptintos informacijos, su kuria asmenys, einantys sąraše nurodytas pareigas, gali dirbti ar susipažinti. ^s-4411e637e01414dc4b21367c
+6. Šio straipsnio [[#^s-adb26b3ca59b32ba25489c0e|4]] ir [[#^s-933758ea70d038fbb13d26c4|5]] dalyse nurodytuose pareigų sąrašuose turi būti nurodoma aukščiausia kategorija įslaptintos informacijos, su kuria asmenys, einantys sąraše nurodytas pareigas, gali dirbti ar susipažinti. ^s-4411e637e01414dc4b21367c
 
 
 7. Asmenys, vykdantys įslaptintos informacijos, žymimos slaptumo žymomis „Visiškai slaptai“, „Slaptai“ arba „Konfidencialiai“, fizinę apsaugą ar įgalioti tokią informaciją gabenti, privalo turėti leidimus dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Slaptai“. ^s-813e35887f22f0d3a01a527c
@@ -625,7 +625,7 @@ VALSTYBĖS INSTITUCIJŲ KOMPETENCIJA IR ĮGALIOJIMAI ĮSLAPTINTOS INFORMACIJOS A
 1) rengia paslapčių subjekto teisės aktus, susijusius su įslaptintos informacijos apsauga, prižiūri, kaip šie teisės aktai vykdomi; ^s-1dedda6505005f4b07590e6a
 
 
-2) teikia siūlymus paslapčių subjekto vadovui dėl leidimų dirbti ar susipažinti su įslaptinta informacija išdavimo asmenims arba išduotų leidimų panaikinimo; ^s-63d990bd8aed90f395887bf3
+2) teikia siūlymus paslapčių subjekto vadovui [dėl leidimų](https://e-tar.lt/portal/lt/legalAct/TAR.49F3BFF08717) dirbti ar susipažinti su įslaptinta informacija išdavimo asmenims arba išduotų leidimų panaikinimo; ^s-63d990bd8aed90f395887bf3
 
 
 3) teikia siūlymus bei išvadas dėl informacijos įslaptinimo pagrįstumo, slaptumo žymų keitimo, įslaptintos informacijos išslaptinimo ar sunaikinimo; ^s-eeb18513ef94568696519a26
@@ -665,7 +665,7 @@ PERSONALO PATIKIMUMAS
 3. Atliekant ikiteisminį tyrimą ir nagrinėjant baudžiamąją bylą, kurių medžiagoje yra įslaptintos informacijos, įtariamasis (kaltinamasis) ir įtariamojo (kaltinamojo) gynėjai [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] nustatyta tvarka turi teisę susipažinti su bylos medžiagoje esančia įslaptinta informacija, išskyrus nukentėjusiojo ar liudytojo, kuriam taikomas anonimiškumas, asmens tapatybę padedančius nustatyti duomenis. ^s-633f8d289ada36c99b029fb4
 
 
-4. [[#^s-633f8d289ada36c99b029fb4|Šio straipsnio 3 dalyje]] išvardyti asmenys, prieš jiems suteikiant teisę susipažinti su įslaptinta informacija, yra įspėjami dėl baudžiamosios atsakomybės už įslaptintos informacijos atskleidimą. Šio straipsnio 5 ir [[#^s-3521449613e952eaa3b301e3|6 dalyse]] išvardyti asmenys prieš išduodant laikiną leidimą dirbti ar susipažinti su Lietuvos Respublikos, užsienio valstybių ar tarptautinių organizacijų įslaptinta informacija turi duoti nustatyto pavyzdžio rašytinį pasižadėjimą saugoti patikėtą įslaptintą informaciją. ^s-10d5c0628b91660739237ec5
+4. [[#^s-633f8d289ada36c99b029fb4|Šio straipsnio 3 dalyje]] išvardyti asmenys, prieš jiems suteikiant teisę susipažinti su įslaptinta informacija, yra įspėjami dėl baudžiamosios atsakomybės už įslaptintos informacijos atskleidimą. Šio straipsnio [[#^s-9d192af836fddcf390dfec2e|5]] ir [[#^s-3521449613e952eaa3b301e3|6]] dalyse išvardyti asmenys prieš išduodant laikiną leidimą dirbti ar susipažinti su Lietuvos Respublikos, užsienio valstybių ar tarptautinių organizacijų įslaptinta informacija turi duoti nustatyto pavyzdžio rašytinį pasižadėjimą saugoti patikėtą įslaptintą informaciją. ^s-10d5c0628b91660739237ec5
 
 
 5. Lietuvos Respublikoje paskelbus karo ar nepaprastąją padėtį arba karinių operacijų metu paslapčių subjekto vadovo ar jo įgalioto asmens sprendimu asmeniui, kuris neturi leidimo dirbti su įslaptinta informacija, gali būti suteikta teisė su ja susipažinti, jeigu tokia informacija yra būtina atliekant jam pavestas funkcijas ar užduotis. ^s-9d192af836fddcf390dfec2e
@@ -774,7 +774,7 @@ PERSONALO PATIKIMUMAS
 7. Sprendimą dėl leidimo dirbti ar susipažinti su įslaptinta informacija neišdavimo, asmens patikimumo pažymėjimo neišdavimo, Valstybės saugumo departamento prieštaravimą, kad asmeniui būtų išduotas toks leidimas, taip pat kandidatūrą tikrinančių institucijų sprendimą nutraukti kandidatūros tikrinimą, nustačius [[#^s-5c02ccfc96704953b47fd7d8|šio straipsnio 2 dalyje]] nurodytas aplinkybes, per 30 darbo dienų nuo tokio sprendimo gavimo dienos pats asmuo arba paslapčių subjektas turi teisę apskųsti Paslapčių apsaugos koordinavimo komisijai. Prireikus ši komisija įpareigoja kandidatūros tikrinimą atlikusias institucijas surinkti ir pateikti papildomus duomenis apie tokį asmenį. Paslapčių apsaugos koordinavimo komisijos sprendimas paslapčių subjektui yra privalomas. ^s-4c1f5aa5260d4a1f4a777553
 
 
-8. Asmenims, kurių darbas susijęs su tarnybos paslaptį sudarančios informacijos, žymimos slaptumo žyma „Riboto naudojimo“, naudojimu ar tokios informacijos apsauga, teisę dirbti ar susipažinti su tokia informacija suteikia paslapčių subjektas. Valstybės saugumo departamento sutikimo nereikia. Teisės dirbti ar susipažinti su tokia informacija suteikimo tvarką nustato paslapčių subjektai, vadovaudamiesi Paslapčių apsaugos koordinavimo komisijos patvirtintais bendraisiais principais. ^s-04e64705f3a393a7e9801b56
+8. Asmenims, kurių darbas susijęs su tarnybos paslaptį sudarančios informacijos, žymimos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), naudojimu ar tokios informacijos apsauga, teisę dirbti ar susipažinti su tokia informacija suteikia paslapčių subjektas. Valstybės saugumo departamento sutikimo nereikia. Teisės dirbti ar susipažinti su tokia informacija suteikimo tvarką nustato paslapčių subjektai, vadovaudamiesi Paslapčių apsaugos koordinavimo komisijos patvirtintais bendraisiais principais. ^s-04e64705f3a393a7e9801b56
 
 
 
@@ -802,7 +802,7 @@ PERSONALO PATIKIMUMAS
 4) slaptųjų operatyvinės veiklos dalyvių, įslaptintų žvalgybos tarnautojų ir žvalgybos slaptųjų bendradarbių – patys paslapčių subjektai; ^s-01c5713142f06a5164d0bfb4
 
 
-5) Valstybės saugumo departamentas, jei leidimą dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo pažymėjimą pretenduoja gauti asmuo, nenurodytas šios dalies 1–[[#^s-01c5713142f06a5164d0bfb4|4 punktuose]]. ^s-d53c511a43e4656fe219a96e
+5) Valstybės saugumo departamentas, jei leidimą dirbti ar susipažinti su įslaptinta informacija arba asmens patikimumo pažymėjimą pretenduoja gauti asmuo, nenurodytas šios dalies [[#^s-90a5410bb3ddb403dad657d4|1]]–[[#^s-01c5713142f06a5164d0bfb4|4]] punktuose. ^s-d53c511a43e4656fe219a96e
 
 
 4. Jeigu kandidatūrą patikrino Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos, vidaus reikalų ministro įgaliotos institucijos ar Specialiųjų tyrimų tarnyba ir patikrinimo metu nebuvo nustatytos aplinkybės, nurodytos šio Įstatymo [[#^s-5c02ccfc96704953b47fd7d8|16 straipsnio 2 dalyje]], asmens užpildytas klausimynas, autobiografija ir atlikto tikrinimo išvados pateikiamos Valstybės saugumo departamentui. Valstybės saugumo departamentas įvertina atlikto tikrinimo rezultatus pagal informaciją, kuria jis disponuoja, prireikus surenka papildomą informaciją arba rekomenduoja tai padaryti kandidatūrą tikrinusioms institucijoms ir teikia paslapčių subjektui sutikimą arba motyvuotą prieštaravimą dėl galimybės asmeniui išduoti atitinkamos kategorijos leidimą dirbti ar susipažinti su įslaptinta informacija. ^s-efb28778860babd292aa6f18
@@ -1046,7 +1046,7 @@ Atsakingas asmuo:
 4) naikinami (įskaitant jų kopijas) surašant sunaikinimo aktus. ^s-08e370e73e019171f598194c
 
 
-4. Įslaptinti dokumentai, žymimi slaptumo žyma „Riboto naudojimo“, administruojami taip: ^s-30186f7fa7376e160de1a049
+4. Įslaptinti dokumentai, žymimi slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), administruojami taip: ^s-30186f7fa7376e160de1a049
 
 
 1) tvarkomi ir laikomi administracinėje saugumo zonoje; ^s-278d4e07deb18f26c23db06b
@@ -1055,7 +1055,7 @@ Atsakingas asmuo:
 2) vykdytojo sprendimu gali būti platinami, dauginami, kopijuojami ir vadovaujantis principu „Būtina žinoti“ pateikiami kitiems asmenims susipažindinti, jeigu dokumentas nėra pažymėtas nuoroda „Būtinas informacijos rengėjo sutikimas“. ^s-5c38ea31fe661a330bc098a8
 
 
-5. Įslaptintų dokumentų, žymimų slaptumo žyma „Riboto naudojimo“, platinimo, dauginimo, naikinimo ar kitų asmenų susipažindinimo su jų turiniu tvarką gali nustatyti paslapčių subjektai. ^s-3c156adc815b91bf9560cb6a
+5. Įslaptintų dokumentų, žymimų slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), platinimo, dauginimo, naikinimo ar kitų asmenų susipažindinimo su jų turiniu tvarką gali nustatyti paslapčių subjektai. ^s-3c156adc815b91bf9560cb6a
 
 
 
@@ -1075,7 +1075,7 @@ Atsakingas asmuo:
 1. Įslaptintus dokumentus, gaminius ir kitus objektus, žymimus slaptumo žymomis „Visiškai slaptai“ ir „Slaptai“, turi gabenti šaunamaisiais ginklais ginkluoti diplomatiniai, kariniai, specialius įgaliojimus turinčių kurjerių pašto tarnybų kurjeriai arba paslapčių subjekto įgalioti asmenys. ^s-02d49247f0b324762a4f8620
 
 
-2. Įslaptintus dokumentus, gaminius ir kitus objektus, žymimus slaptumo žymomis „Konfidencialiai“ ir „Riboto naudojimo“, gali gabenti [[#^s-02d49247f0b324762a4f8620|šio straipsnio 1 dalyje]] išvardyti asmenys arba kurjerių pašto tarnybų kurjeriai. ^s-d1c64fb8cfc512352e0e56c6
+2. Įslaptintus dokumentus, gaminius ir kitus objektus, žymimus slaptumo žymomis „Konfidencialiai“ ir [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), gali gabenti [[#^s-02d49247f0b324762a4f8620|šio straipsnio 1 dalyje]] išvardyti asmenys arba kurjerių pašto tarnybų kurjeriai. ^s-d1c64fb8cfc512352e0e56c6
 
 
 3. Įslaptintus dokumentus, gaminius ir kitus objektus gabenantys asmenys: ^s-b598f2fe672a0ce664f7567b
@@ -1132,7 +1132,7 @@ Atsakingas asmuo:
 2. Kartą per trejus metus paslapčių subjekto vadovo įgalioti asmenys turi atlikti įslaptintos informacijos, pažymėtos slaptumo žyma „Konfidencialiai“, patikrinimą. Patikrinimo išvados įforminamos aktu. Jį tvirtina paslapčių subjekto vadovas. ^s-61ae3563c3cbdb92cf44d185
 
 
-3. Įslaptintos informacijos, pažymėtos slaptumo žyma „Riboto naudojimo“, patikrinimo periodiškumą nustato paslapčių subjektas. ^s-00db2e3217960b7252f0c33f
+3. Įslaptintos informacijos, pažymėtos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), patikrinimo periodiškumą nustato paslapčių subjektas. ^s-00db2e3217960b7252f0c33f
 
 
 4. Patikrinimo tikslas – nustatyti, ar įslaptinta informacija nėra prarasta arba sugadinta. ^s-9caf2e066926b73887d05aad
@@ -1261,7 +1261,7 @@ Smulkesnę įslaptintos informacijos rengimo, įforminimo, siuntimo, gabenimo, g
 1. Teritorijos ir patalpos, kuriose dirbama arba kuriose saugoma įslaptinta informacija, pagal informacijos slaptumo žymas, saugojimo pobūdį ir nesankcionuoto susipažinimo su įslaptinta informacija tikimybę skirstomos į atskiras saugumo zonas. ^s-838efd4bee784707f3eea1ab
 
 
-2. Administracinė saugumo zona – apibrėžta teritorija ir (ar) patalpos, kuriose kontroliuojamas asmenų ir transporto priemonių judėjimas. Patekti į I ar II klasės saugumo zoną galima tik per administracinę zoną. Administracinėje zonoje gali būti saugoma tik informacija, žymima slaptumo žyma „Riboto naudojimo“, arba su tokia informacija dirbama. Administracinėje saugumo zonoje saugoma įslaptinta informacija turi būti laikoma metalinėse spintose arba seifuose. ^s-26e3fca8da243c2673b66b0d
+2. Administracinė saugumo zona – apibrėžta teritorija ir (ar) patalpos, kuriose kontroliuojamas asmenų ir transporto priemonių judėjimas. Patekti į I ar II klasės saugumo zoną galima tik per administracinę zoną. Administracinėje zonoje gali būti saugoma tik informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), arba su tokia informacija dirbama. Administracinėje saugumo zonoje saugoma įslaptinta informacija turi būti laikoma metalinėse spintose arba seifuose. ^s-26e3fca8da243c2673b66b0d
 
 
 3. II klasės saugumo zona – teritorijos ir patalpos, kuriose saugoma informacija, žymima slaptumo žyma „Konfidencialiai“ ir aukštesnėmis slaptumo žymomis, arba su tokia informacija dirbama, taip pat patalpos, į kurias patekus galima tiesiogiai prieiti prie šios saugumo zonos elektroninių apsaugos priemonių centrinio valdymo. II klasės saugumo zonoje saugoma įslaptinta informacija, žymima slaptumo žyma „Slaptai“ arba „Visiškai slaptai“, turi būti laikoma seifuose, turinčiuose individualius vartotojų kodinius bei mechaninius užraktus, ar specialiai tokiai informacijai saugoti skirtose saugyklose. II klasės saugumo zonoje saugoma įslaptinta informacija, žymima slaptumo žyma „Konfidencialiai“, turi būti laikoma metalinėse spintose arba seifuose. ^s-37432706cbe62d9d8f4d0134
@@ -1390,7 +1390,7 @@ Atsakingas asmuo:
 2. Įmonės patikimumo tikrinimo tikslas – nustatyti, ar su rangovu gali būti sudarytas įslaptintas sandoris užtikrinant tinkamą įslaptintos informacijos apsaugą. Šio tikrinimo metu negali būti naudojami operatyvinės veiklos metodai ir priemonės, išskyrus operatyvinę apklausą ir duomenų, esančių operatyvinėje įskaitoje, peržiūrą. ^s-da0e9c8e34c4fb4a687ed708
 
 
-3. Atlikus šio straipsnio 8–[[#^s-3e7ce6b69cb33138477086e1|10 dalyse]] nustatytą tikrinimą, įmonės patikimumą patvirtinančius pažymėjimus išduoda šios įslaptintų sandorių saugumą užtikrinančios institucijos: ^s-faa676eae48abb3c1b484e7b
+3. Atlikus šio straipsnio [[#^s-63b29f18760f24e815b33028|8]]–[[#^s-3e7ce6b69cb33138477086e1|10]] dalyse nustatytą tikrinimą, įmonės patikimumą patvirtinančius pažymėjimus išduoda šios įslaptintų sandorių saugumą užtikrinančios institucijos: ^s-faa676eae48abb3c1b484e7b
 
 
 1) jei įslaptintą sandorį sudaro Krašto apsaugos sistemos institucijos – Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos, įvertinęs kitų įslaptintų sandorių saugumą užtikrinančių institucijų pateiktą informaciją; ^s-43018efc12141145cb0c503c
@@ -1405,7 +1405,7 @@ Atsakingas asmuo:
 4) jei įslaptintą sandorį sudaro kiti paslapčių subjektai – Valstybės saugumo departamentas, įvertinęs kitų įslaptintų sandorių saugumą užtikrinančių institucijų pateiktą informaciją. ^s-a9cdbb0867e991cef1a70174
 
 
-4. Rangovo (subrangovo) darbuotojų patikimumą tikrina Valstybės saugumo departamentas, vadovaudamasis šio Įstatymo 16 ir [[#^s-38140af832709b00e73e0785|17 straipsnių]] nuostatomis. ^s-65b7d080737bb10e2b8adf86
+4. Rangovo (subrangovo) darbuotojų patikimumą tikrina Valstybės saugumo departamentas, vadovaudamasis šio Įstatymo [[#^s-390ab64affb5b27e61f4d543|16]] ir [[#^s-38140af832709b00e73e0785|17]] straipsnių nuostatomis. ^s-65b7d080737bb10e2b8adf86
 
 
 5. Paslapčių subjektai įslaptintų sandorių saugumą užtikrinančioms institucijoms pateikia: ^s-4ea68c303ed22d21f45ef364
@@ -1571,7 +1571,7 @@ Atsakingas asmuo:
 2. Rangovo ar subrangovo atsakingas asmuo: ^s-c448027e0be04c3902d616c6
 
 
-1) teikia paslapčių subjekto atsakingam asmeniui šio Įstatymo [[#^s-4ea68c303ed22d21f45ef364|35 straipsnio 5 dalies]] 2 ir [[#^s-5062f83a86df39b129eb64d3|3 punktuose]] nurodytą informaciją; ^s-000303548477a69822a3a824
+1) teikia paslapčių subjekto atsakingam asmeniui šio Įstatymo [[#^s-4ea68c303ed22d21f45ef364|35 straipsnio 5 dalies]] [[#^s-5057762b2a2c0d3c5aff90f4|2]] ir [[#^s-6635b79b47527134163c6d6a|3]] punktuose nurodytą informaciją; ^s-000303548477a69822a3a824
 
 
 2) užtikrina personalo patikimumo procedūrų įgyvendinimą; ^s-889080b972bdc475d9506ae7
@@ -1651,10 +1651,10 @@ AUTOMATIZUOTŲ DUOMENŲ APDOROJIMO SISTEMŲ IR TINKLŲ, KURIUOSE YRA SAUGOMA, AP
 2. ADA sistemomis ir tinklais perduodant įslaptintą informaciją, jos slaptumas turi būti užtikrintas vadovaujantis Nacionalinės šifrų paskirstymo tarnybos patvirtintais kriptografiniais metodais ir produktais bei Nacionalinės komunikacijų apsaugos tarnybos patvirtintais telekomunikacijų apsaugos reikalavimais. ^s-1438b5269963bc7f7f67ac5d
 
 
-3. Įslaptintą informaciją, žymimą slaptumo žymomis „Riboto naudojimo“, „Konfidencialiai“, „Slaptai“, draudžiama perduoti viešais telekomunikacijų tinklais neužšifruotą, išskyrus [[#^s-43ef552db1287a69e79d564a|šio straipsnio 4 dalyje]] nustatytus atvejus. Įslaptintą informaciją, žymimą slaptumo žyma „Visiškai slaptai“, perduoti telekomunikacijų tinklais draudžiama. ^s-2ae4fa946ee5e76c19c88691
+3. Įslaptintą informaciją, žymimą slaptumo žymomis [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), „Konfidencialiai“, „Slaptai“, draudžiama perduoti viešais telekomunikacijų tinklais neužšifruotą, išskyrus [[#^s-43ef552db1287a69e79d564a|šio straipsnio 4 dalyje]] nustatytus atvejus. Įslaptintą informaciją, žymimą slaptumo žyma „Visiškai slaptai“, perduoti telekomunikacijų tinklais draudžiama. ^s-2ae4fa946ee5e76c19c88691
 
 
-4. Paslapčių subjekto struktūrinio padalinio, disponuojančio įslaptinta informacija, vadovo sprendimu įslaptinta informacija, žymima slaptumo žymomis „Riboto naudojimo“, „Konfidencialiai“ ir „Slaptai“, gali būti perduodama neužšifruota, jeigu paskelbta karo ar nepaprastoji padėtis ir nėra galimybių užšifruoti informaciją, o pristatymo greitis yra svarbesnis nei galimas tokios informacijos atskleidimo pavojus. ^s-43ef552db1287a69e79d564a
+4. Paslapčių subjekto struktūrinio padalinio, disponuojančio įslaptinta informacija, vadovo sprendimu įslaptinta informacija, žymima slaptumo žymomis [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), „Konfidencialiai“ ir „Slaptai“, gali būti perduodama neužšifruota, jeigu paskelbta karo ar nepaprastoji padėtis ir nėra galimybių užšifruoti informaciją, o pristatymo greitis yra svarbesnis nei galimas tokios informacijos atskleidimo pavojus. ^s-43ef552db1287a69e79d564a
 
 
 5. Kriptografiniams produktams, mechanizmams ir įslaptintai informacijai teikiama apsauga turi atitikti žalos, kurią gali sukelti įslaptintos informacijos neteisėtas atskleidimas, dydį. ^s-b59f91fe2a9de8c7cd3eac21
@@ -1698,7 +1698,7 @@ Atsakingas asmuo privalo:
 7) organizuoti įslaptintų kompiuterinės informacijos laikmenų administravimą bei fizinę tokių laikmenų apsaugą; ^s-33c2cbccd2e503dd6c392932
 
 
-8) įvertinti rangovo ar subrangovo pasirengimą įvykdyti jam numatytos perduoti įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, aparatūrinės ar programinės įrangos apsaugos reikalavimus, kontroliuoti tokių reikalavimų įgyvendinimą; ^s-ef16f183bf0875386df6800e
+8) įvertinti rangovo ar subrangovo pasirengimą įvykdyti jam numatytos perduoti įslaptintos informacijos, žymimos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), aparatūrinės ar programinės įrangos apsaugos reikalavimus, kontroliuoti tokių reikalavimų įgyvendinimą; ^s-ef16f183bf0875386df6800e
 
 
 9) organizuoti ir tikrinti sisteminį rezervinį ADA sistemų ir tinklų informacijos kopijavimą ir atkūrimą; ^s-bcacd5bbfc0d5dd8cfd0d40c
@@ -1734,7 +1734,7 @@ Atsakingas asmuo privalo:
 4) teikia metodinę pagalbą paslapčių subjektams dėl įslaptintos informacijos apsaugos. ^s-ebb89bd2f6b6674b65a406a4
 
 
-2. Įslaptintos informacijos, žymimos slaptumo žyma „Riboto naudojimo“, apsaugos kontrolę vykdo šia informacija disponuojantys paslapčių subjektai. ^s-544e360b42a2ad65075c5999
+2. Įslaptintos informacijos, žymimos slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), apsaugos kontrolę vykdo šia informacija disponuojantys paslapčių subjektai. ^s-544e360b42a2ad65075c5999
 
 
 3. Asmenys, kontroliuojantys įslaptintos informacijos apsaugą, privalo turėti leidimus dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Visiškai slaptai“. Asmenys, kontroliuojantys kitų valstybių ar tarptautinių organizacijų Lietuvos Respublikai perduotos įslaptintos informacijos apsaugą, privalo turėti atitinkamus asmens patikimumo pažymėjimus. ^s-0e5becbf2ce23203f0e9a8a3

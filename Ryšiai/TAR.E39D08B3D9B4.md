@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.85C510BA700A#^s-495a06b0274764149acb8ff7|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas]] - 3 citatos - 1131010ISTA0XII-165
+- [[latest/TAR.85C510BA700A#^s-495a06b0274764149acb8ff7|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas]] - 2 citatos - 1131010ISTA0XII-165

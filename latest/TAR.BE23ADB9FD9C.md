@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-db5e0e8143b8213c4e4e8c80
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2001 m. rugpjūčio 7 d. dekretą Nr. 1444, ratifikuoja Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl abipusės pagalbos stichinių nelaimių ir kitų didelių avarijų atveju, pasirašytą 2001 m. gegužės 31 d. Rygoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2001 m. rugpjūčio 7 d. dekretą Nr. 1444](https://e-tar.lt/portal/lt/legalAct/TAR.6A4E71F95B08), ratifikuoja Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl abipusės pagalbos stichinių nelaimių ir kitų didelių avarijų atveju, pasirašytą 2001 m. gegužės 31 d. Rygoje.
 
 
 

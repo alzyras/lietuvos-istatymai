@@ -40,13 +40,13 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-3c6227037907b20edb396ada
 
 
-1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^s-5de683137fed3637033d0f16
+1. Pakeisti [[latest/aababfc042b811e6a8ae9e1795984391#^s-3ce2c0930dcf0b31faf7bb2b|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-5de683137fed3637033d0f16
 
 
 „1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2017 m. liepos 1 d.“
 
 
-2. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip: ^s-f41b71321bce8ce021567221
+2. Pakeisti [[latest/aababfc042b811e6a8ae9e1795984391#^s-a20d98059ff11419ddd42db6|2 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-f41b71321bce8ce021567221
 
 
 „2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2017 m. birželio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus.“

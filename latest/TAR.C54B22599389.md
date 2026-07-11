@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-de852cb418e7433b6a2fbeb1
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-cc673decff3daac098d5c652|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 2 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2000 m. rugsėjo 12 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl abipusės įslaptintos informacijos apsaugos“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl abipusės įslaptintos informacijos apsaugos, pasirašytą 2000 m. gegužės 26 d. Tartu.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-cc673decff3daac098d5c652|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 2 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2000 m. rugsėjo 12 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl abipusės įslaptintos informacijos apsaugos“](https://e-tar.lt/portal/lt/legalAct/TAR.8377CD9B7AC8), ratifikuoja Lietuvos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl abipusės įslaptintos informacijos apsaugos, pasirašytą 2000 m. gegužės 26 d. Tartu.
 
 
 

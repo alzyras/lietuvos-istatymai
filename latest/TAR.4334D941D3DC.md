@@ -55,13 +55,13 @@ BENDROSIOS NUOSTATOS
 1. Šis įstatymas nustato veiklos, susijusios su pluoštinių kanapių auginimu, priežiūros ir veiklos, susijusios su pluoštinių kanapių produktų gavimu ir pluoštinių kanapių gaminių gamyba, jų tiekimu rinkai, importu, priežiūros ir pluoštinių kanapių produktų importo licencijavimo tvarką Lietuvos Respublikoje. ^s-033aaca1f9832272018b0718
 
 
-2. Šio įstatymo tikslas – nustatyti reikalavimus asmenims, pageidaujantiems užsiimti tam tikra veikla, susijusia su Deleguotojo reglamento (ES) 2022/126 II antraštinės dalies I skyriaus nuostatas atitinkančių pluoštinių kanapių veislių (toliau – įteisintos veislės) auginimu, pluoštinių kanapių produktų ir pluoštinių kanapių gaminių tiekimu rinkai ir importu, taip pat importo licencijuojamos veiklos sąlygas ir sudaryti teisines prielaidas asmenų veiklos priežiūrai šioje srityje atlikti. ^s-a0194ec76a380653bf547872
+2. Šio įstatymo tikslas – nustatyti reikalavimus asmenims, pageidaujantiems užsiimti tam tikra veikla, susijusia su Deleguotojo [reglamento (ES) 2022/126](https://eur-lex.europa.eu/eli/reg/2022/126/oj) II antraštinės dalies I skyriaus nuostatas atitinkančių pluoštinių kanapių veislių (toliau – įteisintos veislės) auginimu, pluoštinių kanapių produktų ir pluoštinių kanapių gaminių tiekimu rinkai ir importu, taip pat importo licencijuojamos veiklos sąlygas ir sudaryti teisines prielaidas asmenų veiklos priežiūrai šioje srityje atlikti. ^s-a0194ec76a380653bf547872
 Straipsnio dalies pakeitimai:
 Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 
 
 
-3. Šis įstatymas netaikomas pluoštinių kanapių gaminiams, kurie [[latest/TAR.FF33B3BF23DD|Lietuvos Respublikos farmacijos įstatyme]] apibrėžti kaip farmacijos produktai. Kosmetikos gaminiams šis įstatymas taikomas tiek, kiek tai neprieštarauja 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1223/2009 dėl kosmetikos gaminių nuostatoms. ^s-025914ed59998c699c2fa2ba
+3. Šis įstatymas netaikomas pluoštinių kanapių gaminiams, kurie [[latest/TAR.FF33B3BF23DD|Lietuvos Respublikos farmacijos įstatyme]] apibrėžti kaip farmacijos produktai. Kosmetikos gaminiams šis įstatymas taikomas tiek, kiek tai neprieštarauja 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1223/2009](https://eur-lex.europa.eu/eli/reg/1223/2009/oj) dėl kosmetikos gaminių nuostatoms. ^s-025914ed59998c699c2fa2ba
 
 
 4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. ^s-77b9a7297d2202cb0980be6b
@@ -113,7 +113,7 @@ Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 
 
-10. Pluoštinių kanapių produktų importo licencija (toliau – licencija) – Žemės ūkio agentūros prie Žemės ūkio ministerijos išduodamas dokumentas, kuriuo suteikiama teisė importuoti į Lietuvos Respubliką pluoštinių kanapių produktus, nurodytus Reglamento (ES) Nr. 1308/2013 189 straipsnio 1 dalies a, b ir c punktuose ir atitinkančius šiame straipsnyje nurodytus reikalavimus. ^s-5ae3486635f6cabaac6d15db
+10. Pluoštinių kanapių produktų importo licencija (toliau – licencija) – Žemės ūkio agentūros prie Žemės ūkio ministerijos išduodamas dokumentas, kuriuo suteikiama teisė importuoti į Lietuvos Respubliką pluoštinių kanapių produktus, nurodytus [Reglamento (ES) Nr. 1308/2013 189 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/1308/2013/art_189/par_1/oj) a, b ir c punktuose ir atitinkančius šiame straipsnyje nurodytus reikalavimus. ^s-5ae3486635f6cabaac6d15db
 Straipsnio dalies pakeitimai:
 Nr. XIV-2065, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12748
 
@@ -208,13 +208,13 @@ Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 4. Tarnyba, vadovaudamasi Auginimo priežiūros tvarkos aprašu, apie nustatytas auginamų pluoštinių kanapių pasėlių plotų duomenų neatitiktis, laboratoriniais tyrimais nustatytą viršytą leidžiamą 0,3 procento THC kiekio pluoštinėse kanapėse ribą, kai nevykdomas pluoštinių kanapių sunaikinimo reikalavimas, privalo teikti informaciją Policijos departamentui prie Vidaus reikalų ministerijos (toliau – Policijos departamentas). ^s-f47f98a620942689f8ed8823
 
 
-5. Mėginius THC kiekiui pluoštinėse kanapėse nustatyti, vadovaudamasi THC kiekio nustatymo tyrimo metodu, išdėstytu Deleguotojo reglamento (ES) 2022/126 I priede, tiria Nacionalinio maisto ir veterinarijos rizikos vertinimo instituto laboratorija arba kita Lietuvos Respublikos laboratorija, veikianti pagal standartą LST EN ISO/IEC 17025 „Tyrimų, bandymų ir kalibravimo laboratorijų kompetencijai keliami bendrieji reikalavimai“ ir pagal šį standartą akredituota nacionalinės akreditacijos įstaigos, veikiančios pagal 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 765/2008, nustatantį su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinantį Reglamentą (EEB) Nr. 339/93, su visais pakeitimais, ar Europos Sąjungos valstybės narės laboratorija, veikianti pagal standartą EN ISO/IEC 17025 „Tyrimų, bandymų ir kalibravimo laboratorijų kompetencijai keliami bendrieji reikalavimai“ ir pagal šį standartą akredituota nacionalinės akreditacijos įstaigos, veikiančios pagal Reglamentą (EB) Nr. 765/2008, (toliau – kita akredituota laboratorija). ^s-b434345b38861137597790a6
+5. Mėginius THC kiekiui pluoštinėse kanapėse nustatyti, vadovaudamasi THC kiekio nustatymo tyrimo metodu, išdėstytu Deleguotojo [reglamento (ES) 2022/126](https://eur-lex.europa.eu/eli/reg/2022/126/oj) I priede, tiria Nacionalinio maisto ir veterinarijos rizikos vertinimo instituto laboratorija arba kita Lietuvos Respublikos laboratorija, veikianti pagal standartą LST EN ISO/IEC 17025 „Tyrimų, bandymų ir kalibravimo laboratorijų kompetencijai keliami bendrieji reikalavimai“ ir pagal šį standartą akredituota nacionalinės akreditacijos įstaigos, veikiančios pagal 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 765/2008, nustatantį su gaminių prekyba susijusius akreditavimo ir rinkos priežiūros reikalavimus ir panaikinantį Reglamentą (EEB) Nr. 339/93, su visais pakeitimais, ar Europos Sąjungos valstybės narės laboratorija, veikianti pagal standartą EN ISO/IEC 17025 „Tyrimų, bandymų ir kalibravimo laboratorijų kompetencijai keliami bendrieji reikalavimai“ ir pagal šį standartą akredituota nacionalinės akreditacijos įstaigos, veikiančios pagal Reglamentą (EB) Nr. 765/2008, (toliau – kita akredituota laboratorija). ^s-b434345b38861137597790a6
 Straipsnio dalies pakeitimai:
 Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 
 
-6. Tarnyba žemės ūkio ministro nustatyta tvarka privalo iš ne mažiau kaip 30 procentų deklaruotų pluoštinių kanapių pasėlių plotų, išskyrus pluoštines kanapes sodininkystei, imti mėginius THC kiekiui pluoštinėse kanapėse nustatyti, vadovaudamasi mėginių ėmimo metodika, nustatyta Deleguotojo reglamento (ES) 2022/126 I priede. ^s-b3a0e1ff537a5350e7bf9220
+6. Tarnyba žemės ūkio ministro nustatyta tvarka privalo iš ne mažiau kaip 30 procentų deklaruotų pluoštinių kanapių pasėlių plotų, išskyrus pluoštines kanapes sodininkystei, imti mėginius THC kiekiui pluoštinėse kanapėse nustatyti, vadovaudamasi mėginių ėmimo metodika, nustatyta Deleguotojo [reglamento (ES) 2022/126](https://eur-lex.europa.eu/eli/reg/2022/126/oj) I priede. ^s-b3a0e1ff537a5350e7bf9220
 
 
 7. Pluoštinių kanapių augintojas sodininkystei gali auginti pluoštinių kanapių augalus ne didesniame kaip 0,1 ha žemės plote, sėdamas iki 20 šių augalų vienetų į 0,01 ha, turi pateikti Tarnybai sėklos pakuotės etiketes, laikytis [[#^s-2eb30fd795c2147b59929e87|šio straipsnio 3 dalies]] 1, 2, 3 ir 7 punktuose nustatytų reikalavimų. ^s-55b701cf38c91ff1c48aee4f
@@ -243,7 +243,7 @@ Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 3. Ant tiekiamų Lietuvos Respublikos rinkai pluoštinių kanapių gaminių pakuotės turi būti aiškiai nurodyta galutinė gaminio vartojimo paskirtis ir vartojimo būdas. Tiekiant pluoštinių kanapių produktus ir (ar) gaminius į kitas Europos Sąjungos valstybės nares ir (arba) eksportuojant pluoštinių kanapių produktus ir (ar) gaminius į trečiąsias valstybes, šių produktų ir (ar) gaminių ženklinimas turi atitikti konkrečios Europos Sąjungos valstybės narės arba trečiosios valstybės nacionalinius reikalavimus. ^s-e3c9b640b45dc9eafdaedd3d
 
 
-4. Pluoštinių kanapių gaminiai, be šiame įstatyme numatytų reikalavimų, taip pat turi atitikti konkrečius gaminius reglamentuojančiuose teisės aktuose nustatytus reikalavimus. Pluoštinių kanapių gaminiai, kuriems taikomas 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/2283 dėl naujų maisto produktų, iš dalies keičiantis Europos Parlamento ir Tarybos reglamentą (ES) Nr. 1169/2011 ir panaikinantis Europos Parlamento ir Tarybos reglamentą (EB) Nr. 258/97 ir Komisijos reglamentą (EB) Nr. 1852/2001, su visais pakeitimais turi atitikti visus šiame reglamente nustatytus reikalavimus. Iš pluoštinių kanapių produktų gaunamiems pašarams ir pašarų priedams taikomi 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1831/2003 dėl priedų, skirtų naudoti gyvūnų mityboje, su visais pakeitimais, 2005 m. sausio 12 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 183/2005, nustatančio pašarų higienos reikalavimus, su visais pakeitimais, 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 767/2009 dėl pašarų tiekimo rinkai ir naudojimo, iš dalies keičiančio Reglamentą (EB) Nr. 1831/2003 ir panaikinančio direktyvas 79/373/EEB, 80/511/EEB, 82/471/EEB, 83/228/EB, 93/74/EEB, 93/113/EB, 96/25/EB bei sprendimą 2004/217/EB, su visais pakeitimais ir žemės ūkio ministro patvirtintų Pašarų privalomųjų saugos reikalavimų kontrolės įgyvendinimo taisyklių reikalavimai. ^s-a977dfd7a8900ba5997e6fd5
+4. Pluoštinių kanapių gaminiai, be šiame įstatyme numatytų reikalavimų, taip pat turi atitikti konkrečius gaminius reglamentuojančiuose teisės aktuose nustatytus reikalavimus. Pluoštinių kanapių gaminiai, kuriems taikomas 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2015/2283](https://eur-lex.europa.eu/eli/reg/2015/2283/oj) dėl naujų maisto produktų, iš dalies keičiantis Europos Parlamento ir Tarybos [reglamentą (ES) Nr. 1169/2011](https://eur-lex.europa.eu/eli/reg/1169/2011/oj) ir panaikinantis Europos Parlamento ir Tarybos reglamentą (EB) Nr. 258/97 ir Komisijos [reglamentą (EB) Nr. 1852/2001](https://eur-lex.europa.eu/eli/reg/1852/2001/oj), su visais pakeitimais turi atitikti visus šiame reglamente nustatytus reikalavimus. Iš pluoštinių kanapių produktų gaunamiems pašarams ir pašarų priedams taikomi 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1831/2003](https://eur-lex.europa.eu/eli/reg/1831/2003/oj) dėl priedų, skirtų naudoti gyvūnų mityboje, su visais pakeitimais, 2005 m. sausio 12 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 183/2005, nustatančio pašarų higienos reikalavimus, su visais pakeitimais, 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 767/2009 dėl pašarų tiekimo rinkai ir naudojimo, iš dalies keičiančio [Reglamentą (EB) Nr. 1831/2003](https://eur-lex.europa.eu/eli/reg/1831/2003/oj) ir panaikinančio direktyvas 79/373/EEB, 80/511/EEB, 82/471/EEB, 83/228/EB, 93/74/EEB, 93/113/EB, 96/25/EB bei sprendimą 2004/217/EB, su visais pakeitimais ir žemės ūkio ministro patvirtintų Pašarų privalomųjų saugos reikalavimų kontrolės įgyvendinimo taisyklių reikalavimai. ^s-a977dfd7a8900ba5997e6fd5
 
 
 5. Tiekiamuose Lietuvos Respublikos rinkai pluoštinių kanapių gaminiuose THC kiekis (delta-9-tetrahidrokanabinolio (Δ9-THC) ir delta-9-tetrahidrokanabinolio rūgšties (Δ9-THCA) suminis kiekis) neturi viršyti leidžiamos 0,2 procento ribos, o tiekiamuose Lietuvos Respublikos rinkai tolesnei pluoštinių kanapių gaminių gamybai skirtuose pluoštinių kanapių produktuose – 0,3 procento ribos. ^s-086e0fc5d4cc17ce90373475
@@ -428,10 +428,10 @@ IMPORTAS
 3) sėjai neskirtas pluoštinių kanapių sėklas, kurių KN kodas – ex 1207 99 91. ^s-2e496728f04e5d628a4eae40
 
 
-2. Pluoštinių kanapių produktai importuojami laikantis Reglamento (ES) Nr. 1308/2013 189 straipsnyje ir Deleguotojo reglamento (ES) 2016/1237 [[#^s-d92c23c66e9e777759170392|9 straipsnyje]] nustatytų sąlygų, šio įstatymo ir žemės ūkio ministro patvirtintose Pluoštinių kanapių produktų importo licencijavimo taisyklėse (toliau – Licencijavimo taisyklės) nustatytų reikalavimų. ^s-4683fc9a6ef3cac14e0be30b
+2. Pluoštinių kanapių produktai importuojami laikantis [Reglamento (ES) Nr. 1308/2013 189 straipsnyje](https://eur-lex.europa.eu/eli/reg/1308/2013/art_189/oj) ir Deleguotojo [reglamento (ES) 2016/1237 9 straipsnyje](https://eur-lex.europa.eu/eli/reg/2016/1237/art_9/oj) nustatytų sąlygų, šio įstatymo ir žemės ūkio ministro patvirtintose Pluoštinių kanapių produktų importo licencijavimo taisyklėse (toliau – Licencijavimo taisyklės) nustatytų reikalavimų. ^s-4683fc9a6ef3cac14e0be30b
 
 
-3. Importuojant pluoštinių kanapių produktus būtina turėti licenciją, atitinkančią Įgyvendinimo reglamento (ES) 2016/1239 I priede nustatytą šabloną („importo licencija AGRIM“). ^s-599430afeb3b6eabcd91ffc3
+3. Importuojant pluoštinių kanapių produktus būtina turėti licenciją, atitinkančią Įgyvendinimo [reglamento (ES) 2016/1239](https://eur-lex.europa.eu/eli/reg/2016/1239/oj) I priede nustatytą šabloną („importo licencija AGRIM“). ^s-599430afeb3b6eabcd91ffc3
 
 
 4. Importuodamas sėjai skirtas pluoštinių kanapių sėklas, importuotojas muitinės pareigūnams kartu su licencija turi pateikti ir pakuotės etiketės kopiją ar sėklos sertifikatą, kuriuose nurodomas veislės pavadinimas, taip pat trečiosios šalies atsakingos institucijos išduotą pažymą, kuria patvirtinama, kad THC kiekis pluoštinėse kanapėse neviršija leidžiamos 0,3 procento ribos. ^s-2b1313fb7d24ec8e965ab7ce
@@ -467,7 +467,7 @@ Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 ### 6 straipsnis. Licencijų išdavimo tvarka ^s-5611f462e2990f44eb8c8b04
 
 
-1. Pareiškėjas, norintis gauti licenciją šio įstatymo [[#^s-a2adfb13c713d5b37ba3b741|5 straipsnio 1 dalies]] 1 ir [[#^s-b0a0f3b6219afceb374f940f|2 punktuose]] nurodytiems pluoštinių kanapių produktams importuoti, turi būti nepriekaištingos reputacijos. Nepriekaištingos reputacijos asmeniu nelaikoma, jeigu pareiškėjas – fizinis asmuo arba pareiškėjo – juridinio asmens, kitos organizacijos ar šio juridinio asmens ar kitos organizacijos padalinio – vadovas: ^s-90cd6b6aadb36063459ad161
+1. Pareiškėjas, norintis gauti licenciją šio įstatymo [[#^s-a2adfb13c713d5b37ba3b741|5 straipsnio 1 dalies]] [[#^s-c9114af2582dfa5790f5132d|1]] ir [[#^s-83894f3dfbb26a567ef6ab0c|2]] punktuose nurodytiems pluoštinių kanapių produktams importuoti, turi būti nepriekaištingos reputacijos. Nepriekaištingos reputacijos asmeniu nelaikoma, jeigu pareiškėjas – fizinis asmuo arba pareiškėjo – juridinio asmens, kitos organizacijos ar šio juridinio asmens ar kitos organizacijos padalinio – vadovas: ^s-90cd6b6aadb36063459ad161
 
 
 1) teistas už nusikalstamas veikas, nurodytas Lietuvos Respublikos baudžiamojo kodekso 199 straipsnio 2 dalyje ir 259–268 straipsniuose, ir teistumas neišnykęs arba nepanaikintas; ^s-b040f5f2ea2887df01298479
@@ -482,10 +482,10 @@ Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 4) per pastaruosius metus nustatyta tvarka pripažintas padaręs administracinį nusižengimą, nurodytą Lietuvos Respublikos administracinių nusižengimų kodekso 65, 67, 71, 339 ir 340 straipsniuose. ^s-61cf6ceabd4b490343907370
 
 
-2. Patvirtintiesiems importuotojams licencijos išduodamos, jeigu jie raštu įsipareigoja Agentūrai pateikti dokumentus, įrodančius, kad per trumpesnį negu 12 mėnesių laikotarpį po licencijos išdavimo su licencijose nurodytomis sėjai neskirtomis pluoštinių kanapių sėklomis bus atlikta viena iš Deleguotojo reglamento (ES) Nr. 2016/1237 [[#^s-2c8dbffc2812c4cf813b2e0d|9 straipsnio 4 dalies]] pirmojoje pastraipoje nurodytų operacijų. ^s-d2cd4bb724e33a6271fbb4a9
+2. Patvirtintiesiems importuotojams licencijos išduodamos, jeigu jie raštu įsipareigoja Agentūrai pateikti dokumentus, įrodančius, kad per trumpesnį negu 12 mėnesių laikotarpį po licencijos išdavimo su licencijose nurodytomis sėjai neskirtomis pluoštinių kanapių sėklomis bus atlikta viena iš Deleguotojo [reglamento (ES) Nr. 2016/1237 9 straipsnio 4 dalies](https://eur-lex.europa.eu/eli/reg/2016/1237/art_9/par_4/oj) pirmojoje pastraipoje nurodytų operacijų. ^s-d2cd4bb724e33a6271fbb4a9
 
 
-3. Pareiškėjas, norintis gauti licenciją šio įstatymo [[#^s-a2adfb13c713d5b37ba3b741|5 straipsnio 1 dalies]] 1 ir [[#^s-48dbdcbab95cf46698abf254|2 punktuose]] nurodytiems pluoštinių kanapių produktams importuoti, Agentūrai pateikia: ^s-180d686d6a6d631c0d8ac212
+3. Pareiškėjas, norintis gauti licenciją šio įstatymo [[#^s-a2adfb13c713d5b37ba3b741|5 straipsnio 1 dalies]] [[#^s-c9114af2582dfa5790f5132d|1]] ir [[#^s-83894f3dfbb26a567ef6ab0c|2]] punktuose nurodytiems pluoštinių kanapių produktams importuoti, Agentūrai pateikia: ^s-180d686d6a6d631c0d8ac212
 
 
 1) užpildytą paraišką gauti licenciją; ^s-d7218644dc31b81771ca7060
@@ -509,10 +509,10 @@ Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 5. Paraiška išduoti licenciją, prie jos pridedami dokumentai gali būti pateikiami ir licencijos išduodamos Lietuvos Respublikos teisės aktuose nustatytomis elektroninėmis priemonėmis. ^s-8d0f69687de0f81c8f354d94
 
 
-6. Įvertinusi [[#^s-180d686d6a6d631c0d8ac212|šio straipsnio 3 dalyje]] išvardytus dokumentus, Agentūra, vadovaudamasi Licencijavimo taisyklėmis, pareiškėjams, atitinkantiems [[#^s-90cd6b6aadb36063459ad161|šio straipsnio 1 dalyje]] nurodytus reikalavimus, išduoda licenciją pagal Įgyvendinimo reglamento (ES) Nr. 2016/1239 I priede nustatytą šabloną. Sprendimas dėl licencijos išdavimo ar atsisakymo ją išduoti priimamas per 30 kalendorinių dienų, gavus pareiškėjo dokumentus. Atsisakius išduoti licenciją, apie tai pranešama pareiškėjui raštu arba elektroninėmis priemonėmis ne vėliau kaip per 3 darbo dienas nuo šio sprendimo priėmimo dienos, nurodant priežastis, dėl kurių atsisakoma licenciją išduoti. ^s-151594b308310dd186f2a44c
+6. Įvertinusi [[#^s-180d686d6a6d631c0d8ac212|šio straipsnio 3 dalyje]] išvardytus dokumentus, Agentūra, vadovaudamasi Licencijavimo taisyklėmis, pareiškėjams, atitinkantiems [[#^s-90cd6b6aadb36063459ad161|šio straipsnio 1 dalyje]] nurodytus reikalavimus, išduoda licenciją pagal Įgyvendinimo [reglamento (ES) Nr. 2016/1239](https://eur-lex.europa.eu/eli/reg/2016/1239/oj) I priede nustatytą šabloną. Sprendimas dėl licencijos išdavimo ar atsisakymo ją išduoti priimamas per 30 kalendorinių dienų, gavus pareiškėjo dokumentus. Atsisakius išduoti licenciją, apie tai pranešama pareiškėjui raštu arba elektroninėmis priemonėmis ne vėliau kaip per 3 darbo dienas nuo šio sprendimo priėmimo dienos, nurodant priežastis, dėl kurių atsisakoma licenciją išduoti. ^s-151594b308310dd186f2a44c
 
 
-7. Šio įstatymo [[#^s-2e496728f04e5d628a4eae40|5 straipsnio 1 dalies 3 punkte]] nurodytiems pluoštinių kanapių produktams importuoti licencija pagal Įgyvendinimo reglamento (ES) Nr. 2016/1239 I priede nustatytą šabloną išduodama per 2 darbo dienas, pateikus Agentūrai visus [[#^s-91a8fb58f03267e25cf6982d|šio straipsnio 4 dalyje]] nurodytus dokumentus. Agentūra privalo kontroliuoti, kaip licencijos turėtojas laikosi [[#^s-d2cd4bb724e33a6271fbb4a9|šio straipsnio 2 dalyje]] nurodyto rašytinio įsipareigojimo. ^s-538671932361cea5d180d3da
+7. Šio įstatymo [[#^s-2e496728f04e5d628a4eae40|5 straipsnio 1 dalies 3 punkte]] nurodytiems pluoštinių kanapių produktams importuoti licencija pagal Įgyvendinimo [reglamento (ES) Nr. 2016/1239](https://eur-lex.europa.eu/eli/reg/2016/1239/oj) I priede nustatytą šabloną išduodama per 2 darbo dienas, pateikus Agentūrai visus [[#^s-91a8fb58f03267e25cf6982d|šio straipsnio 4 dalyje]] nurodytus dokumentus. Agentūra privalo kontroliuoti, kaip licencijos turėtojas laikosi [[#^s-d2cd4bb724e33a6271fbb4a9|šio straipsnio 2 dalyje]] nurodyto rašytinio įsipareigojimo. ^s-538671932361cea5d180d3da
 
 
 8. Jeigu pareiškėjas pateikia ne visus, nevisiškai arba neteisingai užpildytus dokumentus, jis raštu arba elektroninėmis priemonėmis apie tai informuojamas ne vėliau kaip per 3 darbo dienas nuo dokumentų gavimo dienos. ^s-c79ad9bbc0233523c10289eb
@@ -521,7 +521,7 @@ Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 9. Teikti trūkstamus dokumentus ar duomenis patikslinti pareiškėjas gali ne vėliau kaip per 45 darbo dienas nuo Agentūros pateiktos informacijos gavimo dienos. ^s-2091a81fd3489c4faf9348ab
 
 
-10. Pateikus ne visus, nevisiškai arba neteisingai užpildytus dokumentus, šio straipsnio 6 ir [[#^s-538671932361cea5d180d3da|7 dalyse]] nurodyti terminai skaičiuojami nuo visų arba papildytų (patikslintų) dokumentų gavimo dienos. ^s-1dcb4c0b29c647352ebb2b29
+10. Pateikus ne visus, nevisiškai arba neteisingai užpildytus dokumentus, šio straipsnio [[#^s-151594b308310dd186f2a44c|6]] ir [[#^s-538671932361cea5d180d3da|7]] dalyse nurodyti terminai skaičiuojami nuo visų arba papildytų (patikslintų) dokumentų gavimo dienos. ^s-1dcb4c0b29c647352ebb2b29
 
 
 11. Pasikeitus licencijoje nurodytai informacijai (išskyrus licencijos turėtojo juridinio asmens ar kitos organizacijos, ar šio juridinio asmens ar kitos organizacijos padalinio kodą), licencijos turėtojas ne vėliau kaip per 10 darbo dienų nuo duomenų pasikeitimo turi pateikti Agentūrai motyvuotą prašymą dėl licencijos patikslinimo. Agentūra, gavusi šį prašymą ir patikrinusi fizinio ar juridinio asmens, kitos organizacijos ar šio juridinio asmens ar kitos organizacijos padalinio duomenis, sprendimą patikslinti licenciją priima per 5 darbo dienas nuo prašymo gavimo dienos. Apie šį sprendimą licencijos turėtojas informuojamas ne vėliau kaip per 3 darbo dienas nuo jo priėmimo dienos. ^s-e4b75688a72c0eabd7d05880
@@ -552,7 +552,7 @@ Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 1) pareiškėjas nėra nepriekaištingos reputacijos; ^s-c714b857b39970db25cee120
 
 
-2) pateikiami ne visi arba nevisiškai užpildyti, arba neatitinkantys jiems keliamų reikalavimų, arba neteisingai užpildyti dokumentai ir pareiškėjas neįvykdo reikalavimo pateikti Agentūrai trūkstamus dokumentus ar ištaisyti šiuos trūkumus per šio įstatymo [[#^s-5611f462e2990f44eb8c8b04|6 straipsnio]] 9 ir 12 dalyse nustatytus terminus. ^s-6bc0674e1a45fa0d07c71229
+2) pateikiami ne visi arba nevisiškai užpildyti, arba neatitinkantys jiems keliamų reikalavimų, arba neteisingai užpildyti dokumentai ir pareiškėjas neįvykdo reikalavimo pateikti Agentūrai trūkstamus dokumentus ar ištaisyti šiuos trūkumus per šio įstatymo [[#^s-5611f462e2990f44eb8c8b04|6 straipsnio]] [[#^s-2091a81fd3489c4faf9348ab|9]] ir [[#^s-d9f8c57b6f0e83ba1afd020b|12]] dalyse nustatytus terminus. ^s-6bc0674e1a45fa0d07c71229
 
 
 2. Pareigūnų veiksmai ar neveikimas, kai atsisakoma išduoti ar patikslinti licencijas, gali būti skundžiami Lietuvos Respublikos teisės aktų nustatyta tvarka. ^s-5c61662c1b2a6ab0e6dc2696
@@ -568,7 +568,7 @@ Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
 1) informuoti Agentūrą apie pasikeitusius licencijoje nurodytus rekvizitus (išskyrus licencijos turėtojo juridinio asmens ar kitos organizacijos, ar šio juridinio asmens ar kitos organizacijos padalinio kodą) ne vėliau kaip per 10 darbo dienų nuo šių duomenų pasikeitimo; ^s-a9f1741bb87d9a9ab3e17dd3
 
 
-2) importuoti tik įteisintų veislių šio įstatymo [[#^s-a2adfb13c713d5b37ba3b741|5 straipsnio 1 dalyje]] nurodytus pluoštinių kanapių produktus, atitinkančius Reglamento (ES) Nr. 1308/2013 189 straipsnyje nustatytus reikalavimus. Ši nuostata netaikoma mokslo ir studijų institucijoms ar ūkio subjektams, importuojantiems ne daugiau kaip 6 kg konkrečios veislės sėjai skirtų pluoštinių kanapių sėklų per vienus kalendorinius metus moksliniais eksperimentiniais ar selekcijos tikslais ir Tarnybos atliekamo veislių ūkinio vertingumo tyrimo tikslu, siekiant jas įrašyti į Nacionalinį augalų veislių sąrašą; ^s-45b7f7ac577d346de9464809
+2) importuoti tik įteisintų veislių šio įstatymo [[#^s-a2adfb13c713d5b37ba3b741|5 straipsnio 1 dalyje]] nurodytus pluoštinių kanapių produktus, atitinkančius [Reglamento (ES) Nr. 1308/2013 189 straipsnyje](https://eur-lex.europa.eu/eli/reg/1308/2013/art_189/oj) nustatytus reikalavimus. Ši nuostata netaikoma mokslo ir studijų institucijoms ar ūkio subjektams, importuojantiems ne daugiau kaip 6 kg konkrečios veislės sėjai skirtų pluoštinių kanapių sėklų per vienus kalendorinius metus moksliniais eksperimentiniais ar selekcijos tikslais ir Tarnybos atliekamo veislių ūkinio vertingumo tyrimo tikslu, siekiant jas įrašyti į Nacionalinį augalų veislių sąrašą; ^s-45b7f7ac577d346de9464809
 Straipsnio punkto pakeitimai:
 Nr. XIV-3031, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18356
 
@@ -726,7 +726,7 @@ Nr. XV-1022, 2026-06-11, paskelbta TAR 2026-06-16, i. k. 2026-10398
 1. Informaciją apie patvirtintuosius importuotojus Agentūra pateikia pagal kompetenciją Muitinės departamentui ir Policijos departamentui. ^s-e6763ba988ed5576d8da89ac
 
 
-2. Apie licencijuojamos veiklos reikalavimus, taikytas nuobaudas arba su nustatytais pažeidimais susijusias taikytas priemones Agentūra informuoja Europos Komisiją Įgyvendinimo reglamento (ES) Nr. 2016/1239 [[#^s-42519616dcc3c0c231717f7b|17 straipsnio 2 dalyje]] nustatyta tvarka. ^s-792e35fe74b78a89261a7cc2
+2. Apie licencijuojamos veiklos reikalavimus, taikytas nuobaudas arba su nustatytais pažeidimais susijusias taikytas priemones Agentūra informuoja Europos Komisiją Įgyvendinimo [reglamento (ES) Nr. 2016/1239 17 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2016/1239/art_17/par_2/oj) nustatyta tvarka. ^s-792e35fe74b78a89261a7cc2
 
 
 3. Informacija, susijusia su sėjai neskirtų pluoštinių kanapių sėklų operacijomis, vykdomomis patvirtintųjų importuotojų kitų Europos Sąjungos valstybių narių teritorijose, keičiamasi su Europos Komisijos ir kitų Europos Sąjungos valstybių narių atsakingomis institucijomis žemės ūkio ministro nustatyta tvarka. ^s-9a8b4c0622bc5eb36307228c
@@ -753,10 +753,10 @@ VEIKLOS, SUSIJUSIOS SU PLUOŠTINIŲ KANAPIŲ GAMINIŲ GAMYBA IR JŲ TIEKIMU RINK
 4. Už šio įstatymo [[#^s-fa7f4c1d794d2385b40077e7|4 straipsnio 6 dalyje]] nurodytų Pluoštinių kanapių gaminių gamybos veiklos taisyklių reikalavimų pažeidimus juridiniam asmeniui skiriama nuo 500 iki 1 000 eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniai asmenys baudžiami nuo 1 000 iki 2 000 eurų bauda. ^s-41c642569b8cec958ac5177d
 
 
-5. Už šio įstatymo [[#^s-527390f9650077e581d2182a|4 straipsnio]] 11, 3 ir [[#^s-41c642569b8cec958ac5177d|4 dalyse]], [[#^s-406075eca456f7ea13eaf50e|5 straipsnio]] 6 ir [[#^s-945ddfbb35a6844096ddef29|7 dalyse]] nustatytų pluoštinių kanapių produktų ir (ar) gaminių tiekimo rinkai ir importo reikalavimų pažeidimus juridiniam asmeniui skiriama nuo 500 iki 1 000 eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniam asmeniui skiriama nuo 1 000 iki 2 000 eurų bauda. ^s-8c22edf80cfc820e6b6805df
+5. Už šio įstatymo [[#^s-527390f9650077e581d2182a|4 straipsnio]] 11, [[#^s-e3c9b640b45dc9eafdaedd3d|3]] ir [[#^s-a977dfd7a8900ba5997e6fd5|4]] dalyse, [[#^s-406075eca456f7ea13eaf50e|5 straipsnio]] [[#^s-30ad872c1270d515dc8061e3|6]] ir [[#^s-a84bfb7827cd52cfa12b4026|7]] dalyse nustatytų pluoštinių kanapių produktų ir (ar) gaminių tiekimo rinkai ir importo reikalavimų pažeidimus juridiniam asmeniui skiriama nuo 500 iki 1 000 eurų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienus metus nuo baudos paskyrimo, juridiniam asmeniui skiriama nuo 1 000 iki 2 000 eurų bauda. ^s-8c22edf80cfc820e6b6805df
 
 
-6. Konkretus skiriamos baudos dydis nustatomas atsižvelgiant į pažeidimo pobūdį, mastą ir šio straipsnio 7 ir [[#^s-eafc0bd027d122766ac1a448|8 dalyse]] nurodytas atsakomybę lengvinančias ir sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių ir nėra ją sunkinančių aplinkybių, baudos dydis mažinamas nuo jos vidurkio iki minimalaus dydžio, o jeigu yra atsakomybę sunkinančių aplinkybių ir nėra ją lengvinančių aplinkybių, baudos dydis didinamas nuo jos vidurkio iki maksimalaus dydžio. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų skaičių ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas institucijos, skiriančios baudą už pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimą, nutarime. ^s-b34e68a27062371de913d617
+6. Konkretus skiriamos baudos dydis nustatomas atsižvelgiant į pažeidimo pobūdį, mastą ir šio straipsnio [[#^s-945ddfbb35a6844096ddef29|7]] ir [[#^s-eafc0bd027d122766ac1a448|8]] dalyse nurodytas atsakomybę lengvinančias ir sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių ir nėra ją sunkinančių aplinkybių, baudos dydis mažinamas nuo jos vidurkio iki minimalaus dydžio, o jeigu yra atsakomybę sunkinančių aplinkybių ir nėra ją lengvinančių aplinkybių, baudos dydis didinamas nuo jos vidurkio iki maksimalaus dydžio. Jeigu yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų skaičių ir reikšmingumą. Baudos dydžio mažinimas ar didinimas motyvuojamas institucijos, skiriančios baudą už pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimų pažeidimą, nutarime. ^s-b34e68a27062371de913d617
 
 
 7. Atsakomybę lengvinančiomis aplinkybėmis laikomos aplinkybės, kai padarę pažeidimą juridiniai asmenys: ^s-945ddfbb35a6844096ddef29
@@ -832,7 +832,7 @@ Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 ### 14 straipsnis. Bylos nagrinėjimo proceso dalyviai ^s-7f32da1a9df5898ce277d646
 
 
-1. Nagrinėjant bylą institucijoje, skiriančioje baudas už šio įstatymo [[#^s-4c0c072801b097d0a75359f2|12 straipsnio]] 4 ir 5 dalyse nurodytus pažeidimus, dalyvauja: ^s-76751e8614a3fb354b1d3ae4
+1. Nagrinėjant bylą institucijoje, skiriančioje baudas už šio įstatymo [[#^s-4c0c072801b097d0a75359f2|12 straipsnio]] [[#^s-41c642569b8cec958ac5177d|4]] ir [[#^s-8c22edf80cfc820e6b6805df|5]] dalyse nurodytus pažeidimus, dalyvauja: ^s-76751e8614a3fb354b1d3ae4
 
 
 1) asmuo, įtariamas pažeidęs pluoštinių kanapių produktų ir (ar) gaminių gamybos ir (ar) jų tiekimo rinkai reikalavimus, (įtariamas pažeidėjas); ^s-d53ad626017e8d94c1dd49f4
@@ -892,7 +892,7 @@ Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 4. Jeigu bylos nagrinėjimo metu dalyvauja liudytojai, proceso šalys turi teisę užduoti jiems klausimų. Proceso šalys taip pat turi teisę prašyti bylą nagrinėjančios institucijos bylos nagrinėjimo metu apklausti savo liudytojus. ^s-3762377d67427b6d66acc768
 
 
-5. Šio įstatymo [[#^s-76751e8614a3fb354b1d3ae4|14 straipsnio 1 dalies]] 3 ir 4 punktuose nurodyti bylos nagrinėjimo proceso dalyviai pažeidimo tyrimo ir bylos nagrinėjimo metu turi teisę duoti argumentuotus žodinius arba rašytinius paaiškinimus, pateikti papildomą informaciją ir kitus dokumentus. ^s-bea49b0c58b772c049da5e68
+5. Šio įstatymo [[#^s-76751e8614a3fb354b1d3ae4|14 straipsnio 1 dalies]] [[#^s-4b095b7c4ead6141493ed057|3]] ir [[#^s-fbf562a5bb841283ecfb4899|4]] punktuose nurodyti bylos nagrinėjimo proceso dalyviai pažeidimo tyrimo ir bylos nagrinėjimo metu turi teisę duoti argumentuotus žodinius arba rašytinius paaiškinimus, pateikti papildomą informaciją ir kitus dokumentus. ^s-bea49b0c58b772c049da5e68
 
 
 
@@ -920,7 +920,7 @@ Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 1. Šio įstatymo [[#^s-44257a2ffb0b1daba54a5002|12 straipsnio 1 dalyje]] nurodytos institucijos, išnagrinėjusios bylą, priima motyvuotą nutarimą: ^s-c26dd487505e87f9066f32cd
 
 
-1) skirti šio įstatymo [[#^s-4c0c072801b097d0a75359f2|12 straipsnio]] 4 ir 5 dalyse nustatytas baudas; ^s-03af070fa862397c8be37ff9
+1) skirti šio įstatymo [[#^s-4c0c072801b097d0a75359f2|12 straipsnio]] [[#^s-41c642569b8cec958ac5177d|4]] ir [[#^s-8c22edf80cfc820e6b6805df|5]] dalyse nustatytas baudas; ^s-03af070fa862397c8be37ff9
 
 
 2) atsisakyti skirti baudas, kai nėra tam šio įstatymo nustatyto pagrindo; ^s-7d7b5318f5dbbe0138aefcd8
@@ -978,7 +978,7 @@ Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
 
 
 
-2. Nutarimas dėl baudos skyrimo yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka. ^s-06f051aa23a7c2471fe3a971
+2. Nutarimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir [Lietuvos Respublikos civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-06f051aa23a7c2471fe3a971
 Straipsnio dalies pakeitimai:
 Nr. XV-887, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08214
 
@@ -993,7 +993,7 @@ Nr. XV-887, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08214
 2. Kreipimasis į teismą sustabdo nutarimo skirti baudą vykdymą. ^s-4f5606a4f7e1475963904383
 
 
-3. Skundą nagrinėjantis teismas, atsižvelgdamas į teisės pažeidimo pobūdį, mastą, atsakomybę lengvinančias ir kitas reikšmingas aplinkybes (dėl kurių skiriama bauda teisės pažeidėjui būtų akivaizdžiai per didelė, nes neproporcinga padarytam teisės pažeidimui, ir dėl to neteisinga) ir vadovaudamasis teisingumo, protingumo kriterijais, turi teisę skirti mažesnę piniginę baudą, negu šio įstatymo [[#^s-4c0c072801b097d0a75359f2|12 straipsnio]] 4 ir 5 dalyse nustatytos minimalios piniginės baudos. ^s-890ff34ff6d52ab35c257972
+3. Skundą nagrinėjantis teismas, atsižvelgdamas į teisės pažeidimo pobūdį, mastą, atsakomybę lengvinančias ir kitas reikšmingas aplinkybes (dėl kurių skiriama bauda teisės pažeidėjui būtų akivaizdžiai per didelė, nes neproporcinga padarytam teisės pažeidimui, ir dėl to neteisinga) ir vadovaudamasis teisingumo, protingumo kriterijais, turi teisę skirti mažesnę piniginę baudą, negu šio įstatymo [[#^s-4c0c072801b097d0a75359f2|12 straipsnio]] [[#^s-41c642569b8cec958ac5177d|4]] ir [[#^s-8c22edf80cfc820e6b6805df|5]] dalyse nustatytos minimalios piniginės baudos. ^s-890ff34ff6d52ab35c257972
 
 
 Papildyta skirsniu:
@@ -1041,22 +1041,22 @@ priedas
 1. 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 178/2002, nustatantis maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiantis Europos maisto saugos tarnybą ir nustatantis su maisto saugos klausimais susijusias procedūras. ^s-553c35decf6ba669be40cefd
 
 
-2. 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1308/2013, kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007. ^s-23a698719170066c19dbedac
+2. 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1308/2013](https://eur-lex.europa.eu/eli/reg/1308/2013/oj), kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007. ^s-23a698719170066c19dbedac
 
 
-3. 2014 m. liepos 17 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 809/2014, kuriuo nustatomos Europos Parlamento ir Tarybos reglamento (ES) Nr. 1306/2013 nuostatų dėl integruotos administravimo ir kontrolės sistemos, kaimo plėtros priemonių ir kompleksinės paramos taikymo taisyklės. ^s-e15d4c5140753dee33e34a2d
+3. 2014 m. liepos 17 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 809/2014, kuriuo nustatomos Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1306/2013](https://eur-lex.europa.eu/eli/reg/1306/2013/oj) nuostatų dėl integruotos administravimo ir kontrolės sistemos, kaimo plėtros priemonių ir kompleksinės paramos taikymo taisyklės. ^s-e15d4c5140753dee33e34a2d
 
 
-4. 2016 m. gegužės 18 d. Komisijos deleguotasis reglamentas (ES) 2016/1237, kuriuo iš dalies papildomi Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1308/2013 dėl importo ir eksporto licencijų sistemos taikymo taisyklių ir Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1306/2013 užstatų, sumokėtų už tokias licencijas, grąžinimo ir negrąžinimo taisyklių, ir iš dalies keičiami Komisijos reglamentai (EB) Nr. 2535/2001, (EB) Nr. 1342/2003, (EB) Nr. 2336/2003, (EB) Nr. 951/2006, (EB) Nr. 341/2007 ir (EB) Nr. 382/2008 ir panaikinami Komisijos reglamentai (EB) Nr. 2390/98, (EB) Nr. 1345/2005, (EB) Nr. 376/2008 ir (EB) Nr. 507/2008. ^s-f2f3ba95db3694d58dbf00e0
+4. 2016 m. gegužės 18 d. Komisijos deleguotasis [reglamentas (ES) 2016/1237](https://eur-lex.europa.eu/eli/reg/2016/1237/oj), kuriuo iš dalies papildomi Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1308/2013](https://eur-lex.europa.eu/eli/reg/1308/2013/oj) dėl importo ir eksporto licencijų sistemos taikymo taisyklių ir Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1306/2013](https://eur-lex.europa.eu/eli/reg/1306/2013/oj) užstatų, sumokėtų už tokias licencijas, grąžinimo ir negrąžinimo taisyklių, ir iš dalies keičiami Komisijos [reglamentai (EB) Nr. 2535/2001](https://eur-lex.europa.eu/eli/reg/2535/2001/oj), (EB) Nr. 1342/2003, (EB) Nr. 2336/2003, (EB) Nr. 951/2006, (EB) Nr. 341/2007 ir (EB) Nr. 382/2008 ir panaikinami Komisijos [reglamentai (EB) Nr. 2390/98](https://eur-lex.europa.eu/eli/reg/2390/98/oj), (EB) Nr. 1345/2005, (EB) Nr. 376/2008 ir (EB) Nr. 507/2008. ^s-f2f3ba95db3694d58dbf00e0
 
 
-5. 2016 m. gegužės 18 d. Komisijos įgyvendinimo reglamentas (ES) 2016/1239, kuriuo dėl importo ir eksporto licencijų sistemos nustatomos Europos Parlamento ir Tarybos reglamento (ES) Nr. 1308/2013 taikymo taisyklės. ^s-38b8efddc7b17376522e31fd
+5. 2016 m. gegužės 18 d. Komisijos įgyvendinimo [reglamentas (ES) 2016/1239](https://eur-lex.europa.eu/eli/reg/2016/1239/oj), kuriuo dėl importo ir eksporto licencijų sistemos nustatomos Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1308/2013](https://eur-lex.europa.eu/eli/reg/1308/2013/oj) taikymo taisyklės. ^s-38b8efddc7b17376522e31fd
 
 
-6. 2021 m. gruodžio 2 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/2115, kuriuo nustatomos valstybių narių pagal bendrą žemės ūkio politiką rengtinų strateginių planų (BŽŪP strateginių planų), finansuotinų iš Europos žemės ūkio garantijų fondo (EŽŪGF) ir iš Europos žemės ūkio fondo kaimo plėtrai (EŽŪFKP), rėmimo taisyklės ir panaikinami reglamentai (ES) Nr. 1305/2013 ir (ES) Nr. 1307/2013. ^s-41b322878ff605b3012dc50c
+6. 2021 m. gruodžio 2 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2021/2115](https://eur-lex.europa.eu/eli/reg/2021/2115/oj), kuriuo nustatomos valstybių narių pagal bendrą žemės ūkio politiką rengtinų strateginių planų (BŽŪP strateginių planų), finansuotinų iš Europos žemės ūkio garantijų fondo (EŽŪGF) ir iš Europos žemės ūkio fondo kaimo plėtrai (EŽŪFKP), rėmimo taisyklės ir panaikinami [reglamentai (ES) Nr. 1305/2013](https://eur-lex.europa.eu/eli/reg/1305/2013/oj) ir (ES) Nr. 1307/2013. ^s-41b322878ff605b3012dc50c
 
 
-7. 2021 m. gruodžio 7 d. Komisijos deleguotasis reglamentas (ES) 2022/126, kuriuo Europos Parlamento ir Tarybos reglamentas (ES) 2021/2115 papildomas tam tikroms intervencinių priemonių rūšims, kurias valstybės narės nurodė pagal tą reglamentą parengtuose 2023–2027 m. BŽŪP strateginiuose planuose, taikomais papildomais reikalavimais ir taisyklėmis dėl santykio, susijusio su 1-uoju geros agrarinės ir aplinkosaugos būklės (GAAB) standartu. ^s-ca338371585c21e73152cdc0
+7. 2021 m. gruodžio 7 d. Komisijos deleguotasis [reglamentas (ES) 2022/126](https://eur-lex.europa.eu/eli/reg/2022/126/oj), kuriuo Europos Parlamento ir Tarybos [reglamentas (ES) 2021/2115](https://eur-lex.europa.eu/eli/reg/2021/2115/oj) papildomas tam tikroms intervencinių priemonių rūšims, kurias valstybės narės nurodė pagal tą reglamentą parengtuose 2023–2027 m. BŽŪP strateginiuose planuose, taikomais papildomais reikalavimais ir taisyklėmis dėl santykio, susijusio su 1-uoju geros agrarinės ir aplinkosaugos būklės (GAAB) standartu. ^s-ca338371585c21e73152cdc0
 
 
 _______________________
@@ -1072,12 +1072,12 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2130, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19503
-Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 3, 4, 6, 9 ir [[#^s-3b62b806a8da1ecfa49ab226|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 [[#^s-2060beb2507042abe170e722|2]], [[#^s-afe14df28786533ec1797b1b|3]], [[#^s-527390f9650077e581d2182a|4]], [[#^s-5611f462e2990f44eb8c8b04|6]], [[#^s-d92c23c66e9e777759170392|9]] ir [[#^s-3b62b806a8da1ecfa49ab226|10]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2285, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06437
-Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 3, 4, 6, 9 ir [[#^s-3b62b806a8da1ecfa49ab226|10 straipsnių]] pakeitimo [[latest/3499e1109e6a11e58fd1fc0b9bba68a7|įstatymo Nr. XII-2130]] [[#^s-a8686add987a463f5f542244|7 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 [[#^s-2060beb2507042abe170e722|2]], [[#^s-afe14df28786533ec1797b1b|3]], [[#^s-527390f9650077e581d2182a|4]], [[#^s-5611f462e2990f44eb8c8b04|6]], [[#^s-d92c23c66e9e777759170392|9]] ir [[#^s-3b62b806a8da1ecfa49ab226|10]] straipsnių pakeitimo [[latest/3499e1109e6a11e58fd1fc0b9bba68a7|įstatymo Nr. XII-2130]] [[#^s-a8686add987a463f5f542244|7 straipsnio]] pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1097,22 +1097,22 @@ Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 pakeitimo įsta
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1747, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27566
-Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 1, 2, 3, 4, 5, 6, [[#^s-1c4deded0c60c712d2efc9f3|8 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo ketvirtuoju ir penktuoju skirsniais įstatymas
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 [[#^s-2c1043a45b79ca692326b1b7|1]], [[#^s-2060beb2507042abe170e722|2]], [[#^s-afe14df28786533ec1797b1b|3]], [[#^s-527390f9650077e581d2182a|4]], [[#^s-406075eca456f7ea13eaf50e|5]], [[#^s-5611f462e2990f44eb8c8b04|6]], [[#^s-1c4deded0c60c712d2efc9f3|8]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo ketvirtuoju ir penktuoju skirsniais įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2065, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12748
-Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2 ir [[#^s-406075eca456f7ea13eaf50e|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 [[#^s-2060beb2507042abe170e722|2]] ir [[#^s-406075eca456f7ea13eaf50e|5]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3031, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18356
-Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 4 ir [[#^s-1c4deded0c60c712d2efc9f3|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 [[#^s-2060beb2507042abe170e722|2]], [[#^s-527390f9650077e581d2182a|4]] ir [[#^s-1c4deded0c60c712d2efc9f3|8]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-125, 2025-03-13, paskelbta TAR 2025-03-20, i. k. 2025-04579
-Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 2, 3, 4, 12, 13, 14, 15, 16, 17, 18 ir [[#^s-e88cfcc5ed85550733991c51|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 [[#^s-2060beb2507042abe170e722|2]], [[#^s-afe14df28786533ec1797b1b|3]], [[#^s-527390f9650077e581d2182a|4]], [[#^s-4c0c072801b097d0a75359f2|12]], [[#^s-1cf311b8e82ef685a048e394|13]], [[#^s-7f32da1a9df5898ce277d646|14]], [[#^s-51ce5a972e95f10a55845b21|15]], [[#^s-d063268f348562b70a50e087|16]], [[#^s-427e29472d0595b59a7e556a|17]], [[#^s-b593c594274f0eacb0e26f40|18]] ir [[#^s-e88cfcc5ed85550733991c51|19]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1122,4 +1122,4 @@ Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 [[#^s-e88cfcc5e
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1022, 2026-06-11, paskelbta TAR 2026-06-16, i. k. 2026-10398
-Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 4, 9 ir [[#^s-3b62b806a8da1ecfa49ab226|10 straipsnių]] pakeitimo ir Įstatymo papildymo 4-1, 4-2, 4-3, 4-4, 4-5 straipsniais įstatymas
+Lietuvos Respublikos pluoštinių kanapių įstatymo Nr. XII-336 [[#^s-527390f9650077e581d2182a|4]], [[#^s-d92c23c66e9e777759170392|9]] ir [[#^s-3b62b806a8da1ecfa49ab226|10]] straipsnių pakeitimo ir Įstatymo papildymo 4-1, 4-2, 4-3, 4-4, 4-5 straipsniais įstatymas

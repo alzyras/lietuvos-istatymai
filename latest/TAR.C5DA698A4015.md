@@ -130,7 +130,7 @@ Nr. XV-548, 2025-11-18, paskelbta TAR 2025-12-02, i. k. 2025-20532
 17. Visuomeninės kolekcijos – kolekcijos, kurios nuosavybės teise priklauso Lietuvos Respublikos valstybei ar savivaldybėms arba pagal Europos Sąjungos valstybės narės teisės aktus apibrėžiamos kaip visuomeninės, priklauso Europos Sąjungos valstybei narei arba Europos Sąjungos valstybių narių vietinės ar regioninės valdžios institucijai, arba Europos Sąjungos valstybėje narėje įsteigtam ir pagal tos Europos Sąjungos valstybės narės teisės aktus viešuoju laikomam juridiniam asmeniui, kurio savininkė arba dalyvė yra valstybė (jos institucijos) arba vietinės ar regioninės valdžios institucija arba kuriam daugiau negu pusę finansavimo skiria valstybės ar regioninės ar vietos valdžios institucijos. ^s-776e2704807579133d4fb000
 
 
-18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.9BC8AEE9D9F8|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme]], [[latest/TAR.863886C4199F|Lietuvos Respublikos muziejų įstatyme]], [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatyme]] ir Reglamente (ES) 2019/880. ^s-8dad632452daf3be4af4802d
+18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.9BC8AEE9D9F8|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatyme]], [[latest/TAR.863886C4199F|Lietuvos Respublikos muziejų įstatyme]], [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatyme]] ir [Reglamente (ES) 2019/880](https://eur-lex.europa.eu/eli/reg/2019/880/oj). ^s-8dad632452daf3be4af4802d
 Straipsnio dalies pakeitimai:
 Nr. XIV-608, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23530
 
@@ -305,7 +305,7 @@ Nr. XII-2618, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24192
 
 
 
-18) kultūros ministro nustatyta tvarka išduoda iš trečiųjų užsienio valstybių į Europos Sąjungos muitų teritoriją importuojamų kultūros vertybių importo licencijas Reglamente (ES) 2019/880 nustatytais atvejais; ^s-5626ee1604049ae9afeb41b4
+18) kultūros ministro nustatyta tvarka išduoda iš trečiųjų užsienio valstybių į Europos Sąjungos muitų teritoriją importuojamų kultūros vertybių importo licencijas [Reglamente (ES) 2019/880](https://eur-lex.europa.eu/eli/reg/2019/880/oj) nustatytais atvejais; ^s-5626ee1604049ae9afeb41b4
 Papildyta straipsnio punktu:
 Nr. XIV-608, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23530
 
@@ -335,7 +335,7 @@ Nr. XIV-608, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23530
 3) pagal kompetenciją atlieka kituose įstatymuose ir teisės aktuose nustatytas funkcijas. ^s-8bbaccfb2ed415d8cb571bcf
 
 
-7. [[#^s-bb8ccc6278c9c06ef51a4eee|Šio straipsnio 2 dalies 5 punkte]] nustatytos Restauravimo taryba, Kilnojamųjų kultūros vertybių restauratorių atestavimo komisija, Kilnojamųjų kultūros vertybių apsaugos taryba ir Kilnojamųjų kultūros vertybių vertinimo komisija atlieka joms jų nuostatuose priskirtas funkcijas kultūros vertybių apsaugos srityje, o jų narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka. ^s-723227d82c868ba967dea56c
+7. [[#^s-bb8ccc6278c9c06ef51a4eee|Šio straipsnio 2 dalies 5 punkte]] nustatytos Restauravimo taryba, Kilnojamųjų kultūros vertybių restauratorių atestavimo komisija, Kilnojamųjų kultūros vertybių apsaugos taryba ir Kilnojamųjų kultūros vertybių vertinimo komisija atlieka joms jų nuostatuose priskirtas funkcijas kultūros vertybių apsaugos srityje, o jų narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka. ^s-723227d82c868ba967dea56c
 Papildyta straipsnio dalimi:
 Nr. XIII-1755, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20736
 Straipsnio dalies pakeitimai:
@@ -375,7 +375,7 @@ KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSKAITA
 3. Dokumentų, kurie yra kilnojamosios kultūros vertybės ir priklauso Nacionaliniam dokumentų fondui, apskaitą ir saugojimą reglamentuoja [[latest/TAR.1FEF229DA7C6|Dokumentų ir archyvų įstatymas]] ir kiti teisės aktai. ^s-5af0b5993106b399b2e2f18d
 
 
-4. Kultūros vertybių registras tvarkomas Valstybės registrų įstatymo, [[latest/TAR.9BC8AEE9D9F8|Nekilnojamojo kultūros paveldo apsaugos įstatymo]], šio įstatymo, Kultūros vertybių registro nuostatų, kuriuos tvirtina Vyriausybė, ir kitų teisės aktų nustatyta tvarka. Vadovaujančioji Kultūros vertybių registro tvarkymo įstaiga yra Kultūros ministerija, o tvarkymo įstaiga – Kultūros paveldo departamentas. ^s-deb118c2d9ee7d92e3a772d2
+4. Kultūros vertybių registras tvarkomas [Valstybės registrų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296), [[latest/TAR.9BC8AEE9D9F8|Nekilnojamojo kultūros paveldo apsaugos įstatymo]], šio įstatymo, Kultūros vertybių registro nuostatų, kuriuos tvirtina Vyriausybė, ir kitų teisės aktų nustatyta tvarka. Vadovaujančioji Kultūros vertybių registro tvarkymo įstaiga yra Kultūros ministerija, o tvarkymo įstaiga – Kultūros paveldo departamentas. ^s-deb118c2d9ee7d92e3a772d2
 
 
 5. Jeigu kilnojamoji kultūros vertybė negrąžinamai išvežama iš Lietuvos Respublikos pagal tarptautines sutartis šio įstatymo [[#^s-b0462b3cbe1f68880dd80125|14 straipsnyje]] nustatytais atvejais, iš valstybinės apskaitos ji neišbraukiama, tačiau jai nebetaikomi šio įstatymo apsaugos reikalavimai, o duomenys apie ją saugomi duomenų bazės archyve neterminuotai. ^s-7a00e7230ba18aec937e9af1
@@ -574,7 +574,7 @@ Nr. XI-1977, 2012-04-19, Žin., 2012, Nr. 53-2638 (2012-05-08)
 2) licencijos turėtojas, prekiaudamas antikvariniais daiktais, įrašytais į Kultūros vertybių registrą ar sukurtais (pagamintais) iki 1800 metų, pažeidžia prekybos antikvariniais daiktais tvarkos reikalavimus. ^s-250b522ee5cf36751fe8ed44
 
 
-8. Pašalinus priežastis, dėl kurių licencijos prekiauti antikvariniais daiktais galiojimas buvo sustabdytas, panaikinamas šios licencijos galiojimo sustabdymas. Kultūros paveldo departamentas sprendimą dėl licencijos prekiauti antikvariniais daiktais galiojimo sustabdymo panaikinimo priima per 10 darbo dienų nuo informacijos apie licencijos galiojimo sustabdymo priežasčių pašalinimą gavimo dienos. ^s-bdaf98b916830ea8693a8cb6
+8. Pašalinus priežastis, dėl kurių licencijos prekiauti antikvariniais daiktais galiojimas buvo sustabdytas, panaikinamas šios licencijos galiojimo sustabdymas. Kultūros paveldo departamentas sprendimą [dėl licencijos prekiauti antikvariniais daiktais](https://e-tar.lt/portal/lt/legalAct/TAR.C18F5428FDE6) galiojimo sustabdymo panaikinimo priima per 10 darbo dienų nuo informacijos apie licencijos galiojimo sustabdymo priežasčių pašalinimą gavimo dienos. ^s-bdaf98b916830ea8693a8cb6
 
 
 9. Licencijos prekiauti antikvariniais daiktais galiojimas panaikinamas, jeigu: ^s-6411068c6db1e5559bb2bf6a
@@ -646,7 +646,7 @@ Nr. XIV-608, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23530
 
 
 
-2. Kilnojamosios kultūros vertybės ir antikvariniai daiktai, įrašyti į Vyriausybės patvirtintus sąrašus, gali būti išvežami tik turint leidimą. Leidimą išduoda Kultūros paveldo departamentas. Šioms kilnojamosioms kultūros vertybėms, išskyrus vertybes, įtrauktas į muziejų ir bibliotekų kilnojamųjų kultūros vertybių apskaitos dokumentus, ir antikvariniams daiktams įkainoti, antikvarinių daiktų kultūrinei vertei nustatyti ir išvadoms dėl leidimų juos išvežti išdavimo pateikti sudaroma Kilnojamųjų kultūros vertybių apsaugos taryba. Sprendimas dėl leidimo išvežti turi būti priimtas per 15 darbo dienų nuo rašytinio prašymo pateikimo dienos. Vyriausybės nustatyta tvarka terminas sprendimui dėl leidimo išvežti priimti gali būti pratęstas iki 30 darbo dienų. ^s-afb317c522fd7ab698839564
+2. Kilnojamosios kultūros vertybės ir antikvariniai daiktai, įrašyti į Vyriausybės patvirtintus sąrašus, gali būti išvežami tik turint leidimą. Leidimą išduoda Kultūros paveldo departamentas. Šioms kilnojamosioms kultūros vertybėms, išskyrus vertybes, įtrauktas į muziejų ir bibliotekų kilnojamųjų kultūros vertybių apskaitos dokumentus, ir antikvariniams daiktams įkainoti, antikvarinių daiktų kultūrinei vertei nustatyti ir išvadoms [dėl leidimų](https://e-tar.lt/portal/lt/legalAct/TAR.49F3BFF08717) juos išvežti išdavimo pateikti sudaroma Kilnojamųjų kultūros vertybių apsaugos taryba. Sprendimas dėl leidimo išvežti turi būti priimtas per 15 darbo dienų nuo rašytinio prašymo pateikimo dienos. Vyriausybės nustatyta tvarka terminas sprendimui dėl leidimo išvežti priimti gali būti pratęstas iki 30 darbo dienų. ^s-afb317c522fd7ab698839564
 Straipsnio dalies pakeitimai:
 Nr. XIV-608, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23530
 
@@ -712,19 +712,19 @@ Laikinai įvežant užsienio valstybių kilnojamąsias kultūros vertybes parodo
 ### 151 straipsnis. Kultūros vertybių importas iš trečiųjų užsienio valstybių į Lietuvos Respubliką ^s-e089b04f24d63bb175b4e1e2
 
 
-1. Reglamento (ES) 2019/880 priedo B dalyje išvardytos kultūros vertybės iš trečiųjų užsienio valstybių į Lietuvos Respubliką gali būti įvežamos tik turint jų importo licenciją, išskyrus Reglamente (ES) 2019/880 nurodytus atvejus. ^s-7732e92ebce1ea5b8039a832
+1. [Reglamento (ES) 2019/880](https://eur-lex.europa.eu/eli/reg/2019/880/oj) priedo B dalyje išvardytos kultūros vertybės iš trečiųjų užsienio valstybių į Lietuvos Respubliką gali būti įvežamos tik turint jų importo licenciją, išskyrus [Reglamente (ES) 2019/880](https://eur-lex.europa.eu/eli/reg/2019/880/oj) nurodytus atvejus. ^s-7732e92ebce1ea5b8039a832
 
 
-2. Importo licenciją išduoda Kultūros paveldo departamentas. Prekių turėtojas, siekdamas iš trečiųjų šalių importuoti Reglamento (ES) 2019/880 priedo B dalyje išvardytas kultūros vertybes, per Reglamento (ES) 2019/880 [[#^s-993d90c5d8b937225d5647fb|8 straipsnyje]] nurodytą elektroninę sistemą turi pateikti Kultūros paveldo departamentui prašymą išduoti importo licenciją (toliau šiame straipsnyje – prašymas). Kultūros paveldo departamentas patikrina, ar prašyme pateikti duomenys yra išsamūs ir atitinka Reglamente (ES) 2019/880 nurodytus reikalavimus, o nustatęs prašyme pateiktų duomenų trūkumų, per 21 kalendorinę dieną nuo prašymo gavimo dienos paprašo prašymą pateikusio prekių turėtojo pateikti trūkstamą ar papildomą informaciją arba dokumentus. Kultūros paveldo departamentas, gavęs išsamų prašymą, sprendimą dėl importo licencijos išdavimo ar prašymo atmetimo turi priimti per 90 kalendorinių dienų nuo išsamaus prašymo gavimo dienos. ^s-ee504edc36ff653edb2b5b56
+2. Importo licenciją išduoda Kultūros paveldo departamentas. Prekių turėtojas, siekdamas iš trečiųjų šalių importuoti [Reglamento (ES) 2019/880](https://eur-lex.europa.eu/eli/reg/2019/880/oj) priedo B dalyje išvardytas kultūros vertybes, per [Reglamento (ES) 2019/880 8 straipsnyje](https://eur-lex.europa.eu/eli/reg/2019/880/art_8/oj) nurodytą elektroninę sistemą turi pateikti Kultūros paveldo departamentui prašymą išduoti importo licenciją (toliau šiame straipsnyje – prašymas). Kultūros paveldo departamentas patikrina, ar prašyme pateikti duomenys yra išsamūs ir atitinka [Reglamente (ES) 2019/880](https://eur-lex.europa.eu/eli/reg/2019/880/oj) nurodytus reikalavimus, o nustatęs prašyme pateiktų duomenų trūkumų, per 21 kalendorinę dieną nuo prašymo gavimo dienos paprašo prašymą pateikusio prekių turėtojo pateikti trūkstamą ar papildomą informaciją arba dokumentus. Kultūros paveldo departamentas, gavęs išsamų prašymą, sprendimą dėl importo licencijos išdavimo ar prašymo atmetimo turi priimti per 90 kalendorinių dienų nuo išsamaus prašymo gavimo dienos. ^s-ee504edc36ff653edb2b5b56
 
 
-3. Kultūros paveldo departamentas per 10 kalendorinių dienų nuo išsamaus prašymo pateikimo dienos kreipiasi į Kilnojamųjų kultūros vertybių apsaugos tarybą, prašydamas pateikti išvadą dėl importo licencijos išdavimo. Kilnojamųjų kultūros vertybių apsaugos taryba pateikia Kultūros paveldo departamentui išvadą dėl importo licencijos per 60 kalendorinių dienų. Kultūros paveldo departamentas per 15 kalendorinių dienų nuo išvados gavimo dienos priima galutinį sprendimą dėl importo licencijos išdavimo ar prašymo atmetimo ir ne vėliau kaip per 5 kalendorines dienas apie priimtą sprendimą per Reglamento (ES) 2019/880 [[#^s-993d90c5d8b937225d5647fb|8 straipsnyje]] nurodytą elektroninę sistemą informuoja prašymą pateikusį prekių turėtoją. ^s-0ed63e956b2740cf6e961334
+3. Kultūros paveldo departamentas per 10 kalendorinių dienų nuo išsamaus prašymo pateikimo dienos kreipiasi į Kilnojamųjų kultūros vertybių apsaugos tarybą, prašydamas pateikti išvadą dėl importo licencijos išdavimo. Kilnojamųjų kultūros vertybių apsaugos taryba pateikia Kultūros paveldo departamentui išvadą dėl importo licencijos per 60 kalendorinių dienų. Kultūros paveldo departamentas per 15 kalendorinių dienų nuo išvados gavimo dienos priima galutinį sprendimą dėl importo licencijos išdavimo ar prašymo atmetimo ir ne vėliau kaip per 5 kalendorines dienas apie priimtą sprendimą per [Reglamento (ES) 2019/880 8 straipsnyje](https://eur-lex.europa.eu/eli/reg/2019/880/art_8/oj) nurodytą elektroninę sistemą informuoja prašymą pateikusį prekių turėtoją. ^s-0ed63e956b2740cf6e961334
 
 
-4. Pagal Reglamento (ES) 2019/880 [[#^s-53f22328f8b88dbd570f0295|4 straipsnį]] išduota importo licencija nelaikoma atitinkamų kultūros vertybių teisėtos kilmės arba nuosavybės teisių įrodymu. ^s-e2a243238ce82fe9fc8732a9
+4. Pagal [Reglamento (ES) 2019/880 4 straipsnį](https://eur-lex.europa.eu/eli/reg/2019/880/art_4/oj) išduota importo licencija nelaikoma atitinkamų kultūros vertybių teisėtos kilmės arba nuosavybės teisių įrodymu. ^s-e2a243238ce82fe9fc8732a9
 
 
-5. Prašymas atmetamas, jeigu remiantis Kilnojamųjų kultūros vertybių apsaugos tarybos išvada ar bet kuria kita informacija nustatomas bent vienas Reglamento (ES) 2019/880 [[#^s-723227d82c868ba967dea56c|4 straipsnio 7 dalyje]] nurodytas prašymo atmetimo pagrindas. ^s-3cbd3438a4124c6dfc1f1c2b
+5. Prašymas atmetamas, jeigu remiantis Kilnojamųjų kultūros vertybių apsaugos tarybos išvada ar bet kuria kita informacija nustatomas bent vienas [Reglamento (ES) 2019/880 4 straipsnio 7 dalyje](https://eur-lex.europa.eu/eli/reg/2019/880/art_4/par_7/oj) nurodytas prašymo atmetimo pagrindas. ^s-3cbd3438a4124c6dfc1f1c2b
 
 
 6. Tuo atveju, kai prekių turėtojo prašymas atmetamas, administracinis sprendimas, nurodant jo motyvus, apskundimo tvarką ir kitą pagal Lietuvos Respublikos viešojo administravimo įstatymą privalomą informaciją, ne vėliau kaip per 5 kalendorines dienas turi būti perduotas prašymą pateikusiam prekių turėtojui. ^s-3429d625770e625242accef5
@@ -798,7 +798,7 @@ Nr. XIV-608, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23530
 ### 18 straipsnis. Kultūros ministerijos veiksmai vykdant kultūros objektų grąžinimą ^s-41aca83f1cad9ecc1ebd6225
 
 
-1. Kultūros ministerija yra Lietuvos Respublikos įgaliota institucija, priimanti šio įstatymo 16 ir [[#^s-85c3a309e9f6fc415a445b8b|17 straipsniuose]] nurodytų Europos Sąjungos valstybių narių ir trečiųjų užsienio valstybių prašymus dėl neteisėtai išvežtų kultūros objektų grąžinimo. ^s-761b52fc6f67bfb56e389e41
+1. Kultūros ministerija yra Lietuvos Respublikos įgaliota institucija, priimanti šio įstatymo [[#^s-c4b0a55329ff7d935a56dcf0|16]] ir [[#^s-85c3a309e9f6fc415a445b8b|17]] straipsniuose nurodytų Europos Sąjungos valstybių narių ir trečiųjų užsienio valstybių prašymus dėl neteisėtai išvežtų kultūros objektų grąžinimo. ^s-761b52fc6f67bfb56e389e41
 
 
 2. Kultūros ministerija, išskyrus atvejus, kai Lietuvos Respublikos įstatymai ar tarptautinės sutartys, kurių šalys yra Lietuvos Respublika ir Europos Sąjungos valstybė narė, kuri kreipėsi dėl kultūros objektų grąžinimo, ar trečioji užsienio valstybė, nustato kitaip: ^s-3458eec8e0b500370b429a9f
@@ -813,8 +813,8 @@ Nr. XIV-608, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23530
 3) bendradarbiaudama su prašančiąja valstybe nare imasi reikiamų priemonių, kad neteisėtai išvežtas kultūros objektas būtų išsaugotas fiziškai; ^s-71b9490c7a452d2966d0a89b
 
 
-4) sudaro sąlygas prašančiosios valstybės narės įgaliotoms valdžios institucijoms patikrinti, ar atitinkamas kilnojamasis daiktas yra kultūros objektas, su sąlyga, kad patikrinimas atliekamas per 6 mėnesius nuo [[#^s-c068ee329b59eb6b6a495ff6|šio straipsnio 2 dalies 2 punkte]] nurodyto pranešimo gavimo dienos. Per nurodytą laiką neatlikus šio patikrinimo, [[#^s-3458eec8e0b500370b429a9f|šio straipsnio 2 dalies]] 3 ir [[#^s-6cd90d7fc6e68cfad9290e3d|6 punktai]] netaikomi; ^s-8aff9bd28f2f4d815bdff0cb
-TAR pastaba. [[#^s-8aff9bd28f2f4d815bdff0cb|18 straipsnio 2 dalies 4 punkte]] nustatytas 6 mėnesių terminas taikomas prašančiosios valstybės narės įgaliotoms valdžios institucijoms, kurios [[#^s-c068ee329b59eb6b6a495ff6|Kilnojamųjų kultūros vertybių apsaugos įstatymo 18 straipsnio 2 dalies 2 punkte]] nurodytą pranešimą gavo po [[latest/82ab42c0ac0311e6b844f0f29024f5ac|įstatymo Nr. XII-2726]] įsigaliojimo (2017-01-01).
+4) sudaro sąlygas prašančiosios valstybės narės įgaliotoms valdžios institucijoms patikrinti, ar atitinkamas kilnojamasis daiktas yra kultūros objektas, su sąlyga, kad patikrinimas atliekamas per 6 mėnesius nuo [[#^s-c068ee329b59eb6b6a495ff6|šio straipsnio 2 dalies 2 punkte]] nurodyto pranešimo gavimo dienos. Per nurodytą laiką neatlikus šio patikrinimo, [[#^s-3458eec8e0b500370b429a9f|šio straipsnio 2 dalies]] [[#^s-71b9490c7a452d2966d0a89b|3]] ir [[#^s-6cd90d7fc6e68cfad9290e3d|6]] punktai netaikomi; ^s-8aff9bd28f2f4d815bdff0cb
+TAR pastaba. 18 straipsnio 2 dalies 4 punkte nustatytas 6 mėnesių terminas taikomas prašančiosios valstybės narės įgaliotoms valdžios institucijoms, kurios [[#^s-c068ee329b59eb6b6a495ff6|Kilnojamųjų kultūros vertybių apsaugos įstatymo 18 straipsnio 2 dalies 2 punkte]] nurodytą pranešimą gavo po [[latest/82ab42c0ac0311e6b844f0f29024f5ac|įstatymo Nr. XII-2726]] įsigaliojimo (2017-01-01).
 
 
 5) bendradarbiauja su prašančiąja valstybe nare kultūros objektų grąžinimo klausimais; ^s-c66956734a3b1ee331afc4fa
@@ -835,7 +835,7 @@ TAR pastaba. [[#^s-8aff9bd28f2f4d815bdff0cb|18 straipsnio 2 dalies 4 punkte]] nu
 4. Kultūros ministerija kreipiasi su prašymu į Europos Sąjungos valstybės narės ar trečiosios užsienio valstybės įgaliotą instituciją dėl neteisėtai iš Lietuvos Respublikos teritorijos išvežtų kultūros objektų grąžinimo, informuoja, kad buvo pradėtas teismo procesas siekiant užtikrinti atitinkamo kultūros objekto grąžinimą, nurodo teismo proceso pradėjimo pagrindą ir rūpinasi kultūros objektų susigrąžinimu. Europos Sąjungos valstybės narės teismui priėmus sprendimą grąžinti Lietuvos Respublikai neteisėtai išvežtą kultūros objektą ir priteisus teisingą kompensaciją esamam kultūros objekto savininkui ir (arba) valdytojui, Lietuvos Respublika kompensaciją sumoka atgavusi neteisėtai išvežtą kultūros objektą. Lietuvos Respublika taip pat padengia sprendimo grąžinti neteisėtai išvežtą kultūros objektą vykdymo ir neteisėtai išvežto kultūros objekto fizinio išsaugojimo išlaidas. Kompensacijos už neteisėtai išvežtų kultūros objektų grąžinimo tvarką nustato Lietuvos Respublikos Vyriausybė. ^s-d84ca359507acb46f603edf2
 
 
-5. Kultūros ministerija, siekdama bendradarbiauti ir konsultuotis su Europos Sąjungos valstybių narių įgaliotomis valdžios institucijomis, naudojasi 2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1024/2012 dėl administracinio bendradarbiavimo per Vidaus rinkos informacinę sistemą, kuriuo panaikinamas Komisijos sprendimas 2008/49/EB (VRI reglamentas), nustatytu specialiai kultūros vertybėms pritaikytu Vidaus rinkos informacinės sistemos (toliau – IMI) moduliu. ^s-5e8e0e2d8bafcdda4089cfb7
+5. Kultūros ministerija, siekdama bendradarbiauti ir konsultuotis su Europos Sąjungos valstybių narių įgaliotomis valdžios institucijomis, naudojasi 2012 m. spalio 25 d. Europos Parlamento ir Tarybos [reglamente (ES) Nr. 1024/2012](https://eur-lex.europa.eu/eli/reg/1024/2012/oj) dėl administracinio bendradarbiavimo per Vidaus rinkos informacinę sistemą, kuriuo panaikinamas Komisijos sprendimas 2008/49/EB (VRI reglamentas), nustatytu specialiai kultūros vertybėms pritaikytu Vidaus rinkos informacinės sistemos (toliau – IMI) moduliu. ^s-5e8e0e2d8bafcdda4089cfb7
 Straipsnio dalies pakeitimai:
 Nr. XIV-608, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23530
 
@@ -888,10 +888,10 @@ priedas
 1. 2008 m. gruodžio 18 d. Tarybos reglamentas (EB) Nr. 116/2009 dėl kultūros vertybių eksporto. ^s-ea93159fd1e5242149a99cc0
 
 
-2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/60/ES dėl neteisėtai iš valstybės narės teritorijos išvežtų kultūros objektų grąžinimo, kuria iš dalies keičiamas Reglamentas (ES) Nr. 1024/2012. ^s-bed113d3d0385a26c9801d64
+2. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/60/ES dėl neteisėtai iš valstybės narės teritorijos išvežtų kultūros objektų grąžinimo, kuria iš dalies keičiamas [Reglamentas (ES) Nr. 1024/2012](https://eur-lex.europa.eu/eli/reg/1024/2012/oj). ^s-bed113d3d0385a26c9801d64
 
 
-3. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/880 dėl kultūros vertybių įvežimo ir importo. ^s-50f21264f70dd16d7cd8bafc
+3. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2019/880](https://eur-lex.europa.eu/eli/reg/2019/880/oj) dėl kultūros vertybių įvežimo ir importo. ^s-50f21264f70dd16d7cd8bafc
 
 
 Priedo pakeitimai:
@@ -911,7 +911,7 @@ Nr. VIII-325, 97.06.26, Žin., 1997, Nr.65-1550 (97.07.09)
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-447, 97.10.14, Žin., 1997, Nr.97-2442 (97.10.29)
-LIETUVOS RESPUBLIKOS KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 9, 21, 23 STRAIPSNIŲ PAKEITIMO
+LIETUVOS RESPUBLIKOS KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO [[#^s-17afbe7fd791e0d51756be2c|9]], [[latest/TAR.C5DA698A4015|21]], [[latest/TAR.C5DA698A4015|23]] STRAIPSNIŲ PAKEITIMO
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -960,7 +960,7 @@ Nr. XI-780, 2010-04-27, Žin., 2010, Nr. 54-2643 (2010-05-11)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1977, 2012-04-19, Žin., 2012, Nr. 53-2638 (2012-05-08)
 [[latest/TAR.980737D3D6DD|KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 4, 6, 7, 11, 12, 13, 14, 16 IR 17 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-50f21264f70dd16d7cd8bafc|3 dalis]], įsigalioja 2013 m. sausio 1 d.
+Šis įstatymas, išskyrus šio straipsnio [[#^s-bed113d3d0385a26c9801d64|2]] ir 3 dalis, įsigalioja 2013 m. sausio 1 d.
 
 
 
@@ -969,7 +969,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1293, 2014-11-06, paskelbta TAR 2014-11-20, i. k. 2014-17212
-Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 2, 13 ir [[#^s-c4b0a55329ff7d935a56dcf0|16 straipsnių]] pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
+Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 [[#^s-bd5ad79721f02755efcedad7|2]], [[#^s-5fa72901af5d3a3e8e6c0013|13]] ir [[#^s-c4b0a55329ff7d935a56dcf0|16]] straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -979,7 +979,7 @@ Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2726, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26896
-Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 2, 11, 13, 14, 16, 17, [[#^s-41aca83f1cad9ecc1ebd6225|18 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 [[#^s-bd5ad79721f02755efcedad7|2]], [[#^s-14337cf0ffeb407b3ce5b8ce|11]], [[#^s-5fa72901af5d3a3e8e6c0013|13]], [[#^s-b0462b3cbe1f68880dd80125|14]], [[#^s-c4b0a55329ff7d935a56dcf0|16]], [[#^s-85c3a309e9f6fc415a445b8b|17]], [[#^s-41aca83f1cad9ecc1ebd6225|18]] straipsnių ir priedo pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -999,9 +999,9 @@ Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-608, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23530
-Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 2, 4, 14, 17, [[#^s-41aca83f1cad9ecc1ebd6225|18 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
+Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 [[#^s-bd5ad79721f02755efcedad7|2]], [[#^s-53f22328f8b88dbd570f0295|4]], [[#^s-b0462b3cbe1f68880dd80125|14]], [[#^s-85c3a309e9f6fc415a445b8b|17]], [[#^s-41aca83f1cad9ecc1ebd6225|18]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-548, 2025-11-18, paskelbta TAR 2025-12-02, i. k. 2025-20532
-Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 2, 4, 8, 9, 11, 12 ir [[#^s-5fa72901af5d3a3e8e6c0013|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo Nr. I-1179 [[#^s-bd5ad79721f02755efcedad7|2]], [[#^s-53f22328f8b88dbd570f0295|4]], [[#^s-993d90c5d8b937225d5647fb|8]], [[#^s-17afbe7fd791e0d51756be2c|9]], [[#^s-14337cf0ffeb407b3ce5b8ce|11]], [[#^s-f8b9ade516b5baa941d8cf72|12]] ir [[#^s-5fa72901af5d3a3e8e6c0013|13]] straipsnių pakeitimo įstatymas

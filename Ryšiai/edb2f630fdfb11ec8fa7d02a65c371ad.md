@@ -9,8 +9,10 @@ pavadinimas: "Lietuvos Respublikos valstybės paramos daugiabučiams namams atna
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.9D04F98F7C14|Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymas]] - 5 citatos - šio straipsnio 3 dalyje
+- [[latest/TAR.9D04F98F7C14#^s-e483ddc3e55428c0be38cc07|Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymas]] - 3 straipsnio 11 dalį
+- [[latest/TAR.9D04F98F7C14#^s-ecd0d8af3d57f09ea41ed603|Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymas]] - 3 straipsnio 1 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9D04F98F7C14#^s-e0747e411ff1121a49e2a231|Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymas]] - Įstatymas Nr. XIV-1299
+_Nėra._

@@ -137,7 +137,7 @@ Papildyti Įstatymą 151 straipsniu:
 1. Apibendrintus visuomenės sveikatos priežiūros veiklą reglamentuojančių teisės aktų taikymo visuomenės sveikatos priežiūros veiklos klausimais išaiškinimus teikia ir skelbia Sveikatos apsaugos ministerija jos nustatyta tvarka. ^s-86fb77bb5181f23a2ea127bb
 
 
-2. Konsultacijos visuomenės sveikatos priežiūros veiklos klausimais Viešojo administravimo įstatymo 363 straipsnio pagrindu teikiamos Sveikatos apsaugos ministerijos nustatyta tvarka.“ ^s-ccdf8e3f7f1881a2eeebdbbe
+2. Konsultacijos visuomenės sveikatos priežiūros veiklos klausimais [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo 363 straipsnio]] pagrindu teikiamos Sveikatos apsaugos ministerijos nustatyta tvarka.“ ^s-ccdf8e3f7f1881a2eeebdbbe
 
 
 

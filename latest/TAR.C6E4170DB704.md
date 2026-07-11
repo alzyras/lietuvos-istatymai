@@ -272,7 +272,7 @@ Nr. XIV-791, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27367
 4. Apie sužalotus pacientus, kuriems žala galėjo būti padaryta nusikalstama veika, sveikatos priežiūros įstaigos privalo nedelsdamos pranešti teisėsaugos institucijoms. ^s-1dd03e78539b66e65c810ffa
 
 
-5. Teikiant asmens sveikatos priežiūros paslaugas ne asmens sveikatos priežiūros įstaigos patalpose ir (ar) skubiosios medicinos pagalbos paslaugas asmens sveikatos priežiūros įstaigos skubiosios medicinos pagalbos padalinio patalpose, pacientų ir (arba) sveikatos priežiūros specialisto saugumo užtikrinimo tikslais sveikatos apsaugos ministro nustatyta tvarka gali būti atliekamas vaizdo ir (arba) garso stebėjimas ir (arba) įrašymas. Vaizdo ir (arba) garso duomenų tvarkymas turi atitikti 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) nustatytus reikalavimus. ^s-6e28413322d7979d4d301b29
+5. Teikiant asmens sveikatos priežiūros paslaugas ne asmens sveikatos priežiūros įstaigos patalpose ir (ar) skubiosios medicinos pagalbos paslaugas asmens sveikatos priežiūros įstaigos skubiosios medicinos pagalbos padalinio patalpose, pacientų ir (arba) sveikatos priežiūros specialisto saugumo užtikrinimo tikslais sveikatos apsaugos ministro nustatyta tvarka gali būti atliekamas vaizdo ir (arba) garso stebėjimas ir (arba) įrašymas. Vaizdo ir (arba) garso duomenų tvarkymas turi atitikti 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) nustatytus reikalavimus. ^s-6e28413322d7979d4d301b29
 Papildyta straipsnio dalimi:
 Nr. XIV-2614, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08906
 
@@ -430,7 +430,7 @@ informuoto PACIENTO Sutikimas
 ### 16 straipsnis. Sutikimo dėl sveikatos priežiūros išreiškimas ^s-c40103351ab67cc76e2ecbcc
 
 
-1. Laikoma, kad savanoriškai į sveikatos priežiūros įstaigą dėl stacionarinės ar ambulatorinės sveikatos priežiūros atvykęs arba į namus sveikatos priežiūros specialistą iškvietęs pacientas yra informuotas ir sutinka, kad tos įstaigos sveikatos priežiūros specialistas jį apžiūrėtų, įvertintų jo sveikatos būklę, paskirtų ir atliktų būtinas tyrimų ir gydymo procedūras, jei sveikatos priežiūros įstaiga yra užtikrinusi, kad visa būtina informacija pacientui būtų suteikta (prieinama) jo buvimo ar lankymosi šioje įstaigoje metu, o šios įstaigos darbuotojai atsakytų į visus paciento klausimus, susijusius su šia informacija. Ši nuostata netaikoma šio įstatymo [[#^s-2855954262b45b41852eae06|17 straipsnio]] 1 ir [[#^s-50ddd9f65f24e36487699f40|2 dalyse]] nustatytais atvejais. ^s-d53f9af47e366312ea415bab
+1. Laikoma, kad savanoriškai į sveikatos priežiūros įstaigą dėl stacionarinės ar ambulatorinės sveikatos priežiūros atvykęs arba į namus sveikatos priežiūros specialistą iškvietęs pacientas yra informuotas ir sutinka, kad tos įstaigos sveikatos priežiūros specialistas jį apžiūrėtų, įvertintų jo sveikatos būklę, paskirtų ir atliktų būtinas tyrimų ir gydymo procedūras, jei sveikatos priežiūros įstaiga yra užtikrinusi, kad visa būtina informacija pacientui būtų suteikta (prieinama) jo buvimo ar lankymosi šioje įstaigoje metu, o šios įstaigos darbuotojai atsakytų į visus paciento klausimus, susijusius su šia informacija. Ši nuostata netaikoma šio įstatymo [[#^s-2855954262b45b41852eae06|17 straipsnio]] [[#^s-36b7c4bed28d6c0728ea14dd|1]] ir [[#^s-945279c513ae0b8f0269a276|2]] dalyse nustatytais atvejais. ^s-d53f9af47e366312ea415bab
 
 
 2. Būtina [[#^s-d53f9af47e366312ea415bab|šio straipsnio 1 dalyje]] nurodyta informacija laikoma informacija apie toje sveikatos priežiūros įstaigoje teikiamų mokamų, iš dalies mokamų paslaugų kainas, nemokamas paslaugas ir galimybes jomis pasinaudoti, siuntimo į kitas sveikatos priežiūros įstaigas tvarką, apie įstaigos vidaus tvarkos taisykles, sveikatos priežiūros paslaugas teikiančių specialistų profesinę kvalifikaciją, galimybę rinktis sveikatos priežiūros specialistą, taip pat paciento pareigą bendradarbiauti su sveikatos priežiūros paslaugas paskyrusiu (ar teikiančiu) sveikatos priežiūros specialistu, vykdyti jo paskyrimus ir nurodymus, pranešti apie bet kokius nukrypimus nuo paskyrimų. Tokios informacijos teikimo tvarką nustato sveikatos priežiūros įstaiga. ^s-50ddd9f65f24e36487699f40
@@ -687,7 +687,7 @@ b) mirties atveju – pagal kito asmens, turinčio teisę į žalos atlyginimą,
 ### 25 straipsnis. Kreipimasis į teismą ^s-e95646d131de1ae654f047f3
 
 
-1. Jeigu pacientas ir kiti asmenys, turintys teisę į pacientų sveikatai padarytos žalos (turtinės ir neturtinės) atlyginimą, per 30 dienų nuo tos dienos, kai sužinojo ar turėjo sužinoti apie Komisijos sprendimą, nesutinka su Komisijos sprendime nurodytu žalos atlyginimo dydžiu arba jeigu žalos atlyginimas nenustatytas, jie turi teisę Civilinio proceso kodekso nustatyta tvarka kreiptis į bendrosios kompetencijos teismą dėl paciento sveikatai padarytos žalos (turtinės ir neturtinės) atlyginimo klausimo nagrinėjimo iš esmės. Šioje dalyje nurodytu atveju atsakovas byloje yra valstybė, atstovaujama Vyriausybės įgaliotos institucijos (jeigu reikia specialiųjų žinių, Vyriausybės įgaliotos institucijos sprendimu pasitelkiama Komisija ir (arba) sveikatos priežiūros specialistas (-ai), nurodytas (-i) šio įstatymo [[#^s-4d4c3b7379cefb32c34aaef8|26 straipsnio 6 dalyje]], teikęs (-ę) išvadą (-as) Komisijai), o teismas, spręsdamas dėl paciento sveikatai padarytos žalos (turtinės ir neturtinės) atlyginimo, nevertina asmens sveikatos priežiūros įstaigos ir ją padariusio sveikatos priežiūros specialisto kaltės ir, nustatydamas atlygintinos žalos dydį, vadovaujasi šio įstatymo [[#^s-08726575de613a40819b49c8|24 straipsnio 6 dalimi]]. ^s-4889d01bec8a790c32546ffb
+1. Jeigu pacientas ir kiti asmenys, turintys teisę į pacientų sveikatai padarytos žalos (turtinės ir neturtinės) atlyginimą, per 30 dienų nuo tos dienos, kai sužinojo ar turėjo sužinoti apie Komisijos sprendimą, nesutinka su Komisijos sprendime nurodytu žalos atlyginimo dydžiu arba jeigu žalos atlyginimas nenustatytas, jie turi teisę [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka kreiptis į bendrosios kompetencijos teismą dėl paciento sveikatai padarytos žalos (turtinės ir neturtinės) atlyginimo klausimo nagrinėjimo iš esmės. Šioje dalyje nurodytu atveju atsakovas byloje yra valstybė, atstovaujama Vyriausybės įgaliotos institucijos (jeigu reikia specialiųjų žinių, Vyriausybės įgaliotos institucijos sprendimu pasitelkiama Komisija ir (arba) sveikatos priežiūros specialistas (-ai), nurodytas (-i) šio įstatymo [[#^s-4d4c3b7379cefb32c34aaef8|26 straipsnio 6 dalyje]], teikęs (-ę) išvadą (-as) Komisijai), o teismas, spręsdamas dėl paciento sveikatai padarytos žalos (turtinės ir neturtinės) atlyginimo, nevertina asmens sveikatos priežiūros įstaigos ir ją padariusio sveikatos priežiūros specialisto kaltės ir, nustatydamas atlygintinos žalos dydį, vadovaujasi šio įstatymo [[#^s-08726575de613a40819b49c8|24 straipsnio 6 dalimi]]. ^s-4889d01bec8a790c32546ffb
 
 
 2. Vyriausybės įgaliota institucija turi teisę gauti visą reikiamą informaciją (įskaitant paciento medicinos dokumentų kopijas ir asmens sveikatos priežiūros įstaigos bei asmens sveikatos priežiūros specialistų paaiškinimus, kuriuose pateikta visa informacija apie pacientą (įskaitant informaciją apie paciento buvimą asmens sveikatos priežiūros įstaigoje, paciento sveikatos būklę, ligos diagnozę, prognozes ir gydymą, taip pat visą kitą asmeninio pobūdžio informaciją apie pacientą), reikalingą atstovaujant valstybei teisme. Asmenys, į kuriuos kreipiasi Vyriausybės įgaliota institucija, privalo pateikti jai šioje dalyje nurodytą informaciją. Visa Vyriausybės įgaliotai institucijai pateikta informacija apie pacientą, asmens sveikatos priežiūros įstaigą ir asmens sveikatos priežiūros specialistus naudojama Vyriausybės įgaliotos institucijos atstovavimo valstybei teisme, sprendžiant dėl paciento sveikatai padarytos žalos (turtinės ir neturtinės) atlyginimo, tikslais ir laikoma konfidencialia bei gali būti atskleista kitiems asmenims tik teisės aktuose, reguliuojančiuose tokios informacijos tvarkymą, nustatytais pagrindais ir tvarka. ^s-4490882415a5f93b4d98a421
@@ -798,7 +798,7 @@ Nr. XIV-1489, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22951
 2. Asmens sveikatos priežiūros įstaigos Vyriausybės įgaliotai institucijai sveikatos apsaugos ministro nustatyta tvarka teikia informaciją, reikalingą įmokos į sąskaitą dydžiui nustatyti arba įmokos dydžio teisingumui patikrinti, taip pat kitą informaciją, reikalingą sąskaitai administruoti. Sąskaitą administruojanti Vyriausybės įgaliota institucija šioje dalyje nurodytą informaciją turi teisę gauti ir iš valstybės ir savivaldybių institucijų. ^s-99cb39fddb34d09f06b145c2
 
 
-3. Įmokos dydis apskaičiuojamas nuo visų toliau nurodytų praėjusių (išskyrus šio straipsnio 5 ir [[#^s-78ff18e243da0d8395e78f1a|7 dalyse]] nurodytus atvejus) kalendorinių metų lėšų (pajamos už medicinos priemonių ir (ar) jų dalių gamybą ir (arba) jų pritaikymą įtraukiamos tik asmens sveikatos priežiūros įstaigoje, kuri turi asmens sveikatos priežiūros veiklos licenciją, suteikiančią teisę jas gaminti, ir kuri jas pagamino ir (ar) pritaikė): ^s-dcc6425cec64a31ffe153567
+3. Įmokos dydis apskaičiuojamas nuo visų toliau nurodytų praėjusių (išskyrus šio straipsnio [[#^s-96f53de6a72bcf81a845e205|5]] ir [[#^s-78ff18e243da0d8395e78f1a|7]] dalyse nurodytus atvejus) kalendorinių metų lėšų (pajamos už medicinos priemonių ir (ar) jų dalių gamybą ir (arba) jų pritaikymą įtraukiamos tik asmens sveikatos priežiūros įstaigoje, kuri turi asmens sveikatos priežiūros veiklos licenciją, suteikiančią teisę jas gaminti, ir kuri jas pagamino ir (ar) pritaikė): ^s-dcc6425cec64a31ffe153567
 
 
 1) lėšų, gautų už asmens sveikatos priežiūros paslaugų teikimą iš Privalomojo sveikatos draudimo fondo biudžeto pagal sutartis su Valstybine ligonių kasa prie Sveikatos apsaugos ministerijos (toliau – Valstybinė ligonių kasa); ^s-36206f9d66da62cf7a1a05f0
@@ -816,7 +816,7 @@ Nr. XIV-2795, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12738
 4) įmonės ar įstaigos lėšų, panaudotų jos darbuotojų asmens sveikatos priežiūrai; ^s-3fdb3f1d907012999684558a
 
 
-5) lėšų, gautų už asmens sveikatos priežiūros paslaugų teikimą iš kitų šaltinių, nenurodytų šios dalies 1–[[#^s-3fdb3f1d907012999684558a|4 punktuose]]. ^s-f7a6814a6b933ee21eaaaca1
+5) lėšų, gautų už asmens sveikatos priežiūros paslaugų teikimą iš kitų šaltinių, nenurodytų šios dalies [[#^s-36206f9d66da62cf7a1a05f0|1]]–[[#^s-3fdb3f1d907012999684558a|4]] punktuose. ^s-f7a6814a6b933ee21eaaaca1
 
 
 4. Asmens sveikatos priežiūros įstaiga įmoką už einamuosius kalendorinius metus, apskaičiuotą [[#^s-c184a9a3765ec85752a4d6cc|šio straipsnio 1 dalyje]] nustatyta tvarka, moka visą iš karto arba, sveikatos apsaugos ministro nustatyta tvarka informavusi Vyriausybės įgaliotą instituciją, dalimis po 1/4 įmokos. Visa įmoka arba pirmoji kalendoriniais metais įmoka sumokama iki einamųjų kalendorinių metų kovo 30 dienos, o kitos – iki kiekvieno ketvirčio antro mėnesio 10 dienos, išskyrus tuos metus, kai asmens sveikatos priežiūros įstaiga pradeda veiklą, – tokiu atveju pasibaigus kalendoriniams metams, kuriais asmens sveikatos priežiūros įstaiga pradėjo savo veiklą, iki einamųjų metų kovo 30 dienos ji privalo sumokėti įmoką už praėjusius kalendorinius metus ir įmoką už einamuosius kalendorinius metus arba įmokos dalį už pirmąjį einamųjų kalendorinių metų ketvirtį. Jeigu asmens sveikatos priežiūros įstaiga veiklą pradeda ne nuo kalendorinių metų pradžios: ^s-042e7fef4d96982655eb76db
@@ -831,10 +831,10 @@ Nr. XIV-2795, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12738
 5. Jeigu einamaisiais kalendoriniais metais panaikinama asmens sveikatos priežiūros įstaigos asmens sveikatos priežiūros veiklos licencija visoms asmens sveikatos priežiūros paslaugoms, asmens sveikatos priežiūros įstaiga tais metais moka įmokos dalį, proporcingą mėnesių, kuriuos jos asmens sveikatos priežiūros veiklos licencija galiojo (nebuvo panaikinta), skaičiui. ^s-96f53de6a72bcf81a845e205
 
 
-6. Asmens sveikatos priežiūros įstaiga už nesumokėtą įmoką ar jos dalį, už skirtumą tarp sumokėtos mažesnės, negu turėtų būti vadovaujantis šio straipsnio 1, 4 ir [[#^s-96f53de6a72bcf81a845e205|5 dalimis]], įmokos ar jos dalies ir reikiamos sumokėti įmokos sumos, taip pat už laiku nesumokėtą įmoką ar jos dalį kitais kalendoriniais metais moka delspinigius pagal finansų ministro nustatytą delspinigių normą, taikomą už pavėluotą ar nesumokėtą mokesčio mokėjimą. ^s-7ea9181aad665d4fbeb55f6e
+6. Asmens sveikatos priežiūros įstaiga už nesumokėtą įmoką ar jos dalį, už skirtumą tarp sumokėtos mažesnės, negu turėtų būti vadovaujantis šio straipsnio [[#^s-c184a9a3765ec85752a4d6cc|1]], [[#^s-042e7fef4d96982655eb76db|4]] ir [[#^s-96f53de6a72bcf81a845e205|5]] dalimis, įmokos ar jos dalies ir reikiamos sumokėti įmokos sumos, taip pat už laiku nesumokėtą įmoką ar jos dalį kitais kalendoriniais metais moka delspinigius pagal finansų ministro nustatytą delspinigių normą, taikomą už pavėluotą ar nesumokėtą mokesčio mokėjimą. ^s-7ea9181aad665d4fbeb55f6e
 
 
-7. Asmens sveikatos priežiūros įstaigos asmens sveikatos priežiūros veiklos licencijos sustabdymas ar panaikinimas neatleidžia nuo pareigos sumokėti visas pagal šį įstatymą apskaičiuotas mokėtinas įmokas. Nesumokėtos įmokos ir delspinigiai iš asmens sveikatos priežiūros įstaigų išieškomi Civilinio proceso kodekso nustatyta tvarka. Asmens sveikatos priežiūros įstaiga padengia išieškojimo procedūrų administravimo išlaidas. Jeigu asmens sveikatos priežiūros įstaiga [[#^s-99cb39fddb34d09f06b145c2|šio straipsnio 2 dalyje]] nustatyta tvarka nėra pateikusi toje dalyje nurodytos informacijos, išieškomos įmokos dydis nustatomas pagal Vyriausybės įgaliotos institucijos paskutinę iš asmens sveikatos priežiūros įstaigos gautą informaciją, nurodytą [[#^s-99cb39fddb34d09f06b145c2|šio straipsnio 2 dalyje]], arba, jeigu ši informacija niekada nebuvo teikta ir asmens sveikatos priežiūros įstaiga [[latest/TAR.94F6B680E8B8|Lietuvos Respublikos sveikatos draudimo įstatymo]] nustatyta tvarka: ^s-78ff18e243da0d8395e78f1a
+7. Asmens sveikatos priežiūros įstaigos asmens sveikatos priežiūros veiklos licencijos sustabdymas ar panaikinimas neatleidžia nuo pareigos sumokėti visas pagal šį įstatymą apskaičiuotas mokėtinas įmokas. Nesumokėtos įmokos ir delspinigiai iš asmens sveikatos priežiūros įstaigų išieškomi [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Asmens sveikatos priežiūros įstaiga padengia išieškojimo procedūrų administravimo išlaidas. Jeigu asmens sveikatos priežiūros įstaiga [[#^s-99cb39fddb34d09f06b145c2|šio straipsnio 2 dalyje]] nustatyta tvarka nėra pateikusi toje dalyje nurodytos informacijos, išieškomos įmokos dydis nustatomas pagal Vyriausybės įgaliotos institucijos paskutinę iš asmens sveikatos priežiūros įstaigos gautą informaciją, nurodytą [[#^s-99cb39fddb34d09f06b145c2|šio straipsnio 2 dalyje]], arba, jeigu ši informacija niekada nebuvo teikta ir asmens sveikatos priežiūros įstaiga [[latest/TAR.94F6B680E8B8|Lietuvos Respublikos sveikatos draudimo įstatymo]] nustatyta tvarka: ^s-78ff18e243da0d8395e78f1a
 
 
 1) yra sudariusi sutartį su Valstybine ligonių kasa, – pagal visas laikotarpio, už kurį turi būti mokama įmoka, šios įstaigos pajamas, bet ne mažiau kaip 100 eurų; ^s-805db5fefeb731ca32648cad
@@ -937,7 +937,7 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1080, 2018-04-12, paskelbta TAR 2018-04-23, i. k. 2018-06424
-Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 5, 8 ir [[#^s-c4d9c0f9699181a56cab6578|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 [[#^s-9dc18e2a705eca6ea401d1cd|5]], [[#^s-8ab64efed7f7faf122c0ac87|8]] ir [[#^s-c4d9c0f9699181a56cab6578|22]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -947,12 +947,12 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1909, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00841
-Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 5 ir [[#^s-90c2b9231f35d7a6f69904e5|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 [[#^s-9dc18e2a705eca6ea401d1cd|5]] ir [[#^s-90c2b9231f35d7a6f69904e5|7]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2377, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12799
-Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 2, 7, 8, 13, [[#^s-4a80264649c840ddf579f106|20 straipsnių]] ir V skyriaus pakeitimo įstatymas
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 [[#^s-c9ecd0f33b04c18958dc8b50|2]], [[#^s-90c2b9231f35d7a6f69904e5|7]], [[#^s-8ab64efed7f7faf122c0ac87|8]], [[#^s-f95546308cd074015a5a6500|13]], [[#^s-4a80264649c840ddf579f106|20]] straipsnių ir V skyriaus pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -962,17 +962,17 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2703, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21552
-Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 2, 7, 8, 13, [[#^s-4a80264649c840ddf579f106|20 straipsnių]] ir V skyriaus pakeitimo [[latest/e2a792b0b51e11e98451fa7b5933515d|įstatymo Nr. XIII-2377]] 1, 4 ir [[#^s-55763f23e592c74a12cc57e1|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 [[#^s-c9ecd0f33b04c18958dc8b50|2]], [[#^s-90c2b9231f35d7a6f69904e5|7]], [[#^s-8ab64efed7f7faf122c0ac87|8]], [[#^s-f95546308cd074015a5a6500|13]], [[#^s-4a80264649c840ddf579f106|20]] straipsnių ir V skyriaus pakeitimo [[latest/e2a792b0b51e11e98451fa7b5933515d|įstatymo Nr. XIII-2377]] [[#^s-cbec23a8512cac214b0c1526|1]], [[#^s-30e7b059739e612a76229017|4]] ir [[#^s-55763f23e592c74a12cc57e1|6]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2761, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00045
-Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 2 ir [[#^s-61f9bdc6174dd028adb88528|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 [[#^s-c9ecd0f33b04c18958dc8b50|2]] ir [[#^s-61f9bdc6174dd028adb88528|24]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2951, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11075
-Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 2 ir [[#^s-61f9bdc6174dd028adb88528|24 straipsnių]] pakeitimo [[latest/b6cf40402df311eabe008ea93139d588|įstatymo Nr. XIII-2761]] [[#^s-06df6fa8cbef342136a49876|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 [[#^s-c9ecd0f33b04c18958dc8b50|2]] ir [[#^s-61f9bdc6174dd028adb88528|24]] straipsnių pakeitimo [[latest/b6cf40402df311eabe008ea93139d588|įstatymo Nr. XIII-2761]] [[#^s-06df6fa8cbef342136a49876|3 straipsnio]] pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -992,22 +992,22 @@ Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1489, 2022-11-03, paskelbta TAR 2022-11-15, i. k. 2022-22951
-Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 2, 24, 25, 26 ir [[#^s-8dc4b71d2df081d9864f571e|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 [[#^s-c9ecd0f33b04c18958dc8b50|2]], [[#^s-61f9bdc6174dd028adb88528|24]], [[#^s-e95646d131de1ae654f047f3|25]], [[#^s-2e81d4514e0fc73c4427c8a1|26]] ir [[#^s-8dc4b71d2df081d9864f571e|27]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT10-N1/2024, 2024-01-24, paskelbta TAR 2024-01-24, i. k. 2024-01136
-Dėl [[#^s-f95546308cd074015a5a6500|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 13 straipsnio]] (2019 m. gruodžio 17 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo 13 straipsnio (2019 m. gruodžio 17 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/9762dd30bac011eea5a28c81c82193a8)
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2614, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08906
-Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 9 ir [[#^s-166d643aaae9425bb8aa85cf|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 [[#^s-43e4f4561ace2d57f24eddcc|9]] ir [[#^s-166d643aaae9425bb8aa85cf|12]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2797, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12617
-Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 13 ir [[#^s-2e81d4514e0fc73c4427c8a1|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo Nr. I-1562 [[#^s-f95546308cd074015a5a6500|13]] ir [[#^s-2e81d4514e0fc73c4427c8a1|26]] straipsnių pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas

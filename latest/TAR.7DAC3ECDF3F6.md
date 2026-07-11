@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-a298567f2a7bb8938694d5a1
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. lapkričio 8 d. dekretą Nr. 447, ratifikuoja 2004 m. spalio 21 d. Liuksemburge pasirašytą Lietuvos Respublikos ir Estijos Respublikos sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. lapkričio 8 d. dekretą Nr. 447](https://e-tar.lt/portal/lt/legalAct/TAR.8499F2330A9E), ratifikuoja 2004 m. spalio 21 d. Liuksemburge pasirašytą Lietuvos Respublikos ir Estijos Respublikos sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
 
 
 

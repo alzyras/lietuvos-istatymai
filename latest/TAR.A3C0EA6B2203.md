@@ -676,7 +676,7 @@ Nr. XIII-2521, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19122
 2. Matavimo priemonės, nepatenkančios į techninių reglamentų taikymo sritį, teisinį metrologinį patvirtinimą sudaro matavimo priemonės tipo įvertinimas ir patvirtinimas, matavimo priemonės patikra (pirminė, periodinė, neeilinė) ir kiti metrologijos srities teisės aktuose nustatyti veiksmai. ^s-adc88032e57440b584751c31
 
 
-3. Fiziniai ir juridiniai asmenys, jų filialai, padaliniai, kurie patiekia ir tiekia rinkai, įrengia ir naudoja matavimo priemones, kurios yra teisinio metrologinio reglamentavimo objektai, yra atsakingi už tai, kad būtų laiku atliktas šio straipsnio 1 ir [[#^s-adc88032e57440b584751c31|2 dalyse]] nustatytas teisinis metrologinis patvirtinimas. ^s-6f3b5e25c4a2f9643792a35c
+3. Fiziniai ir juridiniai asmenys, jų filialai, padaliniai, kurie patiekia ir tiekia rinkai, įrengia ir naudoja matavimo priemones, kurios yra teisinio metrologinio reglamentavimo objektai, yra atsakingi už tai, kad būtų laiku atliktas šio straipsnio [[#^s-c3a8d0026d3856cfd2fcf0cc|1]] ir [[#^s-adc88032e57440b584751c31|2]] dalyse nustatytas teisinis metrologinis patvirtinimas. ^s-6f3b5e25c4a2f9643792a35c
 
 
 
@@ -690,13 +690,13 @@ Nr. XIII-2521, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19122
 
 
 3. Už metrologijos sritį atsakingas ministras nustato į techninių reglamentų taikymo sritį nepatenkančių matavimo priemonių tipo įvertinimo ir patvirtinimo, matavimo priemonių tipo patvirtinimo galiojimo pratęsimo ir matavimo priemonių tipo patvirtinimo galiojimo panaikinimo tvarką. Matavimo priemonių, nepatenkančių į techninių reglamentų taikymo sritį, tipus tvirtina Lietuvos Respublikos Vyriausybės įgaliota institucija. ^s-e535a0ff74a5f6925b0e908d
-TAR pastaba. [[#^s-e535a0ff74a5f6925b0e908d|3 dalis]] įsigalioja 2018-11-01.
+TAR pastaba. 3 dalis įsigalioja 2018-11-01.
 
 
 4. Matavimo priemonės, nepatenkančios į techninių reglamentų taikymo sritį, tipo patvirtinimas, kuris yra atliktas kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje pagal šių valstybių nacionalinės teisės aktų reikalavimus, yra Lietuvos Respublikoje pripažįstamas už metrologijos sritį atsakingo ministro tvirtinamose matavimo priemonių teisinio metrologinio reglamentavimo taisyklėse nustatyta tvarka. ^s-235cf1726cfea8fdcbfa4783
 
 
-5. Lietuvos Respublikoje patvirtintas matavimo priemonės tipas, taip pat [[#^s-235cf1726cfea8fdcbfa4783|šio straipsnio 4 dalyje]] nurodytos matavimo priemonės, nepatenkančios į techninių reglamentų taikymo sritį, tipas, kurio patvirtinimas yra atliktas kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje pagal šių valstybių nacionalinės teisės aktų reikalavimus ir pripažintas Lietuvos Respublikoje, įrašomas į Lietuvos matavimo priemonių informacinę sistemą. Lietuvos matavimo priemonių informacinėje sistemoje tvarkomi matavimo priemonių duomenys, išskyrus asmens duomenis, yra vieši. Lietuvos matavimo priemonių informacinėje sistemoje tvarkomi matavimo priemonių duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) [[#^s-18f301a15431b56072fe6b66|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-59cbb53dd0b311e191bf9e2f|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-0f4897f21dd34a2497033ef4
+5. Lietuvos Respublikoje patvirtintas matavimo priemonės tipas, taip pat [[#^s-235cf1726cfea8fdcbfa4783|šio straipsnio 4 dalyje]] nurodytos matavimo priemonės, nepatenkančios į techninių reglamentų taikymo sritį, tipas, kurio patvirtinimas yra atliktas kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje pagal šių valstybių nacionalinės teisės aktų reikalavimus ir pripažintas Lietuvos Respublikoje, įrašomas į Lietuvos matavimo priemonių informacinę sistemą. Lietuvos matavimo priemonių informacinėje sistemoje tvarkomi matavimo priemonių duomenys, išskyrus asmens duomenis, yra vieši. Lietuvos matavimo priemonių informacinėje sistemoje tvarkomi matavimo priemonių duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) [[#^s-18f301a15431b56072fe6b66|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-59cbb53dd0b311e191bf9e2f|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-0f4897f21dd34a2497033ef4
 Straipsnio dalies pakeitimai:
 Nr. XV-563, 2025-11-20, paskelbta TAR 2025-11-28, i. k. 2025-20143
 
@@ -781,15 +781,15 @@ MATAVIMO PRIEMONĖMS, FASUOTOMS PREKĖMS IR MATAVIMO INDAMS TAIKOMI BENDRIEJI RE
 2) matavimo priemonės, kurios nepatenka į techninių reglamentų taikymo sritis, yra pažymėtos žymenimis ir (arba) ženklais ir (arba) turi dokumentus, patvirtinančius Lietuvos Respublikoje arba kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje atliktą matavimo priemonės tipo įvertinimą ir patvirtinimą, išskyrus metrologijos srities teisės aktuose numatytus atvejus, kai matavimo priemonės tipo įvertinimo ir patvirtinimo procedūra gali būti neatliekama, ir pirminę patikrą, kurie yra atlikti pagal Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės nacionalinės teisės aktų reikalavimus. Šiame punkte nustatyti reikalavimai netaikomi, kai dėl ne Europos Sąjungos valstybėje narėje ar ne Europos ekonominės erdvės valstybėje išduotų matavimo priemonių tipo patvirtinimo sertifikatų ir žymenų pripažinimo yra sudaryta Lietuvos Respublikos tarptautinė sutartis arba tarptautinis susitarimas – šiuo atveju ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių gamintojų matavimo priemonės pateikiamos rinkai ir pradedamos naudoti šios tarptautinės sutarties arba tarptautinio susitarimo pagrindu. ^s-bed8f7f598c79441e0e5f410
 
 
-4. Kai matavimo priemonė yra per maža arba per jautri, kad ant jos galėtų būti pritvirtinti šio straipsnio 1, 2 ir [[#^s-871dbe834612fddf4a742930|3 dalyse]] nurodyti žymenys ir (arba) ženklai, jie turi būti ant matavimo priemonės pakuotės, jeigu ši yra, ir pateikti prie matavimo priemonės pridedamuose dokumentuose. ^s-0b83a63df952a91b1827274e
+4. Kai matavimo priemonė yra per maža arba per jautri, kad ant jos galėtų būti pritvirtinti šio straipsnio [[#^s-5342a7582f75803d3c837994|1]], [[#^s-928a06bfad586276300899a4|2]] ir [[#^s-871dbe834612fddf4a742930|3]] dalyse nurodyti žymenys ir (arba) ženklai, jie turi būti ant matavimo priemonės pakuotės, jeigu ši yra, ir pateikti prie matavimo priemonės pridedamuose dokumentuose. ^s-0b83a63df952a91b1827274e
 
 
 5. Už metrologijos sritį atsakingas ministras nustato į techninių reglamentų taikymo sritį nepatenkančioms matavimo priemonėms, kurias ketinama pateikti, tiekti Lietuvos Respublikos rinkai ir (arba) pradėti naudoti, taikomus metrologinius reikalavimus, vadovaudamasis tarptautiniais norminiais dokumentais, darniaisiais standartais ir juose nustatytais metrologiniais reikalavimais. ^s-5972f55dac0eb2ceec82f560
-TAR pastaba. [[#^s-5972f55dac0eb2ceec82f560|5 dalis]] įsigalioja 2018-11-01.
+TAR pastaba. 5 dalis įsigalioja 2018-11-01.
 
 
 6. Tais atvejais, kai konkrečiai matavimo priemonei nėra parengta darniųjų standartų ar tarptautinių norminių dokumentų, šiai matavimo priemonei taikomus metrologinius reikalavimus už metrologijos sritį atsakingas ministras nustato atsižvelgdamas į tai matavimo sričiai priskirtoms matavimo priemonėms taikomus arba atskirų matavimo priemonių naudojimo sąlygas reglamentuojančiuose Lietuvos Respublikos teisės aktuose nustatytus reikalavimus. Nustatant matavimo priemonių, kurioms nėra parengta darniųjų standartų ar tarptautinių norminių dokumentų, metrologinius reikalavimus, turi būti siekiama įgyvendinti šiame įstatyme nustatytus metrologinio laidavimo uždavinius. ^s-d03fb71b539a63d6e76143a3
-TAR pastaba. [[#^s-d03fb71b539a63d6e76143a3|6 dalis]] įsigalioja 2018-11-01.
+TAR pastaba. 6 dalis įsigalioja 2018-11-01.
 
 
 7. Techninių reglamentų arba [[#^s-5972f55dac0eb2ceec82f560|šio straipsnio 5 dalyje]] nurodytų teisės aktų reikalavimų neatitinkančios matavimo priemonės gali būti rodomos ir viešai pristatomos prekybos mugėse, parodose, jeigu yra matomas ženklas, aiškiai nurodantis, kad jos neatitinka nustatytų reikalavimų ir tai, kad jos negali būti pateiktos rinkai ir pradėtos naudoti tol, kol nebus patvirtinta jų atitiktis techninių reglamentų arba [[#^s-5972f55dac0eb2ceec82f560|šio straipsnio 5 dalyje]] nurodytų teisės aktų reikalavimams. ^s-e199a95896e3eb06fd66bc23
@@ -945,7 +945,7 @@ PASKIRTŲJŲ ĮSTAIGŲ VEIKLOS LICENCIJAVIMAS IR PRIEŽIŪRA
 1. Juridinis asmuo, jo filialas, padalinys, siekiantis tapti paskirtąja įstaiga ir įgyti teisę atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus, kreipiasi į Lietuvos Respublikos Vyriausybės įgaliotą instituciją pateikdamas užpildytą už metrologijos sritį atsakingo ministro patvirtintos formos prašymą dėl paskyrimo atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus (toliau – prašymas) ir kitus dokumentus, kurių pagrindu vertinama juridinio asmens, jo filialo, padalinio atitiktis šio įstatymo [[#^s-7beb4189841a57843350e4bf|10 straipsnyje]] nustatytiems reikalavimams ir galimybė užtikrinti šio įstatymo [[#^s-3fb20c4c26742d74ff158928|11 straipsnyje]] nustatytų paskirtųjų įstaigų veiklai taikomų reikalavimų vykdymą (toliau – kiti dokumentai). Kitų dokumentų sąrašą, šių dokumentų ir prašymo pateikimo būdą ir tvarką, taip pat keičiant paskyrimo sritis [[#^s-b5ec784e389c9afa2348dc4b|šio straipsnio 9 dalyje]] nurodytais atvejais pateikiamų dokumentų sąrašą nustato už metrologijos sritį atsakingas ministras. ^s-2ead6653a1d9f27b5ad46252
 
 
-11. Paskirtoji įstaiga, kuriai buvo panaikinta teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus šio įstatymo [[#^s-8bafdd67d1ff4497da22e1dd|30 straipsnio 1 dalies]] 2, 3, 4, 6 ir 7 punktuose nurodytais pagrindais, vadovaudamasi [[#^s-2ead6653a1d9f27b5ad46252|šio straipsnio 1 dalyje]] nustatyta tvarka, pakartotinai gali kreiptis dėl šios teisės suteikimo ne anksčiau kaip po vienų metų nuo teisės atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus panaikinimo dienos. Šioje dalyje nurodytas vienų metų laikotarpis gali būti netaikomas, jeigu juridinis asmuo, jo filialas, padalinys, siekiantis įgyti teisę atlikti patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus, atitinka šio įstatymo [[#^s-7beb4189841a57843350e4bf|10 straipsnio]] 1, 3 ar [[#^s-e3f22ec2e40cb37c45c4619e|4 dalies]] reikalavimus būti akredituotas kaip kontrolės įstaiga ir (arba) kaip bandymų laboratorija. Minėtu atveju šio įstatymo [[#^s-3e6c953ba0a371d669bcec49|10 straipsnio 1 dalyje]] nurodyta [[#^s-fdd09b69ff83e6e85be46351|10 straipsnio 5 dalies]] išimtis netaikoma. ^s-ac97c4add44a8b1b3bd311c3
+11. Paskirtoji įstaiga, kuriai buvo panaikinta teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus šio įstatymo [[#^s-8bafdd67d1ff4497da22e1dd|30 straipsnio 1 dalies]] [[#^s-d46bd78fc6514f0ee7947e8f|2]], [[#^s-6198b06cf508da54fd280e94|3]], [[#^s-e941b650a26f55d0d04c8360|4]], [[#^s-7e7e08f85ecd5dcfd69e85df|6]] ir [[#^s-6ebf89abb804cc9483581ada|7]] punktuose nurodytais pagrindais, vadovaudamasi [[#^s-2ead6653a1d9f27b5ad46252|šio straipsnio 1 dalyje]] nustatyta tvarka, pakartotinai gali kreiptis dėl šios teisės suteikimo ne anksčiau kaip po vienų metų nuo teisės atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus panaikinimo dienos. Šioje dalyje nurodytas vienų metų laikotarpis gali būti netaikomas, jeigu juridinis asmuo, jo filialas, padalinys, siekiantis įgyti teisę atlikti patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus, atitinka šio įstatymo [[#^s-7beb4189841a57843350e4bf|10 straipsnio]] [[#^s-3e6c953ba0a371d669bcec49|1]], [[#^s-f04f49be01b8afd6d8c205d7|3]] ar [[#^s-e5759f6be2ae91cc60582072|4]] dalies reikalavimus būti akredituotas kaip kontrolės įstaiga ir (arba) kaip bandymų laboratorija. Minėtu atveju šio įstatymo [[#^s-3e6c953ba0a371d669bcec49|10 straipsnio 1 dalyje]] nurodyta [[#^s-fdd09b69ff83e6e85be46351|10 straipsnio 5 dalies]] išimtis netaikoma. ^s-ac97c4add44a8b1b3bd311c3
 Papildyta straipsnio dalimi:
 Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 
@@ -963,7 +963,7 @@ Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 4. Paaiškėjus, kad paskirtosios įstaigos prašyme ir (arba) kituose dokumentuose pateikta netiksli, neišsami informacija, klaidingi duomenys ar yra redakcinio pobūdžio neatitikimų, Lietuvos Respublikos Vyriausybės įgaliota institucija šiame prašyme nurodytu būdu kreipiasi į įstaigą dėl papildomos informacijos suteikimo (informacijos patikslinimo) ir nurodo ne trumpesnį kaip 5 darbo dienų terminą nuo kreipimosi į šią įstaigą dienos minėtiems trūkumams pašalinti. ^s-e3f22ec2e40cb37c45c4619e
 
 
-5. Juridinis asmuo, jo filialas, padalinys, šio įstatymo [[#^s-7beb4189841a57843350e4bf|10 straipsnio]] 1, 3 ir [[#^s-e3f22ec2e40cb37c45c4619e|4 dalyse]] numatytais atvejais savo kompetenciją įrodęs akreditavimo būdu, įgyja teisę atlikti patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus prašyme nurodytoje paskyrimo srityje (srityse) neterminuotam laikui. ^s-d5df98e729ecf34e64af2d76
+5. Juridinis asmuo, jo filialas, padalinys, šio įstatymo [[#^s-7beb4189841a57843350e4bf|10 straipsnio]] [[#^s-3e6c953ba0a371d669bcec49|1]], [[#^s-f04f49be01b8afd6d8c205d7|3]] ir [[#^s-e5759f6be2ae91cc60582072|4]] dalyse numatytais atvejais savo kompetenciją įrodęs akreditavimo būdu, įgyja teisę atlikti patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus prašyme nurodytoje paskyrimo srityje (srityse) neterminuotam laikui. ^s-d5df98e729ecf34e64af2d76
 
 
 6. Juridinis asmuo, jo filialas, padalinys, šio įstatymo [[#^s-2eb56424c9575d9bfa2fe05d|10 straipsnio 2 dalyje]] nurodytu atveju įrodęs savo kompetenciją kitu negu akreditavimas būdu, įgyja teisę atlikti matavimo priemonės tipo įvertinimą neterminuotam laikui. ^s-de6c301749d2a6c4d3800ca1
@@ -1107,7 +1107,7 @@ Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
 3. Apie paskirtosios įstaigos teisės atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus panaikinimą Lietuvos Respublikos Vyriausybės įgaliota institucija prašyme nurodytu būdu informuoja paskirtąją įstaigą kitą darbo dieną po [[#^s-9a3d6ac8f29cc97b6098c0bb|šio straipsnio 2 dalyje]] nurodyto sprendimo priėmimo dienos. ^s-97bb73d8f2690b6d835c53de
 
 
-4. Paskirtosios įstaigos, kuri pasibaigia kitu negu likvidavimas įstatymuose nustatytu pagrindu, teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus nepanaikinama, tačiau ši įstaiga, laikydamasi šio įstatymo [[#^s-7ee8cc4e31b07de847fc1d17|11 straipsnio 11 punkte]] nustatytų reikalavimų, Lietuvos Respublikos Vyriausybės įgaliotai institucijai raštu arba elektroninių ryšių priemonėmis teikia informaciją apie visus veiklos pokyčius ir kitą su vykdoma veikla susijusią informaciją, kuri turi arba gali turėti esminę įtaką jos, kaip paskirtosios įstaigos, teisės vykdyti veiklą paskyrimo srityje galiojimui. ^s-dc4054126dad1897221015b3
+4. Paskirtosios įstaigos, kuri pasibaigia kitu negu likvidavimas įstatymuose nustatytu pagrindu, teisė atlikti tipo įvertinimą, patikrą, kontrolės sistemos įvertinimą ir (arba) patikrinimus nepanaikinama, tačiau ši įstaiga, laikydamasi šio įstatymo 11 straipsnio 11 punkte nustatytų reikalavimų, Lietuvos Respublikos Vyriausybės įgaliotai institucijai raštu arba elektroninių ryšių priemonėmis teikia informaciją apie visus veiklos pokyčius ir kitą su vykdoma veikla susijusią informaciją, kuri turi arba gali turėti esminę įtaką jos, kaip paskirtosios įstaigos, teisės vykdyti veiklą paskyrimo srityje galiojimui. ^s-dc4054126dad1897221015b3
 
 
 
@@ -1119,7 +1119,7 @@ FINANSAVIMAS
 ### 31 straipsnis. Finansavimas ^s-8132264e8436a80ae6667e42
 
 
-Šio įstatymo [[#^s-7345ccc1bd59e06d4c82de1c|9 straipsnio]] 4 ir 5 dalyse nustatyta veikla yra finansuojama iš valstybės biudžeto asignavimų ir (arba) kitų lėšų.
+Šio įstatymo [[#^s-7345ccc1bd59e06d4c82de1c|9 straipsnio]] [[#^s-e10a07abb085895ab55531ee|4]] ir [[#^s-52bb82e8edc9361c8bcd4fd9|5]] dalyse nustatyta veikla yra finansuojama iš valstybės biudžeto asignavimų ir (arba) kitų lėšų.
 
 
 Straipsnio pakeitimai:
@@ -1340,7 +1340,7 @@ Nr. XV-901, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08231
 
 
 
-3. Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimas skirti sankciją – baudą yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] ir Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-703084e4d37c8c6cc50565bb
+3. Lietuvos Respublikos Vyriausybės įgaliotos institucijos nutarimas skirti sankciją – baudą yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] ir [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-703084e4d37c8c6cc50565bb
 Straipsnio dalies pakeitimai:
 Nr. XV-901, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08231
 
@@ -1374,19 +1374,19 @@ priedas
 1. 1974 m. gruodžio 19 d. Tarybos direktyva 75/107/EEB dėl valstybių narių įstatymų, susijusių su butelių, naudojamų kaip matavimo talpos, suderinimo. ^s-7a852486a5a99c788b49ff80
 
 
-2. 1976 m. sausio 20 d. Tarybos direktyva 76/211/EEB dėl valstybių narių įstatymų, susijusių su tam tikrų fasuotų produktų komplektavimu pagal masę arba tūrį, suderinimo su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243. ^s-9ee6448c2854c6a3e063a4a1
+2. 1976 m. sausio 20 d. Tarybos direktyva 76/211/EEB dėl valstybių narių įstatymų, susijusių su tam tikrų fasuotų produktų komplektavimu pagal masę arba tūrį, suderinimo su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/1243](https://eur-lex.europa.eu/eli/reg/2019/1243/oj). ^s-9ee6448c2854c6a3e063a4a1
 
 
-3. 1979 m. gruodžio 20 d. Tarybos direktyva 80/181/EEB dėl valstybių narių įstatymų, susijusių su matavimo vienetais, suderinimo ir Direktyvos 71/354/EEB panaikinimo su paskutiniais pakeitimais, padarytais 2019 m. liepos 23 d. Komisijos direktyva (ES) 2019/1258. ^s-8c866df400c9fc0229fbed4b
+3. 1979 m. gruodžio 20 d. Tarybos direktyva 80/181/EEB dėl valstybių narių įstatymų, susijusių su matavimo vienetais, suderinimo ir Direktyvos 71/354/EEB panaikinimo su paskutiniais pakeitimais, padarytais 2019 m. liepos 23 d. Komisijos [direktyva (ES) 2019/1258](https://eur-lex.europa.eu/eli/dir/2019/1258/oj). ^s-8c866df400c9fc0229fbed4b
 
 
 4. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/31/ES dėl valstybių narių įstatymų, susijusių su neautomatinių svarstyklių tiekimu rinkai, suderinimo. ^s-b12370456e08c78fce53ca01
 
 
-5. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/32/ES dėl valstybių narių įstatymų, susijusių su matavimo priemonių tiekimu rinkai, suderinimo su paskutiniais pakeitimais, padarytais 2014 m. spalio 31 d. Komisijos deleguotąja direktyva (ES) 2015/13. ^s-cbb8e8dbd1661aec70214465
+5. 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/32/ES dėl valstybių narių įstatymų, susijusių su matavimo priemonių tiekimu rinkai, suderinimo su paskutiniais pakeitimais, padarytais 2014 m. spalio 31 d. Komisijos deleguotąja [direktyva (ES) 2015/13](https://eur-lex.europa.eu/eli/dir/2015/13/oj). ^s-cbb8e8dbd1661aec70214465
 
 
-6. 2016 m. kovo 18 d. Komisijos įgyvendinimo reglamentas (ES) 2016/799, kuriuo įgyvendinamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 ir nustatomi tachografų ir jų komponentų konstrukcijos, bandymo, įrengimo, naudojimo ir remonto reikalavimai, su paskutiniais pakeitimais, padarytais 2020 m. vasario 5 d. Komisijos įgyvendinimo reglamentu (ES) 2020/158. ^s-3affc8d3fcf9ec22c3fe1213
+6. 2016 m. kovo 18 d. Komisijos įgyvendinimo [reglamentas (ES) 2016/799](https://eur-lex.europa.eu/eli/reg/2016/799/oj), kuriuo įgyvendinamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 165/2014 ir nustatomi tachografų ir jų komponentų konstrukcijos, bandymo, įrengimo, naudojimo ir remonto reikalavimai, su paskutiniais pakeitimais, padarytais 2020 m. vasario 5 d. Komisijos įgyvendinimo [reglamentu (ES) 2020/158](https://eur-lex.europa.eu/eli/reg/2020/158/oj). ^s-3affc8d3fcf9ec22c3fe1213
 
 
 ________________
@@ -1419,12 +1419,12 @@ Nr. XII-697, 2013-12-19, paskelbta TAR 2014-01-03, i. k. 2014-00019
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-948, 2014-06-12, paskelbta TAR 2014-06-19, i. k. 2014-07823
-[[#^s-d7fb8cb138f1d2e4a6a90a72|Lietuvos Respublikos metrologijos įstatymo 1, 2, 6, 7, 8, 9, 10, 12, 15, 18, 19, 22, [[#^s-d7fb8cb138f1d2e4a6a90a72\|23 straipsnių]]]] pakeitimo ir papildymo [[latest/95b6e080747611e3b675ad30753d4b1b|įstatymo Nr. XII-697]] [[#^s-7345ccc1bd59e06d4c82de1c|9 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos metrologijos įstatymo [[#^s-3e083e7705555a52036cc576|1]], [[#^s-696b19e6b710b0a7088825b4|2]], [[#^s-59cbb53dd0b311e191bf9e2f|6]], [[#^s-14b12b9ea4a7771bdec8637c|7]], [[#^s-c98b078d2e5a2ec7483f466f|8]], [[#^s-7345ccc1bd59e06d4c82de1c|9]], [[#^s-7beb4189841a57843350e4bf|10]], [[#^s-b91210af94b0f40bce1a3162|12]], [[#^s-c73388bd99f38594488c3b91|15]], [[#^s-18b9104b0961cddbc3ff8463|18]], [[#^s-874136253c8bd743283b9bbd|19]], [[#^s-f59be694f817ce1315eaa0cb|22]], [[#^s-d7fb8cb138f1d2e4a6a90a72|23]] straipsnių pakeitimo ir papildymo [[latest/95b6e080747611e3b675ad30753d4b1b|įstatymo Nr. XII-697]] [[#^s-7345ccc1bd59e06d4c82de1c|9 straipsnio]] pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2323, 2016-04-21, paskelbta TAR 2016-04-26, i. k. 2016-10427
-Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 2, 9, [[#^s-b91210af94b0f40bce1a3162|12 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 [[#^s-696b19e6b710b0a7088825b4|2]], [[#^s-7345ccc1bd59e06d4c82de1c|9]], [[#^s-b91210af94b0f40bce1a3162|12]] straipsnių ir priedo pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1434,12 +1434,12 @@ Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 pakeitimo įstatymas
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2521, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19122
-Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 1, 16, 26, [[#^s-8132264e8436a80ae6667e42|31 straipsnių]], devintojo skirsnio ir priedo pakeitimo įstatymas
+Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 [[#^s-3e083e7705555a52036cc576|1]], [[#^s-66b4910d57316d0dd1f539f5|16]], [[#^s-beb9f3d74d8e3c8f8a6c159f|26]], [[#^s-8132264e8436a80ae6667e42|31]] straipsnių, devintojo skirsnio ir priedo pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1912, 2023-04-27, paskelbta TAR 2023-05-05, i. k. 2023-08616
-Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 2, 25, 26, 27, 28, 29, 30, [[#^s-cea984b149fe4ad6d2635216|38 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 [[#^s-696b19e6b710b0a7088825b4|2]], [[#^s-d7de134cf92941578e5f6a1c|25]], [[#^s-beb9f3d74d8e3c8f8a6c159f|26]], [[#^s-0124aaf81f71634aece06d4d|27]], [[#^s-80b62e8dd3022a09aa58ee84|28]], [[#^s-587ff5bb02f7997a18ddff80|29]], [[#^s-add5e56dd3d9caa9970beb25|30]], [[#^s-cea984b149fe4ad6d2635216|38]] straipsnių ir priedo pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1449,4 +1449,4 @@ Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 [[#^s-cea984b149fe4ad6d26
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-563, 2025-11-20, paskelbta TAR 2025-11-28, i. k. 2025-20143
-Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 9, 18, 30 ir [[#^s-104c378e3908990836b67812|36 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 [[#^s-7345ccc1bd59e06d4c82de1c|9]], [[#^s-18b9104b0961cddbc3ff8463|18]], [[#^s-add5e56dd3d9caa9970beb25|30]] ir [[#^s-104c378e3908990836b67812|36]] straipsnių pakeitimo įstatymas

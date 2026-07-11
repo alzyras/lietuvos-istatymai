@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-39c0da163ead39289b1aa9ac
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2008 m. kovo 12 d. dekretą Nr. 1K-1273, ratifikuoja 2007 m. rugpjūčio 24 d. Taline pasirašytą Lietuvos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės susitarimą dėl draudimo stažo, įgyto buvusios SSRS teritorijoje, įskaitymo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2008 m. kovo 12 d. dekretą Nr. 1K-1273](https://e-tar.lt/portal/lt/legalAct/TAR.17262CFCF21A), ratifikuoja 2007 m. rugpjūčio 24 d. Taline pasirašytą Lietuvos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės susitarimą dėl draudimo stažo, įgyto buvusios SSRS teritorijoje, įskaitymo.
 
 
 

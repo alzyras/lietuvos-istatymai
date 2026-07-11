@@ -171,7 +171,7 @@ Papildyti Įstatymą 90 straipsniu:
 ### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-9f61160ee964f24048e61967
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-43e4e0b8ec21d9c3c9aeb02b|3 dalis]], įsigalioja 2013 m. rugpjūčio 20 d. ^s-77c39245bd77dd0186169081
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-def9fd7afaa46345c3d97463|2]] ir [[#^s-43e4e0b8ec21d9c3c9aeb02b|3]] dalis, įsigalioja 2013 m. rugpjūčio 20 d. ^s-77c39245bd77dd0186169081
 
 
 2. Lietuvos Respublikos susisiekimo ministerija, Lietuvos Respublikos socialinės apsaugos ir darbo ministerija ir Lietuvos Respublikos sveikatos apsaugos ministerija iki 2013 m. liepos 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-def9fd7afaa46345c3d97463

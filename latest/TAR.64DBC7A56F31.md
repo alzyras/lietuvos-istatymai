@@ -109,7 +109,7 @@ Nr. XI-647, 2010-01-14, Žin., 2010, Nr. 13-615 (2010-02-02), i. k. [[latest/TAR
 „8. Iš Lietuvos Respublikos eksportuojami sprogmenys gali būti neženklinami unikaliu atpažinties žymeniu, jeigu pagal importuojančios šalies reikalavimus jie yra paženklinti kitokiu atpažinties žymeniu, leidžiančiu atpažinti sprogmenis ir atsekti jų judėjimą.“
 
 
-5. Buvusias [[#^s-43b64e02f21325dc1d7c2511|9 straipsnio]] 5, 6, [[#^s-42c0a1c3578efbf076c24612|7 dalis]] laikyti atitinkamai 9, 10, 11 dalimis. ^s-6e8013cfe0067c36c873c2bf
+5. Buvusias [[#^s-43b64e02f21325dc1d7c2511|9 straipsnio]] 5, 6, 7 dalis laikyti atitinkamai 9, 10, 11 dalimis. ^s-6e8013cfe0067c36c873c2bf
 
 
 6. Pakeisti 9 straipsnio 9 dalį ir ją išdėstyti taip: ^s-decac6f42d573be558ecd957
@@ -203,7 +203,7 @@ Vyriausybė per tris mėnesius nuo įstatymo įsigaliojimo dienos parengia ir pa
 ### 10 straipsnis. Įstatymo įsigaliojimas ^s-d3b41d6de9ab4f3dd2a2c06e
 
 
-Šis įstatymas, išskyrus 2 ir [[#^s-43b64e02f21325dc1d7c2511|9 straipsnius]], įsigalioja nuo 2012 m. balandžio 5 d.
+Šis įstatymas, išskyrus [[#^s-bc5fa61765e5564c2bb09b5e|2]] ir [[#^s-43b64e02f21325dc1d7c2511|9]] straipsnius, įsigalioja nuo 2012 m. balandžio 5 d.
 
 
 

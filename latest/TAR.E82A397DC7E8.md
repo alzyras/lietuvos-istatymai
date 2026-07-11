@@ -47,7 +47,7 @@ Vilnius
 „3. Gaudyklė – vieną ar kelias kameras turintis stacionarus žvejybos įrankis, pagamintas taip, kad žuvys į jį neįsipainiotų, o būtų nukreiptos į kameras, kuriose išliktų gyvybingos.“
 
 
-2. Buvusias [[#^s-c13bccd9746ca705885ce0b5|2 straipsnio]] 3, 4, [[#^s-467326b2d35e752f6804b038|5 dalis]] laikyti atitinkamai 4, 5, [[#^s-ba43a404806f27117984660f|6 dalimis]]. ^s-da26e9d432d4481615572dd1
+2. Buvusias [[#^s-c13bccd9746ca705885ce0b5|2 straipsnio]] 3, 4, 5 dalis laikyti atitinkamai 4, 5, 6 dalimis. ^s-da26e9d432d4481615572dd1
 
 
 3. Buvusią 2 straipsnio 6 dalį pripažinti netekusia galios. ^s-a42d457c6c8cf72902fec9fc

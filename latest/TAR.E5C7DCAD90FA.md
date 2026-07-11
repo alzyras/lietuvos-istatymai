@@ -164,7 +164,7 @@ Patvirtinti 2010 metų įmokas į valstybės biudžetą, skiriamas specialiosiom
 ### 9 straipsnis. Valstybės garantijų ir garantijų institucijų prisiimtų įsipareigojimų su valstybės garantija limitai ^s-2a25064a304c1184f7df55ea
 
 
-1. Nustatyti, kad 2010 metais valstybės garantijos gali būti teikiamos suteiktoms paskoloms su valstybės garantija grąžinti ir šio straipsnio 2, 3 ir [[#^s-70005ad1552e87261722668b|5 dalyse]] nurodytiems prisiimtiems įsipareigojimams užtikrinti. ^s-4d7cc11082578f5f67ff5d35
+1. Nustatyti, kad 2010 metais valstybės garantijos gali būti teikiamos suteiktoms paskoloms su valstybės garantija grąžinti ir šio straipsnio [[#^s-2c598ade8bc627f81e6c0aa0|2]], [[#^s-cb680299e4f900e5faa89bb6|3]] ir [[#^s-70005ad1552e87261722668b|5]] dalyse nurodytiems prisiimtiems įsipareigojimams užtikrinti. ^s-4d7cc11082578f5f67ff5d35
 
 
 2. Nustatyti, kad suteiktų garantijų pagal Lietuvos Respublikos finansinio tvarumo įstatymą suma negali viršyti 3 000 000 tūkst. litų. ^s-2c598ade8bc627f81e6c0aa0

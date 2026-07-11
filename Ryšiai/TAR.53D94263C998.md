@@ -14,5 +14,4 @@ pavadinimas: "Lietuvos Respublikos profesinių pensijų kaupimo įstatymo 2, 15,
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.103565D95E60#^s-d3ff53e5de2ea4163d0e6908|Lietuvos Respublikos profesinių pensijų kaupimo įstatymas]] - 2 citatos - PROFESINIŲ PENSIJŲ KAUPIMO ĮSTATYMO 2, 15, 16, 17, 18, 25, 26, 30, 33, 38, 47, 48, 49, 50 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.103565D95E60#^s-e5c94afc88538966b9a92ad4|Lietuvos Respublikos profesinių pensijų kaupimo įstatymas]] - 2 citatos - PROFESINIŲ PENSIJŲ KAUPIMO ĮSTATYMO 2, 15, 16, 17, 18, 25, 26, 30, 33, 38, 47, 48, 49, 50 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.103565D95E60#^s-d3ff53e5de2ea4163d0e6908|Lietuvos Respublikos profesinių pensijų kaupimo įstatymas]] - PROFESINIŲ PENSIJŲ KAUPIMO ĮSTATYMO 2, 15, 16, 17, 18, 25, 26, 30, 33, 38, 47, 48, 49, 50 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

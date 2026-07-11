@@ -111,7 +111,7 @@ Nr. XIV-2863, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12648
 10. Kūryba – kūrinių, kurie gali būti autorių teisių objektas, kūrimas ir turtinių teisių į savo sukurtus kūrinius perleidimas. ^s-88532d0debea731720cca9ac
 
 
-11. Išvestinės finansinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-bd957f5b69326a7887eb58d6|Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies]] 4, 5, 6, 7, 8, 9 ir 10 punktuose nurodytos finansinės priemonės. ^s-8e44fd4858d70acc66593a1d
+11. Išvestinės finansinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-bd957f5b69326a7887eb58d6|Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-b258a760911fb8393b8ac7ad|4]], [[latest/TAR.AB7AFE2F35B2#^s-edbf5c7a8a2d2a4e3c63aee5|5]], [[latest/TAR.AB7AFE2F35B2#^s-357c955097e415f25b66d1d0|6]], [[latest/TAR.AB7AFE2F35B2#^s-64e2a40f5e6bbb6b955b6e01|7]], [[latest/TAR.AB7AFE2F35B2#^s-1a34e1e984627529cfed9a64|8]], [[latest/TAR.AB7AFE2F35B2#^s-c9d7cea89611948f61e8185f|9]] ir [[latest/TAR.AB7AFE2F35B2#^s-e0d6a88ed5e696004aaeda0d|10]] punktuose nurodytos finansinės priemonės. ^s-8e44fd4858d70acc66593a1d
 Straipsnio dalies pakeitimai:
 Nr. XIV-2803, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12619
 Nr. XV-81, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23074
@@ -127,7 +127,7 @@ Nr. XV-81, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23074
 14. Pajamos – pozityviosios pajamos, priskiriamos Europos ekonominių interesų grupės pajamos, nutraukus gyvybės draudimo sutartis ar išstojus iš pensijų fondo grąžinamos įmokos (ar jų dalis), atlygis už atliktus darbus, suteiktas paslaugas, už perduotas ar suteiktas teises, už parduotą ar kitaip perleistą, investuotą turtą ar lėšas ir (arba) kita nauda pinigais ir (arba) natūra, išskyrus: ^s-b1d9097d480597ff13d2cf24
 
 
-1) dėl įstatinio kapitalo didinimo akcininkams proporcingai jų turimų akcijų skaičiui nemokamai išduotas akcijas arba anksčiau išleistų akcijų nominalios vertės padidinimo sumą, taip pat pajaus vertės ar dalies padidinimo sumą dėl pagrindinio kapitalo didinimo pajininkams ir nariams proporcingai jų turimai pajų vertei ar daliai, taip pat mažinant vieneto įstatinį kapitalą gaunamas lėšas (jų dalį) ir (arba) turtą (jo dalį), tenkančius įstatinio kapitalo, sudaryto iš vieneto dalyvių įnašų, sumažinimo daliai; ^s-8a829c80e1fa6acbf3ebefe1
+1) [dėl įstatinio kapitalo didinimo](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) akcininkams proporcingai jų turimų akcijų skaičiui nemokamai išduotas akcijas arba anksčiau išleistų akcijų nominalios vertės padidinimo sumą, taip pat pajaus vertės ar dalies padidinimo sumą dėl pagrindinio kapitalo didinimo pajininkams ir nariams proporcingai jų turimai pajų vertei ar daliai, taip pat mažinant vieneto įstatinį kapitalą gaunamas lėšas (jų dalį) ir (arba) turtą (jo dalį), tenkančius įstatinio kapitalo, sudaryto iš vieneto dalyvių įnašų, sumažinimo daliai; ^s-8a829c80e1fa6acbf3ebefe1
 
 
 2) nekilnojamąjį daiktą, susigrąžintą pagal Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą, bei atkurtas santaupas pagal Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymą; ^s-a15b536acfc014ac2964d0d2
@@ -166,14 +166,14 @@ Nr. XV-81, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23074
 3) pajamos, gautos už parduotą ar kitokiu būdu perleistą nuosavybėn kilnojamąjį daiktą, jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra (ar privalo būti) įregistruotas Lietuvoje, taip pat už nekilnojamąjį daiktą, esantį Lietuvoje, gautos pajamos; ^s-9132ed0db6a8f982080f3dec
 
 
-4) kitos šios dalies 1–[[#^s-9132ed0db6a8f982080f3dec|3 punktuose]] nenurodytos pajamos, gautos iš nuolatinių Lietuvos gyventojų, iš Lietuvos vienetų, iš užsienio vienetų per jų nuolatines buveines ir iš nenuolatinių Lietuvos gyventojų per jų nuolatines bazes, išskyrus nenuolatinių Lietuvos gyventojų iš veiklos užsienio valstybėse gautas pajamas. ^s-4d6854086744135587eff701
+4) kitos šios dalies [[#^s-8749d0aac97b74ac70f0e859|1]]–[[#^s-9132ed0db6a8f982080f3dec|3]] punktuose nenurodytos pajamos, gautos iš nuolatinių Lietuvos gyventojų, iš Lietuvos vienetų, iš užsienio vienetų per jų nuolatines buveines ir iš nenuolatinių Lietuvos gyventojų per jų nuolatines bazes, išskyrus nenuolatinių Lietuvos gyventojų iš veiklos užsienio valstybėse gautas pajamas. ^s-4d6854086744135587eff701
 
 
 17. Pajamos, kurių šaltinis yra ne Lietuvoje, – visos pajamos, išskyrus [[#^s-bf5cf9b0d785918b1ebfed7d|šio straipsnio 16 dalyje]] išvardytas pajamas. ^s-0b858da9bcdee159340184da
 
 
 18. Pozityviosios pajamos – kontroliuojamojo užsienio apmokestinamojo vieneto pajamos ar jų dalis, įskaitomos į nuolatinio Lietuvos gyventojo pajamas paskutinę kontroliuojamojo užsienio apmokestinamojo vieneto mokestinio laikotarpio dieną proporcingai šio nuolatinio Lietuvos gyventojo valdomų akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį arba išimtinių teisių jas įsigyti skaičiui šio Įstatymo [[#^s-cd7b4189897c13cfb37baf15|13 straipsnyje]] nustatyta tvarka. ^s-ddf1515edc99a8b3544d0248
-TAR pastaba. [[#^s-ddf1515edc99a8b3544d0248|18 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+TAR pastaba. 18 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
 
@@ -240,7 +240,7 @@ Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
 
 
 271. Kontroliuojamasis užsienio apmokestinamasis vienetas (toliau – kontroliuojamasis užsienio vienetas) – užsienio vienetas, kuriame nuolatinis Lietuvos gyventojas vienas arba kartu su susijusiais asmenimis paskutinę šio užsienio vieneto mokestinio laikotarpio dieną tiesiogiai ar netiesiogiai valdo daugiau kaip 50 procentų akcijų (dalių, pajų), balsavimo teisių ar teisių į paskirstytinojo pelno dalį arba išimtinių teisių jas įsigyti. ^s-f71b924236015fb13f40bd60
-TAR pastaba. [[#^s-f71b924236015fb13f40bd60|271 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+TAR pastaba. 271 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Papildyta straipsnio dalimi:
 Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
 
@@ -255,7 +255,7 @@ Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
 30. Nuolatinė gyvenamoji vieta – bet kokia vieta, kurioje fizinis asmuo turi galimybę gyventi ir kurią jis įkuria, išlaiko ir naudojasi. ^s-9841ee8117af1c9744f34e7a
 
 
-31. Darbo santykiai arba jų esmę atitinkantys santykiai – santykiai, kai darbas atliekamas pagal darbo sutartis, taip pat bet kokia kita veikla, vykdoma teisinių santykių, kurie iš esmės (susitarimu dėl darbo apmokėjimo sąlygų, darbo vietos ir funkcijų, darbo drausmės ir kt.) atitinka darbo sutarties sukuriamus darbdavio ir darbuotojo santykius, pagrindu. ^s-069a9c53e17174d37460268b
+31. Darbo santykiai arba jų esmę atitinkantys santykiai – santykiai, kai darbas atliekamas pagal darbo sutartis, taip pat bet kokia kita veikla, vykdoma teisinių santykių, kurie iš esmės (susitarimu [dėl darbo apmokėjimo](https://e-tar.lt/portal/lt/legalAct/TAR.ECC60056592E) sąlygų, darbo vietos ir funkcijų, darbo drausmės ir kt.) atitinka darbo sutarties sukuriamus darbdavio ir darbuotojo santykius, pagrindu. ^s-069a9c53e17174d37460268b
 
 
 32. Asocijuoti asmenys – asmenys (vienetai arba fiziniai asmenys), kai jie atitinka bent vieną iš šių kriterijų: ^s-3c31cc50f7a024e004f87ebf
@@ -352,14 +352,14 @@ Nr. XI-111, 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)
 4) fizinis asmuo, kuris Lietuvoje išbūva ištisai arba su pertraukomis 280 arba daugiau dienų vienas paskui kitą einančiais mokestiniais laikotarpiais ir viename iš šių mokestinių laikotarpių išbuvo Lietuvoje ištisai arba su pertraukomis 90 arba daugiau dienų, jei [[#^s-de1853070480be6cdb0f456a|šio straipsnio 3 dalyje]] nenustatyta kitaip. 90 ir 280 dienų laikotarpio apskaičiavimo taisykles nustato Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija, arba ^s-a3a91f7157f68ac46ae16d8e
 
 
-5) fizinis asmuo, kuris yra Lietuvos Respublikos pilietis ir neatitinka šios dalies 3 ir [[#^s-a3a91f7157f68ac46ae16d8e|4 punkto]] kriterijų, tačiau tokiam fiziniam asmeniui atlyginimas pagal darbo sutartį arba pagal jų esmę atitinkančias sutartis mokamas arba jo gyvenimo kitoje valstybėje išlaidos dengiamos iš Lietuvos valstybės arba savivaldybių biudžetų. ^s-46426a30a4dc862198d50462
+5) fizinis asmuo, kuris yra Lietuvos Respublikos pilietis ir neatitinka šios dalies [[#^s-a2394f450fbd7db6cc8c15af|3]] ir [[#^s-a3a91f7157f68ac46ae16d8e|4]] punkto kriterijų, tačiau tokiam fiziniam asmeniui atlyginimas pagal darbo sutartį arba pagal jų esmę atitinkančias sutartis mokamas arba jo gyvenimo kitoje valstybėje išlaidos dengiamos iš Lietuvos valstybės arba savivaldybių biudžetų. ^s-46426a30a4dc862198d50462
 
 
-2. Fizinis asmuo, nors ir atitinkantis [[#^s-b2032381e47b7d38578831b0|šio straipsnio 1 dalies]] 3, 4, 5 punktų nuostatas, nelaikomas nuolatiniu Lietuvos gyventoju, jei jis yra: ^s-dae3a42c46bf03e7941439ec
+2. Fizinis asmuo, nors ir atitinkantis [[#^s-b2032381e47b7d38578831b0|šio straipsnio 1 dalies]] [[#^s-cd1ace87f64ac83157dd4c8c|3]], 4, 5 punktų nuostatas, nelaikomas nuolatiniu Lietuvos gyventoju, jei jis yra: ^s-dae3a42c46bf03e7941439ec
 
 
 1) užsienio valstybės diplomatas, pagal tarptautinę teisę specialų statusą turinčio subjekto ar kito subjekto, su kuriuo Lietuvos Respublikos tarptautinis bendradarbiavimas atitinka Lietuvos Respublikos Seimo priimtuose teisės aktuose nustatytus užsienio politikos ir nacionalinio saugumo tikslus, atstovybės, akredituotos Lietuvos Respublikos Vyriausybės nustatyta tvarka, akredituotas narys, diplomatinės atstovybės, konsulinės įstaigos ar tarptautinės organizacijos atstovybės administracinio-techninio arba aptarnaujančiojo personalo narys, taip pat kartu su minėtų atstovybių nariais gyvenantys akredituoti šeimos nariai, jeigu šių atstovybių nariai ar kartu gyvenantys jų šeimos nariai yra ne Lietuvos Respublikos piliečiai (išskyrus asmenis be pilietybės, kurių nuolatinė gyvenamoji vieta arba asmeninių, socialinių ar ekonominių interesų buvimo vieta mokestiniu laikotarpiu yra Lietuvoje), arba ^s-e319bbf17236dcf05e93cedb
-TAR pastaba. [[#^s-e319bbf17236dcf05e93cedb|4 straipsnio 2 dalies 1 punkto]] nuostatos taikomos nuo 2022-07-01.
+TAR pastaba. 4 straipsnio 2 dalies 1 punkto nuostatos taikomos nuo 2022-07-01.
 Straipsnio punkto pakeitimai:
 Nr. XIV-994, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07159
 
@@ -527,10 +527,10 @@ Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 2) metinė pajamų dalis, viršijanti 60 VDU dydžio sumą, taikomą apdraustųjų asmenų einamųjų metų valstybinio socialinio draudimo įmokų bazei skaičiuoti, apmokestinama taikant 20 procentų pajamų mokesčio tarifą. ^s-3ccbb984e8fa21bd0745bec7
 
 
-10. Apskaičiuojant [[#^s-09bce2a3fac68f2b9b1cb0da|šio straipsnio 1 dalyje]] nurodytų metinių pajamų sumą, į ją neįtraukiamos šio straipsnio 6 ir [[#^s-06dead75a9a1e819b3b98745|9 dalyse]] nurodytos pajamos. ^s-53b9f4065ea7ea5c5defb0cd
+10. Apskaičiuojant [[#^s-09bce2a3fac68f2b9b1cb0da|šio straipsnio 1 dalyje]] nurodytų metinių pajamų sumą, į ją neįtraukiamos šio straipsnio [[#^s-3b15a0443995357c0808e832|6]] ir [[#^s-06dead75a9a1e819b3b98745|9]] dalyse nurodytos pajamos. ^s-53b9f4065ea7ea5c5defb0cd
 
 
-11. Apskaičiuojant metinei pajamų daliai pagal [[#^s-09bce2a3fac68f2b9b1cb0da|šio straipsnio 1 dalį]] taikomą pajamų mokesčio tarifą, į šią pajamų dalį pirmiausia įskaičiuojama metinė pajamų dalis, apmokestinama pagal šio straipsnio 2, 7 ir [[#^s-0a3c0c0bb1c46e21932dde6a|8 dalis]]. ^s-a67ccf0d6ac556d1eeb016a9
+11. Apskaičiuojant metinei pajamų daliai pagal [[#^s-09bce2a3fac68f2b9b1cb0da|šio straipsnio 1 dalį]] taikomą pajamų mokesčio tarifą, į šią pajamų dalį pirmiausia įskaičiuojama metinė pajamų dalis, apmokestinama pagal šio straipsnio [[#^s-d8196734f6ff862628d314f5|2]], [[#^s-6274055ba6b939b5a46368e2|7]] ir [[#^s-0a3c0c0bb1c46e21932dde6a|8]] dalis. ^s-a67ccf0d6ac556d1eeb016a9
 
 
 Straipsnio pakeitimai:
@@ -577,7 +577,7 @@ Nr. XIV-2803, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12619
 
 
 3. Mokestinio laikotarpio pozityviųjų pajamų gavimo momentu laikoma paskutinė kontroliuojamojo užsienio vieneto mokestinio laikotarpio diena. Jeigu kontroliuojamojo užsienio vieneto mokestinis laikotarpis nenustatomas, laikoma, kad kontroliuojamojo užsienio vieneto mokestinis laikotarpis sutampa su kalendoriniais metais. ^s-2a30b97b3d9b4f83c7eeffb5
-TAR pastaba. [[#^s-2a30b97b3d9b4f83c7eeffb5|3 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+TAR pastaba. 3 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
 
@@ -587,7 +587,7 @@ Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
 
 
 5. Gyventojo, kuris verčiasi individualia veikla ir yra įregistruotas pridėtinės vertės mokesčio mokėtoju arba savo individualiai veiklai priskiria ir joje naudoja ilgalaikį turtą, individualios veiklos pajamos pripažįstamos pagal kaupimo apskaitos principą. Kiti individualia veikla besiverčiantys gyventojai individualios veiklos pajamoms pripažinti kaupimo apskaitos principą gali taikyti savo pasirinkimu, laikydamiesi šioje dalyje nustatytų sąlygų. Kaupimo apskaitos principas pradedamas taikyti tuo mokestiniu laikotarpiu, kurį individualia veikla besiverčiantis gyventojas pasirenka individualios veiklos pajamas pripažinti pagal šį principą arba įregistruojamas pridėtinės vertės mokesčio mokėtoju, arba priskiria turtą individualiai veiklai. Individualia veikla besiverčiantys gyventojai, kurie vietoj pinigų apskaitos principo pradeda taikyti kaupimo apskaitos principą, į šio apskaitos principo taikymo metus pereinančias pirkėjų skolas į individualios veiklos pajamas įtraukia po šių skolų apmokėjimo, tačiau ne vėliau kaip per 3 metus nuo mokestinio laikotarpio, kurį buvo pereita prie kaupimo apskaitos principo, pradžios. Individualia veikla besiverčiantys gyventojai, pradėję taikyti kaupimo apskaitos principą, jį taiko iki veiklos pabaigos. ^s-e9d7b0aa789194b318a9ba52
-TAR pastaba. [[#^s-e9d7b0aa789194b318a9ba52|5 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pajamas.
+TAR pastaba. 5 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2023 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1250, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15192
 
@@ -708,7 +708,7 @@ Nr. XI-2166, 2012-06-29, Žin., 2012, Nr. 83-4340 (2012-07-14)
 1. Per investicinę sąskaitą gautomis pajamomis laikomos pajamos iš investicijų į tokius finansinius produktus: ^s-005cb8b1e3e871f9517db043
 
 
-1) perleidžiamuosius vertybinius popierius, kuriais prekiaujama prekybos vietose, kaip jos apibrėžtos [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]], (toliau – prekybos vieta); ^s-5b4aee5f765502e9d541c99e
+1) perleidžiamuosius vertybinius popierius, kuriais prekiaujama prekybos vietose, kaip jos apibrėžtos [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]], (toliau – [[latest/TAR.AB7AFE2F35B2|prekybos vieta]]); ^s-5b4aee5f765502e9d541c99e
 
 
 2) pinigų rinkos priemones, kuriomis prekiaujama prekybos vietose; ^s-8790c1d509e69b0eff16e926
@@ -717,10 +717,10 @@ Nr. XI-2166, 2012-06-29, Žin., 2012, Nr. 83-4340 (2012-07-14)
 3) kolektyvinio investavimo subjektų vertybinius popierius; ^s-a99dc7b6ceed5026650b5b1b
 
 
-4) išvestines finansines priemones, susietas su šios dalies 1–[[#^s-a99dc7b6ceed5026650b5b1b|3 punktuose]] nurodytais finansiniais produktais; ^s-ab70af8ae16222ec3a9da1a9
+4) išvestines finansines priemones, susietas su šios dalies [[#^s-5b4aee5f765502e9d541c99e|1]]–[[#^s-a99dc7b6ceed5026650b5b1b|3]] punktuose nurodytais finansiniais produktais; ^s-ab70af8ae16222ec3a9da1a9
 
 
-5) sutelktinį finansavimą pagal 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentą (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937 arba atitinkamus Europos ekonominės erdvės valstybės įstatymus; ^s-660475611c524a62508d227b
+5) sutelktinį finansavimą pagal 2020 m. spalio 7 d. Europos Parlamento ir Tarybos [reglamentą (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj) dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas [Reglamentas (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) ir [Direktyva (ES) 2019/1937](https://eur-lex.europa.eu/eli/dir/2019/1937/oj) arba atitinkamus Europos ekonominės erdvės valstybės įstatymus; ^s-660475611c524a62508d227b
 
 
 6) tarpusavio skolinimą pagal Lietuvos Respublikos vartojimo kredito įstatymą ir Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatymą arba atitinkamus Europos ekonominės erdvės valstybės įstatymus; ^s-64a948361e64a9d994b411bd
@@ -843,7 +843,7 @@ Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
 13(1) straipsnis. Priskiriamų Europos ekonominių interesų grupės pajamų ir leidžiamų atskaitymų, priskiriant Europos ekonominių interesų grupės sąnaudas, nustatymas ir apmokestinimas
 
 
-1. Gyventojo individualios veiklos pajamoms ir leidžiamiems atskaitymams, susijusiems su individualios veiklos pajamų gavimu arba uždirbimu, priskiriamos Europos ekonominių interesų grupės pajamos ir sąnaudos apskaičiuojamos ta pačia tvarka kaip vienetui pagal [[latest/TAR.A5ACBDA529A9|Pelno mokesčio įstatymo]] 39(1) straipsnio 1 ir 4 dalių nuostatas. ^s-3aee8db3703728156060796f
+1. Gyventojo individualios veiklos pajamoms ir leidžiamiems atskaitymams, susijusiems su individualios veiklos pajamų gavimu arba uždirbimu, priskiriamos Europos ekonominių interesų grupės pajamos ir sąnaudos apskaičiuojamos ta pačia tvarka kaip vienetui pagal [[latest/TAR.A5ACBDA529A9|Pelno mokesčio įstatymo]] 39(1) straipsnio [[latest/TAR.A5ACBDA529A9|1]] ir [[latest/TAR.A5ACBDA529A9|4]] dalių nuostatas. ^s-3aee8db3703728156060796f
 Straipsnio dalies pakeitimai:
 Nr. XV-343, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11757
 
@@ -928,7 +928,7 @@ Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
 
 
-6) nuolatinio Lietuvos gyventojo patirtos išlaidos (apskaičiuojant mokestinio laikotarpio apmokestinamąsias pajamas, kurioms taikomi šio Įstatymo [[#^s-e57908498c93820d43dbb5b1|6 straipsnio]] 1, 2, 6, 8 ir 9 dalyse nustatyti pajamų mokesčio tarifai) – šio Įstatymo [[#^s-f966aabfb0d034fea682709a|21 straipsnyje]] nustatyta tvarka. ^s-141823c4009419603b0ca78c
+6) nuolatinio Lietuvos gyventojo patirtos išlaidos (apskaičiuojant mokestinio laikotarpio apmokestinamąsias pajamas, kurioms taikomi šio Įstatymo [[#^s-e57908498c93820d43dbb5b1|6 straipsnio]] [[#^s-09bce2a3fac68f2b9b1cb0da|1]], [[#^s-d8196734f6ff862628d314f5|2]], [[#^s-3b15a0443995357c0808e832|6]], [[#^s-0a3c0c0bb1c46e21932dde6a|8]] ir [[#^s-06dead75a9a1e819b3b98745|9]] dalyse nustatyti pajamų mokesčio tarifai) – šio Įstatymo [[#^s-f966aabfb0d034fea682709a|21 straipsnyje]] nustatyta tvarka. ^s-141823c4009419603b0ca78c
 Straipsnio punkto pakeitimai:
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
 Nr. XV-343, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11757
@@ -1069,7 +1069,7 @@ Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
 201) palūkanos už ne nuosavybės vertybinius popierius (išskyrus asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, išleistus ne nuosavybės vertybinius popierius, jeigu už šiuos ne nuosavybės vertybinius popierius asmuo, susijęs su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, jam moka didesnes palūkanas negu kitiems tų pačių ne nuosavybės vertybinių popierių turėtojams), jeigu šie ne nuosavybės vertybiniai popieriai įsigyti iki 2013 m. gruodžio 31 d. ir pradėti išpirkti ne anksčiau kaip po 366 dienų nuo šių ne nuosavybės vertybinių popierių išleidimo dienos; ^s-9f34413721cd196fd01ef470
 
 
-202) palūkanų už vartojimo kreditą, suteiktą per tarpusavio skolinimo platformą [[latest/TAR.3E5A0E0D14C8|Lietuvos Respublikos vartojimo kredito įstatyme]] ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, taip pat palūkanų už lėšas, suteiktas per sutelktinio finansavimo platformą 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamente (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, suma, neviršijanti 500 eurų per mokestinį laikotarpį; ^s-90c8d5af32964f55cb3a840e
+202) palūkanų už vartojimo kreditą, suteiktą per tarpusavio skolinimo platformą [[latest/TAR.3E5A0E0D14C8|Lietuvos Respublikos vartojimo kredito įstatyme]] ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, taip pat palūkanų už lėšas, suteiktas per sutelktinio finansavimo platformą 2020 m. spalio 7 d. Europos Parlamento ir Tarybos [reglamente (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj) dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas [Reglamentas (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) ir [Direktyva (ES) 2019/1937](https://eur-lex.europa.eu/eli/dir/2019/1937/oj), ar atitinkamame Europos ekonominės erdvės valstybės įstatyme nustatyta tvarka, suma, neviršijanti 500 eurų per mokestinį laikotarpį; ^s-90c8d5af32964f55cb3a840e
 Papildyta straipsnio punktu:
 Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 Straipsnio punkto pakeitimai:
@@ -1105,14 +1105,14 @@ Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
 
 
 
-27) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamų, gautų pardavus ar kitaip perleidus nuosavybėn šios dalies 28, 30, 53 ir [[#^s-18b6ee2b79ea589f31f54e02|54 punktuose]] nenurodytą turtą, išskyrus atliekas, ir to turto įsigijimo kainos ir kitų šio Įstatymo [[#^s-d2c69268f331625fc1019007|19 straipsnyje]] nurodytų su šio turto pardavimu ar kitokiu perleidimu nuosavybėn susijusių išlaidų skirtumas, neviršijantis 2 500 eurų per mokestinį laikotarpį; ^s-5794f0fa0358db79fdbdf709
+27) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamų, gautų pardavus ar kitaip perleidus nuosavybėn šios dalies [[#^s-32dba6a23306605d0c2277d8|28]], [[#^s-18e90839702b1725c80e5670|30]], [[#^s-f6e5db612d67d2f8d7fadc10|53]] ir [[#^s-18b6ee2b79ea589f31f54e02|54]] punktuose nenurodytą turtą, išskyrus atliekas, ir to turto įsigijimo kainos ir kitų šio Įstatymo [[#^s-d2c69268f331625fc1019007|19 straipsnyje]] nurodytų su šio turto pardavimu ar kitokiu perleidimu nuosavybėn susijusių išlaidų skirtumas, neviršijantis 2 500 eurų per mokestinį laikotarpį; ^s-5794f0fa0358db79fdbdf709
 Straipsnio punkto pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
 Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
 
 
-28) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos pardavus ar kitaip perleidus nuosavybėn kilnojamąjį daiktą (įskaitant kilnojamąjį pagal prigimtį daiktą, kuris nekilnojamuoju pripažįstamas pagal įstatymus), jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra nustatyta tvarka įregistruotas Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 3 metus iki jo pardavimo ar kitokio perleidimo nuosavybėn; turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos per mokestinį laikotarpį pardavus ar kitaip perleidus nuosavybėn šios dalies 53 ir [[#^s-18b6ee2b79ea589f31f54e02|54 punktuose]] nenurodytą nekilnojamąjį pagal prigimtį daiktą, esantį Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 5 metus iki jo pardavimo ar kitokio perleidimo nuosavybėn; ^s-32dba6a23306605d0c2277d8
+28) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos pardavus ar kitaip perleidus nuosavybėn kilnojamąjį daiktą (įskaitant kilnojamąjį pagal prigimtį daiktą, kuris nekilnojamuoju pripažįstamas pagal įstatymus), jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra nustatyta tvarka įregistruotas Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 3 metus iki jo pardavimo ar kitokio perleidimo nuosavybėn; turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos per mokestinį laikotarpį pardavus ar kitaip perleidus nuosavybėn šios dalies [[#^s-f6e5db612d67d2f8d7fadc10|53]] ir [[#^s-18b6ee2b79ea589f31f54e02|54]] punktuose nenurodytą nekilnojamąjį pagal prigimtį daiktą, esantį Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 5 metus iki jo pardavimo ar kitokio perleidimo nuosavybėn; ^s-32dba6a23306605d0c2277d8
 Straipsnio punkto pakeitimai:
 Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
 Nr. XV-343, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11757
@@ -1178,7 +1178,7 @@ Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
 
 
 
-40) šios dalies 37 ir [[#^s-fe2aeb443441c93b117f6e3d|38 punktuose]] nenurodyti 200 eurų vertės neviršijantys aukšto meistriškumo sporto varžybų, sporto renginių ir kiti prizai ir laimėjimai, jeigu jie iš to paties asmens gaunami ne daugiau kaip 6 kartus per mokestinį laikotarpį; ^s-8f5f19420e4d5a275cc32bcf
+40) šios dalies [[#^s-b617d5b326e9e18b32eb6276|37]] ir [[#^s-fe2aeb443441c93b117f6e3d|38]] punktuose nenurodyti 200 eurų vertės neviršijantys aukšto meistriškumo sporto varžybų, sporto renginių ir kiti prizai ir laimėjimai, jeigu jie iš to paties asmens gaunami ne daugiau kaip 6 kartus per mokestinį laikotarpį; ^s-8f5f19420e4d5a275cc32bcf
 TAR pastaba. Įstatymo [[#^s-5cd91d7584aea70ef315639a|17 straipsnio]] 40 p. nuostatos taikomos apskaičiuojant ir deklaruojant 2025 metų ar vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio punkto pakeitimai:
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
@@ -1207,7 +1207,7 @@ Nr. XV-352, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11772
 
 
 
-461) pajamos, gautos iš pensijų kaupimo bendrovės pagal Lietuvos Respublikos pensijų kaupimo [[latest/TAR.1F58348F79F7|įstatymo Nr. IX-1691]] 1, 3, 4, 5, 6, 7, 8, 10, 12, 13, 15, 22, 24, 28, 29, 30, 33, 351, 352, 357, 358, 359, 3510, 36, 37, [[#^s-3701335e73d96403403bbbd8|40 straipsnių]], V skyriaus pavadinimo pakeitimo, Įstatymo papildymo 291 straipsniu ir [[#^s-e57908498c93820d43dbb5b1|6 straipsnio]] bei Įstatymo priedo pripažinimo netekusiais galios įstatymo [[#^s-0716c75c87e29ee1c2415928|32 straipsnio 3 dalį]]; ^s-68b5c6b6d54133c66a0dc8d8
+461) pajamos, gautos iš pensijų kaupimo bendrovės pagal Lietuvos Respublikos pensijų kaupimo [[latest/TAR.1F58348F79F7|įstatymo Nr. IX-1691]] [[latest/TAR.1F58348F79F7#^s-3c60a6d814421185a8c03d0d|1]], [[latest/TAR.1F58348F79F7#^s-e81c4f7e31e0c09bbab460dc|3]], [[latest/TAR.1F58348F79F7#^s-f9f49e3fcd8e149a05ed8879|4]], [[latest/TAR.1F58348F79F7#^s-4562e35f32d75502c4570357|5]], [[latest/TAR.1F58348F79F7#^s-b86a50fba9a9e3000f80d8e4|6]], [[latest/TAR.1F58348F79F7#^s-2da633957eac517b17c65b1a|7]], [[latest/TAR.1F58348F79F7#^s-c45bc44c13233375313be4e4|8]], [[latest/TAR.1F58348F79F7#^s-db0e4ce334f456a09bf34186|10]], [[latest/TAR.1F58348F79F7#^s-226e36eb2a1585a3f121c711|12]], [[latest/TAR.1F58348F79F7#^s-85d85c6d8f0f3c0f1a253fd9|13]], [[latest/TAR.1F58348F79F7#^s-9f24260230df10c6691904ce|15]], [[latest/TAR.1F58348F79F7#^s-5f7da9f7da38304beb4cf622|22]], [[latest/TAR.1F58348F79F7#^s-7f248e487e357b1e582e4e31|24]], [[latest/TAR.1F58348F79F7#^s-2051b8af144772ba05f6dfa2|28]], [[latest/TAR.1F58348F79F7#^s-3bd882b9c944885f4204c9f4|29]], [[latest/TAR.1F58348F79F7#^s-0c2bad9ab536f2b2b913399d|30]], [[latest/TAR.1F58348F79F7#^s-8d5ce0621f8569230606934b|33]], [[latest/TAR.1F58348F79F7#^s-424d64445b2ad6c8199e0053|351]], [[latest/TAR.1F58348F79F7#^s-859f6a96c2e89137590d0e07|352]], [[latest/TAR.1F58348F79F7#^s-9bdf27fdbebe2c57f4404f49|357]], [[latest/TAR.1F58348F79F7#^s-a7eba5cb5adb0eea82ae8748|358]], [[latest/TAR.1F58348F79F7#^s-4b7a4cf37796fdcdddc472e1|359]], [[latest/TAR.1F58348F79F7#^s-4060ab52b2178d65169c7be3|3510]], [[latest/TAR.1F58348F79F7#^s-d50b6737d06d1bf99288d34e|36]], [[latest/TAR.1F58348F79F7#^s-c39db313671ee38ac81f9e70|37]], [[latest/TAR.1F58348F79F7#^s-5f19a808a95479323b734252|40]] straipsnių, V skyriaus pavadinimo pakeitimo, Įstatymo papildymo 291 straipsniu ir [[#^s-e57908498c93820d43dbb5b1|6 straipsnio]] bei Įstatymo priedo pripažinimo netekusiais galios įstatymo [[#^s-0716c75c87e29ee1c2415928|32 straipsnio 3 dalį]]; ^s-68b5c6b6d54133c66a0dc8d8
 Papildyta straipsnio punktu:
 Nr. XV-352, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11772
 
@@ -1264,7 +1264,7 @@ Nr. XIII-2311, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12110
 
 
 59) pagal tarptautinę teisę specialų statusą turinčio subjekto ar kito subjekto, su kuriuo Lietuvos Respublikos tarptautinis bendradarbiavimas atitinka Lietuvos Respublikos Seimo priimtuose teisės aktuose nustatytus užsienio politikos ir nacionalinio saugumo tikslus, atstovybės, akredituotos Lietuvos Respublikos Vyriausybės nustatyta tvarka, akredituoto nario, jeigu jis nėra Lietuvos Respublikos pilietis arba nuolatinis gyventojas, su darbo santykiais ar jų esmę atitinkančiais santykiais susijusios pajamos už darbą šioje atstovybėje; ^s-a9a74e6f56e22a96bd9d79a9
-TAR pastaba. [[#^s-a9a74e6f56e22a96bd9d79a9|17 straipsnio 1 dalies 59 punkto]] nuostatos taikomos nuo 2022-07-01.
+TAR pastaba. 17 straipsnio 1 dalies 59 punkto nuostatos taikomos nuo 2022-07-01.
 Papildyta straipsnio punktu:
 Nr. XIV-994, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07159
 
@@ -1498,7 +1498,7 @@ Nr. XI-111, 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)
 ### 182 straipsnis. Nuo individualios veiklos pajamų mokėtino pajamų mokesčio apskaičiavimas ^s-129c2427e6bdd0712e3d8581
 
 
-1. Jeigu metinė apmokestinamųjų individualios veiklos pajamų suma neviršija 42 500 eurų per metus, nuo individualios veiklos pajamų mokėtino pajamų mokesčio dydis nustatomas iš metinėms apmokestinamosioms pajamoms pritaikius šio Įstatymo [[#^s-0a3c0c0bb1c46e21932dde6a|6 straipsnio 8 dalyje]] nustatytą pajamų mokesčio tarifą gautos sumos atėmus pajamų mokesčio kredito sumą, apskaičiuotą pagal šio straipsnio 2 ir [[#^s-7ed63b60a3e4fd81bf38f5b8|3 dalis]] ^s-c9cc2d9a52bb89417247cd63
+1. Jeigu metinė apmokestinamųjų individualios veiklos pajamų suma neviršija 42 500 eurų per metus, nuo individualios veiklos pajamų mokėtino pajamų mokesčio dydis nustatomas iš metinėms apmokestinamosioms pajamoms pritaikius šio Įstatymo [[#^s-0a3c0c0bb1c46e21932dde6a|6 straipsnio 8 dalyje]] nustatytą pajamų mokesčio tarifą gautos sumos atėmus pajamų mokesčio kredito sumą, apskaičiuotą pagal šio straipsnio [[#^s-d8196734f6ff862628d314f5|2]] ir [[#^s-1ce43b18ec4701d1ac7b3250|3]] dalis ^s-c9cc2d9a52bb89417247cd63
 Straipsnio dalies pakeitimai:
 Nr. XV-343, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11757
 
@@ -1534,13 +1534,13 @@ Nr. XV-681, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22570
 
 
 
-5. Taikant šio straipsnio 1–[[#^s-7ed63b60a3e4fd81bf38f5b8|3 dalis]], į individualios veiklos pajamas neįskaičiuojamos pajamos, kurioms taikomas šio Įstatymo [[#^s-06dead75a9a1e819b3b98745|6 straipsnio 9 dalyje]] nustatytas pajamų mokesčio tarifas. ^s-483f8d92ea165b42348c792e
+5. Taikant šio straipsnio [[#^s-c9cc2d9a52bb89417247cd63|1]]–[[#^s-7ed63b60a3e4fd81bf38f5b8|3]] dalis, į individualios veiklos pajamas neįskaičiuojamos pajamos, kurioms taikomas šio Įstatymo [[#^s-06dead75a9a1e819b3b98745|6 straipsnio 9 dalyje]] nustatytas pajamų mokesčio tarifas. ^s-483f8d92ea165b42348c792e
 Papildyta straipsnio dalimi:
 Nr. XV-681, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22570
 
 
 
-6. Nuo individualios veiklos pajamų, kurioms taikomas šio Įstatymo [[#^s-06dead75a9a1e819b3b98745|6 straipsnio 9 dalyje]] nustatytas pajamų mokesčio tarifas, mokėtino pajamų mokesčio dydis nustatomas iš metinėms apmokestinamosioms pajamoms pritaikius šio Įstatymo [[#^s-77f1b53132f8ba1d76c986be|6 straipsnio 9 dalies 1 punkte]] nustatytą pajamų mokesčio tarifą gautos sumos atėmus pajamų mokesčio kredito sumą, apskaičiuotą pagal šio straipsnio 7 ir [[#^s-d8e77bf068200f5806e7f73a|8 dalis]]. ^s-1930d49209514af0225435e6
+6. Nuo individualios veiklos pajamų, kurioms taikomas šio Įstatymo [[#^s-06dead75a9a1e819b3b98745|6 straipsnio 9 dalyje]] nustatytas pajamų mokesčio tarifas, mokėtino pajamų mokesčio dydis nustatomas iš metinėms apmokestinamosioms pajamoms pritaikius šio Įstatymo [[#^s-77f1b53132f8ba1d76c986be|6 straipsnio 9 dalies 1 punkte]] nustatytą pajamų mokesčio tarifą gautos sumos atėmus pajamų mokesčio kredito sumą, apskaičiuotą pagal šio straipsnio [[#^s-6274055ba6b939b5a46368e2|7]] ir [[#^s-0a3c0c0bb1c46e21932dde6a|8]] dalis. ^s-1930d49209514af0225435e6
 Papildyta straipsnio dalimi:
 Nr. XV-681, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22570
 
@@ -1619,7 +1619,7 @@ Nr. XV-343, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11757
 2) akcijų (dalių, pajų) įsigijimo antrinėje rinkoje kainai, kai akcijos (dalys, pajai) buvo įsigytos antrinėje rinkoje. ^s-e5f5c6d1cc87c09eebebbfdf
 
 
-5. Kai gyventojas parduoda ar kitaip perleidžia nuosavybėn akcijas (dalis, pajus), šio Įstatymo [[#^s-b1d9097d480597ff13d2cf24|2 straipsnio 14 dalies]] 7 ir 8 punktuose nurodytais atvejais gautas mainais į įsigyjamojo vieneto akcijas (dalis, pajus), parduodamų ar kitaip perleidžiamų nuosavybėn akcijų (dalių, pajų) įsigijimo kaina yra lygi turėtų įsigyjamojo vieneto akcijų (dalių, pajų) įsigijimo kainai. ^s-cabb832c0111d066d930f748
+5. Kai gyventojas parduoda ar kitaip perleidžia nuosavybėn akcijas (dalis, pajus), šio Įstatymo [[#^s-b1d9097d480597ff13d2cf24|2 straipsnio 14 dalies]] [[#^s-2454fc0ea69c68ff66796248|7]] ir [[#^s-7815ae94ef346a9ea4381e0f|8]] punktuose nurodytais atvejais gautas mainais į įsigyjamojo vieneto akcijas (dalis, pajus), parduodamų ar kitaip perleidžiamų nuosavybėn akcijų (dalių, pajų) įsigijimo kaina yra lygi turėtų įsigyjamojo vieneto akcijų (dalių, pajų) įsigijimo kainai. ^s-cabb832c0111d066d930f748
 
 
 6. Lietuvos Respublikos Vyriausybė turi teisę nustatyti turto įsigijimo kainos nustatymo tam tikrais atvejais taisykles. ^s-3dd422ac67f34aa7512b0795
@@ -1688,13 +1688,13 @@ Nr. XV-343, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11757
 
 
 
-3. Jeigu pagal šio straipsnio 1 ar [[#^s-f10ef4a203b5e2c0e192ce06|2 dalyje]] nustatytą formulę apskaičiuotas NPD yra neigiamas, laikoma, kad jis lygus 0. ^s-4cbd01bed8adbed806e2d97e
+3. Jeigu pagal šio straipsnio [[#^s-3f50a917f9b5b8d18a5c661c|1]] ar [[#^s-f10ef4a203b5e2c0e192ce06|2]] dalyje nustatytą formulę apskaičiuotas NPD yra neigiamas, laikoma, kad jis lygus 0. ^s-4cbd01bed8adbed806e2d97e
 
 
 4. NPD mokestiniu laikotarpiu taikomas tik nuolatiniam Lietuvos gyventojui, kai jis pagal [[#^s-f10ef4a203b5e2c0e192ce06|šio straipsnio 2 dalies]] nuostatas turėdamas teisę į NPD pateikia laisvos formos prašymą vienoje pajamų, susijusių su darbo santykiais arba jų esmę atitinkančiais santykiais, gavimo vietoje. Taikant [[#^s-f10ef4a203b5e2c0e192ce06|šio straipsnio 2 dalies]] nuostatas mokestiniu laikotarpiu turi būti atsižvelgiama tik į visas kas mėnesį mokamas išmokas (pagrindinį darbo užmokestį, priedus ir priemokas), susijusias su darbo santykiais arba jų esmę atitinkančiais santykiais. ^s-f2eadf53f4e79e48050241ce
 
 
-5. Gyventojas turi teisę mokestiniu laikotarpiu atsisakyti NPD ar jo dalies taikymo net tuo atveju, kai jis pagal šio straipsnio 2 ar [[#^s-2a3358ca9fe6eb3daa07a1f4|6 dalį]] jam gali būti pritaikytas. ^s-e82b66ba81c3b8764c760258
+5. Gyventojas turi teisę mokestiniu laikotarpiu atsisakyti NPD ar jo dalies taikymo net tuo atveju, kai jis pagal šio straipsnio [[#^s-f10ef4a203b5e2c0e192ce06|2]] ar [[#^s-2a3358ca9fe6eb3daa07a1f4|6]] dalį jam gali būti pritaikytas. ^s-e82b66ba81c3b8764c760258
 
 
 6. Asmenims, kuriems nustatytas 0–25 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. nustatytas 0–25 procentų darbingumo lygis arba didelių specialiųjų poreikių lygis), arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas sunkus neįgalumo lygis, taikomas mėnesio NPD yra 1 127 eurai. Asmenims, kuriems nustatytas 30–55 procentų dalyvumo lygis (iki 2023 m. gruodžio 31 d. nustatytas 30–55 procentų darbingumo lygis arba vidutinių ar nedidelių specialiųjų poreikių lygis), arba asmenims, kuriems teisės aktų nustatyta tvarka yra nustatytas vidutinis ar lengvas neįgalumo lygis, taikomas mėnesio NPD yra 1 057 eurai. Atsiradus arba pasibaigus teisei į šioje dalyje nurodytą mėnesio NPD, šis dydis pradedamas arba nustojamas taikyti nuo kitą, negu atsirado arba pasibaigė teisė į jį, mėnesį gautų pajamų. Šioje dalyje nurodytiems gyventojams taikytina MNPD suma yra lygi jiems pagal šios dalies nuostatas atitinkamais mokestinio laikotarpio mėnesiais taikytinų NPD sumai, pridėjus pagal [[#^s-3f50a917f9b5b8d18a5c661c|šio straipsnio 1 dalį]] šiems gyventojams apskaičiuotą MNPD dalį, proporcingą mokestinio laikotarpio mėnesių, kuriais jie neturėjo teisės į NPD pagal šios dalies nuostatas, skaičiui. ^s-2a3358ca9fe6eb3daa07a1f4
@@ -1710,7 +1710,7 @@ Nr. XV-32, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22084
 
 
 7. GMP yra lygios gyventojo mokestinio laikotarpio apmokestinamųjų pajamų, išskyrus apmokestinamąsias pajamas, kurioms taikomas šio Įstatymo [[#^s-6274055ba6b939b5a46368e2|6 straipsnio 7 dalyje]] nustatytas mokesčio tarifas, pajamas, nuo kurių mokestis sumokėtas įsigyjant verslo liudijimą, taip pat išmokas, mokamas pasibaigus ar nutraukus gyvybės draudimo ar pensijų kaupimo sutartį, neviršijančias sumokėtų įmokų dydžio, sumai, neatėmus šio Įstatymo [[#^s-f966aabfb0d034fea682709a|21 straipsnyje]] nurodytų išlaidų ir gyventojui taikytino MNPD. ^s-da45f41e7f51e3ef2d6961c4
-TAR pastaba: [[#^s-da45f41e7f51e3ef2d6961c4|20 straipsnio 7 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2026 metų mokestinio laikotarpio pajamas.
+TAR pastaba: 20 straipsnio 7 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2026 metų mokestinio laikotarpio pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XV-985, 2026-06-04, paskelbta TAR 2026-06-10, i. k. 2026-10160
 
@@ -1719,7 +1719,7 @@ Nr. XV-985, 2026-06-04, paskelbta TAR 2026-06-10, i. k. 2026-10160
 8. Tais atvejais, kai su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos gaunamos už laikotarpį, ilgesnį kaip vienas mokestinio laikotarpio mėnuo, su darbo santykiais arba jų esmę atitinkančiais santykiais susijusios pajamos apskaičiuojamos atskirai už kiekvieną mokestinio laikotarpio mėnesį, už kurį šios pajamos buvo apskaičiuotos išmokėti, taikant to mokestinio laikotarpio mėnesio NPD. ^s-5b1c845ebe22260d91192679
 
 
-9. Nenuolatiniam Lietuvos gyventojui NPD gali būti taikomas tik mokestiniam laikotarpiui pasibaigus, teikiant metinę pajamų mokesčio deklaraciją. NPD nenuolatiniam Lietuvos gyventojui taikomas atsižvelgiant į šio straipsnio 1, 3, 6 ir [[#^s-da45f41e7f51e3ef2d6961c4|7 dalių]] nuostatas. ^s-513d8c6e4a284151df6838ee
+9. Nenuolatiniam Lietuvos gyventojui NPD gali būti taikomas tik mokestiniam laikotarpiui pasibaigus, teikiant metinę pajamų mokesčio deklaraciją. NPD nenuolatiniam Lietuvos gyventojui taikomas atsižvelgiant į šio straipsnio [[#^s-3f50a917f9b5b8d18a5c661c|1]], [[#^s-4cbd01bed8adbed806e2d97e|3]], [[#^s-2a3358ca9fe6eb3daa07a1f4|6]] ir [[#^s-da45f41e7f51e3ef2d6961c4|7]] dalių nuostatas. ^s-513d8c6e4a284151df6838ee
 
 
 10. Šio Įstatymo [[#^s-035d7f99e47d4caf3335534e|29 straipsnyje]] nustatytais atvejais iš pajamų atimama MNPD dalis, apskaičiuota tame straipsnyje nustatyta tvarka. ^s-a8352c645b21796024adcff1
@@ -1771,7 +1771,7 @@ Nr. XIV-2803, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12619
 2. Tais atvejais, kai nuolatinis Lietuvos gyventojas, kuris mokosi ar studijuoja, nėra pajamų mokesčio mokėtojas arba neturi galimybių pasinaudoti teise iš pajamų atimti sumokėtas už profesinį mokymą ar studijas, nurodytus [[#^s-80ae0054262d70124982d893|šio straipsnio 1 dalies 3 punkte]], išlaidas, šias išlaidas laikantis minėto punkto nuostatų gali iš savo pajamų atimti tėvai (įtėviai), globėjai, rūpintojai ir (arba) sutuoktinis. ^s-4cae11be86a5f0bcf288c829
 
 
-3. Bendra atimamų išlaidų, nurodytų [[#^s-475638bddb89a97c49919612|šio straipsnio 1 dalyje]], suma negali viršyti 25 procentų apmokestinamųjų pajamų, kurioms taikomi šio Įstatymo [[#^s-e57908498c93820d43dbb5b1|6 straipsnio]] 1, 2, 6, 8 ir 9 dalyse nustatyti pajamų mokesčio tarifai, sumos, apskaičiuotos šio Įstatymo [[#^s-f8f89e3c634a8a40c40bb4dd|16 straipsnio 1 dalyje]] nustatyta tvarka, atėmus šio Įstatymo [[#^s-f8f89e3c634a8a40c40bb4dd|16 straipsnio 1 dalies]] 1–5 punktuose nurodytas sumas. [[#^s-475638bddb89a97c49919612|Šio straipsnio 1 dalies]] 1, 2 ir 21 punktuose nurodytų išlaidų suma bet kokiu atveju negali viršyti 1 500 eurų. ^s-ea1c9385c20c01d927e73d73
+3. Bendra atimamų išlaidų, nurodytų [[#^s-475638bddb89a97c49919612|šio straipsnio 1 dalyje]], suma negali viršyti 25 procentų apmokestinamųjų pajamų, kurioms taikomi šio Įstatymo [[#^s-e57908498c93820d43dbb5b1|6 straipsnio]] [[#^s-09bce2a3fac68f2b9b1cb0da|1]], [[#^s-d8196734f6ff862628d314f5|2]], [[#^s-3b15a0443995357c0808e832|6]], [[#^s-0a3c0c0bb1c46e21932dde6a|8]] ir [[#^s-06dead75a9a1e819b3b98745|9]] dalyse nustatyti pajamų mokesčio tarifai, sumos, apskaičiuotos šio Įstatymo [[#^s-f8f89e3c634a8a40c40bb4dd|16 straipsnio 1 dalyje]] nustatyta tvarka, atėmus šio Įstatymo [[#^s-f8f89e3c634a8a40c40bb4dd|16 straipsnio 1 dalies]] [[#^s-a79426e090e3fe37bc18e2cf|1]]–[[#^s-01c1fa1f5a2aa9079cea712a|5]] punktuose nurodytas sumas. [[#^s-475638bddb89a97c49919612|Šio straipsnio 1 dalies]] 1, 2 ir 21 punktuose nurodytų išlaidų suma bet kokiu atveju negali viršyti 1 500 eurų. ^s-ea1c9385c20c01d927e73d73
 Straipsnio dalies pakeitimai:
 Nr. XIII-170, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29860
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
@@ -1959,7 +1959,7 @@ Nr. XV-343, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11757
 
 
 
-3. Gyventojas, kuris mokestiniu laikotarpiu buvo įsigijęs verslo liudijimą ar įregistravęs individualią veiklą, privalo pateikti metinę pajamų mokesčio deklaraciją net tuo atveju, kai individualios veiklos pajamų negavo. Gyventojas, kuriam atsiranda prievolė deklaruoti pajamas Lietuvos Respublikos rinkimų kodekso 110 straipsnio 4 ir [[#^s-750ef3f21fb0019b104bea31|6 dalyse]] nustatytais atvejais, ir gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą [[latest/TAR.D4A66ACB9F97|Gyventojų turto deklaravimo įstatymo]] nustatyta tvarka, išskyrus gyventoją, pageidaujantį gauti piniginę socialinę paramą ar paramą būstui įsigyti ar išsinuomoti, taip pat išskyrus atskaitinę gyventojo turto deklaraciją teikiančius [[latest/TAR.D4A66ACB9F97#^s-5a1391267311420d81d8650b|Gyventojų turto deklaravimo įstatymo 2 straipsnio 1 dalies 26 punkte]] nurodytus asmenis, privalo pateikti metinę pajamų mokesčio deklaraciją nepaisydamas [[#^s-a24bfafe1d7e4064b07b6412|šio straipsnio 2 dalyje]] nustatytų išimčių. Gyventojas, kuriam atsiranda prievolė deklaruoti pajamas Rinkimų kodekso 110 straipsnio 4 ir [[#^s-750ef3f21fb0019b104bea31|6 dalyse]] nustatytais atvejais, privalo pats arba per savo įgaliotą asmenį pateikti mokesčio administratoriui metinę pajamų mokesčio deklaraciją už paskutinį praėjusį mokestinį laikotarpį, kai auką jis teikia po einamojo mokestinio laikotarpio gegužės 1 dienos, arba už užpraėjusį mokestinį laikotarpį, kai auką jis teikia iki einamojo mokestinio laikotarpio gegužės 1 dienos, laikydamasis Rinkimų kodekso 110 straipsnio 4 ir [[#^s-750ef3f21fb0019b104bea31|6 dalyse]] nustatyto deklaracijos pateikimo termino, jeigu metinės pajamų mokesčio deklaracijos už minėtus mokestinius laikotarpius nebuvo pateikęs [[#^s-e8fbfba37e88dc4459f2654a|šio straipsnio 1 dalyje]] nustatyta tvarka. Gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą [[latest/TAR.D4A66ACB9F97|Gyventojų turto deklaravimo įstatymo]] nustatyta tvarka, po kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija, gegužės 1 dienos privalo pats arba per savo įgaliotą asmenį pateikti mokesčio administratoriui metinę pajamų mokesčio deklaraciją už praėjusį mokestinį laikotarpį laikydamasis gyventojo turto deklaracijos pateikimo terminų. ^s-acf05f3e5b12b7f002b70d2c
+3. Gyventojas, kuris mokestiniu laikotarpiu buvo įsigijęs verslo liudijimą ar įregistravęs individualią veiklą, privalo pateikti metinę pajamų mokesčio deklaraciją net tuo atveju, kai individualios veiklos pajamų negavo. Gyventojas, kuriam atsiranda prievolė deklaruoti pajamas [Lietuvos Respublikos rinkimų kodekso 110 straipsnio](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) [4](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) ir [6](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) dalyse nustatytais atvejais, ir gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą [[latest/TAR.D4A66ACB9F97|Gyventojų turto deklaravimo įstatymo]] nustatyta tvarka, išskyrus gyventoją, pageidaujantį gauti piniginę socialinę paramą ar paramą būstui įsigyti ar išsinuomoti, taip pat išskyrus atskaitinę gyventojo turto deklaraciją teikiančius [[latest/TAR.D4A66ACB9F97#^s-5a1391267311420d81d8650b|Gyventojų turto deklaravimo įstatymo 2 straipsnio 1 dalies 26 punkte]] nurodytus asmenis, privalo pateikti metinę pajamų mokesčio deklaraciją nepaisydamas [[#^s-a24bfafe1d7e4064b07b6412|šio straipsnio 2 dalyje]] nustatytų išimčių. Gyventojas, kuriam atsiranda prievolė deklaruoti pajamas [Rinkimų kodekso 110 straipsnio](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) [4](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) ir [6](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) dalyse nustatytais atvejais, privalo pats arba per savo įgaliotą asmenį pateikti mokesčio administratoriui metinę pajamų mokesčio deklaraciją už paskutinį praėjusį mokestinį laikotarpį, kai auką jis teikia po einamojo mokestinio laikotarpio gegužės 1 dienos, arba už užpraėjusį mokestinį laikotarpį, kai auką jis teikia iki einamojo mokestinio laikotarpio gegužės 1 dienos, laikydamasis [Rinkimų kodekso 110 straipsnio](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) [4](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) ir [6](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) dalyse nustatyto deklaracijos pateikimo termino, jeigu metinės pajamų mokesčio deklaracijos už minėtus mokestinius laikotarpius nebuvo pateikęs [[#^s-e8fbfba37e88dc4459f2654a|šio straipsnio 1 dalyje]] nustatyta tvarka. Gyventojas, kuriam atsiranda prievolė deklaruoti turimą turtą [[latest/TAR.D4A66ACB9F97|Gyventojų turto deklaravimo įstatymo]] nustatyta tvarka, po kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija, gegužės 1 dienos privalo pats arba per savo įgaliotą asmenį pateikti mokesčio administratoriui metinę pajamų mokesčio deklaraciją už praėjusį mokestinį laikotarpį laikydamasis gyventojo turto deklaracijos pateikimo terminų. ^s-acf05f3e5b12b7f002b70d2c
 Straipsnio dalies pakeitimai:
 Nr. XII-1217, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15178
 Nr. XIV-2665, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09706
@@ -1973,7 +1973,7 @@ Nr. XIV-2665, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09706
 
 
 6. Nuolatinis Lietuvos gyventojas, per mokestinį laikotarpį gavęs pozityviųjų pajamų, privalo kartu su metine pajamų mokesčio deklaracija pateikti centrinio mokesčio administratoriaus nustatytos formos priedą, kuriame turi būti nurodyta informacija apie tiesiogiai, netiesiogiai ar kartu su susijusiais asmenimis valdomas kontroliuojamųjų užsienio vienetų akcijas (dalis, pajus), balsavimo teises ar teises į paskirstytinojo pelno dalį arba išimtines teises jas įsigyti, taip pat kontroliuojamojo užsienio vieneto pavadinimas ir buveinės adresas, kontroliuojamojo užsienio vieneto valdytojų sąrašas. Nuolatinis Lietuvos gyventojas kontroliuojamojo užsienio vieneto balansą bei pelno ir nuostolių ataskaitą privalo saugoti ne mažiau kaip 10 metų. ^s-750ef3f21fb0019b104bea31
-TAR pastaba. [[#^s-750ef3f21fb0019b104bea31|6 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+TAR pastaba. 6 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
 
@@ -2175,7 +2175,7 @@ Nr. XIV-1388, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15859
 6. Mokesčio administratorius gyventojo prašymu per 10 darbo dienų nuo prašymo pateikimo dienos privalo išduoti pažymą apie nuolatinio Lietuvos gyventojo vykdomą individualią veiklą arba nenuolatinio Lietuvos gyventojo įregistruotą nuolatinę bazę Lietuvoje. ^s-5d564927ae1b47e93e71b7dc
 
 
-7. Šio straipsnio 3 ir [[#^s-844ca9719d2558d39962a8a1|4 dalių]] nuostatos netaikomos tais atvejais, kai tose dalyse nurodytą prašymą pateikęs nuolatinis Lietuvos gyventojas, privalantis teikti metinę pajamų mokesčio deklaraciją, metinės pajamų mokesčio deklaracijos nepateikia iki šio Įstatymo [[#^s-e8fbfba37e88dc4459f2654a|27 straipsnio 1 dalyje]] ar šio Įstatymo [[#^s-bb0e465bc23a3aa386a356f9|28 straipsnyje]] nustatyto termino pabaigos. ^s-a0ec3094e6e4ba15e176c8d1
+7. Šio straipsnio [[#^s-96cf090c0b143d6f779085e2|3]] ir [[#^s-844ca9719d2558d39962a8a1|4]] dalių nuostatos netaikomos tais atvejais, kai tose dalyse nurodytą prašymą pateikęs nuolatinis Lietuvos gyventojas, privalantis teikti metinę pajamų mokesčio deklaraciją, metinės pajamų mokesčio deklaracijos nepateikia iki šio Įstatymo [[#^s-e8fbfba37e88dc4459f2654a|27 straipsnio 1 dalyje]] ar šio Įstatymo [[#^s-bb0e465bc23a3aa386a356f9|28 straipsnyje]] nustatyto termino pabaigos. ^s-a0ec3094e6e4ba15e176c8d1
 TAR pastaba. [[#^s-6d3ad49a6297c078e9261584|34 straipsnis]] taikomas apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio pakeitimai:
 Nr. IX-1848, 2003-11-25, Žin., 2003, Nr. 116-5254 (2003-12-12)
@@ -2230,7 +2230,7 @@ PAJAMŲ MOKESČIO, SUMOKĖTO UŽSIENIO VALSTYBĖSE, ATSKAITYMAS
 
 
 1. Užsienio valstybėje, su kuria Lietuvos Respublika yra sudariusi ir taiko dvigubo apmokestinimo išvengimo sutartį, gautos nuolatinio Lietuvos gyventojo pajamos, išskyrus toje valstybėje gautas palūkanas, dividendus ir honorarus, šio Įstatymo nustatyta tvarka yra neapmokestinamos pajamų mokesčiu Lietuvos Respublikoje, jeigu pajamų mokestis arba jam tapatus mokestis nuo šių pajamų nustatyta tvarka sumokėtas toje užsienio valstybėje. Užsienio valstybėje, su kuria Lietuvos Respublika yra sudariusi ir taiko dvigubo apmokestinimo išvengimo sutartį, sumokėtą pajamų mokesčio arba jam tapataus mokesčio sumą nuo toje valstybėje gautų palūkanų, dividendų ir honorarų nuolatinis Lietuvos gyventojas gali atskaityti iš šio Įstatymo nustatyta tvarka apskaičiuoto pajamų mokesčio sumos. Šios dalies nuostatos taikomos tik tuo atveju, kai yra pateikti įrodymai apie užsienio valstybėje per tą mokestinį laikotarpį gautas pajamas ir nuo jų sumokėtą pajamų mokesčio arba jam tapataus mokesčio sumą. ^s-d678f9a583e3f1f4cfc1ff30
-TAR pastaba. [[#^s-d678f9a583e3f1f4cfc1ff30|1 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
+TAR pastaba. 1 dalies nuostatos taikomos apskaičiuojant ir deklaruojant 2019 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
 
@@ -2316,7 +2316,7 @@ BAIGIAMOSIOS NUOSTATOS
 4. Nuo 2003 m. sausio 1 d. pripažįstami netekusiais galios: ^s-dd3a4f967a971f946cfd15d1
 
 
-1) Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinasis įstatymas (Žin., 1990, Nr. 31-742; 1991, Nr. 6-170, Nr. 19-501, Nr. 22-569; 1992, Nr. 7-150, Nr. 14-388; 1993, Nr. 30-681, Nr. 59-1144; 1994, Nr. 30-531, Nr. 58-1135; 1995, Nr. 34-814, Nr. 44-1077; 1996, Nr. 11-285, Nr. 35-858, Nr. 46-1104, Nr. 62-1464, Nr. 71-1716, Nr. 73-1747; 1997, Nr. 28-662, Nr. 61-1443, Nr. 63-1474; 1998, Nr. 8-162, Nr. 90-2481; 1999, Nr. 19-515, Nr. 33-947, Nr. 55-1770, Nr. 60-1950, Nr. 66-2121, Nr. 109-3174, Nr. 113-3290; 2000, Nr. 5-127, Nr. 34-955, Nr. 53-1522, Nr. 64-1911, 1943, Nr. 84-2534, Nr. 89-2747, Nr. 90-2781, Nr. 113-3603; 2001, Nr. 39-1329, Nr. 41-1421, Nr. 62-2217, 2236, Nr. 110-3993, 3994, Nr. 111-4023; 2002, Nr. 62-2492); ^s-df76a541693694f9c89aaeae
+1) [Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinasis įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.D72EC8D26124) (Žin., 1990, Nr. 31-742; 1991, Nr. 6-170, Nr. 19-501, Nr. 22-569; 1992, Nr. 7-150, Nr. 14-388; 1993, Nr. 30-681, Nr. 59-1144; 1994, Nr. 30-531, Nr. 58-1135; 1995, Nr. 34-814, Nr. 44-1077; 1996, Nr. 11-285, Nr. 35-858, Nr. 46-1104, Nr. 62-1464, Nr. 71-1716, Nr. 73-1747; 1997, Nr. 28-662, Nr. 61-1443, Nr. 63-1474; 1998, Nr. 8-162, Nr. 90-2481; 1999, Nr. 19-515, Nr. 33-947, Nr. 55-1770, Nr. 60-1950, Nr. 66-2121, Nr. 109-3174, Nr. 113-3290; 2000, Nr. 5-127, Nr. 34-955, Nr. 53-1522, Nr. 64-1911, 1943, Nr. 84-2534, Nr. 89-2747, Nr. 90-2781, Nr. 113-3603; 2001, Nr. 39-1329, Nr. 41-1421, Nr. 62-2217, 2236, Nr. 110-3993, 3994, Nr. 111-4023; 2002, Nr. 62-2492); ^s-df76a541693694f9c89aaeae
 
 
 2) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo galiojimo pratęsimo“ (Žin., 1993, Nr. 2-27); ^s-efebfa7520d430f11fa62e6c
@@ -2325,16 +2325,16 @@ BAIGIAMOSIOS NUOSTATOS
 3) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo galiojimo pratęsimo“ (Žin., 1993, Nr. 70-1305); ^s-5814d03e5063d7585c94747f
 
 
-4) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos mokesčių įstatymų papildymo“ (Žin., 1996, Nr. 1-3) [[#^s-ebef3b30e17c9a056d746714|2 straipsnis]]; ^s-423853a99c0ce5a299fca226
+4) Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos mokesčių įstatymų papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.5A8EDD49CA68) (Žin., 1996, Nr. 1-3) [[#^s-ebef3b30e17c9a056d746714|2 straipsnis]]; ^s-423853a99c0ce5a299fca226
 
 
-5) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo įsigaliojimo“ (Žin., 1990, Nr. 31-743); ^s-a138d2769de1dcab5ce26d4e
+5) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas [„Dėl Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo įsigaliojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.C107242694CD) (Žin., 1990, Nr. 31-743); ^s-a138d2769de1dcab5ce26d4e
 
 
 6) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos Aukščiausios Tarybos nutarimo „Dėl Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo įsigaliojimo“ pirmojo punkto taikymo“ (Žin., 1991, Nr. 5-141); ^s-dc42559d588dd1779a90794c
 
 
-7) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo 10 straipsnio įsigaliojimo tvarkos“ (Žin., 1991, Nr. 6-169); ^s-a7697ac3cd7dd299eb14dbeb
+7) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas [„Dėl Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo 10 straipsnio įsigaliojimo tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.C76033C54821) (Žin., 1991, Nr. 6-169); ^s-a7697ac3cd7dd299eb14dbeb
 
 
 8) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo 5 straipsnio pakeitimo“ įsigaliojimo“ (Žin., 1991, Nr. 22-570); ^s-0e232711c282a23d059b1adc
@@ -2343,7 +2343,7 @@ BAIGIAMOSIOS NUOSTATOS
 9) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos Aukščiausios Tarybos nutarimo „Dėl Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo įsigaliojimo“ [[#^s-0e232711c282a23d059b1adc|8 punkto]] pakeitimo“ (Žin., 1991, Nr. 22-571); ^s-0ef2545a52fe03710dd9bfb9
 
 
-10) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl minimalaus gyvenimo lygio ir fizinių asmenų pajamų mokesčio neapmokestinamojo minimumo“ (Žin., 1991, Nr. 20-523); ^s-cf5950d259f4f511b686e1d4
+10) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas [„Dėl minimalaus gyvenimo lygio ir fizinių asmenų pajamų mokesčio neapmokestinamojo minimumo“](https://e-tar.lt/portal/lt/legalAct/TAR.A3F833E30EAC) (Žin., 1991, Nr. 20-523); ^s-cf5950d259f4f511b686e1d4
 
 
 11) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos fizinių asmenų pajamų mokesčio laikinojo įstatymo pakeitimo ir papildymo“ įsigaliojimo“ (Žin., 1992, Nr. 7-151); ^s-132faf56570bf6899e334ea5
@@ -2392,7 +2392,7 @@ gyventojų pajamų mokesčio
 
 
 
-1. 1985 m. liepos 25 d. Tarybos reglamentas (EEB) Nr. 2137/85 dėl Europos ekonominių interesų grupių (EEIG). ^s-569060e2826c115266c9117a
+1. 1985 m. liepos 25 d. Tarybos [reglamentas (EEB) Nr. 2137/85](https://eur-lex.europa.eu/eli/reg/2137/85/oj) dėl Europos ekonominių interesų grupių (EEIG). ^s-569060e2826c115266c9117a
 
 
 2. Europos Parlamento 2005 m. rugsėjo 28 d. sprendimas dėl Europos Parlamento narių statuto priėmimo (2005/684/EB, Euratomas). ^s-5253b23f4d645e19af118ded
@@ -2487,15 +2487,15 @@ Nr. IX-2103, 2004-04-08, Žin., 2004, Nr. 60-2118 (2004-04-24)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2202, 2004-04-29, Žin., 2004, Nr. 73-2535 (2004-04-30)
 [[latest/TAR.9A41C818F5F4|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 6, 17, 21 IR 37 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMAS]]
-Šis Įstatymas, išskyrus [[#^s-ebef3b30e17c9a056d746714|2 straipsnio]] 1 ir [[#^s-b5bdd8f2937b77d11888332d|4 dalis]], [[#^s-339c0a1ec1f6d70dc06e6443|3 straipsnio]] 1, 5 ir 9 dalis ir [[#^s-337a0009be9e0120d93dd966|5 straipsnį]], įsigalioja nuo 2004 m. gegužės 1 d.
-Šio Įstatymo [[#^s-ebef3b30e17c9a056d746714|2 straipsnio]] 1 ir [[#^s-b5bdd8f2937b77d11888332d|4 dalių]] nuostatos ir [[#^s-339c0a1ec1f6d70dc06e6443|3 straipsnio]] 1, 5 ir 9 dalių nuostatos taikomos už 2003 m. ir vėlesnius metus.
+Šis Įstatymas, išskyrus [[#^s-ebef3b30e17c9a056d746714|2 straipsnio]] [[#^s-2a12864f9ecf9d436684b04d|1]] ir [[#^s-6dc3d483b0f03f94f7394185|4]] dalis, [[#^s-339c0a1ec1f6d70dc06e6443|3 straipsnio]] 1, 5 ir 9 dalis ir [[#^s-337a0009be9e0120d93dd966|5 straipsnį]], įsigalioja nuo 2004 m. gegužės 1 d.
+Šio Įstatymo [[#^s-ebef3b30e17c9a056d746714|2 straipsnio]] [[#^s-2a12864f9ecf9d436684b04d|1]] ir [[#^s-6dc3d483b0f03f94f7394185|4]] dalių nuostatos ir [[#^s-339c0a1ec1f6d70dc06e6443|3 straipsnio]] 1, 5 ir 9 dalių nuostatos taikomos už 2003 m. ir vėlesnius metus.
 Šio Įstatymo [[#^s-337a0009be9e0120d93dd966|5 straipsnio]] nuostatos taikomos nuo 2005 m. sausio 1 d., jei Europos Sąjungos Tarybos sprendimu nebus nustatyta vėlesnė 2003 m. birželio 3 d. Tarybos direktyvą 2003/48/EB dėl palūkanų, gautų iš taupymo pajamų, apmokestinimo įgyvendinančių Europos Sąjungos valstybių narių teisės aktų įsigaliojimo data.
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2272, 2004-06-15, Žin., 2004, Nr. 98-3628 (2004-06-24)
 GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 21 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-Gyventojų pajamų mokesčio įstatymo 21 straipsnio 1 dalies 5 punkto nuostatos taikomos deklaruojant gyventojų pajamų mokestį už 2004, 2005 ir 2006 metus.
+[[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatymo 21 straipsnio 1 dalies 5 punkto]] nuostatos taikomos deklaruojant gyventojų pajamų mokestį už 2004, 2005 ir 2006 metus.
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2611,7 +2611,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-885, 2006-11-09, Žin., 2006, Nr. 127-4821 (2006-11-25)
 [[latest/TAR.F7E88C68271F|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO IR GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 21 STRAIPSNIO PAPILDYMO ĮSTATYMO PAKEITIMO ĮSTATYMAS]]
 Šio įstatymo pirmojo skirsnio [[#^s-6f6cc3b241158f257ad42fa4|1 straipsnis]] įsigalioja nuo 2007 m. sausio 1 d.
-Deklaruojant 2007–2009 metų gyventojų pajamų mokestį, Gyventojų pajamų mokesčio įstatymo 21 straipsnio 1 dalies 5 punkto nuostatos taikomos tik tuo atveju, jeigu minėtame punkte nurodytas asmeninio kompiuterio vienetas su programine įranga ir interneto prieigos įrengimas su šiai prieigai reikalinga įranga buvo įsigyti iš Lietuvos arba užsienio vieneto.
+Deklaruojant 2007–2009 metų gyventojų pajamų mokestį, [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatymo 21 straipsnio 1 dalies 5 punkto]] nuostatos taikomos tik tuo atveju, jeigu minėtame punkte nurodytas asmeninio kompiuterio vienetas su programine įranga ir interneto prieigos įrengimas su šiai prieigai reikalinga įranga buvo įsigyti iš Lietuvos arba užsienio vieneto.
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2636,7 +2636,7 @@ Konkrečius fiksuoto pajamų mokesčio, mokamo už pajamas, gautas iš veiklos, 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1485, 2008-04-10, Žin., 2008, Nr. 47-1750 (2008-04-24)
 [[latest/TAR.706AFBAFD66E|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2, 5, 6, 17, 24, 27, 30, 31, 32, 33, 36 STRAIPSNIŲ IR ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo 2, [[#^s-339c0a1ec1f6d70dc06e6443|3 straipsnių]], [[#^s-0ea0a2eb0ebebac1c06b4b9f|4 straipsnio]] 2, 3 ir [[#^s-b5bdd8f2937b77d11888332d|4 dalių]] nuostatos taikomos apskaičiuojant ir deklaruojant 2008 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Šio įstatymo [[#^s-ebef3b30e17c9a056d746714|2]], [[#^s-339c0a1ec1f6d70dc06e6443|3]] straipsnių, [[#^s-0ea0a2eb0ebebac1c06b4b9f|4 straipsnio]] [[#^s-dae3a42c46bf03e7941439ec|2]], [[#^s-de1853070480be6cdb0f456a|3]] ir [[#^s-e7fa64a34861310a16378b3e|4]] dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2008 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Šio įstatymo [[#^s-b2032381e47b7d38578831b0|4 straipsnio 1 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2007 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
 37.
@@ -2653,7 +2653,7 @@ Nr. XI-105, 2008-12-22, Žin., 2008, Nr. 149-6029 (2008-12-30)
 38.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-111, 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)
-[[#^s-e65f45867aef3e2d2efd2a52|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2, 3, 5, 6, 7, 8, 9, 10, 12, 13(1), 16, 17, 18, 19, 20, 21, 22, 23, 27, 29, 30 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 18(1) STRAIPSNIU ĮSTATYMAS
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2, 3, 5, 6, 7, 8, 9, 10, 12, 13(1), [[#^s-b4555c92f1403471cc5e6e95|16]], [[#^s-5cd91d7584aea70ef315639a|17]], [[#^s-ad4fffd56e0d6964cf90fb43|18]], [[#^s-d2c69268f331625fc1019007|19]], [[#^s-a685c449e333916002fc61c0|20]], [[#^s-f966aabfb0d034fea682709a|21]], [[#^s-8f97d215de56fe6d1175bed4|22]], [[#^s-c7ae9ceba37c1535975a7d14|23]], [[#^s-d10138fc24ea9ea8dcb45fe4|27]], [[#^s-035d7f99e47d4caf3335534e|29]], [[#^s-e65f45867aef3e2d2efd2a52|30]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 18(1) STRAIPSNIU ĮSTATYMAS
 1. Šio įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant 2009 metų ir vėlesnių mokestinių laikotarpių pajamas, išskyrus šio įstatymo nuostatas, susijusias su pajamų ir leidžiamų atskaitymų pripažinimu pagal kaupimo apskaitos principą. Šio įstatymo nuostatos, susijusios su pajamų ir leidžiamų atskaitymų pripažinimu pagal kaupimo apskaitos principą (įskaitant mokestinio laikotarpio nuostolių perkėlimą), taikomos apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių mokestinių laikotarpių pajamas. Gyventojai, kurie verčiasi individualia veikla ir yra įregistruoti pridėtinės vertės mokesčio mokėtojais arba savo individualiai veiklai priskyrę ir joje naudojantys ilgalaikį turtą, gali pasirinkti kaupimo apskaitos principą taikyti apskaičiuodami ir deklaruodami ir 2009 metų apmokestinamąsias pajamas. Pasirinkus kaupimo apskaitos principą taikyti apskaičiuojant ir deklaruojant 2009 metų apmokestinamąsias pajamas, leidžiamiems atskaitymams gali būti priskiriamos 2008 metų mokestiniu laikotarpiu patirtos [[#^s-ad4fffd56e0d6964cf90fb43|Gyventojų pajamų mokesčio įstatymo 18 straipsnyje]] nurodytos su uždirbtomis pajamomis susijusios išlaidos. ^s-5fdee22061c774680f694385
 2. Už per 2009 metų mokestinį laikotarpį gautas pajamas, nuo kurių mokestis sumokamas įsigyjant verslo liudijimą, mokamas savivaldybės tarybos nustatytas fiksuoto dydžio pajamų mokestis, kuris negali būti mažesnis už pajamų mokestį, apskaičiuojamą iš dvylikos minimaliųjų mėnesinių algų, galiojusių 2008 m. spalio 1 d., sumos atėmus 3 840 litų ir pritaikius 24 procentų pajamų mokesčio tarifą. Savivaldybės taryba 2009 metų mokestiniam laikotarpiui turi teisę nustatyti mažesnį fiksuoto dydžio pajamų mokestį už pajamas, gautas iš veiklos, kuria verčiamasi turint verslo liudijimą: ^s-fb36b2faf234f69ea4f8d298
 1) neįgaliesiems asmenims, asmenims, sukakusiems senatvės pensijos amžių, tėvams (įtėviams), auginantiems tris ir daugiau vaikų (įvaikių) iki 18 metų, taip pat vyresnius, jeigu jie mokosi dieninėse bendrojo lavinimo mokyklose, profesinių ar aukštųjų mokyklų dieniniuose skyriuose, tėvams (įtėviams), auginantiems neįgalų vaiką (įvaikį) iki 18 metų, taip pat vyresnį neįgalų vaiką (įvaikį), kuriam nustatytas specialusis nuolatinės slaugos poreikis, motinai (įmotei) arba tėvui (įtėviui), kuris (kuri) vaiką (įvaikį) iki 18 metų, taip pat vyresnį, jeigu jis mokosi dieninėje bendrojo lavinimo mokykloje, profesinės ar aukštosios mokyklos dieniniame skyriuje, augina vienas (viena), bendrojo lavinimo, profesinių, aukštųjų mokyklų dieninių skyrių moksleiviams ir studentams, taip pat bedarbiams, kurie nustatyta tvarka įregistruoti teritorinėse darbo biržose; ^s-662d420950f677d44b0fdda9
@@ -2670,11 +2670,11 @@ Nr. XI-111, 2008-12-23, Žin., 2008, Nr. 149-6033 (2008-12-30)
 1)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-175, 2009-02-19, Žin., 2009, Nr. 25-977 (2009-03-05)
-[[#^s-e65f45867aef3e2d2efd2a52|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2, 3, 5, 6, 7, 8, 9, 10, 12, 13(1), 16, 17, 18, 19, 20, 21, 22, 23, 27, 29, 30 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 18(1) STRAIPSNIU ĮSTATYMO [[#^s-c7ae9ceba37c1535975a7d14|23 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2, 3, 5, 6, 7, 8, 9, 10, 12, 13(1), [[#^s-b4555c92f1403471cc5e6e95|16]], [[#^s-5cd91d7584aea70ef315639a|17]], [[#^s-ad4fffd56e0d6964cf90fb43|18]], [[#^s-d2c69268f331625fc1019007|19]], [[#^s-a685c449e333916002fc61c0|20]], [[#^s-f966aabfb0d034fea682709a|21]], [[#^s-8f97d215de56fe6d1175bed4|22]], [[#^s-c7ae9ceba37c1535975a7d14|23]], [[#^s-d10138fc24ea9ea8dcb45fe4|27]], [[#^s-035d7f99e47d4caf3335534e|29]], [[#^s-e65f45867aef3e2d2efd2a52|30]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 18(1) STRAIPSNIU ĮSTATYMO [[#^s-c7ae9ceba37c1535975a7d14|23 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
 2)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1153, 2010-11-23, Žin., 2010, Nr. 145-7411 (2010-12-11)
-[[#^s-e65f45867aef3e2d2efd2a52|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2, 3, 5, 6, 7, 8, 9, 10, 12, 13(1), 16, 17, 18, 19, 20, 21, 22, 23, 27, 29, 30 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 18(1) STRAIPSNIU ĮSTATYMO [[#^s-c7ae9ceba37c1535975a7d14|23 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2, 3, 5, 6, 7, 8, 9, 10, 12, 13(1), [[#^s-b4555c92f1403471cc5e6e95|16]], [[#^s-5cd91d7584aea70ef315639a|17]], [[#^s-ad4fffd56e0d6964cf90fb43|18]], [[#^s-d2c69268f331625fc1019007|19]], [[#^s-a685c449e333916002fc61c0|20]], [[#^s-f966aabfb0d034fea682709a|21]], [[#^s-8f97d215de56fe6d1175bed4|22]], [[#^s-c7ae9ceba37c1535975a7d14|23]], [[#^s-d10138fc24ea9ea8dcb45fe4|27]], [[#^s-035d7f99e47d4caf3335534e|29]], [[#^s-e65f45867aef3e2d2efd2a52|30]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 18(1) STRAIPSNIU ĮSTATYMO [[#^s-c7ae9ceba37c1535975a7d14|23 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
 Šio įstatymo nuostatos taikomos apskaičiuojant ir deklaruojant 2010 metų mokestinio laikotarpio pajamas.
 
 39.
@@ -2689,13 +2689,13 @@ Nr. XI-385, 2009-07-22, Žin., 2009, Nr. 93-3977 (2009-08-04)
 [[latest/TAR.481AC673A602|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2, 9, 17, 18 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
 Šio įstatymo [[#^s-960a3060911e4026ea3de630|2 straipsnio 2 dalis]] įsigalioja 2010 m. sausio 1 d. ir taikoma apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių mokestinių laikotarpių pajamas.
 Šio įstatymo [[#^s-2a12864f9ecf9d436684b04d|2 straipsnio 1 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2009 metų mokestinio laikotarpio pajamas.
-Šio įstatymo 1, 3 ir [[#^s-0ea0a2eb0ebebac1c06b4b9f|4 straipsnių]] nuostatos taikomos apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Šio įstatymo [[#^s-6f6cc3b241158f257ad42fa4|1]], [[#^s-339c0a1ec1f6d70dc06e6443|3]] ir [[#^s-0ea0a2eb0ebebac1c06b4b9f|4]] straipsnių nuostatos taikomos apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
 41.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-541, 2009-12-09, Žin., 2009, Nr. 153-6882 (2009-12-28)
 [[latest/TAR.B3C480AD2946|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17, 38 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo [[#^s-6f6cc3b241158f257ad42fa4|1 straipsnio]] 2, 3 ir [[#^s-b5bdd8f2937b77d11888332d|4 dalių]] nuostatos taikomos apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių mokestinių laikotarpių apmokestinamąsias pajamas.
+Šio įstatymo [[#^s-6f6cc3b241158f257ad42fa4|1 straipsnio]] [[#^s-7803ffba2f87519be9f14052|2]], [[#^s-2f4d32a3183e4277fdd28102|3]] ir 4 dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių mokestinių laikotarpių apmokestinamąsias pajamas.
 
 42.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2723,8 +2723,8 @@ GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1152, 2010-11-23, Žin., 2010, Nr. 145-7410 (2010-12-11)
 [[latest/TAR.65D094A8CB46|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2, 6, 10, 12, 16, 17, 18, 19, 20, 21, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo 1, 3, 4, 5, 7, 8, 9, 10, [[#^s-f9c80dca5fd53fb3bbb1ffa2|11 straipsnių]], [[#^s-ebef3b30e17c9a056d746714|2 straipsnio]] 1 ir 2 dalių ir [[#^s-e57908498c93820d43dbb5b1|6 straipsnio]] 2, 4, [[#^s-a880d548276c5bae0f2fe0c2|5 dalių]] nuostatos taikomos apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
-Šio įstatymo [[#^s-ebef3b30e17c9a056d746714|2 straipsnio]] 3 ir [[#^s-b5bdd8f2937b77d11888332d|4 dalių]] nuostatos taikomos apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
+Šio įstatymo [[#^s-6f6cc3b241158f257ad42fa4|1]], [[#^s-339c0a1ec1f6d70dc06e6443|3]], [[#^s-0ea0a2eb0ebebac1c06b4b9f|4]], [[#^s-337a0009be9e0120d93dd966|5]], [[#^s-4e36b589794dc840158c69b4|7]], [[#^s-43aa6fea9b9b164df4983651|8]], [[#^s-8fc870ac600e3897506660b7|9]], [[#^s-b7990c9ec8cb57acec3a3ad4|10]], [[#^s-f9c80dca5fd53fb3bbb1ffa2|11]] straipsnių, [[#^s-ebef3b30e17c9a056d746714|2 straipsnio]] [[#^s-2a12864f9ecf9d436684b04d|1]] ir [[#^s-960a3060911e4026ea3de630|2]] dalių ir [[#^s-e57908498c93820d43dbb5b1|6 straipsnio]] [[#^s-d8196734f6ff862628d314f5|2]], [[#^s-5837228ae717c4f4c2b4cfd0|4]], [[#^s-041bc996292740d0903285bb|5]] dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
+Šio įstatymo [[#^s-ebef3b30e17c9a056d746714|2 straipsnio]] [[#^s-160a596d16277095a1f84682|3]] ir [[#^s-6dc3d483b0f03f94f7394185|4]] dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
 Šio įstatymo [[#^s-09bce2a3fac68f2b9b1cb0da|6 straipsnio 1 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2011 metų ir vėlesnių metų mokestinių laikotarpių pajamas. Apskaičiuojant ir deklaruojant pridėtinės vertės mokesčio mokėtojais savanoriškai įsiregistravusių gyventojų 2011 metų apmokestinamąsias pajamas, šio įstatymo [[#^s-09bce2a3fac68f2b9b1cb0da|6 straipsnio 1 dalyje]] išdėstytame [[#^s-e213f3c06734bc315dde2663|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio 1 dalies 23 punkte]] nustatyta lengvata taikoma, jeigu tas gyventojas 2011 m. gruodžio 31 d. nėra įregistruotas pridėtinės vertės mokesčio mokėtoju.
 Šio įstatymo [[#^s-1ce43b18ec4701d1ac7b3250|6 straipsnio 3 dalies]] nuostatos taikomos apmokestinant nekilnojamojo pagal prigimtį daikto, kuris buvo įsigytas 2011 m. sausio 1 d. ar vėliau, taip pat nekilnojamojo pagal prigimtį daikto, kuris įsigytas iki 2011 m. sausio 1 d. ir iki šio įstatymo įsigaliojimo buvo laikomas individualios veiklos turtu, pardavimo ar kitokio perleidimo nuosavybėn pajamas.
 
@@ -2744,8 +2744,8 @@ Nr. XI-1778, 2011-12-06, Žin., 2011, Nr. 153-7206 (2011-12-15)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2166, 2012-06-29, Žin., 2012, Nr. 83-4340 (2012-07-14)
 [[latest/TAR.9DFD7031B916|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2, 6, 12, 16 IR 22 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-Šio įstatymo 1, [[#^s-337a0009be9e0120d93dd966|5 straipsniai]] ir [[#^s-339c0a1ec1f6d70dc06e6443|3 straipsnyje]] išdėstyto [[#^s-bb4f0df8802a0180862d5907|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 12 straipsnio 2 dalies]] nuostatos įsigalioja 2012 m. rugsėjo 1 d.
-Šio įstatymo 2, [[#^s-0ea0a2eb0ebebac1c06b4b9f|4 straipsnių]] ir [[#^s-339c0a1ec1f6d70dc06e6443|3 straipsnyje]] išdėstyto [[#^s-cdcae182bd53e59f504d55bd|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 12 straipsnio 1 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
+Šio įstatymo [[#^s-6f6cc3b241158f257ad42fa4|1]], [[#^s-337a0009be9e0120d93dd966|5]] straipsniai ir [[#^s-339c0a1ec1f6d70dc06e6443|3 straipsnyje]] išdėstyto [[#^s-bb4f0df8802a0180862d5907|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 12 straipsnio 2 dalies]] nuostatos įsigalioja 2012 m. rugsėjo 1 d.
+Šio įstatymo [[#^s-ebef3b30e17c9a056d746714|2]], [[#^s-0ea0a2eb0ebebac1c06b4b9f|4]] straipsnių ir [[#^s-339c0a1ec1f6d70dc06e6443|3 straipsnyje]] išdėstyto [[#^s-cdcae182bd53e59f504d55bd|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 12 straipsnio 1 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių metų mokestinių laikotarpių pajamas.
 
 49.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2757,8 +2757,8 @@ Nr. XI-2412, 2012-11-13, Žin., 2012, Nr. 136-6966 (2012-11-24)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-251, 2013-04-23, Žin., 2013, Nr. 46-2251 (2013-05-07)
 [[latest/TAR.055205DD0A5E|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 17 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo [[#^s-6f6cc3b241158f257ad42fa4|1 straipsnio]]  1, 3 ir [[#^s-a880d548276c5bae0f2fe0c2|5 dalys]]  taikomos apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių mokestinių laikotarpių pajamas.
-Šio įstatymo 2, 4, 6, 7 ir [[#^s-ef0b832ba2190995f8818743|8  dalys]]  taikomos apskaičiuojant ir deklaruojant 2013 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Šio įstatymo [[#^s-6f6cc3b241158f257ad42fa4|1 straipsnio]]  [[#^s-cbc1080922420af50aa51d16|1]], [[#^s-2f4d32a3183e4277fdd28102|3]] ir 5 dalys  taikomos apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Šio įstatymo 2, [[#^s-b5bdd8f2937b77d11888332d|4]], [[#^s-62ef487c9ba01edbfe53b78c|6]], [[#^s-39c0a1820ea987b77828cd71|7]] ir 8  dalys  taikomos apskaičiuojant ir deklaruojant 2013 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
 51.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2783,8 +2783,8 @@ GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-663, 2013-12-12, Žin., 2013, Nr. 140-7047 (2013-12-30)
 [[latest/220bc78089da11e397b5c02d3197f382|LIETUVOS RESPUBLIKOS GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 2, 5, 6, 17, 19, 21, 22, 32 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-0ea0a2eb0ebebac1c06b4b9f|4 straipsnio]] 1 ir 2 dalis, taikomas apskaičiuojant ir deklaruojant 2014 metų ir vėlesnių mokestinių laikotarpių pajamas.
-Šio įstatymo [[#^s-0ea0a2eb0ebebac1c06b4b9f|4 straipsnio]] 1 ir 2 dalys taikomos apskaičiuojant ir deklaruojant 2013 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Šis įstatymas, išskyrus [[#^s-0ea0a2eb0ebebac1c06b4b9f|4 straipsnio]] [[#^s-b2032381e47b7d38578831b0|1]] ir [[#^s-dae3a42c46bf03e7941439ec|2]] dalis, taikomas apskaičiuojant ir deklaruojant 2014 metų ir vėlesnių mokestinių laikotarpių pajamas.
+Šio įstatymo [[#^s-0ea0a2eb0ebebac1c06b4b9f|4 straipsnio]] [[#^s-b2032381e47b7d38578831b0|1]] ir [[#^s-dae3a42c46bf03e7941439ec|2]] dalys taikomos apskaičiuojant ir deklaruojant 2013 metų ir vėlesnių mokestinių laikotarpių pajamas.
 
 
 Pakeitimai:
@@ -2792,7 +2792,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1129, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13614
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 9, 13-1, 17 ir [[#^s-a685c449e333916002fc61c0|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-8fc870ac600e3897506660b7|9]], 13-1, [[#^s-5cd91d7584aea70ef315639a|17]] ir [[#^s-a685c449e333916002fc61c0|20]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2802,7 +2802,7 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-d1
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1465, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21225
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2 ir [[#^s-ad4fffd56e0d6964cf90fb43|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-ebef3b30e17c9a056d746714|2]] ir [[#^s-ad4fffd56e0d6964cf90fb43|18]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2812,32 +2812,32 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-5c
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2162, 2015-12-10, paskelbta TAR 2015-12-21, i. k. 2015-20135
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17, 20 ir [[#^s-f966aabfb0d034fea682709a|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-5cd91d7584aea70ef315639a|17]], [[#^s-a685c449e333916002fc61c0|20]] ir [[#^s-f966aabfb0d034fea682709a|21]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2203, 2015-12-17, paskelbta TAR 2015-12-30, i. k. 2015-21005
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 ir [[#^s-6d3ad49a6297c078e9261584|34 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-5cd91d7584aea70ef315639a|17]] ir [[#^s-6d3ad49a6297c078e9261584|34]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-87, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29275
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 20 ir [[#^s-55dcd612650b102b04c879c4|38 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-a685c449e333916002fc61c0|20]] ir [[#^s-55dcd612650b102b04c879c4|38]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-170, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29860
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 ir [[#^s-f966aabfb0d034fea682709a|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-5cd91d7584aea70ef315639a|17]] ir [[#^s-f966aabfb0d034fea682709a|21]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2502, 2016-06-28, paskelbta TAR 2016-07-05, i. k. 2016-18829
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 ir [[#^s-55dcd612650b102b04c879c4|38 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-5cd91d7584aea70ef315639a|17]] ir [[#^s-55dcd612650b102b04c879c4|38]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-142, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29771
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 ir [[#^s-55dcd612650b102b04c879c4|38 straipsnių]] pakeitimo [[latest/d129a85042b911e6a8ae9e1795984391|įstatymo Nr. XII-2502]] [[#^s-ebef3b30e17c9a056d746714|2 straipsnio]] pripažinimo netekusiu galios ir [[#^s-339c0a1ec1f6d70dc06e6443|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-5cd91d7584aea70ef315639a|17]] ir [[#^s-55dcd612650b102b04c879c4|38]] straipsnių pakeitimo [[latest/d129a85042b911e6a8ae9e1795984391|įstatymo Nr. XII-2502]] [[#^s-ebef3b30e17c9a056d746714|2 straipsnio]] pripažinimo netekusiu galios ir [[#^s-339c0a1ec1f6d70dc06e6443|3 straipsnio]] pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2847,17 +2847,17 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-ec
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-418, 2017-06-06, paskelbta TAR 2017-06-14, i. k. 2017-10026
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 ir [[#^s-55dcd612650b102b04c879c4|38 straipsnių]] pakeitimo [[latest/d129a85042b911e6a8ae9e1795984391|įstatymo Nr. XII-2502]] [[#^s-6f6cc3b241158f257ad42fa4|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-5cd91d7584aea70ef315639a|17]] ir [[#^s-55dcd612650b102b04c879c4|38]] straipsnių pakeitimo [[latest/d129a85042b911e6a8ae9e1795984391|įstatymo Nr. XII-2502]] [[#^s-6f6cc3b241158f257ad42fa4|1 straipsnio]] pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-841, 2017-12-07, paskelbta TAR 2017-12-20, i. k. 2017-20568
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16, 17, 18, 18-1, 19, 20, 22, 24, 27, 29, 33, [[#^s-6d3ad49a6297c078e9261584|34 straipsnių]] pakeitimo ir Įstatymo papildymo 18-2 straipsniu įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-ebef3b30e17c9a056d746714|2]], [[#^s-e57908498c93820d43dbb5b1|6]], [[#^s-b4555c92f1403471cc5e6e95|16]], [[#^s-5cd91d7584aea70ef315639a|17]], [[#^s-ad4fffd56e0d6964cf90fb43|18]], 18-1, [[#^s-d2c69268f331625fc1019007|19]], [[#^s-a685c449e333916002fc61c0|20]], [[#^s-8f97d215de56fe6d1175bed4|22]], [[#^s-6b5ac6eba3bbe27658c1451d|24]], [[#^s-d10138fc24ea9ea8dcb45fe4|27]], [[#^s-035d7f99e47d4caf3335534e|29]], [[#^s-ec6873986a7b3b2bc28f328e|33]], [[#^s-6d3ad49a6297c078e9261584|34]] straipsnių pakeitimo ir Įstatymo papildymo 18-2 straipsniu įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1335, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10977
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16, 20, 21 ir [[#^s-d10138fc24ea9ea8dcb45fe4|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-ebef3b30e17c9a056d746714|2]], [[#^s-e57908498c93820d43dbb5b1|6]], [[#^s-b4555c92f1403471cc5e6e95|16]], [[#^s-a685c449e333916002fc61c0|20]], [[#^s-f966aabfb0d034fea682709a|21]] ir [[#^s-d10138fc24ea9ea8dcb45fe4|27]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2872,7 +2872,7 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-5c
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1698, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20939
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 8, 13, 27 ir [[#^s-ec9927e6c7b809e7d0259ab5|37 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-ebef3b30e17c9a056d746714|2]], [[#^s-43aa6fea9b9b164df4983651|8]], [[#^s-cd7b4189897c13cfb37baf15|13]], [[#^s-d10138fc24ea9ea8dcb45fe4|27]] ir [[#^s-ec9927e6c7b809e7d0259ab5|37]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2882,7 +2882,7 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-6d
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1704, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20943
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16, 20, 21 ir [[#^s-d10138fc24ea9ea8dcb45fe4|27 straipsnių]] pakeitimo [[latest/889672c07c4c11e8ae2bfd1913d66d57|įstatymo Nr. XIII-1335]] 2, 6 ir [[#^s-4e36b589794dc840158c69b4|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-ebef3b30e17c9a056d746714|2]], [[#^s-e57908498c93820d43dbb5b1|6]], [[#^s-b4555c92f1403471cc5e6e95|16]], [[#^s-a685c449e333916002fc61c0|20]], [[#^s-f966aabfb0d034fea682709a|21]] ir [[#^s-d10138fc24ea9ea8dcb45fe4|27]] straipsnių pakeitimo [[latest/889672c07c4c11e8ae2bfd1913d66d57|įstatymo Nr. XIII-1335]] [[#^s-ebef3b30e17c9a056d746714|2]], [[#^s-e57908498c93820d43dbb5b1|6]] ir [[#^s-4e36b589794dc840158c69b4|7]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2897,7 +2897,7 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 papildym
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2649, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20990
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 6, 16, 20, 21 ir [[#^s-d10138fc24ea9ea8dcb45fe4|27 straipsnių]] pakeitimo [[latest/889672c07c4c11e8ae2bfd1913d66d57|įstatymo Nr. XIII-1335]] 2, 4 ir [[#^s-4e36b589794dc840158c69b4|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-ebef3b30e17c9a056d746714|2]], [[#^s-e57908498c93820d43dbb5b1|6]], [[#^s-b4555c92f1403471cc5e6e95|16]], [[#^s-a685c449e333916002fc61c0|20]], [[#^s-f966aabfb0d034fea682709a|21]] ir [[#^s-d10138fc24ea9ea8dcb45fe4|27]] straipsnių pakeitimo [[latest/889672c07c4c11e8ae2bfd1913d66d57|įstatymo Nr. XIII-1335]] [[#^s-ebef3b30e17c9a056d746714|2]], [[#^s-0ea0a2eb0ebebac1c06b4b9f|4]] ir [[#^s-4e36b589794dc840158c69b4|7]] straipsnių pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2907,7 +2907,7 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-a6
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2692, 2019-12-17, paskelbta TAR 2019-12-27, i. k. 2019-21324
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 34 ir [[#^s-60e9b4c8b741ad2e4f0cd6a3|35 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-6d3ad49a6297c078e9261584|34]] ir [[#^s-60e9b4c8b741ad2e4f0cd6a3|35]] straipsnių pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2942,7 +2942,7 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-a6
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-994, 2022-03-31, paskelbta TAR 2022-04-06, i. k. 2022-07159
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 4 ir [[#^s-5cd91d7584aea70ef315639a|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-0ea0a2eb0ebebac1c06b4b9f|4]] ir [[#^s-5cd91d7584aea70ef315639a|17]] straipsnių pakeitimo įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2952,7 +2952,7 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-5c
 33.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
-Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/1ce2a330b3f011eb8371ea260d59d64b)
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2987,42 +2987,42 @@ Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-d1
 40.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2803, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12619
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 8, 16, 17, 21 ir [[#^s-ec9927e6c7b809e7d0259ab5|37 straipsnių]] pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-ebef3b30e17c9a056d746714|2]], [[#^s-43aa6fea9b9b164df4983651|8]], [[#^s-b4555c92f1403471cc5e6e95|16]], [[#^s-5cd91d7584aea70ef315639a|17]], [[#^s-f966aabfb0d034fea682709a|21]] ir [[#^s-ec9927e6c7b809e7d0259ab5|37]] straipsnių pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
 
 41.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2863, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12648
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2 ir [[#^s-5cd91d7584aea70ef315639a|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-ebef3b30e17c9a056d746714|2]] ir [[#^s-5cd91d7584aea70ef315639a|17]] straipsnių pakeitimo įstatymas
 
 42.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-32, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22084
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 ir [[#^s-a685c449e333916002fc61c0|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-5cd91d7584aea70ef315639a|17]] ir [[#^s-a685c449e333916002fc61c0|20]] straipsnių pakeitimo įstatymas
 
 43.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-81, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23074
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 8, 16, 17, 21 ir [[#^s-ec9927e6c7b809e7d0259ab5|37 straipsnių]] pakeitimo ir Įstatymo papildymo 12-1 straipsniu [[latest/c48bd6b03a9d11efbdaea558de59136c|įstatymo Nr. XIV-2803]] 1 ir [[#^s-43aa6fea9b9b164df4983651|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-ebef3b30e17c9a056d746714|2]], [[#^s-43aa6fea9b9b164df4983651|8]], [[#^s-b4555c92f1403471cc5e6e95|16]], [[#^s-5cd91d7584aea70ef315639a|17]], [[#^s-f966aabfb0d034fea682709a|21]] ir [[#^s-ec9927e6c7b809e7d0259ab5|37]] straipsnių pakeitimo ir Įstatymo papildymo 12-1 straipsniu [[latest/c48bd6b03a9d11efbdaea558de59136c|įstatymo Nr. XIV-2803]] [[#^s-6f6cc3b241158f257ad42fa4|1]] ir [[#^s-43aa6fea9b9b164df4983651|8]] straipsnių pakeitimo įstatymas
 
 44.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-343, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11757
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 6, 13-1, 16, 17, 18, 18-2, 19, 20, 21, 23, 27, 29, 34 ir [[#^s-60e9b4c8b741ad2e4f0cd6a3|35 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-e57908498c93820d43dbb5b1|6]], 13-1, [[#^s-b4555c92f1403471cc5e6e95|16]], [[#^s-5cd91d7584aea70ef315639a|17]], [[#^s-ad4fffd56e0d6964cf90fb43|18]], 18-2, [[#^s-d2c69268f331625fc1019007|19]], [[#^s-a685c449e333916002fc61c0|20]], [[#^s-f966aabfb0d034fea682709a|21]], [[#^s-c7ae9ceba37c1535975a7d14|23]], [[#^s-d10138fc24ea9ea8dcb45fe4|27]], [[#^s-035d7f99e47d4caf3335534e|29]], [[#^s-6d3ad49a6297c078e9261584|34]] ir [[#^s-60e9b4c8b741ad2e4f0cd6a3|35]] straipsnių pakeitimo įstatymas
 
 45.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-352, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11772
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 17 ir [[#^s-f966aabfb0d034fea682709a|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-5cd91d7584aea70ef315639a|17]] ir [[#^s-f966aabfb0d034fea682709a|21]] straipsnių pakeitimo įstatymas
 
 46.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-680, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22569
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 6, 13-1, 16, 17, 18, 18-2, 19, 20, 21, 23, 27, 29, 34 ir [[#^s-60e9b4c8b741ad2e4f0cd6a3|35 straipsnių]] pakeitimo [[latest/949aaee2535b11f0b070ee7f1ceefc75|įstatymo Nr. XV-343]] 1, 3, 6, 8 ir [[#^s-8fc870ac600e3897506660b7|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-e57908498c93820d43dbb5b1|6]], 13-1, [[#^s-b4555c92f1403471cc5e6e95|16]], [[#^s-5cd91d7584aea70ef315639a|17]], [[#^s-ad4fffd56e0d6964cf90fb43|18]], 18-2, [[#^s-d2c69268f331625fc1019007|19]], [[#^s-a685c449e333916002fc61c0|20]], [[#^s-f966aabfb0d034fea682709a|21]], [[#^s-c7ae9ceba37c1535975a7d14|23]], [[#^s-d10138fc24ea9ea8dcb45fe4|27]], [[#^s-035d7f99e47d4caf3335534e|29]], [[#^s-6d3ad49a6297c078e9261584|34]] ir [[#^s-60e9b4c8b741ad2e4f0cd6a3|35]] straipsnių pakeitimo [[latest/949aaee2535b11f0b070ee7f1ceefc75|įstatymo Nr. XV-343]] [[#^s-6f6cc3b241158f257ad42fa4|1]], [[#^s-339c0a1ec1f6d70dc06e6443|3]], [[#^s-e57908498c93820d43dbb5b1|6]], [[#^s-43aa6fea9b9b164df4983651|8]] ir [[#^s-8fc870ac600e3897506660b7|9]] straipsnių pakeitimo įstatymas
 
 47.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-681, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22570
-Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 18, 18-1 ir 18-2 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 [[#^s-ad4fffd56e0d6964cf90fb43|18]], 18-1 ir 18-2 straipsnių pakeitimo įstatymas
 
 48.
 Lietuvos Respublikos Seimas, Įstatymas

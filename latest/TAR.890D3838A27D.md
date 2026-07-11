@@ -482,10 +482,10 @@ Nr. XIV-1085, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11381
 4. Mirties atvejų ir jų priežasčių registro duomenys tvarkomi siekiant gauti išsamius ir teisingus duomenis apie registro objektus, teikti duomenis teisės aktuose nustatytiems duomenų gavėjams ir rengti oficialią statistinę informaciją. ^s-5e4cb3f89e6fd2cb06307652
 
 
-5. Registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. Registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus bei [[latest/TAR.C6E4170DB704|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme]] nustatytus sveikatos duomenų teikimo pacientams reikalavimus. ^s-58df73aa0be26e64a3560615
+5. Registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. Registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus bei [[latest/TAR.C6E4170DB704|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme]] nustatytus sveikatos duomenų teikimo pacientams reikalavimus. ^s-58df73aa0be26e64a3560615
 
 
-6. Registro informacinės sistemos duomenys gali būti teikiami pakartotinai naudoti vadovaujantis [[latest/0457ba8067e611eca9ac839120d251c4|Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatymo]] nuostatomis arba kitu teisėtu pagrindu, nustatytu Reglamente (ES) 2016/679 arba specialiuosiuose įstatymuose, reglamentuojančiuose asmens duomenų tvarkymą asmens sutikimu. Asmens duomenų teikimas pakartotiniam naudojimui galimas tik tada, kai yra bent vienas teisėtas duomenų tvarkymo pagrindas pagal Reglamento (ES) 2016/679 [[#^s-7d42f1ffff3cce5a9256f06e|6 straipsnį]], o jeigu bus tvarkomi specialių kategorijų (sveikatos) duomenys, taikoma bent viena iš šio reglamento [[#^s-b2971a7d31f2205077fe6a40|9 straipsnio 2 dalyje]] nustatytų išimčių, leidžiančių tvarkyti specialių kategorijų (sveikatos) duomenis, ir toks tvarkymas atitinka Reglamento (ES) 2016/679 [[#^s-27348b8a026fc2941c83ba14|5 straipsnyje]] nustatytus duomenų tvarkymo principus. ^s-105ab96388f43cbca138ad0c
+6. Registro informacinės sistemos duomenys gali būti teikiami pakartotinai naudoti vadovaujantis [[latest/0457ba8067e611eca9ac839120d251c4|Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatymo]] nuostatomis arba kitu teisėtu pagrindu, nustatytu [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) arba specialiuosiuose įstatymuose, reglamentuojančiuose asmens duomenų tvarkymą asmens sutikimu. Asmens duomenų teikimas pakartotiniam naudojimui galimas tik tada, kai yra bent vienas teisėtas duomenų tvarkymo pagrindas pagal [Reglamento (ES) 2016/679 6 straipsnį](https://eur-lex.europa.eu/eli/reg/2016/679/art_6/oj), o jeigu bus tvarkomi specialių kategorijų (sveikatos) duomenys, taikoma bent viena iš šio reglamento [[#^s-b2971a7d31f2205077fe6a40|9 straipsnio 2 dalyje]] nustatytų išimčių, leidžiančių tvarkyti specialių kategorijų (sveikatos) duomenis, ir toks tvarkymas atitinka [Reglamento (ES) 2016/679 5 straipsnyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_5/oj) nustatytus duomenų tvarkymo principus. ^s-105ab96388f43cbca138ad0c
 
 
 7. Registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra atveriami pakartotinai naudoti. ^s-7915dfb32b2428397045b641
@@ -550,12 +550,12 @@ Nr. X-1564, 2008-06-03, Žin., 2008, Nr. 68-2567 (2008-06-14), i. k. [[latest/TA
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2044, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18918
-Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 2, 5, 7, 8, 9, 13, 14, 15, [[#^s-4d87c3ff43dd8cf431bd4cbf|16 straipsnių]] pakeitimo ir [[#^s-7d42f1ffff3cce5a9256f06e|6 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 [[#^s-b2204fd5a99981d6ec9c7abc|2]], [[#^s-27348b8a026fc2941c83ba14|5]], [[#^s-8b6d4db5e068ddb83daa56f2|7]], [[#^s-34b1af4739e0debab3188c45|8]], [[#^s-00f2d74d6a39798b6915f7c7|9]], [[#^s-6fd21f9009ef8fe05fed3422|13]], [[#^s-2a78cec92ef0179ccfa33467|14]], [[#^s-ad4f36b8372e2d625abcf464|15]], [[#^s-4d87c3ff43dd8cf431bd4cbf|16]] straipsnių pakeitimo ir [[#^s-7d42f1ffff3cce5a9256f06e|6 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2119, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19712
-Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 15 ir 15-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 [[#^s-ad4f36b8372e2d625abcf464|15]] ir 15-1 straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -565,12 +565,12 @@ Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2302, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12185
-Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 2, 3, 9, 10 ir [[#^s-0d2e95c9d5fb51c0cbf31d90|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 [[#^s-b2204fd5a99981d6ec9c7abc|2]], [[#^s-47500bac9a6762573d610c19|3]], [[#^s-00f2d74d6a39798b6915f7c7|9]], [[#^s-3568bb5e8173fb166bf89b46|10]] ir [[#^s-0d2e95c9d5fb51c0cbf31d90|11]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1085, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11381
-Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 4, 13, 14 ir [[#^s-ad4f36b8372e2d625abcf464|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žmogaus mirties nustatymo ir kritinių būklių įstatymo Nr. VIII-157 [[#^s-eb9b08d4eefeb713d734a981|4]], [[#^s-6fd21f9009ef8fe05fed3422|13]], [[#^s-2a78cec92ef0179ccfa33467|14]] ir [[#^s-ad4f36b8372e2d625abcf464|15]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas

@@ -469,7 +469,7 @@ Nr. X-1253, 2007-07-03, Žin., 2007, Nr. 80-3223 (2007-07-19)
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1254, 2007-07-03, Žin., 2007, Nr. 81-3318 (2007-07-21)
-VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 3, 5 IR 5(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ [DARBO APMOKĖJIMO ĮSTATYMO](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) 3, 5 IR 5(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Įstatymas įsigalioja nuo 2007 m. rugpjūčio 1 d.
 
 21.
@@ -482,7 +482,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1688, 2008-07-03, Žin., 2008, Nr. 81-3188 (2008-07-17)
 [[latest/TAR.FF9DFAB7EBC9|VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 2 STRAIPSNIO IR ĮSTATYMO PRIEDĖLIO IV SKIRSNIO PAKEITIMO ĮSTATYMAS]]
 Šis įstatymas įsigalioja 2009 m. vasario 1 d.
-Iki šio įstatymo įsigaliojimo paskirtam Nacionalinės teismų administracijos direktoriui iki kadencijos, kuriai jis buvo paskirtas, pabaigos taikomos Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nuostatos.
+Iki šio įstatymo įsigaliojimo paskirtam Nacionalinės teismų administracijos direktoriui iki kadencijos, kuriai jis buvo paskirtas, pabaigos taikomos Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nuostatos.
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -561,8 +561,8 @@ VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIED
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-361, 2009-07-17, Žin., 2009, Nr. 91-3916 (2009-07-31)
 VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO PAKEITIMO ĮSTATYMAS
-Šis įstatymas įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2013 m. gruodžio 31 d., išskyrus [[#^s-fe251fd02f6d3b155e5f705a|1 straipsnyje]] išdėstytą Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio III skirsnį.
-Šio įstatymo [[#^s-fe251fd02f6d3b155e5f705a|1 straipsnyje]] išdėstytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio III skirsnis įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2012 m. balandžio 30 d.
+Šis įstatymas įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2013 m. gruodžio 31 d., išskyrus [[#^s-fe251fd02f6d3b155e5f705a|1 straipsnyje]] išdėstytą Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) priedėlio III skirsnį.
+Šio įstatymo [[#^s-fe251fd02f6d3b155e5f705a|1 straipsnyje]] išdėstytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) priedėlio III skirsnis įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2012 m. balandžio 30 d.
 Įstatymo galiojimas keistas:
 28.1.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -607,7 +607,7 @@ VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIED
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1834, 2011-12-21, Žin., 2011, Nr. 163-7747 (2011-12-31)
-VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO III SKIRSNIO PAKEITIMO ĮSTATYMAS
+[VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO PRIEDĖLIO III SKIRSNIO PAKEITIMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.2D940771E849)
 Šis įstatymas įsigalioja 2012 m. gegužės 1 d. ir galioja iki 2013 m. gruodžio 31 d.
 Šio įstatymo galiojimas keistas:
 32.1.
@@ -656,7 +656,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2001-07-12, Žin., 2001, Nr. 62-2276 (2001-07-18)
-DĖL LIETUVOS RESPUBLIKOS VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 4 STRAIPSNIO 1 IR [[#^s-d2e9fd7152d204ecf749aee3|2 DALIŲ]], 5 STRAIPSNIO 1 IR 3 DALIŲ, 7 STRAIPSNIO 3 DALIES 1 PUNKTO, 4, 5 IR 6 DALIŲ, ŠIO ĮSTATYMO PRIEDĖLIO II SKIRSNIO, [[latest/TAR.689A5959367D|LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO]] 6 PRIEDĖLIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 9 STRAIPSNIO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499 "DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR TEISĖSAUGOS ORGANŲ VADOVŲ BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO APMOKĖJIMO TVARKOS", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666 "DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ DARBUOTOJŲ DARBO APMOKĖJIMO", LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1999 M. GRUODŽIO 28 D. NUTARIMO NR. 1494 "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689 "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS INSTITUCIJŲ VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO" DALINIO PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+DĖL LIETUVOS RESPUBLIKOS VALSTYBĖS POLITIKŲ, TEISĖJŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMO 4 STRAIPSNIO 1 IR 2 DALIŲ, 5 STRAIPSNIO 1 IR 3 DALIŲ, 7 STRAIPSNIO 3 DALIES 1 PUNKTO, 4, 5 IR 6 DALIŲ, ŠIO ĮSTATYMO PRIEDĖLIO II SKIRSNIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO 6 PRIEDĖLIO, LIETUVOS RESPUBLIKOS 2000 METŲ VALSTYBĖS BIUDŽETO IR SAVIVALDYBIŲ BIUDŽETŲ FINANSINIŲ RODIKLIŲ PATVIRTINIMO ĮSTATYMO PAKEITIMO ĮSTATYMO 9 STRAIPSNIO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS [1991 M. LAPKRIČIO 29 D. NUTARIMO NR. 499](https://e-tar.lt/portal/lt/legalAct/TAR.2430F0D4DF26) ["DĖL VALSTYBINĖS VALDŽIOS, VALSTYBĖS VALDYMO IR TEISĖSAUGOS ORGANŲ VADOVŲ BEI KITŲ PAREIGŪNŲ LAIKINOS BANDOMOSIOS DARBO APMOKĖJIMO TVARKOS"](https://e-tar.lt/portal/lt/legalAct/TAR.2430F0D4DF26), LIETUVOS RESPUBLIKOS VYRIAUSYBĖS [1997 M. BIRŽELIO 24 D. NUTARIMO NR. 666](https://e-tar.lt/portal/lt/legalAct/TAR.8A98E644D146) ["DĖL LIETUVOS RESPUBLIKOS TEISMŲ TEISĖJŲ, PROKURATŪROS SISTEMOS IR LIETUVOS RESPUBLIKOS VALSTYBĖS SAUGUMO DEPARTAMENTO PAREIGŪNŲ BEI KITŲ DARBUOTOJŲ DARBO APMOKĖJIMO"](https://e-tar.lt/portal/lt/legalAct/TAR.8A98E644D146), LIETUVOS RESPUBLIKOS VYRIAUSYBĖS [1999 M. GRUODŽIO 28 D. NUTARIMO NR. 1494](https://e-tar.lt/portal/lt/legalAct/TAR.8693B0D582DB) "DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS [1997 M. BIRŽELIO 30 D. NUTARIMO NR. 689](https://e-tar.lt/portal/lt/legalAct/TAR.0BFBA7DCF4B5) "DĖL TEISĖTVARKOS, TEISĖSAUGOS IR KONTROLĖS INSTITUCIJŲ VADOVAUJANČIŲJŲ PAREIGŪNŲ IR VALDININKŲ DARBO APMOKĖJIMO" DALINIO PAKEITIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 
 
@@ -681,7 +681,7 @@ Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmok�
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2137, 2015-12-08, paskelbta TAR 2015-12-16, i. k. 2015-19845
-Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2, [[#^s-9cf9f5e15b199aab30ea1497|3 straipsnių]] ir priedėlio pakeitimo įstatymas
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 [[#^s-7009e1461444e052a5141daf|2]], [[#^s-9cf9f5e15b199aab30ea1497|3]] straipsnių ir priedėlio pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -696,17 +696,17 @@ Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmok�
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-939, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21626
-Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2, [[#^s-9cf9f5e15b199aab30ea1497|3 straipsnių]] ir priedėlio pakeitimo įstatymas
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 [[#^s-7009e1461444e052a5141daf|2]], [[#^s-9cf9f5e15b199aab30ea1497|3]] straipsnių ir priedėlio pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-899, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21496
-Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 2, [[#^s-9cf9f5e15b199aab30ea1497|3 straipsnių]], Įstatymo priedėlio pakeitimo ir 5-1 straipsnio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 [[#^s-7009e1461444e052a5141daf|2]], [[#^s-9cf9f5e15b199aab30ea1497|3]] straipsnių, Įstatymo priedėlio pakeitimo ir 5-1 straipsnio pripažinimo netekusiu galios įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1103, 2018-04-19, paskelbta TAR 2018-05-02, i. k. 2018-06970
-Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 3, 4 straipsnių ir priedėlio pakeitimo įstatymas
+Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo Nr. VIII-1904 [[#^s-9cf9f5e15b199aab30ea1497|3]], 4 straipsnių ir priedėlio pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas

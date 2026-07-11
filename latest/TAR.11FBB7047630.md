@@ -49,7 +49,7 @@ Vilnius
 ### 2 straipsnis. 16 straipsnio papildymas ^s-0eb930d3b631d02b7ec2561b
 
 
-Papildyti 16 straipsnį 10 ir [[#^s-7660caf6b0a54f1749e452ac|11 dalimis]]:
+Papildyti 16 straipsnį 10 ir 11 dalimis:
 
 
 „10. Iki 2007 m. sausio 1 d. paskirtos mažesnės kaip 430 litų pareigūnų ir karių valstybinės pensijos už tarnybą (ištarnautus metus) arba netekto darbingumo (invalidumo) pensijos, išskyrus privalomosios karo tarnybos karių ir karių savanorių netekto darbingumo (invalidumo) pensijas, atsižvelgiant į pareigūnų ir karių išleidimo į pensiją (pensijos paskyrimo) datą, didinamos, bet ne daugiau kaip iki 430 litų, laikantis šios tvarkos:

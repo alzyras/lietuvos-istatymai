@@ -163,7 +163,7 @@ Pakeisti 43 straipsnį ir jį išdėstyti taip:
 Pakeisti 47 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Audito įmonė ir auditorius už audito atlikimą, auditoriaus išvados dėl audituotuose finansų įstaigos metinių finansinių ataskaitų rinkiniuose pateiktų duomenų išsamumo, tikrumo ir tikslumo pateikimą atsako Lietuvos Respublikos įstatymuose ir audito įmonės ir užsakovo pasirašytoje sutartyje dėl audito atlikimo nustatyta tvarka.“
+„1. Audito įmonė ir auditorius už audito atlikimą, auditoriaus išvados dėl audituotuose finansų įstaigos metinių finansinių ataskaitų rinkiniuose pateiktų duomenų išsamumo, tikrumo ir tikslumo pateikimą atsako Lietuvos Respublikos įstatymuose ir audito įmonės ir užsakovo pasirašytoje sutartyje [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) atlikimo nustatyta tvarka.“
 
 
 ### 8 straipsnis. 50 straipsnio 1 dalies 4 punkto pakeitimas ^s-a115edc703b0508c3968a251

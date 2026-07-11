@@ -57,13 +57,13 @@ Pakeisti 2 straipsnio 21 dalį ir ją išdėstyti taip:
 „21. Pakuotė – grąžintinas ar negrąžintinas gaminys iš bet kokių medžiagų, skirtas daiktams, pradedant žaliavomis ir baigiant perdirbtais produktais, pakuoti (fasuoti), apsaugoti, tvarkyti, transportuoti ir pateikti vartotojams ar produktų naudotojams:
 
 
-1) gaminys nėra pakuotė, jeigu jis yra neatskiriama kito gaminio dalis, yra skirtas tam gaminiui laikyti ir apsaugoti visą jo gyvavimo laikotarpį ir visos jo dalys naudojamos, vartojamos ir pašalinamos kartu (šiam kriterijui paaiškinti skirti pavyzdžiai pateikti Įstatymo 1 priedo [[#^s-bf045f044e9fc7d8bd4c895e|1 punkte]]); ^s-bf045f044e9fc7d8bd4c895e
+1) gaminys nėra pakuotė, jeigu jis yra neatskiriama kito gaminio dalis, yra skirtas tam gaminiui laikyti ir apsaugoti visą jo gyvavimo laikotarpį ir visos jo dalys naudojamos, vartojamos ir pašalinamos kartu (šiam kriterijui paaiškinti skirti pavyzdžiai pateikti Įstatymo 1 priedo 1 punkte); ^s-bf045f044e9fc7d8bd4c895e
 
 
-2) gaminys yra pakuotė, skirtas užpildyti pardavimo vietoje, taip pat vienkartiniai gaminiai, kurie parduodant užpildomi ir (ar) skirti užpildyti pardavimo vietoje, jei jie atlieka pakuotės funkciją (šiam kriterijui paaiškinti skirti pavyzdžiai pateikti Įstatymo 1 priedo [[#^s-1ca386cc447f637ed00f7d45|2 punkte]]); ^s-1ca386cc447f637ed00f7d45
+2) gaminys yra pakuotė, skirtas užpildyti pardavimo vietoje, taip pat vienkartiniai gaminiai, kurie parduodant užpildomi ir (ar) skirti užpildyti pardavimo vietoje, jei jie atlieka pakuotės funkciją (šiam kriterijui paaiškinti skirti pavyzdžiai pateikti Įstatymo 1 priedo 2 punkte); ^s-1ca386cc447f637ed00f7d45
 
 
-3) pakuotę sudarantys pakuotės komponentai ir pagalbiniai elementai yra šios pakuotės dalys. Pagalbiniai elementai, tiesiogiai prikabinti ar pritvirtinti prie gaminio ir atliekantys pakuotės funkciją, yra pakuotė, išskyrus atvejus, kai jie yra gaminio sudedamoji dalis ir visos dalys yra skirtos kartu naudoti ir pašalinti (šiam kriterijui paaiškinti skirti pavyzdžiai pateikti Įstatymo 1 priedo [[#^s-242aad668df45d3a10c513cd|3 punkte]]).“ ^s-242aad668df45d3a10c513cd
+3) pakuotę sudarantys pakuotės komponentai ir pagalbiniai elementai yra šios pakuotės dalys. Pagalbiniai elementai, tiesiogiai prikabinti ar pritvirtinti prie gaminio ir atliekantys pakuotės funkciją, yra pakuotė, išskyrus atvejus, kai jie yra gaminio sudedamoji dalis ir visos dalys yra skirtos kartu naudoti ir pašalinti (šiam kriterijui paaiškinti skirti pavyzdžiai pateikti Įstatymo 1 priedo 3 punkte).“ ^s-242aad668df45d3a10c513cd
 
 
 
@@ -79,7 +79,7 @@ pakuočių ir pakuočių atliekų
 tvarkymo įstatymo
 1 priedas
 
-LIETUVOS RESPUBLIKOS PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 2 STRAIPSNIO 21 DALYJE NURODYTIEMS PAKUOČIŲ KRITERIJAMS PAAIŠKINTI SKIRTI PAVYZDŽIAI
+[[latest/TAR.9D1ADB9E1518|LIETUVOS RESPUBLIKOS PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 2 STRAIPSNIO 21 DALYJE]] NURODYTIEMS PAKUOČIŲ KRITERIJAMS PAAIŠKINTI SKIRTI PAVYZDŽIAI
 
 
 

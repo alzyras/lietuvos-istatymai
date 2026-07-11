@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-54b85ea3831ba4bdeb9d4274
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. spalio 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti sutartį dėl prekių ženklų įstatymų“, ratifikuoja Sutartį dėl prekių ženklų įstatymų, pasirašytą 1994 m. spalio 27 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. spalio 27 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti sutartį dėl prekių ženklų įstatymų“](https://e-tar.lt/portal/lt/legalAct/TAR.386846884E97), ratifikuoja Sutartį dėl prekių ženklų įstatymų, pasirašytą 1994 m. spalio 27 d. Ženevoje.
 
 
 

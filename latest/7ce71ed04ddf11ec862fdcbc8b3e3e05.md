@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 nauja redakcija ^s-072d7ef47edeac90b9c9a862
 
 
-Pakeisti Lietuvos Respublikos valstybės iždo [[latest/TAR.55627FB64864|įstatymą Nr. I-712]] ir jį išdėstyti taip:
+Pakeisti Lietuvos Respublikos valstybės iždo įstatymą Nr. I-712 ir jį išdėstyti taip:
 
 
 „LIETUVOS RESPUBLIKOS
@@ -86,7 +86,7 @@ VALSTYBĖS IŽDO
 6. Valstybės pinigų fondai – pagal Lietuvos Respublikos įstatymus įsteigti fondai, kurių sudarymo šaltinis yra valstybės piniginiai ištekliai ir kuriuose sukauptos lėšos naudojamos šių fondų veiklą reglamentuojančiuose įstatymuose nustatytiems tikslams. ^s-3335a076b7bddf683daa3580
 
 
-7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatyme]], [[latest/TAR.C6C5599DD9A1|Lietuvos Respublikos mokėjimų įstatyme]], Lietuvos Respublikos nacionalinių plėtros įstaigų įstatyme ir [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]]. ^s-d9870a69fe7b5633690e652b
+7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatyme]], [[latest/TAR.C6C5599DD9A1|Lietuvos Respublikos mokėjimų įstatyme]], [Lietuvos Respublikos nacionalinių plėtros įstaigų įstatyme](https://e-tar.lt/portal/lt/legalAct/63fc0b406f9611e8ae2bfd1913d66d57) ir [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]]. ^s-d9870a69fe7b5633690e652b
 
 
 
@@ -102,7 +102,7 @@ VALSTYBĖS IŽDO
 3. Finansų ministerija, įgyvendindama valstybės iždo funkcijas, gali disponuoti įstaigų tvarkomose sąskaitose esančiomis ir įstaigų savo funkcijoms įgyvendinti laikinai nenaudojamomis lėšomis (toliau – įstaigų tvarkomose sąskaitose laikinai nenaudojamos lėšos), jeigu užtikrina įstaigų teisę netrukdomai disponuoti tomis lėšomis. ^s-9de1f2c7d678cb0e367abdd6
 
 
-4. Šio straipsnio 1 ir [[#^s-09354a8902020f38697f69c5|2 dalyse]] nurodytos lėšos ar jų dalis finansų ministro nustatyta tvarka taip pat gali būti laikomos finansų įstaigose, kai yra bent viena iš šių sąlygų: ^s-819eb940204970912a487823
+4. Šio straipsnio [[#^s-c7ab3e8a44ddc5315953d041|1]] ir [[#^s-09354a8902020f38697f69c5|2]] dalyse nurodytos lėšos ar jų dalis finansų ministro nustatyta tvarka taip pat gali būti laikomos finansų įstaigose, kai yra bent viena iš šių sąlygų: ^s-819eb940204970912a487823
 
 
 1) lėšos yra paskolintos ar kitaip investuotos arba naudojamos pagal Europos Sąjungos teisės aktus, Europos Sąjungos institucijų ar organizacijų sprendimus ir (arba) su tuo susijusias sutartis ar susitarimus, Lietuvos Respublikos tarptautines sutartis ar šių sutarčių pagrindu su tarptautinėmis finansų institucijomis pasirašytus susitarimus; ^s-ee2a4c03842b73e11b355599
@@ -139,7 +139,7 @@ VALSTYBĖS IŽDO
 4. Į valstybės iždo pagrindinę sąskaitą negali būti nukreiptas joks išieškojimas ir jokių laikinųjų apsaugos priemonių taikymas. ^s-3163bf6668b410a3ce51b8f4
 
 
-5. Disponavimo įstaigų tvarkomose sąskaitose esančiomis lėšomis apribojimai ir išieškojimas iš įstaigų tvarkomose sąskaitose laikomų lėšų vykdomi mutatis mutandis taikant Lietuvos Respublikos civilinio proceso kodekso 689 straipsnio nuostatas. ^s-cc29df51a3a1e761f30a5a5c
+5. Disponavimo įstaigų tvarkomose sąskaitose esančiomis lėšomis apribojimai ir išieškojimas iš įstaigų tvarkomose sąskaitose laikomų lėšų vykdomi mutatis mutandis taikant [Lietuvos Respublikos civilinio proceso kodekso 689 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nuostatas. ^s-cc29df51a3a1e761f30a5a5c
 
 
 

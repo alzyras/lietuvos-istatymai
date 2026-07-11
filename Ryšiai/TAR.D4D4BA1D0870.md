@@ -10,11 +10,10 @@ pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo 3, 6, 22, 24, 26, 29, 
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.3A756D83A99B|Lietuvos Respublikos biudžetinių įstaigų įstatymas]] - Lietuvos Respublikos biudžetinių įstaigų įstatymas
-- [[latest/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 4 citatos - Biudžeto sandaros įstatymo
-- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Darbo kodeksas
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 6 citatos - Valstybės tarnybos įstatymo
+- [[latest/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - Biudžeto sandaros įstatymo
+- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - Darbo kodeksas
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 3 citatos - Valstybės tarnybos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.96A68BFC9E82#^s-6441e2315f1f73a9da2d6c3d|Lietuvos Respublikos Vyriausybės įstatymas]] - Įstatymas Nr. XI-863
-- [[latest/TAR.96A68BFC9E82#^s-94ff0f6ce570b86058afcfb6|Lietuvos Respublikos Vyriausybės įstatymas]] - Įstatymas Nr. XI-863
+_Nėra._

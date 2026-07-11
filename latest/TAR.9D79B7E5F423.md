@@ -93,7 +93,7 @@ BENDROSIOS NUOSTATOS
 7. Pirotechnikos priemonės, pagamintos specialiai moksliniams tyrimams, technologijų plėtrai ir bandymams, kurios neatitinka šio įstatymo nuostatų, gali būti šio įstatymo [[#^s-2c94bd275ed30bf672516e55|19 straipsnio 4 dalyje]] nustatyta tvarka importuojamos, vežamos tranzitu, įvežamos, importuojamos (eksportuojamos, išvežamos) į (iš) Lietuvos Respubliką (Lietuvos Respublikos) ir naudojamos, jei ant priemonės aiškiai nurodyta, kad pirotechnikos priemonė neatitinka esminių saugos reikalavimų ir šios pirotechnikos priemonės negali būti naudojamos kitiems tikslams, išskyrus mokslinius tyrimus, technologijų plėtrą ir bandymus. ^s-4329cfa8ebe81f76e6ea4e0b
 
 
-8. Šio straipsnio 6 ir [[#^s-4329cfa8ebe81f76e6ea4e0b|7 dalyse]] nurodytų pirotechnikos priemonių importo, įvežimo (eksporto, išvežimo), vežimo tranzitu, rodymo, naudojimo, laikymo Lietuvos Respublikoje tvarką nustato Lietuvos Respublikos Vyriausybės įgaliota institucija. ^s-5f8f65e07f3a935f96992c4d
+8. Šio straipsnio [[#^s-456cbcc7ba06547b24ab82e2|6]] ir [[#^s-4329cfa8ebe81f76e6ea4e0b|7]] dalyse nurodytų pirotechnikos priemonių importo, įvežimo (eksporto, išvežimo), vežimo tranzitu, rodymo, naudojimo, laikymo Lietuvos Respublikoje tvarką nustato Lietuvos Respublikos Vyriausybės įgaliota institucija. ^s-5f8f65e07f3a935f96992c4d
 
 
 
@@ -296,7 +296,7 @@ CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ SAUGOS KONTROLĖ IR ŽENKLINIMAS
 9. Kiekviena tiekiama rinkai P1 ir P2 kategorijų pirotechnikos priemonė turi būti paženklinta etikete, kurioje įrašytas šios priemonės gamintojo pavadinimas ir adresas ar, jei gamintojas nėra įsisteigęs valstybėse narėse, gamintojo pavadinimas, pirotechnikos priemonės kategorija ir eksportuotojo, importuotojo, įvežančio ar išvežančio asmens pavadinimas ir adresas, gaminio pavadinimas ir tipas, pateikta informacija, kaip saugiai naudoti gaminį. ^s-747d9c38572b78ac60b3aca5
 
 
-10. Jeigu ant civilinės pirotechnikos priemonės nėra pakankamai vietos šio straipsnio 2–[[#^s-747d9c38572b78ac60b3aca5|9 dalyse]] reikalaujamai informacijai nurodyti, tokia informacija turi būti pateikta ant kiekvienos mažiausios pakuotės. ^s-c8e3645bd2564b101cefd0eb
+10. Jeigu ant civilinės pirotechnikos priemonės nėra pakankamai vietos šio straipsnio [[#^s-8c0a1e540fa254804e2caa57|2]]–[[#^s-747d9c38572b78ac60b3aca5|9]] dalyse reikalaujamai informacijai nurodyti, tokia informacija turi būti pateikta ant kiekvienos mažiausios pakuotės. ^s-c8e3645bd2564b101cefd0eb
 
 
 11. Transporto priemonėms skirtų pirotechnikos priemonių etiketėse turi būti nurodytas šių priemonių gamintojo pavadinimas ar, jei gamintojas nėra įsisteigęs valstybėse narėse, eksportuotojo, importuotojo, įvežančio ar išvežančio asmens pavadinimas, gaminio pavadinimas ir tipas, pateikta informacija, kaip saugiai naudoti gaminį. ^s-ba7298d92e9ca9587b1cedad
@@ -373,7 +373,7 @@ CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ gamybos, prekybos, importo, eksporto, 4 kate
 1) asmuo, sergantis ligomis ar turintis fizinių trūkumų, dėl kurių asmuo negali tinkamai elgtis su pirotechnikos priemonėmis; ^s-eb6265e6e3e4bfc0abf6fbc0
 
 
-2) asmuo, kuriam Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai; ^s-18a5ec075c12485fe708a5a3
+2) asmuo, kuriam [Lietuvos Respublikos organizuoto nusikalstamumo užkardymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.67E8ECAA4910) nustatyta tvarka taikomi teismo įpareigojimai; ^s-18a5ec075c12485fe708a5a3
 
 
 3) asmuo, kuriam verstis šio įstatymo nustatyta veikla uždrausta teismo nuosprendžiu; ^s-94d59f7d334f880203317a56
@@ -404,10 +404,10 @@ CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ gamybos, prekybos, importo, eksporto, 4 kate
 1) licencijas išduodanti institucija nustato, kad licencijos turėtojas pažeidė licencijuojamos veiklos sąlygų reikalavimus; ^s-0a5d2f91d42b5a0faec20787
 
 
-2) paaiškėja, kad Lietuvos Respublikos ar valstybės narės nuolatinis gyventojas, ar Lietuvos Respublikoje įsteigtas juridinis asmuo, valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija, ar jų filialas, įsteigtas Lietuvos Respublikoje ar valstybėje narėje, taip pat Lietuvos Respublikoje įregistruotas užsienio juridinis asmuo ar kitos organizacijos filialas, kuris verčiasi šio įstatymo nustatyta licencijuojama veikla, darbuotojas, kuris vykdo ar prižiūri civilinių pirotechnikos priemonių gamybą, įsigijimą, laikymą, realizavimą ar tvarko apskaitą (prie tokių darbuotojų nepriskiriami buhalterinę apskaitą tvarkantys darbuotojai), juridinis asmuo ar jo padalinio vadovas, kuris tiesiogiai kontroliuoja civilinių pirotechnikos priemonių gamybą, įsigijimą, laikymą, realizavimą ar apskaitą, pirotechnikas atitinka šio įstatymo [[#^s-b8edaa4c72a7fe24b1d7bd17|11 straipsnio 1 dalies]] 1–6 punktuose nustatytus kriterijus; ^s-11ab1cb703a12e757d6f2a67
+2) paaiškėja, kad Lietuvos Respublikos ar valstybės narės nuolatinis gyventojas, ar Lietuvos Respublikoje įsteigtas juridinis asmuo, valstybėje narėje įsteigtas juridinis asmuo ar kita organizacija, ar jų filialas, įsteigtas Lietuvos Respublikoje ar valstybėje narėje, taip pat Lietuvos Respublikoje įregistruotas užsienio juridinis asmuo ar kitos organizacijos filialas, kuris verčiasi šio įstatymo nustatyta licencijuojama veikla, darbuotojas, kuris vykdo ar prižiūri civilinių pirotechnikos priemonių gamybą, įsigijimą, laikymą, realizavimą ar tvarko apskaitą (prie tokių darbuotojų nepriskiriami buhalterinę apskaitą tvarkantys darbuotojai), juridinis asmuo ar jo padalinio vadovas, kuris tiesiogiai kontroliuoja civilinių pirotechnikos priemonių gamybą, įsigijimą, laikymą, realizavimą ar apskaitą, pirotechnikas atitinka šio įstatymo [[#^s-b8edaa4c72a7fe24b1d7bd17|11 straipsnio 1 dalies]] [[#^s-eb6265e6e3e4bfc0abf6fbc0|1]]–[[#^s-e424f6e367015e925ad32ee7|6]] punktuose nustatytus kriterijus; ^s-11ab1cb703a12e757d6f2a67
 
 
-3) paaiškėja, kad kontroliuojantis asmuo, juridinis asmuo ar jo padalinio vadovas, kurio veikla nėra tiesiogiai susijusi su civilinių pirotechnikos priemonių gamybos, įsigijimo, laikymo, realizavimo ar apskaitos kontrole, atitinka šio įstatymo [[#^s-b8edaa4c72a7fe24b1d7bd17|11 straipsnio 1 dalies]] 2–6 punktuose nustatytus kriterijus; ^s-dff14b782bf1a9b14985e645
+3) paaiškėja, kad kontroliuojantis asmuo, juridinis asmuo ar jo padalinio vadovas, kurio veikla nėra tiesiogiai susijusi su civilinių pirotechnikos priemonių gamybos, įsigijimo, laikymo, realizavimo ar apskaitos kontrole, atitinka šio įstatymo [[#^s-b8edaa4c72a7fe24b1d7bd17|11 straipsnio 1 dalies]] [[#^s-18a5ec075c12485fe708a5a3|2]]–[[#^s-e424f6e367015e925ad32ee7|6]] punktuose nustatytus kriterijus; ^s-dff14b782bf1a9b14985e645
 
 
 4) licencijos turėtojas per 30 kalendorinių dienų raštu nepateikė duomenų, susijusių su vykdoma licencijuojama veikla, po to kai licencijas išduodanti institucija raštu paprašė tokius duomenis pateikti. ^s-ee07b70782b3a262f32fc077
@@ -547,7 +547,7 @@ LICENCIJUOJAMOS VEIKLOS SĄLYGOS, CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ APYVARTOS 
 2. Versdamiesi licencijuojama veikla, prekiautojai civilinėmis pirotechnikos priemonėmis privalo laikytis [[#^s-a3f54e17448a4fc2959fc8fc|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytų reikalavimų. ^s-ff6f863df29b47134808c609
 
 
-3. Versdamiesi licencijuojama veikla, civilinių pirotechnikos priemonių gamintojai privalo laikytis [[#^s-a3f54e17448a4fc2959fc8fc|šio straipsnio 1 dalies]] 2, 3 ir [[#^s-6f36184edf4fff139633cd57|4 punktuose]] nurodytų reikalavimų. Gamintojai taip pat privalo: ^s-6d2ba6f1378294160097c7e4
+3. Versdamiesi licencijuojama veikla, civilinių pirotechnikos priemonių gamintojai privalo laikytis [[#^s-a3f54e17448a4fc2959fc8fc|šio straipsnio 1 dalies]] [[#^s-e6e9db8a1d5b49690e008eda|2]], [[#^s-5d673359ed5f4bd7c4e1e2e3|3]] ir [[#^s-6f36184edf4fff139633cd57|4]] punktuose nurodytų reikalavimų. Gamintojai taip pat privalo: ^s-6d2ba6f1378294160097c7e4
 
 
 1) garantuoti, kad visų pagamintų civilinių pirotechnikos priemonių konstrukcija, jų gamybos technologija užtikrintų, kad civilinių pirotechnikos priemonių keliamas pavojus gyvybei ir sveikatai, aplinkai, turtui būtų minimalus, jei bus laikomasi saugos taisyklių reikalavimų; ^s-4219fb32dc2c859c865dc754
@@ -671,7 +671,7 @@ LICENCIJUOJAMOS VEIKLOS SĄLYGOS, CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ APYVARTOS 
 5. Civilinių pirotechnikos priemonių gamintojas, eksportuotojas, importuotojas, įvežantysis ar išvežantysis asmuo, pageidaujantis importuoti ar įvežti į Lietuvą pirotechnikos priemones, skirtas prekybos mugėse, parodose ar pirotechnikos priemonių reklamai rengiamuose pristatymuose rodyti ir naudoti, turi gauti vienkartinį terminuotą leidimą. ^s-bef1d1e27d3b19c7d05415dc
 
 
-6. Šio straipsnio 1–[[#^s-bef1d1e27d3b19c7d05415dc|5 dalyse]] nurodytus vienkartinius terminuotus leidimus išduoda Policijos departamentas prie Vidaus reikalų ministerijos. Leidimų išdavimo tvarką nustato Lietuvos Respublikos Vyriausybės įgaliota institucija. ^s-26745f65ada39c4f8d2af2f5
+6. Šio straipsnio [[#^s-ba183a93a403c8732530bf2e|1]]–[[#^s-bef1d1e27d3b19c7d05415dc|5]] dalyse nurodytus vienkartinius terminuotus leidimus išduoda Policijos departamentas prie Vidaus reikalų ministerijos. Leidimų išdavimo tvarką nustato Lietuvos Respublikos Vyriausybės įgaliota institucija. ^s-26745f65ada39c4f8d2af2f5
 
 
 7. Fizinis asmuo asmeninėms reikmėms gali be leidimo įsivežti į Lietuvos Respubliką, išsivežti iš jos civilinių pirotechnikos priemonių 1, 2 ar 3 kategorijos fejerverkus, T1 ir P1 kategorijų civilines pirotechnikos priemones. ^s-016110aa8fa99316cd721670
@@ -775,7 +775,7 @@ CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ APYVARTOS KONTROLĖ
 2. [[#^s-4c15cb319f19f233e980ac8a|Šio straipsnio 1 dalies]] 1–4 punktuose nustatytais atvejais civilines pirotechnikos priemones paima teritorinė policijos įstaiga. ^s-24285b400cc764eeaec5f86e
 
 
-3. [[#^s-21388572e2d741b072129f61|Šio straipsnio 1 dalies 5 punkte]] nustatytu atveju taikomos 1992 m. spalio 12 d. Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, 75 straipsnio nuostatos. ^s-768ac73b3feb0458a22661bd
+3. [[#^s-21388572e2d741b072129f61|Šio straipsnio 1 dalies 5 punkte]] nustatytu atveju taikomos 1992 m. spalio 12 d. Tarybos [reglamento (EEB) Nr. 2913/92](https://eur-lex.europa.eu/eli/reg/2913/92/oj), nustatančio Bendrijos muitinės kodeksą, 75 straipsnio nuostatos. ^s-768ac73b3feb0458a22661bd
 
 
 4. Paimtos civilinės pirotechnikos priemonės saugomos jas paėmusios institucijos ar įstaigos užplombuotose įmonės, iš kurios civilinės pirotechnikos priemonės buvo paimtos, patalpose, o jei tokios galimybės nėra, – pirotechnikos priemonėms laikyti pritaikytuose policijos ar Lietuvos kariuomenės sandėliuose. ^s-1f5e49cecba7df926b0f57d6
@@ -801,7 +801,7 @@ Civilinės pirotechnikos priemonės sunaikinamos Lietuvos Respublikos Vyriausyb�
 ### 24 straipsnis. Valstybės rinkliava už licencijų, leidimų išdavimą ir saugos ekspertizės atlikimą ^s-a3019396946fe87df256e87a
 
 
-1. Už šio įstatymo [[#^s-95d0d1ec853b549edd183ad3|10 straipsnyje]] nurodytų licencijų ir šio įstatymo [[#^s-01c41eed145a5e05ee245401|14 straipsnio 2 dalies 4 punkte]], [[#^s-4a554e37ea97b59755bc7a21|19 straipsnio]] 1–5 dalyse nurodytų leidimų ir dublikatų išdavimą bei jų patikslinimą imama Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliava. ^s-08d653cb37f38dfc8c03690e
+1. Už šio įstatymo [[#^s-95d0d1ec853b549edd183ad3|10 straipsnyje]] nurodytų licencijų ir šio įstatymo [[#^s-01c41eed145a5e05ee245401|14 straipsnio 2 dalies 4 punkte]], [[#^s-4a554e37ea97b59755bc7a21|19 straipsnio]] [[#^s-ba183a93a403c8732530bf2e|1]]–[[#^s-bef1d1e27d3b19c7d05415dc|5]] dalyse nurodytų leidimų ir dublikatų išdavimą bei jų patikslinimą imama Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliava. ^s-08d653cb37f38dfc8c03690e
 
 
 2. Už šio įstatymo [[#^s-2d2b032fe5c79c0fca74d557|7 straipsnio 6 dalyje]] nurodytos saugos ekspertizės atlikimą imama Lietuvos Respublikos Vyriausybės nustatyto dydžio valstybės rinkliava. ^s-c5781ecdae4a45d1168c3e87

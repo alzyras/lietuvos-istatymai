@@ -501,7 +501,7 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 ### 18 straipsnis. Tarptautinis bendradarbiavimas augalų nacionalinių genetinių išteklių srityje ^s-7ee14655288574c1ee31e7bf
 
 
-1. Lietuvos Respublika, vadovaudamasi Biologinės įvairovės konvencija ir kitais teisės aktais, sudaro tarptautines sutartis, dalyvauja tarptautinių organizacijų, susijusių su augalų nacionaliniais genetiniais ištekliais, veikloje. ^s-7a29121d89999271f689c13a
+1. Lietuvos Respublika, vadovaudamasi [Biologinės įvairovės konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.FF27410A18B2) ir kitais teisės aktais, sudaro tarptautines sutartis, dalyvauja tarptautinių organizacijų, susijusių su augalų nacionaliniais genetiniais ištekliais, veikloje. ^s-7a29121d89999271f689c13a
 
 
 2. Bendradarbiaudamos su kitomis valstybėmis ir tarptautinėmis organizacijomis augalų nacionalinių genetinių išteklių srityje, Lietuvos Respublikos Vyriausybės įgaliotos institucijos: ^s-132788d4f11ad094c3c82635
@@ -533,9 +533,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2015, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05350
-Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatymo Nr. IX-533 2, 4, 5, 8, 11, [[#^s-01ce055516ae230131e41651|16 straipsnių]] pakeitimo ir [[#^s-a2834230cd76ce4a5b075f57|12 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatymo Nr. IX-533 [[#^s-48c697cb85d1a53b2fc4317d|2]], [[#^s-6f9698208a9356b6f90694ad|4]], [[#^s-57fabac8a2ad22dbfc092650|5]], [[#^s-30d11830e3556a3cbb51d87c|8]], [[#^s-c002f74e52164b8616c7d2f8|11]], [[#^s-01ce055516ae230131e41651|16]] straipsnių pakeitimo ir [[#^s-a2834230cd76ce4a5b075f57|12 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2355, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25326
-Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatymo Nr. IX-533 2, 8 ir [[#^s-aff5439dba7b2f0128c6e795|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatymo Nr. IX-533 [[#^s-48c697cb85d1a53b2fc4317d|2]], [[#^s-30d11830e3556a3cbb51d87c|8]] ir [[#^s-aff5439dba7b2f0128c6e795|9]] straipsnių pakeitimo įstatymas

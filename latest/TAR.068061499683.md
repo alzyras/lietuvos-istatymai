@@ -123,7 +123,7 @@ Pakeisti [[#^s-f8848f725f66675774d738fa|4 straipsnio 1 dalies]] antrąjį sakin�
 „3. Bendrovės įstatuose gali būti ir kitos taisyklės, neprieštaraujančios Lietuvos Respublikos įstatymams.“
 
 
-3. Buvusias [[#^s-46e21e28fadd27697418ee83|7 straipsnio]] 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-f83903c50fbbabd76d593c4f
+3. Buvusias [[#^s-46e21e28fadd27697418ee83|7 straipsnio]] [[#^s-577966349bbe62a109a43233|3]] ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-f83903c50fbbabd76d593c4f
 
 
 
@@ -202,7 +202,7 @@ Pakeisti [[#^s-f8848f725f66675774d738fa|4 straipsnio 1 dalies]] antrąjį sakin�
 ### 6 straipsnis. 12 straipsnio 2 dalies pakeitimas ^s-96df9b1ad8395ca8a961874a
 
 
-Pakeisti 12 straipsnio 2 dalies 6 punktą, papildyti šią dalį 7 ir [[#^s-fb20d86c912dcb253678872c|8 punktais]] ir 6, 7, [[#^s-fb20d86c912dcb253678872c|8 punktus]] išdėstyti taip:
+Pakeisti 12 straipsnio 2 dalies 6 punktą, papildyti šią dalį 7 ir 8 punktais ir 6, 7, 8 punktus išdėstyti taip:
 
 
 „6) kreipiasi į Vertybinių popierių komisiją, kad ši išregistruotų akcijas (panaikintų akcijų įregistravimą), jei akcinė bendrovė likviduojama;
@@ -238,7 +238,7 @@ Pakeisti 12 straipsnio 2 dalies 6 punktą, papildyti šią dalį 7 ir [[#^s-fb20
 5) skirti lėšų labdarai, sveikatos apsaugai, kultūrai, mokslui, švietimui, kūno kultūrai ir sportui, taip pat stichinių nelaimių ir ypatingos padėties padarinių likvidavimui; ^s-0b4be62e7c051ff4330b8a75
 
 
-6) sudaryti sutartis, prisiimti įsipareigojimus, skolinti pinigus bankams ir skolintis pinigų iš bankų, sudarydama paskolų sutartis, taip pat skolintis pinigų iš kitų ūkio subjektų, išleisdama kredito vertybinius popierius. Bendrovės, kuriose yra ne daugiau kaip 50 akcininkų, gali skolintis iš savo akcininkų už palūkanas, nustatomas sutartimi. Bendrovė turi teisę skolinti pinigus ir kitiems ūkio subjektams įsigydama jų kredito vertybinius popierius, jei tam paprasta balsų dauguma pritarė visuotinis akcininkų susirinkimas. Bendrovė, skolindamasi pinigų iš savo akcininkų, neturi teisės įkeisti jiems savo turto. Paskolos sutarties sudarymo dieną nustatoma metinė palūkanų norma negali būti didesnė už vidutinę praėjusio ketvirčio Lietuvos Respublikos Vyriausybės vertybinių popierių palūkanų normą. Bendra iš akcininkų ar kitų ūkio subjektų gautų paskolų ir kitiems ūkio subjektams paskolintų lėšų suma bendrovėje tuo pačiu metu negali viršyti jos nuosavo kapitalo. Apie šiame punkte nustatytų reikalavimų pažeidimus akcinė bendrovė privalo informuoti tokia pat tvarka kaip apie Vertybinių popierių viešosios apyvartos įstatyme nustatytą esminį įvykį. Akcininkų teisė skolinti pinigus bendrovei turi būti nustatyta tos bendrovės įstatuose. Akcininkams užtikrinamos lygios teisės skolinti pinigus bendrovei. Bendrovė neturi teisės skolinti pinigų kitiems asmenims, jeigu ji pati yra jų pasiskolinusi iš akcininkų ar kitų ūkio subjektų. Šiame punkte išdėstytos nuostatos bankams netaikomos ; ^s-9f03c5a2031ab4df034bc91a
+6) sudaryti sutartis, prisiimti įsipareigojimus, skolinti pinigus bankams ir skolintis pinigų iš bankų, sudarydama paskolų sutartis, taip pat skolintis pinigų iš kitų ūkio subjektų, išleisdama kredito vertybinius popierius. Bendrovės, kuriose yra ne daugiau kaip 50 akcininkų, gali skolintis iš savo akcininkų už palūkanas, nustatomas sutartimi. Bendrovė turi teisę skolinti pinigus ir kitiems ūkio subjektams įsigydama jų kredito vertybinius popierius, jei tam paprasta balsų dauguma pritarė visuotinis akcininkų susirinkimas. Bendrovė, skolindamasi pinigų iš savo akcininkų, neturi teisės įkeisti jiems savo turto. Paskolos sutarties sudarymo dieną nustatoma metinė palūkanų norma negali būti didesnė už vidutinę praėjusio ketvirčio Lietuvos Respublikos Vyriausybės vertybinių popierių palūkanų normą. Bendra iš akcininkų ar kitų ūkio subjektų gautų paskolų ir kitiems ūkio subjektams paskolintų lėšų suma bendrovėje tuo pačiu metu negali viršyti jos nuosavo kapitalo. Apie šiame punkte nustatytų reikalavimų pažeidimus akcinė bendrovė privalo informuoti tokia pat tvarka kaip apie [Vertybinių popierių viešosios apyvartos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nustatytą esminį įvykį. Akcininkų teisė skolinti pinigus bendrovei turi būti nustatyta tos bendrovės įstatuose. Akcininkams užtikrinamos lygios teisės skolinti pinigus bendrovei. Bendrovė neturi teisės skolinti pinigų kitiems asmenims, jeigu ji pati yra jų pasiskolinusi iš akcininkų ar kitų ūkio subjektų. Šiame punkte išdėstytos nuostatos bankams netaikomos ; ^s-9f03c5a2031ab4df034bc91a
 
 
 7) nustatyti savo produkcijos, teikiamų paslaugų ir kitų išteklių kainas, įkainius ir tarifus, išskyrus Lietuvos Respublikos įstatymų numatytus atvejus; ^s-68bd11fd250db6fc7d5fe1da
@@ -259,7 +259,7 @@ Pakeisti 12 straipsnio 2 dalies 6 punktą, papildyti šią dalį 7 ir [[#^s-fb20
 „3. Bendrovė taip pat gali turėti ir kitų, šio įstatymo nenustatytų, civilinių teisių ir pareigų, jeigu jos neprieštarauja Lietuvos Respublikos įstatymams.“
 
 
-3. Buvusias [[#^s-541c778f899a1174aa7df2ff|13 straipsnio]] 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-577966349bbe62a109a43233
+3. Buvusias [[#^s-541c778f899a1174aa7df2ff|13 straipsnio]] [[#^s-0b1f3825dfc1676e5ff0a1fc|3]] ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-577966349bbe62a109a43233
 
 
 
@@ -269,7 +269,7 @@ Pakeisti 12 straipsnio 2 dalies 6 punktą, papildyti šią dalį 7 ir [[#^s-fb20
 1. [[#^s-ed20d90cc8b840e38621ceca|14 straipsnio 1 dalį]] papildyti antruoju sakiniu ir ją išdėstyti taip: ^s-20386f0d5be139c69b932ae5
 
 
-„1. Akcininkų turtines ir neturtines teises bei jų pareigas nustato šis ir kiti Lietuvos Respublikos įstatymai, bendrovės įstatai. Nurodytos šio įstatymo 15 ir [[#^s-2f341debb15c363f95820ab9|16 straipsniuose]] akcininkų turtinės ir neturtinės teisės negali būti apribotos, jei įstatymai nenustato kitaip.“
+„1. Akcininkų turtines ir neturtines teises bei jų pareigas nustato šis ir kiti Lietuvos Respublikos įstatymai, bendrovės įstatai. Nurodytos šio įstatymo [[#^s-80e3e1b3e6382aba95d01872|15]] ir [[#^s-2f341debb15c363f95820ab9|16]] straipsniuose akcininkų turtinės ir neturtinės teisės negali būti apribotos, jei įstatymai nenustato kitaip.“
 
 
 2. [[#^s-bde70988c31062cb34e34f7e|14 straipsnio 2 dalies]] pirmajame sakinyje vietoj žodžio „mokestinių“ įrašyti žodį „turtinių“ ir šią dalį išdėstyti taip: ^s-c0fc011256eed4645caf7258
@@ -278,7 +278,7 @@ Pakeisti 12 straipsnio 2 dalies 6 punktą, papildyti šią dalį 7 ir [[#^s-fb20
 „2. Akcininkai neturi jokių turtinių įsipareigojimų bendrovei, išskyrus įsipareigojimą nustatyta tvarka apmokėti visas pasirašytas akcijas emisijos kaina. Visuotinio akcininkų susirinkimo nutarimas, įpareigojantis visus arba dalį akcininkų mokėti papildomus įnašus, negalioja, jeigu bent vienas iš jų su šiuo nutarimu nesutinka.“
 
 
-3. Papildyti [[#^s-6f22e1f056b4ae28dd104228|14 straipsnį]] 5 ir [[#^s-d84c34897853763cf2260666|6 dalimis]]: ^s-6a40e561f1a27962c2b61e0e
+3. Papildyti [[#^s-6f22e1f056b4ae28dd104228|14 straipsnį]] [[#^s-ccd59758de7a6a04c8597069|5]] ir [[#^s-b76b63d4f6b47626606ecec0|6]] dalimis: ^s-6a40e561f1a27962c2b61e0e
 
 
 „5. Akcininkas ar jo įgaliotas vertybinių popierių sąskaitų tvarkytojas iki visuotinio akcininkų susirinkimo dienos privalo informuoti bendrovės administraciją apie savo adreso ir asmeninės sąskaitos rekvizitų banke pasikeitimus.
@@ -410,7 +410,7 @@ Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 „3. Uždarojoje akcinėje bendrovėje, išskyrus bendrovę, kurioje valstybei arba savivaldybei nuosavybės teise priklauso specialiųjų akcijų, visuotinio akcininkų susirinkimo nutarimu gali būti nesudaroma nei stebėtojų taryba, nei valdyba. Jeigu nesudaromas vienas ar abu šie valdymo organai, jų funkcijos, teisės ir atsakomybė perduodama kitiems valdymo organams. Jeigu nesudaromos stebėtojų taryba ir valdyba, uždarosios akcinės bendrovės administracijos vadovą renka visuotinis akcininkų susirinkimas. Jeigu sudaroma tik valdyba, jos nariai renkami, perrenkami ir atšaukiami šio įstatymo [[#^s-ac96a1b2acbbe0b141694677|24 straipsnio]] antrojoje, trečiojoje ir penktojoje dalyse nustatyta stebėtojų tarybos sudarymo tvarka. Uždarojoje akcinėje bendrovėje, kurioje valstybei ar savivaldybei nuosavybės teise priklauso specialiųjų akcijų, valdyba turi būti sudaroma.“
 
 
-4. Papildyti [[#^s-c2d027f8dbb3b915c38e7432|18 straipsnį]] 5 ir [[#^s-9d6371e33ad03c5681e746a3|6 dalimis]]: ^s-3381f3cca6b96e02c3976136
+4. Papildyti [[#^s-c2d027f8dbb3b915c38e7432|18 straipsnį]] 5 ir 6 dalimis: ^s-3381f3cca6b96e02c3976136
 
 
 „5. Visuotinis akcininkų susirinkimas neturi teisės pavesti kitiems valdymo organams spręsti jo kompetencijai priklausančių klausimų. Visuotinis akcininkų susirinkimas turi teisę spręsti bendrovės stebėtojų tarybos ir valdybos kompetencijai priklausančius klausimus tik tuo atveju, kai šie valdymo organai to prašo.
@@ -515,7 +515,7 @@ Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 4) kai nutarimams priimti reikalingas privilegijuotųjų akcijų ar specialiųjų akcijų valdytojų sutikimas.“ ^s-e2a7f30b52486fb2b1c2228d
 
 
-5. Papildyti [[#^s-acc2602e334951c115a92c61|20 straipsnį]] 5 ir [[#^s-b76b63d4f6b47626606ecec0|6 dalimis]]: ^s-ccd59758de7a6a04c8597069
+5. Papildyti [[#^s-acc2602e334951c115a92c61|20 straipsnį]] 5 ir 6 dalimis: ^s-ccd59758de7a6a04c8597069
 
 
 „5. Bendrovės įstatai gali numatyti ir didesnę nei 2/3 balsų daugumą (3/4 arba 4/5 balsų), reikalingą priimti nutarimams dėl jos įstatų pakeitimo ir papildymo, įstatinio kapitalo didinimo ar mažinimo, reorganizavimo ar likvidavimo, pelno paskirstymo, konvertuojamų obligacijų išleidimo. Nuo 1998 m. liepos 1 d. naujai steigiamos bendrovės savo įstatuose turi numatyti ne mažesnę kaip 3/4 balsų daugumą, reikalingą šio straipsnio ketvirtosios dalies 2 punkte nurodytiems sprendimams priimti. Nuo 2001 m. gegužės 1 d. ši nuostata taikoma visoms bendrovėms.
@@ -539,7 +539,7 @@ Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 „2. Eilinį visuotinį akcininkų susirinkimą valdyba privalo sušaukti kasmet per 4 mėnesius nuo ūkinių metų pabaigos.“
 
 
-3. Pakeisti [[#^s-c016320ee5d64d480f497063|21 straipsnio 3 dalies]] 1, 2 ir [[#^s-0f7c1387902c3583e8e07c37|3 punktus]], papildyti [[#^s-b1a8235b82d479af254015c7|5 punktu]], išbraukti paskutinį šios dalies sakinį ir visą dalį išdėstyti taip: ^s-52b9d862fdb9155a7da55acc
+3. Pakeisti [[#^s-c016320ee5d64d480f497063|21 straipsnio 3 dalies]] 1, 2 ir 3 punktus, papildyti [[#^s-b1a8235b82d479af254015c7|5 punktu]], išbraukti paskutinį šios dalies sakinį ir visą dalį išdėstyti taip: ^s-52b9d862fdb9155a7da55acc
 
 
 „3. Neeilinis visuotinis akcininkų susirinkimas turi būti sušauktas, jeigu:
@@ -605,7 +605,7 @@ Pakeisti [[#^s-cf3b8c211919134e8b3888b7|22 straipsnio 3 dalį]] ir ją išdėsty
 ### 17 straipsnis. 23 straipsnio 1 dalies pakeitimas ^s-c0d103fd79bdea607579a616
 
 
-[[#^s-a7120dbdfb901545400ff686|23 straipsnio 1 dalyje]] vietoj žodžių „gali būti“ įrašyti žodžius „turi būti suinteresuotų asmenų pareiškimu“, išbraukti žodžius „akcininkų, valdybos, stebėtojų tarybos narių ir bendrovės administracijos vadovo pareiškimu“, [[#^s-0fc99b085145386844d08243|3 punkte]] vietoj žodžio „priėmimo“ įrašyti žodį „sudarymo“, papildyti 5 ir [[#^s-ec671593fe1a9c71bc1ee956|6 punktais]] ir visą dalį išdėstyti taip:
+[[#^s-a7120dbdfb901545400ff686|23 straipsnio 1 dalyje]] vietoj žodžių „gali būti“ įrašyti žodžius „turi būti suinteresuotų asmenų pareiškimu“, išbraukti žodžius „akcininkų, valdybos, stebėtojų tarybos narių ir bendrovės administracijos vadovo pareiškimu“, [[#^s-0fc99b085145386844d08243|3 punkte]] vietoj žodžio „priėmimo“ įrašyti žodį „sudarymo“, papildyti [[#^s-b16f9816879fd2cf2d34ce8f|5]] ir [[#^s-ec671593fe1a9c71bc1ee956|6]] punktais ir visą dalį išdėstyti taip:
 
 
 „1. Visuotinio akcininkų susirinkimo nutarimai turi būti suinteresuotų asmenų pareiškimu teismine tvarka pripažinti negaliojančiais, jeigu:
@@ -617,7 +617,7 @@ Pakeisti [[#^s-cf3b8c211919134e8b3888b7|22 straipsnio 3 dalį]] ir ją išdėsty
 2) įstatymų numatytais atvejais ir terminais susirinkimo nutarimu pakeisti registravimo dokumentai ir duomenys nebuvo įregistruoti Lietuvos Respublikos įmonių rejestre; ^s-bbc295605471f36804b35cf8
 
 
-3) buvo pažeista susirinkimo sušaukimo arba darbotvarkės sudarymo tvarka, nustatyta šio įstatymo 21 ir [[#^s-a1591d1114194508ec3515d7|22 straipsniuose]]; ^s-0fc99b085145386844d08243
+3) buvo pažeista susirinkimo sušaukimo arba darbotvarkės sudarymo tvarka, nustatyta šio įstatymo [[#^s-15196b8524c16393c49d75cc|21]] ir [[#^s-a1591d1114194508ec3515d7|22]] straipsniuose; ^s-0fc99b085145386844d08243
 
 
 4) sprendimas prieštarauja bendrovės įstatams, šiam arba kitiems Lietuvos Respublikos įstatymams; ^s-f6b3e71ae02b7d7d5794314b
@@ -687,7 +687,7 @@ Pakeisti [[#^s-cf3b8c211919134e8b3888b7|22 straipsnio 3 dalį]] ir ją išdėsty
 2) jis privalo atsistatydinti iš įmonės valdymo organų, o savo vardu pagal sandorius kitoje įmonėje gautas pajamas perduoti bendrovei; ^s-f2b970bbeeb517715cf83bc2
 
 
-3) kiekvienas akcininkas per 90 dienų nuo tos dienos, kai sužinojo ar turėjo sužinoti apie valdybos nario ar jos pirmininko arba administracijos vadovo padarytus pažeidimus, turi teisę reikalauti, kad per teismą būtų atlyginta bendrovei padaryta žala, arba kad viskas, ką toks asmuo turėtų gauti pagal sandorius su tokia įmone, būtų perduota bendrovei. Jeigu valdybos pirmininkui, valdybos nariui arba administracijos vadovui, neįvykdžiusiems šios dalies 1 ar [[#^s-f2b970bbeeb517715cf83bc2|2 punktuose]] nustatytų reikalavimų, iškeliama teisme civilinė byla dėl žalos atlyginimo bendrovei, tai valstybei ar savivaldybei nuosavybės teise priklausančioms akcijoms atstovaujantis asmuo privalo reikalauti sušaukti neeilinį visuotinį akcininkų susirinkimą ir balsuoti jame už tokio asmens atleidimą iš pareigų.“ ^s-c9614b0f9df235f0edf4f130
+3) kiekvienas akcininkas per 90 dienų nuo tos dienos, kai sužinojo ar turėjo sužinoti apie valdybos nario ar jos pirmininko arba administracijos vadovo padarytus pažeidimus, turi teisę reikalauti, kad per teismą būtų atlyginta bendrovei padaryta žala, arba kad viskas, ką toks asmuo turėtų gauti pagal sandorius su tokia įmone, būtų perduota bendrovei. Jeigu valdybos pirmininkui, valdybos nariui arba administracijos vadovui, neįvykdžiusiems šios dalies [[#^s-a39bb98c17b73cde5f2bf729|1]] ar [[#^s-f2b970bbeeb517715cf83bc2|2]] punktuose nustatytų reikalavimų, iškeliama teisme civilinė byla dėl žalos atlyginimo bendrovei, tai valstybei ar savivaldybei nuosavybės teise priklausančioms akcijoms atstovaujantis asmuo privalo reikalauti sušaukti neeilinį visuotinį akcininkų susirinkimą ir balsuoti jame už tokio asmens atleidimą iš pareigų.“ ^s-c9614b0f9df235f0edf4f130
 
 
 2. Buvusias [[#^s-a90e1bded6882013ecf1b211|27 straipsnio]] 9, 10, 11, 12 dalis laikyti atitinkamai 10, 11, 12, 13 dalimis. ^s-640ba6bd99075a93bb2c938a
@@ -723,7 +723,7 @@ Pakeisti [[#^s-cf3b8c211919134e8b3888b7|22 straipsnio 3 dalį]] ir ją išdėsty
 4. Pakeisti 29 straipsnio 8 dalį ir ją išdėstyti taip: ^s-227f3d8260a6b16f4fa9b618
 
 
-„8. Sutartį su administracijos vadovu bendrovės valdyba ar visuotinis akcininkų susirinkimas gali nutraukti vadovaudamiesi šio įstatymo [[#^s-786b1064d76230e93e45a677|19 straipsnio]] trečiosios dalies 3 punkto ar šio straipsnio penktosios dalies nuostatomis Darbo sutarties įstatymo arba vadovavimo sutartyje nustatyta tvarka. Iki sutarties nutraukimo bendrovės valdyba gali apriboti administracijos vadovo įgaliojimus. Apie administracijos vadovo įgaliojimų apribojimą ir terminus bendrovės valdyba ne vėliau kaip per 2 darbo dienas privalo raštiškai informuoti įmonių rejestro tvarkytoją. „
+„8. Sutartį su administracijos vadovu bendrovės valdyba ar visuotinis akcininkų susirinkimas gali nutraukti vadovaudamiesi šio įstatymo [[#^s-786b1064d76230e93e45a677|19 straipsnio]] trečiosios dalies 3 punkto ar šio straipsnio penktosios dalies nuostatomis [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) arba vadovavimo sutartyje nustatyta tvarka. Iki sutarties nutraukimo bendrovės valdyba gali apriboti administracijos vadovo įgaliojimus. Apie administracijos vadovo įgaliojimų apribojimą ir terminus bendrovės valdyba ne vėliau kaip per 2 darbo dienas privalo raštiškai informuoti įmonių rejestro tvarkytoją. „
 
 
 5. Iš 29 straipsnio 10 dalies antrojo sakinio išbraukti žodžius „ir darbo reglamente“, „arba kiti įgalioti asmenys“, 10 dalies trečiajame sakinyje vietoj žodžių „be balsavimo teisės“ įrašyti žodžius „su patariamojo balso teise, jeigu jis nėra valdybos narys“ ir šią dalį išdėstyti taip: ^s-fbfeede851761bc8a73be0db
@@ -784,7 +784,7 @@ Pakeisti [[#^s-cf3b8c211919134e8b3888b7|22 straipsnio 3 dalį]] ir ją išdėsty
 3. Papildyti 30 straipsnį 4 dalimi: ^s-b68b3ef3f07b539749bcd4a2
 
 
-„4. Jeigu visuotinis akcininkų susirinkimas pažeidė [[#^s-b68b3ef3f07b539749bcd4a2|šio straipsnio 3 dalies]] reikalavimus ir nepriėmė sprendimo sumažinti įstatinį kapitalą bei atitinkamai pataisyti bendrovės įstatus arba atsisakė svarstyti šį klausimą, valdyba (jei valdyba nesudaryta, – administracijos vadovas) per 15 dienų nuo visuotinio akcininkų susirinkimo, bet ne vėliau kaip per 5 mėnesius nuo metinės ar ketvirtinės finansinės atskaitomybės sudarymo dienos privalo kreiptis į teismą dėl visuotinio akcininkų susirinkimo sprendimo nesumažinti bendrovės įstatinio kapitalo (ar atsisakymo svarstyti šį klausimą) pripažinimo negaliojančiu. Teismui pripažinus negaliojančiu tokį visuotinio akcininkų susirinkimo sprendimą, bendrovės valdyba (jei valdyba nesudaryta, – administracijos vadovas) privalo priimti sprendimą sumažinti bendrovės įstatinį kapitalą ir atitinkamai pataisyti bendrovės įstatus.“
+„4. Jeigu visuotinis akcininkų susirinkimas pažeidė šio straipsnio 3 dalies reikalavimus ir nepriėmė sprendimo sumažinti įstatinį kapitalą bei atitinkamai pataisyti bendrovės įstatus arba atsisakė svarstyti šį klausimą, valdyba (jei valdyba nesudaryta, – administracijos vadovas) per 15 dienų nuo visuotinio akcininkų susirinkimo, bet ne vėliau kaip per 5 mėnesius nuo metinės ar ketvirtinės finansinės atskaitomybės sudarymo dienos privalo kreiptis į teismą dėl visuotinio akcininkų susirinkimo sprendimo nesumažinti bendrovės įstatinio kapitalo (ar atsisakymo svarstyti šį klausimą) pripažinimo negaliojančiu. Teismui pripažinus negaliojančiu tokį visuotinio akcininkų susirinkimo sprendimą, bendrovės valdyba (jei valdyba nesudaryta, – administracijos vadovas) privalo priimti sprendimą sumažinti bendrovės įstatinį kapitalą ir atitinkamai pataisyti bendrovės įstatus.“
 
 
 ### 24 straipsnis. 31 straipsnio 1 dalies pakeitimas ^s-ac96a1b2acbbe0b141694677
@@ -799,7 +799,7 @@ Pakeisti [[#^s-cf3b8c211919134e8b3888b7|22 straipsnio 3 dalį]] ir ją išdėsty
 ### 25 straipsnis. 32 straipsnio 1 ir 4 dalių pakeitimas ^s-649f302fe6fb1cfb6bdfbff9
 
 
-1. 32 straipsnio 1 dalies antrajame sakinyje prieš žodį „akcijos“ įrašyti žodžius „Uždarųjų akcinių bendrovių“, [[#^s-5d4c573e38282d95b1258ce9|1 dalį]] papildyti ketvirtuoju sakiniu ir visą dalį išdėstyti taip: ^s-5d4c573e38282d95b1258ce9
+1. 32 straipsnio 1 dalies antrajame sakinyje prieš žodį „akcijos“ įrašyti žodžius „Uždarųjų akcinių bendrovių“, 1 dalį papildyti ketvirtuoju sakiniu ir visą dalį išdėstyti taip: ^s-5d4c573e38282d95b1258ce9
 
 
 „1. Akcijos yra investicijų vertybiniai popieriai, pažymintys jų savininkų-akcininkų dalyvavimą bendrovės kapitale ir suteikiantys jiems turtines bei neturtines teises. Uždarųjų akcinių bendrovių akcijos gali būti materialios (atspausdinti pagal vertybiniams popieriams nustatytus reikalavimus dokumentai) arba nematerialios (įrašai vertybinių popierių sąskaitose). Uždarosios akcinės bendrovės gali naudoti sertifikatus. Akcinių bendrovių akcijos turi būti nematerialios.“

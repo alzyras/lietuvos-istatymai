@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 8, 20 ir 31 strai
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - VIETOS SAVIVALDOS ĮSTATYMO 8, 20 IR 31 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - VIETOS SAVIVALDOS ĮSTATYMO 8, 20 IR 31 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS

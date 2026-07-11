@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D64349B259B7#^s-9dc192b60f7952bb2e0a90a0|Lietuvos Respublikos dainų švenčių tradicijos įstatymas]] - 3 citatos - 1101010ISTA00XI-750
+- [[latest/TAR.D64349B259B7#^s-9dc192b60f7952bb2e0a90a0|Lietuvos Respublikos dainų švenčių tradicijos įstatymas]] - 2 citatos - 1101010ISTA00XI-750

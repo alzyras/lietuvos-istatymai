@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties denonsavimas ^s-92d101578e0392707c4eaadf
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. rugpjūčio 11 d. dekretą Nr. 401, denonsuoja 2000 m. rugsėjo 12 d. Helsinkyje pasirašytą Lietuvos Respublikos ir Suomijos Respublikos sutartį dėl socialinės apsaugos, ratifikuotą Lietuvos Respublikos [[latest/TAR.372D6599A170|2001 m. gegužės 24 d. įstatymu Nr. IX-348]] (Žin., 2001, Nr. 49-1703).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. rugpjūčio 11 d. dekretą Nr. 401](https://e-tar.lt/portal/lt/legalAct/TAR.BFF42F04BBAC), denonsuoja 2000 m. rugsėjo 12 d. Helsinkyje pasirašytą Lietuvos Respublikos ir Suomijos Respublikos sutartį dėl socialinės apsaugos, ratifikuotą Lietuvos Respublikos [[latest/TAR.372D6599A170|2001 m. gegužės 24 d. įstatymu Nr. IX-348]] (Žin., 2001, Nr. 49-1703).
 
 
 

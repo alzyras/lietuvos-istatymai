@@ -45,13 +45,13 @@ Vilnius
 1. Papildyti [[#^s-f311323da191a9c2c9c2dd63|2 straipsnį]] nauja 12 dalimi: ^s-411269aa748eb1d5abc2c51b
 
 
-„12. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) įsteigta institucija.“
+„12. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj) dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) įsteigta institucija.“
 
 
 2. Papildyti [[#^s-f311323da191a9c2c9c2dd63|2 straipsnį]] nauja 13 dalimi: ^s-4b5925f439e97dc7ce684d74
 
 
-„13. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84), įsteigta institucija.“
+„13. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84), įsteigta institucija.“
 
 
 3. Buvusias [[#^s-f311323da191a9c2c9c2dd63|2 straipsnio]] 12–56 dalis laikyti atitinkamai 14–58 dalimis. ^s-d4d18cc83e386a9bfb8522e5
@@ -126,7 +126,7 @@ Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 1. Papildyti 42 straipsnio 1 dalį nauju 9 punktu: ^s-0294604e26a336a80d32ee60
 
 
-„9) pagal Reglamentą (ES) Nr. 1095/2010 bendradarbiauja su Europos vertybinių popierių ir rinkų institucija ir nedelsdama teikia jai visą jos užduotims vykdyti būtiną informaciją;“.
+„9) pagal [Reglamentą (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj) bendradarbiauja su Europos vertybinių popierių ir rinkų institucija ir nedelsdama teikia jai visą jos užduotims vykdyti būtiną informaciją;“.
 
 
 2. Buvusį 42 straipsnio 1 dalies 9 punktą laikyti 10 punktu. ^s-6f11d4008864de652d89f061
@@ -151,7 +151,7 @@ Pakeisti 19 straipsnio 3 dalį ir ją išdėstyti taip:
 Papildyti 43 straipsnį 3 dalimi:
 
 
-„3. Šio straipsnio 1 dalies nuostatos nekliudo priežiūros institucijai perduoti konfidencialią informaciją Europos vertybinių popierių ir rinkų institucijai arba Europos sisteminės rizikos valdybai, atsižvelgiant į apribojimus, susijusius su konkrečios įmonės informacija ir poveikiu trečiosioms šalims, kaip atitinkamai numatyta Reglamente (ES) Nr. 1095/2010 ir 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo.“
+„3. Šio straipsnio 1 dalies nuostatos nekliudo priežiūros institucijai perduoti konfidencialią informaciją Europos vertybinių popierių ir rinkų institucijai arba Europos sisteminės rizikos valdybai, atsižvelgiant į apribojimus, susijusius su konkrečios įmonės informacija ir poveikiu trečiosioms šalims, kaip atitinkamai numatyta [Reglamente (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj) ir 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamente (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj) dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo.“
 
 
 

@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D4A66ACB9F97#^s-82006bf67248d5bf62fcf88d|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - Įstatymas Nr. XI-684
+_Nėra._

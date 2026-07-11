@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos pensijų fondų įstatymo 12 straipsnio pakei
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.DDA1BD559D9B#^s-90edb2fe6609b49fdc1f0ca5|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - 2 citatos - PENSIJŲ FONDŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.DDA1BD559D9B#^s-940958e116e55e8e984215a5|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - 2 citatos - PENSIJŲ FONDŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.DDA1BD559D9B#^s-940958e116e55e8e984215a5|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - PENSIJŲ FONDŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS

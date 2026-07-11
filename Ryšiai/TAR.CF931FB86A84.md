@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įsta
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokesčių administravimo įstatymo
+- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Lietuvos Respublikos mokesčių administravimo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D4A66ACB9F97#^s-82006bf67248d5bf62fcf88d|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - 2 citatos - GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 2, 3, 5, 6, 10, 11 STRAIPSNIŲ, 1, 2 PRIEDĖLIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.D4A66ACB9F97#^s-82006bf67248d5bf62fcf88d|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO 2, 3, 5, 6, 10, 11 STRAIPSNIŲ, 1, 2 PRIEDĖLIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

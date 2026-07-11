@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sprendimo ratifikavimas ^s-e05f22a3bd5ec83d87befec3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. rugsėjo 29 d. dekretą Nr. 1003, ratifikuoja Lietuvos ir ELPA jungtinio komiteto sprendimą Nr. 5/1999 „IV priedo panaikinimas“, pasirašytą 1999 m. rugsėjo 22 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2000 m. rugsėjo 29 d. dekretą Nr. 1003](https://e-tar.lt/portal/lt/legalAct/TAR.AA5038F11475), ratifikuoja Lietuvos ir ELPA jungtinio komiteto sprendimą Nr. 5/1999 „IV priedo panaikinimas“, pasirašytą 1999 m. rugsėjo 22 d. Ženevoje.
 
 
 

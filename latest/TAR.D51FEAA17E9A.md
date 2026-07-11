@@ -208,13 +208,13 @@ Pakeisti 34 straipsnio 4 dalį ir ją išdėstyti taip:
 ### 6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-aab80c8211235fe2dcb5b460
 
 
-1. Šio įstatymo [[#^s-cc1ce107c60dc69d78306509|1 straipsnis]], [[#^s-8b0413d97f015242155549ab|3 straipsnio]] 1, [[#^s-6af5c96f83c987a427088104|4 dalys]] įsigalioja 2012 m. sausio 1 d. ^s-ba9eb73cad115fa8971dddd3
+1. Šio įstatymo [[#^s-cc1ce107c60dc69d78306509|1 straipsnis]], [[#^s-8b0413d97f015242155549ab|3 straipsnio]] [[#^s-032ee129928e1048f5699688|1]], [[#^s-5fc3f6b4674e10a0221ae981|4]] dalys įsigalioja 2012 m. sausio 1 d. ^s-ba9eb73cad115fa8971dddd3
 
 
-2. Šio įstatymo [[#^s-8b0413d97f015242155549ab|3 straipsnio]] 5 ir 6 dalys, [[#^s-347045b011137889e8477e7f|5 straipsnis]] įsigalioja 2013 m. sausio 1 d. ^s-776f846b66ab4d435fbe568a
+2. Šio įstatymo [[#^s-8b0413d97f015242155549ab|3 straipsnio]] [[#^s-c2241132c1609bb8c90a6ece|5]] ir [[#^s-23ad336c38a1b6e0734196b2|6]] dalys, [[#^s-347045b011137889e8477e7f|5 straipsnis]] įsigalioja 2013 m. sausio 1 d. ^s-776f846b66ab4d435fbe568a
 
 
-3. Šio įstatymo [[#^s-8b0413d97f015242155549ab|3 straipsnio]] 2, [[#^s-a66e17fa5ce03b082fc33990|3 dalys]] įsigalioja 2016 m. sausio 1 d. ^s-a66e17fa5ce03b082fc33990
+3. Šio įstatymo [[#^s-8b0413d97f015242155549ab|3 straipsnio]] [[#^s-be4224ae606c6f48e76981c7|2]], [[#^s-a95181328e59787a381e2656|3]] dalys įsigalioja 2016 m. sausio 1 d. ^s-a66e17fa5ce03b082fc33990
 
 
 4. Lietuvos Respublikos Vyriausybė iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-6af5c96f83c987a427088104

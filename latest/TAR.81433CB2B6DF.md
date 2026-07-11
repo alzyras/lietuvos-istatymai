@@ -107,7 +107,7 @@ Pakeisti [[#^s-001c8d756b4fabf2f1e3e52a|6 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-001c8d756b4fabf2f1e3e52a|6 straipsnis]]. Konfidencialumas
 
 
-1. Perkančioji organizacija, Viešojo pirkimo komisija, jos nariai ar ekspertai ir kiti asmenys, nepažeisdami įstatymų reikalavimų, ypač dėl sudarytų sutarčių skelbimo ir informacijos, susijusios su jos teikimu kandidatams ir dalyviams, kaip nurodyta šio įstatymo 41, 74, 79 straipsniuose ir [[#^s-a1a4e5ea702950d4ca843f86|86 straipsnio 3 dalyje]], negali tretiesiems asmenims atskleisti perkančiajai organizacijai pateiktos tiekėjo informacijos, kurios konfidencialumą nurodė tiekėjas. Tokią informaciją sudaro visų pirma komercinė (gamybinė) paslaptis ir konfidencialieji pasiūlymų aspektai. ^s-31c20531017416c490418fe9
+1. Perkančioji organizacija, Viešojo pirkimo komisija, jos nariai ar ekspertai ir kiti asmenys, nepažeisdami įstatymų reikalavimų, ypač dėl sudarytų sutarčių skelbimo ir informacijos, susijusios su jos teikimu kandidatams ir dalyviams, kaip nurodyta šio įstatymo [[#^s-84932165d8bc36c6d9192d21|41]], 74, 79 straipsniuose ir [[#^s-a1a4e5ea702950d4ca843f86|86 straipsnio 3 dalyje]], negali tretiesiems asmenims atskleisti perkančiajai organizacijai pateiktos tiekėjo informacijos, kurios konfidencialumą nurodė tiekėjas. Tokią informaciją sudaro visų pirma komercinė (gamybinė) paslaptis ir konfidencialieji pasiūlymų aspektai. ^s-31c20531017416c490418fe9
 
 
 2. Šio įstatymo 4 straipsnio 1 dalies 4 punkte nurodyta perkančioji organizacija, teikdama technines specifikacijas tiekėjams, vertindama jų kvalifikaciją, atlikdama kandidatų kvalifikacinę atranką ir sudarydama pirkimo sutartis, gali taikyti reikalavimus, kurie apsaugotų jos teikiamos informacijos konfidencialų pobūdį.“ ^s-3d4012ccd04f521ec84b1c24
@@ -404,7 +404,7 @@ Pakeisti [[#^s-31e785ed8faa5569c6bf4deb|11 straipsnį]] ir jį išdėstyti taip:
 1. Pakeisti 23 straipsnio 3 dalį ir ją išdėstyti taip: ^s-32caf0ea81d45c965b080d4b
 
 
-„3. Visus skelbimus, skirtus spausdinti [[#^s-32caf0ea81d45c965b080d4b|šio straipsnio 1 dalyje]] nurodytuose leidiniuose ir skelbti Centrinėje viešųjų pirkimų informacinėje sistemoje, perkančioji organizacija pateikia Viešųjų pirkimų tarnybai. Viešųjų pirkimų tarnyba šio įstatymo reikalavimus atitinkančius skelbimus privalo per 3 darbo dienas išsiųsti spausdinti [[#^s-32caf0ea81d45c965b080d4b|šio straipsnio 1 dalyje]] nurodytuose leidiniuose ir paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje. Skelbimo išsiuntimo iš Viešųjų pirkimų tarnybos diena yra pirkimo išankstinio paskelbimo ar pirkimo paskelbimo data.“
+„3. Visus skelbimus, skirtus spausdinti šio straipsnio 1 dalyje nurodytuose leidiniuose ir skelbti Centrinėje viešųjų pirkimų informacinėje sistemoje, perkančioji organizacija pateikia Viešųjų pirkimų tarnybai. Viešųjų pirkimų tarnyba šio įstatymo reikalavimus atitinkančius skelbimus privalo per 3 darbo dienas išsiųsti spausdinti šio straipsnio 1 dalyje nurodytuose leidiniuose ir paskelbti Centrinėje viešųjų pirkimų informacinėje sistemoje. Skelbimo išsiuntimo iš Viešųjų pirkimų tarnybos diena yra pirkimo išankstinio paskelbimo ar pirkimo paskelbimo data.“
 
 
 2. 23 straipsnio 4 dalyje po žodžio „teikiami“ įrašyti žodžius „elektroninėmis priemonėmis“ ir šią dalį išdėstyti taip: ^s-a9c0d733894eaeb7aa7b84b0
@@ -661,7 +661,7 @@ Pakeisti [[#^s-45372dc6e8a2b204c4f1fcae|39 straipsnį]] ir jį išdėstyti taip:
 3) patvirtinti pasiūlymų eilę ir priimti sprendimą dėl laimėjusio pasiūlymo tik tada, kai šio įstatymo nustatyta tvarka išnagrinėtos pasiūlymus pateikusių dalyvių pretenzijos ir ieškiniai (jeigu tokių buvo gauta), bet ne anksčiau kaip po 10 dienų nuo pranešimo apie preliminarią pasiūlymų eilę išsiuntimo dalyviams dienos. ^s-c9713976133d3c52e76d5393
 
 
-8. Perkančioji organizacija, vadovaudamasi [[#^s-a561cdd8f1d5c601f8753e2b|šio straipsnio 4 dalyje]] nurodytais pasiūlymų vertinimo kriterijais ir atsižvelgdama į šio įstatymo 26, [[#^s-152871d36e8ddcc5b3745805|40 straipsnių]] reikalavimus, laimėjusiu pripažįsta pasiūlymą iš tų pasiūlymų, kurie nebuvo atmesti pagal šio įstatymo 32–[[#^s-45372dc6e8a2b204c4f1fcae|39 straipsnių]] reikalavimus. Tuo atveju, kai derybose dalyvauja tik vienas tiekėjas, jo pasiūlymas laikomas laimėjusiu, jeigu tiekėjas atitinka perkančiosios organizacijos keliamus kvalifikacijos reikalavimus, o jo pasiūlymas atitinka perkančiosios organizacijos nustatytus reikalavimus.“ ^s-4a7c603cc3708223663da2e1
+8. Perkančioji organizacija, vadovaudamasi [[#^s-a561cdd8f1d5c601f8753e2b|šio straipsnio 4 dalyje]] nurodytais pasiūlymų vertinimo kriterijais ir atsižvelgdama į šio įstatymo [[#^s-c89c4cd6a42eab4a53356fd4|26]], [[#^s-152871d36e8ddcc5b3745805|40]] straipsnių reikalavimus, laimėjusiu pripažįsta pasiūlymą iš tų pasiūlymų, kurie nebuvo atmesti pagal šio įstatymo [[#^s-cf1934abb5779db9320f7d2f|32]]–[[#^s-45372dc6e8a2b204c4f1fcae|39]] straipsnių reikalavimus. Tuo atveju, kai derybose dalyvauja tik vienas tiekėjas, jo pasiūlymas laikomas laimėjusiu, jeigu tiekėjas atitinka perkančiosios organizacijos keliamus kvalifikacijos reikalavimus, o jo pasiūlymas atitinka perkančiosios organizacijos nustatytus reikalavimus.“ ^s-4a7c603cc3708223663da2e1
 
 
 
@@ -763,7 +763,7 @@ Pakeisti 72 straipsnio 4 dalį ir ją išdėstyti taip:
 1. 81 straipsnį papildyti nauja 3 dalimi: ^s-73128488593fbbc554aa640e
 
 
-„3. Kai perkančioji organizacija yra sudariusi preliminariąją sutartį ne pagal [[#^s-73128488593fbbc554aa640e|šio straipsnio 1 dalies]] reikalavimus, ji negali šios sutarties pagrindu sudaryti pirkimo sutarties neskelbiamų derybų būdu, vadovaudamasi šio įstatymo 73 straipsnio 1 dalies 5 punkto nustatyta sąlyga.“
+„3. Kai perkančioji organizacija yra sudariusi preliminariąją sutartį ne pagal šio straipsnio 1 dalies reikalavimus, ji negali šios sutarties pagrindu sudaryti pirkimo sutarties neskelbiamų derybų būdu, vadovaudamasi šio įstatymo 73 straipsnio 1 dalies 5 punkto nustatyta sąlyga.“
 
 
 2. Buvusią 81 straipsnio 3 dalį laikyti 4 dalimi. ^s-109094a66beb62a6840df086
@@ -801,10 +801,10 @@ SUPAPRASTINTI PIRKIMAI
 ### 85 straipsnis. Supaprastintų pirkimų atlikimo tvarka ^s-04712208df96e176c66c62be
 
 
-1. Šio įstatymo [[#^s-74bd6e9a0b1d89f57023a637|4 straipsnio 1 dalies]] 1, 2 ar 3 punktuose nurodyta perkančioji organizacija, atlikdama supaprastintus pirkimus, privalo vadovautis šio įstatymo I skyriaus (atlikdama mažos vertės pirkimus neprivalo vadovautis šio įstatymo [[#^s-3e8cf6f33e3ef8c0f959b3ba|17 straipsnio]] 1, 2, 5, 7 dalių, [[#^s-531c5bbe25cc40285ed6f178|18 straipsnio]] 1, 2, 3, 4, 6 dalių reikalavimais), IV ir V skyrių reikalavimais. ^s-02c66dc9e7d88fafe5d057ed
+1. Šio įstatymo [[#^s-74bd6e9a0b1d89f57023a637|4 straipsnio 1 dalies]] 1, 2 ar 3 punktuose nurodyta perkančioji organizacija, atlikdama supaprastintus pirkimus, privalo vadovautis šio įstatymo I skyriaus (atlikdama mažos vertės pirkimus neprivalo vadovautis šio įstatymo [[#^s-3e8cf6f33e3ef8c0f959b3ba|17 straipsnio]] [[#^s-1d84218a1ff31bc59effc518|1]], [[#^s-9156c34137f4c8e3449ef82a|2]], 5, 7 dalių, [[#^s-531c5bbe25cc40285ed6f178|18 straipsnio]] 1, 2, 3, 4, 6 dalių reikalavimais), IV ir V skyrių reikalavimais. ^s-02c66dc9e7d88fafe5d057ed
 
 
-2. Šio įstatymo 4 straipsnio 1 dalies 4 punkte nurodyta perkančioji organizacija, atlikdama supaprastintus pirkimus, privalo vadovautis šio įstatymo I skyriaus (neprivalo vadovautis šio įstatymo [[#^s-3e8cf6f33e3ef8c0f959b3ba|17 straipsnio]] 1, 2, 5, 7 dalių, [[#^s-531c5bbe25cc40285ed6f178|18 straipsnio]] 1, 2, 3, 4, 6 dalių reikalavimais), 86, 87, 88, 89, 90, [[#^s-b4909dc711541cecc5043f74|91 straipsnių]] ir V skyriaus reikalavimais. ^s-174c0e663d669f1e62c966db
+2. Šio įstatymo 4 straipsnio 1 dalies 4 punkte nurodyta perkančioji organizacija, atlikdama supaprastintus pirkimus, privalo vadovautis šio įstatymo I skyriaus (neprivalo vadovautis šio įstatymo [[#^s-3e8cf6f33e3ef8c0f959b3ba|17 straipsnio]] [[#^s-1d84218a1ff31bc59effc518|1]], [[#^s-9156c34137f4c8e3449ef82a|2]], 5, 7 dalių, [[#^s-531c5bbe25cc40285ed6f178|18 straipsnio]] 1, 2, 3, 4, 6 dalių reikalavimais), [[#^s-fe1741756edc1aa2359e9100|86]], [[#^s-83a9d6927e703999d763aed0|87]], [[#^s-35289b11cc64290abf327610|88]], [[#^s-e1f954428472c7498d3cbad8|89]], [[#^s-55003c55a1435a47cddf8941|90]], [[#^s-b4909dc711541cecc5043f74|91]] straipsnių ir V skyriaus reikalavimais. ^s-174c0e663d669f1e62c966db
 
 
 3. Perkančioji organizacija supaprastintus pirkimus atlieka pagal pasitvirtintas taisykles, kurias ne vėliau kaip per 3 darbo dienas nuo jų patvirtinimo paskelbia šio įstatymo [[#^s-fe1741756edc1aa2359e9100|86 straipsnio]] nustatyta tvarka Centrinėje viešųjų pirkimų informacinėje sistemoje ir, esant galimybei, savo tinklalapyje, taip pat sudaro kitas galimybes tiekėjams susipažinti su šiomis taisyklėmis. ^s-fcbb09713a6ab9cb3b43b718
@@ -836,7 +836,7 @@ SUPAPRASTINTI PIRKIMAI
 ### 87 straipsnis. Supaprastintų pirkimų tiekėjų kvalifikacija ^s-83a9d6927e703999d763aed0
 
 
-1. Parinkdama tiekėją, perkančioji organizacija, vadovaudamasi šio įstatymo 32–[[#^s-6d4852e8fe7d4eba4889a374|38 straipsniuose]] nustatytais reikalavimais, įsitikina, ar tiekėjas bus pajėgus įvykdyti pirkimo sutartį. ^s-993ada2a0cf25a4775322c16
+1. Parinkdama tiekėją, perkančioji organizacija, vadovaudamasi šio įstatymo [[#^s-cf1934abb5779db9320f7d2f|32]]–[[#^s-6d4852e8fe7d4eba4889a374|38]] straipsniuose nustatytais reikalavimais, įsitikina, ar tiekėjas bus pajėgus įvykdyti pirkimo sutartį. ^s-993ada2a0cf25a4775322c16
 
 
 2. Perkančioji organizacija šio įstatymo [[#^s-04712208df96e176c66c62be|85 straipsnyje]] nurodytose taisyklėse gali nustatyti atvejus, kuriais tiekėjų kvalifikacija netikrinama pagal [[#^s-993ada2a0cf25a4775322c16|šio straipsnio 1 dalyje]] nustatytus reikalavimus. ^s-95b9a014a692e689e0b29f26
@@ -892,7 +892,7 @@ Prekės, paslaugos ar darbai perkami iš to tiekėjo, kuris pateikė ekonomiška
 1. Šio įstatymo [[#^s-74bd6e9a0b1d89f57023a637|4 straipsnio 1 dalies]] 1, 2 ar 3 punktuose nurodyta perkančioji organizacija šio įstatymo [[#^s-fe1741756edc1aa2359e9100|86 straipsnyje]] nustatyta tvarka privalo paskelbti apie kiekvieną supaprastintą pirkimą, išskyrus [[#^s-f7371d8372594781f1941273|šio straipsnio 2 dalyje]] nustatytus atvejus. ^s-d2ff0fee1970343bc8bf57f2
 
 
-2. Perkančioji organizacija apie supaprastintą pirkimą gali neskelbti, jeigu yra bent viena iš šio straipsnio 3, 4, 5, 6, [[#^s-ed4394cbe1ab0e7593f3a9b4|7 dalyse]] nurodytų sąlygų. Tokiu atveju (išskyrus [[#^s-06904ada60678393f41b1128|šio straipsnio 3 dalies]] 3, 4, 5, 7 punktuose, [[#^s-c92367d2254ce858932760a2|4 dalies]] 2, 3 punktuose, 5 dalies 3 punkte, [[#^s-cbc4a1667a038df7db01e776|6 dalies]] 2, 3, 4, 5 punktuose, 7 dalies 2 punkte nurodytus pirkimus) perkančioji organizacija, priėmusi sprendimą pirkti prekių, paslaugų ar darbų neskelbdama apie pirkimą, apie tai privalo paskelbti informacinį pranešimą šio įstatymo [[#^s-fe1741756edc1aa2359e9100|86 straipsnio]] nustatyta tvarka, o pirkimo sutartį sudaryti ne ankščiau kaip po 5 darbo dienų nuo informacinio pranešimo paskelbimo dienos. ^s-f7371d8372594781f1941273
+2. Perkančioji organizacija apie supaprastintą pirkimą gali neskelbti, jeigu yra bent viena iš šio straipsnio [[#^s-06904ada60678393f41b1128|3]], [[#^s-c92367d2254ce858932760a2|4]], [[#^s-59e439b26c5c3cb8634c77d9|5]], [[#^s-cbc4a1667a038df7db01e776|6]], [[#^s-ed4394cbe1ab0e7593f3a9b4|7]] dalyse nurodytų sąlygų. Tokiu atveju (išskyrus [[#^s-06904ada60678393f41b1128|šio straipsnio 3 dalies]] 3, 4, 5, 7 punktuose, [[#^s-c92367d2254ce858932760a2|4 dalies]] 2, 3 punktuose, 5 dalies 3 punkte, [[#^s-cbc4a1667a038df7db01e776|6 dalies]] 2, 3, 4, 5 punktuose, 7 dalies 2 punkte nurodytus pirkimus) perkančioji organizacija, priėmusi sprendimą pirkti prekių, paslaugų ar darbų neskelbdama apie pirkimą, apie tai privalo paskelbti informacinį pranešimą šio įstatymo [[#^s-fe1741756edc1aa2359e9100|86 straipsnio]] nustatyta tvarka, o pirkimo sutartį sudaryti ne ankščiau kaip po 5 darbo dienų nuo informacinio pranešimo paskelbimo dienos. ^s-f7371d8372594781f1941273
 
 
 3. Neskelbiant apie pirkimą gali būti perkamos prekės, paslaugos ar darbai, kai: ^s-06904ada60678393f41b1128
@@ -1244,7 +1244,7 @@ Pakeisti 120–127 straipsnių numeraciją ir laikyti juos atitinkamai 93–100 
 
 
 
-1 Statistikos departamento prie Lietuvos Respublikos Vyriausybės Europos ekonominės bendrijos ekonominės veiklos klasifikavimo sistemos (NACE) pagrindu parengtas Ekonominės veiklos rūšių klasifikatorius, kuriam Lietuvos Respublikos Vyriausybė pritarė 1995 m. gegužės 17 d. nutarimu Nr. 696 „Dėl Ekonominės veiklos rūšių klasifikatoriaus“ (Žin., 1995, Nr. 43-1054).
+1 Statistikos departamento prie Lietuvos Respublikos Vyriausybės Europos ekonominės bendrijos ekonominės veiklos klasifikavimo sistemos (NACE) pagrindu parengtas Ekonominės veiklos rūšių klasifikatorius, kuriam Lietuvos Respublikos Vyriausybė pritarė [1995 m. gegužės 17 d. nutarimu Nr. 696](https://e-tar.lt/portal/lt/legalAct/TAR.CAF6DFCEDEB7) „Dėl Ekonominės veiklos rūšių klasifikatoriaus“ (Žin., 1995, Nr. 43-1054).
 Pastaba: Jeigu iškyla EVRK ir CPV darbų aiškinimo skirtumų, vadovaujamasi EVRK.“
 
 
@@ -1474,7 +1474,7 @@ priedas
 2. 1992 m. vasario 25 d. Tarybos direktyva 92/13/EEB dėl įstatymų ir kitų teisės aktų, reglamentuojančių Bendrijos taisyklių taikymą viešųjų pirkimų tvarkai vandens, energetikos, transporto ir telekomunikacijų sektoriuose, suderinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 315) su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20 d. Tarybos direktyva 2006/97/EB (OL 2006 L 363, p. 107). ^s-850bd2fe1cbae817c586afb2
 
 
-3. 2002 m. lapkričio 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2195/2002 dėl bendro viešųjų pirkimų žodyno (BVPŽ) (šiame įstatyme – CPV) (OL 2004 m. specialusis leidimas, 6 skyrius, 5 tomas, p. 3) su paskutiniais pakeitimais, padarytais 2003 m. gruodžio 16 d. Komisijos reglamentu (EB) Nr. 2151/2003 (OL 2004 m. specialusis leidimas, 6 skyrius, 6 tomas, p. 72). ^s-9d9e54104720c261a668c1a5
+3. 2002 m. lapkričio 5 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 2195/2002](https://eur-lex.europa.eu/eli/reg/2195/2002/oj) dėl bendro viešųjų pirkimų žodyno (BVPŽ) (šiame įstatyme – CPV) (OL 2004 m. specialusis leidimas, 6 skyrius, 5 tomas, p. 3) su paskutiniais pakeitimais, padarytais 2003 m. gruodžio 16 d. Komisijos [reglamentu (EB) Nr. 2151/2003](https://eur-lex.europa.eu/eli/reg/2151/2003/oj) (OL 2004 m. specialusis leidimas, 6 skyrius, 6 tomas, p. 72). ^s-9d9e54104720c261a668c1a5
 
 
 4. 2004 m. kovo 31 d. Europos Parlamento ir Tarybos direktyva 2004/17/EB dėl subjektų, vykdančių veiklą vandens, energetikos, transporto ir pašto paslaugų sektoriuose, vykdomų pirkimų tvarkos derinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 7 tomas, p. 19) su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20 d. Tarybos direktyva 2006/97/EB (OL 2006 L 363, p. 107). ^s-84ce235ff24973f3e59111f2
@@ -1489,13 +1489,13 @@ priedas
 7. 2005 m. rugsėjo 7 d. Komisijos direktyva 2005/51/EB, iš dalies keičianti Europos Parlamento ir Tarybos direktyvos 2004/17/EB XX priedą ir Direktyvos 2004/18/EB VIII priedą dėl viešųjų pirkimų (OL 2005 L 257, p. 127). ^s-7757e7ae26e07446a5e3ce5d
 
 
-8. 2005 m. rugsėjo 7 d. Komisijos reglamentas (EB) Nr. 1564/2005, nustatantis standartines formas, naudojamas skelbiant su viešųjų pirkimų procedūromis susijusius pranešimus, pagal Europos Parlamento ir Tarybos direktyvas 2004/17/EB ir 2004/18/EB (OL 2005 L 257, p. 1). ^s-1452caa1bb0ce8f0c8d4f3d2
+8. 2005 m. rugsėjo 7 d. Komisijos [reglamentas (EB) Nr. 1564/2005](https://eur-lex.europa.eu/eli/reg/1564/2005/oj), nustatantis standartines formas, naudojamas skelbiant su viešųjų pirkimų procedūromis susijusius pranešimus, pagal Europos Parlamento ir Tarybos direktyvas 2004/17/EB ir 2004/18/EB (OL 2005 L 257, p. 1). ^s-1452caa1bb0ce8f0c8d4f3d2
 
 
 9. 2005 m. lapkričio 16 d. Europos Parlamento ir Tarybos direktyva 2005/75/EB, pataisanti Direktyvą 2004/18/EB dėl viešojo darbų, prekių ir paslaugų pirkimo sutarčių sudarymo tvarkos derinimo (OL 2005 L 323, p. 55). ^s-6d25057e59d347051b613366
 
 
-10. 2007 m. lapkričio 28 d. Komisijos reglamentas (EB) Nr. 213/2008, iš dalies keičiantis Europos Parlamento ir Tarybos reglamentą (EB) Nr. 2195/2002 dėl bendro viešųjų pirkimų žodyno (BVPŽ) (šiame įstatyme – CPV) ir Europos Parlamento ir Tarybos direktyvas 2004/17/EB ir 2004/18/EB dėl viešųjų pirkimų tvarkos, kad CPV būtų atnaujintas (tekstas svarbus EEE ) (OL 2008 L 74, p. 1).“ ^s-011f80f5c8354373741114ca
+10. 2007 m. lapkričio 28 d. Komisijos reglamentas (EB) Nr. 213/2008, iš dalies keičiantis Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 2195/2002](https://eur-lex.europa.eu/eli/reg/2195/2002/oj) dėl bendro viešųjų pirkimų žodyno (BVPŽ) (šiame įstatyme – CPV) ir Europos Parlamento ir Tarybos direktyvas 2004/17/EB ir 2004/18/EB dėl viešųjų pirkimų tvarkos, kad CPV būtų atnaujintas (tekstas svarbus EEE ) (OL 2008 L 74, p. 1).“ ^s-011f80f5c8354373741114ca
 
 
 

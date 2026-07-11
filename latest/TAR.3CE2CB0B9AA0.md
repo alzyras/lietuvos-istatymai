@@ -45,10 +45,10 @@ Pakeisti 3 straipsnio 1 dalį, straipsnį papildyti [[#^s-dcc809e7c52ee6437a13a2
 „3 straipsnis. Įstatymo įsigaliojimas
 
 
-1. Šis įstatymas, išskyrus 2 straipsnį ir šio įstatymo [[#^s-2bf1a920de98efb9a97ce091|1 straipsnyje]] išdėstyto [[latest/TAR.0BDFFD850A66#^s-f5310c81a9f829d6196d3475|Lietuvos Respublikos viešojo administravimo įstatymo 11 straipsnio]] 3, 4, 5, 6 ir 7 dalis, įsigalioja nuo 2007 m. sausio 1 d. ^s-f380dfc7380aa3a4dc09855a
+1. Šis įstatymas, išskyrus 2 straipsnį ir šio įstatymo [[#^s-2bf1a920de98efb9a97ce091|1 straipsnyje]] išdėstyto [[latest/TAR.0BDFFD850A66#^s-f5310c81a9f829d6196d3475|Lietuvos Respublikos viešojo administravimo įstatymo 11 straipsnio]] [[latest/TAR.0BDFFD850A66|3]], [[latest/TAR.0BDFFD850A66|4]], [[latest/TAR.0BDFFD850A66|5]], [[latest/TAR.0BDFFD850A66|6]] ir [[latest/TAR.0BDFFD850A66|7]] dalis, įsigalioja nuo 2007 m. sausio 1 d. ^s-f380dfc7380aa3a4dc09855a
 
 
-2. Šio įstatymo [[#^s-2bf1a920de98efb9a97ce091|1 straipsnyje]] išdėstyto [[latest/TAR.0BDFFD850A66#^s-f5310c81a9f829d6196d3475|Lietuvos Respublikos viešojo administravimo įstatymo 11 straipsnio]] 3, 4, 5, 6 ir 7 dalys įsigalioja nuo 2007 m. liepos 1 d.“ ^s-dcc809e7c52ee6437a13a217
+2. Šio įstatymo [[#^s-2bf1a920de98efb9a97ce091|1 straipsnyje]] išdėstyto [[latest/TAR.0BDFFD850A66#^s-f5310c81a9f829d6196d3475|Lietuvos Respublikos viešojo administravimo įstatymo 11 straipsnio]] [[latest/TAR.0BDFFD850A66|3]], [[latest/TAR.0BDFFD850A66|4]], [[latest/TAR.0BDFFD850A66|5]], [[latest/TAR.0BDFFD850A66|6]] ir [[latest/TAR.0BDFFD850A66|7]] dalys įsigalioja nuo 2007 m. liepos 1 d.“ ^s-dcc809e7c52ee6437a13a217
 
 
 

@@ -78,7 +78,7 @@ Vilnius
 ### 2 straipsnis. Įstatymo įgyvendinimas ^s-ed4ab1f1fb213beedacbddf7
 
 
-Šio įstatymo [[#^s-1bd0e05c576a63d4b221d6ba|1 straipsnyje]] išdėstytos [[latest/TAR.F960F4CF3005#^s-74f5cfaf10617b01f7efea34|Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 9 straipsnio 1 dalies]] 8 ir 9 punktuose nurodyti rodikliai R8 ir R9 ir koeficientai K8 ir K9 pradedami taikyti rengiant [[latest/TAR.D641C5B5ADFD|Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo]] projektą.
+Šio įstatymo [[#^s-1bd0e05c576a63d4b221d6ba|1 straipsnyje]] išdėstytos [[latest/TAR.F960F4CF3005#^s-74f5cfaf10617b01f7efea34|Savivaldybių biudžetų pajamų nustatymo metodikos įstatymo 9 straipsnio 1 dalies]] [[latest/TAR.F960F4CF3005#^s-f4cfe81a8d1f231211a603e3|8]] ir [[latest/TAR.F960F4CF3005#^s-e9360a752dd66b9791b41484|9]] punktuose nurodyti rodikliai R8 ir R9 ir koeficientai K8 ir K9 pradedami taikyti rengiant [[latest/TAR.D641C5B5ADFD|Lietuvos Respublikos 2009 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo]] projektą.
 
 
 

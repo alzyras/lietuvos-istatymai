@@ -491,7 +491,7 @@ FONDO VEIKLA
 12) dalyvauti politinėje veikloje, teikti paramą politinėms partijoms ir politinėms organizacijoms. ^s-94494d9c69c169ce8c82134e
 
 
-3. [[#^s-95773390d55916a6b1dda199|Šio straipsnio 2 dalies]] 1 ir 5 punktuose numatytas su dalininku susijęs asmuo yra: ^s-6347c77b38df13607ef3a704
+3. [[#^s-95773390d55916a6b1dda199|Šio straipsnio 2 dalies]] [[#^s-e3b6073108b2a2eb6c3ca396|1]] ir 5 punktuose numatytas su dalininku susijęs asmuo yra: ^s-6347c77b38df13607ef3a704
 
 
 1) dalininko – fizinio asmens artimasis giminaitis, sutuoktinis (sugyventinis), sutuoktinio (sugyventinio) artimasis giminaitis; ^s-e3b6073108b2a2eb6c3ca396
@@ -500,7 +500,7 @@ FONDO VEIKLA
 2) juridinis asmuo, kuris turi daugiau kaip pusę fondo dalininko -–juridinio asmens organo balsų; ^s-e71d87dc7aba1c7c8161fda1
 
 
-3) juridinis asmuo, kurio daugiau kaip pusę organo balsų turi fondo dalininkas, šios dalies 1 ir [[#^s-e71d87dc7aba1c7c8161fda1|2 punktuose]] nurodytas asmuo ar šie asmenys kartu. ^s-9d83417e015e771e95503789
+3) juridinis asmuo, kurio daugiau kaip pusę organo balsų turi fondo dalininkas, šios dalies [[#^s-e3b6073108b2a2eb6c3ca396|1]] ir [[#^s-e71d87dc7aba1c7c8161fda1|2]] punktuose nurodytas asmuo ar šie asmenys kartu. ^s-9d83417e015e771e95503789
 
 
 4. Fondas pinigus, gautus kaip paramą, taip pat kitus negrąžintinai gautus pinigus ir kitą turtą naudoja juos davusio asmens nurodytiems tikslams, jeigu asmuo tokius tikslus nurodė. Fondas šiuos gautus pinigus privalo laikyti atskiroje sąskaitoje, taip pat sudaryti išlaidų sąmatą, jei tai numatyta teisės aktuose arba pinigus davęs asmuo to reikalauja. Fondas negali priimti pinigų ar kito turto, jei duodantis asmuo nurodo juos naudoti kitiems tikslams, negu fondo įstatuose yra nustatyta. ^s-7f1e7738798c540b2b9dc313

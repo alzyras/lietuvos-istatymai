@@ -161,19 +161,19 @@ BENDROSIOS NUOSTATOS
 ### 3 straipsnis. Įstatymo taikymo sritis ^s-1d62639d426cf81292bb544c
 
 
-1. Šio Įstatymo [[#^s-5bb00399779a2bf204c50d4f|5 straipsnis]], [[#^s-6bd29805571f44a2f7e39e1a|7 straipsnio]] 7 ir 9 dalys bei 10 ir [[#^s-f7681623c6a4f78d0f883f85|12 straipsniai]] netaikomi vykdant tarptautinius kredito pervedimus. Šio Įstatymo [[#^s-e87fba9cd09d64493f14b7f5|6 straipsnio 2 dalis]] netaikoma vykdant kredito ir debeto pervedimus Lietuvos Respublikoje. Jeigu kredito įstaiga klientui suteikia galimybę sudaryti mokėjimo nurodymus elektroninėmis mokėjimo priemonėmis, vykdant kredito ir debeto pervedimus bei tarptautinius kredito pervedimus, kredito įstaigoms papildomai taikomi šio Įstatymo 17–[[#^s-b464efcd07e46bd797665a45|21 straipsniuose]] nustatyti reikalavimai. ^s-f48afb286c02f4a9489c5195
+1. Šio Įstatymo [[#^s-5bb00399779a2bf204c50d4f|5 straipsnis]], [[#^s-6bd29805571f44a2f7e39e1a|7 straipsnio]] [[#^s-b9df1c60082204f57175864e|7]] ir [[#^s-b2f5da0ab47ea208a277d19b|9]] dalys bei [[#^s-f4e5a0a26cc0fe0c5d16a804|10]] ir [[#^s-f7681623c6a4f78d0f883f85|12]] straipsniai netaikomi vykdant tarptautinius kredito pervedimus. Šio Įstatymo [[#^s-e87fba9cd09d64493f14b7f5|6 straipsnio 2 dalis]] netaikoma vykdant kredito ir debeto pervedimus Lietuvos Respublikoje. Jeigu kredito įstaiga klientui suteikia galimybę sudaryti mokėjimo nurodymus elektroninėmis mokėjimo priemonėmis, vykdant kredito ir debeto pervedimus bei tarptautinius kredito pervedimus, kredito įstaigoms papildomai taikomi šio Įstatymo [[#^s-0c24f3d272d98292dd9d1c58|17]]–[[#^s-b464efcd07e46bd797665a45|21]] straipsniuose nustatyti reikalavimai. ^s-f48afb286c02f4a9489c5195
 
 
-2. Šio Įstatymo nuostatos taikomos atliekant tarptautinius kredito pervedimus valstybių narių nacionalinėmis valiutomis ir eurais, kai ekvivalento sumos ne didesnės kaip 50000 eurų. Šie pervedimai atliekami norint pervesti lėšas gavėjui per vienos valstybės narės kredito įstaigą arba jos skyrių į kredito įstaigą arba jos skyrių kitoje valstybėje narėje. Pervedimus atlikti paveda kiti asmenys, o ne kredito įstaigos, draudimo įmonės, investicinės bendrovės ir finansų maklerio įmonės. Taikant šio Įstatymo 14, 15 ir [[#^s-bec5a334402c9c866644940a|16 straipsnių]] reikalavimus, valstybės narės kredito įstaigos skyriai, teikiantys paslaugas skirtingose valstybėse narėse, laikomi savarankiškomis kredito įstaigomis. ^s-a5af614158c08c493b6b3380
+2. Šio Įstatymo nuostatos taikomos atliekant tarptautinius kredito pervedimus valstybių narių nacionalinėmis valiutomis ir eurais, kai ekvivalento sumos ne didesnės kaip 50000 eurų. Šie pervedimai atliekami norint pervesti lėšas gavėjui per vienos valstybės narės kredito įstaigą arba jos skyrių į kredito įstaigą arba jos skyrių kitoje valstybėje narėje. Pervedimus atlikti paveda kiti asmenys, o ne kredito įstaigos, draudimo įmonės, investicinės bendrovės ir finansų maklerio įmonės. Taikant šio Įstatymo [[#^s-9e8122ee3f328c5289ddbead|14]], [[#^s-8e7b290db05c55eb4e98ebfa|15]] ir [[#^s-bec5a334402c9c866644940a|16]] straipsnių reikalavimus, valstybės narės kredito įstaigos skyriai, teikiantys paslaugas skirtingose valstybėse narėse, laikomi savarankiškomis kredito įstaigomis. ^s-a5af614158c08c493b6b3380
 
 
-3. Šio Įstatymo nuostatos, išskyrus 13–[[#^s-bec5a334402c9c866644940a|16 straipsnius]], taikomos atliekant ir kitus, nei nurodyta šio straipsnio 2 dalyje, tarptautinius kredito pervedimus. Šio Įstatymo 13–[[#^s-bec5a334402c9c866644940a|16 straipsnių]] nuostatos taikomos tada, kai kliento ir kredito įstaigos sutartis arba kredito įstaigos veiklos taisyklės nenustato ko kita. ^s-5e48700a99fa4c53045bd44e
+3. Šio Įstatymo nuostatos, išskyrus [[#^s-5521f0f87ea5d03877026c41|13]]–[[#^s-bec5a334402c9c866644940a|16]] straipsnius, taikomos atliekant ir kitus, nei nurodyta šio straipsnio 2 dalyje, tarptautinius kredito pervedimus. Šio Įstatymo [[#^s-5521f0f87ea5d03877026c41|13]]–[[#^s-bec5a334402c9c866644940a|16]] straipsnių nuostatos taikomos tada, kai kliento ir kredito įstaigos sutartis arba kredito įstaigos veiklos taisyklės nenustato ko kita. ^s-5e48700a99fa4c53045bd44e
 
 
-4. Šio Įstatymo 17–[[#^s-b464efcd07e46bd797665a45|21 straipsniuose]] nustatyti reikalavimai kredito įstaigoms netaikomi, kai jos elektronines mokėjimo priemones suteikia kitoms kredito įstaigoms, draudimo įmonėms, investicinėms bendrovėms ir finansų maklerio įmonėms. ^s-5d13b194c55d08dd4bcc1b99
+4. Šio Įstatymo [[#^s-0c24f3d272d98292dd9d1c58|17]]–[[#^s-b464efcd07e46bd797665a45|21]] straipsniuose nustatyti reikalavimai kredito įstaigoms netaikomi, kai jos elektronines mokėjimo priemones suteikia kitoms kredito įstaigoms, draudimo įmonėms, investicinėms bendrovėms ir finansų maklerio įmonėms. ^s-5d13b194c55d08dd4bcc1b99
 
 
-5. Šis Įstatymas netaikomas, kai Civilinio proceso kodekso ir (arba) kitų teisės aktų nustatyta tvarka vykdomas priverstinis lėšų išieškojimas (nurašymas) iš kredito įstaigoje esančios mokėtojo sąskaitos. ^s-c3545cf69320d87beb680c71
+5. Šis Įstatymas netaikomas, kai [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir (arba) kitų teisės aktų nustatyta tvarka vykdomas priverstinis lėšų išieškojimas (nurašymas) iš kredito įstaigoje esančios mokėtojo sąskaitos. ^s-c3545cf69320d87beb680c71
 
 
 
@@ -385,7 +385,7 @@ KREDITO IR DEBETO PERVEDIMŲ ATLIKIMAS
 5. Gavėjo kredito įstaiga, laiku neįvykdžiusi [[#^s-34904be25cd18eac47470da4|10 straipsnio 2 dalyje]] nurodyto reikalavimo, privalo už praleistą terminą gavėjui sumokėti palūkanas. Palūkanos skaičiuojamos nuo mokėjimo nurodymo sumos už laikotarpį nuo banko darbo dienos, einančios po lėšų gavimo gavėjo kredito įstaigoje dienos, iki lėšų įskaitymo į gavėjo sąskaitą dienos. Jeigu termino praleidimas susijęs tik su dalimi sumos, tai gavėjo kredito įstaiga privalo sumokėti palūkanas tik už tą sumos dalį, kuri buvo įskaityta į gavėjo sąskaitą praleidus terminą. ^s-18ee4d729a9f503ac0dfe720
 
 
-6. Šio straipsnio 1, 2, 3, 4, [[#^s-18ee4d729a9f503ac0dfe720|5 dalys]] nepanaikina kitų teisių, kurias turi klientai ir kredito įstaigos, dalyvavusios vykdant mokėjimo nurodymą. ^s-2a7a552b87d43631676d0e88
+6. Šio straipsnio [[#^s-acf4bcab7e9ad5ef111495f7|1]], [[#^s-829dd7f2a909a385ea299f54|2]], [[#^s-1378312e8058ab0db5700212|3]], [[#^s-248809b79a0e4a80f6159941|4]], [[#^s-18ee4d729a9f503ac0dfe720|5]] dalys nepanaikina kitų teisių, kurias turi klientai ir kredito įstaigos, dalyvavusios vykdant mokėjimo nurodymą. ^s-2a7a552b87d43631676d0e88
 
 
 
@@ -419,10 +419,10 @@ Jeigu klientas reikalauja, kredito įstaiga sutartyje su klientu ar kredito įst
 5. Jeigu sutarto termino nesilaikoma arba toks terminas nenustatytas ir jeigu kitą banko darbo dieną, einančią po lėšų gavimo gavėjo kredito įstaigoje dienos, lėšos neįskaitomos į gavėjo sąskaitą, gavėjo kredito įstaiga gavėjui moka palūkanas. Palūkanos skaičiuojamos nuo mokėjimo nurodymo sumos už laikotarpį nuo banko darbo dienos, einančios po sutarto termino pabaigos, arba, jeigu toks terminas nenustatytas, nuo antrosios banko darbo dienos, einančios po lėšų gavimo gavėjo kredito įstaigoje dienos, iki lėšų įskaitymo į gavėjo sąskaitą datos. Jeigu termino nesilaikymas susijęs tik su mokėjimo nurodymo sumos dalimi, tai gavėjo kredito įstaiga privalo sumokėti palūkanas tik už tą sumos dalį, kuri buvo pervesta praleidus terminą. ^s-afd8af4e19858ee1ae8dc021
 
 
-6. Palūkanos pagal šio straipsnio 2 ir [[#^s-afd8af4e19858ee1ae8dc021|5 dalis]] nemokamos, jeigu mokėtojo arba gavėjo kredito įstaiga įrodo, kad dėl termino nesilaikymo kaltas mokėtojas arba gavėjas. ^s-29056d298e671c7574cec9e4
+6. Palūkanos pagal šio straipsnio [[#^s-6f294132886f686c8363a0c9|2]] ir [[#^s-afd8af4e19858ee1ae8dc021|5]] dalis nemokamos, jeigu mokėtojo arba gavėjo kredito įstaiga įrodo, kad dėl termino nesilaikymo kaltas mokėtojas arba gavėjas. ^s-29056d298e671c7574cec9e4
 
 
-7. Šio straipsnio 2, 5 ir [[#^s-29056d298e671c7574cec9e4|6 dalys]] nepanaikina kitų teisių, kurias turi klientai ir kredito įstaigos, dalyvavusios vykdant mokėjimo nurodymą. ^s-25540e122920f1ccd17a85f4
+7. Šio straipsnio [[#^s-6f294132886f686c8363a0c9|2]], [[#^s-afd8af4e19858ee1ae8dc021|5]] ir [[#^s-29056d298e671c7574cec9e4|6]] dalys nepanaikina kitų teisių, kurias turi klientai ir kredito įstaigos, dalyvavusios vykdant mokėjimo nurodymą. ^s-25540e122920f1ccd17a85f4
 
 
 
@@ -435,7 +435,7 @@ Jeigu klientas reikalauja, kredito įstaiga sutartyje su klientu ar kredito įst
 2. Gavėjo kredito įstaiga negali imti atlyginimo už lėšų įskaitymą į gavėjo sąskaitą. ^s-73300ecd4a391f67d49a1d22
 
 
-3. Šio straipsnio 1 ir [[#^s-73300ecd4a391f67d49a1d22|2 dalys]] neatima iš gavėjo kredito įstaigos teisės reikalauti atlyginimo iš gavėjo pagal banko sąskaitos sutartį už jo sąskaitos tvarkymą. Gavėjo kredito įstaiga negali už gavėjo sąskaitos tvarkymą imti tokio atlyginimo, kurį nustatant būtų pažeisti šio straipsnio 1 ir [[#^s-73300ecd4a391f67d49a1d22|2 dalių]] reikalavimai. ^s-6ad1351ea1f17ed5b1264486
+3. Šio straipsnio [[#^s-89e61adb757ec59f665f0787|1]] ir [[#^s-73300ecd4a391f67d49a1d22|2]] dalys neatima iš gavėjo kredito įstaigos teisės reikalauti atlyginimo iš gavėjo pagal banko sąskaitos sutartį už jo sąskaitos tvarkymą. Gavėjo kredito įstaiga negali už gavėjo sąskaitos tvarkymą imti tokio atlyginimo, kurį nustatant būtų pažeisti šio straipsnio [[#^s-89e61adb757ec59f665f0787|1]] ir [[#^s-73300ecd4a391f67d49a1d22|2]] dalių reikalavimai. ^s-6ad1351ea1f17ed5b1264486
 
 
 4. Jeigu mokėtojo kredito įstaiga arba tarpininkas išskaičiavo komisinį atlyginimą iš mokėjimo nurodymo sumos pažeisdami [[#^s-89e61adb757ec59f665f0787|šio straipsnio 1 dalyje]] nustatytą reikalavimą, mokėtojo kredito įstaiga mokėtojo reikalavimu turi pervesti gavėjui visą išskaičiuotą sumą, jeigu mokėtojas nepareikalauja, kad ta suma būtų perduota jam arba įskaityta į jo sąskaitą. ^s-fad8fa029be2964ffc2250ee
@@ -711,10 +711,10 @@ priedas
 1. Šis Įstatymas, išskyrus šio straipsnio 2 ir 3 dalyse nurodytus [[latest/TAR.C6C5599DD9A1#^s-22e77b5b89489c950b4a7196|Lietuvos Respublikos mokėjimų įstatymo straipsnius bei šio Įstatymo 3 straipsnį]], įsigalioja nuo 2003 m. liepos 1 d. ^s-2c22de0c90636971d95bd9fe
 
 
-2. Šio Įstatymo 1 straipsnyje išdėstyto [[latest/TAR.C6C5599DD9A1#^s-7fc9abadaf702a3f2573a7bb|Lietuvos Respublikos mokėjimų įstatymo 13–16 straipsniai]] įsigalioja Lietuvos Respublikai tapus Europos Sąjungos nare. ^s-40291b5a5604516d1b78023a
+2. Šio Įstatymo 1 straipsnyje išdėstyto [[latest/TAR.C6C5599DD9A1|Lietuvos Respublikos mokėjimų įstatymo]] [[latest/TAR.C6C5599DD9A1#^s-97f1100596be471d2cbd66a2|13]]–[[latest/TAR.C6C5599DD9A1#^s-7fc9abadaf702a3f2573a7bb|16]] straipsniai įsigalioja Lietuvos Respublikai tapus Europos Sąjungos nare. ^s-40291b5a5604516d1b78023a
 
 
-3. Šio Įstatymo 1 straipsnyje išdėstyto [[latest/TAR.C6C5599DD9A1#^s-7b92590983229ce08e61c383|Lietuvos Respublikos mokėjimų įstatymo 17–21 straipsniai]] įsigalioja nuo 2004 m. sausio 1 d. ^s-e7fdc075a0a8a8f602d7e1f4
+3. Šio Įstatymo 1 straipsnyje išdėstyto [[latest/TAR.C6C5599DD9A1|Lietuvos Respublikos mokėjimų įstatymo]] [[latest/TAR.C6C5599DD9A1#^s-544d6081c89f532a267863fc|17]]–[[latest/TAR.C6C5599DD9A1#^s-7b92590983229ce08e61c383|21]] straipsniai įsigalioja nuo 2004 m. sausio 1 d. ^s-e7fdc075a0a8a8f602d7e1f4
 
 
 

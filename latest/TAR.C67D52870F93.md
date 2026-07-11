@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-33c0c13cd89859e9d4204d18
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. vasario 6 d. dekretą Nr. 1K-1704, ratifikuoja 2008 m. gegužės 12 d. Varšuvoje pasirašytą Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimą dėl įslaptintos informacijos abipusės apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. vasario 6 d. dekretą Nr. 1K-1704](https://e-tar.lt/portal/lt/legalAct/TAR.8054594F5F8E), ratifikuoja 2008 m. gegužės 12 d. Varšuvoje pasirašytą Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimą dėl įslaptintos informacijos abipusės apsaugos.
 
 
 

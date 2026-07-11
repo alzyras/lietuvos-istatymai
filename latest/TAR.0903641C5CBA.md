@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-5c7c717893c047229b71d906
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 5 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. balandžio 17 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti tarptautines sutartis intelektualinės nuosavybės apsaugos srityje“, ratifikuoja 1883 m. kovo 20 d. Paryžiaus konvenciją dėl pramoninės nuosavybės apsaugos, peržiūrėtą Stokholme 1967 m. liepos 14 d. ir papildytą 1979 m. rugsėjo 28 d.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 5 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. balandžio 17 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti tarptautines sutartis intelektualinės nuosavybės apsaugos srityje“](https://e-tar.lt/portal/lt/legalAct/TAR.CD66CD86D808), ratifikuoja 1883 m. kovo 20 d. Paryžiaus konvenciją dėl pramoninės nuosavybės apsaugos, peržiūrėtą Stokholme 1967 m. liepos 14 d. ir papildytą 1979 m. rugsėjo 28 d.
 
 
 

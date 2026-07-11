@@ -283,7 +283,7 @@ Vilnius
 2. 14 straipsnio 13 dalyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šią dalį išdėstyti taip: ^s-43b6ec8624c73ae6561e5ec2
 
 
-„13. Prievolė apskaičiuoti importo PVM už prekes, kurioms pagal atitinkamus Europos Sąjungos teisės aktus yra taikomi importo muitai, žemės ūkio ar kitos rinkliavos, nustatytos Europos Sąjungos mastu, atsiranda tuo metu, kai pagal minėtus teisės aktus atsiranda prievolė už jas apskaičiuoti importo muitus, žemės ūkio ar kitas rinkliavas. Kai prekėms netaikomi jokie importo muitai, žemės ūkio ar kitos rinkliavos, prievolė apskaičiuoti importo PVM atsiranda tada, kai pagal atitinkamas Muitinės kodekso nuostatas šalies teritorijoje būtų apskaičiuota importo skola muitinei, jeigu prekėms šie muitai ar rinkliavos būtų taikomi.“
+„13. Prievolė apskaičiuoti importo PVM už prekes, kurioms pagal atitinkamus Europos Sąjungos teisės aktus yra taikomi importo muitai, žemės ūkio ar kitos rinkliavos, nustatytos Europos Sąjungos mastu, atsiranda tuo metu, kai pagal minėtus teisės aktus atsiranda prievolė už jas apskaičiuoti importo muitus, žemės ūkio ar kitas rinkliavas. Kai prekėms netaikomi jokie importo muitai, žemės ūkio ar kitos rinkliavos, prievolė apskaičiuoti importo PVM atsiranda tada, kai pagal atitinkamas [Muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nuostatas šalies teritorijoje būtų apskaičiuota importo skola muitinei, jeigu prekėms šie muitai ar rinkliavos būtų taikomi.“
 
 
 
@@ -299,7 +299,7 @@ Vilnius
 2. 15 straipsnio 15 dalyje vietoj žodžio „Bendrijų“ ir žodžių „Europos Bendrijų“ įrašyti žodžius „Europos Sąjungos“, vietoj žodžio „Bendrijose“ įrašyti žodį „Sąjungoje“ ir šią dalį išdėstyti taip: ^s-2aa0423e7f481dbfcdb50e42
 
 
-„15. Importuojamų prekių apmokestinamoji vertė, nuo kurios skaičiuojamas importo PVM, apskaičiuojama prie šių prekių muitinės vertės, nustatytos vadovaujantis Muitinės kodeksu ir jo taikymą reglamentuojančiais teisės aktais (o Europos Sąjungos prekių, kurių įvežimas į Europos Sąjungos teritoriją laikomas importu, atveju – prie prekių vertės, nustatytos pagal Muitinės kodekso ir jo taikymą reglamentuojančių teisės aktų nuostatas dėl prekių muitinės vertės nustatymo), papildomai pridedant šias sumas (jeigu jos nėra įtrauktos į šių prekių muitinę vertę):
+„15. Importuojamų prekių apmokestinamoji vertė, nuo kurios skaičiuojamas importo PVM, apskaičiuojama prie šių prekių muitinės vertės, nustatytos vadovaujantis [Muitinės kodeksu](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) ir jo taikymą reglamentuojančiais teisės aktais (o Europos Sąjungos prekių, kurių įvežimas į Europos Sąjungos teritoriją laikomas importu, atveju – prie prekių vertės, nustatytos pagal [Muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) ir jo taikymą reglamentuojančių teisės aktų nuostatas dėl prekių muitinės vertės nustatymo), papildomai pridedant šias sumas (jeigu jos nėra įtrauktos į šių prekių muitinę vertę):
 
 
 1) už šias prekes sumokėtus arba sumokėtinus ne Europos Sąjungoje ar ne Lietuvos Respublikoje nustatytus muitus, mokesčius ir kitas įmokas, taip pat Europos Sąjungoje už šias prekes nustatytus importo muitus, Europos Sąjungoje ar Lietuvos Respublikoje nustatytus mokesčius ir kitas įmokas (išskyrus patį PVM); ^s-216f31ba043f76d335274999
@@ -375,7 +375,7 @@ Pakeisti [[#^s-a9fd14eb028d3dbe623a77f5|36 straipsnį]] ir jį išdėstyti taip:
 3. Importo PVM neapmokestinamos prekės, kurias įveža tarptautinės organizacijos, išskyrus nurodytąsias [[#^s-278b10ba310666960b86617a|šio straipsnio 2 dalyje]], ar jų atstovybės, taip pat šių organizacijų ar jų atstovybių nariai. Šioje dalyje nurodytos prekės importo PVM neapmokestinamos laikantis tarptautinėse sutartyse, pagal kurias steigiamos tarptautinės organizacijos, arba bet kurios valstybės narės su tarptautine organizacija sudarytose tarptautinėse sutartyse nustatytų sąlygų ir apribojimų. ^s-36d1faa359feaaa70d6a1819
 
 
-4. Šio straipsnio 1, 2 ir [[#^s-36d1faa359feaaa70d6a1819|3 dalių]] nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“ ^s-426e2f77bf503568dc11044e
+4. Šio straipsnio [[#^s-b6f7a5f167c66840fc163774|1]], [[#^s-278b10ba310666960b86617a|2]] ir [[#^s-36d1faa359feaaa70d6a1819|3]] dalių nuostatų taikymo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“ ^s-426e2f77bf503568dc11044e
 
 
 
@@ -385,7 +385,7 @@ Pakeisti [[#^s-a9fd14eb028d3dbe623a77f5|36 straipsnį]] ir jį išdėstyti taip:
 1. 40 straipsnio 2 dalyje vietoj žodžio „Bendrijos“ ir žodžių „Europos Bendrijų“ įrašyti žodžius „Europos Sąjungos“ ir šią dalį išdėstyti taip: ^s-4f588bcfad00185b7eb65a38
 
 
-„2. [[#^s-4f588bcfad00185b7eb65a38|Šio straipsnio 1 dalies]] nuostatos mutatis mutandis taikomos ir tais atvejais, kai importuojamos Europos Sąjungos prekės, kurių įvežimas į Europos Sąjungos teritoriją yra PVM objektas. Konkrečias [[#^s-4f588bcfad00185b7eb65a38|šio straipsnio 1 dalies]] 1–23 ir 25 punktų nuostatų taikymo sąlygas, tvarką ir apribojimus nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
+„2. Šio straipsnio 1 dalies nuostatos mutatis mutandis taikomos ir tais atvejais, kai importuojamos Europos Sąjungos prekės, kurių įvežimas į Europos Sąjungos teritoriją yra PVM objektas. Konkrečias šio straipsnio 1 dalies 1–23 ir 25 punktų nuostatų taikymo sąlygas, tvarką ir apribojimus nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
 
 
 2. Pakeisti 40 straipsnio 5 dalį ir ją išdėstyti taip: ^s-e84eeed0a997ab1f6fe49d1d
@@ -434,7 +434,7 @@ Pakeisti [[#^s-28d0300bd252ef06999d848e|41 straipsnį]] ir jį išdėstyti taip:
 2. Pakeisti 45 straipsnio 2 dalį ir ją išdėstyti taip: ^s-617007dbbf535b3c400e536c
 
 
-„2. Taikant 0 procentų PVM tarifą apmokestinamos paslaugos, įskaitant vežimą bei papildomas vežimo paslaugas, kai šios paslaugos yra tiesiogiai susijusios su prekėmis, kurioms taikomi šio Įstatymo 123 straipsnio 1 ar [[#^s-e3e91fab8cdcf1169c3569b7|3 dalyje]] nurodyti veiksmai, procedūros ar režimas, taip pat su į Europos Sąjungos teritoriją įvežtomis prekėmis, gabenamomis į PVM lengvatų sandėlį.“
+„2. Taikant 0 procentų PVM tarifą apmokestinamos paslaugos, įskaitant vežimą bei papildomas vežimo paslaugas, kai šios paslaugos yra tiesiogiai susijusios su prekėmis, kurioms taikomi šio Įstatymo 123 straipsnio 1 ar 3 dalyje nurodyti veiksmai, procedūros ar režimas, taip pat su į Europos Sąjungos teritoriją įvežtomis prekėmis, gabenamomis į PVM lengvatų sandėlį.“
 
 
 3. 45 straipsnio 3 dalyje vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šią dalį išdėstyti taip: ^s-e3e91fab8cdcf1169c3569b7
@@ -460,7 +460,7 @@ Pakeisti [[#^s-28d0300bd252ef06999d848e|41 straipsnį]] ir jį išdėstyti taip:
 „46 straipsnis. Draudimo ir finansinės paslaugos, susijusios su prekių eksportu
 
 
-Taikant 0 procentų PVM tarifą apmokestinamos draudimo paslaugos, taip pat finansinės paslaugos, nurodytos šio Įstatymo [[#^s-7ecf3f1a92098102a7c8e727|28 straipsnio]] 1–5 dalyse, kai šios draudimo ar finansinės paslaugos tiesiogiai susijusios su prekių, nenurodytų šio Įstatymo IV skyriuje, eksportu iš Europos Sąjungos teritorijos.“
+Taikant 0 procentų PVM tarifą apmokestinamos draudimo paslaugos, taip pat finansinės paslaugos, nurodytos šio Įstatymo [[#^s-7ecf3f1a92098102a7c8e727|28 straipsnio]] [[#^s-d710c2442723528f9138be6f|1]]–5 dalyse, kai šios draudimo ar finansinės paslaugos tiesiogiai susijusios su prekių, nenurodytų šio Įstatymo IV skyriuje, eksportu iš Europos Sąjungos teritorijos.“
 
 
 
@@ -557,7 +557,7 @@ Taikant 0 procentų PVM tarifą apmokestinamos kilnojamųjų daiktų aptarnavimo
 58 straipsnio 1 dalies 2 punkte vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šį punktą išdėstyti taip:
 
 
-„2) prekių tiekimui ir (arba) paslaugų teikimui už šalies teritorijos ribų tuo atveju, kai toks prekių tiekimas ir (arba) paslaugų teikimas pagal šio Įstatymo nuostatas nebūtų neapmokestinamas PVM, jeigu jis vyktų šalies teritorijoje. Ši sąlyga netaikoma, jeigu už Europos Sąjungos teritorijos ribų suteiktos draudimo ir (arba) šio Įstatymo [[#^s-7ecf3f1a92098102a7c8e727|28 straipsnio]] 1–5 dalyse nurodytos finansinės paslaugos.“
+„2) prekių tiekimui ir (arba) paslaugų teikimui už šalies teritorijos ribų tuo atveju, kai toks prekių tiekimas ir (arba) paslaugų teikimas pagal šio Įstatymo nuostatas nebūtų neapmokestinamas PVM, jeigu jis vyktų šalies teritorijoje. Ši sąlyga netaikoma, jeigu už Europos Sąjungos teritorijos ribų suteiktos draudimo ir (arba) šio Įstatymo [[#^s-7ecf3f1a92098102a7c8e727|28 straipsnio]] [[#^s-d710c2442723528f9138be6f|1]]–5 dalyse nurodytos finansinės paslaugos.“
 
 
 
@@ -835,13 +835,13 @@ Kelionės organizatoriaus teikiamos paslaugos apmokestinamos taikant 0 procentų
 2. PVM už importuojamas prekes (įskaitant Europos Sąjungos prekes, į Europos Sąjungos teritoriją įvežamas iš trečiųjų teritorijų), nenurodytas [[#^s-d6dd6b900e423eb6637ce973|šio straipsnio 1 dalyje]], kontroliuoja teritorinės muitinės. ^s-9b0c36853a680706748fc6ea
 
 
-3. Europos Sąjungos prekių įvežimui iš trečiųjų teritorijų į Europos Sąjungos teritoriją taikomi tokie pat muitinės formalumai kaip ir į Europos Sąjungos muitų teritoriją įvežamoms ne Europos Sąjungos prekėms. Kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, skirtos nugabenti į kitą valstybę narę negu ta, į kurią jos buvo įvežtos iš trečiųjų teritorijų, šios prekės gali būti pateiktos vidinio tranzito procedūrai, numatytai Muitinės kodekse, įforminti. Kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, kurios, jeigu būtų įvežtos iš trečiųjų valstybių, galėtų būti pateiktos laikinajam saugojimui muitinės prižiūrimose laikino prekių saugojimo vietose, įvežtos į laisvąją zoną ar padėtos į laisvąjį sandėlį, joms galėtų būti įformintos muitinio sandėliavimo, laikinojo įvežimo perdirbti neapmokestinant importo muitais, muitinės prižiūrimo perdirbimo, laikinojo įvežimo visiškai neapmokestinant importo muitais procedūros, joms taikomos tokios pat sąlygos kaip ir atlikus minėtus muitinės sankcionuotus veiksmus ar įforminus atitinkamas procedūras. ^s-171633610b8eed0429672535
+3. Europos Sąjungos prekių įvežimui iš trečiųjų teritorijų į Europos Sąjungos teritoriją taikomi tokie pat muitinės formalumai kaip ir į Europos Sąjungos muitų teritoriją įvežamoms ne Europos Sąjungos prekėms. Kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, skirtos nugabenti į kitą valstybę narę negu ta, į kurią jos buvo įvežtos iš trečiųjų teritorijų, šios prekės gali būti pateiktos vidinio tranzito procedūrai, numatytai [Muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), įforminti. Kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, kurios, jeigu būtų įvežtos iš trečiųjų valstybių, galėtų būti pateiktos laikinajam saugojimui muitinės prižiūrimose laikino prekių saugojimo vietose, įvežtos į laisvąją zoną ar padėtos į laisvąjį sandėlį, joms galėtų būti įformintos muitinio sandėliavimo, laikinojo įvežimo perdirbti neapmokestinant importo muitais, muitinės prižiūrimo perdirbimo, laikinojo įvežimo visiškai neapmokestinant importo muitais procedūros, joms taikomos tokios pat sąlygos kaip ir atlikus minėtus muitinės sankcionuotus veiksmus ar įforminus atitinkamas procedūras. ^s-171633610b8eed0429672535
 
 
 4. Prekių išvežimui iš Europos Sąjungos teritorijos į trečiąsias teritorijas taikomi tokie pat muitinės formalumai kaip ir eksportuojant prekes iš Europos Sąjungos muitų teritorijos. Kai prekės laikinai išvežamos iš Europos Sąjungos teritorijos į trečiąsias teritorijas, jas grąžinus, joms taikomos tokios pat nuostatos kaip ir prekėms, laikinai išvežtoms iš Europos Sąjungos muitų teritorijos. ^s-dfa71089a4fb414d8c3657d3
 
 
-5. Šio straipsnio 3 ir [[#^s-dfa71089a4fb414d8c3657d3|4 dalių]] nuostatų įgyvendinimo tvarką nustato Muitinės departamentas. ^s-4b1076d95901de4426abd37d
+5. Šio straipsnio [[#^s-171633610b8eed0429672535|3]] ir [[#^s-dfa71089a4fb414d8c3657d3|4]] dalių nuostatų įgyvendinimo tvarką nustato Muitinės departamentas. ^s-4b1076d95901de4426abd37d
 
 
 6. Mokestinių prievolių, galinčių atsirasti dėl įvežtų į Europos Sąjungos teritoriją ne Europos Sąjungos prekių, kurios nėra išleistos laisvai cirkuliuoti, taip pat dėl iš trečiųjų teritorijų įvežtų prekių, įvykdymas užtikrinamas ta pačia tvarka, kaip yra užtikrinami įsipareigojimai, susiję su galinčia atsirasti importo muitų skola.“ ^s-16b743f583fb621b9edc961c
@@ -885,7 +885,7 @@ Kelionės organizatoriaus teikiamos paslaugos apmokestinamos taikant 0 procentų
 ### 44 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-ed62543024989b4fb6689b8c
 
 
-1. Šio įstatymo [[#^s-c87f200d981fe05378ecb3a6|1 straipsnio]] 1 ir 3 dalys, [[#^s-033591dffe2744ddcffd2c37|3 straipsnio 2 dalis]], [[#^s-a83b844ace6ea4b0adcb71d1|4 straipsnis]], [[#^s-08021c5193084014e401e452|5 straipsnio 2 dalis]], [[#^s-1e0abbd6208a35fa9b6124a8|8 straipsnio]] 4, 8 ir 9 dalys, [[#^s-90f4ff952eac2cad80aa3dd8|11 straipsnio 3 dalis]], [[#^s-62efc23735dbd37534bf6383|12 straipsnis]], [[#^s-ee809307423032501ffeb692|13 straipsnis]], [[#^s-e84eeed0a997ab1f6fe49d1d|14 straipsnio 2 dalis]], [[#^s-dd67b1ef297c28413c4ff745|19 straipsnis]], [[#^s-68dad32dba7bae2bce814f3b|27 straipsnis]], [[#^s-7ecf3f1a92098102a7c8e727|28 straipsnis]], [[#^s-02bbb5442ef475b2f0327d53|29 straipsnis]], [[#^s-48d9a06fdb18312b3c588abe|30 straipsnis]], [[#^s-2b20495fe523c02cc0867578|31 straipsnis]] ir [[#^s-e81dfd581800e288df22456d|43 straipsnis]] įsigalioja 2011 m. sausio 1 d. ^s-8c7620da2555018f24d88ba1
+1. Šio įstatymo [[#^s-c87f200d981fe05378ecb3a6|1 straipsnio]] [[#^s-e101536cb6f473f24190b8f9|1]] ir [[#^s-0236b613d50afe30454a6388|3]] dalys, [[#^s-033591dffe2744ddcffd2c37|3 straipsnio 2 dalis]], [[#^s-a83b844ace6ea4b0adcb71d1|4 straipsnis]], [[#^s-08021c5193084014e401e452|5 straipsnio 2 dalis]], [[#^s-1e0abbd6208a35fa9b6124a8|8 straipsnio]] [[#^s-7fa5521ea8bdd2922be136a8|4]], [[#^s-5dd02bc43fa1465214bcad50|8]] ir [[#^s-3b5555ace457ec3dadf4f47b|9]] dalys, [[#^s-90f4ff952eac2cad80aa3dd8|11 straipsnio 3 dalis]], [[#^s-62efc23735dbd37534bf6383|12 straipsnis]], [[#^s-ee809307423032501ffeb692|13 straipsnis]], [[#^s-e84eeed0a997ab1f6fe49d1d|14 straipsnio 2 dalis]], [[#^s-dd67b1ef297c28413c4ff745|19 straipsnis]], [[#^s-68dad32dba7bae2bce814f3b|27 straipsnis]], [[#^s-7ecf3f1a92098102a7c8e727|28 straipsnis]], [[#^s-02bbb5442ef475b2f0327d53|29 straipsnis]], [[#^s-48d9a06fdb18312b3c588abe|30 straipsnis]], [[#^s-2b20495fe523c02cc0867578|31 straipsnis]] ir [[#^s-e81dfd581800e288df22456d|43 straipsnis]] įsigalioja 2011 m. sausio 1 d. ^s-8c7620da2555018f24d88ba1
 
 
 2. Šio įstatymo [[#^s-a99931a5b88784886859d4f1|11 straipsnio 1 dalyje]] išdėstytos [[latest/TAR.ED68997709F5#^s-81b6955a60eacee3d11d0375|Pridėtinės vertės mokesčio įstatymo 19 straipsnio 3 dalies 1 punkto]] nuostatos taikomos iki 2011 m. gruodžio 31 d. tame punkte nurodytoms faktiškai patiektoms prekėms. ^s-02ed12103ff2d165ff8e07fe

@@ -77,7 +77,7 @@ Pakeisti Lietuvos Respublikos tarnybinio paso įstatymą ir jį išdėstyti taip
 2. Tarnybinis pasas gali būti išduodamas kitiems asmenims, kurie atlikdami tarnybines pareigas vyksta į užsienį tarnybos tikslais. Šių asmenų pareigybių sąrašą nustato Vyriausybė. ^s-9e1dc8e0b7b1d6734831ddf4
 
 
-3. Tarnybinis pasas išduodamas šio straipsnio 1 ir [[#^s-9e1dc8e0b7b1d6734831ddf4|2 dalyse]] nurodytiems asmenims, turintiems asmens tapatybės kortelę. ^s-8eb96cb2509f8cf4620d4995
+3. Tarnybinis pasas išduodamas šio straipsnio [[#^s-826ebf19a0c4aaa382d23dc6|1]] ir [[#^s-9e1dc8e0b7b1d6734831ddf4|2]] dalyse nurodytiems asmenims, turintiems asmens tapatybės kortelę. ^s-8eb96cb2509f8cf4620d4995
 
 
 4. Tarnybinis pasas neišduodamas asmenims, kuriems pagal Diplomatinės tarnybos įstatymą gali būti išduotas diplomatinis pasas. ^s-17a41b7ef01200256a27de6c
@@ -146,7 +146,7 @@ Tarnybinis pasas galioja 5 metus nuo jame nurodytos išdavimo datos.
 1. Tarnybinį pasą išduoda ir keičia valstybės tarnybos tvarkymo funkcijas atliekanti įstaiga (toliau – valstybės tarnybos tvarkymo įstaiga). ^s-a36d6aa06e095cb32ece6838
 
 
-2. Asmenys, nurodyti šio Įstatymo [[#^s-4c2dd75aa4fbd52758a2dedf|3 straipsnio]] 1 ir [[#^s-1eed42221f62c75805634828|2 dalyse]], su prašymu išduoti (pakeisti) tarnybinį pasą turi kreiptis į asmenį, turintį teisę juos priimti į pareigas, o jeigu asmenis į pareigas priėmė kolegiali valstybės ar savivaldybės institucija, su tokiu prašymu turi kreiptis į vidaus reikalų ministrą ar jo įgaliotą asmenį (toliau – atsakingi asmenys). ^s-1eed42221f62c75805634828
+2. Asmenys, nurodyti šio Įstatymo [[#^s-4c2dd75aa4fbd52758a2dedf|3 straipsnio]] [[#^s-826ebf19a0c4aaa382d23dc6|1]] ir [[#^s-9e1dc8e0b7b1d6734831ddf4|2]] dalyse, su prašymu išduoti (pakeisti) tarnybinį pasą turi kreiptis į asmenį, turintį teisę juos priimti į pareigas, o jeigu asmenis į pareigas priėmė kolegiali valstybės ar savivaldybės institucija, su tokiu prašymu turi kreiptis į vidaus reikalų ministrą ar jo įgaliotą asmenį (toliau – atsakingi asmenys). ^s-1eed42221f62c75805634828
 
 
 3. Atsakingi asmenys, gavę asmens prašymą išduoti (pakeisti) tarnybinį pasą, teikia išvadą dėl tarnybinio paso išdavimo (keitimo) tikslingumo. Jeigu jų išvada teigiama, prašymas išduoti (pakeisti) tarnybinį pasą perduodamas valstybės tarnybos tvarkymo įstaigai. Ši priima sprendimą dėl tarnybinio paso išdavimo. ^s-93301984c8cb1f5175fe1231
@@ -208,7 +208,7 @@ Tarnybinis pasas galioja 5 metus nuo jame nurodytos išdavimo datos.
 2) pakeistas šio Įstatymo [[#^s-3d2b7b628c533ab76be3e9b5|6 straipsnio 4 dalyje]] nustatytais pagrindais; ^s-85a3ad718cc87030b85c49ef
 
 
-3) grąžintas arba negrąžintas šio Įstatymo [[#^s-6538b82fa69bbd482b42f773|7 straipsnio]] 1 ir [[#^s-df2e5af04450bab8d76c41e4|2 dalyse]] nustatytais pagrindais; ^s-e3beddf58a2687aa05fe251a
+3) grąžintas arba negrąžintas šio Įstatymo [[#^s-6538b82fa69bbd482b42f773|7 straipsnio]] [[#^s-0c4de9706c48f74645fc02df|1]] ir [[#^s-4155eccf8b285bcd9e793038|2]] dalyse nustatytais pagrindais; ^s-e3beddf58a2687aa05fe251a
 
 
 4) suklastotas. ^s-2a205ea99ecbed91d83a00a4

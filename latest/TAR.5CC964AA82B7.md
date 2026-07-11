@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio 2, 3, 10, 12 dalių papildymas ir pakeitimas ^s-272e59c4163eb994e1a49d34
 
 
-1. [[#^s-53b18e96f6446ea25d15201b|2 straipsnio]] 2, 3, 10 ir 12 dalyse po žodžių „garantijų institucijos“, „ši institucija“, „garantijų institucija“ atitinkamai įrašyti žodžius „arba draudimo įmonės“, „arba draudimo įmonė“, 12 dalyje po žodžių „kuris veikia“ įrašyti žodį „atitinkamai“, po žodžio „nuostatus“ įrašyti žodžius „arba įstatus, patvirtintus Lietuvos Respublikos draudimo įstatymo nustatyta tvarka“ ir šias dalis išdėstyti taip: ^s-aae1fc5322bf87bf3c6f1c75
+1. [[#^s-53b18e96f6446ea25d15201b|2 straipsnio]] [[#^s-b0d43a13cb9e4b96541feecd|2]], [[#^s-82ecdcbb418518d3b6821eb8|3]], 10 ir 12 dalyse po žodžių „garantijų institucijos“, „ši institucija“, „garantijų institucija“ atitinkamai įrašyti žodžius „arba draudimo įmonės“, „arba draudimo įmonė“, 12 dalyje po žodžių „kuris veikia“ įrašyti žodį „atitinkamai“, po žodžio „nuostatus“ įrašyti žodžius „arba įstatus, patvirtintus Lietuvos Respublikos draudimo įstatymo nustatyta tvarka“ ir šias dalis išdėstyti taip: ^s-aae1fc5322bf87bf3c6f1c75
 
 
 „2. Vidaus skola – Lietuvos Respublikos turtiniai įsipareigojimai vidaus valiuta pagal paskolos sutartis, sutartis su valstybės garantija arba kitus skolos įsipareigojamuosius dokumentus, pagal kuriuos lėšos, materialinės vertybės arba paslaugos gautos, bet dar negrąžintos, taip pat pagal šį įstatymą įsteigtos garantijų institucijos arba draudimo įmonės neįvykdytų įsipareigojimų pagal suteiktas garantijas bankams suma.

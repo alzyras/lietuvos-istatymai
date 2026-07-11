@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-869778ad3f883c69bc55921e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 24 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos pasirašytą 1999 m. birželio 29 d. Maskvoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 24 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos“](https://e-tar.lt/portal/lt/legalAct/TAR.C445D6EB2844), ratifikuoja Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos pasirašytą 1999 m. birželio 29 d. Maskvoje.
 
 
 

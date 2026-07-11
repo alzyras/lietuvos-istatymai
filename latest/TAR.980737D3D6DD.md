@@ -56,7 +56,7 @@ Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip:
 1. Pakeisti [[#^s-223bf5fb9c6dfa40419703ff|6 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-215d769f49673550fc675102
 
 
-„2. Išimties atvejais, kai gresia šio įstatymo [[#^s-c94adb81a23458479b6ba12e|3 straipsnyje]] nurodyto kilnojamojo daikto sunaikinimas arba kitoks jo praradimas, kultūros ministras turi teisę šį daiktą įrašyti į Kultūros vertybių registrą, remdamasis Kilnojamųjų kultūros vertybių vertinimo komisijos išvada dėl šio daikto atitikties į Kultūros vertybių registrą įrašomų kilnojamųjų daiktų vertinimo kriterijams nesilaikydamas [[#^s-215d769f49673550fc675102|šio straipsnio 1 dalyje]] nustatytos tvarkos ir Kultūros paveldo departamento išvada dėl daikto sunaikinimo arba kitokio praradimo grėsmės.“
+„2. Išimties atvejais, kai gresia šio įstatymo [[#^s-c94adb81a23458479b6ba12e|3 straipsnyje]] nurodyto kilnojamojo daikto sunaikinimas arba kitoks jo praradimas, kultūros ministras turi teisę šį daiktą įrašyti į Kultūros vertybių registrą, remdamasis Kilnojamųjų kultūros vertybių vertinimo komisijos išvada dėl šio daikto atitikties į Kultūros vertybių registrą įrašomų kilnojamųjų daiktų vertinimo kriterijams nesilaikydamas šio straipsnio 1 dalyje nustatytos tvarkos ir Kultūros paveldo departamento išvada dėl daikto sunaikinimo arba kitokio praradimo grėsmės.“
 
 
 2. Pakeisti [[#^s-d53b30e406e538f8481a09b6|6 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-285403e53c1c4b78ea7a82b1
@@ -150,7 +150,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 1. Vyriausybė, atsižvelgdama į 2008 m. gruodžio 18 d. Tarybos reglamento (EB) Nr. 116/2009 dėl kultūros vertybių eksporto (kodifikuota redakcija) (OL 2009 L 39, p. 1) I priede nustatytas kultūros objektų kategorijas, patvirtina Kilnojamųjų kultūros vertybių ir antikvarinių daiktų išvežimo iš Lietuvos Respublikos taisykles ir Kilnojamųjų kultūros vertybių ir antikvarinių daiktų, kuriuos išvežant iš Lietuvos Respublikos būtina turėti Kultūros paveldo departamento prie Kultūros ministerijos išduotą leidimą, sąrašus. ^s-6ae0a25bdacb0651424f9540
 
 
-2. Kilnojamosios kultūros vertybės ir antikvariniai daiktai, įrašyti į Vyriausybės patvirtintus sąrašus, gali būti išvežami tik turint leidimą. Leidimą išduoda Kultūros paveldo departamentas. Šioms kilnojamosioms kultūros vertybėms, išskyrus vertybes, įtrauktas į muziejų ir bibliotekų kilnojamųjų kultūros vertybių apskaitos dokumentus, ir antikvariniams daiktams įkainoti, antikvarinių daiktų kultūrinei vertei nustatyti ir išvadoms dėl leidimų juos išvežti išdavimo pateikti sudaroma Kilnojamųjų kultūros vertybių išvežimo taryba. Sprendimas dėl leidimo išvežti turi būti priimtas per 15 darbo dienų nuo rašytinio prašymo pateikimo dienos. Vyriausybės nustatyta tvarka terminas sprendimui dėl leidimo išvežti priimti gali būti pratęstas iki 30 darbo dienų. ^s-6baf6a421d0159aeedcbb8ef
+2. Kilnojamosios kultūros vertybės ir antikvariniai daiktai, įrašyti į Vyriausybės patvirtintus sąrašus, gali būti išvežami tik turint leidimą. Leidimą išduoda Kultūros paveldo departamentas. Šioms kilnojamosioms kultūros vertybėms, išskyrus vertybes, įtrauktas į muziejų ir bibliotekų kilnojamųjų kultūros vertybių apskaitos dokumentus, ir antikvariniams daiktams įkainoti, antikvarinių daiktų kultūrinei vertei nustatyti ir išvadoms [dėl leidimų](https://e-tar.lt/portal/lt/legalAct/TAR.49F3BFF08717) juos išvežti išdavimo pateikti sudaroma Kilnojamųjų kultūros vertybių išvežimo taryba. Sprendimas dėl leidimo išvežti turi būti priimtas per 15 darbo dienų nuo rašytinio prašymo pateikimo dienos. Vyriausybės nustatyta tvarka terminas sprendimui dėl leidimo išvežti priimti gali būti pratęstas iki 30 darbo dienų. ^s-6baf6a421d0159aeedcbb8ef
 
 
 3. Leidimas negrąžinamai išvežti iš Lietuvos Respublikos antikvarinį daiktą neišduodamas, jeigu Kilnojamųjų kultūros vertybių išvežimo taryba nustato, kad norimas išvežti antikvarinis daiktas atitinka šiuos reikšmingumo Lietuvos kultūros paveldui nustatymo kriterijus: ^s-ca6f9fd36c12e5516cac7ced
@@ -214,7 +214,7 @@ Užsienio valstybėms kultūros objektai, esantys Lietuvos Respublikoje, grąži
 ### 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-383be8fe343d833dbb6f4203
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-af078088e0ca1b3ef9ea2dfd|3 dalis]], įsigalioja 2013 m. sausio 1 d. ^s-84b935c79bdb0b8a529087df
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-59e2d513384831739cc15408|2]] ir [[#^s-af078088e0ca1b3ef9ea2dfd|3]] dalis, įsigalioja 2013 m. sausio 1 d. ^s-84b935c79bdb0b8a529087df
 
 
 2. Vyriausybė ar jos įgaliota institucija, Kultūros ministerija ir Kultūros paveldo departamentas prie Kultūros ministerijos iki šio įstatymo įsigaliojimo parengia ir patvirtina šiam įstatymui įgyvendinti reikalingus teisės aktus. ^s-59e2d513384831739cc15408

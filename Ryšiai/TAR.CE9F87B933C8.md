@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.E08277C8C1D8#^s-53120c2159c0ed5183d6acfe|Lietuvos Respublikos įstatymas dėl laisvosios prekybos sutarčių denonsavimo]] - 1997 m. sausio 16 d. įstatymu Nr. VIII-79
 - [[latest/TAR.E08277C8C1D8#^s-ba74fd35ae2ac76604149132|Lietuvos Respublikos įstatymas dėl laisvosios prekybos sutarčių denonsavimo]] - 1997 m. sausio 16 d. įstatymu Nr. VIII-79

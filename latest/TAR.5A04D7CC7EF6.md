@@ -96,10 +96,10 @@ BIBLIOTEKŲ VEIKLOS REGLAMENTAVIMAS, VALSTYBINIS VALDYMAS IR FINANSAVIMAS
 ### 3 straipsnis. Bibliotekų veiklos reglamentavimas ^s-56803ae756890d4cbd2cf342
 
 
-1. Bibliotekos vadovaujasi Lietuvos Respublikos Konstitucija, Civiliniu kodeksu, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais įstatymais, steigimo dokumentais bei kitais teisės aktais. ^s-163735f1b0965b4ba0b07858
+1. Bibliotekos vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Civiliniu kodeksu, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais įstatymais, steigimo dokumentais bei kitais teisės aktais. ^s-163735f1b0965b4ba0b07858
 
 
-2. Apie šio įstatymo [[#^s-51a94bdd46ae51b3f8c7dd76|7 straipsnio 1 dalies 3 punkte]] ir 3 dalies 2, 3, 4 ir 5 punktuose nurodytų bibliotekų steigimą, pertvarkymą ir pasibaigimą, filialo ar struktūrinio teritorinio padalinio steigimą arba veiklos nutraukimą bibliotekos savininko teises ir pareigas įgyvendinanti arba valstybės ar savivaldybės, kaip viešosios įstaigos dalininkės (savininkės), turtines ir neturtines teises įgyvendinanti institucija ar jos valdymo organas informuoja Lietuvos Respublikos kultūros ministeriją (toliau – Kultūros ministerija). ^s-c0f10819fc381185babe7eed
+2. Apie šio įstatymo [[#^s-51a94bdd46ae51b3f8c7dd76|7 straipsnio 1 dalies 3 punkte]] ir 3 dalies [[#^s-0b62024cfe58d9ec1c1999dc|2]], [[#^s-51a94bdd46ae51b3f8c7dd76|3]], [[#^s-b438d46176d69cf42e41b1e5|4]] ir [[#^s-22c635013a8ec064510b78fc|5]] punktuose nurodytų bibliotekų steigimą, pertvarkymą ir pasibaigimą, filialo ar struktūrinio teritorinio padalinio steigimą arba veiklos nutraukimą bibliotekos savininko teises ir pareigas įgyvendinanti arba valstybės ar savivaldybės, kaip viešosios įstaigos dalininkės (savininkės), turtines ir neturtines teises įgyvendinanti institucija ar jos valdymo organas informuoja Lietuvos Respublikos kultūros ministeriją (toliau – Kultūros ministerija). ^s-c0f10819fc381185babe7eed
 Straipsnio dalies pakeitimai:
 Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2013-12-31, i. k. 2013-00289
 
@@ -674,7 +674,7 @@ Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2
 ### 14 straipsnis. Kitos bibliotekos ^s-4b5ded1997a6a7644ec79853
 
 
-Kitos bibliotekos – bibliotekų veikla užsiimantys viešieji ar privatūs juridiniai asmenys, nenurodyti šio įstatymo 8–[[#^s-119f4db71b5a8e68136b0015|13 straipsniuose]].
+Kitos bibliotekos – bibliotekų veikla užsiimantys viešieji ar privatūs juridiniai asmenys, nenurodyti šio įstatymo [[#^s-34fa1d97a53c10c79aca9b0d|8]]–[[#^s-119f4db71b5a8e68136b0015|13]] straipsniuose.
 
 
 
@@ -808,7 +808,7 @@ Nr. XII-752, 2013-12-23, Žin., 2013, Nr. 141-7113 (2013-12-31); paskelbta TAR 2
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-676, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16706
-Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 7 ir [[#^s-6dd3565e77dace511987c8ff|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 [[#^s-392878aed37ec10450afaeb1|7]] ir [[#^s-6dd3565e77dace511987c8ff|17]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -828,14 +828,14 @@ Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 [[#^s-8b64b8460eb235d553c35
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3108, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15318
-Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 4, 6 ir [[#^s-eaa5344cbf80753cc2cb9831|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 [[#^s-8b64b8460eb235d553c35171|4]], [[#^s-99cc644eebf68047a7592ffc|6]] ir [[#^s-eaa5344cbf80753cc2cb9831|9]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1719, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27564
-Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 6-1, 7, 8, 9, 10, [[#^s-6dd3565e77dace511987c8ff|17 straipsnių]] pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas
+Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 6-1, [[#^s-392878aed37ec10450afaeb1|7]], [[#^s-34fa1d97a53c10c79aca9b0d|8]], [[#^s-eaa5344cbf80753cc2cb9831|9]], [[#^s-935783c90aa40c9693f1ea06|10]], [[#^s-6dd3565e77dace511987c8ff|17]] straipsnių pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2584, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08223
-Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 5, 6-1 ir [[#^s-d087277abeda516bc8a580b3|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bibliotekų įstatymo Nr. I-920 [[#^s-45b272bd82dd17f55af92ab1|5]], 6-1 ir [[#^s-d087277abeda516bc8a580b3|19]] straipsnių pakeitimo įstatymas

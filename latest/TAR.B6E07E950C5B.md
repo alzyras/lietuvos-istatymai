@@ -37,7 +37,7 @@ Vilnius
 
 ### PIRMASIS SKIRSNIS ^s-b9ae08dd3ba2246421a1849d
 LIETUVOS RESPUBLIKOS
-[[latest/TAR.94F6B680E8B8#^s-931f5a1629c199165a4a6bcb|SVEIKATOS DRAUDIMO ĮSTATYMO 8, 18, 19 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.94F6B680E8B8|SVEIKATOS DRAUDIMO ĮSTATYMO]] [[latest/TAR.94F6B680E8B8#^s-26859784af87ce5e32723293|8]], [[latest/TAR.94F6B680E8B8#^s-07bb2dcb3acbdd0ecb8a0b99|18]], [[latest/TAR.94F6B680E8B8#^s-931f5a1629c199165a4a6bcb|19]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1996, Nr. 55-1287; 2002, Nr. 123-5512)
 
@@ -90,7 +90,7 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 
 ### ANTRASIS SKIRSNIS ^s-ff3530365b178809ae6081c4
 LIETUVOS RESPUBLIKOS
-sveikatos draudimo įstatymo pakeitimo įstatymo 3 straipsnio pakeitimas
+[[latest/TAR.8AC83320B76A|sveikatos draudimo įstatymo pakeitimo įstatymo 3 straipsnio]] pakeitimas
 
 (Žin., 2002, Nr. 123-5512)
 

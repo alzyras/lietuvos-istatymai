@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, na
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D5496D69DF98#^s-45c3ad45c3177d258236c9d3|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 2 citatos - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 15 straipsnio 5 dalies
+- [[latest/TAR.D5496D69DF98#^s-45c3ad45c3177d258236c9d3|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 15 straipsnio 5 dalies
 
 ## Šį įstatymą cituoja
 

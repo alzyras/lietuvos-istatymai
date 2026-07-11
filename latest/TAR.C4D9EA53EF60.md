@@ -357,7 +357,7 @@ priedas
 3) 2002 m. kovo 18 d. Europos Parlamento ir Tarybos direktyva 2002/24/EB dėl dviračių arba triračių transporto priemonių tipo patvirtinimo ir Tarybos direktyvos 92/61/EEB panaikinimo; ^s-7183914cb6e7797f9554c571
 
 
-4) Konvencija dėl eismo įvykiams taikytinos teisės, sudaryta 1971 m. gegužės 4 d. Hagoje.“ ^s-0e3d59338fad83afe1f516e2
+4) [Konvencija dėl eismo įvykiams taikytinos teisės](https://e-tar.lt/portal/lt/legalAct/TAR.6CE885E45531), sudaryta 1971 m. gegužės 4 d. Hagoje.“ ^s-0e3d59338fad83afe1f516e2
 
 
 

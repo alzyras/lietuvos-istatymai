@@ -74,19 +74,19 @@ Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė), Finansinių nusikalti
 5. 4 straipsnio 9 dalyje vietoj skaičiaus „10“ įrašyti skaičių „8“ ir šią dalį išdėstyti taip: ^s-b5aeffc0d4aefe096d1e1753
 
 
-„9. Finansinių nusikaltimų tyrimo tarnyba patvirtina kitiems subjektams, nenurodytiems šio straipsnio 1–8 dalyse, skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri finansų įstaigų ir kitų subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencija, teikia jiems metodinę pagalbą.“
+„9. Finansinių nusikaltimų tyrimo tarnyba patvirtina kitiems subjektams, nenurodytiems šio straipsnio [[#^s-85e832d6791a708f4d1f7491|1]]–8 dalyse, skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri finansų įstaigų ir kitų subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencija, teikia jiems metodinę pagalbą.“
 
 
 6. 4 straipsnio 10 dalyje vietoj skaičiaus „10“ įrašyti skaičių „8“ ir šią dalį išdėstyti taip: ^s-b3e63193dde4551872936e75
 
 
-„10. Šio straipsnio 1–8 dalyse nurodytos institucijos privalo paskirti vadovaujančius darbuotojus, kurie organizuotų šiame įstatyme nustatytų pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimą ir palaikytų ryšius su Finansinių nusikaltimų tyrimo tarnyba.“
+„10. Šio straipsnio [[#^s-85e832d6791a708f4d1f7491|1]]–8 dalyse nurodytos institucijos privalo paskirti vadovaujančius darbuotojus, kurie organizuotų šiame įstatyme nustatytų pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimą ir palaikytų ryšius su Finansinių nusikaltimų tyrimo tarnyba.“
 
 
 7. 4 straipsnio 12 dalyje vietoj skaičiaus „10“ įrašyti skaičių „8“ ir šią dalį išdėstyti taip: ^s-213b8359f6ed7693dd5a870b
 
 
-„12. Šio straipsnio 1–8 dalyse nurodytos institucijos ir Finansinių nusikaltimų tyrimo tarnyba tarpusavyje nustatyta tvarka bendradarbiauja ir keičiasi informacija apie atliktų subjektų veiklos, susijusios su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, patikrinimų rezultatus.“
+„12. Šio straipsnio [[#^s-85e832d6791a708f4d1f7491|1]]–8 dalyse nurodytos institucijos ir Finansinių nusikaltimų tyrimo tarnyba tarpusavyje nustatyta tvarka bendradarbiauja ir keičiasi informacija apie atliktų subjektų veiklos, susijusios su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, patikrinimų rezultatus.“
 
 
 

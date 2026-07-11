@@ -43,7 +43,7 @@ Vilnius
 Papildyti 4 straipsnį 9 dalimi:
 
 
-„9. Lietuvos Respublikos karinių vienetų, dalyvaujančių tarptautinėse operacijose užsienyje, užduotims atlikti gali būti pasitelkti kalbos, religijos ar socialinio gyvenimo žinovai. Tokių asmenų paslaugų teikimo, atlyginimo už jas, jų aprūpinimo ir sutarties su jais sąlygas nustato Lietuvos Respublikos Vyriausybė. Vyriausybės nustatyta tvarka tokiems asmenims gali būti taikomos su užduočių padedant Lietuvos Respublikos kariniams vienetams atlikimu susijusios socialinės garantijos, kurios negali būti didesnės negu nurodytos Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 772 straipsnyje.“
+„9. Lietuvos Respublikos karinių vienetų, dalyvaujančių tarptautinėse operacijose užsienyje, užduotims atlikti gali būti pasitelkti kalbos, religijos ar socialinio gyvenimo žinovai. Tokių asmenų paslaugų teikimo, atlyginimo už jas, jų aprūpinimo ir sutarties su jais sąlygas nustato Lietuvos Respublikos Vyriausybė. Vyriausybės nustatyta tvarka tokiems asmenims gali būti taikomos su užduočių padedant Lietuvos Respublikos kariniams vienetams atlikimu susijusios socialinės garantijos, kurios negali būti didesnės negu nurodytos [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 772 straipsnyje]].“
 
 
 

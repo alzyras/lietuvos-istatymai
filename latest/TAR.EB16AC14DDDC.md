@@ -41,25 +41,25 @@ Vilnius
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos laikinąjį įstatymą „Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, jų išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus“ (Žin., 1990, Nr. 27-657); ^s-8591c035cf5384381da2c319
+1) Lietuvos Respublikos laikinąjį įstatymą [„Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, jų išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus“](https://e-tar.lt/portal/lt/legalAct/TAR.24DBAB0C8BD9) (Žin., 1990, Nr. 27-657); ^s-8591c035cf5384381da2c319
 
 
-2) Lietuvos Respublikos įstatymą „Padaryti pataisas Lietuvos Respublikos laikinajame įstatyme „Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, jų išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus“ (Žin., 1990, Nr. 35-839); ^s-cac50aa9c149bb1b93ef1921
+2) Lietuvos Respublikos įstatymą [„Padaryti pataisas Lietuvos Respublikos laikinajame įstatyme „Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, jų išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus“](https://e-tar.lt/portal/lt/legalAct/TAR.23FA2CB8C020) (Žin., 1990, Nr. 35-839); ^s-cac50aa9c149bb1b93ef1921
 
 
 3) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos laikinojo įstatymo „Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, jų išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus“ pakeitimo“ (Žin., 1991, Nr. 16-418); ^s-22fbd47b48cebe614e5437ac
 
 
-4) Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. rugsėjo 13 d. nutarimą Nr. I-573 „Dėl Lietuvos Respublikos laikinojo įstatymo „Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus“ taikymo“ (Žin., 1990, Nr. 27-658); ^s-eaa025306eaeb2c749b1ecee
+4) Lietuvos Respublikos Aukščiausiosios Tarybos [1990 m. rugsėjo 13 d. nutarimą Nr. I-573](https://e-tar.lt/portal/lt/legalAct/TAR.7E695DD2B607) „Dėl Lietuvos Respublikos laikinojo įstatymo „Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus“ taikymo“ (Žin., 1990, Nr. 27-658); ^s-eaa025306eaeb2c749b1ecee
 
 
-5) Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. spalio 25 d. nutarimą Nr. I-711 „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. rugsėjo 13 d. nutarimo Nr. I-573 „Dėl Lietuvos Respublikos laikinojo įstatymo „Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus“ taikymo“ papildymo“ (Žin., 1990, Nr. 32-763); ^s-b78a8a696c1b8fda62be82f5
+5) Lietuvos Respublikos Aukščiausiosios Tarybos [1990 m. spalio 25 d. nutarimą Nr. I-711](https://e-tar.lt/portal/lt/legalAct/TAR.595EB12633D8) „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos [1990 m. rugsėjo 13 d. nutarimo Nr. I-573](https://e-tar.lt/portal/lt/legalAct/TAR.7E695DD2B607) „Dėl Lietuvos Respublikos laikinojo įstatymo „Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus“ taikymo“ papildymo“ (Žin., 1990, Nr. 32-763); ^s-b78a8a696c1b8fda62be82f5
 
 
-6) Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. lapkričio 27 d. nutarimą Nr. I-809 „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. rugsėjo 13 d. nutarimo Nr. I-573 „Dėl Lietuvos Respublikos laikinojo įstatymo „Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus“ taikymo“ papildymo“ (Žin., 1990, Nr. 35-840); ^s-0d4e702f68b6a9ec854f0857
+6) Lietuvos Respublikos Aukščiausiosios Tarybos [1990 m. lapkričio 27 d. nutarimą Nr. I-809](https://e-tar.lt/portal/lt/legalAct/TAR.AC834B779F48) „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos [1990 m. rugsėjo 13 d. nutarimo Nr. I-573](https://e-tar.lt/portal/lt/legalAct/TAR.7E695DD2B607) „Dėl Lietuvos Respublikos laikinojo įstatymo „Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus“ taikymo“ papildymo“ (Žin., 1990, Nr. 35-840); ^s-0d4e702f68b6a9ec854f0857
 
 
-7) Lietuvos Respublikos Aukščiausiosios Tarybos 1991 m. gegužės 23 d. nutarimą Nr. I-1365 „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. rugsėjo 13 d. nutarimo Nr. I-573 „Dėl Lietuvos Respublikos laikinojo įstatymo „Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus“ taikymo“ pakeitimo ir papildymo“ (Žin., 1991, Nr. 16-419). ^s-8cc5e069e7ee66aead273f97
+7) Lietuvos Respublikos Aukščiausiosios Tarybos [1991 m. gegužės 23 d. nutarimą Nr. I-1365](https://e-tar.lt/portal/lt/legalAct/TAR.C3268B9FF05A) „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos [1990 m. rugsėjo 13 d. nutarimo Nr. I-573](https://e-tar.lt/portal/lt/legalAct/TAR.7E695DD2B607) „Dėl Lietuvos Respublikos laikinojo įstatymo „Dėl atsakomybės už prekybos taisyklių, prekių supirkimo, išvežimo ar išsiuntimo už Lietuvos Respublikos ribų tvarkos pažeidimus“ taikymo“ pakeitimo ir papildymo“ (Žin., 1991, Nr. 16-419). ^s-8cc5e069e7ee66aead273f97
 
 
 

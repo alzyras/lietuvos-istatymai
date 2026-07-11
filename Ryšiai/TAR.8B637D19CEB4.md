@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.B77E00EAEBEB#^s-36c3653f4659a7761065e3db|Lietuvos Respublikos klimato kaitos valdymo įstatymas]] - 3 citatos - 1121010ISTA0XI-2027
-- [[latest/TAR.B77E00EAEBEB#^s-74f974522b7aff740b454fe9|Lietuvos Respublikos klimato kaitos valdymo įstatymas]] - 3 citatos - 1121010ISTA0XI-2027
+- [[latest/TAR.B77E00EAEBEB#^s-36c3653f4659a7761065e3db|Lietuvos Respublikos klimato kaitos valdymo įstatymas]] - 2 citatos - 1121010ISTA0XI-2027

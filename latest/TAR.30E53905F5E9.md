@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-6775820f1ffe2b12d374bb2f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2011 m. balandžio 21 d. dekretą Nr. 1K-669, ratifikuoja Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl Lietuvos Respublikos ir Baltarusijos Respublikos pasienio gyventojų kelionių tvarkos, pasirašytą 2010 m. spalio 20 d. Minske.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2011 m. balandžio 21 d. dekretą Nr. 1K-669](https://e-tar.lt/portal/lt/legalAct/TAR.57A32E12533D), ratifikuoja Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl Lietuvos Respublikos ir Baltarusijos Respublikos pasienio gyventojų kelionių tvarkos, pasirašytą 2010 m. spalio 20 d. Minske.
 
 
 

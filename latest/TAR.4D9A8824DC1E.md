@@ -79,7 +79,7 @@ Vilnius
 ### 3 straipsnis. 41 straipsnio 1 ir 2 dalių pakeitimas ^s-15fc82f1d444d499f5095158
 
 
-Pakeisti 41 straipsnio 1 ir [[#^s-8b792f58bc348260e5b218b2|2 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 41 straipsnio 1 ir 2 dalis ir visą straipsnį išdėstyti taip:
 
 
 

@@ -273,7 +273,7 @@ Nr. XV-442, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16788
 
 
 
-4. Vyriausybės įgaliota valstybės institucija, gavusi iš Lietuvos Respublikos kompetentingos institucijos ar institucijos, rengiančios Vyriausybės išvadą dėl Seime svarstomo įstatymo projekto, šio straipsnio 3 ar [[#^s-f117b0fcef68971a004dc027|31 dalyje]] nurodytą informaciją, Vyriausybės nustatyta tvarka praneša Europos Komisijai apie vertinamųjų reikalavimų nustatymą ir pateikia šių reikalavimų atitikties [[#^s-cadadcbff37c2f4d9bf264f9|šio straipsnio 1 dalyje]] nurodytiems principams pagrindimą, išskyrus atvejus, kai iš institucijos, rengiančios Vyriausybės išvadą dėl Seime svarstomo įstatymo projekto, gauna informaciją, kad nustatomi vertinamieji reikalavimai neatitinka [[#^s-cadadcbff37c2f4d9bf264f9|šio straipsnio 1 dalyje]] nurodytų principų. Teisės akto projektas, kuriame siūloma nustatyti vertinamuosius reikalavimus, gali būti priimamas po pranešimo Europos Komisijai pateikimo, išskyrus [[#^s-c643b2f305b255cb4c75059c|šio straipsnio 5 dalyje]] nustatytus atvejus. ^s-2b851d03d3776d85800cb0b2
+4. Vyriausybės įgaliota valstybės institucija, gavusi iš Lietuvos Respublikos kompetentingos institucijos ar institucijos, rengiančios Vyriausybės išvadą dėl Seime svarstomo įstatymo projekto, šio straipsnio [[#^s-925d20f16caab1eacf3192ac|3]] ar [[#^s-f117b0fcef68971a004dc027|31]] dalyje nurodytą informaciją, Vyriausybės nustatyta tvarka praneša Europos Komisijai apie vertinamųjų reikalavimų nustatymą ir pateikia šių reikalavimų atitikties [[#^s-cadadcbff37c2f4d9bf264f9|šio straipsnio 1 dalyje]] nurodytiems principams pagrindimą, išskyrus atvejus, kai iš institucijos, rengiančios Vyriausybės išvadą dėl Seime svarstomo įstatymo projekto, gauna informaciją, kad nustatomi vertinamieji reikalavimai neatitinka [[#^s-cadadcbff37c2f4d9bf264f9|šio straipsnio 1 dalyje]] nurodytų principų. Teisės akto projektas, kuriame siūloma nustatyti vertinamuosius reikalavimus, gali būti priimamas po pranešimo Europos Komisijai pateikimo, išskyrus [[#^s-c643b2f305b255cb4c75059c|šio straipsnio 5 dalyje]] nustatytus atvejus. ^s-2b851d03d3776d85800cb0b2
 Straipsnio dalies pakeitimai:
 Nr. XV-442, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16788
 
@@ -285,7 +285,7 @@ Nr. XV-442, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16788
 
 
 
-6. Šio straipsnio 1 ir [[#^s-10a4e4436bdc1f64b5530372|2 dalys]] taikomos šio įstatymo 2 priedo 1 punkte nurodytas paslaugas reglamentuojantiems teisės aktams tik tais atvejais, kai jų taikymas netrukdo atlikti su tomis paslaugomis susijusių specialių užduočių. ^s-128ca0a1dae8a5a46f98eeea
+6. Šio straipsnio [[#^s-cadadcbff37c2f4d9bf264f9|1]] ir [[#^s-10a4e4436bdc1f64b5530372|2]] dalys taikomos šio įstatymo 2 priedo 1 punkte nurodytas paslaugas reglamentuojantiems teisės aktams tik tais atvejais, kai jų taikymas netrukdo atlikti su tomis paslaugomis susijusių specialių užduočių. ^s-128ca0a1dae8a5a46f98eeea
 Papildyta straipsnio dalimi:
 Nr. XV-442, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16788
 
@@ -390,10 +390,10 @@ Leidimų išdavimo, jų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo i
 4) ribota leidimo galiojimo trukmė pateisinama svarbiais visuomenės interesais. ^s-855d57d85cf2513f864b9ef5
 
 
-2. Tais atvejais, kai išduodamų leidimų verstis tam tikros rūšies veikla skaičius yra ribotas dėl gamtinių išteklių ar techninių pajėgumų stokos, Lietuvos Respublikos kompetentingos institucijos privalo pareiškėjams taikyti nešališką ir skaidrią atrankos procedūrą. Šiais atvejais leidimas negali būti pratęsiamas automatiškai ar suteikti kokių nors privilegijų teikėjui, kuriam išduoto leidimo galiojimo laikas baigėsi ne vėliau kaip prieš 10 dienų, arba teikėjui, kurį su minėtu teikėju sieja glaudus ryšys, pasireiškiantis kontrole arba dalyvavimu, kaip tai apibrėžta [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatyme]], arba kai šie teikėjai yra sutuoktiniai, artimieji giminaičiai arba juos sieja svainystės ryšiai. Nustatant atrankos procedūras, turi būti laikomasi šio įstatymo 5 ir [[#^s-44ee65e3cab151ba58aa4381|6 straipsnių]] nuostatų ir gali būti atsižvelgiama į svarbius visuomenės interesus. ^s-431e68d80a46d09d6fc566bb
+2. Tais atvejais, kai išduodamų leidimų verstis tam tikros rūšies veikla skaičius yra ribotas dėl gamtinių išteklių ar techninių pajėgumų stokos, Lietuvos Respublikos kompetentingos institucijos privalo pareiškėjams taikyti nešališką ir skaidrią atrankos procedūrą. Šiais atvejais leidimas negali būti pratęsiamas automatiškai ar suteikti kokių nors privilegijų teikėjui, kuriam išduoto leidimo galiojimo laikas baigėsi ne vėliau kaip prieš 10 dienų, arba teikėjui, kurį su minėtu teikėju sieja glaudus ryšys, pasireiškiantis kontrole arba dalyvavimu, kaip tai apibrėžta [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatyme]], arba kai šie teikėjai yra sutuoktiniai, artimieji giminaičiai arba juos sieja svainystės ryšiai. Nustatant atrankos procedūras, turi būti laikomasi šio įstatymo [[#^s-b066e4ae003ab3e16df2676d|5]] ir [[#^s-44ee65e3cab151ba58aa4381|6]] straipsnių nuostatų ir gali būti atsižvelgiama į svarbius visuomenės interesus. ^s-431e68d80a46d09d6fc566bb
 
 
-3. Išduotas leidimas suteikia teikėjui teisę teikti paslaugas visoje Lietuvos Respublikos teritorijoje. Teisę teikti paslaugas taip pat įgyja leidimą gavusio teikėjo Lietuvos Respublikoje įsteigti padaliniai ir dukterinės bendrovės, jeigu jie vykdo veiklą, dėl kurios teikėjui yra išduotas leidimas. Įstatymuose gali būti nustatyta įpareigojimų gauti atskirus leidimus arba apribojimų dėl leidimų galiojimo tam tikroje Lietuvos Respublikos teritorijos dalyje, jeigu tokios išimtys pateisinamos svarbiais visuomenės interesais. ^s-2c60f791a51a233c20121741
+3. Išduotas leidimas suteikia teikėjui teisę teikti paslaugas visoje Lietuvos Respublikos teritorijoje. Teisę teikti paslaugas taip pat įgyja leidimą gavusio teikėjo Lietuvos Respublikoje įsteigti padaliniai ir dukterinės bendrovės, jeigu jie vykdo veiklą, dėl kurios teikėjui yra išduotas leidimas. Įstatymuose gali būti nustatyta įpareigojimų gauti atskirus leidimus arba apribojimų [dėl leidimų galiojimo](https://e-tar.lt/portal/lt/legalAct/TAR.665CD521A48D) tam tikroje Lietuvos Respublikos teritorijos dalyje, jeigu tokios išimtys pateisinamos svarbiais visuomenės interesais. ^s-2c60f791a51a233c20121741
 
 
 4. Teikėjas Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka privalo pateikti kontaktiniam centrui arba tiesiogiai Lietuvos Respublikos kompetentingai institucijai informaciją apie: ^s-fa0474ed2c6c44ec9b40e42e
@@ -465,7 +465,7 @@ LAISVĖS TEIKTI PASLAUGAS ĮGYVENDINIMAS
 6. Tais atvejais, kai Vyriausybės prašoma pateikti išvadą dėl Seime svarstomo įstatymo projekto, institucija, rengianti Vyriausybės išvadą, Vyriausybės nustatyta tvarka pateikia Vyriausybės įgaliotai valstybės institucijai informaciją apie siūlymą nustatyti reikalavimus, taikomus laikinai Lietuvos Respublikoje paslaugas teikiantiems valstybių narių teikėjams, ir nurodo, ar nustatomi reikalavimai atitinka [[#^s-657d8a1ec84bddc636127cae|šio straipsnio 3 dalyje]] nurodytus principus ir yra pagrįsti viešosios tvarkos, nacionalinio ir (ar) visuomenės saugumo, visuomenės sveikatos ar aplinkos apsaugos tikslais. ^s-b950f8f63f53f9d7dd611110
 
 
-7. Vyriausybės įgaliota valstybės institucija, gavusi iš Lietuvos Respublikos kompetentingos institucijos ar institucijos, rengiančios Vyriausybės išvadą dėl Seime svarstomo įstatymo projekto, šio straipsnio 5 ar [[#^s-b950f8f63f53f9d7dd611110|6 dalyje]] nurodytą informaciją, Vyriausybės nustatyta tvarka praneša Europos Komisijai apie šio straipsnio 5 ar [[#^s-b950f8f63f53f9d7dd611110|6 dalyje]] nurodytų reikalavimų nustatymą ar panaikinimą ir pateikia tokių reikalavimų atitikties [[#^s-657d8a1ec84bddc636127cae|šio straipsnio 3 dalies]] nuostatoms pagrindimą arba nurodo reikalavimų panaikinimo priežastis, išskyrus atvejus, kai iš institucijos, rengiančios Vyriausybės išvadą dėl Seime svarstomo įstatymo projekto, gauna informaciją, kad nustatomi reikalavimai neatitinka [[#^s-657d8a1ec84bddc636127cae|šio straipsnio 3 dalyje]] nurodytų principų ar (ir) nėra pagrįsti bent vienu iš viešosios tvarkos, nacionalinio ir (ar) visuomenės saugumo, visuomenės sveikatos ar aplinkos apsaugos tikslų. Teisės akto projektas, kuriame siūloma nustatyti reikalavimus, taikomus laikinai Lietuvos Respublikoje paslaugas teikiantiems valstybių narių teikėjams, gali būti priimamas po pranešimo Europos Komisijai pateikimo, išskyrus šio straipsnio 8 ir [[#^s-0c81e68a4bb93b07596eaf61|9 dalyse]] nustatytus atvejus. ^s-e98916058d2347ff4dc7f428
+7. Vyriausybės įgaliota valstybės institucija, gavusi iš Lietuvos Respublikos kompetentingos institucijos ar institucijos, rengiančios Vyriausybės išvadą dėl Seime svarstomo įstatymo projekto, šio straipsnio [[#^s-1e07ded34de00223d118a144|5]] ar [[#^s-b950f8f63f53f9d7dd611110|6]] dalyje nurodytą informaciją, Vyriausybės nustatyta tvarka praneša Europos Komisijai apie šio straipsnio [[#^s-1e07ded34de00223d118a144|5]] ar [[#^s-b950f8f63f53f9d7dd611110|6]] dalyje nurodytų reikalavimų nustatymą ar panaikinimą ir pateikia tokių reikalavimų atitikties [[#^s-657d8a1ec84bddc636127cae|šio straipsnio 3 dalies]] nuostatoms pagrindimą arba nurodo reikalavimų panaikinimo priežastis, išskyrus atvejus, kai iš institucijos, rengiančios Vyriausybės išvadą dėl Seime svarstomo įstatymo projekto, gauna informaciją, kad nustatomi reikalavimai neatitinka [[#^s-657d8a1ec84bddc636127cae|šio straipsnio 3 dalyje]] nurodytų principų ar (ir) nėra pagrįsti bent vienu iš viešosios tvarkos, nacionalinio ir (ar) visuomenės saugumo, visuomenės sveikatos ar aplinkos apsaugos tikslų. Teisės akto projektas, kuriame siūloma nustatyti reikalavimus, taikomus laikinai Lietuvos Respublikoje paslaugas teikiantiems valstybių narių teikėjams, gali būti priimamas po pranešimo Europos Komisijai pateikimo, išskyrus šio straipsnio [[#^s-56d4ee42bfde89ba67b1d252|8]] ir [[#^s-0c81e68a4bb93b07596eaf61|9]] dalyse nustatytus atvejus. ^s-e98916058d2347ff4dc7f428
 
 
 8. Jeigu teisės akto projektu yra nustatomas bent vienas iš [[#^s-59cd94dbd14300b6e71ce64f|šio straipsnio 4 dalyje]] nurodytų reikalavimų, taikomų laikinai Lietuvos Respublikoje paslaugas teikiantiems valstybių narių teikėjams, teisės akto projektas gali būti priimamas ne anksčiau kaip po 3 mėnesių nuo pranešimo Europos Komisijai pateikimo, jeigu Europos Komisija nepriima sprendimo, kad reikalavimai, apie kuriuos pranešta, negali būti priimti. ^s-56d4ee42bfde89ba67b1d252
@@ -482,7 +482,7 @@ Nr. XV-442, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16788
 ### 10 straipsnis. Laisvės teikti paslaugas apribojimai išimtiniais atvejais ^s-e257624c0310258da9c01309
 
 
-1. Lietuvos Respublikos kompetentinga institucija, nesilaikydama šio įstatymo [[#^s-3245b9e387fee849b7873d9f|9 straipsnio]] 1–4 dalyse nustatytų reikalavimų, valstybės narės teikėjui, laikinai teikiančiam paslaugas Lietuvos Respublikoje, išimtiniais atvejais įstatymų nustatyta tvarka gali taikyti laisvę teikti paslaugas ribojančias priemones, susijusias su jo teikiamų paslaugų saugumo užtikrinimu. Konkrečios priemonės nustatomos tam tikrų paslaugų teikimo veiklą reglamentuojančiuose teisės aktuose. ^s-741f35b1e90974097d8d7761
+1. Lietuvos Respublikos kompetentinga institucija, nesilaikydama šio įstatymo [[#^s-3245b9e387fee849b7873d9f|9 straipsnio]] [[#^s-fd74ce770ff2356a44df0669|1]]–[[#^s-59cd94dbd14300b6e71ce64f|4]] dalyse nustatytų reikalavimų, valstybės narės teikėjui, laikinai teikiančiam paslaugas Lietuvos Respublikoje, išimtiniais atvejais įstatymų nustatyta tvarka gali taikyti laisvę teikti paslaugas ribojančias priemones, susijusias su jo teikiamų paslaugų saugumo užtikrinimu. Konkrečios priemonės nustatomos tam tikrų paslaugų teikimo veiklą reglamentuojančiuose teisės aktuose. ^s-741f35b1e90974097d8d7761
 Straipsnio dalies pakeitimai:
 Nr. XV-442, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16788
 
@@ -651,7 +651,7 @@ Nr. XV-442, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16788
 3. Teisės aktuose, kuriuose nustatytas reikalavimas, kad Lietuvos Respublikos teikėjas įsigytų profesinės civilinės atsakomybės draudimą arba pateiktų kokią nors kitą garantiją, turi būti nustatyta, kad pripažįstama ir kitos valstybės narės draudimo įstaigos išduota tokio draudimo pažyma. ^s-e1adb63f9d47efb42cd801a4
 
 
-4. Šio straipsnio 1 ir [[#^s-e5226c649b298246f1a402b7|2 dalių]] reikalavimai dėl profesinės civilinės atsakomybės draudimo, garantijos ar lygiavertės priemonės netaikomi profesinio civilinio draudimo ar garantijos priemonėms, numatytoms Europos Sąjungos teisės aktuose arba juos įgyvendinančiuose Lietuvos Respublikos teisės aktuose. ^s-3e3bda209585fae2e8067290
+4. Šio straipsnio [[#^s-48c29b2989ccc389d70496be|1]] ir [[#^s-e5226c649b298246f1a402b7|2]] dalių reikalavimai dėl profesinės civilinės atsakomybės draudimo, garantijos ar lygiavertės priemonės netaikomi profesinio civilinio draudimo ar garantijos priemonėms, numatytoms Europos Sąjungos teisės aktuose arba juos įgyvendinančiuose Lietuvos Respublikos teisės aktuose. ^s-3e3bda209585fae2e8067290
 
 
 
@@ -677,7 +677,7 @@ Nr. XV-442, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16788
 2) sertifikavimo, akreditavimo, techninės stebėsenos, tyrimų arba bandymų paslaugų teikėjams, jeigu tokių reikalavimų taikymas pateisinamas siekiu užtikrinti šių teikėjų nepriklausomumą ir nešališkumą. ^s-7acd4522910d2e1f5c28e311
 
 
-2. Jeigu [[#^s-125f97f053587ceb3a036de7|šio straipsnio 1 dalies]] 1 ir [[#^s-b0f6caad8cd3a24a8f846d91|2 punktuose]] nurodytiems teikėjams leidžiama verstis keliomis veiklomis, teisės aktais turi būti užtikrinama: ^s-745d3a2fba1525cea114b0f8
+2. Jeigu [[#^s-125f97f053587ceb3a036de7|šio straipsnio 1 dalies]] [[#^s-43b307e03d42935a86568c11|1]] ir [[#^s-b0f6caad8cd3a24a8f846d91|2]] punktuose nurodytiems teikėjams leidžiama verstis keliomis veiklomis, teisės aktais turi būti užtikrinama: ^s-745d3a2fba1525cea114b0f8
 
 
 1) kad būtų išvengta interesų konfliktų ir kelių skirtingų veiklų nesuderinamumo; ^s-43b307e03d42935a86568c11
@@ -757,10 +757,10 @@ Nr. XV-442, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16788
 2. Teikėjai ir gavėjai, kontaktiniam centrui arba tiesiogiai Lietuvos Respublikos kompetentingai institucijai pateikę prašymą dėl [[#^s-aea4ed605d5c68ce9d1e98ab|šio straipsnio 1 dalyje]] nurodytos informacijos suteikimo, turi teisę gauti informaciją, paaiškinančią [[#^s-810db72f1e5d4cc1aa36425c|šio straipsnio 1 dalies 1 punkte]] nurodytus reikalavimus ir jų taikymą. Ši teisė neapima teisės gauti teisines konsultacijas konkrečiais atvejais. ^s-d99d11a0897f6e01b4cba0c5
 
 
-3. Kontaktinis centras ir Lietuvos Respublikos kompetentingos institucijos šio straipsnio 1 ir [[#^s-d99d11a0897f6e01b4cba0c5|2 dalyse]] nurodytą informaciją teikia ne tik valstybine, bet ir anglų ar kita teikėjo ar gavėjo įsisteigimo valstybės narės kalba. Teikiama informacija turi būti aktuali. Kontaktinis centras užtikrina, kad [[#^s-aea4ed605d5c68ce9d1e98ab|šio straipsnio 1 dalyje]] nurodyta informacija būtų pateikta ir viešai skelbiama kontaktinio centro interneto svetainėje. ^s-2782dd8d314988a8f80a6417
+3. Kontaktinis centras ir Lietuvos Respublikos kompetentingos institucijos šio straipsnio [[#^s-aea4ed605d5c68ce9d1e98ab|1]] ir [[#^s-d99d11a0897f6e01b4cba0c5|2]] dalyse nurodytą informaciją teikia ne tik valstybine, bet ir anglų ar kita teikėjo ar gavėjo įsisteigimo valstybės narės kalba. Teikiama informacija turi būti aktuali. Kontaktinis centras užtikrina, kad [[#^s-aea4ed605d5c68ce9d1e98ab|šio straipsnio 1 dalyje]] nurodyta informacija būtų pateikta ir viešai skelbiama kontaktinio centro interneto svetainėje. ^s-2782dd8d314988a8f80a6417
 
 
-4. Kontaktinis centras ir Lietuvos Respublikos kompetentingos institucijos privalo užtikrinti, kad į bet kokį prašymą dėl šio straipsnio 1 ir [[#^s-d99d11a0897f6e01b4cba0c5|2 dalyse]] nurodytos informacijos pateikimo būtų atsakoma nedelsiant, bet ne vėliau kaip per 5 darbo dienas nuo prašymo gavimo dienos. ^s-71fba0a79f0512780cc66841
+4. Kontaktinis centras ir Lietuvos Respublikos kompetentingos institucijos privalo užtikrinti, kad į bet kokį prašymą dėl šio straipsnio [[#^s-aea4ed605d5c68ce9d1e98ab|1]] ir [[#^s-d99d11a0897f6e01b4cba0c5|2]] dalyse nurodytos informacijos pateikimo būtų atsakoma nedelsiant, bet ne vėliau kaip per 5 darbo dienas nuo prašymo gavimo dienos. ^s-71fba0a79f0512780cc66841
 
 
 Straipsnio pakeitimai:
@@ -862,7 +862,7 @@ Nr. XV-442, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16788
 6. Lietuvos Respublikos kompetentingos institucijos [[#^s-7c9207ac4b59fb580f796e61|šio straipsnio 4 dalyje]] nurodytą informaciją ir prašymus valstybių narių kompetentingoms institucijoms teikia elektroninėmis priemonėmis per VRI sistemą. Prireikus Lietuvos Respublikos kompetentinga institucija gali kreiptis pagalbos į kontaktinį punktą. ^s-1be0465f232e1f8355b12dd3
 
 
-7. Lietuvos Respublikos kompetentingos institucijos informaciją, gautą atliekant šio įstatymo 22–[[#^s-3496dcd107cd337a78e17406|27 straipsniuose]] nurodytas funkcijas, naudoja išimtinai prašyme dėl informacijos pateikimo nurodytais tikslais. ^s-9ff8481f91018e620b295215
+7. Lietuvos Respublikos kompetentingos institucijos informaciją, gautą atliekant šio įstatymo [[#^s-5f57031b0c1b33720757f2ee|22]]–[[#^s-3496dcd107cd337a78e17406|27]] straipsniuose nurodytas funkcijas, naudoja išimtinai prašyme dėl informacijos pateikimo nurodytais tikslais. ^s-9ff8481f91018e620b295215
 
 
 8. Atlikusios [[#^s-7c9207ac4b59fb580f796e61|šio straipsnio 4 dalies]] 2 ir 3 punktuose nurodytus patikrinimus, apžiūras ar tyrimus, Lietuvos Respublikos kompetentingos institucijos privalo prašymą pateikusioms valstybių narių kompetentingoms institucijoms pateikti informaciją apie jų rezultatus, įskaitant informaciją apie priemones, kurios buvo taikytos arba planuotos taikyti teikėjams ir jų teikiamoms paslaugoms. Jei buvo priimtas sprendimas priemonių netaikyti, pateikiama informacija apie šio sprendimo priežastis. ^s-a1a1498ef53c4ffa8906ca46
@@ -894,7 +894,7 @@ Nr. XV-442, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16788
 ### 24 straipsnis. Įspėjimo sistema ^s-6f4620c7cf6171ea72dccfe9
 
 
-1. Lietuvos Respublikos kompetentinga institucija, sužinojusi apie konkrečius teikėjo veiksmus ar aplinkybes, kurie gali turėti sunkių padarinių Lietuvos Respublikos ar valstybių narių teritorijose gyvenančių asmenų saugumui, sveikatai ir (arba) aplinkai, nedelsdama apie tai praneša teikėjo įsteigimo valstybei narei, kitoms susijusioms valstybėms narėms bei Europos Komisijai ir imasi šio įstatymo 22, 23, 25, 26, [[#^s-3496dcd107cd337a78e17406|27 straipsniuose]] numatytų priemonių. ^s-1efe3ab2a25fa1eafdc08aa7
+1. Lietuvos Respublikos kompetentinga institucija, sužinojusi apie konkrečius teikėjo veiksmus ar aplinkybes, kurie gali turėti sunkių padarinių Lietuvos Respublikos ar valstybių narių teritorijose gyvenančių asmenų saugumui, sveikatai ir (arba) aplinkai, nedelsdama apie tai praneša teikėjo įsteigimo valstybei narei, kitoms susijusioms valstybėms narėms bei Europos Komisijai ir imasi šio įstatymo [[#^s-5f57031b0c1b33720757f2ee|22]], [[#^s-eaa341d6e30e7b5def4e9394|23]], [[#^s-3ca61f8367a8c0f3a667b2e8|25]], [[#^s-8d5bc62490cf3c6131f48643|26]], [[#^s-3496dcd107cd337a78e17406|27]] straipsniuose numatytų priemonių. ^s-1efe3ab2a25fa1eafdc08aa7
 
 
 2. [[#^s-1efe3ab2a25fa1eafdc08aa7|Šio straipsnio 1 dalyje]] nurodytas pranešimas pateikiamas per VRI sistemą. ^s-7c9088c2f8fd8f158155e265
@@ -945,7 +945,7 @@ Nr. XV-442, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16788
 4. Lietuvos Respublikos kompetentinga institucija šio įstatymo [[#^s-e257624c0310258da9c01309|10 straipsnyje]] nurodytas priemones gali taikyti ne anksčiau kaip po 15 darbo dienų nuo [[#^s-629a1139d3fa9f603767f5ee|šio straipsnio 3 dalyje]] nurodyto pranešimo išsiuntimo dienos. ^s-ad6f82d32d91deafd894e789
 
 
-5. Kai kyla rimtas tiesioginis pavojus arba daroma žala žmogaus sveikatai ar gyvybei, nuosavybės saugumui, Lietuvos Respublikos kompetentinga institucija gali taikyti šio įstatymo [[#^s-e257624c0310258da9c01309|10 straipsnyje]] nurodytas priemones nesilaikydama šio straipsnio 2, 3 ir [[#^s-ad6f82d32d91deafd894e789|4 dalyse]] nustatytos tvarkos. Tokiais atvejais Lietuvos Respublikos kompetentinga institucija apie priemonių taikymą ir to priežastis nedelsdama praneša Europos Komisijai ir teikėjo įsteigimo valstybės narės kompetentingai institucijai. ^s-86e2adb4ef799cdb5c43cd5b
+5. Kai kyla rimtas tiesioginis pavojus arba daroma žala žmogaus sveikatai ar gyvybei, nuosavybės saugumui, Lietuvos Respublikos kompetentinga institucija gali taikyti šio įstatymo [[#^s-e257624c0310258da9c01309|10 straipsnyje]] nurodytas priemones nesilaikydama šio straipsnio [[#^s-900be3bd39d01c6abd52a058|2]], 3 ir 4 dalyse nustatytos tvarkos. Tokiais atvejais Lietuvos Respublikos kompetentinga institucija apie priemonių taikymą ir to priežastis nedelsdama praneša Europos Komisijai ir teikėjo įsteigimo valstybės narės kompetentingai institucijai. ^s-86e2adb4ef799cdb5c43cd5b
 
 
 6. Jeigu Europos Komisija priima sprendimą, kad Lietuvos Respublikos kompetentingos institucijos taikomos priemonės nesuderinamos su Europos Sąjungos teise, Lietuvos Respublikos kompetentinga institucija privalo nutraukti priemonių taikymą. ^s-107be79474fd26e12def66c9
@@ -1102,7 +1102,7 @@ SRITYS, KURIOSE NETAIKOMOS [[#^s-3245b9e387fee849b7873d9f|LIETUVOS RESPUBLIKOS P
 3) pašto paslaugas, kurioms taikoma 1997 m. gruodžio 15 d. Europos Parlamento ir Tarybos direktyva 97/67/EB dėl Bendrijos pašto paslaugų vidaus rinkos plėtros bendrųjų taisyklių ir paslaugų kokybės gerinimo su visais pakeitimais; ^s-05cc9e44c85a6054c45c51d7
 
 
-4) elektros energetikos sektoriaus paslaugas, kurioms taikoma 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/944 dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES, su visais pakeitimais; ^s-fe597b0fd62d2a1c919bba2a
+4) elektros energetikos sektoriaus paslaugas, kurioms taikoma 2019 m. birželio 5 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/944](https://eur-lex.europa.eu/eli/dir/2019/944/oj) dėl elektros energijos vidaus rinkos bendrųjų taisyklių, kuria iš dalies keičiama Direktyva 2012/27/ES, su visais pakeitimais; ^s-fe597b0fd62d2a1c919bba2a
 
 
 5) dujų energetikos sektoriaus paslaugas, kurioms taikoma 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/73/EB dėl gamtinių dujų vidaus rinkos bendrųjų taisyklių, panaikinanti Direktyvą 2003/55/EB, su visais pakeitimais; ^s-d518180d16ea9a9426564055
@@ -1117,7 +1117,7 @@ SRITYS, KURIOSE NETAIKOMOS [[#^s-3245b9e387fee849b7873d9f|LIETUVOS RESPUBLIKOS P
 2. Teisiniai santykiai, kuriuos reglamentuoja 1996 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 96/71/EB dėl darbuotojų komandiravimo paslaugų teikimo sistemoje su visais pakeitimais. ^s-1e49a8b76ef37b60cd4b5e1e
 
 
-3. Teisiniai santykiai, kuriuos reglamentuoja 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). ^s-bad11b4f72d36e6d9ffea953
+3. Teisiniai santykiai, kuriuos reglamentuoja 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). ^s-bad11b4f72d36e6d9ffea953
 
 
 4. Teisiniai santykiai, kuriuos reglamentuoja 1977 m. kovo 22 d. Komisijos direktyva 77/249/EEB, skirta padėti teisininkams veiksmingai naudotis laisve teikti paslaugas, su visais pakeitimais. ^s-f8e5650d779d779c18d6a741
@@ -1126,19 +1126,19 @@ SRITYS, KURIOSE NETAIKOMOS [[#^s-3245b9e387fee849b7873d9f|LIETUVOS RESPUBLIKOS P
 5. Skolų išieškojimas teismo tvarka. ^s-41bf5105952e59b8267c1a21
 
 
-6. Teisiniai santykiai, kuriuos reglamentuoja 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyvos 2005/36/EB dėl profesinių kvalifikacijų pripažinimo su visais pakeitimais II antraštinė dalis, taip pat [[latest/TAR.074B2F6259F9#^s-946bfc90866fc63238396301|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 7–11 straipsniai]], įstatymuose įtvirtinti reikalavimai, kad tam tikrą veiklą gali vykdyti tik tam tikros profesijos atstovai. ^s-34feed0c411ba1b43b34fafb
+6. Teisiniai santykiai, kuriuos reglamentuoja 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyvos 2005/36/EB dėl profesinių kvalifikacijų pripažinimo su visais pakeitimais II antraštinė dalis, taip pat [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo]] [[latest/TAR.074B2F6259F9#^s-7e242fc8df383fbacc43806a|7]]–[[latest/TAR.074B2F6259F9#^s-946bfc90866fc63238396301|11]] straipsniai, įstatymuose įtvirtinti reikalavimai, kad tam tikrą veiklą gali vykdyti tik tam tikros profesijos atstovai. ^s-34feed0c411ba1b43b34fafb
 
 
-7. Teisiniai santykiai, kuriuos reglamentuoja 1971 m. birželio 14 d. Tarybos reglamentas (EEB) Nr. 1408/71 dėl socialinės apsaugos sistemų taikymo pagal darbo sutartį dirbantiems asmenims ir jų šeimos nariams, judantiems Bendrijoje, su visais pakeitimais. ^s-ed802a5a889e87db70712b09
+7. Teisiniai santykiai, kuriuos reglamentuoja 1971 m. birželio 14 d. Tarybos [reglamentas (EEB) Nr. 1408/71](https://eur-lex.europa.eu/eli/reg/1408/71/oj) dėl socialinės apsaugos sistemų taikymo pagal darbo sutartį dirbantiems asmenims ir jų šeimos nariams, judantiems Bendrijoje, su visais pakeitimais. ^s-ed802a5a889e87db70712b09
 
 
-8. Administracinio pobūdžio reikalavimai, susiję su laisvu asmenų judėjimu ir jų gyvenamąja vieta, kiek tai reglamentuoja 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyvos 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičiančios Reglamentą (EEB) Nr. 1612/68 ir panaikinančios Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB, su visais pakeitimais nuostatos dėl administracinių formalumų, kuriuos naudos gavėjai turi atlikti Lietuvos Respublikos kompetentingose institucijose, kai paslauga teikiama Lietuvos Respublikoje. ^s-5098dbfc021142cbe8bfb931
+8. Administracinio pobūdžio reikalavimai, susiję su laisvu asmenų judėjimu ir jų gyvenamąja vieta, kiek tai reglamentuoja 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyvos 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičiančios [Reglamentą (EEB) Nr. 1612/68](https://eur-lex.europa.eu/eli/reg/1612/68/oj) ir panaikinančios Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB, su visais pakeitimais nuostatos dėl administracinių formalumų, kuriuos naudos gavėjai turi atlikti Lietuvos Respublikos kompetentingose institucijose, kai paslauga teikiama Lietuvos Respublikoje. ^s-5098dbfc021142cbe8bfb931
 
 
 9. Kai teikiant paslaugą trečiųjų valstybių piliečiai iš vienos valstybės narės atvyksta į kitą valstybę narę, valstybių narių galimybė reikalauti vizos ar leidimo gyventi iš trečiųjų valstybių piliečių, kuriems netaikomas abipusio pripažinimo režimas, nustatytas 1985 m. birželio 14 d. Konvencijos dėl Šengeno susitarimo, sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo, su visais pakeitimais, [[#^s-1547adc5204780544872adcc|21 straipsnyje]], arba galimybė įpareigoti atvykstančius ar atvykusius trečiųjų valstybių piliečius prisistatyti Lietuvos Respublikos kompetentingoms institucijoms. ^s-2c9cb6aa7e22558e3d44489d
 
 
-10. Atliekų vežimas, kai taikomas 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1013/2006 dėl atliekų vežimo su visais pakeitimais. ^s-7f952913b268c5fa7ad6b1a0
+10. Atliekų vežimas, kai taikomas 2006 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1013/2006](https://eur-lex.europa.eu/eli/reg/1013/2006/oj) dėl atliekų vežimo su visais pakeitimais. ^s-7f952913b268c5fa7ad6b1a0
 
 
 11. Autorių teisės, gretutinės teisės, duomenų bazių gamintojų teisės ir teisės, kurioms taikoma 1986 m. gruodžio 16 d. Tarybos direktyva 87/54/EEB dėl puslaidininkių įtaisų topografijų teisinės apsaugos ir 1996 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 96/9/EB dėl duomenų bazių teisinės apsaugos su visais pakeitimais, taip pat pramoninės nuosavybės teisės. ^s-6cf38c399f655138f5676904
@@ -1180,7 +1180,7 @@ Nr. XV-442, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16788
 
 
 
-2. [[latest/TAR.C54AFFAA7622#^s-034fc41d755009571b0c49ae|Lietuvos Respublikos viešųjų pirkimų įstatymo 48 straipsnyje]] ir 51 straipsnio 2 ir 4 dalyse nurodyti dokumentai. ^s-bba209f502dc4875e4d527af
+2. [[latest/TAR.C54AFFAA7622#^s-f72ffe305d37f6f36e390238|Lietuvos Respublikos viešųjų pirkimų įstatymo 48 straipsnyje ir 51 straipsnio]] [[latest/TAR.C54AFFAA7622#^s-0ea6bf3f9aa4ffb124248945|2]] ir [[latest/TAR.C54AFFAA7622#^s-9fa069e5530ce816e6d2fb5f|4]] dalyse nurodyti dokumentai. ^s-bba209f502dc4875e4d527af
 Punkto pakeitimai:
 Nr. XIII-332, 2017-05-02, paskelbta TAR 2017-05-04, i. k. 2017-07555
 
@@ -1210,7 +1210,7 @@ paslaugų įstatymo
 1. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyva 2006/123/EB dėl paslaugų vidaus rinkoje. ^s-1f60c4416581d06a7a3fdcbe
 
 
-2. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/882 dėl gaminių ir paslaugų prieinamumo reikalavimų. ^s-54b8b056de05d1fc35df30d3
+2. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/882](https://eur-lex.europa.eu/eli/dir/2019/882/oj) dėl gaminių ir paslaugų prieinamumo reikalavimų. ^s-54b8b056de05d1fc35df30d3
 
 
 ––––––––––––––––––––––––

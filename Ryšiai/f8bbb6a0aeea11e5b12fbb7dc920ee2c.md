@@ -9,9 +9,12 @@ pavadinimas: "Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr.
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.A7A6A8CC58D7|Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas]] - 4 straipsnio 3 punkte
+- [[latest/TAR.A7A6A8CC58D7#^s-4175096d112b1ae91f31a6d4|Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas]] - 6 straipsnio 1 dalyje
+- [[latest/TAR.A7A6A8CC58D7#^s-791ae63fb3a71d4d643b6f8d|Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas]] - 2 citatos - 5 straipsnio 3 dalyje
+- [[latest/TAR.A7A6A8CC58D7#^s-79e163a43c7f8d66b0342db1|Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas]] - 5 straipsnyje
+- [[latest/TAR.A7A6A8CC58D7#^s-cee82890356e169a501b8040|Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas]] - 2 citatos - 6 straipsnis
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A7A6A8CC58D7#^s-0de233a34cfeb2e6f592d669|Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas]] - Įstatymas Nr. XII-2243
-- [[latest/TAR.A7A6A8CC58D7#^s-6eb8f919637fd59d5ce18879|Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas]] - Įstatymas Nr. XII-2243
+_Nėra._

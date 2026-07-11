@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos 1996 metų valstybės ir savivaldybių biudž
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.11F4B795287C|Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo]] - 4 citatos - 1995m.   gruodžio 7 d. įstatymo Nr. I-1116
+- [[latest/TAR.11F4B795287C|Dėl Lietuvos Respublikos 1996 metų valstybės biudžeto ir atskaitymų į savivaldybių biudžetus normatyvų bei dotacijų patvirtinimo]] - 4 citatos - įstatymo Nr. I-1116
 
 ## Šį įstatymą cituoja
 

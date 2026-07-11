@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos baudžiamojo kodekso 8(1), 79, 80, 85, 201(1)
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - Baudžiamojo proceso kodekso 4151 straipsnio 8 dalyje
 
 ## Šį įstatymą cituoja
 

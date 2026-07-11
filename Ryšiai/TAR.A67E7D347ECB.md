@@ -9,11 +9,10 @@ pavadinimas: "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos �
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.EAA93A47BAA1|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - 2 citatos - Valstybės garantuojamos teisinės pagalbos įstatymo
-- [[latest/TAR.EAA93A47BAA1#^s-79ada59cd0267c4ffc17cf0e|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - 2 citatos - Valstybės garantuojamos teisinės pagalbos įstatymo 12 straipsnio 5 punktas
+- [[latest/TAR.EAA93A47BAA1|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - Valstybės garantuojamos teisinės pagalbos įstatymo
+- [[latest/TAR.EAA93A47BAA1#^s-79ada59cd0267c4ffc17cf0e|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - Valstybės garantuojamos teisinės pagalbos įstatymo 12 straipsnio 5 punktas
 - [[latest/TAR.EAA93A47BAA1#^s-a894735408e03e0adcfc4a85|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - Valstybės garantuojamos teisinės pagalbos įstatymo 8 straipsnio 2 dalį
 
 ## Šį įstatymą cituoja
 
 - [[latest/TAR.EAA93A47BAA1#^s-0f63c27229205d79c53ad37c|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - įstatymą Nr. X-79
-- [[latest/TAR.EAA93A47BAA1#^s-bec2d66e6c1e480c7164ee42|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - įstatymą Nr. X-79

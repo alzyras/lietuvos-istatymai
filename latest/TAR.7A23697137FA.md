@@ -126,7 +126,7 @@ Nr. XIV-2027, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11845
 6. Lietuvos Aukščiausiojo Teismo pirmininko ar generalinio prokuroro sprendimą išduoti pažymėjimą ar atsisakyti jį išduoti šio įstatymo [[#^s-b7f44a3024675cbb47859e52|1 straipsnio 3 dalyje]] nurodyti asmenys, jų sutuoktiniai, giminaičiai (vaikai, įvaikiai, vaikaičiai, taip pat broliai ir seserys) per 2 mėnesius nuo šio sprendimo gavimo dienos turi teisę apskųsti Lietuvos Aukščiausiajam Teismui. Šis skundas nagrinėjamas šio įstatymo [[#^s-9b351ec39997686c96f50d72|6 straipsnyje]] nustatyta tvarka. ^s-60f1449b061aa85435afafd3
 
 
-7. Praleistas šio straipsnio 5 ar [[#^s-60f1449b061aa85435afafd3|6 dalyje]] nustatytas skundo padavimo terminas gali būti atnaujintas atitinkamai Lietuvos Aukščiausiojo Teismo pirmininko paskirto teisėjo arba teisėjų kolegijos nutartimi ar generalinio prokuroro sprendimu, jeigu yra pagrindas šio termino praleidimo priežastis pripažinti svarbiomis. ^s-14ef67341ae9785bfb7ff3c4
+7. Praleistas šio straipsnio [[#^s-72fb483f4070d8195b597a8c|5]] ar [[#^s-60f1449b061aa85435afafd3|6]] dalyje nustatytas skundo padavimo terminas gali būti atnaujintas atitinkamai Lietuvos Aukščiausiojo Teismo pirmininko paskirto teisėjo arba teisėjų kolegijos nutartimi ar generalinio prokuroro sprendimu, jeigu yra pagrindas šio termino praleidimo priežastis pripažinti svarbiomis. ^s-14ef67341ae9785bfb7ff3c4
 
 
 8. [[#^s-14ef67341ae9785bfb7ff3c4|Šio straipsnio 7 dalyje]] nurodytas generalinio prokuroro sprendimas dėl skundo padavimo termino atnaujinimo gali būti apskųstas Lietuvos Aukščiausiajam Teismui. ^s-7a9b4a96c34d6f2c11ce24eb
@@ -182,7 +182,7 @@ Nr. XIV-2027, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11845
 
 
 
-9. Septynių teisėjų kolegijos sudarymui ir tolesniam skundo nagrinėjimo procesui mutatis mutandis taikomos šio straipsnio 1–[[#^s-8f84d587d31cfa111c48b378|6 dalių]] nuostatos. ^s-3264f42b84ee8a4d744c4c58
+9. Septynių teisėjų kolegijos sudarymui ir tolesniam skundo nagrinėjimo procesui mutatis mutandis taikomos šio straipsnio [[#^s-56378f5656aba0fc77da7b62|1]]–[[#^s-8f84d587d31cfa111c48b378|6]] dalių nuostatos. ^s-3264f42b84ee8a4d744c4c58
 
 
 10. Septynių teisėjų kolegijos sprendimas yra galutinis. ^s-5579faab9ea7ed9c6cd69c75
@@ -231,7 +231,7 @@ Nr. XIV-2027, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11845
 3) Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus plenarinei sesijai, jeigu sprendimą pagal šio įstatymo [[#^s-8839c0fc358015d087f8e0d8|5 straipsnio]] nuostatas priėmė Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus septynių teisėjų kolegija. ^s-dccb91bc961585b5167d07d8
 
 
-5. Teismo posėdis vyksta pagal šio įstatymo [[#^s-8839c0fc358015d087f8e0d8|5 straipsnio]] 3, 4, 5 ir [[#^s-c8be5d570995bb4ef4d0a669|6 dalių]] nuostatas. ^s-c1fcf23851dbaa3add43bce7
+5. Teismo posėdis vyksta pagal šio įstatymo [[#^s-8839c0fc358015d087f8e0d8|5 straipsnio]] [[#^s-0288ad4821f22573a01a86c6|3]], [[#^s-40eb713459adfee6c40f2ae0|4]], [[#^s-de962d72a4475527aa690cda|5]] ir [[#^s-8f84d587d31cfa111c48b378|6]] dalių nuostatas. ^s-c1fcf23851dbaa3add43bce7
 
 
 6. Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus trijų ar septynių teisėjų kolegija arba šio skyriaus plenarinė sesija priima vieną iš šių nutarčių: ^s-c8be5d570995bb4ef4d0a669
@@ -305,9 +305,9 @@ Nr. X-1814, 2008-11-13, Žin., 2008, Nr. 137-5368 (2008-11-29), i. k. [[latest/T
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2661, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25260
-Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymo Nr. I-180 3 ir [[#^s-8839c0fc358015d087f8e0d8|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymo Nr. I-180 [[#^s-b384ef9de6aaf7484a42a116|3]] ir [[#^s-8839c0fc358015d087f8e0d8|5]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2027, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11845
-Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymo Nr. I-180 2, 3, 4, 5 ir [[#^s-9b351ec39997686c96f50d72|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atkūrimo įstatymo Nr. I-180 [[#^s-b65bc2d19b356329e428be5c|2]], [[#^s-b384ef9de6aaf7484a42a116|3]], [[#^s-ed30f6c7d96c4c91faae73c7|4]], [[#^s-8839c0fc358015d087f8e0d8|5]] ir [[#^s-9b351ec39997686c96f50d72|6]] straipsnių pakeitimo įstatymas

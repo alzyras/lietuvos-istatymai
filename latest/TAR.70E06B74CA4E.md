@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-3e53933ce3b2a211c63f6c21
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės sutartį dėl oro susisiekimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės sutartį dėl oro susisiekimo, pasirašytą 1996 m. balandžio 4 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės sutartį dėl oro susisiekimo“](https://e-tar.lt/portal/lt/legalAct/TAR.895FE4DED263), ratifikuoja Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės sutartį dėl oro susisiekimo, pasirašytą 1996 m. balandžio 4 d. Vilniuje.
 
 
 

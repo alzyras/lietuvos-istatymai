@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 4 straipsnio pakeitimas ^s-87fc8d59933a0b3ee0a25274
 
 
-Papildyti 4 straipsnio 1 dalį 16 punktu:
+Papildyti [[latest/TAR.4C6BD6562C91|4 straipsnio 1 dalį 16 punktu]]:
 
 
 „16) tvirtina išorės rizikos veiksnių, pavojų ir grėsmių šalinimo priemones vykdant žvalgybą ir jų taikymo gaires.“
@@ -50,7 +50,7 @@ Papildyti 4 straipsnio 1 dalį 16 punktu:
 ### 2 straipsnis. 5 straipsnio pakeitimas ^s-87c09952c63f567b83c38d8e
 
 
-Pakeisti 5 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.4C6BD6562C91#^s-03294c2737fdc4e2ec63e434|5 straipsnio 4 dalies 2 punktą]] ir jį išdėstyti taip:
 
 
 „2) Lietuvos Respublikos valstybės saugumo departamento direktorius;“.

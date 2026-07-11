@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-6d61be33094b843eec545ffd
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. kovo 22 d. dekretą Nr. 358, ratifikuoja Laisvosios prekybos sutarties tarp Europos bendrijų ir Lietuvos Respublikos bei Europos sutarties tarp bendrijų ir jų valstybių narių ir Lietuvos Respublikos Papildomą protokolą, Europos Bendrijai ir Lietuvos Respublikai pasikeitus laiškais, pasirašytą 1998 m. gruodžio 8 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento [1999 m. kovo 22 d. dekretą Nr. 358](https://e-tar.lt/portal/lt/legalAct/TAR.001750A9C078), ratifikuoja Laisvosios prekybos sutarties tarp Europos bendrijų ir Lietuvos Respublikos bei Europos sutarties tarp bendrijų ir jų valstybių narių ir Lietuvos Respublikos Papildomą protokolą, Europos Bendrijai ir Lietuvos Respublikai pasikeitus laiškais, pasirašytą 1998 m. gruodžio 8 d. Briuselyje.
 
 
 

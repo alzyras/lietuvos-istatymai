@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-df5e18d3f0c755623b9ff9ac
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir atsižvelgdamas į Respublikos Prezidento 2012 m. vasario 7 d. dekretą Nr. 1K-955, ratifikuoja Europos Sąjungos bei jos valstybių narių ir Korėjos Respublikos laisvosios prekybos susitarimą, pasirašytą 2010 m. spalio 6 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir atsižvelgdamas į Respublikos Prezidento [2012 m. vasario 7 d. dekretą Nr. 1K-955](https://e-tar.lt/portal/lt/legalAct/TAR.079833698F8F), ratifikuoja Europos Sąjungos bei jos valstybių narių ir Korėjos Respublikos laisvosios prekybos susitarimą, pasirašytą 2010 m. spalio 6 d. Briuselyje.
 
 
 

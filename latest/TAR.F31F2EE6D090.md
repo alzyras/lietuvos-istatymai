@@ -66,7 +66,7 @@ Vilnius
 1. Šis įstatymas įsigalioja 2014 m. sausio 1 d. ^s-96e179ecbc4baa8e88152d99
 
 
-2. Šio įstatymo [[#^s-587c4043ff14ca51c94e63a2|1 straipsnio 2 dalyje]] išdėstyta Vietos savivaldos įstatymo 33 straipsnio 5 dalies nuostata, nustatanti seniūnaičio kadenciją, taikoma po šio įstatymo įsigaliojimo renkamiems seniūnaičiams. ^s-4505016b91c687360565a61c
+2. Šio įstatymo [[#^s-587c4043ff14ca51c94e63a2|1 straipsnio 2 dalyje]] išdėstyta [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatymo 33 straipsnio 5 dalies]] nuostata, nustatanti seniūnaičio kadenciją, taikoma po šio įstatymo įsigaliojimo renkamiems seniūnaičiams. ^s-4505016b91c687360565a61c
 
 
 

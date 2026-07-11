@@ -161,7 +161,7 @@ Nr. XV-1063, 2026-06-25, paskelbta TAR 2026-07-01, i. k. 2026-11362
 
 
 
-30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos civiliniame kodekse, [[latest/TAR.199156E4E004|Asmens su negalia teisių apsaugos pagrindų įstatyme]], [[latest/cf5b87f06fca11e9a13eeecaacbc653f|Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme]], [[latest/TAR.E14E65020CCC|Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme]], [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatyme]], Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, [[latest/599af1605b2b11eb9dc7b575f08e8bea|Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatyme]], [[latest/TAR.00D176C81058|Lietuvos Respublikos šeimynų įstatyme]], [[latest/TAR.C8205E261830|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme]], [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatyme]] ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). ^s-b58beeb100022769ee5daf48
+30. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos civiliniame kodekse, [[latest/TAR.199156E4E004|Asmens su negalia teisių apsaugos pagrindų įstatyme]], [[latest/cf5b87f06fca11e9a13eeecaacbc653f|Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme]], [[latest/TAR.E14E65020CCC|Lietuvos Respublikos apsaugos nuo smurto artimoje aplinkoje įstatyme]], [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatyme]], Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, [[latest/599af1605b2b11eb9dc7b575f08e8bea|Lietuvos Respublikos pagalbos nuo nusikalstamos veikos nukentėjusiems asmenims įstatyme]], [[latest/TAR.00D176C81058|Lietuvos Respublikos šeimynų įstatyme]], [[latest/TAR.C8205E261830|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatyme]], [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatyme]] ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). ^s-b58beeb100022769ee5daf48
 Straipsnio dalies pakeitimai:
 Nr. XV-1063, 2026-06-25, paskelbta TAR 2026-07-01, i. k. 2026-11362
 
@@ -242,10 +242,10 @@ Nr. XV-958, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08461
 ### 6 straipsnis. Asmens duomenų tvarkymas ^s-ca15b578e7507455cb097d7b
 
 
-1. Asmens duomenys socialinių paslaugų valdymo, skyrimo, teikimo, informavimo apie savivaldybės teritorijoje teikiamas socialines paslaugas ir jų teikėjus, budinčio globotojo ar nuolatinio globotojo vykdomos likusių be tėvų globos vaikų, socialinę riziką patiriančių vaikų priežiūros, socialinių paslaugų srities darbuotojų reguliacijos vykdymo, ginčų, susijusių su socialinėmis paslaugomis, nagrinėjimo, socialinių paslaugų apskaitos ir (ar) atskaitomybės tikslais tvarkomi vadovaujantis [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir Reglamentu (ES) 2016/679, jų saugojimo terminai nustatomi šio įstatymo įgyvendinamuosiuose teisės aktuose. ^s-14f012c7aacf76a620c808ac
+1. Asmens duomenys socialinių paslaugų valdymo, skyrimo, teikimo, informavimo apie savivaldybės teritorijoje teikiamas socialines paslaugas ir jų teikėjus, budinčio globotojo ar nuolatinio globotojo vykdomos likusių be tėvų globos vaikų, socialinę riziką patiriančių vaikų priežiūros, socialinių paslaugų srities darbuotojų reguliacijos vykdymo, ginčų, susijusių su socialinėmis paslaugomis, nagrinėjimo, socialinių paslaugų apskaitos ir (ar) atskaitomybės tikslais tvarkomi vadovaujantis [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), jų saugojimo terminai nustatomi šio įstatymo įgyvendinamuosiuose teisės aktuose. ^s-14f012c7aacf76a620c808ac
 
 
-2. Socialinių paslaugų įstaigos ir socialines paslaugas teikiantys fiziniai asmenys [[#^s-14f012c7aacf76a620c808ac|šio straipsnio 1 dalyje]] nurodytais tikslais tvarko asmens duomenis, įskaitant specialių kategorijų asmens duomenis, susijusius su asmens sveikatos būkle (diagnozuotos ligos, gydymas, medikamentai, neįgalumo ar dalyvumo lygis), vadovaudamiesi Reglamentu (ES) 2016/679, [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymu]] ir kitais asmens duomenų apsaugą ir tvarkymą reglamentuojančiais teisės aktais. ^s-d992795cc4d853e246f2defc
+2. Socialinių paslaugų įstaigos ir socialines paslaugas teikiantys fiziniai asmenys [[#^s-14f012c7aacf76a620c808ac|šio straipsnio 1 dalyje]] nurodytais tikslais tvarko asmens duomenis, įskaitant specialių kategorijų asmens duomenis, susijusius su asmens sveikatos būkle (diagnozuotos ligos, gydymas, medikamentai, neįgalumo ar dalyvumo lygis), vadovaudamiesi [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymu]] ir kitais asmens duomenų apsaugą ir tvarkymą reglamentuojančiais teisės aktais. ^s-d992795cc4d853e246f2defc
 
 
 
@@ -758,7 +758,7 @@ Nr. XV-1063, 2026-06-25, paskelbta TAR 2026-07-01, i. k. 2026-11362
 2) atsisakyti dirbti su agresyviai besielgiančiu asmeniu (šeima), jeigu toks asmens (šeimos) elgesys kelia grėsmę jo sveikatai ir (ar) gyvybei ir jeigu darbdavys neužtikrina dar bent vieno socialinių paslaugų srities darbuotojo dalyvavimo; ^s-4e467e5004ca86fbf2637a05
 
 
-3) organizuojant ir (ar) teikiant socialines paslaugas, siekiant užtikrinti socialines paslaugas teikiančių ir gaunančių asmenų saugumą, daryti garso ir vaizdo įrašus socialinės apsaugos ir darbo ministro tvirtinamame socialinių paslaugų srities darbuotojo reagavimo į agresyviai besielgiančio (-ios) asmens (šeimos) elgesį tvarkos apraše nustatytais atvejais, vadovaujantis Reglamente (ES) 2016/679 įtvirtintomis su asmens duomenų tvarkymu susijusiomis nuostatomis. Siekiant nepažeisti įstatymų garantuojamo asmens privataus gyvenimo neliečiamumo ir įvertinti užfiksuotas aplinkybes, taip pat siekiant laikytis asmens duomenų apsaugos reikalavimų, teisė susipažinti su garso ir vaizdo įrašuose esančiais asmens duomenimis nustatoma pačiam asmeniui ar jo globėjui, rūpintojui, aprūpintojui ar kitam atstovui pagal įstatymą, teismams, taip pat valstybės ir savivaldybių institucijoms bei įstaigoms, atliekančioms joms priskirtas funkcijas socialinių paslaugų organizavimo, teikimo, priežiūros, kokybės vertinimo ir (ar) asmens teisių apsaugos užtikrinimo socialinių paslaugų teikimo srityse ar nagrinėjančioms asmenų prašymus bei skundus ir priimančioms sprendimus dėl socialinių paslaugų organizavimo, teikimo, priežiūros, kokybės. ^s-02fbe7405ea6ccc484239c36
+3) organizuojant ir (ar) teikiant socialines paslaugas, siekiant užtikrinti socialines paslaugas teikiančių ir gaunančių asmenų saugumą, daryti garso ir vaizdo įrašus socialinės apsaugos ir darbo ministro tvirtinamame socialinių paslaugų srities darbuotojo reagavimo į agresyviai besielgiančio (-ios) asmens (šeimos) elgesį tvarkos apraše nustatytais atvejais, vadovaujantis [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) įtvirtintomis su asmens duomenų tvarkymu susijusiomis nuostatomis. Siekiant nepažeisti įstatymų garantuojamo asmens privataus gyvenimo neliečiamumo ir įvertinti užfiksuotas aplinkybes, taip pat siekiant laikytis asmens duomenų apsaugos reikalavimų, teisė susipažinti su garso ir vaizdo įrašuose esančiais asmens duomenimis nustatoma pačiam asmeniui ar jo globėjui, rūpintojui, aprūpintojui ar kitam atstovui pagal įstatymą, teismams, taip pat valstybės ir savivaldybių institucijoms bei įstaigoms, atliekančioms joms priskirtas funkcijas socialinių paslaugų organizavimo, teikimo, priežiūros, kokybės vertinimo ir (ar) asmens teisių apsaugos užtikrinimo socialinių paslaugų teikimo srityse ar nagrinėjančioms asmenų prašymus bei skundus ir priimančioms sprendimus dėl socialinių paslaugų organizavimo, teikimo, priežiūros, kokybės. ^s-02fbe7405ea6ccc484239c36
 Papildyta straipsnio punktu:
 Nr. XV-1063, 2026-06-25, paskelbta TAR 2026-07-01, i. k. 2026-11362
 
@@ -936,7 +936,7 @@ Nr. XV-1063, 2026-06-25, paskelbta TAR 2026-07-01, i. k. 2026-11362
 3) įgyvendinti kitas teisės aktuose ir sutartyse nustatytas teises. ^s-39aa58dbf7a660130869ece7
 
 
-10. Atlygį budintiems globotojams ir nuolatiniams globotojams už vaikų priežiūrą moka globos centras, kuris Civilinio kodekso ir Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka skiriamas vaikų atstovu pagal įstatymą, savivaldybės tarybos nustatyta tvarka. ^s-4e070b19dbcc9adcb4a79d16
+10. Atlygį budintiems globotojams ir nuolatiniams globotojams už vaikų priežiūrą moka globos centras, kuris Civilinio kodekso ir [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka skiriamas vaikų atstovu pagal įstatymą, savivaldybės tarybos nustatyta tvarka. ^s-4e070b19dbcc9adcb4a79d16
 
 
 11. Savivaldybės tarybos nustatyta tvarka: ^s-1d3489e4c182cc67cea2ea8b
@@ -1072,7 +1072,7 @@ Nr. XV-673, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22563
 6) krašto apsauga – socialinis darbuotojas, veikdamas krašto apsaugos srityje, organizuoja socialinių paslaugų teikimą krašto apsaugos sistemoje tarnaujantiems (dirbantiems) asmenims, atsargos ir dimisijos kariams, taip pat krašto apsaugos sistemoje tarnaujančių (dirbančių) asmenų, atsargos ir dimisijos karių artimiesiems, giminaičiams, kaip jie apibrėžti [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme]], siekdamas padėti asmenims spręsti socialines problemas ir (ar) jų išvengti ateityje. ^s-f67ae1da9b34e8d8b992b4b3
 
 
-4. Socialinis darbuotojas profesinėje veikloje vadovaujasi šio įstatymo [[#^s-d8ea1449d2eb22cc91cecfd4|4 straipsnio 11 punkte]] nurodytu principu ir šiais socialinio darbo įgyvendinimo principais: ^s-3abbb19ddf9cd2c49eb86af7
+4. Socialinis darbuotojas profesinėje veikloje vadovaujasi šio įstatymo 4 straipsnio 11 punkte nurodytu principu ir šiais socialinio darbo įgyvendinimo principais: ^s-3abbb19ddf9cd2c49eb86af7
 
 
 1) sąžiningumo – socialinis darbuotojas veikia sąžiningai, patikimai, empatiškai, pirmenybę teikdamas geriausiems asmens (šeimos) interesams; ^s-30b82bae992b3787c6455d2f
@@ -1362,7 +1362,7 @@ b) socialinės globos įstaigos vadovams ar kitiems atsakingiems asmenims nebuvo
 13. Sustabdžius ar panaikinus socialinės globos įstaigos licencijos galiojimą ar nustačius, kad socialinė globa teikiama neturint šios licencijos ar nesilaikant licencijuojamos veiklos sąlygų, socialinės globos įstaiga kartu su Socialinės apsaugos ir darbo ministerija ir savivaldybės, priėmusios sprendimą dėl socialinės globos skyrimo, administracija ar savivaldybės, kurios teritorijoje veikia socialinės globos įstaiga, administracija, jeigu asmeniui įstaigoje paslaugos teikiamos šalių susitarimu, koordinuoja socialinių paslaugų gavėjams reikalingų ir geriausiai jų socialinių paslaugų poreikius atitinkančių paslaugų tęstinumo užtikrinimą ir interesų apsaugą. Jeigu paslaugos įstaigoje asmeniui teikiamos šalių susitarimu, socialines paslaugas jam organizuoja asmens gyvenamosios vietos savivaldybės administracija, o jeigu teikiama institucinė socialinė globa (ilgalaikė, trumpalaikė), – savivaldybės, kurioje buvo paskutinė asmens gyvenamoji vieta iki apsigyvenimo socialinės globos įstaigoje, administracija. ^s-69ab9acea5d28194567eac10
 
 
-14. Jeigu Socialinių paslaugų priežiūros departamentas nustato, kad socialinės globos įstaiga, kuriai licencija išduota taikant šio įstatymo [[#^s-bd2af77941fc04ee3c420f82|30 straipsnio 2 dalį]], neatitinka visų ar dalies šio įstatymo [[#^s-bd2af77941fc04ee3c420f82|30 straipsnio 2 dalyje]] nustatytų reikalavimų, po 6 mėnesių nuo šios licencijos išdavimo dienos – socialinės apsaugos ir darbo ministro tvirtinamame socialinę globą teikiančių darbuotojų darbo laiko sąnaudų normatyvų sąraše nustatytų socialinę globą teikiančių darbuotojų struktūros ir skaičiaus reikalavimų, o po 24 mėnesių nuo šios licencijos išdavimo dienos – ir šio įstatymo [[#^s-64aa7dd95c6ab5a3846a329f|32 straipsnio 1 dalies 3 punkte]] bei socialinės apsaugos ir darbo ministro tvirtinamame socialinės globos normų apraše nustatytų likusių be tėvų globos vaikų socialinės globos reikalavimų, teikiant įspėjimą socialinės globos įstaigai, kad per nustatytą terminą nepašalinus nurodytų trūkumų, licencijos galiojimas bus sustabdytas, šalinant nustatytus institucinės socialinės globos teikimo pažeidimus, stabdant šios licencijos galiojimą ar ją panaikinant, mutatis mutandis taikomos šio straipsnio 2–[[#^s-69ab9acea5d28194567eac10|13 dalių]] nuostatos. ^s-ab67f5204f390816fef9ca99
+14. Jeigu Socialinių paslaugų priežiūros departamentas nustato, kad socialinės globos įstaiga, kuriai licencija išduota taikant šio įstatymo [[#^s-bd2af77941fc04ee3c420f82|30 straipsnio 2 dalį]], neatitinka visų ar dalies šio įstatymo [[#^s-bd2af77941fc04ee3c420f82|30 straipsnio 2 dalyje]] nustatytų reikalavimų, po 6 mėnesių nuo šios licencijos išdavimo dienos – socialinės apsaugos ir darbo ministro tvirtinamame socialinę globą teikiančių darbuotojų darbo laiko sąnaudų normatyvų sąraše nustatytų socialinę globą teikiančių darbuotojų struktūros ir skaičiaus reikalavimų, o po 24 mėnesių nuo šios licencijos išdavimo dienos – ir šio įstatymo [[#^s-64aa7dd95c6ab5a3846a329f|32 straipsnio 1 dalies 3 punkte]] bei socialinės apsaugos ir darbo ministro tvirtinamame socialinės globos normų apraše nustatytų likusių be tėvų globos vaikų socialinės globos reikalavimų, teikiant įspėjimą socialinės globos įstaigai, kad per nustatytą terminą nepašalinus nurodytų trūkumų, licencijos galiojimas bus sustabdytas, šalinant nustatytus institucinės socialinės globos teikimo pažeidimus, stabdant šios licencijos galiojimą ar ją panaikinant, mutatis mutandis taikomos šio straipsnio [[#^s-c2b6b08dda0db2446cadadfa|2]]–[[#^s-69ab9acea5d28194567eac10|13]] dalių nuostatos. ^s-ab67f5204f390816fef9ca99
 
 
 
@@ -1839,10 +1839,10 @@ GINČŲ, SUSIJUSIŲ SU SOCIALINĖMIS PASLAUGOMIS, NAGRINĖJIMAS
 ### 43 straipsnis. Sprendimų, susijusių su socialinėmis paslaugomis, apskundimas ^s-08c2f10d50fac132c7fa9cfb
 
 
-1. Savivaldybės mero nustatyta tvarka paskirtų socialinių darbuotojų, savivaldybės administracijos valstybės tarnautojų ar darbuotojų, atitinkančių šio įstatymo [[#^s-8bfa73bdc6e7ee9db31b7e9e|26 straipsnio 6 dalyje]] nustatytus reikalavimus, ir (ar) šio įstatymo [[#^s-1a78d040657e179dc35720f4|18 straipsnio 6 dalyje]] nurodytų socialinių paslaugų įstaigų socialinių darbuotojų išvadas dėl asmens (šeimos) socialinių paslaugų poreikio nustatymo asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas, aprūpintojas, kiti suinteresuoti asmenys gali apskųsti savivaldybės merui. ^s-4041421c74747cb795a2711a
+1. Savivaldybės mero nustatyta tvarka paskirtų socialinių darbuotojų, savivaldybės administracijos valstybės tarnautojų ar darbuotojų, atitinkančių šio įstatymo [[#^s-8bfa73bdc6e7ee9db31b7e9e|26 straipsnio 6 dalyje]] nustatytus reikalavimus, ir (ar) šio įstatymo [[#^s-1a78d040657e179dc35720f4|18 straipsnio 6 dalyje]] nurodytų socialinių paslaugų įstaigų socialinių darbuotojų išvadas [dėl asmens (šeimos) socialinių paslaugų poreikio nustatymo](https://e-tar.lt/portal/lt/legalAct/b61c8830d17911e68d79c2033f194657) asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas, aprūpintojas, kiti suinteresuoti asmenys gali apskųsti savivaldybės merui. ^s-4041421c74747cb795a2711a
 
 
-2. Apskundus išvadas dėl asmens (šeimos) socialinių paslaugų poreikio nustatymo, savivaldybės mero sprendimu visais atvejais turi būti sudaryta komisija, kuri pakartotinai nustatytų asmens (šeimos) socialinių paslaugų poreikį. ^s-1941c19ca997c44f51b2c5a8
+2. Apskundus išvadas [dėl asmens (šeimos) socialinių paslaugų poreikio nustatymo](https://e-tar.lt/portal/lt/legalAct/b61c8830d17911e68d79c2033f194657), savivaldybės mero sprendimu visais atvejais turi būti sudaryta komisija, kuri pakartotinai nustatytų asmens (šeimos) socialinių paslaugų poreikį. ^s-1941c19ca997c44f51b2c5a8
 
 
 3. Asmens (šeimos) socialinių paslaugų, kurių teikimas finansuojamas iš valstybės biudžeto dotacijų savivaldybių biudžetams, poreikio nustatymo ar asmens (šeimos) finansinių galimybių vertinimo išvadas, sprendimus dėl šių socialinių paslaugų skyrimo asmuo (vienas iš suaugusių šeimos narių) ar jo globėjas, rūpintojas, aprūpintojas, kiti suinteresuoti asmenys gali apskųsti Socialinių paslaugų priežiūros departamentui. ^s-7bd15b52224185b4cecdd587
@@ -1893,7 +1893,7 @@ priedas
 2. 2003 m. lapkričio 25 d. Tarybos direktyva 2003/109/EB dėl trečiųjų valstybių piliečių, kurie yra ilgalaikiai gyventojai, statuso su pakeitimais, padarytais 2011 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva 2011/51/ES. ^s-8d9f59230762f296e9b9912e
 
 
-3. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą (EEB) Nr. 1612/68 ir panaikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB. ^s-a37e471bcc5478c1cf02af78
+3. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti [Reglamentą (EEB) Nr. 1612/68](https://eur-lex.europa.eu/eli/reg/1612/68/oj) ir panaikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB. ^s-a37e471bcc5478c1cf02af78
 
 
 4. 2004 m. balandžio 29 d. Tarybos direktyva 2004/81/EB dėl leidimo gyventi šalyje išdavimo trečiųjų šalių piliečiams, kurie yra prekybos žmonėmis aukos arba kurie dalyvavo vykdant nelegalios imigracijos padėjimo veiksmus, bendradarbiaujantiems su kompetentingomis institucijomis. ^s-c058ca0c274227cc96ce3b1f
@@ -1902,7 +1902,7 @@ priedas
 5. 2010 m. liepos 7 d. Europos Parlamento ir Tarybos direktyva 2010/41/ES dėl vienodo požiūrio į savarankiškai dirbančius vyrus ir moteris principo taikymo, kuria panaikinama Tarybos direktyva 86/613/EEB. ^s-42b15612a0751e2ee432dd98
 
 
-6. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR, su pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1712. ^s-49ba6515317c43391a4d22c7
+6. 2011 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2011/36/ES dėl prekybos žmonėmis prevencijos, kovos su ja ir aukų apsaugos, pakeičianti Tarybos pamatinį sprendimą 2002/629/TVR, su pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1712](https://eur-lex.europa.eu/eli/dir/2024/1712/oj). ^s-49ba6515317c43391a4d22c7
 Punkto pakeitimai:
 Nr. XV-958, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08461
 
@@ -1914,7 +1914,7 @@ Nr. XV-958, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08461
 8. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/29/ES, kuria nustatomi būtiniausi nusikaltimų aukų teisių, paramos joms ir jų apsaugos standartai ir kuria pakeičiamas Tarybos pamatinis sprendimas 2001/220/TVR. ^s-3efb1737348c067830301d13
 
 
-9. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/541 dėl kovos su terorizmu, pakeičianti Tarybos pamatinį sprendimą 2002/475/TVR ir iš dalies keičianti Tarybos sprendimą 2005/671/TVR. ^s-5e07840d204a968e4acf3d44
+9. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos [direktyva (ES) 2017/541](https://eur-lex.europa.eu/eli/dir/2017/541/oj) dėl kovos su terorizmu, pakeičianti Tarybos pamatinį sprendimą 2002/475/TVR ir iš dalies keičianti Tarybos sprendimą 2005/671/TVR. ^s-5e07840d204a968e4acf3d44
 –––––––––––––––––––––––––––––––
 
 
@@ -1946,7 +1946,7 @@ Nr. XI-2341, 2012-11-06, Žin., 2012, Nr. 132-6669 (2012-11-15), i. k. [[latest/
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1014, 2014-07-10, paskelbta TAR 2014-07-23, i. k. 2014-10465
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 11, 13, 14, 19, 20, 21, 23, 24, 26, 29, 30, 31, 32, [[#^s-bfdd5ca35aeb8a2fa10895be|38 straipsnių]] pakeitimo ir Įstatymo papildymo 14-1, 24-1 straipsniais įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-91bb2c7e36a41a8c7f60d78e|2]], [[#^s-cc9f07d985681a41c603ab79|11]], [[#^s-7006b4767e3941dff0c9c571|13]], [[#^s-cddbbf5756336e0178df284a|14]], [[#^s-3756c1b8c7646492de1a25c8|19]], [[#^s-2b20076ce79940a8184def6b|20]], [[#^s-ca1936d28707e5a385b735be|21]], [[#^s-d75aaa2a447126cacb63c893|23]], [[#^s-249c3f20f8f928502d10b8e8|24]], [[#^s-0c378a6e65085d20f12a0cb7|26]], [[#^s-9d3d2c131c4cc576610911b1|29]], [[#^s-35ca57d2d34a15b4ae35396c|30]], [[#^s-37baaad3d216066a0b2a93c0|31]], [[#^s-d6bea20ea03d56a8d296d518|32]], [[#^s-bfdd5ca35aeb8a2fa10895be|38]] straipsnių pakeitimo ir Įstatymo papildymo 14-1, 24-1 straipsniais įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1956,17 +1956,17 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-1a15c2f37d0
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2520, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20654
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 29 ir [[#^s-35ca57d2d34a15b4ae35396c|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-9d3d2c131c4cc576610911b1|29]] ir [[#^s-35ca57d2d34a15b4ae35396c|30]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-175, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29864
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 29 ir [[#^s-35ca57d2d34a15b4ae35396c|30 straipsnių]] pakeitimo [[latest/39dab3204a7211e6b5d09300a16a686c|įstatymo Nr. XII-2520]] [[#^s-91bb2c7e36a41a8c7f60d78e|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-9d3d2c131c4cc576610911b1|29]] ir [[#^s-35ca57d2d34a15b4ae35396c|30]] straipsnių pakeitimo [[latest/39dab3204a7211e6b5d09300a16a686c|įstatymo Nr. XII-2520]] [[#^s-91bb2c7e36a41a8c7f60d78e|2 straipsnio]] pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-246, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05917
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 9, 18, 19, [[#^s-64128b2b3f62238edc9ec5e2|34 straipsnių]] pakeitimo ir Įstatymo papildymo 19-1 straipsniu įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-91bb2c7e36a41a8c7f60d78e|2]], [[#^s-b6387d87623db4fb6bf6e692|9]], [[#^s-1a15c2f37d03f1b0d19fd582|18]], [[#^s-3756c1b8c7646492de1a25c8|19]], [[#^s-64128b2b3f62238edc9ec5e2|34]] straipsnių pakeitimo ir Įstatymo papildymo 19-1 straipsniu įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1976,12 +1976,12 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-35ca57d2d34
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-647, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16082
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 4, 16, 18, 19, 20, 21, 26, 29 ir [[#^s-64128b2b3f62238edc9ec5e2|34 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-91bb2c7e36a41a8c7f60d78e|2]], [[#^s-f09346bdc8b70ed98de0f0f7|4]], [[#^s-859e87bb5562f1286d0dcd06|16]], [[#^s-1a15c2f37d03f1b0d19fd582|18]], [[#^s-3756c1b8c7646492de1a25c8|19]], [[#^s-2b20076ce79940a8184def6b|20]], [[#^s-ca1936d28707e5a385b735be|21]], [[#^s-0c378a6e65085d20f12a0cb7|26]], [[#^s-9d3d2c131c4cc576610911b1|29]] ir [[#^s-64128b2b3f62238edc9ec5e2|34]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1292, 2018-06-26, paskelbta TAR 2018-06-27, i. k. 2018-10596
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 4, 16, 18, 19, 20, 21, 26, 29 ir [[#^s-64128b2b3f62238edc9ec5e2|34 straipsnių]] pakeitimo [[latest/701404b0adb711e78a4c904b1afa0332|įstatymo Nr. XIII-647]] 4, 5 ir [[#^s-6347294060f7ac86d04c8ff6|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-91bb2c7e36a41a8c7f60d78e|2]], [[#^s-f09346bdc8b70ed98de0f0f7|4]], [[#^s-859e87bb5562f1286d0dcd06|16]], [[#^s-1a15c2f37d03f1b0d19fd582|18]], [[#^s-3756c1b8c7646492de1a25c8|19]], [[#^s-2b20076ce79940a8184def6b|20]], [[#^s-ca1936d28707e5a385b735be|21]], [[#^s-0c378a6e65085d20f12a0cb7|26]], [[#^s-9d3d2c131c4cc576610911b1|29]] ir [[#^s-64128b2b3f62238edc9ec5e2|34]] straipsnių pakeitimo [[latest/701404b0adb711e78a4c904b1afa0332|įstatymo Nr. XIII-647]] [[#^s-f09346bdc8b70ed98de0f0f7|4]], [[#^s-50ba19bb386df16c3ee8c092|5]] ir [[#^s-6347294060f7ac86d04c8ff6|10]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1991,7 +1991,7 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-35ca57d2d34
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1660, 2018-11-20, paskelbta TAR 2018-11-27, i. k. 2018-19128
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19 ir [[#^s-37baaad3d216066a0b2a93c0|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-cc9f07d985681a41c603ab79|11]], [[#^s-7006b4767e3941dff0c9c571|13]], [[#^s-3756c1b8c7646492de1a25c8|19]] ir [[#^s-37baaad3d216066a0b2a93c0|31]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2006,22 +2006,22 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-d75aaa2a447
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2945, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11671
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 8, 13, 15, 16, 17, 19-1, 20, 30, 34, [[#^s-59cebc30fb41073a5127f6d2|36 straipsnių]], šeštojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 19-2, 25-1, 25-2 straipsniais įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-91bb2c7e36a41a8c7f60d78e|2]], [[#^s-388a7e88aa8015ca825b35a2|8]], [[#^s-7006b4767e3941dff0c9c571|13]], [[#^s-b66e7557d485dcc82b3271cb|15]], [[#^s-859e87bb5562f1286d0dcd06|16]], [[#^s-8a0caad3863ae33a605b4305|17]], 19-1, [[#^s-2b20076ce79940a8184def6b|20]], [[#^s-35ca57d2d34a15b4ae35396c|30]], [[#^s-64128b2b3f62238edc9ec5e2|34]], [[#^s-59cebc30fb41073a5127f6d2|36]] straipsnių, šeštojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 19-2, 25-1, 25-2 straipsniais įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3342, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24231
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 23 ir [[#^s-249c3f20f8f928502d10b8e8|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-d75aaa2a447126cacb63c893|23]] ir [[#^s-249c3f20f8f928502d10b8e8|24]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3344, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23926
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 11, 13, 19, 23, 24, 24-1 ir [[#^s-bfdd5ca35aeb8a2fa10895be|38 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-cc9f07d985681a41c603ab79|11]], [[#^s-7006b4767e3941dff0c9c571|13]], [[#^s-3756c1b8c7646492de1a25c8|19]], [[#^s-d75aaa2a447126cacb63c893|23]], [[#^s-249c3f20f8f928502d10b8e8|24]], 24-1 ir [[#^s-bfdd5ca35aeb8a2fa10895be|38]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-170, 2021-01-14, paskelbta TAR 2021-01-20, i. k. 2021-00909
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 1, 2, [[#^s-faf3dadca0720fd8e0d31bc8|3 straipsnių]] pakeitimo ir Įstatymo papildymo 5-1 straipsniu ir priedu įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-3d4c9f343fd9945fe5599826|1]], [[#^s-91bb2c7e36a41a8c7f60d78e|2]], [[#^s-faf3dadca0720fd8e0d31bc8|3]] straipsnių pakeitimo ir Įstatymo papildymo 5-1 straipsniu ir priedu įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2031,17 +2031,17 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-35ca57d2d34
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-877, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27777
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 1, 2, 3, 4, 6, 8, 11, 14, 15, 16, 17, 18, 19, 20, 26, 29, 34, [[#^s-bfdd5ca35aeb8a2fa10895be|38 straipsnių]] pakeitimo, Įstatymo papildymo 6-1, 19-3, 20-1, 20-2 straipsniais ir 36, [[#^s-d4268ba046792051e9ac638c|37 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-3d4c9f343fd9945fe5599826|1]], [[#^s-91bb2c7e36a41a8c7f60d78e|2]], [[#^s-faf3dadca0720fd8e0d31bc8|3]], [[#^s-f09346bdc8b70ed98de0f0f7|4]], [[#^s-ca15b578e7507455cb097d7b|6]], [[#^s-388a7e88aa8015ca825b35a2|8]], [[#^s-cc9f07d985681a41c603ab79|11]], [[#^s-cddbbf5756336e0178df284a|14]], [[#^s-b66e7557d485dcc82b3271cb|15]], [[#^s-859e87bb5562f1286d0dcd06|16]], [[#^s-8a0caad3863ae33a605b4305|17]], [[#^s-1a15c2f37d03f1b0d19fd582|18]], [[#^s-3756c1b8c7646492de1a25c8|19]], [[#^s-2b20076ce79940a8184def6b|20]], [[#^s-0c378a6e65085d20f12a0cb7|26]], [[#^s-9d3d2c131c4cc576610911b1|29]], [[#^s-64128b2b3f62238edc9ec5e2|34]], [[#^s-bfdd5ca35aeb8a2fa10895be|38]] straipsnių pakeitimo, Įstatymo papildymo 6-1, 19-3, 20-1, 20-2 straipsniais ir [[#^s-59cebc30fb41073a5127f6d2|36]], [[#^s-d4268ba046792051e9ac638c|37]] straipsnių pripažinimo netekusiais galios įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-952, 2022-03-17, paskelbta TAR 2022-03-22, i. k. 2022-05130
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 23, 24 ir [[#^s-64128b2b3f62238edc9ec5e2|34 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-91bb2c7e36a41a8c7f60d78e|2]], [[#^s-d75aaa2a447126cacb63c893|23]], [[#^s-249c3f20f8f928502d10b8e8|24]] ir [[#^s-64128b2b3f62238edc9ec5e2|34]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1841, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05736
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14-1, 16, 17, 19-2, 25-2, 30 ir [[#^s-468ead5f0a771389b74237b3|35 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14-1, [[#^s-859e87bb5562f1286d0dcd06|16]], [[#^s-8a0caad3863ae33a605b4305|17]], 19-2, 25-2, [[#^s-35ca57d2d34a15b4ae35396c|30]] ir [[#^s-468ead5f0a771389b74237b3|35]] straipsnių pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2056,7 +2056,7 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 pakeitimo [[lates
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-521, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19756
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 14, 39 ir [[#^s-ea9c5ef7d8513f7820c1db19|40 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-cddbbf5756336e0178df284a|14]], [[#^s-d9a9e6e6d14efff0f6558a10|39]] ir [[#^s-ea9c5ef7d8513f7820c1db19|40]] straipsnių pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2081,4 +2081,4 @@ Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-50ba19bb386
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1063, 2026-06-25, paskelbta TAR 2026-07-01, i. k. 2026-11362
-Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 2, 11, 14, 18, 21, 22, 23, 26, 28, [[#^s-468ead5f0a771389b74237b3|35 straipsnių]] pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas
+Lietuvos Respublikos socialinių paslaugų įstatymo Nr. X-493 [[#^s-91bb2c7e36a41a8c7f60d78e|2]], [[#^s-cc9f07d985681a41c603ab79|11]], [[#^s-cddbbf5756336e0178df284a|14]], [[#^s-1a15c2f37d03f1b0d19fd582|18]], [[#^s-ca1936d28707e5a385b735be|21]], [[#^s-1c5f54ae34ed0e8adae68103|22]], [[#^s-d75aaa2a447126cacb63c893|23]], [[#^s-0c378a6e65085d20f12a0cb7|26]], [[#^s-99411687b6f926365b8fbe26|28]], [[#^s-468ead5f0a771389b74237b3|35]] straipsnių pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas

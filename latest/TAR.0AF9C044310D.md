@@ -97,7 +97,7 @@ Pakeisti 26 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 5 straipsnis. Įstatymo įsigaliojimas ^s-02134fdba14be313a38dcc6e
 
 
-Šio įstatymo 1 ir [[#^s-2137479efa7b8b7c2bfa6795|2 straipsniai]] įsigalioja nuo 2006 m. liepos 1 d.
+Šio įstatymo [[#^s-822edea842d62dcc32cbf764|1]] ir [[#^s-2137479efa7b8b7c2bfa6795|2]] straipsniai įsigalioja nuo 2006 m. liepos 1 d.
 
 
 

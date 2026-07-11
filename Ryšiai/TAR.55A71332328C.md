@@ -17,18 +17,13 @@ _Nėra._
 - [[latest/TAR.EE245B47423C#^s-2fe4cdf31d3ca99d252f7d2d|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
 - [[latest/TAR.EE245B47423C#^s-40a0dd6038de426d2d0d9880|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
 - [[latest/TAR.EE245B47423C#^s-443094dcb8ddfad53c8b01fb|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
-- [[latest/TAR.EE245B47423C#^s-5a24e70b5191c1bc7c529e99|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
-- [[latest/TAR.EE245B47423C#^s-6afc888bad30ad3afa5fb019|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
 - [[latest/TAR.EE245B47423C#^s-7cb4011ac1b5a8e671a1bc4d|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
-- [[latest/TAR.EE245B47423C#^s-820c5836aac6f1b66c096036|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
 - [[latest/TAR.EE245B47423C#^s-96d3d18ca08daa92d92507a8|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
 - [[latest/TAR.EE245B47423C#^s-aa611b7f05fff55dc7d8d85a|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
-- [[latest/TAR.EE245B47423C#^s-ad5b8ecacfb0dc254e31b4bb|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 3 citatos - 1101010ISTA00XI-768
+- [[latest/TAR.EE245B47423C#^s-ad5b8ecacfb0dc254e31b4bb|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 2 citatos - 1101010ISTA00XI-768
 - [[latest/TAR.EE245B47423C#^s-b1559c672519f51c4e81f008|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
 - [[latest/TAR.EE245B47423C#^s-d0c47cb46df50751665a12b5|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
 - [[latest/TAR.EE245B47423C#^s-d563c0e391cdf9eac248f617|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
 - [[latest/TAR.EE245B47423C#^s-d920ce166707f1211b51d1c3|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
 - [[latest/TAR.EE245B47423C#^s-db2df7c8d0c7816f3bfdeeb9|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
-- [[latest/TAR.EE245B47423C#^s-e2b538775fb0aaddea40525c|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
 - [[latest/TAR.EE245B47423C#^s-e51ae4c0f49c5489a1ddfea4|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768
-- [[latest/TAR.EE245B47423C#^s-ebb48bea577013fa3fa49b4c|Lietuvos Respublikos žmonių užkrečiamųjų ligų profilaktikos ir kontrolės įstatymas]] - 1101010ISTA00XI-768

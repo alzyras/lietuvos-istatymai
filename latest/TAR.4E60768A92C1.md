@@ -410,7 +410,7 @@ Papildyti 193 straipsnio 1 dalį 11 punktu:
 1. Pakeisti 199 straipsnio 4 dalį ir ją išdėstyti taip: ^s-12649cbc49a2cd84187e2bb9
 
 
-„4. Privalomajam teisių ir pareigų pagal draudimo sutartis perleidimui taikomos šio Įstatymo 41 ir 42 straipsnių nuostatos su išimtimis, jog vietoj šiuose straipsniuose numatyto Priežiūros komisijos leidimo reikalingas Priežiūros komisijos patvirtinimas, kad laikomasi teisės aktų nustatytų reikalavimų, keliamų teisių ir pareigų pagal draudimo sutartis perleidimui, taip pat kad šio Įstatymo 41 straipsnio 5 dalyje, 42 straipsnio 1 ir [[#^s-546a4fbc8a023a07ad12acc2|3 dalyse]] nustatyti terminai nėra taikomi.“
+„4. Privalomajam teisių ir pareigų pagal draudimo sutartis perleidimui taikomos šio Įstatymo 41 ir 42 straipsnių nuostatos su išimtimis, jog vietoj šiuose straipsniuose numatyto Priežiūros komisijos leidimo reikalingas Priežiūros komisijos patvirtinimas, kad laikomasi teisės aktų nustatytų reikalavimų, keliamų teisių ir pareigų pagal draudimo sutartis perleidimui, taip pat kad šio Įstatymo 41 straipsnio 5 dalyje, 42 straipsnio 1 ir 3 dalyse nustatyti terminai nėra taikomi.“
 
 
 2. Papildyti 199 straipsnį 5 dalimi: ^s-bf622c96223edb6443625b9e

@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos sodininkų bendrijų įstatymo 6 straipsnio p
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Statybos įstatymo
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - Statybos įstatymo
 
 ## Šį įstatymą cituoja
 

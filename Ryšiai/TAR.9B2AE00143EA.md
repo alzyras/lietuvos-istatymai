@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9D1ADB9E1518#^s-dfc92c95ffac9e15fc231e6f|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - 2 citatos - PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 8 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.9D1ADB9E1518#^s-eb6b4b182aa6d2084809010b|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - 2 citatos - PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 8 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.9D1ADB9E1518#^s-dfc92c95ffac9e15fc231e6f|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 8 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

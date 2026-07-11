@@ -35,7 +35,7 @@ Vilnius
 
 
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-f1ee24f0d8d48be0825bc0b6
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. birželio 14 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinės telekomunikacijų sąjungos įstatus ir Tarptautinės telekomunikacijų sąjungos konvenciją“, ratifikuoja Tarptautinės telekomunikacijų sąjungos įstatus ir Tarptautinės telekomunikacijų sąjungos konvenciją, pasirašytus 1992 m. gruodžio 22 d. Ženevoje, su nurodytų įstatų pakeitimais ir papildymais, priimtais 1994 m. spalio 14 d. Kiote.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. birželio 14 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinės telekomunikacijų sąjungos įstatus ir Tarptautinės telekomunikacijų sąjungos konvenciją“](https://e-tar.lt/portal/lt/legalAct/TAR.5F0BAB56A055), ratifikuoja Tarptautinės telekomunikacijų sąjungos įstatus ir Tarptautinės telekomunikacijų sąjungos konvenciją, pasirašytus 1992 m. gruodžio 22 d. Ženevoje, su nurodytų įstatų pakeitimais ir papildymais, priimtais 1994 m. spalio 14 d. Kiote.
 
 
 

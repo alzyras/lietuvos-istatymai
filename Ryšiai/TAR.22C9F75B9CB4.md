@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos statybos įstatymo papildymo 9-1, 9-2 straips
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - Biudžeto sandaros įstatymo
+- [[latest/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatymas]] - Biudžeto sandaros įstatymo
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Lietuvos Respublikos statybos įstatymo 91 straipsnio 2 dalis
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F31E79DEC55D#^s-de3c166036f714f06b930d4d|Lietuvos Respublikos statybos įstatymas]] - Įstatymas Nr. XI-2031
-- [[latest/TAR.F31E79DEC55D#^s-fc1e8595c1f7e7bb99d779cb|Lietuvos Respublikos statybos įstatymas]] - Įstatymas Nr. XI-2031
+_Nėra._

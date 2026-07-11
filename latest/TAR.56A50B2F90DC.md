@@ -92,7 +92,7 @@ Zonos teritorijos ribas nustato Lietuvos Respublikos Vyriausybė.“
 ### 6 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-be965be72fa73db9d66ee61f
 
 
-Lietuvos Respublikos Vyriausybė, atsižvelgdama į šio įstatymo nuostatas, derasi dėl Lietuvos Respublikos Vyriausybės ir tarptautinio konkurso Kauno laisvosios ekonominės zonos steigėjų grupei parinkti nugalėtojo sudarytos sutarties pakeitimo.
+Lietuvos Respublikos Vyriausybė, atsižvelgdama į šio įstatymo nuostatas, derasi [dėl Lietuvos Respublikos Vyriausybės](https://e-tar.lt/portal/lt/legalAct/TAR.7B11B97BAFCE) ir tarptautinio konkurso Kauno laisvosios ekonominės zonos steigėjų grupei parinkti nugalėtojo sudarytos sutarties pakeitimo.
 
 
 

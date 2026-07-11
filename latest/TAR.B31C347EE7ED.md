@@ -112,7 +112,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 14. Funkcinė asignavimų klasifikacija (toliau – funkcinė klasifikacija) – asignavimų suskirstymas pagal valstybės funkcijas. ^s-37d1e95b654875aa219fb370
 
 
-15. Mokesčių didinimo rizikos rodiklis – Europos Komisijos kaip dalis bendrojo vidaus produkto (toliau – BVP) to meto kainomis skaičiuojamas rodiklis S1, pateikiamas pagal 2005 m. birželio 27 d. Europos Sąjungos Tarybos reglamento (EB) Nr. 1055/2005, iš dalies keičiančio Reglamentą (EB) Nr. 1466/97 dėl biudžeto būklės priežiūros stiprinimo ir ekonominės politikos priežiūros bei koordinavimo (toliau – Stabilumo ir augimo pakto reglamentas), 1 straipsnio 5 punkto a papunktį vertinant tam tikrų metų Lietuvos konvergencijos programą arba Stabilumo programą pagal Stabilumo ir augimo pakto reglamento 1 straipsnio 3 punkto 1 papunktį. ^s-29e5de531961b21db277a8f9
+15. Mokesčių didinimo rizikos rodiklis – Europos Komisijos kaip dalis bendrojo vidaus produkto (toliau – BVP) to meto kainomis skaičiuojamas rodiklis S1, pateikiamas pagal 2005 m. birželio 27 d. Europos Sąjungos Tarybos [reglamento (EB) Nr. 1055/2005](https://eur-lex.europa.eu/eli/reg/1055/2005/oj), iš dalies keičiančio [Reglamentą (EB) Nr. 1466/97](https://eur-lex.europa.eu/eli/reg/1466/97/oj) [dėl biudžeto](https://e-tar.lt/portal/lt/legalAct/SAV.494628) būklės priežiūros stiprinimo ir ekonominės politikos priežiūros bei koordinavimo (toliau – Stabilumo ir augimo pakto reglamentas), 1 straipsnio 5 punkto a papunktį vertinant tam tikrų metų Lietuvos konvergencijos programą arba Stabilumo programą pagal Stabilumo ir augimo pakto reglamento 1 straipsnio 3 punkto 1 papunktį. ^s-29e5de531961b21db277a8f9
 
 
 16. Programa – strateginio ir (arba) metinio veiklos plano, parengto pagal Vyriausybės patvirtintą Strateginio planavimo metodiką, dalis, skirta asignavimų valdytojo strateginiam tikslui įgyvendinti, kurios asignavimai gali būti planuojami iš: ^s-eac5766b581d29bf8f9a1b88
@@ -239,7 +239,7 @@ Pakeisti [[#^s-7ab4d38f25b407e32303e64e|14 straipsnį]] ir jį išdėstyti taip:
 2) visa ši suma, jeigu visos asignavimų valdytojo programos yra finansuojamos tik iš šio Įstatymo [[#^s-a5694f0227b6ab3cb44fb3d5|2 straipsnio 16 dalies 2 punkte]] nurodytų valstybės biudžeto lėšų. ^s-7fe77df71f9eba0e7391e560
 
 
-4. Šio Įstatymo [[#^s-eac5766b581d29bf8f9a1b88|2 straipsnio 16 dalies]] 1 ir 2 punktuose nurodytų pajamų viršplaninės įmokos į valstybės biudžetą arba savivaldybės biudžetą einamaisiais biudžetiniais metais paliekamos asignavimų valdytojams ir gali būti naudojamos programoms finansuoti viršijant Seimo patvirtintas bendras asignavimų sumas.“ ^s-13ddee060c78f9963e693305
+4. Šio Įstatymo [[#^s-eac5766b581d29bf8f9a1b88|2 straipsnio 16 dalies]] [[#^s-39f0f4950c1ebb61c755f9e6|1]] ir [[#^s-a5694f0227b6ab3cb44fb3d5|2]] punktuose nurodytų pajamų viršplaninės įmokos į valstybės biudžetą arba savivaldybės biudžetą einamaisiais biudžetiniais metais paliekamos asignavimų valdytojams ir gali būti naudojamos programoms finansuoti viršijant Seimo patvirtintas bendras asignavimų sumas.“ ^s-13ddee060c78f9963e693305
 
 
 
@@ -269,7 +269,7 @@ Pakeisti [[#^s-169090d04a39384da7b0405e|17 straipsnį]] ir jį išdėstyti taip:
 3. Tam tikrų metų valstybės biudžeto projekte ir savivaldybių biudžetų finansinių rodiklių projekte gali būti nukrypstama nuo Seimo patvirtintų trejų biudžetinių metų valstybės biudžeto ir savivaldybių biudžetų konsoliduotos visumos planuojamų rodiklių tik tuo atveju, kai Vyriausybė raštu pateikia Seimui paaiškinimą, kaip pokyčiuose atsispindi nauji ekonomikos politikos prioritetai. ^s-56c7480afeebf1e30be0c55f
 
 
-4. Tam tikrų metų valstybės biudžeto projekte ir savivaldybių biudžetų finansinių rodiklių projekte formuojami vidutinio laikotarpio valdžios sektoriaus balanso rodikliai teikiami Seimui Vyriausybės nutarimu dėl išvadų dėl valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių atitikties naujausioms galiojančioms Europos Sąjungos Tarybos rekomendacijoms ir nuomonei dėl Lietuvos konvergencijos programos ir galimų papildomų priemonių (toliau – Išvados). Išvadose turi būti nurodytos pagrindinės ekonominės raidos scenarijaus prielaidos ir siektinas vidutinio laikotarpio poveikis kainų stabilumui, Lietuvos mokėjimų balanso einamosios sąskaitos tvarumui, palūkanų priedams už riziką, užimtumui, ateities mokesčių didinimo rizikai ir perspektyvai vidutiniu laikotarpiu siekti perteklinio valdžios sektoriaus.“ ^s-5b608982d90892c4790cb9f5
+4. Tam tikrų metų valstybės biudžeto projekte ir savivaldybių biudžetų finansinių rodiklių projekte formuojami vidutinio laikotarpio valdžios sektoriaus balanso rodikliai teikiami Seimui Vyriausybės nutarimu dėl išvadų dėl valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių atitikties naujausioms galiojančioms Europos Sąjungos Tarybos rekomendacijoms ir nuomonei [dėl Lietuvos konvergencijos programos](https://e-tar.lt/portal/lt/legalAct/TAR.66884D73A7D7) ir galimų papildomų priemonių (toliau – Išvados). Išvadose turi būti nurodytos pagrindinės ekonominės raidos scenarijaus prielaidos ir siektinas vidutinio laikotarpio poveikis kainų stabilumui, Lietuvos mokėjimų balanso einamosios sąskaitos tvarumui, palūkanų priedams už riziką, užimtumui, ateities mokesčių didinimo rizikai ir perspektyvai vidutiniu laikotarpiu siekti perteklinio valdžios sektoriaus.“ ^s-5b608982d90892c4790cb9f5
 
 
 
@@ -292,7 +292,7 @@ Pakeisti [[#^s-7557dc55267be438f596272e|18 straipsnį]] ir jį išdėstyti taip:
 1) bendra pajamų suma ir jų paskirstymas pagal pajamų rūšis; ^s-34187053ef948bc5da0b0420
 
 
-2) valstybės biudžeto pajamų, nurodytų šio Įstatymo [[#^s-eac5766b581d29bf8f9a1b88|2 straipsnio 16 dalies]] 1 ir 2 punktuose (išskyrus Europos Sąjungos finansinės paramos ir kitos gaunamos tarptautinės finansinės paramos lėšas), skiriamų programoms finansuoti, paskirstymas pagal asignavimų valdytojus; ^s-cfb753f5b8ec7dfea482aeac
+2) valstybės biudžeto pajamų, nurodytų šio Įstatymo [[#^s-eac5766b581d29bf8f9a1b88|2 straipsnio 16 dalies]] [[#^s-39f0f4950c1ebb61c755f9e6|1]] ir [[#^s-a5694f0227b6ab3cb44fb3d5|2]] punktuose (išskyrus Europos Sąjungos finansinės paramos ir kitos gaunamos tarptautinės finansinės paramos lėšas), skiriamų programoms finansuoti, paskirstymas pagal asignavimų valdytojus; ^s-cfb753f5b8ec7dfea482aeac
 
 
 3) bendra valstybės biudžeto asignavimų suma, jų paskirstymas pagal asignavimų valdytojus programoms įgyvendinti. Asignavimai skiriami išlaidoms, iš jų – darbo užmokesčiui, ir turtui įsigyti, išskyrus valstybines aukštąsias mokyklas, kurioms asignavimai išlaidoms skiriami neišskiriant iš jų darbo užmokesčio; ^s-e1ca990a5ac05b8bbab401e2
@@ -403,7 +403,7 @@ Pakeisti [[#^s-4621d3ff6cf01eef31451637|19 straipsnį]] ir jį išdėstyti taip:
 3. Papildyti 20 straipsnį 6 dalimi: ^s-fa8f1baaf223fc818b750c2b
 
 
-„6. Seimas, priimdamas Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą arba jo pakeitimo įstatymą, įvertina paskutines galiojančias Europos Sąjungos Tarybos rekomendacijas ir nuomonę dėl Lietuvos konvergencijos programos.“
+„6. Seimas, priimdamas Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą arba jo pakeitimo įstatymą, įvertina paskutines galiojančias Europos Sąjungos Tarybos rekomendacijas ir nuomonę [dėl Lietuvos konvergencijos programos](https://e-tar.lt/portal/lt/legalAct/TAR.66884D73A7D7).“
 
 
 
@@ -450,13 +450,13 @@ Pakeisti 30 straipsnio 1 dalį ir ją išdėstyti taip:
 1. Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip: ^s-98d8306b0b78da31844f0b14
 
 
-„1. Jeigu nevykdomas valstybės biudžetas, tai yra gaunama mažiau pajamų, negu buvo numatyta, ir nepakanka laikinai laisvų valstybės piniginių išteklių, iki bus nustatyta tvarka priimtas atitinkamas biudžeto įstatymo pakeitimas, programos finansuojamos Finansų ministerijos siūlymu [[latest/TAR.55627FB64864|Lietuvos Respublikos valstybės iždo įstatymo]] nustatyta tvarka (išskyrus programų asignavimų dalį, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei kitos gaunamos tarptautinės finansinės paramos lėšos). Ši nuostata netaikoma programų lėšoms, nurodytoms šio Įstatymo [[#^s-eac5766b581d29bf8f9a1b88|2 straipsnio 16 dalies]] 1 ir 2 punktuose, jeigu jos yra įmokėtos.“
+„1. Jeigu nevykdomas valstybės biudžetas, tai yra gaunama mažiau pajamų, negu buvo numatyta, ir nepakanka laikinai laisvų valstybės piniginių išteklių, iki bus nustatyta tvarka priimtas atitinkamas biudžeto įstatymo pakeitimas, programos finansuojamos Finansų ministerijos siūlymu [[latest/TAR.55627FB64864|Lietuvos Respublikos valstybės iždo įstatymo]] nustatyta tvarka (išskyrus programų asignavimų dalį, kurią sudaro Europos Sąjungos finansinės paramos ir bendrojo finansavimo bei kitos gaunamos tarptautinės finansinės paramos lėšos). Ši nuostata netaikoma programų lėšoms, nurodytoms šio Įstatymo [[#^s-eac5766b581d29bf8f9a1b88|2 straipsnio 16 dalies]] [[#^s-39f0f4950c1ebb61c755f9e6|1]] ir [[#^s-a5694f0227b6ab3cb44fb3d5|2]] punktuose, jeigu jos yra įmokėtos.“
 
 
 2. Pakeisti 31 straipsnio 3 dalį ir ją išdėstyti taip: ^s-8cd3cbad7d41845ba48c83bb
 
 
-„3. Asignavimų valdytojams pervedamos valstybės biudžeto arba savivaldybės biudžeto asignavimų sumos programoms finansuoti mažinamos faktiškai negautomis (palyginti su planu) pajamomis į valstybės biudžetą arba savivaldybės biudžetą, kurios nurodytos šio Įstatymo [[#^s-eac5766b581d29bf8f9a1b88|2 straipsnio 16 dalies]] 1 ir 2 punktuose.“
+„3. Asignavimų valdytojams pervedamos valstybės biudžeto arba savivaldybės biudžeto asignavimų sumos programoms finansuoti mažinamos faktiškai negautomis (palyginti su planu) pajamomis į valstybės biudžetą arba savivaldybės biudžetą, kurios nurodytos šio Įstatymo [[#^s-eac5766b581d29bf8f9a1b88|2 straipsnio 16 dalies]] [[#^s-39f0f4950c1ebb61c755f9e6|1]] ir [[#^s-a5694f0227b6ab3cb44fb3d5|2]] punktuose.“
 
 
 
@@ -502,7 +502,7 @@ Pakeisti 35 straipsnį ir jį išdėstyti taip:
 „35 straipsnis. Valstybės ir savivaldybių biudžetų vykdymo ataskaitų rinkiniai
 
 
-1. Valstybės ir savivaldybių biudžetų vykdymo ataskaitų rinkiniai, kuriems reikalavimus nustato [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatymas]], sudaromi atsižvelgiant į Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu patvirtintus rodiklius, panaudotas Vyriausybės rezervo lėšas ir savivaldybės administracijos direktoriaus rezervo lėšas, perkeltas viršplanines ir nepanaudotas įmokų į valstybės biudžetą arba savivaldybės biudžetą, nurodytų šio Įstatymo [[#^s-eac5766b581d29bf8f9a1b88|2 straipsnio 16 dalies]] 1 ir 2 punktuose, skirtų programoms finansuoti, sumas. ^s-395076109e76017e42d05188
+1. Valstybės ir savivaldybių biudžetų vykdymo ataskaitų rinkiniai, kuriems reikalavimus nustato [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatymas]], sudaromi atsižvelgiant į Lietuvos Respublikos tam tikrų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu patvirtintus rodiklius, panaudotas Vyriausybės rezervo lėšas ir savivaldybės administracijos direktoriaus rezervo lėšas, perkeltas viršplanines ir nepanaudotas įmokų į valstybės biudžetą arba savivaldybės biudžetą, nurodytų šio Įstatymo [[#^s-eac5766b581d29bf8f9a1b88|2 straipsnio 16 dalies]] [[#^s-39f0f4950c1ebb61c755f9e6|1]] ir [[#^s-a5694f0227b6ab3cb44fb3d5|2]] punktuose, skirtų programoms finansuoti, sumas. ^s-395076109e76017e42d05188
 
 
 2. Neįvykdžius valdžios sektoriaus balanso rodiklio kasmetinio pagerėjimo užduočių arba paaiškėjus, kad valdžios sektoriaus finansai nebuvo tvarkomi taip, kad vidutiniu laikotarpiu valdžios sektorius būtų perteklinis, šeštajame skirsnyje nustatyta tvarka turi būti nurodomos pateisinamos priežastys. ^s-eeb39ab556066b73f560df3b

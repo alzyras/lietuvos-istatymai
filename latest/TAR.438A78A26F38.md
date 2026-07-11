@@ -89,7 +89,7 @@ Po to, kai priesaikos aktas pasirašytas, giedamas valstybės himnas.
 5 straipsnis
 
 
-Respublikos Prezidento priesaikos priėmimo ceremonijoje kviečiami dalyvauti Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. kovo 11 d. Akto „Dėl Lietuvos nepriklausomos valstybės atstatymo“ signatarai, Lietuvos Respublikos Vyriausybės nariai, Lietuvos bažnyčių hierarchai bei atstovai, politinių partijų, kitų politinių ir visuomeninių organizacijų atstovai, Lietuvoje akredituoti užsienio valstybių diplomatai.
+Respublikos Prezidento priesaikos priėmimo ceremonijoje kviečiami dalyvauti Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. kovo 11 d. Akto [„Dėl Lietuvos nepriklausomos valstybės atstatymo“](https://e-tar.lt/portal/lt/legalAct/TAR.12C754906DE4) signatarai, Lietuvos Respublikos Vyriausybės nariai, Lietuvos bažnyčių hierarchai bei atstovai, politinių partijų, kitų politinių ir visuomeninių organizacijų atstovai, Lietuvoje akredituoti užsienio valstybių diplomatai.
 
 
 Respublikos Prezidento priesaikos priėmimo ceremoniją tiesiogiai transliuoja Lietuvos radijas ir televizija.
@@ -217,7 +217,7 @@ Respublikos Prezidento dekretus Lietuvos Respublikos Konstitucijos 85 straipsnyj
 2) dėl aukščiausių diplomatinių rangų ir specialių vardų teikimo – Lietuvos Respublikos užsienio reikalų ministras;
 
 
-3) dėl aukščiausių karinių laipsnių suteikimo – Lietuvos Respublikos Ministras Pirmininkas;
+3) [dėl aukščiausių karinių laipsnių suteikimo](https://e-tar.lt/portal/lt/legalAct/TAR.1CBE4AC1C44E) – Lietuvos Respublikos Ministras Pirmininkas;
 
 
 4) dėl nepaprastosios padėties skelbimo – Lietuvos Respublikos Ministras Pirmininkas;

@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos strateginių prekių kontrolės įstatymo 1, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.AB5C4F8C996B|Lietuvos Respublikos strateginių prekių kontrolės įstatymas]] - Lietuvos Respublikos strateginių prekių kontrolės įstatymo
+- [[latest/TAR.AB5C4F8C996B|Lietuvos Respublikos strateginių prekių kontrolės įstatymas]] - strateginių prekių kontrolės įstatymo
 
 ## Šį įstatymą cituoja
 

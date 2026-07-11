@@ -562,7 +562,7 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 3) kultūros paminklas įrašomas į valstybinės reikšmės istorijos, archeologijos ir kultūros objektų sąrašą, kad būtų užtikrintas jo prieinamumas, lankymas ar pažinimas. ^s-1605105e5b4effba366ab7ed
 
 
-2. Nekilnojamąją kultūros vertybę paimant visuomenės poreikiams, savininkui atlyginama rinkos verte, nustatoma vadovaujantis Turto ir verslo vertinimo pagrindų įstatymu arba šalių susitarimu – perduodant kitą lygiavertį daiktą (turtą). ^s-e899abcba26441e10090275e
+2. Nekilnojamąją kultūros vertybę paimant visuomenės poreikiams, savininkui atlyginama rinkos verte, nustatoma vadovaujantis [Turto ir verslo vertinimo pagrindų įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) arba šalių susitarimu – perduodant kitą lygiavertį daiktą (turtą). ^s-e899abcba26441e10090275e
 
 
 3. Netinkamai laikoma nekilnojamoji kultūros vertybė teismo sprendimu gali būti paimama valstybės nuosavybėn įstatymų nustatyta tvarka.“ ^s-6beadb275e17f4db2c95f473
@@ -605,7 +605,7 @@ Papildyti Įstatymą 311 straipsniu:
 „311 straipsnis. Įstatymo pažeidimų protokolas ir bylų nagrinėjimo terminai
 
 
-1. Už šio įstatymo pažeidimus 31 straipsnio 2 dalyje nurodytiems subjektams tam įgalioti Departamento pareigūnai, nustatę, kad šio įstatymo reikalavimai pažeisti, surašo Administracinių teisės pažeidimų kodekse nustatyto turinio protokolą. ^s-0819f53e9802385d06178520
+1. Už šio įstatymo pažeidimus 31 straipsnio 2 dalyje nurodytiems subjektams tam įgalioti Departamento pareigūnai, nustatę, kad šio įstatymo reikalavimai pažeisti, surašo [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyto turinio protokolą. ^s-0819f53e9802385d06178520
 
 
 2. Šio įstatymo 31 straipsnio 2 dalyje nurodytų subjektų atžvilgiu pradėtos bylos nagrinėjamos ir baudos skiriamos ne vėliau kaip per mėnesį nuo pažeidimo nustatymo dienos, tačiau ne vėliau kaip per 3 metus nuo pažeidimo padarymo dienos, o esant trunkamam teisės pažeidimui, – per 3 metus nuo jo paaiškėjimo dienos.“ ^s-14dff0f2351714a6added033
@@ -714,7 +714,7 @@ Papildyti Įstatymą 316 straipsniu:
 1. Bauda turi būti sumokama į valstybės biudžetą ne vėliau kaip per vieną mėnesį nuo dienos, kai šio įstatymo pažeidėjui įteikiamas nutarimas skirti baudą. ^s-7a1c01a48c75f817c41cc47a
 
 
-2. Nesumokėtas baudas išieško antstoliai, vykdydami pateiktus šio įstatymo 315 straipsnyje nurodytus nutarimus Civilinio proceso kodekso nustatyta tvarka. Nutarimai gali būti pateikiami vykdyti ne vėliau kaip per 3 metus nuo jų priėmimo dienos.“ ^s-20222cd62fd1be6700572846
+2. Nesumokėtas baudas išieško antstoliai, vykdydami pateiktus šio įstatymo 315 straipsnyje nurodytus nutarimus [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Nutarimai gali būti pateikiami vykdyti ne vėliau kaip per 3 metus nuo jų priėmimo dienos.“ ^s-20222cd62fd1be6700572846
 
 
 

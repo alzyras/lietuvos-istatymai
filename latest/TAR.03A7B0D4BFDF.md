@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ir Protokolo ratifikavimas ^s-fc796792b6f2f29fc0269daa
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. gegužės 13 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Energetikos chartijos sutartį ir Energetikos chartijos protokolą dėl energijos efektyvumo ir su tuo susijusių aplinkosaugos aspektų“, ratifikuoja Lietuvos Respublikos vardu 1995 m. balandžio 5 d. Briuselyje pasirašytą Energetikos chartijos sutartį, kurią sudaro Energetikos chartijos sutartis, sprendimai dėl Energetikos chartijos sutarties, priedai prie Energetikos chartijos sutarties, ir Energetikos chartijos protokolą dėl energijos efektyvumo bei su tuo susijusių aplinkosaugos aspektų.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. gegužės 13 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Energetikos chartijos sutartį ir Energetikos chartijos protokolą dėl energijos efektyvumo ir su tuo susijusių aplinkosaugos aspektų“](https://e-tar.lt/portal/lt/legalAct/TAR.50EF3ADD11B1), ratifikuoja Lietuvos Respublikos vardu 1995 m. balandžio 5 d. Briuselyje pasirašytą Energetikos chartijos sutartį, kurią sudaro Energetikos chartijos sutartis, sprendimai dėl Energetikos chartijos sutarties, priedai prie Energetikos chartijos sutarties, ir Energetikos chartijos protokolą dėl energijos efektyvumo bei su tuo susijusių aplinkosaugos aspektų.
 
 
 

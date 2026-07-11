@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-8a0ae261a7b4d5982309a373
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio antrąja dalimi ir Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 10 punktu ir atsižvelgdamas į Respublikos Prezidento 2017 m. spalio 24 d. dekretą Nr. 1K-1130, ratifikuoja 2012 m. birželio 26 d. Briuselyje priimtą Europos Sąjungos bei jos valstybių narių ir Moldovos Respublikos bendrosios aviacijos erdvės susitarimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio antrąja dalimi ir [[latest/TAR.5BCEC9B41811|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 10 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2017 m. spalio 24 d. dekretą Nr. 1K-1130](https://e-tar.lt/portal/lt/legalAct/39be0790b8a111e7b187d64428642f70), ratifikuoja 2012 m. birželio 26 d. Briuselyje priimtą Europos Sąjungos bei jos valstybių narių ir Moldovos Respublikos bendrosios aviacijos erdvės susitarimą.
 
 
 

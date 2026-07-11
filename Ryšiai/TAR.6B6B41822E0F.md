@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos nekilnojamojo turto registro įstatymo 42 str
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu
+- [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.38E82AA2664C#^s-76b0c9e78309922952a06b5a|Lietuvos Respublikos nekilnojamojo turto registro įstatymas]] - 3 citatos - 1111010ISTA0XI-1891
+- [[latest/TAR.38E82AA2664C#^s-76b0c9e78309922952a06b5a|Lietuvos Respublikos nekilnojamojo turto registro įstatymas]] - 2 citatos - 1111010ISTA0XI-1891

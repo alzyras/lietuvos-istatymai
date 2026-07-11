@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos viešųjų pirkimų įstatymo 2, 4, 6, 7, 8-2
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 2 citatos - Lietuvos Respublikos viešųjų pirkimų įstatymo
+- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Lietuvos Respublikos viešųjų pirkimų įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C54AFFAA7622#^s-71565f5ca82ac9fb9b0b1ff7|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Įstatymas Nr. XII-569
-- [[latest/TAR.C54AFFAA7622#^s-7d484803c9cc6716a4c73283|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Įstatymas Nr. XII-569
+_Nėra._

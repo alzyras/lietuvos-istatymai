@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-715eb4e7045be230884c6774
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. balandžio 8 d. dekretą Nr. 1733, ratifikuoja Lietuvos Respublikos ir Rumunijos sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir pajamų bei kapitalo mokesčių slėpimo prevencijos, pasirašytą 2001 m. lapkričio 26 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. balandžio 8 d. dekretą Nr. 1733](https://e-tar.lt/portal/lt/legalAct/TAR.3258AFB53426), ratifikuoja Lietuvos Respublikos ir Rumunijos sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir pajamų bei kapitalo mokesčių slėpimo prevencijos, pasirašytą 2001 m. lapkričio 26 d. Vilniuje.
 
 
 

@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos radiacinės saugos įstatymo 1, 2, 5, 7, 8, 9
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.6286F15970B3|Lietuvos Respublikos branduolinės energijos įstatymas]] - 2 citatos - Branduolinės energijos įstatyme
-- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - „Darbo kodekso“
-- [[latest/TAR.AB5C4F8C996B|Lietuvos Respublikos strateginių prekių kontrolės įstatymas]] - 2 citatos - Strateginių prekių kontrolės įstatymas
+- [[latest/TAR.6286F15970B3|Lietuvos Respublikos branduolinės energijos įstatymas]] - Branduolinės energijos įstatyme
+- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Darbo kodekso
+- [[latest/TAR.AB5C4F8C996B|Lietuvos Respublikos strateginių prekių kontrolės įstatymas]] - Strateginių prekių kontrolės įstatymas
 
 ## Šį įstatymą cituoja
 

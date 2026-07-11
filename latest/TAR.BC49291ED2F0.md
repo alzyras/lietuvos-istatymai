@@ -84,10 +84,10 @@ Vilnius
 ### 4 straipsnis. Įstatymo įsigaliojimas ^s-45ebf85a53588f18e1691f49
 
 
-1. Šio įstatymo [[#^s-844b338a514d8f2e0d36d5a7|1 straipsnio]] 1 ir 5 dalys įsigalioja 2007 m. rugpjūčio 1 d. ^s-3909c3b7f867b3663b6364f0
+1. Šio įstatymo [[#^s-844b338a514d8f2e0d36d5a7|1 straipsnio]] [[#^s-bf633a0e1af24ed8d1d4dadf|1]] ir [[#^s-c230a0435a9f946f01eafaf8|5]] dalys įsigalioja 2007 m. rugpjūčio 1 d. ^s-3909c3b7f867b3663b6364f0
 
 
-2. Šio įstatymo [[#^s-844b338a514d8f2e0d36d5a7|1 straipsnio]] 2, 3, 4 dalys ir 2, [[#^s-0a3fade624d29234d3ab8220|3 straipsniai]] įsigalioja 2008 m. sausio 1 d. ^s-543766d78ac244251da8941e
+2. Šio įstatymo [[#^s-844b338a514d8f2e0d36d5a7|1 straipsnio]] [[#^s-00720626503ec2e661dfafae|2]], [[#^s-43fc74a6886a697ea3fe42a7|3]], [[#^s-bcbbbb23dca2bd47a911debf|4]] dalys ir [[#^s-2d195725e7369edb1d0baaf1|2]], [[#^s-0a3fade624d29234d3ab8220|3]] straipsniai įsigalioja 2008 m. sausio 1 d. ^s-543766d78ac244251da8941e
 
 
 

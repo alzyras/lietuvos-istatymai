@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos biudžetinės sandaros įstatymo 12 straipsni
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.712BBBFA3D41#^s-bbfa1f10b3c7e6fbb28e89fa|Lietuvos Respublikos biudžeto sandaros įstatymas]] - LIETUVOS RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 12 STRAIPSNIO
+- [[latest/TAR.712BBBFA3D41#^s-bbfa1f10b3c7e6fbb28e89fa|Lietuvos Respublikos biudžeto sandaros įstatymas]] - BIUDŽETINĖS SANDAROS ĮSTATYMO 12 STRAIPSNIO
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.712BBBFA3D41#^s-01e0389549414ba0e1d70457|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.712BBBFA3D41#^s-673373647a7f57dbf0f2f530|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.712BBBFA3D41#^s-01e0389549414ba0e1d70457|Lietuvos Respublikos biudžeto sandaros įstatymas]] - LIETUVOS RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Statuto pakeitimų ratifikavimas ^s-681ca39b23b2e428099c015b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 5 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. rugsėjo 12 d. dekretą Nr. 992, ratifikuoja Tarptautinės atominės energijos agentūros statuto 6 ir 14 straipsnių pakeitimus.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 5 punktu bei atsižvelgdamas į Respublikos Prezidento [2000 m. rugsėjo 12 d. dekretą Nr. 992](https://e-tar.lt/portal/lt/legalAct/TAR.BA0E2B863181), ratifikuoja Tarptautinės atominės energijos agentūros statuto 6 ir 14 straipsnių pakeitimus.
 
 
 

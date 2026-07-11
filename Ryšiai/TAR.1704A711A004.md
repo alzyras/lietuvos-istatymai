@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.CE3B174CA7E6#^s-01b7287826bb185399b17a75|Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymas]] - 3 citatos - 1101010ISTA00XI-751
-- [[latest/TAR.CE3B174CA7E6#^s-99fdf2ba65ad2b78ef4cad0d|Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymas]] - 3 citatos - 1101010ISTA00XI-751
+- [[latest/TAR.CE3B174CA7E6#^s-99fdf2ba65ad2b78ef4cad0d|Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatymas]] - 2 citatos - 1101010ISTA00XI-751

@@ -49,7 +49,7 @@ Papildyti 2 straipsnį 13 dalimi:
 ### 2 straipsnis. 4 straipsnio pakeitimas ^s-27278e067d8aee67ea2ac51e
 
 
-[[#^s-608a8b4adff5f7f80da3f98e|4 straipsnį]] papildyti naujomis 3 ir [[#^s-5be5b5d46d71012f57521761|4 dalimis]], buvusią [[#^s-76091f008fac827aabb55124|3 dalį]] laikyti [[#^s-b5b344b205dfc8d4e175fdce|5 dalimi]], [[#^s-b5b344b205dfc8d4e175fdce|5 dalies]] 4 ir 5 punktus pripažinti netekusiais galios, buvusius 6, 7, 8, 9 punktus laikyti atitinkamai 4, 5, 6, 7 punktais ir visą straipsnį išdėstyti taip:
+[[#^s-608a8b4adff5f7f80da3f98e|4 straipsnį]] papildyti naujomis 3 ir 4 dalimis, buvusią [[#^s-76091f008fac827aabb55124|3 dalį]] laikyti [[#^s-b5b344b205dfc8d4e175fdce|5 dalimi]], [[#^s-b5b344b205dfc8d4e175fdce|5 dalies]] 4 ir 5 punktus pripažinti netekusiais galios, buvusius 6, 7, 8, 9 punktus laikyti atitinkamai 4, 5, 6, 7 punktais ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-608a8b4adff5f7f80da3f98e|4 straipsnis]]. Įstatymo taikymas

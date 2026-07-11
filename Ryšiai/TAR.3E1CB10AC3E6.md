@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo me
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.538D8DA9A346|Lietuvos Respublikos 2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 2 citatos - 2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
+- [[latest/TAR.538D8DA9A346|Lietuvos Respublikos 2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F960F4CF3005#^s-6ee98d2a3273f08b38b6bed8|Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas]] - 2 citatos - SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 10 STRAIPSNIO PAKEITIMO BEI ĮSTATYMO PAPILDYMO 12 STRAIPSNIU IR PENKTUOJU SKIRSNIU ĮSTATYMAS
-- [[latest/TAR.F960F4CF3005#^s-f9aca997c7e4a0339b551a66|Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas]] - 2 citatos - SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 10 STRAIPSNIO PAKEITIMO BEI ĮSTATYMO PAPILDYMO 12 STRAIPSNIU IR PENKTUOJU SKIRSNIU ĮSTATYMAS
+- [[latest/TAR.F960F4CF3005#^s-f9aca997c7e4a0339b551a66|Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas]] - SAVIVALDYBIŲ BIUDŽETŲ PAJAMŲ NUSTATYMO METODIKOS ĮSTATYMO 10 STRAIPSNIO PAKEITIMO BEI ĮSTATYMO PAPILDYMO 12 STRAIPSNIU IR PENKTUOJU SKIRSNIU ĮSTATYMAS

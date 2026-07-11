@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. 8 straipsnio pakeitimas ^s-31854df99ecf1600725f4a9d
 
 
-Pakeisti 8 straipsnio 4 dalies 4 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.1A98CE535B1C#^s-f7c295a107650975d5774b00|8 straipsnio 4 dalies 4 punktą]] ir jį išdėstyti taip:
 
 
 „4) teisės aktų nustatyta tvarka teikti informaciją apie savivaldybės aplinkos monitoringo rezultatus visuomenei ir valstybės institucijoms. Savivaldybės vykdomoji institucija, kalendoriniams metams pasibaigus, parengia praėjusių kalendorinių metų savivaldybės aplinkos monitoringo ataskaitą ir ne vėliau kaip iki einamųjų metų liepos 1 d. paskelbia ją savivaldybės interneto svetainėje. Šioje svetainėje turi būti skelbiamos visos savivaldybės teritorijoje vykdyto savivaldybės aplinkos monitoringo ataskaitos.“

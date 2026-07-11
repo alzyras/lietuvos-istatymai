@@ -59,7 +59,7 @@ Papildyti 2.44 straipsnį 5 dalimi:
 2. 5.31 straipsnio 2 dalies 3 punkte vietoj žodžio „aprašyta“ įrašyti žodį „aprašytos“, vietoj žodžio „antspaudai“ įrašyti žodžius „voko apsaugos nuo pažeidimų priemonės“ ir šį punktą išdėstyti taip: ^s-14175ba0157a350584ee1bd2
 
 
-„3) apie testamento priėmimą saugoti surašytas aktas, kuriame nurodyta, kad nepažeisti [[#^s-14175ba0157a350584ee1bd2|šio straipsnio 2 dalies]] 1 ir 2 punktų reikalavimai, taip pat aprašytos voko išvaizda, voko apsaugos nuo pažeidimų priemonės, nurodyti testatoriaus vardas, pavardė, asmens kodas, gyvenamoji vieta, testamento sudarymo data, vieta bei rūšis, priėmėjo pareigos, vardas ir pavardė. Aktą pasirašė testatorius ir testamentą saugoti priėmęs pareigūnas. Akto kopija išduodama testatoriui.“
+„3) apie testamento priėmimą saugoti surašytas aktas, kuriame nurodyta, kad nepažeisti šio straipsnio 2 dalies 1 ir 2 punktų reikalavimai, taip pat aprašytos voko išvaizda, voko apsaugos nuo pažeidimų priemonės, nurodyti testatoriaus vardas, pavardė, asmens kodas, gyvenamoji vieta, testamento sudarymo data, vieta bei rūšis, priėmėjo pareigos, vardas ir pavardė. Aktą pasirašė testatorius ir testamentą saugoti priėmęs pareigūnas. Akto kopija išduodama testatoriui.“
 
 
 

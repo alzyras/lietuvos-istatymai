@@ -307,7 +307,7 @@ Papildyti Kodeksą 772 straipsniu:
 ### 17 straipsnis. 80 straipsnio pakeitimas ^s-b3690f278fcd4871536207b3
 
 
-Pakeisti [[#^s-a8b193e5fe011c673082dcb7|80 straipsnio]] 1 ir [[#^s-1c8ac0f8e1c82d37a0086b2a|5 punktus]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-a8b193e5fe011c673082dcb7|80 straipsnio]] 1 ir 5 punktus ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-a8b193e5fe011c673082dcb7|80 straipsnis]]. Aplinkybės, dėl kurių asmenys negali būti apklausiami kaip liudytojai
@@ -502,7 +502,7 @@ Pakeisti 140 straipsnį ir jį išdėstyti taip:
 6. Laikinai sulaikytas asmuo po jo pristatymo į ikiteisminio tyrimo įstaigą ar prokuratūrą ne vėliau kaip per dvidešimt keturias valandas turi būti apklaustas kaip įtariamasis, prieš tai atlikus šio Kodekso 187 straipsnyje numatytus veiksmus. ^s-84f40f3a473d251c2c031b82
 
 
-7. Apie sulaikymą nedelsiant pranešama šio Kodekso 128 straipsnio 1 ir [[#^s-7f1301f8a0e9bf2a984f7766|2 dalyse]] nustatyta tvarka. ^s-66f794478e390929a893cf8f
+7. Apie sulaikymą nedelsiant pranešama šio Kodekso 128 straipsnio 1 ir 2 dalyse nustatyta tvarka. ^s-66f794478e390929a893cf8f
 
 
 8. Sulaikytas asmuo turi būti nedelsiant paleistas, jeigu: ^s-95fca45e943a5ff03a94229d
@@ -572,7 +572,7 @@ Pakeisti 154 straipsnį ir jį išdėstyti taip:
 1. Kai pagal prokuroro prašymą yra priimta ikiteisminio tyrimo teisėjo nutartis, ikiteisminio tyrimo pareigūnas gali klausytis asmenų pokalbių, perduodamų elektroninių ryšių tinklais, daryti jų įrašus, kontroliuoti kitą elektroninių ryšių tinklais perduodamą informaciją ir ją fiksuoti bei kaupti, jeigu yra pagrindas manyti, kad tokiu būdu galima gauti duomenų apie rengiamą, daromą ar padarytą labai sunkų, sunkų ar apysunkį nusikaltimą arba apie nesunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 170 straipsnyje, 1982 straipsnio 1 dalyje, 226 straipsnio 1 dalyje, 227 straipsnio 1 dalyje, arba jeigu yra pavojus, kad nukentėjusiajam, liudytojui ar kitiems proceso dalyviams arba jų artimiesiems bus panaudotas smurtas, prievartavimas ar kitokios neteisėtos veikos. Neatidėliotinais atvejais šie ikiteisminio tyrimo pareigūno veiksmai gali būti atliekami ir prokuroro nutarimu. Šiuo atveju per tris dienas nuo tokių veiksmų pradžios turi būti gautas ikiteisminio tyrimo teisėjo sutikimas. Jei toks sutikimas negaunamas, pradėti veiksmai turi būti nutraukti, o visi įrašai nedelsiant sunaikinami. ^s-cddb48b70c4d3097df56c01d
 
 
-2. [[#^s-cddb48b70c4d3097df56c01d|Šio straipsnio 1 dalyje]] nustatyta tvarka gali būti kontroliuojama ir fiksuojama elektroninių ryšių tinklais perduodama informacija, išskyrus jos turinį, jeigu yra pagrindas manyti, kad tokiu būdu galima gauti duomenų apie nesunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 166, 170, 1981 straipsniuose, 309 straipsnio 1 ir [[#^s-155c1747559a5591587e2ec2|2 dalyse]]. ^s-155c1747559a5591587e2ec2
+2. [[#^s-cddb48b70c4d3097df56c01d|Šio straipsnio 1 dalyje]] nustatyta tvarka gali būti kontroliuojama ir fiksuojama elektroninių ryšių tinklais perduodama informacija, išskyrus jos turinį, jeigu yra pagrindas manyti, kad tokiu būdu galima gauti duomenų apie nesunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 166, 170, 1981 straipsniuose, 309 straipsnio 1 ir 2 dalyse. ^s-155c1747559a5591587e2ec2
 
 
 3. Asmenų pokalbių, perduodamų elektroninių ryšių tinklais, klausymas, įrašų darymas ar kitos elektroninių ryšių tinklais perduodamos informacijos kontrolė, jos fiksavimas ir kaupimas negali trukti ilgiau kaip šešis mėnesius. Tiriant sudėtingą ar didelio masto nusikalstamą veiką, šios priemonės taikymas gali būti vieną kartą pratęstas trims mėnesiams. ^s-a42132610056eecc2623a83d
@@ -618,7 +618,7 @@ Pakeisti 154 straipsnį ir jį išdėstyti taip:
 3. 160 straipsnio 3 dalį pripažinti netekusia galios. ^s-114e227856c3c877d946bda3
 
 
-4. Buvusias 160 straipsnio 4 ir 5 dalis laikyti atitinkamai 3 ir [[#^s-615c7f97299467aaa65ac2c9|4 dalimis]]. ^s-615c7f97299467aaa65ac2c9
+4. Buvusias 160 straipsnio 4 ir 5 dalis laikyti atitinkamai 3 ir 4 dalimis. ^s-615c7f97299467aaa65ac2c9
 
 
 
@@ -682,7 +682,7 @@ Pakeisti 167 straipsnio 2 dalį ir ją išdėstyti taip:
 3. Papildyti 168 straipsnį 5 dalimi: ^s-356d1aea1b677761fb7415a3
 
 
-„5. Atsisakius pradėti ikiteisminį tyrimą [[#^s-abf321be53e40e9e6355669b|šio straipsnio 1 dalyje]] nustatytais atvejais ir esant duomenų apie administracinį teisės pažeidimą ar kituose teisės aktuose numatytą nusižengimą, prokuroras, ikiteisminio tyrimo pareigūnas nutarimu atsisakyti pradėti ikiteisminį tyrimą perduoda šį skundą, pareiškimą ar pranešimą ir patikslinimą išspręsti Administracinių teisės pažeidimų kodekse ar kituose teisės aktuose nustatyta tvarka.“
+„5. Atsisakius pradėti ikiteisminį tyrimą [[#^s-abf321be53e40e9e6355669b|šio straipsnio 1 dalyje]] nustatytais atvejais ir esant duomenų apie administracinį teisės pažeidimą ar kituose teisės aktuose numatytą nusižengimą, prokuroras, ikiteisminio tyrimo pareigūnas nutarimu atsisakyti pradėti ikiteisminį tyrimą perduoda šį skundą, pareiškimą ar pranešimą ir patikslinimą išspręsti [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) ar kituose teisės aktuose nustatyta tvarka.“
 
 
 
@@ -733,13 +733,13 @@ Pakeisti 171 straipsnio 3 dalį ir ją išdėstyti taip:
 ### 41 straipsnis. 186 straipsnio pakeitimas ir papildymas ^s-0aafa392609e1c5f0b17247c
 
 
-Papildyti 186 straipsnį naujomis 3 ir [[#^s-cc8d712dfa1cf4c82dac7cef|4 dalimis]], buvusią [[#^s-028136a4a719b59fcb4d13c7|3 dalį]] laikyti [[#^s-aa6d450373e1daf054b7ec5c|5 dalimi]], ją pakeisti ir visą straipsnį išdėstyti taip:
+Papildyti 186 straipsnį naujomis 3 ir 4 dalimis, buvusią [[#^s-028136a4a719b59fcb4d13c7|3 dalį]] laikyti [[#^s-aa6d450373e1daf054b7ec5c|5 dalimi]], ją pakeisti ir visą straipsnį išdėstyti taip:
 
 
 „186 straipsnis. Nepilnamečio liudytojo ir nukentėjusiojo apklausa
 
 
-1. Jaunesnius kaip aštuoniolikos metų liudytoją ar nukentėjusįjį apklausia ikiteisminio tyrimo teisėjas šio Kodekso 184 straipsnio 3, 4, [[#^s-aa6d450373e1daf054b7ec5c|5 dalyse]] nustatyta tvarka, kai vaiko interesais to prašo jo atstovas, prokuroras ar gynėjas arba šio Kodekso 184 straipsnio 1 dalyje numatytais atvejais. ^s-90105a59928860c43d0a5db7
+1. Jaunesnius kaip aštuoniolikos metų liudytoją ar nukentėjusįjį apklausia ikiteisminio tyrimo teisėjas šio Kodekso 184 straipsnio 3, 4, 5 dalyse nustatyta tvarka, kai vaiko interesais to prašo jo atstovas, prokuroras ar gynėjas arba šio Kodekso 184 straipsnio 1 dalyje numatytais atvejais. ^s-90105a59928860c43d0a5db7
 
 
 2. Jaunesni kaip aštuoniolikos metų liudytojas ar nukentėjusysis ikiteisminio tyrimo metu paprastai apklausiami ne daugiau kaip vieną kartą. Jų apklausos metu gali būti daromas vaizdo ir garso įrašas. Jeigu jaunesnių kaip aštuoniolikos metų liudytojo ar nukentėjusiojo apklausoje dalyvauja įtariamasis ar jo gynėjas, ikiteisminio tyrimo teisėjas privalo užtikrinti, kad tokiam liudytojui ar nukentėjusiajam nebūtų daromas neleistinas poveikis. Jaunesni kaip aštuoniolikos metų liudytojas ir nukentėjusysis į teisiamąjį posėdį kviečiami tik išimtiniais atvejais. ^s-b8360f3b1f8f1e1acd5cc027
@@ -799,7 +799,7 @@ Papildyti 186 straipsnį naujomis 3 ir [[#^s-cc8d712dfa1cf4c82dac7cef|4 dalimis]
 2. Papildyti 214 straipsnį 4 dalimi: ^s-5fce55aa7b1492ce7a4cd9dd
 
 
-„4. [[#^s-fca1c3288198027bcdcd93b6|Šio straipsnio 1 dalyje]] numatytas nutarimas gali būti skundžiamas aukštesniajam prokurorui. Jei aukštesnysis prokuroras atsisako patenkinti skundą, šis jo nutarimas gali būti skundžiamas ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjo sprendimas dėl skundo, taip pat [[#^s-5fce55aa7b1492ce7a4cd9dd|šio straipsnio 2 dalyje]] numatytas ikiteisminio tyrimo teisėjo sprendimas gali būti skundžiami šio Kodekso X dalyje nustatyta tvarka.“
+„4. [[#^s-fca1c3288198027bcdcd93b6|Šio straipsnio 1 dalyje]] numatytas nutarimas gali būti skundžiamas aukštesniajam prokurorui. Jei aukštesnysis prokuroras atsisako patenkinti skundą, šis jo nutarimas gali būti skundžiamas ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjo sprendimas dėl skundo, taip pat šio straipsnio 2 dalyje numatytas ikiteisminio tyrimo teisėjo sprendimas gali būti skundžiami šio Kodekso X dalyje nustatyta tvarka.“
 
 
 3. Papildyti 214 straipsnį 5 dalimi: ^s-4dff651800e5742163e8a163
@@ -811,7 +811,7 @@ Papildyti 186 straipsnį naujomis 3 ir [[#^s-cc8d712dfa1cf4c82dac7cef|4 dalimis]
 4. Papildyti 214 straipsnį 6 dalimi: ^s-ac776a4f8e4c0109360d08a9
 
 
-„6. Jeigu ikiteisminio tyrimo medžiagoje yra duomenų apie administracinį teisės pažeidimą ar kituose teisės aktuose numatytą nusižengimą, prokuroras nutarimu nutraukti ikiteisminį tyrimą perduoda šią medžiagą spręsti Administracinių teisės pažeidimų kodekse ar kituose teisės aktuose nustatyta tvarka.“
+„6. Jeigu ikiteisminio tyrimo medžiagoje yra duomenų apie administracinį teisės pažeidimą ar kituose teisės aktuose numatytą nusižengimą, prokuroras nutarimu nutraukti ikiteisminį tyrimą perduoda šią medžiagą spręsti [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) ar kituose teisės aktuose nustatyta tvarka.“
 
 
 
@@ -831,7 +831,7 @@ Pakeisti 217 straipsnio 1 dalį ir ją išdėstyti taip:
 1. Pakeisti 225 straipsnio 1 dalį ir ją išdėstyti taip: ^s-2ff07efcb7af9c2dd7bb415a
 
 
-„1. Apygardos teismui teismingos baudžiamosios bylos, kuriose asmenys kaltinami padarę sunkius ir labai sunkius nusikaltimus, išskyrus bylas, kuriose asmenys kaltinami padarę nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 135 straipsnio 1 dalyje, 149 straipsnio 1, 2 ir 3 dalyse, 150 straipsnio 1, 2 ir 3 dalyse, 178 straipsnio 3 dalyje, 180 straipsnio 2 ir 3 dalyse, 182 straipsnio 2 dalyje ir 260 straipsnio 1 ir [[#^s-bd2cc5d29d1a05251e603767|2 dalyse]], taip pat bylos, kuriose kaltinamieji nusikalstamos veikos padarymo metu buvo Respublikos Prezidentu, Seimo ar Vyriausybės nariais, Konstitucinio Teismo teisėjais, teisėjais ar prokurorais.“
+„1. Apygardos teismui teismingos baudžiamosios bylos, kuriose asmenys kaltinami padarę sunkius ir labai sunkius nusikaltimus, išskyrus bylas, kuriose asmenys kaltinami padarę nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 135 straipsnio 1 dalyje, 149 straipsnio 1, 2 ir 3 dalyse, 150 straipsnio 1, 2 ir 3 dalyse, 178 straipsnio 3 dalyje, 180 straipsnio 2 ir 3 dalyse, 182 straipsnio 2 dalyje ir 260 straipsnio 1 ir 2 dalyse, taip pat bylos, kuriose kaltinamieji nusikalstamos veikos padarymo metu buvo Respublikos Prezidentu, Seimo ar Vyriausybės nariais, Konstitucinio Teismo teisėjais, teisėjais ar prokurorais.“
 
 
 2. Pakeisti 225 straipsnio 2 dalį ir ją išdėstyti taip: ^s-bd2cc5d29d1a05251e603767
@@ -883,7 +883,7 @@ Pakeisti 234 straipsnio 2 dalį ir ją išdėstyti taip:
 2. Pakeisti 254 straipsnio 5 dalį ir ją išdėstyti taip: ^s-5bd8654b809990b13c5b4b99
 
 
-„5. Nagrinėjimo teisme metu, kai nustatomi Lietuvos Respublikos baudžiamojo kodekso 36–40, [[#^s-c0081b6b5237edc5d864f3d4|93 straipsniuose]], 114 straipsnio 3 dalyje, 259 straipsnio 3 dalyje, 227 straipsnio 4 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės, byla nutraukiama nuosprendžiu.“
+„5. Nagrinėjimo teisme metu, kai nustatomi Lietuvos Respublikos baudžiamojo kodekso [[#^s-f2520117ca5d686811065712|36]]–[[#^s-760a63e2ea75c03cd4bb8736|40]], [[#^s-c0081b6b5237edc5d864f3d4|93]] straipsniuose, 114 straipsnio 3 dalyje, 259 straipsnio 3 dalyje, 227 straipsnio 4 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti asmenį nuo baudžiamosios atsakomybės, byla nutraukiama nuosprendžiu.“
 
 
 
@@ -902,10 +902,10 @@ Pakeisti 256 straipsnį ir jį išdėstyti taip:
 2. Prokuroras, privatus kaltintojas ir nukentėjusysis turi teisę iki įrodymų tyrimo teisme pabaigos pateikti rašytinį prašymą pakeisti kaltinime nurodytos veikos kvalifikavimą pritaikant baudžiamąjį įstatymą, numatantį sunkesnę nusikalstamą veiką. Teismas, gavęs tokį prašymą, taip pat kitais atvejais, kai yra pagrindas manyti, kad kaltinime nurodyta veika gali būti kvalifikuojama pagal baudžiamąjį įstatymą, numatantį sunkesnę nusikalstamą veiką, apie tokią galimybę nedelsdamas praneša nagrinėjimo teisme dalyviams. Minėto prašymo nuorašai įteikiami kaltinamajam, jo gynėjui ir kitiems nagrinėjimo teisme dalyviams. Išnagrinėjus baudžiamąją bylą, kaltinamasis gali būti pripažintas kaltu ir remiantis kaltinamajame akte pateiktu veikos kvalifikavimu. ^s-f99edf3e7ba8c1c9d78db1de
 
 
-3. Šio straipsnio 1 ir [[#^s-f99edf3e7ba8c1c9d78db1de|2 dalyse]] nurodytais atvejais teismas praneša kaltinamajam ir jo gynėjui apie teisę prašyti pertraukos pasirengti gynybai. Patenkinęs tokį prašymą, teismas nustato konkretų pertraukos laiką. ^s-fea4f7f246540952fb6f3bcf
+3. Šio straipsnio [[#^s-bf695e6048855648f3de42a2|1]] ir [[#^s-f99edf3e7ba8c1c9d78db1de|2]] dalyse nurodytais atvejais teismas praneša kaltinamajam ir jo gynėjui apie teisę prašyti pertraukos pasirengti gynybai. Patenkinęs tokį prašymą, teismas nustato konkretų pertraukos laiką. ^s-fea4f7f246540952fb6f3bcf
 
 
-4. Šio straipsnio 2 ir [[#^s-fea4f7f246540952fb6f3bcf|3 dalių]] nuostatos netaikomos, kai kaltinime nurodyta veika perkvalifikuojama pagal baudžiamąjį įstatymą, numatantį lengvesnį nusikaltimą ar baudžiamąjį nusižengimą, jeigu iš esmės nesikeičia faktinės nusikalstamos veikos aplinkybės.“ ^s-f57ab89afac7e20bb9f830e6
+4. Šio straipsnio [[#^s-f99edf3e7ba8c1c9d78db1de|2]] ir [[#^s-fea4f7f246540952fb6f3bcf|3]] dalių nuostatos netaikomos, kai kaltinime nurodyta veika perkvalifikuojama pagal baudžiamąjį įstatymą, numatantį lengvesnį nusikaltimą ar baudžiamąjį nusižengimą, jeigu iš esmės nesikeičia faktinės nusikalstamos veikos aplinkybės.“ ^s-f57ab89afac7e20bb9f830e6
 
 
 
@@ -983,7 +983,7 @@ Papildyti 300 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 1. Pakeisti 303 straipsnio 4 dalį ir ją išdėstyti taip: ^s-9a596807c8689f14b13105f7
 
 
-„4. Teismas nuosprendžiu nutraukia baudžiamąją bylą, jeigu yra Lietuvos Respublikos baudžiamojo kodekso 36–40, [[#^s-c0081b6b5237edc5d864f3d4|93 straipsniuose]], 114 straipsnio 3 dalyje, 227 straipsnio 4 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės.“
+„4. Teismas nuosprendžiu nutraukia baudžiamąją bylą, jeigu yra Lietuvos Respublikos baudžiamojo kodekso [[#^s-f2520117ca5d686811065712|36]]–[[#^s-760a63e2ea75c03cd4bb8736|40]], [[#^s-c0081b6b5237edc5d864f3d4|93]] straipsniuose, 114 straipsnio 3 dalyje, 227 straipsnio 4 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės.“
 
 
 2. Pakeisti 303 straipsnio 5 dalį ir ją išdėstyti taip: ^s-d2304aa58aa44aa50f9df6bf
@@ -1030,7 +1030,7 @@ Papildyti 300 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 „3. Nuosprendis skelbiamas dalyvaujant kaltinamajam, jo gynėjui ir prokurorui, jeigu teismas nenusprendžia kitaip.“
 
 
-5. Buvusias 308 straipsnio 5 ir 6 dalis laikyti atitinkamai 4 ir [[#^s-a1419b2544da6546106caeb8|5 dalimis]]. ^s-a1419b2544da6546106caeb8
+5. Buvusias 308 straipsnio 5 ir 6 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-a1419b2544da6546106caeb8
 
 
 
@@ -1202,7 +1202,7 @@ Pakeisti 324 straipsnį ir jį išdėstyti taip:
 „324 straipsnis. Bylos nagrinėjimas apeliacinės instancijos teismo posėdyje
 
 
-1. Kolegijos pirmininkas pradeda posėdį, paskelbia, kokia byla, dėl kieno apeliacinio skundo ir dėl kokio teismo nuosprendžio nagrinėjama. Po to kolegijos pirmininkas patikrina, kas atvyko į posėdį, ar apie bylos nagrinėjimo laiką buvo pranešta asmenims, nurodytiems šio Kodekso 322 straipsnyje. Atvykę liudytojai iš teismo posėdžių salės pašalinami. Po to kolegijos pirmininkas paskelbia bylą nagrinėjančių teisėjų, dalyvaujančių posėdyje prokurorų, gynėjų, atstovų, ekspertų, specialistų, vertėjų ir posėdžio sekretoriaus vardus ir pavardes ir paklausia į posėdį atvykusius asmenis, ar šie turi pareiškimų dėl nušalinimo. Tokius pareiškimus teismas išnagrinėja šio Kodekso 57–59 ir [[#^s-f5011c45d93c0e09694b0c82|61 straipsniuose]] nustatyta tvarka. Teismas nusprendžia, ar galima nagrinėti bylą, jei kas nors iš proceso dalyvių neatvyko. Šis sprendimas priimamas vadovaujantis šio Kodekso 266 straipsnyje nustatytomis taisyklėmis. ^s-6a6687c618046930bc2cd637
+1. Kolegijos pirmininkas pradeda posėdį, paskelbia, kokia byla, dėl kieno apeliacinio skundo ir dėl kokio teismo nuosprendžio nagrinėjama. Po to kolegijos pirmininkas patikrina, kas atvyko į posėdį, ar apie bylos nagrinėjimo laiką buvo pranešta asmenims, nurodytiems šio Kodekso 322 straipsnyje. Atvykę liudytojai iš teismo posėdžių salės pašalinami. Po to kolegijos pirmininkas paskelbia bylą nagrinėjančių teisėjų, dalyvaujančių posėdyje prokurorų, gynėjų, atstovų, ekspertų, specialistų, vertėjų ir posėdžio sekretoriaus vardus ir pavardes ir paklausia į posėdį atvykusius asmenis, ar šie turi pareiškimų dėl nušalinimo. Tokius pareiškimus teismas išnagrinėja šio Kodekso [[#^s-180aa0e2ecbab227babda74a|57]]–[[#^s-2af229dcb110fb08a29bc4bc|59]] ir [[#^s-f5011c45d93c0e09694b0c82|61]] straipsniuose nustatyta tvarka. Teismas nusprendžia, ar galima nagrinėti bylą, jei kas nors iš proceso dalyvių neatvyko. Šis sprendimas priimamas vadovaujantis šio Kodekso 266 straipsnyje nustatytomis taisyklėmis. ^s-6a6687c618046930bc2cd637
 
 
 2. Kolegijos pirmininkas atvykusiems į posėdį asmenims išaiškina jų teises ir pareigas ir paklausia, ar jie turi prašymų. Šie asmenys gali prašyti, kad teismas pakviestų į posėdį liudytojus, nukentėjusiuosius, ekspertus, specialistus ar išreikalautų bylai nagrinėti reikalingą medžiagą. Dėl pareikštų prašymų teismas priima motyvuotą nutartį. Jeigu prašymui patenkinti reikia papildomai laiko, teismas gali padaryti bylos nagrinėjimo pertrauką. ^s-81f7ddefc56eabc7d6ad55bd
@@ -1242,7 +1242,7 @@ Pakeisti 324 straipsnį ir jį išdėstyti taip:
 ### 70 straipsnis. 326 straipsnio 1, 5 dalių pakeitimas ir papildymas ir 6 dalies pripažinimas netekusia galios ^s-3d4075253ec563b140975343
 
 
-1. Pakeisti 326 straipsnio 1 dalies 4 ir [[#^s-9f955514ec89fb1b215a10b8|5 punktus]] ir šią dalį išdėstyti taip: ^s-8b05a345ca831d5050e3167c
+1. Pakeisti 326 straipsnio 1 dalies 4 ir 5 punktus ir šią dalį išdėstyti taip: ^s-8b05a345ca831d5050e3167c
 
 
 „1. Išnagrinėjęs bylą teismo posėdyje, dėl apskųsto nuosprendžio apeliacinės instancijos teismas priima nutartį:
@@ -1254,7 +1254,7 @@ Pakeisti 324 straipsnį ir jį išdėstyti taip:
 2) panaikinti nuosprendį ir nutraukti bylą šio Kodekso 327 straipsnio 1 punkte numatytais pagrindais; ^s-cf22a7fc1c8c3bee0fb9624c
 
 
-3) pakeisti nuosprendį šio Kodekso 328 straipsnio 3 ir [[#^s-44be6b82e3c76bb1a1d3a93c|4 punktuose]] numatytais pagrindais; ^s-4e5a27bebd56f816acd48fc2
+3) pakeisti nuosprendį šio Kodekso 328 straipsnio 3 ir 4 punktuose numatytais pagrindais; ^s-4e5a27bebd56f816acd48fc2
 
 
 4) panaikinti nuosprendį ir perduoti bylą iš naujo nagrinėti teismui, jeigu bylą išnagrinėjo šališkas pirmosios instancijos teismas arba byla išnagrinėta pažeidžiant šio Kodekso 224 ir 225 straipsniuose nustatytas teismingumo taisykles, arba kai apeliacinės instancijos teisme paaiškėja, kad nuteistasis veikos padarymo metu sirgo ar iki nuosprendžio priėmimo pirmosios instancijos teisme susirgo psichikos liga ir jam turėjo būti taikomos priverčiamosios medicinos priemonės; ^s-44be6b82e3c76bb1a1d3a93c
@@ -1303,7 +1303,7 @@ Apeliacinės instancijos teismas panaikina pirmosios instancijos teismo nuospren
 1) yra šio Kodekso 3 straipsnio 1 dalies 2–9 punktuose numatytos aplinkybės, dėl kurių baudžiamasis procesas negalimas; ^s-89f7690012e87a69de25bb1c
 
 
-2) yra Lietuvos Respublikos baudžiamojo kodekso 36–40, [[#^s-c0081b6b5237edc5d864f3d4|93 straipsniuose]], 114 straipsnio 3 dalyje, 227 straipsnio 4 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės.“ ^s-a73ae211e0909c3279181fb1
+2) yra Lietuvos Respublikos baudžiamojo kodekso [[#^s-f2520117ca5d686811065712|36]]–[[#^s-760a63e2ea75c03cd4bb8736|40]], [[#^s-c0081b6b5237edc5d864f3d4|93]] straipsniuose, 114 straipsnio 3 dalyje, 227 straipsnio 4 dalyje, 259 straipsnio 3 dalyje ir 291 straipsnio 2 ir 3 dalyse numatyti pagrindai atleisti kaltinamąjį nuo baudžiamosios atsakomybės.“ ^s-a73ae211e0909c3279181fb1
 
 
 
@@ -1345,7 +1345,7 @@ Pakeisti 342 straipsnio 4 dalį ir ją išdėstyti taip:
 3) dėl viešųjų darbų bausmės – pataisos inspekcijoms; ^s-4b73c69768a7138e2c9df899
 
 
-4) dėl baudos priverstinio išieškojimo – antstoliams; ^s-6ead3c30a21c9c7b6a65b336
+4) [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) priverstinio išieškojimo – antstoliams; ^s-6ead3c30a21c9c7b6a65b336
 
 
 5) dėl laisvės apribojimo bausmės – pataisos inspekcijoms; ^s-ba458c52a705ae7917f0c16a
@@ -1416,7 +1416,7 @@ Pakeisti 367 straipsnį ir jį išdėstyti taip:
 3. Kasacine tvarka neskundžiami ir nenagrinėjami nagrinėjant bylą privataus kaltinimo tvarka priimti nuosprendžiai ar nutartys, taip pat apeliacine tvarka neskųsti ir nenagrinėti nuosprendžiai ar nutartys. Kasacine tvarka apskųsti įsiteisėjusį nuosprendį ar nutartį galima tik dėl tų klausimų, kurie buvo nagrinėti apeliacinės instancijos teisme. ^s-e733983570dd2c7d492fc10c
 
 
-4. Kasacine tvarka skundžiamos tik šio Kodekso 318 straipsnio 1 dalyje ir 326 straipsnio 1, [[#^s-3830663dd364d2abbc864ff6|5 dalyse]] išvardytos nutartys. ^s-6fe4f3ec086cc3d9e17197dc
+4. Kasacine tvarka skundžiamos tik šio Kodekso 318 straipsnio 1 dalyje ir 326 straipsnio 1, 5 dalyse išvardytos nutartys. ^s-6fe4f3ec086cc3d9e17197dc
 
 
 5. Pakartotiniai kasaciniai skundai nepriimami ir nenagrinėjami. Pakartotiniu laikomas kasacinis skundas, kurį baudžiamojoje byloje tas pats proceso dalyvis paduoda antrą kartą po to, kai kasacinės instancijos teismas išnagrinėjo bylą, taip pat skundas, kurį išnagrinėjus bylą pagal nuteistojo ar išteisintojo, ar asmens, kuriam byla nutraukta, kasacinį skundą paduoda savo vardu pilnamečio nuteistojo ar išteisintojo, ar asmens, kuriam byla nutraukta, gynėjas, arba skundas, kurį išnagrinėjus bylą pagal pilnamečio nuteistojo ar išteisintojo, ar asmens, kuriam byla nutraukta, gynėjo skundą paduoda nuteistasis ar išteisintasis, ar asmuo, kuriam byla nutraukta.“ ^s-3830663dd364d2abbc864ff6
@@ -1476,7 +1476,7 @@ Pakeisti 372 straipsnį ir jį išdėstyti taip:
 1) paduotas praleidus kasacinio skundo padavimo terminą ir nėra prašymo atnaujinti praleistą terminą arba prašymas jį atnaujinti yra atmestas; ^s-a39ca40d99161b31036a2da5
 
 
-2) paduotas dėl nuosprendžio ar nutarties, kurie kasacine tvarka negali būti skundžiami pagal šio Kodekso 367 straipsnio 3 ar [[#^s-4130277f51e7555a49364c44|4 dalis]]; ^s-7e63f95da16442784f5815a9
+2) paduotas dėl nuosprendžio ar nutarties, kurie kasacine tvarka negali būti skundžiami pagal šio Kodekso 367 straipsnio 3 ar 4 dalis; ^s-7e63f95da16442784f5815a9
 
 
 3) neatitinka šio Kodekso 368 straipsnio 2 dalyje nustatytų reikalavimų; ^s-ea817a0d7416ef67269b4160
@@ -1579,7 +1579,7 @@ Papildyti Kodeksą 3742 straipsniu:
 3) bylą pirmosios instancijos tvarka nagrinėjo apygardos teismo Baudžiamųjų bylų skyriaus teismo trijų teisėjų kolegija, arba ^s-3527f648cf4cf3a3fc82c93b
 
 
-4) apeliacinės instancijos teismas šio Kodekso 329 straipsnio 1–[[#^s-3527f648cf4cf3a3fc82c93b|3 punktuose]] numatytais atvejais yra panaikinęs pirmosios instancijos teismo nuosprendį ir priėmęs naują nuosprendį, arba ^s-255b54662d57f1e82fe29787
+4) apeliacinės instancijos teismas šio Kodekso 329 straipsnio 1–3 punktuose numatytais atvejais yra panaikinęs pirmosios instancijos teismo nuosprendį ir priėmęs naują nuosprendį, arba ^s-255b54662d57f1e82fe29787
 
 
 5) trijų teisėjų kolegija nusprendžia, kad būtina išklausyti proceso dalyvių žodinius paaiškinimus.“ ^s-b1331f7a857893a839eb7c6e
@@ -1620,7 +1620,7 @@ Pakeisti 377 straipsnį ir jį išdėstyti taip:
 2. Kasacinės instancijos teismas bylas nagrinėja viešame teismo posėdyje, išskyrus šio Kodekso [[#^s-50c9ba9efb0d2df5929367b7|9 straipsnyje]] nurodytus atvejus. ^s-6c2e7f4fdc4492e58f1e951c
 
 
-3. Paskirtu bylai nagrinėti laiku kolegijos pirmininkas pradeda teismo posėdį ir paskelbia, kokia byla, dėl kieno kasacinio skundo ir dėl kokio teismo nuosprendžio ar nutarties nagrinėjama. Po to kolegijos pirmininkas patikrina, kas atvyko į posėdį, ar apie bylos nagrinėjimo laiką buvo pranešta šio Kodekso 375 straipsnyje nurodytiems asmenims. Kolegijos pirmininkas paskelbia bylą nagrinėjančių teisėjų ir dalyvaujančių posėdyje prokurorų, gynėjų, atstovų, vertėjų bei posėdžio sekretoriaus vardus ir pavardes ir paklausia į posėdį atvykusius asmenis, ar šie turi pareiškimų dėl nušalinimo. Tokius pareiškimus teismas išnagrinėja šio Kodekso 57–59 ir [[#^s-f5011c45d93c0e09694b0c82|61 straipsniuose]] nustatyta tvarka. ^s-f2fec794725c3963de9435a0
+3. Paskirtu bylai nagrinėti laiku kolegijos pirmininkas pradeda teismo posėdį ir paskelbia, kokia byla, dėl kieno kasacinio skundo ir dėl kokio teismo nuosprendžio ar nutarties nagrinėjama. Po to kolegijos pirmininkas patikrina, kas atvyko į posėdį, ar apie bylos nagrinėjimo laiką buvo pranešta šio Kodekso 375 straipsnyje nurodytiems asmenims. Kolegijos pirmininkas paskelbia bylą nagrinėjančių teisėjų ir dalyvaujančių posėdyje prokurorų, gynėjų, atstovų, vertėjų bei posėdžio sekretoriaus vardus ir pavardes ir paklausia į posėdį atvykusius asmenis, ar šie turi pareiškimų dėl nušalinimo. Tokius pareiškimus teismas išnagrinėja šio Kodekso [[#^s-180aa0e2ecbab227babda74a|57]]–[[#^s-2af229dcb110fb08a29bc4bc|59]] ir [[#^s-f5011c45d93c0e09694b0c82|61]] straipsniuose nustatyta tvarka. ^s-f2fec794725c3963de9435a0
 
 
 4. Kolegijos pirmininkas paklausia atvykusius į posėdį asmenis, ar šie turi prašymų. Dėl pareikštų prašymų teismas priima nutartį. ^s-1143e1171e48533cc989921c

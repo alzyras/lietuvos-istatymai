@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-5a27404bc707042f32f20ca8
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gruodžio 5 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1989 m. kovo 22 d. Bazelio konvenciją dėl pavojingų atliekų tarpvalstybinio pervežimo bei jų tvarkymo kontrolės“, ratifikuoja 1989 m. kovo 22 d. Bazelio konvenciją dėl pavojingų atliekų tarpvalstybinio pervežimo bei jų tvarkymo kontrolės.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gruodžio 5 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1989 m. kovo 22 d. Bazelio konvenciją dėl pavojingų atliekų tarpvalstybinio pervežimo bei jų tvarkymo kontrolės“](https://e-tar.lt/portal/lt/legalAct/TAR.C14FF68A4F7D), ratifikuoja 1989 m. kovo 22 d. Bazelio konvenciją dėl pavojingų atliekų tarpvalstybinio pervežimo bei jų tvarkymo kontrolės.
 
 
 

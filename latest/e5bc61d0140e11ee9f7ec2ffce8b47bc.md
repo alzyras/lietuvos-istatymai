@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. 14 straipsnio pakeitimas ^s-d7ebd94dace967c7205d9239
 
 
-Pakeisti 14 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.5F9F5C944DB1#^s-7b5ca64023fc7fe28e381188|14 straipsnio 3 dalies 2 punktą]] ir jį išdėstyti taip:
 
 
 „2) žemės ūkio ministro įgaliotai institucijai, kuri atlieka Nesąžiningos prekybos praktikos žemės ūkio ir maisto produktų tiekimo grandinėje draudimo įstatymo priežiūros institucijos funkcijas;“.

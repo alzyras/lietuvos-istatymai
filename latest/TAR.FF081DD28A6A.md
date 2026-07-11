@@ -45,7 +45,7 @@ Iš 62 straipsnio išbraukti žodžius ir skaičius „4 straipsnio 6 punkto“ 
 „62 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
 
 
-[[latest/TAR.C8205E261830#^s-d7e10ad8aa8ccba8a64f584c|Vaiko teisių apsaugos pagrindų įstatymo 10 straipsnio]] pirmosios dalies, 13 straipsnio trečiosios dalies, 21 straipsnio trečiosios dalies, 23 ir 25 straipsnių, 35 straipsnio antrosios dalies, 37 straipsnio, 44 straipsnio antrosios dalies, 45 straipsnio antrosios dalies, 46, 47, 49, 53 straipsnių ir 59 straipsnio trečiosios dalies įsigaliojimą ir šio įstatymo įgyvendinimo tvarką nustato [[latest/TAR.C8205E261830|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo]] įgyvendinimo tvarkos įstatymas.“
+[[latest/TAR.C8205E261830|Vaiko teisių apsaugos pagrindų įstatymo]] 10 straipsnio pirmosios dalies, 13 straipsnio trečiosios dalies, 21 straipsnio trečiosios dalies, [[latest/TAR.C8205E261830#^s-5aaf2c5bf49b36cdae9e31d6|23]] ir [[latest/TAR.C8205E261830#^s-3f91f11f204ae53526dcff19|25]] straipsnių, 35 straipsnio antrosios dalies, 37 straipsnio, 44 straipsnio antrosios dalies, 45 straipsnio antrosios dalies, 46, 47, 49, 53 straipsnių ir 59 straipsnio trečiosios dalies įsigaliojimą ir šio įstatymo įgyvendinimo tvarką nustato [Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo įgyvendinimo tvarkos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.0F6F434B1AD9).“
 
 
 

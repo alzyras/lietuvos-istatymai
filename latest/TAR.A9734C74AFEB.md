@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-2db7131215e5324b5fbcff6e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Ispanijos Karalystės sutartį dėl neteisėtai esančių asmenų grąžinimo“, ratifikuoja Lietuvos Respublikos ir Ispanijos Karalystės sutartį dėl neteisėtai esančių asmenų grąžinimo, pasirašytą 1998 m. lapkričio 18 d. Madride.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 27 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Ispanijos Karalystės sutartį dėl neteisėtai esančių asmenų grąžinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.9AC2921B2D05), ratifikuoja Lietuvos Respublikos ir Ispanijos Karalystės sutartį dėl neteisėtai esančių asmenų grąžinimo, pasirašytą 1998 m. lapkričio 18 d. Madride.
 
 
 

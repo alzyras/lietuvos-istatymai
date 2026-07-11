@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos ūkininko ūkio įstatymo Nr. VIII-1159 11 st
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.769B541DD7F7|Lietuvos Respublikos ūkininko ūkio įstatymas]] - 2 citatos - Lietuvos Respublikos ūkininko ūkio įstatyme
+- [[latest/TAR.769B541DD7F7|Lietuvos Respublikos ūkininko ūkio įstatymas]] - Lietuvos Respublikos ūkininko ūkio įstatyme
+- [[latest/daf8dfc0c4c811edac36f416a198a714#^s-c88a8c14e6339ca1c3124b30|Lietuvos Respublikos ūkininko ūkio įstatymo Nr. VIII-1159 11 straipsnio pakeitimo įstatymas]] - 2 citatos - 2 straipsnis
 
 ## Šį įstatymą cituoja
 
-- [[latest/daf8dfc0c4c811edac36f416a198a714#^s-c88a8c14e6339ca1c3124b30|Lietuvos Respublikos ūkininko ūkio įstatymo Nr. VIII-1159 11 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XIV-2042
-- [[latest/daf8dfc0c4c811edac36f416a198a714#^s-eb74b1981d621728091e81ed|Lietuvos Respublikos ūkininko ūkio įstatymo Nr. VIII-1159 11 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XIV-2042
+_Nėra._

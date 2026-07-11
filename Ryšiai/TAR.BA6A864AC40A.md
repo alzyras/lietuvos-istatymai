@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.5C23DECF6210#^s-86ae68ae2377c87201301f0f|Lietuvos Respublikos valstybės skolos įstatymas]] - 2 citatos - VALSTYBĖS SKOLOS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.5C23DECF6210#^s-86ae68ae2377c87201301f0f|Lietuvos Respublikos valstybės skolos įstatymas]] - VALSTYBĖS SKOLOS ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS

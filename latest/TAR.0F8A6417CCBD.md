@@ -45,13 +45,13 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 „14 straipsnis. Muitinės įstaigų veikla
 
 
-1. Muitinės įstaigos atlieka į Europos Bendriją per Lietuvos Respubliką iš trečiųjų šalių, kaip jos apibrėžtos [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatyme]] (toliau – trečiosios šalys), įvežamų ir iš Europos Bendrijos per Lietuvos Respubliką į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę vadovaudamosi 2005 m. spalio 26 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1889/2005 nuostatomis. ^s-99d18103e1849015a695ce78
+1. Muitinės įstaigos atlieka į Europos Bendriją per Lietuvos Respubliką iš trečiųjų šalių, kaip jos apibrėžtos [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatyme]] (toliau – [[latest/TAR.2294490FE9DD|trečiosios šalys]]), įvežamų ir iš Europos Bendrijos per Lietuvos Respubliką į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę vadovaudamosi 2005 m. spalio 26 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1889/2005](https://eur-lex.europa.eu/eli/reg/1889/2005/oj) nuostatomis. ^s-99d18103e1849015a695ce78
 
 
 2. [[#^s-99d18103e1849015a695ce78|Šio straipsnio 1 dalyje]] nurodytame reglamente nustatytais atvejais, kai Europos Sąjungos valstybėms narėms suteikta sprendimo priėmimo teisė, sprendimus priima ir atitinkamų reglamento nuostatų taikymo Lietuvos Respublikoje tvarką nustato Vyriausybė arba jos įgaliota institucija, išskyrus atvejus, kai šis arba kiti įstatymai nustato kitaip. ^s-b43ba3cc7e614c237c666b6e
 
 
-3. Muitinės įstaigos privalo nedelsdamos, ne vėliau kaip per 7 darbo dienas, pranešti Finansinių nusikaltimų tyrimo tarnybai, jeigu asmuo įveža iš trečiųjų šalių į Europos Bendriją per Lietuvos Respubliką ar išveža iš Europos Bendrijos per Lietuvos Respubliką į trečiąsias šalis grynųjų pinigų vienkartinę sumą, kurios vertė yra ne mažesnė kaip nurodyta 2005 m. spalio 26 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1889/2005 3 straipsnio 1 dalyje.“ ^s-a74124e9c786ca3e2c9a04a5
+3. Muitinės įstaigos privalo nedelsdamos, ne vėliau kaip per 7 darbo dienas, pranešti Finansinių nusikaltimų tyrimo tarnybai, jeigu asmuo įveža iš trečiųjų šalių į Europos Bendriją per Lietuvos Respubliką ar išveža iš Europos Bendrijos per Lietuvos Respubliką į trečiąsias šalis grynųjų pinigų vienkartinę sumą, kurios vertė yra ne mažesnė kaip nurodyta 2005 m. spalio 26 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1889/2005 3 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/1889/2005/art_3/par_1/oj).“ ^s-a74124e9c786ca3e2c9a04a5
 
 
 
@@ -61,7 +61,7 @@ Pakeisti 14 straipsnį ir jį išdėstyti taip:
 Papildyti Įstatymo priedą 3 punktu:
 
 
-„3. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1889/2005 dėl grynųjų pinigų, įvežamų į Bendriją ar išvežamų iš jos, kontrolės (OL 2005 L 309, p. 9).“
+„3. 2005 m. spalio 26 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1889/2005](https://eur-lex.europa.eu/eli/reg/1889/2005/oj) dėl grynųjų pinigų, įvežamų į Bendriją ar išvežamų iš jos, kontrolės (OL 2005 L 309, p. 9).“
 
 
 

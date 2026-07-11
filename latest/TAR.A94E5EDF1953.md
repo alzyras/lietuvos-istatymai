@@ -103,7 +103,7 @@ Pakeisti 31 straipsnio 1 dalies 15 punktą ir jį išdėstyti taip:
 ### 5 straipsnis. Įstatymo taikymas ^s-787b6bdb580b32c4ddc41ca8
 
 
-Šio įstatymo 1, 3 ir [[#^s-4eab453edc06f8ca8a020503|4 straipsnių]] nuostatos taikomos apskaičiuojant 2005 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
+Šio įstatymo [[#^s-583bc6ea2f4d7f81811d8eaa|1]], [[#^s-4d1ce50558908d1db635af04|3]] ir [[#^s-4eab453edc06f8ca8a020503|4]] straipsnių nuostatos taikomos apskaičiuojant 2005 metais prasidėjusio mokestinio laikotarpio ir vėlesnių mokestinių laikotarpių apmokestinamąjį pelną.
 
 
 

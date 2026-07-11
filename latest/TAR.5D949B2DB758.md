@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-b8fc9e9197e3a4afeab77ded
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. vasario 25 d. dekretą Nr. 1681, ratifikuoja Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir apsaugos, pasirašytą 1999 m. kovo 5 d. Minske.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. vasario 25 d. dekretą Nr. 1681](https://e-tar.lt/portal/lt/legalAct/TAR.056A0000F8E5), ratifikuoja Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir apsaugos, pasirašytą 1999 m. kovo 5 d. Minske.
 
 
 

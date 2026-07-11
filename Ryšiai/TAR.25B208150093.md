@@ -9,10 +9,9 @@ pavadinimas: "Lietuvos Respublikos pelno mokesčio įstatymo 2, 4, 5, 26, 41, 43
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - Mokesčių administravimo įstatymo
-- [[latest/TAR.103565D95E60|Lietuvos Respublikos profesinių pensijų kaupimo įstatymas]] - 2 citatos - Profesinių pensijų kaupimo įstatymo
+- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Mokesčių administravimo įstatymo
+- [[latest/TAR.103565D95E60|Lietuvos Respublikos profesinių pensijų kaupimo įstatymas]] - Profesinių pensijų kaupimo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A5ACBDA529A9#^s-a9c33572dd44433d27a8eea5|Lietuvos Respublikos pelno mokesčio įstatymas]] - 2 citatos - PELNO MOKESČIO ĮSTATYMO 2, 4, 5, 26, 41, 43, 54 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.A5ACBDA529A9#^s-ce53f8ba0b5c21ffbcce4b33|Lietuvos Respublikos pelno mokesčio įstatymas]] - 2 citatos - PELNO MOKESČIO ĮSTATYMO 2, 4, 5, 26, 41, 43, 54 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.A5ACBDA529A9#^s-a9c33572dd44433d27a8eea5|Lietuvos Respublikos pelno mokesčio įstatymas]] - PELNO MOKESČIO ĮSTATYMO 2, 4, 5, 26, 41, 43, 54 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

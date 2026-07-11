@@ -45,7 +45,7 @@ Vilnius
 „[[#^s-eb215a9b177872bcddde8d8d|3 straipsnis]]. Valstybinių socialinio draudimo pensijų skyrimo sąlygos
 
 
-Pagal šį įstatymą valstybinės socialinio draudimo pensijos skiriamos asmenims, nurodytiems 1 ir [[#^s-6cfc458ba0558082b162e45b|2 straipsniuose]], jeigu jie atitinka šio įstatymo nustatytus valstybinio socialinio pensijų draudimo stažo reikalavimus atitinkamai pensijos rūšiai skirti ir sukanka šio įstatymo nustatytą amžių, pripažįstami invalidais, o tokiems asmenims mirus – jų šeimos nariams.“
+Pagal šį įstatymą valstybinės socialinio draudimo pensijos skiriamos asmenims, nurodytiems 1 ir [[#^s-6cfc458ba0558082b162e45b|2]] straipsniuose, jeigu jie atitinka šio įstatymo nustatytus valstybinio socialinio pensijų draudimo stažo reikalavimus atitinkamai pensijos rūšiai skirti ir sukanka šio įstatymo nustatytą amžių, pripažįstami invalidais, o tokiems asmenims mirus – jų šeimos nariams.“
 
 
 
@@ -143,7 +143,7 @@ Pakeisti 39 straipsnio 1 dalį ir ją išdėstyti taip:
 56 straipsnio 1 dalies antrame sakinyje po žodžių „šio įstatymo“ įrašyti žodžius „ir Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo“ ir šią dalį išdėstyti taip:
 
 
-„Asmenims, kuriems iki šio įstatymo įsigaliojimo nebuvo paskirta valstybinė socialinio draudimo senatvės ar ištarnauto laiko pensija, Lietuvos Respublikos ar personalinė pensija arba po šio įstatymo įsigaliojimo – kitų teisės aktų nustatyta nuolatinė kompensacinė išmoka už ypatingas darbo sąlygas ir kurie dirbo šiame straipsnyje nustatytomis ypatingomis sąlygomis, suteikiama teisė gauti kas mėnesį mokamas kompensacijas. Teisė gauti valstybinę socialinio draudimo pensiją tokiems asmenims suteikiama bendra šio įstatymo ir Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo nustatyta tvarka.“
+„Asmenims, kuriems iki šio įstatymo įsigaliojimo nebuvo paskirta valstybinė socialinio draudimo senatvės ar ištarnauto laiko pensija, Lietuvos Respublikos ar personalinė pensija arba po šio įstatymo įsigaliojimo – kitų teisės aktų nustatyta nuolatinė kompensacinė išmoka už ypatingas darbo sąlygas ir kurie dirbo šiame straipsnyje nustatytomis ypatingomis sąlygomis, suteikiama teisė gauti kas mėnesį mokamas kompensacijas. Teisė gauti valstybinę socialinio draudimo pensiją tokiems asmenims suteikiama bendra šio įstatymo ir [Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900) nustatyta tvarka.“
 
 
 

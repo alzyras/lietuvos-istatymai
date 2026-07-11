@@ -61,7 +61,7 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 2. Vykdydamas baudos bausmę savanoriškai, asmuo baudą sumoka į Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos sąskaitą ne vėliau kaip per du mėnesius nuo nuosprendžio įsiteisėjimo dienos ar per kitą teismo nustatytą terminą. ^s-136101ee7aa2457a95f2f0f2
 
 
-3. Jeigu asmuo savanoriškai nesumoka visos baudos, Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] nustatyta tvarka ir antstoliai Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka išieško baudą priverstinai.“ ^s-bc86b7f3b7faf9961c645f0d
+3. Jeigu asmuo savanoriškai nesumoka visos baudos, Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] nustatyta tvarka ir antstoliai [Lietuvos Respublikos civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka išieško baudą priverstinai.“ ^s-bc86b7f3b7faf9961c645f0d
 
 
 ### 3 straipsnis. 7 ir 8 straipsnių pripažinimas netekusiais galios ^s-e2700c6810c6651197887341
@@ -97,7 +97,7 @@ APSKUNDIMAS
 3. Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos veiksmai ir jos priimti sprendimai vykdant baudos bausmę skundžiami [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka. ^s-878c3c560ed6fed8c6c76ded
 
 
-4. Antstolių veiksmai ir sprendimai vykdant baudos, juridinio asmens veiklos apribojimo ir juridinio asmens likvidavimo bausmes skundžiami antstolio veiklos teritorijos apylinkės teismui, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, kurių veiklos teritorijoje yra antstolio kontoros buveinė, teisėjui Civilinio proceso kodekso nustatyta tvarka. ^s-36c42c98d3afc9f507c23a80
+4. Antstolių veiksmai ir sprendimai vykdant baudos, juridinio asmens veiklos apribojimo ir juridinio asmens likvidavimo bausmes skundžiami antstolio veiklos teritorijos apylinkės teismui, o kai teismas sudarytas iš teismo rūmų, – teismo rūmų, kurių veiklos teritorijoje yra antstolio kontoros buveinė, teisėjui [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-36c42c98d3afc9f507c23a80
 
 
 5. Lietuvos Respublikos įstatymų nustatytais atvejais ir tvarka bausmių vykdymo sistemos pareigūnų, Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos, taip pat antstolių veiksmai ir sprendimai gali būti skundžiami Seimo kontrolieriams arba kitoms valstybės institucijoms.“ ^s-38947bcf9a41ef512eb5d077

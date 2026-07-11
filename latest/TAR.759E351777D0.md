@@ -100,7 +100,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 10. Naudojimas – veikla, kurios metu genetiškai modifikuoti mikroorganizmai ar organizmai dauginami, auginami ar kitaip ribotai naudojami ir (ar) genetiškai modifikuoti organizmai ar jų kombinacija, kaip atskiri produktai ar esantys kituose produktuose, gaminami ir tiekiami rinkai, apgalvotai išleidžiami į aplinką, importuojami, eksportuojami, taip pat atliekami bandymai bei mokslinio tyrimo darbai. ^s-6768818163b1512ea6ba2c6a
 
 
-11. Nelaimingas atsitikimas – bet koks įvykis, susijęs su gausiu ir nenumatytu genetiškai modifikuoto mikroorganizmo ar organizmo išleidimu į aplinką jų riboto naudojimo metu, galintis kelti tiesioginį ar uždelstą pavojų žmonių sveikatai ar aplinkai. ^s-9bbe29735384394a740ce305
+11. Nelaimingas atsitikimas – bet koks įvykis, susijęs su gausiu ir nenumatytu genetiškai modifikuoto mikroorganizmo ar organizmo išleidimu į aplinką jų [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) metu, galintis kelti tiesioginį ar uždelstą pavojų žmonių sveikatai ar aplinkai. ^s-9bbe29735384394a740ce305
 
 
 12. Organizmas – bet kuris biologinis vienetas, galintis daugintis ir (ar) perduoti savo genetinę medžiagą. ^s-a26b6a7ca872fb03d6859c51
@@ -125,7 +125,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 1. Pakeisti 4 straipsnio 4 punktą ir jį išdėstyti taip: ^s-6382e1875b6be56a6b2e3843
 
 
-„4) išduoda leidimus veiklai, kurios metu yra ribotai naudojami genetiškai modifikuoti mikroorganizmai ar organizmai ir apgalvotai išleidžiami į aplinką genetiškai modifikuoti organizmai ne tiekimo rinkai tikslais, ir sutikimus veiklai apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus tiekimo rinkai tikslais, jei toks genetiškai modifikuoto organizmo tiekimas rinkai neįteisintas Europos Sąjungoje; nutraukia, sustabdo, pratęsia, apriboja, pakeičia išleidimo į aplinką ar riboto naudojimo sąlygas ir panaikina šių leidimų ar sutikimų galiojimą šios ministerijos nustatyta tvarka;“.
+„4) išduoda leidimus veiklai, kurios metu yra ribotai naudojami genetiškai modifikuoti mikroorganizmai ar organizmai ir apgalvotai išleidžiami į aplinką genetiškai modifikuoti organizmai ne tiekimo rinkai tikslais, ir sutikimus veiklai apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus tiekimo rinkai tikslais, jei toks genetiškai modifikuoto organizmo tiekimas rinkai neįteisintas Europos Sąjungoje; nutraukia, sustabdo, pratęsia, apriboja, pakeičia išleidimo į aplinką ar [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) sąlygas ir panaikina šių leidimų ar sutikimų galiojimą šios ministerijos nustatyta tvarka;“.
 
 
 2. Pakeisti 4 straipsnio 6 punktą ir jį išdėstyti taip: ^s-a96d284ad4c9045158e62826
@@ -191,7 +191,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 2. GMO ekspertų komitetas organizuoja genetiškai modifikuotų organizmų ekspertų veiklą Lietuvos Respublikoje. ^s-097cce9a1fc1a2bbd58c160c
 
 
-3. GMO ekspertų komitetas atlieka rizikos aplinkai vertinimą ir rengia išvadas bei pasiūlymus dėl genetiškai modifikuotų mikroorganizmų arba organizmų riboto naudojimo, genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką bei jų, kaip produktų ar esančių kituose produktuose, tiekimo rinkai. ^s-f96fdfea7a80cb77a27971b5
+3. GMO ekspertų komitetas atlieka rizikos aplinkai vertinimą ir rengia išvadas bei pasiūlymus dėl genetiškai modifikuotų mikroorganizmų arba organizmų [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką bei jų, kaip produktų ar esančių kituose produktuose, tiekimo rinkai. ^s-f96fdfea7a80cb77a27971b5
 
 
 4. Atlieka kitas teisės aktais nustatytas funkcijas.“ ^s-b7e57b2b7d6b538d97028bb2
@@ -245,13 +245,13 @@ Pakeisti [[#^s-9e45d71c953b413c72f27b76|9 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-9e45d71c953b413c72f27b76|9 straipsnis]]. Leidimai ir sutikimai veiklai, kurios metu yra naudojami genetiškai modifikuoti organizmai ir genetiškai modifikuoti mikroorganizmai
 
 
-1. Lietuvos Respublikoje verstis veikla, kurios metu genetiškai modifikuoti organizmai apgalvotai išleidžiami į aplinką ne tiekimo rinkai tikslais ir (ar) ribotai naudojami genetiškai modifikuoti mikroorganizmai arba organizmai, gali fiziniai ir juridiniai asmenys, gavę leidimą apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus ir (ar) ribotai naudoti genetiškai modifikuotus mikroorganizmus arba organizmus Aplinkos ministerijos nustatyta tvarka, kuri taip pat nustato riboto naudojimo veikloje naudojamas specialias ribojimo priemones. ^s-f0a9fdc253c2566312c85bd1
+1. Lietuvos Respublikoje verstis veikla, kurios metu genetiškai modifikuoti organizmai apgalvotai išleidžiami į aplinką ne tiekimo rinkai tikslais ir (ar) ribotai naudojami genetiškai modifikuoti mikroorganizmai arba organizmai, gali fiziniai ir juridiniai asmenys, gavę leidimą apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus ir (ar) ribotai naudoti genetiškai modifikuotus mikroorganizmus arba organizmus Aplinkos ministerijos nustatyta tvarka, kuri taip pat nustato [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) veikloje naudojamas specialias ribojimo priemones. ^s-f0a9fdc253c2566312c85bd1
 
 
 2. Tiekimo rinkai tikslais apgalvotai išleisti į aplinką genetiškai modifikuotus organizmus, kurių naudojimas neįteisintas Europos Sąjungoje, gali fiziniai ar juridiniai asmenys, teisės aktų nustatyta tvarka gavę sutikimą. ^s-3bdd7465d9b4e297e3b21742
 
 
-3. Šio straipsnio 1 ir [[#^s-3bdd7465d9b4e297e3b21742|2 dalyse]] numatytus leidimus ir sutikimus fiziniams ir juridiniams asmenims išduoda Aplinkos ministerija šios ministerijos nustatyta tvarka. ^s-3da8d981741a78bb2d6f7abc
+3. Šio straipsnio [[#^s-f0a9fdc253c2566312c85bd1|1]] ir [[#^s-3bdd7465d9b4e297e3b21742|2]] dalyse numatytus leidimus ir sutikimus fiziniams ir juridiniams asmenims išduoda Aplinkos ministerija šios ministerijos nustatyta tvarka. ^s-3da8d981741a78bb2d6f7abc
 
 
 4. Aplinkos ministerija, remdamasi nauja ar papildoma informacija, galinčia paveikti rizikos aplinkai įvertinimą arba pakartotinį turimos informacijos įvertinimą, taip pat naujomis ar papildomomis mokslo žiniomis, turi svarbių priežasčių manyti, kad genetiškai modifikuotas organizmas, kaip atskiras produktas ar esantis kitame produkte, kurio naudojimas įteisintas Europos Sąjungoje, kelia riziką žmonių sveikatai ar aplinkai, gali priimti sprendimą laikinai apriboti arba uždrausti tokio genetiškai modifikuoto organizmo, kaip atskiro produkto ar esančio kitame produkte, naudojimą ir (arba) pardavimą Lietuvos Respublikoje. ^s-f0486574024d7c1128f28d88
@@ -310,7 +310,7 @@ priedas
 1. 1990 m. balandžio 23 d. Tarybos direktyva 90/219/EEB dėl riboto genetiškai modifikuotų mikroorganizmų naudojimo (OL 2004 m. specialusis leidimas, 15 skyrius, 1 tomas, p. 381 (su paskutiniais pakeitimais, padarytais 1998 m. spalio 26 d. Tarybos direktyva 98/81/EB, OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 71). ^s-b84d8d774e800fe4095442c6
 
 
-2. 2001 m. kovo 12 d. Europos Parlamento ir Tarybos direktyva 2001/18/EB dėl genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką ir panaikinanti Tarybos direktyvą 90/220/EEB (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 77 (su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos Reglamentu (EB) Nr. 1830/2003, OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 455).“ ^s-0691e7aae160fd37b8536df8
+2. 2001 m. kovo 12 d. Europos Parlamento ir Tarybos direktyva 2001/18/EB dėl genetiškai modifikuotų organizmų apgalvoto išleidimo į aplinką ir panaikinanti Tarybos direktyvą 90/220/EEB (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 77 (su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [Reglamentu (EB) Nr. 1830/2003](https://eur-lex.europa.eu/eli/reg/1830/2003/oj), OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 455).“ ^s-0691e7aae160fd37b8536df8
 
 
 

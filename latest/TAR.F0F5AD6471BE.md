@@ -74,7 +74,7 @@ Vilnius
 „44. Statinio projekto vadovas – architektas ar statybos inžinierius, kuris, atstovaudamas statytojo interesams, normatyvinių statybos techninių dokumentų nustatyta tvarka organizuoja statinio projekto rengimą, koordinuoja statinio projekto dalių sprendinius bei statinio projekto dalių vadovų veiklą, prižiūri ir atsako, kad statinio projekte būtų įgyvendinti įstatymų, kitų teisės aktų, normatyvinių statybos techninių dokumentų ir normatyvinių statinio saugos ir paskirties dokumentų, privalomųjų statinio projekto rengimo dokumentų reikalavimai.“
 
 
-4. Pakeisti [[#^s-4161d941980350e35bcc3576|2 straipsnio]] 45, 46, 47, 48 ir [[#^s-4e6d80263a7759d1358eab2e|49 dalis]] ir jas išdėstyti taip: ^s-a7449d36c7ca201c2c8b4a12
+4. Pakeisti [[#^s-4161d941980350e35bcc3576|2 straipsnio]] 45, 46, 47, 48 ir 49 dalis ir jas išdėstyti taip: ^s-a7449d36c7ca201c2c8b4a12
 
 
 „45. Statinio architektas – architektas, kuris yra konkretaus statinio, kaip architektūros kūrinio, autorius ir (arba) statinio projekto architektūrinės dalies vadovas. Statinio architektu gali būti ir fizinių asmenų grupė.
@@ -116,7 +116,7 @@ Vilnius
 „53. Tiekėjas – fizinis asmuo, juridinis asmuo, kita užsienio organizacija, kuris (kuri) yra statybos produktų gamintojas (jo atstovas), platintojas, importuotojas, paslaugų organizatorius ir pan.“
 
 
-9. Papildyti [[#^s-4161d941980350e35bcc3576|2 straipsnį]] 79, 80, 81, 82, 83, [[#^s-2a1894398bd16f0e2036e058|84 dalimis]]: ^s-dbf50e22526305b7ee3ccd0d
+9. Papildyti [[#^s-4161d941980350e35bcc3576|2 straipsnį]] 79, 80, 81, 82, 83, 84 dalimis: ^s-dbf50e22526305b7ee3ccd0d
 
 
 „79. Architektūra – funkcinis erdvinis ir vizualiai suvokiamas meninis statinių, kraštovaizdžio ir teritorijų planavimo objektų formavimas.
@@ -185,13 +185,13 @@ Papildyti [[#^s-7f2eb25f38b9460657b08840|9 straipsnį 2 dalimi]] ir visą straip
 2. Papildyti [[#^s-02fbcd3d3a9ec937ec14c0fe|10 straipsnį]] nauja [[#^s-52541e2bf405ce5d71d33f5a|3 dalimi]]: ^s-28b206d5effb633b594f5dfb
 
 
-„3. Eiti ypatingų statinių statybos techninės veiklos pagrindinių sričių vadovų pareigas, nurodytas [[#^s-28b206d5effb633b594f5dfb|šio straipsnio 2 dalyje]], turi teisę tik atestuoti architektai ir statybos inžinieriai. Atestavimo tvarką nustato Vyriausybės įgaliota institucija.“
+„3. Eiti ypatingų statinių statybos techninės veiklos pagrindinių sričių vadovų pareigas, nurodytas šio straipsnio 2 dalyje, turi teisę tik atestuoti architektai ir statybos inžinieriai. Atestavimo tvarką nustato Vyriausybės įgaliota institucija.“
 
 
 3. Pakeisti 10 straipsnio 4 dalį ir ją išdėstyti taip: ^s-52541e2bf405ce5d71d33f5a
 
 
-„4. [[#^s-52541e2bf405ce5d71d33f5a|Šio straipsnio 3 dalies]] reikalavimai netaikomi Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, piliečiams, jeigu jie pagal šios valstybės teisės aktus turi teisę eiti šių vadovų pareigas, pateikę šią teisę patvirtinančius dokumentus, kurie Vyriausybės įgaliotos institucijos nustatyta tvarka Lietuvos Respublikoje pripažįstami 1961 m. spalio 5 d. Hagoje sudarytos Konvencijos dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo pagrindu, o valstybėse, kurios šios Konvencijos nėra pasirašiusios, – kitų tarptautinių ar tarpvalstybinių sutarčių pagrindu.“
+„4. Šio straipsnio 3 dalies reikalavimai netaikomi Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, piliečiams, jeigu jie pagal šios valstybės teisės aktus turi teisę eiti šių vadovų pareigas, pateikę šią teisę patvirtinančius dokumentus, kurie Vyriausybės įgaliotos institucijos nustatyta tvarka Lietuvos Respublikoje pripažįstami 1961 m. spalio 5 d. Hagoje sudarytos Konvencijos dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo pagrindu, o valstybėse, kurios šios Konvencijos nėra pasirašiusios, – kitų tarptautinių ar tarpvalstybinių sutarčių pagrindu.“
 
 
 4. Buvusioje [[#^s-f8497080228eed0144fcffec|10 straipsnio 3 dalyje]] vietoj žodžių „šis įstatymas bei Vyriausybės įgaliotos institucijos patvirtinti šių vadovų kvalifikaciniai reikalavimai“ įrašyti žodžius „Vyriausybės įgaliota institucija“, šią dalį laikyti [[#^s-fbd970ac7fd4663061462231|5 dalimi]] ir išdėstyti taip: ^s-fff41a1a90ac067a486a63cc
@@ -200,7 +200,7 @@ Papildyti [[#^s-7f2eb25f38b9460657b08840|9 straipsnį 2 dalimi]] ir visą straip
 „5. Statybos techninės veiklos pagrindinių sričių vadovų pareigas ir teises nustato Vyriausybės įgaliota institucija.“
 
 
-5. Papildyti [[#^s-02fbcd3d3a9ec937ec14c0fe|10 straipsnį]] naujomis 6 ir [[#^s-fd13e2f9ace4a2394d991645|7 dalimis]]: ^s-fbd970ac7fd4663061462231
+5. Papildyti [[#^s-02fbcd3d3a9ec937ec14c0fe|10 straipsnį]] naujomis 6 ir 7 dalimis: ^s-fbd970ac7fd4663061462231
 
 
 „6. Architekto diplomų, pažymėjimų ir kitų oficialią kvalifikaciją patvirtinančių dokumentų, įgytų Europos Sąjungos valstybėje narėje, Šveicarijos Konfederacijoje arba valstybėje, pasirašiusioje Europos ekonominės erdvės sutartį, taip pat bet kurioje kitoje valstybėje pripažinimo, įskaitant priemones, padedančias veiksmingai naudotis įsisteigimo teise ir laisve teikti paslaugas, Lietuvos Respublikoje taisykles tvirtina Vyriausybės įgaliota institucija.
@@ -209,7 +209,7 @@ Papildyti [[#^s-7f2eb25f38b9460657b08840|9 straipsnį 2 dalimi]] ir visą straip
 7. Statybos inžinieriaus diplomų, pažymėjimų ir kitų oficialią kvalifikaciją patvirtinančių dokumentų, įgytų Europos Sąjungos valstybėje narėje, Šveicarijos Konfederacijoje arba valstybėje, pasirašiusioje Europos ekonominės erdvės sutartį, taip pat bet kurioje kitoje valstybėje pripažinimo, įskaitant priemones, padedančias veiksmingai naudotis įsisteigimo teise ir laisve teikti paslaugas, Lietuvos Respublikoje taisykles tvirtina Vyriausybės įgaliota institucija.“ ^s-fd13e2f9ace4a2394d991645
 
 
-6. Buvusias [[#^s-02fbcd3d3a9ec937ec14c0fe|10 straipsnio]] 5, 6 ir [[#^s-fd13e2f9ace4a2394d991645|7 dalis]] laikyti atitinkamai 8, 9 ir 10 dalimis. ^s-96fa9bb67963494010275f5e
+6. Buvusias [[#^s-02fbcd3d3a9ec937ec14c0fe|10 straipsnio]] [[#^s-7a3214160b15c9d1ddd933e0|5]], 6 ir 7 dalis laikyti atitinkamai 8, 9 ir 10 dalimis. ^s-96fa9bb67963494010275f5e
 
 
 
@@ -272,10 +272,10 @@ Pakeisti [[#^s-497531ed9792b5a11a9bee6b|13 straipsnio 1 dalį]] ir ją išdėsty
 „2. Rengti ypatingų statinių projektus turi teisę [[#^s-6247a40eb7ae64d9d64fe789|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodyti fiziniai asmenys, juridiniai asmenys, kitos užsienio organizacijos, gavę Vyriausybės įgaliotos institucijos šios veiklos atestatą. Šis reikalavimas netaikomas Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, juridiniams asmenims ar kitoms užsienio organizacijoms (šių valstybių), jeigu jie pagal šios valstybės teisės aktus turi teisę savo šalyje užsiimti analogiškų statinių projektavimo veikla, pateikę šią teisę patvirtinančius dokumentus, kurie Vyriausybės įgaliotos institucijos nustatyta tvarka Lietuvos Respublikoje pripažįstami 1961 m. spalio 5 d. Hagoje sudarytos Konvencijos dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo pagrindu, o valstybėse, kurios šios Konvencijos nėra pasirašiusios, – kitų tarptautinių ar tarpvalstybinių sutarčių pagrindu. Teisė projektuoti branduolinės energetikos objektus suteikiama [[latest/TAR.6286F15970B3|Branduolinės energijos įstatymo]] nustatyta tvarka.“
 
 
-3. Papildyti [[#^s-3641552adf494957f5b358e3|14 straipsnį]] naujomis 3 ir 4 dalimis: ^s-ea9cd962472f86fee23c28b6
+3. Papildyti [[#^s-3641552adf494957f5b358e3|14 straipsnį]] naujomis [[#^s-a11fa89c5371c0e3d69739e9|3]] ir 4 dalimis: ^s-ea9cd962472f86fee23c28b6
 
 
-„3. Vadovauti ypatingų statinių projektams (eiti statinio projekto ir statinio projekto dalių vadovų pareigas) turi teisę architektai ir statybos inžinieriai, atitinkantys šio įstatymo [[#^s-02fbcd3d3a9ec937ec14c0fe|10 straipsnio]] 3 ir 4 dalių nustatytus reikalavimus.
+„3. Vadovauti ypatingų statinių projektams (eiti statinio projekto ir statinio projekto dalių vadovų pareigas) turi teisę architektai ir statybos inžinieriai, atitinkantys šio įstatymo [[#^s-02fbcd3d3a9ec937ec14c0fe|10 straipsnio]] [[#^s-f8497080228eed0144fcffec|3]] ir 4 dalių nustatytus reikalavimus.
 
 
 4. Ypatingo statinio projektą rengiantys fiziniai asmenys, juridiniai asmenys, kitos užsienio organizacijos, nurodyti [[#^s-36607c43fefedf6f0f9907da|14 straipsnio 2 dalyje]], atestuojami Vyriausybės įgaliotos institucijos nustatyta tvarka ir pagal jos nustatytus reikalavimus.“ ^s-23b9b5ee68083bf531b0406f
@@ -294,7 +294,7 @@ Pakeisti [[#^s-497531ed9792b5a11a9bee6b|13 straipsnio 1 dalį]] ir ją išdėsty
 ### 10 straipsnis. 15 straipsnio pakeitimas ir papildymas ^s-02fbcd3d3a9ec937ec14c0fe
 
 
-1. 15 straipsnio 1 dalyje po žodžio „rangovu“ įrašyti žodžius „Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka“, pakeisti [[#^s-f03636e4398c0102ca8724d8|1 punktą]], [[#^s-f8ca2409bc1c100f0d985ff2|2 punktą]] pripažinti netekusiu galios, pakeisti [[#^s-1a82ac5a6f50dafc44bc9a7d|3 punktą]] ir jį laikyti [[#^s-f8ca2409bc1c100f0d985ff2|2 punktu]], papildyti [[#^s-bbeffed54e2d868807266964|1 dalį]] nauju [[#^s-1a82ac5a6f50dafc44bc9a7d|3 punktu]] ir visą dalį išdėstyti taip: ^s-bbeffed54e2d868807266964
+1. 15 straipsnio 1 dalyje po žodžio „rangovu“ įrašyti žodžius „Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka“, pakeisti [[#^s-f03636e4398c0102ca8724d8|1 punktą]], [[#^s-f8ca2409bc1c100f0d985ff2|2 punktą]] pripažinti netekusiu galios, pakeisti [[#^s-1a82ac5a6f50dafc44bc9a7d|3 punktą]] ir jį laikyti [[#^s-f8ca2409bc1c100f0d985ff2|2 punktu]], papildyti 1 dalį nauju [[#^s-1a82ac5a6f50dafc44bc9a7d|3 punktu]] ir visą dalį išdėstyti taip: ^s-bbeffed54e2d868807266964
 
 
 „1. Būti rangovu Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka turi teisę:
@@ -315,7 +315,7 @@ Pakeisti [[#^s-497531ed9792b5a11a9bee6b|13 straipsnio 1 dalį]] ir ją išdėsty
 „2. Vykdyti ypatingų statinių statybą turi teisę [[#^s-bbeffed54e2d868807266964|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodyti fiziniai asmenys, juridiniai asmenys, kitos užsienio organizacijos, gavę Vyriausybės įgaliotos institucijos šios veiklos atestatą ypatingiems statiniams statyti. Šis reikalavimas netaikomas Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, juridiniams asmenims ar kitoms užsienio organizacijoms (šių valstybių), jeigu jie pagal šios valstybės teisės aktus turi teisę savo šalyje užsiimti analogiškų statinių statybos veikla, pateikę šią teisę patvirtinančius dokumentus, kurie Vyriausybės įgaliotos institucijos nustatyta tvarka Lietuvos Respublikoje pripažįstami 1961 m. spalio 5 d. Hagoje sudarytos Konvencijos dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo pagrindu, o valstybėse, kurios šios Konvencijos nėra pasirašiusios, – kitų tarptautinių ar tarpvalstybinių sutarčių pagrindu. Teisė statyti bei rekonstruoti branduolinės energetikos objektus suteikiama [[latest/TAR.6286F15970B3|Branduolinės energijos įstatymo]] nustatyta tvarka.“
 
 
-3. Papildyti [[#^s-efb166cef7e43fcc62931fe4|15 straipsnį]] naujomis 3 ir 4 dalimis: ^s-f8497080228eed0144fcffec
+3. Papildyti [[#^s-efb166cef7e43fcc62931fe4|15 straipsnį]] naujomis [[#^s-fe36989a44fd383881961b62|3]] ir [[#^s-b9cf7fd186ce45c6adfe90ea|4]] dalimis: ^s-f8497080228eed0144fcffec
 
 
 „3. Vadovauti ypatingų statinių statybai (eiti statinio statybos vadovo ir statinio specialiųjų darbų vadovo pareigas) turi teisę statybos inžinieriai, atitinkantys šio įstatymo [[#^s-02fbcd3d3a9ec937ec14c0fe|10 straipsnio]] 3 ir 4 dalyse nustatytus reikalavimus.
@@ -330,7 +330,7 @@ Pakeisti [[#^s-497531ed9792b5a11a9bee6b|13 straipsnio 1 dalį]] ir ją išdėsty
 „1) Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka paskirti (pasamdyti) statinio statybos vadovą;“.
 
 
-5. Buvusias [[#^s-efb166cef7e43fcc62931fe4|15 straipsnio]] 4, 5, 6 ir 7 dalis laikyti atitinkamai 6, 7, 8 ir 9 dalimis. ^s-7a3214160b15c9d1ddd933e0
+5. Buvusias [[#^s-efb166cef7e43fcc62931fe4|15 straipsnio]] [[#^s-b9cf7fd186ce45c6adfe90ea|4]], [[#^s-050b6af05b8f2a686368acf1|5]], 6 ir 7 dalis laikyti atitinkamai 6, 7, 8 ir 9 dalimis. ^s-7a3214160b15c9d1ddd933e0
 
 
 
@@ -408,23 +408,23 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 „2. Statybos produktų tiekėjas privalo tiekti saugius ir tinkamus naudoti pagal paskirtį statybos produktus. Produktas laikomas tinkamu naudoti, jeigu jis atitinka Produktų saugos įstatymo nustatytus reikalavimus.“
 
 
-3. Papildyti 18 straipsnį nauja [[#^s-b1f8b617e8f14ac32e26b1e4|3 dalimi]]: ^s-b1f8b617e8f14ac32e26b1e4
+3. Papildyti 18 straipsnį nauja 3 dalimi: ^s-b1f8b617e8f14ac32e26b1e4
 
 
 „3. Kiekvienas statybos produktas, įvežtas iš Europos Sąjungos valstybės narės arba iš valstybės, pasirašiusios Europos ekonominės erdvės sutartį, gali būti be apribojimų tiekiamas į Lietuvos Respublikos rinką, jeigu jis buvo pagamintas Europos Sąjungos valstybėje narėje ar valstybėje, pasirašiusioje Europos ekonominės erdvės sutartį, teisėtais būdais arba teisėtai importuotas į šias valstybes iš trečiųjų šalių ir jį leidžiama tiekti į rinką toje valstybėje. Laisvo statybos produkto judėjimo apribojimai pateisinami, jeigu neužtikrinamas lygiavertis jo apsaugos lygis arba visuomenės dorovės, viešosios tvarkos ar visuomenės saugumo, žmonių, gyvūnų ar augalų sveikatos bei gyvybės apsaugos, nacionalinių meno, istorijos ar archeologijos vertybių apsaugos bei pramoninės ir komercinės nuosavybės apsaugos sumetimais.“
 
 
-4. Buvusią 18 straipsnio 3 dalį pakeisti, laikyti ją [[#^s-31736ff4b3f359bfe16c3fd2|4 dalimi]] ir išdėstyti taip: ^s-31736ff4b3f359bfe16c3fd2
+4. Buvusią 18 straipsnio 3 dalį pakeisti, laikyti ją 4 dalimi ir išdėstyti taip: ^s-31736ff4b3f359bfe16c3fd2
 
 
 „4. Statybos produktų tiekėjas (gamintojas arba jo atstovas) turi atlikti atitikties įvertinimo veiksmus ir kartu su produktu pateikti tai įrodančius dokumentus ir techninę informaciją apie produkto paskirtį bei naudojimo ypatybes.
 
 
-5. Buvusią 18 straipsnio 4 dalį pakeisti, laikyti ją [[#^s-51446582fc503b1b66a337e1|5 dalimi]] ir išdėstyti taip: ^s-51446582fc503b1b66a337e1
+5. Buvusią 18 straipsnio 4 dalį pakeisti, laikyti ją 5 dalimi ir išdėstyti taip: ^s-51446582fc503b1b66a337e1
 „5. Statybos produktų tiekėjas gali tiekti į Lietuvos ir bendrą Europos Sąjungos rinką statybos produktus, atitinkančius šio straipsnio 2 ir 3 dalyje nurodytus reikalavimus ir paženklintus „CE“ ženklu ir (arba) kitais Vyriausybės įgaliotų institucijų nustatytais ženklais.“
 
 
-6. Buvusią 18 straipsnio 5 dalį laikyti [[#^s-5888d42188f0978dbe9ba701|6 dalimi]]. ^s-5888d42188f0978dbe9ba701
+6. Buvusią 18 straipsnio 5 dalį laikyti 6 dalimi. ^s-5888d42188f0978dbe9ba701
 
 
 7. Papildyti 18 straipsnį nauja 7 dalimi: ^s-ea96b91d7056812fb8ab59d1
@@ -440,7 +440,7 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 14 straipsnis. 29 straipsnio pakeitimas ir papildymas ^s-3641552adf494957f5b358e3
 
 
-1. 29 straipsnio 3 dalyje išbraukti sakinius „Lietuvos Respublikoje įregistruota įmonė, gavusi Vyriausybės įgaliotos institucijos nustatyta tvarka išduotą atestatą statinio projekto ekspertizei arba statinio ekspertizei atlikti. Atestate turi būti nurodyta statinio kategorija (iš nurodytų [[#^s-4e208a05f0d9713bd4200a12|šio straipsnio 1 dalyje]]). Užsienio ekspertizės įmonė turi teisę atlikti statinio projekto ekspertizę arba statinio ekspertizę, jeigu ji turi savo šalies išduotus atestavimo dokumentus, kurie Lietuvos Respublikoje pripažįstami Konvencijos dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo (sudarytos 1961 m. spalio 5 d. Hagoje) pagrindu“, papildyti dalį 1, 2 ir [[#^s-c648a94eb6fe388f06daf2bc|3 punktais]] ir visą dalį išdėstyti taip: ^s-4e208a05f0d9713bd4200a12
+1. 29 straipsnio 3 dalyje išbraukti sakinius „Lietuvos Respublikoje įregistruota įmonė, gavusi Vyriausybės įgaliotos institucijos nustatyta tvarka išduotą atestatą statinio projekto ekspertizei arba statinio ekspertizei atlikti. Atestate turi būti nurodyta statinio kategorija (iš nurodytų šio straipsnio 1 dalyje). Užsienio ekspertizės įmonė turi teisę atlikti statinio projekto ekspertizę arba statinio ekspertizę, jeigu ji turi savo šalies išduotus atestavimo dokumentus, kurie Lietuvos Respublikoje pripažįstami Konvencijos dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo (sudarytos 1961 m. spalio 5 d. Hagoje) pagrindu“, papildyti dalį [[#^s-f32c4e872123e8b0c51b27af|1]], [[#^s-f37175b567dd6e1f02658f40|2]] ir [[#^s-c648a94eb6fe388f06daf2bc|3]] punktais ir visą dalį išdėstyti taip: ^s-4e208a05f0d9713bd4200a12
 
 
 „3. Statinio projekto ekspertizę ir statinio ekspertizę turi teisę atlikti:
@@ -452,13 +452,13 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 2) užsienio valstybėje įsteigtas juridinis asmuo ar kita užsienio organizacija, gavę Vyriausybės įgaliotos institucijos atestatą atitinkamai veiklai (vienai ar abiem). Šis reikalavimas netaikomas Europos Sąjungos valstybės narės, Šveicarijos Konfederacijos arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, juridiniams asmenims, kurie pagal šios valstybės teisės aktus turi teisę savo šalyje užsiimti statinio projekto ekspertizės ar statinio ekspertizės veikla, pateikę šią teisę patvirtinančius dokumentus, kurie Vyriausybės įgaliotos institucijos nustatyta tvarka Lietuvos Respublikoje pripažįstami 1961 m. spalio 5 d. Hagoje sudarytos Konvencijos dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo pagrindu, o valstybėse, kurios šios Konvencijos nėra pasirašiusios, – kitų tarptautinių ar tarpvalstybinių sutarčių pagrindu; ^s-f37175b567dd6e1f02658f40
 
 
-3) architektas ar statybos inžinierius, turintis teisę eiti statinio projekto ekspertizės ar jos dalies vadovo, statinio ekspertizės ar jos dalies vadovo pareigas pagal šio įstatymo [[#^s-02fbcd3d3a9ec937ec14c0fe|10 straipsnio]] 3 ir 4 dalyse nustatytus reikalavimus.“ ^s-c648a94eb6fe388f06daf2bc
+3) architektas ar statybos inžinierius, turintis teisę eiti statinio projekto ekspertizės ar jos dalies vadovo, statinio ekspertizės ar jos dalies vadovo pareigas pagal šio įstatymo [[#^s-02fbcd3d3a9ec937ec14c0fe|10 straipsnio]] [[#^s-f8497080228eed0144fcffec|3]] ir 4 dalyse nustatytus reikalavimus.“ ^s-c648a94eb6fe388f06daf2bc
 
 
 2. Papildyti 29 straipsnį nauja 4 dalimi: ^s-36607c43fefedf6f0f9907da
 
 
-„4. Vadovauti šios dalies 1 ir 2 punktuose nurodytų fizinių asmenų, juridinių asmenų, kitų užsienio organizacijų atliekamai statinio projekto ir statinio ekspertizei (eiti statinio projekto ekspertizės vadovo, statinio projekto ekspertizės dalių vadovo, statinio ekspertizės vadovo pareigas) turi teisę architektai ir statybos inžinieriai, atitinkantys šio įstatymo [[#^s-02fbcd3d3a9ec937ec14c0fe|10 straipsnio]] 3 ir 4 dalyse nustatytus reikalavimus.“
+„4. Vadovauti šios dalies 1 ir 2 punktuose nurodytų fizinių asmenų, juridinių asmenų, kitų užsienio organizacijų atliekamai statinio projekto ir statinio ekspertizei (eiti statinio projekto ekspertizės vadovo, statinio projekto ekspertizės dalių vadovo, statinio ekspertizės vadovo pareigas) turi teisę architektai ir statybos inžinieriai, atitinkantys šio įstatymo [[#^s-02fbcd3d3a9ec937ec14c0fe|10 straipsnio]] [[#^s-f8497080228eed0144fcffec|3]] ir 4 dalyse nustatytus reikalavimus.“
 
 
 3. Buvusias 29 straipsnio 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis. ^s-a11fa89c5371c0e3d69739e9
@@ -471,7 +471,7 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 1. Įstatymo priede nurodytą įgyvendinamą Europos Sąjungos teisės aktą laikyti priedo [[#^s-b9cf7fd186ce45c6adfe90ea|4 dalimi]]. ^s-6c9c8fce4b59bd91d48312c3
 
 
-2. Papildyti Įstatymo priedą 1, 2, 3 ir [[#^s-050b6af05b8f2a686368acf1|5 dalimis]] ir visą priedą išdėstyti taip: ^s-2eb928e5431fd3dfa96cf4f8
+2. Papildyti Įstatymo priedą 1, 2, [[#^s-fe36989a44fd383881961b62|3]] ir [[#^s-050b6af05b8f2a686368acf1|5]] dalimis ir visą priedą išdėstyti taip: ^s-2eb928e5431fd3dfa96cf4f8
 
 
 

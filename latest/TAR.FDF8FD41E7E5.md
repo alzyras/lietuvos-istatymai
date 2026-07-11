@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimas ^s-621d6433ad769f8be43f30f6
 
 
-Pakeisti 1 straipsnyje nauja redakcija išdėstyto Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 5 straipsnio 1 dalies 4 punktą ir jį išdėstyti taip:
+Pakeisti 1 straipsnyje nauja redakcija išdėstyto [[latest/TAR.CA0F08EF687E|Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo 5 straipsnio 1 dalies 4 punktą]] ir jį išdėstyti taip:
 
 
 „4) nedarbo socialiniam draudimui – Fondo biudžeto išlaidos nedarbo socialinio draudimo išmokoms ir išlaidoms, numatytoms Nedarbo socialinio draudimo įstatyme;“.

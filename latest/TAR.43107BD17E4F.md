@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimo ratifikavimas ^s-3b7b25c3eae8c23d2e5e24f3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. lapkričio 25 d. dekretą Nr. 1981, ratifikuoja Jungtinių Tautų 1980 metų Konvencijos dėl tam tikrų įprastinių ginklų, kurie gali būti laikomi pernelyg žalojančiais arba veikia nesirinktinai, naudojimo uždraudimo arba apribojimo 1 straipsnio pakeitimą, patvirtintą 2001 m. gruodžio 21 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. lapkričio 25 d. dekretą Nr. 1981](https://e-tar.lt/portal/lt/legalAct/TAR.1AB2534FC1A2), ratifikuoja Jungtinių Tautų 1980 metų Konvencijos dėl tam tikrų įprastinių ginklų, kurie gali būti laikomi pernelyg žalojančiais arba veikia nesirinktinai, naudojimo uždraudimo arba apribojimo 1 straipsnio pakeitimą, patvirtintą 2001 m. gruodžio 21 d. Ženevoje.
 
 
 

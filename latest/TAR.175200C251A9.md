@@ -50,10 +50,10 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 1. Draudžiamųjų privalomuoju sveikatos draudimu registrą steigia ir jo nuostatus tvirtina Vyriausybė. ^s-1df1e08c1e294f6656be6720
 
 
-2. Draudžiamųjų privalomuoju sveikatos draudimu registro objektai yra privalomuoju sveikatos draudimu draudžiami asmenys, nurodyti šio Įstatymo [[#^s-055ea988969e8156395a9df2|6 straipsnio]] 1 ir [[#^s-c7068f290059f36447f5cae1|2 dalyse]]. ^s-c7068f290059f36447f5cae1
+2. Draudžiamųjų privalomuoju sveikatos draudimu registro objektai yra privalomuoju sveikatos draudimu draudžiami asmenys, nurodyti šio Įstatymo [[#^s-055ea988969e8156395a9df2|6 straipsnio]] [[#^s-5b10a3dc2bc1799917425add|1]] ir [[#^s-4e93a59cbc6d157bd1a05f63|2]] dalyse. ^s-c7068f290059f36447f5cae1
 
 
-3. Draudžiamųjų privalomuoju sveikatos draudimu registras tvarkomas ir jo duomenys teikiami vadovaujantis Valstybės registrų įstatymu, [[latest/TAR.C6E4170DB704|Pacientų teisių ir žalos sveikatai atlyginimo įstatymu]], šio registro nuostatais ir kitais teisės aktais. ^s-79793cc3b6f0778789335501
+3. Draudžiamųjų privalomuoju sveikatos draudimu registras tvarkomas ir jo duomenys teikiami vadovaujantis [Valstybės registrų įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296), [[latest/TAR.C6E4170DB704|Pacientų teisių ir žalos sveikatai atlyginimo įstatymu]], šio registro nuostatais ir kitais teisės aktais. ^s-79793cc3b6f0778789335501
 
 
 4. Draudžiamųjų privalomuoju sveikatos draudimu registro vadovaujančioji tvarkymo įstaiga yra Valstybinė ligonių kasa, o registro tvarkymo įstaigos – Valstybinė ligonių kasa ir teritorinės ligonių kasos. ^s-de4f98fac63cd6b64587d9a0
@@ -69,7 +69,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 1. Pakeisti 30 straipsnio 6 punktą ir jį išdėstyti taip: ^s-34d94bd4e672b2ca0484af8e
 
 
-„6) Valstybės registrų įstatymo, [[latest/TAR.C6E4170DB704|Pacientų teisių ir žalos sveikatai atlyginimo įstatymo]], Draudžiamųjų privalomuoju sveikatos draudimu registro nuostatų ir kitų teisės aktų nustatyta tvarka tvarko Draudžiamųjų privalomuoju sveikatos draudimu registrą;“.
+„6) [Valstybės registrų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296), [[latest/TAR.C6E4170DB704|Pacientų teisių ir žalos sveikatai atlyginimo įstatymo]], Draudžiamųjų privalomuoju sveikatos draudimu registro nuostatų ir kitų teisės aktų nustatyta tvarka tvarko Draudžiamųjų privalomuoju sveikatos draudimu registrą;“.
 
 
 2. Papildyti 30 straipsnį nauju 7 punktu: ^s-427812a652d7e4597edf8e56
@@ -101,7 +101,7 @@ Pakeisti 7 straipsnį ir jį išdėstyti taip:
 Pakeisti 33 straipsnio 3 punktą ir jį išdėstyti taip:
 
 
-„3) Valstybės registrų įstatymo, [[latest/TAR.C6E4170DB704|Pacientų teisių ir žalos sveikatai atlyginimo įstatymo]], Draudžiamųjų privalomuoju sveikatos draudimu registro nuostatų ir kitų teisės aktų nustatyta tvarka tvarko Draudžiamųjų privalomuoju sveikatos draudimu registrą;“.
+„3) [Valstybės registrų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296), [[latest/TAR.C6E4170DB704|Pacientų teisių ir žalos sveikatai atlyginimo įstatymo]], Draudžiamųjų privalomuoju sveikatos draudimu registro nuostatų ir kitų teisės aktų nustatyta tvarka tvarko Draudžiamųjų privalomuoju sveikatos draudimu registrą;“.
 
 
 

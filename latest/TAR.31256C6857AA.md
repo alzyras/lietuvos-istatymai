@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 3 straipsnio 15 dalies pakeitimas ir straipsnio papildymas naujomis 3, 8, 16 dalimis ^s-61a5a9d4279a5bf7b9c8889c
 
 
-Pakeisti 3 straipsnio 15 dalį ir ją laikyti [[#^s-0e950bfb3d121acbb85f7ab0|18 dalimi]], papildyti [[#^s-1c4e4ba9fe5977b3c1c478b1|3 straipsnį]] naujomis 3, 8, [[#^s-0c90f7d48315f7b995928df1|16 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 3 straipsnio 15 dalį ir ją laikyti [[#^s-0e950bfb3d121acbb85f7ab0|18 dalimi]], papildyti [[#^s-1c4e4ba9fe5977b3c1c478b1|3 straipsnį]] naujomis 3, 8, 16 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „1. Apdraustasis – kaip ši sąvoka apibrėžta [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatyme]].
@@ -48,10 +48,10 @@ Pakeisti 3 straipsnio 15 dalį ir ją laikyti [[#^s-0e950bfb3d121acbb85f7ab0|18 
 2. Apskaitos vienetas – kaip ši sąvoka apibrėžta [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatyme]]. ^s-835334129d0934e64937eeb2
 
 
-3. Dalyvavimas pensijų kaupime – valstybinio socialinio draudimo įmokos dalies kaupimas, kaip nustatyta Pensijų sistemos reformos įstatyme, šio Įstatymo nustatyta tvarka sudarius ir įregistravus pensijų kaupimo sutartį. ^s-b98a885c8796a0daf7a1bb3a
+3. Dalyvavimas pensijų kaupime – valstybinio socialinio draudimo įmokos dalies kaupimas, kaip nustatyta [Pensijų sistemos reformos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8), šio Įstatymo nustatyta tvarka sudarius ir įregistravus pensijų kaupimo sutartį. ^s-b98a885c8796a0daf7a1bb3a
 
 
-4. Dalyvis – kaip ši sąvoka apibrėžta Pensijų sistemos reformos įstatyme. ^s-6b20766880f72ad175c0c0b1
+4. Dalyvis – kaip ši sąvoka apibrėžta [Pensijų sistemos reformos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8). ^s-6b20766880f72ad175c0c0b1
 
 
 5. Draudėjas – kaip ši sąvoka apibrėžta [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatyme]]. ^s-197eaeef13b5ed0dce761c5c
@@ -60,13 +60,13 @@ Pakeisti 3 straipsnio 15 dalį ir ją laikyti [[#^s-0e950bfb3d121acbb85f7ab0|18 
 6. Gyvybės draudimo įmonė (toliau – draudimo įmonė) – įmonė, įsteigta ir veikianti Akcinių bendrovių ir Draudimo įstatymų nustatyta tvarka. ^s-1fa287acbdb9db9e6d61b3b1
 
 
-7. Kaupiamoji pensijų įmoka (toliau – pensijų įmoka) – kaip ši sąvoka apibrėžta Pensijų sistemos reformos įstatyme. ^s-8f7d54e4badf21d2b711a57f
+7. Kaupiamoji pensijų įmoka (toliau – pensijų įmoka) – kaip ši sąvoka apibrėžta [Pensijų sistemos reformos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8). ^s-8f7d54e4badf21d2b711a57f
 
 
 8. Kolektyvinio investavimo subjektas – kaip ši sąvoka apibrėžta [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatyme]]. ^s-7d0eb086ae398b95c27b7948
 
 
-9. Pensijų anuitetas – kaip ši sąvoka apibrėžta Pensijų sistemos reformos įstatyme. ^s-7dccf35482e84b0b0b11bbe8
+9. Pensijų anuitetas – kaip ši sąvoka apibrėžta [Pensijų sistemos reformos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8). ^s-7dccf35482e84b0b0b11bbe8
 
 
 10. Pensijų fondas – fiziniams asmenims, pagal Pensijų sistemos reformos įstatymą dalyvaujantiems pensijų kaupime, bendrosios dalinės nuosavybės teise priklausantis pensijų turtas, kurio valdymas perduotas pensijų kaupimo bendrovei ir kuris investuojamas pagal to pensijų fondo taisykles. ^s-c826657f51a9c7c6caf5e89e
@@ -81,16 +81,16 @@ Pakeisti 3 straipsnio 15 dalį ir ją laikyti [[#^s-0e950bfb3d121acbb85f7ab0|18 
 13. Pensijų kaupimo bendrovė – valdymo įmonė ar draudimo įmonė, turinti priežiūros institucijos išduotą licenciją ar leidimą Lietuvos Respublikos teritorijoje užsiimti šio Įstatymo nustatyta pensijų kaupimo veikla. ^s-b6a25c2e0143de38c2f58775
 
 
-14. Pensijų kaupimo sutartis – kaip ši sąvoka apibrėžta Pensijų sistemos reformos įstatyme. ^s-f8ae773f0eb7feb3905b12bf
+14. Pensijų kaupimo sutartis – kaip ši sąvoka apibrėžta [Pensijų sistemos reformos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8). ^s-f8ae773f0eb7feb3905b12bf
 
 
-15. Pensijų sąskaita – kaip ši sąvoka apibrėžta Pensijų sistemos reformos įstatyme. ^s-e2e04700161d2a9a48ad9730
+15. Pensijų sąskaita – kaip ši sąvoka apibrėžta [Pensijų sistemos reformos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8). ^s-e2e04700161d2a9a48ad9730
 
 
 16. Pensijų skaičiuoklė – kompiuterio programa, skirta suskaičiuoti dalyvio būsimosios valstybinės socialinio draudimo pensijos dalies ir anuiteto, numatyto šio Įstatymo 22 straipsnyje, dydžius pagal dalyvio pasirenkamus ekonominius rodiklius. ^s-0c90f7d48315f7b995928df1
 
 
-17. Pensijų turtas – kaip ši sąvoka apibrėžta Pensijų sistemos reformos įstatyme. ^s-d2245a23d6c3b3e9ece4acb0
+17. Pensijų turtas – kaip ši sąvoka apibrėžta [Pensijų sistemos reformos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8). ^s-d2245a23d6c3b3e9ece4acb0
 
 
 18. Perėjimas į kitą pensijų fondą – pensijų kaupimo sutarties nutraukimas ir naujos pensijų kaupimo sutarties sudarymas dėl pensijų kaupimo kitame pensijų fonde. ^s-0e950bfb3d121acbb85f7ab0
@@ -108,7 +108,7 @@ Pakeisti 3 straipsnio 15 dalį ir ją laikyti [[#^s-0e950bfb3d121acbb85f7ab0|18 
 20. Senatvės pensijos amžius – kaip ši sąvoka apibrėžta [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatyme]]. ^s-89d4a3cfd152bb8801726410
 
 
-21. Valstybinio socialinio draudimo įmokos dalies kaupimas (toliau – pensijų kaupimas) – kaip ši sąvoka apibrėžta Pensijų sistemos reformos įstatyme.“ ^s-de251d50420f9bf5574fb688
+21. Valstybinio socialinio draudimo įmokos dalies kaupimas (toliau – pensijų kaupimas) – kaip ši sąvoka apibrėžta [Pensijų sistemos reformos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8).“ ^s-de251d50420f9bf5574fb688
 
 
 ### 2 straipsnis. 4 straipsnio 2, 5 dalių pakeitimas ir 7 dalies papildymas 3 ir 4 punktais ^s-db37dfc4d1dc809cec795c50
@@ -126,7 +126,7 @@ Pakeisti 3 straipsnio 15 dalį ir ją laikyti [[#^s-0e950bfb3d121acbb85f7ab0|18 
 „5. Visų pensijų kaupimo dalyvių įskaitą tvarko Valstybinio socialinio draudimo fondo (toliau – VSDF) valdyba administruodama dalyvių registrą. Dalyvių registro administravimo tvarką ir VSDF valdybai teikiamų duomenų turinį bei jų pateikimo sąlygas tvirtina Vyriausybė ar jos įgaliota institucija. Pensijų kaupimo bendrovei atsisakius pateikti ar priimti duomenis, būtinus dalyvių registravimui ir (ar) įmokų pervedimui pagal patvirtintas duomenų pateikimo sąlygas, sustabdomas pensijų įmokų pervedimas į tokios pensijų kaupimo bendrovės valdomus pensijų fondus iki duomenų pateikimo ir (ar) priėmimo atnaujinimo pagal šias duomenų pateikimo sąlygas. Šio Įstatymo 30 straipsnyje nustatytų delspinigių mokėjimo prievolė tenka reikalavimų nevykdančiai pensijų kaupimo bendrovei. Atnaujinus įmokų pervedimą, įmokos pervedamos šio Įstatymo [[#^s-3a831fb6209f3aabd121fafd|10 straipsnyje]] nustatyta tvarka. Pensijų kaupimo bendrovės atsako už VSDF valdybai pateiktų duomenų teisingumą.“
 
 
-3. Papildyti 4 straipsnio 7 dalį 3 ir [[#^s-009fc140e4f804fd3c5e8cb9|4 punktais]]: ^s-9623c61e3f13e5fc461565d6
+3. Papildyti 4 straipsnio 7 dalį 3 ir 4 punktais: ^s-9623c61e3f13e5fc461565d6
 
 
 „3) dalyviui šio Įstatymo [[#^s-d8e562923cfd4696326e98b3|6 straipsnyje]] nustatyta tvarka nutraukus pensijų kaupimo sutartį;
@@ -150,7 +150,7 @@ Pakeisti 5 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 1. Pakeisti [[#^s-d36e9b6f8a0b877a07d16e13|6 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-ba7bead7818b25096ffd4c32
 
 
-„2. Pirmą kartą sudaryta pensijų kaupimo sutartis įsigalioja Pensijų sistemos reformos įstatymo nustatyta tvarka. Pereinant į kitą pensijų kaupimo bendrovę, sudarytos naujos pensijų kaupimo sutartys įsigalioja šio Įstatymo [[#^s-47999a3e9a7450462a1afae6|8 straipsnyje]] nustatyta tvarka. Pereiti į kitos pensijų kaupimo bendrovės valdomą pensijų fondą dalyvis gali tik šio Įstatymo nustatyta tvarka nutraukęs sudarytą pensijų kaupimo sutartį. Pereinant į kitą pensijų fondą, valdomą tos pačios pensijų kaupimo bendrovės, sudarytos naujos pensijų kaupimo sutartys įsigalioja šio Įstatymo [[#^s-cecd97126fcf8f4d234840ea|7 straipsnyje]] nustatyta tvarka.“
+„2. Pirmą kartą sudaryta pensijų kaupimo sutartis įsigalioja [Pensijų sistemos reformos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8) nustatyta tvarka. Pereinant į kitą pensijų kaupimo bendrovę, sudarytos naujos pensijų kaupimo sutartys įsigalioja šio Įstatymo [[#^s-47999a3e9a7450462a1afae6|8 straipsnyje]] nustatyta tvarka. Pereiti į kitos pensijų kaupimo bendrovės valdomą pensijų fondą dalyvis gali tik šio Įstatymo nustatyta tvarka nutraukęs sudarytą pensijų kaupimo sutartį. Pereinant į kitą pensijų fondą, valdomą tos pačios pensijų kaupimo bendrovės, sudarytos naujos pensijų kaupimo sutartys įsigalioja šio Įstatymo [[#^s-cecd97126fcf8f4d234840ea|7 straipsnyje]] nustatyta tvarka.“
 
 
 2. Pakeisti [[#^s-ed83b4626e70b5477a045b18|6 straipsnio 4 dalį]] ir ją išdėstyti taip: ^s-8c1f53147d69083b0553e1cc
@@ -216,7 +216,7 @@ Pakeisti 5 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 5. Pakeisti 8 straipsnio 7 dalį ir ją išdėstyti taip: ^s-56a17b38891fcb0c8da13a49
 
 
-„7. Jei pensijų kaupimo bendrovė su jos valdomu pensijų fondu susijusias teises ir pareigas, atsirandančias iš pensijų kaupimo sutarčių, ketina perduoti kitai pensijų kaupimo bendrovei arba pensijų fondas panaikinamas dėl pensijų kaupimo bendrovės bankroto ar likvidavimo, tai šios pensijų kaupimo bendrovės valdomo pensijų fondo dalyviai per 3 mėnesius nuo atitinkamo sprendimo priėmimo turi teisę pereiti į kitą jų pasirinktą pensijų fondą be [[#^s-909cdd0e0beb7ec16470a09a|14 straipsnio]] 4 ir [[#^s-56a17b38891fcb0c8da13a49|5 dalyse]] nustatytų atskaitymų. Jei per šioje dalyje nurodytą laikotarpį dalyviai nesudarė pensijų kaupimo sutarčių su kita pensijų kaupimo bendrove, bendro priežiūros institucijų teisės akto nustatyta tvarka tokie dalyviai bei jiems priklausančios lėšos perkeliami į kitos pensijų kaupimo bendrovės valdomą pensijų fondą nedarant šio Įstatymo [[#^s-909cdd0e0beb7ec16470a09a|14 straipsnio]] 4 ir [[#^s-56a17b38891fcb0c8da13a49|5 dalyse]] nustatytų atskaitymų.“
+„7. Jei pensijų kaupimo bendrovė su jos valdomu pensijų fondu susijusias teises ir pareigas, atsirandančias iš pensijų kaupimo sutarčių, ketina perduoti kitai pensijų kaupimo bendrovei arba pensijų fondas panaikinamas dėl pensijų kaupimo bendrovės bankroto ar likvidavimo, tai šios pensijų kaupimo bendrovės valdomo pensijų fondo dalyviai per 3 mėnesius nuo atitinkamo sprendimo priėmimo turi teisę pereiti į kitą jų pasirinktą pensijų fondą be [[#^s-909cdd0e0beb7ec16470a09a|14 straipsnio]] 4 ir 5 dalyse nustatytų atskaitymų. Jei per šioje dalyje nurodytą laikotarpį dalyviai nesudarė pensijų kaupimo sutarčių su kita pensijų kaupimo bendrove, bendro priežiūros institucijų teisės akto nustatyta tvarka tokie dalyviai bei jiems priklausančios lėšos perkeliami į kitos pensijų kaupimo bendrovės valdomą pensijų fondą nedarant šio Įstatymo [[#^s-909cdd0e0beb7ec16470a09a|14 straipsnio]] 4 ir 5 dalyse nustatytų atskaitymų.“
 
 
 6. Papildyti [[#^s-47999a3e9a7450462a1afae6|8 straipsnį]] nauja [[#^s-3163ccbd54d5b6d8851513a8|8 dalimi]]: ^s-8295cab74142b075c82ed835
@@ -297,13 +297,13 @@ Papildyti 13 straipsnį 3 dalimi:
 2) skelbti informaciją, kuri yra neteisinga, neišsami ar gali būti klaidinanti.“ ^s-34b3488758b8e74e10074c72
 
 
-2. Papildyti [[#^s-af1bd9dd62476a3c6db99d0d|15 straipsnį]] nauja [[#^s-8a0d31019115c532f929a65f|2 dalimi]]: ^s-8a0d31019115c532f929a65f
+2. Papildyti [[#^s-af1bd9dd62476a3c6db99d0d|15 straipsnį]] nauja 2 dalimi: ^s-8a0d31019115c532f929a65f
 
 
 „2. Pensijų kaupimo bendrovė, kiti jos įgalioti ar kitaip su ja susiję asmenys gali daryti pareiškimus naudodami prognozuojamus skaičius tik priežiūros institucijų bendro teisės akto nustatyta tvarka.“
 
 
-3. Buvusią [[#^s-957e42e206a2f498cafeba85|15 straipsnio 2 dalį]] laikyti [[#^s-6484eb0cce52d3b12ba845d0|3 dalimi]], ją pakeisti ir išdėstyti taip: ^s-6484eb0cce52d3b12ba845d0
+3. Buvusią [[#^s-957e42e206a2f498cafeba85|15 straipsnio 2 dalį]] laikyti 3 dalimi, ją pakeisti ir išdėstyti taip: ^s-6484eb0cce52d3b12ba845d0
 
 
 „3. Teikdama informaciją potencialiam ar esamam dalyviui apie galimas pensijų išmokas, pensijų kaupimo bendrovė, jos atstovai ar kitaip su pensijų kaupimo bendrove susiję asmenys turi teisę naudoti skaičiuoklę, kuri turi atitikti šiuos reikalavimus:
@@ -327,13 +327,13 @@ Papildyti 13 straipsnį 3 dalimi:
 6) šalia skaičiavimo rezultatų turi būti perspėjimas, kad pensijų kaupimo bendrovė jų negarantuoja.“ ^s-d8ce5b5b6241644943e00fb6
 
 
-4. Buvusią [[#^s-4bfe3092a718c935e3aad97c|15 straipsnio 3 dalį]] laikyti [[#^s-4996c4dc0a872fd0bddd4d5a|4 dalimi]], ją pakeisti ir išdėstyti taip: ^s-4996c4dc0a872fd0bddd4d5a
+4. Buvusią [[#^s-4bfe3092a718c935e3aad97c|15 straipsnio 3 dalį]] laikyti 4 dalimi, ją pakeisti ir išdėstyti taip: ^s-4996c4dc0a872fd0bddd4d5a
 
 
 „4. Pensijų kaupimo bendrovė, kuri prisiima įsipareigojimus dalyviams garantuoti tam tikrą pajamingumą, turi teisę daryti pareiškimus, naudodama prognozuojamus skaičius, skelbti informaciją apie numatomas investicines pajamas ir kitas su tuo susijusias prognozes, neviršydama prisiimtų įsipareigojimų.“
 
 
-5. Buvusias [[#^s-af1bd9dd62476a3c6db99d0d|15 straipsnio]] 4 ir [[#^s-7bfd783b0c7e7469c2256a78|5 dalis]] laikyti atitinkamai 5 ir [[#^s-3581695353f38e8a0a088e8a|6 dalimis]]. ^s-7bfd783b0c7e7469c2256a78
+5. Buvusias [[#^s-af1bd9dd62476a3c6db99d0d|15 straipsnio]] 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis. ^s-7bfd783b0c7e7469c2256a78
 
 
 6. Buvusią 15 straipsnio 6 dalį laikyti [[#^s-ce8ea7d7952324111b1ebb27|7 dalimi]], ją papildyti ir išdėstyti taip: ^s-3581695353f38e8a0a088e8a
@@ -357,7 +357,7 @@ Papildyti 13 straipsnį 3 dalimi:
 2. Pakeisti 19 straipsnio 4 dalį ir ją išdėstyti taip: ^s-7282aa6c18a6bb42531edd7b
 
 
-„4. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms mutatis mutandis taikomi Papildomo savanoriško pensijų kaupimo įstatymo antrojo skirsnio 6 straipsnio 10 punktas, 10, 12 (išskyrus [[#^s-9b346c44f8b8585d09cd17a1|1 dalies]] 2, 4, 5, 6, 8 punktus), [[#^s-909cdd0e0beb7ec16470a09a|14 straipsniai]], trečiojo skirsnio 23, 24, 30, 31 (išskyrus 1–6 dalis), 34, 35 straipsniai, ketvirtasis – šeštasis skirsniai (išskyrus 53 straipsnio 1 ir 4 dalis). Vertybinių popierių komisijai priskirtas teises turi ir jos funkcijas draudimo įmonių atžvilgiu pagal Draudimo įstatymą draudimo veiklos priežiūrą atliekanti institucija.“
+„4. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms mutatis mutandis taikomi [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatymo antrojo skirsnio 6 straipsnio 10 punktas]], 10, 12 (išskyrus [[#^s-9b346c44f8b8585d09cd17a1|1 dalies]] [[latest/TAR.DDA1BD559D9B|2]], [[latest/TAR.DDA1BD559D9B|4]], [[latest/TAR.DDA1BD559D9B|5]], [[latest/TAR.DDA1BD559D9B|6]], [[latest/TAR.DDA1BD559D9B|8]] punktus), [[#^s-909cdd0e0beb7ec16470a09a|14 straipsniai]], trečiojo skirsnio 23, 24, 30, 31 (išskyrus [[#^s-81c4f99df3f951355d751e6e|1]]–6 dalis), 34, 35 straipsniai, ketvirtasis – šeštasis skirsniai (išskyrus 53 straipsnio 1 ir 4 dalis). Vertybinių popierių komisijai priskirtas teises turi ir jos funkcijas draudimo įmonių atžvilgiu pagal Draudimo įstatymą draudimo veiklos priežiūrą atliekanti institucija.“
 
 
 ### 13 straipsnis. 20 straipsnio papildymas 6 dalimi ^s-59a90b826bad5169f8d527a9
@@ -408,7 +408,7 @@ Papildyti 20 straipsnį 6 dalimi:
 3. Papildyti 28 straipsnį 4 dalimi: ^s-4bfe3092a718c935e3aad97c
 
 
-„4. VSDF valdyba teikia priežiūros institucijoms informaciją apie konkrečios pensijų kaupimo bendrovės valdomų pensijų fondų dalyvius, į pensijų fondo sąskaitą pervestas pinigines lėšas ir kitus duomenis, reikalingus priežiūros institucijoms. Duomenų teikimo tvarka ir terminai nustatomi [[#^s-4bfe3092a718c935e3aad97c|šio straipsnio 3 dalyje]] nurodytame susitarime.“
+„4. VSDF valdyba teikia priežiūros institucijoms informaciją apie konkrečios pensijų kaupimo bendrovės valdomų pensijų fondų dalyvius, į pensijų fondo sąskaitą pervestas pinigines lėšas ir kitus duomenis, reikalingus priežiūros institucijoms. Duomenų teikimo tvarka ir terminai nustatomi šio straipsnio 3 dalyje nurodytame susitarime.“
 
 
 ### 16 straipsnis. 30 straipsnio 1 dalies pakeitimas ^s-bcb786f3a8adf463b1086d26

@@ -97,7 +97,7 @@ Seimo kontrolieriai savo veikloje vadovaujasi šiais principais:
 3) atskaitingumo. Seimo kontrolieriai už savo veiklą yra atskaitingi Lietuvos Respublikos Seimui; ^s-9bb890131c4ffef68f641224
 
 
-4) teisėtumo. Seimo kontrolieriai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais bei teisės aktais, tarptautinėmis sutartimis, teisės principais; ^s-1c218451abf15da532e17cc3
+4) teisėtumo. Seimo kontrolieriai savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais bei teisės aktais, tarptautinėmis sutartimis, teisės principais; ^s-1c218451abf15da532e17cc3
 
 
 5) nešališkumo ir teisingumo. Seimo kontrolieriai vienodai (lygiai teisingai) gina visus žmones, nepaisant jų tautybės, rasės, lyties, kalbos, kilmės, socialinės padėties, religinių įsitikinimų ar politinių pažiūrų. Seimo kontrolieriai savo veikloje yra objektyvūs ir teisingi; ^s-95cfd00b22966b0d418514bc
@@ -609,7 +609,7 @@ SEIMO KONTROLIERIŲ VEIKLOS IR KITOS GARANTIJOS
 ### 29 straipsnis. Seimo kontrolierių darbo apmokėjimas ir socialinės garantijos ^s-d7c19825e142a68f7bceccf1
 
 
-1. Seimo kontrolierių darbo užmokesčio dydį ir apmokėjimo sąlygas nustato Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymas. ^s-a6382f3b6c1fe9786ca738f8
+1. Seimo kontrolierių darbo užmokesčio dydį ir apmokėjimo sąlygas nustato Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3). ^s-a6382f3b6c1fe9786ca738f8
 
 
 2. Seimo kontrolieriai draudžiami valstybiniu socialiniu draudimu [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo]] nustatyta tvarka. ^s-1040a92d8828cdd6bb233057

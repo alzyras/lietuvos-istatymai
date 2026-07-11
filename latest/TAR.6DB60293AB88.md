@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-1d237082a4af1032efa62007
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. birželio 23 d. dekretą Nr. 352, ratifikuoja 1997 m. gegužės 23 d. Niujorke priimtą Susitarimą dėl Tarptautinio jūrų teisės tribunolo privilegijų ir imunitetų.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. birželio 23 d. dekretą Nr. 352](https://e-tar.lt/portal/lt/legalAct/TAR.9554F1E897E8), ratifikuoja 1997 m. gegužės 23 d. Niujorke priimtą Susitarimą dėl Tarptautinio jūrų teisės tribunolo privilegijų ir imunitetų.
 
 
 

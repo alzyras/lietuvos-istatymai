@@ -81,7 +81,7 @@ Vilnius
 3. Pakeisti 33 straipsnio 5 dalį ir ją išdėstyti taip: ^s-4cb89d56f61fe0f5dc86132f
 
 
-„5. Jeigu tiekėjas negali pateikti [[#^s-4cb89d56f61fe0f5dc86132f|šio straipsnio 3 dalyje]] nurodytų dokumentų, nes atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami dokumentai neapima visų [[#^s-4e3b6fd5b3d40a7f6b16bb8d|šio straipsnio 1 dalyje]] ir [[#^s-6f50ab08d2bdbb09e1612b30|2 dalies]] 1, 2 ar 3 punkte keliamų klausimų, jie gali būti pakeisti priesaikos deklaracija arba šalyse, kuriose ji netaikoma, – oficialia tiekėjo deklaracija, kurią jis yra pateikęs kompetentingai teisinei arba administracinei institucijai, notarui arba kompetentingai profesinei ar prekybos organizacijai savo kilmės šalyje arba šalyje, iš kurios jis atvyko, o šio straipsnio 2 dalies 1 punkte nurodytais atvejais, kai tiekėjas su kreditoriais nėra sudaręs taikos sutarties, sustabdęs ar apribojęs veiklos, šio straipsnio 2 dalies 2 punkte nurodytu atveju, kai nesiekiama priverstinio likvidavimo procedūros ar susitarimo su kreditoriais, ir [[#^s-6f50ab08d2bdbb09e1612b30|šio straipsnio 2 dalies]] 4 ir 8 punktuose nurodytais atvejais – ir laisvos formos tiekėjo deklaracija.“
+„5. Jeigu tiekėjas negali pateikti šio straipsnio 3 dalyje nurodytų dokumentų, nes atitinkamoje šalyje tokie dokumentai neišduodami arba toje šalyje išduodami dokumentai neapima visų [[#^s-4e3b6fd5b3d40a7f6b16bb8d|šio straipsnio 1 dalyje]] ir [[#^s-6f50ab08d2bdbb09e1612b30|2 dalies]] 1, 2 ar 3 punkte keliamų klausimų, jie gali būti pakeisti priesaikos deklaracija arba šalyse, kuriose ji netaikoma, – oficialia tiekėjo deklaracija, kurią jis yra pateikęs kompetentingai teisinei arba administracinei institucijai, notarui arba kompetentingai profesinei ar prekybos organizacijai savo kilmės šalyje arba šalyje, iš kurios jis atvyko, o šio straipsnio 2 dalies 1 punkte nurodytais atvejais, kai tiekėjas su kreditoriais nėra sudaręs taikos sutarties, sustabdęs ar apribojęs veiklos, šio straipsnio 2 dalies 2 punkte nurodytu atveju, kai nesiekiama priverstinio likvidavimo procedūros ar susitarimo su kreditoriais, ir [[#^s-6f50ab08d2bdbb09e1612b30|šio straipsnio 2 dalies]] 4 ir 8 punktuose nurodytais atvejais – ir laisvos formos tiekėjo deklaracija.“
 
 
 
@@ -118,10 +118,10 @@ Pakeisti 92 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 6 straipsnis. Įstatymo įsigaliojimas ^s-cf3f88df6062d01bff03748e
 
 
-1. Šis įstatymas, išskyrus [[#^s-b2b6ed4ef462a33e1981f582|2 straipsnio]] 2 ir 3 dalis, įsigalioja 2011 m. rugpjūčio 21 d. ^s-cdec489ed810f3048a45b570
+1. Šis įstatymas, išskyrus [[#^s-b2b6ed4ef462a33e1981f582|2 straipsnio]] [[#^s-6f50ab08d2bdbb09e1612b30|2]] ir [[#^s-4cb89d56f61fe0f5dc86132f|3]] dalis, įsigalioja 2011 m. rugpjūčio 21 d. ^s-cdec489ed810f3048a45b570
 
 
-2. Šio įstatymo [[#^s-b2b6ed4ef462a33e1981f582|2 straipsnio]] 2 ir 3 dalys įsigalioja 2011 m. rugpjūčio 1 d. ^s-ba8e947c053b5940885b101b
+2. Šio įstatymo [[#^s-b2b6ed4ef462a33e1981f582|2 straipsnio]] [[#^s-6f50ab08d2bdbb09e1612b30|2]] ir [[#^s-4cb89d56f61fe0f5dc86132f|3]] dalys įsigalioja 2011 m. rugpjūčio 1 d. ^s-ba8e947c053b5940885b101b
 
 
 

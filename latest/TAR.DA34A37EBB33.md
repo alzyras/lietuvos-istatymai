@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-b41833cf7c80fda5bee73554
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. gruodžio 28 d. dekretą Nr. 1K-843, ratifikuoja su pareiškimais 2005 m. rugsėjo 16 d. Niujorke pasirašytą Tarptautinę konvenciją dėl kovos su branduolinio terorizmo veiksmais.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. gruodžio 28 d. dekretą Nr. 1K-843](https://e-tar.lt/portal/lt/legalAct/TAR.8036CA422D30), ratifikuoja su pareiškimais 2005 m. rugsėjo 16 d. Niujorke pasirašytą Tarptautinę konvenciją dėl kovos su branduolinio terorizmo veiksmais.
 
 
 

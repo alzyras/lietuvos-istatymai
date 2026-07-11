@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-809cd08e858920c127e1892d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės sutartį dėl tarptautinių vežiojimų keliais“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės sutartį dėl tarptautinių vežiojimų keliais, pasirašytą 1999 m. gegužės 19 d. Varšuvoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės sutartį dėl tarptautinių vežiojimų keliais“](https://e-tar.lt/portal/lt/legalAct/TAR.84F6F51944C7), ratifikuoja Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės sutartį dėl tarptautinių vežiojimų keliais, pasirašytą 1999 m. gegužės 19 d. Varšuvoje.
 
 
 

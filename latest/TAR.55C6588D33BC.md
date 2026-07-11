@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-78c106bf3d41d025f0e109bb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2005 m. kovo 31 d. dekretą Nr. 248, ratifikuoja 2002 m. birželio 14 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimą dėl tarptautinės Amerikos mokyklos Vilniuje teisinio statuso, patikslintą 2005 m. gegužės 24 d. Lietuvos Respublikos užsienio reikalų ministerijos nota Nr. 5-195/2005 ir 2005 m. gegužės 26 d. Jungtinių Amerikos Valstijų ambasados Lietuvos Respublikoje atsakomąja nota Nr. 115/05.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2005 m. kovo 31 d. dekretą Nr. 248](https://e-tar.lt/portal/lt/legalAct/TAR.215420951CD5), ratifikuoja 2002 m. birželio 14 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimą dėl tarptautinės Amerikos mokyklos Vilniuje teisinio statuso, patikslintą 2005 m. gegužės 24 d. Lietuvos Respublikos užsienio reikalų ministerijos nota Nr. 5-195/2005 ir 2005 m. gegužės 26 d. Jungtinių Amerikos Valstijų ambasados Lietuvos Respublikoje atsakomąja nota Nr. 115/05.
 
 
 

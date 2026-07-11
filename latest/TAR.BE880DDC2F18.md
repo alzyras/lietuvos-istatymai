@@ -43,7 +43,7 @@ Lietuvos Respublikos valstybinio arbitražo sprendimai, kuriuos apskųsti šalys
 2 straipsnis
 
 
-Valstybinio arbitražo sprendimai, priimti po 1994 m. balandžio 22 d., gali būti persvarstomi teisminės priežiūros tvarka padavus protestą Lietuvos Respublikos civilinio proceso kodekso 352 straipsnyje nurodytiems pareigūnams.
+Valstybinio arbitražo sprendimai, priimti po 1994 m. balandžio 22 d., gali būti persvarstomi teisminės priežiūros tvarka padavus protestą [Lietuvos Respublikos civilinio proceso kodekso 352 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nurodytiems pareigūnams.
 
 
 

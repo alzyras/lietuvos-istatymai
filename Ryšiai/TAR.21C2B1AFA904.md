@@ -9,11 +9,11 @@ pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos Respublikos miestų
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.845C6618A647|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - 2 citatos - Nepaprastosios padėties įstatymo
-- [[latest/TAR.33DE665E5E0E|Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymas]] - 2 citatos - Savivaldybių administracinės priežiūros įstatymo
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 4 citatos - Valstybės tarnybos įstatymo
-- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - 4 citatos - Vietos savivaldos įstatymo
+- [[latest/TAR.845C6618A647|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - Nepaprastosios padėties įstatymo
+- [[latest/TAR.33DE665E5E0E|Lietuvos Respublikos savivaldybių administracinės priežiūros įstatymas]] - Savivaldybių administracinės priežiūros įstatymo
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Valstybės tarnybos įstatymas
+- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - Vietos savivaldos įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EA5F9F0D6DBB#^s-41656dffd7061e3efd79bdb5|Lietuvos Respublikos  tiesioginio valdymo savivaldybės teritorijoje įstatymas]] - 2 citatos - 1031010ISTA0IX-1584
+- [[latest/TAR.EA5F9F0D6DBB#^s-41656dffd7061e3efd79bdb5|Lietuvos Respublikos  tiesioginio valdymo savivaldybės teritorijoje įstatymas]] - 1031010ISTA0IX-1584

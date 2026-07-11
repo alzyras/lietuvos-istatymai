@@ -71,7 +71,7 @@ Pakeisti 6 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 ### TREČIASIS SKIRSNIS ^s-293cda37f98ac7004e34a667
-SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 35 STRAIPSNIO PAKEITIMAS
+[SAVIVALDYBIŲ TARYBŲ RINKIMŲ ĮSTATYMO 35 STRAIPSNIO](https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC) PAKEITIMAS
 
 (Žin., 1994, Nr. 53-996; 1999, Nr. 93-2710; 2002, Nr. 68-2764)
 
@@ -88,7 +88,7 @@ Pakeisti 35 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip:
 
 
 ### KETVIRTASIS SKIRSNIS ^s-ff51a59b91a5aa7369ca2b1a
-PREZIDENTO RINKIMŲ ĮSTATYMO 34 STRAIPSNIO PAKEITIMAS
+[PREZIDENTO RINKIMŲ ĮSTATYMO 34 STRAIPSNIO](https://e-tar.lt/portal/lt/legalAct/TAR.E39827DBDE34) PAKEITIMAS
 
 (Žin., 1993, Nr. 2-29; 1994, Nr. 89-1720; 1996, Nr. 100-2256; 1999, Nr. 19-514; 2000, Nr. 85-2576; 2002, Nr. 68-2767)
 
@@ -105,7 +105,7 @@ Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 ### PENKTASIS SKIRSNIS ^s-28e2adef31b783fed21e1fbd
-SEIMO RINKIMŲ ĮSTATYMO 38 STRAIPSNIO PAKEITIMAS
+[SEIMO RINKIMŲ ĮSTATYMO 38 STRAIPSNIO](https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E) PAKEITIMAS
 
 (Žin., 1992, Nr. 22-635; 2000, Nr. 59-1760)
 
@@ -175,7 +175,7 @@ Pakeisti 5 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip:
 
 
 ### AŠTUNTASIS SKIRSNIS ^s-50b53f55acfedead59349652
-VALSTYBĖS KONTROLĖS ĮSTATYMO 31 IR 36 STRAIPSNIŲ PAKEITIMAS
+[[latest/TAR.61BB05227699|VALSTYBĖS KONTROLĖS ĮSTATYMO]] [[latest/TAR.61BB05227699#^s-907df066f8fe096da4c622a3|31]] IR [[latest/TAR.61BB05227699|36]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1995, Nr. 51-1243; 2001, Nr. 112-4070)
 

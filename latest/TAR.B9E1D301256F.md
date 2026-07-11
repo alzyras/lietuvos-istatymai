@@ -57,23 +57,23 @@ Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 
 
 
-3. Apmokestinant akcizais elektros energiją, kaip ji apibrėžta šio įstatymo [[#^s-d65d9f640eff944461bdc9b1|3 straipsnio 12 dalyje]], taikomos tik šio įstatymo 20, 21, [[#^s-ea6a118f2a515e7e78c6073e|22 straipsnių]] ir II skyriaus ketvirtojo skirsnio nuostatos. ^s-456ea497354f3d5879a6d731
+3. Apmokestinant akcizais elektros energiją, kaip ji apibrėžta šio įstatymo [[#^s-d65d9f640eff944461bdc9b1|3 straipsnio 12 dalyje]], taikomos tik šio įstatymo [[#^s-c1e2c2e5536e45df8ba00801|20]], [[#^s-f7891aa26c6295415a2cd8e4|21]], [[#^s-ea6a118f2a515e7e78c6073e|22]] straipsnių ir II skyriaus ketvirtojo skirsnio nuostatos. ^s-456ea497354f3d5879a6d731
 
 
-4. Apmokestinant akcizais akmens anglis, koksą, lignitą, šildymui skirtas durpes, taikomos tik šio įstatymo 20, 21, 22, [[#^s-f964b48e73f80079e0bda0e0|43 straipsnių]] ir II skyriaus penktojo skirsnio nuostatos. ^s-5a42223ea0ec1a1cf74c18b0
+4. Apmokestinant akcizais akmens anglis, koksą, lignitą, šildymui skirtas durpes, taikomos tik šio įstatymo [[#^s-c1e2c2e5536e45df8ba00801|20]], [[#^s-f7891aa26c6295415a2cd8e4|21]], [[#^s-ea6a118f2a515e7e78c6073e|22]], [[#^s-f964b48e73f80079e0bda0e0|43]] straipsnių ir II skyriaus penktojo skirsnio nuostatos. ^s-5a42223ea0ec1a1cf74c18b0
 Straipsnio dalies pakeitimai:
 Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 
 
 
-5. Apmokestinant akcizais gamtines dujas, taikomos tik šio įstatymo 20, 21, [[#^s-ea6a118f2a515e7e78c6073e|22 straipsnių]], [[#^s-f964b48e73f80079e0bda0e0|43 straipsnio]] 1 ir [[#^s-840708de30f97490bf56a77f|2 dalių]] ir II skyriaus šeštojo skirsnio nuostatos. ^s-0877df725d4a42a9ce442d73
+5. Apmokestinant akcizais gamtines dujas, taikomos tik šio įstatymo [[#^s-c1e2c2e5536e45df8ba00801|20]], [[#^s-f7891aa26c6295415a2cd8e4|21]], [[#^s-ea6a118f2a515e7e78c6073e|22]] straipsnių, [[#^s-f964b48e73f80079e0bda0e0|43 straipsnio]] [[#^s-33caa0e51166a011fc182cd7|1]] ir [[#^s-5007c35e2591e47bef640a7a|2]] dalių ir II skyriaus šeštojo skirsnio nuostatos. ^s-0877df725d4a42a9ce442d73
 Straipsnio dalies pakeitimai:
 Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 
 
 
-6. Apmokestinant akcizais kaitinamojo tabako produktus, kaip jie apibrėžti šio įstatymo [[#^s-137c00c8d93d93826fc2f8ff|3 straipsnio]] 181 ir 36 dalyse, taikomos tik šio įstatymo 4, 5, 6, 11, [[#^s-681dd2bdd48866035569ab8b|13 straipsnių]], [[#^s-c2c19705f96eb921b6434d01|14 straipsnio]] 1, 2, 3, 4, 5 ir [[#^s-750461c3aac685bab2361ae4|6 dalių]], [[#^s-f82154058dced447f409c720|17 straipsnio]], [[#^s-87c3f8d5f33626b93b413ef6|18 straipsnio]] 1, 2, 3 ir [[#^s-5a42223ea0ec1a1cf74c18b0|4 dalių]], [[#^s-84d8127084338802f69c1a58|19 straipsnio]] 1, 2 ir [[#^s-5a42223ea0ec1a1cf74c18b0|4 dalių]], 20, 21, [[#^s-ea6a118f2a515e7e78c6073e|22 straipsnių]] ir II skyriaus septintojo skirsnio nuostatos. ^s-750461c3aac685bab2361ae4
+6. Apmokestinant akcizais kaitinamojo tabako produktus, kaip jie apibrėžti šio įstatymo [[#^s-137c00c8d93d93826fc2f8ff|3 straipsnio]] [[#^s-0bebe68932befffdd395b63a|181]] ir [[#^s-406aa3487e1e133e30f0f4cc|36]] dalyse, taikomos tik šio įstatymo [[#^s-cba2ec5070e74363b23c8167|4]], [[#^s-42cc87e5382269410ce72a0d|5]], [[#^s-95b81287ee1c2f4ad3a7161c|6]], [[#^s-f69d3d076ed67caf24e8a5f8|11]], [[#^s-681dd2bdd48866035569ab8b|13]] straipsnių, [[#^s-c2c19705f96eb921b6434d01|14 straipsnio]] [[#^s-38b0edb04e0feb1935dcbc07|1]], [[#^s-2cca5075e0e0f57272492280|2]], [[#^s-a40944d9c16107b789ed6cab|3]], [[#^s-b58a09e2821f08c36d7849b0|4]], [[#^s-f27a2353c36d68ae093ccd70|5]] ir [[#^s-b842f5a42e2ec1000bf84309|6]] dalių, [[#^s-f82154058dced447f409c720|17 straipsnio]], [[#^s-87c3f8d5f33626b93b413ef6|18 straipsnio]] [[#^s-ed14b5bdfe70c1aea5dca24b|1]], [[#^s-de3529b8bf1ea1837ea214c0|2]], [[#^s-4996a8fa4a1613c6cffda508|3]] ir [[#^s-c28f21fe7abc49266aab6a0b|4]] dalių, [[#^s-84d8127084338802f69c1a58|19 straipsnio]] [[#^s-a0a9f10205135e35918349b1|1]], [[#^s-d664076d5eb94361fbead03c|2]] ir [[#^s-bdf9aabf9198553004b5a41d|4]] dalių, [[#^s-c1e2c2e5536e45df8ba00801|20]], [[#^s-f7891aa26c6295415a2cd8e4|21]], [[#^s-ea6a118f2a515e7e78c6073e|22]] straipsnių ir II skyriaus septintojo skirsnio nuostatos. ^s-750461c3aac685bab2361ae4
 Papildyta straipsnio dalimi:
 Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
 Straipsnio dalies pakeitimai:
@@ -81,7 +81,7 @@ Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 
 
-7. Apmokestinant akcizais elektroninių cigarečių skystį, kaip jis apibrėžtas šio įstatymo [[#^s-9f09770be3df28c30f1f1051|3 straipsnio 112 dalyje]], taikomos tik šio įstatymo 11, [[#^s-681dd2bdd48866035569ab8b|13 straipsnių]], [[#^s-84d8127084338802f69c1a58|19 straipsnio]] 1, 2 ir [[#^s-5a42223ea0ec1a1cf74c18b0|4 dalių]], 20, 21, [[#^s-ea6a118f2a515e7e78c6073e|22 straipsnių]] ir II skyriaus septintojo skirsnio nuostatos. ^s-0f28de0fa1c5817dd728c3b0
+7. Apmokestinant akcizais elektroninių cigarečių skystį, kaip jis apibrėžtas šio įstatymo [[#^s-9f09770be3df28c30f1f1051|3 straipsnio 112 dalyje]], taikomos tik šio įstatymo [[#^s-f69d3d076ed67caf24e8a5f8|11]], [[#^s-681dd2bdd48866035569ab8b|13]] straipsnių, [[#^s-84d8127084338802f69c1a58|19 straipsnio]] [[#^s-a0a9f10205135e35918349b1|1]], [[#^s-d664076d5eb94361fbead03c|2]] ir [[#^s-bdf9aabf9198553004b5a41d|4]] dalių, [[#^s-c1e2c2e5536e45df8ba00801|20]], [[#^s-f7891aa26c6295415a2cd8e4|21]], [[#^s-ea6a118f2a515e7e78c6073e|22]] straipsnių ir II skyriaus septintojo skirsnio nuostatos. ^s-0f28de0fa1c5817dd728c3b0
 TAR pastaba. [[latest/d29edc324dd311f0b070ee7f1ceefc75|Įstatymo Nr. XV-286]] pakeitimai taikomi nuo 2026-01-01 importuotiems, verslo reikmėms gautiems iš kitos valstybės narės, verslo reikmėms Lietuvos Respublikoje pagamintiems ar Lietuvos Respublikoje verslo reikmėms įsigytiems saldintiems gėrimams, išskyrus atvejus, kai saldinti gėrimai buvo importuoti, verslo reikmėms gauti iš kitos valstybės narės ar Lietuvos Respublikoje pagaminti iki 2025 m. gruodžio 31 d. ir Lietuvos Respublikoje verslo reikmėms įsigyti 2026 m. sausio 1 d. ar vėliau.
 Papildyta straipsnio dalimi:
 Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
@@ -90,7 +90,7 @@ Nr. XV-286, 2025-06-17, paskelbta TAR 2025-06-20, i. k. 2025-11282
 
 
 
-8. Apmokestinant akcizais neapdorotą tabaką, kaip jis apibrėžtas šio įstatymo [[#^s-19fcd1740570182a958a6dee|3 straipsnio 222 dalyje]], taikomos tik šio įstatymo 11, 13, 20, [[#^s-f7891aa26c6295415a2cd8e4|21 straipsnių]], [[#^s-4b51390efc78dcc2af10e4a8|22 straipsnio 1 dalies]] ir II skyriaus aštuntojo skirsnio nuostatos. ^s-2bd2c98999121420bcfd61ba
+8. Apmokestinant akcizais neapdorotą tabaką, kaip jis apibrėžtas šio įstatymo [[#^s-19fcd1740570182a958a6dee|3 straipsnio 222 dalyje]], taikomos tik šio įstatymo [[#^s-f69d3d076ed67caf24e8a5f8|11]], [[#^s-681dd2bdd48866035569ab8b|13]], [[#^s-c1e2c2e5536e45df8ba00801|20]], [[#^s-f7891aa26c6295415a2cd8e4|21]] straipsnių, [[#^s-4b51390efc78dcc2af10e4a8|22 straipsnio 1 dalies]] ir II skyriaus aštuntojo skirsnio nuostatos. ^s-2bd2c98999121420bcfd61ba
 TAR pastaba. [[latest/d29edc324dd311f0b070ee7f1ceefc75|Įstatymo Nr. XV-286]] pakeitimai taikomi nuo 2026-01-01 importuotiems, verslo reikmėms gautiems iš kitos valstybės narės, verslo reikmėms Lietuvos Respublikoje pagamintiems ar Lietuvos Respublikoje verslo reikmėms įsigytiems saldintiems gėrimams, išskyrus atvejus, kai saldinti gėrimai buvo importuoti, verslo reikmėms gauti iš kitos valstybės narės ar Lietuvos Respublikoje pagaminti iki 2025 m. gruodžio 31 d. ir Lietuvos Respublikoje verslo reikmėms įsigyti 2026 m. sausio 1 d. ar vėliau.
 Papildyta straipsnio dalimi:
 Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
@@ -99,14 +99,14 @@ Nr. XV-286, 2025-06-17, paskelbta TAR 2025-06-20, i. k. 2025-11282
 
 
 
-81. Apmokestinant akcizais nealkoholinius saldintus gėrimus, kaip jie apibrėžti šio įstatymo [[#^s-cd604389c6ca3d206e755c6b|3 straipsnio 221 dalyje]], taikomos tik šio įstatymo 11, [[#^s-681dd2bdd48866035569ab8b|13 straipsnių]], [[#^s-84d8127084338802f69c1a58|19 straipsnio]] 1, 2 ir [[#^s-5a42223ea0ec1a1cf74c18b0|4 dalių]], 20, 21, [[#^s-ea6a118f2a515e7e78c6073e|22 straipsnių]] ir II skyriaus devintojo skirsnio nuostatos. ^s-ef99b8a592487027e5d7d65e
+81. Apmokestinant akcizais nealkoholinius saldintus gėrimus, kaip jie apibrėžti šio įstatymo [[#^s-cd604389c6ca3d206e755c6b|3 straipsnio 221 dalyje]], taikomos tik šio įstatymo [[#^s-f69d3d076ed67caf24e8a5f8|11]], [[#^s-681dd2bdd48866035569ab8b|13]] straipsnių, [[#^s-84d8127084338802f69c1a58|19 straipsnio]] [[#^s-a0a9f10205135e35918349b1|1]], [[#^s-d664076d5eb94361fbead03c|2]] ir [[#^s-bdf9aabf9198553004b5a41d|4]] dalių, [[#^s-c1e2c2e5536e45df8ba00801|20]], [[#^s-f7891aa26c6295415a2cd8e4|21]], [[#^s-ea6a118f2a515e7e78c6073e|22]] straipsnių ir II skyriaus devintojo skirsnio nuostatos. ^s-ef99b8a592487027e5d7d65e
 TAR pastaba. [[latest/d29edc324dd311f0b070ee7f1ceefc75|Įstatymo Nr. XV-286]] pakeitimai taikomi nuo 2026-01-01 importuotiems, verslo reikmėms gautiems iš kitos valstybės narės, verslo reikmėms Lietuvos Respublikoje pagamintiems ar Lietuvos Respublikoje verslo reikmėms įsigytiems saldintiems gėrimams, išskyrus atvejus, kai saldinti gėrimai buvo importuoti, verslo reikmėms gauti iš kitos valstybės narės ar Lietuvos Respublikoje pagaminti iki 2025 m. gruodžio 31 d. ir Lietuvos Respublikoje verslo reikmėms įsigyti 2026 m. sausio 1 d. ar vėliau.
 Papildyta straipsnio dalimi:
 Nr. XV-286, 2025-06-17, paskelbta TAR 2025-06-20, i. k. 2025-11282
 
 
 
-9. Šio įstatymo nuostatos, reglamentuojančios akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, gamybos, perdirbimo, laikymo (įskaitant saugojimą) ir gabenimo tvarką, taip pat akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimo tvarką, netaikomos akcizais apmokestinamoms prekėms, kurių muitinis statusas yra ne Sąjungos prekės, kaip tai apibrėžta 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas, su visais pakeitimais (toliau – Sąjungos muitinės kodeksas) 5 straipsnio 24 punkte. ^s-e592a759fc5adfdea8f86a82
+9. Šio įstatymo nuostatos, reglamentuojančios akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, gamybos, perdirbimo, laikymo (įskaitant saugojimą) ir gabenimo tvarką, taip pat akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimo tvarką, netaikomos akcizais apmokestinamoms prekėms, kurių muitinis statusas yra ne Sąjungos prekės, kaip tai apibrėžta 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos [muitinės kodeksas, su visais pakeitimais (toliau – Sąjungos muitinės kodeksas) 5 straipsnio 24 punkte](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145). ^s-e592a759fc5adfdea8f86a82
 Straipsnio dalies pakeitimai:
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 Straipsnio dalies numeracijos pakeitimas:
@@ -178,7 +178,7 @@ Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 ### 3 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-137c00c8d93d93826fc2f8ff
 
 
-1. Akcizais apmokestinamų prekių importas – akcizais apmokestinamų prekių išleidimas į laisvą apyvartą pagal Sąjungos muitinės kodekso 201 straipsnį. ^s-05e9e63b174948c7016d81e7
+1. Akcizais apmokestinamų prekių importas – akcizais apmokestinamų prekių išleidimas į laisvą apyvartą pagal Sąjungos [muitinės kodekso 201 straipsnį](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145). ^s-05e9e63b174948c7016d81e7
 Straipsnio dalies pakeitimai:
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
@@ -250,7 +250,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 3) tabako ritinėliai, kurie nepramoniniu būdu gali būti įvynioti į cigarečių popierių. ^s-e6850428a5ee393996b8530d
 
 
-111. Cukrūs – kaip apibrėžta 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1169/2011 dėl informacijos apie maistą teikimo vartotojams, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 1924/2006 ir (EB) Nr. 1925/2006 bei kuriuo panaikinami Komisijos direktyva 87/250/EEB, Tarybos direktyva 90/496/EEB, Komisijos direktyva 1999/10/EB, Europos Parlamento ir Tarybos direktyva 2000/13/EB, Komisijos direktyvos 2002/67/EB ir 2008/5/EB bei Komisijos reglamentas (EB) Nr. 608/2004, su visais pakeitimais I priedo [[#^s-ab622060a0dbc58d2cb19322|8 dalyje]]. ^s-e2aa36d1267e8dbb51d060c1
+111. Cukrūs – kaip apibrėžta 2011 m. spalio 25 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1169/2011](https://eur-lex.europa.eu/eli/reg/1169/2011/oj) dėl informacijos apie maistą teikimo vartotojams, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos [reglamentai (EB) Nr. 1924/2006](https://eur-lex.europa.eu/eli/reg/1924/2006/oj) ir (EB) Nr. 1925/2006 bei kuriuo panaikinami Komisijos direktyva 87/250/EEB, Tarybos direktyva 90/496/EEB, Komisijos direktyva 1999/10/EB, Europos Parlamento ir Tarybos direktyva 2000/13/EB, Komisijos direktyvos 2002/67/EB ir 2008/5/EB bei Komisijos reglamentas (EB) Nr. 608/2004, su visais pakeitimais I priedo [[#^s-ab622060a0dbc58d2cb19322|8 dalyje]]. ^s-e2aa36d1267e8dbb51d060c1
 TAR pastaba. [[latest/d29edc324dd311f0b070ee7f1ceefc75|Įstatymo Nr. XV-286]] pakeitimai taikomi nuo 2026-01-01 importuotiems, verslo reikmėms gautiems iš kitos valstybės narės, verslo reikmėms Lietuvos Respublikoje pagamintiems ar Lietuvos Respublikoje verslo reikmėms įsigytiems saldintiems gėrimams, išskyrus atvejus, kai saldinti gėrimai buvo importuoti, verslo reikmėms gauti iš kitos valstybės narės ar Lietuvos Respublikoje pagaminti iki 2025 m. gruodžio 31 d. ir Lietuvos Respublikoje verslo reikmėms įsigyti 2026 m. sausio 1 d. ar vėliau.
 Papildyta straipsnio dalimi:
 Nr. XV-286, 2025-06-17, paskelbta TAR 2025-06-20, i. k. 2025-11282
@@ -290,7 +290,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 
 
-15. Sąjungos muitų teritorija – teritorija, apibrėžta Sąjungos muitinės kodekso [[#^s-cba2ec5070e74363b23c8167|4 straipsnyje]]. ^s-b1f21de6b0b3d02eb6c0b2da
+15. Sąjungos muitų teritorija – teritorija, apibrėžta Sąjungos [muitinės kodekso 4 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145). ^s-b1f21de6b0b3d02eb6c0b2da
 Straipsnio dalies pakeitimai:
 Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
@@ -310,13 +310,13 @@ Nr. XV-286, 2025-06-17, paskelbta TAR 2025-06-20, i. k. 2025-11282
 
 
 
-18. Importo vieta – vieta, kurioje prekės yra tuo metu, kai jos išleidžiamos į laisvą apyvartą pagal Sąjungos muitinės kodekso 201 straipsnį. ^s-b3e46388586a4ea598e54352
+18. Importo vieta – vieta, kurioje prekės yra tuo metu, kai jos išleidžiamos į laisvą apyvartą pagal Sąjungos [muitinės kodekso 201 straipsnį](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145). ^s-b3e46388586a4ea598e54352
 Straipsnio dalies pakeitimai:
 Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 
 
 
-181. Kaitinamojo tabako produktai – prie cigarų ir cigarilių, cigarečių ir rūkomojo tabako, kaip jie apibrėžti šio straipsnio 10, 11 ir [[#^s-5b519a24e2a815886daaba5f|27 dalyse]], nepriskiriami tabako gaminiai, paruošti vartoti tik specialiame elektroniniame įrenginyje, kuriame tabako gaminiai yra kaitinami jiems nedegant. ^s-0bebe68932befffdd395b63a
+181. Kaitinamojo tabako produktai – prie cigarų ir cigarilių, cigarečių ir rūkomojo tabako, kaip jie apibrėžti šio straipsnio [[#^s-3eb603c4b447e9e4bd9bc4c2|10]], [[#^s-cfbf0f0d85d813fcfb2249d6|11]] ir [[#^s-5b519a24e2a815886daaba5f|27]] dalyse, nepriskiriami tabako gaminiai, paruošti vartoti tik specialiame elektroniniame įrenginyje, kuriame tabako gaminiai yra kaitinami jiems nedegant. ^s-0bebe68932befffdd395b63a
 Papildyta straipsnio dalimi:
 Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
 
@@ -325,7 +325,7 @@ Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
 19. Kita valstybė narė – bet kuri valstybė narė, išskyrus Lietuvos Respubliką. ^s-6f038a1e2a41f7146f7c89d9
 
 
-20. Kiti fermentuoti gėrimai – kiti ramūs ir putojantys fermentuoti gėrimai, kaip jie apibrėžti šio straipsnio 21 ir [[#^s-efce5c637bda78b1380adf26|22 dalyse]]. ^s-faaf92ba3a9a9d193f9451d1
+20. Kiti fermentuoti gėrimai – kiti ramūs ir putojantys fermentuoti gėrimai, kaip jie apibrėžti šio straipsnio [[#^s-ffdd03f0e53fa418062297aa|21]] ir [[#^s-efce5c637bda78b1380adf26|22]] dalyse. ^s-faaf92ba3a9a9d193f9451d1
 
 
 21. Kiti putojantys fermentuoti gėrimai – alkoholiniai gėrimai, kurie atitinka visus šiuos požymius: ^s-ffdd03f0e53fa418062297aa
@@ -367,7 +367,7 @@ Nr. XV-286, 2025-06-17, paskelbta TAR 2025-06-20, i. k. 2025-11282
 
 
 
-223. Neteisėtas prekių įvežimas – prekių, kurioms nebuvo įforminta išleidimo į laisvą apyvartą procedūra pagal Sąjungos muitinės kodekso 201 straipsnį ir dėl kurių atsirado skola muitinei pagal Sąjungos muitinės kodekso [[#^s-3461cad7f7b4ef3bf144f57e|79 straipsnio 1 dalį]] arba tokia skola būtų atsiradusi, jei prekėms būtų buvęs taikomas muitas, įvežimas į Europos Sąjungos teritoriją. ^s-0c24cf2451bbdf24e267ec66
+223. Neteisėtas prekių įvežimas – prekių, kurioms nebuvo įforminta išleidimo į laisvą apyvartą procedūra pagal Sąjungos [muitinės kodekso 201 straipsnį](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) ir dėl kurių atsirado skola muitinei pagal Sąjungos [muitinės kodekso 79 straipsnio 1 dalį](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) arba tokia skola būtų atsiradusi, jei prekėms būtų buvęs taikomas muitas, įvežimas į Europos Sąjungos teritoriją. ^s-0c24cf2451bbdf24e267ec66
 Papildyta straipsnio dalimi:
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 Straipsnio dalies numeracijos pakeitimas:
@@ -439,7 +439,7 @@ b) didesnė kaip 15 procentų, bet ne didesnė kaip 18 procentų ir yra gauta ti
 25. Registruotas akcizais apmokestinamų prekių gavėjas (toliau – registruotas gavėjas) – asmuo, kuris šio įstatymo ir kitų teisės aktų nustatyta tvarka yra įsiregistravęs gauti iš kitos valstybės narės verslo tikslams akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas. Registruotais gavėjais laikomi ir kitų valstybių narių kompetentingų institucijų pripažinti asmenys. ^s-34d9671229e8f8e58d7db233
 
 
-26. Registruotas akcizais apmokestinamų prekių siuntėjas (toliau – registruotas siuntėjas) – asmuo, kuris šio įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka yra įsiregistravęs verslo tikslais tik išgabenti akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, jas išleidžiant į laisvą apyvartą pagal Sąjungos muitinės kodekso 201 straipsnį. Registruotais siuntėjais laikomi ir kitų valstybių narių kompetentingų institucijų pripažinti asmenys. ^s-92d7d6db86c65811b3b51d94
+26. Registruotas akcizais apmokestinamų prekių siuntėjas (toliau – registruotas siuntėjas) – asmuo, kuris šio įstatymo ir jį įgyvendinančių teisės aktų nustatyta tvarka yra įsiregistravęs verslo tikslais tik išgabenti akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, jas išleidžiant į laisvą apyvartą pagal Sąjungos [muitinės kodekso 201 straipsnį](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145). Registruotais siuntėjais laikomi ir kitų valstybių narių kompetentingų institucijų pripažinti asmenys. ^s-92d7d6db86c65811b3b51d94
 Straipsnio dalies pakeitimai:
 Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 
@@ -451,10 +451,10 @@ Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 1) suplėšytas, supjaustytas ar kitaip susmulkintas ir suspaustas į briketus (kubelius) arba nesuspaustas tabakas, tinkamas rūkyti jo papildomai neapdorojus pramoniniu būdu; ^s-712ab0e4b63b924f23492604
 
 
-2) mažmeninei prekybai skirtos tabako liekanos (tabako lapų liekanos ir šalutiniai produktai, gauti apdorojant tabaką ir gaminant tabako produktus), nepriskirtinos prie šio straipsnio 10 ir [[#^s-cfbf0f0d85d813fcfb2249d6|11 dalyse]] nurodytų produktų, jeigu jos gali būti rūkomos. ^s-4c1aa66d6b513c9a78c135ba
+2) mažmeninei prekybai skirtos tabako liekanos (tabako lapų liekanos ir šalutiniai produktai, gauti apdorojant tabaką ir gaminant tabako produktus), nepriskirtinos prie šio straipsnio [[#^s-3eb603c4b447e9e4bd9bc4c2|10]] ir [[#^s-cfbf0f0d85d813fcfb2249d6|11]] dalyse nurodytų produktų, jeigu jos gali būti rūkomos. ^s-4c1aa66d6b513c9a78c135ba
 
 
-271. Saldikliai – kaip apibrėžta 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1333/2008 dėl maisto priedų su visais pakeitimais I priedo 1 punkte. ^s-0d11b4bc82c8e10d0923f51a
+271. Saldikliai – kaip apibrėžta 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1333/2008](https://eur-lex.europa.eu/eli/reg/1333/2008/oj) dėl maisto priedų su visais pakeitimais I priedo 1 punkte. ^s-0d11b4bc82c8e10d0923f51a
 TAR pastaba. [[latest/d29edc324dd311f0b070ee7f1ceefc75|Įstatymo Nr. XV-286]] pakeitimai taikomi nuo 2026-01-01 importuotiems, verslo reikmėms gautiems iš kitos valstybės narės, verslo reikmėms Lietuvos Respublikoje pagamintiems ar Lietuvos Respublikoje verslo reikmėms įsigytiems saldintiems gėrimams, išskyrus atvejus, kai saldinti gėrimai buvo importuoti, verslo reikmėms gauti iš kitos valstybės narės ar Lietuvos Respublikoje pagaminti iki 2025 m. gruodžio 31 d. ir Lietuvos Respublikoje verslo reikmėms įsigyti 2026 m. sausio 1 d. ar vėliau.
 Papildyta straipsnio dalimi:
 Nr. XV-286, 2025-06-17, paskelbta TAR 2025-06-20, i. k. 2025-11282
@@ -468,7 +468,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 
 
-29. Supaprastintas akcizais apmokestinamų prekių vežimo dokumentas – dokumentas, kuriame yra svarbiausi akcizais apmokestinamų prekių vežimo dokumento rekvizitai, naudojamas, kai akcizais apmokestinamos prekės, už kurias akcizai sumokėti, komerciniams tikslams gabenamos tarp valstybių narių iš patvirtinto siuntėjo patvirtintam gavėjui. Supaprastinto akcizais apmokestinamų prekių vežimo dokumento forma, naudojimo ir užpildymo taisyklės nustatytos 1992 m. gruodžio 17 d. Komisijos reglamente (EEB) 3649/92 dėl supaprastinto administracinio lydraščio, skirto Bendrijos viduje judantiems akcizu apmokestinamiems produktams, kurie išleisti vartojimui išsiuntimo valstybėje narėje, tačiau centrinis mokesčių administratorius turi teisę nustatyti papildomus Lietuvos Respublikoje išrašomų supaprastintų akcizais apmokestinamų prekių vežimo dokumentų reikalavimus, kai šioje dalyje nurodytas reglamentas valstybei narei suteikia tokią teisę. ^s-c579c739b9b094828908dbcc
+29. Supaprastintas akcizais apmokestinamų prekių vežimo dokumentas – dokumentas, kuriame yra svarbiausi akcizais apmokestinamų prekių vežimo dokumento rekvizitai, naudojamas, kai akcizais apmokestinamos prekės, už kurias akcizai sumokėti, komerciniams tikslams gabenamos tarp valstybių narių iš patvirtinto siuntėjo patvirtintam gavėjui. Supaprastinto akcizais apmokestinamų prekių vežimo dokumento forma, naudojimo ir užpildymo taisyklės nustatytos 1992 m. gruodžio 17 d. Komisijos [reglamente (EEB) 3649/92](https://eur-lex.europa.eu/eli/reg/3649/92/oj) dėl supaprastinto administracinio lydraščio, skirto Bendrijos viduje judantiems akcizu apmokestinamiems produktams, kurie išleisti vartojimui išsiuntimo valstybėje narėje, tačiau centrinis mokesčių administratorius turi teisę nustatyti papildomus Lietuvos Respublikoje išrašomų supaprastintų akcizais apmokestinamų prekių vežimo dokumentų reikalavimus, kai šioje dalyje nurodytas reglamentas valstybei narei suteikia tokią teisę. ^s-c579c739b9b094828908dbcc
 Straipsnio dalies pakeitimai:
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
@@ -483,10 +483,10 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 2) jų faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 1,2 procento, bet ne didesnė kaip 22 procentai; ^s-9a3e12f43454c4c9bbed9b2a
 
 
-3) jie nepriskirtini prie šio straipsnio 8, 20 ar [[#^s-8f87fbeb67b6a84fc61c71a2|34 dalyse]] nurodytų gėrimų. ^s-18b5b72113337064f0b2ec3a
+3) jie nepriskirtini prie šio straipsnio [[#^s-ab622060a0dbc58d2cb19322|8]], [[#^s-faaf92ba3a9a9d193f9451d1|20]] ar [[#^s-8f87fbeb67b6a84fc61c71a2|34]] dalyse nurodytų gėrimų. ^s-18b5b72113337064f0b2ec3a
 
 
-31. Trečioji valstybė – bet kuri teritorija, kuri nėra Europos Sąjungos teritorija, arba trečioji teritorija, kaip tai apibrėžta atitinkamai šio straipsnio 16 ir [[#^s-8f1c1afd0c41b5657566a4d2|32 dalyse]]. ^s-38a6feacc387ea3eeb54cb1f
+31. Trečioji valstybė – bet kuri teritorija, kuri nėra Europos Sąjungos teritorija, arba trečioji teritorija, kaip tai apibrėžta atitinkamai šio straipsnio [[#^s-b637e341f3904acc5c6bd847|16]] ir [[#^s-8f1c1afd0c41b5657566a4d2|32]] dalyse. ^s-38a6feacc387ea3eeb54cb1f
 
 
 32. Trečiosios teritorijos – finansų ministro patvirtintame sąraše nurodytos teritorijos, kuriose netaikomos šio įstatymo nuostatos. ^s-8f1c1afd0c41b5657566a4d2
@@ -501,25 +501,25 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 
 
-34. Vynas iš šviežių vynuogių – ramus ir putojantis vynas iš šviežių vynuogių, kaip tai apibrėžta šio straipsnio 23 ir [[#^s-2557302ba0738daee641efe1|24 dalyse]]. ^s-8f87fbeb67b6a84fc61c71a2
+34. Vynas iš šviežių vynuogių – ramus ir putojantis vynas iš šviežių vynuogių, kaip tai apibrėžta šio straipsnio [[#^s-4471cdefe54cffc393516dce|23]] ir [[#^s-2557302ba0738daee641efe1|24]] dalyse. ^s-8f87fbeb67b6a84fc61c71a2
 
 
 35. Produktai, kurių dalį sudaro kitos negu tabakas medžiagos, bet kurie pagal kitus kriterijus atitinka [[#^s-3eb603c4b447e9e4bd9bc4c2|šio straipsnio 10 dalyje]] nurodytus požymius, laikomi cigarais ir cigarilėmis. ^s-e884cf4173b4a544fdbe8a3e
 
 
-36. Produktai, kurie visiškai ar iš dalies pagaminti iš kitų negu tabakas medžiagų, bet pagal kitus kriterijus atitinka šio straipsnio 11, 181 ar [[#^s-5b519a24e2a815886daaba5f|27 dalyje]] nurodytus požymius, laikomi atitinkamai cigaretėmis, kaitinamojo tabako produktais arba rūkomuoju tabaku. Šios nuostatos netaikomos produktams, kuriuose nėra tabako, jeigu jie skirti medicinos reikmėms. ^s-406aa3487e1e133e30f0f4cc
+36. Produktai, kurie visiškai ar iš dalies pagaminti iš kitų negu tabakas medžiagų, bet pagal kitus kriterijus atitinka šio straipsnio [[#^s-cfbf0f0d85d813fcfb2249d6|11]], [[#^s-0bebe68932befffdd395b63a|181]] ar [[#^s-5b519a24e2a815886daaba5f|27]] dalyje nurodytus požymius, laikomi atitinkamai cigaretėmis, kaitinamojo tabako produktais arba rūkomuoju tabaku. Šios nuostatos netaikomos produktams, kuriuose nėra tabako, jeigu jie skirti medicinos reikmėms. ^s-406aa3487e1e133e30f0f4cc
 Straipsnio dalies pakeitimai:
 Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
 
 
 
-37. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] (toliau – [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymas]]) ir Sąjungos muitinės kodekse, tačiau mokesčių administratoriumi šiame įstatyme vadinama tik Valstybinė mokesčių inspekcija. ^s-99f138ac177161a8967cede1
+37. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] (toliau – [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymas]]) ir Sąjungos [muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), tačiau mokesčių administratoriumi šiame įstatyme vadinama tik Valstybinė mokesčių inspekcija. ^s-99f138ac177161a8967cede1
 Straipsnio dalies pakeitimai:
 Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 
 
 
-38. Šiame įstatyme ir jo prieduose prekių kodai yra nurodyti pagal tų metų KN versiją, kuri nurodyta atitinkamoje Tarybos direktyvoje, nustatančioje atitinkamų prekių apmokestinimą, išskyrus etilo alkoholio ir alkoholinių gėrimų kodus, nurodytus 2018 m. spalio 11 d. Komisijos įgyvendinimo reglamente (ES) 2018/1602, kuriuo iš dalies keičiamas Tarybos reglamento (EEB) Nr. 2658/87 dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo I priedas. ^s-2a71ae9e3c7a60bb9bf9d9b4
+38. Šiame įstatyme ir jo prieduose prekių kodai yra nurodyti pagal tų metų KN versiją, kuri nurodyta atitinkamoje Tarybos direktyvoje, nustatančioje atitinkamų prekių apmokestinimą, išskyrus etilo alkoholio ir alkoholinių gėrimų kodus, nurodytus 2018 m. spalio 11 d. Komisijos įgyvendinimo [reglamente (ES) 2018/1602](https://eur-lex.europa.eu/eli/reg/2018/1602/oj), kuriuo iš dalies keičiamas Tarybos [reglamento (EEB) Nr. 2658/87](https://eur-lex.europa.eu/eli/reg/2658/87/oj) [dėl tarifų](https://e-tar.lt/portal/lt/legalAct/SAV.511075) ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo I priedas. ^s-2a71ae9e3c7a60bb9bf9d9b4
 Straipsnio dalies pakeitimai:
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
@@ -563,7 +563,7 @@ Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 
 
 
-7. [[#^s-bd460ee187df16cd29364fc2|Šio straipsnio 1 dalies]] reikalavimai netaikomi gaminant kitose negu KN 2203–2208 pozicijose klasifikuojamas prekes, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 1,2 procento, o jei tai ne skysti produktai, – etilo alkoholis sudaro daugiau kaip 1 procentą jų masės, jeigu joms gali būti taikomos šio įstatymo [[#^s-a015cdb876de5727f3ee3545|27 straipsnio 1 dalies]] 1 ar 3–7 punktų nuostatos. ^s-e4b14e960230f59a81379244
+7. [[#^s-bd460ee187df16cd29364fc2|Šio straipsnio 1 dalies]] reikalavimai netaikomi gaminant kitose negu KN 2203–2208 pozicijose klasifikuojamas prekes, kurių faktinė tūrinė alkoholio koncentracija procentais yra didesnė kaip 1,2 procento, o jei tai ne skysti produktai, – etilo alkoholis sudaro daugiau kaip 1 procentą jų masės, jeigu joms gali būti taikomos šio įstatymo [[#^s-a015cdb876de5727f3ee3545|27 straipsnio 1 dalies]] [[#^s-09a3f1b875b41a944e166433|1]] ar [[#^s-be89a6615c889d1eb30fd025|3]]–[[#^s-9ba6b0265d714ef3c9a64f65|7]] punktų nuostatos. ^s-e4b14e960230f59a81379244
 Straipsnio dalies pakeitimai:
 Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
 
@@ -799,13 +799,13 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 1. Prievolė mokėti akcizus Lietuvos Respublikoje atsiranda už: ^s-246b1b42a3e824e1f1f18f3e
 
 
-1) akcizais apmokestinamas prekes, kurioms Lietuvos Respublikoje panaikintas akcizų mokėjimo laikino atidėjimo režimas (t. y. už iš akcizais apmokestinamų prekių sandėlio išgabentas prekes, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, už prekes, registruoto gavėjo gautas iš kitos valstybės narės, už akcizais apmokestinamas prekes, pristatytas į akcizais apmokestinamų prekių sandėlio savininko, gaunančio akcizais apmokestinamas prekes, ar registruoto gavėjo nurodytą tiesioginio pristatymo vietą, taip pat už šio įstatymo [[#^s-a0a9f10205135e35918349b1|19 straipsnio 1 dalies]] 2, 3, 6, 7, 8 ir [[#^s-e9e863b1fca737ed910f2006|9 punktuose]] nurodytiems asmenims skirtas iš kitų valstybių narių atgabentas akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas). Šio punkto nuostatos taikomos ir toms akcizais apmokestinamoms prekėms, kurioms akcizų mokėjimo laikino atidėjimo režimas panaikinamas pažeidžiant teisės aktų nustatytus reikalavimus; ^s-93b0d70f622a0279da902447
+1) akcizais apmokestinamas prekes, kurioms Lietuvos Respublikoje panaikintas akcizų mokėjimo laikino atidėjimo režimas (t. y. už iš akcizais apmokestinamų prekių sandėlio išgabentas prekes, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, už prekes, registruoto gavėjo gautas iš kitos valstybės narės, už akcizais apmokestinamas prekes, pristatytas į akcizais apmokestinamų prekių sandėlio savininko, gaunančio akcizais apmokestinamas prekes, ar registruoto gavėjo nurodytą tiesioginio pristatymo vietą, taip pat už šio įstatymo [[#^s-a0a9f10205135e35918349b1|19 straipsnio 1 dalies]] [[#^s-f887496cb3da696d1cde3b4c|2]], [[#^s-04498feab12d72eb33170ddb|3]], [[#^s-01419ffbaabc809db6afba11|6]], [[#^s-bac01b53de2a0148b3e18aa2|7]], [[#^s-6581a641494b9d668cd3d28d|8]] ir [[#^s-a91ee20d9c0d4fc4352dcd74|9]] punktuose nurodytiems asmenims skirtas iš kitų valstybių narių atgabentas akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas). Šio punkto nuostatos taikomos ir toms akcizais apmokestinamoms prekėms, kurioms akcizų mokėjimo laikino atidėjimo režimas panaikinamas pažeidžiant teisės aktų nustatytus reikalavimus; ^s-93b0d70f622a0279da902447
 Straipsnio punkto pakeitimai:
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 
 
-2) akcizais apmokestinamas prekes, prarastas Lietuvos Respublikos akcizais apmokestinamų prekių sandėlyje, už Lietuvos Respublikoje gabenimo metu prarastas prekes, taip pat už dėl Lietuvos Respublikoje įvykusių ar nustatytų (jei nėra įrodymų, kad šie pažeidimai įvyko ar buvo nustatyti kitoje valstybėje narėje) gabenimo pažeidimų nepristatytas į paskirties vietą akcizais apmokestinamas prekes. Akcizais apmokestinamų prekių gabenimo pažeidimu laikomi atvejai, kai akcizais apmokestinamų prekių gavimas (eksportas) nėra patvirtinamas vadovaujantis šio įstatymo 14, 15 ar [[#^s-26bd3962fc056c5662ee76bb|16 straipsnio]] arba savo esme tolygiomis kitų valstybių narių teisės aktų nuostatomis. Akcizais apmokestinamų prekių gabenimo pažeidimu nelaikoma ir akcizai neskaičiuojami už prarastą prekių kiekį, neviršijantį Europos Komisijos nustatytos tarp valstybių narių gabenamų prekių bendrosios dalinio praradimo ribos (išskyrus atvejus, kai yra pagrįstų priežasčių įtarti sukčiavimą ar pažeidimą), o kai ši riba nenustatyta arba kitais akcizais apmokestinamų prekių praradimo atvejais (įskaitant praradimą akcizais apmokestinamų prekių sandėlyje), – neviršijantį Vyriausybės ar jos įgaliotos institucijos nustatytų natūralios netekties normų, taip pat už prekes, prarastas dėl nenugalimos jėgos (force majeure) aplinkybių, taip pat už kitas negrįžtamai prarastas ar visiškai sunaikintas prekes (jeigu jų negalima panaudoti kaip akcizais apmokestinamų prekių), jeigu tai įrodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka; ^s-86e0645a36c28a552dbff01a
+2) akcizais apmokestinamas prekes, prarastas Lietuvos Respublikos akcizais apmokestinamų prekių sandėlyje, už Lietuvos Respublikoje gabenimo metu prarastas prekes, taip pat už dėl Lietuvos Respublikoje įvykusių ar nustatytų (jei nėra įrodymų, kad šie pažeidimai įvyko ar buvo nustatyti kitoje valstybėje narėje) gabenimo pažeidimų nepristatytas į paskirties vietą akcizais apmokestinamas prekes. Akcizais apmokestinamų prekių gabenimo pažeidimu laikomi atvejai, kai akcizais apmokestinamų prekių gavimas (eksportas) nėra patvirtinamas vadovaujantis šio įstatymo [[#^s-c2c19705f96eb921b6434d01|14]], [[#^s-5a97728eb3d4a5f33c814564|15]] ar [[#^s-26bd3962fc056c5662ee76bb|16]] straipsnio arba savo esme tolygiomis kitų valstybių narių teisės aktų nuostatomis. Akcizais apmokestinamų prekių gabenimo pažeidimu nelaikoma ir akcizai neskaičiuojami už prarastą prekių kiekį, neviršijantį Europos Komisijos nustatytos tarp valstybių narių gabenamų prekių bendrosios dalinio praradimo ribos (išskyrus atvejus, kai yra pagrįstų priežasčių įtarti sukčiavimą ar pažeidimą), o kai ši riba nenustatyta arba kitais akcizais apmokestinamų prekių praradimo atvejais (įskaitant praradimą akcizais apmokestinamų prekių sandėlyje), – neviršijantį Vyriausybės ar jos įgaliotos institucijos nustatytų natūralios netekties normų, taip pat už prekes, prarastas dėl nenugalimos jėgos (force majeure) aplinkybių, taip pat už kitas negrįžtamai prarastas ar visiškai sunaikintas prekes (jeigu jų negalima panaudoti kaip akcizais apmokestinamų prekių), jeigu tai įrodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka; ^s-86e0645a36c28a552dbff01a
 Straipsnio punkto pakeitimai:
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
@@ -814,7 +814,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 3) akcizais apmokestinamas prekes, sunaudotas Lietuvos Respublikos akcizais apmokestinamų prekių sandėlyje, išskyrus atvejus, kai šios prekės panaudotos kitoms prekėms, kurios pagal šį įstatymą yra akcizų objektas, gaminti arba šio įstatymo nustatytiems tikslams, kuriems naudojamos prekės atleidžiamos nuo akcizų, taip pat už energinius produktus, sunaudotus akcizais apmokestinamų prekių sandėlio, kuriame šie energiniai produktai gaminami, teritorijoje šių energinių produktų gamybos proceso metu (energiniams produktams, sunaudotiems gamintojo reikmėms kaip degalai (variklių kuras) arba kaip šildymui skirtas kuras, akcizai taikomi bendra tvarka); ^s-337f2e20c86902dc28d82bf2
 
 
-4) akcizais apmokestinamas prekes, kurios buvo įsigytos ar importuotos be akcizų šio įstatymo 19, 27 ar [[#^s-f964b48e73f80079e0bda0e0|43 straipsniuose]] nustatytiems tikslams, tačiau Lietuvos Respublikoje panaudotos kitiems tikslams; ^s-b14481745c93b838fa509424
+4) akcizais apmokestinamas prekes, kurios buvo įsigytos ar importuotos be akcizų šio įstatymo [[#^s-84d8127084338802f69c1a58|19]], [[#^s-d8770dd8a8a8e409e6ebd2f2|27]] ar [[#^s-f964b48e73f80079e0bda0e0|43]] straipsniuose nustatytiems tikslams, tačiau Lietuvos Respublikoje panaudotos kitiems tikslams; ^s-b14481745c93b838fa509424
 
 
 5) šio įstatymo [[#^s-e4c12cb065d03d6412f1ee65|2 straipsnio 2 dalyje]] nurodytus energinius produktus, kai jie Lietuvos Respublikoje parduodami arba panaudojami kaip variklių degalai, jų priedai arba kaip šildymui skirtas kuras, šio įstatymo [[#^s-f38666fd1fa27329bf1f53d1|2 straipsnio 3 dalyje]] nurodytus produktus, kai jie Lietuvos Respublikoje parduodami arba panaudojami kaip variklių degalai arba jų priedai, taip pat šio įstatymo [[#^s-23769a6bbcb1105537143c79|2 straipsnio 4 dalyje]] nurodytus angliavandenilius, kai jie Lietuvos Respublikoje parduodami arba panaudojami kaip šildymui skirtas kuras; ^s-c93017a4471d82b3c07d1cd0
@@ -844,7 +844,7 @@ Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 
 
-10) akcizais apmokestinamas prekes, kurioms šio įstatymo [[#^s-0dadc91796c5d80f5eb4e1aa|37 straipsnio]] 2 ar [[#^s-64976fd1d7cda741428c585f|3 dalyje]], [[#^s-c7394afc2b08aa6c21b4f118|371 straipsnio 2 dalyje]], [[#^s-c3b42413ae2c323b99ac2d3b|38 straipsnio 2 dalyje]] arba [[#^s-56c90587fcf1588e676a9cf8|39 straipsnio]] 2 ar [[#^s-64976fd1d7cda741428c585f|3 dalyje]] nustatyta tvarka buvo pritaikytos nurodytose dalyse nustatytos akcizų lengvatos, tačiau kurios buvo panaudotos kitiems negu šiose dalyse nurodytiems tikslams; ^s-623ac92c5ade710e06250e3a
+10) akcizais apmokestinamas prekes, kurioms šio įstatymo [[#^s-0dadc91796c5d80f5eb4e1aa|37 straipsnio]] [[#^s-0d2458f97e1ae3dc01f36cfe|2]] ar [[#^s-ac33db7fdc7d21bff3fd84d5|3]] dalyje, [[#^s-c7394afc2b08aa6c21b4f118|371 straipsnio 2 dalyje]], [[#^s-c3b42413ae2c323b99ac2d3b|38 straipsnio 2 dalyje]] arba [[#^s-56c90587fcf1588e676a9cf8|39 straipsnio]] [[#^s-f581824d1d06651abfeb9b5e|2]] ar [[#^s-df41e45252ec5f81502bfd0d|3]] dalyje nustatyta tvarka buvo pritaikytos nurodytose dalyse nustatytos akcizų lengvatos, tačiau kurios buvo panaudotos kitiems negu šiose dalyse nurodytiems tikslams; ^s-623ac92c5ade710e06250e3a
 Straipsnio punkto pakeitimai:
 Nr. XIV-2473, 2024-02-15, paskelbta TAR 2024-02-20, i. k. 2024-03206
 Nr. XV-679, 2025-12-16, paskelbta TAR 2025-12-23, i. k. 2025-22568
@@ -857,7 +857,7 @@ Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 
 
-2. Be [[#^s-246b1b42a3e824e1f1f18f3e|šio straipsnio 1 dalyje]] nurodytų atvejų, prievolė mokėti akcizus atsiranda už Lietuvos Respublikoje importuojamas akcizais apmokestinamas prekes, išskyrus importuojamas akcizais apmokestinamas prekes, registruoto siuntėjo išgabentas į bet kurią šio įstatymo [[#^s-38b0edb04e0feb1935dcbc07|14 straipsnio 1 dalyje]] ir [[#^s-c43720f0da9feae40d19aeb8|15 straipsnio 1 dalyje]] nurodytą paskirties vietą, taip pat importuojamas akcizais apmokestinamas prekes, nugabenamas į akcizais apmokestinamų prekių sandėlį. Prievolė mokėti akcizus atsiranda ir už neteisėtai įvežamas akcizais apmokestinamas prekes, išskyrus atvejus, kai skola muitinei yra išnykusi pagal Sąjungos muitinės kodekso 124 straipsnio 1 dalies e, f, g ar k punktą. Importuotų akcizais apmokestinamų prekių, registruoto siuntėjo išgabentų į šio įstatymo [[#^s-38b0edb04e0feb1935dcbc07|14 straipsnio 1 dalyje]] ir [[#^s-c43720f0da9feae40d19aeb8|15 straipsnio 1 dalyje]] nurodytas paskirties vietas, taip pat importuotų akcizais apmokestinamų prekių nugabenimo į akcizais apmokestinamų prekių sandėlį tvarką nustato Vyriausybė ar jos įgaliota institucija. Laikoma, kad akcizais apmokestinamos prekės importuojamos Lietuvos Respublikoje, kai: ^s-91453727dade92f3e5045671
+2. Be [[#^s-246b1b42a3e824e1f1f18f3e|šio straipsnio 1 dalyje]] nurodytų atvejų, prievolė mokėti akcizus atsiranda už Lietuvos Respublikoje importuojamas akcizais apmokestinamas prekes, išskyrus importuojamas akcizais apmokestinamas prekes, registruoto siuntėjo išgabentas į bet kurią šio įstatymo [[#^s-38b0edb04e0feb1935dcbc07|14 straipsnio 1 dalyje]] ir [[#^s-c43720f0da9feae40d19aeb8|15 straipsnio 1 dalyje]] nurodytą paskirties vietą, taip pat importuojamas akcizais apmokestinamas prekes, nugabenamas į akcizais apmokestinamų prekių sandėlį. Prievolė mokėti akcizus atsiranda ir už neteisėtai įvežamas akcizais apmokestinamas prekes, išskyrus atvejus, kai skola muitinei yra išnykusi pagal Sąjungos [muitinės kodekso 124 straipsnio 1 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) e, f, g ar k punktą. Importuotų akcizais apmokestinamų prekių, registruoto siuntėjo išgabentų į šio įstatymo [[#^s-38b0edb04e0feb1935dcbc07|14 straipsnio 1 dalyje]] ir [[#^s-c43720f0da9feae40d19aeb8|15 straipsnio 1 dalyje]] nurodytas paskirties vietas, taip pat importuotų akcizais apmokestinamų prekių nugabenimo į akcizais apmokestinamų prekių sandėlį tvarką nustato Vyriausybė ar jos įgaliota institucija. Laikoma, kad akcizais apmokestinamos prekės importuojamos Lietuvos Respublikoje, kai: ^s-91453727dade92f3e5045671
 
 
 1) ne Sąjungos prekės yra Lietuvos Respublikos teritorijoje tuo metu, kai jos importuojamos į Europos Sąjungos teritoriją; ^s-c211f64fa0c95d7ec0708ca2
@@ -872,7 +872,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 
 
-3. Prievolė mokėti akcizus už [[#^s-246b1b42a3e824e1f1f18f3e|šio straipsnio 1 dalyje]] nurodytas prekes atsiranda tuo metu, kai susidaro [[#^s-246b1b42a3e824e1f1f18f3e|šio straipsnio 1 dalyje]] nurodytos aplinkybės. Prievolė mokėti akcizus už [[#^s-91453727dade92f3e5045671|šio straipsnio 2 dalyje]] nurodytas prekes, kurioms pagal Europos Sąjungos atitinkamus teisės aktus yra taikomi importo muitai, atsiranda tuo metu, kai pagal teisės aktus, reguliuojančius importo muitų apskaičiavimą, atsiranda prievolė už jas apskaičiuoti importo muitus. Jeigu [[#^s-91453727dade92f3e5045671|šio straipsnio 2 dalyje]] nurodytoms prekėms netaikomi jokie importo muitai, prievolė mokėti akcizus už jas atsiranda tada, jeigu pagal atitinkamas Sąjungos muitinės kodekso nuostatas atsirastų importo skola muitinei ir jeigu šioms prekėms šie muitai būtų nustatyti. ^s-64976fd1d7cda741428c585f
+3. Prievolė mokėti akcizus už [[#^s-246b1b42a3e824e1f1f18f3e|šio straipsnio 1 dalyje]] nurodytas prekes atsiranda tuo metu, kai susidaro [[#^s-246b1b42a3e824e1f1f18f3e|šio straipsnio 1 dalyje]] nurodytos aplinkybės. Prievolė mokėti akcizus už [[#^s-91453727dade92f3e5045671|šio straipsnio 2 dalyje]] nurodytas prekes, kurioms pagal Europos Sąjungos atitinkamus teisės aktus yra taikomi importo muitai, atsiranda tuo metu, kai pagal teisės aktus, reguliuojančius importo muitų apskaičiavimą, atsiranda prievolė už jas apskaičiuoti importo muitus. Jeigu [[#^s-91453727dade92f3e5045671|šio straipsnio 2 dalyje]] nurodytoms prekėms netaikomi jokie importo muitai, prievolė mokėti akcizus už jas atsiranda tada, jeigu pagal atitinkamas Sąjungos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nuostatas atsirastų importo skola muitinei ir jeigu šioms prekėms šie muitai būtų nustatyti. ^s-64976fd1d7cda741428c585f
 Straipsnio dalies pakeitimai:
 Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 
@@ -899,7 +899,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 8. [[#^s-065dd494a335fdc4f7762ab4|Šio straipsnio 1 dalies 7 punkte]] nurodytu atveju prievolė mokėti akcizus tenka: ^s-d3dda575502131e8eebaa3da
 
 
-1) kai akcizais apmokestinamos prekės, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, iš kitos valstybės narės patvirtinto siuntėjo atgabenamos patvirtintam gavėjui į Lietuvos Respubliką ir laikomos joje komerciniams tikslams, – patvirtintam gavėjui. Asmeniui, kuris nėra patvirtintas gavėjas ir (arba) patvirtintas siuntėjas, ar asmeniui, kuris nėra veikiantis kaip patvirtintas gavėjas ir (arba) patvirtintas siuntėjas, kaip nustatyta šio įstatymo [[#^s-de154f57c1cc4223b3226985|81 straipsnio]] 1 ir [[#^s-91453727dade92f3e5045671|2 dalyse]] ar tolygiose kitų valstybių narių teisės aktų nuostatose, taip pat tenka prievolė mokėti akcizus; ^s-35fb56c2d0c2e84e4b33c3a1
+1) kai akcizais apmokestinamos prekės, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, iš kitos valstybės narės patvirtinto siuntėjo atgabenamos patvirtintam gavėjui į Lietuvos Respubliką ir laikomos joje komerciniams tikslams, – patvirtintam gavėjui. Asmeniui, kuris nėra patvirtintas gavėjas ir (arba) patvirtintas siuntėjas, ar asmeniui, kuris nėra veikiantis kaip patvirtintas gavėjas ir (arba) patvirtintas siuntėjas, kaip nustatyta šio įstatymo [[#^s-de154f57c1cc4223b3226985|81 straipsnio]] [[#^s-cc1b7e9cd903951a33b5f8b1|1]] ir [[#^s-0745ab947c40a693f4b4d88a|2]] dalyse ar tolygiose kitų valstybių narių teisės aktų nuostatose, taip pat tenka prievolė mokėti akcizus; ^s-35fb56c2d0c2e84e4b33c3a1
 
 
 2) kai prekės iš kitos valstybės narės į Lietuvos Respubliką atgabenamos prekių siuntėjo, kuris vykdo ekonominę veiklą, arba jo užsakymu kito asmens asmeniui, kuris nėra registruotas gavėjas ar patvirtintas gavėjas ir kuris nevykdo ekonominės veiklos, kaip ji apibrėžta [[latest/TAR.ED68997709F5|Pridėtinės vertės mokesčio įstatyme]], arba ne į akcizais apmokestinamų prekių sandėlį, – prekių siuntėjui. ^s-be2427bcc91fba4cfe8e8f75
@@ -922,7 +922,7 @@ Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 
 
-11. [[#^s-623ac92c5ade710e06250e3a|Šio straipsnio 1 dalies 10 punkte]] nurodytu atveju prievolė mokėti akcizų skirtumą (tarp šio įstatymo [[#^s-f4455f5ef4b40349bf5a07d0|37 straipsnio 1 dalyje]], [[#^s-fd1bd758ce1680605b4f7723|371 straipsnio 1 dalyje]] arba [[#^s-56c90587fcf1588e676a9cf8|39 straipsnio]] 1 ar [[#^s-64976fd1d7cda741428c585f|3 dalyje]] nurodyto akcizų tarifo ir akcizais apmokestinamai prekei pritaikyto akcizų tarifo) tenka asmeniui, panaudojusiam akcizais apmokestinamas prekes kitaip, negu nustato akcizų lengvatų taikymo sąlygos. ^s-c91b5093f7431d291601d18b
+11. [[#^s-623ac92c5ade710e06250e3a|Šio straipsnio 1 dalies 10 punkte]] nurodytu atveju prievolė mokėti akcizų skirtumą (tarp šio įstatymo [[#^s-f4455f5ef4b40349bf5a07d0|37 straipsnio 1 dalyje]], [[#^s-fd1bd758ce1680605b4f7723|371 straipsnio 1 dalyje]] arba [[#^s-56c90587fcf1588e676a9cf8|39 straipsnio]] [[#^s-5213ca2dadd5b8a53f5efe2b|1]] ar [[#^s-df41e45252ec5f81502bfd0d|3]] dalyje nurodyto akcizų tarifo ir akcizais apmokestinamai prekei pritaikyto akcizų tarifo) tenka asmeniui, panaudojusiam akcizais apmokestinamas prekes kitaip, negu nustato akcizų lengvatų taikymo sąlygos. ^s-c91b5093f7431d291601d18b
 Straipsnio dalies pakeitimai:
 Nr. XIV-2473, 2024-02-15, paskelbta TAR 2024-02-20, i. k. 2024-03206
 Nr. XV-811, 2026-04-14, paskelbta TAR 2026-04-15, i. k. 2026-06082
@@ -935,7 +935,7 @@ Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 
 
-13. Prievolė mokėti akcizus [[#^s-91453727dade92f3e5045671|šio straipsnio 2 dalyje]] nurodytu atveju tenka Sąjungos muitinės kodekso 5 straipsnio 15 dalyje nurodytam deklarantui (toliau – deklarantas) arba bet kokiam kitam šio kodekso [[#^s-700f93af8d71b4df2902fccc|77 straipsnio 3 dalyje]] nurodytam asmeniui. Kai akcizais apmokestinamos prekės neteisėtai įvežamos, prievolė mokėti akcizus tenka bet kuriam asmeniui, dalyvavusiam neteisėtai įvežant šias prekes. ^s-f81f4b10a5a88c95b5be3956
+13. Prievolė mokėti akcizus [[#^s-91453727dade92f3e5045671|šio straipsnio 2 dalyje]] nurodytu atveju tenka Sąjungos [muitinės kodekso 5 straipsnio 15 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nurodytam deklarantui (toliau – deklarantas) arba bet kokiam kitam šio kodekso [[#^s-700f93af8d71b4df2902fccc|77 straipsnio 3 dalyje]] nurodytam asmeniui. Kai akcizais apmokestinamos prekės neteisėtai įvežamos, prievolė mokėti akcizus tenka bet kuriam asmeniui, dalyvavusiam neteisėtai įvežant šias prekes. ^s-f81f4b10a5a88c95b5be3956
 Straipsnio dalies pakeitimai:
 Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
@@ -973,7 +973,7 @@ Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
 5. Išregistravus registruotą gavėją arba patvirtintą gavėją, ne vėliau kaip per 10 dienų nuo išregistravimo dienos asmuo privalo pateikti registruoto gavėjo arba patvirtinto gavėjo akcizų deklaraciją, kurioje būtų deklaruota mokėtina akcizų suma už iš kitos valstybės narės iki išregistravimo dienos gautas akcizais apmokestinamas prekes, už kurias akcizai dar nebuvo sumokėti, taikant prekių gavimo dieną galiojusius akcizų tarifus. Išregistravus registruotą siuntėją, ne vėliau kaip per 10 dienų nuo išregistravimo dienos asmuo privalo pateikti akcizų deklaraciją, kurioje būtų deklaruojama mokėtina akcizų suma už akcizais apmokestinamas prekes, kurių pristatymo į paskirties vietą faktas nebuvo patvirtintas iki išregistravimo datos. Ši mokėtina akcizų suma turi būti apskaičiuojama taikant prekių išgabenimo dieną galiojusius akcizų tarifus. Tuo atveju, kai registruotą siuntėją išregistravus gaunama įrodymų, kad akcizais apmokestinamos prekės, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, pristatomos į paskirties vietą, permokėta akcizų suma įskaitoma arba grąžinama [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka, tačiau tik tuo atveju, jeigu nuo prekių išgabenimo dienos praėjo ne daugiau kaip 3 metai. ^s-e287c3859447906bf1f45551
 
 
-6. Jeigu asmuo, pažeisdamas šio įstatymo [[#^s-cba2ec5070e74363b23c8167|4 straipsnio]] 1, 5, 6 ir [[#^s-3a0602e3c5adc65f796ead74|7 dalių]] reikalavimus, bet kokiu būdu pagamina, sumaišo arba perdirba akcizais apmokestinamas prekes ne akcizais apmokestinamų prekių sandėlyje, jis privalo ne vėliau kaip kitą darbo dieną po prekių pagaminimo, sumaišymo arba perdirbimo dienos pateikti akcizų deklaraciją ir joje deklaruoti mokėtiną už taip pagamintas, sumaišytas arba perdirbtas prekes akcizų sumą, apskaičiuotą taikant akcizų tarifus, galiojusius prekių pagaminimo, sumaišymo arba perdirbimo dieną. Akcizų deklaracija pateikiama vietos mokesčių administratoriui, kurio veiklos teritorijoje asmuo registruotas mokesčių mokėtoju. ^s-3f4cf2e0a237876408b2af55
+6. Jeigu asmuo, pažeisdamas šio įstatymo [[#^s-cba2ec5070e74363b23c8167|4 straipsnio]] [[#^s-bd460ee187df16cd29364fc2|1]], [[#^s-0be3aafa046f244757493d06|5]], [[#^s-9934dc4468ef44f89d03b9c4|6]] ir [[#^s-e4b14e960230f59a81379244|7]] dalių reikalavimus, bet kokiu būdu pagamina, sumaišo arba perdirba akcizais apmokestinamas prekes ne akcizais apmokestinamų prekių sandėlyje, jis privalo ne vėliau kaip kitą darbo dieną po prekių pagaminimo, sumaišymo arba perdirbimo dienos pateikti akcizų deklaraciją ir joje deklaruoti mokėtiną už taip pagamintas, sumaišytas arba perdirbtas prekes akcizų sumą, apskaičiuotą taikant akcizų tarifus, galiojusius prekių pagaminimo, sumaišymo arba perdirbimo dieną. Akcizų deklaracija pateikiama vietos mokesčių administratoriui, kurio veiklos teritorijoje asmuo registruotas mokesčių mokėtoju. ^s-3f4cf2e0a237876408b2af55
 
 
 7. Bet kuris asmuo, kuriam prievolė mokėti akcizus atsiranda vadovaujantis šio įstatymo [[#^s-246b1b42a3e824e1f1f18f3e|9 straipsnio 1 dalies]] 4 ir (ar) 5, ir (ar) 8, ir (ar) 10, ir (ar) 11 punktais, privalo ne vėliau kaip kitą darbo dieną po prievolės atsiradimo dienos pateikti akcizų deklaraciją ir joje deklaruoti mokėtiną akcizų sumą. Akcizų deklaracija pateikiama vietos mokesčių administratoriui, kurio veiklos teritorijoje asmuo registruotas mokesčių mokėtoju. ^s-3a0602e3c5adc65f796ead74
@@ -1007,14 +1007,14 @@ Už akcizais apmokestinamas prekes, už kurias pagal šį įstatymą Lietuvos Re
 
 1. Mokėtina akcizų suma turi būti sumokėta ne vėliau kaip iki šiame įstatyme nurodyto akcizų deklaracijos pateikimo termino pabaigos į mokesčių administratoriaus surenkamąją sąskaitą. Jeigu buvo sumokėta mokestinio laikotarpio avansinė akcizų suma, kurią mokėti prievolė atsirado pagal [[#^s-4c2efb540b500e15d2381adb|šio straipsnio 2 dalį]], mokėtina to mokestinio laikotarpio akcizų suma mažinama sumokėtos avansinės akcizų sumos dydžiu. Jeigu šio įstatymo ar jo įgyvendinamųjų teisės aktų nustatytais atvejais asmuo, kuriam tenka prievolė mokėti akcizus, prieš gaudamas, atsigabendamas ar atsiųsdamas akcizais apmokestinamas prekes buvo sumokėjęs piniginį užstatą, mokėtina akcizų suma visų pirma įskaitoma iš piniginio užstato. ^s-172ba8eed7443a6f1f39ce77
 Straipsnio dalies pakeitimai:
-TAR pastaba. [[#^s-172ba8eed7443a6f1f39ce77|1 dalis]] taikoma deklaruojant ir mokant 2016 m. sausio mėnesio ir vėlesnių mokestinių laikotarpių akcizus, įskaitant avansines akcizų sumas.
+TAR pastaba. 1 dalis taikoma deklaruojant ir mokant 2016 m. sausio mėnesio ir vėlesnių mokestinių laikotarpių akcizus, įskaitant avansines akcizų sumas.
 Nr. XII-2152, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19848
 
 
 
 2. Jeigu už konkretų akcizais apmokestinamų prekių sandėlį šio sandėlio savininko (ar atitinkamai registruoto gavėjo) vidutinė mokestiniam laikotarpiui tenkanti mokėtina į biudžetą akcizų suma 3 praėjusius mokestinius laikotarpius iš eilės viršijo 15 000 eurų, pradedant kitu mokestiniu laikotarpiu po to, kurį paaiškėjo šios aplinkybės, iki einamojo mokestinio laikotarpio 15 dienos į biudžetą mokama avansinė akcizų suma. Ši avansinė akcizų suma yra lygi 1/3 vidutinės mokėtinos į biudžetą akcizų sumos, kuri buvo (ar privalėjo būti) deklaruota šioje dalyje nurodytų 3 praėjusių mokestinių laikotarpių deklaracijose. ^s-4c2efb540b500e15d2381adb
 Straipsnio dalies pakeitimai:
-TAR pastaba. [[#^s-4c2efb540b500e15d2381adb|2 dalis]] taikoma deklaruojant ir mokant 2016 m. sausio mėnesio ir vėlesnių mokestinių laikotarpių akcizus, įskaitant avansines akcizų sumas.
+TAR pastaba. 2 dalis taikoma deklaruojant ir mokant 2016 m. sausio mėnesio ir vėlesnių mokestinių laikotarpių akcizus, įskaitant avansines akcizų sumas.
 Nr. XII-2152, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19848
 
 
@@ -1025,7 +1025,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 
 
-4. Už importuotas akcizais apmokestinamas prekes akcizai mokami tokiais pačiais terminais, kaip būtų mokami importo muitai už šias prekes (jeigu jie joms būtų nustatyti), kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. Tais atvejais, kai akcizai nesumokami iš anksto ar iš karto atsiradus prievolei juos mokėti ir kai tai reikalinga tinkamam įsipareigojimų muitinei įvykdymui užtikrinti, atsiradusios mokestinės prievolės įvykdymas užtikrinamas ta pačia tvarka, kokia užtikrinami įsipareigojimai, susiję su importo skola muitinei, kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. ^s-88f6638d514ebf162453caee
+4. Už importuotas akcizais apmokestinamas prekes akcizai mokami tokiais pačiais terminais, kaip būtų mokami importo muitai už šias prekes (jeigu jie joms būtų nustatyti), kaip tai nustatyta Sąjungos [muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. Tais atvejais, kai akcizai nesumokami iš anksto ar iš karto atsiradus prievolei juos mokėti ir kai tai reikalinga tinkamam įsipareigojimų muitinei įvykdymui užtikrinti, atsiradusios mokestinės prievolės įvykdymas užtikrinamas ta pačia tvarka, kokia užtikrinami įsipareigojimai, susiję su importo skola muitinei, kaip tai nustatyta Sąjungos [muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. ^s-88f6638d514ebf162453caee
 Straipsnio dalies pakeitimai:
 Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 
@@ -1062,7 +1062,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 
 
-6. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, siuntėjas centrinio mokesčių administratoriaus nustatyta tvarka gabenimo metu gali keisti šių prekių gavėją arba paskirties vietą, kuri turi būti Lietuvos Respublikos akcizais apmokestinamų prekių sandėlis arba viena iš šio įstatymo [[#^s-c43720f0da9feae40d19aeb8|15 straipsnio 1 dalies]] 1, 2, 3, 4 ir 8 punktuose nurodytų vietų (šiuo atveju prekių gabenimui taikomi [[#^s-5a97728eb3d4a5f33c814564|15 straipsnio]] reikalavimai). Šiuo tikslu siuntėjas, naudodamasis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, elektroninio paskirties vietos pakeitimo dokumento projektą turi pateikti mokesčių administratoriui. ^s-b842f5a42e2ec1000bf84309
+6. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, siuntėjas centrinio mokesčių administratoriaus nustatyta tvarka gabenimo metu gali keisti šių prekių gavėją arba paskirties vietą, kuri turi būti Lietuvos Respublikos akcizais apmokestinamų prekių sandėlis arba viena iš šio įstatymo [[#^s-c43720f0da9feae40d19aeb8|15 straipsnio 1 dalies]] [[#^s-9178c94f774426343d0e5de0|1]], [[#^s-458ad31992c1a58260b23f0f|2]], [[#^s-7714d401bc4f2e35b94879db|3]], [[#^s-583a68be6b02d45397c0a43e|4]] ir [[#^s-bd759cf501739bfa7eb8a2ea|8]] punktuose nurodytų vietų (šiuo atveju prekių gabenimui taikomi [[#^s-5a97728eb3d4a5f33c814564|15 straipsnio]] reikalavimai). Šiuo tikslu siuntėjas, naudodamasis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, elektroninio paskirties vietos pakeitimo dokumento projektą turi pateikti mokesčių administratoriui. ^s-b842f5a42e2ec1000bf84309
 Straipsnio dalies pakeitimai:
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
@@ -1071,7 +1071,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 7. Akcizais apmokestinamų prekių siuntėjas centrinio mokesčių administratoriaus nustatyta tvarka ir sąlygomis gali suskaidyti energinių produktų, kuriems taikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimą į du ar daugiau gabenimų. ^s-de7c465e66312052d7cd1e17
 
 
-8. Šio straipsnio nuostatos mutatis mutandis taikomos registruoto siuntėjo iš akcizais apmokestinamų prekių importo vietos išgabenamoms akcizais apmokestinamoms prekėms, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas. Šiuo atveju akcizais apmokestinamų prekių gabenimas laikomas prasidėjusiu, kai jos yra išleidžiamos į laisvą apyvartą pagal Sąjungos muitinės kodekso 201 straipsnį. Akcizais apmokestinamos prekės, kurioms pritaikytas akcizų mokėjimo laikino atidėjimo režimas, iš importo vietos gali būti išgabentos tik tuo atveju, kai deklarantas arba kitas tiesiogiai ar netiesiogiai su muitinės formalumų atlikimu, kaip nustatyta Sąjungos muitinės kodekso [[#^s-5a97728eb3d4a5f33c814564|15 straipsnyje]], susijęs asmuo mokesčių administratoriui pateikia 2012 m. gegužės 2 d. Tarybos reglamento (ES) Nr. 389/2012 dėl administracinio bendradarbiavimo akcizų srityje ir panaikinančio Reglamentą (EB) Nr. 2073/2004 su visais pakeitimais [[#^s-d664076d5eb94361fbead03c|19 straipsnio 2 dalies]] a punkte nurodytą unikalų akcizų numerį, pagal kurį identifikuojamas registruotas gabenamų prekių siuntėjas ir gavėjas, kuriam siunčiamos prekės, išskyrus atvejus, kai importas vyksta apmokestinamų prekių sandėlyje. ^s-653fcd8e9bbe239339550a08
+8. Šio straipsnio nuostatos mutatis mutandis taikomos registruoto siuntėjo iš akcizais apmokestinamų prekių importo vietos išgabenamoms akcizais apmokestinamoms prekėms, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas. Šiuo atveju akcizais apmokestinamų prekių gabenimas laikomas prasidėjusiu, kai jos yra išleidžiamos į laisvą apyvartą pagal Sąjungos [muitinės kodekso 201 straipsnį](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145). Akcizais apmokestinamos prekės, kurioms pritaikytas akcizų mokėjimo laikino atidėjimo režimas, iš importo vietos gali būti išgabentos tik tuo atveju, kai deklarantas arba kitas tiesiogiai ar netiesiogiai su muitinės formalumų atlikimu, kaip nustatyta Sąjungos [muitinės kodekso 15 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), susijęs asmuo mokesčių administratoriui pateikia 2012 m. gegužės 2 d. Tarybos reglamento (ES) Nr. 389/2012 dėl administracinio bendradarbiavimo akcizų srityje ir panaikinančio [Reglamentą (EB) Nr. 2073/2004](https://eur-lex.europa.eu/eli/reg/2073/2004/oj) su visais pakeitimais [[#^s-d664076d5eb94361fbead03c|19 straipsnio 2 dalies]] a punkte nurodytą unikalų akcizų numerį, pagal kurį identifikuojamas registruotas gabenamų prekių siuntėjas ir gavėjas, kuriam siunčiamos prekės, išskyrus atvejus, kai importas vyksta apmokestinamų prekių sandėlyje. ^s-653fcd8e9bbe239339550a08
 Straipsnio dalies pakeitimai:
 Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
@@ -1093,10 +1093,10 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 3) išgabentos į kitos valstybės narės akcizais apmokestinamų prekių sandėlio savininko, gaunančio akcizais apmokestinamas prekes, ar registruoto gavėjo nurodytą tiesioginio pristatymo vietą; ^s-7714d401bc4f2e35b94879db
 
 
-4) eksportuojamos per kitą valstybę narę, t. y. išgabenamos pagal 2015 m. lapkričio 24 d. Komisijos įgyvendinimo reglamento (ES) 2015/2447, kuriuo nustatomos išsamios tam tikrų Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas, nuostatų įgyvendinimo taisyklės, su visais pakeitimais (toliau – Įgyvendinimo reglamentas (ES) 2015/2447) 329 straipsnį į išvežimo muitinės įstaigą; ^s-583a68be6b02d45397c0a43e
+4) eksportuojamos per kitą valstybę narę, t. y. išgabenamos pagal 2015 m. lapkričio 24 d. Komisijos įgyvendinimo [reglamento (ES) 2015/2447](https://eur-lex.europa.eu/eli/reg/2015/2447/oj), kuriuo nustatomos išsamios tam tikrų Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas, nuostatų įgyvendinimo taisyklės, su visais pakeitimais (toliau – Įgyvendinimo [reglamentas (ES) 2015/2447](https://eur-lex.europa.eu/eli/reg/2015/2447/oj)) 329 straipsnį į išvežimo muitinės įstaigą; ^s-583a68be6b02d45397c0a43e
 
 
-5) išgabentos šio įstatymo [[#^s-a0a9f10205135e35918349b1|19 straipsnio 1 dalies]] 3, 6, 7 ir 9 punktuose nurodytiems asmenims; ^s-8644dfc85bb6c9b39ce580dc
+5) išgabentos šio įstatymo [[#^s-a0a9f10205135e35918349b1|19 straipsnio 1 dalies]] [[#^s-04498feab12d72eb33170ddb|3]], [[#^s-01419ffbaabc809db6afba11|6]], [[#^s-bac01b53de2a0148b3e18aa2|7]] ir [[#^s-a91ee20d9c0d4fc4352dcd74|9]] punktuose nurodytiems asmenims; ^s-8644dfc85bb6c9b39ce580dc
 
 
 6) išgabenamos pagal kitų valstybių narių sutartis su trečiosiomis valstybėmis ar pagal tarptautines sutartis, jeigu šiose sutartyse numatyta šias prekes atleisti nuo pridėtinės vertės mokesčio; ^s-0d7976b480ef85f47b6e97e6
@@ -1105,16 +1105,16 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 7) išgabenamos Kipre pagal 1960 m. rugpjūčio 16 d. Sutartį dėl Kipro Respublikos įkūrimo dislokuotiems Jungtinės Karalystės kariuomenių vienetams ar juos lydintiems civiliams darbuotojams naudoti; ^s-a4c9742e6bfb1a9a8fab0ce6
 
 
-8) išgabenamos pagal Įgyvendinimo reglamento (ES) 2015/2447 329 straipsnio 5 dalį į išvežimo muitinės įstaigą, kuri yra ir išvykimo muitinės įstaiga, kai įforminama išorinio tranzito procedūra 2015 m. liepos 28 d. Komisijos deleguotojo reglamento (ES) 2015/2446, kuriuo Europos Parlamento ir Tarybos reglamentas (ES) Nr. 952/2013 papildomas išsamiomis taisyklėmis, kuriomis patikslinamos kai kurios Sąjungos muitinės kodekso nuostatos, su visais pakeitimais (toliau – Deleguotasis reglamentas (ES) 2015/2446) 189 straipsnio 4 dalyje nurodytais atvejais. ^s-bd759cf501739bfa7eb8a2ea
+8) išgabenamos pagal Įgyvendinimo [reglamento (ES) 2015/2447 329 straipsnio 5 dalį](https://eur-lex.europa.eu/eli/reg/2015/2447/art_329/par_5/oj) į išvežimo muitinės įstaigą, kuri yra ir išvykimo muitinės įstaiga, kai įforminama išorinio tranzito procedūra 2015 m. liepos 28 d. Komisijos deleguotojo [reglamento (ES) 2015/2446](https://eur-lex.europa.eu/eli/reg/2015/2446/oj), kuriuo Europos Parlamento ir Tarybos reglamentas (ES) Nr. 952/2013 papildomas išsamiomis taisyklėmis, kuriomis patikslinamos kai kurios Sąjungos muitinės kodekso nuostatos, su visais pakeitimais (toliau – Deleguotasis [reglamentas (ES) 2015/2446](https://eur-lex.europa.eu/eli/reg/2015/2446/oj)) 189 straipsnio 4 dalyje nurodytais atvejais. ^s-bd759cf501739bfa7eb8a2ea
 
 
 2. Išgabenant iš Lietuvos Respublikos akcizais apmokestinamų prekių sandėlio akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, į [[#^s-c43720f0da9feae40d19aeb8|šio straipsnio 1 dalyje]] nurodytas paskirties vietas, centrinio mokesčių administratoriaus nustatyta tvarka turi būti parengtas elektroninio vežimo dokumento projektas vadovaujantis Reglamento (EB) Nr. 684/2009 nuostatomis. Šį elektroninio vežimo dokumento projektą akcizais apmokestinamų prekių siuntėjas, naudodamasis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, turi pateikti vietos mokesčių administratoriui. Vietos mokesčių administratoriaus įgalioti asmenys centrinio mokesčių administratoriaus nustatyta tvarka turi patvirtinti elektroninio vežimo dokumento projekte pateiktus duomenis, suteikti elektroniniam vežimo dokumentui unikalų administracinį nuorodos kodą ir pranešti jį akcizais apmokestinamų prekių siuntėjui. Vietos mokesčių administratoriaus įgalioti asmenys šį elektroninį vežimo dokumentą turi išsiųsti paskirties valstybės narės kompetentingoms institucijoms. Gabenantis akcizais apmokestinamas prekes asmuo Lietuvos Respublikos ar valstybių, kuriose yra [[#^s-c43720f0da9feae40d19aeb8|šio straipsnio 1 dalyje]] nurodytos paskirties vietos, kompetentingų institucijų prašymu privalo pateikti unikalų administracinį nuorodos kodą, atspausdintą elektroninio vežimo dokumento kopiją ar kitą dokumentą, kuriuo patvirtinamas šių prekių gabenimas ar tiekimas. [[#^s-c43720f0da9feae40d19aeb8|Šio straipsnio 1 dalies]] 5, 6 ir 7 punktuose nurodytiems asmenims gabenamas akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, turi lydėti kitos valstybės narės kompetentingų institucijų įgaliotų asmenų patvirtintas dokumentas, kuriuo suteikiama teisė šias prekes įsigyti taikant akcizų lengvatą. Šiame atleidimo nuo akcizų dokumente turi būti nurodytas gabenamų akcizais apmokestinamų prekių pobūdis, kiekis, vertė, gavėjas ir valstybė narė, į kurią gabenamos šios prekės. ^s-0b5088a44b87520d098cbf44
 
 
-3. Tuo atveju, kai akcizais apmokestinamos prekės eksportuojamos arba gabenamos pagal [[#^s-bd759cf501739bfa7eb8a2ea|šio straipsnio 1 dalies 8 punktą]] per vieną ar per kelias kitas valstybes nares, vietos mokesčių administratoriaus įgalioti asmenys parengtą elektroninį vežimo dokumentą turi išsiųsti valstybės narės, kurioje pateikta eksporto deklaracija taikant Įgyvendinimo reglamento (ES) 2015/2447 221 straipsnio 2 dalies nuostatas (toliau – eksporto valstybė narė), kompetentingoms institucijoms. Iš eksporto valstybės narės kompetentingų institucijų gautą pranešimą, kuriuo patvirtinamas akcizais apmokestinamų prekių išgabenimo iš Europos Sąjungos teritorijos faktas (toliau – pranešimas apie eksportą), arba pranešimą apie elektroninio vežimo dokumento ir eksporto deklaracijos neatitikimą, arba pranešimą, kad prekių nebeketinama išvežti iš Sąjungos muitų teritorijos, vietos mokesčių administratoriaus įgalioti asmenys centrinio mokesčių administratoriaus nustatyta tvarka turi persiųsti šių prekių siuntėjui. Siuntėjas, gavęs pranešimą, kad prekių nebeketinama išvežti iš Sąjungos muitų teritorijos, turi atšaukti elektroninį vežimo dokumentą, kaip nustatyta [[#^s-9fa04c78ee3ad9967c0fe42c|šio straipsnio 4 dalyje]], arba pakeisti prekių paskirties vietą, kaip nustatyta [[#^s-e5a5cd5186f5882dac056e59|šio straipsnio 5 dalyje]]. ^s-4f9c85a8a5c35e0a07973eea
+3. Tuo atveju, kai akcizais apmokestinamos prekės eksportuojamos arba gabenamos pagal [[#^s-bd759cf501739bfa7eb8a2ea|šio straipsnio 1 dalies 8 punktą]] per vieną ar per kelias kitas valstybes nares, vietos mokesčių administratoriaus įgalioti asmenys parengtą elektroninį vežimo dokumentą turi išsiųsti valstybės narės, kurioje pateikta eksporto deklaracija taikant Įgyvendinimo [reglamento (ES) 2015/2447 221 straipsnio 2 dalies](https://eur-lex.europa.eu/eli/reg/2015/2447/art_221/par_2/oj) nuostatas (toliau – eksporto valstybė narė), kompetentingoms institucijoms. Iš eksporto valstybės narės kompetentingų institucijų gautą pranešimą, kuriuo patvirtinamas akcizais apmokestinamų prekių išgabenimo iš Europos Sąjungos teritorijos faktas (toliau – pranešimas apie eksportą), arba pranešimą apie elektroninio vežimo dokumento ir eksporto deklaracijos neatitikimą, arba pranešimą, kad prekių nebeketinama išvežti iš Sąjungos muitų teritorijos, vietos mokesčių administratoriaus įgalioti asmenys centrinio mokesčių administratoriaus nustatyta tvarka turi persiųsti šių prekių siuntėjui. Siuntėjas, gavęs pranešimą, kad prekių nebeketinama išvežti iš Sąjungos muitų teritorijos, turi atšaukti elektroninį vežimo dokumentą, kaip nustatyta [[#^s-9fa04c78ee3ad9967c0fe42c|šio straipsnio 4 dalyje]], arba pakeisti prekių paskirties vietą, kaip nustatyta [[#^s-e5a5cd5186f5882dac056e59|šio straipsnio 5 dalyje]]. ^s-4f9c85a8a5c35e0a07973eea
 
 
-4. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, siuntėjas, naudodamasis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, gali atšaukti šių prekių gabenimą, jeigu šių prekių gabenimas dar neprasidėjo. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimo pradžiai nustatyti ir gabenimui atšaukti mutatis mutandis taikomos šio įstatymo [[#^s-c2c19705f96eb921b6434d01|14 straipsnio]] 5 ir [[#^s-69185b00840c2e83f1af5ca7|8 dalių]] nuostatos. ^s-9fa04c78ee3ad9967c0fe42c
+4. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, siuntėjas, naudodamasis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, gali atšaukti šių prekių gabenimą, jeigu šių prekių gabenimas dar neprasidėjo. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimo pradžiai nustatyti ir gabenimui atšaukti mutatis mutandis taikomos šio įstatymo [[#^s-c2c19705f96eb921b6434d01|14 straipsnio]] [[#^s-f27a2353c36d68ae093ccd70|5]] ir [[#^s-653fcd8e9bbe239339550a08|8]] dalių nuostatos. ^s-9fa04c78ee3ad9967c0fe42c
 
 
 5. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, siuntėjas centrinio mokesčių administratoriaus nustatyta tvarka gabenimo metu gali keisti šių prekių gavėją arba paskirties vietą, kuri turi būti viena iš [[#^s-c43720f0da9feae40d19aeb8|šio straipsnio 1 dalies]] 1, 2, 3, 4 ir 8 punktuose nurodytų vietų arba Lietuvos Respublikoje esantis akcizais apmokestinamų prekių sandėlis ar šio sandėlio savininko nurodyta tiesioginio pristatymo vieta, esanti Lietuvos Respublikoje (šiuo atveju akcizais apmokestinamų prekių gabenimui taikomos šio įstatymo [[#^s-c2c19705f96eb921b6434d01|14 straipsnio]] nuostatos). Šiuo tikslu siuntėjas, naudodamasis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, elektroninio paskirties vietos pakeitimo dokumento projektą turi pateikti mokesčių administratoriui. ^s-e5a5cd5186f5882dac056e59
@@ -1159,7 +1159,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 13. Elektroninis supaprastintas vežimo dokumentas nenaudojamas tais atvejais, kai iš Lietuvos Respublikos išgabenamos akcizais apmokestinamos prekės, kurios ekonominę veiklą vykdančio prekių siuntėjo ar jo užsakymu kito asmens gabenamos į kitą valstybę narę asmeniui, kuris nėra registruotas gavėjas ar patvirtintas gavėjas ir nevykdo ekonominės veiklos, kaip ji apibrėžta [[latest/TAR.ED68997709F5|Pridėtinės vertės mokesčio įstatyme]], arba ne į akcizais apmokestinamų prekių sandėlį. Šiuo atveju prekių siuntėjas, prieš taip išsiųsdamas prekes, privalo turėti įrodymų, kad akcizų sumokėjimas paskirties valstybėje narėje yra garantuotas. ^s-a45e912922e0e0f98c2b1288
 
 
-14. Tais atvejais, kai akcizais apmokestinamos prekės, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, registruoto siuntėjo išgabenamos iš importo vietos, esančios Lietuvos Respublikoje, į [[#^s-c43720f0da9feae40d19aeb8|šio straipsnio 1 dalyje]] nurodytas vietas, mutatis mutandis taikomos šio straipsnio nuostatos. Akcizais apmokestinamos prekės, kurioms pritaikytas akcizų mokėjimo laikino atidėjimo režimas, iš importo vietos gali būti išgabentos tik tuo atveju, kai deklarantas arba kitas tiesiogiai ar netiesiogiai su muitinės formalumų atlikimu, kaip nustatyta Sąjungos muitinės kodekso [[#^s-5a97728eb3d4a5f33c814564|15 straipsnyje]], susijęs asmuo muitinei pateikia Reglamento (ES) Nr. 389/2012 [[#^s-d664076d5eb94361fbead03c|19 straipsnio 2 dalies]] a punkte nurodytą unikalų akcizų numerį, pagal kurį identifikuojamas registruotas gabenamų prekių siuntėjas, gavėjas, kuriam siunčiamos prekės, ir įrodymą, kad importuotas prekes ketinama išsiųsti iš Lietuvos Respublikos teritorijos į kitos valstybės narės teritoriją, išskyrus atvejus, kai importas vyksta akcizais apmokestinamų prekių sandėlyje. ^s-4baa93c460d76eb319ea5b48
+14. Tais atvejais, kai akcizais apmokestinamos prekės, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, registruoto siuntėjo išgabenamos iš importo vietos, esančios Lietuvos Respublikoje, į [[#^s-c43720f0da9feae40d19aeb8|šio straipsnio 1 dalyje]] nurodytas vietas, mutatis mutandis taikomos šio straipsnio nuostatos. Akcizais apmokestinamos prekės, kurioms pritaikytas akcizų mokėjimo laikino atidėjimo režimas, iš importo vietos gali būti išgabentos tik tuo atveju, kai deklarantas arba kitas tiesiogiai ar netiesiogiai su muitinės formalumų atlikimu, kaip nustatyta Sąjungos [muitinės kodekso 15 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), susijęs asmuo muitinei pateikia Reglamento (ES) Nr. 389/2012 [[#^s-d664076d5eb94361fbead03c|19 straipsnio 2 dalies]] a punkte nurodytą unikalų akcizų numerį, pagal kurį identifikuojamas registruotas gabenamų prekių siuntėjas, gavėjas, kuriam siunčiamos prekės, ir įrodymą, kad importuotas prekes ketinama išsiųsti iš Lietuvos Respublikos teritorijos į kitos valstybės narės teritoriją, išskyrus atvejus, kai importas vyksta akcizais apmokestinamų prekių sandėlyje. ^s-4baa93c460d76eb319ea5b48
 
 
 Straipsnio pakeitimai:
@@ -1184,13 +1184,13 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 3) atgabenamos į Lietuvos Respublikos akcizais apmokestinamų prekių sandėlio, gaunančio akcizais apmokestinamas prekes, savininko ar registruoto gavėjo, kurio statusas nėra apribotas pagal šio įstatymo [[#^s-73f342a326d9062b8b7367f8|7 straipsnio 6 dalies]] nuostatas, nurodytą tiesioginio pristatymo vietą; ^s-bedd2f5abee67d415960e94f
 
 
-4) atgabenamos jas eksportuojant per Lietuvos Respubliką, t. y. išgabenamos pagal Įgyvendinimo reglamento (ES) 2015/2447 329 straipsnį į išvežimo muitinės įstaigą; ^s-f4acecf7cda6d7edcd90b4bf
+4) atgabenamos jas eksportuojant per Lietuvos Respubliką, t. y. išgabenamos pagal Įgyvendinimo [reglamento (ES) 2015/2447 329 straipsnį](https://eur-lex.europa.eu/eli/reg/2015/2447/art_329/oj) į išvežimo muitinės įstaigą; ^s-f4acecf7cda6d7edcd90b4bf
 
 
-5) atgabenamos šio įstatymo [[#^s-a0a9f10205135e35918349b1|19 straipsnio 1 dalies]] 2, 3, 6, 7, 8 ir 9 punktuose nurodytiems asmenims; ^s-573a2d78c5239115da315ae7
+5) atgabenamos šio įstatymo [[#^s-a0a9f10205135e35918349b1|19 straipsnio 1 dalies]] [[#^s-f887496cb3da696d1cde3b4c|2]], [[#^s-04498feab12d72eb33170ddb|3]], [[#^s-01419ffbaabc809db6afba11|6]], [[#^s-bac01b53de2a0148b3e18aa2|7]], [[#^s-6581a641494b9d668cd3d28d|8]] ir [[#^s-a91ee20d9c0d4fc4352dcd74|9]] punktuose nurodytiems asmenims; ^s-573a2d78c5239115da315ae7
 
 
-6) į Lietuvos Respubliką atgabenamos pagal Įgyvendinimo reglamento (ES) 2015/2447 329 straipsnio 5 dalį į išvežimo muitinės įstaigą, kuri yra ir išvykimo muitinės įstaiga, kai įforminama išorinio tranzito procedūra Deleguotojo reglamento (ES) 2015/2446 189 straipsnio 4 dalyje nurodytais atvejais ^s-f6db4b29591bbfbbcf8bbb55
+6) į Lietuvos Respubliką atgabenamos pagal Įgyvendinimo [reglamento (ES) 2015/2447 329 straipsnio 5 dalį](https://eur-lex.europa.eu/eli/reg/2015/2447/art_329/par_5/oj) į išvežimo muitinės įstaigą, kuri yra ir išvykimo muitinės įstaiga, kai įforminama išorinio tranzito procedūra Deleguotojo [reglamento (ES) 2015/2446 189 straipsnio 4 dalyje](https://eur-lex.europa.eu/eli/reg/2015/2446/art_189/par_4/oj) nurodytais atvejais ^s-f6db4b29591bbfbbcf8bbb55
 
 
 2. Akcizais apmokestinamos prekės, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas ir kurios į Lietuvos Respubliką atgabenamos [[#^s-cb9dcc2a5bc4af996697725a|šio straipsnio 1 dalyje]] nurodytais atvejais, privalo būti atgabentos su parengtu elektroniniu vežimo dokumentu, kuriam suteiktas unikalus administracinis nuorodos kodas. Gabenantis akcizais apmokestinamas prekes asmuo Lietuvos Respublikos ar valstybių narių, kuriose yra [[#^s-cb9dcc2a5bc4af996697725a|šio straipsnio 1 dalyje]] nurodytos išsiuntimo vietos, kompetentingų institucijų prašymu privalo pateikti unikalų administracinį nuorodos kodą, atspausdintą elektroninio vežimo dokumento kopiją ar kitą dokumentą, kuriuo patvirtinamas šių prekių gabenimas ar tiekimas. Akcizais apmokestinamų prekių, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimas laikomas pasibaigusiu, kai šias prekes priima šių prekių gavėjas, eksportuojant prekes – kai prekės išgabenamos iš Europos Sąjungos teritorijos, o [[#^s-f6db4b29591bbfbbcf8bbb55|šio straipsnio 1 dalies 6 punkte]] nurodytu atveju – kai prekėms įforminama išorinio tranzito procedūra. Gavęs akcizais apmokestinamas prekes, kurioms taikomas akcizų mokėjimo laikino atidėjimo režimas, akcizais apmokestinamų prekių gavėjas ne vėliau kaip per 5 darbo dienas nuo tokių prekių gabenimo pabaigos (dėl objektyvių aplinkybių šis terminas gali būti pratęstas) centrinio mokesčių administratoriaus nustatyta tvarka turi parengti pranešimą apie akcizais apmokestinamų prekių gavimą. Kai akcizais apmokestinamos prekės atgabenamos į [[#^s-bedd2f5abee67d415960e94f|šio straipsnio 1 dalies 3 punkte]] nurodytą tiesioginio pristatymo vietą, pranešimą apie akcizais apmokestinamų prekių gavimą turi parengti Lietuvos Respublikos akcizais apmokestinamų prekių sandėlio savininkas ar registruotas gavėjas, nurodęs tiesioginio pristatymo vietą. Centrinio mokesčių administratoriaus nustatyta tvarka turi būti patvirtinti pranešime apie gavimą pateikti duomenys ir šis pranešimas turi būti nusiųstas akcizais apmokestinamų prekių siuntėjo valstybės narės kompetentingoms institucijoms. Tais atvejais, kai akcizais apmokestinamos prekės eksportuojamos iš Europos Sąjungos teritorijos arba gabenamos pagal [[#^s-f6db4b29591bbfbbcf8bbb55|šio straipsnio 1 dalies 6 punktą]], centrinio mokesčių administratoriaus nustatyta tvarka, remiantis muitinės išvežimo įstaigos pranešimu apie eksportą arba išorinio tranzito procedūros įforminimą, turi būti parengtas ir patvirtintas pranešimas apie gavimą ir, naudojantis kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, nusiųstas išsiuntimo valstybės narės kompetentingoms institucijoms. Jeigu akcizais apmokestinamų prekių nebeketinama išvežti iš Sąjungos muitų teritorijos, apie tai, naudodamosi kompiuterine akcizais apmokestinamų prekių gabenimo ir kontrolės sistema, Lietuvos Respublikos kompetentingos institucijos centrinio mokesčių administratoriaus nustatyta tvarka turi pranešti išsiuntimo valstybės narės kompetentingoms institucijoms. Tais atvejais, kai akcizais apmokestinamos prekės atgabenamos į Lietuvos Respubliką [[#^s-573a2d78c5239115da315ae7|šio straipsnio 1 dalies 5 punkte]] nurodytiems asmenims, šių prekių gavimas patvirtinamas centrinio mokesčių administratoriaus nustatyta tvarka. ^s-bc3493be042612cb250caa18
@@ -1211,10 +1211,10 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 7. Tuo atveju, kai akcizais apmokestinamos prekės ekonominę veiklą vykdančio siuntėjo ar jo užsakymu kito asmens atgabenamos į Lietuvos Respubliką asmeniui, kuris nėra registruotas gavėjas ar patvirtintas gavėjas ir nevykdo ekonominės veiklos, kaip ji apibrėžta [[latest/TAR.ED68997709F5|Pridėtinės vertės mokesčio įstatyme]], arba ne į akcizais apmokestinamų prekių sandėlį, prekių siuntėjas centrinio mokesčių administratoriaus nustatyta tvarka, prieš prekes atgabendamas į Lietuvos Respubliką, privalo įsiregistruoti kaip akcizais apmokestinamų prekių siuntėjas ir Vyriausybės nustatyta tvarka užtikrinti, kad už iš kitos valstybės narės numatomas gauti prekes Lietuvos Respublikoje mokėtini akcizai bus sumokėti.. ^s-0bc71d1691b3fdc9a560721a
 
 
-8. Už Lietuvos Respublikos teritorijoje prarastas akcizais apmokestinamas prekes, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, ar prekes, kurių praradimas nustatytas Lietuvos Respublikoje, akcizai privalo būti sumokėti šio įstatymo nustatyta tvarka. Šiuo atveju prievolė mokėti akcizus tenka šio įstatymo [[#^s-d3dda575502131e8eebaa3da|9 straipsnio 8 dalyje]] nurodytiems asmenims ir bet kuriam kitam asmeniui, dalyvavusiam darant pažeidimą. Tais atvejais, kai prievolė mokėti akcizus tenka keliems asmenims, jie solidariai atsako už akcizų sumokėjimą. Akcizais apmokestinamų prekių gabenimo pažeidimu nelaikoma ir akcizai neskaičiuojami už akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas ir kurių praradimas nustatytas Lietuvos Respublikoje, kiekį, neviršijantį Europos Komisijos nustatytos tarp valstybių narių gabenamų prekių bendrosios dalinio praradimo ribos (išskyrus atvejus, kai yra pagrįstų priežasčių įtarti sukčiavimą ar pažeidimą), o kai ši riba nenustatyta, – neviršijantį Vyriausybės ar jos įgaliotos institucijos nustatytų natūralios netekties normų, taip pat už prarastą dėl nenugalimos jėgos (force majeure) aplinkybių arba negrįžtamai prarastą ar visiškai sunaikintą akcizais apmokestinamų prekių kiekį (jeigu jų negalima panaudoti kaip akcizais apmokestinamų prekių), jei tai įrodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Jei gaunami įrodymai, kad akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimo tvarkos pažeidimas įvyko ar buvo nustatytas ne Lietuvos Respublikoje, arba akcizai neskaičiuojami už prarastą prekių kiekį, neviršijantį Europos Komisijos nustatytos tarp valstybių narių gabenamų prekių bendrosios dalinio praradimo ribos (išskyrus atvejus, kai yra pagrįstų priežasčių įtarti sukčiavimą ar pažeidimą), o kai ši riba nenustatyta, – neviršijantį Vyriausybės ar jos įgaliotos institucijos nustatytų natūralios netekties normų, taip pat už prarastą dėl nenugalimos jėgos (force majeure) aplinkybių arba negrįžtamai prarastą ar visiškai sunaikintą akcizais apmokestinamų prekių kiekį (jeigu jų negalima panaudoti kaip akcizais apmokestinamų prekių), jei tai įrodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, piniginio užstato ar laidavimo (garantijos) suma grąžinama naudoti, o Lietuvos Respublikoje šio įstatymo nustatyta tvarka sumokėti akcizai turi būti grąžinami [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka arba atsisakoma akcizus išieškoti, tačiau tik tuo atveju, jeigu nuo akcizais apmokestinamų prekių išgabenimo dienos praėjo ne daugiau kaip 3 metai. Šiuo atveju gabenimo pažeidimu laikomi atvejai, kai akcizais apmokestinamų prekių gavimas nėra patvirtinamas šio įstatymo 15 ar [[#^s-26bd3962fc056c5662ee76bb|16 straipsnio]] arba savo esme tolygių kitų valstybių narių teisės aktų nustatyta tvarka, kai vienas ar visi gabenant akcizais apmokestinamas prekes dalyvaujantys asmenys nėra registruoti kaip patvirtinti gavėjai ir (arba) patvirtinti siuntėjai ar veikiantys kaip patvirtinti gavėjai ar patvirtinti siuntėjai pagal šio įstatymo [[#^s-de154f57c1cc4223b3226985|81 straipsnio]] 1 ir [[#^s-bc3493be042612cb250caa18|2 dalių]] ar tolygias kitų valstybių narių teisės aktų nuostatas arba nėra įregistruoti kaip akcizais apmokestinamų prekių siuntėjai, taip pat kai akcizais apmokestinamų prekių gabenimas komerciniams tikslams nėra įformintas elektroniniu supaprastintu vežimo dokumentu. ^s-1b1ba2f87394d82ffc79d504
+8. Už Lietuvos Respublikos teritorijoje prarastas akcizais apmokestinamas prekes, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, ar prekes, kurių praradimas nustatytas Lietuvos Respublikoje, akcizai privalo būti sumokėti šio įstatymo nustatyta tvarka. Šiuo atveju prievolė mokėti akcizus tenka šio įstatymo [[#^s-d3dda575502131e8eebaa3da|9 straipsnio 8 dalyje]] nurodytiems asmenims ir bet kuriam kitam asmeniui, dalyvavusiam darant pažeidimą. Tais atvejais, kai prievolė mokėti akcizus tenka keliems asmenims, jie solidariai atsako už akcizų sumokėjimą. Akcizais apmokestinamų prekių gabenimo pažeidimu nelaikoma ir akcizai neskaičiuojami už akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas ir kurių praradimas nustatytas Lietuvos Respublikoje, kiekį, neviršijantį Europos Komisijos nustatytos tarp valstybių narių gabenamų prekių bendrosios dalinio praradimo ribos (išskyrus atvejus, kai yra pagrįstų priežasčių įtarti sukčiavimą ar pažeidimą), o kai ši riba nenustatyta, – neviršijantį Vyriausybės ar jos įgaliotos institucijos nustatytų natūralios netekties normų, taip pat už prarastą dėl nenugalimos jėgos (force majeure) aplinkybių arba negrįžtamai prarastą ar visiškai sunaikintą akcizais apmokestinamų prekių kiekį (jeigu jų negalima panaudoti kaip akcizais apmokestinamų prekių), jei tai įrodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Jei gaunami įrodymai, kad akcizais apmokestinamų prekių, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas, gabenimo tvarkos pažeidimas įvyko ar buvo nustatytas ne Lietuvos Respublikoje, arba akcizai neskaičiuojami už prarastą prekių kiekį, neviršijantį Europos Komisijos nustatytos tarp valstybių narių gabenamų prekių bendrosios dalinio praradimo ribos (išskyrus atvejus, kai yra pagrįstų priežasčių įtarti sukčiavimą ar pažeidimą), o kai ši riba nenustatyta, – neviršijantį Vyriausybės ar jos įgaliotos institucijos nustatytų natūralios netekties normų, taip pat už prarastą dėl nenugalimos jėgos (force majeure) aplinkybių arba negrįžtamai prarastą ar visiškai sunaikintą akcizais apmokestinamų prekių kiekį (jeigu jų negalima panaudoti kaip akcizais apmokestinamų prekių), jei tai įrodyta Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka, piniginio užstato ar laidavimo (garantijos) suma grąžinama naudoti, o Lietuvos Respublikoje šio įstatymo nustatyta tvarka sumokėti akcizai turi būti grąžinami [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka arba atsisakoma akcizus išieškoti, tačiau tik tuo atveju, jeigu nuo akcizais apmokestinamų prekių išgabenimo dienos praėjo ne daugiau kaip 3 metai. Šiuo atveju gabenimo pažeidimu laikomi atvejai, kai akcizais apmokestinamų prekių gavimas nėra patvirtinamas šio įstatymo [[#^s-5a97728eb3d4a5f33c814564|15]] ar [[#^s-26bd3962fc056c5662ee76bb|16]] straipsnio arba savo esme tolygių kitų valstybių narių teisės aktų nustatyta tvarka, kai vienas ar visi gabenant akcizais apmokestinamas prekes dalyvaujantys asmenys nėra registruoti kaip patvirtinti gavėjai ir (arba) patvirtinti siuntėjai ar veikiantys kaip patvirtinti gavėjai ar patvirtinti siuntėjai pagal šio įstatymo [[#^s-de154f57c1cc4223b3226985|81 straipsnio]] [[#^s-cc1b7e9cd903951a33b5f8b1|1]] ir [[#^s-0745ab947c40a693f4b4d88a|2]] dalių ar tolygias kitų valstybių narių teisės aktų nuostatas arba nėra įregistruoti kaip akcizais apmokestinamų prekių siuntėjai, taip pat kai akcizais apmokestinamų prekių gabenimas komerciniams tikslams nėra įformintas elektroniniu supaprastintu vežimo dokumentu. ^s-1b1ba2f87394d82ffc79d504
 
 
-9. Kai prievolė mokėti akcizus Lietuvos Respublikoje atsiranda dėl šio straipsnio 3 ar [[#^s-97f49e05c8934bbd64d1f2a7|4 dalyje]] nurodytų aplinkybių, asmuo, pateikęs mokestinių prievolių, galinčių atsirasti gabenimo prekėms taikant akcizų mokėjimo laikino atidėjimo režimą metu, įvykdymo užtikrinimo dokumentą, centrinio mokesčių administratoriaus nustatyta tvarka privalo deklaruoti ir sumokėti šį mokestį, jeigu nuo akcizais apmokestinamų prekių išgabenimo dienos praėjo ne daugiau kaip 3 metai. ^s-4564e8aa2adf0ac48628e7cc
+9. Kai prievolė mokėti akcizus Lietuvos Respublikoje atsiranda dėl šio straipsnio [[#^s-21f7c9f8d75ae191eea2cead|3]] ar [[#^s-97f49e05c8934bbd64d1f2a7|4]] dalyje nurodytų aplinkybių, asmuo, pateikęs mokestinių prievolių, galinčių atsirasti gabenimo prekėms taikant akcizų mokėjimo laikino atidėjimo režimą metu, įvykdymo užtikrinimo dokumentą, centrinio mokesčių administratoriaus nustatyta tvarka privalo deklaruoti ir sumokėti šį mokestį, jeigu nuo akcizais apmokestinamų prekių išgabenimo dienos praėjo ne daugiau kaip 3 metai. ^s-4564e8aa2adf0ac48628e7cc
 
 
 Straipsnio pakeitimai:
@@ -1350,13 +1350,13 @@ Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 
 
-8. Tuo atveju, kai akcizais apmokestinamos prekės šio straipsnio 5 ir [[#^s-c68e17c87215e2e0f869f1bc|7 dalyse]] nurodytiems tikslams į kitą valstybę narę išgabentos iš akcizais apmokestinamų prekių sandėlio ir akcizų už šias prekes sumokėjimo Lietuvos Respublikoje terminas nėra suėjęs, o vietos mokesčių administratoriui gali būti pateikti šio straipsnio 5 ar [[#^s-c68e17c87215e2e0f869f1bc|7 dalyje]] nurodyti dokumentai, apskaičiuota mokėtina už šias prekes akcizų suma panaikinama. ^s-d68ced46ac9d3d53f4fae738
+8. Tuo atveju, kai akcizais apmokestinamos prekės šio straipsnio [[#^s-07428d074612b69b8926af04|5]] ir [[#^s-c68e17c87215e2e0f869f1bc|7]] dalyse nurodytiems tikslams į kitą valstybę narę išgabentos iš akcizais apmokestinamų prekių sandėlio ir akcizų už šias prekes sumokėjimo Lietuvos Respublikoje terminas nėra suėjęs, o vietos mokesčių administratoriui gali būti pateikti šio straipsnio [[#^s-07428d074612b69b8926af04|5]] ar [[#^s-c68e17c87215e2e0f869f1bc|7]] dalyje nurodyti dokumentai, apskaičiuota mokėtina už šias prekes akcizų suma panaikinama. ^s-d68ced46ac9d3d53f4fae738
 Straipsnio dalies pakeitimai:
 Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
 
 
-9. Konkrečias šio straipsnio 5, 6 ir [[#^s-c68e17c87215e2e0f869f1bc|7 dalių]] nuostatų įgyvendinimo taisykles nustato Vyriausybė ar jos įgaliota institucija. ^s-6c2f56f36166dee30a7e4e22
+9. Konkrečias šio straipsnio [[#^s-07428d074612b69b8926af04|5]], [[#^s-91f6a8c4023225df8f5dd81f|6]] ir [[#^s-c68e17c87215e2e0f869f1bc|7]] dalių nuostatų įgyvendinimo taisykles nustato Vyriausybė ar jos įgaliota institucija. ^s-6c2f56f36166dee30a7e4e22
 Straipsnio dalies pakeitimai:
 Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
 
@@ -1374,7 +1374,7 @@ Nr. XI-1186, 2010-11-30, Žin., 2010, Nr. 148-7561 (2010-12-18)
 1. Nepagrįstai sumokėta (išieškota) per didelė akcizų suma grąžinama (įskaitoma) [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka. ^s-3347a268729057a33513df27
 
 
-2. Prievolė mokėti akcizus muitinei mutatis mutandis išnyksta Sąjungos muitinės kodekso 124 straipsnio 1 dalies d–g punktuose nustatytais atvejais. Už importuojamas prekes sumokėti akcizai grąžinami arba atsisakoma juos išieškoti Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais. Sprendimai dėl pateiktų prašymų grąžinti sumokėtus akcizus arba atsisakyti juos išieškoti priimami vadovaujantis [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatymo]] VIII skyriaus nuostatomis. ^s-e0088d9e02779b0d063826aa
+2. Prievolė mokėti akcizus muitinei mutatis mutandis išnyksta Sąjungos [muitinės kodekso 124 straipsnio 1 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) d–g punktuose nustatytais atvejais. Už importuojamas prekes sumokėti akcizai grąžinami arba atsisakoma juos išieškoti Vyriausybės ar jos įgaliotos institucijos nustatytais atvejais. Sprendimai dėl pateiktų prašymų grąžinti sumokėtus akcizus arba atsisakyti juos išieškoti priimami vadovaujantis [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatymo]] VIII skyriaus nuostatomis. ^s-e0088d9e02779b0d063826aa
 Straipsnio dalies pakeitimai:
 Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 
@@ -1398,7 +1398,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 
 
-5. Sąjungos prekių įvežimui iš Sutarties dėl Europos Sąjungos veikimo 349 straipsnyje ir 355 straipsnio 1 dalyje nurodytų Prancūzijos teritorijų, Kanarų, Alandų ir Normandijos salų į Europos Sąjungos teritoriją taikomi tokie patys muitinės formalumai, kokie yra taikomi į Sąjungos muitų teritoriją įvežamoms ne Sąjungos prekėms. Tuo atveju, kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, kurios skirtos nugabenti į kitą valstybę narę negu ta, į kurią jos buvo įvežtos iš trečiųjų teritorijų, šios prekės gali būti pateiktos vidinio tranzito muitinės procedūrai, numatytai Sąjungos muitinės kodekso 227 straipsnyje, įforminti. ^s-c0fb0004d28bec2e15b6e173
+5. Sąjungos prekių įvežimui iš Sutarties dėl Europos Sąjungos veikimo 349 straipsnyje ir 355 straipsnio 1 dalyje nurodytų Prancūzijos teritorijų, Kanarų, Alandų ir Normandijos salų į Europos Sąjungos teritoriją taikomi tokie patys muitinės formalumai, kokie yra taikomi į Sąjungos muitų teritoriją įvežamoms ne Sąjungos prekėms. Tuo atveju, kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, kurios skirtos nugabenti į kitą valstybę narę negu ta, į kurią jos buvo įvežtos iš trečiųjų teritorijų, šios prekės gali būti pateiktos vidinio tranzito muitinės procedūrai, numatytai Sąjungos [muitinės kodekso 227 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), įforminti. ^s-c0fb0004d28bec2e15b6e173
 Straipsnio dalies pakeitimai:
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
@@ -1410,7 +1410,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 
 
-7. Šio straipsnio 4, 5 ir [[#^s-b0aea38f427f9f65df6a4147|6 dalys]] įgyvendinamos Sąjungos muitinės kodekso, jį papildančių ir įgyvendinančių Europos Sąjungos teisės aktų nustatyta tvarka. ^s-fa72abd1c4caf2c746ffcfd9
+7. Šio straipsnio [[#^s-ae48b391b084abb9f7c19db4|4]], [[#^s-c0fb0004d28bec2e15b6e173|5]] ir [[#^s-b0aea38f427f9f65df6a4147|6]] dalys įgyvendinamos Sąjungos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), jį papildančių ir įgyvendinančių Europos Sąjungos teisės aktų nustatyta tvarka. ^s-fa72abd1c4caf2c746ffcfd9
 
 
 8. Tais atvejais, kai prekės gabenamos tarp valstybių narių per valstybės, kuri nėra valstybė narė, tačiau yra Europos laisvosios prekybos asociacijos (toliau – ELPA) narė, teritoriją arba tarp valstybės narės ir ELPA narės, taikant vidinio tranzito muitinės procedūrą, arba per vieną ar kelias trečiąsias valstybes ne ELPA nares su TIR ar ATA knygele, laikoma, kad akcizų mokėjimas už šias prekes atidėtas. Šioje dalyje nurodytais atvejais naudojama muitinės deklaracija. ^s-dca7eced7c3926fba8d9b371
@@ -1614,7 +1614,7 @@ Akcizai netaikomi šiam etilo alkoholiui:
 1) denatūruotam pagal atitinkamos valstybės narės reikalavimus ir panaudotam ne maistui skirtų produktų gamybai arba gamybos įrangos, naudojamos šiam konkrečiam gamybos procesui, techninei priežiūrai ir valymui. Lietuvos Respublikoje tokius denatūravimo reikalavimus nustato Vyriausybė ar jos įgaliota institucija. Denatūruotas etilo alkoholis, kuris dar nėra panaudotas šiame punkte nustatytais būdais, turi būti gabenamas taikant akcizų mokėjimo laikino atidėjimo režimą; ^s-54445a1f11d89cb44ade84be
 
 
-2) etilo alkoholiui, kuris pripažintas denatūruotu etilo alkoholiu pagal 1993 m. lapkričio 22 d. Komisijos reglamentą (EB) Nr. 3199/93 dėl visiško etilo alkoholio denatūravimo procedūrų tarpusavio pripažinimo atleidimo nuo akcizų tikslais ir atitinka valstybės narės, kurioje jis buvo išleistas vartoti, reikalavimus. Toks denatūruotas etilo alkoholis turi būti gabenamas kaip akcizais apmokestinamos prekės, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas. ^s-90b8aaba3237a235308eaa30
+2) etilo alkoholiui, kuris pripažintas denatūruotu etilo alkoholiu pagal 1993 m. lapkričio 22 d. Komisijos [reglamentą (EB) Nr. 3199/93](https://eur-lex.europa.eu/eli/reg/3199/93/oj) dėl visiško etilo alkoholio denatūravimo procedūrų tarpusavio pripažinimo atleidimo nuo akcizų tikslais ir atitinka valstybės narės, kurioje jis buvo išleistas vartoti, reikalavimus. Toks denatūruotas etilo alkoholis turi būti gabenamas kaip akcizais apmokestinamos prekės, kurioms netaikomas akcizų mokėjimo laikino atidėjimo režimas. ^s-90b8aaba3237a235308eaa30
 
 
 Straipsnio pakeitimai:
@@ -1723,7 +1723,7 @@ Skirtas parduoti Lietuvos Respublikoje apdorotas tabakas turi būti paženklinta
 ### 33 straipsnis. Specialūs atvejai, kai apdorotas tabakas atleidžiamas nuo akcizų ^s-ab22691b2c2ee826ac7d9572
 
 
-1. Be šio įstatymo [[#^s-84d8127084338802f69c1a58|19 straipsnyje]] nurodytų atvejų, nuo akcizų atleidžiamas apdorotas tabakas, jeigu jis sunaikintas prižiūrint kompetentingai institucijai. Šios nuostatos įgyvendinamos centrinio mokesčių administratoriaus (dėl Valstybinės mokesčių inspekcijos kontroliuojamų prekių) ir Sąjungos muitinės kodekso, jį papildančių ir įgyvendinančių Europos Sąjungos teisės aktų (dėl muitinės kontroliuojamų prekių) nustatyta tvarka. Jeigu už šioje dalyje nustatyta tvarka sunaikintą apdorotą tabaką akcizai jau buvo sumokėti, akcizų suma įskaitoma arba grąžinama [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka. Šios dalies nuostatos netaikomos sunaikintam apdorotam tabakui, kuris pagamintas, sumaišytas, perdirbtas ar laikomas (įskaitant saugojimą) pažeidžiant teisės aktų reikalavimus arba yra neteisėtai atgabentas. ^s-4d95b973dd3aad2c9ba76f83
+1. Be šio įstatymo [[#^s-84d8127084338802f69c1a58|19 straipsnyje]] nurodytų atvejų, nuo akcizų atleidžiamas apdorotas tabakas, jeigu jis sunaikintas prižiūrint kompetentingai institucijai. Šios nuostatos įgyvendinamos centrinio mokesčių administratoriaus (dėl Valstybinės mokesčių inspekcijos kontroliuojamų prekių) ir Sąjungos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), jį papildančių ir įgyvendinančių Europos Sąjungos teisės aktų (dėl muitinės kontroliuojamų prekių) nustatyta tvarka. Jeigu už šioje dalyje nustatyta tvarka sunaikintą apdorotą tabaką akcizai jau buvo sumokėti, akcizų suma įskaitoma arba grąžinama [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka. Šios dalies nuostatos netaikomos sunaikintam apdorotam tabakui, kuris pagamintas, sumaišytas, perdirbtas ar laikomas (įskaitant saugojimą) pažeidžiant teisės aktų reikalavimus arba yra neteisėtai atgabentas. ^s-4d95b973dd3aad2c9ba76f83
 Straipsnio dalies pakeitimai:
 Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
@@ -1920,7 +1920,7 @@ Nr. XV-811, 2026-04-14, paskelbta TAR 2026-04-15, i. k. 2026-06082
 2) kintamosios dalies – CO2 dedamosios, nurodytos šio įstatymo 3 priede. ^s-d496b53bf44cf0864a541db7
 
 
-4. Šio straipsnio 2 ir [[#^s-df41e45252ec5f81502bfd0d|3 dalyse]] nustatytų lengvatų taikymo tvarką nustato centrinis mokesčių administratorius. ^s-14a0cfd141362164a96b1712
+4. Šio straipsnio [[#^s-f581824d1d06651abfeb9b5e|2]] ir [[#^s-df41e45252ec5f81502bfd0d|3]] dalyse nustatytų lengvatų taikymo tvarką nustato centrinis mokesčių administratorius. ^s-14a0cfd141362164a96b1712
 
 
 Straipsnio pakeitimai:
@@ -1940,7 +1940,7 @@ Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 ### 41 straipsnis. Energiniams produktams taikomų akcizų skaičiavimo metodas ^s-783c8c518ae54a124340077b
 
 
-Akcizų tarifas už energinius produktus, nurodytus šio įstatymo 35, 36, 37 ir [[#^s-a15b72b62159d438315360a1|371 straipsniuose]], nustatytas, kai produkto temperatūra yra 15 °C. Akcizų perskaičiavimo tais atvejais, kai produktas yra kitokios temperatūros, metodiką nustato centrinis mokesčių administratorius.
+Akcizų tarifas už energinius produktus, nurodytus šio įstatymo [[#^s-eb3dcad7bd59ce0978f6b1aa|35]], [[#^s-a223c87f52182e2296c243ad|36]], [[#^s-0dadc91796c5d80f5eb4e1aa|37]] ir [[#^s-a15b72b62159d438315360a1|371]] straipsniuose, nustatytas, kai produkto temperatūra yra 15 °C. Akcizų perskaičiavimo tais atvejais, kai produktas yra kitokios temperatūros, metodiką nustato centrinis mokesčių administratorius.
 
 
 Straipsnio pakeitimai:
@@ -1952,7 +1952,7 @@ Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 ### 42 straipsnis. Kitiems energiniams produktams taikomi akcizų tarifai ^s-c89e447540b7f7645235baff
 
 
-Šio įstatymo 35–[[#^s-56c90587fcf1588e676a9cf8|39 straipsniuose]] nenurodytiems energiniams produktams taikomi akcizų tarifai, šiuose straipsniuose nustatyti atitinkamiems ekvivalentiškiems produktams, vietoj kurių ar kaip šių produktų priedai jie gali būti ar yra parduodami arba naudojami.
+Šio įstatymo [[#^s-eb3dcad7bd59ce0978f6b1aa|35]]–[[#^s-56c90587fcf1588e676a9cf8|39]] straipsniuose nenurodytiems energiniams produktams taikomi akcizų tarifai, šiuose straipsniuose nustatyti atitinkamiems ekvivalentiškiems produktams, vietoj kurių ar kaip šių produktų priedai jie gali būti ar yra parduodami arba naudojami.
 
 
 
@@ -1978,7 +1978,7 @@ Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 
 
 6) biodujos, kaip apibrėžiamos [[latest/TAR.FC7AB69BE291|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme]], įskaitant jų dalį energinių produktų mišiniuose. ^s-2d66763de4e677ca040dc896
-TAR pastaba. 2024-12-19 įstatymo Nr. XV-83 nuostatos  įsigalioja 2025 m. liepos 1 d., jeigu Europos Komisijos pritarimas pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gaunamas iki 2025 m. liepos 1 d., arba praėjus 2 mėnesiams po Europos Komisijos pritarimo gavimo dienos, jeigu Europos Komisijos pritarimas pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gaunamas po 2025 m. liepos 1 d. Lietuvos Respublikos aplinkos ministerija nedelsdama informuoja Teisės aktų registro tvarkytoją apie šio įstatymo įsigaliojimo datą po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gavimo dienos.
+TAR pastaba. 2024-12-19 [įstatymo Nr. XV-83](https://e-tar.lt/portal/lt/legalAct/0813ab42c13c11ef88c08519262548c4) nuostatos  įsigalioja 2025 m. liepos 1 d., jeigu Europos Komisijos pritarimas pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gaunamas iki 2025 m. liepos 1 d., arba praėjus 2 mėnesiams po Europos Komisijos pritarimo gavimo dienos, jeigu Europos Komisijos pritarimas pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gaunamas po 2025 m. liepos 1 d. Lietuvos Respublikos aplinkos ministerija nedelsdama informuoja Teisės aktų registro tvarkytoją apie šio įstatymo įsigaliojimo datą po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gavimo dienos.
 Papildyta straipsnio punktu:
 Nr. XV-83, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23078
 
@@ -2012,8 +2012,8 @@ Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
 
 
 
-2. Šio straipsnio 11 ir [[#^s-1b7785c09bf4f087fae9b173|12 dalyse]] nustatytos lengvatos taikomos tiesiogiai arba grąžinant CO2 dedamąją. [[#^s-33caa0e51166a011fc182cd7|Šio straipsnio 1 dalies]] 1–5 punktuose, 11 ir [[#^s-1b7785c09bf4f087fae9b173|12 dalyse]] nurodytų lengvatų taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija. [[#^s-2d66763de4e677ca040dc896|Šio straipsnio 1 dalies 6 punkte]] nurodytos lengvatos taikymo tvarką nustato centrinis mokesčių administratorius. ^s-5007c35e2591e47bef640a7a
-TAR pastaba. 2024-12-19 įstatymo Nr. XV-83 nuostatos  įsigalioja 2025 m. liepos 1 d., jeigu Europos Komisijos pritarimas pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gaunamas iki 2025 m. liepos 1 d., arba praėjus 2 mėnesiams po Europos Komisijos pritarimo gavimo dienos, jeigu Europos Komisijos pritarimas pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gaunamas po 2025 m. liepos 1 d. Lietuvos Respublikos aplinkos ministerija nedelsdama informuoja Teisės aktų registro tvarkytoją apie šio įstatymo įsigaliojimo datą po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gavimo dienos.
+2. Šio straipsnio [[#^s-833d59518e58d3208c2f55b3|11]] ir [[#^s-1b7785c09bf4f087fae9b173|12]] dalyse nustatytos lengvatos taikomos tiesiogiai arba grąžinant CO2 dedamąją. [[#^s-33caa0e51166a011fc182cd7|Šio straipsnio 1 dalies]] 1–5 punktuose, [[#^s-833d59518e58d3208c2f55b3|11]] ir [[#^s-1b7785c09bf4f087fae9b173|12]] dalyse nurodytų lengvatų taikymo tvarką nustato Vyriausybė ar jos įgaliota institucija. [[#^s-2d66763de4e677ca040dc896|Šio straipsnio 1 dalies 6 punkte]] nurodytos lengvatos taikymo tvarką nustato centrinis mokesčių administratorius. ^s-5007c35e2591e47bef640a7a
+TAR pastaba. 2024-12-19 [įstatymo Nr. XV-83](https://e-tar.lt/portal/lt/legalAct/0813ab42c13c11ef88c08519262548c4) nuostatos  įsigalioja 2025 m. liepos 1 d., jeigu Europos Komisijos pritarimas pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gaunamas iki 2025 m. liepos 1 d., arba praėjus 2 mėnesiams po Europos Komisijos pritarimo gavimo dienos, jeigu Europos Komisijos pritarimas pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gaunamas po 2025 m. liepos 1 d. Lietuvos Respublikos aplinkos ministerija nedelsdama informuoja Teisės aktų registro tvarkytoją apie šio įstatymo įsigaliojimo datą po Europos Komisijos pritarimo pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas gavimo dienos.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
@@ -2066,7 +2066,7 @@ Prievolė mokėti akcizus už elektros energiją atsiranda, kai ji:
 3) importuojama nelicencijuoto asmens, arba ^s-a681041f5c3913871b76751f
 
 
-4) suvartojama asmens, turinčio veiklos licencijas ir (arba) leidimus, nustatytus [[latest/TAR.F57794B7899F|Elektros energetikos įstatyme]] (toliau – licencijuotas asmuo), arba elektros energijos gamintojo savoms reikmėms. Elektros energijos suvartojimu savoms reikmėms yra laikomas elektros energijos sunaudojimas kitiems tikslams negu elektros energijos gamybos procesams ir gamybos procesui palaikyti. ^s-729606580f7d73ba0f7270b4
+4) suvartojama asmens, turinčio veiklos licencijas ir (arba) leidimus, nustatytus [[latest/TAR.F57794B7899F|Elektros energetikos įstatyme]] (toliau – [[latest/TAR.F57794B7899F|licencijuotas asmuo]]), arba elektros energijos gamintojo savoms reikmėms. Elektros energijos suvartojimu savoms reikmėms yra laikomas elektros energijos sunaudojimas kitiems tikslams negu elektros energijos gamybos procesams ir gamybos procesui palaikyti. ^s-729606580f7d73ba0f7270b4
 
 
 Straipsnio pakeitimai:
@@ -2262,7 +2262,7 @@ Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
 2. Jeigu asmuo netenka registruoto akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjo statuso, jis privalo [[#^s-9ba6dec1e42406ee1963531f|šio straipsnio 1 dalyje]] nustatytais terminais pateikti vietos mokesčių administratoriui, kurio veiklos teritorijoje jis registruotas mokesčių mokėtoju, akcizų už akmens anglis, koksą, lignitą, šildymui skirtas durpes deklaraciją. Joje turi būti deklaruoti akcizai už visą įsigytą akmens anglių, kokso, lignito, šildymui skirtų durpių kiekį, už kurį dar nesumokėti akcizai, ir juos sumokėti iki šioje dalyje nustatyto deklaracijos pateikimo termino pabaigos. ^s-604fba14a79781c3066e606d
 
 
-3. Už asmens, kuris nėra registruotas akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjas, importuotas akmens anglis, koksą, lignitą ir (arba) šildymui skirtas durpes akcizai mokami tokiais pačiais terminais ir tvarka, kaip būtų mokami importo muitai už šiuos produktus (jeigu jie šiems produktams būtų nustatyti), kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. ^s-2337432903d53bb693216e6b
+3. Už asmens, kuris nėra registruotas akmens anglių, kokso, lignito ir (arba) šildymui skirtų durpių tiekėjas, importuotas akmens anglis, koksą, lignitą ir (arba) šildymui skirtas durpes akcizai mokami tokiais pačiais terminais ir tvarka, kaip būtų mokami importo muitai už šiuos produktus (jeigu jie šiems produktams būtų nustatyti), kaip tai nustatyta Sąjungos [muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. ^s-2337432903d53bb693216e6b
 
 
 Skirsnio pakeitimai:
@@ -2298,13 +2298,13 @@ Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
 ### 58 straipsnis. Akcizų už gamtines dujas mokėtojai ^s-170dae20e39a90d850db4683
 
 
-1. Šio įstatymo [[#^s-b884c48a2c6043f6a175b3a4|57 straipsnio 1 punkte]] nurodytu atveju prievolė mokėti akcizus tenka asmeniui, kuris gamtines dujas ne gamtinių dujų perdavimo sistemos virtualiame prekybos taške, kuriame prekiaujama gamtinėmis dujomis, parduoda ar kitaip perduoda naudoti kaip variklių degalus ar šildymui skirtą kurą. ^s-9e793bf5413611e62bc4240d
+1. Šio įstatymo 57 straipsnio 1 punkte nurodytu atveju prievolė mokėti akcizus tenka asmeniui, kuris gamtines dujas ne gamtinių dujų perdavimo sistemos virtualiame prekybos taške, kuriame prekiaujama gamtinėmis dujomis, parduoda ar kitaip perduoda naudoti kaip variklių degalus ar šildymui skirtą kurą. ^s-9e793bf5413611e62bc4240d
 
 
-2. Šio įstatymo [[#^s-bed9da4a6be65c45590d57f6|57 straipsnio 2 punkte]] nurodytu atveju prievolė mokėti akcizus tenka asmeniui, kuris gamtines dujas, jam parduotas ar kitaip perduotas gamtinių dujų perdavimo sistemos virtualiame prekybos taške, kuriame prekiaujama gamtinėmis dujomis, naudoja kaip variklių degalus ar šildymui skirtą kurą. ^s-e62074613e1da9941a6b630d
+2. Šio įstatymo 57 straipsnio 2 punkte nurodytu atveju prievolė mokėti akcizus tenka asmeniui, kuris gamtines dujas, jam parduotas ar kitaip perduotas gamtinių dujų perdavimo sistemos virtualiame prekybos taške, kuriame prekiaujama gamtinėmis dujomis, naudoja kaip variklių degalus ar šildymui skirtą kurą. ^s-e62074613e1da9941a6b630d
 
 
-3. Šio įstatymo [[#^s-8ef6d1546378068fbad89034|57 straipsnio 3 punkte]] nurodytu atveju prievolė mokėti akcizus tenka asmeniui, kuris gamtines dujas, už kurias akcizai dar nesumokėti, naudoja kaip variklių degalus ar šildymui skirtą kurą. ^s-9a75a637de4f3bd55566a2d8
+3. Šio įstatymo 57 straipsnio 3 punkte nurodytu atveju prievolė mokėti akcizus tenka asmeniui, kuris gamtines dujas, už kurias akcizai dar nesumokėti, naudoja kaip variklių degalus ar šildymui skirtą kurą. ^s-9a75a637de4f3bd55566a2d8
 
 
 Straipsnio pakeitimai:
@@ -2359,7 +2359,7 @@ Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
 ### 59 straipsnis. Gamtinėms dujoms taikomi akcizų tarifai ^s-ab6808437c973d5950fbc087
 
 
-1. Gamtinėms dujoms, išskyrus šio straipsnio 2, 3 ir [[#^s-75dc703a154bf400683c2f94|4 dalyse]] nurodytas gamtines dujas, taikomas 23,60 euro už vieną megavatvalandę produkto akcizų tarifas. ^s-839544d76f1e0d97808ebbbc
+1. Gamtinėms dujoms, išskyrus šio straipsnio [[#^s-f58db347463e72257517a496|2]], [[#^s-0e29add9fb763eabf77971ae|3]] ir [[#^s-75dc703a154bf400683c2f94|4]] dalyse nurodytas gamtines dujas, taikomas 23,60 euro už vieną megavatvalandę produkto akcizų tarifas. ^s-839544d76f1e0d97808ebbbc
 
 
 2. Gamtinėms dujoms, kurios naudojamos kaip šildymui skirtas kuras, išskyrus [[#^s-0e29add9fb763eabf77971ae|šio straipsnio 3 dalyje]] nurodytą atvejį, taikomas 1,50 euro už vieną megavatvalandę produkto akcizų tarifas. ^s-f58db347463e72257517a496
@@ -2439,7 +2439,7 @@ Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 
 
-2. Be [[#^s-3141e45c441933eaefe02695|šio straipsnio 1 dalyje]] nurodytų atvejų, prievolė mokėti akcizus atsiranda už Lietuvos Respublikoje importuojamus kaitinamojo tabako produktus (išskyrus importuojamus kaitinamojo tabako produktus, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nugabentus į Lietuvos Respublikos akcizais apmokestinamų prekių sandėlį) arba neteisėtai įvežamus kaitinamojo tabako produktus (išskyrus atvejus, kai skola muitinei yra išnykusi pagal Sąjungos muitinės kodekso 124 straipsnio 1 dalies e, f, g ar k punktą). Laikoma, kad kaitinamojo tabako produktai importuojami Lietuvos Respublikoje, kai: ^s-43391ec813d7209d273a220c
+2. Be [[#^s-3141e45c441933eaefe02695|šio straipsnio 1 dalyje]] nurodytų atvejų, prievolė mokėti akcizus atsiranda už Lietuvos Respublikoje importuojamus kaitinamojo tabako produktus (išskyrus importuojamus kaitinamojo tabako produktus, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka nugabentus į Lietuvos Respublikos akcizais apmokestinamų prekių sandėlį) arba neteisėtai įvežamus kaitinamojo tabako produktus (išskyrus atvejus, kai skola muitinei yra išnykusi pagal Sąjungos [muitinės kodekso 124 straipsnio 1 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) e, f, g ar k punktą). Laikoma, kad kaitinamojo tabako produktai importuojami Lietuvos Respublikoje, kai: ^s-43391ec813d7209d273a220c
 
 
 1) ne Sąjungos kaitinamojo tabako produktai yra Lietuvos Respublikos teritorijoje tuo metu, kai jie importuojami į Europos Sąjungos teritoriją; ^s-29c98b15400511839a8306ac
@@ -2453,7 +2453,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
 
 
-3. Prievolė mokėti akcizus už [[#^s-3141e45c441933eaefe02695|šio straipsnio 1 dalyje]] nurodytus kaitinamojo tabako produktus atsiranda tuo metu, kai susidaro [[#^s-3141e45c441933eaefe02695|šio straipsnio 1 dalyje]] nurodytos aplinkybės. Prievolė mokėti akcizus už [[#^s-43391ec813d7209d273a220c|šio straipsnio 2 dalyje]] nurodytus kaitinamojo tabako produktus, kuriems pagal Europos Sąjungos atitinkamus teisės aktus yra taikomi importo muitai, atsiranda tuo metu, kai pagal teisės aktus, reguliuojančius importo muitų apskaičiavimą, atsiranda prievolė už juos apskaičiuoti importo muitus. Jeigu [[#^s-43391ec813d7209d273a220c|šio straipsnio 2 dalyje]] nurodytiems kaitinamojo tabako produktams netaikomi jokie importo muitai, prievolė mokėti akcizus už juos atsiranda tada, jeigu pagal atitinkamas Sąjungos muitinės kodekso nuostatas atsirastų importo skola muitinei ir jeigu jiems šie muitai būtų nustatyti. ^s-d7736393e84b1f0755287ee0
+3. Prievolė mokėti akcizus už [[#^s-3141e45c441933eaefe02695|šio straipsnio 1 dalyje]] nurodytus kaitinamojo tabako produktus atsiranda tuo metu, kai susidaro [[#^s-3141e45c441933eaefe02695|šio straipsnio 1 dalyje]] nurodytos aplinkybės. Prievolė mokėti akcizus už [[#^s-43391ec813d7209d273a220c|šio straipsnio 2 dalyje]] nurodytus kaitinamojo tabako produktus, kuriems pagal Europos Sąjungos atitinkamus teisės aktus yra taikomi importo muitai, atsiranda tuo metu, kai pagal teisės aktus, reguliuojančius importo muitų apskaičiavimą, atsiranda prievolė už juos apskaičiuoti importo muitus. Jeigu [[#^s-43391ec813d7209d273a220c|šio straipsnio 2 dalyje]] nurodytiems kaitinamojo tabako produktams netaikomi jokie importo muitai, prievolė mokėti akcizus už juos atsiranda tada, jeigu pagal atitinkamas Sąjungos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nuostatas atsirastų importo skola muitinei ir jeigu jiems šie muitai būtų nustatyti. ^s-d7736393e84b1f0755287ee0
 
 
 4. [[#^s-b14ee69fe2e9283196c885b9|Šio straipsnio 1 dalies 1 punkte]] nurodytais atvejais prievolė mokėti akcizus tenka akcizais apmokestinamų prekių sandėlio savininkui arba bet kuriam kitam asmeniui, kuriam arba kurio vardu kaitinamojo tabako produktams panaikinamas akcizų mokėjimo laikino atidėjimo režimas, o tais atvejais, kai kaitinamojo tabako produktai, kuriems akcizų mokėjimo laikino atidėjimo režimas panaikinamas pažeidžiant teisės aktų nustatytus reikalavimus, – bet kuriam kitam asmeniui, dalyvavusiam darant šį pažeidimą. ^s-c515bafe83a1888ca98aeb5d
@@ -2483,7 +2483,7 @@ Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 
 
-10. Prievolė mokėti akcizus [[#^s-43391ec813d7209d273a220c|šio straipsnio 2 dalyje]] nurodytu atveju tenka deklarantui arba bet kuriam kitam Sąjungos muitinės kodekso [[#^s-700f93af8d71b4df2902fccc|77 straipsnio 3 dalyje]] nurodytam asmeniui. Kai kaitinamojo tabako produktai neteisėtai įvežami, prievolė mokėti akcizus tenka bet kuriam asmeniui, dalyvavusiam neteisėtai įvežant šiuos kaitinamojo tabako produktus. ^s-ffef07888342cd7eaafa9b87
+10. Prievolė mokėti akcizus [[#^s-43391ec813d7209d273a220c|šio straipsnio 2 dalyje]] nurodytu atveju tenka deklarantui arba bet kuriam kitam Sąjungos [muitinės kodekso 77 straipsnio 3 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nurodytam asmeniui. Kai kaitinamojo tabako produktai neteisėtai įvežami, prievolė mokėti akcizus tenka bet kuriam asmeniui, dalyvavusiam neteisėtai įvežant šiuos kaitinamojo tabako produktus. ^s-ffef07888342cd7eaafa9b87
 Straipsnio dalies pakeitimai:
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
@@ -2546,7 +2546,7 @@ Akcizų už elektroninių cigarečių skystį mokėtojai yra registruoti akcizų
 2. Tais atvejais, kai akcizai už kaitinamojo tabako produktus ir elektroninių cigarečių skystį, kurie vadovaujantis šio straipsnio nuostatomis yra atleidžiami nuo akcizų, yra sumokėti, jie grąžinami centrinio mokesčių administratoriaus nustatyta tvarka. ^s-e63d8ebf0a6f3f9ce92f4b00
 
 
-3. Nuo akcizų atleidžiami kaitinamojo tabako produktai, jeigu jie sunaikinti prižiūrint kompetentingai institucijai. Šios nuostatos įgyvendinamos centrinio mokesčių administratoriaus (dėl Valstybinės mokesčių inspekcijos kontroliuojamų prekių) ir Sąjungos muitinės kodekso, jį papildančių ir įgyvendinančių Europos Sąjungos teisės aktų (dėl muitinės kontroliuojamų prekių) nustatyta tvarka. Jeigu už sunaikintus kaitinamojo tabako produktus akcizai jau buvo sumokėti, akcizų suma įskaitoma arba grąžinama [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka. Šios dalies nuostatos netaikomos sunaikintiems kaitinamojo tabako produktams, kurie pagaminti ar laikomi (įskaitant saugojimą) pažeidžiant teisės aktų reikalavimus arba yra neteisėtai atgabenti. ^s-8c727e1d2e7b4201fa7a0628
+3. Nuo akcizų atleidžiami kaitinamojo tabako produktai, jeigu jie sunaikinti prižiūrint kompetentingai institucijai. Šios nuostatos įgyvendinamos centrinio mokesčių administratoriaus (dėl Valstybinės mokesčių inspekcijos kontroliuojamų prekių) ir Sąjungos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), jį papildančių ir įgyvendinančių Europos Sąjungos teisės aktų (dėl muitinės kontroliuojamų prekių) nustatyta tvarka. Jeigu už sunaikintus kaitinamojo tabako produktus akcizai jau buvo sumokėti, akcizų suma įskaitoma arba grąžinama [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka. Šios dalies nuostatos netaikomos sunaikintiems kaitinamojo tabako produktams, kurie pagaminti ar laikomi (įskaitant saugojimą) pažeidžiant teisės aktų reikalavimus arba yra neteisėtai atgabenti. ^s-8c727e1d2e7b4201fa7a0628
 Papildyta straipsnio dalimi:
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
@@ -2570,7 +2570,7 @@ Nr. XIV-2769, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12068
 ### 66 straipsnis. Mokestinių prievolių dėl akcizų už kaitinamojo tabako produktus ir elektroninių cigarečių skystį įvykdymo užtikrinimas ^s-0ba77c86e643ecf9cdfc7552
 
 
-1. Mokestinių prievolių, galinčių atsirasti už akcizais apmokestinamų prekių sandėlyje laikomus (įskaitant saugojimą) ir tarp Lietuvos Respublikos akcizais apmokestinamų prekių sandėlių gabenamus kaitinamojo tabako produktus, kuriems taikomas akcizų mokėjimo laikino atidėjimo režimas, įvykdymas užtikrinamas šio įstatymo [[#^s-87c3f8d5f33626b93b413ef6|18 straipsnio]] 1, 2, 3 ir 4 dalyse ir jo įgyvendinamuosiuose teisės aktuose nustatytais būdais ir tvarka. ^s-8cbeee9859431b616a21be6d
+1. Mokestinių prievolių, galinčių atsirasti už akcizais apmokestinamų prekių sandėlyje laikomus (įskaitant saugojimą) ir tarp Lietuvos Respublikos akcizais apmokestinamų prekių sandėlių gabenamus kaitinamojo tabako produktus, kuriems taikomas akcizų mokėjimo laikino atidėjimo režimas, įvykdymas užtikrinamas šio įstatymo [[#^s-87c3f8d5f33626b93b413ef6|18 straipsnio]] [[#^s-ed14b5bdfe70c1aea5dca24b|1]], [[#^s-de3529b8bf1ea1837ea214c0|2]], [[#^s-4996a8fa4a1613c6cffda508|3]] ir [[#^s-c28f21fe7abc49266aab6a0b|4]] dalyse ir jo įgyvendinamuosiuose teisės aktuose nustatytais būdais ir tvarka. ^s-8cbeee9859431b616a21be6d
 Straipsnio dalies pakeitimai:
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
@@ -2579,14 +2579,14 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 2. Šio įstatymo [[#^s-28ffe0117924f77cba271666|62 straipsnio 4 dalyje]] nurodytiems registruotiems akcizų už elektroninių cigarečių skystį mokėtojams galinčių atsirasti mokestinių prievolių įvykdymą užtikrina akcizų už elektroninių cigarečių skystį mokėtojas, Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka pateikdamas vietos mokesčių administratoriui, kurio veiklos teritorijoje jis yra registruotas akcizų už elektroninių cigarečių skystį mokėtoju, piniginį užstatą arba laidavimo (garantijos) dokumentą. Šioje dalyje nurodyto piniginio užstato arba laidavimo (garantijos) sumos dydį nustato vietos mokesčių administratorius, kurio veiklos teritorijoje yra registruotas akcizų už elektroninių cigarečių skystį mokėtojas, atsižvelgdamas į centrinio mokesčių administratoriaus patvirtintą piniginio užstato arba laidavimo (garantijos) sumos dydžio nustatymo metodiką. ^s-a394bfb711ee930f1f04a835
 
 
-3. Tais atvejais, kai akcizai už importuotus kaitinamojo tabako produktus ir elektroninių cigarečių skystį nesumokami iš anksto ar iš karto atsiradus prievolei juos mokėti ir kai tai reikalinga tinkamam įsipareigojimų muitinei įvykdymui užtikrinti, atsiradusios mokestinės prievolės įvykdymas užtikrinamas ta pačia tvarka, kokia užtikrinami įsipareigojimai, susiję su importo skola muitinei, kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. ^s-7fb5e772ea6959688a582beb
+3. Tais atvejais, kai akcizai už importuotus kaitinamojo tabako produktus ir elektroninių cigarečių skystį nesumokami iš anksto ar iš karto atsiradus prievolei juos mokėti ir kai tai reikalinga tinkamam įsipareigojimų muitinei įvykdymui užtikrinti, atsiradusios mokestinės prievolės įvykdymas užtikrinamas ta pačia tvarka, kokia užtikrinami įsipareigojimai, susiję su importo skola muitinei, kaip tai nustatyta Sąjungos [muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. ^s-7fb5e772ea6959688a582beb
 
 
 
 ### 67 straipsnis. Akcizų už kaitinamojo tabako produktus deklaracijos pateikimas ir mokesčio sumokėjimas ^s-cbb9597ee451a8ca047684f2
 
 
-1. Akcizų už kaitinamojo tabako produktus mokestinis laikotarpis yra kalendorinis mėnuo. Jam pasibaigus, iki kito mėnesio 15 dienos asmuo, kuriam šio įstatymo [[#^s-3141e45c441933eaefe02695|61 straipsnio 1 dalies]] 1–7 punktuose nustatytais pagrindais atsiranda prievolė mokėti akcizus už kaitinamojo tabako produktus, privalo vietos mokesčių administratoriui, kurio veiklos teritorijoje yra akcizais apmokestinamų prekių sandėlis arba asmuo yra registruotas akcizų už kaitinamojo tabako produktus mokėtoju, pateikti akcizų už kaitinamojo tabako produktus deklaraciją. Šios deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius. ^s-e4347d4211a0ae0d1af919fc
+1. Akcizų už kaitinamojo tabako produktus mokestinis laikotarpis yra kalendorinis mėnuo. Jam pasibaigus, iki kito mėnesio 15 dienos asmuo, kuriam šio įstatymo [[#^s-3141e45c441933eaefe02695|61 straipsnio 1 dalies]] [[#^s-b14ee69fe2e9283196c885b9|1]]–[[#^s-3ae44d66a55eaf36f99ee733|7]] punktuose nustatytais pagrindais atsiranda prievolė mokėti akcizus už kaitinamojo tabako produktus, privalo vietos mokesčių administratoriui, kurio veiklos teritorijoje yra akcizais apmokestinamų prekių sandėlis arba asmuo yra registruotas akcizų už kaitinamojo tabako produktus mokėtoju, pateikti akcizų už kaitinamojo tabako produktus deklaraciją. Šios deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius. ^s-e4347d4211a0ae0d1af919fc
 Straipsnio dalies pakeitimai:
 Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
@@ -2601,7 +2601,7 @@ Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 4. Panaikinus leidimą steigti akcizais apmokestinamų prekių sandėlį, akcizų už kaitinamojo tabako produktus deklaracijoje, pateikiamoje už mokestinį laikotarpį, kurį panaikintas leidimas steigti akcizais apmokestinamų prekių sandėlį, be [[#^s-48bcc5029ad80a3f7af1c30b|šio straipsnio 3 dalyje]] nustatyta tvarka apskaičiuotos akcizų už kaitinamojo tabako produktus sumos, turi būti deklaruota ir akcizų suma, mokėtina už visus kitą dieną po leidimo panaikinimo šiame sandėlyje buvusius kaitinamojo tabako produktus, už kuriuos akcizai dar nebuvo sumokėti, ir iš sandėlio išgabentus kaitinamojo tabako produktus, kuriems taikomas akcizų mokėjimo laikino atidėjimo režimas, tačiau kurių pristatymo į paskirties vietą faktas nebuvo patvirtintas iki leidimo panaikinimo dienos, išskyrus atvejus, kai už šiuos produktus pagal šį įstatymą akcizai už kaitinamojo tabako produktus neturi būti skaičiuojami. Ši suma apskaičiuojama taikant akcizų už kaitinamojo tabako produktus tarifus, galiojusius leidimo steigti akcizais apmokestinamų prekių sandėlį panaikinimo dieną. Tuo atveju, kai po leidimo steigti akcizais apmokestinamų prekių sandėlį panaikinimo dienos gaunama įrodymų, kad kaitinamojo tabako produktai pristatyti į paskirties vietą, permokėta akcizų už kaitinamojo tabako produktus suma įskaitoma arba grąžinama [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka, tačiau tik tuo atveju, jeigu nuo kaitinamojo tabako produktų išgabenimo dienos praėjo ne ilgiau kaip 3 metai. ^s-dff54d56c031f8497f541fb4
 
 
-5. Mokėtina akcizų už kaitinamojo tabako produktus suma privalo būti sumokėta ne vėliau kaip iki šio straipsnio 1 ir [[#^s-dff54d56c031f8497f541fb4|4 dalyse]] nurodyto akcizų už kaitinamojo tabako produktus deklaracijos pateikimo termino pabaigos į mokesčių administratoriaus surenkamąją sąskaitą. Jeigu buvo sumokėta mokestinio laikotarpio avansinė akcizų suma, kurią mokėti prievolė atsirado pagal [[#^s-83b3cfe5c759197995f4b7a1|šio straipsnio 6 dalį]], mokėtina to mokestinio laikotarpio akcizų už kaitinamojo tabako produktus suma mažinama sumokėtos avansinės akcizų sumos dydžiu. ^s-50e1cc87ce1012233b1fae07
+5. Mokėtina akcizų už kaitinamojo tabako produktus suma privalo būti sumokėta ne vėliau kaip iki šio straipsnio [[#^s-e4347d4211a0ae0d1af919fc|1]] ir [[#^s-dff54d56c031f8497f541fb4|4]] dalyse nurodyto akcizų už kaitinamojo tabako produktus deklaracijos pateikimo termino pabaigos į mokesčių administratoriaus surenkamąją sąskaitą. Jeigu buvo sumokėta mokestinio laikotarpio avansinė akcizų suma, kurią mokėti prievolė atsirado pagal [[#^s-83b3cfe5c759197995f4b7a1|šio straipsnio 6 dalį]], mokėtina to mokestinio laikotarpio akcizų už kaitinamojo tabako produktus suma mažinama sumokėtos avansinės akcizų sumos dydžiu. ^s-50e1cc87ce1012233b1fae07
 
 
 6. Jeigu už konkretų akcizais apmokestinamų prekių sandėlį šio sandėlio savininko vidutinė mokestiniam laikotarpiui tenkanti mokėtina į biudžetą akcizų už kaitinamojo tabako produktus suma 3 praėjusius mokestinius laikotarpius iš eilės viršijo 15 000 eurų, pradedant kitu mokestiniu laikotarpiu po to, kurį paaiškėjo šios aplinkybės, iki einamojo mokestinio laikotarpio 15 dienos į biudžetą mokama avansinė akcizų suma. Ši avansinė akcizų suma yra lygi 1/3 vidutinės mokėtinos į biudžetą akcizų sumos, kuri buvo (ar privalėjo būti) deklaruota šioje dalyje nurodytų 3 praėjusių mokestinių laikotarpių deklaracijose. ^s-83b3cfe5c759197995f4b7a1
@@ -2613,14 +2613,14 @@ Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
 
 
 
-7. Akcizai už importuotus kaitinamojo tabako produktus mokami tokiais pačiais terminais, kaip būtų mokami importo muitai už šiuos produktus (jeigu jie šiems produktams būtų nustatyti), kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. ^s-de8714e66869a6819f9b5665
+7. Akcizai už importuotus kaitinamojo tabako produktus mokami tokiais pačiais terminais, kaip būtų mokami importo muitai už šiuos produktus (jeigu jie šiems produktams būtų nustatyti), kaip tai nustatyta Sąjungos [muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. ^s-de8714e66869a6819f9b5665
 
 
 
 ### 68 straipsnis. Akcizų už elektroninių cigarečių skystį deklaracijos pateikimas ir mokesčio sumokėjimas ^s-d901dca52d1e09f28f952c8e
 
 
-1. Akcizų už elektroninių cigarečių skystį mokestinis laikotarpis yra kalendorinis mėnuo. Jam pasibaigus, iki kito mėnesio 15 dienos asmuo, kuriam šio įstatymo [[#^s-5e025782a1821836ec671610|62 straipsnio 1 dalies]] 1, 2 ir 4 punktuose nustatytais pagrindais atsiranda prievolė mokėti akcizus už elektroninių cigarečių skystį, privalo vietos mokesčių administratoriui, kurio veiklos teritorijoje jis yra registruotas, pateikti akcizų už elektroninių cigarečių skystį deklaraciją, kurioje privalo būti deklaruota akcizų suma, apskaičiuota už elektroninių cigarečių skystį, už kurį šio įstatymo [[#^s-f7c5be233580e91d6d11316c|62 straipsnyje]] nustatytais pagrindais atsirado prievolė tą mokestinį laikotarpį sumokėti akcizus. Akcizų už elektroninių cigarečių skystį deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius. Akcizai už elektroninių cigarečių skystį privalo būti sumokėti iki šioje dalyje nustatyto akcizų už elektroninių cigarečių skystį deklaracijos pateikimo termino pabaigos. ^s-8bcf3ccc20371141cca9e229
+1. Akcizų už elektroninių cigarečių skystį mokestinis laikotarpis yra kalendorinis mėnuo. Jam pasibaigus, iki kito mėnesio 15 dienos asmuo, kuriam šio įstatymo [[#^s-5e025782a1821836ec671610|62 straipsnio 1 dalies]] [[#^s-5653a923735597a75b336919|1]], [[#^s-21529fb88db629ccee20a6d1|2]] ir [[#^s-77302992e41956eee13e763b|4]] punktuose nustatytais pagrindais atsiranda prievolė mokėti akcizus už elektroninių cigarečių skystį, privalo vietos mokesčių administratoriui, kurio veiklos teritorijoje jis yra registruotas, pateikti akcizų už elektroninių cigarečių skystį deklaraciją, kurioje privalo būti deklaruota akcizų suma, apskaičiuota už elektroninių cigarečių skystį, už kurį šio įstatymo [[#^s-f7c5be233580e91d6d11316c|62 straipsnyje]] nustatytais pagrindais atsirado prievolė tą mokestinį laikotarpį sumokėti akcizus. Akcizų už elektroninių cigarečių skystį deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius. Akcizai už elektroninių cigarečių skystį privalo būti sumokėti iki šioje dalyje nustatyto akcizų už elektroninių cigarečių skystį deklaracijos pateikimo termino pabaigos. ^s-8bcf3ccc20371141cca9e229
 TAR pastaba. Asmenys, prekiaujantys elektroninių cigarečių skysčiu ir 2019 m. kovo 1 d. laikantys elektroninių cigarečių skystį, privalo centrinio mokesčių administratoriaus nustatyta tvarka per 5 darbo dienas inventorizuoti 2019 m. kovo 1 d. jiems nuosavybės teise priklausantį elektroninių cigarečių skystį ir pateikti inventorizacijos aktą vietos mokesčių administratoriui, kurio veiklos teritorijoje jie registruoti mokesčių mokėtojais. Šioje dalyje nurodyti asmenys iki 2019 m. balandžio 15 d. privalo vietos mokesčių administratoriui, kurio veiklos teritorijoje jie registruoti mokesčių mokėtojais, pateikti [[#^s-8bcf3ccc20371141cca9e229|Lietuvos Respublikos akcizų įstatymo 68 straipsnio 1 dalyje]] nurodytą akcizų už elektroninių cigarečių skystį deklaraciją.
 
 
@@ -2630,7 +2630,7 @@ TAR pastaba. Asmenys, prekiaujantys elektroninių cigarečių skysčiu ir 2019 m
 3. Tais atvejais, kai prievolė mokėti akcizus už elektroninių cigarečių skystį tenka keliems asmenims, jie solidariai atsako už šių akcizų sumokėjimą. ^s-a8dd57bcb0c6f3dc311d5222
 
 
-4. Už importuotą elektroninių cigarečių skystį akcizai mokami tokiais pačiais terminais, kaip būtų mokami importo muitai už šį produktą (jeigu jie šiam produktui būtų nustatyti), kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. ^s-6e462b11ab0e642a17d62a42
+4. Už importuotą elektroninių cigarečių skystį akcizai mokami tokiais pačiais terminais, kaip būtų mokami importo muitai už šį produktą (jeigu jie šiam produktui būtų nustatyti), kaip tai nustatyta Sąjungos [muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. ^s-6e462b11ab0e642a17d62a42
 
 
 
@@ -2718,7 +2718,7 @@ Akcizų už neapdorotą tabaką mokėtojai yra asmenys, kurie gavo iš kitos val
 3. Akcizais apmokestinamų prekių sandėlių savininkai, kuriems išduotas leidimas steigti akcizais apmokestinamų prekių sandėlį, suteikiantis teisę akcizais apmokestinamų prekių sandėlyje iš neapdoroto tabako gaminti apdorotą tabaką ir (ar) kaitinamojo tabako produktus, laikomi asmenimis, turinčiais atleidimo nuo akcizų už neapdorotą tabaką leidimą. ^s-46db74f2f4650d45dcd824db
 
 
-4. Nuo akcizų atleidžiamas neapdorotas tabakas, jeigu jis sunaikintas prižiūrint kompetentingai institucijai. Šios nuostatos įgyvendinamos centrinio mokesčių administratoriaus (dėl Valstybinės mokesčių inspekcijos kontroliuojamų prekių) ir Sąjungos muitinės kodekso, jį papildančių ir įgyvendinančių Europos Sąjungos teisės aktų (dėl muitinės kontroliuojamų prekių) nustatyta tvarka. Jeigu už šioje dalyje nustatyta tvarka sunaikintą neapdorotą tabaką akcizai jau buvo sumokėti, akcizų suma įskaitoma arba grąžinama [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka. Šios dalies nuostatos netaikomos sunaikintam neapdorotam tabakui, kuris pagamintas ar laikomas (įskaitant saugojimą) pažeidžiant teisės aktų reikalavimus arba yra neteisėtai atgabentas. ^s-c8e984e711735ec620bbb226
+4. Nuo akcizų atleidžiamas neapdorotas tabakas, jeigu jis sunaikintas prižiūrint kompetentingai institucijai. Šios nuostatos įgyvendinamos centrinio mokesčių administratoriaus (dėl Valstybinės mokesčių inspekcijos kontroliuojamų prekių) ir Sąjungos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), jį papildančių ir įgyvendinančių Europos Sąjungos teisės aktų (dėl muitinės kontroliuojamų prekių) nustatyta tvarka. Jeigu už šioje dalyje nustatyta tvarka sunaikintą neapdorotą tabaką akcizai jau buvo sumokėti, akcizų suma įskaitoma arba grąžinama [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo]] nustatyta tvarka. Šios dalies nuostatos netaikomos sunaikintam neapdorotam tabakui, kuris pagamintas ar laikomas (įskaitant saugojimą) pažeidžiant teisės aktų reikalavimus arba yra neteisėtai atgabentas. ^s-c8e984e711735ec620bbb226
 Straipsnio dalies pakeitimai:
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 
@@ -2734,7 +2734,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 ### 73 straipsnis. Akcizų už neapdorotą tabaką deklaracijos pateikimas ir mokesčio sumokėjimas ^s-26dd56c5b7dea318cd93a22e
 
 
-1. Akcizų už neapdorotą tabaką mokestinis laikotarpis yra kalendorinis mėnuo. Jam pasibaigus, iki kito mėnesio 15 dienos asmuo, kuriam šio įstatymo [[#^s-0a4643faaeb01bf1d62f29d3|70 straipsnio 1 dalies]] 1, 2, 4 ir 5 punktuose nustatytais pagrindais atsiranda prievolė mokėti akcizus už neapdorotą tabaką, privalo vietos mokesčių administratoriui, kurio veiklos teritorijoje jis registruotas, pateikti akcizų už neapdorotą tabaką deklaraciją. Šios deklaracijos formą ir pildymo taisykles nustato centrinis mokesčių administratorius. Akcizų už neapdorotą tabaką deklaracijoje privalo būti deklaruota akcizų suma, apskaičiuota už neapdorotą tabaką, už kurį šio įstatymo [[#^s-0a4643faaeb01bf1d62f29d3|70 straipsnio 1 dalies]] 1, 2, 4 ir 5 punktuose nustatyta tvarka prievolė sumokėti akcizus atsirado tą mokestinį laikotarpį. Akcizai sumokami iki šioje dalyje nustatyto deklaracijos pateikimo termino pabaigos. ^s-6d67c999d752e9d2fe1e34ee
+1. Akcizų už neapdorotą tabaką mokestinis laikotarpis yra kalendorinis mėnuo. Jam pasibaigus, iki kito mėnesio 15 dienos asmuo, kuriam šio įstatymo [[#^s-0a4643faaeb01bf1d62f29d3|70 straipsnio 1 dalies]] [[#^s-03a3e7b327cbfa61f2440651|1]], [[#^s-44266e96664cca7f164eee9f|2]], [[#^s-8acbef9bea33ee4a62d4ad82|4]] ir [[#^s-b73bf23e58e4de5e0aa006f4|5]] punktuose nustatytais pagrindais atsiranda prievolė mokėti akcizus už neapdorotą tabaką, privalo vietos mokesčių administratoriui, kurio veiklos teritorijoje jis registruotas, pateikti akcizų už neapdorotą tabaką deklaraciją. Šios deklaracijos formą ir pildymo taisykles nustato centrinis mokesčių administratorius. Akcizų už neapdorotą tabaką deklaracijoje privalo būti deklaruota akcizų suma, apskaičiuota už neapdorotą tabaką, už kurį šio įstatymo [[#^s-0a4643faaeb01bf1d62f29d3|70 straipsnio 1 dalies]] [[#^s-03a3e7b327cbfa61f2440651|1]], [[#^s-44266e96664cca7f164eee9f|2]], [[#^s-8acbef9bea33ee4a62d4ad82|4]] ir [[#^s-b73bf23e58e4de5e0aa006f4|5]] punktuose nustatyta tvarka prievolė sumokėti akcizus atsirado tą mokestinį laikotarpį. Akcizai sumokami iki šioje dalyje nustatyto deklaracijos pateikimo termino pabaigos. ^s-6d67c999d752e9d2fe1e34ee
 
 
 2. Jeigu asmuo netenka atleidimo nuo akcizų už neapdorotą tabaką leidimo ar akcizais apmokestinamų prekių sandėlio savininkas netenka leidimo steigti akcizais apmokestinamų prekių sandėlį, suteikiančio teisę akcizais apmokestinamų prekių sandėlyje iš neapdoroto tabako gaminti apdorotą tabaką ir (ar) kaitinamojo tabako produktus, jis privalo [[#^s-6d67c999d752e9d2fe1e34ee|šio straipsnio 1 dalyje]] nustatytais terminais pateikti vietos mokesčio administratoriui, kurio veiklos teritorijoje jis registruotas, akcizų už neapdorotą tabaką deklaraciją. Joje turi būti deklaruoti akcizai už visą neapdoroto tabako kiekį, už kurį dar nesumokėti akcizai, ir jie turi būti sumokėti iki [[#^s-6d67c999d752e9d2fe1e34ee|šio straipsnio 1 dalyje]] nustatyto deklaracijos pateikimo termino pabaigos. ^s-c661bf76ee66efeca75f8238
@@ -2743,7 +2743,7 @@ Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
 3. Tais atvejais, kai prievolė mokėti akcizus už neapdorotą tabaką tenka keliems asmenims, jie solidariai atsako už akcizų sumokėjimą. ^s-280473f9b2e68264aace63a0
 
 
-4. Už importuotą neapdorotą tabaką akcizai mokami tokiais pačiais terminais, kaip būtų mokami importo muitai už šį produktą (jeigu jie už šį produktą būtų nustatyti), kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. ^s-af117ce01872198482e85694
+4. Už importuotą neapdorotą tabaką akcizai mokami tokiais pačiais terminais, kaip būtų mokami importo muitai už šį produktą (jeigu jie už šį produktą būtų nustatyti), kaip tai nustatyta Sąjungos [muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. ^s-af117ce01872198482e85694
 
 
 
@@ -2860,7 +2860,7 @@ Akcizų už saldintus gėrimus mokėtojai yra registruoti akcizų už saldintus 
 ### 79 straipsnis. Akcizų už saldintus gėrimus deklaracijos pateikimas ir mokesčio sumokėjimas ^s-c306052e6a10dbdb3413a39c
 
 
-1. Akcizų už saldintus gėrimus mokestinis laikotarpis yra kalendorinis mėnuo. Jam pasibaigus, iki kito mėnesio 15 dienos asmuo, kuriam šio įstatymo [[#^s-b1a920b72e3a3900da600465|75 straipsnio 1 dalies]] 1, 2 ir 4 punktuose nustatytais pagrindais atsiranda prievolė mokėti akcizus už saldintus gėrimus, privalo pateikti akcizų už saldintus gėrimus deklaraciją, kurioje privalo būti deklaruota akcizų suma, apskaičiuota už saldintus gėrimus, už kuriuos šio įstatymo [[#^s-3044ed04567e764069c5d9a4|75 straipsnyje]] nustatytais pagrindais atsirado prievolė tą mokestinį laikotarpį sumokėti akcizus. Akcizų už saldintus gėrimus deklaracijos formą, jos pildymo, tikslinimo ir pateikimo tvarką nustato centrinis mokesčių administratorius. Akcizai už saldintus gėrimus privalo būti sumokėti iki šioje dalyje nustatyto akcizų už saldintus gėrimus deklaracijos pateikimo termino pabaigos. ^s-3461cad7f7b4ef3bf144f57e
+1. Akcizų už saldintus gėrimus mokestinis laikotarpis yra kalendorinis mėnuo. Jam pasibaigus, iki kito mėnesio 15 dienos asmuo, kuriam šio įstatymo [[#^s-b1a920b72e3a3900da600465|75 straipsnio 1 dalies]] [[#^s-99a26c384184e4cc1056424c|1]], [[#^s-e17d919ecbfe80d2d85e456c|2]] ir [[#^s-b38bd939d14b58b239bab184|4]] punktuose nustatytais pagrindais atsiranda prievolė mokėti akcizus už saldintus gėrimus, privalo pateikti akcizų už saldintus gėrimus deklaraciją, kurioje privalo būti deklaruota akcizų suma, apskaičiuota už saldintus gėrimus, už kuriuos šio įstatymo [[#^s-3044ed04567e764069c5d9a4|75 straipsnyje]] nustatytais pagrindais atsirado prievolė tą mokestinį laikotarpį sumokėti akcizus. Akcizų už saldintus gėrimus deklaracijos formą, jos pildymo, tikslinimo ir pateikimo tvarką nustato centrinis mokesčių administratorius. Akcizai už saldintus gėrimus privalo būti sumokėti iki šioje dalyje nustatyto akcizų už saldintus gėrimus deklaracijos pateikimo termino pabaigos. ^s-3461cad7f7b4ef3bf144f57e
 
 
 2. Jeigu asmuo netenka saldintų gėrimų mokėtojo statuso, jis privalo [[#^s-3461cad7f7b4ef3bf144f57e|šio straipsnio 1 dalyje]] nustatytais terminais pateikti akcizų už saldintus gėrimus deklaraciją, kurioje turi būti deklaruoti akcizai už visą verslo reikmėms gautą ir (arba) Lietuvos Respublikoje įsigytą, ir (arba) pagamintą saldintų gėrimų kiekį, už kurį dar nesumokėti akcizai, ir šiuos akcizus sumokėti iki [[#^s-3461cad7f7b4ef3bf144f57e|šio straipsnio 1 dalyje]] nustatyto akcizų už saldintus gėrimus deklaracijos pateikimo termino pabaigos. ^s-0fbc539981dd17be801148b8
@@ -2869,7 +2869,7 @@ Akcizų už saldintus gėrimus mokėtojai yra registruoti akcizų už saldintus 
 3. Tais atvejais, kai prievolė mokėti akcizus už saldintus gėrimus tenka keliems asmenims, jie solidariai atsako už akcizų sumokėjimą. ^s-60802d7b2ad5f22e5bc1e760
 
 
-4. Už importuotus saldintus gėrimus akcizai mokami tokiais pačiais terminais, kaip būtų mokami importo muitai už šiuos produktus (jeigu jie šiam produktui būtų nustatyti), kaip tai nustatyta Sąjungos muitinės kodekse, jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. ^s-29c123dc6b0c7720033ac675
+4. Už importuotus saldintus gėrimus akcizai mokami tokiais pačiais terminais, kaip būtų mokami importo muitai už šiuos produktus (jeigu jie šiam produktui būtų nustatyti), kaip tai nustatyta Sąjungos [muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), jį papildančiuose ir įgyvendinančiuose Europos Sąjungos teisės aktuose. ^s-29c123dc6b0c7720033ac675
 TAR pastaba. [[latest/d29edc324dd311f0b070ee7f1ceefc75|Įstatymo Nr. XV-286]] pakeitimai taikomi nuo 2026-01-01 importuotiems, verslo reikmėms gautiems iš kitos valstybės narės, verslo reikmėms Lietuvos Respublikoje pagamintiems ar Lietuvos Respublikoje verslo reikmėms įsigytiems saldintiems gėrimams, išskyrus atvejus, kai saldinti gėrimai buvo importuoti, verslo reikmėms gauti iš kitos valstybės narės ar Lietuvos Respublikoje pagaminti iki 2025 m. gruodžio 31 d. ir Lietuvos Respublikoje verslo reikmėms įsigyti 2026 m. sausio 1 d. ar vėliau.
 
 
@@ -3027,7 +3027,7 @@ ANGLIES DIOKSIDO DEDAMOJI 2026–2030 METAIS
  162,6
 
 
- [[#^s-0dadc91796c5d80f5eb4e1aa|Lietuvos Respublikos akcizų įstatymo 37 straipsnio]] 1 ir 2 dalyse nurodyti gazoliai, Eur/1 000 l
+ [[#^s-0dadc91796c5d80f5eb4e1aa|Lietuvos Respublikos akcizų įstatymo 37 straipsnio]] [[#^s-f4455f5ef4b40349bf5a07d0|1]] ir [[#^s-0d2458f97e1ae3dc01f36cfe|2]] dalyse nurodyti gazoliai, Eur/1 000 l
  53,6
  131
  157,2
@@ -3121,25 +3121,25 @@ akcizų įstatymo
 
 
 
-1. 1992 m. spalio 19 d. Tarybos direktyva 92/83/EEB dėl akcizų už alkoholį ir alkoholinius gėrimus struktūrų suderinimo su paskutiniais pakeitimais, padarytais 2020 m. liepos 29 d. Tarybos direktyva (ES) 2020/1151. ^s-3d56a769b11f7978dd0d5f21
+1. 1992 m. spalio 19 d. Tarybos direktyva 92/83/EEB dėl akcizų už alkoholį ir alkoholinius gėrimus struktūrų suderinimo su paskutiniais pakeitimais, padarytais 2020 m. liepos 29 d. Tarybos [direktyva (ES) 2020/1151](https://eur-lex.europa.eu/eli/dir/2020/1151/oj). ^s-3d56a769b11f7978dd0d5f21
 
 
 2. 1992 m. spalio 19 d. Tarybos direktyva 92/84/EEB dėl alkoholiui ir alkoholiniams gėrimams taikomų akcizo tarifų suderinimo. ^s-5901e6e5fbf7cd7d1b428fd2
 
 
-3. 1992 m. gruodžio 17 d. Komisijos reglamentas (EEB) 3649/92 dėl supaprastinto administracinio lydraščio, skirto Bendrijos viduje judantiems akcizu apmokestinamiems produktams, kurie išleisti vartojimui išsiuntimo valstybėje narėje. ^s-87f813c7bcd1545ffe7ec395
+3. 1992 m. gruodžio 17 d. Komisijos [reglamentas (EEB) 3649/92](https://eur-lex.europa.eu/eli/reg/3649/92/oj) dėl supaprastinto administracinio lydraščio, skirto Bendrijos viduje judantiems akcizu apmokestinamiems produktams, kurie išleisti vartojimui išsiuntimo valstybėje narėje. ^s-87f813c7bcd1545ffe7ec395
 
 
-4. 1993 m. lapkričio 22 d. Komisijos reglamentas (EB) Nr. 3199/93 dėl visiško etilo alkoholio denatūravimo procedūrų tarpusavio pripažinimo atleidimo nuo akcizų tikslais su paskutiniais pakeitimais, padarytais 2018 m. lapkričio 30 d. Komisijos įgyvendinimo reglamentu (ES) 2018/1880. ^s-733d2d0e979f57fe3264d84a
+4. 1993 m. lapkričio 22 d. Komisijos [reglamentas (EB) Nr. 3199/93](https://eur-lex.europa.eu/eli/reg/3199/93/oj) dėl visiško etilo alkoholio denatūravimo procedūrų tarpusavio pripažinimo atleidimo nuo akcizų tikslais su paskutiniais pakeitimais, padarytais 2018 m. lapkričio 30 d. Komisijos įgyvendinimo [reglamentu (ES) 2018/1880](https://eur-lex.europa.eu/eli/reg/2018/1880/oj). ^s-733d2d0e979f57fe3264d84a
 
 
-5. 2003 m. spalio 27 d. Tarybos direktyva 2003/96/EB, pakeičianti Bendrijos energetikos produktų ir elektros energijos mokesčių struktūrą, su paskutiniais pakeitimais, padarytais 2018 m. balandžio 6 d. Komisijos įgyvendinimo sprendimu (ES) 2018/552. ^s-ae56fe57eb8566035c6cc593
+5. 2003 m. spalio 27 d. Tarybos direktyva 2003/96/EB, pakeičianti Bendrijos energetikos produktų ir elektros energijos mokesčių struktūrą, su paskutiniais pakeitimais, padarytais 2018 m. balandžio 6 d. Komisijos įgyvendinimo [sprendimu (ES) 2018/552](https://eur-lex.europa.eu/eli/dec/2018/552/oj). ^s-ae56fe57eb8566035c6cc593
 
 
 6. Neteko galios nuo 2023-02-13. ^s-279e088c297cbb58e9620224
 
 
-7. 2009 m. liepos 24 d. Komisijos reglamentas (EB) Nr. 684/2009, kuriuo įgyvendinamos Tarybos direktyvos 2008/118/EB nuostatos, susijusios su akcizais apmokestinamų prekių, kurioms pritaikytas akcizų mokėjimo laikino atidėjimo režimas, gabenimo kompiuterinėmis procedūromis, su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 1 d. Komisijos įgyvendinimo reglamentu (ES) 2020/1811. ^s-ab5e6b41ad09658b8ed853c6
+7. 2009 m. liepos 24 d. Komisijos reglamentas (EB) Nr. 684/2009, kuriuo įgyvendinamos Tarybos direktyvos 2008/118/EB nuostatos, susijusios su akcizais apmokestinamų prekių, kurioms pritaikytas akcizų mokėjimo laikino atidėjimo režimas, gabenimo kompiuterinėmis procedūromis, su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 1 d. Komisijos įgyvendinimo [reglamentu (ES) 2020/1811](https://eur-lex.europa.eu/eli/reg/2020/1811/oj). ^s-ab5e6b41ad09658b8ed853c6
 
 
 8. 2011 m. birželio 21 d. Tarybos direktyva 2011/64/ES dėl akcizų, taikomų apdorotam tabakui, struktūros ir tarifų. ^s-f0f4aa272742dbe27381eaa9
@@ -3148,13 +3148,13 @@ akcizų įstatymo
 9. 2012 m. balandžio 20 d. Komisijos įgyvendinimo sprendimas Nr. 2012/209/ES dėl Tarybos direktyvos 2008/118/EB kontrolės ir judėjimo nuostatų taikymo tam tikriems priedams, vadovaujantis Tarybos direktyvos 2003/96/EB [[#^s-e0088d9e02779b0d063826aa|20 straipsnio 2 dalimi]]. ^s-61d3dd018e93f62bcea1c871
 
 
-10. 2014 m. birželio 17 d. Komisijos reglamentas (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius, su paskutiniais pakeitimais, padarytais 2021 m. kovo 15 d. Komisijos reglamentu (ES) 2021/452. ^s-5777ad78431efaea52ef9e07
+10. 2014 m. birželio 17 d. Komisijos reglamentas (ES) Nr. 651/2014, kuriuo tam tikrų kategorijų pagalba skelbiama suderinama su vidaus rinka taikant Sutarties 107 ir 108 straipsnius, su paskutiniais pakeitimais, padarytais 2021 m. kovo 15 d. Komisijos [reglamentu (ES) 2021/452](https://eur-lex.europa.eu/eli/reg/2021/452/oj). ^s-5777ad78431efaea52ef9e07
 
 
-11. 2014 m. gruodžio 16 d. Komisijos reglamentas (ES) Nr. 1388/2014, kuriuo tam tikrų kategorijų pagalba įmonėms, kurios verčiasi žvejybos ir akvakultūros produktų gamyba, perdirbimu ir prekyba, skelbiama suderinama su vidaus rinka taikant Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnius, su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 8 d. Komisijos reglamentu (ES) 2020/2008. ^s-3a3b198a141eb80f99d6f774
+11. 2014 m. gruodžio 16 d. Komisijos [reglamentas (ES) Nr. 1388/2014](https://eur-lex.europa.eu/eli/reg/1388/2014/oj), kuriuo tam tikrų kategorijų pagalba įmonėms, kurios verčiasi žvejybos ir akvakultūros produktų gamyba, perdirbimu ir prekyba, skelbiama suderinama su vidaus rinka taikant Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnius, su paskutiniais pakeitimais, padarytais 2020 m. gruodžio 8 d. Komisijos [reglamentu (ES) 2020/2008](https://eur-lex.europa.eu/eli/reg/2020/2008/oj). ^s-3a3b198a141eb80f99d6f774
 
 
-12. 2019 m. gruodžio 19 d. Tarybos direktyva (ES) 2020/262, kuria nustatoma bendroji akcizų tvarka (nauja redakcija). ^s-8cbb2b7a3f215a577a25f726
+12. 2019 m. gruodžio 19 d. Tarybos [direktyva (ES) 2020/262](https://eur-lex.europa.eu/eli/dir/2020/262/oj), kuria nustatoma bendroji akcizų tvarka (nauja redakcija). ^s-8cbb2b7a3f215a577a25f726
 
 
 3 priedo pakeitimai:
@@ -3184,7 +3184,7 @@ Nr. IX-993, 2002-06-27, Žin., 2002, Nr. 66-2706 (2002-06-29)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1228, 2002-12-10, Žin., 2002, Nr. 123-5520 (2002-12-24)
 [[latest/TAR.8E3116EECBA7|AKCIZŲ ĮSTATYMO 25, 31 IR 40 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-Šis Įstatymas, išskyrus 1 ir [[#^s-137c00c8d93d93826fc2f8ff|3 straipsnius]], įsigalioja nuo 2003 m. sausio 1 d.
+Šis Įstatymas, išskyrus [[#^s-c4d4a83bf92493d77acb5b74|1]] ir [[#^s-137c00c8d93d93826fc2f8ff|3]] straipsnius, įsigalioja nuo 2003 m. sausio 1 d.
 Šio Įstatymo [[#^s-c4d4a83bf92493d77acb5b74|1 straipsnis]] įsigalioja nuo 2003 m. kovo 1 d.
 
 4.
@@ -3203,7 +3203,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1986, 2004-01-29, Žin., 2004, Nr. 25-756 (2004-02-14)
 [[latest/TAR.A1FFB9E4275D|AKCIZŲ ĮSTATYMO 3, 4, 8, 10, 12, 33, 36 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
 Šis Įstatymas įsigalioja nuo 2004 m. kovo 1 d.
-Leidimai steigti akcizais apmokestinamų prekių sandėlius patalpose (teritorijose), kuriose vykdoma mažmeninė prekyba skirtais naudoti kaip variklių kuras (degalai) naftos dujomis ir dujiniais angliavandeniliais, centrinio mokesčio administratoriaus nustatyta tvarka panaikinami per 10 dienų nuo šio Įstatymo įsigaliojimo. Panaikinus leidimą steigti akcizais apmokestinamų prekių sandėlį, akcizų deklaracija, kurioje, be [[#^s-d900c0252f0c9a1279e34bac|Lietuvos Respublikos akcizų įstatymo 9 straipsnio]] 1 ir 2 dalyse nustatyta tvarka apskaičiuotos akcizų sumos, turi būti deklaruota ir akcizų suma, mokėtina už visas kitą dieną po leidimo panaikinimo jame buvusias akcizais apmokestinamas prekes, už kurias akcizai dar nebuvo sumokėti, taikant galiojusius tą dieną akcizų tarifus, turi būti pateikta ir akcizai sumokėti iki 2004 m. balandžio 15 d.
+Leidimai steigti akcizais apmokestinamų prekių sandėlius patalpose (teritorijose), kuriose vykdoma mažmeninė prekyba skirtais naudoti kaip variklių kuras (degalai) naftos dujomis ir dujiniais angliavandeniliais, centrinio mokesčio administratoriaus nustatyta tvarka panaikinami per 10 dienų nuo šio Įstatymo įsigaliojimo. Panaikinus leidimą steigti akcizais apmokestinamų prekių sandėlį, akcizų deklaracija, kurioje, be [[#^s-d900c0252f0c9a1279e34bac|Lietuvos Respublikos akcizų įstatymo 9 straipsnio]] [[#^s-246b1b42a3e824e1f1f18f3e|1]] ir [[#^s-91453727dade92f3e5045671|2]] dalyse nustatyta tvarka apskaičiuotos akcizų sumos, turi būti deklaruota ir akcizų suma, mokėtina už visas kitą dieną po leidimo panaikinimo jame buvusias akcizais apmokestinamas prekes, už kurias akcizai dar nebuvo sumokėti, taikant galiojusius tą dieną akcizų tarifus, turi būti pateikta ir akcizai sumokėti iki 2004 m. balandžio 15 d.
 Asmenys, iki šio Įstatymo įsigaliojimo įsteigę akcizais apmokestinamų prekių sandėlį, kuriame buvo vykdoma didmeninė prekyba naftos dujomis ir dujiniais angliavandeniliais, ir pageidaujantys panaikinti leidimą steigti akcizais apmokestinamų prekių sandėlį, privalo raštu kreiptis į vietos mokesčio administratorių dėl leidimo steigti akcizais apmokestinamų prekių sandėlį panaikinimo.
 
 7.
@@ -3290,8 +3290,8 @@ Nr. XI-1186, 2010-11-30, Žin., 2010, Nr. 148-7561 (2010-12-18)
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1185, 2010-11-30, Žin., 2010, Nr. 148-7560 (2010-12-18)
-[[#^s-f964b48e73f80079e0bda0e0|AKCIZŲ ĮSTATYMO 3, 9, 10, 15, 16, 18, 19, 21, 30, 31, 37, 43 STRAIPSNIŲ]] IR 3 PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO 58(1) STRAIPSNIU ĮSTATYMAS
-Šio įstatymo [[#^s-c4d4a83bf92493d77acb5b74|1 straipsnio]] 3, 6 ir [[#^s-5777ad78431efaea52ef9e07|10 dalys]], [[#^s-d900c0252f0c9a1279e34bac|9 straipsnis]], [[#^s-cced8b367b8a2ef8c777a7a5|10 straipsnio]] 1 ir 2 dalys, 11, 13 ir [[#^s-c2c19705f96eb921b6434d01|14 straipsniai]] įsigalioja 2011 m. sausio 1 d.
+AKCIZŲ ĮSTATYMO [[#^s-137c00c8d93d93826fc2f8ff|3]], [[#^s-d900c0252f0c9a1279e34bac|9]], [[#^s-cced8b367b8a2ef8c777a7a5|10]], [[#^s-5a97728eb3d4a5f33c814564|15]], [[#^s-26bd3962fc056c5662ee76bb|16]], [[#^s-87c3f8d5f33626b93b413ef6|18]], [[#^s-84d8127084338802f69c1a58|19]], [[#^s-f7891aa26c6295415a2cd8e4|21]], [[#^s-5b896eb7f1bcaf122b3aecf5|30]], [[#^s-8c014bf1b7b9de8230179282|31]], [[#^s-0dadc91796c5d80f5eb4e1aa|37]], [[#^s-f964b48e73f80079e0bda0e0|43]] STRAIPSNIŲ IR 3 PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO 58(1) STRAIPSNIU ĮSTATYMAS
+Šio įstatymo [[#^s-c4d4a83bf92493d77acb5b74|1 straipsnio]] [[#^s-456ea497354f3d5879a6d731|3]], [[#^s-750461c3aac685bab2361ae4|6]] ir 10 dalys, [[#^s-d900c0252f0c9a1279e34bac|9 straipsnis]], [[#^s-cced8b367b8a2ef8c777a7a5|10 straipsnio]] [[#^s-54714f5c974652d0609f1a6a|1]] ir [[#^s-6aeffdd2853bbcda387afbb7|2]] dalys, [[#^s-f69d3d076ed67caf24e8a5f8|11]], [[#^s-681dd2bdd48866035569ab8b|13]] ir [[#^s-c2c19705f96eb921b6434d01|14]] straipsniai įsigalioja 2011 m. sausio 1 d.
 Šio įstatymo [[#^s-1401a5d69a393692b0a34df4|10 straipsnio 3 dalis]] įsigalioja 2013 m. sausio 1 d.
 Šio įstatymo [[#^s-237ebe7cba58db06ee8a9a13|10 straipsnio 4 dalis]] įsigalioja 2015 m. sausio 1 d.
 Šio įstatymo [[#^s-e287c3859447906bf1f45551|10 straipsnio 5 dalis]] įsigalioja 2018 m. sausio 1 d.
@@ -3306,7 +3306,7 @@ Nr. XI-1633, 2011-11-08, Žin., 2011, Nr. 141-6614 (2011-11-22)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1740, 2011-11-29, Žin., 2011, Nr. 150-7047 (2011-12-08)
 [[latest/TAR.8DA52EE025B9|AKCIZŲ ĮSTATYMO 30, 31, 53 STRAIPSNIŲ IR ĮSTATYMO 3 PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo [[#^s-c4d4a83bf92493d77acb5b74|1 straipsnio]] 1 ir 2 dalys ir [[#^s-b1569d44418736ed82f446a6|2 straipsnis]] įsigalioja 2012-03-01; [[#^s-137c00c8d93d93826fc2f8ff|3 straipsnis]] įsigalioja 2012-01-01.
+Šio įstatymo [[#^s-c4d4a83bf92493d77acb5b74|1 straipsnio]] [[#^s-e4ceff119f2552815be1a698|1]] ir [[#^s-840708de30f97490bf56a77f|2]] dalys ir [[#^s-b1569d44418736ed82f446a6|2 straipsnis]] įsigalioja 2012-03-01; [[#^s-137c00c8d93d93826fc2f8ff|3 straipsnis]] įsigalioja 2012-01-01.
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3323,15 +3323,15 @@ Nr. XI-2024, 2012-05-22, Žin., 2012, Nr. 63-3165 (2012-06-05)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-80, 2012-12-20, Žin., 2012, Nr. 153-7830 (2012-12-29)
 [[latest/TAR.001642F96458|AKCIZŲ ĮSTATYMO 30, 31 IR 37 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-Šio įstatymo 1 ir [[#^s-b1569d44418736ed82f446a6|2 straipsniai]] įsigalioja 2013 m. kovo 1 d.
+Šio įstatymo [[#^s-c4d4a83bf92493d77acb5b74|1]] ir [[#^s-b1569d44418736ed82f446a6|2]] straipsniai įsigalioja 2013 m. kovo 1 d.
 Šio įstatymo [[#^s-137c00c8d93d93826fc2f8ff|3 straipsnis]] įsigalioja 2013 m. sausio 1 d.
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-457, 2013-07-02, Žin., 2013, Nr. 76-3846 (2013-07-16)
 [[latest/TAR.635F202D5FFE|AKCIZŲ ĮSTATYMO 23, 24, 25, 26, 30 IR 31 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-Šio įstatymo 1, 2, 3 ir [[#^s-cba2ec5070e74363b23c8167|4 straipsniai]] įsigalioja 2014 m. balandžio 1 d.
-Šio įstatymo 5 ir [[#^s-95b81287ee1c2f4ad3a7161c|6 straipsniai]] įsigalioja 2014 m. kovo 1 d.
+Šio įstatymo [[#^s-c4d4a83bf92493d77acb5b74|1]], [[#^s-b1569d44418736ed82f446a6|2]], [[#^s-137c00c8d93d93826fc2f8ff|3]] ir [[#^s-cba2ec5070e74363b23c8167|4]] straipsniai įsigalioja 2014 m. balandžio 1 d.
+Šio įstatymo [[#^s-42cc87e5382269410ce72a0d|5]] ir [[#^s-95b81287ee1c2f4ad3a7161c|6]] straipsniai įsigalioja 2014 m. kovo 1 d.
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3346,7 +3346,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1121, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13631
-[[#^s-f964b48e73f80079e0bda0e0|Lietuvos Respublikos akcizų įstatymo 3, 9, 10, 15, 16, 18, 19, 21, 30, 31, 37, [[#^s-f964b48e73f80079e0bda0e0\|43 straipsnių]]]] ir 3 priedo pakeitimo ir Įstatymo papildymo 58-1 straipsniu [[latest/TAR.BA2BC055D8D5|įstatymo Nr. XI-1185]] [[#^s-cced8b367b8a2ef8c777a7a5|10 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo [[#^s-137c00c8d93d93826fc2f8ff|3]], [[#^s-d900c0252f0c9a1279e34bac|9]], [[#^s-cced8b367b8a2ef8c777a7a5|10]], [[#^s-5a97728eb3d4a5f33c814564|15]], [[#^s-26bd3962fc056c5662ee76bb|16]], [[#^s-87c3f8d5f33626b93b413ef6|18]], [[#^s-84d8127084338802f69c1a58|19]], [[#^s-f7891aa26c6295415a2cd8e4|21]], [[#^s-5b896eb7f1bcaf122b3aecf5|30]], [[#^s-8c014bf1b7b9de8230179282|31]], [[#^s-0dadc91796c5d80f5eb4e1aa|37]], [[#^s-f964b48e73f80079e0bda0e0|43]] straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo 58-1 straipsniu [[latest/TAR.BA2BC055D8D5|įstatymo Nr. XI-1185]] [[#^s-cced8b367b8a2ef8c777a7a5|10 straipsnio]] pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3356,17 +3356,17 @@ Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-d8770dd8a8a8e409e6ebd2f2
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1120, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13632
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 23, 24, 25, 26, 30, 31, 35, 36, 37, 38, 39, 47, 54, 55 ir [[#^s-ab6808437c973d5950fbc087|59 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-49ea62000ab5f666a553f9fa|23]], [[#^s-6231fd9b33bd2114e66d5ec9|24]], [[#^s-9f28fdc4ddba29bf2b452aca|25]], [[#^s-1fc4cbdb11af3471398dec9a|26]], [[#^s-5b896eb7f1bcaf122b3aecf5|30]], [[#^s-8c014bf1b7b9de8230179282|31]], [[#^s-eb3dcad7bd59ce0978f6b1aa|35]], [[#^s-a223c87f52182e2296c243ad|36]], [[#^s-0dadc91796c5d80f5eb4e1aa|37]], [[#^s-f5e9f53a44395d0deb505593|38]], [[#^s-56c90587fcf1588e676a9cf8|39]], [[#^s-99e4c22e272559b58e950cf4|47]], [[#^s-162eee81439fa00f1d419294|54]], [[#^s-d3e0271df8f419a4eb6f44a0|55]] ir [[#^s-ab6808437c973d5950fbc087|59]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1358, 2014-11-25, paskelbta TAR 2014-12-03, i. k. 2014-18645
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 23, 24, 25, 26, 30 ir [[#^s-8c014bf1b7b9de8230179282|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-49ea62000ab5f666a553f9fa|23]], [[#^s-6231fd9b33bd2114e66d5ec9|24]], [[#^s-9f28fdc4ddba29bf2b452aca|25]], [[#^s-1fc4cbdb11af3471398dec9a|26]], [[#^s-5b896eb7f1bcaf122b3aecf5|30]] ir [[#^s-8c014bf1b7b9de8230179282|31]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1655, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06529
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 2, 9, 10, 19, [[#^s-783c8c518ae54a124340077b|41 straipsnių]] ir 2, 3 priedų pakeitimo ir Įstatymo papildymo 37-1 straipsniu įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-b1569d44418736ed82f446a6|2]], [[#^s-d900c0252f0c9a1279e34bac|9]], [[#^s-cced8b367b8a2ef8c777a7a5|10]], [[#^s-84d8127084338802f69c1a58|19]], [[#^s-783c8c518ae54a124340077b|41]] straipsnių ir 2, 3 priedų pakeitimo ir Įstatymo papildymo 37-1 straipsniu įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3376,12 +3376,12 @@ Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-0dadc91796c5d80f5eb4e1aa
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2128, 2015-12-03, paskelbta TAR 2015-12-09, i. k. 2015-19496
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 48, 53, 57, 58, 58-1, 59, [[#^s-3539ffe22621047189eb28ef|60 straipsnių]] ir Įstatymo 1 priedo pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-c4d4a83bf92493d77acb5b74|1]], [[#^s-b1569d44418736ed82f446a6|2]], [[#^s-4febfbada002f4a7ef0f204a|48]], [[#^s-fc5c14132cff0fda7175a8fc|53]], [[#^s-29b1f9c19c27b250ed3eafd6|57]], [[#^s-170dae20e39a90d850db4683|58]], 58-1, [[#^s-ab6808437c973d5950fbc087|59]], [[#^s-3539ffe22621047189eb28ef|60]] straipsnių ir Įstatymo 1 priedo pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2152, 2015-12-10, paskelbta TAR 2015-12-16, i. k. 2015-19848
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 10 ir [[#^s-28908130f721744843562a2a|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-cced8b367b8a2ef8c777a7a5|10]] ir [[#^s-28908130f721744843562a2a|12]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3391,32 +3391,32 @@ Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-a3d174d596519fab5e141d9d
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2145, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19628
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 23, 24, 25, 26, 30 ir [[#^s-8c014bf1b7b9de8230179282|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-49ea62000ab5f666a553f9fa|23]], [[#^s-6231fd9b33bd2114e66d5ec9|24]], [[#^s-9f28fdc4ddba29bf2b452aca|25]], [[#^s-1fc4cbdb11af3471398dec9a|26]], [[#^s-5b896eb7f1bcaf122b3aecf5|30]] ir [[#^s-8c014bf1b7b9de8230179282|31]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2696, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26860
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 3, 9, 12, 14, 15, 20, 21, 33 ir [[#^s-f964b48e73f80079e0bda0e0|43 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-137c00c8d93d93826fc2f8ff|3]], [[#^s-d900c0252f0c9a1279e34bac|9]], [[#^s-28908130f721744843562a2a|12]], [[#^s-c2c19705f96eb921b6434d01|14]], [[#^s-5a97728eb3d4a5f33c814564|15]], [[#^s-c1e2c2e5536e45df8ba00801|20]], [[#^s-f7891aa26c6295415a2cd8e4|21]], [[#^s-ab22691b2c2ee826ac7d9572|33]] ir [[#^s-f964b48e73f80079e0bda0e0|43]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-172, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29862
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 3, 9, 12, 14, 15, 20, 21, 33 ir [[#^s-f964b48e73f80079e0bda0e0|43 straipsnių]] pakeitimo [[latest/bc092070abd411e6b844f0f29024f5ac|įstatymo Nr. XII-2696]] [[#^s-b2f9aa6b45456c453f58d4c9|7 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-137c00c8d93d93826fc2f8ff|3]], [[#^s-d900c0252f0c9a1279e34bac|9]], [[#^s-28908130f721744843562a2a|12]], [[#^s-c2c19705f96eb921b6434d01|14]], [[#^s-5a97728eb3d4a5f33c814564|15]], [[#^s-c1e2c2e5536e45df8ba00801|20]], [[#^s-f7891aa26c6295415a2cd8e4|21]], [[#^s-ab22691b2c2ee826ac7d9572|33]] ir [[#^s-f964b48e73f80079e0bda0e0|43]] straipsnių pakeitimo [[latest/bc092070abd411e6b844f0f29024f5ac|įstatymo Nr. XII-2696]] [[#^s-b2f9aa6b45456c453f58d4c9|7 straipsnio]] pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-86, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29274
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 30 ir [[#^s-8c014bf1b7b9de8230179282|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-5b896eb7f1bcaf122b3aecf5|30]] ir [[#^s-8c014bf1b7b9de8230179282|31]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-171, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29861
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 23, 24, 25, 26, 30 ir [[#^s-8c014bf1b7b9de8230179282|31 straipsnių]] pakeitimo [[latest/8dec09709f4e11e58fd1fc0b9bba68a7|įstatymo Nr. XII-2145]] 1, 2, 3, 4 ir [[#^s-b2f9aa6b45456c453f58d4c9|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-49ea62000ab5f666a553f9fa|23]], [[#^s-6231fd9b33bd2114e66d5ec9|24]], [[#^s-9f28fdc4ddba29bf2b452aca|25]], [[#^s-1fc4cbdb11af3471398dec9a|26]], [[#^s-5b896eb7f1bcaf122b3aecf5|30]] ir [[#^s-8c014bf1b7b9de8230179282|31]] straipsnių pakeitimo [[latest/8dec09709f4e11e58fd1fc0b9bba68a7|įstatymo Nr. XII-2145]] [[#^s-c4d4a83bf92493d77acb5b74|1]], [[#^s-b1569d44418736ed82f446a6|2]], [[#^s-137c00c8d93d93826fc2f8ff|3]], [[#^s-cba2ec5070e74363b23c8167|4]] ir [[#^s-b2f9aa6b45456c453f58d4c9|7]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-814, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20008
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 30, 31, 37, 58-1, [[#^s-ab6808437c973d5950fbc087|59 straipsnių]] pakeitimo ir [[#^s-fc5c14132cff0fda7175a8fc|53 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-5b896eb7f1bcaf122b3aecf5|30]], [[#^s-8c014bf1b7b9de8230179282|31]], [[#^s-0dadc91796c5d80f5eb4e1aa|37]], 58-1, [[#^s-ab6808437c973d5950fbc087|59]] straipsnių pakeitimo ir [[#^s-fc5c14132cff0fda7175a8fc|53 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3426,7 +3426,7 @@ Lietuvos Respublikos akcizų įstatymo Nr. IX-569 58-1 straipsnio pakeitimo įst
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1327, 2018-06-28, paskelbta TAR 2018-07-04, i. k. 2018-11320
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 30, [[#^s-8c014bf1b7b9de8230179282|31 straipsnių]], II ir III skyrių pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-c4d4a83bf92493d77acb5b74|1]], [[#^s-b1569d44418736ed82f446a6|2]], [[#^s-137c00c8d93d93826fc2f8ff|3]], [[#^s-5b896eb7f1bcaf122b3aecf5|30]], [[#^s-8c014bf1b7b9de8230179282|31]] straipsnių, II ir III skyrių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3436,57 +3436,57 @@ Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-1fc4cbdb11af3471398dec9a
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2279, 2019-07-09, paskelbta TAR 2019-07-25, i. k. 2019-12227
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 4 ir [[#^s-f635aae1bd0d5d645717417c|70 straipsnių]] ir II skyriaus pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-c4d4a83bf92493d77acb5b74|1]], [[#^s-b1569d44418736ed82f446a6|2]], [[#^s-137c00c8d93d93826fc2f8ff|3]], [[#^s-cba2ec5070e74363b23c8167|4]] ir [[#^s-f635aae1bd0d5d645717417c|70]] straipsnių ir II skyriaus pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2612, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20642
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 30, [[#^s-8c014bf1b7b9de8230179282|31 straipsnių]], II ir III skyrių pakeitimo [[latest/5f4fbc907f8111e8ae2bfd1913d66d57|įstatymo Nr. XIII-1327]] 8 ir [[#^s-d900c0252f0c9a1279e34bac|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-c4d4a83bf92493d77acb5b74|1]], [[#^s-b1569d44418736ed82f446a6|2]], [[#^s-137c00c8d93d93826fc2f8ff|3]], [[#^s-5b896eb7f1bcaf122b3aecf5|30]], [[#^s-8c014bf1b7b9de8230179282|31]] straipsnių, II ir III skyrių pakeitimo [[latest/5f4fbc907f8111e8ae2bfd1913d66d57|įstatymo Nr. XIII-1327]] [[#^s-04ab2909e20ec7e0a5166b58|8]] ir [[#^s-d900c0252f0c9a1279e34bac|9]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2581, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20017
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 9, 10, 26, 35, 37, 61 ir [[#^s-cbb9597ee451a8ca047684f2|67 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-d900c0252f0c9a1279e34bac|9]], [[#^s-cced8b367b8a2ef8c777a7a5|10]], [[#^s-1fc4cbdb11af3471398dec9a|26]], [[#^s-eb3dcad7bd59ce0978f6b1aa|35]], [[#^s-0dadc91796c5d80f5eb4e1aa|37]], [[#^s-377ca35f2a9e27d3ee9e5fcd|61]] ir [[#^s-cbb9597ee451a8ca047684f2|67]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-446, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15450
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 3, 23, 24, 25, 26, 30, 31, 65 ir [[#^s-78ddcc8c104dc1d246a60df2|74 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-c4d4a83bf92493d77acb5b74|1]], [[#^s-137c00c8d93d93826fc2f8ff|3]], [[#^s-49ea62000ab5f666a553f9fa|23]], [[#^s-6231fd9b33bd2114e66d5ec9|24]], [[#^s-9f28fdc4ddba29bf2b452aca|25]], [[#^s-1fc4cbdb11af3471398dec9a|26]], [[#^s-5b896eb7f1bcaf122b3aecf5|30]], [[#^s-8c014bf1b7b9de8230179282|31]], [[#^s-ea0c894660b0a164a7d48264|65]] ir [[#^s-78ddcc8c104dc1d246a60df2|74]] straipsnių pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
-Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/1ce2a330b3f011eb8371ea260d59d64b)
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-777, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27358
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 4, 6, 7, 8, 9, 10, 12, 14, 15, 16, 17, 18, 19, 21, 22, 28, 33, 44, 46, 61, 64, 66, [[#^s-cd0326e99b78b0d43fe7d891|72 straipsnių]] ir 3 priedo pakeitimo ir Įstatymo papildymo 8-1, 29-1 straipsniais įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-c4d4a83bf92493d77acb5b74|1]], [[#^s-b1569d44418736ed82f446a6|2]], [[#^s-137c00c8d93d93826fc2f8ff|3]], [[#^s-cba2ec5070e74363b23c8167|4]], [[#^s-95b81287ee1c2f4ad3a7161c|6]], [[#^s-b2f9aa6b45456c453f58d4c9|7]], [[#^s-04ab2909e20ec7e0a5166b58|8]], [[#^s-d900c0252f0c9a1279e34bac|9]], [[#^s-cced8b367b8a2ef8c777a7a5|10]], [[#^s-28908130f721744843562a2a|12]], [[#^s-c2c19705f96eb921b6434d01|14]], [[#^s-5a97728eb3d4a5f33c814564|15]], [[#^s-26bd3962fc056c5662ee76bb|16]], [[#^s-f82154058dced447f409c720|17]], [[#^s-87c3f8d5f33626b93b413ef6|18]], [[#^s-84d8127084338802f69c1a58|19]], [[#^s-f7891aa26c6295415a2cd8e4|21]], [[#^s-ea6a118f2a515e7e78c6073e|22]], [[#^s-8a1ab8a203dbb6dba5c9b8df|28]], [[#^s-ab22691b2c2ee826ac7d9572|33]], [[#^s-3cf0293d121aa2919120813f|44]], [[#^s-ed79c9c950ca0c623c387ced|46]], [[#^s-377ca35f2a9e27d3ee9e5fcd|61]], [[#^s-598c97300069d5d1caff0116|64]], [[#^s-0ba77c86e643ecf9cdfc7552|66]], [[#^s-cd0326e99b78b0d43fe7d891|72]] straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo 8-1, 29-1 straipsniais įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-724, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25842
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 35 ir [[#^s-0dadc91796c5d80f5eb4e1aa|37 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-eb3dcad7bd59ce0978f6b1aa|35]] ir [[#^s-0dadc91796c5d80f5eb4e1aa|37]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1933, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09520
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 27, 35, 36, 37, 38, 39, 41, 43, 53, 58-1, [[#^s-ab6808437c973d5950fbc087|59 straipsnių]], II skyriaus penktojo skirsnio pakeitimo, Įstatymo papildymo nauju 3 priedu ir [[#^s-a3d174d596519fab5e141d9d|40 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-c4d4a83bf92493d77acb5b74|1]], [[#^s-b1569d44418736ed82f446a6|2]], [[#^s-137c00c8d93d93826fc2f8ff|3]], [[#^s-d8770dd8a8a8e409e6ebd2f2|27]], [[#^s-eb3dcad7bd59ce0978f6b1aa|35]], [[#^s-a223c87f52182e2296c243ad|36]], [[#^s-0dadc91796c5d80f5eb4e1aa|37]], [[#^s-f5e9f53a44395d0deb505593|38]], [[#^s-56c90587fcf1588e676a9cf8|39]], [[#^s-783c8c518ae54a124340077b|41]], [[#^s-f964b48e73f80079e0bda0e0|43]], [[#^s-fc5c14132cff0fda7175a8fc|53]], 58-1, [[#^s-ab6808437c973d5950fbc087|59]] straipsnių, II skyriaus penktojo skirsnio pakeitimo, Įstatymo papildymo nauju 3 priedu ir [[#^s-a3d174d596519fab5e141d9d|40 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2473, 2024-02-15, paskelbta TAR 2024-02-20, i. k. 2024-03206
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 9, 37 ir [[#^s-56c90587fcf1588e676a9cf8|39 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-d900c0252f0c9a1279e34bac|9]], [[#^s-0dadc91796c5d80f5eb4e1aa|37]] ir [[#^s-56c90587fcf1588e676a9cf8|39]] straipsnių pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2770, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12069
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, 3, 27, 35, 36, 37, 38, 39, 41, 43, 53, 58-1, [[#^s-ab6808437c973d5950fbc087|59 straipsnių]], II skyriaus penktojo skirsnio pakeitimo, Įstatymo papildymo nauju 3 priedu ir [[#^s-a3d174d596519fab5e141d9d|40 straipsnio]] pripažinimo netekusiu galios [[latest/ff115820f64011ed9978886e85107ab2|įstatymo Nr. XIV-1933]] 7, 9, 12, 17 ir [[#^s-84d8127084338802f69c1a58|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-c4d4a83bf92493d77acb5b74|1]], [[#^s-b1569d44418736ed82f446a6|2]], [[#^s-137c00c8d93d93826fc2f8ff|3]], [[#^s-d8770dd8a8a8e409e6ebd2f2|27]], [[#^s-eb3dcad7bd59ce0978f6b1aa|35]], [[#^s-a223c87f52182e2296c243ad|36]], [[#^s-0dadc91796c5d80f5eb4e1aa|37]], [[#^s-f5e9f53a44395d0deb505593|38]], [[#^s-56c90587fcf1588e676a9cf8|39]], [[#^s-783c8c518ae54a124340077b|41]], [[#^s-f964b48e73f80079e0bda0e0|43]], [[#^s-fc5c14132cff0fda7175a8fc|53]], 58-1, [[#^s-ab6808437c973d5950fbc087|59]] straipsnių, II skyriaus penktojo skirsnio pakeitimo, Įstatymo papildymo nauju 3 priedu ir [[#^s-a3d174d596519fab5e141d9d|40 straipsnio]] pripažinimo netekusiu galios [[latest/ff115820f64011ed9978886e85107ab2|įstatymo Nr. XIV-1933]] [[#^s-b2f9aa6b45456c453f58d4c9|7]], [[#^s-d900c0252f0c9a1279e34bac|9]], [[#^s-28908130f721744843562a2a|12]], [[#^s-f82154058dced447f409c720|17]] ir [[#^s-84d8127084338802f69c1a58|19]] straipsnių pakeitimo įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2769, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12068
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 23, 24, 25, 26, 30, 31, 65 ir [[#^s-78ddcc8c104dc1d246a60df2|74 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-49ea62000ab5f666a553f9fa|23]], [[#^s-6231fd9b33bd2114e66d5ec9|24]], [[#^s-9f28fdc4ddba29bf2b452aca|25]], [[#^s-1fc4cbdb11af3471398dec9a|26]], [[#^s-5b896eb7f1bcaf122b3aecf5|30]], [[#^s-8c014bf1b7b9de8230179282|31]], [[#^s-ea0c894660b0a164a7d48264|65]] ir [[#^s-78ddcc8c104dc1d246a60df2|74]] straipsnių pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3496,7 +3496,7 @@ Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-f964b48e73f80079e0bda0e0
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-286, 2025-06-17, paskelbta TAR 2025-06-20, i. k. 2025-11282
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 1, 2, [[#^s-137c00c8d93d93826fc2f8ff|3 straipsnių]] pakeitimo ir II skyriaus papildymo devintuoju skirsniu įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-c4d4a83bf92493d77acb5b74|1]], [[#^s-b1569d44418736ed82f446a6|2]], [[#^s-137c00c8d93d93826fc2f8ff|3]] straipsnių pakeitimo ir II skyriaus papildymo devintuoju skirsniu įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3506,7 +3506,7 @@ Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-d900c0252f0c9a1279e34bac
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-811, 2026-04-14, paskelbta TAR 2026-04-15, i. k. 2026-06082
-Lietuvos Respublikos akcizų įstatymo Nr. IX-569 9, 37, 37-1 ir [[#^s-f5e9f53a44395d0deb505593|38 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcizų įstatymo Nr. IX-569 [[#^s-d900c0252f0c9a1279e34bac|9]], [[#^s-0dadc91796c5d80f5eb4e1aa|37]], 37-1 ir [[#^s-f5e9f53a44395d0deb505593|38]] straipsnių pakeitimo įstatymas
 
 
 

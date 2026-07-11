@@ -133,13 +133,13 @@ Privalomojo sveikatos draudimo draudiminiai įvykiai yra gydytojo diagnozuoti pr
 3. Apdraustaisiais privalomuoju sveikatos draudimu (toliau – apdraustieji) laikomi: ^s-8209bb30c84ad62e1d5ed747
 
 
-1) asmenys, už kuriuos šio Įstatymo [[#^s-172af90149cc96ffc826bb87|8 straipsnio 3 dalyje]] nustatyta tvarka mokamos privalomojo sveikatos draudimo įmokos, nustatytos šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] 1, 2, 3 ir [[#^s-037d177d9847285f5756c007|5 dalyse]], bei asmenys, kurie šio Įstatymo [[#^s-716f83a5dd5be7fb688c070f|8 straipsnio]] 3 ir [[#^s-c8cb656776aa71d5d630f33c|4 dalyse]] nustatyta tvarka moka privalomojo sveikatos draudimo įmokas, nustatytas šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] 4, 5 ir [[#^s-7373eb726ae171cb860453a7|6 dalyse]]; ^s-4f2f74b5d30fccc428725246
+1) asmenys, už kuriuos šio Įstatymo [[#^s-172af90149cc96ffc826bb87|8 straipsnio 3 dalyje]] nustatyta tvarka mokamos privalomojo sveikatos draudimo įmokos, nustatytos šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] [[#^s-ba30b7b7bd482250c546d500|1]], [[#^s-df3cbad7552cc67700a09d37|2]], [[#^s-dc6f10f5d097e2ba88bbad97|3]] ir [[#^s-0ebad2799ace730876ed2935|5]] dalyse, bei asmenys, kurie šio Įstatymo [[#^s-716f83a5dd5be7fb688c070f|8 straipsnio]] [[#^s-172af90149cc96ffc826bb87|3]] ir [[#^s-2291ce9428421d8207a78032|4]] dalyse nustatyta tvarka moka privalomojo sveikatos draudimo įmokas, nustatytas šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] [[#^s-13060db4a1972e9b996496ec|4]], [[#^s-0ebad2799ace730876ed2935|5]] ir [[#^s-2b5c95af6179ecb169269d1b|6]] dalyse; ^s-4f2f74b5d30fccc428725246
 
 
 2) valstybės lėšomis draudžiami asmenys, išvardyti [[#^s-c8cb656776aa71d5d630f33c|šio straipsnio 4 dalyje]]. ^s-a903e929daa81624c3b84449
 
 
-4. Apdraustaisiais, kurie draudžiami valstybės lėšomis (išskyrus asmenis, kurie privalo mokėti arba už kuriuos mokamos sveikatos draudimo įmokos pagal šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] 1, 2, 3, 4 ir [[#^s-037d177d9847285f5756c007|5 dalis]] ), laikomi: ^s-c8cb656776aa71d5d630f33c
+4. Apdraustaisiais, kurie draudžiami valstybės lėšomis (išskyrus asmenis, kurie privalo mokėti arba už kuriuos mokamos sveikatos draudimo įmokos pagal šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] [[#^s-ba30b7b7bd482250c546d500|1]], [[#^s-df3cbad7552cc67700a09d37|2]], [[#^s-dc6f10f5d097e2ba88bbad97|3]], [[#^s-13060db4a1972e9b996496ec|4]] ir [[#^s-0ebad2799ace730876ed2935|5]] dalis ), laikomi: ^s-c8cb656776aa71d5d630f33c
 
 
 1) asmenys, gaunantys Lietuvos Respublikos įstatymų nustatytą bet kurios rūšies pensiją; ^s-6368ce0c7600fad236306b08
@@ -190,7 +190,7 @@ Privalomojo sveikatos draudimo draudiminiai įvykiai yra gydytojo diagnozuoti pr
 5. Lietuvos Respublikos karių, užsieniečių, pateikusių prašymą suteikti jiems pabėgėlio statusą, teismo ar teisėsaugos institucijų sulaikytų asmenų, esančių kardomojo kalinimo vietose, nuteistųjų laisvės atėmimu bei asmenų, padariusių visuomenei pavojingą veiką, kuriems teismo nutartimi paskirtos priverčiamosios medicininio pobūdžio priemonės, sveikatos priežiūra apmokama iš valstybės biudžeto lėšų Lietuvos Respublikos Vyriausybės (toliau – Vyriausybės) ar jos įgaliotos institucijos nustatyta tvarka. ^s-037d177d9847285f5756c007
 
 
-6. Privalomojo sveikatos draudimo fondas disponuoja valstybės biudžeto lėšomis, skirtomis šio straipsnio 4 ir [[#^s-037d177d9847285f5756c007|5 dalyse]] nurodytų asmenų privalomajam sveikatos draudimui ir asmenų, nurodytų [[#^s-037d177d9847285f5756c007|šio straipsnio 5 dalyje]], sveikatos priežiūros paslaugoms apmokėti, išskyrus, kai šios paslaugos teikiamos Teisingumo, Krašto apsaugos ar Vidaus reikalų ministerijų valdymo srities sveikatos priežiūros įstaigose. ^s-7373eb726ae171cb860453a7
+6. Privalomojo sveikatos draudimo fondas disponuoja valstybės biudžeto lėšomis, skirtomis šio straipsnio [[#^s-c8cb656776aa71d5d630f33c|4]] ir [[#^s-037d177d9847285f5756c007|5]] dalyse nurodytų asmenų privalomajam sveikatos draudimui ir asmenų, nurodytų [[#^s-037d177d9847285f5756c007|šio straipsnio 5 dalyje]], sveikatos priežiūros paslaugoms apmokėti, išskyrus, kai šios paslaugos teikiamos Teisingumo, Krašto apsaugos ar Vidaus reikalų ministerijų valdymo srities sveikatos priežiūros įstaigose. ^s-7373eb726ae171cb860453a7
 
 
 
@@ -210,7 +210,7 @@ Privalomojo sveikatos draudimo draudiminiai įvykiai yra gydytojo diagnozuoti pr
 ### 8 straipsnis. Privalomojo sveikatos draudimo galiojimas ^s-716f83a5dd5be7fb688c070f
 
 
-1. Valstybinė mokesčių inspekcija administruoja šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] 1, 2, 3, 4, 5 ir [[#^s-bfc697a586bf56e450bf05e0|6 dalyse]] numatytas privalomojo sveikatos draudimo įmokas. Valstybinės ligonių kasos ir Valstybinės mokesčių inspekcijos prie Finansų ministerijos nustatyta tvarka teritorinės valstybinės mokesčių inspekcijos turi teikti Valstybinei ligonių kasai ir teritorinėms ligonių kasoms reikalingą informaciją apie atskirų įmonių, organizacijų ir fizinių asmenų sumokėtas ir nesumokėtas privalomojo sveikatos draudimo įmokas. ^s-fe786bfacf295f35e62ba5ad
+1. Valstybinė mokesčių inspekcija administruoja šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] [[#^s-ba30b7b7bd482250c546d500|1]], [[#^s-df3cbad7552cc67700a09d37|2]], [[#^s-dc6f10f5d097e2ba88bbad97|3]], [[#^s-13060db4a1972e9b996496ec|4]], [[#^s-0ebad2799ace730876ed2935|5]] ir [[#^s-2b5c95af6179ecb169269d1b|6]] dalyse numatytas privalomojo sveikatos draudimo įmokas. Valstybinės ligonių kasos ir Valstybinės mokesčių inspekcijos prie Finansų ministerijos nustatyta tvarka teritorinės valstybinės mokesčių inspekcijos turi teikti Valstybinei ligonių kasai ir teritorinėms ligonių kasoms reikalingą informaciją apie atskirų įmonių, organizacijų ir fizinių asmenų sumokėtas ir nesumokėtas privalomojo sveikatos draudimo įmokas. ^s-fe786bfacf295f35e62ba5ad
 
 
 2. Jei teritorinė ligonių kasa nustato, kad draudžiamajam per kalendorinį mėnesį suteiktų asmens sveikatos priežiūros paslaugų kaina viršija 100 MGL, tos teritorinės ligonių kasos teikimu [[#^s-fe786bfacf295f35e62ba5ad|šio straipsnio 1 dalyje]] numatytos institucijos tikrina, ar asmuo yra sumokėjęs visas privalomojo sveikatos draudimo įmokas. Kiti asmenys tikrinami pasirinktinai. ^s-0c81cea62401f5aa7c9ac71a
@@ -219,10 +219,10 @@ Privalomojo sveikatos draudimo draudiminiai įvykiai yra gydytojo diagnozuoti pr
 3. Asmenys, už kuriuos mokamos privalomojo sveikatos draudimo įmokos, ir asmenys, mokantys privalomojo sveikatos draudimo įmokas, laikomi apdraustaisiais nuo tos dienos, kurią už juos buvo pradėtos mokėti arba jie pradėjo mokėti šias įmokas. ^s-172af90149cc96ffc826bb87
 
 
-4. Asmenys, už kuriuos mokamos privalomojo sveikatos draudimo įmokos, ir asmenys, kurie moka privalomojo sveikatos draudimo įmokas, nustatytas šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] 1, 2, 3, 4, 5 ir [[#^s-bfc697a586bf56e450bf05e0|6 dalyse]], apdraustaisiais laikomi dar vieną mėnesį po to, kai už juos nustota mokėti ar kai jie nustoja mokėti nustatyto dydžio įmokas, jeigu šios įmokos prieš tai buvo mokėtos paskutinius 3 mėnesius. ^s-2291ce9428421d8207a78032
+4. Asmenys, už kuriuos mokamos privalomojo sveikatos draudimo įmokos, ir asmenys, kurie moka privalomojo sveikatos draudimo įmokas, nustatytas šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] [[#^s-ba30b7b7bd482250c546d500|1]], [[#^s-df3cbad7552cc67700a09d37|2]], [[#^s-dc6f10f5d097e2ba88bbad97|3]], [[#^s-13060db4a1972e9b996496ec|4]], [[#^s-0ebad2799ace730876ed2935|5]] ir [[#^s-2b5c95af6179ecb169269d1b|6]] dalyse, apdraustaisiais laikomi dar vieną mėnesį po to, kai už juos nustota mokėti ar kai jie nustoja mokėti nustatyto dydžio įmokas, jeigu šios įmokos prieš tai buvo mokėtos paskutinius 3 mėnesius. ^s-2291ce9428421d8207a78032
 
 
-5. Už Privalomojo sveikatos draudimo fondo biudžeto apmokamas sveikatos priežiūros paslaugas, išskyrus būtinosios medicinos pagalbos paslaugas, suteiktas asmeniui, nelaikomam apdraustuoju, teritorinei ligonių kasai moka šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] 4, 5 ir [[#^s-bfc697a586bf56e450bf05e0|6 dalyse]] nustatytos įmokos mokėtojas už save arba šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] 1, 2, 3 ir [[#^s-abc880fb39110c5fe9fd626b|5 dalyse]] nustatytos įmokos mokėtojai už asmenis, kuriems suteiktos asmens sveikatos priežiūros paslaugos. ^s-abc880fb39110c5fe9fd626b
+5. Už Privalomojo sveikatos draudimo fondo biudžeto apmokamas sveikatos priežiūros paslaugas, išskyrus būtinosios medicinos pagalbos paslaugas, suteiktas asmeniui, nelaikomam apdraustuoju, teritorinei ligonių kasai moka šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] [[#^s-13060db4a1972e9b996496ec|4]], [[#^s-0ebad2799ace730876ed2935|5]] ir [[#^s-2b5c95af6179ecb169269d1b|6]] dalyse nustatytos įmokos mokėtojas už save arba šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] [[#^s-ba30b7b7bd482250c546d500|1]], [[#^s-df3cbad7552cc67700a09d37|2]], [[#^s-dc6f10f5d097e2ba88bbad97|3]] ir [[#^s-0ebad2799ace730876ed2935|5]] dalyse nustatytos įmokos mokėtojai už asmenis, kuriems suteiktos asmens sveikatos priežiūros paslaugos. ^s-abc880fb39110c5fe9fd626b
 
 
 6. Išlaidos, susijusios su sveikatos priežiūros paslaugų teikimu, ir nesumokėtos privalomojo sveikatos draudimo įmokos iš asmenų išieškomos šio ir kitų įstatymų bei teisės aktų nustatyta tvarka. ^s-bfc697a586bf56e450bf05e0
@@ -310,7 +310,7 @@ PRIVALOMOJO SVEIKATOS DRAUDIMO PASLAUGOS IR JŲ IŠLAIDŲ KOMPENSAVIMAS
 3. 100, 90, 80 arba 50 procentų bazinės kompensuojamųjų vaistų ir medicinos pagalbos priemonių ambulatoriniam gydymui kainos kompensuojama apdraustiesiems, nepaminėtiems [[#^s-1c634fc0500c241f73a638a2|šio straipsnio 2 dalyje]], kuriems diagnozuotos ligos, sindromai ir būklės, įrašyti į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą arba Kompensuojamųjų medicinos pagalbos priemonių sąrašą pagal kompensavimo lygius. ^s-0003887d71c9647c4092cd2b
 
 
-4. 50 procentų bazinės kompensuojamųjų vaistų, įrašytų į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemonių, įrašytų į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, ambulatoriniam gydymui kainos kompensuojama asmenims, gaunantiems valstybinę socialinio draudimo senatvės bei II grupės invalidumo pensijas, taip pat šalpos (socialinių) pensijų gavėjams, nepaminėtiems šio straipsnio 2 ir [[#^s-0003887d71c9647c4092cd2b|3 dalyse]]. ^s-010b4ae464c21762ef9b28a4
+4. 50 procentų bazinės kompensuojamųjų vaistų, įrašytų į Kompensuojamųjų vaistų sąrašą, ir medicinos pagalbos priemonių, įrašytų į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, ambulatoriniam gydymui kainos kompensuojama asmenims, gaunantiems valstybinę socialinio draudimo senatvės bei II grupės invalidumo pensijas, taip pat šalpos (socialinių) pensijų gavėjams, nepaminėtiems šio straipsnio [[#^s-1c634fc0500c241f73a638a2|2]] ir [[#^s-0003887d71c9647c4092cd2b|3]] dalyse. ^s-010b4ae464c21762ef9b28a4
 
 
 5. Vaistų ir medicinos pagalbos priemonių, naudojamų hospitalizuotiems stacionarinėse asmens sveikatos priežiūros įstaigose apdraustiesiems gydyti, išlaidos apmokamos iš Privalomojo sveikatos draudimo fondo biudžeto, išskyrus atvejus, kai apdraustasis savo iniciatyva gydančiojo gydytojo rekomendavimu pasirenka brangesnius vaistus ar medicinos pagalbos priemones, negu Lietuvos Respublikoje yra taikomi pagal nustatytas gydymo metodikas. Šiuo atveju apdraustasis privalo sveikatos priežiūros įstaigai apmokėti gydytojo skiriamų ir apdraustojo pasirenkamų vaistų ar medicinos pagalbos priemonių kainų skirtumą (šis skirtumas gali būti apmokamas ir iš papildomojo (savanoriškojo) sveikatos draudimo ar kitų lėšų). ^s-5f5ca22d9f93f0757e13990f
@@ -448,7 +448,7 @@ Privalomojo sveikatos draudimo finansų pagrindą sudaro savarankiškas valstybi
 2) asmeninio ūkio naudotojai (iki 3 ha žemės naudmenų) už save ir už dirbančius ūkyje pilnamečius šeimos narius moka po 1,5 procento minimalios mėnesinės algos dydžio privalomojo sveikatos draudimo įmokas. ^s-0eae271d5ba4526fc9bdaa10
 
 
-6. Asmenys, nepriklausantys išvardytiems šio straipsnio 1, 2, 3, 4 ir [[#^s-0ebad2799ace730876ed2935|5 dalyse]] bei šio Įstatymo [[#^s-c8cb656776aa71d5d630f33c|6 straipsnio 4 dalyje]], kas mėnesį moka už save 10 procentų Statistikos departamento prie Lietuvos Respublikos Vyriausybės paskelbto užpraeito ketvirčio šalies ūkio vidutinio mėnesinio darbo užmokesčio dydžio privalomojo sveikatos draudimo įmokas. ^s-2b5c95af6179ecb169269d1b
+6. Asmenys, nepriklausantys išvardytiems šio straipsnio [[#^s-ba30b7b7bd482250c546d500|1]], [[#^s-df3cbad7552cc67700a09d37|2]], [[#^s-dc6f10f5d097e2ba88bbad97|3]], [[#^s-13060db4a1972e9b996496ec|4]] ir [[#^s-0ebad2799ace730876ed2935|5]] dalyse bei šio Įstatymo [[#^s-c8cb656776aa71d5d630f33c|6 straipsnio 4 dalyje]], kas mėnesį moka už save 10 procentų Statistikos departamento prie Lietuvos Respublikos Vyriausybės paskelbto užpraeito ketvirčio šalies ūkio vidutinio mėnesinio darbo užmokesčio dydžio privalomojo sveikatos draudimo įmokas. ^s-2b5c95af6179ecb169269d1b
 
 
 7. Pilnamečiai darbingi asmenys, gyvenantys kaimo vietovėje ir neturintys savo žemės ar pajamų iš kito verslo, gali būti draudžiami privalomuoju sveikatos draudimu iš specialių fondų ar kitų žemės ūkio programų finansavimo lėšų Žemės ūkio ministerijos ir Sveikatos apsaugos ministerijos nustatyta tvarka. ^s-1d28d96b38f20eea91280efc
@@ -461,10 +461,10 @@ Privalomojo sveikatos draudimo finansų pagrindą sudaro savarankiškas valstybi
 1. Privalomojo sveikatos draudimo įmokų mokėjimo terminus ir tvarką nustato Vyriausybė. ^s-20033540553edc03d5bb5281
 
 
-2. Asmenys, išvardyti šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] 5 ir 6 dalyse, privalomojo sveikatos draudimo įmokų dydį apskaičiuoja patys ir perveda į teritorinių valstybinių mokesčių inspekcijų surenkamąsias sąskaitas. ^s-fd584acf59700d5f9cbeacb4
+2. Asmenys, išvardyti šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] [[#^s-0ebad2799ace730876ed2935|5]] ir [[#^s-2b5c95af6179ecb169269d1b|6]] dalyse, privalomojo sveikatos draudimo įmokų dydį apskaičiuoja patys ir perveda į teritorinių valstybinių mokesčių inspekcijų surenkamąsias sąskaitas. ^s-fd584acf59700d5f9cbeacb4
 
 
-3. Šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] 1, 2, 3, 4, 5 ir 6 dalyse numatytas įmokas administruoja ir per tris dienas į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą perveda valstybinės mokesčių inspekcijos. Privalomojo sveikatos draudimo įmokų kontrolės ir administravimo tvarką nustato Valstybinė mokesčių inspekcija prie Finansų ministerijos kartu su Valstybine ligonių kasa. ^s-af940bf3423c7764b35e7869
+3. Šio Įstatymo [[#^s-a01bb9c32bc75ab8842e1756|17 straipsnio]] [[#^s-ba30b7b7bd482250c546d500|1]], [[#^s-df3cbad7552cc67700a09d37|2]], [[#^s-dc6f10f5d097e2ba88bbad97|3]], [[#^s-13060db4a1972e9b996496ec|4]], [[#^s-0ebad2799ace730876ed2935|5]] ir [[#^s-2b5c95af6179ecb169269d1b|6]] dalyse numatytas įmokas administruoja ir per tris dienas į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą perveda valstybinės mokesčių inspekcijos. Privalomojo sveikatos draudimo įmokų kontrolės ir administravimo tvarką nustato Valstybinė mokesčių inspekcija prie Finansų ministerijos kartu su Valstybine ligonių kasa. ^s-af940bf3423c7764b35e7869
 
 
 4. Tuo atveju, kai asmenų, išvardytų šio Įstatymo [[#^s-13060db4a1972e9b996496ec|17 straipsnio 4 dalyje]], 30 procentų apskaičiuoto gyventojų pajamų (verslo liudijimo tam tikrai veiklos rūšiai) mokesčio sumos per mėnesį sudaro mažiau kaip 1/12 metinės valstybės biudžeto įmokos už valstybės lėšomis draudžiamus asmenis einamaisiais mokestiniais metais, išskyrus asmenis, kurie yra apdrausti privalomuoju sveikatos draudimu (šiuo atveju asmenys, priskirti draudžiamiesiems valstybės lėšomis, taip pat laikomi apdraustaisiais), skirtumą tarp faktiškai įmokėtos ir minimalios privalomojo sveikatos draudimo įmokos fiziniai asmenys perveda į teritorinės valstybinės mokesčių inspekcijos sąskaitą, nurodydami tikslinę paskirtį. ^s-29e0fc7c5e51930ffffcfbbd
@@ -746,7 +746,7 @@ Teritorinės ligonių kasos atlieka šias funkcijas:
 1) sudaro sutartis su sveikatos priežiūros įstaigomis ir vaistinėmis, šiose sutartyse nustatytu laiku bei tvarka apmoka joms už draudžiamiesiems suteiktas asmens sveikatos priežiūros paslaugas ir išduotus vaistus bei medicinos pagalbos priemones; ^s-2777ec52716b871e8081d9e3
 
 
-2) šio Įstatymo 10, 11, [[#^s-0afd0a9d6c9b4f6d0ca75817|12 straipsniuose]] nustatyta tvarka kompensuoja draudžiamiesiems vaistų ir medicinos pagalbos priemonių įsigijimo, medicininės reabilitacijos ir sanatorinio gydymo bei galūnių, sąnarių ir organų protezų įsigijimo ir protezavimo išlaidas; ^s-ff126edafda78abbb3c9b9e7
+2) šio Įstatymo [[#^s-4a6cd15ee4fa22d321fb5924|10]], [[#^s-1b97b74b1696ef2605f65b41|11]], [[#^s-0afd0a9d6c9b4f6d0ca75817|12]] straipsniuose nustatyta tvarka kompensuoja draudžiamiesiems vaistų ir medicinos pagalbos priemonių įsigijimo, medicininės reabilitacijos ir sanatorinio gydymo bei galūnių, sąnarių ir organų protezų įsigijimo ir protezavimo išlaidas; ^s-ff126edafda78abbb3c9b9e7
 
 
 3) tvarko draudžiamųjų privalomuoju sveikatos draudimu įskaitą; ^s-63ab453eea27e4d94f2e17cc
@@ -1015,7 +1015,7 @@ Vyriausybė, Sveikatos apsaugos ministerija ir Valstybinė ligonių kasa iki 200
 1. Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d., išskyrus šiame straipsnyje numatytas išimtis. ^s-94ed4dcfd073540d04c61e4c
 
 
-2. [[latest/TAR.94F6B680E8B8#^s-b2aba1272cdaf55c3a9c747e|Sveikatos draudimo įstatymo 17 straipsnio]] 1, 5 ir 6 dalyse numatytų privalomojo sveikatos draudimo įmokų administravimas pagal to paties įstatymo [[#^s-fe786bfacf295f35e62ba5ad|8 straipsnio 1 dalį]] ir [[#^s-af940bf3423c7764b35e7869|18 straipsnio 3 dalį]] Valstybinei mokesčių inspekcijai perduodamas nuo 2004 m. sausio 1 d. ^s-0b5b1b7475270ec1239db5bd
+2. [[latest/TAR.94F6B680E8B8#^s-b2aba1272cdaf55c3a9c747e|Sveikatos draudimo įstatymo 17 straipsnio]] [[latest/TAR.94F6B680E8B8#^s-849f33a0537b593f068bbc14|1]], [[latest/TAR.94F6B680E8B8#^s-75d60e1abbd0e289770a0f2f|5]] ir [[latest/TAR.94F6B680E8B8#^s-306e679880a211f002474540|6]] dalyse numatytų privalomojo sveikatos draudimo įmokų administravimas pagal to paties įstatymo [[#^s-fe786bfacf295f35e62ba5ad|8 straipsnio 1 dalį]] ir [[#^s-af940bf3423c7764b35e7869|18 straipsnio 3 dalį]] Valstybinei mokesčių inspekcijai perduodamas nuo 2004 m. sausio 1 d. ^s-0b5b1b7475270ec1239db5bd
 
 
 3. Iki [[#^s-0b5b1b7475270ec1239db5bd|šio straipsnio 2 dalyje]] nurodytų įmokų administravimo perdavimo Valstybinei mokesčių inspekcijai: ^s-41e767caf064fa4f40148b6a

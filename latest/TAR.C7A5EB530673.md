@@ -105,7 +105,7 @@ Surašymui reikalingos lėšos skiriamos iš valstybės biudžeto.
 ar melagingų duomenų pateikimą
 
 
-Surašymo metu atsisakiusieji pateikti savo asmens duomenis ar duomenis apie būstą arba pateikusieji melagingus duomenis atsako pagal Administracinių teisės pažeidimų kodekso 1732 straipsnį.
+Surašymo metu atsisakiusieji pateikti savo asmens duomenis ar duomenis apie būstą arba pateikusieji melagingus duomenis atsako pagal [Administracinių teisės pažeidimų kodekso 1732 straipsnį](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492).
 
 
 

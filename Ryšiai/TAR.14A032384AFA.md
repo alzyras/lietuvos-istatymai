@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 2 ir 7
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.EAA93A47BAA1|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo
+- [[latest/TAR.EAA93A47BAA1|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D4A66ACB9F97#^s-82006bf67248d5bf62fcf88d|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - 2 citatos - GYVENTOJŲ TURTO DEKLARAVIMO ĮSTATYMO 2 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.D4A66ACB9F97#^s-82006bf67248d5bf62fcf88d|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - GYVENTOJŲ TURTO DEKLARAVIMO ĮSTATYMO 2 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

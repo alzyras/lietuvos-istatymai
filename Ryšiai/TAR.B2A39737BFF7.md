@@ -9,9 +9,11 @@ pavadinimas: "Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos ko
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 4 citatos - Administracinių bylų teisenos įstatymo
-- [[latest/TAR.EC588C321777#^s-4e3572876114ef5766e45d8d|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 4 citatos - Baudžiamojo proceso kodekso 3 straipsnio 1 dalies
-- [[latest/TAR.0258F89BCE57|Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymas]] - 3 citatos - Lietuvos Respublikos smurtiniais nusikaltimais padarytos žalos kompensavimo įstatymo
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Administracinių bylų teisenos įstatymo
+- [[latest/TAR.EC588C321777#^s-4e3572876114ef5766e45d8d|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - Baudžiamojo proceso kodekso 3 straipsnio 1 dalies
+- [[latest/TAR.EC588C321777#^s-5637f8641a7d20da14084975|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - 4
+- [[latest/TAR.EC588C321777#^s-b2f7c56f827014ffd4e72a3e|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - 3
+- [[latest/TAR.EC588C321777#^s-b39ad8c49fa923ea92e51c5a|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - 7
 
 ## Šį įstatymą cituoja
 

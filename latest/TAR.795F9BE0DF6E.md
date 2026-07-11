@@ -158,7 +158,7 @@ Papildyti Kodeksą 711 straipsniu:
 3. Išimtiniais atvejais [[#^s-d50793d0d55e082059bfea15|šio straipsnio 2 dalyje]] nustatyti terminai gali būti pratęsti iki trisdešimties dienų, tačiau apie pratęsimo priežastis būtina nedelsiant pranešti Europos arešto orderį išdavusios valstybės institucijai. Jeigu ypatingais atvejais ir pratęstas terminas nėra pakankamas, apie uždelsimo priežastis turi būti pranešama Europos Sąjungos baudžiamojo persekiojimo institucijai (Eurojustui). ^s-c017cb1cfdb9e525dd02e006
 
 
-4. Jeigu Europos arešto orderis išduotas dėl asmens, pagal tarptautinės teisės normas turinčio imunitetą nuo baudžiamosios jurisdikcijos, arba jeigu nėra kompetentingos institucijos leidimo patraukti baudžiamojon atsakomybėn asmenį, kai šis leidimas pagal įstatymus būtinas, šio straipsnio 2 ir [[#^s-c017cb1cfdb9e525dd02e006|3 dalyse]] nurodyti terminai prasideda nuo to laiko, kada šis asmuo prarado imunitetą ar kada gautas kompetentingos institucijos leidimas. Lietuvos Respublikos generalinė prokuratūra privalo kreiptis į kompetentingą Lietuvos Respublikos instituciją dėl tokio leidimo suteikimo ar imuniteto panaikinimo. ^s-c77889b2eb3bca22e7a4ab89
+4. Jeigu Europos arešto orderis išduotas dėl asmens, pagal tarptautinės teisės normas turinčio imunitetą nuo baudžiamosios jurisdikcijos, arba jeigu nėra kompetentingos institucijos leidimo patraukti baudžiamojon atsakomybėn asmenį, kai šis leidimas pagal įstatymus būtinas, šio straipsnio [[#^s-d50793d0d55e082059bfea15|2]] ir [[#^s-c017cb1cfdb9e525dd02e006|3]] dalyse nurodyti terminai prasideda nuo to laiko, kada šis asmuo prarado imunitetą ar kada gautas kompetentingos institucijos leidimas. Lietuvos Respublikos generalinė prokuratūra privalo kreiptis į kompetentingą Lietuvos Respublikos instituciją dėl tokio leidimo suteikimo ar imuniteto panaikinimo. ^s-c77889b2eb3bca22e7a4ab89
 
 
 5. Asmuo Europos arešto orderį išdavusiai valstybei perduodamas tik dėl baudžiamojo persekiojimo už tame orderyje nurodytą nusikalstamą veiką ar paskirtos bausmės vykdymo. Jeigu užsienio valstybė kartu su išduotu Europos arešto orderiu pateikia prašymą perduoti asmenį ir dėl jo baudžiamojo persekiojimo ar paskirtos bausmės vykdymo už nusikalstamą veiką, dėl kurios negali būti išduodamas Europos arešto orderis, šis prašymas nagrinėjamas kartu su Europos arešto orderiu. Sprendimą dėl asmens perdavimo pagal Europos arešto orderį priimantis teismas gali sutikti, kad asmuo būtų perduotas ir dėl šios nusikalstamos veikos, jeigu ji pripažįstama nusikalstama pagal Lietuvos Respublikos baudžiamuosius įstatymus. ^s-144466c80de8be790d082e9d
@@ -286,7 +286,7 @@ Pakeisti 76 straipsnį ir jį išdėstyti taip:
 4. Asmens perdavimas pagal Europos arešto orderį taip pat gali būti atidedamas, kol bus baigtas su šiuo asmeniu susijęs Lietuvos Respublikoje pradėtas baudžiamasis procesas arba kol šis asmuo atliks Lietuvos Respublikoje jam paskirtą bausmę. Tačiau asmuo šio Kodekso 77 straipsnyje numatyta tvarka gali būti laikinai perduotas kitai valstybei proceso veiksmams atlikti. ^s-90444414985834faf41ddbd1
 
 
-5. Jeigu asmuo nebuvo perduotas per šio straipsnio 2 ar [[#^s-2d6cf66262739ff9b860e109|3 dalyje]] numatytus terminus, jam paskirta kardomoji priemonė panaikinama.“ ^s-591abd0efa5f4120cbe042ab
+5. Jeigu asmuo nebuvo perduotas per šio straipsnio [[#^s-426812eab6eb8886798eae3d|2]] ar [[#^s-2d6cf66262739ff9b860e109|3]] dalyje numatytus terminus, jam paskirta kardomoji priemonė panaikinama.“ ^s-591abd0efa5f4120cbe042ab
 
 
 

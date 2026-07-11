@@ -44,7 +44,7 @@ Vilnius
 70 straipsnio 7 dalyje išbraukti žodį „teisėjų“ ir šią dalį išdėstyti taip:
 
 
-„7. Vertybinių popierių komisijos narių darbo apmokėjimą reglamentuoja Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymas. Vertybinių popierių komisijos nariams [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodeksas]] taikomas tiek, kiek jų statuso nereglamentuoja kiti įstatymai. Vertybinių popierių komisijos pirmininkas ir nariai gali būti skatinami vienkartinėmis piniginėmis išmokomis, neviršijant darbo užmokesčiui skirtų lėšų. Vertybinių popierių komisijos pirmininkas ir nariai skatinami šiais atvejais:
+„7. Vertybinių popierių komisijos narių darbo apmokėjimą reglamentuoja Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3). Vertybinių popierių komisijos nariams [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodeksas]] taikomas tiek, kiek jų statuso nereglamentuoja kiti įstatymai. Vertybinių popierių komisijos pirmininkas ir nariai gali būti skatinami vienkartinėmis piniginėmis išmokomis, neviršijant darbo užmokesčiui skirtų lėšų. Vertybinių popierių komisijos pirmininkas ir nariai skatinami šiais atvejais:
 
 
 1) už labai gerą darbą kalendoriniais metais; ^s-e68d29f79ced83939988caa8

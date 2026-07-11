@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos gyventojų turto ir pajamų deklaravimo įsta
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D4A66ACB9F97|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - 2 citatos - 1996 m. gegužės 16 d. įstatymo Nr. I-1338
+_Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D4A66ACB9F97#^s-82006bf67248d5bf62fcf88d|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.D4A66ACB9F97#^s-82006bf67248d5bf62fcf88d|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - LIETUVOS RESPUBLIKOS GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAPILDYMO IR PAKEITIMO ĮSTATYMAS

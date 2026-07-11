@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos elektros energetikos įstatymo 2, 5, 6, 10, 1
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.44235B485568|Lietuvos Respublikos energetikos įstatymas]] - 2 citatos - Energetikos įstatymo
+- [[latest/TAR.44235B485568|Lietuvos Respublikos energetikos įstatymas]] - Energetikos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F57794B7899F#^s-4f12f2330edb85603ddfc4bc|Lietuvos Respublikos elektros energetikos įstatymas]] - 3 citatos - 1091010ISTA00XI-641
-- [[latest/TAR.F57794B7899F#^s-a1a5be57f7c6eba13b66e68b|Lietuvos Respublikos elektros energetikos įstatymas]] - 3 citatos - 1091010ISTA00XI-641
+- [[latest/TAR.F57794B7899F#^s-4f12f2330edb85603ddfc4bc|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - 1091010ISTA00XI-641

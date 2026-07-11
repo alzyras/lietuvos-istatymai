@@ -88,19 +88,19 @@ Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 9. Elektroninės priemonės – elektroninė įranga duomenims apdoroti (įskaitant skaitmeninį glaudinimą), jiems laikyti ir perduoti laidinėmis, radijo, optinėmis ar kitomis elektromagnetinėmis priemonėmis. ^s-89b93d5c1b7358ed56c216fa
 
 
-91. Europos bendras prieigos punktas – 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2859, kuriuo sukuriamas Europos bendras prieigos punktas, užtikrinantis centralizuotą prieigą prie viešai skelbiamos informacijos, kuri yra aktuali finansinių paslaugų, kapitalo rinkų ir tvarumo srityse, sukurtas prieigos punktas, kurį diegia ir valdo Europos vertybinių popierių ir rinkų institucija. ^s-ef5cd2fc4e4e182c501a3d2e
+91. Europos bendras prieigos punktas – 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2023/2859](https://eur-lex.europa.eu/eli/reg/2023/2859/oj), kuriuo sukuriamas Europos bendras prieigos punktas, užtikrinantis centralizuotą prieigą prie viešai skelbiamos informacijos, kuri yra aktuali finansinių paslaugų, kapitalo rinkų ir tvarumo srityse, sukurtas prieigos punktas, kurį diegia ir valdo Europos vertybinių popierių ir rinkų institucija. ^s-ef5cd2fc4e4e182c501a3d2e
 Papildyta straipsnio dalimi:
 Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 
 
 
-10. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB, su visais pakeitimais įsteigta institucija. ^s-5b461309c950cc83af5c61c4
+10. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB, su visais pakeitimais įsteigta institucija. ^s-5b461309c950cc83af5c61c4
 Straipsnio dalies pakeitimai:
 Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
 
 
 
-101. Europos žalioji obligacija – Reglamento (ES) 2023/2631 II antraštinėje dalyje nustatytus reikalavimus atitinkanti obligacija. ^s-395b230503a754d20a3b353a
+101. Europos žalioji obligacija – [Reglamento (ES) 2023/2631](https://eur-lex.europa.eu/eli/reg/2023/2631/oj) II antraštinėje dalyje nustatytus reikalavimus atitinkanti obligacija. ^s-395b230503a754d20a3b353a
 Papildyta straipsnio dalimi:
 Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
@@ -160,7 +160,7 @@ Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 2) kiti perleidžiamieji vertybiniai popieriai, lygiaverčiai akcinių bendrovių akcijoms; ^s-516a6e0ecc0ddaeabddfae77
 
 
-3) bet kurios kitos rūšies perleidžiamieji vertybiniai popieriai, kurie suteikia teisę, atlikus jų konvertavimą arba jų suteiktų teisių realizavimą, įgyti šios dalies 1 ir [[#^s-516a6e0ecc0ddaeabddfae77|2 punktuose]] nurodytus vertybinius popierius, jeigu šiame punkte nurodytus vertybinius popierius yra išleidęs su šiais vertybiniais popieriais susijusių šios dalies 1 ir [[#^s-516a6e0ecc0ddaeabddfae77|2 punktuose]] nurodytų vertybinių popierių emitentas arba kita šio emitento įmonių grupės įmonė. ^s-3bb457f636e3f2cc84e7aee7
+3) bet kurios kitos rūšies perleidžiamieji vertybiniai popieriai, kurie suteikia teisę, atlikus jų konvertavimą arba jų suteiktų teisių realizavimą, įgyti šios dalies [[#^s-2e724060118e0ee9019408a3|1]] ir [[#^s-516a6e0ecc0ddaeabddfae77|2]] punktuose nurodytus vertybinius popierius, jeigu šiame punkte nurodytus vertybinius popierius yra išleidęs su šiais vertybiniais popieriais susijusių šios dalies [[#^s-2e724060118e0ee9019408a3|1]] ir [[#^s-516a6e0ecc0ddaeabddfae77|2]] punktuose nurodytų vertybinių popierių emitentas arba kita šio emitento įmonių grupės įmonė. ^s-3bb457f636e3f2cc84e7aee7
 
 
 21. Oficialaus siūlymo cirkuliaras (toliau – cirkuliaras) – dokumentas, kuriame teikiama pagrindinė oficialaus siūlymo informacija. ^s-31667644f6e9b5cb0cc38fb0
@@ -190,10 +190,10 @@ Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 29. Profesionalusis investuotojas – investuotojas, atitinkantis [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]] profesionaliajam klientui nustatytus kriterijus. ^s-138d005c64833b4eda621ffa
 
 
-30. Prospektas – Reglamente (ES) 2017/1129 nustatyto turinio dokumentas. ^s-71f6ce10a2d46e41c772338f
+30. Prospektas – [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) nustatyto turinio dokumentas. ^s-71f6ce10a2d46e41c772338f
 
 
-31. Reglamentuojama informacija – informacija, kurią vertybinių popierių emitentas, siūlytojas ar asmuo, kuris kreipiasi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo, privalo teikti pagal šio įstatymo 11–15, 17, 18, 19 ir [[#^s-608c37ad2df144051f80ce13|22 straipsnius]], Reglamento (ES) 2023/2631 [[#^s-045f79f86a4b81c8348e7d0e|10 straipsnio 1 dalies]] a punktą ir Reglamento (ES) Nr. 596/2014 [[#^s-400b35d34c053435e6f41158|17 straipsnio 1 dalį]], [[#^s-c9ef568e7a8919988b612696|19 straipsnio 3 dalį]]. ^s-81ee4786a1ecca4d555c9351
+31. Reglamentuojama informacija – informacija, kurią vertybinių popierių emitentas, siūlytojas ar asmuo, kuris kreipiasi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo, privalo teikti pagal šio įstatymo [[#^s-94cabb9dae8b6bb2d6c330d0|11]]–[[#^s-f5890fcd8deba833da83b4b6|15]], [[#^s-ac84dbe5cd3781d37fa2b850|17]], [[#^s-3f8193dc76648da49fba8148|18]], [[#^s-1f2ac264ebc2fea3e4fcb8c1|19]] ir [[#^s-608c37ad2df144051f80ce13|22]] straipsnius, [Reglamento (ES) 2023/2631 10 straipsnio 1 dalies a punktą](https://eur-lex.europa.eu/eli/reg/2023/2631/art_10/par_1/lit_a/oj) ir Reglamento (ES) Nr. 596/2014 [[#^s-400b35d34c053435e6f41158|17 straipsnio 1 dalį]], [[#^s-c9ef568e7a8919988b612696|19 straipsnio 3 dalį]]. ^s-81ee4786a1ecca4d555c9351
 Straipsnio dalies pakeitimai:
 Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
@@ -245,10 +245,10 @@ Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 43. Vertybinių popierių viešosios apyvartos tarpininkas (toliau – tarpininkas) – finansų maklerio įmonė ar kredito įstaiga, turinčios teisę teikti investicines paslaugas. ^s-6a2f279417a7e12dcae0a7f2
 
 
-44. Jeigu šio įstatymo antrajame skyriuje vartojamos sąvokos Reglamente (ES) 2017/1129 apibrėžtos kitaip negu šiame straipsnyje, šios sąvokos turi būti suprantamos taip, kaip jos apibrėžtos Reglamente 2017/1129. ^s-12b9e24a1c3fafce10a99bc0
+44. Jeigu šio įstatymo antrajame skyriuje vartojamos sąvokos [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) apibrėžtos kitaip negu šiame straipsnyje, šios sąvokos turi būti suprantamos taip, kaip jos apibrėžtos Reglamente 2017/1129. ^s-12b9e24a1c3fafce10a99bc0
 
 
-45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) 2017/1129, Reglamente (ES) 2023/2631, [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]], [[latest/a71c2bf036d511efbdaea558de59136c|Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme]], [[latest/TAR.9845F775C518|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme]], [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatyme]], [[latest/TAR.ED28779BEADF|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme]], [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatyme]]. ^s-1b3d8ab877fd876ec66d2ca5
+45. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj), [Reglamente (ES) 2023/2631](https://eur-lex.europa.eu/eli/reg/2023/2631/oj), [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]], [[latest/a71c2bf036d511efbdaea558de59136c|Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme]], [[latest/TAR.9845F775C518|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme]], [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatyme]], [[latest/TAR.ED28779BEADF|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme]], [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatyme]]. ^s-1b3d8ab877fd876ec66d2ca5
 Straipsnio dalies pakeitimai:
 Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
@@ -279,7 +279,7 @@ VERTYBINIŲ POPIERIŲ VIEŠAS SIŪLYMAS IR ĮTRAUKIMAS Į PREKYBĄ REGULIUOJAMOJ
 2. Šiame skyriuje nustatytų informacinio dokumento rengimo ir paskelbimo reikalavimų turi būti laikomasi, kai emitento vertybinius popierius ketinama viešai siūlyti Lietuvos Respublikoje. Informacinio dokumento rengimo ir paskelbimo reikalavimai netaikomi emitentui, kuriam nustatyta pareiga parengti prospektą pagal Kolektyvinio investavimo subjektų įstatymą, Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymą, Alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą. ^s-883207a032fdceed27b770ca
 
 
-3. Šio skyriaus nuostatos netaikomos viešiems vertybinių popierių siūlymams, vykdomiems vadovaujantis 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937. ^s-0664f1bf8ba0d1dd7caeedab
+3. Šio skyriaus nuostatos netaikomos viešiems vertybinių popierių siūlymams, vykdomiems vadovaujantis 2020 m. spalio 7 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj) dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas [Reglamentas (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) ir [Direktyva (ES) 2019/1937](https://eur-lex.europa.eu/eli/dir/2019/1937/oj). ^s-0664f1bf8ba0d1dd7caeedab
 Papildyta straipsnio dalimi:
 Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
 
@@ -288,13 +288,13 @@ Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
 ### 5 straipsnis. Pareiga paskelbti prospektą ^s-6fae4305cb3667ece876920d
 
 
-1. Vertybiniai popieriai gali būti viešai siūlomi ir įtraukiami į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje tik po to, kai Reglamento (ES) 2017/1129 nustatyta tvarka vertybinių popierių emitentas ar siūlytojas paskelbia prospektą, išskyrus Reglamente (ES) 2017/1129 ir šiame įstatyme nustatytas išimtis. ^s-7d1232d4725867d6ab6f42d0
+1. Vertybiniai popieriai gali būti viešai siūlomi ir įtraukiami į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje tik po to, kai [Reglamento (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) nustatyta tvarka vertybinių popierių emitentas ar siūlytojas paskelbia prospektą, išskyrus [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) ir šiame įstatyme nustatytas išimtis. ^s-7d1232d4725867d6ab6f42d0
 
 
-2. Vadovaujantis Reglamento (ES) 2017/1129 [[#^s-9903e24eb1973510ff45427b|3 straipsniu]], pareiga paskelbti prospektą Lietuvos Respublikoje netaikoma, jeigu: ^s-d46add502fa2380f6828a909
+2. Vadovaujantis [Reglamento (ES) 2017/1129 3 straipsniu](https://eur-lex.europa.eu/eli/reg/2017/1129/art_3/oj), pareiga paskelbti prospektą Lietuvos Respublikoje netaikoma, jeigu: ^s-d46add502fa2380f6828a909
 
 
-1) viešai siūlomiems vertybiniams popieriams netaikoma pranešimo procedūra pagal Reglamento (ES) 2017/1129 [[#^s-f61686c3503cb0fe50bc3479|25 straipsnį]] ir ^s-b3314c92bdffab066a3c1ca8
+1) viešai siūlomiems vertybiniams popieriams netaikoma pranešimo procedūra pagal [Reglamento (ES) 2017/1129 25 straipsnį](https://eur-lex.europa.eu/eli/reg/2017/1129/art_25/oj) ir ^s-b3314c92bdffab066a3c1ca8
 
 
 2) emitento visų viešai siūlomų vertybinių popierių bendra pardavimo vertė valstybėse narėse nesiekia 12 000 000 eurų skaičiuojant per 12 mėnesių laikotarpį. ^s-6770fbe7be15f9829e998059
@@ -309,7 +309,7 @@ Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 1. Už prospekte pateiktos informacijos teisingumą ir išsamumą yra atsakingas bent emitentas arba emitento administravimo, valdymo ar priežiūros organas, siūlytojas, asmuo, kuris kreipiasi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje, arba garantas, priklausomai nuo konkretaus atvejo. ^s-cbcb6f26a8378c6279afb480
 
 
-2. Investuotojas, patyręs žalos dėl prospekte pateiktos neteisingos ar neišsamios informacijos, turi teisę Lietuvos Respublikos civilinio kodekso nustatyta tvarka iš atsakingų asmenų reikalauti žalos atlyginimo, tačiau šiems asmenims civilinė atsakomybė netaikoma, jeigu investicinis sprendimas buvo priimtas vadovaujantis vien tik prospekto santraukoje (įskaitant ir prospekto santraukos vertimą) pateikta informacija, išskyrus atvejus, kai prospekto santrauka, skaitoma kartu su kitomis prospekto dalimis, yra klaidinanti, netiksli arba nenuosekli arba joje, skaitant kartu su kitomis prospekto dalimis, nepateikiama prospekto santraukoje pagal Reglamentą (ES) 2017/1129 pateiktina informacija. ^s-cd6884ed782bebc69e27c549
+2. Investuotojas, patyręs žalos dėl prospekte pateiktos neteisingos ar neišsamios informacijos, turi teisę Lietuvos Respublikos civilinio kodekso nustatyta tvarka iš atsakingų asmenų reikalauti žalos atlyginimo, tačiau šiems asmenims civilinė atsakomybė netaikoma, jeigu investicinis sprendimas buvo priimtas vadovaujantis vien tik prospekto santraukoje (įskaitant ir prospekto santraukos vertimą) pateikta informacija, išskyrus atvejus, kai prospekto santrauka, skaitoma kartu su kitomis prospekto dalimis, yra klaidinanti, netiksli arba nenuosekli arba joje, skaitant kartu su kitomis prospekto dalimis, nepateikiama prospekto santraukoje pagal [Reglamentą (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) pateiktina informacija. ^s-cd6884ed782bebc69e27c549
 Straipsnio dalies pakeitimai:
 Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 
@@ -324,7 +324,7 @@ Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 
 
 
-2. Informacinio dokumento parengti ir paskelbti nereikalaujama, kai tenkinama bent viena Reglamente (ES) 2017/1129 nustatyta sąlyga, kai vertybinius popierius siūlant viešai nereikalaujama paskelbti prospekto. ^s-1971b54ce1f4861bbff008fb
+2. Informacinio dokumento parengti ir paskelbti nereikalaujama, kai tenkinama bent viena [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) nustatyta sąlyga, kai vertybinius popierius siūlant viešai nereikalaujama paskelbti prospekto. ^s-1971b54ce1f4861bbff008fb
 
 
 3. Už informacinio dokumento parengimą, paskelbimą ir informaciniame dokumente pateiktos informacijos teisingumą bei išsamumą yra atsakingas emitentas. ^s-253c37d2b096668876e0b460
@@ -374,7 +374,7 @@ PERIODINĖS IR EINAMOSIOS INFORMACIJOS ATSKLEIDIMAS
 2) ne valstybėje narėje įsteigtiems nuosavybės vertybinių popierių ir ne nuosavybės vertybinių popierių, kurių vieno vieneto nominalioji vertė yra mažesnė kaip 1 000 eurų, emitentams – valstybė narė, kurioje emitento vertybiniai popieriai buvo įtraukti į prekybą reguliuojamoje rinkoje. Buveinės valstybė narė nustatoma emitento pasirinkimu. Emitento pasirinkimas nustoja galioti, jeigu pagal [[#^s-8839f37a2499588dd03bc1fb|šio straipsnio 3 dalį]] pasirenkama nauja buveinės valstybė narė ir apie ją atitinkamai pranešama pagal [[#^s-2b8437e75604fcd52d22809f|šio straipsnio 5 dalį]], dieną, kuri nurodoma emitento pranešime; ^s-e8dfe8b0cdfba86587ca74cb
 
 
-3) šios dalies 1 ir [[#^s-e8dfe8b0cdfba86587ca74cb|2 punktuose]] nenurodytiems emitentams – valstybė narė, kurioje emitentas turi buveinę arba kurioje emitento vertybiniai popieriai buvo įtraukti į prekybą reguliuojamoje rinkoje. Buveinės valstybė narė nustatoma emitento pasirinkimu. Emitentas gali pasirinkti tik vieną valstybę narę, kuri ne trumpiau kaip 3 metus iš eilės bus jo buveinės valstybe nare, išskyrus atvejus, kai emitento vertybiniais popieriais daugiau neprekiaujama valstybės narės reguliuojamoje rinkoje arba kai emitentas per šį 3 metų laikotarpį pradeda atitikti šios dalies 1 arba [[#^s-e8dfe8b0cdfba86587ca74cb|2 punkte]] nustatytus reikalavimus. Emitento pasirinkimas nustoja galioti, jeigu pagal [[#^s-8839f37a2499588dd03bc1fb|šio straipsnio 3 dalį]] pasirenkama nauja buveinės valstybė narė. ^s-0a95b8347e530d1da513fad6
+3) šios dalies [[#^s-c1951f4b80b651bab17e7e63|1]] ir [[#^s-e8dfe8b0cdfba86587ca74cb|2]] punktuose nenurodytiems emitentams – valstybė narė, kurioje emitentas turi buveinę arba kurioje emitento vertybiniai popieriai buvo įtraukti į prekybą reguliuojamoje rinkoje. Buveinės valstybė narė nustatoma emitento pasirinkimu. Emitentas gali pasirinkti tik vieną valstybę narę, kuri ne trumpiau kaip 3 metus iš eilės bus jo buveinės valstybe nare, išskyrus atvejus, kai emitento vertybiniais popieriais daugiau neprekiaujama valstybės narės reguliuojamoje rinkoje arba kai emitentas per šį 3 metų laikotarpį pradeda atitikti šios dalies 1 arba [[#^s-e8dfe8b0cdfba86587ca74cb|2 punkte]] nustatytus reikalavimus. Emitento pasirinkimas nustoja galioti, jeigu pagal [[#^s-8839f37a2499588dd03bc1fb|šio straipsnio 3 dalį]] pasirenkama nauja buveinės valstybė narė. ^s-0a95b8347e530d1da513fad6
 
 
 3. Emitentai, kurie pagal Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatymą yra didelės įmonės (toliau – dideli emitentai) ir kurių vidutinis metinis darbuotojų skaičius per ataskaitinius finansinius metus paskutinę tų metų dieną viršija 500, ir emitentai, kurie yra didelės įmonių grupės, kaip jos suprantamos pagal Įmonių ir įmonių grupių atskaitomybės įstatymą, patronuojančiosios įmonės (toliau – patronuojančiosios įmonės), kai įmonių grupės vidutinis metinis darbuotojų skaičius per ataskaitinius finansinius metus paskutinę tų metų dieną viršija 500, vadovybės ataskaitoje ir (arba) konsoliduotojoje vadovybės ataskaitoje turi pateikti informaciją tvarumo klausimais pradedant 2024 m. sausio 1 d. ar vėliau prasidedančiais ataskaitiniais laikotarpiais, išskyrus [[#^s-abaa7b12fc8398f21e96ae0d|šio straipsnio 31 dalyje]] nustatytus atvejus. ^s-8839f37a2499588dd03bc1fb
@@ -392,7 +392,7 @@ Nr. XV-794, 2026-04-09, paskelbta TAR 2026-04-15, i. k. 2026-06070
 4. Ne valstybėse narėse įsteigti emitentai, kurių buveinės valstybė narė yra ne Lietuvos Respublika, turi atskleisti periodinę ir einamąją informaciją šiame skyriuje nustatyta tvarka, jeigu jų vertybiniai popieriai yra viešai siūlomi arba įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje. Priežiūros institucija turi teisę netaikyti emitentui, kurio buveinė yra ne valstybėje narėje, šiame skyriuje nustatytų reikalavimų, jeigu periodinė ir einamoji informacija parengta ir atskleista pagal valstybės, kurioje yra emitento buveinė, teisės aktų reikalavimus, kurie priežiūros institucijos sprendimu laikomi lygiaverčiais šiame skyriuje nustatytiems reikalavimams. Tokiu atveju priežiūros institucija apie pritaikytą išimtį informuoja Europos vertybinių popierių ir rinkų instituciją. ^s-524136a08861ca48a6cc1bd6
 
 
-5. Emitentai privalo pranešti apie savo pagal šio straipsnio 2 arba [[#^s-8839f37a2499588dd03bc1fb|3 dalį]] pasirinktą buveinės valstybę narę valstybės narės, kurioje yra emitento buveinė, buveinės valstybės narės ir priimančiųjų valstybių narių priežiūros institucijoms ir paskelbti šio įstatymo 21 ir [[#^s-73a6566a6f92acda891a3ff7|23 straipsniuose]] nustatyta tvarka. Jeigu emitentas per 3 mėnesius nuo tada, kai jo vertybiniai popieriai buvo įtraukti į prekybą reguliuojamoje rinkoje, apie savo buveinės valstybės narės pasirinkimą atitinkamai nepraneša valstybės narės, kurioje yra emitento buveinė, ir priimančiųjų valstybių narių priežiūros institucijoms ir nepaskelbia šio įstatymo 21 ir [[#^s-73a6566a6f92acda891a3ff7|23 straipsniuose]] nustatyta tvarka, pasibaigus šiam terminui buveinės valstybėmis narėmis laikomos visos valstybės narės, kuriose veikia reguliuojamos rinkos, kuriose leista prekiauti emitento vertybiniais popieriais, tol, kol emitentas pasirenka vieną buveinės valstybę narę ir apie ją paskelbia šio įstatymo 21 ir [[#^s-73a6566a6f92acda891a3ff7|23 straipsniuose]] nustatyta tvarka. ^s-2b8437e75604fcd52d22809f
+5. Emitentai privalo pranešti apie savo pagal šio straipsnio 2 arba [[#^s-8839f37a2499588dd03bc1fb|3 dalį]] pasirinktą buveinės valstybę narę valstybės narės, kurioje yra emitento buveinė, buveinės valstybės narės ir priimančiųjų valstybių narių priežiūros institucijoms ir paskelbti šio įstatymo [[#^s-5a72ef8ea423af5ab53196f7|21]] ir [[#^s-73a6566a6f92acda891a3ff7|23]] straipsniuose nustatyta tvarka. Jeigu emitentas per 3 mėnesius nuo tada, kai jo vertybiniai popieriai buvo įtraukti į prekybą reguliuojamoje rinkoje, apie savo buveinės valstybės narės pasirinkimą atitinkamai nepraneša valstybės narės, kurioje yra emitento buveinė, ir priimančiųjų valstybių narių priežiūros institucijoms ir nepaskelbia šio įstatymo [[#^s-5a72ef8ea423af5ab53196f7|21]] ir [[#^s-73a6566a6f92acda891a3ff7|23]] straipsniuose nustatyta tvarka, pasibaigus šiam terminui buveinės valstybėmis narėmis laikomos visos valstybės narės, kuriose veikia reguliuojamos rinkos, kuriose leista prekiauti emitento vertybiniais popieriais, tol, kol emitentas pasirenka vieną buveinės valstybę narę ir apie ją paskelbia šio įstatymo [[#^s-5a72ef8ea423af5ab53196f7|21]] ir [[#^s-73a6566a6f92acda891a3ff7|23]] straipsniuose nustatyta tvarka. ^s-2b8437e75604fcd52d22809f
 
 
 6. Šiame skyriuje nustatyti reikalavimai netaikomi atvirojo tipo kolektyvinio investavimo subjektų leidžiamiems (išleistiems) vertybiniams popieriams. ^s-e469e5cd0e017f9d54ff7361
@@ -448,7 +448,7 @@ Nr. XV-794, 2026-04-09, paskelbta TAR 2026-04-15, i. k. 2026-06070
 3. Emitento, kurio išleisti vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje Lietuvos Respublikoje, metinėje vadovybės ataskaitoje turi būti nurodyta, kaip jis laikosi šios reguliuojamos rinkos operatoriaus patvirtinto bendrovių, kurių vertybiniais popieriais prekiaujama reguliuojamoje rinkoje, valdymo kodekso. Jeigu tokių bendrovių valdymo kodekso ar kai kurių jo nuostatų nesilaikoma, metinėje vadovybės ataskaitoje turi būti konkrečiai nurodyta, kokių bendrovių valdymo kodekso nuostatų ir dėl kokių priežasčių nesilaikoma. ^s-e74879cf2ef9adb17b8e2d12
 
 
-4. Metinė informacija kartu su auditoriaus išvada, pasirašyta už auditą atsakingo auditoriaus (auditorių), kartu su tvarumo atskaitomybės užtikrinimo išvada, pasirašyta už tvarumo atskaitomybės užtikrinimą atsakingo auditoriaus (auditorių) arba tvarumo atskaitomybės užtikrinimo specialisto (specialistų), kai vadovybės ataskaitoje turi būti pateikta informacija tvarumo klausimais pagal Įmonių ir įmonių grupių atskaitomybės įstatymą, turi būti paskelbtos [[latest/a71c2bf036d511efbdaea558de59136c|Įmonių ir įmonių grupių atskaitomybės įstatymo]] ir šio įstatymo nustatyta tvarka ir pateiktos priežiūros institucijai ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos. Metinė informacija rengiama elektroniniu formatu, kaip tai nurodyta 2018 m. gruodžio 17 d. Komisijos deleguotajame reglamente (ES) 2019/815, kuriuo Europos Parlamento ir Tarybos direktyva 2004/109/EB papildoma techniniais reguliavimo standartais, kuriais nustatomas vienas elektroninio ataskaitų teikimo formatas, su visais pakeitimais. ^s-11d059a37be36b9d48ff2312
+4. Metinė informacija kartu su auditoriaus išvada, pasirašyta už auditą atsakingo auditoriaus (auditorių), kartu su tvarumo atskaitomybės užtikrinimo išvada, pasirašyta už tvarumo atskaitomybės užtikrinimą atsakingo auditoriaus (auditorių) arba tvarumo atskaitomybės užtikrinimo specialisto (specialistų), kai vadovybės ataskaitoje turi būti pateikta informacija tvarumo klausimais pagal Įmonių ir įmonių grupių atskaitomybės įstatymą, turi būti paskelbtos [[latest/a71c2bf036d511efbdaea558de59136c|Įmonių ir įmonių grupių atskaitomybės įstatymo]] ir šio įstatymo nustatyta tvarka ir pateiktos priežiūros institucijai ne vėliau kaip per 4 mėnesius nuo finansinių metų pabaigos. Metinė informacija rengiama elektroniniu formatu, kaip tai nurodyta 2018 m. gruodžio 17 d. Komisijos deleguotajame [reglamente (ES) 2019/815](https://eur-lex.europa.eu/eli/reg/2019/815/oj), kuriuo Europos Parlamento ir Tarybos direktyva 2004/109/EB papildoma techniniais reguliavimo standartais, kuriais nustatomas vienas elektroninio ataskaitų teikimo formatas, su visais pakeitimais. ^s-11d059a37be36b9d48ff2312
 
 
 5. Lietuvos Respublikoje įsteigtų emitentų finansinė apskaita turi būti tvarkoma ir metinės finansinės ataskaitos ir metinės konsoliduotosios finansinės ataskaitos turi būti parengtos taip, kad atitiktų finansinės apskaitos ir finansinių ataskaitų rengimo reikalavimus. Valstybėse narėse įsteigtų emitentų metinės finansinės ataskaitos ir metinės konsoliduotosios finansinės ataskaitos turi būti parengtos taip, kad atitiktų valstybės narės, kurioje įsteigtas emitentas, nacionaliniuose teisės aktuose tokioms ataskaitoms nustatytus reikalavimus. Ne valstybėse narėse įsteigtų emitentų metinės finansinės ataskaitos ir metinės konsoliduotosios finansinės ataskaitos turi būti parengtos vadovaujantis tarptautiniais finansinės atskaitomybės standartais arba jiems lygiaverčiu būdu. ^s-64d76efc503a78324534d6a7
@@ -563,7 +563,7 @@ Atsakingų asmenų (nurodant jų vardus, pavardes ir funkcijas) pareiškime už 
 1) emitento ataskaitinio laikotarpio finansinės ataskaitos arba įmonių grupės konsoliduotosios finansinės ataskaitos, parengtos pagal taikomus apskaitos standartus, atitinka tikrovę ir teisingai rodo emitento arba įmonių grupės turtą, įsipareigojimus, finansinę būklę, pelną arba nuostolius, pinigų srautus; ^s-1bd41b63a99b056767919c20
 
 
-2) emitento ataskaitinio laikotarpio vadovybės ataskaitoje arba konsoliduotojoje vadovybės ataskaitoje yra teisingai apžvelgti verslo plėtra ir veiklos rezultatai, pateiktas emitento arba įmonių grupės būklės kartu su pagrindinėmis rizikomis ir neapibrėžtumais, su kuriais susiduriama, aprašymas ir tais atvejais, kai pagal Įmonių ir įmonių grupių atskaitomybės įstatymą metinėje vadovybės ataskaitoje turi būti pateikta informacija tvarumo klausimais (konsoliduotoji informacija tvarumo klausimais), nurodoma, kad informacija tvarumo klausimais parengta pagal Europos tvarumo atskaitomybės standartus ir pagal nuostatas, kuriomis įgyvendinamos 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamento (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088, 8 straipsnio 4 dalies nuostatos. ^s-1847a634738d303aa94b8a77
+2) emitento ataskaitinio laikotarpio vadovybės ataskaitoje arba konsoliduotojoje vadovybės ataskaitoje yra teisingai apžvelgti verslo plėtra ir veiklos rezultatai, pateiktas emitento arba įmonių grupės būklės kartu su pagrindinėmis rizikomis ir neapibrėžtumais, su kuriais susiduriama, aprašymas ir tais atvejais, kai pagal Įmonių ir įmonių grupių atskaitomybės įstatymą metinėje vadovybės ataskaitoje turi būti pateikta informacija tvarumo klausimais (konsoliduotoji informacija tvarumo klausimais), nurodoma, kad informacija tvarumo klausimais parengta pagal Europos tvarumo atskaitomybės standartus ir pagal nuostatas, kuriomis įgyvendinamos 2020 m. birželio 18 d. Europos Parlamento ir Tarybos [reglamento (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas [Reglamentas (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj), [[#^s-11190da4231a29ce2c24d2e0|8]] straipsnio 4 dalies nuostatos. ^s-1847a634738d303aa94b8a77
 
 
 Papildyta straipsniu:
@@ -592,7 +592,7 @@ Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 5) suteikia akcijos, kuriomis jis, kaip uzufruktorius, turi teisę naudotis visą savo gyvenimą ar apibrėžtą laiką, kuris negali būti ilgesnis už asmens gyvenimo trukmę; ^s-de713165facfe2c9bcd68074
 
 
-6) pagal šios dalies 1–[[#^s-de713165facfe2c9bcd68074|5 punktus]] turi asmens kontroliuojamoji įmonė; ^s-5b6e18bc010668fce3b1f71e
+6) pagal šios dalies [[#^s-c4bec297e859a7f27c239614|1]]–[[#^s-de713165facfe2c9bcd68074|5]] punktus turi asmens kontroliuojamoji įmonė; ^s-5b6e18bc010668fce3b1f71e
 
 
 7) suteikia jam patikėjimo teise perduotos arba kitaip deponuotos akcijos, jeigu jis, kai nėra kitokių nurodymų, gali naudotis balsavimo teisėmis savo nuožiūra; ^s-e80a80b5c8c308e588d95e7c
@@ -734,13 +734,13 @@ Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 1) sprendimas dėl galimybės perduoti informaciją elektroninėmis priemonėmis priimamas vertybinių popierių savininkų susirinkime; ^s-928e6f3a7dad9094ecf795b3
 
 
-2) naudojimasis elektroninėmis priemonėmis nepriklauso nuo vertybinių popierių savininko, jo atstovo arba šio įstatymo [[#^s-8d65de49a372df965cb09ca4|16 straipsnio 1 dalies]] 2–10 punktuose nurodytų fizinių ar juridinių asmenų buveinės arba rezidencijos vietos; ^s-84bee1d8aeb89abac69c6a4e
+2) naudojimasis elektroninėmis priemonėmis nepriklauso nuo vertybinių popierių savininko, jo atstovo arba šio įstatymo [[#^s-8d65de49a372df965cb09ca4|16 straipsnio 1 dalies]] [[#^s-3d4c0230df2bf004977446be|2]]–[[#^s-cda1ad9d661b82994dc6580f|10]] punktuose nurodytų fizinių ar juridinių asmenų buveinės arba rezidencijos vietos; ^s-84bee1d8aeb89abac69c6a4e
 
 
 3) yra parengtos identifikavimo priemonės, kad vertybinių popierių savininkai, jų atstovai arba fiziniai ir juridiniai asmenys, kuriems suteikta teisė naudotis arba vadovauti naudojantis balsavimo teisėmis, būtų tinkamai informuojami; ^s-125e2884b3c73a7f3d6853ac
 
 
-4) vertybinių popierių savininkai arba šio įstatymo [[#^s-8d65de49a372df965cb09ca4|16 straipsnio 1 dalies]] 2–6 punktuose nurodyti fiziniai ar juridiniai asmenys, turintys teisę įsigyti, perleisti balsavimo teises arba naudotis jomis, yra raštu patvirtinę sutikimą gauti informaciją elektroninėmis priemonėmis. Šie asmenys turi teisę bet kuriuo metu prašyti, kad informacija būtų pateikiama popieriuje; ^s-347e6d2dc415354595a84c9e
+4) vertybinių popierių savininkai arba šio įstatymo [[#^s-8d65de49a372df965cb09ca4|16 straipsnio 1 dalies]] [[#^s-3d4c0230df2bf004977446be|2]]–[[#^s-5b6e18bc010668fce3b1f71e|6]] punktuose nurodyti fiziniai ar juridiniai asmenys, turintys teisę įsigyti, perleisti balsavimo teises arba naudotis jomis, yra raštu patvirtinę sutikimą gauti informaciją elektroninėmis priemonėmis. Šie asmenys turi teisę bet kuriuo metu prašyti, kad informacija būtų pateikiama popieriuje; ^s-347e6d2dc415354595a84c9e
 
 
 5) bet kokį sąnaudų, susijusių su informacijos perdavimu elektroninėmis priemonėmis, paskirstymą emitentas nustatė laikydamasis [[#^s-dc52da5bc3a07dfc8255d294|šio straipsnio 1 dalyje]] nustatyto vienodų teisių ir sąlygų principo. ^s-a3f13823b082d9949e8ca126
@@ -762,10 +762,10 @@ Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 4. Jeigu vertybiniai popieriai viešai siūlomi arba jais leidžiama prekiauti reguliuojamoje rinkoje vienoje ar keliose valstybėse narėse, išskyrus Lietuvos Respubliką, kuri yra emitento buveinės valstybė narė, reglamentuojama informacija emitento pasirinkimu turi būti paskelbta priimančiųjų valstybių narių priežiūros institucijoms priimtina kalba arba anglų kalba. ^s-07b7c3e4c90edc1efc336153
 
 
-5. Jeigu vertybiniais popieriais reguliuojamoje rinkoje leidžiama prekiauti be emitento sutikimo, šio straipsnio 1–[[#^s-07b7c3e4c90edc1efc336153|4 dalyse]] nustatytų reikalavimų privalo laikytis asmuo, kuris kreipiasi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo ir kuriam tais vertybiniais popieriais leista prekiauti. ^s-2ca93b48cbee7057cd5aeaa9
+5. Jeigu vertybiniais popieriais reguliuojamoje rinkoje leidžiama prekiauti be emitento sutikimo, šio straipsnio [[#^s-a0d183503b94dfb9517bd5dc|1]]–[[#^s-07b7c3e4c90edc1efc336153|4]] dalyse nustatytų reikalavimų privalo laikytis asmuo, kuris kreipiasi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo ir kuriam tais vertybiniais popieriais leista prekiauti. ^s-2ca93b48cbee7057cd5aeaa9
 
 
-6. Emitento akcininkai ir šio įstatymo 15 ir [[#^s-e67992d0ea8f6a1b071bb1d4|16 straipsniuose]] nurodyti asmenys reglamentuojamą informaciją turi teisę pateikti tik anglų kalba. ^s-36d823210d8ae1abeea83aee
+6. Emitento akcininkai ir šio įstatymo [[#^s-f5890fcd8deba833da83b4b6|15]] ir [[#^s-e67992d0ea8f6a1b071bb1d4|16]] straipsniuose nurodyti asmenys reglamentuojamą informaciją turi teisę pateikti tik anglų kalba. ^s-36d823210d8ae1abeea83aee
 
 
 7. Jeigu vertybiniais popieriais, kurių vieno vieneto nominalioji vertė yra ne mažesnė kaip 100 000 eurų, leidžiama prekiauti reguliuojamoje rinkoje vienoje ar keliose valstybėse narėse, reglamentuojama informacija emitento arba asmens, kuris kreipėsi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo, pasirinkimu turi būti pateikta buveinės valstybės narės ir priimančiųjų valstybių narių priežiūros institucijoms priimtina kalba arba anglų kalba. Ši nuostata taikoma ir ne nuosavybės vertybiniams popieriams, kuriais leista prekiauti vienos ar kelių valstybių narių reguliuojamoje rinkoje anksčiau negu 2010 m. gruodžio 31 d. ir kurių vieno vieneto nominalioji vertė yra ne mažesnė kaip 50 000 eurų, tol, kol tokie ne nuosavybės vertybiniai popieriai išperkami. ^s-abd0ab27b73c0c025cc5a93a
@@ -775,7 +775,7 @@ Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 ### 22 straipsnis. Mokėjimų valdžios institucijoms ataskaita ir konsoliduotoji mokėjimų valdžios institucijoms ataskaita ^s-608c37ad2df144051f80ce13
 
 
-Emitentai, kurie yra įmonės, vykdančios veiklą, nurodytą 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1893/2006, nustatančio statistinį ekonominės veiklos rūšių klasifikatorių NACE 2 red. ir iš dalies keičiančio Tarybos reglamentą (EEB) Nr. 3037/90 bei tam tikrus EB reglamentus dėl konkrečių statistikos sričių, su visais pakeitimais I priedo B sekcijos 05–08 skyriuose ir I priedo A sekcijos 02 skyriaus 02.2 grupėje, [[latest/a71c2bf036d511efbdaea558de59136c|Įmonių ir įmonių grupių atskaitomybės įstatymo]] nustatyta tvarka privalo kiekvienais metais parengti mokėjimų valdžios institucijoms ataskaitą arba konsoliduotąją mokėjimų valdžios institucijoms ataskaitą, šią ataskaitą paskelbti ir įdėti į Centrinę reglamentuojamos informacijos bazę. Ataskaita paskelbiama ne vėliau kaip per 6 mėnesius nuo finansinių metų pabaigos. Valdžios institucijoms atlikti mokėjimai šioje ataskaitoje nurodomi konsoliduotu lygmeniu.
+Emitentai, kurie yra įmonės, vykdančios veiklą, nurodytą 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1893/2006](https://eur-lex.europa.eu/eli/reg/1893/2006/oj), nustatančio statistinį ekonominės veiklos rūšių klasifikatorių NACE 2 red. ir iš dalies keičiančio Tarybos [reglamentą (EEB) Nr. 3037/90](https://eur-lex.europa.eu/eli/reg/3037/90/oj) bei tam tikrus EB reglamentus dėl konkrečių statistikos sričių, su visais pakeitimais I priedo B sekcijos 05–08 skyriuose ir I priedo A sekcijos 02 skyriaus 02.2 grupėje, [[latest/a71c2bf036d511efbdaea558de59136c|Įmonių ir įmonių grupių atskaitomybės įstatymo]] nustatyta tvarka privalo kiekvienais metais parengti mokėjimų valdžios institucijoms ataskaitą arba konsoliduotąją mokėjimų valdžios institucijoms ataskaitą, šią ataskaitą paskelbti ir įdėti į Centrinę reglamentuojamos informacijos bazę. Ataskaita paskelbiama ne vėliau kaip per 6 mėnesius nuo finansinių metų pabaigos. Valdžios institucijoms atlikti mokėjimai šioje ataskaitoje nurodomi konsoliduotu lygmeniu.
 
 
 Straipsnio pakeitimai:
@@ -802,13 +802,13 @@ Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 5. Reguliuojamos rinkos operatorius užtikrina, kad Centrinė reglamentuojamos informacijos bazė atitiktų saugos, informacijos šaltinio tikrumo, laiko įrašymo ir galutiniams vartotojams patogios prieigos kokybės standartus, nediskriminacinę, neatlygintiną ir greitą prieigą prie saugomos informacijos. Šiuo tikslu reguliuojamos rinkos operatorius, suderinęs su priežiūros institucija, nustato informacijos teikimo, saugojimo ir naudojimo tvarką ir užtikrina, kad šios tvarkos būtų laikomasi. Informacijos skelbimo ir saugojimo priežiūrą atlieka priežiūros institucija. ^s-4cc81309a4aa05037d07439f
 
 
-51. Emitentas, kaip jis apibrėžiamas Reglamento (ES) 2023/2631 2 straipsnio 1 punkte, viešai skelbdamas Reglamento (ES) 2023/2631 [[#^s-61aa3c521f657c600b75be3b|20 straipsnyje]] nurodytą informaciją prieš emisiją bei šio reglamento [[#^s-5a72ef8ea423af5ab53196f7|21 straipsnyje]] nurodytą periodinę informaciją po emisijos, turi informaciją iš karto įkelti į Centrinę reglamentuojamos informacijos bazę, kad ši informacija būtų prieinama Europos bendrame prieigos punkte. ^s-73ee5bc7d95b2145de19bb48
+51. Emitentas, kaip jis apibrėžiamas [Reglamento (ES) 2023/2631 2 straipsnio](https://eur-lex.europa.eu/eli/reg/2023/2631/art_2/oj) 1 punkte, viešai skelbdamas [Reglamento (ES) 2023/2631 20 straipsnyje](https://eur-lex.europa.eu/eli/reg/2023/2631/art_20/oj) nurodytą informaciją prieš emisiją bei šio reglamento [[#^s-5a72ef8ea423af5ab53196f7|21 straipsnyje]] nurodytą periodinę informaciją po emisijos, turi informaciją iš karto įkelti į Centrinę reglamentuojamos informacijos bazę, kad ši informacija būtų prieinama Europos bendrame prieigos punkte. ^s-73ee5bc7d95b2145de19bb48
 Papildyta straipsnio dalimi:
 Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 
 
 
-6. Reguliuojamos rinkos operatorius užtikrina, kad į Centrinę reglamentuojamos informacijos bazę pateikta emitentų arba asmenų, kurie kreipiasi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo ir kurių finansinės priemonės įtrauktos į prekybą prekybos vietoje, reglamentuojama informacija ir kitų subjektų pagal [[#^s-73ee5bc7d95b2145de19bb48|šio straipsnio 51 dalį]] ir šio įstatymo [[#^s-d004c66ef301fbd0a9ddeb25|30 straipsnio 10 dalį]], Finansinių priemonių rinkų įstatymo 25 straipsnio 9 dalį ir 64 straipsnio 12 dalį, Akcinių bendrovių įstatymo 262 straipsnio 6 dalį pateikta informacija būtų prieinama Europos bendrame prieigos punkte. Reguliuojamos rinkos operatorius taip pat užtikrina, kad šioje dalyje nurodytų subjektų į Centrinę reglamentuojamos informacijos bazę savanoriškai pateikta informacija, įskaitant Finansinių priemonių rinkų įstatymo 29 straipsnio 149 dalyje nurodytą informaciją, vadovaujantis Reglamento (ES) 2023/2859 [[#^s-9903e24eb1973510ff45427b|3 straipsniu]], būtų prieinama Europos bendrame prieigos punkte. ^s-02dd5521c0f52aa9d6cd6b4b
+6. Reguliuojamos rinkos operatorius užtikrina, kad į Centrinę reglamentuojamos informacijos bazę pateikta emitentų arba asmenų, kurie kreipiasi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo ir kurių finansinės priemonės įtrauktos į prekybą prekybos vietoje, reglamentuojama informacija ir kitų subjektų pagal [[#^s-73ee5bc7d95b2145de19bb48|šio straipsnio 51 dalį]] ir šio įstatymo [[#^s-d004c66ef301fbd0a9ddeb25|30 straipsnio 10 dalį]], [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymo 25 straipsnio 9 dalį]] ir 64 straipsnio 12 dalį, Akcinių bendrovių įstatymo 262 straipsnio 6 dalį pateikta informacija būtų prieinama Europos bendrame prieigos punkte. Reguliuojamos rinkos operatorius taip pat užtikrina, kad šioje dalyje nurodytų subjektų į Centrinę reglamentuojamos informacijos bazę savanoriškai pateikta informacija, įskaitant [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymo 29 straipsnio 149 dalyje]] nurodytą informaciją, vadovaujantis [Reglamento (ES) 2023/2859 3 straipsniu](https://eur-lex.europa.eu/eli/reg/2023/2859/art_3/oj), būtų prieinama Europos bendrame prieigos punkte. ^s-02dd5521c0f52aa9d6cd6b4b
 Straipsnio dalies pakeitimai:
 Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 
@@ -892,7 +892,7 @@ Taikant šiame skyriuje nustatytus reikalavimus, turi būti vadovaujamasi šiais
 3. Asmuo, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, įgijęs akcijų, kurios kartu su jo turimu akcijų paketu arba kartu su kitų sutartinai veikiančių asmenų turimu akcijų paketu suteikia daugiau kaip 1/3 bendrovės, dėl kurios akcijų teiktinas oficialus siūlymas, balsų, privalo nedelsdamas, ne vėliau kaip per 4 prekybos dienas, paskelbti bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas, įstatuose nurodytame šaltinyje apie 1/3 balsų ribos peržengimą ir apie savo ketinimą teikti privalomą oficialų siūlymą ar ketinimą perleisti šią balsų ribą viršijančias akcijas, taip pat apie tai pranešti priežiūros institucijai, reguliuojamos rinkos operatoriui ir bendrovei, dėl kurios akcijų teiktinas oficialus siūlymas. Tokiu pačiu būdu turi būti skelbiama informacija apie nustatytą balsų ribą viršijančių akcijų perleidimo faktą, jeigu, vadovaujantis [[#^s-e3a834f24ec4b571b517aff4|šio straipsnio 1 dalies 1 punktu]], privalomas oficialus siūlymas neteikiamas. ^s-e335ad4d3a55f5b53885ab59
 
 
-4. Šio straipsnio 1 ir [[#^s-95f1dd972f3d60b7946dd3f3|2 dalyse]] nustatyta pareiga atsiranda tą dieną, kurią asmuo sužino apie nustatyto kiekio balsų įgijimą arba pagal aplinkybes turi apie tai sužinoti. ^s-33f4d7041ed3e09eee6338df
+4. Šio straipsnio [[#^s-9b3994b71374f00f986ac472|1]] ir [[#^s-95f1dd972f3d60b7946dd3f3|2]] dalyse nustatyta pareiga atsiranda tą dieną, kurią asmuo sužino apie nustatyto kiekio balsų įgijimą arba pagal aplinkybes turi apie tai sužinoti. ^s-33f4d7041ed3e09eee6338df
 
 
 5. Oficialaus siūlymo teikėjas per 20 dienų nuo [[#^s-e335ad4d3a55f5b53885ab59|šio straipsnio 3 dalyje]] nustatyto paskelbimo apie ketinimą teikti privalomą oficialų siūlymą dienos privalo pateikti priežiūros institucijai cirkuliarą. ^s-58c8d7d7befa96485381487e
@@ -949,7 +949,7 @@ Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 7) jis, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis pateikęs savanorišką oficialų siūlymą įsigyti visus bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas, vertybinius popierius už kainą, nustatytą pagal šio įstatymo [[#^s-2293db31ea01baa114b50a2a|29 straipsnio]] reikalavimus, įgyja daugiau kaip 1/3 balsų; ^s-225b6268d4f51d14f9e788e1
 
 
-8) balsų riba peržengiama taikant Lietuvos Respublikos finansinio tvarumo įstatymą arba 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentą (ES) 2021/23 dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1095/2010, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132. ^s-c0982c6e420f81da35f68345
+8) balsų riba peržengiama taikant Lietuvos Respublikos finansinio tvarumo įstatymą arba 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos [reglamentą (ES) 2021/23](https://eur-lex.europa.eu/eli/reg/2021/23/oj) dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami [reglamentai (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj), (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132. ^s-c0982c6e420f81da35f68345
 Straipsnio punkto pakeitimai:
 Nr. XIV-1456, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22567
 
@@ -1044,7 +1044,7 @@ Nr. XIV-1456, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22567
 8. Šio straipsnio reikalavimai dėl privalomo oficialaus siūlymo kainos nustatymo mutatis mutandis taikomi bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas ir kuri įsteigta Lietuvos Respublikoje, vertybiniams popieriams, kuriais Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje ir daugiašalėje prekybos sistemoje neprekiaujama. ^s-7d3703dbc3cf61956749310d
 
 
-9. Priežiūros institucija užtikrina, kad šio straipsnio 3 ir [[#^s-8bdfafaaff056e89d6dcf292|4 dalyse]] nurodytas priežiūros institucijos sprendimas būtų prieinamas Europos bendrame prieigos punkte. ^s-edd3200e4879547ddec78ea5
+9. Priežiūros institucija užtikrina, kad šio straipsnio [[#^s-6e5bab92f90c530dd8cf6098|3]] ir [[#^s-8bdfafaaff056e89d6dcf292|4]] dalyse nurodytas priežiūros institucijos sprendimas būtų prieinamas Europos bendrame prieigos punkte. ^s-edd3200e4879547ddec78ea5
 Papildyta straipsnio dalimi:
 Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 
@@ -1080,7 +1080,7 @@ Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 9. Jeigu bendrovėje yra sudaroma valdyba, šiame straipsnyje nustatytas valdymo organų pareigas atlieka tos bendrovės valdyba. ^s-2bfa5860d2109c06f93ea3cc
 
 
-10. Bendrovės, dėl kurių akcijų teiktinas arba teikiamas oficialus siūlymas, informaciją, nurodytą šio įstatymo [[#^s-3c1376e7dffc16bad0d33eb0|26 straipsnio]] 3, 7 ir [[#^s-cdbb927ca795eb3660730c5e|8 dalyse]], [[#^s-a2da7cd04d75071d809aff75|šio straipsnio 2 dalyje]], [[#^s-3af9756e03a1e5e2c296b5b2|34 straipsnio 2 dalyje]], turi įkelti į Centrinę reglamentuojamos informacijos bazę, kad ši informacija būtų prieinama Europos bendrame prieigos punkte. ^s-d004c66ef301fbd0a9ddeb25
+10. Bendrovės, dėl kurių akcijų teiktinas arba teikiamas oficialus siūlymas, informaciją, nurodytą šio įstatymo [[#^s-3c1376e7dffc16bad0d33eb0|26 straipsnio]] [[#^s-e335ad4d3a55f5b53885ab59|3]], [[#^s-216ba1dab59a5985cf98e82f|7]] ir [[#^s-ac5565c3c3d0619c64b4ba01|8]] dalyse, [[#^s-a2da7cd04d75071d809aff75|šio straipsnio 2 dalyje]], [[#^s-3af9756e03a1e5e2c296b5b2|34 straipsnio 2 dalyje]], turi įkelti į Centrinę reglamentuojamos informacijos bazę, kad ši informacija būtų prieinama Europos bendrame prieigos punkte. ^s-d004c66ef301fbd0a9ddeb25
 Papildyta straipsnio dalimi:
 Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 
@@ -1098,7 +1098,7 @@ Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 3. Visuotiniame akcininkų susirinkime, kuriame sprendžiami šio įstatymo [[#^s-16a3b512340946d8a7208b4e|30 straipsnio 5 dalyje]] nurodyti klausimai, daugiabalsis vertybinis popierius suteikia tik vieną balsą. ^s-6fab9a2b614c5668c568049e
 
 
-4. Jeigu oficialaus siūlymo teikėjas po oficialaus siūlymo įgyja 75 procentus ar daugiau procentų balsavimo teisę suteikiančių akcijų, vertybinių popierių perleidimo ar balsavimo teisių apribojimai, nurodyti šio straipsnio 1 ir [[#^s-57085fb6bce1e9bec9c0c7ca|2 dalyse]], taip pat bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas, įstatuose nustatytos akcininkų specialiosios teisės rinkti ar atšaukti valdybos narius netaikomi. ^s-8daaa80d2d3711e2af4546c2
+4. Jeigu oficialaus siūlymo teikėjas po oficialaus siūlymo įgyja 75 procentus ar daugiau procentų balsavimo teisę suteikiančių akcijų, vertybinių popierių perleidimo ar balsavimo teisių apribojimai, nurodyti šio straipsnio [[#^s-67c8fd5e35367ccb0b47aaed|1]] ir [[#^s-57085fb6bce1e9bec9c0c7ca|2]] dalyse, taip pat bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas, įstatuose nustatytos akcininkų specialiosios teisės rinkti ar atšaukti valdybos narius netaikomi. ^s-8daaa80d2d3711e2af4546c2
 
 
 5. Oficialaus siūlymo teikėjas, siekdamas pakeisti bendrovės įstatus, atšaukti ar rinkti valdybos narius, šaukia visuotinį akcininkų susirinkimą. Pirmajame po oficialaus siūlymo įgyvendinimo dienos visuotiniame akcininkų susirinkime daugiabalsis vertybinis popierius suteikia tik vieną balsą. ^s-6371157ee3e261d5dd6fb0fc
@@ -1107,7 +1107,7 @@ Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 6. [[#^s-6371157ee3e261d5dd6fb0fc|Šio straipsnio 5 dalyje]] numatytu atveju oficialaus siūlymo teikėjas turi teisę šaukti visuotinį akcininkų susirinkimą ir apie tai privalo paskelbti bendrovės įstatuose nurodytame šaltinyje ne vėliau kaip likus 15 dienų iki visuotinio akcininkų susirinkimo dienos. ^s-46ef8783a06412d080edfd23
 
 
-7. Visi teisių turėtojų nuostoliai, atsiradę įgyvendinant šio straipsnio 1–[[#^s-6371157ee3e261d5dd6fb0fc|5 dalių]] reikalavimus, turi būti teisingai kompensuojami. Oficialaus siūlymo teikėjas privalo kompensavimo tvarką nustatyti cirkuliare. Šio straipsnio 2–[[#^s-6371157ee3e261d5dd6fb0fc|5 dalys]] netaikomos tiems vertybiniams popieriams, už kurių suteikiamų balsų apribojimą yra kompensuojama specialiomis turtinėmis privilegijomis. Ginčai dėl kompensacijų sprendžiami teisme. ^s-c6966f47ac38e953605c3aa8
+7. Visi teisių turėtojų nuostoliai, atsiradę įgyvendinant šio straipsnio [[#^s-67c8fd5e35367ccb0b47aaed|1]]–[[#^s-6371157ee3e261d5dd6fb0fc|5]] dalių reikalavimus, turi būti teisingai kompensuojami. Oficialaus siūlymo teikėjas privalo kompensavimo tvarką nustatyti cirkuliare. Šio straipsnio [[#^s-57085fb6bce1e9bec9c0c7ca|2]]–[[#^s-6371157ee3e261d5dd6fb0fc|5]] dalys netaikomos tiems vertybiniams popieriams, už kurių suteikiamų balsų apribojimą yra kompensuojama specialiomis turtinėmis privilegijomis. Ginčai [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) sprendžiami teisme. ^s-c6966f47ac38e953605c3aa8
 
 
 
@@ -1165,7 +1165,7 @@ Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 7. Prie [[#^s-f83cc9e7d6984e6a204e61e2|šio straipsnio 6 dalyje]] nurodyto pranešimo emitentui pridedami dokumentai, kuriais pagrindžiamas akcijų kainos nustatymas: ^s-9adc48dbc7b76e12de60b3ff
 
 
-1) [[#^s-c82205da9d204b8e6e2b4e7a|šio straipsnio 4 dalies]] 1 ir [[#^s-33ca4d1355c4423882e7205a|2 punktuose]] nurodytais atvejais – cirkuliaras ir oficialaus siūlymo įgyvendinimo ataskaita; ^s-331ce621ee626651a8dc4c98
+1) [[#^s-c82205da9d204b8e6e2b4e7a|šio straipsnio 4 dalies]] 1 ir [[#^s-33ca4d1355c4423882e7205a|2]] punktuose nurodytais atvejais – cirkuliaras ir oficialaus siūlymo įgyvendinimo ataskaita; ^s-331ce621ee626651a8dc4c98
 
 
 2) [[#^s-bc5c937b268dce726c686bce|šio straipsnio 4 dalies 3 punkte]] nurodytu atveju – kiti dokumentai, kuriais pagrindžiama nustatyta akcijų kaina pagal pasirinktą jos nustatymo būdą. ^s-33ca4d1355c4423882e7205a
@@ -1207,7 +1207,7 @@ Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 14. Nuosavybės vertybinių popierių emitento akcininkas turi teisę reikalauti, kad akcininkas, kuris, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, įsigijo akcijų, sudarančių ne mažiau kaip 95 procentus balsavimo teises suteikiančio kapitalo ir ne mažiau kaip 95 procentus visų balsų, nupirktų jam priklausančias balsavimo teisę suteikiančias akcijas, o šis akcininkas privalo jas nupirkti šio įstatymo nustatyta tvarka. ^s-eee480a3b3d702be2c9d0e33
 
 
-15. Tais atvejais, kai kuris nors akcininkas reikalauja, kad akcininkas, kuris, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, įsigijo akcijų, sudarančių ne mažiau kaip 95 procentus balsavimo teises suteikiančio kapitalo ir ne mažiau kaip 95 procentus visų balsų, nupirktų jam priklausančias akcijas, mutatis mutandis taikomos šio straipsnio 2–10, 12, [[#^s-5b63708dcce6a61f0c9bd6db|13 dalių]] nuostatos. ^s-4dd662480954c259828e950e
+15. Tais atvejais, kai kuris nors akcininkas reikalauja, kad akcininkas, kuris, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, įsigijo akcijų, sudarančių ne mažiau kaip 95 procentus balsavimo teises suteikiančio kapitalo ir ne mažiau kaip 95 procentus visų balsų, nupirktų jam priklausančias akcijas, mutatis mutandis taikomos šio straipsnio [[#^s-752c3a5dbb8202e4e0cba1d6|2]]–[[#^s-84db10437ec7f1751931c55b|10]], [[#^s-b2287bd4cbfb31b869bdc37e|12]], [[#^s-5b63708dcce6a61f0c9bd6db|13]] dalių nuostatos. ^s-4dd662480954c259828e950e
 
 
 16. Jeigu akcininkas per [[#^s-a33aa7490484a681ad89670d|šio straipsnio 9 dalyje]] nustatytą terminą neįvykdo prievolės privalomai nupirkti akcijas ir neužginčija akcijų kainos, jis privalo sumokėti 10 procentų metinių palūkanų nuo sumos, kurios mokėjimo terminas praleistas. ^s-a3d736a7e7af99087926644f
@@ -1288,7 +1288,7 @@ Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 ### 35 straipsnis. Taikytina teisė ^s-b4eb130df5d35ab2a81d8b36
 
 
-1. Šio įstatymo [[#^s-dea808aabbf0d2cf8bde27df|34 straipsnio 1 dalies]] 3, 4, 5 punktuose nurodytais atvejais sprendžiant klausimus dėl oficialaus siūlymo kainos, atsiskaitymo būdo, paskelbimo procedūros, oficialaus siūlymo teikėjo sprendimo teikti oficialų siūlymą, cirkuliaro turinio ir oficialaus siūlymo pateikimo, taikoma Lietuvos Respublikos teisė. ^s-acb0945c2f88bc388dbeb0a8
+1. Šio įstatymo [[#^s-dea808aabbf0d2cf8bde27df|34 straipsnio 1 dalies]] [[#^s-17b83b5c93dadce41c5c14aa|3]], [[#^s-24b9a993bdc26afe403a1c4f|4]], [[#^s-e81f63953acfd735892d49f0|5]] punktuose nurodytais atvejais sprendžiant klausimus dėl oficialaus siūlymo kainos, atsiskaitymo būdo, paskelbimo procedūros, oficialaus siūlymo teikėjo sprendimo teikti oficialų siūlymą, cirkuliaro turinio ir oficialaus siūlymo pateikimo, taikoma Lietuvos Respublikos teisė. ^s-acb0945c2f88bc388dbeb0a8
 
 
 2. Sprendžiant klausimus, susijusius su informacija, kuri turi būti pateikta bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas, darbuotojams, su bendrovių teise, ypač su balsavimo teisių, kurias įgijus turi būti teikiamas oficialus siūlymas, procentine dalimi, pareigos pateikti oficialų siūlymą išimtimis, taip pat su sąlygomis, kuriomis bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas, valdymo organai gali imtis priemonių oficialaus siūlymo įgyvendinimo procedūrai sukliudyti, taikoma tos valstybės narės, kurioje bendrovė, dėl kurios akcijų teikiamas oficialus siūlymas, buvo įsteigta, teisė ir šiuos klausimus prižiūri atitinkama tos valstybės narės priežiūros institucija. ^s-b6db9f768863f34f1798560e
@@ -1306,7 +1306,7 @@ Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
 1. Prospekto rengimą, tvirtinimą ir skelbimą, periodinės ir einamosios informacijos skelbimą ir saugojimą, oficialių siūlymų įgyvendinimą reguliuoja ir prižiūri priežiūros institucija. ^s-9129f70dbc8a3a8e78d2aef2
 
 
-2. Priežiūros institucija [[#^s-9129f70dbc8a3a8e78d2aef2|šio straipsnio 1 dalyje]] nurodytas funkcijas atlieka vadovaudamasi [[latest/TAR.1B4D7B687895|Lietuvos Respublikos Lietuvos banko įstatymu]], šiuo įstatymu, [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymu]], Reglamentu (ES) 2017/1129, Reglamentu (ES) 2023/2631 ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai. ^s-5d5b5c97d0ee95f4d85457a2
+2. Priežiūros institucija [[#^s-9129f70dbc8a3a8e78d2aef2|šio straipsnio 1 dalyje]] nurodytas funkcijas atlieka vadovaudamasi [[latest/TAR.1B4D7B687895|Lietuvos Respublikos Lietuvos banko įstatymu]], šiuo įstatymu, [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymu]], [Reglamentu (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj), [Reglamentu (ES) 2023/2631](https://eur-lex.europa.eu/eli/reg/2023/2631/oj) ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai. ^s-5d5b5c97d0ee95f4d85457a2
 Straipsnio dalies pakeitimai:
 Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
@@ -1318,7 +1318,7 @@ Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 1. Priežiūros institucija: ^s-2b0f2b467f486d2c8fc73634
 
 
-1) tvirtina vertybinių popierių prospektus, prospektų priedus ir atlieka kitas kompetentingai institucijai priskirtas funkcijas, nustatytas Reglamente (ES) 2017/1129 ir Reglamente (ES) 2023/2631; ^s-bc2c3c2d0409512e62720bbd
+1) tvirtina vertybinių popierių prospektus, prospektų priedus ir atlieka kitas kompetentingai institucijai priskirtas funkcijas, nustatytas [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) ir [Reglamente (ES) 2023/2631](https://eur-lex.europa.eu/eli/reg/2023/2631/oj); ^s-bc2c3c2d0409512e62720bbd
 Straipsnio punkto pakeitimai:
 Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
@@ -1336,13 +1336,13 @@ Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
 4) prižiūri, kaip asmenys laikosi šio įstatymo ir šio įstatymo pagrindu priimtų priežiūros institucijos teisės aktų ir duotų privalomų vykdyti nurodymų dėl šio įstatymo laikymosi; ^s-23638d9294b2706eeefcb87b
 
 
-5) pagal Reglamentą (ES) Nr. 1095/2010 bendradarbiauja su Europos vertybinių popierių ir rinkų institucija ir nedelsdama teikia jai visą jos užduotims vykdyti būtiną informaciją; ^s-40b022e4455a5563833d95a5
+5) pagal [Reglamentą (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj) bendradarbiauja su Europos vertybinių popierių ir rinkų institucija ir nedelsdama teikia jai visą jos užduotims vykdyti būtiną informaciją; ^s-40b022e4455a5563833d95a5
 
 
 6) atlieka kitas šiame ir kituose Lietuvos Respublikos įstatymuose nustatytas funkcijas. ^s-52e4bc260b39c594110fc6a7
 
 
-2. Priežiūros institucija, be kitų Reglamente (ES) 2017/1129, Reglamente (ES) 2023/2631, [[latest/TAR.1B4D7B687895|Lietuvos banko įstatyme]], šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta jos kompetencijai, nustatytų pareigų ir teisių, atlikdama jai pavestas funkcijas, turi teisę: ^s-05f4b7221bb9a8297e612e63
+2. Priežiūros institucija, be kitų [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj), [Reglamente (ES) 2023/2631](https://eur-lex.europa.eu/eli/reg/2023/2631/oj), [[latest/TAR.1B4D7B687895|Lietuvos banko įstatyme]], šiame įstatyme ir kituose teisės aktuose, kurių laikymosi priežiūra priskirta jos kompetencijai, nustatytų pareigų ir teisių, atlikdama jai pavestas funkcijas, turi teisę: ^s-05f4b7221bb9a8297e612e63
 
 Straipsnio dalies pakeitimai:
 Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
@@ -1438,7 +1438,7 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 2. Poveikio priemonės taikomos, kai yra bent vienas iš šių pagrindų: ^s-bcc9f5da55546d9d4e25ded7
 
 
-1) organizuojamas ar įgyvendinamas vertybinių popierių viešas siūlymas arba prekyba reguliuojamoje rinkoje, jeigu vertybinių popierių viešas siūlymas arba prekyba reguliuojamoje rinkoje yra uždrausti ar sustabdyti arba nesilaikoma Reglamente (ES) 2017/1129, Reglamente (ES) 2023/2631, šiame įstatyme, Akcinių bendrovių įstatyme ar šių įstatymų įgyvendinamuosiuose teisės aktuose viešam vertybinių popierių siūlymui ir įtraukimui į prekybą reguliuojamoje rinkoje nustatytų sąlygų ir reikalavimų; ^s-8904075200f341a356d7de67
+1) organizuojamas ar įgyvendinamas vertybinių popierių viešas siūlymas arba prekyba reguliuojamoje rinkoje, jeigu vertybinių popierių viešas siūlymas arba prekyba reguliuojamoje rinkoje yra uždrausti ar sustabdyti arba nesilaikoma [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj), [Reglamente (ES) 2023/2631](https://eur-lex.europa.eu/eli/reg/2023/2631/oj), šiame įstatyme, Akcinių bendrovių įstatyme ar šių įstatymų įgyvendinamuosiuose teisės aktuose viešam vertybinių popierių siūlymui ir įtraukimui į prekybą reguliuojamoje rinkoje nustatytų sąlygų ir reikalavimų; ^s-8904075200f341a356d7de67
 Straipsnio punkto pakeitimai:
 Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
@@ -1453,7 +1453,7 @@ Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 4) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo [[#^s-c06e38656c97d03664e68ce5|37 straipsnį]] duoti privalomi nurodymai; ^s-d01d42ef9dcf0b43fd55c32b
 
 
-5) pažeisti Reglamente (EB) Nr. 1060/2009 nustatyti reikalavimai; ^s-44909c8c038d31e8438aff5b
+5) pažeisti [Reglamente (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) nustatyti reikalavimai; ^s-44909c8c038d31e8438aff5b
 
 
 6) trukdoma priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus; ^s-5673d93999e1b45532b2c8c7
@@ -1481,7 +1481,7 @@ Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 2) juridinio asmens vadovams ir kitiems fiziniams asmenims, kai netaikoma šio straipsnio 2 dalis, – iki 2 milijonų eurų. ^s-df7543c726dcd87fa5d3ba0b
 
 
-2. Už Reglamento (ES) Nr. 596/2014 [[#^s-ac84dbe5cd3781d37fa2b850|17 straipsnyje]], Reglamento (ES) 2017/1129 38 straipsnio 1 dalies a punkte ir Reglamento (ES) 2023/2631 49 straipsnio 1 dalies a punkte išvardytus pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, koks nurodytas atitinkamai Reglamento (ES) Nr. 596/2014 [[#^s-e8db239118217f8b18cf892f|30 straipsnyje]], Reglamento (ES) 2017/1129 [[#^s-4c2938465295ea8a6a97df63|38 straipsnyje]] ir Reglamento (ES) 2023/2631 49 straipsnyje. ^s-0ab16fe66592ad874f20963e
+2. Už Reglamento (ES) Nr. 596/2014 [[#^s-ac84dbe5cd3781d37fa2b850|17 straipsnyje]], [Reglamento (ES) 2017/1129 38 straipsnio 1 dalies a punkte](https://eur-lex.europa.eu/eli/reg/2017/1129/art_38/par_1/lit_a/oj) ir [Reglamento (ES) 2023/2631 49 straipsnio 1 dalies a punkte](https://eur-lex.europa.eu/eli/reg/2023/2631/art_49/par_1/lit_a/oj) išvardytus pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, koks nurodytas atitinkamai Reglamento (ES) Nr. 596/2014 [[#^s-e8db239118217f8b18cf892f|30 straipsnyje]], [Reglamento (ES) 2017/1129 38 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/1129/art_38/oj) ir [Reglamento (ES) 2023/2631 49 straipsnyje](https://eur-lex.europa.eu/eli/reg/2023/2631/art_49/oj). ^s-0ab16fe66592ad874f20963e
 Straipsnio dalies pakeitimai:
 Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
@@ -1493,7 +1493,7 @@ Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 4. Jeigu dėl šio įstatymo [[#^s-bcc9f5da55546d9d4e25ded7|40 straipsnio 2 dalyje]] išvardytų pažeidimų, išskyrus šio įstatymo [[#^s-8904075200f341a356d7de67|40 straipsnio 2 dalies 1 punkte]] nurodytus pažeidimus, buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 dalyje nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydžio. ^s-9ba1be2ee2823edbd518af3b
 
 
-5. Jeigu dėl šio įstatymo [[#^s-8904075200f341a356d7de67|40 straipsnio 2 dalies 1 punkte]] išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo Reglamento (ES) 2017/1129 [[#^s-4c2938465295ea8a6a97df63|38 straipsnyje]] ar Reglamento (ES) 2023/2631 49 straipsnyje nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydžio. ^s-1f80db8819ea450c78f5cc9b
+5. Jeigu dėl šio įstatymo [[#^s-8904075200f341a356d7de67|40 straipsnio 2 dalies 1 punkte]] išvardytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo [Reglamento (ES) 2017/1129 38 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/1129/art_38/oj) ar [Reglamento (ES) 2023/2631 49 straipsnyje](https://eur-lex.europa.eu/eli/reg/2023/2631/art_49/oj) nurodytus baudų dydžius, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydžio. ^s-1f80db8819ea450c78f5cc9b
 Straipsnio dalies pakeitimai:
 Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
 
@@ -1530,13 +1530,13 @@ priedas
 
 
 
-1. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/25/EB dėl įmonių perėmimo pasiūlymų su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2864. ^s-c4c197e8a69223cd6140d1df
+1. 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos direktyva 2004/25/EB dėl įmonių perėmimo pasiūlymų su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/2864](https://eur-lex.europa.eu/eli/dir/2023/2864/oj). ^s-c4c197e8a69223cd6140d1df
 
 
-2. 2004 m. gruodžio 15 d. Europos Parlamento ir Tarybos direktyva 2004/109/EB dėl informacijos apie emitentus, kurių vertybiniais popieriais leista prekiauti reguliuojamoje rinkoje, skaidrumo reikalavimų suderinimo, iš dalies keičianti Direktyvą 2001/34/EB, su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2864. ^s-8c593c635e943a81d4a0ef90
+2. 2004 m. gruodžio 15 d. Europos Parlamento ir Tarybos direktyva 2004/109/EB dėl informacijos apie emitentus, kurių vertybiniais popieriais leista prekiauti reguliuojamoje rinkoje, skaidrumo reikalavimų suderinimo, iš dalies keičianti Direktyvą 2001/34/EB, su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/2864](https://eur-lex.europa.eu/eli/dir/2023/2864/oj). ^s-8c593c635e943a81d4a0ef90
 
 
-3. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2869. ^s-4526a0fe79bf7f10130509fa
+3. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/2869](https://eur-lex.europa.eu/eli/dir/2023/2869/oj). ^s-4526a0fe79bf7f10130509fa
 
 
 4. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/73/ES, kuria iš dalies keičiama Direktyva 2003/71/EB dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi visuomenei ar įtraukiami į prekybos sąrašą, ir Direktyva 2004/109/EB dėl informacijos apie emitentus, kurių vertybiniais popieriais leista prekiauti reguliuojamoje rinkoje, skaidrumo reikalavimų suderinimo. ^s-6e406755d962d7d25b38d3ca
@@ -1545,22 +1545,22 @@ priedas
 5. 2013 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2013/50/ES, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2004/109/EB dėl informacijos apie emitentus, kurių vertybiniais popieriais leista prekiauti reguliuojamoje rinkoje, skaidrumo reikalavimų suderinimo, Europos Parlamento ir Tarybos direktyva 2003/71/EB dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi visuomenei ar įtraukiami į prekybos sąrašą, ir Komisijos direktyva 2007/14/EB, nustatanti išsamias tam tikrų Direktyvos 2004/109/EB nuostatų įgyvendinimo taisykles. ^s-d919c10a9dd445012f8966ed
 
 
-6. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/2809. ^s-053979ebef9886ebc8bf1035
+6. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/2809](https://eur-lex.europa.eu/eli/reg/2024/2809/oj). ^s-053979ebef9886ebc8bf1035
 
 
-7. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/2809. ^s-f2015f1f8f14bd167f3a7594
+7. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/2809](https://eur-lex.europa.eu/eli/reg/2024/2809/oj). ^s-f2015f1f8f14bd167f3a7594
 
 
-8. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2464, kuria iš dalies keičiamas Reglamentas (ES) Nr. 537/2014, Direktyva 2004/109/EB, Direktyva 2006/43/EB ir Direktyva 2013/34/ES dėl įmonių informacijos apie tvarumą teikimo. ^s-38bf6318908d67ee480ca6f9
+8. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2022/2464](https://eur-lex.europa.eu/eli/dir/2022/2464/oj), kuria iš dalies keičiamas Reglamentas (ES) Nr. 537/2014, Direktyva 2004/109/EB, Direktyva 2006/43/EB ir Direktyva 2013/34/ES dėl įmonių informacijos apie tvarumą teikimo. ^s-38bf6318908d67ee480ca6f9
 
 
-9. 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/2631 dėl Europos žaliųjų obligacijų ir neprivalomo informacijos apie obligacijas, kurios platinamos kaip aplinkos atžvilgiu tvarios, atskleidimo bei neprivalomo informacijos apie su tvarumu susietas obligacijas atskleidimo su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. ^s-76fbe86e1f2a9a94ad50b963
+9. 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2023/2631](https://eur-lex.europa.eu/eli/reg/2023/2631/oj) dėl Europos žaliųjų obligacijų ir neprivalomo informacijos apie obligacijas, kurios platinamos kaip aplinkos atžvilgiu tvarios, atskleidimo bei neprivalomo informacijos apie su tvarumu susietas obligacijas atskleidimo su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2023/2869](https://eur-lex.europa.eu/eli/reg/2023/2869/oj). ^s-76fbe86e1f2a9a94ad50b963
 
 
-10. 2025 m. balandžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2025/794, kuria iš dalies keičiamos direktyvos (ES) 2022/2464 ir (ES) 2024/1760, kiek tai susiję su datomis, nuo kurių valstybės narės turi taikyti tam tikrus įmonių informacijos apie tvarumą teikimo ir įmonių tvarumo išsamaus patikrinimo reikalavimus. ^s-f168072f74cf9bcc8262fd45
+10. 2025 m. balandžio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2025/794](https://eur-lex.europa.eu/eli/dir/2025/794/oj), kuria iš dalies keičiamos [direktyvos (ES) 2022/2464](https://eur-lex.europa.eu/eli/dir/2022/2464/oj) ir (ES) 2024/1760, kiek tai susiję su datomis, nuo kurių valstybės narės turi taikyti tam tikrus įmonių informacijos apie tvarumą teikimo ir įmonių tvarumo išsamaus patikrinimo reikalavimus. ^s-f168072f74cf9bcc8262fd45
 
 
-11. 2026 m. vasario 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2026/470, kuria iš dalies keičiamos direktyvos 2006/43/EB, 2013/34/ES, (ES) 2022/2464 ir (ES) 2024/1760, kiek tai susiję su tam tikrais įmonių tvarumo atskaitomybės reikalavimais ir tam tikrais įmonių tvarumo išsamaus patikrinimo reikalavimais. ^s-588bfb3be4b153bab84b08dd
+11. 2026 m. vasario 24 d. Europos Parlamento ir Tarybos [direktyva (ES) 2026/470](https://eur-lex.europa.eu/eli/dir/2026/470/oj), kuria iš dalies keičiamos direktyvos 2006/43/EB, 2013/34/ES, (ES) 2022/2464 ir (ES) 2024/1760, kiek tai susiję su tam tikrais įmonių tvarumo atskaitomybės reikalavimais ir tam tikrais įmonių tvarumo išsamaus patikrinimo reikalavimais. ^s-588bfb3be4b153bab84b08dd
 
 
 ___________________
@@ -1621,12 +1621,12 @@ Nr. XI-1882, 2011-12-22, Žin., 2011, Nr. 163-7771 (2011-12-31)
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2123, 2012-06-26, Žin., 2012, Nr. 77-3978 (2012-07-01)
-[[#^s-4c2938465295ea8a6a97df63|VERTYBINIŲ POPIERIŲ ĮSTATYMO 2, 3, 4, 19, 27, 38 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 47(1) STRAIPSNIU ĮSTATYMAS
+VERTYBINIŲ POPIERIŲ ĮSTATYMO [[#^s-a84e9e5de96b985eec1e74f4|2]], [[#^s-9903e24eb1973510ff45427b|3]], [[#^s-7ab30dd9aa1a8a7b2af9b968|4]], [[#^s-1f2ac264ebc2fea3e4fcb8c1|19]], [[#^s-c05c4bdec0d87e5cb3afaa5e|27]], [[#^s-4c2938465295ea8a6a97df63|38]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 47(1) STRAIPSNIU ĮSTATYMAS
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-148, 2013-01-17, Žin., 2013, Nr. 11-495 (2013-01-30)
-VERTYBINIŲ POPIERIŲ ĮSTATYMO 2, 4, 5, 6, 7, 9, 10, 12, 15, 20, 23, 25, 26, 27, 31, 33, 34, 37, 38, 42, 46, 48 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 6(1) STRAIPSNIU IR PENKTUOJU(1) SKIRSNIU IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMAS
+VERTYBINIŲ POPIERIŲ ĮSTATYMO [[#^s-a84e9e5de96b985eec1e74f4|2]], [[#^s-7ab30dd9aa1a8a7b2af9b968|4]], [[#^s-6fae4305cb3667ece876920d|5]], [[#^s-d772936ae2c84a311425444f|6]], [[#^s-2bc56c5565bb12edf12efac5|7]], [[#^s-9cba85c61d59e18038b0a528|9]], [[#^s-6790799dab2161c5b94fbde5|10]], [[#^s-bc9eca41c05138387924bdde|12]], [[#^s-f5890fcd8deba833da83b4b6|15]], [[#^s-61aa3c521f657c600b75be3b|20]], [[#^s-73a6566a6f92acda891a3ff7|23]], [[#^s-f61686c3503cb0fe50bc3479|25]], [[#^s-3c1376e7dffc16bad0d33eb0|26]], [[#^s-c05c4bdec0d87e5cb3afaa5e|27]], [[#^s-f72ba62dfd5807c212a63aeb|31]], [[#^s-1906735ef3791f0d9ed8ea32|33]], [[#^s-328ed3703032fd4b1cd468f1|34]], [[#^s-c06e38656c97d03664e68ce5|37]], [[#^s-4c2938465295ea8a6a97df63|38]], [[latest/TAR.3DF892F52616|42]], [[latest/TAR.3DF892F52616|46]], [[latest/TAR.3DF892F52616|48]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 6(1) STRAIPSNIU IR PENKTUOJU(1) SKIRSNIU IR ĮSTATYMO PRIEDO PAPILDYMO ĮSTATYMAS
 
 
 
@@ -1655,12 +1655,12 @@ Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 51 ir 52 straips
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-463, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10820
-Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 24, 33, 43, 52, 54 straipsnių ir priedo pakeitimo ir [[#^s-1f2ac264ebc2fea3e4fcb8c1|19 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 [[#^s-a84e9e5de96b985eec1e74f4|2]], [[#^s-5db86a45198161db47d40ef7|24]], [[#^s-1906735ef3791f0d9ed8ea32|33]], 43, 52, 54 straipsnių ir priedo pakeitimo ir [[#^s-1f2ac264ebc2fea3e4fcb8c1|19 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1235, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09842
-Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 26, 46, 47, 48, 50, 51, 52 straipsnių pakeitimo ir 53 straipsnio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 [[#^s-3c1376e7dffc16bad0d33eb0|26]], 46, 47, 48, 50, 51, 52 straipsnių pakeitimo ir 53 straipsnio pripažinimo netekusiu galios įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1675,7 +1675,7 @@ Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 pakeitimo įstat
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-832, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27724
-Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 4, 12, 15, [[#^s-608c37ad2df144051f80ce13|22 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 [[#^s-a84e9e5de96b985eec1e74f4|2]], [[#^s-7ab30dd9aa1a8a7b2af9b968|4]], [[#^s-bc9eca41c05138387924bdde|12]], [[#^s-f5890fcd8deba833da83b4b6|15]], [[#^s-608c37ad2df144051f80ce13|22]] straipsnių ir priedo pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1685,17 +1685,17 @@ Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 [[#^s-c05c4bdec0
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2813, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12136
-Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 12, 13, 14, 22, 27, [[#^s-c06e38656c97d03664e68ce5|37 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 [[#^s-a84e9e5de96b985eec1e74f4|2]], [[#^s-bc9eca41c05138387924bdde|12]], [[#^s-0deb04d46dc853905258176e|13]], [[#^s-f511cfc920f63e038a17a5dc|14]], [[#^s-608c37ad2df144051f80ce13|22]], [[#^s-c05c4bdec0d87e5cb3afaa5e|27]], [[#^s-c06e38656c97d03664e68ce5|37]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3078, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19833
-Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 36, 37, 40, [[#^s-cd027da47d58529f791889b8|41 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 [[#^s-a84e9e5de96b985eec1e74f4|2]], [[#^s-d607170d18d98e67433fee83|36]], [[#^s-c06e38656c97d03664e68ce5|37]], [[#^s-94e8ae43e1f0df4dd8afcb09|40]], [[#^s-cd027da47d58529f791889b8|41]] straipsnių ir priedo pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-337, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-11997
-Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 12, 13, 14, 22, 27, [[#^s-c06e38656c97d03664e68ce5|37 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 15-1 straipsniu [[latest/1d68987036d611efbdaea558de59136c|įstatymo Nr. XIV-2813]] [[#^s-6790799dab2161c5b94fbde5|10 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 [[#^s-a84e9e5de96b985eec1e74f4|2]], [[#^s-bc9eca41c05138387924bdde|12]], [[#^s-0deb04d46dc853905258176e|13]], [[#^s-f511cfc920f63e038a17a5dc|14]], [[#^s-608c37ad2df144051f80ce13|22]], [[#^s-c05c4bdec0d87e5cb3afaa5e|27]], [[#^s-c06e38656c97d03664e68ce5|37]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 15-1 straipsniu [[latest/1d68987036d611efbdaea558de59136c|įstatymo Nr. XIV-2813]] [[#^s-6790799dab2161c5b94fbde5|10 straipsnio]] pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1710,9 +1710,9 @@ Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 priedo pakeitimo
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-794, 2026-04-09, paskelbta TAR 2026-04-15, i. k. 2026-06070
-Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 12, 13, 14, 22, 27, [[#^s-c06e38656c97d03664e68ce5|37 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 15-1 straipsniu [[latest/1d68987036d611efbdaea558de59136c|įstatymo Nr. XIV-2813]] [[#^s-6790799dab2161c5b94fbde5|10 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 [[#^s-a84e9e5de96b985eec1e74f4|2]], [[#^s-bc9eca41c05138387924bdde|12]], [[#^s-0deb04d46dc853905258176e|13]], [[#^s-f511cfc920f63e038a17a5dc|14]], [[#^s-608c37ad2df144051f80ce13|22]], [[#^s-c05c4bdec0d87e5cb3afaa5e|27]], [[#^s-c06e38656c97d03664e68ce5|37]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 15-1 straipsniu [[latest/1d68987036d611efbdaea558de59136c|įstatymo Nr. XIV-2813]] [[#^s-6790799dab2161c5b94fbde5|10 straipsnio]] pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-844, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06953
-Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 2, 5, 6, 7, 15, 23, 26, 29, [[#^s-e8db239118217f8b18cf892f|30 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos vertybinių popierių įstatymo Nr. X-1023 [[#^s-a84e9e5de96b985eec1e74f4|2]], [[#^s-6fae4305cb3667ece876920d|5]], [[#^s-d772936ae2c84a311425444f|6]], [[#^s-2bc56c5565bb12edf12efac5|7]], [[#^s-f5890fcd8deba833da83b4b6|15]], [[#^s-73a6566a6f92acda891a3ff7|23]], [[#^s-3c1376e7dffc16bad0d33eb0|26]], [[#^s-2293db31ea01baa114b50a2a|29]], [[#^s-e8db239118217f8b18cf892f|30]] straipsnių ir priedo pakeitimo įstatymas

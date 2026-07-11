@@ -59,7 +59,7 @@ Pakeisti [[#^s-298b1beb55f9ba5cc6b3057e|2 straipsnio 4 dalį]] ir ją išdėstyt
 2. Pakeisti 4 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip: ^s-19d23bf635b9009396fc0d90
 
 
-„2) Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus [[#^s-19d23bf635b9009396fc0d90|šio straipsnio 2 dalyje]]), [[latest/TAR.981F27E01089|Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme]] nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), taip pat gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys.“
+„2) Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šio straipsnio 2 dalyje), [[latest/TAR.981F27E01089|Asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatyme]] nurodyti asmenys, kuriems darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija (toliau – deleguoti asmenys), taip pat gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys.“
 
 
 3. Pakeisti 4 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip: ^s-9f2fd807fa365136d5a90857
@@ -68,7 +68,7 @@ Pakeisti [[#^s-298b1beb55f9ba5cc6b3057e|2 straipsnio 4 dalį]] ir ją išdėstyt
 „3) nesukakę senatvės pensijos amžiaus ir negaunantys pajamų, susijusių su darbo santykiais, valstybės tarnautojų ir profesinės karo tarnybos karių bei deleguotų asmenų sutuoktiniai – tuo laikotarpiu, kai jie gyvena užsienyje kartu su valstybės tarnautoju ar deleguotu asmeniu, jeigu pastarasis asmuo deleguotas ar valstybės tarnautojas perkeltas į pareigas Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje, ar užsienio valstybės institucijoje, pasiųstas dirbti į specialiąją misiją, ar kai jie gyvena kartu su profesinės karo tarnybos kariu, jeigu profesinės karo tarnybos karys paskirtas atlikti karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje. Deleguotų asmenų sutuoktiniai draudžiami tik tuo atveju, jei deleguotam asmeniui darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija;“.
 
 
-4. Papildyti 4 straipsnio 2 dalį 5 ir [[#^s-591d6e26f7005f257576f814|6 punktais]]: ^s-298b1beb55f9ba5cc6b3057e
+4. Papildyti 4 straipsnio 2 dalį 5 ir 6 punktais: ^s-298b1beb55f9ba5cc6b3057e
 
 
 „5) šeimos pasirinkimu vienas iš tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas vaiko globėju, auginantys vaiką iki trejų metų;
@@ -122,7 +122,7 @@ Pakeisti [[#^s-d8ffeedaf76b1a9d94018cd0|6 straipsnio 1 dalį]] ir ją išdėstyt
 Pakeisti [[#^s-5bab2e0a9072899895df5d17|7 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
-„1. Apdraustųjų asmenų, nurodytų šio įstatymo 4 straipsnio 1 dalyje ir 2 dalies 1 ir [[#^s-25a407aa2cd548914797012c|2 punktuose]], socialinio draudimo įmokos skaičiuojamos nuo kiekvienam apdraustajam asmeniui apskaičiuotos darbo užmokesčio sumos, ne mažesnės kaip minimalioji mėnesinė alga, su darbo santykiais susijusių kompensacinio ar skatinamojo pobūdžio išmokų, neatsižvelgiant į mokėjimo šaltinius, įskaitant:
+„1. Apdraustųjų asmenų, nurodytų šio įstatymo 4 straipsnio 1 dalyje ir 2 dalies 1 ir 2 punktuose, socialinio draudimo įmokos skaičiuojamos nuo kiekvienam apdraustajam asmeniui apskaičiuotos darbo užmokesčio sumos, ne mažesnės kaip minimalioji mėnesinė alga, su darbo santykiais susijusių kompensacinio ar skatinamojo pobūdžio išmokų, neatsižvelgiant į mokėjimo šaltinius, įskaitant:
 
 
 1) apdraustajam apskaičiuotą pagrindinį darbo užmokestį ir visus papildomus uždarbius (konkrečius valandinius tarifinius atlygius; mėnesines algas; padidintus, palyginti su normaliomis sąlygomis, tarifinius atlygius; darbo užmokestį už išsiruošimo į kelionę ir įsikūrimo naujoje vietovėje laiką; kitas darbo apmokėjimo formas; kitas su darbo santykiais susijusias išmokas), nustatytus [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekse]] ir kituose teisės aktuose, bet kokiu būdu draudėjo apskaičiuojamus apdraustajam už jo atliktą darbą; ^s-0f521695d8ea8851e13c08a8
@@ -131,7 +131,7 @@ Pakeisti [[#^s-5bab2e0a9072899895df5d17|7 straipsnio 1 dalį]] ir ją išdėstyt
 2) apdraustajam apskaičiuotą darbo užmokestį, kurį sudaro pareiginė alga, priedai, priemokos, nustatyti [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] ir teisės aktuose, reglamentuojančiuose šių išmokų mokėjimą; ^s-25a407aa2cd548914797012c
 
 
-3) apdraustajam apskaičiuotą darbo užmokestį, nustatytą Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatyme; ^s-c3054aaff65b68a74706d111
+3) apdraustajam apskaičiuotą darbo užmokestį, nustatytą Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3); ^s-c3054aaff65b68a74706d111
 
 
 4) priedus ir išeitines išmokas, apskaičiuotas šio įstatymo [[#^s-55c80ca9076455684ab520ff|4 straipsnio]] 1 ir 2 dalyse nurodytiems asmenims; ^s-019b54604e6e5fd4767aea37
@@ -195,7 +195,7 @@ Pakeisti [[#^s-5bab2e0a9072899895df5d17|7 straipsnio 1 dalį]] ir ją išdėstyt
 17) kompensacijų ir kitokių išmokų, gautų iš tarptautinės ar Europos Sąjungos institucijos, ar užsienio valstybių institucijos, taip pat darbo užmokesčio, gauto iš minėtų institucijų, jei nuo jo skaičiuojamos socialinio draudimo įmokos pagal teisės aktus, kuriais vadovaujantis institucijos moka darbo užmokestį;“. ^s-253f797d34dd45f0e1b45a5d
 
 
-9. Papildyti [[#^s-bd78e4b3eee06d4a1d70dab5|8 straipsnio 1 dalį]] 20–[[#^s-80be992114500a8057c3455f|26 punktais]]: ^s-5ed92c18e492c79130634925
+9. Papildyti [[#^s-bd78e4b3eee06d4a1d70dab5|8 straipsnio 1 dalį]] 20–26 punktais: ^s-5ed92c18e492c79130634925
 
 
 „20) draudimo įmokų, darbdavio mokamų draudimo įmonei už darbuotojų gyvybės, nelaimingų atsitikimų ar civilinės atsakomybės draudimą, kai draudimo sutartyje yra numatyta, kad įvykus draudiminiam įvykiui draudimo suma bus išmokėta darbdaviui, o civilinės atsakomybės draudimo atveju – darbdaviui ar trečiajam asmeniui;
@@ -403,7 +403,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 2. Kredito įstaiga Fondo administravimo įstaigos nurodymą nurašyti iš šioje kredito įstaigoje asmens atidarytos sąskaitos laiku nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas privalo įvykdyti per [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatyme]] nustatytą mokėjimo nurodymo įvykdymo terminą. Kredito įstaiga Fondo administravimo įstaigos nurodymą nurašyti iš šioje kredito įstaigoje esančio asmens indėlio su priklausančiomis palūkanomis nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas privalo įvykdyti pagal pirmą indėlininko pareikalavimą arba suėjus indėlio terminui. Fondo administravimo įstaigos nurodymas nurašyti iš šioje kredito įstaigoje atidarytos asmens sąskaitos nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas turi būti priimamas bei vykdomas ir tada, kai draudėjo sąskaitoje nėra pinigų ar yra mažesnė negu nurašytina pinigų suma. Tokiu atveju nurašymas turi būti atliekamas dalimis tol, kol iš draudėjo sąskaitos bus nurašyta visa nurodyta suma. Fondo administravimo įstaigos nurodymas nurašyti iš šioje kredito įstaigoje esančio asmens indėlio su priklausančiomis palūkanomis laiku nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas turi būti priimamas bei vykdomas ir tada, kai draudėjo indėlio suma yra mažesnė negu nurašytina pinigų suma. Tokiu atveju nurodymas nurašyti laiku nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas įvykdomas tokia dalimi, kokio dydžio yra asmens indėlis kartu su priklausančiomis palūkanomis. Fondo administravimo įstaigos sumažina nurodyme, kuris jau pateiktas kredito įstaigai, numatytą nurašyti sumą, jei laiku nesumokėtos socialinio draudimo įmokos, neginčytini delspinigiai ir neginčijamos baudos iš dalies padengiami kitokiu būdu. Šiuo atveju Fondo administravimo įstaigos apie reikalavimo sumažinimą nedelsdamos praneša kredito įstaigai, o ši pateiktą nurodymą vykdo patikslindama sumas. ^s-5caa60d1456febd02da1bb03
 
 
-3. Jei kredito įstaigai yra pateiktas Fondo administravimo įstaigos nurodymas priverstine tvarka nurašyti nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas iš draudėjo sąskaitos ir atitinkamas antstolių patvarkymas ar kitos valstybinės institucijos sprendimas dėl priverstinio išieškojimo, o draudėjo sąskaitoje nėra pakankamai lėšų visiems minėtiems sprendimams ar nurodymams patenkinti, kredito įstaiga privalo vykdyti Fondo administravimo įstaigos nurodymą, atsižvelgdama į Civilinio proceso kodekso 754 straipsnyje nustatytą lėšų nurašymo eilę bei minėtų dokumentų pateikimo datą. Jeigu [[#^s-5caa60d1456febd02da1bb03|šio straipsnio 2 dalyje]] numatytu atveju Fondo administravimo įstaiga patikslina nurašytiną sumą, nurodymo pateikimo data nesikeičia.“ ^s-8ac114b9936a80f756f2c419
+3. Jei kredito įstaigai yra pateiktas Fondo administravimo įstaigos nurodymas priverstine tvarka nurašyti nesumokėtas socialinio draudimo įmokas, delspinigius ir baudas iš draudėjo sąskaitos ir atitinkamas antstolių patvarkymas ar kitos valstybinės institucijos sprendimas dėl priverstinio išieškojimo, o draudėjo sąskaitoje nėra pakankamai lėšų visiems minėtiems sprendimams ar nurodymams patenkinti, kredito įstaiga privalo vykdyti Fondo administravimo įstaigos nurodymą, atsižvelgdama į [Civilinio proceso kodekso 754 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytą lėšų nurašymo eilę bei minėtų dokumentų pateikimo datą. Jeigu [[#^s-5caa60d1456febd02da1bb03|šio straipsnio 2 dalyje]] numatytu atveju Fondo administravimo įstaiga patikslina nurašytiną sumą, nurodymo pateikimo data nesikeičia.“ ^s-8ac114b9936a80f756f2c419
 
 
 
@@ -435,7 +435,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 1. Pakeisti 31 straipsnio 17 punktą ir jį išdėstyti taip: ^s-5e9de3ffac8d6c83117fd08b
 
 
-„17) atideda baudų (išskyrus baudas, skiriamas vadovaujantis Administracinių teisės pažeidimų kodeksu) išieškojimą iki vienų metų, socialinio draudimo įmokų už savarankiškai dirbančius asmenis įsiskolinimo mokėjimą iki vienų metų ir delspinigių, priskaičiuotų nuo pavėluotai pervestų socialinio draudimo įmokų už savarankiškai dirbančius asmenis, išieškojimo laiką;“.
+„17) atideda baudų (išskyrus baudas, skiriamas vadovaujantis [Administracinių teisės pažeidimų kodeksu](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492)) išieškojimą iki vienų metų, socialinio draudimo įmokų už savarankiškai dirbančius asmenis įsiskolinimo mokėjimą iki vienų metų ir delspinigių, priskaičiuotų nuo pavėluotai pervestų socialinio draudimo įmokų už savarankiškai dirbančius asmenis, išieškojimo laiką;“.
 
 
 2. Papildyti 31 straipsnį nauju 21 punktu: ^s-959a2281f110f1b6cdb24183

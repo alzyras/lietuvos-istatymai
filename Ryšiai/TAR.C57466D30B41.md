@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo 6, 13, 22, 24, 27, 28,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Valstybės tarnybos įstatymo
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - Valstybės tarnybos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.96A68BFC9E82#^s-6441e2315f1f73a9da2d6c3d|Lietuvos Respublikos Vyriausybės įstatymas]] - Įstatymas Nr. XII-153
-- [[latest/TAR.96A68BFC9E82#^s-94ff0f6ce570b86058afcfb6|Lietuvos Respublikos Vyriausybės įstatymas]] - Įstatymas Nr. XII-153
+_Nėra._

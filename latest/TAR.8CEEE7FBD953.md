@@ -54,7 +54,7 @@ Vilnius
 ### 2 straipsnis. 2 straipsnio 1 ir 16 dalių pakeitimas ^s-ff738666f3eb66e8c14c83da
 
 
-1. [[#^s-920d5bee29188b61b1b1ae22|2 straipsnio 1 dalyje]] išbraukti žodžius „taip pat juridinio asmens teisių neturinti įmonė“ ir šią dalį išdėstyti taip: ^s-920d5bee29188b61b1b1ae22
+1. 2 straipsnio 1 dalyje išbraukti žodžius „taip pat juridinio asmens teisių neturinti įmonė“ ir šią dalį išdėstyti taip: ^s-920d5bee29188b61b1b1ae22
 
 
 „1. Asmuo – juridinis ar fizinis asmuo.“
@@ -190,7 +190,7 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 6. Pakeisti 22 straipsnio 9 dalį ir ją išdėstyti taip: ^s-4564f2f7fdc1d9739563afe4
 
 
-„9. Bauda už [[#^s-4564f2f7fdc1d9739563afe4|šio straipsnio 6 dalyje]] nurodytuose straipsniuose nustatytų reklamos naudojimo reikalavimų nesilaikymą skiriama tik tuo atveju, jei reklaminės veiklos subjektai po administracinės nuobaudos – įspėjimo nesilaiko įpareigojimo jį nutraukti.“
+„9. Bauda už šio straipsnio 6 dalyje nurodytuose straipsniuose nustatytų reklamos naudojimo reikalavimų nesilaikymą skiriama tik tuo atveju, jei reklaminės veiklos subjektai po administracinės nuobaudos – įspėjimo nesilaiko įpareigojimo jį nutraukti.“
 
 
 7. 22 straipsnio 10 dalyje po žodžio „pobūdžio“ įrašyti žodžius „pažeidimo trukmės ir masto“ ir šią dalį išdėstyti taip: ^s-9e7fab8f839b24b25097af7b

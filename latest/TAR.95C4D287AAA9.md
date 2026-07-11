@@ -93,7 +93,7 @@ Nr. X-589, 2006-05-02, Žin., 2006, Nr. 57-2021 (2006-05-20), i. k. [[latest/TAR
 9. Skubiosios pagalbos tarnybų telefono numeris 112 (toliau – numeris 112) – bendras telefono ryšio numeris, skirtas pranešti apie rengiamą, daromą ar padarytą teisės pažeidimą, staiga iškilusią grėsmę gyvybei, sveikatai, saugumui, aplinkai, materialiosioms ar nematerialiosioms vertybėms ir pagalbos tarnyboms iškviesti (išsikviesti). ^s-27c4dafb8e1e37b3c411339c
 
 
-10. Šio straipsnio 1 ir [[#^s-5ecf9e28aaef87a5d1ff2992|5 dalyse]], šio įstatymo [[#^s-41827fd293246b59398f4eaa|7 straipsnyje]], [[#^s-5702883a145f61d020aaa7a5|8 straipsnio]] 1 ir [[#^s-e057f60121e7d751db514eba|2 dalyse]] vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatyme]]. ^s-4efce0ac576993df5985fac2
+10. Šio straipsnio [[#^s-ec2271b82b4d3a9a0f6c2613|1]] ir [[#^s-5ecf9e28aaef87a5d1ff2992|5]] dalyse, šio įstatymo [[#^s-41827fd293246b59398f4eaa|7 straipsnyje]], [[#^s-5702883a145f61d020aaa7a5|8 straipsnio]] [[#^s-b18321c39c0a38cc28d85dd6|1]] ir [[#^s-c42ede9db821468416d1b410|2]] dalyse vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatyme]]. ^s-4efce0ac576993df5985fac2
 
 
 Straipsnio pakeitimai:
@@ -107,7 +107,7 @@ Nr. XIII-1901, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00796
 1. Centras yra Priešgaisrinės apsaugos ir gelbėjimo departamentui prie Vidaus reikalų ministerijos pavaldi biudžetinė įstaiga. ^s-5df58388ecf15910e6fd03e0
 
 
-2. Centras savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo įstatymu, Vidaus tarnybos statutu, kitais Lietuvos Respublikos įstatymais bei kitais teisės aktais. ^s-835013600d127fddf8343ee6
+2. Centras savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, šiuo įstatymu, Vidaus tarnybos statutu, kitais Lietuvos Respublikos įstatymais bei kitais teisės aktais. ^s-835013600d127fddf8343ee6
 
 
 3. Centrą steigia Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos įstatymų ir kitų teisės aktų nustatyta tvarka. Centro nuostatus tvirtina Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius. ^s-fced7b7eb40076ba469f382e
@@ -383,7 +383,7 @@ priedas
 1. 2002 m. kovo 7 d. Europos Parlamento ir Tarybos direktyva 2002/22/EB dėl universaliųjų paslaugų ir paslaugų gavėjų teisių, susijusių su elektroninių ryšių tinklais ir paslaugomis (Universaliųjų paslaugų direktyva) (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 367), su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/136/EB (OL 2009 L 337, p. 11). ^s-b010bc23ce3ba781488be35f
 
 
-2. 2002 m. liepos 12 d. Europos Parlamento ir Tarybos direktyva 2002/58/EB dėl asmens duomenų tvarkymo ir privatumo apsaugos elektroninių ryšių sektoriuje (Direktyva dėl privatumo ir elektroninių ryšių) (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 514) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/136/EB (OL 2009 L 337, p. 11). ^s-8762fa087a4816769b0c6736
+2. 2002 m. liepos 12 d. Europos Parlamento ir Tarybos direktyva 2002/58/EB [dėl asmens duomenų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.CCBBCFCD3831) ir privatumo apsaugos elektroninių ryšių sektoriuje (Direktyva dėl privatumo ir elektroninių ryšių) (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 514) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva 2009/136/EB (OL 2009 L 337, p. 11). ^s-8762fa087a4816769b0c6736
 
 
 3. 2003 m. liepos 25 d. Europos Komisijos rekomendacija 2003/558/EB dėl skambinančio asmens vietos nustatymo informacijos apdorojimo elektroninio ryšio tinkluose teikiant pagalbos skambučio paslaugas. ^s-479a16751a26bddae2348234
@@ -412,4 +412,4 @@ Nr. XI-772, 2010-04-20, Žin., 2010, Nr. 51-2481 (2010-05-04), i. k. [[latest/TA
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1901, 2019-01-11, paskelbta TAR 2019-01-18, i. k. 2019-00796
-Lietuvos Respublikos Bendrojo pagalbos centro įstatymo Nr. IX-2246 2, 10, 15, [[#^s-bd43e443a25a15604e7e1fcb|16 straipsnių]], trečiojo skirsnio ir priedo pakeitimo įstatymas
+Lietuvos Respublikos Bendrojo pagalbos centro įstatymo Nr. IX-2246 [[#^s-d86e675756d096b58dc288df|2]], [[#^s-d7ad6a6818f94ee4003180fd|10]], [[#^s-8977f4cedca6d4e6559749d4|15]], [[#^s-bd43e443a25a15604e7e1fcb|16]] straipsnių, trečiojo skirsnio ir priedo pakeitimo įstatymas

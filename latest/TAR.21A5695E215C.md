@@ -35,10 +35,10 @@ Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos TSR Aukščiausiosios Tarybos Prezidiumo 1989 m. sausio 25 d. įsaką „Dėl Lietuvos TSR valstybinio himno“ (Žin., 1989, Nr. 6-47);
+1) Lietuvos TSR Aukščiausiosios Tarybos Prezidiumo 1989 m. sausio 25 d. įsaką [„Dėl Lietuvos TSR valstybinio himno“](https://e-tar.lt/portal/lt/legalAct/TAR.C71C23A70456) (Žin., 1989, Nr. 6-47);
 
 
-2) Lietuvos Tarybų Socialistinės Respublikos 1989 m. gegužės 18 d. įstatymą „Patvirtinti Lietuvos TSR Aukščiausiosios Tarybos Prezidiumo įsakus dėl pakeitimų ir papildymų Lietuvos TSR įstatymų aktuose“ (Žin., 1989, Nr. 15-172) – dalyje dėl Lietuvos TSR Aukščiausiosios Tarybos Prezidiumo įsako „Dėl Lietuvos TSR valstybinio himno“ patvirtinimo.
+2) Lietuvos Tarybų Socialistinės Respublikos 1989 m. gegužės 18 d. įstatymą [„Patvirtinti Lietuvos TSR Aukščiausiosios Tarybos Prezidiumo įsakus dėl pakeitimų ir papildymų Lietuvos TSR įstatymų aktuose“](https://e-tar.lt/portal/lt/legalAct/TAR.D7A1C5473E18) (Žin., 1989, Nr. 15-172) – dalyje dėl Lietuvos TSR Aukščiausiosios Tarybos Prezidiumo įsako [„Dėl Lietuvos TSR valstybinio himno“](https://e-tar.lt/portal/lt/legalAct/TAR.C71C23A70456) patvirtinimo.
 
 
 

@@ -125,7 +125,7 @@ BENDROSIOS NUOSTATOS
 ### 4 straipsnis. Sąjungos veiklos teisinis pagrindas ^s-06ef4bb728d69026bedc42e9
 
 
-Sąjunga savo veiklą grindžia Lietuvos Respublikos Konstitucija, Nacionalinio saugumo pagrindų, šiuo ir kitais įstatymais, Vyriausybės nutarimais, Sąjungos statutu bei kitais teisės aktais.
+Sąjunga savo veiklą grindžia [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Nacionalinio saugumo pagrindų, šiuo ir kitais įstatymais, Vyriausybės nutarimais, Sąjungos statutu bei kitais teisės aktais.
 
 
 
@@ -573,7 +573,7 @@ SĄJUNGOS NARIAI
 ### 20 straipsnis. Šaulių socialinės garantijos ^s-ce9684998fca516db8f9f722
 
 
-1. Darbdavys, mokslo ar mokymo įstaigos vadovas privalo šaulį išleisti iš darbo, mokslo ar mokymo įstaigos ir išsaugoti jam darbo vietą Sąjungos rinktinių bei padalinių pratybų, mokymų metu, jeigu šaulys pateikia pateisinamąjį dokumentą. Ne rikiuotės šauliams pratybos, mokymai organizuojami 2 kartus per metus ir trunka ne daugiau kaip 7 dienas per metus. Už pratybų, mokymų darbo dienas jiems iš Sąjungos lėšų Darbo apmokėjimo įstatymo nustatyta tvarka kompensuojamas darbo užmokestis. ^s-9e2824a359835c1458a1b399
+1. Darbdavys, mokslo ar mokymo įstaigos vadovas privalo šaulį išleisti iš darbo, mokslo ar mokymo įstaigos ir išsaugoti jam darbo vietą Sąjungos rinktinių bei padalinių pratybų, mokymų metu, jeigu šaulys pateikia pateisinamąjį dokumentą. Ne rikiuotės šauliams pratybos, mokymai organizuojami 2 kartus per metus ir trunka ne daugiau kaip 7 dienas per metus. Už pratybų, mokymų darbo dienas jiems iš Sąjungos lėšų [Darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka kompensuojamas darbo užmokestis. ^s-9e2824a359835c1458a1b399
 
 
 2. Rikiuotės šaulių, kaip aktyviojo rezervo karių, statusą ir socialines garantijas nustato krašto apsaugos sistemos organizavimą ir karo tarnybą reglamentuojantys įstatymai. ^s-8025c03f5ab9fd8fc879f686

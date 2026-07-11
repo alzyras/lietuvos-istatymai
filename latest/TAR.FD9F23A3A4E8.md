@@ -40,7 +40,7 @@ Nr. 60-1402, Nr. 66-1599,  Nr. 108-2738; 1998, Nr. 56-1547, Nr. 65-1873)
 ### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-02e7587d9477b05d10fbe178
 
 
-Pripažinti netekusiu galios Lietuvos Respublikos įstatymą „Dėl valstybinių įmonių, kurių iki 2000-ųjų metų nenumatoma nei akcionuoti, nei privatizuoti“.
+Pripažinti netekusiu galios Lietuvos Respublikos įstatymą [„Dėl valstybinių įmonių, kurių iki 2000-ųjų metų nenumatoma nei akcionuoti, nei privatizuoti“](https://e-tar.lt/portal/lt/legalAct/TAR.F989833B3D38).
 
 
 

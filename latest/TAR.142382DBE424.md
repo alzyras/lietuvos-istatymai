@@ -42,10 +42,10 @@ Vilnius
 6 straipsnyje vietoj datos „nuo 1998 m. lapkričio 1 d.“ įrašyti datą „nuo 1999 m. sausio 1 d.“ ir šį straipsnį išdėstyti taip:
 
 
-„6 straipsnis.       [[latest/TAR.7A20D27F92FF#^s-7e451ff4a369ca46b9bcdbe4|Teismų įstatymo pakeitimo ir papildymo įstatymo 7, 8, 9, 10, 11 ir 12 straipsnių]] įsigaliojimas
+„6 straipsnis.       [[latest/TAR.7A20D27F92FF|Teismų įstatymo pakeitimo ir papildymo įstatymo]] [[latest/TAR.7A20D27F92FF#^s-50cd3da1a07f3bccf9c941d4|7]], [[latest/TAR.7A20D27F92FF#^s-2ef995726f2ec33c6c4cfd97|8]], [[latest/TAR.7A20D27F92FF#^s-c3fc9548e940210d5eb2e20c|9]], [[latest/TAR.7A20D27F92FF#^s-7897e38c053508873e78cf17|10]], [[latest/TAR.7A20D27F92FF#^s-ec716bbcdc093516740ba956|11]] ir [[latest/TAR.7A20D27F92FF#^s-7e451ff4a369ca46b9bcdbe4|12]] straipsnių įsigaliojimas
 
 
-[[latest/TAR.7A20D27F92FF#^s-7e451ff4a369ca46b9bcdbe4|Teismų įstatymo pakeitimo ir papildymo įstatymo 7, 8, 9, 10, 11 ir 12 straipsniai]] įsigalioja nuo 1999 m. sausio 1 d.“
+[[latest/TAR.7A20D27F92FF|Teismų įstatymo pakeitimo ir papildymo įstatymo]] [[latest/TAR.7A20D27F92FF#^s-50cd3da1a07f3bccf9c941d4|7]], [[latest/TAR.7A20D27F92FF#^s-2ef995726f2ec33c6c4cfd97|8]], [[latest/TAR.7A20D27F92FF#^s-c3fc9548e940210d5eb2e20c|9]], [[latest/TAR.7A20D27F92FF#^s-7897e38c053508873e78cf17|10]], [[latest/TAR.7A20D27F92FF#^s-ec716bbcdc093516740ba956|11]] ir [[latest/TAR.7A20D27F92FF#^s-7e451ff4a369ca46b9bcdbe4|12]] straipsniai įsigalioja nuo 1999 m. sausio 1 d.“
 
 
 

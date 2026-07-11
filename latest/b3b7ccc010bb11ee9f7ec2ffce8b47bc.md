@@ -43,31 +43,31 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-e93ae8bf80a8f44ca3569d92
 
 
-1. Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip: ^s-b4dde64391b4354fecca62c3
+1. Pakeisti [[latest/TAR.5DC1759E42CB#^s-9dffd0354f9053ef2a2bfaa7|2 straipsnio 10 dalį]] ir ją išdėstyti taip: ^s-b4dde64391b4354fecca62c3
 
 
 „10. Dviračių juosta – dviračių, motorinių dviračių ir elektrinių mikrojudumo priemonių eismui skirta važiuojamosios kelio dalies juosta, atskirta horizontaliojo ženklinimo linija ir pažymėta dviračio simboliu.“
 
 
-2. Pakeisti 2 straipsnio 11 dalį ir ją išdėstyti taip: ^s-05d79d545dd6c7c6c1aec9ee
+2. Pakeisti [[latest/TAR.5DC1759E42CB#^s-b11c1fc8e9342814d0e553dc|2 straipsnio 11 dalį]] ir ją išdėstyti taip: ^s-05d79d545dd6c7c6c1aec9ee
 
 
 „11. Dviračių takas – dviračių, motorinių dviračių ir elektrinių mikrojudumo priemonių eismui skirtas kelias arba kelio dalis, pažymėti tam skirtais kelio ženklais. Dviračių takas privalo būti atskirtas nuo kelio ar jo dalių kelio inžinerinėmis priemonėmis.“
 
 
-3. Papildyti 2 straipsnį 311 dalimi: ^s-8845d27fe6c7b1295b2a1f25
+3. Papildyti [[latest/TAR.5DC1759E42CB#^s-c4f4abed48d0cd7a2f61bb40|2 straipsnį 311 dalimi]]: ^s-8845d27fe6c7b1295b2a1f25
 
 
 „311. Elektrinė mikrojudumo priemonė – vienam asmeniui važiuoti skirta elektra varoma transporto priemonė (elektrinis paspirtukas, elektrinė riedlentė, elektrinis balansinis vienratis, riedis ir pan.), kurios didžiausioji naudingoji galia ne didesnė kaip 1 kW, didžiausiasis projektinis greitis ne didesnis kaip 25 km/h, o sėdimosios vietos, jeigu ji įrengta, atskaitos taško aukštis ne didesnis kaip 540 mm. Neįgaliųjų vežimėliai prie elektrinių mikrojudumo priemonių nepriskiriami.“
 
 
-4. Pakeisti 2 straipsnio 33 dalį ir ją išdėstyti taip: ^s-39e7e63fa7fc48959343e660
+4. Pakeisti [[latest/TAR.5DC1759E42CB#^s-b24130b9952d7e0b24572763|2 straipsnio 33 dalį]] ir ją išdėstyti taip: ^s-39e7e63fa7fc48959343e660
 
 
 „33. Mopedas – dviratė motorinė transporto priemonė, kurios didžiausiasis projektinis greitis didesnis kaip 25 km/h, bet ne didesnis kaip 45 km/h ir kurios variklio darbinis tūris ne didesnis kaip 50 cm3 (esant vidaus degimo varikliui), o didžiausioji naudingoji galia ne didesnė kaip 4 kW (esant elektros varikliui), ar triratė motorinė transporto priemonė, kurios didžiausiasis projektinis greitis didesnis kaip 25 km/h, bet ne didesnis kaip 45 km/h ir kurios variklio darbinis tūris ne didesnis kaip 50 cm3 (esant kibirkštinio (priverstinio) uždegimo varikliui), didžiausioji naudingoji galia ne didesnė kaip 4 kW (esant kitokio tipo vidaus degimo varikliui), o didžiausioji naudingoji galia ne didesnė kaip 4 kW (esant elektros varikliui).“
 
 
-5. Pakeisti 2 straipsnio 40 dalį ir ją išdėstyti taip: ^s-497034f2e5fe71778d424760
+5. Pakeisti [[latest/TAR.5DC1759E42CB#^s-d1cf8b68487fe087513bec67|2 straipsnio 40 dalį]] ir ją išdėstyti taip: ^s-497034f2e5fe71778d424760
 
 
 „40. Motorinis dviratis – ne mažiau kaip du ratus turinti transporto priemonė, kuri varoma ja važiuojančio asmens raumenų jėga, naudojant pedalus ar rankenas, ir turi pagalbinį vidaus degimo variklį ar elektros variklį, kurių didžiausioji naudingoji galia ne didesnė kaip 1 kW, ir kurios didžiausiasis projektinis greitis ne didesnis kaip 25 km/h. Pagalbinis variklis nustoja veikti transporto priemonei pasiekus 25 km/h greitį. Neįgaliųjų vežimėliai prie motorinių dviračių nepriskiriami.“
@@ -79,25 +79,25 @@ Vilnius
 „44². Neįgaliojo vežimėlis – rankomis arba elektros varikliu varoma neįgaliojo judumo priemonė su ratais.“
 
 
-7. Pakeisti 2 straipsnio 471 dalį ir ją išdėstyti taip: ^s-a1a852571264d39c2e309fbc
+7. Pakeisti [[latest/TAR.5DC1759E42CB#^s-b38905b31351ab1980a4ab56|2 straipsnio 471 dalį]] ir ją išdėstyti taip: ^s-a1a852571264d39c2e309fbc
 
 
 „471. Pažeidžiamas eismo dalyvis – pėsčiasis, dviračio, motorinio dviračio vairuotojas ar keleivis, elektrinės mikrojudumo priemonės vairuotojas, kitas eismo dalyvis – mopedo, motociklo, triračio, lengvojo keturračio, keturračio ar galingojo keturračio vairuotojas ar keleivis, kurie eisme dalyvauja nebūdami motorinėje transporto priemonėje (kabinoje (salone) arba kėbule).“
 
 
-8. Pakeisti 2 straipsnio 49 dalį ir ją išdėstyti taip: ^s-3df0617ddea6d3b3c63e0377
+8. Pakeisti [[latest/TAR.5DC1759E42CB#^s-e7049637445a049f65551aa5|2 straipsnio 49 dalį]] ir ją išdėstyti taip: ^s-3df0617ddea6d3b3c63e0377
 
 
 „49. Pėsčiasis – asmuo, esantis kelyje ne transporto priemonėje, taip pat važiuojantis neįgaliųjų vežimėliu, riedučiais, riedlente be variklio, paspirtuku be variklio, vedantis dviratį, motorinį dviratį, mopedą, motociklą, ridenantis ar besinešantis elektrinę mikrojudumo priemonę, traukiantis (stumiantis) rogutes, vaikišką ar kitokį vežimėlį. Pėsčiuoju nelaikomas kelyje dirbantis asmuo.“
 
 
-9. Pakeisti 2 straipsnio 50 dalį ir ją išdėstyti taip: ^s-0b1fc36e52c382042a1d05ef
+9. Pakeisti [[latest/TAR.5DC1759E42CB#^s-ed3e1f8926d7235b929fc77b|2 straipsnio 50 dalį]] ir ją išdėstyti taip: ^s-0b1fc36e52c382042a1d05ef
 
 
 „50. Pėsčiųjų perėja – pėsčiųjų perėjimo per kelią vieta, pažymėta nurodomaisiais kelio ženklais „Pėsčiųjų perėja“ ir ženklinimo linijomis arba tik kelio ženklais „Pėsčiųjų perėja“. Pėsčiųjų perėja gali būti žymima vien ženklinimo linijomis KET nustatytais atvejais. Pėsčiųjų perėjos ribas žymi ženklinimo linijos, o jeigu jų nėra, – įsivaizduojamos tiesės, einančios nuo kelio ženklų statmenai per kelią.“
 
 
-10. Pakeisti 2 straipsnio 67 dalį ir ją išdėstyti taip: ^s-b5bd540977eb65a2953831a5
+10. Pakeisti [[latest/TAR.5DC1759E42CB#^s-72dfed903b15ff5327be5a39|2 straipsnio 67 dalį]] ir ją išdėstyti taip: ^s-b5bd540977eb65a2953831a5
 
 
 „67. Šaligatvis – kelio dalis pėstiesiems prie važiuojamosios kelio dalies, atskirta arba neatskirta nuo jos. Šaligatvis gali būti naudojamas dviračių, motorinių dviračių ir elektrinių mikrojudumo priemonių eismui, išskyrus savivaldybės tarybos ar jos įgalioto asmens nustatytas vietas.“
@@ -107,7 +107,7 @@ Vilnius
 ### 2 straipsnis. 10 straipsnio pakeitimas ^s-6669e642962b0f63ccd25bf4
 
 
-Pakeisti 10 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.5DC1759E42CB#^s-6537cbf5b5fc909ea0681b6e|10 straipsnio 4 dalies 2 punktą]] ir jį išdėstyti taip:
 
 
 „2) organizuoja mokinių (vaikų) mokymą, per kurį įgyjama saugaus važiavimo dviračiais, motoriniais dviračiais ir elektrinėmis mikrojudumo priemonėmis žinių ir įgūdžių;“.
@@ -117,10 +117,10 @@ Pakeisti 10 straipsnio 4 dalies 2 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. Įstatymo papildymas 171 straipsniu ^s-53c699dbbbea463bf3c91470
 
 
-Papildyti Įstatymą 171 straipsniu:
+Papildyti Įstatymą [[latest/TAR.5DC1759E42CB#^s-49f9efd9030af85739a73698|171 straipsniu]]:
 
 
-„171 straipsnis. Elektrinių mikrojudumo priemonių vairuotojams taikomi reikalavimai ir draudimai
+„[[latest/TAR.5DC1759E42CB#^s-49f9efd9030af85739a73698|171 straipsnis]]. Elektrinių mikrojudumo priemonių vairuotojams taikomi reikalavimai ir draudimai
 
 
 1. Elektrine mikrojudumo priemone leidžiama važiuoti važiuojamąja kelio dalimi, dviračių juostomis, dviračių takais, kelkraščiu, gyvenamojoje zonoje ne jaunesniems kaip 16 metų asmenims, o ne jaunesniems kaip 14 metų asmenims – tik išklausiusiems Švietimo, mokslo ir sporto ministerijos nustatytą mokymo kursą ir turintiems mokyklos išduotą pažymėjimą. Gyvenamojo namo kieme elektrine mikrojudumo priemone važiuojančių asmenų amžius neribojamas, tačiau jaunesnius kaip 10 metų asmenis privalo prižiūrėti suaugęs asmuo. ^s-772bc3a2596100b204ac244f
@@ -135,7 +135,7 @@ Papildyti Įstatymą 171 straipsniu:
 4. Elektrinių mikrojudumo priemonių vairuotojams draudžiama: ^s-1550390aa89ef5e8952b4a5d
 
 
-1) važiuoti šaligatviais, išskyrus 2 straipsnio 67 dalyje nurodytą atvejį; ^s-9cf3d3ba68427628ff130e76
+1) važiuoti šaligatviais, išskyrus [[latest/TAR.5DC1759E42CB#^s-72dfed903b15ff5327be5a39|2 straipsnio 67 dalyje]] nurodytą atvejį; ^s-9cf3d3ba68427628ff130e76
 
 
 2) važiuoti pėsčiųjų takais; ^s-dd0126eee96c6c053d2d52a9
@@ -184,13 +184,13 @@ Papildyti Įstatymą 171 straipsniu:
 ### 4 straipsnis. 25 straipsnio pakeitimas ^s-1f9829186dddebfa9b014c7c
 
 
-1. Pakeisti 25 straipsnio pavadinimą ir jį išdėstyti taip: ^s-63cfa73e3fadb13531d0cec4
+1. Pakeisti [[latest/TAR.5DC1759E42CB#^s-033a674667734cf03e42758f|25 straipsnio]] pavadinimą ir jį išdėstyti taip: ^s-63cfa73e3fadb13531d0cec4
 
 
 „25 straipsnis. Bendrieji reikalavimai transporto priemonėms ir priekaboms“.
 
 
-2. Papildyti 25 straipsnį 12 dalimi: ^s-686666c81a9f30d8b77b0ccd
+2. Papildyti [[latest/TAR.5DC1759E42CB#^s-23f49f16e2703cd68432e88c|25 straipsnį 12 dalimi]]: ^s-686666c81a9f30d8b77b0ccd
 
 
 „12. Elektrinės mikrojudumo priemonės, motorinio dviračio arba savo konstrukcija į juos panašios transporto priemonės, kuri viršija šiame įstatyme nustatytas galios ir greičio technines charakteristikas ir negali būti klasifikuojama kaip elektrinė mikrojudumo priemonė arba motorinis dviratis, pardavėjas privalo informuoti pirkėją raštu, ar su parduodama transporto priemone pagal šio įstatymo nuostatas jis galės teisėtai dalyvauti viešajame eisme.“

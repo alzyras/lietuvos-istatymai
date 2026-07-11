@@ -95,7 +95,7 @@ Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip:
 2. Pakeisti 20 straipsnio 3 dalį ir ją išdėstyti taip: ^s-0ee253d75b918af062a70aa0
 
 
-„3. Savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas), gavęs [[#^s-0ee253d75b918af062a70aa0|šio straipsnio 2 dalyje]] išvardytus dokumentus, per 3 darbo dienas pateikia paraišką statinio projektavimo sąlygoms, nurodytoms šio Įstatymo 2 straipsnio 32 dalyje, parengti (pagal kompetenciją):
+„3. Savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas), gavęs šio straipsnio 2 dalyje išvardytus dokumentus, per 3 darbo dienas pateikia paraišką statinio projektavimo sąlygoms, nurodytoms šio Įstatymo 2 straipsnio 32 dalyje, parengti (pagal kompetenciją):
 
 
 1) inžinerinių tinklų ir susisiekimo komunikacijų savininkams ar naudotojams (kai projektavimo sąlygose nustatoma tiesti komunalinius ir vietinius inžinerinius tinklus, prie jų prijungti statinio ir technologines inžinerines sistemas, taip pat statybos sklypo inžinerinius tinklus; nutiesti susisiekimo komunikacijas, prie jų prijungti statybos sklypo susisiekimo komunikacijas); ^s-ccf5b45f95fa25698dd632e6

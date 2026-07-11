@@ -43,10 +43,10 @@ Pripažinti netekusiais galios:
 1) Lietuvos Respublikos firmų vardų įstatymą (Žin., 1999, Nr. 63-2060); ^s-5643562e6b706265d01c8acd
 
 
-2) Lietuvos Respublikos firmų vardų įstatymo 11 ir 17 straipsnių pakeitimo įstatymą (Žin., 2001, Nr. 52-1813); ^s-ed398f5d7272b4a926246cb3
+2) [Lietuvos Respublikos firmų vardų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.97AAD0A34E76) [11](https://e-tar.lt/portal/lt/legalAct/TAR.97AAD0A34E76) ir [17](https://e-tar.lt/portal/lt/legalAct/TAR.97AAD0A34E76) straipsnių pakeitimo įstatymą (Žin., 2001, Nr. 52-1813); ^s-ed398f5d7272b4a926246cb3
 
 
-3) Lietuvos Respublikos firmų vardų įstatymo [[#^s-4bf951eaa13906d19bfe8321|2 straipsnio]] papildymo ir 4 straipsnio pakeitimo įstatymą (Žin., 2002, Nr. 38-1357). ^s-e9714aa0268a36dddf60a202
+3) [Lietuvos Respublikos firmų vardų įstatymo 2 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.97AAD0A34E76) papildymo ir 4 straipsnio pakeitimo įstatymą (Žin., 2002, Nr. 38-1357). ^s-e9714aa0268a36dddf60a202
 
 
 

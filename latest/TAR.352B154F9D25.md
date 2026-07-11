@@ -399,7 +399,7 @@ Valstybinė atominės energetikos saugos inspekcija, vykdydama radiacinės saugo
 2. Pakeisti [[#^s-1ce12be906493fa91fcdbc42|8 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-071333ad80aa0220d17aad9a
 
 
-„1. Gaminti, naudoti, saugoti, montuoti, prižiūrėti, remontuoti, perdirbti jonizuojančiosios spinduliuotės šaltinius, prekiauti jais, vežti radioaktyviąsias medžiagas, tvarkyti (atlikti pradinį radioaktyviųjų atliekų apdorojimą (rinkti, rūšiuoti, dezaktyvuoti), atlikti pagrindinį radioaktyviųjų atliekų apdorojimą, saugoti) ir vežti radioaktyviąsias atliekas ir, neturint jonizuojančiosios spinduliuotės šaltinių, verstis veikla jonizuojančiosios spinduliuotės aplinkoje branduolinės energetikos objekte ar verstis veikla jonizuojančiosios spinduliuotės aplinkoje pas kitą [[#^s-071333ad80aa0220d17aad9a|šio straipsnio 2 dalyje]] nurodytą asmenį, turintį licenciją, galima tik turint Vyriausybės patvirtintų licencijavimo taisyklių nustatyta tvarka išduotą licenciją ar laikinąjį leidimą, išskyrus atvejus, nurodytus [[#^s-0877e4d2258c1bdfe3746d16|šio straipsnio 3 dalyje]].“
+„1. Gaminti, naudoti, saugoti, montuoti, prižiūrėti, remontuoti, perdirbti jonizuojančiosios spinduliuotės šaltinius, prekiauti jais, vežti radioaktyviąsias medžiagas, tvarkyti (atlikti pradinį radioaktyviųjų atliekų apdorojimą (rinkti, rūšiuoti, dezaktyvuoti), atlikti pagrindinį radioaktyviųjų atliekų apdorojimą, saugoti) ir vežti radioaktyviąsias atliekas ir, neturint jonizuojančiosios spinduliuotės šaltinių, verstis veikla jonizuojančiosios spinduliuotės aplinkoje branduolinės energetikos objekte ar verstis veikla jonizuojančiosios spinduliuotės aplinkoje pas kitą šio straipsnio 2 dalyje nurodytą asmenį, turintį licenciją, galima tik turint Vyriausybės patvirtintų licencijavimo taisyklių nustatyta tvarka išduotą licenciją ar laikinąjį leidimą, išskyrus atvejus, nurodytus [[#^s-0877e4d2258c1bdfe3746d16|šio straipsnio 3 dalyje]].“
 
 
 3. 8 straipsnio 3 dalies 2 punkte išbraukti žodį „prekiauti“ ir šį punktą išdėstyti taip: ^s-0877e4d2258c1bdfe3746d16
@@ -408,7 +408,7 @@ Valstybinė atominės energetikos saugos inspekcija, vykdydama radiacinės saugo
 „2) vežti ir saugoti jonizuojančiosios spinduliuotės generatorius;“.
 
 
-4. Pakeisti [[#^s-9a907c6e31a6f2cb54b541bf|8 straipsnio 4 dalį]] ir ją išdėstyti taip: ^s-9a907c6e31a6f2cb54b541bf
+4. Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip: ^s-9a907c6e31a6f2cb54b541bf
 
 
 „4. Licencijų ar laikinųjų leidimų rūšys yra šios:
@@ -432,43 +432,43 @@ Valstybinė atominės energetikos saugos inspekcija, vykdydama radiacinės saugo
 6) licencija ar laikinasis leidimas verstis veikla jonizuojančiosios spinduliuotės aplinkoje pas kitą asmenį, turintį licenciją.“ ^s-edf3343d376e639c2cfb90d6
 
 
-5. Papildyti [[#^s-ce4955069ebef9bc97c79040|8 straipsnį]] nauja [[#^s-e35266e942ee47b520c2402a|5 dalimi]]: ^s-e35266e942ee47b520c2402a
+5. Papildyti [[#^s-ce4955069ebef9bc97c79040|8 straipsnį]] nauja 5 dalimi: ^s-e35266e942ee47b520c2402a
 
 
 „5. Licencijas ar laikinuosius leidimus verstis šio straipsnio 1 dalyje nurodyta veikla, išskyrus branduolinės energetikos srities veiklą su jonizuojančiosios spinduliuotės šaltiniais, išduoda Radiacinės saugos centras.“
 
 
-6. Papildyti [[#^s-ce4955069ebef9bc97c79040|8 straipsnį]] nauja [[#^s-a3b044c66938ccfbb4d09e5f|6 dalimi]]: ^s-a3b044c66938ccfbb4d09e5f
+6. Papildyti [[#^s-ce4955069ebef9bc97c79040|8 straipsnį]] nauja 6 dalimi: ^s-a3b044c66938ccfbb4d09e5f
 
 
 „6. Licencijas ar laikinuosius leidimus verstis šio straipsnio 1 dalyje nurodyta branduolinės energetikos srities veikla su jonizuojančiosios spinduliuotės šaltiniais išduoda Valstybinė atominės energetikos saugos inspekcija.“
 
 
-7. Buvusią [[#^s-e35266e942ee47b520c2402a|8 straipsnio 5 dalį]] laikyti [[#^s-1d2c52e326b4971f0bda0f51|7 dalimi]], ją pakeisti ir išdėstyti taip: ^s-1d2c52e326b4971f0bda0f51
+7. Buvusią [[#^s-e35266e942ee47b520c2402a|8 straipsnio 5 dalį]] laikyti 7 dalimi, ją pakeisti ir išdėstyti taip: ^s-1d2c52e326b4971f0bda0f51
 
 
 „7. Įvežti, išvežti, vežti tranzitu ir vežti Lietuvos Respublikoje radioaktyviąsias medžiagas galima tik turint Radiacinės saugos centro ar Valstybinės atominės energetikos saugos inspekcijos teisės aktų nustatyta tvarka išduotą leidimą. Fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, norintys gauti leidimą vežti radioaktyviąsias medžiagas, turi pateikti teisės aktų nustatyta tvarka Radiacinės saugos centrui ar Valstybinei atominės energetikos saugos inspekcijai nustatytos formos paraišką. Atsakymo dėl leidimo vežti radioaktyviąsias medžiagas išdavimo nepateikimas nelaikomas leidimo vežti radioaktyviąsias medžiagas išdavimu. Jeigu fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, turintys leidimą vežti radioaktyviąsias medžiagas, nesilaiko radiacinę saugą reglamentuojančių teisės aktų ir per leidimą išdavusios institucijos nustatytą terminą nepašalina nurodytų pažeidimų, įstatymų nustatyta tvarka Radiacinės saugos centras ar Valstybinė atominės energetikos saugos inspekcija panaikina leidimo vežti radioaktyviąsias medžiagas galiojimą.“
 
 
-8. Papildyti [[#^s-ce4955069ebef9bc97c79040|8 straipsnį]] nauja [[#^s-262d42074e83043bb7c2e27b|8 dalimi]]: ^s-262d42074e83043bb7c2e27b
+8. Papildyti [[#^s-ce4955069ebef9bc97c79040|8 straipsnį]] nauja 8 dalimi: ^s-262d42074e83043bb7c2e27b
 
 
 „8. Įvežti, išvežti, vežti tranzitu ir vežti Lietuvos Respublikoje radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, galima tik turint Radiacinės saugos centro teisės aktų nustatyta tvarka išduotą leidimą. Fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, norintys gauti leidimą vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, turi pateikti teisės aktų nustatyta tvarka Radiacinės saugos centrui nustatytos formos paraišką. Atsakymo dėl leidimo vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, išdavimo nepateikimas nelaikomas leidimo vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, išdavimu. Jeigu fiziniai ir juridiniai asmenys, kitos organizacijos, juridinių asmenų ir kitų organizacijų filialai, turintys leidimą vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, nesilaiko radiacinę saugą reglamentuojančių teisės aktų ir per leidimą išdavusio Radiacinės saugos centro nustatytą terminą nepašalina nurodytų pažeidimų, įstatymų nustatyta tvarka Radiacinės saugos centras panaikina leidimo vežti radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, galiojimą.“
 
 
-9. Papildyti [[#^s-ce4955069ebef9bc97c79040|8 straipsnį]] nauja [[#^s-342e7ecb82a5a86471116665|9 dalimi]]: ^s-342e7ecb82a5a86471116665
+9. Papildyti [[#^s-ce4955069ebef9bc97c79040|8 straipsnį]] nauja 9 dalimi: ^s-342e7ecb82a5a86471116665
 
 
 „9. Jeigu asmuo turi Radiacinės saugos centro išduotą licenciją ar laikinąjį leidimą [[#^s-1ce12be906493fa91fcdbc42|šio straipsnio 1 dalyje]] nurodytai veiklai, papildoma licencija ar laikinasis leidimais laikinai veiklai su tais pačiais jonizuojančiosios spinduliuotės šaltiniais branduolinės energetikos objekte ar laikinai veiklai jonizuojančiosios spinduliuotės aplinkoje branduolinės energetikos objekte neišduodami, tačiau Radiacinės saugos centras tokią licenciją ar laikinąjį leidimą išduoti arba patikslinti gali tik po to, kai Valstybinė atominės energetikos saugos inspekcija pagal kompetenciją suderina Vyriausybės patvirtintose licencijavimo taisyklėse nustatytus dokumentus.“
 
 
-10. Buvusią [[#^s-a3b044c66938ccfbb4d09e5f|8 straipsnio 6 dalį]] laikyti [[#^s-87445b44930209a193968f9d|10 dalimi]], ją pakeisti ir išdėstyti taip: ^s-87445b44930209a193968f9d
+10. Buvusią [[#^s-a3b044c66938ccfbb4d09e5f|8 straipsnio 6 dalį]] laikyti 10 dalimi, ją pakeisti ir išdėstyti taip: ^s-87445b44930209a193968f9d
 
 
-„10. Už licencijos ar laikinojo leidimo išdavimą, jų patikslinimą, licencijos ar laikinojo leidimo dublikato išdavimą [[#^s-1ce12be906493fa91fcdbc42|šio straipsnio 1 dalyje]] nurodytais atvejais, taip pat už leidimo vežti radioaktyviąsias medžiagas ir radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, ir jo dublikato išdavimą šio straipsnio 7 ir [[#^s-262d42074e83043bb7c2e27b|8 dalyse]] nurodytais atvejais imama valstybės rinkliava.“
+„10. Už licencijos ar laikinojo leidimo išdavimą, jų patikslinimą, licencijos ar laikinojo leidimo dublikato išdavimą [[#^s-1ce12be906493fa91fcdbc42|šio straipsnio 1 dalyje]] nurodytais atvejais, taip pat už leidimo vežti radioaktyviąsias medžiagas ir radioaktyviąsias atliekas, susidariusias nebranduolinio kuro ciklo metu, ir jo dublikato išdavimą šio straipsnio [[#^s-1d2c52e326b4971f0bda0f51|7]] ir [[#^s-262d42074e83043bb7c2e27b|8]] dalyse nurodytais atvejais imama valstybės rinkliava.“
 
 
-11. Buvusias [[#^s-ce4955069ebef9bc97c79040|8 straipsnio]] 7, 8, [[#^s-342e7ecb82a5a86471116665|9 dalis]] laikyti atitinkamai 11, 12, 13 dalimis. ^s-2fb3335c6444c9ce50d9caa8
+11. Buvusias [[#^s-ce4955069ebef9bc97c79040|8 straipsnio]] [[#^s-1d2c52e326b4971f0bda0f51|7]], [[#^s-262d42074e83043bb7c2e27b|8]], [[#^s-342e7ecb82a5a86471116665|9]] dalis laikyti atitinkamai 11, 12, 13 dalimis. ^s-2fb3335c6444c9ce50d9caa8
 
 
 
@@ -580,7 +580,7 @@ Pakeisti 84 straipsnį ir jį išdėstyti taip:
 1) asmuo, turintis licenciją ar laikinąjį leidimą, nusprendžia nutraukti veiklą ir raštu kreipiasi į licencijas ar laikinuosius leidimus išduodančią instituciją su prašymu panaikinti licencijos ar laikinojo leidimo galiojimą; ^s-2ab056e43417886d990e6185
 
 
-2) asmuo, turintis licenciją ar laikinąjį leidimą, per licencijas ar laikinuosius leidimus išduodančios institucijos nurodytą laiką nepašalina pažeidimų, dėl kurių [[#^s-775dfdd939b4c31e1a1b39cb|šio straipsnio 3 dalies]] 1, 2 ir [[#^s-4b874555d9b2899e00fd4509|3 punktuose]] nustatytais pagrindais sustabdytas licencijos ar laikinojo leidimo galiojimas; ^s-28d2c8e8db534a1d373ccd3f
+2) asmuo, turintis licenciją ar laikinąjį leidimą, per licencijas ar laikinuosius leidimus išduodančios institucijos nurodytą laiką nepašalina pažeidimų, dėl kurių [[#^s-775dfdd939b4c31e1a1b39cb|šio straipsnio 3 dalies]] [[#^s-2ab056e43417886d990e6185|1]], 2 ir [[#^s-4b874555d9b2899e00fd4509|3]] punktuose nustatytais pagrindais sustabdytas licencijos ar laikinojo leidimo galiojimas; ^s-28d2c8e8db534a1d373ccd3f
 
 
 3) juridinis asmuo, kita organizacija ar jų filialas, turintys licenciją ar laikinąjį leidimą, baigėsi likvidavimo arba reorganizavimo būdu, fizinis asmuo, turintis licenciją ar laikinąjį leidimą, mirė.“ ^s-4b874555d9b2899e00fd4509
@@ -727,7 +727,7 @@ Darbuotojai privalo naudotis reikiama radiacinės saugos bei fizinės saugos įr
 ### 18 straipsnis. 20 straipsnio pakeitimas ir papildymas ^s-83559ca3d631759a6413e6fb
 
 
-Pakeisti 20 straipsnio 2 dalį, straipsnį papildyti 3 ir [[#^s-f3aacdf08dd62742a64d658e|4 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 20 straipsnio 2 dalį, straipsnį papildyti 3 ir 4 dalimis ir visą straipsnį išdėstyti taip:
 
 
 

@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-410ee6ac7aa85fb7dd9dafbf
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. balandžio 2 d. dekretą Nr. 1K-1015, ratifikuoja Europos Tarybos konvenciją dėl teisės susipažinti su oficialiais dokumentais, pasirašytą 2009 m. birželio 18 d. Trumsėje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. balandžio 2 d. dekretą Nr. 1K-1015](https://e-tar.lt/portal/lt/legalAct/TAR.20EB9A80805A), ratifikuoja Europos Tarybos konvenciją dėl teisės susipažinti su oficialiais dokumentais, pasirašytą 2009 m. birželio 18 d. Trumsėje.
 
 
 

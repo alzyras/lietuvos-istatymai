@@ -58,10 +58,10 @@ Pakeisti bei papildyti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Programos lėšos naudojamos:
 
 
-1) priemonėms, kuriomis kompensuojama aplinkai padaryta žala, kraštovaizdžio kompleksams ar elementams atkurti, aplinkosaugos objektams projektuoti, statyti, rekonstruoti, remontuoti, aplinkos teršimo šaltiniams pašalinti, gamtos ištekliams atkurti ir gausinti – ne mažiau kaip 30 procentų Programos metinių įplaukų (neįskaitant įplaukų pagal [[#^s-2efc8960062c02901f73b8f2|3 straipsnio]] 5, 6, 7 ir [[#^s-b43263586d94be29544af92e|8 punktus]]); ^s-986f24d5254b7bc1e53b7034
+1) priemonėms, kuriomis kompensuojama aplinkai padaryta žala, kraštovaizdžio kompleksams ar elementams atkurti, aplinkosaugos objektams projektuoti, statyti, rekonstruoti, remontuoti, aplinkos teršimo šaltiniams pašalinti, gamtos ištekliams atkurti ir gausinti – ne mažiau kaip 30 procentų Programos metinių įplaukų (neįskaitant įplaukų pagal [[#^s-2efc8960062c02901f73b8f2|3 straipsnio]] 5, 6, 7 ir 8 punktus); ^s-986f24d5254b7bc1e53b7034
 
 
-2) žuvų ištekliams atkurti ir saugoti – įplaukos pagal [[#^s-2efc8960062c02901f73b8f2|3 straipsnio]] 5, 6 ir [[#^s-e6b80765c055d9dff37cdc0b|7 punktus]]; ^s-ec5438fdd50ce29622d458b0
+2) žuvų ištekliams atkurti ir saugoti – įplaukos pagal [[#^s-2efc8960062c02901f73b8f2|3 straipsnio]] 5, 6 ir 7 punktus; ^s-ec5438fdd50ce29622d458b0
 
 
 3) medžiojamųjų gyvūnų išteklių apsaugos ir gausinimo priemonėms; medžioklėtvarkos projektams rengti; medžiojamųjų gyvūnų ir medžioklės moksliniams tyrimams; medžiojamųjų gyvūnų, saugomų pagal Europos Sąjungos teisės aktų reikalavimus, monitoringui; priemonėms prieš brakonieriavimą; medžioklės plėtrą skatinančioms bei medžioklės kultūrą ir tradicijas puoselėjančioms priemonėms; retų ir nykstančių rūšių laukinių gyvūnų ir medžiojamųjų gyvūnų, kurių medžioklė uždrausta ištisus metus, padarytai žalai žemės, miško ir vandens telkinių sklypų, kuriuose nėra uždrausta medžioti, savininkams, valdytojams ir naudotojams kompensuoti bei šių gyvūnų daromos žalos prevencijos priemonėms – įplaukos pagal 3 straipsnio 8 punktą; ^s-905a7f4b35b6a504c385baad
@@ -82,7 +82,7 @@ Pakeisti bei papildyti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 8) vardinėms premijoms skirti asmenims už nuopelnus aplinkosaugos srityje; ^s-b43263586d94be29544af92e
 
 
-9) neetatinių aplinkos apsaugos inspektorių atliekamiems aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės darbams bei rengiamoms programoms įgyvendinti – ne daugiau kaip 5 procentai Programos metinių įplaukų (neįskaitant įplaukų pagal [[#^s-2efc8960062c02901f73b8f2|3 straipsnio]] 5, 6, 7 ir [[#^s-b43263586d94be29544af92e|8 punktus]]).“ ^s-c75c36e55c40175b5b8af052
+9) neetatinių aplinkos apsaugos inspektorių atliekamiems aplinkos apsaugos ir gamtos išteklių naudojimo kontrolės darbams bei rengiamoms programoms įgyvendinti – ne daugiau kaip 5 procentai Programos metinių įplaukų (neįskaitant įplaukų pagal [[#^s-2efc8960062c02901f73b8f2|3 straipsnio]] 5, 6, 7 ir 8 punktus).“ ^s-c75c36e55c40175b5b8af052
 
 
 

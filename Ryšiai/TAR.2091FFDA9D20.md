@@ -10,7 +10,8 @@ pavadinimas: "Lietuvos Respublikos Lietuvos Respublikoje išrinktų Europos Parl
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.08A4E2305357|Lietuvos Respublikos Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymas]] - Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymo
-- [[latest/TAR.08A4E2305357#^s-ad3754766089e7ba04a1e50d|Lietuvos Respublikos Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymas]] - Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymo nuostatos, išskyrus 5 ir 10 straipsnių
+- [[latest/TAR.08A4E2305357#^s-ad3754766089e7ba04a1e50d|Lietuvos Respublikos Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymas]] - 10
+- [[latest/TAR.08A4E2305357#^s-bb618a8a55e40b2b5c8dc771|Lietuvos Respublikos Lietuvos Respublikoje išrinktų Europos Parlamento narių statuso ir darbo sąlygų įstatymas]] - 5
 
 ## Šį įstatymą cituoja
 

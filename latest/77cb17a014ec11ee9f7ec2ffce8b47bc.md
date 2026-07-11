@@ -43,17 +43,17 @@ Vilnius
 ### 1 straipsnis. 37 straipsnio pakeitimas ^s-1c5e03cb2f6a91d973b89076
 
 
-Pakeisti 37 straipsnio 6 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/422c8b5042b811e6a8ae9e1795984391#^s-c5e76964fc0f3ea916e2e709|37 straipsnio 6 dalį]] ir ją išdėstyti taip:
 
 
-„6. Bedarbiams per visą profesinio mokymosi laikotarpį kartą per mėnesį mokama mokymo stipendija, atsižvelgiant į lankytas valandas. Mokymo stipendijos dydis bedarbio pasirinkimu yra 0,5 Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio už lankytą profesinio mokymosi valandą arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis [[latest/TAR.FDF42614DE52|Nedarbo socialinio draudimo įstatymu]] ir kuri mažinama proporcingai numatytų, bet nelankytų valandų skaičiui, išskyrus atvejus, kai dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino bedarbio profesinio mokymo teikėjo veikla sustabdoma. Pasibaigus nedarbo socialinio draudimo išmokos mokėjimo terminui, jeigu jis negali būti pratęstas [[latest/TAR.FDF42614DE52|Nedarbo socialinio draudimo įstatymo]] nustatyta tvarka, mokymo stipendija bedarbiui mokama 0,5 Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio už lankytą profesinio mokymosi valandą. Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu bedarbiui mokama 0,4 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija. Jeigu Lietuvos Respublikos Vyriausybė atšaukia ekstremaliąją situaciją ir karantiną arba profesinio mokymo teikėjas atnaujina dėl Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino sustabdytą veiklą, mokymo stipendijos dydis, atsižvelgiant į bedarbio lankytų profesinio mokymosi valandų skaičių, bedarbio pasirinkimu yra 0,5 Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio už kiekvieną lankytą valandą arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis [[latest/TAR.FDF42614DE52|Nedarbo socialinio draudimo įstatymu]].“
+„6. Bedarbiams per visą profesinio mokymosi laikotarpį kartą per mėnesį mokama mokymo stipendija, atsižvelgiant į lankytas valandas. Mokymo stipendijos dydis bedarbio pasirinkimu yra 0,5 Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio už lankytą profesinio mokymosi valandą arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis [[latest/TAR.FDF42614DE52|Nedarbo socialinio draudimo įstatymu]] ir kuri mažinama proporcingai numatytų, bet nelankytų valandų skaičiui, išskyrus atvejus, kai [dėl Lietuvos Respublikos Vyriausybės](https://e-tar.lt/portal/lt/legalAct/TAR.7B11B97BAFCE) paskelbtos ekstremaliosios situacijos ir karantino bedarbio profesinio mokymo teikėjo veikla sustabdoma. Pasibaigus nedarbo socialinio draudimo išmokos mokėjimo terminui, jeigu jis negali būti pratęstas [[latest/TAR.FDF42614DE52|Nedarbo socialinio draudimo įstatymo]] nustatyta tvarka, mokymo stipendija bedarbiui mokama 0,5 Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio už lankytą profesinio mokymosi valandą. Lietuvos Respublikos Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu bedarbiui mokama 0,4 Lietuvos Respublikos Vyriausybės patvirtintos minimaliosios mėnesinės algos dydžio mokymo stipendija. Jeigu Lietuvos Respublikos Vyriausybė atšaukia ekstremaliąją situaciją ir karantiną arba profesinio mokymo teikėjas atnaujina [dėl Lietuvos Respublikos Vyriausybės](https://e-tar.lt/portal/lt/legalAct/TAR.7B11B97BAFCE) paskelbtos ekstremaliosios situacijos ir karantino sustabdytą veiklą, mokymo stipendijos dydis, atsižvelgiant į bedarbio lankytų profesinio mokymosi valandų skaičių, bedarbio pasirinkimu yra 0,5 Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio už kiekvieną lankytą valandą arba bedarbiui priklausanti nedarbo socialinio draudimo išmoka, kurios dydis apskaičiuojamas ir mokėjimo terminas nustatomas vadovaujantis [[latest/TAR.FDF42614DE52|Nedarbo socialinio draudimo įstatymu]].“
 
 
 
 ### 2 straipsnis. 392 straipsnio pakeitimas ^s-9c8d5a58f47346463c5f2e9a
 
 
-Pakeisti 392 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/422c8b5042b811e6a8ae9e1795984391#^s-22bf44a928a3aff9d06e0209|392 straipsnio 1 dalies 3 punktą]] ir jį išdėstyti taip:
 
 
 „3) mokytis valstybinės kalbos siunčiami bedarbiai ar užimti asmenys, nurodyti šio įstatymo 1 straipsnio 2 dalies 3 punkte.“
@@ -63,10 +63,10 @@ Pakeisti 392 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. 393 straipsnio pakeitimas ^s-2f1483ce9262d9dbf90781ed
 
 
-Pakeisti 393 straipsnio 5 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/422c8b5042b811e6a8ae9e1795984391#^s-ac2db41d286919538a72564d|393 straipsnio 5 dalį]] ir ją išdėstyti taip:
 
 
-„5. Bedarbiams mokymo stipendija mutatis mutandis mokama šio įstatymo 37 straipsnio 6 dalyje nustatytomis sąlygomis. Užimtiems asmenims per visą mokymosi laikotarpį pagal lankytas valandas kartą per mėnesį mokama 0,3 Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio mokymo stipendija už kiekvieną lankytą valandą.“
+„5. Bedarbiams mokymo stipendija mutatis mutandis mokama šio įstatymo [[latest/422c8b5042b811e6a8ae9e1795984391#^s-c5e76964fc0f3ea916e2e709|37 straipsnio 6 dalyje]] nustatytomis sąlygomis. Užimtiems asmenims per visą mokymosi laikotarpį pagal lankytas valandas kartą per mėnesį mokama 0,3 Lietuvos Respublikos Vyriausybės patvirtinto minimaliojo valandinio atlygio dydžio mokymo stipendija už kiekvieną lankytą valandą.“
 
 
 

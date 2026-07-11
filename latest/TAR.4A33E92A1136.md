@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-750b62f11dbff85fa40fa386
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. birželio 2 d. dekretą Nr. 85, ratifikuoja 1999 m. lapkričio 1 d. Keiptaune priimtą Susitarimą dėl Afrikos ir Eurazijos migruojančių vandens paukščių išsaugojimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas [2004 m. birželio 2 d. dekretą Nr. 85](https://e-tar.lt/portal/lt/legalAct/TAR.549628794632), ratifikuoja 1999 m. lapkričio 1 d. Keiptaune priimtą Susitarimą dėl Afrikos ir Eurazijos migruojančių vandens paukščių išsaugojimo.
 
 
 

@@ -82,7 +82,7 @@ licencijų, nurodytų šio įstatymo 38 straipsnyje, išdavimo, panaikinimo ir s
 patento panaikinimo.
 
 
-Ginčai dėl Lietuvos Respublikos Vyriausybės nutarimo dėl leidimo naudoti patentuotą išradimą suteikimo, patentuoto išradimo naudojimo su Vyriausybės leidimu sąlygų pakeitimo, atlyginimo patentuoto išradimo savininkui už tokio patento naudojimą dydžio nustatymo bei leidimo panaikinimo sprendžiami įstatymų nustatyta tvarka.
+Ginčai [dėl Lietuvos Respublikos Vyriausybės](https://e-tar.lt/portal/lt/legalAct/TAR.7B11B97BAFCE) nutarimo dėl leidimo naudoti patentuotą išradimą suteikimo, patentuoto išradimo naudojimo su Vyriausybės leidimu sąlygų pakeitimo, atlyginimo patentuoto išradimo savininkui už tokio patento naudojimą dydžio nustatymo bei leidimo panaikinimo sprendžiami įstatymų nustatyta tvarka.
 
 
 
@@ -142,20 +142,20 @@ Pateikti šio straipsnio pirmojoje dalyje nurodytą informaciją gali būti įpa
 ### 412 straipsnis. Įrodymai ^s-c645cd507f4adf8c9f62f53c
 
 
-Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu Civilinio proceso kodekso nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo pažeistos šio įstatymo nustatytos teisės.
+Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo pažeistos šio įstatymo nustatytos teisės.
 
 
-Jeigu šio įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra šio straipsnio pirmojoje dalyje nurodytos sąlygos, teismas Civilinio proceso kodekso nustatyta tvarka iš priešingos šalies gali išreikalauti banko, finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais.
+Jeigu šio įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra šio straipsnio pirmojoje dalyje nurodytos sąlygos, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka iš priešingos šalies gali išreikalauti banko, finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais.
 
 
 
 ### 413 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės ^s-f306639c47ddf89e0574a3bf
 
 
-Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja Civilinio proceso kodeksas ir šis įstatymas.
+Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir šis įstatymas.
 
 
-Kai yra pakankamas pagrindas įtarti, kad buvo šio įstatymo nustatytų teisių pažeidimas, teismas Civilinio proceso kodekso nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra:
+Kai yra pakankamas pagrindas įtarti, kad buvo šio įstatymo nustatytų teisių pažeidimas, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra:
 
 
 1) uždrausti asmenims daryti gresiantį šio įstatymo nustatytų teisių pažeidimą; ^s-324a09d6b4397a910061881a
@@ -173,7 +173,7 @@ Kai yra pakankamas pagrindas įtarti, kad buvo šio įstatymo nustatytų teisių
 5) areštuoti šio įstatymo nustatytų teisių pažeidimu įtariamų asmenų turtą, kurį turi jie arba tretieji asmenys, įskaitant banko ir kitų kredito įstaigų sąskaitas; taip pat reikalauti pateikti banko, finansinius ar komercinius dokumentus ar sudaryti galimybę susipažinti su šiais dokumentais, jeigu pažeidimas padarytas komerciniu tikslu; ^s-20beb9690e515ad64f92d6c7
 
 
-6) taikyti kitas Civilinio proceso kodekso nustatytas priemones. ^s-789a4392e56bf215fa7c6443
+6) taikyti kitas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytas priemones. ^s-789a4392e56bf215fa7c6443
 
 
 Jeigu pritaikytos šio straipsnio antrosios dalies 1 ir 2 punktuose nurodytos laikinosios apsaugos priemonės yra pažeidžiamos ar šis pažeidimas tęsiamas, teismas gali įpareigoti pažeidimo padarymu įtariamus asmenis pateikti tinkamą galimos žalos kompensavimo užtikrinimą asmeniui, prašiusiam taikyti laikinąsias apsaugos priemones.
@@ -191,7 +191,7 @@ Teismas asmens, pateikusio visus pagrįstai turimus ir jo reikalavimus pagrindž
 2) areštuoti šio įstatymo nustatytas teises pažeidžiančius gaminius, prireikus – medžiagas ir priemones, kurios yra naudojamos jų gamybai ir (arba) platinimui, bei su jomis susijusius dokumentus ir juos paimti; ^s-26090286c40e76dc91a040c7
 
 
-3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas Civilinio proceso kodekse. ^s-5c270e7f58ed71f468ebfe46
+3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). ^s-5c270e7f58ed71f468ebfe46
 
 
 Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač tais atvejais, kai delsimas galėtų padaryti nepataisomą žalą pareiškėjui arba kai įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kad laikinosios priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, t. y. iš karto tas priemones pritaikius. Šalių prašymu, įskaitant teisę būti išklausytam, laikinosios apsaugos priemonės gali būti peržiūrėtos siekiant per protingą terminą po pranešimo apie priemonių pritaikymą nuspręsti, ar šios priemonės turi būti pakeistos, panaikintos ar patvirtintos.

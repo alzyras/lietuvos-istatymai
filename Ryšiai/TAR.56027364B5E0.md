@@ -9,11 +9,10 @@ pavadinimas: "Lietuvos Respublikos geležinkelių transporto eismo saugos įstat
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.6EA8AC8A483B|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - 2 citatos - Lietuvos Respublikos geležinkelių transporto kodekse
-- [[latest/TAR.C40F7F89A7C3|Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas]] - 2 citatos - Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo
-- [[latest/TAR.FBE404535C5B|Lietuvos Respublikos transporto veiklos pagrindų įstatymas]] - 2 citatos - Lietuvos Respublikos transporto veiklos pagrindų įstatyme
+- [[latest/TAR.6EA8AC8A483B|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - Lietuvos Respublikos geležinkelių transporto kodekse
+- [[latest/TAR.C40F7F89A7C3|Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas]] - Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo
+- [[latest/TAR.FBE404535C5B|Lietuvos Respublikos transporto veiklos pagrindų įstatymas]] - Lietuvos Respublikos transporto veiklos pagrindų įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C7A984833333#^s-38a812c37cc2565d2a29af55|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - 4 citatos - 1111010ISTA0XI-1334
-- [[latest/TAR.C7A984833333#^s-fcac146a349a2b05ad35701b|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - 4 citatos - 1111010ISTA0XI-1334
+- [[latest/TAR.C7A984833333#^s-38a812c37cc2565d2a29af55|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - 3 citatos - 1111010ISTA0XI-1334

@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 4, 6, 16, 17, 20,
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - Įstatymas Nr. XII-460
+_Nėra._

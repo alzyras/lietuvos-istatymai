@@ -140,7 +140,7 @@ prisiekiu visomis išgalėmis stiprinti Lietuvos nepriklausomybę, tarnauti Tėv
 6. Respublikos Prezidento priesaikos priėmimo ceremoniją tiesiogiai transliuoja Lietuvos nacionalinis radijas ir televizija. ^s-f49c746838b982d51496c716
 
 
-7. Respublikos Prezidento priesaikos priėmimo ceremonijoje kviečiami dalyvauti Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatai 1990 m. kovo 11 d. Akto „Dėl Lietuvos nepriklausomos valstybės atstatymo“ signatarai, Lietuvos Respublikos Vyriausybės nariai, Lietuvoje akredituoti užsienio valstybių diplomatai, tradicinių ir kitų valstybės pripažintų religinių bendruomenių ir bendrijų aukščiausieji hierarchai, politinių partijų ir politinių organizacijų, asociacijų atstovai. ^s-601cad6847045cfa80916432
+7. Respublikos Prezidento priesaikos priėmimo ceremonijoje kviečiami dalyvauti Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatai 1990 m. kovo 11 d. Akto [„Dėl Lietuvos nepriklausomos valstybės atstatymo“](https://e-tar.lt/portal/lt/legalAct/TAR.12C754906DE4) signatarai, Lietuvos Respublikos Vyriausybės nariai, Lietuvoje akredituoti užsienio valstybių diplomatai, tradicinių ir kitų valstybės pripažintų religinių bendruomenių ir bendrijų aukščiausieji hierarchai, politinių partijų ir politinių organizacijų, asociacijų atstovai. ^s-601cad6847045cfa80916432
 
 
 
@@ -222,7 +222,7 @@ RESPUBLIKOS PREZIDENTO PAREIGŲ VYKDYMAS
 2) dėl aukščiausių diplomatinių rangų ir specialių vardų suteikimo – Lietuvos Respublikos užsienio reikalų ministras; ^s-89c56fcd3a07a4028b0f4c3f
 
 
-3) dėl aukščiausių karinių laipsnių suteikimo – Lietuvos Respublikos krašto apsaugos ministras; ^s-9633755a1e364ece8bcfff32
+3) [dėl aukščiausių karinių laipsnių suteikimo](https://e-tar.lt/portal/lt/legalAct/TAR.1CBE4AC1C44E) – Lietuvos Respublikos krašto apsaugos ministras; ^s-9633755a1e364ece8bcfff32
 
 
 4) dėl nepaprastosios padėties skelbimo – Lietuvos Respublikos Ministras Pirmininkas; ^s-6a16347b7ac7f89a66cc99c1
@@ -337,7 +337,7 @@ Jeigu Respublikos Prezidentas suserga ir dėl to laikinai negali eiti savo parei
 3) lengvo sveikatos sutrikimo atveju – 12 mėnesių darbo užmokesčio dydžio. ^s-4a57c50768b9e3a30bbd1d68
 
 
-4. Šio straipsnio 1–[[#^s-f07cda9e34c40f30558f438d|3 dalyse]] numatytos kompensacijos mokamos, jei Respublikos Prezidentas žuvo ar jo sveikata sutriko dėl priežasčių, susijusių su Respublikos Prezidento pareigų vykdymu. Sprendimą, ar Respublikos Prezidentas žuvo arba jo sveikata sutriko dėl jo eitų Respublikos Prezidento pareigų, priima Vyriausybės sudaryta laikinoji komisija, dalyvaujant joje teisėsaugos ir kitų kompetentingų institucijų atstovams. ^s-dd50c3ede2bfddc4aa754279
+4. Šio straipsnio [[#^s-0ba9d45af1a00af5cc142de7|1]]–[[#^s-f07cda9e34c40f30558f438d|3]] dalyse numatytos kompensacijos mokamos, jei Respublikos Prezidentas žuvo ar jo sveikata sutriko dėl priežasčių, susijusių su Respublikos Prezidento pareigų vykdymu. Sprendimą, ar Respublikos Prezidentas žuvo arba jo sveikata sutriko dėl jo eitų Respublikos Prezidento pareigų, priima Vyriausybės sudaryta laikinoji komisija, dalyvaujant joje teisėsaugos ir kitų kompetentingų institucijų atstovams. ^s-dd50c3ede2bfddc4aa754279
 
 
 5. Jeigu žuvo Respublikos Prezidento sutuoktinis ar Respublikos Prezidentą lydintis asmuo, jo išlaikytiems asmenims ([[#^s-22becdd7cd959c78b8ce6fd9|šio straipsnio 7 dalis]]) lygiomis dalimis išmokama vienkartinė kompensacija, kurios dydis sudaro 25 procentus [[#^s-0ba9d45af1a00af5cc142de7|šio straipsnio 1 dalyje]] numatytos vienkartinės kompensacijos. Sveikatos sutrikimo atvejais, kai Respublikos Prezidento sutuoktinis ar Respublikos Prezidentą lydintis asmuo tampa neįgalus, jam išmokamos vienkartinės kompensacijos dydis sudaro 25 procentus [[#^s-9624225e329645fb20a25744|šio straipsnio 2 dalyje]] nurodytos išmokos, o kai jis netapo neįgalus, tačiau neteko darbingumo, – 25 procentus [[#^s-f07cda9e34c40f30558f438d|šio straipsnio 3 dalyje]] nurodytos išmokos. Nustatant šioje dalyje numatytų vienkartinių kompensacijų dydį, taikomas Respublikos Prezidento sutuoktinio ar Respublikos Prezidentą lydinčio asmens (atitinkamai) žūties, darbingumo lygio nustatymo ar sveikatos sutrikdymo mėnesį galiojęs Respublikos Prezidento darbo užmokestis. ^s-5de7d7f8c0a4bb5c86828e6f
@@ -346,7 +346,7 @@ Jeigu Respublikos Prezidentas suserga ir dėl to laikinai negali eiti savo parei
 6. [[#^s-5de7d7f8c0a4bb5c86828e6f|Šio straipsnio 5 dalyje]] numatytos kompensacijos mokamos, jei Respublikos Prezidento sutuoktinis ar Respublikos Prezidentą lydintis asmuo žuvo ar jo sveikata sutriko dėl valstybinio ir (ar) diplomatinio protokolo nustatytų funkcijų vykdymo. Sprendimą dėl žūties ar sveikatos sutrikimo priežasties ryšio su šių funkcijų vykdymu priima Respublikos Prezidento kanceliarijos kanclerio sudaryta laikinoji komisija. ^s-b2cd90e285c7e733c999e273
 
 
-7. Pagal šio įstatymo 1 ir [[#^s-5de7d7f8c0a4bb5c86828e6f|5 dalis]] vienkartinės kompensacijos išmokamos žuvusiojo sutuoktiniui, vaikams (įvaikiams) iki 18 metų, taip pat vyresniems kaip 18 metų, jeigu jie mokosi nustatyta tvarka įregistruotų aukštųjų, profesinių, bendrojo lavinimo mokyklų dieniniuose skyriuose arba pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, žuvusiojo vaikams, gimusiems po jo mirties, tėvui (įtėviui), motinai (įmotei), taip pat nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą. ^s-22becdd7cd959c78b8ce6fd9
+7. Pagal šio įstatymo [[#^s-0ba9d45af1a00af5cc142de7|1]] ir [[#^s-5de7d7f8c0a4bb5c86828e6f|5]] dalis vienkartinės kompensacijos išmokamos žuvusiojo sutuoktiniui, vaikams (įvaikiams) iki 18 metų, taip pat vyresniems kaip 18 metų, jeigu jie mokosi nustatyta tvarka įregistruotų aukštųjų, profesinių, bendrojo lavinimo mokyklų dieniniuose skyriuose arba pripažinti neįgaliaisiais (iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, žuvusiojo vaikams, gimusiems po jo mirties, tėvui (įtėviui), motinai (įmotei), taip pat nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi arba jo mirties dieną turėjo teisę gauti jo išlaikymą. ^s-22becdd7cd959c78b8ce6fd9
 
 
 8. Darbingumo lygį, nepaisant Respublikos Prezidento, Respublikos Prezidento sutuoktinio ar Respublikos Prezidentą lydinčio asmens amžiaus, taip pat sveikatos sutrikimo sunkumo laipsnį nustato Neįgalumo ir darbingumo nustatymo tarnyba prie Socialinės apsaugos ir darbo ministerijos. ^s-e408d5fb576f74af355af09f
@@ -402,7 +402,7 @@ LAIKINAS RESPUBLIKOS PREZIDENTO PAREIGŲ ĖJIMAS IR PAVADAVIMAS
 2. Laikinai eidamas Respublikos Prezidento pareigas, Seimo Pirmininkas tam laikui netenka savo įgaliojimų Seime, jam laikinai pereina visi Respublikos Prezidento įgaliojimai. Seimo Pirmininkas Respublikos Prezidento pareigas eina tol, kol įstatymo nustatyta tvarka prisieks naujai išrinktas Respublikos Prezidentas. ^s-16052fdea33317127cdca473
 
 
-3. Laikinai eidamas Respublikos Prezidento pareigas, Seimo Pirmininkas, jo sutuoktinis ar jį lydintis asmuo turi teisę į materialines ir socialines garantijas, nustatytas šio įstatymo 14–[[#^s-baf2ead76e50bb646a455336|19 straipsniuose]]. ^s-1d82a281fcf050933cb7d87a
+3. Laikinai eidamas Respublikos Prezidento pareigas, Seimo Pirmininkas, jo sutuoktinis ar jį lydintis asmuo turi teisę į materialines ir socialines garantijas, nustatytas šio įstatymo [[#^s-ce2e325194b5838bc3cdb9e3|14]]–[[#^s-baf2ead76e50bb646a455336|19]] straipsniuose. ^s-1d82a281fcf050933cb7d87a
 
 
 

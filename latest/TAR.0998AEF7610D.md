@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-71352da1a5428694a535c3f0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Austrijos Respublikos Vyriausybės susitarimą dėl keleivių tarptautinių vežimų autobusais nereguliariais reisais“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Austrijos Respublikos Vyriausybės susitarimą dėl keleivių tarptautinių vežimų autobusais nereguliariais reisais, pasirašytą 1998 m. sausio 27 d. Vienoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Austrijos Respublikos Vyriausybės susitarimą dėl keleivių tarptautinių vežimų autobusais nereguliariais reisais“](https://e-tar.lt/portal/lt/legalAct/TAR.A771BB49E8FA), ratifikuoja Lietuvos Respublikos Vyriausybės ir Austrijos Respublikos Vyriausybės susitarimą dėl keleivių tarptautinių vežimų autobusais nereguliariais reisais, pasirašytą 1998 m. sausio 27 d. Vienoje.
 
 
 

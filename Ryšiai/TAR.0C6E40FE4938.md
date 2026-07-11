@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.389CB90C666D#^s-2d1f543c487eec7f86dcbfc5|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - 2 citatos - GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 2, 8, 9, 12, 14, 17, 21, 23, 24, 30, 32, 33, 35, 37, 41, 46 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.389CB90C666D#^s-4269d48995ca5276b982d81d|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - 2 citatos - GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 2, 8, 9, 12, 14, 17, 21, 23, 24, 30, 32, 33, 35, 37, 41, 46 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.389CB90C666D#^s-2d1f543c487eec7f86dcbfc5|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 2, 8, 9, 12, 14, 17, 21, 23, 24, 30, 32, 33, 35, 37, 41, 46 STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO ĮSTATYMAS

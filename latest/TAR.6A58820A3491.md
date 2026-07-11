@@ -191,13 +191,13 @@ BENDROSIOS NUOSTATOS
 2. Mokėjimo paslaugų teikėjai ir mokėjimo paslaugų vartotojai gali susitarti visai ar iš dalies netaikyti šio įstatymo nuostatų mokėjimo operacijoms užsienio valstybių valiutomis, taip pat gali susitarti netaikyti šio įstatymo nuostatų, išskyrus šio įstatymo [[#^s-03fc39369fa99e97a9b9cb2d|39 straipsnį]], mokėjimo operacijoms valstybių narių valiutomis, vykdomoms į užsienio valstybes arba iš jų. ^s-4fc5fc8c7d1fffdafe22f34e
 
 
-3. Mokėjimo paslaugų teikėjai ir mokėjimo paslaugų vartotojai, išskyrus vartotojus, mokėjimo operacijoms valstybių narių valiutomis, vykdomoms Lietuvos Respublikoje, į kitas valstybes nares arba iš jų, gali susitarti netaikyti visų ar dalies šio įstatymo III skyriaus nuostatų, taip pat visai ar iš dalies netaikyti šio įstatymo [[#^s-8659290cd9977788bdbaae68|4 straipsnio]] 1, 2 ir 3 punktuose, [[#^s-e217a00da1f56f9a2f3aefac|9 straipsnio]] 1 ir [[#^s-4fc5fc8c7d1fffdafe22f34e|2 dalyse]], [[#^s-8adad7692abfd5e94463b4f2|23 straipsnio 3 dalyje]], 28, 30, 31, 34 ir [[#^s-cf92f429fd87d5702efabd85|41 straipsniuose]] nustatytų reikalavimų, taip pat gali susitarti dėl kito termino, negu nustatyta šio įstatymo [[#^s-6b73db66867715684e6d5d8b|27 straipsnyje]]. ^s-c6ec14878e0d9e55533a3eda
+3. Mokėjimo paslaugų teikėjai ir mokėjimo paslaugų vartotojai, išskyrus vartotojus, mokėjimo operacijoms valstybių narių valiutomis, vykdomoms Lietuvos Respublikoje, į kitas valstybes nares arba iš jų, gali susitarti netaikyti visų ar dalies šio įstatymo III skyriaus nuostatų, taip pat visai ar iš dalies netaikyti šio įstatymo [[#^s-8659290cd9977788bdbaae68|4 straipsnio]] 1, 2 ir 3 punktuose, [[#^s-e217a00da1f56f9a2f3aefac|9 straipsnio]] [[#^s-f4634c3aad7e44cd251712b7|1]] ir [[#^s-9838d60de5373b5a36d1fbb7|2]] dalyse, [[#^s-8adad7692abfd5e94463b4f2|23 straipsnio 3 dalyje]], [[#^s-2f3b12501da430f109103f71|28]], [[#^s-6420a5ab419591d7202d3ed9|30]], [[#^s-1e139186c222a36bbad8b315|31]], [[#^s-76d98abc7a6e3ddb866ea5ae|34]] ir [[#^s-cf92f429fd87d5702efabd85|41]] straipsniuose nustatytų reikalavimų, taip pat gali susitarti dėl kito termino, negu nustatyta šio įstatymo [[#^s-6b73db66867715684e6d5d8b|27 straipsnyje]]. ^s-c6ec14878e0d9e55533a3eda
 
 
-4. Šio įstatymo 29 ir [[#^s-6420a5ab419591d7202d3ed9|30 straipsniai]] netaikomi elektroniniams pinigams, jeigu mokėtojo mokėjimo paslaugų teikėjas negali įšaldyti mokėjimo sąskaitos ar blokuoti mokėjimo priemonės. ^s-c22833e2f79515c04f1aee89
+4. Šio įstatymo [[#^s-8ac65afc53213ad81492ca10|29]] ir [[#^s-6420a5ab419591d7202d3ed9|30]] straipsniai netaikomi elektroniniams pinigams, jeigu mokėtojo mokėjimo paslaugų teikėjas negali įšaldyti mokėjimo sąskaitos ar blokuoti mokėjimo priemonės. ^s-c22833e2f79515c04f1aee89
 
 
-5. Tais atvejais, kai taikomas ir [[latest/TAR.D790096B17EE#^s-3f5a21b513da79f12337d0b7|Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, vietoj jo 36 straipsnio]] 5–9 dalyse nustatytų informacijos reikalavimų, išskyrus 36 straipsnio 7 dalies 3–8 punktus, 36 straipsnio 8 dalies 1, 4 ir 5 punktus ir 36 straipsnio 9 dalies 2 punktą, taikomos šio įstatymo 10 ir [[#^s-230043044ea46d44cec66ec5|17 straipsnių]] nuostatos. ^s-6074b7ec3407273c2c68d9de
+5. Tais atvejais, kai taikomas ir [[latest/TAR.D790096B17EE#^s-3f5a21b513da79f12337d0b7|Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, vietoj jo 36 straipsnio]] [[latest/TAR.D790096B17EE#^s-fc70dc90e8c3990b47b1a82b|5]]–[[latest/TAR.D790096B17EE|9]] dalyse nustatytų informacijos reikalavimų, išskyrus 36 straipsnio 7 dalies 3–8 punktus, 36 straipsnio 8 dalies 1, 4 ir 5 punktus ir 36 straipsnio 9 dalies 2 punktą, taikomos šio įstatymo [[#^s-fe51286a9aab88082b9d83a1|10]] ir [[#^s-230043044ea46d44cec66ec5|17]] straipsnių nuostatos. ^s-6074b7ec3407273c2c68d9de
 
 
 6. Šio įstatymo nuostatos, susijusios su vartotojams teikiamais kreditais, taikomos tiek, kiek kiti įstatymai, reglamentuojantys vartotojams teikiamus kreditus, nenustato kitaip. ^s-57dfb963ae2468bd54596f5b
@@ -261,7 +261,7 @@ BENDROSIOS NUOSTATOS
 Kai mokėjimo priemonės pagal bendrąją sutartį yra susijusios tik su atskiromis mokėjimo operacijomis, kurios neviršija 30 eurų ekvivalento litais arba kurioms įvykdyti nustatytas 150 eurų ekvivalento litais išlaidų limitas, arba kurių elektroninėse laikmenose saugoma ne didesnė kaip 150 eurų ekvivalento litais suma bet kuriuo metu:
 
 
-1) mokėjimo paslaugų teikėjas turi teisę mokėtojui pateikti tik informaciją apie pagrindines mokėjimo paslaugos savybes, įskaitant mokėjimo priemonės naudojimo instrukciją, atsakomybę, taikomą komisinį atlyginimą ir kitą svarbią informaciją, taip pat nurodyti, kur lengvai prieinamu būdu galima susipažinti su kitomis šio įstatymo [[#^s-fe51286a9aab88082b9d83a1|10 straipsnio]] 2–8 dalyse nustatytomis mokėjimo paslaugų teikimo sąlygomis; ^s-0e0d6fcd1ce722856c359d45
+1) mokėjimo paslaugų teikėjas turi teisę mokėtojui pateikti tik informaciją apie pagrindines mokėjimo paslaugos savybes, įskaitant mokėjimo priemonės naudojimo instrukciją, atsakomybę, taikomą komisinį atlyginimą ir kitą svarbią informaciją, taip pat nurodyti, kur lengvai prieinamu būdu galima susipažinti su kitomis šio įstatymo [[#^s-fe51286a9aab88082b9d83a1|10 straipsnio]] [[#^s-5eb919d35f46ea55f130128b|2]]–[[#^s-9f131dc7689f995d6501462a|8]] dalyse nustatytomis mokėjimo paslaugų teikimo sąlygomis; ^s-0e0d6fcd1ce722856c359d45
 
 
 2) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad iš mokėjimo paslaugų teikėjo nereikalaujama bendrosios sutarties sąlygų pakeitimų siūlyti raštu arba naudojant kitą patvariąją laikmeną; ^s-f5c803c56b4c92f1e02d58dc
@@ -270,10 +270,10 @@ Kai mokėjimo priemonės pagal bendrąją sutartį yra susijusios tik su atskiro
 3) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad, atlikęs mokėjimo operaciją, mokėjimo paslaugų teikėjas pateikia tik nuorodą arba sudaro sąlygas susipažinti su tokia nuoroda, pagal kurią mokėjimo paslaugų vartotojas gali nustatyti mokėjimo operaciją, jos sumą, taikytą komisinį atlyginimą, o kai tam pačiam gavėjui atliktos kelios tokios pat rūšies mokėjimo operacijos, – tik informaciją apie visą sumą ir komisinį atlyginimą už šias mokėjimo operacijas. Mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad iš mokėjimo paslaugų teikėjo nereikalaujama teikti šios informacijos arba sudaryti sąlygų su ja susipažinti, jeigu mokėjimo priemonė naudojama anonimiškai arba jeigu mokėjimo paslaugų teikėjas dėl techninių priežasčių negali jos pateikti. Tačiau mokėjimo paslaugų teikėjas turi suteikti mokėtojui galimybę patikrinti laikomų lėšų sumą; ^s-d6c8f6cc523807f35b631b5e
 
 
-4) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad šio įstatymo [[#^s-a68455d2624f1d80a1dae0c1|25 straipsnio 1 dalies 2 punktas]], [[#^s-effdef56b221d36342468a2c|26 straipsnio 1 dalies]] 3 ir [[#^s-7686d6b08fcaf3be1ee35da9|4 punktai]] ir [[#^s-6420a5ab419591d7202d3ed9|30 straipsnio]] 3 ir 4 dalys jiems netaikomi, jei negalima mokėjimo priemonės blokuoti arba užkirsti kelią tolesniam jos naudojimui; ^s-7686d6b08fcaf3be1ee35da9
+4) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad šio įstatymo [[#^s-a68455d2624f1d80a1dae0c1|25 straipsnio 1 dalies 2 punktas]], [[#^s-effdef56b221d36342468a2c|26 straipsnio 1 dalies]] [[#^s-56e5cf2d36c68e7b22cedda7|3]] ir [[#^s-b48324259e34060d6246d73a|4]] punktai ir [[#^s-6420a5ab419591d7202d3ed9|30 straipsnio]] [[#^s-2b5f243157efd87f8d02a964|3]] ir [[#^s-123807f80d7cc923d2d706dc|4]] dalys jiems netaikomi, jei negalima mokėjimo priemonės blokuoti arba užkirsti kelią tolesniam jos naudojimui; ^s-7686d6b08fcaf3be1ee35da9
 
 
-5) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad šio įstatymo 28, [[#^s-8ac65afc53213ad81492ca10|29 straipsniai]] ir [[#^s-6420a5ab419591d7202d3ed9|30 straipsnio]] 1 ir 2 dalys jiems netaikomi, jeigu mokėjimo priemonė naudojama anonimiškai arba jeigu mokėjimo paslaugų teikėjas negali įrodyti, kad mokėjimo operacija buvo autorizuota dėl specifinių mokėjimo priemonės savybių; ^s-3fddbe779aa7f5c5f9be8228
+5) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad šio įstatymo [[#^s-2f3b12501da430f109103f71|28]], [[#^s-8ac65afc53213ad81492ca10|29]] straipsniai ir [[#^s-6420a5ab419591d7202d3ed9|30 straipsnio]] [[#^s-8dcb81dc47c365f3149e99fd|1]] ir [[#^s-30f5b2f553aca8f2988f8dc7|2]] dalys jiems netaikomi, jeigu mokėjimo priemonė naudojama anonimiškai arba jeigu mokėjimo paslaugų teikėjas negali įrodyti, kad mokėjimo operacija buvo autorizuota dėl specifinių mokėjimo priemonės savybių; ^s-3fddbe779aa7f5c5f9be8228
 
 
 6) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad mokėjimo paslaugų teikėjas nepraneštų mokėjimo paslaugų vartotojui apie atsisakymą vykdyti mokėjimo nurodymą, jeigu akivaizdu, kad mokėjimo nurodymas nebus įvykdytas; ^s-5b0114ba89fd026d5798e98c
@@ -282,7 +282,7 @@ Kai mokėjimo priemonės pagal bendrąją sutartį yra susijusios tik su atskiro
 7) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad mokėtojas negali atšaukti mokėjimo nurodymo po to, kai mokėjimo nurodymas perduotas arba sutikimas atlikti mokėjimo operaciją duotas gavėjui; ^s-e683eec56fa6d1b096ec494c
 
 
-8) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad bus taikomi kiti mokėjimo operacijos įvykdymo terminai, negu nustatyti šio įstatymo 36 ir [[#^s-1ace3bf0d80534a8cff9a5b6|37 straipsniuose]]. ^s-88a760f2287a70e1dfada788
+8) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad bus taikomi kiti mokėjimo operacijos įvykdymo terminai, negu nustatyti šio įstatymo [[#^s-1beadd3c5d1922178d004a7a|36]] ir [[#^s-1ace3bf0d80534a8cff9a5b6|37]] straipsniuose. ^s-88a760f2287a70e1dfada788
 
 
 
@@ -378,7 +378,7 @@ Mokėjimo paslaugų teikėjai yra:
 3) apribojimų remiantis mokėjimo paslaugų teikėjo teisine forma. ^s-40fc0e3d8ceb8729c866a102
 
 
-3. Šio straipsnio 1 ir [[#^s-8f2261faab04e8869569a519|2 dalys]] netaikomos: ^s-7a4d741f4f1d135c287bcd6e
+3. Šio straipsnio [[#^s-f0babaa13bfb2de4e49e3092|1]] ir [[#^s-8f2261faab04e8869569a519|2]] dalys netaikomos: ^s-7a4d741f4f1d135c287bcd6e
 
 
 1) [[latest/TAR.D38B48DC3EF0|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatyme]] nustatytoms mokėjimo sistemoms; ^s-34dafd2be9b91553c7ab6c3b
@@ -528,7 +528,7 @@ BENDROJI SUTARTIS
 9. Jeigu bendroji sutartis mokėjimo paslaugų vartotojo prašymu sudaroma naudojant nuotolinio ryšio priemones, kuriomis mokėjimo paslaugų teikėjui nesudaroma galimybė laikytis [[#^s-d420ee2095cdb3b5045d816c|šio straipsnio 1 dalyje]] nustatytų pareigų, mokėjimo paslaugų teikėjas įvykdo šias pareigas iš karto po bendrosios sutarties sudarymo. ^s-cfa5b02675262c7e30e0ddf6
 
 
-10. [[#^s-d420ee2095cdb3b5045d816c|Šio straipsnio 1 dalyje]] nustatytos pareigos taip pat gali būti įvykdytos pateikus bendrosios sutarties projektą, kuriame pateikiama šio straipsnio 2–[[#^s-9f131dc7689f995d6501462a|8 dalyse]] nurodyta informacija. ^s-059a0d6f6271db52035915b2
+10. [[#^s-d420ee2095cdb3b5045d816c|Šio straipsnio 1 dalyje]] nustatytos pareigos taip pat gali būti įvykdytos pateikus bendrosios sutarties projektą, kuriame pateikiama šio straipsnio [[#^s-5eb919d35f46ea55f130128b|2]]–[[#^s-9f131dc7689f995d6501462a|8]] dalyse nurodyta informacija. ^s-059a0d6f6271db52035915b2
 
 
 
@@ -939,7 +939,7 @@ MOKĖJIMO OPERACIJŲ VYKDYMAS
 3. Šio įstatymo [[#^s-d2ee72e04e6fa66c969fdd58|32 straipsnio 2 dalyje]] nustatytu atveju mokėjimo paslaugų vartotojas gali atšaukti mokėjimo nurodymą vėliausiai iki darbo dienos, einančios prieš sutartą dieną, pabaigos. ^s-a13610abe70f26ec93b56d64
 
 
-4. Pasibaigus šio straipsnio 1, 2 ir [[#^s-a13610abe70f26ec93b56d64|3 dalyse]] nustatytiems terminams, mokėjimo nurodymas gali būti atšauktas tik tuo atveju, kai dėl to susitaria mokėjimo paslaugų vartotojas ir jo mokėjimo paslaugų teikėjas, o [[#^s-b25a8dc2fa69226e7eb18765|šio straipsnio 2 dalyje]] numatytais atvejais būtinas ir gavėjo sutikimas. Mokėjimo paslaugų teikėjas gali imti komisinį atlyginimą už mokėjimo nurodymo atšaukimą, jeigu tai numatyta bendrojoje sutartyje. ^s-0db99fd8770c607a0d685532
+4. Pasibaigus šio straipsnio [[#^s-26cfc9a8efc6f7bf5c4e5bbc|1]], [[#^s-b25a8dc2fa69226e7eb18765|2]] ir [[#^s-a13610abe70f26ec93b56d64|3]] dalyse nustatytiems terminams, mokėjimo nurodymas gali būti atšauktas tik tuo atveju, kai dėl to susitaria mokėjimo paslaugų vartotojas ir jo mokėjimo paslaugų teikėjas, o [[#^s-b25a8dc2fa69226e7eb18765|šio straipsnio 2 dalyje]] numatytais atvejais būtinas ir gavėjo sutikimas. Mokėjimo paslaugų teikėjas gali imti komisinį atlyginimą už mokėjimo nurodymo atšaukimą, jeigu tai numatyta bendrojoje sutartyje. ^s-0db99fd8770c607a0d685532
 
 
 
@@ -962,7 +962,7 @@ MOKĖJIMO OPERACIJŲ VYKDYMAS
 1. Mokėtojo mokėjimo paslaugų teikėjas užtikrina, kad po mokėjimo nurodymo gavimo momento mokėjimo operacijos suma būtų įskaityta į gavėjo mokėjimo paslaugų teikėjo sąskaitą ne vėliau kaip iki kitos darbo dienos pabaigos. Iki 2012 m. sausio 1 d. mokėtojas ir jo mokėjimo paslaugų teikėjas gali susitarti dėl ne ilgesnio kaip trijų darbo dienų termino. Šie laikotarpiai gali būti pratęsti dar viena darbo diena, jei mokėjimo operacija inicijuojama popieriniu dokumentu. Ši dalis taikoma: ^s-68a0c5dabd37e589d9038ff8
 
 
-1) Lietuvos Respublikoje ir į kitas valstybes nares vykdomoms mokėjimo operacijoms eurais, litais ir kitomis ne euro zonos valstybių narių valiutomis, išskyrus šio straipsnio 2 ir [[#^s-6cf2d162325a408597b75671|3 dalyse]] nustatytus atvejus; ^s-f9de156ac8732aca4ea50c70
+1) Lietuvos Respublikoje ir į kitas valstybes nares vykdomoms mokėjimo operacijoms eurais, litais ir kitomis ne euro zonos valstybių narių valiutomis, išskyrus šio straipsnio [[#^s-b3182c9a1a16101156e95350|2]] ir [[#^s-6cf2d162325a408597b75671|3]] dalyse nustatytus atvejus; ^s-f9de156ac8732aca4ea50c70
 
 
 2) mokėjimo operacijoms, kurias vykdant atliekamas tik vienas valiutos keitimas tarp euro ir lito ir toks valiutos keitimas atliekamas Lietuvos Respublikoje, o jeigu vykdomos mokėjimo operacijos į kitas valstybes nares, lėšos pervedamos eurais; ^s-f36b26182b75d10de130c8dc
@@ -1045,7 +1045,7 @@ Kai mokėjimo paslaugų vartotojas, kuris nėra vartotojas, įmoka grynuosius pi
 6. Gavėjo mokėjimo paslaugų teikėjas atsako gavėjui už mokėjimo operacijos tvarkymą pagal šio įstatymo [[#^s-03fc39369fa99e97a9b9cb2d|39 straipsnio]] nuostatas. ^s-058466fc598ac8de541ee9ed
 
 
-7. Kai mokėjimo operacija, už kurią gavėjo mokėjimo paslaugų teikėjas neatsako pagal šio straipsnio 5 ir [[#^s-058466fc598ac8de541ee9ed|6 dalis]], neįvykdoma arba netinkamai įvykdoma, mokėtojui atsako mokėtojo mokėjimo paslaugų teikėjas. Atsakingas mokėtojo mokėjimo paslaugų teikėjas nedelsdamas grąžina mokėtojui neįvykdytos arba netinkamai įvykdytos mokėjimo operacijos sumą arba atkuria mokėjimo sąskaitos, iš kurios ta suma nurašyta, likutį, kuris būtų, jeigu netinkamai įvykdyta mokėjimo operacija nebūtų buvusi atlikta. ^s-01f4feccceecec2b38e426e1
+7. Kai mokėjimo operacija, už kurią gavėjo mokėjimo paslaugų teikėjas neatsako pagal šio straipsnio [[#^s-604fc735a13c468f037d57ff|5]] ir [[#^s-058466fc598ac8de541ee9ed|6]] dalis, neįvykdoma arba netinkamai įvykdoma, mokėtojui atsako mokėtojo mokėjimo paslaugų teikėjas. Atsakingas mokėtojo mokėjimo paslaugų teikėjas nedelsdamas grąžina mokėtojui neįvykdytos arba netinkamai įvykdytos mokėjimo operacijos sumą arba atkuria mokėjimo sąskaitos, iš kurios ta suma nurašyta, likutį, kuris būtų, jeigu netinkamai įvykdyta mokėjimo operacija nebūtų buvusi atlikta. ^s-01f4feccceecec2b38e426e1
 
 
 8. Jeigu gavėjui ar per gavėją inicijavus mokėjimo nurodymą mokėjimo operacija neįvykdoma arba įvykdoma netinkamai, gavėjo mokėjimo paslaugų teikėjas visais atvejais gavėjo reikalavimu nedelsdamas turi imtis priemonių atsekti mokėjimo operaciją ir pranešti gavėjui paieškos rezultatus. ^s-4a3a67280347e5255918f96d
@@ -1058,7 +1058,7 @@ Kai mokėjimo paslaugų vartotojas, kuris nėra vartotojas, įmoka grynuosius pi
 ### 42 straipsnis. Papildomas nuostolių atlyginimas ^s-c6efa76f7b71af25cad98dc5
 
 
-Kiti teisės aktai, taikomi mokėjimo paslaugų teikėjo ir mokėjimo paslaugų vartotojo sudarytai sutarčiai, gali numatyti papildomą nuostolių, nenumatytų šio įstatymo 40 ir [[#^s-cf92f429fd87d5702efabd85|41 straipsniuose]], atlyginimą.
+Kiti teisės aktai, taikomi mokėjimo paslaugų teikėjo ir mokėjimo paslaugų vartotojo sudarytai sutarčiai, gali numatyti papildomą nuostolių, nenumatytų šio įstatymo [[#^s-9f7f2251d788ed3c2cc7ba6f|40]] ir [[#^s-cf92f429fd87d5702efabd85|41]] straipsniuose, atlyginimą.
 
 
 
@@ -1160,7 +1160,7 @@ Tarnyba, kiek tai susiję su vartotojų teisių apsauga:
 2. Jeigu Tarnyba, nagrinėdama prašymus (skundus) kitų įstatymų nustatyta tvarka, nustato pakankamai duomenų apie galimą šio įstatymo pažeidimą, ji privalo pradėti šio įstatymo pažeidimo nagrinėjimo procedūrą. ^s-743937de708106d6155ec1df
 
 
-3. Tarnyba turi teisę pradėti galimų šio įstatymo pažeidimų nagrinėjimą savo iniciatyva. Tokiu atveju mutatis mutandis taikomos šio įstatymo [[#^s-62beecc6cbaee35f4900a8bd|50 straipsnio 4 dalies]], 51 ir [[#^s-3bf2064f51287f5be3e9b2dd|52 straipsnių]] nuostatos. ^s-9035bb182c82d055dfc11325
+3. Tarnyba turi teisę pradėti galimų šio įstatymo pažeidimų nagrinėjimą savo iniciatyva. Tokiu atveju mutatis mutandis taikomos šio įstatymo [[#^s-62beecc6cbaee35f4900a8bd|50 straipsnio 4 dalies]], [[#^s-6d714a543937a3cda708a7f1|51]] ir [[#^s-3bf2064f51287f5be3e9b2dd|52]] straipsnių nuostatos. ^s-9035bb182c82d055dfc11325
 
 
 
@@ -1278,7 +1278,7 @@ Tarnyba, kiek tai susiję su vartotojų teisių apsauga:
 1. Mokėjimo paslaugų teikėjai ir vartotojai, nesutinkantys su Tarnybos nutarimais, turi teisę per trisdešimt kalendorinių dienų nuo nutarimo priėmimo dienos apskųsti nutarimą teismui įstatymų nustatyta tvarka. ^s-6bc4c9b4b6c83358a93143d1
 
 
-2. Kreipimasis į teismą nesustabdo įpareigojimų, numatytų šio įstatymo [[#^s-7e2d3dee9deab20a3e644f26|52 straipsnio 1 dalies]] 1 ir 2 punktuose ir nustatytų Tarnybos nutarimu, vykdymo, jeigu teismas nenustato kitaip. ^s-616aa4281637370686b4caa8
+2. Kreipimasis į teismą nesustabdo įpareigojimų, numatytų šio įstatymo [[#^s-7e2d3dee9deab20a3e644f26|52 straipsnio 1 dalies]] [[#^s-de8f3c3014fc401ec2ee912d|1]] ir [[#^s-19d645122d7458227c650b95|2]] punktuose ir nustatytų Tarnybos nutarimu, vykdymo, jeigu teismas nenustato kitaip. ^s-616aa4281637370686b4caa8
 
 
 
@@ -1288,7 +1288,7 @@ Tarnyba, kiek tai susiję su vartotojų teisių apsauga:
 1. Už šio įstatymo nuostatų pažeidimus mokėjimo paslaugų teikėjams Tarnyba gali skirti nuo vieno tūkstančio iki 30 tūkstančių litų baudą. Tais atvejais, kai pažeidimai buvo padaryti [[#^s-2f2ac2feb0ea5bc8c8b879ad|šio straipsnio 4 dalyje]] nurodytomis atsakomybę sunkinančiomis aplinkybėmis, mokėjimo paslaugų teikėjams gali būti skiriama didesnė – nuo 30 iki 120 tūkstančių litų – bauda. Tais atvejais, kai pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems mokėjimo paslaugų vartotojų interesams, Tarnyba, vadovaudamasi teisingumo ir protingumo kriterijais, mokėjimo paslaugų teikėjams gali taikyti nuobaudą – įspėjimą, neskirdama baudos. ^s-ac9538041cf45f207066365b
 
 
-2. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudų, nustatytų [[#^s-ac9538041cf45f207066365b|šio straipsnio 1 dalies]] pirmame sakinyje, vidurkį. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio 3 ir [[#^s-2f2ac2feb0ea5bc8c8b879ad|4 dalyse]] nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Baudos dydžio mažinimas ar didinimas turi būti motyvuojamas Tarnybos nutarime. ^s-0683d6de43c201bac15b87e5
+2. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudų, nustatytų [[#^s-ac9538041cf45f207066365b|šio straipsnio 1 dalies]] pirmame sakinyje, vidurkį. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio [[#^s-aab9949f5b1a9b44290558e3|3]] ir [[#^s-2f2ac2feb0ea5bc8c8b879ad|4]] dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Baudos dydžio mažinimas ar didinimas turi būti motyvuojamas Tarnybos nutarime. ^s-0683d6de43c201bac15b87e5
 
 
 3. Atsakomybę lengvinančiomis aplinkybėmis laikomos aplinkybės, kai padarę pažeidimą mokėjimo paslaugų teikėjai savo noru užkirto kelią žalingoms pažeidimo pasekmėms, bendradarbiavo su Tarnyba tyrimo metu, atlygino nuostolius ir (ar) pašalino padarytą žalą. ^s-aab9949f5b1a9b44290558e3
@@ -1304,7 +1304,7 @@ Tarnyba, kiek tai susiję su vartotojų teisių apsauga:
 ### 55 straipsnis. Piniginių baudų išieškojimas ^s-7ece2dd30edf92a3cefb06ca
 
 
-Bauda turi būti sumokama į valstybės biudžetą ne vėliau kaip per trisdešimt kalendorinių dienų nuo dienos, kai šio įstatymo pažeidėjams įteikiamas nutarimas skirti baudą. Nutarimas skirti baudą vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.
+Bauda turi būti sumokama į valstybės biudžetą ne vėliau kaip per trisdešimt kalendorinių dienų nuo dienos, kai šio įstatymo pažeidėjams įteikiamas nutarimas skirti baudą. Nutarimas skirti baudą vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.
 
 
 
@@ -1341,7 +1341,7 @@ priedas
 1. Mokėjimo paslaugų teikėjų, kurie teikė mokėjimo paslaugas iki šio įstatymo įsigaliojimo, veikla, susijusi su mokėjimo paslaugų teikimu, turi atitikti visus šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.C6C5599DD9A1|Lietuvos Respublikos mokėjimų įstatymo]] reikalavimus ne vėliau kaip iki 2010 m. kovo 15 d. ^s-f939f17a6fb47444af72e392
 
 
-2. Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.C6C5599DD9A1#^s-fb71a5a191566a6f958a41d7|Lietuvos Respublikos mokėjimų įstatymo 14, 15, 18, 35 straipsniai]] ir [[#^s-b3182c9a1a16101156e95350|36 straipsnio 2 dalis]] pradedami taikyti teikiant įmokų surinkimo paslaugą (kai mokėtojų sumokėtas lėšas surenka mokėtojo mokėjimo paslaugų teikėjas ir perveda gavėjui vienu mokėjimu) nuo 2010 m. birželio 15 d. ^s-c3a6303d3749ee52acc2f024
+2. Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.C6C5599DD9A1|Lietuvos Respublikos mokėjimų įstatymo]] [[latest/TAR.C6C5599DD9A1#^s-2c32131c8914114bb7334cc7|14]], [[latest/TAR.C6C5599DD9A1#^s-e70dc1515a939a97115260e1|15]], [[latest/TAR.C6C5599DD9A1#^s-360a630563b42ed93c2a1b0b|18]], [[latest/TAR.C6C5599DD9A1#^s-fb71a5a191566a6f958a41d7|35]] straipsniai ir [[#^s-b3182c9a1a16101156e95350|36 straipsnio 2 dalis]] pradedami taikyti teikiant įmokų surinkimo paslaugą (kai mokėtojų sumokėtas lėšas surenka mokėtojo mokėjimo paslaugų teikėjas ir perveda gavėjui vienu mokėjimu) nuo 2010 m. birželio 15 d. ^s-c3a6303d3749ee52acc2f024
 
 
 3. Valstybinė vartotojų teisių apsaugos tarnyba priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-788142c1195e913d9697b0d8

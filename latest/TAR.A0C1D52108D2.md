@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sprendimo ratifikavimas ^s-fee18bb84f062136da9dc493
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. lapkričio 14 d. dekretą Nr. 1561, ratifikuoja Lietuvos ir Turkijos jungtinio komiteto sprendimą Nr. 2000/1 „Sprendimas, keičiantis 3 protokolą dėl sąvokos „prekių kilmė“ apibrėžimo ir administracinio bendradarbiavimo metodų“, pasirašytą 2000 m. gruodžio 28 d. Ankaroje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. lapkričio 14 d. dekretą Nr. 1561](https://e-tar.lt/portal/lt/legalAct/TAR.441EC79E083E), ratifikuoja Lietuvos ir Turkijos jungtinio komiteto sprendimą Nr. 2000/1 „Sprendimas, keičiantis 3 protokolą dėl sąvokos „prekių kilmė“ apibrėžimo ir administracinio bendradarbiavimo metodų“, pasirašytą 2000 m. gruodžio 28 d. Ankaroje.
 
 
 

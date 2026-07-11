@@ -49,7 +49,7 @@ Papildyti 1 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 2 straipsnis. 2 straipsnio 1, 12, 17 ir 18 dalių pakeitimas ^s-e85b653c21cfc1557da53901
 
 
-1. Pakeisti [[#^s-bf0d3edda12e2c95397cb5b1|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-bf0d3edda12e2c95397cb5b1
+1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^s-bf0d3edda12e2c95397cb5b1
 
 
 „1. Maistas – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002 dėl [[latest/TAR.5B99A78DA6C7|maisto įstatymo]] pagrindinių principų ir reikalavimų nustatymo, Europos maisto saugos institucijos įsteigimo ir maisto saugos procedūrų bei principų nustatymo [[#^s-e85b653c21cfc1557da53901|2 straipsnyje]].“

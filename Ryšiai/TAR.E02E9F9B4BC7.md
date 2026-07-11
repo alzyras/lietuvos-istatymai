@@ -10,9 +10,9 @@ pavadinimas: "Lietuvos Respublikos viešųjų pirkimų įstatymo 2, 4, 6, 8, 9, 
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - Lietuvos Respublikos dokumentų ir archyvų įstatymo
-- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 2 citatos - Lietuvos Respublikos viešųjų pirkimų įstatymo
+- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Lietuvos Respublikos viešųjų pirkimų įstatymo
+- [[latest/TAR.C54AFFAA7622#^s-c655d45446fd5d1c61170475|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - VIEŠŲJŲ PIRKIMŲ ĮSTATYMO 2 STRAIPSNIO 30 DALYJE
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C54AFFAA7622#^s-71565f5ca82ac9fb9b0b1ff7|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Įstatymas Nr. XI-1255
-- [[latest/TAR.C54AFFAA7622#^s-7d484803c9cc6716a4c73283|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Įstatymas Nr. XI-1255
+_Nėra._

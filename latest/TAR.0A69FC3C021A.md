@@ -175,7 +175,7 @@ Papildyti Įstatymą 371 straipsniu:
 5. Šio straipsnio nuostatos taikomos nuolatinei buveinei, išmokančiai Įstatymo 4 straipsnio 4 dalies 1, 3, 4, 5 ir 7 punktuose nurodytas sumas, jei šias sumas yra leidžiama atskaityti iš nuolatinės buveinės pajamų pagal šio Įstatymo ir kitų teisės aktų nuostatas. ^s-8ed13b2799250bf399d2fd18
 
 
-6. Įstatymo 4 straipsnio 4 dalies 1, 3, 4, 5 ir 7 punktuose nurodytas sumas išmokantis Lietuvos vienetas ar nuolatinė buveinė turi turėti dokumentus, įrodančius, kad tenkinami šio straipsnio 1–[[#^s-ea04abff9073d86107ba0bf9|3 dalyse]] nustatyti kriterijai. Reikalavimus šiems dokumentams nustato centrinis mokesčio administratorius. ^s-9c21c7a6d0d83f5a6899a7f0
+6. Įstatymo 4 straipsnio 4 dalies 1, 3, 4, 5 ir 7 punktuose nurodytas sumas išmokantis Lietuvos vienetas ar nuolatinė buveinė turi turėti dokumentus, įrodančius, kad tenkinami šio straipsnio [[#^s-4cccf9c2936c8f12dff97460|1]]–[[#^s-ea04abff9073d86107ba0bf9|3]] dalyse nustatyti kriterijai. Reikalavimus šiems dokumentams nustato centrinis mokesčio administratorius. ^s-9c21c7a6d0d83f5a6899a7f0
 
 
 7. Šio straipsnio nuostatos taikomos taip pat valstybėms ir Europos Sąjungos valstybėms narėms priklausomoms teritorijoms, jeigu toks taikymas numatytas Europos Sąjungos teisės aktuose.“ ^s-4c6be1735911a54a13ed0c8e
@@ -221,7 +221,7 @@ Papildyti Įstatymą 372 straipsniu:
 5. Šio straipsnio nuostatos taikomos nuolatinei buveinei, išmokančiai Įstatymo 4 straipsnio 4 dalies 1 punkte nurodytas sumas, jei šias sumas yra leidžiama atskaityti iš nuolatinės buveinės pajamų pagal šio Įstatymo ir kitų teisės aktų nuostatas. ^s-636a129dc0ab6c0c66ff9d5e
 
 
-6. Įstatymo 4 straipsnio 4 dalies 1 punkte nurodytas sumas išmokantis Lietuvos vienetas ar nuolatinė buveinė turi turėti dokumentus, įrodančius, kad tenkinami šio straipsnio 1–[[#^s-1ebdd5efab8b9a565f62824c|3 dalyse]] nustatyti kriterijai. Reikalavimus šiems dokumentams nustato centrinis mokesčio administratorius. ^s-9a9b2c1712c2ee2610f3c60c
+6. Įstatymo 4 straipsnio 4 dalies 1 punkte nurodytas sumas išmokantis Lietuvos vienetas ar nuolatinė buveinė turi turėti dokumentus, įrodančius, kad tenkinami šio straipsnio [[#^s-ab8e864ade7691b8262360d3|1]]–[[#^s-1ebdd5efab8b9a565f62824c|3]] dalyse nustatyti kriterijai. Reikalavimus šiems dokumentams nustato centrinis mokesčio administratorius. ^s-9a9b2c1712c2ee2610f3c60c
 
 
 7. Šio straipsnio nuostatos taikomos taip pat valstybėms ir Europos Sąjungos valstybėms narėms priklausomoms teritorijoms, jeigu toks taikymas numatytas Europos Sąjungos teisės aktuose.“ ^s-52aa79441bd34d89e0e5c26c
@@ -241,7 +241,7 @@ Pakeisti 53 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 11 straipsnis. Įstatymo 3 priedėlio papildymas ^s-64f3004e82777879d6384a19
 
 
-Papildyti Įstatymo 3 priedėlį 2, 3 ir [[#^s-0f4615c1c28877ed8e0dd9c1|4 dalimis]] ir visą priedėlį išdėstyti taip:
+Papildyti Įstatymo 3 priedėlį [[#^s-0823737ee4a0e2600aca9d0c|2]], [[#^s-4793c0c7c605c18ea352fc54|3]] ir [[#^s-0f4615c1c28877ed8e0dd9c1|4]] dalimis ir visą priedėlį išdėstyti taip:
 
 
 
@@ -252,7 +252,7 @@ pelno mokesčio
 
 
 
-1. 1985 m. liepos 25 d. Tarybos reglamentas (EEB) Nr. 2137/85 dėl Europos ekonominių interesų grupių (EEIG). ^s-9e1135d13782d8da11a61bca
+1. 1985 m. liepos 25 d. Tarybos [reglamentas (EEB) Nr. 2137/85](https://eur-lex.europa.eu/eli/reg/2137/85/oj) dėl Europos ekonominių interesų grupių (EEIG). ^s-9e1135d13782d8da11a61bca
 
 
 2. 1990 m. liepos 23 d. Tarybos direktyva 90/435/EEB dėl bendrosios mokesčių sistemos, taikomos skirtingų valstybių narių patronuojančioms ir dukterinėms bendrovėms. ^s-0823737ee4a0e2600aca9d0c
@@ -271,10 +271,10 @@ pelno mokesčio
 1. Šio Įstatymo [[#^s-9eaf4eecbb110dd3a0d0b2ba|2 straipsnis]] įsigalioja nuo 2009 m. sausio 1 d. ^s-1f4e3f4d2f913adf81b6ef6c
 
 
-2. Šio Įstatymo 5 ir [[#^s-1bd039232e74290b11f2c36b|6 straipsniai]] įsigalioja nuo 2005 m. sausio 1 d. ^s-f0cb2251cce84f602f5ac70f
+2. Šio Įstatymo [[#^s-ad89df14b250cdf29518ea71|5]] ir [[#^s-1bd039232e74290b11f2c36b|6]] straipsniai įsigalioja nuo 2005 m. sausio 1 d. ^s-f0cb2251cce84f602f5ac70f
 
 
-3. Šio Įstatymo 7, 8 ir [[#^s-25d431fa0569df2371c2a35d|10 straipsniai]] įsigalioja nuo 2011 m. sausio 1 d. ^s-7eb56844bf1404acec5b9f9d
+3. Šio Įstatymo [[#^s-5e33900c555a24e73eb4d3f2|7]], [[#^s-7f29c85ff6701a568305d15f|8]] ir [[#^s-25d431fa0569df2371c2a35d|10]] straipsniai įsigalioja nuo 2011 m. sausio 1 d. ^s-7eb56844bf1404acec5b9f9d
 
 
 4. Šio Įstatymo [[#^s-4bf368fe61ec2cc72cbfeebf|9 straipsnis]] įsigalioja nuo 2009 m. sausio 1 d. ir galioja iki 2010 m. gruodžio 31 d. ^s-92d7ca4dbbb0d8a0018c0c8f

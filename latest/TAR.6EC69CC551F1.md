@@ -36,7 +36,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-91798f9634b5d96b7d4771bc
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. lapkričio 19 d. dekretą Nr. 1107 ir 1997 m. sausio 13 d. dekretą Nr. 1165, ratifikuoja 1953 m. gruodžio 11 d. Europos konvenciją dėl diplomų, suteikiančių teisę stoti į universitetus, lygiavertiškumo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento [1996 m. lapkričio 19 d. dekretą Nr. 1107](https://e-tar.lt/portal/lt/legalAct/TAR.A412C64F036A) ir [1997 m. sausio 13 d. dekretą Nr. 1165](https://e-tar.lt/portal/lt/legalAct/TAR.0954ABD2271D), ratifikuoja 1953 m. gruodžio 11 d. Europos konvenciją dėl diplomų, suteikiančių teisę stoti į universitetus, lygiavertiškumo.
 
 
 

@@ -55,19 +55,19 @@ Pripažinti netekusiais galios:
 5) Lietuvos Respublikos antidempingo įstatymą (Žin., 1998, Nr. 62-1776); ^s-a8c22ba77456d884a250a32a
 
 
-6) Lietuvos Respublikos antidempingo įstatymo 35 ir 43 straipsnių pakeitimo įstatymą (Žin., 1999, Nr. 85-2513); ^s-31bde7a11d2fddfd1373a77a
+6) [Lietuvos Respublikos antidempingo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.834893A1E7FD) [35](https://e-tar.lt/portal/lt/legalAct/TAR.834893A1E7FD) ir [43](https://e-tar.lt/portal/lt/legalAct/TAR.834893A1E7FD) straipsnių pakeitimo įstatymą (Žin., 1999, Nr. 85-2513); ^s-31bde7a11d2fddfd1373a77a
 
 
-7) Lietuvos Respublikos antidempingo įstatymo 35 straipsnio pakeitimo įstatymą (Žin., 2000, Nr. 84-2531); ^s-993d5c3260539c800e1643ce
+7) [Lietuvos Respublikos antidempingo įstatymo 35 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.834893A1E7FD) pakeitimo įstatymą (Žin., 2000, Nr. 84-2531); ^s-993d5c3260539c800e1643ce
 
 
-8) Lietuvos Respublikos antidempingo įstatymo pakeitimo įstatymą (Žin., 2001, Nr. 112-4082); ^s-f101c3ca54013c3122b84aeb
+8) [Lietuvos Respublikos antidempingo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.834893A1E7FD) pakeitimo įstatymą (Žin., 2001, Nr. 112-4082); ^s-f101c3ca54013c3122b84aeb
 
 
 9) Lietuvos Respublikos protekcinių (apsaugos) priemonių įstatymą (Žin., 2000, Nr. 44-1249); ^s-d6dc1c0eb84c341b0752181c
 
 
-10) Lietuvos Respublikos protekcinių (apsaugos) priemonių įstatymo pakeitimo įstatymą (Žin., 2001, Nr. 106-3793); ^s-c422e78726b5115651abd251
+10) [Lietuvos Respublikos protekcinių (apsaugos) priemonių įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.963563A6FAC1) pakeitimo įstatymą (Žin., 2001, Nr. 106-3793); ^s-c422e78726b5115651abd251
 
 
 11) Lietuvos Respublikos kompensacinių muitų įstatymą (Žin., 2000, Nr. 50-1431). ^s-881113a5ab08ed782d016b70

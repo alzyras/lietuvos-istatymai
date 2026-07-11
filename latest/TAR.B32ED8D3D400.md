@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Papildomo 1 protokolo ratifikavimas ^s-f1d66210090423b0d46ad178
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. birželio 19 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Papildomą 1 protokolą prie Lietuvos Respublikos ir Lenkijos Respublikos laisvosios prekybos sutarties“, ratifikuoja 1998 m. gegužės 8 d. Vilniuje pasirašytą Papildomą 1 protokolą prie Lietuvos Respublikos ir Lenkijos Respublikos laisvosios prekybos sutarties.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. birželio 19 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Papildomą 1 protokolą prie Lietuvos Respublikos ir Lenkijos Respublikos laisvosios prekybos sutarties“](https://e-tar.lt/portal/lt/legalAct/TAR.2E54AAED2158), ratifikuoja 1998 m. gegužės 8 d. Vilniuje pasirašytą Papildomą 1 protokolą prie Lietuvos Respublikos ir Lenkijos Respublikos laisvosios prekybos sutarties.
 
 
 

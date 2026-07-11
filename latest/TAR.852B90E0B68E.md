@@ -45,7 +45,7 @@ Vilnius
 „3) profesinės karo tarnybos kariai ir Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos civilinę krašto apsaugos tarnybą atliekantys statutiniai valstybės tarnautojai;“.
 
 
-2. [[#^s-e495517d6633ef350fe8a320|1 straipsnio 2 dalyje]] po žodžio „kadrų“ įrašyti žodžius „Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos“ ir šią dalį išdėstyti taip: ^s-e495517d6633ef350fe8a320
+2. 1 straipsnio 2 dalyje po žodžio „kadrų“ įrašyti žodžius „Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos“ ir šią dalį išdėstyti taip: ^s-e495517d6633ef350fe8a320
 
 
 „2. Teisę gauti pareigūnų ir karių valstybinę pensiją taip pat turi [[#^s-5ce9ff382b22059d4a20b378|šio straipsnio 1 dalyje]] išvardyti pareigūnai ir kariai, kurie, būdami įtraukti į Vidaus reikalų ministerijos, Krašto apsaugos ministerijos kadrų, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos rezervą, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos pareigūnų rezervą, dirba kitose Lietuvos Respublikos ministerijose, departamentuose, įstaigose ir organizacijose.“

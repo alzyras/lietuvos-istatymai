@@ -329,4 +329,4 @@ Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymo Nr. XI-19
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-913, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21505
-Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymo Nr. XI-1923 2 ir [[#^s-eaf15ead8af4227c2e116a05|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymo Nr. XI-1923 [[#^s-eaab401c7b9cd908cb5caf2b|2]] ir [[#^s-eaf15ead8af4227c2e116a05|4]] straipsnių pakeitimo įstatymas

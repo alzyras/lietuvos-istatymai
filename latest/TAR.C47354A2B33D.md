@@ -67,7 +67,7 @@ Pakeisti 66 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 3 straipsnis. 691 straipsnio pakeitimas ir papildymas ^s-5058c7542edfc1d148060afa
 
 
-Pakeisti 691 straipsnio 1 ir [[#^s-173445a637a53a614b7d4ec6|2 dalis]], straipsnį papildyti nauja [[#^s-21157948cff7c92b9957ba31|3 dalimi]], buvusią [[#^s-21157948cff7c92b9957ba31|3 dalį]] laikyti [[#^s-cf8ff02a6d7f6e520b35f5c8|4 dalimi]] ir visą straipsnį išdėstyti taip:
+Pakeisti 691 straipsnio 1 ir 2 dalis, straipsnį papildyti nauja [[#^s-21157948cff7c92b9957ba31|3 dalimi]], buvusią [[#^s-21157948cff7c92b9957ba31|3 dalį]] laikyti [[#^s-cf8ff02a6d7f6e520b35f5c8|4 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 

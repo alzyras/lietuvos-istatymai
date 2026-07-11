@@ -43,7 +43,7 @@ LIETUVOS RESPUBLIKOS VALSTYBINĖS LIETUVIŲ KALBOS KOMISIJOS ĮSTATYMAS
 1. Valstybinė lietuvių kalbos komisija (toliau – Kalbos komisija) yra valstybės įstaiga. Ją steigia, reorganizuoja ir naikina Seimas. Kalbos komisija atsiskaito Seimui. ^s-3626626610f0a3256739ce70
 
 
-2. Kalbos komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, [[latest/TAR.0B0253BB424C|Valstybinės kalbos įstatymu]], šiuo ir kitais įstatymais bei teisės norminiais aktais. ^s-6e12c65c4770d8158ae3647a
+2. Kalbos komisija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), [[latest/TAR.0B0253BB424C|Valstybinės kalbos įstatymu]], šiuo ir kitais įstatymais bei teisės norminiais aktais. ^s-6e12c65c4770d8158ae3647a
 
 
 3. Kalbos komisija yra juridinis asmuo, turi savo antspaudą su Lietuvos valstybės herbu bei savo pavadinimu ir sąskaitų bankuose. ^s-cf1a0e1ab6849776ede46cbc

@@ -70,7 +70,7 @@ Vilnius
 ### 2 straipsnis. 42 straipsnio 1, 2 ir 6 dalių pakeitimas ^s-098664f7fa8df45f09c500b9
 
 
-1. 42 straipsnio 1 dalies 1 ir [[#^s-1e2004e0ec65b501e370f230|2 punktus]] pripažinti netekusiais galios, buvusius 3–8 punktus laikyti atitinkamai 1–[[#^s-38e8cb316f928ee93be6ef40|6 punktais]] ir šią dalį išdėstyti taip: ^s-675a64f6c3fea8e119775dd0
+1. 42 straipsnio 1 dalies 1 ir 2 punktus pripažinti netekusiais galios, buvusius 3–8 punktus laikyti atitinkamai 1–6 punktais ir šią dalį išdėstyti taip: ^s-675a64f6c3fea8e119775dd0
 
 
 „1. Padariusiam nusikaltimą asmeniui gali būti skiriamos šios bausmės:
@@ -94,7 +94,7 @@ Vilnius
 6) laisvės atėmimas iki gyvos galvos.“ ^s-38e8cb316f928ee93be6ef40
 
 
-2. 42 straipsnio 2 dalies 1 ir [[#^s-0090bc8a77ceef7d88b8dc8b|2 punktus]] pripažinti netekusiais galios, buvusius 3–6 punktus laikyti atitinkamai 1–[[#^s-31b2fdeb4a312e1685325adb|4 punktais]] ir šią dalį išdėstyti taip: ^s-cc7559751cd4e36218090dc8
+2. 42 straipsnio 2 dalies 1 ir 2 punktus pripažinti netekusiais galios, buvusius 3–6 punktus laikyti atitinkamai 1–4 punktais ir šią dalį išdėstyti taip: ^s-cc7559751cd4e36218090dc8
 
 
 „2. Padariusiam baudžiamąjį nusižengimą asmeniui gali būti skiriamos šios bausmės:
@@ -271,7 +271,7 @@ baudžiamas viešaisiais darbais arba areštu, arba laisvės atėmimu iki ketver
 ### 14 straipsnis. 142 straipsnio pakeitimas ^s-271ff8244ebeef610310b72a
 
 
-Pakeisti 142 straipsnio 1 ir [[#^s-70d3eebc422ed3a281beced5|2 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 142 straipsnio 1 ir 2 dalis ir visą straipsnį išdėstyti taip:
 
 
 „142 straipsnis. Neteisėtas abortas
@@ -336,7 +336,7 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu.“
 ### 18 straipsnis. 204 straipsnio pakeitimas ^s-ae9833b7ffa4cdf6e75bceae
 
 
-204 straipsnio 1 ir [[#^s-8e12828d6a1e6b814ac26fde|2 dalyse]] išbraukti žodžius „teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimu arba“ ir visą straipsnį išdėstyti taip:
+204 straipsnio 1 ir 2 dalyse išbraukti žodžius „teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimu arba“ ir visą straipsnį išdėstyti taip:
 
 
 „204 straipsnis. Svetimo prekių ar paslaugų ženklo naudojimas
@@ -484,14 +484,14 @@ baudžiamas laisvės atėmimu iki septynerių metų.
 baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
 
 
-5. Tas, kas padarė šio straipsnio 1 ar [[#^s-7209737ac52d0f73b150d5d5|2 dalyje]] numatytus veiksmus, pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs, arba pažadėjęs ar susitaręs priimti, arba reikalavęs ar provokavęs duoti, arba priėmęs mažesnės negu 1 MGL vertės kyšį, padarė baudžiamąjį nusižengimą ir ^s-c011f4bb2948cdca5268eaeb
+5. Tas, kas padarė šio straipsnio [[#^s-0e70a5ea018c167b0af6ff4e|1]] ar [[#^s-7209737ac52d0f73b150d5d5|2]] dalyje numatytus veiksmus, pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs, arba pažadėjęs ar susitaręs priimti, arba reikalavęs ar provokavęs duoti, arba priėmęs mažesnės negu 1 MGL vertės kyšį, padarė baudžiamąjį nusižengimą ir ^s-c011f4bb2948cdca5268eaeb
 baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 
-6. Asmuo, kuris padarė šio straipsnio 1, 3 ar [[#^s-c011f4bb2948cdca5268eaeb|5 dalyje]] numatytą veiką, atleidžiamas nuo baudžiamosios atsakomybės, jeigu kyšio iš jo buvo reikalaujama ar provokuojama duoti kyšį ir jis, pasiūlęs ar pažadėjęs duoti arba davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau, negu iki jo pripažinimo įtariamuoju, savanoriškai apie tai pranešė teisėsaugos institucijai, taip pat atleidžiamas nuo baudžiamosios atsakomybės, jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos institucijos žinia. ^s-71e3b51ffdf1e7f602438f00
+6. Asmuo, kuris padarė šio straipsnio [[#^s-0e70a5ea018c167b0af6ff4e|1]], [[#^s-96d03135b5d981f869149c92|3]] ar [[#^s-c011f4bb2948cdca5268eaeb|5]] dalyje numatytą veiką, atleidžiamas nuo baudžiamosios atsakomybės, jeigu kyšio iš jo buvo reikalaujama ar provokuojama duoti kyšį ir jis, pasiūlęs ar pažadėjęs duoti arba davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau, negu iki jo pripažinimo įtariamuoju, savanoriškai apie tai pranešė teisėsaugos institucijai, taip pat atleidžiamas nuo baudžiamosios atsakomybės, jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos institucijos žinia. ^s-71e3b51ffdf1e7f602438f00
 
 
-7. Už šio straipsnio 1, 2, 3, 4 ir [[#^s-c011f4bb2948cdca5268eaeb|5 dalyse]] numatytas veikas atsako ir juridinis asmuo.“ ^s-cfe83029f1c4d41bd2f50af3
+7. Už šio straipsnio [[#^s-0e70a5ea018c167b0af6ff4e|1]], [[#^s-7209737ac52d0f73b150d5d5|2]], [[#^s-96d03135b5d981f869149c92|3]], [[#^s-ba4f0faeb719e7aac9b93a69|4]] ir [[#^s-c011f4bb2948cdca5268eaeb|5]] dalyse numatytas veikas atsako ir juridinis asmuo.“ ^s-cfe83029f1c4d41bd2f50af3
 
 
 
@@ -512,25 +512,25 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
 
 
-3. Tas, kas padarė šio straipsnio 1 ar [[#^s-2933830632e57ae9c62befc8|2 dalyje]] numatytus veiksmus, pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs didesnės negu 250 MGL vertės kyšį, ^s-6123e65440c2b39aa4b7e213
+3. Tas, kas padarė šio straipsnio [[#^s-7c98f64ff7df1265b2777179|1]] ar [[#^s-2933830632e57ae9c62befc8|2]] dalyje numatytus veiksmus, pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs didesnės negu 250 MGL vertės kyšį, ^s-6123e65440c2b39aa4b7e213
 baudžiamas laisvės atėmimu iki septynerių metų.
 
 
-4. Tas, kas padarė šio straipsnio 1 ar [[#^s-2933830632e57ae9c62befc8|2 dalyje]] numatytus veiksmus, pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs mažesnės negu 1 MGL vertės kyšį, padarė baudžiamąjį nusižengimą ir ^s-f4db4b8a7222185d23ad6ce6
+4. Tas, kas padarė šio straipsnio [[#^s-7c98f64ff7df1265b2777179|1]] ar [[#^s-2933830632e57ae9c62befc8|2]] dalyje numatytus veiksmus, pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs mažesnės negu 1 MGL vertės kyšį, padarė baudžiamąjį nusižengimą ir ^s-f4db4b8a7222185d23ad6ce6
 baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 
 5. Asmuo atleidžiamas nuo baudžiamosios atsakomybės už papirkimą, jeigu kyšio iš jo buvo reikalaujama ar provokuojama duoti kyšį ir jis, pasiūlęs ar pažadėjęs duoti arba davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau negu iki jo pripažinimo įtariamuoju, savanoriškai apie tai pranešė teisėsaugos institucijai, taip pat jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos institucijos žinia. ^s-40ca837006bd0cc9456abd77
 
 
-6. Už šio straipsnio 1, 2, 3 ir [[#^s-f4db4b8a7222185d23ad6ce6|4 dalyse]] numatytas veikas atsako ir juridinis asmuo.“ ^s-19b1ff105d7a6acfba45cea6
+6. Už šio straipsnio [[#^s-7c98f64ff7df1265b2777179|1]], [[#^s-2933830632e57ae9c62befc8|2]], [[#^s-6123e65440c2b39aa4b7e213|3]] ir [[#^s-f4db4b8a7222185d23ad6ce6|4]] dalyse numatytas veikas atsako ir juridinis asmuo.“ ^s-19b1ff105d7a6acfba45cea6
 
 
 
 ### 28 straipsnis. 228 straipsnio pakeitimas ^s-a3d00f369b96d54b48c7630e
 
 
-Pakeisti 228 straipsnio 1 ir [[#^s-b74c7e55fc8d5eccfd02faef|2 dalis]] ir šį straipsnį išdėstyti taip:
+Pakeisti 228 straipsnio 1 ir 2 dalis ir šį straipsnį išdėstyti taip:
 
 
 „228 straipsnis. Piktnaudžiavimas
@@ -718,7 +718,7 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 ### 41 straipsnis. Įstatymo įgyvendinimas ^s-9997823e373251829effb816
 
 
-1. Šio įstatymo 7 ir [[#^s-56ac83f1d8d9af355d4197f9|8 straipsniuose]] išdėstytuose Baudžiamojo kodekso 681 ir 682 straipsniuose numatytos baudžiamojo poveikio priemonės – viešųjų teisių atėmimas ir teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas – skiriamos asmenims, kurie baudžiamajame įstatyme uždraustą veiką padarė po šio įstatymo įsigaliojimo. ^s-b8da10bdf31667866ef7a4bb
+1. Šio įstatymo [[#^s-5c1ab484410351301cd876e5|7]] ir [[#^s-56ac83f1d8d9af355d4197f9|8]] straipsniuose išdėstytuose Baudžiamojo kodekso 681 ir 682 straipsniuose numatytos baudžiamojo poveikio priemonės – viešųjų teisių atėmimas ir teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas – skiriamos asmenims, kurie baudžiamajame įstatyme uždraustą veiką padarė po šio įstatymo įsigaliojimo. ^s-b8da10bdf31667866ef7a4bb
 
 
 2. Iki šio įstatymo įsigaliojimo paskirtos viešųjų teisių atėmimo ar teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo bausmės vykdomos tol, kol bus įvykdytos. ^s-224edb7b53b428165fcc8064

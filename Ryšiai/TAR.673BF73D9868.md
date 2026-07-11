@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.6286F15970B3#^s-323b7c30e5669624086c5591|Lietuvos Respublikos branduolinės energijos įstatymas]] - 2 citatos - 0971010ISTAVIII-249
-- [[latest/TAR.6286F15970B3#^s-e0e557bf2ca23d64623407ea|Lietuvos Respublikos branduolinės energijos įstatymas]] - 2 citatos - 0971010ISTAVIII-249
+- [[latest/TAR.6286F15970B3#^s-323b7c30e5669624086c5591|Lietuvos Respublikos branduolinės energijos įstatymas]] - 0971010ISTAVIII-249

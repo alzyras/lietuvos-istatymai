@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-2bd618c345e642dfb04bc8a4
-VALSTYBĖS KONTROLĖS ĮSTATYMO 52 STRAIPSNIO PAKEITIMAS
+[[latest/TAR.61BB05227699|VALSTYBĖS KONTROLĖS ĮSTATYMO 52 STRAIPSNIO]] PAKEITIMAS
 
 (Žin., 1995, Nr. 51-1243)
 
@@ -55,7 +55,7 @@ Valstybės kontrolės pareigūnai draudžiami valstybiniu socialiniu draudimu [[
 
 
 ### ANTRASIS SKIRSNIS ^s-13038dc45614ee3e67fa7a0b
-[[latest/TAR.522B3E415B52#^s-ba3f29612ac01981640688e9|TEISMŲ ĮSTATYMO 222, 52 STRAIPSNIŲ]] PAPILDYMAS IR
+[[latest/TAR.522B3E415B52|TEISMŲ ĮSTATYMO]] [[latest/TAR.522B3E415B52|222]], [[latest/TAR.522B3E415B52#^s-ba3f29612ac01981640688e9|52]] STRAIPSNIŲ PAPILDYMAS IR
 55 STRAIPSNIO PAKEITIMAS
 
 (Žin., 1994, Nr. 46-851; 1998, Nr. 38-1001)
@@ -100,13 +100,13 @@ Teisėjų pensinį aprūpinimą reguliuoja [[latest/TAR.A7F77DF94F5D|Lietuvos Re
 „55 straipsnis.     Teisėjų atlyginimai, valstybinis socialinis draudimas ir kitos socialinės garantijos“.
 
 
-2. Papildyti 55 straipsnį nauja [[#^s-37e6f97e0c5d82f8fe1afdc7|2 dalimi]]: ^s-37e6f97e0c5d82f8fe1afdc7
+2. Papildyti 55 straipsnį nauja 2 dalimi: ^s-37e6f97e0c5d82f8fe1afdc7
 
 
 „Teisėjai draudžiami valstybiniu socialiniu draudimu Lietuvos Respublikos valstybinio socialinio draudimo įstatyme nustatyta tvarka.“
 
 
-3. 55 straipsnio buvusią [[#^s-37e6f97e0c5d82f8fe1afdc7|2 dalį]] laikyti [[#^s-549e921f24113f5cc12b130b|3 dalimi]]. ^s-549e921f24113f5cc12b130b
+3. 55 straipsnio buvusią [[#^s-37e6f97e0c5d82f8fe1afdc7|2 dalį]] laikyti 3 dalimi. ^s-549e921f24113f5cc12b130b
 
 
 
@@ -150,12 +150,12 @@ PAPILDYMAS IR PAKEITIMAS
 „2. Seimo kontrolieriai draudžiami valstybiniu socialiniu draudimu Valstybinio socialinio draudimo įstatyme nustatyta tvarka.“
 
 
-2. 30 straipsnio buvusias 2 ir [[#^s-de9866e13bd4dbeb6bb71db5|3 dalis]] laikyti atitinkamai 3 ir 4 dalimis. ^s-70bb1faa357c70b6b8e06be8
+2. 30 straipsnio buvusias 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis. ^s-70bb1faa357c70b6b8e06be8
 
 
 
 ### PENKTASIS SKIRSNIS ^s-ea7f79d768ec07de12e63ee1
-SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO 4 STRAIPSNIO PAKEITIMAS
+[SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO 4 STRAIPSNIO](https://e-tar.lt/portal/lt/legalAct/TAR.C543D39A1A6E) PAKEITIMAS
 
 (Žin., 1996, Nr. 71-1710)
 
@@ -270,7 +270,7 @@ Pakeisti Statuto 72 straipsnį ir jį išdėstyti taip:
 „2. Vaiko teisių apsaugos kontrolierius valstybiniu socialiniu draudimu draudžiamas Valstybinio socialinio draudimo įstatymo nustatyta tvarka.“
 
 
-3. 10 straipsnio buvusias 2 ir [[#^s-de9866e13bd4dbeb6bb71db5|3 dalis]] atitinkamai laikyti 3 ir 4 dalimis. ^s-de9866e13bd4dbeb6bb71db5
+3. 10 straipsnio buvusias 2 ir 3 dalis atitinkamai laikyti 3 ir 4 dalimis. ^s-de9866e13bd4dbeb6bb71db5
 
 
 

@@ -50,7 +50,7 @@ priima šį Įstatymą.
 1. Šio Įstatymo paskirtis – suteikti Vyriausybei teisę organizuoti ir atlikti valstybės turto investavimą akcinės bendrovės „Alytaus tekstilė“ paprastosioms vardinėms akcijoms įsigyti iš fizinių ir (ar) privačių juridinių asmenų bei nustatyti šio investavimo sąlygas, kad valstybei nuosavybės teise priklausytų akcinės bendrovės „Alytaus tekstilė“ akcijų paketas, suteikiantis daugiau kaip 1/2 balsų šios bendrovės visuotiniame akcininkų susirinkime. ^s-53c016077157308c0ea50a1a
 
 
-2. Šiame Įstatyme reglamentuojamiems teisiniams santykiams netaikomas Valstybės turto fondo įstatymo 5 straipsnio 1 dalies 5 punktas. ^s-43da2c28e7196c93d5a9a3c2
+2. Šiame Įstatyme reglamentuojamiems teisiniams santykiams netaikomas [Valstybės turto fondo įstatymo 5 straipsnio 1 dalies 5 punktas](https://e-tar.lt/portal/lt/legalAct/TAR.F0AE7598C06C). ^s-43da2c28e7196c93d5a9a3c2
 
 
 
@@ -76,7 +76,7 @@ Vyriausybė turi teisę investuoti valstybės turtą akcinės bendrovės „Alyt
 4. Akcijoms įsigyti investuojama ne daugiau kaip vienas milijonas litų, neskaitant išlaidų, reikalingų privalomam oficialiam pasiūlymui pagal Lietuvos Respublikos vertybinių popierių rinkos įstatymą įgyvendinti. ^s-1b519f69f97323fa5b4cf60b
 
 
-5. Vyriausybė turi teisę, atsižvelgdama į akcinės bendrovės „Alytaus tekstilė“ akcijas parduodančių fizinių ir (ar) privačių juridinių asmenų pasiūlytas sąlygas, priimti sprendimus dėl pirkimo-pardavimo sutarčių kitų sąlygų, įskaitant šias: ^s-e5194a8249f02f34c909dad4
+5. Vyriausybė turi teisę, atsižvelgdama į akcinės bendrovės „Alytaus tekstilė“ akcijas parduodančių fizinių ir (ar) privačių juridinių asmenų pasiūlytas sąlygas, priimti sprendimus [dėl pirkimo-pardavimo sutarčių](https://e-tar.lt/portal/lt/legalAct/TAR.050505BE5455) kitų sąlygų, įskaitant šias: ^s-e5194a8249f02f34c909dad4
 
 
 1) dėl prievolių pagal akcinės bendrovės „Alytaus tekstilė“ 4 969 877 akcijų paketo pirkimo-pardavimo sutartį, valstybės įmonės Valstybės turto fondo ir Asean Interests Limited pasirašytą 1998 m. rugsėjo 29 d. (atsižvelgiant į visus šios sutarties pakeitimus), pabaigos rašytiniu šalių susitarimu; ^s-8b7c74b866a55e6eb158906c

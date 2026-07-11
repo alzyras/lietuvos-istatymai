@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos priedų ratifikavimas ^s-dd6b6ff999c76af673f7356a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. gegužės 28 d. dekretą Nr. 93, ratifikuoja šiuos Laikinojo įvežimo konvencijos (Stambulo konvencijos) priedus:
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. gegužės 28 d. dekretą Nr. 93](https://e-tar.lt/portal/lt/legalAct/TAR.67A2E30A5067), ratifikuoja šiuos Laikinojo įvežimo konvencijos (Stambulo konvencijos) priedus:
 
 
 1) B.4 priedą dėl prekių, įvežamų gamybos operacijai vykdyti; ^s-b4fdb0c505f819e9b99cfbaa

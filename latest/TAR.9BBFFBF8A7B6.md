@@ -49,7 +49,7 @@ Pakeisti 75 straipsnį ir jį išdėstyti taip:
 „75 straipsnis. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos
 
 
-1. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos yra Vyriausybės įsteigta įstaiga. Vyriausybė paveda Sveikatos apsaugos ministerijai įgyvendinti jos, kaip savininkės, teises ir pareigas (išskyrus sprendimo dėl Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos prie Sveikatos apsaugos ministerijos reorganizavimo ir likvidavimo priėmimą, kurį priima Vyriausybė). Tarnyba yra iš valstybės biudžeto ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga. ^s-366919d03342bcca82e4c9ea
+1. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos yra Vyriausybės įsteigta įstaiga. Vyriausybė paveda Sveikatos apsaugos ministerijai įgyvendinti jos, kaip savininkės, teises ir pareigas (išskyrus sprendimo [dėl Valstybinės akreditavimo sveikatos priežiūros veiklai tarnybos](https://e-tar.lt/portal/lt/legalAct/TAR.E554B4746161) prie Sveikatos apsaugos ministerijos reorganizavimo ir likvidavimo priėmimą, kurį priima Vyriausybė). Tarnyba yra iš valstybės biudžeto ir kitų valstybės pinigų fondų išlaikoma biudžetinė įstaiga. ^s-366919d03342bcca82e4c9ea
 
 
 2. Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos: ^s-b9afd8783aaeab127a4d443e

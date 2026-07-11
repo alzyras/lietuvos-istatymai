@@ -65,7 +65,7 @@ Vilnius
 ### 3 straipsnis. 7 straipsnio pakeitimas ^s-5967e7afe84f29f3f33d423a
 
 
-7 straipsnio 1 ir [[#^s-b0b344cf7e7e49c402167719|2 dalyse]] vietoj žodžių „pirminis poveikio aplinkai vertinimas“ įrašyti žodžius „poveikio aplinkai pirminis vertinimas“; 1 dalies 2 punkte, 6 ir [[#^s-0ef08f1b3fd8cdfea6a9f8f8|7 dalyse]] vietoj žodžių „išsamus poveikio aplinkai vertinimas“ įrašyti žodžius „poveikio aplinkai išsamus vertinimas“; 3, 4, [[#^s-72a7d1037b6de5e9b038811e|5 dalyse]] vietoj žodžių „pirminį poveikio aplinkai vertinimą“ įrašyti žodžius „poveikio aplinkai pirminį vertinimą“; [[#^s-72a7d1037b6de5e9b038811e|5 dalyje]] vietoj žodžio „nutarimu“ įrašyti žodį „sutarimu“; [[#^s-0ef08f1b3fd8cdfea6a9f8f8|7 dalyje]] vietoj žodžių „pirminio poveikio aplinkai vertinimo“ įrašyti žodžius „poveikio aplinkai pirminio vertinimo“, vietoj žodžių „išsamų poveikio aplinkai vertinimą“ įrašyti žodžius „poveikio aplinkai išsamų vertinimą“ ir visą straipsnį išdėstyti taip:
+7 straipsnio 1 ir 2 dalyse vietoj žodžių „pirminis poveikio aplinkai vertinimas“ įrašyti žodžius „poveikio aplinkai pirminis vertinimas“; 1 dalies 2 punkte, [[#^s-2f049ecd464e3438d50ea03e|6]] ir [[#^s-0ef08f1b3fd8cdfea6a9f8f8|7]] dalyse vietoj žodžių „išsamus poveikio aplinkai vertinimas“ įrašyti žodžius „poveikio aplinkai išsamus vertinimas“; [[#^s-bdb62629b6ebaa85f19bce44|3]], [[#^s-e062d8d4504b59fe1902473a|4]], [[#^s-72a7d1037b6de5e9b038811e|5]] dalyse vietoj žodžių „pirminį poveikio aplinkai vertinimą“ įrašyti žodžius „poveikio aplinkai pirminį vertinimą“; [[#^s-72a7d1037b6de5e9b038811e|5 dalyje]] vietoj žodžio „nutarimu“ įrašyti žodį „sutarimu“; [[#^s-0ef08f1b3fd8cdfea6a9f8f8|7 dalyje]] vietoj žodžių „pirminio poveikio aplinkai vertinimo“ įrašyti žodžius „poveikio aplinkai pirminio vertinimo“, vietoj žodžių „išsamų poveikio aplinkai vertinimą“ įrašyti žodžius „poveikio aplinkai išsamų vertinimą“ ir visą straipsnį išdėstyti taip:
 
 
 „7straipsnis. Poveikio aplinkai vertinimo etapai
@@ -121,7 +121,7 @@ Vilnius
 ### 5 straipsnis. 11 straipsnio pakeitimas ^s-bcb3d8cf2aa294cafb1dae90
 
 
-11 straipsnio 2 ir [[#^s-a5f44e9b918df5f9fc601578|3 dalyse]] vietoj žodžių „licenciją“, „licencija išduodama“ įrašyti atitinkamai žodžius „atestatą“, „atestatas išduodamas“ ir šias dalis išdėstyti taip:
+11 straipsnio 2 ir 3 dalyse vietoj žodžių „licenciją“, „licencija išduodama“ įrašyti atitinkamai žodžius „atestatą“, „atestatas išduodamas“ ir šias dalis išdėstyti taip:
 
 
 „2. Poveikio aplinkai vertinimo valstybinę ekspertizę gali atlikti tik atestatą turintys ekspertai.

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-b3a8b9b6386ec6abe6f68352
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. vasario 14 d. dekretą „Dėl  teikimo Lietuvos Respublikos Seimui ratifikuoti 1995 metų Konvenciją dėl Jungtinių Tautų ir joms priskirto personalo apsaugos“, ratifikuoja 1995 metų Konvenciją dėl Jungtinių Tautų ir joms priskirto personalo apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. vasario 14 d. dekretą [„Dėl  teikimo Lietuvos Respublikos Seimui ratifikuoti 1995 metų Konvenciją dėl Jungtinių Tautų ir joms priskirto personalo apsaugos“](https://e-tar.lt/portal/lt/legalAct/TAR.141D1EF40DF4), ratifikuoja 1995 metų Konvenciją dėl Jungtinių Tautų ir joms priskirto personalo apsaugos.
 
 
 

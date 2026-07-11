@@ -94,7 +94,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 6) įmonės steigėjai ar vadovai yra (buvo) įmonių, kurioms buvo panaikintas licencijos galiojimas [[#^s-07024e7760fc137eede72dbe|šio straipsnio 8 dalies 3 punkte]] ar šio Įstatymo 26 straipsnio 5 dalyje nustatytais pagrindais, steigėjai, vadovai ar kiti darbuotojai, jeigu jie veikė įmonės vardu ar dėl jos interesų (licencijos visai neišduodamos); ^s-88185de2b33d51b0e583b55d
 
 
-7) įmonei buvo panaikintas licencijos galiojimas [[#^s-8d1fbab2355cea8041e1d630|šio straipsnio 8 dalies]] 5 ar [[#^s-88185de2b33d51b0e583b55d|6 punkte]] nustatytais pagrindais. Licencija neišduodama vienerius metus nuo turėtos licencijos galiojimo panaikinimo dienos; ^s-14c4fe479f26eb327913e96d
+7) įmonei buvo panaikintas licencijos galiojimas [[#^s-8d1fbab2355cea8041e1d630|šio straipsnio 8 dalies]] [[#^s-612db550e63a79342171a274|5]] ar [[#^s-88185de2b33d51b0e583b55d|6]] punkte nustatytais pagrindais. Licencija neišduodama vienerius metus nuo turėtos licencijos galiojimo panaikinimo dienos; ^s-14c4fe479f26eb327913e96d
 
 
 8) įmonei buvo panaikintas licencijos galiojimas šio Įstatymo 26 straipsnio 7 dalyje nustatytais pagrindais. Licencija verstis tabako gaminių mažmenine prekyba toje prekybos vietoje, kurioje padarytas pažeidimas, neišduodama trejus metus nuo turėtos licencijos galiojimo panaikinimo dienos. ^s-2239d34c30dcf4ec08651b17
@@ -115,7 +115,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 3) jeigu pačioms įmonėms, įmonių vadovams ar kitiems įmonių darbuotojams (veikusiems įmonės vardu ar dėl jos interesų) yra įsiteisėjęs apkaltinamasis teismo nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs atitinkamas muitinės, Valstybinės mokesčių inspekcijos, policijos ar Valstybinės tabako ir alkoholio kontrolės tarnybos prie Lietuvos Respublikos Vyriausybės nutarimas dėl bausmės ar nuobaudos skyrimo už tabako ar tabako gaminių kontrabandą, falsifikuotų tabako gaminių pardavimą, laikymą ar gabenimą, tabako gaminių pardavimą, laikymą ar gabenimą be tabako gaminių įsigijimą patvirtinančių juridinę galią turinčių dokumentų, taip pat už tabako gaminių be specialių ženklų – banderolių neteisėtą laikymą, gabenimą ar pardavimą; ^s-07024e7760fc137eede72dbe
 
 
-4) šio Įstatymo 26 straipsnio 5 ir [[#^s-8f3b75b060fc09ea716b3e8c|7 dalyse]] nustatytais pagrindais; ^s-0fbc1962aa00fa9b97eb0f85
+4) šio Įstatymo 26 straipsnio 5 ir 7 dalyse nustatytais pagrindais; ^s-0fbc1962aa00fa9b97eb0f85
 
 
 5) jeigu įmonė, kuri buvo įspėta apie galimą licencijos galiojimo panaikinimą ar kuriai buvo sustabdytas licencijos galiojimas už licencijavimo taisyklėse nustatytų licencijuojamos veiklos sąlygų pažeidimus, per nustatytą laiką nepašalino nurodytų pažeidimų; ^s-3efe1c50ac868e449fd5c949

@@ -116,7 +116,7 @@ BENDROSIOS NUOSTATOS
 ### 4 straipsnis. Čekio, kuriame nurodyti ne visi rekvizitai, galiojimas ^s-0172475a35d1765bd3ee8806
 
 
-1. Dokumentas, kuriame nėra nors vieno iš [[#^s-3755a9163817f0b938d372ac|3 straipsnyje]] išvardytų rekvizitų, nėra čekis, išskyrus šio straipsnio 2, 3, [[#^s-f17536554d6479651c38e782|4 dalyse]] nurodytais atvejais. ^s-c7fea3a585c55f1052ec7ef9
+1. Dokumentas, kuriame nėra nors vieno iš [[#^s-3755a9163817f0b938d372ac|3 straipsnyje]] išvardytų rekvizitų, nėra čekis, išskyrus šio straipsnio 2, 3, 4 dalyse nurodytais atvejais. ^s-c7fea3a585c55f1052ec7ef9
 
 
 2. Jei nėra atskiro įrašo, vieta, pažymėta šalia mokėtojo pavadinimo, laikoma mokėjimo vieta. Jei šalia mokėtojo pavadinimo nurodytos kelios vietos, tai čekis mokėtinas pirmoje iš nurodytų vietų. ^s-f803abf922f8d1f39be2eb49
@@ -425,7 +425,7 @@ Jei asmuo prarado čekį (nepaisant, ar tai būtų čekis, išrašytas su įraš
 3. Čekiai, išduoti bet kurioje Europos valstybėje ir mokėtini bet kurioje Viduržemio jūros valstybėje arba atvirkščiai, laikomi išduotais ir mokėtinais toje pat pasaulio dalyje. ^s-ee9ea930c1dd1c28a6f54994
 
 
-4. Čekio i?rašymo data – data, nuo kurios pradedami skaičiuoti šio straipsnio 1 ir [[#^s-7b304a1826c8d64f0be0223d|2 dalyse]] nurodyti terminai. ^s-568205972e63f0cec0001706
+4. Čekio i?rašymo data – data, nuo kurios pradedami skaičiuoti šio straipsnio [[#^s-5c5f95fd7e822e2be03f40d8|1]] ir [[#^s-7b304a1826c8d64f0be0223d|2]] dalyse nurodyti terminai. ^s-568205972e63f0cec0001706
 
 
 
@@ -489,7 +489,7 @@ Mokėtojas, kuris apmoka indosuotą čekį, privalo patikrinti indosamentų sek�
 2. Nustatant užsienio valiutos kursą, laikomasi mokėjimo vietos valstybėje nustatyto oficialaus valiutos kurso. Tačiau čekio davėjas gali nurodyti sąlygą, kad mokėtina suma būtų apskaičiuota pagal čekyje nurodytą kursą. ^s-a24f8dec143b4afac3b72639
 
 
-3. Šio straipsnio 1 ir [[#^s-a24f8dec143b4afac3b72639|2 dalių]] nuostatos netaikomos, kai čekio davėjas yra nurodęs sąlygą, kad turi būti sumokėta čekyje nurodyta valiuta. ^s-b57a144314fe8fcc55a1f9d6
+3. Šio straipsnio [[#^s-441a139db1ea6bc39a521e4e|1]] ir [[#^s-a24f8dec143b4afac3b72639|2]] dalių nuostatos netaikomos, kai čekio davėjas yra nurodęs sąlygą, kad turi būti sumokėta čekyje nurodyta valiuta. ^s-b57a144314fe8fcc55a1f9d6
 
 
 4. Jeigu čekio suma nurodyta valiuta, kurios vieneto pavadinimas davėjo ir mokėtojo valstybėje yra vienodas, tačiau skiriasi jų vertė, laikoma, kad nurodyta mokėjimo vietos valstybės valiuta. ^s-a00f3632d25d23f3d364c386
@@ -803,7 +803,7 @@ Vykdomieji įrašai notarų užprotestuotuose arba neprotestuotinuose čekiuose 
 ### 61 straipsnis. Teisių pagal prarastus čekius atkūrimas ^s-9902d92666e0c5de7b75199e
 
 
-Jeigu čekis sunaikintas, pavogtas ar dėl kitos priežasties prarastas, teisės pagal prarastą čekį atkuriamos Lietuvos Respublikos civilinio proceso kodekso šaukiamosios teisenos tvarka.
+Jeigu čekis sunaikintas, pavogtas ar dėl kitos priežasties prarastas, teisės pagal prarastą čekį atkuriamos [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) šaukiamosios teisenos tvarka.
 
 
 

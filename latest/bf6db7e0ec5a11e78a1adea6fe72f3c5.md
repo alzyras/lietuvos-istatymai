@@ -40,10 +40,10 @@ Vilnius
 ### 1 straipsnis. 3 straipsnio pakeitimas ^s-d84a83ff5cf4c9c0cf4c8ec3
 
 
-1. Pripažinti netekusia galios 3 straipsnio 53 dalį. ^s-02e0d3a9d9d7918c7961a12e
+1. Pripažinti netekusia galios [[latest/TAR.82D8168D3049#^s-d3007ae68c31b77c3f97b57a|3 straipsnio 53 dalį]]. ^s-02e0d3a9d9d7918c7961a12e
 
 
-2. Papildyti 3 straipsnį 711 dalimi: ^s-a248ea2782b4c09cd3b363ce
+2. Papildyti [[latest/TAR.82D8168D3049|3 straipsnį 711 dalimi]]: ^s-a248ea2782b4c09cd3b363ce
 
 
 „711. Vientisumo pažeidimas – viešojo ryšių tinklo ar jo dalies pažeidimas, nesusijęs su įvykiais ar veika kibernetinėje erdvėje, sutrikdantis šiuo tinklu teikiamų viešųjų elektroninių ryšių paslaugų nepertraukiamą teikimą.“
@@ -52,7 +52,7 @@ Vilnius
 ### 2 straipsnis. 8 straipsnio pakeitimas ^s-59f33b1fd82444a74f3b7456
 
 
-Pakeisti 8 straipsnio 2 dalies 9 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.82D8168D3049|8 straipsnio 2 dalies 9 punktą]] ir jį išdėstyti taip:
 
 
 „9) užtikrinti, kad viešųjų ryšių tinklų teikėjai įgyvendintų tinkamas technines ir organizacines priemones savo teikiamų viešųjų ryšių tinklų vientisumui užtikrinti.“
@@ -61,23 +61,23 @@ Pakeisti 8 straipsnio 2 dalies 9 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. 9 straipsnio pakeitimas ^s-8a8c26c667a0b0c2a1ee1e71
 
 
-1. Pakeisti 9 straipsnio 4 punktą ir jį išdėstyti taip: ^s-070c104816810ffd37e7deb9
+1. Pakeisti [[latest/TAR.82D8168D3049|9 straipsnio 4 punktą]] ir jį išdėstyti taip: ^s-070c104816810ffd37e7deb9
 
 
 „4) bendradarbiauja su užsienio valstybių elektroninių ryšių veiklos reguliavimo institucijomis, pagal kompetenciją dalyvauja tarptautinių organizacijų ir Europos Sąjungos institucijų, komitetų bei grupių, kurių veikla susijusi su elektroniniais ryšiais (telekomunikacijomis), radijo ryšio įrenginiais ir galiniais įrenginiais, elektromagnetiniu suderinamumu ir (arba) radijo spektro valdymu, veikloje, taip pat Europos elektroninių ryšių reguliuotojų institucijos veikloje, reikiamais atvejais skiria ekspertus, kurie dalyvautų atitinkamuose komitetuose ir grupėse, atlieka tarptautinį radijo dažnių (kanalų) ir orbitinių išteklių koordinavimą bei tarptautinę radijo ryšio stočių (radijo dažnių) ir orbitinių išteklių apsaugą. Lietuvos Respublikos vardu prisiimti įpareigojimus Ryšių reguliavimo tarnyba gali tik gavusi įgaliojimus, išskyrus atvejus, kai pagal Lietuvos Respublikos tarptautinę sutartį ar Europos Sąjungos teisę atitinkamos funkcijos, kurios patenka į Ryšių reguliavimo tarnybos kompetenciją, pavestos atlikti Lietuvos Respublikos telekomunikacijų (elektroninių ryšių) administracijai ar nacionalinei telekomunikacijų (elektroninių ryšių) reguliavimo institucijai. Šiuo atveju Ryšių reguliavimo tarnyba atitinkamas funkcijas atlieka ir su jomis susijusius įsipareigojimus prisiima taikydama atitinkamos tarptautinės sutarties ar Europos Sąjungos teisės nuostatas ir neturi papildomai gauti įgaliojimų ir atlikti kitų procedūrų pagal atitinkamas [[latest/TAR.5BCEC9B41811|Tarptautinių sutarčių įstatymo]] normas;“.
 
 
-2. Pripažinti netekusiu galios 9 straipsnio 9 punktą. ^s-99bde380951d0ca1b7b835ab
+2. Pripažinti netekusiu galios [[latest/TAR.82D8168D3049|9 straipsnio 9 punktą]]. ^s-99bde380951d0ca1b7b835ab
 
 
 
 ### 4 straipsnis. 421 straipsnio pakeitimas ^s-3af27c1a06c93f30079664cf
 
 
-Pakeisti 421 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.82D8168D3049#^s-ba269f1019c1fc93d8550d8f|421 straipsnį]] ir jį išdėstyti taip:
 
 
-„421 straipsnis. Viešųjų ryšių tinklų vientisumas
+„[[latest/TAR.82D8168D3049#^s-ba269f1019c1fc93d8550d8f|421 straipsnis]]. Viešųjų ryšių tinklų vientisumas
 
 
 1. Viešųjų ryšių tinklų teikėjai privalo įgyvendinti tinkamas technines ir organizacines priemones savo teikiamų tinklų vientisumui užtikrinti, tokiu būdu užtikrindami šiais tinklais teikiamų viešųjų elektroninių ryšių paslaugų nepertraukiamą teikimą. ^s-7489e9c72125bfdd24a55006
@@ -98,7 +98,7 @@ Pakeisti 421 straipsnį ir jį išdėstyti taip:
 ### 5 straipsnis. 71 straipsnio pakeitimas ^s-dd1f4966b2129cfb33c3dc1c
 
 
-Pakeisti 71 straipsnio 3 dalies 9 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.82D8168D3049|71 straipsnio 3 dalies 9 punktą]] ir jį išdėstyti taip:
 
 
 „9) viešųjų ryšių tinklų vientisumo ir (arba) šiais tinklais teikiamų viešųjų elektroninių ryšių paslaugų nepertraukiamo teikimo įvertinimu;“.

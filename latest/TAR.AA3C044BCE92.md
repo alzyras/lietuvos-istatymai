@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo paskirtis ^s-15aba163caf9e710bf1171e5
 
 
-Šis įstatymas nustato pagal Lietuvos Respublikos Aukščiausiosios Tarybos 1992 m. liepos 14 d. nutarimą Nr. I-2745 „Dėl kredito emisijos ir pasirengimo įvesti savus pinigus“ (Žin., 1992, Nr. 22-636) 1992 metais Lietuvos banko padarytos kredito emisijos dalies naudojimą akcinės bendrovės Lietuvos žemės ūkio banko akciniam kapitalui didinti.
+Šis įstatymas nustato pagal Lietuvos Respublikos Aukščiausiosios Tarybos [1992 m. liepos 14 d. nutarimą Nr. I-2745](https://e-tar.lt/portal/lt/legalAct/TAR.CF48630794A7) [„Dėl kredito emisijos ir pasirengimo įvesti savus pinigus“](https://e-tar.lt/portal/lt/legalAct/TAR.CF48630794A7) (Žin., 1992, Nr. 22-636) 1992 metais Lietuvos banko padarytos kredito emisijos dalies naudojimą akcinės bendrovės Lietuvos žemės ūkio banko akciniam kapitalui didinti.
 
 
 

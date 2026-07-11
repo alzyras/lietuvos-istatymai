@@ -113,7 +113,7 @@ Lietuvos Respublikos tautinio paveldo produktų įstatymas užtikrina tautinio p
 ### 3 straipsnis. Tautinio paveldo produktų valstybinės apsaugos teisiniai pagrindai ^s-29a76391d3f5d181cf06f936
 
 
-Tautinio paveldo produktų valstybinė apsauga vykdoma vadovaujantis Lietuvos Respublikos Konstitucija, šiuo įstatymu, [[latest/TAR.58146A37675A|Etninės kultūros valstybinės globos pagrindų įstatymu]].
+Tautinio paveldo produktų valstybinė apsauga vykdoma vadovaujantis [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo įstatymu, [[latest/TAR.58146A37675A|Etninės kultūros valstybinės globos pagrindų įstatymu]].
 
 
 
@@ -316,7 +316,7 @@ b) sėkmingiausiai dirbančio tradicinio amatininko ir tradicinių amatų centro
 2) dalyvauja tautinio paveldo produktų atitikties Lietuvos etninei kultūrai, tautinio paveldo produktų kūrėjų ir tradicinių amatų centrų veiklos patikrinimuose; ^s-92fb01fe140b99a851b9dccc
 
 
-3) vadovaudamasi šio įstatymo 14–[[#^s-6fce8250efa59184910b174c|16 straipsnių]] nuostatomis ir žemės ūkio ministro tvirtinamu tautinio paveldo produktų ir tradicinių amatų neformaliojo mokymo programų sertifikavimo, tradicinių amatininkų pripažinimo tradicinių amatų meistrais aprašu, nagrinėja pateiktus prašymus sertifikuoti tautinio paveldo produktus, tradicinių amatų neformaliojo mokymo programas, pripažinti tradicinių amatų meistrais ir teikia siūlymus Agentūrai dėl tautinio paveldo produktų, tradicinių amatų neformaliojo mokymo programų sertifikavimo, tradicinių amatininkų pripažinimo tradicinių amatų meistrais, tautinio paveldo produktų ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato ir (arba) tradicinių amatų meistro pažymėjimo galiojimo panaikinimo; ^s-fb811c1248654047708d61b7
+3) vadovaudamasi šio įstatymo [[#^s-d6858dfe4edb7a984cb41b88|14]]–[[#^s-6fce8250efa59184910b174c|16]] straipsnių nuostatomis ir žemės ūkio ministro tvirtinamu tautinio paveldo produktų ir tradicinių amatų neformaliojo mokymo programų sertifikavimo, tradicinių amatininkų pripažinimo tradicinių amatų meistrais aprašu, nagrinėja pateiktus prašymus sertifikuoti tautinio paveldo produktus, tradicinių amatų neformaliojo mokymo programas, pripažinti tradicinių amatų meistrais ir teikia siūlymus Agentūrai dėl tautinio paveldo produktų, tradicinių amatų neformaliojo mokymo programų sertifikavimo, tradicinių amatininkų pripažinimo tradicinių amatų meistrais, tautinio paveldo produktų ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato ir (arba) tradicinių amatų meistro pažymėjimo galiojimo panaikinimo; ^s-fb811c1248654047708d61b7
 
 
 4) teikia siūlymus Agentūrai dėl tradicinių amatų centrų pripažinimo arba sprendimo dėl pripažinimo tradicinių amatų centru galiojimo panaikinimo. ^s-e2f7319ac8e9dd41c9df2456
@@ -420,7 +420,7 @@ TAUTINIO PAVELDO PRODUKTŲ IR TRADICINIŲ AMATŲ NEFORMALIOJO MOKYMO PROGRAMŲ S
 ### 14 straipsnis. Tautinio paveldo produktų sertifikavimas ir ženklinimas ^s-d6858dfe4edb7a984cb41b88
 
 
-1. Kaip tautinio paveldo produktai gali būti sertifikuojami prie I grupės priskirti tradiciniai gaminiai, prie II grupės priskirti tradicinių veislių augalai, gyvūnai ar jų produktai, gamtos gėrybių produktai, taip pat prie III grupės priskirtos tradicinės paslaugos, tradicinės mugės, atitinkančios šio straipsnio 2–[[#^s-b31633240043346631520150|7 dalyse]] nustatytus reikalavimus ir žemės ūkio ministro tvirtinamą tautinio paveldo produktų, būdingų Lietuvos etnografiniam regionui ar konkrečiai vietovei, specifikaciją. ^s-296c0b7be2dd151bdd902c64
+1. Kaip tautinio paveldo produktai gali būti sertifikuojami prie I grupės priskirti tradiciniai gaminiai, prie II grupės priskirti tradicinių veislių augalai, gyvūnai ar jų produktai, gamtos gėrybių produktai, taip pat prie III grupės priskirtos tradicinės paslaugos, tradicinės mugės, atitinkančios šio straipsnio [[#^s-d1af0806789178fc899f42da|2]]–[[#^s-b31633240043346631520150|7]] dalyse nustatytus reikalavimus ir žemės ūkio ministro tvirtinamą tautinio paveldo produktų, būdingų Lietuvos etnografiniam regionui ar konkrečiai vietovei, specifikaciją. ^s-296c0b7be2dd151bdd902c64
 
 
 2. Kaip tautinio paveldo produktai sertifikuojami tradiciniai gaminiai, jeigu jie atitinka: ^s-d1af0806789178fc899f42da
@@ -568,7 +568,7 @@ b) tradiciniai gaminiai pagaminti naudojant naujas gamybos technologijas, kurios
 Ekspertų komisija teikia siūlymą Agentūros direktoriui:
 
 
-1) nesertifikuoti tautinio paveldo produktų, jeigu sertifikuoti pateikti gaminių ir (arba) augalų, gyvūnų ar jų produktų, gamtos gėrybių produktų, paslaugų, mugių aprašymai neatitinka šio įstatymo [[#^s-d6858dfe4edb7a984cb41b88|14 straipsnio]] 1–7 dalių nuostatų; ^s-ed95e64eeb799e28dcb04850
+1) nesertifikuoti tautinio paveldo produktų, jeigu sertifikuoti pateikti gaminių ir (arba) augalų, gyvūnų ar jų produktų, gamtos gėrybių produktų, paslaugų, mugių aprašymai neatitinka šio įstatymo [[#^s-d6858dfe4edb7a984cb41b88|14 straipsnio]] [[#^s-296c0b7be2dd151bdd902c64|1]]–[[#^s-b31633240043346631520150|7]] dalių nuostatų; ^s-ed95e64eeb799e28dcb04850
 
 
 2) nepripažinti tradicinio amatininko tradicinių amatų meistru, jeigu jis neatitinka šio įstatymo [[#^s-a322ddf9e2bb358029763ed9|15 straipsnio 1 dalies]] nuostatų; ^s-6cd765c259994d051a950f61
@@ -662,7 +662,7 @@ TRADICINIŲ AMATŲ CENTRAI
 1. Juridinį asmenį ar jo padalinį tradicinių amatų centru pripažįsta Agentūra žemės ūkio ministro nustatyta tvarka. ^s-2a4b7ef900c4eae527a251af
 
 
-2. Juridinis asmuo ar jo padalinys pripažįstamas tradicinių amatų centru, jeigu jis veikia aiškiai apibrėžtoje veiklos teritorijoje, kaip tai numatyta šio įstatymo [[#^s-e057eca5849f9848668475cc|21 straipsnio]] 2 ir [[#^s-7c52580f092fe20e3ad52c32|3 dalyse]], ir: ^s-a1d09c1d1a3737196979db4b
+2. Juridinis asmuo ar jo padalinys pripažįstamas tradicinių amatų centru, jeigu jis veikia aiškiai apibrėžtoje veiklos teritorijoje, kaip tai numatyta šio įstatymo [[#^s-e057eca5849f9848668475cc|21 straipsnio]] [[#^s-4a937e02544d03963647c573|2]] ir [[#^s-1883adbc6e73741d8d7885a5|3]] dalyse, ir: ^s-a1d09c1d1a3737196979db4b
 
 
 1) vykdo visas šio įstatymo [[#^s-744b625e4b1752e03e79939c|21 straipsnio 4 dalyje]] nurodytas pareigas; ^s-86c5ae81f2a601621eef8756
@@ -719,13 +719,13 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 1. Neteisingos informacijos apie prekę pateikimas ženklinant tautinio paveldo produktus fiziniams asmenims, juridinių asmenų darbuotojams, juridinių asmenų vadovams ar kitiems atsakingiems asmenims užtraukia atsakomybę Lietuvos Respublikos administracinių nusižengimų kodekse nustatyta tvarka. ^s-81859ab6596300a4a8986d4d
 
 
-2. Jeigu fiziniai ir juridiniai asmenys ženklina tautinio paveldo produkto ženklu gaminius, augalus, gyvūnus ar jų produktus, gamtos gėrybių produktus, paslaugas ar muges, kurie neatitinka šio įstatymo [[#^s-d6858dfe4edb7a984cb41b88|14 straipsnio]] 2–7 ir 11 dalyse nustatytų reikalavimų ir per nurodytą 3 mėnesių terminą nepašalina nustatyto šio įstatymo pažeidimo, jiems išduoto tautinio paveldo produkto sertifikato galiojimas panaikinamas. ^s-4a1e550af56c713c3a9120e9
+2. Jeigu fiziniai ir juridiniai asmenys ženklina tautinio paveldo produkto ženklu gaminius, augalus, gyvūnus ar jų produktus, gamtos gėrybių produktus, paslaugas ar muges, kurie neatitinka šio įstatymo [[#^s-d6858dfe4edb7a984cb41b88|14 straipsnio]] [[#^s-d1af0806789178fc899f42da|2]]–[[#^s-b31633240043346631520150|7]] ir [[#^s-bb425e44374c00ca1df13e05|11]] dalyse nustatytų reikalavimų ir per nurodytą 3 mėnesių terminą nepašalina nustatyto šio įstatymo pažeidimo, jiems išduoto tautinio paveldo produkto sertifikato galiojimas panaikinamas. ^s-4a1e550af56c713c3a9120e9
 
 
 3. Jeigu fizinių asmenų tautinio paveldo produkto sertifikato galiojimas panaikinamas vadovaujantis [[#^s-4a1e550af56c713c3a9120e9|šio straipsnio 2 dalies]] nuostatomis, naikinamas ir šiems fiziniams asmenims išduoto to paties amato tradicinių amatų meistro pažymėjimo ir (arba) tradicinių amatų neformaliojo mokymo programos sertifikato galiojimas. ^s-ab5d8cd0bbbb3053477fd238
 
 
-4. Jeigu tradicinių amatų centrai nesilaiko šio įstatymo [[#^s-e057eca5849f9848668475cc|21 straipsnio]] 2 ir [[#^s-ab5d8cd0bbbb3053477fd238|3 dalyse]] nustatytų reikalavimų ir (arba) nevykdo bent vienos iš šio įstatymo [[#^s-744b625e4b1752e03e79939c|21 straipsnio 4 dalyje]] nurodytų pareigų ir per nurodytą 6 mėnesių terminą nepašalina nustatyto šio įstatymo pažeidimo, sprendimo dėl šių centrų pripažinimo tradicinių amatų centrais galiojimas panaikinamas. ^s-7481da9cec6c8c5f35a3e010
+4. Jeigu tradicinių amatų centrai nesilaiko šio įstatymo [[#^s-e057eca5849f9848668475cc|21 straipsnio]] [[#^s-4a937e02544d03963647c573|2]] ir [[#^s-1883adbc6e73741d8d7885a5|3]] dalyse nustatytų reikalavimų ir (arba) nevykdo bent vienos iš šio įstatymo [[#^s-744b625e4b1752e03e79939c|21 straipsnio 4 dalyje]] nurodytų pareigų ir per nurodytą 6 mėnesių terminą nepašalina nustatyto šio įstatymo pažeidimo, sprendimo dėl šių centrų pripažinimo tradicinių amatų centrais galiojimas panaikinamas. ^s-7481da9cec6c8c5f35a3e010
 
 
 
@@ -757,7 +757,7 @@ Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 pakeitimo �
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1215, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09730
-Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 2, 4, 5, 7, 10, 14, 15, 20 ir 25 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 [[#^s-64e06f6b4499a15d506217c9|2]], [[#^s-142739dd8df22c0ebc3ac414|4]], [[#^s-1e6045e49c41a2de1f6fcdc4|5]], [[#^s-13e9536345b6dfd21c42273b|7]], [[#^s-2e70685c5ea40a7664e74ccb|10]], [[#^s-d6858dfe4edb7a984cb41b88|14]], [[#^s-10dcc3ef4c57fd1f1dd0966b|15]], [[#^s-0a68c96e5e80aef5ac8ccd0c|20]] ir 25 straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -767,7 +767,7 @@ Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 [[#^s-638b3
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3124, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15368
-Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 4, 6, 7 ir [[#^s-943213c88c6b29fcbcf3e86a|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tautinio paveldo produktų įstatymo Nr. X-1207 [[#^s-142739dd8df22c0ebc3ac414|4]], [[#^s-5909479921c44c0553b81338|6]], [[#^s-13e9536345b6dfd21c42273b|7]] ir [[#^s-943213c88c6b29fcbcf3e86a|8]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas

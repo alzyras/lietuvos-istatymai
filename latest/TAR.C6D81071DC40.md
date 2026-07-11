@@ -260,10 +260,10 @@ Pakeisti 32 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 ### 13 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-7c05a9e360e35a3e3aad9f83
 
 
-1. Šio įstatymo [[#^s-b1dedfc5f03a69b462e66aba|4 straipsnio 2 dalis]] ir 5, 6, [[#^s-499b34e237ecb34ba1d220b1|7 straipsniai]] įsigalioja 2010 m. spalio 1 d. ^s-8d1b199934f77830281bfaf9
+1. Šio įstatymo [[#^s-b1dedfc5f03a69b462e66aba|4 straipsnio 2 dalis]] ir [[#^s-74db2f8f422ad25e39d91ebb|5]], [[#^s-42d1736c1b2b0637678b0cd1|6]], [[#^s-499b34e237ecb34ba1d220b1|7]] straipsniai įsigalioja 2010 m. spalio 1 d. ^s-8d1b199934f77830281bfaf9
 
 
-2. Savivaldybių tarybos iki 2010 m. rugsėjo 30 d. parengia ir patvirtina šio įstatymo [[#^s-b1dedfc5f03a69b462e66aba|4 straipsnio 2 dalies]] ir 5, 6, [[#^s-499b34e237ecb34ba1d220b1|7 straipsnių]] nuostatoms įgyvendinti reikalingus savivaldybių tarybų veiklos reglamentų pakeitimus. ^s-5bf702b79b7eb502c1c58113
+2. Savivaldybių tarybos iki 2010 m. rugsėjo 30 d. parengia ir patvirtina šio įstatymo [[#^s-b1dedfc5f03a69b462e66aba|4 straipsnio 2 dalies]] ir [[#^s-74db2f8f422ad25e39d91ebb|5]], [[#^s-42d1736c1b2b0637678b0cd1|6]], [[#^s-499b34e237ecb34ba1d220b1|7]] straipsnių nuostatoms įgyvendinti reikalingus savivaldybių tarybų veiklos reglamentų pakeitimus. ^s-5bf702b79b7eb502c1c58113
 
 
 

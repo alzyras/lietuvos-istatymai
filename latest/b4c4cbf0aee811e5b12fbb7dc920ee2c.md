@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 39 straipsnio pakeitimas ^s-304c44176603b900070a9947
 
 
-Pakeisti 39 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.1EABAD7265D5#^s-2f3d77105e8314f66ee5cff7|39 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Kolektyvinio investavimo subjektų apskaita tvarkoma ir finansinių ataskaitų rinkinys rengiamas Lietuvos Respublikos įstatymų ir kitų teisės aktų, reglamentuojančių buhalterinę apskaitą ir finansinių ataskaitų rinkinio rengimą, nustatyta tvarka.“

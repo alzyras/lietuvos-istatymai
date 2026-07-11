@@ -62,7 +62,7 @@ Vilnius
 ### 3 straipsnis. 3 straipsnio 1 ir 5 dalių pakeitimas ^s-92f617c006f37a2b17cf239f
 
 
-1. [[#^s-4c9b406cc376c06520632a59|3 straipsnio 1 dalyje]] vietoj skaičiaus „25“ įrašyti skaičių „24“ ir šią dalį išdėstyti taip: ^s-4c9b406cc376c06520632a59
+1. 3 straipsnio 1 dalyje vietoj skaičiaus „25“ įrašyti skaičių „24“ ir šią dalį išdėstyti taip: ^s-4c9b406cc376c06520632a59
 
 
 „1. Šio Įstatymo 2 straipsnio 1 dalies 1–24, 27, 29–36 punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą:

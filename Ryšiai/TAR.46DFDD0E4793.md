@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos vidaus reikalų, valstybės saugumo, krašto 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 2 citatos - Valstybinių socialinio draudimo pensijų įstatymo
+- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - Valstybinių socialinio draudimo pensijų įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EDDCB615126E#^s-56e51fa1ccd5494964ba67f6|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - 2 citatos - VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAVADINIMO, 1, 3, 6, 12, 16 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.EDDCB615126E#^s-ebca7f488c83e6092064f614|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - 2 citatos - VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAVADINIMO, 1, 3, 6, 12, 16 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.EDDCB615126E#^s-56e51fa1ccd5494964ba67f6|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAVADINIMO, 1, 3, 6, 12, 16 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS

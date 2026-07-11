@@ -216,7 +216,7 @@ Papildyti Kodeksą 41 straipsniu:
 2. Atskiros pelno (nuostolių) ataskaitos ir balansai skelbiami viešai Lietuvos Respublikos susisiekimo ministro nustatyta tvarka. ^s-3d15e9d4566b2ac1f64b2638
 
 
-3. Specialūs viešųjų keleivių vežimo geležinkelių transportu paslaugų apskaitos reikalavimai nustatyti 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančiame Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 (toliau – Reglamentas (EB) Nr. 1370/2007) ir šio Kodekso 12 straipsnio 4 dalyje. ^s-a42a82b6d10831fdee76ac4d
+3. Specialūs viešųjų keleivių vežimo geležinkelių transportu paslaugų apskaitos reikalavimai nustatyti 2007 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančiame Tarybos [reglamentus (EEB) Nr. 1191/69](https://eur-lex.europa.eu/eli/reg/1191/69/oj) ir (EEB) Nr. 1107/70 (toliau – [Reglamentas (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj)) ir šio Kodekso 12 straipsnio 4 dalyje. ^s-a42a82b6d10831fdee76ac4d
 
 
 4. Specialūs viešosios geležinkelių infrastruktūros valdymo apskaitos reikalavimai nustatyti šio Kodekso 23 straipsnio 2 ir 8 dalyse.“ ^s-b6a1f749c471a96549acf6e1
@@ -319,13 +319,13 @@ Pakeisti [[#^s-76961fb3434942d4b3340b41|12 straipsnį]] ir jį išdėstyti taip:
 1. Vyriausybės įgaliota institucija nustato viešųjų keleivių vežimo geležinkelių transportu paslaugų (toliau – viešosios paslaugos) poreikį Lietuvos Respublikoje ir užtikrina jų teikimą, sudarydama viešųjų paslaugų teikimo sutartis su geležinkelio įmonėmis (vežėjais). ^s-b26908093ff6c7f20ef71dd3
 
 
-2. Viešųjų paslaugų teikimo sutarčių turinį, trukmę, jų sudarymo sąlygas ir tvarką, geležinkelio įmonės (vežėjo) nuostolių, patirtų teikiant viešąsias paslaugas, kompensavimo tvarka nustatyta Reglamente (EB) Nr. 1370/2007. ^s-0d1195073806ce55dce72014
+2. Viešųjų paslaugų teikimo sutarčių turinį, trukmę, jų sudarymo sąlygas ir tvarką, geležinkelio įmonės (vežėjo) nuostolių, patirtų teikiant viešąsias paslaugas, kompensavimo tvarka nustatyta [Reglamente (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj). ^s-0d1195073806ce55dce72014
 
 
-3. Vyriausybės įgaliota institucija geležinkelio įmonę (vežėją) viešosioms paslaugoms teikti parenka konkurso būdu, vadovaudamasi Reglamento (EB) Nr. 1370/2007 3, 4, [[#^s-9f66e43f0b6faf3969187f8f|5 straipsniais]] arba tiesiogiai sudarydama viešųjų paslaugų teikimo sutartis pagal Reglamento (EB) Nr. 1370/2007 [[#^s-9f66e43f0b6faf3969187f8f|5 straipsnyje]] nurodytas sąlygas. ^s-4e684b368b0136d7db99bdbe
+3. Vyriausybės įgaliota institucija geležinkelio įmonę (vežėją) viešosioms paslaugoms teikti parenka konkurso būdu, vadovaudamasi [Reglamento (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) [[#^s-2326f54fc3d64928b78079d5|3]], [[#^s-c3b8bf6e83cb6a4382ee1dfd|4]], [[#^s-9f66e43f0b6faf3969187f8f|5]] straipsniais arba tiesiogiai sudarydama viešųjų paslaugų teikimo sutartis pagal [Reglamento (EB) Nr. 1370/2007 5 straipsnyje](https://eur-lex.europa.eu/eli/reg/1370/2007/art_5/oj) nurodytas sąlygas. ^s-4e684b368b0136d7db99bdbe
 
 
-4. Geležinkelio įmonės (vežėjo) nuostolių, patirtų teikiant viešąsias paslaugas, kompensacijos apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija pagal Reglamento (EB) Nr. 1370/2007 priedo taisykles. ^s-4e9ec246cbd0933765984928
+4. Geležinkelio įmonės (vežėjo) nuostolių, patirtų teikiant viešąsias paslaugas, kompensacijos apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija pagal [Reglamento (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) priedo taisykles. ^s-4e9ec246cbd0933765984928
 
 
 5. Valstybės lėšos, skirtos geležinkelio įmonei (vežėjui) viešosioms paslaugoms teikti, turi būti apskaitomos atskirai ir negali būti naudojamos kitai veiklai.“ ^s-5724ff3e91f525dcdf6ab809
@@ -502,13 +502,13 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 „33 straipsnis. Keleivių ir bagažo vežimas
 
 
-1. Keleivių ir bagažo vežimo sąlygos ir tvarka, taip pat geležinkelio įmonės (vežėjo), keleivio, bagažo siuntėjo (gavėjo) teisės, pareigos ir atsakomybė, geležinkelių transportu keliaujančių neįgaliųjų arba ribotos judėsenos asmenų apsauga ir pagalbos taisyklės nustatytos 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų (toliau – Reglamentas (EB) Nr. 1371/2007), šiame Kodekse, Civiliniame kodekse, Lietuvos Respublikos tarptautinėse sutartyse ir kituose teisės aktuose. ^s-f23ceeef72ce04d778b6a5bf
+1. Keleivių ir bagažo vežimo sąlygos ir tvarka, taip pat geležinkelio įmonės (vežėjo), keleivio, bagažo siuntėjo (gavėjo) teisės, pareigos ir atsakomybė, geležinkelių transportu keliaujančių neįgaliųjų arba ribotos judėsenos asmenų apsauga ir pagalbos taisyklės nustatytos 2007 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1371/2007](https://eur-lex.europa.eu/eli/reg/1371/2007/oj) dėl geležinkelių keleivių teisių ir pareigų (toliau – [Reglamentas (EB) Nr. 1371/2007](https://eur-lex.europa.eu/eli/reg/1371/2007/oj)), šiame Kodekse, Civiliniame kodekse, Lietuvos Respublikos tarptautinėse sutartyse ir kituose teisės aktuose. ^s-f23ceeef72ce04d778b6a5bf
 
 
 2. Europos Sąjungos valstybėje narėje įregistruota geležinkelio įmonė (vežėjas), veždama keleivius tarptautiniais maršrutais, turi teisę įlaipinti keleivius bet kurioje Lietuvos Respublikos teritorijoje esančioje traukinio važiavimo maršruto geležinkelio stotyje ir išlaipinti kitoje. ^s-fe582645a5667a8f788056f3
 
 
-3. Keleivių teisių, nurodytų Reglamente (EB) Nr. 1371/2007, apsaugą užtikrina Valstybinė vartotojų teisių apsaugos tarnyba, kuri nagrinėja keleivių skundus dėl jų teisių, nurodytų Reglamente (EB) Nr. 1371/2007, pažeidimo.“ ^s-c36db47dc0fc6cff05e13040
+3. Keleivių teisių, nurodytų [Reglamente (EB) Nr. 1371/2007](https://eur-lex.europa.eu/eli/reg/1371/2007/oj), apsaugą užtikrina Valstybinė vartotojų teisių apsaugos tarnyba, kuri nagrinėja keleivių skundus dėl jų teisių, nurodytų [Reglamente (EB) Nr. 1371/2007](https://eur-lex.europa.eu/eli/reg/1371/2007/oj), pažeidimo.“ ^s-c36db47dc0fc6cff05e13040
 
 
 
@@ -524,7 +524,7 @@ Papildyti Kodeksą 331 straipsniu:
 1. Vežant neįgaliuosius arba ribotos judėsenos asmenis vietiniais maršrutais, geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas) privalo užtikrinti, kad neįgaliesiems arba ribotos judėsenos asmenims būtų suteikta pagalba patekti į peronus, įlipti ir išlipti iš riedmenų techniškai tam pritaikytose geležinkelio stotyse, peronuose, kai riedmenys yra techniškai pritaikyti neįgaliesiems arba ribotos judėsenos asmenims aptarnauti ir yra pagalbą teikiantis personalas. Jeigu geležinkelio stotys, peronai ir riedmenys nėra techniškai pritaikyti neįgaliesiems arba ribotos judėsenos asmenims aptarnauti, geležinkelių infrastruktūros valdytojai ir geležinkelio įmonės (vežėjai) imasi visų įmanomų ir pagrįstų priemonių, kad šiems asmenims būtų suteikta galimybė naudotis geležinkelių transportu. ^s-6462ee8373ea51361be3d4c3
 
 
-2. Neįgalusis arba ribotos judėsenos asmuo ne vėliau kaip prieš 24 valandas iki keleivinio traukinio išvykimo pagal tvarkaraštį turi pranešti geležinkelių infrastruktūros valdytojui ar geležinkelio įmonei (vežėjui), kad jam reikės [[#^s-6462ee8373ea51361be3d4c3|šio straipsnio 1 dalyje]] nurodytos pagalbos. Jeigu neįgalusis arba ribotos judėsenos asmuo yra įsigijęs terminuotą bilietą, informaciją apie savo keliones jis gali pateikti iš anksto vieną kartą. Šios informacijos pateikimo tvarką geležinkelio įmonė (vežėjas) turi nustatyti pagal Reglamento (EB) Nr. 1371/2007 [[#^s-57eb09f5b7b35b6de1723931|19 straipsnio 1 dalyje]] nurodytas taisykles. ^s-549f6f58c0a13dd5a5d1313d
+2. Neįgalusis arba ribotos judėsenos asmuo ne vėliau kaip prieš 24 valandas iki keleivinio traukinio išvykimo pagal tvarkaraštį turi pranešti geležinkelių infrastruktūros valdytojui ar geležinkelio įmonei (vežėjui), kad jam reikės [[#^s-6462ee8373ea51361be3d4c3|šio straipsnio 1 dalyje]] nurodytos pagalbos. Jeigu neįgalusis arba ribotos judėsenos asmuo yra įsigijęs terminuotą bilietą, informaciją apie savo keliones jis gali pateikti iš anksto vieną kartą. Šios informacijos pateikimo tvarką geležinkelio įmonė (vežėjas) turi nustatyti pagal [Reglamento (EB) Nr. 1371/2007 19 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/1371/2007/art_19/par_1/oj) nurodytas taisykles. ^s-549f6f58c0a13dd5a5d1313d
 
 
 3. Jeigu neįgalusis arba ribotos judėsenos asmuo nepateikia informacijos [[#^s-549f6f58c0a13dd5a5d1313d|šio straipsnio 2 dalyje]] nustatyta tvarka, geležinkelių infrastruktūros valdytojas ir geležinkelio įmonė (vežėjas) imasi visų įmanomų ir pagrįstų priemonių, kad būtų suteikta būtina nemokama pagalba, siekiant užtikrinti neįgaliajam arba ribotos judėsenos asmeniui galimybę naudotis geležinkelių transportu. ^s-ca61b0278049b7b9a9bb3d0c
@@ -561,20 +561,20 @@ priedas
 4. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/49/EB dėl saugos Bendrijos geležinkeliuose ir iš dalies pakeičianti Tarybos direktyvą 95/18/EB dėl geležinkelio įmonių licencijavimo bei Direktyvą 2001/14/EB dėl geležinkelių infrastruktūros pajėgumų paskirstymo, mokesčių už naudojimąsi geležinkelių infrastruktūra ėmimo ir saugos sertifikavimo (Saugos geležinkeliuose direktyva) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 227) su paskutiniais pakeitimais, padarytais 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva 2008/110/EB (OL 2008 L 345, p. 62). ^s-cd53fb282ae6e859777b73ce
 
 
-5. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 (OL 2007 L 315, p. 1). ^s-1d5f2a124c39ed69cb3f97b4
+5. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos [reglamentus (EEB) Nr. 1191/69](https://eur-lex.europa.eu/eli/reg/1191/69/oj) ir (EEB) Nr. 1107/70 (OL 2007 L 315, p. 1). ^s-1d5f2a124c39ed69cb3f97b4
 
 
-6. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1371/2007 dėl geležinkelių keleivių teisių ir pareigų (OL 2007 L 315, p. 14).“ ^s-af6952da19b913e8f49f0b66
+6. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1371/2007](https://eur-lex.europa.eu/eli/reg/1371/2007/oj) dėl geležinkelių keleivių teisių ir pareigų (OL 2007 L 315, p. 14).“ ^s-af6952da19b913e8f49f0b66
 
 
 
 ### 20 straipsnis. Baigiamosios nuostatos ^s-daf74e1aad2ce145f3a3a344
 
 
-1. Vežant keleivius vietinio susisiekimo maršrutais, Reglamento (EB) Nr. 1371/2007 [[#^s-c4c8d0656a3f23e9755e17a0|8 straipsnio]] 2 ir 3 dalių, [[#^s-108c792c5ef4c7c21af3e705|21 straipsnio]], 24 straipsnio d dalies, atsižvelgiant į 22 ir 23 straipsnius, nuostatos netaikomos iki 2024 m. gruodžio 2 d. ^s-b3b30ef8e90d1b4374d6bbf4
+1. Vežant keleivius vietinio susisiekimo maršrutais, [Reglamento (EB) Nr. 1371/2007 8 straipsnio](https://eur-lex.europa.eu/eli/reg/1371/2007/art_8/oj) [[#^s-0d1195073806ce55dce72014|2]] ir [[#^s-4e684b368b0136d7db99bdbe|3]] dalių, [[#^s-108c792c5ef4c7c21af3e705|21 straipsnio]], 24 straipsnio d dalies, atsižvelgiant į 22 ir 23 straipsnius, nuostatos netaikomos iki 2024 m. gruodžio 2 d. ^s-b3b30ef8e90d1b4374d6bbf4
 
 
-2. Teikiant keleivių vežimo geležinkelių transportu tarptautiniais maršrutais paslaugas, kai didelė dalis šių paslaugų, įskaitant bent vieną sustojimą geležinkelio stotyje pagal tvarkaraštį, suteikiama už Europos Sąjungos valstybės narės ribų, Reglamento (EB) Nr. 1371/2007 nuostatos netaikomos iki 2024 m. gruodžio 2 d. ^s-bca34bfe03732cb70c608c0c
+2. Teikiant keleivių vežimo geležinkelių transportu tarptautiniais maršrutais paslaugas, kai didelė dalis šių paslaugų, įskaitant bent vieną sustojimą geležinkelio stotyje pagal tvarkaraštį, suteikiama už Europos Sąjungos valstybės narės ribų, [Reglamento (EB) Nr. 1371/2007](https://eur-lex.europa.eu/eli/reg/1371/2007/oj) nuostatos netaikomos iki 2024 m. gruodžio 2 d. ^s-bca34bfe03732cb70c608c0c
 
 
 Straipsnio pakeitimai:
@@ -604,9 +604,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1622, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06523
-Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 4, 7, 11, 12, 13, 16, 23, 24, 25, 29, 33 straipsnių, priedo pakeitimo ir papildymo, Kodekso papildymo 4-1, 25-1, 33-1 straipsniais ir 8, 27 straipsnių pripažinimo netekusiais galios įstatymo Nr. XI-1595 [[#^s-daf74e1aad2ce145f3a3a344|20 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos geležinkelių transporto kodekso [[#^s-7112ca0d7c67001f99308a18|1]], [[#^s-2326f54fc3d64928b78079d5|3]], [[#^s-c3b8bf6e83cb6a4382ee1dfd|4]], [[#^s-54dce41e2fcd5e05ae6d0193|7]], [[#^s-d65793f75c35fcd16d941617|11]], [[#^s-76961fb3434942d4b3340b41|12]], [[#^s-c11edf9e7fff5575c700b333|13]], [[#^s-268b46b85e70b1ba2bcc65d1|16]], 23, 24, 25, 29, 33 straipsnių, priedo pakeitimo ir papildymo, Kodekso papildymo 4-1, 25-1, 33-1 straipsniais ir [[#^s-c4c8d0656a3f23e9755e17a0|8]], 27 straipsnių pripažinimo netekusiais galios įstatymo Nr. XI-1595 [[#^s-daf74e1aad2ce145f3a3a344|20 straipsnio]] pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2686, 2019-12-13, paskelbta TAR 2019-12-20, i. k. 2019-20857
-Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 4, 7, 11, 12, 13, 16, 23, 24, 25, 29, 33 straipsnių, priedo pakeitimo ir papildymo, Kodekso papildymo 4-1, 25-1, 33-1 straipsniais ir 8, 27 straipsnių pripažinimo netekusiais galios įstatymo Nr. XI-1595 [[#^s-daf74e1aad2ce145f3a3a344|20 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos geležinkelių transporto kodekso [[#^s-7112ca0d7c67001f99308a18|1]], [[#^s-2326f54fc3d64928b78079d5|3]], [[#^s-c3b8bf6e83cb6a4382ee1dfd|4]], [[#^s-54dce41e2fcd5e05ae6d0193|7]], [[#^s-d65793f75c35fcd16d941617|11]], [[#^s-76961fb3434942d4b3340b41|12]], [[#^s-c11edf9e7fff5575c700b333|13]], [[#^s-268b46b85e70b1ba2bcc65d1|16]], 23, 24, 25, 29, 33 straipsnių, priedo pakeitimo ir papildymo, Kodekso papildymo 4-1, 25-1, 33-1 straipsniais ir [[#^s-c4c8d0656a3f23e9755e17a0|8]], 27 straipsnių pripažinimo netekusiais galios įstatymo Nr. XI-1595 [[#^s-daf74e1aad2ce145f3a3a344|20 straipsnio]] pakeitimo įstatymas

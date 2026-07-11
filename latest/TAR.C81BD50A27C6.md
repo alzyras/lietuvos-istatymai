@@ -362,10 +362,10 @@ Nr. XIII-3343, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24232
 9. Licencijos asmens sveikatos priežiūros veiklai tikslinimo ypatumai: ^s-8c2065f5af61589cd31dc379
 
 
-1) [[#^s-f313c267c6727d9fd5d9e6a3|šio straipsnio 8 dalies]] 1 ir [[#^s-1caa78a06cc616ded83d37af|2 punktuose]] nurodytas aplinkybes asmens sveikatos priežiūros įstaiga privalo pranešti Valstybinei akreditavimo sveikatos priežiūros veiklai tarnybai ne vėliau kaip kitą darbo dieną nuo tokių aplinkybių atsiradimo dienos per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai pateikdama prašymą patikslinti licenciją asmens sveikatos priežiūros veiklai ir dokumentus, patvirtinančius tokių aplinkybių atsiradimą. Licencija asmens sveikatos priežiūros veiklai patikslinama ne vėliau kaip kitą darbo dieną nuo šioje dalyje nurodytų prašymo ir dokumentų gavimo Valstybinėje akreditavimo sveikatos priežiūros veiklai tarnyboje dienos; ^s-0c8db0c92d5c126bf6710aa0
+1) [[#^s-f313c267c6727d9fd5d9e6a3|šio straipsnio 8 dalies]] 1 ir [[#^s-1caa78a06cc616ded83d37af|2]] punktuose nurodytas aplinkybes asmens sveikatos priežiūros įstaiga privalo pranešti Valstybinei akreditavimo sveikatos priežiūros veiklai tarnybai ne vėliau kaip kitą darbo dieną nuo tokių aplinkybių atsiradimo dienos per atstumą, elektroninėmis priemonėmis per kontaktinį centrą arba tiesiogiai pateikdama prašymą patikslinti licenciją asmens sveikatos priežiūros veiklai ir dokumentus, patvirtinančius tokių aplinkybių atsiradimą. Licencija asmens sveikatos priežiūros veiklai patikslinama ne vėliau kaip kitą darbo dieną nuo šioje dalyje nurodytų prašymo ir dokumentų gavimo Valstybinėje akreditavimo sveikatos priežiūros veiklai tarnyboje dienos; ^s-0c8db0c92d5c126bf6710aa0
 
 
-2) [[#^s-f0004fd520a8ea8f27053585|šio straipsnio 8 dalies 3 punkte]] nurodytu atveju licencija asmens sveikatos priežiūros veiklai tikslinama šio straipsnio 4, 5, 6 ir [[#^s-40f836fac8208fed036d706f|7 dalyse]] nustatyta tvarka; ^s-1caa78a06cc616ded83d37af
+2) [[#^s-f0004fd520a8ea8f27053585|šio straipsnio 8 dalies 3 punkte]] nurodytu atveju licencija asmens sveikatos priežiūros veiklai tikslinama šio straipsnio [[#^s-ec33acdffbfd853274ed661e|4]], [[#^s-0343192265d4932006a49f1a|5]], [[#^s-61c3a5a38cb2cf840ba3fbf9|6]] ir [[#^s-40f836fac8208fed036d706f|7]] dalyse nustatyta tvarka; ^s-1caa78a06cc616ded83d37af
 
 
 3) patikslinus licenciją asmens sveikatos priežiūros veiklai, šios licencijos turėtojui pateikiama nauja (perrašyta) licencija asmens sveikatos priežiūros veiklai su visais aktualiais duomenimis. ^s-066a5236bed5591ec572991d
@@ -453,7 +453,7 @@ Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
 2) [[#^s-f8b991d8da0b136facb9e69d|šio straipsnio 14 dalies 2 punkte]] nurodytu atveju – ne vėliau kaip penkias darbo dienas nuo [[#^s-eb810ea2954369e3300a1dd2|šio straipsnio 11 dalies 1 punkte]] nustatyto termino kreiptis dėl licencijos asmens sveikatos priežiūros veiklai (ar jos dalies) galiojimo sustabdymo panaikinimo pabaigos arba ne vėliau kaip per dešimt darbo dienų nuo [[#^s-3a49fe330bf25030d3468165|šio straipsnio 11 dalies 2 punkte]] nurodyto termino, per kurį asmens sveikatos priežiūros įstaiga turėjo pašalinti licencijuojamos veiklos pažeidimus, dėl kurių jos licencija asmens sveikatos priežiūros veiklai (ar jos dalis) yra sustabdyta, bet jų nepašalino, pabaigos; ^s-cfa60633d0e25a7830c597c2
 
 
-3) [[#^s-521dd9e611b680944d31212e|šio straipsnio 14 dalies]] 3 ir [[#^s-296f5748d13c098d885934a2|4 punktuose]] nurodytais atvejais – ne vėliau kaip per tris darbo dienas nuo sužinojimo apie šias aplinkybes dienos; ^s-6bfcda61ad817edee0185e6f
+3) [[#^s-521dd9e611b680944d31212e|šio straipsnio 14 dalies]] 3 ir [[#^s-296f5748d13c098d885934a2|4]] punktuose nurodytais atvejais – ne vėliau kaip per tris darbo dienas nuo sužinojimo apie šias aplinkybes dienos; ^s-6bfcda61ad817edee0185e6f
 
 
 4) [[#^s-045b7d6a57a331a841daa8bf|šio straipsnio 14 dalies 5 punkte]] nurodytu atveju – ne vėliau kaip per septynias darbo dienas nuo kreipimosi gavimo dienos. ^s-296f5748d13c098d885934a2
@@ -668,7 +668,7 @@ Nr. XI-1122, 2010-11-12, Žin., 2010, Nr. 139-7106 (2010-11-27)
 6. LNSS įstaigų savininko (dalininkų) teises ir pareigas įgyvendinančios institucijos ir įstaigos privalo užtikrinti, kad būtų įgyvendinti pagal šį straipsnį nustatomi LNSS įstaigų išdėstymo reikalavimai. ^s-642d946292dbeb4b73206826
 
 
-7. Sveikatos apsaugos ministras, atsižvelgdamas į LNSS įstaigų priskyrimą [[latest/TAR.E2B2957B9182#^s-dd8df26346024785d058add6|Sveikatos sistemos įstatymo 12 straipsnio]] 1–[[#^s-bccdec90c28051f42bb1eddd|3 dalyse]] nustatytiems LNSS veiklos organizavimo ir (ar) sveikatos priežiūros paslaugų lygiams ir (ar) LNSS priklausančių asmens sveikatos priežiūros įstaigų lygmenims ir (arba) LNSS įstaigos priskyrimą šio įstatymo [[#^s-f37b421c12341a5233b35308|39 straipsnyje]] nurodytai nomenklatūrai, tvirtina minimalius privalomai teikiamų asmens sveikatos priežiūros paslaugų sąrašus. ^s-5a6be2c7971d90f0666879e9
+7. Sveikatos apsaugos ministras, atsižvelgdamas į LNSS įstaigų priskyrimą [[latest/TAR.E2B2957B9182#^s-dd8df26346024785d058add6|Sveikatos sistemos įstatymo 12 straipsnio]] [[latest/TAR.E2B2957B9182#^s-be42d14d1931bfdcf17b0950|1]]–[[latest/TAR.E2B2957B9182#^s-97af7c85b2ee577f3aa96c12|3]] dalyse nustatytiems LNSS veiklos organizavimo ir (ar) sveikatos priežiūros paslaugų lygiams ir (ar) LNSS priklausančių asmens sveikatos priežiūros įstaigų lygmenims ir (arba) LNSS įstaigos priskyrimą šio įstatymo [[#^s-f37b421c12341a5233b35308|39 straipsnyje]] nurodytai nomenklatūrai, tvirtina minimalius privalomai teikiamų asmens sveikatos priežiūros paslaugų sąrašus. ^s-5a6be2c7971d90f0666879e9
 
 
 Straipsnio pakeitimai:
@@ -744,7 +744,7 @@ Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
 
 
 
-1. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų vadovai į darbą priimami viešo konkurso būdu. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų, išskyrus viešąsias įstaigas, kuriose dirba dešimt ar mažiau sveikatos priežiūros specialistų, turinčių medicinos praktikos licenciją, vadovai į darbą priimami penkerių metų kadencijai. Pasibaigus LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos, teikiančios asmens sveikatos priežiūros paslaugas, vadovo pirmajai penkerių metų kadencijai, esant vadovo sutikimui, antrajai penkerių metų kadencijai jis gali būti skiriamas be konkurso, jeigu jo vadovaujama įstaiga kiekvienais kadencijos metais pasiekė ne mažiau kaip 80 procentų tiems metams vadovaujantis šio įstatymo [[#^s-40a8b3e140ae242914171533|152 straipsniu]] sveikatos apsaugos ministro patvirtintų LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, veiklos rezultatų vertinimo rodiklių siektinų reikšmių ir visus vadovaujantis Viešųjų įstaigų įstatymo 5 straipsnio 5 dalies 3 punktu nustatytus valstybės ar savivaldybės tikslus ir lūkesčius dėl viešosios įstaigos, jei valstybės ar savivaldybės tikslai ir lūkesčiai buvo nustatyti. Įstaigų vertinimo pagal LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, veiklos rezultatų vertinimo rodiklių pasiektas reikšmes metodiką nustato sveikatos apsaugos ministras. Pasibaigus LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos, teikiančios visuomenės ar papildomosios ir alternatyviosios sveikatos priežiūros paslaugas, vadovo pirmajai penkerių metų kadencijai, esant vadovo sutikimui, antrajai penkerių metų kadencijai jis gali būti skiriamas be konkurso atitinkamai [[latest/TAR.3A756D83A99B#^s-2c07d3b38b9da5f1c227a53d|Biudžetinių įstaigų įstatymo 10 straipsnio 2 dalyje]] ar Viešųjų įstaigų įstatymo 20 straipsnio 4 dalyje nustatytais atvejais ir tvarka. Sprendimas dėl valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovo skyrimo be konkurso antrajai penkerių metų kadencijai turi būti priimtas likus ne mažiau kaip šešiems mėnesiams iki šio vadovo kadencijos pabaigos. Tos pačios LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovu tas pats asmuo gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės ir ne anksčiau kaip po penkerių metų nuo paskutinės kadencijos pabaigos, jeigu paskutinė kadencija buvo iš eilės antra. Viešą konkursą organizuoja ir jo nuostatus tvirtina įstaigos savininko teises ir pareigas įgyvendinanti institucija arba visuotinis dalininkų susirinkimas. Likus šešiems mėnesiams iki LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovo kadencijos pabaigos, jeigu įstaigos vadovo kadencija nustatoma pagal šios dalies nuostatas, šios įstaigos savininko teises ir pareigas įgyvendinanti institucija arba visuotinis dalininkų susirinkimas skelbia viešą konkursą LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovo pareigoms eiti, išskyrus atvejus, kai LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovas pagal šios dalies nuostatas paskiriamas antrajai penkerių metų kadencijai be konkurso. Jeigu su LNSS valstybės ar savivaldybės biudžetinės įstaigos vadovu, kurio kadencijos terminas nėra pasibaigęs, arba viešosios įstaigos vadovu, kurio kadencija nenustatoma pagal šios dalies nuostatas arba kurio kadencijos terminas nėra pasibaigęs, darbo sutartis nutraukiama, ne vėliau kaip per dešimt darbo dienų nuo darbo sutarties nutraukimo dienos skelbiamas viešas konkursas LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovo pareigoms eiti. ^s-99e06a2ecad690dc3b665169
+1. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų vadovai į darbą priimami viešo konkurso būdu. LNSS valstybės ir savivaldybių biudžetinių ir viešųjų įstaigų, išskyrus viešąsias įstaigas, kuriose dirba dešimt ar mažiau sveikatos priežiūros specialistų, turinčių medicinos praktikos licenciją, vadovai į darbą priimami penkerių metų kadencijai. Pasibaigus LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos, teikiančios asmens sveikatos priežiūros paslaugas, vadovo pirmajai penkerių metų kadencijai, esant vadovo sutikimui, antrajai penkerių metų kadencijai jis gali būti skiriamas be konkurso, jeigu jo vadovaujama įstaiga kiekvienais kadencijos metais pasiekė ne mažiau kaip 80 procentų tiems metams vadovaujantis šio įstatymo [[#^s-40a8b3e140ae242914171533|152 straipsniu]] sveikatos apsaugos ministro patvirtintų LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, veiklos rezultatų vertinimo rodiklių siektinų reikšmių ir visus vadovaujantis [[latest/TAR.1E52802BE548|Viešųjų įstaigų įstatymo 5 straipsnio 5 dalies 3 punktu]] nustatytus valstybės ar savivaldybės tikslus ir lūkesčius dėl viešosios įstaigos, jei valstybės ar savivaldybės tikslai ir lūkesčiai buvo nustatyti. Įstaigų vertinimo pagal LNSS viešųjų įstaigų ir LNSS biudžetinių įstaigų, teikiančių asmens sveikatos priežiūros paslaugas, veiklos rezultatų vertinimo rodiklių pasiektas reikšmes metodiką nustato sveikatos apsaugos ministras. Pasibaigus LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos, teikiančios visuomenės ar papildomosios ir alternatyviosios sveikatos priežiūros paslaugas, vadovo pirmajai penkerių metų kadencijai, esant vadovo sutikimui, antrajai penkerių metų kadencijai jis gali būti skiriamas be konkurso atitinkamai [[latest/TAR.3A756D83A99B#^s-2c07d3b38b9da5f1c227a53d|Biudžetinių įstaigų įstatymo 10 straipsnio 2 dalyje]] ar [[latest/TAR.1E52802BE548|Viešųjų įstaigų įstatymo 20 straipsnio 4 dalyje]] nustatytais atvejais ir tvarka. Sprendimas dėl valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovo skyrimo be konkurso antrajai penkerių metų kadencijai turi būti priimtas likus ne mažiau kaip šešiems mėnesiams iki šio vadovo kadencijos pabaigos. Tos pačios LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovu tas pats asmuo gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės ir ne anksčiau kaip po penkerių metų nuo paskutinės kadencijos pabaigos, jeigu paskutinė kadencija buvo iš eilės antra. Viešą konkursą organizuoja ir jo nuostatus tvirtina įstaigos savininko teises ir pareigas įgyvendinanti institucija arba visuotinis dalininkų susirinkimas. Likus šešiems mėnesiams iki LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovo kadencijos pabaigos, jeigu įstaigos vadovo kadencija nustatoma pagal šios dalies nuostatas, šios įstaigos savininko teises ir pareigas įgyvendinanti institucija arba visuotinis dalininkų susirinkimas skelbia viešą konkursą LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovo pareigoms eiti, išskyrus atvejus, kai LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovas pagal šios dalies nuostatas paskiriamas antrajai penkerių metų kadencijai be konkurso. Jeigu su LNSS valstybės ar savivaldybės biudžetinės įstaigos vadovu, kurio kadencijos terminas nėra pasibaigęs, arba viešosios įstaigos vadovu, kurio kadencija nenustatoma pagal šios dalies nuostatas arba kurio kadencijos terminas nėra pasibaigęs, darbo sutartis nutraukiama, ne vėliau kaip per dešimt darbo dienų nuo darbo sutarties nutraukimo dienos skelbiamas viešas konkursas LNSS valstybės ar savivaldybės biudžetinės ar viešosios įstaigos vadovo pareigoms eiti. ^s-99e06a2ecad690dc3b665169
 Straipsnio dalies pakeitimai:
 Nr. XIV-1031, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08773
 Nr. XV-273, 2025-06-12, paskelbta TAR 2025-06-18, i. k. 2025-11027
@@ -785,7 +785,7 @@ Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
 
 
 
-8. Šio straipsnio 1–[[#^s-e710c764871d70f747d0b5ec|5 dalių]] nuostatos netaikomos tų LNSS biudžetinių ir viešųjų įstaigų, jų padalinių ir filialų vadovams, kurių steigėja yra Krašto apsaugos ministerija ar Vidaus reikalų ministerija. ^s-d4fa007dab6a3e2b589e0346
+8. Šio straipsnio [[#^s-99e06a2ecad690dc3b665169|1]]–[[#^s-e710c764871d70f747d0b5ec|5]] dalių nuostatos netaikomos tų LNSS biudžetinių ir viešųjų įstaigų, jų padalinių ir filialų vadovams, kurių steigėja yra Krašto apsaugos ministerija ar Vidaus reikalų ministerija. ^s-d4fa007dab6a3e2b589e0346
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
 
@@ -918,7 +918,7 @@ Nr. XIV-2453, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25944
 10) LNSS viešųjų įstaigų, kuriose dirba daugiau kaip 1 001 darbuotojas, – 3. ^s-0e0bea6431a1be7a3f482a4c
 
 
-8. Naujai įsteigtų LNSS viešųjų įstaigų vadovų mėnesinio darbo užmokesčio, mokamo pirmaisiais kalendoriniais įstaigos veiklos metais, pastoviosios dalies dydis apskaičiuojamas atsižvelgiant į praėjusių kalendorinių metų visų to paties [[latest/TAR.E2B2957B9182#^s-97af7c85b2ee577f3aa96c12|Sveikatos sistemos įstatymo 12 straipsnio 3 dalyje]] nurodyto lygmens ir tos pačios šio įstatymo [[#^s-f37b421c12341a5233b35308|39 straipsnio]] 1–[[#^s-e1659e33d9fa2981e81749eb|3 dalyse]] nurodytos nomenklatūros (jeigu LNSS viešoji įstaiga nėra priskirta [[latest/TAR.E2B2957B9182#^s-97af7c85b2ee577f3aa96c12|Sveikatos sistemos įstatymo 12 straipsnio 3 dalyje]] nurodytam lygmeniui, vertinamas tik jos priskyrimas šio įstatymo [[#^s-f37b421c12341a5233b35308|39 straipsnio]] 1–[[#^s-e1659e33d9fa2981e81749eb|3 dalyse]] nurodytai nomenklatūrai) LNSS viešųjų įstaigų vadovams praėjusiais kalendoriniais metais nustatytą mėnesinio darbo užmokesčio pastoviosios dalies dydžio vidurkį. Duomenis apie visų to paties [[latest/TAR.E2B2957B9182#^s-97af7c85b2ee577f3aa96c12|Sveikatos sistemos įstatymo 12 straipsnio 3 dalyje]] nurodyto lygmens ir (ar) tos pačios šio įstatymo [[#^s-f37b421c12341a5233b35308|39 straipsnio]] 1–[[#^s-e1659e33d9fa2981e81749eb|3 dalyse]] nurodytos nomenklatūros LNSS viešųjų įstaigų vadovų praėjusiais kalendoriniais metais nustatytą mėnesinio darbo užmokesčio pastoviosios dalies dydžio vidurkį naujai įsteigtos LNSS viešosios įstaigos savininko teises ir pareigas įgyvendinančiai institucijai arba visuotiniam dalininkų susirinkimui teikia Sveikatos apsaugos ministerija. ^s-5cee6d9153dc6e1186a3ca90
+8. Naujai įsteigtų LNSS viešųjų įstaigų vadovų mėnesinio darbo užmokesčio, mokamo pirmaisiais kalendoriniais įstaigos veiklos metais, pastoviosios dalies dydis apskaičiuojamas atsižvelgiant į praėjusių kalendorinių metų visų to paties [[latest/TAR.E2B2957B9182#^s-cb108fe533fd54770e42387f|Sveikatos sistemos įstatymo 12 straipsnio 3 dalyje nurodyto lygmens ir tos pačios šio įstatymo 39 straipsnio]] [[latest/TAR.E2B2957B9182|1]]–[[latest/TAR.E2B2957B9182|3]] dalyse nurodytos nomenklatūros (jeigu LNSS viešoji įstaiga nėra priskirta [[latest/TAR.E2B2957B9182#^s-cb108fe533fd54770e42387f|Sveikatos sistemos įstatymo 12 straipsnio 3 dalyje nurodytam lygmeniui, vertinamas tik jos priskyrimas šio įstatymo 39 straipsnio]] [[latest/TAR.E2B2957B9182|1]]–[[latest/TAR.E2B2957B9182|3]] dalyse nurodytai nomenklatūrai) LNSS viešųjų įstaigų vadovams praėjusiais kalendoriniais metais nustatytą mėnesinio darbo užmokesčio pastoviosios dalies dydžio vidurkį. Duomenis apie visų to paties [[latest/TAR.E2B2957B9182#^s-cb108fe533fd54770e42387f|Sveikatos sistemos įstatymo 12 straipsnio 3 dalyje nurodyto lygmens ir (ar) tos pačios šio įstatymo 39 straipsnio]] [[latest/TAR.E2B2957B9182|1]]–[[latest/TAR.E2B2957B9182|3]] dalyse nurodytos nomenklatūros LNSS viešųjų įstaigų vadovų praėjusiais kalendoriniais metais nustatytą mėnesinio darbo užmokesčio pastoviosios dalies dydžio vidurkį naujai įsteigtos LNSS viešosios įstaigos savininko teises ir pareigas įgyvendinančiai institucijai arba visuotiniam dalininkų susirinkimui teikia Sveikatos apsaugos ministerija. ^s-5cee6d9153dc6e1186a3ca90
 Straipsnio dalies pakeitimai:
 Nr. XIV-1278, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15195
 
@@ -991,7 +991,7 @@ Nr. XIV-2796, 2024-06-25, paskelbta TAR 2024-06-27, i. k. 2024-11790
 1. Visos asmens sveikatos priežiūros paslaugas teikiančios įstaigos privalo visiems pacientams suteikti būtinąją medicinos pagalbą sveikatos apsaugos ministro nustatyta tvarka ir terminais. ^s-f19b39a696b2af3c685d236e
 
 
-2. Asmens sveikatos priežiūros paslaugas teikianti LNSS įstaiga privalo apdraustam privalomuoju sveikatos draudimu pacientui (toliau – apdraustasis pacientas) suteikti iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamą asmens sveikatos priežiūros paslaugą per šios dalies 1–[[#^s-fb64bd88656782018de4f669|5 punktuose]] nurodytą terminą, skaičiuojamą nuo apdraustojo paciento kreipimosi į asmens sveikatos priežiūros įstaigą momento iki paskirto paslaugos gavimo laiko: ^s-6ccf441cb0883520805d5bf0
+2. Asmens sveikatos priežiūros paslaugas teikianti LNSS įstaiga privalo apdraustam privalomuoju sveikatos draudimu pacientui (toliau – apdraustasis pacientas) suteikti iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamą asmens sveikatos priežiūros paslaugą per šios dalies [[#^s-2082aaae9027fc853474b9cc|1]]–[[#^s-fb64bd88656782018de4f669|5]] punktuose nurodytą terminą, skaičiuojamą nuo apdraustojo paciento kreipimosi į asmens sveikatos priežiūros įstaigą momento iki paskirto paslaugos gavimo laiko: ^s-6ccf441cb0883520805d5bf0
 
 
 1) pirminės ambulatorinės sveikatos priežiūros paslaugą sveikatos apsaugos ministro nustatytų ūmių būklių atveju (toliau – skubi ambulatorinė paslauga) – ne vėliau kaip per 24 valandas; ^s-2082aaae9027fc853474b9cc
@@ -1018,7 +1018,7 @@ Nr. XIV-2791, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12734
 
 
 
-4. Asmens sveikatos priežiūros paslaugas teikianti LNSS įstaiga, registruodama pacientą, paciento kreipimosi į šią įstaigą momentu sveikatos apsaugos ministro nustatyta tvarka privalo jį informuoti apie teisę gauti asmens sveikatos priežiūros paslaugą per šio straipsnio 1 ir [[#^s-6ccf441cb0883520805d5bf0|2 dalyse]] nurodytus terminus. ^s-378f3ce5408e7707131e411c
+4. Asmens sveikatos priežiūros paslaugas teikianti LNSS įstaiga, registruodama pacientą, paciento kreipimosi į šią įstaigą momentu sveikatos apsaugos ministro nustatyta tvarka privalo jį informuoti apie teisę gauti asmens sveikatos priežiūros paslaugą per šio straipsnio [[#^s-f19b39a696b2af3c685d236e|1]] ir [[#^s-6ccf441cb0883520805d5bf0|2]] dalyse nurodytus terminus. ^s-378f3ce5408e7707131e411c
 
 
 5. Jeigu kreipimosi į asmens sveikatos priežiūros paslaugas teikiančią LNSS įstaigą momentu apdraustasis pacientas pageidauja iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamas asmens sveikatos priežiūros paslaugas gauti vėliau, negu per [[#^s-6ccf441cb0883520805d5bf0|šio straipsnio 2 dalies]] 1–5 punktuose nurodytą terminą, sveikatos apsaugos ministro nustatyta tvarka turi būti gautas paciento sutikimas ir padaromas papildomas įrašas registracijos sistemoje. ^s-87fc895599f3a595b9e525af
@@ -1030,7 +1030,7 @@ Nr. XIV-2791, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12734
 7. Jeigu [[#^s-87fc895599f3a595b9e525af|šio straipsnio 5 dalyje]] nurodytu atveju nėra gaunamas [[#^s-87fc895599f3a595b9e525af|šio straipsnio 5 dalyje]] nurodytas paciento sutikimas asmens sveikatos priežiūros paslaugą gauti vėliau, negu per [[#^s-6ccf441cb0883520805d5bf0|šio straipsnio 2 dalies]] 1–5 punktuose nurodytą terminą, ir LNSS įstaigai [[#^s-04a63acb7ac6112eeb0af6fe|šio straipsnio 6 dalyje]] numatytu atveju pasiūlius pacientą įregistruoti kitoje asmens sveikatos priežiūros paslaugas teikiančioje LNSS įstaigoje, kurioje asmens sveikatos priežiūros paslauga būtų suteikta per [[#^s-6ccf441cb0883520805d5bf0|šio straipsnio 2 dalies]] 1–5 punktuose nurodytą terminą, nėra gaunamas [[#^s-04a63acb7ac6112eeb0af6fe|šio straipsnio 6 dalyje]] nurodytas paciento sutikimas tokią paslaugą gauti, paciento registracijos procesas užbaigiamas registracijos sistemoje įrašant, kad pacientas atsisako pasinaudoti teise gauti iš Privalomojo sveikatos draudimo fondo biudžeto lėšų apmokamą asmens sveikatos priežiūros paslaugą. Tokiu atveju [[#^s-6ccf441cb0883520805d5bf0|šio straipsnio 2 dalies]] 1–5 punktuose nurodyti terminai pradedami skaičiuoti nuo paciento pakartotinio kreipimosi į asmens sveikatos priežiūros įstaigą momento. ^s-ac2d05907fa4ac7d6e096f0a
 
 
-8. Sveikatos apsaugos ministras nustato pacientų registravimo LNSS įstaigose šio straipsnio 4–[[#^s-ac2d05907fa4ac7d6e096f0a|7 dalyse]] nurodytais atvejais tvarką. ^s-3f160f2f14ac03c9c50aee3b
+8. Sveikatos apsaugos ministras nustato pacientų registravimo LNSS įstaigose šio straipsnio [[#^s-378f3ce5408e7707131e411c|4]]–[[#^s-ac2d05907fa4ac7d6e096f0a|7]] dalyse nurodytais atvejais tvarką. ^s-3f160f2f14ac03c9c50aee3b
 
 
 9. Tais atvejais, kai šiame straipsnyje nustatyta tvarka užregistruotas pacientas paskirtu laiku neatvyksta gauti asmens sveikatos priežiūros paslaugos, [[#^s-6ccf441cb0883520805d5bf0|šio straipsnio 2 dalies]] 1–5 punktuose nurodyti terminai pradedami skaičiuoti iš naujo nuo paciento pakartotinio kreipimosi į asmens sveikatos priežiūros paslaugas teikiančią LNSS įstaigą momento. ^s-21d3336f10f0c1b67978d91d
@@ -1582,7 +1582,7 @@ Nr. XV-536, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19768
 
 
 3. Savivaldybė jai nuosavybės teise priklausantį ilgalaikį materialųjį turtą (toliau – savivaldybės turtas) savivaldybės tarybos nustatyta tvarka LNSS asmens ir (ar) visuomenės sveikatos priežiūros viešosioms įstaigoms, kurių  savininkas (dalininkas) yra savivaldybė (toliau – savivaldybės viešoji įstaiga), perduoda patikėjimo teise pagal patikėjimo sutartį. Sprendimą dėl savivaldybės turto perdavimo patikėjimo teise priima savivaldybės taryba. Tokiame sprendime turi būti nurodyta savivaldybės institucija ar įstaiga, įgaliota sudaryti savivaldybės turto patikėjimo sutartį. Savivaldybių viešosios įstaigos negali šio savivaldybės turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktines teises į jį, išskyrus [[latest/TAR.82D8168D3049#^s-e16afbf468244b0bdec26304|Elektroninių ryšių įstatymo 461 straipsnyje]] nustatytą išimtį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymą. Savivaldybės turto patikėjimo sutartyje gali būti nustatyta ir kitų apribojimų. ^s-6aaf98c4a27714863bf4ee3b
-TAR pastaba: [[#^s-6aaf98c4a27714863bf4ee3b|36 straipsnio 3 dalies]] nuostatos taikomos ir savivaldybės nekilnojamajam turtui, kuris LNSS asmens ir (ar) visuomenės sveikatos priežiūros viešosioms įstaigoms, kurių savininkas (dalininkas) yra savivaldybė, yra perduotas patikėjimo teise valdyti, naudoti ir disponuoti juo pagal patikėjimo sutartis, sudarytas iki iki 2023-10-26 [[latest/b05934c07d6111eea5a28c81c82193a8|įstatymo Nr. XIV-2205]] įsigaliojimo dienos(2024-01-01).
+TAR pastaba: 36 straipsnio 3 dalies nuostatos taikomos ir savivaldybės nekilnojamajam turtui, kuris LNSS asmens ir (ar) visuomenės sveikatos priežiūros viešosioms įstaigoms, kurių savininkas (dalininkas) yra savivaldybė, yra perduotas patikėjimo teise valdyti, naudoti ir disponuoti juo pagal patikėjimo sutartis, sudarytas iki iki 2023-10-26 [[latest/b05934c07d6111eea5a28c81c82193a8|įstatymo Nr. XIV-2205]] įsigaliojimo dienos(2024-01-01).
 Straipsnio dalies pakeitimai:
 Nr. XIII-3149, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15132
 Nr. XIV-2205, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21645
@@ -1642,7 +1642,7 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 3. Likviduojamos viešosios įstaigos dokumentai saugomi [[latest/TAR.1FEF229DA7C6|Archyvų įstatymo]] nustatyta tvarka. ^s-6dd452f9a83c66bdcd0ee3d6
 
 
-4. Likviduojant įstaigą, jos darbuotojai atleidžiami Darbo sutarties įstatymo nustatyta tvarka. ^s-103428d9314bc329889ea1fc
+4. Likviduojant įstaigą, jos darbuotojai atleidžiami [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) nustatyta tvarka. ^s-103428d9314bc329889ea1fc
 
 
 5. Sudarius viešosios įstaigos likvidavimo aktą, apie įstaigos likvidavimą viešai skelbiama du kartus ne mažesniu kaip vieno mėnesio intervalu. ^s-61dfd9995fcd81d6e7ad8bb5
@@ -1740,16 +1740,16 @@ Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
 4. Savivaldybės tarybos motyvuotu sprendimu ir bendradarbiaudamos su visų savivaldybėje veikiančių sveikatos priežiūros įstaigų atstovais: ^s-eaedf861c4b84adda5670de2
 
 
-1) [[#^s-4272c24b84cdb062186d157c|šio straipsnio 1 dalies]] 3–6 punktuose nurodyti LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektai jiems priklausančias teikti asmens sveikatos priežiūros paslaugas gali teikti kaip atskiri juridiniai asmenys arba kaip [[#^s-8bbe26e0f4fa578af883f4c7|šio straipsnio 1 dalies 1 punkte]] nurodytų asmens sveikatos priežiūros viešųjų įstaigų padaliniai (filialai), arba ^s-a3573f29d383d89484502862
+1) [[#^s-4272c24b84cdb062186d157c|šio straipsnio 1 dalies]] [[#^s-f36f32362cff6f4f13ae1a1e|3]]–6 punktuose nurodyti LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektai jiems priklausančias teikti asmens sveikatos priežiūros paslaugas gali teikti kaip atskiri juridiniai asmenys arba kaip [[#^s-8bbe26e0f4fa578af883f4c7|šio straipsnio 1 dalies 1 punkte]] nurodytų asmens sveikatos priežiūros viešųjų įstaigų padaliniai (filialai), arba ^s-a3573f29d383d89484502862
 
 
-2) [[#^s-4272c24b84cdb062186d157c|šio straipsnio 1 dalies]] 1 ir 3–6 punktuose nurodyti LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektai jiems priklausančias teikti asmens sveikatos priežiūros paslaugas gali teikti kaip atskiri juridiniai asmenys arba kaip [[#^s-a039a58922784b4b7dd56ece|šio straipsnio 1 dalies 2 punkte]] nurodytų asmens sveikatos priežiūros viešųjų įstaigų padaliniai (filialai), arba ^s-2b3383408ae457f462318266
+2) [[#^s-4272c24b84cdb062186d157c|šio straipsnio 1 dalies]] [[#^s-a3573f29d383d89484502862|1]] ir [[#^s-f36f32362cff6f4f13ae1a1e|3]]–6 punktuose nurodyti LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektai jiems priklausančias teikti asmens sveikatos priežiūros paslaugas gali teikti kaip atskiri juridiniai asmenys arba kaip [[#^s-a039a58922784b4b7dd56ece|šio straipsnio 1 dalies 2 punkte]] nurodytų asmens sveikatos priežiūros viešųjų įstaigų padaliniai (filialai), arba ^s-2b3383408ae457f462318266
 
 
-3) [[#^s-4272c24b84cdb062186d157c|šio straipsnio 1 dalies]] 1–6 ir 8, 9 punktuose nurodyti LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektai jiems priklausančias teikti asmens sveikatos priežiūros paslaugas gali teikti kaip atskiri juridiniai asmenys arba kaip [[#^s-7b31e0689d5e8cc23b5ad6da|šio straipsnio 1 dalies 7 punkte]] nurodytų asmens sveikatos priežiūros viešųjų įstaigų padaliniai (filialai), arba ^s-f36f32362cff6f4f13ae1a1e
+3) [[#^s-4272c24b84cdb062186d157c|šio straipsnio 1 dalies]] [[#^s-a3573f29d383d89484502862|1]]–6 ir 8, 9 punktuose nurodyti LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektai jiems priklausančias teikti asmens sveikatos priežiūros paslaugas gali teikti kaip atskiri juridiniai asmenys arba kaip [[#^s-7b31e0689d5e8cc23b5ad6da|šio straipsnio 1 dalies 7 punkte]] nurodytų asmens sveikatos priežiūros viešųjų įstaigų padaliniai (filialai), arba ^s-f36f32362cff6f4f13ae1a1e
 
 
-4) [[#^s-7b31e0689d5e8cc23b5ad6da|šio straipsnio 1 dalies 7 punkte]] nurodytiems LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektams priklausančios teikti asmens sveikatos priežiūros paslaugos atitinkamoje savivaldybės teritorijoje gali būti teikiamos sveikatos priežiūros įstaigų bendradarbiavimo sutarties, sudarytos tarp [[#^s-4272c24b84cdb062186d157c|šio straipsnio 1 dalies]] 1–6 ir 8, 9 punktuose nurodytos nomenklatūros subjektų, pagrindu ir pasitelkiant atitinkamas sveikatos centro paslaugų sąraše nurodytas asmens sveikatos priežiūros paslaugas teikiančias LNSS asmens sveikatos priežiūros įstaigas, kurių savininkė (dalininkė) nėra valstybė arba savivaldybė (toliau – privačios asmens sveikatos priežiūros įstaigos), ir kitus sveikatos centro paslaugų sąraše nurodytų paslaugų teikėjus. ^s-afc9f5568583db66c0d4ea0b
+4) [[#^s-7b31e0689d5e8cc23b5ad6da|šio straipsnio 1 dalies 7 punkte]] nurodytiems LNSS savivaldybių asmens sveikatos priežiūros viešųjų įstaigų nomenklatūros subjektams priklausančios teikti asmens sveikatos priežiūros paslaugos atitinkamoje savivaldybės teritorijoje gali būti teikiamos sveikatos priežiūros įstaigų bendradarbiavimo sutarties, sudarytos tarp [[#^s-4272c24b84cdb062186d157c|šio straipsnio 1 dalies]] [[#^s-a3573f29d383d89484502862|1]]–6 ir 8, 9 punktuose nurodytos nomenklatūros subjektų, pagrindu ir pasitelkiant atitinkamas sveikatos centro paslaugų sąraše nurodytas asmens sveikatos priežiūros paslaugas teikiančias LNSS asmens sveikatos priežiūros įstaigas, kurių savininkė (dalininkė) nėra valstybė arba savivaldybė (toliau – privačios asmens sveikatos priežiūros įstaigos), ir kitus sveikatos centro paslaugų sąraše nurodytų paslaugų teikėjus. ^s-afc9f5568583db66c0d4ea0b
 
 
 5. [[#^s-afc9f5568583db66c0d4ea0b|Šio straipsnio 4 dalies 4 punkte]] nurodytiems subjektams, privačioms asmens sveikatos priežiūros įstaigoms ir kitiems sveikatos centro paslaugų sąraše nurodytiems paslaugų teikėjams draudžiama atsisakyti sudaryti [[#^s-afc9f5568583db66c0d4ea0b|šio straipsnio 4 dalies 4 punkte]] nurodytą sveikatos priežiūros įstaigų bendradarbiavimo sutartį su norą sudaryti tokią sutartį pareiškusia ir toje savivaldybėje veiklą vykdančia LNSS asmens sveikatos priežiūros įstaiga (nepriklausomai nuo jos nuosavybės formos ar pavaldumo), kuri atitinka sveikatos centro paslaugų sąraše nurodytų atitinkamų asmens sveikatos priežiūros paslaugų sveikatos apsaugos ministro pagal šio įstatymo [[#^s-b81bf76c290a69aa8d740fa3|9 straipsnio 1 dalies 3 punktą]] patvirtintus asmens sveikatos priežiūros paslaugų teikimo reikalavimus. ^s-ed50494da142cdc57b3b755e
@@ -1912,16 +1912,16 @@ Nr. XIV-2453, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25944
 
 
 
-12) naudoti, instaliuoti ir prižiūrėti medicinos priemones 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/745 dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir Reglamentas (EB) Nr. 1223/2009 ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, arba 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/746 dėl in vitro diagnostikos medicinos priemonių, kuriuo panaikinama Direktyva 98/79/EB ir Komisijos sprendimas 2010/227/ES, [[latest/TAR.E2B2957B9182|Sveikatos sistemos įstatymo]] ir sveikatos apsaugos ministro nustatyta tvarka; ^s-cd9aeaaeb22b361ffdd742b4
+12) naudoti, instaliuoti ir prižiūrėti medicinos priemones 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos [reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) dėl medicinos priemonių, kuriuo iš dalies keičiama Direktyva 2001/83/EB, Reglamentas (EB) Nr. 178/2002 ir [Reglamentas (EB) Nr. 1223/2009](https://eur-lex.europa.eu/eli/reg/1223/2009/oj) ir kuriuo panaikinamos Tarybos direktyvos 90/385/EEB ir 93/42/EEB, arba 2017 m. balandžio 5 d. Europos Parlamento ir Tarybos [reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj) dėl in vitro diagnostikos medicinos priemonių, kuriuo panaikinama Direktyva 98/79/EB ir Komisijos sprendimas 2010/227/ES, [[latest/TAR.E2B2957B9182|Sveikatos sistemos įstatymo]] ir sveikatos apsaugos ministro nustatyta tvarka; ^s-cd9aeaaeb22b361ffdd742b4
 
 
-13) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis; ^s-2db8e852985157c6b460d6e8
+13) [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj), sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis; ^s-2db8e852985157c6b460d6e8
 
 
-14) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus; ^s-b411d10ad0b0470135629d67
+14) [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj), sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus; ^s-b411d10ad0b0470135629d67
 
 
-15) sužinojusi, kad medicinos priemonės neatitinka Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, [[latest/TAR.E2B2957B9182|Sveikatos sistemos įstatymo]] ar sveikatos apsaugos ministro nustatytų reikalavimų, nedelsdama nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti; ^s-582a9278f8a23e576d9857b0
+15) sužinojusi, kad medicinos priemonės neatitinka [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj), [[latest/TAR.E2B2957B9182|Sveikatos sistemos įstatymo]] ar sveikatos apsaugos ministro nustatytų reikalavimų, nedelsdama nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti; ^s-582a9278f8a23e576d9857b0
 
 
 16) pasiūlyti pacientui artimiausią objektyviai įmanomą asmens sveikatos priežiūros paslaugos suteikimo datą ir laiką ir registruoti visus pacientus jų kreipimosi į asmens sveikatos priežiūros įstaigą momentu, neribojant registravimosi terminų, sveikatos apsaugos ministro nustatyta tvarka; ^s-743f2b86bae49f5ca70eb75b
@@ -1939,7 +1939,7 @@ Nr. XIV-3030, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18429
 
 
 
-2. Savivaldybės asmens sveikatos priežiūros įstaiga, teikianti pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas, [[latest/TAR.A0A0CCC6B997|Lietuvos Respublikos bausmių vykdymo kodekso]] ir [[latest/TAR.11A8B08A7405|Lietuvos Respublikos suėmimo vykdymo įstatymo]] nustatytais atvejais sudaro sutartis su laisvės atėmimo vietų įstaiga dėl pirminio lygio ambulatorinių asmens sveikatos priežiūros paslaugų teikimo suimtiesiems ir arešto bei laisvės atėmimo bausmes uždaro ir pusiau atviro tipo bausmės atlikimo vietose atliekantiems nuteistiesiems, taip pat atviro tipo bausmės atlikimo vietose laikomiems nuteistiesiems, kurie atlieka Bausmių vykdymo kodekso 79 straipsnio 2 dalyje nurodytą nuobaudą. Tipinę šios sutarties formą tvirtina sveikatos apsaugos ministras ir teisingumo ministras. ^s-5cff65caa0308dde3e853a7a
+2. Savivaldybės asmens sveikatos priežiūros įstaiga, teikianti pirminio lygio ambulatorines asmens sveikatos priežiūros paslaugas, [[latest/TAR.A0A0CCC6B997|Lietuvos Respublikos bausmių vykdymo kodekso]] ir [[latest/TAR.11A8B08A7405|Lietuvos Respublikos suėmimo vykdymo įstatymo]] nustatytais atvejais sudaro sutartis su laisvės atėmimo vietų įstaiga dėl pirminio lygio ambulatorinių asmens sveikatos priežiūros paslaugų teikimo suimtiesiems ir arešto bei laisvės atėmimo bausmes uždaro ir pusiau atviro tipo bausmės atlikimo vietose atliekantiems nuteistiesiems, taip pat atviro tipo bausmės atlikimo vietose laikomiems nuteistiesiems, kurie atlieka [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso 79 straipsnio 2 dalyje]] nurodytą nuobaudą. Tipinę šios sutarties formą tvirtina sveikatos apsaugos ministras ir teisingumo ministras. ^s-5cff65caa0308dde3e853a7a
 
 
 3. Už [[#^s-5cff65caa0308dde3e853a7a|šio straipsnio 2 dalyje]] nurodytas paslaugas jas suteikusioms savivaldybių asmens sveikatos priežiūros įstaigoms laisvės atėmimo vietų įstaiga sumoka pagal sveikatos apsaugos ministro ir teisingumo ministro nustatytus paslaugų įkainius ir mokėjimo tvarką. ^s-71fe2220b5269c95aa70cff5
@@ -2146,28 +2146,28 @@ Nr. XIV-1278, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15195
 4) išsaugoti fizinių ir juridinių asmenų komercinę paslaptį; ^s-cdcf26e2bcd2738afbf37da6
 
 
-5) naudoti, instaliuoti ir prižiūrėti medicinos priemones Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, [[latest/TAR.E2B2957B9182|Sveikatos sistemos įstatymo]] ir sveikatos apsaugos ministro nustatyta tvarka; ^s-b5dda9a2dfa10722286252c8
+5) naudoti, instaliuoti ir prižiūrėti medicinos priemones [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj), [[latest/TAR.E2B2957B9182|Sveikatos sistemos įstatymo]] ir sveikatos apsaugos ministro nustatyta tvarka; ^s-b5dda9a2dfa10722286252c8
 Straipsnio punkto pakeitimai:
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
 Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
 
 
 
-6) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis; ^s-8271ec5f6196ba2873014c88
+6) [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj), sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka registruoti ir teikti informaciją apie naudojamas medicinos priemones ir sveikatos priežiūros technologijas, susijusias su medicinos priemonėmis; ^s-8271ec5f6196ba2873014c88
 Straipsnio punkto pakeitimai:
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
 Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
 
 
 
-7) Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus; ^s-07adc1484568d2a47bcd95bf
+7) [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj), sveikatos apsaugos ministro ar jo įgaliotos institucijos nustatyta tvarka pranešti apie incidentus; ^s-07adc1484568d2a47bcd95bf
 Straipsnio punkto pakeitimai:
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
 Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
 
 
 
-8) sužinojus, kad medicinos priemonės neatitinka Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, [[latest/TAR.E2B2957B9182|Sveikatos sistemos įstatymo]] ar sveikatos apsaugos ministro nustatytų reikalavimų, nedelsiant nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti. ^s-548a359a18484fe1139171c6
+8) sužinojus, kad medicinos priemonės neatitinka [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj), [[latest/TAR.E2B2957B9182|Sveikatos sistemos įstatymo]] ar sveikatos apsaugos ministro nustatytų reikalavimų, nedelsiant nutraukti jų naudojimą, informuoti apie tai sveikatos apsaugos ministro įgaliotą instituciją, galimus šių medicinos priemonių naudotojus, pacientus, kitus susijusius medicinos priemonių rinkos subjektus ir imtis kitų reikiamų veiksmų keliamam pavojui pašalinti. ^s-548a359a18484fe1139171c6
 Straipsnio punkto pakeitimai:
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
 Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
@@ -2237,7 +2237,7 @@ Nr. XIII-2774, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02009
 1. Papildomosios ir alternatyviosios sveikatos priežiūros paslaugas teikiančios įstaigos privalo turėti vidaus tvarkos taisykles ir užtikrinti, kad jos būtų prieinamos fiziniams ir juridiniams asmenims susipažinti. ^s-14a3b549adb64aec3b542866
 
 
-2. Papildomosios ir alternatyviosios sveikatos priežiūros paslaugas teikiančios įstaigos vidaus tvarkos taisyklėse, be šio įstatymo [[#^s-99d8d11e1e633ac02b1c9512|46 straipsnio 2 dalies]] 1, 3, 5, 6 ir 9 punktuose nurodytų nuostatų, taip pat turi būti nurodyta medicinos dokumentų nuorašų darymo, išdavimo asmeniui (pacientui) ar kitiems fiziniams ir juridiniams asmenims tvarka. ^s-331010b6e076fce72d1a0c5f
+2. Papildomosios ir alternatyviosios sveikatos priežiūros paslaugas teikiančios įstaigos vidaus tvarkos taisyklėse, be šio įstatymo [[#^s-99d8d11e1e633ac02b1c9512|46 straipsnio 2 dalies]] [[#^s-161d5316169031f6dfdc25fb|1]], [[#^s-8350f3870c8a46a1d567daa6|3]], [[#^s-8c1aa94bd91978eab7d8ec92|5]], [[#^s-a229d9af061dda3619b14368|6]] ir [[#^s-b69bd2b16520cd1268dcae85|9]] punktuose nurodytų nuostatų, taip pat turi būti nurodyta medicinos dokumentų nuorašų darymo, išdavimo asmeniui (pacientui) ar kitiems fiziniams ir juridiniams asmenims tvarka. ^s-331010b6e076fce72d1a0c5f
 
 
 Papildyta straipsniu:
@@ -2360,7 +2360,7 @@ Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
 4) įstaigos ar jos padalinio patalpos, jų eksploatavimas neatitinka teisės aktų ar normatyvinių dokumentų reikalavimų; ^s-0ad05273bf613e2a2c912d66
 
 
-5) medicinos priemonės naudojamos, instaliuojamos ir prižiūrimos nesilaikant Reglamento (ES) 2017/745 arba Reglamento (ES) 2017/746, [[latest/TAR.E2B2957B9182|Sveikatos sistemos įstatymo]] ir sveikatos apsaugos ministro nustatytų reikalavimų. ^s-4d838450eec8ea624b0060eb
+5) medicinos priemonės naudojamos, instaliuojamos ir prižiūrimos nesilaikant [Reglamento (ES) 2017/745](https://eur-lex.europa.eu/eli/reg/2017/745/oj) arba [Reglamento (ES) 2017/746](https://eur-lex.europa.eu/eli/reg/2017/746/oj), [[latest/TAR.E2B2957B9182|Sveikatos sistemos įstatymo]] ir sveikatos apsaugos ministro nustatytų reikalavimų. ^s-4d838450eec8ea624b0060eb
 Straipsnio punkto pakeitimai:
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
 Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
@@ -2654,7 +2654,7 @@ SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO PAPILDYMO 15(1) STRAIPSNIU ĮSTATYMAS
 16.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1898, 2011-12-22, Žin., 2011, Nr. 164-7799 (2011-12-31)
-[[#^s-a7137cd992e9bf5ddc3fbdeb|SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO PAPILDYMO 15(1) STRAIPSNIU ĮSTATYMO 1 IR 2 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO PAPILDYMO 15(1) STRAIPSNIU ĮSTATYMO [[#^s-ee55e860f2d12ff8bb069eff|1]] IR [[#^s-a7137cd992e9bf5ddc3fbdeb|2]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2666,7 +2666,7 @@ Nr. XI-1545, 2011-06-28, Žin., 2011, Nr. 91-4322 (2011-07-19)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1758, 2011-12-01, Žin., 2011, Nr. 153-7195 (2011-12-15)
 [[latest/TAR.9A206EF4AE22|SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO 24, 52 IR 54 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-5c6f0d9851d80a219709ee59|šio straipsnio 2 dalį]], įsigalioja 2012 m. liepos 1 d.
+Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. liepos 1 d.
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2690,12 +2690,12 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1335, 2014-11-18, paskelbta TAR 2014-11-26, i. k. 2014-17988
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1, 17, 29, 39 ir [[#^s-2f2705aec28316b6fb439578|45 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1, [[#^s-991942a07cd8c10c12ba5fe1|17]], [[#^s-d80bec268808a1d957ef56bb|29]], [[#^s-f37b421c12341a5233b35308|39]] ir [[#^s-2f2705aec28316b6fb439578|45]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1642, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06583
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2 ir [[#^s-a8af84f25d6954f8c7a63cb4|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-a7137cd992e9bf5ddc3fbdeb|2]] ir [[#^s-a8af84f25d6954f8c7a63cb4|25]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2705,12 +2705,12 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1715, 2015-05-14, paskelbta TAR 2015-05-26, i. k. 2015-08058
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 24, 52 ir [[#^s-7ee9e956bcd823d507c4f014|54 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-55d9fb6e2619ee6dc75ca18e|24]], [[#^s-a9587a07245e2adbd8743c05|52]] ir [[#^s-7ee9e956bcd823d507c4f014|54]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2229, 2015-12-22, paskelbta TAR 2016-01-05, i. k. 2016-00087
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 1, 2, 3, 5, 10, 12, 25, 45, 50, 52, 53, 54, [[#^s-1605c48262df9e4e2865b87b|59 straipsnių]], I dalies II skyriaus pavadinimo pakeitimo ir 7, 8, [[#^s-72f8524acc2705b4568179d1|60 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-ee55e860f2d12ff8bb069eff|1]], [[#^s-a7137cd992e9bf5ddc3fbdeb|2]], [[#^s-fdf13decc17acb51fee2330e|3]], [[#^s-72f1e0fa7fe6ab429a058458|5]], [[#^s-5beb3968f4f1a05eb127cc95|10]], [[#^s-043af8795a0525b84e9e52fa|12]], [[#^s-a8af84f25d6954f8c7a63cb4|25]], [[#^s-2f2705aec28316b6fb439578|45]], [[#^s-e6363f42c4d7996aef5065bf|50]], [[#^s-a9587a07245e2adbd8743c05|52]], [[#^s-5164cef16a47df16778cbee6|53]], [[#^s-7ee9e956bcd823d507c4f014|54]], [[#^s-1605c48262df9e4e2865b87b|59]] straipsnių, I dalies II skyriaus pavadinimo pakeitimo ir [[#^s-9e47b42ef29fb99e1b041b9e|7]], [[#^s-d36caaeedf5c7fcb18bc64ea|8]], [[#^s-72f8524acc2705b4568179d1|60]] straipsnių pripažinimo netekusiais galios įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2730,27 +2730,27 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-702, 2017-11-07, paskelbta TAR 2017-11-10, i. k. 2017-17816
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15, 22 ir [[#^s-d80bec268808a1d957ef56bb|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-3418a644842b0e9215a19d55|15]], [[#^s-5ca97e9f4b00675d1c3c6c6a|22]] ir [[#^s-d80bec268808a1d957ef56bb|29]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2538, 2016-06-29, paskelbta TAR 2016-07-14, i. k. 2016-20556
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, [[#^s-2f2705aec28316b6fb439578|45 straipsnių]] pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-a7137cd992e9bf5ddc3fbdeb|2]], [[#^s-2f2705aec28316b6fb439578|45]] straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-903, 2017-12-19, paskelbta TAR 2017-12-27, i. k. 2017-21326
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, [[#^s-2f2705aec28316b6fb439578|45 straipsnių]] pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais [[latest/781b7da149b311e6b5d09300a16a686c|įstatymo Nr. XII-2538]] 2, 3 ir [[#^s-72f1e0fa7fe6ab429a058458|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-a7137cd992e9bf5ddc3fbdeb|2]], [[#^s-2f2705aec28316b6fb439578|45]] straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais [[latest/781b7da149b311e6b5d09300a16a686c|įstatymo Nr. XII-2538]] [[#^s-a7137cd992e9bf5ddc3fbdeb|2]], [[#^s-fdf13decc17acb51fee2330e|3]] ir [[#^s-72f1e0fa7fe6ab429a058458|5]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1223, 2018-05-31, paskelbta TAR 2018-06-06, i. k. 2018-09503
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5 ir [[#^s-1605c48262df9e4e2865b87b|59 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-72f1e0fa7fe6ab429a058458|5]] ir [[#^s-1605c48262df9e4e2865b87b|59]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1763, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20876
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, [[#^s-2f2705aec28316b6fb439578|45 straipsnių]] pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais [[latest/781b7da149b311e6b5d09300a16a686c|įstatymo Nr. XII-2538]] 2, 3 ir [[#^s-72f1e0fa7fe6ab429a058458|5 straipsnių]] pakeitimo [[latest/065574b0eb0f11e7acd7ea182930b17f|įstatymo Nr. XIII-903]] [[#^s-a7137cd992e9bf5ddc3fbdeb|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-a7137cd992e9bf5ddc3fbdeb|2]], [[#^s-2f2705aec28316b6fb439578|45]] straipsnių pakeitimo ir Įstatymo papildymo 15-2, 15-3 straipsniais [[latest/781b7da149b311e6b5d09300a16a686c|įstatymo Nr. XII-2538]] [[#^s-a7137cd992e9bf5ddc3fbdeb|2]], [[#^s-fdf13decc17acb51fee2330e|3]] ir [[#^s-72f1e0fa7fe6ab429a058458|5]] straipsnių pakeitimo [[latest/065574b0eb0f11e7acd7ea182930b17f|įstatymo Nr. XIII-903]] [[#^s-a7137cd992e9bf5ddc3fbdeb|2 straipsnio]] pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2770,17 +2770,17 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2378, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12801
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5 ir [[#^s-a560280d356b88a2c44a87ed|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-72f1e0fa7fe6ab429a058458|5]] ir [[#^s-a560280d356b88a2c44a87ed|33]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2443, 2019-09-26, paskelbta TAR 2019-10-09, i. k. 2019-16070
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 3 ir [[#^s-35d46ca3fc839ca23ad51e47|36 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-fdf13decc17acb51fee2330e|3]] ir [[#^s-35d46ca3fc839ca23ad51e47|36]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2561, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19869
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5, 9, 53 ir [[#^s-7ee9e956bcd823d507c4f014|54 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-72f1e0fa7fe6ab429a058458|5]], [[#^s-be34e4a2af17b4a536b29da6|9]], [[#^s-5164cef16a47df16778cbee6|53]] ir [[#^s-7ee9e956bcd823d507c4f014|54]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2790,7 +2790,7 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2643, 2019-12-10, paskelbta TAR 2019-12-21, i. k. 2019-20986
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 1 ir [[#^s-a7137cd992e9bf5ddc3fbdeb|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-ee55e860f2d12ff8bb069eff|1]] ir [[#^s-a7137cd992e9bf5ddc3fbdeb|2]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2800,12 +2800,12 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3150, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15142
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 10, 20, 22, 27, 28, 29, 30, 32, 33, 34, 35, 37, 38, 46, 55, [[#^s-4fe5182c7f783614193d4641|56 straipsnių]] pakeitimo ir [[#^s-fb8fc571ebd2d757e8d3d4bc|31 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-5beb3968f4f1a05eb127cc95|10]], [[#^s-ba6a4515837ab5afceefcf98|20]], [[#^s-5ca97e9f4b00675d1c3c6c6a|22]], [[#^s-3d28521fbfd99b2b0afd2c5e|27]], [[#^s-798c4a81bef446d5f7147709|28]], [[#^s-d80bec268808a1d957ef56bb|29]], [[#^s-b6ab5a2fc00caef9d7f4b3ba|30]], [[#^s-cb37c63f132025ad498cb1a9|32]], [[#^s-a560280d356b88a2c44a87ed|33]], [[#^s-234e80b75a1d30202de2a8a1|34]], [[#^s-d475e90bbb58eedad1a9dc57|35]], [[#^s-20ec3fbd24da1896bcce059f|37]], [[#^s-5060bdac2e4e10543cbcf86c|38]], [[#^s-c134e67623d7c7e0d84b0d6c|46]], [[#^s-c8e24e1cef3b576dd0c8f883|55]], [[#^s-4fe5182c7f783614193d4641|56]] straipsnių pakeitimo ir [[#^s-fb8fc571ebd2d757e8d3d4bc|31 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2774, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02009
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, [[#^s-fdf13decc17acb51fee2330e|3 straipsnių]] pakeitimo ir Įstatymo papildymo 51-1, 51-2, 51-3 straipsniais įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-a7137cd992e9bf5ddc3fbdeb|2]], [[#^s-fdf13decc17acb51fee2330e|3]] straipsnių pakeitimo ir Įstatymo papildymo 51-1, 51-2, 51-3 straipsniais įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2815,17 +2815,17 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2756, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00040
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5, 45, 50 ir [[#^s-7ee9e956bcd823d507c4f014|54 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-72f1e0fa7fe6ab429a058458|5]], [[#^s-2f2705aec28316b6fb439578|45]], [[#^s-e6363f42c4d7996aef5065bf|50]] ir [[#^s-7ee9e956bcd823d507c4f014|54]] straipsnių pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2948, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11068
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5, 45, 50 ir [[#^s-7ee9e956bcd823d507c4f014|54 straipsnių]] pakeitimo [[latest/bb4c75e02df111eabe008ea93139d588|įstatymo Nr. XIII-2756]] [[#^s-72f1e0fa7fe6ab429a058458|5 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-72f1e0fa7fe6ab429a058458|5]], [[#^s-2f2705aec28316b6fb439578|45]], [[#^s-e6363f42c4d7996aef5065bf|50]] ir [[#^s-7ee9e956bcd823d507c4f014|54]] straipsnių pakeitimo [[latest/bb4c75e02df111eabe008ea93139d588|įstatymo Nr. XIII-2756]] [[#^s-72f1e0fa7fe6ab429a058458|5 straipsnio]] pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3343, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24232
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5, 45, 50 ir [[#^s-7ee9e956bcd823d507c4f014|54 straipsnių]] pakeitimo [[latest/bb4c75e02df111eabe008ea93139d588|įstatymo Nr. XIII-2756]] [[#^s-ee55e860f2d12ff8bb069eff|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-72f1e0fa7fe6ab429a058458|5]], [[#^s-2f2705aec28316b6fb439578|45]], [[#^s-e6363f42c4d7996aef5065bf|50]] ir [[#^s-7ee9e956bcd823d507c4f014|54]] straipsnių pakeitimo [[latest/bb4c75e02df111eabe008ea93139d588|įstatymo Nr. XIII-2756]] [[#^s-ee55e860f2d12ff8bb069eff|1 straipsnio]] pakeitimo įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2835,22 +2835,22 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-455, 2021-06-29, paskelbta TAR 2021-07-08, i. k. 2021-15473
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 10, 11, 27, 29, 33 ir [[#^s-f37b421c12341a5233b35308|39 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-5beb3968f4f1a05eb127cc95|10]], [[#^s-2f4eadbf28b5f3db33a23702|11]], [[#^s-3d28521fbfd99b2b0afd2c5e|27]], [[#^s-d80bec268808a1d957ef56bb|29]], [[#^s-a560280d356b88a2c44a87ed|33]] ir [[#^s-f37b421c12341a5233b35308|39]] straipsnių pakeitimo įstatymas
 
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-793, 2021-12-16, paskelbta TAR 2021-12-28, i. k. 2021-27369
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5 ir [[#^s-2f2705aec28316b6fb439578|45 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-72f1e0fa7fe6ab429a058458|5]] ir [[#^s-2f2705aec28316b6fb439578|45]] straipsnių pakeitimo įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-814, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27704
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 27, 32 ir [[#^s-a560280d356b88a2c44a87ed|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-a7137cd992e9bf5ddc3fbdeb|2]], [[#^s-3d28521fbfd99b2b0afd2c5e|27]], [[#^s-cb37c63f132025ad498cb1a9|32]] ir [[#^s-a560280d356b88a2c44a87ed|33]] straipsnių pakeitimo įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1061, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09670
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 45, 50 ir [[#^s-7ee9e956bcd823d507c4f014|54 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-2f2705aec28316b6fb439578|45]], [[#^s-e6363f42c4d7996aef5065bf|50]] ir [[#^s-7ee9e956bcd823d507c4f014|54]] straipsnių pakeitimo įstatymas
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2860,7 +2860,7 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s
 35.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1031, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08773
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2 ir [[#^s-3418a644842b0e9215a19d55|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-a7137cd992e9bf5ddc3fbdeb|2]] ir [[#^s-3418a644842b0e9215a19d55|15]] straipsnių pakeitimo įstatymas
 
 36.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2880,7 +2880,7 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s
 39.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1278, 2022-06-30, paskelbta TAR 2022-07-11, i. k. 2022-15195
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 10, 11, 15-1, [[#^s-f37b421c12341a5233b35308|39 straipsnių]] pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-a7137cd992e9bf5ddc3fbdeb|2]], [[#^s-5beb3968f4f1a05eb127cc95|10]], [[#^s-2f4eadbf28b5f3db33a23702|11]], 15-1, [[#^s-f37b421c12341a5233b35308|39]] straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
 
 40.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2890,27 +2890,27 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s
 41.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2247, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22977
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 10 ir 15-2 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-5beb3968f4f1a05eb127cc95|10]] ir 15-2 straipsnių pakeitimo įstatymas
 
 42.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2453, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25944
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1, 15-2, 15-3, 36 ir [[#^s-2f2705aec28316b6fb439578|45 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1, 15-2, 15-3, [[#^s-35d46ca3fc839ca23ad51e47|36]] ir [[#^s-2f2705aec28316b6fb439578|45]] straipsnių pakeitimo įstatymas
 
 43.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2796, 2024-06-25, paskelbta TAR 2024-06-27, i. k. 2024-11790
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1, 15-2, 15-3, 36 ir [[#^s-2f2705aec28316b6fb439578|45 straipsnių]] pakeitimo [[latest/d9a7e6f0a62e11eea5a28c81c82193a8|įstatymo Nr. XIV-2453]] 1, 2, 5 ir [[#^s-590409602415070bdbc2733f|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 15-1, 15-2, 15-3, [[#^s-35d46ca3fc839ca23ad51e47|36]] ir [[#^s-2f2705aec28316b6fb439578|45]] straipsnių pakeitimo [[latest/d9a7e6f0a62e11eea5a28c81c82193a8|įstatymo Nr. XIV-2453]] [[#^s-ee55e860f2d12ff8bb069eff|1]], [[#^s-a7137cd992e9bf5ddc3fbdeb|2]], [[#^s-72f1e0fa7fe6ab429a058458|5]] ir [[#^s-590409602415070bdbc2733f|6]] straipsnių pakeitimo įstatymas
 
 44.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2791, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12734
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2, 3, 13, 15-2, 15-3, 46 ir [[#^s-a9587a07245e2adbd8743c05|52 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-a7137cd992e9bf5ddc3fbdeb|2]], [[#^s-fdf13decc17acb51fee2330e|3]], [[#^s-3d922084ba021ed42213a56e|13]], 15-2, 15-3, [[#^s-c134e67623d7c7e0d84b0d6c|46]] ir [[#^s-a9587a07245e2adbd8743c05|52]] straipsnių pakeitimo įstatymas
 
 45.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3030, 2024-10-15, paskelbta TAR 2024-10-24, i. k. 2024-18429
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 5 ir [[#^s-2f2705aec28316b6fb439578|45 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-72f1e0fa7fe6ab429a058458|5]] ir [[#^s-2f2705aec28316b6fb439578|45]] straipsnių pakeitimo įstatymas
 
 46.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2925,4 +2925,4 @@ Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s
 48.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-568, 2025-11-20, paskelbta TAR 2025-12-01, i. k. 2025-20383
-Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 2 ir [[#^s-72f1e0fa7fe6ab429a058458|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo Nr. I-1367 [[#^s-a7137cd992e9bf5ddc3fbdeb|2]] ir [[#^s-72f1e0fa7fe6ab429a058458|5]] straipsnių pakeitimo įstatymas

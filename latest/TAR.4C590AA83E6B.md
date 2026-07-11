@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-79726431a56551269c033322
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. kovo 13 d. dekretą Nr. 1K-1722, ratifikuoja 2008 m. birželio 30 d. Briuselyje priimtą Europos Sąjungos ir Australijos susitarimą dėl oro vežėjų atliekamo Europos Sąjungos pateiktų keleivio duomenų įrašo (PNR) duomenų tvarkymo ir perdavimo Australijos muitinės tarnybai.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. kovo 13 d. dekretą Nr. 1K-1722](https://e-tar.lt/portal/lt/legalAct/TAR.B040D14E4808), ratifikuoja 2008 m. birželio 30 d. Briuselyje priimtą Europos Sąjungos ir Australijos susitarimą dėl oro vežėjų atliekamo Europos Sąjungos pateiktų keleivio duomenų įrašo (PNR) duomenų tvarkymo ir perdavimo Australijos muitinės tarnybai.
 
 
 

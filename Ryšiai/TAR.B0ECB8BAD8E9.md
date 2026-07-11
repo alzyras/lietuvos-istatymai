@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos atliekų tvarkymo įstatymo įgyvendinimo įs
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - 2 citatos - Atliekų tvarkymo įstatymas
+- [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - Atliekų tvarkymo įstatymas
 
 ## Šį įstatymą cituoja
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-94b0bd31525f9edfcdd2ff5c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. gegužės 8 d. dekretą Nr. 1311, ratifikuoja Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimą dėl bendradarbiavimo kovojant su organizuotu nusikalstamumu, neteisėta narkotinių ir psichotropinių medžiagų apyvarta, terorizmu ir kitais nusikaltimais, pasirašytą 2000 m. gegužės 11 d. Astanoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. gegužės 8 d. dekretą Nr. 1311](https://e-tar.lt/portal/lt/legalAct/TAR.98DB743EDCE5), ratifikuoja Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimą dėl bendradarbiavimo kovojant su organizuotu nusikalstamumu, neteisėta narkotinių ir psichotropinių medžiagų apyvarta, terorizmu ir kitais nusikaltimais, pasirašytą 2000 m. gegužės 11 d. Astanoje.
 
 
 

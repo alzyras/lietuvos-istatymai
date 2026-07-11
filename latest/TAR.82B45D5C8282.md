@@ -132,7 +132,7 @@ BENDROSIOS NUOSTATOS
 13. Išvestinės investicinės priemonės – kaip ši sąvoka apibrėžta [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatyme]]. ^s-0876ac23e5a4b0a5df3cafe8
 
 
-14. Komandiruotas darbuotojas – asmuo, išsiųstas laikinai dirbti į kitą valstybę narę ir kuriam pagal 1971 m. birželio 14 d. Tarybos reglamento (EEB) Nr. 1408/71 dėl socialinės apsaugos sistemų taikymo pagal darbo sutartį dirbantiems asmenims ir jų šeimos nariams, judantiems Bendrijoje, (toliau – Reglamentas (EEB) Nr. 1408/71) II dalies sąlygas toliau taikomi kilmės valstybės narės teisės aktai. ^s-045688e2bb5b082925b4622c
+14. Komandiruotas darbuotojas – asmuo, išsiųstas laikinai dirbti į kitą valstybę narę ir kuriam pagal 1971 m. birželio 14 d. Tarybos [reglamento (EEB) Nr. 1408/71](https://eur-lex.europa.eu/eli/reg/1408/71/oj) dėl socialinės apsaugos sistemų taikymo pagal darbo sutartį dirbantiems asmenims ir jų šeimos nariams, judantiems Bendrijoje, (toliau – [Reglamentas (EEB) Nr. 1408/71](https://eur-lex.europa.eu/eli/reg/1408/71/oj)) II dalies sąlygas toliau taikomi kilmės valstybės narės teisės aktai. ^s-045688e2bb5b082925b4622c
 
 
 15. Minimalus dalyvavimo laikotarpis – pensijų asociacijos įstatuose ar profesinių pensijų fondo (fondų) taisyklėse nustatytas minimalus dalyvavimo pensijų asociacijos profesinių pensijų fonde (fonduose) laikotarpis, ne ilgesnis kaip 2 metai, kurio neišbuvus, išskyrus šio įstatymo [[#^s-efc67f967abd2bface926da9|23 straipsnio 7 dalyje]] ir [[#^s-88d3cf4fa8a5d1054b5cd57f|26 straipsnio 2 dalyje]] numatytas išimtis, laikoma, kad dalyvis neįgijo nuosavybės teisių į jo vardu profesinių pensijų fonde sukauptą pensijų turto dalį. Minimaliu dalyvavimo laikotarpiu sudarius gyvybės draudimo sutartį, pagal kurią kaupiamos profesinės pensijos, yra laikomas ne ilgesnis kaip 2 metų draudimo taisyklėse nustatytas nuo dalyvio apdraudimo skaičiuojamas laikotarpis, kuriam pasibaigus finansuojantis subjektas praranda teisę būti naudos gavėju to dalyvio atžvilgiu ar atgauti išperkamąją sumą, sukauptą iš dalyvio vardu mokėtų įmokų. ^s-e39670fc76f3fda0d042514e
@@ -141,7 +141,7 @@ BENDROSIOS NUOSTATOS
 16. Nepriekaištingos reputacijos asmenys – kaip ši sąvoka apibrėžta [[latest/TAR.8447F63760E9|Draudimo įstatyme]] ir [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatyme]] (toliau – [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymas]]). ^s-926a6743baea9f3ce0f08e65
 
 
-17. Pensijų anuitetas – kaip ši sąvoka apibrėžta Lietuvos Respublikos pensijų sistemos reformos įstatyme. ^s-8c22c7483754baa0d774f31c
+17. Pensijų anuitetas – kaip ši sąvoka apibrėžta [Lietuvos Respublikos pensijų sistemos reformos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8). ^s-8c22c7483754baa0d774f31c
 
 
 18. Pensijų asociacija – asociacija, veikianti pagal šį įstatymą profesinių pensijų kaupimo tikslu, įsteigta atskirai nuo finansuojančio subjekto (darbdavio) ar savarankiškai dirbančių asmenų interesams atstovaujančios organizacijos ir kurios tikslas – teikti savo pensijų fondo (fondų) dalyviams pensijų išmokas, susijusias su profesine veikla, pagal pensijų asociacijos steigimo sutartį. ^s-55eb3dc15b9df997a2a200b0
@@ -165,7 +165,7 @@ BENDROSIOS NUOSTATOS
 3) rinkodaros veikla, informacijos teikimas turto valdymo sutartyse nustatyta tvarka; ^s-9411e08d0950a98a7bde4976
 
 
-4) kita veikla, susijusi su šios dalies 1, 2, [[#^s-9411e08d0950a98a7bde4976|3 punktuose]] nurodyta veikla. ^s-e7a6e0db14335080adbd8cdc
+4) kita veikla, susijusi su šios dalies [[#^s-f59f12848d60e2fa950fcc96|1]], [[#^s-7351e46b0e6ae2755e79fc78|2]], [[#^s-9411e08d0950a98a7bde4976|3]] punktuose nurodyta veikla. ^s-e7a6e0db14335080adbd8cdc
 
 
 22. Periodinė ataskaita – kaip ši sąvoka apibrėžta [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatyme]]. ^s-322f6c9e92636cb4be8e7b52
@@ -918,7 +918,7 @@ NARYSTĖ PENSIJŲ ASOCIACIJOJE IR DALYVAVIMAS PENSIJŲ FONDE
 3) nustatytos skirtingos taisyklės dėl amžiaus, nuo kurio leidžiama tapti pensijų fondo dalyviu, ar dėl minimalaus dalyvavimo laikotarpio; ^s-d6508a56b22a1d4783d309f8
 
 
-4) nustatytos skirtingos taisyklės dėl pensijų turto grąžinimo ar teisių į išmoką išlaikymo, kai darbuotojas nutraukia dalyvavimą pensijų fonde, išskyrus šios dalies 8 ir [[#^s-d2c85ef11cf3d69f57e34e43|10 punktuose]] nurodytus atvejus; ^s-662d70bec876b414e4c13d48
+4) nustatytos skirtingos taisyklės dėl pensijų turto grąžinimo ar teisių į išmoką išlaikymo, kai darbuotojas nutraukia dalyvavimą pensijų fonde, išskyrus šios dalies [[#^s-24e787dc7bed610beef754f7|8]] ir [[#^s-d2c85ef11cf3d69f57e34e43|10]] punktuose nurodytus atvejus; ^s-662d70bec876b414e4c13d48
 
 
 5) nustatytos skirtingos pensijų išmokų skyrimo, jų gavimo apribojimo sąlygos; ^s-16c843395fba411c2b1f9590
@@ -948,10 +948,10 @@ NARYSTĖ PENSIJŲ ASOCIACIJOJE IR DALYVAVIMAS PENSIJŲ FONDE
 4. Pensijų asociacijos įstatuose ir pensijų fondų taisyklėse draudžiama įtvirtinti nuostatas, pagal kurias finansuojantį subjektą pakeitęs ir kitoje valstybėje narėje pradėjęs dirbti darbuotojas, kuris (ar jo buvęs darbdavys) dėl to nustojo mokėti įmokas į pensijų fondą, prarastų tame pensijų fonde jam priklausančio pensijų turto dalį. pensijų asociacijos įstatuose ir pensijų fondų taisyklėse negali būti numatyta apribojimų iš pensijų fondo pasitraukiančiam dalyviui perkelti jam priklausančio pensijų turto dalį į kitą kitos valstybės narės teritorijoje įregistruoto analogiško subjekto valdomą pensijų fondą. ^s-4027f92b0bb2c88bedc982ad
 
 
-5. Už dalyvį, finansuojančio asmens komandiruotą dirbti į kitą valstybę narę, laikotarpiu, neviršijančiu Reglamento (EEB) Nr. 1408/71 nustatyto maksimalaus komandiravimo termino, turi būti tęsiamas pensijų įmokų mokėjimas ir dalyviui turi būti suteikta teisė mokėti įmokas į pensijų fondą, jeigu jis jas mokėjo iki komandiruotės. ^s-a8f679b5ade4fbb0b3d939a8
+5. Už dalyvį, finansuojančio asmens komandiruotą dirbti į kitą valstybę narę, laikotarpiu, neviršijančiu [Reglamento (EEB) Nr. 1408/71](https://eur-lex.europa.eu/eli/reg/1408/71/oj) nustatyto maksimalaus komandiravimo termino, turi būti tęsiamas pensijų įmokų mokėjimas ir dalyviui turi būti suteikta teisė mokėti įmokas į pensijų fondą, jeigu jis jas mokėjo iki komandiruotės. ^s-a8f679b5ade4fbb0b3d939a8
 
 
-6. Draudžiama Lietuvos Respublikoje valdomų pensijų fondų taisyklėse numatyti nuostatas, reikalaujančias, kad kitos valstybės narės į Lietuvą dirbti komandiruotas darbuotojas dalyvautų Lietuvos Respublikoje įregistruotos pensijų asociacijos pensijų fonde, jeigu komandiravimo Lietuvos Respublikoje trukmė neviršija Reglamento (EEB) Nr. 1408/71 nustatyto maksimalaus komandiravimo termino. ^s-8da50f7f83ec35fcef46afab
+6. Draudžiama Lietuvos Respublikoje valdomų pensijų fondų taisyklėse numatyti nuostatas, reikalaujančias, kad kitos valstybės narės į Lietuvą dirbti komandiruotas darbuotojas dalyvautų Lietuvos Respublikoje įregistruotos pensijų asociacijos pensijų fonde, jeigu komandiravimo Lietuvos Respublikoje trukmė neviršija [Reglamento (EEB) Nr. 1408/71](https://eur-lex.europa.eu/eli/reg/1408/71/oj) nustatyto maksimalaus komandiravimo termino. ^s-8da50f7f83ec35fcef46afab
 
 
 7. Finansuojančiam subjektui tapus nemokiam arba jam iškėlus bankroto bylą, pensijų fondo dalyviai įgyja teises į jų vardu sukaupto pensijų turto dalį, net jeigu minimalus dalyvavimo laikotarpis nėra pasibaigęs. ^s-efc67f967abd2bface926da9
@@ -1244,7 +1244,7 @@ GYVYBĖS DRAUDIMO ĮMONIŲ PROFESINIŲ PENSIJŲ KAUPIMO VEIKLOS YPATUMAI
 3. Gyvybės draudimo įmonės, vykdančios profesinių pensijų kaupimo veiklą, turtas ir įsipareigojimai, susiję su šia veikla, turi būti atskirti ir administruojami atskirai nuo kitos draudimo įmonės veiklos. Turto ir įsipareigojimų, susijusių su profesinių pensijų kaupimo veikla, atskiro administravimo taisykles nustato priežiūros institucija. ^s-33ade58fa61db518064c9fdd
 
 
-4. Profesinių pensijų kaupimo veiklą vykdančioms gyvybės draudimo įmonėms ir jų priežiūrai mutatis mutandis taikomi šio įstatymo [[#^s-9e1975111f422640fcfe4dda|7 straipsnio 3 dalis]], [[#^s-5401441cfcaeae26a51828ae|15 straipsnio]] 4–8 dalys, išskyrus reikalavimą pateikti įstatus, 16, [[#^s-81358ee2225166097f130166|17 straipsniai]], 23–[[#^s-634580e518db961c53593245|29 straipsniai]], devintasis skirsnis, [[#^s-c94e5ced217d7a33ad020386|50 straipsnis]], vienuoliktasis ir dvyliktasis skirsniai. ^s-9a10403d42bb798d012224e9
+4. Profesinių pensijų kaupimo veiklą vykdančioms gyvybės draudimo įmonėms ir jų priežiūrai mutatis mutandis taikomi šio įstatymo [[#^s-9e1975111f422640fcfe4dda|7 straipsnio 3 dalis]], [[#^s-5401441cfcaeae26a51828ae|15 straipsnio]] [[#^s-5d96a810074c3d3812e38c05|4]]–[[#^s-b8e30fd03a33d2a905a4e4c7|8]] dalys, išskyrus reikalavimą pateikti įstatus, [[#^s-1851890f633f97e024060a08|16]], [[#^s-81358ee2225166097f130166|17]] straipsniai, [[#^s-265fa50cf37c7097f13dc6e0|23]]–[[#^s-634580e518db961c53593245|29]] straipsniai, devintasis skirsnis, [[#^s-c94e5ced217d7a33ad020386|50 straipsnis]], vienuoliktasis ir dvyliktasis skirsniai. ^s-9a10403d42bb798d012224e9
 
 
 
@@ -1279,14 +1279,14 @@ GYVYBĖS DRAUDIMO ĮMONIŲ PROFESINIŲ PENSIJŲ KAUPIMO VEIKLOS YPATUMAI
 ### 38 straipsnis. Draudimo išmokos ^s-e601e746acaf5268fc4377bc
 
 
-Gyvybės draudimo sutartyse, pagal kurias kaupiamos profesinės pensijos, gali būti numatytas kitų, negu šio įstatymo 27 ir [[#^s-634580e518db961c53593245|29 straipsniuose]] nurodytų išmokų, draudimo išmokų mokėjimas. Tokioms draudimo išmokoms taikomos [[latest/TAR.8447F63760E9|Draudimo įstatymo]] šeštojo skyriaus nuostatos.
+Gyvybės draudimo sutartyse, pagal kurias kaupiamos profesinės pensijos, gali būti numatytas kitų, negu šio įstatymo [[#^s-41e50fe1d05bfe37a0d49007|27]] ir [[#^s-634580e518db961c53593245|29]] straipsniuose nurodytų išmokų, draudimo išmokų mokėjimas. Tokioms draudimo išmokoms taikomos [[latest/TAR.8447F63760E9|Draudimo įstatymo]] šeštojo skyriaus nuostatos.
 
 
 
 ### 39 straipsnis. Techniniai atidėjiniai ir jų padengimas turtu ^s-12da1cc6a60588c645943cee
 
 
-1. Gyvybės draudimo įmonėms, vykdančioms profesinių pensijų kaupimo veiklą, mutatis mutandis taikomos šio įstatymo 43, 44, [[#^s-1766ebf6b9dbcfc2191908ea|45 straipsnių]] nuostatos. Priežiūros institucija nustato profesinių pensijų kaupimo techninio atidėjinio sudarymo tvarką. ^s-fb2299c50a2b35e7b70b5cdc
+1. Gyvybės draudimo įmonėms, vykdančioms profesinių pensijų kaupimo veiklą, mutatis mutandis taikomos šio įstatymo [[#^s-6bd227dcc659cda02cd5d322|43]], [[#^s-6d865f08bb6a7238b4c7b8ba|44]], [[#^s-1766ebf6b9dbcfc2191908ea|45]] straipsnių nuostatos. Priežiūros institucija nustato profesinių pensijų kaupimo techninio atidėjinio sudarymo tvarką. ^s-fb2299c50a2b35e7b70b5cdc
 
 
 2. Profesinių pensijų kaupimo techninis atidėjinys dengiamas turtu vadovaujantis [[latest/TAR.8447F63760E9#^s-faf4319c8e8b779b6f8ab84e|Draudimo įstatymo 35 straipsnio]] nuostatomis. ^s-d772e0cfe922a98587657414

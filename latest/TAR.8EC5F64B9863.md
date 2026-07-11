@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Stomatologinės priežiūros (pagalbos) įstatymo įsigaliojimo terminai ^s-277cbe3649591d50bde781e5
 
 
-1. Stomatologinės priežiūros (pagalbos) įstatymo 1, 2, 6, 7, 9, 10, 11, 14, 15, 18, 20, 22, 24, 26, 27, 28 straipsniai įsigalioja kitą dieną po įstatymo paskelbimo „Valstybės žiniose“. ^s-65fcd8260c2f22219f965715
+1. Stomatologinės priežiūros (pagalbos) įstatymo [[#^s-277cbe3649591d50bde781e5|1]], [[#^s-8892f0a302a8ed8b7b9a1129|2]], 6, 7, 9, 10, 11, 14, 15, 18, 20, 22, 24, 26, 27, 28 straipsniai įsigalioja kitą dieną po įstatymo paskelbimo „Valstybės žiniose“. ^s-65fcd8260c2f22219f965715
 
 
 2. Kiti Stomatologinės priežiūros (pagalbos) įstatymo straipsniai įsigalioja priėmus atitinkamus įstatymus bei kitus teisės aktus. ^s-3127f53257e4e0c87cf19b80

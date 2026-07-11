@@ -14,5 +14,4 @@ pavadinimas: "Lietuvos Respublikos branduolinės energijos įstatymo 14, 16, 19,
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.6286F15970B3#^s-323b7c30e5669624086c5591|Lietuvos Respublikos branduolinės energijos įstatymas]] - 3 citatos - 0991010ISTAIII-1309
-- [[latest/TAR.6286F15970B3#^s-e0e557bf2ca23d64623407ea|Lietuvos Respublikos branduolinės energijos įstatymas]] - 3 citatos - 0991010ISTAIII-1309
+- [[latest/TAR.6286F15970B3#^s-323b7c30e5669624086c5591|Lietuvos Respublikos branduolinės energijos įstatymas]] - 2 citatos - 0991010ISTAIII-1309

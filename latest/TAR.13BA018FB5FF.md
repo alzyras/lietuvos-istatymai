@@ -38,7 +38,7 @@ DĖL LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS NUTARIMŲ CENTRINĖS PRIVATI
 Pripažinti netekusiais galios šiuos Lietuvos Respublikos Aukščiausiosios Tarybos priimtus aktus:
 
 
-1) 1991 m. balandžio 9 dienos nutarimą Nr. I-1204 „Dėl Centrinės privatizavimo komisijos skyrimo“ (Žin., 1991, Nr. 12-315);
+1) 1991 m. balandžio 9 dienos nutarimą Nr. I-1204 [„Dėl Centrinės privatizavimo komisijos skyrimo“](https://e-tar.lt/portal/lt/legalAct/TAR.4366CC78D3F6) (Žin., 1991, Nr. 12-315);
 
 
 2) 1992 m. rugsėjo 24 dienos nutarimą Nr. I-2916 „Dėl Centrinės privatizavimo komisijos dalinio pakeitimo“ (Žin., 1992, Nr. 29-856);

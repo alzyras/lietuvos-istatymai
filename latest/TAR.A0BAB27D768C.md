@@ -254,7 +254,7 @@ Nr. XIV-2650, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09688
 3 SKYRIUS
 TEISINIAI NACIONALINIO SAUGUMO PAGRINDAI
 
-Lietuvos nacionalinio saugumo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, šis bei kiti įstatymai ir tarptautinės sutartys.
+Lietuvos nacionalinio saugumo teisinis pagrindas yra [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis bei kiti įstatymai ir tarptautinės sutartys.
 Kertinės Konstitucijos normos, tiesiogiai reglamentuojančios nacionalinio saugumo klausimus, yra:
 – Konstitucijos [[#^s-dac56f47ce5cfba61db23a26|1 straipsnis]], skelbiantis, kad Lietuvos valstybė yra nepriklausoma demokratinė respublika;
 – Konstitucijos [[#^s-1b0423deaae3cfab892027c4|3 straipsnis]], skelbiantis, kad niekas negali varžyti ar riboti Tautos suvereniteto, savintis visai Tautai priklausančių teisių;
@@ -264,7 +264,7 @@ Kertinės Konstitucijos normos, tiesiogiai reglamentuojančios nacionalinio saug
 – Konstitucijos 142 straipsnis, įpareigojantis Seimą ir Respublikos Prezidentą priimti sprendimus panaudoti ginkluotąsias pajėgas bei imtis kitų veiksmų, būtinų Tėvynei apginti ar valstybės tarptautiniams įsipareigojimams vykdyti;
 – Konstitucijos 144 straipsnis, suteikiantis galią Seimui ir Respublikos Prezidentui įvesti nepaprastąją padėtį, jei iškyla grėsmė konstitucinei santvarkai ar visuomenės rimčiai; ir
 – Konstitucijos sudedamosios dalies – 1992 m. birželio 8 d. Konstitucinio akto – reikalavimai niekada ir jokiu pavidalu nesijungti į jokias buvusios SSRS pagrindu kuriamas naujas politines, karines, ekonomines ar kitokias valstybių sąjungas bei sandraugas.
-Nacionalinis saugumas taip pat grindžiamas Jungtinių Tautų Chartija, Europos saugumo ir bendradarbiavimo organizacijos dokumentais, Šiaurės Atlanto sutartimi, žmogaus teisių apsaugos ir kitomis daugiašalėmis ir dvišalėmis tarptautinėmis sutartimis, įsigaliojusiomis Lietuvos Respublikai, taip pat visuotinai pripažintais tarptautinės teisės principais ir normomis.
+Nacionalinis saugumas taip pat grindžiamas [Jungtinių Tautų Chartija](https://e-tar.lt/portal/lt/legalAct/TAR.DD12C52B498E), Europos saugumo ir bendradarbiavimo organizacijos dokumentais, Šiaurės Atlanto sutartimi, žmogaus teisių apsaugos ir kitomis daugiašalėmis ir dvišalėmis tarptautinėmis sutartimis, įsigaliojusiomis Lietuvos Respublikai, taip pat visuotinai pripažintais tarptautinės teisės principais ir normomis.
 Skyriaus pakeitimai:
 Nr. IX-1524, 2003-04-22, Žin., 2003, Nr. 42-1922 (2003-05-01)
 
@@ -742,14 +742,14 @@ KRAŠTO APSAUGOS SISTEMA
 Krašto apsaugos sistemą sudaro Krašto apsaugos ministerija, kariuomenė (ginkluotosios pajėgos), Generolo Jono Žemaičio Lietuvos karo akademija, žvalgybos ir kontržvalgybos tarnyba (Antrasis operatyvinių tarnybų departamentas), karo prievolės ir mobilizacijos, gynybai reikalingos ginkluotės ir kitų prekių, paslaugų ir darbų įsigijimo ir valdymo bei kitos krašto apsaugos ministrui pavaldžios institucijos, krašto apsaugos reikmėms skirtos karinės teritorijos, kiti infrastruktūros objektai, įmonės bei įstaigos. Krašto apsaugos ministerija yra vadovaujanti krašto apsaugos sistemos institucija. Krašto apsaugos ministerijos ir visos krašto apsaugos sistemos struktūrą bei veiklą išsamiau reglamentuoja kiti įstatymai ir teisės aktai.
 Krašto apsaugos ministerijos ir visos krašto apsaugos sistemos veiklai vadovauja krašto apsaugos ministras. Jis atsako už gynybos politikos įgyvendinimą, krašto apsaugos sistemos plėtrą ir jos parengimą ginti valstybę. Ministro teises, pareigas, funkcijas ir atsakomybę nustato įstatymai ir kiti teisės aktai.
 Lietuvos kariuomenė yra valstybės ginkluotos gynybos institucija, pagrindinė krašto apsaugos sistemos dalis. Kariuomenė yra ištikima Lietuvos Respublikai, jos Konstitucijai, tarnauja valstybei ir visuomenei, paklūsta Lietuvos piliečių demokratiškai išrinktai valstybės valdžiai.
-Aukščiausiasis valstybės karinis pareigūnas, kariniais klausimais atstovaujantis Lietuvos kariuomenei, yra kariuomenės vadas. Svarbiausias jo uždavinys taikos metu – tinkamai rengti kariuomenę ginkluotai valstybės gynybai, užtikrinant jos sąveiką su kitų NATO valstybių ginkluotosiomis pajėgomis ir dalyvavimą tarptautinėse operacijose. Kariuomenės vadas taikos metu yra tiesiogiai pavaldus krašto apsaugos ministrui ir vykdo nustatytą kariuomenės plėtros politiką. Kariuomenės vado skyrimo ir atleidimo tvarką, teises, pareigas, funkcijas ir atsakomybę nustato Lietuvos Respublikos Konstitucija, įstatymai bei kiti teisės aktai.
+Aukščiausiasis valstybės karinis pareigūnas, kariniais klausimais atstovaujantis Lietuvos kariuomenei, yra kariuomenės vadas. Svarbiausias jo uždavinys taikos metu – tinkamai rengti kariuomenę ginkluotai valstybės gynybai, užtikrinant jos sąveiką su kitų NATO valstybių ginkluotosiomis pajėgomis ir dalyvavimą tarptautinėse operacijose. Kariuomenės vadas taikos metu yra tiesiogiai pavaldus krašto apsaugos ministrui ir vykdo nustatytą kariuomenės plėtros politiką. Kariuomenės vado skyrimo ir atleidimo tvarką, teises, pareigas, funkcijas ir atsakomybę nustato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymai bei kiti teisės aktai.
 Taikos metu kariuomenė savarankiškai ir bendradarbiaudama su NATO institucijomis ir kitų NATO valstybių ginkluotosiomis pajėgomis:
 – saugo valstybės teritoriją ir karines teritorijas, taip pat bendradarbiaudama su kitomis valstybės institucijomis stebi ir kontroliuoja išskirtinę ekonominę zoną ir kontinentinį šelfą;
 – palaiko kovinę parengtį;
 – rengiasi ir Konstitucijos bei įstatymų nustatyta tvarka Respublikos Prezidentui ir Seimui nusprendus dalyvauja tarptautinėse operacijose;
 – įstatymų nustatytais atvejais ir tvarka gali būti pasitelkiama teikti pagalbą kitoms valstybės ir savivaldybių institucijoms, taip pat įstatymų nustatyta tvarka organizuoja, koordinuoja, vadovauja ir vykdo žmonių paieškos ir gelbėjimo bei teršimo incidentų likvidavimo darbus, organizuoja ir vykdo saugomų asmenų, atvykstančių krašto apsaugos ministro ar kariuomenės vado oficialiu kvietimu, apsaugą.
 Kariuomenė turi būti rengiama ugdant kario asmenybę, pilietiškumą ir patriotizmą, profesionalius įgūdžius ir kario etiką. Vadai turi puoselėti karių ir civilių gyventojų tarpusavio supratimą ir pasitikėjimą.
-Karo tarnybos rūšis ir atlikimo tvarką bei karių teisinį statusą reglamentuoja Lietuvos Respublikos Konstitucija, įstatymai ir kiti teisės aktai.
+Karo tarnybos rūšis ir atlikimo tvarką bei karių teisinį statusą reglamentuoja [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymai ir kiti teisės aktai.
 Kariuomenės vienetai komplektuojami iš profesinės, savanoriškos nenuolatinės karo tarnybos, privalomosios pradinės karo tarnybos ir tarnybą rezerve atliekančių karių. Tarnybą rezerve atliekančių karių karinių įgūdžių atnaujinimas turi atitikti valstybės gynybinius poreikius.
 Kariuomenę sudaro šios pajėgų rūšys: sausumos pajėgos, karinės oro pajėgos, karinės jūrų pajėgos, specialiųjų operacijų pajėgos. Kariuomenės pajėgų rūšių sudėtį, uždavinius ir funkcijas nustato įstatymai ir kiti teisės aktai.
 Principinę kariuomenės struktūrą, ribinius karių, pulkininkų, jūrų kapitonų, generolų ir admirolų skaičius krašto apsaugos ministro teikimu svarsto Valstybės gynimo taryba. Valstybės gynimo tarybai pritarus, principinę kariuomenės struktūrą Vyriausybės teikimu tvirtina Seimas įstatymu.
@@ -972,7 +972,7 @@ Nr. XI-125, 2008-12-23, Žin., 2008, Nr. 149-6045 (2008-12-30)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-409, 2009-07-23, Žin., 2009, Nr. 95-4034 (2009-08-08)
 [[latest/TAR.26F89FA8693F|NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO 7, 18 IR 24 SKYRIŲ PAKEITIMO ĮSTATYMAS]]
-Šio įstatymo 1 ir [[#^s-1b0423deaae3cfab892027c4|3 straipsniai]] įsigalioja 2010 m. sausio 1 d.
+Šio įstatymo [[#^s-dac56f47ce5cfba61db23a26|1]] ir [[#^s-1b0423deaae3cfab892027c4|3]] straipsniai įsigalioja 2010 m. sausio 1 d.
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas

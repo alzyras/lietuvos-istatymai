@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-02b7c4a146a19679183c68cc
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. kovo 23 d. dekretą Nr. 405, ratifikuoja Europos sutarties dėl teisinės pagalbos prašymų perdavimo papildomą protokolą, priimtą 2001 m. spalio 4 d. Maskvoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. kovo 23 d. dekretą Nr. 405](https://e-tar.lt/portal/lt/legalAct/TAR.AD1ABBA3DE83), ratifikuoja Europos sutarties dėl teisinės pagalbos prašymų perdavimo papildomą protokolą, priimtą 2001 m. spalio 4 d. Maskvoje.
 
 
 

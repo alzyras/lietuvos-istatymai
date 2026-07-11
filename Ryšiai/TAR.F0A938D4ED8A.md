@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos atsinaujinančių išteklių energetikos įst
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.FC7AB69BE291|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 4 citatos - Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme
+- [[latest/TAR.FC7AB69BE291|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 7 citatos - Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 13 straipsnio 3 dalies 4 punkte
 
 ## Šį įstatymą cituoja
 

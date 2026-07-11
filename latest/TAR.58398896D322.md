@@ -202,7 +202,7 @@ Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 1. Probacijos tarnyba, siekdama probacijos tikslo, sutarčių (susitarimų) pagrindu bendradarbiauja su asociacijomis, religinėmis bendruomenėmis ir bendrijomis, kitais juridiniais asmenimis ar jų padaliniais ir savanoriais, koordinuoja jų darbą su probuojamaisiais. ^s-e5c21693ce6597b341a10211
 
 
-2. [[#^s-e5c21693ce6597b341a10211|Šio straipsnio 1 dalyje]] nurodyti asmenys pagal kompetenciją turi teisę vykdyti šio įstatymo 19, 20 ir [[#^s-ab93ac3db0f018058b036e65|21 straipsniuose]] nustatytas ir kitas probuojamojo resocializacijos priemones. ^s-d05c123f991cb19496566266
+2. [[#^s-e5c21693ce6597b341a10211|Šio straipsnio 1 dalyje]] nurodyti asmenys pagal kompetenciją turi teisę vykdyti šio įstatymo [[#^s-55e9616f05276dca33d17c67|19]], [[#^s-ce2c4af818580620a0c0bc01|20]] ir [[#^s-ab93ac3db0f018058b036e65|21]] straipsniuose nustatytas ir kitas probuojamojo resocializacijos priemones. ^s-d05c123f991cb19496566266
 
 
 3. Sutartyse (susitarimuose) nustatomos šios [[#^s-e5c21693ce6597b341a10211|straipsnio 1 dalyje]] nurodytų asmenų teisės ir pareigos, vykdant probuojamųjų resocializaciją patirtų nuostolių kompensavimas, probacijos tarnybos įsipareigojimai ir kitos bendradarbiavimo sąlygos. ^s-d98b076607d641e87ca860c9
@@ -636,10 +636,10 @@ Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
 3) dokumentų ir informacijos, reikalingų probacijos sąlygų įvykdymui užtikrinti, rinkimas; ^s-a03732dc6e5d022dcec4af68
 
 
-4) probuojamiesiems teismo paskirtos Lietuvos Respublikos baudžiamojo kodekso 721 straipsnyje nustatytos baudžiamojo poveikio priemonės, 75 straipsnio 5 dalies 7, 8, 9 punktuose nustatytų pareigų, 87 straipsnio 2 dalies 1 punkte ir [[#^s-abd7ce4b68bffc44206597d9|3 dalies]] 4 ir [[#^s-8e76605dd5132ef9c8930640|5 punktuose]] nustatytų pareigų ir draudimų, šio įstatymo [[#^s-b9a288cb5af490903798515e|15 straipsnio 1 dalies]] 4 ir [[#^s-844b178b96573c6733464214|6 punktuose]] nustatytų pareigų ir intensyvios priežiūros vykdymo stebėjimas elektroninio stebėjimo priemonėmis; ^s-81bae834d349d3c638688d2c
+4) probuojamiesiems teismo paskirtos Lietuvos Respublikos baudžiamojo kodekso 721 straipsnyje nustatytos baudžiamojo poveikio priemonės, 75 straipsnio 5 dalies 7, 8, 9 punktuose nustatytų pareigų, 87 straipsnio 2 dalies 1 punkte ir [[#^s-abd7ce4b68bffc44206597d9|3 dalies]] 4 ir 5 punktuose nustatytų pareigų ir draudimų, šio įstatymo [[#^s-b9a288cb5af490903798515e|15 straipsnio 1 dalies]] [[#^s-0ade7ed2c45dbb5219dbf8c2|4]] ir [[#^s-91095b9b0674c17c147fbfb8|6]] punktuose nustatytų pareigų ir intensyvios priežiūros vykdymo stebėjimas elektroninio stebėjimo priemonėmis; ^s-81bae834d349d3c638688d2c
 
 
-5) probuojamiesiems teismo paskirtos Baudžiamojo kodekso 75 straipsnio 5 dalies 10 punkte nustatytos pareigos, taip pat šio įstatymo [[#^s-d2039d5a0b73957b472de8a4|15 straipsnio 1 dalies 5 punkte]] ir [[#^s-93d30fb871d43f7fef177e0c|27 straipsnio 2 punkte]] nustatytos pareigos ir draudimo vykdymo tikrinimas specialiosiomis techninėmis priemonėmis; ^s-8e76605dd5132ef9c8930640
+5) probuojamiesiems teismo paskirtos Baudžiamojo kodekso 75 straipsnio 5 dalies 10 punkte nustatytos pareigos, taip pat šio įstatymo [[#^s-d2039d5a0b73957b472de8a4|15 straipsnio 1 dalies 5 punkte]] ir 27 straipsnio 2 punkte nustatytos pareigos ir draudimo vykdymo tikrinimas specialiosiomis techninėmis priemonėmis; ^s-8e76605dd5132ef9c8930640
 
 
 6) kitos įstatymuose nustatytos priemonės. ^s-844b178b96573c6733464214
@@ -651,7 +651,7 @@ Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
 
 
 
-3. Probuojamieji, kurių probacijos sąlygų vykdymas stebimas elektroninio stebėjimo priemonėmis, turi laikytis šio įstatymo [[#^s-e2df20ce81bb891dc45e45ea|26 straipsnio]] 1, 4, 5 ir 6 punktuose nustatytų pareigų ir šio įstatymo [[#^s-7295abc61a92ad0859ab1aff|27 straipsnio 1 punkte]] nustatyto draudimo. ^s-abd7ce4b68bffc44206597d9
+3. Probuojamieji, kurių probacijos sąlygų vykdymas stebimas elektroninio stebėjimo priemonėmis, turi laikytis šio įstatymo [[#^s-e2df20ce81bb891dc45e45ea|26 straipsnio]] 1, 4, 5 ir 6 punktuose nustatytų pareigų ir šio įstatymo 27 straipsnio 1 punkte nustatyto draudimo. ^s-abd7ce4b68bffc44206597d9
 
 
 4. Probuojamojo atsisakymas arba nesutikimas, kad jam nustatytų pareigų ir draudimų vykdymas būtų kontroliuojamas elektroninio stebėjimo priemonėmis ir specialiosiomis techninėmis priemonėmis, taip pat tokių priemonių tyčinis sugadinimas prilyginamas vengimui vykdyti probacijos sąlygas. ^s-06d63f50fac022e5a784762c
@@ -900,7 +900,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1821, 2015-06-23, paskelbta TAR 2015-07-07, i. k. 2015-11079
-Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 11, 17, 18, 21, 25, 30 ir [[#^s-078ff9c62e2fe60cb8cfe02c|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 [[#^s-2f2f66d8a80fbc799cd8aed4|11]], [[#^s-19a61e6d06f6fdb86141a2e9|17]], [[#^s-4a472a2dfedc4d051e08d675|18]], [[#^s-ab93ac3db0f018058b036e65|21]], [[#^s-616a01411e99525f6f1ad26b|25]], [[#^s-f00834760f2715ac385291f4|30]] ir [[#^s-078ff9c62e2fe60cb8cfe02c|31]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -910,12 +910,12 @@ Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 [[#^s-f00834760f2715ac3852
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2712, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26511
-Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 6, 22, 23 ir [[#^s-f00834760f2715ac385291f4|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 [[#^s-d0a773a3d2557acf24e72560|6]], [[#^s-bb596bfe5b868858616f701c|22]], [[#^s-4eb8e6e8ed66a27ea3acc9de|23]] ir [[#^s-f00834760f2715ac385291f4|30]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-956, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21672
-Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 6, 14 ir [[#^s-55e9616f05276dca33d17c67|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 [[#^s-d0a773a3d2557acf24e72560|6]], [[#^s-cd61b4f360b171a8ffd745e6|14]] ir [[#^s-55e9616f05276dca33d17c67|19]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -930,14 +930,14 @@ Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 pakeitimo įstatymas
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-880, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00171
-Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 5, 6, 8, 10, 17, 18, 21, 22, 25, 28, 32, [[#^s-3751cb165b372b65b66d0882|33 straipsnių]] pakeitimo ir [[#^s-ca05fb05eb2e89f0dec113e4|9 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 [[#^s-1c91fdb3cb59d090e55ef6a8|5]], [[#^s-d0a773a3d2557acf24e72560|6]], [[#^s-83733efa8961a11ea72d1c29|8]], [[#^s-b0931e71197d88ef6b011472|10]], [[#^s-19a61e6d06f6fdb86141a2e9|17]], [[#^s-4a472a2dfedc4d051e08d675|18]], [[#^s-ab93ac3db0f018058b036e65|21]], [[#^s-bb596bfe5b868858616f701c|22]], [[#^s-616a01411e99525f6f1ad26b|25]], [[#^s-167b935a82f5298beb68ae24|28]], [[#^s-ad37b590d2bc482802c8d1de|32]], [[#^s-3751cb165b372b65b66d0882|33]] straipsnių pakeitimo ir [[#^s-ca05fb05eb2e89f0dec113e4|9 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1204, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15567
-Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 2, 6, 8, 10, 11, 15, 17, 18, 20, 21, 25, 30 ir [[#^s-078ff9c62e2fe60cb8cfe02c|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 [[#^s-7b9a067094d5124a1460f8f3|2]], [[#^s-d0a773a3d2557acf24e72560|6]], [[#^s-83733efa8961a11ea72d1c29|8]], [[#^s-b0931e71197d88ef6b011472|10]], [[#^s-2f2f66d8a80fbc799cd8aed4|11]], [[#^s-5c2642f46c725ab08a7123be|15]], [[#^s-19a61e6d06f6fdb86141a2e9|17]], [[#^s-4a472a2dfedc4d051e08d675|18]], [[#^s-ce2c4af818580620a0c0bc01|20]], [[#^s-ab93ac3db0f018058b036e65|21]], [[#^s-616a01411e99525f6f1ad26b|25]], [[#^s-f00834760f2715ac385291f4|30]] ir [[#^s-078ff9c62e2fe60cb8cfe02c|31]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2592, 2024-05-07, paskelbta TAR 2024-05-13, i. k. 2024-08764
-Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 14, 15, 16, 25, 29 ir [[#^s-f00834760f2715ac385291f4|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos probacijos įstatymo Nr. XI-1860 [[#^s-cd61b4f360b171a8ffd745e6|14]], [[#^s-5c2642f46c725ab08a7123be|15]], [[#^s-f8c0a941acdd9fd00bcca5e8|16]], [[#^s-616a01411e99525f6f1ad26b|25]], [[#^s-e7ff3b1144dde2dbc46fa284|29]] ir [[#^s-f00834760f2715ac385291f4|30]] straipsnių pakeitimo įstatymas

@@ -75,7 +75,7 @@ Papildyti Įstatymą 211 straipsniu:
 „211 straipsnis.   Savivaldybių atstovaujamųjų ir vykdomųjų institucijų bei savivaldybių merų teisės aktų įsigaliojimas
 
 
-Savivaldybių atstovaujamųjų ir vykdomųjų institucijų bei savivaldybių merų teisės aktų įsigaliojimo tvarką nustato Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymas.“
+Savivaldybių atstovaujamųjų ir vykdomųjų institucijų bei savivaldybių merų teisės aktų įsigaliojimo tvarką nustato [Lietuvos Respublikos įstatymų ir kitų teisės aktų skelbimo ir įsigaliojimo tvarkos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.CB5AF955F76E).“
 
 
 

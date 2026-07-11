@@ -39,19 +39,19 @@ Vilnius
 ### 1 straipsnis.         1 straipsnio 1 dalies pakeitimas, 2 dalies papildymas 3 punktu, straipsnio papildymas 3 dalimi ^s-df5f9b273f35167ffae505c1
 
 
-1. [[#^s-54e9a6305614429792fff9a9|1 straipsnio 1 dalyje]] vietoj žodžių „Lietuvos Respublikoje“ įrašyti žodžius „Lietuvos Respublikos teritorijoje“, po žodžių „jų pripažinimo tinkamais naudoti“ įrašyti žodžius „statinių naudojimo ir priežiūros“ ir šią dalį išdėstyti taip: ^s-54e9a6305614429792fff9a9
+1. 1 straipsnio 1 dalyje vietoj žodžių „Lietuvos Respublikoje“ įrašyti žodžius „Lietuvos Respublikos teritorijoje“, po žodžių „jų pripažinimo tinkamais naudoti“ įrašyti žodžius „statinių naudojimo ir priežiūros“ ir šią dalį išdėstyti taip: ^s-54e9a6305614429792fff9a9
 
 
 „1. Šis Įstatymas nustato visų Lietuvos Respublikos teritorijoje statomų, rekonstruojamų ir remontuojamų statinių esminius reikalavimus, statybos techninio normavimo, statybinių tyrinėjimų, statinių projektavimo, naujų statinių statybos, rekonstravimo, remonto, jų pripažinimo tinkamais naudoti, statinių naudojimo ir priežiūros, nugriovimo bei visos šios veiklos priežiūros tvarką, statybos dalyvių, viešojo administravimo subjektų, inžinerinių tinklų bei susisiekimo komunikacijų savininkų (ar naudotojų), kitų juridinių ir fizinių asmenų veiklos šioje srityje principus.“
 
 
-2. [[#^s-8d4140886a3e79f01b66d8a4|1 straipsnio 2 dalį]] papildyti 3 punktu: ^s-8d4140886a3e79f01b66d8a4
+2. 1 straipsnio 2 dalį papildyti 3 punktu: ^s-8d4140886a3e79f01b66d8a4
 
 
 „3) naudojamame statinyje vykdomos ūkinės komercinės ar kitos veiklos reikalavimus.“
 
 
-3. Papildyti [[#^s-54ef357466b0249829b1220c|1 straipsnį 3 dalimi]]: ^s-54ef357466b0249829b1220c
+3. Papildyti 1 straipsnį 3 dalimi: ^s-54ef357466b0249829b1220c
 
 
 „3. Įstatymas yra suderintas su šio Įstatymo priede nurodytu Europos Sąjungos teisės aktu.“
@@ -73,7 +73,7 @@ Vilnius
 „54. Normatyvinis statybos techninis dokumentas – dokumentas, kuris nustato statinio projektavimo, statybos, statinio pripažinimo tinkamu naudoti, statinio naudojimo, priežiūros ir nugriovimo reikalavimus, taisykles, bendruosius principus ir charakteristikas. Tai statybos techniniai reglamentai, statybos bei statinių naudojimo ir priežiūros taisyklės, standartai, techniniai liudijimai, metodiniai nurodymai, rekomendacijos.“
 
 
-3. Papildyti [[#^s-8c67aa18cfb37dd3042e9681|2 straipsnį]] 72, 73, 74, 75, 76, 77 ir [[#^s-58d37288d6f3315e2a2a57c8|78 dalimis]]: ^s-eedd82b0c573638cfab42fac
+3. Papildyti [[#^s-8c67aa18cfb37dd3042e9681|2 straipsnį]] 72, [[#^s-e7eb10ab7e343eeb1ca6ef2c|73]], [[#^s-366d1baa67448613b7bcd796|74]], [[#^s-93827974e6f035f500e815e4|75]], [[#^s-4fe9d9354ecd6b707f62cc96|76]], [[#^s-96bed131297b3dbb599d6bcf|77]] ir [[#^s-58d37288d6f3315e2a2a57c8|78]] dalimis: ^s-eedd82b0c573638cfab42fac
 
 
 „72. Statinio naudojimas – esminių statinio reikalavimų pagrindu sukurto statinio savybių panaudojimas naudotojo poreikiams tenkinti.
@@ -94,7 +94,7 @@ Vilnius
 77. Statinio paskirtis – statinio viešajame registre nurodytas statinio naudojimo tikslas (žmonėms gyventi, ūkinei komercinei ar kitai veiklai), kai statinys atitinka saugos ir jame planuojamos (atliekamos) veiklos (technologijos proceso) privalomus reikalavimus, nustatytus normatyviniuose statinio saugos ir paskirties dokumentuose. ^s-96bed131297b3dbb599d6bcf
 
 
-78. Statinio techninis prižiūrėtojas – fizinis ar juridinis asmuo, šio Įstatymo [[#^s-1e56ab08025c5dc1fc72ef22|41 straipsnio]] 1 ir [[#^s-29b2a96ec4627319ae3d1170|2 dalių]] nustatytais pagrindais ir pagal to paties [[#^s-eedd82b0c573638cfab42fac|straipsnio 3 dalies]] nustatytus reikalavimus atliekantis statinio techninę priežiūrą.“ ^s-58d37288d6f3315e2a2a57c8
+78. Statinio techninis prižiūrėtojas – fizinis ar juridinis asmuo, šio Įstatymo [[#^s-1e56ab08025c5dc1fc72ef22|41 straipsnio]] [[#^s-b01415138c89bfd9c5d13f9a|1]] ir [[#^s-d616d0badf6f8233b4c6b61b|2]] dalių nustatytais pagrindais ir pagal to paties [[#^s-eedd82b0c573638cfab42fac|straipsnio 3 dalies]] nustatytus reikalavimus atliekantis statinio techninę priežiūrą.“ ^s-58d37288d6f3315e2a2a57c8
 
 
 
@@ -276,7 +276,7 @@ Statinių naudotojai privalo:
 2) susisiekimo komunikacijų ir su jomis susijusių kitų inžinerinių statinių, taip pat hidrotechnikos statinių Baltijos jūroje ir vidaus vandens telkiniuose – Susisiekimo ministerija ir (ar) jos įgaliotos organizacijos (išskyrus susisiekimo komunikacijas, kurios nepriklauso jos valdymo sričiai) pagal Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą; ^s-cbffcb8a4068e5322ed89b00
 
 
-3) gyvenamųjų namų ir kitų statinių, nenurodytų [[#^s-3efb9a3c0e51590e2553232b|šio straipsnio 1 dalies]] 1 ir [[#^s-cbffcb8a4068e5322ed89b00|2 punktuose]], – savivaldybių administracijos; ^s-2bc77d0a75e67867392b4833
+3) gyvenamųjų namų ir kitų statinių, nenurodytų [[#^s-3efb9a3c0e51590e2553232b|šio straipsnio 1 dalies]] [[#^s-e397bcc25ae0c2c094dd71cc|1]] ir [[#^s-cbffcb8a4068e5322ed89b00|2]] punktuose, – savivaldybių administracijos; ^s-2bc77d0a75e67867392b4833
 
 
 4) statinių įrangos ir paskirties reikalavimų įgyvendinimo priežiūrą atlieka saugos ir paskirties reikalavimų valstybinės priežiūros institucijos. ^s-90813b17bfb1be09beac2d39
@@ -297,7 +297,7 @@ Statinių naudotojai privalo:
 3) kreiptis į policiją, kad būtų laikinai apribotas patekimas į statinio teritoriją ar patalpą, būtų sustabdyti vykdomi darbai, apribotas ar uždraustas transporto eismas, jei kyla pavojus aplinkai, viešajai tvarkai, asmens ar valstybės saugumui; ^s-8794ad267de0e83c5fa8506d
 
 
-4) Administracinių teisės pažeidimų kodekso nustatytais atvejais ir tvarka surašyti administracinių teisės pažeidimų protokolus, nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas arba teikti administracinių teisės pažeidimų bylas teismui. ^s-310b255deb5cf325f9e3ee15
+4) [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatytais atvejais ir tvarka surašyti administracinių teisės pažeidimų protokolus, nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas arba teikti administracinių teisės pažeidimų bylas teismui. ^s-310b255deb5cf325f9e3ee15
 
 
 4. Viešojo administravimo subjektų, atliekančių statinio naudojimo priežiūrą, pareigūnai turi teisę reikalauti, kad statinio naudotojas pateiktų privalomuosius statinio priežiūros dokumentus, nurodytus šio Įstatymo [[#^s-83732f012afbb42d1ad83daa|43 straipsnyje]], ir leistų atlikti jiems pavestas kitas statinio naudojimo priežiūros funkcijas. ^s-958f0722f6a0ef0f1c9339b3
@@ -345,7 +345,7 @@ Papildyti Įstatymą priedu:
 „Lietuvos Respublikos
 
 
-statybos [[latest/TAR.F31E79DEC55D|įstatymo Nr. I-1240]]
+statybos įstatymo Nr. I-1240
 priedas
 
 Įgyvendinamas Europos Sąjungos teisės aktas

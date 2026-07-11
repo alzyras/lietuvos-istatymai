@@ -111,14 +111,14 @@ Apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos:
 3) operatyvinės veiklos slaptiesiems dalyviams; ^s-5b632d99c65182a5817558cd
 
 
-4) šio straipsnio 1–[[#^s-5b632d99c65182a5817558cd|3 punktuose]] išvardytų asmenų tėvams (įtėviams), vaikams (įvaikiams), broliams, seserims, seneliams, vaikaičiams, sutuoktiniams ir sugyventiniams. ^s-f10d3f67d5d22bef49d18f02
+4) šio straipsnio [[#^s-b147f12b27f12ac83c634569|1]]–[[#^s-5b632d99c65182a5817558cd|3]] punktuose išvardytų asmenų tėvams (įtėviams), vaikams (įvaikiams), broliams, seserims, seneliams, vaikaičiams, sutuoktiniams ir sugyventiniams. ^s-f10d3f67d5d22bef49d18f02
 
 
 
 ### 5 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių taikymo pagrindai ^s-4a371be21668dd7d3f9d4eae
 
 
-1. Apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos, jei atliekant operatyvinius veiksmus ar ikiteisminį tyrimą arba nagrinėjant baudžiamąsias bylas dėl labai sunkių ar sunkių nusikaltimų, taip pat dėl apysunkių nusikaltimų, numatytų Baudžiamojo kodekso 145 straipsnio 2 dalyje, 146 straipsnio 2 ir 3 dalyse, 151 straipsnio 2 dalyje, 162 straipsnyje, 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 2 dalyje, 227 straipsnio 2 dalyje, 228 straipsnio 2 dalyje, 240 straipsnyje, 253 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 300 straipsnio 2 dalyje, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir [[#^s-0852c77ce82dc3eb4459a047|2 dalyse]], arba pasibaigus operatyvinei veiklai ar baudžiamajam procesui buvo gauta patikrintų duomenų iš viešų ar konfidencialių šaltinių, kad: ^s-ac9c0de7021ac2f178888189
+1. Apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos, jei atliekant operatyvinius veiksmus ar ikiteisminį tyrimą arba nagrinėjant baudžiamąsias bylas dėl labai sunkių ar sunkių nusikaltimų, taip pat dėl apysunkių nusikaltimų, numatytų Baudžiamojo kodekso 145 straipsnio 2 dalyje, 146 straipsnio 2 ir 3 dalyse, 151 straipsnio 2 dalyje, 162 straipsnyje, 178 straipsnio 2 dalyje, 180 straipsnio 1 dalyje, 181 straipsnio 1 dalyje, 187 straipsnio 2 dalyje, 189 straipsnio 2 dalyje, 198 straipsnio 2 dalyje, 213 straipsnio 1 dalyje, 214 ir 215 straipsniuose, 225 straipsnio 2 dalyje, 227 straipsnio 2 dalyje, 228 straipsnio 2 dalyje, 240 straipsnyje, 253 straipsnio 1 dalyje, 256 straipsnio 1 dalyje, 300 straipsnio 2 dalyje, 301 straipsnio 2 dalyje, 302 straipsnio 2 dalyje, 307 straipsnio 1 ir 2 dalyse, arba pasibaigus operatyvinei veiklai ar baudžiamajam procesui buvo gauta patikrintų duomenų iš viešų ar konfidencialių šaltinių, kad: ^s-ac9c0de7021ac2f178888189
 
 
 1) asmenų gyvybei ar sveikatai gresia realus pavojus; ^s-d09e3a06bb38ac046a79cb19
@@ -127,7 +127,7 @@ Apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos:
 2) gali būti sunaikintas ar sugadintas asmenų turtas. ^s-33c3a00e01186602f9846b96
 
 
-2. Šio įstatymo [[#^s-b147f12b27f12ac83c634569|4 straipsnio 1 punkte]] nurodytiems asmenims, išskyrus ekspertus, specialistus ir gynėjus (atstovus), apsaugos nuo nusikalstamo poveikio priemonės taikomos, jeigu šie asmenys aktyviai bendradarbiauja su teisingumo ir teisėsaugos institucijų pareigūnais, padėjo atskleisti nusikalstamą veiką ar suteikė kitos vertingos informacijos teisingumo ir teisėsaugos institucijų pareigūnams. ^s-0852c77ce82dc3eb4459a047
+2. Šio įstatymo 4 straipsnio 1 punkte nurodytiems asmenims, išskyrus ekspertus, specialistus ir gynėjus (atstovus), apsaugos nuo nusikalstamo poveikio priemonės taikomos, jeigu šie asmenys aktyviai bendradarbiauja su teisingumo ir teisėsaugos institucijų pareigūnais, padėjo atskleisti nusikalstamą veiką ar suteikė kitos vertingos informacijos teisingumo ir teisėsaugos institucijų pareigūnams. ^s-0852c77ce82dc3eb4459a047
 
 
 
@@ -268,22 +268,22 @@ APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONIŲ SKYRIMAS IR TAIKYMAS
 ### 15 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių taikymas ^s-e1e9fef86187fdd0fa362817
 
 
-1. Šio įstatymo [[#^s-b147f12b27f12ac83c634569|4 straipsnio 1 punkte]] nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos ikiteisminio tyrimo įstaigos vadovo ar teritorinės prokuratūros, Lietuvos Respublikos generalinės prokuratūros padalinio vadovo motyvuotu teikimu. Bendrą sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos Respublikos generalinis prokuroras ir Lietuvos policijos generalinis komisaras ar Kalėjimų departamento direktorius. ^s-33f876132b7b8e4d6cb7057f
+1. Šio įstatymo 4 straipsnio 1 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos ikiteisminio tyrimo įstaigos vadovo ar teritorinės prokuratūros, Lietuvos Respublikos generalinės prokuratūros padalinio vadovo motyvuotu teikimu. Bendrą sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos Respublikos generalinis prokuroras ir Lietuvos policijos generalinis komisaras ar Kalėjimų departamento direktorius. ^s-33f876132b7b8e4d6cb7057f
 
 
-2. Šio įstatymo [[#^s-da15e76ebe6e479b059ea94c|4 straipsnio 2 punkte]] nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos jų vadovų motyvuotu teikimu. Bendrą sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos Respublikos generalinis prokuroras ir Lietuvos policijos generalinis komisaras. ^s-26e20dfe7f33ee118340e645
+2. Šio įstatymo 4 straipsnio 2 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos jų vadovų motyvuotu teikimu. Bendrą sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos Respublikos generalinis prokuroras ir Lietuvos policijos generalinis komisaras. ^s-26e20dfe7f33ee118340e645
 
 
-3. Šio įstatymo [[#^s-5b632d99c65182a5817558cd|4 straipsnio 3 punkte]] nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos policijos operatyvinės veiklos subjekto ar operatyvinės veiklos subjekto pagrindinės institucijos, išskyrus Policijos departamentą, vadovo motyvuotu teikimu. Sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos policijos generalinis komisaras arba Kalėjimų departamento direktorius. ^s-3c0ecf46288b4e79d5ee7ce2
+3. Šio įstatymo 4 straipsnio 3 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos policijos operatyvinės veiklos subjekto ar operatyvinės veiklos subjekto pagrindinės institucijos, išskyrus Policijos departamentą, vadovo motyvuotu teikimu. Sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima Lietuvos policijos generalinis komisaras arba Kalėjimų departamento direktorius. ^s-3c0ecf46288b4e79d5ee7ce2
 
 
-4. Šio įstatymo [[#^s-f10d3f67d5d22bef49d18f02|4 straipsnio 4 punkte]] nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos atitinkamai šio straipsnio 1–[[#^s-3c0ecf46288b4e79d5ee7ce2|3 dalyse]] nurodytų pareigūnų motyvuotu teikimu. Sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima šio straipsnio 1–[[#^s-3c0ecf46288b4e79d5ee7ce2|3 dalyse]] nurodyti pareigūnai. ^s-8f36b0c836a0d3d0972b324a
+4. Šio įstatymo 4 straipsnio 4 punkte nurodytiems asmenims apsaugos nuo nusikalstamo poveikio priemonės gali būti taikomos atitinkamai šio straipsnio [[#^s-fb80bd7846cae683735a7aa6|1]]–3 dalyse nurodytų pareigūnų motyvuotu teikimu. Sprendimą dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo ne vėliau kaip per 5 darbo dienas nuo motyvuoto teikimo gavimo dienos priima šio straipsnio [[#^s-33f876132b7b8e4d6cb7057f|1]]–[[#^s-3c0ecf46288b4e79d5ee7ce2|3]] dalyse nurodyti pareigūnai. ^s-8f36b0c836a0d3d0972b324a
 
 
 5. Konkrečių apsaugos nuo nusikalstamo poveikio priemonių taikymo tvarką ir sąlygas nustato Apsaugos nuo nusikalstamo poveikio nuostatai. Šiuos nuostatus tvirtina Lietuvos policijos generalinis komisaras, Kalėjimų departamento direktorius ir Lietuvos Respublikos generalinis prokuroras. ^s-b3e72b1f7b3556b7d33bed89
 
 
-6. Už motyvuoto teikimo skirti apsaugos nuo nusikalstamo poveikio priemones teisėtumą ir pagrįstumą, už apsaugos nuo nusikalstamo poveikio priemones įgyvendinančių institucijų informavimą laiku apie ikiteisminio tyrimo eigą, saugomo asmens procesinę padėtį ir jos pasikeitimus, taip pat kitos informacijos, turinčios reikšmės apsaugos nuo nusikalstamo poveikio priemonių taikymui ar nutraukimui, pateikimą atsako šio straipsnio 1–[[#^s-3c0ecf46288b4e79d5ee7ce2|3 dalyse]] nurodyti pareigūnai. ^s-43a22877f67480a70de22ed5
+6. Už motyvuoto teikimo skirti apsaugos nuo nusikalstamo poveikio priemones teisėtumą ir pagrįstumą, už apsaugos nuo nusikalstamo poveikio priemones įgyvendinančių institucijų informavimą laiku apie ikiteisminio tyrimo eigą, saugomo asmens procesinę padėtį ir jos pasikeitimus, taip pat kitos informacijos, turinčios reikšmės apsaugos nuo nusikalstamo poveikio priemonių taikymui ar nutraukimui, pateikimą atsako šio straipsnio [[#^s-33f876132b7b8e4d6cb7057f|1]]–[[#^s-3c0ecf46288b4e79d5ee7ce2|3]] dalyse nurodyti pareigūnai. ^s-43a22877f67480a70de22ed5
 
 
 7. Asmuo, kuriam gali būti taikomos apsaugos nuo nusikalstamo poveikio priemonės, privalo būti nedelsiant pasirašytinai supažindinamas su sprendimu dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo. ^s-34558b6bcb5ef3d6d77ed393
@@ -294,7 +294,7 @@ APSAUGOS NUO NUSIKALSTAMO POVEIKIO PRIEMONIŲ SKYRIMAS IR TAIKYMAS
 ### 16 straipsnis. Apsaugos nuo nusikalstamo poveikio priemonių skyrimo tvarka ^s-be185172a5d9db6d8fe4934c
 
 
-1. Vieną arba kelias šio įstatymo [[#^s-653e73b2e9bbba523060dd54|7 straipsnyje]] nurodytas apsaugos nuo nusikalstamo poveikio priemones, atsižvelgdami į objektyvias aplinkybes, ne vėliau kaip per 3 darbo dienas nuo [[#^s-e1e9fef86187fdd0fa362817|15 straipsnio]] 1–4 dalyse numatyto sprendimo dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo priėmimo dienos, o išimties atvejais – nedelsdami parenka ir paskiria atitinkamai Lietuvos policijos generalinis komisaras ar Kalėjimų departamento direktorius. ^s-1d29fc720c5e61cd4bb92bb1
+1. Vieną arba kelias šio įstatymo [[#^s-653e73b2e9bbba523060dd54|7 straipsnyje]] nurodytas apsaugos nuo nusikalstamo poveikio priemones, atsižvelgdami į objektyvias aplinkybes, ne vėliau kaip per 3 darbo dienas nuo [[#^s-e1e9fef86187fdd0fa362817|15 straipsnio]] [[#^s-33f876132b7b8e4d6cb7057f|1]]–[[#^s-8f36b0c836a0d3d0972b324a|4]] dalyse numatyto sprendimo dėl apsaugos nuo nusikalstamo poveikio priemonių taikymo priėmimo dienos, o išimties atvejais – nedelsdami parenka ir paskiria atitinkamai Lietuvos policijos generalinis komisaras ar Kalėjimų departamento direktorius. ^s-1d29fc720c5e61cd4bb92bb1
 
 
 2. Draudžiama skirti tokią (tokias) apsaugos nuo nusikalstamo poveikio priemonę (priemones), su kuria (kuriomis) nesutinka saugotinas asmuo, taip pat tokią (tokias) apsaugos priemonę (priemones), su kuria (kuriomis) sutinka saugotinas asmuo, bet jos neatitinka realios grėsmės. ^s-23d15076707d4fd16bf22a00
@@ -385,7 +385,7 @@ PSICHINĖS PRIEVARTOS, SPECIALIOS JĖGOS, ŠAUNAMOJO GINKLO AR SPROGSTAMŲJŲ ME
 ### 21 straipsnis. Psichinės prievartos panaudojimo pagrindai ^s-b12f13d26fe4b6e0075b2e05
 
 
-Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas turi teisę panaudoti psichinę prievartą, jei yra šio įstatymo 22 ir [[#^s-0345408e973bdad50375dacf|23 straipsniuose]] nurodyti pagrindai.
+Policijos, Kalėjimų departamento ar jam pavaldžios įstaigos pareigūnas turi teisę panaudoti psichinę prievartą, jei yra šio įstatymo [[#^s-18be171ae3ee46b4012377e0|22]] ir [[#^s-0345408e973bdad50375dacf|23]] straipsniuose nurodyti pagrindai.
 
 
 

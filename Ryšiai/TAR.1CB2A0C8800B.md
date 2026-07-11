@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl tarnybos Lietuvos Respubliko
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.037EDB5B8BF1|Lietuvos Respublikos valstybės kontrolės įstatymo, Teismų įstatymo, Konstitucinio Teismo įstatymo, Seimo kontrolierių įstatymo, Seimo narių darbo sąlygų įstatymo, Prokuratūros įstatymo, Tarnybos Lietuvos Respublikos prokuratūroje statuto, Moterų ir vyrų lygių galimybių įstatymo, Vaiko teisių apsaugos kontrolieriaus įstatymo pakeitimo ir papildymo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės kontrolės įstatymo, Teismų įstatymo, Konstitucinio Teismo įstatymo, Seimo kontrolierių įstatymo, Seimo narių darbo sąlygų įstatymo, Prokuratūros įstatymo, Tarnybos Lietuvos Respublikos prokuratūroje statuto, Moterų ir vyrų lygių galimybių įstatymo, Vaiko teisių apsaugos kontrolieriaus įstatymo pakeitimo ir papildymo įstatymo
+- [[latest/TAR.037EDB5B8BF1|Lietuvos Respublikos valstybės kontrolės įstatymo, Teismų įstatymo, Konstitucinio Teismo įstatymo, Seimo kontrolierių įstatymo, Seimo narių darbo sąlygų įstatymo, Prokuratūros įstatymo, Tarnybos Lietuvos Respublikos prokuratūroje statuto, Moterų ir vyrų lygių galimybių įstatymo, Vaiko teisių apsaugos kontrolieriaus įstatymo pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos valstybės kontrolės įstatymo, Teismų įstatymo, Konstitucinio Teismo įstatymo, Seimo kontrolierių įstatymo, Seimo narių darbo sąlygų įstatymo, Prokuratūros įstatymo, Tarnybos Lietuvos Respublikos prokuratūroje statuto, Moterų ir vyrų lygių galimybių įstatymo, Vaiko teisių apsaugos kontrolieriaus įstatymo pakeitimo ir papildymo įstatymo
 
 ## Šį įstatymą cituoja
 

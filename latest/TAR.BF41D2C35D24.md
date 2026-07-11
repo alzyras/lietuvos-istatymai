@@ -378,7 +378,7 @@ Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. [[latest/
 
 
 
-8. Geležinkelių pervažų įrengimą ir priežiūrą reglamentuoja Geležinkelio transporto kodeksas. ^s-c9bd867bc6780b691e3d5aac
+8. Geležinkelių pervažų įrengimą ir priežiūrą reglamentuoja [Geležinkelio transporto kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.179AB2FCFD5D). ^s-c9bd867bc6780b691e3d5aac
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. [[latest/TAR.16AFF030C2A3|1111010ISTA0XI-1634]]
 
@@ -552,7 +552,7 @@ Nr. XII-1083, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10749
 3. Jeigu nutiestas ar tiesiamas kelias kai kuriuose ruožuose (iškasose, pylimuose) netelpa nustatyto pločio juostoje, tai šios juostos ribos nustatomos ne arčiau kaip po metrą nuo pylimo pado, iškasos ar kelio griovių išorinių kraštų. ^s-f98a623f739df39d3c6c6e5d
 
 
-4. Jeigu urbanizuotose teritorijose ir (ar) miestų ir kaimų gyvenamosiose vietovėse esančių kelių, įrašytų į valstybinės reikšmės kelių sąrašą ar vietinės reikšmės kelių sąrašą, ar jų ruožų kelio juostos dėl užstatymo ar kitų priežasčių neatitinka šio straipsnio 1 ir [[#^s-8f278a2f2a23eacf1ca5cf49|2 dalyse]] nurodyto minimalaus pločio ir nėra galimybės jų paplatinti, šios kelio juostos susisiekimo ministro ar jo įgaliotos institucijos nustatyta tvarka nustatomos siauresnės (faktiškai esamo pločio) su visais tame kelyje ar jo ruože esančiais kelio elementais. Ši nuostata taikoma tik tiems kelių ruožams, kurių užimamos žemės daiktinės teisės nėra užregistruotos Nekilnojamojo turto registre. ^s-be6fb70e329fb5b82e62abc9
+4. Jeigu urbanizuotose teritorijose ir (ar) miestų ir kaimų gyvenamosiose vietovėse esančių kelių, įrašytų į valstybinės reikšmės kelių sąrašą ar vietinės reikšmės kelių sąrašą, ar jų ruožų kelio juostos dėl užstatymo ar kitų priežasčių neatitinka šio straipsnio [[#^s-823e0d328c426b302c58656d|1]] ir [[#^s-8f278a2f2a23eacf1ca5cf49|2]] dalyse nurodyto minimalaus pločio ir nėra galimybės jų paplatinti, šios kelio juostos susisiekimo ministro ar jo įgaliotos institucijos nustatyta tvarka nustatomos siauresnės (faktiškai esamo pločio) su visais tame kelyje ar jo ruože esančiais kelio elementais. Ši nuostata taikoma tik tiems kelių ruožams, kurių užimamos žemės daiktinės teisės nėra užregistruotos Nekilnojamojo turto registre. ^s-be6fb70e329fb5b82e62abc9
 Papildyta straipsnio dalimi:
 Nr. XIV-1890, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08611
 Straipsnio dalies pakeitimai:
@@ -706,7 +706,7 @@ Nr. XV-376, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12031
 
 
 
-4. Dėl šio straipsnio 1 ir [[#^s-0d68dea613562f21e9d95dda|2 dalyse]] nurodytų ribojimų atsiradę nuostoliai eismo dalyviams neatlyginami. ^s-a3518c4322614fbf86fc56ad
+4. Dėl šio straipsnio [[#^s-1581119e990e56746da7f65e|1]] ir [[#^s-0d68dea613562f21e9d95dda|2]] dalyse nurodytų ribojimų atsiradę nuostoliai eismo dalyviams neatlyginami. ^s-a3518c4322614fbf86fc56ad
 
 
 
@@ -1615,10 +1615,10 @@ Lietuvos Respublikos kelių įstatymo
 
 
 
-1. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1242. ^s-1a61eae97186c26850b63122
+1. 1996 m. liepos 25 d. Tarybos direktyva 96/53/EB, nustatanti tam tikrų Bendrijoje nacionaliniam ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausius leistinus matmenis ir tarptautiniam vežimui naudojamų kelių transporto priemonių didžiausią leistiną masę, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/1242](https://eur-lex.europa.eu/eli/reg/2019/1242/oj). ^s-1a61eae97186c26850b63122
 
 
-2. 1999 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra infrastruktūra su paskutiniais pakeitimais, padarytais 2022 m. vasario 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/362. ^s-80a7611adede78fd5bf3ef54
+2. 1999 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra infrastruktūra su paskutiniais pakeitimais, padarytais 2022 m. vasario 24 d. Europos Parlamento ir Tarybos [direktyva (ES) 2022/362](https://eur-lex.europa.eu/eli/dir/2022/362/oj). ^s-80a7611adede78fd5bf3ef54
 
 
 ____________________
@@ -1655,12 +1655,12 @@ Nr. XI-1634, 2011-11-08, Žin., 2011, Nr. 141-6615 (2011-11-22), i. k. [[latest/
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-899, 2014-05-15, paskelbta TAR 2014-05-27, i. k. 2014-05728
-Lietuvos Respublikos kelių įstatymo Nr. I-891 1, 2, 3, 4, 5, 7, 10, 17, 18, 20, [[#^s-5aeb98acb4d297b3db746694|21 straipsnių]] pakeitimo ir Įstatymo papildymo priedu įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-09cfbe9e556df0368960cb8f|1]], [[#^s-4ca5e7acd6e15b92d3d4f353|2]], [[#^s-8cddfb7ee9c48e785333929e|3]], [[#^s-451302605afd2c5ef8606fcf|4]], [[#^s-ad74f2a0b35c5579e8af168d|5]], [[#^s-3e993a2c6c3eb9f4cd8b1e7e|7]], [[#^s-877c81ea14a58d924637015f|10]], [[#^s-6023a338c7f0dfb096c9cd74|17]], [[#^s-07a29c9e34b61243b5c334ee|18]], [[#^s-9abae7c5dbd8b36b6804af84|20]], [[#^s-5aeb98acb4d297b3db746694|21]] straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1083, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10749
-Lietuvos Respublikos kelių įstatymo Nr. I-891 11 ir [[#^s-6760734c4f4eb708f80b0a1b|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-0addb2d7917d34e0a70c8017|11]] ir [[#^s-6760734c4f4eb708f80b0a1b|12]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1670,12 +1670,12 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-9abae7c5dbd8b36b6804af84|2
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2364, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14734
-Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir [[#^s-8cddfb7ee9c48e785333929e|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-4ca5e7acd6e15b92d3d4f353|2]] ir [[#^s-8cddfb7ee9c48e785333929e|3]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-474, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10838
-Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5 ir [[#^s-877c81ea14a58d924637015f|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-451302605afd2c5ef8606fcf|4]], [[#^s-ad74f2a0b35c5579e8af168d|5]] ir [[#^s-877c81ea14a58d924637015f|10]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1690,17 +1690,17 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-a75a7c59ac56e8f67041b319|1
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2241, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10365
-Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir [[#^s-9abae7c5dbd8b36b6804af84|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-4ca5e7acd6e15b92d3d4f353|2]] ir [[#^s-9abae7c5dbd8b36b6804af84|20]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2179, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09959
-Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 12 ir [[#^s-d0dc743ba4e7fee2491e368f|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-4ca5e7acd6e15b92d3d4f353|2]], [[#^s-6760734c4f4eb708f80b0a1b|12]] ir [[#^s-d0dc743ba4e7fee2491e368f|13]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3087, 2020-06-23, paskelbta TAR 2020-06-25, i. k. 2020-13964
-Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 18 ir [[#^s-9abae7c5dbd8b36b6804af84|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-451302605afd2c5ef8606fcf|4]], [[#^s-ad74f2a0b35c5579e8af168d|5]], [[#^s-3e993a2c6c3eb9f4cd8b1e7e|7]], [[#^s-8ba51133e6cb739377973983|9]], [[#^s-877c81ea14a58d924637015f|10]], [[#^s-07a29c9e34b61243b5c334ee|18]] ir [[#^s-9abae7c5dbd8b36b6804af84|20]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1720,22 +1720,22 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-6023a338c7f0dfb096c9cd74|1
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-661, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25026
-Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir [[#^s-9abae7c5dbd8b36b6804af84|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-451302605afd2c5ef8606fcf|4]], [[#^s-ad74f2a0b35c5579e8af168d|5]], [[#^s-3e993a2c6c3eb9f4cd8b1e7e|7]], [[#^s-8ba51133e6cb739377973983|9]], [[#^s-877c81ea14a58d924637015f|10]], [[#^s-d0dc743ba4e7fee2491e368f|13]], [[#^s-07a29c9e34b61243b5c334ee|18]] ir [[#^s-9abae7c5dbd8b36b6804af84|20]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1327, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15655
-Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir [[#^s-9abae7c5dbd8b36b6804af84|20 straipsnių]] pakeitimo [[latest/2af5a560537a11ec862fdcbc8b3e3e05|įstatymo Nr. XIV-661]] [[#^s-ad74f2a0b35c5579e8af168d|5 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-451302605afd2c5ef8606fcf|4]], [[#^s-ad74f2a0b35c5579e8af168d|5]], [[#^s-3e993a2c6c3eb9f4cd8b1e7e|7]], [[#^s-8ba51133e6cb739377973983|9]], [[#^s-877c81ea14a58d924637015f|10]], [[#^s-d0dc743ba4e7fee2491e368f|13]], [[#^s-07a29c9e34b61243b5c334ee|18]] ir [[#^s-9abae7c5dbd8b36b6804af84|20]] straipsnių pakeitimo [[latest/2af5a560537a11ec862fdcbc8b3e3e05|įstatymo Nr. XIV-661]] [[#^s-ad74f2a0b35c5579e8af168d|5 straipsnio]] pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1703, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27292
-Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-6023a338c7f0dfb096c9cd74|17 straipsnio]] pakeitimo įstatymo Nr. XIII-3421 [[#^s-4ca5e7acd6e15b92d3d4f353|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-6023a338c7f0dfb096c9cd74|17 straipsnio]] pakeitimo [įstatymo Nr. XIII-3421](https://e-tar.lt/portal/lt/legalAct/00ca095029a711eb932eb1ed7f923910) [[#^s-4ca5e7acd6e15b92d3d4f353|2 straipsnio]] pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1780, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27593
-Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir [[#^s-9abae7c5dbd8b36b6804af84|20 straipsnių]] pakeitimo [[latest/2af5a560537a11ec862fdcbc8b3e3e05|įstatymo Nr. XIV-661]] [[#^s-82e74c58c61e6f14df4beb90|8 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-451302605afd2c5ef8606fcf|4]], [[#^s-ad74f2a0b35c5579e8af168d|5]], [[#^s-3e993a2c6c3eb9f4cd8b1e7e|7]], [[#^s-8ba51133e6cb739377973983|9]], [[#^s-877c81ea14a58d924637015f|10]], [[#^s-d0dc743ba4e7fee2491e368f|13]], [[#^s-07a29c9e34b61243b5c334ee|18]] ir [[#^s-9abae7c5dbd8b36b6804af84|20]] straipsnių pakeitimo [[latest/2af5a560537a11ec862fdcbc8b3e3e05|įstatymo Nr. XIV-661]] [[#^s-82e74c58c61e6f14df4beb90|8 straipsnio]] pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1750,7 +1750,7 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-877c81ea14a58d924637015f|1
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2201, 2023-10-26, paskelbta TAR 2023-11-07, i. k. 2023-21641
-Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir [[#^s-ad74f2a0b35c5579e8af168d|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-4ca5e7acd6e15b92d3d4f353|2]] ir [[#^s-ad74f2a0b35c5579e8af168d|5]] straipsnių pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1765,7 +1765,7 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-0addb2d7917d34e0a70c8017|1
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2313, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24181
-Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-6023a338c7f0dfb096c9cd74|17 straipsnio]] pakeitimo įstatymo Nr. XIII-3421 [[#^s-4ca5e7acd6e15b92d3d4f353|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-6023a338c7f0dfb096c9cd74|17 straipsnio]] pakeitimo [įstatymo Nr. XIII-3421](https://e-tar.lt/portal/lt/legalAct/00ca095029a711eb932eb1ed7f923910) [[#^s-4ca5e7acd6e15b92d3d4f353|2 straipsnio]] pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1780,44 +1780,44 @@ Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-9abae7c5dbd8b36b6804af84|2
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3153, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20211
-Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir [[#^s-d0dc743ba4e7fee2491e368f|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-4ca5e7acd6e15b92d3d4f353|2]] ir [[#^s-d0dc743ba4e7fee2491e368f|13]] straipsnių pakeitimo įstatymas
 
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-34, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22106
-Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-6023a338c7f0dfb096c9cd74|17 straipsnio]] pakeitimo įstatymo Nr. XIII-3421 [[#^s-4ca5e7acd6e15b92d3d4f353|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-6023a338c7f0dfb096c9cd74|17 straipsnio]] pakeitimo [įstatymo Nr. XIII-3421](https://e-tar.lt/portal/lt/legalAct/00ca095029a711eb932eb1ed7f923910) [[#^s-4ca5e7acd6e15b92d3d4f353|2 straipsnio]] pakeitimo įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-376, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12031
-Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 4, 5, 7, 10, 13, 16, 18 ir [[#^s-9abae7c5dbd8b36b6804af84|20 straipsnių]], trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-4ca5e7acd6e15b92d3d4f353|2]], [[#^s-451302605afd2c5ef8606fcf|4]], [[#^s-ad74f2a0b35c5579e8af168d|5]], [[#^s-3e993a2c6c3eb9f4cd8b1e7e|7]], [[#^s-877c81ea14a58d924637015f|10]], [[#^s-d0dc743ba4e7fee2491e368f|13]], [[#^s-a75a7c59ac56e8f67041b319|16]], [[#^s-07a29c9e34b61243b5c334ee|18]] ir [[#^s-9abae7c5dbd8b36b6804af84|20]] straipsnių, trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-112, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00691
-Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir [[#^s-9abae7c5dbd8b36b6804af84|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-8cddfb7ee9c48e785333929e|3]], [[#^s-451302605afd2c5ef8606fcf|4]], [[#^s-8ba51133e6cb739377973983|9]] ir [[#^s-9abae7c5dbd8b36b6804af84|20]] straipsnių pakeitimo įstatymas
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-377, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12032
-Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir [[#^s-9abae7c5dbd8b36b6804af84|20 straipsnių]] pakeitimo [[latest/8540d772d80511efa5ddd96c482819f5|įstatymo Nr. XV-112]] 3 ir [[#^s-451302605afd2c5ef8606fcf|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-8cddfb7ee9c48e785333929e|3]], [[#^s-451302605afd2c5ef8606fcf|4]], [[#^s-8ba51133e6cb739377973983|9]] ir [[#^s-9abae7c5dbd8b36b6804af84|20]] straipsnių pakeitimo [[latest/8540d772d80511efa5ddd96c482819f5|įstatymo Nr. XV-112]] [[#^s-8cddfb7ee9c48e785333929e|3]] ir [[#^s-451302605afd2c5ef8606fcf|4]] straipsnių pakeitimo įstatymas
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-635, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21468
-Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-6023a338c7f0dfb096c9cd74|17 straipsnio]] pakeitimo įstatymo Nr. XIII-3421 [[#^s-4ca5e7acd6e15b92d3d4f353|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-6023a338c7f0dfb096c9cd74|17 straipsnio]] pakeitimo [įstatymo Nr. XIII-3421](https://e-tar.lt/portal/lt/legalAct/00ca095029a711eb932eb1ed7f923910) [[#^s-4ca5e7acd6e15b92d3d4f353|2 straipsnio]] pakeitimo įstatymas
 
 36.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-638, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21472
-Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 4, 5, 7, 10, 13, 16, 18 ir [[#^s-9abae7c5dbd8b36b6804af84|20 straipsnių]], trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais [[latest/ef135c2055cf11f0b070ee7f1ceefc75|įstatymo Nr. XV-376]] [[#^s-d0dc743ba4e7fee2491e368f|13 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-4ca5e7acd6e15b92d3d4f353|2]], [[#^s-451302605afd2c5ef8606fcf|4]], [[#^s-ad74f2a0b35c5579e8af168d|5]], [[#^s-3e993a2c6c3eb9f4cd8b1e7e|7]], [[#^s-877c81ea14a58d924637015f|10]], [[#^s-d0dc743ba4e7fee2491e368f|13]], [[#^s-a75a7c59ac56e8f67041b319|16]], [[#^s-07a29c9e34b61243b5c334ee|18]] ir [[#^s-9abae7c5dbd8b36b6804af84|20]] straipsnių, trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais [[latest/ef135c2055cf11f0b070ee7f1ceefc75|įstatymo Nr. XV-376]] [[#^s-d0dc743ba4e7fee2491e368f|13 straipsnio]] pakeitimo įstatymas
 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-637, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21471
-Lietuvos Respublikos kelių įstatymo Nr. I-891 3, 4, 9 ir [[#^s-9abae7c5dbd8b36b6804af84|20 straipsnių]] pakeitimo [[latest/8540d772d80511efa5ddd96c482819f5|įstatymo Nr. XV-112]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-8cddfb7ee9c48e785333929e|3]], [[#^s-451302605afd2c5ef8606fcf|4]], [[#^s-8ba51133e6cb739377973983|9]] ir [[#^s-9abae7c5dbd8b36b6804af84|20]] straipsnių pakeitimo [[latest/8540d772d80511efa5ddd96c482819f5|įstatymo Nr. XV-112]] pakeitimo įstatymas
 
 38.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-834, 2026-04-21, paskelbta TAR 2026-04-28, i. k. 2026-06949
-Lietuvos Respublikos kelių įstatymo Nr. I-891 4 ir [[#^s-877c81ea14a58d924637015f|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių įstatymo Nr. I-891 [[#^s-451302605afd2c5ef8606fcf|4]] ir [[#^s-877c81ea14a58d924637015f|10]] straipsnių pakeitimo įstatymas

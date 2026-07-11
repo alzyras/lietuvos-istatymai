@@ -55,7 +55,7 @@ Vilnius
 „3. Savivaldybės ir apskrities administracinių ginčų komisijos nesprendžia:
 
 
-1) [[latest/TAR.67B5099C5848#^s-39c9f5005208c00cfce0baa0|Administracinių bylų teisenos įstatymo 16 straipsnyje]], 18 straipsnio 2 ir 3 dalyse, 19 straipsnyje ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų; ^s-fe7b809a2b947706e8403fbb
+1) [[latest/TAR.67B5099C5848#^s-d7a61be4c157c40c46fcfbf2|Administracinių bylų teisenos įstatymo 16 straipsnyje, 18 straipsnio]] [[latest/TAR.67B5099C5848#^s-a19e53e531224f52e6265358|2]] ir [[latest/TAR.67B5099C5848|3]] dalyse, 19 straipsnyje ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų; ^s-fe7b809a2b947706e8403fbb
 
 
 2) administracinių ginčų, kuriems nagrinėti įstatymai numato kitokią tvarką.“ ^s-7b7841706eac2eeb5dca7df0
@@ -71,7 +71,7 @@ Vilnius
 „3. Vyriausioji administracinių ginčų komisija nesprendžia:
 
 
-1) [[latest/TAR.67B5099C5848#^s-39c9f5005208c00cfce0baa0|Administracinių bylų teisenos įstatymo 16 straipsnyje]], 18 straipsnyje, 19 straipsnio 2 ir 3 dalyse ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų; ^s-bf77a06093faa28c7c721c3d
+1) [[latest/TAR.67B5099C5848#^s-e87cc1799e1a723ab0c8765d|Administracinių bylų teisenos įstatymo 16 straipsnyje, 18 straipsnyje, 19 straipsnio]] [[latest/TAR.67B5099C5848#^s-7824410e9d37e212cd7c0c56|2]] ir [[latest/TAR.67B5099C5848|3]] dalyse ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų; ^s-bf77a06093faa28c7c721c3d
 
 
 2) administracinių ginčų, kuriems nagrinėti įstatymai numato kitokią tvarką.“ ^s-6b912a926e01cac199d4ed47

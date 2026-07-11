@@ -65,7 +65,7 @@ reformos laikotarpiu  iki Lietuvos Respublikos vietos
 savivaldos įstatymo
 įsigaliojimo nustatyti  kitą   negu  nustato
 Lietuvos
-Respublikos   vietos savivaldos pagrindų  įstatymas rajonų
+Respublikos   [vietos savivaldos pagrindų  įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.55DFA8DB5C3E) rajonų
 valdybų žemės  ūkio
 skyrių pavaldumo ir  skyrių vadovų  skyrimo  bei
 atleidimo  iš
@@ -84,7 +84,7 @@ ministerija rajono valdybos teikimu.
 1994.11.08.; Žin., 1994, Nr.89-1723
 
      2. Lietuvos
-Respublikos vietos savivaldos pagrindų įstatymo
+Respublikos [vietos savivaldos pagrindų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.55DFA8DB5C3E)
 (Žin., 1990, Nr.7-170) 18 straipsnio 3 dalyje po žodžio
 "valdyba"
 įrašyti žodžius

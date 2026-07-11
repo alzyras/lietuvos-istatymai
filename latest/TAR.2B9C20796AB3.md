@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos 25 ir 26 straipsnių pakeitimų ratifikavimas ^s-cdd5a382e2dc0698ec96a44d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2010 m. spalio 5 d. dekretą Nr. 1K-500, ratifikuoja 1992 m. Tarpvalstybinių vandentakių ir tarptautinių ežerų apsaugos ir naudojimo konvencijos 25 ir 26 straipsnių pakeitimus, priimtus 2003 m. lapkričio 28 d. Madride.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2010 m. spalio 5 d. dekretą Nr. 1K-500](https://e-tar.lt/portal/lt/legalAct/TAR.980010A6FDA7), ratifikuoja 1992 m. Tarpvalstybinių vandentakių ir tarptautinių ežerų apsaugos ir naudojimo konvencijos 25 ir 26 straipsnių pakeitimus, priimtus 2003 m. lapkričio 28 d. Madride.
 
 
 

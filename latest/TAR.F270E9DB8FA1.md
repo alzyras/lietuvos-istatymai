@@ -123,7 +123,7 @@ Pirmojo ir antrojo laipsnių valstybinės pensijos mokamos, nepaisant jas gaunan
 ### 7 straipsnis. 12 straipsnio pakeitimas ^s-8f078d423fcf6a5ebd764c2a
 
 
-12 straipsnio 1 dalies 1 ir [[#^s-8d1cfd4126a6ca5eb6c4c3e9|2 punktuose]] vietoj žodžių „valstybinės socialinio draudimo bazinės pensijos“ įrašyti žodžius „valstybinių pensijų bazės“, 2 dalyje vietoj žodžių „valstybinių socialinio draudimo bazinių pensijų“ įrašyti žodžius „valstybinių pensijų bazių“ ir šį straipsnį išdėstyti taip:
+12 straipsnio 1 dalies 1 ir 2 punktuose vietoj žodžių „valstybinės socialinio draudimo bazinės pensijos“ įrašyti žodžius „valstybinių pensijų bazės“, 2 dalyje vietoj žodžių „valstybinių socialinio draudimo bazinių pensijų“ įrašyti žodžius „valstybinių pensijų bazių“ ir šį straipsnį išdėstyti taip:
 
 
 „12 straipsnis.     Valstybinės pensijos nukentėjusiems dėl 1991 metų sausio 11–13 dienomis vykdytos agresijos ir po to buvusių įvykių asmenims ir jų šeimos nariams
@@ -145,7 +145,7 @@ Nukentėjusiųjų asmenų valstybinė pensija skiriama asmenų, žuvusių dėl 1
 ### 8 straipsnis. 13 straipsnio pakeitimas ^s-e82dcf889915ab6923216522
 
 
-13 straipsnio 1 dalyje, 2 dalies 1 ir [[#^s-d27f5b169075ae226090a94e|2 punktuose]] bei 3 dalyje vietoj žodžių „valstybinės socialinio draudimo bazinės pensijos“ įrašyti žodžius „valstybinių pensijų bazės“ ir šį straipsnį išdėstyti taip:
+13 straipsnio 1 dalyje, 2 dalies 1 ir 2 punktuose bei 3 dalyje vietoj žodžių „valstybinės socialinio draudimo bazinės pensijos“ įrašyti žodžius „valstybinių pensijų bazės“ ir šį straipsnį išdėstyti taip:
 „13 straipsnis. Nukentėjusiųjų asmenų, tapusių invalidais, valstybinės pensijos
 
 
@@ -201,7 +201,7 @@ Nukentėjusiųjų asmenų valstybinė našlių ir našlaičių pensija taip pat 
 4) asmeniui žuvus ar mirus būtinosios karinės tarnybos ar karinių mokymų sovietinėje armijoje (1945 07 22–1991 12 31) metu arba vėliau mirus dėl ligų, susijusių su karine tarnyba; ^s-09898c378b962fe436ccf2a2
 
 
-5) mirus šio įstatymo 11 straipsnio pirmosios dalies 2, 3 ir [[#^s-9524279172a36bc5b13f44d5|5 punktuose]] nurodytiems asmenims ir 11 straipsnio pirmosios dalies 4 ir 7 punktuose nurodytiems asmenims, kurie nustatyta tvarka iki mirties buvo pripažinti invalidais. ^s-9524279172a36bc5b13f44d5
+5) mirus šio įstatymo 11 straipsnio pirmosios dalies 2, 3 ir 5 punktuose nurodytiems asmenims ir 11 straipsnio pirmosios dalies 4 ir 7 punktuose nurodytiems asmenims, kurie nustatyta tvarka iki mirties buvo pripažinti invalidais. ^s-9524279172a36bc5b13f44d5
 
 
 Šio straipsnio trečiojoje dalyje nurodytų asmenų sutuoktiniams ir vaikams nukentėjusiųjų asmenų valstybinė našlių ir našlaičių pensija mokama tokiomis pačiomis sąlygomis ir gavėjui priklausiusios nukentėjusiųjų asmenų valstybinės pensijos dalimis, kaip nurodyta [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] straipsniuose, reguliuojančiuose valstybines socialinio draudimo našlių ir našlaičių pensijas. Jei žuvusiam (mirusiam) asmeniui nebuvo paskirta nukentėjusiųjų asmenų valstybinė pensija, nustatant našlių ir našlaičių pensijos dydį laikoma, kad žuvusiam (mirusiam) asmeniui priklausė 1,5 valstybinių pensijų bazės.

@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-a276cb4863edae9f6ea1afbe
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2011 m. rugpjūčio 23 d. dekretą Nr. 1K-794, ratifikuoja Lietuvos Respublikos Vyriausybės ir Makedonijos Respublikos Vyriausybės susitarimą dėl investicijų skatinimo ir apsaugos, pasirašytą 2011 m. kovo 7 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2011 m. rugpjūčio 23 d. dekretą Nr. 1K-794](https://e-tar.lt/portal/lt/legalAct/TAR.525646F2F8CB), ratifikuoja Lietuvos Respublikos Vyriausybės ir Makedonijos Respublikos Vyriausybės susitarimą dėl investicijų skatinimo ir apsaugos, pasirašytą 2011 m. kovo 7 d. Vilniuje.
 
 
 

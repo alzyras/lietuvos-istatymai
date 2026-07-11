@@ -44,7 +44,7 @@ Vilnius
 1. 3 straipsnio 4 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip: ^s-55baeb02752e333408dcb6b5
 
 
-„4. Ribotos civilinės atsakomybės juridiniai asmenys, savo veikla siekiantys pelno, išskyrus šio straipsnio 3 dalyje nurodytus ūkio subjektus, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais arba tarptautiniais apskaitos standartais. Verslo apskaitos standartus rengia, tvirtina ir Teisės aktų registre skelbia Lietuvos Respublikos Vyriausybės įgaliota įstaiga. Verslo apskaitos standartų rengimo klausimais įstaigoje sudaromas kolegialus patariamasis organas – Apskaitos standartų komitetas. Verslo apskaitos standartai turi būti parengti vadovaujantis Europos Sąjungos teise ir tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės juridiniai asmenys, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansines ataskaitas arba kai Įmonių finansinės atskaitomybės įstatymas įpareigoja jas sudaryti.“
+„4. Ribotos civilinės atsakomybės juridiniai asmenys, savo veikla siekiantys pelno, išskyrus šio straipsnio 3 dalyje nurodytus ūkio subjektus, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais arba tarptautiniais apskaitos standartais. Verslo apskaitos standartus rengia, tvirtina ir Teisės aktų registre skelbia Lietuvos Respublikos Vyriausybės įgaliota įstaiga. Verslo apskaitos standartų rengimo klausimais įstaigoje sudaromas kolegialus patariamasis organas – Apskaitos standartų komitetas. Verslo apskaitos standartai turi būti parengti vadovaujantis Europos Sąjungos teise ir tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės juridiniai asmenys, tvarkydami apskaitą, vadovaujasi verslo apskaitos standartais tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansines ataskaitas arba kai [Įmonių finansinės atskaitomybės įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C) įpareigoja jas sudaryti.“
 
 
 2. 3 straipsnio 5 dalyje vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip: ^s-27e77425206c119ad17d8940
@@ -57,7 +57,7 @@ Vilnius
 ### 2 straipsnis. 7 straipsnio pakeitimas ^s-8f6009ec58692723017b9294
 
 
-7 straipsnio 1 ir [[#^s-4afdd24db9b65311d46080d4|2 dalyse]] vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir visą straipsnį išdėstyti taip:
+7 straipsnio 1 ir 2 dalyse vietoj žodžių „Valstybės žiniose“ įrašyti žodžius „Teisės aktų registre“ ir visą straipsnį išdėstyti taip:
 
 
 

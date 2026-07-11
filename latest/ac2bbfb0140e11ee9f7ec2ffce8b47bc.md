@@ -43,17 +43,17 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-f098088dc11d58bb9e676684
 
 
-Pakeisti 2 straipsnio 10 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.4334D941D3DC#^s-5ae3486635f6cabaac6d15db|2 straipsnio 10 dalį]] ir ją išdėstyti taip:
 
 
-„10. Pluoštinių kanapių produktų importo licencija (toliau – licencija) – Žemės ūkio agentūros prie Žemės ūkio ministerijos išduodamas dokumentas, kuriuo suteikiama teisė importuoti į Lietuvos Respubliką pluoštinių kanapių produktus, nurodytus Reglamento (ES) Nr. 1308/2013 189 straipsnio 1 dalies a, b ir c punktuose ir atitinkančius šiame straipsnyje nurodytus reikalavimus.“
+„10. Pluoštinių kanapių produktų importo licencija (toliau – licencija) – Žemės ūkio agentūros prie Žemės ūkio ministerijos išduodamas dokumentas, kuriuo suteikiama teisė importuoti į Lietuvos Respubliką pluoštinių kanapių produktus, nurodytus [Reglamento (ES) Nr. 1308/2013 189 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/1308/2013/art_189/par_1/oj) a, b ir c punktuose ir atitinkančius šiame straipsnyje nurodytus reikalavimus.“
 
 
 
 ### 2 straipsnis. 5 straipsnio pakeitimas ^s-bf58fc2d0e74858bf5ef4f58
 
 
-Papildyti 5 straipsnio 5 dalį ir ją išdėstyti taip:
+Papildyti [[latest/TAR.4334D941D3DC#^s-f6eeb25158d4b5fb9222e76f|5 straipsnio 5 dalį]] ir ją išdėstyti taip:
 
 
 „5. Žemės ūkio agentūra prie Žemės ūkio ministerijos (toliau – Agentūra), vadovaudamasi Licencijavimo taisyklėmis, licencijas išduoda, patikslina, įspėja apie galimą licencijos galiojimo sustabdymą, licencijų galiojimą sustabdo, licencijų galiojimą ar licencijų galiojimo sustabdymą panaikina ir prižiūri, kaip licencijų turėtojai laikosi licencijuojamos veiklos sąlygų.“

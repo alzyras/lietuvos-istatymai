@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-94a3fd3dec1ffa46909851b2
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. rugsėjo 30 d. dekretą Nr. 236, ratifikuoja Konvenciją dėl užimtumo politikos, priimtą 1964 m. liepos 9 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. rugsėjo 30 d. dekretą Nr. 236](https://e-tar.lt/portal/lt/legalAct/TAR.1187147A91D8), ratifikuoja Konvenciją dėl užimtumo politikos, priimtą 1964 m. liepos 9 d. Ženevoje.
 
 
 

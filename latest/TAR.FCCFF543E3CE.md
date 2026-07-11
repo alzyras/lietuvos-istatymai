@@ -58,25 +58,25 @@ Vilnius
 1. Pakeisti Įstatymo priedo 5 punktą ir jį išdėstyti taip: ^s-2d715f7d88c67d258651b194
 
 
-„5. 1987 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2658/87 dėl tarifų ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382) (su paskutiniais pakeitimais, padarytais 2006 m. birželio 29 d. Tarybos reglamentu (EB) Nr. 996/2006 (OL 2006 L 179, p. 26) (Įstatyme – Bendrojo muitų tarifo reglamentas).“
+„5. 1987 m. liepos 23 d. Tarybos [reglamentas (EEB) Nr. 2658/87](https://eur-lex.europa.eu/eli/reg/2658/87/oj) [dėl tarifų](https://e-tar.lt/portal/lt/legalAct/SAV.511075) ir statistinės nomenklatūros bei dėl Bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382) (su paskutiniais pakeitimais, padarytais 2006 m. birželio 29 d. Tarybos reglamentu (EB) Nr. 996/2006 (OL 2006 L 179, p. 26) (Įstatyme – Bendrojo muitų tarifo reglamentas).“
 
 
 2. Pakeisti Įstatymo priedo 8 punktą ir jį išdėstyti taip: ^s-9db868fef64e8ca278ba6710
 
 
-„8. 1992 m. spalio 12 d. Tarybos reglamentas (EEB) Nr. 2913/92, nustatantis Bendrijos muitinės kodeksą (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 307) (su paskutiniais pakeitimais, padarytais 2005 m. balandžio 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 648/2005 (OL 2005 L 117, p. 13) (Įstatyme – Bendrijos muitinės kodeksas).“
+„8. 1992 m. spalio 12 d. Tarybos [reglamentas (EEB) Nr. 2913/92](https://eur-lex.europa.eu/eli/reg/2913/92/oj), nustatantis Bendrijos muitinės kodeksą (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 307) (su paskutiniais pakeitimais, padarytais 2005 m. balandžio 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 648/2005 (OL 2005 L 117, p. 13) (Įstatyme – Bendrijos [muitinės kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145)).“
 
 
 3. Pakeisti Įstatymo priedo 9 punktą ir jį išdėstyti taip: ^s-9c398620715127a54dddba07
 
 
-„9. 1993 m. liepos 2 d. Komisijos reglamentas (EEB) Nr. 2454/93, išdėstantis Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas (OL 2004 m. specialusis leidimas, 2 skyrius, 6 tomas, p. 3) (su paskutiniais pakeitimais, padarytais 2006 m. kovo 8 d. Komisijos reglamentu (EB) Nr. 402/2006 (OL 2006 L 70, p. 35) (Įstatyme – Bendrijos muitinės kodekso įgyvendinimo nuostatos).“
+„9. 1993 m. liepos 2 d. Komisijos [reglamentas (EEB) Nr. 2454/93](https://eur-lex.europa.eu/eli/reg/2454/93/oj), išdėstantis Tarybos [reglamento (EEB) Nr. 2913/92](https://eur-lex.europa.eu/eli/reg/2913/92/oj), nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas (OL 2004 m. specialusis leidimas, 2 skyrius, 6 tomas, p. 3) (su paskutiniais pakeitimais, padarytais 2006 m. kovo 8 d. Komisijos reglamentu (EB) Nr. 402/2006 (OL 2006 L 70, p. 35) (Įstatyme – Bendrijos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) įgyvendinimo nuostatos).“
 
 
 4. Papildyti Įstatymo priedą 13 punktu: ^s-3d3b03cff552b23e738fc113
 
 
-„13. 2004 m. spalio 21 d. Komisijos reglamentas (EB) Nr. 1891/2004, nustatantis Tarybos reglamento (EB) Nr. 1383/2003 dėl muitinės priežiūros priemonių, taikomų prekėms, kurios, kaip įtariama, pagamintos pažeidžiant tam tikras intelektinės nuosavybės teises, ir priemonių, kurių turi būti imamasi prekių atžvilgiu nustačius, kad jos pagamintos pažeidžiant tokias teises, įgyvendinimo nuostatas (OL 2004 L 328, p. 16) (Įstatyme – Intelektinės nuosavybės apsaugos reglamentą įgyvendinantis reglamentas).“
+„13. 2004 m. spalio 21 d. Komisijos [reglamentas (EB) Nr. 1891/2004](https://eur-lex.europa.eu/eli/reg/1891/2004/oj), nustatantis Tarybos [reglamento (EB) Nr. 1383/2003](https://eur-lex.europa.eu/eli/reg/1383/2003/oj) dėl muitinės priežiūros priemonių, taikomų prekėms, kurios, kaip įtariama, pagamintos pažeidžiant tam tikras intelektinės nuosavybės teises, ir priemonių, kurių turi būti imamasi prekių atžvilgiu nustačius, kad jos pagamintos pažeidžiant tokias teises, įgyvendinimo nuostatas (OL 2004 L 328, p. 16) (Įstatyme – Intelektinės nuosavybės apsaugos reglamentą įgyvendinantis reglamentas).“
 
 
 

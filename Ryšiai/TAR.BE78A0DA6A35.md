@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.12977CB93B03#^s-755daccbfd11d7441d8b4604|Lietuvos Respublikos paramos mirties atveju įstatymas]] - 2 citatos - 1001010ISTAIII-1704
-- [[latest/TAR.12977CB93B03#^s-fd4a7cd1d38bb584e19648f4|Lietuvos Respublikos paramos mirties atveju įstatymas]] - 2 citatos - 1001010ISTAIII-1704
+- [[latest/TAR.12977CB93B03#^s-fd4a7cd1d38bb584e19648f4|Lietuvos Respublikos paramos mirties atveju įstatymas]] - 1001010ISTAIII-1704

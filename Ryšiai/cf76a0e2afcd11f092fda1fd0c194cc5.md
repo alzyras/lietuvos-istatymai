@@ -16,5 +16,4 @@ pavadinimas: "Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1,
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.26B563184529#^s-10981ffd6c51d1f43ef35687|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Įstatymas Nr. XV-480
-- [[latest/TAR.26B563184529#^s-1e52dd62843d501ee579c108|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Įstatymas Nr. XV-480
+_Nėra._

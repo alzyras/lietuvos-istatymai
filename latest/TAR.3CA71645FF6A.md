@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-c5bc499f83584da25d1eff7c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. gruodžio 8 d. dekretą Nr. 310, ratifikuoja su išlygomis ir pareiškimais Konvenciją dėl elektroninių nusikaltimų, priimtą 2001 m. lapkričio 23 d. Budapešte.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. gruodžio 8 d. dekretą Nr. 310](https://e-tar.lt/portal/lt/legalAct/TAR.0168A634A0E3), ratifikuoja su išlygomis ir pareiškimais Konvenciją dėl elektroninių nusikaltimų, priimtą 2001 m. lapkričio 23 d. Budapešte.
 
 
 
@@ -54,7 +54,7 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 ### 3 straipsnis. Lietuvos Respublikos pareiškimai ^s-66a93635a346a75465ce7c88
 
 
-1. Vadovaudamasis Konvencijos 40 ir [[#^s-6ade73531eec3b67b3300f89|2 straipsniais]], Lietuvos Respublikos Seimas pareiškia, kad už Konvencijos [[#^s-6ade73531eec3b67b3300f89|2 straipsnyje]] nurodytos veikos padarymą baudžiamoji atsakomybė atsiranda neteisėtai prisijungus prie visos ar dalies kompiuterinės sistemos, pažeidžiant kompiuterio ar kompiuterinio tinklo apsaugos priemones. ^s-aa31a925b6a4dc012becb617
+1. Vadovaudamasis Konvencijos 40 ir [[#^s-6ade73531eec3b67b3300f89|2]] straipsniais, Lietuvos Respublikos Seimas pareiškia, kad už Konvencijos [[#^s-6ade73531eec3b67b3300f89|2 straipsnyje]] nurodytos veikos padarymą baudžiamoji atsakomybė atsiranda neteisėtai prisijungus prie visos ar dalies kompiuterinės sistemos, pažeidžiant kompiuterio ar kompiuterinio tinklo apsaugos priemones. ^s-aa31a925b6a4dc012becb617
 
 
 2. Vadovaudamasis Konvencijos 24 straipsnio 7 dalies a punktu, Lietuvos Respublikos Seimas pareiškia, kad Teisingumo ministerija ir Generalinė prokuratūra skiriamos atsakingomis institucijomis Konvencijos 24 straipsnio 7 dalies a punkte nurodytoms funkcijoms atlikti. ^s-ea11fccea8772cc82afe54c9

@@ -71,7 +71,7 @@ Vilnius
 Papildyti 8 straipsnį 5 dalimi:
 
 
-„5. Šio straipsnio 4 dalyje nustatyta tvarka duomenys apie slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis neskelbiami ir šio įstatymo 9 straipsnyje nustatyti veiklos apribojimai netaikomi asmenims, kurie apie savo slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis prisipažino specialiosioms deputatų komisijoms, sudarytoms įgyvendinant Lietuvos Respublikos įstatymą „Dėl deputatų, įtariamų sąmoningu bendradarbiavimu su kitų valstybių specialiosiomis tarnybomis, mandatų patikrinimo“ arba specialiojoje Lietuvos Respublikos valstybinių įstaigų tarnautojų asmens duomenų pildymo anketoje, kurios forma nustatyta Lietuvos Respublikos Vyriausybės 1992 m. balandžio 6 d. potvarkiu  Nr. 351p.“
+„5. Šio straipsnio 4 dalyje nustatyta tvarka duomenys apie slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis neskelbiami ir šio įstatymo 9 straipsnyje nustatyti veiklos apribojimai netaikomi asmenims, kurie apie savo slaptą bendradarbiavimą su buvusios SSRS specialiosiomis tarnybomis prisipažino specialiosioms deputatų komisijoms, sudarytoms įgyvendinant Lietuvos Respublikos įstatymą [„Dėl deputatų, įtariamų sąmoningu bendradarbiavimu su kitų valstybių specialiosiomis tarnybomis, mandatų patikrinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.45944FBF2E3C) arba specialiojoje Lietuvos Respublikos valstybinių įstaigų tarnautojų asmens duomenų pildymo anketoje, kurios forma nustatyta Lietuvos Respublikos Vyriausybės 1992 m. balandžio 6 d. potvarkiu  Nr. 351p.“
 
 
 

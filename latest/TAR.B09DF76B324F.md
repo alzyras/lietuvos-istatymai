@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-87ec985163f417ea6193af02
-[[latest/TAR.A7F77DF94F5D#^s-0e924d58e2cdef4a2fe6f6f9|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 5, 6, 8, 10, 13, 14, 45, 52 STRAIPSNIŲ]] PAKEITIMAS IR PAPILDYMAS
+[[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]] [[latest/TAR.A7F77DF94F5D#^s-3d450f17d3ebd38c4ee6c12f|2]], [[latest/TAR.A7F77DF94F5D#^s-185ae4cd376b928f4d330b75|5]], [[latest/TAR.A7F77DF94F5D#^s-30b159801f86e32eeabfab5f|6]], [[latest/TAR.A7F77DF94F5D#^s-a5722f3dde8191b8e7a00745|8]], [[latest/TAR.A7F77DF94F5D#^s-98d2ea531035e506ef900a47|10]], [[latest/TAR.A7F77DF94F5D#^s-015f93aa50a137208a902a1e|13]], [[latest/TAR.A7F77DF94F5D#^s-2510fc738aeaf0c40f5792a2|14]], [[latest/TAR.A7F77DF94F5D#^s-f3e4bd0c130420115fe58c82|45]], [[latest/TAR.A7F77DF94F5D#^s-0e924d58e2cdef4a2fe6f6f9|52]] STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 1994, Nr. 59-1153, Nr. 101-2017; 1995, Nr. 35-860, Nr. 59-1475, Nr. 84-1901; 1997, Nr. 38-924, Nr. 119-3077; 1998, Nr. 65-1875, Nr. 98-2707, Nr. 115-3274; 1999, Nr. 66-2115)
 
@@ -92,7 +92,7 @@ Valstybiniu socialiniu pensijų draudimu privalomai draudžiami:
 13) vienas iš visiškos negalios invalido tėvų arba asmuo, nustatyta tvarka pripažintas visiškos negalios invalido globėju arba rūpintoju, slaugantis namuose visiškos negalios invalidą. ^s-c586d0083e55841665d9ba6f
 
 
-Šio straipsnio pirmosios dalies 9-13 punktuose nurodyti asmenys valstybiniu socialiniu pensijų draudimu privalomai draudžiami valstybės lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Asmenys, nurodyti šio straipsnio pirmosios [[#^s-c586d0083e55841665d9ba6f|dalies 13 punkte]], privalomai draudžiami valstybės lėšomis tik tuo atveju, kai negauna jiems patiems priklausančios valstybinės socialinio draudimo pensijos, valstybinės pensijos ar šalpos (socialinės) pensijos.
+Šio straipsnio pirmosios dalies 9-13 punktuose nurodyti asmenys valstybiniu socialiniu pensijų draudimu privalomai draudžiami valstybės lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Asmenys, nurodyti šio straipsnio pirmosios dalies 13 punkte, privalomai draudžiami valstybės lėšomis tik tuo atveju, kai negauna jiems patiems priklausančios valstybinės socialinio draudimo pensijos, valstybinės pensijos ar šalpos (socialinės) pensijos.
 
 
 Kiti asmenys gali savanoriškai draustis valstybiniu socialiniu pensijų draudimu valstybinėse socialinio draudimo įstaigose, vykdančiose šį draudimą Lietuvos Respublikos Vyriausybės nustatyta tvarka.“
@@ -246,7 +246,7 @@ Asmenų, išvardytų [[#^s-cbf6eb66a10b46bc648cdbd0|2 straipsnio]] pirmosios dal
 
 
 ### ANTRASIS SKIRSNIS ^s-e046034351bbb2373562445f
-[[latest/TAR.79320BF74F40#^s-6c5deb5bafab62da22360c11|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 7, 12, 14, 17, 24, 26, 27, 28, 39, 40, 42, 43, 45, 49, 51 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 1 IR 4 STRAIPSNIŲ]] PRIPAŽINIMAS NETEKUSIAIS GALIOS
+[[latest/TAR.79320BF74F40|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 7, 12, 14, 17, 24, 26, 27, 28, 39, 40, 42, 43, 45, 49, 51 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO]] [[latest/TAR.79320BF74F40#^s-a70ec29ac84debebcdd1fd62|1]] IR [[latest/TAR.79320BF74F40#^s-6c5deb5bafab62da22360c11|4]] STRAIPSNIŲ PRIPAŽINIMAS NETEKUSIAIS GALIOS
 
 (Žin., 1999, Nr.66-2115)
 
@@ -255,7 +255,7 @@ Asmenų, išvardytų [[#^s-cbf6eb66a10b46bc648cdbd0|2 straipsnio]] pirmosios dal
 ### 1 straipsnis. 1 ir 4 straipsnių pripažinimas netekusiais galios ^s-cd5ac1979d5377d3cb481b94
 
 
-Įstatymo 1 ir [[#^s-22cbe078a01d8a12ddc2d3b7|4 straipsnius]] pripažinti netekusiais galios.
+Įstatymo 1 ir [[#^s-22cbe078a01d8a12ddc2d3b7|4]] straipsnius pripažinti netekusiais galios.
 
 
 
@@ -267,7 +267,7 @@ BAIGIAMOSIOS NUOSTATOS
 ### 1 straipsnis. Įstatymo įsigaliojimas ^s-748e26853cdb01d25d775f0c
 
 
-Šiuo įstatymu pakeisti ir papildyti [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] 3, 9, [[#^s-c586d0083e55841665d9ba6f|13 punktai]], 14 straipsnio 2 ir 4 dalys, 45 straipsnio 1 ir 3 dalys, 52 straipsnio 2 dalies 8 punktas įsigalioja nuo 2000 m. sausio 1 d.
+Šiuo įstatymu pakeisti ir papildyti [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] [[latest/TAR.A7F77DF94F5D|3]], [[latest/TAR.A7F77DF94F5D|9]], [[latest/TAR.A7F77DF94F5D|13]] punktai, 14 straipsnio 2 ir 4 dalys, 45 straipsnio 1 ir 3 dalys, 52 straipsnio 2 dalies 8 punktas įsigalioja nuo 2000 m. sausio 1 d.
 
 
 

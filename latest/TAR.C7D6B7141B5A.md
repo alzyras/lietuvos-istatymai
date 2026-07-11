@@ -97,7 +97,7 @@ BENDROSIOS NUOSTATOS
 3. Fondas privalo turėti bent vieną sąskaitą Lietuvos Respublikoje veikiančiame banke. ^s-5263d59c2661e45b92133941
 
 
-4. Fondas veikia vadovaudamasis Lietuvos Respublikos Konstitucija (toliau – Konstitucija), Lietuvos Respublikos civiliniu kodeksu (toliau – [[latest/TAR.8A39C83848CB|Civilinis kodeksas]]), [[latest/TAR.C0FF21832A85|Labdaros ir paramos įstatymu]], šiuo ir kitais įstatymais, Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nutarimais ir savo įstatais. ^s-db6a405bd4893d9e6b862b65
+4. Fondas veikia vadovaudamasis [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) (toliau – Konstitucija), Lietuvos Respublikos civiliniu kodeksu (toliau – [[latest/TAR.8A39C83848CB|Civilinis kodeksas]]), [[latest/TAR.C0FF21832A85|Labdaros ir paramos įstatymu]], šiuo ir kitais įstatymais, Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nutarimais ir savo įstatais. ^s-db6a405bd4893d9e6b862b65
 
 
 
@@ -623,7 +623,7 @@ FONDO VEIKLA
 2) juridinis asmuo, kuris turi daugiau kaip 1/3 fondo dalininko – juridinio asmens organo balsų; ^s-68efa896fabd03408c16977c
 
 
-3) juridinis asmuo, kurio daugiau kaip 1/3 organo balsų turi fondo dalininkas, valdymo ir kolegialių organų narys, fonde pagal darbo sutartį dirbantis asmuo, šios dalies 1 ir [[#^s-68efa896fabd03408c16977c|2 punktuose]] nurodytas asmuo ar šie asmenys kartu. ^s-0b4ce539172b47bf440cedc4
+3) juridinis asmuo, kurio daugiau kaip 1/3 organo balsų turi fondo dalininkas, valdymo ir kolegialių organų narys, fonde pagal darbo sutartį dirbantis asmuo, šios dalies [[#^s-81f6a9f40a8c0e3622f96222|1]] ir [[#^s-68efa896fabd03408c16977c|2]] punktuose nurodytas asmuo ar šie asmenys kartu. ^s-0b4ce539172b47bf440cedc4
 
 
 4. Fondas pinigus, gautus kaip paramą, taip pat kitus negrąžintinai gautus pinigus privalo laikyti atskiroje sąskaitoje, taip pat sudaryti išlaidų sąmatą, jeigu tai numatyta teisės aktuose arba pinigus davęs paramos teikėjas to reikalauja. ^s-abc5c7c42f23dfb542df4a02
@@ -746,7 +746,7 @@ Fondas, valdydamas neliečiamąjį kapitalą, vadovaujasi šiais principais:
 3) juridinis asmuo, išskyrus nurodytus [[#^s-298cc77b131d35dd06f4ed99|šios dalies 2 punkte]], kuris turi daugiau kaip 1/3 fondo dalininko ar paramos teikėjo (juridinio asmens) organo balsų; ^s-9c115c97e7f19c25e81b81f0
 
 
-4) juridinis asmuo, išskyrus nurodytus [[#^s-298cc77b131d35dd06f4ed99|šios dalies 2 punkte]], kurio daugiau kaip 1/3 organo balsų turi fondo dalininkas, valdymo ir kolegialių organų narys, fonde pagal darbo sutartį dirbantis asmuo, paramos teikėjas, šios dalies 1, 2 ir [[#^s-9c115c97e7f19c25e81b81f0|3 punktuose]] nurodytas asmuo ar šie asmenys kartu. ^s-d3155b43f1abc847868d766e
+4) juridinis asmuo, išskyrus nurodytus [[#^s-298cc77b131d35dd06f4ed99|šios dalies 2 punkte]], kurio daugiau kaip 1/3 organo balsų turi fondo dalininkas, valdymo ir kolegialių organų narys, fonde pagal darbo sutartį dirbantis asmuo, paramos teikėjas, šios dalies [[#^s-837a44ab4e2346e0ecc6f411|1]], [[#^s-298cc77b131d35dd06f4ed99|2]] ir [[#^s-9c115c97e7f19c25e81b81f0|3]] punktuose nurodytas asmuo ar šie asmenys kartu. ^s-d3155b43f1abc847868d766e
 
 
 
@@ -845,7 +845,7 @@ FONDO PERTVARKYMO IR PABAIGOS YPATUMAI
 3. Labdaros ir paramos fondas pagal šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.D2D24C160EB1#^s-f72b99401812f484b1e50b3f|Lietuvos Respublikos labdaros ir paramos fondų įstatymo 12 straipsnį]] rengia ir teikia 2013 metų ir vėlesnių metų metinių pranešimų ir metinių finansinių ataskaitų rinkinius. ^s-3626ffa79ee2e07ab2fbabc6
 
 
-4. Šio įstatymo 1 straipsnyje išdėstyto Lietuvos Respublikos labdaros ir paramos fondų įstatymo 12 straipsnio 6 dalies nuostatos dėl labdaros ir paramos fondo, valdančio neliečiamąjį kapitalą, audito taikomos atliekant 2013 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių labdaros ir paramos fondo, valdančio neliečiamąjį kapitalą, metinių finansinių ataskaitų rinkinio auditą. ^s-49198e39ad787884a408ce75
+4. Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.D2D24C160EB1|Lietuvos Respublikos labdaros ir paramos fondų įstatymo 12 straipsnio 6 dalies]] nuostatos dėl labdaros ir paramos fondo, valdančio neliečiamąjį kapitalą, audito taikomos atliekant 2013 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių labdaros ir paramos fondo, valdančio neliečiamąjį kapitalą, metinių finansinių ataskaitų rinkinio auditą. ^s-49198e39ad787884a408ce75
 
 
 

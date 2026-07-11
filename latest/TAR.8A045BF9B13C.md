@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-0edc6f02700d023c8837ecbc
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2003 m. liepos 23 d. dekretą Nr. 169, ratifikuoja Lietuvos Respublikos Vyriausybės ir Belgijos Karalystės Vyriausybės susitarimą dėl administracinės tarpusavio pagalbos muitinės veiklos srityje, pasirašytą 2002 m. rugsėjo 26 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2003 m. liepos 23 d. dekretą Nr. 169](https://e-tar.lt/portal/lt/legalAct/TAR.4E29EDDD3F5C), ratifikuoja Lietuvos Respublikos Vyriausybės ir Belgijos Karalystės Vyriausybės susitarimą dėl administracinės tarpusavio pagalbos muitinės veiklos srityje, pasirašytą 2002 m. rugsėjo 26 d. Briuselyje.
 
 
 

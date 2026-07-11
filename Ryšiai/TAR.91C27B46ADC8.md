@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos administracinių ginčų komisijų įstatymo 
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.594F129CE9AD#^s-7b6c90831bc8ea1965985675|Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas]] - 2 citatos - 1081010ISTA00X-1782
-- [[latest/TAR.594F129CE9AD#^s-93a3fac6d28c8308acd1a240|Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas]] - 2 citatos - 1081010ISTA00X-1782
+- [[latest/TAR.594F129CE9AD#^s-93a3fac6d28c8308acd1a240|Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymas]] - 1081010ISTA00X-1782

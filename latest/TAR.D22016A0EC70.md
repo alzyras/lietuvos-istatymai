@@ -83,10 +83,10 @@ BENDROSIOS NUOSTATOS
 6. Atrankiosios verslinės žvejybos įrankis – verslinės žvejybos įrankis, kuriuo siekiama gaudyti tam tikro dydžio ir (arba) rūšių žuvis, bet nesugauti ir nesužaloti kitų žuvų. ^s-1b27b84181f69e3d4e384d2f
 
 
-7. Atviroji jūra – kaip apibrėžiama Reglamento (EB) Nr. 1005/2008 [[#^s-e30e30df7fc3708e531a0056|2 straipsnio 22 dalyje]]. ^s-bdfeac0aa8e87bff1cebfcbc
+7. Atviroji jūra – kaip apibrėžiama [Reglamento (EB) Nr. 1005/2008 2 straipsnio 22 dalyje](https://eur-lex.europa.eu/eli/reg/1005/2008/art_2/par_22/oj). ^s-bdfeac0aa8e87bff1cebfcbc
 
 
-8. Europos Sąjungos vandenys – kaip apibrėžiama Reglamento (ES) Nr. 1380/2013 4 straipsnio 1 dalies 1 punkte. ^s-f09d072274b7b880575437a4
+8. Europos Sąjungos vandenys – kaip apibrėžiama [Reglamento (ES) Nr. 1380/2013 4 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/1380/2013/art_4/par_1/oj) 1 punkte. ^s-f09d072274b7b880575437a4
 
 
 9. Europos Sąjungos žvejybos laivas – žvejybos laivas, plaukiojantis su Europos Sąjungos valstybės narės vėliava ir registruotas Europos Sąjungoje. ^s-c7e96c370325fed559f7beb7
@@ -98,19 +98,19 @@ BENDROSIOS NUOSTATOS
 11. Individualios žvejybos galimybės – ūkio subjektui skirta Lietuvos Respublikai nustatytų žvejybos galimybių dalis. ^s-dba4104a0bd3f8309e39bdd9
 
 
-12. Intervencinis žvejybos produktų sandėliavimas – intervencinė rinkos stabilizavimo priemonė, kai Reglamento (ES) Nr. 1379/2013 II priede nurodyti žvejybos produktai neparduodami už mažesnę nei orientacinę kainą, nustatomą vadovaujantis Reglamento (ES) Nr. 1379/2013 [[#^s-023c9abd57e5b7aa70d42ab7|31 straipsniu]], bet stabilizuojami arba perdirbami ir laikomi sandėliuose bei parduodami vėliau. ^s-65de0d015e80b55e41174406
+12. Intervencinis žvejybos produktų sandėliavimas – intervencinė rinkos stabilizavimo priemonė, kai [Reglamento (ES) Nr. 1379/2013](https://eur-lex.europa.eu/eli/reg/1379/2013/oj) II priede nurodyti žvejybos produktai neparduodami už mažesnę nei orientacinę kainą, nustatomą vadovaujantis [Reglamento (ES) Nr. 1379/2013 31 straipsniu](https://eur-lex.europa.eu/eli/reg/1379/2013/art_31/oj), bet stabilizuojami arba perdirbami ir laikomi sandėliuose bei parduodami vėliau. ^s-65de0d015e80b55e41174406
 
 
 13. Jūrų vandenys – valstybių teritorinės jūros, gretutinės zonos, išskirtinės ekonominės zonos ir atviroji jūra. ^s-1cf1baa5bd1c2df848c42359
 
 
-14. Laisvas žvejybos pajėgumas – išbrauktų iš Žvejojančių jūrų vandenyse laivų duomenų sistemos, netaikant Reglamento (ES) Nr. 1380/2013 [[#^s-a3f4fff849425ab901aeafef|22 straipsnio 5 dalyje]] nurodytos žvejybos pajėgumo reguliavimo priemonės, laivų žvejybos pajėgumas, kol tokio pajėgumo laivas arba laivai neįtraukiami į Žvejojančių jūrų vandenyse laivų duomenų sistemą. ^s-0c17961513f218e832dc23a9
+14. Laisvas žvejybos pajėgumas – išbrauktų iš Žvejojančių jūrų vandenyse laivų duomenų sistemos, netaikant [Reglamento (ES) Nr. 1380/2013 22 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/reg/1380/2013/art_22/par_5/oj) nurodytos žvejybos pajėgumo reguliavimo priemonės, laivų žvejybos pajėgumas, kol tokio pajėgumo laivas arba laivai neįtraukiami į Žvejojančių jūrų vandenyse laivų duomenų sistemą. ^s-0c17961513f218e832dc23a9
 
 
 15. Lietuvos Respublikos žūklės laivas – Europos Sąjungos žvejybos laivyno registre registruotas žūklės laivas, plaukiojantis su Lietuvos valstybės vėliava ir turintis jam išduotą Lietuvos Respublikos žūklės laivo liudijimą. ^s-2d5a2181d8bc8fd76da4949f
 
 
-16. Lietuvos Respublikos žūklės laivo liudijimas – žemės ūkio ministro įgaliotos institucijos išduodamas Reglamento (EB) Nr. 1224/2009 4 straipsnio 9 dalyje apibrėžiamas dokumentas. ^s-354a0fd550c5f0333aa0fa5d
+16. Lietuvos Respublikos žūklės laivo liudijimas – žemės ūkio ministro įgaliotos institucijos išduodamas [Reglamento (EB) Nr. 1224/2009 4 straipsnio 9 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_4/par_9/oj) apibrėžiamas dokumentas. ^s-354a0fd550c5f0333aa0fa5d
 
 
 17. Lietuvos Respublikos žvejybos laivas – su Lietuvos valstybės vėliava plaukiojantis žvejybos laivas. ^s-3a4cf2c5c66fca3d996f5616
@@ -209,7 +209,7 @@ BENDROSIOS NUOSTATOS
 48. Žuvininkystės produktų gamyba – veikla, apimanti pirminę gamybą (žuvininkystės produktų gamyba, įskaitant žuvų auginimą ir gaudymą) ir pirminį perdirbimą (apdorojimas, kurio metu iš žuvininkystės produkto nekeičiant jo cheminės sudėties taip pat gaunamas žuvininkystės produktas). ^s-db65ec49f7382424a3b88f1f
 
 
-49. Žuvininkystės produktų perdirbimas – kaip apibrėžiama Reglamento (EB) Nr. 1224/2009 4 straipsnio 21 dalyje. ^s-14330bd3d1d0f3d056c1e694
+49. Žuvininkystės produktų perdirbimas – kaip apibrėžiama [Reglamento (EB) Nr. 1224/2009 4 straipsnio 21 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_4/par_21/oj). ^s-14330bd3d1d0f3d056c1e694
 
 
 50. Žuvys – visų rūšių žuvys, nėgės, vėžiagyviai, moliuskai ir kiti vandens bestuburiai. ^s-f8d85c7d0bd6b7beed77adf5
@@ -233,10 +233,10 @@ BENDROSIOS NUOSTATOS
 56. Žuvų išteklių naudotojas – ūkio subjektas, turintis Lietuvos Respublikos žemės ūkio ministerijos arba Lietuvos Respublikos aplinkos ministerijos arba privataus vidaus vandenų telkinio savininko suteiktą teisę naudoti žuvų išteklius šio įstatymo nustatyta tvarka, arba privataus vidaus vandenų telkinio savininkas. ^s-766d733daeb00374cfcb79b3
 
 
-57. Žūklės laivas – kaip apibrėžiama Reglamento (EB) Nr. 1224/2009 4 straipsnio 33 dalyje. ^s-4431b9edf7e986ca6be0c7c1
+57. Žūklės laivas – kaip apibrėžiama [Reglamento (EB) Nr. 1224/2009 4 straipsnio 33 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_4/par_33/oj). ^s-4431b9edf7e986ca6be0c7c1
 
 
-58. Žvejyba – kaip apibrėžiama Reglamento (EB) Nr. 1224/2009 4 straipsnio 1 dalyje. ^s-e943adebadb606b31c69ee50
+58. Žvejyba – kaip apibrėžiama [Reglamento (EB) Nr. 1224/2009 4 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_4/par_1/oj). ^s-e943adebadb606b31c69ee50
 
 
 59. Žvejybos baras – geografinėmis koordinatėmis apibrėžta vandens telkinio dalis. ^s-55465df9db2d4bef5115e4ad
@@ -248,10 +248,10 @@ BENDROSIOS NUOSTATOS
 61. Žvejybos kvota – ūkio subjektui skiriamas žvejybos limitas ar jo dalis vidaus vandenų telkinyje arba individualios žvejybos galimybės jūrų vandenyse, išreikštos didžiausiu galimu sugauti tam tikros rūšies žuvų kiekiu. ^s-1a43be2e904003b35cd1f4a5
 
 
-62. Žvejybos laivas – kaip apibrėžiama Reglamento (EB) Nr. 1224/2009 4 straipsnio 31 dalyje. ^s-8a06fdcdfd2542b6a1a651be
+62. Žvejybos laivas – kaip apibrėžiama [Reglamento (EB) Nr. 1224/2009 4 straipsnio 31 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_4/par_31/oj). ^s-8a06fdcdfd2542b6a1a651be
 
 
-63. Žvejybos leidimas – dokumentas, kuriuo suteikiama teisė žvejybos laivu vykdyti žvejybos veiklą, išvardytą Reglamento (EB) Nr. 1224/2009 4 straipsnio 1 dalyje, jame nurodytomis sąlygomis. ^s-34a4e08ecce2f935d2dba53c
+63. Žvejybos leidimas – dokumentas, kuriuo suteikiama teisė žvejybos laivu vykdyti žvejybos veiklą, išvardytą [Reglamento (EB) Nr. 1224/2009 4 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_4/par_1/oj), jame nurodytomis sąlygomis. ^s-34a4e08ecce2f935d2dba53c
 
 
 64. Žvejybos limitas – vidaus vandenų telkiniui nustatytas arba didžiausias galimas sugauti žuvų kiekis arba žvejybos įrankių arba žvejybos dienų, arba žvejybos vietų skaičius. ^s-cdaba3a0c878a2f9ae8e3b76
@@ -326,7 +326,7 @@ BENDROSIOS NUOSTATOS
 5. Žvejybos sektoriaus perleidžiamųjų teisių registro informacinės sistemos valdytoja ir duomenų, įskaitant asmens duomenis, valdytoja yra Žemės ūkio ministerija. ^s-0bc871b6a7cf4437eeb0117f
 
 
-6. Žvejybos sektoriaus perleidžiamųjų teisių registro informacinės sistemos duomenys tvarkomi siekiant užtikrinti teisingos ir išsamios informacijos apie žvejybos sektoriaus perleidžiamąsias teises kaupimą ir išsamių duomenų apie žvejybos sektoriaus perleidžiamąsias teises teikimą duomenų gavėjams. Asmens duomenys Žvejybos sektoriaus perleidžiamųjų teisių registro informacinėje sistemoje tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų. ^s-d2b21f1e21a9474ff15afc7c
+6. Žvejybos sektoriaus perleidžiamųjų teisių registro informacinės sistemos duomenys tvarkomi siekiant užtikrinti teisingos ir išsamios informacijos apie žvejybos sektoriaus perleidžiamąsias teises kaupimą ir išsamių duomenų apie žvejybos sektoriaus perleidžiamąsias teises teikimą duomenų gavėjams. Asmens duomenys Žvejybos sektoriaus perleidžiamųjų teisių registro informacinėje sistemoje tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų. ^s-d2b21f1e21a9474ff15afc7c
 
 
 7. Žvejybos sektoriaus perleidžiamųjų teisių registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. ^s-81f99d47432edc85aa3e09dd
@@ -474,14 +474,14 @@ LIETUVOS RESPUBLIKOS ŽVEJYBOS IR ŽŪKLĖS LAIVAI
 2. Lietuvos Respublikos žūklės laivo liudijimas išduodamas įtraukus žūklės laivą į Žvejojančių jūrų vandenyse laivų duomenų sistemą. Lietuvos Respublikos žūklės laivo liudijimą išduoda žemės ūkio ministro įgaliota institucija. ^s-b6dfc05562c9ec4ee3b0bb05
 
 
-3. Į Žvejojančių jūrų vandenyse laivų duomenų sistemą įtrauktų Lietuvos Respublikos žūklės laivų žvejybos pajėgumas negali viršyti didžiausio žvejybos pajėgumo atskaitos lygio, nustatyto Lietuvos Respublikai Reglamento (ES) Nr. 1380/2013 II priede. ^s-ede9f69df5241a082b7c6f40
+3. Į Žvejojančių jūrų vandenyse laivų duomenų sistemą įtrauktų Lietuvos Respublikos žūklės laivų žvejybos pajėgumas negali viršyti didžiausio žvejybos pajėgumo atskaitos lygio, nustatyto Lietuvos Respublikai [Reglamento (ES) Nr. 1380/2013](https://eur-lex.europa.eu/eli/reg/1380/2013/oj) II priede. ^s-ede9f69df5241a082b7c6f40
 
 
 
 ### 11 straipsnis. Žvejybos pajėgumas ^s-9f294c29b27da22f509173d7
 
 
-1. Lietuvos Respublikos žūklės laivo savininkui ar Europos Sąjungos valstybės narės ar užsienio valstybės piliečiui, ar užsienio valstybėje registruotam juridiniam asmeniui, ar kitai organizacijai nuosavybės teise arba kitu teisėtu pagrindu priklausančio žūklės laivo nuomos be įgulos sutarties (angl. bareboat charter) atveju Lietuvos Respublikos žūklės laivo nuomininkui nuosavybės teise arba kitu teisėtu pagrindu priklauso Lietuvos Respublikos žūklės laivo liudijime nurodytas žvejybos pajėgumas, o išbraukus žūklės laivą iš Žvejojančių jūrų vandenyse laivų duomenų sistemos, išskyrus Reglamento (ES) Nr. 1380/2013 [[#^s-0b4e4cbb9360db7b2dbf4c69|22 straipsnio 6 dalyje]] numatytą atvejį, – atitinkamo dydžio laisvas žvejybos pajėgumas. ^s-9b709d8e5f8390203a112090
+1. Lietuvos Respublikos žūklės laivo savininkui ar Europos Sąjungos valstybės narės ar užsienio valstybės piliečiui, ar užsienio valstybėje registruotam juridiniam asmeniui, ar kitai organizacijai nuosavybės teise arba kitu teisėtu pagrindu priklausančio žūklės laivo nuomos be įgulos sutarties (angl. bareboat charter) atveju Lietuvos Respublikos žūklės laivo nuomininkui nuosavybės teise arba kitu teisėtu pagrindu priklauso Lietuvos Respublikos žūklės laivo liudijime nurodytas žvejybos pajėgumas, o išbraukus žūklės laivą iš Žvejojančių jūrų vandenyse laivų duomenų sistemos, išskyrus [Reglamento (ES) Nr. 1380/2013 22 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/reg/1380/2013/art_22/par_6/oj) numatytą atvejį, – atitinkamo dydžio laisvas žvejybos pajėgumas. ^s-9b709d8e5f8390203a112090
 
 
 2. Laisvas žvejybos pajėgumas gali būti panaudotas įtraukiant žūklės laivą į Žvejojančių jūrų vandenyse laivų duomenų sistemą arba didinant įtraukto į Žvejojančių jūrų vandenyse laivų duomenų sistemą žūklės laivo žvejybos pajėgumą. ^s-711e816f32622ef8814b43dc
@@ -499,7 +499,7 @@ Nr. XV-428, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16539
 
 
 
-6. Žemės ūkio ministerija ar žemės ūkio ministro įgaliota institucija rengia ir teikia Europos Komisijai ataskaitą apie Lietuvos Respublikos žūklės laivų žvejybos pajėgumo ir žvejybos galimybių pusiausvyrą, kaip numatyta Reglamento (ES) Nr. 1380/2013 [[#^s-548705dcfad5c2ee8abef499|22 straipsnyje]]. ^s-8cdcb15c1bd19f20f60ef6fa
+6. Žemės ūkio ministerija ar žemės ūkio ministro įgaliota institucija rengia ir teikia Europos Komisijai ataskaitą apie Lietuvos Respublikos žūklės laivų žvejybos pajėgumo ir žvejybos galimybių pusiausvyrą, kaip numatyta [Reglamento (ES) Nr. 1380/2013 22 straipsnyje](https://eur-lex.europa.eu/eli/reg/1380/2013/art_22/oj). ^s-8cdcb15c1bd19f20f60ef6fa
 
 
 
@@ -558,7 +558,7 @@ Nr. XV-428, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16539
 9) ūkio subjektas turi ne mažesnio kaip žūklės laivo, kuriam prašoma išduoti Lietuvos Respublikos žūklės laivo liudijimą, žvejybos pajėgumo dydžio laisvą žvejybos pajėgumą. Šis reikalavimas netaikomas, jeigu ne ilgesniam kaip 24 mėnesių laikotarpiui, reikalingam moksliniams tyrimams atlikti, prašoma išduoti Lietuvos Respublikos žūklės laivo liudijimą vykdyti žvejybą tik mokslinių tyrimų tikslais; ^s-fb945bc3154562c9ed0e54ac
 
 
-10) nėra galutinai panaikintas žūklės laivo, kuriam prašoma išduoti Lietuvos Respublikos žūklės laivo liudijimą, anksčiau išduotas Lietuvos Respublikos žūklės laivo liudijimas, pritaikius Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje nustatytą taškų skaičiavimo sistemą. ^s-1bcde820081c325d0cfd1a94
+10) nėra galutinai panaikintas žūklės laivo, kuriam prašoma išduoti Lietuvos Respublikos žūklės laivo liudijimą, anksčiau išduotas Lietuvos Respublikos žūklės laivo liudijimas, pritaikius [Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_92/par_6/oj) nustatytą taškų skaičiavimo sistemą. ^s-1bcde820081c325d0cfd1a94
 
 
 2. Dėl vieno žūklės laivo Lietuvos Respublikos žūklės laivo liudijimas gali būti išduodamas tik vienam ūkio subjektui. Lietuvos Respublikos žūklės laivą verslinei žvejybai gali naudoti tik tas ūkio subjektas, kuriam yra išduotas Lietuvos Respublikos žūklės laivo liudijimas. ^s-ca5b9103d322fb68c86d10c2
@@ -579,7 +579,7 @@ Nr. XV-428, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16539
 1) jeigu priimamas sprendimas sulaikyti Lietuvos Respublikos žūklės laivą šio įstatymo [[#^s-e4c0f165cf899536c08bf0c6|67 straipsnyje]] nustatyta tvarka; ^s-0a9f047a291c5a5b54c24fc1
 
 
-2) sukauptas Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje nurodytas taškų skaičius; ^s-b03b0a46329eefd85f0e3add
+2) sukauptas [Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_92/par_6/oj) nurodytas taškų skaičius; ^s-b03b0a46329eefd85f0e3add
 
 
 3) ūkio subjektas pateikia Žuvininkystės tarnybai informaciją apie numatomą Lietuvos Respublikos žūklės laivo naujo varomojo variklio sumontavimą arba esamo pakeitimą ar techninį modifikavimą. Tokiu atveju Lietuvos Respublikos žūklės laivo liudijimo galiojimas sustabdomas nuo numatomų atlikti Lietuvos Respublikos žūklės laivo naujo varomojo variklio sumontavimo arba esamo pakeitimo ar techninio modifikavimo darbų pradžios; ^s-8a1a8b66b4f090b88f21fd94
@@ -594,7 +594,7 @@ Nr. XV-428, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16539
 1) panaikinamas sprendimas sulaikyti Lietuvos Respublikos žūklės laivą arba baigiasi sprendimo sulaikyti Lietuvos Respublikos žūklės laivą galiojimas šio įstatymo [[#^s-97e7d163db5d22a23d5aea46|68 straipsnyje]] nustatyta tvarka; ^s-ba6b6980e89847809eba3abd
 
 
-2) pasibaigia Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje nurodytas atitinkamas laikotarpis; ^s-1815e0210f8880f6a60c69ec
+2) pasibaigia [Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_92/par_6/oj) nurodytas atitinkamas laikotarpis; ^s-1815e0210f8880f6a60c69ec
 
 
 3) atlikus naujo, pakeisto ar techniškai modifikuoto Lietuvos Respublikos žūklės laivo varomojo variklio galios sertifikavimą, patvirtinama, kad naujo, pakeisto ar techniškai modifikuoto Lietuvos Respublikos žūklės laivo varomojo variklio galia nepasikeitė ir atitinka nurodytą Lietuvos Respublikos žūklės laivo liudijime. ^s-11c887582e93916ead34e01c
@@ -615,10 +615,10 @@ Nr. XV-428, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16539
 10. Lietuvos Respublikos žūklės laivo liudijimo galiojimas panaikinamas be teisės kreiptis dėl naujo Lietuvos Respublikos žūklės laivo liudijimo išdavimo, padarant žymą Žvejojančių jūrų vandenyse laivų duomenų sistemoje, jeigu yra bent viena iš šių sąlygų: ^s-0b8513aa737c31e55d1dd23c
 
 
-1) Reglamento (ES) Nr. 1380/2013 [[#^s-a3f4fff849425ab901aeafef|22 straipsnio 5 dalyje]] nurodytu atveju; ^s-565b2419cad2204c99f4e093
+1) [Reglamento (ES) Nr. 1380/2013 22 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/reg/1380/2013/art_22/par_5/oj) nurodytu atveju; ^s-565b2419cad2204c99f4e093
 
 
-2) sukauptas Reglamento (EB) 1224/2009 92 straipsnio 6 dalyje nurodytas taškų skaičius. ^s-2f113c432db2d2c4646ceaae
+2) sukauptas [Reglamento (EB) 1224/2009 92 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_92/par_6/oj) nurodytas taškų skaičius. ^s-2f113c432db2d2c4646ceaae
 
 
 11. Lietuvos Respublikos žūklės laivo liudijimo galiojimas panaikinamas su teise kreiptis dėl naujo Lietuvos Respublikos žūklės laivo liudijimo išdavimo ir žūklės laivas išbraukiamas iš Žvejojančių jūrų vandenyse laivų duomenų sistemos, jeigu yra bent viena iš šių sąlygų: ^s-ba685ac0bb5a1b8906d0ef22
@@ -694,7 +694,7 @@ VERSLINĖ ŽVEJYBA VIDAUS VANDENYSE
 4) 4 paskutinius kalendorinius metus iki tų metų, kuriais yra suteikiama teisė į žvejybos kvotą, stintų žvejybos kvotą turėjusiems ūkio subjektams be aukciono suteikiama teisė į žvejybos kvotą kiekvienam ūkio subjektui skiriant ne daugiau kaip po 1 procentą aplinkos ministro nustatyto bendro stintų žvejybos limito. ^s-95025ff5ac27a670711aeb4f
 
 
-4. Suteikiant teisę į žvejybos kvotą verslinei žvejybai tam tikrame vidaus vandenų telkinyje aukciono būdu, ūkio subjektai, pateikę prašymus suteikti teisę į žvejybos kvotą verslinei žvejybai tam tikrame vidaus vandenų telkinyje, atrenkami, vertinami ir šiam ūkio subjektui skiriama žvejybos limito dalis ir (arba) žvejybos kvota nustatoma atsižvelgiant į aplinkosauginio, socialinio ir (arba) ekonominio pobūdžio kriterijus (padarytus verslinės žvejybos vidaus vandenyse pažeidimus, siūlomų skirti lėšų žuvų ištekliams vidaus vandenyse atkurti ir išsaugoti dydį, ūkio subjekto priklausomybę vietos bendruomenei ir pan.). Ūkio subjektas – aukciono laimėtojas nustatomas įvertinus surinktų balų sumą. Už ūkio subjekto pagal šio įstatymo [[#^s-0c3fd1b04f60e5af12e3c83d|8 straipsnio 3 punktą]] skiriamų žuvų ištekliams atkurti ir saugoti lėšų kiekvieną eurą skiriama po balą. Šie balai sumažinami arba padidinami: ^s-eaab5560b31f3afe27ae4a20
+4. Suteikiant teisę į žvejybos kvotą verslinei žvejybai tam tikrame vidaus vandenų telkinyje aukciono būdu, ūkio subjektai, pateikę prašymus suteikti teisę į žvejybos kvotą verslinei žvejybai tam tikrame vidaus vandenų telkinyje, atrenkami, vertinami ir šiam ūkio subjektui skiriama žvejybos limito dalis ir (arba) žvejybos kvota nustatoma atsižvelgiant į aplinkosauginio, socialinio ir (arba) ekonominio pobūdžio kriterijus (padarytus verslinės žvejybos vidaus vandenyse pažeidimus, siūlomų skirti lėšų žuvų ištekliams vidaus vandenyse atkurti ir išsaugoti dydį, ūkio subjekto priklausomybę vietos bendruomenei ir pan.). Ūkio subjektas – aukciono laimėtojas nustatomas įvertinus surinktų balų sumą. Už ūkio subjekto pagal šio įstatymo 8 straipsnio 3 punktą skiriamų žuvų ištekliams atkurti ir saugoti lėšų kiekvieną eurą skiriama po balą. Šie balai sumažinami arba padidinami: ^s-eaab5560b31f3afe27ae4a20
 
 
 1) balai didinami 5 procentais, jeigu ūkio subjektas ne mažiau kaip 3 paskutinius kalendorinius metus registruotas (kai jis yra juridinis asmuo) ar jo deklaruota gyvenamoji vieta (kai jis yra fizinis asmuo) tos pačios savivaldybės teritorijoje kaip ir vandens telkinys, kuriame žvejybai bus suteikiama teisė į žvejybos vidaus vandenyse kvotą; ^s-040e7374b15c9c2abfa46a19
@@ -880,7 +880,7 @@ b) šiurkštų verslinės žvejybos vidaus vandenyse tvarkos pažeidimą, kuriuo
 3) ūkio subjektas yra traukiamas administracinėn atsakomybėn už šiurkštų verslinės žvejybos vidaus vandenyse tvarkos pažeidimą, – iki bus priimtas nutarimas ir sumokėta paskirta bauda; ^s-b1d32fd45160c9b4e7cd72e8
 
 
-4) ūkio subjektas, kuriam perleidžiama teisė į žvejybos kvotą, jau turi ar turėtų, perleidus teisę į žvejybos kvotą, daugiau kaip 10 procentų bendro žvejybos limito, – tais atvejais, kai taikomi apribojimai, nustatyti šio įstatymo [[#^s-1db3d5d6fc2ca12b5c3174c9|15 straipsnio 3 dalies]] 1 ir [[#^s-fcb4d3f23a8d7014b06a8ad4|2 punktuose]]. ^s-748464d563785e5f136690c4
+4) ūkio subjektas, kuriam perleidžiama teisė į žvejybos kvotą, jau turi ar turėtų, perleidus teisę į žvejybos kvotą, daugiau kaip 10 procentų bendro žvejybos limito, – tais atvejais, kai taikomi apribojimai, nustatyti šio įstatymo [[#^s-1db3d5d6fc2ca12b5c3174c9|15 straipsnio 3 dalies]] [[#^s-9bab8efaca95aeb49b0ea580|1]] ir [[#^s-1819fb80de1f611fef935804|2]] punktuose. ^s-748464d563785e5f136690c4
 
 
 5. Išmoka, kurią ūkio subjektas gauna už perleidžiamą teisę į žvejybos kvotą aplinkos ministro įgaliotai biudžetinei įstaigai, apskaičiuojama ir išmokama vadovaujantis aplinkos ministro nustatyta tvarka, įvertinus ūkio subjekto 2018–2022 metais iš verslinės žvejybos veiklos tame vidaus vandenų telkinyje, kuriame turėjo teisę žvejoti, gautas pajamas, ilgalaikį turtą, darbo vietas, nuostolius, susijusius su finansinių įsipareigojimų vykdymu įgyvendinant Lietuvos žuvininkystės sektoriaus 2014–2020 metų veiksmų programos priemones. Išmoką aplinkos ministro nustatyta tvarka išmoka aplinkos ministro įgaliota biudžetinė įstaiga iš Aplinkos ministerijai šiam įstatymui įgyvendinti skirtų valstybės biudžeto asignavimų. ^s-92aa89cb25e14b186025ebe1
@@ -1104,7 +1104,7 @@ VERSLINĖ ŽVEJYBA JŪRŲ VANDENYSE
 4. Vienu Lietuvos Respublikos žūklės laivu vykdyti verslinę žvejybą priekrantės žvejybos zonoje galima statomaisiais tinklais, kurių bendras ilgis ne didesnis kaip 4 km. ^s-040238cee4ba266510d690de
 
 
-5. Vienas ūkio subjektas, įskaitant su juo susijusius ūkio subjektus, kaip numatyta šio įstatymo [[#^s-b92a5ba00d8dd66cc9a1464f|15 straipsnio]] 12–19 dalyse, gali turėti teisę naudoti ne daugiau kaip 10 procentų bendro priekrantės žvejyboje leidžiamo verslinės žvejybos įrankių skaičiaus. ^s-5dc14f7691304c04956ea819
+5. Vienas ūkio subjektas, įskaitant su juo susijusius ūkio subjektus, kaip numatyta šio įstatymo [[#^s-b92a5ba00d8dd66cc9a1464f|15 straipsnio]] [[#^s-07d119f9bdc2168c1f560553|12]]–[[#^s-3fc791f834c522bcb9273c3b|19]] dalyse, gali turėti teisę naudoti ne daugiau kaip 10 procentų bendro priekrantės žvejyboje leidžiamo verslinės žvejybos įrankių skaičiaus. ^s-5dc14f7691304c04956ea819
 
 
 6. Ūkio subjektai, turintys teisę naudoti žvejybos įrankius viename ar keliuose priekrantės žvejybos baruose, informavę Žuvininkystės tarnybą, gali sudaryti susitarimus dėl bendro šių teisių naudojimo. ^s-223d9a095eabc8e6bb0f699d
@@ -1187,7 +1187,7 @@ VERSLINĖ ŽVEJYBA JŪRŲ VANDENYSE
 3. Iš žvejybos galimybių rezervo ūkio subjektams, turintiems teisę naudoti žvejybos įrankius, žemės ūkio ministro įsakymu kiekvienais metais skiriama žvejybos galimybių dalis, lygi ūkio subjektų, turinčių teisę naudoti žvejybos įrankius, per paskutinius 3 kalendorinius metus panaudotų tam tikros rūšies žuvų žvejybos galimybių vidurkiui, padidintam 20 procentų, bet ne mažiau kaip 0,1 procento Lietuvos Respublikai skirtų tam tikros rūšies žuvų žvejybos galimybių. Vienas procentas žvejybos galimybių iš rezervo paskirstoma aukciono būdu žemės ūkio ministro nustatyta tvarka ūkio subjektams, atitinkantiems šio įstatymo [[#^s-53c3decb42bd93e3cef523c9|21 straipsnio 11 dalyje]] nustatytas sąlygas. Likusi nepaskirstyta žvejybos galimybių rezervo dalis paskirstoma ūkio subjektams proporcingai einamaisiais metais skirtoms kiekvienos žuvų rūšies individualioms žvejybos galimybėms, o jeigu lieka žvejybos galimybių, nepaskirstytų ūkio subjektams proporcingai einamaisiais metais skirtoms kiekvienos žuvų rūšies individualioms žvejybos galimybėms, jos skiriamos ūkio subjektų, turinčių teisę naudoti žvejybos įrankius, bendram naudojimui. ^s-44c9ae15ef749705a95601c3
 
 
-4. Vienas ūkio subjektas, įskaitant su juo susijusius ūkio subjektus, nurodytus šio įstatymo [[#^s-b92a5ba00d8dd66cc9a1464f|15 straipsnio]] 12–19 dalyse, gali turėti teisę į ne daugiau kaip 40 procentų Lietuvos Respublikai skirtų kiekvienos rūšies žuvų žvejybos galimybių Baltijos jūroje. ^s-3467f785a9285975a7511623
+4. Vienas ūkio subjektas, įskaitant su juo susijusius ūkio subjektus, nurodytus šio įstatymo [[#^s-b92a5ba00d8dd66cc9a1464f|15 straipsnio]] [[#^s-07d119f9bdc2168c1f560553|12]]–[[#^s-3fc791f834c522bcb9273c3b|19]] dalyse, gali turėti teisę į ne daugiau kaip 40 procentų Lietuvos Respublikai skirtų kiekvienos rūšies žuvų žvejybos galimybių Baltijos jūroje. ^s-3467f785a9285975a7511623
 
 
 5. Jeigu ūkio subjektui suteiktina teisė į tam tikros rūšies žuvų žvejybos galimybes Baltijos jūroje viršija [[#^s-3467f785a9285975a7511623|šio straipsnio 4 dalyje]] nustatytą ribą, suteikiama teisė į 40 procentų Lietuvos Respublikai skiriamų tos rūšies žuvų žvejybos galimybių, išskyrus atvejį, kai taikomas šio įstatymo [[#^s-2ee1ad7e6ca2428256e73bb7|25 straipsnio 7 dalyje]] nurodytas kiekvienam ūkio subjektui suteikiamos teisės į žvejybos galimybes proporcingas sumažinimas. ^s-a4428f3c1bcaa3718f7ce5c6
@@ -1222,7 +1222,7 @@ VERSLINĖ ŽVEJYBA JŪRŲ VANDENYSE
 1. Teisės į žvejybos galimybes galiojimas sustabdomas, jeigu yra bent viena iš šių sąlygų: ^s-799729410c940581e5c9a209
 
 
-1) jeigu ūkio subjektas viršijo individualias žvejybos galimybes, jo teisė į žvejybos galimybių dalį, lygią pereikvotai individualių žvejybos galimybių daliai, padaugintai iš Reglamento (EB) Nr. 1224/2009 105 straipsnyje nustatyto daugiklio, sustabdoma vieniems kalendoriniams metams. Jeigu turi būti sustabdyta teisė į didesnes žvejybos galimybes, negu turėtų gauti ūkio subjektas, teisės į žvejybos galimybes galiojimo sustabdymas taikomas proporcingai 2 ar daugiau metų, atsižvelgiant į sumažintas Lietuvos Respublikai skiriamas žvejybos galimybes ir kitų ūkio subjektų sumažėjusias individualias žvejybos galimybes; ^s-20c3b92149b39ed84e634f6c
+1) jeigu ūkio subjektas viršijo individualias žvejybos galimybes, jo teisė į žvejybos galimybių dalį, lygią pereikvotai individualių žvejybos galimybių daliai, padaugintai iš [Reglamento (EB) Nr. 1224/2009 105 straipsnyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_105/oj) nustatyto daugiklio, sustabdoma vieniems kalendoriniams metams. Jeigu turi būti sustabdyta teisė į didesnes žvejybos galimybes, negu turėtų gauti ūkio subjektas, teisės į žvejybos galimybes galiojimo sustabdymas taikomas proporcingai 2 ar daugiau metų, atsižvelgiant į sumažintas Lietuvos Respublikai skiriamas žvejybos galimybes ir kitų ūkio subjektų sumažėjusias individualias žvejybos galimybes; ^s-20c3b92149b39ed84e634f6c
 
 
 2) jeigu ūkio subjektas žemės ūkio ministro ar jo įgaliotos institucijos nustatyta tvarka nepateikė šio įstatymo [[#^s-8e2fa47c4892cd6aaf099c1b|5 straipsnio 8 dalyje]] nurodytų duomenų. Prieš sustabdant teisės į žvejybos galimybes galiojimą žemės ūkio ministro įgaliota institucija ūkio subjektą įspėja ir šiam įsipareigojimui įvykdyti nustato 10 darbo dienų terminą, kuris ūkio subjekto prašymu, atsižvelgiant į objektyvias aplinkybes, gali būti pratęstas, bet ne ilgiau kaip 15 kalendorinių dienų. Jeigu per nustatytą laikotarpį ūkio subjektas neįvykdo šio įsipareigojimo, jo teisės į žvejybos galimybes galiojimas sustabdomas. ^s-ac77ebf9ff44a372e27da35e
@@ -1252,7 +1252,7 @@ VERSLINĖ ŽVEJYBA JŪRŲ VANDENYSE
 2) nustatoma, kad ūkio subjektas žemės ūkio ministro įgaliotai institucijai pateikė iš esmės neteisingus duomenis, kuriais remiantis buvo suteikta teisė į didesnes žvejybos galimybes, negu turėjo būti suteikta. Tokiu atveju panaikinama teisė į tą žvejybos galimybių dalį, į kurią teisė neturėjo būti suteikta; ^s-157845d10fb44f56cdc3ce43
 
 
-3) galutinai panaikinamas ūkio subjekto valdomo Lietuvos Respublikos žūklės laivo liudijimas, pritaikius Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje nustatytą taškų skaičiavimo sistemą, arba ūkio subjekto valdomas Lietuvos Respublikos žūklės laivas įtraukiamas į Neteisėtą, nedeklaruojamą ir nereglamentuojamą žvejybą vykdančių laivų ES sąrašą, pateiktą 2010 m. gegužės 28 d. Komisijos reglamento (ES) Nr. 468/2010, kuriuo sudaromas neteisėtą, nedeklaruojamą ir nereglamentuojamą žvejybą vykdančių laivų ES sąrašas, priede, už sunkų pažeidimą, padarytą po teisės į žvejybos galimybes suteikimo. Tokiais atvejais panaikinama teisės į žvejybos galimybes dalis, pagal kurią apskaičiuotas individualias žvejybos galimybes paskutiniais iki sunkaus pažeidimo padarymo kalendoriniais metais ūkio subjektas buvo panaudojęs tuo Lietuvos Respublikos žūklės laivu. ^s-155557213952dd690d30a2ac
+3) galutinai panaikinamas ūkio subjekto valdomo Lietuvos Respublikos žūklės laivo liudijimas, pritaikius [Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_92/par_6/oj) nustatytą taškų skaičiavimo sistemą, arba ūkio subjekto valdomas Lietuvos Respublikos žūklės laivas įtraukiamas į Neteisėtą, nedeklaruojamą ir nereglamentuojamą žvejybą vykdančių laivų ES sąrašą, pateiktą 2010 m. gegužės 28 d. Komisijos reglamento (ES) Nr. 468/2010, kuriuo sudaromas neteisėtą, nedeklaruojamą ir nereglamentuojamą žvejybą vykdančių laivų ES sąrašas, priede, už sunkų pažeidimą, padarytą po teisės į žvejybos galimybes suteikimo. Tokiais atvejais panaikinama teisės į žvejybos galimybes dalis, pagal kurią apskaičiuotas individualias žvejybos galimybes paskutiniais iki sunkaus pažeidimo padarymo kalendoriniais metais ūkio subjektas buvo panaudojęs tuo Lietuvos Respublikos žūklės laivu. ^s-155557213952dd690d30a2ac
 
 
 6. Teisė į žvejybos galimybes panaikinama šioje dalyje nurodyta tvarka ūkio subjektą apie tai raštu įspėjus ne mažiau kaip prieš 20 darbo dienų, jeigu yra bent viena iš šių sąlygų: ^s-8a21726b32441bd677741ce6
@@ -1369,7 +1369,7 @@ VERSLINĖ ŽVEJYBA JŪRŲ VANDENYSE
 1) rašytiniu ūkio subjekto prašymu; ^s-b789b2a14ca3cb3695f5072f
 
 
-2) galutinai panaikinamas ūkio subjekto valdomo Lietuvos Respublikos žūklės laivo liudijimas, pritaikius Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje nustatytą taškų skaičiavimo sistemą, arba ūkio subjekto valdomas Lietuvos Respublikos žūklės laivas įtraukiamas į Neteisėtą, nedeklaruojamą ir nereglamentuojamą žvejybą vykdančių laivų ES sąrašą, pateiktą Reglamento (ES) Nr. 468/2010 priede, už sunkų pažeidimą, padarytą po teisės naudoti žvejybos įrankius suteikimo. Tokiu atveju panaikinama ūkio subjekto turimos teisės naudoti žvejybos įrankius dalis, vidutiniškai tenkanti vienam jo valdomam Lietuvos Respublikos žūklės laivui. ^s-65d9bbbc85612ecf09fee13c
+2) galutinai panaikinamas ūkio subjekto valdomo Lietuvos Respublikos žūklės laivo liudijimas, pritaikius [Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_92/par_6/oj) nustatytą taškų skaičiavimo sistemą, arba ūkio subjekto valdomas Lietuvos Respublikos žūklės laivas įtraukiamas į Neteisėtą, nedeklaruojamą ir nereglamentuojamą žvejybą vykdančių laivų ES sąrašą, pateiktą Reglamento (ES) Nr. 468/2010 priede, už sunkų pažeidimą, padarytą po teisės naudoti žvejybos įrankius suteikimo. Tokiu atveju panaikinama ūkio subjekto turimos teisės naudoti žvejybos įrankius dalis, vidutiniškai tenkanti vienam jo valdomam Lietuvos Respublikos žūklės laivui. ^s-65d9bbbc85612ecf09fee13c
 
 
 5. Teisė naudoti žvejybos įrankius panaikinama ūkio subjektą apie tai raštu įspėjus ne mažiau kaip prieš 20 darbo dienų, jeigu yra bent viena iš šių sąlygų: ^s-3b0adb7304711276235e9431
@@ -1390,7 +1390,7 @@ VERSLINĖ ŽVEJYBA JŪRŲ VANDENYSE
 7. Panaikinus teisę naudoti dalį žvejybos įrankių, turi būti panaikinamas verslinės žvejybos Baltijos jūros priekrantėje leidimas, jeigu jis buvo išduotas ūkio subjektui. Panaikinus dalį teisės naudoti žvejybos įrankius, verslinės žvejybos Baltijos jūros priekrantėje leidimas, jeigu jis buvo išduotas ūkio subjektui, turi būti keičiamas. ^s-7d589d219ddd52213916d1d1
 
 
-8. Panaikinus ūkio subjekto teisę naudoti žvejybos įrankius, nesuteikta ūkio subjektams teisė naudoti žvejybos įrankius suteikiama aukciono būdu ūkio subjektams, atitinkantiems šio įstatymo [[#^s-53c3decb42bd93e3cef523c9|21 straipsnio 11 dalyje]] ir [[#^s-81e4e41cc1373bec642fe7c6|24 straipsnio]] 5 ir [[#^s-9acf0819c78ecadf284dead2|6 dalyse]] nustatytas sąlygas. ^s-e3c7d50551c9f5dbe5b58136
+8. Panaikinus ūkio subjekto teisę naudoti žvejybos įrankius, nesuteikta ūkio subjektams teisė naudoti žvejybos įrankius suteikiama aukciono būdu ūkio subjektams, atitinkantiems šio įstatymo [[#^s-53c3decb42bd93e3cef523c9|21 straipsnio 11 dalyje]] ir [[#^s-81e4e41cc1373bec642fe7c6|24 straipsnio]] [[#^s-5dc14f7691304c04956ea819|5]] ir [[#^s-223d9a095eabc8e6bb0f699d|6]] dalyse nustatytas sąlygas. ^s-e3c7d50551c9f5dbe5b58136
 
 
 9. Teisės naudoti žvejybos įrankius galiojimą sustabdo, galiojimo sustabdymą panaikina, teisę naudoti žvejybos įrankius panaikina ir jos perleidimą prižiūri žemės ūkio ministro įgaliota institucija. ^s-6ac9069dbbedf5036fa877c2
@@ -1432,7 +1432,7 @@ VERSLINĖ ŽVEJYBA JŪRŲ VANDENYSE
 1) ūkio subjektas turi teisę į prašyme nurodytos rūšies ar rūšių žuvų žvejybos galimybes, išskyrus žuvų rūšis, kurių žvejybos galimybės nenustatomos arba atskiriems ūkio subjektams neskirstomos, ar individualias žvejybos galimybes arba teisę naudoti žvejybos įrankius, o verslinės žvejybos pagal Europos Sąjungos susitarimus su užsienio valstybėmis atveju yra galiojantis to susitarimo protokolas ir ūkio subjektas turi užsienio valstybės kompetentingos institucijos išduotą žvejybos leidimą; ^s-67f9b3080ae118c149cfe45c
 
 
-2) verslinės žvejybos užsienio valstybės išskirtinėje ekonominėje zonoje atveju, jeigu Europos Sąjunga su ta užsienio valstybe nėra sudariusi susitarimo dėl verslinės žvejybos, ūkio subjektas turi tos užsienio valstybės kompetentingos institucijos išduotą žvejybos leidimą ir ta užsienio valstybė nėra pripažinta kaip nebendradarbiaujanti valstybė kovojant su neteisėta, nedeklaruojama ir nereglamentuojama žvejyba pagal Reglamento (EB) Nr. 1005/2008 [[#^s-023c9abd57e5b7aa70d42ab7|31 straipsnį]]; ^s-ce3b01cc9ecc9df3e8de8de8
+2) verslinės žvejybos užsienio valstybės išskirtinėje ekonominėje zonoje atveju, jeigu Europos Sąjunga su ta užsienio valstybe nėra sudariusi susitarimo dėl verslinės žvejybos, ūkio subjektas turi tos užsienio valstybės kompetentingos institucijos išduotą žvejybos leidimą ir ta užsienio valstybė nėra pripažinta kaip nebendradarbiaujanti valstybė kovojant su neteisėta, nedeklaruojama ir nereglamentuojama žvejyba pagal [Reglamento (EB) Nr. 1005/2008 31 straipsnį](https://eur-lex.europa.eu/eli/reg/1005/2008/art_31/oj); ^s-ce3b01cc9ecc9df3e8de8de8
 
 
 3) ūkio subjektas teisės aktų nustatyta tvarka turi teisę žvejoti tuo Lietuvos Respublikos žūklės laivu, dėl kurio eksploatavimo prašoma išduoti verslinės žvejybos jūrų vandenyse leidimą, ir nėra sustabdytas verslinės žvejybos jūrų vandenyse leidimo, išduoto tam pačiam Lietuvos Respublikos žūklės laivui eksploatuoti, galiojimas; ^s-f44778248f7815b84e626235
@@ -1444,7 +1444,7 @@ VERSLINĖ ŽVEJYBA JŪRŲ VANDENYSE
 5) ūkio subjektas atitinka Europos Sąjungos teisės aktuose nustatytas specialiąsias sąlygas, jeigu jos taikomos prašyme nurodytos rūšies ar rūšių žuvų verslinės žvejybos jūrų vandenyse leidimui išduoti; ^s-caf1cda19d9b245b3d7cb12c
 
 
-6) kai prašoma išduoti verslinės žvejybos jūrų vandenyse leidimą, nurodytą Reglamento (ES) Nr. 1380/2013 [[#^s-3b0adb7304711276235e9431|31 straipsnio 5 dalyje]], dėl Lietuvos Respublikos žūklės laivo, kuris buvo išbrauktas iš Europos Sąjungos žvejybos laivyno registro ir po to per 24 mėnesius vėl buvo į jį įtrauktas, eksploatavimo: ^s-073b0a8ad8c3681fce8673c2
+6) kai prašoma išduoti verslinės žvejybos jūrų vandenyse leidimą, nurodytą [Reglamento (ES) Nr. 1380/2013 31 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/reg/1380/2013/art_31/par_5/oj), dėl Lietuvos Respublikos žūklės laivo, kuris buvo išbrauktas iš Europos Sąjungos žvejybos laivyno registro ir po to per 24 mėnesius vėl buvo į jį įtrauktas, eksploatavimo: ^s-073b0a8ad8c3681fce8673c2
 
 
 a) ūkio subjektas pateikia dokumentus, kuriais įrodoma, kad tas žūklės laivas nevykdė verslinės žvejybos, arba užsienio valstybės kompetentingos institucijos pažymą, kad žūklės laivas vykdė teisėtą verslinę žvejybą tuo laikotarpiu, kai žūklės laivas buvo išbrauktas iš Europos Sąjungos žvejybos laivyno registro;
@@ -1802,7 +1802,7 @@ AKVAKULTŪRA
 3) laisvai vaikščioti be pramoninio akvakultūros tvenkinių ūkio savininko arba valdytojo leidimo. ^s-bd2055047679cc0276cbc381
 
 
-7. Žemės ūkio ministerija rengia ir žemės ūkio ministras tvirtina Lietuvos Respublikos akvakultūros sektoriaus plėtros daugiametį planą, kaip numatyta Reglamento (ES) Nr. 1380/2013 [[#^s-cde9d8aac85e6cd2b028c572|34 straipsnyje]]. Lietuvos Respublikos akvakultūros sektoriaus plėtros daugiametis planas įgyvendinamas iš valstybės biudžeto, Europos Sąjungos fondų ir kitų lėšų. ^s-c0ffc3f245b40e2948a9c7cd
+7. Žemės ūkio ministerija rengia ir žemės ūkio ministras tvirtina Lietuvos Respublikos akvakultūros sektoriaus plėtros daugiametį planą, kaip numatyta [Reglamento (ES) Nr. 1380/2013 34 straipsnyje](https://eur-lex.europa.eu/eli/reg/1380/2013/art_34/oj). Lietuvos Respublikos akvakultūros sektoriaus plėtros daugiametis planas įgyvendinamas iš valstybės biudžeto, Europos Sąjungos fondų ir kitų lėšų. ^s-c0ffc3f245b40e2948a9c7cd
 
 
 
@@ -1823,7 +1823,7 @@ PREKYBA ŽVEJYBOS PRODUKTAIS IR PARAMA ŽUVININKYSTEI
 3. Pirminio žvejybos produktų pardavimo aukciono nuostatus tvirtina žemės ūkio ministras. ^s-ef9d93b17959200f79a2f1a8
 
 
-4. [[#^s-13f92b6123949bbaf51b73e8|Šio straipsnio 2 dalyje]] nustatyti reikalavimai netaikomi Reglamento (EB) Nr. 1224/2009 [[#^s-fbbde34f0615b2d15434d066|59 straipsnio 3 dalyje]] nustatytu atveju. ^s-8a82c451cc229f436625ebeb
+4. [[#^s-13f92b6123949bbaf51b73e8|Šio straipsnio 2 dalyje]] nustatyti reikalavimai netaikomi [Reglamento (EB) Nr. 1224/2009 59 straipsnio 3 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_59/par_3/oj) nustatytu atveju. ^s-8a82c451cc229f436625ebeb
 
 
 
@@ -1876,7 +1876,7 @@ PREKYBA ŽVEJYBOS PRODUKTAIS IR PARAMA ŽUVININKYSTEI
 2. Žuvininkystės produktų atsekamumo užtikrinimo pagal bendrosios žuvininkystės politikos nuostatas tvarką nustato žemės ūkio ministras arba jo įgaliota institucija. ^s-e27213e98e3ec53e0834d0c7
 
 
-3. Draudžiama perdirbti, parduoti ar supirkti šviežias tų rūšių žuvis, kurių žvejyba yra draudžiama arba tuo metu yra draudžiama, ir tų rūšių žuvis, kurioms netaikomas Reglamento (ES) Nr. 1380/2013 [[#^s-b92a5ba00d8dd66cc9a1464f|15 straipsnyje]] nustatytas reikalavimas ir kurios yra mažesnės negu Europos Sąjungos ir Lietuvos Respublikos teisės aktų nustatyto minimalaus dydžio, išskyrus akvakultūros produktus, turint patvirtinimo dokumentus, žuvis, skirtas žuvivaisai, ir vidaus vandenyse sužvejotų mažesnių negu nustatyto minimalaus dydžio žuvų leistiną kiekį. ^s-876493981e954730ffb143d9
+3. Draudžiama perdirbti, parduoti ar supirkti šviežias tų rūšių žuvis, kurių žvejyba yra draudžiama arba tuo metu yra draudžiama, ir tų rūšių žuvis, kurioms netaikomas [Reglamento (ES) Nr. 1380/2013 15 straipsnyje](https://eur-lex.europa.eu/eli/reg/1380/2013/art_15/oj) nustatytas reikalavimas ir kurios yra mažesnės negu Europos Sąjungos ir Lietuvos Respublikos teisės aktų nustatyto minimalaus dydžio, išskyrus akvakultūros produktus, turint patvirtinimo dokumentus, žuvis, skirtas žuvivaisai, ir vidaus vandenyse sužvejotų mažesnių negu nustatyto minimalaus dydžio žuvų leistiną kiekį. ^s-876493981e954730ffb143d9
 
 
 4. Draudžiamų perdirbti, parduoti ar supirkti jūrų vandenų žvejybos produktų panaudojimo tvarką nustato žemės ūkio ministras. Draudžiamų perdirbti, parduoti ar supirkti vidaus vandenų žvejybos produktų panaudojimo tvarką nustato aplinkos ministras. ^s-5d0d532b4ce4d2a2d2c197ac
@@ -1893,20 +1893,20 @@ PREKYBA ŽVEJYBOS PRODUKTAIS IR PARAMA ŽUVININKYSTEI
 ### 45 straipsnis. Intervencinis žvejybos produktų sandėliavimas ^s-7715f34fbaec04fad282bff8
 
 
-Siekdamos palaikyti žuvų išteklių naudotojų pajamų lygį ir stabilią žvejybos produktų rinką, žvejybos produktų gamintojų organizacijos vykdo intervencinį žvejybos produktų sandėliavimą, kaip numatyta Reglamento (ES) Nr. 1379/2013 [[#^s-d874fa09f35c870760592c9e|30 straipsnyje]]. Intervencinio žvejybos produktų sandėliavimo priežiūrą atlieka žemės ūkio ministro įgaliota institucija.
+Siekdamos palaikyti žuvų išteklių naudotojų pajamų lygį ir stabilią žvejybos produktų rinką, žvejybos produktų gamintojų organizacijos vykdo intervencinį žvejybos produktų sandėliavimą, kaip numatyta [Reglamento (ES) Nr. 1379/2013 30 straipsnyje](https://eur-lex.europa.eu/eli/reg/1379/2013/art_30/oj). Intervencinio žvejybos produktų sandėliavimo priežiūrą atlieka žemės ūkio ministro įgaliota institucija.
 
 
 
 ### 46 straipsnis. Patvirtinto ekonominės veiklos vykdytojo statuso suteikimas ^s-699d56e17e1ecc64522f4d6d
 
 
-1. Patvirtinto ekonominės veiklos vykdytojo statusas, nurodytas Reglamento (EB) Nr. 1005/2008 [[#^s-f132929d149908a4d484bc93|16 straipsnio 2 dalyje]], leidžia ūkio subjektams naudotis palankesnėmis muitinio tikrinimo sąlygomis importuojant žuvininkystės produktus. Žemės ūkio ministro įgaliota institucija suteikia patvirtinto ekonominės veiklos vykdytojo statusą tiems ūkio subjektams, kurie atitinka Reglamento (EB) Nr. 1005/2008 16 straipsnio 3 dalies a, b, c, d ir e punktuose nurodytus kriterijus. ^s-3153b079b00d28b8c35b6f28
+1. Patvirtinto ekonominės veiklos vykdytojo statusas, nurodytas [Reglamento (EB) Nr. 1005/2008 16 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/1005/2008/art_16/par_2/oj), leidžia ūkio subjektams naudotis palankesnėmis muitinio tikrinimo sąlygomis importuojant žuvininkystės produktus. Žemės ūkio ministro įgaliota institucija suteikia patvirtinto ekonominės veiklos vykdytojo statusą tiems ūkio subjektams, kurie atitinka [Reglamento (EB) Nr. 1005/2008 16 straipsnio 3 dalies](https://eur-lex.europa.eu/eli/reg/1005/2008/art_16/par_3/oj) a, b, c, d ir e punktuose nurodytus kriterijus. ^s-3153b079b00d28b8c35b6f28
 
 
-2. Suteikus patvirtinto ekonominės veiklos vykdytojo statusą, ūkio subjektui išduodamas patvirtinto ekonominės veiklos vykdytojo pažymėjimas, vadovaujantis Reglamento (EB) Nr. 1010/2009 [[#^s-e6c622accfbf51264d892cf9|9 straipsnyje]] nustatytomis patvirtinto ekonominės veiklos vykdytojo pažymėjimo išdavimo sąlygomis. ^s-fc1ccdd48a15b4db35f0749c
+2. Suteikus patvirtinto ekonominės veiklos vykdytojo statusą, ūkio subjektui išduodamas patvirtinto ekonominės veiklos vykdytojo pažymėjimas, vadovaujantis [Reglamento (EB) Nr. 1010/2009 9 straipsnyje](https://eur-lex.europa.eu/eli/reg/1010/2009/art_9/oj) nustatytomis patvirtinto ekonominės veiklos vykdytojo pažymėjimo išdavimo sąlygomis. ^s-fc1ccdd48a15b4db35f0749c
 
 
-3. Patvirtinto ekonominės veiklos vykdytojo statuso galiojimą sustabdo, galiojimo sustabdymą panaikina ir patvirtinto ekonominės veiklos vykdytojo pažymėjimą panaikina žemės ūkio ministro įgaliota institucija pagal Reglamente (EB) Nr. 1010/2009 nustatytas sąlygas. ^s-dcfb5a0e80727ed98681eb3e
+3. Patvirtinto ekonominės veiklos vykdytojo statuso galiojimą sustabdo, galiojimo sustabdymą panaikina ir patvirtinto ekonominės veiklos vykdytojo pažymėjimą panaikina žemės ūkio ministro įgaliota institucija pagal [Reglamente (EB) Nr. 1010/2009](https://eur-lex.europa.eu/eli/reg/1010/2009/oj) nustatytas sąlygas. ^s-dcfb5a0e80727ed98681eb3e
 
 
 4. Patvirtinto ekonominės veiklos vykdytojo pažymėjimo išdavimo, patvirtinto ekonominės veiklos vykdytojo statuso galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir patvirtinto ekonominės veiklos vykdytojo pažymėjimo panaikinimo tvarką nustato žemės ūkio ministras. ^s-df8814d78cc71960dcd213ed
@@ -1972,7 +1972,7 @@ Siekdamos palaikyti žuvų išteklių naudotojų pajamų lygį ir stabilią žve
 1) pagal kompetenciją kontroliuoja (prižiūri) žuvininkystės produktų atitiktį saugos, kokybės, ženklinimo ir kitiems privalomiesiems reikalavimams visais žuvininkystės produktų gamybos, perdirbimo ir realizavimo etapais; ^s-429c8deec9826e6e591109ca
 
 
-2) žuvininkystės produktų mažmeninės prekybos vietose papildomai tikrina, ar maistui parduodamos šviežios žuvys nėra sužvejotos uždraustos žvejybos metu ar mėgėjų žvejybos būdu, ar sužvejotos žuvys, mažesnės negu minimalus jų dydis, parduodamos atsižvelgiant į Reglamento (ES) Nr. 1380/2013 [[#^s-b92a5ba00d8dd66cc9a1464f|15 straipsnio]] 11 ir 12 dalių nuostatas; ^s-df31f050768ecc8b1225ca1e
+2) žuvininkystės produktų mažmeninės prekybos vietose papildomai tikrina, ar maistui parduodamos šviežios žuvys nėra sužvejotos uždraustos žvejybos metu ar mėgėjų žvejybos būdu, ar sužvejotos žuvys, mažesnės negu minimalus jų dydis, parduodamos atsižvelgiant į [Reglamento (ES) Nr. 1380/2013 15 straipsnio](https://eur-lex.europa.eu/eli/reg/1380/2013/art_15/oj) [[#^s-6d9599ec7dc7f2e4515174d7|11]] ir [[#^s-07d119f9bdc2168c1f560553|12]] dalių nuostatas; ^s-df31f050768ecc8b1225ca1e
 
 
 3) pagal kompetenciją akvakultūros tvenkiniuose, vandens telkiniuose ir uždarosiose akvakultūros sistemose taiko gyvūnų užkrečiamųjų ligų stebėsenos, prevencijos ir kontrolės priemones. ^s-d29c05d7daf3d3c0ea098fc6
@@ -2080,7 +2080,7 @@ Siekdamos palaikyti žuvų išteklių naudotojų pajamų lygį ir stabilią žve
 5. Žuvininkystės kontrolės pareigūnų atliekamų žuvininkystės kontrolės vykdymo patikrinimų tvarką nustato žemės ūkio ministras arba jo įgaliota institucija. ^s-608424ed7fd50becd87c1d08
 
 
-6. Šio straipsnio ir šio įstatymo 53–[[#^s-97e7d163db5d22a23d5aea46|68 straipsnių]] nuostatos, susijusios su žuvininkystės kontrole ūkio subjektams, mutatis mutandis taikomos ir užsienio valstybių piliečiams, asmenims be pilietybės ir užsienio valstybėse registruotiems juridiniams asmenims, eksportuojantiems į Lietuvos Respubliką žvejybos produktus ir (arba) vykdantiems verslinę žvejybą jūrų vandenyse. Šio straipsnio ir šio įstatymo 53, 62, 63, 64, 65 ir [[#^s-a044d986aafd5bd32d5c6e08|66 straipsnių]] nuostatos, susijusios su žuvininkystės kontrole ūkio subjektams, mutatis mutandis taikomos ir asmenims, užsiimantiems mėgėjų žvejyba jūrų vandenyse. ^s-48d55e0ce1220901c73f8c19
+6. Šio straipsnio ir šio įstatymo [[#^s-c44b32c9e936b0f0ed150ff8|53]]–[[#^s-97e7d163db5d22a23d5aea46|68]] straipsnių nuostatos, susijusios su žuvininkystės kontrole ūkio subjektams, mutatis mutandis taikomos ir užsienio valstybių piliečiams, asmenims be pilietybės ir užsienio valstybėse registruotiems juridiniams asmenims, eksportuojantiems į Lietuvos Respubliką žvejybos produktus ir (arba) vykdantiems verslinę žvejybą jūrų vandenyse. Šio straipsnio ir šio įstatymo [[#^s-c44b32c9e936b0f0ed150ff8|53]], [[#^s-837b4dd407d0367bea575b4b|62]], [[#^s-5b4d5e27663a5f0a5f8bff6e|63]], [[#^s-9aaabcfa4834905db6393fa2|64]], [[#^s-e242d5a04d1feb4fb34ec8d8|65]] ir [[#^s-a044d986aafd5bd32d5c6e08|66]] straipsnių nuostatos, susijusios su žuvininkystės kontrole ūkio subjektams, mutatis mutandis taikomos ir asmenims, užsiimantiems mėgėjų žvejyba jūrų vandenyse. ^s-48d55e0ce1220901c73f8c19
 
 
 
@@ -2453,13 +2453,13 @@ Jeigu privalomasis nurodymas laiku neįvykdomas, žuvininkystės kontrolės pare
 1. Sunkiais pažeidimais žuvininkystės srityje yra laikomi: ^s-0756ef71c11e645fa180319e
 
 
-1) Reglamento (EB) Nr. 1224/2009 90 straipsnio 2 dalyje nurodyti pažeidimai; ^s-9128947be52af99e3fc46f9d
+1) [Reglamento (EB) Nr. 1224/2009 90 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_90/par_2/oj) nurodyti pažeidimai; ^s-9128947be52af99e3fc46f9d
 
 
-2) Reglamento (EB) Nr. 1224/2009 90 straipsnio 3 dalyje nurodyti pažeidimai, jeigu juos sunkiais pripažįsta šio įstatymo [[#^s-b99c905f2b0abd57cecf5316|70 straipsnio 1 dalyje]] nurodyti pareigūnai. ^s-4f151d713340b7409b8052fe
+2) [Reglamento (EB) Nr. 1224/2009 90 straipsnio 3 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_90/par_3/oj) nurodyti pažeidimai, jeigu juos sunkiais pripažįsta šio įstatymo [[#^s-b99c905f2b0abd57cecf5316|70 straipsnio 1 dalyje]] nurodyti pareigūnai. ^s-4f151d713340b7409b8052fe
 
 
-2. Sunkiais pažeidimais žuvininkystės srityje [[#^s-4f151d713340b7409b8052fe|šio straipsnio 1 dalies 2 punkte]] nurodyti pažeidimai pripažįstami, jeigu yra atitiktis bent vienam iš kriterijų, nustatytų Reglamento (EB) Nr. 1224/2009 IV priede. ^s-b6b520ef4d7ad63e4593c077
+2. Sunkiais pažeidimais žuvininkystės srityje [[#^s-4f151d713340b7409b8052fe|šio straipsnio 1 dalies 2 punkte]] nurodyti pažeidimai pripažįstami, jeigu yra atitiktis bent vienam iš kriterijų, nustatytų [Reglamento (EB) Nr. 1224/2009](https://eur-lex.europa.eu/eli/reg/1224/2009/oj) IV priede. ^s-b6b520ef4d7ad63e4593c077
 
 
 3. Šio skirsnio nuostatos dėl ūkio subjektų atsakomybės už sunkius pažeidimus mutatis mutandis taikomos ir užsienio valstybių piliečiams, asmenims be pilietybės ir užsienio valstybėse registruotiems juridiniams asmenims, eksportuojantiems į Lietuvos Respubliką žvejybos produktus ir (arba) vykdantiems verslinę žvejybą jūrų vandenyse. ^s-a39a7a0d69640b94200a81b4
@@ -2469,7 +2469,7 @@ Jeigu privalomasis nurodymas laiku neįvykdomas, žuvininkystės kontrolės pare
 ### 70 straipsnis. Sunkių pažeidimų pripažinimas ir protokolo surašymas ^s-9143dd52dafb42fcf13b1b78
 
 
-1. Pažeidimus sunkiais pripažįsta ir protokolus surašo dėl Reglamento (EB) Nr. 1224/2009 90 straipsnio 2 ir [[#^s-4056c205f367ce8331ae8c6f|3 dalyse]] nurodytų sunkių pažeidimų Žuvininkystės tarnybos žuvininkystės kontrolės pareigūnai. Įgalioti muitinės pareigūnai pažeidimus sunkiais pripažįsta ir protokolus surašo dėl Reglamento (EB) Nr. 1224/2009 90 straipsnio 2 dalies c, d ir n punktuose ir 90 straipsnio 3 dalies m punkte nurodytų sunkių pažeidimų, kai jie susiję su muitinės pareigūnų vykdoma veikla ir (arba) muitinei teikiamų dokumentų, informacijos ar duomenų klastojimu. ^s-b99c905f2b0abd57cecf5316
+1. Pažeidimus sunkiais pripažįsta ir protokolus surašo dėl [Reglamento (EB) Nr. 1224/2009 90 straipsnio](https://eur-lex.europa.eu/eli/reg/1224/2009/art_90/oj) 2 ir 3 dalyse nurodytų sunkių pažeidimų Žuvininkystės tarnybos žuvininkystės kontrolės pareigūnai. Įgalioti muitinės pareigūnai pažeidimus sunkiais pripažįsta ir protokolus surašo dėl [Reglamento (EB) Nr. 1224/2009 90 straipsnio 2 dalies](https://eur-lex.europa.eu/eli/reg/1224/2009/art_90/par_2/oj) c, d ir n punktuose ir 90 straipsnio 3 dalies m punkte nurodytų sunkių pažeidimų, kai jie susiję su muitinės pareigūnų vykdoma veikla ir (arba) muitinei teikiamų dokumentų, informacijos ar duomenų klastojimu. ^s-b99c905f2b0abd57cecf5316
 
 
 2. Siekdami nutraukti daromą sunkų pažeidimą, užkirsti kelią sunkiems pažeidimams, surašyti protokolus, užtikrinti bylų nagrinėjimą ir nutarimų vykdymą, žuvininkystės kontrolės pareigūnai žemės ūkio ministro nustatyta tvarka taiko vieną ar kelias neatidėliotino vykdymo priemones: ^s-db95213a1d0123d38894f37f
@@ -2505,7 +2505,7 @@ Jeigu privalomasis nurodymas laiku neįvykdomas, žuvininkystės kontrolės pare
 4. Šio įstatymo [[#^s-c44b32c9e936b0f0ed150ff8|53 straipsnyje]] nustatyta tvarka surašius protokolą, jo vienas egzempliorius kartu su kita bylos medžiaga ne vėliau kaip per 3 darbo dienas nuo protokolo surašymo dienos perduodamas nagrinėti šio įstatymo [[#^s-5ded7650d26788d3c6195519|71 straipsnio 1 dalyje]] nurodytai komisijai ar šio įstatymo [[#^s-2b7071336f2b2750f41c280f|71 straipsnio 2 dalyje]] nurodytam pareigūnui pagal kompetenciją, o kitas egzempliorius nedelsiant įteikiamas sunkaus pažeidimo padarymu įtariamam subjektui. ^s-d250c8c6de4f3b3ce565fb8c
 
 
-5. Protokole nurodoma: jo surašymo data ir vieta, protokolą surašiusio asmens pareigos, vardas, pavardė; duomenys apie atsakomybėn traukiamą ūkio subjektą; sunkaus pažeidimo padarymo vieta, laikas ir esmė; Reglamento (EB) Nr. 1224/2009 straipsnis, straipsnio dalis ir punktas, kuriame nustatytus reikalavimus pažeidė ūkio subjektas; liudytojų, jeigu jų yra, vardai, pavardės, adresai; atsakomybėn traukiamo ūkio subjekto įgalioto atstovo pasiaiškinimas; kita informacija, būtina bylai išnagrinėti. ^s-8703f647e89e5a2c6333eddf
+5. Protokole nurodoma: jo surašymo data ir vieta, protokolą surašiusio asmens pareigos, vardas, pavardė; duomenys apie atsakomybėn traukiamą ūkio subjektą; sunkaus pažeidimo padarymo vieta, laikas ir esmė; [Reglamento (EB) Nr. 1224/2009](https://eur-lex.europa.eu/eli/reg/1224/2009/oj) straipsnis, straipsnio dalis ir punktas, kuriame nustatytus reikalavimus pažeidė ūkio subjektas; liudytojų, jeigu jų yra, vardai, pavardės, adresai; atsakomybėn traukiamo ūkio subjekto įgalioto atstovo pasiaiškinimas; kita informacija, būtina bylai išnagrinėti. ^s-8703f647e89e5a2c6333eddf
 
 
 6. Protokolą pasirašo jį surašęs asmuo ir atsakomybėn traukiamas ūkio subjektas ar jo įgaliotas atstovas; jeigu yra liudytojų, protokolą gali pasirašyti ir šie asmenys. Jeigu atsakomybėn traukiamas ūkio subjektas ar jo įgaliotas atstovas atsisako pasirašyti protokolą arba nedalyvauja jį surašant, tai pažymima protokole. ^s-8e21eab621f8c54781a87d7a
@@ -2521,10 +2521,10 @@ Jeigu privalomasis nurodymas laiku neįvykdomas, žuvininkystės kontrolės pare
 ### 71 straipsnis. Sunkaus pažeidimo bylos nagrinėjimas ir nutarimo priėmimas ^s-d4471ccdb972a22f4a229723
 
 
-1. Dėl Reglamento (EB) Nr. 1224/2009 90 straipsnio 2 ir [[#^s-ea075b81b245c4d3f1844d8f|3 dalyse]] nurodytų sunkių pažeidimų bylas, išskyrus [[#^s-2b7071336f2b2750f41c280f|šio straipsnio 2 dalyje]] nurodytą atvejį, nagrinėja ir priima vieną iš [[#^s-403c2c999c53ef4e99382daf|šio straipsnio 8 dalyje]] nurodytų nutarimų Žuvininkystės tarnybos vadovo įsakymu iš žuvininkystės kontrolės pareigūnų ir kitų kompetentingų Žuvininkystės tarnybos darbuotojų sudaryta komisija, kurios darbo tvarką nustato Žuvininkystės tarnyba. ^s-5ded7650d26788d3c6195519
+1. Dėl [Reglamento (EB) Nr. 1224/2009 90 straipsnio](https://eur-lex.europa.eu/eli/reg/1224/2009/art_90/oj) 2 ir 3 dalyse nurodytų sunkių pažeidimų bylas, išskyrus [[#^s-2b7071336f2b2750f41c280f|šio straipsnio 2 dalyje]] nurodytą atvejį, nagrinėja ir priima vieną iš [[#^s-403c2c999c53ef4e99382daf|šio straipsnio 8 dalyje]] nurodytų nutarimų Žuvininkystės tarnybos vadovo įsakymu iš žuvininkystės kontrolės pareigūnų ir kitų kompetentingų Žuvininkystės tarnybos darbuotojų sudaryta komisija, kurios darbo tvarką nustato Žuvininkystės tarnyba. ^s-5ded7650d26788d3c6195519
 
 
-2. Jeigu padarytas Reglamento (EB) Nr. 1224/2009 90 straipsnio 2 dalies c, d ir n punktuose ir 90 straipsnio 3 dalies m punkte nurodytas sunkus pažeidimas, susijęs su muitinės pareigūnų vykdoma veikla ir (arba) muitinei teikiamų dokumentų, informacijos ar duomenų klastojimu, sunkių pažeidimų bylas nagrinėja ir priima vieną iš [[#^s-403c2c999c53ef4e99382daf|šio straipsnio 8 dalyje]] nurodytų nutarimų muitinės pareigūnas. ^s-2b7071336f2b2750f41c280f
+2. Jeigu padarytas [Reglamento (EB) Nr. 1224/2009 90 straipsnio 2 dalies](https://eur-lex.europa.eu/eli/reg/1224/2009/art_90/par_2/oj) c, d ir n punktuose ir 90 straipsnio 3 dalies m punkte nurodytas sunkus pažeidimas, susijęs su muitinės pareigūnų vykdoma veikla ir (arba) muitinei teikiamų dokumentų, informacijos ar duomenų klastojimu, sunkių pažeidimų bylas nagrinėja ir priima vieną iš [[#^s-403c2c999c53ef4e99382daf|šio straipsnio 8 dalyje]] nurodytų nutarimų muitinės pareigūnas. ^s-2b7071336f2b2750f41c280f
 
 
 3. Sunkių pažeidimų bylos nagrinėjamos ir nutarimai sunkaus pažeidimo byloje priimami per 40 darbo dienų nuo tos dienos, kai [[#^s-5ded7650d26788d3c6195519|šio straipsnio 1 dalyje]] nurodyta komisija ar [[#^s-2b7071336f2b2750f41c280f|šio straipsnio 2 dalyje]] nurodytas pareigūnas gauna protokolą ir kitą bylos medžiagą. Sankcijos už sunkų pažeidimą negali būti skiriamos, jeigu nuo sunkaus pažeidimo padarymo dienos, o jeigu sunkus pažeidimas yra tęstinis, – nuo jo paaiškėjimo dienos praėjo daugiau kaip 5 metai ir daugiau kaip 3 metai nuo sunkaus pažeidimo nustatymo. ^s-ea075b81b245c4d3f1844d8f
@@ -2560,13 +2560,13 @@ Nr. XV-428, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16539
 4) motyvuotai perduoti bylos nagrinėjimą [[#^s-5ded7650d26788d3c6195519|šio straipsnio 1 dalyje]] nurodytai komisijai ar [[#^s-2b7071336f2b2750f41c280f|šio straipsnio 2 dalyje]] nurodytam pareigūnui. ^s-2b1ef8b22a5752e93709bb36
 
 
-9. Nutarime turi būti nurodyta: nutarimą priėmusių [[#^s-5ded7650d26788d3c6195519|šio straipsnio 1 dalyje]] nurodytos komisijos pavadinimas arba [[#^s-2b7071336f2b2750f41c280f|šio straipsnio 2 dalyje]] nurodyto pareigūno vardas, pavardė, pareigos; bylos nagrinėjimo data; duomenys apie ūkio subjektą, kurio byla nagrinėjama; duomenys apie kitus byloje dalyvaujančius asmenis; bylos nagrinėjimo metu nustatytų aplinkybių išdėstymas ir motyvuotas jų įvertinimas; Reglamento (EB) Nr. 1224/2009 straipsnis, straipsnio dalis ir punktas, kuriame nustatytus reikalavimus pažeidė ūkio subjektas; byloje priimtas sprendimas. ^s-67de8649d441a2780a6b07e7
+9. Nutarime turi būti nurodyta: nutarimą priėmusių [[#^s-5ded7650d26788d3c6195519|šio straipsnio 1 dalyje]] nurodytos komisijos pavadinimas arba [[#^s-2b7071336f2b2750f41c280f|šio straipsnio 2 dalyje]] nurodyto pareigūno vardas, pavardė, pareigos; bylos nagrinėjimo data; duomenys apie ūkio subjektą, kurio byla nagrinėjama; duomenys apie kitus byloje dalyvaujančius asmenis; bylos nagrinėjimo metu nustatytų aplinkybių išdėstymas ir motyvuotas jų įvertinimas; [Reglamento (EB) Nr. 1224/2009](https://eur-lex.europa.eu/eli/reg/1224/2009/oj) straipsnis, straipsnio dalis ir punktas, kuriame nustatytus reikalavimus pažeidė ūkio subjektas; byloje priimtas sprendimas. ^s-67de8649d441a2780a6b07e7
 
 
 10. Jeigu sprendžiant klausimą dėl sankcijos už sunkų pažeidimą skyrimo kartu sprendžiamas klausimas dėl sunkiu pažeidimu žuvų ištekliams padarytos žalos atlyginimo, nutarime nurodomas išieškotinos žalos dydis, jos atlyginimo terminas ir tvarka. ^s-1ff03064656322c00ebac174
 
 
-11. Jeigu pagal Reglamento (EB) Nr. 1224/2009 III priedą už sunkaus pažeidimo padarymą ūkio subjektui, kuriam yra išduotas Lietuvos Respublikos žūklės laivo liudijimas, skiriami taškai, nutarime nurodomas jų skaičius. ^s-cd4506ac1a96bf6981d2dea4
+11. Jeigu pagal [Reglamento (EB) Nr. 1224/2009](https://eur-lex.europa.eu/eli/reg/1224/2009/oj) III priedą už sunkaus pažeidimo padarymą ūkio subjektui, kuriam yra išduotas Lietuvos Respublikos žūklės laivo liudijimas, skiriami taškai, nutarime nurodomas jų skaičius. ^s-cd4506ac1a96bf6981d2dea4
 
 
 12. Nutarime turi būti išspręstas klausimas dėl paimtų sunkaus pažeidimo padarymo įrankių ar objektų, taip pat nurodyta nutarimo apskundimo tvarka ir terminas. ^s-fbb8134143525cbbc83bbfd4
@@ -2613,7 +2613,7 @@ Nr. XV-428, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16539
 5. Jeigu sunkaus pažeidimo metu žvejybos ar akvakultūros produktų negaunama, skiriama bauda nuo 1 iki 5 procentų ūkio subjekto bendrųjų metinių pajamų, gautų iš verslinės žvejybos veiklos arba akvakultūros praėjusiais finansiniais metais, buvusiais prieš pažeidimo padarymą. Jeigu ūkio subjektas praėjusiais finansiniais metais negavo pajamų, bauda apskaičiuojama pagal ankstesnių finansinių metų bendrąsias metines pajamas iš verslinės žvejybos arba akvakultūros veiklos. Jeigu ūkio subjektas verslinės žvejybos arba akvakultūros veiklą pradėjo tik sunkaus pažeidimo padarymo metais, skiriama bauda nuo 1 iki 5 procentų ūkio subjekto sunkaus pažeidimo padarymo metų potencialių bendrųjų metinių pajamų iš verslinės žvejybos arba akvakultūros veiklos, apskaičiuotų įvertinus tais metais gautas vidutines mėnesines pajamas. ^s-8056260c57a41620c417ff52
 
 
-6. Skiriamos baudos dydis nustatomas pagal baudos minimumo ir maksimumo vidurkį, atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes, nurodytas šio straipsnio 10 ar [[#^s-987d164f4c73f2cb3185fec5|11 dalyje]]. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Baudos dydžio mažinimas ar didinimas motyvuojamas sunkaus pažeidimo bylos nutarime. ^s-3b8c791ba6caa9fa12153768
+6. Skiriamos baudos dydis nustatomas pagal baudos minimumo ir maksimumo vidurkį, atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes, nurodytas šio straipsnio [[#^s-4b18b09cdb7141e315b59e79|10]] ar [[#^s-987d164f4c73f2cb3185fec5|11]] dalyje. Jeigu yra atsakomybę lengvinančių aplinkybių, baudos dydis mažinamas nuo vidurkio iki minimumo, o jeigu yra atsakomybę sunkinančių aplinkybių, baudos dydis didinamas nuo vidurkio iki maksimumo. Baudos dydžio mažinimas ar didinimas motyvuojamas sunkaus pažeidimo bylos nutarime. ^s-3b8c791ba6caa9fa12153768
 
 
 7. Baudos dydis, apskaičiuotas [[#^s-3b8c791ba6caa9fa12153768|šio straipsnio 6 dalyje]] nustatyta tvarka, sumažinamas atsižvelgiant į ūkio subjekto nuostolius, patirtus dėl neatidėliotinų vykdymo priemonių taikymo. ^s-8a704b6e9c809644b69b7af0
@@ -2658,7 +2658,7 @@ Nr. XV-428, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16539
 7) dėl sunkaus pažeidimo atitinkamiems žuvų ištekliams padaryta didesnė negu 1 000 bazinio bausmių ir nuobaudų dydžio žala; ^s-0a8867a500ae6d77f3797199
 
 
-8) ūkio subjektas padarė sunkų pažeidimą, už kurį pagal Reglamento (EB) Nr. 1224/2009 III priedą skiriama 6 ir daugiau taškų. ^s-f83566e98e4be8f5d887cb65
+8) ūkio subjektas padarė sunkų pažeidimą, už kurį pagal [Reglamento (EB) Nr. 1224/2009](https://eur-lex.europa.eu/eli/reg/1224/2009/oj) III priedą skiriama 6 ir daugiau taškų. ^s-f83566e98e4be8f5d887cb65
 
 
 12. Šiame įstatyme nustatytų sankcijų taikymas neatleidžia ūkio subjektų nuo pareigos atlyginti sunkiu pažeidimu žuvų ištekliams padarytą žalą. ^s-25133f814af9d26194d27f4f
@@ -2671,7 +2671,7 @@ Nr. XV-428, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16539
 1. Šio įstatymo nustatyta tvarka paskirtos baudos į valstybės biudžetą turi būti sumokamos ne vėliau kaip per 40 kalendorinių dienų nuo nutarimo skirti baudą įteikimo ūkio subjektui dienos, o jeigu toks nutarimas apskundžiamas ir teismas skundo nepatenkina, – ne vėliau kaip per 40 kalendorinių dienų nuo teismo sprendimo nuorašo įteikimo ūkio subjektui dienos. ^s-ad77c5c4f921566abf376ca0
 
 
-2. Nutarimas dėl baudos skyrimo yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka. ^s-df2a93ddf04f23398ca5a175
+2. Nutarimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir [Lietuvos Respublikos civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-df2a93ddf04f23398ca5a175
 Straipsnio dalies pakeitimai:
 Nr. XV-890, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08220
 
@@ -2680,7 +2680,7 @@ Nr. XV-890, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08220
 ### 75 straipsnis. Taškų skyrimas ūkio subjektams ^s-1dfd87d4a3e0b45b8696787e
 
 
-1. Už Reglamento (EB) Nr. 1224/2009 90 straipsnio 2 ir [[#^s-90b4094367101b55d8ee4680|3 dalyse]] nurodyto sunkaus pažeidimo padarymą ūkio subjektui, kuriam yra išduotas Lietuvos Respublikos žūklės laivo liudijimas, skiriamas Reglamento (EB) Nr. 1224/2009 III priede nurodytas atitinkamas taškų skaičius. Taškai susiejami su ūkio subjekto valdomu Lietuvos Respublikos žvejybos laivu, kuris buvo sunkaus pažeidimo padarymo įrankis ar priemonė arba tiesioginis objektas. ^s-743df512ea8218806fffe110
+1. Už [Reglamento (EB) Nr. 1224/2009 90 straipsnio](https://eur-lex.europa.eu/eli/reg/1224/2009/art_90/oj) 2 ir 3 dalyse nurodyto sunkaus pažeidimo padarymą ūkio subjektui, kuriam yra išduotas Lietuvos Respublikos žūklės laivo liudijimas, skiriamas [Reglamento (EB) Nr. 1224/2009](https://eur-lex.europa.eu/eli/reg/1224/2009/oj) III priede nurodytas atitinkamas taškų skaičius. Taškai susiejami su ūkio subjekto valdomu Lietuvos Respublikos žvejybos laivu, kuris buvo sunkaus pažeidimo padarymo įrankis ar priemonė arba tiesioginis objektas. ^s-743df512ea8218806fffe110
 
 
 2. Taškų ūkio subjektams skyrimo ir apskaitos tvarką nustato žemės ūkio ministras arba jo įgaliota institucija. ^s-5f27715282328512a50d2b1b
@@ -2692,7 +2692,7 @@ Nr. XV-890, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08220
 4. Jeigu sankciją už sunkų pažeidimą skyrė kitos Europos Sąjungos valstybės narės kompetentinga institucija, taškus šio įstatymo [[#^s-5ded7650d26788d3c6195519|71 straipsnio 1 dalyje]] nurodyta komisija skiria po to, kai gauna informaciją apie sankcijos paskyrimą iš kitos Europos Sąjungos valstybės narės. ^s-754229e74a84768870ff0017
 
 
-5. Jeigu šio įstatymo [[#^s-5ded7650d26788d3c6195519|71 straipsnio 1 dalyje]] nurodyta komisija skyrė sankciją už Reglamento (EB) Nr. 1224/2009 90 straipsnio 2 ir [[#^s-90b4094367101b55d8ee4680|3 dalyse]] nurodytą sunkų pažeidimą kitos Europos Sąjungos valstybės narės ūkio subjektui, ji apie sankcijos paskyrimą per 5 darbo dienas praneša atitinkamos valstybės narės kompetentingai institucijai. ^s-207f9e2a0c8645cf2786dd47
+5. Jeigu šio įstatymo [[#^s-5ded7650d26788d3c6195519|71 straipsnio 1 dalyje]] nurodyta komisija skyrė sankciją už [Reglamento (EB) Nr. 1224/2009 90 straipsnio](https://eur-lex.europa.eu/eli/reg/1224/2009/art_90/oj) 2 ir 3 dalyse nurodytą sunkų pažeidimą kitos Europos Sąjungos valstybės narės ūkio subjektui, ji apie sankcijos paskyrimą per 5 darbo dienas praneša atitinkamos valstybės narės kompetentingai institucijai. ^s-207f9e2a0c8645cf2786dd47
 
 
 6. Taškų skyrimas įforminamas nutarimu sunkaus pažeidimo byloje. ^s-2afa4fde44c2a70b4a9aa612
@@ -2711,7 +2711,7 @@ Nr. XV-890, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08220
 2) teisės užsiimti žvejyba atėmimas, sustabdant arba panaikinant Lietuvos Respublikos žūklės laivo liudijimo galiojimą; ^s-b67c66a3771f60c768ac5bbe
 
 
-3) patvirtinto ekonominės veiklos vykdytojo statuso, suteikto pagal Reglamento (EB) Nr. 1005/2008 16 straipsnio 3 dalį, galiojimo sustabdymas arba ekonominės veiklos vykdytojo pažymėjimo panaikinimas; ^s-9934fa49ff902b0854aa4cb3
+3) patvirtinto ekonominės veiklos vykdytojo statuso, suteikto pagal [Reglamento (EB) Nr. 1005/2008 16 straipsnio 3 dalį](https://eur-lex.europa.eu/eli/reg/1005/2008/art_16/par_3/oj), galiojimo sustabdymas arba ekonominės veiklos vykdytojo pažymėjimo panaikinimas; ^s-9934fa49ff902b0854aa4cb3
 
 
 4) teisės vykdyti pirminį žvejybos produktų supirkimą panaikinimas; ^s-2eb43e73cd63ee30a6be0e1c
@@ -2723,7 +2723,7 @@ Nr. XV-890, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08220
 2. Papildoma sankcija gali būti skiriama, kai yra dvi ar daugiau ūkio subjekto atsakomybę sunkinančių aplinkybių. ^s-9122d2b4d50fe3342a8b0f42
 
 
-3. Kiekviena iš papildomų sankcijų, nurodytų [[#^s-fd6e9dc9363c9d93af7dbf10|šio straipsnio 1 dalies]] 1, 3 ir [[#^s-8684289a5a72b596f6ba4327|4 punktuose]], gali būti skiriama šiais atvejais: ^s-5b41fe3bca8ea9c5618e9d52
+3. Kiekviena iš papildomų sankcijų, nurodytų [[#^s-fd6e9dc9363c9d93af7dbf10|šio straipsnio 1 dalies]] [[#^s-bf73bea571549bf58b7ec2a5|1]], [[#^s-564fecf4c3d2c775ced7b808|3]] ir [[#^s-8684289a5a72b596f6ba4327|4]] punktuose, gali būti skiriama šiais atvejais: ^s-5b41fe3bca8ea9c5618e9d52
 
 
 1) žvejybos įrankiai, kurie yra sunkaus pažeidimo padarymo įrankis ar priemonė, konfiskuojami, jeigu šie žvejybos įrankiai yra draudžiami Europos Sąjungos teisės aktais ar neatitinka jų reikalavimų; ^s-bf73bea571549bf58b7ec2a5
@@ -2738,7 +2738,7 @@ Nr. XV-890, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08220
 4) teisė vykdyti pirminį žvejybos produktų supirkimą panaikinama, kai ūkio subjektas sunkų pažeidimą padarė vykdydamas pirminį žvejybos produktų supirkimą. ^s-8684289a5a72b596f6ba4327
 
 
-4. Papildoma sankcija, nurodyta [[#^s-b67c66a3771f60c768ac5bbe|šio straipsnio 1 dalies 2 punkte]], skiriama automatiškai, kaip nustatyta Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje, kai ūkio subjektas sukaupia Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje nurodytą taškų skaičių. ^s-9b8929ca573e20ae19b12582
+4. Papildoma sankcija, nurodyta [[#^s-b67c66a3771f60c768ac5bbe|šio straipsnio 1 dalies 2 punkte]], skiriama automatiškai, kaip nustatyta [Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_92/par_6/oj), kai ūkio subjektas sukaupia [Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_92/par_6/oj) nurodytą taškų skaičių. ^s-9b8929ca573e20ae19b12582
 
 
 5. Kiekviena iš [[#^s-fd6e9dc9363c9d93af7dbf10|šio straipsnio 1 dalyje]] nurodytų papildomų sankcijų gali būti skiriama kartu su kitomis papildomomis sankcijomis. ^s-e38a99c0dbb7e6530df3a3ae
@@ -2748,10 +2748,10 @@ Nr. XV-890, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08220
 ### 77 straipsnis. Taškų skyrimas žvejybos laivų kapitonams ir teisės eiti pareigas atėmimas ^s-87ac43ec74630a177d765894
 
 
-1. Už Administracinių nusižengimų kodekso 301 straipsnyje numatytų pažeidimų padarymą Žuvininkystės tarnyba nutarimu pažeidimo byloje žvejybos laivo kapitonui skiria Reglamento (EB) Nr. 1224/2009 III priede nurodytą atitinkamą taškų skaičių. ^s-96e450abf09f702ee354cb5b
+1. Už Administracinių nusižengimų kodekso 301 straipsnyje numatytų pažeidimų padarymą Žuvininkystės tarnyba nutarimu pažeidimo byloje žvejybos laivo kapitonui skiria [Reglamento (EB) Nr. 1224/2009](https://eur-lex.europa.eu/eli/reg/1224/2009/oj) III priede nurodytą atitinkamą taškų skaičių. ^s-96e450abf09f702ee354cb5b
 
 
-2. Teisė eiti žvejybos laivo kapitono pareigas atimama Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje nurodytu atveju ir terminais. ^s-3a63ed80bfebe17416026325
+2. Teisė eiti žvejybos laivo kapitono pareigas atimama [Reglamento (EB) Nr. 1224/2009 92 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_92/par_6/oj) nurodytu atveju ir terminais. ^s-3a63ed80bfebe17416026325
 
 
 3. Jeigu žvejybos laivo kapitonas per 3 metus nuo paskutinio sunkaus pažeidimo padarymo dienos nepadaro kito sunkaus pažeidimo, visus jam skirtus taškus Žuvininkystės tarnyba panaikina. ^s-8abe6d0f8e4c2c44405b4e56
@@ -2804,40 +2804,40 @@ priedas
 
 
 
-1. 2002 m. gruodžio 16 d. Tarybos reglamentas (EB) Nr. 2347/2002, nustatantis konkrečius prieinamumo reikalavimus ir susijusias sąlygas, taikomas giliavandenių žuvų išteklių žvejybai, su visais pakeitimais. ^s-258b4f76ae085a190dcfca69
+1. 2002 m. gruodžio 16 d. Tarybos [reglamentas (EB) Nr. 2347/2002](https://eur-lex.europa.eu/eli/reg/2347/2002/oj), nustatantis konkrečius prieinamumo reikalavimus ir susijusias sąlygas, taikomas giliavandenių žuvų išteklių žvejybai, su visais pakeitimais. ^s-258b4f76ae085a190dcfca69
 
 
 2. 2008 m. liepos 14 d. Komisijos reglamentas (EB) Nr. 665/2008, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 199/2008 dėl Bendrijos sistemos, skirtos duomenų rinkimui, tvarkymui ir naudojimui žuvininkystės sektoriuje bei paramai mokslinėms rekomendacijoms dėl bendros žuvininkystės politikos, sukūrimo, taikymo taisyklės. ^s-91b31b67de2613f51908a2d1
 
 
-3. 2008 m. rugsėjo 29 d. Tarybos reglamentas (EB) Nr. 1005/2008, nustatantis Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, iš dalies keičiantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1936/2001 ir (EB) Nr. 601/2004 bei panaikinantis reglamentus (EB) Nr. 1093/94 ir (EB) Nr. 1447/1999, su visais pakeitimais. ^s-6cd393286026562d88c28a5c
+3. 2008 m. rugsėjo 29 d. Tarybos [reglamentas (EB) Nr. 1005/2008](https://eur-lex.europa.eu/eli/reg/1005/2008/oj), nustatantis Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, iš dalies keičiantis [reglamentus (EEB) Nr. 2847/93](https://eur-lex.europa.eu/eli/reg/2847/93/oj), (EB) Nr. 1936/2001 ir (EB) Nr. 601/2004 bei panaikinantis [reglamentus (EB) Nr. 1093/94](https://eur-lex.europa.eu/eli/reg/1093/94/oj) ir (EB) Nr. 1447/1999, su visais pakeitimais. ^s-6cd393286026562d88c28a5c
 
 
-4. 2009 m. spalio 22 d. Komisijos reglamentas (EB) Nr. 1010/2009, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 1005/2008, nustatančio Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, įgyvendinimo taisyklės, su visais pakeitimais. ^s-8f5126960bc648ad30971130
+4. 2009 m. spalio 22 d. Komisijos [reglamentas (EB) Nr. 1010/2009](https://eur-lex.europa.eu/eli/reg/1010/2009/oj), kuriuo nustatomos išsamios Tarybos [reglamento (EB) Nr. 1005/2008](https://eur-lex.europa.eu/eli/reg/1005/2008/oj), nustatančio Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, įgyvendinimo taisyklės, su visais pakeitimais. ^s-8f5126960bc648ad30971130
 
 
-5. 2009 m. lapkričio 20 d. Tarybos reglamentas (EB) Nr. 1224/2009, nustatantis Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, iš dalies keičiantis reglamentus (EB) Nr. 847/96, (EB) Nr. 2371/2002, (EB) Nr. 811/2004, (EB) Nr. 768/2005, (EB) Nr. 2115/2005, (EB) Nr. 2166/2005, (EB) Nr. 388/2006, (EB) Nr. 509/2007, (EB) Nr. 676/2007, (EB) Nr. 1098/2007, (EB) Nr. 1300/2008, (EB) Nr. 1342/2008 ir panaikinantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1627/94 ir (EB) Nr. 1966/2006, su visais pakeitimais. ^s-d1a52cd54673a75b2815a2e1
+5. 2009 m. lapkričio 20 d. Tarybos [reglamentas (EB) Nr. 1224/2009](https://eur-lex.europa.eu/eli/reg/1224/2009/oj), nustatantis Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, iš dalies keičiantis reglamentus (EB) Nr. 847/96, (EB) Nr. 2371/2002, (EB) Nr. 811/2004, (EB) Nr. 768/2005, (EB) Nr. 2115/2005, (EB) Nr. 2166/2005, (EB) Nr. 388/2006, (EB) Nr. 509/2007, (EB) Nr. 676/2007, (EB) Nr. 1098/2007, (EB) Nr. 1300/2008, (EB) Nr. 1342/2008 ir panaikinantis [reglamentus (EEB) Nr. 2847/93](https://eur-lex.europa.eu/eli/reg/2847/93/oj), (EB) Nr. 1627/94 ir (EB) Nr. 1966/2006, su visais pakeitimais. ^s-d1a52cd54673a75b2815a2e1
 
 
-6. 2011 m. balandžio 8 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 404/2011, kuriuo nustatomos išsamios Tarybos reglamento (EB) Nr. 1224/2009, nustatančio Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, įgyvendinimo taisyklės, su visais pakeitimais. ^s-3d5babc7dea4ef58f2b85ec6
+6. 2011 m. balandžio 8 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 404/2011, kuriuo nustatomos išsamios Tarybos [reglamento (EB) Nr. 1224/2009](https://eur-lex.europa.eu/eli/reg/1224/2009/oj), nustatančio Bendrijos kontrolės sistemą, kuria užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, įgyvendinimo taisyklės, su visais pakeitimais. ^s-3d5babc7dea4ef58f2b85ec6
 
 
-7. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1379/2013 dėl bendro žvejybos ir akvakultūros produktų rinkų organizavimo, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1184/2006 ir (EB) Nr. 1224/2009 ir panaikinamas Tarybos reglamentas (EB) Nr. 104/2000, su visais pakeitimais. ^s-11a00c64aa2ca093747fd6e5
+7. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1379/2013](https://eur-lex.europa.eu/eli/reg/1379/2013/oj) dėl bendro žvejybos ir akvakultūros produktų rinkų organizavimo, kuriuo iš dalies keičiami Tarybos [reglamentai (EB) Nr. 1184/2006](https://eur-lex.europa.eu/eli/reg/1184/2006/oj) ir (EB) Nr. 1224/2009 ir panaikinamas Tarybos reglamentas (EB) Nr. 104/2000, su visais pakeitimais. ^s-11a00c64aa2ca093747fd6e5
 
 
-8. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1380/2013 dėl bendros žuvininkystės politikos, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1954/2003 ir (EB) Nr. 1224/2009 bei panaikinami Tarybos reglamentai (EB) Nr. 2371/2002 ir (EB) Nr. 639/2004 bei Tarybos sprendimas 2004/585/EB, su visais pakeitimais. ^s-edc4739f3497cc1561e84427
+8. 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1380/2013](https://eur-lex.europa.eu/eli/reg/1380/2013/oj) dėl bendros žuvininkystės politikos, kuriuo iš dalies keičiami Tarybos [reglamentai (EB) Nr. 1954/2003](https://eur-lex.europa.eu/eli/reg/1954/2003/oj) ir (EB) Nr. 1224/2009 bei panaikinami Tarybos [reglamentai (EB) Nr. 2371/2002](https://eur-lex.europa.eu/eli/reg/2371/2002/oj) ir (EB) Nr. 639/2004 bei Tarybos sprendimas 2004/585/EB, su visais pakeitimais. ^s-edc4739f3497cc1561e84427
 
 
-9. 2016 m. liepos 6 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/1139, kuriuo nustatomas daugiametis Baltijos jūros menkių, silkių ir šprotų išteklių valdymo ir tų išteklių žvejybos planas ir iš dalies keičiamas Tarybos reglamentas (EB) Nr. 2187/2005 bei panaikinamas Tarybos reglamentas (EB) Nr. 1098/2007, su visais pakeitimais. ^s-0431f61d0552fd2a5b9f9817
+9. 2016 m. liepos 6 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2016/1139](https://eur-lex.europa.eu/eli/reg/2016/1139/oj), kuriuo nustatomas daugiametis Baltijos jūros menkių, silkių ir šprotų išteklių valdymo ir tų išteklių žvejybos planas ir iš dalies keičiamas Tarybos [reglamentas (EB) Nr. 2187/2005](https://eur-lex.europa.eu/eli/reg/2187/2005/oj) bei panaikinamas Tarybos [reglamentas (EB) Nr. 1098/2007](https://eur-lex.europa.eu/eli/reg/1098/2007/oj), su visais pakeitimais. ^s-0431f61d0552fd2a5b9f9817
 
 
-10. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2403 dėl tvaraus išorės žvejybos laivynų valdymo, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1006/2008. ^s-ab365f0121d45ee649908cc2
+10. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/2403](https://eur-lex.europa.eu/eli/reg/2017/2403/oj) dėl tvaraus išorės žvejybos laivynų valdymo, kuriuo panaikinamas Tarybos [reglamentas (EB) Nr. 1006/2008](https://eur-lex.europa.eu/eli/reg/1006/2008/oj). ^s-ab365f0121d45ee649908cc2
 
 
-11. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1241 dėl žuvininkystės išteklių išsaugojimo ir jūrų ekosistemų apsaugos taikant technines priemones, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 2019/2006, (EB) Nr. 1224/2009 ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1380/2013, (ES) 2016/1139, (ES) 2018/973, (ES) 2019/472 ir (ES) 2019/1022 ir panaikinami Tarybos reglamentai (EB) Nr. 894/97, (EB) Nr. 850/98, (EB) Nr. 2549/2000, (EB) Nr. 254/2002, (EB) Nr. 812/2004 bei (EB) Nr. 2187/2005, su visais pakeitimais. ^s-c1c591703b60b86e5d98d996
+11. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2019/1241](https://eur-lex.europa.eu/eli/reg/2019/1241/oj) dėl žuvininkystės išteklių išsaugojimo ir jūrų ekosistemų apsaugos taikant technines priemones, kuriuo iš dalies keičiami Tarybos [reglamentai (EB) Nr. 2019/2006](https://eur-lex.europa.eu/eli/reg/2019/2006/oj), (EB) Nr. 1224/2009 ir Europos Parlamento ir Tarybos [reglamentai (ES) Nr. 1380/2013](https://eur-lex.europa.eu/eli/reg/1380/2013/oj), (ES) 2016/1139, (ES) 2018/973, (ES) 2019/472 ir (ES) 2019/1022 ir panaikinami Tarybos reglamentai (EB) Nr. 894/97, (EB) Nr. 850/98, (EB) Nr. 2549/2000, (EB) Nr. 254/2002, (EB) Nr. 812/2004 bei (EB) Nr. 2187/2005, su visais pakeitimais. ^s-c1c591703b60b86e5d98d996
 
 
-12. 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/2842, kuriuo iš dalies keičiamas Tarybos reglamentas (EB) Nr. 1224/2009 ir, kiek tai susiję su žuvininkystės kontrole, iš dalies keičiami Tarybos reglamentai (EB) Nr. 1967/2006 bei (EB) Nr. 1005/2008 ir Europos Parlamento ir Tarybos reglamentai (ES) 2016/1139, (ES) 2017/2403 bei (ES) 2019/473. ^s-e23cc5321568cc9587fdd33d
+12. 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2023/2842](https://eur-lex.europa.eu/eli/reg/2023/2842/oj), kuriuo iš dalies keičiamas Tarybos [reglamentas (EB) Nr. 1224/2009](https://eur-lex.europa.eu/eli/reg/1224/2009/oj) ir, kiek tai susiję su žuvininkystės kontrole, iš dalies keičiami Tarybos [reglamentai (EB) Nr. 1967/2006](https://eur-lex.europa.eu/eli/reg/1967/2006/oj) bei (EB) Nr. 1005/2008 ir Europos Parlamento ir Tarybos [reglamentai (ES) 2016/1139](https://eur-lex.europa.eu/eli/reg/2016/1139/oj), (ES) 2017/2403 bei (ES) 2019/473. ^s-e23cc5321568cc9587fdd33d
 
 
 ___________________
@@ -2906,7 +2906,7 @@ Lietuvos Respublikos žuvininkystės įstatymo pakeitimo įstatymas
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-781, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03218
-Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 2, 5, 6, 15, [[#^s-27d47feb3dce8c358ff152c1|16 straipsnių]] pakeitimo ir Įstatymo papildymo 14-1, 14-2, 14-3, 14-4 straipsniais įstatymas
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 [[#^s-d27776696db3e9ef94353840|2]], [[#^s-28f2f7a049e169130889ba9b|5]], [[#^s-cd2b4e1a1ba1c7f00a238416|6]], [[#^s-b92a5ba00d8dd66cc9a1464f|15]], [[#^s-27d47feb3dce8c358ff152c1|16]] straipsnių pakeitimo ir Įstatymo papildymo 14-1, 14-2, 14-3, 14-4 straipsniais įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2926,12 +2926,12 @@ Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 17-1 straipsnio ir 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2351, 2016-05-12, paskelbta TAR 2016-05-24, i. k. 2016-13915
-Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 6, 7, 8, 14, 14-1, 14-2, 14-3, 14-4, 15, 16 ir [[#^s-023c9abd57e5b7aa70d42ab7|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 [[#^s-cd2b4e1a1ba1c7f00a238416|6]], [[#^s-64d268427f29edbd67454c2d|7]], [[#^s-6e6dbf40af1680a504d4a792|8]], [[#^s-a6b348342be0862b58d813c1|14]], 14-1, 14-2, 14-3, 14-4, [[#^s-b92a5ba00d8dd66cc9a1464f|15]], [[#^s-27d47feb3dce8c358ff152c1|16]] ir [[#^s-023c9abd57e5b7aa70d42ab7|31]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2532, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20673
-Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 2, 5, 10, 11, 13, 17, 17-1, 18, 21, 24, 27, 29, 32, 36, 37, 39, 40, 41, 46, 48, 50, 51, 52, 53, 54, 61, [[#^s-5b4d5e27663a5f0a5f8bff6e|63 straipsnių]] ir priedo pakeitimo, Įstatymo papildymo 17-2, 17-3, 17-4, 17-5, 17-6, 17-7, 17-8, 17-9, 17-10, 17-11 straipsniais ir [[#^s-4874e1f19d18f1bbeeb03588|35 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 [[#^s-d27776696db3e9ef94353840|2]], [[#^s-28f2f7a049e169130889ba9b|5]], [[#^s-d81c67dc486bb4533abbcf6a|10]], [[#^s-9f294c29b27da22f509173d7|11]], [[#^s-ac3527c177496f2b255e1672|13]], [[#^s-78d31649c5b262c28b4b4596|17]], 17-1, [[#^s-97262b8c50e32ca28ebebd0c|18]], [[#^s-1c72607209096e5742d5e0f7|21]], [[#^s-81e4e41cc1373bec642fe7c6|24]], [[#^s-2c2fbe39f5ec494a048b5e80|27]], [[#^s-f21609d53e33c639e2d7c03c|29]], [[#^s-386539998ff52277988eb301|32]], [[#^s-09062364e19a0635396925aa|36]], [[#^s-b021c5113d982b71a499386e|37]], [[#^s-d18703e5be6c24181549823e|39]], [[#^s-bacfb4a19f4abf75ca8d377b|40]], [[#^s-a20a9869af1a0c6510e45b95|41]], [[#^s-699d56e17e1ecc64522f4d6d|46]], [[#^s-7a5229caa9e2606ec8ceee45|48]], [[#^s-9b987dcf72f40794b4e6ac8d|50]], [[#^s-e9bff1a4bef693ef09c14d1a|51]], [[#^s-7f26926ee47bb020442cddb2|52]], [[#^s-c44b32c9e936b0f0ed150ff8|53]], [[#^s-721e467218144d0b69004d3f|54]], [[#^s-4483fa838b547f9edaf90179|61]], [[#^s-5b4d5e27663a5f0a5f8bff6e|63]] straipsnių ir priedo pakeitimo, Įstatymo papildymo 17-2, 17-3, 17-4, 17-5, 17-6, 17-7, 17-8, 17-9, 17-10, 17-11 straipsniais ir [[#^s-4874e1f19d18f1bbeeb03588|35 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2956,12 +2956,12 @@ Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 [[#^s-81e4e41cc1373
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-254, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08630
-Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 8, 12, 13, 14-1, 14-3, 14-4, 15, 17-1, 17-7, 18, 21, 22, [[#^s-c44b32c9e936b0f0ed150ff8|53 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 [[#^s-6e6dbf40af1680a504d4a792|8]], [[#^s-84f0e1d27825c55f7697987d|12]], [[#^s-ac3527c177496f2b255e1672|13]], 14-1, 14-3, 14-4, [[#^s-b92a5ba00d8dd66cc9a1464f|15]], 17-1, 17-7, [[#^s-97262b8c50e32ca28ebebd0c|18]], [[#^s-1c72607209096e5742d5e0f7|21]], [[#^s-548705dcfad5c2ee8abef499|22]], [[#^s-c44b32c9e936b0f0ed150ff8|53]] straipsnių ir priedo pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1963, 2023-05-18, paskelbta TAR 2023-05-31, i. k. 2023-10700
-Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 2, 6, 14, 14-1, 14-3, 14-4, 15 ir [[#^s-00e9c3940fce5837d0aabd3b|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 [[#^s-d27776696db3e9ef94353840|2]], [[#^s-cd2b4e1a1ba1c7f00a238416|6]], [[#^s-a6b348342be0862b58d813c1|14]], 14-1, 14-3, 14-4, [[#^s-b92a5ba00d8dd66cc9a1464f|15]] ir [[#^s-00e9c3940fce5837d0aabd3b|20]] straipsnių pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2986,4 +2986,4 @@ Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 [[#^s-4b409cd530381
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-428, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16539
-Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 5, 11, 13 ir [[#^s-d4471ccdb972a22f4a229723|71 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 [[#^s-28f2f7a049e169130889ba9b|5]], [[#^s-9f294c29b27da22f509173d7|11]], [[#^s-ac3527c177496f2b255e1672|13]] ir [[#^s-d4471ccdb972a22f4a229723|71]] straipsnių pakeitimo įstatymas

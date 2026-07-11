@@ -36,7 +36,7 @@ Vilnius
 Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 
 
-Padaryti Lietuvos Respublikos spaudos ir kitų masinės informacijos priemonių įstatyme (Žin., 1990, Nr. 7-163, 30-717) šiuos pakeitimus ir papildymus:
+Padaryti Lietuvos Respublikos [spaudos ir kitų masinės informacijos priemonių įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.0348DC7D3244) (Žin., 1990, Nr. 7-163, 30-717) šiuos pakeitimus ir papildymus:
 
 
 1. Pakeisti 6 straipsnio pavadinimą ir jį išdėstyti taip:

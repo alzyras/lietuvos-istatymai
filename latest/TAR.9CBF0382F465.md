@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-bee9538168e0b9982b2dcca9
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. liepos 17 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1975 m. Europos konvenciją dėl nesantuokinių vaikų teisinio statuso“, ratifikuoja 1975 m. Europos konvenciją dėl nesantuokinių vaikų teisinio statuso, pasirašytą 1996 m. balandžio 14 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. liepos 17 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1975 m. Europos konvenciją dėl nesantuokinių vaikų teisinio statuso“](https://e-tar.lt/portal/lt/legalAct/TAR.E70D9F3E9D73), ratifikuoja 1975 m. Europos konvenciją dėl nesantuokinių vaikų teisinio statuso, pasirašytą 1996 m. balandžio 14 d. Strasbūre.
 
 
 

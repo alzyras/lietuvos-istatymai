@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir Protokolo ratifikavimas ^s-99a6b20de3142fe9e1bcebda
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2004 m. sausio 7 d. dekretą Nr. 328, ratifikuoja 2000 m. gegužės 29 d. Briuselyje priimtą Konvenciją dėl Europos Sąjungos valstybių narių savitarpio pagalbos baudžiamosiose bylose, kurią pagal Europos Sąjungos sutarties 34 straipsnį patvirtino Taryba (toliau – Konvencija), ir 2001 m. spalio 16 d. Liuksemburge priimtą Konvencijos dėl Europos Sąjungos valstybių narių savitarpio pagalbos baudžiamosiose bylose Protokolą, kurį pagal Europos Sąjungos sutarties 34 straipsnį patvirtino Taryba.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento [2004 m. sausio 7 d. dekretą Nr. 328](https://e-tar.lt/portal/lt/legalAct/TAR.5DE1E9A54D7D), ratifikuoja 2000 m. gegužės 29 d. Briuselyje priimtą Konvenciją dėl Europos Sąjungos valstybių narių savitarpio pagalbos baudžiamosiose bylose, kurią pagal Europos Sąjungos sutarties 34 straipsnį patvirtino Taryba (toliau – Konvencija), ir 2001 m. spalio 16 d. Liuksemburge priimtą Konvencijos dėl Europos Sąjungos valstybių narių savitarpio pagalbos baudžiamosiose bylose Protokolą, kurį pagal Europos Sąjungos sutarties 34 straipsnį patvirtino Taryba.
 
 
 Straipsnio pakeitimai:
@@ -85,7 +85,7 @@ Vadovaudamasis Konvencijos 6 straipsnio 7 dalimi, Lietuvos Respublikos Seimas pa
 1. Pagal Konvencijos 24 straipsnio 1 dalį Lietuvos Respublikos 2021 m. rugsėjo 7 d. pateiktas pareiškimas Europos Tarybai dėl 1959 m. balandžio 20 d. Europos konvencijos dėl savitarpio pagalbos baudžiamosiose bylose ir jos protokolų taip pat taikomas šiai Konvencijai. ^s-81cc7f7fb85b17bd98fe0d53
 
 
-2. Vadovaudamasis Konvencijos 24 straipsnio 1 dalimi, Seimas pareiškia, kad Europos prokuratūra, kuri naudojasi savo kompetencija, kaip numatyta 2017 m. spalio 12 d. Tarybos reglamento (ES) 2017/1939, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje, 22, 23 ir 25 straipsniuose, yra kompetentinga išduoti savitarpio pagalbos prašymus pagal Konvencijos 18 straipsnį ir veikti kaip kompetentinga teisminė institucija pagal šios Konvencijos 19 straipsnio 2 dalį ir 20 straipsnio 1–5 dalis. ^s-179e95503f5252c5c32de978
+2. Vadovaudamasis Konvencijos 24 straipsnio 1 dalimi, Seimas pareiškia, kad Europos prokuratūra, kuri naudojasi savo kompetencija, kaip numatyta 2017 m. spalio 12 d. Tarybos [reglamento (ES) 2017/1939](https://eur-lex.europa.eu/eli/reg/2017/1939/oj), kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje, 22, 23 ir 25 straipsniuose, yra kompetentinga išduoti savitarpio pagalbos prašymus pagal Konvencijos 18 straipsnį ir veikti kaip kompetentinga teisminė institucija pagal šios Konvencijos 19 straipsnio 2 dalį ir 20 straipsnio 1–5 dalis. ^s-179e95503f5252c5c32de978
 
 
 3. Europos prokuratūrai, kaip prašomajai institucijai, adresuoti savitarpio pagalbos prašymai turi būti perduodami Europos prokuratūros centriniam biurui. Skubiais atvejais šie prašymai gali būti perduodami tiesiogiai Europos deleguotajam prokurorui Lietuvos Respublikoje. Tokiais atvejais savitarpio pagalbos prašymo kopija turėtų būti siunčiama Europos prokuratūros centriniam biurui. ^s-cf4cf4f6ac7c4000c14ecae1

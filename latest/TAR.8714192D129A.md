@@ -216,7 +216,7 @@ Pavojingųjų krovinių vežimo ir su tuo susijusios veiklos valstybinį valdym�
 1) suteikia įgaliojimus Lietuvos Respublikos kompetentingoms institucijoms atlikti funkcijas, nustatytas Lietuvos Respublikos tarptautinėse sutartyse, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, ir kitiems viešojo administravimo subjektams atlikti pavojingųjų krovinių vežimo ar su tuo susijusios veiklos valstybinio valdymo funkcijas, jei tokios funkcijos nenustatytos šiame įstatyme ir kituose teisės aktuose, koordinuoja jų veiklą; ^s-ee3964d6b6183ea425a695d0
 
 
-2) priima sprendimus dėl šio įstatymo [[#^s-f4c4c91f17e625181242344c|22 straipsnio]] 1, 3 ir 5 dalyse nurodytų leidžiančių nukrypti nuostatų; ^s-89c026b9bfb434e57c9786eb
+2) priima sprendimus dėl šio įstatymo [[#^s-f4c4c91f17e625181242344c|22 straipsnio]] [[#^s-bfd1a846bac45123678892b1|1]], [[#^s-67f7a404f3a9ba964bcf37a9|3]] ir [[#^s-78190c3d675d96d1526ff85a|5]] dalyse nurodytų leidžiančių nukrypti nuostatų; ^s-89c026b9bfb434e57c9786eb
 
 
 3) prireikus priima sprendimus dėl pavojingųjų krovinių vežimo ir su tuo susijusios veiklos Lietuvos Respublikos teritorijoje specialiųjų saugos reikalavimų nustatymo, kai pavojingieji kroviniai vežami išimtinai Lietuvos Respublikos teritorijoje arba Lietuvos Respublikos ir kitos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teritorijoje transporto priemonėmis, kurioms šis įstatymas netaikomas, keleiviniais traukiniais ar reikalavimų, susijusių su naudojimuisi nustatytais maršrutais (įskaitant naudojimąsi nustatytais transportavimo būdais), nustatymo. ^s-2b232dda332903d7007d865d
@@ -371,7 +371,7 @@ Pavojingųjų medžiagų gamintojai, importuotojai, siuntėjai iki pavojingųjų
 4) teisės aktų nustatyta tvarka suteikti tikrinančiosioms institucijoms informaciją, kurios reikia atliekant patikrinimus, vykdyti jų teisėtus sprendimus ir nurodymus. ^s-96b002f18cf286c6f9539aa3
 
 
-4. Šio straipsnio 1, 2 ir [[#^s-975a664f9f09e732105eb9d3|3 dalyse]] nurodytieji ir kiti pavojingųjų krovinių vežimo dalyviai taip pat privalo atlikti ir kitas pareigas, nurodytas Lietuvos Respublikos tarptautinėse sutartyse, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, šiame ir kituose įstatymuose bei kituose teisės aktuose, kuriais reglamentuojamas pavojingųjų krovinių vežimas. ^s-8a5394397d351ac64e44641e
+4. Šio straipsnio [[#^s-2c0444acc667696ed8ffd457|1]], [[#^s-b2bf734cb28343755f7431bf|2]] ir [[#^s-975a664f9f09e732105eb9d3|3]] dalyse nurodytieji ir kiti pavojingųjų krovinių vežimo dalyviai taip pat privalo atlikti ir kitas pareigas, nurodytas Lietuvos Respublikos tarptautinėse sutartyse, kuriomis reglamentuojamas pavojingųjų krovinių vežimas, šiame ir kituose įstatymuose bei kituose teisės aktuose, kuriais reglamentuojamas pavojingųjų krovinių vežimas. ^s-8a5394397d351ac64e44641e
 
 
 
@@ -506,10 +506,10 @@ Pavojingųjų medžiagų gamintojai, importuotojai, siuntėjai iki pavojingųjų
 9. Lietuvos Respublikos kompetentinga institucija, suteikusi teisę mokyti asmenis, susijusius su pavojingųjų krovinių vežimu, šią teisę panaikina: ^s-fbacb6250405f6ef5257f79b
 
 
-1) kai [[#^s-54301f42e1893dfb752caf3a|šio straipsnio 7 dalies]] 1–[[#^s-30be22916b89dcdf5b70172e|4 punktuose]] nurodytos priežastys, dėl kurių teisė mokyti asmenis, susijusius su pavojingųjų krovinių vežimu, buvo sustabdyta, nepašalinamos per 6 mėnesius; ^s-b7f8166e5aa94bdd3b802e9c
+1) kai [[#^s-54301f42e1893dfb752caf3a|šio straipsnio 7 dalies]] 1–[[#^s-30be22916b89dcdf5b70172e|4]] punktuose nurodytos priežastys, dėl kurių teisė mokyti asmenis, susijusius su pavojingųjų krovinių vežimu, buvo sustabdyta, nepašalinamos per 6 mėnesius; ^s-b7f8166e5aa94bdd3b802e9c
 
 
-2) kai per 12 mėnesių nuo teisės mokyti asmenis, susijusius su pavojingųjų krovinių vežimu, atnaujinimo, atliekant mokymo įstaigos veiklos patikrinimą, pakartotinai nustatomi pažeidimai, nurodyti [[#^s-54301f42e1893dfb752caf3a|šio straipsnio 7 dalies]] 1–[[#^s-30be22916b89dcdf5b70172e|4 punktuose]]; ^s-fc05e4f3e1863d5734d045d6
+2) kai per 12 mėnesių nuo teisės mokyti asmenis, susijusius su pavojingųjų krovinių vežimu, atnaujinimo, atliekant mokymo įstaigos veiklos patikrinimą, pakartotinai nustatomi pažeidimai, nurodyti [[#^s-54301f42e1893dfb752caf3a|šio straipsnio 7 dalies]] [[#^s-b7f8166e5aa94bdd3b802e9c|1]]–[[#^s-30be22916b89dcdf5b70172e|4]] punktuose; ^s-fc05e4f3e1863d5734d045d6
 
 
 3) mokymo įstaigos prašymu; ^s-b507ab6690f3a3b36a2d4321

@@ -16,7 +16,7 @@ pavadinimas: "Lietuvos Respublikos teritorijos administracinių vienetų ir jų 
 - [[latest/TAR.0120FD7BCFFC#^s-0ea5623e148c6cbeeb128eb0|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 1041010ISTA0IX-2423
 - [[latest/TAR.0120FD7BCFFC#^s-19da408271d3840f2eebc929|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 1041010ISTA0IX-2423
 - [[latest/TAR.0120FD7BCFFC#^s-22d6a2dd9e16a92f95ac81fb|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 1041010ISTA0IX-2423
-- [[latest/TAR.0120FD7BCFFC#^s-7c048a7c9c6b3ac6cfeb2b86|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 3 citatos - 1041010ISTA0IX-2423
+- [[latest/TAR.0120FD7BCFFC#^s-7c048a7c9c6b3ac6cfeb2b86|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 2 citatos - 1041010ISTA0IX-2423
 - [[latest/TAR.0120FD7BCFFC#^s-7f068c4cd7e6eafe3640ba17|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 1041010ISTA0IX-2423
 - [[latest/TAR.0120FD7BCFFC#^s-9eed80465ad5ba2d2ec9522f|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 1041010ISTA0IX-2423
 - [[latest/TAR.0120FD7BCFFC#^s-ace2b2a9acc69835fc6c7994|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 1041010ISTA0IX-2423

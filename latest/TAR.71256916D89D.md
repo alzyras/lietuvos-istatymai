@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-49bfd519da58a54e7fae2fcd
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. spalio 3 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Tarptautinio rekonstrukcijos ir plėtros banko sutartį dėl 19 mln. JAV dolerių paskolos greitkelių projektui finansuoti“, ratifikuoja Lietuvos Respublikos ir Tarptautinio rekonstrukcijos ir plėtros banko sutartį dėl 19 mln. JAV dolerių paskolos greitkelių projektui finansuoti.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. spalio 3 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Tarptautinio rekonstrukcijos ir plėtros banko sutartį dėl 19 mln. JAV dolerių paskolos greitkelių projektui finansuoti“](https://e-tar.lt/portal/lt/legalAct/TAR.4DA7999D5082), ratifikuoja Lietuvos Respublikos ir Tarptautinio rekonstrukcijos ir plėtros banko sutartį dėl 19 mln. JAV dolerių paskolos greitkelių projektui finansuoti.
 
 
 

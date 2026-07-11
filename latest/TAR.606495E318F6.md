@@ -247,7 +247,7 @@ Licencijos gaminti alkoholio produktus, verstis didmenine prekyba jais ar mažme
 ### 7 straipsnis. 22 straipsnio pakeitimas ir papildymas ^s-94ed8465734a57ffe98ac86e
 
 
-22 straipsnio 1 dalies 1 punkte išbraukti žodžius „(išskyrus sanatorijose įrengtas viešojo maitinimo įmones, kuriose savivaldybės taryba gali leisti prekiauti alkoholiniais gėrimais)“, papildyti straipsnį 2 ir [[#^s-55f0ed0d0f38782d84b7742a|3 dalimis]] ir visą straipsnį išdėstyti taip:
+22 straipsnio 1 dalies 1 punkte išbraukti žodžius „(išskyrus sanatorijose įrengtas viešojo maitinimo įmones, kuriose savivaldybės taryba gali leisti prekiauti alkoholiniais gėrimais)“, papildyti straipsnį [[#^s-12cff0bda827021e98100db3|2]] ir [[#^s-55f0ed0d0f38782d84b7742a|3]] dalimis ir visą straipsnį išdėstyti taip:
 
 
 
@@ -298,7 +298,7 @@ Pakeisti 29 straipsnio 7 dalį ir ją išdėstyti taip:
 2. Pakeisti 34 straipsnio 3 dalį ir ją išdėstyti taip: ^s-615a867e647240279af70584
 
 
-„3. Už šio Įstatymo 17 straipsnio 1 dalies 1 ir 12 punktuose, [[#^s-615a867e647240279af70584|2 dalies]] 1, 10 ir 11 punktuose, 18 straipsnio 1, [[#^s-649030d05d1906495a08f6b5|3 dalyse]], [[#^s-8c5abb19313b1885c1997a92|4 dalies]] 1, 2 punktuose, [[#^s-9eb964c7d2bbf7b8dbc4b1df|9 dalyje]] ir 22 straipsnio 3 dalyje nustatytų reikalavimų nesilaikymą įmonės baudžiamos nuo penkių šimtų litų iki dviejų tūkstančių litų bauda, o už šių reikalavimų pažeidimą, padarytą pakartotinai per dvejus metus nuo baudos paskyrimo, – nuo dviejų tūkstančių litų iki penkių tūkstančių litų bauda.“
+„3. Už šio Įstatymo 17 straipsnio 1 dalies 1 ir 12 punktuose, 2 dalies 1, 10 ir 11 punktuose, 18 straipsnio 1, 3 dalyse, [[#^s-8c5abb19313b1885c1997a92|4 dalies]] 1, 2 punktuose, [[#^s-9eb964c7d2bbf7b8dbc4b1df|9 dalyje]] ir 22 straipsnio 3 dalyje nustatytų reikalavimų nesilaikymą įmonės baudžiamos nuo penkių šimtų litų iki dviejų tūkstančių litų bauda, o už šių reikalavimų pažeidimą, padarytą pakartotinai per dvejus metus nuo baudos paskyrimo, – nuo dviejų tūkstančių litų iki penkių tūkstančių litų bauda.“
 
 
 3. Pakeisti 34 straipsnio 6 dalį ir ją išdėstyti taip: ^s-649030d05d1906495a08f6b5
@@ -310,7 +310,7 @@ Pakeisti 29 straipsnio 7 dalį ir ją išdėstyti taip:
 4. Pakeisti 34 straipsnio 11 dalį ir ją išdėstyti taip: ^s-8c5abb19313b1885c1997a92
 
 
-„11. Baudas už šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7–12 punktuose, [[#^s-615a867e647240279af70584|2 dalies]] 2, 3, 6–11 punktuose, 5–11 ir 13 dalyse, 18 straipsnio 1, 3, 4 ir [[#^s-9eb964c7d2bbf7b8dbc4b1df|9 dalyse]], 22 straipsnio 3 dalyje nustatytų reikalavimų nesilaikymą, taip pat už savivaldybių tarybų nustatytų prekybos alkoholiniais gėrimais švenčių ir masinių renginių dienomis ribojimų ar draudimų pažeidimą skiria Tarnyba ir policija. Policijos vardu skirti baudas turi teisę policijos įstaigų vadovai ar jų įgalioti asmenys.“
+„11. Baudas už šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7–12 punktuose, [[#^s-615a867e647240279af70584|2 dalies]] 2, 3, 6–11 punktuose, 5–11 ir 13 dalyse, 18 straipsnio 1, 3, 4 ir 9 dalyse, 22 straipsnio 3 dalyje nustatytų reikalavimų nesilaikymą, taip pat už savivaldybių tarybų nustatytų prekybos alkoholiniais gėrimais švenčių ir masinių renginių dienomis ribojimų ar draudimų pažeidimą skiria Tarnyba ir policija. Policijos vardu skirti baudas turi teisę policijos įstaigų vadovai ar jų įgalioti asmenys.“
 
 
 5. 34 straipsnio 12 dalyje išbraukti žodžius „bei teritorinės valstybinės mokesčių inspekcijos“ ir šią dalį išdėstyti taip: ^s-23aa541abb1071a9becbeae2
@@ -397,7 +397,7 @@ Už licencijuojamos veiklos sąlygų pažeidimus įmonės, turinčios licencijas
 1. Lietuvos Respublikos Vyriausybė arba jos įgaliotos institucijos iki šio įstatymo įsigaliojimo parengia ir patvirtina būtinus šiam įstatymui įgyvendinti teisės aktus. ^s-d425f05dc9ca633418977571
 
 
-2. Šis įstatymas, išskyrus [[#^s-48b4a1d3c75f9df6d781e58b|2 straipsnį]], [[#^s-b8cfb1bceb542ee708aefe70|3 straipsnį]], [[#^s-16dce18d2df076438f9fb242|4 straipsnio 2 dalį]], [[#^s-01da6da918a8a5d4ed99496b|5 straipsnio]] 1, 8, 9 dalis, [[#^s-77fc5b283069e3eec3e5851b|6 straipsnį]], [[#^s-a7d580c47f5d162fb92ed9f9|8 straipsnį]], [[#^s-68df74a4e0e3ef578467af4a|9 straipsnio]] 1, 3, 5, 6, 7, 8, 9, 10 dalis, [[#^s-698fa92d3bfa6d4381fd3b8d|10 straipsnį]], įsigalioja 2009 m. sausio 1 d. ^s-9647d151dcc205803e2d18bd
+2. Šis įstatymas, išskyrus [[#^s-48b4a1d3c75f9df6d781e58b|2 straipsnį]], [[#^s-b8cfb1bceb542ee708aefe70|3 straipsnį]], [[#^s-16dce18d2df076438f9fb242|4 straipsnio 2 dalį]], [[#^s-01da6da918a8a5d4ed99496b|5 straipsnio]] [[#^s-0e0cc4968a6a4ab12223a17a|1]], [[#^s-afe6026615bcc361cb234e35|8]], [[#^s-b9721af497d78bd11006c53e|9]] dalis, [[#^s-77fc5b283069e3eec3e5851b|6 straipsnį]], [[#^s-a7d580c47f5d162fb92ed9f9|8 straipsnį]], [[#^s-68df74a4e0e3ef578467af4a|9 straipsnio]] [[#^s-70774337958502d9437f4eea|1]], [[#^s-649030d05d1906495a08f6b5|3]], [[#^s-23aa541abb1071a9becbeae2|5]], [[#^s-31d676d8c12d80809908050a|6]], [[#^s-64a5dccea7416f0c6bd72402|7]], [[#^s-55c21cc8b2c7f3e5d5676291|8]], [[#^s-9eb964c7d2bbf7b8dbc4b1df|9]], [[#^s-bb9428d448f443eda95baf1d|10]] dalis, [[#^s-698fa92d3bfa6d4381fd3b8d|10 straipsnį]], įsigalioja 2009 m. sausio 1 d. ^s-9647d151dcc205803e2d18bd
 
 
 

@@ -9,7 +9,7 @@ pavadinimas: "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputato statu
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.7FFFA2611981|Dėl Lietuvos Respublikos įstatymo "Dėl Aukščiausiosios Tarybos deputato statuso" papildymo]] - 4 citatos - 0901010ISTA000I-438
+- [[latest/TAR.7FFFA2611981|Dėl Lietuvos Respublikos įstatymo "Dėl Aukščiausiosios Tarybos deputato statuso" papildymo]] - 5 citatos - 0901010ISTA000I-438
 
 ## Šį įstatymą cituoja
 

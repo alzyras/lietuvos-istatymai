@@ -14,7 +14,7 @@ _Nėra._
 ## Šį įstatymą cituoja
 
 - [[latest/TAR.0120FD7BCFFC#^s-22d6a2dd9e16a92f95ac81fb|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 1101010ISTA00XI-709
-- [[latest/TAR.0120FD7BCFFC#^s-7c048a7c9c6b3ac6cfeb2b86|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 3 citatos - 1101010ISTA00XI-709
+- [[latest/TAR.0120FD7BCFFC#^s-7c048a7c9c6b3ac6cfeb2b86|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 2 citatos - 1101010ISTA00XI-709
 - [[latest/TAR.0120FD7BCFFC#^s-9eed80465ad5ba2d2ec9522f|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 1101010ISTA00XI-709
 - [[latest/TAR.0120FD7BCFFC#^s-ace2b2a9acc69835fc6c7994|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 1101010ISTA00XI-709
 - [[latest/TAR.0120FD7BCFFC#^s-b016ebb5777c1f2a7095c3e3|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 1101010ISTA00XI-709

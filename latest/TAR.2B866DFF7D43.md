@@ -157,7 +157,7 @@ BAUDŽIAMOJO ĮSTATYMO GALIOJIMAS
 
 
 3. Baudžiamasis įstatymas, nustatantis veikos nusikalstamumą, griežtinantis bausmę arba kitaip sunkinantis nusikalstamą veiką padariusio asmens teisinę padėtį, neturi grįžtamosios galios. Išimtį sudaro šio kodekso normos, nustatančios atsakomybę už genocidą ([[#^s-eafe21cf014f58bf974dfca7|99 straipsnis]]), tarptautinės teisės draudžiamą elgesį su žmonėmis ([[#^s-e9a3464d402a63bbc86add4c|100 straipsnis]]), tarptautinės humanitarinės teisės saugomų asmenų žudymą ([[#^s-abc4a74b5ab9130aebe2f1d3|101 straipsnis]]), civilių trėmimą ar perkėlimą ([[#^s-8f52cd1b5709d2ff836b5cf7|102 straipsnis]]), tarptautinės humanitarinės teisės saugomų asmenų žalojimą, kankinimą ar kitokį nežmonišką elgesį su jais ar jų turto apsaugos pažeidimą ([[#^s-710d8af3ca50bc0329397ca6|103 straipsnis]]), civilių ar karo belaisvių prievartinį panaudojimą priešo ginkluotosiose pajėgose ([[#^s-91f1f0e231f3f8adc5b9f85c|105 straipsnis]]), saugomų objektų naikinimą ar nacionalinių vertybių grobstymą ([[#^s-91317176691a79809edd9df1|106 straipsnis]]), agresiją ([[#^s-068765885f9e5bcdeb74eacc|110 straipsnis]]), draudžiamą karo ataką ([[#^s-eb1980903e2be44841b7d5fc|111 straipsnis]]), uždraustų karo priemonių naudojimą ([[#^s-ba39c47c2f468be7a8538987|112 straipsnis]]), aplaidų arba netinkamą vado pareigų vykdymą ([[#^s-7ec8a5a3c94d404f269beb66|1131 straipsnis]]). ^s-01e52fc553406c6304132646
-Pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo kodekso [[#^s-01e52fc553406c6304132646|3 straipsnio 3 dalis]] (2011 m. kovo 22 d. redakcija; Žin., 2011, Nr. 38-1805) tiek, kiek joje nustatytas teisinis reguliavimas, pagal kurį asmuo gali būti teisiamas pagal Baudžiamojo kodekso [[#^s-eafe21cf014f58bf974dfca7|99 straipsnį]] už veiksmus, kuriais buvo siekiama fiziškai sunaikinti visus ar dalį žmonių, priklausančių bet kuriai socialinei ar politinei grupei, atliktus tol, kol Baudžiamajame kodekse nebuvo nustatyta atsakomybė už žmonių, priklausančių socialinei ar politinei grupei, genocidą, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 4 daliai, konstituciniam teisinės valstybės principui.
+Pastaba. Pripažinti, kad Lietuvos Respublikos baudžiamojo kodekso 3 straipsnio 3 dalis (2011 m. kovo 22 d. redakcija; Žin., 2011, Nr. 38-1805) tiek, kiek joje nustatytas teisinis reguliavimas, pagal kurį asmuo gali būti teisiamas pagal Baudžiamojo kodekso [[#^s-eafe21cf014f58bf974dfca7|99 straipsnį]] už veiksmus, kuriais buvo siekiama fiziškai sunaikinti visus ar dalį žmonių, priklausančių bet kuriai socialinei ar politinei grupei, atliktus tol, kol Baudžiamajame kodekse nebuvo nustatyta atsakomybė už žmonių, priklausančių socialinei ar politinei grupei, genocidą, prieštarauja Lietuvos Respublikos Konstitucijos 31 straipsnio 4 daliai, konstituciniam teisinės valstybės principui.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT11-N4/2014, 2014-03-18, paskelbta TAR 2014-03-19, i. k. 2014-03226
 Straipsnio dalies pakeitimai:
@@ -219,7 +219,7 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 ### 6 straipsnis. Užsieniečių baudžiamoji atsakomybė už užsienyje padarytus nusikaltimus Lietuvos valstybei ^s-0f268151681427e2cdf95d6a
 
 
-Užsieniečiai, neturintys nuolatinės gyvenamosios vietos Lietuvos Respublikoje, atsako pagal baudžiamąjį įstatymą, jeigu jie užsienyje padarė šio kodekso 114–[[#^s-97f8186395caca42f484bcce|128 straipsniuose]] numatytus nusikaltimus Lietuvos valstybei.
+Užsieniečiai, neturintys nuolatinės gyvenamosios vietos Lietuvos Respublikoje, atsako pagal baudžiamąjį įstatymą, jeigu jie užsienyje padarė šio kodekso [[#^s-3dfd7e568da515fe8811cb9e|114]]–[[#^s-97f8186395caca42f484bcce|128]] straipsniuose numatytus nusikaltimus Lietuvos valstybei.
 
 
 
@@ -229,7 +229,7 @@ Užsieniečiai, neturintys nuolatinės gyvenamosios vietos Lietuvos Respublikoje
 Asmenys atsako pagal šį kodeksą, nesvarbu, kokia jų pilietybė ir gyvenamoji vieta, taip pat nusikaltimo padarymo vieta bei tai, ar už padarytą veiką baudžiama pagal nusikaltimo padarymo vietos įstatymus, kai padaro nusikaltimus, atsakomybė už kuriuos numatyta tarptautinių sutarčių pagrindu:
 
 
-1) nusikaltimus žmoniškumui ir karo nusikaltimus (99–[[#^s-7ec8a5a3c94d404f269beb66|1131 straipsniai]]); ^s-fa14817aa886210656b55750
+1) nusikaltimus žmoniškumui ir karo nusikaltimus ([[#^s-eafe21cf014f58bf974dfca7|99]]–[[#^s-7ec8a5a3c94d404f269beb66|1131]] straipsniai); ^s-fa14817aa886210656b55750
 
 
 2) prekybą žmonėmis ([[#^s-5ced7d93ef64a2b6acc93518|147 straipsnis]]); ^s-03f5af5129a976e18530ad8d
@@ -259,19 +259,19 @@ Nr. XII-2554, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20291
 9) piratavimą ([[#^s-d5be3ae8d5b22fe45b35b56a|2511 straipsnis]]); ^s-0c263d8891b715714df2ce5a
 
 
-10) teroristinius ir su teroristine veikla susijusius nusikaltimus ([[#^s-97091947ec48ce78c4cfd4cd|2521 straipsnio]] 1 ir 2 dalys); ^s-6db11befa0b91980280de478
+10) teroristinius ir su teroristine veikla susijusius nusikaltimus ([[#^s-97091947ec48ce78c4cfd4cd|2521 straipsnio]] [[#^s-498770b755c03f4e508ffefb|1]] ir [[#^s-7ec96c08cbd44623c4ecd45d|2]] dalys); ^s-6db11befa0b91980280de478
 
 
-11) neteisėtą elgesį su branduolinėmis ar radioaktyviosiomis medžiagomis arba kitais jonizuojančiosios spinduliuotės šaltiniais (256, 2561 ir [[#^s-a818c5d83a5e182e0264b247|257 straipsniai]]); ^s-0a8af80012fe6c6f0e3f6256
+11) neteisėtą elgesį su branduolinėmis ar radioaktyviosiomis medžiagomis arba kitais jonizuojančiosios spinduliuotės šaltiniais ([[#^s-6b8d4758a5d46a6f26350ae5|256]], 2561 ir [[#^s-a818c5d83a5e182e0264b247|257]] straipsniai); ^s-0a8af80012fe6c6f0e3f6256
 
 
-12) nusikaltimus, susijusius su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis (260–2671 straipsniai); ^s-cc5b7062ace87aef51c15162
+12) nusikaltimus, susijusius su disponavimu narkotinėmis ar psichotropinėmis, nuodingosiomis ar stipriai veikiančiomis medžiagomis ([[#^s-d265dd50668a116affb8630b|260]]–2671 straipsniai); ^s-cc5b7062ace87aef51c15162
 Straipsnio punkto pakeitimai:
 Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 
 
 
-13) nusikaltimus aplinkai (270, 2701, 2702, 2703, 271, 272, [[#^s-e76d2477a5d1b0b85baf8b42|274 straipsniai]]). ^s-353605c25d6d817a29d69eae
+13) nusikaltimus aplinkai ([[#^s-3efcb0398d55919c842c080a|270]], [[#^s-33b1cd212900a1e468bb5835|2701]], [[#^s-46d604103d8b46b3a2269e16|2702]], [[#^s-a8a172fa60147025c94561c6|2703]], [[#^s-61289b189ff49af468d5de6e|271]], [[#^s-288c474430d6c5650a6248fc|272]], [[#^s-e76d2477a5d1b0b85baf8b42|274]] straipsniai). ^s-353605c25d6d817a29d69eae
 Straipsnio punkto pakeitimai:
 Nr. XII-1777, 2015-06-11, paskelbta TAR 2015-06-18, i. k. 2015-09697
 
@@ -292,10 +292,10 @@ Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404
 ### 8 straipsnis. Baudžiamoji atsakomybė už užsienyje padarytas nusikalstamas veikas ^s-0d7c5bc08d76baf29eba828c
 
 
-1. Asmuo, padaręs užsienyje nusikalstamas veikas, numatytas šio kodekso 5 ir 51 straipsniuose, atsako pagal baudžiamąjį įstatymą tik tuo atveju, kai padaryta veika pripažįstama nusikalstama ir už jos padarymą baudžiama pagal nusikaltimo padarymo vietos valstybės ir Lietuvos Respublikos baudžiamąjį kodeksą. Jeigu asmuo, padaręs nusikalstamą veiką užsienyje, teisiamas Lietuvos Respublikoje, bet abiejose valstybėse už šią veiką numatytos skirtingos bausmės, bausmė nusikaltusiam asmeniui skiriama pagal Lietuvos Respublikos įstatymus, tačiau ji negali viršyti nusikalstamos veikos padarymo vietos valstybės baudžiamuosiuose įstatymuose nustatyto maksimalaus dydžio. ^s-9dd896be2ba8fb4cd81a89d6
+1. Asmuo, padaręs užsienyje nusikalstamas veikas, numatytas šio kodekso [[#^s-5cd902260f77dbbb4592f8ee|5]] ir 51 straipsniuose, atsako pagal baudžiamąjį įstatymą tik tuo atveju, kai padaryta veika pripažįstama nusikalstama ir už jos padarymą baudžiama pagal nusikaltimo padarymo vietos valstybės ir Lietuvos Respublikos baudžiamąjį kodeksą. Jeigu asmuo, padaręs nusikalstamą veiką užsienyje, teisiamas Lietuvos Respublikoje, bet abiejose valstybėse už šią veiką numatytos skirtingos bausmės, bausmė nusikaltusiam asmeniui skiriama pagal Lietuvos Respublikos įstatymus, tačiau ji negali viršyti nusikalstamos veikos padarymo vietos valstybės baudžiamuosiuose įstatymuose nustatyto maksimalaus dydžio. ^s-9dd896be2ba8fb4cd81a89d6
 
 
-2. Asmuo, padaręs nusikalstamas veikas, numatytas Lietuvos Respublikos baudžiamojo kodekso 5, 51, 6 ir [[#^s-b360ac2c1d8a89e803b13f48|7 straipsniuose]], neatsako pagal šį kodeksą, jeigu jis: ^s-6909022eb901cffd4cd6a5df
+2. Asmuo, padaręs nusikalstamas veikas, numatytas Lietuvos Respublikos baudžiamojo kodekso [[#^s-5cd902260f77dbbb4592f8ee|5]], 51, [[#^s-0f268151681427e2cdf95d6a|6]] ir [[#^s-b360ac2c1d8a89e803b13f48|7]] straipsniuose, neatsako pagal šį kodeksą, jeigu jis: ^s-6909022eb901cffd4cd6a5df
 
 
 1) atliko užsienio valstybės teismo paskirtą bausmę; ^s-3ae811d6050672dd04609c16
@@ -307,7 +307,7 @@ Nr. XII-776, 2014-03-13, paskelbta TAR 2014-03-24, i. k. 2014-03404
 3) užsienio valstybės teismo nuosprendžiu buvo išteisintas, atleistas nuo baudžiamosios atsakomybės ar bausmės arba bausmė nebuvo paskirta dėl senaties ar kitais toje valstybėje numatytais teisiniais pagrindais. ^s-78b4b8df119eef693c17b00a
 
 
-3. Lietuvos Respublikos pilietis ar kitas nuolat Lietuvoje gyvenantis asmuo, užsienyje padaręs vieną ar kelis nusikaltimus, numatytus šio kodekso 129, 135, 138, 148, 149, 150, 151, 1511, 1521, [[#^s-c36550530ece1d337176f82b|153 straipsniuose]], [[#^s-da818c98a2dfd90026426aec|162 straipsnio 1 dalyje]], [[#^s-a03209ef740525391cb29354|307 straipsnio 3 dalyje]], [[#^s-c0e5288fa2ad67dc760f32bc|308 straipsnio 3 dalyje]], [[#^s-e8406fc0dd3782cf11292b48|309 straipsnio]] 2 ir [[#^s-3c372826733728ab0dacf54c|3 dalyse]], baudžiamas nepaisant to, ar už padarytą veiką baudžiama pagal nusikaltimo padarymo vietos valstybės baudžiamąjį įstatymą. ^s-3c372826733728ab0dacf54c
+3. Lietuvos Respublikos pilietis ar kitas nuolat Lietuvoje gyvenantis asmuo, užsienyje padaręs vieną ar kelis nusikaltimus, numatytus šio kodekso [[#^s-4f2359c071ce88f0a6d4546e|129]], [[#^s-17a18dab33efacb8ab1ba5c9|135]], [[#^s-5c8602524aaabc07f79d3e68|138]], [[#^s-ec6a59ffc0107d437cb841d4|148]], [[#^s-fadb2fe2986e52c382df9e99|149]], [[#^s-ed3e7840cfb29c37138462b3|150]], [[#^s-2e222484950d70a1e0fda52e|151]], [[#^s-a613ad3d0b5f479755448d60|1511]], [[#^s-f3c62eaf4ce876d654ef5edf|1521]], [[#^s-c36550530ece1d337176f82b|153]] straipsniuose, [[#^s-da818c98a2dfd90026426aec|162 straipsnio 1 dalyje]], [[#^s-a03209ef740525391cb29354|307 straipsnio 3 dalyje]], [[#^s-c0e5288fa2ad67dc760f32bc|308 straipsnio 3 dalyje]], [[#^s-e8406fc0dd3782cf11292b48|309 straipsnio]] [[#^s-63d392a165c6a6ae834e383e|2]] ir [[#^s-e865d98c752b5a9a3524d48f|3]] dalyse, baudžiamas nepaisant to, ar už padarytą veiką baudžiama pagal nusikaltimo padarymo vietos valstybės baudžiamąjį įstatymą. ^s-3c372826733728ab0dacf54c
 
 
 Straipsnio pakeitimai:
@@ -646,7 +646,7 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 3. Juridinis asmuo gali atsakyti už nusikalstamas veikas ir tuo atveju, jeigu jas juridinio asmens naudai padarė juridinio asmens darbuotojas ar įgaliotas atstovas [[#^s-d505cec8dd88cbfc81f6b37d|šio straipsnio 2 dalyje]] nurodyto asmens nurodymu ar leidimu arba dėl nepakankamos priežiūros arba kontrolės. ^s-401a72ba3019ed5f6e27cbfd
 
 
-4. Juridinis asmuo gali atsakyti už kontroliuojamo arba jam atstovaujančio kito juridinio asmens šio straipsnio 2 ar [[#^s-401a72ba3019ed5f6e27cbfd|3 dalyje]] nurodytomis sąlygomis padarytas nusikalstamas veikas, jeigu jos padarytos pirmiau nurodyto juridinio asmens naudai jame vadovaujančias pareigas einančio ar jo įgalioto asmens nurodymu ar leidimu arba dėl nepakankamos priežiūros ar kontrolės. ^s-bb626b15c3357a186b0e8ab0
+4. Juridinis asmuo gali atsakyti už kontroliuojamo arba jam atstovaujančio kito juridinio asmens šio straipsnio [[#^s-d505cec8dd88cbfc81f6b37d|2]] ar [[#^s-401a72ba3019ed5f6e27cbfd|3]] dalyje nurodytomis sąlygomis padarytas nusikalstamas veikas, jeigu jos padarytos pirmiau nurodyto juridinio asmens naudai jame vadovaujančias pareigas einančio ar jo įgalioto asmens nurodymu ar leidimu arba dėl nepakankamos priežiūros ar kontrolės. ^s-bb626b15c3357a186b0e8ab0
 
 
 5. Juridinio asmens baudžiamoji atsakomybė nepašalina fizinio asmens, kuris padarė, organizavo, kurstė arba padėjo padaryti nusikalstamą veiką, baudžiamosios atsakomybės. Juridinio asmens baudžiamosios atsakomybės už jo naudai arba jo interesais fizinio asmens padarytą, organizuotą, kurstytą ar padėtą padaryti nusikalstamą veiką nepašalina fizinio asmens baudžiamoji atsakomybė, taip pat tai, kad fizinis asmuo už šią veiką atleidžiamas nuo baudžiamosios atsakomybės arba jis nėra traukiamas atsakomybėn dėl kitų priežasčių. ^s-8d284b19bf966de26d029055
@@ -776,7 +776,7 @@ Nr. XIV-2488, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04809
 3. Jeigu yra vieno iš bendrininkų baudžiamąją atsakomybę šalinančių, lengvinančių arba sunkinančių aplinkybių, į jas neatsižvelgiama sprendžiant dėl kitų bendrininkų baudžiamosios atsakomybės. ^s-bc517dabc97772543993f110
 
 
-4. Organizatorius, kurstytojas ar padėjėjas atsako pagal šio kodekso straipsnį, numatantį atsakomybę už vykdytojo padarytą veiką, ir šio kodekso [[#^s-9939eb3e73777d98dbf4901b|24 straipsnio]] 4, 5 ar 6 dalį. ^s-c7c53e65db797025e811d933
+4. Organizatorius, kurstytojas ar padėjėjas atsako pagal šio kodekso straipsnį, numatantį atsakomybę už vykdytojo padarytą veiką, ir šio kodekso [[#^s-9939eb3e73777d98dbf4901b|24 straipsnio]] [[#^s-e5368470d1b5e269ff4f5f13|4]], [[#^s-49b0dd6635360e1caba19c04|5]] ar [[#^s-fd552a51b2113dc6a188fc72|6]] dalį. ^s-c7c53e65db797025e811d933
 
 
 5. Nusikalstamo susivienijimo dalyviai, nesvarbu, koks jų vaidmuo darant nusikalstamą veiką, kurią apėmė jų tyčia, atsako pagal šio kodekso [[#^s-0351fb0b78abe2c991c88b44|249 straipsnį]] kaip vykdytojai. ^s-2562721ede5072800d3c9df5
@@ -1162,7 +1162,7 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 
 
 
-10. Šio straipsnio 2 ir [[#^s-4af3bc1a60244399f496080a|3 dalyse]] numatytais pagrindais nuo baudžiamosios atsakomybės negali būti atleistas pavojingas recidyvistas, taip pat asmuo, kuris anksčiau jau buvo atleistas nuo baudžiamosios atsakomybės pagal laidavimą, jeigu nuo ikiteisminio tyrimo teisėjo ar teismo sprendimo atleisti asmenį nuo baudžiamosios atsakomybės įsiteisėjimo dienos iki naujos veikos padarymo praėjo mažiau negu treji metai. ^s-950455b8770bfd9360706c69
+10. Šio straipsnio [[#^s-a57cb1e7b6de5412ee870785|2]] ir [[#^s-4af3bc1a60244399f496080a|3]] dalyse numatytais pagrindais nuo baudžiamosios atsakomybės negali būti atleistas pavojingas recidyvistas, taip pat asmuo, kuris anksčiau jau buvo atleistas nuo baudžiamosios atsakomybės pagal laidavimą, jeigu nuo ikiteisminio tyrimo teisėjo ar teismo sprendimo atleisti asmenį nuo baudžiamosios atsakomybės įsiteisėjimo dienos iki naujos veikos padarymo praėjo mažiau negu treji metai. ^s-950455b8770bfd9360706c69
 Papildyta straipsnio dalimi:
 Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 
@@ -1171,7 +1171,7 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 ### 401 straipsnis. Juridinio asmens atleidimas nuo baudžiamosios atsakomybės ^s-5a6bcecbd242d34b45b05430
 
 
-Šio kodekso 36, 37, 38, 39 ir [[#^s-46dc78e5f413aa3178718620|40 straipsniuose]] numatyti atleidimo nuo baudžiamosios atsakomybės pagrindai gali būti taikomi ir juridiniams asmenims.
+Šio kodekso [[#^s-518a7eb17a53ddb37c5941f8|36]], [[#^s-4b6779c64039753dbc3de058|37]], [[#^s-6e7d49ef51081bb3085a9e5e|38]], [[#^s-6e8c2b94d9151bc129e3c8f3|39]] ir [[#^s-46dc78e5f413aa3178718620|40]] straipsniuose numatyti atleidimo nuo baudžiamosios atsakomybės pagrindai gali būti taikomi ir juridiniams asmenims.
 
 
 Papildyta straipsniu:
@@ -1251,13 +1251,13 @@ BAUSMĖ
 3. Asmeniui, padariusiam vieną nusikaltimą ar baudžiamąjį nusižengimą, gali būti skiriama tik viena bausmė. ^s-1b84126ba6f16a5ce609cdb6
 
 
-4. Šio kodekso 63 ir [[#^s-19849242687ae5021f8c7207|64 straipsniuose]] numatytais atvejais gali būti skiriamos dvi bausmės. ^s-9193826800fbc7c6c021eb8d
+4. Šio kodekso [[#^s-533f538ba5ec6407972af5a4|63]] ir [[#^s-19849242687ae5021f8c7207|64]] straipsniuose numatytais atvejais gali būti skiriamos dvi bausmės. ^s-9193826800fbc7c6c021eb8d
 
 
 5. Jeigu už kelis padarytus nusikaltimus skiriamos daugiau negu dvi skirtingų rūšių bausmės, teismas, skirdamas galutinę subendrintą bausmę, iš paskirtų bausmių palieka dvi bausmes: vieną iš jų – griežčiausią, o kitą parenka savo nuožiūra. ^s-255fc99d0828f98abde92db5
 
 
-6. Padariusiam nusikalstamą veiką asmeniui kartu su bausme, remiantis šio kodekso 67, 68, 681, 69, 70, 71, 72, 721, 722, 723, 724 ir [[#^s-f81f20c2571e899cb97df0ac|725 straipsniais]], gali būti skiriamos viena arba daugiau baudžiamojo poveikio priemonių. Kartu su baudos bausme įmoka į Nukentėjusių nuo nusikaltimų asmenų fondą neskiriama. Kartu su viešųjų darbų bausme neskiriama atlikti nemokamų darbų. ^s-687ff8d96cd14a5779fa54be
+6. Padariusiam nusikalstamą veiką asmeniui kartu su bausme, remiantis šio kodekso [[#^s-6a84d9db6de2fa7a18e90e43|67]], [[#^s-84873e3ae9d35fb780358ae4|68]], [[#^s-f4d71b6ed74ee65b6155a986|681]], [[#^s-7d7c6613b6c492dd1c5634e6|69]], [[#^s-bfc0ff26233399eff20174a9|70]], [[#^s-b5df0ae48d4b749d509080d0|71]], [[#^s-75da4cf5f16971f89f84f1b7|72]], [[#^s-ccdd57b97861b8a6f25edf49|721]], [[#^s-4a46f4069c65129244e1f270|722]], [[#^s-759b09567283611e0c5649aa|723]], [[#^s-d7626c1fff1cdd0c1d37edfb|724]] ir [[#^s-f81f20c2571e899cb97df0ac|725]] straipsniais, gali būti skiriamos viena arba daugiau baudžiamojo poveikio priemonių. Kartu su baudos bausme įmoka į Nukentėjusių nuo nusikaltimų asmenų fondą neskiriama. Kartu su viešųjų darbų bausme neskiriama atlikti nemokamų darbų. ^s-687ff8d96cd14a5779fa54be
 Straipsnio dalies pakeitimai:
 Nr. XII-1676, 2015-05-07, paskelbta TAR 2015-05-18, i. k. 2015-07563
 Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
@@ -1266,7 +1266,7 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 
 
 
-7. Bausmių rūšis juridiniams asmenims ir bausmių skyrimo nepilnamečiams ypatumus nustato šio kodekso 43, 581 ir [[#^s-7d35b4069816c1f6a3c75c1c|90 straipsniai]]. ^s-b4017162bc26db01bf245812
+7. Bausmių rūšis juridiniams asmenims ir bausmių skyrimo nepilnamečiams ypatumus nustato šio kodekso [[#^s-69d12938470ef697913171fc|43]], [[#^s-450451fe7f3bb0a43519ebec|581]] ir [[#^s-7d35b4069816c1f6a3c75c1c|90]] straipsniai. ^s-b4017162bc26db01bf245812
 Straipsnio dalies pakeitimai:
 Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 
@@ -1307,7 +1307,7 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 4. Juridiniams asmenims skiriamos bausmės šio kodekso specialiosios dalies straipsnių sankcijose nenurodomos. Teismas, skirdamas bausmę juridiniam asmeniui, vadovaujasi [[#^s-e42a5f03c3493d3b0b176599|šio straipsnio 1 dalyje]] nustatytu bausmių sąrašu. ^s-daaf1bd357dcfc40bc375161
 
 
-5. Juridiniam asmeniui kartu su bausme, remiantis šio kodekso 67, 69, 71, 72, 723, 726, 727 ir [[#^s-d36186a2a4374477fba320dd|728 straipsniais]], gali būti skiriamos viena arba daugiau baudžiamojo poveikio priemonių. ^s-b90e53d48582f4083398f188
+5. Juridiniam asmeniui kartu su bausme, remiantis šio kodekso [[#^s-6a84d9db6de2fa7a18e90e43|67]], [[#^s-7d7c6613b6c492dd1c5634e6|69]], [[#^s-b5df0ae48d4b749d509080d0|71]], [[#^s-75da4cf5f16971f89f84f1b7|72]], [[#^s-759b09567283611e0c5649aa|723]], [[#^s-71a5fb2523249e8fb7e5e53f|726]], [[#^s-f14ee24df8cbd56bf5169302|727]] ir [[#^s-d36186a2a4374477fba320dd|728]] straipsniais, gali būti skiriamos viena arba daugiau baudžiamojo poveikio priemonių. ^s-b90e53d48582f4083398f188
 Papildyta straipsnio dalimi:
 Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
 Straipsnio dalies pakeitimai:
@@ -1355,7 +1355,7 @@ Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
 6. Jeigu asmuo dėl pateisinamų priežasčių per teismo paskirtą laiką neišdirbo paskirtų viešųjų darbų valandų, teismas gali pratęsti viešųjų darbų laiką, kol šis asmuo išdirbs paskirtas valandas. ^s-2bded2cc6d00cc595f22c304
 
 
-7. Jeigu asmuo vengia atlikti viešuosius darbus, bausmę vykdanti institucija įspėja nuteistąjį dėl galimų teisinių pasekmių. Jeigu asmuo ir po įspėjimo vengia atlikti viešuosius darbus, teismas bausmę vykdančios institucijos teikimu gali pakeisti viešuosius darbus bauda arba laisvės apribojimu. Viešieji darbai keičiami bauda arba laisvės apribojimu pagal šio kodekso 47, 48 ir [[#^s-328b087fac6b08b9ba11e2d2|65 straipsniuose]] nustatytas taisykles. ^s-d0622c7fa4ed3ac2ab927b75
+7. Jeigu asmuo vengia atlikti viešuosius darbus, bausmę vykdanti institucija įspėja nuteistąjį dėl galimų teisinių pasekmių. Jeigu asmuo ir po įspėjimo vengia atlikti viešuosius darbus, teismas bausmę vykdančios institucijos teikimu gali pakeisti viešuosius darbus bauda arba laisvės apribojimu. Viešieji darbai keičiami bauda arba laisvės apribojimu pagal šio kodekso [[#^s-f3442e25b93d72ffe39bb0f2|47]], [[#^s-e04a1ac850d938c5bb76c05d|48]] ir [[#^s-328b087fac6b08b9ba11e2d2|65]] straipsniuose nustatytas taisykles. ^s-d0622c7fa4ed3ac2ab927b75
 Straipsnio dalies pakeitimai:
 Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
 
@@ -1412,7 +1412,7 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 5. Baudos dydis už padarytą nusikalstamą veiką straipsnio sankcijoje nenurodomas. Jį nustato teismas, skirdamas bausmę. ^s-89a9ca7383a88382fa3166eb
 
 
-6. Už šio kodekso XXXIII skyriuje numatytas nusikalstamas veikas skiriama bauda negali būti mažesnė negu nustatyto nusikalstamos veikos dalyko, kaltininko padarytos turtinės žalos arba kaltininko gautos ar siektos gauti turtinės naudos sau ar kitam asmeniui dydis. Kai yra keli baudos dydžio apskaičiavimo kriterijai, skiriamos baudos dydis apskaičiuojamas pagal tą, kurio vertė, išreikšta pinigais, yra didžiausia. Kai bauda skiriama vadovaujantis šioje dalyje nustatytomis taisyklėmis, galutinė teismo paskirta bauda už šio kodekso XXXIII skyriuje numatytas nusikalstamas veikas gali viršyti šio straipsnio 3, 4 ir [[#^s-ff3cc34b54c8d25ab55ac49b|41 dalyse]] nurodytus maksimalius baudos dydžius, tačiau negali būti mažesnė negu šio straipsnio 3, 4 ir [[#^s-ff3cc34b54c8d25ab55ac49b|41 dalyse]] numatyti minimalūs baudos dydžiai. ^s-874b7f57010895231c50d3ae
+6. Už šio kodekso XXXIII skyriuje numatytas nusikalstamas veikas skiriama bauda negali būti mažesnė negu nustatyto nusikalstamos veikos dalyko, kaltininko padarytos turtinės žalos arba kaltininko gautos ar siektos gauti turtinės naudos sau ar kitam asmeniui dydis. Kai yra keli baudos dydžio apskaičiavimo kriterijai, skiriamos baudos dydis apskaičiuojamas pagal tą, kurio vertė, išreikšta pinigais, yra didžiausia. Kai bauda skiriama vadovaujantis šioje dalyje nustatytomis taisyklėmis, galutinė teismo paskirta bauda už šio kodekso XXXIII skyriuje numatytas nusikalstamas veikas gali viršyti šio straipsnio [[#^s-0a7135905bfb702006679662|3]], [[#^s-2315fecef56d0a2e1d05eb9e|4]] ir [[#^s-ff3cc34b54c8d25ab55ac49b|41]] dalyse nurodytus maksimalius baudos dydžius, tačiau negali būti mažesnė negu šio straipsnio [[#^s-0a7135905bfb702006679662|3]], [[#^s-2315fecef56d0a2e1d05eb9e|4]] ir [[#^s-ff3cc34b54c8d25ab55ac49b|41]] dalyse numatyti minimalūs baudos dydžiai. ^s-874b7f57010895231c50d3ae
 Straipsnio dalies pakeitimai:
 Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 
@@ -1421,7 +1421,7 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 7. Jeigu asmuo neturi lėšų sumokėti teismo paskirtą baudą, teismas, vadovaudamasis šio kodekso [[#^s-328b087fac6b08b9ba11e2d2|65 straipsnyje]] nustatytomis taisyklėmis, nuteistojo sutikimu šią bausmę gali pakeisti viešaisiais darbais. ^s-c356ad9944dd13b0559280df
 
 
-8. Jeigu asmuo vengia savo noru sumokėti baudą ir nėra galimybių ją išieškoti, teismas gali pakeisti baudą laisvės apribojimu. Keisdamas baudą laisvės apribojimu, teismas vadovaujasi šio kodekso 48 ir [[#^s-328b087fac6b08b9ba11e2d2|65 straipsniuose]] nustatytomis taisyklėmis. ^s-b14d644aaf5235f817b55b1b
+8. Jeigu asmuo vengia savo noru sumokėti baudą ir nėra galimybių ją išieškoti, teismas gali pakeisti baudą laisvės apribojimu. Keisdamas baudą laisvės apribojimu, teismas vadovaujasi šio kodekso [[#^s-e04a1ac850d938c5bb76c05d|48]] ir [[#^s-328b087fac6b08b9ba11e2d2|65]] straipsniuose nustatytomis taisyklėmis. ^s-b14d644aaf5235f817b55b1b
 Straipsnio dalies pakeitimai:
 Nr. XIII-2263, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11177
 
@@ -1489,10 +1489,10 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 
 
 
-7. Laisvės apribojimo bausmės vykdymo metu teismas bausmę vykdančios institucijos teikimu gali pakeisti intensyvią priežiūrą, paskirtas baudžiamojo poveikio priemones, auklėjamojo poveikio priemones, įpareigojimus ir (ar) draudimus kitomis šio kodekso IX skyriuje numatytomis baudžiamojo poveikio priemonėmis arba XI skyriuje numatytomis auklėjamojo poveikio priemonėmis, kai laisvės apribojimo bausmė paskirta nepilnamečiui, įpareigojimais, draudimais, paskirti papildomų šio kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių arba XI skyriuje numatytų auklėjamojo poveikio priemonių, kai laisvės apribojimo bausmė paskirta nepilnamečiui, ir (ar) šio straipsnio 4, 5 ir [[#^s-5eae7ea7e78699ae5dd89147|6 dalyse]] nurodytų įpareigojimų ir (ar) draudimų, taip pat intensyvią priežiūrą, jeigu tai darytų teigiamą įtaką nuteistojo elgesiui. ^s-e25f7d6fe854a62f871d9c2f
+7. Laisvės apribojimo bausmės vykdymo metu teismas bausmę vykdančios institucijos teikimu gali pakeisti intensyvią priežiūrą, paskirtas baudžiamojo poveikio priemones, auklėjamojo poveikio priemones, įpareigojimus ir (ar) draudimus kitomis šio kodekso IX skyriuje numatytomis baudžiamojo poveikio priemonėmis arba XI skyriuje numatytomis auklėjamojo poveikio priemonėmis, kai laisvės apribojimo bausmė paskirta nepilnamečiui, įpareigojimais, draudimais, paskirti papildomų šio kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių arba XI skyriuje numatytų auklėjamojo poveikio priemonių, kai laisvės apribojimo bausmė paskirta nepilnamečiui, ir (ar) šio straipsnio [[#^s-21539a8556944baaec30df39|4]], [[#^s-0b8f86c3d2f8cdc5931b77f2|5]] ir [[#^s-5eae7ea7e78699ae5dd89147|6]] dalyse nurodytų įpareigojimų ir (ar) draudimų, taip pat intensyvią priežiūrą, jeigu tai darytų teigiamą įtaką nuteistojo elgesiui. ^s-e25f7d6fe854a62f871d9c2f
 
 
-8. Jeigu nuteistasis vengia atlikti laisvės apribojimo bausmę, teismas bausmę vykdančios institucijos teikimu gali papildomai paskirti šio kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių arba XI skyriuje numatytų auklėjamojo poveikio priemonių, kai laisvės apribojimo bausmė paskirta nepilnamečiui, ir (ar) šio straipsnio 4, 5 ir [[#^s-5eae7ea7e78699ae5dd89147|6 dalyse]] nurodytų įpareigojimų ir (ar) draudimų, taip pat intensyvią priežiūrą arba laisvės apribojimo bausmę pakeisti areštu. Laisvės apribojimo bausmė keičiama areštu pagal šio kodekso 49 ir [[#^s-328b087fac6b08b9ba11e2d2|65 straipsniuose]] nustatytas taisykles. ^s-8d1b9b4ae8152906f013c8f3
+8. Jeigu nuteistasis vengia atlikti laisvės apribojimo bausmę, teismas bausmę vykdančios institucijos teikimu gali papildomai paskirti šio kodekso IX skyriuje numatytų baudžiamojo poveikio priemonių arba XI skyriuje numatytų auklėjamojo poveikio priemonių, kai laisvės apribojimo bausmė paskirta nepilnamečiui, ir (ar) šio straipsnio [[#^s-21539a8556944baaec30df39|4]], [[#^s-0b8f86c3d2f8cdc5931b77f2|5]] ir [[#^s-5eae7ea7e78699ae5dd89147|6]] dalyse nurodytų įpareigojimų ir (ar) draudimų, taip pat intensyvią priežiūrą arba laisvės apribojimo bausmę pakeisti areštu. Laisvės apribojimo bausmė keičiama areštu pagal šio kodekso [[#^s-98d48dd0ea34ae5d34587649|49]] ir [[#^s-328b087fac6b08b9ba11e2d2|65]] straipsniuose nustatytas taisykles. ^s-8d1b9b4ae8152906f013c8f3
 
 
 Straipsnio pakeitimai:
@@ -1828,7 +1828,7 @@ Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087
 
 
 
-14) [[#^s-fadb2fe2986e52c382df9e99|149 straipsnio]] 3 ir 4 dalyse, [[#^s-ed3e7840cfb29c37138462b3|150 straipsnio]] 3 ir 4 dalyse, [[#^s-e5adff19ade215311ba32096|151 straipsnio 2 dalyje]], 1511, 1521, 153, [[#^s-b079fe5589ab467688787c01|162 straipsniuose]], [[#^s-a03209ef740525391cb29354|307 straipsnio 3 dalyje]], [[#^s-c0e5288fa2ad67dc760f32bc|308 straipsnio 3 dalyje]], [[#^s-e8406fc0dd3782cf11292b48|309 straipsnio]] 2 ir 3 dalyse numatytas veikas padarė nukentėjusio nepilnamečio artimasis giminaitis, šeimos narys ar kartu gyvenantis asmuo. ^s-988e328aad74dd2cc74d44cf
+14) [[#^s-fadb2fe2986e52c382df9e99|149 straipsnio]] [[#^s-4cb1a2ccae88108e2d9dc502|3]] ir [[#^s-cce6b9fde779f39296afe6a5|4]] dalyse, [[#^s-ed3e7840cfb29c37138462b3|150 straipsnio]] [[#^s-fd4ffa1808f3f0f8a99517b8|3]] ir [[#^s-b78e147e48a8f4f1b64f3070|4]] dalyse, [[#^s-e5adff19ade215311ba32096|151 straipsnio 2 dalyje]], [[#^s-a613ad3d0b5f479755448d60|1511]], [[#^s-f3c62eaf4ce876d654ef5edf|1521]], [[#^s-c36550530ece1d337176f82b|153]], [[#^s-b079fe5589ab467688787c01|162]] straipsniuose, [[#^s-a03209ef740525391cb29354|307 straipsnio 3 dalyje]], [[#^s-c0e5288fa2ad67dc760f32bc|308 straipsnio 3 dalyje]], [[#^s-e8406fc0dd3782cf11292b48|309 straipsnio]] [[#^s-63d392a165c6a6ae834e383e|2]] ir [[#^s-e865d98c752b5a9a3524d48f|3]] dalyse numatytas veikas padarė nukentėjusio nepilnamečio artimasis giminaitis, šeimos narys ar kartu gyvenantis asmuo. ^s-988e328aad74dd2cc74d44cf
 Papildyta straipsnio punktu:
 Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
 
@@ -1914,13 +1914,13 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 
 
 
-3. Kai yra šio straipsnio 1 ir [[#^s-5da8869517a9d8564982bdaa|2 dalyse]] nurodytos sąlygos, teismas gali: ^s-7c932af4626d05360b944738
+3. Kai yra šio straipsnio [[#^s-7acf2f558f6c6d081ebe7293|1]] ir [[#^s-5da8869517a9d8564982bdaa|2]] dalyse nurodytos sąlygos, teismas gali: ^s-7c932af4626d05360b944738
 
 
 1) paskirti mažesnę bausmę, negu straipsnio sankcijoje už padarytą nusikalstamą veiką numatyta mažiausia bausmė, arba ^s-3f4de9db8aa6550ea809bffa
 
 
-2) paskirti mažesnę bausmę, negu nustatyta šio kodekso [[#^s-f3442e25b93d72ffe39bb0f2|47 straipsnio]] 3, 4, 41 ir 6 dalyse, [[#^s-948f4b0aae5e564cf1dd6834|56 straipsnyje]] ir [[#^s-97797619914705c7bbae2c9d|90 straipsnio 3 dalyje]], arba ^s-ef620f7787e9cfddab15dfc2
+2) paskirti mažesnę bausmę, negu nustatyta šio kodekso [[#^s-f3442e25b93d72ffe39bb0f2|47 straipsnio]] [[#^s-0a7135905bfb702006679662|3]], [[#^s-2315fecef56d0a2e1d05eb9e|4]], [[#^s-ff3cc34b54c8d25ab55ac49b|41]] ir [[#^s-874b7f57010895231c50d3ae|6]] dalyse, [[#^s-948f4b0aae5e564cf1dd6834|56 straipsnyje]] ir [[#^s-97797619914705c7bbae2c9d|90 straipsnio 3 dalyje]], arba ^s-ef620f7787e9cfddab15dfc2
 Straipsnio punkto pakeitimai:
 Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087
 Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
@@ -1972,7 +1972,7 @@ Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
 1) yra ideali nusikalstamų veikų sutaptis; ^s-1a2f851e98edc3efc8ab95e9
 
 
-2) padarytos nusikalstamos veikos labai skiriasi pagal pavojingumą ir priskiriamos skirtingoms nusikalstamų veikų rūšims ar kategorijoms pagal šio kodekso 10 ar [[#^s-ca515a9e2afe866c272c240c|11 straipsnius]]; ^s-4078b898c044a07e423cc437
+2) padarytos nusikalstamos veikos labai skiriasi pagal pavojingumą ir priskiriamos skirtingoms nusikalstamų veikų rūšims ar kategorijoms pagal šio kodekso [[#^s-57ecf20b17089802c356ac6d|10]] ar [[#^s-ca515a9e2afe866c272c240c|11]] straipsnius; ^s-4078b898c044a07e423cc437
 
 
 3) už vieną nusikalstamą veiką paskirta dvidešimt metų laisvės atėmimo arba laisvės atėmimas iki gyvos galvos. ^s-ff3f8425c909528ac771e81b
@@ -2101,7 +2101,7 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 
 
 
-2. Teismas, subendrindamas bausmes šio kodekso 63 ir [[#^s-19849242687ae5021f8c7207|64 straipsniuose]] numatytais atvejais, švelnesnę bausmę keičia griežtesne bausme. Bauda nekeičiama ir skiriama kartu su kita bausme. Draudžiamas dvigubas bausmių keitimas. ^s-2c76b9ecf775214349c95d2a
+2. Teismas, subendrindamas bausmes šio kodekso [[#^s-533f538ba5ec6407972af5a4|63]] ir [[#^s-19849242687ae5021f8c7207|64]] straipsniuose numatytais atvejais, švelnesnę bausmę keičia griežtesne bausme. Bauda nekeičiama ir skiriama kartu su kita bausme. Draudžiamas dvigubas bausmių keitimas. ^s-2c76b9ecf775214349c95d2a
 
 
 Straipsnio pakeitimai:
@@ -2197,7 +2197,7 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 1. Teismas gali uždrausti asmeniui naudotis specialiomis teisėmis (teise vairuoti kelių, oro ar vandens transporto priemones, teise laikyti ir nešioti ginklą, teise medžioti, teise žvejoti ir pan.) tais atvejais, kai naudodamasis šiomis teisėmis asmuo padarė nusikalstamą veiką. ^s-502c5e7b5be1849b27b3613e
 
 
-2. Teismas uždraudžia naudotis specialiomis teisėmis nuo vienerių iki penkerių metų. Už šio kodekso [[#^s-904481055354dab6dcd19629|281 straipsnio]] 2, 4, 6 dalyse ar [[#^s-38f3570db5bda895b47148f8|2811 straipsnyje]] numatytas nusikalstamas veikas gali būti uždraudžiama naudotis teise vairuoti kelių transporto priemones nuo vienerių iki septynerių metų asmeniui, kuriam šių nusikalstamų veikų padarymo metu šio kodekso nustatyta tvarka jau buvo uždrausta naudotis teise vairuoti kelių transporto priemones dėl nusikalstamos veikos, jo padarytos neblaivaus ar apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų. Šioje dalyje nurodyti terminai skaičiuojami metais, mėnesiais ir dienomis. ^s-392f9a5c39871b7087578518
+2. Teismas uždraudžia naudotis specialiomis teisėmis nuo vienerių iki penkerių metų. Už šio kodekso [[#^s-904481055354dab6dcd19629|281 straipsnio]] [[#^s-fb8ad6231a457efe3bd92f86|2]], [[#^s-6c3968e997f40ebf24ecc681|4]], [[#^s-146c88c4c71e55cd36549d43|6]] dalyse ar [[#^s-38f3570db5bda895b47148f8|2811 straipsnyje]] numatytas nusikalstamas veikas gali būti uždraudžiama naudotis teise vairuoti kelių transporto priemones nuo vienerių iki septynerių metų asmeniui, kuriam šių nusikalstamų veikų padarymo metu šio kodekso nustatyta tvarka jau buvo uždrausta naudotis teise vairuoti kelių transporto priemones dėl nusikalstamos veikos, jo padarytos neblaivaus ar apsvaigusio nuo narkotinių, psichotropinių ar kitų psichiką veikiančių medžiagų. Šioje dalyje nurodyti terminai skaičiuojami metais, mėnesiais ir dienomis. ^s-392f9a5c39871b7087578518
 Straipsnio dalies pakeitimai:
 Nr. XIII-1929, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00859
 Nr. XIV-1447, 2022-10-10, paskelbta TAR 2022-10-19, i. k. 2022-21163
@@ -2228,7 +2228,7 @@ Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
 3. Teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą teismas skiria tais atvejais, kai asmuo nusikalstamą veiką padaro darbinės ar profesinės veiklos srityje arba kai teismas, atsižvelgdamas į padarytos nusikalstamos veikos pobūdį, padaro išvadą, kad asmeniui negalima palikti teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla. ^s-9f69364f7a2c01b3a44e53e4
 
 
-4. Viešosios teisės gali būti atimamos ar teisė dirbti tam tikrą darbą arba užsiimti tam tikra veikla gali būti atimama nuo vienerių iki penkerių metų. Už šio kodekso XXXIII skyriuje numatytus apysunkius ir sunkius nusikaltimus viešosios teisės gali būti atimamos ar teisė dirbti tam tikrą darbą arba užsiimti tam tikra veikla gali būti atimama nuo trejų iki septynerių metų. Teismas, skirdamas viešųjų teisių atėmimą ar teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą, nurodo, kurios iš šio straipsnio 1 ir [[#^s-9f69364f7a2c01b3a44e53e4|3 dalyse]] nurodytų teisių yra atimamos, taip pat nurodo šios baudžiamojo poveikio priemonės terminą. Šis terminas skaičiuojamas metais, mėnesiais ir dienomis. ^s-924765f31976f10803d3643f
+4. Viešosios teisės gali būti atimamos ar teisė dirbti tam tikrą darbą arba užsiimti tam tikra veikla gali būti atimama nuo vienerių iki penkerių metų. Už šio kodekso XXXIII skyriuje numatytus apysunkius ir sunkius nusikaltimus viešosios teisės gali būti atimamos ar teisė dirbti tam tikrą darbą arba užsiimti tam tikra veikla gali būti atimama nuo trejų iki septynerių metų. Teismas, skirdamas viešųjų teisių atėmimą ar teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimą, nurodo, kurios iš šio straipsnio [[#^s-d3e28dcf97acadaf146e05e7|1]] ir [[#^s-9f69364f7a2c01b3a44e53e4|3]] dalyse nurodytų teisių yra atimamos, taip pat nurodo šios baudžiamojo poveikio priemonės terminą. Šis terminas skaičiuojamas metais, mėnesiais ir dienomis. ^s-924765f31976f10803d3643f
 
 
 5. Viešųjų teisių atėmimas ar teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimas, paskirtas kartu su laisvės atėmimu arba areštu, taikomas visą laisvės atėmimo ar arešto atlikimo laiką ir teismo paskirtą laiką po laisvės atėmimo ar arešto atlikimo. ^s-f517d2feffd6b780c272186b
@@ -2405,7 +2405,7 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 4) asmuo, kuriam perleistas turtas, arba juridiniame asmenyje vadovaujančias pareigas ėję ir teisę jam atstovauti, juridinio asmens vardu priimti sprendimus ar kontroliuoti juridinio asmens veiklą turėję asmenys žinojo arba turėjo ir galėjo žinoti, kad šis turtas įgytas nusikalstamu būdu ar neteisėtomis kaltininko lėšomis. ^s-61890396a2615e02b39d1163
 
 
-4. Šiame straipsnyje numatytas išplėstinis turto konfiskavimas negali būti taikomas kaltininko ar trečiųjų asmenų turtui ar jo daliai, iš kurių pagal Lietuvos Respublikos tarptautines sutartis, Lietuvos Respublikos civilinio proceso kodekso, kitų įstatymų nuostatas negali būti išieškoma. ^s-20a7f0d121fd0401517b18fb
+4. Šiame straipsnyje numatytas išplėstinis turto konfiskavimas negali būti taikomas kaltininko ar trečiųjų asmenų turtui ar jo daliai, iš kurių pagal Lietuvos Respublikos tarptautines sutartis, [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), kitų įstatymų nuostatas negali būti išieškoma. ^s-20a7f0d121fd0401517b18fb
 
 
 5. Kai konfiskuotinas visas turtas arba jo dalis yra paslėpta, suvartota, priklauso tretiesiems asmenims ar jo negalima paimti dėl kitų priežasčių arba šį turtą konfiskuoti būtų netikslinga, teismas iš kaltininko ar kitų [[#^s-2e05833fbe80fe1d274f52e2|šio straipsnio 3 dalyje]] nurodytų asmenų išieško konfiskuotino turto ar jo dalies vertę atitinkančią pinigų sumą. ^s-70f3431432b812803c7a165f
@@ -2422,7 +2422,7 @@ Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)
 ### 724 straipsnis. Įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos ^s-d7626c1fff1cdd0c1d37edfb
 
 
-1. Įpareigojimą pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos teismas skiria tais atvejais, kai asmuo padarė šio kodekso [[#^s-fadb2fe2986e52c382df9e99|149 straipsnio]] 3 ir [[#^s-91e53d85ac94d501c259f730|4 dalyse]], [[#^s-ed3e7840cfb29c37138462b3|150 straipsnio]] 3 ir [[#^s-91e53d85ac94d501c259f730|4 dalyse]], [[#^s-e5adff19ade215311ba32096|151 straipsnio 2 dalyje]], 153, [[#^s-840f50e1ce6721a34f9a72ba|157 straipsniuose]], [[#^s-da818c98a2dfd90026426aec|162 straipsnio 1 dalyje]], [[#^s-a03209ef740525391cb29354|307 straipsnio 3 dalyje]], [[#^s-c0e5288fa2ad67dc760f32bc|308 straipsnio 3 dalyje]] ir [[#^s-e8406fc0dd3782cf11292b48|309 straipsnio]] 2 ir [[#^s-6f033ac80a990ef40de46d19|3 dalyse]] numatytas nusikalstamas veikas. ^s-d8d3601b1e3ffa7ea416b038
+1. Įpareigojimą pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos teismas skiria tais atvejais, kai asmuo padarė šio kodekso [[#^s-fadb2fe2986e52c382df9e99|149 straipsnio]] [[#^s-4cb1a2ccae88108e2d9dc502|3]] ir [[#^s-cce6b9fde779f39296afe6a5|4]] dalyse, [[#^s-ed3e7840cfb29c37138462b3|150 straipsnio]] [[#^s-fd4ffa1808f3f0f8a99517b8|3]] ir [[#^s-b78e147e48a8f4f1b64f3070|4]] dalyse, [[#^s-e5adff19ade215311ba32096|151 straipsnio 2 dalyje]], [[#^s-c36550530ece1d337176f82b|153]], [[#^s-840f50e1ce6721a34f9a72ba|157]] straipsniuose, [[#^s-da818c98a2dfd90026426aec|162 straipsnio 1 dalyje]], [[#^s-a03209ef740525391cb29354|307 straipsnio 3 dalyje]], [[#^s-c0e5288fa2ad67dc760f32bc|308 straipsnio 3 dalyje]] ir [[#^s-e8406fc0dd3782cf11292b48|309 straipsnio]] [[#^s-63d392a165c6a6ae834e383e|2]] ir [[#^s-e865d98c752b5a9a3524d48f|3]] dalyse numatytas nusikalstamas veikas. ^s-d8d3601b1e3ffa7ea416b038
 
 
 2. Įpareigojimas pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos gali būti skiriamas nuo vienerių iki penkerių metų. Teismas, skirdamas įpareigojimą pranešti apie gyvenamosios vietos pakeitimą ar išvykimą iš jos, nurodo šios baudžiamojo poveikio priemonės terminą. Šis terminas skaičiuojamas metais ir mėnesiais. ^s-1ecca8733a33c04bcc6165c5
@@ -2502,10 +2502,10 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 ### 74 straipsnis. Baudžiamojo poveikio priemonių nevykdymo teisinės pasekmės ^s-5c546799abb09e38f374cecf
 
 
-1. Teismo paskirta šio kodekso [[#^s-b1d8055cc31ce22815a66cea|67 straipsnio 2 dalies]] 4 ar 5 punkte numatyta baudžiamojo poveikio priemonė, kurios asmuo negali įvykdyti dėl pateisinamų priežasčių, jo prašymu gali būti pakeista kita baudžiamojo poveikio priemone. ^s-4bbc38827f99dec350135946
+1. Teismo paskirta šio kodekso [[#^s-b1d8055cc31ce22815a66cea|67 straipsnio 2 dalies]] [[#^s-9339a4a3a614e9c30b1d39d2|4]] ar [[#^s-a473a97e8f934e375b86be02|5]] punkte numatyta baudžiamojo poveikio priemonė, kurios asmuo negali įvykdyti dėl pateisinamų priežasčių, jo prašymu gali būti pakeista kita baudžiamojo poveikio priemone. ^s-4bbc38827f99dec350135946
 
 
-2. Asmuo, kuris vengia įvykdyti jam paskirtą baudžiamojo poveikio priemonę (išskyrus turto konfiskavimą ir išplėstinį turto konfiskavimą), atsako pagal šio kodekso 243 ar [[#^s-9be64440e27bdcb3aa94bdef|244 straipsnį]]. ^s-8b9afe1da06a79c34c2ba640
+2. Asmuo, kuris vengia įvykdyti jam paskirtą baudžiamojo poveikio priemonę (išskyrus turto konfiskavimą ir išplėstinį turto konfiskavimą), atsako pagal šio kodekso [[#^s-d872dca9ce27aa3cf4355484|243]] ar [[#^s-9be64440e27bdcb3aa94bdef|244]] straipsnį. ^s-8b9afe1da06a79c34c2ba640
 Straipsnio dalies pakeitimai:
 Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 
@@ -2524,7 +2524,7 @@ BAUSMĖS vykdymo atidėjimas ir ATLEIDIMAS NUO BAUSMĖS
 ### 75 straipsnis. Bausmės vykdymo atidėjimas ^s-112ee1b9781b6ca1ebe3b0b2
 
 
-1. Asmeniui, nuteistam arešto bausme, teismas gali atidėti paskirtos bausmės vykdymą nuo trijų mėnesių iki vienerių metų. Atidėdamas paskirtos arešto bausmės vykdymą, teismas gali paskirti nuteistajam intensyvią priežiūrą – nuteistojo buvimo vietos pagal nustatytą laiką kontrolę elektroninio stebėjimo priemonėmis. Šiuo atveju nuteistojo buvimo vietą ir laiką nustato teismas. Teismas taip pat paskiria nuteistajam vieną ar kelias tarpusavyje suderintas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) šio straipsnio 5 ir [[#^s-d9f821fd77097575804dd3c7|6 dalyse]] nustatytas pareigas. ^s-7935f09ef9a96c1d11a5d5ad
+1. Asmeniui, nuteistam arešto bausme, teismas gali atidėti paskirtos bausmės vykdymą nuo trijų mėnesių iki vienerių metų. Atidėdamas paskirtos arešto bausmės vykdymą, teismas gali paskirti nuteistajam intensyvią priežiūrą – nuteistojo buvimo vietos pagal nustatytą laiką kontrolę elektroninio stebėjimo priemonėmis. Šiuo atveju nuteistojo buvimo vietą ir laiką nustato teismas. Teismas taip pat paskiria nuteistajam vieną ar kelias tarpusavyje suderintas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) šio straipsnio [[#^s-0dc13b77033711964d22f522|5]] ir [[#^s-d9f821fd77097575804dd3c7|6]] dalyse nustatytas pareigas. ^s-7935f09ef9a96c1d11a5d5ad
 
 
 2. Asmeniui, nuteistam laisvės atėmimu ne daugiau kaip šešeriems metams už dėl neatsargumo padarytus nusikaltimus arba ne daugiau kaip ketveriems metams už vieną ar kelis nesunkius ar apysunkius tyčinius nusikaltimus, teismas gali atidėti paskirtos bausmės vykdymą nuo vienerių iki trejų metų. ^s-1ac9ca14fef17a8da41f8d69
@@ -2536,10 +2536,10 @@ BAUSMĖS vykdymo atidėjimas ir ATLEIDIMAS NUO BAUSMĖS
 4. Asmeniui, nuteistam laisvės atėmimu už dėl neatsargumo padarytus nusikaltimus arba už vieną ar kelis nesunkius, apysunkius ar sunkius tyčinius nusikaltimus, teismas, remdamasis šio kodekso [[#^s-e11b704084eeb04300222276|54 straipsnio 3 dalimi]], gali visiškai arba iš dalies atidėti paskirtos bausmės vykdymą nuo vienerių iki trejų metų. ^s-8775526d6dbbdba9b49f19a2
 
 
-5. Bausmės vykdymas pagal šio straipsnio 1, 2, 3 ir [[#^s-8775526d6dbbdba9b49f19a2|4 dalis]] gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo arba asmeniui atlikus tik jos dalį. ^s-0dc13b77033711964d22f522
+5. Bausmės vykdymas pagal šio straipsnio [[#^s-7935f09ef9a96c1d11a5d5ad|1]], [[#^s-1ac9ca14fef17a8da41f8d69|2]], [[#^s-b74c5089d5177a868686b1e9|3]] ir [[#^s-8775526d6dbbdba9b49f19a2|4]] dalis gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo arba asmeniui atlikus tik jos dalį. ^s-0dc13b77033711964d22f522
 
 
-6. Atidėdamas bausmės vykdymą pagal šio straipsnio 2, 3 ir [[#^s-8775526d6dbbdba9b49f19a2|4 dalis]], teismas gali paskirti nuteistajam [[#^s-7935f09ef9a96c1d11a5d5ad|šio straipsnio 1 dalyje]] numatytą intensyvią priežiūrą. Teismas taip pat paskiria nuteistajam vieną ar kelias tarpusavyje suderintas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) šias pareigas: ^s-d9f821fd77097575804dd3c7
+6. Atidėdamas bausmės vykdymą pagal šio straipsnio [[#^s-1ac9ca14fef17a8da41f8d69|2]], [[#^s-b74c5089d5177a868686b1e9|3]] ir [[#^s-8775526d6dbbdba9b49f19a2|4]] dalis, teismas gali paskirti nuteistajam [[#^s-7935f09ef9a96c1d11a5d5ad|šio straipsnio 1 dalyje]] numatytą intensyvią priežiūrą. Teismas taip pat paskiria nuteistajam vieną ar kelias tarpusavyje suderintas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) šias pareigas: ^s-d9f821fd77097575804dd3c7
 
 
 1) atsiprašyti nukentėjusio asmens; ^s-850cbd124f2038febc3f8165
@@ -2578,10 +2578,10 @@ BAUSMĖS vykdymo atidėjimas ir ATLEIDIMAS NUO BAUSMĖS
 7. Teismas asmeniui gali paskirti kitas baudžiamajame įstatyme nenumatytas pareigas, kurios, teismo nuomone, turėtų teigiamos įtakos nuteistojo elgesiui. ^s-20f7a691f2781e73c81cdaeb
 
 
-8. Skirdamas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) šio straipsnio 6 ir [[#^s-20f7a691f2781e73c81cdaeb|7 dalyse]] numatytas pareigas, teismas nustato laiką, per kurį nuteistasis privalo jas įvykdyti. ^s-828839853f91beb154523434
+8. Skirdamas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) šio straipsnio [[#^s-d9f821fd77097575804dd3c7|6]] ir [[#^s-20f7a691f2781e73c81cdaeb|7]] dalyse numatytas pareigas, teismas nustato laiką, per kurį nuteistasis privalo jas įvykdyti. ^s-828839853f91beb154523434
 
 
-9. Skirdamas arešto arba laisvės atėmimo bausmę ir šio straipsnio 1, 2 ir [[#^s-b74c5089d5177a868686b1e9|3 dalyse]] nustatyta tvarka neatidėdamas bausmės vykdymo, teismas privalo motyvuoti savo sprendimą. ^s-71536e33b850da6cada33a72
+9. Skirdamas arešto arba laisvės atėmimo bausmę ir šio straipsnio [[#^s-7935f09ef9a96c1d11a5d5ad|1]], [[#^s-1ac9ca14fef17a8da41f8d69|2]] ir [[#^s-b74c5089d5177a868686b1e9|3]] dalyse nustatyta tvarka neatidėdamas bausmės vykdymo, teismas privalo motyvuoti savo sprendimą. ^s-71536e33b850da6cada33a72
 
 
 10. Bausmės vykdymo atidėjimo vykdymo tvarką ir sąlygas nustato [[latest/TAR.58398896D322|Lietuvos Respublikos probacijos įstatymas]]. ^s-2e5f98ac5b7ebd5fedaa67cf
@@ -2650,7 +2650,7 @@ NEPILNAMEČIŲ BAUDŽIAMOSIOS ATSAKOMYBĖS YPATumai
 ### 80 straipsnis. Nepilnamečių baudžiamosios atsakomybės ypatumų paskirtis ^s-79592ada9b32d64b95ba3df3
 
 
-Nepilnamečių baudžiamosios atsakomybės ypatumų, numatytų šiame skyriuje ir šio kodekso [[#^s-512c320ad4d140a117ccb5e4|13 straipsnio]] 2, 3 dalyse, [[#^s-ad9d6efd0d87065dff3cf615|27 straipsnio 4 dalyje]] ir [[#^s-b6cdccb4a0b4bc98860d8b36|97 straipsnio 4 dalyje]], paskirtis:
+Nepilnamečių baudžiamosios atsakomybės ypatumų, numatytų šiame skyriuje ir šio kodekso [[#^s-512c320ad4d140a117ccb5e4|13 straipsnio]] [[#^s-4d0f8fa6c173fdec8f3149a8|2]], [[#^s-db54cb8c177f634f2f09c955|3]] dalyse, [[#^s-ad9d6efd0d87065dff3cf615|27 straipsnio 4 dalyje]] ir [[#^s-b6cdccb4a0b4bc98860d8b36|97 straipsnio 4 dalyje]], paskirtis:
 
 
 1) užtikrinti, kad atsakomybė atitiktų šių asmenų amžių ir socialinę brandą; ^s-71ff50d0c9fa64a74ae612f8
@@ -2672,7 +2672,7 @@ Nepilnamečių baudžiamosios atsakomybės ypatumų, numatytų šiame skyriuje i
 1. Šio skyriaus nuostatos taikomos asmenims, kuriems nusikalstamos veikos padarymo metu nebuvo suėję aštuoniolika metų. ^s-43bd74b588584db4f536b85d
 
 
-2. Šio kodekso 90-94 straipsnių nuostatos, taip pat [[#^s-fdb3a75cef0f6d4a0e2d1e99|82 straipsnio 1 dalies]] 1, 2, 3 ir 5 punktuose numatytos auklėjamojo poveikio priemonės gali būti taikomos asmeniui, kuriam nusikalstamos veikos padarymo metu buvo suėję aštuoniolika metų, tačiau nebuvo suėję dvidešimt vieneri metai, jeigu teismas, atsižvelgęs į padarytos nusikalstamos veikos pobūdį, motyvus bei kitas bylos aplinkybes, o prireikus – į specialisto paaiškinimus ar išvadą, nusprendžia, kad toks asmuo pagal socialinę brandą prilygsta nepilnamečiui ir baudžiamosios atsakomybės ypatumų taikymas jam atitiktų šio kodekso [[#^s-79592ada9b32d64b95ba3df3|80 straipsnyje]] numatytą paskirtį. ^s-1a524032ab0bde92ff5d87bd
+2. Šio kodekso 90-94 straipsnių nuostatos, taip pat [[#^s-fdb3a75cef0f6d4a0e2d1e99|82 straipsnio 1 dalies]] [[#^s-c8e2113209abbda41f36ae86|1]], [[#^s-4568d41e7393d0930bdd3049|2]], [[#^s-f4ffd71182bb9bb82e062e58|3]] ir [[#^s-5762514cce8eded72c2ff144|5]] punktuose numatytos auklėjamojo poveikio priemonės gali būti taikomos asmeniui, kuriam nusikalstamos veikos padarymo metu buvo suėję aštuoniolika metų, tačiau nebuvo suėję dvidešimt vieneri metai, jeigu teismas, atsižvelgęs į padarytos nusikalstamos veikos pobūdį, motyvus bei kitas bylos aplinkybes, o prireikus – į specialisto paaiškinimus ar išvadą, nusprendžia, kad toks asmuo pagal socialinę brandą prilygsta nepilnamečiui ir baudžiamosios atsakomybės ypatumų taikymas jam atitiktų šio kodekso [[#^s-79592ada9b32d64b95ba3df3|80 straipsnyje]] numatytą paskirtį. ^s-1a524032ab0bde92ff5d87bd
 
 
 
@@ -2887,7 +2887,7 @@ Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 5) terminuotas laisvės atėmimas. ^s-5e7f234746af25b0254d39a6
 
 
-2. Padariusiam nusikalstamą veiką nepilnamečiui kartu su bausme, remiantis šio kodekso 72, 721, 722, 723 ir [[#^s-f81f20c2571e899cb97df0ac|725 straipsniais]], gali būti skiriamos viena arba daugiau baudžiamojo poveikio priemonių. ^s-4d4688f942204fe20554f6be
+2. Padariusiam nusikalstamą veiką nepilnamečiui kartu su bausme, remiantis šio kodekso [[#^s-75da4cf5f16971f89f84f1b7|72]], [[#^s-ccdd57b97861b8a6f25edf49|721]], [[#^s-4a46f4069c65129244e1f270|722]], [[#^s-759b09567283611e0c5649aa|723]] ir [[#^s-f81f20c2571e899cb97df0ac|725]] straipsniais, gali būti skiriamos viena arba daugiau baudžiamojo poveikio priemonių. ^s-4d4688f942204fe20554f6be
 Papildyta straipsnio dalimi:
 Nr. XIV-2573, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08214
 
@@ -2975,13 +2975,13 @@ Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
 4. Nepilnamečiui, nuteistam laisvės atėmimu už dėl neatsargumo padarytus nusikaltimus arba už vieną ar kelis nesunkius, apysunkius ar sunkius tyčinius nusikaltimus, teismas, remdamasis šio kodekso [[#^s-e11b704084eeb04300222276|54 straipsnio 3 dalimi]], gali visiškai arba iš dalies atidėti paskirtos bausmės vykdymą nuo vienerių iki trejų metų. ^s-7eafdd18b79cadfd2ab53e75
 
 
-5. Bausmės vykdymas pagal šio straipsnio 1, 2, 3 ir [[#^s-7eafdd18b79cadfd2ab53e75|4 dalis]] gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo arba asmeniui atlikus tik jos dalį. ^s-4a055446f2dba9a28842b8f0
+5. Bausmės vykdymas pagal šio straipsnio [[#^s-c2e3052e1df3184b62f7c56e|1]], [[#^s-414817984b956d3189fd2862|2]], [[#^s-8ae3be47b55428bf95492f85|3]] ir [[#^s-7eafdd18b79cadfd2ab53e75|4]] dalis gali būti atidėtas, jeigu teismas nusprendžia, kad yra pakankamas pagrindas manyti, kad bausmės tikslai bus pasiekti be realaus bausmės atlikimo arba asmeniui atlikus tik jos dalį. ^s-4a055446f2dba9a28842b8f0
 
 
-6. Atidėdamas bausmės vykdymą pagal šio straipsnio 2, 3 ir [[#^s-7eafdd18b79cadfd2ab53e75|4 dalis]], teismas nepilnamečiui paskiria vieną ar kelias tarpusavyje suderintas šio kodekso [[#^s-bf571b307f66a842f29cd22b|82 straipsnyje]] numatytas auklėjamojo poveikio priemones, išskyrus atidavimą į specialią auklėjimo įstaigą. Kartu teismas nustato laiką, per kurį nepilnametis turi įvykdyti auklėjamojo poveikio priemones. Taip pat gali būti skiriamos šio kodekso [[#^s-5ac927de77d647e6330dd32c|67 straipsnio 4 dalyje]] numatytos baudžiamojo poveikio priemonės. ^s-ca7cea737988877d2367eefd
+6. Atidėdamas bausmės vykdymą pagal šio straipsnio [[#^s-414817984b956d3189fd2862|2]], [[#^s-8ae3be47b55428bf95492f85|3]] ir [[#^s-7eafdd18b79cadfd2ab53e75|4]] dalis, teismas nepilnamečiui paskiria vieną ar kelias tarpusavyje suderintas šio kodekso [[#^s-bf571b307f66a842f29cd22b|82 straipsnyje]] numatytas auklėjamojo poveikio priemones, išskyrus atidavimą į specialią auklėjimo įstaigą. Kartu teismas nustato laiką, per kurį nepilnametis turi įvykdyti auklėjamojo poveikio priemones. Taip pat gali būti skiriamos šio kodekso [[#^s-5ac927de77d647e6330dd32c|67 straipsnio 4 dalyje]] numatytos baudžiamojo poveikio priemonės. ^s-ca7cea737988877d2367eefd
 
 
-7. Skirdamas arešto arba laisvės atėmimo bausmę ir šio straipsnio 1, 2 ir [[#^s-8ae3be47b55428bf95492f85|3 dalyse]] nustatyta tvarka neatidėdamas bausmės vykdymo, teismas privalo motyvuoti savo sprendimą. ^s-e968050f2d30f56e6969d211
+7. Skirdamas arešto arba laisvės atėmimo bausmę ir šio straipsnio [[#^s-c2e3052e1df3184b62f7c56e|1]], [[#^s-414817984b956d3189fd2862|2]] ir [[#^s-8ae3be47b55428bf95492f85|3]] dalyse nustatyta tvarka neatidėdamas bausmės vykdymo, teismas privalo motyvuoti savo sprendimą. ^s-e968050f2d30f56e6969d211
 
 
 8. Bausmės vykdymo atidėjimo vykdymo nepilnamečiams tvarką ir sąlygas nustato [[latest/TAR.58398896D322|Lietuvos Respublikos probacijos įstatymas]]. ^s-d62868cfe60a3ce48e03ce0f
@@ -3652,7 +3652,7 @@ baudžiamas laisvės atėmimu nuo ketverių iki dvidešimties metų arba laisvė
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
-3. Nuo baudžiamosios atsakomybės atleidžiamas šio straipsnio 1 ir [[#^s-65ca1de669f3e7fd2e2ce2d2|2 dalyse]] numatytame sąmoksle dalyvavęs asmuo, jeigu jis savo noru valstybės institucijai suteikė svarbią informaciją apie rengiamą valstybės perversmą. ^s-e16dae45b7f190a5c091de57
+3. Nuo baudžiamosios atsakomybės atleidžiamas šio straipsnio [[#^s-6c2e823f43325cca3d432613|1]] ir [[#^s-65ca1de669f3e7fd2e2ce2d2|2]] dalyse numatytame sąmoksle dalyvavęs asmuo, jeigu jis savo noru valstybės institucijai suteikė svarbią informaciją apie rengiamą valstybės perversmą. ^s-e16dae45b7f190a5c091de57
 
 
 Straipsnio pakeitimai:
@@ -3701,10 +3701,10 @@ baudžiamas laisvės atėmimu nuo dvejų iki septynerių metų.
 baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
 
-3. Nuo baudžiamosios atsakomybės atleidžiamas asmuo, padaręs šio straipsnio 1 ar [[#^s-a681785ab357817b9be064d5|2 dalyje]] numatytą nusikalstamą veiką, jeigu jis iki jo pripažinimo įtariamuoju prisipažino padaręs nusikalstamą veiką ir aktyviai bendradarbiavo nustatant užsienio valstybės ar jos organizacijos atstovus ir jų vykdomą veiklą, nukreiptą prieš Lietuvos Respublikos konstitucinę santvarką, suverenitetą, teritorijos vientisumą, gynybos ar ekonomikos galią. ^s-0ddf03ee90b59eba4f5e8698
+3. Nuo baudžiamosios atsakomybės atleidžiamas asmuo, padaręs šio straipsnio [[#^s-7fbdd2fbebc675a889cba59b|1]] ar [[#^s-a681785ab357817b9be064d5|2]] dalyje numatytą nusikalstamą veiką, jeigu jis iki jo pripažinimo įtariamuoju prisipažino padaręs nusikalstamą veiką ir aktyviai bendradarbiavo nustatant užsienio valstybės ar jos organizacijos atstovus ir jų vykdomą veiklą, nukreiptą prieš Lietuvos Respublikos konstitucinę santvarką, suverenitetą, teritorijos vientisumą, gynybos ar ekonomikos galią. ^s-0ddf03ee90b59eba4f5e8698
 
 
-4. [[#^s-0ddf03ee90b59eba4f5e8698|Šio straipsnio 3 dalis]] netaikoma asmeniui, kuris šiame straipsnyje ar šio kodekso [[#^s-e3b9c7df3daca8d37a98c519|119 straipsnyje]] nustatytais pagrindais nuo baudžiamosios atsakomybės jau buvo atleistas, taip pat jeigu dėl šio straipsnio 1 ar [[#^s-a681785ab357817b9be064d5|2 dalyje]] numatytos veikos padarymo žuvo žmogus ar atsirado kitokių sunkių padarinių. ^s-18d1019008fedbcbb48328ec
+4. [[#^s-0ddf03ee90b59eba4f5e8698|Šio straipsnio 3 dalis]] netaikoma asmeniui, kuris šiame straipsnyje ar šio kodekso [[#^s-e3b9c7df3daca8d37a98c519|119 straipsnyje]] nustatytais pagrindais nuo baudžiamosios atsakomybės jau buvo atleistas, taip pat jeigu dėl šio straipsnio [[#^s-5c7d08e7ccfc16b72a3931d2|1]] ar [[#^s-04549ac83d8e3d1b5336e339|2]] dalyje numatytos veikos padarymo žuvo žmogus ar atsirado kitokių sunkių padarinių. ^s-18d1019008fedbcbb48328ec
 
 
 5. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. ^s-eb2906944bd0c00b38e54e52
@@ -3739,7 +3739,7 @@ Nr. XIV-2683, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10821
 4. Nuo baudžiamosios atsakomybės atleidžiamas asmuo, padaręs [[#^s-04549ac83d8e3d1b5336e339|šio straipsnio 2 dalyje]] numatytą nusikalstamą veiką, jeigu jis iki jo pripažinimo įtariamuoju prisipažino padaręs nusikalstamą veiką ir aktyviai bendradarbiavo nustatant užsienio valstybės ar jos organizacijos atstovus ir išaiškinant jų vykdomą veiklą, susijusią su informacijos, kuri yra Lietuvos Respublikos valstybės paslaptis, arba kitos užsienio valstybės žvalgybą dominančios informacijos rinkimu ar perdavimu. ^s-4079b0644d517cc0cd4e0e4c
 
 
-5. Šio straipsnio 3 ir [[#^s-4079b0644d517cc0cd4e0e4c|4 dalys]] netaikomos asmeniui, kuris šiame straipsnyje ar šio kodekso [[#^s-ca7852220a731c062c9854b2|118 straipsnyje]] nustatytais pagrindais nuo baudžiamosios atsakomybės jau buvo atleistas, taip pat jeigu dėl šio straipsnio 1 ar [[#^s-04549ac83d8e3d1b5336e339|2 dalyje]] numatytos veikos padarymo žuvo žmogus ar atsirado kitokių sunkių padarinių. ^s-9a08489e8b7c6a9981585d0e
+5. Šio straipsnio [[#^s-ad2b3e5c4ff135a374630b98|3]] ir [[#^s-4079b0644d517cc0cd4e0e4c|4]] dalys netaikomos asmeniui, kuris šiame straipsnyje ar šio kodekso [[#^s-ca7852220a731c062c9854b2|118 straipsnyje]] nustatytais pagrindais nuo baudžiamosios atsakomybės jau buvo atleistas, taip pat jeigu dėl šio straipsnio [[#^s-7fbdd2fbebc675a889cba59b|1]] ar [[#^s-a681785ab357817b9be064d5|2]] dalyje numatytos veikos padarymo žuvo žmogus ar atsirado kitokių sunkių padarinių. ^s-9a08489e8b7c6a9981585d0e
 
 
 6. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. ^s-2c5fa1f3e1be71fef9447b42
@@ -3777,7 +3777,7 @@ baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 baudžiamas laisvės atėmimu nuo aštuonerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
-3. Tas, kas organizavo šio straipsnio 1 ar [[#^s-472bdef66d8c7cd42fc9c0a1|2 dalyje]] numatytą grupę ar organizaciją arba bet kuriai iš jų vadovavo, ^s-ef3769f6f11e064e769e112f
+3. Tas, kas organizavo šio straipsnio [[#^s-561fc0b8b2aba0951705b60b|1]] ar [[#^s-472bdef66d8c7cd42fc9c0a1|2]] dalyje numatytą grupę ar organizaciją arba bet kuriai iš jų vadovavo, ^s-ef3769f6f11e064e769e112f
 baudžiamas laisvės atėmimu nuo dvylikos iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
@@ -4020,7 +4020,7 @@ baudžiamas areštu arba laisvės atėmimu iki ketverių metų.
 baudžiamas laisvės atėmimu iki šešerių metų.
 
 
-3. Tas, kas padarė šio straipsnio 1 ar [[#^s-276f1ff946d6abd54440ef9b|2 dalyje]] numatytą veiką pažeisdamas teisės aktų nustatytas specialias elgesio saugumo taisykles, ^s-6029bd36186738a758d7dec6
+3. Tas, kas padarė šio straipsnio [[#^s-1728dfe02909fe0278f1a639|1]] ar [[#^s-276f1ff946d6abd54440ef9b|2]] dalyje numatytą veiką pažeisdamas teisės aktų nustatytas specialias elgesio saugumo taisykles, ^s-6029bd36186738a758d7dec6
 baudžiamas laisvės atėmimu iki septynerių metų.
 Straipsnio dalies pakeitimai:
 Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686
@@ -4150,7 +4150,7 @@ baudžiamas laisvės apribojimu arba areštu, arba laisvės atėmimu iki trejų 
 baudžiamas laisvės apribojimu arba areštu, arba laisvės atėmimu iki ketverių metų.
 
 
-3. Tas, kas padarė šio straipsnio 1 ar [[#^s-9edcd2a3687bbde3872f4b23|2 dalyje]] numatytą veiką pažeisdamas teisės aktų nustatytas specialias elgesio saugumo taisykles, ^s-62f805b1fe073cc5d82d842a
+3. Tas, kas padarė šio straipsnio [[#^s-8a16520b7647dd3e0dcdb03c|1]] ar [[#^s-9edcd2a3687bbde3872f4b23|2]] dalyje numatytą veiką pažeisdamas teisės aktų nustatytas specialias elgesio saugumo taisykles, ^s-62f805b1fe073cc5d82d842a
 baudžiamas laisvės apribojimu arba areštu, arba laisvės atėmimu iki penkerių metų.
 
 
@@ -4281,7 +4281,7 @@ Nr. XII-501, 2013-07-02, Žin., 2013, Nr. 75-3772 (2013-07-13)
 ### 141 straipsnis. Sąvokų išaiškinimas ^s-15f3b1c34e6e1dba305b3e4d
 
 
-1. Šio skyriaus 135, 138 ir [[#^s-055e067e6fc9385e9c588649|140 straipsniuose]] numatytų sveikatos sutrikdymų požymius apibūdina Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintos sveikatos sutrikdymo masto nustatymo taisyklės. ^s-3e7f033bca5796bdc414aee9
+1. Šio skyriaus [[#^s-17a18dab33efacb8ab1ba5c9|135]], [[#^s-5c8602524aaabc07f79d3e68|138]] ir [[#^s-055e067e6fc9385e9c588649|140]] straipsniuose numatytų sveikatos sutrikdymų požymius apibūdina Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos patvirtintos sveikatos sutrikdymo masto nustatymo taisyklės. ^s-3e7f033bca5796bdc414aee9
 
 
 2. Šiame kodekse nusikalstamą veiką padariusio asmens šeimos nariai yra kartu su juo gyvenantys tėvai (įtėviai), vaikai (įvaikiai), broliai, seserys ir jų sutuoktiniai arba partneriai, taip pat nusikalstamą veiką padariusio asmens sutuoktinis arba asmuo, su kuriuo nusikalstamą veiką padaręs asmuo bendrai gyvena neįregistravęs santuokos (partnerystė), sutuoktinio arba partnerio tėvai (įtėviai), vaikai (įvaikiai), broliai, seserys ir jų sutuoktiniai arba partneriai. ^s-11344ffce98cce84062e9d14
@@ -4368,7 +4368,7 @@ Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686
 
 
 
-3. Už šio straipsnio 1 ir [[#^s-e2e0fc03d00d23cd5bf31e5c|2 dalyse]] numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius. ^s-f8bd80ad7fc8f6b8bec03d22
+3. Už šio straipsnio [[#^s-9008775e443639779489dcd6|1]] ir [[#^s-e2e0fc03d00d23cd5bf31e5c|2]] dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius. ^s-f8bd80ad7fc8f6b8bec03d22
 
 
 4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. ^s-8d4e724fdad09a395dbaec7f
@@ -4421,7 +4421,7 @@ baudžiamas laisvės atėmimu nuo ketverių iki dvylikos metų.
 3. Nukentėjęs nuo šiame straipsnyje numatytos veikos asmuo gali būti atleistas nuo baudžiamosios atsakomybės už nusikalstamą veiką, kurią jis buvo priverstas tiesiogiai padaryti dėl jam padarytos šiame straipsnyje numatytos veikos. ^s-b3baf6d7a2f0ebac99beac79
 
 
-4. Už šio straipsnio 1 ir [[#^s-6207917415553ffaee4acff4|2 dalyse]] numatytas veikas atsako ir juridinis asmuo. ^s-a9bf9c8365e9f95b64a01a70
+4. Už šio straipsnio [[#^s-5b39161475eaa4dbb037cb7c|1]] ir [[#^s-6207917415553ffaee4acff4|2]] dalyse numatytas veikas atsako ir juridinis asmuo. ^s-a9bf9c8365e9f95b64a01a70
 
 
 Straipsnio pakeitimai:
@@ -4453,7 +4453,7 @@ Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
 
 
 
-4. Už šio straipsnio 1 ir [[#^s-87fba59aede937faa7a64af1|2 dalyse]] numatytas veikas atsako ir juridinis asmuo.“ ^s-58a2daa00e6eb9ef6fca91e3
+4. Už šio straipsnio [[#^s-6c7476d72f660ac73d36735c|1]] ir [[#^s-87fba59aede937faa7a64af1|2]] dalyse numatytas veikas atsako ir juridinis asmuo.“ ^s-58a2daa00e6eb9ef6fca91e3
 Straipsnio dalies pakeitimai:
 Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
 
@@ -4560,7 +4560,7 @@ baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 5. Už [[#^s-38d63523223bc688b97849ba|šio straipsnio 1 dalyje]] numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius. ^s-6b203c051e85f61aab88d253
 
 
-6. Už šio straipsnio 3 ir [[#^s-cce6b9fde779f39296afe6a5|4 dalyse]] numatytas veikas atsako ir juridinis asmuo. ^s-809cba174aa747a7c67d0af1
+6. Už šio straipsnio [[#^s-4cb1a2ccae88108e2d9dc502|3]] ir [[#^s-cce6b9fde779f39296afe6a5|4]] dalyse numatytas veikas atsako ir juridinis asmuo. ^s-809cba174aa747a7c67d0af1
 
 
 Straipsnio pakeitimai:
@@ -4591,7 +4591,7 @@ baudžiamas laisvės atėmimu nuo ketverių iki penkiolikos metų.
 5. Už [[#^s-a6e930a4ed3dd18302837302|šio straipsnio 1 dalyje]] numatytą veiką asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, prokuroro reikalavimas arba kai ikiteisminis tyrimas pradėtas nustačius smurto artimoje aplinkoje požymius. ^s-e04112617be5aac8f7b36b9b
 
 
-6. Už šio straipsnio 3 ir [[#^s-b78e147e48a8f4f1b64f3070|4 dalyse]] numatytas veikas atsako ir juridinis asmuo. ^s-dbadcaeab3d0341e5c024358
+6. Už šio straipsnio [[#^s-fd4ffa1808f3f0f8a99517b8|3]] ir [[#^s-b78e147e48a8f4f1b64f3070|4]] dalyse numatytas veikas atsako ir juridinis asmuo. ^s-dbadcaeab3d0341e5c024358
 
 
 Straipsnio pakeitimai:
@@ -4789,7 +4789,7 @@ baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 3. Nukentėjęs nuo šiame straipsnyje numatytos veikos asmuo gali būti atleistas nuo baudžiamosios atsakomybės už nusikalstamą veiką, kurią jis buvo tiesiogiai priverstas padaryti dėl jam padarytos šiame straipsnyje numatytos veikos. ^s-c7da144144e9b2442e0373ff
 
 
-4. Už šio straipsnio 1 ir [[#^s-ad1f3e758c4c2c198b4787c0|2 dalyse]] numatytas veikas atsako ir juridinis asmuo. ^s-a42169c791279555d48e29e2
+4. Už šio straipsnio [[#^s-b8ccdaad12c9c5da12a5e0d8|1]] ir [[#^s-ad1f3e758c4c2c198b4787c0|2]] dalyse numatytas veikas atsako ir juridinis asmuo. ^s-a42169c791279555d48e29e2
 
 
 Straipsnio pakeitimai:
@@ -4948,7 +4948,7 @@ Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 ### 168 straipsnis. Neteisėtas informacijos apie asmens privatų gyvenimą atskleidimas ar panaudojimas ^s-381a49e341ffda23a5a8410a
 
 
-1. Tas, kas be asmens sutikimo viešai paskelbė, pasinaudojo ar kitų asmenų labui panaudojo informaciją apie kito žmogaus privatų gyvenimą, jeigu tą informaciją jis sužinojo dėl savo tarnybos ar profesijos arba atlikdamas laikiną užduotį, arba ją surinko darydamas šio kodekso 165–[[#^s-fa3bc5a3ff74339cb099aea9|167 straipsniuose]] numatytą veiką, ^s-672a30e73ba252de6921bfdc
+1. Tas, kas be asmens sutikimo viešai paskelbė, pasinaudojo ar kitų asmenų labui panaudojo informaciją apie kito žmogaus privatų gyvenimą, jeigu tą informaciją jis sužinojo dėl savo tarnybos ar profesijos arba atlikdamas laikiną užduotį, arba ją surinko darydamas šio kodekso [[#^s-ae04679c963d5380d89fd88b|165]]–[[#^s-fa3bc5a3ff74339cb099aea9|167]] straipsniuose numatytą veiką, ^s-672a30e73ba252de6921bfdc
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.
 
 
@@ -5239,10 +5239,10 @@ baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 
 
-6. Už šio straipsnio 1 ir [[#^s-1800d45f2f31a327a4c4dcf7|5 dalyse]] numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas. ^s-796aae811498e4b701ca91ec
+6. Už šio straipsnio [[#^s-531499cf4b27ac6047efa7cc|1]] ir [[#^s-1800d45f2f31a327a4c4dcf7|5]] dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas. ^s-796aae811498e4b701ca91ec
 
 
-7. Už šio straipsnio 1, 2, 3 ir [[#^s-6f3bdb1f777efc3c34289658|4 dalyse]] numatytas veikas atsako ir juridinis asmuo. ^s-68fccf5ee5db4a922d468b3a
+7. Už šio straipsnio [[#^s-531499cf4b27ac6047efa7cc|1]], [[#^s-b3d55781f0cac2ce383e5c7e|2]], [[#^s-3c6eb35a51bb21ac6f2ff596|3]] ir [[#^s-6f3bdb1f777efc3c34289658|4]] dalyse numatytas veikas atsako ir juridinis asmuo. ^s-68fccf5ee5db4a922d468b3a
 
 
 Straipsnio pakeitimai:
@@ -5271,7 +5271,7 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 4. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. ^s-f0a3b1d75305d1ba255226a7
 
 
-5. Už šio straipsnio 1 ir [[#^s-0a97a6ee8a523da172b7e696|3 dalyse]] numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas. ^s-897549ffc16fbaa16d288084
+5. Už šio straipsnio [[#^s-63fd0935a1d859fe152752f0|1]] ir [[#^s-0a97a6ee8a523da172b7e696|3]] dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas. ^s-897549ffc16fbaa16d288084
 
 
 
@@ -5357,10 +5357,10 @@ baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 
 
-5. Už šio straipsnio 1 ir [[#^s-b3d15e381aefe5facf2b3cbc|4 dalyse]] numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas. ^s-536151a6139a8d7eb3b10665
+5. Už šio straipsnio [[#^s-9017ac33e632e7765e45b589|1]] ir [[#^s-b3d15e381aefe5facf2b3cbc|4]] dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas. ^s-536151a6139a8d7eb3b10665
 
 
-6. Už šio straipsnio 1, 2 ir [[#^s-1fdb07973c44f8c86eef633e|3 dalyse]] numatytas veikas atsako ir juridinis asmuo. ^s-73b395ed050b5f7d21bf363d
+6. Už šio straipsnio [[#^s-9017ac33e632e7765e45b589|1]], [[#^s-c350afdd3995544898240a4a|2]] ir [[#^s-1fdb07973c44f8c86eef633e|3]] dalyse numatytas veikas atsako ir juridinis asmuo. ^s-73b395ed050b5f7d21bf363d
 
 
 Straipsnio pakeitimai:
@@ -5409,10 +5409,10 @@ baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 
 
-5. Už šio straipsnio 1, 2 ir [[#^s-ce88ce6520940c64240b9215|3 dalyse]] numatytas veikas atsako ir juridinis asmuo. ^s-3f5d75917f03d243ca176c9f
+5. Už šio straipsnio [[#^s-800ec962febf416e3aee403a|1]], [[#^s-3db77f4db28e607e9024daf6|2]] ir [[#^s-ce88ce6520940c64240b9215|3]] dalyse numatytas veikas atsako ir juridinis asmuo. ^s-3f5d75917f03d243ca176c9f
 
 
-6. Už šio straipsnio 1 ir [[#^s-8d1f79f22c90c98feb7c3cfc|4 dalyse]] numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas. ^s-bb83eebf19210f3445c2c0f1
+6. Už šio straipsnio [[#^s-800ec962febf416e3aee403a|1]] ir [[#^s-8d1f79f22c90c98feb7c3cfc|4]] dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas. ^s-bb83eebf19210f3445c2c0f1
 
 
 Straipsnio pakeitimai:
@@ -5439,10 +5439,10 @@ baudžiamas bauda arba laisvės atėmimu iki septynerių metų.
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 
 
-5. Už šio straipsnio 1 ir [[#^s-3a5947fc9609c48095038fe3|4 dalyse]] numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas. ^s-3e524227bbf37d282987d970
+5. Už šio straipsnio [[#^s-715e7c8d43d122d443be8a38|1]] ir [[#^s-3a5947fc9609c48095038fe3|4]] dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas. ^s-3e524227bbf37d282987d970
 
 
-6. Už šio straipsnio 1, 2 ir [[#^s-2a71014f6aa10287406f36e7|3 dalyse]] numatytas veikas atsako ir juridinis asmuo. ^s-490eb05f019c65f2d7745dc8
+6. Už šio straipsnio [[#^s-715e7c8d43d122d443be8a38|1]], [[#^s-a7060862c9ec05cfc88963b7|2]] ir [[#^s-2a71014f6aa10287406f36e7|3]] dalyse numatytas veikas atsako ir juridinis asmuo. ^s-490eb05f019c65f2d7745dc8
 
 
 Straipsnio pakeitimai:
@@ -5492,7 +5492,7 @@ Nr. XII-1554, 2015-03-19, paskelbta TAR 2015-03-23, i. k. 2015-04087
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 
 
-4. Už šio straipsnio 1 ir [[#^s-cefa3814b3073d82280fcfc1|3 dalyse]] numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas. ^s-414855b106e072db4f6f621b
+4. Už šio straipsnio [[#^s-bd191c027c6d81a52562136f|1]] ir [[#^s-cefa3814b3073d82280fcfc1|3]] dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas. ^s-414855b106e072db4f6f621b
 
 
 Straipsnio pakeitimai:
@@ -5515,7 +5515,7 @@ Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686
 
 
 
-3. Už šio straipsnio 1 ir [[#^s-ab3313b7a950605eb481521e|2 dalyse]] numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas. ^s-92b51f148dc9fb338d095b1b
+3. Už šio straipsnio [[#^s-bf6842aed160bc4024726c84|1]] ir [[#^s-ab3313b7a950605eb481521e|2]] dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas, ar prokuroro reikalavimas. ^s-92b51f148dc9fb338d095b1b
 
 
 4. Už [[#^s-ab3313b7a950605eb481521e|šio straipsnio 2 dalyje]] numatytą veiką atsako ir juridinis asmuo. ^s-b1e37bd5d6bb5f1c5429f0b6
@@ -5544,7 +5544,7 @@ Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686
 
 
 
-4. Už šio straipsnio 1 ir [[#^s-97d24ef50896ee032339b5a4|2 dalyse]] numatytas veikas atsako ir juridinis asmuo. ^s-0348d110e31a0b0e1d638377
+4. Už šio straipsnio [[#^s-7f038fb4e20f904e2c1416ba|1]] ir [[#^s-97d24ef50896ee032339b5a4|2]] dalyse numatytas veikas atsako ir juridinis asmuo. ^s-0348d110e31a0b0e1d638377
 
 
 Straipsnio pakeitimai:
@@ -6134,7 +6134,7 @@ Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686
 
 
 
-3. Tas, kas padarė šio straipsnio 1 ar [[#^s-77c1a52a50ad3dc531fd8b56|2 dalyje]] numatytas veikas padarydamas labai didelę turtinę žalą vienam ar daugiau kreditorių, ^s-5236a312205e573999c100bb
+3. Tas, kas padarė šio straipsnio [[#^s-071e356adbba83a594889d5f|1]] ar [[#^s-77c1a52a50ad3dc531fd8b56|2]] dalyje numatytas veikas padarydamas labai didelę turtinę žalą vienam ar daugiau kreditorių, ^s-5236a312205e573999c100bb
 baudžiamas bauda arba laisvės atėmimu iki septynerių metų.
 
 
@@ -6206,13 +6206,13 @@ Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
 
 
 
-2. Šio skyriaus 199, 1991, 1992 ir [[#^s-e3fcbcfa5e848e1d5b23f8d3|200 straipsniuose]] nurodytų daiktų (prekių) vertė apskaičiuojama pagal jų muitinę vertę, įskaitant privalomus sumokėti mokesčius. ^s-0a07c40a3e7f26e6ccbd5136
+2. Šio skyriaus [[#^s-7e9adacc792be1ddc867e2f9|199]], [[#^s-7240a3b2373a389502b5aac0|1991]], [[#^s-bab543f8f3704961838119a6|1992]] ir [[#^s-e3fcbcfa5e848e1d5b23f8d3|200]] straipsniuose nurodytų daiktų (prekių) vertė apskaičiuojama pagal jų muitinę vertę, įskaitant privalomus sumokėti mokesčius. ^s-0a07c40a3e7f26e6ccbd5136
 
 
 3. Šio skyriaus [[#^s-82aa927523a6a15bc27daac9|201 straipsnyje]] nurodyti naminiai stiprūs alkoholiniai gėrimai yra alkoholiniai gėrimai, kurių tūrinė etilo alkoholio koncentracija viršija 18 procentų. ^s-36ab6b8f5431cda17bb7a554
 
 
-4. Šio skyriaus 202 ir [[#^s-92f6dd21c9a075ac558b5e6a|203 straipsniuose]] nurodyto neteisėto vertimosi ūkine, komercine, finansine ar profesine veikla ir neteisėtos juridinio asmens veiklos mastas yra stambus, kai iš šios veiklos gautos paskutinių dvylikos mėnesių pajamos arba nustatyta tvarka neįtrauktų į apskaitą prekių vertė viršija 500 MGL dydžio sumą. ^s-11ecd4ec9c17349f8d589f59
+4. Šio skyriaus [[#^s-8896b9597bb9ae93ddb0533b|202]] ir [[#^s-92f6dd21c9a075ac558b5e6a|203]] straipsniuose nurodyto neteisėto vertimosi ūkine, komercine, finansine ar profesine veikla ir neteisėtos juridinio asmens veiklos mastas yra stambus, kai iš šios veiklos gautos paskutinių dvylikos mėnesių pajamos arba nustatyta tvarka neįtrauktų į apskaitą prekių vertė viršija 500 MGL dydžio sumą. ^s-11ecd4ec9c17349f8d589f59
 Papildyta straipsnio dalimi:
 Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
 
@@ -6494,7 +6494,7 @@ Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686
 ### 2241 straipsnis. Sąvokų išaiškinimas ^s-adf77dd7e99682a3800640ec
 
 
-1. Šio skyriaus 214, [[#^s-06b53be011d26e051b34c617|215 straipsniuose]] nurodyta elektroninė mokėjimo priemonė yra apsaugotas materialus ar nematerialus įrenginys, daiktas ar duomenys arba jų derinys, leidžiantys tiesiogiai arba kartu atliekant vieną ar daugiau procedūrų jų turėtojui ar naudotojui inicijuoti ar atlikti finansinę operaciją, įskaitant operacijas, inicijuojamas ar atliekamas elektroniniais pinigais ar virtualiąja valiuta. ^s-23440d6ea1940a5b74f420fd
+1. Šio skyriaus [[#^s-a585b56cbca480594634a0e1|214]], [[#^s-06b53be011d26e051b34c617|215]] straipsniuose nurodyta elektroninė mokėjimo priemonė yra apsaugotas materialus ar nematerialus įrenginys, daiktas ar duomenys arba jų derinys, leidžiantys tiesiogiai arba kartu atliekant vieną ar daugiau procedūrų jų turėtojui ar naudotojui inicijuoti ar atlikti finansinę operaciją, įskaitant operacijas, inicijuojamas ar atliekamas elektroniniais pinigais ar virtualiąja valiuta. ^s-23440d6ea1940a5b74f420fd
 
 
 2. Šio skyriaus [[#^s-81e5380120c7e5d512dd8361|216 straipsnyje]] nurodytas nusikalstamu būdu gautas turtas yra tiesiogiai ar netiesiogiai iš nusikalstamos veikos gautas bet kokio pavidalo turtas. ^s-7beef7f115189f223abc52be
@@ -6506,7 +6506,7 @@ Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
 
 
 
-4. Šio skyriaus [[#^s-6b74555c1c680b1f3b02dbd3|217 straipsnyje]] nurodyta viešai neatskleista informacija suprantama taip, kaip ji apibrėžta 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB [[#^s-b360ac2c1d8a89e803b13f48|7 straipsnio]] 1–[[#^s-02c9aca07ce872425d2db46d|4 dalyse]], ir gali būti viešai atskleidžiama tik šio reglamento [[#^s-ea2db1b59e3862a0ed134468|17 straipsnyje]] nustatyta tvarka. ^s-02c9aca07ce872425d2db46d
+4. Šio skyriaus [[#^s-6b74555c1c680b1f3b02dbd3|217 straipsnyje]] nurodyta viešai neatskleista informacija suprantama taip, kaip ji apibrėžta 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB [[#^s-b360ac2c1d8a89e803b13f48|7 straipsnio]] 1–4 dalyse, ir gali būti viešai atskleidžiama tik šio reglamento [[#^s-ea2db1b59e3862a0ed134468|17 straipsnyje]] nustatyta tvarka. ^s-02c9aca07ce872425d2db46d
 
 
 5. Šio skyriaus [[#^s-115bf9f7ddd38301cc6e1d03|218 straipsnyje]] nurodytos finansinės priemonės apima ir su finansinėmis priemonėmis susijusių biržos prekių neatidėliotinų sandorių sutartis, kurios suprantamos taip, kaip jos apibrėžtos Reglamento (ES) Nr. 596/2014 3 straipsnio 1 dalies 15 punkte. ^s-c1fb5d6579bf8f98d0c8d4d4
@@ -6589,17 +6589,17 @@ Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
 baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
 
 
-5. Tas, kas padarė šio straipsnio 1 ar [[#^s-d01a64168c1bf439d5d19abe|2 dalyje]] numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs, arba pažadėjęs ar susitaręs priimti, arba reikalavęs ar provokavęs duoti, arba priėmęs mažesnės negu 1 MGL vertės kyšį, padarė baudžiamąjį nusižengimą ir ^s-5cd722bda29b1cf3f7ad265e
+5. Tas, kas padarė šio straipsnio [[#^s-ca7a89b107faeabd40ed1f6f|1]] ar [[#^s-d01a64168c1bf439d5d19abe|2]] dalyje numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs, arba pažadėjęs ar susitaręs priimti, arba reikalavęs ar provokavęs duoti, arba priėmęs mažesnės negu 1 MGL vertės kyšį, padarė baudžiamąjį nusižengimą ir ^s-5cd722bda29b1cf3f7ad265e
 baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 
-6. Asmuo, kuris padarė šio straipsnio 1, 3 ar [[#^s-5cd722bda29b1cf3f7ad265e|5 dalyje]] numatytą veiką, atleidžiamas nuo baudžiamosios atsakomybės, jeigu kyšio iš jo buvo reikalaujama ar provokuojama duoti kyšį ir jis, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs ar pažadėjęs duoti arba davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau negu iki jo pripažinimo įtariamuoju, savanoriškai apie tai pranešė teisėsaugos institucijai, taip pat atleidžiamas nuo baudžiamosios atsakomybės, jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos institucijos žinia. ^s-c3f8a177ce1e6719a5d78336
+6. Asmuo, kuris padarė šio straipsnio [[#^s-ca7a89b107faeabd40ed1f6f|1]], [[#^s-c51796fafe1e58a7f95ee19e|3]] ar [[#^s-5cd722bda29b1cf3f7ad265e|5]] dalyje numatytą veiką, atleidžiamas nuo baudžiamosios atsakomybės, jeigu kyšio iš jo buvo reikalaujama ar provokuojama duoti kyšį ir jis, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs ar pažadėjęs duoti arba davęs kyšį, per įmanomai trumpiausią laiką, bet ne vėliau negu iki jo pripažinimo įtariamuoju, savanoriškai apie tai pranešė teisėsaugos institucijai, taip pat atleidžiamas nuo baudžiamosios atsakomybės, jeigu kyšį jis pažadėjo duoti ar davė su teisėsaugos institucijos žinia. ^s-c3f8a177ce1e6719a5d78336
 
 
 7. [[#^s-c3f8a177ce1e6719a5d78336|Šio straipsnio 6 dalis]] netaikoma asmeniui, kuris tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlė ar pažadėjo duoti arba davė kyšį šio kodekso [[#^s-a66d3692541ca9bccb327af7|230 straipsnio 2 dalyje]] nurodytam asmeniui. ^s-94374a498ee71768d6691bb9
 
 
-8. Už šio straipsnio 1, 2, 3, 4 ir [[#^s-5cd722bda29b1cf3f7ad265e|5 dalyse]] numatytas veikas atsako ir juridinis asmuo. ^s-32170ffb16547b1dc106901d
+8. Už šio straipsnio [[#^s-ca7a89b107faeabd40ed1f6f|1]], [[#^s-d01a64168c1bf439d5d19abe|2]], [[#^s-c51796fafe1e58a7f95ee19e|3]], [[#^s-48427a07ef0699841db04b17|4]] ir [[#^s-5cd722bda29b1cf3f7ad265e|5]] dalyse numatytas veikas atsako ir juridinis asmuo. ^s-32170ffb16547b1dc106901d
 
 
 Straipsnio pakeitimai:
@@ -6621,18 +6621,18 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
 
 
-3. Tas, kas padarė šio straipsnio 1 ar [[#^s-38b78c85f8b984151373bbbd|2 dalyje]] numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs didesnės negu 250 MGL vertės kyšį, ^s-ac857ed112e2b8d21c68f515
+3. Tas, kas padarė šio straipsnio [[#^s-b8582f0b6ab870e82158a4ba|1]] ar [[#^s-38b78c85f8b984151373bbbd|2]] dalyje numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs didesnės negu 250 MGL vertės kyšį, ^s-ac857ed112e2b8d21c68f515
 baudžiamas bauda arba laisvės atėmimu iki septynerių metų.
 Straipsnio dalies pakeitimai:
 Nr. XIII-653, 2017-09-28, paskelbta TAR 2017-10-05, i. k. 2017-15859
 
 
 
-4. Tas, kas padarė šio straipsnio 1 ar [[#^s-38b78c85f8b984151373bbbd|2 dalyje]] numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs mažesnės negu 1 MGL vertės kyšį, padarė baudžiamąjį nusižengimą ir ^s-d6aadd7c148f133d9f643d76
+4. Tas, kas padarė šio straipsnio [[#^s-b8582f0b6ab870e82158a4ba|1]] ar [[#^s-38b78c85f8b984151373bbbd|2]] dalyje numatytus veiksmus, tiesiogiai arba netiesiogiai pats ar per tarpininką pasiūlęs, pažadėjęs ar susitaręs duoti arba davęs mažesnės negu 1 MGL vertės kyšį, padarė baudžiamąjį nusižengimą ir ^s-d6aadd7c148f133d9f643d76
 baudžiamas bauda arba laisvės apribojimu, arba areštu.
 
 
-5. Asmuo, padaręs šio straipsnio 1, 2, 3 ar [[#^s-d6aadd7c148f133d9f643d76|4 dalyje]] numatytus veiksmus, atsako pagal šį kodeksą už siekimą kyšiu tiek valstybės tarnautojo ar jam prilyginto asmens konkretaus veikimo ar neveikimo vykdant įgaliojimus, tiek ir išimtinės padėties arba šio asmens palankumo, nepaisant to, kaip jo veiksmus suprato valstybės tarnautojas ar jam prilygintas asmuo. ^s-c8629e6cd4a4ca0f06093399
+5. Asmuo, padaręs šio straipsnio [[#^s-b8582f0b6ab870e82158a4ba|1]], [[#^s-38b78c85f8b984151373bbbd|2]], [[#^s-ac857ed112e2b8d21c68f515|3]] ar [[#^s-d6aadd7c148f133d9f643d76|4]] dalyje numatytus veiksmus, atsako pagal šį kodeksą už siekimą kyšiu tiek valstybės tarnautojo ar jam prilyginto asmens konkretaus veikimo ar neveikimo vykdant įgaliojimus, tiek ir išimtinės padėties arba šio asmens palankumo, nepaisant to, kaip jo veiksmus suprato valstybės tarnautojas ar jam prilygintas asmuo. ^s-c8629e6cd4a4ca0f06093399
 Papildyta straipsnio dalimi:
 Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472
 
@@ -6650,7 +6650,7 @@ Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472
 
 
 
-8. Už šio straipsnio 1, 2, 3 ir [[#^s-d6aadd7c148f133d9f643d76|4 dalyse]] numatytas veikas atsako ir juridinis asmuo. ^s-fa5cbbfc6df8cdbd7c1c05e7
+8. Už šio straipsnio [[#^s-b8582f0b6ab870e82158a4ba|1]], [[#^s-38b78c85f8b984151373bbbd|2]], [[#^s-ac857ed112e2b8d21c68f515|3]] ir [[#^s-d6aadd7c148f133d9f643d76|4]] dalyse numatytas veikas atsako ir juridinis asmuo. ^s-fa5cbbfc6df8cdbd7c1c05e7
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472
 
@@ -6744,7 +6744,7 @@ Nr. XIII-391, 2017-06-01, paskelbta TAR 2017-06-02, i. k. 2017-09472
 
 
 
-6. Šio kodekso [[#^s-75da4cf5f16971f89f84f1b7|72 straipsnio]] nuostatų taikymo tikslais šio skyriaus [[#^s-7f235afad58adc75ba1ec2f2|226 straipsnio]] 1, 3, [[#^s-564fbd58bc1b5153638cce36|5 dalyse]] ir [[#^s-d98e9d5834228bfbc3ba4d43|227 straipsnyje]] uždraustų veikų rezultatu pripažįstamas tiesiogiai ar netiesiogiai iš šių veikų gautas bet kokio pavidalo turtas, įskaitant turtinę naudą, atsiradusią dėl pageidaujamo valstybės tarnautojo ar jam prilyginto asmens veikimo ar neveikimo vykdant įgaliojimus, nesvarbu, ar ji gauta vykdant veiklą, kuria teisės aktų nustatyta tvarka gali būti verčiamasi teisėtai, ar ne. ^s-54a19780621b1a03ce3f93b7
+6. Šio kodekso [[#^s-75da4cf5f16971f89f84f1b7|72 straipsnio]] nuostatų taikymo tikslais šio skyriaus [[#^s-7f235afad58adc75ba1ec2f2|226 straipsnio]] [[#^s-ca7a89b107faeabd40ed1f6f|1]], [[#^s-c51796fafe1e58a7f95ee19e|3]], [[#^s-5cd722bda29b1cf3f7ad265e|5]] dalyse ir [[#^s-d98e9d5834228bfbc3ba4d43|227 straipsnyje]] uždraustų veikų rezultatu pripažįstamas tiesiogiai ar netiesiogiai iš šių veikų gautas bet kokio pavidalo turtas, įskaitant turtinę naudą, atsiradusią dėl pageidaujamo valstybės tarnautojo ar jam prilyginto asmens veikimo ar neveikimo vykdant įgaliojimus, nesvarbu, ar ji gauta vykdant veiklą, kuria teisės aktų nustatyta tvarka gali būti verčiamasi teisėtai, ar ne. ^s-54a19780621b1a03ce3f93b7
 Papildyta straipsnio dalimi:
 Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876
 Straipsnio dalies numeracijos pakeitimas:
@@ -6810,7 +6810,7 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 
-3. Tas, kas padarė šio straipsnio 1 ir [[#^s-d2b323a49e82adf0460c6dde|2 dalyse]] numatytas veikas, panaudodamas smurtą ar kitokią prievartą, ^s-60917abfede82a8f373a03d9
+3. Tas, kas padarė šio straipsnio [[#^s-e6873261171546cd28632038|1]] ir [[#^s-d2b323a49e82adf0460c6dde|2]] dalyse numatytas veikas, panaudodamas smurtą ar kitokią prievartą, ^s-60917abfede82a8f373a03d9
 baudžiamas areštu arba laisvės atėmimu iki septynerių metų.
 Straipsnio dalies pakeitimai:
 Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686
@@ -7058,7 +7058,7 @@ baudžiamas laisvės atėmimu nuo trejų iki penkiolikos metų.
 baudžiamas laisvės atėmimu nuo šešerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
-3. Tas, kas organizavo šio straipsnio 1 ar [[#^s-6887e0274c49e003be6d9353|2 dalyje]] numatytus nusikalstamus susivienijimus arba jiems vadovavo, ^s-4722fc0802cab75b5f13aa16
+3. Tas, kas organizavo šio straipsnio [[#^s-6de1e40b3157c65a60f38d2b|1]] ar [[#^s-6887e0274c49e003be6d9353|2]] dalyje numatytus nusikalstamus susivienijimus arba jiems vadovavo, ^s-4722fc0802cab75b5f13aa16
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
@@ -7094,7 +7094,7 @@ baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
-5. Tas, kas kūrė šio straipsnio 3 ar [[#^s-66efb13b8c2accf365b42806|4 dalyje]] numatytą organizuotą teroristinę grupę arba jai vadovavo, ^s-af3fb2124398cef0d0b26509
+5. Tas, kas kūrė šio straipsnio [[#^s-ac275cc1358a36ba64f09318|3]] ar [[#^s-66efb13b8c2accf365b42806|4]] dalyje numatytą organizuotą teroristinę grupę arba jai vadovavo, ^s-af3fb2124398cef0d0b26509
 baudžiamas laisvės atėmimu nuo dvylikos iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
@@ -7133,7 +7133,7 @@ baudžiamas laisvės atėmimu nuo trejų iki penkiolikos metų.
 baudžiamas laisvės atėmimu nuo aštuonerių iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
-5. Tas, kas padarė šio straipsnio 2, 3 ar [[#^s-fb0c3da9a2f22c1bc9995124|4 dalyje]] numatytą veiką, jeigu ji buvo nukreipta prieš strateginę reikšmę nacionaliniam saugumui turintį objektą arba dėl to atsirado labai sunkių padarinių, ^s-90be8e382b89eb8e8ec1d1fb
+5. Tas, kas padarė šio straipsnio [[#^s-50e33d8eea8e3dd275558a80|2]], [[#^s-9a0c1ccecd685e60d819fd55|3]] ar [[#^s-fb0c3da9a2f22c1bc9995124|4]] dalyje numatytą veiką, jeigu ji buvo nukreipta prieš strateginę reikšmę nacionaliniam saugumui turintį objektą arba dėl to atsirado labai sunkių padarinių, ^s-90be8e382b89eb8e8ec1d1fb
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
@@ -7185,7 +7185,7 @@ Nr. XII-497, 2013-07-02, Žin., 2013, Nr. 75-3768 (2013-07-13)
 ### 2503 straipsnis. Grasinimas padaryti teroristinį nusikaltimą ^s-4c15bfffb1d92adea7f63971
 
 
-1. Tas, kas grasino padaryti šio Kodekso 250, 251 ar [[#^s-5709850763b3c1ff76d32826|252 straipsnyje]] nurodytą teroristinį nusikaltimą, jeigu buvo pakankamas pagrindas manyti, kad grasinimas gali būti įvykdytas, ^s-38a438f085d61fcb4a2ebcc2
+1. Tas, kas grasino padaryti šio Kodekso [[#^s-6d9935f28c3047645e48bbbf|250]], [[#^s-d345fe82fd81846b5d4b61b3|251]] ar [[#^s-5709850763b3c1ff76d32826|252]] straipsnyje nurodytą teroristinį nusikaltimą, jeigu buvo pakankamas pagrindas manyti, kad grasinimas gali būti įvykdytas, ^s-38a438f085d61fcb4a2ebcc2
 baudžiamas laisvės atėmimu iki penkerių metų.
 Straipsnio dalies pakeitimai:
 Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
@@ -7280,11 +7280,11 @@ Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686
 baudžiamas laisvės atėmimu nuo penkerių iki dešimties metų.
 
 
-4. Tas, kas teroristiniais tikslais padarė šio straipsnio 1, 2 ar [[#^s-d67b5f499369e76ac82ef1c5|3 dalyje]] numatytą veiką, ^s-12f3c660fcf344247106c33a
+4. Tas, kas teroristiniais tikslais padarė šio straipsnio [[#^s-00590401e52714511d978935|1]], [[#^s-fa8e7a3435683c3e5700e129|2]] ar [[#^s-d67b5f499369e76ac82ef1c5|3]] dalyje numatytą veiką, ^s-12f3c660fcf344247106c33a
 baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
 
-5. Tas, kas padarė šio straipsnio 1, 2, 3 ar [[#^s-12f3c660fcf344247106c33a|4 dalyje]] numatytą veiką, jeigu dėl to įvyko incidentas, avarija ar atsirado kitų labai sunkių padarinių, ^s-246a6e63dca59e3e90e8520b
+5. Tas, kas padarė šio straipsnio [[#^s-00590401e52714511d978935|1]], [[#^s-fa8e7a3435683c3e5700e129|2]], [[#^s-d67b5f499369e76ac82ef1c5|3]] ar [[#^s-12f3c660fcf344247106c33a|4]] dalyje numatytą veiką, jeigu dėl to įvyko incidentas, avarija ar atsirado kitų labai sunkių padarinių, ^s-246a6e63dca59e3e90e8520b
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
@@ -7309,11 +7309,11 @@ baudžiamas laisvės atėmimu nuo ketverių iki aštuonerių metų.
 baudžiamas laisvės atėmimu nuo šešerių iki dešimties metų.
 
 
-3. Tas, kas padarė šio straipsnio 1 ar [[#^s-253e0f60a67347f76e1c9c2d|2 dalyje]] numatytas veikas, jeigu dėl to atsirado labai sunkių padarinių, ^s-bed803fcdb5793256383113f
+3. Tas, kas padarė šio straipsnio [[#^s-0e8bf7cfb4d05704beccda93|1]] ar [[#^s-253e0f60a67347f76e1c9c2d|2]] dalyje numatytas veikas, jeigu dėl to atsirado labai sunkių padarinių, ^s-bed803fcdb5793256383113f
 baudžiamas laisvės atėmimu nuo dešimties iki dvidešimties metų arba laisvės atėmimu iki gyvos galvos.
 
 
-4. Tas, kas naudojosi laivu ar orlaiviu, žinodamas, kad juo buvo padarytos šio straipsnio 1, 2 ar [[#^s-bed803fcdb5793256383113f|3 dalyje]] numatytos veikos ir laivo ar orlaivio kontrolė priklauso šias veikas padariusiems asmenims, ^s-5224142a7d944ca4eefaaea7
+4. Tas, kas naudojosi laivu ar orlaiviu, žinodamas, kad juo buvo padarytos šio straipsnio [[#^s-0e8bf7cfb4d05704beccda93|1]], [[#^s-253e0f60a67347f76e1c9c2d|2]] ar [[#^s-bed803fcdb5793256383113f|3]] dalyje numatytos veikos ir laivo ar orlaivio kontrolė priklauso šias veikas padariusiems asmenims, ^s-5224142a7d944ca4eefaaea7
 baudžiamas bauda arba areštu, arba laisvės atėmimu iki penkerių metų.
 
 
@@ -7351,13 +7351,13 @@ Nr. X-1233, 2007-06-28, Žin., 2007, Nr. 81-3309 (2007-07-21)
 ### 2521 straipsnis. Sąvokų išaiškinimas ^s-97091947ec48ce78c4cfd4cd
 
 
-1. Teroristiniai nusikaltimai yra šio Kodekso [[#^s-6d9935f28c3047645e48bbbf|250 straipsnyje]] nurodytas nusikaltimas ir teroristiniais tikslais padaryti šio Kodekso 2503, 251 ir [[#^s-5709850763b3c1ff76d32826|252 straipsniuose]] nurodyti nusikaltimai. ^s-498770b755c03f4e508ffefb
+1. Teroristiniai nusikaltimai yra šio Kodekso [[#^s-6d9935f28c3047645e48bbbf|250 straipsnyje]] nurodytas nusikaltimas ir teroristiniais tikslais padaryti šio Kodekso [[#^s-4c15bfffb1d92adea7f63971|2503]], [[#^s-d345fe82fd81846b5d4b61b3|251]] ir [[#^s-5709850763b3c1ff76d32826|252]] straipsniuose nurodyti nusikaltimai. ^s-498770b755c03f4e508ffefb
 Straipsnio dalies pakeitimai:
 Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
 
 
 
-2. Su teroristine veikla susiję nusikaltimai yra šio Kodekso 2491, 2501, 2502, 2504, 2505 ir [[#^s-e34232e296a36dc35ff84f16|2506 straipsniuose]] nurodyti nusikaltimai, taip pat šio Kodekso 178, 180, 181 ir [[#^s-7cdb3d505ee6ed7bfe2a56df|300 straipsniuose]] nurodyti nusikaltimai, jeigu jais siekiama gauti lėšų, įrankių ar priemonių teroristiniams nusikaltimams daryti ar remti teroristinės grupės veiklą. ^s-7ec96c08cbd44623c4ecd45d
+2. Su teroristine veikla susiję nusikaltimai yra šio Kodekso [[#^s-97694e6d10d8f7563fe7fe82|2491]], [[#^s-72b830f2686193fdb5dc6a85|2501]], [[#^s-5a60584d372c13fa8e9c9ad5|2502]], [[#^s-61dce17cae90f43cc4afc80d|2504]], [[#^s-ac9758dade35591764db36df|2505]] ir [[#^s-e34232e296a36dc35ff84f16|2506]] straipsniuose nurodyti nusikaltimai, taip pat šio Kodekso [[#^s-451fe2e04f2c7f27b3ad42c6|178]], [[#^s-f387be07d030084d04d539b9|180]], [[#^s-7e9e03c60ea2e322b0791536|181]] ir [[#^s-7cdb3d505ee6ed7bfe2a56df|300]] straipsniuose nurodyti nusikaltimai, jeigu jais siekiama gauti lėšų, įrankių ar priemonių teroristiniams nusikaltimams daryti ar remti teroristinės grupės veiklą. ^s-7ec96c08cbd44623c4ecd45d
 Straipsnio dalies pakeitimai:
 Nr. XIII-342, 2017-05-04, paskelbta TAR 2017-05-11, i. k. 2017-08023
 Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
@@ -7428,7 +7428,7 @@ baudžiamas bauda arba laisvės atėmimu iki šešerių metų.
 baudžiamas laisvės atėmimu nuo ketverių iki dešimties metų.
 
 
-3. Tas, kas padarė šio straipsnio 1 ar [[#^s-ea678b8c357d46906f73dfe3|2 dalyje]] numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą, ^s-744ba5f62394e55497b31ca7
+3. Tas, kas padarė šio straipsnio [[#^s-81c122387f28c37a7b218f32|1]] ar [[#^s-ea678b8c357d46906f73dfe3|2]] dalyje numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą, ^s-744ba5f62394e55497b31ca7
 baudžiamas laisvės atėmimu nuo penkerių iki dešimties metų.
 Papildyta straipsnio dalimi:
 Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483
@@ -7689,7 +7689,7 @@ Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483
 
 
 
-7. Už šio straipsnio 3, 4, 5 ir [[#^s-729962960b09ee023d52299d|6 dalyse]] numatytas veikas atsako ir juridinis asmuo. ^s-cd76bf9b11845d36899b8bf7
+7. Už šio straipsnio [[#^s-5e7de76b4ca650e36697bb7a|3]], [[#^s-cc6067c938916e501b2bc4e4|4]], [[#^s-dd520aff76ad8bd6e8a354a8|5]] ir [[#^s-729962960b09ee023d52299d|6]] dalyse numatytas veikas atsako ir juridinis asmuo. ^s-cd76bf9b11845d36899b8bf7
 Straipsnio dalies pakeitimai:
 Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483
 
@@ -7744,7 +7744,7 @@ baudžiamas areštu arba laivės atėmimu iki penkerių metų.
 baudžiamas laisvės atėmimu nuo trejų iki dešimties metų.
 
 
-3. Tas, kas šio straipsnio 1 ar [[#^s-de3ff629eab5d5262abbc9f9|2 dalyje]] nurodytais veiksmais užvaldė didelį kiekį narkotinių ar psichotropinių medžiagų arba narkotines ar psichotropines medžiagas užvaldė dalyvaudamas organizuotoje grupėje, ^s-4d9e4b4ead5662bba2b26873
+3. Tas, kas šio straipsnio [[#^s-7e2ee8d22d667ce33449a3b2|1]] ar [[#^s-de3ff629eab5d5262abbc9f9|2]] dalyje nurodytais veiksmais užvaldė didelį kiekį narkotinių ar psichotropinių medžiagų arba narkotines ar psichotropines medžiagas užvaldė dalyvaudamas organizuotoje grupėje, ^s-4d9e4b4ead5662bba2b26873
 baudžiamas laisvės atėmimu nuo penkerių iki penkiolikos metų.
 
 
@@ -7820,7 +7820,7 @@ baudžiamas bauda arba laisvės atėmimu iki ketverių metų.
 baudžiamas laisvės atėmimu nuo trejų iki septynerių metų.
 
 
-3. Tas, kas padarė šio straipsnio 1 ar [[#^s-0fd3b7b30d0dc3d37f3c3ff7|2 dalyje]] numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą, ^s-9f3c49ba8b16dca19d1c4ab4
+3. Tas, kas padarė šio straipsnio [[#^s-83cced9c94280ca64a8e42a4|1]] ar [[#^s-0fd3b7b30d0dc3d37f3c3ff7|2]] dalyje numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą, ^s-9f3c49ba8b16dca19d1c4ab4
 baudžiamas laisvės atėmimu nuo ketverių iki septynerių metų.
 Papildyta straipsnio dalimi:
 Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483
@@ -7897,7 +7897,7 @@ Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686
 
 
 
-3. Tas, kas padarė šio straipsnio 1 ar [[#^s-1bb97c268ca14cab851451ee|2 dalyje]] numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą, ^s-0012203dbf13896c73e87028
+3. Tas, kas padarė šio straipsnio [[#^s-02ff9a2ecd5d3a446c7dedff|1]] ar [[#^s-1bb97c268ca14cab851451ee|2]] dalyje numatytą veiką, jeigu tai sukėlė realią grėsmę žmogaus gyvybei ar sveikatai, nacionaliniam saugumui užtikrinti svarbios įmonės veiklai arba sutrikdė saugų transporto eismą, arba padarė didelę turtinę žalą, ^s-0012203dbf13896c73e87028
 baudžiamas laisvės atėmimu nuo trejų iki aštuonerių metų.
 Papildyta straipsnio dalimi:
 Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483
@@ -8158,7 +8158,7 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu.
 5. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. ^s-57a451c809a67b691ee2843f
 
 
-6. Šio straipsnio 1, 2 ir [[#^s-e74debd64d2c0c9e5664e8a8|3 dalyse]] numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo. ^s-990af0e1cf25b227a215a989
+6. Šio straipsnio [[#^s-46287ba6f25867b24c152272|1]], [[#^s-e0a8fd68f2a2dd38cc3c843a|2]] ir [[#^s-e74debd64d2c0c9e5664e8a8|3]] dalyse numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo. ^s-990af0e1cf25b227a215a989
 
 
 Straipsnio pakeitimai:
@@ -8206,7 +8206,7 @@ Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686
 3. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. ^s-2186ed4747809f361983846f
 
 
-4. Šio straipsnio 1 ir [[#^s-30e39afaf8f4a3b8a63ea45e|2 dalyse]] numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo. ^s-faaf46dacbac22f5193ccfa7
+4. Šio straipsnio [[#^s-0de3ebffcd3f9c617a049388|1]] ir [[#^s-30e39afaf8f4a3b8a63ea45e|2]] dalyse numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo. ^s-faaf46dacbac22f5193ccfa7
 
 
 Straipsnio pakeitimai:
@@ -8394,7 +8394,7 @@ Nr. XIV-1925, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08475
 5. Šio kodekso [[#^s-d5a69c973f3790c4220592a1|2704 straipsnyje]] nurodytos inertinės atliekos yra atliekos, kuriose nevyksta pastebimi cheminiai, fizikiniai ar biologiniai pokyčiai, kurios netirpsta, nedega ar kitaip nereaguoja fizikiniu ar cheminiu požiūriu, nebiodegraduoja ir nesukelia kitoms medžiagoms, su kuriomis liečiasi, neigiamo poveikio, galinčio lemti aplinkos taršą ar pakenkti žmonių sveikatai. ^s-b0363c751c324bf1575d1bd0
 
 
-6. Laikoma, kad šio kodekso 270, 2704 ir [[#^s-410352c8a1232f85cd2b8d22|2711 straipsniuose]] nurodyta žala orui, žemei, dirvožemiui, vandeniui, gyvūnams, augalams, kitiems gyviesiems organizmams, organinėms ir neorganinėms medžiagoms ar antropogeniniams komponentams yra didelė, kai nustatoma, kad tam tikram aplinkos elementui padarytas reikšmingas neigiamas poveikis, kaip jis apibrėžiamas [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatyme]], arba bendra vienam ar keliems aplinkos elementams padarytos žalos, įvertintos pinigais, suma viršija 400 MGL. ^s-1c1c1bc58af539cadba6eeaa
+6. Laikoma, kad šio kodekso [[#^s-3efcb0398d55919c842c080a|270]], [[#^s-d5a69c973f3790c4220592a1|2704]] ir [[#^s-410352c8a1232f85cd2b8d22|2711]] straipsniuose nurodyta žala orui, žemei, dirvožemiui, vandeniui, gyvūnams, augalams, kitiems gyviesiems organizmams, organinėms ir neorganinėms medžiagoms ar antropogeniniams komponentams yra didelė, kai nustatoma, kad tam tikram aplinkos elementui padarytas reikšmingas neigiamas poveikis, kaip jis apibrėžiamas [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatyme]], arba bendra vienam ar keliems aplinkos elementams padarytos žalos, įvertintos pinigais, suma viršija 400 MGL. ^s-1c1c1bc58af539cadba6eeaa
 
 
 
@@ -8429,7 +8429,7 @@ Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 
 
-4. Asmuo atsako pagal šio straipsnio 1 ir [[#^s-fb91e87a0dafe2a37f31ee5c|2 dalis]] tik tais atvejais, kai jose numatytos veikos padarytos dėl neatsargumo. ^s-668de852e0ae400cc5a73ac8
+4. Asmuo atsako pagal šio straipsnio [[#^s-2a65c405520cbf84bebe1b4f|1]] ir [[#^s-fb91e87a0dafe2a37f31ee5c|2]] dalis tik tais atvejais, kai jose numatytos veikos padarytos dėl neatsargumo. ^s-668de852e0ae400cc5a73ac8
 
 
 5. [[#^s-d976b496990669f3911ad237|Šio straipsnio 3 dalyje]] numatyta veika yra nusikalstama ir tais atvejais, kai ji padaryta dėl neatsargumo. ^s-6e83aa6ecef196149f33d92b
@@ -8554,7 +8554,7 @@ baudžiamas laisvės atėmimu nuo aštuonerių iki dvidešimties metų arba lais
 5. Asmuo atsako pagal [[#^s-29cd8948c9eea77745d095b4|šio straipsnio 1 dalį]] tik tais atvejais, kai joje numatytos veikos padarytos dėl neatsargumo. ^s-5e0a8dbb56292010f178253c
 
 
-6. Už šio straipsnio 2, 3 ir [[#^s-16fba8cd8f85de234deecb13|4 dalyse]] numatytas veikas atsako ir juridinis asmuo. ^s-680f06601195e4e64e79b067
+6. Už šio straipsnio [[#^s-30d60450ffb33b86b0f500e9|2]], [[#^s-c51b7b32c3e7c06cc75c929c|3]] ir [[#^s-16fba8cd8f85de234deecb13|4]] dalyse numatytas veikas atsako ir juridinis asmuo. ^s-680f06601195e4e64e79b067
 
 
 Straipsnio pakeitimai:
@@ -8568,7 +8568,7 @@ Nr. XV-655, 2025-12-11, paskelbta TAR 2025-12-15, i. k. 2025-21483
 1. Šiame skyriuje nurodyta turtinė žala yra didelė, kai jos dydis viršija 400 MGL dydžio sumą, bet neviršija 900 MGL dydžio sumos, labai didelė, kai jos dydis viršija 900 MGL dydžio sumą. ^s-4d63cfe00c029c0bc733ded8
 
 
-2. Laikoma, kad šio skyriaus [[#^s-904481055354dab6dcd19629|281 straipsnio]] 2, 4 ar 6 dalyje numatytą veiką padaręs asmuo yra neblaivus, kai jam nustatytas 0,41 ir daugiau promilių neblaivumas arba kai jis vengė neblaivumo patikrinimo ar vartojo alkoholį po eismo įvykio iki jo aplinkybių nustatymo. ^s-165e80301927b19a19deda77
+2. Laikoma, kad šio skyriaus [[#^s-904481055354dab6dcd19629|281 straipsnio]] [[#^s-fb8ad6231a457efe3bd92f86|2]], [[#^s-6c3968e997f40ebf24ecc681|4]] ar [[#^s-146c88c4c71e55cd36549d43|6]] dalyje numatytą veiką padaręs asmuo yra neblaivus, kai jam nustatytas 0,41 ir daugiau promilių neblaivumas arba kai jis vengė neblaivumo patikrinimo ar vartojo alkoholį po eismo įvykio iki jo aplinkybių nustatymo. ^s-165e80301927b19a19deda77
 
 
 3. Šio skyriaus [[#^s-904481055354dab6dcd19629|281 straipsnyje]] nurodytos kelių transporto priemonės yra motorinės transporto priemonės, traktoriai, savaeigės mašinos ir kitos mechaninės transporto priemonės, taip pat autonominiai automobiliai. ^s-130b163ce2a1851a2bb271d8
@@ -8739,11 +8739,11 @@ baudžiamas bauda arba areštu, arba laisvės atėmimu iki šešerių metų.
 baudžiamas bauda arba laisvės atėmimu iki aštuonerių metų.
 
 
-3. Tas, kas padarė šio straipsnio 1 ar [[#^s-fe29f6ec2ba0df24ce0c8f36|2 dalyje]] numatytas veikas, jeigu tai sukėlė pavojų asmens gyvybei, ^s-a44f71206d8a6a4d5879da3d
+3. Tas, kas padarė šio straipsnio [[#^s-8957eda08df05e24e7fd5797|1]] ar [[#^s-fe29f6ec2ba0df24ce0c8f36|2]] dalyje numatytas veikas, jeigu tai sukėlė pavojų asmens gyvybei, ^s-a44f71206d8a6a4d5879da3d
 baudžiamas laisvės atėmimu nuo dvejų iki aštuonerių metų.
 
 
-4. Tas, kas organizavo šio straipsnio 1, 2 ar [[#^s-a44f71206d8a6a4d5879da3d|3 dalyje]] numatytas veikas, ^s-a94beb78bfe5c20d75f374a1
+4. Tas, kas organizavo šio straipsnio [[#^s-8957eda08df05e24e7fd5797|1]], [[#^s-fe29f6ec2ba0df24ce0c8f36|2]] ar [[#^s-a44f71206d8a6a4d5879da3d|3]] dalyje numatytas veikas, ^s-a94beb78bfe5c20d75f374a1
 baudžiamas laisvės atėmimu nuo ketverių iki dešimties metų.
 
 
@@ -9164,7 +9164,7 @@ baudžiamas laisvės atėmimu iki penkerių metų.
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 
 
-5. Už šio straipsnio 1, 2 ir [[#^s-e865d98c752b5a9a3524d48f|3 dalyse]] numatytas veikas atsako ir juridinis asmuo. ^s-60dbf99d61c099e85d3663cc
+5. Už šio straipsnio [[#^s-bb411564ca23f081534d2d94|1]], [[#^s-63d392a165c6a6ae834e383e|2]] ir [[#^s-e865d98c752b5a9a3524d48f|3]] dalyse numatytas veikas atsako ir juridinis asmuo. ^s-60dbf99d61c099e85d3663cc
 
 
 Straipsnio pakeitimai:
@@ -9240,7 +9240,7 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu.
 
 
-3. Už šio straipsnio 1 ir [[#^s-dafe5494dd9d6cee7f7e7357|2 dalyse]] numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas ar prokuroro reikalavimas. ^s-7e19bcad438cf7da8f874dc9
+3. Už šio straipsnio [[#^s-3aef3e7c2af6f530f6bd1427|1]] ir [[#^s-dafe5494dd9d6cee7f7e7357|2]] dalyse numatytas veikas asmuo atsako tik tuo atveju, kai yra nukentėjusio asmens skundas ar jo teisėto atstovo pareiškimas ar prokuroro reikalavimas. ^s-7e19bcad438cf7da8f874dc9
 
 
 
@@ -9360,7 +9360,7 @@ baudžiamas areštu arba laisvės atėmimu iki dvejų metų.
 baudžiamas laisvės atėmimu iki trejų metų.
 
 
-3. Karys, padaręs šio straipsnio 1 ir [[#^s-3416732dca6e42609695e75e|2 dalyse]] numatytą veiką karo padėties metu ar atlikdamas kovos užduotį, arba jeigu dėl tos veikos atsirado sunkių padarinių, ^s-1bfa4d194793a9ef64418238
+3. Karys, padaręs šio straipsnio [[#^s-42648c8ada24d83d38c67013|1]] ir [[#^s-3416732dca6e42609695e75e|2]] dalyse numatytą veiką karo padėties metu ar atlikdamas kovos užduotį, arba jeigu dėl tos veikos atsirado sunkių padarinių, ^s-1bfa4d194793a9ef64418238
 baudžiamas laisvės atėmimu nuo trejų iki aštuonerių metų.
 
 
@@ -9388,7 +9388,7 @@ baudžiamas areštu arba laisvės atėmimu iki dvejų metų.
 baudžiamas laisvės atėmimu iki penkerių metų.
 
 
-3. Karys, padaręs šio straipsnio 1 ir [[#^s-0da328442e23803b894edb64|2 dalyse]] nurodytą veiką, jeigu dėl to atsirado sunkių padarinių, ^s-ffa5e2c80ec9a6b006f906e8
+3. Karys, padaręs šio straipsnio [[#^s-975f9093f38ff090ed562281|1]] ir [[#^s-0da328442e23803b894edb64|2]] dalyse nurodytą veiką, jeigu dėl to atsirado sunkių padarinių, ^s-ffa5e2c80ec9a6b006f906e8
 baudžiamas laisvės atėmimu nuo ketverių iki aštuonerių metų.
 
 
@@ -9553,7 +9553,7 @@ Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
 10. 2002 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2002/946/TVR dėl bausmių sistemos stiprinimo siekiant užkirsti kelią padėjimui neteisėtai atvykti, vykti tranzitu ir apsigyventi (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 61). ^s-befd30bebc95ee1a2658b5ca
 
 
-11. 2003 m. liepos 22 d. Tarybos pagrindų sprendimas 2003/568/TVR dėl kovos su korupcija privačiame sektoriuje (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 182). ^s-19d2f03d1dfda3ec7555883a
+11. 2003 m. liepos 22 d. Tarybos pagrindų sprendimas 2003/568/TVR [dėl kovos su korupcija](https://e-tar.lt/portal/lt/legalAct/TAR.3CB207106C6D) privačiame sektoriuje (OL 2004 m. specialusis leidimas, 19 skyrius, 6 tomas, p. 182). ^s-19d2f03d1dfda3ec7555883a
 
 
 12. 2003 m. gruodžio 22 d. Tarybos pagrindų sprendimas 2004/68/TVR dėl kovos su seksualiniu vaikų išnaudojimu ir vaikų pornografija (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 10). ^s-db2e4edc0097d7a0e046cdda
@@ -9695,13 +9695,13 @@ Nr. XII-2780, 2016-11-10, paskelbta TAR 2016-11-16, i. k. 2016-26876
 
 
 
-34. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/800 dėl procesinių garantijų vaikams, kurie baudžiamajame procese yra įtariamieji ar kaltinamieji. ^s-cd12f1c8e6426466b29a715d
+34. 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos [direktyva (ES) 2016/800](https://eur-lex.europa.eu/eli/dir/2016/800/oj) dėl procesinių garantijų vaikams, kurie baudžiamajame procese yra įtariamieji ar kaltinamieji. ^s-cd12f1c8e6426466b29a715d
 Papildyta straipsnio dalimi:
 Nr. XIV-2500, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05374
 
 
 
-35. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/541 dėl kovos su terorizmu, pakeičianti Tarybos pamatinį sprendimą 2002/475/TVR ir iš dalies keičianti Tarybos sprendimą 2005/671/TVR (OL 2017 L 88, p. 6). ^s-559642d62ace4ca76620a93d
+35. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos [direktyva (ES) 2017/541](https://eur-lex.europa.eu/eli/dir/2017/541/oj) dėl kovos su terorizmu, pakeičianti Tarybos pamatinį sprendimą 2002/475/TVR ir iš dalies keičianti Tarybos sprendimą 2005/671/TVR (OL 2017 L 88, p. 6). ^s-559642d62ace4ca76620a93d
 Papildyta punktu:
 Nr. XIII-1682, 2018-12-04, paskelbta TAR 2018-12-11, i. k. 2018-20234
 Punkto numeracijos pakeitimas:
@@ -9709,7 +9709,7 @@ Nr. XIV-2500, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05374
 
 
 
-36. 2017 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1371 dėl kovos su Sąjungos finansiniams interesams kenkiančiu sukčiavimu baudžiamosios teisės priemonėmis (OL 2017 L 198, p. 29). ^s-faaeb8b34c5c62cba2b47e07
+36. 2017 m. liepos 5 d. Europos Parlamento ir Tarybos [direktyva (ES) 2017/1371](https://eur-lex.europa.eu/eli/dir/2017/1371/oj) dėl kovos su Sąjungos finansiniams interesams kenkiančiu sukčiavimu baudžiamosios teisės priemonėmis (OL 2017 L 198, p. 29). ^s-faaeb8b34c5c62cba2b47e07
 Papildyta punktu:
 Nr. XIII-2334, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12378
 Punkto numeracijos pakeitimas:
@@ -9717,7 +9717,7 @@ Nr. XIV-2500, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05374
 
 
 
-37. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1673 dėl kovos su pinigų plovimu baudžiamosios teisės priemonėmis (OL 2018 L 284, p. 22). ^s-7bbd3a96d65fb0fcdd34f62b
+37. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos [direktyva (ES) 2018/1673](https://eur-lex.europa.eu/eli/dir/2018/1673/oj) dėl kovos su pinigų plovimu baudžiamosios teisės priemonėmis (OL 2018 L 284, p. 22). ^s-7bbd3a96d65fb0fcdd34f62b
 Papildyta punktu:
 Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
 Punkto numeracijos pakeitimas:
@@ -9725,7 +9725,7 @@ Nr. XIV-2500, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05374
 
 
 
-38. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/713 dėl kovos su sukčiavimu negrynosiomis mokėjimo priemonėmis ir jų klastojimu, kuria pakeičiamas Tarybos pamatinis sprendimas 2001/413/TVR (OL 2019 L 123, p. 18). ^s-226bee741615af3040c4e77a
+38. 2019 m. balandžio 17 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/713](https://eur-lex.europa.eu/eli/dir/2019/713/oj) dėl kovos su sukčiavimu negrynosiomis mokėjimo priemonėmis ir jų klastojimu, kuria pakeičiamas Tarybos pamatinis sprendimas 2001/413/TVR (OL 2019 L 123, p. 18). ^s-226bee741615af3040c4e77a
 Papildyta punktu:
 Nr. XIII-3350, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24234
 Punkto numeracijos pakeitimas:
@@ -9733,19 +9733,19 @@ Nr. XIV-2500, 2024-03-21, paskelbta TAR 2024-03-26, i. k. 2024-05374
 
 
 
-39. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2557 dėl ypatingos svarbos subjektų atsparumo, kuria panaikinama Tarybos direktyva 2008/114/EB. ^s-451240aeb52206ef0bc0fa1b
+39. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2022/2557](https://eur-lex.europa.eu/eli/dir/2022/2557/oj) dėl ypatingos svarbos subjektų atsparumo, kuria panaikinama Tarybos direktyva 2008/114/EB. ^s-451240aeb52206ef0bc0fa1b
 Papildyta straipsnio dalimi:
 Nr. XIV-3050, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19821
 
 
 
-39. 2023 m. spalio 4 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2123, kuria iš dalies keičiamas Tarybos sprendimas 2005/671/TVR dėl jo suderinimo su Sąjungos asmens duomenų apsaugos taisyklėmis. ^s-7703fce39f24d3d9518d3d52
+39. 2023 m. spalio 4 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/2123](https://eur-lex.europa.eu/eli/dir/2023/2123/oj), kuria iš dalies keičiamas Tarybos sprendimas 2005/671/TVR dėl jo suderinimo su Sąjungos asmens duomenų apsaugos taisyklėmis. ^s-7703fce39f24d3d9518d3d52
 Papildyta straipsnio dalimi:
 Nr. XIV-3060, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19686
 
 
 
-40. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1226 dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama Direktyva (ES) 2018/1673. ^s-f31e43fd0fa8482d5bf5ba89
+40. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1226](https://eur-lex.europa.eu/eli/dir/2024/1226/oj) dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama [Direktyva (ES) 2018/1673](https://eur-lex.europa.eu/eli/dir/2018/1673/oj). ^s-f31e43fd0fa8482d5bf5ba89
 Papildyta straipsnio dalimi:
 Nr. XV-204, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08906
 
@@ -9778,7 +9778,7 @@ Nr. IX-1168, 2002-10-31, Žin., 2002, Nr. 112-4973 (2002-11-22)
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1495, 2003-04-10, Žin., 2003, Nr. 38-1733 (2003-04-24)
-BAUDŽIAMOJO KODEKSO, PATVIRTINTO 2000 M. RUGSĖJO 26 D. ĮSTATYMU NR. VIII-1968, 4, 7, 9, 23, 25, 37, 39, 44, 46, 47, 48, 51, 61, 62, 65, 67, 74, 75, 90, 92, 95, 97, 102, 105, 118, 119, 143, 175, 178, 186, 187, 188, 189, 199, 202, 212, 213, 215, 227, 249, 250, 251, 257, 260, 263, 272, 281, [[#^s-b89d8e9639aca035eed1c06e|291 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 39(1) IR 306(1) STRAIPSNIAIS ĮSTATYMAS
+BAUDŽIAMOJO KODEKSO, PATVIRTINTO 2000 M. RUGSĖJO 26 D. ĮSTATYMU NR. VIII-1968, [[#^s-0cc41f28889636f482012f9e|4]], [[#^s-b360ac2c1d8a89e803b13f48|7]], [[#^s-707f9d30de86352e95ed0a87|9]], [[#^s-e2bd0e700782c9afcb23e6e5|23]], [[#^s-f1d5ebdb1efbac62e79accdc|25]], [[#^s-4b6779c64039753dbc3de058|37]], [[#^s-6e8c2b94d9151bc129e3c8f3|39]], [[#^s-55333811684419c96d0557bd|44]], [[#^s-0a22e8be2f20d52dc9d23edf|46]], [[#^s-f3442e25b93d72ffe39bb0f2|47]], [[#^s-e04a1ac850d938c5bb76c05d|48]], 51, [[#^s-47ee4bab6d8b8051f652e779|61]], [[#^s-773f6ac9ccd2e978dd5355a4|62]], [[#^s-328b087fac6b08b9ba11e2d2|65]], [[#^s-6a84d9db6de2fa7a18e90e43|67]], [[#^s-5c546799abb09e38f374cecf|74]], [[#^s-112ee1b9781b6ca1ebe3b0b2|75]], [[#^s-7d35b4069816c1f6a3c75c1c|90]], [[#^s-9170f60c2f2906092892ce7f|92]], [[#^s-cb04ff7f6cb25f9403236324|95]], [[#^s-b60537f20028a8880a25cb68|97]], [[#^s-8f52cd1b5709d2ff836b5cf7|102]], [[#^s-91f1f0e231f3f8adc5b9f85c|105]], [[#^s-ca7852220a731c062c9854b2|118]], [[#^s-e3b9c7df3daca8d37a98c519|119]], [[#^s-aed7dc64f83c7c00061c523b|143]], [[#^s-02c7e8c00db18039c0af12df|175]], [[#^s-451fe2e04f2c7f27b3ad42c6|178]], [[#^s-d63dc6d85ae89f22af588fe0|186]], [[#^s-60dca80d2101c51aab6546ae|187]], [[#^s-453a5ad29fc697281f82a9e2|188]], [[#^s-fee8e0b794255f3174600055|189]], [[#^s-7e9adacc792be1ddc867e2f9|199]], [[#^s-8896b9597bb9ae93ddb0533b|202]], [[#^s-0e03cff04eefa270724bd0b8|212]], [[#^s-f05702ac28984d5dde9cb567|213]], [[#^s-06b53be011d26e051b34c617|215]], [[#^s-d98e9d5834228bfbc3ba4d43|227]], [[#^s-0351fb0b78abe2c991c88b44|249]], [[#^s-6d9935f28c3047645e48bbbf|250]], [[#^s-d345fe82fd81846b5d4b61b3|251]], [[#^s-a818c5d83a5e182e0264b247|257]], [[#^s-d265dd50668a116affb8630b|260]], [[#^s-f2b502ded34a172e560a20a2|263]], [[#^s-288c474430d6c5650a6248fc|272]], [[#^s-904481055354dab6dcd19629|281]], [[#^s-b89d8e9639aca035eed1c06e|291]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 39(1) IR 306(1) STRAIPSNIAIS ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2003 m. gegužės 1 d.
 Šio Įstatymo atitaisymas skelbtas: Žin., 2003, Nr. 39 (2003-04-25)
 
@@ -9807,8 +9807,8 @@ Nr. IX-2169, 2004-04-27, Žin., 2004, Nr. 72-2492 (2004-04-30)
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2314, 2004-07-05, Žin., 2004, Nr. 108-4030 (2004-07-13)
-BAUDŽIAMOJO KODEKSO 20, 42, 63, 67, 68, 72, 75, 77, 82, 90, 91, 92, 95, 97, 128, 144, 148, 150, 178, 182, 194, 195, 201, 204, 205, 210, 211, 212, 220, 221, 222, 223, 230, 236, 246, 248, 260, 263, 287, [[#^s-c8fea65e6ff65818207ad7fc|306 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 228(1) STRAIPSNIU ĮSTATYMAS
-Asmenims, kuriems baudos ar arešto bausmės vykdymas atidėtas pagal Lietuvos Respublikos baudžiamojo kodekso 75 ar [[#^s-9170f60c2f2906092892ce7f|92 straipsnius]], nustatyti įpareigojimai vykdomi ir po šio įstatymo įsigaliojimo iki bausmės vykdymo atidėjimo termino pabaigos. Galutinį sprendimą pasibaigus bausmės vykdymo atidėjimo terminui teismas priima vadovaudamasis Lietuvos Respublikos baudžiamojo kodekso 3, 75 ir [[#^s-9170f60c2f2906092892ce7f|92 straipsniais]].
+BAUDŽIAMOJO KODEKSO [[#^s-6a5a3f3d36e26ac433301997|20]], [[#^s-aa64fd75ebc2e045c0da8b68|42]], [[#^s-533f538ba5ec6407972af5a4|63]], [[#^s-6a84d9db6de2fa7a18e90e43|67]], [[#^s-84873e3ae9d35fb780358ae4|68]], [[#^s-75da4cf5f16971f89f84f1b7|72]], [[#^s-112ee1b9781b6ca1ebe3b0b2|75]], [[#^s-78bd19e16ed0fd5f2b5175a7|77]], [[#^s-bf571b307f66a842f29cd22b|82]], [[#^s-7d35b4069816c1f6a3c75c1c|90]], [[#^s-79f7a648e16b8b276b10cad5|91]], [[#^s-9170f60c2f2906092892ce7f|92]], [[#^s-cb04ff7f6cb25f9403236324|95]], [[#^s-b60537f20028a8880a25cb68|97]], [[#^s-97f8186395caca42f484bcce|128]], [[#^s-5fe58d3d6c6bd3bbc7a3daa3|144]], [[#^s-ec6a59ffc0107d437cb841d4|148]], [[#^s-ed3e7840cfb29c37138462b3|150]], [[#^s-451fe2e04f2c7f27b3ad42c6|178]], [[#^s-0bb490b052695a8fcdb3f825|182]], [[#^s-b53ad400d790b55af5d66c75|194]], [[#^s-07f35f6faf6af010a03f1637|195]], [[#^s-82aa927523a6a15bc27daac9|201]], [[#^s-6b12eb24a698359e440b0425|204]], [[#^s-97e2f5b3949d946d3729c42b|205]], [[#^s-db1334034c1fd2a3f29fb67b|210]], [[#^s-db54de7dfcf7c5fef3714b5d|211]], [[#^s-0e03cff04eefa270724bd0b8|212]], [[#^s-5c0905b8e61d7519bd89a5fc|220]], [[#^s-64972f27b86c95838d2a549d|221]], [[#^s-4db58fec071a76ed41708106|222]], [[#^s-d074720b567c183c10d79504|223]], [[#^s-48deb67a4ab7d493bc477153|230]], [[#^s-cd6b4c19b964b30efffad7f6|236]], [[#^s-0e5bb3cd5cfa017dd53884ec|246]], [[#^s-c36c79f17698932d42ce9177|248]], [[#^s-d265dd50668a116affb8630b|260]], [[#^s-f2b502ded34a172e560a20a2|263]], [[#^s-ebfcf969aaceffa19801333a|287]], [[#^s-c8fea65e6ff65818207ad7fc|306]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI KODEKSO PAPILDYMO 228(1) STRAIPSNIU ĮSTATYMAS
+Asmenims, kuriems baudos ar arešto bausmės vykdymas atidėtas pagal Lietuvos Respublikos baudžiamojo kodekso [[#^s-112ee1b9781b6ca1ebe3b0b2|75]] ar [[#^s-9170f60c2f2906092892ce7f|92]] straipsnius, nustatyti įpareigojimai vykdomi ir po šio įstatymo įsigaliojimo iki bausmės vykdymo atidėjimo termino pabaigos. Galutinį sprendimą pasibaigus bausmės vykdymo atidėjimo terminui teismas priima vadovaudamasis Lietuvos Respublikos baudžiamojo kodekso 3, [[#^s-112ee1b9781b6ca1ebe3b0b2|75]] ir [[#^s-9170f60c2f2906092892ce7f|92]] straipsniais.
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -9834,7 +9834,7 @@ Nr. X-272, 2005-06-23, Žin., 2005, Nr. 81-2945 (2005-06-30)
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-511, 2006-01-20, Žin., 2006, Nr. 17-605 (2006-02-11)
-BAUDŽIAMOJO KODEKSO 300, [[#^s-1ccec8ff280ef6eb974d29a0|302 STRAIPSNIŲ]] PAKEITIMO IR KODEKSO PAPILDYMO 302(1) STRAIPSNIU ĮSTATYMAS
+BAUDŽIAMOJO KODEKSO [[#^s-7cdb3d505ee6ed7bfe2a56df|300]], [[#^s-1ccec8ff280ef6eb974d29a0|302]] STRAIPSNIŲ PAKEITIMO IR KODEKSO PAPILDYMO 302(1) STRAIPSNIU ĮSTATYMAS
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -9874,7 +9874,7 @@ Nr. XI-303, 2009-06-16, Žin., 2009, Nr. 77-3168 (2009-06-30)
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-330, 2009-07-09, Žin., 2009, Nr. 87-3663 (2009-07-23)
-BAUDŽIAMOJO KODEKSO 170, 191, [[#^s-805f10f787cf09696eb598f7|192 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 170(1) STRAIPSNIU ĮSTATYMAS
+BAUDŽIAMOJO KODEKSO [[#^s-37b2397d501887bdfad5f0c6|170]], [[#^s-8f892c1fc9ef9001b16911b2|191]], [[#^s-805f10f787cf09696eb598f7|192]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 170(1) STRAIPSNIU ĮSTATYMAS
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -9884,7 +9884,7 @@ BAUDŽIAMOJO KODEKSO 235 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-579, 2009-12-17, Žin., 2010, Nr. 1-1 (2010-01-05)
-BAUDŽIAMOJO KODEKSO 272, [[#^s-e76d2477a5d1b0b85baf8b42|274 STRAIPSNIŲ]] IR PRIEDO PAKEITIMO IR PAPILDYMO, KODEKSO PAPILDYMO 277(1) STRAIPSNIU ĮSTATYMAS
+BAUDŽIAMOJO KODEKSO [[#^s-288c474430d6c5650a6248fc|272]], [[#^s-e76d2477a5d1b0b85baf8b42|274]] STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO, KODEKSO PAPILDYMO 277(1) STRAIPSNIU ĮSTATYMAS
 Šio įstatymo atitaisymas skelbtas: Žin., 2010, Nr. 2 (2010-01-07)
 
 24.
@@ -9926,14 +9926,14 @@ BAUDŽIAMOJO KODEKSO 151(1), [[#^s-c36550530ece1d337176f82b|153 STRAIPSNIŲ]] PA
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1199, 2010-12-02, Žin., 2010, Nr. 145-7439 (2010-12-11)
-BAUDŽIAMOJO KODEKSO 3, 67, 72, [[#^s-3f1685783cace2ce0379897b|190 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 72(3), 189(1) STRAIPSNIAIS ĮSTATYMAS
+BAUDŽIAMOJO KODEKSO 3, [[#^s-6a84d9db6de2fa7a18e90e43|67]], [[#^s-75da4cf5f16971f89f84f1b7|72]], [[#^s-3f1685783cace2ce0379897b|190]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 72(3), 189(1) STRAIPSNIAIS ĮSTATYMAS
 Šio įstatymo [[#^s-0cc41f28889636f482012f9e|4 straipsnyje]] išdėstytame Baudžiamojo kodekso [[#^s-759b09567283611e0c5649aa|723 straipsnyje]] numatytas išplėstinis turto konfiskavimas taikomas tik turtui, kurį baudžiamajame įstatyme uždraustą veiką padaręs asmuo įgijo po šio įstatymo įsigaliojimo.
 Pagal šio įstatymo [[#^s-5cd902260f77dbbb4592f8ee|5 straipsnyje]] išdėstytą Baudžiamojo kodekso [[#^s-cbee3470d2e0c62c9f0b1e68|1891 straipsnį]] baudžiamojon atsakomybėn traukiami tik asmenys, kurie Baudžiamojo kodekso [[#^s-cbee3470d2e0c62c9f0b1e68|1891 straipsnyje]] nustatytus požymius atitinkantį turtą turi po šio įstatymo įsigaliojimo.
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1291, 2011-03-22, Žin., 2011, Nr. 38-1805 (2011-03-31)
-BAUDŽIAMOJO KODEKSO 3, 7, 95, 100, 101, 102, 103, 105, 106, 109, [[#^s-eb1980903e2be44841b7d5fc|111 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, [[#^s-b7f4d3514c837bd6599a8b74|104 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS IR KODEKSO PAPILDYMO 113(1) STRAIPSNIU ĮSTATYMAS
+BAUDŽIAMOJO KODEKSO 3, [[#^s-b360ac2c1d8a89e803b13f48|7]], [[#^s-cb04ff7f6cb25f9403236324|95]], [[#^s-e9a3464d402a63bbc86add4c|100]], [[#^s-abc4a74b5ab9130aebe2f1d3|101]], [[#^s-8f52cd1b5709d2ff836b5cf7|102]], [[#^s-710d8af3ca50bc0329397ca6|103]], [[#^s-91f1f0e231f3f8adc5b9f85c|105]], [[#^s-91317176691a79809edd9df1|106]], [[#^s-a27a35c42744418a2d25444c|109]], [[#^s-eb1980903e2be44841b7d5fc|111]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, [[#^s-b7f4d3514c837bd6599a8b74|104 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS IR KODEKSO PAPILDYMO 113(1) STRAIPSNIU ĮSTATYMAS
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -9943,7 +9943,7 @@ Nr. XI-1350, 2011-04-21, Žin., 2011, Nr. 49-2374 (2011-04-28)
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1472, 2011-06-21, Žin., 2011, Nr. 81-3959 (2011-07-05)
-BAUDŽIAMOJO KODEKSO 7, 42, 67, 68, 74, 123(1), 125, 126, 134, 142, 144, 176, 177, 204, 205, 210, 211, 213, 220, 223, 225, 226, 227, 228, 228(1), 229, 230, 253(1), 255, 257, 263, 268, 278, 281, 297, 308(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, KODEKSO PAPILDYMO 68(1), 68(2) STRAIPSNIAIS IR 44, [[#^s-825ce3ccc2bf86e99c535e25|45 STRAIPSNIŲ]] PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+BAUDŽIAMOJO KODEKSO 7, 42, 67, 68, 74, 123(1), 125, 126, 134, 142, 144, 176, 177, 204, 205, 210, 211, 213, 220, 223, 225, 226, 227, 228, 228(1), 229, 230, 253(1), 255, 257, 263, 268, 278, 281, 297, 308(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, KODEKSO PAPILDYMO 68(1), 68(2) STRAIPSNIAIS IR [[#^s-55333811684419c96d0557bd|44]], [[#^s-825ce3ccc2bf86e99c535e25|45]] STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -9977,7 +9977,7 @@ Nr. XI-2105, 2012-06-21, Žin., 2012, Nr. 78-4027 (2012-07-04)
 40.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2198, 2012-06-30, Žin., 2012, Nr. 82-4276 (2012-07-13)
-BAUDŽIAMOJO KODEKSO 147, 147(1), 157, [[#^s-94a536a167939493e01f9e33|303 STRAIPSNIŲ]] IR PRIEDO PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 147(2) STRAIPSNIU ĮSTATYMAS
+BAUDŽIAMOJO KODEKSO 147, 147(1), [[#^s-840f50e1ce6721a34f9a72ba|157]], [[#^s-94a536a167939493e01f9e33|303]] STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO IR KODEKSO PAPILDYMO 147(2) STRAIPSNIU ĮSTATYMAS
 
 41.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -10038,7 +10038,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT11-N4/2014, 2014-03-18, paskelbta TAR 2014-03-19, i. k. 2014-03226
-DĖL LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO KAI KURIŲ NUOSTATŲ, SUSIJUSIŲ SU BAUDŽIAMĄJA ATSAKOMYBE UŽ GENOCIDĄ, ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS BAUDŽIAMOJO KODEKSO KAI KURIŲ NUOSTATŲ, SUSIJUSIŲ SU BAUDŽIAMĄJA ATSAKOMYBE UŽ GENOCIDĄ, ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/303e7e50af6011e39b958c81fb177d0b)
 
 
 
@@ -10118,7 +10118,7 @@ Nr. XII-2170, 2015-12-15, paskelbta TAR 2015-12-21, i. k. 2015-20140
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2277, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06428
-Lietuvos Respublikos baudžiamojo kodekso 47, 176, 220, 221, 272, 273, 281, [[#^s-bd81c23af0b53a2823eabc0c|284 straipsnių]] pakeitimo [[latest/dcab42a026dc11e5bf92d6af3f6a2e8b|įstatymo Nr. XII-1871]] [[#^s-707f9d30de86352e95ed0a87|9 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos baudžiamojo kodekso [[#^s-f3442e25b93d72ffe39bb0f2|47]], [[#^s-6ec27bafaddbff42aa3df854|176]], [[#^s-5c0905b8e61d7519bd89a5fc|220]], [[#^s-64972f27b86c95838d2a549d|221]], [[#^s-288c474430d6c5650a6248fc|272]], [[#^s-0a9c490987b786138cd8ca02|273]], [[#^s-904481055354dab6dcd19629|281]], [[#^s-bd81c23af0b53a2823eabc0c|284]] straipsnių pakeitimo [[latest/dcab42a026dc11e5bf92d6af3f6a2e8b|įstatymo Nr. XII-1871]] [[#^s-707f9d30de86352e95ed0a87|9 straipsnio]] pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -10373,7 +10373,7 @@ Nr. XIV-2853, 2024-06-27, paskelbta TAR 2024-07-05, i. k. 2024-12639
 66.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3033, 2024-10-15, paskelbta TAR 2024-10-23, i. k. 2024-18357
-Lietuvos Respublikos baudžiamojo kodekso 5, 7, 8, 18, 25, 27, 37, 38, 39, 40, 42, 43, 47, 48, 51, 52, 54, 59, 61, 62, 63, 64, 65, 66, 67, 69, 70, 72-2, 74, 75, 76, 82, 84, 85, 87, 89, 90, 92, 93, 97, 243, [[#^s-9be64440e27bdcb3aa94bdef|244 straipsnių]] pakeitimo ir Kodekso papildymo 5-1, 40-1, 58-1, 72-5, 72-6, 72-7, 72-8 straipsniais [[latest/5e517ba0087c11efbcbfb318996800a8|įstatymo Nr. XIV-2573]] [[#^s-69d021508a2d6eb2df1b5eda|50 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos baudžiamojo kodekso [[#^s-5cd902260f77dbbb4592f8ee|5]], [[#^s-b360ac2c1d8a89e803b13f48|7]], [[#^s-0d7c5bc08d76baf29eba828c|8]], [[#^s-66695e3f5f1e092b7e372279|18]], [[#^s-f1d5ebdb1efbac62e79accdc|25]], [[#^s-f0d45c7eeff3625651ec63ac|27]], [[#^s-4b6779c64039753dbc3de058|37]], [[#^s-6e7d49ef51081bb3085a9e5e|38]], [[#^s-6e8c2b94d9151bc129e3c8f3|39]], [[#^s-46dc78e5f413aa3178718620|40]], [[#^s-aa64fd75ebc2e045c0da8b68|42]], [[#^s-69d12938470ef697913171fc|43]], [[#^s-f3442e25b93d72ffe39bb0f2|47]], [[#^s-e04a1ac850d938c5bb76c05d|48]], 51, [[#^s-bff0c094cdd94958adcdb3cd|52]], [[#^s-5788727e23ee1e196d87d88f|54]], [[#^s-41dffac8860a713033ea0a53|59]], [[#^s-47ee4bab6d8b8051f652e779|61]], [[#^s-773f6ac9ccd2e978dd5355a4|62]], [[#^s-533f538ba5ec6407972af5a4|63]], [[#^s-19849242687ae5021f8c7207|64]], [[#^s-328b087fac6b08b9ba11e2d2|65]], [[#^s-d6495516a5db5b539040403b|66]], [[#^s-6a84d9db6de2fa7a18e90e43|67]], [[#^s-7d7c6613b6c492dd1c5634e6|69]], [[#^s-bfc0ff26233399eff20174a9|70]], 72-2, [[#^s-5c546799abb09e38f374cecf|74]], [[#^s-112ee1b9781b6ca1ebe3b0b2|75]], [[#^s-1cdb549b1c48c9163e3ac63e|76]], [[#^s-bf571b307f66a842f29cd22b|82]], [[#^s-d05006c7ff60721d0aedfcd0|84]], [[#^s-06b84f7fd3d00a11433fa450|85]], [[#^s-0d3dc2fb4d128faa766cb602|87]], [[#^s-aa4d88426fbdbbe087d52660|89]], [[#^s-7d35b4069816c1f6a3c75c1c|90]], [[#^s-9170f60c2f2906092892ce7f|92]], [[#^s-4d1dc1c2caafa6f74db98979|93]], [[#^s-b60537f20028a8880a25cb68|97]], [[#^s-d872dca9ce27aa3cf4355484|243]], [[#^s-9be64440e27bdcb3aa94bdef|244]] straipsnių pakeitimo ir Kodekso papildymo 5-1, 40-1, 58-1, 72-5, 72-6, 72-7, 72-8 straipsniais [[latest/5e517ba0087c11efbcbfb318996800a8|įstatymo Nr. XIV-2573]] [[#^s-69d021508a2d6eb2df1b5eda|50 straipsnio]] pakeitimo įstatymas
 
 67.
 Lietuvos Respublikos Seimas, Įstatymas

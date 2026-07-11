@@ -44,7 +44,7 @@ Vilnius
 1. Pakeisti 48 straipsnio 1 dalį ir ją išdėstyti taip: ^s-eb44a9c154e4fff53f6aef1b
 
 
-„1. Ginčai dėl nušalinimo nuo pareigų, perkėlimo į kitas pareigas, dėl karių laipsnių, drausminių nuobaudų, kario tarnybos sutarties pratęsimo ir kiti karo tarnybos ginčai, išskyrus [[#^s-cf333d522dcebc4f23d57bab|šio straipsnio 2 dalyje]] nurodytus ginčus, nagrinėjami Kariuomenės drausmės statuto nustatyta privaloma išankstine karo tarnybos ginčų nagrinėjimo ne teisme tvarka. Galutinis sprendimas, priimtas nagrinėjant ginčą Kariuomenės drausmės statuto nustatyta išankstine karo tarnybos ginčų nagrinėjimo ne teisme tvarka, gali būti skundžiamas apygardos administraciniam teismui įstatymų nustatyta tvarka per 20 dienų nuo sprendimo gavimo ar pranešimo apie jį dienos.“
+„1. Ginčai [dėl nušalinimo nuo pareigų](https://e-tar.lt/portal/lt/legalAct/61ab2c2069ad11edbc04912defe897d1), perkėlimo į kitas pareigas, dėl karių laipsnių, drausminių nuobaudų, kario tarnybos sutarties pratęsimo ir kiti karo tarnybos ginčai, išskyrus [[#^s-cf333d522dcebc4f23d57bab|šio straipsnio 2 dalyje]] nurodytus ginčus, nagrinėjami Kariuomenės drausmės statuto nustatyta privaloma išankstine karo tarnybos ginčų nagrinėjimo ne teisme tvarka. Galutinis sprendimas, priimtas nagrinėjant ginčą Kariuomenės drausmės statuto nustatyta išankstine karo tarnybos ginčų nagrinėjimo ne teisme tvarka, gali būti skundžiamas apygardos administraciniam teismui įstatymų nustatyta tvarka per 20 dienų nuo sprendimo gavimo ar pranešimo apie jį dienos.“
 
 
 2. Pakeisti 48 straipsnio 2 dalį ir ją išdėstyti taip: ^s-cf333d522dcebc4f23d57bab

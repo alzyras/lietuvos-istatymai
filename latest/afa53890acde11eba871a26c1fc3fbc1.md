@@ -40,16 +40,16 @@ Vilnius
 ### 1 straipsnis. 5 straipsnio pakeitimas ^s-59f9f0255fedac2a6060e299
 
 
-1. Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip: ^s-bbede022b67a65ff67d5e3eb
+1. Pakeisti [[latest/TAR.9D1ADB9E1518#^s-d6c8d81cf4c64ec86a347764|5 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-bbede022b67a65ff67d5e3eb
 
 
 „1. Pakuotės, kad jas būtų galima identifikuoti ir klasifikuoti, gali būti ženklinamos, nurodant pakuotėms pagaminti naudotų medžiagų rūšis  ir tinkamiausią pakuočių atliekų tvarkymo būdą. Pakuočių ženklinimo tvarką nustato Vyriausybė arba jos įgaliota institucija.“
 
 
-2. Pakeisti 5 straipsnio 2 dalį ir ją išdėstyti taip: ^s-f57abd59a63656def51806f8
+2. Pakeisti [[latest/TAR.9D1ADB9E1518#^s-219814c534de91bb0842c0e9|5 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-f57abd59a63656def51806f8
 
 
-„2. Gamintojai ir importuotojai (arba jiems atstovaujančios organizacijos), patys ar kolektyviai organizuojantys pakuočių, įskaitant pakuotes, kurioms taikomas užstatas pagal šio įstatymo 11 straipsnio 1 ar [[#^s-f57abd59a63656def51806f8|2 dalį]], atliekų tvarkymą, be šio straipsnio 1, 3 ir 4 dalyse nurodyto ženklinimo, papildomai gali savo gaminių pakuotes žymėti kitais jų pačių pasirinktais ženklais, nurodančiais dalyvavimą atitinkamoje organizacijoje ar pakuočių atliekų tvarkymo sistemoje.“
+„2. Gamintojai ir importuotojai (arba jiems atstovaujančios organizacijos), patys ar kolektyviai organizuojantys pakuočių, įskaitant pakuotes, kurioms taikomas užstatas pagal šio įstatymo [[latest/TAR.9D1ADB9E1518#^s-a89868092f972193ed64e36c|11 straipsnio]] [[latest/TAR.9D1ADB9E1518#^s-b2814b6d9f70d5a8d5f09623|1]] ar [[latest/TAR.9D1ADB9E1518#^s-1daca156e8a9d856e1931384|2]] dalį, atliekų tvarkymą, be šio straipsnio [[latest/TAR.9D1ADB9E1518#^s-b2814b6d9f70d5a8d5f09623|1]], [[latest/TAR.9D1ADB9E1518#^s-c36762138501c4aaae3006ef|3]] ir [[latest/TAR.9D1ADB9E1518#^s-2f99792ab663d521b99b1184|4]] dalyse nurodyto ženklinimo, papildomai gali savo gaminių pakuotes žymėti kitais jų pačių pasirinktais ženklais, nurodančiais dalyvavimą atitinkamoje organizacijoje ar pakuočių atliekų tvarkymo sistemoje.“
 
 
 

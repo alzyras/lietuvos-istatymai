@@ -212,7 +212,7 @@ Mokesčio mokestinis laikotarpis sutampa su kalendoriniais metais.
 3. Savivaldybių tarybos turi teisę savo biudžeto sąskaita sumažinti mokestį arba visai nuo jo atleisti. ^s-e58ea227269d6051729437d6
 
 
-4. Šio straipsnio 1 ir [[#^s-f2bcf849797dc005c6fab7f4|2 dalyse]] numatytos mokesčio lengvatos taikomos už visą mokesčio mokestinį laikotarpį. ^s-5426730c87be80640d3bb057
+4. Šio straipsnio [[#^s-d38a15f229a669ad03e15a7c|1]] ir [[#^s-f2bcf849797dc005c6fab7f4|2]] dalyse numatytos mokesčio lengvatos taikomos už visą mokesčio mokestinį laikotarpį. ^s-5426730c87be80640d3bb057
 
 
 5. [[#^s-e58ea227269d6051729437d6|Šio straipsnio 3 dalyje]] numatytos lengvatos taikomos atitinkamuose savivaldybių tarybų sprendimuose nustatyta tvarka. ^s-5b4c6977ba3bbb72e8fd31b7
@@ -373,10 +373,10 @@ Nr. XII-1134, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13608
 Įsigaliojus šiam įstatymui, netenka galios:
 
 
-1) Lietuvos Respublikos Aukščiausiosios Tarybos 1992 m. birželio 25 d. nutarimas Nr. I-2676 „Dėl Lietuvos Respublikos žemės mokesčio įstatymo įsigaliojimo“ (Žin., 1992, Nr. 21-613); ^s-8f6e4dc14c4f74f1ed89dc77
+1) Lietuvos Respublikos Aukščiausiosios Tarybos [1992 m. birželio 25 d. nutarimas Nr. I-2676](https://e-tar.lt/portal/lt/legalAct/TAR.999D59B7ACA5) „Dėl Lietuvos Respublikos žemės mokesčio įstatymo įsigaliojimo“ (Žin., 1992, Nr. 21-613); ^s-8f6e4dc14c4f74f1ed89dc77
 
 
-2) Lietuvos Respublikos Seimo 1995 m. birželio 20 d. nutarimas Nr. I-954 „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos žemės mokesčio įstatymo įsigaliojimo“ pakeitimo“ (Žin., 1995, Nr. 53-1307). ^s-c22f6602a1186999dff3aa95
+2) Lietuvos Respublikos Seimo [1995 m. birželio 20 d. nutarimas Nr. I-954](https://e-tar.lt/portal/lt/legalAct/TAR.AA7E9B477A2D) „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos žemės mokesčio įstatymo įsigaliojimo“ pakeitimo“ (Žin., 1995, Nr. 53-1307). ^s-c22f6602a1186999dff3aa95
 
 
 

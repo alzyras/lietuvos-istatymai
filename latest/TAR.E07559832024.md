@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Papildomo protokolo ratifikavimas ^s-3fda9431299abf38d4e8f3ee
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. gegužės 27 d. dekretą Nr. 1K-1848, ratifikuoja 2008 m. gegužės 27 d. Ženevoje pasirašytą Tarptautinio krovinių vežimo keliais sutarties konvencijos (CMR) papildomą protokolą dėl elektroninio važtaraščio.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. gegužės 27 d. dekretą Nr. 1K-1848](https://e-tar.lt/portal/lt/legalAct/TAR.6CF6E0CAF580), ratifikuoja 2008 m. gegužės 27 d. Ženevoje pasirašytą Tarptautinio krovinių vežimo keliais sutarties konvencijos (CMR) papildomą protokolą dėl elektroninio važtaraščio.
 
 
 

@@ -33,7 +33,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-4fcec93634336b6e08624bb2
-[[latest/TAR.A7F77DF94F5D#^s-737ad56397e2a7b754e12bc0|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 14, 15, 16, 21, 36, 50, 54 STRAIPSNIŲ]] PAKEITIMAS IR PAPILDYMAS
+[[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]] [[latest/TAR.A7F77DF94F5D#^s-2510fc738aeaf0c40f5792a2|14]], [[latest/TAR.A7F77DF94F5D#^s-a14eda7fa46c1ae045ab3466|15]], [[latest/TAR.A7F77DF94F5D#^s-bb146404374b0a6898de4e49|16]], [[latest/TAR.A7F77DF94F5D#^s-6ec0857f72a11315a2897307|21]], [[latest/TAR.A7F77DF94F5D#^s-3c50246512d269ab920f3de0|36]], [[latest/TAR.A7F77DF94F5D#^s-92afdfd83f0344a49587e917|50]], [[latest/TAR.A7F77DF94F5D#^s-737ad56397e2a7b754e12bc0|54]] STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 1994, Nr. 59-1153, Nr. 101-2017; 1995, Nr. 59-1475, Nr. 84-1901;
 1996, Nr. 68-1636; 2001, Nr. 103-3658; 2002, Nr. 47-1796)
@@ -189,7 +189,7 @@ Pakeisti 41 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 
 ### TREČIASIS SKIRSNIS ^s-7944a633d5f37ce956be5d80
-[[latest/TAR.068516AF734B#^s-58f48a1dd03a727d1b4a4f8a|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 3, 6, 14, 18, 21 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] [[latest/TAR.068516AF734B#^s-51fd289c361281809cf1fba3|3]], [[latest/TAR.068516AF734B#^s-ecd6e9170a7188c767fba5f1|6]], [[latest/TAR.068516AF734B#^s-3a512c6af722ea21e8b3912c|14]], [[latest/TAR.068516AF734B#^s-92da6251dc63fc1eea734c8e|18]], [[latest/TAR.068516AF734B#^s-58f48a1dd03a727d1b4a4f8a|21]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2000, Nr. 111-3574; 2002, Nr. 13-469)
 
@@ -255,7 +255,7 @@ Motinystės (tėvystės) pašalpa mokama 60 procentų pašalpos gavėjo kompensu
 
 
 ### KETVIRTASIS SKIRSNIS ^s-3dabd17be638ba9c18b7d92e
-[[latest/TAR.4325B0C38B2F#^s-811cc2917d670b6f3c2855d2|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3, 14, 24, 31 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]] [[latest/TAR.4325B0C38B2F#^s-8370cb83f05bea06e1bc463b|3]], [[latest/TAR.4325B0C38B2F#^s-57e48c0e1e7b9cc0148b136e|14]], [[latest/TAR.4325B0C38B2F#^s-8f35167110a33b1269395128|24]], [[latest/TAR.4325B0C38B2F#^s-811cc2917d670b6f3c2855d2|31]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1999, Nr. 110-3207; 2000, Nr. 58-1716, Nr. 95-2969; 2001,
 Nr. 55-1946; Nr. 64-2325)
@@ -377,10 +377,10 @@ BAIGIAMOSIOS NUOSTATOS
 3. Valstybinio socialinio draudimo fondo taryba praeitų 2002 metų draudžiamąsias pajamas nustato pagal patvirtintas 2002 metų atitinkamų ketvirčių vidutines mėnesines draudžiamąsias pajamas. ^s-9007ad0776a26235c12c5526
 
 
-4. Kol bus patvirtintos einamųjų 2003 metų draudžiamosios pajamos, valstybinės socialinio draudimo senatvės pensijos papildomai daliai apskaičiuoti ([[latest/TAR.A7F77DF94F5D#^s-6ec0857f72a11315a2897307|Valstybinių socialinio draudimo pensijų įstatymo 21 straipsnis]]) bei paskirtoms valstybinėms socialinio draudimo pensijoms (išskyrus valstybines socialinio draudimo našlių pensijas) indeksuoti vietoj šių pajamų naudojamos paskutinės Vyriausybės patvirtintos 2002 metų atitinkamo ketvirčio vidutinės mėnesinės draudžiamosios pajamos. Pastarosios draudžiamosios pajamos taip pat naudojamos apskaičiuojant 2003 metų asmens draudžiamųjų pajamų koeficientą (Valstybinių socialinio draudimo pensijų įstatymo 15 straipsnio 3 dalis) tais atvejais, kai asmuo išeina į pensiją 2003 metų pradžioje, o einamųjų 2003 metų draudžiamosios pajamos dar nepatvirtintos. ^s-687f2ea93ecb822560c4aabc
+4. Kol bus patvirtintos einamųjų 2003 metų draudžiamosios pajamos, valstybinės socialinio draudimo senatvės pensijos papildomai daliai apskaičiuoti ([[latest/TAR.A7F77DF94F5D#^s-6ec0857f72a11315a2897307|Valstybinių socialinio draudimo pensijų įstatymo 21 straipsnis]]) bei paskirtoms valstybinėms socialinio draudimo pensijoms (išskyrus valstybines socialinio draudimo našlių pensijas) indeksuoti vietoj šių pajamų naudojamos paskutinės Vyriausybės patvirtintos 2002 metų atitinkamo ketvirčio vidutinės mėnesinės draudžiamosios pajamos. Pastarosios draudžiamosios pajamos taip pat naudojamos apskaičiuojant 2003 metų asmens draudžiamųjų pajamų koeficientą ([[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo 15 straipsnio 3 dalis]]) tais atvejais, kai asmuo išeina į pensiją 2003 metų pradžioje, o einamųjų 2003 metų draudžiamosios pajamos dar nepatvirtintos. ^s-687f2ea93ecb822560c4aabc
 
 
-5. Kol bus patvirtintos praeitų 2002 metų draudžiamosios pajamos, asmens 2002 metų draudžiamųjų pajamų koeficientui apskaičiuoti (Valstybinių socialinio draudimo pensijų įstatymo 15 straipsnio 2 dalis) naudojamos patvirtintos užpraeitų 2001 metų vidutinės mėnesinės draudžiamosios pajamos. ^s-cba3ef0d7bbe66a966ea9599
+5. Kol bus patvirtintos praeitų 2002 metų draudžiamosios pajamos, asmens 2002 metų draudžiamųjų pajamų koeficientui apskaičiuoti ([[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo 15 straipsnio 2 dalis]]) naudojamos patvirtintos užpraeitų 2001 metų vidutinės mėnesinės draudžiamosios pajamos. ^s-cba3ef0d7bbe66a966ea9599
 
 
 6. Kol bus patvirtintos einamųjų 2003 metų draudžiamosios pajamos, apskaičiuojant socialinio draudimo išmokas pagal [[latest/TAR.068516AF734B|Ligos ir motinystės socialinio draudimo įstatymo]], [[latest/TAR.4325B0C38B2F|Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo]] nuostatas bei išmokas pagal Žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo nuostatas, nustatančias išmokų dydžių sąsają su einamųjų metų draudžiamosiomis pajamomis, vietoj einamųjų 2003 metų draudžiamųjų pajamų taikomos paskutinės Vyriausybės patvirtintos 2002 metų atitinkamo ketvirčio vidutinės mėnesinės draudžiamosios pajamos. Patvirtinus einamųjų 2003 metų draudžiamąsias pajamas, paskirtos atitinkamos išmokos neperskaičiuojamos. ^s-9738c7dfd99d394707aedb79

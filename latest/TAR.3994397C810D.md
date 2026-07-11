@@ -82,7 +82,7 @@ Nukentėjusių asmenų valstybinė pensija mokama šio straipsnio 2 dalyje išva
 Šio įstatymo 11 straipsnio pirmosios dalies 2 punkte išvardytiems asmenims, kurie kalėjo ar išbuvo tremtyje ne mažiau kaip 15 kalendorinių metų buvusios TSRS Tolimosios Šiaurės rajonuose ar jiems prilygintose vietovėse pagal Lietuvos Respublikos Vyriausybės patvirtintą buvusios TSRS Tolimosios Šiaurės rajonų ir jiems prilygintų vietovių sąrašą, valstybinių pensijų bazės dydžio nukentėjusiųjų asmenų valstybinė pensija skiriama ir mokama likus 5 metams iki senatvės pensijos amžiaus. Ši pensija skiriama ir mokama su sąlyga, kad asmeniui nėra mokama jokia Lietuvos Respublikos ar kitos valstybės pensija ar nuolatinė kompensacinė išmoka už ypatingas darbo sąlygas.
 
 
-Nukentėjusiųjų asmenų valstybinės pensijos taip pat skiriamos bei mokamos šio įstatymo 11 straipsnio antrosios dalies 2 ir [[#^s-129961984a7400bca55e2b33|4 punktuose]] nurodytų asmenų tėvams, tapusiems I ar II grupių invalidais arba sukakusiems senatvės pensijos amžių, ir yra valstybinių pensijų bazės dydžio.“
+Nukentėjusiųjų asmenų valstybinės pensijos taip pat skiriamos bei mokamos šio įstatymo 11 straipsnio antrosios dalies 2 ir 4 punktuose nurodytų asmenų tėvams, tapusiems I ar II grupių invalidais arba sukakusiems senatvės pensijos amžių, ir yra valstybinių pensijų bazės dydžio.“
 
 
 

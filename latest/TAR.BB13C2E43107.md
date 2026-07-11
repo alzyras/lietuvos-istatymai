@@ -157,7 +157,7 @@ Jeigu yra keli išieškotojai ir neužtenka išieškotos iš skolininko pinigų 
 1. Šis įstatymas, išskyrus [[#^s-def80897a38ea4b5d2bb43a5|šio straipsnio 3 dalį]], įsigalioja 2009 m. balandžio 1 d. ^s-279db470533e3478ef0ca043
 
 
-2. Šio įstatymo nuostatos yra taikomos antstolių ar notarų veiksmams, atliktiems po šio įstatymo įsigaliojimo. Kai iki šio įstatymo įsigaliojimo pradėti skaičiuoti Civilinio proceso kodekso 512 straipsnyje nustatyti terminai apskųsti antstolių ar notarų atliekamus veiksmus nėra pasibaigę, įsigaliojus šiam įstatymui jie pratęsiami iki šio įstatymo [[#^s-eabc43422ed9cc7620127ba8|1 straipsnyje]] nustatytų terminų. ^s-89ea058cee3b69b8d6ecd286
+2. Šio įstatymo nuostatos yra taikomos antstolių ar notarų veiksmams, atliktiems po šio įstatymo įsigaliojimo. Kai iki šio įstatymo įsigaliojimo pradėti skaičiuoti [Civilinio proceso kodekso 512 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyti terminai apskųsti antstolių ar notarų atliekamus veiksmus nėra pasibaigę, įsigaliojus šiam įstatymui jie pratęsiami iki šio įstatymo [[#^s-eabc43422ed9cc7620127ba8|1 straipsnyje]] nustatytų terminų. ^s-89ea058cee3b69b8d6ecd286
 
 
 3. Teisingumo ministras iki šio įstatymo įsigaliojimo priima šiam įstatymui įgyvendinti reikalingus teisės aktus. ^s-def80897a38ea4b5d2bb43a5

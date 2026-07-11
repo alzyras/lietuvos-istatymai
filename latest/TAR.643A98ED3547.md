@@ -68,7 +68,7 @@ Pakeisti 31 straipsnio 1 dalies 6 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. 9 straipsnio 1, 2, 3 ir 5 dalių pakeitimas ^s-c1bf98d8d9ae79894ffe6730
 
 
-1. Pakeisti [[#^s-59b6a3dba26df60eec3dc868|9 straipsnio 1 dalies]] 2 ir [[#^s-b3a45fe632a9c135a25f565f|3 punktus]], dalį papildyti [[#^s-2e580c992f8b69ec89408404|5 punktu]] ir šią dalį išdėstyti taip: ^s-628eef0a9cf3bb82d43c9509
+1. Pakeisti [[#^s-59b6a3dba26df60eec3dc868|9 straipsnio 1 dalies]] 2 ir 3 punktus, dalį papildyti [[#^s-2e580c992f8b69ec89408404|5 punktu]] ir šią dalį išdėstyti taip: ^s-628eef0a9cf3bb82d43c9509
 
 
 „1. Asmuo, priimamas į valstybės tarnautojo pareigas, turi atitikti šiuos bendruosius reikalavimus:
@@ -164,7 +164,7 @@ Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
 ### 6 straipsnis. 14 straipsnio pakeitimas ir papildymas ^s-d69a2257496af3d3d39d696d
 
 
-1. Pakeisti [[#^s-3eb4090e319e0d0ee4ab636f|14 straipsnio 1 dalį]], straipsnį papildyti 3 ir [[#^s-ac63c4feb54a952c895dbac4|4 dalimis]] ir visą straipsnį išdėstyti taip: ^s-5cca5ad7fab4ff6085f60ef8
+1. Pakeisti [[#^s-3eb4090e319e0d0ee4ab636f|14 straipsnio 1 dalį]], straipsnį papildyti [[#^s-90b48b084f4a2800dabfa619|3]] ir 4 dalimis ir visą straipsnį išdėstyti taip: ^s-5cca5ad7fab4ff6085f60ef8
 
 
 
@@ -180,7 +180,7 @@ Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
 3. Asmenys į pakaitinių karjeros valstybės tarnautojų pareigas priimami iš asmenų, turinčių teisę atkurti karjeros valstybės tarnautojo ar įstaigos vadovo statusą, ir iš buvusių karjeros valstybės tarnautojų ar įstaigų vadovų, atleistų iš pareigų dėl pareigybės panaikinimo ar sudarius šalių susitarimą dėl atleidimo (kai mokama kompensacija šio Įstatymo 41 straipsnio 6 dalies 2 punkte nustatytu būdu). Nepriėmus į pakaitinio karjeros valstybės tarnautojo pareigas iš šių asmenų, pakaitiniu valstybės tarnautoju gali būti priimamas kitas asmuo, kuris atitinka bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, ir pareigybės aprašyme nustatytus specialiuosius reikalavimus. Asmuo į pakaitinio karjeros valstybės tarnautojo pareigas priimamas Vyriausybės nustatyta tvarka patikrinus jo gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas. ^s-365cd592a8ab1d558858a35a
 
 
-4. Į pakaitinių karjeros valstybės tarnautojų pareigas priimti asmenys, turintys teisę atkurti karjeros valstybės tarnautojo ar įstaigos vadovo statusą, ir buvę karjeros valstybės tarnautojai ar įstaigų vadovai, atleisti iš pareigų dėl pareigybės panaikinimo ar sudarius šalių susitarimą dėl atleidimo (kai mokama kompensacija šio Įstatymo 41 straipsnio 6 dalies 2 punkte nustatytu būdu), pasibaigus šio straipsnio 2 dalyje nustatytiems terminams, nepraranda teisės šio Įstatymo [[#^s-9caec0fe97e2794aee675348|11 straipsnio 3 dalyje]] ir [[#^s-74b71c89771ee1f76b3757e4|13 straipsnio 3 dalyje]] nustatytais atvejais būti priimti į valstybės tarnautojo pareigas. Laikas, kai šie asmenys ėjo pakaitinių valstybės tarnautojų pareigas, neįskaičiuojamas į šio Įstatymo [[#^s-7f37e6012f4abbe301479ece|16 straipsnio]] 2, 3 ir 5 dalyse bei 43 straipsnio 2 ir [[#^s-c1bf98d8d9ae79894ffe6730|3 straipsnio]] dalyse nustatytus terminus.“ ^s-ac63c4feb54a952c895dbac4
+4. Į pakaitinių karjeros valstybės tarnautojų pareigas priimti asmenys, turintys teisę atkurti karjeros valstybės tarnautojo ar įstaigos vadovo statusą, ir buvę karjeros valstybės tarnautojai ar įstaigų vadovai, atleisti iš pareigų dėl pareigybės panaikinimo ar sudarius šalių susitarimą dėl atleidimo (kai mokama kompensacija šio Įstatymo 41 straipsnio 6 dalies 2 punkte nustatytu būdu), pasibaigus šio straipsnio 2 dalyje nustatytiems terminams, nepraranda teisės šio Įstatymo [[#^s-9caec0fe97e2794aee675348|11 straipsnio 3 dalyje]] ir [[#^s-74b71c89771ee1f76b3757e4|13 straipsnio 3 dalyje]] nustatytais atvejais būti priimti į valstybės tarnautojo pareigas. Laikas, kai šie asmenys ėjo pakaitinių valstybės tarnautojų pareigas, neįskaičiuojamas į šio Įstatymo [[#^s-7f37e6012f4abbe301479ece|16 straipsnio]] 2, 3 ir 5 dalyse bei 43 straipsnio [[#^s-a911ee82658b54b69e1c7f3c|2]] ir [[#^s-c1bf98d8d9ae79894ffe6730|3]] straipsnio dalyse nustatytus terminus.“ ^s-ac63c4feb54a952c895dbac4
 
 
 2. Pakeisti [[#^s-90b48b084f4a2800dabfa619|14 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-a68e9d2d88c060877830cd00
@@ -224,13 +224,13 @@ Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
 3. Pakeisti 16 straipsnio 6 dalį ir ją išdėstyti taip: ^s-e0f895391dbc974fe96fdb7b
 
 
-„6. Šio straipsnio 2, 3, 4 ir 5 dalyse nurodyti asmenys priimami į valstybės tarnautojo pareigas, jeigu atitinka bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, ir jiems siūlomos pareigybės aprašyme nustatytus specialiuosius reikalavimus. Asmenys, siekiantys atkurti įstaigos vadovo ar karjeros valstybės tarnautojo statusą, gali būti priimti į šias pareigas Vyriausybės nustatyta tvarka valstybės ar savivaldybės institucijoje ar įstaigoje, kurioje siūlomos pareigos, patikrinus jų gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas.“
+„6. Šio straipsnio [[#^s-b31d89d96874f8733a8aec78|2]], 3, [[#^s-686945c63c94ed7d6dabed5a|4]] ir 5 dalyse nurodyti asmenys priimami į valstybės tarnautojo pareigas, jeigu atitinka bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, ir jiems siūlomos pareigybės aprašyme nustatytus specialiuosius reikalavimus. Asmenys, siekiantys atkurti įstaigos vadovo ar karjeros valstybės tarnautojo statusą, gali būti priimti į šias pareigas Vyriausybės nustatyta tvarka valstybės ar savivaldybės institucijoje ar įstaigoje, kurioje siūlomos pareigos, patikrinus jų gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas.“
 
 
 4. Pakeisti 16 straipsnio 6 dalį ir ją išdėstyti taip: ^s-686945c63c94ed7d6dabed5a
 
 
-„6. Šio straipsnio 2, 3, 4 ir 5 dalyse nurodyti asmenys priimami į valstybės tarnautojo pareigas, jeigu atitinka bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, ir jiems siūlomos pareigybės aprašyme nustatytus specialiuosius reikalavimus. Šie asmenys nėra tikrinami dėl atitikimo šio Įstatymo 9 straipsnio 1 dalies 5 punkte nustatytiems reikalavimams. Asmenys, siekiantys atkurti įstaigos vadovo ar karjeros valstybės tarnautojo statusą, gali būti priimti į šias pareigas Vyriausybės nustatyta tvarka valstybės ar savivaldybės institucijoje ar įstaigoje, kurioje siūlomos pareigos, patikrinus jų gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas.“
+„6. Šio straipsnio [[#^s-b31d89d96874f8733a8aec78|2]], [[#^s-e0f895391dbc974fe96fdb7b|3]], 4 ir 5 dalyse nurodyti asmenys priimami į valstybės tarnautojo pareigas, jeigu atitinka bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, ir jiems siūlomos pareigybės aprašyme nustatytus specialiuosius reikalavimus. Šie asmenys nėra tikrinami dėl atitikimo šio Įstatymo 9 straipsnio 1 dalies 5 punkte nustatytiems reikalavimams. Asmenys, siekiantys atkurti įstaigos vadovo ar karjeros valstybės tarnautojo statusą, gali būti priimti į šias pareigas Vyriausybės nustatyta tvarka valstybės ar savivaldybės institucijoje ar įstaigoje, kurioje siūlomos pareigos, patikrinus jų gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas.“
 
 
 
@@ -358,7 +358,7 @@ Pakeisti [[#^s-641c7c97ce5653ed38bc0d95|22 straipsnį]] ir jį išdėstyti taip:
 4) įstaigos vadovui ar karjeros valstybės tarnautojui palikti turimą pirmą (aukščiausią) kvalifikacinę klasę ir skirti jam pareiginės algos dydžio vienkartinį priedą; ^s-d0103ce3605dbe7b003e08a0
 
 
-5) taikyti šio Įstatymo [[#^s-4414ae809753c18d59ec60b8|27 straipsnio 2 dalies]] 1 ir [[#^s-5010354315e63d8732aabbfb|2 punktuose]] nustatytas skatinimo priemones. ^s-eda47eba928e6aa1074d9c0e
+5) taikyti šio Įstatymo [[#^s-4414ae809753c18d59ec60b8|27 straipsnio 2 dalies]] 1 ir 2 punktuose nustatytas skatinimo priemones. ^s-eda47eba928e6aa1074d9c0e
 
 
 15. Vertinimo komisija, įvertinusi pakaitinio valstybės tarnautojo tarnybinę veiklą labai gerai, valstybės tarnautoją į pareigas priimančiam asmeniui siūlo: ^s-7df44fb5d53f0d8d8399b06e
@@ -370,7 +370,7 @@ Pakeisti [[#^s-641c7c97ce5653ed38bc0d95|22 straipsnį]] ir jį išdėstyti taip:
 2) palikti pakaitiniam valstybės tarnautojui turimą kvalifikacinę klasę ir skirti jam pareiginės algos dydžio vienkartinį priedą, arba ^s-56127486d763192a75846601
 
 
-3) taikyti šio Įstatymo [[#^s-4414ae809753c18d59ec60b8|27 straipsnio 2 dalies]] 1 ir [[#^s-56127486d763192a75846601|2 punktuose]] nustatytas skatinimo priemones. ^s-b29411282698875b97a0f8b2
+3) taikyti šio Įstatymo [[#^s-4414ae809753c18d59ec60b8|27 straipsnio 2 dalies]] 1 ir 2 punktuose nustatytas skatinimo priemones. ^s-b29411282698875b97a0f8b2
 
 
 16. Vertinimo komisija, įvertinusi valstybės tarnautojo tarnybinę veiklą gerai, valstybės tarnautoją į pareigas priimančiam asmeniui gali siūlyti taikyti šio Įstatymo [[#^s-4414ae809753c18d59ec60b8|27 straipsnio 2 dalies]] 1 ir 2 punktuose nustatytas skatinimo priemones. Valstybės tarnautojo iki vertinimo turėta teisinė padėtis nesikeičia. ^s-7fab9c525d4dbb215562569b
@@ -495,7 +495,7 @@ Pakeisti [[#^s-641c7c97ce5653ed38bc0d95|22 straipsnį]] ir jį išdėstyti taip:
 ### 13 straipsnis. 30 straipsnio pakeitimas ^s-5531d231f1aaf984c85aa626
 
 
-Pakeisti 30 straipsnio 1, 2, 5, 6, [[#^s-bb8152eef384263240f685fb|7 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 30 straipsnio 1, 2, 5, 6, 7 dalis ir visą straipsnį išdėstyti taip:
 
 
 
@@ -533,7 +533,7 @@ Pakeisti 30 straipsnio 1, 2, 5, 6, [[#^s-bb8152eef384263240f685fb|7 dalis]] ir v
 ### 14 straipsnis. 311 straipsnio pakeitimas ^s-3fda9aff233ef5c51c54c8a4
 
 
-Pakeisti 311 straipsnio 1 ir [[#^s-90b48b084f4a2800dabfa619|3 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 311 straipsnio 1 ir 3 dalis ir visą straipsnį išdėstyti taip:
 
 
 
@@ -632,10 +632,10 @@ Pakeisti 34 straipsnio 1 dalį ir ją išdėstyti taip:
 „21) sudaromas šalių susitarimas dėl įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu) ir karjeros valstybės tarnautojo atleidimo iš pareigų.“
 
 
-3. Papildyti 44 straipsnį nauja [[#^s-13a8033765fbcf3da836bb21|3 dalimi]]: ^s-13a8033765fbcf3da836bb21
+3. Papildyti 44 straipsnį nauja 3 dalimi: ^s-13a8033765fbcf3da836bb21
 
 
-„3. Įstaigos vadovas (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu) ar karjeros valstybės tarnautojas gali raštu pateikti pasiūlymą jį į pareigas priėmusiam asmeniui, o į pareigas priėmęs asmuo gali raštu pateikti pasiūlymą įstaigos vadovui (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu) ar karjeros valstybės tarnautojui dėl atleidimo iš pareigų šalių susitarimu. Jeigu šalis, gavusi tokį pasiūlymą, sutinka su pasiūlymu, per 7 dienas turi apie tai pranešti šaliai, pateikusiai tokį pasiūlymą. Jeigu šalis, gavusi pasiūlymą, per 7 dienas nepraneša, kad sutinka su pateiktu pasiūlymu, laikoma, kad pasiūlymas atmestas. Šalims susitarus dėl valstybės tarnautojo atleidimo iš pareigų šalių susitarimu, sudaromas rašytinis susitarimas ir jame nurodoma, nuo kurio laiko valstybės tarnautojas atleidžiamas iš pareigų, susitariama dėl kompensacijų mokėjimo būdo ir su tuo susijusių kitų garantijų, taip pat dėl kitų sąlygų (nepanaudotų atostogų suteikimo ir kitų sąlygų).“
+„3. Įstaigos vadovas (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu) ar karjeros valstybės tarnautojas gali raštu pateikti pasiūlymą jį į pareigas priėmusiam asmeniui, o į pareigas priėmęs asmuo gali raštu pateikti pasiūlymą įstaigos vadovui (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu) ar karjeros valstybės tarnautojui dėl atleidimo iš pareigų šalių susitarimu. Jeigu šalis, gavusi tokį pasiūlymą, sutinka su pasiūlymu, per 7 dienas turi apie tai pranešti šaliai, pateikusiai tokį pasiūlymą. Jeigu šalis, gavusi pasiūlymą, per 7 dienas nepraneša, kad sutinka su pateiktu pasiūlymu, laikoma, kad pasiūlymas atmestas. Šalims susitarus dėl valstybės tarnautojo atleidimo iš pareigų šalių susitarimu, sudaromas rašytinis susitarimas ir jame nurodoma, nuo kurio laiko valstybės tarnautojas atleidžiamas iš pareigų, susitariama [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) mokėjimo būdo ir su tuo susijusių kitų garantijų, taip pat dėl kitų sąlygų (nepanaudotų atostogų suteikimo ir kitų sąlygų).“
 
 
 4. Buvusias 44 straipsnio 3, 4, 5, 6 ir 7 dalis laikyti atitinkamai 4, 5, 6, 7 ir 8 dalimis. ^s-99a0a5e63788a9d439e33712
@@ -759,7 +759,7 @@ Pakeisti 49 straipsnį ir jį išdėstyti taip:
 5) tikrina pretendentų į valstybės tarnautojo pareigas bendruosius gebėjimus ir vadovavimo gebėjimus; ^s-74f1fbad6130d25703f7e65b
 
 
-6) administruoja valstybės tarnautojų rezervą, kurį sudaro pretendentai į valstybės tarnautojo pareigas, kurių bendrieji gebėjimai ir vadovavimo gebėjimai, taip pat užsienio kalbos mokėjimas atitinka nustatytus reikalavimus, asmenys, kurie šio Įstatymo [[#^s-7f37e6012f4abbe301479ece|16 straipsnio]] 2 ir [[#^s-d00622e97baf32fcad03a4bd|3 dalyse]] nustatyta tvarka turi teisę atkurti valstybės tarnautojo statusą, taip pat asmenys, kurie šio Įstatymo 43 straipsnio 2, 3 ir 15 dalių pagrindu yra atleisti iš pareigų dėl pareigybės panaikinimo, asmenys, kurie atleisti iš valstybės tarnautojo pareigų sudarius šalių susitarimą dėl karjeros valstybės tarnautojo atleidimo (kai mokama kompensacija šio Įstatymo 41 straipsnio 6 dalies 2 punkte nustatytu būdu), taip pat buvę pakaitiniai valstybės tarnautojai (išskyrus pakaitinius valstybės tarnautojus, kuriems suėjo 65 metai), kurie pareigas nepertraukiamai ėjo ne mažiau kaip dvejus metus ir kurie atleisti iš pareigų dėl negalėjusio eiti pareigų karjeros valstybės tarnautojo sugrįžimo; nustatyta tvarka organizuoja valstybės tarnautojų kaitumą; ^s-5df9813c4d372d1ad975d930
+6) administruoja valstybės tarnautojų rezervą, kurį sudaro pretendentai į valstybės tarnautojo pareigas, kurių bendrieji gebėjimai ir vadovavimo gebėjimai, taip pat užsienio kalbos mokėjimas atitinka nustatytus reikalavimus, asmenys, kurie šio Įstatymo [[#^s-7f37e6012f4abbe301479ece|16 straipsnio]] 2 ir 3 dalyse nustatyta tvarka turi teisę atkurti valstybės tarnautojo statusą, taip pat asmenys, kurie šio Įstatymo 43 straipsnio 2, 3 ir 15 dalių pagrindu yra atleisti iš pareigų dėl pareigybės panaikinimo, asmenys, kurie atleisti iš valstybės tarnautojo pareigų sudarius šalių susitarimą dėl karjeros valstybės tarnautojo atleidimo (kai mokama kompensacija šio Įstatymo 41 straipsnio 6 dalies 2 punkte nustatytu būdu), taip pat buvę pakaitiniai valstybės tarnautojai (išskyrus pakaitinius valstybės tarnautojus, kuriems suėjo 65 metai), kurie pareigas nepertraukiamai ėjo ne mažiau kaip dvejus metus ir kurie atleisti iš pareigų dėl negalėjusio eiti pareigų karjeros valstybės tarnautojo sugrįžimo; nustatyta tvarka organizuoja valstybės tarnautojų kaitumą; ^s-5df9813c4d372d1ad975d930
 
 
 7) tvarko šio Įstatymo 50 straipsnyje nurodytą valstybės registrą ir valstybės tarnybos valdymo informacinę sistemą; ^s-4c3773c8671488d861a568ce
@@ -891,7 +891,7 @@ Nr. XII-27, 2012-12-04, Žin., 2012, Nr. 143-7378 (2012-12-11), i. k. [[latest/T
 ### 27 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-2dec0ec37759947e2be2b896
 
 
-1. Šis įstatymas, išskyrus 21, 22, 23, [[#^s-914041b9008fcee4425955c4|26 straipsnius]], šio straipsnio 2, 3, 4 ir [[#^s-65f24cca589dafddd3398b78|5 dalis]], įsigalioja 2013 m. birželio 1 d. ^s-67223f140c92c947427b99a7
+1. Šis įstatymas, išskyrus [[#^s-d51bc439723091e4a7cc1d4e|21]], [[#^s-641c7c97ce5653ed38bc0d95|22]], [[#^s-f2acfdf0799c76a70d0a2ba4|23]], [[#^s-914041b9008fcee4425955c4|26]] straipsnius, šio straipsnio [[#^s-ccaddb65ecad7b1e7bb51117|2]], [[#^s-09cc59c3281a65be83e1d551|3]], [[#^s-6bde37c175f22e35e6650548|4]] ir 5 dalis, įsigalioja 2013 m. birželio 1 d. ^s-67223f140c92c947427b99a7
 Straipsnio dalies pakeitimai:
 Nr. XII-27, 2012-12-04, Žin., 2012, Nr. 143-7378 (2012-12-11), i. k. [[latest/TAR.119C511BB3D8|1121010ISTA00XII-27]]
 
@@ -900,13 +900,13 @@ Nr. XII-27, 2012-12-04, Žin., 2012, Nr. 143-7378 (2012-12-11), i. k. [[latest/T
 2. Šio įstatymo [[#^s-eb5b1610b35da77800fcede5|4 straipsnio 1 dalis]], [[#^s-8a4c24bb7d6c6310cb4544ba|5 straipsnio 1 dalis]], [[#^s-3bb24fb905d2f97f149b38c5|12 straipsnis]], [[#^s-7f37e6012f4abbe301479ece|16 straipsnis]] įsigalioja 2012 m. rugpjūčio 1 d. ^s-4414ae809753c18d59ec60b8
 
 
-3. Šio įstatymo [[#^s-527671c992a1589b95d1c958|4 straipsnio 3 dalis]], [[#^s-799ae3869b5e4f58918e7286|5 straipsnio 3 dalis]], 6 straipsnio 1 dalis, [[#^s-56ea97593e087dc8c95b1821|7 straipsnis]], [[#^s-5066bab85598953b88ea9a9c|8 straipsnio]] 1, 2 ir [[#^s-a87903d9753d819b3d9f6223|3 dalys]], [[#^s-54ea02eee2f6cad8efba4ab6|9 straipsnis]], [[#^s-07ae5dd52185506e52b1869e|10 straipsnis]], [[#^s-2bc0a1a832fcfc05f70ba65e|11 straipsnis]], [[#^s-3fda9aff233ef5c51c54c8a4|14 straipsnis]], [[#^s-868c0797d4f47fb2987bb815|15 straipsnis]], [[#^s-570626de2887b2c2944966e8|17 straipsnis]], [[#^s-172d43f30adc0ab14a304fe5|18 straipsnio]] 1 ir [[#^s-a87903d9753d819b3d9f6223|3 dalys]], [[#^s-ac915f066119ffacdb30a161|19 straipsnio]] 2, 3, 4, 5 ir [[#^s-b6c99bff16ff057260ce5fb5|6 dalys]], [[#^s-ef1f2ecaa8ecb70dfa9ab78b|20 straipsnis]], [[#^s-0f057d1f92a0e3b9b9fcfa12|25 straipsnio 2 dalis]] įsigalioja 2012 m. rugsėjo 1 d. ^s-a87903d9753d819b3d9f6223
+3. Šio įstatymo [[#^s-527671c992a1589b95d1c958|4 straipsnio 3 dalis]], [[#^s-799ae3869b5e4f58918e7286|5 straipsnio 3 dalis]], 6 straipsnio 1 dalis, [[#^s-56ea97593e087dc8c95b1821|7 straipsnis]], [[#^s-5066bab85598953b88ea9a9c|8 straipsnio]] [[#^s-5c96e97f9271aef7a5485349|1]], [[#^s-b31d89d96874f8733a8aec78|2]] ir [[#^s-e0f895391dbc974fe96fdb7b|3]] dalys, [[#^s-54ea02eee2f6cad8efba4ab6|9 straipsnis]], [[#^s-07ae5dd52185506e52b1869e|10 straipsnis]], [[#^s-2bc0a1a832fcfc05f70ba65e|11 straipsnis]], [[#^s-3fda9aff233ef5c51c54c8a4|14 straipsnis]], [[#^s-868c0797d4f47fb2987bb815|15 straipsnis]], [[#^s-570626de2887b2c2944966e8|17 straipsnis]], [[#^s-172d43f30adc0ab14a304fe5|18 straipsnio]] [[#^s-10a61fd87d07b2c1a04bb0f4|1]] ir [[#^s-2fb7e59e14b171b7fd6e4434|3]] dalys, [[#^s-ac915f066119ffacdb30a161|19 straipsnio]] [[#^s-7c02f4e85ed1f2210d391f13|2]], [[#^s-13a8033765fbcf3da836bb21|3]], [[#^s-99a0a5e63788a9d439e33712|4]], [[#^s-83280abebfc6f4a11c6c4ebf|5]] ir [[#^s-3c2c6c47f2545567a5a538d2|6]] dalys, [[#^s-ef1f2ecaa8ecb70dfa9ab78b|20 straipsnis]], [[#^s-0f057d1f92a0e3b9b9fcfa12|25 straipsnio 2 dalis]] įsigalioja 2012 m. rugsėjo 1 d. ^s-a87903d9753d819b3d9f6223
 
 
-4. Šio įstatymo [[#^s-c5d4b3682f4d181869b3afef|1 straipsnis]], [[#^s-a911ee82658b54b69e1c7f3c|2 straipsnis]], [[#^s-746f62b14696ad72d70e874c|3 straipsnio 3 dalis]], [[#^s-5531d231f1aaf984c85aa626|13 straipsnis]], [[#^s-56f038e0b9b1f789fd5141f7|19 straipsnio 1 dalis]], [[#^s-d9c3202bec268cc63f273cfa|24 straipsnio]] 1 ir [[#^s-4414ae809753c18d59ec60b8|2 dalys]] įsigalioja 2012 m. lapkričio 1 d. ^s-cc1d740e529db55dfea29590
+4. Šio įstatymo [[#^s-c5d4b3682f4d181869b3afef|1 straipsnis]], [[#^s-a911ee82658b54b69e1c7f3c|2 straipsnis]], [[#^s-746f62b14696ad72d70e874c|3 straipsnio 3 dalis]], [[#^s-5531d231f1aaf984c85aa626|13 straipsnis]], [[#^s-56f038e0b9b1f789fd5141f7|19 straipsnio 1 dalis]], [[#^s-d9c3202bec268cc63f273cfa|24 straipsnio]] 1 ir 2 dalys įsigalioja 2012 m. lapkričio 1 d. ^s-cc1d740e529db55dfea29590
 
 
-5. Šio įstatymo 21, 22 ir [[#^s-f2acfdf0799c76a70d0a2ba4|23 straipsniai]] įsigalioja 2013 m. sausio 1 d. ^s-65f24cca589dafddd3398b78
+5. Šio įstatymo [[#^s-d51bc439723091e4a7cc1d4e|21]], [[#^s-641c7c97ce5653ed38bc0d95|22]] ir [[#^s-f2acfdf0799c76a70d0a2ba4|23]] straipsniai įsigalioja 2013 m. sausio 1 d. ^s-65f24cca589dafddd3398b78
 Papildyta straipsnio dalimi:
 Nr. XII-27, 2012-12-04, Žin., 2012, Nr. 143-7378 (2012-12-11), i. k. [[latest/TAR.119C511BB3D8|1121010ISTA00XII-27]]
 
@@ -930,7 +930,7 @@ Nr. XII-27, 2012-12-04, Žin., 2012, Nr. 143-7378 (2012-12-11), i. k. [[latest/T
 
 
 
-9. Iki 2015 m. sausio 1 d. šio įstatymo 24 straipsnio 3 dalyje išdėstyto Valstybės tarnybos įstatymo 50 straipsnyje nurodyti duomenys apie valstybės tarnautojus kaupiami Valstybės tarnautojų registre. ^s-3958622e8e5691093ca2df13
+9. Iki 2015 m. sausio 1 d. šio įstatymo 24 straipsnio 3 dalyje išdėstyto [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo 50 straipsnyje]] nurodyti duomenys apie valstybės tarnautojus kaupiami Valstybės tarnautojų registre. ^s-3958622e8e5691093ca2df13
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-27, 2012-12-04, Žin., 2012, Nr. 143-7378 (2012-12-11), i. k. [[latest/TAR.119C511BB3D8|1121010ISTA00XII-27]]
 
@@ -954,4 +954,4 @@ Nr. XII-27, 2012-12-04, Žin., 2012, Nr. 143-7378 (2012-12-11), i. k. [[latest/T
 2.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
-Dėl Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio 1 dalies 3 punkto, [[latest/TAR.D3ED3792F52B#^s-1f3aefb86d7b4f6d9fc407c9|Lietuvos Respublikos valstybės tarnybos įstatymo 11 straipsnio 2 dalies]] ir [[#^s-cff757027ef48d63c1f14435|13 straipsnio 2 dalies]] nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio 1 dalies 3 punkto, Lietuvos Respublikos valstybės tarnybos įstatymo 11 straipsnio 2 dalies ir 13 straipsnio 2 dalies nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/b997ec50697d11e8ac27abd8fa093003)

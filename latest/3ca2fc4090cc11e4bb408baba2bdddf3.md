@@ -39,23 +39,23 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-ef1b6cc276c4b0b89fe28109
 
 
-1. Papildyti [[#^s-11ba7827a3731bb803f988a4|2 straipsnį]] nauja 23 dalimi: ^s-13d3c2633c3c80f04ab36e85
+1. Papildyti [[#^s-11ba7827a3731bb803f988a4|2 straipsnį]] nauja [[latest/TAR.551F0CDE5B64|23 dalimi]]: ^s-13d3c2633c3c80f04ab36e85
 
 
 „23. Nenustatytų teisių turėtojų kūrinys – kūrinys ar fonograma, kurių nė vienas iš teisių turėtojų nenustatytas arba, jeigu vienas ar daugiau iš jų nustatyti, nė vienas iš jų nebuvo surastas nepaisant kruopščios teisių turėtojų paieškos, atliktos ir įregistruotos šio Įstatymo nustatyta tvarka.“
 
 
-2. Buvusias [[#^s-11ba7827a3731bb803f988a4|2 straipsnio]] 23, 24, 25, 26, 27, 28, 29, 30, 31, 32 dalis laikyti atitinkamai 24, 25, 26, 27, 28, 29, 30, 31, 32, 33 dalimis. ^s-99f063a4244b0a588f558aed
+2. Buvusias [[#^s-11ba7827a3731bb803f988a4|2 straipsnio]] [[latest/TAR.551F0CDE5B64#^s-5836c757e6e9662267eb9ab5|23]], [[latest/TAR.551F0CDE5B64#^s-b82192872066186f79aea885|24]], [[latest/TAR.551F0CDE5B64#^s-fb70b729bcb903a294f49851|25]], [[latest/TAR.551F0CDE5B64#^s-461f7265de5e17eb332f60db|26]], [[latest/TAR.551F0CDE5B64#^s-b6ca61a7d034feba79793375|27]], [[latest/TAR.551F0CDE5B64#^s-ec621fd782d2288998b08a9e|28]], [[latest/TAR.551F0CDE5B64#^s-6bf0f76399f7d221afb0264a|29]], [[latest/TAR.551F0CDE5B64#^s-7e936ad9f848b3d66d64efa7|30]], [[latest/TAR.551F0CDE5B64#^s-c6eeaccf1847c80ad6de2408|31]], [[latest/TAR.551F0CDE5B64#^s-16b840fac294d32c2a09d9c2|32]] dalis laikyti atitinkamai [[latest/TAR.551F0CDE5B64#^s-b82192872066186f79aea885|24]], [[latest/TAR.551F0CDE5B64#^s-fb70b729bcb903a294f49851|25]], [[latest/TAR.551F0CDE5B64#^s-461f7265de5e17eb332f60db|26]], [[latest/TAR.551F0CDE5B64#^s-b6ca61a7d034feba79793375|27]], [[latest/TAR.551F0CDE5B64#^s-ec621fd782d2288998b08a9e|28]], [[latest/TAR.551F0CDE5B64#^s-6bf0f76399f7d221afb0264a|29]], [[latest/TAR.551F0CDE5B64#^s-7e936ad9f848b3d66d64efa7|30]], [[latest/TAR.551F0CDE5B64#^s-c6eeaccf1847c80ad6de2408|31]], [[latest/TAR.551F0CDE5B64#^s-16b840fac294d32c2a09d9c2|32]], [[latest/TAR.551F0CDE5B64#^s-2a950c25525bc0c34ab5359f|33]] dalimis. ^s-99f063a4244b0a588f558aed
 
 
 
 ### 2 straipsnis. 17 straipsnio pakeitimas ^s-11ba7827a3731bb803f988a4
 
 
-Pakeisti 17 straipsnio 7 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.551F0CDE5B64#^s-9a430528b2ab6de02e23db72|17 straipsnio 7 dalį]] ir ją išdėstyti taip:
 
 
-„7. Šio straipsnio 1 dalyje numatyta perpardavimo teisė trečiųjų šalių autoriams ar jų teisių paveldėtojams Lietuvos Respublikoje taikoma tik tuo atveju, jeigu trečiosios šalies, kuriai priklauso autorius ar jo teisių paveldėtojas, įstatymai numato perpardavimo teisę Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių autoriams ir jų teisių paveldėtojams.“
+„7. [[latest/TAR.551F0CDE5B64|Šio straipsnio 1 dalyje]] numatyta perpardavimo teisė trečiųjų šalių autoriams ar jų teisių paveldėtojams Lietuvos Respublikoje taikoma tik tuo atveju, jeigu trečiosios šalies, kuriai priklauso autorius ar jo teisių paveldėtojas, įstatymai numato perpardavimo teisę Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių autoriams ir jų teisių paveldėtojams.“
 
 
 
@@ -111,10 +111,10 @@ NENUSTATYTŲ TEISIŲ TURĖTOJŲ KŪRINIAI IR JŲ NAUDOJIMO SĄLYGOS
 4. Negali būti preziumuojama, kad kūrinys ar fonograma yra nenustatytų teisių turėtojų kūrinys, dėl šių aplinkybių: ^s-995fae454cd93fa90022c734
 
 
-1) kūrinys išleistas ar transliuotas nenurodant autoriaus vardo arba nurodant autoriaus pseudonimą, atsižvelgus į šio Įstatymo 14 straipsnio 1 dalies 2 punkte numatytą autoriaus asmeninę neturtinę teisę į autoriaus vardą; ^s-d750a64d6e73285792226130
+1) kūrinys išleistas ar transliuotas nenurodant autoriaus vardo arba nurodant autoriaus pseudonimą, atsižvelgus į šio Įstatymo [[latest/TAR.551F0CDE5B64#^s-0950163e97b4302bcd7437f1|14 straipsnio 1 dalies 2 punkte]] numatytą autoriaus asmeninę neturtinę teisę į autoriaus vardą; ^s-d750a64d6e73285792226130
 
 
-2) fonograma išleista ar transliuota neįvardijant fonogramos gamintojo ir (ar) atlikėjo, atsižvelgus į šio Įstatymo 51 straipsnio 2 dalies nuostatas dėl informacijos apie gretutines teises ir 52 straipsnio 1 dalies nuostatas dėl atlikėjo asmeninių neturtinių teisių. ^s-7afe88dcaadc6fb5368c797c
+2) fonograma išleista ar transliuota neįvardijant fonogramos gamintojo ir (ar) atlikėjo, atsižvelgus į šio Įstatymo [[latest/TAR.551F0CDE5B64#^s-e1c634347566643e074ccf3e|51 straipsnio 2 dalies]] nuostatas dėl informacijos apie gretutines teises ir [[latest/TAR.551F0CDE5B64#^s-c90835fc85c79257d9c8d68b|52 straipsnio 1 dalies]] nuostatas dėl atlikėjo asmeninių neturtinių teisių. ^s-7afe88dcaadc6fb5368c797c
 
 
 
@@ -152,7 +152,7 @@ NENUSTATYTŲ TEISIŲ TURĖTOJŲ KŪRINIAI IR JŲ NAUDOJIMO SĄLYGOS
 3. Kai yra pagrįstų įrodymų, kad svarbios informacijos apie teisių turėtojus galima rasti ne tik valstybėse narėse, arba paaiškėja, kad audiovizualinio kūrinio gamintojas nė vienoje iš valstybių narių neturi buveinės arba gyvenamosios vietos, tikrinami ir kitose šalyse esantys paieškos šaltiniai. ^s-46a9e874bcc3b7ccbce0da7d
 
 
-4. Nenustatytų teisių turėtojų kūrinių naudotojai šio straipsnio 1, 2 ir [[#^s-46a9e874bcc3b7ccbce0da7d|3 dalyse]] numatytai teisių turėtojų paieškai atlikti turi teisę įstatymų nustatyta tvarka pagal sutartis pasitelkti kitus asmenis. ^s-ce259aee4a66d6f72d64ed0b
+4. Nenustatytų teisių turėtojų kūrinių naudotojai šio straipsnio [[#^s-a8afd8e54128b71953238c5f|1]], [[#^s-590e3899617cc68437ec97bb|2]] ir [[#^s-46a9e874bcc3b7ccbce0da7d|3]] dalyse numatytai teisių turėtojų paieškai atlikti turi teisę įstatymų nustatyta tvarka pagal sutartis pasitelkti kitus asmenis. ^s-ce259aee4a66d6f72d64ed0b
 
 
 
@@ -186,7 +186,7 @@ NENUSTATYTŲ TEISIŲ TURĖTOJŲ KŪRINIAI IR JŲ NAUDOJIMO SĄLYGOS
 7) informacija apie nenustatytų teisių turėtojų kūrinio statuso panaikinimą. ^s-677999553d6f7caa56e7f366
 
 
-3. Atsakingai nacionalinei įstaigai šio straipsnio 1 ir [[#^s-046f06401297a64c8170c09d|2 dalyse]] nustatyta tvarka įregistravus teisių turėtojų paieškos rezultatus, kūrinys ar fonograma įgyja nenustatytų teisių turėtojų kūrinio statusą ir gali būti naudojami šio Įstatymo [[#^s-a25b747888ba385ea101261f|94 straipsnyje]] numatytais būdais ir sąlygomis. ^s-c4666b554e8d23f170a43e40
+3. Atsakingai nacionalinei įstaigai šio straipsnio [[#^s-aba85eb49c5d6471cc54095f|1]] ir [[#^s-046f06401297a64c8170c09d|2]] dalyse nustatyta tvarka įregistravus teisių turėtojų paieškos rezultatus, kūrinys ar fonograma įgyja nenustatytų teisių turėtojų kūrinio statusą ir gali būti naudojami šio Įstatymo [[#^s-a25b747888ba385ea101261f|94 straipsnyje]] numatytais būdais ir sąlygomis. ^s-c4666b554e8d23f170a43e40
 
 
 4. Nenustatytų teisių turėtojų kūrinio statusui Lietuvos Respublikoje ir kitose valstybėse narėse taikomas tarpusavio pripažinimo principas. Pagal tarpusavio pripažinimo principą kūrinys ar fonograma, kurie įgijo nenustatytų teisių turėtojų kūrinio statusą bet kurioje valstybėje narėje, laikomi nenustatytų teisių turėtojų kūriniu ir Lietuvos Respublikoje. Nenustatytų teisių turėtojų kūrinių naudotojai šiuos nenustatytų teisių turėtojų kūrinius gali naudoti šio Įstatymo [[#^s-a25b747888ba385ea101261f|94 straipsnyje]] nustatytais būdais ir sąlygomis. ^s-6ea35d07a9915555935b8f7e
@@ -199,7 +199,7 @@ NENUSTATYTŲ TEISIŲ TURĖTOJŲ KŪRINIAI IR JŲ NAUDOJIMO SĄLYGOS
 1. Nenustatytų teisių turėtojų kūrinių naudotojai turi teisę savo kolekcijose esančius nenustatytų teisių turėtojų kūrinius naudoti šiais būdais: ^s-179ff257fdc33b0d1a8dca17
 
 
-1) atgaminti juos taip, kaip apibrėžta šio Įstatymo 2 straipsnio 1 dalyje, skaitmeninimo, padarymo viešai prieinamų, indeksavimo, sisteminimo, išsaugojimo arba atkūrimo tikslais; ^s-56232a0eebfea9a069bbc26c
+1) atgaminti juos taip, kaip apibrėžta šio Įstatymo [[latest/TAR.551F0CDE5B64#^s-84a5c768da2261ef1ed62957|2 straipsnio 1 dalyje]], skaitmeninimo, padarymo viešai prieinamų, indeksavimo, sisteminimo, išsaugojimo arba atkūrimo tikslais; ^s-56232a0eebfea9a069bbc26c
 
 
 2) padaryti juos viešai prieinamus laidais ar bevielėmis ryšio priemonėmis tokiu būdu, kad visuomenės nariai galėtų juos pasiekti individualiai pasirinktoje vietoje ir pasirinktu laiku (kompiuterių tinklais (internete) ir pan.). ^s-616ce5a3f95f536f22f5a834
@@ -218,10 +218,10 @@ NENUSTATYTŲ TEISIŲ TURĖTOJŲ KŪRINIAI IR JŲ NAUDOJIMO SĄLYGOS
 1. Nenustatytų teisių turėtojų kūrinio statusas bet kuriuo metu gali būti panaikintas paaiškėjusio teisių turėtojo iniciatyva. Šiuo tikslu teisių turėtojas pateikia nenustatytų teisių turėtojų kūrinių naudotojui laisvos formos prašymą panaikinti nenustatytų teisių turėtojų kūrinio statusą, susijusį su jo autorių ir (ar) gretutinėmis teisėmis (toliau – prašymas). Prie prašymo pridedami dokumentai, įrodantys autorių teisių ir (ar) gretutinių teisių į nenustatytų teisių turėtojų kūrinį turėjimą (autorinės kūrinio užsakymo sutartys, autorių teisių ar gretutinių teisių perdavimo ar suteikimo sutartys, leidybos sutartys, autorių teisių ar gretutinių teisių paveldėjimo teisės liudijimai, kolektyvinio administravimo asociacijų pažymos ir kiti dokumentai, kuriuose yra informacija apie autorių teisių ar gretutinių teisių valdymą). Nenustatytų teisių turėtojų kūrinių naudotojai, įvertinę teisių turėtojų pateiktą prašymą ir dokumentus, įrodančius autorių teisių ir (ar) gretutinių teisių į kūrinį ar fonogramą turėjimą, ir padarę išvadą dėl nenustatytų teisių turėtojų kūrinio statuso panaikinimo, šią informaciją pateikia šio Įstatymo [[#^s-aba85eb49c5d6471cc54095f|93 straipsnio 1 dalyje]] nustatyta tvarka registruoti atsakingai nacionalinei įstaigai. Teisių turėtojų pateiktų dokumentų, kurių pagrindu padaryta išvada dėl nenustatytų teisių turėtojų kūrinio statuso panaikinimo, kopijas nenustatytų teisių turėtojų kūrinių naudotojai saugo iki tų kūrinių ar fonogramų autorių teisių ar gretutinių teisių galiojimo terminų pabaigos. ^s-0a1cae34b73df3c04142c83c
 
 
-2. Panaikinus nenustatytų teisių turėtojų kūrinio statusą, kūrinys ar fonograma toliau gali būti naudojami šio Įstatymo [[#^s-179ff257fdc33b0d1a8dca17|94 straipsnio 1 dalyje]] numatytais būdais tik gavus teisių turėtojo ar jo įgalioto asmens leidimą (išskyrus kūrinio ar fonogramos atgaminimą šio Įstatymo 23 straipsnyje ir 58 straipsnio 1 dalies 4 punkte numatytais išsaugojimo tikslais). ^s-2ee83cbbe766c1e06121048f
+2. Panaikinus nenustatytų teisių turėtojų kūrinio statusą, kūrinys ar fonograma toliau gali būti naudojami šio Įstatymo [[#^s-179ff257fdc33b0d1a8dca17|94 straipsnio 1 dalyje]] numatytais būdais tik gavus teisių turėtojo ar jo įgalioto asmens leidimą (išskyrus kūrinio ar fonogramos atgaminimą šio Įstatymo [[latest/TAR.551F0CDE5B64#^s-8df90554bccd6c13dda80362|23 straipsnyje]] ir [[latest/TAR.551F0CDE5B64#^s-303fad75740210e307bbc9f5|58 straipsnio 1 dalies 4 punkte]] numatytais išsaugojimo tikslais). ^s-2ee83cbbe766c1e06121048f
 
 
-3. Šio straipsnio 1 ir [[#^s-2ee83cbbe766c1e06121048f|2 dalių]] nuostatos dėl nenustatytų teisių turėtojų kūrinio statuso panaikinimo mutatis mutandis taikomos šio Įstatymo [[#^s-14370af98ecabeea376d8bb5|90 straipsnio 2 dalyje]] nurodytų nenustatytų ar nesurastų teisių turėtojų teisėms į kūrinį ar fonogramą. ^s-851c0d55d3fc8fe7c0be2e4a
+3. Šio straipsnio [[#^s-0a1cae34b73df3c04142c83c|1]] ir [[#^s-2ee83cbbe766c1e06121048f|2]] dalių nuostatos dėl nenustatytų teisių turėtojų kūrinio statuso panaikinimo mutatis mutandis taikomos šio Įstatymo [[#^s-14370af98ecabeea376d8bb5|90 straipsnio 2 dalyje]] nurodytų nenustatytų ar nesurastų teisių turėtojų teisėms į kūrinį ar fonogramą. ^s-851c0d55d3fc8fe7c0be2e4a
 
 
 
@@ -234,14 +234,14 @@ NENUSTATYTŲ TEISIŲ TURĖTOJŲ KŪRINIAI IR JŲ NAUDOJIMO SĄLYGOS
 2. Kompensacija už buvusio nenustatytų teisių turėtojų kūrinio naudojimą neturi viršyti 10 bazinių socialinių išmokų dydžio sumos. Ši kompensacijos suma paskirstoma ir mokama proporcingai jo teisių turėtojams. Kompensacija teisių turėtojams išmokama iki kitų metų kovo 31 dienos, pasibaigus metams, kuriais Vyriausybės įgaliota institucija, atsižvelgusi į ekspertų komisijos rekomendacines išvadas, priėmė sprendimą dėl kompensacijos mokėjimo ir jos dydžio. Kitas kompensacijos už buvusio nenustatytų teisių turėtojų kūrinio naudojimą mokėjimo sąlygas ir tvarką nustato Vyriausybės įgaliota institucija. ^s-50037298255ff7697d285d2f
 
 
-3. Kompensacija už buvusio nenustatytų teisių turėtojų kūrinio naudojimą mokama iš valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme šiam tikslui numatytų lėšų, kurių poreikis nustatomas atsižvelgus į [[#^s-50037298255ff7697d285d2f|šio straipsnio 2 dalyje]] nustatyta tvarka priimtus sprendimus dėl kompensacijų mokėjimo ir jų dydžio.“ ^s-1d240e8434a6875bbbe7580e
+3. Kompensacija už buvusio nenustatytų teisių turėtojų kūrinio naudojimą mokama iš valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme šiam tikslui numatytų lėšų, kurių poreikis nustatomas atsižvelgus į [[#^s-50037298255ff7697d285d2f|šio straipsnio 2 dalyje]] nustatyta tvarka priimtus sprendimus [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) mokėjimo ir jų dydžio.“ ^s-1d240e8434a6875bbbe7580e
 
 
 
 ### 4 straipsnis. Įstatymo 3 priedo pakeitimas ^s-b400d0cc4d3fef33078d8060
 
 
-Papildyti Įstatymo 3 priedą 10 punktu:
+Papildyti Įstatymo 3 priedą [[latest/TAR.551F0CDE5B64|10 punktu]]:
 
 
 „10. 2012 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2012/28/ES dėl tam tikro leistino nenustatytų teisių turėtojų kūrinių naudojimo (OL 2012 L 299, p. 5).“

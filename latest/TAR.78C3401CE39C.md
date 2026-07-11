@@ -140,7 +140,7 @@ Pakeisti [[#^s-cad30309298c485dda9fb746|3 straipsnį]] ir jį išdėstyti taip:
 ### 6 straipsnis. 21 straipsnio 2 dalies pakeitimas ^s-ef93ce298797174d66910e43
 
 
-Papildyti 21 straipsnio 2 dalį nauju [[#^s-80c1c98ede7e159b0aca66fc|7 punktu]], buvusius 7, 8, [[#^s-c400dd280e2d11cafa719894|9 punktus]] laikyti atitinkamai 8, 9, [[#^s-e38a2c72d4ad62f77c201265|10 punktais]] ir šią dalį išdėstyti taip:
+Papildyti 21 straipsnio 2 dalį nauju [[#^s-80c1c98ede7e159b0aca66fc|7 punktu]], buvusius 7, 8, 9 punktus laikyti atitinkamai 8, 9, 10 punktais ir šią dalį išdėstyti taip:
 
 
 „2. Meras:
@@ -288,7 +288,7 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 4) atlieka savivaldybės biudžeto vykdymo, savivaldybės biudžeto asignavimų valdytojų programų išlaidų sąmatų, savivaldybės biudžeto turto apskaitos ir finansinės atskaitomybės auditą; ^s-10aa727e2a1a98e7000f4b86
 
 
-5) Administracinių teisės pažeidimų kodekso nustatytais atvejais surašo administracinių teisės pažeidimų protokolus ir įstatymų nustatyta tvarka juos teikia nagrinėti savivaldybės tarybos Administracinei komisijai. ^s-73d29c4ebedab07636e29b81
+5) [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatytais atvejais surašo administracinių teisės pažeidimų protokolus ir įstatymų nustatyta tvarka juos teikia nagrinėti savivaldybės tarybos Administracinei komisijai. ^s-73d29c4ebedab07636e29b81
 
 
 
@@ -363,7 +363,7 @@ SAVIVALDYBĖS KONTROLĖ IR AUDITAS
 ### 12 straipsnis. Baigiamosios nuostatos ^s-7324ba6b657b7f55d8a71536
 
 
-1. Šio Įstatymo 1, 3, 4, 6, 7 ir [[#^s-77484c980a9e271455bec367|10 straipsniai]] įsigalioja nuo 2004 m. sausio 1 d. ^s-6d6fd81f5b516dbd24125fc5
+1. Šio Įstatymo [[#^s-ddbc3bd014080e411e2875f5|1]], [[#^s-cad30309298c485dda9fb746|3]], [[#^s-bc1267b3ee6c712b5486f250|4]], [[#^s-ef93ce298797174d66910e43|6]], [[#^s-67696e2f4b7b8f9ced95e99e|7]] ir [[#^s-77484c980a9e271455bec367|10]] straipsniai įsigalioja nuo 2004 m. sausio 1 d. ^s-6d6fd81f5b516dbd24125fc5
 
 
 2. Iki šio Įstatymo įsigaliojimo paskirtų savivaldybių kontrolierių jiems nustatyta kadencijos trukmė įsigaliojus šiam Įstatymui iš naujo nenustatoma. ^s-d09e34bbf14a0ea93cdf15f6

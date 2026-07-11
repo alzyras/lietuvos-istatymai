@@ -385,7 +385,7 @@ Viešojo administravimo subjekto vidaus administravimo kontrolės formos gali b�
 2. Įstatymų numatytą viešųjų paslaugų teikimą teritoriniu lygiu reglamentuoja pagal įgaliojimus savivaldybių administravimo subjektai ir teritoriniai valstybinio administravimo subjektai. ^s-c63eb9ae035bfdb732d06528
 
 
-3. Teritoriniai valstybinio administravimo subjektai negali dubliuoti ar keisti centrinių valstybinio administravimo subjektų viešųjų paslaugų teikimo reglamentavimo, tačiau gali jiems teikti siūlymus dėl viešųjų paslaugų teikimo tvarkos tobulinimo ar naujos viešosios paslaugos nustatymo. ^s-f9dc8b54c1c19082708892dc
+3. Teritoriniai valstybinio administravimo subjektai negali dubliuoti ar keisti centrinių valstybinio administravimo subjektų viešųjų paslaugų teikimo reglamentavimo, tačiau gali jiems teikti siūlymus [dėl viešųjų paslaugų teikimo](https://e-tar.lt/portal/lt/legalAct/2de2a1503d1a11e6bcc5c96b48152012) tvarkos tobulinimo ar naujos viešosios paslaugos nustatymo. ^s-f9dc8b54c1c19082708892dc
 
 
 4. Centriniai valstybinio administravimo subjektai negali reikalauti iš teritorinių valstybinio administravimo subjektų ir savivaldybių steigti viešąsias paslaugas teikiančias įstaigas, jeigu to nenumato įstatymai. ^s-5382095817a23414b98885a5

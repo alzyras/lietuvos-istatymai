@@ -54,7 +54,7 @@ BENDROSIOS NUOSTATOS
 2. Šiuo įstatymu siekiama užtikrinti Europos Sąjungos teisės aktų, nurodytų šio įstatymo priede, taikymą. ^s-968b9196466edface2ce7bb6
 
 
-3. Be šio įstatymo priede nurodytų įgyvendinamųjų teisės aktų, šis įstatymas Lietuvos Respublikoje taip pat taikomas kartu su 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1308/2013, kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007, su visais pakeitimais, 2001 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 999/2001, nustatančiu tam tikrų užkrečiamųjų spongiforminių encefalopatijų prevencijos, kontrolės ir likvidavimo taisykles, su visais pakeitimais, 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 528/2012 dėl biocidinių produktų tiekimo rinkai ir jų naudojimo su visais pakeitimais, 2003 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1946/2003 dėl genetiškai modifikuotų organizmų tarpvalstybinio judėjimo, 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų su visais pakeitimais, 2015 m. gegužės 19 d. Komisijos reglamentu (ES) 2015/786, kuriuo nustatomi Europos Parlamento ir Tarybos direktyvoje 2002/32/EB nustatytų gyvūnų pašarams skirtų produktų detoksikacijos procesų priimtinumo kriterijai. ^s-eedc3da78ad462d04492276a
+3. Be šio įstatymo priede nurodytų įgyvendinamųjų teisės aktų, šis įstatymas Lietuvos Respublikoje taip pat taikomas kartu su 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1308/2013](https://eur-lex.europa.eu/eli/reg/1308/2013/oj), kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007, su visais pakeitimais, 2001 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 999/2001, nustatančiu tam tikrų užkrečiamųjų spongiforminių encefalopatijų prevencijos, kontrolės ir likvidavimo taisykles, su visais pakeitimais, 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 528/2012 dėl biocidinių produktų tiekimo rinkai ir jų naudojimo su visais pakeitimais, 2003 m. liepos 15 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1946/2003](https://eur-lex.europa.eu/eli/reg/1946/2003/oj) dėl genetiškai modifikuotų organizmų tarpvalstybinio judėjimo, 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1829/2003](https://eur-lex.europa.eu/eli/reg/1829/2003/oj) dėl genetiškai modifikuoto maisto ir pašarų su visais pakeitimais, 2015 m. gegužės 19 d. Komisijos [reglamentu (ES) 2015/786](https://eur-lex.europa.eu/eli/reg/2015/786/oj), kuriuo nustatomi Europos Parlamento ir Tarybos direktyvoje 2002/32/EB nustatytų gyvūnų pašarams skirtų produktų detoksikacijos procesų priimtinumo kriterijai. ^s-eedc3da78ad462d04492276a
 Straipsnio dalies pakeitimai:
 Nr. XV-432, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16543
 
@@ -70,10 +70,10 @@ Nr. XV-432, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16543
 ### 3 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-757ab109c3344292dd9b09fa
 
 
-1. Genetiškai modifikuotas pašaras – kaip apibrėžta Reglamento (EB) Nr. 1829/2003 2 straipsnio 7 punkte. ^s-14aa70dcf24c6e1bc0226ee6
+1. Genetiškai modifikuotas pašaras – kaip apibrėžta [Reglamento (EB) Nr. 1829/2003 2 straipsnio](https://eur-lex.europa.eu/eli/reg/1829/2003/art_2/oj) 7 punkte. ^s-14aa70dcf24c6e1bc0226ee6
 
 
-2. Gyvūnas – kaip apibrėžta 2016 m. kovo 29 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/429 dėl užkrečiamųjų gyvūnų ligų, kuriuo iš dalies keičiami ir panaikinami tam tikri gyvūnų sveikatos srities aktai („Gyvūnų sveikatos teisės aktas“), [[#^s-545c240e08ea994a10805133|4 straipsnio 1 punkte]]. ^s-23019c2141734fb01eba667e
+2. Gyvūnas – kaip apibrėžta 2016 m. kovo 29 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/429](https://eur-lex.europa.eu/eli/reg/2016/429/oj) dėl užkrečiamųjų gyvūnų ligų, kuriuo iš dalies keičiami ir panaikinami tam tikri gyvūnų sveikatos srities aktai („Gyvūnų sveikatos teisės aktas“), [[#^s-545c240e08ea994a10805133|4 straipsnio 1 punkte]]. ^s-23019c2141734fb01eba667e
 
 
 3. Kombinuotasis pašaras – kaip apibrėžta Reglamento (EB) Nr. 767/2009 [[#^s-23019c2141734fb01eba667e|3 straipsnio 2 dalies]] h punkte. ^s-812dcdc588a5aea70e8dfc69
@@ -94,13 +94,13 @@ Nr. XV-432, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16543
 8. Pašaro papildas – kaip apibrėžta Reglamento (EB) Nr. 767/2009 [[#^s-23019c2141734fb01eba667e|3 straipsnio 2 dalies]] j punkte. ^s-7ca6a18ac38309d0d8ce4a03
 
 
-9. Pašaro priedas – kaip apibrėžta Reglamento (EB) Nr. 1831/2003 2 straipsnio 2 dalies a punkte. ^s-0356cfe411b7acfbbceedf17
+9. Pašaro priedas – kaip apibrėžta [Reglamento (EB) Nr. 1831/2003 2 straipsnio 2 dalies a punkte](https://eur-lex.europa.eu/eli/reg/1831/2003/art_2/par_2/lit_a/oj). ^s-0356cfe411b7acfbbceedf17
 
 
 10. Pašarų atsekamumas – kaip apibrėžta Reglamento (EB) Nr. 178/2002 3 straipsnio 15 punkte. ^s-cb6d80b33c06446ec061e218
 
 
-11. Pašarų įvežimas į Lietuvos Respubliką – pašarų įvežimas į Lietuvos Respublikos teritoriją iš teritorijų, nenurodytų Reglamento (ES) 2017/625 I priede, siekiant juos tiekti rinkai arba vežti per Europos Sąjungos teritoriją tranzitu. ^s-36507720a04a57b2de73d35a
+11. Pašarų įvežimas į Lietuvos Respubliką – pašarų įvežimas į Lietuvos Respublikos teritoriją iš teritorijų, nenurodytų [Reglamento (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj) I priede, siekiant juos tiekti rinkai arba vežti per Europos Sąjungos teritoriją tranzitu. ^s-36507720a04a57b2de73d35a
 
 
 12. Pašarų tiekimas mažais kiekiais vietinei rinkai – pirmine pašarų gamyba užsiimančių pašarų ūkio subjektų, kurių žemės ūkio naudmenos neviršija 3 ha, pagamintų pašarų tiekimas iš savo ūkio tiesiogiai vietinių ūkių reikmėms. ^s-e81d9f692c8245beced2ee21
@@ -121,7 +121,7 @@ Nr. XV-432, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16543
 
 
 
-17. Pašarų ūkio subjekto registravimas – teisės vykdyti kitą negu šio įstatymo [[#^s-82e9938a9113a4869ad13b6b|6 straipsnio]] 1 ar [[#^s-812dcdc588a5aea70e8dfc69|3 dalyse]] nurodytą pašarų tvarkymo veiklą suteikimas pašarų ūkio subjektui ir jo registravimas Pašarų ūkio subjektų registro informacinėje sistemoje. ^s-721dd66923fcc9b1b1bd7f2f
+17. Pašarų ūkio subjekto registravimas – teisės vykdyti kitą negu šio įstatymo [[#^s-82e9938a9113a4869ad13b6b|6 straipsnio]] [[#^s-efb6b7cb4b904176659c7a95|1]] ar [[#^s-7f420b53cbe1eb16d9a32cdb|3]] dalyse nurodytą pašarų tvarkymo veiklą suteikimas pašarų ūkio subjektui ir jo registravimas Pašarų ūkio subjektų registro informacinėje sistemoje. ^s-721dd66923fcc9b1b1bd7f2f
 
 Straipsnio dalies pakeitimai:
 Nr. XV-432, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16543
@@ -131,7 +131,7 @@ Nr. XV-432, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16543
 18. Pirminė pašarų gamyba – kaip apibrėžta Reglamento (EB) Nr. 183/2005 [[#^s-757ab109c3344292dd9b09fa|3 straipsnio]] f punkte. ^s-c819034ed0c481dd7a3c256f
 
 
-19. Premiksas – kaip apibrėžta Reglamento (EB) Nr. 1831/2003 2 straipsnio 2 dalies e punkte. ^s-a73df297ed441b9ad0f1554c
+19. Premiksas – kaip apibrėžta [Reglamento (EB) Nr. 1831/2003 2 straipsnio 2 dalies e punkte](https://eur-lex.europa.eu/eli/reg/1831/2003/art_2/par_2/lit_e/oj). ^s-a73df297ed441b9ad0f1554c
 
 
 20. Saugus pašaras – pašaras, kuris naudojamas įprastomis gamintojo nustatytomis ar galimomis iš anksto pagrįstai numatyti naudojimo sąlygomis, įskaitant ir kitokį gamintojo nurodytą naudojimą, nesukelia jokios rizikos arba gali kelti gyvūnų ir žmonių, turinčių sąlytį su pašarais, gyvybei ir sveikatai ne didesnę riziką negu ta, kuri teisės aktų nustatyta kaip leidžiama ir laikoma atitinkančia tinkamą šių gyvūnų ir žmonių, turinčių sąlytį su pašarais, apsaugą, kai įvertinta: ^s-9a9398594903c296031e8619
@@ -158,16 +158,16 @@ Nr. XV-432, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16543
 22. Specialusis pašaras – kaip apibrėžta Reglamento (EB) Nr. 767/2009 [[#^s-23019c2141734fb01eba667e|3 straipsnio 2 dalies]] o punkte. ^s-780a067a5f9a9657e692a56e
 
 
-23. Tarpinis produktas – kaip apibrėžta Reglamento (ES) 2019/4 [[#^s-23019c2141734fb01eba667e|3 straipsnio 2 dalies]] b punkte. ^s-72c69ce0266d6d24719dd3c8
+23. Tarpinis produktas – kaip apibrėžta [Reglamento (ES) 2019/4 3 straipsnio 2 dalies b punkte](https://eur-lex.europa.eu/eli/reg/2019/4/art_3/par_2/lit_b/oj). ^s-72c69ce0266d6d24719dd3c8
 
 
-24. Vaistinis pašaras – kaip apibrėžta Reglamento (ES) 2019/4 [[#^s-23019c2141734fb01eba667e|3 straipsnio 2 dalies]] a punkte. ^s-1c3c58063ab2f400e9e627b5
+24. Vaistinis pašaras – kaip apibrėžta [Reglamento (ES) 2019/4 3 straipsnio 2 dalies a punkte](https://eur-lex.europa.eu/eli/reg/2019/4/art_3/par_2/lit_a/oj). ^s-1c3c58063ab2f400e9e627b5
 
 
-25. Valstybinė pašarų priežiūra – Valstybinės maisto ir veterinarijos tarnybos veikla, apimanti metodinės pagalbos pašarų ūkio subjektams teikimą, prižiūrėjimą, kaip šie subjektai laikosi pašarų sritį reglamentuojančiuose teisės aktuose, įskaitant Reglamentą (ES) 2017/625, nustatytų reikalavimų, kontroliavimą, ar tinkamai tuos reikalavimus vykdo, ir kitų priemonių, kuriomis užtikrinamas tinkamas pašarų sritį reglamentuojančių teisės aktų reikalavimų laikymasis, įgyvendinimą. ^s-c0a8b836b1bbdd19bc7a326d
+25. Valstybinė pašarų priežiūra – Valstybinės maisto ir veterinarijos tarnybos veikla, apimanti metodinės pagalbos pašarų ūkio subjektams teikimą, prižiūrėjimą, kaip šie subjektai laikosi pašarų sritį reglamentuojančiuose teisės aktuose, įskaitant [Reglamentą (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj), nustatytų reikalavimų, kontroliavimą, ar tinkamai tuos reikalavimus vykdo, ir kitų priemonių, kuriomis užtikrinamas tinkamas pašarų sritį reglamentuojančių teisės aktų reikalavimų laikymasis, įgyvendinimą. ^s-c0a8b836b1bbdd19bc7a326d
 
 
-26. Kitos šiame įstatyme vartojamos sąvokos atitinka sąvokas, nurodytas Reglamento (ES) 2017/625 [[#^s-757ab109c3344292dd9b09fa|3 straipsnyje]], [[latest/TAR.97BDCD719E57|Lietuvos Respublikos veterinarijos įstatyme]], [[latest/TAR.4334D941D3DC|Lietuvos Respublikos pluoštinių kanapių įstatyme]], [[latest/TAR.303FC0152D04|Lietuvos Respublikos reklamos įstatyme]], [[latest/TAR.55FFE350795A|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme]]. ^s-d9d5383c273a9f6de8509321
+26. Kitos šiame įstatyme vartojamos sąvokos atitinka sąvokas, nurodytas [Reglamento (ES) 2017/625 3 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/625/art_3/oj), [[latest/TAR.97BDCD719E57|Lietuvos Respublikos veterinarijos įstatyme]], [[latest/TAR.4334D941D3DC|Lietuvos Respublikos pluoštinių kanapių įstatyme]], [[latest/TAR.303FC0152D04|Lietuvos Respublikos reklamos įstatyme]], [[latest/TAR.55FFE350795A|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme]]. ^s-d9d5383c273a9f6de8509321
 
 
 
@@ -215,10 +215,10 @@ Nr. XV-432, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16543
 3) Tarnybos direktoriaus įsakymu nustatyta tvarka patvirtina ir (arba) registruoja pašarų ūkio subjektus, kurie naudoja pašarų gamybai šalutinius gyvūninius produktus; ^s-41c466231984244b7076e7b1
 
 
-4) atrenka valstybinius pašarų mėginius, kuriuos tiria arba teisės aktų nustatyta tvarka perduoda tirti akredituotoms laboratorijoms, atliekančioms pašarų kokybės ir saugos rodiklių tyrimus, kaip nustatyta Reglamente (ES) 2017/625; ^s-0df208a48d682d16a5c31783
+4) atrenka valstybinius pašarų mėginius, kuriuos tiria arba teisės aktų nustatyta tvarka perduoda tirti akredituotoms laboratorijoms, atliekančioms pašarų kokybės ir saugos rodiklių tyrimus, kaip nustatyta [Reglamente (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj); ^s-0df208a48d682d16a5c31783
 
 
-5) tikrina pašarų ūkio subjektų savikontrolės sistemas, kaip nustatyta Reglamente (ES) 2017/625; ^s-bc5157071a1c2da5009e953a
+5) tikrina pašarų ūkio subjektų savikontrolės sistemas, kaip nustatyta [Reglamente (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj); ^s-bc5157071a1c2da5009e953a
 
 
 6) laikinai sustabdo arba uždraudžia gaminti, tiekti rinkai ir naudoti nesaugius pašarus ir imasi visų būtinų veiksmų, kad būtų užkirstas kelias nesaugių pašarų platinimui ateityje ir būtų apsaugota gyvūnų ir (ar) žmonių sveikata ir interesai; ^s-d19745023fb8ea70d4f179d8
@@ -227,7 +227,7 @@ Nr. XV-432, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16543
 7) ypatingomis aplinkybėmis, kai, įvertinus turimą informaciją, nustatoma kenksmingo poveikio gyvūnų ir (ar) žmonių sveikatai galimybė, imasi proporcingų ir neapribojančių prekybos daugiau negu reikia priemonių, ribojančių pašaro patiekimą rinkai, arba reikalauja pašalinti jį iš rinkos, siekiant apsaugoti gyvūnų ir žmonių sveikatą ir interesus; ^s-a63c5053dbe662a9b105868a
 
 
-8) vykdo tyčinio genetiškai modifikuotų organizmų išleidimo į aplinką pašarų gamybos tikslu valstybinę priežiūrą pagal Reglamento (ES) 2017/625 [[#^s-968b9196466edface2ce7bb6|1 straipsnio 2 dalies]] b punktą; ^s-468b906570368e337568369d
+8) vykdo tyčinio genetiškai modifikuotų organizmų išleidimo į aplinką pašarų gamybos tikslu valstybinę priežiūrą pagal [Reglamento (ES) 2017/625 1 straipsnio 2 dalies b punktą](https://eur-lex.europa.eu/eli/reg/2017/625/art_1/par_2/lit_b/oj); ^s-468b906570368e337568369d
 
 
 9) atlieka kitas su valstybine pašarų priežiūra susijusias šiame įstatyme ir kituose teisės aktuose nustatytas funkcijas. ^s-e823895f838d60a7fd1c6bc2
@@ -253,7 +253,7 @@ Nr. XV-432, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16543
 3. Pašarų ūkio subjektai patvirtinami ir (arba) registruojami, jų patvirtinimas ir (arba) registravimas sustabdomas, pakeičiamas arba atšaukiamas Reglamente (EB) Nr. 183/2005 ir žemės ūkio ministro tvirtinamose ūkio subjektų, kurie verčiasi su pašarais susijusia veikla, patvirtinimo taisyklėse arba ūkio subjektų, kurie verčiasi su pašarais susijusia veikla, registravimo taisyklėse nustatyta tvarka. ^s-c70841d6b3dd5f8709e64677
 
 
-4. Pašarų ūkio subjektų registro informacinės sistemos duomenys tvarkomi valstybinės pašarų priežiūros tikslais, laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) (toliau – Bendrasis duomenų apsaugos reglamentas) reikalavimų. ^s-5e9f758541a34f5cc12bcc4a
+4. Pašarų ūkio subjektų registro informacinės sistemos duomenys tvarkomi valstybinės pašarų priežiūros tikslais, laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) (toliau – Bendrasis duomenų apsaugos reglamentas) reikalavimų. ^s-5e9f758541a34f5cc12bcc4a
 
 
 5. Pašarų ūkio subjektų registro informacinės sistemos duomenys yra vieši, išskyrus asmens duomenis. ^s-644503f241b3fd4e59e18b31
@@ -270,7 +270,7 @@ Nr. XV-432, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16543
 1. Pašarų ūkio subjektai turi būti patvirtinti, jeigu: ^s-efb6b7cb4b904176659c7a95
 
 
-1) gamina ir (arba) tiekia rinkai pašarų priedus, kuriems taikomas Reglamentas (EB) Nr. 1831/2003 ir kurie nurodyti Reglamento (EB) Nr. 183/2005 IV priedo 1 skyriuje; ^s-61d0d50634b4cc6418abf85f
+1) gamina ir (arba) tiekia rinkai pašarų priedus, kuriems taikomas [Reglamentas (EB) Nr. 1831/2003](https://eur-lex.europa.eu/eli/reg/1831/2003/oj) ir kurie nurodyti Reglamento (EB) Nr. 183/2005 IV priedo 1 skyriuje; ^s-61d0d50634b4cc6418abf85f
 
 
 2) gamina ir (arba) tiekia rinkai premiksus, pagamintus naudojant pašarų priedus, nurodytus Reglamento (EB) Nr. 183/2005 IV priedo 2 skyriuje; ^s-33ad142e832b7946c27a08ca
@@ -301,10 +301,10 @@ d) riebalų maišymą;
 
 
 7) gamina, saugo, veža ar tiekia rinkai vaistinius pašarus ir tarpinius produktus. ^s-20f0e3ce2ea939622dce393b
-TAR pastaba. [[#^s-20f0e3ce2ea939622dce393b|6 straipsnio 1 dalies 7 punktas]] įsigalioja 2022 m. sausio 28 d.
+TAR pastaba. 6 straipsnio 1 dalies 7 punktas įsigalioja 2022 m. sausio 28 d.
 
 
-2.  Pašarų ūkio subjektai, vykdantys kitą negu šio straipsnio 1 ar [[#^s-7f420b53cbe1eb16d9a32cdb|3 dalyje]] nurodytą pašarų tvarkymo veiklą, turi būti registruoti. ^s-174afc0abe63c27d20f2e880
+2.  Pašarų ūkio subjektai, vykdantys kitą negu šio straipsnio [[#^s-efb6b7cb4b904176659c7a95|1]] ar [[#^s-7f420b53cbe1eb16d9a32cdb|3]] dalyje nurodytą pašarų tvarkymo veiklą, turi būti registruoti. ^s-174afc0abe63c27d20f2e880
 
 
 3. Patvirtinimo ir (arba) registravimo reikalavimas netaikomas ūkio subjektams, kurie: ^s-7f420b53cbe1eb16d9a32cdb
@@ -332,7 +332,7 @@ TAR pastaba. [[#^s-20f0e3ce2ea939622dce393b|6 straipsnio 1 dalies 7 punktas]] į
 1. Gaminami, laikomi, gabenami, naudojami ir tiekiami rinkai tik saugūs ir kokybiški pašarai. ^s-46637a8714f28c78dfed6561
 
 
-2. Jeigu nustatoma, kad pašarai neatitinka pašarų saugos reikalavimų, laikoma, kad visi pašarų partiją, siuntą ar krovinį sudarantys pašarai yra nesaugūs, išskyrus atvejus, kai, atlikus išsamų kitų tos partijos, siuntos ar krovinio pašarų vertinimą, nustatoma, kad likusioji pašarų partijos, siuntos ar krovinio dalis yra saugi. Jeigu įvežamų į Lietuvos Respubliką pašarų tikrinimo metu nustatoma, kad pašarai kelia riziką gyvūnų ir (ar) žmonių sveikatai, gyvūnų gerovei, genetiškai modifikuotų pašarų atveju ir aplinkai, taikomos Reglamento (ES) 2017/625 67 straipsnyje nustatytos priemonės. ^s-94bde266359ea7aa99fc5599
+2. Jeigu nustatoma, kad pašarai neatitinka pašarų saugos reikalavimų, laikoma, kad visi pašarų partiją, siuntą ar krovinį sudarantys pašarai yra nesaugūs, išskyrus atvejus, kai, atlikus išsamų kitų tos partijos, siuntos ar krovinio pašarų vertinimą, nustatoma, kad likusioji pašarų partijos, siuntos ar krovinio dalis yra saugi. Jeigu įvežamų į Lietuvos Respubliką pašarų tikrinimo metu nustatoma, kad pašarai kelia riziką gyvūnų ir (ar) žmonių sveikatai, gyvūnų gerovei, genetiškai modifikuotų pašarų atveju ir aplinkai, taikomos [Reglamento (ES) 2017/625 67 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/625/art_67/oj) nustatytos priemonės. ^s-94bde266359ea7aa99fc5599
 
 
 3. Tik patvirtinti ir (arba) registruoti pašarų ūkio subjektai gali tvarkyti pašarus, juos įvežti į Lietuvos Respubliką ar eksportuoti, vadovaudamiesi šiame įstatyme, jo priede nurodytų ir kitų teisės aktų reikalavimais, išskyrus šio įstatymo [[#^s-7f420b53cbe1eb16d9a32cdb|6 straipsnio 3 dalyje]] numatytas išimtis. ^s-6334c747a707a5851784f316
@@ -344,7 +344,7 @@ TAR pastaba. [[#^s-20f0e3ce2ea939622dce393b|6 straipsnio 1 dalies 7 punktas]] į
 5. Pašarai turi būti gaminami ir (ar) laikomi laikantis Reglamento (EB) Nr. 183/2005 nuostatų. ^s-5947625b0c67aebfccca68cc
 
 
-6. Pašarai, išskyrus pašarų priedus ir premiksus, turi būti tiekiami ir ženklinami laikantis Reglamento (EB) Nr. 767/2009 reikalavimų. Pašarų priedai ir premiksai turi būti tiekiami ir ženklinami laikantis Reglamento (EB) Nr. 1831/2003 reikalavimų. ^s-dad8eb26b7822812f4d486df
+6. Pašarai, išskyrus pašarų priedus ir premiksus, turi būti tiekiami ir ženklinami laikantis Reglamento (EB) Nr. 767/2009 reikalavimų. Pašarų priedai ir premiksai turi būti tiekiami ir ženklinami laikantis [Reglamento (EB) Nr. 1831/2003](https://eur-lex.europa.eu/eli/reg/1831/2003/oj) reikalavimų. ^s-dad8eb26b7822812f4d486df
 
 
 7. Pašarai gabenami nepažeidžiant Reglamento (EB) Nr. 183/2005 ir kitų teisės aktų reikalavimų, kad būtų užtikrinta jų kokybė ir sauga. ^s-820d33a47ba6aa91671d1be5
@@ -353,13 +353,13 @@ TAR pastaba. [[#^s-20f0e3ce2ea939622dce393b|6 straipsnio 1 dalies 7 punktas]] į
 8. Pašarai turi būti naudojami pagal ženklinimo etiketėje nurodytą paskirtį, nepažeidžiant tinkamumo naudoti termino. ^s-67cd8c7a99f639b43485e234
 
 
-9. Pašarų, valstybinės pašarų priežiūros institucijos pripažintų pavojingais gyvūnų ir (ar) žmonių sveikatai ir (ar) aplinkai, taip pat galinčiais turėti neigiamos įtakos gyvūninio maisto kokybei ir saugai, kenksmingumo šalinimas atliekamas vadovaujantis Reglamento (ES) 2015/786 nuostatomis arba šie pašarai tvarkomi kaip atliekos atliekų tvarkymą reglamentuojančių teisės aktų nustatyta tvarka, išskyrus pašarus, kurių sudėtyje yra šalutinių gyvūninių produktų ar jų gaminių ir kurie tvarkomi vadovaujantis šalutinių gyvūninių produktų tvarkymą reglamentuojančiais teisės aktais. ^s-47d0fab21a770456a3980f47
+9. Pašarų, valstybinės pašarų priežiūros institucijos pripažintų pavojingais gyvūnų ir (ar) žmonių sveikatai ir (ar) aplinkai, taip pat galinčiais turėti neigiamos įtakos gyvūninio maisto kokybei ir saugai, kenksmingumo šalinimas atliekamas vadovaujantis [Reglamento (ES) 2015/786](https://eur-lex.europa.eu/eli/reg/2015/786/oj) nuostatomis arba šie pašarai tvarkomi kaip atliekos atliekų tvarkymą reglamentuojančių teisės aktų nustatyta tvarka, išskyrus pašarus, kurių sudėtyje yra šalutinių gyvūninių produktų ar jų gaminių ir kurie tvarkomi vadovaujantis šalutinių gyvūninių produktų tvarkymą reglamentuojančiais teisės aktais. ^s-47d0fab21a770456a3980f47
 
 
 10. Pašarų ūkio subjektams draudžiama užsiimti nesąžininga ar klaidinančia veikla, dėl kurios vykdymo taikoma šio įstatymo [[#^s-7514d9e3b5e9df1179447220|21 straipsnyje]] nustatyta atsakomybė. ^s-7567afc41ba686a68d68bb89
 
 
-11. Ekologiški pašarai gaminami vadovaujantis 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/848 dėl ekologinės gamybos ir ekologiškų produktų ženklinimo, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 834/2007, ir žemės ūkio ministro įsakymu nustatyta tvarka. Už ekologiškų pašarų gamybos valstybinę priežiūrą atsakinga Žemės ūkio ministerija, už ekologiškų pašarų ženklinimo priežiūrą ir jų priežiūrą rinkoje atsakinga Tarnyba. ^s-17f63e55a49a41f3d00db305
+11. Ekologiški pašarai gaminami vadovaujantis 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2018/848](https://eur-lex.europa.eu/eli/reg/2018/848/oj) dėl ekologinės gamybos ir ekologiškų produktų ženklinimo, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 834/2007, ir žemės ūkio ministro įsakymu nustatyta tvarka. Už ekologiškų pašarų gamybos valstybinę priežiūrą atsakinga Žemės ūkio ministerija, už ekologiškų pašarų ženklinimo priežiūrą ir jų priežiūrą rinkoje atsakinga Tarnyba. ^s-17f63e55a49a41f3d00db305
 
 
 
@@ -371,7 +371,7 @@ PAŠARŲ EKSPORTO, ĮVEŽIMO Į LIETUVOS RESPUBLIKĄ REIKALAVIMAI
 ### 8 straipsnis. Pašarų eksportas, įvežimas į Lietuvos Respubliką ^s-0eec77f72532c1c5f79b6f33
 
 
-1. Pašarai eksportuojami, įvežami į Lietuvos Respubliką, įskaitant vežimą tranzitu, vadovaujantis šio įstatymo, 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas, su visais pakeitimais, Reglamento (ES) 2017/625, [[latest/TAR.97BDCD719E57|Veterinarijos įstatymo]], kitų įstatymų ir teisės aktų nuostatomis, taip pat tarptautinėmis sutartimis. ^s-d5a110ebfd548abd618b1dde
+1. Pašarai eksportuojami, įvežami į Lietuvos Respubliką, įskaitant vežimą tranzitu, vadovaujantis šio įstatymo, 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos [muitinės kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), su visais pakeitimais, [Reglamento (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj), [[latest/TAR.97BDCD719E57|Veterinarijos įstatymo]], kitų įstatymų ir teisės aktų nuostatomis, taip pat tarptautinėmis sutartimis. ^s-d5a110ebfd548abd618b1dde
 
 
 2. Pašarus įvežti į Lietuvos Respubliką, išskyrus vežimą tranzitu, ir (ar) eksportuoti gali tik Lietuvoje arba kitoje Europos Sąjungos valstybėje narėje patvirtinti ir (arba) registruoti pašarų ūkio subjektai. ^s-c6a53f600837c0dcadc82801
@@ -386,7 +386,7 @@ PAŠARŲ EKSPORTO, ĮVEŽIMO Į LIETUVOS RESPUBLIKĄ REIKALAVIMAI
 2) įvežami iš valstybės ar jos regiono, kuriame nustatyta pavojinga gyvūnų užkrečiamoji liga ar yra kitų veiksnių, kenkiančių pašarų saugai, gyvūnų ir (ar) žmonių sveikatai ir aplinkai. ^s-183f86450848b337a305dac2
 
 
-4. Genetiškai modifikuoti pašarai įvežami į Lietuvos Respubliką ir eksportuojami vadovaujantis Reglamento (EB) Nr. 1829/2003, Reglamento (EB) Nr. 1946/2003 ir kitų teisės aktų reikalavimais. ^s-11cb06254d0461100d2cf40a
+4. Genetiškai modifikuoti pašarai įvežami į Lietuvos Respubliką ir eksportuojami vadovaujantis [Reglamento (EB) Nr. 1829/2003](https://eur-lex.europa.eu/eli/reg/1829/2003/oj), [Reglamento (EB) Nr. 1946/2003](https://eur-lex.europa.eu/eli/reg/1946/2003/oj) ir kitų teisės aktų reikalavimais. ^s-11cb06254d0461100d2cf40a
 
 
 
@@ -398,7 +398,7 @@ VALSTYBINĖ PAŠARŲ PRIEŽIŪRA IR ADMINISTRAVIMAS
 ### 9 straipsnis. Valstybinė pašarų priežiūra ir pranešimai apie padarytus ar galimus pašarų tvarkymą reglamentuojančių teisės aktų pažeidimus ^s-6040606a8deb85092794564c
 
 
-1. Valstybinė pašarų priežiūra vykdoma taikant Reglamento (ES) 2017/625 [[#^s-b8d76d27bf352b6000667dec|14 straipsnyje]] nustatytus metodus ir priemones. ^s-0b39b567e3d47c047d67fd4d
+1. Valstybinė pašarų priežiūra vykdoma taikant [Reglamento (ES) 2017/625 14 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/625/art_14/oj) nustatytus metodus ir priemones. ^s-0b39b567e3d47c047d67fd4d
 
 
 2. Valstybinė pašarų kontrolė, pagrįsta rizikos vertinimu, atliekama Tarnybos direktoriaus nustatyta tvarka reguliariai, be išankstinio pranešimo (išskyrus atvejus, kai išankstinis pranešimas yra būtinas ir pagrįstas siekiant tinkamai atlikti valstybinę pašarų kontrolę), taip pat kilus įtarimui, kad buvo pažeisti šio įstatymo ir kitų pašarų tvarkymą reglamentuojančių teisės aktų reikalavimai. Valstybinės pašarų kontrolės metodai turi atitikti jos tikslus. Tarnyba, gavusi pašarų ūkio subjekto prašymą atlikti valstybinę pašarų kontrolę, sprendžia, ar valstybinė pašarų kontrolė turi būti atliekama iš anksto įspėjus, ar ne. Jeigu nusprendžiama vykdyti valstybinę pašarų kontrolę iš anksto įspėjus, toks sprendimas nepanaikina galimybės vykdyti valstybinę pašarų kontrolę iš anksto neįspėjus. ^s-803b9d9367a60692a98f0f8c
@@ -426,7 +426,7 @@ Nr. XV-432, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16543
 1. Tarnybos pareigūnai, vykdydami valstybinę pašarų priežiūrą, be teisių, nustatytų kituose įstatymuose ir kituose teisės aktuose, turi teisę: ^s-3652f8f30c955a68f6aa5128
 
 
-1) taikyti Reglamento (ES) 2017/625 [[#^s-b8d76d27bf352b6000667dec|14 straipsnyje]] nustatytus oficialios kontrolės metodus ir priemones; ^s-f2828605a5a16c4eea317456
+1) taikyti [Reglamento (ES) 2017/625 14 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/625/art_14/oj) nustatytus oficialios kontrolės metodus ir priemones; ^s-f2828605a5a16c4eea317456
 
 
 2) nekliudomi patekti į pašarų ūkio subjektų patalpas ar teritoriją, kurioje tvarkomi pašarai, pašarų ūkio subjekto darbo valandomis; ^s-ae6900f374ecac35cd1a0b83
@@ -450,7 +450,7 @@ Nr. XV-432, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16543
 8) imti pašarų ir kitų medžiagų (valiklių, biocidinių ar kitų produktų), kurios gali turėti įtakos pašarų kokybei ir saugai, mėginius laboratoriniams tyrimams; ^s-911844a807f78d3bd59749dd
 
 
-9) atlikti šios dalies 3, 4, 5, 7 ir [[#^s-911844a807f78d3bd59749dd|8 punktuose]] nustatytus veiksmus tik turėdami teismo leidimą, išduotą vadovaujantis [[#^s-670a18b754324de2f767e718|šio straipsnio 2 dalimi]], jeigu pašarų ūkio subjektas ar kitas asmuo trukdo ar vengia, kad jo veikla būtų tikrinama, ir yra pagrindo manyti, kad jis pažeidžia šio įstatymo ir kitų pašarų tvarkymą reglamentuojančių teisės aktų reikalavimus. ^s-d37f21d3f344213f427a9a2a
+9) atlikti šios dalies [[#^s-c2e644303f533af4d435bc06|3]], [[#^s-bbee233c4b31b6f38948ccd3|4]], [[#^s-1533941a6226e121bdfc6df3|5]], [[#^s-da87d152def8c5f3efe537a0|7]] ir [[#^s-911844a807f78d3bd59749dd|8]] punktuose nustatytus veiksmus tik turėdami teismo leidimą, išduotą vadovaujantis [[#^s-670a18b754324de2f767e718|šio straipsnio 2 dalimi]], jeigu pašarų ūkio subjektas ar kitas asmuo trukdo ar vengia, kad jo veikla būtų tikrinama, ir yra pagrindo manyti, kad jis pažeidžia šio įstatymo ir kitų pašarų tvarkymą reglamentuojančių teisės aktų reikalavimus. ^s-d37f21d3f344213f427a9a2a
 
 
 2. Prašymas išduoti leidimą atlikti [[#^s-d37f21d3f344213f427a9a2a|šio straipsnio 1 dalies 9 punkte]] nurodytus veiksmus pateikiamas Regionų administraciniam teismui. Regionų administracinis teismas prašymą išnagrinėja ir priima motyvuotą nutartį prašymą patenkinti arba atmesti. Regionų administracinis teismas išnagrinėja prašymą ir priima motyvuotą nutartį prašymą patenkinti arba atmesti ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo momento. Jeigu Tarnyba nesutinka su Regionų administracinio teismo sprendimu atmesti prašymą, ji turi teisę per 7 darbo dienas apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Regionų administracinio teismo nutarties ne vėliau kaip per 7 darbo dienas. Tarnybos įgaliotas pareigūnas ir (arba) Tarnybos atstovas turi teisę dalyvauti Lietuvos vyriausiajame administraciniame teisme nagrinėjant skundą žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti atitinkamus veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. ^s-670a18b754324de2f767e718
@@ -559,7 +559,7 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO NUOSTATŲ PAŽEIDIMĄ TAIKYMO TVARKA
 Tarnyba už šio įstatymo ir kitų pašarų tvarkymą reglamentuojančių teisės aktų pažeidimus:
 
 
-1) pašarų ūkio subjektams taiko Reglamento (ES) 2017/625 138 straipsnio 2 dalyje nustatytas poveikio priemones, skiria įspėjimą arba šiame įstatyme nustatytas pinigines baudas; ^s-7c33b3fa3f5a3a54ec7bbf14
+1) pašarų ūkio subjektams taiko [Reglamento (ES) 2017/625 138 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2017/625/art_138/par_2/oj) nustatytas poveikio priemones, skiria įspėjimą arba šiame įstatyme nustatytas pinigines baudas; ^s-7c33b3fa3f5a3a54ec7bbf14
 
 
 2) pašarų ūkio subjektams fiziniams asmenims ar pašarų ūkio subjektų paskirtiems juridinių asmenų vadovams ar kitiems atsakingiems asmenims skiria Administracinių nusižengimų kodekse nustatytas administracines nuobaudas. ^s-b1795e789b91bcaa621c54b9
@@ -615,7 +615,7 @@ Tarnyba už šio įstatymo ir kitų pašarų tvarkymą reglamentuojančių teis�
 5) pašaro pavojingas savybes nulėmė nenugalima jėga. ^s-6e23184d7db76d66371cc8e9
 
 
-2. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudos vidurkį ir šio straipsnio 3 ir [[#^s-b81ff01c6187769a1928b96b|4 dalyse]] nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. ^s-ce766f05051bfe45d6424c44
+2. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudos vidurkį ir šio straipsnio [[#^s-768ab05d5a67fea3f8d3003f|3]] ir [[#^s-b81ff01c6187769a1928b96b|4]] dalyse nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. ^s-ce766f05051bfe45d6424c44
 
 
 3. Skiriant nuobaudą, lengvinančiomis aplinkybėmis yra laikomos šios aplinkybės: ^s-768ab05d5a67fea3f8d3003f
@@ -652,7 +652,7 @@ Tarnyba už šio įstatymo ir kitų pašarų tvarkymą reglamentuojančių teis�
 ### 17 straipsnis. Baudų ir įspėjimų už pašarų saugos pažeidimus skyrimo terminas ^s-2e8ced997caeab06ddcdcf4c
 
 
-Šio įstatymo 15 ir [[#^s-7514d9e3b5e9df1179447220|21 straipsniuose]] nustatyta nuobauda gali būti paskirta ne vėliau kaip per dvejus metus nuo pažeidimo padarymo dienos, o trunkamojo pažeidimo atveju – per dvejus metus nuo jo paaiškėjimo dienos.
+Šio įstatymo [[#^s-7fbf9bf63c7421a5996db567|15]] ir [[#^s-7514d9e3b5e9df1179447220|21]] straipsniuose nustatyta nuobauda gali būti paskirta ne vėliau kaip per dvejus metus nuo pažeidimo padarymo dienos, o trunkamojo pažeidimo atveju – per dvejus metus nuo jo paaiškėjimo dienos.
 
 
 
@@ -700,10 +700,10 @@ Tarnyba už šio įstatymo ir kitų pašarų tvarkymą reglamentuojančių teis�
 ### 20 straipsnis. Baudų išieškojimas ^s-2e50c2a619d59330f2f1d5b5
 
 
-1. Paskirtos baudos, nustatytos šio įstatymo [[#^s-7fbf9bf63c7421a5996db567|15 straipsnyje]], į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kurią pažeidėjas gavo nutarimą dėl baudos už pašarų saugos pažeidimus skyrimo. Įvertinusi atsakomybėn traukiamo pašarų ūkio subjekto finansinę padėtį ir kitas reikšmingas aplinkybes, jo rašytiniu prašymu Tarnyba, kai pašarų ūkio subjektas pateikia finansinę padėtį ar kitas reikšmingas aplinkybes pagrindžiančius įrodymus, priimdama nutarimą dėl baudos už pašarų saugos pažeidimus skyrimo ir atsižvelgdama į gautą rašytinį prašymą dėl baudos mokėjimo dalimis ir skiriamos baudos dydį, gali leisti paskirtą baudą sumokėti dalimis per nustatytą ne ilgesnį kaip dvejų metų laikotarpį. Po nutarimo dėl baudos už pašarų saugos pažeidimus skyrimo priėmimo paskirtos baudos mokėjimo tvarkos klausimai sprendžiami [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] nustatyta tvarka. ^s-e225be6af0a68664073c4ae1
+1. Paskirtos baudos, nustatytos šio įstatymo [[#^s-7fbf9bf63c7421a5996db567|15 straipsnyje]], į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kurią pažeidėjas gavo nutarimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) už pašarų saugos pažeidimus skyrimo. Įvertinusi atsakomybėn traukiamo pašarų ūkio subjekto finansinę padėtį ir kitas reikšmingas aplinkybes, jo rašytiniu prašymu Tarnyba, kai pašarų ūkio subjektas pateikia finansinę padėtį ar kitas reikšmingas aplinkybes pagrindžiančius įrodymus, priimdama nutarimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) už pašarų saugos pažeidimus skyrimo ir atsižvelgdama į gautą rašytinį prašymą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) mokėjimo dalimis ir skiriamos baudos dydį, gali leisti paskirtą baudą sumokėti dalimis per nustatytą ne ilgesnį kaip dvejų metų laikotarpį. Po nutarimo [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) už pašarų saugos pažeidimus skyrimo priėmimo paskirtos baudos mokėjimo tvarkos klausimai sprendžiami [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] nustatyta tvarka. ^s-e225be6af0a68664073c4ae1
 
 
-2. Tarnybos nutarimas dėl baudos už pašarų saugos reikalavimų pažeidimus skyrimo yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatyme]] ir Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka. ^s-54a1c16c386f002712f8cfa7
+2. Tarnybos nutarimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) už pašarų saugos reikalavimų pažeidimus skyrimo yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatyme]] ir [Lietuvos Respublikos civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-54a1c16c386f002712f8cfa7
 Straipsnio dalies pakeitimai:
 Nr. XV-885, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08212
 
@@ -724,7 +724,7 @@ Nr. XV-885, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08212
 4. Jeigu dėl [[#^s-92c32af8e48cf88b07560bf8|šio straipsnio 1 dalyje]] nurodytų pažeidimų buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių arba padaryta žalos ir šių pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 arba [[#^s-273582c94920f55fea309a22|3 dalyje]] nurodytus baudų dydžius, Tarnyba turi teisę skirti baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių arba padarytos žalos dydžio. ^s-6b3c572ee2507b0ed2c079b2
 
 
-5. Skiriamos baudos dydis nustatomas atsižvelgiant į šio straipsnio 6 ir [[#^s-30d6279e5ef52ab9d79609d1|7 dalyse]] nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Jeigu nustatomos vien lengvinančios ar kitos asmens padėtį gerinančios aplinkybės, baudos dydis yra mažinamas, o jeigu nustatomos vien sunkinančios ar kitos asmens padėtį bloginančios aplinkybės, baudos dydis yra didinamas. Kai yra ir atsakomybę lengvinančių ar kitų asmens padėtį gerinančių, ir atsakomybę sunkinančių ar kitų asmens padėtį bloginančių aplinkybių, baudos dydis mažinamas arba didinamas atsižvelgiant į aplinkybių skaičių ir reikšmingumą. ^s-69ce63ec9a979b38aaed7b50
+5. Skiriamos baudos dydis nustatomas atsižvelgiant į šio straipsnio [[#^s-035c7706141f12e839addbaa|6]] ir [[#^s-30d6279e5ef52ab9d79609d1|7]] dalyse nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Jeigu nustatomos vien lengvinančios ar kitos asmens padėtį gerinančios aplinkybės, baudos dydis yra mažinamas, o jeigu nustatomos vien sunkinančios ar kitos asmens padėtį bloginančios aplinkybės, baudos dydis yra didinamas. Kai yra ir atsakomybę lengvinančių ar kitų asmens padėtį gerinančių, ir atsakomybę sunkinančių ar kitų asmens padėtį bloginančių aplinkybių, baudos dydis mažinamas arba didinamas atsižvelgiant į aplinkybių skaičių ir reikšmingumą. ^s-69ce63ec9a979b38aaed7b50
 
 
 6. Skiriant baudą, lengvinančiomis aplinkybėmis yra laikomos aplinkybės, nurodytos šio įstatymo [[#^s-768ab05d5a67fea3f8d3003f|16 straipsnio 3 dalyje]]. ^s-035c7706141f12e839addbaa
@@ -733,7 +733,7 @@ Nr. XV-885, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08212
 7. Skiriant baudą, sunkinančiomis aplinkybėmis yra laikomos aplinkybės, nurodytos šio įstatymo [[#^s-b81ff01c6187769a1928b96b|16 straipsnio 4 dalyje]]. ^s-30d6279e5ef52ab9d79609d1
 
 
-8. Šiame straipsnyje nurodytas pažeidimas nagrinėjamas, Tarnybos nutarimas dėl paskirtos baudos skundžiamas, baudos išieškomos šio įstatymo 18, 19 ir [[#^s-2e50c2a619d59330f2f1d5b5|20 straipsniuose]] nustatyta tvarka. ^s-c4653231f80a60b46baba7a7
+8. Šiame straipsnyje nurodytas pažeidimas nagrinėjamas, Tarnybos nutarimas dėl paskirtos baudos skundžiamas, baudos išieškomos šio įstatymo [[#^s-7f6cb23035b6cba157b544b3|18]], [[#^s-b8df1bb0b81cfbacb007b3a3|19]] ir [[#^s-2e50c2a619d59330f2f1d5b5|20]] straipsniuose nustatyta tvarka. ^s-c4653231f80a60b46baba7a7
 
 
 
@@ -771,19 +771,19 @@ priedas
 1. 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 178/2002, nustatantis maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiantis Europos maisto saugos tarnybą ir nustatantis su maisto saugos klausimais susijusias procedūras. ^s-f59eafe966b7d00b9b7ffd56
 
 
-2. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1831/2003 dėl priedų, skirtų naudoti gyvūnų mityboje. ^s-eb6fd1e6fee6d4e7c8ceeb1a
+2. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1831/2003](https://eur-lex.europa.eu/eli/reg/1831/2003/oj) dėl priedų, skirtų naudoti gyvūnų mityboje. ^s-eb6fd1e6fee6d4e7c8ceeb1a
 
 
 3. 2005 m. sausio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 183/2005, nustatantis pašarų higienos reikalavimus. ^s-5164f8c3a84518f9f828e82f
 
 
-4. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 767/2009 dėl pašarų tiekimo rinkai ir naudojimo, iš dalies keičiantis Reglamentą (EB) Nr. 1831/2003 ir panaikinantis Direktyvas 79/373/EEB, 80/511/EEB, 82/471/EEB, 83/228/EB, 93/74/EEB, 93/113/EB, 96/25/EB bei Sprendimą 2004/217/EB. ^s-0fb484e0214d6459f0cdaa30
+4. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 767/2009 dėl pašarų tiekimo rinkai ir naudojimo, iš dalies keičiantis [Reglamentą (EB) Nr. 1831/2003](https://eur-lex.europa.eu/eli/reg/1831/2003/oj) ir panaikinantis Direktyvas 79/373/EEB, 80/511/EEB, 82/471/EEB, 83/228/EB, 93/74/EEB, 93/113/EB, 96/25/EB bei Sprendimą 2004/217/EB. ^s-0fb484e0214d6459f0cdaa30
 
 
-5. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/625 dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB, ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas). ^s-40ae2914e7ef43596a85f413
+5. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj) dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB, ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas). ^s-40ae2914e7ef43596a85f413
 
 
-6. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/4 dėl vaistinių pašarų gamybos, pateikimo rinkai ir naudojimo, kuriuo iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 183/2005 ir panaikinama Tarybos direktyva 90/167/EEB. ^s-8e8b27490c5e1ee42ee30f00
+6. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2019/4](https://eur-lex.europa.eu/eli/reg/2019/4/oj) dėl vaistinių pašarų gamybos, pateikimo rinkai ir naudojimo, kuriuo iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 183/2005 ir panaikinama Tarybos direktyva 90/167/EEB. ^s-8e8b27490c5e1ee42ee30f00
 
 
 
@@ -818,9 +818,9 @@ Lietuvos Respublikos pašarų įstatymo Nr. VIII-1610 pakeitimo įstatymas
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-885, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08212
-Lietuvos Respublikos pašarų įstatymo Nr. VIII-1610 10 ir [[#^s-2e50c2a619d59330f2f1d5b5|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pašarų įstatymo Nr. VIII-1610 [[#^s-049ec3573c30fc0d441d857d|10]] ir [[#^s-2e50c2a619d59330f2f1d5b5|20]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-432, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16543
-Lietuvos Respublikos pašarų įstatymo Nr. VIII-1610 1, 3, 4, 5, [[#^s-6040606a8deb85092794564c|9 straipsnių]] ir III skyriaus pavadinimo pakeitimo įstatymas
+Lietuvos Respublikos pašarų įstatymo Nr. VIII-1610 [[#^s-682c4b8dfb7720cd5e575305|1]], [[#^s-757ab109c3344292dd9b09fa|3]], [[#^s-5c19c64e0004662b63746a9d|4]], [[#^s-5c3c96e2a93e0aa6b34bc74c|5]], [[#^s-6040606a8deb85092794564c|9]] straipsnių ir III skyriaus pavadinimo pakeitimo įstatymas

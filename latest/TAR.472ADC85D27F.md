@@ -45,7 +45,7 @@ Vilnius
 1. Papildyti [[#^s-c24e336362e0eec66368a8f1|2 straipsnį]] nauja 7 dalimi: ^s-e6fc52433e64459de1c12e6c
 
 
-„7. Europos draudimo ir profesinių pensijų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48), įsteigta institucija.“
+„7. Europos draudimo ir profesinių pensijų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48), įsteigta institucija.“
 
 
 2. Buvusias [[#^s-c24e336362e0eec66368a8f1|2 straipsnio]] 7–31 dalis laikyti atitinkamai 8–32 dalimis. ^s-2ecb6f5e11bf07a9d4efc4ce
@@ -68,7 +68,7 @@ Papildyti 5 straipsnį 4 dalimi:
 Papildyti 52 straipsnį 8 dalimi:
 
 
-„8. Priežiūros institucija, vykdydama šiame įstatyme nustatytas funkcijas, pagal Reglamentą (ES) Nr. 1094/2010 bendradarbiauja su Europos draudimo ir profesinių pensijų institucija ir teikia jai visą jos užduotims vykdyti būtiną informaciją.“
+„8. Priežiūros institucija, vykdydama šiame įstatyme nustatytas funkcijas, pagal [Reglamentą (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj) bendradarbiauja su Europos draudimo ir profesinių pensijų institucija ir teikia jai visą jos užduotims vykdyti būtiną informaciją.“
 
 
 

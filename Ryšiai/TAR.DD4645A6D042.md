@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.55FFE350795A#^s-457dc4ef0dec53c7f1b024b6|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - 3 citatos - 1131010ISTA0XII-317
-- [[latest/TAR.55FFE350795A#^s-58a7cacc732931092301fe06|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - 3 citatos - 1131010ISTA0XII-317
+- [[latest/TAR.55FFE350795A#^s-58a7cacc732931092301fe06|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - 2 citatos - 1131010ISTA0XII-317

@@ -90,7 +90,7 @@ Vilnius
 ### 3 straipsnis. VVP išleidimas ^s-1ac8b4f51e9bf771adfe62fa
 
 
-1. Vyriausybė [[#^s-fa5e367b066e9610ff53e348|2 straipsnio 1 dalies]] 2 ir 3 punktuose nustatytoms prievolėms įvykdyti išleidžia iki 400 mln. litų dešimties metų trukmės vieno lito nominalios vertės ilgalaikius VVP. ^s-1c660ba46726e8aceeba4df9
+1. Vyriausybė [[#^s-fa5e367b066e9610ff53e348|2 straipsnio 1 dalies]] [[#^s-3b0e237a51d246a1da20f48c|2]] ir [[#^s-1d44e085cf9283e88e998460|3]] punktuose nustatytoms prievolėms įvykdyti išleidžia iki 400 mln. litų dešimties metų trukmės vieno lito nominalios vertės ilgalaikius VVP. ^s-1c660ba46726e8aceeba4df9
 
 
 2. [[#^s-1c660ba46726e8aceeba4df9|Šio straipsnio 1 dalyje]] nustatytų išleidžiamų VVP antrinė apyvarta draudžiama. ^s-5de469d00844da90b1fe7fc2
@@ -112,7 +112,7 @@ Vilnius
 2) išmokant daugiabučių namų savininkų bendrijoms, gyvenamojo namo statybos bendrijoms, gyvenamojo namo eksploatavimo bendrijoms, visuomeninėms organizacijoms, disponuojančioms iš gyventojų (fizinių asmenų) surinktomis bei kitaip iš jų gautomis ir banke šiuo metu įšaldytomis lėšomis, taip pat invalidų draugijoms, religinėms bendruomenėms, užsienio valstybių ambasadoms, labdaros ir paramos fondams, veikiantiems pagal Lietuvos Respublikos labdaros ir paramos fondų įstatymą ar pagal kitų valstybių atitinkamus įstatymus, pagal sąskaitas, nurodytas [[#^s-7c88e7c03137d8432a58cd72|2 straipsnio 1 dalies 4 punkte]], visą lėšų sumą iki 1998 m. gruodžio 31 d.; ^s-88a32da6b100d51b9990e598
 
 
-3) išperkant pagal [[#^s-fa5e367b066e9610ff53e348|2 straipsnio 1 dalies]] 2 ir 3 punktus išleistus VVP iš fizinių asmenų nuo 1999 m. sausio 1 d. proporcingai per trejus metus, o iš juridinių asmenų bei įmonių, neturinčių juridinio asmens teisių, – ne anksčiau kaip po 5 metų nuo VVP išleidimo proporcingai per 5 metus. ^s-9ada94b93bab8fde0a83a506
+3) išperkant pagal [[#^s-fa5e367b066e9610ff53e348|2 straipsnio 1 dalies]] [[#^s-3b0e237a51d246a1da20f48c|2]] ir [[#^s-1d44e085cf9283e88e998460|3]] punktus išleistus VVP iš fizinių asmenų nuo 1999 m. sausio 1 d. proporcingai per trejus metus, o iš juridinių asmenų bei įmonių, neturinčių juridinio asmens teisių, – ne anksčiau kaip po 5 metų nuo VVP išleidimo proporcingai per 5 metus. ^s-9ada94b93bab8fde0a83a506
 
 
 2. Su kitais kreditoriais atsiskaitoma 5 straipsnio 2 dalyje nustatyta tvarka. ^s-6c5af1e5a81073da296bf5df
@@ -151,7 +151,7 @@ VVP turėtojai, gavę juos šio įstatymo nustatyta tvarka, turės teisę juos p
 ### 7 straipsnis. LAIB prievolių jo kreditoriams pasibaigimas ^s-3a2961e748c808de4e8c2de3
 
 
-1. [[#^s-fa5e367b066e9610ff53e348|2 straipsnio 1 dalyje]] nurodytiems banko kreditoriams LAIB prievolės laikomos įvykdytomis, kai Vyriausybės nustatyta tvarka jiems atidaromos [[#^s-fa5e367b066e9610ff53e348|2 straipsnio 1 dalies]] 1 ir 4 punktuose nurodytos sąskaitos bei vertybinių popierių sąskaitos, įskaitant į jas pagal [[#^s-fa5e367b066e9610ff53e348|2 straipsnio 1 dalies]] 2 ir 3 punktus išleistus VVP, ir paskelbiama apie tai „Valstybės žiniose“. ^s-df68b4bf5893f8bf179ef911
+1. [[#^s-fa5e367b066e9610ff53e348|2 straipsnio 1 dalyje]] nurodytiems banko kreditoriams LAIB prievolės laikomos įvykdytomis, kai Vyriausybės nustatyta tvarka jiems atidaromos [[#^s-fa5e367b066e9610ff53e348|2 straipsnio 1 dalies]] [[#^s-57dbf1b92b7a773ce3f831c0|1]] ir [[#^s-7c88e7c03137d8432a58cd72|4]] punktuose nurodytos sąskaitos bei vertybinių popierių sąskaitos, įskaitant į jas pagal [[#^s-fa5e367b066e9610ff53e348|2 straipsnio 1 dalies]] [[#^s-3b0e237a51d246a1da20f48c|2]] ir [[#^s-1d44e085cf9283e88e998460|3]] punktus išleistus VVP, ir paskelbiama apie tai „Valstybės žiniose“. ^s-df68b4bf5893f8bf179ef911
 
 
 2. LAIB prievolės iš valstybės ir savivaldybių biudžetų išlaikomoms įstaigoms ir organizacijoms pasibaigia šio įstatymo įsigaliojimo dieną. ^s-8c4f9ba685539749ca59369a

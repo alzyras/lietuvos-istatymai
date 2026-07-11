@@ -9,10 +9,9 @@ pavadinimas: "Lietuvos Respublikos laukinės gyvūnijos įstatymo 4, 8, 10 ir 24
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - 5 citatos - Aplinkos apsaugos rėmimo programos įstatymo
-- [[latest/TAR.9F274C93E483|Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas]] - 6 citatos - „Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo“
+- [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - 4 citatos - Aplinkos apsaugos rėmimo programos įstatymo
+- [[latest/TAR.9F274C93E483|Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas]] - 9 citatos - Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.08F2F39FF20B#^s-0672b10b9b779d29385766a5|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - 3 citatos - 1031010ISTA0IX-1614
-- [[latest/TAR.08F2F39FF20B#^s-f0b2711fa5c7215b81d5af36|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - 3 citatos - 1031010ISTA0IX-1614
+- [[latest/TAR.08F2F39FF20B#^s-0672b10b9b779d29385766a5|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - 2 citatos - 1031010ISTA0IX-1614

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-c7ea65208773e122febe761c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. rugsėjo 4 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Gruzijos Vyriausybės susitarimą dėl oro susisiekimo“, ratifikuoja 1996 m. balandžio 12 d. Tbilisyje pasirašytą Lietuvos Respublikos Vyriausybės ir Gruzijos Vyriausybės susitarimą dėl oro susisiekimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. rugsėjo 4 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Gruzijos Vyriausybės susitarimą dėl oro susisiekimo“](https://e-tar.lt/portal/lt/legalAct/TAR.C06A45CD8E3F), ratifikuoja 1996 m. balandžio 12 d. Tbilisyje pasirašytą Lietuvos Respublikos Vyriausybės ir Gruzijos Vyriausybės susitarimą dėl oro susisiekimo.
 
 
 

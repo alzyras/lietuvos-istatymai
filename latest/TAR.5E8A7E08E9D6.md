@@ -122,7 +122,7 @@ Pakeisti ir papildyti [[#^s-9452bdb83a4015ac632eedf3|5 straipsnį]] ir jį išd�
 3. Asmeniui, kuriam buvo apribota gyvenamosios vietos pasirinkimo teisė (uždrausta grįžti ir gyventi Lietuvoje), pateikus Lietuvos Aukščiausiojo Teismo, Generalinės prokuratūros prie Lietuvos Aukščiausiojo Teismo ir Vidaus reikalų ministerijos bei kitų valstybių įgaliotų institucijų išduotus dokumentus, kad nėra duomenų apie šio apribojimo panaikinimo datą, leidimo grįžti ir gyventi data 5 straipsnio 1 dalyje ir 2 dalies 1 punkte išvardytais atvejais laikoma faktinio grįžimo į Lietuvą data, bet ne vėlesnė kaip iki 1990 m. kovo 11 d. ^s-961cef796c2c36868496a56d
 
 
-4. Šio straipsnio 1 ir [[#^s-6189f7537dfcbd4d6664ca6c|2 dalyse]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens-tremtinio teisinis statusas.” ^s-56be5d00807ae48027e70258
+4. Šio straipsnio [[#^s-2d129a414f05aa51e932a318|1]] ir [[#^s-6189f7537dfcbd4d6664ca6c|2]] dalyse išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens-tremtinio teisinis statusas.” ^s-56be5d00807ae48027e70258
 
 
 
@@ -192,7 +192,7 @@ Papildyti Įstatymą 71 straipsniu:
 ### 7 straipsnis. 8 straipsnio pakeitimas ir papildymas ^s-556f9a7f66fd348760dbb453
 
 
-Pakeisti 8 straipsnio 1 dalį, papildyti straipsnį nauja [[#^s-2ecc01c1a7a2c43a1d449eee|2 dalimi]], buvusias 2 ir [[#^s-dfd16e640bf65aaa200f6414|3 dalis]] laikyti 3 ir [[#^s-dc4b7160950e82440940fc65|4 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 8 straipsnio 1 dalį, papildyti straipsnį nauja [[#^s-2ecc01c1a7a2c43a1d449eee|2 dalimi]], buvusias 2 ir 3 dalis laikyti 3 ir 4 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-9d488c7cee8195cba062bbc1|8 straipsnis]]. Įstatymo taikymas

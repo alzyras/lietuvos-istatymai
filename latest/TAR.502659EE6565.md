@@ -181,7 +181,7 @@ Papildyti Įstatymą 71 straipsniu:
 
 
 
-„71 straipsnis. Šio įstatymo 6 ir [[#^s-24413f5ec4608aff2e1a2f87|7 straipsnių]] taikymo išimtys
+„71 straipsnis. Šio įstatymo [[#^s-69e6d3d4e8dcdc5ba31993f7|6]] ir [[#^s-24413f5ec4608aff2e1a2f87|7]] straipsnių taikymo išimtys
 
 
 Gamintojai ir importuotojai, per ataskaitinį laikotarpį Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5 tonos pakuočių, atleidžiami nuo šio įstatymo [[#^s-69e6d3d4e8dcdc5ba31993f7|6 straipsnyje]] nustatytos pareigos atsiskaityti ir nuo šio įstatymo [[#^s-a3b32b4200f068dbb9c0f6fa|7 straipsnio 3 dalyje]] nustatytos pareigos mokėti mokestį už aplinkos teršimą pakuočių atliekomis.“
@@ -274,7 +274,7 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 ### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-ab9cb3c7ad34d649e45104b5
 
 
-1. Šio įstatymo 3 ir [[#^s-24413f5ec4608aff2e1a2f87|7 straipsniai]] įsigalioja 2013 m. sausio 1 d. ^s-4ee16553e8fb6feda220d596
+1. Šio įstatymo [[#^s-723f42a31ba8fefd9a99167e|3]] ir [[#^s-24413f5ec4608aff2e1a2f87|7]] straipsniai įsigalioja 2013 m. sausio 1 d. ^s-4ee16553e8fb6feda220d596
 
 
 2. Lietuvos Respublikos Vyriausybė ir kitos šiame įstatyme nurodytos institucijos, atsižvelgdamos į [[#^s-4ee16553e8fb6feda220d596|šio straipsnio 1 dalies]] nuostatas, priima šio įstatymo įgyvendinamuosius teisės aktus iki 2012 m. liepos 1 d. ^s-7156dd029c8cde62b92e45d1

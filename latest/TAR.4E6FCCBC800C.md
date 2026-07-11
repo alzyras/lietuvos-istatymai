@@ -85,7 +85,7 @@ Vilnius
 ### 4 straipsnis. Reikalavimai akcijų paketų savininkams ^s-4596d7205e48055cfdc7d0da
 
 
-1. Kiekvienam akcinės bendrovės „Mažeikių nafta“ akcininkui, išskyrus valstybę ir strateginį investuotoją, kartu su jo kontroliuojamais subjektais, kurių sąvoką apibrėžia Vertybinių popierių viešosios apyvartos įstatymas, negali priklausyti šios bendrovės akcijų paketas, suteikiantis daugiau kaip 24 procentus balsų. ^s-2dc7216f54ebda5433b40b60
+1. Kiekvienam akcinės bendrovės „Mažeikių nafta“ akcininkui, išskyrus valstybę ir strateginį investuotoją, kartu su jo kontroliuojamais subjektais, kurių sąvoką apibrėžia [Vertybinių popierių viešosios apyvartos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D), negali priklausyti šios bendrovės akcijų paketas, suteikiantis daugiau kaip 24 procentus balsų. ^s-2dc7216f54ebda5433b40b60
 
 
 2. Valstybė turi pirmumo teisę įsigyti kitų akcininkų, kuriems nuosavybės teise priklauso ne mažiau kaip 1 procentas po reorganizavimo tęsiančios veiklą akcinės bendrovės „Mažeikių nafta“ akcijų, parduodamas ar kitaip perleidžiamas šios bendrovės akcijas. Vyriausybė turi teisę nustatyti tokią pat pirmumo teisę ir strateginiam investuotojui. ^s-863b644c8828c7f72743bed4

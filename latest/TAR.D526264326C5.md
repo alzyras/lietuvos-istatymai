@@ -45,10 +45,10 @@ Vilnius
 „1. Asmeninio ūkio žeme laikoma žemė, kuri pagal įstatymus buvo suteikta ir fizinių asmenų naudojama asmeniniam ūkiui.“
 
 
-2. Papildyti 15 straipsnį naujomis 2, 3, 4 ir [[#^s-36ac417c50c7a254d6ac2daf|5 dalimis]]: ^s-2a2c188549d0a0b3ff33cd43
+2. Papildyti 15 straipsnį naujomis 2, 3, 4 ir 5 dalimis: ^s-2a2c188549d0a0b3ff33cd43
 
 
-„2. Jeigu asmeninio ūkio žemės suteikimo dokumentų neišliko arba asmeninio ūkio žemės suteikimas apylinkės teritorijoje 1990 m. liepos 26 d. – 1994 m. liepos 1 d. laikotarpiu apylinkės tarybos sprendimu buvo įformintas kaip žemės nuoma, arba dėl pareigūnų biurokratizmo apylinkės taryba priėmė sprendimą dėl asmeninio ūkio žemės suteikimo 1994 m. liepos 1 d. – 1995 m. kovo 26 d. laikotarpiu, asmeninio ūkio žemės suteikimą ir fizinio asmens naudojamos asmeninio ūkio žemės plotą ne vėliau kaip iki 2004 m. gruodžio 31 d. sprendimu patvirtina apskrities viršininkas, jeigu nėra norinčiųjų šią žemę susigrąžinti natūra (išskyrus atvejus, kai toje vietoje asmeninio ūkio naudotojas ar jo šeimos narys buvo gavęs sodybinės žemės sklypą iki 0,6 ha ir juo naudojasi nuo 1990 metų ar anksčiau) arba ši žemė nėra privati nuosavybė ir jeigu žemės naudotojas iki Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl kaimo gyventojų sodybinių sklypų išplėtimo“ (1990 m. liepos 26 d. Nr. I-411) įsigaliojimo buvo įrašytas į apylinkės ūkinę knygą, be to, jei:
+„2. Jeigu asmeninio ūkio žemės suteikimo dokumentų neišliko arba asmeninio ūkio žemės suteikimas apylinkės teritorijoje 1990 m. liepos 26 d. – 1994 m. liepos 1 d. laikotarpiu apylinkės tarybos sprendimu buvo įformintas kaip žemės nuoma, arba dėl pareigūnų biurokratizmo apylinkės taryba priėmė sprendimą dėl asmeninio ūkio žemės suteikimo 1994 m. liepos 1 d. – 1995 m. kovo 26 d. laikotarpiu, asmeninio ūkio žemės suteikimą ir fizinio asmens naudojamos asmeninio ūkio žemės plotą ne vėliau kaip iki 2004 m. gruodžio 31 d. sprendimu patvirtina apskrities viršininkas, jeigu nėra norinčiųjų šią žemę susigrąžinti natūra (išskyrus atvejus, kai toje vietoje asmeninio ūkio naudotojas ar jo šeimos narys buvo gavęs sodybinės žemės sklypą iki 0,6 ha ir juo naudojasi nuo 1990 metų ar anksčiau) arba ši žemė nėra privati nuosavybė ir jeigu žemės naudotojas iki Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo [„Dėl kaimo gyventojų sodybinių sklypų išplėtimo“](https://e-tar.lt/portal/lt/legalAct/TAR.CB1DCDDB40A8) (1990 m. liepos 26 d. Nr. I-411) įsigaliojimo buvo įrašytas į apylinkės ūkinę knygą, be to, jei:
 
 
 1) fizinis asmuo iki 1991 m. lapkričio 1 d. dirbo to rajono žemės ūkio įmonėje, gyveno kaimo vietovėje ir iki šiol naudoja iki 3 ha žemės ūkio naudmenų; ^s-9c5c3ef59b00e322533a156e
@@ -75,7 +75,7 @@ Vilnius
 5. Apskrities viršininko sprendimas patvirtinti asmeninio ūkio žemės suteikimą ir fizinio asmens naudojamos asmeninio ūkio žemės plotą gali būti skundžiamas [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka.“ ^s-36ac417c50c7a254d6ac2daf
 
 
-3. Buvusias šio straipsnio 2, 3, 4, 5, 6, 7 ir 8 dalis laikyti atitinkamai 6, 7, 8, 9, 10, 11 ir 12 dalimis. ^s-1dc0135c358bb25a9cfb1521
+3. Buvusias šio straipsnio [[#^s-2a2c188549d0a0b3ff33cd43|2]], 3, [[#^s-63342ee1121c9585774d3634|4]], [[#^s-36ac417c50c7a254d6ac2daf|5]], 6, 7 ir 8 dalis laikyti atitinkamai 6, 7, 8, 9, 10, 11 ir 12 dalimis. ^s-1dc0135c358bb25a9cfb1521
 
 
 

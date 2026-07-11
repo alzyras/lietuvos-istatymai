@@ -78,7 +78,7 @@ Pakeisti 27 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
 2. Pakeisti 45 straipsnio 4 punktą ir jį išdėstyti taip: ^s-142fa5174531bce37c8db831
 
 
-„4) suvartojama asmens, turinčio veiklos licencijas ir (arba) leidimus, nustatytus [[latest/TAR.F57794B7899F|Elektros energetikos įstatyme]] (toliau – licencijuotas asmuo), arba elektros energijos gamintojo savoms reikmėms. Elektros energijos suvartojimu savoms reikmėms yra laikomas elektros energijos sunaudojimas kitiems tikslams negu elektros energijos gamybos procesams ir gamybos procesui palaikyti.“
+„4) suvartojama asmens, turinčio veiklos licencijas ir (arba) leidimus, nustatytus [[latest/TAR.F57794B7899F|Elektros energetikos įstatyme]] (toliau – [[latest/TAR.F57794B7899F|licencijuotas asmuo]]), arba elektros energijos gamintojo savoms reikmėms. Elektros energijos suvartojimu savoms reikmėms yra laikomas elektros energijos sunaudojimas kitiems tikslams negu elektros energijos gamybos procesams ir gamybos procesui palaikyti.“
 
 
 

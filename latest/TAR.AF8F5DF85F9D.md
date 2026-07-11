@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir jos protokolų ratifikavimas ^s-81d7b201c3393166d47737ac
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 14 d. dekretą Nr. 339, ratifikuoja:
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. sausio 14 d. dekretą Nr. 339](https://e-tar.lt/portal/lt/legalAct/TAR.0F65F9342E41), ratifikuoja:
 
 
 1) Konvenciją dėl Europos Bendrijų finansinių interesų apsaugos, parengtą vadovaujantis Europos Sąjungos sutarties K.[[#^s-a51afcf658e537f16cbce3f7|3 straipsniu]], priimtą 1995 m. liepos 26 d. Briuselyje; ^s-092614501e9147c8065a88ae

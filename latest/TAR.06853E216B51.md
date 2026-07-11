@@ -56,7 +56,7 @@ Pakeisti [[#^s-a0bf7bcdca8c972d9f035b92|15 straipsnio 2 dalį]] ir ją išdėsty
 1. 19 straipsnio 1 dalies 4 punkte vietoj žodžių „metinės finansinės atskaitomybės“ įrašyti žodžius „metinių finansinių ataskaitų rinkinio“ ir šį punktą išdėstyti taip: ^s-28898dcea13f4480a3fb5dd5
 
 
-„4) pateikia visuotiniam narių susirinkimui savo išvadas ir pasiūlymus dėl metinių finansinių ataskaitų rinkinio, pelno paskirstymo ir (ar) nuostolių atlyginimo projektų bei valdybos parengtos Centrinės kredito unijos veiklos ataskaitos, taip pat dėl audito tarnybos ir auditoriaus nustatytų pažeidimų bei kitų trūkumų;“.
+„4) pateikia visuotiniam narių susirinkimui savo išvadas ir pasiūlymus dėl metinių finansinių ataskaitų rinkinio, pelno paskirstymo ir (ar) nuostolių atlyginimo projektų bei valdybos parengtos Centrinės kredito unijos veiklos ataskaitos, taip pat [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) tarnybos ir auditoriaus nustatytų pažeidimų bei kitų trūkumų;“.
 
 
 2. 19 straipsnio 8 dalyje vietoj žodžių „finansinę atskaitomybę“ įrašyti žodžius „finansines ataskaitas“ ir šią dalį išdėstyti taip: ^s-3a12b9e832ec63d4992a8407

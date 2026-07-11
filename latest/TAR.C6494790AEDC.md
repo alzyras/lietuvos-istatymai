@@ -192,7 +192,7 @@ Asmuo nelaikomas nepriekaištingos reputacijos, jeigu jis:
 4) pažeidė nepriekaištingos reputacijos reikalavimą, jeigu pagal teisės aktus asmeniui toks reikalavimas taikomas, dėl to turėjo nutraukti vykdomą veiklą ir po tokio veiklos nutraukimo nepraėjo 3 metai; ^s-07d58a343ff1dad69c2f794a
 
 
-5) buvo audito įmonės, kuri neteko audito įmonės pažymėjimo ir buvo išbraukta iš audito įmonių sąrašo, vadovas tuo metu, kai susidarė aplinkybės, dėl kurių audito įmonė neteko audito įmonės pažymėjimo ir buvo išbraukta iš audito įmonių sąrašo, ir nuo audito įmonės pažymėjimo netekimo ir išbraukimo iš audito įmonių sąrašo nepraėjo 3 metai. Šis punktas netaikomas, jeigu audito įmonė buvo išbraukta iš audito įmonių sąrašo šio įstatymo 22 straipsnio 1 dalies 1, 2 ir [[#^s-9591d2195bdbbd8dd69dd4f5|3 punktuose]] nurodytais pagrindais.“ ^s-f15c543e6fa188aeaad05e74
+5) buvo audito įmonės, kuri neteko audito įmonės pažymėjimo ir buvo išbraukta iš audito įmonių sąrašo, vadovas tuo metu, kai susidarė aplinkybės, dėl kurių audito įmonė neteko audito įmonės pažymėjimo ir buvo išbraukta iš audito įmonių sąrašo, ir nuo audito įmonės pažymėjimo netekimo ir išbraukimo iš audito įmonių sąrašo nepraėjo 3 metai. Šis punktas netaikomas, jeigu audito įmonė buvo išbraukta iš audito įmonių sąrašo šio įstatymo 22 straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytais pagrindais.“ ^s-f15c543e6fa188aeaad05e74
 
 
 
@@ -242,10 +242,10 @@ Pakeisti [[#^s-2851c11ec9d618fdbd80c5b3|16 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-2851c11ec9d618fdbd80c5b3|16 straipsnis]]. Auditoriaus vardo suteikimas valstybių ne narių auditoriams, auditoriaus pažymėjimo galiojimo sustabdymas, auditoriaus vardo netekimas ir auditoriaus pažymėjimo galiojimo panaikinimas
 
 
-1. Audito ir apskaitos tarnyba nustato auditoriaus vardo suteikimo tvarką valstybių ne narių auditoriams. Valstybės ne narės auditoriui, kuriam teisė atlikti auditą suteikta valstybėje ne narėje, kuriai Europos Komisijos sprendimu suteiktas pereinamasis laikotarpis, ir kuris siekia auditoriaus vardo, taikomas reikalavimas būti išlaikiusiam žinių patikrinimo egzaminą, atitinkantį šio įstatymo 15 straipsnio 3 dalyje nustatytus reikalavimus, taip pat reikalavimas įrodyti, kad jis atitinka šio įstatymo [[#^s-0673300b23051c17a652b550|8 straipsnio]] 1, 2, 3 punktų ir [[#^s-79aa57865e08755a7448e5cd|9 straipsnio]] reikalavimus. Valstybės ne narės auditoriui, kuriam teisė atlikti auditą suteikta valstybėje ne narėje, kuriai Europos Komisijos sprendimu pereinamasis laikotarpis nėra suteiktas, ir kuris siekia auditoriaus vardo Lietuvos Respublikoje, auditoriaus vardas suteikiamas, jeigu jis atitinka 8, 9 ir [[#^s-8d37ff078677ade90d630f5d|11 straipsnių]] reikalavimus. ^s-3cf1301a6f5efb301c32c24a
+1. Audito ir apskaitos tarnyba nustato auditoriaus vardo suteikimo tvarką valstybių ne narių auditoriams. Valstybės ne narės auditoriui, kuriam teisė atlikti auditą suteikta valstybėje ne narėje, kuriai Europos Komisijos sprendimu suteiktas pereinamasis laikotarpis, ir kuris siekia auditoriaus vardo, taikomas reikalavimas būti išlaikiusiam žinių patikrinimo egzaminą, atitinkantį šio įstatymo 15 straipsnio 3 dalyje nustatytus reikalavimus, taip pat reikalavimas įrodyti, kad jis atitinka šio įstatymo [[#^s-0673300b23051c17a652b550|8 straipsnio]] 1, 2, 3 punktų ir [[#^s-79aa57865e08755a7448e5cd|9 straipsnio]] reikalavimus. Valstybės ne narės auditoriui, kuriam teisė atlikti auditą suteikta valstybėje ne narėje, kuriai Europos Komisijos sprendimu pereinamasis laikotarpis nėra suteiktas, ir kuris siekia auditoriaus vardo Lietuvos Respublikoje, auditoriaus vardas suteikiamas, jeigu jis atitinka [[#^s-0673300b23051c17a652b550|8]], [[#^s-79aa57865e08755a7448e5cd|9]] ir [[#^s-8d37ff078677ade90d630f5d|11]] straipsnių reikalavimus. ^s-3cf1301a6f5efb301c32c24a
 
 
-2. Auditoriaus pažymėjimo galiojimas valstybių ne narių, nurodytų [[#^s-3cf1301a6f5efb301c32c24a|šio straipsnio 1 dalyje]], auditoriams sustabdomas arba auditoriaus vardas atimamas ir auditoriaus pažymėjimo galiojimas panaikinamas tais pačiais pagrindais ir ta pačia tvarka, kuri nustatyta šio įstatymo 13 ir [[#^s-28cf9e11d1979459c171298e|14 straipsniuose]], taip pat kai valstybės ne narės, kuriai Europos Komisijos sprendimu suteiktas pereinamasis laikotarpis, kompetentinga institucija, kuri suteikė teisę atlikti auditą, sustabdo arba panaikina šią teisę. Sprendimus dėl auditoriaus vardo sustabdymo ir panaikinimo priima Audito ir apskaitos tarnyba.“ ^s-637c9ab20201a07c51b85b78
+2. Auditoriaus pažymėjimo galiojimas valstybių ne narių, nurodytų [[#^s-3cf1301a6f5efb301c32c24a|šio straipsnio 1 dalyje]], auditoriams sustabdomas arba auditoriaus vardas atimamas ir auditoriaus pažymėjimo galiojimas panaikinamas tais pačiais pagrindais ir ta pačia tvarka, kuri nustatyta šio įstatymo [[#^s-5354059a9af43b8df877e574|13]] ir [[#^s-28cf9e11d1979459c171298e|14]] straipsniuose, taip pat kai valstybės ne narės, kuriai Europos Komisijos sprendimu suteiktas pereinamasis laikotarpis, kompetentinga institucija, kuri suteikė teisę atlikti auditą, sustabdo arba panaikina šią teisę. Sprendimus dėl auditoriaus vardo sustabdymo ir panaikinimo priima Audito ir apskaitos tarnyba.“ ^s-637c9ab20201a07c51b85b78
 
 
 
@@ -267,7 +267,7 @@ Pakeisti [[#^s-2851c11ec9d618fdbd80c5b3|16 straipsnį]] ir jį išdėstyti taip:
 2. Pakeisti [[#^s-482e32497d6b73dd06ec4420|17 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-94678d37d463c5b23398bf75
 
 
-„3. Auditorių rūmai, gavę visus dokumentus, nurodytus [[#^s-94678d37d463c5b23398bf75|šio straipsnio 2 dalyje]], Juridinių asmenų registre patikrina įmonės įregistravimą ir kitus duomenis, ir įsitikinę, kad įmonė atitinka šio įstatymo 18, 19 ir [[#^s-16e434bf0fc36c2a01d81660|20 straipsnių]] reikalavimus, sprendimą dėl audito įmonės įrašymo į audito įmonių sąrašą priima per 20 darbo dienų nuo dokumentų, nurodytų [[#^s-94678d37d463c5b23398bf75|šio straipsnio 2 dalyje]], pateikimo dienos. Auditorių rūmai išsiunčia įmonei, siekiančiai būti įrašytai į audito įmonių sąrašą, priimto sprendimo kopiją ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos. Auditorių rūmai apie priimtą sprendimą informuoja Audito ir apskaitos tarnybą su ja raštu suderinta tvarka.“
+„3. Auditorių rūmai, gavę visus dokumentus, nurodytus šio straipsnio 2 dalyje, Juridinių asmenų registre patikrina įmonės įregistravimą ir kitus duomenis, ir įsitikinę, kad įmonė atitinka šio įstatymo [[#^s-8ae81d360fc46377aa98727c|18]], [[#^s-e47420d0f16d10d7879214fe|19]] ir [[#^s-16e434bf0fc36c2a01d81660|20]] straipsnių reikalavimus, sprendimą [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) įmonės įrašymo į audito įmonių sąrašą priima per 20 darbo dienų nuo dokumentų, nurodytų šio straipsnio 2 dalyje, pateikimo dienos. Auditorių rūmai išsiunčia įmonei, siekiančiai būti įrašytai į audito įmonių sąrašą, priimto sprendimo kopiją ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos. Auditorių rūmai apie priimtą sprendimą informuoja Audito ir apskaitos tarnybą su ja raštu suderinta tvarka.“
 
 
 3. Papildyti 17 straipsnį 6 dalimi: ^s-5fc3b48d6dd7ad92b2fac708
@@ -384,7 +384,7 @@ Pakeisti 23 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 Pakeisti 27 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Auditą gali atlikti tik auditorius, kuris dirba audito įmonėje arba audito veikla verčiasi savarankiškai, ir valstybių narių, ir valstybių ne narių auditorius, kuriam teisė atlikti auditą suteikta šio įstatymo 15 ir [[#^s-2851c11ec9d618fdbd80c5b3|16 straipsniuose]] nustatyta tvarka.“
+„1. Auditą gali atlikti tik auditorius, kuris dirba audito įmonėje arba audito veikla verčiasi savarankiškai, ir valstybių narių, ir valstybių ne narių auditorius, kuriam teisė atlikti auditą suteikta šio įstatymo [[#^s-1fd03026a244fce79f71a037|15]] ir [[#^s-2851c11ec9d618fdbd80c5b3|16]] straipsniuose nustatyta tvarka.“
 
 
 
@@ -418,13 +418,13 @@ Pakeisti 32 straipsnio 3 dalį ir ją išdėstyti taip:
 „5) nuomonė, ar įmonės metiniame pranešime (konsoliduotajame metiniame pranešime) pateikti finansiniai duomenys atitinka metinių finansinių ataskaitų (metinių konsoliduotųjų finansinių ataskaitų) duomenis, – jeigu audituojama įmonė turi rengti metinį pranešimą teisės aktų nustatyta tvarka, arba nuomonė, ar įmonės veiklos ataskaitoje pateikti duomenys atitinka metinių finansinių ataskaitų duomenis, – jeigu audituojama įmonė turi pateikti veiklos ataskaitą teisės aktų nustatyta tvarka arba veiklos ataskaitą parengia savo nuožiūra.“
 
 
-2. Papildyti 33 straipsnį nauja [[#^s-d7b6d23916e7ca43f324abf5|2 dalimi]]: ^s-d7b6d23916e7ca43f324abf5
+2. Papildyti 33 straipsnį nauja 2 dalimi: ^s-d7b6d23916e7ca43f324abf5
 
 
 „2. Be reikalavimų, nustatytų šio straipsnio 1 dalyje, auditoriaus išvadoje turi būti pateikiama tarptautiniuose audito standartuose nurodyta informacija.“
 
 
-3. Buvusią 33 straipsnio 2 dalį laikyti [[#^s-e4a3885ed6b625665fba8e20|3 dalimi]], ją pakeisti ir išdėstyti taip: ^s-e4a3885ed6b625665fba8e20
+3. Buvusią 33 straipsnio 2 dalį laikyti 3 dalimi, ją pakeisti ir išdėstyti taip: ^s-e4a3885ed6b625665fba8e20
 
 
 „3. Auditoriaus išvadą pasirašo auditą atlikęs auditorius, paskirtas atlikti auditą, kaip nurodyta šio įstatymo 30 straipsnio 1 punkte, taip pat nurodoma auditoriaus išvados data.“

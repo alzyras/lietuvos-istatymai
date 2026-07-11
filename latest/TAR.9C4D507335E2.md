@@ -113,7 +113,7 @@ Vilnius
 ### 3 straipsnis. 34 straipsnio 2, 3 ir 4 dalių pakeitimas ^s-7512583107ab1bff96556bb5
 
 
-Pakeisti 34 straipsnio 2, 3 ir [[#^s-99b7d7e772e9258fae263689|4 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 34 straipsnio 2, 3 ir 4 dalis ir visą straipsnį išdėstyti taip:
 
 
 „34 straipsnis. Gaminių ar pakuotės atliekų tvarkymo programa
@@ -122,7 +122,7 @@ Pakeisti 34 straipsnio 2, 3 ir [[#^s-99b7d7e772e9258fae263689|4 dalis]] ir visą
 1. Atliekų tvarkymo finansavimo galimybėms padidinti sudaroma Gaminių ar pakuotės atliekų tvarkymo programa (toliau – Programa). ^s-1853b848a2d67a8f87ccc259
 
 
-2. Programos lėšas sudaro [[latest/TAR.FFF9AE9162EE|Mokesčio už aplinkos teršimą įstatyme]] nustatytas mokestis už aplinkos teršimą apmokestinamųjų gaminių ir pakuotės atliekomis, taip pat lėšos, gautos pagal šio Įstatymo 34(6 )straipsnio 3 ir [[#^s-99b7d7e772e9258fae263689|4 dalyse]] nurodytas garantijas, laidavimo draudimo sutartis bei kitus dokumentus, užtikrinančius atliekų tvarkymo finansavimą. ^s-75df48014f9918ee8389f53d
+2. Programos lėšas sudaro [[latest/TAR.FFF9AE9162EE|Mokesčio už aplinkos teršimą įstatyme]] nustatytas mokestis už aplinkos teršimą apmokestinamųjų gaminių ir pakuotės atliekomis, taip pat lėšos, gautos pagal šio Įstatymo 34(6 )straipsnio [[latest/TAR.FFF9AE9162EE|3]] ir [[latest/TAR.FFF9AE9162EE|4]] dalyse nurodytas garantijas, laidavimo draudimo sutartis bei kitus dokumentus, užtikrinančius atliekų tvarkymo finansavimą. ^s-75df48014f9918ee8389f53d
 
 
 3. Programos lėšos naudojamos finansuoti: ^s-890f615f2d96d1a0011586c3
@@ -359,7 +359,7 @@ Elektros ir elektroninės įrangos gamintojai ir importuotojai privalo Vyriausyb
 4) kitas Vyriausybės ar jos įgaliotos institucijos nustatytas dokumentas, užtikrinantis einamųjų metų elektros ir elektroninės įrangos atliekų tvarkymo užduoties įvykdymą. ^s-1422d7cd41c1247e6fc881c4
 
 
-5. Banko garantijos, laidavimo sutarties bei kitų sutarčių, nurodytų šio straipsnio 3 ir [[#^s-82ac4f7ee231f713baf1d034|4 dalyse]], sudarymo ir vykdymo tvarką, lėšų, gautų pagal šias sutartis, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-43d1e96f6632e91d7cee3032
+5. Banko garantijos, laidavimo sutarties bei kitų sutarčių, nurodytų šio straipsnio [[#^s-0b1d617a1fc785709a65e14a|3]] ir [[#^s-82ac4f7ee231f713baf1d034|4]] dalyse, sudarymo ir vykdymo tvarką, lėšų, gautų pagal šias sutartis, kaupimo, naudojimo ir grąžinimo tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-43d1e96f6632e91d7cee3032
 
 
 
@@ -378,14 +378,14 @@ Elektros ir elektroninės įrangos gamintojai ir importuotojai privalo Vyriausyb
 2. [[#^s-28dcb86b5a85030d52d9d444|Šio straipsnio 1 dalyje]] nenurodytų ne buityje susidarančių elektros ir elektroninės įrangos atliekų tvarkymą turi užtikrinti šių atliekų turėtojai. ^s-2b58d7b51bbd60d8aded9880
 
 
-3. Gamintojai ir importuotojai gali susitarti su atliekų turėtojais ir ne buityje susidarančių istorinių elektros ir elektroninės įrangos atliekų tvarkymą finansuoti kitaip, negu nurodyta šio straipsnio 1 ir [[#^s-2b58d7b51bbd60d8aded9880|2 dalyse]]. Tokie susitarimai turi užtikrinti, kad elektros ir elektroninės įrangos atliekos bus surinktos ir sutvarkytos laikantis šio Įstatymo ir kitų teisės aktų reikalavimų.“ ^s-84055008c1822088878c1cfd
+3. Gamintojai ir importuotojai gali susitarti su atliekų turėtojais ir ne buityje susidarančių istorinių elektros ir elektroninės įrangos atliekų tvarkymą finansuoti kitaip, negu nurodyta šio straipsnio [[#^s-28dcb86b5a85030d52d9d444|1]] ir [[#^s-2b58d7b51bbd60d8aded9880|2]] dalyse. Tokie susitarimai turi užtikrinti, kad elektros ir elektroninės įrangos atliekos bus surinktos ir sutvarkytos laikantis šio Įstatymo ir kitų teisės aktų reikalavimų.“ ^s-84055008c1822088878c1cfd
 
 
 
 ### 5 straipsnis. Įstatymo įsigaliojimas ^s-ce275f1e72b58d6a910728df
 
 
-Šio įstatymo [[#^s-58b4d34406290a461a901eb9|4 straipsnis]], išskyrus šiuo straipsniu keičiamo [[#^s-f369a6a4874be02c8e5e3a44|341 straipsnio 1 dalį]], 2 dalies 2 ir 3 punktus ir 4 dalį, [[#^s-9ef68f69ecd67b52c8d37977|345 straipsnį]], kuris įsigalioja nuo 2005 m. rugpjūčio 13 d., įsigalioja nuo 2006 m. sausio 1 d.
+Šio įstatymo [[#^s-58b4d34406290a461a901eb9|4 straipsnis]], išskyrus šiuo straipsniu keičiamo [[#^s-f369a6a4874be02c8e5e3a44|341 straipsnio 1 dalį]], 2 dalies [[#^s-8812589d2f246399e7c87f9b|2]] ir [[#^s-0a1521f85dc3c93147d47c6a|3]] punktus ir 4 dalį, [[#^s-9ef68f69ecd67b52c8d37977|345 straipsnį]], kuris įsigalioja nuo 2005 m. rugpjūčio 13 d., įsigalioja nuo 2006 m. sausio 1 d.
 
 
 

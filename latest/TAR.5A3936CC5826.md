@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-102c0467b13d840f6327a8e9
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 24 d. dekretą Nr. 718, ratifikuoja su pareiškimu 1995 m. rugpjūčio 4 d. Niujorke priimtą Susitarimą dėl 1982 m. gruodžio 10 d. Jungtinių Tautų jūrų teisės konvencijos nuostatų, susijusių su vienos valstybės ribas viršijančių žuvų išteklių ir toli migruojančių žuvų išteklių apsauga ir valdymu, įgyvendinimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. rugpjūčio 24 d. dekretą Nr. 718](https://e-tar.lt/portal/lt/legalAct/TAR.17B3FA2F71A9), ratifikuoja su pareiškimu 1995 m. rugpjūčio 4 d. Niujorke priimtą Susitarimą dėl 1982 m. gruodžio 10 d. Jungtinių Tautų jūrų teisės konvencijos nuostatų, susijusių su vienos valstybės ribas viršijančių žuvų išteklių ir toli migruojančių žuvų išteklių apsauga ir valdymu, įgyvendinimo.
 
 
 

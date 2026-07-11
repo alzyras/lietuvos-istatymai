@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-9032c7a7c3dc817dab59c6c4
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. kovo 5 d. dekretą Nr. 393, ratifikuoja su pareiškimu 1972 m. gegužės 16 d. Bazelyje priimtą Konvenciją dėl testamentų registravimo sistemos sukūrimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. kovo 5 d. dekretą Nr. 393](https://e-tar.lt/portal/lt/legalAct/TAR.D666CFF9344D), ratifikuoja su pareiškimu 1972 m. gegužės 16 d. Bazelyje priimtą Konvenciją dėl testamentų registravimo sistemos sukūrimo.
 
 
 

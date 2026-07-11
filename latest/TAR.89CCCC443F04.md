@@ -87,10 +87,10 @@ BENDROSIOS NUOSTATOS
 6. Disponavimas turtu – teisė turtą parduoti, kitaip perleisti, taip pat išnuomoti, įkeisti arba kitokiu būdu keisti jo teisinę būklę. ^s-047182d81c2ec7c0ecd7db5b
 
 
-7. Turto patikėjimo teisė – valstybės ar savivaldybių institucijos, Lietuvos banko, valstybės ar savivaldybės įmonės, įstaigos, organizacijos teisė savo įstatuose (nuostatuose), taip pat valstybės ar savivaldybės įmonių, įstaigų, organizacijų veiklą reglamentuojančiuose norminiuose aktuose nustatyta tvarka bei sąlygomis valdyti, naudoti valstybės ar savivaldybių perduotą turtą ir disponuoti juo nepažeidžiant įstatymų ir kitų asmenų teisių bei interesų. Kiti juridiniai asmenys valstybės ar savivaldybės jiems patikėjimo teise perduotą turtą valdo, naudoja ir disponuoja juo tiek ir tokia tvarka bei sąlygomis, kaip nustatyta šio Įstatymo 9 ar [[#^s-fa33f7a99e38e6d5fd26ac9e|11 straipsniuose]] bei turto patikėjimo sutartyje. ^s-bfb0e9580b85902788beb805
+7. Turto patikėjimo teisė – valstybės ar savivaldybių institucijos, Lietuvos banko, valstybės ar savivaldybės įmonės, įstaigos, organizacijos teisė savo įstatuose (nuostatuose), taip pat valstybės ar savivaldybės įmonių, įstaigų, organizacijų veiklą reglamentuojančiuose norminiuose aktuose nustatyta tvarka bei sąlygomis valdyti, naudoti valstybės ar savivaldybių perduotą turtą ir disponuoti juo nepažeidžiant įstatymų ir kitų asmenų teisių bei interesų. Kiti juridiniai asmenys valstybės ar savivaldybės jiems patikėjimo teise perduotą turtą valdo, naudoja ir disponuoja juo tiek ir tokia tvarka bei sąlygomis, kaip nustatyta šio Įstatymo [[#^s-b2b44ad070aab7bd686c1c78|9]] ar [[#^s-fa33f7a99e38e6d5fd26ac9e|11]] straipsniuose bei turto patikėjimo sutartyje. ^s-bfb0e9580b85902788beb805
 
 
-8. Turto valdytojas – valstybės ar savivaldybių institucijos, Lietuvos bankas, valstybės ar savivaldybės įmonė, įstaiga ar organizacija ir šio Įstatymo 9 bei [[#^s-fa33f7a99e38e6d5fd26ac9e|11 straipsnyje]] nustatytais atvejais kiti juridiniai asmenys, patikėjimo ar nuosavybės teise valdantys, naudojantys valstybės ar savivaldybės turtą ir disponuojantys juo. ^s-b8b0d7985c7b093f3e887f53
+8. Turto valdytojas – valstybės ar savivaldybių institucijos, Lietuvos bankas, valstybės ar savivaldybės įmonė, įstaiga ar organizacija ir šio Įstatymo [[#^s-b2b44ad070aab7bd686c1c78|9]] bei [[#^s-fa33f7a99e38e6d5fd26ac9e|11]] straipsnyje nustatytais atvejais kiti juridiniai asmenys, patikėjimo ar nuosavybės teise valdantys, naudojantys valstybės ar savivaldybės turtą ir disponuojantys juo. ^s-b8b0d7985c7b093f3e887f53
 
 
 9. Liekamosios medžiagos – tinkamos naudoti detalės, mazgai, taurieji metalai, brangakmeniai, antrinės žaliavos, statybinės ir kitos medžiagos, liekančios išardžius numatytą likviduoti turtą. ^s-8d45e7cd3df44882f34a9595
@@ -609,7 +609,7 @@ Valstybės ar savivaldybių institucijos, valstybės ar savivaldybės įmonės, 
 2) savivaldybių tarybos – jei abi mainų sutarties šalys yra savivaldybių institucijos, savivaldybės įmonės, įstaigos ar organizacijos, patikėjimo teise valdančios savivaldybių turtą, arba jei viena mainų sutarties šalis yra kiti juridiniai ar fiziniai asmenys. ^s-7503efc2e6643319ead5983c
 
 
-4. Mainomas ilgalaikis ir trumpalaikis materialusis turtas įvertinamas taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytus turto vertinimo metodus, tačiau mainų sutarties šalių turtas turi būti vertinamas tuo pačiu metodu. Mainomo ilgalaikio ir trumpalaikio materialiojo turto vertės skirtumas gali būti atlyginamas, o tais atvejais, kai mainų sutarties šalis pagal [[#^s-a8ea2ed23515b18820d5fe3c|šio straipsnio 2 dalį]] yra kiti juridiniai ar fiziniai asmenys, privalo būti atlyginamas pinigais. ^s-35087c15defcd613f2ab897d
+4. Mainomas ilgalaikis ir trumpalaikis materialusis turtas įvertinamas taikant [Turto ir verslo vertinimo pagrindų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nustatytus turto vertinimo metodus, tačiau mainų sutarties šalių turtas turi būti vertinamas tuo pačiu metodu. Mainomo ilgalaikio ir trumpalaikio materialiojo turto vertės skirtumas gali būti atlyginamas, o tais atvejais, kai mainų sutarties šalis pagal [[#^s-a8ea2ed23515b18820d5fe3c|šio straipsnio 2 dalį]] yra kiti juridiniai ar fiziniai asmenys, privalo būti atlyginamas pinigais. ^s-35087c15defcd613f2ab897d
 
 
 
@@ -768,7 +768,7 @@ NEREIKALINGO ARBA NETINKAMO (NEGALIMO) NAUDOTI VALSTYBĖS IR SAVIVALDYBIŲ TURTO
 ### 2 straipsnis. Baigiamosios nuostatos ^s-309324aa5df77dfc53302e88
 
 
-Šio Įstatymo 1 straipsnyje išdėstyto Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 13 straipsnio 3 dalies ir [[#^s-f63f9aeff396333b949b117c|14 straipsnio 5 dalies]] nuostatos dėl neatlyginimo už perduoto turto pagerinimą netaikomos sutartims, kurios buvo sudarytos iki šio Įstatymo įsigaliojimo.
+Šio Įstatymo 1 straipsnyje išdėstyto [[latest/TAR.D5496D69DF98|Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 13 straipsnio 3 dalies]] ir [[#^s-f63f9aeff396333b949b117c|14 straipsnio 5 dalies]] nuostatos dėl neatlyginimo už perduoto turto pagerinimą netaikomos sutartims, kurios buvo sudarytos iki šio Įstatymo įsigaliojimo.
 
 
 

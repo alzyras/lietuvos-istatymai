@@ -396,7 +396,7 @@ APLINKOS ORO TARŠOS VALDYMAS
 8. Siekdama šio įstatymo [[#^s-bba64803eea31a33fb64349e|4 straipsnio 3 dalyje]] nustatytų tikslų, kai pagal Aplinkos monitoringo įstatymą vykdomo aplinkos oro monitoringo duomenys rodo, kad savivaldybės teritorijoje ar jos dalyje viršytas Pasaulio sveikatos organizacijos rekomenduojamas vidutinis vienų metų oro užterštumo azoto dioksidu ir (ar) kietosiomis dalelėmis KD2,5 lygis, savivaldybės taryba turi teisę priimti sprendimą toje savivaldybės teritorijoje apriboti arba uždrausti naudoti vienos ar daugiau rūšių kurą. Tam tikros rūšies kuro naudojimo apribojimu laikomas laikotarpio, kuriuo draudžiama naudoti tos rūšies kurą, ir (ar) tos rūšies kurą deginančio įrenginio techninių reikalavimų  nustatymas. ^s-5e30d9fe04b1eebaea7cc7c7
 
 
-9. Siekdama apriboti arba uždrausti vienos ar daugiau rūšių kuro naudojimą šilumos energijai gaminti gyvenamosios paskirties pastatams šildyti, savivaldybės taryba užtikrina, kad iki [[#^s-5e30d9fe04b1eebaea7cc7c7|šio straipsnio 8 dalyje]] nurodyto sprendimo įsigaliojimo dienos vietos gyventojams būtų suteiktas ne trumpesnis kaip vienų metų laikotarpis ir ne mažiau kaip vienas šildymo sezonas ir (ar) numatytos savivaldybės tarybos nustatyto dydžio kompensacinės priemonės už planuojamą apriboti arba uždrausti naudoti tam tikros rūšies kurą deginančių įrenginių pakeitimą įrenginiais, atitinkančiais šio įstatymo [[#^s-7db434746fb38cfe91243e6b|3 straipsnio 1 punkte]] nustatytus aplinkos oro apsaugos prioritetus. Apribojimas arba draudimas naudoti vienos ar daugiau rūšių kurą ir kompensacinės priemonės planuojamos savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane. ^s-19b448d6134cd21ca8ea9023
+9. Siekdama apriboti arba uždrausti vienos ar daugiau rūšių kuro naudojimą šilumos energijai gaminti gyvenamosios paskirties pastatams šildyti, savivaldybės taryba užtikrina, kad iki [[#^s-5e30d9fe04b1eebaea7cc7c7|šio straipsnio 8 dalyje]] nurodyto sprendimo įsigaliojimo dienos vietos gyventojams būtų suteiktas ne trumpesnis kaip vienų metų laikotarpis ir ne mažiau kaip vienas šildymo sezonas ir (ar) numatytos savivaldybės tarybos nustatyto dydžio kompensacinės priemonės už planuojamą apriboti arba uždrausti naudoti tam tikros rūšies kurą deginančių įrenginių pakeitimą įrenginiais, atitinkančiais šio įstatymo 3 straipsnio 1 punkte nustatytus aplinkos oro apsaugos prioritetus. Apribojimas arba draudimas naudoti vienos ar daugiau rūšių kurą ir kompensacinės priemonės planuojamos savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane. ^s-19b448d6134cd21ca8ea9023
 
 
 10. Pagal [[#^s-5e30d9fe04b1eebaea7cc7c7|šio straipsnio 8 dalį]] priimtame sprendime apriboti arba uždrausti naudoti vienos ar daugiau rūšių kurą savivaldybės teritorijoje nurodoma: ^s-642132ed63f14ee6c58bd978
@@ -650,7 +650,7 @@ Jeigu įsigaliojusios Lietuvos Respublikos ratifikuotos tarptautinės sutartys n
 Pripažįstami netekusiais galios:
 
 
-1) Atmosferos oro apsaugos įstatymas (Žin., 1981, Nr. 17-216); ^s-bfa1c138f14165441079934f
+1) [Atmosferos oro apsaugos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.12075AF907AF) (Žin., 1981, Nr. 17-216); ^s-bfa1c138f14165441079934f
 
 
 2) Aukščiausiosios Tarybos Prezidiumo 1984 m. lapkričio 28 d. įsako Nr. X-4418 „Dėl pakeitimų ir papildymų kai kuriuose Lietuvos TSR įstatymų aktuose“ (Žin., 1984, Nr. 34-391) 8 punktas; ^s-c0d30ce5f7454eabb37ad53b
@@ -680,7 +680,7 @@ priedas
 1. 2008 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2008/50/EB dėl aplinkos oro kokybės ir švaresnio oro Europoje (OL 2008 L 152, p. 1). ^s-e4a3db5f55bfe75d86397296
 
 
-2. 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2284 dėl tam tikrų valstybėse narėse į atmosferą išmetamų teršalų kiekio mažinimo, kuria iš dalies keičiama Direktyva 2003/35/EB ir panaikinama Direktyva 2001/81/EB (OL 2016 L 344, p. 1). ^s-633bb63dcfab588328340e87
+2. 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2016/2284](https://eur-lex.europa.eu/eli/dir/2016/2284/oj) dėl tam tikrų valstybėse narėse į atmosferą išmetamų teršalų kiekio mažinimo, kuria iš dalies keičiama Direktyva 2003/35/EB ir panaikinama Direktyva 2001/81/EB (OL 2016 L 344, p. 1). ^s-633bb63dcfab588328340e87
 Papildyta punktu:
 Nr. XIII-428, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10029
 
@@ -711,17 +711,17 @@ Nr. XII-463, 2013-07-02, Žin., 2013, Nr. 79-3984 (2013-07-23), i. k. [[latest/T
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2300, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10404
-Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 2 ir [[#^s-d970ce1ab9c14f519604f134|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 [[#^s-c308adab2f7ba9fee7bbb9e3|2]] ir [[#^s-d970ce1ab9c14f519604f134|20]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-322, 2017-04-27, paskelbta TAR 2017-05-05, i. k. 2017-07682
-Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 1 ir [[#^s-c308adab2f7ba9fee7bbb9e3|2 straipsnių]] pakeitimo ir Įstatymo papildymo priedu įstatymas
+Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 [[#^s-76062bdaff99c9b38909dfe7|1]] ir [[#^s-c308adab2f7ba9fee7bbb9e3|2]] straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-428, 2017-06-08, paskelbta TAR 2017-06-14, i. k. 2017-10029
-Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 2, 3, 4, [[#^s-d97e75f35a394d95e008392b|10 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 [[#^s-c308adab2f7ba9fee7bbb9e3|2]], [[#^s-9f6ff90d2e7f3d237946e2dc|3]], [[#^s-26cbaff7f4cfa0c9950c9467|4]], [[#^s-d97e75f35a394d95e008392b|10]] straipsnių ir priedo pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -736,4 +736,4 @@ Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 [[#^s-d97e75f
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2661, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09702
-Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 2, 4, 5, 7, 9, 10, 13 ir [[#^s-188bca1dfde8a708d5741343|17 straipsnių]] pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas
+Lietuvos Respublikos aplinkos oro apsaugos įstatymo Nr. VIII-1392 [[#^s-c308adab2f7ba9fee7bbb9e3|2]], [[#^s-26cbaff7f4cfa0c9950c9467|4]], [[#^s-aec89440de4469c22aec7458|5]], [[#^s-9ca4910fc7d5d4d9c9569726|7]], [[#^s-b64374255e0d520fd102c40e|9]], [[#^s-d97e75f35a394d95e008392b|10]], [[#^s-c28711d1abf05f5b9e9f5d51|13]] ir [[#^s-188bca1dfde8a708d5741343|17]] straipsnių pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas

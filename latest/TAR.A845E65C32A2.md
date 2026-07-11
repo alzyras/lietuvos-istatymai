@@ -61,13 +61,13 @@ BENDROSIOS NUOSTATOS
 ### 2 straipsnis. Įstatymo taikymas ^s-ecc7b4203f5b15e633183bad
 
 
-1. Šis įstatymas taikomas kartu su Reglamentu (ES) 2023/988 ir jo įgyvendinamaisiais teisės aktais. ^s-a03ec6dcd44182fd46b3f3e7
+1. Šis įstatymas taikomas kartu su [Reglamentu (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) ir jo įgyvendinamaisiais teisės aktais. ^s-a03ec6dcd44182fd46b3f3e7
 
 
 2. Šis įstatymas taikomas: ^s-9c8b7e67f3b58c3c5e57f3ca
 
 
-1) Reglamento (ES) 2023/988 3 straipsnio 1 punkte nurodytiems gaminiams: ^s-9ad572bfb94f0d0e33dcba45
+1) [Reglamento (ES) 2023/988 3 straipsnio](https://eur-lex.europa.eu/eli/reg/2023/988/art_3/oj) 1 punkte nurodytiems gaminiams: ^s-9ad572bfb94f0d0e33dcba45
 
 
 a) pateikiamiems ar tiekiamiems rinkai gaminiams, jeigu Europos Sąjungos teisės aktai ir (ar) jų įgyvendinamieji Lietuvos Respublikos teisės aktai nenustato konkrečių jų saugos reikalavimų;
@@ -79,10 +79,10 @@ b) pateikiamiems ar tiekiamiems rinkai gaminiams, kurių konkrečius saugos reik
 2) vartotojams teikiamoms paslaugoms. ^s-37ca9f2435a8c52e47cef709
 
 
-3. Šis įstatymas taikomas rinkai pateiktiems ar tiekiamiems produktams, neatsižvelgiant į jų pardavimo būdus, įskaitant prekybą elektroninėmis priemonėmis, taip pat rinkai pateiktiems ar tiekiamiems panaudotiems, pataisytiems ar atnaujintiems gaminiams, išskyrus Reglamento (ES) 2023/988 [[#^s-b3382c14d00fef1c00344e29|2 straipsnio 3 dalyje]] nurodytus gaminius, kuriems šis reglamentas netaikomas. ^s-b3382c14d00fef1c00344e29
+3. Šis įstatymas taikomas rinkai pateiktiems ar tiekiamiems produktams, neatsižvelgiant į jų pardavimo būdus, įskaitant prekybą elektroninėmis priemonėmis, taip pat rinkai pateiktiems ar tiekiamiems panaudotiems, pataisytiems ar atnaujintiems gaminiams, išskyrus [Reglamento (ES) 2023/988 2 straipsnio 3 dalyje](https://eur-lex.europa.eu/eli/reg/2023/988/art_2/par_3/oj) nurodytus gaminius, kuriems šis reglamentas netaikomas. ^s-b3382c14d00fef1c00344e29
 
 
-4. Šis įstatymas netaikomas Reglamento (ES) 2023/988 [[#^s-9c8b7e67f3b58c3c5e57f3ca|2 straipsnio 2 dalyje]] nurodytais atvejais. ^s-ecdf340a0d3fbcc6bfacf40e
+4. Šis įstatymas netaikomas [Reglamento (ES) 2023/988 2 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2023/988/art_2/par_2/oj) nurodytais atvejais. ^s-ecdf340a0d3fbcc6bfacf40e
 
 
 
@@ -107,17 +107,17 @@ b) pateikiamiems ar tiekiamiems rinkai gaminiams, kurių konkrečius saugos reik
 6. Produkto saugos ekspertizė – produkto, kuriam teisės aktais nėra nustatyti specialieji saugos reikalavimai, arba produkto, kuris atitinka specialiuosius saugos reikalavimus, tačiau yra pagrindo manyti, kad jis gamintojo ar paslaugų teikėjo nustatytomis ar įprastomis naudojimo sąlygomis yra pavojingas, savybių įvertinimas ir išvados dėl jo saugos pateikimas. ^s-950902939cf9befed9481cd6
 
 
-7. Šiame įstatyme vartojamos sąvokos „paslauga“ ir „paslaugų teikėjas“ suprantamos taip, kaip apibrėžiamos [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos įstatyme]]. Šiame įstatyme vartojama sąvoka „taisomasis veiksmas“ suprantama taip, kaip apibrėžiama 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamente (ES) 2019/1020 dėl rinkos priežiūros ir gaminių atitikties, kuriuo iš dalies keičiama Direktyva 2004/42/EB ir reglamentai (EB) Nr. 765/2008 ir (ES) Nr. 305/2011, su visais pakeitimais. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Reglamente (ES) 2023/988. ^s-42595e7d20230349d9e1319c
+7. Šiame įstatyme vartojamos sąvokos „paslauga“ ir „paslaugų teikėjas“ suprantamos taip, kaip apibrėžiamos [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos įstatyme]]. Šiame įstatyme vartojama sąvoka „taisomasis veiksmas“ suprantama taip, kaip apibrėžiama 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamente (ES) 2019/1020](https://eur-lex.europa.eu/eli/reg/2019/1020/oj) dėl rinkos priežiūros ir gaminių atitikties, kuriuo iš dalies keičiama Direktyva 2004/42/EB ir reglamentai (EB) Nr. 765/2008 ir (ES) Nr. 305/2011, su visais pakeitimais. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [Reglamente (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj). ^s-42595e7d20230349d9e1319c
 
 
 
 ### 4 straipsnis. Produktų saugos reikalavimai ir saugos vertinimas ^s-4e1969cd8fd989af4afb7c48
 
 
-1. Šio įstatymo [[#^s-9ad572bfb94f0d0e33dcba45|2 straipsnio 2 dalies 1 punkto]] a papunktyje nurodytų gaminių bendrąjį saugos reikalavimą, saugos vertinimo aspektus, elementus ir atitikties bendrajam saugos reikalavimui prezumpciją nustato Reglamentas (ES) 2023/988. ^s-1df1001c2f9d755e6396f345
+1. Šio įstatymo [[#^s-9ad572bfb94f0d0e33dcba45|2 straipsnio 2 dalies 1 punkto]] a papunktyje nurodytų gaminių bendrąjį saugos reikalavimą, saugos vertinimo aspektus, elementus ir atitikties bendrajam saugos reikalavimui prezumpciją nustato [Reglamentas (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj). ^s-1df1001c2f9d755e6396f345
 
 
-2. Šio įstatymo [[#^s-9ad572bfb94f0d0e33dcba45|2 straipsnio 2 dalies 1 punkto]] b papunktyje nurodytų gaminių bendrąjį saugos reikalavimą ir saugos vertinimą nustato Europos Sąjungos teisės aktai, nustatantys tam tikrų gaminių konkrečius saugos reikalavimus, ir (ar) jų įgyvendinamieji Lietuvos Respublikos teisės aktai, taip pat Reglamentas (ES) 2023/988, kaip nurodyta jo [[#^s-a03ec6dcd44182fd46b3f3e7|2 straipsnio 1 dalyje]]. ^s-9071c0f0de6041a5f28f3625
+2. Šio įstatymo [[#^s-9ad572bfb94f0d0e33dcba45|2 straipsnio 2 dalies 1 punkto]] b papunktyje nurodytų gaminių bendrąjį saugos reikalavimą ir saugos vertinimą nustato Europos Sąjungos teisės aktai, nustatantys tam tikrų gaminių konkrečius saugos reikalavimus, ir (ar) jų įgyvendinamieji Lietuvos Respublikos teisės aktai, taip pat [Reglamentas (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj), kaip nurodyta jo [[#^s-a03ec6dcd44182fd46b3f3e7|2 straipsnio 1 dalyje]]. ^s-9071c0f0de6041a5f28f3625
 
 
 3. Paslaugų teikėjų vartotojams teikiamos paslaugos turi būti saugios. Paslaugų saugą reglamentuoja šis įstatymas. ^s-6a74c6ac4226e933a3556d15
@@ -169,7 +169,7 @@ PRODUKTŲ SAUGOS REGULIAVIMAS IR PRANEŠIMŲ APIE PAVOJINGUS GAMINIUS TEIKIMAS
 ### 6 straipsnis. Pranešimų apie pavojingus gaminius ir taisomuosius veiksmus teikimas ^s-7d2b0aa6f4724a69f1eb3fc3
 
 
-Rinkos priežiūros institucijos, ekonominės veiklos vykdytojai ir elektroninių prekyviečių paslaugų teikėjai pranešimus apie pavojingus gaminius ir taisomuosius veiksmus teikia per skubių įspėjimų sistemą Reglamento (ES) 2023/988 nustatyta tvarka.
+Rinkos priežiūros institucijos, ekonominės veiklos vykdytojai ir elektroninių prekyviečių paslaugų teikėjai pranešimus apie pavojingus gaminius ir taisomuosius veiksmus teikia per skubių įspėjimų sistemą [Reglamento (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) nustatyta tvarka.
 
 
 
@@ -181,13 +181,13 @@ EKONOMINĖS VEIKLOS VYKDYTOJŲ, PASLAUGŲ TEIKĖJŲ IR ELEKTRONINIŲ PREKYVIEČI
 ### 7 straipsnis. Ekonominės veiklos vykdytojų pareigos užtikrinant gaminių saugą ^s-5aaf666f6eb2ee70f2950e33
 
 
-1. Šio įstatymo [[#^s-9ad572bfb94f0d0e33dcba45|2 straipsnio 2 dalies 1 punkto]] a papunktyje nurodytų gaminių gamintojų, įgaliotųjų atstovų, importuotojų ir platintojų pareigas užtikrinant gaminių saugą nustato Reglamentas (ES) 2023/988. ^s-27243a5463b3ccc0d6069225
+1. Šio įstatymo [[#^s-9ad572bfb94f0d0e33dcba45|2 straipsnio 2 dalies 1 punkto]] a papunktyje nurodytų gaminių gamintojų, įgaliotųjų atstovų, importuotojų ir platintojų pareigas užtikrinant gaminių saugą nustato [Reglamentas (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj). ^s-27243a5463b3ccc0d6069225
 
 
-2. Šio įstatymo [[#^s-9ad572bfb94f0d0e33dcba45|2 straipsnio 2 dalies 1 punkto]] b papunktyje nurodytų gaminių gamintojų, įgaliotųjų atstovų, importuotojų ir platintojų pareigas užtikrinant gaminių saugą nustato Europos Sąjungos teisės aktai, nustatantys konkrečius tam tikrų gaminių saugos reikalavimus, ir (ar) Europos Sąjungos teisės aktų įgyvendinamieji Lietuvos Respublikos teisės aktai bei Reglamentas (ES) 2023/988. ^s-379617c9f709a9ad7c034bb6
+2. Šio įstatymo [[#^s-9ad572bfb94f0d0e33dcba45|2 straipsnio 2 dalies 1 punkto]] b papunktyje nurodytų gaminių gamintojų, įgaliotųjų atstovų, importuotojų ir platintojų pareigas užtikrinant gaminių saugą nustato Europos Sąjungos teisės aktai, nustatantys konkrečius tam tikrų gaminių saugos reikalavimus, ir (ar) Europos Sąjungos teisės aktų įgyvendinamieji Lietuvos Respublikos teisės aktai bei [Reglamentas (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj). ^s-379617c9f709a9ad7c034bb6
 
 
-3. Gamintojai ir importuotojai turi užtikrinti, kad prie gaminio būtų pridėtos aiškios instrukcijos ir saugos informacija vartotojams Lietuvos Respublikos valstybine kalba, išskyrus Reglamento (ES) 2023/988 9 straipsnio 7 dalyje ir 11 straipsnio 4 dalyje nustatytus atvejus. ^s-66f5d7343b737530175d8d06
+3. Gamintojai ir importuotojai turi užtikrinti, kad prie gaminio būtų pridėtos aiškios instrukcijos ir saugos informacija vartotojams Lietuvos Respublikos valstybine kalba, išskyrus [Reglamento (ES) 2023/988 9 straipsnio 7 dalyje](https://eur-lex.europa.eu/eli/reg/2023/988/art_9/par_7/oj) ir 11 straipsnio 4 dalyje nustatytus atvejus. ^s-66f5d7343b737530175d8d06
 
 
 4. Ekonominės veiklos vykdytojas turi atlyginti vartotojui turtinę ir neturtinę žalą, kurią šis patyrė naudodamas pavojingą gaminį. ^s-4f1e35f34afb749bb5eabb1a
@@ -231,20 +231,20 @@ Paslaugų teikėjai privalo:
 ### 9 straipsnis. Elektroninių prekyviečių paslaugų teikėjų pareigos užtikrinant gaminių saugą ^s-df11df97294e786c04cc26a2
 
 
-Elektroninių prekyviečių paslaugų teikėjų pareigas užtikrinant gaminių saugą nustato Reglamentas (ES) 2023/988.
+Elektroninių prekyviečių paslaugų teikėjų pareigas užtikrinant gaminių saugą nustato [Reglamentas (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj).
 
 
 
 ### 10 straipsnis. Vartotojų informavimas apie gaminių saugą ^s-dd7056d491ad034fde0fa53e
 
 
-1. Kai gaminys atšaukiamas dėl saugos arba kai vartotojams turi būti pateiktas perspėjimas dėl saugos, ekonominės veiklos vykdytojai ir elektroninių prekyviečių paslaugų teikėjai apie tai turi informuoti vartotojus Reglamento (ES) 2023/988 nustatyta tvarka. Perspėjimai dėl saugos ir su gaminiu susijusi saugos informacija, kurie turi būti teikiami vartotojams pagal Reglamentą (ES) 2023/988, turi būti teikiami valstybine kalba. ^s-9eaec8e9306b26a67af383fd
+1. Kai gaminys atšaukiamas dėl saugos arba kai vartotojams turi būti pateiktas perspėjimas dėl saugos, ekonominės veiklos vykdytojai ir elektroninių prekyviečių paslaugų teikėjai apie tai turi informuoti vartotojus [Reglamento (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) nustatyta tvarka. Perspėjimai dėl saugos ir su gaminiu susijusi saugos informacija, kurie turi būti teikiami vartotojams pagal [Reglamentą (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj), turi būti teikiami valstybine kalba. ^s-9eaec8e9306b26a67af383fd
 
 
-2. Pranešimo vartotojams apie gaminio atšaukimą dėl saugos turinio ir formos reikalavimus nustato Reglamentas (ES) 2023/988 ir jo įgyvendinamieji Europos Sąjungos teisės aktai. Šis pranešimas turi būti pateiktas valstybine kalba. ^s-d17b683af880e068b8cdbed1
+2. Pranešimo vartotojams apie gaminio atšaukimą dėl saugos turinio ir formos reikalavimus nustato [Reglamentas (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) ir jo įgyvendinamieji Europos Sąjungos teisės aktai. Šis pranešimas turi būti pateiktas valstybine kalba. ^s-d17b683af880e068b8cdbed1
 
 
-3. Kai gaminys atšaukiamas dėl saugos, vartotojų teisių gynimo priemones nustato Reglamentas (ES) 2023/988. ^s-98057538e5b3c84f010bd874
+3. Kai gaminys atšaukiamas dėl saugos, vartotojų teisių gynimo priemones nustato [Reglamentas (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj). ^s-98057538e5b3c84f010bd874
 
 
 
@@ -256,7 +256,7 @@ RINKOS PRIEŽIŪRA
 ### 11 straipsnis. Rinkos priežiūra ^s-b53f701a6af74709d9826e81
 
 
-1. Reglamento (ES) 2023/988, šio įstatymo ir kitų teisės aktų, reguliuojančių produktų saugą, nustatytų reikalavimų laikymąsi prižiūri šios rinkos priežiūros institucijos: ^s-d5246261ba634c3d5a497d32
+1. [Reglamento (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj), šio įstatymo ir kitų teisės aktų, reguliuojančių produktų saugą, nustatytų reikalavimų laikymąsi prižiūri šios rinkos priežiūros institucijos: ^s-d5246261ba634c3d5a497d32
 
 
 1) Valstybinė vartotojų teisių apsaugos tarnyba; ^s-23356ef03a9accaaf27d7b56
@@ -265,7 +265,7 @@ RINKOS PRIEŽIŪRA
 2) kitais įstatymais arba tokių įstatymų įgaliotų valstybės institucijų priimtu teisės aktu įgaliotos rinkos priežiūros institucijos. ^s-2104d3fc976f6e9a0b92f34f
 
 
-2. Rinkos priežiūros institucija turi Reglamente (ES) 2019/1020 ir Reglamento (ES) 2023/988 [[#^s-c2c4ca3e23873324d73ff233|23 straipsnyje]] nustatytus įgaliojimus. ^s-2d785123573c247a92e41bb5
+2. Rinkos priežiūros institucija turi [Reglamente (ES) 2019/1020](https://eur-lex.europa.eu/eli/reg/2019/1020/oj) ir [Reglamento (ES) 2023/988 23 straipsnyje](https://eur-lex.europa.eu/eli/reg/2023/988/art_23/oj) nustatytus įgaliojimus. ^s-2d785123573c247a92e41bb5
 
 
 
@@ -275,7 +275,7 @@ RINKOS PRIEŽIŪRA
 1. Rinkos priežiūros institucijos, atlikdamos rinkos priežiūrą, turi teisę: ^s-67c9fb9b1c2b9eb35453d1a2
 
 
-1) tikrinti, ar laikomasi Reglamento (ES) 2023/988, šio įstatymo ir kitų produktų saugą reguliuojančių teisės aktų reikalavimų, organizuoti produkto saugos ekspertizę, įskaitant atvejus, kai produktas jau pateiktas rinkai ir laikomas saugiu iki pat jo sunaudojimo ar suteikimo, ir kaupti duomenis produktų saugos klausimais; ^s-9db7ccb3bbe2a56c24b051d6
+1) tikrinti, ar laikomasi [Reglamento (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj), šio įstatymo ir kitų produktų saugą reguliuojančių teisės aktų reikalavimų, organizuoti produkto saugos ekspertizę, įskaitant atvejus, kai produktas jau pateiktas rinkai ir laikomas saugiu iki pat jo sunaudojimo ar suteikimo, ir kaupti duomenis produktų saugos klausimais; ^s-9db7ccb3bbe2a56c24b051d6
 
 
 2) nurodyti ekonominės veiklos vykdytojams, paslaugų teikėjams ir (ar) elektroninių prekyviečių paslaugų teikėjams, kad produktas, kuris konkrečiomis aplinkybėmis gali kelti pavojų, būtų paženklintas valstybine kalba surašytais, aiškiais ir lengvai suprantamais įspėjimais apie galimą su juo susijusį pavojų vartotojo gyvybei ir sveikatai; ^s-0deb2718ab619bac981a748e
@@ -287,10 +287,10 @@ RINKOS PRIEŽIŪRA
 4) nurodyti ekonominės veiklos vykdytojams, paslaugų teikėjams ir (ar) elektroninių prekyviečių paslaugų teikėjams, kad apie produkto, kuris gali kelti pavojų vartotojų grupėms, galimą pavojų šios vartotojų grupės būtų įspėtos laiku ir aiškiai, įskaitant įspėjimų dėl tokio pavojaus paskelbimą; ^s-61db8b15acf71328f9709bdf
 
 
-5) gauti iš valstybės ir savivaldybių institucijų, kitų fizinių ir juridinių asmenų Reglamento (ES) 2023/988, šio įstatymo ir kitų teisės aktų, nustatančių produktų saugos reikalavimus, pažeidimams tirti reikalingą informaciją ir dokumentus; ^s-66d14ec03422db09790a32df
+5) gauti iš valstybės ir savivaldybių institucijų, kitų fizinių ir juridinių asmenų [Reglamento (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj), šio įstatymo ir kitų teisės aktų, nustatančių produktų saugos reikalavimus, pažeidimams tirti reikalingą informaciją ir dokumentus; ^s-66d14ec03422db09790a32df
 
 
-6) gauti iš ekonominės veiklos vykdytojų, paslaugų teikėjų ir (ar) elektroninių prekyviečių paslaugų teikėjų Reglamento (ES) 2023/988, šio įstatymo ir kitų teisės aktų, nustatančių produktų saugos reikalavimus, pažeidimams tirti reikalingą informaciją ir dokumentus, kitą Reglamente (ES) 2023/988 nurodytą informaciją ir dokumentus; ^s-d81d0ea55d708a896c96e00e
+6) gauti iš ekonominės veiklos vykdytojų, paslaugų teikėjų ir (ar) elektroninių prekyviečių paslaugų teikėjų [Reglamento (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj), šio įstatymo ir kitų teisės aktų, nustatančių produktų saugos reikalavimus, pažeidimams tirti reikalingą informaciją ir dokumentus, kitą [Reglamente (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) nurodytą informaciją ir dokumentus; ^s-d81d0ea55d708a896c96e00e
 
 
 7) rinkos priežiūros institucijos pareigūnui ar valstybės tarnautojui pateikus tarnybinį pažymėjimą ir pavedimą atlikti veiklos patikrinimą bei dalyvaujant ekonominės veiklos vykdytojui, paslaugų teikėjui ir (ar) elektroninės prekyvietės paslaugų teikėjui ar jo įgaliotam asmeniui, darbo metu patekti į Lietuvos Respublikoje esančius jų naudojamus teritoriją, pastatus, patalpas, kuriuose gaminami, parduodami arba laikomi (sandėliuojami) gaminiai arba teikiamos paslaugos, taip pat į transporto priemones ir atlikti veiklos patikrinimus, o tais atvejais, kai trukdoma atlikti veiklos patikrinimą, – pasitelkti policiją. Į fizinio asmens gyvenamąsias patalpas rinkos priežiūros institucijos pareigūnai ar valstybės tarnautojai turi teisę patekti tik tuo atveju, kai šis fizinis asmuo sutinka; ^s-fa8917266d73f404d0f98ffe
@@ -305,7 +305,7 @@ RINKOS PRIEŽIŪRA
 10) siūlyti kompetentingai institucijai sustabdyti ar panaikinti licencijos verstis ta ekonomine veikla galiojimą asmenims, kurių pateikti ir tiekiami rinkai produktai yra pavojingi, kai tokį licencijos galiojimo sustabdymo ar panaikinimo pagrindą numato tos ekonominės veiklos licencijavimą reglamentuojantis įstatymas; ^s-321acc78d715ae34d25361a2
 
 
-11) nustačiusios Reglamento (ES) 2023/988 ar produktų saugą reguliuojančių kitų teisės aktų reikalavimų pažeidimą, reikalauti, kad ekonominės veiklos vykdytojai, paslaugų teikėjai ir (ar) elektroninės prekyvietės paslaugų teikėjai imtųsi taisomųjų veiksmų, būtų pašalinta neatitiktis arba pavojus, ir aiškiai informuoti vartotojus apie su atitinkamu produktu susijusį pavojų; ^s-e6e6b7d5ae80cbd928d228e4
+11) nustačiusios [Reglamento (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) ar produktų saugą reguliuojančių kitų teisės aktų reikalavimų pažeidimą, reikalauti, kad ekonominės veiklos vykdytojai, paslaugų teikėjai ir (ar) elektroninės prekyvietės paslaugų teikėjai imtųsi taisomųjų veiksmų, būtų pašalinta neatitiktis arba pavojus, ir aiškiai informuoti vartotojus apie su atitinkamu produktu susijusį pavojų; ^s-e6e6b7d5ae80cbd928d228e4
 
 
 12) šio įstatymo [[#^s-4d3ce1735967462ca4440479|13 straipsnyje]] nustatyta tvarka duoti privalomus nurodymus iš elektroninės sąsajos pašalinti informaciją, kuria teikiamas pavojingo gaminio pasiūlymas, panaikinti galimybę šią informaciją pasiekti arba pateikti aiškų įspėjimą vartotojams; ^s-67586b6a604dcda3c5545e5e
@@ -314,7 +314,7 @@ RINKOS PRIEŽIŪRA
 13) šio įstatymo nustatytais pagrindais ir tvarka taikyti rinkos ribojimo priemones; ^s-328d7db952798f960bd32a7b
 
 
-14) įgyvendinti kitas Reglamente (ES) 2019/1020 ir (ar) Reglamente (ES) 2023/988 nustatytas rinkos priežiūros institucijos teises. ^s-81041bab8a95a95e5746ccbc
+14) įgyvendinti kitas [Reglamente (ES) 2019/1020](https://eur-lex.europa.eu/eli/reg/2019/1020/oj) ir (ar) [Reglamente (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) nustatytas rinkos priežiūros institucijos teises. ^s-81041bab8a95a95e5746ccbc
 
 
 2. Rinkos priežiūros institucijos, atlikdamos rinkos priežiūrą, privalo: ^s-6a16d9eec5862bab30077f89
@@ -369,7 +369,7 @@ RINKOS PRIEŽIŪRA
 ### 13 straipsnis. Privalomi nurodymai elektroninių prekyviečių paslaugų teikėjams, ekonominės veiklos vykdytojams ir paslaugų teikėjams ^s-4d3ce1735967462ca4440479
 
 
-1. Rinkos priežiūros institucija, nustačiusi, kad elektroninėje prekyvietėje vartotojams pateikta informacija, kuria teikiamas pavojingo gaminio pasiūlymas, turi teisę duoti privalomą nurodymą elektroninės prekyvietės paslaugų teikėjui iš savo elektroninės sąsajos pašalinti šią informaciją, panaikinti prieigą prie jos ar pateikti aiškų įspėjimą vartotojams. Tokie privalomi nurodymai turi atitikti 2022 m. spalio 19 d. Europos Parlamento ir Tarybos reglamento (ES) 2022/2065 dėl bendrosios skaitmeninių paslaugų rinkos, kuriuo iš dalies keičiama Direktyva 2000/31/EB, (Skaitmeninių paslaugų akto) 9 straipsnio 2 dalyje nustatytas sąlygas. Kai yra Reglamento (ES) 2023/988 nustatytos sąlygos, rinkos priežiūros institucija turi teisę duoti privalomus nurodymus elektroninės prekyvietės paslaugų teikėjui pašalinti iš savo elektroninės sąsajos visą tapačią informaciją, susijusią su pavojingo gaminio pasiūlymu, panaikinti prieigą prie tapataus turinio arba pateikti aiškų įspėjimą vartotojams. ^s-9139715373059f9f064ba950
+1. Rinkos priežiūros institucija, nustačiusi, kad elektroninėje prekyvietėje vartotojams pateikta informacija, kuria teikiamas pavojingo gaminio pasiūlymas, turi teisę duoti privalomą nurodymą elektroninės prekyvietės paslaugų teikėjui iš savo elektroninės sąsajos pašalinti šią informaciją, panaikinti prieigą prie jos ar pateikti aiškų įspėjimą vartotojams. Tokie privalomi nurodymai turi atitikti 2022 m. spalio 19 d. Europos Parlamento ir Tarybos [reglamento (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) dėl bendrosios skaitmeninių paslaugų rinkos, kuriuo iš dalies keičiama Direktyva 2000/31/EB, (Skaitmeninių paslaugų akto) 9 straipsnio 2 dalyje nustatytas sąlygas. Kai yra [Reglamento (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) nustatytos sąlygos, rinkos priežiūros institucija turi teisę duoti privalomus nurodymus elektroninės prekyvietės paslaugų teikėjui pašalinti iš savo elektroninės sąsajos visą tapačią informaciją, susijusią su pavojingo gaminio pasiūlymu, panaikinti prieigą prie tapataus turinio arba pateikti aiškų įspėjimą vartotojams. ^s-9139715373059f9f064ba950
 
 
 2. Rinkos priežiūros institucija turi teisę duoti privalomus nurodymus elektroninės prekyvietės paslaugų teikėjams, kurių įsisteigimo vieta yra Lietuvos Respublikoje arba kurie teikia tarpininkavimo paslaugas Lietuvos Respublikoje, neatsižvelgiant į tai, kur yra jų įsisteigimo vieta. ^s-ee1ceefb191fc1487121a913
@@ -378,7 +378,7 @@ RINKOS PRIEŽIŪRA
 3. Informacija apie rinkos priežiūros institucijos privalomus nurodymus elektroninės prekyvietės paslaugų teikėjams perduodama [[latest/TAR.8A719A97956F#^s-585354be527735fd423aa731|Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo 21 straipsnyje]] nustatyta tvarka. ^s-1f9dca0debf59995e58905d2
 
 
-4. Rinkos priežiūros institucija, nustačiusi, kad elektroninėje sąsajoje vartotojams pateikta informacija, kuria pateiktas pavojingo produkto pasiūlymas, turi teisę duoti privalomą nurodymą ekonominės veiklos vykdytojui ar paslaugų teikėjui iš savo elektroninės sąsajos pašalinti šią informaciją, panaikinti prieigą prie jos ar pateikti aiškų įspėjimą vartotojams Reglamento (ES) 2019/1020 nustatyta tvarka. ^s-45687acfcbb34c6855a90a65
+4. Rinkos priežiūros institucija, nustačiusi, kad elektroninėje sąsajoje vartotojams pateikta informacija, kuria pateiktas pavojingo produkto pasiūlymas, turi teisę duoti privalomą nurodymą ekonominės veiklos vykdytojui ar paslaugų teikėjui iš savo elektroninės sąsajos pašalinti šią informaciją, panaikinti prieigą prie jos ar pateikti aiškų įspėjimą vartotojams [Reglamento (ES) 2019/1020](https://eur-lex.europa.eu/eli/reg/2019/1020/oj) nustatyta tvarka. ^s-45687acfcbb34c6855a90a65
 
 
 5. Privalomi nurodymai pašalinti informaciją arba panaikinti galimybę ją pasiekti duodami ir vykdomi [[latest/TAR.82D8168D3049#^s-8ced48fe06cc6baf66db741c|Lietuvos Respublikos elektroninių ryšių įstatymo 98 straipsnyje]] nustatyta tvarka. ^s-7b12ca99bc6dbedf721ef4e0
@@ -391,7 +391,7 @@ RINKOS PRIEŽIŪRA
 1. Rinkos priežiūros institucija skelbia savo interneto svetainėje informaciją apie produktų keliamą pavojų vartotojų gyvybei ir sveikatai, įskaitant informaciją apie produktų identifikaciją, pavojaus pobūdį ir priemones, kurių imtasi jai pašalinti, nepažeisdama asmens duomenų, komercinių ir kitų paslapčių teisinę apsaugą reglamentuojančių teisės aktų reikalavimų. ^s-4f1c07db0696cb1ee471440f
 
 
-2. Rinkos priežiūros institucija imasi būtinų priemonių, kad jos pareigūnai, valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartį, būtų įpareigoti neatskleisti Reglamento (ES) 2023/988 ir šio įstatymo įgyvendinimo tikslais gautos informacijos, kuri pagal ekonominės veiklos vykdytojo, paslaugų teikėjo ar elektroninės prekyvietės paslaugų teikėjo pateiktą prašymą rinkos priežiūros institucijai laikoma jų komercine paslaptimi arba kita konfidencialia informacija, išskyrus informaciją apie produktų saugą, kuri turi būti paskelbta, kad būtų galima apsaugoti vartotojų gyvybę ir sveikatą. ^s-eb45813268cfdaba335f690f
+2. Rinkos priežiūros institucija imasi būtinų priemonių, kad jos pareigūnai, valstybės tarnautojai ir darbuotojai, dirbantys pagal darbo sutartį, būtų įpareigoti neatskleisti [Reglamento (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) ir šio įstatymo įgyvendinimo tikslais gautos informacijos, kuri pagal ekonominės veiklos vykdytojo, paslaugų teikėjo ar elektroninės prekyvietės paslaugų teikėjo pateiktą prašymą rinkos priežiūros institucijai laikoma jų komercine paslaptimi arba kita konfidencialia informacija, išskyrus informaciją apie produktų saugą, kuri turi būti paskelbta, kad būtų galima apsaugoti vartotojų gyvybę ir sveikatą. ^s-eb45813268cfdaba335f690f
 
 
 3. Komercinės paslapties arba kitos konfidencialios informacijos saugojimas netrukdo rinkos priežiūros institucijai šią informaciją naudoti rinkos stebėsenai ir priežiūrai. ^s-5d32449b1871ca446ea88edf
@@ -442,16 +442,16 @@ RINKOS RIBOJIMO PRIEMONĖS
 2) jeigu yra pagrindo manyti, kad produktas yra pavojingas, nors jis ir atitinka bendrojo saugos reikalavimo prezumpciją; ^s-1887854a0bdf90140f3b4b87
 
 
-3) jeigu per Reglamente (ES) 2023/988 nurodytą skubių įspėjimų sistemą gaunamas pranešimas apie didelį pavojų keliantį gaminį. ^s-ff35da6135db9e29b56da865
+3) jeigu per [Reglamente (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) nurodytą skubių įspėjimų sistemą gaunamas pranešimas apie didelį pavojų keliantį gaminį. ^s-ff35da6135db9e29b56da865
 
 
 2. Šio įstatymo [[#^s-48f8494736a5c678cda5667c|16 straipsnio 1 dalies 2 punkte]] nurodyta rinkos ribojimo priemonė taikoma, jeigu: ^s-3c30f81eea1c6bba2c9b0328
 
 
-1) rinkos priežiūros institucija nustato, kad yra Reglamento (ES) 2019/1020 [[#^s-15303023c804944c8f17d471|19 straipsnyje]] nurodyti pagrindai; ^s-2cce141e4a3fabb2aabed770
+1) rinkos priežiūros institucija nustato, kad yra [Reglamento (ES) 2019/1020 19 straipsnyje](https://eur-lex.europa.eu/eli/reg/2019/1020/art_19/oj) nurodyti pagrindai; ^s-2cce141e4a3fabb2aabed770
 
 
-2) ekonominės veiklos vykdytojas ar elektroninės prekyvietės paslaugų teikėjas nesiima rinkos priežiūros institucijos nurodytų taisomųjų veiksmų pagal Reglamento (ES) 2019/1020 [[#^s-8b476afd3e8f7b2536cf1bce|16 straipsnį]] arba nepašalinamas produkto keliamas didelis pavojus. ^s-16aefaf4cf55d82fc7107bd3
+2) ekonominės veiklos vykdytojas ar elektroninės prekyvietės paslaugų teikėjas nesiima rinkos priežiūros institucijos nurodytų taisomųjų veiksmų pagal [Reglamento (ES) 2019/1020 16 straipsnį](https://eur-lex.europa.eu/eli/reg/2019/1020/art_16/oj) arba nepašalinamas produkto keliamas didelis pavojus. ^s-16aefaf4cf55d82fc7107bd3
 
 
 3. Sprendimus dėl šio įstatymo [[#^s-0a6437ca43e9a432e35f7887|16 straipsnio 1 dalyje]] nurodytų rinkos ribojimo priemonių taikymo priima rinkos priežiūros institucija, atlikusi ekonominės veiklos vykdytojo, paslaugų teikėjo ir (ar) elektroninės prekyvietės paslaugų teikėjo veiklos patikrinimą. ^s-775080bcbdfd024b6eb38ed6
@@ -525,17 +525,17 @@ ATSAKOMYBĖS UŽ PRODUKTŲ SAUGĄ REGULIUOJANČIŲ TEISĖS AKTŲ PAŽEIDIMUS TAI
 ### 18 straipsnis. Atsakomybė už produktų saugą reguliuojančių teisės aktų pažeidimus ^s-e41e983e25b7fe062cf91da3
 
 
-Ekonominės veiklos vykdytojai, paslaugų teikėjai ir elektroninių prekyviečių paslaugų teikėjai, pažeidę Reglamento (ES) 2023/988 ir (ar) šio įstatymo reikalavimus, atsako šio įstatymo nustatyta tvarka.
+Ekonominės veiklos vykdytojai, paslaugų teikėjai ir elektroninių prekyviečių paslaugų teikėjai, pažeidę [Reglamento (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) ir (ar) šio įstatymo reikalavimus, atsako šio įstatymo nustatyta tvarka.
 
 
 
 ### 19 straipsnis. Baudos ir įspėjimas už Reglamento (ES) 2023/988 ir (ar) šio įstatymo pažeidimus ^s-15303023c804944c8f17d471
 
 
-1. Jeigu ekonominės veiklos vykdytojas pateikia arba tiekia rinkai pavojingą gaminį, paslaugų teikėjas teikia pavojingas paslaugas ar elektroninės prekyvietės paslaugos teikėjas pateikia informaciją, kurioje teikiamas pavojingo produkto pasiūlymas, arba jeigu ekonominės veiklos vykdytojas ar elektroninės prekyvietės paslaugos teikėjas nevykdo kitų Reglamente (ES) 2023/988 ar šiame įstatyme nustatytų ekonominės veiklos vykdytojo ar elektroninės prekyvietės paslaugos teikėjo pareigų arba jeigu paslaugų teikėjas nevykdo kitų šiame įstatyme nustatytų paslaugų teikėjo pareigų, jam skiriama nuo 1 000 iki 5 000 eurų bauda. ^s-31de1db2be7b684edbc4beac
+1. Jeigu ekonominės veiklos vykdytojas pateikia arba tiekia rinkai pavojingą gaminį, paslaugų teikėjas teikia pavojingas paslaugas ar elektroninės prekyvietės paslaugos teikėjas pateikia informaciją, kurioje teikiamas pavojingo produkto pasiūlymas, arba jeigu ekonominės veiklos vykdytojas ar elektroninės prekyvietės paslaugos teikėjas nevykdo kitų [Reglamente (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) ar šiame įstatyme nustatytų ekonominės veiklos vykdytojo ar elektroninės prekyvietės paslaugos teikėjo pareigų arba jeigu paslaugų teikėjas nevykdo kitų šiame įstatyme nustatytų paslaugų teikėjo pareigų, jam skiriama nuo 1 000 iki 5 000 eurų bauda. ^s-31de1db2be7b684edbc4beac
 
 
-2. Jeigu ekonominės veiklos vykdytojas, paslaugų teikėjas ar elektroninės prekyvietės paslaugos teikėjas nevykdo rinkos priežiūros institucijos sprendimo dėl rinkos ribojimo priemonės taikymo, šio įstatymo [[#^s-4d3ce1735967462ca4440479|13 straipsnyje]] nurodyto privalomo nurodymo ar kito pagal Reglamentą (ES) 2023/988 ar šį įstatymą priimto rinkos priežiūros institucijos sprendimo, jam skiriama nuo 2 000 iki 10 000 eurų bauda. ^s-1d5c6bf9c353a7f8d1f54e9c
+2. Jeigu ekonominės veiklos vykdytojas, paslaugų teikėjas ar elektroninės prekyvietės paslaugos teikėjas nevykdo rinkos priežiūros institucijos sprendimo dėl rinkos ribojimo priemonės taikymo, šio įstatymo [[#^s-4d3ce1735967462ca4440479|13 straipsnyje]] nurodyto privalomo nurodymo ar kito pagal [Reglamentą (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) ar šį įstatymą priimto rinkos priežiūros institucijos sprendimo, jam skiriama nuo 2 000 iki 10 000 eurų bauda. ^s-1d5c6bf9c353a7f8d1f54e9c
 
 
 3. Jeigu pavojingas produktas padarė žalos vartotojo sveikatai, jį rinkai pateikusiam ar tiekusiam ekonominės veiklos vykdytojui, paslaugų teikėjui ar elektroninės prekyvietės paslaugų teikėjui skiriama nuo 5 000 iki 15 000 eurų bauda. ^s-b94244dae6e9b4c012d4d56f
@@ -544,7 +544,7 @@ Ekonominės veiklos vykdytojai, paslaugų teikėjai ir elektroninių prekyvieči
 4. Jeigu pavojingas produktas sukėlė vartotojo mirtį, jį rinkai pateikusiam ar tiekusiam ekonominės veiklos vykdytojui, paslaugų teikėjui ar elektroninės prekyvietės paslaugų teikėjui skiriama nuo 15 000 iki 50 000 eurų bauda. ^s-ad1e9c61905f11864fb0aed8
 
 
-5. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudos vidurkį. Skiriant konkrečią baudą, atsižvelgiama į šio įstatymo [[#^s-071c4d7a67da1a61dfba8d5b|20 straipsnio]] 2 ir [[#^s-b94244dae6e9b4c012d4d56f|3 dalyse]] nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidurkio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidurkio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir (ar) sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų skaičių ir reikšmingumą. Baudos dydžio mažinimas ar didinimas turi būti motyvuojamas Valstybinės vartotojų teisių apsaugos tarnybos (toliau – Tarnyba) nutarime. ^s-866e77b1230603977036c782
+5. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudos vidurkį. Skiriant konkrečią baudą, atsižvelgiama į šio įstatymo [[#^s-071c4d7a67da1a61dfba8d5b|20 straipsnio]] [[#^s-27ba465f29623c01ea6a312e|2]] ir [[#^s-dcd40f94e8528607cde7c200|3]] dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidurkio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidurkio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir (ar) sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų skaičių ir reikšmingumą. Baudos dydžio mažinimas ar didinimas turi būti motyvuojamas Valstybinės vartotojų teisių apsaugos tarnybos (toliau – Tarnyba) nutarime. ^s-866e77b1230603977036c782
 
 
 6. Baudos skyrimas neatleidžia ekonominės veiklos vykdytojo, paslaugų teikėjo ar elektroninės prekyvietės paslaugos teikėjo nuo pareigos atlyginti vartotojui padarytą žalą. ^s-6f2f7221c59a6a22345ee291
@@ -647,7 +647,7 @@ Ekonominės veiklos vykdytojai, paslaugų teikėjai ir elektroninių prekyvieči
 ### 23 straipsnis. Rinkos priežiūros institucijų sprendimų ir Tarnybos nutarimų apskundimas ^s-c2c4ca3e23873324d73ff233
 
 
-1. Ekonominės veiklos vykdytojas, paslaugų teikėjas ar elektroninės prekyvietės paslaugos teikėjas rinkos priežiūros institucijų sprendimus dėl rinkos ribojimo priemonių taikymo ir Tarnybos nutarimus dėl baudos ar įspėjimo skyrimo per vieną mėnesį nuo šių sprendimų ar nutarimų įteikimo jam dienos gali apskųsti teismui [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-7f66049dd5e0c9125ee06971
+1. Ekonominės veiklos vykdytojas, paslaugų teikėjas ar elektroninės prekyvietės paslaugos teikėjas rinkos priežiūros institucijų sprendimus dėl rinkos ribojimo priemonių taikymo ir Tarnybos nutarimus [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) ar įspėjimo skyrimo per vieną mėnesį nuo šių sprendimų ar nutarimų įteikimo jam dienos gali apskųsti teismui [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-7f66049dd5e0c9125ee06971
 
 
 2. Kreipimasis į teismą nesustabdo nutarimų ar sprendimų vykdymo, jeigu teismas nenustato kitaip. ^s-e31d3abdf7a53648693865ac
@@ -657,10 +657,10 @@ Ekonominės veiklos vykdytojai, paslaugų teikėjai ir elektroninių prekyvieči
 ### 24 straipsnis. Tarnybos nutarimų vykdymas ^s-f371fc80f44e73970e10f231
 
 
-1. Tarnybos nutarimu paskirtos baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kurią šio įstatymo pažeidėjas gavo Tarnybos nutarimą dėl baudos paskyrimo. ^s-da2720ddb62905192f8acfca
+1. Tarnybos nutarimu paskirtos baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kurią šio įstatymo pažeidėjas gavo Tarnybos nutarimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) paskyrimo. ^s-da2720ddb62905192f8acfca
 
 
-2. Tarnybos nutarimas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka ^s-1999017a18db2440beb94615
+2. Tarnybos nutarimas yra vykdomasis dokumentas, vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka ^s-1999017a18db2440beb94615
 
 
 
@@ -682,7 +682,7 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/988 dėl bendros gaminių saugos, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1025/2012 bei Europos Parlamento ir Tarybos direktyva (ES) 2020/1828 ir panaikinamos Europos Parlamento ir Tarybos direktyva 2001/95/EB bei Tarybos direktyva 87/357/EEB.
+2023 m. gegužės 10 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) dėl bendros gaminių saugos, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1025/2012](https://eur-lex.europa.eu/eli/reg/1025/2012/oj) bei Europos Parlamento ir Tarybos [direktyva (ES) 2020/1828](https://eur-lex.europa.eu/eli/dir/2020/1828/oj) ir panaikinamos Europos Parlamento ir Tarybos direktyva 2001/95/EB bei Tarybos direktyva 87/357/EEB.
 
 
 
@@ -711,7 +711,7 @@ Nr. XI-2335, 2012-11-06, Žin., 2012, Nr. 132-6663 (2012-11-15), i. k. [[latest/
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1490, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21245
-Lietuvos Respublikos produktų saugos įstatymo Nr. VIII-1206 2 ir [[#^s-f80b25d8e096084196b5c883|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos produktų saugos įstatymo Nr. VIII-1206 [[#^s-ecc7b4203f5b15e633183bad|2]] ir [[#^s-f80b25d8e096084196b5c883|12]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -721,7 +721,7 @@ Lietuvos Respublikos produktų saugos įstatymo Nr. VIII-1206 [[#^s-c2c4ca3e2387
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1867, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10768
-Lietuvos Respublikos produktų saugos įstatymo Nr. VIII-1206 5, 6, 8, 9, 10, 11, 13, 15, 16, 17, 23, 24, 25, 27, 28, 29 straipsnių pakeitimo ir [[#^s-c51e116f924ce095add0253d|22 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos produktų saugos įstatymo Nr. VIII-1206 [[#^s-9f5fd10141afed1f8a1680b0|5]], [[#^s-7d2b0aa6f4724a69f1eb3fc3|6]], [[#^s-33e089cfc03eac62bb09f833|8]], [[#^s-df11df97294e786c04cc26a2|9]], [[#^s-dd7056d491ad034fde0fa53e|10]], [[#^s-b53f701a6af74709d9826e81|11]], [[#^s-4d3ce1735967462ca4440479|13]], [[#^s-5b105036bf0b220a40eca382|15]], [[#^s-8b476afd3e8f7b2536cf1bce|16]], [[#^s-1667cb8fef1a9840bd5730c6|17]], [[#^s-c2c4ca3e23873324d73ff233|23]], [[#^s-f371fc80f44e73970e10f231|24]], 25, 27, 28, 29 straipsnių pakeitimo ir [[#^s-c51e116f924ce095add0253d|22 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas

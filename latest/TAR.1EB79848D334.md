@@ -47,13 +47,13 @@ Vilnius
 1. Pakeisti 2 straipsnio 63 dalį ir ją išdėstyti taip: ^s-03fac697bca88767e82fb723
 
 
-„63. Vaistinio preparato rinkodaros pažymėjimo sąlygų keitimas (toliau – rinkodaros pažymėjimo sąlygų keitimas) – keitimas, kaip nurodyta 2008 m. lapkričio 24 d. Europos Komisijos reglamento (EB) Nr. 1234/2008 dėl žmonėms skirtų vaistų ir veterinarinių vaistų rinkodaros pažymėjimų sąlygų keitimų nagrinėjimo (toliau – Reglamentas (EB) Nr. 1234/2008) 2 straipsnio 1 dalyje, (toliau – reglamentinis rinkodaros pažymėjimo sąlygų keitimas, reglamentinis keitimas) arba prie reglamentinių keitimų nepriskiriamas rinkodaros pažymėjimo sąlygų keitimas, nustatytas sveikatos apsaugos ministro.“
+„63. Vaistinio preparato rinkodaros pažymėjimo sąlygų keitimas (toliau – rinkodaros pažymėjimo sąlygų keitimas) – keitimas, kaip nurodyta 2008 m. lapkričio 24 d. Europos Komisijos [reglamento (EB) Nr. 1234/2008](https://eur-lex.europa.eu/eli/reg/1234/2008/oj) dėl žmonėms skirtų vaistų ir veterinarinių vaistų rinkodaros pažymėjimų sąlygų keitimų nagrinėjimo (toliau – [Reglamentas (EB) Nr. 1234/2008](https://eur-lex.europa.eu/eli/reg/1234/2008/oj)) 2 straipsnio 1 dalyje, (toliau – reglamentinis rinkodaros pažymėjimo sąlygų keitimas, reglamentinis keitimas) arba prie reglamentinių keitimų nepriskiriamas rinkodaros pažymėjimo sąlygų keitimas, nustatytas sveikatos apsaugos ministro.“
 
 
 2. Pakeisti 2 straipsnio 64 dalį ir ją išdėstyti taip: ^s-0c1c2c328ac89b6016a9a751
 
 
-„64. Vaistinio preparato rinkodaros pažymėjimo sąlygų papildymas (toliau – rinkodaros pažymėjimo sąlygų papildymas) – reglamentinis keitimas, kaip nurodyta Reglamento (EB) Nr. 1234/2008 2 straipsnio 4 dalyje.“
+„64. Vaistinio preparato rinkodaros pažymėjimo sąlygų papildymas (toliau – rinkodaros pažymėjimo sąlygų papildymas) – reglamentinis keitimas, kaip nurodyta [Reglamento (EB) Nr. 1234/2008 2 straipsnio 4 dalyje](https://eur-lex.europa.eu/eli/reg/1234/2008/art_2/par_4/oj).“
 
 
 
@@ -73,7 +73,7 @@ Pakeisti 4 straipsnio 6 dalį ir ją išdėstyti taip:
 1. Pakeisti 9 straipsnio 2 dalį ir ją išdėstyti taip: ^s-f4e60cd12ffde8e80bdfefeb
 
 
-„2. Lietuvos Respublikoje vaistinių preparatų rinkodaros ir registracijos pažymėjimus išduoda, vaistinius preparatus perregistruoja, pažymėjimų sąlygų keitimus nagrinėja ir tvirtina, pažymėjimų galiojimą sustabdo, pažymėjimų galiojimo sustabdymą ar pažymėjimų galiojimą panaikina ir Lietuvos Respublikos vaistinių preparatų registrą sveikatos apsaugos ministro nustatyta tvarka tvarko Valstybinė vaistų kontrolės tarnyba. Reglamentiniai rinkodaros pažymėjimo sąlygų keitimai nagrinėjami ir tvirtinami Reglamento (EB) Nr. 1234/2008 nustatyta tvarka.“
+„2. Lietuvos Respublikoje vaistinių preparatų rinkodaros ir registracijos pažymėjimus išduoda, vaistinius preparatus perregistruoja, pažymėjimų sąlygų keitimus nagrinėja ir tvirtina, pažymėjimų galiojimą sustabdo, pažymėjimų galiojimo sustabdymą ar pažymėjimų galiojimą panaikina ir Lietuvos Respublikos vaistinių preparatų registrą sveikatos apsaugos ministro nustatyta tvarka tvarko Valstybinė vaistų kontrolės tarnyba. Reglamentiniai rinkodaros pažymėjimo sąlygų keitimai nagrinėjami ir tvirtinami [Reglamento (EB) Nr. 1234/2008](https://eur-lex.europa.eu/eli/reg/1234/2008/oj) nustatyta tvarka.“
 
 
 2. Pakeisti 9 straipsnio 3 dalį ir ją išdėstyti taip: ^s-f496e115403c174e769b8605
@@ -170,7 +170,7 @@ Pakeisti [[#^s-3404ef3b0cfd4bd750910786|17 straipsnį]] ir jį išdėstyti taip:
 12. Pagrindinės lygiagretaus importo leidimo turėtojo pareigos: ^s-401bdc45e4277d4294170de9
 
 
-1) registruoti visas įtariamas nepageidaujamas reakcijas, įskaitant įtariamus sunkius nepageidaujamų reakcijų padarinius, pasireiškusius Lietuvos Respublikoje, ir pranešti apie jas Valstybinei vaistų kontrolės tarnybai šio įstatymo 55 straipsnio 1 dalies 2 ir [[#^s-f39855c1da073d57018173f8|3 punktuose]] nustatyta tvarka; ^s-32f0dcbb3e4f2d068241689b
+1) registruoti visas įtariamas nepageidaujamas reakcijas, įskaitant įtariamus sunkius nepageidaujamų reakcijų padarinius, pasireiškusius Lietuvos Respublikoje, ir pranešti apie jas Valstybinei vaistų kontrolės tarnybai šio įstatymo 55 straipsnio 1 dalies 2 ir 3 punktuose nustatyta tvarka; ^s-32f0dcbb3e4f2d068241689b
 
 
 2) užtikrinti, kad būtų lygiagrečiai importuojamas vaistinis preparatas (jo serijos), kurio registracija galioja eksportuojančioje šalyje; ^s-faa2732ca6395cdb578507a7
@@ -276,7 +276,7 @@ Papildyti 39 straipsnį 9 punktu:
 Pakeisti 55 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
-„5. Vaistinio preparato rinkodaros teisės turėtojas gali prašyti Valstybinę vaistų kontrolės tarnybą patikslinti periodiškai atnaujinamų protokolų teikimo terminus pagal Reglamente (EB) Nr. 1234/2008 nurodytas procedūras.“
+„5. Vaistinio preparato rinkodaros teisės turėtojas gali prašyti Valstybinę vaistų kontrolės tarnybą patikslinti periodiškai atnaujinamų protokolų teikimo terminus pagal [Reglamente (EB) Nr. 1234/2008](https://eur-lex.europa.eu/eli/reg/1234/2008/oj) nurodytas procedūras.“
 
 
 
@@ -329,7 +329,7 @@ Pakeisti 64 straipsnio 2 dalį ir ją išdėstyti taip:
 Papildyti Įstatymo priedą 9 punktu:
 
 
-„9. 2008 m. lapkričio 24 d. Europos Komisijos reglamentas (EB) Nr. 1234/2008 dėl žmonėms skirtų vaistų ir veterinarinių vaistų rinkodaros pažymėjimų sąlygų keitimo nagrinėjimo (tekstas svarbus EEE) (OL 2008 L 334, p. 7).“
+„9. 2008 m. lapkričio 24 d. Europos Komisijos [reglamentas (EB) Nr. 1234/2008](https://eur-lex.europa.eu/eli/reg/1234/2008/oj) dėl žmonėms skirtų vaistų ir veterinarinių vaistų rinkodaros pažymėjimų sąlygų keitimo nagrinėjimo (tekstas svarbus EEE) (OL 2008 L 334, p. 7).“
 
 
 

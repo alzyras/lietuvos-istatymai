@@ -186,7 +186,7 @@ Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 
 
 
-294. Nemokestinių prievolių administravimas – mokesčių administratoriaus funkcijų, susijusių su nutarimų ir (ar) administracinių nurodymų Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka skirti baudas už administracinius nusižengimus, teismų sprendimų Lietuvos Respublikos baudžiamajame kodekse nustatyta tvarka skirti baudas už nusikalstamas veikas, viešojo administravimo subjektų ar teismų priimtų sprendimų skirti ekonomines pinigines sankcijas, teismų, prokurorų, ikiteisminio tyrimo teisėjų priimtų sprendimų skirti procesines baudas, sprendimų dėl teismo priteistų sumų valstybės naudai vykdymu, atlikimas: šių prievolių apskaita, įskaitymas, sumokėjimo išdėstymas, priverstinio išieškojimo inicijavimas, vykdymas, priežiūra ir sustabdymas, priverstinai išieškotų sumų paskirstymas Lietuvos Respublikos administracinių nusižengimų kodekse, Lietuvos Respublikos civilinio proceso kodekse, [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekse]], [[latest/TAR.A0A0CCC6B997|Lietuvos Respublikos bausmių vykdymo kodekse]] ir šiame Įstatyme nustatyta tvarka. ^s-ded29cf0852f2dd7965a7ec0
+294. Nemokestinių prievolių administravimas – mokesčių administratoriaus funkcijų, susijusių su nutarimų ir (ar) administracinių nurodymų Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka skirti baudas už administracinius nusižengimus, teismų sprendimų Lietuvos Respublikos baudžiamajame kodekse nustatyta tvarka skirti baudas už nusikalstamas veikas, viešojo administravimo subjektų ar teismų priimtų sprendimų skirti ekonomines pinigines sankcijas, teismų, prokurorų, ikiteisminio tyrimo teisėjų priimtų sprendimų skirti procesines baudas, sprendimų dėl teismo priteistų sumų valstybės naudai vykdymu, atlikimas: šių prievolių apskaita, įskaitymas, sumokėjimo išdėstymas, priverstinio išieškojimo inicijavimas, vykdymas, priežiūra ir sustabdymas, priverstinai išieškotų sumų paskirstymas Lietuvos Respublikos administracinių nusižengimų kodekse, [Lietuvos Respublikos civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekse]], [[latest/TAR.A0A0CCC6B997|Lietuvos Respublikos bausmių vykdymo kodekse]] ir šiame Įstatyme nustatyta tvarka. ^s-ded29cf0852f2dd7965a7ec0
 Papildyta straipsnio dalimi:
 Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 
@@ -218,7 +218,7 @@ Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 
 
 
-31. Šio Įstatymo [[#^s-1726332444688d6aade9d29c|2 straipsnio]] 1–[[#^s-35bdd2f2b096a6e95cf22bcf|301 dalyse]] vartojamos sąvokos suprantamos taip, jeigu atitinkamo mokesčio įstatymas nenustato kitaip. ^s-565733f55ab1654e5f1f8361
+31. Šio Įstatymo [[#^s-1726332444688d6aade9d29c|2 straipsnio]] [[#^s-5bf082aa496b104b0fc3515e|1]]–[[#^s-35bdd2f2b096a6e95cf22bcf|301]] dalyse vartojamos sąvokos suprantamos taip, jeigu atitinkamo mokesčio įstatymas nenustato kitaip. ^s-565733f55ab1654e5f1f8361
 Straipsnio dalies pakeitimai:
 Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 
@@ -227,7 +227,7 @@ Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 32. Kitos mokesčių įstatymuose vartojamos sąvokos yra apibrėžtos atskiruose šio Įstatymo straipsniuose ir atitinkamų mokesčių įstatymuose. ^s-9e7477ef4e136108f2ea3314
 
 
-33. Pagal šį Įstatymą Europos Sąjungos muitų teisės aktais laikomi teisės aktai, nurodyti 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas, su visais pakeitimais 5 straipsnio 2 punkte. ^s-31c843e30d7bab22d4bfae69
+33. Pagal šį Įstatymą Europos Sąjungos muitų teisės aktais laikomi teisės aktai, nurodyti 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos [muitinės kodeksas, su visais pakeitimais 5 straipsnio 2 punkte](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145). ^s-31c843e30d7bab22d4bfae69
 Straipsnio dalies pakeitimai:
 Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 Nr. XIV-761, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26591
@@ -505,35 +505,35 @@ Nr. X-1318, 2007-11-08, Žin., 2007, Nr. 120-4883 (2007-11-22)
 1. Šiame Įstatyme numatytų mokesčių administravimo procedūros vienodai taikomos visiems šio Įstatymo [[#^s-250b7a0b4550f7c3de89d5d9|13 straipsnyje]] nurodytiems mokesčiams ir jų mokėtojams, jeigu šis straipsnis, šis Įstatymas ar atitinkamo mokesčio įstatymas nenustato kitaip. ^s-6414a66da989fba6679db990
 
 
-2. Šio Įstatymo [[#^s-2047ef8490f147fc6bbf6cff|13 straipsnio 10 punkte]] nurodytas žyminis mokestis pagal šį Įstatymą administruojamas tik tiek, kiek tai nustatyta Civilinio proceso kodekse. ^s-ccbb64d3ab24d468b66d9377
+2. Šio Įstatymo 13 straipsnio 10 punkte nurodytas žyminis mokestis pagal šį Įstatymą administruojamas tik tiek, kiek tai nustatyta [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). ^s-ccbb64d3ab24d468b66d9377
 
 
-3. Šio Įstatymo [[#^s-1f5694fa8fafb68de8f322e6|13 straipsnio 15 punkte]] nurodyta valstybės rinkliava pagal šį Įstatymą administruojama tik tiek, kiek tai nustatyta [[latest/TAR.41CD8BF53D8D|Rinkliavų įstatyme]]. ^s-53c2ca5a83dd5ddd2877f935
+3. Šio Įstatymo 13 straipsnio 15 punkte nurodyta valstybės rinkliava pagal šį Įstatymą administruojama tik tiek, kiek tai nustatyta [[latest/TAR.41CD8BF53D8D|Rinkliavų įstatyme]]. ^s-53c2ca5a83dd5ddd2877f935
 
 
-4. Šio Įstatymo [[#^s-1ab26d3b201121039959bd8c|13 straipsnio 17 punkte]] nurodyti mokesčiai už pramoninės nuosavybės objektų registravimą pagal šį Įstatymą administruojami tiek, kiek tai nustatyta [[latest/TAR.7DE59B8C46B2|Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatyme]]. ^s-ab9e8ef724ab2f4a3543cb94
+4. Šio Įstatymo 13 straipsnio 17 punkte nurodyti mokesčiai už pramoninės nuosavybės objektų registravimą pagal šį Įstatymą administruojami tiek, kiek tai nustatyta [[latest/TAR.7DE59B8C46B2|Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatyme]]. ^s-ab9e8ef724ab2f4a3543cb94
 
 
-5. Šio Įstatymo [[#^s-c99c2ab6b8f2405754d8354b|13 straipsnio 13 punkte]] nurodytos privalomojo sveikatos draudimo įmokos ir 19 punkte nurodytos valstybinio socialinio draudimo įmokos pagal šį Įstatymą administruojamos tiek, kiek tai nustatyta Lietuvos Respublikos sveikatos draudimo įstatyme, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme ir šio Įstatymo 87 straipsnio 4 ir 41 dalyse. ^s-88471ca6d0d0942787585346
+5. Šio Įstatymo 13 straipsnio 13 punkte nurodytos privalomojo sveikatos draudimo įmokos ir 19 punkte nurodytos valstybinio socialinio draudimo įmokos pagal šį Įstatymą administruojamos tiek, kiek tai nustatyta [[latest/TAR.94F6B680E8B8|Lietuvos Respublikos sveikatos draudimo įstatyme, Lietuvos Respublikos valstybinio socialinio draudimo įstatyme ir šio Įstatymo 87 straipsnio]] [[latest/TAR.94F6B680E8B8|4]] ir [[latest/TAR.94F6B680E8B8|41]] dalyse. ^s-88471ca6d0d0942787585346
 Straipsnio dalies pakeitimai:
 Nr. XII-1985, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16907
 Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
 
 
 
-6. Šio Įstatymo [[#^s-a38e45b7b4ab0e427eca2bac|13 straipsnio 23 punkte]] nurodyti muitai ir su jais susijusios sumos pagal šį Įstatymą administruojami tiek, kiek šio Įstatymo nuostatos neprieštarauja Europos Sąjungos muitų teisės aktams. ^s-71da56c9294aaae041ccedeb
+6. Šio Įstatymo 13 straipsnio 23 punkte nurodyti muitai ir su jais susijusios sumos pagal šį Įstatymą administruojami tiek, kiek šio Įstatymo nuostatos neprieštarauja Europos Sąjungos muitų teisės aktams. ^s-71da56c9294aaae041ccedeb
 Straipsnio dalies pakeitimai:
 Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
 
 
 
-61. Šio Įstatymo [[#^s-9bf232389eea247f24965bee|13 straipsnio 29 punkte]] nurodytas motorinių transporto priemonių registracijos mokestis pagal šį Įstatymą administruojamas tiek, kiek tai nustatyta [[latest/10c22fe02acf11eabe008ea93139d588|Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatyme]]. ^s-046e514707135dcbf364f55a
+61. Šio Įstatymo 13 straipsnio 29 punkte nurodytas motorinių transporto priemonių registracijos mokestis pagal šį Įstatymą administruojamas tiek, kiek tai nustatyta [[latest/10c22fe02acf11eabe008ea93139d588|Lietuvos Respublikos motorinių transporto priemonių registracijos mokesčio įstatyme]]. ^s-046e514707135dcbf364f55a
 Papildyta straipsnio dalimi:
 Nr. XIII-2691, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21547
 
 
 
-7. Už administracinius nusižengimus Administracinių nusižengimų kodekso nustatyta tvarka paskirtoms baudoms (toliau – bauda už administracinius nusižengimus) administruoti tiesiogiai taikomi šio Įstatymo [[#^s-41a4ddd745e0cf9e613dd57c|26 straipsnio 1 dalies 12 punktas]], [[#^s-1dd59f34eaf210d5fc086b7f|88 straipsnio 11 dalis]], [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] 9 ir 10 punktai, [[#^s-1ed8690fceb939b7fad29f78|105 straipsnio 3 dalis]], [[#^s-c87aef42bfb8a40bbc175c1a|106 straipsnio 2 dalis]], [[#^s-78bf69d5222de8e7b1a267e1|107 straipsnio 6 dalis]], [[#^s-831d20b92fb6e1066611f295|110 straipsnio 4 dalis]], [[#^s-c11211388dabc39ad1a33172|113 straipsnio]] 2 ir [[#^s-88471ca6d0d0942787585346|5 dalys]] ir mutatis mutandis yra taikytini šio Įstatymo [[#^s-c5194401e2024c2ffef73682|26 straipsnio 1 dalies]] 3–5, 9–11 punktai, 84, [[#^s-e61b46a584f6ba3cb48643e7|85 straipsniai]], [[#^s-ea33f8bfed4ac45be9759362|87 straipsnio]] 1, 3, 4, 41 ir [[#^s-88471ca6d0d0942787585346|5 dalys]], [[#^s-7022d32265b0be64e8c7cd5c|88 straipsnio]] 2 ir [[#^s-038108eb84addbd8edd6614a|7 dalys]], [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] 1, 2 ir 8 punktai, [[#^s-0106e23dad6a9fe33543be16|95 straipsnio 1 dalies 2 punktas]], [[#^s-b5969c5bede73c553aed0ecb|101 straipsnis]], [[#^s-1ca091636728363a8a8d205b|106 straipsnio 1 dalies]] 1 ir 4 punktai, 6–10 dalys, [[#^s-ace59b10df8095ec0587f0e6|108 straipsnio 1 dalies]] 2 ir 4 punktai, [[#^s-ccbb64d3ab24d468b66d9377|2 dalies]] 2 ir 4 punktai, [[#^s-1f9c769678296eefd61cd95c|109 straipsnis]], [[#^s-b5be800ad5a4109bed92f6ff|110 straipsnio]] 2 ir [[#^s-53c2ca5a83dd5ddd2877f935|3 dalys]], 111, [[#^s-3a776ffe473ec567224f7b20|112 straipsniai]], [[#^s-c11211388dabc39ad1a33172|113 straipsnio]] 3 ir [[#^s-ab9e8ef724ab2f4a3543cb94|4 dalys]], IX, X skyriai, o asmenims, kuriems paskirtos baudos už administracinius nusižengimus, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias baudas pradeda administruoti, gavusi duomenis apie jas iš Administracinių nusižengimų registro informacinės sistemos. ^s-038108eb84addbd8edd6614a
+7. Už administracinius nusižengimus Administracinių nusižengimų kodekso nustatyta tvarka paskirtoms baudoms (toliau – bauda už administracinius nusižengimus) administruoti tiesiogiai taikomi šio Įstatymo [[#^s-41a4ddd745e0cf9e613dd57c|26 straipsnio 1 dalies 12 punktas]], [[#^s-1dd59f34eaf210d5fc086b7f|88 straipsnio 11 dalis]], [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] [[#^s-d036b0a09af77990a1058acd|9]] ir [[#^s-946cb77d69936195179f3015|10]] punktai, [[#^s-1ed8690fceb939b7fad29f78|105 straipsnio 3 dalis]], [[#^s-c87aef42bfb8a40bbc175c1a|106 straipsnio 2 dalis]], [[#^s-78bf69d5222de8e7b1a267e1|107 straipsnio 6 dalis]], [[#^s-831d20b92fb6e1066611f295|110 straipsnio 4 dalis]], [[#^s-c11211388dabc39ad1a33172|113 straipsnio]] [[#^s-c0e048c6b360d28d55235fb1|2]] ir [[#^s-5cfd258589b7cb8549bb22cd|5]] dalys ir mutatis mutandis yra taikytini šio Įstatymo [[#^s-c5194401e2024c2ffef73682|26 straipsnio 1 dalies]] [[#^s-33c7eb7468a767a89f770aa8|3]]–[[#^s-f949d6adba472eea9e0f5584|5]], [[#^s-b924d53298cbb99fe9e6e36a|9]]–[[#^s-69b5636fd5a33a61b4d8c020|11]] punktai, [[#^s-d353c4a2bfde442ca71834bd|84]], [[#^s-e61b46a584f6ba3cb48643e7|85]] straipsniai, [[#^s-ea33f8bfed4ac45be9759362|87 straipsnio]] [[#^s-fbcaa628d5d2a2686dba2ce0|1]], [[#^s-d413b22c875a8df6253223d7|3]], [[#^s-03dae6cc82d7f8a13fe89cbb|4]], [[#^s-5f6ab7f3eb75a6d498db8310|41]] ir [[#^s-c43c1a9b4b7ad25cab1d0eb2|5]] dalys, [[#^s-7022d32265b0be64e8c7cd5c|88 straipsnio]] [[#^s-4605c56431a205a31877c361|2]] ir [[#^s-75c920df2a087218d91d503e|7]] dalys, [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] [[#^s-725d5186c367f3b7c7e5ff76|1]], [[#^s-156d834a31781fdb52169bbe|2]] ir [[#^s-e3c44195aea58bdf3a040322|8]] punktai, [[#^s-0106e23dad6a9fe33543be16|95 straipsnio 1 dalies 2 punktas]], [[#^s-b5969c5bede73c553aed0ecb|101 straipsnis]], [[#^s-1ca091636728363a8a8d205b|106 straipsnio 1 dalies]] [[#^s-e7e8d5d12430565c3604f7e5|1]] ir [[#^s-174742bd2cf37a686a8e32c7|4]] punktai, [[#^s-854865c6eee3fdf4f33d3408|6]]–[[#^s-1625192aef301eb4cd67de7c|10]] dalys, [[#^s-ace59b10df8095ec0587f0e6|108 straipsnio 1 dalies]] [[#^s-aea05e496fbc483990020511|2]] ir [[#^s-21c9992ae34117bebf72de11|4]] punktai, [[#^s-ccbb64d3ab24d468b66d9377|2 dalies]] [[#^s-aea05e496fbc483990020511|2]] ir [[#^s-21c9992ae34117bebf72de11|4]] punktai, [[#^s-1f9c769678296eefd61cd95c|109 straipsnis]], [[#^s-b5be800ad5a4109bed92f6ff|110 straipsnio]] [[#^s-ea2bc7daf34a0ad3a9f258e2|2]] ir [[#^s-9c2c0a4182aab7c1ee4d2905|3]] dalys, [[#^s-54e916108797c83cedfc3623|111]], [[#^s-3a776ffe473ec567224f7b20|112]] straipsniai, [[#^s-c11211388dabc39ad1a33172|113 straipsnio]] [[#^s-4b9da88e4371766330a481d6|3]] ir [[#^s-35e1eb9f90240c5873486d90|4]] dalys, IX, X skyriai, o asmenims, kuriems paskirtos baudos už administracinius nusižengimus, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias baudas pradeda administruoti, gavusi duomenis apie jas iš Administracinių nusižengimų registro informacinės sistemos. ^s-038108eb84addbd8edd6614a
 Straipsnio dalies pakeitimai:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
@@ -543,7 +543,7 @@ Nr. XV-515, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19752
 
 
 
-71. Ekonominėms piniginėms sankcijoms administruoti tiesiogiai taikomi šio Įstatymo [[#^s-41a4ddd745e0cf9e613dd57c|26 straipsnio 1 dalies 12 punktas]], [[#^s-72bd7d64750aea4398e17bb3|93 straipsnio 1 dalies 11 punktas]], [[#^s-b663f9e629cf34b8e45dad7f|105 straipsnio 5 dalis]], [[#^s-50ecc9fb310f8563a98bee12|106 straipsnio 3 dalis]], [[#^s-831d20b92fb6e1066611f295|110 straipsnio 4 dalis]] ir mutatis mutandis taikytini šio Įstatymo [[#^s-c5194401e2024c2ffef73682|26 straipsnio 1 dalies]] 3–5, 9–11 punktai, 84, [[#^s-e61b46a584f6ba3cb48643e7|85 straipsniai]], [[#^s-ea33f8bfed4ac45be9759362|87 straipsnio]] 1, 3, 4, 41 ir [[#^s-88471ca6d0d0942787585346|5 dalys]], [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] 1, 2, 4, 6 ir 8 punktai, [[#^s-0106e23dad6a9fe33543be16|95 straipsnio 1 dalies 2 punktas]], [[#^s-b5969c5bede73c553aed0ecb|101 straipsnis]], [[#^s-1ca091636728363a8a8d205b|106 straipsnio 1 dalies]] 1 ir 4 punktai, 6–10 dalys, [[#^s-97d85f418e75312c8ae7b2be|107 straipsnis]] (išskyrus [[#^s-71da56c9294aaae041ccedeb|6 dalį]]), [[#^s-21c9992ae34117bebf72de11|108 straipsnio 1 dalies 4 punktas]], 2 dalies 4 punktas, [[#^s-1f9c769678296eefd61cd95c|109 straipsnis]], [[#^s-9c2c0a4182aab7c1ee4d2905|110 straipsnio 3 dalis]], 111, [[#^s-3a776ffe473ec567224f7b20|112 straipsniai]], [[#^s-c11211388dabc39ad1a33172|113 straipsnio]] 2, 3 ir [[#^s-ab9e8ef724ab2f4a3543cb94|4 dalys]], IX, X skyriai, o asmenims, kuriems paskirtos ekonominės piniginės sankcijos, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias prievoles pradeda administruoti, gavusi duomenis apie jas iš Administracinių nusižengimų registro informacinės sistemos. Lietuvos Respublikos konkurencijos tarybos paskirtoms ekonominėms piniginėms sankcijoms administruoti netaikomi šio Įstatymo [[#^s-e3c44195aea58bdf3a040322|93 straipsnio 1 dalies 8 punktas]], [[#^s-dfbc719982cd400be9a2b658|106 straipsnio 8 dalis]], 107, [[#^s-254bcacff14dceb23b4f6ef5|108 straipsniai]], [[#^s-6b3d27bb8aa5d6824a4e6ca2|112 straipsnio 2 punktas]] ir [[#^s-c11211388dabc39ad1a33172|113 straipsnis]]. ^s-369733da1b0c518b5b5d8572
+71. Ekonominėms piniginėms sankcijoms administruoti tiesiogiai taikomi šio Įstatymo [[#^s-41a4ddd745e0cf9e613dd57c|26 straipsnio 1 dalies 12 punktas]], [[#^s-72bd7d64750aea4398e17bb3|93 straipsnio 1 dalies 11 punktas]], [[#^s-b663f9e629cf34b8e45dad7f|105 straipsnio 5 dalis]], [[#^s-50ecc9fb310f8563a98bee12|106 straipsnio 3 dalis]], [[#^s-831d20b92fb6e1066611f295|110 straipsnio 4 dalis]] ir mutatis mutandis taikytini šio Įstatymo [[#^s-c5194401e2024c2ffef73682|26 straipsnio 1 dalies]] [[#^s-33c7eb7468a767a89f770aa8|3]]–[[#^s-f949d6adba472eea9e0f5584|5]], [[#^s-b924d53298cbb99fe9e6e36a|9]]–[[#^s-69b5636fd5a33a61b4d8c020|11]] punktai, [[#^s-d353c4a2bfde442ca71834bd|84]], [[#^s-e61b46a584f6ba3cb48643e7|85]] straipsniai, [[#^s-ea33f8bfed4ac45be9759362|87 straipsnio]] [[#^s-fbcaa628d5d2a2686dba2ce0|1]], [[#^s-d413b22c875a8df6253223d7|3]], [[#^s-03dae6cc82d7f8a13fe89cbb|4]], [[#^s-5f6ab7f3eb75a6d498db8310|41]] ir [[#^s-c43c1a9b4b7ad25cab1d0eb2|5]] dalys, [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] [[#^s-725d5186c367f3b7c7e5ff76|1]], [[#^s-156d834a31781fdb52169bbe|2]], [[#^s-c4b1b00b4b6c9cb69e061c97|4]], [[#^s-41e754266c0d80d76f4777e7|6]] ir [[#^s-e3c44195aea58bdf3a040322|8]] punktai, [[#^s-0106e23dad6a9fe33543be16|95 straipsnio 1 dalies 2 punktas]], [[#^s-b5969c5bede73c553aed0ecb|101 straipsnis]], [[#^s-1ca091636728363a8a8d205b|106 straipsnio 1 dalies]] [[#^s-e7e8d5d12430565c3604f7e5|1]] ir [[#^s-174742bd2cf37a686a8e32c7|4]] punktai, [[#^s-854865c6eee3fdf4f33d3408|6]]–[[#^s-1625192aef301eb4cd67de7c|10]] dalys, [[#^s-97d85f418e75312c8ae7b2be|107 straipsnis]] (išskyrus [[#^s-71da56c9294aaae041ccedeb|6 dalį]]), [[#^s-21c9992ae34117bebf72de11|108 straipsnio 1 dalies 4 punktas]], 2 dalies 4 punktas, [[#^s-1f9c769678296eefd61cd95c|109 straipsnis]], [[#^s-9c2c0a4182aab7c1ee4d2905|110 straipsnio 3 dalis]], [[#^s-54e916108797c83cedfc3623|111]], [[#^s-3a776ffe473ec567224f7b20|112]] straipsniai, [[#^s-c11211388dabc39ad1a33172|113 straipsnio]] [[#^s-c0e048c6b360d28d55235fb1|2]], [[#^s-4b9da88e4371766330a481d6|3]] ir [[#^s-35e1eb9f90240c5873486d90|4]] dalys, IX, X skyriai, o asmenims, kuriems paskirtos ekonominės piniginės sankcijos, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias prievoles pradeda administruoti, gavusi duomenis apie jas iš Administracinių nusižengimų registro informacinės sistemos. Lietuvos Respublikos konkurencijos tarybos paskirtoms ekonominėms piniginėms sankcijoms administruoti netaikomi šio Įstatymo [[#^s-e3c44195aea58bdf3a040322|93 straipsnio 1 dalies 8 punktas]], [[#^s-dfbc719982cd400be9a2b658|106 straipsnio 8 dalis]], [[#^s-97d85f418e75312c8ae7b2be|107]], [[#^s-254bcacff14dceb23b4f6ef5|108]] straipsniai, 112 straipsnio 2 punktas ir [[#^s-c11211388dabc39ad1a33172|113 straipsnis]]. ^s-369733da1b0c518b5b5d8572
 Papildyta straipsnio dalimi:
 Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 Straipsnio dalies pakeitimai:
@@ -551,19 +551,19 @@ Nr. XV-515, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19752
 
 
 
-72. Procesinėms baudoms administruoti tiesiogiai taikomi šio Įstatymo [[#^s-41a4ddd745e0cf9e613dd57c|26 straipsnio 1 dalies 12 punktas]], [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] 9 ir 10 punktai, [[#^s-5cd5bb6bde35e012c42f778b|105 straipsnio 7 dalis]], [[#^s-50ecc9fb310f8563a98bee12|106 straipsnio 3 dalis]], [[#^s-831d20b92fb6e1066611f295|110 straipsnio 4 dalis]] ir mutatis mutandis taikytini šio Įstatymo [[#^s-c5194401e2024c2ffef73682|26 straipsnio 1 dalies]] 3–5, 9–11 punktai, 84, [[#^s-e61b46a584f6ba3cb48643e7|85 straipsniai]], [[#^s-ea33f8bfed4ac45be9759362|87 straipsnio]] 1, 3, 4, 41 ir [[#^s-88471ca6d0d0942787585346|5 dalys]], [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] 1, 2, 4, 6 ir 8 punktai, [[#^s-0106e23dad6a9fe33543be16|95 straipsnio 1 dalies 2 punktas]], [[#^s-b5969c5bede73c553aed0ecb|101 straipsnis]], [[#^s-1ca091636728363a8a8d205b|106 straipsnio 1 dalies]] 1 ir 4 punktai, 6–10 dalys, [[#^s-97d85f418e75312c8ae7b2be|107 straipsnis]] (išskyrus 5 ir [[#^s-71da56c9294aaae041ccedeb|6 dalis]]), [[#^s-21c9992ae34117bebf72de11|108 straipsnio 1 dalies 4 punktas]], 2 dalies 4 punktas, [[#^s-1f9c769678296eefd61cd95c|109 straipsnis]], [[#^s-9c2c0a4182aab7c1ee4d2905|110 straipsnio 3 dalis]], 111, [[#^s-3a776ffe473ec567224f7b20|112 straipsniai]], [[#^s-c11211388dabc39ad1a33172|113 straipsnio]] 2, 3 ir [[#^s-ab9e8ef724ab2f4a3543cb94|4 dalys]], IX, X skyriai, o asmenims, kuriems paskirtos procesinės baudos, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias prievoles pradeda administruoti, gavusi duomenis apie jas iš Lietuvos teismų informacinės sistemos (toliau – LITEKO) ar kitų valstybės informacinių sistemų. ^s-c5fc006d61c1681e215eaf79
+72. Procesinėms baudoms administruoti tiesiogiai taikomi šio Įstatymo [[#^s-41a4ddd745e0cf9e613dd57c|26 straipsnio 1 dalies 12 punktas]], [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] [[#^s-d036b0a09af77990a1058acd|9]] ir [[#^s-946cb77d69936195179f3015|10]] punktai, [[#^s-5cd5bb6bde35e012c42f778b|105 straipsnio 7 dalis]], [[#^s-50ecc9fb310f8563a98bee12|106 straipsnio 3 dalis]], [[#^s-831d20b92fb6e1066611f295|110 straipsnio 4 dalis]] ir mutatis mutandis taikytini šio Įstatymo [[#^s-c5194401e2024c2ffef73682|26 straipsnio 1 dalies]] [[#^s-33c7eb7468a767a89f770aa8|3]]–[[#^s-f949d6adba472eea9e0f5584|5]], [[#^s-b924d53298cbb99fe9e6e36a|9]]–[[#^s-69b5636fd5a33a61b4d8c020|11]] punktai, [[#^s-d353c4a2bfde442ca71834bd|84]], [[#^s-e61b46a584f6ba3cb48643e7|85]] straipsniai, [[#^s-ea33f8bfed4ac45be9759362|87 straipsnio]] [[#^s-fbcaa628d5d2a2686dba2ce0|1]], [[#^s-d413b22c875a8df6253223d7|3]], [[#^s-03dae6cc82d7f8a13fe89cbb|4]], [[#^s-5f6ab7f3eb75a6d498db8310|41]] ir [[#^s-c43c1a9b4b7ad25cab1d0eb2|5]] dalys, [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] [[#^s-725d5186c367f3b7c7e5ff76|1]], [[#^s-156d834a31781fdb52169bbe|2]], [[#^s-c4b1b00b4b6c9cb69e061c97|4]], [[#^s-41e754266c0d80d76f4777e7|6]] ir [[#^s-e3c44195aea58bdf3a040322|8]] punktai, [[#^s-0106e23dad6a9fe33543be16|95 straipsnio 1 dalies 2 punktas]], [[#^s-b5969c5bede73c553aed0ecb|101 straipsnis]], [[#^s-1ca091636728363a8a8d205b|106 straipsnio 1 dalies]] [[#^s-e7e8d5d12430565c3604f7e5|1]] ir [[#^s-174742bd2cf37a686a8e32c7|4]] punktai, [[#^s-854865c6eee3fdf4f33d3408|6]]–[[#^s-1625192aef301eb4cd67de7c|10]] dalys, [[#^s-97d85f418e75312c8ae7b2be|107 straipsnis]] (išskyrus [[#^s-cbb647fac43df9b82dfbb7ca|5]] ir [[#^s-78bf69d5222de8e7b1a267e1|6]] dalis), [[#^s-21c9992ae34117bebf72de11|108 straipsnio 1 dalies 4 punktas]], 2 dalies 4 punktas, [[#^s-1f9c769678296eefd61cd95c|109 straipsnis]], [[#^s-9c2c0a4182aab7c1ee4d2905|110 straipsnio 3 dalis]], [[#^s-54e916108797c83cedfc3623|111]], [[#^s-3a776ffe473ec567224f7b20|112]] straipsniai, [[#^s-c11211388dabc39ad1a33172|113 straipsnio]] [[#^s-c0e048c6b360d28d55235fb1|2]], [[#^s-4b9da88e4371766330a481d6|3]] ir [[#^s-35e1eb9f90240c5873486d90|4]] dalys, IX, X skyriai, o asmenims, kuriems paskirtos procesinės baudos, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias prievoles pradeda administruoti, gavusi duomenis apie jas iš Lietuvos teismų informacinės sistemos (toliau – LITEKO) ar kitų valstybės informacinių sistemų. ^s-c5fc006d61c1681e215eaf79
 Papildyta straipsnio dalimi:
 Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 
 
 
-73. Teismų Baudžiamajame kodekse nustatytais atvejais paskirtoms baudoms už nusikalstamas veikas (toliau – bauda už nusikalstamas veikas) administruoti tiesiogiai taikomi šio Įstatymo [[#^s-41a4ddd745e0cf9e613dd57c|26 straipsnio 1 dalies 12 punktas]], [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] 9 ir 10 punktai, [[#^s-8b8d6b8e975e9cbf678523db|105 straipsnio 6 dalis]], [[#^s-50ecc9fb310f8563a98bee12|106 straipsnio 3 dalis]], [[#^s-831d20b92fb6e1066611f295|110 straipsnio 4 dalis]] ir mutatis mutandis taikytini šio Įstatymo [[#^s-c5194401e2024c2ffef73682|26 straipsnio 1 dalies]] 3–5, 9–11 punktai, 84, [[#^s-e61b46a584f6ba3cb48643e7|85 straipsniai]], [[#^s-ea33f8bfed4ac45be9759362|87 straipsnio]] 1, 3, 4, 41 ir [[#^s-88471ca6d0d0942787585346|5 dalys]], [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] 1 ir 2 punktai, [[#^s-0106e23dad6a9fe33543be16|95 straipsnio 1 dalies 2 punktas]], [[#^s-b5969c5bede73c553aed0ecb|101 straipsnis]], [[#^s-1ca091636728363a8a8d205b|106 straipsnio 1 dalies]] 1 ir 4 punktai, 6, 7 ir 10 dalys, 109, [[#^s-54e916108797c83cedfc3623|111 straipsniai]], [[#^s-ad07249c816bbe2fb7afae99|112 straipsnio 1 punktas]], IX, X skyriai, o asmenims, kuriems paskirtos baudos už nusikalstamas veikas, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias baudas pradeda administruoti, gavusi duomenis apie jas iš LITEKO ar kitų valstybės informacinių sistemų. ^s-88f6a18017b55989232509ed
+73. Teismų Baudžiamajame kodekse nustatytais atvejais paskirtoms baudoms už nusikalstamas veikas (toliau – bauda už nusikalstamas veikas) administruoti tiesiogiai taikomi šio Įstatymo [[#^s-41a4ddd745e0cf9e613dd57c|26 straipsnio 1 dalies 12 punktas]], [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] [[#^s-d036b0a09af77990a1058acd|9]] ir [[#^s-946cb77d69936195179f3015|10]] punktai, [[#^s-8b8d6b8e975e9cbf678523db|105 straipsnio 6 dalis]], [[#^s-50ecc9fb310f8563a98bee12|106 straipsnio 3 dalis]], [[#^s-831d20b92fb6e1066611f295|110 straipsnio 4 dalis]] ir mutatis mutandis taikytini šio Įstatymo [[#^s-c5194401e2024c2ffef73682|26 straipsnio 1 dalies]] [[#^s-33c7eb7468a767a89f770aa8|3]]–[[#^s-f949d6adba472eea9e0f5584|5]], [[#^s-b924d53298cbb99fe9e6e36a|9]]–[[#^s-69b5636fd5a33a61b4d8c020|11]] punktai, [[#^s-d353c4a2bfde442ca71834bd|84]], [[#^s-e61b46a584f6ba3cb48643e7|85]] straipsniai, [[#^s-ea33f8bfed4ac45be9759362|87 straipsnio]] [[#^s-fbcaa628d5d2a2686dba2ce0|1]], [[#^s-d413b22c875a8df6253223d7|3]], [[#^s-03dae6cc82d7f8a13fe89cbb|4]], [[#^s-5f6ab7f3eb75a6d498db8310|41]] ir [[#^s-c43c1a9b4b7ad25cab1d0eb2|5]] dalys, [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] [[#^s-725d5186c367f3b7c7e5ff76|1]] ir [[#^s-156d834a31781fdb52169bbe|2]] punktai, [[#^s-0106e23dad6a9fe33543be16|95 straipsnio 1 dalies 2 punktas]], [[#^s-b5969c5bede73c553aed0ecb|101 straipsnis]], [[#^s-1ca091636728363a8a8d205b|106 straipsnio 1 dalies]] [[#^s-e7e8d5d12430565c3604f7e5|1]] ir [[#^s-174742bd2cf37a686a8e32c7|4]] punktai, [[#^s-854865c6eee3fdf4f33d3408|6]], [[#^s-fab3e7e753281e1b17c9d894|7]] ir [[#^s-1625192aef301eb4cd67de7c|10]] dalys, [[#^s-1f9c769678296eefd61cd95c|109]], [[#^s-54e916108797c83cedfc3623|111]] straipsniai, 112 straipsnio 1 punktas, IX, X skyriai, o asmenims, kuriems paskirtos baudos už nusikalstamas veikas, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias baudas pradeda administruoti, gavusi duomenis apie jas iš LITEKO ar kitų valstybės informacinių sistemų. ^s-88f6a18017b55989232509ed
 Papildyta straipsnio dalimi:
 Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 
 
 
-74. Teismų priteistoms sumoms administruoti tiesiogiai taikomi šio Įstatymo [[#^s-41a4ddd745e0cf9e613dd57c|26 straipsnio 1 dalies 12 punktas]], [[#^s-18a64e033537418d56f87001|93 straipsnio 1 dalies 7 punktas]], [[#^s-5cd5bb6bde35e012c42f778b|105 straipsnio 7 dalis]], [[#^s-50ecc9fb310f8563a98bee12|106 straipsnio 3 dalis]], [[#^s-831d20b92fb6e1066611f295|110 straipsnio 4 dalis]] ir mutatis mutandis taikytini šio Įstatymo [[#^s-c5194401e2024c2ffef73682|26 straipsnio 1 dalies]] 3–5, 9–11 punktai, 84, [[#^s-e61b46a584f6ba3cb48643e7|85 straipsniai]], [[#^s-ea33f8bfed4ac45be9759362|87 straipsnio]] 1, 3, 4, 41 ir [[#^s-88471ca6d0d0942787585346|5 dalys]], [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] 1, 2, 4, 6 ir 8 punktai, [[#^s-0106e23dad6a9fe33543be16|95 straipsnio 1 dalies 2 punktas]], [[#^s-b5969c5bede73c553aed0ecb|101 straipsnis]], [[#^s-1ca091636728363a8a8d205b|106 straipsnio 1 dalies]] 1 ir 4 punktai, 6–10 dalys, [[#^s-97d85f418e75312c8ae7b2be|107 straipsnis]] (išskyrus 5 ir [[#^s-71da56c9294aaae041ccedeb|6 dalis]]), [[#^s-21c9992ae34117bebf72de11|108 straipsnio 1 dalies 4 punktas]], 2 dalies 4 punktas, [[#^s-1f9c769678296eefd61cd95c|109 straipsnis]], [[#^s-9c2c0a4182aab7c1ee4d2905|110 straipsnio 3 dalis]], 111, [[#^s-3a776ffe473ec567224f7b20|112 straipsniai]], [[#^s-c11211388dabc39ad1a33172|113 straipsnio]] 2, 3 ir [[#^s-ab9e8ef724ab2f4a3543cb94|4 dalys]], IX, X skyriai, o asmenims, iš kurių priteistos sumos, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias prievoles pradeda administruoti, gavusi duomenis apie jas iš LITEKO ar kitų valstybės informacinių sistemų. ^s-54b4a4b3451ca7cc33498fe1
+74. Teismų priteistoms sumoms administruoti tiesiogiai taikomi šio Įstatymo [[#^s-41a4ddd745e0cf9e613dd57c|26 straipsnio 1 dalies 12 punktas]], [[#^s-18a64e033537418d56f87001|93 straipsnio 1 dalies 7 punktas]], [[#^s-5cd5bb6bde35e012c42f778b|105 straipsnio 7 dalis]], [[#^s-50ecc9fb310f8563a98bee12|106 straipsnio 3 dalis]], [[#^s-831d20b92fb6e1066611f295|110 straipsnio 4 dalis]] ir mutatis mutandis taikytini šio Įstatymo [[#^s-c5194401e2024c2ffef73682|26 straipsnio 1 dalies]] [[#^s-33c7eb7468a767a89f770aa8|3]]–[[#^s-f949d6adba472eea9e0f5584|5]], [[#^s-b924d53298cbb99fe9e6e36a|9]]–[[#^s-69b5636fd5a33a61b4d8c020|11]] punktai, [[#^s-d353c4a2bfde442ca71834bd|84]], [[#^s-e61b46a584f6ba3cb48643e7|85]] straipsniai, [[#^s-ea33f8bfed4ac45be9759362|87 straipsnio]] [[#^s-fbcaa628d5d2a2686dba2ce0|1]], [[#^s-d413b22c875a8df6253223d7|3]], [[#^s-03dae6cc82d7f8a13fe89cbb|4]], [[#^s-5f6ab7f3eb75a6d498db8310|41]] ir [[#^s-c43c1a9b4b7ad25cab1d0eb2|5]] dalys, [[#^s-11fd050d8e9c899e4765b33c|93 straipsnio 1 dalies]] [[#^s-725d5186c367f3b7c7e5ff76|1]], [[#^s-156d834a31781fdb52169bbe|2]], [[#^s-c4b1b00b4b6c9cb69e061c97|4]], [[#^s-41e754266c0d80d76f4777e7|6]] ir [[#^s-e3c44195aea58bdf3a040322|8]] punktai, [[#^s-0106e23dad6a9fe33543be16|95 straipsnio 1 dalies 2 punktas]], [[#^s-b5969c5bede73c553aed0ecb|101 straipsnis]], [[#^s-1ca091636728363a8a8d205b|106 straipsnio 1 dalies]] [[#^s-e7e8d5d12430565c3604f7e5|1]] ir [[#^s-174742bd2cf37a686a8e32c7|4]] punktai, [[#^s-854865c6eee3fdf4f33d3408|6]]–[[#^s-1625192aef301eb4cd67de7c|10]] dalys, [[#^s-97d85f418e75312c8ae7b2be|107 straipsnis]] (išskyrus [[#^s-cbb647fac43df9b82dfbb7ca|5]] ir [[#^s-78bf69d5222de8e7b1a267e1|6]] dalis), [[#^s-21c9992ae34117bebf72de11|108 straipsnio 1 dalies 4 punktas]], 2 dalies 4 punktas, [[#^s-1f9c769678296eefd61cd95c|109 straipsnis]], [[#^s-9c2c0a4182aab7c1ee4d2905|110 straipsnio 3 dalis]], [[#^s-54e916108797c83cedfc3623|111]], [[#^s-3a776ffe473ec567224f7b20|112]] straipsniai, [[#^s-c11211388dabc39ad1a33172|113 straipsnio]] [[#^s-c0e048c6b360d28d55235fb1|2]], [[#^s-4b9da88e4371766330a481d6|3]] ir [[#^s-35e1eb9f90240c5873486d90|4]] dalys, IX, X skyriai, o asmenims, iš kurių priteistos sumos, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams. Valstybinė mokesčių inspekcija šias prievoles pradeda administruoti, gavusi duomenis apie jas iš LITEKO ar kitų valstybės informacinių sistemų. ^s-54b4a4b3451ca7cc33498fe1
 Papildyta straipsnio dalimi:
 Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 
@@ -621,10 +621,10 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 1. Šio Įstatymo [[#^s-250b7a0b4550f7c3de89d5d9|13 straipsnio]] 6, 7, 8 ir 24 punktuose išvardytus mokesčius administruoja Aplinkos ministerija ar jos įgaliota institucija, tačiau tik tiek, kiek pavesta pagal Mokesčio už valstybinius gamtos išteklius, Mokesčio už aplinkos teršimą, Angliavandenilių išteklių mokesčio ir Miškų įstatymus. Ar šio Įstatymo [[#^s-250b7a0b4550f7c3de89d5d9|13 straipsnio]] 6 ir 8 punktuose nurodyti mokesčiai teisingai apskaičiuoti ir deklaruoti, patikrina, taip pat konsultacijas šių mokesčių mokėjimo klausimais teikia tik Aplinkos ministerijos įgaliota institucija. ^s-83969b794edfcdfeb14d0887
 
 
-2. Šio Įstatymo [[#^s-b095a9db0ede5d6b362f324d|13 straipsnio 8 punkte]] nurodytą mokestį administruoja taip pat ir Žemės ūkio ministerija ar jos įgaliota institucija, tačiau tik tiek, kiek pavesta pagal Mokesčio už aplinkos teršimą įstatymą. Žemės ūkio ministerija patikrina, ar mokestis už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiuotas ir sumokėtas teisingai. Konsultacijas mokesčio už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiavimo ir sumokėjimo klausimais teikia tik Žemės ūkio ministerijos įgaliota institucija. ^s-5532ac9f5113397eaf8e60f4
+2. Šio Įstatymo 13 straipsnio 8 punkte nurodytą mokestį administruoja taip pat ir Žemės ūkio ministerija ar jos įgaliota institucija, tačiau tik tiek, kiek pavesta pagal Mokesčio už aplinkos teršimą įstatymą. Žemės ūkio ministerija patikrina, ar mokestis už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiuotas ir sumokėtas teisingai. Konsultacijas mokesčio už aplinkos teršimą iš žemės ūkio veiklai naudojamų ne keliais judančių mechanizmų apskaičiavimo ir sumokėjimo klausimais teikia tik Žemės ūkio ministerijos įgaliota institucija. ^s-5532ac9f5113397eaf8e60f4
 
 
-3. Dėl šio straipsnio 1 ir [[#^s-5532ac9f5113397eaf8e60f4|2 dalyse]] nurodytų įstaigų ir institucijų atliekamų mokesčių apskaičiavimo ir deklaravimo teisingumo patikrinimų tvarkos, patikrinimų rezultatų įforminimo bei patvirtinimo, įstaigų ir institucijų bei jų pareigūnų veiksmų apskundimo šio Įstatymo nuostatos netaikomos. Šioje dalyje nurodytus teisinius santykius reguliuoja šių institucijų veiklą reglamentuojantys teisės aktai bei atitinkami administruojamų mokesčių įstatymai. ^s-ef88a63b1d5722d99741e044
+3. Dėl šio straipsnio [[#^s-83969b794edfcdfeb14d0887|1]] ir [[#^s-5532ac9f5113397eaf8e60f4|2]] dalyse nurodytų įstaigų ir institucijų atliekamų mokesčių apskaičiavimo ir deklaravimo teisingumo patikrinimų tvarkos, patikrinimų rezultatų įforminimo bei patvirtinimo, įstaigų ir institucijų bei jų pareigūnų veiksmų apskundimo šio Įstatymo nuostatos netaikomos. Šioje dalyje nurodytus teisinius santykius reguliuoja šių institucijų veiklą reglamentuojantys teisės aktai bei atitinkami administruojamų mokesčių įstatymai. ^s-ef88a63b1d5722d99741e044
 
 
 Straipsnio pakeitimai:
@@ -646,7 +646,7 @@ Nr. XIII-3159, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15137
 2. Valstybinė mokesčių inspekcija prie Lietuvos Respublikos finansų ministerijos (toliau šiame Įstatyme ir kituose teisės aktuose vadinama Valstybine mokesčių inspekcija prie Finansų ministerijos) ir teritorinės valstybinės mokesčių inspekcijos yra biudžetinės įstaigos, turinčios savo sąskaitų banke, antspaudus ir bendrą simboliką. ^s-a7269606a4205072d6a6f0e4
 
 
-3. Valstybinė mokesčių inspekcija vadovaujasi Lietuvos Respublikos Konstitucija, šiuo Įstatymu, kitais įstatymais, įstatymų lydimaisiais teisės aktais bei savo nuostatais. Valstybinės mokesčių inspekcijos prie Finansų ministerijos nuostatus tvirtina finansų ministras, o teritorinių valstybinių mokesčių inspekcijų – Valstybinės mokesčių inspekcijos prie Finansų ministerijos viršininkas. ^s-148c9ae6930147c8e03eefec
+3. Valstybinė mokesčių inspekcija vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo Įstatymu, kitais įstatymais, įstatymų lydimaisiais teisės aktais bei savo nuostatais. Valstybinės mokesčių inspekcijos prie Finansų ministerijos nuostatus tvirtina finansų ministras, o teritorinių valstybinių mokesčių inspekcijų – Valstybinės mokesčių inspekcijos prie Finansų ministerijos viršininkas. ^s-148c9ae6930147c8e03eefec
 
 
 
@@ -990,7 +990,7 @@ Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 4. Jei kitaip nenumatyta Europos Sąjungos teisės aktuose arba atitinkamose tarptautinėse sutartyse, bendradarbiaujant su Europos Sąjungos valstybių narių mokesčių administracijomis (kompetentingomis institucijomis), taikomi šio Įstatymo [[#^s-f21d107ebd6808ab4c5f9f56|28 straipsnio 2 dalyje]] išdėstyti principai. ^s-02572007a07fb90eac11fcfe
 
 
-5. Bendradarbiaujant su Europos Sąjungos valstybių narių mokesčių administracijomis (kompetentingomis institucijomis), taip pat taikomos šio Įstatymo [[#^s-417b033f38a94b3e58741e6f|28 straipsnio]] 3, 4 ir [[#^s-cc834a5e5614ab5b82b3d527|5 dalių]] nuostatos. ^s-cc834a5e5614ab5b82b3d527
+5. Bendradarbiaujant su Europos Sąjungos valstybių narių mokesčių administracijomis (kompetentingomis institucijomis), taip pat taikomos šio Įstatymo [[#^s-417b033f38a94b3e58741e6f|28 straipsnio]] [[#^s-c37d417135e3b70960321296|3]], [[#^s-c66dd3eb9e95370a701f2970|4]] ir [[#^s-1c62a8165ebfe267177f122d|5]] dalių nuostatos. ^s-cc834a5e5614ab5b82b3d527
 
 
 Straipsnio pakeitimai:
@@ -1012,7 +1012,7 @@ Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)
 ### 31 straipsnis. Bendradarbiavimas su kitais asmenimis ^s-9e11e0fd4b9f4b16d7365399
 
 
-Mokesčių administratorius, siekdamas efektyviau atlikti savo funkcijas, su asmenimis, nenurodytais šio Įstatymo 27–[[#^s-a6240b85a86901c831e131c6|30 straipsniuose]], gali sudaryti tam tikrų funkcijų atlikimo perdavimo, paslaugų gavimo ar kitas sutartis, pasirašyti tarpusavio susitarimų memorandumus.
+Mokesčių administratorius, siekdamas efektyviau atlikti savo funkcijas, su asmenimis, nenurodytais šio Įstatymo [[#^s-bec7c58ffe7f3969413c53df|27]]–[[#^s-a6240b85a86901c831e131c6|30]] straipsniuose, gali sudaryti tam tikrų funkcijų atlikimo perdavimo, paslaugų gavimo ar kitas sutartis, pasirašyti tarpusavio susitarimų memorandumus.
 
 
 
@@ -1043,7 +1043,7 @@ Mokesčių administratorius (jo pareigūnas), atlikdamas jam pavestas funkcijas,
 7) atlikdamas savo funkcijas, stengtis kuo mažiau trikdyti mokesčių mokėtojo veiklą; ^s-2bcc7313f283b49f715be728
 
 
-8) užtikrinti, kad būtų laikomasi asmens duomenų tvarkymo reikalavimų, ir įgyvendinti tinkamas technines ir organizacines duomenų saugumo priemones ir kitas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) duomenų valdytojui nustatytas prievoles; ^s-7d11690d70bb1bcc5bfb1317
+8) užtikrinti, kad būtų laikomasi asmens duomenų tvarkymo reikalavimų, ir įgyvendinti tinkamas technines ir organizacines duomenų saugumo priemones ir kitas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) duomenų valdytojui nustatytas prievoles; ^s-7d11690d70bb1bcc5bfb1317
 Papildyta straipsnio punktu:
 Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 
@@ -1277,7 +1277,7 @@ Nr. XV-309, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11978
 3. Mokesčių administratorius, išnagrinėjęs prašymą, priima vieną iš šių sprendimų: ^s-fea2d7ced343a30897cd65d9
 
 
-1) pritarti prašyme nurodytam mokesčių teisės aktų nuostatų taikymui būsimajam sandoriui. Priėmęs šį sprendimą, mokesčių administratorius įsipareigoja, kontroliuodamas, ar šis mokesčių mokėtojas teisingai apskaičiavo, deklaravo ir mokėjo mokesčius, taikyti mokesčių teisės aktų nuostatas būsimajam sandoriui taip, kaip nurodyta sprendime, išskyrus šio straipsnio 4, 5 ir [[#^s-3da8880f671ad754bcdd8be3|6 dalyse]] nustatytus atvejus; ^s-4543b54852812fd61ae9fae3
+1) pritarti prašyme nurodytam mokesčių teisės aktų nuostatų taikymui būsimajam sandoriui. Priėmęs šį sprendimą, mokesčių administratorius įsipareigoja, kontroliuodamas, ar šis mokesčių mokėtojas teisingai apskaičiavo, deklaravo ir mokėjo mokesčius, taikyti mokesčių teisės aktų nuostatas būsimajam sandoriui taip, kaip nurodyta sprendime, išskyrus šio straipsnio [[#^s-12673683f7f2530f1fc6217c|4]], [[#^s-fa0d3e5bfb0621233af7447d|5]] ir [[#^s-3da8880f671ad754bcdd8be3|6]] dalyse nustatytus atvejus; ^s-4543b54852812fd61ae9fae3
 
 
 2) nepritarti prašyme nurodytam mokesčių teisės aktų nuostatų taikymui būsimajam sandoriui. Šiame sprendime mokesčių administratorius turi nurodyti nepritarimo priežastis. ^s-3a42182c3192a9af39b22b9d
@@ -1301,7 +1301,7 @@ Nr. XV-309, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11978
 7. Mokesčių mokėtojas neprivalo vadovautis mokesčių administratoriaus sprendimu dėl prašymo ar sprendimu dėl ankstesnio sprendimo galiojimo laikotarpio pakeitimo. ^s-ad4e523ff0a4b1f7eeeee39f
 
 
-8. Šiame straipsnyje nurodyto prašymo pateikimo ir nagrinėjimo tvarką, prašymo formą, mokesčių administratoriaus sprendimo dėl prašymo priėmimo ir sprendimo pakeitimo tvarką, atitinkamo sprendimo formą nustato centrinis mokesčių administratorius. Centrinis mokesčių administratorius turi teisę nustatyti prie prašymo pridėtinų dokumentų sąrašą. ^s-0fcfb99fa35e06dc31c75572
+8. Šiame straipsnyje nurodyto prašymo pateikimo ir nagrinėjimo tvarką, prašymo formą, mokesčių administratoriaus sprendimo [dėl prašymo priėmimo](https://e-tar.lt/portal/lt/legalAct/TAR.37B130B7208F) ir sprendimo pakeitimo tvarką, atitinkamo sprendimo formą nustato centrinis mokesčių administratorius. Centrinis mokesčių administratorius turi teisę nustatyti prie prašymo pridėtinų dokumentų sąrašą. ^s-0fcfb99fa35e06dc31c75572
 
 
 Įstatymas papildytas straipsniu :
@@ -1333,7 +1333,7 @@ Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
 4. Priėmęs [[#^s-b384a8ea0c3c7dbdda3e8ce6|šio straipsnio 3 dalies]] 1 ar 2 punkte nurodytą sprendimą, mokesčių administratorius įsipareigoja, kontroliuodamas, ar prašymą dėl suderinimo pateikęs mokesčių mokėtojas teisingai apskaičiavo, deklaravo ir mokėjo mokesčius, taikyti sprendime nurodytas būsimojo sandorio kainodaros taisykles. ^s-3ce89a0757ee4fa52670fbe5
 
 
-5. Jeigu šiame straipsnyje ar [[latest/830310d0ad3c11e98451fa7b5933515d|Dvigubo apmokestinimo ginčų sprendimo įstatyme]] nenustatyta kitaip, [[#^s-b384a8ea0c3c7dbdda3e8ce6|šio straipsnio 3 dalies]] 1 ir 2 punktuose nurodyti sprendimai galioja visą prašyme dėl suderinimo nurodytą būsimojo sandorio vykdymo laikotarpį, bet ne ilgiau kaip einamuosius ir 5 kalendorinius metus nuo mokesčių administratoriaus sprendimo priėmimo dienos, o tuo atveju, kai priimami mokesčių teisės aktai, kuriais pakeičiamos, papildomos arba pripažįstamos netekusiomis galios tokiame mokesčių administratoriaus sprendime nurodytos mokesčių teisės aktų nuostatos, – iki jų įsigaliojimo dienos, išskyrus [[#^s-d676bc308643f8da80592519|šio straipsnio 7 dalį]]. ^s-4201dfacf068e208ed81ed8b
+5. Jeigu šiame straipsnyje ar [[latest/830310d0ad3c11e98451fa7b5933515d|Dvigubo apmokestinimo ginčų sprendimo įstatyme]] nenustatyta kitaip, [[#^s-b384a8ea0c3c7dbdda3e8ce6|šio straipsnio 3 dalies]] [[latest/830310d0ad3c11e98451fa7b5933515d|1]] ir [[latest/830310d0ad3c11e98451fa7b5933515d|2]] punktuose nurodyti sprendimai galioja visą prašyme dėl suderinimo nurodytą būsimojo sandorio vykdymo laikotarpį, bet ne ilgiau kaip einamuosius ir 5 kalendorinius metus nuo mokesčių administratoriaus sprendimo priėmimo dienos, o tuo atveju, kai priimami mokesčių teisės aktai, kuriais pakeičiamos, papildomos arba pripažįstamos netekusiomis galios tokiame mokesčių administratoriaus sprendime nurodytos mokesčių teisės aktų nuostatos, – iki jų įsigaliojimo dienos, išskyrus [[#^s-d676bc308643f8da80592519|šio straipsnio 7 dalį]]. ^s-4201dfacf068e208ed81ed8b
 
 
 6. Jeigu po [[#^s-b384a8ea0c3c7dbdda3e8ce6|šio straipsnio 3 dalies]] 1 ar 2 punkte nurodyto sprendimo priėmimo dienos Lietuvos vyriausiojo administracinio teismo biuletenyje arba Europos Sąjungos oficialiajame leidinyje paskelbiami Lietuvos vyriausiojo administracinio teismo arba Europos Sąjungos teisminių institucijų įstatymų ir kitų teisės aktų taikymo išaiškinimai, kuriems šis sprendimas prieštarauja, mokesčių administratorius pakeičia sprendimo galiojimo laikotarpį ir apie tai nedelsdamas, ne vėliau kaip per 3 darbo dienas nuo atitinkamo išaiškinimo paskelbimo dienos praneša mokesčių mokėtojui nurodydamas, kad sprendimas galioja iki atitinkamo išaiškinimo paskelbimo dienos. ^s-9f4cf419a9de84f7f2753581
@@ -1345,7 +1345,7 @@ Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
 8. Jeigu prognozuojama, kad būsimojo sandorio sąlygos ir kainodaros taisyklės, išskyrus susijusias su sandoriais tarp neasocijuotų asmenų, lyginamais su būsimuoju sandoriu, ir apskaičiuota kaina (kainų intervalu), liks nepakitusios po [[#^s-b384a8ea0c3c7dbdda3e8ce6|šio straipsnio 3 dalies]] 1 ar 2 punkte nurodyto sprendimo galiojimo termino pabaigos, mokesčių mokėtojas likus ne mažiau kaip 180 dienų iki sprendimo galiojimo termino pabaigos gali pateikti prašymą dėl suderintų būsimojo sandorio kainodaros taisyklių taikymo galiojimo pratęsimo nurodydamas [[#^s-b384a8ea0c3c7dbdda3e8ce6|šio straipsnio 3 dalies]] 1 ar 2 punkte nurodyto sprendimo vykdymą, pokyčių nebuvimą ir būsimojo sandorio kainodaros taisyklių galiojimo tinkamumą ateityje. Prašymo dėl suderintų būsimojo sandorio kainodaros taisyklių taikymo galiojimo pratęsimo nagrinėjimo terminai ir tvarka nustatyti [[#^s-d61cb3dcddf39fbfae5bf2e1|šio straipsnio 2 dalyje]]. ^s-f35d4aa758e0fbdf2ad1e2fe
 
 
-9. Mokesčių administratorius netaiko pagal šio straipsnio 1, 7 ir [[#^s-f35d4aa758e0fbdf2ad1e2fe|8 dalyse]] nurodytus prašymus priimtuose sprendimuose nurodytų būsimojo sandorio kainodaros taisyklių, jeigu kontroliuodamas, ar mokesčių mokėtojas teisingai apskaičiavo, deklaravo ir sumokėjo mokesčius, nustato, kad faktinės būsimojo sandorio sąlygos neatitinka mokesčių mokėtojo prašymuose nurodytų sąlygų. ^s-6242a6c84582ad60aa45f301
+9. Mokesčių administratorius netaiko pagal šio straipsnio [[#^s-5f6127e018a2aab2085d43f3|1]], [[#^s-d676bc308643f8da80592519|7]] ir [[#^s-f35d4aa758e0fbdf2ad1e2fe|8]] dalyse nurodytus prašymus priimtuose sprendimuose nurodytų būsimojo sandorio kainodaros taisyklių, jeigu kontroliuodamas, ar mokesčių mokėtojas teisingai apskaičiavo, deklaravo ir sumokėjo mokesčius, nustato, kad faktinės būsimojo sandorio sąlygos neatitinka mokesčių mokėtojo prašymuose nurodytų sąlygų. ^s-6242a6c84582ad60aa45f301
 
 
 10. Priėmus [[#^s-b384a8ea0c3c7dbdda3e8ce6|šio straipsnio 3 dalies]] 1 ir 2 punktuose nurodytus sprendimus arba pagal [[#^s-f35d4aa758e0fbdf2ad1e2fe|šio straipsnio 8 dalį]] pratęsus sprendimo galiojimą, šių sprendimų galiojimo laikotarpiu mokesčių mokėtojas turi teikti mokesčių administratoriui metines ataskaitas, kuriose nurodoma, kaip laikomasi sprendimų, ir pateikiamos sąlygų, kurioms esant galima pasirinkta kainodara, galiojimo aplinkybės. ^s-109dab7f67c62b5f1086da7e
@@ -1622,10 +1622,10 @@ Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)(papildyta nauju [
 3) juridinis asmuo ir (ar) jo vadovas arba individualia veikla užsiimantis asmuo per paskutinius 3 metus iki jo vertinimo dienos įsiteisėjusiu apkaltinamuoju nuosprendžiu nebuvo nuteistas už sukčiavimą, neteisėtą praturtėjimą, nusikalstamą veiką ekonomikai ir verslo tvarkai, nusikalstamą veiką finansų sistemai, ir ^s-85607f0446cf39020a71286c
 
 
-4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Administracinių nusižengimų kodekso 99, 127, 132, 134, 137, 143, 150, 151, 158, 159, 160, 162, 163, 164, 165, 166, 167, 170, 172, 173, 174, 176, 187, 188, 1881, 1883, 1884, 1885, 1886, 190, 192, 193, 198, 205, 207, 2071, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 3621, 505 straipsniuose. ^s-36db638fe93465073dc75964
+4) juridinio asmens vadovui ar kitam atsakingam asmeniui arba individualia veikla užsiimančiam asmeniui per paskutinius vienus metus iki jo vertinimo dienos nebuvo paskirta 1 500 eurų ar didesnė bauda už padarytą administracinį nusižengimą, numatytą Administracinių nusižengimų kodekso [[#^s-7adf0a186bd6a823d5d5dc96|99]], [[#^s-b4cbc669695fa5d8b1eb36e3|127]], [[#^s-55d69af730bc1fa58f4cfbc3|132]], [[#^s-0d103c2d208f49e347f35b4e|134]], [[#^s-6a275d6388f0242c17be466d|137]], [[#^s-c8f8edd00a7613ae87369aa9|143]], [[#^s-b6a601438107eb3d4614dd35|150]], [[#^s-1455cce8b95a78a86c2cbee7|151]], [[#^s-fba8c88cd0d250d1396161e9|158]], [[#^s-67bdb1d349407d85cc7b0e1d|159]], [[#^s-ba9485181f596286ebeec6b3|160]], [[#^s-4e0e1bcebf1b81dcdfcbe9f6|162]], [[#^s-917ed2bd4f4db5b8acb930d7|163]], [[#^s-0e3736975e48513a291377d6|164]], [[#^s-deb862c80a51dccfdd587d9c|165]], [[#^s-ad90d91131c9f1f66f20e6a5|166]], [[#^s-5e127e057e936752797f21b4|167]], [[#^s-471ad9654ded2e34c0e8a829|170]], 172, 173, 174, 176, 187, 188, 1881, 1883, 1884, 1885, 1886, 190, 192, 193, 198, 205, 207, 2071, 208, 209, 210, 211, 212, 213, 214, 215, 218, 223, 3621, 505 straipsniuose. ^s-36db638fe93465073dc75964
 
 
-2. [[#^s-641734d78dfe8b53b8d32629|Šio straipsnio 1 dalyje]] nurodytų fizinio asmens duomenų, kuriems taikytinas Reglamentas (ES) 2016/679, valdytoja yra Valstybinė mokesčių inspekcija, šie duomenys tvarkomi ir naudojami šio Įstatymo [[#^s-5494beaec80266bb1bb8aaab|25 straipsnio 1 dalies]] 7, 9, 10, 11, 16, 17, 19 ir 21 punktuose bei [[#^s-c5194401e2024c2ffef73682|26 straipsnio 1 dalies]] 2, 3, 4, 7, 8, 9, 10, 11, 12 ir 13 punktuose nurodytoms mokesčių administratoriaus funkcijoms atlikti ir [[#^s-8cfaf23850887e9debdf5cf3|33 straipsnyje]] nurodytoms teisėms įgyvendinti, taip pat siekiant užtikrinti [[latest/TAR.C54AFFAA7622#^s-6ced2b5b179f643b8a6d95cd|Lietuvos Respublikos viešųjų pirkimų įstatymo 46 straipsnio]] nuostatų, reglamentuojančių tiekėjo pašalinimo iš pirkimo procedūros pagrindus, įgyvendinimą bei siekiant užtikrinti [[latest/TAR.C0FF21832A85#^s-b39b2f74912d25880e002537|Lietuvos Respublikos labdaros ir paramos įstatymo 13 straipsnio]] nuostatų, reglamentuojančių paramos gavėjo statuso suteikimą ir panaikinimą, įgyvendinimą. Fizinio asmens duomenų tvarkymo terminas yra 10 metų. ^s-1d80ac6847d8c56fdf0caa7f
+2. [[#^s-641734d78dfe8b53b8d32629|Šio straipsnio 1 dalyje]] nurodytų fizinio asmens duomenų, kuriems taikytinas [Reglamentas (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), valdytoja yra Valstybinė mokesčių inspekcija, šie duomenys tvarkomi ir naudojami šio Įstatymo [[#^s-5494beaec80266bb1bb8aaab|25 straipsnio 1 dalies]] [[#^s-2299f58bab62039c2b11ffec|7]], [[#^s-1598dbe3786f7d9d3db52e2f|9]], [[#^s-57f0101370e726f20f7f6f0c|10]], [[#^s-7e267fd350f3649572684304|11]], [[#^s-271bf4bdbe38dfd5242157ed|16]], [[#^s-ac76dc23dfb0e955ffa31649|17]], [[#^s-3db25cf7ee95e5886e83c9a6|19]] ir [[#^s-c548a303f10ac6bb9bb44ad5|21]] punktuose bei [[#^s-c5194401e2024c2ffef73682|26 straipsnio 1 dalies]] [[#^s-60fec99757ab99f7c88cc8f4|2]], [[#^s-33c7eb7468a767a89f770aa8|3]], [[#^s-58c1d3b705925854a156325c|4]], [[#^s-0d5ae0712ea2d00478ed2127|7]], [[#^s-459419c73a95187cf11cd40b|8]], [[#^s-b924d53298cbb99fe9e6e36a|9]], [[#^s-38cfcdf54162f55196006463|10]], [[#^s-69b5636fd5a33a61b4d8c020|11]], [[#^s-41a4ddd745e0cf9e613dd57c|12]] ir [[#^s-4a2eca9204c2b91d57c6aef3|13]] punktuose nurodytoms mokesčių administratoriaus funkcijoms atlikti ir [[#^s-8cfaf23850887e9debdf5cf3|33 straipsnyje]] nurodytoms teisėms įgyvendinti, taip pat siekiant užtikrinti [[latest/TAR.C54AFFAA7622#^s-6ced2b5b179f643b8a6d95cd|Lietuvos Respublikos viešųjų pirkimų įstatymo 46 straipsnio]] nuostatų, reglamentuojančių tiekėjo pašalinimo iš pirkimo procedūros pagrindus, įgyvendinimą bei siekiant užtikrinti [[latest/TAR.C0FF21832A85#^s-b39b2f74912d25880e002537|Lietuvos Respublikos labdaros ir paramos įstatymo 13 straipsnio]] nuostatų, reglamentuojančių paramos gavėjo statuso suteikimą ir panaikinimą, įgyvendinimą. Fizinio asmens duomenų tvarkymo terminas yra 10 metų. ^s-1d80ac6847d8c56fdf0caa7f
 
 
 3. [[#^s-641734d78dfe8b53b8d32629|Šio straipsnio 1 dalies]] nuostatos netaikomos asmenims, nurodytiems [[latest/TAR.A5ACBDA529A9#^s-909d359269f71dae28a66fef|Pelno mokesčio įstatymo 3 straipsnio 2 dalyje]]. ^s-ced18d3f30f55e32bf49f1b6
@@ -1640,7 +1640,7 @@ Nr. XV-309, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11978
 ### 41 straipsnis. Paaiškinimų apie turto įsigijimo ir pajamų gavimo šaltinius pateikimas ^s-aaca23053e42d79515c93491
 
 
-1. Mokesčių mokėtojas privalo ne vėliau kaip per 10 dienų (jei mokesčių administratorius nenustato ilgesnio termino) nuo šio Įstatymo [[#^s-45dda52cab8a1ba3c7741b2f|33 straipsnio 13 punkte]] minimo mokesčių administratoriaus nurodymo įteikimo dienos pateikti paaiškinimus apie turto įsigijimo ir pajamų gavimo šaltinius ir juos pagrįsti. ^s-9acd938442516684cda98423
+1. Mokesčių mokėtojas privalo ne vėliau kaip per 10 dienų (jei mokesčių administratorius nenustato ilgesnio termino) nuo šio Įstatymo 33 straipsnio 13 punkte minimo mokesčių administratoriaus nurodymo įteikimo dienos pateikti paaiškinimus apie turto įsigijimo ir pajamų gavimo šaltinius ir juos pagrįsti. ^s-9acd938442516684cda98423
 
 
 2. Turto įsigijimo ir pajamų gavimo šaltiniai, mokesčių administratoriui pareikalavus, pagrindžiami įstatymų reikalavimus atitinkančiais sandorius patvirtinančiais dokumentais, kitais juridinę galią turinčiais dokumentais. Turto įsigijimo ir pajamų gavimo šaltiniai negali būti pagrindžiami sandorius patvirtinančiais juridinę galią turinčiais dokumentais, jeigu atsiskaitymai ir (ar) kiti mokėjimai pagal šiuos sandorius buvo atlikti pažeidžiant [[latest/d7206ef0fdf311ec8fa7d02a65c371ad|Lietuvos Respublikos atsiskaitymų grynaisiais pinigais ribojimo įstatyme]] nustatytą atsiskaitymų grynaisiais pinigais tvarką. Sandorius patvirtinančiuose dokumentuose, kituose juridinę galią turinčiuose dokumentuose turi būti nurodyti duomenys, leidžiantys identifikuoti išmokėjusį asmenį. ^s-45ea49c6f4528eda1272f2f7
@@ -1754,7 +1754,7 @@ Nr. XIV-293, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11761
 4. Mokesčių mokėtojų registro informacinės sistemos objektai Mokesčių mokėtojų registro informacinėje sistemoje registruojami neatlygintinai. ^s-ea0f9e51a1c50ba99bd5a679
 
 
-5. Mokesčių mokėtojų registro informacinėje sistemoje tvarkomi duomenys, išskyrus šio Įstatymo [[#^s-843baf615009d34b9d00f14c|38 straipsnyje]] nurodytus viešai skelbiamus duomenis, yra nevieši. Mokesčių mokėtojų registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų ir, jeigu teikiami fizinio asmens duomenys, – laikantis Reglamento (ES) 2016/679 [[#^s-82bc868e93982f2bd195baa9|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-0868258b8b1fe05943526c11|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-3be354fcbef381645c0253b5
+5. Mokesčių mokėtojų registro informacinėje sistemoje tvarkomi duomenys, išskyrus šio Įstatymo [[#^s-843baf615009d34b9d00f14c|38 straipsnyje]] nurodytus viešai skelbiamus duomenis, yra nevieši. Mokesčių mokėtojų registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų ir, jeigu teikiami fizinio asmens duomenys, – laikantis [Reglamento (ES) 2016/679 5 straipsnyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_5/oj) apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-0868258b8b1fe05943526c11|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-3be354fcbef381645c0253b5
 
 
 6. Mokesčių mokėtojų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, duomenis, kurie laikomi paslaptyje, duomenis, susijusius su visuomenės ir nacionaliniu saugumu, ir duomenis, sudarančius juridinio asmens konfidencialią informaciją ar galinčius atskleisti jo komercinę (verslo) paslaptį, gali būti atveriami pakartotinai naudoti. ^s-e7b1450d498c3506ff154652
@@ -1792,7 +1792,7 @@ Nr. XV-511, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19749
 4. Tam tikro turto mokesčių mokėtojus Mokesčių mokėtojų registro duomenų tvarkytojas registruoja remdamasis šio turto teisinį registravimą atliekančios institucijos pateikta informacija. ^s-64e4d6a82e9a949cdd91a77e
 
 
-5. Mokesčių mokėtojų registro duomenų tvarkytojas, remdamasis disponuojama informacija, gali Mokesčių mokėtojų registro informacinėje sistemoje savo iniciatyva registruoti asmenį arba patikslinti jo duomenis, jeigu asmuo netinkamai vykdo šio Įstatymo [[#^s-06ebc76e0e08835b403231e2|46 straipsnyje]] nurodytas pareigas, taip pat kitais Mokesčių mokėtojų registro informacinės sistemos nuostatuose nustatytais atvejais, kai tokie atvejai būtini mokesčių administratoriaus funkcijoms atlikti. Apie nurodytus veiksmus asmenys informuojami Mokesčių mokėtojų registro informacinės sistemos nuostatuose nustatyta tvarka ir, jeigu duomenų tvarkymo veiksmai yra susiję su fiziniu asmeniu, laikantis Reglamente (ES) 2016/679 nustatytų reikalavimų. ^s-8edea90ec656b085200d2ead
+5. Mokesčių mokėtojų registro duomenų tvarkytojas, remdamasis disponuojama informacija, gali Mokesčių mokėtojų registro informacinėje sistemoje savo iniciatyva registruoti asmenį arba patikslinti jo duomenis, jeigu asmuo netinkamai vykdo šio Įstatymo [[#^s-06ebc76e0e08835b403231e2|46 straipsnyje]] nurodytas pareigas, taip pat kitais Mokesčių mokėtojų registro informacinės sistemos nuostatuose nustatytais atvejais, kai tokie atvejai būtini mokesčių administratoriaus funkcijoms atlikti. Apie nurodytus veiksmus asmenys informuojami Mokesčių mokėtojų registro informacinės sistemos nuostatuose nustatyta tvarka ir, jeigu duomenų tvarkymo veiksmai yra susiję su fiziniu asmeniu, laikantis [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nustatytų reikalavimų. ^s-8edea90ec656b085200d2ead
 
 
 Straipsnio pakeitimai:
@@ -1809,7 +1809,7 @@ Nr. XV-511, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19749
 2. Asmuo, įregistruotas Mokesčių mokėtojų registro informacinėje sistemoje, apie pasikeitusius ar naujus registravimo duomenis Mokesčių mokėtojų registro duomenų tvarkytojui turi pranešti ne vėliau kaip per 5 darbo dienas po duomenų pasikeitimo ar atsiradimo. ^s-84069bceba2ec0dd8695f735
 
 
-3. Mokesčių mokėtojų registro informacinės sistemos nuostatuose numatytais atvejais šio straipsnio 1 ir [[#^s-84069bceba2ec0dd8695f735|2 dalyse]] nurodytų duomenų (dalies jų) mokesčių mokėtojas tiesiogiai Mokesčių mokėtojų registro duomenų tvarkytojui pateikti neprivalo, jeigu analogiški duomenys yra tvarkomi kitoje atitinkamo registro informacinėje sistemoje, valstybės informacinėje sistemoje ar kitoje informacinėje sistemoje, iš kurios Mokesčių mokėtojų registro duomenų tvarkytojas gauna registravimo duomenis pagal duomenų teikimo sutartį. Tokiais atvejais mokesčių mokėtojai registruojami ir jų duomenys Mokesčių mokėtojų registro informacinėje sistemoje tikslinami pagal iš atitinkamo registro informacinės sistemos, valstybės informacinės sistemos ar kitos informacinės sistemos Mokesčių mokėtojų registro duomenų tvarkytojo gautą informaciją. ^s-d90e0af9902a18fe62471465
+3. Mokesčių mokėtojų registro informacinės sistemos nuostatuose numatytais atvejais šio straipsnio [[#^s-bf2c3021912f4751e62ace90|1]] ir [[#^s-84069bceba2ec0dd8695f735|2]] dalyse nurodytų duomenų (dalies jų) mokesčių mokėtojas tiesiogiai Mokesčių mokėtojų registro duomenų tvarkytojui pateikti neprivalo, jeigu analogiški duomenys yra tvarkomi kitoje atitinkamo registro informacinėje sistemoje, valstybės informacinėje sistemoje ar kitoje informacinėje sistemoje, iš kurios Mokesčių mokėtojų registro duomenų tvarkytojas gauna registravimo duomenis pagal duomenų teikimo sutartį. Tokiais atvejais mokesčių mokėtojai registruojami ir jų duomenys Mokesčių mokėtojų registro informacinėje sistemoje tikslinami pagal iš atitinkamo registro informacinės sistemos, valstybės informacinės sistemos ar kitos informacinės sistemos Mokesčių mokėtojų registro duomenų tvarkytojo gautą informaciją. ^s-d90e0af9902a18fe62471465
 
 
 Straipsnio pakeitimai:
@@ -1870,7 +1870,7 @@ Nr. XV-309, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11978
 ### 49 straipsnis. Informacijos, būtinos mokesčių administratoriaus funkcijoms atlikti, pateikimas ^s-ff23a91714a13aacb5b11aeb
 
 
-1. Jei įstatymai nenustato ko kita, šio Įstatymo [[#^s-6d9d949798ddd991572db714|33 straipsnio 1 punkte]] nurodyta informacija bei duomenys, būtini mokesčių administratoriaus funkcijoms atlikti, turi būti pateikti ne vėliau kaip per 10 dienų nuo atitinkamo mokesčių administratoriaus nurodymo įteikimo dienos arba mokesčių administratoriaus nustatytu, ilgesniu negu minėtasis, terminu. ^s-e6131d79eaf622bccf9e1b6a
+1. Jei įstatymai nenustato ko kita, šio Įstatymo 33 straipsnio 1 punkte nurodyta informacija bei duomenys, būtini mokesčių administratoriaus funkcijoms atlikti, turi būti pateikti ne vėliau kaip per 10 dienų nuo atitinkamo mokesčių administratoriaus nurodymo įteikimo dienos arba mokesčių administratoriaus nustatytu, ilgesniu negu minėtasis, terminu. ^s-e6131d79eaf622bccf9e1b6a
 
 
 2. Atsisakymas pateikti informaciją negali būti grindžiamas komercine ar banko paslaptimi. Atsisakyti pateikti informaciją grindžiant profesine paslaptimi galima tik tuo atveju, jei tai tiesiogiai numatyta įstatymuose ir jei šis Įstatymas tiesiogiai neįpareigoja minėtą informaciją pateikti. ^s-5a6ea6a5c0895adcd6a1b0e6
@@ -2045,7 +2045,7 @@ Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 5) administruoja praneštinus tarpvalstybinius susitarimus, arba ^s-86f91673b17df827128bf21b
 
 
-6) atsižvelgdamas į tam tikras aplinkybes ir turimą informaciją bei ekspertines žinias ir supratimą, būtiną siekiant teikti tokias paslaugas, žino arba pagrįstai tikėtinai žino, kad tiesiogiai ar tarpininkaujant kitiems asmenims teikė pagalbą, paramą ar konsultacijas, susijusias su šios dalies 1–[[#^s-86f91673b17df827128bf21b|5 punktuose]] nurodytais veiksmais. ^s-75cf3858eb4ef1fc8ac7b81f
+6) atsižvelgdamas į tam tikras aplinkybes ir turimą informaciją bei ekspertines žinias ir supratimą, būtiną siekiant teikti tokias paslaugas, žino arba pagrįstai tikėtinai žino, kad tiesiogiai ar tarpininkaujant kitiems asmenims teikė pagalbą, paramą ar konsultacijas, susijusias su šios dalies [[#^s-d3a5c07a684f32c5978079fb|1]]–[[#^s-86f91673b17df827128bf21b|5]] punktuose nurodytais veiksmais. ^s-75cf3858eb4ef1fc8ac7b81f
 
 
 2. Tarpininkas taip pat turi atitikti bent vieną iš šių sąlygų: ^s-915aca8fe8b4508bbdfdb02d
@@ -2191,7 +2191,7 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 2. Šiame straipsnyje: ^s-3737083d4aa79f740d5c5ce7
 
 
-1) mokėjimo paslaugų teikėjais laikomos [[latest/TAR.C6C5599DD9A1#^s-36e766648c554f423cb12c5e|Mokėjimų įstatymo 6 straipsnio]] 1–[[#^s-747d02541c78926aaa7231ab|4 punktuose]] nurodytos įstaigos, teikiančios bent vieną iš [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] 3–6 punktuose nurodytų mokėjimo paslaugų ir vykdančios tarptautines mokėjimo operacijas; ^s-62d32158a6d99c2bd6a5e752
+1) mokėjimo paslaugų teikėjais laikomos [[latest/TAR.C6C5599DD9A1#^s-36e766648c554f423cb12c5e|Mokėjimų įstatymo 6 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-2490f1f226b7f002f253b98d|1]]–[[latest/TAR.C6C5599DD9A1#^s-bd1c8a1b9e017c79374deb3d|4]] punktuose nurodytos įstaigos, teikiančios bent vieną iš [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-ccdff0cb3a70a1ad7dbed260|3]]–[[latest/TAR.C6C5599DD9A1#^s-aa84b6a0200d5b73ced39668|6]] punktuose nurodytų mokėjimo paslaugų ir vykdančios tarptautines mokėjimo operacijas; ^s-62d32158a6d99c2bd6a5e752
 
 
 2) gavėjas ir mokėtojas suprantami taip, kaip jie apibrėžti [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatyme]]; ^s-25d9291d0467ff6b11e32c01
@@ -2209,7 +2209,7 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 4. Mokėjimo įrašus privaloma saugoti 3 kalendorinius metus nuo kalendorinių metų, kuriais įvykdyta tarptautinė mokėjimo operacija, pabaigos. ^s-9b25ba4ce2ea79fb2f57c1ce
 
 
-5. Centrinis mokesčių administratorius detalizuoja šiame straipsnyje nustatytus reikalavimus: nustato pateikiamų duomenų turinį, duomenų saugojimo ir pateikimo formą, terminus ir tvarką; mokėjimo operacijos priskyrimo tarptautinei mokėjimo operacijai požymius; mokėtojo ir gavėjo vietos nustatymo taisykles; pateiktų duomenų kaupimo ir saugojimo Valstybinėje mokesčių inspekcijoje tvarką ir terminus; duomenų įkėlimo į centrinę elektroninę mokėjimo informacinę sistemą, kaip tai nurodyta 2020 m. vasario 18 d. Tarybos reglamente (ES) 2020/283, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 904/2010, kiek tai susiję su priemonėmis, kuriomis stiprinamas administracinis bendradarbiavimas kovojant su sukčiavimu PVM, tvarką. ^s-d6f3810b1b4671a206e6fef8
+5. Centrinis mokesčių administratorius detalizuoja šiame straipsnyje nustatytus reikalavimus: nustato pateikiamų duomenų turinį, duomenų saugojimo ir pateikimo formą, terminus ir tvarką; mokėjimo operacijos priskyrimo tarptautinei mokėjimo operacijai požymius; mokėtojo ir gavėjo vietos nustatymo taisykles; pateiktų duomenų kaupimo ir saugojimo Valstybinėje mokesčių inspekcijoje tvarką ir terminus; duomenų įkėlimo į centrinę elektroninę mokėjimo informacinę sistemą, kaip tai nurodyta 2020 m. vasario 18 d. Tarybos [reglamente (ES) 2020/283](https://eur-lex.europa.eu/eli/reg/2020/283/oj), kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 904/2010, kiek tai susiję su priemonėmis, kuriomis stiprinamas administracinis bendradarbiavimas kovojant su sukčiavimu PVM, tvarką. ^s-d6f3810b1b4671a206e6fef8
 
 
 Papildyta straipsniu:
@@ -2235,13 +2235,13 @@ Nr. XIV-1659, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26363
 3) kriptoturto operatorius – kriptoturto paslaugas teikiantis asmuo, kuris neatitinka kriptoturto paslaugų teikėjui nustatytų reikalavimų; ^s-49c229cb307e542d62479937
 
 
-4) kriptoturto paslauga – kaip apibrėžiama 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 16 punkte, įskaitant užstatymo ir skolinimo paslaugas; ^s-0470dc3a88c278383349400f
+4) kriptoturto paslauga – kaip apibrėžiama 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamento (ES) 2023/1114](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) dėl kriptoturto rinkų, kuriuo iš dalies keičiami [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, [[#^s-79606cf11fabed0bcd577aa8|3]] straipsnio 1 dalies 16 punkte, įskaitant užstatymo ir skolinimo paslaugas; ^s-0470dc3a88c278383349400f
 
 
 5) mainų sandoris – sandoris, kuriuo susitariama dėl praneštino kriptoturto ir dekretinių valiutų mainų ir vienos ar kelių kitų rūšių praneštino kriptoturto mainų; ^s-6225ef4c2b53544a90d0ea8c
 
 
-6) praneštinas kriptoturtas – kriptoturtas, kaip jis apibrėžiamas Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 5 punkte, išskyrus centrinio banko išleistą skaitmeninę dekretinę valiutą, elektroninius pinigus ar bet kokį kriptoturtą, kurio, kaip duomenis teikiantis kriptoturto paslaugų teikėjas yra nustatęs, negalima naudoti mokėjimo arba investavimo tikslais ir apie kurį turi būti pranešama mokesčių administratoriui; ^s-67545a357c3ebeec2459ca6b
+6) praneštinas kriptoturtas – kriptoturtas, kaip jis apibrėžiamas [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) [[#^s-6225ef4c2b53544a90d0ea8c|5 punkte]], išskyrus centrinio banko išleistą skaitmeninę dekretinę valiutą, elektroninius pinigus ar bet kokį kriptoturtą, kurio, kaip duomenis teikiantis kriptoturto paslaugų teikėjas yra nustatęs, negalima naudoti mokėjimo arba investavimo tikslais ir apie kurį turi būti pranešama mokesčių administratoriui; ^s-67545a357c3ebeec2459ca6b
 
 
 7) praneštinas sandoris – mainų sandoris ar praneštino kriptoturto sandoris, kuriuo praneštinas kriptoturtas perkeliamas iš kriptoturto naudotojo kriptoturto adreso ar sąskaitos arba į kriptoturto naudotojo kriptoturto adresą ar sąskaitą, išskyrus tą adresą ar sąskaitą, kuriuos to paties kriptoturto naudotojo vardu tvarko duomenis teikiantis kriptoturto paslaugų teikėjas, kai, remdamasis sandorio vykdymo metu turimomis žiniomis, duomenis teikiantis kriptoturto paslaugų teikėjas negali nustatyti, kad tas sandoris yra mainų sandoris, ir apie kurį turi būti pranešama mokesčių administratoriui; ^s-cbd5643d0cf5f5661eaa4131
@@ -2253,7 +2253,7 @@ Nr. XIV-1659, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26363
 9) susijęs subjektas – subjektas, kuris kontroliuoja kitą subjektą ar yra jo kontroliuojamas arba jie abu yra bendrai kontroliuojami. Šiuo tikslu kontrolė apima tiesioginę ar netiesioginę daugiau negu 50 procentų subjekto balsų ar vertės nuosavybę; ^s-9fe344525aba8cbad3f9e822
 
 
-10) sąvokos „kriptoturtas“ ir „kriptoturto paslaugų teikėjas“ suprantamos taip, kaip apibrėžiamos Reglamente (ES) 2023/1114. ^s-e60a90d2dca024383e114289
+10) sąvokos „kriptoturtas“ ir „kriptoturto paslaugų teikėjas“ suprantamos taip, kaip apibrėžiamos [Reglamente (ES) 2023/1114](https://eur-lex.europa.eu/eli/reg/2023/1114/oj). ^s-e60a90d2dca024383e114289
 
 
 3. Nereikalaujama, kad duomenis teikiantis kriptoturto paslaugų teikėjas pateiktų informaciją apie šiuos asmenis: viešojo administravimo subjektą; subjektą, kurio akcijomis reguliariai prekiaujama vienoje ar keliose pripažintose vertybinių popierių rinkose, ar su juo susijusį subjektą; tarptautinę organizaciją; centrinį banką; pasaugos įstaigą; indėlių įstaigą; nurodytąją draudimo bendrovę; investicinę įmonę, išskyrus kito subjekto valdomą investicinę įmonę, kurios pagrindinės bendrosios pajamos gautos už investavimą, reinvestavimą arba prekybą finansiniu turtu ar praneštinu kriptoturtu. ^s-96e55e70b68c21a0291d65cb
@@ -2277,7 +2277,7 @@ Nr. XIV-1659, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26363
 9. Jeigu kriptoturto operatorius, užsiregistravęs Valstybinėje mokesčių inspekcijoje pagal [[#^s-a560a77264ef2d6c1b39971b|šio straipsnio 4 dalį]], nevykdo pareigos teikti Valstybinei mokesčių inspekcijai informacijos pagal [[#^s-25556597c72d139d0aa5e393|šio straipsnio 1 dalį]], centrinis mokesčių administratorius, pateikęs šiam kriptoturto operatoriui 2 priminimus, ne vėliau kaip per 90 dienų nuo pirmojo priminimo pateikimo dienos, bet ne anksčiau kaip po 30 dienų nuo antrojo priminimo pateikimo dienos priima sprendimą panaikinti šio kriptoturto operatoriaus registraciją tol, kol šis pateiks šiame straipsnyje nurodomą informaciją. Pirmasis priminimas kriptoturto operatoriui vienu iš Įstatymo [[#^s-0e3736975e48513a291377d6|164 straipsnyje]] nurodytų būdų turi būti pateikiamas ne vėliau kaip per 30 dienų nuo nustatytos informacijos teikimo termino pabaigos. Antrasis priminimas turi būti pateikiamas ne vėliau kaip per 30 dienų nuo dienos, kada pirmasis priminimas laikomas įteiktu pagal šio Įstatymo [[#^s-0e3736975e48513a291377d6|164 straipsnį]]. ^s-936903bb52f84db235613e05
 
 
-10. Lietuvos bankas kasmet ne vėliau kaip iki kalendorinių metų gruodžio 31 dienos pateikia centriniam mokesčių administratoriui visų kriptoturto paslaugų teikėjų, veikiančių Lietuvos Respublikoje pagal Reglamento (ES) 2023/1114 [[#^s-11c5fcab9bef85e39c019e8f|59 straipsnį]], sąrašą. ^s-f9ca00c271db84dfbcb5413e
+10. Lietuvos bankas kasmet ne vėliau kaip iki kalendorinių metų gruodžio 31 dienos pateikia centriniam mokesčių administratoriui visų kriptoturto paslaugų teikėjų, veikiančių Lietuvos Respublikoje pagal [Reglamento (ES) 2023/1114 59 straipsnį](https://eur-lex.europa.eu/eli/reg/2023/1114/art_59/oj), sąrašą. ^s-f9ca00c271db84dfbcb5413e
 
 
 11. Centrinis mokesčių administratorius, atsižvelgdamas į Europos Sąjungos teisės aktų, susijusių su informacijos apie kriptoturto naudotojus teikimu, ir Lietuvos Respublikos tarptautinėse sutartyse ar susitarimuose dėl automatinių informacijos apie kriptoturtą mainų nuostatas, nustato šiame straipsnyje nurodytų reikalavimų įgyvendinimo tvarką, be kita ko, detalizuoja, kada ir apie kuriuos asmenis duomenis teikiantys kriptoturto paslaugų teikėjai neturi teikti Valstybinei mokesčių inspekcijai [[#^s-25556597c72d139d0aa5e393|šio straipsnio 1 dalyje]] nurodytos informacijos, taip pat duomenis teikiančių kriptoturto paslaugų teikėjų atliekamas procedūras, kuriomis siekiama nustatyti kriptoturto naudotojus, apie kuriuos turi būti pranešama, ir atvejus, kada tokių procedūrų nereikia atlikti, [[#^s-25556597c72d139d0aa5e393|šio straipsnio 1 dalyje]] nurodytos informacijos apimtį ir jos teikimo Valstybinei mokesčių inspekcijai ir kitų valstybių narių kompetentingoms institucijoms tvarką, informacijos apie kriptoturto operatorius, kurie turi Europos Sąjungoje reziduojančių praneštinų kriptoturto naudotojų, tačiau nevykdo pareigos registruotis Valstybinėje mokesčių inspekcijoje, teikimo Europos Komisijai tvarką, kaip tai numatyta [[#^s-2200e35933dc4396035e4b49|šio straipsnio 6 dalyje]], kriptoturto operatorių registravimo pagal [[#^s-a560a77264ef2d6c1b39971b|šio straipsnio 4 dalį]] ir tokios registracijos panaikinimo tvarką, procedūras, skirtas patikrinti, ar duomenis teikiantys kriptoturto paslaugų teikėjai laikosi [[#^s-25556597c72d139d0aa5e393|šio straipsnio 1 dalyje]] nurodytų informacijos teikimo, įskaitant veiksmus, kai pateikiama neišsami ar netiksli informacija, reikalavimų. ^s-d49e92a36f316746e79ada96
@@ -2291,10 +2291,10 @@ Nr. XV-309, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11978
 ### 616 straipsnis. Asmens duomenų apsauga ^s-e6b962e9c26ba5b8d0547351
 
 
-1. Europos Sąjungos valstybių narių finansų sistemas saugant nuo galimos žalos, taip pat mokestinių prievolių vykdymo užtikrinimo ir kovos su sukčiavimu ir mokesčių įstatymų pažeidimų tyrimo tikslais visais atvejais, kiek tai susiję su keitimusi informacija tarp centrinio mokesčių administratoriaus ir užsienio valstybių mokesčių administracijų (kompetentingų institucijų), ribojamos fizinių asmenų teisės, nurodytos Reglamento (ES) 2016/679 13 straipsnio 1 dalies c, d, e ir f punktuose, 13 straipsnio 2 dalies a ir b punktuose, [[#^s-6414a66da989fba6679db990|14 straipsnio 1 dalyje]] ir [[#^s-73cff7d8901729592548d872|15 straipsnyje]]. Ribojimai taikomi fiziniams asmenims, kurių asmens duomenis teikia subjektai, nurodyti šio įstatymo 611, 612, 613, [[#^s-f3c13ce3581113278d4b1cbc|615 straipsniuose]], ir tik ta apimtimi, kuria šie subjektai teikia informaciją ir dokumentus centriniam mokesčių administratoriui. Dokumentai ir kita informacija, kuriuose yra asmens duomenų, saugomi einamuosius ir 5 kalendorinius metus nuo šių duomenų gavimo iš subjektų dienos. Siekiant užtikrinti Europos Sąjungos valstybių narių finansų sistemų apsaugą nuo galimos žalos, mokestinių prievolių vykdymą, mokesčių įstatymų pažeidimų tyrimą ir kovojant su sukčiavimu, fiziniai asmenys neinformuojami apie jiems pritaikytą ribojimą. ^s-85199e5ffd95ff315cf295a2
+1. Europos Sąjungos valstybių narių finansų sistemas saugant nuo galimos žalos, taip pat mokestinių prievolių vykdymo užtikrinimo ir kovos su sukčiavimu ir mokesčių įstatymų pažeidimų tyrimo tikslais visais atvejais, kiek tai susiję su keitimusi informacija tarp centrinio mokesčių administratoriaus ir užsienio valstybių mokesčių administracijų (kompetentingų institucijų), ribojamos fizinių asmenų teisės, nurodytos [Reglamento (ES) 2016/679 13 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2016/679/art_13/par_1/oj) c, d, e ir f punktuose, 13 straipsnio 2 dalies a ir b punktuose, [[#^s-6414a66da989fba6679db990|14 straipsnio 1 dalyje]] ir [[#^s-73cff7d8901729592548d872|15 straipsnyje]]. Ribojimai taikomi fiziniams asmenims, kurių asmens duomenis teikia subjektai, nurodyti šio įstatymo [[#^s-69080027e30178d49ef3af36|611]], [[#^s-69ba10225b0641974398f2e8|612]], [[#^s-14f91ce0868b658a460bb262|613]], [[#^s-f3c13ce3581113278d4b1cbc|615]] straipsniuose, ir tik ta apimtimi, kuria šie subjektai teikia informaciją ir dokumentus centriniam mokesčių administratoriui. Dokumentai ir kita informacija, kuriuose yra asmens duomenų, saugomi einamuosius ir 5 kalendorinius metus nuo šių duomenų gavimo iš subjektų dienos. Siekiant užtikrinti Europos Sąjungos valstybių narių finansų sistemų apsaugą nuo galimos žalos, mokestinių prievolių vykdymą, mokesčių įstatymų pažeidimų tyrimą ir kovojant su sukčiavimu, fiziniai asmenys neinformuojami apie jiems pritaikytą ribojimą. ^s-85199e5ffd95ff315cf295a2
 
 
-2. Neatsižvelgiant į [[#^s-85199e5ffd95ff315cf295a2|šio straipsnio 1 dalį]], Valstybinei mokesčių inspekcijai informaciją teikiantys subjektai, nurodyti šio Įstatymo 611, 612 613 ir [[#^s-f3c13ce3581113278d4b1cbc|615 straipsniuose]], bet kokiu atveju prieš pateikdami informaciją Valstybinei mokesčių inspekcijai privalo kiekvieną fizinį asmenį informuoti apie tai, kad, kiek tai susiję su keitimusi informacija automatizuotu būdu, renkami ir užsienio valstybių mokesčių administracijoms (kompetentingoms institucijoms) bei Valstybinei mokesčių inspekcijai perduodami su juo susiję duomenys, ir kiekvienam fiziniam asmeniui iš anksto pateikti visą informaciją, kurią jis turi teisę gauti iš duomenų valdytojo pagal Reglamentą (ES) 2016/679, kad tas fizinis asmuo galėtų pasinaudoti teisėmis į asmens duomenų apsaugą. ^s-44c7abd51d520d64c578f248
+2. Neatsižvelgiant į [[#^s-85199e5ffd95ff315cf295a2|šio straipsnio 1 dalį]], Valstybinei mokesčių inspekcijai informaciją teikiantys subjektai, nurodyti šio Įstatymo 611, 612 [[#^s-14f91ce0868b658a460bb262|613]] ir [[#^s-f3c13ce3581113278d4b1cbc|615]] straipsniuose, bet kokiu atveju prieš pateikdami informaciją Valstybinei mokesčių inspekcijai privalo kiekvieną fizinį asmenį informuoti apie tai, kad, kiek tai susiję su keitimusi informacija automatizuotu būdu, renkami ir užsienio valstybių mokesčių administracijoms (kompetentingoms institucijoms) bei Valstybinei mokesčių inspekcijai perduodami su juo susiję duomenys, ir kiekvienam fiziniam asmeniui iš anksto pateikti visą informaciją, kurią jis turi teisę gauti iš duomenų valdytojo pagal [Reglamentą (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), kad tas fizinis asmuo galėtų pasinaudoti teisėmis į asmens duomenų apsaugą. ^s-44c7abd51d520d64c578f248
 
 
 Papildyta straipsniu:
@@ -2315,7 +2315,7 @@ Asmenys privalo įvykdyti mokesčių administratoriaus nurodymą pašalinti apli
 1. Mokesčių administratoriaus nurodymas kredito, mokėjimo, elektroninių pinigų įstaigai ir (ar) valstybės iždo valdytojui nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos (sąskaitų) privalo būti įvykdytas visiškai. Šis mokesčių administratoriaus nurodymas turi būti priimamas bei vykdomas ir tuo atveju, kai mokesčių mokėtojo sąskaitoje nėra pinigų arba yra mažesnė pinigų suma negu nurašytina. Tokiu atveju nurašymas turi būti atliekamas tol, kol iš mokesčių mokėtojo sąskaitos (sąskaitų) bus nurašyta visa nurodyme nurodyta suma. Mokesčių administratorius sumažina savo nurodyme, kuris jau pateiktas kredito, mokėjimo, elektroninių pinigų įstaigai ir (ar) valstybės iždo valdytojui, numatytą nurašytiną sumą, jei mokestinė nepriemoka iš dalies padengiama kitokiu būdu. ^s-565b4db5bc03fdcbbe17ce37
 
 
-2. Mokesčių administratoriaus nurodymas nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos (sąskaitų) kredito, mokėjimo, elektroninių pinigų įstaigai ir (ar) valstybės iždo valdytojui pateikiamas ir vykdomas vadovaujantis Civilinio proceso kodekse nustatyta tvarka. ^s-916be7c7ac8b51c5446c366f
+2. Mokesčių administratoriaus nurodymas nurašyti mokestinės nepriemokos sumas iš asmens sąskaitos (sąskaitų) kredito, mokėjimo, elektroninių pinigų įstaigai ir (ar) valstybės iždo valdytojui pateikiamas ir vykdomas vadovaujantis [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-916be7c7ac8b51c5446c366f
 
 
 Straipsnio pakeitimai:
@@ -2754,13 +2754,13 @@ Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
 
 
 
-41. Mokesčių mokėtojo permokėtos mokesčių, administruojamų Valstybinės mokesčių inspekcijos, sumos yra įskaitomos valstybinio socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolai padengti, Valstybinio socialinio draudimo fondo administravimo įstaigų administruojamai žalai, atsiradusiai dėl draudėjo kaltės, atlyginti ir privalomojo sveikatos draudimo įmokų mokestinei nepriemokai padengti po to, kai permokėtos mokesčių sumos yra įskaitytos šio straipsnio 1 ir [[#^s-d413b22c875a8df6253223d7|3 dalyse]] nustatyta tvarka. ^s-5f6ab7f3eb75a6d498db8310
+41. Mokesčių mokėtojo permokėtos mokesčių, administruojamų Valstybinės mokesčių inspekcijos, sumos yra įskaitomos valstybinio socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolai padengti, Valstybinio socialinio draudimo fondo administravimo įstaigų administruojamai žalai, atsiradusiai dėl draudėjo kaltės, atlyginti ir privalomojo sveikatos draudimo įmokų mokestinei nepriemokai padengti po to, kai permokėtos mokesčių sumos yra įskaitytos šio straipsnio [[#^s-fbcaa628d5d2a2686dba2ce0|1]] ir [[#^s-d413b22c875a8df6253223d7|3]] dalyse nustatyta tvarka. ^s-5f6ab7f3eb75a6d498db8310
 Papildyta straipsnio dalimi:
 Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
 
 
 
-5. Mokesčių mokėtojo permokėtos mokesčių sumos, kurios lieka po permokėtų mokesčių sumų įskaitymo šio straipsnio 1, 3 ir [[#^s-03dae6cc82d7f8a13fe89cbb|4 dalyse]] nustatyta tvarka, grąžinamos mokesčių mokėtojo prašymu. Tuo atveju, kai mokesčių mokėtojas turi laiku negrąžintų skolų valstybei pagal paskolas iš valstybės vardu pasiskolintų lėšų ar pagal paskolas, dėl kurių kreditoriams suteikta valstybės garantija, permokėtos mokesčių sumos, kurios lieka po permokėtų mokesčių sumų įskaitymo šio straipsnio 1, 3 ir [[#^s-03dae6cc82d7f8a13fe89cbb|4 dalyse]] nustatyta tvarka, naudojamos šioje dalyje nurodytoms skoloms dengti centrinių mokesčių administratorių kartu nustatyta tvarka. Padengus šias skolas likusios sumos grąžinamos mokesčių mokėtojo prašymu. ^s-c43c1a9b4b7ad25cab1d0eb2
+5. Mokesčių mokėtojo permokėtos mokesčių sumos, kurios lieka po permokėtų mokesčių sumų įskaitymo šio straipsnio [[#^s-fbcaa628d5d2a2686dba2ce0|1]], [[#^s-d413b22c875a8df6253223d7|3]] ir [[#^s-03dae6cc82d7f8a13fe89cbb|4]] dalyse nustatyta tvarka, grąžinamos mokesčių mokėtojo prašymu. Tuo atveju, kai mokesčių mokėtojas turi laiku negrąžintų skolų valstybei pagal paskolas iš valstybės vardu pasiskolintų lėšų ar pagal paskolas, dėl kurių kreditoriams suteikta valstybės garantija, permokėtos mokesčių sumos, kurios lieka po permokėtų mokesčių sumų įskaitymo šio straipsnio [[#^s-fbcaa628d5d2a2686dba2ce0|1]], [[#^s-d413b22c875a8df6253223d7|3]] ir [[#^s-03dae6cc82d7f8a13fe89cbb|4]] dalyse nustatyta tvarka, naudojamos šioje dalyje nurodytoms skoloms dengti centrinių mokesčių administratorių kartu nustatyta tvarka. Padengus šias skolas likusios sumos grąžinamos mokesčių mokėtojo prašymu. ^s-c43c1a9b4b7ad25cab1d0eb2
 Straipsnio dalies pakeitimai:
 Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
 
@@ -2853,7 +2853,7 @@ Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 4. Tuo atveju, kai mokestinės nepriemokos sumokėjimo terminas yra atidedamas ar išdėstomas, iš mokesčių mokėtojo gali būti pareikalauta Civilinio kodekso nustatyta tvarka užtikrinti mokestinės nepriemokos sumokėjimą įkeitimu, hipoteka, laidavimu ar garantija. ^s-6b90d639739af39fd7f37fb5
 
 
-5. Už suteiktą mokestinę paskolą mokamos palūkanos, kurių dydį, kuris visais atvejais negali būti mažesnis už nulį, ir apskaičiavimo tvarką nustato finansų ministras, atsižvelgdamas į praėjusio kalendorinio ketvirčio paskutinės darbo dienos Vyriausybės vertybinio popieriaus, kurio išpirkimo laikotarpis artimiausias 12 mėnesių laikotarpiui, pelningumą antrinės vertybinių popierių apyvartos, kaip ji apibrėžta [[latest/TAR.3DF892F52616|Lietuvos Respublikos vertybinių popierių įstatyme]] (toliau – antrinė vertybinių popierių apyvarta), rinkoje. Jeigu kitas palūkanų dydis nenustatytas, taikomas paskutinis finansų ministro nustatytas palūkanų dydis. Mokesčių mokėtojui laiku nesumokėjus įmokų pagal mokestinės paskolos sutartimi patvirtintą mokėjimo grafiką, skaičiuojamos padidintos palūkanos, o nesumokėjus palūkanų pagal mokestinės paskolos sutartį – palūkanų delspinigiai. Padidintos palūkanos ir palūkanų delspinigiai skaičiuojami iki tos dienos, kol atitinkamos sumos yra sumokamos (įskaitomos). Padidintų palūkanų ir palūkanų delspinigių dydis yra lygus delspinigių už laiku nesumokėtą mokestį dydžiui. ^s-c06db04c02b7dc612a1ebae0
+5. Už suteiktą mokestinę paskolą mokamos palūkanos, kurių dydį, kuris visais atvejais negali būti mažesnis už nulį, ir apskaičiavimo tvarką nustato finansų ministras, atsižvelgdamas į praėjusio kalendorinio ketvirčio paskutinės darbo dienos Vyriausybės vertybinio popieriaus, kurio išpirkimo laikotarpis artimiausias 12 mėnesių laikotarpiui, pelningumą antrinės vertybinių popierių apyvartos, kaip ji apibrėžta [[latest/TAR.3DF892F52616|Lietuvos Respublikos vertybinių popierių įstatyme]] (toliau – [[latest/TAR.3DF892F52616|antrinė vertybinių popierių apyvarta]]), rinkoje. Jeigu kitas palūkanų dydis nenustatytas, taikomas paskutinis finansų ministro nustatytas palūkanų dydis. Mokesčių mokėtojui laiku nesumokėjus įmokų pagal mokestinės paskolos sutartimi patvirtintą mokėjimo grafiką, skaičiuojamos padidintos palūkanos, o nesumokėjus palūkanų pagal mokestinės paskolos sutartį – palūkanų delspinigiai. Padidintos palūkanos ir palūkanų delspinigiai skaičiuojami iki tos dienos, kol atitinkamos sumos yra sumokamos (įskaitomos). Padidintų palūkanų ir palūkanų delspinigių dydis yra lygus delspinigių už laiku nesumokėtą mokestį dydžiui. ^s-c06db04c02b7dc612a1ebae0
 Straipsnio dalies pakeitimai:
 Nr. XII-1137, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13606
 Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
@@ -2867,7 +2867,7 @@ Nr. XV-309, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11978
 
 
 
-7. Jeigu mokesčių mokėtojas nesilaiko mokestinės paskolos sutarties sąlygų, ji nutraukiama. Šiuo atveju už mokestinę paskolą sumokėta palūkanų suma perskaičiuojama atsižvelgiant į faktiškai pasinaudotą mokestinės paskolos sumą, o nuo likusių nesumokėtų sumų nepertraukiamai šio Įstatymo 96–[[#^s-d7a04fccf5f329c5e515673b|98 straipsnių]] nustatyta tvarka skaičiuojami delspinigiai. Mokestinės paskolos sutartis taip pat nutraukiama, jei mokesčių mokėtojui iškeliama bankroto byla. ^s-75c920df2a087218d91d503e
+7. Jeigu mokesčių mokėtojas nesilaiko mokestinės paskolos sutarties sąlygų, ji nutraukiama. Šiuo atveju už mokestinę paskolą sumokėta palūkanų suma perskaičiuojama atsižvelgiant į faktiškai pasinaudotą mokestinės paskolos sumą, o nuo likusių nesumokėtų sumų nepertraukiamai šio Įstatymo [[#^s-6fd0fdf38e6c790869cbec7b|96]]–[[#^s-d7a04fccf5f329c5e515673b|98]] straipsnių nustatyta tvarka skaičiuojami delspinigiai. Mokestinės paskolos sutartis taip pat nutraukiama, jei mokesčių mokėtojui iškeliama bankroto byla. ^s-75c920df2a087218d91d503e
 
 
 8. Neteko galios nuo 2020-03-19. ^s-3cf5350e801149126c719f35
@@ -2950,7 +2950,7 @@ Nr. XV-511, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19749
 3. Tais atvejais, kai reorganizuojamas juridinis asmuo mokestinės nepriemokos neturi, reorganizuoto juridinio asmens turima mokesčio permoka šio Įstatymo [[#^s-ea33f8bfed4ac45be9759362|87 straipsnio]] nustatyta tvarka grąžinama (įskaitoma) reorganizuoto juridinio asmens teisių ir pareigų perėmėjui. Ši nuostata taikoma ir tais atvejais, kai mokesčio permoka paaiškėja po juridinio asmens reorganizavimo užbaigimo. ^s-f8c7ed8e3d468ce337a41dcc
 
 
-4. Šio straipsnio 1 ir [[#^s-f8c7ed8e3d468ce337a41dcc|3 dalių]] nuostatos taikomos ir atskiriamoms akcinėms bendrovėms bei uždarosioms akcinėms bendrovėms. ^s-1b448facf7d9951b7fcaa0a0
+4. Šio straipsnio [[#^s-49843c37bbb03f03488268f0|1]] ir [[#^s-f8c7ed8e3d468ce337a41dcc|3]] dalių nuostatos taikomos ir atskiriamoms akcinėms bendrovėms bei uždarosioms akcinėms bendrovėms. ^s-1b448facf7d9951b7fcaa0a0
 
 
 5. Pertvarkyto juridinio asmens mokestines prievoles bendra tvarka vykdo po pertvarkymo veikiantis juridinis asmuo. ^s-a49fc3cb74ce32ec63f8a543
@@ -3140,7 +3140,7 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 2) tą dieną, kai mokestinė prievolė pasibaigia kitais šio Įstatymo [[#^s-36c6585f5d0ee4057d3b7c92|93 straipsnyje]] nustatytais pagrindais. ^s-43a832348da785396ce317c1
 
 
-2. Delspinigiai, pradėti skaičiuoti šio Įstatymo [[#^s-6ec2d202bb2049176ff1fc2a|97 straipsnio]] 1 ir [[#^s-b030f34c03a5ce920eeb76d1|2 dalyse]] nustatyta tvarka, skaičiuojami ne ilgiau kaip 180 dienų nuo teisės priverstinai išieškoti mokestinę nepriemoką atsiradimo dienos, o mokesčių mokėtojui nesumokėjus jo (atitinkamo mokesčio įstatyme nustatytu atveju – mokesčių administratoriaus) apskaičiuoto nedeklaruojamo mokesčio, – ne ilgiau kaip 180 dienų nuo atitinkamo mokesčio įstatyme numatyto sumokėjimo termino. Sustabdžius mokesčio priverstinį išieškojimą šio Įstatymo [[#^s-c7b15718a7a96ab74c8790ba|110 straipsnio 1 dalyje]] nurodytu atveju, delspinigiai skaičiuojami už visą sustabdymo laikotarpį, jeigu mokesčių mokėtojo skundas buvo atmestas. ^s-b030f34c03a5ce920eeb76d1
+2. Delspinigiai, pradėti skaičiuoti šio Įstatymo [[#^s-6ec2d202bb2049176ff1fc2a|97 straipsnio]] [[#^s-83963516a35b7c656d03940f|1]] ir [[#^s-e90e163f9534d1e0fa1facf9|2]] dalyse nustatyta tvarka, skaičiuojami ne ilgiau kaip 180 dienų nuo teisės priverstinai išieškoti mokestinę nepriemoką atsiradimo dienos, o mokesčių mokėtojui nesumokėjus jo (atitinkamo mokesčio įstatyme nustatytu atveju – mokesčių administratoriaus) apskaičiuoto nedeklaruojamo mokesčio, – ne ilgiau kaip 180 dienų nuo atitinkamo mokesčio įstatyme numatyto sumokėjimo termino. Sustabdžius mokesčio priverstinį išieškojimą šio Įstatymo [[#^s-c7b15718a7a96ab74c8790ba|110 straipsnio 1 dalyje]] nurodytu atveju, delspinigiai skaičiuojami už visą sustabdymo laikotarpį, jeigu mokesčių mokėtojo skundas buvo atmestas. ^s-b030f34c03a5ce920eeb76d1
 
 
 3. Teisės aktai, kuriuose nustatomas trumpesnis delspinigių skaičiavimo laikotarpis, taikomi po jų įsigaliojimo pradėtiems skaičiuoti delspinigiams. Iki minėtų teisės aktų įsigaliojimo pradėtų skaičiuoti delspinigių skaičiavimas tęsiamas ne ilgiau, negu šiuose teisės aktuose nustatytas delspinigių skaičiavimo terminas. Jeigu delspinigiai iki minėtų teisės aktų įsigaliojimo buvo skaičiuojami ilgiau, negu nustatyta šiuose teisės aktuose, delspinigių skaičiavimas nutraukiamas. ^s-4dd0092ad6c0fa0717341978
@@ -3235,7 +3235,7 @@ Nr. XV-511, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19749
 5. Mokesčių administratorius įkainoja areštuojamą turtą rinkos kainomis. Mokesčių mokėtojas, nesutikdamas su mokesčių administratoriaus įkainojimu, turi teisę jį ginčyti įstatymų nustatyta tvarka. ^s-836a378f999b0c7f1c414239
 
 
-6. Mokesčių administratoriaus vykdomam turto areštui mutatis mutandis taikomos Civilinio proceso kodekso XLVIII skyriaus 675 straipsnio 1, 2, 4 ir [[#^s-836a378f999b0c7f1c414239|5 dalyse]], 677, 678, 679, 680, 683, 684 straipsniuose, 686 straipsnio 1 ir [[#^s-3d9dfcfb1092951aa44d8c1a|2 dalyse]] bei 688 straipsnyje nustatytos taisyklės. Šiuo atveju mokesčių administratoriaus pareigūnas turi visas teises ir pareigas dėl mokesčių mokėtojo ir trečiųjų asmenų, kaip ir šio kodekso nustatyta tvarka turtą areštuojantis antstolis. ^s-90f1182b2cd44fe1627d7126
+6. Mokesčių administratoriaus vykdomam turto areštui mutatis mutandis taikomos [Civilinio proceso kodekso XLVIII skyriaus 675 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) [1](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [2](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [4](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir [5](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) dalyse, 677, 678, 679, 680, 683, 684 straipsniuose, 686 straipsnio 1 ir 2 dalyse bei 688 straipsnyje nustatytos taisyklės. Šiuo atveju mokesčių administratoriaus pareigūnas turi visas teises ir pareigas dėl mokesčių mokėtojo ir trečiųjų asmenų, kaip ir šio kodekso nustatyta tvarka turtą areštuojantis antstolis. ^s-90f1182b2cd44fe1627d7126
 
 
 
@@ -3381,15 +3381,15 @@ Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 2) mokesčių mokėtojas nesumoka deklaruoto mokesčio arba muitinės deklaracijoje nurodyto mokesčio atitinkamo mokesčio įstatyme ar jo pagrindu priimtame lydimajame teisės akte nustatytu terminu; ^s-ce29d6b8254cc0008bf2831f
 
 
-3) mokesčių mokėtojas šio Įstatymo [[#^s-8c705ea83d2bf55e742414ef|81 straipsnio]] 2 ir [[#^s-df79f1d1de2b3a953297c63b|4 dalyse]] numatytais terminais nesumoka mokesčių administratoriaus sprendime, pagal kurį mokesčių mokėtojui naujai apskaičiuojamas ir nurodomas sumokėti mokestis ir (arba) su juo susijusios sumos, nurodyto mokesčio ir su juo susijusių sumų. ^s-65085a6bf396e41d0744a922
+3) mokesčių mokėtojas šio Įstatymo [[#^s-8c705ea83d2bf55e742414ef|81 straipsnio]] [[#^s-b7b16140936f2b4e4ad30256|2]] ir [[#^s-28d189f4c0ba47f806d92ac0|4]] dalyse numatytais terminais nesumoka mokesčių administratoriaus sprendime, pagal kurį mokesčių mokėtojui naujai apskaičiuojamas ir nurodomas sumokėti mokestis ir (arba) su juo susijusios sumos, nurodyto mokesčio ir su juo susijusių sumų. ^s-65085a6bf396e41d0744a922
 
 
 2. Teisė išieškoti mokestinę nepriemoką įgyjama kitą dieną po to, kai pasibaigia raginime geruoju sumokėti mokestį ir su juo susijusias sumas nurodytas terminas, o jeigu raginimas nesiunčiamas, – kitą dieną po [[#^s-00e071747a16e16b0219f6f2|šio straipsnio 1 dalies]] 2 ir 3 punktuose nustatyto termino pabaigos. Tais atvejais, kai pasibaigus mokesčio sumokėjimo terminui mokesčių mokėtojas mokesčio deklaraciją pateikia pavėluotai arba pateikia patikslintą mokesčių deklaraciją, mokesčių administratorius įgyja teisę išieškoti patikslintoje mokesčių deklaracijoje nurodytą mokestį ir su juo susijusius delspinigius kitą dieną po minėtos deklaracijos pateikimo dienos. ^s-ab20f75516227d41ffc3e12d
 
 
 3. Teisę priverstinai išieškoti laiku nesumokėtą baudą už administracinį nusižengimą mokesčių administratorius įgyja kitą dieną po to, kai pasibaigia Administracinių nusižengimų kodekso 675 straipsnyje numatytas baudos sumokėjimo terminas. Tuo atveju, kai baudos už administracinį nusižengimą mokėjimas buvo atidėtas ar išdėstytas šio Įstatymo ar Administracinių nusižengimų kodekso nustatyta tvarka, teisę priverstinai išieškoti laiku nesumokėtą baudą už administracinį nusižengimą mokesčių administratorius įgyja kitą dieną po to, kai nutraukiama mokestinės paskolos sutartis arba pasibaigia baudos už administracinį nusižengimą mokėjimo, atidėjimo ar išdėstymo terminas. ^s-1ed8690fceb939b7fad29f78
-TAR pastaba. [[#^s-1ed8690fceb939b7fad29f78|3 dalies]] nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
-Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+TAR pastaba. 3 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), patvirtintame 1984 m. [įstatymu Nr. X-4449](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) (toliau – [Administracinių teisės pažeidimų kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492)).
+Tais atvejais, kai bauda paskirta už [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
@@ -3441,16 +3441,16 @@ Nr. XII-602, 2013-11-19, Žin., 2013, Nr. 124-6281 (2013-12-05)
 3) duodant kredito, mokėjimo, elektroninių pinigų įstaigai ir (ar) valstybės iždo valdytojui nurodymą nurašyti mokestinės nepriemokos sumas iš laiduotojo arba garanto sąskaitos (sąskaitų), jeigu laiduotojas arba garantas nevykdo [[#^s-19436ff821231fa72090e119|šios dalies 2 punkte]] nustatyto reikalavimo. Šis nurodymas vykdomas šio Įstatymo [[#^s-627ed8db9679e8717154ea28|63 straipsnyje]] nustatyta tvarka; ^s-61a81387edf5a3b53ed10d0a
 
 
-4) priimant sprendimą dėl priverstinio mokestinės nepriemokos išieškojimo iš mokesčių mokėtojo, laiduotojo arba garanto turto. Šį sprendimą vykdo antstoliai Civilinio proceso kodekso nustatyta tvarka; ^s-174742bd2cf37a686a8e32c7
+4) priimant sprendimą dėl priverstinio mokestinės nepriemokos išieškojimo iš mokesčių mokėtojo, laiduotojo arba garanto turto. Šį sprendimą vykdo antstoliai [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka; ^s-174742bd2cf37a686a8e32c7
 
 
-5) priimant sprendimą dėl priverstinio mokestinės nepriemokos, užtikrintos priverstine hipoteka (įkeitimu), išieškojimo iš įkeisto turto. Šis sprendimas yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka. ^s-fae712d26dbc2ba9208c55fc
+5) priimant sprendimą dėl priverstinio mokestinės nepriemokos, užtikrintos priverstine hipoteka (įkeitimu), išieškojimo iš įkeisto turto. Šis sprendimas yra vykdomasis dokumentas, vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-fae712d26dbc2ba9208c55fc
 
 
 2. Administracinių nusižengimų kodekso nustatyta tvarka priimti nutarimai skirti baudas priverstine tvarka vykdomi pagal šiame Įstatyme ir Administracinių nusižengimų kodekso 676 straipsnyje nustatytas procedūras. ^s-c87aef42bfb8a40bbc175c1a
 
 
-3. Ekonominės piniginės sankcijos, baudos už nusikalstamas veikas, teismų priteistos sumos ir procesinės baudos priverstinai išieškomos pagal šiame Įstatyme, Civilinio proceso kodekse ir kituose teisės aktuose, reglamentuojančiuose priverstinį išieškojimą, nustatytas procedūras. ^s-50ecc9fb310f8563a98bee12
+3. Ekonominės piniginės sankcijos, baudos už nusikalstamas veikas, teismų priteistos sumos ir procesinės baudos priverstinai išieškomos pagal šiame Įstatyme, [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir kituose teisės aktuose, reglamentuojančiuose priverstinį išieškojimą, nustatytas procedūras. ^s-50ecc9fb310f8563a98bee12
 
 
 4. [[#^s-1ca091636728363a8a8d205b|Šio straipsnio 1 dalies]] nuostatos taip pat taikomos, kai mokesčių administratorius įstatymų arba tarptautinių sutarčių nustatytais atvejais atlieka išieškojimą kitos valstybės naudai. ^s-b1d9b4250faa48c92f95f598
@@ -3465,13 +3465,13 @@ Nr. XII-602, 2013-11-19, Žin., 2013, Nr. 124-6281 (2013-12-05)
 7. Mokesčių administratoriui nustačius, kad asmuo neturi sąskaitų kredito, mokėjimo, elektroninių pinigų įstaigoje ir (ar) valstybės ižde arba antstolis jau vykdo išieškojimą iš asmens turto, mokesčių administratorius [[#^s-dfbc719982cd400be9a2b658|šio straipsnio 8 dalyje]] nustatyta tvarka ne vėliau kaip per 45 dienas nuo teisės priverstinai išieškoti mokestinę nepriemoką atsiradimo dienos priima sprendimą ir perduoda jį vykdyti antstoliui. Dėl su mokesčių administravimo procedūromis susijusių svarbių priežasčių mokesčių administratorius šioje dalyje nurodytą terminą gali pratęsti ne ilgiau kaip 45 dienoms. Nemokestinės nepriemokos atveju terminas negali būti pratęsiamas. ^s-fab3e7e753281e1b17c9d894
 
 
-8. Šio straipsnio 6 ir [[#^s-fab3e7e753281e1b17c9d894|7 dalyse]] nurodytais atvejais mokesčių administratorius priima sprendimą, jeigu turi informacijos, kad asmuo turi turto ir (arba) pajamų, iš kurių gali būti vykdomas išieškojimas. Vertindamas, ar asmuo turi turto ir (ar) pajamų, iš kurių gali būti vykdomas išieškojimas, mokesčių administratorius neatsižvelgia į aplinkybes, ar asmuo turi sąskaitų kredito, mokėjimo, elektroninių pinigų įstaigoje ir (ar) valstybės ižde ir ar antstolis vykdo iš jų išieškojimą. Detalią mokestinių nepriemokų išieškojimo perdavimo vykdyti antstoliui tvarką, asmens turto bei pajamų vertinimo kriterijus, kuriems esant mokesčių administratorius priima sprendimą, mokestinių nepriemokų rūšis ir (arba) atvejus, kuriais mokesčių administratorius sprendimą priima nepasibaigus šio straipsnio 6 ir [[#^s-fab3e7e753281e1b17c9d894|7 dalyse]] nustatytam mokestinės nepriemokos išieškojimo vykdymo terminui, ir šio sprendimo priėmimo terminus nustato centrinis mokesčių administratorius, suderinęs su Lietuvos Respublikos teisingumo ministerija. ^s-dfbc719982cd400be9a2b658
+8. Šio straipsnio [[#^s-854865c6eee3fdf4f33d3408|6]] ir [[#^s-fab3e7e753281e1b17c9d894|7]] dalyse nurodytais atvejais mokesčių administratorius priima sprendimą, jeigu turi informacijos, kad asmuo turi turto ir (arba) pajamų, iš kurių gali būti vykdomas išieškojimas. Vertindamas, ar asmuo turi turto ir (ar) pajamų, iš kurių gali būti vykdomas išieškojimas, mokesčių administratorius neatsižvelgia į aplinkybes, ar asmuo turi sąskaitų kredito, mokėjimo, elektroninių pinigų įstaigoje ir (ar) valstybės ižde ir ar antstolis vykdo iš jų išieškojimą. Detalią mokestinių nepriemokų išieškojimo perdavimo vykdyti antstoliui tvarką, asmens turto bei pajamų vertinimo kriterijus, kuriems esant mokesčių administratorius priima sprendimą, mokestinių nepriemokų rūšis ir (arba) atvejus, kuriais mokesčių administratorius sprendimą priima nepasibaigus šio straipsnio [[#^s-854865c6eee3fdf4f33d3408|6]] ir [[#^s-fab3e7e753281e1b17c9d894|7]] dalyse nustatytam mokestinės nepriemokos išieškojimo vykdymo terminui, ir šio sprendimo priėmimo terminus nustato centrinis mokesčių administratorius, suderinęs su Lietuvos Respublikos teisingumo ministerija. ^s-dfbc719982cd400be9a2b658
 
 
-9. Jeigu šio straipsnio 6 ir [[#^s-fab3e7e753281e1b17c9d894|7 dalyse]] nurodytais atvejais mokesčių administratorius nustato, kad asmuo neturi turto ir (arba) pajamų, iš kurių gali būti vykdomas išieškojimas, arba asmens turimas turtas ir (ar) pajamos neatitinka kriterijų, kuriems esant turi būti priimamas sprendimas, mokesčių administratorius vykdo mokestinės nepriemokos priverstinį išieškojimą [[#^s-1ca091636728363a8a8d205b|šio straipsnio 1 dalies]] 1 ir 3 punktuose nurodytais būdais, iki gauna informacijos apie šių aplinkybių pasikeitimą. Gavęs informacijos, kad asmuo įgijo turto ir (arba) pajamų, iš kurių gali būti vykdomas išieškojimas, mokesčių administratorius per 20 dienų po to, kai sužinojo apie šias aplinkybes, priima sprendimą ir perduoda jį vykdyti antstoliui. Perdavęs sprendimą vykdyti antstoliui, mokesčių administratorius nutraukia sprendime nurodytos mokestinės nepriemokos priverstinį išieškojimą [[#^s-1ca091636728363a8a8d205b|šio straipsnio 1 dalies]] 1 ir 3 punktuose nurodytais būdais tik tada, kai gauna iš antstolio informaciją apie tai, kad jis pradėjo vykdyti sprendime nurodytos mokestinės nepriemokos išieškojimą. ^s-b4cccc0ba0f9656a40de5f59
+9. Jeigu šio straipsnio [[#^s-854865c6eee3fdf4f33d3408|6]] ir [[#^s-fab3e7e753281e1b17c9d894|7]] dalyse nurodytais atvejais mokesčių administratorius nustato, kad asmuo neturi turto ir (arba) pajamų, iš kurių gali būti vykdomas išieškojimas, arba asmens turimas turtas ir (ar) pajamos neatitinka kriterijų, kuriems esant turi būti priimamas sprendimas, mokesčių administratorius vykdo mokestinės nepriemokos priverstinį išieškojimą [[#^s-1ca091636728363a8a8d205b|šio straipsnio 1 dalies]] 1 ir 3 punktuose nurodytais būdais, iki gauna informacijos apie šių aplinkybių pasikeitimą. Gavęs informacijos, kad asmuo įgijo turto ir (arba) pajamų, iš kurių gali būti vykdomas išieškojimas, mokesčių administratorius per 20 dienų po to, kai sužinojo apie šias aplinkybes, priima sprendimą ir perduoda jį vykdyti antstoliui. Perdavęs sprendimą vykdyti antstoliui, mokesčių administratorius nutraukia sprendime nurodytos mokestinės nepriemokos priverstinį išieškojimą [[#^s-1ca091636728363a8a8d205b|šio straipsnio 1 dalies]] 1 ir 3 punktuose nurodytais būdais tik tada, kai gauna iš antstolio informaciją apie tai, kad jis pradėjo vykdyti sprendime nurodytos mokestinės nepriemokos išieškojimą. ^s-b4cccc0ba0f9656a40de5f59
 
 
-10. Jeigu per ne ilgiau kaip 180 dienų nuo teisės priverstinai išieškoti mokestinę nepriemoką atsiradimo dienos šio Įstatymo [[#^s-b5be800ad5a4109bed92f6ff|110 straipsnio]] 1 ir [[#^s-c87aef42bfb8a40bbc175c1a|2 dalyse]] ir kituose įstatymuose, reglamentuojančiuose mokestinės nepriemokos išieškojimo sustabdymą, nustatyta tvarka buvo sustabdytas išieškojimas arba nebuvo vykdomas išieškojimas šio Įstatymo [[#^s-c11211388dabc39ad1a33172|113 straipsnio]] 1 ir [[#^s-c87aef42bfb8a40bbc175c1a|2 dalyse]] nustatytais atvejais, [[#^s-854865c6eee3fdf4f33d3408|šio straipsnio 6 dalyje]] nustatytas ne ilgesnis kaip 180 dienų terminas pradedamas skaičiuoti iš naujo nuo dienos, kurią mokesčių administratorius nustatė, kad išnyko aplinkybės, dėl kurių nebuvo atliekami išieškojimo veiksmai. ^s-1625192aef301eb4cd67de7c
+10. Jeigu per ne ilgiau kaip 180 dienų nuo teisės priverstinai išieškoti mokestinę nepriemoką atsiradimo dienos šio Įstatymo [[#^s-b5be800ad5a4109bed92f6ff|110 straipsnio]] [[#^s-c7b15718a7a96ab74c8790ba|1]] ir [[#^s-ea2bc7daf34a0ad3a9f258e2|2]] dalyse ir kituose įstatymuose, reglamentuojančiuose mokestinės nepriemokos išieškojimo sustabdymą, nustatyta tvarka buvo sustabdytas išieškojimas arba nebuvo vykdomas išieškojimas šio Įstatymo [[#^s-c11211388dabc39ad1a33172|113 straipsnio]] [[#^s-cb821559e10043b06155c60a|1]] ir [[#^s-c0e048c6b360d28d55235fb1|2]] dalyse nustatytais atvejais, [[#^s-854865c6eee3fdf4f33d3408|šio straipsnio 6 dalyje]] nustatytas ne ilgesnis kaip 180 dienų terminas pradedamas skaičiuoti iš naujo nuo dienos, kurią mokesčių administratorius nustatė, kad išnyko aplinkybės, dėl kurių nebuvo atliekami išieškojimo veiksmai. ^s-1625192aef301eb4cd67de7c
 
 
 Straipsnio pakeitimai:
@@ -3499,8 +3499,8 @@ Nr. XV-617, 2025-11-27, paskelbta TAR 2025-12-02, i. k. 2025-20538
 
 
 6. Baudų už administracinius nusižengimus priverstinio išieškojimo senaties terminas nustatytas Administracinių nusižengimų kodekso 672 straipsnyje. ^s-78bf69d5222de8e7b1a267e1
-TAR pastaba. [[#^s-78bf69d5222de8e7b1a267e1|6 dalies]] nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
-Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+TAR pastaba. 6 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), patvirtintame 1984 m. [įstatymu Nr. X-4449](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) (toliau – [Administracinių teisės pažeidimų kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492)).
+Tais atvejais, kai bauda paskirta už [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
@@ -3561,7 +3561,7 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 ### 109 straipsnis. Priverstinai išieškotų mokestinės nepriemokos sumų įskaitymas ir paskirstymas ^s-1f9c769678296eefd61cd95c
 
 
-Priverstinai išieškotos mokestinės nepriemokos sumos įskaitomos ir paskirstomas šio Įstatymo 84 ir [[#^s-e61b46a584f6ba3cb48643e7|85 straipsniuose]] nustatyta tvarka.
+Priverstinai išieškotos mokestinės nepriemokos sumos įskaitomos ir paskirstomas šio Įstatymo [[#^s-d353c4a2bfde442ca71834bd|84]] ir [[#^s-e61b46a584f6ba3cb48643e7|85]] straipsniuose nustatyta tvarka.
 
 
 
@@ -3580,7 +3580,7 @@ Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 3. Mokesčių administratorius, vadovaudamasis protingumo ar ekonominio tikslingumo kriterijais, turi teisę savo iniciatyva nepradėti arba stabdyti mokestinės nepriemokos priverstinio išieškojimo procedūras. ^s-9c2c0a4182aab7c1ee4d2905
 
 
-4. Ekonominių piniginių sankcijų, baudų už administracinius nusižengimus, baudų už nusikalstamas veikas, teismų priteistų sumų ir procesinių baudų išieškojimo sustabdymo atvejus ir pagrindus nustato šis Įstatymas, Civilinio proceso kodeksas ir kiti teisės aktai, reglamentuojantys išieškojimo sustabdymą. ^s-831d20b92fb6e1066611f295
+4. Ekonominių piniginių sankcijų, baudų už administracinius nusižengimus, baudų už nusikalstamas veikas, teismų priteistų sumų ir procesinių baudų išieškojimo sustabdymo atvejus ir pagrindus nustato šis Įstatymas, [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir kiti teisės aktai, reglamentuojantys išieškojimo sustabdymą. ^s-831d20b92fb6e1066611f295
 Papildyta straipsnio dalimi:
 Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
 
@@ -3622,16 +3622,16 @@ Mokesčių administratoriaus teisė priverstinai išieškoti mokestinę nepriemo
 
 
 2. Jeigu vykdant priverstinį išieškojimą nerandama asmens turto ir (ar) lėšų, iš kurių gali būti priverstinai išieškota bauda už administracinį nusižengimą, neišieškota bauda ar jos dalis pripažįstama beviltiška, kai antstolis mokesčių administratoriui grąžina mokesčių administratoriaus sprendimą dėl priverstinio baudos išieškojimo su žyma, kad išieškojimas negalimas. ^s-c0e048c6b360d28d55235fb1
-TAR pastaba. [[#^s-c0e048c6b360d28d55235fb1|2 dalies]] nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
-Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+TAR pastaba. 2 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), patvirtintame 1984 m. [įstatymu Nr. X-4449](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) (toliau – [Administracinių teisės pažeidimų kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492)).
+Tais atvejais, kai bauda paskirta už [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 
 
 3. Mokestinei nepriemokai, pripažintai beviltiška [[#^s-cb821559e10043b06155c60a|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytais pagrindais, ir neišieškotai baudai už administracinį nusižengimą ar jos daliai, pripažintai beviltiška [[#^s-c0e048c6b360d28d55235fb1|šio straipsnio 2 dalyje]] nurodytais pagrindais, neteikiama priverstinio išieškojimo pirmenybė ir į jas neatsižvelgiama planuojant biudžeto pajamas. Nustačius, kad yra galimybė ir tikslinga šioje dalyje nurodytas mokestinę nepriemoką ir neišieškotą baudą ar jos dalį priverstinai išieškoti, jos išieškomos. ^s-4b9da88e4371766330a481d6
-TAR pastaba. [[#^s-4b9da88e4371766330a481d6|3 dalies]] nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
-Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+TAR pastaba. 3 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), patvirtintame 1984 m. [įstatymu Nr. X-4449](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) (toliau – [Administracinių teisės pažeidimų kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492)).
+Tais atvejais, kai bauda paskirta už [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
@@ -3641,8 +3641,8 @@ Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
 
 5. Nesumokėta bauda ar jos dalis pakartotinai gali būti perduota antstoliui priverstinai išieškoti Administracinių nusižengimų kodekso 676 straipsnyje nustatytais atvejais ir tvarka. ^s-5cfd258589b7cb8549bb22cd
-TAR pastaba. [[#^s-5cfd258589b7cb8549bb22cd|5 dalies]] nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
-Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+TAR pastaba. 5 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), patvirtintame 1984 m. [įstatymu Nr. X-4449](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) (toliau – [Administracinių teisės pažeidimų kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492)).
+Tais atvejais, kai bauda paskirta už [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
@@ -3701,7 +3701,7 @@ Mokestinis patikrinimas gali būti atliekamas mokesčių administratoriaus buvei
 2. Teminis patikrinimas gali būti atliekamas ne dažniau kaip kartą per pusę metų. ^s-7314caf43d6baa22a1eb58f3
 
 
-3. Šio straipsnio 1 ir [[#^s-7314caf43d6baa22a1eb58f3|2 dalyse]] numatyti apribojimai netaikomi: ^s-6c60dabbb578eed5acf32043
+3. Šio straipsnio [[#^s-68ee993a07a0ee3f6b8d4655|1]] ir [[#^s-7314caf43d6baa22a1eb58f3|2]] dalyse numatyti apribojimai netaikomi: ^s-6c60dabbb578eed5acf32043
 
 
 1) juridinio asmens likvidavimo arba reorganizavimo (bankroto arba restruktūrizavimo bylos iškėlimo) atveju; ^s-71427453598c0d807e99f763
@@ -3780,7 +3780,7 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 2. Mokesčių mokėtojo, turinčio struktūrinių padalinių (filialų ar atstovybių), patikrinimui papildomai skiriama po 30 dienų kiekvienam filialui ar atstovybei patikrinti. ^s-b0a6a1864fa0488fb639e27a
 
 
-3. Atsižvelgiant į patikrinimo sudėtingumą, tikrinamos veiklos pobūdį, tikrinimo mastą, šio straipsnio 1 ir [[#^s-b0a6a1864fa0488fb639e27a|2 dalyse]] numatyti terminai centrinio mokesčių administratoriaus sprendimu gali būti pratęsti atitinkamai ne ilgiau kaip dar 180 dienų ir (arba) 30 dienų. ^s-dba288333e624c17c79062ac
+3. Atsižvelgiant į patikrinimo sudėtingumą, tikrinamos veiklos pobūdį, tikrinimo mastą, šio straipsnio [[#^s-cbdf6418c541ad4dbaaefed4|1]] ir [[#^s-b0a6a1864fa0488fb639e27a|2]] dalyse numatyti terminai centrinio mokesčių administratoriaus sprendimu gali būti pratęsti atitinkamai ne ilgiau kaip dar 180 dienų ir (arba) 30 dienų. ^s-dba288333e624c17c79062ac
 
 
 4. Šiame straipsnyje nurodytos dienos reiškia mokesčių administratoriaus pareigūno faktiškai pas mokesčių mokėtoją būtas dienas, kai mokesčių mokėtojas buvo tikrinamas. Mokesčių mokėtojui pareikalavus, mokesčių administratoriaus pareigūnas privalo pasirašyti mokesčių mokėtojo žurnale ar kitame dokumente, kuriame fiksuojamas patikrinimą atliekančio pareigūno atvykimas ir išvykimas. ^s-4209043cc70216c94ab8f214
@@ -3910,8 +3910,8 @@ Mokesčių administratoriaus pareigūnas turi teisę tikrinti mokesčių mokėto
 
 
 1. Mokesčių administratoriaus pareigūnas turi teisę paimti mokesčių mokėtojui priklausančius daiktus, prekių ar produkcijos mėginius ir pavyzdžius, jei tai būtina mokesčių administratoriaus funkcijoms atlikti. Šie veiksmai turi būti įforminti Administracinių nusižengimų kodekso 599 straipsnyje nustatyta tvarka, o jei šis kodeksas šių veiksmų įforminimo nereglamentuoja, – centrinio mokesčių administratoriaus nustatyta tvarka. ^s-f48266a8007b564fe1c7def0
-TAR pastaba. [[#^s-f48266a8007b564fe1c7def0|1 dalies]] nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
-Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+TAR pastaba. 1 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), patvirtintame 1984 m. [įstatymu Nr. X-4449](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) (toliau – [Administracinių teisės pažeidimų kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492)).
+Tais atvejais, kai bauda paskirta už [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
@@ -3958,7 +3958,7 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 2. Patikrinimo aktu įforminti mokestinio patikrinimo rezultatai patvirtinami sprendimu dėl patikrinimo akto tvirtinimo arba patikrinimo pažyma. ^s-40fa85d75790d352f05fe6f4
 
 
-3. Šio straipsnio 1 ir [[#^s-40fa85d75790d352f05fe6f4|2 dalių]], taip pat šio Įstatymo 129–[[#^s-55d69af730bc1fa58f4cfbc3|132 straipsnių]] nuostatos netaikomos atliekant operatyvų patikrinimą ir muitinės administruojamų mokesčių patikrinimą. Operatyvaus patikrinimo rezultatų įforminimo ir patvirtinimo tvarką nustato centrinis mokesčių administratorius, suderinęs su finansų ministru. ^s-3ece9ce6e7bd068d514efc99
+3. Šio straipsnio [[#^s-070716eb8e07f30e185a102a|1]] ir [[#^s-40fa85d75790d352f05fe6f4|2]] dalių, taip pat šio Įstatymo [[#^s-b2ec14b1a5ef14295123a5be|129]]–[[#^s-55d69af730bc1fa58f4cfbc3|132]] straipsnių nuostatos netaikomos atliekant operatyvų patikrinimą ir muitinės administruojamų mokesčių patikrinimą. Operatyvaus patikrinimo rezultatų įforminimo ir patvirtinimo tvarką nustato centrinis mokesčių administratorius, suderinęs su finansų ministru. ^s-3ece9ce6e7bd068d514efc99
 
 
 Straipsnio pakeitimai:
@@ -4207,10 +4207,10 @@ Mokesčių įstatymų pažeidimu yra laikomas neteisėtas asmenų elgesys, kuriu
 3. Mokesčių mokėtojui, kuriam už to paties mokesčio įstatymo pažeidimą pagal šį Įstatymą ar specialųjį mokesčio įstatymą per trumpesnį negu šio Įstatymo [[#^s-b51aced798c00d29fc547e89|68 straipsnio 4 dalyje]] nustatytą mokesčių apskaičiavimo ir perskaičiavimo senaties terminą jau buvo paskirta bauda, šio Įstatymo [[#^s-d997cc09682a154bd7e90d0b|140 straipsnyje]] nustatyta tvarka apskaičiuota bauda didinama dvigubai. ^s-2c763d1cbd5b9633358b1fa4
 
 
-4. Šio straipsnio 1 ir [[#^s-2c763d1cbd5b9633358b1fa4|3 dalyse]] nustatytos baudos netaikomos, kai mokesčių mokėtojas per mokesčio įstatyme nustatytą terminą nepateikė mokesčio deklaracijos arba kai po mokesčio deklaracijos pateikimo mokesčių administratoriui pastebėjo, kad deklaravo per mažai mokesčio, tačiau iki mokesčių administratoriaus pavedimo patikrinti asmenį išrašymo dienos pateikė mokesčio deklaraciją, o klaidų taisymo atveju – ją patikslino ir pateikė mokesčių administratoriui. Šios dalies nuostatos taip pat taikomos muitinės deklaracijose apskaičiuojamiems mokesčiams. ^s-0cb5b6621f6f3a7ccf6d4977
+4. Šio straipsnio [[#^s-afda02485aec6759751e601f|1]] ir [[#^s-2c763d1cbd5b9633358b1fa4|3]] dalyse nustatytos baudos netaikomos, kai mokesčių mokėtojas per mokesčio įstatyme nustatytą terminą nepateikė mokesčio deklaracijos arba kai po mokesčio deklaracijos pateikimo mokesčių administratoriui pastebėjo, kad deklaravo per mažai mokesčio, tačiau iki mokesčių administratoriaus pavedimo patikrinti asmenį išrašymo dienos pateikė mokesčio deklaraciją, o klaidų taisymo atveju – ją patikslino ir pateikė mokesčių administratoriui. Šios dalies nuostatos taip pat taikomos muitinės deklaracijose apskaičiuojamiems mokesčiams. ^s-0cb5b6621f6f3a7ccf6d4977
 
 
-5. Biudžetinėms įstaigoms, taip pat Lietuvos bankui šio straipsnio 1 ir [[#^s-2c763d1cbd5b9633358b1fa4|3 dalyse]] nustatytos baudos neskiriamos. Šių įstaigų vadovai ir už apskaitos tvarkymą atsakingi asmenys, pažeidę mokesčių įstatymų reikalavimus, atsako pagal Administracinių nusižengimų kodeksą arba pagal Baudžiamąjį kodeksą. ^s-998e3efb233945b3ac8ebb57
+5. Biudžetinėms įstaigoms, taip pat Lietuvos bankui šio straipsnio [[#^s-afda02485aec6759751e601f|1]] ir [[#^s-2c763d1cbd5b9633358b1fa4|3]] dalyse nustatytos baudos neskiriamos. Šių įstaigų vadovai ir už apskaitos tvarkymą atsakingi asmenys, pažeidę mokesčių įstatymų reikalavimus, atsako pagal Administracinių nusižengimų kodeksą arba pagal Baudžiamąjį kodeksą. ^s-998e3efb233945b3ac8ebb57
 
 
 Straipsnio pakeitimai:
@@ -4302,7 +4302,7 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 
 
 
-2) mokesčių administratorius, skirdamas konkrečią baudą, vertina [[#^s-789e75975d6fb7bad74b3299|šio straipsnio 2 dalies]] 1–[[#^s-c73d4f89b342f6fce38f4f6c|4 punktuose]] nurodytas aplinkybes ir baudos dydį skaičiuoja nuo baudos vidurkio; ^s-fa72344a42f4799aa4f61ea4
+2) mokesčių administratorius, skirdamas konkrečią baudą, vertina [[#^s-789e75975d6fb7bad74b3299|šio straipsnio 2 dalies]] [[#^s-1b199874d557f7115ef5368c|1]]–[[#^s-c73d4f89b342f6fce38f4f6c|4]] punktuose nurodytas aplinkybes ir baudos dydį skaičiuoja nuo baudos vidurkio; ^s-fa72344a42f4799aa4f61ea4
 
 
 3) mokesčių administratorius, nustatęs, kad yra kelios asmens atsakomybę lengvinančios aplinkybės ir nėra sunkinančių aplinkybių, asmeniui skiria baudą, nesiekiančią skirtinos baudos vidurkio; ^s-6fde5f220f01cda0f6486fd5
@@ -4311,7 +4311,7 @@ Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 4) mokesčių administratorius, nustatęs, kad yra kelios asmens atsakomybę sunkinančios aplinkybės ir nėra lengvinančių aplinkybių, asmeniui skiria baudą, viršijančią skirtinos baudos vidurkį. ^s-c73d4f89b342f6fce38f4f6c
 
 
-6. Kai už mokesčių įstatymų pažeidimus atsako keli asmenys, muitinė kiekvienam pažeidėjui skiria individualią baudą, kurios dydis siekia 60 procentų vidutinio pagal šio Įstatymo [[#^s-8e038c142a37b73d82cda751|139 straipsnį]] apskaičiuoto baudos dydžio, padalyto iš mokesčių įstatymus pažeidusių  asmenų skaičiaus ir patikslinto atsižvelgus į šio Įstatymo [[#^s-8e038c142a37b73d82cda751|139 straipsnio]] 2–[[#^s-524c5a7a231dfab29071f7df|5 dalių]] nuostatas. Bendras skiriamos baudos dydis turi atitikti šio Įstatymo [[#^s-afda02485aec6759751e601f|139 straipsnio 1 dalyje]] nustatytą skirtinos baudos dydį, o jeigu skirtinos baudos dydis nustatytas specialiajame mokesčio įstatyme, – jame nustatytą skirtinos baudos dydį. Jeigu bendras už mokesčių įstatymų pažeidimus atsakingiems asmenims skirtinos baudos dydis viršija šio Įstatymo [[#^s-afda02485aec6759751e601f|139 straipsnio 1 dalyje]] ar specialiajame mokesčio įstatyme nustatytą maksimalų skirtinos baudos dydį, šis dydis proporcingai mažinamas kiekvienam atsakingam asmeniui. ^s-7f39091d2193cb576826440a
+6. Kai už mokesčių įstatymų pažeidimus atsako keli asmenys, muitinė kiekvienam pažeidėjui skiria individualią baudą, kurios dydis siekia 60 procentų vidutinio pagal šio Įstatymo [[#^s-8e038c142a37b73d82cda751|139 straipsnį]] apskaičiuoto baudos dydžio, padalyto iš mokesčių įstatymus pažeidusių  asmenų skaičiaus ir patikslinto atsižvelgus į šio Įstatymo [[#^s-8e038c142a37b73d82cda751|139 straipsnio]] [[#^s-4ed8f8ba8a9a1898e21ede4f|2]]–[[#^s-998e3efb233945b3ac8ebb57|5]] dalių nuostatas. Bendras skiriamos baudos dydis turi atitikti šio Įstatymo [[#^s-afda02485aec6759751e601f|139 straipsnio 1 dalyje]] nustatytą skirtinos baudos dydį, o jeigu skirtinos baudos dydis nustatytas specialiajame mokesčio įstatyme, – jame nustatytą skirtinos baudos dydį. Jeigu bendras už mokesčių įstatymų pažeidimus atsakingiems asmenims skirtinos baudos dydis viršija šio Įstatymo [[#^s-afda02485aec6759751e601f|139 straipsnio 1 dalyje]] ar specialiajame mokesčio įstatyme nustatytą maksimalų skirtinos baudos dydį, šis dydis proporcingai mažinamas kiekvienam atsakingam asmeniui. ^s-7f39091d2193cb576826440a
 Papildyta straipsnio dalimi:
 Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
 
@@ -4325,7 +4325,7 @@ Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
 ### 141 straipsnis. Atleidimas nuo baudos ^s-b007fb1f1025a166637b565c
 
 
-1. Atleidimo nuo pagal šio Įstatymo 139 ir [[#^s-d997cc09682a154bd7e90d0b|140 straipsnius]] paskirtų baudų mokėjimo pagrindai yra: ^s-c1979524579250a5a8d3d261
+1. Atleidimo nuo pagal šio Įstatymo [[#^s-8e038c142a37b73d82cda751|139]] ir [[#^s-d997cc09682a154bd7e90d0b|140]] straipsnius paskirtų baudų mokėjimo pagrindai yra: ^s-c1979524579250a5a8d3d261
 
 
 1) jei mokesčių mokėtojas įrodo, kad nėra kaltas dėl padaryto pažeidimo; ^s-70bc2e1273f438e880e345d9
@@ -4364,8 +4364,8 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 
 2. Administracinę arba baudžiamąją atsakomybę švelninančio teisės akto galiojimo klausimas sprendžiamas atitinkamai pagal Administracinių nusižengimų kodeksą arba Baudžiamąjį kodeksą. ^s-c73bdfd8ec8ab03debb233ec
-TAR pastaba. [[#^s-c73bdfd8ec8ab03debb233ec|2 dalies]] nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
-Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+TAR pastaba. 2 dalies nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), patvirtintame 1984 m. [įstatymu Nr. X-4449](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) (toliau – [Administracinių teisės pažeidimų kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492)).
+Tais atvejais, kai bauda paskirta už [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
 Straipsnio dalies pakeitimai:
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
 
@@ -4380,8 +4380,8 @@ Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
 
 
 Mokesčių mokėtojai, tretieji asmenys ir (arba) juridinių asmenų vadovai bei kiti atsakingi darbuotojai už šiame Įstatyme nustatytų pareigų nevykdymą ar netinkamą jų vykdymą taip pat atsako pagal Administracinių nusižengimų kodeksą arba pagal Baudžiamąjį kodeksą.
-TAR pastaba. 143 straipsnio nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449 (toliau – Administracinių teisės pažeidimų kodeksas).
-Tais atvejais, kai bauda paskirta už Administracinių teisės pažeidimų kodekse numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
+TAR pastaba. 143 straipsnio nuostatos taikomos ir tais atvejais, kai baudos paskirtos už administracinius teisės pažeidimus, numatytus [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), patvirtintame 1984 m. [įstatymu Nr. X-4449](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) (toliau – [Administracinių teisės pažeidimų kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492)).
+Tais atvejais, kai bauda paskirta už [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytą administracinį teisės pažeidimą, kurio teisena, vadovaujantis Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnio]] nuostatomis, vyksta pagal Administracinių teisės pažeidimų kodeksą, taikomos iki [[latest/0d2cd0600bac11e6a238c18f7a3f1736|įstatymo Nr. XII-2312]] įsigaliojimo (2017-01-01) galiojusios Lietuvos Respublikos mokesčių administravimo įstatymo nuostatos.
 
 
 Straipsnio pakeitimai:
@@ -4501,7 +4501,7 @@ Nr. XIV-2005, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11582
 
 
 
-9. Komisijos pirmininkas Komisijos nariams suteikia atostogas, papildomas poilsio dienas, siunčia juos į komandiruotes ir priima kitus sprendimus, susijusius su Komisijos narių tarnybos santykiais, išskyrus šio straipsnio 4 ir [[#^s-c4add3466f2321bbabaec9b9|5 dalyse]] nurodytus sprendimus dėl Komisijos narių skyrimo į pareigas ar atleidimo iš jų ir Ministro Pirmininko priimamus sprendimus dėl Komisijos narių skatinimo, tarnybinių nuobaudų jiems skyrimo. Sprendimus dėl Komisijos pirmininko tarnybos santykių (išskyrus šio straipsnio 4 ir [[#^s-c4add3466f2321bbabaec9b9|5 dalyse]] nurodytus sprendimus dėl skyrimo į pareigas ir atleidimo iš jų, taip pat Ministro Pirmininko priimamus sprendimus dėl skatinimo, tarnybinių nuobaudų skyrimo) Vyriausybės pavedimu priima finansų ministras. Komisijos pirmininkui ir nariams tarnybinės nuobaudos mutatis mutandis skiriamos, jie skatinami, kasmetinės atostogos suteikiamos [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nustatyta tvarka. ^s-ee2b3cc374b701a7d96488db
+9. Komisijos pirmininkas Komisijos nariams suteikia atostogas, papildomas poilsio dienas, siunčia juos į komandiruotes ir priima kitus sprendimus, susijusius su Komisijos narių tarnybos santykiais, išskyrus šio straipsnio [[#^s-b3c4537317b9661f6095ffb1|4]] ir [[#^s-c4add3466f2321bbabaec9b9|5]] dalyse nurodytus sprendimus dėl Komisijos narių skyrimo į pareigas ar atleidimo iš jų ir Ministro Pirmininko priimamus sprendimus dėl Komisijos narių skatinimo, tarnybinių nuobaudų jiems skyrimo. Sprendimus dėl Komisijos pirmininko tarnybos santykių (išskyrus šio straipsnio [[#^s-b3c4537317b9661f6095ffb1|4]] ir [[#^s-c4add3466f2321bbabaec9b9|5]] dalyse nurodytus sprendimus dėl skyrimo į pareigas ir atleidimo iš jų, taip pat Ministro Pirmininko priimamus sprendimus dėl skatinimo, tarnybinių nuobaudų skyrimo) Vyriausybės pavedimu priima finansų ministras. Komisijos pirmininkui ir nariams tarnybinės nuobaudos mutatis mutandis skiriamos, jie skatinami, kasmetinės atostogos suteikiamos [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nustatyta tvarka. ^s-ee2b3cc374b701a7d96488db
 Papildyta straipsnio dalimi:
 Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
 Straipsnio dalies pakeitimai:
@@ -4593,7 +4593,7 @@ Mokestinių ginčų komisija nagrinėja:
 3. Mokesčių mokėtojas privalo pateikti centriniam mokesčių administratoriui visus dokumentus (ne valstybine kalba įformintų dokumentų autentikuotus vertimus į valstybinę kalbą) ir įrodymus, kuriais grindžia savo nesutikimą su mokesčių administratoriaus sprendimu ir savo reikalavimą. Nurodytų dokumentų ir įrodymų nepateikęs mokesčių mokėtojas praranda teisę jais remtis tolesnio ginčo nagrinėjimo ikiteisminėje mokestinį ginčą nagrinėjančioje institucijoje metu, išskyrus atvejus, kai apie negalimumą juos pateikti (nurodant svarbias to priežastis) buvo nurodyta pateiktame mokesčių mokėtojo skunde ar mokesčių administratorius, neturėdamas pagrindo, atsisakė priimti mokesčių mokėtojo pateiktus dokumentus ir įrodymus. ^s-ec62ae3a4583d70a264b4e60
 
 
-4. Skundą gavusi ikiteisminė mokestinį ginčą nagrinėjanti institucija privalo patikrinti, ar skundas atitinka šio straipsnio 1 ir [[#^s-3a7cdefd93ad51f3b10728d3|2 dalyse]] nurodytus reikalavimus. ^s-79b4a9ac252c7672e56d6b77
+4. Skundą gavusi ikiteisminė mokestinį ginčą nagrinėjanti institucija privalo patikrinti, ar skundas atitinka šio straipsnio [[#^s-97785fc836f14faf8440c4bc|1]] ir [[#^s-3a7cdefd93ad51f3b10728d3|2]] dalyse nurodytus reikalavimus. ^s-79b4a9ac252c7672e56d6b77
 
 
 5. Nustačiusi, kad skundas neatitinka šio Įstatymo reikalavimų, ikiteisminė mokestinį ginčą nagrinėjanti institucija priima sprendimą ir nustato skundą padavusiam mokesčių mokėtojui 15 dienų terminą trūkumams pašalinti. Šis terminas pradedamas skaičiuoti nuo dienos, kai mokesčių mokėtojui minėtas sprendimas buvo įteiktas. ^s-c52db5a04ea889ce4ff85157
@@ -4661,7 +4661,7 @@ Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
 1. Skundas dėl mokestinio ginčo Mokestinių ginčų komisijai paduodamas per centrinį mokesčių administratorių. ^s-fc05347c36d360c1e19862fb
 
 
-2. Centrinis mokesčių administratorius per 3 darbo dienas nuo skundo gavimo dienos parengia mokestinio ginčo bylą ir perduoda ją Mokestinių ginčų komisijai. Mokesčių mokėtojas ir mokesčių administratorius turi teisę Mokestinių ginčų komisijoje susipažinti su mokestinio ginčo byloje esančia medžiaga. Mokesčių mokėtojas turi teisę gauti mokamas mokestinio ginčo bylos dokumentų kopijas ir (arba) skaitmenines kopijas, išskyrus atvejus, kai dokumentų duomenys sudaro valstybės, tarnybos, profesinę, komercinę ar kitą įstatymų saugomą paslaptį. Mokesčių mokėtojo prašymu mokestinio ginčo bylos dokumentų kopijos ir (arba) skaitmeninės kopijos gaunamos mokesčių mokėtojui atvykus į Mokestinių ginčų komisiją arba gali būti jam išsiunčiamos registruotu laišku arba elektroninių ryšių priemonėmis. Mokestinio ginčo bylos dokumentų kopijų ir (arba) skaitmeninių kopijų pateikimo tvarką, taip pat šių kopijų įkainius, kurių dydžiai negali viršyti įkainių, nustatytų Ikiteisminio tyrimo įstaigose, prokuratūrose ir teismuose esančių baudžiamųjų bylų ir jose esančių dokumentų kopijų, teismuose esančių administracinių, civilinių bylų ir jose esančių dokumentų kopijų įkainių nustatymo ir mokėjimo už bylos medžiagos kopijas tvarkos apraše, patvirtintame Lietuvos Respublikos Vyriausybės 2004 m. lapkričio 3 d. nutarimu Nr. 1368 „Dėl Ikiteisminio tyrimo įstaigose, prokuratūrose ir teismuose esančių baudžiamųjų bylų ir jose esančių dokumentų kopijų, teismuose esančių administracinių, civilinių bylų ir jose esančių dokumentų kopijų įkainių nustatymo ir mokėjimo už bylos medžiagos kopijas tvarkos aprašo patvirtinimo“, ir mokėjimo už šias kopijas tvarką nustato Mokestinių ginčų komisija. ^s-b3fcbfd75eaf79d3abfe2f7a
+2. Centrinis mokesčių administratorius per 3 darbo dienas nuo skundo gavimo dienos parengia mokestinio ginčo bylą ir perduoda ją Mokestinių ginčų komisijai. Mokesčių mokėtojas ir mokesčių administratorius turi teisę Mokestinių ginčų komisijoje susipažinti su mokestinio ginčo byloje esančia medžiaga. Mokesčių mokėtojas turi teisę gauti mokamas mokestinio ginčo bylos dokumentų kopijas ir (arba) skaitmenines kopijas, išskyrus atvejus, kai dokumentų duomenys sudaro valstybės, tarnybos, profesinę, komercinę ar kitą įstatymų saugomą paslaptį. Mokesčių mokėtojo prašymu mokestinio ginčo bylos dokumentų kopijos ir (arba) skaitmeninės kopijos gaunamos mokesčių mokėtojui atvykus į Mokestinių ginčų komisiją arba gali būti jam išsiunčiamos registruotu laišku arba elektroninių ryšių priemonėmis. Mokestinio ginčo bylos dokumentų kopijų ir (arba) skaitmeninių kopijų pateikimo tvarką, taip pat šių kopijų įkainius, kurių dydžiai negali viršyti įkainių, nustatytų Ikiteisminio tyrimo įstaigose, prokuratūrose ir teismuose esančių baudžiamųjų bylų ir jose esančių dokumentų kopijų, teismuose esančių administracinių, civilinių bylų ir jose esančių dokumentų kopijų įkainių nustatymo ir mokėjimo už bylos medžiagos kopijas tvarkos apraše, patvirtintame Lietuvos Respublikos Vyriausybės [2004 m. lapkričio 3 d. nutarimu Nr. 1368](https://e-tar.lt/portal/lt/legalAct/TAR.CFE79DB62CD2) „[Dėl Ikiteisminio tyrimo įstaigose, prokuratūrose ir teismuose esančių baudžiamųjų bylų ir jose esančių dokumentų kopijų, teismuose esančių administracinių, civilinių bylų ir jose esančių dokumentų kopijų įkainių nustatymo ir mokėjimo už bylos medžiagos kopijas tvarkos aprašo patvirtinimo](https://e-tar.lt/portal/lt/legalAct/TAR.CFE79DB62CD2)“, ir mokėjimo už šias kopijas tvarką nustato Mokestinių ginčų komisija. ^s-b3fcbfd75eaf79d3abfe2f7a
 Straipsnio dalies pakeitimai:
 Nr. XV-309, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11978
 
@@ -4987,7 +4987,7 @@ Iki šio Įstatymo įsigaliojimo galiojusios kitų įstatymų ir teisės aktų n
 ### 169 straipsnis. Mokestinių ginčų komisijos nariai, paskirti iki šio Įstatymo įsigaliojimo ^s-17a3d00b91cf847d9bc6b7e5
 
 
-1. Šio Įstatymo [[#^s-7173ddd69095f4a76d2bdef5|148 straipsnio]] 5 ir 6 dalys taikomos ir Mokestinių ginčų komisijos nariams, paskirtiems į pareigas iki šio Įstatymo įsigaliojimo ^s-72527194b86ed1d38e53c8e5
+1. Šio Įstatymo [[#^s-7173ddd69095f4a76d2bdef5|148 straipsnio]] [[#^s-c4add3466f2321bbabaec9b9|5]] ir [[#^s-1889bb66d8102a091b3da1e5|6]] dalys taikomos ir Mokestinių ginčų komisijos nariams, paskirtiems į pareigas iki šio Įstatymo įsigaliojimo ^s-72527194b86ed1d38e53c8e5
 
 
 2. Mokestinių ginčų komisijos nariai, paskirti į pareigas iki šio Įstatymo įsigaliojimo, toliau eina komisijos nario pareigas iki termino, kuriam jie buvo paskirti, pabaigos, o pasibaigus šiam terminui eina komisijos nario pareigas, iki paskiriamas komisijos narys kitai kadencijai. ^s-b1b45f2a63fc2f65bea88b0d
@@ -5003,139 +5003,139 @@ Iki šio Įstatymo įsigaliojimo galiojusios kitų įstatymų ir teisės aktų n
 1) Lietuvos Respublikos mokesčių administravimo įstatymas (Žin., 1995, Nr. 61-1525); ^s-2d7e6ada04cd9aa864142f50
 
 
-2) [[#^s-82bc868e93982f2bd195baa9|Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio]] papildymo įstatymas (Žin., 1996, Nr. 57-1342); ^s-0e0bb34167a6e9a0d5ab5f12
+2) Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio papildymo įstatymas (Žin., 1996, Nr. 57-1342); ^s-0e0bb34167a6e9a0d5ab5f12
 
 
-3) Lietuvos Respublikos mokesčių administravimo įstatymo papildymo 26(1) straipsniu įstatymas (Žin., 1996, Nr. 59-1404); ^s-b735159d1e20243f7244bfc5
+3) [Lietuvos Respublikos mokesčių administravimo įstatymo papildymo 26(1) straipsniu įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.05DF3A9E9704) (Žin., 1996, Nr. 59-1404); ^s-b735159d1e20243f7244bfc5
 
 
-4) [[#^s-9eeef5c4ed92939773a15e64|Lietuvos Respublikos mokesčių administravimo įstatymo 5, 8, 11, 17, 25, 50, 52, 55, 56 straipsnių]] pakeitimo įstatymas (Žin., 1996, Nr. 66-1574); ^s-ca7dbbf2178ce4b3c8b15f26
+4) [Lietuvos Respublikos mokesčių administravimo įstatymo 5, 8, 11, 17, 25, 50, 52, 55, 56 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.EA95EE21BF33) (Žin., 1996, Nr. 66-1574); ^s-ca7dbbf2178ce4b3c8b15f26
 
 
-5) [[#^s-9eeef5c4ed92939773a15e64|Lietuvos Respublikos mokesčių administravimo įstatymo 25, 39, 49, 50, 52, 54, 55, 56 straipsnių]] pakeitimo ir papildymo 39(1) straipsniu įstatymas (Žin., 1997, Nr. 17-362); ^s-142a8f0ab158bac18bf7ff7f
+5) [Lietuvos Respublikos mokesčių administravimo įstatymo 25, 39, 49, 50, 52, 54, 55, 56 straipsnių pakeitimo ir papildymo 39(1) straipsniu įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.1A4175C9B064) (Žin., 1997, Nr. 17-362); ^s-142a8f0ab158bac18bf7ff7f
 
 
-6) [[#^s-d99f5262361c15eeafed3d06|Lietuvos Respublikos mokesčių administravimo įstatymo 49 ir 50 straipsnių]] pakeitimo įstatymas (Žin., 1997, Nr. 27-622); ^s-529e1870c0551ff7486ae892
+6) [Lietuvos Respublikos mokesčių administravimo įstatymo 49 ir 50 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.711E7A4DAC33) (Žin., 1997, Nr. 27-622); ^s-529e1870c0551ff7486ae892
 
 
-7) Lietuvos Respublikos mokesčių administravimo įstatymo 26(1) straipsnio pakeitimo įstatymas (Žin., 1997, Nr. 28-660); ^s-7c2019a3e6b4d1333d29548f
+7) [Lietuvos Respublikos mokesčių administravimo įstatymo 26(1) straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.93FE5F6E1702) (Žin., 1997, Nr. 28-660); ^s-7c2019a3e6b4d1333d29548f
 
 
-8) [[#^s-9eeef5c4ed92939773a15e64|Lietuvos Respublikos mokesčių administravimo įstatymo 2, 16, 17, 28, 33, 37, 38, 39, 40, 47, 48, 50, 55 ir 56 straipsnių]] pakeitimo įstatymas (Žin., 1997, Nr. 66-1594); ^s-5183bbe136d50891aca82c48
+8) [Lietuvos Respublikos mokesčių administravimo įstatymo 2, 16, 17, 28, 33, 37, 38, 39, 40, 47, 48, 50, 55 ir 56 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.B93AF3BFEA9D) (Žin., 1997, Nr. 66-1594); ^s-5183bbe136d50891aca82c48
 
 
 9) [[#^s-9ddd6642b3f85f0a4ce30966|Lietuvos Respublikos mokesčių administravimo įstatymo 7 straipsnio]] pakeitimo įstatymas (Žin., 1997, Nr. 117-2995); ^s-3462b40eeadeb3cf02129c59
 
 
-10) [[#^s-90a1b2bf3ac81248e84b5df3|Lietuvos Respublikos mokesčių administravimo įstatymo 2, 17, 26, 26(1), 27, 29, 30, 31, 32, 33, 37, 38, 39, 39(1), 49, 50, 52, 54, 55, 56, 57, 58 straipsnių]] papildymo ir pakeitimo bei papildymo 27(1), 27(2), 29(1), 52(1), 56(1) straipsniais ir 47, [[#^s-4256d22f131f86101768c93b|48 straipsnių]] pripažinimo netekusiais galios įstatymas (Žin., 1998, Nr. 68-1978); ^s-ec7441b82c22c170fb4be221
+10) [Lietuvos Respublikos mokesčių administravimo įstatymo 2, 17, 26, 26(1), 27, 29, 30, 31, 32, 33, 37, 38, 39, 39(1), 49, 50, 52, 54, 55, 56, 57, 58 straipsnių papildymo ir pakeitimo bei papildymo 27(1), 27(2), 29(1), 52(1), 56(1) straipsniais ir 47, 48 straipsnių pripažinimo netekusiais galios įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.9368EA44DFBB) (Žin., 1998, Nr. 68-1978); ^s-ec7441b82c22c170fb4be221
 
 
-11) [[#^s-82bc868e93982f2bd195baa9|Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio]] papildymo ir pakeitimo įstatymas (Žin., 1998, Nr. 90-2483); ^s-9b1018cd86e4f7787c55e0bd
+11) [Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio papildymo ir pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.D1B6C670F287) (Žin., 1998, Nr. 90-2483); ^s-9b1018cd86e4f7787c55e0bd
 
 
-12) [[#^s-d1eae435aa8ab42f78d2228d|Lietuvos Respublikos mokesčių administravimo įstatymo 22 straipsnio]] papildymo ir pakeitimo įstatymas (Žin., 1998, Nr. 95-2635); ^s-64cf7b98c010ea5cda78a43c
+12) [Lietuvos Respublikos mokesčių administravimo įstatymo 22 straipsnio papildymo ir pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E4622252858C) (Žin., 1998, Nr. 95-2635); ^s-64cf7b98c010ea5cda78a43c
 
 
-13) [[#^s-3ec0f8c47da6034e9bccff58|Lietuvos Respublikos mokesčių administravimo įstatymo 17 ir 25 straipsnių]] papildymo įstatymas (Žin., 1998, Nr. 114-3190); ^s-ed77627cf9a061a9682eed85
+13) [Lietuvos Respublikos mokesčių administravimo įstatymo 17 ir 25 straipsnių papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E5288809FF52) (Žin., 1998, Nr. 114-3190); ^s-ed77627cf9a061a9682eed85
 
 
-14) [[#^s-843baf615009d34b9d00f14c|Lietuvos Respublikos mokesčių administravimo įstatymo 2, 17, 38 straipsnių]] papildymo ir pakeitimo bei papildymo 38(1) straipsniu įstatymas (Žin., 1999, Nr. 36-1060); ^s-ab9384e11b8fda849fb40dff
+14) [Lietuvos Respublikos mokesčių administravimo įstatymo 2, 17, 38 straipsnių papildymo ir pakeitimo bei papildymo 38(1) straipsniu įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.C8DEE972C066) (Žin., 1999, Nr. 36-1060); ^s-ab9384e11b8fda849fb40dff
 
 
-15) [[#^s-d99f5262361c15eeafed3d06|Lietuvos Respublikos mokesčių administravimo įstatymo 39, 50 straipsnių]] papildymo ir pakeitimo įstatymas (Žin., 1999, Nr. 62-2034); ^s-e4fa541e462f6f6e79d85919
+15) [Lietuvos Respublikos mokesčių administravimo įstatymo 39, 50 straipsnių papildymo ir pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.497E5359A83C) (Žin., 1999, Nr. 62-2034); ^s-e4fa541e462f6f6e79d85919
 
 
-16) [[#^s-82bc868e93982f2bd195baa9|Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio]] pakeitimo įstatymas (Žin., 1999, Nr. 66-2126); ^s-3a0a3bea4486131c4c2690a0
+16) Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio pakeitimo įstatymas (Žin., 1999, Nr. 66-2126); ^s-3a0a3bea4486131c4c2690a0
 
 
-17) [[#^s-96f2b4d6a707544c3dd9c13d|Lietuvos Respublikos mokesčių administravimo įstatymo 42 straipsnio]] pakeitimo ir [[#^s-06ebc76e0e08835b403231e2|46 straipsnio]] pripažinimo netekusiu galios įstatymas (Žin., 1999, Nr. 84-2493); ^s-54a5b230486d63a4a3f060fd
+17) [Lietuvos Respublikos mokesčių administravimo įstatymo 42 straipsnio pakeitimo ir 46 straipsnio pripažinimo netekusiu galios įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.152849B5DDF8) (Žin., 1999, Nr. 84-2493); ^s-54a5b230486d63a4a3f060fd
 
 
-18) [[#^s-0c486210211c07c82e633157|Lietuvos Respublikos mokesčių administravimo įstatymo 5, 17, 32, 33, 34, 35, 36, 37 straipsnių]] pakeitimo, 29(1) straipsnio pripažinimo netekusiu galios ir papildymo 32(1) straipsniu įstatymas (Žin., 1999, Nr. 101-2903); ^s-bec4a53d61039149e9b79e48
+18) [Lietuvos Respublikos mokesčių administravimo įstatymo 5, 17, 32, 33, 34, 35, 36, 37 straipsnių pakeitimo, 29(1) straipsnio pripažinimo netekusiu galios ir papildymo 32(1) straipsniu įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.AC916AF91187) (Žin., 1999, Nr. 101-2903); ^s-bec4a53d61039149e9b79e48
 
 
-19) [[#^s-2004b7ec123bda43b13ef453|Lietuvos Respublikos mokesčių administravimo įstatymo 29 straipsnio]] pakeitimo įstatymas (Žin., 2000, Nr. 15-381); ^s-31810c38e337cd4703ae3e59
+19) Lietuvos Respublikos mokesčių administravimo įstatymo 29 straipsnio pakeitimo įstatymas (Žin., 2000, Nr. 15-381); ^s-31810c38e337cd4703ae3e59
 
 
-20) [[#^s-2004b7ec123bda43b13ef453|Lietuvos Respublikos mokesčių administravimo įstatymo 29 straipsnio]] papildymo įstatymas (Žin., 2000, Nr. 22-555); ^s-46df8f7b7334823b0520964a
+20) [Lietuvos Respublikos mokesčių administravimo įstatymo 29 straipsnio papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A014DC8644B1) (Žin., 2000, Nr. 22-555); ^s-46df8f7b7334823b0520964a
 
 
-21) [[#^s-8d9277833cc6367d03243596|Lietuvos Respublikos mokesčių administravimo įstatymo 16 straipsnio]] papildymo ir pakeitimo įstatymas (Žin., 2000, Nr. 61-1823); ^s-2daf1946e7ebf0afd520e3f2
+21) [Lietuvos Respublikos mokesčių administravimo įstatymo 16 straipsnio papildymo ir pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.3EFB067D10E1) (Žin., 2000, Nr. 61-1823); ^s-2daf1946e7ebf0afd520e3f2
 
 
-22) [[#^s-843baf615009d34b9d00f14c|Lietuvos Respublikos mokesčių administravimo įstatymo 29 ir 38 straipsnių]] pakeitimo įstatymas (Žin., 2000, Nr. 64-1917); ^s-0de00171ac2a745862af7cd5
+22) Lietuvos Respublikos mokesčių administravimo įstatymo 29 ir 38 straipsnių pakeitimo įstatymas (Žin., 2000, Nr. 64-1917); ^s-0de00171ac2a745862af7cd5
 
 
-23) [[#^s-3ec0f8c47da6034e9bccff58|Lietuvos Respublikos mokesčių administravimo įstatymo 5 ir 25 straipsnių]] papildymo įstatymas (Žin., 2000, Nr. 83-2510); ^s-8985735cdd3e7ffbd3ab9575
+23) [Lietuvos Respublikos mokesčių administravimo įstatymo 5 ir 25 straipsnių papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.83B0C2BE9502) (Žin., 2000, Nr. 83-2510); ^s-8985735cdd3e7ffbd3ab9575
 
 
-24) [[#^s-82bc868e93982f2bd195baa9|Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio]] pakeitimo ir papildymo įstatymas (Žin., 2000, Nr. 113-3607); ^s-cd947e1af6cf35c325feb171
+24) Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas (Žin., 2000, Nr. 113-3607); ^s-cd947e1af6cf35c325feb171
 
 
-25) [[#^s-2004b7ec123bda43b13ef453|Lietuvos Respublikos mokesčių administravimo įstatymo 17, 25 ir 29 straipsnių]] pakeitimo įstatymas (Žin., 2001, Nr. 31-1014); ^s-5067e52152ed52704bf7a075
+25) [Lietuvos Respublikos mokesčių administravimo įstatymo 17, 25 ir 29 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E53D38620969) (Žin., 2001, Nr. 31-1014); ^s-5067e52152ed52704bf7a075
 
 
-26) [[#^s-82bc868e93982f2bd195baa9|Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio]] papildymo įstatymas (Žin., 2001, Nr. 39-1326); ^s-8c4d9401154242f70ffb4b42
+26) Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio papildymo įstatymas (Žin., 2001, Nr. 39-1326); ^s-8c4d9401154242f70ffb4b42
 
 
-27) [[#^s-82bc868e93982f2bd195baa9|Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio]] papildymo įstatymas (Žin., 2001, Nr. 52-1812); ^s-24edaa6743536c1f4569c112
+27) Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio papildymo įstatymas (Žin., 2001, Nr. 52-1812); ^s-24edaa6743536c1f4569c112
 
 
-28) Lietuvos Respublikos mokesčių administravimo įstatymo pakeitimo ir papildymo įstatymas (Žin., 2001, Nr. 62-2211); ^s-f72fcb1104e42e4ab3df09ac
+28) [Lietuvos Respublikos mokesčių administravimo įstatymo pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.611B93CD16B7) (Žin., 2001, Nr. 62-2211); ^s-f72fcb1104e42e4ab3df09ac
 
 
-29) [[#^s-82bc868e93982f2bd195baa9|Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio]] pakeitimo įstatymas (Žin., 2001, Nr. 62-2212); ^s-d404e26378f9d5fdf3611fcb
+29) Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio pakeitimo įstatymas (Žin., 2001, Nr. 62-2212); ^s-d404e26378f9d5fdf3611fcb
 
 
-30) Lietuvos Respublikos mokesčių administravimo įstatymo papildymo 5(1) straipsniu įstatymas (Žin., 2001, Nr. 71-2514); ^s-ecb2afbdca05c6d06d906c3e
+30) [Lietuvos Respublikos mokesčių administravimo įstatymo papildymo 5(1) straipsniu įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.57F9604DD2DB) (Žin., 2001, Nr. 71-2514); ^s-ecb2afbdca05c6d06d906c3e
 
 
-31) [[#^s-9ddd6642b3f85f0a4ce30966|Lietuvos Respublikos mokesčių administravimo įstatymo 5 ir 7 straipsnių]] papildymo įstatymas (Žin., 2002, Nr. 15-553); ^s-f71956902bf544bbf39dc4c8
+31) Lietuvos Respublikos mokesčių administravimo įstatymo 5 ir 7 straipsnių papildymo įstatymas (Žin., 2002, Nr. 15-553); ^s-f71956902bf544bbf39dc4c8
 
 
-32) [[#^s-8d9277833cc6367d03243596|Lietuvos Respublikos mokesčių administravimo įstatymo 16 straipsnio]] pakeitimo ir Įstatymo papildymo 27(3) straipsniu įstatymas (Žin., 2002, Nr. 33-1254); ^s-43a192ff01c36975e2711299
+32) [Lietuvos Respublikos mokesčių administravimo įstatymo 16 straipsnio pakeitimo ir Įstatymo papildymo 27(3) straipsniu įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.7F1582E5DB28) (Žin., 2002, Nr. 33-1254); ^s-43a192ff01c36975e2711299
 
 
-33) [[#^s-2004b7ec123bda43b13ef453|Lietuvos Respublikos mokesčių administravimo įstatymo 29 straipsnio]] pakeitimo įstatymas (Žin., 2002, Nr. 45-1703); ^s-b043c0694a04e2dc61f74326
+33) Lietuvos Respublikos mokesčių administravimo įstatymo 29 straipsnio pakeitimo įstatymas (Žin., 2002, Nr. 45-1703); ^s-b043c0694a04e2dc61f74326
 
 
-34) [[#^s-82bc868e93982f2bd195baa9|Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio]] pakeitimo ir papildymo įstatymas (Žin., 2002, Nr. 51-1931); ^s-a6540f5631def5cb9a0c27f8
+34) Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas (Žin., 2002, Nr. 51-1931); ^s-a6540f5631def5cb9a0c27f8
 
 
-35) [[#^s-9ddd6642b3f85f0a4ce30966|Lietuvos Respublikos mokesčių administravimo įstatymo 5 ir 7 straipsnių]] papildymo įstatymas (Žin., 2002, Nr. 56-2230); ^s-97e4796bf3724f6b92094a7f
+35) Lietuvos Respublikos mokesčių administravimo įstatymo 5 ir 7 straipsnių papildymo įstatymas (Žin., 2002, Nr. 56-2230); ^s-97e4796bf3724f6b92094a7f
 
 
-36) Lietuvos Respublikos mokesčių administravimo įstatymo 2, 8, 19, 27, 29, 38, 38(1), 50, 52(1), 56(1) straipsnių pakeitimo ir Įstatymo papildymo 26(2) straipsniu įstatymas (Žin., 2002, Nr. 65-2628); ^s-1f2678ae3f5218ef0bc482f8
+36) [Lietuvos Respublikos mokesčių administravimo įstatymo 2, 8, 19, 27, 29, 38, 38(1), 50, 52(1), 56(1) straipsnių pakeitimo ir Įstatymo papildymo 26(2) straipsniu įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.862E4209F931) (Žin., 2002, Nr. 65-2628); ^s-1f2678ae3f5218ef0bc482f8
 
 
-37) [[#^s-82bc868e93982f2bd195baa9|Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio]] pakeitimo ir papildymo įstatymas (Žin., 2002, Nr. 73-3087); ^s-f90b5eb01c7dd16c913a176f
+37) Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio pakeitimo ir papildymo įstatymas (Žin., 2002, Nr. 73-3087); ^s-f90b5eb01c7dd16c913a176f
 
 
-38) [[#^s-2004b7ec123bda43b13ef453|Lietuvos Respublikos mokesčių administravimo įstatymo 29 straipsnio]] pakeitimo įstatymas (Žin., 2002, Nr. 101-4497); ^s-97a2a45457bcbbf95c31c4d1
+38) Lietuvos Respublikos mokesčių administravimo įstatymo 29 straipsnio pakeitimo įstatymas (Žin., 2002, Nr. 101-4497); ^s-97a2a45457bcbbf95c31c4d1
 
 
 39) Lietuvos Respublikos mokesčių administravimo įstatymo 26(1) straipsnio papildymo įstatymas (Žin., 2002, Nr. 112-4968); ^s-bf355fe2e5202e744385d534
 
 
-40) [[#^s-82bc868e93982f2bd195baa9|Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio]] papildymo įstatymas (Žin., 2002, Nr.112-4978); ^s-86a13fd1379860d081bf7fc1
+40) Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio papildymo įstatymas (Žin., 2002, Nr.112-4978); ^s-86a13fd1379860d081bf7fc1
 
 
-41) [[#^s-90a1b2bf3ac81248e84b5df3|Lietuvos Respublikos mokesčių administravimo įstatymo 2, 7, 14, 16, 17, 18, 22, 27, 29, 32, 39(1), 54, 56, 57, 58 straipsnių]] pakeitimo ir papildymo bei Įstatymo papildymo 6(1) ir 57(1) straipsniais įstatymas (Žin., 2002, Nr. 123-5516); ^s-a512d4b635147ccc126fccde
+41) [Lietuvos Respublikos mokesčių administravimo įstatymo 2, 7, 14, 16, 17, 18, 22, 27, 29, 32, 39(1), 54, 56, 57, 58 straipsnių pakeitimo ir papildymo bei Įstatymo papildymo 6(1) ir 57(1) straipsniais įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.201AEC28FC8B) (Žin., 2002, Nr. 123-5516); ^s-a512d4b635147ccc126fccde
 
 
-42) [[#^s-bec7c58ffe7f3969413c53df|Lietuvos Respublikos mokesčių administravimo įstatymo 16 ir 27 straipsnių]] pakeitimo įstatymas (Žin., 2003, Nr. 38-1711); ^s-9c7f5d5d5146e53248afa4ed
+42) [Lietuvos Respublikos mokesčių administravimo įstatymo 16 ir 27 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.D91F15BBE92E) (Žin., 2003, Nr. 38-1711); ^s-9c7f5d5d5146e53248afa4ed
 
 
-43) [[#^s-82bc868e93982f2bd195baa9|Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio]] pakeitimo įstatymas (Žin., 2003, Nr. 47-2060); ^s-3c0144fcb659a4ccda069586
+43) Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio pakeitimo įstatymas (Žin., 2003, Nr. 47-2060); ^s-3c0144fcb659a4ccda069586
 
 
 44) [[#^s-1726332444688d6aade9d29c|Lietuvos Respublikos mokesčių administravimo įstatymo 2 straipsnio]] papildymo ir 26(1), [[#^s-0c486210211c07c82e633157|37 straipsnių]] pakeitimo įstatymas (Žin., 2003, Nr. 68-3069); ^s-abcfe2ea20494c1874fe375a
 
 
-45) [[#^s-82bc868e93982f2bd195baa9|Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio]] papildymo įstatymas (Žin., 2003, Nr. 73-3344); ^s-46ae485b1eb52c9c1f2fbed0
+45) Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio papildymo įstatymas (Žin., 2003, Nr. 73-3344); ^s-46ae485b1eb52c9c1f2fbed0
 
 
-46) [[#^s-9ddd6642b3f85f0a4ce30966|Lietuvos Respublikos mokesčių administravimo įstatymo 5, 6(1) ir 7 straipsnių]] papildymo ir pakeitimo įstatymas (Žin., 2003, Nr. 104-4635). ^s-f5347c896367db88c56bb846
+46) [Lietuvos Respublikos mokesčių administravimo įstatymo 5, 6(1) ir 7 straipsnių papildymo ir pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E7DC1315F0BD) (Žin., 2003, Nr. 104-4635). ^s-f5347c896367db88c56bb846
 
 
 
@@ -5161,19 +5161,19 @@ priedas
 1. 2010 m. kovo 16 d. Tarybos direktyva 2010/24/ES dėl savitarpio pagalbos vykdant reikalavimus, susijusius su mokesčiais, muitais ir kitomis priemonėmis. ^s-9f42d47208f11e1f341898b4
 
 
-2. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB su paskutiniais pakeitimais, padarytais 2023 m. spalio 17 d. Tarybos direktyva (ES) 2023/2226. ^s-7d37ebb9eb839128f630721c
+2. 2011 m. vasario 15 d. Tarybos direktyva 2011/16/ES dėl administracinio bendradarbiavimo apmokestinimo srityje ir panaikinanti Direktyvą 77/799/EEB su paskutiniais pakeitimais, padarytais 2023 m. spalio 17 d. Tarybos [direktyva (ES) 2023/2226](https://eur-lex.europa.eu/eli/dir/2023/2226/oj). ^s-7d37ebb9eb839128f630721c
 Punkto pakeitimai:
 Nr. XV-309, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11978
 
 
 
-3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB, su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/843. ^s-fbc3316b1be6be64119c06bf
+3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/849](https://eur-lex.europa.eu/eli/dir/2015/849/oj) dėl finansų sistemos naudojimo pinigų plovimui ar teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB, su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos [direktyva (ES) 2018/843](https://eur-lex.europa.eu/eli/dir/2018/843/oj). ^s-fbc3316b1be6be64119c06bf
 
 
-4. 2017 m. spalio 10 d. Tarybos direktyva (ES) 2017/1852 dėl mokestinių ginčų sprendimo mechanizmų Europos Sąjungoje. ^s-489b447528a703c3efac4a8a
+4. 2017 m. spalio 10 d. Tarybos [direktyva (ES) 2017/1852](https://eur-lex.europa.eu/eli/dir/2017/1852/oj) dėl mokestinių ginčų sprendimo mechanizmų Europos Sąjungoje. ^s-489b447528a703c3efac4a8a
 
 
-5. 2020 m. vasario 18 d. Tarybos direktyva (ES) 2020/284, kuria dėl tam tikrų reikalavimų mokėjimo paslaugų teikėjams nustatymo iš dalies keičiama Direktyva 2006/112/EB. ^s-165a514f5b02ec3454d3a4c4
+5. 2020 m. vasario 18 d. Tarybos [direktyva (ES) 2020/284](https://eur-lex.europa.eu/eli/dir/2020/284/oj), kuria dėl tam tikrų reikalavimų mokėjimo paslaugų teikėjams nustatymo iš dalies keičiama Direktyva 2006/112/EB. ^s-165a514f5b02ec3454d3a4c4
 
 
 _______________
@@ -5225,7 +5225,7 @@ MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 13 IR 16 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1249, 2007-07-03, Žin., 2007, Nr. 80-3220 (2007-07-19)
-MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 12, 13, 15, 25, 33, 37, 38, 66, 76, 77, 78, 80, 81, 84, 87, 89, 93, 97, 100, 101, 104, 105, 108, 113, 117, 118, 128, 130, 132, 133, 135, 141, 142, 164, [[#^s-deb862c80a51dccfdd587d9c|165 STRAIPSNIŲ]] IR PRIEDO PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 133(1) STRAIPSNIU ĮSTATYMAS
+MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO [[#^s-1726332444688d6aade9d29c|2]], [[#^s-92565d1e2b8be09fdce36344|12]], [[#^s-250b7a0b4550f7c3de89d5d9|13]], [[#^s-73cff7d8901729592548d872|15]], [[#^s-3ec0f8c47da6034e9bccff58|25]], [[#^s-8cfaf23850887e9debdf5cf3|33]], [[#^s-0c486210211c07c82e633157|37]], [[#^s-843baf615009d34b9d00f14c|38]], [[#^s-5de2fbca865418df3fcc828e|66]], [[#^s-ad256e666335c3042c29dd17|76]], [[#^s-676d199a42a8accf55a3def1|77]], [[#^s-2b939c8f2a0f8111521bd122|78]], [[#^s-972f36e7a3a53974969328d5|80]], [[#^s-8c705ea83d2bf55e742414ef|81]], [[#^s-d353c4a2bfde442ca71834bd|84]], [[#^s-ea33f8bfed4ac45be9759362|87]], [[#^s-24136c5cccc51a81e48622a0|89]], [[#^s-36c6585f5d0ee4057d3b7c92|93]], [[#^s-6ec2d202bb2049176ff1fc2a|97]], [[#^s-0224e12f06c70075a688f3d0|100]], [[#^s-b5969c5bede73c553aed0ecb|101]], [[#^s-ccf4209a77b36b1036353d36|104]], [[#^s-43d4671add70a7b905890e56|105]], [[#^s-254bcacff14dceb23b4f6ef5|108]], [[#^s-c11211388dabc39ad1a33172|113]], [[#^s-01287f6bd8e714012a600fe1|117]], [[#^s-9de5a056cd99b140927495de|118]], [[#^s-3c482b8616e383f8aeca8827|128]], [[#^s-51cdd53590546756d14bd813|130]], [[#^s-55d69af730bc1fa58f4cfbc3|132]], [[#^s-93c30787cc2ff79563989608|133]], [[#^s-273b68ed3ce4be2c23be0bcd|135]], [[#^s-b007fb1f1025a166637b565c|141]], [[#^s-89ef4766bcca7f8cdd9d1404|142]], [[#^s-0e3736975e48513a291377d6|164]], [[#^s-deb862c80a51dccfdd587d9c|165]] STRAIPSNIŲ IR PRIEDO PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 133(1) STRAIPSNIU ĮSTATYMAS
 Šio įstatymo [[#^s-d1eae435aa8ab42f78d2228d|22 straipsnis]] įsigalioja nuo 2008 m. sausio 1 d.
 
 8.
@@ -5236,8 +5236,8 @@ Nr. X-1297, 2007-10-18, Žin., 2007, Nr. 114-4629 (2007-11-08)
 Šio įstatymo įsigaliojimo pakeitimas:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-99, 2008-12-22, Žin., 2008, Nr. 149-6023 (2008-12-30)
-[[#^s-c08a7ee45c1db29bb5a0442a|MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 83 STRAIPSNIO]] PAKEITIMO ĮSTATYMO [[#^s-1726332444688d6aade9d29c|2 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
-Įstatymai Nr. X-1297 ir Nr. XI-99 neteko galios nuo 2010 m. gruodžio 11 d.:
+[MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 83 STRAIPSNIO PAKEITIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.C4E8B2366BEB)
+[Įstatymai Nr. X-1297](https://e-tar.lt/portal/lt/legalAct/TAR.47A63B418C5E) ir Nr. XI-99 neteko galios nuo 2010 m. gruodžio 11 d.:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1160, 2010-11-23, Žin., 2010, Nr. 145-7417 (2010-12-11)
 [[latest/TAR.BC4B49697139|MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 83 STRAIPSNIO PAKEITIMO ĮSTATYMO IR JĮ KEITUSIO ĮSTATYMO PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS]]
@@ -5260,7 +5260,7 @@ Nr. XI-558, 2009-12-10, Žin., 2009, Nr. 153-6896 (2009-12-28)
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1159, 2010-11-23, Žin., 2010, Nr. 145-7416 (2010-12-11)
-[[#^s-0e3736975e48513a291377d6|MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 25, 87, 88, 135, 164 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 37(1) STRAIPSNIU ĮSTATYMAS
+MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO [[#^s-3ec0f8c47da6034e9bccff58|25]], [[#^s-ea33f8bfed4ac45be9759362|87]], [[#^s-7022d32265b0be64e8c7cd5c|88]], [[#^s-273b68ed3ce4be2c23be0bcd|135]], [[#^s-0e3736975e48513a291377d6|164]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 37(1) STRAIPSNIU ĮSTATYMAS
 Šio įstatymo [[#^s-1726332444688d6aade9d29c|2 straipsnis]] įsigalioja 2012 m. sausio 1 d.
 Šio įstatymo [[#^s-82bc868e93982f2bd195baa9|5 straipsnis]] įsigalioja 2011 m. balandžio 1 d.
 
@@ -5280,8 +5280,8 @@ Nr. XI-1849, 2011-12-22, Žin., 2012, Nr. 6-185 (2012-01-10)
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2078, 2012-06-19, Žin., 2012, Nr. 76-3927 (2012-06-30)
-[[#^s-43d4671add70a7b905890e56|MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 29, 33, 40, 88, 95, 105 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 42(1), 104(1), 104(2) STRAIPSNIAIS ĮSTATYMAS
-Šio įstatymo 3, 4, 7, 8 ir [[#^s-5766a33d23cf93309808c53b|9 straipsniai]] įsigalioja 2013 m. sausio 1 d.
+MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO [[#^s-2004b7ec123bda43b13ef453|29]], [[#^s-8cfaf23850887e9debdf5cf3|33]], [[#^s-e339c32b332114febd333a54|40]], [[#^s-7022d32265b0be64e8c7cd5c|88]], [[#^s-8e349f0fb2639388bb65b926|95]], [[#^s-43d4671add70a7b905890e56|105]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 42(1), 104(1), 104(2) STRAIPSNIAIS ĮSTATYMAS
+Šio įstatymo [[#^s-79606cf11fabed0bcd577aa8|3]], [[#^s-5d3182247a8ce53a867509a5|4]], [[#^s-9ddd6642b3f85f0a4ce30966|7]], [[#^s-1fd6ae64331e51e0ed6d9087|8]] ir [[#^s-5766a33d23cf93309808c53b|9]] straipsniai įsigalioja 2013 m. sausio 1 d.
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5299,12 +5299,12 @@ Baudų už administracinius teisės pažeidimus, paskirtų iki šio įstatymo į
 17.1..
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1511, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21277
-[[#^s-c11211388dabc39ad1a33172|LIETUVOS RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 14, 26, 105, 106, 107, [[#^s-c11211388dabc39ad1a33172\|113 STRAIPSNIŲ]]]] PAPILDYMO IR PAKEITIMO [[latest/TAR.8AA530469899|ĮSTATYMO NR. XII-602]] [[#^s-1fd6ae64331e51e0ed6d9087|8 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO [[#^s-1726332444688d6aade9d29c|2]], [[#^s-481a6eeb88c9cb685aac54e0|14]], [[#^s-a8353c09ef5cf94ffdae971b|26]], [[#^s-43d4671add70a7b905890e56|105]], [[#^s-9699997df9213dd6958f32e7|106]], [[#^s-97d85f418e75312c8ae7b2be|107]], [[#^s-c11211388dabc39ad1a33172|113]] STRAIPSNIŲ PAPILDYMO IR PAKEITIMO [[latest/TAR.8AA530469899|ĮSTATYMO NR. XII-602]] [[#^s-1fd6ae64331e51e0ed6d9087|8 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-795, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04029
-LIETUVOS RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO NR. IX-2112 33, 39 IR [[#^s-36c6585f5d0ee4057d3b7c92|93 STRAIPSNIŲ]] PAKEITIMO
+LIETUVOS RESPUBLIKOS MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO NR. IX-2112 [[#^s-8cfaf23850887e9debdf5cf3|33]], [[#^s-81d894a020d1085846cacf69|39]] IR [[#^s-36c6585f5d0ee4057d3b7c92|93]] STRAIPSNIŲ PAKEITIMO
 Šis įstatymas įsigalioja 2014 m. spalio 1 d.
 
 
@@ -5315,32 +5315,32 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1137, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13606
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 42-1, 66, 88 ir [[#^s-7adf0a186bd6a823d5d5dc96|99 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 42-1, [[#^s-5de2fbca865418df3fcc828e|66]], [[#^s-7022d32265b0be64e8c7cd5c|88]] ir [[#^s-7adf0a186bd6a823d5d5dc96|99]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1382, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19557
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 13 ir [[#^s-8d9277833cc6367d03243596|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-250b7a0b4550f7c3de89d5d9|13]] ir [[#^s-8d9277833cc6367d03243596|16]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1668, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07659
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 13 ir [[#^s-8d9277833cc6367d03243596|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-250b7a0b4550f7c3de89d5d9|13]] ir [[#^s-8d9277833cc6367d03243596|16]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1454, 2014-12-16, paskelbta TAR 2014-12-31, i. k. 2014-21202
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 63, 102 ir [[#^s-9699997df9213dd6958f32e7|106 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-627ed8db9679e8717154ea28|63]], [[#^s-c9d205d8b3f8a3f109806f02|102]] ir [[#^s-9699997df9213dd6958f32e7|106]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1511, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21277
-[[#^s-c11211388dabc39ad1a33172|Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 107, [[#^s-c11211388dabc39ad1a33172\|113 straipsnių]]]] papildymo ir pakeitimo [[latest/TAR.8AA530469899|įstatymo Nr. XII-602]] [[#^s-1fd6ae64331e51e0ed6d9087|8 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo [[#^s-1726332444688d6aade9d29c|2]], [[#^s-481a6eeb88c9cb685aac54e0|14]], [[#^s-a8353c09ef5cf94ffdae971b|26]], [[#^s-43d4671add70a7b905890e56|105]], [[#^s-9699997df9213dd6958f32e7|106]], [[#^s-97d85f418e75312c8ae7b2be|107]], [[#^s-c11211388dabc39ad1a33172|113]] straipsnių papildymo ir pakeitimo [[latest/TAR.8AA530469899|įstatymo Nr. XII-602]] [[#^s-1fd6ae64331e51e0ed6d9087|8 straipsnio]] pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1897, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11087
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 28, 41, 55, 68, 87, 89, 101, 104-1, 104-2, 129, 131, [[#^s-ad1272329d815b75070b808e|154 straipsnių]] ir priedo pakeitimo, Įstatymo papildymo 55-1 ir 61-1 straipsniais ir 56, 57, 58, 59, [[#^s-298d522f8bb42c7b6e66cb16|60 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-417b033f38a94b3e58741e6f|28]], [[#^s-aaca23053e42d79515c93491|41]], [[#^s-45cdb1041fd51ff6ab93af12|55]], [[#^s-12848d2caeb648d3b8e8f527|68]], [[#^s-ea33f8bfed4ac45be9759362|87]], [[#^s-24136c5cccc51a81e48622a0|89]], [[#^s-b5969c5bede73c553aed0ecb|101]], 104-1, 104-2, [[#^s-b2ec14b1a5ef14295123a5be|129]], [[#^s-f051c7c9221019b666cd19a7|131]], [[#^s-ad1272329d815b75070b808e|154]] straipsnių ir priedo pakeitimo, Įstatymo papildymo 55-1 ir 61-1 straipsniais ir [[#^s-9eeef5c4ed92939773a15e64|56]], [[#^s-3f229c92d2ceb0394592ef52|57]], [[#^s-90a1b2bf3ac81248e84b5df3|58]], [[#^s-11c5fcab9bef85e39c019e8f|59]], [[#^s-298d522f8bb42c7b6e66cb16|60]] straipsnių pripažinimo netekusiais galios įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5350,27 +5350,27 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-481a6
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2038, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18853
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40, [[#^s-2fbce5faa9d6fd140ac66335|75 straipsnių]] pakeitimo ir Įstatymo papildymo 42-2, 42-3 straipsniais įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-e339c32b332114febd333a54|40]], [[#^s-2fbce5faa9d6fd140ac66335|75]] straipsnių pakeitimo ir Įstatymo papildymo 42-2, 42-3 straipsniais įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2312, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10422
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 14, 26, 33, 104-2, 105, 106, 107, 113, 115, 125, 142 ir [[#^s-c8f8edd00a7613ae87369aa9|143 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-1726332444688d6aade9d29c|2]], [[#^s-481a6eeb88c9cb685aac54e0|14]], [[#^s-a8353c09ef5cf94ffdae971b|26]], [[#^s-8cfaf23850887e9debdf5cf3|33]], 104-2, [[#^s-43d4671add70a7b905890e56|105]], [[#^s-9699997df9213dd6958f32e7|106]], [[#^s-97d85f418e75312c8ae7b2be|107]], [[#^s-c11211388dabc39ad1a33172|113]], [[#^s-43692afb1d67e6f4ba92f12f|115]], [[#^s-0e2d7130cb26c3a5f91b17de|125]], [[#^s-89ef4766bcca7f8cdd9d1404|142]] ir [[#^s-c8f8edd00a7613ae87369aa9|143]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2695, 2016-11-03, paskelbta TAR 2016-11-16, i. k. 2016-26858
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 5, 14, 68, 81, 87, 88, 93, 97, 98, 99, 100, 104, [[#^s-43d4671add70a7b905890e56|105 straipsnių]] pakeitimo ir [[#^s-007bf36358395b4ad287d171|161 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-1726332444688d6aade9d29c|2]], [[#^s-82bc868e93982f2bd195baa9|5]], [[#^s-481a6eeb88c9cb685aac54e0|14]], [[#^s-12848d2caeb648d3b8e8f527|68]], [[#^s-8c705ea83d2bf55e742414ef|81]], [[#^s-ea33f8bfed4ac45be9759362|87]], [[#^s-7022d32265b0be64e8c7cd5c|88]], [[#^s-36c6585f5d0ee4057d3b7c92|93]], [[#^s-6ec2d202bb2049176ff1fc2a|97]], [[#^s-d7a04fccf5f329c5e515673b|98]], [[#^s-7adf0a186bd6a823d5d5dc96|99]], [[#^s-0224e12f06c70075a688f3d0|100]], [[#^s-ccf4209a77b36b1036353d36|104]], [[#^s-43d4671add70a7b905890e56|105]] straipsnių pakeitimo ir [[#^s-007bf36358395b4ad287d171|161 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-374, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09154
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 14, [[#^s-26023b4a3f66654d77bef1f0|61 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-481a6eeb88c9cb685aac54e0|14]], [[#^s-26023b4a3f66654d77bef1f0|61]] straipsnių ir priedo pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1216, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09732
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 13 ir [[#^s-8d9277833cc6367d03243596|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-250b7a0b4550f7c3de89d5d9|13]] ir [[#^s-8d9277833cc6367d03243596|16]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5385,7 +5385,7 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-7173d
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1329, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10972
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 38, 68, 87, 100, 132, 139, [[#^s-d997cc09682a154bd7e90d0b|140 straipsnių]] pakeitimo ir Įstatymo papildymo 40-1 straipsniu įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-1726332444688d6aade9d29c|2]], [[#^s-843baf615009d34b9d00f14c|38]], [[#^s-12848d2caeb648d3b8e8f527|68]], [[#^s-ea33f8bfed4ac45be9759362|87]], [[#^s-0224e12f06c70075a688f3d0|100]], [[#^s-55d69af730bc1fa58f4cfbc3|132]], [[#^s-8e038c142a37b73d82cda751|139]], [[#^s-d997cc09682a154bd7e90d0b|140]] straipsnių pakeitimo ir Įstatymo papildymo 40-1 straipsniu įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5395,22 +5395,22 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-8cfaf
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1390, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12060
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 23 ir [[#^s-45d728e9c864da872e28d71b|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-0b4b89855ce9ba51020c5da7|23]] ir [[#^s-45d728e9c864da872e28d71b|24]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2352, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12442
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 25, 40-1, 87, 108, 118, 145, 148, 156, [[#^s-fba8c88cd0d250d1396161e9|158 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 61-2 straipsniu įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-3ec0f8c47da6034e9bccff58|25]], 40-1, [[#^s-ea33f8bfed4ac45be9759362|87]], [[#^s-254bcacff14dceb23b4f6ef5|108]], [[#^s-9de5a056cd99b140927495de|118]], [[#^s-bbc5d20f87999d14b9ee7034|145]], [[#^s-7173ddd69095f4a76d2bdef5|148]], [[#^s-5ac6f185b8a480d2b54404df|156]], [[#^s-fba8c88cd0d250d1396161e9|158]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 61-2 straipsniu įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2104, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07640
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 33 ir [[#^s-54bc3c6b5d1c87508c0c837f|36 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-8cfaf23850887e9debdf5cf3|33]] ir [[#^s-54bc3c6b5d1c87508c0c837f|36]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2353, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12443
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 38, 68, 87, 100, 132, 139, [[#^s-d997cc09682a154bd7e90d0b|140 straipsnių]] pakeitimo ir Įstatymo papildymo 40-1 straipsniu [[latest/7f0db8f07c4a11e8ae2bfd1913d66d57|įstatymo Nr. XIII-1329]] [[#^s-5d3182247a8ce53a867509a5|4 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-1726332444688d6aade9d29c|2]], [[#^s-843baf615009d34b9d00f14c|38]], [[#^s-12848d2caeb648d3b8e8f527|68]], [[#^s-ea33f8bfed4ac45be9759362|87]], [[#^s-0224e12f06c70075a688f3d0|100]], [[#^s-55d69af730bc1fa58f4cfbc3|132]], [[#^s-8e038c142a37b73d82cda751|139]], [[#^s-d997cc09682a154bd7e90d0b|140]] straipsnių pakeitimo ir Įstatymo papildymo 40-1 straipsniu [[latest/7f0db8f07c4a11e8ae2bfd1913d66d57|įstatymo Nr. XIII-1329]] [[#^s-5d3182247a8ce53a867509a5|4 straipsnio]] pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5425,7 +5425,7 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-79606
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2691, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21547
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 13 ir [[#^s-481a6eeb88c9cb685aac54e0|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-250b7a0b4550f7c3de89d5d9|13]] ir [[#^s-481a6eeb88c9cb685aac54e0|14]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5435,12 +5435,12 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-79606
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2586, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20554
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 33, 55, 55-1 straipsnių ir priedo pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-1726332444688d6aade9d29c|2]], [[#^s-8cfaf23850887e9debdf5cf3|33]], [[#^s-45cdb1041fd51ff6ab93af12|55]], 55-1 straipsnių ir priedo pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3010, 2020-06-04, paskelbta TAR 2020-06-09, i. k. 2020-12618
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 14 ir [[#^s-ea33f8bfed4ac45be9759362|87 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-481a6eeb88c9cb685aac54e0|14]] ir [[#^s-ea33f8bfed4ac45be9759362|87]] straipsnių pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5470,22 +5470,22 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40-1 straip
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-761, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26591
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, [[#^s-8c705ea83d2bf55e742414ef|81 straipsnių]] ir priedo pakeitimo ir įstatymo papildymo 61-4 straipsniu įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-1726332444688d6aade9d29c|2]], [[#^s-8c705ea83d2bf55e742414ef|81]] straipsnių ir priedo pakeitimo ir įstatymo papildymo 61-4 straipsniu įstatymas
 
 33.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
-Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/1ce2a330b3f011eb8371ea260d59d64b)
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1241, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15187
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40-1 ir [[#^s-aaca23053e42d79515c93491|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40-1 ir [[#^s-aaca23053e42d79515c93491|41]] straipsnių pakeitimo įstatymas
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1658, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26362
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 3, 12, 13, 25, 26, 32, 33, 38, 39, 40-1, 87, 88, 99, 104-2, 126, 139, 140, [[#^s-0e3736975e48513a291377d6|164 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 61-3 straipsniu įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-1726332444688d6aade9d29c|2]], [[#^s-79606cf11fabed0bcd577aa8|3]], [[#^s-92565d1e2b8be09fdce36344|12]], [[#^s-250b7a0b4550f7c3de89d5d9|13]], [[#^s-3ec0f8c47da6034e9bccff58|25]], [[#^s-a8353c09ef5cf94ffdae971b|26]], [[#^s-cbefdbb2ec88556e05de9650|32]], [[#^s-8cfaf23850887e9debdf5cf3|33]], [[#^s-843baf615009d34b9d00f14c|38]], [[#^s-81d894a020d1085846cacf69|39]], 40-1, [[#^s-ea33f8bfed4ac45be9759362|87]], [[#^s-7022d32265b0be64e8c7cd5c|88]], [[#^s-7adf0a186bd6a823d5d5dc96|99]], 104-2, [[#^s-04a6a76edec77817a9395faa|126]], [[#^s-8e038c142a37b73d82cda751|139]], [[#^s-d997cc09682a154bd7e90d0b|140]], [[#^s-0e3736975e48513a291377d6|164]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 61-3 straipsniu įstatymas
 
 36.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5495,7 +5495,7 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-67bdb
 37.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1659, 2022-12-13, paskelbta TAR 2022-12-22, i. k. 2022-26363
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 40-1, [[#^s-8c705ea83d2bf55e742414ef|81 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 61-3 straipsniu [[latest/6f0be6f0632a11eca9ac839120d251c4|įstatymo Nr. XIV-761]] pavadinimo, 3, [[#^s-82bc868e93982f2bd195baa9|5 straipsnių]] pakeitimo ir [[#^s-1726332444688d6aade9d29c|2 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-1726332444688d6aade9d29c|2]], 40-1, [[#^s-8c705ea83d2bf55e742414ef|81]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 61-3 straipsniu [[latest/6f0be6f0632a11eca9ac839120d251c4|įstatymo Nr. XIV-761]] pavadinimo, [[#^s-79606cf11fabed0bcd577aa8|3]], [[#^s-82bc868e93982f2bd195baa9|5]] straipsnių pakeitimo ir [[#^s-1726332444688d6aade9d29c|2 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 38.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5530,12 +5530,12 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 40-1 straip
 44.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2805, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12622
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 1, 2, 14, 26, 86, 88, 93, 105, 106, [[#^s-b5be800ad5a4109bed92f6ff|110 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-0d64e783c157317691d829c4|1]], [[#^s-1726332444688d6aade9d29c|2]], [[#^s-481a6eeb88c9cb685aac54e0|14]], [[#^s-a8353c09ef5cf94ffdae971b|26]], [[#^s-27e5c00dc5488cfb8258fd09|86]], [[#^s-7022d32265b0be64e8c7cd5c|88]], [[#^s-36c6585f5d0ee4057d3b7c92|93]], [[#^s-43d4671add70a7b905890e56|105]], [[#^s-9699997df9213dd6958f32e7|106]], [[#^s-b5be800ad5a4109bed92f6ff|110]] straipsnių pakeitimo įstatymas
 
 45.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-309, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11978
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 2, 37-1, 38, 39, 40-1, 48, 61-2, 68, 71, 88, 100, 108, 140, 141, 148, 155, [[#^s-67bdb1d349407d85cc7b0e1d|159 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 37-2, 61-5 ir 61-6 straipsniais įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-1726332444688d6aade9d29c|2]], 37-1, [[#^s-843baf615009d34b9d00f14c|38]], [[#^s-81d894a020d1085846cacf69|39]], 40-1, [[#^s-4256d22f131f86101768c93b|48]], 61-2, [[#^s-12848d2caeb648d3b8e8f527|68]], [[#^s-7f51f04aa263a772a0a8edf5|71]], [[#^s-7022d32265b0be64e8c7cd5c|88]], [[#^s-0224e12f06c70075a688f3d0|100]], [[#^s-254bcacff14dceb23b4f6ef5|108]], [[#^s-d997cc09682a154bd7e90d0b|140]], [[#^s-b007fb1f1025a166637b565c|141]], [[#^s-7173ddd69095f4a76d2bdef5|148]], [[#^s-55bfe559586d473e8fcaead9|155]], [[#^s-67bdb1d349407d85cc7b0e1d|159]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 37-2, 61-5 ir 61-6 straipsniais įstatymas
 
 46.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5545,24 +5545,24 @@ Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-250b7
 47.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-532, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19764
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 33, 39 ir [[#^s-36c6585f5d0ee4057d3b7c92|93 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-8cfaf23850887e9debdf5cf3|33]], [[#^s-81d894a020d1085846cacf69|39]] ir [[#^s-36c6585f5d0ee4057d3b7c92|93]] straipsnių pakeitimo įstatymas
 
 48.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-616, 2025-11-27, paskelbta TAR 2025-12-02, i. k. 2025-20537
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 33, 63, 64, 95, 102 ir [[#^s-9699997df9213dd6958f32e7|106 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-8cfaf23850887e9debdf5cf3|33]], [[#^s-627ed8db9679e8717154ea28|63]], [[#^s-552ea35d19fc58c46735a791|64]], [[#^s-8e349f0fb2639388bb65b926|95]], [[#^s-c9d205d8b3f8a3f109806f02|102]] ir [[#^s-9699997df9213dd6958f32e7|106]] straipsnių pakeitimo įstatymas
 
 49.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-515, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19752
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 1, 2, 14, 26, 86, 88, 93, 105, 106, [[#^s-b5be800ad5a4109bed92f6ff|110 straipsnių]] pakeitimo [[latest/4703f4603a9e11efbdaea558de59136c|įstatymo Nr. XIV-2805]] [[#^s-79606cf11fabed0bcd577aa8|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-0d64e783c157317691d829c4|1]], [[#^s-1726332444688d6aade9d29c|2]], [[#^s-481a6eeb88c9cb685aac54e0|14]], [[#^s-a8353c09ef5cf94ffdae971b|26]], [[#^s-27e5c00dc5488cfb8258fd09|86]], [[#^s-7022d32265b0be64e8c7cd5c|88]], [[#^s-36c6585f5d0ee4057d3b7c92|93]], [[#^s-43d4671add70a7b905890e56|105]], [[#^s-9699997df9213dd6958f32e7|106]], [[#^s-b5be800ad5a4109bed92f6ff|110]] straipsnių pakeitimo [[latest/4703f4603a9e11efbdaea558de59136c|įstatymo Nr. XIV-2805]] [[#^s-79606cf11fabed0bcd577aa8|3 straipsnio]] pakeitimo įstatymas
 
 50.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-617, 2025-11-27, paskelbta TAR 2025-12-02, i. k. 2025-20538
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 1, 2, 14, 26, 86, 88, 93, 105, 106, [[#^s-b5be800ad5a4109bed92f6ff|110 straipsnių]] pakeitimo [[latest/4703f4603a9e11efbdaea558de59136c|įstatymo Nr. XIV-2805]] [[#^s-5766a33d23cf93309808c53b|9 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-0d64e783c157317691d829c4|1]], [[#^s-1726332444688d6aade9d29c|2]], [[#^s-481a6eeb88c9cb685aac54e0|14]], [[#^s-a8353c09ef5cf94ffdae971b|26]], [[#^s-27e5c00dc5488cfb8258fd09|86]], [[#^s-7022d32265b0be64e8c7cd5c|88]], [[#^s-36c6585f5d0ee4057d3b7c92|93]], [[#^s-43d4671add70a7b905890e56|105]], [[#^s-9699997df9213dd6958f32e7|106]], [[#^s-b5be800ad5a4109bed92f6ff|110]] straipsnių pakeitimo [[latest/4703f4603a9e11efbdaea558de59136c|įstatymo Nr. XIV-2805]] [[#^s-5766a33d23cf93309808c53b|9 straipsnio]] pakeitimo įstatymas
 
 51.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-511, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19749
-Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 25, 26, 33, 38, 40, 43, 45, 46, 47, 90, 101, 103, 115, [[#^s-0e3736975e48513a291377d6|164 straipsnių]] pakeitimo ir 44, 53, [[#^s-8572304ed9745602fc2b306f|54 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo Nr. IX-2112 [[#^s-3ec0f8c47da6034e9bccff58|25]], [[#^s-a8353c09ef5cf94ffdae971b|26]], [[#^s-8cfaf23850887e9debdf5cf3|33]], [[#^s-843baf615009d34b9d00f14c|38]], [[#^s-e339c32b332114febd333a54|40]], [[#^s-e1c174980ab6491bc4a5bde9|43]], [[#^s-df60cf90d3f39eae6dcbfbe8|45]], [[#^s-06ebc76e0e08835b403231e2|46]], [[#^s-0098deb20a9641e504efb80b|47]], [[#^s-96c0ddd488d2e7fcc8e73ff1|90]], [[#^s-b5969c5bede73c553aed0ecb|101]], [[#^s-10f7588e230af5db7626b182|103]], [[#^s-43692afb1d67e6f4ba92f12f|115]], [[#^s-0e3736975e48513a291377d6|164]] straipsnių pakeitimo ir [[#^s-9567cc35d67922268780f263|44]], [[#^s-a85f9b1c0e29142bb15629e3|53]], [[#^s-8572304ed9745602fc2b306f|54]] straipsnių pripažinimo netekusiais galios įstatymas

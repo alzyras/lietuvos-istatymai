@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-c7f74b791de6522934674a13
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. sausio 16 d. dekretą Nr. 2021, ratifikuoja Lietuvos Respublikos ir Vengrijos Respublikos sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1999 m. gegužės 25 d. Budapešte.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. sausio 16 d. dekretą Nr. 2021](https://e-tar.lt/portal/lt/legalAct/TAR.313EF7F424F7), ratifikuoja Lietuvos Respublikos ir Vengrijos Respublikos sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1999 m. gegužės 25 d. Budapešte.
 
 
 

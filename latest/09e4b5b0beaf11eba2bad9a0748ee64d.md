@@ -52,10 +52,10 @@ Pakeisti 30 straipsnį ir jį išdėstyti taip:
 2. Vežėjas, atsakingas už keleivių ir transporto priemonių perkėlimą keltais per Klaipėdos valstybinio jūrų uosto akvatoriją į Kuršių neriją ir iš Kuršių nerijos, į keltą pirmumo tvarka įleidžia transporto priemones ir asmenis, nurodytus: ^s-8d1e00301808728d7331a74a
 
 
-1) [[latest/TAR.A7D82E8EDC6B#^s-6a2f57ccc528041fab6123e7|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 9 straipsnio 7 dalies]] 3, 5 ir 6 punktuose, nuo pirmadienio 00 val. 00 min. iki penktadienio  18 val. 00 min.; ^s-5575c62bd9ea0276b1096006
+1) [[latest/TAR.A7D82E8EDC6B#^s-6a2f57ccc528041fab6123e7|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo 9 straipsnio 7 dalies]] [[latest/TAR.A7D82E8EDC6B|3]], [[latest/TAR.A7D82E8EDC6B|5]] ir [[latest/TAR.A7D82E8EDC6B|6]] punktuose, nuo pirmadienio 00 val. 00 min. iki penktadienio  18 val. 00 min.; ^s-5575c62bd9ea0276b1096006
 
 
-2) [[latest/TAR.A7D82E8EDC6B#^s-6a2f57ccc528041fab6123e7|Kelių priežiūros ir plėtros programos finansavimo įstatymo 9 straipsnio 7 dalies]] 1, 2, 4, 7 ir 8 punktuose, 24 val. per parą, 7 dienas per savaitę. ^s-2d09abcf26dfd91425fc25b2
+2) [[latest/TAR.A7D82E8EDC6B#^s-6a2f57ccc528041fab6123e7|Kelių priežiūros ir plėtros programos finansavimo įstatymo 9 straipsnio 7 dalies]] [[latest/TAR.A7D82E8EDC6B|1]], [[latest/TAR.A7D82E8EDC6B|2]], [[latest/TAR.A7D82E8EDC6B|4]], [[latest/TAR.A7D82E8EDC6B|7]] ir [[latest/TAR.A7D82E8EDC6B|8]] punktuose, 24 val. per parą, 7 dienas per savaitę. ^s-2d09abcf26dfd91425fc25b2
 
 
 3. Bagažo vežimo sutartyje vežėjas įsipareigoja nuvežti keleivio bagažą į paskirties punktą ir išduoti jį gavėjui, o keleivis įsipareigoja sumokėti nustatytą užmokestį už bagažo nuvežimą. ^s-780cd044a2e4532ca2e24fcd

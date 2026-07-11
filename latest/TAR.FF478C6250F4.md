@@ -107,7 +107,7 @@ Valstybinėje tarnyboje dirbantys asmenys, teisės aktų nustatyta tvarka pripa�
 „2) teikia ieškinius (prašymus) teismui nutraukti valstybinės tarnybos santykius su valstybinėje tarnyboje dirbančiais asmenimis dėl šio įstatymo reikalavimų pažeidimo ar darbo sutarčių bei sandorių, sudarytų pažeidžiant šio įstatymo reikalavimus, nutraukimo ar pripažinimo negaliojančiais. Ši nuostata netaikoma valstybės politikams, Seimo ar Respublikos Prezidento paskirtiems pareigūnams;“.
 
 
-2. Papildyti 23 straipsnio 6 dalį naujais 3 ir [[#^s-259f19febc1d5329bf2edd05|4 punktais]]: ^s-24e125860c60dd634155f6b3
+2. Papildyti 23 straipsnio 6 dalį naujais 3 ir 4 punktais: ^s-24e125860c60dd634155f6b3
 
 
 „3) gali kreiptis į Seimo valdybą, kad ši teiktų siūlymus atleisti Seimo skiriamus pareigūnus arba kad būtų inicijuotas Seimo laikinosios tyrimo komisijos sudarymas, jeigu yra gauta pagrįsta informacija, kad Respublikos Prezidentas, Seimo narys, Ministras Pirmininkas, taip pat Seimo skiriami teisėjai nevykdo šio įstatymo reikalavimų;

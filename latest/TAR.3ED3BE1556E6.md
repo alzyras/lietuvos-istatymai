@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 5 straipsnio 1 dalies papildymas ^s-1530e568ded06f0fbe11b610
 
 
-Papildyti 5 straipsnio 1 dalį 25 ir [[#^s-085a4a919d8cfc349b388628|26 punktais]]:
+Papildyti 5 straipsnio 1 dalį 25 ir 26 punktais:
 
 
 „25) žvalgybos informacija, taip pat informacija apie žvalgybos veiklą, jos priemonių ir metodų naudojimą, žvalgybos veiklos užduotis ir rezultatus, žvalgybos tarnautojus bei žvalgybos bendradarbius, žvalgybos tarnybų finansavimą ir materialinį bei techninį aprūpinimą;

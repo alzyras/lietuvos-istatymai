@@ -9,11 +9,10 @@ pavadinimas: "Lietuvos Respublikos biudžetinės sandaros įstatymo pakeitimo į
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.082C8C244DCC|Lietuvos Respublikos 2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 2 citatos - 2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
-- [[latest/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 8 citatos - Biudžeto sandaros įstatymu
-- [[latest/TAR.55627FB64864|Lietuvos Respublikos valstybės iždo įstatymas]] - 2 citatos - Valstybės iždo įstatyme
+- [[latest/TAR.082C8C244DCC|Lietuvos Respublikos 2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 2001 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
+- [[latest/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 4 citatos - Biudžeto sandaros įstatymu
+- [[latest/TAR.55627FB64864|Lietuvos Respublikos valstybės iždo įstatymas]] - Valstybės iždo įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.712BBBFA3D41#^s-01e0389549414ba0e1d70457|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - BIUDŽETINĖS SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.712BBBFA3D41#^s-673373647a7f57dbf0f2f530|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - BIUDŽETINĖS SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.712BBBFA3D41#^s-01e0389549414ba0e1d70457|Lietuvos Respublikos biudžeto sandaros įstatymas]] - BIUDŽETINĖS SANDAROS ĮSTATYMO PAKEITIMO ĮSTATYMAS

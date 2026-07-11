@@ -62,7 +62,7 @@ užtraukia baudą asmenims, kurie nesiverčia elektroninių ryšių veikla, arba
 užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstančių eurų.
 
 
-5. Už šio straipsnio 1, 2, 3, [[#^s-8f41f1dccf4899686dd27b95|4 dalyse]] numatytus administracinius nusižengimus gali būti skiriamas aparatūros, įrenginių, radijo bangų siuntimo, radijo ryšio slopinimo, radijo ryšio perėmimo, radijo stebėsenos įrenginių arba radijo ryšio stočių konfiskavimas.“ ^s-80b792db1d1d5f5f03b79cfe
+5. Už šio straipsnio [[#^s-ed874c32424993df02624fee|1]], [[#^s-dfaaf55e2e8c8d0214271f79|2]], [[#^s-391b0a80512a425c94b24e34|3]], [[#^s-8f41f1dccf4899686dd27b95|4]] dalyse numatytus administracinius nusižengimus gali būti skiriamas aparatūros, įrenginių, radijo bangų siuntimo, radijo ryšio slopinimo, radijo ryšio perėmimo, radijo stebėsenos įrenginių arba radijo ryšio stočių konfiskavimas.“ ^s-80b792db1d1d5f5f03b79cfe
 
 
 

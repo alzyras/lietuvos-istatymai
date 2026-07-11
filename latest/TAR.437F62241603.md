@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-a4b68a6a4808c4448a36b052
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2010 m. balandžio 12 d. dekretą Nr. 1K-333, ratifikuoja 2009 m. spalio 20 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Singapūro Respublikos Vyriausybės susitarimą dėl oro susisiekimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2010 m. balandžio 12 d. dekretą Nr. 1K-333](https://e-tar.lt/portal/lt/legalAct/TAR.F579DB150B27), ratifikuoja 2009 m. spalio 20 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Singapūro Respublikos Vyriausybės susitarimą dėl oro susisiekimo.
 
 
 

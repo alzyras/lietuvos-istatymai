@@ -62,7 +62,7 @@ BENDROSIOS NUOSTATOS
 1. Šis įstatymas nustato bendruosius cheminių medžiagų – atskirų ir preparatų ar gaminių sudėtyje esančių – ir cheminių preparatų gamybos, tiekimo rinkai, naudojimo, taip pat cheminių augalų apsaugos ir biocidinių produktų tiekimo rinkai ir kitokio jų tvarkymo reikalavimus; fizinių ir juridinių asmenų, tiekiančių rinkai ar kitaip tvarkančių chemines medžiagas ir preparatus, pareigas ir teises, taip pat valstybės institucijų funkcijas cheminių medžiagų ir preparatų tvarkymo valstybinio valdymo srityje. ^s-91e25188a1a38b4b9620f3c1
 
 
-2. Šis įstatymas taikomas kartu su 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančiu Europos cheminių medžiagų agentūrą, iš dalies keičiančiu Direktyvą 1999/45/EB bei panaikinančiu Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1) (toliau – Reglamentas (EB) Nr. 1907/2006). ^s-d7a743d41bcbc1cdfe67a48a
+2. Šis įstatymas taikomas kartu su 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančiu Europos cheminių medžiagų agentūrą, iš dalies keičiančiu Direktyvą 1999/45/EB bei panaikinančiu Tarybos reglamentą (EEB) Nr. 793/93, Komisijos [reglamentą (EB) Nr. 1488/94](https://eur-lex.europa.eu/eli/reg/1488/94/oj), Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1) (toliau – [Reglamentas (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj)). ^s-d7a743d41bcbc1cdfe67a48a
 
 
 3. Šis įstatymas nereglamentuoja: ^s-507c5d3928e51c460237b5df
@@ -183,13 +183,13 @@ d) medžiagos ir preparatai, kurie susilietę su vandeniu arba drėgnu oru išsk
 10. Rizika – tikimybė, kad kenksmingas cheminių medžiagų ar preparatų poveikis žmonių sveikatai ir aplinkai atsiranda pagrįstai numatomomis naudojimo sąlygomis. ^s-749dcdc5aa3b6d808094271d
 
 
-11. Saugos duomenų lapas – Reglamentu (EB) Nr. 1907/2006 nustatyto turinio apie cheminę medžiagą ar preparatą informacija, kuria remiantis galima imtis reikalingų priemonių, susijusių su žmonių sveikatos apsauga, sauga darbo vietoje ir aplinkos apsauga. ^s-299b40a863f43a75e46255e2
+11. Saugos duomenų lapas – [Reglamentu (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatyto turinio apie cheminę medžiagą ar preparatą informacija, kuria remiantis galima imtis reikalingų priemonių, susijusių su žmonių sveikatos apsauga, sauga darbo vietoje ir aplinkos apsauga. ^s-299b40a863f43a75e46255e2
 
 
 12. Suklasifikuotų cheminių medžiagų sąrašas – aplinkos ir sveikatos apsaugos ministrų patvirtintas sąrašas pavojingų cheminių medžiagų, dėl kurių suderinto klasifikavimo ir ženklinimo pagal 1967 m. birželio 27 d. Tarybos direktyvoje 67/548/EEB dėl įstatymų ir kitų teisės aktų, reglamentuojančių pavojingų medžiagų klasifikavimą, pakavimą ir ženklinimą etiketėmis, suderinimo nustatytą tvarką yra susitarta visoje Europos Bendrijoje. ^s-4cd7e17bc3dd0de55795f926
 
 
-13. Kitos šiame įstatyme vartojamos sąvokos pateiktos [[latest/TAR.AD44354DA25E|Lietuvos Respublikos augalų apsaugos įstatyme]] (Žin., 1995, Nr. 90-2013; 2003, Nr. 102-4583), Reglamente (EB) Nr. 1907/2006 ir 2003 m. sausio 28 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 304/2003 dėl pavojingų cheminių medžiagų eksporto ir importo (OL 2004 m. specialusis leidimas, 11 skyrius, 46 tomas, p. 65) (toliau – Reglamentas (EB) Nr. 304/2003). ^s-d6b57623a65d290c5c5a807f
+13. Kitos šiame įstatyme vartojamos sąvokos pateiktos [[latest/TAR.AD44354DA25E|Lietuvos Respublikos augalų apsaugos įstatyme]] (Žin., 1995, Nr. 90-2013; 2003, Nr. 102-4583), [Reglamente (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir 2003 m. sausio 28 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 304/2003 dėl pavojingų cheminių medžiagų eksporto ir importo (OL 2004 m. specialusis leidimas, 11 skyrius, 46 tomas, p. 65) (toliau – Reglamentas (EB) Nr. 304/2003). ^s-d6b57623a65d290c5c5a807f
 
 
 
@@ -208,7 +208,7 @@ SAUGOS PRIEMONIŲ TAIKYMAS TVARKANT CHEMINES MEDŽIAGAS IR PREPARATUS
 ### 4 straipsnis. Bendrieji cheminių medžiagų ir preparatų tvarkymo reikalavimai ^s-98f9af7a50853a2b9d3a88e8
 
 
-1. Už šiame įstatyme ir Reglamente (EB) Nr. 1907/2006 nustatytų cheminių medžiagų ir preparatų tvarkymo reikalavimų įgyvendinimą yra atsakingi asmenys, tiekiantys rinkai ir naudojantys chemines medžiagas ir preparatus. ^s-831033e6ba74c8e926da1027
+1. Už šiame įstatyme ir [Reglamente (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatytų cheminių medžiagų ir preparatų tvarkymo reikalavimų įgyvendinimą yra atsakingi asmenys, tiekiantys rinkai ir naudojantys chemines medžiagas ir preparatus. ^s-831033e6ba74c8e926da1027
 
 
 2. [[#^s-831033e6ba74c8e926da1027|Šio straipsnio 1 dalyje]] nurodyti asmenys turi: ^s-d48c7cb27349b736678dfef1
@@ -217,7 +217,7 @@ SAUGOS PRIEMONIŲ TAIKYMAS TVARKANT CHEMINES MEDŽIAGAS IR PREPARATUS
 1) nustatyti ir taikyti savo veikloje priemones, šalinančias arba iki minimumo mažinančias neigiamą cheminių medžiagų ir preparatų poveikį žmonių sveikatai ir aplinkai, taip pat įvertinti cheminių medžiagų keliamą riziką ir, jei reikalinga, rekomenduoti tolesniems tiekimo grandinės dalyviams atitinkamas rizikos mažinimo ir saugos priemones; ^s-ddc6d87c3a8e23b2ecc827db
 
 
-2) turėti duomenų apie gaminamų, tiekiamų rinkai, naudojamų ar kitaip tvarkomų cheminių medžiagų ir preparatų savybes, kiekį, taip pat kitą reikalingą informaciją, pagal šio įstatymo ir kitų teisės aktų nustatytus reikalavimus klasifikuoti, pakuoti, ženklinti chemines medžiagas ir preparatus, taip pat Reglamento (EB) Nr. 1907/2006 nustatytais atvejais ir tvarka registruoti chemines medžiagas ir autorizuoti jų naudojimą; ^s-ab61646920fe0c2bea68e691
+2) turėti duomenų apie gaminamų, tiekiamų rinkai, naudojamų ar kitaip tvarkomų cheminių medžiagų ir preparatų savybes, kiekį, taip pat kitą reikalingą informaciją, pagal šio įstatymo ir kitų teisės aktų nustatytus reikalavimus klasifikuoti, pakuoti, ženklinti chemines medžiagas ir preparatus, taip pat [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatytais atvejais ir tvarka registruoti chemines medžiagas ir autorizuoti jų naudojimą; ^s-ab61646920fe0c2bea68e691
 
 
 3) teikti vartotojams ir kitiems suinteresuotiems asmenims informaciją apie tiekiamų rinkai ar kitaip tvarkomų cheminių medžiagų ir preparatų pavojingas savybes, galinčias pakenkti žmonių sveikatai ar aplinkai, taip pat taikytinas rizikos valdymo ir saugos priemones; ^s-df0c4d9e7810ce048353d004
@@ -242,7 +242,7 @@ SAUGOS PRIEMONIŲ TAIKYMAS TVARKANT CHEMINES MEDŽIAGAS IR PREPARATUS
 2) jei informacijos, nurodytos [[#^s-4e33b78917006d27a8660ff7|šio straipsnio 1 dalies 1 punkte]], nepakanka cheminės medžiagos ar preparato savybėms nustatyti, atliekami bandymai. ^s-2f41224184e2c246885d0f7d
 
 
-2. Cheminių medžiagų ir preparatų bandymai atliekami laikantis Reglamento (EB) Nr. 1907/2006 nustatytų reikalavimų. ^s-5ad5e5362521fc255a6b2123
+2. Cheminių medžiagų ir preparatų bandymai atliekami laikantis [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatytų reikalavimų. ^s-5ad5e5362521fc255a6b2123
 
 
 3. Cheminių medžiagų ir preparatų savybės tiriamos geros laboratorinės praktikos principus atitinkančiose Lietuvos Respublikos ar kitų valstybių laboratorijose. Geros laboratorinės praktikos principus, taikomus Lietuvos Respublikos laboratorijoms, nustato Sveikatos apsaugos ministerija kartu su Aplinkos ir Žemės ūkio ministerijomis. Bandymų cheminių medžiagų ir preparatų savybėms nustatyti išlaidas apmoka fiziniai ir juridiniai asmenys, tiekiantys rinkai chemines medžiagas ir preparatus. ^s-b9dd93386b2715e6fd0d15ab
@@ -284,14 +284,14 @@ Gamintojai, importuotojai ar kiti asmenys, prieš tiekdami rinkai chemines medž
 4. Tiekiamų Lietuvos rinkai pavojingų cheminių medžiagų ir preparatų ženklinimo užrašai turi būti lietuvių kalba, išskyrus [[#^s-a7fafd76bf501e8985ea5d2e|šio straipsnio 1 dalyje]] nurodytuose reikalavimuose numatytus atvejus. Šalia užrašo lietuvių kalba gali būti papildomai pateikiami užrašai kitomis kalbomis. Papildomo užrašo tekstas savo prasme turi atitikti užrašą lietuvių kalba. ^s-07668dc6c31f59f5e455e3d0
 
 
-5. Gamintojai, importuotojai ir kiti asmenys, tiekiantys rinkai cheminius preparatus, turinčius bent vieną žmonių sveikatai ar aplinkai pavojingą cheminę medžiagą, ir cheminius preparatus, kurie pagal šio įstatymo [[#^s-3c5c77da314b1592e391a33a|6 straipsnyje]] nurodytus reikalavimus nepriskiriami pavojingiems, tačiau gali kelti pavojų, privalo juos ženklinti pagal pavojingų cheminių medžiagų ir preparatų ženklinimui taikomus reikalavimus, taip pat taikyti šio straipsnio 3 ir [[#^s-07668dc6c31f59f5e455e3d0|4 dalyse]] nustatytus reikalavimus. ^s-201911dc54ffa1cf14b49366
+5. Gamintojai, importuotojai ir kiti asmenys, tiekiantys rinkai cheminius preparatus, turinčius bent vieną žmonių sveikatai ar aplinkai pavojingą cheminę medžiagą, ir cheminius preparatus, kurie pagal šio įstatymo [[#^s-3c5c77da314b1592e391a33a|6 straipsnyje]] nurodytus reikalavimus nepriskiriami pavojingiems, tačiau gali kelti pavojų, privalo juos ženklinti pagal pavojingų cheminių medžiagų ir preparatų ženklinimui taikomus reikalavimus, taip pat taikyti šio straipsnio [[#^s-39c2da366042b541fad8488e|3]] ir [[#^s-07668dc6c31f59f5e455e3d0|4]] dalyse nustatytus reikalavimus. ^s-201911dc54ffa1cf14b49366
 
 
 
 ### 9 straipsnis. Saugos duomenų lapas ir informacijos apie chemines medžiagas ir preparatus perdavimas ^s-431fb262bcdb194049c9ffc8
 
 
-Asmenys, tiekiantys rinkai chemines medžiagas ir preparatus, Reglamento (EB) Nr. 1907/2006 nustatytais atvejais ir pagal šio reglamento reikalavimus privalo pateikti kitiems tiekimo grandinės dalyviams saugos duomenų lapą ar kitą turimą ir svarbią informaciją apie cheminę medžiagą ir preparatą, siekiant užtikrinti jų saugų naudojimą.
+Asmenys, tiekiantys rinkai chemines medžiagas ir preparatus, [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatytais atvejais ir pagal šio reglamento reikalavimus privalo pateikti kitiems tiekimo grandinės dalyviams saugos duomenų lapą ar kitą turimą ir svarbią informaciją apie cheminę medžiagą ir preparatą, siekiant užtikrinti jų saugų naudojimą.
 
 
 
@@ -324,7 +324,7 @@ Gamintojai, importuotojai, eksportuotojai, tolesni naudotojai ir platintojai, ti
 ### 12 straipsnis. Cheminių medžiagų registracija, vertinimas ir autorizacija ^s-1377712ff19cbcfcf074345f
 
 
-Cheminių medžiagų registracija, vertinimas ir autorizacija turi būti atliekami Reglamento (EB) Nr. 1907/2006 nustatytais atvejais ir tvarka.
+Cheminių medžiagų registracija, vertinimas ir autorizacija turi būti atliekami [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatytais atvejais ir tvarka.
 
 
 
@@ -338,32 +338,32 @@ Gamintojai, importuotojai ir tolesni naudotojai privalo kiekvienais metais atlik
 ### 14 straipsnis. Duomenų ir informacijos apie chemines medžiagas ir preparatus rinkimas ir kaupimas ^s-740ba277cbd8a7d67aba1b65
 
 
-1. Gamintojai, importuotojai, naudotojai ir platintojai, tiekiantys rinkai ir naudojantys chemines medžiagas ir preparatus, privalo Aplinkos ministerijos nustatyta ir su Sveikatos apsaugos ministerija suderinta tvarka teikti Aplinkos ministerijos įgaliotai institucijai duomenis ir informaciją apie chemines medžiagas ir preparatus, jų kiekį, savybes ir galimą poveikį žmonių sveikatai ir aplinkai, išskyrus duomenis apie chemines medžiagas ir preparatus, nurodytus šio straipsnio 2 ir [[#^s-2c07e4bbbd764065e1d58f4a|3 dalyse]]. ^s-c730df830581743fa44e1b56
+1. Gamintojai, importuotojai, naudotojai ir platintojai, tiekiantys rinkai ir naudojantys chemines medžiagas ir preparatus, privalo Aplinkos ministerijos nustatyta ir su Sveikatos apsaugos ministerija suderinta tvarka teikti Aplinkos ministerijos įgaliotai institucijai duomenis ir informaciją apie chemines medžiagas ir preparatus, jų kiekį, savybes ir galimą poveikį žmonių sveikatai ir aplinkai, išskyrus duomenis apie chemines medžiagas ir preparatus, nurodytus šio straipsnio [[#^s-63daabc4e76fd61bf2450088|2]] ir [[#^s-2c07e4bbbd764065e1d58f4a|3]] dalyse. ^s-c730df830581743fa44e1b56
 
 
-2. Asmenys, importuojantys ir eksportuojantys, taip pat įvežantys į Lietuvos Respubliką iš Europos Sąjungos valstybių narių ir Europos ekonominei erdvei priklausančių šalių ir išvežantys iš jos į Europos Sąjungos valstybes nares ir Europos ekonominei erdvei priklausančias šalis ozono sluoksnį ardančias medžiagas, naudojantys ir utilizuojantys šias medžiagas, taip pat asmenys, atliekantys jų recirkuliaciją regeneraciją arba naikinantys jas, duomenis ir informaciją apie importuojamų, eksportuojamų, įvežamų, išvežamų, sunaudojamų, utilizuojamų, recirkuliuojamų bei regeneruojamų ir sunaikinamų ozono sluoksnį ardančių medžiagų kiekį privalo teikti Aplinkos ministerijai ar jos įgaliotai institucijai Aplinkos ministerijos ir 2000 m. birželio 29 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 2037/2000 dėl ozono sluoksnį ardančių medžiagų (OL 2004 m. specialusis leidimas, 15 skyrius, 5 tomas, p. 190) nustatyta tvarka. ^s-63daabc4e76fd61bf2450088
+2. Asmenys, importuojantys ir eksportuojantys, taip pat įvežantys į Lietuvos Respubliką iš Europos Sąjungos valstybių narių ir Europos ekonominei erdvei priklausančių šalių ir išvežantys iš jos į Europos Sąjungos valstybes nares ir Europos ekonominei erdvei priklausančias šalis ozono sluoksnį ardančias medžiagas, naudojantys ir utilizuojantys šias medžiagas, taip pat asmenys, atliekantys jų recirkuliaciją regeneraciją arba naikinantys jas, duomenis ir informaciją apie importuojamų, eksportuojamų, įvežamų, išvežamų, sunaudojamų, utilizuojamų, recirkuliuojamų bei regeneruojamų ir sunaikinamų ozono sluoksnį ardančių medžiagų kiekį privalo teikti Aplinkos ministerijai ar jos įgaliotai institucijai Aplinkos ministerijos ir 2000 m. birželio 29 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 2037/2000](https://eur-lex.europa.eu/eli/reg/2037/2000/oj) dėl ozono sluoksnį ardančių medžiagų (OL 2004 m. specialusis leidimas, 15 skyrius, 5 tomas, p. 190) nustatyta tvarka. ^s-63daabc4e76fd61bf2450088
 
 
 3. Duomenys ir informacija apie tiekiamus rinkai cheminius augalų apsaugos produktus turi būti teikiami Žemės ūkio ministerijai ar jos įgaliotai institucijai Žemės ūkio ministerijos nustatyta tvarka, o apie tiekiamus rinkai ir naudojamus biocidinius produktus, taip pat apie tiekiamus ir naudojamus cheminius preparatus, kurie laikomi pavojingais dėl jų poveikio žmonių sveikatai ar dėl fizikinių cheminių savybių apsinuodijimų prevencijai ir gydymui užtikrinti – Sveikatos apsaugos ministerijai ar jos įgaliotai institucijai Sveikatos apsaugos ministerijos nustatyta tvarka. ^s-2c07e4bbbd764065e1d58f4a
 
 
-4. Šio straipsnio 1, 2 ir [[#^s-2c07e4bbbd764065e1d58f4a|3 dalyse]] nurodytos valstybės institucijos analizuoja ir apibendrina pateiktus duomenis, juos kaupia ir naudoja informacinėms cheminių medžiagų ir preparatų duomenų bazėms tvarkyti, taip pat pagal savo kompetenciją, nepažeisdamos šio įstatymo [[#^s-947a257767eeb546d5ced4ec|15 straipsnio]] nuostatų, teikia informaciją suinteresuotiems asmenims apie cheminių medžiagų ir preparatų savybes, poveikį ir keliamą riziką žmonių sveikatai ir aplinkai. ^s-737d9cd4f3478c476b16c44d
+4. Šio straipsnio [[#^s-c730df830581743fa44e1b56|1]], [[#^s-63daabc4e76fd61bf2450088|2]] ir [[#^s-2c07e4bbbd764065e1d58f4a|3]] dalyse nurodytos valstybės institucijos analizuoja ir apibendrina pateiktus duomenis, juos kaupia ir naudoja informacinėms cheminių medžiagų ir preparatų duomenų bazėms tvarkyti, taip pat pagal savo kompetenciją, nepažeisdamos šio įstatymo [[#^s-947a257767eeb546d5ced4ec|15 straipsnio]] nuostatų, teikia informaciją suinteresuotiems asmenims apie cheminių medžiagų ir preparatų savybes, poveikį ir keliamą riziką žmonių sveikatai ir aplinkai. ^s-737d9cd4f3478c476b16c44d
 
 
-5. Asmenys, pateikę duomenis apie šio straipsnio 1, 2 ir [[#^s-2c07e4bbbd764065e1d58f4a|3 dalyse]] nurodytas chemines medžiagas ir preparatus, gavę naujos papildomos informacijos apie cheminių medžiagų ar preparatų pavojingumą žmonių sveikatai ar aplinkai, privalo apie tai nedelsdami pranešti šio straipsnio 1, 2 ir [[#^s-2c07e4bbbd764065e1d58f4a|3 dalyse]] išvardytoms valstybės institucijoms. ^s-85c2ad429697f98fe7d7d6d5
+5. Asmenys, pateikę duomenis apie šio straipsnio [[#^s-c730df830581743fa44e1b56|1]], [[#^s-63daabc4e76fd61bf2450088|2]] ir [[#^s-2c07e4bbbd764065e1d58f4a|3]] dalyse nurodytas chemines medžiagas ir preparatus, gavę naujos papildomos informacijos apie cheminių medžiagų ar preparatų pavojingumą žmonių sveikatai ar aplinkai, privalo apie tai nedelsdami pranešti šio straipsnio [[#^s-c730df830581743fa44e1b56|1]], [[#^s-63daabc4e76fd61bf2450088|2]] ir [[#^s-2c07e4bbbd764065e1d58f4a|3]] dalyse išvardytoms valstybės institucijoms. ^s-85c2ad429697f98fe7d7d6d5
 
 
 
 ### 15 straipsnis. Duomenų ir informacijos apie chemines medžiagas ir preparatus konfidencialumas ^s-947a257767eeb546d5ced4ec
 
 
-1. Asmenys, teikdami duomenis ir informaciją apie chemines medžiagas ir preparatus šio įstatymo [[#^s-740ba277cbd8a7d67aba1b65|14 straipsnio]] 1, 2 ir [[#^s-64bdc44069b2aeed54e29d27|3 dalyse]] išvardytoms valstybės institucijoms, nepažeisdami Reglamento (EB) Nr. 1907/2006 atitinkamų nuostatų, gali nurodyti, kokius duomenis ir informaciją jie laiko komercine ir pramonine paslaptimi, pateikdami kartu atitinkamą pagrindimą. Tokie duomenys ir informacija gali būti teikiami kitiems asmenims tik pagal šiuos duomenis ir informaciją pateikusio asmens rašytinį sutikimą. ^s-b30dab989d2984244413b9fa
+1. Asmenys, teikdami duomenis ir informaciją apie chemines medžiagas ir preparatus šio įstatymo [[#^s-740ba277cbd8a7d67aba1b65|14 straipsnio]] [[#^s-c730df830581743fa44e1b56|1]], [[#^s-63daabc4e76fd61bf2450088|2]] ir [[#^s-2c07e4bbbd764065e1d58f4a|3]] dalyse išvardytoms valstybės institucijoms, nepažeisdami [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) atitinkamų nuostatų, gali nurodyti, kokius duomenis ir informaciją jie laiko komercine ir pramonine paslaptimi, pateikdami kartu atitinkamą pagrindimą. Tokie duomenys ir informacija gali būti teikiami kitiems asmenims tik pagal šiuos duomenis ir informaciją pateikusio asmens rašytinį sutikimą. ^s-b30dab989d2984244413b9fa
 
 
-2. Asmenys, teikdami duomenis ir informaciją apie chemines medžiagas ir preparatus šio įstatymo [[#^s-740ba277cbd8a7d67aba1b65|14 straipsnio]] 1, 2 ir [[#^s-64bdc44069b2aeed54e29d27|3 dalyse]] išvardytoms valstybės institucijoms, turi teisę pasinaudoti cheminės medžiagos, esančios preparato sudėtyje, cheminio pavadinimo slaptumo (konfidencialumo) išsaugojimu tik atvejais, nurodytais Aplinkos ministerijos nustatytuose ir su Sveikatos apsaugos ir Žemės ūkio ministerijomis suderintuose duomenų ir informacijos apie chemines medžiagas ir preparatus teikimo reikalavimuose. ^s-cb1428f55d68e8375b5aec19
+2. Asmenys, teikdami duomenis ir informaciją apie chemines medžiagas ir preparatus šio įstatymo [[#^s-740ba277cbd8a7d67aba1b65|14 straipsnio]] [[#^s-c730df830581743fa44e1b56|1]], [[#^s-63daabc4e76fd61bf2450088|2]] ir [[#^s-2c07e4bbbd764065e1d58f4a|3]] dalyse išvardytoms valstybės institucijoms, turi teisę pasinaudoti cheminės medžiagos, esančios preparato sudėtyje, cheminio pavadinimo slaptumo (konfidencialumo) išsaugojimu tik atvejais, nurodytais Aplinkos ministerijos nustatytuose ir su Sveikatos apsaugos ir Žemės ūkio ministerijomis suderintuose duomenų ir informacijos apie chemines medžiagas ir preparatus teikimo reikalavimuose. ^s-cb1428f55d68e8375b5aec19
 
 
-3. Informacija apie chemines medžiagas ir preparatus ir duomenys, kurie pagal Reglamento (EB) Nr. 1907/2006 nuostatas negali būti laikomi komercine ir pramonine paslaptimi ir kurie pagal Lietuvos Respublikos įstatymus nėra priskirti valstybės ar tarnybos paslaptims, turi būti skelbiami viešai. Šio įstatymo [[#^s-740ba277cbd8a7d67aba1b65|14 straipsnio]] 1, 2 ir [[#^s-64bdc44069b2aeed54e29d27|3 dalyse]] ir [[#^s-f3039eb98863fec51b552628|19 straipsnyje]] išvardytos valstybės institucijos nustatyta tvarka turi teisę gauti iš bet kurio asmens visą veiklos valstybinei kontrolei atlikti reikalingą informaciją ir duomenis, tarp jų ir duomenis bei informaciją, kurie laikomi valstybės ar tarnybos ir komercine bei pramonine paslaptimi. Šios valstybės institucijos atsako už gautų duomenų ir informacijos, kurie yra valstybės ar tarnybos ir komercinė bei pramoninė paslaptis, apsaugą. ^s-64bdc44069b2aeed54e29d27
+3. Informacija apie chemines medžiagas ir preparatus ir duomenys, kurie pagal [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nuostatas negali būti laikomi komercine ir pramonine paslaptimi ir kurie pagal Lietuvos Respublikos įstatymus nėra priskirti valstybės ar tarnybos paslaptims, turi būti skelbiami viešai. Šio įstatymo [[#^s-740ba277cbd8a7d67aba1b65|14 straipsnio]] [[#^s-c730df830581743fa44e1b56|1]], [[#^s-63daabc4e76fd61bf2450088|2]] ir [[#^s-2c07e4bbbd764065e1d58f4a|3]] dalyse ir [[#^s-f3039eb98863fec51b552628|19 straipsnyje]] išvardytos valstybės institucijos nustatyta tvarka turi teisę gauti iš bet kurio asmens visą veiklos valstybinei kontrolei atlikti reikalingą informaciją ir duomenis, tarp jų ir duomenis bei informaciją, kurie laikomi valstybės ar tarnybos ir komercine bei pramonine paslaptimi. Šios valstybės institucijos atsako už gautų duomenų ir informacijos, kurie yra valstybės ar tarnybos ir komercinė bei pramoninė paslaptis, apsaugą. ^s-64bdc44069b2aeed54e29d27
 
 
 
@@ -375,10 +375,10 @@ CHEMINIŲ MEDŽIAGŲ IR PREPARATŲ IMPORTAS IR EKSPORTAS
 ### 16 straipsnis. Cheminių medžiagų ir preparatų importas ir eksportas ^s-d01a62785e5447142522bacb
 
 
-1. Cheminės medžiagos ir preparatai, neįrašyti į draudžiamų ir ribojamų tiekti rinkai ir naudoti medžiagų sąrašus, patvirtintus sveikatos apsaugos ministro, taip pat į Reglamento (EB) Nr. 1907/2006 sąrašus, importuojami laikantis šio įstatymo ir kitų Lietuvos Respublikos ir Europos Sąjungos teisės aktų reikalavimų. ^s-673552c0a24e5201f4b3fd84
+1. Cheminės medžiagos ir preparatai, neįrašyti į draudžiamų ir ribojamų tiekti rinkai ir naudoti medžiagų sąrašus, patvirtintus sveikatos apsaugos ministro, taip pat į [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) sąrašus, importuojami laikantis šio įstatymo ir kitų Lietuvos Respublikos ir Europos Sąjungos teisės aktų reikalavimų. ^s-673552c0a24e5201f4b3fd84
 
 
-2. Pavojingos cheminės medžiagos ir preparatai, kurių tiekimas rinkai ir naudojimas draudžiamas arba ribojamas, importuojami pagal Sveikatos apsaugos ministerijos ir Reglamento (EB) Nr. 1907/2006 nustatytas tiekimo rinkai ir naudojimo apribojimo sąlygas. Šios cheminės medžiagos ir preparatai importuojami ir eksportuojami taip pat pagal kitų Lietuvos Respublikos ir Europos Sąjungos teisės aktų bei tarptautinių sutarčių nustatytas procedūras. ^s-7400d12335b97ef9a9acec16
+2. Pavojingos cheminės medžiagos ir preparatai, kurių tiekimas rinkai ir naudojimas draudžiamas arba ribojamas, importuojami pagal Sveikatos apsaugos ministerijos ir [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatytas tiekimo rinkai ir naudojimo apribojimo sąlygas. Šios cheminės medžiagos ir preparatai importuojami ir eksportuojami taip pat pagal kitų Lietuvos Respublikos ir Europos Sąjungos teisės aktų bei tarptautinių sutarčių nustatytas procedūras. ^s-7400d12335b97ef9a9acec16
 
 
 3. Aplinkos ministerija ar jos įgaliota institucija pagal kompetenciją atlieka su pavojingų cheminių medžiagų ir preparatų bei jų turinčių gaminių importu ir eksportu susijusias administravimo funkcijas, nustatytas Reglamente (EB) Nr. 304/2003. ^s-f1b6c031af89a6e3f05de34f
@@ -427,10 +427,10 @@ CHEMINIŲ MEDŽIAGŲ, PREPARATŲ IR GAMINIŲ GAMYBOS, TIEKIMO RINKAI IR NAUDOJIM
 7. Kompetentinga institucija apie savo sprendimą dėl laikinųjų priemonių taikymo, nurodytą [[#^s-996d3a0892d48e789baca557|šio straipsnio 4 dalyje]], ir tokio sprendimo priėmimo priežastis nedelsdama privalo informuoti Europos Komisiją, Europos cheminių medžiagų agentūrą ir kitas Europos Sąjungos valstybes nares, kartu pateikdama informaciją, pagrindžiančią laikinąsias priemones. ^s-5f1d436c62e6b101be68670e
 
 
-8. Gavusi Europos Komisijos išvadas dėl laikinųjų priemonių taikymo, patvirtinančias arba įpareigojančias atšaukti Lietuvos Respublikos teritorijoje laikinųjų priemonių taikymą, kompetentinga institucija inicijuoja apribojimo procedūrą Reglamento (EB) Nr. 1907/2006 nustatyta tvarka arba prireikus pakeičia ar panaikina [[#^s-996d3a0892d48e789baca557|šio straipsnio 4 dalyje]] nurodytą sprendimą. ^s-86f26ab6936eb520c2f55589
+8. Gavusi Europos Komisijos išvadas dėl laikinųjų priemonių taikymo, patvirtinančias arba įpareigojančias atšaukti Lietuvos Respublikos teritorijoje laikinųjų priemonių taikymą, kompetentinga institucija inicijuoja apribojimo procedūrą [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatyta tvarka arba prireikus pakeičia ar panaikina [[#^s-996d3a0892d48e789baca557|šio straipsnio 4 dalyje]] nurodytą sprendimą. ^s-86f26ab6936eb520c2f55589
 
 
-9. Šio straipsnio 4 ir [[#^s-86f26ab6936eb520c2f55589|8 dalyse]] nurodyti sprendimai turi būti skelbiami leidinyje „Valstybės žinios“. ^s-a5b12c597d22b047ab7f18a1
+9. Šio straipsnio [[#^s-996d3a0892d48e789baca557|4]] ir [[#^s-86f26ab6936eb520c2f55589|8]] dalyse nurodyti sprendimai turi būti skelbiami leidinyje „Valstybės žinios“. ^s-a5b12c597d22b047ab7f18a1
 
 
 
@@ -438,7 +438,7 @@ CHEMINIŲ MEDŽIAGŲ, PREPARATŲ IR GAMINIŲ GAMYBOS, TIEKIMO RINKAI IR NAUDOJIM
 ### 18 straipsnis. Pavojingų cheminių medžiagų, preparatų ir gaminių gamybos, tiekimo rinkai ir naudojimo apribojimai ^s-52c775d817a5406d253820f6
 
 
-1. Chemines medžiagas ir preparatus, kuriems pagal Reglamentą (EB) Nr. 1907/2006 taikomi gamybos, tiekimo rinkai ir naudojimo apribojimai, išskyrus šiuo reglamentu nustatytas išimtis, ir kurie įrašyti į šio reglamento Pavojingų cheminių medžiagų, preparatų ir gaminių gamybos, tiekimo rinkai ir naudojimo apribojimų sąrašą, draudžiama gaminti, tiekti rinkai ir naudoti, jeigu jie neatitinka Reglamentu (EB) Nr. 1907/2006 nustatytų apribojimo sąlygų. ^s-5496b84795e2d965c500b236
+1. Chemines medžiagas ir preparatus, kuriems pagal [Reglamentą (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) taikomi gamybos, tiekimo rinkai ir naudojimo apribojimai, išskyrus šiuo reglamentu nustatytas išimtis, ir kurie įrašyti į šio reglamento Pavojingų cheminių medžiagų, preparatų ir gaminių gamybos, tiekimo rinkai ir naudojimo apribojimų sąrašą, draudžiama gaminti, tiekti rinkai ir naudoti, jeigu jie neatitinka [Reglamentu (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatytų apribojimo sąlygų. ^s-5496b84795e2d965c500b236
 
 
 2. Pavojingas chemines medžiagas ir preparatus, įrašytus į sveikatos apsaugos ministro patvirtintą Draudžiamų ir ribojamų medžiagų sąrašą, draudžiama tiekti rinkai ir naudoti, jeigu jie neatitinka šiame sąraše nustatytų apribojimo sąlygų. ^s-1351d879f8a798867e619739
@@ -447,7 +447,7 @@ CHEMINIŲ MEDŽIAGŲ, PREPARATŲ IR GAMINIŲ GAMYBOS, TIEKIMO RINKAI IR NAUDOJIM
 3. Gamintojai, importuotojai, tolesni naudotojai, platintojai uždraustas tiekti rinkai ir naudoti pavojingas chemines medžiagas ir preparatus, taip pat jų turinčius gaminius, privalo savo lėšomis išimti iš apyvartos ir užtikrinti, kad išimant iš apyvartos nebūtų padaryta žalos žmonių sveikatai ir aplinkai. ^s-c97caf9399d358c0141fb652
 
 
-4. Gamintojai, importuotojai, tolesni naudotojai, platintojai ribojamas tiekti rinkai ir naudoti pavojingas chemines medžiagas ir preparatus, taip pat jų turinčius gaminius, jeigu jie tiekiami rinkai ir naudojami pažeidžiant Sveikatos apsaugos ministerijos ar Reglamento (EB) Nr. 1907/2006 nustatytas apribojimo sąlygas, privalo savo lėšomis išimti iš apyvartos ir užtikrinti, kad išimant iš apyvartos nebūtų padaryta žalos žmonių sveikatai ir aplinkai. ^s-fb0a5e3d63fe99ce58bed5e5
+4. Gamintojai, importuotojai, tolesni naudotojai, platintojai ribojamas tiekti rinkai ir naudoti pavojingas chemines medžiagas ir preparatus, taip pat jų turinčius gaminius, jeigu jie tiekiami rinkai ir naudojami pažeidžiant Sveikatos apsaugos ministerijos ar [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatytas apribojimo sąlygas, privalo savo lėšomis išimti iš apyvartos ir užtikrinti, kad išimant iš apyvartos nebūtų padaryta žalos žmonių sveikatai ir aplinkai. ^s-fb0a5e3d63fe99ce58bed5e5
 
 
 5. Pavojingų cheminių medžiagų ir preparatų, jų turinčių gaminių, kurių tiekimas rinkai ir naudojimas draudžiamas arba apribojamas, išėmimo iš apyvartos reikalavimus nustato Sveikatos apsaugos ministerija, suderinusi su Aplinkos, Socialinės apsaugos ir darbo, Ūkio ministerijomis ir Valstybine ne maisto produktų inspekcija prie Ūkio ministerijos. ^s-a6c8a6a36526b208aac6b854

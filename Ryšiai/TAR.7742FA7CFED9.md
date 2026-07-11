@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos valstybės skolos įstatymo 4, 7 ir 9 straips
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.EBB4FD337ADE|Lietuvos Respublikos finansinio tvarumo įstatymas]] - 3 citatos - Lietuvos Respublikos finansinio tvarumo įstatyme
+- [[latest/TAR.EBB4FD337ADE|Lietuvos Respublikos finansinio tvarumo įstatymas]] - 2 citatos - Lietuvos Respublikos finansinio tvarumo įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.5C23DECF6210#^s-86ae68ae2377c87201301f0f|Lietuvos Respublikos valstybės skolos įstatymas]] - 2 citatos - VALSTYBĖS SKOLOS ĮSTATYMO 4, 7 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.5C23DECF6210#^s-86ae68ae2377c87201301f0f|Lietuvos Respublikos valstybės skolos įstatymas]] - VALSTYBĖS SKOLOS ĮSTATYMO 4, 7 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

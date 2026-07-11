@@ -55,7 +55,7 @@ Vilnius
 „[[#^s-8dab59ea917d2b6a72886144|4 straipsnis]]. Administracinių teismų teisėjų darbo apmokėjimas
 
 
-Iki Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo įgyvendinimo pradžios paskirtiems į pareigas apygardos administracinio teismo pirmininkui, pirmininko pavaduotojui ir teisėjui mokama atitinkamai bendrosios kompetencijos apygardos teismo pirmininko, skyriaus pirmininko ir teisėjo pareiginė alga. Šiuo laikotarpiu į pareigas paskirtų Lietuvos vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo ir teisėjo pareiginė alga yra atitinkamai lygi Lietuvos Aukščiausiojo Teismo pirmininko, skyriaus pirmininko ir teisėjo bei Lietuvos apeliacinio teismo pirmininko, skyriaus pirmininko ir teisėjo pareiginių algų vidurkiui.“
+Iki Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) įgyvendinimo pradžios paskirtiems į pareigas apygardos administracinio teismo pirmininkui, pirmininko pavaduotojui ir teisėjui mokama atitinkamai bendrosios kompetencijos apygardos teismo pirmininko, skyriaus pirmininko ir teisėjo pareiginė alga. Šiuo laikotarpiu į pareigas paskirtų Lietuvos vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo ir teisėjo pareiginė alga yra atitinkamai lygi Lietuvos Aukščiausiojo Teismo pirmininko, skyriaus pirmininko ir teisėjo bei Lietuvos apeliacinio teismo pirmininko, skyriaus pirmininko ir teisėjo pareiginių algų vidurkiui.“
 
 
 

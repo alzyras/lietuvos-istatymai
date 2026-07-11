@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-34f11497086da386118a90e0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. liepos 24 d. dekretą Nr. 1854, ratifikuoja Lietuvos Respublikos Vyriausybės ir Švedijos Karalystės Vyriausybės bendrąją saugumo sutartį dėl įslaptintos informacijos abipusės apsaugos, pasirašytą 2002 m. kovo 21 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. liepos 24 d. dekretą Nr. 1854](https://e-tar.lt/portal/lt/legalAct/TAR.8054D9EC819D), ratifikuoja Lietuvos Respublikos Vyriausybės ir Švedijos Karalystės Vyriausybės bendrąją saugumo sutartį dėl įslaptintos informacijos abipusės apsaugos, pasirašytą 2002 m. kovo 21 d. Vilniuje.
 
 
 

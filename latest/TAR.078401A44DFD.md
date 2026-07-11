@@ -270,10 +270,10 @@ Donoras privalo:
 3. Kraujo donorų registro duomenys tvarkomi siekiant identifikuoti kraujo ir kraujo sudėtinių dalių donorus. ^s-f47e7bf7788430ca0c3e0896
 
 
-4. Registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. Registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus bei [[latest/TAR.C6E4170DB704|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme]] nustatytus sveikatos duomenų teikimo pacientams reikalavimus. ^s-63ca11d5966cfbded7cea953
+4. Registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. Registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus bei [[latest/TAR.C6E4170DB704|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme]] nustatytus sveikatos duomenų teikimo pacientams reikalavimus. ^s-63ca11d5966cfbded7cea953
 
 
-5. Registro informacinės sistemos duomenys gali būti teikiami pakartotinai naudoti vadovaujantis [[latest/0457ba8067e611eca9ac839120d251c4|Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatymo]] nuostatomis arba kitu teisėtu pagrindu, nustatytu Reglamente (ES) 2016/679 arba specialiuosiuose įstatymuose, reglamentuojančiuose asmens duomenų tvarkymą asmens sutikimu. Asmens duomenis teikti pakartotinai naudoti galima tik kai yra bent vienas teisėtas duomenų tvarkymo pagrindas pagal Reglamento (ES) 2016/679 [[#^s-8319bec6c829ea23a1654df2|6 straipsnį]], o jeigu bus tvarkomi specialių kategorijų (sveikatos) duomenys, taikoma bent viena iš šio reglamento [[#^s-c90bd742b6dfec58225442d1|9 straipsnio 2 dalyje]] nustatytų išimčių, leidžiančių tvarkyti specialių kategorijų (sveikatos) duomenis, ir toks tvarkymas atitinka Reglamento (ES) 2016/679 [[#^s-9d39c382594bea9a6a4ccd10|5 straipsnyje]] nustatytus duomenų tvarkymo principus. ^s-525a55c117449df3f5dc10f3
+5. Registro informacinės sistemos duomenys gali būti teikiami pakartotinai naudoti vadovaujantis [[latest/0457ba8067e611eca9ac839120d251c4|Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatymo]] nuostatomis arba kitu teisėtu pagrindu, nustatytu [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) arba specialiuosiuose įstatymuose, reglamentuojančiuose asmens duomenų tvarkymą asmens sutikimu. Asmens duomenis teikti pakartotinai naudoti galima tik kai yra bent vienas teisėtas duomenų tvarkymo pagrindas pagal [Reglamento (ES) 2016/679 6 straipsnį](https://eur-lex.europa.eu/eli/reg/2016/679/art_6/oj), o jeigu bus tvarkomi specialių kategorijų (sveikatos) duomenys, taikoma bent viena iš šio reglamento [[#^s-c90bd742b6dfec58225442d1|9 straipsnio 2 dalyje]] nustatytų išimčių, leidžiančių tvarkyti specialių kategorijų (sveikatos) duomenis, ir toks tvarkymas atitinka [Reglamento (ES) 2016/679 5 straipsnyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_5/oj) nustatytus duomenų tvarkymo principus. ^s-525a55c117449df3f5dc10f3
 
 
 6. Registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra atveriami pakartotinai naudoti. ^s-6e589880a84e0814ac1bca7e
@@ -372,7 +372,7 @@ Asmenys, pažeidę šio įstatymo reikalavimus, atsako Lietuvos Respublikos įst
 1. Šis įstatymas įsigalioja nuo 1997 m. sausio 1 d. ^s-1af3d1462f56939db379a44d
 
 
-2. Šio įstatymo [[#^s-f1ed20076a70e947e7f39990|3 straipsnis]], [[#^s-799ce899f2d717b3405947f9|5 straipsnio 3 dalis]], [[#^s-5052266fcbb7074e7bc00ae5|7 straipsnio 1 dalies 7 punktas]], 9, 12 ir [[#^s-cb622145a5707a10557455f4|14 straipsniai]] įsigalioja, o [[#^s-35799080381ccc5f0863cbe2|71 straipsnis]] netenka galios nuo 1997 m. liepos 1 d. ^s-b6afc21404a937c20b13acaa
+2. Šio įstatymo [[#^s-f1ed20076a70e947e7f39990|3 straipsnis]], [[#^s-799ce899f2d717b3405947f9|5 straipsnio 3 dalis]], [[#^s-5052266fcbb7074e7bc00ae5|7 straipsnio 1 dalies 7 punktas]], [[#^s-8ff016c4c5007b98713ecb00|9]], 12 ir [[#^s-cb622145a5707a10557455f4|14]] straipsniai įsigalioja, o [[#^s-35799080381ccc5f0863cbe2|71 straipsnis]] netenka galios nuo 1997 m. liepos 1 d. ^s-b6afc21404a937c20b13acaa
 
 
 
@@ -421,29 +421,29 @@ Nr. XI-1147, 2010-11-18, Žin., 2010, Nr. 142-7262 (2010-12-04), i. k. [[latest/
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-918, 2014-06-05, paskelbta TAR 2014-06-11, i. k. 2014-07396
-Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 1 ir [[#^s-436576c46fca46975ba6bed5|2 straipsnių]] pakeitimo ir Įstatymo papildymo priedu įstatymas
+Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 [[#^s-85b3596b4d8722618d4592b6|1]] ir [[#^s-436576c46fca46975ba6bed5|2]] straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1439, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20558
-Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 1, 2, 3, [[#^s-95847b5ccf79f6fcd0756cf2|16 straipsnių]] ir VI skyriaus pavadinimo pakeitimo įstatymas
+Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 [[#^s-85b3596b4d8722618d4592b6|1]], [[#^s-436576c46fca46975ba6bed5|2]], [[#^s-f1ed20076a70e947e7f39990|3]], [[#^s-95847b5ccf79f6fcd0756cf2|16]] straipsnių ir VI skyriaus pavadinimo pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2316, 2016-04-14, paskelbta TAR 2016-04-19, i. k. 2016-10092
-Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 4 ir [[#^s-150362d9a5575587def4c0e9|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 [[#^s-7f9b8a3da14d8035441d596d|4]] ir [[#^s-150362d9a5575587def4c0e9|7]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-159, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29853
-Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 4 ir [[#^s-150362d9a5575587def4c0e9|7 straipsnių]] pakeitimo [[latest/73e5d740062811e6a238c18f7a3f1736|įstatymo Nr. XII-2316]] [[#^s-f1ed20076a70e947e7f39990|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 [[#^s-7f9b8a3da14d8035441d596d|4]] ir [[#^s-150362d9a5575587def4c0e9|7]] straipsnių pakeitimo [[latest/73e5d740062811e6a238c18f7a3f1736|įstatymo Nr. XII-2316]] [[#^s-f1ed20076a70e947e7f39990|3 straipsnio]] pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-673, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16703
-Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 4 ir [[#^s-150362d9a5575587def4c0e9|7 straipsnių]] pakeitimo [[latest/73e5d740062811e6a238c18f7a3f1736|įstatymo Nr. XII-2316]] [[#^s-85b3596b4d8722618d4592b6|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 [[#^s-7f9b8a3da14d8035441d596d|4]] ir [[#^s-150362d9a5575587def4c0e9|7]] straipsnių pakeitimo [[latest/73e5d740062811e6a238c18f7a3f1736|įstatymo Nr. XII-2316]] [[#^s-85b3596b4d8722618d4592b6|1 straipsnio]] pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-605, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20817
-Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 2, 4 ir [[#^s-8ff016c4c5007b98713ecb00|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kraujo donorystės įstatymo Nr. I-1611 [[#^s-436576c46fca46975ba6bed5|2]], [[#^s-7f9b8a3da14d8035441d596d|4]] ir [[#^s-8ff016c4c5007b98713ecb00|9]] straipsnių pakeitimo įstatymas

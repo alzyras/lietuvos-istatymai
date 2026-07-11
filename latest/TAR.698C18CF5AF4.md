@@ -129,7 +129,7 @@ Pakeisti 33 straipsnio 7 dalį ir ją išdėstyti taip:
 ### 8 straipsnis. Įstatymo įsigaliojimas ^s-a4ca628823d45d2c5776c074
 
 
-Šis įstatymas, išskyrus 3 ir [[#^s-1a62681e41a2f347e4fb82d7|7 straipsnius]], įsigalioja 2009 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-669ce046e2b26c629e45c781|3]] ir [[#^s-1a62681e41a2f347e4fb82d7|7]] straipsnius, įsigalioja 2009 m. sausio 1 d.
 
 
 

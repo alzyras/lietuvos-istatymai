@@ -104,14 +104,14 @@ Pakeisti Lietuvos Respublikos mokėjimų, atliekamų pagal komercinius sandorius
 6. Ūkio subjektas – asmuo, kuris įstatymų nustatyta tvarka verčiasi ūkine komercine ar profesine veikla. ^s-d340de6bf0e9cb58420cfc42
 
 
-7. Viešasis subjektas – [[latest/TAR.C54AFFAA7622#^s-a2241785d9ea381289d24959|Lietuvos Respublikos viešųjų pirkimų įstatymo 4 straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodyta perkančioji organizacija. ^s-eb740c7bb00d81934f130cfa
+7. Viešasis subjektas – [[latest/TAR.C54AFFAA7622#^s-a2241785d9ea381289d24959|Lietuvos Respublikos viešųjų pirkimų įstatymo 4 straipsnio 1 dalies]] [[latest/TAR.C54AFFAA7622#^s-f0fe9cdb0d8a137daccdeb81|1]], [[latest/TAR.C54AFFAA7622#^s-b4b85b01937be976fbe5fadb|2]] ir [[latest/TAR.C54AFFAA7622|3]] punktuose nurodyta perkančioji organizacija. ^s-eb740c7bb00d81934f130cfa
 
 
 
 ### 3 straipsnis. Teisės į palūkanas atsiradimas ir šiame įstatyme nustatytų palūkanų skaičiavimas ^s-e7a363db9b5fa055bde39d06
 
 
-1. Pasibaigus šio įstatymo [[#^s-ac63005f2b7e0fdf3e3aabe6|4 straipsnyje]] ir [[#^s-e7995fc706bee08b421b86e0|5 straipsnio]] 1, 3 ar 4 dalyse nurodytiems laikotarpiams, kreditorius turi teisę į komercinėje sutartyje ar šiame įstatyme nustatytas palūkanas be įspėjimo skolininkui, jeigu kreditorius: ^s-7bcabe44b9aaccff7135b3e3
+1. Pasibaigus šio įstatymo [[#^s-ac63005f2b7e0fdf3e3aabe6|4 straipsnyje]] ir [[#^s-e7995fc706bee08b421b86e0|5 straipsnio]] [[#^s-92203186168202fb1fc1ebb1|1]], [[#^s-23479be7fffd529f043f60cc|3]] ar [[#^s-3130fbd4054f302a1ba56318|4]] dalyse nurodytiems laikotarpiams, kreditorius turi teisę į komercinėje sutartyje ar šiame įstatyme nustatytas palūkanas be įspėjimo skolininkui, jeigu kreditorius: ^s-7bcabe44b9aaccff7135b3e3
 
 
 1) ir įvykdė komercinėje sutartyje ir (ar) įstatymuose jam nustatytas pareigas, ^s-383c158170469b5579d918c3
@@ -215,7 +215,7 @@ Jeigu komercinėje sutartyje yra nustatytas mokėjimas dalimis ir komercinėje s
 2) prekės, paslaugos ar darbų pobūdį; ^s-c31a472265e2d434f0a332d3
 
 
-3) aplinkybę, ar skolininkas nukrypo nuo šiame įstatyme nustatytų palūkanų dydžio, šio įstatymo [[#^s-ac63005f2b7e0fdf3e3aabe6|4 straipsnyje]], [[#^s-e7995fc706bee08b421b86e0|5 straipsnio]] 1, 3 ar [[#^s-4a7f7d133700a4494e0868b9|4 dalyje]] nustatyto mokėjimo laikotarpio arba nuo šio įstatymo [[#^s-5eab73f4ae2088bab6fe362a|7 straipsnio 1 dalyje]] nustatytos išieškojimo išlaidų sumos dėl objektyvių priežasčių. ^s-3e85b148dd7f13f0ac2d704d
+3) aplinkybę, ar skolininkas nukrypo nuo šiame įstatyme nustatytų palūkanų dydžio, šio įstatymo [[#^s-ac63005f2b7e0fdf3e3aabe6|4 straipsnyje]], [[#^s-e7995fc706bee08b421b86e0|5 straipsnio]] [[#^s-92203186168202fb1fc1ebb1|1]], [[#^s-23479be7fffd529f043f60cc|3]] ar [[#^s-3130fbd4054f302a1ba56318|4]] dalyje nustatyto mokėjimo laikotarpio arba nuo šio įstatymo [[#^s-5eab73f4ae2088bab6fe362a|7 straipsnio 1 dalyje]] nustatytos išieškojimo išlaidų sumos dėl objektyvių priežasčių. ^s-3e85b148dd7f13f0ac2d704d
 
 
 3. Komercinės sutarties sąlyga ar komercinė praktika, dėl kurios negalima nustatyti palūkanų, yra nesąžininga kreditoriaus atžvilgiu. ^s-d991486c41e819959ed39dd5

@@ -10,9 +10,9 @@ pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įs
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas]] - Gyventojų pajamų mokesčio įstatyme
-- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - Valstybinio socialinio draudimo įstatyme
-- [[latest/TAR.00D176C81058|Lietuvos Respublikos šeimynų įstatymas]] - Šeimynų įstatyme
+- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 3 citatos - Valstybinio socialinio draudimo įstatyme
+- [[latest/TAR.00D176C81058|Lietuvos Respublikos šeimynų įstatymas]] - 3 citatos - Šeimynų įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A7F77DF94F5D#^s-e40f8e7af5afea6c1a51aa58|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - Įstatymas Nr. XI-2170
+_Nėra._

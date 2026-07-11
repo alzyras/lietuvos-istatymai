@@ -53,7 +53,7 @@ BENDROSIOS NUOSTATOS
 ### 1 straipsnis. Įstatymo paskirtis ^s-47388811c4a514f13486ee5c
 
 
-1. Šis įstatymas nustato asmenis, turinčius teisę leisti elektroninius pinigus, įskaitant elektroninių pinigų žetonus, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 7 punkte, Lietuvos Respublikoje, elektroninių pinigų leidimo ir išpirkimo sąlygas, elektroninių pinigų įstaigų ir užsienio valstybių elektroninių pinigų įstaigų filialų licencijavimo, veiklos, jų pabaigos ir veiklos priežiūros tvarką, kad elektroninių pinigų įstaigų sistema būtų stabili, patikima, veiksminga ir saugi. ^s-63f71407519796ca7630bca7
+1. Šis įstatymas nustato asmenis, turinčius teisę leisti elektroninius pinigus, įskaitant elektroninių pinigų žetonus, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamento (ES) 2023/1114](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) dėl kriptoturto rinkų, kuriuo iš dalies keičiami [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, [[#^s-92906cd27b888f147ec1c4a0|3]] straipsnio 1 dalies 7 punkte, Lietuvos Respublikoje, elektroninių pinigų leidimo ir išpirkimo sąlygas, elektroninių pinigų įstaigų ir užsienio valstybių elektroninių pinigų įstaigų filialų licencijavimo, veiklos, jų pabaigos ir veiklos priežiūros tvarką, kad elektroninių pinigų įstaigų sistema būtų stabili, patikima, veiksminga ir saugi. ^s-63f71407519796ca7630bca7
 Straipsnio dalies pakeitimai:
 Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
@@ -78,7 +78,7 @@ Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 3) priimama asmenų, kurie nėra tų elektroninių pinigų leidėjai. ^s-461fa1afe80595c25e98384c
 
 
-2. Elektroninių pinigų įstaiga – akcinė bendrovė arba uždaroji akcinė bendrovė, kuriai išduota elektroninių pinigų įstaigos licencija ar elektroninių pinigų įstaigos ribotos veiklos licencija, kuria suteikiama teisė leisti elektroninius pinigus, įskaitant elektroninių pinigų žetonus, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 7 punkte, Lietuvos Respublikoje ir (ar) kitose valstybėse narėse (toliau, kai šiame įstatyme kalbama apie elektroninių pinigų įstaigos licenciją ir elektroninių pinigų įstaigos ribotos veiklos licenciją kartu, vartojama sąvoka „licencija“). ^s-f980d18e8f128eccf952b5e2
+2. Elektroninių pinigų įstaiga – akcinė bendrovė arba uždaroji akcinė bendrovė, kuriai išduota elektroninių pinigų įstaigos licencija ar elektroninių pinigų įstaigos ribotos veiklos licencija, kuria suteikiama teisė leisti elektroninius pinigus, įskaitant elektroninių pinigų žetonus, kaip jie apibrėžti [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) 7 punkte, Lietuvos Respublikoje ir (ar) kitose valstybėse narėse (toliau, kai šiame įstatyme kalbama apie elektroninių pinigų įstaigos licenciją ir elektroninių pinigų įstaigos ribotos veiklos licenciją kartu, vartojama sąvoka „licencija“). ^s-f980d18e8f128eccf952b5e2
 Straipsnio dalies pakeitimai:
 Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
@@ -204,7 +204,7 @@ Fiziniams ar juridiniams asmenims, kurie nėra elektroninių pinigų leidėjai, 
 8. Kai elektroninių pinigų turėtojas pateikia prašymą išpirkti elektroninius pinigus pasibaigus sutarties galiojimo terminui arba praėjus ne daugiau negu vieniems metams nuo sutarties galiojimo termino pabaigos, o elektroninių pinigų įstaiga vykdo vieną ar daugiau šio įstatymo [[#^s-2af60a503e1f312770d0faa9|12 straipsnio 1 dalies 4 punkte]] nurodytų veiklų ir nėra iš anksto žinoma, kokia dalis lėšų bus naudojama kaip elektroniniai pinigai, išperkamos visos elektroninių pinigų turėtojo prašomos lėšos. ^s-ceb1a98be3c590aeb0dade03
 
 
-9. Asmenų (išskyrus vartotojus), priimančių elektroninius pinigus, ir elektroninių pinigų leidėjų sudaromose sutartyse gali būti nustatytos kitokios elektroninių pinigų išpirkimo sąlygos, negu nustatyta šio straipsnio 4–[[#^s-ceb1a98be3c590aeb0dade03|8 dalyse]]. ^s-328d4fe3c8afe464c85be2c7
+9. Asmenų (išskyrus vartotojus), priimančių elektroninius pinigus, ir elektroninių pinigų leidėjų sudaromose sutartyse gali būti nustatytos kitokios elektroninių pinigų išpirkimo sąlygos, negu nustatyta šio straipsnio [[#^s-794f6ea5b3cefc70f3b2f19a|4]]–[[#^s-ceb1a98be3c590aeb0dade03|8]] dalyse. ^s-328d4fe3c8afe464c85be2c7
 
 
 
@@ -232,7 +232,7 @@ Elektroninių pinigų turėtojas, manydamas, kad elektroninių pinigų leidėjas
 ### 10 straipsnis. Atsakomybė už šiame skyriuje numatytų sąlygų nevykdymą ^s-6a1ff87a2ee81132aaa62be5
 
 
-Už šio įstatymo 6 ir [[#^s-32f1470f19b5854d2b654a08|7 straipsnių]] pažeidimus mutatis mutandis taikomos [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] X skyriaus nuostatos, reglamentuojančios [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] vykdymo priežiūrą ir atsakomybę už jo pažeidimus.
+Už šio įstatymo [[#^s-06e2f8ec21afccab1912f079|6]] ir [[#^s-32f1470f19b5854d2b654a08|7]] straipsnių pažeidimus mutatis mutandis taikomos [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] X skyriaus nuostatos, reglamentuojančios [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] vykdymo priežiūrą ir atsakomybę už jo pažeidimus.
 
 
 
@@ -256,7 +256,7 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGOS IR JŲ VEIKLOS LICENCIJAVIMAS
 4. Elektroninių pinigų įstaiga savo veikloje vadovaujasi Lietuvos Respublikos civiliniu kodeksu, šiuo įstatymu, [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymu]], Europos Sąjungos ir priežiūros institucijos – Lietuvos banko (toliau – priežiūros institucija) teisės aktais bei savo steigimo dokumentais. Elektroninių pinigų įstaigai [[latest/TAR.779892D853B4|Finansų įstaigų įstatymas]] ir Lietuvos Respublikos akcinių bendrovių įstatymas taikomi tiek, kiek šis įstatymas nenustato kitaip. ^s-e24d05b06f373ad34c2cdf00
 
 
-5. Elektroninių pinigų įstaigai, kuri teikia mokėjimo paslaugas, mutatis mutandis taikomi [[latest/TAR.4A05AB3730DD#^s-eda944998a33372eee2264bf|Mokėjimo įstaigų įstatymo 9 straipsnio 2 dalies 4 punkto]], 11, 17, 18, 19, 20, 21, 211, 23 ir [[#^s-58d44a1a481e394352cb6ac4|40 straipsnių]] reikalavimai, o priežiūros institucija mutatis mutandis turi [[latest/TAR.4A05AB3730DD#^s-09385c29dd1e9fe91238dfe8|Mokėjimo įstaigų įstatymo 11, 18, 19, 20, 23 ir 40 straipsniuose]] priežiūros institucijai nustatytas teises ir pareigas. ^s-947b51edda3c091018262bd3
+5. Elektroninių pinigų įstaigai, kuri teikia mokėjimo paslaugas, mutatis mutandis taikomi [[latest/TAR.4A05AB3730DD|Mokėjimo įstaigų įstatymo]] 9 straipsnio 2 dalies 4 punkto, [[latest/TAR.4A05AB3730DD#^s-ed542090bff50c1323013156|11]], [[latest/TAR.4A05AB3730DD#^s-9afa4bb64c068b22b8227fac|17]], [[latest/TAR.4A05AB3730DD#^s-d9ec96eb25a52d6e3cae1bcd|18]], [[latest/TAR.4A05AB3730DD#^s-d5a1d35ac3cbd884a436e7b2|19]], [[latest/TAR.4A05AB3730DD#^s-b5bde37ded871e77920ac022|20]], [[latest/TAR.4A05AB3730DD#^s-9ddb29426fd4111dae78cbcb|21]], [[latest/TAR.4A05AB3730DD#^s-e8772bad8bbea4e0fc433804|211]], [[latest/TAR.4A05AB3730DD#^s-21c4373445c90b65b759b790|23]] ir [[latest/TAR.4A05AB3730DD#^s-09385c29dd1e9fe91238dfe8|40]] straipsnių reikalavimai, o priežiūros institucija mutatis mutandis turi [[latest/TAR.4A05AB3730DD|Mokėjimo įstaigų įstatymo]] [[latest/TAR.4A05AB3730DD#^s-ed542090bff50c1323013156|11]], [[latest/TAR.4A05AB3730DD#^s-d9ec96eb25a52d6e3cae1bcd|18]], [[latest/TAR.4A05AB3730DD#^s-d5a1d35ac3cbd884a436e7b2|19]], [[latest/TAR.4A05AB3730DD#^s-b5bde37ded871e77920ac022|20]], [[latest/TAR.4A05AB3730DD#^s-21c4373445c90b65b759b790|23]] ir [[latest/TAR.4A05AB3730DD#^s-09385c29dd1e9fe91238dfe8|40]] straipsniuose priežiūros institucijai nustatytas teises ir pareigas. ^s-947b51edda3c091018262bd3
 Straipsnio dalies pakeitimai:
 Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 Nr. XIV-3096, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20117
@@ -276,7 +276,7 @@ Nr. XIV-3096, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20117
 1. Be elektroninių pinigų leidimo ir mokėjimo paslaugų teikimo, kaip nurodyta šio įstatymo [[#^s-4b268cbe299626c2827d29c9|13 straipsnio 1 dalyje]] ar [[#^s-fa2aca9942c67275f652991c|14 straipsnio 1 dalyje]], elektroninių pinigų įstaiga turi teisę: ^s-d7d6c0a62e3b795f084d5904
 
 
-1) teikti su mokėjimo paslaugomis, nurodytomis [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] 4 ar [[#^s-fdc04a1503d6ee0e707c7330|5 punkte]], susijusią paskolą, laikydamasi [[#^s-2b3ad721633be689200477e5|šio straipsnio 4 dalyje]] nurodytų sąlygų; ^s-6408723ef451c9b48675c4e7
+1) teikti su mokėjimo paslaugomis, nurodytomis [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-59497eb35cf16d381c70df32|4]] ar [[latest/TAR.C6C5599DD9A1#^s-83a088d353cb4dc9bab104d2|5]] punkte, susijusią paskolą, laikydamasi [[#^s-2b3ad721633be689200477e5|šio straipsnio 4 dalyje]] nurodytų sąlygų; ^s-6408723ef451c9b48675c4e7
 
 
 2) teikti glaudžiai su elektroninių pinigų leidimu ir (arba) mokėjimo paslaugų teikimu susijusias papildomas paslaugas, tokias kaip valiutos keitimas, lėšų saugojimo veikla, duomenų kaupimas ir tvarkymas; ^s-f555438c2ee13aec95c58494
@@ -291,13 +291,13 @@ Nr. XIV-3096, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20117
 5) keisti valiutą (grynaisiais pinigais); ^s-fdc04a1503d6ee0e707c7330
 
 
-6) leisti elektroninių pinigų žetonus, kaip jie apibrėžti Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 7 punkte, Reglamento (ES) 2023/1114 IV antraštinėje dalyje nustatyta apimtimi ir tvarka; ^s-0dcc71adb20e26ae46db9237
+6) leisti elektroninių pinigų žetonus, kaip jie apibrėžti [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) [[#^s-3da00107fdcf74e6c7f32335|7 punkte]], [Reglamento (ES) 2023/1114](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) IV antraštinėje dalyje nustatyta apimtimi ir tvarka; ^s-0dcc71adb20e26ae46db9237
 Papildyta straipsnio punktu:
 Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
 
 
-7) teikti kriptoturto paslaugas, kaip jos apibrėžtos Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkte, Reglamento (ES) 2023/1114 60 straipsnyje nustatyta apimtimi ir tvarka. ^s-3da00107fdcf74e6c7f32335
+7) teikti kriptoturto paslaugas, kaip jos apibrėžtos [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) 16 punkte, [Reglamento (ES) 2023/1114 60 straipsnyje](https://eur-lex.europa.eu/eli/reg/2023/1114/art_60/oj) nustatyta apimtimi ir tvarka. ^s-3da00107fdcf74e6c7f32335
 Papildyta straipsnio punktu:
 Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
@@ -309,7 +309,7 @@ Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 3. Elektroninių pinigų įstaiga, teikdama mokėjimo paslaugas, nesusijusias su elektroninių pinigų leidimu, šioms paslaugoms teikti gali turėti tik mokėjimo sąskaitas. ^s-5eda54439f54243ff67c2413
 
 
-4. Elektroninių pinigų įstaiga gali suteikti su mokėjimo paslaugomis, nurodytomis [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] 4 ar 5 punkte, susijusią paskolą, tik jeigu laikomasi šių sąlygų: ^s-2b3ad721633be689200477e5
+4. Elektroninių pinigų įstaiga gali suteikti su mokėjimo paslaugomis, nurodytomis [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-59497eb35cf16d381c70df32|4]] ar [[latest/TAR.C6C5599DD9A1#^s-83a088d353cb4dc9bab104d2|5]] punkte, susijusią paskolą, tik jeigu laikomasi šių sąlygų: ^s-2b3ad721633be689200477e5
 
 
 1) lėšos skolinamos tik kaip papildoma priemonė mokėjimo operacijai įvykdyti; ^s-46bd32d15c90bb6795413455
@@ -361,7 +361,7 @@ Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 6) taikomos (numatomos taikyti) valdymo tvarkos ir vidaus kontrolės sistemos, įskaitant administracines, rizikos valdymo ir apskaitos sistemas, aprašymą, kuriuo įrodoma, kad ta valdymo tvarka ir vidaus kontrolės sistema yra tinkamos, patikimos ir adekvačios prisiimamai rizikai; ^s-c07e0c368d23a338f1a61798
 
 
-7) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos) siekiant atlikti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentą (ES) 2023/1113 dėl informacijos, teikiamos pervedant lėšas ir tam tikrą kriptoturtą, kuriuo iš dalies keičiama Direktyva (ES) 2015/849, aprašymą; ^s-a289aa29bf68dd77ac86f5b4
+7) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos) siekiant atlikti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamentą (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj) dėl informacijos, teikiamos pervedant lėšas ir tam tikrą kriptoturtą, kuriuo iš dalies keičiama [Direktyva (ES) 2015/849](https://eur-lex.europa.eu/eli/dir/2015/849/oj), aprašymą; ^s-a289aa29bf68dd77ac86f5b4
 Straipsnio punkto pakeitimai:
 Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
@@ -458,7 +458,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 ### 14 straipsnis. Elektroninių pinigų įstaigos ribotos veiklos licencija ^s-29e067f17cf69e8700a6377b
 
 
-1. Elektroninių pinigų įstaigos ribotos veiklos licencija suteikia teisę leisti elektroninius pinigus ir teikti [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] 1–6 punktuose nurodytas mokėjimo paslaugas, nustatytas priežiūros institucijos jai išduotoje licencijoje. Elektroninių pinigų įstaigos ribotos veiklos licencija galioja tik Lietuvos Respublikoje ir nesuteikia teisės kitose valstybėse narėse leisti elektroninių pinigų ir teikti mokėjimo paslaugų. Elektroninių pinigų įstaigos, kuriai išduota elektroninių pinigų įstaigos ribotos veiklos licencija, neapmokėtų elektroninių pinigų vidurkis (jeigu veikla nevykdoma, – verslo plane planuojamas vidurkis) neturi viršyti 900 000 eurų, išskyrus [[#^s-64481d96df70aeef2c761f2f|šio straipsnio 6 dalyje]] nustatytą atvejį. Elektroninių pinigų įstaigai, kuriai išduota elektroninių pinigų įstaigos ribotos veiklos licencija, netaikomos šio įstatymo 17, 22 ir [[#^s-c065f5c8059afaa226e848e1|24 straipsnių]] nuostatos. ^s-fa2aca9942c67275f652991c
+1. Elektroninių pinigų įstaigos ribotos veiklos licencija suteikia teisę leisti elektroninius pinigus ir teikti [[latest/TAR.C6C5599DD9A1#^s-c5cc420b398f300e5e54e5a1|Mokėjimų įstatymo 5 straipsnio]] [[latest/TAR.C6C5599DD9A1#^s-87dfd2aa4e7b5affcb416682|1]]–[[latest/TAR.C6C5599DD9A1#^s-aa84b6a0200d5b73ced39668|6]] punktuose nurodytas mokėjimo paslaugas, nustatytas priežiūros institucijos jai išduotoje licencijoje. Elektroninių pinigų įstaigos ribotos veiklos licencija galioja tik Lietuvos Respublikoje ir nesuteikia teisės kitose valstybėse narėse leisti elektroninių pinigų ir teikti mokėjimo paslaugų. Elektroninių pinigų įstaigos, kuriai išduota elektroninių pinigų įstaigos ribotos veiklos licencija, neapmokėtų elektroninių pinigų vidurkis (jeigu veikla nevykdoma, – verslo plane planuojamas vidurkis) neturi viršyti 900 000 eurų, išskyrus [[#^s-64481d96df70aeef2c761f2f|šio straipsnio 6 dalyje]] nustatytą atvejį. Elektroninių pinigų įstaigai, kuriai išduota elektroninių pinigų įstaigos ribotos veiklos licencija, netaikomos šio įstatymo [[#^s-87ab40e04940e71143f59afe|17]], [[#^s-89159048e9a344ea69d02f15|22]] ir [[#^s-c065f5c8059afaa226e848e1|24]] straipsnių nuostatos. ^s-fa2aca9942c67275f652991c
 
 
 2. Elektroninių pinigų įstaiga, kuriai išduota elektroninių pinigų įstaigos ribotos veiklos licencija ir kuri ketina teikti mokėjimo paslaugas, nesusijusias su elektroniniais pinigais, taip pat turi atitikti [[latest/TAR.4A05AB3730DD#^s-3a1441d5ed1e4315a1d7ebb4|Mokėjimo įstaigų įstatymo 7 straipsnio 1 dalies]] nuostatas. ^s-f3dc130181de977d28fc3528
@@ -479,7 +479,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 4) priemonių, kurių pagal šio įstatymo [[#^s-2a6e29d1a18a38185f779933|25 straipsnio]] reikalavimus imtasi (bus imamasi) siekiant apsaugoti elektroninių pinigų turėtojų lėšas, aprašymą, o jeigu elektroninių pinigų įstaiga ketina teikti mokėjimo paslaugas, nesusijusias su elektroninių pinigų leidimu, – priemonių, kurių pagal [[latest/TAR.4A05AB3730DD#^s-9afa4bb64c068b22b8227fac|Mokėjimo įstaigų įstatymo 17 straipsnio]] reikalavimus imtasi (bus imamasi) siekiant apsaugoti mokėjimo paslaugų vartotojų lėšas, aprašymą; ^s-c54ac56053e836097b983540
 
 
-5) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos) siekiant atlikti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir Reglamentą (ES) 2023/1113, aprašymą; ^s-b4477fb571296c20369635f7
+5) vidaus kontrolės procedūrų, kurios įdiegtos (bus įdiegtos) siekiant atlikti pareigas, susijusias su pinigų plovimo ir teroristų finansavimo prevencija pagal Pinigų plovimo ir teroristų finansavimo prevencijos įstatymą ir [Reglamentą (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj), aprašymą; ^s-b4477fb571296c20369635f7
 Straipsnio punkto pakeitimai:
 Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
@@ -527,7 +527,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 2) prašymą pateikęs juridinis asmuo neturi buveinės Lietuvos Respublikoje, jo teisinė forma, vadovai neatitinka šio įstatymo nustatytų reikalavimų ir jų taikymo tvarką reglamentuojančių priežiūros institucijos teisės aktų; ^s-c98ea1c2c57a8413c41f261d
 
 
-3) prašymą pateikęs juridinis asmuo neatitinka šio straipsnio 1 ar [[#^s-77b53a9cd648619c76175837|4 dalyje]] nustatytų reikalavimų. ^s-b1feca020b898f567b4e7754
+3) prašymą pateikęs juridinis asmuo neatitinka šio straipsnio [[#^s-fa2aca9942c67275f652991c|1]] ar [[#^s-77b53a9cd648619c76175837|4]] dalyje nustatytų reikalavimų. ^s-b1feca020b898f567b4e7754
 
 
 10. Kai prašymą pateikęs juridinis asmuo ketina leisti elektroninius pinigus ir tuo pačiu metu ketina vykdyti ar vykdo kitą šio įstatymo [[#^s-2af60a503e1f312770d0faa9|12 straipsnio 1 dalies 4 punkte]] nurodytą veiklą, priežiūros institucija turi teisę atsisakyti išduoti elektroninių pinigų įstaigos ribotos veiklos licenciją, iki bus įsteigtas atskiras juridinis asmuo elektroninių pinigų leidimo veiklai vykdyti, jeigu elektroninių pinigų įstaigos vykdoma kita negu elektroninių pinigų leidimo veikla turi ar gali turėti neigiamą įtaką jos finansiniam patikimumui ar priežiūros institucijos galimybei stebėti, ar vykdomi visi šiame įstatyme nustatyti reikalavimai. ^s-cf37b0b36ca9c5d0d7a3d3ed
@@ -543,13 +543,13 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 ### 15 straipsnis. Licencijos galiojimo panaikinimas ar galiojimo sustabdymas ir sustabdymo panaikinimas ^s-0ccb0c78dbc40ae8d98cd8e8
 
 
-1. Licencijos galiojimas panaikinamas [[latest/TAR.779892D853B4#^s-2b0f40f4ac020879e7ce8572|Finansų įstaigų įstatymo 10 straipsnio 1 dalyje]] ir [[#^s-c608b8a1f7413b5b92c03a2d|2 dalies]] 1, 3–8 punktuose nustatytais atvejais. Šio įstatymo [[#^s-64481d96df70aeef2c761f2f|14 straipsnio 6 dalyje]] nurodytu atveju licencijos galiojimas panaikinamas priežiūros institucijos sprendimu. ^s-78f2d96678993f7066d97b71
+1. Licencijos galiojimas panaikinamas [[latest/TAR.779892D853B4#^s-2b0f40f4ac020879e7ce8572|Finansų įstaigų įstatymo 10 straipsnio 1 dalyje]] ir [[#^s-c608b8a1f7413b5b92c03a2d|2 dalies]] [[latest/TAR.779892D853B4#^s-6244dac6b2679e919fcb3e96|1]], [[latest/TAR.779892D853B4|3]]–[[latest/TAR.779892D853B4|8]] punktuose nustatytais atvejais. Šio įstatymo [[#^s-64481d96df70aeef2c761f2f|14 straipsnio 6 dalyje]] nurodytu atveju licencijos galiojimas panaikinamas priežiūros institucijos sprendimu. ^s-78f2d96678993f7066d97b71
 
 
 2. Be [[#^s-78f2d96678993f7066d97b71|šio straipsnio 1 dalyje]] nustatytų pagrindų, licencijos galiojimas priežiūros institucijos sprendimu taip pat gali būti panaikinamas, jeigu: ^s-c608b8a1f7413b5b92c03a2d
 
 
-1) elektroninių pinigų įstaiga nebeatitinka šio įstatymo 13 ar [[#^s-29e067f17cf69e8700a6377b|14 straipsnyje]] nustatytų licencijos išdavimo reikalavimų arba nepraneša apie tai priežiūros institucijai; ^s-9d8971628a29b6cdf26b3b69
+1) elektroninių pinigų įstaiga nebeatitinka šio įstatymo [[#^s-28c83d1d09750f46f3b54a18|13]] ar [[#^s-29e067f17cf69e8700a6377b|14]] straipsnyje nustatytų licencijos išdavimo reikalavimų arba nepraneša apie tai priežiūros institucijai; ^s-9d8971628a29b6cdf26b3b69
 
 
 2) elektroninių pinigų įstaiga, toliau leisdama elektroninius pinigus, keltų grėsmę mokėjimų sistemų stabilumui; ^s-f8541e9febb8839c084cda18
@@ -561,10 +561,10 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 4) elektroninių pinigų įstaiga šio įstatymo [[#^s-6150245f03a97db721d646ab|13 straipsnio 9 dalyje]] nurodytu atveju per nustatytą terminą nesikreipia dėl licencijos galiojimo panaikinimo. ^s-fc9e19d187ac8acb929bf84a
 
 
-3. Panaikinant licencijos galiojimą [[#^s-c608b8a1f7413b5b92c03a2d|šio straipsnio 2 dalies]] 3 ar 4 punkte ar šio įstatymo [[#^s-64481d96df70aeef2c761f2f|14 straipsnio 6 dalyje]] arba [[latest/TAR.779892D853B4#^s-65edab720020d73b1f0f7684|Finansų įstaigų įstatymo 10 straipsnio 2 dalies 8 punkte]] nustatytais pagrindais, priežiūros institucijos sprendime nurodomi sprendimo priėmimo motyvai ir apie priimtą sprendimą per 3 darbo dienas nuo sprendimo priėmimo dienos pranešama elektroninių pinigų įstaigai. Kitais atvejais licencijos galiojimas panaikinamas šio įstatymo 39 ir [[#^s-58d44a1a481e394352cb6ac4|40 straipsniuose]] nustatyta tvarka. ^s-7a3201d7bda286ab8964c143
+3. Panaikinant licencijos galiojimą [[#^s-c608b8a1f7413b5b92c03a2d|šio straipsnio 2 dalies]] 3 ar 4 punkte ar šio įstatymo [[#^s-64481d96df70aeef2c761f2f|14 straipsnio 6 dalyje]] arba [[latest/TAR.779892D853B4#^s-65edab720020d73b1f0f7684|Finansų įstaigų įstatymo 10 straipsnio 2 dalies 8 punkte]] nustatytais pagrindais, priežiūros institucijos sprendime nurodomi sprendimo priėmimo motyvai ir apie priimtą sprendimą per 3 darbo dienas nuo sprendimo priėmimo dienos pranešama elektroninių pinigų įstaigai. Kitais atvejais licencijos galiojimas panaikinamas šio įstatymo [[#^s-c2bc32d4d0ffd5d5f444c1ec|39]] ir [[#^s-58d44a1a481e394352cb6ac4|40]] straipsniuose nustatyta tvarka. ^s-7a3201d7bda286ab8964c143
 
 
-4. Licencijos galiojimas sustabdomas šio įstatymo 39 ir [[#^s-58d44a1a481e394352cb6ac4|40 straipsniuose]] nustatytais pagrindais ir tvarka. ^s-3d79e11e2c1588ee6f6f81b3
+4. Licencijos galiojimas sustabdomas šio įstatymo [[#^s-c2bc32d4d0ffd5d5f444c1ec|39]] ir [[#^s-58d44a1a481e394352cb6ac4|40]] straipsniuose nustatytais pagrindais ir tvarka. ^s-3d79e11e2c1588ee6f6f81b3
 
 
 5. Priežiūros institucija, priėmusi sprendimą sustabdyti licencijos galiojimą, per 3 darbo dienas nuo tokio sprendimo priėmimo dienos apie tai praneša elektroninių pinigų įstaigai, nurodo pažeidimą (pažeidimus) ir nustato ne trumpesnį kaip vieno mėnesio terminą, per kurį elektroninių pinigų įstaiga privalo nurodytą pažeidimą (pažeidimus) pašalinti. ^s-629532cd89d1808dd7490170
@@ -582,7 +582,7 @@ Nr. XIV-2714, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11237
 8. Panaikinus licencijos galiojimą, ne vėliau kaip per 2 mėnesius elektroninių pinigų įstaigos organai privalo priimti sprendimą likviduoti ar reorganizuoti elektroninių pinigų įstaigą arba priimti sprendimą pakeisti veiklos rūšį ir atlikti atitinkamus įstatų, pavadinimo ir kitus reikiamus pakeitimus, susijusius su veiklos rūšies pakeitimu. ^s-3d202c84e9f4fd04f5174cc9
 
 
-9. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą priežiūros institucija skelbia savo interneto svetainėje. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą, įskaitant licencijos galiojimo panaikinimo ar sustabdymo priežastis, priežiūros institucija praneša Europos bankininkystės institucijai Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta Direktyvos (ES) 2015/2366 [[#^s-0ccb0c78dbc40ae8d98cd8e8|15 straipsnio]] 4 ir [[#^s-629532cd89d1808dd7490170|5 dalyse]], nustatyta tvarka. ^s-f24d1df07cd145dbe5fa852a
+9. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą priežiūros institucija skelbia savo interneto svetainėje. Apie licencijos galiojimo panaikinimą arba sustabdymą ir sustabdymo panaikinimą, įskaitant licencijos galiojimo panaikinimo ar sustabdymo priežastis, priežiūros institucija praneša Europos bankininkystės institucijai Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta [Direktyvos (ES) 2015/2366 15 straipsnio](https://eur-lex.europa.eu/eli/dir/2015/2366/art_15/oj) [[#^s-3d79e11e2c1588ee6f6f81b3|4]] ir [[#^s-629532cd89d1808dd7490170|5]] dalyse, nustatyta tvarka. ^s-f24d1df07cd145dbe5fa852a
 Straipsnio dalies pakeitimai:
 Nr. XIII-2962, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11335
 
@@ -617,7 +617,7 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGOS VALDYMAS
 5) asmenys, atsakingi už mokėjimo paslaugų teikimą, jeigu elektroninių pinigų įstaiga teikia mokėjimo paslaugas, nesusijusias su elektroninių pinigų leidimu. ^s-fdd7733aba23a35c97a74210
 
 
-3. Elektroninių pinigų įstaigos, turinčios elektroninių pinigų įstaigos licenciją, vadovai turi būti nepriekaištingos reputacijos ir turėti kvalifikaciją ir patirtį, leidžiančią tinkamai eiti pareigas. Vertinant šių vadovų nepriekaištingą reputaciją, mutatis mutandis taikomos [[latest/TAR.B6B636C7384A#^s-1da1553dfe8dcc899bb15a35|Bankų įstatymo 34 straipsnio]] 12 ir 13 dalių nuostatos. Elektroninių pinigų įstaigos, turinčios elektroninių pinigų įstaigos licenciją, vadovų kvalifikacija ir patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Elektroninių pinigų įstaigos, turinčios elektroninių pinigų įstaigos licenciją, vadovų reputacijos, kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos teisės aktų nustatyta tvarka. ^s-5ac3b149f5ad61fdeacb8d64
+3. Elektroninių pinigų įstaigos, turinčios elektroninių pinigų įstaigos licenciją, vadovai turi būti nepriekaištingos reputacijos ir turėti kvalifikaciją ir patirtį, leidžiančią tinkamai eiti pareigas. Vertinant šių vadovų nepriekaištingą reputaciją, mutatis mutandis taikomos [[latest/TAR.B6B636C7384A#^s-1da1553dfe8dcc899bb15a35|Bankų įstatymo 34 straipsnio]] [[latest/TAR.B6B636C7384A#^s-cbf0d3cfe40162e5179f51eb|12]] ir [[latest/TAR.B6B636C7384A#^s-20a4b9e975c400d03726ecc9|13]] dalių nuostatos. Elektroninių pinigų įstaigos, turinčios elektroninių pinigų įstaigos licenciją, vadovų kvalifikacija ir patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Elektroninių pinigų įstaigos, turinčios elektroninių pinigų įstaigos licenciją, vadovų reputacijos, kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos teisės aktų nustatyta tvarka. ^s-5ac3b149f5ad61fdeacb8d64
 
 
 4. Elektroninių pinigų įstaigos, turinčios elektroninių pinigų įstaigos ribotos veiklos licenciją, vadovai turi būti pasirengę ir tinkami eiti pareigas. Elektroninių pinigų įstaigos, turinčios elektroninių pinigų įstaigos ribotos veiklos licenciją, vadovų pasirengimas ir tinkamumas vertinami priežiūros institucijos teisės aktų nustatyta tvarka. Elektroninių pinigų įstaigos, turinčios elektroninių pinigų įstaigos ribotos veiklos licenciją, vadovų pasirengimas vertinamas atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos kėlimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Elektroninių pinigų įstaigos, turinčios elektroninių pinigų įstaigos ribotos veiklos licenciją, vadovas negali būti laikomas tinkamu, jeigu jis atitinka bent vieną iš šių sąlygų: ^s-7b6aec0d332e2d84db0203d6
@@ -635,7 +635,7 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGOS VALDYMAS
 5. Tarpininko administracijos vadovai (vadovas ir jo pavaduotojas) ir asmenys, atsakingi už mokėjimo paslaugų teikimo veiklos valdymą (struktūrinių padalinių vadovai) (toliau, kai šiame įstatyme kalbama apie tarpininko administracijos vadovus (vadovą ir jo pavaduotoją) ir asmenis, atsakingus už mokėjimo paslaugų teikimo veiklos valdymą (struktūrinių padalinių vadovus), kartu – tarpininko vadovai), kai tarpininkas nėra mokėjimo paslaugų teikėjas, turi būti pasirengę ir tinkami eiti pareigas. Tarpininko vadovų, kai tarpininkas nėra mokėjimo paslaugų teikėjas, pasirengimas ir tinkamumas vertinami priežiūros institucijos teisės aktų nustatyta tvarka. Tarpininko vadovų, kai tarpininkas nėra mokėjimo paslaugų teikėjas, pasirengimas vertinamas atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos kėlimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Tarpininko vadovams, kai tarpininkas nėra mokėjimo paslaugų teikėjas, mutatis mutandis taikomi [[#^s-7b6aec0d332e2d84db0203d6|šio straipsnio 4 dalyje]] nustatyti tinkamumo reikalavimai. ^s-ed88bd323618a3d9352ed573
 
 
-6. Elektroninių pinigų įstaiga priežiūros institucijai jos nustatyta tvarka privalo pranešti apie numatomus elektroninių pinigų įstaigos vadovų pasikeitimus, išskyrus [[#^s-bed277850705e19113a912a5|šio straipsnio 9 dalyje]] nurodytus atvejus, kai pranešimas nėra reikalingas, ir kartu pateikti priežiūros institucijos nustatytą informaciją, reikalingą įvertinti, ar vadovai atitinka jiems šio straipsnio 3 ir [[#^s-7b6aec0d332e2d84db0203d6|4 dalyse]] nustatytus reikalavimus. Iš naujo išrinkti (paskirti) elektroninių pinigų įstaigos vadovai gali pradėti eiti pareigas tik tuo atveju, jeigu priežiūros institucija neprieštarauja jų kandidatūroms. Priežiūros institucija turi teisę prieštarauti elektroninių pinigų įstaigos vadovų kandidatūroms, jeigu jie neatitinka šio straipsnio 3 ir [[#^s-7b6aec0d332e2d84db0203d6|4 dalyse]] nustatytų reikalavimų. ^s-3d3cc819945408a67c71be2e
+6. Elektroninių pinigų įstaiga priežiūros institucijai jos nustatyta tvarka privalo pranešti apie numatomus elektroninių pinigų įstaigos vadovų pasikeitimus, išskyrus [[#^s-bed277850705e19113a912a5|šio straipsnio 9 dalyje]] nurodytus atvejus, kai pranešimas nėra reikalingas, ir kartu pateikti priežiūros institucijos nustatytą informaciją, reikalingą įvertinti, ar vadovai atitinka jiems šio straipsnio [[#^s-5ac3b149f5ad61fdeacb8d64|3]] ir [[#^s-7b6aec0d332e2d84db0203d6|4]] dalyse nustatytus reikalavimus. Iš naujo išrinkti (paskirti) elektroninių pinigų įstaigos vadovai gali pradėti eiti pareigas tik tuo atveju, jeigu priežiūros institucija neprieštarauja jų kandidatūroms. Priežiūros institucija turi teisę prieštarauti elektroninių pinigų įstaigos vadovų kandidatūroms, jeigu jie neatitinka šio straipsnio [[#^s-5ac3b149f5ad61fdeacb8d64|3]] ir [[#^s-7b6aec0d332e2d84db0203d6|4]] dalyse nustatytų reikalavimų. ^s-3d3cc819945408a67c71be2e
 
 
 7. Kai tarpininkas nėra mokėjimo paslaugų teikėjas, elektroninių pinigų įstaiga privalo užtikrinti, o priežiūros institucijos reikalavimu – įrodyti, kad jos vardu veikiančių tarpininkų vadovai atitinka [[#^s-ed88bd323618a3d9352ed573|šio straipsnio 5 dalyje]] nustatytus reikalavimus. ^s-4d175037c24138be652019c4
@@ -647,7 +647,7 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGOS VALDYMAS
 9. Laikoma, kad priežiūros institucija neprieštarauja numatomo išrinkti (paskirti) elektroninių pinigų įstaigos vadovo kandidatūrai, jeigu: ^s-bed277850705e19113a912a5
 
 
-1) asmuo renkamas arba skiriamas į naujas pareigas toje pačioje elektroninių pinigų įstaigoje, kurioje jo kandidatūra jau buvo įvertinta priežiūros institucijos ir jai neprieštarauta, arba pakartotinai renkamas arba skiriamas į tas pačias pareigas toje pačioje elektroninių pinigų įstaigoje ir išrinkimo arba paskyrimo į naujas pareigas metu atitinka šio straipsnio 3 ir [[#^s-7b6aec0d332e2d84db0203d6|4 dalyse]] nustatytus reikalavimus; ^s-8beb4cd9ba535c391e2463c1
+1) asmuo renkamas arba skiriamas į naujas pareigas toje pačioje elektroninių pinigų įstaigoje, kurioje jo kandidatūra jau buvo įvertinta priežiūros institucijos ir jai neprieštarauta, arba pakartotinai renkamas arba skiriamas į tas pačias pareigas toje pačioje elektroninių pinigų įstaigoje ir išrinkimo arba paskyrimo į naujas pareigas metu atitinka šio straipsnio [[#^s-5ac3b149f5ad61fdeacb8d64|3]] ir [[#^s-7b6aec0d332e2d84db0203d6|4]] dalyse nustatytus reikalavimus; ^s-8beb4cd9ba535c391e2463c1
 
 
 2) asmuo renkamas arba skiriamas tuo atveju, kai saugiai ir patikimai elektroninių pinigų įstaigos veiklai užtikrinti būtina nedelsiant išrinkti arba paskirti elektroninių pinigų įstaigos vadovą ir dėl to elektroninių pinigų įstaiga negali iš anksto pranešti priežiūros institucijai apie numatomą elektroninių pinigų įstaigos vadovo pasikeitimą. ^s-efa03782ddbbc9f1b6ffcf1d
@@ -656,7 +656,7 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGOS VALDYMAS
 10. Elektroninių pinigų įstaiga, [[#^s-bed277850705e19113a912a5|šio straipsnio 9 dalyje]] nurodytais atvejais paskyrusi arba išrinkusi vadovą, apie tai turi pranešti priežiūros institucijai jos nustatyta tvarka ir terminais. ^s-bb51b798389605fb1d3a1659
 
 
-11. Šio straipsnio 3, 6, 9 ir [[#^s-bb51b798389605fb1d3a1659|10 dalys]] mutatis mutandis taikomos ir užsienio valstybės elektroninių pinigų įstaigos filialo vadovams. ^s-c240be2701fe7683f1c4e31e
+11. Šio straipsnio [[#^s-5ac3b149f5ad61fdeacb8d64|3]], [[#^s-3d3cc819945408a67c71be2e|6]], [[#^s-bed277850705e19113a912a5|9]] ir [[#^s-bb51b798389605fb1d3a1659|10]] dalys mutatis mutandis taikomos ir užsienio valstybės elektroninių pinigų įstaigos filialo vadovams. ^s-c240be2701fe7683f1c4e31e
 
 
 Straipsnio pakeitimai:
@@ -667,7 +667,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 ### 17 straipsnis. Elektroninių pinigų įstaigos kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis ^s-87ab40e04940e71143f59afe
 
 
-Elektroninių pinigų įstaigos kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimui ir netekimui, įsigyjančio asmens turimų balsavimo teisių praradimui, siūlomo įsigijimo vertinimui mutatis mutandis taikomos [[latest/TAR.B6B636C7384A#^s-eb94e1ab9768b1b95813d633|Bankų įstatymo 24 ir 25 straipsnių]] nuostatos.
+Elektroninių pinigų įstaigos kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimui ir netekimui, įsigyjančio asmens turimų balsavimo teisių praradimui, siūlomo įsigijimo vertinimui mutatis mutandis taikomos [[latest/TAR.B6B636C7384A|Bankų įstatymo]] [[latest/TAR.B6B636C7384A#^s-252a32ae1a2810f697bb33da|24]] ir [[latest/TAR.B6B636C7384A#^s-eb94e1ab9768b1b95813d633|25]] straipsnių nuostatos.
 
 
 
@@ -682,7 +682,7 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGOS IR KITOS VALSTYBĖS NARĖS ELEKTRONINIŲ PINIGŲ
 1. Elektroninių pinigų įstaiga turi teisę kitoje valstybėje narėje leisti elektroninius pinigus įsteigusi filialą, neįsteigusi filialo arba platinti ir išpirkti elektroninius pinigus per fizinį ar juridinį asmenį. ^s-fcdab95d9f99813dac153e23
 
 
-2. Elektroninių pinigų įstaiga, siekdama kitoje valstybėje narėje leisti elektroninius pinigus neįsteigusi filialo, turi apie tai pranešti priežiūros institucijai, nurodydama savo pavadinimą, adresą, licencijos numerį, valstybę narę, kurioje planuoja leisti elektroninius pinigus, o jeigu ketina leisti elektroninius pinigus kitoje valstybėje narėje įsteigusi filialą, priežiūros institucijai turi pranešti ir šio įstatymo [[#^s-5cbc65a8f52ff9d29cd36b61|13 straipsnio 2 dalies]] 3 ir 6 punktuose nurodytą informaciją apie veiklą kitoje valstybėje narėje, pateikti filialo organizacinės struktūros aprašymą, filialo vadovo (vadovų) tapatybės duomenis bei įsipareigojimo vykdyti filialo patikrinimus ne rečiau kaip kartą per metus aprašymą. Jeigu elektroninių pinigų įstaiga kitoje valstybėje narėje planuoja platinti ir išpirkti elektroninius pinigus per fizinį ar juridinį asmenį, priežiūros institucijai taip pat turi būti nurodomas šio asmens pavadinimas (vardas, pavardė), buveinė (veiklos adresas), organizacinė struktūra, kontaktiniai duomenys. Kai elektroninių pinigų įstaiga ketina veiklos funkcijų vykdymą perduoti kitam asmeniui kitoje valstybėje narėje, ji apie tai priežiūros institucijos nustatyta tvarka praneša priežiūros institucijai. Detalią pranešimo apie ketinimą kitoje valstybėje narėje leisti elektroninius pinigus, platinti ir išpirkti elektroninius pinigus per fizinį ar juridinį asmenį, veiklos funkcijų vykdymą perduoti kitam asmeniui pateikimo, nagrinėjimo tvarką ir detalius šioje dalyje nurodytų pateikiamų dokumentų turinio ir formos reikalavimus nustato priežiūros institucija. ^s-83134bd22cb016646841487b
+2. Elektroninių pinigų įstaiga, siekdama kitoje valstybėje narėje leisti elektroninius pinigus neįsteigusi filialo, turi apie tai pranešti priežiūros institucijai, nurodydama savo pavadinimą, adresą, licencijos numerį, valstybę narę, kurioje planuoja leisti elektroninius pinigus, o jeigu ketina leisti elektroninius pinigus kitoje valstybėje narėje įsteigusi filialą, priežiūros institucijai turi pranešti ir šio įstatymo [[#^s-5cbc65a8f52ff9d29cd36b61|13 straipsnio 2 dalies]] [[#^s-65a17b445e8a8e5008c643c1|3]] ir [[#^s-c07e0c368d23a338f1a61798|6]] punktuose nurodytą informaciją apie veiklą kitoje valstybėje narėje, pateikti filialo organizacinės struktūros aprašymą, filialo vadovo (vadovų) tapatybės duomenis bei įsipareigojimo vykdyti filialo patikrinimus ne rečiau kaip kartą per metus aprašymą. Jeigu elektroninių pinigų įstaiga kitoje valstybėje narėje planuoja platinti ir išpirkti elektroninius pinigus per fizinį ar juridinį asmenį, priežiūros institucijai taip pat turi būti nurodomas šio asmens pavadinimas (vardas, pavardė), buveinė (veiklos adresas), organizacinė struktūra, kontaktiniai duomenys. Kai elektroninių pinigų įstaiga ketina veiklos funkcijų vykdymą perduoti kitam asmeniui kitoje valstybėje narėje, ji apie tai priežiūros institucijos nustatyta tvarka praneša priežiūros institucijai. Detalią pranešimo apie ketinimą kitoje valstybėje narėje leisti elektroninius pinigus, platinti ir išpirkti elektroninius pinigus per fizinį ar juridinį asmenį, veiklos funkcijų vykdymą perduoti kitam asmeniui pateikimo, nagrinėjimo tvarką ir detalius šioje dalyje nurodytų pateikiamų dokumentų turinio ir formos reikalavimus nustato priežiūros institucija. ^s-83134bd22cb016646841487b
 Straipsnio dalies pakeitimai:
 Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
@@ -712,16 +712,16 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 10. Elektroninių pinigų įstaiga apie [[#^s-83134bd22cb016646841487b|šio straipsnio 2 dalyje]] nurodytų duomenų pasikeitimus, taip pat apie naujus filialus, fizinius ar juridinius asmenis, per kuriuos elektroninių pinigų įstaiga ketina platinti ir išpirkti elektroninius pinigus kitoje valstybėje narėje, privalo nedelsdama pranešti priežiūros institucijai. Tokiu atveju taikoma šiame straipsnyje nustatyta tvarka. ^s-0541d57a460e8f442c226b3e
 
 
-11. Priežiūros institucija, gavusi iš kitos valstybės narės priežiūros institucijos informaciją apie tai, kad elektroninių pinigų įstaiga, leidžianti elektroninius pinigus kitoje valstybėje narėje neįsteigusi filialo, elektroninių pinigų įstaigos kitoje valstybėje narėje įsteigtas filialas, jos pasitelktas fizinis ar juridinis asmuo, per kurį elektroninių pinigų įstaiga platina ir išperka elektroninius pinigus kitoje valstybėje narėje, nesilaiko kitos valstybės narės teisės aktų, įgyvendinančių Direktyvą (ES) 2015/2366 ir Direktyvą 2009/110/EB, nuostatų, įvertina ją ir, siekdama užtikrinti, kad elektroninių pinigų įstaiga nebepažeistų šių teisės aktų reikalavimų, nedelsdama imasi visų reikiamų priemonių. Priežiūros institucija apie šių priemonių taikymą praneša kitos valstybės narės priežiūros institucijai ir kitų susijusių valstybių narių priežiūros institucijoms. ^s-fedcfc8951af689f5ae3e86e
+11. Priežiūros institucija, gavusi iš kitos valstybės narės priežiūros institucijos informaciją apie tai, kad elektroninių pinigų įstaiga, leidžianti elektroninius pinigus kitoje valstybėje narėje neįsteigusi filialo, elektroninių pinigų įstaigos kitoje valstybėje narėje įsteigtas filialas, jos pasitelktas fizinis ar juridinis asmuo, per kurį elektroninių pinigų įstaiga platina ir išperka elektroninius pinigus kitoje valstybėje narėje, nesilaiko kitos valstybės narės teisės aktų, įgyvendinančių [Direktyvą (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) ir Direktyvą 2009/110/EB, nuostatų, įvertina ją ir, siekdama užtikrinti, kad elektroninių pinigų įstaiga nebepažeistų šių teisės aktų reikalavimų, nedelsdama imasi visų reikiamų priemonių. Priežiūros institucija apie šių priemonių taikymą praneša kitos valstybės narės priežiūros institucijai ir kitų susijusių valstybių narių priežiūros institucijoms. ^s-fedcfc8951af689f5ae3e86e
 
 
 12. Priežiūros institucija kitos valstybės narės priežiūros institucijai teikia jos prašomą informaciją, ypač apie elektroninių pinigų įstaigos, leidžiančios elektroninius pinigus kitoje valstybėje narėje neįsteigus filialo, elektroninių pinigų įstaigos kitoje valstybėje narėje įsteigto filialo, jos pasitelkto fizinio ar juridinio asmens, per kurį elektroninių pinigų įstaiga platina ir išperka elektroninius pinigus kitoje valstybėje narėje, padarytus ar įtariamus pažeidimus, o visą kitą svarbią informaciją, įskaitant informaciją apie tai, ar elektroninių pinigų įstaiga turi buveinę ir vykdo elektroninių pinigų leidimo veiklą Lietuvos Respublikoje, teikia savo iniciatyva. ^s-f169c9525ffae0acefd06406
 
 
-13. Priežiūros institucija pagal šiame straipsnyje, išskyrus jo [[#^s-77eaa9dddd81dad5334ff3b5|14 dalį]], nustatytus reikalavimus bendradarbiauja ir keičiasi informacija su kitos valstybės narės priežiūros institucija Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta Direktyvos (ES) 2015/2366 [[#^s-fa56fa3525c282b24c5291c9|28 straipsnio 5 dalyje]], nustatyta tvarka. ^s-0d080a69eebe4e95c21f8183
+13. Priežiūros institucija pagal šiame straipsnyje, išskyrus jo [[#^s-77eaa9dddd81dad5334ff3b5|14 dalį]], nustatytus reikalavimus bendradarbiauja ir keičiasi informacija su kitos valstybės narės priežiūros institucija Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta [Direktyvos (ES) 2015/2366 28 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/dir/2015/2366/art_28/par_5/oj), nustatyta tvarka. ^s-0d080a69eebe4e95c21f8183
 
 
-14. Priežiūros institucija, atlikdama priežiūrą ir taikydama poveikio priemones elektroninių pinigų įstaigai, kuri leidžia elektroninius pinigus kitoje valstybėje narėje įsteigusi filialą, neįsteigusi filialo ar platina ir išperka elektroninius pinigus kitoje valstybėje narėje per pasitelktą fizinį ar juridinį asmenį, bendradarbiauja su kitos valstybės narės priežiūros institucija Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta Direktyvos (ES) 2015/2366 29 straipsnio 6 dalyje, nustatyta tvarka. ^s-77eaa9dddd81dad5334ff3b5
+14. Priežiūros institucija, atlikdama priežiūrą ir taikydama poveikio priemones elektroninių pinigų įstaigai, kuri leidžia elektroninius pinigus kitoje valstybėje narėje įsteigusi filialą, neįsteigusi filialo ar platina ir išperka elektroninius pinigus kitoje valstybėje narėje per pasitelktą fizinį ar juridinį asmenį, bendradarbiauja su kitos valstybės narės priežiūros institucija Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta [Direktyvos (ES) 2015/2366 29 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/dir/2015/2366/art_29/par_6/oj), nustatyta tvarka. ^s-77eaa9dddd81dad5334ff3b5
 
 
 
@@ -746,10 +746,10 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 6. Jeigu priežiūros institucija turi pagrįstų priežasčių įtarti, kad kitos valstybės narės elektroninių pinigų įstaigai Lietuvos Respublikoje įsteigus filialą ar pasitelkus fizinį ar juridinį asmenį, per kurį elektroninių pinigų įstaiga platina ir išperka elektroninius pinigus, buvo, yra ar bus vykdomas pinigų plovimas ir (ar) teroristų finansavimas arba padidėtų pinigų plovimo ir (ar) teroristų finansavimo rizika, ji apie tai informuoja kitos valstybės narės priežiūros instituciją. ^s-23024e082dc8fdbf7adfa37b
 
 
-7. Priežiūros institucija pagal šiame straipsnyje, išskyrus jo [[#^s-4a920e5f8ce4c549d8adc93b|8 dalį]], nustatytus reikalavimus bendradarbiauja ir keičiasi informacija su kitos valstybės narės priežiūros institucija Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta Direktyvos (ES) 2015/2366 [[#^s-fa56fa3525c282b24c5291c9|28 straipsnio 5 dalyje]], nustatyta tvarka. ^s-cf1f36b83db028a95d2ec5d5
+7. Priežiūros institucija pagal šiame straipsnyje, išskyrus jo [[#^s-4a920e5f8ce4c549d8adc93b|8 dalį]], nustatytus reikalavimus bendradarbiauja ir keičiasi informacija su kitos valstybės narės priežiūros institucija Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta [Direktyvos (ES) 2015/2366 28 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/dir/2015/2366/art_28/par_5/oj), nustatyta tvarka. ^s-cf1f36b83db028a95d2ec5d5
 
 
-8. Priežiūros institucija bendradarbiauja ir keičiasi informacija su kitos valstybės narės priežiūros institucija, prižiūrinčia kitos valstybės narės elektroninių pinigų įstaigą, kuri leidžia elektroninius pinigus Lietuvos Respublikoje įsteigusi filialą, neįsteigusi filialo ar platina ir išperka elektroninius pinigus per pasitelktą fizinį ar juridinį asmenį Lietuvos Respublikoje, ir taikančia jai poveikio priemones, Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta Direktyvos (ES) 2015/2366 29 straipsnio 6 dalyje, nustatyta tvarka. ^s-4a920e5f8ce4c549d8adc93b
+8. Priežiūros institucija bendradarbiauja ir keičiasi informacija su kitos valstybės narės priežiūros institucija, prižiūrinčia kitos valstybės narės elektroninių pinigų įstaigą, kuri leidžia elektroninius pinigus Lietuvos Respublikoje įsteigusi filialą, neįsteigusi filialo ar platina ir išperka elektroninius pinigus per pasitelktą fizinį ar juridinį asmenį Lietuvos Respublikoje, ir taikančia jai poveikio priemones, Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta [Direktyvos (ES) 2015/2366 29 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/dir/2015/2366/art_29/par_6/oj), nustatyta tvarka. ^s-4a920e5f8ce4c549d8adc93b
 
 
 
@@ -768,7 +768,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 4. Užsienio valstybės elektroninių pinigų įstaigos filialo veiklai, priežiūrai ir pabaigai taikomi tokie patys reikalavimai kaip ir elektroninių pinigų įstaigoms, atsižvelgiant į filialo teisinio statuso ir veiklos ypatumus bei į šiame įstatyme nustatytas išimtis ir jų taikymo tvarką reglamentuojančius priežiūros institucijos teisės aktus. ^s-3f718b48f62730bb3d60e3ea
 
 
-5. Užsienio valstybės elektroninių pinigų įstaigos filialams, jų veiklai ir pabaigai netaikomi šio įstatymo [[#^s-ee6b196fd569992781503c55|11 straipsnio]] 2 ir [[#^s-c276b333c999a7b3b461870c|6 dalyse]], 13, 14, 17, 18, 19, 22, 23, 24 ir [[#^s-24495654428b4517e95377bc|47 straipsniuose]] elektroninių pinigų įstaigoms nustatyti reikalavimai. ^s-ddc80fa2c711acf433f1249d
+5. Užsienio valstybės elektroninių pinigų įstaigos filialams, jų veiklai ir pabaigai netaikomi šio įstatymo [[#^s-ee6b196fd569992781503c55|11 straipsnio]] [[#^s-7e0600474b55acf6e9e3400c|2]] ir [[#^s-7bcab4c1def1a6bd76c678c6|6]] dalyse, [[#^s-28c83d1d09750f46f3b54a18|13]], [[#^s-29e067f17cf69e8700a6377b|14]], [[#^s-87ab40e04940e71143f59afe|17]], [[#^s-458b91dae9f14e7479711cd7|18]], [[#^s-2adaf08db2216eeb2d7a4f26|19]], [[#^s-89159048e9a344ea69d02f15|22]], [[#^s-44cd737d2bb22ba01f5dfe88|23]], [[#^s-c065f5c8059afaa226e848e1|24]] ir [[#^s-24495654428b4517e95377bc|47]] straipsniuose elektroninių pinigų įstaigoms nustatyti reikalavimai. ^s-ddc80fa2c711acf433f1249d
 
 
 6. Jeigu užsienio valstybės elektroninių pinigų įstaigos bent vienam filialui Lietuvos Respublikoje jau yra išduota licencija, kitiems jos Lietuvos Respublikoje steigiamiems filialams netaikoma šiame straipsnyje nustatyta tvarka. Tokiu atveju užsienio valstybės elektroninių pinigų įstaiga privalo nurodyti vieną filialą, kuris priežiūros institucijai teiktų šio įstatymo ir priežiūros institucijos teisės aktų nustatytą informaciją apie visus Lietuvos Respublikoje įsteigtus filialus. ^s-c276b333c999a7b3b461870c
@@ -804,7 +804,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 
 
 
-9) su filialo veikla susijusius šio įstatymo [[#^s-5cbc65a8f52ff9d29cd36b61|13 straipsnio 2 dalies]] 1, 2, 3, 5, 6, 7 ir 13 punktuose nustatytus dokumentus ir duomenis; ^s-477948ecedc5b67262177a4a
+9) su filialo veikla susijusius šio įstatymo [[#^s-5cbc65a8f52ff9d29cd36b61|13 straipsnio 2 dalies]] [[#^s-29b33a8476ac559f37867dfe|1]], [[#^s-190241afd6c0b2c8530394fb|2]], [[#^s-65a17b445e8a8e5008c643c1|3]], [[#^s-fd0b1ee18aadb7af55f278a1|5]], [[#^s-c07e0c368d23a338f1a61798|6]], [[#^s-a289aa29bf68dd77ac86f5b4|7]] ir [[#^s-2ce24f241625aea92a4dc422|13]] punktuose nustatytus dokumentus ir duomenis; ^s-477948ecedc5b67262177a4a
 
 
 10) buveinės adresą. ^s-0b92625123c0ca05a8d99e9b
@@ -868,10 +868,10 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 4. Priežiūros institucija apie elektroninių pinigų įstaigos įtraukimą į sąrašą, jos licencijos galiojimo panaikinimą ar sustabdymą ir sustabdymo panaikinimą, elektroninių pinigų įstaigos filialo, veikiančio kitoje valstybėje narėje, ir tarpininko įtraukimą į sąrašą, užsienio valstybės elektroninių pinigų įstaigos filialo įtraukimą į viešąjį elektroninių pinigų įstaigų sąrašą ir jo licencijos galiojimo panaikinimą, jų duomenų ar informacijos pakeitimą skelbia ir šią informaciją atnaujina priežiūros institucijos interneto svetainėje esančiame viešajame elektroninių pinigų įstaigų sąraše. ^s-5d75c0b2bda0024398af8df9
 
 
-5. [[#^s-5d75c0b2bda0024398af8df9|Šio straipsnio 4 dalyje]] nurodytą informaciją priežiūros institucija praneša Europos bankininkystės institucijai Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta Direktyvos (ES) 2015/2366 [[#^s-0ccb0c78dbc40ae8d98cd8e8|15 straipsnio]] 4 ir [[#^s-a97013a8c2894216feaefa85|5 dalyse]], nustatyta tvarka. ^s-a97013a8c2894216feaefa85
+5. [[#^s-5d75c0b2bda0024398af8df9|Šio straipsnio 4 dalyje]] nurodytą informaciją priežiūros institucija praneša Europos bankininkystės institucijai Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta [Direktyvos (ES) 2015/2366 15 straipsnio](https://eur-lex.europa.eu/eli/dir/2015/2366/art_15/oj) [[#^s-3d79e11e2c1588ee6f6f81b3|4]] ir [[#^s-629532cd89d1808dd7490170|5]] dalyse, nustatyta tvarka. ^s-a97013a8c2894216feaefa85
 
 
-6. Viešasis elektroninių pinigų įstaigų sąrašas tvarkomas priežiūros institucijos teisės aktuose ir Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta Direktyvos (ES) 2015/2366 [[#^s-0ccb0c78dbc40ae8d98cd8e8|15 straipsnio]] 4 ir [[#^s-a97013a8c2894216feaefa85|5 dalyse]], nustatyta tvarka. ^s-4a5d86bd57c9d9c286a11fa0
+6. Viešasis elektroninių pinigų įstaigų sąrašas tvarkomas priežiūros institucijos teisės aktuose ir Europos Komisijos priimtų deleguotųjų teisės aktų, kaip nurodyta [Direktyvos (ES) 2015/2366 15 straipsnio](https://eur-lex.europa.eu/eli/dir/2015/2366/art_15/oj) [[#^s-3d79e11e2c1588ee6f6f81b3|4]] ir [[#^s-629532cd89d1808dd7490170|5]] dalyse, nustatyta tvarka. ^s-4a5d86bd57c9d9c286a11fa0
 
 
 
@@ -1080,7 +1080,7 @@ ELEKTRONINIŲ PINIGŲ ĮSTAIGŲ PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PA
 ### 30 straipsnis. Priežiūros institucija ^s-18db4422c1a06452a6af719b
 
 
-1. Priežiūros institucija atlieka šio įstatymo nustatyta tvarka išduotą licenciją turinčių elektroninių pinigų įstaigų, įskaitant jų filialus kitose valstybėse narėse, ir šio įstatymo nustatyta tvarka išduotą licenciją turinčių užsienio valstybių elektroninių pinigų įstaigų filialų priežiūrą. Ši priežiūra neapima šio įstatymo [[#^s-d7d6c0a62e3b795f084d5904|12 straipsnio 1 dalies]] 3 ir 4 punktuose numatytos veiklos priežiūros. ^s-2ddbaa7b72fa3ec8f1ab964c
+1. Priežiūros institucija atlieka šio įstatymo nustatyta tvarka išduotą licenciją turinčių elektroninių pinigų įstaigų, įskaitant jų filialus kitose valstybėse narėse, ir šio įstatymo nustatyta tvarka išduotą licenciją turinčių užsienio valstybių elektroninių pinigų įstaigų filialų priežiūrą. Ši priežiūra neapima šio įstatymo [[#^s-d7d6c0a62e3b795f084d5904|12 straipsnio 1 dalies]] [[#^s-5e6a2b9559a1351da21f66c6|3]] ir [[#^s-2af60a503e1f312770d0faa9|4]] punktuose numatytos veiklos priežiūros. ^s-2ddbaa7b72fa3ec8f1ab964c
 
 
 2. Priežiūra atliekama vadovaujantis [[latest/TAR.1B4D7B687895|Lietuvos Respublikos Lietuvos banko įstatymu]], šiuo įstatymu, [[latest/TAR.779892D853B4|Finansų įstaigų įstatymu]] ir kitais teisės aktais, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai. ^s-2d295e6ef9fa8d95332cd301
@@ -1119,7 +1119,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 2) jeigu elektroninių pinigų įstaigos vykdoma kita negu elektroninių pinigų leidimo veikla turi ar gali turėti neigiamą įtaką elektroninių pinigų įstaigos finansiniam patikimumui ar galimybei stebėti, kaip elektroninių pinigų įstaiga vykdo visus šiame įstatyme nustatytus reikalavimus, reikalauti, kad būtų įsteigtas atskiras juridinis asmuo elektroninių pinigų leidimo veiklai vykdyti; ^s-8b815d03158a2c0f47898f3b
 
 
-3) sudaryti sutartis su audito įmonėmis ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl elektroninių pinigų įstaigos patikrinimo atlikimo, kad būtų nustatyta elektroninių pinigų įstaigos turto vertė, elektroninių pinigų įstaigos finansinė būklė, įvertintos prisiimtos rizikos ar patikrinti kiti elektroninių pinigų įstaigos veiklos klausimai. Jeigu atlikus patikrinimą nustatoma, kad elektroninių pinigų įstaiga priežiūros institucijai pateikė neteisingą informaciją, ar nustatoma kitų padarytų teisės aktų pažeidimų, priežiūros institucijos patirtas patikrinimo organizavimo išlaidas atlygina elektroninių pinigų įstaiga. Pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys turi [[latest/TAR.1B4D7B687895#^s-99181756e1f45dae235dc7c5|Lietuvos banko įstatymo 421 straipsnio 5 dalies]] 1, 3, 11 ir 12 punktuose priežiūros institucijos tarnautojams nustatytas teises; ^s-00057393c35fe005127bf309
+3) sudaryti sutartis su audito įmonėmis ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl elektroninių pinigų įstaigos patikrinimo atlikimo, kad būtų nustatyta elektroninių pinigų įstaigos turto vertė, elektroninių pinigų įstaigos finansinė būklė, įvertintos prisiimtos rizikos ar patikrinti kiti elektroninių pinigų įstaigos veiklos klausimai. Jeigu atlikus patikrinimą nustatoma, kad elektroninių pinigų įstaiga priežiūros institucijai pateikė neteisingą informaciją, ar nustatoma kitų padarytų teisės aktų pažeidimų, priežiūros institucijos patirtas patikrinimo organizavimo išlaidas atlygina elektroninių pinigų įstaiga. Pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys turi [[latest/TAR.1B4D7B687895#^s-99181756e1f45dae235dc7c5|Lietuvos banko įstatymo 421 straipsnio 5 dalies]] [[latest/TAR.1B4D7B687895#^s-04f64a4ea0a54301a4b3fa71|1]], [[latest/TAR.1B4D7B687895#^s-e7cd86468a08917863237218|3]], [[latest/TAR.1B4D7B687895#^s-c0186fb22d1b6a39f4449e7b|11]] ir [[latest/TAR.1B4D7B687895#^s-07bf787f6bc850c937f35229|12]] punktuose priežiūros institucijos tarnautojams nustatytas teises; ^s-00057393c35fe005127bf309
 
 
 4) reikalauti, kad būtų pakeista audito įmonė, atliekanti elektroninių pinigų įstaigos finansinių ataskaitų auditą, jeigu audito įmonė ar auditorius neatitinka (nevykdo) įstatymų nustatytų reikalavimų. ^s-cc7c5cef6ed18853ca87151e
@@ -1161,7 +1161,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 3. Priežiūros institucija, nustačiusi teisės aktų pažeidimų ar elektroninių pinigų įstaigos veiklos trūkumų arba kad kyla grėsmė elektroninių pinigų įstaigos veiklos stabilumui ir patikimumui, turi teisę laikinai elektroninių pinigų įstaigai nustatyti individualius ar papildomus rizikos ribojimo reikalavimus. ^s-6d897d8c45c95245a7971be2
 
 
-4. Elektroninių pinigų įstaigos privalo įvykdyti šio straipsnio 2 ir [[#^s-6d897d8c45c95245a7971be2|3 dalyse]] nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. ^s-1b19811d53b6e5a09b33b3cb
+4. Elektroninių pinigų įstaigos privalo įvykdyti šio straipsnio [[#^s-086a5a6215fac8d57e6b3435|2]] ir [[#^s-6d897d8c45c95245a7971be2|3]] dalyse nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamos, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. ^s-1b19811d53b6e5a09b33b3cb
 
 
 5. Priežiūros institucijos nustatyta tvarka jos tarnautojai turi teisę dalyvauti elektroninių pinigų įstaigos organų darbe – dalyvauti susirinkimuose ar posėdžiuose stebėtojų teisėmis ar kitaip stebėti elektroninių pinigų įstaigos veiklą. ^s-ab30775cc1ca8909160364a0
@@ -1196,7 +1196,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 4. Kitos valstybės narės priežiūros institucijos pavedimu priežiūros institucija, prieš tai informavusi kitos valstybės narės priežiūros instituciją ir vadovaudamasi šio straipsnio nuostatomis, turi teisę patikrinti kitos valstybės narės elektroninių pinigų įstaigos filialą, tarpininką, fizinį ar juridinį asmenį, per kurį kitos valstybės narės elektroninių pinigų įstaiga platina ir išperka elektroninius pinigus, ir kitą asmenį, kuriam perduotas veiklos funkcijų vykdymas, Lietuvos Respublikoje. Kitos valstybės narės priežiūros institucija turi pranešti priežiūros institucijai apie ketinimą atlikti kitos valstybės narės elektroninių pinigų įstaigos filialo, tarpininko, fizinio ar juridinio asmens, per kurį kitos valstybės narės elektroninių pinigų įstaiga platina ir išperka elektroninius pinigus, ir kito asmens, kuriam perduotas veiklos funkcijų vykdymas, patikrinimą Lietuvos Respublikoje. ^s-91825db6e939375e2f2e0e07
 
 
-5. Vykdydama savo funkcijas, susijusias su [[latest/TAR.C44837068B55|Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo]] ir Reglamento (ES) 2023/1113 nuostatų taikymu, ir vadovaudamasi šio straipsnio nuostatomis, priežiūros institucija turi teisę savo iniciatyva patikrinti kitos valstybės narės elektroninių pinigų įstaigos filialą, tarpininką, fizinį ar juridinį asmenį, per kurį kitos valstybės narės elektroninių pinigų įstaiga platina ir išperka elektroninius pinigus, ir kitą asmenį, kuriam perduotas veiklos funkcijų vykdymas, Lietuvos Respublikoje. ^s-fbd34ddc8f015d5e6dca92dd
+5. Vykdydama savo funkcijas, susijusias su [[latest/TAR.C44837068B55|Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo]] ir [Reglamento (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj) nuostatų taikymu, ir vadovaudamasi šio straipsnio nuostatomis, priežiūros institucija turi teisę savo iniciatyva patikrinti kitos valstybės narės elektroninių pinigų įstaigos filialą, tarpininką, fizinį ar juridinį asmenį, per kurį kitos valstybės narės elektroninių pinigų įstaiga platina ir išperka elektroninius pinigus, ir kitą asmenį, kuriam perduotas veiklos funkcijų vykdymas, Lietuvos Respublikoje. ^s-fbd34ddc8f015d5e6dca92dd
 Straipsnio dalies pakeitimai:
 Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
 
@@ -1225,7 +1225,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 3. Jeigu kitos valstybės narės priežiūros institucija nesiima veiksmų arba, Lietuvos priežiūros institucijos nuomone, veiksmai yra nepakankami, kad būtų užtikrintas šio įstatymo, [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] ir jų įgyvendinamųjų priežiūros institucijos teisės aktų reikalavimų vykdymas, ar, nepaisydama kitos valstybės narės priežiūros institucijos veiksmų, kitos valstybės narės elektroninių pinigų įstaiga, kuri leidžia elektroninius pinigus ir (ar) teikia mokėjimo paslaugas Lietuvos Respublikoje neįsteigusi filialo arba platina ir išperka elektroninius pinigus per pasitelktą fizinį ar juridinį asmenį Lietuvos Respublikoje, ar kitos valstybės narės elektroninių pinigų įstaigos Lietuvos Respublikoje įsteigtas filialas ar pasitelktas tarpininkas toliau nevykdo šio įstatymo, [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] ir jų įgyvendinamųjų priežiūros institucijos teisės aktų reikalavimų, priežiūros institucija, iš anksto apie tai pranešusi kitos valstybės narės priežiūros institucijai, turi teisę taikyti šio įstatymo nustatytas poveikio priemones. ^s-f6d76a9143926e710794629a
 
 
-4. Susidarius kritinei situacijai, kai siekiant pašalinti rimtą grėsmę kolektyviniams elektroninių pinigų turėtojų ir (ar) mokėjimo paslaugų vartotojų interesams Lietuvos Respublikoje būtina imtis veiksmų nedelsiant, priežiūros institucija, vykstant priežiūros institucijų tarpvalstybiniam bendradarbiavimui, turi teisę taikyti šiame įstatyme nustatytas poveikio priemones ir neatsižvelgdama į šio straipsnio 2 ir [[#^s-f6d76a9143926e710794629a|3 dalių]] nuostatas. ^s-51af134aa3e1942c985b1408
+4. Susidarius kritinei situacijai, kai siekiant pašalinti rimtą grėsmę kolektyviniams elektroninių pinigų turėtojų ir (ar) mokėjimo paslaugų vartotojų interesams Lietuvos Respublikoje būtina imtis veiksmų nedelsiant, priežiūros institucija, vykstant priežiūros institucijų tarpvalstybiniam bendradarbiavimui, turi teisę taikyti šiame įstatyme nustatytas poveikio priemones ir neatsižvelgdama į šio straipsnio [[#^s-ab16f3770811d35b748ea618|2]] ir [[#^s-f6d76a9143926e710794629a|3]] dalių nuostatas. ^s-51af134aa3e1942c985b1408
 
 
 5. Poveikio priemonės, kurių imamasi pagal [[#^s-51af134aa3e1942c985b1408|šio straipsnio 4 dalį]], turi būti tinkamos ir proporcingos jų tikslui apsaugoti nuo rimtos grėsmės kolektyviniams elektroninių pinigų turėtojų ir (ar) mokėjimo paslaugų vartotojų interesams Lietuvos Respublikoje, tačiau jos neturi suteikti pranašumo kitos valstybės narės elektroninių pinigų įstaigos elektroninių pinigų turėtojams ir (ar) mokėjimo paslaugų vartotojams Lietuvos Respublikoje daugiau negu kitos valstybės narės elektroninių pinigų turėtojams ir (ar) mokėjimo paslaugų vartotojams kitose valstybėse narėse. Šios priemonės turi būti laikinos ir turi būti nutraukiamos, kai pašalinamos nustatytos rimtos grėsmės, be kita ko, padedant kitos valstybės narės priežiūros institucijoms ar su jomis bendradarbiaujant arba padedant Europos bankininkystės institucijai ar su ja bendradarbiaujant, kaip nustatyta šio įstatymo [[#^s-9d218c57b5a60e06c3ae3d7c|37 straipsnio 1 dalyje]]. ^s-6779cdfd9e1d99dd3807f005
@@ -1234,10 +1234,10 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 6. Apie poveikio priemonių taikymą pagal [[#^s-51af134aa3e1942c985b1408|šio straipsnio 4 dalį]] priežiūros institucija nedelsdama praneša kitos valstybės narės ir visų kitų susijusių valstybių narių priežiūros institucijoms, Europos Komisijai ir Europos bankininkystės institucijai. ^s-e571a04b69f5bee7c757698e
 
 
-7. Siekdama stebėti, kaip laikomasi [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] ir jo įgyvendinamųjų priežiūros institucijos teisės aktų nuostatų, taip pat informavimo ir (ar) statistikos tikslais priežiūros institucija turi teisę reikalauti, kad kitos valstybės narės elektroninių pinigų įstaiga, įsteigusi filialą ar teikianti mokėjimo paslaugas per tarpininką Lietuvos Respublikoje, periodiškai teiktų priežiūros institucijai ataskaitas apie Lietuvos Respublikoje filialo ir tarpininko vykdomą mokėjimo paslaugų teikimo veiklą. Tokios informacijos apsaugai mutatis mutandis taikomos [[latest/TAR.B6B636C7384A#^s-f8b4491577818839d66a9c2d|Bankų įstatymo 65 straipsnio]] nuostatos. Priežiūros institucija, atsižvelgdama į Europos Komisijos priimtą deleguotąjį teisės aktą, kaip nurodyta Direktyvos (ES) 2015/2366 29 straipsnio 6 dalyje, nustato ataskaitų sudėtį, formas, ataskaitų sudarymo ir pateikimo tvarką. ^s-89be6ce45d39fabe5a26ff5a
+7. Siekdama stebėti, kaip laikomasi [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] ir jo įgyvendinamųjų priežiūros institucijos teisės aktų nuostatų, taip pat informavimo ir (ar) statistikos tikslais priežiūros institucija turi teisę reikalauti, kad kitos valstybės narės elektroninių pinigų įstaiga, įsteigusi filialą ar teikianti mokėjimo paslaugas per tarpininką Lietuvos Respublikoje, periodiškai teiktų priežiūros institucijai ataskaitas apie Lietuvos Respublikoje filialo ir tarpininko vykdomą mokėjimo paslaugų teikimo veiklą. Tokios informacijos apsaugai mutatis mutandis taikomos [[latest/TAR.B6B636C7384A#^s-f8b4491577818839d66a9c2d|Bankų įstatymo 65 straipsnio]] nuostatos. Priežiūros institucija, atsižvelgdama į Europos Komisijos priimtą deleguotąjį teisės aktą, kaip nurodyta [Direktyvos (ES) 2015/2366 29 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/dir/2015/2366/art_29/par_6/oj), nustato ataskaitų sudėtį, formas, ataskaitų sudarymo ir pateikimo tvarką. ^s-89be6ce45d39fabe5a26ff5a
 
 
-8. Kai yra Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta Direktyvos (ES) 2015/2366 29 straipsnio 5 dalyje, nustatytos sąlygos, priežiūros institucija turi teisę reikalauti, kad kitos valstybės narės elektroninių pinigų įstaiga, kuri, naudodamasi įsisteigimo teise, Lietuvos Respublikoje teikia mokėjimo paslaugas per tarpininką, paskirtų kontaktinį punktą Lietuvos Respublikoje, kad būtų užtikrintas tinkamas ryšių palaikymas, informacijos apie tai, kaip laikomasi [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] ir jo įgyvendinamųjų priežiūros institucijos teisės aktų nuostatų, teikimas bei sudarytos palankesnės sąlygos priežiūros institucijai ir kitos valstybės narės priežiūros institucijoms vykdyti kitų valstybių narių elektroninių pinigų įstaigų, teikiančių mokėjimo paslaugas per tarpininkus, priežiūrą, taip pat pateikti priežiūros institucijų prašomus dokumentus ir kitą informaciją. ^s-ac07f34df757266ab391b9ee
+8. Kai yra Europos Komisijos priimto deleguotojo teisės akto, kaip nurodyta [Direktyvos (ES) 2015/2366 29 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/dir/2015/2366/art_29/par_5/oj), nustatytos sąlygos, priežiūros institucija turi teisę reikalauti, kad kitos valstybės narės elektroninių pinigų įstaiga, kuri, naudodamasi įsisteigimo teise, Lietuvos Respublikoje teikia mokėjimo paslaugas per tarpininką, paskirtų kontaktinį punktą Lietuvos Respublikoje, kad būtų užtikrintas tinkamas ryšių palaikymas, informacijos apie tai, kaip laikomasi [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] ir jo įgyvendinamųjų priežiūros institucijos teisės aktų nuostatų, teikimas bei sudarytos palankesnės sąlygos priežiūros institucijai ir kitos valstybės narės priežiūros institucijoms vykdyti kitų valstybių narių elektroninių pinigų įstaigų, teikiančių mokėjimo paslaugas per tarpininkus, priežiūrą, taip pat pateikti priežiūros institucijų prašomus dokumentus ir kitą informaciją. ^s-ac07f34df757266ab391b9ee
 
 
 
@@ -1254,10 +1254,10 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 ### 38 straipsnis. Atskirų valstybių narių kompetentingų institucijų nesutarimų sprendimas ^s-4ca28c3d65a8618979a211c4
 
 
-1. Jeigu, priežiūros institucijos nuomone, kitos valstybės narės priežiūros institucijos nebendradarbiauja šio įstatymo 18, 19, 35, 36 ir [[#^s-e4dbf6a5ea0cd03dcb0d7a6a|37 straipsniuose]] nurodytais atvejais laikydamosi tuose straipsniuose nustatytų sąlygų, ji gali perduoti tą klausimą svarstyti Europos bankininkystės institucijai ir prašyti jos pagalbos pagal Reglamento (ES) Nr. 1093/2010 [[#^s-2adaf08db2216eeb2d7a4f26|19 straipsnį]]. ^s-124d6af1ca17bec339cb466b
+1. Jeigu, priežiūros institucijos nuomone, kitos valstybės narės priežiūros institucijos nebendradarbiauja šio įstatymo [[#^s-458b91dae9f14e7479711cd7|18]], [[#^s-2adaf08db2216eeb2d7a4f26|19]], [[#^s-ff7cc54d49207d44eb8ba842|35]], [[#^s-6bc489bd413d6d301c117400|36]] ir [[#^s-e4dbf6a5ea0cd03dcb0d7a6a|37]] straipsniuose nurodytais atvejais laikydamosi tuose straipsniuose nustatytų sąlygų, ji gali perduoti tą klausimą svarstyti Europos bankininkystės institucijai ir prašyti jos pagalbos pagal [Reglamento (ES) Nr. 1093/2010 19 straipsnį](https://eur-lex.europa.eu/eli/reg/1093/2010/art_19/oj). ^s-124d6af1ca17bec339cb466b
 
 
-2. Priežiūros institucija atideda savo sprendimo priėmimą, kol nesutarimas bus išspręstas pagal Reglamento (ES) Nr. 1093/2010 [[#^s-2adaf08db2216eeb2d7a4f26|19 straipsnį]]. ^s-5925a362efda7cc7c0a2edd8
+2. Priežiūros institucija atideda savo sprendimo priėmimą, kol nesutarimas bus išspręstas pagal [Reglamento (ES) Nr. 1093/2010 19 straipsnį](https://eur-lex.europa.eu/eli/reg/1093/2010/art_19/oj). ^s-5925a362efda7cc7c0a2edd8
 
 
 
@@ -1368,7 +1368,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 3) nustatytais terminais nepateikiama šiame įstatyme arba kituose teisės aktuose, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, nustatyta ar priežiūros institucijos pareikalauta informacija arba pateikiama neteisinga, neišsami ar netiksli informacija; ^s-f27eb51db36b0512267738b8
 
 
-4) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo [[#^s-3f4f9c79c9c33be9986c91b9|33 straipsnio]] 2 ir 3 dalis duoti privalomi nurodymai; ^s-1402ba95d8cd28326c9f7033
+4) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo [[#^s-3f4f9c79c9c33be9986c91b9|33 straipsnio]] [[#^s-086a5a6215fac8d57e6b3435|2]] ir [[#^s-6d897d8c45c95245a7971be2|3]] dalis duoti privalomi nurodymai; ^s-1402ba95d8cd28326c9f7033
 
 
 5) nebetenkinami elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo licencijai išduoti nustatyti reikalavimai; ^s-9fcae49efda5d272542a7fd1
@@ -1435,7 +1435,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 3. Apie priimtą sprendimą nušalinti elektroninių pinigų įstaigos ar užsienio valstybės elektroninių pinigų įstaigos filialo vadovą (vadovus) nuo pareigų pranešama elektroninių pinigų įstaigai ar užsienio valstybės elektroninių pinigų įstaigos filialą įsteigusiai užsienio valstybės elektroninių pinigų įstaigai ir Juridinių asmenų registro tvarkytojui, taip pat skelbiama priežiūros institucijos interneto svetainėje. ^s-fb4d6dd9cea0215812cc4e7c
 
 
-4. Šio straipsnio 1, 2 ir [[#^s-fb4d6dd9cea0215812cc4e7c|3 dalių]] nuostatos mutatis mutandis taikomos tarpininko vadovo nušalinimui nuo pareigų. ^s-3c2f9664fe113adf802ed3b4
+4. Šio straipsnio [[#^s-51cecbc618095ce6c1b5582d|1]], [[#^s-2527fed16d695db504c68ff1|2]] ir [[#^s-fb4d6dd9cea0215812cc4e7c|3]] dalių nuostatos mutatis mutandis taikomos tarpininko vadovo nušalinimui nuo pareigų. ^s-3c2f9664fe113adf802ed3b4
 
 
 
@@ -1445,7 +1445,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 1. Priežiūros institucija turi teisę elektroninių pinigų įstaigai paskirti laikinąjį administratorių. Laikinuoju administratoriumi gali būti paskirtas juridinis ar fizinis asmuo. Laikinuoju administratoriumi negali būti paskirtas priežiūros institucijos tarnautojas. ^s-3c871ce1bf9bd0280c50e8a3
 
 
-2. Laikinuoju administratoriumi skiriamam fiziniam asmeniui, juridiniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi [[latest/TAR.B6B636C7384A#^s-1da1553dfe8dcc899bb15a35|Bankų įstatymo 34 straipsnio]] 12 ir [[#^s-0f32d015adeff187ff12837b|13 dalyse]] nustatyti nepriekaištingos reputacijos ir šio įstatymo [[#^s-5ac3b149f5ad61fdeacb8d64|16 straipsnio 3 dalyje]] nustatyti kvalifikacijos ir patirties reikalavimai, jo neturi saistyti interesų konfliktas, tai yra laikinojo administratoriaus asmeniniai interesai negali prieštarauti elektroninių pinigų įstaigos ar priežiūros institucijos interesams. ^s-a781497677fd6fb5da36cc2f
+2. Laikinuoju administratoriumi skiriamam fiziniam asmeniui, juridiniam asmeniui ar juridinio asmens vadovui mutatis mutandis taikomi [[latest/TAR.B6B636C7384A#^s-1da1553dfe8dcc899bb15a35|Bankų įstatymo 34 straipsnio]] [[latest/TAR.B6B636C7384A#^s-cbf0d3cfe40162e5179f51eb|12]] ir [[latest/TAR.B6B636C7384A#^s-20a4b9e975c400d03726ecc9|13]] dalyse nustatyti nepriekaištingos reputacijos ir šio įstatymo [[#^s-5ac3b149f5ad61fdeacb8d64|16 straipsnio 3 dalyje]] nustatyti kvalifikacijos ir patirties reikalavimai, jo neturi saistyti interesų konfliktas, tai yra laikinojo administratoriaus asmeniniai interesai negali prieštarauti elektroninių pinigų įstaigos ar priežiūros institucijos interesams. ^s-a781497677fd6fb5da36cc2f
 
 
 3. Laikinojo administratoriaus veiklos sąlygos, funkcijos ir jų apribojimai nustatomi priežiūros institucijos ir laikinojo administratoriaus sudaromoje laikinojo administravimo sutartyje. Tokioje sutartyje turi būti nustatyti priežiūros institucijos įsipareigojimai, susiję su laikinojo administratoriaus veiksmais atlyginant tretiesiems asmenims padarytą žalą. Bet kuriuo atveju laikinasis administratorius neatsako už žalą, atsiradusią dėl veiksmų, atliktų vykdant priežiūros institucijos duotus nurodymus. Tokiu atveju už padarytą žalą, kai yra įstatymuose, reglamentuojančiuose civilinės atsakomybės atsiradimą, nustatytos sąlygos, atsako priežiūros institucija. ^s-085a7db55f8e4e91926157ee
@@ -1567,7 +1567,7 @@ Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
 2) galima daryti išvadą, kad bus pažeidžiami elektroninių pinigų turėtojų turtiniai interesai arba gali kilti pavojus visos mokėjimų sistemos stabilumui ir patikimumui. ^s-386ed1bcd14d7d200c97910f
 
 
-8. Šio straipsnio 1 ir [[#^s-a38c4b70ff95aa509b3515ae|7 dalys]] netaikomos, jeigu sprendimas likviduoti elektroninių pinigų įstaigą priimamas pagal šio įstatymo [[#^s-3d202c84e9f4fd04f5174cc9|15 straipsnio 8 dalį]]. ^s-4f4c38e3d8f431a55a7e3190
+8. Šio straipsnio [[#^s-f990daf175a2a25101377f2f|1]] ir [[#^s-a38c4b70ff95aa509b3515ae|7]] dalys netaikomos, jeigu sprendimas likviduoti elektroninių pinigų įstaigą priimamas pagal šio įstatymo [[#^s-3d202c84e9f4fd04f5174cc9|15 straipsnio 8 dalį]]. ^s-4f4c38e3d8f431a55a7e3190
 
 
 
@@ -1607,10 +1607,10 @@ priedas
 
 
 
-1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB, su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366. ^s-954e47434f30bb89d8930bda
+1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti Direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2000/46/EB, su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj). ^s-954e47434f30bb89d8930bda
 
 
-2. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, su paskutiniais pakeitimais, padarytais 2024 m. kovo 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/886. ^s-f7e855c8959a3640adbe8bd0
+2. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir panaikinama Direktyva 2007/64/EB, su paskutiniais pakeitimais, padarytais 2024 m. kovo 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/886](https://eur-lex.europa.eu/eli/reg/2024/886/oj). ^s-f7e855c8959a3640adbe8bd0
 
 
 ___________________
@@ -1631,7 +1631,7 @@ Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų į
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1107, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13430
-Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 12, 20 ir [[#^s-e4dbf6a5ea0cd03dcb0d7a6a|37 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 [[#^s-464d564e087c2973e4aac383|12]], [[#^s-e7d7ed1051a8d8dd9c88e682|20]] ir [[#^s-e4dbf6a5ea0cd03dcb0d7a6a|37]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1641,7 +1641,7 @@ Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų į
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1242, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09856
-Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 27, 29, 30, 32, 35, 36, 37, 39, [[#^s-58d44a1a481e394352cb6ac4|40 straipsnių]] pakeitimo ir 28, [[#^s-1cf88b8c3780af36205e8e7c|31 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 [[#^s-80807401123b7e673ddf410c|27]], [[#^s-65a247f9a084b368421277e7|29]], [[#^s-18db4422c1a06452a6af719b|30]], [[#^s-ac0055e418054a6b67698596|32]], [[#^s-ff7cc54d49207d44eb8ba842|35]], [[#^s-6bc489bd413d6d301c117400|36]], [[#^s-e4dbf6a5ea0cd03dcb0d7a6a|37]], [[#^s-c2bc32d4d0ffd5d5f444c1ec|39]], [[#^s-58d44a1a481e394352cb6ac4|40]] straipsnių pakeitimo ir [[#^s-f7378abba4c398b546bde5d2|28]], [[#^s-1cf88b8c3780af36205e8e7c|31]] straipsnių pripažinimo netekusiais galios įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1651,7 +1651,7 @@ Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų į
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1303, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11308
-Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo [[latest/d211d26049e211e8ade598b2394a491d|įstatymo Nr. XIII-1094]] 1 ir [[#^s-0f37634e7bbcc47cbf9bda3c|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 pakeitimo [[latest/d211d26049e211e8ade598b2394a491d|įstatymo Nr. XIII-1094]] [[#^s-47388811c4a514f13486ee5c|1]] ir [[#^s-0f37634e7bbcc47cbf9bda3c|2]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1666,14 +1666,14 @@ Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų į
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2714, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11237
-Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 15, 39 ir [[#^s-887bf4d69aed4faa31130685|43 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 [[#^s-0ccb0c78dbc40ae8d98cd8e8|15]], [[#^s-c2bc32d4d0ffd5d5f444c1ec|39]] ir [[#^s-887bf4d69aed4faa31130685|43]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2885, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13494
-Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 1, 2, 12, 13, 14 ir [[#^s-ff7cc54d49207d44eb8ba842|35 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 [[#^s-47388811c4a514f13486ee5c|1]], [[#^s-0f37634e7bbcc47cbf9bda3c|2]], [[#^s-464d564e087c2973e4aac383|12]], [[#^s-28c83d1d09750f46f3b54a18|13]], [[#^s-29e067f17cf69e8700a6377b|14]] ir [[#^s-ff7cc54d49207d44eb8ba842|35]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3096, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20117
-Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 11, [[#^s-2a6e29d1a18a38185f779933|25 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 27-1 straipsniu įstatymas
+Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatymo Nr. XI-1868 [[#^s-ee6b196fd569992781503c55|11]], [[#^s-2a6e29d1a18a38185f779933|25]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 27-1 straipsniu įstatymas

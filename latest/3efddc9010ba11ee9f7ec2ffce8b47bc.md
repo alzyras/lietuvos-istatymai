@@ -43,10 +43,10 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-7f57730e81d87df94c4bd8d8
 
 
-Pakeisti 2 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/daf8dfc0c4c811edac36f416a198a714#^s-c88a8c14e6339ca1c3124b30|2 straipsnį]] ir jį išdėstyti taip:
 
 
-„2 straipsnis. Įstatymo įsigaliojimas ir taikymas
+„[[latest/daf8dfc0c4c811edac36f416a198a714#^s-c88a8c14e6339ca1c3124b30|2 straipsnis]]. Įstatymo įsigaliojimas ir taikymas
 
 
 1. Šis įstatymas įsigalioja 2023 m. liepos 1 d. ^s-7a2dd223828ee0138c4e5547

@@ -62,7 +62,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 „2. Daugkartinis pakuočių naudojimas (toliau – pakartotinis naudojimas) – operacija, kai pakuotės (sukonstruotos taip, kad naudojimo laikotarpiu galima būtų transportuoti daugiau nei vieną kartą) yra vėl pripildomos naudojant pripildant reikalingus papildomus rinkoje esančius produktus ar jų nenaudojant ar panaudojamos tam pačiam tikslui, kuriam jos buvo pagamintos. Jei tokios daugkartinės pakuotės daugiau nebenaudojamos pagal paskirtį, jos tampa pakuočių atliekomis.“
 
 
-2. Buvusias [[#^s-8abac652a06caf0a13ecd72d|2 straipsnio]] 2, 3, 4, 5 ir [[#^s-f9836bd27166014b15ebc29c|6 dalis]] laikyti atitinkamai 3, 4, 5, 6 ir [[#^s-1be921cd9ae9c83d0b4274a7|7 dalimis]]. ^s-f64074851b1ea45ca63316b8
+2. Buvusias [[#^s-8abac652a06caf0a13ecd72d|2 straipsnio]] 2, [[#^s-cb4d4038264dd85d914283d3|3]], [[#^s-e14991e570735874aaf624f1|4]], [[#^s-effa9ead4641d65dab160474|5]] ir [[#^s-f9836bd27166014b15ebc29c|6]] dalis laikyti atitinkamai [[#^s-cb4d4038264dd85d914283d3|3]], [[#^s-e14991e570735874aaf624f1|4]], [[#^s-effa9ead4641d65dab160474|5]], [[#^s-f9836bd27166014b15ebc29c|6]] ir [[#^s-1be921cd9ae9c83d0b4274a7|7]] dalimis. ^s-f64074851b1ea45ca63316b8
 
 
 3. Buvusią 2 straipsnio 19 dalį laikyti [[#^s-b39462352b461cafd28b85bf|10 dalimi]], ją pakeisti ir išdėstyti taip: ^s-cb4d4038264dd85d914283d3

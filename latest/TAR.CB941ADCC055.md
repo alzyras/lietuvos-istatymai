@@ -578,7 +578,7 @@ Aplinkai kenksmingą veiklą sustabdyti turi teisę tik vyriausieji valstybiniai
 ### 27 straipsnis. Atvejai, kai aplinkai kenksminga veikla sustabdoma nedelsiant ^s-814128352cefcc0b9aef54c4
 
 
-Šio Įstatymo [[#^s-643a1b8461dd915316b68152|25 straipsnio]] 2 ir 3 punktuose nustatytais atvejais aplinkos apsaugos valstybinės kontrolės pareigūnas aplinkai kenksmingą veiklą sustabdo nedelsdamas (nenustatomas pasirengimo sustabdyti aplinkai kenksmingą veiklą terminas) ir apie tai praneša regiono aplinkos apsaugos departamentui, kurio teritorijoje sustabdoma aplinkai kenksminga veikla, bei aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančiai institucijai.
+Šio Įstatymo [[#^s-643a1b8461dd915316b68152|25 straipsnio]] [[#^s-4a3dc138c10a3f346ff2e2b8|2]] ir [[#^s-ed764a7fb9a1fc939acc8346|3]] punktuose nustatytais atvejais aplinkos apsaugos valstybinės kontrolės pareigūnas aplinkai kenksmingą veiklą sustabdo nedelsdamas (nenustatomas pasirengimo sustabdyti aplinkai kenksmingą veiklą terminas) ir apie tai praneša regiono aplinkos apsaugos departamentui, kurio teritorijoje sustabdoma aplinkai kenksminga veikla, bei aplinkos apsaugos valstybinės kontrolės priežiūrą atliekančiai institucijai.
 
 
 
@@ -811,7 +811,7 @@ Aplinkos apsaugos valstybinės kontrolės pareigūnams aplinkos apsaugos valstyb
 ### 45 straipsnis. Neetatinių aplinkos apsaugos inspektorių veiklos pagrindai ^s-dbad8dcfccdd10d2e7c9f939
 
 
-Neetatiniai aplinkos apsaugos inspektoriai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, [[latest/TAR.E2780B68DE62|Aplinkos apsaugos įstatymu]], šiuo ir kitais įstatymais bei kitais norminiais teisės aktais, aplinkos apsaugos valstybinės kontrolės pareigūnų, su kuriais dirba, nurodymais.
+Neetatiniai aplinkos apsaugos inspektoriai savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), [[latest/TAR.E2780B68DE62|Aplinkos apsaugos įstatymu]], šiuo ir kitais įstatymais bei kitais norminiais teisės aktais, aplinkos apsaugos valstybinės kontrolės pareigūnų, su kuriais dirba, nurodymais.
 
 
 
@@ -917,7 +917,7 @@ Aktyviai dirbantys neetatiniai aplinkos apsaugos inspektoriai aplinkos ministro 
 2. Neetatiniam aplinkos apsaugos inspektoriui žuvus atliekant neetatinio aplinkos apsaugos inspektoriaus funkcijas, jo šeimos nariams (sutuoktiniui, nepilnamečiams vaikams (įvaikiams), vaikams, gimusiems po žuvusiojo mirties) ir nedarbingiems asmenims, kurie buvo žuvusiojo išlaikomi ar jo žuvimo dieną turėjo teisę gauti jo išlaikymą, išmokama lygiomis dalimis 100 MGL dydžio vienkartinė pašalpa. ^s-dc23af7236c28f5299620f84
 
 
-3. Šio straipsnio 1 ir [[#^s-dc23af7236c28f5299620f84|2 dalyse]] numatytų pašalpų išmokėjimo atvejus ir tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-1057646813a578defbab33a9
+3. Šio straipsnio [[#^s-359a56169ef3e34f55f7924d|1]] ir [[#^s-dc23af7236c28f5299620f84|2]] dalyse numatytų pašalpų išmokėjimo atvejus ir tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-1057646813a578defbab33a9
 
 
 

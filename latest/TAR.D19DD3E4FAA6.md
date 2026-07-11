@@ -378,7 +378,7 @@ Jei notaras perėjo dirbti į renkamas pareigas, Lietuvos Respublikos teisingumo
 ### 16 straipsnis. 26 straipsnio pakeitimas ir papildymas ^s-411abbf11c74c77db3810b41
 
 
-26 straipsnio 1 dalies 13 punktą pripažinti netekusiu galios, buvusius 14, 15 ir 16 punktus laikyti atitinkamai 13, 14 ir [[#^s-637c2ed5c09d760bb388cb3d|15 punktais]], straipsnį papildyti 2 dalimi ir jį išdėstyti taip:
+26 straipsnio 1 dalies 13 punktą pripažinti netekusiu galios, buvusius 14, 15 ir 16 punktus laikyti atitinkamai 13, 14 ir 15 punktais, straipsnį papildyti 2 dalimi ir jį išdėstyti taip:
 
 
 „26 straipsnis. Notarų atliekami notariniai veiksmai
@@ -499,7 +499,7 @@ Lietuvos Respublikos teismai ne vėliau kaip per 3 dienas nuo sprendimo, apriboj
 „Visi notariniai veiksmai registruojami viename notariniame registre.“
 
 
-2. 37 straipsnio 2 dalies 3 punktą pakeisti, dalį papildyti nauju [[#^s-b570e75880111e6cb516f891|4 punktu]], buvusius 4, 5 bei [[#^s-8fbfe92a307d4b6da456648c|6 punktus]] laikyti atitinkamai 5, 6 bei [[#^s-c3db92e88868a8065f9fd49b|7 punktais]] ir šią dalį išdėstyti taip: ^s-60b4aa40a925e0785d98da35
+2. 37 straipsnio 2 dalies 3 punktą pakeisti, dalį papildyti nauju [[#^s-b570e75880111e6cb516f891|4 punktu]], buvusius 4, 5 bei 6 punktus laikyti atitinkamai 5, 6 bei 7 punktais ir šią dalį išdėstyti taip: ^s-60b4aa40a925e0785d98da35
 
 
 „Registre turi būti nurodomi šie registruojamo notarinio veiksmo duomenys:

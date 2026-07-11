@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-ae2fca5cdc4aa16115155436
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. balandžio 8 d. dekretą Nr. 1K-1296, ratifikuoja 2003 m. gegužės 21 d. Kijeve priimtą Konvencijos dėl teisės gauti informaciją, visuomenės dalyvavimo priimant sprendimus ir teisės kreiptis į teismus aplinkosaugos klausimais protokolą dėl išleidžiamų ir perduodamų teršalų registrų.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. balandžio 8 d. dekretą Nr. 1K-1296](https://e-tar.lt/portal/lt/legalAct/TAR.C90C6C0F41F9), ratifikuoja 2003 m. gegužės 21 d. Kijeve priimtą Konvencijos dėl teisės gauti informaciją, visuomenės dalyvavimo priimant sprendimus ir teisės kreiptis į teismus aplinkosaugos klausimais protokolą dėl išleidžiamų ir perduodamų teršalų registrų.
 
 
 

@@ -306,7 +306,7 @@ Papildyti Įstatymą 44 straipsniu:
 „44 straipsnis. Įstatymo nuostatų taikymas valstybės ir savivaldybės įmonėms ir viešosioms įstaigoms, kurių dalininkė yra valstybė ar savivaldybė
 
 
-1. Šio įstatymo 8, [[#^s-6bd0ef984a46ed813522b148|14 straipsnių]] ir trečiojo, ketvirtojo skirsnių nuostatos taikomos tik tai viešąjį administravimą atliekančių valstybės ar savivaldybės įmonių ir viešųjų įstaigų veiklai, kuri tiesiogiai susijusi su joms pavestų viešojo administravimo įgaliojimų įgyvendinimu. ^s-9c10ffc3af782de1148de6ab
+1. Šio įstatymo [[#^s-f4db01b3d2a9ee3f8fd7ce5b|8]], [[#^s-6bd0ef984a46ed813522b148|14]] straipsnių ir trečiojo, ketvirtojo skirsnių nuostatos taikomos tik tai viešąjį administravimą atliekančių valstybės ar savivaldybės įmonių ir viešųjų įstaigų veiklai, kuri tiesiogiai susijusi su joms pavestų viešojo administravimo įgaliojimų įgyvendinimu. ^s-9c10ffc3af782de1148de6ab
 
 
 2. Šio įstatymo [[#^s-b245ec268615b474a35cc6c2|10 straipsnio]] 5, 6 dalių nuostatos ir [[#^s-d0420d60683cf044f054ec1a|11 straipsnio]] nuostatos dėl viešojo administravimo subjektų struktūros viešąjį administravimą atliekančioms valstybės ar savivaldybės įmonėms ir viešosioms įstaigoms netaikomos.“ ^s-d59d28d18bfe7a7170b8cf04
@@ -316,7 +316,7 @@ Papildyti Įstatymą 44 straipsniu:
 ### 17 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas ^s-46a89d1e5f2cc825b5e0c6d0
 
 
-1. Šis įstatymas, išskyrus [[#^s-f9cb7427dfb9e055fd812257|1 straipsnio 2 dalį]], [[#^s-705a95023ba984e597952bbd|8 straipsnio 1 dalį]], [[#^s-d0420d60683cf044f054ec1a|11 straipsnyje]] išdėstyto [[latest/TAR.0BDFFD850A66#^s-2b5971b01142325aa054cd68|Viešojo administravimo įstatymo 15 straipsnio]] 1 ir [[#^s-39de5ae70543c49937badd17|3 dalis]], [[#^s-46a89d1e5f2cc825b5e0c6d0|17 straipsnio]] 3 ir [[#^s-808bb3f31ee8b3c4483e31a2|4 dalis]], įsigalioja 2011 m. gegužės 1 d. ^s-d13874f9ffa87ffd34adceb7
+1. Šis įstatymas, išskyrus [[#^s-f9cb7427dfb9e055fd812257|1 straipsnio 2 dalį]], [[#^s-705a95023ba984e597952bbd|8 straipsnio 1 dalį]], [[#^s-d0420d60683cf044f054ec1a|11 straipsnyje]] išdėstyto [[latest/TAR.0BDFFD850A66#^s-2b5971b01142325aa054cd68|Viešojo administravimo įstatymo 15 straipsnio]] [[latest/TAR.0BDFFD850A66#^s-b0fd7935e07673bd8051f3d7|1]] ir [[latest/TAR.0BDFFD850A66#^s-9053e5caa21ac99efb2ca538|3]] dalis, [[#^s-46a89d1e5f2cc825b5e0c6d0|17 straipsnio]] [[#^s-39de5ae70543c49937badd17|3]] ir [[#^s-808bb3f31ee8b3c4483e31a2|4]] dalis, įsigalioja 2011 m. gegužės 1 d. ^s-d13874f9ffa87ffd34adceb7
 
 
 2. Šio įstatymo [[#^s-705a95023ba984e597952bbd|8 straipsnio 1 dalis]] įsigalioja Valstybės pažangos strategijos įsigaliojimo dieną. ^s-fd242123318532f93d56e7a6

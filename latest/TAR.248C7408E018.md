@@ -281,7 +281,7 @@ Pakeisti [[#^s-1fde55ce8f238e463c1dbea0|9 straipsnį]] ir jį išdėstyti taip:
 1. Pakeisti [[#^s-f2bfc4d569a7bc66eb98720d|13 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-3880578f264343843fb413df
 
 
-„2. Išmoka privalomosios tarnybos kario vaikui, globos (rūpybos) išmoka, globos (rūpybos) išmokos tikslinis priedas ir išmoka vaikui skiriami ir mokami nuo teisės gauti išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 praėjusių mėnesių nuo visų dokumentų, būtinų išmokai skirti, pateikimo savivaldybės administracijai dienos. Išmoka vaikui skiriama 12 mėnesių laikotarpiui arba trumpesniam laikotarpiui, jeigu vaikui sukanka šio įstatymo [[#^s-2a7c2aa2a5ac166e3204281f|6 straipsnio]] 1 ir [[#^s-ba2372d9944571b679d553d1|2 dalyse]] nustatytas amžius, iki kurio gali būti mokama išmoka vaikui, arba ši išmoka pradedama mokėti ir kitam tų pačių bendrai gyvenančių asmenų auginamam ar globojamam (rūpinamam) vaikui. Pasibaigus paskirtos išmokos vaikui mokėjimo laikotarpiui, dėl tolesnio išmokos vaikui skyrimo asmuo turi teisę kreiptis ir pateikti būtinus dokumentus išmokai gauti, taip pat nurodyti duomenis apie bendrai gyvenančių asmenų pajamas.“
+„2. Išmoka privalomosios tarnybos kario vaikui, globos (rūpybos) išmoka, globos (rūpybos) išmokos tikslinis priedas ir išmoka vaikui skiriami ir mokami nuo teisės gauti išmoką atsiradimo dienos, tačiau ne daugiau kaip už 12 praėjusių mėnesių nuo visų dokumentų, būtinų išmokai skirti, pateikimo savivaldybės administracijai dienos. Išmoka vaikui skiriama 12 mėnesių laikotarpiui arba trumpesniam laikotarpiui, jeigu vaikui sukanka šio įstatymo [[#^s-2a7c2aa2a5ac166e3204281f|6 straipsnio]] [[#^s-2efcada6a6e26e94d65b3c7e|1]] ir [[#^s-459d279a13cc41d6cad9bcc0|2]] dalyse nustatytas amžius, iki kurio gali būti mokama išmoka vaikui, arba ši išmoka pradedama mokėti ir kitam tų pačių bendrai gyvenančių asmenų auginamam ar globojamam (rūpinamam) vaikui. Pasibaigus paskirtos išmokos vaikui mokėjimo laikotarpiui, dėl tolesnio išmokos vaikui skyrimo asmuo turi teisę kreiptis ir pateikti būtinus dokumentus išmokai gauti, taip pat nurodyti duomenis apie bendrai gyvenančių asmenų pajamas.“
 
 
 2. Papildyti 13 straipsnį 7 dalimi: ^s-ba2372d9944571b679d553d1
@@ -387,7 +387,7 @@ Pakeisti 18 straipsnio 2 punktą ir jį išdėstyti taip:
 ### 16 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-bb08ac3c9e0be03e7f2f1d58
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-09ccc6c996e22cb5d75c4ded|3 dalis]], įsigalioja 2012 m. sausio 1 d. ^s-1b549c631af9faa3249f9bf7
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-0eb232d74f1ffcaddadfb859|2]] ir [[#^s-09ccc6c996e22cb5d75c4ded|3]] dalis, įsigalioja 2012 m. sausio 1 d. ^s-1b549c631af9faa3249f9bf7
 
 
 2. Lietuvos Respublikos Vyriausybė ar jos įgaliotos institucijos iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-0eb232d74f1ffcaddadfb859

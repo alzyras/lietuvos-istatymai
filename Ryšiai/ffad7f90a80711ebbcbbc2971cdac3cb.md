@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos mediacijos įstatymo Nr. X-1702 20 ir 21 stra
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.27B041C4CCDE|Lietuvos Respublikos mediacijos įstatymas]] - Mediacijos įstatymo
+- [[latest/TAR.27B041C4CCDE|Lietuvos Respublikos mediacijos įstatymas]] - 9 citatos - 20 straipsnis
 
 ## Šį įstatymą cituoja
 

@@ -298,7 +298,7 @@ Pakeisti 96 straipsnį ir jį išdėstyti taip:
 ### 19 straipsnis. 118 straipsnio pakeitimas ^s-c79a21a254ea0f5061b3be79
 
 
-118 straipsnio 1 ir [[#^s-b936d98dde53844e3f8650c3|2 dalyse]] po žodžių „arba jį pavaduojantis“ įrašyti žodžius „o poilsio ir švenčių dienomis – ir pataisos įstaigos direktoriaus įgaliotas“ ir šį straipsnį išdėstyti taip:
+118 straipsnio 1 ir 2 dalyse po žodžių „arba jį pavaduojantis“ įrašyti žodžius „o poilsio ir švenčių dienomis – ir pataisos įstaigos direktoriaus įgaliotas“ ir šį straipsnį išdėstyti taip:
 
 
 

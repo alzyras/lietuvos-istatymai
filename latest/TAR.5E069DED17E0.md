@@ -57,7 +57,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 3. Įslaptintus dokumentus, gaminius ir kitus objektus, žymimus slaptumo žymomis „Visiškai slaptai“ arba „Slaptai“, į Lietuvos Respublikos diplomatines atstovybes užsienio valstybėse, Lietuvos Respublikos atstovybes prie tarptautinių organizacijų, konsulines įstaigas, specialiąsias misijas ir iš jų gali gabenti neginkluoti, bet ne mažiau kaip du diplomatiniai ar kariniai kurjeriai arba paslapčių subjekto įgalioti asmenys. ^s-71974804c672b8e5983513f3
 
 
-4. Įslaptintus dokumentus, gaminius ir kitus objektus, žymimus slaptumo žymomis „Konfidencialiai“ ir „Riboto naudojimo“, gali gabenti neginkluoti kariniai, diplomatiniai, kurjerių pašto tarnybų kurjeriai arba paslapčių subjekto įgalioti asmenys. ^s-6919401b382b2b2510f5404b
+4. Įslaptintus dokumentus, gaminius ir kitus objektus, žymimus slaptumo žymomis „Konfidencialiai“ ir [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), gali gabenti neginkluoti kariniai, diplomatiniai, kurjerių pašto tarnybų kurjeriai arba paslapčių subjekto įgalioti asmenys. ^s-6919401b382b2b2510f5404b
 
 
 5. Įslaptintus dokumentus, gaminius ir kitus objektus gabenantys asmenys: ^s-591960c35cd1708a5ade70b4

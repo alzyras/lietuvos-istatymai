@@ -328,7 +328,7 @@ Pakeisti 33 straipsnio 2 dalį ir ją išdėstyti taip:
 3. Papildyti 37 straipsnį nauja [[#^s-38d871c753ce4f239e151287|4 dalimi]]: ^s-ce5eee20f68c8d7926a1f470
 
 
-„4. Juridinių asmenų, turinčių tarpvalstybinio grynųjų pinigų vežimo licenciją, išduotą Reglamento (ES) Nr. 1214/2011 nustatytomis sąlygomis, grynųjų pinigų vežimo apsaugos darbuotojai (kaip jie apibrėžti šio reglamento [[#^s-783c7c0add4a506f88b306a8|1 straipsnio]] i punkte) pavienius ginklus, kurių civilinė apyvarta Lietuvos Respublikoje draudžiama, tranzitu gali gabenti šiame reglamente nustatyta tvarka.“
+„4. Juridinių asmenų, turinčių tarpvalstybinio grynųjų pinigų vežimo licenciją, išduotą [Reglamento (ES) Nr. 1214/2011](https://eur-lex.europa.eu/eli/reg/1214/2011/oj) nustatytomis sąlygomis, grynųjų pinigų vežimo apsaugos darbuotojai (kaip jie apibrėžti šio reglamento [[#^s-783c7c0add4a506f88b306a8|1 straipsnio]] i punkte) pavienius ginklus, kurių civilinė apyvarta Lietuvos Respublikoje draudžiama, tranzitu gali gabenti šiame reglamente nustatyta tvarka.“
 
 
 4. Buvusias 37 straipsnio 4, 5, 6, 7, 8, 9 ir 10 dalis laikyti atitinkamai 5, 6, 7, 8, 9, 10 ir 11 dalimis. ^s-38d871c753ce4f239e151287
@@ -374,7 +374,7 @@ Pakeisti 33 straipsnio 2 dalį ir ją išdėstyti taip:
 1. Papildyti Įstatymo priedą 2 punktu: ^s-bb0b2fa3dd13ddf87b6897dc
 
 
-„2. 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1214/2011 dėl profesionalaus tarpvalstybinio grynųjų eurų vežimo kelių transportu iš vienos euro zonos valstybės narės į kitą (OL 2011 L 316, p. 1).“
+„2. 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1214/2011](https://eur-lex.europa.eu/eli/reg/1214/2011/oj) dėl profesionalaus tarpvalstybinio grynųjų eurų vežimo kelių transportu iš vienos euro zonos valstybės narės į kitą (OL 2011 L 316, p. 1).“
 
 
 2. Papildyti Įstatymo priedą 3 punktu: ^s-4ad0c03c2a5362641e0da0ef

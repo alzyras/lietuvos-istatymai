@@ -117,7 +117,7 @@ Pakeisti [[#^s-c5f81578977291ad3fb13ed6|7 straipsnį]] ir jį išdėstyti taip:
 2. Sprendimą dėl auditoriaus vardo suteikimo per 30 dienų nuo prašymo pateikimo priima Auditorių rūmai ir informuoja apie galimybę priimti auditoriaus priesaiką. Auditorių rūmai išsiunčia auditoriaus padėjėjui priimto sprendimo kopiją ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos. ^s-d351113ecd9c4ca635e8e2b7
 
 
-3. Auditorių rūmai, spręsdami klausimą dėl auditoriaus vardo suteikimo, turi teisę pareikalauti dokumentų, įrodančių šio Įstatymo 5 ir [[#^s-19c4c29c4e361f5064d151ee|6 straipsniuose]] nurodytas aplinkybes. ^s-d13033fdb1ecbfb1f5d533e4
+3. Auditorių rūmai, spręsdami klausimą dėl auditoriaus vardo suteikimo, turi teisę pareikalauti dokumentų, įrodančių šio Įstatymo [[#^s-6ae54900d9c139a93a6dbb48|5]] ir [[#^s-19c4c29c4e361f5064d151ee|6]] straipsniuose nurodytas aplinkybes. ^s-d13033fdb1ecbfb1f5d533e4
 
 
 4. Auditoriaus padėjėjui, davusiam auditoriaus priesaiką ir ją pasirašiusiam, suteikiamas auditoriaus vardas ir išduodamas auditoriaus pažymėjimas.“ ^s-08e597a8c1e20180a6c72ee7
@@ -146,7 +146,7 @@ Pakeisti 17 straipsnio 6 dalį ir ją išdėstyti taip:
 2. Pakeisti 18 straipsnio 5 dalį ir ją išdėstyti taip: ^s-cba85f27a0313fd16d9c5292
 
 
-„5. Auditorių rūmai gali atsisakyti įrašyti įmonę į audito įmonių sąrašą, jeigu nepateikti [[#^s-16782c28b3bbe74dce70300d|šio straipsnio 3 dalyje]] nurodyti dokumentai arba įmonė neatitinka šio Įstatymo 17, 19 ir 33 straipsniuose nustatytų reikalavimų, arba jei įmonės vadovas ar dalyvis, kuris turi daugiau kaip ½ visų balsavimo teisių, yra auditorius, turintis galiojančią drausminę nuobaudą, arba jei įmonės vadovas ar dalyvis, turintis daugiau kaip ½ visų balsavimo teisių, yra auditorius, kurio vadovaujama ar kontroliuojama audito įmonė buvo išbraukta iš audito įmonių sąrašo Audito kokybės kontrolės komiteto sprendimu ir nuo šio išbraukimo praėjo mažiau kaip 3 metai.“
+„5. Auditorių rūmai gali atsisakyti įrašyti įmonę į audito įmonių sąrašą, jeigu nepateikti [[#^s-16782c28b3bbe74dce70300d|šio straipsnio 3 dalyje]] nurodyti dokumentai arba įmonė neatitinka šio Įstatymo [[#^s-50307a1cea6566a43915cdaa|17]], [[#^s-259d26764c6bdddb3e60ec8f|19]] ir 33 straipsniuose nustatytų reikalavimų, arba jei įmonės vadovas ar dalyvis, kuris turi daugiau kaip ½ visų balsavimo teisių, yra auditorius, turintis galiojančią drausminę nuobaudą, arba jei įmonės vadovas ar dalyvis, turintis daugiau kaip ½ visų balsavimo teisių, yra auditorius, kurio vadovaujama ar kontroliuojama audito įmonė buvo išbraukta iš audito įmonių sąrašo Audito kokybės kontrolės komiteto sprendimu ir nuo šio išbraukimo praėjo mažiau kaip 3 metai.“
 
 
 3. Pakeisti 18 straipsnio 6 dalį ir ją išdėstyti taip: ^s-16782c28b3bbe74dce70300d
@@ -257,7 +257,7 @@ Pakeisti 28 straipsnio 5 dalį ir ją išdėstyti taip:
 ### 12 straipsnis. 33 straipsnio 1 dalies papildymas ir pakeitimas ^s-b56169fe3d75cd255bbefb4d
 
 
-Papildyti 33 straipsnio 1 dalį naujais 2 ir [[#^s-e9bd188eee6d66d853ee3b11|13 punktais]], pakeisti punktų numeraciją ir visą dalį išdėstyti taip:
+Papildyti 33 straipsnio 1 dalį naujais 2 ir 13 punktais, pakeisti punktų numeraciją ir visą dalį išdėstyti taip:
 
 
 „1. Audito įmonė turi teisę verstis šia veikla:
@@ -410,7 +410,7 @@ Pakeisti 48 straipsnį ir jį išdėstyti taip:
 2. Pakeisti 53 straipsnio 4 dalį ir ją išdėstyti taip: ^s-b13c14b934a334e369f601de
 
 
-„4. Auditorių garbės teismas, priėmęs sprendimą skirti [[#^s-7478103422b64a2e4b8e4467|šio straipsnio 1 dalyje]] nurodytas nuobaudas arba [[#^s-b13c14b934a334e369f601de|šio straipsnio 2 dalyje]] nurodytą sprendimą, privalo per 14 dienų nuo atitinkamo sprendimo priėmimo dienos pateikti jį Auditorių rūmams. Apie priimtą sprendimą auditoriui pranešama raštu per 3 dienas nuo sprendimo pateikimo Auditorių rūmams dienos.“
+„4. Auditorių garbės teismas, priėmęs sprendimą skirti [[#^s-7478103422b64a2e4b8e4467|šio straipsnio 1 dalyje]] nurodytas nuobaudas arba šio straipsnio 2 dalyje nurodytą sprendimą, privalo per 14 dienų nuo atitinkamo sprendimo priėmimo dienos pateikti jį Auditorių rūmams. Apie priimtą sprendimą auditoriui pranešama raštu per 3 dienas nuo sprendimo pateikimo Auditorių rūmams dienos.“
 
 
 

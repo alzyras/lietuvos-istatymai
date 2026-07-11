@@ -84,7 +84,7 @@ Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikian
 1. Pakeisti [[#^s-c56c56d709bb1c1b01bf8f95|9 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-2ace1be29bc3412815de3b2a
 
 
-„1. Asmenims, įsigyjantiems žemę (įskaitant miškus ir vandens telkinius), žemės reformos metu galima perleisti pirkimo–pardavimo būdu tiek valstybinės žemės, kad bendras vienam piliečiui sugrąžintos natūra, perduotos, suteiktos nuosavybėn neatlygintinai ir pirktos, o kitam asmeniui – suteiktos nuosavybėn neatlygintinai ir pirktos iš valstybės žemės, išskyrus žemės ūkio paskirties žemę, plotas sudarytų ne daugiau kaip 150 ha, o žemės ūkio paskirties žemės plotas neviršytų Žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo [[#^s-2ace1be29bc3412815de3b2a|4 straipsnio 1 dalyje]] nurodyto ploto.“
+„1. Asmenims, įsigyjantiems žemę (įskaitant miškus ir vandens telkinius), žemės reformos metu galima perleisti pirkimo–pardavimo būdu tiek valstybinės žemės, kad bendras vienam piliečiui sugrąžintos natūra, perduotos, suteiktos nuosavybėn neatlygintinai ir pirktos, o kitam asmeniui – suteiktos nuosavybėn neatlygintinai ir pirktos iš valstybės žemės, išskyrus žemės ūkio paskirties žemę, plotas sudarytų ne daugiau kaip 150 ha, o žemės ūkio paskirties žemės plotas neviršytų Žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo 4 straipsnio 1 dalyje nurodyto ploto.“
 
 
 2. [[#^s-c0e52cdf583b23176cbdf857|9 straipsnio 2 dalies]] antrame sakinyje po žodžio „kaimo“ įrašyti žodį „gyvenamojoje“ ir šią dalį išdėstyti taip: ^s-27ca1c9d1986639ae97deb1f
@@ -130,7 +130,7 @@ Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikian
 5) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems (padidinti iki 30 procentų) žemės sklypai toje pat kadastrinėje vietovėje piliečiams, kurių norima susigrąžinti žemė patenka į asmeniniam ūkiui ar valstiečio ūkiui skirtą teritoriją; ^s-50960059885d565fe799ecd1
 
 
-6) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems naudojami žemės sklypai Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio 13 dalyje nurodytiems asmenims; ^s-a715c40f731a4d7161c8b92c
+6) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems naudojami žemės sklypai [[latest/TAR.8A16A03D98D4|Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio 13 dalyje]] nurodytiems asmenims; ^s-a715c40f731a4d7161c8b92c
 
 
 7) perduodami nuosavybėn neatlygintinai arba parduodami įstatymų nustatyta tvarka suteikti asmeniniam ūkiui žemės sklypai šiuos žemės sklypus naudojantiems asmenims; ^s-4793d9f8038e82370c7c2a21
@@ -139,10 +139,10 @@ Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikian
 8) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai piliečiams, gyvenantiems savivaldybės seniūnijos, kurioje yra perduodamas sklypas, teritorijoje, jeigu jų turėti žemė, miškas, vandens telkiniai priskirti valstybės išperkamiems pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą arba jeigu jų turėtas miškas ar vandens telkiniai neišliko, taip pat perduodami nuosavybėn neatlygintinai žemės sklypai piliečiams, kurių šeimos po 1939 metų buvo įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių Lenkijos ir Vokietijos tuometinėse teritorijose ir gyvenantiems savivaldybės seniūnijos, kurioje yra perduodamas žemės sklypas, teritorijoje, jeigu jų žemės sklypai, į kuriuos šios šeimos buvo įkeldintos, priskirti valstybės išperkamai žemei; ^s-314140ec46cb62dbc273983f
 
 
-9) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai kitiems [[#^s-314140ec46cb62dbc273983f|šio straipsnio 1 dalies 8 punkte]] nenurodytiems piliečiams, kurių turėti žemė, miškas, vandens telkiniai pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą priskirti valstybės išperkamiems arba kurių turėtas miškas ar vandens telkiniai neišliko; perduodami nuosavybėn neatlygintinai piliečiams, kurių šeimos po 1939 metų buvo įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių Lenkijos ir Vokietijos tuometinėse teritorijose, – tokio pat ploto žemės sklypai, kokius nuosavybės teise jie turėjo Lenkijos ir Vokietijos teritorijose, išskaičius tą žemės sklypo plotą, kurį jie gavo pagal [[#^s-258f2bd1af99330207d4ef2c|šio straipsnio 1 dalies]] 2 ir [[#^s-314140ec46cb62dbc273983f|8 punktus]], taip pat perduodami nuosavybėn neatlygintinai padidinti iki 100 procentų žemės sklypai piliečiams, kurie yra 1918–1920 m. nepriklausomybės kovų kariai savanoriai, pasipriešinimo (rezistencijos) dalyviai, politiniai kaliniai, tremtiniai, Vyčio Kryžiaus ordinu apdovanoti asmenys, taip pat jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), jeigu jų norima natūra susigrąžinti žemė yra kitos apskrities teritorijoje ir užimta asmeninio ūkio ar valstiečio ūkio; ^s-5eb9189aa4f4769cae9a4ac6
+9) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai kitiems [[#^s-314140ec46cb62dbc273983f|šio straipsnio 1 dalies 8 punkte]] nenurodytiems piliečiams, kurių turėti žemė, miškas, vandens telkiniai pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą priskirti valstybės išperkamiems arba kurių turėtas miškas ar vandens telkiniai neišliko; perduodami nuosavybėn neatlygintinai piliečiams, kurių šeimos po 1939 metų buvo įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių Lenkijos ir Vokietijos tuometinėse teritorijose, – tokio pat ploto žemės sklypai, kokius nuosavybės teise jie turėjo Lenkijos ir Vokietijos teritorijose, išskaičius tą žemės sklypo plotą, kurį jie gavo pagal [[#^s-258f2bd1af99330207d4ef2c|šio straipsnio 1 dalies]] [[#^s-4897dd47eb2034b950a22e3a|2]] ir [[#^s-314140ec46cb62dbc273983f|8]] punktus, taip pat perduodami nuosavybėn neatlygintinai padidinti iki 100 procentų žemės sklypai piliečiams, kurie yra 1918–1920 m. nepriklausomybės kovų kariai savanoriai, pasipriešinimo (rezistencijos) dalyviai, politiniai kaliniai, tremtiniai, Vyčio Kryžiaus ordinu apdovanoti asmenys, taip pat jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), jeigu jų norima natūra susigrąžinti žemė yra kitos apskrities teritorijoje ir užimta asmeninio ūkio ar valstiečio ūkio; ^s-5eb9189aa4f4769cae9a4ac6
 
 
-10) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai kitiems [[#^s-258f2bd1af99330207d4ef2c|šio straipsnio 1 dalies]] 8 ir [[#^s-5eb9189aa4f4769cae9a4ac6|9 punktuose]] nenurodytiems piliečiams; ^s-6c09088e8a3f7cdfa14fc7f2
+10) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai kitiems [[#^s-258f2bd1af99330207d4ef2c|šio straipsnio 1 dalies]] [[#^s-314140ec46cb62dbc273983f|8]] ir [[#^s-5eb9189aa4f4769cae9a4ac6|9]] punktuose nenurodytiems piliečiams; ^s-6c09088e8a3f7cdfa14fc7f2
 
 
 11) parduodami žemės ūkio paskirties žemės sklypai asmenims, šiuose žemės sklypuose nuosavybės teise turintiems žemės ūkio veiklai naudojamus statinius ar įrenginius, kai jie reikalingi šiems statiniams ar įrenginiams eksploatuoti; ^s-ccb7965d0c269ebe4739cbdc
@@ -157,7 +157,7 @@ Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikian
 14) parduodami žemės ūkio paskirties žemės sklypai jauniesiems ūkininkams iki 40 metų, [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymo]] nustatyta tvarka įregistravusiems ūkininko ūkį ir naudojusiems ne mažesnį kaip 1 ha žemės sklypą žemės ūkio veiklai ne mažiau kaip metus; ^s-d3e8ca793fdbc885e2c06ab7
 
 
-15) parduodami žemės ūkio paskirties žemės sklypai fiziniams asmenims, [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymo]] nustatyta tvarka įregistravusiems ūkininko ūkį, neatitinkantiems šios dalies 12, 13 ir [[#^s-d3e8ca793fdbc885e2c06ab7|14 punktuose]] nustatytų reikalavimų ir naudojusiems ne mažesnį kaip 1 ha žemės sklypą žemės ūkio veiklai ne mažiau kaip metus; ^s-a3ee85f7ea3025c8d9622697
+15) parduodami žemės ūkio paskirties žemės sklypai fiziniams asmenims, [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymo]] nustatyta tvarka įregistravusiems ūkininko ūkį, neatitinkantiems šios dalies [[latest/TAR.769B541DD7F7|12]], [[latest/TAR.769B541DD7F7|13]] ir [[latest/TAR.769B541DD7F7|14]] punktuose nustatytų reikalavimų ir naudojusiems ne mažesnį kaip 1 ha žemės sklypą žemės ūkio veiklai ne mažiau kaip metus; ^s-a3ee85f7ea3025c8d9622697
 
 
 16) parduodami žemės sklypai, išskyrus žemės ūkio paskirties žemės sklypus, fiziniams asmenims, gyvenantiems toje kadastrinėje vietovėje, arba asmenims, kurie toje kadastrinėje vietovėje įsigijo nuosavybėn gamybinius pastatus, parduodami šiems pastatams eksploatuoti reikalingi žemės sklypai; ^s-38aeb96810c0cef475e0a42f
@@ -259,7 +259,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 9. Už kvalifikacijos pažymėjimų žemės reformos žemėtvarkos projektams rengti ar jų dublikatų išdavimą, kvalifikacijos pažymėjimų patikslinimą imama valstybės rinkliava [[latest/TAR.41CD8BF53D8D|Rinkliavų įstatymo]] nustatyta tvarka. ^s-518cb488ac823a668ecc485a
 
 
-10. Konkursus dėl žemės reformos žemėtvarkos projektų rengimo ir įgyvendinimo organizuoja ir vykdo Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo]] nustatyta tvarka.“ ^s-7995d14ac7517d31d54c2d03
+10. Konkursus [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) žemėtvarkos projektų rengimo ir įgyvendinimo organizuoja ir vykdo Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo]] nustatyta tvarka.“ ^s-7995d14ac7517d31d54c2d03
 
 
 
@@ -285,13 +285,13 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 
 
 
-„18 straipsnis. Skundų dėl žemės reformos vykdytojų sprendimų pateikimo ir nagrinėjimo tvarka
+„18 straipsnis. Skundų [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) vykdytojų sprendimų pateikimo ir nagrinėjimo tvarka
 
 
 1. Sprendimus dėl valstybinės žemės įsigijimo, nuomos ar perdavimo neatlygintinai naudotis asmenys gali apskųsti teismui. ^s-c56c56d709bb1c1b01bf8f95
 
 
-2. Skundus dėl žemės reformos metu suformuotų žemės sklypų tinkamumo, žemės privatizavimui, nuomai ir perdavimui neatlygintinai naudotis parengtų dokumentų ir įstatymų bei kitų teisės aktų reikalavimų neatitikties iki sprendimo dėl valstybinės žemės įsigijimo, nuomos ar perdavimo neatlygintinai naudotis priėmimo nagrinėja Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos teritoriniai padaliniai. ^s-c0e52cdf583b23176cbdf857
+2. Skundus [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) metu suformuotų žemės sklypų tinkamumo, žemės privatizavimui, nuomai ir perdavimui neatlygintinai naudotis parengtų dokumentų ir įstatymų bei kitų teisės aktų reikalavimų neatitikties iki sprendimo dėl valstybinės žemės įsigijimo, nuomos ar perdavimo neatlygintinai naudotis priėmimo nagrinėja Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos teritoriniai padaliniai. ^s-c0e52cdf583b23176cbdf857
 
 
 3. Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos teritorinių padalinių sprendimai ir veiksmai (neveikimas), išskyrus sprendimus atkurti nuosavybės teises, suteikti žemės sklypą nuosavybėn neatlygintinai, parduoti, išnuomoti ar perduoti naudotis neatlygintinai žemės sklypą, skundžiami Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovui išankstinio ginčų nagrinėjimo ne teismo tvarka. ^s-582cd4ddfef8b3fd6e3116b0
@@ -300,7 +300,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 4. Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo priimtas sprendimas gali būti skundžiamas [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-d2fdda1a429c5e7a3a19958b
 
 
-5. Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovui paduoto skundo dėl Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos teritorinio padalinio priimto sprendimo, veiksmų ar neveikimo forma ir turinys turi atitikti [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatytus reikalavimus. ^s-3e83b57fc082e972f68d91ba
+5. Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovui paduoto skundo [dėl Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos](https://e-tar.lt/portal/lt/legalAct/TAR.9D0F880ADB7F) teritorinio padalinio priimto sprendimo, veiksmų ar neveikimo forma ir turinys turi atitikti [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatytus reikalavimus. ^s-3e83b57fc082e972f68d91ba
 
 
 6. Skundas Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovui paduodamas per 20 darbo dienų nuo skundžiamo Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos teritorinio padalinio sprendimo priėmimo, atliktų veiksmų ar atsisakymo juos atlikti (neveikimo) dienos. Jeigu suinteresuotas asmuo praleidžia nustatytą skundo padavimo terminą dėl priežasčių, kurias Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovas pripažįsta svarbiomis, šis terminas Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos vadovo sprendimu gali būti atnaujintas. Kartu su pareiškimu dėl skundo padavimo termino atnaujinimo turi būti paduotas ir skundas, kurio padavimo terminas yra praleistas. ^s-6ac4329363caf4471e3ae941
@@ -325,7 +325,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 1. 19 straipsnio 1 dalį papildyti nauju sakiniu ir šią dalį išdėstyti taip: ^s-2e9bf39ac4d9ca2a6e13b349
 
 
-„1. Žemės reformai reikalingi žemės reformos žemėtvarkos projektai rengiami ir tvirtinami Vyriausybės nustatyta tvarka pagal žemės ūkio ministro patvirtintą metodiką. Tais atvejais, kai priėmus sprendimą dėl žemės reformos žemėtvarkos projektui rengti parinktos teritorijos ribų patvirtinimo pateikta iki 10 prašymų atkurti nuosavybės teises į žemę, mišką ir vandens telkinius, suteikti nuosavybėn neatlygintinai, parduoti, išnuomoti, perduoti neatlygintinai naudotis ar patikėjimo teise valstybinę žemę, žemės ūkio ministro nustatyta tvarka pagal šio įstatymo [[#^s-278627d3ff23be1defe19ff0|10 straipsnyje]] nustatytą eiliškumą rengiami žemės sklypų planai, kurie prilyginami žemės reformos žemėtvarkos projektams.“
+„1. Žemės reformai reikalingi žemės reformos žemėtvarkos projektai rengiami ir tvirtinami Vyriausybės nustatyta tvarka pagal žemės ūkio ministro patvirtintą metodiką. Tais atvejais, kai priėmus sprendimą [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) žemėtvarkos projektui rengti parinktos teritorijos ribų patvirtinimo pateikta iki 10 prašymų atkurti nuosavybės teises į žemę, mišką ir vandens telkinius, suteikti nuosavybėn neatlygintinai, parduoti, išnuomoti, perduoti neatlygintinai naudotis ar patikėjimo teise valstybinę žemę, žemės ūkio ministro nustatyta tvarka pagal šio įstatymo [[#^s-278627d3ff23be1defe19ff0|10 straipsnyje]] nustatytą eiliškumą rengiami žemės sklypų planai, kurie prilyginami žemės reformos žemėtvarkos projektams.“
 
 
 2. Pakeisti 19 straipsnio 2 dalį ir ją išdėstyti taip: ^s-12e49f4ffbd93b56b5d6b291

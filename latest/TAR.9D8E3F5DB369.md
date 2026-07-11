@@ -122,10 +122,10 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 8) prašymas suteikti prioritetą (jeigu reikia); ^s-6c4e5ddbefc1fe76af74425b
 
 
-9) kompetentingų institucijų išduotas leidimas pagal šio Įstatymo [[#^s-c1916d041821e0fd08ad9f44|9 straipsnio]] 3 ar [[#^s-6e20e0c3801ef843055addd2|4 punktą]] (jeigu reikia); ^s-0b959b1ee6f026dd3c892640
+9) kompetentingų institucijų išduotas leidimas pagal šio Įstatymo [[#^s-c1916d041821e0fd08ad9f44|9 straipsnio]] 3 ar 4 punktą (jeigu reikia); ^s-0b959b1ee6f026dd3c892640
 
 
-10) teisių savininko išduotas sutikimas pagal šio Įstatymo 10 straipsnio 1 dalies 5 ar [[#^s-3a5c53b3127cb0d465cfae9e|6 punktą]] (jeigu reikia); ^s-fccc642752f2ce30cf8ec172
+10) teisių savininko išduotas sutikimas pagal šio Įstatymo 10 straipsnio 1 dalies 5 ar 6 punktą (jeigu reikia); ^s-fccc642752f2ce30cf8ec172
 
 
 11) prašymas dėl dizaino ankstesnio paskelbimo (jeigu reikia); ^s-0ed3a1d06440924ad14ae41e
@@ -242,7 +242,7 @@ TARPTAUTINĖ DIZAINO REGISTRACIJA
 2. Jeigu tarptautinės dizaino registracijos savininkas nesutinka su pakartotinės dizaino ekspertizės metu Valstybinio patentų biuro priimtu sprendimu, jis turi teisę per 3 mėnesius nuo šio sprendimo išsiuntimo dienos paduoti Apeliaciniam skyriui apeliaciją. Ši apeliacija priimama, nagrinėjama ir skundžiama šio Įstatymo 20 straipsnio nustatyta tvarka. ^s-5fc4c3a6fb4ef95470c9580f
 
 
-3. Suinteresuotieji asmenys arba jų atstovai protestą dėl tarptautinės dizaino registracijos turi paduoti per 3 mėnesius nuo duomenų apie tarptautinę dizaino registraciją paskelbimo Tarptautinio biuro tarptautinių dizainų biuletenyje dienos. Protestas turi atitikti šio Įstatymo 23 straipsnio 1 ir [[#^s-5fc4c3a6fb4ef95470c9580f|2 dalių]] reikalavimus. ^s-ef3c926be1deb5e91098c7b4
+3. Suinteresuotieji asmenys arba jų atstovai protestą dėl tarptautinės dizaino registracijos turi paduoti per 3 mėnesius nuo duomenų apie tarptautinę dizaino registraciją paskelbimo Tarptautinio biuro tarptautinių dizainų biuletenyje dienos. Protestas turi atitikti šio Įstatymo 23 straipsnio 1 ir 2 dalių reikalavimus. ^s-ef3c926be1deb5e91098c7b4
 
 
 4. Užprotestuotos tarptautinės dizaino registracijos savininkas ar šio Įstatymo 16 straipsnio 2 dalies nustatyta tvarka paskirtas jo atstovas per 5 mėnesius nuo pranešime Tarptautiniam biurui apie atsisakymą pripažinti tarptautinės dizaino registracijos galiojimą Lietuvos Respublikoje nurodytos datos pateikia motyvuotą atsakymą į protestą. Motyvuoto atsakymo į protestą nepateikimas laikomas atsisakymu dalyvauti protesto nagrinėjime ir neužkerta kelio Apeliaciniam skyriui nagrinėti protestą užprotestuotos tarptautinės dizaino registracijos savininkui ar jo atstovui nedalyvaujant. Jeigu užprotestuotos tarptautinės dizaino registracijos savininkas nepaskyrė atstovo, Apeliacinio skyriaus priimtas sprendimas tarptautinės dizaino registracijos savininkui nesiunčiamas. ^s-c3dedcd2cb09645eedbf6510
@@ -270,7 +270,7 @@ TARPTAUTINĖ DIZAINO REGISTRACIJA
 2. 35 straipsnį papildyti nauja [[#^s-642aa741aac16051c496aa62|4 dalimi]]: ^s-16da4500e34faa53b92b7a02
 
 
-„4. Sumokėję už dizaino registracijos galiojimo termino pratęsimą 50 procentų didesnį mokestį, dizaino savininkas ar jo atstovas per 6 mėnesius nuo dizaino registracijos galiojimo pabaigos dienos gali pateikti [[#^s-16da4500e34faa53b92b7a02|šio straipsnio 2 dalyje]] nurodytus dokumentus. Tokiu atveju laikoma, kad dizaino registracija nebuvo nustojusi galioti.“
+„4. Sumokėję už dizaino registracijos galiojimo termino pratęsimą 50 procentų didesnį mokestį, dizaino savininkas ar jo atstovas per 6 mėnesius nuo dizaino registracijos galiojimo pabaigos dienos gali pateikti šio straipsnio 2 dalyje nurodytus dokumentus. Tokiu atveju laikoma, kad dizaino registracija nebuvo nustojusi galioti.“
 
 
 3. Buvusią 35 straipsnio 4 dalį laikyti 5 dalimi. ^s-db0cfedf816469c814e1290c
@@ -279,7 +279,7 @@ TARPTAUTINĖ DIZAINO REGISTRACIJA
 4. Buvusią 35 straipsnio 5 dalį laikyti 6 dalimi, ją pakeisti ir išdėstyti taip: ^s-642aa741aac16051c496aa62
 
 
-„6. Jeigu dizaino savininkas ar jo atstovas šio straipsnio 3 ir [[#^s-642aa741aac16051c496aa62|4 dalyse]] nustatytais terminais nepateikia [[#^s-16da4500e34faa53b92b7a02|šio straipsnio 2 dalyje]] nurodytų dokumentų, dizaino registracijos galiojimas nepratęsiamas ir šio Įstatymo 30 straipsnyje nustatyta tvarka dizainas išregistruojamas iš Lietuvos Respublikos dizaino registro.“
+„6. Jeigu dizaino savininkas ar jo atstovas šio straipsnio [[#^s-db0cfedf816469c814e1290c|3]] ir 4 dalyse nustatytais terminais nepateikia [[#^s-16da4500e34faa53b92b7a02|šio straipsnio 2 dalyje]] nurodytų dokumentų, dizaino registracijos galiojimas nepratęsiamas ir šio Įstatymo 30 straipsnyje nustatyta tvarka dizainas išregistruojamas iš Lietuvos Respublikos dizaino registro.“
 
 
 

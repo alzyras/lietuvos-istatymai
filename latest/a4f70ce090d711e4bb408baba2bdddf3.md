@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. 8 straipsnio pakeitimas ^s-ed990144cfc33556ebba12e8
 
 
-Pakeisti 8 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.8AA530469899#^s-bc2a70d68c2fd2d5a26f9ceb|8 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2015 m. liepos 1 d.“

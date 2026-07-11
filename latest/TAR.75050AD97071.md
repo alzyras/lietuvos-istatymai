@@ -81,7 +81,7 @@ Jeigu išradimo objektas yra būdas, tai patentinė apsauga suteikiama ir tuo b�
 ### 2 straipsnis. 6 straipsnio 1 dalies pakeitimas ^s-4600db1c9b89b38aa1b49406
 
 
-6 straipsnio 1 dalies 1 punktą pripažinti netekusiu galios, buvusius 2 ir 3 punktus laikyti atitinkamai 1 ir [[#^s-c12e25f21e12a228e8ad1b39|2 punktais]], [[#^s-1c64dbb6c653b56021d84bea|1 punkte]] išbraukti žodį „kitas“ ir šią dalį išdėstyti taip:
+6 straipsnio 1 dalies 1 punktą pripažinti netekusiu galios, buvusius 2 ir 3 punktus laikyti atitinkamai 1 ir 2 punktais, [[#^s-1c64dbb6c653b56021d84bea|1 punkte]] išbraukti žodį „kitas“ ir šią dalį išdėstyti taip:
 
 
 „Išradimo patentabilumui pripažinti netrukdo informacijos apie jį paskleidimas, jeigu ši informacija buvo paskleista per 6 mėnesius iki patentinės paraiškos padavimo datos ir jeigu ją paskleidė:
@@ -171,10 +171,10 @@ Teisinė apsauga, kurią suteikia liudijimas, gali būti taikoma tik tam vaistui
 ### 7 straipsnis. Patentų įstatymo 271 straipsnio įsigaliojimas ^s-eb922c1dd101c43466b20bfe
 
 
-1. Patentų įstatymo 271 straipsnis įsigalioja nuo 2002 m. sausio 1 d. ^s-5364d49f36fc68c3728499d6
+1. [[latest/TAR.07786E0929A8|Patentų įstatymo 271 straipsnis]] įsigalioja nuo 2002 m. sausio 1 d. ^s-5364d49f36fc68c3728499d6
 
 
-2. Patentų įstatymo 271 straipsnio 3 dalies nuostatos dėl paraiškos liudijimui gauti padavimo laikotarpio netaikomos Lietuvos Respublikoje galiojančio patento, kuriam gauti paraiška buvo paduota po 1994 m. vasario 1 d., savininkui arba jo teisių perėmėjui, jeigu paraiška liudijimui gauti pateikiama per 6 mėnesius nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos. ^s-7eb91d03c3fb2e28fee9bdc4
+2. [[latest/TAR.07786E0929A8|Patentų įstatymo 271 straipsnio 3 dalies]] nuostatos dėl paraiškos liudijimui gauti padavimo laikotarpio netaikomos Lietuvos Respublikoje galiojančio patento, kuriam gauti paraiška buvo paduota po 1994 m. vasario 1 d., savininkui arba jo teisių perėmėjui, jeigu paraiška liudijimui gauti pateikiama per 6 mėnesius nuo Lietuvos Respublikos įstojimo į Europos Sąjungą dienos. ^s-7eb91d03c3fb2e28fee9bdc4
 
 
 

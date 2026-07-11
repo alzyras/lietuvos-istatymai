@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-83be33e9aa7dc4182d7a6f17
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. spalio 5 d. dekretą Nr. 1K-1129, ratifikuoja 2007 m. balandžio 12 d. Kijeve pasirašytą Lietuvos Respublikos Vyriausybės ir Ukrainos Ministrų Kabineto susitarimą dėl bendradarbiavimo kovojant su nusikalstamumu ir tarptautiniu terorizmu.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. spalio 5 d. dekretą Nr. 1K-1129](https://e-tar.lt/portal/lt/legalAct/TAR.C1830CE71EAF), ratifikuoja 2007 m. balandžio 12 d. Kijeve pasirašytą Lietuvos Respublikos Vyriausybės ir Ukrainos Ministrų Kabineto susitarimą dėl bendradarbiavimo kovojant su nusikalstamumu ir tarptautiniu terorizmu.
 
 
 

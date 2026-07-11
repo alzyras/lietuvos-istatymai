@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-a789b05d5d08f4113fdbba5b
 
 
-Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo 3, 5 ir 7 straipsnių pakeitimo įstatymą pripažinti netekusiu galios.
+[Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) [3](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99), [5](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) ir [7](https://e-tar.lt/portal/lt/legalAct/TAR.4977D85DEA99) straipsnių pakeitimo įstatymą pripažinti netekusiu galios.
 
 
 

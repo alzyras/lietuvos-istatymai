@@ -49,7 +49,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 „1 straipsnis. Teisė gauti valstybinę socialinio draudimo pensiją
 
 
-1. Teisę gauti valstybinę socialinio draudimo pensiją turi nuolatiniai Lietuvos Respublikos gyventojai, asmenys, kuriems taikomi Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentai, taip pat asmenys, nurodyti šio straipsnio 3, 4 ir [[#^s-117e959f3c4cd73997202e2f|5 dalyse]], kurie visi šio įstatymo nustatytą laiką buvo privalomai draudžiami arba patys draudėsi valstybiniu socialiniu pensijų draudimu. ^s-e35bdf83c3d49416c76850b0
+1. Teisę gauti valstybinę socialinio draudimo pensiją turi nuolatiniai Lietuvos Respublikos gyventojai, asmenys, kuriems taikomi Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentai, taip pat asmenys, nurodyti šio straipsnio [[#^s-07e031b4bdacf771999eae53|3]], [[#^s-55a1c0a39b2b398e444946cd|4]] ir [[#^s-117e959f3c4cd73997202e2f|5]] dalyse, kurie visi šio įstatymo nustatytą laiką buvo privalomai draudžiami arba patys draudėsi valstybiniu socialiniu pensijų draudimu. ^s-e35bdf83c3d49416c76850b0
 
 
 2. Nuolatiniais Lietuvos Respublikos gyventojais laikomi Lietuvos Respublikos piliečiai, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje, o neturinčių gyvenamosios vietos – apie savivaldybę, kurioje jie gyvena, yra įrašyti į Lietuvos Respublikos gyventojų registrą, taip pat nuolat Lietuvos Respublikoje gyvenantys užsieniečiai. ^s-0593c6655e1cb689866703dc
@@ -85,7 +85,7 @@ Papildyti Įstatymą 11 straipsniu:
 Pakeisti 2 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip:
 
 
-„8) individualių įmonių savininkai, tikrųjų ūkinių bendrijų nariai, komanditinių ūkinių bendrijų tikrieji nariai, taip pat asmenys, kurie verčiasi individualia veikla, kaip ji apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]] (advokatai, advokatų padėjėjai, notarai, antstoliai ir kiti asmenys), išskyrus individualią veiklą, kuria verčiamasi turint verslo liudijimą (toliau – savarankiškai dirbantys asmenys), taip pat ūkininkai ir jų partneriai, kaip jie apibrėžti [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatyme]] (toliau – ūkininkai ir jų partneriai), šeimynos dalyviai, kaip jie apibrėžti [[latest/TAR.00D176C81058|Šeimynų įstatyme]] (toliau – šeimynos dalyviai);“.
+„8) individualių įmonių savininkai, tikrųjų ūkinių bendrijų nariai, komanditinių ūkinių bendrijų tikrieji nariai, taip pat asmenys, kurie verčiasi individualia veikla, kaip ji apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]] (advokatai, advokatų padėjėjai, notarai, antstoliai ir kiti asmenys), išskyrus individualią veiklą, kuria verčiamasi turint verslo liudijimą (toliau – savarankiškai dirbantys asmenys), taip pat [[latest/TAR.0F9036415DBD|ūkininkai ir jų partneriai]], kaip jie apibrėžti [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatyme]] (toliau – [[latest/TAR.0F9036415DBD|ūkininkai ir jų partneriai]]), [[latest/TAR.00D176C81058|šeimynos dalyviai]], kaip jie apibrėžti [[latest/TAR.00D176C81058|Šeimynų įstatyme]] (toliau – [[latest/TAR.00D176C81058|šeimynos dalyviai]]);“.
 
 
 
@@ -156,7 +156,7 @@ priedas
 1. Valstybinės socialinio draudimo pensijos, iki šio įstatymo įsigaliojimo paskirtos Lietuvos Respublikos piliečiams, nuolat gyvenantiems užsienyje, mokamos tol, kol pasibaigs jų mokėjimo terminas. ^s-03f4c0eadbed5331f5121da7
 
 
-2. Asmenims, kuriems iki šio įstatymo įsigaliojimo valstybinės socialinio draudimo pensijos buvo mokamos pagal [[latest/TAR.A7F77DF94F5D#^s-25d50eb1a425d919493b9a12|Valstybinių socialinio draudimo pensijų įstatymo 43 straipsnio]] 1 ir [[#^s-75fc40bdc5cd8c1f16d38839|3 dalis]], pagal šio įstatymo nuostatas neperžiūrimos. ^s-3521bfba8ce09c2512511753
+2. Asmenims, kuriems iki šio įstatymo įsigaliojimo valstybinės socialinio draudimo pensijos buvo mokamos pagal [[latest/TAR.A7F77DF94F5D#^s-25d50eb1a425d919493b9a12|Valstybinių socialinio draudimo pensijų įstatymo 43 straipsnio]] [[latest/TAR.A7F77DF94F5D#^s-f5d3cabe99fd510dbe569dac|1]] ir [[latest/TAR.A7F77DF94F5D#^s-2f4e5b4a047a0822892963c6|3]] dalis, pagal šio įstatymo nuostatas neperžiūrimos. ^s-3521bfba8ce09c2512511753
 
 
 3. Jeigu asmuo, kuris [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] nustatytą laiką buvo privalomai draudžiamas arba pats draudėsi valstybiniu socialiniu pensijų draudimu, tačiau iki šio įstatymo įsigaliojimo neturėjo teisės gauti valstybinės socialinio draudimo pensijos pagal Valstybinių socialinio draudimo pensijų įstatymą dėl pilietybės ir (arba) gyvenamosios vietos užsienyje, prašymą skirti valstybinę socialinio draudimo pensiją pateikia per dvejus metus nuo šio įstatymo įsigaliojimo dienos, valstybinė socialinio draudimo pensija skiriama nuo šio įstatymo įsigaliojimo dienos. Jeigu asmuo prašymą pateikia praėjus dvejiems metams nuo šio įstatymo įsigaliojimo dienos, valstybinė socialinio draudimo pensija skiriama nuo kreipimosi dėl pensijos skyrimo dienos. ^s-75fc40bdc5cd8c1f16d38839

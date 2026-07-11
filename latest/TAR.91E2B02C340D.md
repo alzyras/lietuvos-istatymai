@@ -75,7 +75,7 @@ Pasibaigus LAIB laikinojo administratoriaus įgaliojimams, atnaujintos bylos bai
 ### 6 straipsnis. Vykdomųjų bylų nutraukimas ^s-0e5f92b70493a997ecccfd4b
 
 
-Pasibaigus LAIB laikinojo administratoriaus įgaliojimams bei atnaujinus vykdomąsias bylas, teismo antstoliai, patikrinę ir nustatę, kad išieškotojo reikalavimai pagal Akcinės bendrovės Lietuvos akcinio inovacinio banko prievolių banko kreditoriams įvykdymo bei jo turto perėmimo įstatymą yra visiškai patenkinti, kreipiasi į apylinkės teismą dėl vykdomosios bylos nutraukimo Civilinio proceso kodekso nustatyta tvarka. Tuo atveju, jeigu išieškojimas pagal vykdomąjį dokumentą įvykdytas nevisiškai, vykdomasis dokumentas grąžinamas išieškotojui. Grąžinus vykdomąjį dokumentą, išieškotojas per 1 mėnesį kreipiasi į LAIB likvidatorių dėl likusios dalies reikalavimų patenkinimo.
+Pasibaigus LAIB laikinojo administratoriaus įgaliojimams bei atnaujinus vykdomąsias bylas, teismo antstoliai, patikrinę ir nustatę, kad išieškotojo reikalavimai pagal Akcinės bendrovės Lietuvos akcinio inovacinio banko prievolių banko kreditoriams įvykdymo bei jo turto perėmimo įstatymą yra visiškai patenkinti, kreipiasi į apylinkės teismą dėl vykdomosios bylos nutraukimo [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Tuo atveju, jeigu išieškojimas pagal vykdomąjį dokumentą įvykdytas nevisiškai, vykdomasis dokumentas grąžinamas išieškotojui. Grąžinus vykdomąjį dokumentą, išieškotojas per 1 mėnesį kreipiasi į LAIB likvidatorių dėl likusios dalies reikalavimų patenkinimo.
 
 
 

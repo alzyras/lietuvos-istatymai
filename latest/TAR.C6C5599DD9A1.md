@@ -57,7 +57,7 @@ BENDROSIOS NUOSTATOS
 ### 2 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-f7ea2d859898171a3ec70cb1
 
 
-1. Atvirojo ryšio sąsaja – viešai prieinama techninė sąsaja ryšiams tarp sąskaitas tvarkančių mokėjimo paslaugų teikėjų, mokėjimo inicijavimo paslaugos teikėjų, sąskaitos informacijos paslaugos teikėjų, kitų mokėjimo paslaugų teikėjų, mokėtojų ir gavėjų palaikyti, parengta atsižvelgiant į Europos Komisijos priimtame deleguotajame teisės akte, kaip nurodyta Direktyvos (ES) Nr. 2015/2366 98 straipsnio 1 dalies d punkte, nustatytus reikalavimus. ^s-03c9d1ffc0b82a9fd8889ca2
+1. Atvirojo ryšio sąsaja – viešai prieinama techninė sąsaja ryšiams tarp sąskaitas tvarkančių mokėjimo paslaugų teikėjų, mokėjimo inicijavimo paslaugos teikėjų, sąskaitos informacijos paslaugos teikėjų, kitų mokėjimo paslaugų teikėjų, mokėtojų ir gavėjų palaikyti, parengta atsižvelgiant į Europos Komisijos priimtame deleguotajame teisės akte, kaip nurodyta [Direktyvos (ES) Nr. 2015/2366 98 straipsnio 1 dalies d punkte](https://eur-lex.europa.eu/eli/dir/2015/2366/art_98/par_1/lit_d/oj), nustatytus reikalavimus. ^s-03c9d1ffc0b82a9fd8889ca2
 
 
 2. Autentiškumo patvirtinimas – procedūra, kuria mokėjimo paslaugų teikėjas tikrina mokėjimo paslaugų vartotojo tapatybę arba mokėjimo priemonės, įskaitant jos personalizuotus saugumo duomenis, naudojimo teisėtumą. ^s-bcd1895bae85c81636c0fa78
@@ -99,7 +99,7 @@ Nr. XV-302, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11971
 11. Gavėjas – fizinis arba juridinis asmuo, kita organizacija arba jos padalinys, kurie mokėjimo nurodyme yra numatyti kaip mokėjimo operacijos lėšų gavėjai. ^s-2d25b97e9425dc272d7e278d
 
 
-12. Įmonių grupė – [[latest/a71c2bf036d511efbdaea558de59136c|Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme]] apibrėžta grupė, taip pat 2014 m. sausio 7 d. Komisijos deleguotojo reglamento (ES) Nr. 241/2014, kuriuo papildomos Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 nuostatos, susijusios su įstaigų nuosavų lėšų reikalavimų techniniais reguliavimo standartais, su visais pakeitimais, 4, 5, 6 ir [[#^s-330853fac77c748b356c24c4|7 straipsniuose]] nurodytos įmonės, kurios viena su kita susijusios 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 su visais pakeitimais [[#^s-fe0b5255f66bd5ac2f646822|10 straipsnio 1 dalyje]] ar 113 straipsnio 6 ar [[#^s-58863ff1a057559921bf710e|7 dalyje]] nurodytais santykiais. ^s-d584b6100423fcc8263281d4
+12. Įmonių grupė – [[latest/a71c2bf036d511efbdaea558de59136c|Lietuvos Respublikos įmonių ir įmonių grupių atskaitomybės įstatyme]] apibrėžta grupė, taip pat 2014 m. sausio 7 d. Komisijos deleguotojo reglamento (ES) Nr. 241/2014, kuriuo papildomos Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 nuostatos, susijusios su įstaigų nuosavų lėšų reikalavimų techniniais reguliavimo standartais, su visais pakeitimais, [[#^s-0f95df76b6562fc3d0fd208c|4]], [[#^s-c5cc420b398f300e5e54e5a1|5]], [[#^s-36e766648c554f423cb12c5e|6]] ir [[#^s-330853fac77c748b356c24c4|7]] straipsniuose nurodytos įmonės, kurios viena su kita susijusios 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 su visais pakeitimais [[#^s-fe0b5255f66bd5ac2f646822|10 straipsnio 1 dalyje]] ar 113 straipsnio 6 ar 7 dalyje nurodytais santykiais. ^s-d584b6100423fcc8263281d4
 Straipsnio dalies pakeitimai:
 Nr. XV-302, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11971
 
@@ -291,13 +291,13 @@ Nr. XV-325, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-11986
 1. Šis įstatymas taikomas mokėjimo paslaugoms, teikiamoms Lietuvos Respublikoje. ^s-cd115244c210ee2372b2ff77
 
 
-2. Šio įstatymo 4 ir [[#^s-38452da7ee600452f50d80f9|11 straipsniai]], III, IV, V ir VI skyriai taikomi mokėjimo operacijoms valstybių narių valiutomis, kai tiek mokėtojo mokėjimo paslaugų teikėjo, tiek gavėjo mokėjimo paslaugų teikėjo arba mokėjimo operaciją vykdančio vieno mokėjimo paslaugų teikėjo buveinės vieta yra valstybėje narėje. ^s-b1f784f8bd13fcafc54add1b
+2. Šio įstatymo [[#^s-0f95df76b6562fc3d0fd208c|4]] ir [[#^s-38452da7ee600452f50d80f9|11]] straipsniai, III, IV, V ir VI skyriai taikomi mokėjimo operacijoms valstybių narių valiutomis, kai tiek mokėtojo mokėjimo paslaugų teikėjo, tiek gavėjo mokėjimo paslaugų teikėjo arba mokėjimo operaciją vykdančio vieno mokėjimo paslaugų teikėjo buveinės vieta yra valstybėje narėje. ^s-b1f784f8bd13fcafc54add1b
 
 
-3. Šio įstatymo 4 ir [[#^s-38452da7ee600452f50d80f9|11 straipsniai]], III skyrius, išskyrus [[#^s-81d6884b0b8f512cef85c4fe|13 straipsnio 3 dalies 5 punktą]], [[#^s-7fc9abadaf702a3f2573a7bb|16 straipsnio]] reikalavimą dėl mokėjimo operacijos įvykdymo trukmės nurodymo ir [[#^s-9ef31f9fe076a5cb4df259b2|20 straipsnio 2 dalies 2 punktą]], IV skyrius, V skyrius, išskyrus 45–[[#^s-5e557157ce9e417c00028019|48 straipsnius]], ir VI skyrius taikomi mokėjimo operacijoms, vykdomoms užsienio valiuta, kai tiek mokėtojo mokėjimo paslaugų teikėjo, tiek gavėjo mokėjimo paslaugų teikėjo arba mokėjimo operaciją vykdančio vieno mokėjimo paslaugų teikėjo buveinės vieta yra valstybėje narėje, bet tik dėl tų mokėjimo operacijos dalių, kurios vykdomos valstybėse narėse. ^s-b9198abac818c6b65fd172c2
+3. Šio įstatymo [[#^s-0f95df76b6562fc3d0fd208c|4]] ir [[#^s-38452da7ee600452f50d80f9|11]] straipsniai, III skyrius, išskyrus [[#^s-81d6884b0b8f512cef85c4fe|13 straipsnio 3 dalies 5 punktą]], [[#^s-7fc9abadaf702a3f2573a7bb|16 straipsnio]] reikalavimą dėl mokėjimo operacijos įvykdymo trukmės nurodymo ir [[#^s-9ef31f9fe076a5cb4df259b2|20 straipsnio 2 dalies 2 punktą]], IV skyrius, V skyrius, išskyrus [[#^s-7f8934a22075f23e2070e828|45]]–[[#^s-5e557157ce9e417c00028019|48]] straipsnius, ir VI skyrius taikomi mokėjimo operacijoms, vykdomoms užsienio valiuta, kai tiek mokėtojo mokėjimo paslaugų teikėjo, tiek gavėjo mokėjimo paslaugų teikėjo arba mokėjimo operaciją vykdančio vieno mokėjimo paslaugų teikėjo buveinės vieta yra valstybėje narėje, bet tik dėl tų mokėjimo operacijos dalių, kurios vykdomos valstybėse narėse. ^s-b9198abac818c6b65fd172c2
 
 
-4. Šio įstatymo [[#^s-0f95df76b6562fc3d0fd208c|4 straipsnis]], [[#^s-38452da7ee600452f50d80f9|11 straipsnio]] 1, 2 ir [[#^s-19668a12af08be76baaf472c|4 dalys]], III skyrius, išskyrus [[#^s-81d6884b0b8f512cef85c4fe|13 straipsnio 3 dalies 5 punktą]], [[#^s-7fc9abadaf702a3f2573a7bb|16 straipsnio]] reikalavimą dėl mokėjimo operacijos įvykdymo trukmės nurodymo ir [[#^s-9ef31f9fe076a5cb4df259b2|20 straipsnio 2 dalies 2 punktą]], IV skyrius, išskyrus [[#^s-4aabe751f207413d7425e6c2|41 straipsnį]], V skyrius, išskyrus 45–48, 51 ir [[#^s-8bce66412d302f5ec94f20f8|53 straipsnius]], ir VI skyrius taikomi mokėjimo operacijoms, vykdomoms bet kuria valiuta, kai tik mokėtojo arba tik gavėjo mokėjimo paslaugų teikėjų buveinės vieta yra valstybėje narėje, bet tik dėl tų mokėjimo operacijos dalių, kurios vykdomos valstybėse narėse. ^s-19668a12af08be76baaf472c
+4. Šio įstatymo [[#^s-0f95df76b6562fc3d0fd208c|4 straipsnis]], [[#^s-38452da7ee600452f50d80f9|11 straipsnio]] [[#^s-a5f96a4ce6871c3ef561f157|1]], [[#^s-46d33fe8ea83a6cc854118ec|2]] ir [[#^s-55a4f157ddd2d3442fc490ee|4]] dalys, III skyrius, išskyrus [[#^s-81d6884b0b8f512cef85c4fe|13 straipsnio 3 dalies 5 punktą]], [[#^s-7fc9abadaf702a3f2573a7bb|16 straipsnio]] reikalavimą dėl mokėjimo operacijos įvykdymo trukmės nurodymo ir [[#^s-9ef31f9fe076a5cb4df259b2|20 straipsnio 2 dalies 2 punktą]], IV skyrius, išskyrus [[#^s-4aabe751f207413d7425e6c2|41 straipsnį]], V skyrius, išskyrus [[#^s-7f8934a22075f23e2070e828|45]]–[[#^s-5e557157ce9e417c00028019|48]], [[#^s-40056ea9589e35d4632b8d34|51]] ir [[#^s-8bce66412d302f5ec94f20f8|53]] straipsnius, ir VI skyrius taikomi mokėjimo operacijoms, vykdomoms bet kuria valiuta, kai tik mokėtojo arba tik gavėjo mokėjimo paslaugų teikėjų buveinės vieta yra valstybėje narėje, bet tik dėl tų mokėjimo operacijos dalių, kurios vykdomos valstybėse narėse. ^s-19668a12af08be76baaf472c
 
 
 5. Šis įstatymas netaikomas: ^s-f660a2ae07b762599b461a29
@@ -363,7 +363,7 @@ b) vienos mokėjimo operacijos vertė neviršija 50 eurų ir vieno abonento bend
 14) mokėjimo operacijoms ir susijusioms paslaugoms, vykdomoms tarp patronuojančiosios įmonės ir jos patronuojamosios įmonės arba tarp tos pačios patronuojančiosios įmonės patronuojamųjų įmonių, netarpininkaujant mokėjimo paslaugų teikėjui, kuris nėra tai pačiai įmonių grupei priklausanti įmonė; ^s-c316487d6d01a0f2ad5ecb35
 
 
-15) kiek šiame punkte nenustatyta kitaip, grynųjų pinigų išdavimo iš bankomatų paslaugoms, kurias teikia paslaugų teikėjai, veikiantys vieno ar daugiau kortelių išdavėjų vardu ir nesantys bendrosios sutarties su mokėjimo paslaugų vartotoju, paimančiu pinigus iš mokėjimo sąskaitos, šalimi, tuo atveju, kai šie paslaugų teikėjai neteikia kitų mokėjimo paslaugų. Šiame punkte nurodyti paslaugų teikėjai, atsižvelgdami į šio įstatymo 20, 23, 24 ir [[#^s-22cf37ed95cecd830730ca0e|26 straipsniuose]] nustatytus reikalavimus, prieš suteikdami paslaugą ir suteikę paslaugą grynųjų pinigų išdavimo kvite privalo mokėjimo paslaugų vartotojui pateikti informaciją apie komisinį atlyginimą už grynųjų pinigų išdavimą; ^s-7baf62fab14e5bc5c0b82614
+15) kiek šiame punkte nenustatyta kitaip, grynųjų pinigų išdavimo iš bankomatų paslaugoms, kurias teikia paslaugų teikėjai, veikiantys vieno ar daugiau kortelių išdavėjų vardu ir nesantys bendrosios sutarties su mokėjimo paslaugų vartotoju, paimančiu pinigus iš mokėjimo sąskaitos, šalimi, tuo atveju, kai šie paslaugų teikėjai neteikia kitų mokėjimo paslaugų. Šiame punkte nurodyti paslaugų teikėjai, atsižvelgdami į šio įstatymo [[#^s-eb55e30789ad021221d1f186|20]], [[#^s-dd78d54cee5c975232ad5c8e|23]], [[#^s-eae60590e38bd8d0c8c16ced|24]] ir [[#^s-22cf37ed95cecd830730ca0e|26]] straipsniuose nustatytus reikalavimus, prieš suteikdami paslaugą ir suteikę paslaugą grynųjų pinigų išdavimo kvite privalo mokėjimo paslaugų vartotojui pateikti informaciją apie komisinį atlyginimą už grynųjų pinigų išdavimą; ^s-7baf62fab14e5bc5c0b82614
 
 
 16) priverstiniam lėšų išieškojimui (nurašymui) teisės aktų nustatyta tvarka. Kai teisės aktai nustato, kad išieškojimas negali būti nukreiptas į nustatyto dydžio pinigų sumą vartotojo mokėjimo sąskaitoje, mokėjimo paslaugų teikėjas užtikrina, kad vartotojas galėtų disponuoti šiomis lėšomis naudodamasis bent mokėjimo kortelėmis (išskyrus kredito korteles), o tais atvejais, kai mokėjimo paslaugų teikėjas neleidžia mokėjimo kortelių, kitais būdais. ^s-2b2c21d8623c0326e24e60dd
@@ -372,16 +372,16 @@ Nr. XIII-1092, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06727
 
 
 
-6. Paslaugų teikėjams, kurie teikia [[#^s-1c6b580e62f573eef4e24179|šio straipsnio 5 dalies 11 punkto]] a ir b papunkčiuose nurodytas paslaugas, taikomos šio įstatymo [[#^s-0bc001e5017c51370534be1c|8 straipsnio]] 1 ir [[#^s-b9198abac818c6b65fd172c2|3 dalys]]. Paslaugų teikėjams, kurie teikia [[#^s-7e3c6cf08063392b9ed60f47|šio straipsnio 5 dalies 12 punkte]] nurodytas paslaugas, taikomos šio įstatymo [[#^s-0bc001e5017c51370534be1c|8 straipsnio]] 4 ir [[#^s-f660a2ae07b762599b461a29|5 dalys]]. ^s-e2187274e9bf3a2e7fa0b573
+6. Paslaugų teikėjams, kurie teikia [[#^s-1c6b580e62f573eef4e24179|šio straipsnio 5 dalies 11 punkto]] a ir b papunkčiuose nurodytas paslaugas, taikomos šio įstatymo [[#^s-0bc001e5017c51370534be1c|8 straipsnio]] [[#^s-6892b8e153d5fd1a7a473fed|1]] ir [[#^s-791c5359882a914bb713ef2c|3]] dalys. Paslaugų teikėjams, kurie teikia [[#^s-7e3c6cf08063392b9ed60f47|šio straipsnio 5 dalies 12 punkte]] nurodytas paslaugas, taikomos šio įstatymo [[#^s-0bc001e5017c51370534be1c|8 straipsnio]] [[#^s-ebcc3c8d1ffaa377ce33db75|4]] ir [[#^s-2a757e285dbf3a1e066f11b4|5]] dalys. ^s-e2187274e9bf3a2e7fa0b573
 
 
-7. Mokėjimo paslaugų teikėjai ir mokėjimo paslaugų vartotojai, išskyrus vartotojus, gali susitarti netaikyti visų ar dalies šio įstatymo III skyriaus nuostatų, šio įstatymo [[#^s-0f95df76b6562fc3d0fd208c|4 straipsnio]] 1, 2 ir 3 punktuose, [[#^s-38452da7ee600452f50d80f9|11 straipsnio]] 1, 2 ir [[#^s-f660a2ae07b762599b461a29|5 dalyse]], [[#^s-658ddccf20cdca4e9d694ef6|29 straipsnio 3 dalyje]], 37, 39, 41, 44, 51 ir [[#^s-b6f4e0e5a912feaf93960cb2|52 straipsniuose]] nustatytų reikalavimų, taip pat gali susitarti dėl kito termino, negu nustatytas šio įstatymo [[#^s-b8da601c5f66e3f327176038|36 straipsnyje]]. ^s-eceadf90cdfec9db0f06c15e
+7. Mokėjimo paslaugų teikėjai ir mokėjimo paslaugų vartotojai, išskyrus vartotojus, gali susitarti netaikyti visų ar dalies šio įstatymo III skyriaus nuostatų, šio įstatymo [[#^s-0f95df76b6562fc3d0fd208c|4 straipsnio]] 1, 2 ir 3 punktuose, [[#^s-38452da7ee600452f50d80f9|11 straipsnio]] [[#^s-a5f96a4ce6871c3ef561f157|1]], [[#^s-46d33fe8ea83a6cc854118ec|2]] ir [[#^s-0927984b06bc58c1d4168012|5]] dalyse, [[#^s-658ddccf20cdca4e9d694ef6|29 straipsnio 3 dalyje]], [[#^s-30e40465aabe5964fec76085|37]], [[#^s-4e2149622231932cc04a9452|39]], [[#^s-4aabe751f207413d7425e6c2|41]], [[#^s-8b017258d873bcc33c4484d5|44]], [[#^s-40056ea9589e35d4632b8d34|51]] ir [[#^s-b6f4e0e5a912feaf93960cb2|52]] straipsniuose nustatytų reikalavimų, taip pat gali susitarti dėl kito termino, negu nustatytas šio įstatymo [[#^s-b8da601c5f66e3f327176038|36 straipsnyje]]. ^s-eceadf90cdfec9db0f06c15e
 
 
-8. Šio įstatymo 38 ir [[#^s-4e2149622231932cc04a9452|39 straipsniai]] netaikomi elektroniniams pinigams, jeigu mokėtojo mokėjimo paslaugų teikėjas negali įšaldyti mokėjimo sąskaitos ar blokuoti mokėjimo priemonės. ^s-95845c717d92792865885bad
+8. Šio įstatymo [[#^s-17e3af01d82d76893958a28e|38]] ir [[#^s-4e2149622231932cc04a9452|39]] straipsniai netaikomi elektroniniams pinigams, jeigu mokėtojo mokėjimo paslaugų teikėjas negali įšaldyti mokėjimo sąskaitos ar blokuoti mokėjimo priemonės. ^s-95845c717d92792865885bad
 
 
-9. Šio įstatymo III skyrius, išskyrus 13, 20 ir [[#^s-7940c3482efa3b996c60d676|27 straipsnius]] (kai taikytina), IV skyrius, išskyrus 32 ir [[#^s-520a342aaba9665c25c0c30c|34 straipsnius]], ir V skyrius netaikomi sąskaitos informacijos paslaugos teikėjams. ^s-a07a3b9b5cc8bf2b833b3b49
+9. Šio įstatymo III skyrius, išskyrus [[#^s-97f1100596be471d2cbd66a2|13]], [[#^s-eb55e30789ad021221d1f186|20]] ir [[#^s-7940c3482efa3b996c60d676|27]] straipsnius (kai taikytina), IV skyrius, išskyrus [[#^s-e7b2841ce820e4557b1f0d45|32]] ir [[#^s-520a342aaba9665c25c0c30c|34]] straipsnius, ir V skyrius netaikomi sąskaitos informacijos paslaugos teikėjams. ^s-a07a3b9b5cc8bf2b833b3b49
 
 
 10. Šio įstatymo VII skyriaus nuostatos taikomos visiems mokėjimo paslaugų teikėjams ir vartotojų vardu atidarytoms mokėjimo sąskaitoms, kuriomis naudodamiesi vartotojai gali atlikti bent vieną iš šių veiksmų: ^s-8b87c927c7c937ea22cfe630
@@ -402,13 +402,13 @@ Nr. XIII-1092, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06727
 12. Šio įstatymo IX skyriaus nuostatos taikomos kredito įstaigoms. ^s-1dc94da1fce17d54e220a779
 
 
-13. Šio įstatymo X skyriaus ir 91 straipsnio nuostatos taikomos įgyvendinant Reglamento (ES) Nr. 260/2012 10, 11 ir [[#^s-8f86237e88f80722944a1e22|12 straipsnių]], Reglamento (ES) 2015/751 13 ir [[#^s-2c32131c8914114bb7334cc7|14 straipsnių]] ir Reglamento (ES) 2021/1230 8, 9, 10, 11 ir [[#^s-8f86237e88f80722944a1e22|12 straipsnių]] nuostatas. ^s-4c75039d0507e93ab0caa157
+13. Šio įstatymo X skyriaus ir 91 straipsnio nuostatos taikomos įgyvendinant Reglamento (ES) Nr. 260/2012 [[#^s-55e4b92153c7e5b26380382c|10]], [[#^s-38452da7ee600452f50d80f9|11]] ir [[#^s-8f86237e88f80722944a1e22|12]] straipsnių, [Reglamento (ES) 2015/751](https://eur-lex.europa.eu/eli/reg/2015/751/oj) [[#^s-97f1100596be471d2cbd66a2|13]] ir [[#^s-2c32131c8914114bb7334cc7|14]] straipsnių ir [Reglamento (ES) 2021/1230](https://eur-lex.europa.eu/eli/reg/2021/1230/oj) [[#^s-0bc001e5017c51370534be1c|8]], [[#^s-1d75ac2b245a07eaebcb7b0f|9]], [[#^s-55e4b92153c7e5b26380382c|10]], [[#^s-38452da7ee600452f50d80f9|11]] ir [[#^s-8f86237e88f80722944a1e22|12]] straipsnių nuostatas. ^s-4c75039d0507e93ab0caa157
 Straipsnio dalies pakeitimai:
 Nr. XIV-1895, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08614
 
 
 
-14. Tais atvejais, kai mokėjimo paslaugos teikiamos pagal sutartis, sudarytas naudojant nuotolinio ryšio priemones, ir taikomas [[latest/TAR.D790096B17EE#^s-3ed05bae2f11d264aa0a7ec4|Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, vietoj Vartotojų teisių apsaugos įstatymo 37 straipsnio 1 dalyje]], išskyrus jos 10–14, 16, 19 ir 23 punktus, nustatytų informacijos reikalavimų taikomos šio įstatymo 13 ir [[#^s-eb55e30789ad021221d1f186|20 straipsnių]] nuostatos. ^s-0bd4170d77142cabe6e678e3
+14. Tais atvejais, kai mokėjimo paslaugos teikiamos pagal sutartis, sudarytas naudojant nuotolinio ryšio priemones, ir taikomas [[latest/TAR.D790096B17EE#^s-3ed05bae2f11d264aa0a7ec4|Lietuvos Respublikos vartotojų teisių apsaugos įstatymas, vietoj Vartotojų teisių apsaugos įstatymo 37 straipsnio 1 dalyje]], išskyrus jos [[latest/TAR.D790096B17EE#^s-0cd00589e48f30affc2ca63d|10]]–[[latest/TAR.D790096B17EE#^s-9040f015c5066615324d3d5a|14]], [[latest/TAR.D790096B17EE#^s-60e09bb2b76b22b46c775f2c|16]], [[latest/TAR.D790096B17EE#^s-c75daa718439e1b96572731d|19]] ir [[latest/TAR.D790096B17EE#^s-71d0f0fa05ea01f473d23f94|23]] punktus, nustatytų informacijos reikalavimų taikomos šio įstatymo [[#^s-97f1100596be471d2cbd66a2|13]] ir [[#^s-eb55e30789ad021221d1f186|20]] straipsnių nuostatos. ^s-0bd4170d77142cabe6e678e3
 Straipsnio dalies pakeitimai:
 Nr. XV-270, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11119
 
@@ -431,7 +431,7 @@ Nr. XV-270, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11119
 Kai mokėjimo priemonės pagal bendrąją sutartį yra susijusios tik su atskiromis mokėjimo operacijomis, kurios neviršija 30 eurų arba kurioms įvykdyti nustatytas 150 eurų išlaidų per mėnesį limitas, arba kurių elektroninėse laikmenose saugoma ne didesnė kaip 150 eurų suma, bet kuriuo metu:
 
 
-1) mokėjimo paslaugų teikėjas turi teisę mokėtojui pateikti tik informaciją apie pagrindines mokėjimo paslaugos savybes, įskaitant mokėjimo priemonės naudojimo instrukciją, atsakomybę, taikomą komisinį atlyginimą ir kitą svarbią informaciją, taip pat nurodyti, kur lengvai prieinamu būdu galima susipažinti su kitomis šio įstatymo [[#^s-97f1100596be471d2cbd66a2|13 straipsnio]] 2–8 dalyse nustatytomis mokėjimo paslaugų teikimo sąlygomis; ^s-0d3cc78e5cb6f7195cd058fa
+1) mokėjimo paslaugų teikėjas turi teisę mokėtojui pateikti tik informaciją apie pagrindines mokėjimo paslaugos savybes, įskaitant mokėjimo priemonės naudojimo instrukciją, atsakomybę, taikomą komisinį atlyginimą ir kitą svarbią informaciją, taip pat nurodyti, kur lengvai prieinamu būdu galima susipažinti su kitomis šio įstatymo [[#^s-97f1100596be471d2cbd66a2|13 straipsnio]] [[#^s-1c7445846a81113d61417e55|2]]–[[#^s-2851d6219a6c6386000c3d5f|8]] dalyse nustatytomis mokėjimo paslaugų teikimo sąlygomis; ^s-0d3cc78e5cb6f7195cd058fa
 
 
 2) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad mokėjimo paslaugų teikėjas neprivalo siūlomo bendrosios sutarties sąlygų pakeitimo pateikti raštu popieriuje arba naudojant kitą patvariąją laikmeną; ^s-4856553d712b596c432395a1
@@ -440,10 +440,10 @@ Kai mokėjimo priemonės pagal bendrąją sutartį yra susijusios tik su atskiro
 3) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad, atlikęs mokėjimo operaciją, mokėjimo paslaugų teikėjas pateikia tik nuorodą arba sudaro sąlygas susipažinti su tokia nuoroda, pagal kurią mokėjimo paslaugų vartotojas gali nustatyti mokėjimo operaciją, jos sumą ir taikytą komisinį atlyginimą, o kai tam pačiam gavėjui atliktos kelios tokios pačios rūšies mokėjimo operacijos, – tik informaciją apie visą sumą ir komisinį atlyginimą už šias mokėjimo operacijas. Mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad iš mokėjimo paslaugų teikėjo nereikalaujama teikti šios informacijos arba sudaryti sąlygų su ja susipažinti, jeigu mokėjimo priemonė naudojama anonimiškai arba jeigu mokėjimo paslaugų teikėjas dėl techninių priežasčių negali tokios informacijos pateikti. Tačiau mokėjimo paslaugų teikėjas turi suteikti mokėtojui galimybę patikrinti laikomų lėšų sumą; ^s-f40309f3bd0a688acb60a2f2
 
 
-4) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad šio įstatymo [[#^s-e816e67bd332ca2cfb075222|34 straipsnio 1 dalies 2 punktas]], [[#^s-bc7e53fedad20264502016f9|35 straipsnio 1 dalies]] 3 ir [[#^s-50ea5e6084d6749e62ce57b0|5 punktai]] ir [[#^s-4e2149622231932cc04a9452|39 straipsnio]] 5 ir 6 dalys jiems netaikomi, jeigu negalima mokėjimo priemonės blokuoti arba užkirsti kelio tolesniam jos naudojimui; ^s-eb0dda9a4745abb2a721a941
+4) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad šio įstatymo [[#^s-e816e67bd332ca2cfb075222|34 straipsnio 1 dalies 2 punktas]], [[#^s-bc7e53fedad20264502016f9|35 straipsnio 1 dalies]] [[#^s-58e6fc47dbb1a18be3eb5908|3]] ir [[#^s-fb83e85f3d73f8e7283666db|5]] punktai ir [[#^s-4e2149622231932cc04a9452|39 straipsnio]] [[#^s-5cf20522e2bcd440056e4327|5]] ir [[#^s-eb1ac2fe2c1e78a680102982|6]] dalys jiems netaikomi, jeigu negalima mokėjimo priemonės blokuoti arba užkirsti kelio tolesniam jos naudojimui; ^s-eb0dda9a4745abb2a721a941
 
 
-5) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad šio įstatymo 37, [[#^s-17e3af01d82d76893958a28e|38 straipsniai]] ir [[#^s-4e2149622231932cc04a9452|39 straipsnio]] 1, 2, 3, 5 ir 6 dalys jiems netaikomi, jeigu mokėjimo priemonė naudojama anonimiškai arba jeigu mokėjimo paslaugų teikėjas negali įrodyti, kad mokėjimo operacija buvo autorizuota dėl specifinių mokėjimo priemonės savybių; ^s-50ea5e6084d6749e62ce57b0
+5) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad šio įstatymo [[#^s-30e40465aabe5964fec76085|37]], [[#^s-17e3af01d82d76893958a28e|38]] straipsniai ir [[#^s-4e2149622231932cc04a9452|39 straipsnio]] [[#^s-6cf1edb3c3af1d5dff6b108a|1]], [[#^s-68c908346f99d8812b2fc23f|2]], [[#^s-6a3ec6b999363c02ef287d03|3]], [[#^s-5cf20522e2bcd440056e4327|5]] ir [[#^s-eb1ac2fe2c1e78a680102982|6]] dalys jiems netaikomi, jeigu mokėjimo priemonė naudojama anonimiškai arba jeigu mokėjimo paslaugų teikėjas negali įrodyti, kad mokėjimo operacija buvo autorizuota dėl specifinių mokėjimo priemonės savybių; ^s-50ea5e6084d6749e62ce57b0
 
 
 6) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad mokėjimo paslaugų teikėjas nepraneštų mokėjimo paslaugų vartotojui apie atsisakymą vykdyti mokėjimo nurodymą, jeigu akivaizdu, kad mokėjimo nurodymas nebus įvykdytas; ^s-2ba35c8f1cd19848bdf3b3ef
@@ -452,7 +452,7 @@ Kai mokėjimo priemonės pagal bendrąją sutartį yra susijusios tik su atskiro
 7) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad mokėtojas negali atšaukti mokėjimo nurodymo po to, kai mokėjimo nurodymas perduotas arba gavėjui duotas sutikimas atlikti mokėjimo operaciją; ^s-84fa3e9341db50c51121e1db
 
 
-8) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad bus taikomi kiti mokėjimo operacijos įvykdymo terminai, negu nustatyta šio įstatymo 46 ir [[#^s-4ec4807c07e3b53e312591c4|47 straipsniuose]]. ^s-24c1803e9163fddbb012a21e
+8) mokėjimo paslaugų teikėjas ir mokėjimo paslaugų vartotojas gali susitarti, kad bus taikomi kiti mokėjimo operacijos įvykdymo terminai, negu nustatyta šio įstatymo [[#^s-656451db448c21df7dcda5f2|46]] ir [[#^s-4ec4807c07e3b53e312591c4|47]] straipsniuose. ^s-24c1803e9163fddbb012a21e
 
 
 
@@ -545,10 +545,10 @@ Mokėjimo paslaugų teikėjai yra:
 5. [[#^s-ebcc3c8d1ffaa377ce33db75|Šio straipsnio 4 dalyje]] nurodytas paslaugų teikėjas privalo raštu pranešti priežiūros institucijai apie šio įstatymo [[#^s-7e3c6cf08063392b9ed60f47|3 straipsnio 5 dalies 12 punkte]] nurodytos veiklos nutraukimą per 3 darbo dienas nuo veiklos nutraukimo dienos. ^s-2a757e285dbf3a1e066f11b4
 
 
-6. Paslaugų teikėjo veiklos, apie kurią pranešta pagal šio straipsnio 1 ir [[#^s-ebcc3c8d1ffaa377ce33db75|4 dalis]], aprašymas įtraukiamas į [[latest/TAR.4A05AB3730DD#^s-289b01df037f57700bdad50d|Lietuvos Respublikos mokėjimo įstaigų įstatymo 13 straipsnyje]] nurodytą viešąjį mokėjimo įstaigų sąrašą. ^s-b54255133b19426a748a7c60
+6. Paslaugų teikėjo veiklos, apie kurią pranešta pagal šio straipsnio [[#^s-6892b8e153d5fd1a7a473fed|1]] ir [[#^s-ebcc3c8d1ffaa377ce33db75|4]] dalis, aprašymas įtraukiamas į [[latest/TAR.4A05AB3730DD#^s-289b01df037f57700bdad50d|Lietuvos Respublikos mokėjimo įstaigų įstatymo 13 straipsnyje]] nurodytą viešąjį mokėjimo įstaigų sąrašą. ^s-b54255133b19426a748a7c60
 
 
-7. Priežiūros institucija informuoja Europos bankininkystės instituciją apie paslaugų teikėjo veiklą, apie kurią pranešta pagal šio straipsnio 1 ir [[#^s-ebcc3c8d1ffaa377ce33db75|4 dalis]], nurodydama, kuria išimtimi naudojamasi vykdant nurodytą veiklą. ^s-a00a381176fccf84fd81716f
+7. Priežiūros institucija informuoja Europos bankininkystės instituciją apie paslaugų teikėjo veiklą, apie kurią pranešta pagal šio straipsnio [[#^s-6892b8e153d5fd1a7a473fed|1]] ir [[#^s-ebcc3c8d1ffaa377ce33db75|4]] dalis, nurodydama, kuria išimtimi naudojamasi vykdant nurodytą veiklą. ^s-a00a381176fccf84fd81716f
 
 
 8. Priežiūros institucija nustato šiame straipsnyje nurodytų pranešimų turinio reikalavimus ir teikimo tvarką. ^s-d9d83171ba38d43988043adb
@@ -573,16 +573,16 @@ Mokėjimo paslaugų teikėjai yra:
 3) apribojimų remiantis mokėjimo paslaugų teikėjo teisine forma. ^s-a5f8e04c899548bc474ff1e5
 
 
-3. Mokėjimo sistemą valdantis subjektas, kurio buveinė yra Lietuvos Respublikoje, iki mokėjimo sistemos veiklos taisyklių ar jų pakeitimo įsigaliojimo datos turi gauti priežiūros institucijos nuomonę dėl šių taisyklių atitikties šio straipsnio 1 ir [[#^s-a03d0f633fe20bdc20eae9a0|2 dalių]] reikalavimams. Jeigu priežiūros institucija per 20 darbo dienų nuo mokėjimo sistemos taisyklių gavimo dienos nepateikia savo nuomonės mokėjimo sistemą valdančiam subjektui, laikoma, kad priežiūros institucija neturi pastabų dėl šių taisyklių atitikties šio straipsnio 1 ir [[#^s-a03d0f633fe20bdc20eae9a0|2 dalių]] reikalavimams. Jeigu priežiūros institucija nustato mokėjimo sistemos veiklos taisyklių neatitiktis šio straipsnio 1 ir [[#^s-a03d0f633fe20bdc20eae9a0|2 dalių]] reikalavimams, mokėjimo sistemą valdantis subjektas iki šių taisyklių įsigaliojimo dienos turi ištaisyti nurodytus trūkumus. Jeigu priežiūros institucija paprašo papildomų dokumentų ir (arba) informacijos, kurie būtini nuomonei pateikti, arba jeigu papildomus dokumentus ir (arba) informaciją pateikia mokėjimo sistemą valdantis subjektas, priežiūros institucijos nuomonės pateikimo terminas skaičiuojamas nuo papildomai pateiktų dokumentų ir (arba) informacijos gavimo dienos. ^s-87264de19888f3e1d3535e9d
+3. Mokėjimo sistemą valdantis subjektas, kurio buveinė yra Lietuvos Respublikoje, iki mokėjimo sistemos veiklos taisyklių ar jų pakeitimo įsigaliojimo datos turi gauti priežiūros institucijos nuomonę dėl šių taisyklių atitikties šio straipsnio [[#^s-b913a3c6491a7f05e814d1e0|1]] ir [[#^s-a03d0f633fe20bdc20eae9a0|2]] dalių reikalavimams. Jeigu priežiūros institucija per 20 darbo dienų nuo mokėjimo sistemos taisyklių gavimo dienos nepateikia savo nuomonės mokėjimo sistemą valdančiam subjektui, laikoma, kad priežiūros institucija neturi pastabų dėl šių taisyklių atitikties šio straipsnio [[#^s-b913a3c6491a7f05e814d1e0|1]] ir [[#^s-a03d0f633fe20bdc20eae9a0|2]] dalių reikalavimams. Jeigu priežiūros institucija nustato mokėjimo sistemos veiklos taisyklių neatitiktis šio straipsnio [[#^s-b913a3c6491a7f05e814d1e0|1]] ir [[#^s-a03d0f633fe20bdc20eae9a0|2]] dalių reikalavimams, mokėjimo sistemą valdantis subjektas iki šių taisyklių įsigaliojimo dienos turi ištaisyti nurodytus trūkumus. Jeigu priežiūros institucija paprašo papildomų dokumentų ir (arba) informacijos, kurie būtini nuomonei pateikti, arba jeigu papildomus dokumentus ir (arba) informaciją pateikia mokėjimo sistemą valdantis subjektas, priežiūros institucijos nuomonės pateikimo terminas skaičiuojamas nuo papildomai pateiktų dokumentų ir (arba) informacijos gavimo dienos. ^s-87264de19888f3e1d3535e9d
 
 
-4. Šio straipsnio 1, 2 ir [[#^s-87264de19888f3e1d3535e9d|3 dalys]] netaikomos mokėjimo sistemoms, kuriose dalyvauja tik mokėjimo paslaugų teikėjai, priklausantys įmonių grupei. [[#^s-87264de19888f3e1d3535e9d|Šio straipsnio 3 dalis]] netaikoma [[latest/TAR.D38B48DC3EF0|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatyme]] (toliau – Atsiskaitymų baigtinumo įstatymas) nustatytoms mokėjimo sistemoms. ^s-c54286ec53426cb49222d10e
+4. Šio straipsnio [[#^s-b913a3c6491a7f05e814d1e0|1]], [[#^s-a03d0f633fe20bdc20eae9a0|2]] ir [[#^s-87264de19888f3e1d3535e9d|3]] dalys netaikomos mokėjimo sistemoms, kuriose dalyvauja tik mokėjimo paslaugų teikėjai, priklausantys įmonių grupei. [[#^s-87264de19888f3e1d3535e9d|Šio straipsnio 3 dalis]] netaikoma [[latest/TAR.D38B48DC3EF0|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatyme]] (toliau – [[latest/TAR.D38B48DC3EF0|Atsiskaitymų baigtinumo įstatymas]]) nustatytoms mokėjimo sistemoms. ^s-c54286ec53426cb49222d10e
 Straipsnio dalies pakeitimai:
 Nr. XIV-3094, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20115
 
 
 
-5. Tuo atveju, kai Atsiskaitymų baigtinumo įstatyme nustatytos mokėjimo sistemos dalyvis leidžia veiklos licenciją turinčiam mokėjimo paslaugų teikėjui, kuris nedalyvauja sistemoje, perduoti pervedimo nurodymus per sistemą, tas dalyvis kitų veiklos licenciją turinčių mokėjimo paslaugų teikėjų prašymu, laikydamasis objektyvumo, proporcingumo ir nediskriminavimo reikalavimų, nurodytų šio straipsnio 1 ir [[#^s-a03d0f633fe20bdc20eae9a0|2 dalyse]], turi jiems suteikti tokią pačią galimybę. Kai sistemos dalyvis atsisako prašančiajam mokėjimo paslaugų teikėjui suteikti galimybę perduoti pervedimo nurodymus per sistemą, jis prašančiajam mokėjimo paslaugų teikėjui turi visiškai atskleisti atsisakymo priežastis. ^s-3e941945fb5f2d1a405a6961
+5. Tuo atveju, kai Atsiskaitymų baigtinumo įstatyme nustatytos mokėjimo sistemos dalyvis leidžia veiklos licenciją turinčiam mokėjimo paslaugų teikėjui, kuris nedalyvauja sistemoje, perduoti pervedimo nurodymus per sistemą, tas dalyvis kitų veiklos licenciją turinčių mokėjimo paslaugų teikėjų prašymu, laikydamasis objektyvumo, proporcingumo ir nediskriminavimo reikalavimų, nurodytų šio straipsnio [[#^s-b913a3c6491a7f05e814d1e0|1]] ir [[#^s-a03d0f633fe20bdc20eae9a0|2]] dalyse, turi jiems suteikti tokią pačią galimybę. Kai sistemos dalyvis atsisako prašančiajam mokėjimo paslaugų teikėjui suteikti galimybę perduoti pervedimo nurodymus per sistemą, jis prašančiajam mokėjimo paslaugų teikėjui turi visiškai atskleisti atsisakymo priežastis. ^s-3e941945fb5f2d1a405a6961
 Straipsnio dalies pakeitimai:
 Nr. XIV-3094, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20115
 
@@ -597,7 +597,7 @@ Nr. XIV-3094, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20115
 1) priemonių, kurių imasi siekdama apsaugoti mokėjimo paslaugų vartotojų lėšas, aprašymą; ^s-0bdea380211baa768525dd0c
 
 
-2) mokėjimo paslaugų teikimo ir (arba) elektroninių pinigų leidimo veiklos valdymo tvarkos ir vidaus kontrolės sistemos, įskaitant administracines, rizikos valdymo ir apskaitos sistemas, aprašymą, taip pat naudojimosi informacinių ir ryšių technologijų paslaugomis tvarkos, atitinkančios 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamento (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011, 6 ir [[#^s-330853fac77c748b356c24c4|7 straipsniuose]] nustatytus reikalavimus, aprašymą; ^s-997d45d7a2f830f058e353be
+2) mokėjimo paslaugų teikimo ir (arba) elektroninių pinigų leidimo veiklos valdymo tvarkos ir vidaus kontrolės sistemos, įskaitant administracines, rizikos valdymo ir apskaitos sistemas, aprašymą, taip pat naudojimosi informacinių ir ryšių technologijų paslaugomis tvarkos, atitinkančios 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [reglamento (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami [reglamentai (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj), (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011, [[#^s-36e766648c554f423cb12c5e|6]] ir [[#^s-330853fac77c748b356c24c4|7]] straipsniuose nustatytus reikalavimus, aprašymą; ^s-997d45d7a2f830f058e353be
 
 
 3) mokėjimo paslaugų teikimo veiklos nutraukimo planą ir (arba) elektroninių pinigų leidimo veiklos nutraukimo planą. ^s-4161d0e9c99059b3a80cf968
@@ -612,7 +612,7 @@ Nr. XIV-3094, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20115
 4. Mokėjimo sistemos operatoriui pareikalavus, Lietuvos Respublikoje licencijuota mokėjimo įstaiga arba Lietuvos Respublikoje licencijuota elektroninių pinigų įstaiga mokėjimo sistemos operatoriaus nustatyta tvarka privalo pateikti valstybėje narėje reziduojančios organizacijos, fizinio asmens ar asmenų grupės (toliau kartu šioje dalyje – subjektas), kuris (-i) yra nepriklausomas (-a) ir turi patirties tikrinant mokėjimo paslaugų teikimo ir (arba) elektroninių pinigų leidimo veiklos valdymo tvarką ir vidaus kontrolės sistemas dėl jų atitikties teisės aktams, reglamentuojantiems mokėjimo įstaigų ir elektroninių pinigų įstaigų veiklą, išvadą dėl [[#^s-582c860ebf176939d5aee5f0|šio straipsnio 1 dalyje]] nustatytų ir pagal [[#^s-c27ed8e6271bc5a6122f1ea4|šio straipsnio 2 dalį]] detalizuotų reikalavimų arba dalies jų laikymosi (toliau šioje dalyje – Išvada). Mokėjimo sistemos operatorius turi teisę nustatyti, kokios apimties ir dėl kurių [[#^s-582c860ebf176939d5aee5f0|šio straipsnio 1 dalyje]] nustatytų ir pagal [[#^s-c27ed8e6271bc5a6122f1ea4|šio straipsnio 2 dalį]] detalizuotų reikalavimų reikalauja Išvados. Subjektas laikomas nepriklausomu, kai su Išvadą užsakiusia Lietuvos Respublikoje licencijuota mokėjimo įstaiga ar Lietuvos Respublikoje licencijuota elektroninių pinigų įstaiga jo nesieja santykiai, kurie galėtų pakenkti subjekto objektyvumui ar galimybei nustatyti ir atskleisti [[#^s-582c860ebf176939d5aee5f0|šio straipsnio 1 dalyje]] nustatytų ir pagal [[#^s-c27ed8e6271bc5a6122f1ea4|šio straipsnio 2 dalį]] detalizuotų reikalavimų laikymosi pažeidimus ir trūkumus. ^s-2ae91119820f5ea34de903a2
 
 
-5. Kitoje valstybėje narėje licencijuota mokėjimo įstaiga arba kitoje valstybėje narėje licencijuota elektroninių pinigų įstaiga mokėjimo sistemos operatoriui turi pateikti tos valstybės narės nustatyta tvarka parengtą patvirtinimą, kad ši įstaiga atitinka Direktyvos (ES) Nr. 2015/2366 35a [[#^s-582c860ebf176939d5aee5f0|straipsnio 1 dalyje]] nustatytus reikalavimus. ^s-52ed969218743caf92f5d865
+5. Kitoje valstybėje narėje licencijuota mokėjimo įstaiga arba kitoje valstybėje narėje licencijuota elektroninių pinigų įstaiga mokėjimo sistemos operatoriui turi pateikti tos valstybės narės nustatyta tvarka parengtą patvirtinimą, kad ši įstaiga atitinka [Direktyvos (ES) Nr. 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) 35a [[#^s-582c860ebf176939d5aee5f0|straipsnio 1 dalyje]] nustatytus reikalavimus. ^s-52ed969218743caf92f5d865
 
 
 Straipsnio pakeitimai:
@@ -708,7 +708,7 @@ Mokėjimo paslaugų teikėjai privalo nediskriminuoti teisėtai gyvenančių var
 6) ar galima susitarti dėl mokėjimo operacijų, vykdomų pagal mokėjimo priemonę, išlaidų limito; ^s-ceba9e7446867630ab90aec2
 
 
-7) kai teikiamos mokėjimo kortele grindžiamos mokėjimo priemonės, kuriose naudojami kelių mokėjimo priemonių prekės ženklai, kaip apibrėžta Reglamente (ES) 2015/751, – mokėjimo paslaugų vartotojo teisės pagal Reglamento (ES) 2015/751 [[#^s-0bc001e5017c51370534be1c|8 straipsnį]]. ^s-f17b8c6c02304cf0a36b846a
+7) kai teikiamos mokėjimo kortele grindžiamos mokėjimo priemonės, kuriose naudojami kelių mokėjimo priemonių prekės ženklai, kaip apibrėžta [Reglamente (ES) 2015/751](https://eur-lex.europa.eu/eli/reg/2015/751/oj), – mokėjimo paslaugų vartotojo teisės pagal [Reglamento (ES) 2015/751 8 straipsnį](https://eur-lex.europa.eu/eli/reg/2015/751/art_8/oj). ^s-f17b8c6c02304cf0a36b846a
 
 
 4. Mokėjimo paslaugų teikimo sąlygose dėl komisinio atlyginimo, palūkanų normos ir valiutos keitimo kurso turi būti nurodyta: ^s-8ee85c1d09c7bbe6ecb4436f
@@ -786,7 +786,7 @@ Mokėjimo paslaugų teikėjai privalo nediskriminuoti teisėtai gyvenančių var
 9. Jeigu bendroji sutartis mokėjimo paslaugų vartotojo prašymu sudaroma naudojant nuotolinio ryšio priemones, kuriomis mokėjimo paslaugų teikėjui nesudaroma galimybė laikytis [[#^s-75a41ffee5cad7f5bd85ce24|šio straipsnio 1 dalyje]] nustatytų pareigų, mokėjimo paslaugų teikėjas įvykdo šias pareigas iš karto po bendrosios sutarties sudarymo. ^s-3acfe2aa1160072a6f94ac41
 
 
-10. [[#^s-75a41ffee5cad7f5bd85ce24|Šio straipsnio 1 dalyje]] nustatytos pareigos taip pat gali būti įvykdytos pateikus bendrosios sutarties projektą, kuriame pateikiama šio straipsnio 2–[[#^s-2851d6219a6c6386000c3d5f|8 dalyse]] nurodyta informacija. ^s-854cc91f69a7b2acfe4ec189
+10. [[#^s-75a41ffee5cad7f5bd85ce24|Šio straipsnio 1 dalyje]] nustatytos pareigos taip pat gali būti įvykdytos pateikus bendrosios sutarties projektą, kuriame pateikiama šio straipsnio [[#^s-1c7445846a81113d61417e55|2]]–[[#^s-2851d6219a6c6386000c3d5f|8]] dalyse nurodyta informacija. ^s-854cc91f69a7b2acfe4ec189
 
 
 
@@ -1028,7 +1028,7 @@ Kai mokėjimo nurodymas inicijuojamas per mokėjimo inicijavimo paslaugos teikė
 ### 241 straipsnis. Lėšų pervedimo reikalavimų netaikymas ^s-e306b8ae23eda69ae45b8c8c
 
 
-Reglamento (ES) 2023/1113 reikalavimai netaikomi lėšų pervedimams, kaip jie apibrėžti Reglamente (ES) 2023/1113, Lietuvos Respublikos teritorijoje į gavėjo, kaip jis apibrėžtas Reglamente (ES) 2023/1113, mokėjimo sąskaitą, atliekant mokėjimus išimtinai už prekių tiekimą ar paslaugų teikimą, jeigu įvykdomos visos Reglamento (ES) 2023/1113 [[#^s-6585a5b22f632b25b049dece|2 straipsnio 5 dalyje]] nurodytos sąlygos.
+[Reglamento (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj) reikalavimai netaikomi lėšų pervedimams, kaip jie apibrėžti [Reglamente (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj), Lietuvos Respublikos teritorijoje į gavėjo, kaip jis apibrėžtas [Reglamente (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj), mokėjimo sąskaitą, atliekant mokėjimus išimtinai už prekių tiekimą ar paslaugų teikimą, jeigu įvykdomos visos [Reglamento (ES) 2023/1113 2 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/reg/2023/1113/art_2/par_5/oj) nurodytos sąlygos.
 
 
 Papildyta straipsniu:
@@ -1074,7 +1074,7 @@ Kilus ginčui, mokėjimo paslaugų teikėjas turi įrodyti, kad jis įvykdė ši
 ### 28 straipsnis. Pareiga informuoti vartotojus apie jų teises ^s-aefbd3bf2478b123d48b5510
 
 
-1. Priežiūros institucija privalo užtikrinti, kad Europos Komisijos parengtas informacinis dokumentas apie vartotojų teises, kaip numatyta Direktyvos (ES) Nr. 2015/2366 106 straipsnio 1 dalyje (toliau šiame straipsnyje – informacinis dokumentas), būtų lengvai prieinamas priežiūros institucijos interneto svetainėje. ^s-cb2733ebe0b30e032f2a33c0
+1. Priežiūros institucija privalo užtikrinti, kad Europos Komisijos parengtas informacinis dokumentas apie vartotojų teises, kaip numatyta [Direktyvos (ES) Nr. 2015/2366 106 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/dir/2015/2366/art_106/par_1/oj) (toliau šiame straipsnyje – informacinis dokumentas), būtų lengvai prieinamas priežiūros institucijos interneto svetainėje. ^s-cb2733ebe0b30e032f2a33c0
 
 
 2. Mokėjimo paslaugų teikėjas privalo užtikrinti, kad informacinis dokumentas būtų lengvai prieinamas mokėjimo paslaugų teikėjo interneto svetainėje, jeigu mokėjimo paslaugų teikėjas ją turi, ir popierine forma klientų aptarnavimo vietose, įskaitant jų filialus, tarpininkus ir asmenis, kuriems perduodamas veiklos funkcijų vykdymas. ^s-d66dedbc16781d64e4a047cb
@@ -1087,7 +1087,7 @@ Kilus ginčui, mokėjimo paslaugų teikėjas turi įrodyti, kad jis įvykdė ši
 ### 281 straipsnis. Lyginamoji interneto svetainė, skirta mažoms ir labai mažoms įmonėms ^s-cba2e3b931f10e054e28e975
 
 
-1. Priežiūros institucija administruoja mažoms ir labai mažoms įmonėms, kaip jos suprantamos pagal [[latest/TAR.640D50DB8877#^s-d303a28643a2e30b51818f99|Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 3 straipsnio]] 2 ir [[#^s-d45769a93a4c0934ed9d1dee|3 dalis]], (toliau – mažos ir labai mažos įmonės) skirtą lyginamąją interneto svetainę, kuria galima naudotis nemokamai ir kurioje skelbiama vieša informacija apie komisinius atlyginimus, kuriuos mokėjimo paslaugų teikėjai taiko už mokėjimo paslaugas, aktualias mažoms ir labai mažoms įmonėms, ir kita su mokėjimo paslaugomis susijusi informacija, (toliau šiame straipsnyje – lyginamoji svetainė). ^s-a88f93e19251036defc38f75
+1. Priežiūros institucija administruoja mažoms ir labai mažoms įmonėms, kaip jos suprantamos pagal [[latest/TAR.640D50DB8877#^s-d303a28643a2e30b51818f99|Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymo 3 straipsnio]] [[latest/TAR.640D50DB8877#^s-181232ff6414810008470242|2]] ir [[latest/TAR.640D50DB8877#^s-233aadf42b96010d7d5b911e|3]] dalis, (toliau – mažos ir labai mažos įmonės) skirtą lyginamąją interneto svetainę, kuria galima naudotis nemokamai ir kurioje skelbiama vieša informacija apie komisinius atlyginimus, kuriuos mokėjimo paslaugų teikėjai taiko už mokėjimo paslaugas, aktualias mažoms ir labai mažoms įmonėms, ir kita su mokėjimo paslaugomis susijusi informacija, (toliau šiame straipsnyje – lyginamoji svetainė). ^s-a88f93e19251036defc38f75
 
 
 2. Lyginamojoje svetainėje mokėjimo paslaugų teikėjai neturi būti diskriminuojami dėl paieškos rezultatų ir šioje svetainėje privalo būti: ^s-0337565b410eeefdd135ed01
@@ -1114,7 +1114,7 @@ Kilus ginčui, mokėjimo paslaugų teikėjas turi įrodyti, kad jis įvykdė ši
 3. Mokėjimo paslaugų teikėjai privalo priežiūros institucijai pateikti informaciją apie taikomus komisinius atlyginimus už savo teikiamas mokėjimo paslaugas, aktualias mažoms ir labai mažoms įmonėms. ^s-d45769a93a4c0934ed9d1dee
 
 
-4. Priežiūros institucija nustato mažoms ir labai mažoms įmonėms aktualių mokėjimo paslaugų sąrašą, detalius informacijos skelbimo lyginamojoje svetainėje reikalavimus ir mokėjimo paslaugų teikėjams taikomus detalius reikalavimus dėl informacijos teikimo priežiūros institucijai. ^s-311c00fc81b60bcf7893776b
+4. Priežiūros institucija nustato mažoms ir labai mažoms įmonėms aktualių mokėjimo paslaugų sąrašą, detalius informacijos skelbimo lyginamojoje svetainėje reikalavimus ir mokėjimo paslaugų teikėjams taikomus detalius reikalavimus [dėl informacijos teikimo](https://e-tar.lt/portal/lt/legalAct/dffb9e80727911eabee4a336e7e6fdab) priežiūros institucijai. ^s-311c00fc81b60bcf7893776b
 
 
 Papildyta straipsniu:
@@ -1168,7 +1168,7 @@ MOKĖJIMO OPERACIJŲ AUTORIZAVIMAS
 
 
 4) mokėjimo paslaugų teikėjas, kuris išduoda mokėjimo kortele grindžiamas mokėjimo priemones, palaiko ryšį su sąskaitą tvarkančiu mokėjimo paslaugų teikėju naudodamasis atvirojo ryšio sąsaja. ^s-bb196d4a915a2014b2890bd2
-TAR pastaba: [[#^s-bb196d4a915a2014b2890bd2|30 straipsnio 2 dalies 4 punktas]] įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyvos (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
+TAR pastaba: 30 straipsnio 2 dalies 4 punktas įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyvos (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
 
 
 3. Lėšų mokėtojo mokėjimo sąskaitoje pakankamumo patvirtinimas privalo būti paprastas atsakymas „taip“ arba „ne“, o ne mokėjimo sąskaitos lėšų likučio nurodymas. Šio atsakymo negalima saugoti arba naudoti kitu tikslu, negu siekiant įvykdyti mokėjimo kortele grindžiamą mokėjimo operaciją. ^s-166e697ea7cf14c04c63e5b6
@@ -1191,7 +1191,7 @@ TAR pastaba: [[#^s-bb196d4a915a2014b2890bd2|30 straipsnio 2 dalies 4 punktas]] �
 
 
 1) palaikyti ryšį su mokėjimo inicijavimo paslaugos teikėju naudodamasis atvirojo ryšio sąsaja; ^s-bbbe30aeb80dabea503b207c
-TAR pastaba: [[#^s-bbbe30aeb80dabea503b207c|31 straipsnio 1 dalies 1 punktas]] įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyvos (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
+TAR pastaba: 31 straipsnio 1 dalies 1 punktas įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyvos (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
 
 
 2) iš mokėjimo inicijavimo paslaugos teikėjo gavęs mokėjimo nurodymą iš karto jam pateikti visą informaciją apie mokėjimo operacijos inicijavimą ir visą informaciją, kuri yra prieinama sąskaitą tvarkančiam mokėjimo paslaugų teikėjui, apie mokėjimo operacijos įvykdymą arba leisti su ja susipažinti; ^s-f418c720167789479f4a4fd8
@@ -1203,7 +1203,7 @@ TAR pastaba: [[#^s-bbbe30aeb80dabea503b207c|31 straipsnio 1 dalies 1 punktas]] �
 2. Mokėjimo inicijavimo paslaugos teikėjas, teikdamas mokėjimo inicijavimo paslaugą, privalo: ^s-2a6485ebddf758f0414881c9
 
 
-1) jokiu momentu nelaikyti mokėtojo lėšų, išskyrus atvejus, kai mokėjimo inicijavimo paslaugos teikėjas turi teisę teikti ir kitą mokėjimo paslaugą, nurodytą šio įstatymo [[#^s-c5cc420b398f300e5e54e5a1|5 straipsnio]] 1–[[#^s-e473dd387527a6d6c30bc4ff|6 punktuose]]; ^s-c6b4f69c09954dc3c7d874c3
+1) jokiu momentu nelaikyti mokėtojo lėšų, išskyrus atvejus, kai mokėjimo inicijavimo paslaugos teikėjas turi teisę teikti ir kitą mokėjimo paslaugą, nurodytą šio įstatymo [[#^s-c5cc420b398f300e5e54e5a1|5 straipsnio]] 1–6 punktuose; ^s-c6b4f69c09954dc3c7d874c3
 
 
 2) užtikrinti, kad personalizuoti saugumo duomenys nebūtų prieinami kitiems asmenims, išskyrus mokėtoją ir personalizuotų saugumo duomenų išdavėją, ir kad juos mokėjimo inicijavimo paslaugos teikėjas perduotų užtikrindamas perduodamų duomenų saugumą; ^s-eb7807653a5f70f8676bdffc
@@ -1216,7 +1216,7 @@ TAR pastaba: [[#^s-bbbe30aeb80dabea503b207c|31 straipsnio 1 dalies 1 punktas]] �
 
 
 5) palaikyti ryšį su sąskaitą tvarkančiu mokėjimo paslaugų teikėju, mokėtoju ir gavėju naudodamasis atvirojo ryšio sąsaja; ^s-e1bc14fb6309ea2ebd8ddab8
-TAR pastaba: [[#^s-e1bc14fb6309ea2ebd8ddab8|31 straipsnio 2 dalies 5 punktas]] įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyvos (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
+TAR pastaba: 31 straipsnio 2 dalies 5 punktas įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyvos (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
 
 
 6) nekaupti neskelbtinų mokėtojo mokėjimo duomenų. Mokėjimo sąskaitos savininko vardas, pavardė (pavadinimas) ir mokėjimo sąskaitos numeris, teikiant mokėjimo inicijavimo paslaugą, nėra laikomi neskelbtinais mokėjimo duomenimis; ^s-e473dd387527a6d6c30bc4ff
@@ -1234,7 +1234,7 @@ TAR pastaba: [[#^s-e1bc14fb6309ea2ebd8ddab8|31 straipsnio 2 dalies 5 punktas]] �
 3. Teisė pasinaudoti mokėjimo inicijavimo paslauga mokėtojui nesuteikiama, kai mokėjimo sąskaita nėra pasiekiama internetu. ^s-ee3dbfad4d0555fdb8d2e486
 
 
-4. Mokėjimo inicijavimo paslaugos teikėjas ir sąskaitą tvarkantis mokėjimo paslaugų teikėjas privalo vadovautis šio straipsnio 1 ir [[#^s-2a6485ebddf758f0414881c9|2 dalyse]] nurodytais reikalavimais ir tuo atveju, jeigu jie nėra susieti sutartiniais santykiais. ^s-c09786caf315e29c0a6580c5
+4. Mokėjimo inicijavimo paslaugos teikėjas ir sąskaitą tvarkantis mokėjimo paslaugų teikėjas privalo vadovautis šio straipsnio [[#^s-aba3e5a7bddb9b09d9b2c72f|1]] ir [[#^s-2a6485ebddf758f0414881c9|2]] dalyse nurodytais reikalavimais ir tuo atveju, jeigu jie nėra susieti sutartiniais santykiais. ^s-c09786caf315e29c0a6580c5
 
 
 5. Mokėjimo inicijavimo paslaugos teikėjas turi teisę saugoti mokėjimo paslaugų vartotojo asmens duomenis 3 metus, jeigu kiti teisės aktai nenustato kitaip. ^s-a6c1701881cb5bbf8e02d88f
@@ -1248,7 +1248,7 @@ TAR pastaba: [[#^s-e1bc14fb6309ea2ebd8ddab8|31 straipsnio 2 dalies 5 punktas]] �
 
 
 1) palaikyti ryšį su sąskaitos informacijos paslaugos teikėjais naudodamasis atvirojo ryšio sąsaja; ^s-51f734821b5c49acba028354
-TAR pastaba: [[#^s-51f734821b5c49acba028354|32 straipsnio 1 dalies 1 punktas]] įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyvos (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
+TAR pastaba: 32 straipsnio 1 dalies 1 punktas įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyvos (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
 
 
 2) prašymus gauti duomenis, perduotus naudojantis sąskaitos informacijos paslaugos teikėjo paslaugomis, vykdyti nediskriminuodamas, jeigu nėra objektyvių priežasčių elgtis kitaip. ^s-0cb3377ffc5a0c55ba98d1c8
@@ -1267,7 +1267,7 @@ TAR pastaba: [[#^s-51f734821b5c49acba028354|32 straipsnio 1 dalies 1 punktas]] �
 
 
 4) palaikyti ryšį su sąskaitą tvarkančiu mokėjimo paslaugų teikėju ir mokėjimo paslaugų vartotoju naudodamasis atvirojo ryšio sąsaja; ^s-afa10704530ccc68b7480d42
-TAR pastaba: [[#^s-afa10704530ccc68b7480d42|32 straipsnio 2 dalies 4 punktas]] įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyvos (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
+TAR pastaba: 32 straipsnio 2 dalies 4 punktas įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyvos (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
 
 
 5) turėti prieigą tik prie nurodytų mokėjimo sąskaitų ir susijusių mokėjimo operacijų informacijos ir gauti su mokėjimo sąskaitomis ir susijusiomis mokėjimo operacijomis susijusių asmens duomenų tik tiek, kiek jų būtina minėtoms paslaugoms teikti; ^s-183dd6364f099bd3ca20ded8
@@ -1282,7 +1282,7 @@ TAR pastaba: [[#^s-afa10704530ccc68b7480d42|32 straipsnio 2 dalies 4 punktas]] �
 3. Teisė pasinaudoti sąskaitos informacijos paslauga mokėjimo paslaugų vartotojui nesuteikiama, kai mokėjimo sąskaita nėra pasiekiama internetu. ^s-380512c2f4f2094b372defd4
 
 
-4. Sąskaitos informacijos paslaugos teikėjas ir sąskaitą tvarkantis mokėjimo paslaugų teikėjas privalo vadovautis šio straipsnio 1 ir [[#^s-afc10a9e887a89c04664155c|2 dalyse]] nurodytais reikalavimais ir tuo atveju, jeigu jie nėra susieti sutartiniais santykiais. ^s-ce8f558554a52a5f12bf0c96
+4. Sąskaitos informacijos paslaugos teikėjas ir sąskaitą tvarkantis mokėjimo paslaugų teikėjas privalo vadovautis šio straipsnio [[#^s-aba0133b40bc8e11b6978a5f|1]] ir [[#^s-afc10a9e887a89c04664155c|2]] dalyse nurodytais reikalavimais ir tuo atveju, jeigu jie nėra susieti sutartiniais santykiais. ^s-ce8f558554a52a5f12bf0c96
 
 
 5. Sąskaitos informacijos paslaugos teikėjas turi teisę saugoti mokėjimo paslaugų vartotojo asmens duomenis 3 metus, jeigu kiti teisės aktai nenustato kitaip. ^s-01652aae36b70b6d40bd59d6
@@ -1361,13 +1361,13 @@ TAR pastaba: [[#^s-afa10704530ccc68b7480d42|32 straipsnio 2 dalies 4 punktas]] �
 ### 36 straipsnis. Pranešimas apie neautorizuotas ar netinkamai įvykdytas mokėjimo operacijas ir nurašytų lėšų grąžinimas ^s-b8da601c5f66e3f327176038
 
 
-1. Mokėjimo paslaugų teikėjas grąžina nurašytas lėšas mokėtojui tik tuo atveju, jeigu mokėtojas, sužinojęs apie neautorizuotas ar netinkamai įvykdytas mokėjimo operacijas, dėl kurių pagal šio įstatymo 38, 51 ir [[#^s-b6f4e0e5a912feaf93960cb2|52 straipsnius]] gali būti pateikiami reikalavimai, apie tai praneša savo mokėjimo paslaugų teikėjui nedelsdamas, ne vėliau kaip per 13 mėnesių nuo lėšų nurašymo datos. ^s-9bc2d2b268870613cc928fd3
+1. Mokėjimo paslaugų teikėjas grąžina nurašytas lėšas mokėtojui tik tuo atveju, jeigu mokėtojas, sužinojęs apie neautorizuotas ar netinkamai įvykdytas mokėjimo operacijas, dėl kurių pagal šio įstatymo [[#^s-17e3af01d82d76893958a28e|38]], [[#^s-40056ea9589e35d4632b8d34|51]] ir [[#^s-b6f4e0e5a912feaf93960cb2|52]] straipsnius gali būti pateikiami reikalavimai, apie tai praneša savo mokėjimo paslaugų teikėjui nedelsdamas, ne vėliau kaip per 13 mėnesių nuo lėšų nurašymo datos. ^s-9bc2d2b268870613cc928fd3
 
 
 2. [[#^s-9bc2d2b268870613cc928fd3|Šio straipsnio 1 dalyje]] nustatytas terminas netaikomas, kai mokėjimo paslaugų teikėjas nepateikė informacijos mokėjimo paslaugų vartotojui apie neautorizuotą ar netinkamai įvykdytą mokėjimo operaciją ar nesudarė sąlygų su ja susipažinti šio įstatymo nustatyta tvarka. ^s-8b44c811a4571ee26da40464
 
 
-3. Jeigu mokėjimo operacija buvo inicijuota naudojantis mokėjimo inicijavimo paslaugos teikėjo paslaugomis, nurašytas lėšas, kaip nurodyta [[#^s-9bc2d2b268870613cc928fd3|šio straipsnio 1 dalyje]], mokėtojui grąžina sąskaitą tvarkantis mokėjimo paslaugų teikėjas šio įstatymo [[#^s-17e3af01d82d76893958a28e|38 straipsnio]] 2 ir [[#^s-b447940407aa3af6ec8a5747|3 dalyse]] ir [[#^s-40056ea9589e35d4632b8d34|51 straipsnio]] 1–5 dalyse nustatyta tvarka. ^s-b447940407aa3af6ec8a5747
+3. Jeigu mokėjimo operacija buvo inicijuota naudojantis mokėjimo inicijavimo paslaugos teikėjo paslaugomis, nurašytas lėšas, kaip nurodyta [[#^s-9bc2d2b268870613cc928fd3|šio straipsnio 1 dalyje]], mokėtojui grąžina sąskaitą tvarkantis mokėjimo paslaugų teikėjas šio įstatymo [[#^s-17e3af01d82d76893958a28e|38 straipsnio]] [[#^s-bcc6ea7f46f1667cf7258884|2]] ir [[#^s-9a5d851eadd8ec30f9dbde81|3]] dalyse ir [[#^s-40056ea9589e35d4632b8d34|51 straipsnio]] [[#^s-31cec31bd844c29e55d88f36|1]]–[[#^s-c5b38fb07b588cd82319fef0|5]] dalyse nustatyta tvarka. ^s-b447940407aa3af6ec8a5747
 
 
 
@@ -1466,7 +1466,7 @@ TAR pastaba: [[#^s-afa10704530ccc68b7480d42|32 straipsnio 2 dalies 4 punktas]] �
 3. [[#^s-93754ade8c20d275ad1a931c|Šio straipsnio 1 dalyje]] nurodytu atveju mokėtojo mokėjimo paslaugų teikėjas privalo grąžinti mokėtojui visą įvykdytos mokėjimo operacijos sumą ir užtikrinti, kad mokėtojas nepatirtų nuostolių dėl mokėjimo paslaugų teikėjui mokėtinų arba iš jo gautinų palūkanų. ^s-5ce07d5eb681479248cdd8b0
 
 
-4. Kai vykdomos tiesioginio debeto operacijos, kaip nurodyta Reglamento (ES) Nr. 260/2012 [[#^s-5171289bac1893eadd75fa4f|1 straipsnyje]], mokėtojas turi besąlygišką teisę atgauti autorizuotos ir jau įvykdytos mokėjimo operacijos sumą. Tokiu atveju mutatis mutandis taikomi šio straipsnio 6 ir [[#^s-bd405de39b13c54dee4115e3|7 dalyse]] nustatyti terminai. ^s-d24c40346d80fdd29e378213
+4. Kai vykdomos tiesioginio debeto operacijos, kaip nurodyta Reglamento (ES) Nr. 260/2012 [[#^s-5171289bac1893eadd75fa4f|1 straipsnyje]], mokėtojas turi besąlygišką teisę atgauti autorizuotos ir jau įvykdytos mokėjimo operacijos sumą. Tokiu atveju mutatis mutandis taikomi šio straipsnio [[#^s-6628a13b7a30bc2dcb55245b|6]] ir [[#^s-bd405de39b13c54dee4115e3|7]] dalyse nustatyti terminai. ^s-d24c40346d80fdd29e378213
 
 
 5. Mokėtojas ir mokėjimo paslaugų teikėjas bendrojoje sutartyje gali susitarti, kad mokėtojas neturi teisės į gavėjo ar per gavėją inicijuotų mokėjimo operacijų sumų grąžinimą, jeigu mokėtojas davė sutikimą įvykdyti mokėjimo operaciją tiesiogiai savo mokėjimo paslaugų teikėjui ir, kai taikytina, mokėjimo paslaugų teikėjas arba gavėjas mokėtojui sutartu būdu pateikė informaciją apie būsimą mokėjimo operaciją ar sudarė sąlygas su ja susipažinti likus ne mažiau kaip keturioms savaitėms iki numatyto mokėjimo operacijos įvykdymo, išskyrus [[#^s-d24c40346d80fdd29e378213|šio straipsnio 4 dalyje]] nurodytą atvejį. ^s-a03de668f9f57a09d07f7953
@@ -1526,7 +1526,7 @@ Nr. XIII-2488, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17215
 3. Šio įstatymo [[#^s-58c3edbb11eb4625fb448731|42 straipsnio 2 dalyje]] nustatytu atveju mokėjimo paslaugų vartotojas gali atšaukti mokėjimo nurodymą vėliausiai iki darbo dienos, einančios prieš sutartą dieną, pabaigos. ^s-ed3bdb71a12ba03a8a4c37e2
 
 
-4. Pasibaigus šio straipsnio 1, 2 ir [[#^s-ed3bdb71a12ba03a8a4c37e2|3 dalyse]] nustatytiems terminams, mokėjimo nurodymas gali būti atšauktas tik tuo atveju, kai dėl to susitaria mokėjimo paslaugų vartotojas ir atitinkamas mokėjimo paslaugų teikėjas, o [[#^s-db15bf8bce1562f490524357|šio straipsnio 2 dalyje]] numatytais atvejais būtinas ir gavėjo sutikimas. Mokėjimo paslaugų teikėjas gali imti komisinį atlyginimą už mokėjimo nurodymo atšaukimą, jeigu tai numatyta bendrojoje sutartyje. ^s-d824f503149df719b7400ea8
+4. Pasibaigus šio straipsnio [[#^s-5053e4c10da16c9a3c8a8464|1]], [[#^s-db15bf8bce1562f490524357|2]] ir [[#^s-ed3bdb71a12ba03a8a4c37e2|3]] dalyse nustatytiems terminams, mokėjimo nurodymas gali būti atšauktas tik tuo atveju, kai dėl to susitaria mokėjimo paslaugų vartotojas ir atitinkamas mokėjimo paslaugų teikėjas, o [[#^s-db15bf8bce1562f490524357|šio straipsnio 2 dalyje]] numatytais atvejais būtinas ir gavėjo sutikimas. Mokėjimo paslaugų teikėjas gali imti komisinį atlyginimą už mokėjimo nurodymo atšaukimą, jeigu tai numatyta bendrojoje sutartyje. ^s-d824f503149df719b7400ea8
 
 
 
@@ -1566,7 +1566,7 @@ Nr. XIII-2488, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17215
 ### 47 straipsnis. Mokėjimas, kai mokėtojas ir (arba) gavėjas neturi mokėjimo sąskaitos mokėjimo paslaugų teikėjo įstaigoje ^s-4ec4807c07e3b53e312591c4
 
 
-Kai mokėtojas ir (arba) gavėjas neturi mokėjimo sąskaitos mokėjimo paslaugų teikėjo įstaigoje, mokėtojo mokėjimo paslaugų teikėjas turi užtikrinti, kad mokėjimo operacija būtų įvykdyta šio įstatymo [[#^s-656451db448c21df7dcda5f2|46 straipsnio]] 1 ir 2 dalyse nustatytais terminais, o gavėjo mokėjimo paslaugų teikėjas turi užtikrinti gavėjo galimybę disponuoti gautomis lėšomis šio įstatymo [[#^s-108e88a43c73a5d2bd5fbc02|49 straipsnyje]] nustatyta tvarka.
+Kai mokėtojas ir (arba) gavėjas neturi mokėjimo sąskaitos mokėjimo paslaugų teikėjo įstaigoje, mokėtojo mokėjimo paslaugų teikėjas turi užtikrinti, kad mokėjimo operacija būtų įvykdyta šio įstatymo [[#^s-656451db448c21df7dcda5f2|46 straipsnio]] [[#^s-5d2f88323e44c29d4dcb5108|1]] ir [[#^s-7351956dc4cae1246fce1adb|2]] dalyse nustatytais terminais, o gavėjo mokėjimo paslaugų teikėjas turi užtikrinti gavėjo galimybę disponuoti gautomis lėšomis šio įstatymo [[#^s-108e88a43c73a5d2bd5fbc02|49 straipsnyje]] nustatyta tvarka.
 
 
 
@@ -1640,7 +1640,7 @@ Kai mokėtojas ir (arba) gavėjas neturi mokėjimo sąskaitos mokėjimo paslaug�
 8. Gavėjo mokėjimo paslaugų teikėjas yra atsakingas gavėjui už gavėjo arba per gavėją inicijuotą mokėjimo operacijos tvarkymą pagal šio įstatymo [[#^s-108e88a43c73a5d2bd5fbc02|49 straipsnio]] nuostatas. Gavėjo mokėjimo paslaugų teikėjas turi užtikrinti, kad gavėjas galėtų naudotis mokėjimo operacijos suma iš karto po to, kai ta suma įskaitoma į gavėjo mokėjimo paslaugų teikėjo sąskaitą, ir užtikrinti, kad gavėjas nepatirtų nuostolių dėl mokėjimo paslaugų teikėjui mokėtinų arba iš jo gautinų palūkanų. ^s-3a1e3042e6c1833af7a2e82a
 
 
-9. Kai gavėjo arba per gavėją inicijuota mokėjimo operacija, už kurią gavėjo mokėjimo paslaugų teikėjas neatsako pagal šio straipsnio 6 ir [[#^s-3a1e3042e6c1833af7a2e82a|8 dalis]], neįvykdoma arba netinkamai įvykdoma, už tai mokėtojui atsako mokėtojo mokėjimo paslaugų teikėjas. Atsakingas mokėtojo mokėjimo paslaugų teikėjas nedelsdamas turi grąžinti mokėtojui neįvykdytos arba netinkamai įvykdytos mokėjimo operacijos sumą ir atkurti mokėjimo sąskaitos, iš kurios ta suma nurašyta, likutį, kuris būtų, jeigu netinkamai įvykdyta mokėjimo operacija nebūtų buvusi atlikta, ir užtikrinti, kad mokėtojas nepatirtų nuostolių dėl mokėjimo paslaugų teikėjui mokėtinų arba iš jo gautinų palūkanų. ^s-64d95dbaacebfd4b12f99620
+9. Kai gavėjo arba per gavėją inicijuota mokėjimo operacija, už kurią gavėjo mokėjimo paslaugų teikėjas neatsako pagal šio straipsnio [[#^s-b6ee543b8e166a0aba8eba85|6]] ir [[#^s-3a1e3042e6c1833af7a2e82a|8]] dalis, neįvykdoma arba netinkamai įvykdoma, už tai mokėtojui atsako mokėtojo mokėjimo paslaugų teikėjas. Atsakingas mokėtojo mokėjimo paslaugų teikėjas nedelsdamas turi grąžinti mokėtojui neįvykdytos arba netinkamai įvykdytos mokėjimo operacijos sumą ir atkurti mokėjimo sąskaitos, iš kurios ta suma nurašyta, likutį, kuris būtų, jeigu netinkamai įvykdyta mokėjimo operacija nebūtų buvusi atlikta, ir užtikrinti, kad mokėtojas nepatirtų nuostolių dėl mokėjimo paslaugų teikėjui mokėtinų arba iš jo gautinų palūkanų. ^s-64d95dbaacebfd4b12f99620
 
 
 10. [[#^s-64d95dbaacebfd4b12f99620|Šio straipsnio 9 dalyje]] nurodyta pareiga netaikoma mokėtojo mokėjimo paslaugų teikėjui, kai mokėtojo mokėjimo paslaugų teikėjas įrodo, kad gavėjo mokėjimo paslaugų teikėjas gavo mokėjimo operacijos sumą, net jei operacija ir buvo įvykdyta pavėluotai. Tokiu atveju gavėjo mokėjimo paslaugų teikėjas turi užtikrinti, kad gavėjas nepatirtų nuostolių dėl mokėjimo paslaugų teikėjui mokėtinų arba iš jo gautinų palūkanų (palyginti su situacija, jeigu operacija būtų buvusi įvykdyta tinkamai). ^s-be60b149dc9dc28b88547c56
@@ -1669,7 +1669,7 @@ Kai mokėtojas ir (arba) gavėjas neturi mokėjimo sąskaitos mokėjimo paslaug�
 ### 53 straipsnis. Atgręžtinio reikalavimo teisė ^s-8bce66412d302f5ec94f20f8
 
 
-1. Jeigu už mokėjimo operacijos neįvykdymą, netinkamą arba pavėluotą įvykdymą atsako ne mokėtojo arba gavėjo mokėjimo paslaugų teikėjas, kaip nurodyta šio įstatymo 38, 51 ir [[#^s-b6f4e0e5a912feaf93960cb2|52 straipsniuose]], o kitas mokėjimo paslaugų teikėjas ar tarpininkas, atsakingas mokėjimo paslaugų teikėjas ar tarpininkas turi kompensuoti visus mokėtojo arba gavėjo mokėjimo paslaugų teikėjo patirtus nuostolius arba pagal šio įstatymo 38, 51 ir [[#^s-b6f4e0e5a912feaf93960cb2|52 straipsnius]] sumokėtas sumas. Tai apima ir kompensaciją, kai kuris nors mokėjimo paslaugų teikėjas netaiko saugesnio autentiškumo patvirtinimo. ^s-9a12eae58b40a3b947657656
+1. Jeigu už mokėjimo operacijos neįvykdymą, netinkamą arba pavėluotą įvykdymą atsako ne mokėtojo arba gavėjo mokėjimo paslaugų teikėjas, kaip nurodyta šio įstatymo [[#^s-17e3af01d82d76893958a28e|38]], [[#^s-40056ea9589e35d4632b8d34|51]] ir [[#^s-b6f4e0e5a912feaf93960cb2|52]] straipsniuose, o kitas mokėjimo paslaugų teikėjas ar tarpininkas, atsakingas mokėjimo paslaugų teikėjas ar tarpininkas turi kompensuoti visus mokėtojo arba gavėjo mokėjimo paslaugų teikėjo patirtus nuostolius arba pagal šio įstatymo [[#^s-17e3af01d82d76893958a28e|38]], [[#^s-40056ea9589e35d4632b8d34|51]] ir [[#^s-b6f4e0e5a912feaf93960cb2|52]] straipsnius sumokėtas sumas. Tai apima ir kompensaciją, kai kuris nors mokėjimo paslaugų teikėjas netaiko saugesnio autentiškumo patvirtinimo. ^s-9a12eae58b40a3b947657656
 
 
 2. Papildoma kompensacija gali būti nustatyta pagal mokėjimo paslaugų teikėjų ir (arba) tarpininkų susitarimus ir šiems susitarimams taikomą teisę. ^s-40b3ef812dfb71943dc86874
@@ -1733,7 +1733,7 @@ OPERACINĖ IR SAUGUMO RIZIKA IR AUTENTIŠKUMO PATVIRTINIMAS
 ### 56 straipsnis. Operacinės ir saugumo rizikos valdymas ^s-045a6f830082a7bd998ea644
 
 
-1. Mokėjimo paslaugų teikėjai turi nustatyti rizikos mažinimo priemonių ir kontrolės mechanizmų sistemą, pagal kurią valdoma su jų teikiamomis mokėjimo paslaugomis susijusi operacinė ir saugumo rizika. Šioje sistemoje turi būti nustatytos veiksmingos incidentų valdymo procedūros, įskaitant didelių operacinių ir saugumo incidentų nustatymą ir klasifikavimą. Įgyvendinant šioje dalyje nustatytus reikalavimus, šio įstatymo [[#^s-36e766648c554f423cb12c5e|6 straipsnio]] 1–3 punktuose nurodyti subjektai taip pat turi vadovautis Reglamento (ES) 2022/2554 II skyriuje nustatytais reikalavimais. ^s-e7ce10bebaf3ce6d9f31a2b8
+1. Mokėjimo paslaugų teikėjai turi nustatyti rizikos mažinimo priemonių ir kontrolės mechanizmų sistemą, pagal kurią valdoma su jų teikiamomis mokėjimo paslaugomis susijusi operacinė ir saugumo rizika. Šioje sistemoje turi būti nustatytos veiksmingos incidentų valdymo procedūros, įskaitant didelių operacinių ir saugumo incidentų nustatymą ir klasifikavimą. Įgyvendinant šioje dalyje nustatytus reikalavimus, šio įstatymo [[#^s-36e766648c554f423cb12c5e|6 straipsnio]] 1–3 punktuose nurodyti subjektai taip pat turi vadovautis [Reglamento (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) II skyriuje nustatytais reikalavimais. ^s-e7ce10bebaf3ce6d9f31a2b8
 Straipsnio dalies pakeitimai:
 Nr. XV-302, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11971
 
@@ -1772,7 +1772,7 @@ Nr. XV-302, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11971
 6. Mokėjimo paslaugų teikėjai priežiūros institucijai turi periodiškai pateikti statistinius duomenis apie sukčiavimus, susijusius su įvairiomis mokėjimo priemonėmis. Priežiūros institucija nustato teikiamos statistinės informacijos turinį, teikimo tvarką ir dažnumą. Priežiūros institucija pateikia apibendrintus duomenis Europos bankininkystės institucijai ir Europos Centriniam Bankui. ^s-d6618bce5a9a863a4f6f4713
 
 
-7. Šio straipsnio 1–[[#^s-5d1955dab59a3dbff21acba7|4 dalys]] netaikomos šio įstatymo [[#^s-36e766648c554f423cb12c5e|6 straipsnio]] 1–3 punktuose nurodytiems subjektams. ^s-08b2ede06aa8a562f54ca59b
+7. Šio straipsnio [[#^s-f73bc1127a6f6d5f0f3cfc3e|1]]–[[#^s-5d1955dab59a3dbff21acba7|4]] dalys netaikomos šio įstatymo [[#^s-36e766648c554f423cb12c5e|6 straipsnio]] 1–3 punktuose nurodytiems subjektams. ^s-08b2ede06aa8a562f54ca59b
 Papildyta straipsnio dalimi:
 Nr. XV-302, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11971
 
@@ -1791,35 +1791,35 @@ Nr. XV-302, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11971
 
 
 3) nuotolinio ryšio priemone vykdo bet kokį veiksmą, kuris gali būti susijęs su sukčiavimo atliekant mokėjimą ar kitokio piktnaudžiavimo rizika. ^s-6ecbe2b39cf2432e815906a8
-TAR pastaba: [[#^s-1552f73b568aab4df5817a1e|58 straipsnio 1 dalis]] įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyvos (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
+TAR pastaba: [[#^s-1552f73b568aab4df5817a1e|58 straipsnio 1 dalis]] įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyvos (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
 
 
 2. Kai inicijuojama nuotolinė mokėjimo operacija, mokėjimo paslaugų teikėjai turi taikyti saugesnio autentiškumo patvirtinimo procedūrą, kuri užtikrintų dinamišką kiekvienos mokėjimo operacijos susiejimą su konkrečia suma ir konkrečiu gavėju. ^s-c0ac4a90f5cbc9834eafa5b0
-TAR pastaba: [[#^s-c0ac4a90f5cbc9834eafa5b0|58 straipsnio 2 dalis]] įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyvos (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
+TAR pastaba: 58 straipsnio 2 dalis įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyvos (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
 
 
-3. Mokėjimo paslaugų teikėjas gali netaikyti saugesnio autentiškumo patvirtinimo procedūros Europos Komisijos priimtame deleguotajame teisės akte, kaip nurodyta Direktyvos (ES) Nr. 2015/2366 98 straipsnio 1 dalies b punkte, nustatytais atvejais. ^s-eecd99efe5e61ac529149ff9
-TAR pastaba: [[#^s-eecd99efe5e61ac529149ff9|58 straipsnio 3 dalis]] įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyvos (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
+3. Mokėjimo paslaugų teikėjas gali netaikyti saugesnio autentiškumo patvirtinimo procedūros Europos Komisijos priimtame deleguotajame teisės akte, kaip nurodyta [Direktyvos (ES) Nr. 2015/2366 98 straipsnio 1 dalies b punkte](https://eur-lex.europa.eu/eli/dir/2015/2366/art_98/par_1/lit_b/oj), nustatytais atvejais. ^s-eecd99efe5e61ac529149ff9
+TAR pastaba: 58 straipsnio 3 dalis įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyvos (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
 
 
 4. Mokėjimo paslaugų teikėjai turi turėti tinkamas saugumo priemones, kuriomis būtų apsaugotas personalizuotų saugumo duomenų konfidencialumas ir vientisumas. ^s-caf7d6c2df0a9bd2b3fad77d
 
 
-5. Šio straipsnio 2, 3 ir [[#^s-caf7d6c2df0a9bd2b3fad77d|4 dalys]] taip pat taikomos tais atvejais, kai mokėjimai inicijuojami per mokėjimo inicijavimo paslaugos teikėją. Šio straipsnio 1, 3 ir [[#^s-caf7d6c2df0a9bd2b3fad77d|4 dalys]] taip pat taikomos tais atvejais, kai informacijos prašoma per sąskaitos informacijos paslaugos teikėją. ^s-9b9187710cb77416fc5612e0
+5. Šio straipsnio [[#^s-c0ac4a90f5cbc9834eafa5b0|2]], [[#^s-eecd99efe5e61ac529149ff9|3]] ir [[#^s-caf7d6c2df0a9bd2b3fad77d|4]] dalys taip pat taikomos tais atvejais, kai mokėjimai inicijuojami per mokėjimo inicijavimo paslaugos teikėją. Šio straipsnio [[#^s-1552f73b568aab4df5817a1e|1]], [[#^s-eecd99efe5e61ac529149ff9|3]] ir [[#^s-caf7d6c2df0a9bd2b3fad77d|4]] dalys taip pat taikomos tais atvejais, kai informacijos prašoma per sąskaitos informacijos paslaugos teikėją. ^s-9b9187710cb77416fc5612e0
 
 
-6. Sąskaitą tvarkantis mokėjimo paslaugų teikėjas privalo leisti remtis autentiškumo patvirtinimo procedūromis, kurias jis nustato mokėjimo paslaugų vartotojui, mokėjimo inicijavimo paslaugos teikėjams, kaip nustatyta šio straipsnio 1, 2 ir [[#^s-caf7d6c2df0a9bd2b3fad77d|4 dalyse]], ir sąskaitos informacijos paslaugos teikėjams, kaip nustatyta šio straipsnio 1 ir [[#^s-caf7d6c2df0a9bd2b3fad77d|4 dalyse]]. ^s-c0d31dacc85388566ef1eadd
+6. Sąskaitą tvarkantis mokėjimo paslaugų teikėjas privalo leisti remtis autentiškumo patvirtinimo procedūromis, kurias jis nustato mokėjimo paslaugų vartotojui, mokėjimo inicijavimo paslaugos teikėjams, kaip nustatyta šio straipsnio [[#^s-1552f73b568aab4df5817a1e|1]], [[#^s-c0ac4a90f5cbc9834eafa5b0|2]] ir [[#^s-caf7d6c2df0a9bd2b3fad77d|4]] dalyse, ir sąskaitos informacijos paslaugos teikėjams, kaip nustatyta šio straipsnio [[#^s-1552f73b568aab4df5817a1e|1]] ir [[#^s-caf7d6c2df0a9bd2b3fad77d|4]] dalyse. ^s-c0d31dacc85388566ef1eadd
 
 
-7. Šio straipsnio nuostatos taikomos atsižvelgiant į Europos Komisijos priimtame deleguotajame teisės akte, kaip nurodyta Direktyvos (ES) Nr. 2015/2366 98 straipsnio 1 dalies a, b ir c punktuose, nustatytus reikalavimus. ^s-f21ad453de15d390725b7b71
-TAR pastaba: [[#^s-f21ad453de15d390725b7b71|58 straipsnio 7 dalis]] įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyvos (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
+7. Šio straipsnio nuostatos taikomos atsižvelgiant į Europos Komisijos priimtame deleguotajame teisės akte, kaip nurodyta [Direktyvos (ES) Nr. 2015/2366 98 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/dir/2015/2366/art_98/par_1/oj) a, b ir c punktuose, nustatytus reikalavimus. ^s-f21ad453de15d390725b7b71
+TAR pastaba: 58 straipsnio 7 dalis įsigalioja praėjus 18 mėnesių nuo Europos Komisijos priimto deleguotojo teisės akto, nurodyto 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyvos (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir panaikinama Direktyva 2007/64/EB, 98 straipsnyje, įsigaliojimo.
 
 
 
 ### 59 straipsnis. Priežiūros institucijos teisė nustatyti privalomus atvirojo ryšio sąsajos techninius ir veiklos reikalavimus ^s-f84e14768b83e1cbff0ce873
 
 
-Priežiūros institucija turi teisę nustatyti privalomus atvirojo ryšio sąsajos techninius ir veiklos reikalavimus, kiek tai neprieštarauja Europos Komisijos priimto deleguotojo teisė akto, kaip nurodyta Direktyvos (ES) Nr. 2015/2366 98 straipsnio 1 dalies d punkte, nuostatoms, jeigu tie reikalavimai yra susiję su:
+Priežiūros institucija turi teisę nustatyti privalomus atvirojo ryšio sąsajos techninius ir veiklos reikalavimus, kiek tai neprieštarauja Europos Komisijos priimto deleguotojo teisė akto, kaip nurodyta [Direktyvos (ES) Nr. 2015/2366 98 straipsnio 1 dalies d punkte](https://eur-lex.europa.eu/eli/dir/2015/2366/art_98/par_1/lit_d/oj), nuostatoms, jeigu tie reikalavimai yra susiję su:
 
 
 1) saugiu ir patikimu atvirojo ryšio sąsajų veikimu; ^s-5b892d8f507230faf09a2b55
@@ -1878,7 +1878,7 @@ SU MOKĖJIMO SĄSKAITA SUSIJĘS KOMISINIS ATLYGINIMAS, jo PALYGINAMUMAS ir skaid
 
 
 6. Priežiūros institucija nustato detalius informacijos apie komisinį atlyginimą dokumento turinio ir formos reikalavimus, atsižvelgdama į Europos Komisijos patvirtintus informacijos apie komisinį atlyginimą dokumento techninius įgyvendinimo standartus. ^s-b52f52199ab787a8be70ac60
-TAR pastaba: [[#^s-77cc45c9daec62756fafa1a2|61 straipsnis]] įsigalioja praėjus 9 mėnesiams nuo Europos Komisijos priimtų deleguotųjų teisės aktų, nurodytų 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyvos 2014/92/ES dėl mokesčių, susijusių su mokėjimo sąskaitomis, palyginamumo, mokėjimo sąskaitų perkėlimo ir galimybės naudotis būtiniausias savybes turinčiomis mokėjimo sąskaitomis 3, 4 ir [[#^s-c5cc420b398f300e5e54e5a1|5 straipsniuose]], įsigaliojimo.
+TAR pastaba: [[#^s-77cc45c9daec62756fafa1a2|61 straipsnis]] įsigalioja praėjus 9 mėnesiams nuo Europos Komisijos priimtų deleguotųjų teisės aktų, nurodytų 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyvos 2014/92/ES dėl mokesčių, susijusių su mokėjimo sąskaitomis, palyginamumo, mokėjimo sąskaitų perkėlimo ir galimybės naudotis būtiniausias savybes turinčiomis mokėjimo sąskaitomis [[#^s-22e77b5b89489c950b4a7196|3]], [[#^s-0f95df76b6562fc3d0fd208c|4]] ir [[#^s-c5cc420b398f300e5e54e5a1|5]] straipsniuose, įsigaliojimo.
 
 
 
@@ -1895,7 +1895,7 @@ TAR pastaba: [[#^s-77cc45c9daec62756fafa1a2|61 straipsnis]] įsigalioja praėjus
 
 
 4. Priežiūros institucija nustato detalius komisinio atlyginimo ataskaitos formos, turinio ir teikimo reikalavimus, atsižvelgdama į Europos Komisijos patvirtintus komisinio atlyginimo ataskaitos techninius įgyvendinimo standartus. ^s-eacbf985c0949e9277d753b5
-TAR pastaba: [[#^s-356c3012d3aa6ec050aaf2fc|62 straipsnis]] įsigalioja praėjus 9 mėnesiams nuo Europos Komisijos priimtų deleguotųjų teisės aktų, nurodytų 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyvos 2014/92/ES dėl mokesčių, susijusių su mokėjimo sąskaitomis, palyginamumo, mokėjimo sąskaitų perkėlimo ir galimybės naudotis būtiniausias savybes turinčiomis mokėjimo sąskaitomis 3, 4 ir [[#^s-c5cc420b398f300e5e54e5a1|5 straipsniuose]], įsigaliojimo.
+TAR pastaba: [[#^s-356c3012d3aa6ec050aaf2fc|62 straipsnis]] įsigalioja praėjus 9 mėnesiams nuo Europos Komisijos priimtų deleguotųjų teisės aktų, nurodytų 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyvos 2014/92/ES dėl mokesčių, susijusių su mokėjimo sąskaitomis, palyginamumo, mokėjimo sąskaitų perkėlimo ir galimybės naudotis būtiniausias savybes turinčiomis mokėjimo sąskaitomis [[#^s-22e77b5b89489c950b4a7196|3]], [[#^s-0f95df76b6562fc3d0fd208c|4]] ir [[#^s-c5cc420b398f300e5e54e5a1|5]] straipsniuose, įsigaliojimo.
 
 
 
@@ -1909,7 +1909,7 @@ TAR pastaba: [[#^s-356c3012d3aa6ec050aaf2fc|62 straipsnis]] įsigalioja praėjus
 
 
 3. Mokėjimo paslaugų teikėjas turi teisę bendrojoje sutartyje, mokėjimo paslaugų reklamoje ir viešai vartotojams prieinamoje informacijoje nurodydamas paslaugas vartoti prekių ženklo pavadinimus, jeigu, kai taikoma, aiškiai nurodomos paslaugų, įtrauktų į tipiškiausių su mokėjimo sąskaita susijusių paslaugų sąrašą, standartizuotos sąvokos. ^s-1b8780e2e336484fc9e236d6
-TAR pastaba: [[#^s-3897ea3f63b1a093527247ca|63 straipsnis]] įsigalioja praėjus 9 mėnesiams nuo Europos Komisijos priimtų deleguotųjų teisės aktų, nurodytų 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyvos 2014/92/ES dėl mokesčių, susijusių su mokėjimo sąskaitomis, palyginamumo, mokėjimo sąskaitų perkėlimo ir galimybės naudotis būtiniausias savybes turinčiomis mokėjimo sąskaitomis 3, 4 ir [[#^s-c5cc420b398f300e5e54e5a1|5 straipsniuose]], įsigaliojimo.
+TAR pastaba: [[#^s-3897ea3f63b1a093527247ca|63 straipsnis]] įsigalioja praėjus 9 mėnesiams nuo Europos Komisijos priimtų deleguotųjų teisės aktų, nurodytų 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyvos 2014/92/ES dėl mokesčių, susijusių su mokėjimo sąskaitomis, palyginamumo, mokėjimo sąskaitų perkėlimo ir galimybės naudotis būtiniausias savybes turinčiomis mokėjimo sąskaitomis [[#^s-22e77b5b89489c950b4a7196|3]], [[#^s-0f95df76b6562fc3d0fd208c|4]] ir [[#^s-c5cc420b398f300e5e54e5a1|5]] straipsniuose, įsigaliojimo.
 
 
 
@@ -1950,7 +1950,7 @@ Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
 
 
 3. Priežiūros institucija nustato detalius informacijos paskelbimo [[#^s-0318e36b1e502e5b728fc4b3|šio straipsnio 1 dalyje]] nurodytoje interneto svetainėje reikalavimus ir detalius reikalavimus mokėjimo paslaugų teikėjams dėl informacijos pateikimo priežiūros institucijai. ^s-92b48a642ee347df0872e601
-TAR pastaba: [[#^s-237d2e643f4676f66639f6ba|64 straipsnis]] įsigalioja praėjus 9 mėnesiams nuo Europos Komisijos priimtų deleguotųjų teisės aktų, nurodytų 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyvos 2014/92/ES dėl mokesčių, susijusių su mokėjimo sąskaitomis, palyginamumo, mokėjimo sąskaitų perkėlimo ir galimybės naudotis būtiniausias savybes turinčiomis mokėjimo sąskaitomis 3, 4 ir [[#^s-c5cc420b398f300e5e54e5a1|5 straipsniuose]], įsigaliojimo.
+TAR pastaba: [[#^s-237d2e643f4676f66639f6ba|64 straipsnis]] įsigalioja praėjus 9 mėnesiams nuo Europos Komisijos priimtų deleguotųjų teisės aktų, nurodytų 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyvos 2014/92/ES dėl mokesčių, susijusių su mokėjimo sąskaitomis, palyginamumo, mokėjimo sąskaitų perkėlimo ir galimybės naudotis būtiniausias savybes turinčiomis mokėjimo sąskaitomis [[#^s-22e77b5b89489c950b4a7196|3]], [[#^s-0f95df76b6562fc3d0fd208c|4]] ir [[#^s-c5cc420b398f300e5e54e5a1|5]] straipsniuose, įsigaliojimo.
 
 
 
@@ -1963,7 +1963,7 @@ TAR pastaba: [[#^s-237d2e643f4676f66639f6ba|64 straipsnis]] įsigalioja praėjus
 2. Kai mokėjimo paslaugų teikėjas taiko mokėjimo sąskaitos ir kito su mokėjimo sąskaita nesusijusio produkto arba paslaugos grupavimą, jis privalo be jokių apribojimų, atsižvelgdamas į pagal [[#^s-c95a8f8b6ae2be722e56422d|šio straipsnio 1 dalies]] reikalavimus pateiktą informaciją, vartotojui užtikrinti jo teisę nutraukti bendrąją sutartį dėl mokėjimo sąskaitos arba pasinaudoti mokėjimo sąskaitos perkėlimo paslauga. ^s-a5bf275874d51fc0371c6ce7
 
 
-3. Mokėjimo paslaugų teikėjas negali taikyti vartotojo mokėjimo sąskaitos, atidarytos eurais, ir terminuotojo indėlio, laidavimo ir garantijos, kuriais vartotojas užtikrina trečiųjų asmenų prievolių mokėjimo paslaugų teikėjui vykdymą, susiejimo. Mokėjimo paslaugų teikėjas turi tik teisę reikalauti, kad vartotojas, sudarydamas sutartį dėl šioje dalyje nurodytų paslaugų, turėtų riboto naudojimo mokėjimo sąskaitą, skirtą tai paslaugai administruoti. Tokia mokėjimo sąskaita atidaroma, tvarkoma, uždaroma ir su ja susijusios paslaugos, skirtos perkamai paslaugai administruoti, turi būti teikiamos nemokamai. ^s-6935cd2448b1164cfa82145c
+3. Mokėjimo paslaugų teikėjas negali taikyti vartotojo mokėjimo sąskaitos, atidarytos eurais, ir terminuotojo indėlio, laidavimo ir garantijos, kuriais vartotojas užtikrina trečiųjų asmenų prievolių mokėjimo paslaugų teikėjui vykdymą, susiejimo. Mokėjimo paslaugų teikėjas turi tik teisę reikalauti, kad vartotojas, sudarydamas sutartį dėl šioje dalyje nurodytų paslaugų, turėtų [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) mokėjimo sąskaitą, skirtą tai paslaugai administruoti. Tokia mokėjimo sąskaita atidaroma, tvarkoma, uždaroma ir su ja susijusios paslaugos, skirtos perkamai paslaugai administruoti, turi būti teikiamos nemokamai. ^s-6935cd2448b1164cfa82145c
 
 
 4. Mokėjimo paslaugų teikėjas, siūlydamas bendrosios sutarties dėl mokėjimo sąskaitos, kuri yra susieta su kita, negu [[#^s-6935cd2448b1164cfa82145c|šio straipsnio 3 dalyje]] nustatyta, su mokėjimo sąskaita nesusijusia paslauga ar produktu, pakeitimus, privalo laikytis šio įstatymo [[#^s-8e3de7b34583f19b3d2b8a45|15 straipsnio 1 dalies]] reikalavimų ir, jeigu vartotojas nesutinka su siūlomais pakeitimais, privalo be jokių neigiamų padarinių ir apribojimų vartotojui užtikrinti jo teisę nutraukti bendrąją sutartį arba pasinaudoti mokėjimo sąskaitos perkėlimo paslauga. ^s-cfd0d806652e109ef06c5507
@@ -1989,7 +1989,7 @@ Mokėjimo paslaugų teikėjas privalo bet kuriam vartotojui, kuris Lietuvos Resp
 ### 67 straipsnis. Mokėjimo sąskaitos perkėlimo paslaugos reikalavimai ^s-d448f099cfa056ea73456d7e
 
 
-1. Gaunantysis mokėjimo paslaugų teikėjas, gavęs vartotojo prašymą, privalo pradėti teikti mokėjimo sąskaitos perkėlimo paslaugą. Jeigu yra du arba daugiau mokėjimo sąskaitos savininkų, turi būti gautas kiekvieno mokėjimo sąskaitos savininko prašymas. Mokėjimo sąskaitos perkėlimo paslauga turi atitikti šio straipsnio 2–[[#^s-549e247ccc032f5da48f7630|8 dalyse]] nustatytus reikalavimus. ^s-2d1b3feac7a62fac266e00bd
+1. Gaunantysis mokėjimo paslaugų teikėjas, gavęs vartotojo prašymą, privalo pradėti teikti mokėjimo sąskaitos perkėlimo paslaugą. Jeigu yra du arba daugiau mokėjimo sąskaitos savininkų, turi būti gautas kiekvieno mokėjimo sąskaitos savininko prašymas. Mokėjimo sąskaitos perkėlimo paslauga turi atitikti šio straipsnio [[#^s-67440cb0d427c055287fb0f1|2]]–[[#^s-549e247ccc032f5da48f7630|8]] dalyse nustatytus reikalavimus. ^s-2d1b3feac7a62fac266e00bd
 
 
 2. Vartotojo prašymas teikiamas lietuvių kalba arba kita šalių sutarta kalba. Vartotojo prašymas teikiamas raštu popieriuje arba naudojant kitą patvariąją laikmeną. Vartotojui pateikus prašymą raštu popieriuje, gaunantysis mokėjimo paslaugų teikėjas pateikia vartotojui prašymo kopiją. ^s-67440cb0d427c055287fb0f1
@@ -2034,7 +2034,7 @@ Mokėjimo paslaugų teikėjas privalo bet kuriam vartotojui, kuris Lietuvos Resp
 5. Gaunančiojo mokėjimo paslaugų teikėjo nurodymu perduodantysis mokėjimo paslaugų teikėjas atlieka šiuos veiksmus: ^s-bfc5c84426fc996bac0e27c6
 
 
-1) per 5 darbo dienas nuo gaunančiojo mokėjimo paslaugų teikėjo prašymo gavimo dienos išsiunčia gaunančiajam mokėjimo paslaugų teikėjui [[#^s-ff72dabdb87b732337752788|šio straipsnio 4 dalies]] 1 ir [[#^s-abc3d7a000ff2038c8073bc1|2 punktuose]] nurodytą informaciją; ^s-6a78bf20244860c060d7d639
+1) per 5 darbo dienas nuo gaunančiojo mokėjimo paslaugų teikėjo prašymo gavimo dienos išsiunčia gaunančiajam mokėjimo paslaugų teikėjui [[#^s-ff72dabdb87b732337752788|šio straipsnio 4 dalies]] 1 ir [[#^s-abc3d7a000ff2038c8073bc1|2]] punktuose nurodytą informaciją; ^s-6a78bf20244860c060d7d639
 
 
 2) nebepriima tiesioginio debeto operacijų ir gaunamų kredito pervedimų į mokėjimo sąskaitą nuo vartotojo prašyme nurodytos dienos, kai perduodantysis mokėjimo paslaugų teikėjas neturi gaunamų kredito pervedimų ir tiesioginio debeto operacijų automatizuoto peradresavimo į vartotojo turimą arba atidarytą sąskaitą sistemos. Perduodantysis mokėjimo paslaugų teikėjas informuoja mokėtoją arba gavėją apie priežastis, dėl kurių mokėjimo operacija nebuvo priimta; ^s-abc3d7a000ff2038c8073bc1
@@ -2046,10 +2046,10 @@ Mokėjimo paslaugų teikėjas privalo bet kuriam vartotojui, kuris Lietuvos Resp
 4) vartotojo prašyme nurodytą dieną perveda vartotojo turimoje mokėjimo sąskaitoje likusį teigiamą lėšų likutį į gaunančiojo mokėjimo paslaugų teikėjo įstaigoje atidarytą arba turimą mokėjimo sąskaitą; ^s-9b6bdf4f9e37f636f8a69f8d
 
 
-5) nepažeisdamas šio įstatymo [[#^s-c9a1e2de08da086ac41b4b16|15 straipsnio 4 dalyje]] nustatytų reikalavimų, vartotojo prašyme nurodytą dieną uždaro mokėjimo sąskaitą, jeigu vartotojas mokėjimo sąskaitoje neturi jokių neįvykdytų įsipareigojimų ir jeigu yra įvykdyti visi šios dalies 1, 2 ir [[#^s-3406acefed60fe4b9b6a3816|3 punktuose]] nurodyti veiksmai. Mokėjimo paslaugų teikėjas privalo nedelsdamas informuoti vartotoją apie neįvykdytus įsipareigojimus, dėl kurių negali uždaryti vartotojo mokėjimo sąskaitos. ^s-ac2c6ed40273e8667d640979
+5) nepažeisdamas šio įstatymo [[#^s-c9a1e2de08da086ac41b4b16|15 straipsnio 4 dalyje]] nustatytų reikalavimų, vartotojo prašyme nurodytą dieną uždaro mokėjimo sąskaitą, jeigu vartotojas mokėjimo sąskaitoje neturi jokių neįvykdytų įsipareigojimų ir jeigu yra įvykdyti visi šios dalies [[#^s-6a78bf20244860c060d7d639|1]], [[#^s-abc3d7a000ff2038c8073bc1|2]] ir [[#^s-3406acefed60fe4b9b6a3816|3]] punktuose nurodyti veiksmai. Mokėjimo paslaugų teikėjas privalo nedelsdamas informuoti vartotoją apie neįvykdytus įsipareigojimus, dėl kurių negali uždaryti vartotojo mokėjimo sąskaitos. ^s-ac2c6ed40273e8667d640979
 
 
-6. Per 5 darbo dienas nuo [[#^s-ff72dabdb87b732337752788|šio straipsnio 4 dalies]] 1 ir [[#^s-0d5a35e0cda1190de8466f57|2 punktuose]] nurodytos informacijos iš perduodančiojo mokėjimo paslaugų teikėjo gavimo dienos gaunantysis mokėjimo paslaugų teikėjas, jeigu tai numatyta vartotojo prašyme, taip, kaip jame nurodyta, ir tiek, kiek leidžia perduodančiojo mokėjimo paslaugų teikėjo arba vartotojo pateikta informacija, atlieka šiuos veiksmus: ^s-5f9455fda678fa9f9ebb108b
+6. Per 5 darbo dienas nuo [[#^s-ff72dabdb87b732337752788|šio straipsnio 4 dalies]] [[#^s-54c79f3d4f3e7a0065138db8|1]] ir [[#^s-0d5a35e0cda1190de8466f57|2]] punktuose nurodytos informacijos iš perduodančiojo mokėjimo paslaugų teikėjo gavimo dienos gaunantysis mokėjimo paslaugų teikėjas, jeigu tai numatyta vartotojo prašyme, taip, kaip jame nurodyta, ir tiek, kiek leidžia perduodančiojo mokėjimo paslaugų teikėjo arba vartotojo pateikta informacija, atlieka šiuos veiksmus: ^s-5f9455fda678fa9f9ebb108b
 
 
 1) parengia vartotojo prašomus periodinio pervedimo nurodymus ir juos pradeda vykdyti nuo vartotojo prašyme nurodytos dienos; ^s-54c79f3d4f3e7a0065138db8
@@ -2067,7 +2067,7 @@ Mokėjimo paslaugų teikėjas privalo bet kuriam vartotojui, kuris Lietuvos Resp
 5) pateikia vartotojo prašyme nurodytiems gavėjams, kurie naudojasi tiesioginiu debetu lėšoms iš vartotojo mokėjimo sąskaitos nurašyti, išsamią informaciją apie vartotojo mokėjimo sąskaitą gaunančiojo mokėjimo paslaugų teikėjo įstaigoje ir datą, nuo kurios mokėjimai naudojantis tiesioginiu debetu turi būti nurašomi iš tos mokėjimo sąskaitos, ir perduoda gavėjams vartotojo prašymo kopiją. Gaunantysis mokėjimo paslaugų teikėjas turi teisę paprašyti iš vartotojo arba perduodančiojo mokėjimo paslaugų teikėjo papildomos informacijos, kai turi ne visą reikiamą informaciją gavėjams informuoti. ^s-32b3d84626c1f2110f2a6d6d
 
 
-7. Kai vartotojas nusprendžia asmeniškai pateikti mokėtojams arba gavėjams [[#^s-5f9455fda678fa9f9ebb108b|šio straipsnio 6 dalies]] 4 ir 5 punktuose nurodytą informaciją, o ne prašyti pagal šio straipsnio 2 ir [[#^s-976aca3cfc35faf8b67917b3|3 dalių]] nuostatas, kad tai atliktų gaunantysis mokėjimo paslaugų teikėjas, gaunantysis mokėjimo paslaugų teikėjas per [[#^s-5f9455fda678fa9f9ebb108b|šio straipsnio 6 dalyje]] nurodytą terminą pateikia vartotojui tipinę pažymą, kurioje nurodyti vartotojo mokėjimo sąskaitos duomenys ir prašyme nurodyta mokėjimo sąskaitos naudojimo pradžios data. ^s-2dfd1434563f8f561bf32bec
+7. Kai vartotojas nusprendžia asmeniškai pateikti mokėtojams arba gavėjams [[#^s-5f9455fda678fa9f9ebb108b|šio straipsnio 6 dalies]] 4 ir 5 punktuose nurodytą informaciją, o ne prašyti pagal šio straipsnio [[#^s-67440cb0d427c055287fb0f1|2]] ir [[#^s-976aca3cfc35faf8b67917b3|3]] dalių nuostatas, kad tai atliktų gaunantysis mokėjimo paslaugų teikėjas, gaunantysis mokėjimo paslaugų teikėjas per [[#^s-5f9455fda678fa9f9ebb108b|šio straipsnio 6 dalyje]] nurodytą terminą pateikia vartotojui tipinę pažymą, kurioje nurodyti vartotojo mokėjimo sąskaitos duomenys ir prašyme nurodyta mokėjimo sąskaitos naudojimo pradžios data. ^s-2dfd1434563f8f561bf32bec
 
 
 8. Nepažeisdamas šio įstatymo [[#^s-3d2b859e48b96246c01c7711|33 straipsnio 2 dalies]] reikalavimų, perduodantysis mokėjimo paslaugų teikėjas neblokuoja mokėjimo priemonių iki vartotojo prašyme nurodytos dienos, kad mokėjimo sąskaitos perkėlimo paslaugos teikimo metu nebūtų nutrauktas mokėjimo paslaugų teikimas vartotojui. ^s-549e247ccc032f5da48f7630
@@ -2105,13 +2105,13 @@ Mokėjimo paslaugų teikėjas privalo bet kuriam vartotojui, kuris Lietuvos Resp
 1. Perduodantysis ir gaunantysis mokėjimo paslaugų teikėjai privalo sudaryti galimybę vartotojui nemokamai susipažinti su jų turima vartotojo asmenine informacija apie esamus periodinio pervedimo nurodymus ir tiesioginio debeto operacijas. ^s-ad6073a9d17003d5951185a7
 
 
-2. Perduodantysis mokėjimo paslaugų teikėjas privalo pateikti gaunančiajam mokėjimo paslaugų teikėjui informaciją, kurios jis prašo pagal šio įstatymo [[#^s-ff72dabdb87b732337752788|67 straipsnio 4 dalies]] 1 ir 2 punktus, už tai netaikydamas komisinio atlyginimo vartotojui arba gaunančiajam mokėjimo paslaugų teikėjui. ^s-e6f7a2969800960cf13bff2a
+2. Perduodantysis mokėjimo paslaugų teikėjas privalo pateikti gaunančiajam mokėjimo paslaugų teikėjui informaciją, kurios jis prašo pagal šio įstatymo [[#^s-ff72dabdb87b732337752788|67 straipsnio 4 dalies]] [[#^s-001e723dbcd316f01320b999|1]] ir [[#^s-3cb681b6b74019ac581f5075|2]] punktus, už tai netaikydamas komisinio atlyginimo vartotojui arba gaunančiajam mokėjimo paslaugų teikėjui. ^s-e6f7a2969800960cf13bff2a
 
 
-3. Jeigu perduodantysis mokėjimo paslaugų teikėjas vartotojui už turimos bendrosios sutarties nutraukimą taiko komisinį atlyginimą, jis turi atitikti šio įstatymo [[#^s-e70dc1515a939a97115260e1|15 straipsnio]] 5 ir 8 dalių reikalavimus. ^s-04b831400e1c456669305711
+3. Jeigu perduodantysis mokėjimo paslaugų teikėjas vartotojui už turimos bendrosios sutarties nutraukimą taiko komisinį atlyginimą, jis turi atitikti šio įstatymo [[#^s-e70dc1515a939a97115260e1|15 straipsnio]] [[#^s-42d476921211bedd7997c21a|5]] ir [[#^s-bc835087439ccead6acc3fd7|8]] dalių reikalavimus. ^s-04b831400e1c456669305711
 
 
-4. Jeigu perduodantysis arba gaunantysis mokėjimo paslaugų teikėjas taiko vartotojui komisinį atlyginimą už šio įstatymo [[#^s-d448f099cfa056ea73456d7e|67 straipsnyje]] nurodytas paslaugas, išskyrus šio straipsnio 1, 2 ir [[#^s-04b831400e1c456669305711|3 dalyse]] nurodytas paslaugas, komisinis atlyginimas, taikomas už visas šias paslaugas, turi atitikti faktines mokėjimo paslaugų teikėjo išlaidas ir neviršyti šio įstatymo [[#^s-4de8554861b887c958ff0223|73 straipsnio 1 dalyje]] nurodyto maksimalaus komisinio atlyginimo dydžio daugiau kaip 3 kartus. ^s-880cb7dcaa7aa42db03c4030
+4. Jeigu perduodantysis arba gaunantysis mokėjimo paslaugų teikėjas taiko vartotojui komisinį atlyginimą už šio įstatymo [[#^s-d448f099cfa056ea73456d7e|67 straipsnyje]] nurodytas paslaugas, išskyrus šio straipsnio [[#^s-2d1b3feac7a62fac266e00bd|1]], [[#^s-67440cb0d427c055287fb0f1|2]] ir [[#^s-976aca3cfc35faf8b67917b3|3]] dalyse nurodytas paslaugas, komisinis atlyginimas, taikomas už visas šias paslaugas, turi atitikti faktines mokėjimo paslaugų teikėjo išlaidas ir neviršyti šio įstatymo [[#^s-4de8554861b887c958ff0223|73 straipsnio 1 dalyje]] nurodyto maksimalaus komisinio atlyginimo dydžio daugiau kaip 3 kartus. ^s-880cb7dcaa7aa42db03c4030
 
 
 
@@ -2154,7 +2154,7 @@ PAGRINDINĖ MOKĖJIMO SĄSKAITA
 1. Teisėtai gyvenantys vartotojai turi teisę kreiptis į Lietuvos Respublikos teritorijoje veikiančią kredito įstaigą (toliau šiame skyriuje – įstaiga), teikiančią pagrindinės mokėjimo sąskaitos paslaugą, dėl pagrindinės mokėjimo sąskaitos atidarymo. ^s-c3c05b38c3692f061ae780ca
 
 
-2. Pagrindinės mokėjimo sąskaitos paslaugą privalo teikti įstaigos, teikiančios visas šio įstatymo [[#^s-a62d45d28c3ee34b84e92001|72 straipsnio 1 dalies]] 1, 2 ir 4–7 punktuose nurodytas paslaugas vartotojams. Priežiūros institucija sudaro ir tvarko įstaigų, teikiančių pagrindinės mokėjimo sąskaitos paslaugą, sąrašą ir jį skelbia savo interneto svetainėje. Įstaigos įrašomos į pagrindinės mokėjimo sąskaitos paslaugos teikėjų sąrašą, išbraukiamos iš šio sąrašo ir šis sąrašas tvarkomas priežiūros institucijos nustatyta tvarka. ^s-d542aa49e0e48b87b6ba0abd
+2. Pagrindinės mokėjimo sąskaitos paslaugą privalo teikti įstaigos, teikiančios visas šio įstatymo [[#^s-a62d45d28c3ee34b84e92001|72 straipsnio 1 dalies]] [[#^s-4fd39299d66fd159c5f59a84|1]], [[#^s-ecd4302e930ed2a42220fa43|2]] ir [[#^s-47fe7dae26cf1139394613b4|4]]–[[#^s-967aed017c8bc35caf6164a4|7]] punktuose nurodytas paslaugas vartotojams. Priežiūros institucija sudaro ir tvarko įstaigų, teikiančių pagrindinės mokėjimo sąskaitos paslaugą, sąrašą ir jį skelbia savo interneto svetainėje. Įstaigos įrašomos į pagrindinės mokėjimo sąskaitos paslaugos teikėjų sąrašą, išbraukiamos iš šio sąrašo ir šis sąrašas tvarkomas priežiūros institucijos nustatyta tvarka. ^s-d542aa49e0e48b87b6ba0abd
 Straipsnio dalies pakeitimai:
 Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
 
@@ -2233,22 +2233,22 @@ Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
 1) įstaiga sudaro galimybę naudotis bent viena mokėjimo sąskaita; ^s-20b2a9b70f438334f8635221
 
 
-2) [[#^s-a62d45d28c3ee34b84e92001|šio straipsnio 1 dalies]] 2, 3, 4 ir [[#^s-3eae4069002553e5b2a1c4bc|6 punktuose]] nurodytų mokėjimo operacijų skaičius turi būti neribotas; ^s-b01accbd0772c27339e082c5
+2) [[#^s-a62d45d28c3ee34b84e92001|šio straipsnio 1 dalies]] 2, [[#^s-4e79ac60865cf75a1e4bad7c|3]], [[#^s-52f9168801f168ab4e0acb04|4]] ir [[#^s-3eae4069002553e5b2a1c4bc|6]] punktuose nurodytų mokėjimo operacijų skaičius turi būti neribotas; ^s-b01accbd0772c27339e082c5
 
 
-3) [[#^s-a62d45d28c3ee34b84e92001|šio straipsnio 1 dalies]] 2, 3, 6, 7 ir [[#^s-1c30d6bab6c6a3597535f072|8 punktuose]] nurodytų mokėjimo operacijų vertė turi būti neribota; ^s-4e79ac60865cf75a1e4bad7c
+3) [[#^s-a62d45d28c3ee34b84e92001|šio straipsnio 1 dalies]] [[#^s-b01accbd0772c27339e082c5|2]], 3, [[#^s-3eae4069002553e5b2a1c4bc|6]], [[#^s-cb19eb94daeb4924dfe765ee|7]] ir [[#^s-1c30d6bab6c6a3597535f072|8]] punktuose nurodytų mokėjimo operacijų vertė turi būti neribota; ^s-4e79ac60865cf75a1e4bad7c
 
 
 4) minimali iš sąskaitos išimama grynųjų pinigų suma per mėnesį, kaip nurodyta [[#^s-47fe7dae26cf1139394613b4|šio straipsnio 1 dalies 4 punkte]], nustatoma taip, kad tenkintų ne mažiau kaip 90 procentų Lietuvos Respublikoje gyvenančių fizinių asmenų, turinčių mokėjimo sąskaitą, poreikius išsiimti grynųjų pinigų Lietuvos Respublikoje; ^s-52f9168801f168ab4e0acb04
 
 
-5) minimalus [[#^s-a62d45d28c3ee34b84e92001|šio straipsnio 1 dalies]] 7 ir [[#^s-1c30d6bab6c6a3597535f072|8 punktuose]] nurodytų mokėjimo operacijų, inicijuojamų elektroninėmis priemonėmis, išskyrus [[#^s-3f8bc0eed410c1b1f4a6b430|šio straipsnio 1 dalies 5 punkte]] nurodyta mokėjimo priemone inicijuotas mokėjimo operacijas, skaičius per mėnesį nustatomas taip, kad tenkintų ne mažiau kaip 90 procentų Lietuvos Respublikoje gyvenančių fizinių asmenų, turinčių mokėjimo sąskaitą, poreikius atlikti kredito pervedimus Lietuvos Respublikoje; ^s-f3ee60b0e8c38cc2c81f12c6
+5) minimalus [[#^s-a62d45d28c3ee34b84e92001|šio straipsnio 1 dalies]] [[#^s-cb19eb94daeb4924dfe765ee|7]] ir [[#^s-1c30d6bab6c6a3597535f072|8]] punktuose nurodytų mokėjimo operacijų, inicijuojamų elektroninėmis priemonėmis, išskyrus [[#^s-3f8bc0eed410c1b1f4a6b430|šio straipsnio 1 dalies 5 punkte]] nurodyta mokėjimo priemone inicijuotas mokėjimo operacijas, skaičius per mėnesį nustatomas taip, kad tenkintų ne mažiau kaip 90 procentų Lietuvos Respublikoje gyvenančių fizinių asmenų, turinčių mokėjimo sąskaitą, poreikius atlikti kredito pervedimus Lietuvos Respublikoje; ^s-f3ee60b0e8c38cc2c81f12c6
 
 
 6) įstaiga suteikia bent vieną [[#^s-3f8bc0eed410c1b1f4a6b430|šio straipsnio 1 dalies 5 punkte]] nurodytą mokėjimo priemonę, kuria būtų galimybė atsiskaityti daugelyje fizinių prekybos ir (arba) paslaugų teikimo vietų; ^s-3eae4069002553e5b2a1c4bc
 
 
-7) [[#^s-a62d45d28c3ee34b84e92001|šio straipsnio 1 dalies]] 3 ir [[#^s-52f9168801f168ab4e0acb04|4 punktuose]] nurodytos grynųjų pinigų įmokėjimo ir išėmimo paslaugos teikiamos Lietuvos Respublikoje įstaigų valdomuose ar naudojamuose bankomatuose arba jų dalyje, kuri nustatoma atsižvelgiant į bankomatų tinklo struktūrą šalyje ir įstaigų veiklos modelius; ^s-cb19eb94daeb4924dfe765ee
+7) [[#^s-a62d45d28c3ee34b84e92001|šio straipsnio 1 dalies]] [[#^s-4e79ac60865cf75a1e4bad7c|3]] ir [[#^s-52f9168801f168ab4e0acb04|4]] punktuose nurodytos grynųjų pinigų įmokėjimo ir išėmimo paslaugos teikiamos Lietuvos Respublikoje įstaigų valdomuose ar naudojamuose bankomatuose arba jų dalyje, kuri nustatoma atsižvelgiant į bankomatų tinklo struktūrą šalyje ir įstaigų veiklos modelius; ^s-cb19eb94daeb4924dfe765ee
 
 
 8) mokėjimo operacijos vykdomos eurais Europos ekonominėje erdvėje; ^s-1c30d6bab6c6a3597535f072
@@ -2283,7 +2283,7 @@ Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
 1) 0,108 procento minimaliosios mėnesinės algos, kuri galioja metų, einančių prieš apskaičiuojamo maksimalaus komisinio atlyginimo įsigaliojimą, liepos 1 dieną; ^s-3ee4286c3f29c0141797259b
 
 
-2) iki apskaičiuojamo naujo maksimalaus komisinio atlyginimo nustatymo galiojantis maksimalus komisinis atlyginimas, padaugintas iš santykio, parodančio šio įstatymo [[#^s-8f57db2fed601b5552b9454c|72 straipsnio 4 dalies]] 4 ir 5 punktuose nurodytų mokėjimo paslaugų apimties pokyčius, lyginant apskaičiuotą naują mokėjimo paslaugų apimtį su iki perskaičiavimo galiojančia mokėjimo paslaugų apimtimi. Šis santykis apskaičiuojamas taikant tokias proporcijas: grynųjų pinigų išėmimo sumos pokytis atitinka 2/[[#^s-01c7d866f268033dc9122dd8|3 dalis]], o mokėjimo operacijų, nurodytų šio įstatymo [[#^s-f3ee60b0e8c38cc2c81f12c6|72 straipsnio 4 dalies 5 punkte]], skaičiaus pokytis – 1/[[#^s-01c7d866f268033dc9122dd8|3 dalį]]. ^s-8be9f31c59f334ce91dd01c1
+2) iki apskaičiuojamo naujo maksimalaus komisinio atlyginimo nustatymo galiojantis maksimalus komisinis atlyginimas, padaugintas iš santykio, parodančio šio įstatymo [[#^s-8f57db2fed601b5552b9454c|72 straipsnio 4 dalies]] [[#^s-52f9168801f168ab4e0acb04|4]] ir [[#^s-f3ee60b0e8c38cc2c81f12c6|5]] punktuose nurodytų mokėjimo paslaugų apimties pokyčius, lyginant apskaičiuotą naują mokėjimo paslaugų apimtį su iki perskaičiavimo galiojančia mokėjimo paslaugų apimtimi. Šis santykis apskaičiuojamas taikant tokias proporcijas: grynųjų pinigų išėmimo sumos pokytis atitinka 2/[[#^s-01c7d866f268033dc9122dd8|3 dalis]], o mokėjimo operacijų, nurodytų šio įstatymo [[#^s-f3ee60b0e8c38cc2c81f12c6|72 straipsnio 4 dalies 5 punkte]], skaičiaus pokytis – 1/[[#^s-01c7d866f268033dc9122dd8|3 dalį]]. ^s-8be9f31c59f334ce91dd01c1
 
 
 Straipsnio dalies pakeitimai:
@@ -2294,7 +2294,7 @@ Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
 2. Vartotojams, kuriems paskirta piniginė socialinė parama nepasiturintiems gyventojams pagal Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymą (toliau – vartotojai, kuriems paskirta piniginė socialinė parama nepasiturintiems gyventojams), įstaigos už pagrindinės mokėjimo sąskaitos paslaugą, kaip nustatyta priežiūros institucijos pagal šio įstatymo [[#^s-8f57db2fed601b5552b9454c|72 straipsnio 4 dalį]], taikomas komisinis atlyginimas, jeigu taikomas, negali viršyti 50 procentų [[#^s-4de8554861b887c958ff0223|šio straipsnio 1 dalyje]] nurodyto maksimalaus komisinio atlyginimo. ^s-764218dd44b4225229f00cf4
 
 
-3. Šio straipsnio 1 ir [[#^s-764218dd44b4225229f00cf4|2 dalyse]] nurodytas komisinis atlyginimas gali būti taikomas nepaisant to, ar naudojamasi visomis pagrindinės mokėjimo sąskaitos paslaugą sudarančiomis paslaugomis ir mokėjimo operacijomis, jeigu šalys nesusitarė kitaip. ^s-01c7d866f268033dc9122dd8
+3. Šio straipsnio [[#^s-4de8554861b887c958ff0223|1]] ir [[#^s-764218dd44b4225229f00cf4|2]] dalyse nurodytas komisinis atlyginimas gali būti taikomas nepaisant to, ar naudojamasi visomis pagrindinės mokėjimo sąskaitos paslaugą sudarančiomis paslaugomis ir mokėjimo operacijomis, jeigu šalys nesusitarė kitaip. ^s-01c7d866f268033dc9122dd8
 
 
 4. Komisinis atlyginimas už mokėjimo paslaugas ir mokėjimo operacijas, viršijančias priežiūros institucijos nustatytame pagrindinės mokėjimo sąskaitos paslaugą sudarančių mokėjimo paslaugų ir mokėjimo operacijų sąraše, nurodytame šio įstatymo [[#^s-8f57db2fed601b5552b9454c|72 straipsnio 4 dalyje]], nurodytą mokėjimo paslaugų apimtį, negali būti didesnis negu įprastai įstaigos taikomas komisinis atlyginimas už su mokėjimo sąskaita susijusias paslaugas. ^s-cfc75decded10f85deff24fd
@@ -2321,7 +2321,7 @@ Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
 ### 74 straipsnis. Bendroji sutartis dėl pagrindinės mokėjimo sąskaitos ir jos nutraukimas ^s-f5cff17e9de8b7652620ec80
 
 
-1. Bendrosioms sutartims dėl pagrindinės mokėjimo sąskaitos taikomi šio įstatymo III skyriaus pirmajame skirsnyje nustatyti reikalavimai, išskyrus atvejus, kai šio straipsnio 2, 3 ir [[#^s-ed0710ca276c9d176f3a75d9|4 dalyse]] nustatyta kitaip. ^s-919b861a61aa7a73831d37bb
+1. Bendrosioms sutartims dėl pagrindinės mokėjimo sąskaitos taikomi šio įstatymo III skyriaus pirmajame skirsnyje nustatyti reikalavimai, išskyrus atvejus, kai šio straipsnio [[#^s-f5dc1c76b4012d59b9eab47b|2]], [[#^s-0d93f953556c32d04ce4de23|3]] ir [[#^s-ed0710ca276c9d176f3a75d9|4]] dalyse nustatyta kitaip. ^s-919b861a61aa7a73831d37bb
 
 
 2. Bendrojoje sutartyje dėl pagrindinės mokėjimo sąskaitos turi būti nurodyta, koks komisinis atlyginimas bus taikomas už pagrindinės mokėjimo sąskaitos paslaugą, kai vartotojas nebebus laikomas asmeniu, kuriam paskirta piniginė socialinė parama nepasiturintiems gyventojams pagal Piniginės socialinės paramos nepasiturintiems gyventojams įstatymą. ^s-f5dc1c76b4012d59b9eab47b
@@ -2375,7 +2375,7 @@ Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
 1. Priežiūros institucija yra Lietuvos bankas. ^s-31ee4f4d646334ba5436ee78
 
 
-2. Priežiūros institucija prižiūri, kaip laikomasi šio įstatymo, su jo įgyvendinimu susijusių teisės aktų, Reglamento (ES) Nr. 260/2012, Reglamento (ES) 2015/751, Reglamento (ES) 2021/1230, Reglamento (ES) 2022/2554, Reglamento (ES) 2024/3005 ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, (toliau šiame skyriuje – šis įstatymas ir (arba) kiti teisės aktai) reikalavimų, ir savo nustatyta tvarka nagrinėja asmenų pateiktus skundus dėl galimo šio įstatymo ir (arba) kitų teisės aktų pažeidimo (toliau – teisės akto pažeidimas). ^s-7d586486977abf35aeb9c78e
+2. Priežiūros institucija prižiūri, kaip laikomasi šio įstatymo, su jo įgyvendinimu susijusių teisės aktų, Reglamento (ES) Nr. 260/2012, [Reglamento (ES) 2015/751](https://eur-lex.europa.eu/eli/reg/2015/751/oj), [Reglamento (ES) 2021/1230](https://eur-lex.europa.eu/eli/reg/2021/1230/oj), [Reglamento (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj), [Reglamento (ES) 2024/3005](https://eur-lex.europa.eu/eli/reg/2024/3005/oj) ir kitų teisės aktų, kurių laikymosi priežiūra priskirta priežiūros institucijos kompetencijai, (toliau šiame skyriuje – šis įstatymas ir (arba) kiti teisės aktai) reikalavimų, ir savo nustatyta tvarka nagrinėja asmenų pateiktus skundus dėl galimo šio įstatymo ir (arba) kitų teisės aktų pažeidimo (toliau – teisės akto pažeidimas). ^s-7d586486977abf35aeb9c78e
 Straipsnio dalies pakeitimai:
 Nr. XIII-1301, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11306
 Nr. XIV-1895, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08614
@@ -2495,13 +2495,13 @@ Nr. XIII-1301, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11306
 4) trukdoma priežiūros institucijai arba jos įgaliotiems asmenims atlikti patikrinimus; ^s-d10c0192a936ef360231582e
 
 
-41) pažeidžiami Reglamente (ES) 2022/2554 nustatyti reikalavimai; ^s-f8d4a4d0434ff9423d4890aa
+41) pažeidžiami [Reglamente (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) nustatyti reikalavimai; ^s-f8d4a4d0434ff9423d4890aa
 Papildyta straipsnio punktu:
 Nr. XV-302, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11971
 
 
 
-42) pažeidžiami Reglamento (ES) 2024/3005 [[#^s-bcd1895bae85c81636c0fa78|2 straipsnio 2 dalies]] c punkto antroje pastraipoje nustatyti reikalavimai; ^s-fde7ddf90d0d70f0160a5882
+42) pažeidžiami [Reglamento (ES) 2024/3005 2 straipsnio 2 dalies c punkto](https://eur-lex.europa.eu/eli/reg/2024/3005/art_2/par_2/lit_c/oj) antroje pastraipoje nustatyti reikalavimai; ^s-fde7ddf90d0d70f0160a5882
 Papildyta straipsnio punktu:
 Nr. XV-858, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06967
 
@@ -2645,7 +2645,7 @@ PRIEŽIŪROS INSTITUCIJOS BENDRADARBIAVIMAS SU KITŲ VALSTYBIŲ NARIŲ PRIEŽIŪ
 3) leisti priežiūros institucijos pareigūnams dalyvauti kitos valstybės narės priežiūros institucijos pareigūnams atliekant patikrinimą. ^s-93c7819c9c2504145f412324
 
 
-2. Šio straipsnio nuostatos įgyvendinamos laikantis 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), [[#^s-1f6b3eaa2bbfce14498d5f5f|19 straipsnyje]] nustatytų reikalavimų. ^s-536ab825acef50b3c416f3d7
+2. Šio straipsnio nuostatos įgyvendinamos laikantis 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), [[#^s-1f6b3eaa2bbfce14498d5f5f|19 straipsnyje]] nustatytų reikalavimų. ^s-536ab825acef50b3c416f3d7
 
 
 
@@ -2655,7 +2655,7 @@ PRIEŽIŪROS INSTITUCIJOS BENDRADARBIAVIMAS SU KITŲ VALSTYBIŲ NARIŲ PRIEŽIŪ
 Priežiūros institucija pirmą kartą ne vėliau kaip 2018 m. rugsėjo 18 d., o vėliau – kas 2 metus Europos Komisijai teikia šią informaciją:
 
 
-1) kaip mokėjimo paslaugų teikėjai laikosi šio įstatymo 61, 62 ir [[#^s-3897ea3f63b1a093527247ca|63 straipsniuose]] nustatytų reikalavimų; ^s-c1825159ed46476de3f234d7
+1) kaip mokėjimo paslaugų teikėjai laikosi šio įstatymo [[#^s-77cc45c9daec62756fafa1a2|61]], [[#^s-356c3012d3aa6ec050aaf2fc|62]] ir [[#^s-3897ea3f63b1a093527247ca|63]] straipsniuose nustatytų reikalavimų; ^s-c1825159ed46476de3f234d7
 
 
 2) kaip Lietuvos Respublikoje laikomasi reikalavimų užtikrinti, kad veiktų šio įstatymo [[#^s-237d2e643f4676f66639f6ba|64 straipsnyje]] nurodyta interneto svetainė; ^s-ca9c8d5320c45c84cd8edccc
@@ -2700,7 +2700,7 @@ Nr. XIII-1301, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11306
 ### 92 straipsnis. Kitų nuostolių atlyginimas ^s-88554598b4f356b4f4d6655f
 
 
-1. Kituose įstatymuose, taikomuose mokėjimo paslaugų teikėjo ir mokėjimo paslaugų vartotojo sudarytai bendrajai sutarčiai, gali būti numatytas papildomas nuostolių, nenurodytų šio įstatymo 50, 51 ir [[#^s-b6f4e0e5a912feaf93960cb2|52 straipsniuose]], atlyginimas. ^s-1d5373586a918181d517fca3
+1. Kituose įstatymuose, taikomuose mokėjimo paslaugų teikėjo ir mokėjimo paslaugų vartotojo sudarytai bendrajai sutarčiai, gali būti numatytas papildomas nuostolių, nenurodytų šio įstatymo [[#^s-93d2c668c2907969d75c3193|50]], [[#^s-40056ea9589e35d4632b8d34|51]] ir [[#^s-b6f4e0e5a912feaf93960cb2|52]] straipsniuose, atlyginimas. ^s-1d5373586a918181d517fca3
 
 
 2. Mokėjimo paslaugų teikėjas privalo nedelsdamas atlyginti vartotojo patirtus finansinius nuostolius, įskaitant komisinius atlyginimus ir palūkanas, kurie susidarė tiesiogiai dėl to, kad mokėjimo paslaugų teikėjas nesilaikė šio įstatymo [[#^s-d448f099cfa056ea73456d7e|67 straipsnyje]] jam nustatytų pareigų. ^s-47783cc2872a0fd78a66363c
@@ -2750,37 +2750,37 @@ priedas
 
 
 
-1. 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 260/2012, kuriuo nustatomi kredito pervedimų ir tiesioginio debeto operacijų eurais techniniai ir komerciniai reikalavimai ir iš dalies keičiamas Reglamentas (EB) Nr. 924/2009, su paskutiniais pakeitimais, padarytais 2024 m. kovo 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/886. ^s-87d271c263faddc751d3befe
+1. 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 260/2012, kuriuo nustatomi kredito pervedimų ir tiesioginio debeto operacijų eurais techniniai ir komerciniai reikalavimai ir iš dalies keičiamas Reglamentas (EB) Nr. 924/2009, su paskutiniais pakeitimais, padarytais 2024 m. kovo 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/886](https://eur-lex.europa.eu/eli/reg/2024/886/oj). ^s-87d271c263faddc751d3befe
 
 
 2. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyva 2014/92/ES dėl mokesčių, susijusių su mokėjimo sąskaitomis, palyginamumo, mokėjimo sąskaitų perkėlimo ir galimybės naudotis būtiniausias savybes turinčiomis mokėjimo sąskaitomis. ^s-d05b85586b76f8af19c3f157
 
 
-3. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/751 dėl tarpbankinių mokesčių už kortele grindžiamas mokėjimo operacijas. ^s-6138a325fe71fd2569a3cde9
+3. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2015/751](https://eur-lex.europa.eu/eli/reg/2015/751/oj) dėl tarpbankinių mokesčių už kortele grindžiamas mokėjimo operacijas. ^s-6138a325fe71fd2569a3cde9
 
 
-4. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB, su paskutiniais pakeitimais, padarytais 2024 m. kovo 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/886. ^s-c622f13306d2ef4de2552a6f
+4. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir panaikinama Direktyva 2007/64/EB, su paskutiniais pakeitimais, padarytais 2024 m. kovo 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/886](https://eur-lex.europa.eu/eli/reg/2024/886/oj). ^s-c622f13306d2ef4de2552a6f
 
 
-5. 2021 m. liepos 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/1230 dėl tarptautinių mokėjimų Sąjungoje (kodifikuota redakcija), su paskutiniais pakeitimais, padarytais 2024 m. kovo 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/886. ^s-4138e0d0cf7e7251e8e06de2
+5. 2021 m. liepos 14 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2021/1230](https://eur-lex.europa.eu/eli/reg/2021/1230/oj) dėl tarptautinių mokėjimų Sąjungoje (kodifikuota redakcija), su paskutiniais pakeitimais, padarytais 2024 m. kovo 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/886](https://eur-lex.europa.eu/eli/reg/2024/886/oj). ^s-4138e0d0cf7e7251e8e06de2
 
 
-51. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo. ^s-69404055c355bc9a68647004
+51. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2022/2556](https://eur-lex.europa.eu/eli/dir/2022/2556/oj), kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo. ^s-69404055c355bc9a68647004
 Papildyta punktu:
 Nr. XV-302, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11971
 
 
 
-52. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011. ^s-ab52861d597cf4406cbdee31
+52. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami [reglamentai (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj), (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011. ^s-ab52861d597cf4406cbdee31
 Papildyta punktu:
 Nr. XV-302, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11971
 
 
 
-6. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1113 dėl informacijos, teikiamos pervedant lėšas ir tam tikrą kriptoturtą, kuriuo iš dalies keičiama Direktyva (ES) 2015/849. ^s-e43016affc8096d5cfbf2043
+6. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj) dėl informacijos, teikiamos pervedant lėšas ir tam tikrą kriptoturtą, kuriuo iš dalies keičiama [Direktyva (ES) 2015/849](https://eur-lex.europa.eu/eli/dir/2015/849/oj). ^s-e43016affc8096d5cfbf2043
 
 
-7. 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/3005 dėl reitingavimo pagal aplinkos, socialinius ir valdymo (ASV) kriterijus veiklos skaidrumo ir sąžiningumo, kuriuo iš dalies keičiami reglamentai (ES) 2019/2088 ir (ES) 2023/2859. ^s-27ee327ec2e7cfcacf4e9376
+7. 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2024/3005](https://eur-lex.europa.eu/eli/reg/2024/3005/oj) dėl reitingavimo pagal aplinkos, socialinius ir valdymo (ASV) kriterijus veiklos skaidrumo ir sąžiningumo, kuriuo iš dalies keičiami [reglamentai (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) ir (ES) 2023/2859. ^s-27ee327ec2e7cfcacf4e9376
 Papildyta punktu:
 Nr. XV-858, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06967
 
@@ -2841,7 +2841,7 @@ Nr. XII-303, 2013-05-14, Žin., 2013, Nr. 57-2847 (2013-06-01), i. k. [[latest/T
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1108, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13429
-Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 4, 30, 36 ir [[#^s-7f8934a22075f23e2070e828|45 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 [[#^s-0f95df76b6562fc3d0fd208c|4]], [[#^s-16b06d6cd07047fda20143c4|30]], [[#^s-b8da601c5f66e3f327176038|36]] ir [[#^s-7f8934a22075f23e2070e828|45]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2856,7 +2856,7 @@ Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 [[#^s-1d75ac2b245a07eaeb
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1243, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09857
-Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 63, 64, 65, 66, [[#^s-d448f099cfa056ea73456d7e|67 straipsnių]] pakeitimo, Įstatymo papildymo 62-1 straipsniu ir 68, 69, [[#^s-42847684a4937032a34592ec|70 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 [[#^s-3897ea3f63b1a093527247ca|63]], [[#^s-237d2e643f4676f66639f6ba|64]], [[#^s-06089da8c2e963fbc2999955|65]], [[#^s-0d584f7e250dd25a9218f253|66]], [[#^s-d448f099cfa056ea73456d7e|67]] straipsnių pakeitimo, Įstatymo papildymo 62-1 straipsniu ir [[#^s-e64d6dcb70f9f449256950ce|68]], [[#^s-c8a67ef2a6bbc88e862bacf0|69]], [[#^s-42847684a4937032a34592ec|70]] straipsnių pripažinimo netekusiais galios įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2866,7 +2866,7 @@ Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo įstatymas
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1301, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11306
-Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo [[latest/3e7a9e6049e211e8ade598b2394a491d|įstatymo Nr. XIII-1092]] 1 ir [[#^s-f7ea2d859898171a3ec70cb1|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo [[latest/3e7a9e6049e211e8ade598b2394a491d|įstatymo Nr. XIII-1092]] [[#^s-5171289bac1893eadd75fa4f|1]] ir [[#^s-f7ea2d859898171a3ec70cb1|2]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2876,7 +2876,7 @@ Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 pakeitimo [[latest/3e7a9
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1895, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08614
-Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 3, [[#^s-889c0424987f67c13b33bdc4|76 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 [[#^s-22e77b5b89489c950b4a7196|3]], [[#^s-889c0424987f67c13b33bdc4|76]] straipsnių ir priedo pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2886,17 +2886,17 @@ Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 priedo pakeitimo ir Įst
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2710, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11233
-Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 2, 15, 64, 71, 72, 73, [[#^s-f79fe507f9c11b0a1a2cfbcf|75 straipsnių]] pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 [[#^s-f7ea2d859898171a3ec70cb1|2]], [[#^s-e70dc1515a939a97115260e1|15]], [[#^s-237d2e643f4676f66639f6ba|64]], [[#^s-2785169b6429461541228515|71]], [[#^s-3b8744c8731b9daf692ceffd|72]], [[#^s-42c717c6cb43d2ad108bb55c|73]], [[#^s-f79fe507f9c11b0a1a2cfbcf|75]] straipsnių pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3094, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20115
-Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 9, [[#^s-8b500e4fcd3581f1fbb8cc87|81 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 [[#^s-1d75ac2b245a07eaebcb7b0f|9]], [[#^s-8b500e4fcd3581f1fbb8cc87|81]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-137, 2025-03-27, paskelbta TAR 2025-04-02, i. k. 2025-05779
-Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 9, [[#^s-8b500e4fcd3581f1fbb8cc87|81 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 9-1 straipsniu [[latest/bc8fc2d2a67411ef90b5ee8931e5ce5e|įstatymo Nr. XIV-3094]] [[#^s-f7ea2d859898171a3ec70cb1|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 [[#^s-1d75ac2b245a07eaebcb7b0f|9]], [[#^s-8b500e4fcd3581f1fbb8cc87|81]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 9-1 straipsniu [[latest/bc8fc2d2a67411ef90b5ee8931e5ce5e|įstatymo Nr. XIV-3094]] [[#^s-f7ea2d859898171a3ec70cb1|2 straipsnio]] pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2906,7 +2906,7 @@ Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 [[#^s-22e77b5b89489c950b
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-302, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11971
-Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 2, 3, 56, 57, 76, [[#^s-14ae14cbfb5e1e38c7fdd53b|80 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 [[#^s-f7ea2d859898171a3ec70cb1|2]], [[#^s-22e77b5b89489c950b4a7196|3]], [[#^s-045a6f830082a7bd998ea644|56]], [[#^s-a16a24301e93edf2c7af7c47|57]], [[#^s-889c0424987f67c13b33bdc4|76]], [[#^s-14ae14cbfb5e1e38c7fdd53b|80]] straipsnių ir priedo pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2916,4 +2916,4 @@ Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 [[#^s-f7ea2d859898171a3e
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-858, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06967
-Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 76, [[#^s-14ae14cbfb5e1e38c7fdd53b|80 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos mokėjimų įstatymo Nr. VIII-1370 [[#^s-889c0424987f67c13b33bdc4|76]], [[#^s-14ae14cbfb5e1e38c7fdd53b|80]] straipsnių ir priedo pakeitimo įstatymas

@@ -233,7 +233,7 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 2. Paramos dalyko, nurodyto šio įstatymo [[#^s-d33c2093afbe9b3df0252912|4 straipsnio 3 dalyje]], gavėjais gali būti fiziniai asmenys, kuriems [[latest/TAR.CB9B34EA4BA1|Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo]] nustatyta tvarka yra suteiktas meno kūrėjo statusas. ^s-4e6a1708d686a06d58f22158
 
 
-3. Šio straipsnio 1 ir [[#^s-4e6a1708d686a06d58f22158|2 dalyse]] nurodyti asmenys tampa paramos gavėjais ir įgyja teisę gauti paramą tik šio įstatymo nustatyta tvarka gavę paramos gavėjo statusą. ^s-de85b089816a62a9d651e860
+3. Šio straipsnio [[#^s-944587fc92643364cf8b1e8e|1]] ir [[#^s-4e6a1708d686a06d58f22158|2]] dalyse nurodyti asmenys tampa paramos gavėjais ir įgyja teisę gauti paramą tik šio įstatymo nustatyta tvarka gavę paramos gavėjo statusą. ^s-de85b089816a62a9d651e860
 
 
 4. Paramos gavėjais gali būti Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) ar jos įgaliotos institucijos patvirtintame sąraše nurodytos užsienyje įsteigtos lietuvių bendruomenės ir kitos lietuviškos įstaigos ar organizacijos. ^s-eabeaa965c48c84d6da9589f
@@ -327,7 +327,7 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 2) juridiniai asmenys – jų įstatuose ar nuostatuose arba religinių bendruomenių, bendrijų ir centrų kanonuose, statutuose ir kitose normose numatytiems šio įstatymo [[#^s-7e04e180c345b76f1a6aab59|3 straipsnio 3 dalyje]] nurodytiems visuomenei naudingiems tikslams, labdarai (jeigu jie pagal šį įstatymą turi teisę teikti labdarą). ^s-d75dfb5461f630ca508adcdf
 
 
-2. Pagal šį įstatymą kaip parama gauti šio įstatymo [[#^s-c2cba6495afce2e608f4b254|4 straipsnio]] 1 ir [[#^s-00b87a94ad7ceaa06edd4cdf|2 dalyse]] nurodyti labdaros ir paramos dalykai negali būti naudojami politinėms partijoms, valstybės politikams ar politinėms kampanijoms finansuoti ir politinių kampanijų dalyvių politinių kampanijų laikotarpiu atsiradusiems ar su politinėmis kampanijomis susijusiems skolos įsipareigojimams padengti. ^s-00b87a94ad7ceaa06edd4cdf
+2. Pagal šį įstatymą kaip parama gauti šio įstatymo [[#^s-c2cba6495afce2e608f4b254|4 straipsnio]] [[#^s-a8350cb2a0e92e4d547559b9|1]] ir [[#^s-b298aa804ce174c8f5c2c718|2]] dalyse nurodyti labdaros ir paramos dalykai negali būti naudojami politinėms partijoms, valstybės politikams ar politinėms kampanijoms finansuoti ir politinių kampanijų dalyvių politinių kampanijų laikotarpiu atsiradusiems ar su politinėmis kampanijomis susijusiems skolos įsipareigojimams padengti. ^s-00b87a94ad7ceaa06edd4cdf
 Straipsnio dalies pakeitimai:
 Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
@@ -360,7 +360,7 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 3. Fiziniai asmenys, kuriems [[latest/TAR.CB9B34EA4BA1|Meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymo]] nustatyta tvarka yra suteiktas meno kūrėjo statusas ir kurie pagal šį įstatymą turi teisę gauti paramą, privalo atskirai tvarkyti pagal šį įstatymą gaunamos paramos apskaitą (joje nurodyti gautos paramos vertę ir kaip ši parama buvo panaudota) ir Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikti Valstybinei mokesčių inspekcijai metinę ataskaitą apie gautą paramą ir jos panaudojimą. ^s-31db5fbd4fd70e6fedb74185
 
 
-4. Valstybinė mokesčių inspekcija šio straipsnio 1, 2 ir [[#^s-31db5fbd4fd70e6fedb74185|3 dalyse]] nurodytose ataskaitose pateiktą informaciją Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Lietuvos statistikos departamentui. ^s-fb104f4306c6b9b1cfc3b4c8
+4. Valstybinė mokesčių inspekcija šio straipsnio [[#^s-24b9039b02b6b5855882fe42|1]], [[#^s-a99e253c76b599ae70c20cf4|2]] ir [[#^s-31db5fbd4fd70e6fedb74185|3]] dalyse nurodytose ataskaitose pateiktą informaciją Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka ir terminais pateikia Lietuvos statistikos departamentui. ^s-fb104f4306c6b9b1cfc3b4c8
 
 
 5. Religinės bendruomenės, bendrijos ir centrai pagal šį įstatymą gaunamos paramos apskaitą bei pačių teikiamos paramos ir (arba) labdaros apskaitą tvarko pagal savo kanonus, statutus ir kitas normas. Tradicinės Lietuvos religinės bendruomenės, bendrijos ir centrai turi teisę teikiamose ataskaitose neatsiskaityti už anonimiškai gautą paramą ir jos panaudojimą, o jeigu per ataskaitinį laikotarpį gauta ir panaudota vien tokia parama, – iš viso nepateikti to laikotarpio ataskaitos. Tradicinėms Lietuvos religinėms bendruomenėms, bendrijoms ir centrams, per kalendorinius metus gavusiems paramą vien anonimiškai, netaikomi [[#^s-fb104f4306c6b9b1cfc3b4c8|šio straipsnio 4 dalyje]] nustatyti reikalavimai dėl metinių ataskaitų pateikimo. ^s-36065e1daf5d303f68f2c41c
@@ -433,7 +433,7 @@ Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
 
 
 
-8. Tradicinės Lietuvos religinės bendruomenės, bendrijos ir centrai turi paramos gavėjo statusą. Jiems netaikomos šio straipsnio 1–[[#^s-8541878959f46b3bf96fa6f5|7 dalių]] nuostatos. ^s-f58e262a49d67df8fa9fab5c
+8. Tradicinės Lietuvos religinės bendruomenės, bendrijos ir centrai turi paramos gavėjo statusą. Jiems netaikomos šio straipsnio [[#^s-82cb36c22f54a4712e634b04|1]]–[[#^s-8541878959f46b3bf96fa6f5|7]] dalių nuostatos. ^s-f58e262a49d67df8fa9fab5c
 Straipsnio dalies pakeitimai:
 Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
 
@@ -452,13 +452,13 @@ Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2017 m. sausio 1 d. ^s-9ff6d31e5e491a96076fd7da
+1. Šis įstatymas, išskyrus [[latest/TAR.C0FF21832A85|šio straipsnio 2 dalį]], įsigalioja 2017 m. sausio 1 d. ^s-9ff6d31e5e491a96076fd7da
 
 
 2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2016 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-a4a3344c910d4f6f50248698
 
 
-3. Iki šio įstatymo įsigaliojimo prisiimti įmonių, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 50 procentų balsų, įsipareigojimai dėl paramos teikimo šios įmonės dalyviui arba kitiems įmonės dalyvio kontroliuojamiems ar su juo susijusiems subjektams, kai paramos teikimas, įsigaliojus šiam įstatymui, atitiks šio įstatymo [[#^s-d43abaecb773600afc48e6e1|5 straipsnio]] 3 ir [[#^s-d58b0a344c7986159e2ee785|4 dalių]] nuostatas, pagal kurias parama pagal šį įstatymą nepripažįstama, baigiami vykdyti šiuose įsipareigojimuose nustatyta tvarka. Baigusi vykdyti šioje dalyje nurodytus įsipareigojimus, įmonė privalo šio įstatymo nustatyta tvarka apie suteiktą paramą paskelbti savo interneto svetainėje ne vėliau kaip per vieną mėnesį nuo paskutinės paramos dalies suteikimo. ^s-029f4e801f495a82b6b9819d
+3. Iki šio įstatymo įsigaliojimo prisiimti įmonių, kuriose valstybei ir (ar) savivaldybei nuosavybės teise priklausančios akcijos visuotiniame akcininkų susirinkime suteikia daugiau kaip 50 procentų balsų, įsipareigojimai [dėl paramos teikimo](https://e-tar.lt/portal/lt/legalAct/TAR.09C42F04B8CC) šios įmonės dalyviui arba kitiems įmonės dalyvio kontroliuojamiems ar su juo susijusiems subjektams, kai paramos teikimas, įsigaliojus šiam įstatymui, atitiks šio įstatymo [[#^s-d43abaecb773600afc48e6e1|5 straipsnio]] [[#^s-30093bd4dae98efc367c1cd5|3]] ir [[#^s-eaee23fafa851aa0be239e4f|4]] dalių nuostatas, pagal kurias parama pagal šį įstatymą nepripažįstama, baigiami vykdyti šiuose įsipareigojimuose nustatyta tvarka. Baigusi vykdyti šioje dalyje nurodytus įsipareigojimus, įmonė privalo šio įstatymo nustatyta tvarka apie suteiktą paramą paskelbti savo interneto svetainėje ne vėliau kaip per vieną mėnesį nuo paskutinės paramos dalies suteikimo. ^s-029f4e801f495a82b6b9819d
 Papildyta straipsnio dalimi:
 Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
 
@@ -490,9 +490,9 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2679, 2016-10-12, paskelbta TAR 2016-10-17, i. k. 2016-25273
-Lietuvos Respublikos labdaros ir paramos [[latest/TAR.C0FF21832A85|įstatymo Nr. I-172]] pakeitimo įstatymo Nr. XII-2202 1 ir 2 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos labdaros ir paramos [[latest/TAR.C0FF21832A85|įstatymo Nr. I-172]] pakeitimo įstatymo Nr. XII-2202 [[latest/TAR.C0FF21832A85#^s-c54a3123b58f9338446b8f0c|1]] ir [[latest/TAR.C0FF21832A85#^s-dbf899af1a41b86a96e6ed07|2]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2777, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26978
-Lietuvos Respublikos labdaros ir paramos [[latest/TAR.C0FF21832A85|įstatymo Nr. I-172]] pakeitimo įstatymo Nr. XII-2202 1 ir 2 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos labdaros ir paramos [[latest/TAR.C0FF21832A85|įstatymo Nr. I-172]] pakeitimo įstatymo Nr. XII-2202 [[latest/TAR.C0FF21832A85#^s-c54a3123b58f9338446b8f0c|1]] ir [[latest/TAR.C0FF21832A85#^s-dbf899af1a41b86a96e6ed07|2]] straipsnių pakeitimo įstatymas

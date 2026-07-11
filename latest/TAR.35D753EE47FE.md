@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-d3b4279e55d783147b9f3f7b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. sausio 16 d. dekretą Nr. 2022, ratifikuoja Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1999 m. rugsėjo 20 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. sausio 16 d. dekretą Nr. 2022](https://e-tar.lt/portal/lt/legalAct/TAR.E092647FB55E), ratifikuoja Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1999 m. rugsėjo 20 d. Vilniuje.
 
 
 

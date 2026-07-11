@@ -59,7 +59,7 @@ Vilnius
 1. 17 straipsnio 2 dalį pripažinti netekusia galios. ^s-8273393256e9c0447dc8b5cb
 
 
-2. Buvusią 17 straipsnio 3 dalį laikyti [[#^s-a85cc7a76a7e028586aa5de3|2 dalimi]]. ^s-a85cc7a76a7e028586aa5de3
+2. Buvusią 17 straipsnio 3 dalį laikyti 2 dalimi. ^s-a85cc7a76a7e028586aa5de3
 
 
 

@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Lietuvos Respublikos įstatymo „Dėl Lietuvos valstybės herbo“ nauja redakcija ^s-4d88fccb792785db3d38376d
 
 
-Pakeisti Lietuvos Respublikos įstatymą „Dėl Lietuvos valstybės herbo“ ir jį išdėstyti taip:
+Pakeisti Lietuvos Respublikos įstatymą [„Dėl Lietuvos valstybės herbo“](https://e-tar.lt/portal/lt/legalAct/TAR.10BB96A1E015) ir jį išdėstyti taip:
 
 
 
@@ -392,7 +392,7 @@ LIETUVOS HERALDIKOS KOMISIJA
 1. Lietuvos heraldikos komisija (toliau – Komisija) yra Respublikos Prezidento sudaryta ir jam atskaitinga valstybės institucija. ^s-7d07e0dea3ea0f4f3609c7eb
 
 
-2. Komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, įstatymais, kitais teisės aktais ir Respublikos Prezidento patvirtintais Komisijos nuostatais. ^s-9dd3e053836ccc024cf2ca5e
+2. Komisija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymais, kitais teisės aktais ir Respublikos Prezidento patvirtintais Komisijos nuostatais. ^s-9dd3e053836ccc024cf2ca5e
 
 
 3. Kalendoriniams metams pasibaigus, Komisija per du mėnesius parengia savo veiklos metų ataskaitą, ją pateikia Respublikos Prezidentui ir viešai paskelbia. ^s-bf4071fc2950facf853d7514
@@ -557,16 +557,16 @@ Lietuvos Respublikos Vyriausybė, jos įgaliotos ir kitos valstybės institucijo
 Įsigaliojus šiam įstatymui, netenka galios:
 
 
-1) Lietuvos Respublikos įstatymas „Dėl miestų herbų tvirtinimo“ (Žin., 1993, Nr. 5-88); ^s-39c0dc4eb0253e1e2548c7ba
+1) Lietuvos Respublikos įstatymas [„Dėl miestų herbų tvirtinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.2F589441954F) (Žin., 1993, Nr. 5-88); ^s-39c0dc4eb0253e1e2548c7ba
 
 
-2) Lietuvos Respublikos savivaldybių atributikos įstatymas (Žin., 1996, Nr. 33-803; 2003, Nr. 54-2370); ^s-f00fe941f205465176fc48da
+2) [Lietuvos Respublikos savivaldybių atributikos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.94228C66BDB8) (Žin., 1996, Nr. 33-803; 2003, Nr. 54-2370); ^s-f00fe941f205465176fc48da
 
 
-3) Lietuvos Respublikos Seimo nutarimas „Dėl Lietuvos heraldikos komisijos statuso“ (Žin., 1995, Nr. 6-108); ^s-a5b49c419d2b5f3f2767bba8
+3) Lietuvos Respublikos Seimo nutarimas [„Dėl Lietuvos heraldikos komisijos statuso“](https://e-tar.lt/portal/lt/legalAct/TAR.CCA5271998F7) (Žin., 1995, Nr. 6-108); ^s-a5b49c419d2b5f3f2767bba8
 
 
-4) Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo nutarimas „Dėl Lietuvos valstybės herbo etalono naudojimo“ (Žin., 1992, Nr. 11-284). ^s-0adc3e1e23754263ae972c92
+4) Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo nutarimas [„Dėl Lietuvos valstybės herbo etalono naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.D773305E2CDD) (Žin., 1992, Nr. 11-284). ^s-0adc3e1e23754263ae972c92
 
 
 

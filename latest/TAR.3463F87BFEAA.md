@@ -168,7 +168,7 @@ Pakeisti ir papildyti [[#^s-df89318098f586855c57faba|3 straipsnį]] ir jį išd�
 40. Vanduo – aplinkos dalis, apimanti Lietuvos Respublikos paviršiniuose ir požeminiuose vandens telkiniuose esantį vandenį. ^s-24fbfc2335248cbdd732fdd7
 
 
-41. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos vidaus vandenų transporto kodekse.“ ^s-409212c104ed75b3088d6971
+41. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [Lietuvos Respublikos vidaus vandenų transporto kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F).“ ^s-409212c104ed75b3088d6971
 
 
 
@@ -300,13 +300,13 @@ Institucija, atsakinga už upių baseinų rajono ar jo dalies, esančios Lietuvo
 „2. Šio Įstatymo 22 straipsnyje nurodyti vandensaugos tikslai turi būti pasiekti iki 2015 m. gruodžio 22 d. Jeigu vandens telkinio būklės pagerėjimo negalima pasiekti dėl to, kad techninės priemonės gali būti taikomos tik etapais, kurie yra ilgesni už nustatytą terminą, arba kai užbaigti vandens telkinio būklės pagerinimą per nustatytą laiką per daug brangu, arba kai pagerinti vandens telkinio būklės laiku negalima dėl gamtinių sąlygų, leidžiama pratęsti šį terminą ir siekti vandensaugos tikslų etapais su sąlyga, kad vandens telkinio būklė toliau neprastėtų. Termino pratęsimas ir jo priežastys nurodomi ir paaiškinami upių baseinų rajono valdymo plane, kuriame nustatomas naujas terminas vandensaugos tikslams pasiekti. Terminas pratęsiamas ilgiausiai iki 2027 m. gruodžio 22 d., išskyrus atvejus, kai per tokį laiką keliamų tikslų pasiekti negalima dėl gamtinių sąlygų.“
 
 
-3. Papildyti 33 straipsnį nauja [[#^s-163ae1f920443ec401dd8011|3 dalimi]]: ^s-163ae1f920443ec401dd8011
+3. Papildyti 33 straipsnį nauja 3 dalimi: ^s-163ae1f920443ec401dd8011
 
 
 „3. Šio Įstatymo 23 straipsnyje nurodytiems upių baseinų rajonuose esantiems saugomiems plotams keliami tikslai turi būti pasiekti ne vėliau kaip iki 2015 m. gruodžio 22 d., jeigu Europos bendrijos teisės aktuose, pagal kuriuos buvo nustatytos atskiros saugomos teritorijos, nenurodyta kitaip.“
 
 
-4. Buvusias 33 straipsnio 3, 4 ir [[#^s-4f738d19f5b3210d1f7d8e15|5 dalis]] laikyti atitinkamai 4, 5 ir [[#^s-9c23f1afe9720d650d64254d|6 dalimis]]. ^s-6151dc328c55e3d10798fce5
+4. Buvusias 33 straipsnio 3, 4 ir 5 dalis laikyti atitinkamai 4, 5 ir 6 dalimis. ^s-6151dc328c55e3d10798fce5
 
 
 5. 33 straipsnio 4 dalyje vietoj datos „2009 m. gruodžio 31 d.“ įrašyti datą „2009 m. gruodžio 22 d.“, vietoj datos „2012 m. gruodžio 31 d.“ įrašyti datą „2012 m. gruodžio 22 d.“, išbraukti žodį „prireikus“, vietoj datos „2014 m. gruodžio 31 d.“ įrašyti datą „2015 m. gruodžio 22 d.“ ir šią dalį išdėstyti taip: ^s-4f738d19f5b3210d1f7d8e15

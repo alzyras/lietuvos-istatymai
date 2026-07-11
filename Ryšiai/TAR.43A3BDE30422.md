@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.E5509883EBB4#^s-181ccf7dfa6c920a349cbe2f|Lietuvos Respublikos azartinių lošimų įstatymas]] - 2 citatos - AZARTINIŲ LOŠIMŲ ĮSTATYMO 6, 10, 20 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.E5509883EBB4#^s-5a6180902b42b5abd93c003f|Lietuvos Respublikos azartinių lošimų įstatymas]] - 2 citatos - AZARTINIŲ LOŠIMŲ ĮSTATYMO 6, 10, 20 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.E5509883EBB4#^s-181ccf7dfa6c920a349cbe2f|Lietuvos Respublikos azartinių lošimų įstatymas]] - AZARTINIŲ LOŠIMŲ ĮSTATYMO 6, 10, 20 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

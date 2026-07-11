@@ -198,7 +198,7 @@ Nr. XIV-3014, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17779
 3) apgyvendinimo paslaugos, kurios nėra neatsiejama keleivių vežimo dalis ir teikiamos pagal sutartis dėl šiame įstatyme nustatytų turizmo paslaugų; ^s-3322e0c8f8e81304947ca82f
 
 
-4) bet kokia kita paslauga, kuri nėra neatsiejama nuo turizmo paslaugų, nurodytų šios dalies 1, 2 ar [[#^s-3322e0c8f8e81304947ca82f|3 punkte]]. ^s-823a4bdd943693b85b0cb644
+4) bet kokia kita paslauga, kuri nėra neatsiejama nuo turizmo paslaugų, nurodytų šios dalies [[#^s-e546d3ee2bc56abfb001ae1c|1]], [[#^s-8e32f6f6184b87016a7bcf5e|2]] ar [[#^s-3322e0c8f8e81304947ca82f|3]] punkte. ^s-823a4bdd943693b85b0cb644
 
 
 
@@ -215,7 +215,7 @@ ORGANIZUOTA TURISTINĖ KELIONĖ
 ### 4 straipsnis. Organizuotos turistinės kelionės sudarymas ^s-893737ac4d51ac543ec108fd
 
 
-1. Turizmo paslaugų derinys laikomas organizuota turistine kelione, jeigu jis sudaromas pagal šios dalies 1 ar [[#^s-7a04ff693d49659aa4c35712|2 punkte]] išdėstytas sąlygas: ^s-327bcc7b3064ce99900219bd
+1. Turizmo paslaugų derinys laikomas organizuota turistine kelione, jeigu jis sudaromas pagal šios dalies [[#^s-87dabfb34b30f07fef0fd60d|1]] ar [[#^s-7a04ff693d49659aa4c35712|2]] punkte išdėstytas sąlygas: ^s-327bcc7b3064ce99900219bd
 
 
 1) turizmo paslaugas keliautojo prašymu arba atsižvelgdamas į jo pasirinkimą ir prieš sudarydamas vieną sutartį dėl visų turizmo paslaugų sujungia vienas kelionių organizatorius; ^s-87dabfb34b30f07fef0fd60d
@@ -239,13 +239,13 @@ d) sujungiamos sudarius sutartį, kuria kelionių organizatorius suteikia keliau
 e) įsigyjamos iš atskirų turizmo paslaugų teikėjų naudojantis susietosiomis internetinio užsakymo sistemomis, kai turizmo paslaugų teikėjas, su kuriuo sudaryta pirmoji sutartis, perduoda keliautojo vardą ir pavardę, informaciją apie atliktą mokėjimą ir elektroninio pašto adresą kitam turizmo paslaugų teikėjui ar teikėjams, o sutartis su pastaruoju turizmo paslaugų teikėju ar teikėjais sudaroma ne vėliau kaip per 24 valandas po pirmosios kelionių organizavimo paslaugos užsakymo patvirtinimo.
 
 
-2. Turizmo paslaugų derinys, kurį sudaro ne daugiau kaip vienos rūšies turizmo paslauga, nurodyta šio įstatymo [[#^s-dfa12105a38067078c2502dc|3 straipsnio 3 dalies]] 1, 2 ar 3 punkte, nesanti neatsiejama kelionės dalis ir sujungta su viena ar daugiau turizmo paslaugų, nurodytų šio įstatymo [[#^s-823a4bdd943693b85b0cb644|3 straipsnio 3 dalies 4 punkte]], nėra laikomas organizuota turistine kelione, jeigu pastarosios turizmo paslaugos atitinka bent vieną iš šių sąlygų: ^s-e3f635f1403ef4158a34cf23
+2. Turizmo paslaugų derinys, kurį sudaro ne daugiau kaip vienos rūšies turizmo paslauga, nurodyta šio įstatymo [[#^s-dfa12105a38067078c2502dc|3 straipsnio 3 dalies]] [[#^s-e546d3ee2bc56abfb001ae1c|1]], [[#^s-8e32f6f6184b87016a7bcf5e|2]] ar [[#^s-3322e0c8f8e81304947ca82f|3]] punkte, nesanti neatsiejama kelionės dalis ir sujungta su viena ar daugiau turizmo paslaugų, nurodytų šio įstatymo [[#^s-823a4bdd943693b85b0cb644|3 straipsnio 3 dalies 4 punkte]], nėra laikomas organizuota turistine kelione, jeigu pastarosios turizmo paslaugos atitinka bent vieną iš šių sąlygų: ^s-e3f635f1403ef4158a34cf23
 
 
 1) nesudaro didelės turizmo paslaugų derinio vertės dalies, nėra esminė derinio dalis ir nėra reklamuojamos kaip esminė derinio dalis; ^s-9f9098fd9cf8b21c8991cb98
 
 
-2) yra pasirenkamos ir įsigyjamos po to, kai pradedama teikti viena iš turizmo paslaugų, nurodytų šio įstatymo [[#^s-dfa12105a38067078c2502dc|3 straipsnio 3 dalies]] 1, 2 ar 3 punkte. ^s-b61c7785074c0723a7c009a4
+2) yra pasirenkamos ir įsigyjamos po to, kai pradedama teikti viena iš turizmo paslaugų, nurodytų šio įstatymo [[#^s-dfa12105a38067078c2502dc|3 straipsnio 3 dalies]] [[#^s-e546d3ee2bc56abfb001ae1c|1]], [[#^s-8e32f6f6184b87016a7bcf5e|2]] ar [[#^s-3322e0c8f8e81304947ca82f|3]] punkte. ^s-b61c7785074c0723a7c009a4
 
 
 3. 25 procentus arba daugiau turizmo paslaugų derinio vertės sudarančios šio įstatymo [[#^s-823a4bdd943693b85b0cb644|3 straipsnio 3 dalies 4 punkte]] nurodytos kitos turizmo paslaugos laikomos didele organizuotos turistinės kelionės vertės dalimi. ^s-c2bacd1684206bbe2bafb35b
@@ -365,10 +365,10 @@ c) prašyme išduoti kelionių organizatoriaus pažymėjimą ir kartu pateiktuos
 3) kolegialaus valdymo organų nariai; ^s-18273071eea7a3512f49a8fb
 
 
-4) dalyvis, turintis juridinio asmens įstatinio kapitalo ir (ar) balso teisių dalį, suteikiančią daugiau negu ketvirtadalį balso teisių visuotiniame dalyvių susirinkime. Jeigu dalyvis yra juridinis asmuo, ši nuostata taikoma juridinio asmens atstovui, nurodytam šios dalies 1, 2, [[#^s-18273071eea7a3512f49a8fb|3 punktuose]]; ^s-20f912a41046f7d4503c1939
+4) dalyvis, turintis juridinio asmens įstatinio kapitalo ir (ar) balso teisių dalį, suteikiančią daugiau negu ketvirtadalį balso teisių visuotiniame dalyvių susirinkime. Jeigu dalyvis yra juridinis asmuo, ši nuostata taikoma juridinio asmens atstovui, nurodytam šios dalies [[#^s-ca340287d51210d2f280259d|1]], [[#^s-1d55f95d2427fe11ff1b5eb3|2]], [[#^s-18273071eea7a3512f49a8fb|3]] punktuose; ^s-20f912a41046f7d4503c1939
 
 
-5) juridinio asmens, kuris yra kelionių organizatoriaus savininkas, atstovas, nurodytas šios dalies 1, 2, 3, [[#^s-20f912a41046f7d4503c1939|4 punktuose]]. ^s-fcdb854bc1d6b47b3eec6b2c
+5) juridinio asmens, kuris yra kelionių organizatoriaus savininkas, atstovas, nurodytas šios dalies [[#^s-ca340287d51210d2f280259d|1]], [[#^s-1d55f95d2427fe11ff1b5eb3|2]], [[#^s-18273071eea7a3512f49a8fb|3]], [[#^s-20f912a41046f7d4503c1939|4]] punktuose. ^s-fcdb854bc1d6b47b3eec6b2c
 
 
 3. [[#^s-b8389d12bdc811a7b43e69d8|Šio straipsnio 1 dalyje]] nurodytas asmuo nėra laikomas nepriekaištingos reputacijos, jeigu: ^s-aae256ec520ab559b1474981
@@ -383,10 +383,10 @@ c) prašyme išduoti kelionių organizatoriaus pažymėjimą ir kartu pateiktuos
 3) per pastaruosius 5 metus jam, kaip juridinio asmens atstovui – dalyviui, turinčiam juridinio asmens įstatinio kapitalo ir (ar) balso teisių dalį, suteikiančią daugiau negu ketvirtadalį balso teisių visuotiniame dalyvių susirinkime, įstatymų, reglamentuojančių juridinių asmenų veiklą, nustatyta tvarka jau buvo sustabdyta teisė naudotis balso teise juridinio asmens dalyvių susirinkime; ^s-867d3a14fadde7eb96e2d463
 
 
-4) per pastaruosius 5 metus buvo kelionių organizatoriaus, kuris tapo nemokus ar pripažintas bankrutavusiu, ir dėl tokių veiksmų atsirado žala keliautojams, atstovu, nurodytu [[#^s-a3758bc8e728f28d607b8da6|šio straipsnio 2 dalies]] 1, 2, 3, 4 punktuose; ^s-9e0999c3e8d46dd6b37bdf23
+4) per pastaruosius 5 metus buvo kelionių organizatoriaus, kuris tapo nemokus ar pripažintas bankrutavusiu, ir dėl tokių veiksmų atsirado žala keliautojams, atstovu, nurodytu [[#^s-a3758bc8e728f28d607b8da6|šio straipsnio 2 dalies]] [[#^s-737b0e82c83e206b047e6343|1]], [[#^s-8d4dd4699c169e56b82b17ad|2]], [[#^s-867d3a14fadde7eb96e2d463|3]], 4 punktuose; ^s-9e0999c3e8d46dd6b37bdf23
 
 
-5) per pastaruosius 5 metus buvo kelionių organizatoriaus – juridinio asmens, kurio kelionių organizatoriaus pažymėjimo galiojimas buvo panaikintas dėl šio įstatymo [[#^s-1194eb8c557c3f91f3787810|11 straipsnio 2 dalies]] 1, 2, 3, 4, 5 punktuose nustatytų reikalavimų pažeidimų, atstovu, nurodytu [[#^s-a3758bc8e728f28d607b8da6|šio straipsnio 2 dalies]] 1, 2, 3, [[#^s-9e0999c3e8d46dd6b37bdf23|4 punktuose]]; ^s-5629cbc28cf5f91b8bb116b4
+5) per pastaruosius 5 metus buvo kelionių organizatoriaus – juridinio asmens, kurio kelionių organizatoriaus pažymėjimo galiojimas buvo panaikintas dėl šio įstatymo [[#^s-1194eb8c557c3f91f3787810|11 straipsnio 2 dalies]] [[#^s-beabca5ebae89b1bf2ba6472|1]], [[#^s-a93f1bb72c4676add2d04133|2]], [[#^s-065333cb8d4e94483ef21a11|3]], [[#^s-438c17e4724a7cc7336194ea|4]], [[#^s-deffb916075dd5978b68594b|5]] punktuose nustatytų reikalavimų pažeidimų, atstovu, nurodytu [[#^s-a3758bc8e728f28d607b8da6|šio straipsnio 2 dalies]] [[#^s-beabca5ebae89b1bf2ba6472|1]], [[#^s-a93f1bb72c4676add2d04133|2]], [[#^s-065333cb8d4e94483ef21a11|3]], [[#^s-438c17e4724a7cc7336194ea|4]] punktuose; ^s-5629cbc28cf5f91b8bb116b4
 
 
 6) per pastaruosius 5 metus buvo kelionių organizatorius – fizinis asmuo, kuriam buvo iškelta bankroto byla, kuris tapo nemokus ar dėl kurio teismas priėmė sprendimą baigti fizinio asmens bankroto bylą, ir dėl tokių veiksmų atsirado žala keliautojams. ^s-69567792af3bda3e87f5d681
@@ -399,7 +399,7 @@ c) prašyme išduoti kelionių organizatoriaus pažymėjimą ir kartu pateiktuos
 ### 9 straipsnis. Kelionių organizatoriaus pažymėjimo išdavimas ^s-463e7b10c3686b5befe72d20
 
 
-1. Asmuo, norintis gauti kelionių organizatoriaus pažymėjimą, turi atitikti šio įstatymo [[#^s-c12b24dd416901b18a514219|7 straipsnio 2 dalies]] 1, 2 ir 11 punktuose ir šio įstatymo [[#^s-b8389d12bdc811a7b43e69d8|8 straipsnio 1 dalyje]] nustatytus reikalavimus ir pateikti Vyriausybės įgaliotai institucijai prašymą išduoti kelionių organizatoriaus pažymėjimą ir dokumentus, patvirtinančius atitiktį šioje dalyje nustatytiems reikalavimams. ^s-751bc1dcdd773e133b48954e
+1. Asmuo, norintis gauti kelionių organizatoriaus pažymėjimą, turi atitikti šio įstatymo [[#^s-c12b24dd416901b18a514219|7 straipsnio 2 dalies]] [[#^s-94bf2a004945194f4bf3f5b6|1]], [[#^s-488bf43d53948f453f641741|2]] ir [[#^s-2cafe10a7264493a041f63ff|11]] punktuose ir šio įstatymo [[#^s-b8389d12bdc811a7b43e69d8|8 straipsnio 1 dalyje]] nustatytus reikalavimus ir pateikti Vyriausybės įgaliotai institucijai prašymą išduoti kelionių organizatoriaus pažymėjimą ir dokumentus, patvirtinančius atitiktį šioje dalyje nustatytiems reikalavimams. ^s-751bc1dcdd773e133b48954e
 
 
 2. Vyriausybės įgaliota institucija, per 20 darbo dienų išnagrinėjusi asmens prašymą, pateiktus dokumentus ir įvertinusi asmens atitiktį [[#^s-751bc1dcdd773e133b48954e|šio straipsnio 1 dalyje]] nustatytiems reikalavimams, gali: ^s-bd2a83911ed03db792f94ffe
@@ -436,7 +436,7 @@ c) prašyme išduoti kelionių organizatoriaus pažymėjimą ir kartu pateiktuos
 3) kelionių organizatorius, likus ne mažiau kaip 20 darbo dienų iki turimo prievolių įvykdymo užtikrinimo dokumento galiojimo pabaigos, Vyriausybės įgaliotai institucijai nepateikia naujo kelionių organizatoriaus prievolių įvykdymo užtikrinimą patvirtinančio dokumento ir prievolių įvykdymo užtikrinimą patvirtinančiame dokumente nurodytą prievolių įvykdymo užtikrinimo sumą pagrindžiančių dokumentų; ^s-cacf7d2730b65d6ad799b46c
 
 
-4) kelionių organizatorius nevykdo šio įstatymo [[#^s-c12b24dd416901b18a514219|7 straipsnio 2 dalies]] 5, 6 ir [[#^s-7b70e9952b8f65c63b1d702b|7 punktuose]] nustatytų įpareigojimų; ^s-9c6c216e5b0c6193e9089e6b
+4) kelionių organizatorius nevykdo šio įstatymo [[#^s-c12b24dd416901b18a514219|7 straipsnio 2 dalies]] [[#^s-e27cfd31340b114b0bee8039|5]], [[#^s-51d29bf26678f4aa7363fe4a|6]] ir [[#^s-a10c7d294114abb14b1aa9ea|7]] punktuose nustatytų įpareigojimų; ^s-9c6c216e5b0c6193e9089e6b
 
 
 5) kelionių organizatorius raštu praneša kreditoriams ir Vyriausybės įgaliotai institucijai apie tai, kad negali arba neketina vykdyti įsipareigojimų; ^s-c477fe1f98a4bed6a417349d
@@ -543,7 +543,7 @@ KELIONIŲ ORGANIZATORIAUS PRIEVOLIŲ ĮVYKDYMO UŽTIKRINIMAS
 3. Išvykstamojo turizmo kelionių organizatoriaus ir atvykstamojo turizmo kelionių organizatoriaus prievolių įvykdymo užtikrinimo suma turi būti didžiausia suma iš šių: ^s-0d01f506ca302997b33f5150
 
 
-1) prievolių įvykdymo užtikrinimo suma, nustatyta šio straipsnio 1 ar [[#^s-b5e0554b83863627545c7283|2 dalyje]]; ^s-2667298adec451b3fc3b4b40
+1) prievolių įvykdymo užtikrinimo suma, nustatyta šio straipsnio [[#^s-9730a465983703b5eccbc877|1]] ar [[#^s-b5e0554b83863627545c7283|2]] dalyje; ^s-2667298adec451b3fc3b4b40
 
 
 2) 200 000 eurų, organizuojant keliones užsakomaisiais skrydžiais; ^s-126f8b8d4aa3d16130ca5017
@@ -710,7 +710,7 @@ KELIONIŲ PARDAVIMO AGENTAS
 1. Kelionių pardavimo agentas rinkodaros tikslais savo pavadinime gali vartoti žodžių junginį „kelionių agentūra“. ^s-7fcdc3c180e5fb868cf79804
 
 
-2. Asmuo, norintis vykdyti kelionių pardavimo agento veiklą, Vyriausybės įgaliotai institucijai pateikia Vyriausybės įgaliotos institucijos nustatytos formos kelionių pardavimo agento deklaraciją, kurioje patvirtina, kad atitinka [[#^s-f24f7dd06d7fb763b9cddeac|šio straipsnio 3 dalies 4 punkto]] reikalavimą, pateikia pelno (nuostolių) ataskaitą ir balansą, jeigu jie nėra pateikti Juridinių asmenų registro tvarkytojui (išskyrus fizinius asmenis), arba ūkinės veiklos pradžios balansą, parengtą vadovaujantis Įmonių atskaitomybės įstatymu, jeigu kelionių pardavimo agentas nevykdė veiklos. Kelionių pardavimo agentas veiklą gali vykdyti kitą dieną nuo kelionių pardavimo agento deklaracijos pateikimo Vyriausybės įgaliotai institucijai dienos arba nuo kelionių pardavimo agento deklaracijoje nurodytos dienos, jeigu ši diena vėlesnė negu kita diena po deklaracijos pateikimo dienos. ^s-4e2cd47bd0a1a0351c665bad
+2. Asmuo, norintis vykdyti kelionių pardavimo agento veiklą, Vyriausybės įgaliotai institucijai pateikia Vyriausybės įgaliotos institucijos nustatytos formos kelionių pardavimo agento deklaraciją, kurioje patvirtina, kad atitinka [[#^s-f24f7dd06d7fb763b9cddeac|šio straipsnio 3 dalies 4 punkto]] reikalavimą, pateikia pelno (nuostolių) ataskaitą ir balansą, jeigu jie nėra pateikti Juridinių asmenų registro tvarkytojui (išskyrus fizinius asmenis), arba ūkinės veiklos pradžios balansą, parengtą vadovaujantis [Įmonių atskaitomybės įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C), jeigu kelionių pardavimo agentas nevykdė veiklos. Kelionių pardavimo agentas veiklą gali vykdyti kitą dieną nuo kelionių pardavimo agento deklaracijos pateikimo Vyriausybės įgaliotai institucijai dienos arba nuo kelionių pardavimo agento deklaracijoje nurodytos dienos, jeigu ši diena vėlesnė negu kita diena po deklaracijos pateikimo dienos. ^s-4e2cd47bd0a1a0351c665bad
 
 
 3. Kelionių pardavimo agentas privalo: ^s-0687f9208d94116cabdba4e1
@@ -789,7 +789,7 @@ TURIZMO PASLAUGŲ RINKINYS
 3) užtikrinti, kad turizmo paslaugų rinkinio pardavėjo – akcinės bendrovės ar uždarosios akcinės bendrovės – nuosavas kapitalas būtų ne mažesnis negu 1/2 įstatuose nurodyto įstatinio kapitalo dydžio. Esant kitokiai turizmo paslaugų rinkinio pardavėjo – juridinio asmens – teisinei formai, negu akcinė bendrovė ar uždaroji akcinė bendrovė, visi turizmo paslaugų rinkinio pardavėjo turtiniai įsipareigojimai negali viršyti viso juridinio asmens turto. Šio punkto reikalavimas netaikomas turizmo paslaugų rinkinio pardavėjui – fiziniam asmeniui; ^s-b14c61b1cdaf0b3e75649148
 
 
-4) užtikrinti, kad [[#^s-318771d55cfe8ca0078d0160|šio straipsnio 1 dalies 2 punkte]] nurodytame galiojančiame prievolių įvykdymo užtikrinimą patvirtinančiame dokumente nurodyta prievolių įvykdymo užtikrinimo suma atitinka šio įstatymo [[#^s-344334ac6cec5c61f28c324f|24 straipsnio]] 6 ir [[#^s-e8396e4b19500256e6d9f297|7 dalyse]] nustatytą minimalią prievolių įvykdymo užtikrinimo sumą arba turizmo paslaugų rinkinio pardavėjo įplaukų sumą pagal visas turizmo paslaugų rinkinio pardavėjo sudarytas ir neįvykdytas sutartis. ^s-b26fce9f02ef53c5b00f2240
+4) užtikrinti, kad [[#^s-318771d55cfe8ca0078d0160|šio straipsnio 1 dalies 2 punkte]] nurodytame galiojančiame prievolių įvykdymo užtikrinimą patvirtinančiame dokumente nurodyta prievolių įvykdymo užtikrinimo suma atitinka šio įstatymo [[#^s-344334ac6cec5c61f28c324f|24 straipsnio]] [[#^s-14f582de52a2fd312d2993f4|6]] ir [[#^s-9ef21463f54057cc49e7010f|7]] dalyse nustatytą minimalią prievolių įvykdymo užtikrinimo sumą arba turizmo paslaugų rinkinio pardavėjo įplaukų sumą pagal visas turizmo paslaugų rinkinio pardavėjo sudarytas ir neįvykdytas sutartis. ^s-b26fce9f02ef53c5b00f2240
 
 
 4. Kai paaiškėja, kad turizmo paslaugų rinkinio pardavėjas neatitinka [[#^s-b14c61b1cdaf0b3e75649148|šio straipsnio 3 dalies 3 punkte]] nustatytų reikalavimų, arba kai įstatymų, reglamentuojančių finansinę atskaitomybę, nustatytais atvejais turizmo paslaugų rinkinio pardavėjas Juridinių asmenų registro tvarkytojui Civilinio kodekso 2.66 straipsnio 4 dalyje nustatyta tvarka nepateikė metinių finansinių ataskaitų rinkinio arba metinės ataskaitos, Vyriausybės įgaliota institucija raštu įspėja turizmo paslaugų rinkinio pardavėją apie jo teisės vykdyti turizmo paslaugų rinkinio pardavėjo veiklą panaikinimą, jeigu turizmo paslaugų rinkinio pardavėjas per 3 mėnesius nuo Vyriausybės įgaliotos institucijos įspėjimo gavimo dienos nepašalina nurodytų trūkumų. Kai paaiškėja, kad turizmo paslaugų rinkinio pardavėjas neatitinka [[#^s-b26fce9f02ef53c5b00f2240|šio straipsnio 3 dalies 4 punkte]] nustatytų reikalavimų, Vyriausybės įgaliota institucija raštu įspėja turizmo paslaugų rinkinio pardavėją apie jo teisės vykdyti turizmo paslaugų rinkinio pardavėjo veiklą panaikinimą, jeigu turizmo paslaugų rinkinio pardavėjas per 10 darbo dienų nuo Vyriausybės įgaliotos institucijos įspėjimo gavimo dienos nepašalina nurodytų trūkumų. Vyriausybės įgaliota institucija gali turizmo paslaugų rinkinio pardavėjo motyvuotu prašymu pratęsti šį terminą ne ilgiau kaip 10 darbo dienų ir ne daugiau kaip vieną kartą. ^s-eeab40ed1e0144e7a4758a60
@@ -832,7 +832,7 @@ TURIZMO PASLAUGŲ RINKINYS
 2) tikslingai padeda įsigyti bent vieną papildomą turizmo paslaugą iš kito turizmo paslaugų teikėjo, kuris nėra turizmo paslaugų rinkinio pardavėjas, kai sutartis su tokiu turizmo paslaugų teikėju sudaroma ne vėliau kaip per 24 valandas po pirmosios turizmo paslaugos užsakymo patvirtinimo. ^s-d5fa5c6b92f3aa41de137838
 
 
-2. Kai įsigyjama ne daugiau kaip vienos rūšies turizmo paslauga, nurodyta šio įstatymo [[#^s-dfa12105a38067078c2502dc|3 straipsnio 3 dalies]] 1, 2 ir 3 punktuose, ir viena ar daugiau turizmo paslaugų, nurodytų šio įstatymo [[#^s-823a4bdd943693b85b0cb644|3 straipsnio 3 dalies 4 punkte]], jos nesudaro turizmo paslaugų rinkinio, jeigu pastarosios paslaugos nesudaro didelės bendros paslaugų vertės dalies, nėra reklamuojamos kaip esminė kelionės ar atostogų dalis arba nėra kitais atžvilgiais esminė kelionės ar atostogų dalis. ^s-42f5c454ae70f4bb53124702
+2. Kai įsigyjama ne daugiau kaip vienos rūšies turizmo paslauga, nurodyta šio įstatymo [[#^s-dfa12105a38067078c2502dc|3 straipsnio 3 dalies]] [[#^s-e546d3ee2bc56abfb001ae1c|1]], [[#^s-8e32f6f6184b87016a7bcf5e|2]] ir [[#^s-3322e0c8f8e81304947ca82f|3]] punktuose, ir viena ar daugiau turizmo paslaugų, nurodytų šio įstatymo [[#^s-823a4bdd943693b85b0cb644|3 straipsnio 3 dalies 4 punkte]], jos nesudaro turizmo paslaugų rinkinio, jeigu pastarosios paslaugos nesudaro didelės bendros paslaugų vertės dalies, nėra reklamuojamos kaip esminė kelionės ar atostogų dalis arba nėra kitais atžvilgiais esminė kelionės ar atostogų dalis. ^s-42f5c454ae70f4bb53124702
 
 
 3. Jeigu šio įstatymo [[#^s-823a4bdd943693b85b0cb644|3 straipsnio 3 dalies 4 punkte]] nurodytos turizmo paslaugos sudaro 25 procentus arba daugiau turizmo paslaugų derinio vertės, tos paslaugos laikomos didele turizmo paslaugų rinkinio vertės dalimi. ^s-9b17fc9c7882eef2f2ee03a5
@@ -863,7 +863,7 @@ TURIZMO PASLAUGŲ RINKINYS
 2. [[#^s-84c5f2499e4651df26e6942c|Šio straipsnio 1 dalyje]] nurodytą informaciją turizmo paslaugų rinkinio pardavėjas pateikia naudodamas informacijos pateikimo formą, patvirtintą Vyriausybės įgaliotos institucijos. ^s-7030f04b7e9fd5c4dc30e5dd
 
 
-3. Jeigu turizmo paslaugų rinkinio pardavėjas nesuteikia keliautojui [[#^s-84c5f2499e4651df26e6942c|šio straipsnio 1 dalyje]] nurodytos informacijos ir neužtikrina prievolių įvykdymo užtikrinimo reikalavimų laikymosi pagal šio įstatymo [[#^s-344334ac6cec5c61f28c324f|24 straipsnį]], jam taikomos kelionių organizatoriui nustatytos teisės ir pareigos, atsakomybė ir nuostatos dėl žalos atlyginimo pagal organizuotos turistinės kelionės sutartį, nurodytos Civilinio kodekso 6.750, 6.751 straipsniuose, 6.7521 straipsnio 3 dalies 1 punkte, 6.753, 6.754, 6.7541 straipsniuose, taip pat šio įstatymo 17 ir [[#^s-756e9493c45d8d27bae48f15|20 straipsnių]] nuostatos, kiek tai susiję su turizmo paslaugomis, įtrauktomis į turizmo paslaugų rinkinį. Keliautojas šioje dalyje nurodytu atveju taip pat įgyja šioje dalyje nurodytuose straipsniuose įtvirtintas teises. ^s-f2dc948267e575cfe1542f75
+3. Jeigu turizmo paslaugų rinkinio pardavėjas nesuteikia keliautojui [[#^s-84c5f2499e4651df26e6942c|šio straipsnio 1 dalyje]] nurodytos informacijos ir neužtikrina prievolių įvykdymo užtikrinimo reikalavimų laikymosi pagal šio įstatymo [[#^s-344334ac6cec5c61f28c324f|24 straipsnį]], jam taikomos kelionių organizatoriui nustatytos teisės ir pareigos, atsakomybė ir nuostatos dėl žalos atlyginimo pagal organizuotos turistinės kelionės sutartį, nurodytos Civilinio kodekso 6.750, 6.751 straipsniuose, 6.7521 straipsnio 3 dalies 1 punkte, 6.753, 6.754, 6.7541 straipsniuose, taip pat šio įstatymo [[#^s-bf413652c12d44f7676e738b|17]] ir [[#^s-756e9493c45d8d27bae48f15|20]] straipsnių nuostatos, kiek tai susiję su turizmo paslaugomis, įtrauktomis į turizmo paslaugų rinkinį. Keliautojas šioje dalyje nurodytu atveju taip pat įgyja šioje dalyje nurodytuose straipsniuose įtvirtintas teises. ^s-f2dc948267e575cfe1542f75
 
 
 4. Kai keliautojas įsigyja turizmo paslaugų rinkinį pagal sutartį su turizmo paslaugų teikėju, kuris nėra turizmo paslaugų rinkinio pardavėjas, šis turizmo paslaugų teikėjas nedelsdamas informuoja turizmo paslaugų rinkinio pardavėją apie sutarties su keliautoju sudarymą. ^s-d4c5bff17ba94aa7cdc3ae4f
@@ -933,7 +933,7 @@ TURIZMO PASLAUGŲ RINKINYS
 9. Lietuvos Respublikoje įsteigto turizmo paslaugų rinkinio pardavėjo prievolių įvykdymas užtikrinamas visiems keliautojams, kurie įsigijo turizmo paslaugų rinkinį, neatsižvelgiant į jų gyvenamąją vietą, pradinę išvykimo vietą ar turizmo paslaugų rinkinio įsigijimo vietą ir į tai, kurioje valstybėje narėje yra už prievolių įvykdymo užtikrinimą atsakinga įstaiga. ^s-3941483dac39662085c0c03c
 
 
-10. Šio įstatymo [[#^s-1ac3150df9c21e41236ee2e2|15 straipsnio]] 4–[[#^s-9ef21463f54057cc49e7010f|7 dalių]] nuostatos dėl patirtų išlaidų atlyginimo keliautojams turizmo paslaugų rinkinio pardavėjui taikomos mutatis mutandis. ^s-730020a21f8964e2b50c57d0
+10. Šio įstatymo [[#^s-1ac3150df9c21e41236ee2e2|15 straipsnio]] [[#^s-801ae9a0c17a052a5e3da804|4]]–[[#^s-0899a613fe57fcb6d5a3a4f5|7]] dalių nuostatos dėl patirtų išlaidų atlyginimo keliautojams turizmo paslaugų rinkinio pardavėjui taikomos mutatis mutandis. ^s-730020a21f8964e2b50c57d0
 
 
 11. Turizmo paslaugų rinkinio pardavėjo prievolių įvykdymo užtikrinimo tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-3aa4d7f8f0d20d7100e4b4bc
@@ -1537,7 +1537,7 @@ priedas
 
 
 
-1. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2302 dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB. ^s-b1f21c628825b1d39fe40753
+1. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/2302](https://eur-lex.europa.eu/eli/dir/2015/2302/oj) dėl kelionės paslaugų paketų ir susijusių kelionės paslaugų rinkinių, kuria iš dalies keičiami Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) ir Direktyva 2011/83/ES bei panaikinama Tarybos direktyva 90/314/EEB. ^s-b1f21c628825b1d39fe40753
 
 
 
@@ -1577,7 +1577,7 @@ Lietuvos Respublikos turizmo įstatymo pakeitimo įstatymas
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-873, 2014-05-08, paskelbta TAR 2014-05-21, i. k. 2014-05577
-Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 15, 16, [[#^s-ed6a3a9d62e7f8c3b30bd46d|18 straipsnių]], septintojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 4-1 straipsniu ir [[#^s-756e9493c45d8d27bae48f15|20 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 [[#^s-13f01fc76c485eccf73da95a|2]], [[#^s-893737ac4d51ac543ec108fd|4]], [[#^s-a33f493f35106e093d974052|5]], [[#^s-cf8dfb9df932122292d829d9|6]], [[#^s-de35daeba6659b84929f43f2|7]], [[#^s-d9450dca95c2d6b8b0891bc7|8]], [[#^s-463e7b10c3686b5befe72d20|9]], [[#^s-bfb36de111a66b1b4efbc630|10]], [[#^s-8fca5d85a820e8af6537a092|11]], [[#^s-d7ff2940a9915b3ee84cc677|12]], [[#^s-9aacdb3dfbdecc4dc429d533|13]], [[#^s-1ac3150df9c21e41236ee2e2|15]], [[#^s-e8b485d43e6a28ab5a677d1d|16]], [[#^s-ed6a3a9d62e7f8c3b30bd46d|18]] straipsnių, septintojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 4-1 straipsniu ir [[#^s-756e9493c45d8d27bae48f15|20 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1592,7 +1592,7 @@ Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 [[#^s-ed6a3a9d62e7f8c3b30bd4
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1723, 2015-05-19, paskelbta TAR 2015-05-28, i. k. 2015-08223
-Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 4, 4-1, 6, 7, 8, 15 ir [[#^s-e8b485d43e6a28ab5a677d1d|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 [[#^s-13f01fc76c485eccf73da95a|2]], [[#^s-893737ac4d51ac543ec108fd|4]], 4-1, [[#^s-cf8dfb9df932122292d829d9|6]], [[#^s-de35daeba6659b84929f43f2|7]], [[#^s-d9450dca95c2d6b8b0891bc7|8]], [[#^s-1ac3150df9c21e41236ee2e2|15]] ir [[#^s-e8b485d43e6a28ab5a677d1d|16]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1602,17 +1602,17 @@ Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 pakeitimo įstatymas
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1990, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04585
-Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 9, 10, 15, 23, 28, 29, 30, 31, 32, 34, 36, 37, 38, 39 ir [[#^s-a68c5e95b62cf8f0794771ee|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 [[#^s-463e7b10c3686b5befe72d20|9]], [[#^s-bfb36de111a66b1b4efbc630|10]], [[#^s-1ac3150df9c21e41236ee2e2|15]], [[#^s-08763a8871dd8b1a3b510b5d|23]], [[#^s-040e718f6b0aa009ea49253e|28]], [[#^s-450dded61584aee902b14c89|29]], [[#^s-608ee750e855604c5507f721|30]], [[#^s-e18b893a8d8ad9f5e6034ad3|31]], [[#^s-9b83f52b1ca8bb73fb5bfbe0|32]], [[#^s-d9ed1e05f3dc0e1491b8e828|34]], [[#^s-a2194aca99e7c2465b144d22|36]], [[#^s-bf61f7cf64443b117fb8b34a|37]], [[#^s-851808ce4b0549837d96dfa1|38]], [[#^s-6776c1cd02a73c6d0c1d91bf|39]] ir [[#^s-a68c5e95b62cf8f0794771ee|41]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2862, 2020-04-21, paskelbta TAR 2020-04-23, i. k. 2020-08529
-Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, [[#^s-1ac3150df9c21e41236ee2e2|15 straipsnių]] pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 [[#^s-13f01fc76c485eccf73da95a|2]], [[#^s-1ac3150df9c21e41236ee2e2|15]] straipsnių pakeitimo ir Įstatymo papildymo 17-1 straipsniu įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3103, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15309
-Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2, 36, 37, 38, 39, 40 ir [[#^s-a68c5e95b62cf8f0794771ee|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 [[#^s-13f01fc76c485eccf73da95a|2]], [[#^s-a2194aca99e7c2465b144d22|36]], [[#^s-bf61f7cf64443b117fb8b34a|37]], [[#^s-851808ce4b0549837d96dfa1|38]], [[#^s-6776c1cd02a73c6d0c1d91bf|39]], [[#^s-97b6d29082fb86be89320672|40]] ir [[#^s-a68c5e95b62cf8f0794771ee|41]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1627,9 +1627,9 @@ Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 [[#^s-0d3c2768b8edebd148a2fd
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3014, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17779
-Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 2 ir [[#^s-9b83f52b1ca8bb73fb5bfbe0|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 [[#^s-13f01fc76c485eccf73da95a|2]] ir [[#^s-9b83f52b1ca8bb73fb5bfbe0|32]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-329, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-11989
-Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 5, 6, 7, 10, 11, 12, 14, 15, 19, 21, 24, 28, 30, 30-1, 31, 33, 35, 36, 40, 41 ir [[#^s-4e335e420714ecb6660cbb9d|43 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos turizmo įstatymo Nr. VIII-667 [[#^s-a33f493f35106e093d974052|5]], [[#^s-cf8dfb9df932122292d829d9|6]], [[#^s-de35daeba6659b84929f43f2|7]], [[#^s-bfb36de111a66b1b4efbc630|10]], [[#^s-8fca5d85a820e8af6537a092|11]], [[#^s-d7ff2940a9915b3ee84cc677|12]], [[#^s-896135f8a25d40ea41182c08|14]], [[#^s-1ac3150df9c21e41236ee2e2|15]], [[#^s-c4872875f14f68d47968257b|19]], [[#^s-6a87688c91aa0e877ff2f62b|21]], [[#^s-344334ac6cec5c61f28c324f|24]], [[#^s-040e718f6b0aa009ea49253e|28]], [[#^s-608ee750e855604c5507f721|30]], 30-1, [[#^s-e18b893a8d8ad9f5e6034ad3|31]], [[#^s-4bf77c3d26de4360e8df7f22|33]], [[#^s-b489e2cf1cf78a05fa45e885|35]], [[#^s-a2194aca99e7c2465b144d22|36]], [[#^s-97b6d29082fb86be89320672|40]], [[#^s-a68c5e95b62cf8f0794771ee|41]] ir [[#^s-4e335e420714ecb6660cbb9d|43]] straipsnių pakeitimo įstatymas

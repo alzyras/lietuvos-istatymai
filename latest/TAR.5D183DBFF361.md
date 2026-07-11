@@ -40,34 +40,34 @@ Vilnius
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos įstatymą „Dėl specialios paskirties bendrovių ir jų veiklos sričių“ (Žin., 1995, Nr. 21-490); ^s-25b1fe79b9c969198ac6dacd
+1) Lietuvos Respublikos įstatymą [„Dėl specialios paskirties bendrovių ir jų veiklos sričių“](https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455) (Žin., 1995, Nr. 21-490); ^s-25b1fe79b9c969198ac6dacd
 
 
-2) Lietuvos Respublikos įstatymo „Dėl specialios paskirties bendrovių ir jų veiklos sričių“ papildymo įstatymą (Žin., 1995, Nr. 94-2088); ^s-9966d07dd84e33a79838bc47
+2) Lietuvos Respublikos įstatymo [„Dėl specialios paskirties bendrovių ir jų veiklos sričių“](https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455) papildymo įstatymą (Žin., 1995, Nr. 94-2088); ^s-9966d07dd84e33a79838bc47
 
 
-3) Lietuvos Respublikos įstatymo „Dėl specialios paskirties bendrovių ir jų veiklos sričių“ pakeitimo įstatymą (Žin., 1996, Nr. 62-1468); ^s-43d97daaa5b2b6e35b6c19ca
+3) Lietuvos Respublikos įstatymo [„Dėl specialios paskirties bendrovių ir jų veiklos sričių“](https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455) pakeitimo įstatymą (Žin., 1996, Nr. 62-1468); ^s-43d97daaa5b2b6e35b6c19ca
 
 
-4) Lietuvos Respublikos įstatymo „Dėl specialios paskirties bendrovių ir jų veiklos sričių“ pakeitimo įstatymą (Žin., 1996, Nr. 100-2259); ^s-488ffb1e3fc773c7a58bfad6
+4) Lietuvos Respublikos įstatymo [„Dėl specialios paskirties bendrovių ir jų veiklos sričių“](https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455) pakeitimo įstatymą (Žin., 1996, Nr. 100-2259); ^s-488ffb1e3fc773c7a58bfad6
 
 
-5) Lietuvos Respublikos įstatymo „Dėl specialios paskirties bendrovių ir jų veiklos sričių“ [[#^s-0f85ac1486ee383ac53a2f23|2 straipsnio]] pakeitimo ir papildymo įstatymą (Žin., 1996, Nr. 126-2946); ^s-544f593892562c5ae8bd9550
+5) Lietuvos Respublikos įstatymo [„Dėl specialios paskirties bendrovių ir jų veiklos sričių“](https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455) [[#^s-0f85ac1486ee383ac53a2f23|2 straipsnio]] pakeitimo ir papildymo įstatymą (Žin., 1996, Nr. 126-2946); ^s-544f593892562c5ae8bd9550
 
 
-6) Lietuvos Respublikos įstatymo „Dėl specialios paskirties bendrovių ir jų veiklos sričių“ pakeitimo ir papildymo įstatymą (Žin., 1997, Nr. 32-784); ^s-d94e40576511968316c6e0e0
+6) Lietuvos Respublikos įstatymo [„Dėl specialios paskirties bendrovių ir jų veiklos sričių“](https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455) pakeitimo ir papildymo įstatymą (Žin., 1997, Nr. 32-784); ^s-d94e40576511968316c6e0e0
 
 
-7) Lietuvos Respublikos įstatymo „Dėl specialios paskirties bendrovių ir jų veiklos sričių“ 4 straipsnio pripažinimo netekusiu galios įstatymą (Žin., 1999, Nr. 60-1952); ^s-be9871a5129ce1f2e5fc8d8c
+7) Lietuvos Respublikos įstatymo [„Dėl specialios paskirties bendrovių ir jų veiklos sričių“](https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455) 4 straipsnio pripažinimo netekusiu galios įstatymą (Žin., 1999, Nr. 60-1952); ^s-be9871a5129ce1f2e5fc8d8c
 
 
-8) Lietuvos Respublikos įstatymo „Dėl specialios paskirties bendrovių ir jų veiklos sričių“ pakeitimo įstatymą (Žin., 1999, Nr. 90-2641); ^s-ca7df306a289462520e42e1b
+8) Lietuvos Respublikos įstatymo [„Dėl specialios paskirties bendrovių ir jų veiklos sričių“](https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455) pakeitimo įstatymą (Žin., 1999, Nr. 90-2641); ^s-ca7df306a289462520e42e1b
 
 
-9) Lietuvos Respublikos įstatymo „Dėl specialios paskirties bendrovių ir jų veiklos sričių“ pakeitimo įstatymą (Žin., 2000, Nr. 64-1916); ^s-d6d489600a395866b3d63e3e
+9) Lietuvos Respublikos įstatymo [„Dėl specialios paskirties bendrovių ir jų veiklos sričių“](https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455) pakeitimo įstatymą (Žin., 2000, Nr. 64-1916); ^s-d6d489600a395866b3d63e3e
 
 
-10) Lietuvos Respublikos įstatymo „Dėl specialios paskirties bendrovių ir jų veiklos sričių“ pakeitimo įstatymą (Žin., 2001, Nr. 43-1493). ^s-7b3ba4c773d8fb8ef5baae86
+10) Lietuvos Respublikos įstatymo [„Dėl specialios paskirties bendrovių ir jų veiklos sričių“](https://e-tar.lt/portal/lt/legalAct/TAR.5180B28B4455) pakeitimo įstatymą (Žin., 2001, Nr. 43-1493). ^s-7b3ba4c773d8fb8ef5baae86
 
 
 

@@ -198,20 +198,20 @@ Asmenims, pagal senojo Baudžiamojo kodekso 531 straipsnį atleistiems nuo baud�
 ### 13 straipsnis. Baudžiamosios atsakomybės senaties taikymas ^s-413a9cff2da27d7ab3b0387d
 
 
-1. Asmenims, padariusiems nusikalstamą veiką ar nuteistiems iki 2003 m. gegužės 1 d., apkaltinamojo nuosprendžio priėmimo ar apkaltinamojo nuosprendžio vykdymo senatis nustatoma vadovaujantis arba naujojo Baudžiamojo kodekso 3, 95 ir 96 straipsnių taisyklėmis, – kai senaties terminai pagal naujojo Baudžiamojo kodekso nuostatas yra tokie patys ar trumpesni, arba senojo Baudžiamojo kodekso 7, 49 ir 50 straipsnių taisyklėmis, – kai senaties terminai pagal naujojo Baudžiamojo kodekso nuostatas yra ilgesni. ^s-b9a94ee169d88199d4aad12b
+1. Asmenims, padariusiems nusikalstamą veiką ar nuteistiems iki 2003 m. gegužės 1 d., apkaltinamojo nuosprendžio priėmimo ar apkaltinamojo nuosprendžio vykdymo senatis nustatoma vadovaujantis arba naujojo Baudžiamojo kodekso [[#^s-aea467e39892ec3ac424b4c0|3]], 95 ir 96 straipsnių taisyklėmis, – kai senaties terminai pagal naujojo Baudžiamojo kodekso nuostatas yra tokie patys ar trumpesni, arba senojo Baudžiamojo kodekso [[#^s-47c941829442840770a25e27|7]], 49 ir 50 straipsnių taisyklėmis, – kai senaties terminai pagal naujojo Baudžiamojo kodekso nuostatas yra ilgesni. ^s-b9a94ee169d88199d4aad12b
 Straipsnio dalies pakeitimai:
 Nr. IX-1498, 2003-04-10, Žin., 2003, Nr. 38-1736 (2003-04-24), i. k. [[latest/TAR.0AC9AE7456EC|1031010ISTA0IX-1498]]
 
 
 
-2. Dėl asmenų, nuteistų už nusikalstamas veikas, padarytas iki 2003 m. gegužės 1 d., teistumo ir jo išnykimo, teistumo laiko sutrumpinimo ar teistumo panaikinimo sprendžiama vadovaujantis naujojo Baudžiamojo kodekso 3 ir 97 straipsnių taisyklėmis. ^s-a38a56cdc166bf5939082e34
+2. Dėl asmenų, nuteistų už nusikalstamas veikas, padarytas iki 2003 m. gegužės 1 d., teistumo ir jo išnykimo, teistumo laiko sutrumpinimo ar teistumo panaikinimo sprendžiama vadovaujantis naujojo Baudžiamojo kodekso [[#^s-aea467e39892ec3ac424b4c0|3]] ir 97 straipsnių taisyklėmis. ^s-a38a56cdc166bf5939082e34
 
 
 
 ### 14 straipsnis. Atleidimo nuo bausmės, bausmės pakeitimo švelnesne bausme ir bausmės sutrumpinimo (sumažinimo) tvarka ^s-579f3193992f4eda7f533cc3
 
 
-1. Klausimus dėl šio Įstatymo 10 ir [[#^s-413a9cff2da27d7ab3b0387d|13 straipsniuose]] numatyto atleidimo nuo bausmės, dėl bausmės pakeitimo švelnesne bausme ir bausmės sutrumpinimo (sumažinimo) iki naujajame Baudžiamajame kodekse numatytų bausmių maksimalių dydžių, taip pat baudžiamosios atsakomybės senaties bei teistumo klausimus per šešis mėnesius nuo šio Įstatymo įsigaliojimo sprendžia teismai pagal bausmes vykdančių institucijų vadovų arba antstolių teikimus naujojo Baudžiamojo proceso kodekso 362 straipsnio nustatyta tvarka. ^s-6c278a7e2febd4fb60e54c63
+1. Klausimus dėl šio Įstatymo [[#^s-8ca44e9415cfcc565c6ab8b7|10]] ir [[#^s-413a9cff2da27d7ab3b0387d|13]] straipsniuose numatyto atleidimo nuo bausmės, dėl bausmės pakeitimo švelnesne bausme ir bausmės sutrumpinimo (sumažinimo) iki naujajame Baudžiamajame kodekse numatytų bausmių maksimalių dydžių, taip pat baudžiamosios atsakomybės senaties bei teistumo klausimus per šešis mėnesius nuo šio Įstatymo įsigaliojimo sprendžia teismai pagal bausmes vykdančių institucijų vadovų arba antstolių teikimus naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso 362 straipsnio]] nustatyta tvarka. ^s-6c278a7e2febd4fb60e54c63
 
 
 2. Teismų nutartys [[#^s-6c278a7e2febd4fb60e54c63|šio straipsnio 1 dalyje]] nurodytais klausimais gali būti skundžiamos naujojo [[latest/TAR.EC588C321777#^s-738c64c66c1ff2bed26b8643|Baudžiamojo proceso kodekso 364 straipsnio]] nustatyta tvarka. ^s-4be58707d07d81dfaf78ee1f
@@ -228,7 +228,7 @@ Nr. IX-1498, 2003-04-10, Žin., 2003, Nr. 38-1736 (2003-04-24), i. k. [[latest/T
 ### 16 straipsnis. Pataisos įstaigas atitinkančios institucijos ir jų pavadinimų keitimo tvarka ^s-3451002cea422131a850e948
 
 
-1. Pataisos darbų kodekso [[#^s-02775ca3b5794d64ae07e8e4|12 straipsnyje]] nustatytų rūšių pataisos darbų įstaigos, [[#^s-d4571ce2823695ad66b73908|22 straipsnyje]] nustatytos pataisos darbų kolonijos-gyvenvietės bei 78 straipsnio 1 ir [[#^s-5a462c64faef2e21d1ee5f92|3 dalyse]] nustatytos pataisos darbų įstaigos gydymo teisėmis ir laisvės atėmimo vietų gydymo įstaigos prilygsta [[latest/TAR.A0A0CCC6B997#^s-9ce69c248aa1190c569e0b8a|Bausmių vykdymo kodekso 62 straipsnyje]] nustatytų rūšių pataisos įstaigoms: ^s-db723b5d13de543a73f430d4
+1. Pataisos darbų kodekso [[#^s-02775ca3b5794d64ae07e8e4|12 straipsnyje]] nustatytų rūšių pataisos darbų įstaigos, [[#^s-d4571ce2823695ad66b73908|22 straipsnyje]] nustatytos pataisos darbų kolonijos-gyvenvietės bei 78 straipsnio 1 ir 3 dalyse nustatytos pataisos darbų įstaigos gydymo teisėmis ir laisvės atėmimo vietų gydymo įstaigos prilygsta [[latest/TAR.A0A0CCC6B997#^s-9ce69c248aa1190c569e0b8a|Bausmių vykdymo kodekso 62 straipsnyje]] nustatytų rūšių pataisos įstaigoms: ^s-db723b5d13de543a73f430d4
 
 
 1) pataisos darbų kolonijos – pataisos namams; ^s-b987902e0f2f624fbf0c5d76
@@ -259,7 +259,7 @@ Nr. IX-1498, 2003-04-10, Žin., 2003, Nr. 38-1736 (2003-04-24), i. k. [[latest/T
 ### 17 straipsnis. Laisvės atėmimo bausmę atliekančių nuteistųjų priskyrimo pataisos įstaigų paprastajai, lengvajai ir drausmės grupėms tvarka ^s-930d2bb8e080e6a699034107
 
 
-1. Pataisos namų, gydymo-pataisos namų, nepilnamečių pataisos namų ir kalėjimų direktoriai įsakymais sudaro komisijas, kurios ne vėliau kaip per du mėnesius nuo [[latest/TAR.A0A0CCC6B997#^s-1fe3918055c18c2b35c3c793|Bausmių vykdymo kodekso įsigaliojimo priskiria nuteistuosius Bausmių vykdymo kodekso 72, 76, 78 ir 84 straipsniuose]] numatytoms grupėms. ^s-8ee2f050668eca38bc6d154a
+1. Pataisos namų, gydymo-pataisos namų, nepilnamečių pataisos namų ir kalėjimų direktoriai įsakymais sudaro komisijas, kurios ne vėliau kaip per du mėnesius nuo [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] įsigaliojimo priskiria nuteistuosius [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] [[latest/TAR.A0A0CCC6B997#^s-12f84e58e5496bfaeeb6acac|72]], [[latest/TAR.A0A0CCC6B997#^s-a5439e44a4998b19abce7ea3|76]], [[latest/TAR.A0A0CCC6B997#^s-dc53f495fad18799408b66f5|78]] ir [[latest/TAR.A0A0CCC6B997#^s-1fe3918055c18c2b35c3c793|84]] straipsniuose numatytoms grupėms. ^s-8ee2f050668eca38bc6d154a
 
 
 2. Nuteistųjų priskyrimas grupėms įforminamas pataisos įstaigų direktorių įsakymais remiantis [[#^s-8ee2f050668eca38bc6d154a|šio straipsnio 1 dalyje]] nurodytų komisijų protokolais. ^s-a6020eaba561eab2a4bc29b5
@@ -289,23 +289,23 @@ Nr. IX-1498, 2003-04-10, Žin., 2003, Nr. 38-1736 (2003-04-24), i. k. [[latest/T
 ### 20 straipsnis. Laisvės atėmimo bausmę atliekančių nuteistųjų iki Bausmių vykdymo kodekso įsigaliojimo turėtos teisės į pasimatymus ir pašto arba perduodamus siuntinius tęstinumas ^s-d312948159b2c6af5c39f292
 
 
-1. Nuteistiesiems, kuriems laisvės atėmimo vietose ne vėliau kaip likus vieneriems metams iki [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] įsigaliojimo buvo suteikti papildomi trumpalaikiai ir ilgalaikiai pasimatymai paskatinimo tvarka pagal Pataisos darbų kodekso 67 straipsnį arba suteikus pagerintas laikymo sąlygas pagal Pataisos darbų kodekso 23–25 ir [[#^s-8bcaf4dafbe2aca0cdcc14cd|32 straipsnius]] ir kurie šiais pasimatymais nepasinaudojo, išlieka teisė jais pasinaudoti per vienerius metus po [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] įsigaliojimo. ^s-74785d6acf5eacd3e73a1d73
+1. Nuteistiesiems, kuriems laisvės atėmimo vietose ne vėliau kaip likus vieneriems metams iki [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] įsigaliojimo buvo suteikti papildomi trumpalaikiai ir ilgalaikiai pasimatymai paskatinimo tvarka pagal Pataisos darbų kodekso 67 straipsnį arba suteikus pagerintas laikymo sąlygas pagal Pataisos darbų kodekso [[#^s-f3a47518aad1fcba4d8e16db|23]]–[[#^s-44b584f194259d1e055b718d|25]] ir [[#^s-8bcaf4dafbe2aca0cdcc14cd|32]] straipsnius ir kurie šiais pasimatymais nepasinaudojo, išlieka teisė jais pasinaudoti per vienerius metus po [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] įsigaliojimo. ^s-74785d6acf5eacd3e73a1d73
 
 
-2. Nuteistieji, kurie laisvės atėmimo vietose ne vėliau kaip prieš vienerius metus iki [[latest/TAR.A0A0CCC6B997#^s-a06f86b40507552bebf941fc|Bausmių vykdymo kodekso įsigaliojimo turėjo teisę pagal Pataisos darbų kodekso 23–25, 32, 34, 37 ir 38 straipsnius]] gauti per vienerius metus trumpalaikius ir ilgalaikius pasimatymus, nenumatytus [[#^s-74785d6acf5eacd3e73a1d73|šio straipsnio 1 dalyje]], ir jų negavo, turi teisę tokius pasimatymus gauti per vienerius metus po [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] įsigaliojimo. ^s-65859b8122c11747833eeb90
+2. Nuteistieji, kurie laisvės atėmimo vietose ne vėliau kaip prieš vienerius metus iki [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] įsigaliojimo turėjo teisę pagal Pataisos darbų kodekso [[latest/TAR.A0A0CCC6B997#^s-0c071b9c49463150229586bc|23]]–[[latest/TAR.A0A0CCC6B997#^s-e750c714d27b53a712077cc9|25]], [[latest/TAR.A0A0CCC6B997#^s-9f140e1e1bdc5de5c7d720a4|32]], [[latest/TAR.A0A0CCC6B997#^s-657c5d3f9ca89b7264806f49|34]], [[latest/TAR.A0A0CCC6B997#^s-0ac6469d0ec5c6fae56f8731|37]] ir [[latest/TAR.A0A0CCC6B997#^s-a06f86b40507552bebf941fc|38]] straipsnius gauti per vienerius metus trumpalaikius ir ilgalaikius pasimatymus, nenumatytus [[#^s-74785d6acf5eacd3e73a1d73|šio straipsnio 1 dalyje]], ir jų negavo, turi teisę tokius pasimatymus gauti per vienerius metus po [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] įsigaliojimo. ^s-65859b8122c11747833eeb90
 
 
 3. Nuteistiesiems, kuriems laisvės atėmimo vietose ne vėliau kaip prieš tris mėnesius iki [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] įsigaliojimo buvo suteikta teisė į papildomus pašto arba perduodamus siuntinius paskatinimo tvarka pagal Pataisos darbų kodekso 67 straipsnį ir kurie jų negavo, išlieka teisė juos gauti per tris mėnesius po [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] įsigaliojimo. ^s-796fc6aec0635864788008f7
 
 
-4. Nuteistieji, kurie laisvės atėmimo vietose ne vėliau kaip prieš tris mėnesius iki [[latest/TAR.A0A0CCC6B997#^s-a06f86b40507552bebf941fc|Bausmių vykdymo kodekso įsigaliojimo turėjo teisę pagal Pataisos darbų kodekso 23–25, 32, 37 ir 38 straipsnius]] gauti pašto arba perduodamus siuntinius, nenumatytus [[#^s-796fc6aec0635864788008f7|šio straipsnio 3 dalyje]], ir jų negavo, turi teisę tokius siuntinius gauti per tris mėnesius po [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] įsigaliojimo. ^s-1e690d23c3646523dc13aa21
+4. Nuteistieji, kurie laisvės atėmimo vietose ne vėliau kaip prieš tris mėnesius iki [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] įsigaliojimo turėjo teisę pagal Pataisos darbų kodekso [[latest/TAR.A0A0CCC6B997#^s-0c071b9c49463150229586bc|23]]–[[latest/TAR.A0A0CCC6B997#^s-e750c714d27b53a712077cc9|25]], [[latest/TAR.A0A0CCC6B997#^s-9f140e1e1bdc5de5c7d720a4|32]], [[latest/TAR.A0A0CCC6B997#^s-0ac6469d0ec5c6fae56f8731|37]] ir [[latest/TAR.A0A0CCC6B997#^s-a06f86b40507552bebf941fc|38]] straipsnius gauti pašto arba perduodamus siuntinius, nenumatytus [[#^s-796fc6aec0635864788008f7|šio straipsnio 3 dalyje]], ir jų negavo, turi teisę tokius siuntinius gauti per tris mėnesius po [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] įsigaliojimo. ^s-1e690d23c3646523dc13aa21
 
 
 
 ### 21 straipsnis. Nuteistųjų pasinaudojimo teise į ilgalaikius pasimatymus nepilnamečių pataisos namuose tvarka ^s-52a3d0adf3bc9fc83c6e0d31
 
 
-1. Bausmę nepilnamečių pataisos namuose atliekantys nuteistieji pradeda naudotis teise į ilgalaikius pasimatymus, numatytus [[latest/TAR.A0A0CCC6B997#^s-59d9d8b1acc4a637a87c53fb|Bausmių vykdymo kodekso 79 ir 80 straipsniuose]], po to, kai šiose pataisos įstaigose sudaromos reikiamos sąlygos ilgalaikiams pasimatymams. Terminą, per kurį turi būti sudarytos sąlygos ilgalaikiams pasimatymams, nustato Vyriausybė. ^s-a85a133f09fa7b023591c674
+1. Bausmę nepilnamečių pataisos namuose atliekantys nuteistieji pradeda naudotis teise į ilgalaikius pasimatymus, numatytus [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]] [[latest/TAR.A0A0CCC6B997#^s-cb89773ff65e1b27b26046a1|79]] ir [[latest/TAR.A0A0CCC6B997#^s-59d9d8b1acc4a637a87c53fb|80]] straipsniuose, po to, kai šiose pataisos įstaigose sudaromos reikiamos sąlygos ilgalaikiams pasimatymams. Terminą, per kurį turi būti sudarytos sąlygos ilgalaikiams pasimatymams, nustato Vyriausybė. ^s-a85a133f09fa7b023591c674
 
 
 2. Iki nepilnamečių pataisos namuose bus sudarytos reikiamos sąlygos ilgalaikiams pasimatymams, nuteistiesiems nepilnamečiams, turintiems teisę į ilgalaikį pasimatymą, šis pasimatymas pakeičiamas į du trumpalaikius pasimatymus. ^s-354cd5f68acfb7aba6159e69
@@ -408,7 +408,7 @@ Naujojo [[latest/TAR.EC588C321777#^s-007eb3c882ea70692e73d559|Baudžiamojo proce
 ### 31 straipsnis. Susipažinimo su bylos medžiaga tvarka ^s-5e07457a1456f0bf59a12481
 
 
-Jei įsigaliojus naujajam Baudžiamojo proceso kodeksui jau yra pradėta proceso dalyvių supažindinimo su baudžiamosios bylos medžiaga pagal senąjį Baudžiamojo proceso kodeksą procedūra, ši procedūra užbaigiama ir įvykdomi visi senojo [[latest/TAR.EC588C321777#^s-2824da96081e0fc054abb632|Baudžiamojo proceso kodekso 225–229 straipsniuose]] numatyti reikalavimai. Jeigu tokia procedūra nepradėta, proceso dalyviai su byla susipažįsta pagal naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] taisykles.
+Jei įsigaliojus naujajam Baudžiamojo proceso kodeksui jau yra pradėta proceso dalyvių supažindinimo su baudžiamosios bylos medžiaga pagal senąjį Baudžiamojo proceso kodeksą procedūra, ši procedūra užbaigiama ir įvykdomi visi senojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] [[latest/TAR.EC588C321777#^s-26bccc5181dd2354e88dc37a|225]]–[[latest/TAR.EC588C321777#^s-2824da96081e0fc054abb632|229]] straipsniuose numatyti reikalavimai. Jeigu tokia procedūra nepradėta, proceso dalyviai su byla susipažįsta pagal naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] taisykles.
 
 
 
@@ -422,7 +422,7 @@ Po naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] įsigaliojim
 ### 33 straipsnis. Pareiškimas dėl proceso užbaigimo teismo baudžiamuoju įsakymu ^s-1a9fd098f5c6e04e245626eb
 
 
-Jeigu po naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] įsigaliojimo prokuroras nusprendžia procesą užbaigti teismo baudžiamuoju įsakymu, jis pagal naujojo [[latest/TAR.EC588C321777#^s-689eab350c4f649933294ec5|Baudžiamojo proceso kodekso 418 ir 419 straipsnius]] surašo pareiškimą ir procesas vyksta pagal naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] XXXI skyriaus pirmojo skirsnio reikalavimus.
+Jeigu po naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] įsigaliojimo prokuroras nusprendžia procesą užbaigti teismo baudžiamuoju įsakymu, jis pagal naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] [[latest/TAR.EC588C321777#^s-aadd24b1247bdc55729bfc99|418]] ir [[latest/TAR.EC588C321777#^s-689eab350c4f649933294ec5|419]] straipsnius surašo pareiškimą ir procesas vyksta pagal naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] XXXI skyriaus pirmojo skirsnio reikalavimus.
 
 
 
@@ -464,14 +464,14 @@ Iki naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] įsigalioji
 ### 38 straipsnis. Grąžintų tyrimui papildyti bylų perdavimas į teismą ^s-b79fc3ec2d830a189a107068
 
 
-Atidavimo teismui ar teisminio nagrinėjimo stadijoje grąžintos tyrimui papildyti bylos vėl į teismą perduodamos naujojo Baudžiamojo proceso kodekso nustatyta tvarka, kai prokuroras (arba ikiteisminio tyrimo pareigūnas šio Įstatymo 32 straipsnyje numatytu atveju) surašo kaltinamąjį aktą pagal naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] taisykles, pareiškimą dėl proceso užbaigimo baudžiamuoju įsakymu arba nutarimą dėl galimybės taikyti priverčiamąsias medicinos priemones.
+Atidavimo teismui ar teisminio nagrinėjimo stadijoje grąžintos tyrimui papildyti bylos vėl į teismą perduodamos naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso nustatyta tvarka, kai prokuroras (arba ikiteisminio tyrimo pareigūnas šio Įstatymo 32 straipsnyje]] numatytu atveju) surašo kaltinamąjį aktą pagal naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] taisykles, pareiškimą dėl proceso užbaigimo baudžiamuoju įsakymu arba nutarimą dėl galimybės taikyti priverčiamąsias medicinos priemones.
 
 
 
 ### 39 straipsnis. Bylų, kuriose nuosprendžiai buvo panaikinti perduodant bylą iš naujo tirti, tyrimas ir perdavimas į teismą ^s-8e42ccea9a0c58cb49aa58a4
 
 
-Bylos, kuriose nuosprendžiai buvo panaikinti perduodant bylą iš naujo tirti, tiriamos ir į teismą perduodamos pagal naujojo Baudžiamojo proceso kodekso taisykles, kai prokuroras (arba ikiteisminio tyrimo pareigūnas šio Įstatymo 32 straipsnyje numatytu atveju) surašo kaltinamąjį aktą pagal naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] taisykles, pareiškimą dėl proceso užbaigimo baudžiamuoju įsakymu arba nutarimą dėl galimybės taikyti priverčiamąsias medicinos priemones.
+Bylos, kuriose nuosprendžiai buvo panaikinti perduodant bylą iš naujo tirti, tiriamos ir į teismą perduodamos pagal naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso taisykles, kai prokuroras (arba ikiteisminio tyrimo pareigūnas šio Įstatymo 32 straipsnyje]] numatytu atveju) surašo kaltinamąjį aktą pagal naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] taisykles, pareiškimą dėl proceso užbaigimo baudžiamuoju įsakymu arba nutarimą dėl galimybės taikyti priverčiamąsias medicinos priemones.
 
 
 
@@ -516,7 +516,7 @@ Jeigu pagal naująjį Baudžiamąjį kodeksą perkvalifikuojama nusikalstama vei
 ### 45 straipsnis. Pagal senąjį Baudžiamąjį kodeksą nuteistų asmenų teisė pateikti prašymą dėl nusikalstamos veikos perkvalifikavimo, bausmės sutrumpinimo (sumažinimo) ar teistumo termino sutrumpinimo ^s-741b45d96fbd0379e7f042bc
 
 
-1. Pagal senąjį Baudžiamąjį kodeksą nuteisti asmenys, kurių kasaciniai skundai iki naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] įsigaliojimo jau buvo išnagrinėti arba jeigu jau yra pasibaigę kasacinio skundo padavimo terminai, iki teistumo išnykimo momento turi teisę kreiptis į pirmosios instancijos teismą, o jei bylą pirmąja instancija nagrinėjo Lietuvos Aukščiausiasis Teismas – į apygardos teismą pagal nusikaltimo padarymo vietą, prašydami perkvalifikuoti nusikalstamą veiką ir (ar) sutrumpinti (sumažinti) bausmę arba sutrumpinti teistumo terminą, jei šio asmens byloje taikytinos naujojo Baudžiamojo kodekso normos, švelninančios bausmę arba kitokiu būdu lengvinančios nusikalstamą veiką padariusio asmens teisinę padėtį, palygti su toje byloje taikytomis senojo Baudžiamojo kodekso normomis. Tokie prašymai nagrinėjami ir sprendimai priimami naujojo Baudžiamojo proceso kodekso 362 straipsnyje numatyta tvarka. ^s-75c6d93cba5e98c408c57137
+1. Pagal senąjį Baudžiamąjį kodeksą nuteisti asmenys, kurių kasaciniai skundai iki naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] įsigaliojimo jau buvo išnagrinėti arba jeigu jau yra pasibaigę kasacinio skundo padavimo terminai, iki teistumo išnykimo momento turi teisę kreiptis į pirmosios instancijos teismą, o jei bylą pirmąja instancija nagrinėjo Lietuvos Aukščiausiasis Teismas – į apygardos teismą pagal nusikaltimo padarymo vietą, prašydami perkvalifikuoti nusikalstamą veiką ir (ar) sutrumpinti (sumažinti) bausmę arba sutrumpinti teistumo terminą, jei šio asmens byloje taikytinos naujojo Baudžiamojo kodekso normos, švelninančios bausmę arba kitokiu būdu lengvinančios nusikalstamą veiką padariusio asmens teisinę padėtį, palygti su toje byloje taikytomis senojo Baudžiamojo kodekso normomis. Tokie prašymai nagrinėjami ir sprendimai priimami naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso 362 straipsnyje]] numatyta tvarka. ^s-75c6d93cba5e98c408c57137
 
 
 2. Teismų nutartys, priimtos išnagrinėjus pagal senąjį Baudžiamąjį kodeksą nuteistų asmenų prašymus, nurodytus [[#^s-75c6d93cba5e98c408c57137|šio straipsnio 1 dalyje]], gali būti skundžiamos naujojo [[latest/TAR.EC588C321777#^s-738c64c66c1ff2bed26b8643|Baudžiamojo proceso kodekso 364 straipsnio]] nustatyta tvarka. ^s-1ea5ba64e874c2cdf78cc153
@@ -603,7 +603,7 @@ Jeigu pagal naująjį Baudžiamąjį kodeksą perkvalifikuojama nusikalstama vei
 6) proceso baigimo pagreitinto proceso tvarka rekomendacijas; ^s-0045299c95e51bf20b0ba840
 
 
-7) naujojo Baudžiamojo proceso kodekso 169 ir 171 straipsnių taikymo rekomendacijas; ^s-56a8d59a515b43e8c4afd334
+7) naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] [[latest/TAR.EC588C321777#^s-2d648a20d2d56c4cf12cabc3|169]] ir [[latest/TAR.EC588C321777|171]] straipsnių taikymo rekomendacijas; ^s-56a8d59a515b43e8c4afd334
 
 
 8) nusikalstamų veikų tyrimo paskirstymo ikiteisminio tyrimo įstaigoms rekomendacijas; ^s-c147f3890d1fd443c349ed69
@@ -645,4 +645,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1498, 2003-04-10, Žin., 2003, Nr. 38-1736 (2003-04-24), i. k. [[latest/TAR.0AC9AE7456EC|1031010ISTA0IX-1498]]
-Lietuvos Respublikos baudžiamojo kodekso, patvirtinto [[latest/TAR.2B866DFF7D43|2000 m. rugsėjo 26 d. įstatymu Nr. VIII-1968]], [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]], patvirtinto [[latest/TAR.EC588C321777|2002 m. kovo 14 d. įstatymu Nr. IX-785]], ir [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso]], patvirtinto [[latest/TAR.A0A0CCC6B997|2002 m. birželio 27 d. įstatymu Nr. IX-994]], įsigaliojimo ir įgyvendinimo tvarkos įstatymo 13 ir [[#^s-c73a79f18ba97e5597ef3123|36 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos baudžiamojo kodekso, patvirtinto [[latest/TAR.2B866DFF7D43|2000 m. rugsėjo 26 d. įstatymu Nr. VIII-1968]], Baudžiamojo proceso kodekso, patvirtinto [[latest/TAR.EC588C321777|2002 m. kovo 14 d. įstatymu Nr. IX-785]], ir Bausmių vykdymo kodekso, patvirtinto [[latest/TAR.A0A0CCC6B997|2002 m. birželio 27 d. įstatymu Nr. IX-994]], įsigaliojimo ir įgyvendinimo tvarkos įstatymo [[#^s-413a9cff2da27d7ab3b0387d|13]] ir [[#^s-c73a79f18ba97e5597ef3123|36]] straipsnių pakeitimo įstatymas

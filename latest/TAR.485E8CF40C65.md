@@ -70,7 +70,7 @@ ODONTOLOGIJOS PRAKTIKOS ĮSTATYMO 2 STRAIPSNIO PAKEITIMAS
 
 
 ### TREČIASIS SKIRSNIS ^s-654e10235b87f0c1bd2df82c
-[[latest/TAR.E2B2957B9182#^s-5d1de7affca655ef5fa787dc|SVEIKATOS SISTEMOS ĮSTATYMO 3, 4, 27, 48 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.E2B2957B9182|SVEIKATOS SISTEMOS ĮSTATYMO]] [[latest/TAR.E2B2957B9182#^s-0929ce65e509f517228c1c45|3]], [[latest/TAR.E2B2957B9182#^s-5d7355241a352146948d606f|4]], [[latest/TAR.E2B2957B9182#^s-be2e08f37cdfb932fe013d32|27]], [[latest/TAR.E2B2957B9182#^s-5d1de7affca655ef5fa787dc|48]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1994, Nr. 63-1231; 1998, Nr. 112-3099; 2001, Nr. 62-2225; 2004, Nr. 4-38)
 
@@ -137,7 +137,7 @@ Savivaldybė organizuoja ir remia žmonių su psichine negalia slaugą ir globą
 
 
 ### PENKTASIS SKIRSNIS ^s-e571a63ed8dc5b4c74c24cdf
-NARKOLOGINĖS PRIEŽIŪROS ĮSTATYMO 12, 20, 22, 23 STRAIPSNIŲ PAKEITIMAS
+[NARKOLOGINĖS PRIEŽIŪROS ĮSTATYMO](https://e-tar.lt/portal/lt/legalAct/TAR.39D96F1C8B69) [12](https://e-tar.lt/portal/lt/legalAct/TAR.39D96F1C8B69), [20](https://e-tar.lt/portal/lt/legalAct/TAR.39D96F1C8B69), [22](https://e-tar.lt/portal/lt/legalAct/TAR.39D96F1C8B69), [23](https://e-tar.lt/portal/lt/legalAct/TAR.39D96F1C8B69) STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1997, Nr. 30-711)
 

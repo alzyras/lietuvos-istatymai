@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją į
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.5F9F5C944DB1#^s-7b5ca64023fc7fe28e381188|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas]] - 14 straipsnio 3 dalies 2 punktą
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.5F9F5C944DB1#^s-85843bfdf094f7c4d3edd246|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas]] - Įstatymas Nr. XIV-2066
-- [[latest/TAR.5F9F5C944DB1#^s-eed6ad4909abcf9902c1eca7|Lietuvos Respublikos atsiskaitymo už žemės ūkio produkciją įstatymas]] - Įstatymas Nr. XIV-2066
+_Nėra._

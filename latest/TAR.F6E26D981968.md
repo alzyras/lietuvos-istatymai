@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-6e3d0d1597c012bdc4550a8f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. gruodžio 30 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl cheminio ginklo kūrimo, gamybos, kaupimo ir panaudojimo uždraudimo bei jo sunaikinimo“, ratifikuoja Konvenciją dėl cheminio ginklo kūrimo, gamybos, kaupimo ir panaudojimo uždraudimo bei jo sunaikinimo, pasirašytą 1993 m. sausio 13 d. Paryžiuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. gruodžio 30 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl cheminio ginklo kūrimo, gamybos, kaupimo ir panaudojimo uždraudimo bei jo sunaikinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.7ED923186189), ratifikuoja Konvenciją dėl cheminio ginklo kūrimo, gamybos, kaupimo ir panaudojimo uždraudimo bei jo sunaikinimo, pasirašytą 1993 m. sausio 13 d. Paryžiuje.
 
 
 

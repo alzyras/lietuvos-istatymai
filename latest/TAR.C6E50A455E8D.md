@@ -58,7 +58,7 @@ Pakeisti [[#^s-c63998c690549cf7bf658074|3 straipsnio]] pavadinimą ir [[#^s-0754
 1. Centras yra Priešgaisrinės apsaugos ir gelbėjimo departamentui prie Vidaus reikalų ministerijos pavaldi biudžetinė įstaiga. ^s-07540e7f3f651a92e69a9aa6
 
 
-2. Centras savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo įstatymu, Vidaus tarnybos statutu, kitais Lietuvos Respublikos įstatymais bei kitais teisės aktais. ^s-c58f1fa2ae119345d87ccfb4
+2. Centras savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, šiuo įstatymu, Vidaus tarnybos statutu, kitais Lietuvos Respublikos įstatymais bei kitais teisės aktais. ^s-c58f1fa2ae119345d87ccfb4
 
 
 3. Centrą steigia Priešgaisrinės apsaugos ir gelbėjimo departamentas prie Vidaus reikalų ministerijos įstatymų ir kitų teisės aktų nustatyta tvarka. Centro nuostatus tvirtina Priešgaisrinės apsaugos ir gelbėjimo departamento prie Vidaus reikalų ministerijos direktorius.“ ^s-1108811c840363e2901cfd94

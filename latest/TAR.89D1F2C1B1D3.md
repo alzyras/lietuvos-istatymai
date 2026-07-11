@@ -110,7 +110,7 @@ Vilnius
 2) pastatuose įrengtų šildymo katilų, naudojančių neatsinaujinantį kietąjį ar skystąjį kurą, kurių vardinė atiduodamoji galia yra didesnė kaip 100 kW, – kartą per dvejus metus; ^s-2dd159740d7060701a34d17d
 
 
-3) šildymo sistemų, kuriose įrengti 20 kW ir didesnės vardinės atiduodamosios galios šildymo katilai, naudojantys neatsinaujinantį kietąjį ar skystąjį kurą, – vieną kartą, kai šildymo sistemoje įrengto katilo tikrinimo pagal šios dalies 1 ir [[#^s-2dd159740d7060701a34d17d|2 punktų]] reikalavimus metu nuo šio katilo pagaminimo yra praėję daugiau kaip 15 metų; ^s-79df1eea3c5f5be5e375de4b
+3) šildymo sistemų, kuriose įrengti 20 kW ir didesnės vardinės atiduodamosios galios šildymo katilai, naudojantys neatsinaujinantį kietąjį ar skystąjį kurą, – vieną kartą, kai šildymo sistemoje įrengto katilo tikrinimo pagal šios dalies [[#^s-6d8b9210f6d43ecadb351050|1]] ir [[#^s-2dd159740d7060701a34d17d|2]] punktų reikalavimus metu nuo šio katilo pagaminimo yra praėję daugiau kaip 15 metų; ^s-79df1eea3c5f5be5e375de4b
 
 
 4) pastatuose įrengtų didesnės kaip 12 kW vardinės atiduodamosios galios oro kondicionavimo sistemų – kartą per trejus metus.“ ^s-d2504bcd606691aa81c82ad5

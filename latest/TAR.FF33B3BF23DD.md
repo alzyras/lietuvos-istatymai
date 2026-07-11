@@ -247,10 +247,10 @@ BENDROSIOS NUOSTATOS
 62. Vaistinio preparato rinkodaros pažymėjimo sąlygos – vaistinio preparato rinkodaros pažymėjimo ir dokumentų, kuriais remiantis jis išduotas, duomenų ir informacijos visuma. ^s-9122a768f95ca51b80267c38
 
 
-63. Vaistinio preparato rinkodaros pažymėjimo sąlygų keitimas -vaistinio preparato rinkodaros pažymėjimo sąlygų variacija, numatyta 2003 m. birželio 3 d. Komisijos reglamento (EB) Nr. 1084/2003 dėl valstybės narės kompetentingos institucijos išduoto leidimo prekiauti žmonėms skirtais vaistais ir veterinariniais vaistais sąlygų pakeitimo svarstymo, arba prie variacijų nepriskiriamas rinkodaros pažymėjimo sąlygų keitimas, nustatytas sveikatos apsaugos ministro. ^s-fdad6866743a7ef1b57894ce
+63. Vaistinio preparato rinkodaros pažymėjimo sąlygų keitimas -vaistinio preparato rinkodaros pažymėjimo sąlygų variacija, numatyta 2003 m. birželio 3 d. Komisijos [reglamento (EB) Nr. 1084/2003](https://eur-lex.europa.eu/eli/reg/1084/2003/oj) dėl valstybės narės kompetentingos institucijos išduoto leidimo prekiauti žmonėms skirtais vaistais ir veterinariniais vaistais sąlygų pakeitimo svarstymo, arba prie variacijų nepriskiriamas rinkodaros pažymėjimo sąlygų keitimas, nustatytas sveikatos apsaugos ministro. ^s-fdad6866743a7ef1b57894ce
 
 
-64. Vaistinio preparato rinkodaros pažymėjimo sąlygų papildymas – 2003 m. birželio 3 d. Komisijos reglamento (EB) Nr. 1084/2003 dėl valstybės narės kompetentingos institucijos išduoto leidimo prekiauti žmonėms skirtais vaistais ir veterinariniais vaistais sąlygų pakeitimo svarstymo numatytas vaistinio preparato veikliosios medžiagos modifikavimas, jo farmakokinetikos, stiprumo, farmacinės formos arba vartojimo būdo keitimas. ^s-1d15a77cb97a7b7450806707
+64. Vaistinio preparato rinkodaros pažymėjimo sąlygų papildymas – 2003 m. birželio 3 d. Komisijos [reglamento (EB) Nr. 1084/2003](https://eur-lex.europa.eu/eli/reg/1084/2003/oj) dėl valstybės narės kompetentingos institucijos išduoto leidimo prekiauti žmonėms skirtais vaistais ir veterinariniais vaistais sąlygų pakeitimo svarstymo numatytas vaistinio preparato veikliosios medžiagos modifikavimas, jo farmakokinetikos, stiprumo, farmacinės formos arba vartojimo būdo keitimas. ^s-1d15a77cb97a7b7450806707
 
 
 65. Vaistinio preparato rinkodaros teisė (toliau – rinkodaros teisė) – asmens teisė organizuoti vaistinio preparato tiekimą rinkai, reklamą ir rinkodaros valdymo priemones. ^s-0ae584fe10d09a2a4c79ab96
@@ -642,10 +642,10 @@ VAISTINIŲ PREPARATŲ TIEKIMAS RINKAI
 1. Vaistinio preparato rinkodaros teisę EEE valstybėje suteikia tos valstybės įgaliota institucija, iš karto visose Europos Sąjungos valstybėse (toliau – Bendrijoje) – Europos Komisija. ^s-97480926426c8257d78094e5
 
 
-2. Lietuvos Respublikoje vaistinių preparatų rinkodaros ir registracijos pažymėjimus išduoda, vaistinius preparatus perregistruoja, pažymėjimų papildymus ir jų sąlygų keitimus tvirtina, pažymėjimų galiojimą sustabdo, pažymėjimų galiojimo sustabdymą panaikina ar pažymėjimų galiojimą panaikina ir Lietuvos Respublikos vaistinių preparatų registrą sveikatos apsaugos ministro nustatyta tvarka tvarko Valstybinė vaistų kontrolės tarnyba. Vaistinių preparatų rinkodaros pažymėjimų sąlygų variacijos tvirtinamos 2003 m. birželio 3 d. Europos Komisijos reglamento (EB) Nr. 1084/2003 dėl valstybės narės kompetentingos institucijos išduoto leidimo prekiauti žmonėms skirtais vaistais ir veterinariniais vaistais sąlygų pakeitimo svarstymo nustatyta tvarka. ^s-b4c868eec3d978c3067ba08d
+2. Lietuvos Respublikoje vaistinių preparatų rinkodaros ir registracijos pažymėjimus išduoda, vaistinius preparatus perregistruoja, pažymėjimų papildymus ir jų sąlygų keitimus tvirtina, pažymėjimų galiojimą sustabdo, pažymėjimų galiojimo sustabdymą panaikina ar pažymėjimų galiojimą panaikina ir Lietuvos Respublikos vaistinių preparatų registrą sveikatos apsaugos ministro nustatyta tvarka tvarko Valstybinė vaistų kontrolės tarnyba. Vaistinių preparatų rinkodaros pažymėjimų sąlygų variacijos tvirtinamos 2003 m. birželio 3 d. Europos Komisijos [reglamento (EB) Nr. 1084/2003](https://eur-lex.europa.eu/eli/reg/1084/2003/oj) dėl valstybės narės kompetentingos institucijos išduoto leidimo prekiauti žmonėms skirtais vaistais ir veterinariniais vaistais sąlygų pakeitimo svarstymo nustatyta tvarka. ^s-b4c868eec3d978c3067ba08d
 
 
-3. Rinkodaros teisė suteikiama tam tikro stiprumo ir farmacinės formos vaistiniam preparatui. Kiti stiprumai, farmacinės formos, vartojimo būdai, prezentacijos (pvz., dozuočių skaičius pakuotėje ir pakuotės dizainas), rinkodaros pažymėjimo papildymai ir variacijos laikomi priklausančiais bendrajai rinkodaros teisei. Šio įstatymo [[#^s-55ac260ccda5185419891824|11 straipsnio]] 5 ir [[#^s-7c493f3c70a60e9ef90cd66c|6 dalyse]] nurodyti duomenų ir rinkos išskirtinumo periodai skaičiuojami nuo pirmosios rinkodaros teisės suteikimo (toliau – pradinė rinkodaros teisė). ^s-b0e983bbcfccaed5f64bf47b
+3. Rinkodaros teisė suteikiama tam tikro stiprumo ir farmacinės formos vaistiniam preparatui. Kiti stiprumai, farmacinės formos, vartojimo būdai, prezentacijos (pvz., dozuočių skaičius pakuotėje ir pakuotės dizainas), rinkodaros pažymėjimo papildymai ir variacijos laikomi priklausančiais bendrajai rinkodaros teisei. Šio įstatymo [[#^s-55ac260ccda5185419891824|11 straipsnio]] [[#^s-da38b3c1073dc0e0e9e0e7c4|5]] ir [[#^s-51eafff6ef8418d0540a334e|6]] dalyse nurodyti duomenų ir rinkos išskirtinumo periodai skaičiuojami nuo pirmosios rinkodaros teisės suteikimo (toliau – pradinė rinkodaros teisė). ^s-b0e983bbcfccaed5f64bf47b
 
 
 4. Vaistinių preparatų rinkodaros teisė gali būti suteikiama asmenims, kurie įsteigti EEE valstybėje ir atitinka šio įstatymo ir kitų teisės aktų nustatytus reikalavimus. ^s-454a3a0deb202c5be16d3056
@@ -752,7 +752,7 @@ VAISTINIŲ PREPARATŲ TIEKIMAS RINKAI
 12. Papildomas nesumuojamas vienų metų duomenų išimtinumo laikotarpis suteikiamas pripažinto medicininio vartojimo naujai veikliosios medžiagos indikacijai, jeigu dėl jos atlikti reikšmingi ikiklinikiniai ir klinikiniai tyrimai. ^s-c61387e72d3d584e46a053d2
 
 
-13. Būtinų studijų ir tyrimų atlikimas, norint pateikti paraišką registruoti vaistinį preparatą Lietuvos Respublikoje pagal šio straipsnio 5, 10 ir [[#^s-cd5b343fa721c9a0709527b1|11 dalis]] ar Bendrijos vaistinių preparatų registre pagal Reglamentą (EB) Nr. 726/2004 arba kitose valstybėse pagal tų valstybių teisės aktų reikalavimus, ir su jais susiję praktiniai poreikiai nepažeidžia vaistinių preparatų patento ar papildomos apsaugos liudijimų suteikiamų teisių, numatytų [[latest/TAR.07786E0929A8|Lietuvos Respublikos patentų įstatyme]] ir kituose teisės aktuose, reglamentuojančiuose pramoninės nuosavybės apsaugą. ^s-0e0d5a151368e2476daf5e78
+13. Būtinų studijų ir tyrimų atlikimas, norint pateikti paraišką registruoti vaistinį preparatą Lietuvos Respublikoje pagal šio straipsnio [[#^s-da38b3c1073dc0e0e9e0e7c4|5]], [[#^s-a43dc07afe08be727b080821|10]] ir [[#^s-cd5b343fa721c9a0709527b1|11]] dalis ar Bendrijos vaistinių preparatų registre pagal Reglamentą (EB) Nr. 726/2004 arba kitose valstybėse pagal tų valstybių teisės aktų reikalavimus, ir su jais susiję praktiniai poreikiai nepažeidžia vaistinių preparatų patento ar papildomos apsaugos liudijimų suteikiamų teisių, numatytų [[latest/TAR.07786E0929A8|Lietuvos Respublikos patentų įstatyme]] ir kituose teisės aktuose, reglamentuojančiuose pramoninės nuosavybės apsaugą. ^s-0e0d5a151368e2476daf5e78
 
 
 14. Nepažeidžiant teisės aktų, reglamentuojančių pramoninės nuosavybės ir komercinių paslapčių apsaugą, ikiklinikinių ar klinikinių tyrimų rezultatų galima nepateikti įrodžius, kad teikiamo registruoti vaistinio preparato veikliosios medžiagos (medžiagų) vartojimas Bendrijos medicinos praktikoje yra pripažintas ne trumpiau kaip 10 metų ir, remiantis sveikatos apsaugos ministro nustatytų vaistinių preparatų analitinių, farmakotoksikologinių ir klinikinių tyrimų standartų ir protokolų reikalavimais, įrodytas jos veiksmingumas ir priimtinas saugumas. Šiuo atveju vietoj ikiklinikinių ir klinikinių tyrimų rezultatų pateikiama atitinkama mokslinė literatūra. ^s-9812a33979b966b330829218
@@ -931,7 +931,7 @@ Vaistinio preparato rinkodaros teisė nesuteikiama, jeigu atlikus pareiškėjo p
 2. Sveikatos apsaugos ministras, atsižvelgdamas į Lietuvos Respublikos homeopatijos tradicijas ir sveikatos priežiūros poreikius, homeopatiniams preparatams, išskyrus nurodytus [[#^s-4f37725ae43b086ccf7b4c23|šio straipsnio 1 dalyje]], gali patvirtinti specialią registravimo procedūrą, nustatydamas specifinius ikiklinikinių ir klinikinių tyrimų reikalavimus. Jei tokia procedūra patvirtinama, apie tai informuojama Europos Komisija. ^s-47ea183c9a1bc4686d8f9ca1
 
 
-3. Homeopatiniai vaistiniai preparatai, nenurodyti šio straipsnio 1 ir [[#^s-47ea183c9a1bc4686d8f9ca1|2 dalyse]], registruojami šio įstatymo [[#^s-55ac260ccda5185419891824|11 straipsnio]] nustatyta tvarka. ^s-d7246d3ef5acab9301a8f58c
+3. Homeopatiniai vaistiniai preparatai, nenurodyti šio straipsnio [[#^s-4f37725ae43b086ccf7b4c23|1]] ir [[#^s-47ea183c9a1bc4686d8f9ca1|2]] dalyse, registruojami šio įstatymo [[#^s-55ac260ccda5185419891824|11 straipsnio]] nustatyta tvarka. ^s-d7246d3ef5acab9301a8f58c
 
 
 4. Tradiciniams augaliniams preparatams, atitinkantiems sveikatos apsaugos ministro nustatytus kriterijus, taikoma supaprastinta tradicinių augalinių preparatų registravimo procedūra, išskyrus atvejį, kai Valstybinė vaistų kontrolės tarnyba nusprendžia, kad toks preparatas atitinka registracijos pagal šio įstatymo [[#^s-55ac260ccda5185419891824|11 straipsnį]] kriterijus. ^s-a3286e4a87a85a26ef6b1fb4
@@ -1808,13 +1808,13 @@ INFORMACIJA APIE VAISTINIUS PREPARATUS
 4. Farmacinę informaciją, kurioje lyginami keli vaistiniai preparatai, iš kurių bent vienas yra receptinis, galima pateikti tik sveikatos priežiūros ir farmacijos specialistams. ^s-7a2f8ce3abf119d6c220a1f8
 
 
-5. Teikiant farmacinę informaciją apie receptinius vaistinius preparatus per radiją ir televiziją bei leidiniuose, galima vartoti tik bendrinius vaistinių preparatų pavadinimus, išskyrus atvejus, kai farmacinė informacija yra rengiama ir skelbiama vykdant [[#^s-43c5fcf15f4124baeec098a4|66 straipsnio]] 5 ir [[#^s-6c777b426e1a5e61d50a9274|7 dalių]] bei [[#^s-22991e6cdb73bcd92d2002d5|67 straipsnio]] nuostatų reikalavimus. ^s-e221457b4e147565469f3f49
+5. Teikiant farmacinę informaciją apie receptinius vaistinius preparatus per radiją ir televiziją bei leidiniuose, galima vartoti tik bendrinius vaistinių preparatų pavadinimus, išskyrus atvejus, kai farmacinė informacija yra rengiama ir skelbiama vykdant [[#^s-43c5fcf15f4124baeec098a4|66 straipsnio]] [[#^s-5f256b000610be5bae96ccdb|5]] ir [[#^s-4349b3b524524848f0c92f72|7]] dalių bei [[#^s-22991e6cdb73bcd92d2002d5|67 straipsnio]] nuostatų reikalavimus. ^s-e221457b4e147565469f3f49
 
 
 6. [[#^s-e221457b4e147565469f3f49|Šio straipsnio 5 dalies]] nuostatos netaikomos vaistinių preparatų pavadinimams, nurodomiems moksliniuose straipsniuose, kurie skelbiami Mokslinės informacijos instituto referuojamuose leidiniuose ir kitose pripažintose tarptautinėse duomenų bazėse, kurių sąrašą sudaro Lietuvos mokslo taryba, monografijose, vadovėliuose, metodiniuose ir kituose mokslo leidiniuose. ^s-66d130f8e5e27804ff5deca6
 
 
-7. Farmacinę informaciją apie vaistinių preparatų savybes ruošti gali tik atitinkamas biomedicinos mokslų studijas, kurių sąrašą tvirtina sveikatos apsaugos ministras, baigę asmenys, išskyrus atvejus, kai farmacinė informacija yra rengiama ir skelbiama vykdant [[#^s-43c5fcf15f4124baeec098a4|66 straipsnio]] 5 ir [[#^s-6c777b426e1a5e61d50a9274|7 dalių]] bei [[#^s-22991e6cdb73bcd92d2002d5|67 straipsnio]] nuostatų reikalavimus. ^s-6c777b426e1a5e61d50a9274
+7. Farmacinę informaciją apie vaistinių preparatų savybes ruošti gali tik atitinkamas biomedicinos mokslų studijas, kurių sąrašą tvirtina sveikatos apsaugos ministras, baigę asmenys, išskyrus atvejus, kai farmacinė informacija yra rengiama ir skelbiama vykdant [[#^s-43c5fcf15f4124baeec098a4|66 straipsnio]] [[#^s-5f256b000610be5bae96ccdb|5]] ir [[#^s-4349b3b524524848f0c92f72|7]] dalių bei [[#^s-22991e6cdb73bcd92d2002d5|67 straipsnio]] nuostatų reikalavimus. ^s-6c777b426e1a5e61d50a9274
 
 
 8. Vaistinio preparato rinkodaros teisės turėtojas bent vienoje EEE valstybėje turi įsteigti mokslo tarnybą, kuri kauptų informaciją apie tiekiamus rinkai vaistinius preparatus. ^s-eea4394c87da90a6b121add4
@@ -2051,7 +2051,7 @@ Vaistinio preparato rinkodaros teisės turėtojas turi:
 4. Periodiškai atnaujinami saugumo protokolai pateikiami kas 6 mėnesius po pirmosios rinkodaros teisės suteikimo dienos iki preparato tiekimo rinkai, dvejus metus po pirmojo patiekimo rinkai ne rečiau kaip kas 6 mėnesius, vėliau dvejus metus vieną kartą per metus, po to kas 3 metus. Be to, protokolai pateikiami nedelsiant, Valstybinės vaistų kontrolės tarnybos reikalavimu. ^s-d7a9e800d38efbd94ff05fcf
 
 
-5. Vaistinio preparato rinkodaros teisės turėtojas gali prašyti Valstybinę vaistų kontrolės tarnybą patikslinti periodiškai atnaujinamų protokolų teikimo terminus pagal 2003 m. birželio 3 d. Komisijos reglamente (EB) Nr. 1084/2003 dėl valstybės narės kompetentingos institucijos išduoto leidimo prekiauti žmonėms skirtais vaistais ir veterinariniais vaistais sąlygų pakeitimo svarstymo nurodytas procedūras. ^s-70791423968db0a0e6264464
+5. Vaistinio preparato rinkodaros teisės turėtojas gali prašyti Valstybinę vaistų kontrolės tarnybą patikslinti periodiškai atnaujinamų protokolų teikimo terminus pagal 2003 m. birželio 3 d. Komisijos [reglamente (EB) Nr. 1084/2003](https://eur-lex.europa.eu/eli/reg/1084/2003/oj) dėl valstybės narės kompetentingos institucijos išduoto leidimo prekiauti žmonėms skirtais vaistais ir veterinariniais vaistais sąlygų pakeitimo svarstymo nurodytas procedūras. ^s-70791423968db0a0e6264464
 
 
 6. Rinkodaros teisės turėtojas negali teikti visuomenei informacijos, susijusios su farmakologiniu budrumu, iš anksto ar tuo pačiu metu nepranešęs Valstybinei vaistų kontrolės tarnybai. Jis turi užtikrinti, kad tokia informacija yra objektyvi ir neklaidinanti. ^s-49e37fd555712d3667065fa1
@@ -2364,7 +2364,7 @@ SANKCIJOS DĖL VAISTINIO PREPARATO IR MEDICININĖS PASKIRTIES PRODUKTO RINKODARO
 7. Panaikinus vaistinio preparato rinkodaros ar registracijos pažymėjimo galiojimą pagal šį straipsnį, preparatas turi būti atšauktas iš rinkos. ^s-4349b3b524524848f0c92f72
 
 
-8. Vaistinio preparato rinkodaros teisės turėtojas užtikrina šio straipsnio 6 ir [[#^s-4349b3b524524848f0c92f72|7 dalių]] nuostatų įgyvendinimą. ^s-e8d028adf6dd15bf5448ed88
+8. Vaistinio preparato rinkodaros teisės turėtojas užtikrina šio straipsnio [[#^s-181dfcbb0f4e0b25d58996b1|6]] ir [[#^s-4349b3b524524848f0c92f72|7]] dalių nuostatų įgyvendinimą. ^s-e8d028adf6dd15bf5448ed88
 
 
 
@@ -2474,7 +2474,7 @@ TARPTAUTINIS BENDRADARBIAVIMAS
 9) pranešti Europos vaistų agentūrai informaciją, gautą iš vaistinių preparatų rinkodaros teisės turėtojo dėl laikino vaistinio preparato tiekimo rinkai sustabdymo arba jo atšaukimo iš rinkos; ^s-f8295d207146801737cc4ace
 
 
-10) nedelsdama pranešti Pasaulinei sveikatos organizacijai apie [[#^s-e97c7ba2453a12717cdd071f|šio straipsnio 1 dalies]] 7 ir [[#^s-f8295d207146801737cc4ace|9 punktuose]] nurodytus veiksmus, jeigu jie gali turėti įtakos sveikatos apsaugai trečiosiose šalyse, ir nusiųsti pranešimo kopiją Europos vaistų agentūrai. ^s-acc039ba76e2d9fba4094bd5
+10) nedelsdama pranešti Pasaulinei sveikatos organizacijai apie [[#^s-e97c7ba2453a12717cdd071f|šio straipsnio 1 dalies]] [[#^s-6633d1c4a4381601c37a9e1c|7]] ir [[#^s-f8295d207146801737cc4ace|9]] punktuose nurodytus veiksmus, jeigu jie gali turėti įtakos sveikatos apsaugai trečiosiose šalyse, ir nusiųsti pranešimo kopiją Europos vaistų agentūrai. ^s-acc039ba76e2d9fba4094bd5
 
 
 2. Valstybinė vaistų kontrolės tarnyba, gavusi gamintojo, eksportuotojo ar importuojančios trečiosios šalies įgaliotos institucijos prašymą patvirtinti, ar vaistinių preparatų gamintojas turi gamybos licenciją, išduoda tai patvirtinantį pažymėjimą. Tais atvejais, kai gamybos licencijos turėtojas nėra rinkodaros teisės turėtojas, Valstybinės vaistų kontrolės tarnybai jis turi pateikti paaiškinimą, kodėl neturi rinkodaros teisės. ^s-a0a84d59ef1eca8ee4f86f10
@@ -2840,37 +2840,37 @@ Lietuvos Respublikos Vyriausybė ir kitos Įstatyme nurodytos valstybės institu
 Įsigaliojus šiam įstatymui, netenka galios:
 
 
-1) Lietuvos Respublikos farmacinės veiklos įstatymas (Žin., 1991, Nr. 6-161); ^s-12959c95c30147ae0e62d450
+1) [Lietuvos Respublikos farmacinės veiklos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C) (Žin., 1991, Nr. 6-161); ^s-12959c95c30147ae0e62d450
 
 
-2) Įstatymas „Dėl Lietuvos Respublikos farmacinės veiklos įstatymo pakeitimo ir papildymo“ (Žin., 1993, Nr. 29- 666); ^s-0ad64867cd4992f9a8bfb098
+2) Įstatymas [„Dėl Lietuvos Respublikos farmacinės veiklos įstatymo pakeitimo ir papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.4A27F4A4DF52) (Žin., 1993, Nr. 29- 666); ^s-0ad64867cd4992f9a8bfb098
 
 
-3) Lietuvos Respublikos farmacinės veiklos įstatymo 1, 5, 7, 10, 12, 14, 16, 17, 19, 21, 22, 23, [[#^s-f8dff1ac8be854bae1c819c3|24 straipsnių]] pakeitimo ir papildymo [[#^s-c7644f09181894f143053efe|25 straipsniu]] įstatymas (Žin., 1996, Nr. 69-1667); ^s-fb2a9d83055265f7b930d0f5
+3) [Lietuvos Respublikos farmacinės veiklos įstatymo 1, 5, 7, 10, 12, 14, 16, 17, 19, 21, 22, 23, 24 straipsnių pakeitimo ir papildymo 25 straipsniu įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.13D7C6CA7468) (Žin., 1996, Nr. 69-1667); ^s-fb2a9d83055265f7b930d0f5
 
 
-4) Lietuvos Respublikos farmacinės veiklos įstatymo 10, [[#^s-7b8921773b371157c0c5fd35|14 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 1997, Nr. 58-1332); ^s-fc449ee5368e486ebf674122
+4) [Lietuvos Respublikos farmacinės veiklos įstatymo 10, 14 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.B03121FC1E8F) (Žin., 1997, Nr. 58-1332); ^s-fc449ee5368e486ebf674122
 
 
-5) Lietuvos Respublikos farmacinės veiklos įstatymo 17, 21, 22, 23, [[#^s-f8dff1ac8be854bae1c819c3|24 straipsnių]] pakeitimo įstatymas (Žin., 2000, Nr. 61-1813); ^s-39d3838c1726f978ba79713d
+5) [Lietuvos Respublikos farmacinės veiklos įstatymo 17, 21, 22, 23, 24 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.D062CEF3E7A4) (Žin., 2000, Nr. 61-1813); ^s-39d3838c1726f978ba79713d
 
 
-6) Lietuvos Respublikos farmacinės veiklos įstatymo 1, 4, 5, 10, 11, 15, 17, 19, [[#^s-25541072b4da9e1c4cf96884|20 straipsnių]] pakeitimo ir Įstatymo papildymo 101, 171 straipsniais įstatymas (Žin., 2002, Nr. 58-2348); ^s-e61ed7610e43b0f78d5feac3
+6) [Lietuvos Respublikos farmacinės veiklos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C) [1](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [4](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [5](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [10](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [11](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [15](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [17](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [19](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [20](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C) straipsnių pakeitimo ir Įstatymo papildymo 101, 171 straipsniais įstatymas (Žin., 2002, Nr. 58-2348); ^s-e61ed7610e43b0f78d5feac3
 
 
-7) Lietuvos Respublikos farmacinės veiklos įstatymo preambulės, 1, 2, 4, 5, 6, 7, 8, 101, 13, 14, 16, 19, 20, 21, 22, 24, [[#^s-c7644f09181894f143053efe|25 straipsnių]] pakeitimo ir Įstatymo papildymo 102, 191, 201, 202, 203 straipsniais bei priedu įstatymas (Žin., 2004, Nr. 73- 2536); ^s-3118845a2dedcee4e1285f6b
+7) [Lietuvos Respublikos farmacinės veiklos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C) preambulės, [1](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [2](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [4](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [5](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [6](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [7](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [8](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [101](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [13](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [14](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [16](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [19](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [20](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [21](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [22](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [24](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C), [25](https://e-tar.lt/portal/lt/legalAct/TAR.5DE7219AB40C) straipsnių pakeitimo ir Įstatymo papildymo 102, 191, 201, 202, 203 straipsniais bei priedu įstatymas (Žin., 2004, Nr. 73- 2536); ^s-3118845a2dedcee4e1285f6b
 
 
-8) Lietuvos Respublikos vaistų įstatymas (Žin., 1996, Nr. 116-2701); ^s-2c12cbdd0654e86a0c0d647b
+8) [Lietuvos Respublikos vaistų įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.DED6F61055E5) (Žin., 1996, Nr. 116-2701); ^s-2c12cbdd0654e86a0c0d647b
 
 
-9) Lietuvos Respublikos vaistų įstatymo [[#^s-55ac260ccda5185419891824|11 straipsnio]] pakeitimo įstatymas (Žin., 2000, Nr. 44-1246); ^s-0fc03264eee3c817fe42a7d6
+9) [Lietuvos Respublikos vaistų įstatymo 11 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.C5E04BD11171) (Žin., 2000, Nr. 44-1246); ^s-0fc03264eee3c817fe42a7d6
 
 
-10) Lietuvos Respublikos vaistų įstatymo 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, [[#^s-7b8921773b371157c0c5fd35|14 straipsnių]] pakeitimo įstatymas (Žin., 2000, Nr. 61-1809); ^s-e6e3b75affbd5305282fd9e2
+10) [Lietuvos Respublikos vaistų įstatymo 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.F06072D9C612) (Žin., 2000, Nr. 61-1809); ^s-e6e3b75affbd5305282fd9e2
 
 
-11) Lietuvos Respublikos vaistų įstatymo 2, 3, [[#^s-55ac260ccda5185419891824|11 straipsnių]] pakeitimo ir Įstatymo papildymo priedu įstatymas (Žin., 2004, Nr. 68-2373). ^s-7748d57ed6ebc022c07acddb
+11) [Lietuvos Respublikos vaistų įstatymo 2, 3, 11 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.343B8D8729AC) (Žin., 2004, Nr. 68-2373). ^s-7748d57ed6ebc022c07acddb
 
 
 

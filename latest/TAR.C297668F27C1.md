@@ -1183,10 +1183,10 @@ Pakeisti 129 straipsnį ir jį išdėstyti taip:
 ### 46 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-7d3c9cc2b42567256cfb5c4d
 
 
-1. Šis įstatymas, išskyrus šio įstatymo 4 ir [[#^s-de8624f03280cca46da80a0f|31 straipsnius]], [[#^s-73eba71b1ffb5a64cc0e86d4|32 straipsniu]] keičiamo [[latest/TAR.522B3E415B52#^s-3185964d93e53edcd904dad6|Teismų įstatymo 107 straipsnio]] 1 ir [[#^s-57cb8b8651102bd335a1c0c5|2 dalis]], įsigalioja 2008 m. rugsėjo 1 d. ^s-ab2b27de05491da89a0a5bcb
+1. Šis įstatymas, išskyrus šio įstatymo [[#^s-ccbb5ac87b880472a2493cd7|4]] ir [[#^s-de8624f03280cca46da80a0f|31]] straipsnius, [[#^s-73eba71b1ffb5a64cc0e86d4|32 straipsniu]] keičiamo [[latest/TAR.522B3E415B52#^s-3185964d93e53edcd904dad6|Teismų įstatymo 107 straipsnio]] [[latest/TAR.522B3E415B52#^s-2b15382e202a5b385df9dfc2|1]] ir [[latest/TAR.522B3E415B52#^s-20c865d69ddb34a62f28ceec|2]] dalis, įsigalioja 2008 m. rugsėjo 1 d. ^s-ab2b27de05491da89a0a5bcb
 
 
-2. Šio įstatymo [[#^s-de8624f03280cca46da80a0f|31 straipsnis]], [[#^s-73eba71b1ffb5a64cc0e86d4|32 straipsniu]] keičiamo [[latest/TAR.522B3E415B52#^s-2b15382e202a5b385df9dfc2|Teismų įstatymo 107 straipsnio 1 dalis]] įsigalioja 2015 m. sausio 1 d., [[#^s-57cb8b8651102bd335a1c0c5|2 dalis]] – 2012 m. sausio 1 d. ^s-57cb8b8651102bd335a1c0c5
+2. Šio įstatymo [[#^s-de8624f03280cca46da80a0f|31 straipsnis]], [[#^s-73eba71b1ffb5a64cc0e86d4|32 straipsniu]] keičiamo [[latest/TAR.522B3E415B52#^s-2b15382e202a5b385df9dfc2|Teismų įstatymo 107 straipsnio 1 dalis]] įsigalioja 2015 m. sausio 1 d., 2 dalis – 2012 m. sausio 1 d. ^s-57cb8b8651102bd335a1c0c5
 Straipsnio dalies pakeitimai:
 Nr. XI-587, 2009-12-21, Žin., 2009, Nr. 154-6957 (2009-12-28), i. k. [[latest/TAR.661BEC933140|1091010ISTA00XI-587]]
 Nr. XI-1754, 2011-12-01, Žin., 2011, Nr. 150-7053 (2011-12-08), i. k. [[latest/TAR.ADB2EB25A2BB|1111010ISTA0XI-1754]]
@@ -1257,25 +1257,25 @@ Nr. XI-1754, 2011-12-01, Žin., 2011, Nr. 150-7053 (2011-12-08), i. k. [[latest/
 Įsigaliojus šiam įstatymui, netenka galios šie teisės aktai:
 
 
-1) Lietuvos Aukščiausiojo Teismo statutas (Žin., 1995, Nr. 36-887); ^s-eccb1c045865993e44662a2a
+1) [Lietuvos Aukščiausiojo Teismo statutas](https://e-tar.lt/portal/lt/legalAct/TAR.1DAB8BD6385D) (Žin., 1995, Nr. 36-887); ^s-eccb1c045865993e44662a2a
 
 
-2) Lietuvos Respublikos Lietuvos Aukščiausiojo Teismo statuto [[#^s-407062e25a9e037dfdf181a9|17 straipsnio]] pakeitimo įstatymas (Žin., 1996, Nr. 64-1505); ^s-9da907fdcb0b94c9fb027667
+2) [Lietuvos Respublikos Lietuvos Aukščiausiojo Teismo statuto 17 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.3153F6DCCB3D) (Žin., 1996, Nr. 64-1505); ^s-9da907fdcb0b94c9fb027667
 
 
-3) Lietuvos Respublikos Lietuvos Aukščiausiojo Teismo statuto 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 17, 18, 20, [[#^s-5321be6179b1a380db5cf531|30 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 1996, Nr. 67-1601); ^s-9f939f0e4e432e76b1c2028e
+3) [Lietuvos Respublikos Lietuvos Aukščiausiojo Teismo statuto 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 17, 18, 20, 30 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.0660862E84C6) (Žin., 1996, Nr. 67-1601); ^s-9f939f0e4e432e76b1c2028e
 
 
-4) Lietuvos Respublikos Lietuvos Aukščiausiojo Teismo statuto [[#^s-de8624f03280cca46da80a0f|31 straipsnio]] papildymo įstatymas (Žin., 2001, Nr. 39-1336); ^s-cf76b1fb5adfdc0af59959d6
+4) [Lietuvos Respublikos Lietuvos Aukščiausiojo Teismo statuto 31 straipsnio papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.B36D2FB2ACCE) (Žin., 2001, Nr. 39-1336); ^s-cf76b1fb5adfdc0af59959d6
 
 
-5) [[latest/TAR.390AEF086CE3|Lietuvos Respublikos teismų įstatymo pakeitimo įstatymo]] įsigaliojimo ir įgyvendinimo įstatymas (Žin., 2002, Nr. 31-1131); ^s-2f4b8e76161d84dbeac3342d
+5) [Lietuvos Respublikos teismų įstatymo pakeitimo įstatymo įsigaliojimo ir įgyvendinimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.51C6B1E00ECC) (Žin., 2002, Nr. 31-1131); ^s-2f4b8e76161d84dbeac3342d
 
 
-6) Lietuvos Respublikos Lietuvos Aukščiausiojo Teismo statuto 19 ir [[#^s-fbffde3cd0d1883d0f6b9c25|23 straipsnių]] pakeitimo įstatymas (Žin., 2003, Nr. 38-1690); ^s-05bb62a17ae3230d23f0a8a5
+6) [Lietuvos Respublikos Lietuvos Aukščiausiojo Teismo statuto 19 ir 23 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.48598A63ABCD) (Žin., 2003, Nr. 38-1690); ^s-05bb62a17ae3230d23f0a8a5
 
 
-7) [[latest/TAR.390AEF086CE3#^s-1b26f32196d647ab26551a1b|Lietuvos Respublikos teismų įstatymo pakeitimo įstatymo įsigaliojimo ir įgyvendinimo įstatymo 6 straipsnio]] pripažinimo netekusiu galios įstatymas (Žin., 2007, Nr. 46-1725). ^s-e8b3346fedc641ffa560995e
+7) [Lietuvos Respublikos teismų įstatymo pakeitimo įstatymo įsigaliojimo ir įgyvendinimo įstatymo 6 straipsnio pripažinimo netekusiu galios įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.8F32C364BA6B) (Žin., 2007, Nr. 46-1725). ^s-e8b3346fedc641ffa560995e
 
 
 

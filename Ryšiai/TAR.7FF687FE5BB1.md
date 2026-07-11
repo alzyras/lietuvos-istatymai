@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9D2F66B96EBC#^s-911e242c3135e101a4a63704|Lietuvos Respublikos aviacijos įstatymas]] - 3 citatos - 1101010ISTA0XI-1215
-- [[latest/TAR.9D2F66B96EBC#^s-b988a727765b14e5d36c09ce|Lietuvos Respublikos aviacijos įstatymas]] - 3 citatos - 1101010ISTA0XI-1215
+- [[latest/TAR.9D2F66B96EBC#^s-b988a727765b14e5d36c09ce|Lietuvos Respublikos aviacijos įstatymas]] - 2 citatos - 1101010ISTA0XI-1215

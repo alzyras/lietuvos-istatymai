@@ -43,7 +43,7 @@ Vilnius
 1. Šis įstatymas nustato asmenų, 1990–1991 m. atsisakiusių prievartinės tarnybos sovietų armijoje, kuriems pripažintas nuo 1939–1990 m. okupacijų nukentėjusio asmens teisinis statusas, ir turinčių teisę gauti valstybės vienkartinę kompensaciją už žalą, patirtą dėl sovietų armijos prievartos veiksmų (toliau – kompensacija), kategorijas, kompensacijos dydį ir kompensacijos mokėjimo tvarką. ^s-7e8b879a6406be3376d439d0
 
 
-2. Šis įstatymas netaikomas asmenims, kuriems buvo išmokėtos kompensacijos vadovaujantis Lietuvos Respublikos Vyriausybės 1997 m. liepos 25 d. nutarimu Nr. 820 „Dėl vienkartinių kompensacijų asmenims, kurie po 1990 m. kovo 11 d. pasitraukė iš būtinosios karo tarnybos sovietinėje armijoje ir buvo globojami Raudonojo Kryžiaus globos skyriuje, bet 1990 m. kovo 27 d. buvusios TSRS desantininkų pagrobti ir išvežti“ (Žin., 1997, Nr. 72-1834). ^s-08455da2a5f65b4ffbdc4f8e
+2. Šis įstatymas netaikomas asmenims, kuriems buvo išmokėtos kompensacijos vadovaujantis Lietuvos Respublikos Vyriausybės [1997 m. liepos 25 d. nutarimu Nr. 820](https://e-tar.lt/portal/lt/legalAct/TAR.83CE7742FC4E) „[Dėl vienkartinių kompensacijų asmenims, kurie po 1990 m. kovo 11 d. pasitraukė iš būtinosios karo tarnybos sovietinėje armijoje ir buvo globojami Raudonojo Kryžiaus globos skyriuje, bet 1990 m. kovo 27 d. buvusios TSRS desantininkų pagrobti ir išvežti](https://e-tar.lt/portal/lt/legalAct/TAR.83CE7742FC4E)“ (Žin., 1997, Nr. 72-1834). ^s-08455da2a5f65b4ffbdc4f8e
 
 
 
@@ -66,7 +66,7 @@ Teisę į kompensaciją turi Lietuvos Respublikos piliečiai, kurie nuo 1990 m. 
 ### 3 straipsnis. Kompensacijos dydis ir mokėjimo tvarka ^s-91b11b731a87f515cd4ef7af
 
 
-1. Kompensacija yra 4 000 litų dydžio. Kompensacija išmokama [[#^s-0130df433bc97074b433fa29|2 straipsnyje]] nurodytiems asmenims vieną kartą iš Lietuvos Respublikos krašto apsaugos ministerijai (toliau – Krašto apsaugos ministerija) šiam tikslui skirtų valstybės biudžeto lėšų krašto apsaugos ministro sprendimu ir mažinama kompensacijos, kuri buvo išmokėta pagal Lietuvos Respublikos Vyriausybės 1996 m. kovo 6 d. nutarimą Nr. 311 „Dėl vienkartinių kompensacijų asmenims, po 1990 m. kovo 11 d. pasitraukusiems iš būtinosios karinės tarnybos sovietinėje armijoje ir už tai nuteistiems“ (Žin., 1996, Nr. 22-581), dydžiu. ^s-6f48c88af431b3d254fae053
+1. Kompensacija yra 4 000 litų dydžio. Kompensacija išmokama [[#^s-0130df433bc97074b433fa29|2 straipsnyje]] nurodytiems asmenims vieną kartą iš Lietuvos Respublikos krašto apsaugos ministerijai (toliau – Krašto apsaugos ministerija) šiam tikslui skirtų valstybės biudžeto lėšų krašto apsaugos ministro sprendimu ir mažinama kompensacijos, kuri buvo išmokėta pagal Lietuvos Respublikos Vyriausybės [1996 m. kovo 6 d. nutarimą Nr. 311](https://e-tar.lt/portal/lt/legalAct/TAR.482DAB849862) [„Dėl vienkartinių kompensacijų asmenims, po 1990 m. kovo 11 d. pasitraukusiems iš būtinosios karinės tarnybos sovietinėje armijoje ir už tai nuteistiems“](https://e-tar.lt/portal/lt/legalAct/TAR.482DAB849862) (Žin., 1996, Nr. 22-581), dydžiu. ^s-6f48c88af431b3d254fae053
 
 
 2. Asmenys, atitinkantys šio įstatymo [[#^s-7e8b879a6406be3376d439d0|1 straipsnio 1 dalies]] ir [[#^s-0130df433bc97074b433fa29|2 straipsnio]] nuostatas, prašymus dėl kompensacijos skyrimo kartu su asmens tapatybę ir nukentėjusio nuo 1939–1990 m. okupacijų asmens teisinį statusą patvirtinančiais dokumentais pateikia Krašto apsaugos ministerijai. ^s-c0da5b296a4452ae4148f2e0

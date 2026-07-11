@@ -93,7 +93,7 @@ Vilnius
 39 straipsnio 3 dalyje po žodžio „suteikimą“ įrašyti žodžius „turinį, formą ir išdavimo tvarką“, išbraukti žodį „išdavimą“ ir šią dalį išdėstyti taip:
 
 
-„3. Mokymosi pasiekimus įteisinančių dokumentų, liudijančių profesinio mokymosi ar studijų programų baigimą, aukštojo išsilavinimo, kvalifikacijos, kvalifikacinio laipsnio ir mokslo laipsnio suteikimą, turinį, formą ir išdavimo tvarką reglamentuoja [[latest/TAR.44FA08A7226F|Profesinio mokymo įstatymas]] ir Aukštojo mokslo įstatymas.“
+„3. Mokymosi pasiekimus įteisinančių dokumentų, liudijančių profesinio mokymosi ar studijų programų baigimą, aukštojo išsilavinimo, kvalifikacijos, kvalifikacinio laipsnio ir mokslo laipsnio suteikimą, turinį, formą ir išdavimo tvarką reglamentuoja [[latest/TAR.44FA08A7226F|Profesinio mokymo įstatymas]] ir [Aukštojo mokslo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F).“
 
 
 

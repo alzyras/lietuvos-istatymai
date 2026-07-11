@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-98edcb9c77f54c07e82f7c3a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2013 m. gegužės 6 d. dekretą Nr. 1K-1449, ratifikuoja 2012 m. rugsėjo 7 d. Baku pasirašytą Lietuvos Respublikos Vyriausybės ir Azerbaidžano Respublikos Vyriausybės susitarimą dėl bendradarbiavimo ir abipusės pagalbos ekstremaliųjų situacijų prevencijos ir likvidavimo srityje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2013 m. gegužės 6 d. dekretą Nr. 1K-1449](https://e-tar.lt/portal/lt/legalAct/TAR.BE795E77DDCD), ratifikuoja 2012 m. rugsėjo 7 d. Baku pasirašytą Lietuvos Respublikos Vyriausybės ir Azerbaidžano Respublikos Vyriausybės susitarimą dėl bendradarbiavimo ir abipusės pagalbos ekstremaliųjų situacijų prevencijos ir likvidavimo srityje.
 
 
 

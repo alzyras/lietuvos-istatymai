@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos įstatymas dėl Berno konvencijos dėl litera
 
 ## Šis įstatymas cituoja
 
-- [[latest/09a9f622a67611ef90b5ee8931e5ce5e|Lietuvos Respublikos įstatymo „Dėl Berno konvencijos dėl literatūros ir meno kūrinių apsaugos ratifikavimo“ Nr. I-1351 2 straipsnio pripažinimo netekusiu galios įstatymas]] - Įstatymas Nr. XIV-3101
+_Nėra._
 
 ## Šį įstatymą cituoja
 

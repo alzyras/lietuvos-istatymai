@@ -718,7 +718,7 @@ Asmenis, prižiūrinčius (eksploatuojančius) šilumos įrenginius, ūkio minis
 ### 32 straipsnis. Šilumos kainodara ^s-63fe7d355b30e2ccee52a310
 
 
-1. Šilumos kainos yra vienanarės arba dvinarės. Šilumos vartotojas moka už suvartotą šilumos energiją pagal šio straipsnio 5, 6 ir [[#^s-bd387f5886f371e25e44129f|7 dalyse]] nurodyta tvarka nustatytą vienanarę arba dvinarę kainą pasirinktinai. ^s-66127186815330d7b9cbc0ac
+1. Šilumos kainos yra vienanarės arba dvinarės. Šilumos vartotojas moka už suvartotą šilumos energiją pagal šio straipsnio [[#^s-376c5563985748945c9dfcad|5]], [[#^s-18925f6001306d5a15b30f6c|6]] ir [[#^s-bd387f5886f371e25e44129f|7]] dalyse nurodyta tvarka nustatytą vienanarę arba dvinarę kainą pasirinktinai. ^s-66127186815330d7b9cbc0ac
 
 
 2. Šilumos ir (ar) karšto vandens kainos grindžiamos tiekėjo būtinomis (valstybės normuojamomis) šilumos ar karšto vandens ruošimo (pirkimo), perdavimo, įvadinių atsiskaitomųjų šilumos ir (ar) karšto vandens apskaitos prietaisų įrengimo, priežiūros ir patikros, sąskaitų (mokėjimo pranešimų) už šilumą ir (ar) karštą vandenį parengimo ir pateikimo vartotojams bei apskaitos sąnaudomis. Pastatų šildymo ir karšto vandens sistemų priežiūros ir rekonstravimo sąnaudos negali būti įtraukiamos į šilumos ar karšto vandens kainas. ^s-d6c3b4d3b90a0b053f5d878d
@@ -757,7 +757,7 @@ Asmenis, prižiūrinčius (eksploatuojančius) šilumos įrenginius, ūkio minis
 10. Konkurenciniams šilumos vartotojams nustatoma šilumos kaina, kuri turi padengti šilumos gamybos ir individualias perdavimo sąnaudas. Šią šilumos kainą nustato šilumos tiekėjas, suderinęs su Valstybine kainų ir energetikos kontrolės komisija. Jeigu nėra nustatyta kita šilumos kaina, konkurenciniai šilumos vartotojai už suvartotą šilumą atsiskaito šilumos kainomis, nustatytomis ir kitiems šilumos vartotojams. ^s-35669964043b36ea5b8f74e1
 
 
-11. Jei šilumos tiekėjas, kurio daugiau kaip 1/2 akcijų nuosavybės teise priklauso vienai ar kelioms savivaldybėms ir kuris valdo skirtingose savivaldybėse esančias šilumos tiekimo sistemas, teikia vienodą šilumos kainą visoms savivaldybėms, šilumos kainą nustato šilumos tiekėjas įmonės įstatuose nustatyta tvarka, apskaičiavęs ją pagal šilumos kainų nustatymo metodikas ir suderinęs su Valstybine kainų ir energetikos kontrolės komisija. Šiuo atveju netaikomos šio straipsnio 4, 5, 6 ir [[#^s-bd387f5886f371e25e44129f|7 dalys]]. ^s-0e6473e673b69af0741a5972
+11. Jei šilumos tiekėjas, kurio daugiau kaip 1/2 akcijų nuosavybės teise priklauso vienai ar kelioms savivaldybėms ir kuris valdo skirtingose savivaldybėse esančias šilumos tiekimo sistemas, teikia vienodą šilumos kainą visoms savivaldybėms, šilumos kainą nustato šilumos tiekėjas įmonės įstatuose nustatyta tvarka, apskaičiavęs ją pagal šilumos kainų nustatymo metodikas ir suderinęs su Valstybine kainų ir energetikos kontrolės komisija. Šiuo atveju netaikomos šio straipsnio [[#^s-e848a06f3a963ffcf8a9ee91|4]], [[#^s-376c5563985748945c9dfcad|5]], [[#^s-18925f6001306d5a15b30f6c|6]] ir [[#^s-bd387f5886f371e25e44129f|7]] dalys. ^s-0e6473e673b69af0741a5972
 
 
 

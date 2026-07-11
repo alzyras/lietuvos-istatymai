@@ -152,7 +152,7 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 „[[#^s-fe6842765b9c8c96d02bcfb8|7 straipsnis]]. Priemonių kontrolė
 
 
-Aplinkos ministerija, išduodama leidimus kenksmingų medžiagų emisijoms į aplinką ar kitai veiklai, turi kontroliuoti 4 ir [[#^s-4d4036babbe953eff081a851|5 straipsniuose]] nurodytų principų ir priemonių taikymą, taip pat reikalauti, kad emisijos į aplinką iš sausumoje ir jūros rajone esančių taršos šaltinių neviršytų Helsinkio konvencijoje nustatytų normų.“
+Aplinkos ministerija, išduodama leidimus kenksmingų medžiagų emisijoms į aplinką ar kitai veiklai, turi kontroliuoti 4 ir [[#^s-4d4036babbe953eff081a851|5]] straipsniuose nurodytų principų ir priemonių taikymą, taip pat reikalauti, kad emisijos į aplinką iš sausumoje ir jūros rajone esančių taršos šaltinių neviršytų Helsinkio konvencijoje nustatytų normų.“
 
 
 
@@ -339,7 +339,7 @@ Pakeisti [[#^s-6e385347f5f4b1ffb51f2f40|28 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-6e385347f5f4b1ffb51f2f40|28 straipsnis]]. Grunto šalinimas
 
 
-Iškastam gruntui šalinti 26 ir [[#^s-fe82df5947c6b54f7cb7199c|27 straipsniuose]] nustatyti draudimai netaikomi. Vidaus vandenyse ir teritorinėje jūroje gruntas gali būti šalinamas vadovaujantis aplinkos ministro nustatyta tvarka gavus Aplinkos ministerijos įgaliotos institucijos leidimą, o išskirtinėje ekonominėje zonoje – dar ir pasikonsultavus su Helsinkio komisija.“
+Iškastam gruntui šalinti [[#^s-ac517ef150afa0ced709d42f|26]] ir [[#^s-fe82df5947c6b54f7cb7199c|27]] straipsniuose nustatyti draudimai netaikomi. Vidaus vandenyse ir teritorinėje jūroje gruntas gali būti šalinamas vadovaujantis aplinkos ministro nustatyta tvarka gavus Aplinkos ministerijos įgaliotos institucijos leidimą, o išskirtinėje ekonominėje zonoje – dar ir pasikonsultavus su Helsinkio komisija.“
 
 
 
@@ -391,7 +391,7 @@ Pakeisti 42 straipsnį ir jį išdėstyti taip:
 „42 straipsnis. Privalomi pranešimai Vyriausybės institucijoms
 
 
-Lietuvos Respublikos jūros uostų administracijos ar kiti pareigūnai, turintys uostų administracijos įgaliojimus, naftą ar kitas kenksmingas medžiagas kraunančių įrenginių operatoriai ir kiti uostų objektų darbuotojai privalo nedelsdami pranešti Aplinkos ministerijai ir Vyriausybės įgaliotai institucijai apie visus 38–41 straipsniuose nurodytus įvykius.“
+Lietuvos Respublikos jūros uostų administracijos ar kiti pareigūnai, turintys uostų administracijos įgaliojimus, naftą ar kitas kenksmingas medžiagas kraunančių įrenginių operatoriai ir kiti uostų objektų darbuotojai privalo nedelsdami pranešti Aplinkos ministerijai ir Vyriausybės įgaliotai institucijai apie visus [[#^s-ebf062ced814dfb746959fd2|38]]–41 straipsniuose nurodytus įvykius.“
 
 
 
@@ -404,7 +404,7 @@ Lietuvos Respublikos jūros uostų administracijos ar kiti pareigūnai, turintys
 „43 straipsnis. Pranešimų taisyklės
 
 
-38–42 straipsnių nuostatos įgyvendinamos pagal Aplinkos ministerijos, Susisiekimo ministerijos ir Vyriausybės įgaliotos institucijos parengtas bei patvirtintas taisykles ir pranešimų schemą.“
+[[#^s-ebf062ced814dfb746959fd2|38]]–42 straipsnių nuostatos įgyvendinamos pagal Aplinkos ministerijos, Susisiekimo ministerijos ir Vyriausybės įgaliotos institucijos parengtas bei patvirtintas taisykles ir pranešimų schemą.“
 
 
 

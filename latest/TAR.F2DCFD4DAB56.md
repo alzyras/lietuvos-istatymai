@@ -51,7 +51,7 @@ Pakeisti 99 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 2 straipsnis. 466 straipsnio papildymas 2 ir 3 dalimis ^s-389f22d864087428980b94b8
 
 
-Papildyti 466 straipsnį 2 ir [[#^s-d1ef6f04f26dea5d1f931373|3 dalimis]] ir visą straipsnį išdėstyti taip:
+Papildyti 466 straipsnį 2 ir 3 dalimis ir visą straipsnį išdėstyti taip:
 
 
 

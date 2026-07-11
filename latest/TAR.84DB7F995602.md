@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-82b0fb1f1c224147fa805b89
 
 
-1. Papildyti [[#^s-32adb29bbe6d7300318dcb18|2 straipsnį]] naujomis 24 ir [[#^s-34121c268a2ec5ba9dd9ca80|25 dalimis]]: ^s-b200209548a0e112c47161cb
+1. Papildyti [[#^s-32adb29bbe6d7300318dcb18|2 straipsnį]] naujomis 24 ir 25 dalimis: ^s-b200209548a0e112c47161cb
 
 
 „24. Regiono laikraštis – periodiškai, bet ne rečiau kaip kartą per savaitę leidžiamas, [[latest/TAR.0120FD7BCFFC|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo]] nustatytų apskričių teritorijose platinamas leidinys, kurio ne mažiau kaip 90 procentų tiražo išplatinama vienos apskrities teritorijoje.

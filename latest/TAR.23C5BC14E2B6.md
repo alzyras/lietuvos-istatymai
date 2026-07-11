@@ -84,7 +84,7 @@ Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. [[latest/
 ### 4 straipsnis. Karo policijos veiklos teisiniai pagrindai ^s-7053fcd149994ffa6616ffae
 
 
-Karo policija vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu, krašto apsaugos sistemos veiklą ir karo tarnybą reglamentuojančiais įstatymais bei statutais, kitais Lietuvos Respublikos įstatymais bei teisės aktais, krašto apsaugos ministro ir kariuomenės vado įsakymais.
+Karo policija vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo įstatymu, krašto apsaugos sistemos veiklą ir karo tarnybą reglamentuojančiais įstatymais bei statutais, kitais Lietuvos Respublikos įstatymais bei teisės aktais, krašto apsaugos ministro ir kariuomenės vado įsakymais.
 
 
 
@@ -368,7 +368,7 @@ Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. [[latest/
 
 
 2. Už padarytas nusikalstamas veikas ir administracinius nusižengimus karo policininkas atsako Lietuvos Respublikos baudžiamojo kodekso ir Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka. Už drausminius nusižengimus karo policininkas atsako drausmės statutų nustatyta tvarka. ^s-5227502d9f3412d192028cb0
-TAR pastaba. [[#^s-5227502d9f3412d192028cb0|15 straipsnio 2 dalies]] nuostatos taikomos ir tais atvejais, kai yra padaryti administraciniai teisės pažeidimai, numatyti Lietuvos Respublikos administracinių teisės pažeidimų kodekse, patvirtintame 1984 m. įstatymu Nr. X-4449.
+TAR pastaba. 15 straipsnio 2 dalies nuostatos taikomos ir tais atvejais, kai yra padaryti administraciniai teisės pažeidimai, numatyti [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), patvirtintame 1984 m. [įstatymu Nr. X-4449](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492).
 Straipsnio dalies pakeitimai:
 Nr. IX-1434, 2003-04-03, Žin., 2003, Nr. 38-1679 (2003-04-24), i. k. [[latest/TAR.E6FA402A7987|1031010ISTA0IX-1434]]
 Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. [[latest/TAR.85D8113634A1|1111010ISTA0XI-1635]]
@@ -407,7 +407,7 @@ PRIEVARTOS PANAUDOJIMAS
 2. Karo policininkai įstatymų numatytais atvejais ir tvarka gali panaudoti psichinę ar fizinę prievartą, šaunamąjį ginklą ir sprogstamąsias medžiagas. ^s-078e815fca453e8704971e2d
 
 
-3. Psichinė prievarta šiame įstatyme suprantama kaip įspėjimas apie ketinimą panaudoti fizinę prievartą, šaunamąjį ginklą ar sprogstamąsias medžiagas. Psichinei prievartai prilyginamas šaunamojo ginklo demonstravimas ir įspėjamieji šūviai, tačiau šias psichinės prievartos priemones galima naudoti tik šio įstatymo [[#^s-130811366965f181815bb979|183 straipsnio]] 2 ir [[#^s-35631da5c8498d71e41357f3|4 dalyse]] išvardytomis sąlygomis. ^s-b0d8f194bed186a8f32d8055
+3. Psichinė prievarta šiame įstatyme suprantama kaip įspėjimas apie ketinimą panaudoti fizinę prievartą, šaunamąjį ginklą ar sprogstamąsias medžiagas. Psichinei prievartai prilyginamas šaunamojo ginklo demonstravimas ir įspėjamieji šūviai, tačiau šias psichinės prievartos priemones galima naudoti tik šio įstatymo [[#^s-130811366965f181815bb979|183 straipsnio]] [[#^s-68a012912d093119f5e4f6a1|2]] ir [[#^s-d316878ecd6a47c66d7f6ef4|4]] dalyse išvardytomis sąlygomis. ^s-b0d8f194bed186a8f32d8055
 
 
 4. Fizinė prievarta šiame įstatyme suprantama kaip: ^s-35631da5c8498d71e41357f3
@@ -578,7 +578,7 @@ Nr. XI-1635, 2011-11-08, Žin., 2011, Nr. 143-6703 (2011-11-26), i. k. [[latest/
 
 
 
-6. Šio straipsnio 4 ir [[#^s-7bb6eea1bf034abd797932d5|5 dalyse]] numatytų karo policijos ir policijos pareigų vykdymo tvarka nustatoma bendru krašto apsaugos ministro ir vidaus reikalų ministro įsakymu. ^s-e43b05e698f826e831c91be6
+6. Šio straipsnio [[#^s-9ee35d0bb08f0eda2e1eff41|4]] ir [[#^s-7bb6eea1bf034abd797932d5|5]] dalyse numatytų karo policijos ir policijos pareigų vykdymo tvarka nustatoma bendru krašto apsaugos ministro ir vidaus reikalų ministro įsakymu. ^s-e43b05e698f826e831c91be6
 
 
 
@@ -628,4 +628,4 @@ Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 [[#^s-4c1850ed1bc4f89
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1814, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21834
-Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 2 ir [[#^s-69a2c0b260f5d2bb5e537adc|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos karo policijos įstatymo Nr. VIII-911 [[#^s-07844339afa2a16db1339475|2]] ir [[#^s-69a2c0b260f5d2bb5e537adc|6]] straipsnių pakeitimo įstatymas

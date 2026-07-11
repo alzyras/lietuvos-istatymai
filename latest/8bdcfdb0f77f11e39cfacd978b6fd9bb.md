@@ -38,7 +38,7 @@ LIETUVOS RESPUBLIKOS
 ### 1 straipsnis. 4 straipsnio pakeitimas ^s-ae7d243626c78fd0698d7594
 
 
-Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.F61ABF8F5638#^s-760114b4695d5f04bcd56d01|4 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Zonos teritorijoje esantys žemės sklypai išnuomojami Lietuvos Respublikos civilinio kodekso (toliau – [[latest/TAR.8A39C83848CB|Civilinis kodeksas]]), [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymo]], [[latest/TAR.E79004684F4D|Laisvųjų ekonominių zonų pagrindų įstatymo]] ir šio įstatymo nustatytomis sąlygomis ir tvarka.“

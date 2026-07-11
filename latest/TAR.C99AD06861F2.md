@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-afd6c93fc40ef19d14ba4c22
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. rugpjūčio 21 d. dekretą Nr. 187, ratifikuoja 2000 m. sausio 29 d. Monrealyje priimtą Biologinės įvairovės konvencijos Kartachenos biosaugos protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. rugpjūčio 21 d. dekretą Nr. 187](https://e-tar.lt/portal/lt/legalAct/TAR.7C90CD58A4BC), ratifikuoja 2000 m. sausio 29 d. Monrealyje priimtą Biologinės įvairovės konvencijos Kartachenos biosaugos protokolą.
 
 
 

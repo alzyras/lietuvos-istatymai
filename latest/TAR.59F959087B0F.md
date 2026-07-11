@@ -398,7 +398,7 @@ Administravimo tarnybos pagrindiniai uždaviniai yra šie:
 17 straipsnio 1 dalyje po žodžio „komisijai“ įrašyti žodžius „arba regioniniam karo prievolės centrui“, po skaičiaus ir žodžio „18 metų“ įrašyti žodžius „o krašto apsaugos ministro sutikimu taip pat ir 27 metų“ ir šią dalį išdėstyti taip:
 
 
-„1. Į privalomąją pradinę karo tarnybą gali būti pašaukti Lietuvos Respublikos piliečiai nuo 19 iki 26 metų. Piliečiai, parašę prašymą naujokų šaukimo komisijai arba regioniniam karo prievolės centrui, tarnybą gali pradėti ir būdami 18 metų, o krašto apsaugos ministro sutikimu taip pat ir 27 metų, išskyrus šio įstatymo [[#^s-cd12bd0e5c962dfc0f8cbb46|8 straipsnio]] 1 ir 2 dalyse numatytus atvejus.“
+„1. Į privalomąją pradinę karo tarnybą gali būti pašaukti Lietuvos Respublikos piliečiai nuo 19 iki 26 metų. Piliečiai, parašę prašymą naujokų šaukimo komisijai arba regioniniam karo prievolės centrui, tarnybą gali pradėti ir būdami 18 metų, o krašto apsaugos ministro sutikimu taip pat ir 27 metų, išskyrus šio įstatymo [[#^s-cd12bd0e5c962dfc0f8cbb46|8 straipsnio]] [[#^s-2048ad157cb6458f99c9f6bc|1]] ir [[#^s-e2980435a524b1ee3bd26c97|2]] dalyse numatytus atvejus.“
 
 
 

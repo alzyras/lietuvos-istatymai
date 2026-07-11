@@ -216,7 +216,7 @@ VARTOTOJŲ INFORMAVIMAS
 9. Jeigu tam tikros paslaugos galutinės kainos, t. y. kainos, į kurią įskaitomi visi mokesčiai, nurodyti neįmanoma, paslaugos teikėjas privalo nurodyti papildomą informaciją, kaip nustatoma galutinė paslaugos kaina. ^s-9bf9c434ee5c416fa236d420
 
 
-10. Bet kokiu būdu reklamuojant prekę, jeigu nurodoma pardavimo kaina, turi būti nurodoma prekės standartinio vieneto kaina, išskyrus šio straipsnio 5 ir [[#^s-0996ddd1288fde5f00a1999f|6 dalyse]] nurodytus atvejus. ^s-9f3bdfe1d9b59595d21994a1
+10. Bet kokiu būdu reklamuojant prekę, jeigu nurodoma pardavimo kaina, turi būti nurodoma prekės standartinio vieneto kaina, išskyrus šio straipsnio [[#^s-088af9cf364044bb3ef3a830|5]] ir [[#^s-0996ddd1288fde5f00a1999f|6]] dalyse nurodytus atvejus. ^s-9f3bdfe1d9b59595d21994a1
 
 
 11. Jeigu prekės pardavėjas ar paslaugos teikėjas nevykdo šiame straipsnyje nustatytų reikalavimų, vartotojas turi teisę kreiptis į Valstybinę maisto ir veterinarijos tarnybą (toliau – Tarnyba), Valstybinę ne maisto produktų inspekciją (toliau – Inspekcija) arba į teismą dėl pažeistų teisių gynimo. ^s-17ac14c42277d665a06fc92c
@@ -295,7 +295,7 @@ Prekės ir paslaugos turi būti saugios. Prekių ir paslaugų saugos reikalavimu
 9. [[#^s-cf56ff212c88ed1130672081|Šio straipsnio 8 dalyje]] numatytomis teisėmis vartotojas gali pasinaudoti tol, kol nesibaigė prekės tinkamumo naudoti terminas, išskyrus [[#^s-b0b52d4cfa7820c93a9b384f|9 straipsnyje]] nustatytą atvejį. ^s-6d3c8979c22d4510f30ae97a
 
 
-10. Jeigu pardavėjas nevykdo šio straipsnio 3 ir [[#^s-cf56ff212c88ed1130672081|8 dalyse]] nustatytų reikalavimų, vartotojas turi teisę kreiptis į Tarnybą ar Inspekciją dėl pažeistų vartotojų teisių gynimo arba į teismą dėl šiame straipsnyje nustatytų teisių gynimo. Bet kokiu atveju vartotojas turi teisę kreiptis į teismą dėl nuostolių, padarytų parduodant [[#^s-a220d55540139abe9cbaa921|šio straipsnio 1 dalies]] reikalavimų neatitinkančią prekę, atlyginimo. ^s-ffb09ac17008f1874f0f87b4
+10. Jeigu pardavėjas nevykdo šio straipsnio [[#^s-972a38b332fe1470f2c0eca8|3]] ir [[#^s-cf56ff212c88ed1130672081|8]] dalyse nustatytų reikalavimų, vartotojas turi teisę kreiptis į Tarnybą ar Inspekciją dėl pažeistų vartotojų teisių gynimo arba į teismą dėl šiame straipsnyje nustatytų teisių gynimo. Bet kokiu atveju vartotojas turi teisę kreiptis į teismą dėl nuostolių, padarytų parduodant [[#^s-a220d55540139abe9cbaa921|šio straipsnio 1 dalies]] reikalavimų neatitinkančią prekę, atlyginimo. ^s-ffb09ac17008f1874f0f87b4
 
 
 11. Vyriausybė arba jos įgaliota institucija tvirtina viešojo maitinimo, mažmeninės prekybos ir prekių grąžinimo bei keitimo taisykles. ^s-b6b14d444f039b02e0ba58b2
@@ -335,7 +335,7 @@ Prekės ir paslaugos turi būti saugios. Prekių ir paslaugų saugos reikalavimu
 5. Jeigu dėl paslaugos teikėjo kaltės buvo prarastas ar sugadintas vartotojo pateiktas daiktas ar medžiaga, tai pastarojo sutikimu paslaugos teikėjas privalo pakeisti daiktą ar medžiagą lygiaverčiais, o kai vartotojas nesutinka arba nėra galimybių pakeisti, – atlyginti daikto ar medžiagos vertę. ^s-93125803467da528c3044738
 
 
-6. Jeigu paslaugos teikėjas nevykdo šio straipsnio 3, 4 ir [[#^s-93125803467da528c3044738|5 dalyse]] nustatytų reikalavimų, vartotojas turi teisę kreiptis į Tarnybą ar Inspekciją dėl pažeistų vartotojų teisių gynimo arba į teismą dėl šiame straipsnyje nustatytų teisių gynimo. Bet kokiu atveju vartotojas turi teisę kreiptis į teismą dėl nuostolių, padarytų teikiant [[#^s-001174167a670e83fb8ff0fd|šio straipsnio 1 dalies]] reikalavimų neatitinkančią paslaugą, atlyginimo. ^s-610c00de91dc547fd998ccec
+6. Jeigu paslaugos teikėjas nevykdo šio straipsnio [[#^s-cd985b9015a2584c4688137b|3]], [[#^s-6e551471b8d95d6725a52186|4]] ir [[#^s-93125803467da528c3044738|5]] dalyse nustatytų reikalavimų, vartotojas turi teisę kreiptis į Tarnybą ar Inspekciją dėl pažeistų vartotojų teisių gynimo arba į teismą dėl šiame straipsnyje nustatytų teisių gynimo. Bet kokiu atveju vartotojas turi teisę kreiptis į teismą dėl nuostolių, padarytų teikiant [[#^s-001174167a670e83fb8ff0fd|šio straipsnio 1 dalies]] reikalavimų neatitinkančią paslaugą, atlyginimo. ^s-610c00de91dc547fd998ccec
 
 
 7. Vyriausybė arba jos įgaliota institucija tvirtina bendrąsias paslaugų teikimo taisykles. Valstybės, savivaldybių institucijos ir įstaigos pagal savo kompetenciją turi patvirtinti atskirų paslaugų rūšių teikimo taisykles. ^s-cc487f5542fee12e2d875a45
@@ -430,7 +430,7 @@ PREKIŲ PIRKIMO-PARDAVIMO AR PASLAUGŲ TEIKIMO SUTARČIŲ NESĄŽININGOS SĄLYGO
 5. Pardavėjas ar paslaugų teikėjas privalo užtikrinti, kad bet kuri sutarties rašytinė sąlyga būtų išreikšta aiškiai ir suprantamai. Jeigu yra abejonių dėl sutarties sąlygos turinio, ji yra aiškinama vartotojo naudai. ^s-1e3765d2c8c42a49196a5700
 
 
-6. Sutarties dalyką apibūdinančios sąlygos, taip pat su parduotos prekės ar suteiktos paslaugos ir jų kainos atitikimu susijusios sąlygos neturi būti vertinamos nesąžiningumo požiūriu (netaikomos šio straipsnio 1 ir [[#^s-8599edd8a57503dadc264c8d|2 dalių]] normos), jeigu jos parašytos aiškiai ir suprantamai. ^s-63a84f2e8360963eb4b6f96e
+6. Sutarties dalyką apibūdinančios sąlygos, taip pat su parduotos prekės ar suteiktos paslaugos ir jų kainos atitikimu susijusios sąlygos neturi būti vertinamos nesąžiningumo požiūriu (netaikomos šio straipsnio [[#^s-20d672211ba1c170151681dc|1]] ir [[#^s-8599edd8a57503dadc264c8d|2]] dalių normos), jeigu jos parašytos aiškiai ir suprantamai. ^s-63a84f2e8360963eb4b6f96e
 
 
 
@@ -738,7 +738,7 @@ TEISĖS TAM TIKRU LAIKU NAUDOTIS GYVENAMOSIOMIS PATALPOMIS PIRKIMAS
 3. Jeigu vartotojas pasinaudojo šiame straipsnyje nustatyta teise nutraukti sutartį, kai už teisę naudotis tam tikru laiku gyvenamosiomis patalpomis visiškai ar iš dalies sumokama pagal tam tikslui pardavėjo ir vartotojo arba pardavėjo ir trečiojo asmens sudarytą vartojimo kredito sutartį, tai ta vartojimo kredito sutartis taip pat turi būti nutraukiama. ^s-7e8a065aaa4197ee3bf8d722
 
 
-4. Draudžiama šio straipsnio 1, 2 ir [[#^s-7e8a065aaa4197ee3bf8d722|3 dalyse]] nustatytą vartotojo teisę nutraukti sutartį suvaržyti bet kokiais papildomais įpareigojimais ar įmokomis arba bet kokiu kitu būdu apriboti ar panaikinti. ^s-1c99caacbf11e6ed372c899c
+4. Draudžiama šio straipsnio [[#^s-ea6af4542f85307d8c550901|1]], [[#^s-c92fea0a8c5c2b2d62ce2487|2]] ir [[#^s-7e8a065aaa4197ee3bf8d722|3]] dalyse nustatytą vartotojo teisę nutraukti sutartį suvaržyti bet kokiais papildomais įpareigojimais ar įmokomis arba bet kokiu kitu būdu apriboti ar panaikinti. ^s-1c99caacbf11e6ed372c899c
 
 
 5. Pardavėjas neturi teisės reikalauti iš vartotojo bet kokio išankstinio apmokėjimo prieš pasibaigiant laikotarpiui, per kurį vartotojas turi teisę nutraukti sutartį. Jeigu toks išankstinis apmokėjimas buvo atliktas, pardavėjas, gavęs šiame straipsnyje numatytą vartotojo pranešimą apie sutarties nutraukimą, privalo per 10 dienų grąžinti sumokėtus pinigus vartotojui. ^s-36456c91d050fd01e1ffd1a2
@@ -1021,10 +1021,10 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 ### 2 straipsnis. Įstatymo įsigaliojimas ^s-1a65ae6dea2bc07173a6442f
 
 
-1. Vartotojų teisių gynimo įstatymo pakeitimo įstatymas, išskyrus Vartotojų teisių gynimo įstatymo 29 ir 30 straipsnius, įsigalioja nuo 2001 m. sausio 1 d. ^s-9bb4b4ea87ec8ce952c63e06
+1. Vartotojų teisių gynimo įstatymo pakeitimo įstatymas, išskyrus [[latest/TAR.D790096B17EE|Vartotojų teisių gynimo įstatymo]] 29 ir 30 straipsnius, įsigalioja nuo 2001 m. sausio 1 d. ^s-9bb4b4ea87ec8ce952c63e06
 
 
-2. Iki 2004 m. sausio 1 d. vietoj [[latest/TAR.D790096B17EE#^s-98e91ff3cf9376b96849063f|Vartotojų teisių gynimo įstatymo 7 straipsnio]] 4 ir [[#^s-275a25b4cc4595e1bb1621ae|6 dalyse]] nurodyto 2 metų termino taikomas 6 mėnesių terminas. ^s-4717c1fd092787b9154b13fd
+2. Iki 2004 m. sausio 1 d. vietoj [[latest/TAR.D790096B17EE#^s-98e91ff3cf9376b96849063f|Vartotojų teisių gynimo įstatymo 7 straipsnio]] [[latest/TAR.D790096B17EE|4]] ir [[latest/TAR.D790096B17EE|6]] dalyse nurodyto 2 metų termino taikomas 6 mėnesių terminas. ^s-4717c1fd092787b9154b13fd
 
 
 

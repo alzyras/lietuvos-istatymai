@@ -42,7 +42,7 @@ Vilnius
 1. Papildyti 13 straipsnį nauja 10 dalimi: ^s-ebbb6cbf3cc77a8789afcdbd
 
 
-„10. Neatsižvelgiant į [[#^s-ebbb6cbf3cc77a8789afcdbd|šio straipsnio 1 dalį]], atitinkamos rūšies transporto nuomos paslaugos nelaikomos suteiktomis šalies teritorijoje tuo atveju, kai jas teikia šalies teritorijoje įsikūręs asmuo arba užsienio asmuo per šalies teritorijoje įsikūrusį padalinį, 3o išnuomotas atitinkamos rūšies transportas faktiškai naudojamas daugiausia už Europos Bendrijų teritorijos ribų.“
+„10. Neatsižvelgiant į šio straipsnio 1 dalį, atitinkamos rūšies transporto nuomos paslaugos nelaikomos suteiktomis šalies teritorijoje tuo atveju, kai jas teikia šalies teritorijoje įsikūręs asmuo arba užsienio asmuo per šalies teritorijoje įsikūrusį padalinį, 3o išnuomotas atitinkamos rūšies transportas faktiškai naudojamas daugiausia už Europos Bendrijų teritorijos ribų.“
 
 
 2. Buvusią 13 straipsnio 10 dalį laikyti 11 dalimi. ^s-5bf65b5daf5a21152c9a5bc9

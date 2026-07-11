@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybinio socialinio draudimo įstatymo
+- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - Lietuvos Respublikos valstybinio socialinio draudimo įstatymo
 
 ## Šį įstatymą cituoja
 

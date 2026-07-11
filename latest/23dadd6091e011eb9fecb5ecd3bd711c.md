@@ -52,7 +52,7 @@ Vilnius
 3. Pakeisti 6.353 straipsnio 10 dalį ir ją išdėstyti taip: ^s-0c1e0953295a5a59fe77846d
 
 
-„10. Jeigu pardavėjas nesudarė galimybės pirkėjui nedelsiant daiktų pardavimo vietoje gauti šio straipsnio 1–8 dalyse nurodytą informaciją, pirkėjas turi teisę reikalauti iš pardavėjo atlyginti nuostolius, atsiradusius dėl vengimo sudaryti sutartį, o kai sutartis sudaryta, – per protingą terminą vienašališkai nutraukti sutartį ir pareikalauti grąžinti sumokėtą kainą ir atlyginti kitus nuostolius. Pardavėjas turi grąžinti pirkėjui sumokėtą kainą ir atlyginti kitus nuostolius nedelsdamas, bet ne vėliau kaip per keturiolika dienų nuo sutarties nutraukimo dienos ar pirkėjo reikalavimo atlyginti nuostolius gavimo dienos.“
+„10. Jeigu pardavėjas nesudarė galimybės pirkėjui nedelsiant daiktų pardavimo vietoje gauti šio straipsnio [[#^s-398f6b27ae6f5388e0ff4201|1]]–8 dalyse nurodytą informaciją, pirkėjas turi teisę reikalauti iš pardavėjo atlyginti nuostolius, atsiradusius dėl vengimo sudaryti sutartį, o kai sutartis sudaryta, – per protingą terminą vienašališkai nutraukti sutartį ir pareikalauti grąžinti sumokėtą kainą ir atlyginti kitus nuostolius. Pardavėjas turi grąžinti pirkėjui sumokėtą kainą ir atlyginti kitus nuostolius nedelsdamas, bet ne vėliau kaip per keturiolika dienų nuo sutarties nutraukimo dienos ar pirkėjo reikalavimo atlyginti nuostolius gavimo dienos.“
 
 
 ### 2 straipsnis. Įstatymo įsigaliojimas ^s-68ca6f0b885b9b7600034460

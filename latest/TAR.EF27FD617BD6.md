@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-a2b9ff981fc13e8acfc00ce6
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugpjūčio 7 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1993 metų Hagos konvenciją dėl vaikų apsaugos ir bendradarbiavimo tarptautinio įvaikinimo srityje“, ratifikuoja su pareiškimu 1993 metų Hagos konvenciją dėl vaikų apsaugos ir bendradarbiavimo tarptautinio įvaikinimo srityje, priimtą Tarptautinės privatinės teisės konferencijos 17 sesijoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugpjūčio 7 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1993 metų Hagos konvenciją dėl vaikų apsaugos ir bendradarbiavimo tarptautinio įvaikinimo srityje“](https://e-tar.lt/portal/lt/legalAct/TAR.7DA06ABAEEF6), ratifikuoja su pareiškimu 1993 metų Hagos konvenciją dėl vaikų apsaugos ir bendradarbiavimo tarptautinio įvaikinimo srityje, priimtą Tarptautinės privatinės teisės konferencijos 17 sesijoje.
 
 
 

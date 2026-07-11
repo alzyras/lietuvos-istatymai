@@ -9,8 +9,10 @@ pavadinimas: "Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12 ir 13
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymas]] - 2 citatos - 13 straipsnio 1 dalies 6 punktą
+- [[latest/TAR.C7E57DF3CEC5#^s-6515874af8deeca7908ade3d|Lietuvos Respublikos investicijų įstatymas]] - 12 straipsnio 2 dalies 1 punktą
+- [[latest/TAR.C7E57DF3CEC5#^s-a863a06730c6cc63da020b81|Lietuvos Respublikos investicijų įstatymas]] - 2 citatos - 12 straipsnio 2 dalies 7 punkte
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C7E57DF3CEC5#^s-33c7ab521bdbab120e4518a5|Lietuvos Respublikos investicijų įstatymas]] - Įstatymas Nr. XII-852
+_Nėra._

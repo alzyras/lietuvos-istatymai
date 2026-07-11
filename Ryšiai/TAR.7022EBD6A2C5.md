@@ -13,7 +13,5 @@ pavadinimas: "Lietuvos Respublikos baudžiamojo kodekso ir Baudžiamojo proceso 
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.2B866DFF7D43#^s-2161cc47f28c05b4083fb6c4|Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas]] - 2 citatos - BAUDŽIAMOJO KODEKSO IR BAUDŽIAMOJO PROCESO KODEKSO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.2B866DFF7D43#^s-f31e43fd0fa8482d5bf5ba89|Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas]] - 2 citatos - BAUDŽIAMOJO KODEKSO IR BAUDŽIAMOJO PROCESO KODEKSO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.EC588C321777#^s-3ca58ebb2d1fd08e5acc7f6c|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - BAUDŽIAMOJO KODEKSO IR BAUDŽIAMOJO PROCESO KODEKSO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.EC588C321777#^s-aaf9d19d6059521ee3e4cbeb|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - BAUDŽIAMOJO KODEKSO IR BAUDŽIAMOJO PROCESO KODEKSO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.2B866DFF7D43#^s-f31e43fd0fa8482d5bf5ba89|Lietuvos Respublikos baudžiamojo kodekso patvirtinimo ir įsigaliojimo įstatymas. Baudžiamasis kodeksas]] - BAUDŽIAMOJO KODEKSO IR BAUDŽIAMOJO PROCESO KODEKSO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.EC588C321777#^s-aaf9d19d6059521ee3e4cbeb|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - BAUDŽIAMOJO KODEKSO IR BAUDŽIAMOJO PROCESO KODEKSO PAKEITIMO ĮSTATYMAS

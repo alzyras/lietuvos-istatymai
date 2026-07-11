@@ -108,7 +108,7 @@ BENDROSIOS NUOSTATOS
 2) juridinis asmuo, Lietuvos Respublikoje įsteigta Europos Sąjungos valstybės narės ar kitos Europos ekonominės erdvės valstybės įmonė arba kita organizacija ar jos filialas, kurių vienas ar keli darbuotojai pagal darbo sutartį arba atlikdami tarnybinę užduotį sukūrė ar atrado ir išskyrė naują augalo veislę; ^s-c91ef326b01049d07e45893b
 
 
-3) teisių perėmėjas, įgijęs turtines teises į veislę iš šios dalies 1 ir [[#^s-c91ef326b01049d07e45893b|2 punktuose]] nurodytų asmenų. ^s-bf4eeade4d1170c3531ccadc
+3) teisių perėmėjas, įgijęs turtines teises į veislę iš šios dalies [[#^s-81a7e3c903fdea3583d858fb|1]] ir [[#^s-c91ef326b01049d07e45893b|2]] punktuose nurodytų asmenų. ^s-bf4eeade4d1170c3531ccadc
 
 
 13. Veislės palaikytojas – asmuo, užtikrinantis būdingų augalo veislės savybių palaikymą. ^s-849026eeee68b1298c42bff1
@@ -297,7 +297,7 @@ priedas
 6. 1998 m. liepos 20 d. Tarybos direktyva 98/56/EB dėl prekybos dekoratyvinių augalų dauginamąja medžiaga (OL 2004 m. specialusis leidimas, 3 skyrius, 23 tomas, p. 363) su paskutiniais pakeitimais, padarytais 2003 m. balandžio 14 d. Tarybos reglamentu (EB) 806/2003 (OL 2004 m. specialusis leidimas, 1 skyrius, 4 tomas, p. 301). ^s-4f2b86f8a648dcd8b195e381
 
 
-7. 2002 m. birželio 13 d. Tarybos direktyva 2002/53/EB dėl bendrojo žemės ūkio augalų veislių katalogo (OL 2004 m. specialusis leidimas, 3 skyrius, 36 tomas, p. 281) su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentu (EB) 1829/2003 (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 432). ^s-9a87bea122d5b536f3d2aa9e
+7. 2002 m. birželio 13 d. Tarybos direktyva 2002/53/EB dėl bendrojo žemės ūkio augalų veislių katalogo (OL 2004 m. specialusis leidimas, 3 skyrius, 36 tomas, p. 281) su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [reglamentu (EB) 1829/2003](https://eur-lex.europa.eu/eli/reg/1829/2003/oj) (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 432). ^s-9a87bea122d5b536f3d2aa9e
 
 
 8. 2002 m. birželio 13 d. Tarybos direktyva 2002/54/EB dėl prekybos runkelių sėkla (OL 2004 m. specialusis leidimas, 3 skyrius, 36 tomas, p. 292) su paskutiniais pakeitimais, padarytais 2004 m. gruodžio 22 d. Tarybos direktyva 2004/117/EB (OL 2005 L 14, p. 18). ^s-eee680af880b657d0c9bdfb5

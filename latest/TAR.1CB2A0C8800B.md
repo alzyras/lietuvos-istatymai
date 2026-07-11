@@ -40,7 +40,7 @@ Vilnius
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos įstatymą „Dėl Tarnybos Lietuvos Respublikos prokuratūroje statuto patvirtinimo“ (Žin., 1995, Nr. 15-345); ^s-175f242cfe4bc816860338f9
+1) Lietuvos Respublikos įstatymą [„Dėl Tarnybos Lietuvos Respublikos prokuratūroje statuto patvirtinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.1206CB9E10F2) (Žin., 1995, Nr. 15-345); ^s-175f242cfe4bc816860338f9
 
 
 2) Lietuvos Respublikos tarnybos Lietuvos Respublikos prokuratūroje statuto papildymo 69-1 straipsniu įstatymą (Žin., 2001, Nr. 39-1339); ^s-2bd4761de20db7454baa55dd

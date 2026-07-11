@@ -44,7 +44,7 @@ Vilnius
 1. Papildyti [[#^s-7733fe600bffb292aa51a0c1|2 straipsnį]] nauja 7 dalimi: ^s-40a1a9c4c4c5f59c067cb347
 
 
-„7. Eksperimentinės kategorijos orlaiviai – orlaiviai, išvardyti 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančio Europos aviacijos saugos agentūrą, panaikinančio Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB, II priede.“
+„7. Eksperimentinės kategorijos orlaiviai – orlaiviai, išvardyti 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančio Europos aviacijos saugos agentūrą, panaikinančio Tarybos direktyvą 91/670/EEB, [Reglamentą (EB) Nr. 1592/2002](https://eur-lex.europa.eu/eli/reg/1592/2002/oj) ir Direktyvą 2004/36/EB, II priede.“
 
 
 2. Buvusias [[#^s-7733fe600bffb292aa51a0c1|2 straipsnio]] 7–38 dalis laikyti atitinkamai 8–39 dalimis. ^s-96d2b207c0644ee6b03a2d8a
@@ -111,7 +111,7 @@ Papildyti 37 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 2. Pakeisti 72 straipsnio 2 dalį ir ją išdėstyti taip: ^s-ad93f8d31a1919cdd436a075
 
 
-„2. Rinkliavų už naudojimąsi oro uostais maksimalius dydžius, rinkliavų už naudojimąsi oro uostais ir oro navigacijos paslaugas Lietuvos Respublikos oro erdvėje mokėjimo ir naudojimosi tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Maršruto ir terminalo rinkliavų dydžiai, jų mokėjimo ir naudojimo tvarka nustatoma pagal 2006 m. gruodžio 6 d. Komisijos reglamentą (EB) Nr. 1794/2006, nustatantį bendrąją mokesčių už oro navigacijos paslaugas sistemą, ir Daugiašalį susitarimą dėl maršruto rinkliavų.“
+„2. Rinkliavų už naudojimąsi oro uostais maksimalius dydžius, rinkliavų už naudojimąsi oro uostais ir oro navigacijos paslaugas Lietuvos Respublikos oro erdvėje mokėjimo ir naudojimosi tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. Maršruto ir terminalo rinkliavų dydžiai, jų mokėjimo ir naudojimo tvarka nustatoma pagal 2006 m. gruodžio 6 d. Komisijos [reglamentą (EB) Nr. 1794/2006](https://eur-lex.europa.eu/eli/reg/1794/2006/oj), nustatantį bendrąją mokesčių už oro navigacijos paslaugas sistemą, ir Daugiašalį susitarimą dėl maršruto rinkliavų.“
 
 
 3. Pakeisti 72 straipsnio 3 dalį ir ją išdėstyti taip: ^s-3c40407eccf2156060f8647b
@@ -126,13 +126,13 @@ Papildyti 37 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 1. Pakeisti Įstatymo priedo 5 punktą ir jį išdėstyti taip: ^s-bdc195613d68ca5fd1eee651
 
 
-„5. 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiantis Europos aviacijos saugos agentūrą, panaikinantis Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB (OL 2008 L 79, 51 tomas).“
+„5. 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiantis Europos aviacijos saugos agentūrą, panaikinantis Tarybos direktyvą 91/670/EEB, [Reglamentą (EB) Nr. 1592/2002](https://eur-lex.europa.eu/eli/reg/1592/2002/oj) ir Direktyvą 2004/36/EB (OL 2008 L 79, 51 tomas).“
 
 
 2. Papildyti Įstatymo priedą 14 punktu: ^s-145bfe4a6bcf47693bcce2b9
 
 
-„14. 2006 m. gruodžio 6 d. Komisijos reglamentas (EB) Nr. 1794/2006, nustatantis bendrąją mokesčių už oro navigacijos paslaugas sistemą (OL 2006 L 341, p. 3).“
+„14. 2006 m. gruodžio 6 d. Komisijos [reglamentas (EB) Nr. 1794/2006](https://eur-lex.europa.eu/eli/reg/1794/2006/oj), nustatantis bendrąją mokesčių už oro navigacijos paslaugas sistemą (OL 2006 L 341, p. 3).“
 
 
 ### 8 straipsnis. Įstatymo įgyvendinimas ^s-417748af2d4c7c4f563755ee

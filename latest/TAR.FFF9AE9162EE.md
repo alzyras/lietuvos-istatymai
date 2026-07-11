@@ -179,19 +179,19 @@ Pripažinti netekusiais galios:
 1) Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymą (Žin., 1991, Nr.12-309); ^s-b0bfc803a85df149090a41b0
 
 
-2) Lietuvos Respublikos Aukščiausiosios Tarybos 1991 m. balandžio 9 d. nutarimą Nr.I-1205 „Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo įsigaliojimo“ (Žin., 1991, Nr.12-310); ^s-6299e1841daf345b505f013b
+2) Lietuvos Respublikos Aukščiausiosios Tarybos [1991 m. balandžio 9 d. nutarimą Nr.I-1205](https://e-tar.lt/portal/lt/legalAct/TAR.9B2722FAD305) [„Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo įsigaliojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.9B2722FAD305) (Žin., 1991, Nr.12-310); ^s-6299e1841daf345b505f013b
 
 
-3) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo papildymo“ (Žin., 1994, Nr.30-528); ^s-ab2fe95c8a4ddd4f6299ce5f
+3) Lietuvos Respublikos įstatymą [„Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.654E6FB0C7AC) (Žin., 1994, Nr.30-528); ^s-ab2fe95c8a4ddd4f6299ce5f
 
 
-4) Lietuvos Respublikos Seimo 1994 m. balandžio 12 d. nutarimą Nr.I-428 „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo įsigaliojimo“ pakeitimo“ (Žin., 1994, Nr.30-529); ^s-0abb88dc04ef06ee0bc82666
+4) Lietuvos Respublikos Seimo [1994 m. balandžio 12 d. nutarimą Nr.I-428](https://e-tar.lt/portal/lt/legalAct/TAR.B3FBF10F67AD) „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo įsigaliojimo“ pakeitimo“ (Žin., 1994, Nr.30-529); ^s-0abb88dc04ef06ee0bc82666
 
 
-5) Lietuvos Respublikos Seimo 1995 m. gruodžio 12 d. nutarimą Nr.I-1124 „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo įsigaliojimo“ pakeitimo“ (Žin., 1995, Nr.102-2286; 1996, Nr.15); ^s-eead5bd80440b83a49093b8f
+5) Lietuvos Respublikos Seimo [1995 m. gruodžio 12 d. nutarimą Nr.I-1124](https://e-tar.lt/portal/lt/legalAct/TAR.FAAF95C461F4) „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo įsigaliojimo“ pakeitimo“ (Žin., 1995, Nr.102-2286; 1996, Nr.15); ^s-eead5bd80440b83a49093b8f
 
 
-6) Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo 11, 12, 13 straipsnių pakeitimo įstatymą (Žin., 1996, Nr.46-1110). ^s-122e6da0798f9ee4cb12f17a
+6) [Lietuvos Respublikos mokesčių už aplinkos teršimą įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.897569AA8270) [11](https://e-tar.lt/portal/lt/legalAct/TAR.897569AA8270), [12](https://e-tar.lt/portal/lt/legalAct/TAR.897569AA8270), [13](https://e-tar.lt/portal/lt/legalAct/TAR.897569AA8270) straipsnių pakeitimo įstatymą (Žin., 1996, Nr.46-1110). ^s-122e6da0798f9ee4cb12f17a
 
 
 

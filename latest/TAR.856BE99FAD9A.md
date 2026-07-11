@@ -67,7 +67,7 @@ Pakeisti [[#^s-31dec44ccb6b76c2a952a4ba|12 straipsnio 1 dalį]] ir ją išdėsty
 ### 2 straipsnis. 13 straipsnio 1 bei 2 punktų pakeitimas ir straipsnio papildymas 4 punktu ^s-979c67ba76d8c6ae555c4bb0
 
 
-1. Pakeisti [[#^s-b6984d59f3c5cdc059d3d0e2|13 straipsnio]] 1 ir [[#^s-01bfc1c3e39f311f5f2a22db|2 punktus]] ir juos išdėstyti taip: ^s-e29626d1fa2d46f4dfb79272
+1. Pakeisti [[#^s-b6984d59f3c5cdc059d3d0e2|13 straipsnio]] 1 ir 2 punktus ir juos išdėstyti taip: ^s-e29626d1fa2d46f4dfb79272
 
 
 „1) rengėsi, kėsinosi ar padarė tarptautinius nusikaltimus, numatytus Lietuvos Respublikos tarptautinėse sutartyse arba tarptautinėje paprotinėje teisėje, tokius kaip: agresija, genocidas, nusikaltimai žmoniškumui, karo nusikaltimai;
@@ -108,7 +108,7 @@ Pakeisti [[#^s-7d5a94015962ecabb053105a|14 straipsnį]] ir jį išdėstyti taip:
 1. Pakeisti [[#^s-706a241a124c6c005782267c|15 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-2b2c7e0220597b760787cb65
 
 
-„2. Lietuvos Respublikai prisiekiama viešai ir iškilmingai Vidaus reikalų ministerijoje arba Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje užsienyje. Asmenys, lietuvių kalba perskaitę [[#^s-2b2c7e0220597b760787cb65|šio straipsnio 1 dalyje]] išdėstytą tekstą ir jį pasirašę, laikomi prisiekusiais Lietuvos Respublikai.“
+„2. Lietuvos Respublikai prisiekiama viešai ir iškilmingai Vidaus reikalų ministerijoje arba Lietuvos Respublikos diplomatinėje atstovybėje ar konsulinėje įstaigoje užsienyje. Asmenys, lietuvių kalba perskaitę šio straipsnio 1 dalyje išdėstytą tekstą ir jį pasirašę, laikomi prisiekusiais Lietuvos Respublikai.“
 
 
 2. Papildyti 15 straipsnį 3 dalimi: ^s-fb0137645e760256d9416c82
@@ -124,19 +124,19 @@ Pakeisti [[#^s-7d5a94015962ecabb053105a|14 straipsnį]] ir jį išdėstyti taip:
 1. Papildyti [[#^s-f560db10a386fb6d4a918f83|16 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-3f388d3b0b6e1c18053d80dd
 
 
-„1. Respublikos Prezidentas, vadovaudamasis šiuo Įstatymu, gali suteikti Lietuvos Respublikos pilietybę nusipelniusiems Lietuvos Respublikai ir integravusiems į Lietuvos visuomenę užsienio valstybių piliečiams ar asmenims be pilietybės išimties tvarka netaikant jiems šio Įstatymo [[#^s-03a44b6a14e2ca8d39a3cb2a|12 straipsnyje]] numatytų pilietybės suteikimo sąlygų. Nuopelnais Lietuvos Respublikai laikytina užsienio valstybės piliečio ar asmens be pilietybės veikla, kuria asmuo ypač reikšmingai prisideda prie Lietuvos Respublikos valstybingumo stiprinimo, Lietuvos Respublikos galios ir jos autoriteto tarptautinėje bendruomenėje didinimo.“
+„1. Respublikos Prezidentas, vadovaudamasis šiuo Įstatymu, gali suteikti Lietuvos Respublikos pilietybę nusipelniusiems Lietuvos Respublikai ir integravusiems į Lietuvos visuomenę užsienio valstybių piliečiams ar asmenims be pilietybės išimties tvarka netaikant jiems šio Įstatymo [[#^s-03a44b6a14e2ca8d39a3cb2a|12 straipsnyje]] numatytų [pilietybės suteikimo](https://e-tar.lt/portal/lt/legalAct/8b65c1c0355a11e78397ae072f58c508) sąlygų. Nuopelnais Lietuvos Respublikai laikytina užsienio valstybės piliečio ar asmens be pilietybės veikla, kuria asmuo ypač reikšmingai prisideda prie Lietuvos Respublikos valstybingumo stiprinimo, Lietuvos Respublikos galios ir jos autoriteto tarptautinėje bendruomenėje didinimo.“
 
 
-2. Papildyti [[#^s-0664aa316031380e425390e9|16 straipsnį]] nauja [[#^s-a5c8fd471d49fe3e83def77a|2 dalimi]]: ^s-a5c8fd471d49fe3e83def77a
+2. Papildyti [[#^s-0664aa316031380e425390e9|16 straipsnį]] nauja 2 dalimi: ^s-a5c8fd471d49fe3e83def77a
 
 
 „2. Šio straipsnio 1 dalis netaikoma šio Įstatymo 20 straipsnyje nurodytiems asmenims.“
 
 
-3. Buvusią [[#^s-29a487567f7e17ac5e9a4f26|16 straipsnio 2 dalį]] laikyti [[#^s-e697b72121f48adc8c826e58|3 dalimi]], ją papildyti ir išdėstyti taip: ^s-e697b72121f48adc8c826e58
+3. Buvusią [[#^s-29a487567f7e17ac5e9a4f26|16 straipsnio 2 dalį]] laikyti 3 dalimi, ją papildyti ir išdėstyti taip: ^s-e697b72121f48adc8c826e58
 
 
-„3. Lietuvos Respublikos pilietybės suteikimas išimties tvarka savaime nesukelia teisinių pasekmių pilietybę įgijusio asmens šeimos nariams. Ši nuostata netaikoma pilietybę įgijusio asmens nepilnamečiam vaikui, kuris yra asmuo be pilietybės. Nepilnamečio vaiko, kuris yra asmuo be pilietybės, Lietuvos Respublikos pilietybės klausimas sprendžiamas pagal šio Įstatymo 8 ir [[#^s-3060e9cac1a65907e05356fe|9 straipsnių]] arba 22 ir 23 straipsnių reikalavimus.“
+„3. Lietuvos Respublikos pilietybės suteikimas išimties tvarka savaime nesukelia teisinių pasekmių pilietybę įgijusio asmens šeimos nariams. Ši nuostata netaikoma pilietybę įgijusio asmens nepilnamečiam vaikui, kuris yra asmuo be pilietybės. Nepilnamečio vaiko, kuris yra asmuo be pilietybės, Lietuvos Respublikos pilietybės klausimas sprendžiamas pagal šio Įstatymo [[#^s-ec458f247624b551e9714a8c|8]] ir [[#^s-3060e9cac1a65907e05356fe|9]] straipsnių arba 22 ir 23 straipsnių reikalavimus.“
 
 
 
@@ -159,10 +159,10 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 „20 straipsnis. Lietuvos Respublikos pilietybės grąžinimas
 
 
-1. Asmeniui, netekusiam Lietuvos Respublikos pilietybės iki šio Įstatymo įsigaliojimo dienos galiojusių Lietuvos Respublikoje įstatymų pagrindais, taip pat šio Įstatymo 18 straipsnio 1 ar 3 dalyje, Pilietybės įstatymo įgyvendinimo įstatymo 4 straipsnio 7 dalyje numatytais pagrindais, pagal jo prašymą gali būti grąžinta Lietuvos Respublikos pilietybė, jei šis asmuo nėra kitos valstybės pilietis ir atitinka šio Įstatymo [[#^s-31dec44ccb6b76c2a952a4ba|12 straipsnio 1 dalies]] 2, 3 ir 4 punktuose nustatytas sąlygas ir jei nėra aplinkybių, nurodytų šio Įstatymo [[#^s-b6984d59f3c5cdc059d3d0e2|13 straipsnyje]]. ^s-60775368156419daadf944eb
+1. Asmeniui, netekusiam Lietuvos Respublikos pilietybės iki šio Įstatymo įsigaliojimo dienos galiojusių Lietuvos Respublikoje įstatymų pagrindais, taip pat šio Įstatymo 18 straipsnio 1 ar 3 dalyje, [Pilietybės įstatymo įgyvendinimo įstatymo 4 straipsnio 7 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.D8764BEC562D) numatytais pagrindais, pagal jo prašymą gali būti grąžinta Lietuvos Respublikos pilietybė, jei šis asmuo nėra kitos valstybės pilietis ir atitinka šio Įstatymo [[#^s-31dec44ccb6b76c2a952a4ba|12 straipsnio 1 dalies]] 2, 3 ir 4 punktuose nustatytas sąlygas ir jei nėra aplinkybių, nurodytų šio Įstatymo [[#^s-b6984d59f3c5cdc059d3d0e2|13 straipsnyje]]. ^s-60775368156419daadf944eb
 
 
-2. Asmeniui, netekusiam Lietuvos Respublikos pilietybės iki šio Įstatymo įsigaliojimo dienos galiojusių Lietuvos Respublikoje įstatymų pagrindais, taip pat šio Įstatymo 18 straipsnio 1 ar 3 dalyje, Pilietybės įstatymo įgyvendinimo įstatymo 4 straipsnio 7 dalyje numatytais pagrindais ir atitinkančiam šio Įstatymo 1 straipsnio 1 dalies 1, 2 ar 3 punktų sąlygas, Lietuvos Respublikos pilietybė gali būti grąžinta pagal tokio asmens prašymą, netaikant jam šio Įstatymo [[#^s-03a44b6a14e2ca8d39a3cb2a|12 straipsnyje]] nustatytų sąlygų.“ ^s-50fc9c6e0585cf053254674a
+2. Asmeniui, netekusiam Lietuvos Respublikos pilietybės iki šio Įstatymo įsigaliojimo dienos galiojusių Lietuvos Respublikoje įstatymų pagrindais, taip pat šio Įstatymo 18 straipsnio 1 ar 3 dalyje, [Pilietybės įstatymo įgyvendinimo įstatymo 4 straipsnio 7 dalyje numatytais pagrindais ir atitinkančiam šio Įstatymo 1 straipsnio 1 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.D8764BEC562D) [1](https://e-tar.lt/portal/lt/legalAct/TAR.D8764BEC562D), [2](https://e-tar.lt/portal/lt/legalAct/TAR.D8764BEC562D) ar [3](https://e-tar.lt/portal/lt/legalAct/TAR.D8764BEC562D) punktų sąlygas, Lietuvos Respublikos pilietybė gali būti grąžinta pagal tokio asmens prašymą, netaikant jam šio Įstatymo [[#^s-03a44b6a14e2ca8d39a3cb2a|12 straipsnyje]] nustatytų sąlygų.“ ^s-50fc9c6e0585cf053254674a
 
 
 
@@ -172,13 +172,13 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 1. Pakeisti 21 straipsnio 1 dalį ir ją išdėstyti taip: ^s-18004266ceab8d47375fcc5e
 
 
-„1. Lietuvos Respublikos pilietybės suteikimo aktą teismas pripažįsta negaliojančiu, jeigu nustato, kad asmuo, įgijęs Lietuvos Respublikos pilietybę natūralizacijos ar optavimo būdu, įgijo Lietuvos Respublikos pilietybę pagal suklastotus dokumentus ar kitokios apgaulės būdu arba neatsisakė kitos valstybės pilietybės, arba teismui nustačius, kad jis iki pilietybės suteikimo ar po to rengėsi, kėsinosi ar padarė tarptautinius nusikaltimus, numatytus Lietuvos Respublikos tarptautinėse sutartyse arba tarptautinėje paprotinėje teisėje, tokius kaip: agresija, genocidas, nusikaltimai žmoniškumui, karo nusikaltimai, arba įstatymų nustatyta tvarka neturėjo teisės gauti leidimo gyventi Lietuvos Respublikoje, arba rengėsi, kėsinosi ar padarė nusikalstamas veikas prieš Lietuvos Respubliką.“
+„1. [Lietuvos Respublikos pilietybės suteikimo](https://e-tar.lt/portal/lt/legalAct/8b65c1c0355a11e78397ae072f58c508) aktą teismas pripažįsta negaliojančiu, jeigu nustato, kad asmuo, įgijęs Lietuvos Respublikos pilietybę natūralizacijos ar optavimo būdu, įgijo Lietuvos Respublikos pilietybę pagal suklastotus dokumentus ar kitokios apgaulės būdu arba neatsisakė kitos valstybės pilietybės, arba teismui nustačius, kad jis iki [pilietybės suteikimo](https://e-tar.lt/portal/lt/legalAct/8b65c1c0355a11e78397ae072f58c508) ar po to rengėsi, kėsinosi ar padarė tarptautinius nusikaltimus, numatytus Lietuvos Respublikos tarptautinėse sutartyse arba tarptautinėje paprotinėje teisėje, tokius kaip: agresija, genocidas, nusikaltimai žmoniškumui, karo nusikaltimai, arba įstatymų nustatyta tvarka neturėjo teisės gauti leidimo gyventi Lietuvos Respublikoje, arba rengėsi, kėsinosi ar padarė nusikalstamas veikas prieš Lietuvos Respubliką.“
 
 
 2. Pakeisti 21 straipsnio 2 dalį ir ją išdėstyti taip: ^s-a4e18c5f25ea7c23cf9b8048
 
 
-„2. Lietuvos Respublikos pilietybės suteikimo aktą teismas pripažįsta negaliojančiu ir tuo atveju, kai nustato, jog konkretus asmuo po 1940 m. birželio 15 d. organizavo ar vykdė gyventojų trėmimus ar gyventojų naikinimą, slopino rezistencinį judėjimą Lietuvoje ar po 1990 m. kovo 11 d. dalyvavo veiksmuose prieš Lietuvos Respublikos nepriklausomybę ir jos teritorijos vientisumą.“
+„2. [Lietuvos Respublikos pilietybės suteikimo](https://e-tar.lt/portal/lt/legalAct/8b65c1c0355a11e78397ae072f58c508) aktą teismas pripažįsta negaliojančiu ir tuo atveju, kai nustato, jog konkretus asmuo po 1940 m. birželio 15 d. organizavo ar vykdė gyventojų trėmimus ar gyventojų naikinimą, slopino rezistencinį judėjimą Lietuvoje ar po 1990 m. kovo 11 d. dalyvavo veiksmuose prieš Lietuvos Respublikos nepriklausomybę ir jos teritorijos vientisumą.“
 
 
 
@@ -233,7 +233,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 9. Pakeisti 26 straipsnio 10 dalį ir ją išdėstyti taip: ^s-58985b6f19835bce4f8438e1
 
 
-„10. Dėl asmens pripažinimo netekusiu Lietuvos Respublikos pilietybės pagal šio Įstatymo 18 straipsnio 3 dalį, dėl Lietuvos Respublikos pilietybės suteikimo akto pripažinimo negaliojančiu pagal šio Įstatymo 21 straipsnio 1 ir [[#^s-7852c841cc3943ef9577d097|2 dalis]] sprendimą priima Vilniaus apygardos administracinis teismas. Kreiptis į teismą šiame straipsnyje nurodytais atvejais turi teisę vidaus reikalų ministras ar jo įgaliota institucija, taip pat užsienio reikalų ministras ar jo įgaliota institucija. Teismas, priėmęs sprendimą pripažinti asmenį netekusiu Lietuvos Respublikos pilietybės ar Lietuvos Respublikos pilietybės suteikimo aktą pripažinti negaliojančiu, privalo paskelbti informaciją „Valstybės žinių“ priede „Informaciniai pranešimai.“
+„10. Dėl asmens pripažinimo netekusiu Lietuvos Respublikos pilietybės pagal šio Įstatymo 18 straipsnio 3 dalį, dėl Lietuvos Respublikos pilietybės suteikimo akto pripažinimo negaliojančiu pagal šio Įstatymo 21 straipsnio 1 ir 2 dalis sprendimą priima Vilniaus apygardos administracinis teismas. Kreiptis į teismą šiame straipsnyje nurodytais atvejais turi teisę vidaus reikalų ministras ar jo įgaliota institucija, taip pat užsienio reikalų ministras ar jo įgaliota institucija. Teismas, priėmęs sprendimą pripažinti asmenį netekusiu Lietuvos Respublikos pilietybės ar [Lietuvos Respublikos pilietybės suteikimo](https://e-tar.lt/portal/lt/legalAct/8b65c1c0355a11e78397ae072f58c508) aktą pripažinti negaliojančiu, privalo paskelbti informaciją „Valstybės žinių“ priede „Informaciniai pranešimai.“
 
 
 10. Pakeisti 26 straipsnio 11 dalį ir ją išdėstyti taip: ^s-a60c57b2a2e746715d9f87ce
@@ -272,7 +272,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 2. Pakeisti 28 straipsnio 1 dalį ir ją išdėstyti taip: ^s-130e4908102cc602305abbd8
 
 
-„1. Lietuvos Respublikos pilietybės suteikimo, jos grąžinimo pagal šio Įstatymo 20 straipsnio 1 dalį klausimus sprendžia Respublikos Prezidentas ir dėl to leidžia dekretus. Respublikos Prezidento dekretas dėl Lietuvos Respublikos pilietybės grąžinimo pagal šio Įstatymo 20 straipsnio 1 dalį leidžiamas po to, kai asmuo pateikia dokumentą, patvirtinantį, kad jis nėra kitos valstybės pilietis. Respublikos Prezidento dekretus dėl Lietuvos Respublikos pilietybės suteikimo, jos grąžinimo pasirašo vidaus reikalų ministras.“
+„1. [Lietuvos Respublikos pilietybės suteikimo, jos grąžinimo pagal šio Įstatymo 20 straipsnio 1 dalį](https://e-tar.lt/portal/lt/legalAct/8b65c1c0355a11e78397ae072f58c508) klausimus sprendžia Respublikos Prezidentas ir dėl to leidžia dekretus. Respublikos Prezidento dekretas dėl Lietuvos Respublikos pilietybės grąžinimo pagal šio Įstatymo 20 straipsnio 1 dalį leidžiamas po to, kai asmuo pateikia dokumentą, patvirtinantį, kad jis nėra kitos valstybės pilietis. Respublikos Prezidento dekretus dėl Lietuvos Respublikos pilietybės suteikimo, jos grąžinimo pasirašo vidaus reikalų ministras.“
 
 
 3. Pakeisti 28 straipsnio 3 dalį ir ją išdėstyti taip: ^s-e78ac9f5ed0f578c7149501c
@@ -356,13 +356,13 @@ Pakartotinai asmenų prašymai suteikti Lietuvos Respublikos pilietybę ar ją g
 ### 16 straipsnis. Įstatymo įsigaliojimas ^s-0664aa316031380e425390e9
 
 
-1. Šio įstatymo 1, 2, [[#^s-400c62af6570cc4f227adf83|5 straipsniai]] ir [[#^s-3060e9cac1a65907e05356fe|9 straipsnio]] 2, 4, 5, 6 ir 7 dalys įsigalioja nuo 2005 m. sausio 1 d. ^s-f560db10a386fb6d4a918f83
+1. Šio įstatymo [[#^s-8a1ea8066cde7805a0f5e2f1|1]], [[#^s-979c67ba76d8c6ae555c4bb0|2]], [[#^s-400c62af6570cc4f227adf83|5]] straipsniai ir [[#^s-3060e9cac1a65907e05356fe|9 straipsnio]] [[#^s-7852c841cc3943ef9577d097|2]], [[#^s-061cf9bdd85d1d08a9f31fbc|4]], [[#^s-29d0978181669f425b61c515|5]], [[#^s-3e0a5d37fa8eea3e7a2f0f76|6]] ir [[#^s-8a182fd53c3616a13175cbb4|7]] dalys įsigalioja nuo 2005 m. sausio 1 d. ^s-f560db10a386fb6d4a918f83
 
 
 2. Šio įstatymo [[#^s-79a5dc036339201e3f8f679e|3 straipsnyje]] asmenims nustatyti gyvenimo bendrai su sutuoktiniu, kuris yra Lietuvos Respublikos pilietis, Lietuvos Respublikos teritorijoje terminai netaikomi asmenims, sudariusiems santuoką su Lietuvos Respublikos piliečiais iki šio įstatymo [[#^s-79a5dc036339201e3f8f679e|3 straipsnio]] įsigaliojimo. Šiems asmenims yra taikomi 2002 m. rugsėjo 17 d. priimto [[latest/TAR.F628061443C6#^s-a66a3ffa61c0781f682a5bef|Lietuvos Respublikos pilietybės įstatymo 14 straipsnyje]] nustatyti gyvenimo Lietuvos Respublikos teritorijoje terminai. ^s-29a487567f7e17ac5e9a4f26
 
 
-3. Šis įstatymas, išskyrus [[#^s-f560db10a386fb6d4a918f83|šio straipsnio 1 dalyje]] nurodytus atvejus ir šio įstatymo 3 ir [[#^s-b91c47ab58232486ee098e92|15 straipsnius]], įsigalioja nuo 2006 m. balandžio 1 d. ^s-11a8e490c91bdd724a499d6a
+3. Šis įstatymas, išskyrus [[#^s-f560db10a386fb6d4a918f83|šio straipsnio 1 dalyje]] nurodytus atvejus ir šio įstatymo [[#^s-79a5dc036339201e3f8f679e|3]] ir [[#^s-b91c47ab58232486ee098e92|15]] straipsnius, įsigalioja nuo 2006 m. balandžio 1 d. ^s-11a8e490c91bdd724a499d6a
 
 
 

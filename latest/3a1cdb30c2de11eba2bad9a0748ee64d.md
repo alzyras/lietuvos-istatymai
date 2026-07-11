@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-53bb9781060df1fff7b25a49
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio antrąja dalimi, Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 10 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2021 m. balandžio 6 d. dekretą Nr. 1K-563, ratifikuoja 2018 m. spalio 19 d. Briuselyje priimtą Europos Sąjungos bei jos valstybių narių ir Singapūro Respublikos investicijų apsaugos susitarimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio antrąja dalimi, [[latest/TAR.5BCEC9B41811|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 10 punktu]] ir atsižvelgdamas į Lietuvos Respublikos Prezidento [2021 m. balandžio 6 d. dekretą Nr. 1K-563](https://e-tar.lt/portal/lt/legalAct/310f404096a711eb9fecb5ecd3bd711c), ratifikuoja 2018 m. spalio 19 d. Briuselyje priimtą Europos Sąjungos bei jos valstybių narių ir Singapūro Respublikos investicijų apsaugos susitarimą.
 
 
 

@@ -43,13 +43,13 @@ Pripažinti netekusiais galios:
 1) Lietuvos Respublikos pinigų išleidimo įstatymą (Žin., 1991, Nr. 33-896); ^s-bba4076af41d3e34ef66dbe7
 
 
-2) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos pinigų išleidimo įstatymo pakeitimo“ (Žin., 1993, Nr. 12-297); ^s-7a1b2a6f7b8c9a2a15ecc01d
+2) Lietuvos Respublikos įstatymą [„Dėl Lietuvos Respublikos pinigų išleidimo įstatymo pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.92F02C5AC355) (Žin., 1993, Nr. 12-297); ^s-7a1b2a6f7b8c9a2a15ecc01d
 
 
-3) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos pinigų išleidimo įstatymo 3 straipsnio papildymo“ (Žin., 1993, Nr. 27-622); ^s-98f8d13548ebc8bc055f5c84
+3) Lietuvos Respublikos įstatymą [„Dėl Lietuvos Respublikos pinigų išleidimo įstatymo 3 straipsnio papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.DFF26E515FA1) (Žin., 1993, Nr. 27-622); ^s-98f8d13548ebc8bc055f5c84
 
 
-4) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos piniginių vienetų pavadinimo bei jų dydžių pakeitimo ir vartojimo įstatymuose ir kituose norminiuose aktuose“ (Žin., 1992, Nr. 30-917); ^s-f9904dcb27ca996987ee9045
+4) Lietuvos Respublikos įstatymą [„Dėl Lietuvos Respublikos piniginių vienetų pavadinimo bei jų dydžių pakeitimo ir vartojimo įstatymuose ir kituose norminiuose aktuose“](https://e-tar.lt/portal/lt/legalAct/TAR.3DF123CB94F0) (Žin., 1992, Nr. 30-917); ^s-f9904dcb27ca996987ee9045
 
 
 5) Lietuvos Respublikos pinigų įstatymą (Žin., 1993, Nr. 27-623); ^s-b8f3227d1a02e3a76a9a4167
@@ -58,25 +58,25 @@ Pripažinti netekusiais galios:
 6) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos pinigų įstatymo pakeitimo ir papildymo įstatymo“ (Žin., 1994, Nr. 30-532); ^s-69a13307d089e15b588406f6
 
 
-7) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos pinigų įstatymo 4 straipsnio pakeitimo“ (Žin., 1994, Nr. 81-1516); ^s-f3da13e9d7b8d475d5ace81f
+7) Lietuvos Respublikos įstatymą [„Dėl Lietuvos Respublikos pinigų įstatymo 4 straipsnio pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.D8C74B39D5BC) (Žin., 1994, Nr. 81-1516); ^s-f3da13e9d7b8d475d5ace81f
 
 
-8) Lietuvos Respublikos pinigų įstatymo 3 straipsnio papildymo ir pakeitimo įstatymą (Žin., 1996, Nr. 35-865); ^s-40707b76feb238f51c886c5f
+8) [Lietuvos Respublikos pinigų įstatymo 3 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.03086D82AE1F) papildymo ir pakeitimo įstatymą (Žin., 1996, Nr. 35-865); ^s-40707b76feb238f51c886c5f
 
 
-9) Lietuvos Respublikos pinigų įstatymo 3 straipsnio pakeitimo įstatymą (Žin., 1996, Nr. 116-2697); ^s-8f620571bea4b5c991f8af8a
+9) [Lietuvos Respublikos pinigų įstatymo 3 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.03086D82AE1F) pakeitimo įstatymą (Žin., 1996, Nr. 116-2697); ^s-8f620571bea4b5c991f8af8a
 
 
-10) Lietuvos Respublikos pinigų įstatymo 3 straipsnio pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymą (Žin., 2002, Nr. 105-4688); ^s-854e0f1958acb0803fc69465
+10) [Lietuvos Respublikos pinigų įstatymo 3 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.03086D82AE1F) pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymą (Žin., 2002, Nr. 105-4688); ^s-854e0f1958acb0803fc69465
 
 
 11) Lietuvos Respublikos lito patikimumo įstatymą (Žin., 1994, Nr. 24-378); ^s-dd161892cab1103671130a1c
 
 
-12) Lietuvos Respublikos lito patikimumo įstatymo 3 straipsnio pakeitimo įstatymą (Žin., 1994, Nr. 59-1157); ^s-050e4c01bc59e135880bca77
+12) [Lietuvos Respublikos lito patikimumo įstatymo 3 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.085D2DB7DA2C) pakeitimo įstatymą (Žin., 1994, Nr. 59-1157); ^s-050e4c01bc59e135880bca77
 
 
-13) Lietuvos Respublikos lito patikimumo įstatymo papildymo 8 straipsniu įstatymą (Žin., 2001, Nr. 34-1126). ^s-f403aa3c667311cd5835e446
+13) [Lietuvos Respublikos lito patikimumo įstatymo papildymo 8 straipsniu](https://e-tar.lt/portal/lt/legalAct/TAR.085D2DB7DA2C) įstatymą (Žin., 2001, Nr. 34-1126). ^s-f403aa3c667311cd5835e446
 
 
 

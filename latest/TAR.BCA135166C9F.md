@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-efbd2b0057252b077f9c9c6e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 9 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos Tarybos tautinių mažumų apsaugos pagrindų konvenciją“, ratifikuoja Europos Tarybos tautinių mažumų apsaugos pagrindų konvenciją.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 9 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos Tarybos tautinių mažumų apsaugos pagrindų konvenciją“](https://e-tar.lt/portal/lt/legalAct/TAR.D2FDE7654342), ratifikuoja Europos Tarybos tautinių mažumų apsaugos pagrindų konvenciją.
 
 
 

@@ -107,10 +107,10 @@ Pakeisti 6 straipsnį ir jį išdėstyti taip:
 6) sustabdyti arba uždrausti neteisėtą ūkinę veiklą miško valdoje, jeigu šia veikla pažeidžiamas šis įstatymas, kitų teisės aktų reikalavimai ir daroma žala miškui; ^s-3e51681d201a7ae4d89ef283
 
 
-7) įstatymų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus, skirti administracines nuobaudas už šio įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus Administracinių teisės pažeidimų kodekse; ^s-716a3c8c4b0f99efc730f23d
+7) įstatymų nustatyta tvarka surašyti administracinių teisės pažeidimų protokolus, skirti administracines nuobaudas už šio įstatymo ir kitų teisės aktų reikalavimų pažeidimus, numatytus [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492); ^s-716a3c8c4b0f99efc730f23d
 
 
-8) [[latest/TAR.389CB90C666D|Ginklų ir šaudmenų kontrolės įstatymo]] nustatyta tvarka saugoti, laikyti ir nešioti šaunamąjį ginklą, o šio straipsnio 3–[[#^s-a94f218a3072b935a503fba3|9 dalyse]] nustatyta tvarka naudoti šaunamąjį ginklą, fizinę ir psichinę prievartą bei specialiąsias priemones; ^s-e9a057bb4dd37c36779226a3
+8) [[latest/TAR.389CB90C666D|Ginklų ir šaudmenų kontrolės įstatymo]] nustatyta tvarka saugoti, laikyti ir nešioti šaunamąjį ginklą, o šio straipsnio [[latest/TAR.389CB90C666D|3]]–[[latest/TAR.389CB90C666D|9]] dalyse nustatyta tvarka naudoti šaunamąjį ginklą, fizinę ir psichinę prievartą bei specialiąsias priemones; ^s-e9a057bb4dd37c36779226a3
 
 
 9) valstybiniai miškų pareigūnai turi ir kitų įstatymų suteiktų teisių. ^s-06578f7e54614665238f4ff6

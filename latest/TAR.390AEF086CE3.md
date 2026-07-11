@@ -91,7 +91,7 @@ Teismai, vykdydami teisingumą, yra nepriklausomi nuo kitų valstybės valdžios
 ### 3 straipsnis. Teisėjų nepriklausomumas ^s-aa56af589fc8962ec5a9bbcf
 
 
-1. Teisėjų nepriklausomumo garantijas bei teisėjų statusą nustato Lietuvos Respublikos Konstitucija, šis ir kiti įstatymai bei kiti teisės aktai. ^s-c53b95a51e6fbeac00bfc1eb
+1. Teisėjų nepriklausomumo garantijas bei teisėjų statusą nustato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis ir kiti įstatymai bei kiti teisės aktai. ^s-c53b95a51e6fbeac00bfc1eb
 
 
 2. Teisėjai, vykdydami teisingumą, veikia nešališkai ir klauso tik įstatymų. ^s-034f180bd7fd4ee797a81ab9
@@ -210,7 +210,7 @@ LIETUVOS RESPUBLIKOS TEISMAI
 ### 12 straipsnis. Lietuvos Respublikos teismų sistema ir steigimas ^s-fabd27d6f94da5177f9071a6
 
 
-1. Teismų sistemą ir kompetenciją nustato Lietuvos Respublikos Konstitucija, šis ir kiti įstatymai. Lietuvos Respublikos teismai steigiami įstatymu. ^s-9587b428145027eb97f0ae6c
+1. Teismų sistemą ir kompetenciją nustato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis ir kiti įstatymai. Lietuvos Respublikos teismai steigiami įstatymu. ^s-9587b428145027eb97f0ae6c
 
 
 2. Lietuvos Respublikos vientisą teismų sistemą sudaro bendrosios kompetencijos ir specializuoti teismai. ^s-5170da22a99062d16c6118b4
@@ -471,7 +471,7 @@ Aukščiausiojo Teismo senatas:
 1) tvirtina teismų praktikos taikant įstatymus ir kitus teisės aktus atskirų kategorijų bylose apibendrinimo apžvalgas ir teikia rekomendacinius išaiškinimus; ^s-7f0826aaf8ea6bd9ae9664b5
 
 
-2) svarsto medžiagos paskelbimo Aukščiausiojo Teismo biuletenyje būtinumą, išskyrus šio Įstatymo [[#^s-490914ebc0e6f0e0249c0606|23 straipsnio 2 dalies]] 1 ir [[#^s-6db77e338098a72d0019f814|2 punktuose]] numatytus atvejus; ^s-6db77e338098a72d0019f814
+2) svarsto medžiagos paskelbimo Aukščiausiojo Teismo biuletenyje būtinumą, išskyrus šio Įstatymo [[#^s-490914ebc0e6f0e0249c0606|23 straipsnio 2 dalies]] [[#^s-df30b07e570a87cf8c417766|1]] ir [[#^s-3b91ca2061a25f7671f3d789|2]] punktuose numatytus atvejus; ^s-6db77e338098a72d0019f814
 
 
 3) sprendžia kitus Senato kompetencijai įstatymų priskirtus klausimus; ^s-3a76b6072944068245066750
@@ -634,7 +634,7 @@ BYLŲ NAGRINĖJIMAS TEISMUOSE
 ### 33 straipsnis. Bylų nagrinėjimo teisės šaltiniai ^s-6d1c3d1a20b6145735c8a5cc
 
 
-1. Nagrinėdami bylas, teismai vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Vyriausybės nutarimais, kitais Lietuvos Respublikoje galiojančiais teisės aktais, kurie neprieštarauja įstatymams. ^s-2b6b08c0853afbb863bc7cae
+1. Nagrinėdami bylas, teismai vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Vyriausybės nutarimais, kitais Lietuvos Respublikoje galiojančiais teisės aktais, kurie neprieštarauja įstatymams. ^s-2b6b08c0853afbb863bc7cae
 
 
 2. Nagrinėdami bylas, teismai taip pat vadovaujasi oficialiai paskelbtais Lietuvos Respublikos Konstitucinio Teismo nutarimais ir atsižvelgia į Aukščiausiojo Teismo biuletenyje paskelbtas šio teismo nutartis bei Vyriausiojo administracinio teismo biuletenyje paskelbtus šio teismo sprendimus, nutarimus ir nutartis. ^s-dca64db48624bdafcb4c40e4
@@ -751,7 +751,7 @@ BYLŲ NAGRINĖJIMAS TEISMUOSE
 5. Aukščiausiojo Teismo biuletenyje bei interneto tinklapyje skelbiami šiame Įstatyme nustatyti Aukščiausiojo Teismo nutarimai ir nutartys. ^s-8d3b8f7f635164bee1d6438d
 
 
-6. Šio straipsnio 2, 3, 4 ir [[#^s-8d3b8f7f635164bee1d6438d|5 dalyse]] nurodytais atvejais teismų sprendimai, nuosprendžiai, nutarimai ir nutartys skelbiami nepažeidžiant asmens duomenų apsaugos, valstybės, tarnybos, komercinės, profesinės ir kitų įstatymų saugomų paslapčių apsaugos reikalavimų, taip pat laikantis kitų įstatymuose numatytų apribojimų ir draudimų. ^s-de22cb5fe1ffb573311ea53a
+6. Šio straipsnio [[#^s-a6d01b4948ad78151891bc82|2]], [[#^s-c1b629a792c758edac6327fc|3]], [[#^s-bb3451960bf7e5a689a81b48|4]] ir [[#^s-8d3b8f7f635164bee1d6438d|5]] dalyse nurodytais atvejais teismų sprendimai, nuosprendžiai, nutarimai ir nutartys skelbiami nepažeidžiant asmens duomenų apsaugos, valstybės, tarnybos, komercinės, profesinės ir kitų įstatymų saugomų paslapčių apsaugos reikalavimų, taip pat laikantis kitų įstatymuose numatytų apribojimų ir draudimų. ^s-de22cb5fe1ffb573311ea53a
 
 
 
@@ -1067,7 +1067,7 @@ TEISĖJŲ SKYRIMAS IR PRIESAIKA
 3. Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo ir Lietuvos vyriausiojo administracinio teismo teisėjo, sulaukusio 65 metų, įgaliojimus jį paskyrusi institucija gali pratęsti tol, kol jam sukaks 70 metų. Tokiais atvejais teisėjas, pageidaujantis, kad jo įgaliojimai būtų pratęsti, kreipiasi į Respublikos Prezidentą. Dėl įgaliojimų pratęsimo sprendžiama šiame Įstatyme nustatyta atitinkamo teismo teisėjo skyrimo tvarka. ^s-affce55b198a12cce1b5b26b
 
 
-4. Kol nesuėję šio straipsnio 1, 2 ir [[#^s-affce55b198a12cce1b5b26b|3 dalyse]] nustatyti terminai, teisėjo įgaliojimai gali būti nutraukti tik Lietuvos Respublikos Konstitucijoje ir šiame Įstatyme numatytais teisėjo atleidimo ar pašalinimo iš pareigų atvejais. ^s-1876c2826fbbbf7ccd79a70a
+4. Kol nesuėję šio straipsnio [[#^s-90715a5005fcc9ad071c4325|1]], [[#^s-0cc1741cd39c54182d9cf6ea|2]] ir [[#^s-affce55b198a12cce1b5b26b|3]] dalyse nustatyti terminai, teisėjo įgaliojimai gali būti nutraukti tik Lietuvos Respublikos Konstitucijoje ir šiame Įstatyme numatytais teisėjo atleidimo ar pašalinimo iš pareigų atvejais. ^s-1876c2826fbbbf7ccd79a70a
 
 
 5. Jeigu bylos nagrinėjimo metu pasibaigia teisėjo įgaliojimų laikas, jo įgaliojimai pratęsiami tol, kol byla bus baigta nagrinėti arba jos nagrinėjimas bus atidėtas. ^s-99ae41e49c2529247371c531
@@ -1228,7 +1228,7 @@ Aukščiausiojo Teismo teisėju gali būti skiriamas:
 ### 69 straipsnis. Teisinio pedagoginio darbo stažo pripažinimas ^s-9619cb19d99a3ddae7b73b8a
 
 
-Šio Įstatymo 66, 67 ir [[#^s-01f09ee96bf220e007c1cf29|68 straipsniuose]] nurodytu teisiniu pedagoginiu darbo stažu pripažįstamas teisės krypties socialinių mokslų daktaro ar habilituoto daktaro teisinis pedagoginis darbas universitetuose, rengiančiuose teisės bakalaurus ir (ar) teisės magistrus, taip pat teisininko profesinį kvalifikacinį laipsnį įgyjančius teisininkus, t. y. suteikiančiuose vienpakopį aukštąjį teisinį universitetinį išsilavinimą.
+Šio Įstatymo [[#^s-cd3ab492be51653e0b6c188c|66]], [[#^s-9c003f46b5fc7d21a613fea7|67]] ir [[#^s-01f09ee96bf220e007c1cf29|68]] straipsniuose nurodytu teisiniu pedagoginiu darbo stažu pripažįstamas teisės krypties socialinių mokslų daktaro ar habilituoto daktaro teisinis pedagoginis darbas universitetuose, rengiančiuose teisės bakalaurus ir (ar) teisės magistrus, taip pat teisininko profesinį kvalifikacinį laipsnį įgyjančius teisininkus, t. y. suteikiančiuose vienpakopį aukštąjį teisinį universitetinį išsilavinimą.
 
 
 
@@ -1241,7 +1241,7 @@ Aukščiausiojo Teismo teisėju gali būti skiriamas:
 2. Dėl apygardos teismo, apygardos administracinio teismo teisėjo skyrimo Respublikos Prezidentui pataria Teismų taryba. ^s-b1bf40fb92475e1f52b28c3e
 
 
-3. Kandidatūros į apygardos teismo, apygardos administracinio teismo teisėjus svarstomos Teismų taryboje šio Įstatymo [[#^s-fb000d08b4f3041b80860b74|56 straipsnio]] 3, 4, 5 ir 6 dalyse nustatyta tvarka. ^s-6a5ea905df9f4594584c1976
+3. Kandidatūros į apygardos teismo, apygardos administracinio teismo teisėjus svarstomos Teismų taryboje šio Įstatymo [[#^s-fb000d08b4f3041b80860b74|56 straipsnio]] [[#^s-4caf568d9f8620312339d260|3]], [[#^s-70dfbd883b779a3995842609|4]], [[#^s-0b6324bddfd53008cf69b9b1|5]] ir [[#^s-e1f7e04f2ab9b3152ffc965e|6]] dalyse nustatyta tvarka. ^s-6a5ea905df9f4594584c1976
 
 
 
@@ -1254,7 +1254,7 @@ Aukščiausiojo Teismo teisėju gali būti skiriamas:
 2. Dėl Vyriausiojo administracinio teismo teisėjo skyrimo Respublikos Prezidentui pataria Teismų taryba. ^s-bef1935968f83c6fd6e9d909
 
 
-3. Kandidatūros į Vyriausiojo administracinio teismo teisėjus svarstomos Teismų taryboje šio Įstatymo [[#^s-fb000d08b4f3041b80860b74|56 straipsnio]] 3, 4, 5 ir 6 dalyse nustatyta tvarka. ^s-3a25251dd979a4c01945c1a0
+3. Kandidatūros į Vyriausiojo administracinio teismo teisėjus svarstomos Teismų taryboje šio Įstatymo [[#^s-fb000d08b4f3041b80860b74|56 straipsnio]] [[#^s-4caf568d9f8620312339d260|3]], [[#^s-70dfbd883b779a3995842609|4]], [[#^s-0b6324bddfd53008cf69b9b1|5]] ir [[#^s-e1f7e04f2ab9b3152ffc965e|6]] dalyse nustatyta tvarka. ^s-3a25251dd979a4c01945c1a0
 
 
 
@@ -1267,7 +1267,7 @@ Aukščiausiojo Teismo teisėju gali būti skiriamas:
 2. Dėl Apeliacinio teismo teisėjo skyrimo Respublikos Prezidentui pataria Teismų taryba. ^s-09896ae82be15a22413292e0
 
 
-3. Kandidatūros į Apeliacinio teismo teisėjus svarstomos Teismų taryboje šio Įstatymo [[#^s-fb000d08b4f3041b80860b74|56 straipsnio]] 3, 4, 5 ir 6 dalyse nustatyta tvarka. ^s-25695fa35bc0c342f7ec507b
+3. Kandidatūros į Apeliacinio teismo teisėjus svarstomos Teismų taryboje šio Įstatymo [[#^s-fb000d08b4f3041b80860b74|56 straipsnio]] [[#^s-4caf568d9f8620312339d260|3]], [[#^s-70dfbd883b779a3995842609|4]], [[#^s-0b6324bddfd53008cf69b9b1|5]] ir [[#^s-e1f7e04f2ab9b3152ffc965e|6]] dalyse nustatyta tvarka. ^s-25695fa35bc0c342f7ec507b
 
 
 
@@ -1313,7 +1313,7 @@ SKYRIŲ PIRMININKAI
 ### 76 straipsnis.       Apylinkės teismo, apygardos administracinio teismo, apygardos teismo ir Vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo, skyriaus pirmininko skyrimo tvarka ^s-2047f5faa4257d9ff9c37fb0
 
 
-Kandidatūros į apylinkės teismo, apygardos administracinio teismo, apygardos teismo ir Vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo, skyriaus pirmininko pareigas svarstomos Teismų taryboje šio Įstatymo [[#^s-fb000d08b4f3041b80860b74|56 straipsnio]] 3, 4, 5 ir 6 dalyse nustatyta tvarka.
+Kandidatūros į apylinkės teismo, apygardos administracinio teismo, apygardos teismo ir Vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo, skyriaus pirmininko pareigas svarstomos Teismų taryboje šio Įstatymo [[#^s-fb000d08b4f3041b80860b74|56 straipsnio]] [[#^s-4caf568d9f8620312339d260|3]], [[#^s-70dfbd883b779a3995842609|4]], [[#^s-0b6324bddfd53008cf69b9b1|5]] ir [[#^s-e1f7e04f2ab9b3152ffc965e|6]] dalyse nustatyta tvarka.
 
 
 
@@ -1336,7 +1336,7 @@ Kandidatūros į apylinkės teismo, apygardos administracinio teismo, apygardos 
 ### 78 straipsnis. Apeliacinio teismo pirmininko, skyriaus pirmininko skyrimo tvarka ^s-04b46e1ae3c87947a7ff9436
 
 
-Kandidatūros į Apeliacinio teismo pirmininko, skyriaus pirmininko pareigas svarstomos Teismų taryboje šio Įstatymo [[#^s-fb000d08b4f3041b80860b74|56 straipsnio]] 3, 4, 5 ir 6 dalyse nustatyta tvarka.
+Kandidatūros į Apeliacinio teismo pirmininko, skyriaus pirmininko pareigas svarstomos Teismų taryboje šio Įstatymo [[#^s-fb000d08b4f3041b80860b74|56 straipsnio]] [[#^s-4caf568d9f8620312339d260|3]], [[#^s-70dfbd883b779a3995842609|4]], [[#^s-0b6324bddfd53008cf69b9b1|5]] ir [[#^s-e1f7e04f2ab9b3152ffc965e|6]] dalyse nustatyta tvarka.
 
 
 
@@ -1396,7 +1396,7 @@ Kandidatūros į Apeliacinio teismo pirmininko, skyriaus pirmininko pareigas sva
 6. Apeliacinio teismo skyriaus pirmininką, apygardos teismo pirmininką ir skyriaus pirmininką, apygardos administracinio teismo pirmininką ir pirmininko pavaduotoją, apylinkės teismo pirmininką ir pirmininko pavaduotoją iš pareigų atleidžia Respublikos Prezidentas. ^s-b82f789ad7d708339c91ab8d
 
 
-7. Dėl šio straipsnio 4, 5 ir [[#^s-b82f789ad7d708339c91ab8d|6 dalyse]] nurodytų asmenų atleidimo iš pareigų Respublikos Prezidentui pataria Teismų taryba. ^s-bd9788328c42ff2cd9c24f61
+7. Dėl šio straipsnio [[#^s-3b952d1630486c20e1a1806f|4]], [[#^s-21a6f17930810b05b7dd543d|5]] ir [[#^s-b82f789ad7d708339c91ab8d|6]] dalyse nurodytų asmenų atleidimo iš pareigų Respublikos Prezidentui pataria Teismų taryba. ^s-bd9788328c42ff2cd9c24f61
 
 
 
@@ -1409,7 +1409,7 @@ Kandidatūros į Apeliacinio teismo pirmininko, skyriaus pirmininko pareigas sva
 2. [[#^s-d37cc3044d6f3f4d6108c8bd|Šio straipsnio 1 dalyje]] nurodyta pašalinimo iš pareigų tvarka gali būti taikoma ir Aukščiausiojo Teismo bei Apeliacinio teismo skyrių pirmininkams. ^s-25cea437a04398e67ecc9a55
 
 
-3. Seimo nutarimu šio straipsnio 1 ar [[#^s-25cea437a04398e67ecc9a55|2 dalyje]] nurodytam asmeniui pradėjus Seime apkaltos procesą, jam suteikti įgaliojimai sustabdomi iki Seimo sprendimo apkaltos procese priėmimo. Jei Seimas apkaltai nepritaria, šio asmens įgaliojimai atnaujinami ir jam sumokamas atlyginimas už įgaliojimų sustabdymo laiką. ^s-48cfc6654b38d3cbbc1ae4a5
+3. Seimo nutarimu šio straipsnio [[#^s-d37cc3044d6f3f4d6108c8bd|1]] ar [[#^s-25cea437a04398e67ecc9a55|2]] dalyje nurodytam asmeniui pradėjus Seime apkaltos procesą, jam suteikti įgaliojimai sustabdomi iki Seimo sprendimo apkaltos procese priėmimo. Jei Seimas apkaltai nepritaria, šio asmens įgaliojimai atnaujinami ir jam sumokamas atlyginimas už įgaliojimų sustabdymo laiką. ^s-48cfc6654b38d3cbbc1ae4a5
 
 
 
@@ -1604,7 +1604,7 @@ TEISĖJŲ ATLEIDIMAS IR PAŠALINIMAS IŠ PAREIGŲ
 6. Apygardos teismo, apygardos administracinio teismo ir apylinkės teismo teisėją iš pareigų atleidžia Respublikos Prezidentas. ^s-804a6e6e1e8cdb6d1644886d
 
 
-7. Dėl šio straipsnio 4, 5 ir [[#^s-804a6e6e1e8cdb6d1644886d|6 dalyse]] nurodytų asmenų atleidimo iš pareigų Respublikos Prezidentui pataria Teismų taryba. ^s-f21218d7177baa9c56437d71
+7. Dėl šio straipsnio [[#^s-bb16b418e7fdc2d9540d9b7c|4]], [[#^s-58d8f9c22d05e758c3df5151|5]] ir [[#^s-804a6e6e1e8cdb6d1644886d|6]] dalyse nurodytų asmenų atleidimo iš pareigų Respublikos Prezidentui pataria Teismų taryba. ^s-f21218d7177baa9c56437d71
 
 
 8. Teisėjas, nesutikdamas su atleidimu iš pareigų, turi teisę per vieną mėnesį nuo atleidimo dienos kreiptis į Vilniaus apygardos teismą. ^s-55aa45462ac4939d874c1f11
@@ -1712,7 +1712,7 @@ TEISĖJŲ SOCIALINĖS GARANTIJOS
 1. Teisėjams suteikiamos 28 kalendorinių dienų kasmetinės atostogos. Teisėjams, turintiems daugiau kaip penkerių metų teisėjo darbo stažą, už kiekvienus paskesnius darbo teisėju metus suteikiama papildomai po vieną kalendorinę dieną atostogų, tačiau bendra kasmetinių atostogų trukmė negali viršyti 42 kalendorinių dienų. Aukščiausiojo Teismo teisėjų atostogų trukmę nustato Aukščiausiojo Teismo statutas. ^s-7a4b26500ae9aa8bf78c57ca
 
 
-2. Teisėjams už pareigų po darbo valandų, poilsio ir švenčių dienomis atlikti teisėjo funkcijas, nurodytas [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekse]], Civilinio proceso kodekse bei kituose įstatymuose, vykdymą gali būti kompensuojama suteikiant iki 14 kalendorinių dienų papildomų mokamų kasmetinių atostogų. Šių atostogų suteikimo tvarką nustato Vyriausybė. ^s-fe326ca48575bb9e4f7937f9
+2. Teisėjams už pareigų po darbo valandų, poilsio ir švenčių dienomis atlikti teisėjo funkcijas, nurodytas [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekse]], [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) bei kituose įstatymuose, vykdymą gali būti kompensuojama suteikiant iki 14 kalendorinių dienų papildomų mokamų kasmetinių atostogų. Šių atostogų suteikimo tvarką nustato Vyriausybė. ^s-fe326ca48575bb9e4f7937f9
 
 
 3. Dėl svarbių priežasčių teisėjui gali būti suteiktos tikslinės atostogos. Jos suteikiamos įstatymų nustatyta tvarka. ^s-024c78f029945adb767c8f9f
@@ -2132,10 +2132,10 @@ Teismų taryba:
 3) pataria Respublikos Prezidentui dėl teisėjų skyrimo, paaukštinimo, perkėlimo ir atleidimo iš pareigų; ^s-2ac6a15eea626defe037b82d
 
 
-4) pataria Respublikos Prezidentui dėl teismų pirmininkų, pirmininkų pavaduotojų, skyrių pirmininkų skyrimo ir atleidimo iš pareigų (išskyrus [[#^s-299e9efe1dd2df083cc04b2b|79 straipsnyje]] ir [[#^s-fbc96d63d0112de6605c10e4|81 straipsnio]] 2 ir 3 dalyse numatytus atvejus); ^s-524cb56eaf15666c9188f142
+4) pataria Respublikos Prezidentui dėl teismų pirmininkų, pirmininkų pavaduotojų, skyrių pirmininkų skyrimo ir atleidimo iš pareigų (išskyrus [[#^s-299e9efe1dd2df083cc04b2b|79 straipsnyje]] ir [[#^s-fbc96d63d0112de6605c10e4|81 straipsnio]] [[#^s-b2c9853a672a7dda34b7b875|2]] ir [[#^s-0ef63cd2cd293145909469da|3]] dalyse numatytus atvejus); ^s-524cb56eaf15666c9188f142
 
 
-5) pataria Respublikos Prezidentui dėl teisėjų skaičiaus teismuose nustatymo ar pakeitimo (išskyrus [[#^s-fabd27d6f94da5177f9071a6|12 straipsnio]] 8 ir 9 dalyse numatytus atvejus); ^s-aedd7408529d6a9ba5bd0512
+5) pataria Respublikos Prezidentui dėl teisėjų skaičiaus teismuose nustatymo ar pakeitimo (išskyrus [[#^s-fabd27d6f94da5177f9071a6|12 straipsnio]] [[#^s-adcee0f1a67c9b4dc4158290|8]] ir [[#^s-f4443192d3acb7bdf875d78d|9]] dalyse numatytus atvejus); ^s-aedd7408529d6a9ba5bd0512
 
 
 6) sudaro Pretendentų į teisėjus egzamino komisiją ir skiria jos pirmininką, svarsto šios komisijos nuostatus bei egzamino programą ir juos tvirtina; ^s-c42de352f509aebede9aaa6f

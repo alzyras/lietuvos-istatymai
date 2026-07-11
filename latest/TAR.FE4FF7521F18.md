@@ -113,7 +113,7 @@ Papildyti Įstatymą 441 straipsniu:
 4. Darbo santykių tarp ūkio subjekto vadovo ir ūkio subjekto, įvykdžiusio pažeidimą, ar tokio ūkio subjekto vadovo įgaliojimų pasibaigimas iki Konkurencijos tarybos nutarimo dėl pažeidimo priėmimo nepanaikina ūkio subjekto vadovo atsakomybės pagal šį straipsnį. ^s-49da822cde51c31dbbdc21a8
 
 
-5. Skiriant ūkio subjekto vadovui [[#^s-1ad1546d374c399275cd51b5|šio straipsnio 1 dalyje]] nustatytas sankcijas, mutatis mutandis taikomos šio įstatymo 40 straipsnio 3 ir [[#^s-49da822cde51c31dbbdc21a8|4 dalys]].“ ^s-925b5bda8ee46063a9716e37
+5. Skiriant ūkio subjekto vadovui [[#^s-1ad1546d374c399275cd51b5|šio straipsnio 1 dalyje]] nustatytas sankcijas, mutatis mutandis taikomos šio įstatymo 40 straipsnio 3 ir 4 dalys.“ ^s-925b5bda8ee46063a9716e37
 
 
 ### 5 straipsnis. Įstatymo papildymas 442 straipsniu ^s-74d8e9174177a2f11ab0ac40
@@ -126,7 +126,7 @@ Papildyti Įstatymą 442 straipsniu:
 „442 straipsnis. Prašymo teismui dėl sankcijų ūkio subjektų vadovams skyrimo pateikimas ir jo nagrinėjimas teisme
 
 
-1. Konkurencijos taryba, nustačiusi, kad egzistuoja šio įstatymo 441 straipsnio 1 ir [[#^s-a5ce802dd05ca1bd2bd9a5d3|2 dalyse]] nurodytos aplinkybės, priima sprendimą kreiptis į Vilniaus apygardos administracinį teismą su prašymu taikyti šio įstatymo 441 straipsnio 1 dalyje nustatytas sankcijas. ^s-966fd091c046556c12e2a545
+1. Konkurencijos taryba, nustačiusi, kad egzistuoja šio įstatymo 441 straipsnio 1 ir 2 dalyse nurodytos aplinkybės, priima sprendimą kreiptis į Vilniaus apygardos administracinį teismą su prašymu taikyti šio įstatymo 441 straipsnio 1 dalyje nustatytas sankcijas. ^s-966fd091c046556c12e2a545
 
 
 2. [[#^s-966fd091c046556c12e2a545|Šio straipsnio 1 dalyje]] nurodytame prašyme teismui nurodomos aplinkybės, kuriomis grindžiamas prašymas, ir pridedami jas patvirtinantys įrodymai, taip pat nurodomas motyvuotas siūlymas dėl šio įstatymo 441 straipsnio 1 dalyje nustatytų sankcijų taikymo ir jų dydžio. Teismas, priimdamas sprendimą taikyti sankcijas, nėra saistomas Konkurencijos tarybos siūlymo dėl sankcijų ir jų dydžio. ^s-a5ce802dd05ca1bd2bd9a5d3
@@ -165,7 +165,7 @@ Papildyti Įstatymą 442 straipsniu:
 6. Asmenų, kuriems įsiteisėjusiu teismo sprendimu paskirtos šio įstatymo 441 straipsnio 1 dalyje nustatytos sankcijos, sąrašas skelbiamas Konkurencijos tarybos interneto svetainėje. ^s-b73bef4d672aa2236d097121
 
 
-7. Konkurencijos taryba, nustačiusi, kad nevykdomas įsiteisėjęs teismo sprendimas, kuriuo paskirtos šio įstatymo 441 straipsnio 1 dalyje nustatytos sankcijos, pateikia teismo sprendimą vykdyti antstoliui Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.“ ^s-5d398fd29af91edd461f2752
+7. Konkurencijos taryba, nustačiusi, kad nevykdomas įsiteisėjęs teismo sprendimas, kuriuo paskirtos šio įstatymo 441 straipsnio 1 dalyje nustatytos sankcijos, pateikia teismo sprendimą vykdyti antstoliui [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.“ ^s-5d398fd29af91edd461f2752
 
 
 ### 6 straipsnis. Pasiūlymas Lietuvos Respublikos Vyriausybei ^s-0a3a8ad833297d3e36735a72

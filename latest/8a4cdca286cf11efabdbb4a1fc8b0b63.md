@@ -105,13 +105,13 @@ Pakeisti 27 straipsnio 5 dalies 6 punktą ir jį išdėstyti taip:
 1. Pakeisti 47 straipsnio 2 dalį ir ją išdėstyti taip: ^s-8150821bd158d84675b6698b
 
 
-„2. Pastatytą naują ypatingąjį ar neypatingąjį statinį (jo dalį) naudoti ir (ar) su fiziniais asmenimis sudaryti sandorius dėl patalpų, esančių gyvenamosios paskirties pastatuose (trijų ir daugiau butų (daugiabučiuose pastatuose), ar gyvenamosios paskirties patalpų, esančių kitų paskirčių pastatuose, nuosavybės teisės perleidimo kitiems naudotojams ir (ar) išduoti jame vykdytinos ūkinės veiklos leidimus, nurodytus [[latest/TAR.28F4561D519F#^s-56e551404381b80d80191b6b|Paslaugų įstatymo 2 straipsnio 6 dalyje]], galima šio įstatymo 28 straipsnyje nustatyta tvarka užbaigus šių statinių (jų dalių) statybą. Šios dalies nuostatos neprivalomos statant vieno ir dviejų butų gyvenamuosius pastatus, tiesiant inžinerinius tinklus ir susisiekimo komunikacijas, išskyrus atvejus, kai yra sudaryta savivaldybės infrastruktūros plėtros sutartis. Šios dalies nuostatos dėl vykdytinos ūkinės veiklos leidimų išdavimo netaikomos, kai išduodami [[latest/TAR.E2780B68DE62#^s-fbb32df217a4ecaef2c3ba0c|Lietuvos Respublikos aplinkos apsaugos įstatymo 191 ir 192  straipsniuose]] nurodyti leidimai.“
+„2. Pastatytą naują ypatingąjį ar neypatingąjį statinį (jo dalį) naudoti ir (ar) su fiziniais asmenimis sudaryti sandorius dėl patalpų, esančių gyvenamosios paskirties pastatuose (trijų ir daugiau butų (daugiabučiuose pastatuose), ar gyvenamosios paskirties patalpų, esančių kitų paskirčių pastatuose, nuosavybės teisės perleidimo kitiems naudotojams ir (ar) išduoti jame vykdytinos ūkinės veiklos leidimus, nurodytus [[latest/TAR.28F4561D519F#^s-56e551404381b80d80191b6b|Paslaugų įstatymo 2 straipsnio 6 dalyje]], galima šio įstatymo 28 straipsnyje nustatyta tvarka užbaigus šių statinių (jų dalių) statybą. Šios dalies nuostatos neprivalomos statant vieno ir dviejų butų gyvenamuosius pastatus, tiesiant inžinerinius tinklus ir susisiekimo komunikacijas, išskyrus atvejus, kai yra sudaryta savivaldybės infrastruktūros plėtros sutartis. Šios dalies nuostatos dėl vykdytinos ūkinės veiklos leidimų išdavimo netaikomos, kai išduodami [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymo]] [[latest/TAR.E2780B68DE62#^s-08f24503c984cc36f9234de8|191]] ir [[latest/TAR.E2780B68DE62#^s-fbb32df217a4ecaef2c3ba0c|192]]  straipsniuose nurodyti leidimai.“
 
 
 2. Pakeisti 47 straipsnio 3 dalį ir ją išdėstyti taip: ^s-ae6e2010d07d42acfccda168
 
 
-„3. Rekonstruoto ypatingojo ar neypatingojo statinio naujas dalis pradėti naudoti ir (ar) sudaryti sandorius dėl naujose dalyse esančių gyvenamųjų patalpų perleidimo kitiems naudotojams ir (ar) išduoti jame vykdytinos ūkinės veiklos leidimus, nurodytus [[latest/TAR.28F4561D519F#^s-56e551404381b80d80191b6b|Paslaugų įstatymo 2 straipsnio 6 dalyje]], galima šio įstatymo 28 straipsnyje nustatyta tvarka užbaigus šio statinio (jo dalies) statybą. Šios dalies nuostatos neprivalomos rekonstruojant gyvenamuosius pastatus, tiesiant inžinerinius tinklus ir susisiekimo komunikacijas, išskyrus atvejus, kai yra sudaryta savivaldybės infrastruktūros plėtros sutartis. Šios dalies nuostatos dėl vykdytinos ūkinės veiklos leidimų išdavimo netaikomos, kai išduodami [[latest/TAR.E2780B68DE62#^s-fbb32df217a4ecaef2c3ba0c|Aplinkos apsaugos įstatymo 191 ir 192 straipsniuose]] nurodyti leidimai.“
+„3. Rekonstruoto ypatingojo ar neypatingojo statinio naujas dalis pradėti naudoti ir (ar) sudaryti sandorius dėl naujose dalyse esančių gyvenamųjų patalpų perleidimo kitiems naudotojams ir (ar) išduoti jame vykdytinos ūkinės veiklos leidimus, nurodytus [[latest/TAR.28F4561D519F#^s-56e551404381b80d80191b6b|Paslaugų įstatymo 2 straipsnio 6 dalyje]], galima šio įstatymo 28 straipsnyje nustatyta tvarka užbaigus šio statinio (jo dalies) statybą. Šios dalies nuostatos neprivalomos rekonstruojant gyvenamuosius pastatus, tiesiant inžinerinius tinklus ir susisiekimo komunikacijas, išskyrus atvejus, kai yra sudaryta savivaldybės infrastruktūros plėtros sutartis. Šios dalies nuostatos dėl vykdytinos ūkinės veiklos leidimų išdavimo netaikomos, kai išduodami [[latest/TAR.E2780B68DE62|Aplinkos apsaugos įstatymo]] [[latest/TAR.E2780B68DE62#^s-08f24503c984cc36f9234de8|191]] ir [[latest/TAR.E2780B68DE62#^s-fbb32df217a4ecaef2c3ba0c|192]] straipsniuose nurodyti leidimai.“
 
 
 
@@ -144,7 +144,7 @@ Papildyti 53 straipsnį 21 dalimi:
 ### 9 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas ^s-9941613250606775d3720c59
 
 
-1.  Šis įstatymas, išskyrus 1, 3, 5–[[#^s-9250d67a15f67607cfb4dfcd|8 straipsnius]], įsigalioja 2024 m. lapkričio 1 d. ^s-1c53d094d9f4cb7b1848e321
+1.  Šis įstatymas, išskyrus [[#^s-26fd114e0d1f71797db4b57a|1]], [[#^s-f544d8f990a7f99d262f673a|3]], [[#^s-f3e44fa266359ff8bcf33e7c|5]]–[[#^s-9250d67a15f67607cfb4dfcd|8]] straipsnius, įsigalioja 2024 m. lapkričio 1 d. ^s-1c53d094d9f4cb7b1848e321
 
 
 2.  Šio įstatymo [[#^s-f544d8f990a7f99d262f673a|3 straipsnis]], [[#^s-0392c6251618587e14b3b469|5 straipsnio 3 dalis]] ir [[#^s-9250d67a15f67607cfb4dfcd|8 straipsnis]] įsigalioja 2024 m. lapkričio 2 d. ^s-cd1e3b36bd356ae4d707f7f8
@@ -153,7 +153,7 @@ Papildyti 53 straipsnį 21 dalimi:
 3. Šio įstatymo [[#^s-26fd114e0d1f71797db4b57a|1 straipsnis]] įsigalioja 2025 m. sausio 1 d. ^s-2700dcace6841817ea6ced9e
 
 
-4. Šio įstatymo [[#^s-f3e44fa266359ff8bcf33e7c|5 straipsnio]] 1 ir [[#^s-cd1e3b36bd356ae4d707f7f8|2 dalys]] įsigalioja 2025 m. liepos 1 d. ^s-09db8b6991b8806c5dffcd24
+4. Šio įstatymo [[#^s-f3e44fa266359ff8bcf33e7c|5 straipsnio]] [[#^s-65d6eea5813b5a45507fb01b|1]] ir [[#^s-ea9009fafca14d3f16cd54cf|2]] dalys įsigalioja 2025 m. liepos 1 d. ^s-09db8b6991b8806c5dffcd24
 
 
 5. Šio įstatymo [[#^s-88aaf3a25021230113f7b968|7 straipsnis]] įsigalioja 2025 m. lapkričio 1 d. ^s-7a0282e478112c78335ec7e1
@@ -165,7 +165,7 @@ Papildyti 53 straipsnį 21 dalimi:
 7. Aplinkos ministras iki 2024 m. spalio 31 d. priima šio įstatymo [[#^s-cc2b767ef57e85736f1a25eb|2  straipsnyje]] išdėstyto [[latest/TAR.F31E79DEC55D#^s-9c0960d61d2484c44082e496|Lietuvos Respublikos statybos įstatymo 12 straipsnio]], šio įstatymo [[#^s-f544d8f990a7f99d262f673a|3 straipsnyje]] išdėstyto [[latest/TAR.F31E79DEC55D#^s-3ef21bd3f505409964b33a7b|Statybos įstatymo 24 straipsnio]], šio įstatymo [[#^s-fbe8163952a61980af007f09|4  straipsnyje]] išdėstyto [[latest/TAR.F31E79DEC55D#^s-ed557065dac766208f852655|Statybos įstatymo 27 straipsnio]] ir šio įstatymo [[#^s-0392c6251618587e14b3b469|5 straipsnio 3 dalyje]] išdėstytos [[latest/TAR.F31E79DEC55D#^s-7cc8f1a332cd361a7211e916|Statybos įstatymo 28 straipsnio 3 dalies]] įgyvendinamuosius teisės aktus. ^s-8cfb586339fe2a97c1e991d3
 
 
-8. Lietuvos Respublikos Vyriausybė ir aplinkos ministras iki 2025 m. birželio 30 d. priima šio įstatymo [[#^s-f3e44fa266359ff8bcf33e7c|5 straipsnio]] 1 ir [[#^s-cd1e3b36bd356ae4d707f7f8|2 dalyse]] išdėstytų [[latest/TAR.F31E79DEC55D#^s-5dfbac77de0ddb2cc08c40b2|Statybos įstatymo 28 straipsnio 1 dalies]] 1 ir 2 punktų įgyvendinamuosius teisės aktus. ^s-40e4e356a22829e9429971e0
+8. Lietuvos Respublikos Vyriausybė ir aplinkos ministras iki 2025 m. birželio 30 d. priima šio įstatymo [[#^s-f3e44fa266359ff8bcf33e7c|5 straipsnio]] [[#^s-65d6eea5813b5a45507fb01b|1]] ir [[#^s-ea9009fafca14d3f16cd54cf|2]] dalyse išdėstytų [[latest/TAR.F31E79DEC55D#^s-5dfbac77de0ddb2cc08c40b2|Statybos įstatymo 28 straipsnio 1 dalies]] [[latest/TAR.F31E79DEC55D#^s-865ed2245f47899a92f72b86|1]] ir [[latest/TAR.F31E79DEC55D#^s-b3c921dc192e0d35ad91b684|2]] punktų įgyvendinamuosius teisės aktus. ^s-40e4e356a22829e9429971e0
 
 
 9. Aplinkos ministras iki 2025 m. spalio 31 d. priima šio įstatymo [[#^s-88aaf3a25021230113f7b968|7 straipsnyje]] išdėstyto [[latest/TAR.F31E79DEC55D#^s-615d1a75b6cbd00ee67707c7|Statybos įstatymo 53 straipsnio]] įgyvendinamuosius teisės aktus. ^s-d2bb49198f34e6bad388500b

@@ -172,7 +172,7 @@ Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. [[latest/T
 6. Dokumentas, patvirtinantis Europos bendrovės visuotinio akcininkų susirinkimo sprendimą dėl Europos bendrovės pertvarkymo, ne vėliau kaip per 5 dienas turi būti pateiktas juridinių asmenų registro tvarkytojui. ^s-412d860cde1acfdb7647ee79
 
 
-7. Šio straipsnio 1–[[#^s-412d860cde1acfdb7647ee79|6 dalys]] mutatis mutandis taikomos akcinės bendrovės pertvarkymui į Europos bendrovę. ^s-98ab5c2cbd605199cf69abe4
+7. Šio straipsnio [[#^s-8cb93c116b75d02a9b0dde93|1]]–[[#^s-412d860cde1acfdb7647ee79|6]] dalys mutatis mutandis taikomos akcinės bendrovės pertvarkymui į Europos bendrovę. ^s-98ab5c2cbd605199cf69abe4
 
 
 ### 6 straipsnis. Juridinių asmenų registro tvarkytojo teisės ir pareigos ^s-1f94f929551007388428fe4a
@@ -194,7 +194,7 @@ Nr. XI-565, 2009-12-15, Žin., 2009, Nr. 154-6946 (2009-12-28), i. k. [[latest/T
 ### 7 straipsnis. Įstatymo įsigaliojimas ^s-4cb6d4070c42186d1871f6ba
 
 
-Šio Įstatymo 1–[[#^s-1f94f929551007388428fe4a|6 straipsniai]] įsigalioja nuo 2004 m. spalio 8 d.
+Šio Įstatymo [[#^s-35108161d60d86ce98eca1e2|1]]–[[#^s-1f94f929551007388428fe4a|6]] straipsniai įsigalioja nuo 2004 m. spalio 8 d.
 
 
 
@@ -231,7 +231,7 @@ priedas
 
 
 
-2001 m. spalio 8 d. Tarybos reglamentas (EB) Nr. 2157/2001 dėl Europos bendrovės (SE) statuto.
+2001 m. spalio 8 d. Tarybos [reglamentas (EB) Nr. 2157/2001](https://eur-lex.europa.eu/eli/reg/2157/2001/oj) dėl Europos bendrovės (SE) statuto.
 
 
 ______________

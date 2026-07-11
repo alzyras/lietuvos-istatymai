@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-63a78d5dfbcceb53df92aba7
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2011 m. lapkričio 18 d. dekretą Nr. 1K-862, ratifikuoja Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės įgaliotos Gynybos ministerijos susitarimą dėl įslaptintos karinės ir su gynyba susijusios informacijos abipusės apsaugos, pasirašytą 2011 m. birželio 1 d. Jeruzalėje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2011 m. lapkričio 18 d. dekretą Nr. 1K-862](https://e-tar.lt/portal/lt/legalAct/TAR.2D3F13B67FC4), ratifikuoja Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės įgaliotos Gynybos ministerijos susitarimą dėl įslaptintos karinės ir su gynyba susijusios informacijos abipusės apsaugos, pasirašytą 2011 m. birželio 1 d. Jeruzalėje.
 
 
 

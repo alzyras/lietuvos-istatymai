@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. 5 straipsnio pakeitimas ^s-9277c76eb89dab48422a4348
 
 
-Pakeisti 5 straipsnio 2 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.6107B5F45F59#^s-b79d34e88daa2a2d1acc4c9e|5 straipsnio 2 punktą]] ir jį išdėstyti taip:
 
 
 „2) Lietuvos Respublikos žemės ūkio ministerija ir Žemės ūkio agentūra prie Žemės ūkio ministerijos (toliau – Agentūra);“.

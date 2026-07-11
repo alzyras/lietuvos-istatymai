@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-d60176890f360134e07e5197
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. vasario 18 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1972 metų Konvenciją dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo“, ratifikuoja 1972 metų Konvenciją dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. vasario 18 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1972 metų Konvenciją dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.C60F42865E69), ratifikuoja 1972 metų Konvenciją dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo.
 
 
 

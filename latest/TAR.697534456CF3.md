@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-3df4d2b1a9d35c3fef84782d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. balandžio 28 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos 6 protokolą dėl mirties bausmės panaikinimo“, ratifikuoja Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos 6 protokolą dėl mirties bausmės panaikinimo, kurį Lietuvos Respublika pasirašė 1999 m. sausio 18 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. balandžio 28 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos 6 protokolą dėl mirties bausmės panaikinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.20BD7F763A98), ratifikuoja Europos žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos 6 protokolą dėl mirties bausmės panaikinimo, kurį Lietuvos Respublika pasirašė 1999 m. sausio 18 d. Strasbūre.
 
 
 

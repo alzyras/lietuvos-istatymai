@@ -274,7 +274,7 @@ Nr. XIV-629, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24221
 4. Energijos išteklių rinkos dalyviai, prekiaudami energijos ištekliais šiame įstatyme nustatyta tvarka, laikosi šiame įstatyme, [[latest/TAR.44235B485568|Energetikos įstatyme]] ir [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatyme]] (toliau – [[latest/TAR.B8B6AFC2BFF1|Konkurencijos įstatymas]]) nustatytų reikalavimų ūkinei veiklai. ^s-5ad0cb7a90c0e452e44ec9e7
 
 
-5. Energijos išteklių rinkos dalyviams draudžiama naudotis viešai neatskleista prekybos energijos ištekliais informacija ir užsiimti arba bandyti užsiimti manipuliavimu energijos išteklių rinka. Prekybos naudojantis viešai neatskleista informacija ir manipuliavimo rinka draudimas užtikrinamas vadovaujantis 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo (OL 2011 L 326, p. 1) nustatytais reikalavimais ir tvarka. ^s-cba48fb7a7cf60811e6cd2bd
+5. Energijos išteklių rinkos dalyviams draudžiama naudotis viešai neatskleista prekybos energijos ištekliais informacija ir užsiimti arba bandyti užsiimti manipuliavimu energijos išteklių rinka. Prekybos naudojantis viešai neatskleista informacija ir manipuliavimo rinka draudimas užtikrinamas vadovaujantis 2011 m. spalio 25 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1227/2011](https://eur-lex.europa.eu/eli/reg/1227/2011/oj) dėl didmeninės energijos rinkos vientisumo ir skaidrumo (OL 2011 L 326, p. 1) nustatytais reikalavimais ir tvarka. ^s-cba48fb7a7cf60811e6cd2bd
 
 
 Straipsnio pakeitimai:
@@ -722,7 +722,7 @@ Nr. XIV-606, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23528
 1. Energijos išteklių rinkos dalyviams už pažeidimus vykdant reguliuojamąją energetikos veiklą skiriamos piniginės baudos [[latest/TAR.44235B485568|Energetikos įstatyme]] nustatyta tvarka. Energijos išteklių rinkos dalyvių atsakomybę už sąžiningos konkurencijos pažeidimus ir taikomas sankcijas nustato [[latest/TAR.B8B6AFC2BFF1|Konkurencijos įstatymas]]. ^s-8c812585c2032abf0a04e28f
 
 
-2. Energijos išteklių rinkos dalyviams už draudimo naudotis viešai neatskleista prekybos energijos ištekliais informacija ir užsiimti arba bandyti užsiimti manipuliavimu energijos išteklių rinka, kaip nurodyta šio įstatymo [[#^s-cba48fb7a7cf60811e6cd2bd|9 straipsnio 5 dalyje]], pažeidimus Taryba skiria piniginę baudą iki 10 procentų metinių pajamų praėjusiais finansiniais metais iš veiklos, kurią vykdant padarytas pažeidimas, o jeigu energijos išteklių rinkos dalyvis neturėjo pajamų praėjusiais finansiniais metais iš veiklos, kurią vykdant padarytas pažeidimas, – iki dvidešimt tūkstančių eurų, arba kreipiasi į teismą skirti laikiną apribojimą vykdyti veiklą energijos išteklių rinkoje. Baudos skyrimo klausimas svarstomas ir sprendimas dėl baudos skyrimo, jos dydžio ir diferencijavimo priimamas ir vykdomas mutatis mutandis vadovaujantis [[latest/TAR.44235B485568|Energetikos įstatymo]] nuostatomis. ^s-3c4f3c115fedb318f1cac6dc
+2. Energijos išteklių rinkos dalyviams už draudimo naudotis viešai neatskleista prekybos energijos ištekliais informacija ir užsiimti arba bandyti užsiimti manipuliavimu energijos išteklių rinka, kaip nurodyta šio įstatymo [[#^s-cba48fb7a7cf60811e6cd2bd|9 straipsnio 5 dalyje]], pažeidimus Taryba skiria piniginę baudą iki 10 procentų metinių pajamų praėjusiais finansiniais metais iš veiklos, kurią vykdant padarytas pažeidimas, o jeigu energijos išteklių rinkos dalyvis neturėjo pajamų praėjusiais finansiniais metais iš veiklos, kurią vykdant padarytas pažeidimas, – iki dvidešimt tūkstančių eurų, arba kreipiasi į teismą skirti laikiną apribojimą vykdyti veiklą energijos išteklių rinkoje. Baudos skyrimo klausimas svarstomas ir sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo, jos dydžio ir diferencijavimo priimamas ir vykdomas mutatis mutandis vadovaujantis [[latest/TAR.44235B485568|Energetikos įstatymo]] nuostatomis. ^s-3c4f3c115fedb318f1cac6dc
 
 
 3. Energijos išteklių rinkos dalyviai už tuos pačius pažeidimus atsako tik pagal šį įstatymą, Energetikos įstatymą arba Konkurencijos įstatymą, atsižvelgiant į nustatytą Tarybos ar Konkurencijos tarybos kompetenciją. ^s-8a3897abf696e249c83b2877
@@ -731,7 +731,7 @@ Nr. XIV-606, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23528
 4. Šilumos tiekėjai, reguliuojamieji nepriklausomi šilumos gamintojai ir bendrieji šilumos ir elektros energijos gamintojai, įsigyjantys energijos išteklius elektros ir (ar) šilumos energijai gaminti, už energijos išteklių elektros ir (ar) šilumos energijai gaminti įsigijimo tvarkos pažeidimus atsako šio įstatymo [[#^s-20c3b01596f35c96146d6a04|28 straipsnyje]] nustatyta tvarka. ^s-db2cff637d1f0a29d58b3519
 
 
-5. Nereguliuojamiesiems nepriklausomiems šilumos gamintojams už energijos išteklių elektros ir (ar) šilumos energijai gaminti įsigijimo tvarkos pažeidimus Taryba skiria piniginę baudą iki 10 procentų metinių pajamų praėjusiais finansiniais metais iš veiklos, kurią vykdant padarytas pažeidimas. Baudos skyrimo klausimas svarstomas ir sprendimas dėl baudos skyrimo, jos dydžio ir diferencijavimo priimamas ir vykdomas mutatis mutandis vadovaujantis [[latest/TAR.44235B485568|Energetikos įstatymo]] nuostatomis. ^s-f79566d4f12e51a262ce8bfc
+5. Nereguliuojamiesiems nepriklausomiems šilumos gamintojams už energijos išteklių elektros ir (ar) šilumos energijai gaminti įsigijimo tvarkos pažeidimus Taryba skiria piniginę baudą iki 10 procentų metinių pajamų praėjusiais finansiniais metais iš veiklos, kurią vykdant padarytas pažeidimas. Baudos skyrimo klausimas svarstomas ir sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo, jos dydžio ir diferencijavimo priimamas ir vykdomas mutatis mutandis vadovaujantis [[latest/TAR.44235B485568|Energetikos įstatymo]] nuostatomis. ^s-f79566d4f12e51a262ce8bfc
 
 
 Straipsnio pakeitimai:
@@ -803,29 +803,29 @@ Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 [[#^s-d47
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1063, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05881
-Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 1, 2, 10, 13 ir [[#^s-38718e6b852570866d45ce8e|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 [[#^s-d47e738eaaa5c4ea85b423d5|1]], [[#^s-1ca2a981d81165add813e570|2]], [[#^s-d297bccf0c73f58bf5049702|10]], [[#^s-4091c1821570490aebb95127|13]] ir [[#^s-38718e6b852570866d45ce8e|16]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1785, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21230
-Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 2, 3, 10, [[#^s-4091c1821570490aebb95127|13 straipsnių]], šeštojo ir septintojo skirsnių pakeitimo įstatymas
+Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 [[#^s-1ca2a981d81165add813e570|2]], [[#^s-d8abb779b9c448d025f11b80|3]], [[#^s-d297bccf0c73f58bf5049702|10]], [[#^s-4091c1821570490aebb95127|13]] straipsnių, šeštojo ir septintojo skirsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2084, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07394
-Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 8, 13, 17, 19-1 ir 28-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 [[#^s-bb9da92ae624a5fd14e34c7d|8]], [[#^s-4091c1821570490aebb95127|13]], [[#^s-aedaec3824075edc55d90532|17]], 19-1 ir 28-1 straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-606, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23528
-Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 23 ir [[#^s-20c3b01596f35c96146d6a04|28 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 [[#^s-2077fca7edf7019bf6c96e6f|23]] ir [[#^s-20c3b01596f35c96146d6a04|28]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-629, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24221
-Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 24, 28-1, 29, 30 straipsnių pakeitimo ir septintojo skirsnio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 [[#^s-d47e738eaaa5c4ea85b423d5|1]], [[#^s-1ca2a981d81165add813e570|2]], [[#^s-d8abb779b9c448d025f11b80|3]], [[#^s-ad99bab4fc1c4ede589b07d1|4]], [[#^s-760fd205e76c82b59089c40d|5]], [[#^s-bd309ece6ce5f73cfbd2f0de|6]], [[#^s-6ae4338a054da3743403dde5|7]], [[#^s-bb9da92ae624a5fd14e34c7d|8]], [[#^s-9e2ea44bd4afe78ae2a6a225|9]], [[#^s-d297bccf0c73f58bf5049702|10]], [[#^s-231976e29b7934dbd2993d38|11]], [[#^s-667982ffa9be5e75e38005a0|12]], [[#^s-4091c1821570490aebb95127|13]], [[#^s-74477ca27004ccd4c1c5ef87|14]], [[#^s-a2f69571d50db0a4cd058e59|15]], [[#^s-38718e6b852570866d45ce8e|16]], [[#^s-aedaec3824075edc55d90532|17]], [[#^s-6ffbf36b8fa7cd321cb95951|24]], 28-1, [[#^s-5d9834273144a6bed60f248c|29]], 30 straipsnių pakeitimo ir septintojo skirsnio pripažinimo netekusiu galios įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1068, 2022-04-28, paskelbta TAR 2022-05-06, i. k. 2022-09677
-Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 8, 13, 17 ir [[#^s-2fd71665fe93d5028e3b3781|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos energijos išteklių rinkos įstatymo Nr. XI-2023 [[#^s-bb9da92ae624a5fd14e34c7d|8]], [[#^s-4091c1821570490aebb95127|13]], [[#^s-aedaec3824075edc55d90532|17]] ir [[#^s-2fd71665fe93d5028e3b3781|18]] straipsnių pakeitimo įstatymas

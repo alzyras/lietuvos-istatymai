@@ -9,10 +9,9 @@ pavadinimas: "Lietuvos Respublikos atliekų tvarkymo įstatymo 1, 2, 4, 6, 7, 8,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - 2 citatos - Lietuvos Respublikos atliekų tvarkymo įstatymo
-- [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas]] - 4 citatos - Mokesčio už aplinkos teršimą įstatymas
+- [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - 3 citatos - Atliekų tvarkymo įstatymo 31 straipsnis
+- [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas]] - 2 citatos - Mokesčio už aplinkos teršimą įstatymas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.8D38517814F1#^s-54ecf9e5e51b6fcab59a24d8|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - Įstatymas Nr. XI-1324
-- [[latest/TAR.8D38517814F1#^s-e5c1bcfcf77d73cebadbb434|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - Įstatymas Nr. XI-1324
+_Nėra._

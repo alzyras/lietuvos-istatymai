@@ -276,7 +276,7 @@ Steigiamajam susirinkimui steigėjai parengia pranešimą, kuriame turi būti nu
 ### 11 straipsnis. Bendrovės registravimas ^s-d1f85e7332ddd2b280d00b9a
 
 
-1. Ne vėliau kaip per mėnesį nuo steigiamojo susirinkimo nutarimo įsteigti bendrovę priėmimo dienos bendrovės steigėjai (įgaliotiniai) vietos savivaldybei įteikia paraišką įregistruoti bendrovę Įmonių rejestro įstatymo nustatyta tvarka, o pradėjus veikti juridinių asmenų registrui, – Civilinio kodekso nustatyta tvarka. ^s-529b70664990a6cbd780b778
+1. Ne vėliau kaip per mėnesį nuo steigiamojo susirinkimo nutarimo įsteigti bendrovę priėmimo dienos bendrovės steigėjai (įgaliotiniai) vietos savivaldybei įteikia paraišką įregistruoti bendrovę [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka, o pradėjus veikti juridinių asmenų registrui, – Civilinio kodekso nustatyta tvarka. ^s-529b70664990a6cbd780b778
 
 
 2. Prie paraiškos pridedami šio įstatymo [[#^s-2d5654df887e55d9715b148d|6 straipsnyje]] nurodyti bendrovės steigimo dokumentai ir pažyma, kad sumokėtas registracijos mokestis. ^s-fd45e2168eb23adeab82b7ba
@@ -354,7 +354,7 @@ Bendrovės pagrindinis kapitalas sumažinamas:
 3. Minimalų bendrovės narių pajinio įnašo dydį keičia narių susirinkimas. Minimalus pajinis įnašas yra neskaidomas. ^s-b7f0d0ccb7bc9607ed0f885e
 
 
-4. Metams pasibaigus ir patvirtinus bendrovės metinę apyskaitą, bendrovės pajininkams proporcingai pajų vertei paskirstomas šio įstatymo 13 ir [[#^s-e943272ae770209a8b23adc2|14 straipsniuose]] numatytais atvejais padidintas arba sumažintas pagrindinis kapitalas. Proporcingai pajų vertei paskirstomi ir atsiradę dėl turto perkainojimo padidėję (sumažėję) pajai. Turtui perkainoti bendrovės narių susirinkimas išrenka komisiją ir patvirtina turto įvertinimo tvarką. Ūkiniams metams baigiantis turtas turi būti inventorizuotas, įvertintas ir jo kaina patvirtinta bendrovės susirinkime. ^s-c046033d15ecbbae3ef06727
+4. Metams pasibaigus ir patvirtinus bendrovės metinę apyskaitą, bendrovės pajininkams proporcingai pajų vertei paskirstomas šio įstatymo [[#^s-264f3e27f60ace0c1b629856|13]] ir [[#^s-e943272ae770209a8b23adc2|14]] straipsniuose numatytais atvejais padidintas arba sumažintas pagrindinis kapitalas. Proporcingai pajų vertei paskirstomi ir atsiradę dėl turto perkainojimo padidėję (sumažėję) pajai. Turtui perkainoti bendrovės narių susirinkimas išrenka komisiją ir patvirtina turto įvertinimo tvarką. Ūkiniams metams baigiantis turtas turi būti inventorizuotas, įvertintas ir jo kaina patvirtinta bendrovės susirinkime. ^s-c046033d15ecbbae3ef06727
 
 
 5. Pajai ir jų metinis padidėjimas (sumažėjimas) kiekvienais metais registruojami pajininkų turto apskaitos dokumentuose. Bendrovė privalo ne vėliau kaip per 2 mėnesius nuo metinės apyskaitos patvirtinimo datos kiekvienam pajininkui į pajaus apskaitos dokumentus ir pajininkų knygeles įrašyti visus per metus buvusius pajaus pasikeitimus. ^s-274e57e6e7c00ae74115fd13
@@ -744,7 +744,7 @@ BENDROVĖS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
 4. Apie numatomą reorganizavimą bendrovės valdyba (administracija) privalo viešai paskelbti bendrovės buveinėje ir spaudoje bei raštu informuoti kiekvieną pajininką ir kreditorių ne vėliau kaip prieš 15 dienų iki narių susirinkimo, kurio darbotvarkėje numatyta svarstyti bendrovės reorganizavimą. Kiekvienas pajininkas turi teisę susipažinti su bendrovės reorganizavimo projektu ir kitais su reorganizavimu susijusiais dokumentais, taip pat šiuos dokumentus kopijuoti ir nusirašyti. ^s-92c57aedaf48a5eb46edb49b
 
 
-5. Bendrovė gali būti restruktūrizuojama Įmonių restruktūrizavimo įstatymo nustatyta tvarka ir sąlygomis. ^s-2e11717848f141e8220e19c8
+5. Bendrovė gali būti restruktūrizuojama [Įmonių restruktūrizavimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.C69847B389DF) nustatyta tvarka ir sąlygomis. ^s-2e11717848f141e8220e19c8
 
 
 6. Bendrovės teisinė forma keičiama ją pertvarkant pagal Civilinio kodekso reikalavimus. ^s-f964905a6d8d1d9d12f18528

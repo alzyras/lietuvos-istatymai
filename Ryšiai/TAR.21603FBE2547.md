@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos draudimo įstatymo 2, 16, 20, 22, 55-2 straip
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C44837068B55|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - 4 citatos - Pinigų plovimo ir teroristų finansavimo prevencijos įstatyme
+- [[latest/TAR.C44837068B55|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - 2 citatos - Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.8447F63760E9#^s-755555ebaa084faac02c26ff|Lietuvos Respublikos draudimo įstatymas]] - Įstatymas Nr. XI-200
-- [[latest/TAR.8447F63760E9#^s-dd1860a9ac6df67ff70f2bed|Lietuvos Respublikos draudimo įstatymas]] - Įstatymas Nr. XI-200
+_Nėra._

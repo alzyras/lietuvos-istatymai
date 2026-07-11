@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.43F9A0BDB7EE#^s-17255ffdeaa5ceaa50c6e8ea|Lietuvos Respublikos kultūros centrų įstatymas]] - 3 citatos - 1101010ISTA00XI-732
-- [[latest/TAR.43F9A0BDB7EE#^s-46f49fa659ef7b22b21fbc77|Lietuvos Respublikos kultūros centrų įstatymas]] - 3 citatos - 1101010ISTA00XI-732
+- [[latest/TAR.43F9A0BDB7EE#^s-46f49fa659ef7b22b21fbc77|Lietuvos Respublikos kultūros centrų įstatymas]] - 2 citatos - 1101010ISTA00XI-732

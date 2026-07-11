@@ -75,7 +75,7 @@ Jei pagal šio įstatymo 9 straipsnį apskaičiuojama valstybės biudžeto bendr
 ### 4 straipsnis. 16 straipsnio papildymas ^s-15c36fbb910ab3f293602e68
 
 
-1. Papildyti 16 straipsnio 1 dalį 5 ir [[#^s-223625479fea92bc8f22a670|6 punktais]]: ^s-0b461fc0e7b53a5919d8b19e
+1. Papildyti 16 straipsnio 1 dalį 5 ir 6 punktais: ^s-0b461fc0e7b53a5919d8b19e
 
 
 „5) fizinių asmenų pajamų mokesčio atskaitymų dalį procentais, skiriamą savivaldybių pajamoms išlyginti;

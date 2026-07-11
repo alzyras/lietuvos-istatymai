@@ -266,7 +266,7 @@ Pakeisti 44 straipsnį ir jį išdėstyti taip:
 3. Pakeisti 47 straipsnio 4 dalį ir ją išdėstyti taip: ^s-4d0b07ba01e77efdb6bc2b0b
 
 
-„4. Diplomatinius pasus turi teisę turėti buvę Respublikos Prezidentai, Seimo pirmininkai, ministrai pirmininkai, užsienio reikalų ministrai, Seimo Užsienio reikalų ir Europos reikalų komitetų pirmininkai, jeigu jiems Seimo nario mandatas nebuvo panaikintas Lietuvos Respublikos Konstitucijos 74 straipsnyje nustatyto apkaltos proceso tvarka, taip pat asmenys, turintys Respublikos Prezidento suteiktus diplomatinius rangus, kai jų diplomato tarnybos sutartys arba terminuotos diplomato tarnybos sutartys nutraukiamos vadovaujantis šio įstatymo 58 straipsnio 1 dalies 5 punktu ar 2 dalies 2 punktu arba kai jie atleidžiami iš valstybės tarnautojo pareigų vadovaujantis Lietuvos Respublikos valstybės tarnybos įstatymo 44 straipsnio 1 dalies 6 ar 13 punktu.“
+„4. Diplomatinius pasus turi teisę turėti buvę Respublikos Prezidentai, Seimo pirmininkai, ministrai pirmininkai, užsienio reikalų ministrai, Seimo Užsienio reikalų ir Europos reikalų komitetų pirmininkai, jeigu jiems Seimo nario mandatas nebuvo panaikintas Lietuvos Respublikos Konstitucijos 74 straipsnyje nustatyto apkaltos proceso tvarka, taip pat asmenys, turintys Respublikos Prezidento suteiktus diplomatinius rangus, kai jų diplomato tarnybos sutartys arba terminuotos diplomato tarnybos sutartys nutraukiamos vadovaujantis šio įstatymo 58 straipsnio 1 dalies 5 punktu ar 2 dalies 2 punktu arba kai jie atleidžiami iš valstybės tarnautojo pareigų vadovaujantis [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymo 44 straipsnio 1 dalies]] [[latest/TAR.D3ED3792F52B|6]] ar [[latest/TAR.D3ED3792F52B|13]] punktu.“
 
 
 
@@ -643,7 +643,7 @@ A. V.
 ### 21 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-8a0df6aaa21066f68fe63cd6
 
 
-1. Šis įstatymas, išskyrus [[#^s-076cf6b47561792f22e3233a|4 straipsnio]] nuostatas, susijusias su diplomato laikinu perkėlimu į kitą valstybės instituciją ar įstaigą, ir 16, [[#^s-a6b1c6a20815fa612bd5dab3|22 straipsnius]], įsigalioja 2010 m. rugsėjo 1 d. ^s-9672f3d9469407472841fa34
+1. Šis įstatymas, išskyrus [[#^s-076cf6b47561792f22e3233a|4 straipsnio]] nuostatas, susijusias su diplomato laikinu perkėlimu į kitą valstybės instituciją ar įstaigą, ir [[#^s-d9e6ea6de350e9ace1846209|16]], [[#^s-a6b1c6a20815fa612bd5dab3|22]] straipsnius, įsigalioja 2010 m. rugsėjo 1 d. ^s-9672f3d9469407472841fa34
 
 
 2. Šio įstatymo [[#^s-d9e6ea6de350e9ace1846209|16 straipsnis]] įsigalioja 2011 m. sausio 1 d. ^s-39ac69f547207315621dcd0d

@@ -59,7 +59,7 @@ Papildyti 62 straipsnį 3 dalimi:
 ### 3 straipsnis. 73 straipsnio pakeitimas ^s-45c19bc77018c3739fa0913b
 
 
-73 straipsnio 2 punktą pripažinti netekusiu galios, buvusius 3, 4 ir 5 punktus laikyti atitinkamai 2, 3 ir [[#^s-c66b4b64c1b944e2edd81c7d|4 punktais]], [[#^s-c66b4b64c1b944e2edd81c7d|4 punkte]] vietoj žodžio „mėnesį“ įrašyti žodį „savaitę“ ir visą straipsnį išdėstyti taip:
+73 straipsnio 2 punktą pripažinti netekusiu galios, buvusius 3, 4 ir 5 punktus laikyti atitinkamai 2, 3 ir 4 punktais, [[#^s-c66b4b64c1b944e2edd81c7d|4 punkte]] vietoj žodžio „mėnesį“ įrašyti žodį „savaitę“ ir visą straipsnį išdėstyti taip:
 
 
 „73 straipsnis. Paprastajai grupei priskirtų nuteistųjų laikymo sąlygos
@@ -84,7 +84,7 @@ Paprastajai grupei priskirti nuteistieji turi teisę:
 ### 4 straipsnis. 74 straipsnio pakeitimas ^s-c5aebecb06990f24407eac52
 
 
-74 straipsnio 2 punktą pripažinti netekusiu galios, buvusius 3, 4 ir 5 punktus laikyti atitinkamai 2, 3 ir [[#^s-9572dac607645eae11eeefaa|4 punktais]] ir visą straipsnį išdėstyti taip:
+74 straipsnio 2 punktą pripažinti netekusiu galios, buvusius 3, 4 ir 5 punktus laikyti atitinkamai 2, 3 ir 4 punktais ir visą straipsnį išdėstyti taip:
 
 
 „74 straipsnis. Lengvajai grupei priskirtų nuteistųjų laikymo sąlygos
@@ -109,7 +109,7 @@ Lengvajai grupei priskirti nuteistieji turi teisę:
 ### 5 straipsnis. 75 straipsnio 1 dalies pakeitimas ^s-6208196387ba49251a3e8ae4
 
 
-75 straipsnio 1 dalies 2 punktą pripažinti netekusiu galios, buvusius 3 ir 4 punktus laikyti atitinkamai 2 ir [[#^s-7acbd1f2b6f876ce4457ecbf|3 punktais]], [[#^s-7acbd1f2b6f876ce4457ecbf|3 punkte]] vietoj žodžių „du mėnesius“ įrašyti žodį „mėnesį“  ir šią dalį išdėstyti taip:
+75 straipsnio 1 dalies 2 punktą pripažinti netekusiu galios, buvusius 3 ir 4 punktus laikyti atitinkamai 2 ir 3 punktais, [[#^s-7acbd1f2b6f876ce4457ecbf|3 punkte]] vietoj žodžių „du mėnesius“ įrašyti žodį „mėnesį“  ir šią dalį išdėstyti taip:
 
 
 „1. Drausmės grupei priskirti nuteistieji turi teisę:
@@ -128,7 +128,7 @@ Lengvajai grupei priskirti nuteistieji turi teisę:
 ### 6 straipsnis. 79 straipsnio pakeitimas ^s-d1510b873a582099b0f587a4
 
 
-79 straipsnio 2 punktą pripažinti netekusiu galios, buvusius 3, 4 ir 5 punktus laikyti atitinkamai 2, 3 ir [[#^s-c1cbca060984bde0a24b93da|4 punktais]], [[#^s-c1cbca060984bde0a24b93da|4 punkte]] vietoj žodžių „dvi savaites“ įrašyti žodį „savaitę“ ir visą straipsnį išdėstyti taip:
+79 straipsnio 2 punktą pripažinti netekusiu galios, buvusius 3, 4 ir 5 punktus laikyti atitinkamai 2, 3 ir 4 punktais, [[#^s-c1cbca060984bde0a24b93da|4 punkte]] vietoj žodžių „dvi savaites“ įrašyti žodį „savaitę“ ir visą straipsnį išdėstyti taip:
 
 
 „79 straipsnis. Paprastajai grupei priskirtų nuteistųjų laikymo sąlygos
@@ -153,7 +153,7 @@ Paprastajai grupei priskirti nuteistieji turi teisę:
 ### 7 straipsnis. 80 straipsnio pakeitimas ^s-8abb67fefa46fedc3399a973
 
 
-80 straipsnio 2 punktą pripažinti netekusiu galios, buvusius 3, 4 ir 5 punktus laikyti atitinkamai 2, 3 ir [[#^s-dfe3355a005588e4a351572f|4 punktais]] ir visą straipsnį išdėstyti taip:
+80 straipsnio 2 punktą pripažinti netekusiu galios, buvusius 3, 4 ir 5 punktus laikyti atitinkamai 2, 3 ir 4 punktais ir visą straipsnį išdėstyti taip:
 
 
 „80 straipsnis. Lengvajai grupei priskirtų nuteistųjų laikymo sąlygos
@@ -178,7 +178,7 @@ Lengvajai grupei priskirti nuteistieji turi teisę:
 ### 8 straipsnis. 85 straipsnio 1 dalies pakeitimas ^s-5c30fcc7c6b95c892e6c2311
 
 
-85 straipsnio 1 dalies 2 punktą pripažinti netekusiu galios, buvusius 3, 4, 5 ir 6 punktus laikyti atitinkamai 2, 3, 4 ir [[#^s-98e6b331487bf8f40ed9c660|5 punktais]], [[#^s-98e6b331487bf8f40ed9c660|5 punkte]] vietoj žodžio „mėnesį“ įrašyti žodį „savaitę“  ir šią dalį išdėstyti taip:
+85 straipsnio 1 dalies 2 punktą pripažinti netekusiu galios, buvusius 3, 4, 5 ir 6 punktus laikyti atitinkamai 2, 3, 4 ir 5 punktais, [[#^s-98e6b331487bf8f40ed9c660|5 punkte]] vietoj žodžio „mėnesį“ įrašyti žodį „savaitę“  ir šią dalį išdėstyti taip:
 
 
 „1. Paprastajai grupei priskirti nuteistieji turi teisę:

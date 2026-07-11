@@ -43,25 +43,25 @@ Vilnius
 ### 1 straipsnis. 9 straipsnio pakeitimas ^s-635b9374f0edd0d52dbe9116
 
 
-1. Pakeisti 9 straipsnio 4 dalį ir ją išdėstyti taip: ^s-9b73f67b976f8fa65447d2a3
+1. Pakeisti [[latest/TAR.F789235C18BB#^s-761952332cb6ba685314b339|9 straipsnio 4 dalį]] ir ją išdėstyti taip: ^s-9b73f67b976f8fa65447d2a3
 
 
-„4. Kitų viešųjų juridinių asmenų, kurių savininko teises ir pareigas įgyvendina Seimas arba Vyriausybė, vidaus auditą atlieka juose įsteigta vidaus audito tarnyba arba atitinkamai Seimo arba Vyriausybės paskirta kito viešojo juridinio asmens centralizuoto vidaus audito tarnyba ar vidaus audito tarnyba, išskyrus šio straipsnio 7 dalyje numatytus atvejus.“
+„4. Kitų viešųjų juridinių asmenų, kurių savininko teises ir pareigas įgyvendina Seimas arba Vyriausybė, vidaus auditą atlieka juose įsteigta vidaus audito tarnyba arba atitinkamai Seimo arba Vyriausybės paskirta kito viešojo juridinio asmens centralizuoto vidaus audito tarnyba ar vidaus audito tarnyba, išskyrus [[latest/TAR.F789235C18BB|šio straipsnio 7 dalyje]] numatytus atvejus.“
 
 
-2. Pakeisti 9 straipsnio 7 dalį ir ją išdėstyti taip: ^s-5d7b4823e8b1921c062319ee
+2. Pakeisti [[latest/TAR.F789235C18BB|9 straipsnio 7 dalį]] ir ją išdėstyti taip: ^s-5d7b4823e8b1921c062319ee
 
 
 „7. Viešojo juridinio asmens vidaus auditui atlikti gali būti įsigyjamos vidaus audito paslaugos [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymo]] nustatyta tvarka, jeigu:
 
 
-1) viešajame juridiniame asmenyje, kurio savininko teises ir pareigas įgyvendina Seimas arba Vyriausybė, vidaus auditui atlikti pagal šio straipsnio 4 dalį nėra paskirta kito viešojo juridinio asmens vidaus audito tarnyba arba centralizuoto vidaus audito tarnyba; ^s-a455fd057ccbaef1fb0bfe36
+1) viešajame juridiniame asmenyje, kurio savininko teises ir pareigas įgyvendina Seimas arba Vyriausybė, vidaus auditui atlikti pagal [[latest/TAR.F789235C18BB|šio straipsnio 4 dalį]] nėra paskirta kito viešojo juridinio asmens vidaus audito tarnyba arba centralizuoto vidaus audito tarnyba; ^s-a455fd057ccbaef1fb0bfe36
 
 
-2) viešajame juridiniame asmenyje, kurio savininko teises ir pareigas įgyvendina Seimas arba Vyriausybė, vidaus auditui atlikti pagal šio straipsnio 4 dalį yra paskirta kito viešojo juridinio asmens vidaus audito tarnyba arba centralizuoto vidaus audito tarnyba ir Seimo valdyba arba Vyriausybės įgaliotas subjektas vidaus audito paslaugų įsigijimui pritaria; ^s-7ed5df2057178ef899acae13
+2) viešajame juridiniame asmenyje, kurio savininko teises ir pareigas įgyvendina Seimas arba Vyriausybė, vidaus auditui atlikti pagal [[latest/TAR.F789235C18BB|šio straipsnio 4 dalį]] yra paskirta kito viešojo juridinio asmens vidaus audito tarnyba arba centralizuoto vidaus audito tarnyba ir Seimo valdyba arba Vyriausybės įgaliotas subjektas vidaus audito paslaugų įsigijimui pritaria; ^s-7ed5df2057178ef899acae13
 
 
-3) viešajame juridiniame asmenyje vidaus audito tarnyba arba centralizuoto vidaus audito tarnyba neturi būti įsteigta pagal šio straipsnio 1, 2, 3 ir 5 dalis.“ ^s-ee4c41351c19db91e0979cb5
+3) viešajame juridiniame asmenyje vidaus audito tarnyba arba centralizuoto vidaus audito tarnyba neturi būti įsteigta pagal šio straipsnio [[#^s-9b73f67b976f8fa65447d2a3|1]], [[#^s-5d7b4823e8b1921c062319ee|2]], [[latest/TAR.F789235C18BB|3]] ir [[latest/TAR.F789235C18BB|5]] dalis.“ ^s-ee4c41351c19db91e0979cb5
 
 
 

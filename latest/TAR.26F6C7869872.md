@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-af4e94a7502b903ebe860212
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 5 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. balandžio 17 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti tarptautines sutartis intelektualinės nuosavybės apsaugos srityje“, ratifikuoja 1886 m. rugsėjo 9 d. Berno konvenciją dėl literatūros ir meno kūrinių apsaugos, peržiūrėtą Paryžiuje 1971 m. liepos 24 d. ir papildytą 1979 m. rugsėjo 28 d.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 5 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. balandžio 17 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti tarptautines sutartis intelektualinės nuosavybės apsaugos srityje“](https://e-tar.lt/portal/lt/legalAct/TAR.CD66CD86D808), ratifikuoja 1886 m. rugsėjo 9 d. Berno konvenciją dėl literatūros ir meno kūrinių apsaugos, peržiūrėtą Paryžiuje 1971 m. liepos 24 d. ir papildytą 1979 m. rugsėjo 28 d.
 
 
 

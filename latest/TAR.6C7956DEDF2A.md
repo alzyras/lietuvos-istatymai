@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Tarptautinio rekonstrukcijos ir plėtros banko steigimo sutarties V straipsnio pakeitimo ratifikavimas ^s-b043a6b447b4b257b9a4903f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. gruodžio 28 d. dekretą Nr. 1K-251, ratifikuoja Tarptautinio rekonstrukcijos ir plėtros banko steigimo sutarties V straipsnio pakeitimą, kuriam 2009 m. sausio 30 d. rezoliucija Nr. 596 pritarė Tarptautinio rekonstrukcijos ir plėtros banko valdytojų taryba.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. gruodžio 28 d. dekretą Nr. 1K-251](https://e-tar.lt/portal/lt/legalAct/TAR.A239E4006E77), ratifikuoja Tarptautinio rekonstrukcijos ir plėtros banko steigimo sutarties V straipsnio pakeitimą, kuriam 2009 m. sausio 30 d. rezoliucija Nr. 596 pritarė Tarptautinio rekonstrukcijos ir plėtros banko valdytojų taryba.
 
 
 

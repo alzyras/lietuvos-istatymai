@@ -110,7 +110,7 @@ Nr. XII-1210, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14115
 ### 7 straipsnis. ^s-2da61cc013bd96c82ee5cee3
 
 
-5 ir [[#^s-7c585aa16160c33f5f5a28a7|6 straipsniuose]] nurodyta kompensacija Černobylio AE avarijos likvidavimo dalyviams ar jų šeimoms mažinama dydžiu, kuris buvo išmokėtas pagal Lietuvos Respublikos Vyriausybės 1992 m. balandžio 22 d. nutarimo Nr.281 [[#^s-75e08510e1646470bdac7401|1 straipsnį]].
+[[#^s-80dcef6e7340ebb2321b19bb|5]] ir [[#^s-7c585aa16160c33f5f5a28a7|6]] straipsniuose nurodyta kompensacija Černobylio AE avarijos likvidavimo dalyviams ar jų šeimoms mažinama dydžiu, kuris buvo išmokėtas pagal Lietuvos Respublikos Vyriausybės [1992 m. balandžio 22 d. nutarimo Nr.281](https://e-tar.lt/portal/lt/legalAct/TAR.631EC0847392) [[#^s-75e08510e1646470bdac7401|1 straipsnį]].
 
 
 
@@ -132,7 +132,7 @@ Išmokėtos kompensacijos Lietuvos Respublikos Vyriausybės registruojamos kaip 
 ### 10 straipsnis. ^s-d5da6e5317fd2cffff8a4d1f
 
 
-Skiriant ir mokant vienkartines kompensacijas, šio įstatymo 5, 6 ir [[#^s-2da61cc013bd96c82ee5cee3|7 straipsniuose]] nustatyti kompensacijų dydžiai taikomi nuo 1995 m. sausio 1 d. ir neindeksuojami.
+Skiriant ir mokant vienkartines kompensacijas, šio įstatymo [[#^s-80dcef6e7340ebb2321b19bb|5]], [[#^s-7c585aa16160c33f5f5a28a7|6]] ir [[#^s-2da61cc013bd96c82ee5cee3|7]] straipsniuose nustatyti kompensacijų dydžiai taikomi nuo 1995 m. sausio 1 d. ir neindeksuojami.
 
 
 Šiame įstatyme nurodytiems asmenims neišmokėtos kompensacijos nepaveldimos.
@@ -179,9 +179,9 @@ Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1210, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14115
-Lietuvos Respublikos įstatymo „Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 – 1991 12 31)“ Nr. I-576 5 ir [[#^s-7c585aa16160c33f5f5a28a7|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos įstatymo „Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 – 1991 12 31)“ Nr. I-576 [[#^s-80dcef6e7340ebb2321b19bb|5]] ir [[#^s-7c585aa16160c33f5f5a28a7|6]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1627, 2015-04-21, paskelbta TAR 2015-04-28, i. k. 2015-06450
-Lietuvos Respublikos įstatymo „Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22–1991 12 31)“ Nr. I-576 2 ir [[#^s-7c585aa16160c33f5f5a28a7|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos įstatymo „Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22–1991 12 31)“ Nr. I-576 [[#^s-6cd4cbb11b951618935b3301|2]] ir [[#^s-7c585aa16160c33f5f5a28a7|6]] straipsnių pakeitimo įstatymas

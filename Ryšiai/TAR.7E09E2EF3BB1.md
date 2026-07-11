@@ -13,5 +13,4 @@ pavadinimas: "Dėl Lietuvos Respublikos vidaus reikalų, valstybės saugumo, kra
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EDDCB615126E#^s-70be031677942f31cd69f7d8|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - 2 citatos - DĖL LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAPILDYMO IR PAKEITIMO
-- [[latest/TAR.EDDCB615126E#^s-ebca7f488c83e6092064f614|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - 2 citatos - DĖL LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAPILDYMO IR PAKEITIMO
+- [[latest/TAR.EDDCB615126E#^s-70be031677942f31cd69f7d8|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - DĖL LIETUVOS RESPUBLIKOS VIDAUS REIKALŲ, VALSTYBĖS SAUGUMO, KRAŠTO APSAUGOS IR PROKURATŪROS PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAPILDYMO IR PAKEITIMO

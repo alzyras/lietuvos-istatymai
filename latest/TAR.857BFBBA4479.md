@@ -33,7 +33,7 @@ Vilnius
 
 
 
-Įsigaliojus Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymui, pripažinti netekusiais galios Lietuvos Respublikos paramos šeimai valstybinių pašalpų įstatymą (Žin., 1991, Nr. 19-494) ir Lietuvos Respublikos Aukščiausiosios Tarybos nutarimą „Dėl Paramos šeimai valstybinių pašalpų įstatymo įsigaliojimo“ (Žin., 1991, Nr. 19-495).
+Įsigaliojus Lietuvos Respublikos valstybinių pašalpų šeimoms, auginančioms vaikus, įstatymui, pripažinti netekusiais galios Lietuvos Respublikos paramos šeimai valstybinių pašalpų įstatymą (Žin., 1991, Nr. 19-494) ir Lietuvos Respublikos Aukščiausiosios Tarybos nutarimą [„Dėl Paramos šeimai valstybinių pašalpų įstatymo įsigaliojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.C40377E932EE) (Žin., 1991, Nr. 19-495).
 
 
 

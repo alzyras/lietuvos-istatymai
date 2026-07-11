@@ -92,13 +92,13 @@ BENDROSIOS NUOSTATOS
 1. Perkeliamųjų asmenų perkėlimo sąlygos negali skirtis dėl perkeliamojo asmens statuso suteikimo pagrindo. ^s-383c5430bbf5b221878143f9
 
 
-2. Asmenys, nurodyti šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalies]] 4 ir 5 punktuose, perkeliamojo asmens statusą įgyja, jeigu jie perkeliami į Lietuvos Respubliką kartu su asmenimis, nurodytais šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalies]] 1, 2 ir 3 punktuose. ^s-37e59f6cb85e58971e9463c5
+2. Asmenys, nurodyti šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalies]] [[#^s-bab4e26ab8dd6b8829d93e08|4]] ir [[#^s-3e51fb142648f37b15f5832c|5]] punktuose, perkeliamojo asmens statusą įgyja, jeigu jie perkeliami į Lietuvos Respubliką kartu su asmenimis, nurodytais šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalies]] [[#^s-f7f55bf76d9e617dd42a733a|1]], [[#^s-94a22b9ebffcb83be9af7415|2]] ir [[#^s-6a2b9e9e0c4e3feb02f79c0d|3]] punktuose. ^s-37e59f6cb85e58971e9463c5
 
 
-3. Asmeniui, įgijusiam perkeliamojo asmens statusą šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalies]] 4 ar 5 punkto pagrindu ir perkėlimo metu praradusiam šį pagrindą (nutraukus santuoką arba registruotos partnerystės sutartį su perkeliamuoju asmeniu, sukakus 21 metus, nebesant išlaikytiniu ir pan.), perkeliamojo asmens statusas nepanaikinamas. ^s-a86f9011d30cb1a7964f481b
+3. Asmeniui, įgijusiam perkeliamojo asmens statusą šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalies]] [[#^s-bab4e26ab8dd6b8829d93e08|4]] ar [[#^s-3e51fb142648f37b15f5832c|5]] punkto pagrindu ir perkėlimo metu praradusiam šį pagrindą (nutraukus santuoką arba registruotos partnerystės sutartį su perkeliamuoju asmeniu, sukakus 21 metus, nebesant išlaikytiniu ir pan.), perkeliamojo asmens statusas nepanaikinamas. ^s-a86f9011d30cb1a7964f481b
 
 
-4. Parama integracijai teikiama atsižvelgiant į perkeliamojo asmens poreikius ne ilgiau kaip 24 mėnesius nuo jų įrašymo į perkeliamųjų asmenų sąrašą dienos, vadovaujantis Vyriausybės nustatyta tvarka. Perkeliamajam asmeniui šio įstatymo [[#^s-b4075652f31d4e77135e971b|7 straipsnio 3 dalies]] 1–4 ir 7 punktuose nurodytos išmokos iš integracijai įgyvendinti skiriamų lėšų mokamos ne ilgiau kaip 18 mėnesių nuo sutarties dėl paramos integracijai teikimo tarp perkeliamojo asmens ir integracijos operatoriaus pasirašymo dienos, vadovaujantis Vyriausybės nustatyta tvarka. Konkretus paramos integracijai teikimo laikotarpis nustatomas su perkeliamuoju asmeniu sudarytoje sutartyje dėl paramos integracijai teikimo. ^s-af38a5e8aa296213ad418d82
+4. Parama integracijai teikiama atsižvelgiant į perkeliamojo asmens poreikius ne ilgiau kaip 24 mėnesius nuo jų įrašymo į perkeliamųjų asmenų sąrašą dienos, vadovaujantis Vyriausybės nustatyta tvarka. Perkeliamajam asmeniui šio įstatymo [[#^s-b4075652f31d4e77135e971b|7 straipsnio 3 dalies]] [[#^s-bb18ecd1df318b378f432320|1]]–[[#^s-d8fe0c12fd4494f1cc966caa|4]] ir [[#^s-e69049f1d72dbad8e69131d5|7]] punktuose nurodytos išmokos iš integracijai įgyvendinti skiriamų lėšų mokamos ne ilgiau kaip 18 mėnesių nuo sutarties dėl paramos integracijai teikimo tarp perkeliamojo asmens ir integracijos operatoriaus pasirašymo dienos, vadovaujantis Vyriausybės nustatyta tvarka. Konkretus paramos integracijai teikimo laikotarpis nustatomas su perkeliamuoju asmeniu sudarytoje sutartyje dėl paramos integracijai teikimo. ^s-af38a5e8aa296213ad418d82
 
 
 
@@ -122,10 +122,10 @@ PERKELIAMOJO ASMENS STATUSO SUTEIKIMAS ir PANAIKINIMAS
 3) jis yra asmuo, kuriam Vyriausybės nustatyta tvarka išduotas teisę atkurti Lietuvos Respublikos pilietybę patvirtinantis dokumentas arba kuris pateikia dokumentus, patvirtinančius, kad pagal Pilietybės įstatymą jis turi teisę atkurti Lietuvos Respublikos pilietybę; ^s-6a2b9e9e0c4e3feb02f79c0d
 
 
-4) jis yra šios dalies 1, 2 ir [[#^s-6a2b9e9e0c4e3feb02f79c0d|3 punktuose]] išvardytų asmenų šeimos narys; ^s-bab4e26ab8dd6b8829d93e08
+4) jis yra šios dalies [[#^s-f7f55bf76d9e617dd42a733a|1]], [[#^s-94a22b9ebffcb83be9af7415|2]] ir [[#^s-6a2b9e9e0c4e3feb02f79c0d|3]] punktuose išvardytų asmenų šeimos narys; ^s-bab4e26ab8dd6b8829d93e08
 
 
-5) jis yra šios dalies 1, 2 ir [[#^s-6a2b9e9e0c4e3feb02f79c0d|3 punktuose]] išvardytų asmenų globojamas nepilnametis vaikas. ^s-3e51fb142648f37b15f5832c
+5) jis yra šios dalies [[#^s-f7f55bf76d9e617dd42a733a|1]], [[#^s-94a22b9ebffcb83be9af7415|2]] ir [[#^s-6a2b9e9e0c4e3feb02f79c0d|3]] punktuose išvardytų asmenų globojamas nepilnametis vaikas. ^s-3e51fb142648f37b15f5832c
 
 
 2. Dėl globojamų nepilnamečių vaikų perkėlimo į Lietuvos Respubliką kiekvienu atveju sprendžiama individualiai, atsižvelgiant į perkeliamojo asmens ir globojamo nepilnamečio vaiko tarpusavio ryšius, vaiko amžių, gyvenimo su globėju aplinkybes, jų finansinės ir moralinės paramos poreikį, taip pat visas kitas aplinkybes, leidžiančias nustatyti realų poreikį rūpintis globojamu nepilnamečiu vaiku ir sprendimo pasekmes globojamam nepilnamečiui vaikui. ^s-05a8349130c9f9da75b63cc9
@@ -172,7 +172,7 @@ Perkeliamojo asmens statusas nesuteikiamas asmeniui, jeigu yra bent vienas iš �
 3) po perkeliamojo asmens statuso suteikimo paaiškėja šio įstatymo [[#^s-a0e257e91c9bb6339c455abd|5 straipsnyje]] nurodyti perkeliamojo asmens statuso nesuteikimo pagrindai; ^s-cba20703975cc32f0971f783
 
 
-4) perkeliamasis asmuo nevykdo pareigų, nustatytų šio įstatymo [[#^s-852094b6847e72ea9906125a|8 straipsnio]] 1 ir [[#^s-604e061b317b18be1bb93cfa|2 dalyse]]; ^s-db2bfc89e91ec6f7b458bd46
+4) perkeliamasis asmuo nevykdo pareigų, nustatytų šio įstatymo [[#^s-852094b6847e72ea9906125a|8 straipsnio]] [[#^s-aa4474115de086a17e406ee8|1]] ir [[#^s-6935b69a102acde0d0dbacf1|2]] dalyse; ^s-db2bfc89e91ec6f7b458bd46
 
 
 5) pasibaigia sudarytoje sutartyje dėl paramos integracijai teikimo nustatytas paramos integracijai teikimo laikotarpis. ^s-4f0144e53d80ff260e5d587d
@@ -193,7 +193,7 @@ PERkeliamoJO asmens teisĖS ir PAREIGOS
 ### 7 straipsnis. Perkeliamojo asmens teisės ^s-622f298f5f70c5870a81c885
 
 
-1. Perkeliamasis asmuo Lietuvos Respublikoje turi tas teises ir laisves, kurias numato Lietuvos Respublikos Konstitucija, tarptautinės sutartys, Lietuvos Respublikos įstatymai ir Europos Sąjungos teisės aktai. ^s-e72db339a35d44172ad25053
+1. Perkeliamasis asmuo Lietuvos Respublikoje turi tas teises ir laisves, kurias numato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), tarptautinės sutartys, Lietuvos Respublikos įstatymai ir Europos Sąjungos teisės aktai. ^s-e72db339a35d44172ad25053
 
 
 2. Nuo perkeliamojo asmens statuso suteikimo ir įrašymo į perkeliamųjų asmenų sąrašą dienos perkeliamasis asmuo turi teisę teikti prašymą atvykti į Lietuvos Respubliką, jo atvykimo išlaidas (kelionės bilieto, bagažo, kelionės draudimo ir kitas su kelione susijusias išlaidas) apmokant ar atlyginant Vyriausybės nustatyta tvarka. Perkeliamojo asmens kelionė į Lietuvos Respubliką organizuojama ir įvykdoma kuo greičiau su perkeliamuoju asmeniu suderintu laiku. ^s-4f426432c9401cd1cb331b00
@@ -253,7 +253,7 @@ c) Įšmokų vaikams įstatyme nustatyto dydžio išmoką vaikui;
 14) Vyriausybės nustatyta tvarka gauti kompensaciją už išlaidas, patirtas humanitarinės krizės ištiktoje užsienio valstybėje ar jos dalyje ir (ar) Lietuvos Respublikoje rengiant ir teikiant perkeliamojo asmens statusą patvirtinančius dokumentus, tvarkant ir išduodant pirmuosius asmens tapatybę ir Lietuvos Respublikos pilietybę patvirtinančius dokumentus arba dokumentus, patvirtinančius arba suteikiančius užsieniečiui teisę nuolat gyventi Lietuvos Respublikoje, ir šiuo tikslu legalizuojant, verčiant dokumentus, mokant valstybės rinkliavas ir konsulinius mokesčius. ^s-cf023be522b0a6d858e1a6d4
 
 
-4. Asmenys, nurodyti šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalies]] 2–5 punktuose, įgiję perkeliamojo asmens statusą, turi teisę gauti dokumentą, kuris patvirtina arba suteikia užsieniečiui teisę nuolat gyventi Lietuvos Respublikoje. ^s-89b0095a84ca0ee87c6e5152
+4. Asmenys, nurodyti šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalies]] [[#^s-94a22b9ebffcb83be9af7415|2]]–[[#^s-3e51fb142648f37b15f5832c|5]] punktuose, įgiję perkeliamojo asmens statusą, turi teisę gauti dokumentą, kuris patvirtina arba suteikia užsieniečiui teisę nuolat gyventi Lietuvos Respublikoje. ^s-89b0095a84ca0ee87c6e5152
 
 
 
@@ -266,7 +266,7 @@ c) Įšmokų vaikams įstatyme nustatyto dydžio išmoką vaikui;
 2. Perkeliamasis asmuo per vieną mėnesį nuo atvykimo į Lietuvos Respubliką dienos privalo kreiptis į Migracijos departamentą dėl dokumento, patvirtinančio arba suteikiančio užsieniečiui teisę nuolat gyventi Lietuvos Respublikoje, gavimo. ^s-6935b69a102acde0d0dbacf1
 
 
-3. Asmuo, kurio perkeliamojo asmens statusas panaikintas šio įstatymo [[#^s-6ef968e9b01377cd8e7673b1|6 straipsnio 1 dalies]] 1, 3 ar 4 punkto pagrindu, išskyrus perkeliamąjį nepilnametį vaiką ir perkeliamojo asmens globojamą nepilnametį vaiką, privalo atlyginti Lietuvos Respublikai dėl jo perkėlimo į Lietuvos Respubliką patirtas išlaidas Vyriausybės nustatyta tvarka. ^s-8e38fee14a6417a863b8adb7
+3. Asmuo, kurio perkeliamojo asmens statusas panaikintas šio įstatymo [[#^s-6ef968e9b01377cd8e7673b1|6 straipsnio 1 dalies]] [[#^s-69decf5916014fb2f50cca74|1]], [[#^s-cba20703975cc32f0971f783|3]] ar [[#^s-db2bfc89e91ec6f7b458bd46|4]] punkto pagrindu, išskyrus perkeliamąjį nepilnametį vaiką ir perkeliamojo asmens globojamą nepilnametį vaiką, privalo atlyginti Lietuvos Respublikai dėl jo perkėlimo į Lietuvos Respubliką patirtas išlaidas Vyriausybės nustatyta tvarka. ^s-8e38fee14a6417a863b8adb7
 
 
 4. Perkeliamasis asmuo privalo laikytis Lietuvos Respublikos Konstitucijos, įstatymų ir kitų teisės aktų reikalavimų. ^s-0a385e36cf895b5678ce26c6
@@ -312,7 +312,7 @@ PRAŠYMŲ DĖL PERKELIAMOJO ASMENS STATUSO SUTEIKIMO PATEIKIMAS, NAGRINĖJIMAS, 
 2. Jeigu humanitarinės krizės ištiktoje užsienio valstybėje ar jos dalyje asmuo, siekiantis įgyti perkeliamojo asmens statusą, kartu su prašymu dėl perkeliamojo asmens statuso suteikimo negali pateikti [[#^s-9aaa6639ad78940dbb17c582|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytų prašymo pagrįstumą patvirtinančių dokumentų, jis privalo raštu pateikti išsamią informaciją, patvirtinančią šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalyje]] nustatytą perkeliamojo asmens statuso suteikimo pagrindą. ^s-ddf93f1eddb57b8d0b424f23
 
 
-3. Prašymas dėl perkeliamojo asmens statuso suteikimo šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalies]] 1, 2 ar 3 punkte nurodyto asmens šeimos nariui ar globojamam nepilnamečiui vaikui yra teikiamas kartu su dokumentais, patvirtinančiais šių asmenų šeiminius ar globos ryšius. ^s-5085c87767bd1026b854fd99
+3. Prašymas dėl perkeliamojo asmens statuso suteikimo šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalies]] [[#^s-f7f55bf76d9e617dd42a733a|1]], [[#^s-94a22b9ebffcb83be9af7415|2]] ar [[#^s-6a2b9e9e0c4e3feb02f79c0d|3]] punkte nurodyto asmens šeimos nariui ar globojamam nepilnamečiui vaikui yra teikiamas kartu su dokumentais, patvirtinančiais šių asmenų šeiminius ar globos ryšius. ^s-5085c87767bd1026b854fd99
 
 
 4. Humanitarinės krizės ištiktoje užsienio valstybėje ar jos dalyje dokumentams, pateikiamiems kartu su asmens prašymu dėl perkeliamojo asmens statuso suteikimo, gali būti netaikomi reikalavimai dėl šių dokumentų legalizavimo ir vertimo į lietuvių kalbą. Tokiu atveju dokumentų legalizavimo ir vertimo į lietuvių kalbą procedūros atliekamos asmenims atvykus į Lietuvos Respubliką. ^s-ccd8a21ad37266f70a63ce29
@@ -338,7 +338,7 @@ PRAŠYMŲ DĖL PERKELIAMOJO ASMENS STATUSO SUTEIKIMO PATEIKIMAS, NAGRINĖJIMAS, 
 2. [[#^s-ea6e538be39d086056b0a647|Šio straipsnio 1 dalyje]] nustatytas sprendimo priėmimo terminas Migracijos departamento sprendimu gali būti pratęstas ne ilgiau kaip vienam mėnesiui, jeigu per [[#^s-ea6e538be39d086056b0a647|šio straipsnio 1 dalyje]] nustatytą terminą priimti sprendimo neįmanoma dėl to, kad reikia įvertinti sudėtingas teisines ir (ar) faktines aplinkybes. ^s-1d2c8c2ab41597c19a7087c5
 
 
-3. Prašymas dėl perkeliamojo asmens statuso suteikimo šeimos nariui ar globojamam nepilnamečiui vaikui gali būti teikiamas kartu su šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytų asmenų prašymu arba vėliau, bet ne vėliau kaip per 6 mėnesius nuo šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytų asmenų prašymo dėl perkeliamojo asmens statuso suteikimo pateikimo dienos. ^s-5fd1f18ce11b26c02c761f61
+3. Prašymas dėl perkeliamojo asmens statuso suteikimo šeimos nariui ar globojamam nepilnamečiui vaikui gali būti teikiamas kartu su šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalies]] [[#^s-f7f55bf76d9e617dd42a733a|1]], [[#^s-94a22b9ebffcb83be9af7415|2]] ir [[#^s-6a2b9e9e0c4e3feb02f79c0d|3]] punktuose nurodytų asmenų prašymu arba vėliau, bet ne vėliau kaip per 6 mėnesius nuo šio įstatymo [[#^s-682c8986314518fe201f2c7e|4 straipsnio 1 dalies]] [[#^s-f7f55bf76d9e617dd42a733a|1]], [[#^s-94a22b9ebffcb83be9af7415|2]] ir [[#^s-6a2b9e9e0c4e3feb02f79c0d|3]] punktuose nurodytų asmenų prašymo dėl perkeliamojo asmens statuso suteikimo pateikimo dienos. ^s-5fd1f18ce11b26c02c761f61
 
 
 

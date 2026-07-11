@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-6ef735900ada485ceeadd722
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. gegužės 28 d. dekretą Nr.955, ratifikuoja Lietuvos Respublikos Vyriausybės ir Argentinos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1996 m. kovo 14 d. Buenos Airėse.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento [1996 m. gegužės 28 d. dekretą Nr.955](https://e-tar.lt/portal/lt/legalAct/TAR.AEF2829497AD), ratifikuoja Lietuvos Respublikos Vyriausybės ir Argentinos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1996 m. kovo 14 d. Buenos Airėse.
 
 
 

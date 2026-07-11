@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos �
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.EAA93A47BAA1#^s-2d3e95e197c81fc0ac03711a|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - 2 citatos - 12 straipsnio 6 punktą
+- [[latest/TAR.EAA93A47BAA1#^s-38bc002eecab4e5cbce857d0|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - 13 straipsnio 6 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EAA93A47BAA1#^s-0f63c27229205d79c53ad37c|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - Įstatymas Nr. XIV-3110
-- [[latest/TAR.EAA93A47BAA1#^s-bec2d66e6c1e480c7164ee42|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymas]] - Įstatymas Nr. XIV-3110
+_Nėra._

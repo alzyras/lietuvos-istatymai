@@ -109,7 +109,7 @@ Vilnius
 ### 5 straipsnis. 53 straipsnio 1 dalies 4 punkto pakeitimas ir 2, 3 dalių pripažinimas netekusiomis galios ^s-40b3ea95b1cac8a132421ec6
 
 
-1. 53 straipsnio 1 dalies 4 punkte po žodžio „straipsnio“ įrašyti žodžius „[[#^s-b851ec61caf728e8872cce6c|1 dalies]]“ ir šį punktą išdėstyti taip: ^s-b851ec61caf728e8872cce6c
+1. 53 straipsnio 1 dalies 4 punkte po žodžio „straipsnio“ įrašyti žodžius „1 dalies“ ir šį punktą išdėstyti taip: ^s-b851ec61caf728e8872cce6c
 
 
 „4) fiziniai asmenys, artimos giminystės, taip pat svainystės ryšiais susiję su šio straipsnio 1 dalies 1 punkte nurodytais fiziniais asmenimis;“.

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijų ratifikavimas ^s-fe49b6d90479c0118c8a816c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 2000 m. vasario 28 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1992 metų Tarptautinę konvenciją dėl civilinės atsakomybės už taršos nafta padarytą žalą ir 1992 metų Tarptautinę konvenciją dėl Tarptautinio taršos nafta padarytos žalos kompensavimo fondo įkūrimo“, ratifikuoja 1992 metų Tarptautinę konvenciją dėl civilinės atsakomybės už taršos nafta padarytą žalą ir 1992 metų Tarptautinę konvenciją dėl Tarptautinio taršos nafta padarytos žalos kompensavimo fondo įkūrimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 2000 m. vasario 28 d. dekretą „[Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1992 metų Tarptautinę konvenciją dėl civilinės atsakomybės už taršos nafta padarytą žalą ir 1992 metų Tarptautinę konvenciją dėl Tarptautinio taršos nafta padarytos žalos kompensavimo fondo įkūrimo](https://e-tar.lt/portal/lt/legalAct/TAR.9A4B6FCED50F)“, ratifikuoja 1992 metų Tarptautinę konvenciją dėl civilinės atsakomybės už taršos nafta padarytą žalą ir 1992 metų Tarptautinę konvenciją dėl Tarptautinio taršos nafta padarytos žalos kompensavimo fondo įkūrimo.
 
 
 

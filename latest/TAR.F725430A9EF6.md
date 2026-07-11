@@ -200,10 +200,10 @@ bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių
 10) akcinė bendrovė Kauno hidroelektrinė; ^s-eacb64c44b0aaa9a466daee3
 
 
-11) projekto įgyvendinimo bendrovė, nurodyta [[latest/TAR.04F64676CE77|Atominės elektrinės įstatyme]] (toliau – projekto įgyvendinimo bendrovė); ^s-e913279a5f86d7781aba557f
+11) [[latest/TAR.04F64676CE77|projekto įgyvendinimo bendrovė]], nurodyta [[latest/TAR.04F64676CE77|Atominės elektrinės įstatyme]] (toliau – [[latest/TAR.04F64676CE77|projekto įgyvendinimo bendrovė]]); ^s-e913279a5f86d7781aba557f
 
 
-12) elektros perdavimo jungčių statytojas, nurodytas [[latest/TAR.04F64676CE77|Atominės elektrinės įstatyme]] (toliau – elektros perdavimo jungčių statytojas). ^s-1b2c2a37f3adb516cc5c1828
+12) [[latest/TAR.04F64676CE77|elektros perdavimo jungčių statytojas]], nurodytas [[latest/TAR.04F64676CE77|Atominės elektrinės įstatyme]] (toliau – [[latest/TAR.04F64676CE77|elektros perdavimo jungčių statytojas]]). ^s-1b2c2a37f3adb516cc5c1828
 
 
 2. Strateginę reikšmę nacionaliniam saugumui turi akcinės bendrovės „Lietuvos energija“ įrenginiai, sudarantys 110 kV ir aukštesnės įtampos elektros perdavimo tinklą ir jo priklausinius. ^s-220bf34d6af4937af4197153
@@ -277,7 +277,7 @@ bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių
 2. Vyriausybė ir valstybės institucijos, priimdamos sprendimus ir sudarydamos susitarimus, valstybės akcijų valdytojai, priimdami sprendimus, sudarydami susitarimus ir įgyvendindami valstybei nuosavybės teise priklausančių nacionalinio investuotojo, projekto įgyvendinimo bendrovės ir elektros perdavimo jungčių statytojo akcininkų teises, užtikrina, kad: ^s-15ed3095eb0f403230b58bfa
 
 
-1) nacionalinis investuotojas, strateginis investuotojas, projekto įgyvendinimo bendrovė ir elektros perdavimo jungčių statytojas efektyviai įgyvendintų pagrindinį Lietuvos Respublikos elektros energetikos sistemos uždavinį – neribotą laiką, nepriklausomai, saugiai ir patikimai aprūpinti Lietuvos vartotojus elektros energija; ^s-ab84321167d6ba8daee8d9a2
+1) nacionalinis investuotojas, strateginis investuotojas, [[latest/TAR.04F64676CE77|projekto įgyvendinimo bendrovė]] ir [[latest/TAR.04F64676CE77|elektros perdavimo jungčių statytojas]] efektyviai įgyvendintų pagrindinį Lietuvos Respublikos elektros energetikos sistemos uždavinį – neribotą laiką, nepriklausomai, saugiai ir patikimai aprūpinti Lietuvos vartotojus elektros energija; ^s-ab84321167d6ba8daee8d9a2
 
 
 2) Nacionalinėje energetikos strategijoje numatyti strateginiai objektai – naujoji atominė elektrinė, elektros perdavimo jungtys į Lenkijos Respubliką ir Švedijos Karalystę, užtikrinančios efektyvius ir reikiamos apimties elektros energijos mainus tarp Lietuvos Respublikos elektros energetikos sistemos ir Elektros energijos perdavimo koordinavimo sąjungai (toliau – UCTE) bei Šiaurės šalių perdavimo sistemos operatorių organizacijai (NORDEL) priklausančių sistemų, – būtų įgyvendinti neatidėliojant; ^s-5ca409ab1f87510956d168cf
@@ -426,7 +426,7 @@ Vyriausybė iki 2009 m. spalio 1 d. parengia ir patvirtina Strateginę ar svarbi
 ### 3 straipsnis. Įstatymo įsigaliojimas ^s-752a47329334d37371f43792
 
 
-Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.57E0E8B29108#^s-418d5f6c58890cf737ace35a|Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo 7 ir 8 straipsniai]] įsigalioja 2009 m. spalio 1 d.
+Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.57E0E8B29108|Lietuvos Respublikos strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių bei kitų nacionaliniam saugumui užtikrinti svarbių įmonių įstatymo]] [[latest/TAR.57E0E8B29108#^s-15235c8228cd0b21f7fcca69|7]] ir [[latest/TAR.57E0E8B29108#^s-418d5f6c58890cf737ace35a|8]] straipsniai įsigalioja 2009 m. spalio 1 d.
 
 
 

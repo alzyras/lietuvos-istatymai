@@ -199,7 +199,7 @@ BENDROSIOS NUOSTATOS
 2. Užstato davėju ir užstato gavėju ar užskaitos susitarimo šalimis turi būti vienas iš šių subjektų: ^s-6ae2dfd7119b3b01fec9b597
 
 
-1) valstybės valdžios institucija (išskyrus įmones, už kurias garantuoja valstybė, nebent šios įmonės yra šios dalies 2–[[#^s-a09fec7780778af6547f9c5e|6 punktuose]] nurodyti asmenys), įskaitant kitų valstybių narių valstybės valdžios institucijas, įpareigotas dalyvauti ar dalyvaujančias valdant valstybės skolą ar įgaliotas tvarkyti klientų sąskaitas; ^s-75b3ca4c30dc1aed923d5a8e
+1) valstybės valdžios institucija (išskyrus įmones, už kurias garantuoja valstybė, nebent šios įmonės yra šios dalies [[#^s-909c60f2c11f36b9c997df28|2]]–[[#^s-a09fec7780778af6547f9c5e|6]] punktuose nurodyti asmenys), įskaitant kitų valstybių narių valstybės valdžios institucijas, įpareigotas dalyvauti ar dalyvaujančias valdant valstybės skolą ar įgaliotas tvarkyti klientų sąskaitas; ^s-75b3ca4c30dc1aed923d5a8e
 
 
 2) Lietuvos bankas, valstybės narės centrinis bankas, Europos centrinis bankas, Tarptautinių atsiskaitymų bankas, Tarptautinis rekonstrukcijos ir plėtros bankas, Tarptautinė finansų korporacija, Amerikos plėtros bankas, Azijos plėtros bankas, Afrikos plėtros bankas, Europos Tarybos plėtros bankas, Šiaurės šalių investicijų bankas, Karibų jūros baseino plėtros bankas, Europos rekonstrukcijos ir plėtros bankas, Europos investicijų fondas, Daugiašalė investicijų garantijų agentūra, Tarptautinė imunizacijos finansavimo institucija, Islamo plėtros bankas, Tarptautinis valiutos fondas, Europos investicijų bankas; ^s-909c60f2c11f36b9c997df28
@@ -211,10 +211,10 @@ BENDROSIOS NUOSTATOS
 4) pagrindinė sutarties šalis, atsiskaitymų tarpininkas ar tarpuskaitos namai, tarp jų panašia veikla užsiimančios įstaigos, kurių veiklą reglamentuoja Lietuvos Respublikos teisės aktai ir kurios veikia ateities, pasirinkimo sandorių ir kitų išvestinių finansinių priemonių rinkose tiek, kiek to nereglamentuoja [[latest/TAR.D38B48DC3EF0|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas]]; ^s-a7446abac0bcfa13a2079806
 
 
-5) asmuo (išskyrus fizinius asmenis), veikiantis kaip šios dalies 1–[[#^s-a7446abac0bcfa13a2079806|4 punktuose]] nurodytų vieno ar daugiau asmenų arba institucijų, turinčių obligacijų ar kitų skolos vertybinių popierių, įgaliotinis, patikėtinis ar atstovas; ^s-e31de70fc691858ff14d5724
+5) asmuo (išskyrus fizinius asmenis), veikiantis kaip šios dalies [[#^s-75b3ca4c30dc1aed923d5a8e|1]]–[[#^s-a7446abac0bcfa13a2079806|4]] punktuose nurodytų vieno ar daugiau asmenų arba institucijų, turinčių obligacijų ar kitų skolos vertybinių popierių, įgaliotinis, patikėtinis ar atstovas; ^s-e31de70fc691858ff14d5724
 
 
-6) asmuo (išskyrus fizinius asmenis), jeigu kita susitarimo šalis yra subjektas, nurodytas šios dalies 1–[[#^s-e31de70fc691858ff14d5724|5 punktuose]]. ^s-a09fec7780778af6547f9c5e
+6) asmuo (išskyrus fizinius asmenis), jeigu kita susitarimo šalis yra subjektas, nurodytas šios dalies [[#^s-75b3ca4c30dc1aed923d5a8e|1]]–[[#^s-e31de70fc691858ff14d5724|5]] punktuose. ^s-a09fec7780778af6547f9c5e
 
 
 3. Šis įstatymas netaikomas teisėms, kurias asmuo gali turėti į turtą, pateiktą kaip finansinis užstatas, ir kurios atsiranda pagal kitus negu finansinio užtikrinimo susitarimus ar teisės aktų nuostatas, nesusijusias su likvidavimo procedūra arba reorganizavimo priemonėmis. ^s-c97d736cc1a509ce33cee26c
@@ -474,7 +474,7 @@ Ieškiniams dėl vienašalio finansinio užstato realizavimo priverstinio vykdym
 2. Jeigu finansiniu užstatu pateikiami nematerialieji vertybiniai popieriai (įskaitant teises į nematerialiuosius vertybinius popierius) ir teisės į šiuos nematerialiuosius vertybinius popierius įstatymų nustatyta tvarka yra įregistruotos nematerialiųjų vertybinių popierių sąskaitoje ar registre, esančiuose Lietuvos Respublikoje, tai asmenų, kaip užstato gavėjų, teises į šiuos nematerialiuosius vertybinius popierius nustato Lietuvos Respublikos teisės aktai. ^s-4a71140cc0a3e762ba51b21a
 
 
-3. Šio straipsnio 1 ir [[#^s-4a71140cc0a3e762ba51b21a|2 dalys]] taikomos nustatant: ^s-983a7d3f81d8e487ff39f932
+3. Šio straipsnio [[#^s-efafd34f34c0fae51f35de81|1]] ir [[#^s-4a71140cc0a3e762ba51b21a|2]] dalys taikomos nustatant: ^s-983a7d3f81d8e487ff39f932
 
 
 1) nematerialiųjų vertybinių popierių rūšį ir nuosavybės teisę į šiuos vertybinius popierius; ^s-571c7180d201a5567cacfbe7

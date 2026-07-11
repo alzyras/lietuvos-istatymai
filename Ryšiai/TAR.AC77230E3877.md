@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patal
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.9D04F98F7C14|Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymas]] - 2 citatos - Gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo 17 straipsnio 4 dalyje
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9D04F98F7C14#^s-e0747e411ff1121a49e2a231|Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymas]] - Įstatymas Nr. VIII-472
+_Nėra._

@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.546350F16EA0|Lietuvos Respublikos kardomojo kalinimo įstatymo įgyvendinimo įstatymas]] - 2 citatos - KARDOMOJO KALINIMO ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+_Nėra._

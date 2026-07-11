@@ -42,7 +42,7 @@ Padaryti Lietuvos Respublikos žemės reformos įstatymo (Žin., 1991, Nr. 24-63
 1) 2 punktą papildyti trečiąja dalimi:
 
 
-„Asmenims, kurių šeimos buvo įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių Lenkijos ir Prūsijos (dabartinė Kaliningrado sritis) teritorijose, žemė suteikiama neatlygintinai pagal Lietuvos Respublikos įstatymo „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ 2 ir 4 straipsnius.“;
+„Asmenims, kurių šeimos buvo įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių Lenkijos ir Prūsijos (dabartinė Kaliningrado sritis) teritorijose, žemė suteikiama neatlygintinai pagal Lietuvos Respublikos įstatymo [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) [2](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) ir [4](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) straipsnius.“;
 
 
 2) 2 punkto trečiąją dalį laikyti ketvirtąja dalimi.

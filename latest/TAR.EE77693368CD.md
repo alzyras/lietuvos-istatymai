@@ -42,7 +42,7 @@ Vilnius
 1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^s-bf0cc411d32429853c32809d
 
 
-„1. Vadovaudamasis Konvencijos 12 straipsniu ir 2005 m. liepos 12 d. Tarybos sprendimo 2005/511/TVR dėl euro apsaugos nuo padirbinėjimo paskiriant Europolą centriniu biuru kovojant su euro padirbinėjimu (OL 2005 L 185, p. 35) [[#^s-bf0cc411d32429853c32809d|1 straipsnio 1 dalimi]], Lietuvos Respublikos Seimas pareiškia, kad:
+„1. Vadovaudamasis Konvencijos 12 straipsniu ir 2005 m. liepos 12 d. Tarybos sprendimo 2005/511/TVR dėl euro apsaugos nuo padirbinėjimo paskiriant Europolą centriniu biuru kovojant su euro padirbinėjimu (OL 2005 L 185, p. 35) 1 straipsnio 1 dalimi, Lietuvos Respublikos Seimas pareiškia, kad:
 
 
 1) Europos policijos biuras (Europolas) skiriamas centrine institucija kovai su euro padirbinėjimu pagal šio įstatymo 3 straipsnyje nurodytą deklaraciją; ^s-e25e4174ead0fa901cef5494

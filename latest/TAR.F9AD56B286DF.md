@@ -79,7 +79,7 @@ Pakeisti 17 straipsnio 4 dalies 1 punktą ir jį išdėstyti taip:
 5) atlieka autorių teisių ir gretutinių teisių kolektyvinio administravimo asociacijų priežiūrą; ^s-db0a320ce11547ae35f2b987
 
 
-6) kolektyvinio teisių administravimo asociacijų ir (ar) kūrinių bei gretutinių teisių objektų naudotojų prašymu tarpininkauja derybose dėl sutarčių sudarymo; ^s-0e7675249681a046e277e744
+6) kolektyvinio teisių administravimo asociacijų ir (ar) kūrinių bei gretutinių teisių objektų naudotojų prašymu tarpininkauja derybose [dėl sutarčių sudarymo](https://e-tar.lt/portal/lt/legalAct/TAR.E5E1D73B263A); ^s-0e7675249681a046e277e744
 
 
 7) šio Įstatymo nustatytais atvejais saugo autorių ir atlikėjų asmenines neturtines teises; ^s-eb30d66daf5fe2b1b00dcbdd

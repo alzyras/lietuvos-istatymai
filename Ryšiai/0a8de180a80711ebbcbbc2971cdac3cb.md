@@ -9,9 +9,10 @@ pavadinimas: "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.5DC1759E42CB|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - 603 straipsnyje
+- [[latest/TAR.5DC1759E42CB#^s-4a953a5b6197cc8294d32a7e|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - 2 citatos - 33 straipsnis
+- [[latest/TAR.5DC1759E42CB#^s-6a50e219f672fec3cef3fa9b|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - 2 straipsnio 45 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.5DC1759E42CB#^s-4a953a5b6197cc8294d32a7e|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Įstatymas Nr. XIV-265
-- [[latest/TAR.5DC1759E42CB#^s-c9f9c53881688574db9b7a9e|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Įstatymas Nr. XIV-265
+_Nėra._

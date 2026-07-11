@@ -43,13 +43,13 @@ Vilnius
 1. Papildyti [[#^s-bb3e14f3c1b5378eae0debb1|2 straipsnį]] nauja [[#^s-b22c2aa69df8566c534c8254|3 dalimi]]: ^s-e5052c3dbdff270186825539
 
 
-„3. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), įsteigta institucija.“
+„3. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), įsteigta institucija.“
 
 
 2. Papildyti [[#^s-bb3e14f3c1b5378eae0debb1|2 straipsnį]] nauja [[#^s-0e03607b6033d408ddda9018|4 dalimi]]: ^s-14ebe2026418752ef1d108f6
 
 
-„4. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) įsteigta institucija.“
+„4. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj) dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) įsteigta institucija.“
 
 
 3. Buvusias [[#^s-bb3e14f3c1b5378eae0debb1|2 straipsnio]] 3–7 dalis laikyti atitinkamai 5–9 dalimis. ^s-b22c2aa69df8566c534c8254
@@ -81,7 +81,7 @@ Pakeisti 9 straipsnio 9 dalį ir ją išdėstyti taip:
 Pakeisti ir papildyti 59 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
-„8. Jeigu priežiūros institucijos išduotą licenciją turintis bankas priklauso finansinei grupei, kuriai taikoma jungtinė (konsoliduota) priežiūra, priežiūros institucija turi glaudžiai bendradarbiauti ir keistis priežiūros funkcijai atlikti reikalinga informacija su kitų Europos Sąjungos valstybių narių priežiūros institucijomis, atliekančiomis įmonių, kurioms taikoma jungtinė (konsoliduota) priežiūra, veiklos priežiūrą. Jeigu priežiūros institucija yra atsakinga už finansinės grupės, kuriai priklauso ir kitose Europos Sąjungos valstybėse narėse licencijuoti užsienio bankai, jungtinę (konsoliduotą) priežiūrą, ji sudaro priežiūros institucijų kolegiją, kurios paskirtis – užtikrinti bendradarbiavimą ir pasikeitimą informacija tarp Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių priežiūros institucijų ir Europos bankininkystės institucijos, o prireikus ir kitų užsienio valstybių priežiūros institucijų. Be to, Lietuvos Respublikoje susidarius kritinei situacijai, įskaitant Reglamento (ES) Nr. 1093/2010 18 straipsnyje numatytą atvejį arba neigiamus pokyčius finansų rinkose, kuri kelia galimą grėsmę rinkos likvidumui ir finansinės sistemos stabilumui bet kurioje kitoje Europos Sąjungos valstybėje narėje, kurioje yra licencijuoti finansinei grupei priklausantys subjektai arba kurioje yra įsteigti pagal šio Įstatymo 701 straipsnį svarbiais paskelbti filialai, priežiūros institucija, jeigu ji atlieka finansinės grupės jungtinę (konsoliduotą) priežiūrą, iš karto, kai tik praktiškai tai įmanoma padaryti, atsižvelgdama į šio Įstatymo 65 straipsnio nuostatas įspėja Europos bankininkystės instituciją, Europos sisteminės rizikos valdybą, Europos centrinių bankų sistemos centrinius bankus ir Lietuvos Respublikos finansų ministeriją bei kitos Europos Sąjungos valstybės narės centrinės valdžios institucijas, dalyvaujančias rengiant teisės aktus, susijusius su kredito įstaigų, finansų įstaigų, investicines ir draudimo paslaugas teikiančių bendrovių priežiūra, ir praneša visą informaciją, kuri yra esminė jų funkcijoms atlikti. Bendradarbiavimą su kitų Europos Sąjungos valstybių narių priežiūros institucijomis, priežiūros institucijų kolegijų sudarymą ir veiklą bei kitas papildomas užduotis reglamentuoja priežiūros institucijos teisės aktai.“
+„8. Jeigu priežiūros institucijos išduotą licenciją turintis bankas priklauso finansinei grupei, kuriai taikoma jungtinė (konsoliduota) priežiūra, priežiūros institucija turi glaudžiai bendradarbiauti ir keistis priežiūros funkcijai atlikti reikalinga informacija su kitų Europos Sąjungos valstybių narių priežiūros institucijomis, atliekančiomis įmonių, kurioms taikoma jungtinė (konsoliduota) priežiūra, veiklos priežiūrą. Jeigu priežiūros institucija yra atsakinga už finansinės grupės, kuriai priklauso ir kitose Europos Sąjungos valstybėse narėse licencijuoti užsienio bankai, jungtinę (konsoliduotą) priežiūrą, ji sudaro priežiūros institucijų kolegiją, kurios paskirtis – užtikrinti bendradarbiavimą ir pasikeitimą informacija tarp Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių priežiūros institucijų ir Europos bankininkystės institucijos, o prireikus ir kitų užsienio valstybių priežiūros institucijų. Be to, Lietuvos Respublikoje susidarius kritinei situacijai, įskaitant [Reglamento (ES) Nr. 1093/2010 18 straipsnyje](https://eur-lex.europa.eu/eli/reg/1093/2010/art_18/oj) numatytą atvejį arba neigiamus pokyčius finansų rinkose, kuri kelia galimą grėsmę rinkos likvidumui ir finansinės sistemos stabilumui bet kurioje kitoje Europos Sąjungos valstybėje narėje, kurioje yra licencijuoti finansinei grupei priklausantys subjektai arba kurioje yra įsteigti pagal šio Įstatymo 701 straipsnį svarbiais paskelbti filialai, priežiūros institucija, jeigu ji atlieka finansinės grupės jungtinę (konsoliduotą) priežiūrą, iš karto, kai tik praktiškai tai įmanoma padaryti, atsižvelgdama į šio Įstatymo 65 straipsnio nuostatas įspėja Europos bankininkystės instituciją, Europos sisteminės rizikos valdybą, Europos centrinių bankų sistemos centrinius bankus ir Lietuvos Respublikos finansų ministeriją bei kitos Europos Sąjungos valstybės narės centrinės valdžios institucijas, dalyvaujančias rengiant teisės aktus, susijusius su kredito įstaigų, finansų įstaigų, investicines ir draudimo paslaugas teikiančių bendrovių priežiūra, ir praneša visą informaciją, kuri yra esminė jų funkcijoms atlikti. Bendradarbiavimą su kitų Europos Sąjungos valstybių narių priežiūros institucijomis, priežiūros institucijų kolegijų sudarymą ir veiklą bei kitas papildomas užduotis reglamentuoja priežiūros institucijos teisės aktai.“
 
 
 
@@ -91,7 +91,7 @@ Pakeisti ir papildyti 59 straipsnio 8 dalį ir ją išdėstyti taip:
 1. Pakeisti 64 straipsnio 2 dalį ir ją išdėstyti taip: ^s-0818e02541406574cf2308e8
 
 
-„2. Priežiūros institucija atlieka šio Įstatymo nustatyta tvarka išduotą licenciją turinčių bankų, įskaitant jų padalinius Lietuvos Respublikoje ir užsienio valstybėse, bei šio Įstatymo nustatyta tvarka išduotą licenciją turinčių užsienio bankų filialų priežiūrą. Jeigu šio Įstatymo nustatyta tvarka išduotą licenciją turintis bankas yra kontroliuojamas Europos Sąjungos valstybėje narėje licencijuoto užsienio banko, priežiūros institucija dvišalio susitarimo pagrindu, pagal Reglamento (ES) Nr. 1093/2010 28 straipsnį, turi teisę perduoti įgaliojimus atlikti tokio banko priežiūrą Europos Sąjungos valstybės narės priežiūros institucijai, kuri globojančiam (patronuojančiam) užsienio bankui yra išdavusi leidimą veiklai ir kuri atlieka globojančio (patronuojančio) užsienio banko priežiūrą tokiu būdu, kad yra prisiimama atsakomybė už šio Įstatymo nustatyta tvarka išduotą licenciją turinčio banko priežiūrą.“
+„2. Priežiūros institucija atlieka šio Įstatymo nustatyta tvarka išduotą licenciją turinčių bankų, įskaitant jų padalinius Lietuvos Respublikoje ir užsienio valstybėse, bei šio Įstatymo nustatyta tvarka išduotą licenciją turinčių užsienio bankų filialų priežiūrą. Jeigu šio Įstatymo nustatyta tvarka išduotą licenciją turintis bankas yra kontroliuojamas Europos Sąjungos valstybėje narėje licencijuoto užsienio banko, priežiūros institucija dvišalio susitarimo pagrindu, pagal [Reglamento (ES) Nr. 1093/2010 28 straipsnį](https://eur-lex.europa.eu/eli/reg/1093/2010/art_28/oj), turi teisę perduoti įgaliojimus atlikti tokio banko priežiūrą Europos Sąjungos valstybės narės priežiūros institucijai, kuri globojančiam (patronuojančiam) užsienio bankui yra išdavusi leidimą veiklai ir kuri atlieka globojančio (patronuojančio) užsienio banko priežiūrą tokiu būdu, kad yra prisiimama atsakomybė už šio Įstatymo nustatyta tvarka išduotą licenciją turinčio banko priežiūrą.“
 
 
 2. Pakeisti 64 straipsnio 5 dalies 2 punktą ir jį išdėstyti taip: ^s-adaf5389d83ba47394dc624a
@@ -113,13 +113,13 @@ Pakeisti ir papildyti 59 straipsnio 8 dalį ir ją išdėstyti taip:
 2. Papildyti 65 straipsnio 5 dalį 10 punktu: ^s-57072bb86520a25547b01f77
 
 
-„10) Europos bankininkystės institucijai, kaip numatyta šiame įstatyme ir Reglamente (ES) Nr. 1093/2010;“.
+„10) Europos bankininkystės institucijai, kaip numatyta šiame įstatyme ir [Reglamente (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj);“.
 
 
 3. Papildyti 65 straipsnio 5 dalį 11 punktu: ^s-a3d7511fed77fe8928eec667
 
 
-„11) Europos sisteminės rizikos valdybai, kai ta informacija reikšminga jos funkcijoms, vykdomoms pagal Reglamentą (ES) Nr. 1092/2010, atlikti.“
+„11) Europos sisteminės rizikos valdybai, kai ta informacija reikšminga jos funkcijoms, vykdomoms pagal [Reglamentą (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj), atlikti.“
 
 
 
@@ -146,7 +146,7 @@ Pakeisti 71 straipsnį ir jį išdėstyti taip:
 1. Priežiūros institucija praneša Europos bankininkystės institucijai apie šio Įstatymo nustatyta tvarka išduotas licencijas, Europos Komisijai ir Europos bankininkystės institucijai apie atšauktas licencijas, taip pat joms ir Europos Sąjungos valstybių narių priežiūros institucijoms teikia kitą informaciją. Pranešimų ir informacijos teikimo atvejus ir tvarką nustato priežiūros institucijos teisės aktai. ^s-4687a1e3fe4cb5a752929ded
 
 
-2. Priežiūros institucija, atlikdama šiame Įstatyme nustatytas funkcijas, pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją.“ ^s-844ee3d5aa0c16aa4deba9a0
+2. Priežiūros institucija, atlikdama šiame Įstatyme nustatytas funkcijas, pagal [Reglamentą (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją.“ ^s-844ee3d5aa0c16aa4deba9a0
 
 
 

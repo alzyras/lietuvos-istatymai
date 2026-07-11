@@ -170,7 +170,7 @@ Pakeisti [[#^s-9091d0f545bdb326fae0701f|5 straipsnio 1 dalį]] ir ją išdėstyt
 2. Pakeisti 13 straipsnio 3 dalį ir ją išdėstyti taip: ^s-c142b9bc70ca8e1a52869909
 
 
-„3. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudų vidurkį. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio 4 ir 5 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidurkio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidurkio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas turi būti motyvuojamas Tarnybos nutarime.“
+„3. Skiriamos baudos dydis nustatomas pagal mažiausios ir didžiausios baudų vidurkį. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio [[#^s-0d1abcda6fa34026a0656964|4]] ir 5 dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidurkio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidurkio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos dydžio mažinimas ar didinimas turi būti motyvuojamas Tarnybos nutarime.“
 
 
 3. 13 straipsnio 5 dalyje išbraukti žodžius „Tarnybos nutarimu paskirtos baudos, įspėjimo ar“ ir šią dalį išdėstyti taip: ^s-685a48789486ac8b109c1da6
@@ -317,10 +317,10 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 „22 straipsnis. Nutarimų vykdymas
 
 
-1. Tarnybos nutarimas dėl baudos skyrimo įvykdomas sumokant baudą į valstybės biudžetą. Tarnybos nutarimas dėl baudos skyrimo turi būti įvykdytas ne vėliau kaip per vieną mėnesį nuo dienos, kurią komercinės veiklos subjektui jis buvo įteiktas. ^s-d5be72589e98efc4d6bdb0f3
+1. Tarnybos nutarimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo įvykdomas sumokant baudą į valstybės biudžetą. Tarnybos nutarimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo turi būti įvykdytas ne vėliau kaip per vieną mėnesį nuo dienos, kurią komercinės veiklos subjektui jis buvo įteiktas. ^s-d5be72589e98efc4d6bdb0f3
 
 
-2. Tarnybos nutarimas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Tarnybos nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo jo priėmimo dienos. Šis terminas pratęsiamas tiek, kokiam laikui teismo sprendimu buvo sustabdytas Tarnybos nutarimo skirti baudą vykdymas.“ ^s-26347a1d96cf20ff70220be9
+2. Tarnybos nutarimas yra vykdomasis dokumentas, vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Tarnybos nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo jo priėmimo dienos. Šis terminas pratęsiamas tiek, kokiam laikui teismo sprendimu buvo sustabdytas Tarnybos nutarimo skirti baudą vykdymas.“ ^s-26347a1d96cf20ff70220be9
 
 
 
@@ -337,7 +337,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 1. Tarnybos nutarimai per vieną mėnesį nuo nutarimo įteikimo dienos gali būti skundžiami teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-74d19bf698d7db5d15b3ee43
 
 
-2. Kreipimasis į teismą nesustabdo Tarnybos nutarimų dėl baudos skyrimo ar įspėjimo taikymo vykdymo, jeigu teismas nenustato kitaip.“ ^s-47a378a583435285fba7e5bf
+2. Kreipimasis į teismą nesustabdo Tarnybos nutarimų [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo ar įspėjimo taikymo vykdymo, jeigu teismas nenustato kitaip.“ ^s-47a378a583435285fba7e5bf
 
 
 

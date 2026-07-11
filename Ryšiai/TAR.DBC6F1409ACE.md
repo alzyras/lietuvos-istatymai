@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F707D11C62FE#^s-9ebec01ccb45e1c22e13c120|Lietuvos Respublikos tarptautinių sankcijų įstatymas]] - 3 citatos - 1111010ISTA0XI-1693
-- [[latest/TAR.F707D11C62FE#^s-ff8e823ca2ab7633ee421d1b|Lietuvos Respublikos tarptautinių sankcijų įstatymas]] - 3 citatos - 1111010ISTA0XI-1693
+- [[latest/TAR.F707D11C62FE#^s-9ebec01ccb45e1c22e13c120|Lietuvos Respublikos tarptautinių sankcijų įstatymas]] - 2 citatos - 1111010ISTA0XI-1693

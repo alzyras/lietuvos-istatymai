@@ -174,7 +174,7 @@ Pakeisti 4 straipsnio 4 punktą ir jį išdėstyti taip:
 2) svarsto klausimus, susijusius su antrinės teisinės pagalbos sutarčių tinkamo vykdymo užtikrinimu; ^s-5c25c2ed514282d27a882fc3
 
 
-3) teikia pasiūlymus tarnyboms, sprendžiant šios dalies 1 ir [[#^s-5c25c2ed514282d27a882fc3|2 punkte]] nurodytus klausimus; ^s-1ece6b435142f9393963bba6
+3) teikia pasiūlymus tarnyboms, sprendžiant šios dalies [[#^s-ea1f7409df4697de06abb995|1]] ir [[#^s-5c25c2ed514282d27a882fc3|2]] punkte nurodytus klausimus; ^s-1ece6b435142f9393963bba6
 
 
 4) teikia pasiūlymus Teisingumo ministerijai dėl rekomendacijų, siekiant užtikrinti vienodą šio įstatymo taikymą, priėmimo; ^s-f150548ac480ab0d0d296bc6
@@ -231,10 +231,10 @@ Pakeisti [[#^s-fb8f9f8a3ff63d97d4878186|11 straipsnį]] ir jį išdėstyti taip:
 3) kiti Lietuvos Respublikos tarptautinėse sutartyse nurodyti asmenys. ^s-e7d98f9330aeb4e3ad65cfb5
 
 
-3. Kai valstybės garantuojamos teisinės pagalbos prašoma tarptautiniams ginčams spręsti, pagal šį įstatymą ją turi teisę gauti tik tie šio straipsnio 1 ir [[#^s-76a329a75e48e1540a3ffc97|2 dalyse]] nurodyti fiziniai asmenys, kurie teisėtai gyvena kitoje Europos Sąjungos valstybėje narėje. ^s-38eb928a4d4974ee870092a8
+3. Kai valstybės garantuojamos teisinės pagalbos prašoma tarptautiniams ginčams spręsti, pagal šį įstatymą ją turi teisę gauti tik tie šio straipsnio [[#^s-9039898892582bf5bfe495ea|1]] ir [[#^s-76a329a75e48e1540a3ffc97|2]] dalyse nurodyti fiziniai asmenys, kurie teisėtai gyvena kitoje Europos Sąjungos valstybėje narėje. ^s-38eb928a4d4974ee870092a8
 
 
-4. Kai šio straipsnio 1 ir [[#^s-76a329a75e48e1540a3ffc97|2 dalyse]] nustatytais atvejais teisėtai Lietuvos Respublikoje gyvenantys fiziniai asmenys tarptautiniams ginčams spręsti kreipiasi dėl valstybės garantuojamos teisinės pagalbos kitoje Europos Sąjungos valstybėje narėje, Lietuvos Respublikoje jiems suteikiama valstybės garantuojama teisinė pagalba, nurodyta šio įstatymo 31 straipsnio 2 dalyje ir 32 straipsnyje. ^s-0a8285cb75b1133d3fdc92f0
+4. Kai šio straipsnio [[#^s-9039898892582bf5bfe495ea|1]] ir [[#^s-76a329a75e48e1540a3ffc97|2]] dalyse nustatytais atvejais teisėtai Lietuvos Respublikoje gyvenantys fiziniai asmenys tarptautiniams ginčams spręsti kreipiasi dėl valstybės garantuojamos teisinės pagalbos kitoje Europos Sąjungos valstybėje narėje, Lietuvos Respublikoje jiems suteikiama valstybės garantuojama teisinė pagalba, nurodyta šio įstatymo 31 straipsnio 2 dalyje ir 32 straipsnyje. ^s-0a8285cb75b1133d3fdc92f0
 
 
 5. Pirminė teisinė pagalba neteikiama, jeigu: ^s-ad2bfa8cc701fc87a964ed55
@@ -294,10 +294,10 @@ Pakeisti [[#^s-fb8f9f8a3ff63d97d4878186|11 straipsnį]] ir jį išdėstyti taip:
 4) pareiškėjui antrinė teisinė pagalba yra teikiama daugiau kaip 3 bylose. ^s-05d1c24454ef4b2594eb380f
 
 
-8. Šio straipsnio 6 ir [[#^s-b33c8cc4ab54730ca11fc565|7 dalys]] netaikomos antrinės teisinės pagalbos teikimui baudžiamosiose ir administracinių teisės pažeidimų bylose, išskyrus prašymus dėl proceso atnaujinimo, skundus ar pareiškimus privataus kaltinimo tvarka. [[#^s-a996973a130d309693e703fd|Šio straipsnio 6 dalies]] 1, 2, 3, 4 punktai ir 7 dalies 1 punktas netaikomi antrinės teisinės pagalbos teikimui tarptautinėse teisminėse institucijose. Jeigu šio įstatymo [[#^s-1b9047af4e642bd062517d15|12 straipsnio]] 3 ir 4 punktuose nurodyti asmenys nori gauti tik šio įstatymo [[#^s-8a51996981d8b4031a05c11d|20 straipsnyje]] nurodytą valstybės garantuojamą teisinę pagalbą, šio straipsnio 6 ir [[#^s-b33c8cc4ab54730ca11fc565|7 dalys]] netaikomos. ^s-3f25a2ac21cb17f0e29b62b7
+8. Šio straipsnio [[#^s-a996973a130d309693e703fd|6]] ir [[#^s-b33c8cc4ab54730ca11fc565|7]] dalys netaikomos antrinės teisinės pagalbos teikimui baudžiamosiose ir administracinių teisės pažeidimų bylose, išskyrus prašymus dėl proceso atnaujinimo, skundus ar pareiškimus privataus kaltinimo tvarka. [[#^s-a996973a130d309693e703fd|Šio straipsnio 6 dalies]] 1, 2, 3, 4 punktai ir 7 dalies 1 punktas netaikomi antrinės teisinės pagalbos teikimui tarptautinėse teisminėse institucijose. Jeigu šio įstatymo [[#^s-1b9047af4e642bd062517d15|12 straipsnio]] 3 ir 4 punktuose nurodyti asmenys nori gauti tik šio įstatymo [[#^s-8a51996981d8b4031a05c11d|20 straipsnyje]] nurodytą valstybės garantuojamą teisinę pagalbą, šio straipsnio 6 ir 7 dalys netaikomos. ^s-3f25a2ac21cb17f0e29b62b7
 
 
-9. Spręsdama dėl antrinės teisinės pagalbos suteikimo, tarnyba turi teisę prašyti advokato išvados, ar nėra šio straipsnio 6 ir [[#^s-b33c8cc4ab54730ca11fc565|7 dalyse]] nustatytų antrinės teisinės pagalbos neteikimo pagrindų. Tarnyba, parinkdama advokatą, atsižvelgia į šio įstatymo 18 straipsnio 5 dalyje nurodytas aplinkybes. ^s-7505e89bb595c9935661951f
+9. Spręsdama dėl antrinės teisinės pagalbos suteikimo, tarnyba turi teisę prašyti advokato išvados, ar nėra šio straipsnio [[#^s-a996973a130d309693e703fd|6]] ir [[#^s-b33c8cc4ab54730ca11fc565|7]] dalyse nustatytų antrinės teisinės pagalbos neteikimo pagrindų. Tarnyba, parinkdama advokatą, atsižvelgia į šio įstatymo 18 straipsnio 5 dalyje nurodytas aplinkybes. ^s-7505e89bb595c9935661951f
 
 
 10. Valstybės garantuojama teisinė pagalba neteikiama asmenims, turintiems teisę į bylinėjimosi išlaidų (išlaidų, susijusių su bylos nagrinėjimu) draudimo išmoką, jeigu ši išmoka pagal draudimo sutarties sąlygas išmokama prieš patiriant bylinėjimosi išlaidas (išlaidas, susijusias su bylos nagrinėjimu) ir jeigu draudimo išmoka apima visas išlaidas, kurias apimtų pagal šį įstatymą teikiama valstybės garantuojama teisinė pagalba. Pareiškėjas privalo nurodyti, ar yra sudaręs bylinėjimosi išlaidų (išlaidų, susijusių su bylos nagrinėjimu) draudimo sutartį, ir jei šią sutartį yra sudaręs, – kokias išlaidas apimtų draudimo išmoka.“ ^s-74445e099df11c46bfdccce2
@@ -409,7 +409,7 @@ Pakeisti [[#^s-4a585c93f35216acfaed148a|13 straipsnį]] ir jį išdėstyti taip:
 14. Šio įstatymo 12 straipsnio 13 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, nurodyti Lietuvos Respublikos tarptautinėse sutartyse. ^s-5b0d351a53484d5174ab89ea
 
 
-15. Šio straipsnio 1, 4 ir [[#^s-4a53e9cce77d6664cfc9a990|7 dalyse]] nurodytus dokumentus antrinę teisinę pagalbą norintis gauti asmuo privalo pateikti tarnybai tik tais atvejais, kai šiuose dokumentuose pateiktos informacijos, įrodančios asmens teisę gauti antrinę teisinę pagalbą, tarnyba negali gauti naudodamasi valstybės registrais ir kitomis valstybės ir savivaldybių informacinėmis sistemomis.“ ^s-dd2a0eb019d592ea1ee85868
+15. Šio straipsnio [[#^s-fb4e4734308412dcc3ed5c41|1]], [[#^s-b949ec041c80696906b98852|4]] ir [[#^s-4a53e9cce77d6664cfc9a990|7]] dalyse nurodytus dokumentus antrinę teisinę pagalbą norintis gauti asmuo privalo pateikti tarnybai tik tais atvejais, kai šiuose dokumentuose pateiktos informacijos, įrodančios asmens teisę gauti antrinę teisinę pagalbą, tarnyba negali gauti naudodamasi valstybės registrais ir kitomis valstybės ir savivaldybių informacinėmis sistemomis.“ ^s-dd2a0eb019d592ea1ee85868
 
 
 
@@ -598,7 +598,7 @@ Pakeisti [[#^s-d5b515484a9418231de06c53|21 straipsnį]] ir jį išdėstyti taip:
 3. Antrinę teisinę pagalbą suteiksiantį advokatą poilsio ir švenčių dienomis bei tarnybos ne darbo valandomis paskiria ikiteisminio tyrimo pareigūnas, prokuroras ar teismas, remdamiesi tarnybos sudarytais advokatų, teikiančių antrinę teisinę pagalbą baudžiamosiose bylose, budėjimo sąrašais. ^s-7e0665e9fcda623021a0e841
 
 
-4. Tarnyba šio straipsnio 2 ir [[#^s-7e0665e9fcda623021a0e841|3 dalyse]] nurodytiems advokatams moka užmokestį šio įstatymo [[#^s-14eef5b654efa9e5015a8ec0|17 straipsnio]] nustatyta tvarka. ^s-70d9839a33566f90feceff30
+4. Tarnyba šio straipsnio [[#^s-87d4e6287b57fe6f95629c35|2]] ir [[#^s-7e0665e9fcda623021a0e841|3]] dalyse nurodytiems advokatams moka užmokestį šio įstatymo [[#^s-14eef5b654efa9e5015a8ec0|17 straipsnio]] nustatyta tvarka. ^s-70d9839a33566f90feceff30
 
 
 5. Ikiteisminio tyrimo pareigūno, prokuroro ar teismo paskirtas advokatas praneša tarnybai apie antrinės teisinės pagalbos suteikimą ir pateikia tarnybai ikiteisminio tyrimo pareigūno, prokuroro ar teismo sprendimo paskirti advokatą kopiją. ^s-7c576a0fb778d2016a011355
@@ -704,10 +704,10 @@ Pakeisti 33 straipsnio 3 dalį ir ją išdėstyti taip:
 ### 22 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-b972f6de0899831aeb82fea1
 
 
-1. Šio įstatymo [[#^s-2d39237eacc8158118799539|5 straipsnis]], šio įstatymo [[#^s-3ec9cf97e346f15c3d0674b4|6 straipsniu]] keičiamo [[latest/TAR.EAA93A47BAA1#^s-aa70f393d792b88f6a8a8471|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 9 straipsnio 3 dalies]] 1 ir 8 punktai ir 5, 6, 7 dalys, šio įstatymo [[#^s-ddf32ef1eb0812f4c9953379|7 straipsnio]] 2 ir 4 dalys, šio įstatymo [[#^s-4a585c93f35216acfaed148a|13 straipsniu]] keičiamo [[latest/TAR.EAA93A47BAA1#^s-d945ede1f7e71cbac4fb10c2|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 17 straipsnio 6 dalis]], šio įstatymo [[#^s-1470a9cbea5172c0b9bf71b7|14 straipsniu]] keičiamo [[latest/TAR.EAA93A47BAA1#^s-9e3b315de59b6bc5260c7a90|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 18 straipsnio 3 dalis]] įsigalioja 2008 m. liepos 1 d. ^s-e5de28edac28f90049eddfa7
+1. Šio įstatymo [[#^s-2d39237eacc8158118799539|5 straipsnis]], šio įstatymo [[#^s-3ec9cf97e346f15c3d0674b4|6 straipsniu]] keičiamo [[latest/TAR.EAA93A47BAA1#^s-aa70f393d792b88f6a8a8471|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 9 straipsnio 3 dalies]] [[latest/TAR.EAA93A47BAA1#^s-9ef3ec21b06b7fc0dc785dc4|1]] ir [[latest/TAR.EAA93A47BAA1#^s-b2f2acb78147f3d660b51bc5|8]] punktai ir 5, 6, 7 dalys, šio įstatymo [[#^s-ddf32ef1eb0812f4c9953379|7 straipsnio]] [[#^s-58fa8905bf344091cdf4acbb|2]] ir [[#^s-76de5d16456e2612bc09e3e2|4]] dalys, šio įstatymo [[#^s-4a585c93f35216acfaed148a|13 straipsniu]] keičiamo [[latest/TAR.EAA93A47BAA1#^s-d945ede1f7e71cbac4fb10c2|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 17 straipsnio 6 dalis]], šio įstatymo [[#^s-1470a9cbea5172c0b9bf71b7|14 straipsniu]] keičiamo [[latest/TAR.EAA93A47BAA1#^s-9e3b315de59b6bc5260c7a90|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 18 straipsnio 3 dalis]] įsigalioja 2008 m. liepos 1 d. ^s-e5de28edac28f90049eddfa7
 
 
-2. Šio įstatymo [[#^s-81e1a6aa9a795205dc61b3e0|2 straipsnio 3 dalis]], šio įstatymo [[#^s-3ec9cf97e346f15c3d0674b4|6 straipsniu]] keičiamo [[latest/TAR.EAA93A47BAA1#^s-aa70f393d792b88f6a8a8471|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 9 straipsnio 3 dalies]] 5 ir 7 punktai, šio įstatymo [[#^s-ddf32ef1eb0812f4c9953379|7 straipsnio]] 1 ir [[#^s-1bbd91d6553e1858efd2a190|3 dalys]], šio įstatymo [[#^s-41b9dba3e73fd7fb0a95c6d3|16 straipsnis]], išskyrus šiuo straipsniu keičiamo [[latest/TAR.EAA93A47BAA1#^s-b52f61526cd0e317887c9cca|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 21 straipsnio 7 dalį]], ir šio įstatymo [[#^s-14eef5b654efa9e5015a8ec0|17 straipsnis]] įsigalioja 2009 m. sausio 1 d. ^s-d1bd326c960ebeb0d06c9f26
+2. Šio įstatymo [[#^s-81e1a6aa9a795205dc61b3e0|2 straipsnio 3 dalis]], šio įstatymo [[#^s-3ec9cf97e346f15c3d0674b4|6 straipsniu]] keičiamo [[latest/TAR.EAA93A47BAA1#^s-aa70f393d792b88f6a8a8471|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 9 straipsnio 3 dalies]] [[latest/TAR.EAA93A47BAA1#^s-3b8756fe1bf3f2498a12ec64|5]] ir [[latest/TAR.EAA93A47BAA1#^s-bd997019e48cfd0109a41fa8|7]] punktai, šio įstatymo [[#^s-ddf32ef1eb0812f4c9953379|7 straipsnio]] [[#^s-88862fa4e4cbd0a61d37700b|1]] ir [[#^s-65adb4c2d99f30261dac9d47|3]] dalys, šio įstatymo [[#^s-41b9dba3e73fd7fb0a95c6d3|16 straipsnis]], išskyrus šiuo straipsniu keičiamo [[latest/TAR.EAA93A47BAA1#^s-b52f61526cd0e317887c9cca|Lietuvos Respublikos valstybės garantuojamos teisinės pagalbos įstatymo 21 straipsnio 7 dalį]], ir šio įstatymo [[#^s-14eef5b654efa9e5015a8ec0|17 straipsnis]] įsigalioja 2009 m. sausio 1 d. ^s-d1bd326c960ebeb0d06c9f26
 
 
 3. Lietuvos Respublikos Vyriausybė ir kitos šiame įstatyme nurodytos institucijos iki šio įstatymo įsigaliojimo patvirtina pagal kompetenciją šiam įstatymui įgyvendinti reikalingus teisės aktus. ^s-1bbd91d6553e1858efd2a190

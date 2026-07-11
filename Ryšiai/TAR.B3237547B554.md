@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.38E82AA2664C#^s-76b0c9e78309922952a06b5a|Lietuvos Respublikos nekilnojamojo turto registro įstatymas]] - 3 citatos - 1071010ISTA00X-1239
+- [[latest/TAR.38E82AA2664C#^s-76b0c9e78309922952a06b5a|Lietuvos Respublikos nekilnojamojo turto registro įstatymas]] - 2 citatos - 1071010ISTA00X-1239

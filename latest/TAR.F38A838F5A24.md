@@ -96,7 +96,7 @@ Pakeisti [[#^s-ba6197db5a7d5a848df6a6ae|2 straipsnį]] ir jį išdėstyti taip:
 13. Supaprastinta apskaita – apskaita, tvarkoma darant paprastąjį įrašą. ^s-be5f1313af6412333b3fe67b
 
 
-14. Tarptautiniai apskaitos standartai – kaip jie apibrėžti 2002 m. liepos 19 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1606/2002 dėl tarptautinių apskaitos standartų taikymo. ^s-0bcb0525d2ca3891a9e5e2ed
+14. Tarptautiniai apskaitos standartai – kaip jie apibrėžti 2002 m. liepos 19 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1606/2002](https://eur-lex.europa.eu/eli/reg/1606/2002/oj) dėl tarptautinių apskaitos standartų taikymo. ^s-0bcb0525d2ca3891a9e5e2ed
 
 
 15. Tarptautiniai viešojo sektoriaus apskaitos standartai – Tarptautinės buhalterių federacijos Viešojo sektoriaus apskaitos standartų valdybos patvirtintos viešojo sektoriaus subjektų ūkinių operacijų ir ūkinių įvykių registravimo apskaitoje ir finansinių ataskaitų sudarymo taisyklės. ^s-6f2f089e909cc6bf5006cffa
@@ -120,7 +120,7 @@ Pakeisti [[#^s-ba6197db5a7d5a848df6a6ae|2 straipsnį]] ir jį išdėstyti taip:
 21. Vyriausiasis buhalteris (buhalteris) – fizinis asmuo, tvarkantis ūkio subjekto buhalterinę apskaitą, arba struktūrinio buhalterinės apskaitos padalinio vadovas. ^s-759307ddd60fc94430d7865a
 
 
-22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme (toliau – Įmonių finansinės atskaitomybės įstatymas), [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme]] (toliau – [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatymas]]) ir kituose teisės aktuose.“ ^s-eb6cdcc5110b8f8c8460f5d8
+22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [Lietuvos Respublikos įmonių finansinės atskaitomybės įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C) (toliau – [Įmonių finansinės atskaitomybės įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C)), [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme]] (toliau – [[latest/TAR.E2CE2C82DA9E|Viešojo sektoriaus atskaitomybės įstatymas]]) ir kituose teisės aktuose.“ ^s-eb6cdcc5110b8f8c8460f5d8
 
 
 

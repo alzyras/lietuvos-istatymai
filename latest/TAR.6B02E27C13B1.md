@@ -67,7 +67,7 @@ Vilnius
 5. Pakeisti 2 straipsnio 9 dalį ir ją išdėstyti taip: ^s-299ddbf2e4517767094bd7c8
 
 
-„9. Pirminis žuvininkystės produktų supirkėjas – kaip apibrėžta Reglamento (EB) Nr. 1224/2009 59 straipsnyje ir vykdantis pirminį žuvininkystės produktų supirkimą Lietuvos Respublikos teritorijoje.“
+„9. Pirminis žuvininkystės produktų supirkėjas – kaip apibrėžta [Reglamento (EB) Nr. 1224/2009 59 straipsnyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_59/oj) ir vykdantis pirminį žuvininkystės produktų supirkimą Lietuvos Respublikos teritorijoje.“
 
 
 6. Pakeisti 2 straipsnio 12 dalį ir ją išdėstyti taip: ^s-d8eab4ebacfc8a01d38cbfaf
@@ -139,7 +139,7 @@ Vilnius
 18. Pakeisti 2 straipsnio 36 dalį ir ją išdėstyti taip: ^s-537965d83c139b793238b61f
 
 
-„36. Žvejyba – kaip apibrėžta Reglamento (EB) Nr. 1224/2009 4 straipsnio 1 dalyje.“
+„36. Žvejyba – kaip apibrėžta [Reglamento (EB) Nr. 1224/2009 4 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/1224/2009/art_4/par_1/oj).“
 
 
 19. Papildyti [[#^s-330bd7b0bff1113e2ee8164d|2 straipsnį]] nauja 37 dalimi: ^s-8ee3d1000e4e00bfa1816d71
@@ -154,7 +154,7 @@ Vilnius
 21. Papildyti [[#^s-330bd7b0bff1113e2ee8164d|2 straipsnį]] nauja 39 dalimi: ^s-1f9387cd14cc93004fd1c6b5
 
 
-„39. Žvejybos laivas – kaip apibrėžta Reglamento (EB) Nr. 2371/2002 3 straipsnio c punkte.“
+„39. Žvejybos laivas – kaip apibrėžta [Reglamento (EB) Nr. 2371/2002 3 straipsnio c punkte](https://eur-lex.europa.eu/eli/reg/2371/2002/art_3/lit_c/oj).“
 
 
 22. Papildyti [[#^s-330bd7b0bff1113e2ee8164d|2 straipsnį]] nauja 40 dalimi: ^s-fd739bd1fe4c4f7ab5a0e7a5
@@ -657,31 +657,31 @@ priedas
 
 
 
-1. 1993 m. spalio 12 d. Tarybos reglamentas (EEB) Nr. 2847/93, nustatantis bendrosios žuvininkystės politikos kontrolės sistemą (OL 2004 m. specialusis leidimas, 4 skyrius, 2 tomas, p. 70), su paskutiniais pakeitimais, padarytais 2008 m. rugsėjo 29 d. Tarybos reglamentu (EB) Nr. 1006/2008 (OL 2008 L 286, p. 33). ^s-1234d082849a28153f93257e
+1. 1993 m. spalio 12 d. Tarybos [reglamentas (EEB) Nr. 2847/93](https://eur-lex.europa.eu/eli/reg/2847/93/oj), nustatantis bendrosios žuvininkystės politikos kontrolės sistemą (OL 2004 m. specialusis leidimas, 4 skyrius, 2 tomas, p. 70), su paskutiniais pakeitimais, padarytais 2008 m. rugsėjo 29 d. Tarybos [reglamentu (EB) Nr. 1006/2008](https://eur-lex.europa.eu/eli/reg/1006/2008/oj) (OL 2008 L 286, p. 33). ^s-1234d082849a28153f93257e
 
 
-2. 1996 m. lapkričio 26 d. Tarybos reglamentas (EB) Nr. 2406/96, nustatantis bendras pardavimo normas tam tikriems žuvininkystės produktams (OL 2004 m. specialusis leidimas, 4 skyrius, 2 tomas, p. 331), su paskutiniais pakeitimais, padarytais 2005 m. gegužės 25 d. Komisijos reglamentu (EB) Nr. 790/2005 (OL 2005 L 132, p. 15). ^s-6bb30c1872d149b5094ca9bd
+2. 1996 m. lapkričio 26 d. Tarybos [reglamentas (EB) Nr. 2406/96](https://eur-lex.europa.eu/eli/reg/2406/96/oj), nustatantis bendras pardavimo normas tam tikriems žuvininkystės produktams (OL 2004 m. specialusis leidimas, 4 skyrius, 2 tomas, p. 331), su paskutiniais pakeitimais, padarytais 2005 m. gegužės 25 d. Komisijos reglamentu (EB) Nr. 790/2005 (OL 2005 L 132, p. 15). ^s-6bb30c1872d149b5094ca9bd
 
 
-3. 1999 m. gruodžio 17 d. Tarybos reglamentas (EB) Nr. 104/2000 dėl bendro žuvininkystės ir akvakultūros produktų rinkų organizavimo (OL 2004 m. specialusis leidimas, 4 skyrius, 4 tomas, p. 198) su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 28 d. Tarybos reglamentu (EB) Nr. 1759/2006 (OL 2006 L 335, p. 3). ^s-3cb0c12044b715da5e433b8b
+3. 1999 m. gruodžio 17 d. Tarybos reglamentas (EB) Nr. 104/2000 dėl bendro žuvininkystės ir akvakultūros produktų rinkų organizavimo (OL 2004 m. specialusis leidimas, 4 skyrius, 4 tomas, p. 198) su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 28 d. Tarybos [reglamentu (EB) Nr. 1759/2006](https://eur-lex.europa.eu/eli/reg/1759/2006/oj) (OL 2006 L 335, p. 3). ^s-3cb0c12044b715da5e433b8b
 
 
-4. 2000 m. birželio 29 d. Tarybos reglamentas (EB) Nr. 1543/2000, nustatantis duomenų, būtinų Bendrijos bendrosios žuvininkystės politikos vykdymui, rinkimo ir tvarkymo sistemą (OL 2004 m. specialusis leidimas, 4 skyrius, 4 tomas, p. 288), su paskutiniais pakeitimais, padarytais 2007 m. lapkričio 13 d. Tarybos reglamentu (EB) Nr. 1343/2007 (OL 2007 L 300, p. 24). ^s-affd66649dc167d098042901
+4. 2000 m. birželio 29 d. Tarybos [reglamentas (EB) Nr. 1543/2000](https://eur-lex.europa.eu/eli/reg/1543/2000/oj), nustatantis duomenų, būtinų Bendrijos bendrosios žuvininkystės politikos vykdymui, rinkimo ir tvarkymo sistemą (OL 2004 m. specialusis leidimas, 4 skyrius, 4 tomas, p. 288), su paskutiniais pakeitimais, padarytais 2007 m. lapkričio 13 d. Tarybos [reglamentu (EB) Nr. 1343/2007](https://eur-lex.europa.eu/eli/reg/1343/2007/oj) (OL 2007 L 300, p. 24). ^s-affd66649dc167d098042901
 
 
-5. 2002 m. gruodžio 20 d. Tarybos reglamentas (EB) Nr. 2371/2002 dėl žuvų išteklių apsaugos ir tausojančio naudojimo pagal Bendrąją žuvininkystės politiką (OL 2004 m. specialusis leidimas, 4 skyrius, 5 tomas, p. 460) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 20 d. Tarybos reglamentu (EB) Nr. 1224/2009 (OL 2009 L 343, p. 1). ^s-4c65185b14ecbad038a296c4
+5. 2002 m. gruodžio 20 d. Tarybos [reglamentas (EB) Nr. 2371/2002](https://eur-lex.europa.eu/eli/reg/2371/2002/oj) dėl žuvų išteklių apsaugos ir tausojančio naudojimo pagal Bendrąją žuvininkystės politiką (OL 2004 m. specialusis leidimas, 4 skyrius, 5 tomas, p. 460) su paskutiniais pakeitimais, padarytais 2009 m. lapkričio 20 d. Tarybos [reglamentu (EB) Nr. 1224/2009](https://eur-lex.europa.eu/eli/reg/1224/2009/oj) (OL 2009 L 343, p. 1). ^s-4c65185b14ecbad038a296c4
 
 
-6. 2003 m. gruodžio 30 d. Komisijos reglamentas (EB) Nr. 26/2004 dėl Bendrijos žvejybos laivyno registro (OL 2004 m. specialusis leidimas, 4 skyrius, 7 tomas, p. 3) su paskutiniais pakeitimais, padarytais 2006 m. gruodžio 6 d. Komisijos reglamentu (EB) Nr. 1799/2006 (OL 2006 L 341, p. 26). ^s-0bc1e7ef5a7efc278862eefe
+6. 2003 m. gruodžio 30 d. Komisijos reglamentas (EB) Nr. 26/2004 dėl Bendrijos žvejybos laivyno registro (OL 2004 m. specialusis leidimas, 4 skyrius, 7 tomas, p. 3) su paskutiniais pakeitimais, padarytais 2006 m. gruodžio 6 d. Komisijos [reglamentu (EB) Nr. 1799/2006](https://eur-lex.europa.eu/eli/reg/1799/2006/oj) (OL 2006 L 341, p. 26). ^s-0bc1e7ef5a7efc278862eefe
 
 
 7. 2008 m. vasario 25 d. Tarybos reglamentas (EB) Nr. 199/2008 dėl Bendrijos sistemos, skirtos duomenų rinkimui, tvarkymui ir naudojimui žuvininkystės sektoriuje bei paramai mokslinėms rekomendacijoms dėl bendros žuvininkystės politikos, sukūrimo (OL 2008 L 60, p. 1). ^s-c34d0085496cfdfb0118d02c
 
 
-8. 2008 m. rugsėjo 29 d. Tarybos reglamentas (EB) Nr. 1005/2008, nustatantis Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, iš dalies keičiantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1936/2001 ir (EB) Nr. 601/2004 bei panaikinantis reglamentus (EB) Nr. 1093/94 ir (EB) Nr. 1447/1999 (OL 2008 L 286, p. 1), su paskutiniais pakeitimais, padarytais 2010 m. sausio 29 d. Komisijos reglamentu (ES) Nr. 86/2010 (OL 2010 L 26, p. 1). ^s-eea57b8230e8d2583c9c695d
+8. 2008 m. rugsėjo 29 d. Tarybos [reglamentas (EB) Nr. 1005/2008](https://eur-lex.europa.eu/eli/reg/1005/2008/oj), nustatantis Bendrijos sistemą, kuria siekiama užkirsti kelią neteisėtai, nedeklaruojamai ir nereglamentuojamai žvejybai, atgrasyti nuo jos ir ją panaikinti, iš dalies keičiantis [reglamentus (EEB) Nr. 2847/93](https://eur-lex.europa.eu/eli/reg/2847/93/oj), (EB) Nr. 1936/2001 ir (EB) Nr. 601/2004 bei panaikinantis [reglamentus (EB) Nr. 1093/94](https://eur-lex.europa.eu/eli/reg/1093/94/oj) ir (EB) Nr. 1447/1999 (OL 2008 L 286, p. 1), su paskutiniais pakeitimais, padarytais 2010 m. sausio 29 d. Komisijos reglamentu (ES) Nr. 86/2010 (OL 2010 L 26, p. 1). ^s-eea57b8230e8d2583c9c695d
 
 
-9. 2009 m. lapkričio 20 d. Tarybos reglamentas (EB) Nr. 1224/2009, nustatantis Bendrijos kontrolės sistemą, kuriai užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, iš dalies keičiantis reglamentus (EB) Nr. 847/96, (EB) Nr. 2371/2002, (EB) Nr. 811/2004, (EB) Nr. 768/2005, (EB) Nr. 2115/2005, (EB) Nr. 2166/2005, (EB) Nr. 388/2006, (EB) Nr. 509/2007, (EB) Nr. 676/2007, (EB) Nr. 1098/2007, (EB) Nr. 1300/2008, (EB) Nr. 1342/2008 ir panaikinantis reglamentus (EEB) Nr. 2847/93, (EB) Nr. 1627/94 ir (EB) Nr. 1966/2006 (OL 2009 L 343, p. 1).“ ^s-d3dfbbc1082cee136192fcba
+9. 2009 m. lapkričio 20 d. Tarybos [reglamentas (EB) Nr. 1224/2009](https://eur-lex.europa.eu/eli/reg/1224/2009/oj), nustatantis Bendrijos kontrolės sistemą, kuriai užtikrinamas bendrosios žuvininkystės politikos taisyklių laikymasis, iš dalies keičiantis reglamentus (EB) Nr. 847/96, (EB) Nr. 2371/2002, (EB) Nr. 811/2004, (EB) Nr. 768/2005, (EB) Nr. 2115/2005, (EB) Nr. 2166/2005, (EB) Nr. 388/2006, (EB) Nr. 509/2007, (EB) Nr. 676/2007, (EB) Nr. 1098/2007, (EB) Nr. 1300/2008, (EB) Nr. 1342/2008 ir panaikinantis [reglamentus (EEB) Nr. 2847/93](https://eur-lex.europa.eu/eli/reg/2847/93/oj), (EB) Nr. 1627/94 ir (EB) Nr. 1966/2006 (OL 2009 L 343, p. 1).“ ^s-d3dfbbc1082cee136192fcba
 
 
 

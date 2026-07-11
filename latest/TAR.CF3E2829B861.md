@@ -357,7 +357,7 @@ Narkotinių ir psichotropinių medžiagų apyvartos apskaitą tvarko ir kontrol�
 1. Narkotinių ir psichotropinių medžiagų apyvartos apskaitos tvarką, remdamasi Lietuvos Respublikos tarptautinėmis sutartimis, nustato Sveikatos apsaugos ministerija. ^s-a86480675e6a2a176f55e356
 
 
-2. Narkotinių ir psichotropinių medžiagų inventorizacijos ir materialinių vertybių apskaitos bei balanso sudarymo tvarką vaistų mažmeninės ir didmeninės prekybos įmonėse bei gamybos įmonėse nustato Sveikatos apsaugos ministerija, vadovaudamasi Buhalterinės apskaitos pagrindų įstatymo nuostatomis. ^s-5d66a57dffa8bde02f96b33d
+2. Narkotinių ir psichotropinių medžiagų inventorizacijos ir materialinių vertybių apskaitos bei balanso sudarymo tvarką vaistų mažmeninės ir didmeninės prekybos įmonėse bei gamybos įmonėse nustato Sveikatos apsaugos ministerija, vadovaudamasi [Buhalterinės apskaitos pagrindų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.F15B67B048EB) nuostatomis. ^s-5d66a57dffa8bde02f96b33d
 
 
 

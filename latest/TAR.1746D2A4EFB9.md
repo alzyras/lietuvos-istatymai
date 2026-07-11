@@ -78,7 +78,7 @@ BENDROSIOS NUOSTATOS
 4) yra endeminės ir joms reikalingas išskirtinis dėmesys dėl specifinio jų buveinės pobūdžio ir (arba) dėl jų naudojimo galimo poveikio jų buveinei ir (arba) jų apsaugos būklei; ^s-32e50f065cf09b5aa7a2f94a
 
 
-5) yra išvardytos šios dalies 1–[[#^s-32e50f065cf09b5aa7a2f94a|4 punktuose]] ir yra arba gali būti įtrauktos į šio įstatymo 2 priedo [[#^s-5a67ae86edf30da1b0c3f684|2 punkte]] nurodyto Europos Sąjungos teisės akto II ir (arba) IV ar V priedus. ^s-a046b11db2acab0e3c2194c4
+5) yra išvardytos šios dalies [[#^s-106b7fe5b49f139fbbbb1afe|1]]–[[#^s-32e50f065cf09b5aa7a2f94a|4]] punktuose ir yra arba gali būti įtrauktos į šio įstatymo 2 priedo [[#^s-5a67ae86edf30da1b0c3f684|2 punkte]] nurodyto Europos Sąjungos teisės akto II ir (arba) IV ar V priedus. ^s-a046b11db2acab0e3c2194c4
 
 
 Straipsnio dalies pakeitimai:
@@ -158,7 +158,7 @@ Nr. XII-2684, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25851
 20. Saugomų rūšių naudojimas – saugomų rūšių individų paėmimas iš gamtos, prekyba saugomomis rūšimis ir gaminiais iš jų, paimtų iš gamtos saugomos rūšies individų laikymas nelaisvėje, saugomų rūšių naudojimas mokslo tiriamiesiems darbams, negyvų saugomų gyvūnų ir jų dalių perdirbimas ar viešas eksponavimas, taip pat saugomos rūšies individų stebėjimas, žymėjimas, veisimas, filmavimas, fotografavimas. ^s-0e204162f740f4b46b624eb8
 
 
-21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatyme]], [[latest/TAR.08F2F39FF20B|Lietuvos Respublikos laukinės gyvūnijos įstatyme]], [[latest/TAR.B810DCE56C74|Lietuvos Respublikos laukinių augalų ir grybų įstatyme]], [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatyme]], 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1143/2014 dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo, 1996 m. gruodžio 9 d. Tarybos reglamente (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 29 d. Komisijos reglamentu (ES) Nr. 2019/2117 (toliau – Reglamentas (EB) Nr. 338/97), ir 2005 m. spalio 21 d. Komisijos reglamente (EB) Nr. 1739/2005, nustatančiame gyvūnų sveikatos reikalavimus cirko gyvūnų judėjimui tarp šalių narių. ^s-cd891aa546f208290961a442
+21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatyme]], [[latest/TAR.08F2F39FF20B|Lietuvos Respublikos laukinės gyvūnijos įstatyme]], [[latest/TAR.B810DCE56C74|Lietuvos Respublikos laukinių augalų ir grybų įstatyme]], [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatyme]], 2014 m. spalio 22 d. Europos Parlamento ir Tarybos [reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo, 1996 m. gruodžio 9 d. Tarybos reglamente (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 29 d. Komisijos [reglamentu (ES) Nr. 2019/2117](https://eur-lex.europa.eu/eli/reg/2019/2117/oj) (toliau – Reglamentas (EB) Nr. 338/97), ir 2005 m. spalio 21 d. Komisijos [reglamente (EB) Nr. 1739/2005](https://eur-lex.europa.eu/eli/reg/1739/2005/oj), nustatančiame gyvūnų sveikatos reikalavimus cirko gyvūnų judėjimui tarp šalių narių. ^s-cd891aa546f208290961a442
 Papildyta straipsnio dalimi:
 Nr. XIII-3298, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21147
 
@@ -433,10 +433,10 @@ Nr. XIII-3298, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21147
 4. Prekiauti saugomų rūšių (išskyrus saugomų rūšių įvežimą į Lietuvos Respubliką ir išvežimą iš jos), nurodytų Prekybos laukiniais gyvūnais, augalais ir grybais taisyklėse, egzemplioriais leidžiama asmenims, teisėtai įgijusiems ir (ar) padauginusiems augalus ar grybus dirbtiniu būdu ar teisėtai įgijusiems ir (ar) išveisusiems nelaisvėje saugomų rūšių gyvūnus ir turintiems teisėtą jų įsigijimą patvirtinančius dokumentus, jeigu tam neprieštarauja Europos Sąjungos teisės aktai, tarptautinės sutartys ar konvencijos. ^s-a194d465835699a3302707b3
 
 
-5. Leidimo įvežti į Lietuvos Respubliką ar iš jos išvežti saugomas rūšis, kurioms taikoma Nykstančių laukinės faunos ir floros rūšių tarptautinės prekybos konvencija ir Reglamentas (EB) Nr. 338/97, išdavimo, keitimo, galiojimo sąlygos ir terminai nustatomi vadovaujantis Reglamentu (EB) Nr. 338/97, 2006 m. gegužės 4 d. Komisijos reglamentu (EB) Nr. 865/2006, nustatančiu išsamias Tarybos reglamento (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą įgyvendinimo taisykles, taip pat kitais išsamias Reglamento (EB) Nr. 338/97 įgyvendinimo taisykles nustatančiais reglamentais, šiuo įstatymu ir [[latest/TAR.08F2F39FF20B|Laukinės gyvūnijos įstatymu]]. ^s-2ab5aa16fd210c67e34b8316
+5. Leidimo įvežti į Lietuvos Respubliką ar iš jos išvežti saugomas rūšis, kurioms taikoma [Nykstančių laukinės faunos ir floros rūšių tarptautinės prekybos konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.DE968E395995) ir Reglamentas (EB) Nr. 338/97, išdavimo, keitimo, galiojimo sąlygos ir terminai nustatomi vadovaujantis Reglamentu (EB) Nr. 338/97, 2006 m. gegužės 4 d. Komisijos reglamentu (EB) Nr. 865/2006, nustatančiu išsamias Tarybos reglamento (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą įgyvendinimo taisykles, taip pat kitais išsamias Reglamento (EB) Nr. 338/97 įgyvendinimo taisykles nustatančiais reglamentais, šiuo įstatymu ir [[latest/TAR.08F2F39FF20B|Laukinės gyvūnijos įstatymu]]. ^s-2ab5aa16fd210c67e34b8316
 
 
-6. Įvežti į Lietuvos Respubliką ar iš jos išvežti į Europos Sąjungai nepriklausančias šalis saugomų rūšių, kurios nurodytos Prekybos laukiniais gyvūnais, augalais ir grybais taisyklėse ir kurioms netaikomi Nykstančių laukinės faunos ir floros rūšių tarptautinės prekybos konvencija ir Reglamentas (EB) Nr. 338/97, laukinius gyvūnus leidžiama turint [[latest/TAR.08F2F39FF20B|Laukinės gyvūnijos įstatyme]] nurodytą leidimą. ^s-68befb6b987acb69654b0799
+6. Įvežti į Lietuvos Respubliką ar iš jos išvežti į Europos Sąjungai nepriklausančias šalis saugomų rūšių, kurios nurodytos Prekybos laukiniais gyvūnais, augalais ir grybais taisyklėse ir kurioms netaikomi [Nykstančių laukinės faunos ir floros rūšių tarptautinės prekybos konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.DE968E395995) ir Reglamentas (EB) Nr. 338/97, laukinius gyvūnus leidžiama turint [[latest/TAR.08F2F39FF20B|Laukinės gyvūnijos įstatyme]] nurodytą leidimą. ^s-68befb6b987acb69654b0799
 
 
 Papildyta straipsniu:
@@ -545,7 +545,7 @@ Nr. XIII-3298, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21147
 ### 103 straipsnis. Leidimų įvežti į Lietuvos Respubliką iš Europos Sąjungai nepriklausančių šalių ar išvežti iš Lietuvos Respublikos į Europos Sąjungai nepriklausančias šalis saugomų rūšių laukinius augalus ir (ar) grybus išdavimas ir galiojimo panaikinimas ^s-92f33fbcddfbed50c5e4be50
 
 
-1. Leidimas įvežti į Lietuvos Respubliką iš Europos Sąjungai nepriklausančių šalių ar išvežti iš Lietuvos Respublikos į Europos Sąjungai nepriklausančias šalis saugomų rūšių laukinius augalus ir grybus, kurioms netaikoma Nykstančių laukinės faunos ir floros rūšių tarptautinės prekybos konvencija ir Reglamentas (EB) Nr. 338/97, reikalingas ketinant įvežti (išvežti) saugomų rūšių laukinius augalus ir grybus, nurodytus Prekybos laukiniais gyvūnais, augalais ir grybais taisyklėse (toliau – leidimas įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus). Kartu su prašymu gauti leidimą įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus pateikiama informacija apie leidimo įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus prašytoją ir teisėtą saugomų rūšių laukinių augalų ir grybų įsigijimą patvirtinantys dokumentai ar jų kopijos. Aplinkos ministerijos įgaliota institucija leidimą įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus išduoda arba rašytinį atsisakymą išduoti leidimą įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus pateikia leidimo įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus prašytojui ne vėliau kaip per 30 kalendorinių dienų nuo prašymo, visų tinkamai įformintų dokumentų ir informacijos, reikalingų išduoti leidimą įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus, gavimo dienos. ^s-1aff15c84ed20a31a4da7341
+1. Leidimas įvežti į Lietuvos Respubliką iš Europos Sąjungai nepriklausančių šalių ar išvežti iš Lietuvos Respublikos į Europos Sąjungai nepriklausančias šalis saugomų rūšių laukinius augalus ir grybus, kurioms netaikoma [Nykstančių laukinės faunos ir floros rūšių tarptautinės prekybos konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.DE968E395995) ir Reglamentas (EB) Nr. 338/97, reikalingas ketinant įvežti (išvežti) saugomų rūšių laukinius augalus ir grybus, nurodytus Prekybos laukiniais gyvūnais, augalais ir grybais taisyklėse (toliau – leidimas įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus). Kartu su prašymu gauti leidimą įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus pateikiama informacija apie leidimo įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus prašytoją ir teisėtą saugomų rūšių laukinių augalų ir grybų įsigijimą patvirtinantys dokumentai ar jų kopijos. Aplinkos ministerijos įgaliota institucija leidimą įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus išduoda arba rašytinį atsisakymą išduoti leidimą įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus pateikia leidimo įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus prašytojui ne vėliau kaip per 30 kalendorinių dienų nuo prašymo, visų tinkamai įformintų dokumentų ir informacijos, reikalingų išduoti leidimą įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus, gavimo dienos. ^s-1aff15c84ed20a31a4da7341
 
 
 2. Leidimo įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus galiojimo terminas nustatomas atsižvelgiant į numatomą įvežimo (išvežimo) datą, bet ne ilgesnis kaip 6 mėnesiai nuo leidimo įvežti į Lietuvos Respubliką ar iš jos išvežti saugomų rūšių laukinius augalus ir (ar) grybus išdavimo datos. ^s-8e14a201cd897162c9047e20
@@ -624,7 +624,7 @@ Nr. XIII-3298, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21147
 2. Draudžiama laikyti, transportuoti, parduoti ar mainyti, siūlyti parduoti ar mainyti gamtoje sugautus šių rūšių egzempliorius, išskyrus tuos, kurie buvo teisėtai pagauti iki 2004 m. gegužės 1 d. ^s-6280875658f0443d9855b5a0
 
 
-3. Šio straipsnio 1 ir [[#^s-6280875658f0443d9855b5a0|2 dalyse]] nurodyti draudimai galioja visais Europos bendrijos svarbos gyvūnų rūšių, kurioms reikalinga griežta apsauga, gyvenimo etapais. ^s-7134621d85939eae82c2838b
+3. Šio straipsnio [[#^s-a1da157d70fe91cde3915cf3|1]] ir [[#^s-6280875658f0443d9855b5a0|2]] dalyse nurodyti draudimai galioja visais Europos bendrijos svarbos gyvūnų rūšių, kurioms reikalinga griežta apsauga, gyvenimo etapais. ^s-7134621d85939eae82c2838b
 
 
 4. Draudžiama su Europos bendrijos svarbos augalų rūšimis, kurioms reikalinga griežta apsauga, susijusi ši veikla: ^s-9468a741bf18d603ce359a23
@@ -668,7 +668,7 @@ Nr. XIII-3298, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21147
 ### 14 straipsnis. Išimčių, susijusių su šio įstatymo 12 ir 13 straipsniuose nustatytų reikalavimų nesilaikymu, taikymas ^s-188e0d3d754a4b79d7236105
 
 
-1. Jeigu nėra galimybės priimti jokio kito priimtino alternatyvaus sprendimo ir išimties taikymas nesutrukdys palaikyti atitinkamos Europos bendrijos svarbos rūšies populiacijos palankią apsaugos būklę jos natūraliame areale, Aplinkos ministerija arba jos įgaliota institucija, išduodamos atitinkamus leidimus, gali taikyti išimtis, pagal kurias būtų leidžiama netaikyti šio įstatymo 12 ir [[#^s-4b7d0775f30615441cfda93a|13 straipsniuose]] nustatytų draudimų. Tokios išimtys gali būti taikomos ir leidimas išduodamas tik siekiant vieno iš šių tikslų: ^s-f6cc2895319715debe2ba3c8
+1. Jeigu nėra galimybės priimti jokio kito priimtino alternatyvaus sprendimo ir išimties taikymas nesutrukdys palaikyti atitinkamos Europos bendrijos svarbos rūšies populiacijos palankią apsaugos būklę jos natūraliame areale, Aplinkos ministerija arba jos įgaliota institucija, išduodamos atitinkamus leidimus, gali taikyti išimtis, pagal kurias būtų leidžiama netaikyti šio įstatymo [[#^s-0c369d1892c84a0e0bf1ddf0|12]] ir [[#^s-4b7d0775f30615441cfda93a|13]] straipsniuose nustatytų draudimų. Tokios išimtys gali būti taikomos ir leidimas išduodamas tik siekiant vieno iš šių tikslų: ^s-f6cc2895319715debe2ba3c8
 
 
 1) siekiama apsaugoti laukinę fauną ir florą ir išsaugoti natūralias jų buveines; ^s-834f7b0912d0cf3ef8dd29a8
@@ -800,7 +800,7 @@ Nr. XIII-3298, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21147
 ### 17 straipsnis. Negalimas poveikis Lietuvos Respublikos saugomoms rūšims ^s-966fe36dd272c191215fde3a
 
 
-1. Draudžiama Lietuvos Respublikos teritorijoje laisvėje gyvenančius, augančius arba migracijos metu aptinkamus saugomų rūšių, kurių apsauga nereglamentuojama pagal šio įstatymo 12–[[#^s-a6b801c2dfb53dc9b98343a1|16 straipsnius]], individus bet kuriuo jų biologinio ciklo etapu tyčia, neturint Aplinkos ministerijos arba jos įgaliotos institucijos teisės aktų nustatyta tvarka išduoto leidimo: ^s-63fd8d3a6b6d7b82208a908c
+1. Draudžiama Lietuvos Respublikos teritorijoje laisvėje gyvenančius, augančius arba migracijos metu aptinkamus saugomų rūšių, kurių apsauga nereglamentuojama pagal šio įstatymo [[#^s-0c369d1892c84a0e0bf1ddf0|12]]–[[#^s-a6b801c2dfb53dc9b98343a1|16]] straipsnius, individus bet kuriuo jų biologinio ciklo etapu tyčia, neturint Aplinkos ministerijos arba jos įgaliotos institucijos teisės aktų nustatyta tvarka išduoto leidimo: ^s-63fd8d3a6b6d7b82208a908c
 
 
 1) bet kokiais būdais gaudyti, persekioti, baidyti, skinti, rauti, imti iš gamtinės aplinkos, varžyti jų judėjimą, juos sužeisti ar naikinti; ^s-9ec8368f3ef9a83261f4bf10
@@ -952,7 +952,7 @@ Nr. XIV-2354, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25325
 1) planuodami veiklą tam tikroje teritorijoje, kreiptis į saugomų rūšių informacinės sistemos tvarkytoją, kad jam būtų suteikta informacija apie toje teritorijoje registruotas saugomų rūšių radavietes ir augavietes; ^s-69d82962131662084c09d50d
 
 
-2) vykdyti saugomų rūšių informacinės sistemos tvarkytojo nurodymus dėl duomenų riboto naudojimo; ^s-0a991ce21330ccfe21883e08
+2) vykdyti saugomų rūšių informacinės sistemos tvarkytojo nurodymus dėl duomenų [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7); ^s-0a991ce21330ccfe21883e08
 
 
 3) užtikrinti, kad gauti duomenys apie saugomų rūšių radavietes ir augavietes bus geriausiu būdu panaudoti planuojant ūkinę veiklą tam tikroje teritorijoje, kad būtų išvengta neigiamo poveikio saugomoms rūšims arba toks poveikis būtų sumažintas iki mažiausio; ^s-3fdf8ada78cd2b1b61c3796b
@@ -1199,7 +1199,7 @@ Lietuvos Respublikos saugomų gyvūnų, augalų, grybų rūšių ir bendrijų į
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2684, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25851
-Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2 ir [[#^s-075c6a0df212e54cf1931d13|15 straipsnių]] ir 2 priedo pakeitimo įstatymas
+Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 [[#^s-eea3896ad0d13bb2384b5a87|2]] ir [[#^s-075c6a0df212e54cf1931d13|15]] straipsnių ir 2 priedo pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1209,7 +1209,7 @@ Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr.
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3298, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21147
-Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 2, 3, 10, 11, 14, 15 ir [[#^s-a6b801c2dfb53dc9b98343a1|16 straipsnių]] pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas
+Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 [[#^s-eea3896ad0d13bb2384b5a87|2]], [[#^s-57682d046a1cfe421eaa39d4|3]], [[#^s-99cf3d2606a7e266e2bacca4|10]], [[#^s-f3db326a8a9859c00b7eba64|11]], [[#^s-188e0d3d754a4b79d7236105|14]], [[#^s-075c6a0df212e54cf1931d13|15]] ir [[#^s-a6b801c2dfb53dc9b98343a1|16]] straipsnių pakeitimo ir Įstatymo papildymo 10-1,10-2 ir 10-3 straipsniais įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1219,7 +1219,7 @@ Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr.
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2354, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25325
-Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 3, 5, 6, 9, 21 ir [[#^s-841354906f22a5a9aae0f5d0|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 [[#^s-57682d046a1cfe421eaa39d4|3]], [[#^s-be4829bed59d600903a05f29|5]], [[#^s-0abe8ad427d0ecc304cd41e2|6]], [[#^s-f4c2ec48fe27226ffad59659|9]], [[#^s-d1f4fbdd3e052df3281e927e|21]] ir [[#^s-841354906f22a5a9aae0f5d0|22]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas

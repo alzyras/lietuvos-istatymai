@@ -134,7 +134,7 @@ Pakeisti 11 straipsnį jį išdėstyti taip:
 4) neįgaliųjų asmenų ir šeimų, kuriose yra neįgalūs asmenys. Į šį sąrašą įrašomi asmenys, kuriems Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka yra nustatytas sunkus ar vidutinis neįgalumo lygis arba kurie yra pripažinti nedarbingais (netekusiais 75–100 procentų darbingumo) ar iš dalies darbingais (netekusiais 60–70 procentų darbingumo), arba kurie yra sukakę senatvės pensijos amžių ir jiems nustatyta specialiųjų poreikių tenkinimo reikmė, taip pat šeimos, kuriose yra asmuo, kuriam Neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka yra nustatytas sunkus ar vidutinis neįgalumo lygis arba kuris yra pripažintas nedarbingu (netekusiu 75–100 procentų darbingumo) ar iš dalies darbingu (netekusiu 60–70 procentų darbingumo), arba kuris yra sukakęs senatvės pensijos amžių ir jam nustatyta specialiųjų poreikių tenkinimo reikmė, asmenys, sergantys lėtinių ligų, įrašytų į Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą, sunkiomis formomis, ir šeimos, kuriose yra tomis ligomis sergančių asmenų; ^s-e25bd8ee4a36ab761662cb18
 
 
-5) bendrasis. Į šį sąrašą įrašomos visos šeimos ir asmenys, nepatenkantys į 1, 2, 3 ir [[#^s-e25bd8ee4a36ab761662cb18|4 punktuose]] nurodytus sąrašus; ^s-f7cc6392c5d02bbdc2058741
+5) bendrasis. Į šį sąrašą įrašomos visos šeimos ir asmenys, nepatenkantys į [[#^s-36d2a7ababe28681e1d98862|1]], [[#^s-a67cb882e6e108f849b3b1c4|2]], [[#^s-4deced3a82f03d51f5e22115|3]] ir [[#^s-e25bd8ee4a36ab761662cb18|4]] punktuose nurodytus sąrašus; ^s-f7cc6392c5d02bbdc2058741
 
 
 6) socialinio būsto nuomininkų, turinčių teisę į būsto sąlygų pagerinimą. ^s-ef9f00b09531d2887ddf79f1

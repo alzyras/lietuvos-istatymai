@@ -276,7 +276,7 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. [[latest/T
 1. Dizaino registracija pripažįstama negaliojančia, kai: ^s-48c6b60f0bd8f42b6f022b8b
 
 
-1) gaminio vaizdas neatitinka šio Įstatymo 4–[[#^s-feb7760d2f42da140ff48622|8 straipsnio]] reikalavimų; ^s-18357128e7fb7a79278853f9
+1) gaminio vaizdas neatitinka šio Įstatymo [[#^s-de886101b0cb2e6fc9be6bd6|4]]–[[#^s-feb7760d2f42da140ff48622|8]] straipsnio reikalavimų; ^s-18357128e7fb7a79278853f9
 
 
 2) dizainas registruotas asmens, neturinčio teisių į šį dizainą, vardu; ^s-2ce5a834af4c8a71805fa598
@@ -306,7 +306,7 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. [[latest/T
 
 
 
-2. [[#^s-48c6b60f0bd8f42b6f022b8b|Šio straipsnio 1 dalies]] 3 ir 4 punktuose nurodytas ankstesnis dizainas yra: ^s-5a4af2684a21af2c4f6954ca
+2. [[#^s-48c6b60f0bd8f42b6f022b8b|Šio straipsnio 1 dalies]] [[#^s-6b34ade94a5af52ad693437e|3]] ir 4 punktuose nurodytas ankstesnis dizainas yra: ^s-5a4af2684a21af2c4f6954ca
 
 
 1) dizainas, kurio paraiškos padavimo Lietuvos Respublikoje data yra ankstesnė už [[#^s-48c6b60f0bd8f42b6f022b8b|šio straipsnio 1 dalyje]] nurodyto dizaino paraiškos padavimo datą; prireikus atsižvelgiama į prašomą suteikti ar suteiktą prioritetą; ^s-a3f32e936303c10a13ec728b
@@ -339,10 +339,10 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. [[latest/T
 2. Paraiškoje gali būti prašymas suteikti prioriteto datą, kada dizainas buvo eksponuojamas tarptautinėje parodoje, jeigu paraiška Valstybiniam patentų biurui paduodama per 6 mėnesius nuo pirmojo dizaino eksponavimo parodoje dienos. ^s-c5e6b69d876a9e79778ee30b
 
 
-3. Pareiškėjas, norintis pasinaudoti šio straipsnio 1 ir [[#^s-c5e6b69d876a9e79778ee30b|2 dalių]] nuostatomis, privalo Valstybiniam patentų biurui pateikti patvirtintą pirmosios paraiškos (paraiškų) kopiją arba tarptautinės parodos, kurioje pirmą kartą buvo eksponuojamas dizainas, administracijos pažymą. Šie dokumentai gali būti pateikti kartu su kitais paraiškos dokumentais arba per 3 mėnesius po paraiškos padavimo datos. ^s-94d1b79c48fdc6eb778e8ee8
+3. Pareiškėjas, norintis pasinaudoti šio straipsnio [[#^s-85334ba797304de96d9a9cd3|1]] ir [[#^s-c5e6b69d876a9e79778ee30b|2]] dalių nuostatomis, privalo Valstybiniam patentų biurui pateikti patvirtintą pirmosios paraiškos (paraiškų) kopiją arba tarptautinės parodos, kurioje pirmą kartą buvo eksponuojamas dizainas, administracijos pažymą. Šie dokumentai gali būti pateikti kartu su kitais paraiškos dokumentais arba per 3 mėnesius po paraiškos padavimo datos. ^s-94d1b79c48fdc6eb778e8ee8
 
 
-4. Valstybinis patentų biuras, nustatęs, kad pareiškėjas neįvykdė [[#^s-94d1b79c48fdc6eb778e8ee8|šio straipsnio 3 dalies]] reikalavimų, pripažįsta, kad šio straipsnio 1 ar [[#^s-c5e6b69d876a9e79778ee30b|2 dalyje]] nurodyti prašymai nebuvo paduoti. ^s-d1cb70bd3b374617f76830b3
+4. Valstybinis patentų biuras, nustatęs, kad pareiškėjas neįvykdė [[#^s-94d1b79c48fdc6eb778e8ee8|šio straipsnio 3 dalies]] reikalavimų, pripažįsta, kad šio straipsnio [[#^s-85334ba797304de96d9a9cd3|1]] ar [[#^s-c5e6b69d876a9e79778ee30b|2]] dalyje nurodyti prašymai nebuvo paduoti. ^s-d1cb70bd3b374617f76830b3
 
 
 
@@ -478,10 +478,10 @@ Nr. XIII-547, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11944
 7) prioritetą patvirtinantis dokumentas pagal šio Įstatymo [[#^s-94d1b79c48fdc6eb778e8ee8|11 straipsnio 3 dalį]] (jeigu reikia); ^s-be7b93b97552fd9af34d6528
 
 
-8) kompetentingų institucijų išduotas leidimas arba sutikimas pagal šio Įstatymo [[#^s-ff5ea8b2adf9a27dd044e2a0|9 straipsnio]] 3 ar [[#^s-8dbd16b3b8758dcba4a8c8d2|4 punktą]] (jeigu reikia); ^s-d12d5219981b93acc45df1f0
+8) kompetentingų institucijų išduotas leidimas arba sutikimas pagal šio Įstatymo [[#^s-ff5ea8b2adf9a27dd044e2a0|9 straipsnio]] 3 ar 4 punktą (jeigu reikia); ^s-d12d5219981b93acc45df1f0
 
 
-9) teisių savininko išduotas sutikimas pagal šio Įstatymo [[#^s-48c6b60f0bd8f42b6f022b8b|10 straipsnio 1 dalies]] 5 ar [[#^s-fe0d22f3be2d6ea9fc6c19f6|6 punktą]] (jeigu reikia); ^s-d45575f92d94e16e67a56f0d
+9) teisių savininko išduotas sutikimas pagal šio Įstatymo [[#^s-48c6b60f0bd8f42b6f022b8b|10 straipsnio 1 dalies]] [[#^s-9a07b86e050efe4d46ab20dc|5]] ar [[#^s-ea04f120785fd027ce3c648e|6]] punktą (jeigu reikia); ^s-d45575f92d94e16e67a56f0d
 
 
 10) prašymas dėl dizaino ankstesnio paskelbimo (jeigu reikia); ^s-ccf2beb4e64567a4a88d699a
@@ -505,7 +505,7 @@ Nr. XIII-547, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11944
 4) dizainerio tapatybės nustatymo duomenys, nustatyti Taisyklėse; ^s-03864ddd3e76652052a857af
 
 
-5) pirmosios paraiškos padavimo valstybė, šios paraiškos numeris, data arba eksponavimo tarptautinėje parodoje data ir valstybė (jeigu reikia). Šių duomenų nurodymas laikomas prašymu suteikti prioritetą pagal šio Įstatymo [[#^s-4643c22086675d6c4faa3b9a|11 straipsnio]] 1, [[#^s-750ef6addb468f61bfd0e730|2 dalis]]; ^s-b9b33625533c82e6a8844526
+5) pirmosios paraiškos padavimo valstybė, šios paraiškos numeris, data arba eksponavimo tarptautinėje parodoje data ir valstybė (jeigu reikia). Šių duomenų nurodymas laikomas prašymu suteikti prioritetą pagal šio Įstatymo [[#^s-4643c22086675d6c4faa3b9a|11 straipsnio]] [[#^s-85334ba797304de96d9a9cd3|1]], [[#^s-c5e6b69d876a9e79778ee30b|2]] dalis; ^s-b9b33625533c82e6a8844526
 
 
 6) ankstesnio ar vėlesnio dizaino paskelbimo nuoroda; ^s-7db6bc4cbf096399649289af
@@ -529,7 +529,7 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. [[latest/
 ### 17 straipsnis. Paraiškos padavimo data ^s-d181c8c0ddceb547d1f3f912
 
 
-1. Paraiškos padavimo data laikoma ta diena, kurią Valstybinis patentų biuras gavo šio Įstatymo [[#^s-70c4b7af8a23eea31cb83d98|16 straipsnio 4 dalies 1 punkte]] nurodytą prašymą, kuriame yra pateikti bent šio Įstatymo [[#^s-c85d52d4a35134acc8d5c8b1|16 straipsnio 5 dalies]] 1, 2 ir 3 punktuose nurodyti duomenys, ir šio Įstatymo [[#^s-7a68c86cee9ab5b8af133752|16 straipsnio 4 dalies 2 punkte]] nurodytą dokumentą. ^s-1f5f0126e15f2d6bdabd1c98
+1. Paraiškos padavimo data laikoma ta diena, kurią Valstybinis patentų biuras gavo šio Įstatymo [[#^s-70c4b7af8a23eea31cb83d98|16 straipsnio 4 dalies 1 punkte]] nurodytą prašymą, kuriame yra pateikti bent šio Įstatymo [[#^s-c85d52d4a35134acc8d5c8b1|16 straipsnio 5 dalies]] [[#^s-ab44a0f72fae04eacce527e2|1]], [[#^s-9fd72f18874b7daac2afd229|2]] ir [[#^s-c4008f331d50a524efea00bc|3]] punktuose nurodyti duomenys, ir šio Įstatymo [[#^s-7a68c86cee9ab5b8af133752|16 straipsnio 4 dalies 2 punkte]] nurodytą dokumentą. ^s-1f5f0126e15f2d6bdabd1c98
 Straipsnio dalies pakeitimai:
 Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. [[latest/TAR.2087C46BB049|1121010ISTA0XI-2397]]
 
@@ -565,13 +565,13 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. [[latest/T
 3. Atlikęs [[#^s-4f89c44b190a1adec1dbcf5d|šio straipsnio 2 dalyje]] numatytus veiksmus, Valstybinis patentų biuras išsiunčia pareiškėjui ar jo atstovui paraiškos priėmimo pažymą, kurioje nurodo suteiktą paraiškos padavimo datą ir paraiškai suteiktą numerį. ^s-e8391972d6b3e2c17775293c
 
 
-4. Nustatęs, kad nepateikti šio Įstatymo [[#^s-9fc347ad8bdfd8a40539ec36|16 straipsnio 4 dalies]] 1–8 punktuose nurodyti dokumentai arba kad jie neatitinka šio Įstatymo ar Taisyklėse nustatytų reikalavimų, Valstybinis patentų biuras apie tai raštu praneša pareiškėjui arba jo atstovui, nurodydamas trūkumus ir pasiūlymus, kaip juos ištaisyti. Jeigu per Taisyklėse nustatytą terminą trūkumai neištaisomi, Valstybinis patentų biuras dokumentą ar paraišką pripažįsta nepaduotais ir apie tai raštu praneša pareiškėjui ar jo atstovui. ^s-87f9602a08b59fd2e0a5fc29
+4. Nustatęs, kad nepateikti šio Įstatymo [[#^s-9fc347ad8bdfd8a40539ec36|16 straipsnio 4 dalies]] [[#^s-70c4b7af8a23eea31cb83d98|1]]–[[#^s-d12d5219981b93acc45df1f0|8]] punktuose nurodyti dokumentai arba kad jie neatitinka šio Įstatymo ar Taisyklėse nustatytų reikalavimų, Valstybinis patentų biuras apie tai raštu praneša pareiškėjui arba jo atstovui, nurodydamas trūkumus ir pasiūlymus, kaip juos ištaisyti. Jeigu per Taisyklėse nustatytą terminą trūkumai neištaisomi, Valstybinis patentų biuras dokumentą ar paraišką pripažįsta nepaduotais ir apie tai raštu praneša pareiškėjui ar jo atstovui. ^s-87f9602a08b59fd2e0a5fc29
 
 
 5. Paraiškai suteikus padavimo datą, gali būti išduodama patvirtinta paraiškos kopija, jeigu pareiškėjas pateikia prašymą ir sumoka nustatytą mokestį. ^s-d24a8db65a890bcec3835f70
 
 
-6. Šio Įstatymo [[#^s-9fc347ad8bdfd8a40539ec36|16 straipsnio 4 dalies]] 10 ir 11 punktuose nurodyti prašymai gali būti pateikiami paduodant paraišką kaip nuoroda prašyme įregistruoti dizainą ir išduoti dizaino registracijos liudijimą pagal šio Įstatymo [[#^s-7db6bc4cbf096399649289af|16 straipsnio 5 dalies 6 punktą]] arba per 5 mėnesius po paraiškos padavimo datos. ^s-e0ed06df5c9ee18f6e2cc864
+6. Šio Įstatymo [[#^s-9fc347ad8bdfd8a40539ec36|16 straipsnio 4 dalies]] [[#^s-ccf2beb4e64567a4a88d699a|10]] ir [[#^s-2082e1477db0ce1e6dff0330|11]] punktuose nurodyti prašymai gali būti pateikiami paduodant paraišką kaip nuoroda prašyme įregistruoti dizainą ir išduoti dizaino registracijos liudijimą pagal šio Įstatymo [[#^s-7db6bc4cbf096399649289af|16 straipsnio 5 dalies 6 punktą]] arba per 5 mėnesius po paraiškos padavimo datos. ^s-e0ed06df5c9ee18f6e2cc864
 
 
 Straipsnio pakeitimai:
@@ -696,7 +696,7 @@ Nr. IX-2205, 2004-04-29, Žin. 2004, Nr. 73-2538 (2004-04-30), i. k. [[latest/TA
 2. Už protesto padavimą turi būti sumokėtas nustatytas mokestis. ^s-46bd72e7c90405e733494dbf
 
 
-3. Apeliacinis skyrius per 14 dienų nuo protesto gavimo dienos patikrina, ar protestas atitinka šio straipsnio 1 ir [[#^s-46bd72e7c90405e733494dbf|2 dalių]] reikalavimus. Jeigu protestas pateiktas laikantis šiame Įstatyme ir Taisyklėse nustatytos tvarkos ir atitinka nustatytus reikalavimus, Apeliacinis skyrius jį priima ir užprotestuoto dizaino savininkui ar jo atstovui išsiunčia vieną protesto egzempliorių. ^s-6b003ac70a4935822cc4d6ab
+3. Apeliacinis skyrius per 14 dienų nuo protesto gavimo dienos patikrina, ar protestas atitinka šio straipsnio [[#^s-bd1a116c68affa8aa9bf68e9|1]] ir [[#^s-46bd72e7c90405e733494dbf|2]] dalių reikalavimus. Jeigu protestas pateiktas laikantis šiame Įstatyme ir Taisyklėse nustatytos tvarkos ir atitinka nustatytus reikalavimus, Apeliacinis skyrius jį priima ir užprotestuoto dizaino savininkui ar jo atstovui išsiunčia vieną protesto egzempliorių. ^s-6b003ac70a4935822cc4d6ab
 
 
 4. Užprotestuoto dizaino savininkas ar jo atstovas per 3 mėnesius nuo protesto išsiuntimo dienos privalo pateikti motyvuotą atsakymą į protestą. Jei motyvuotas atsakymas į protestą nepateikiamas, laikoma, kad užprotestuoto dizaino savininkas ar jo atstovas atsisako dalyvauti nagrinėjant protestą, ir tai neužkerta kelio Apeliaciniam skyriui nagrinėti protestą. ^s-04cc56b1af5553d8f41f2439
@@ -794,7 +794,7 @@ Nr. XIII-265, 2017-03-30, paskelbta TAR 2017-04-12, i. k. 2017-06265
 3) dizaino registracija užprotestuota remiantis ankstesne dizaino paraiška ir užprotestuoto dizaino savininkas yra pateikęs rašytinį prašymą atskleisti ankstesnės paraiškos dokumentus ir duomenis. ^s-32679e9a5447e6ad2eba5539
 
 
-3. Jeigu paraiška pagal šio Įstatymo [[#^s-df17cb83a54a582af305d9d5|18 straipsnį]] pripažinta nepaduota arba pagal [[#^s-3a483f40d2e44752f9831b2b|22 straipsnio]] 1–[[#^s-18f1180288a20db91311989c|3 dalis]] pripažinta atšaukta, susipažinti su ja galima tik gavus rašytinį ją padavusio asmens sutikimą. ^s-18f1180288a20db91311989c
+3. Jeigu paraiška pagal šio Įstatymo [[#^s-df17cb83a54a582af305d9d5|18 straipsnį]] pripažinta nepaduota arba pagal [[#^s-3a483f40d2e44752f9831b2b|22 straipsnio]] [[#^s-a29237ed41169030975b000b|1]]–[[#^s-5222e4bd6ff97d0c58132c79|3]] dalis pripažinta atšaukta, susipažinti su ja galima tik gavus rašytinį ją padavusio asmens sutikimą. ^s-18f1180288a20db91311989c
 
 
 
@@ -921,7 +921,7 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. [[latest/
 ### 32 straipsnis. Terminai ^s-71a5a3268b374d4fdb8ef933
 
 
-1. Jeigu pareiškėjas ar jo atstovas pateikia rašytinį prašymą ir sumoka už termino pratęsimą nustatytą mokestį, šio Įstatymo [[#^s-87f9602a08b59fd2e0a5fc29|18 straipsnio 4 dalyje]], [[#^s-0f0dc19fc8c962443bb7c2b6|19 straipsnio 3 dalyje]], [[#^s-ed2ba802bab5e023d586e286|20 straipsnio 1 dalyje]], [[#^s-a29237ed41169030975b000b|22 straipsnio 1 dalyje]], [[#^s-64c55b1d31a6bc863524162c|31 straipsnio 1 dalyje]], [[#^s-ad785f4a639af3c441c76e21|334 straipsnio]] 1 ir [[#^s-e27968fb125f2f4e509e192e|2 dalyse]] nustatyti terminai gali būti vieną kartą pratęsti, bet ne ilgiau kaip 2 mėnesiams nuo pirminio termino pabaigos dienos. ^s-adca250ca70ecf93a8a7ae26
+1. Jeigu pareiškėjas ar jo atstovas pateikia rašytinį prašymą ir sumoka už termino pratęsimą nustatytą mokestį, šio Įstatymo [[#^s-87f9602a08b59fd2e0a5fc29|18 straipsnio 4 dalyje]], [[#^s-0f0dc19fc8c962443bb7c2b6|19 straipsnio 3 dalyje]], [[#^s-ed2ba802bab5e023d586e286|20 straipsnio 1 dalyje]], [[#^s-a29237ed41169030975b000b|22 straipsnio 1 dalyje]], [[#^s-64c55b1d31a6bc863524162c|31 straipsnio 1 dalyje]], [[#^s-ad785f4a639af3c441c76e21|334 straipsnio]] [[#^s-02e856b35ad0397a1183eff4|1]] ir [[#^s-a15e87148e16161d4f78265b|2]] dalyse nustatyti terminai gali būti vieną kartą pratęsti, bet ne ilgiau kaip 2 mėnesiams nuo pirminio termino pabaigos dienos. ^s-adca250ca70ecf93a8a7ae26
 
 
 2. Sumokėjęs mokestį už termino pratęsimą, pareiškėjas, dizaino savininkas arba jo atstovas ne vėliau kaip per 2 mėnesius nuo pirminio termino pabaigos dienos gali pateikti prašymą pratęsti praleistą terminą. Terminas pratęsiamas Valstybinio patentų biuro sprendimu. ^s-e27968fb125f2f4e509e192e
@@ -943,7 +943,7 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. [[latest/
 
 
 6. Paskelbus nepaprastąją padėtį ar valstybės lygio ekstremaliąją situaciją, ar karantiną visoje Lietuvos Respublikos teritorijoje ir dėl to nustačius ribojimus, susijusius su asmenų laisvu judėjimu ar ūkinės veiklos laisve, šio įstatymo nustatytų veiksmų atlikimo terminų, išskyrus Valstybinio patentų biuro veiksmų atlikimo terminus, eiga sustabdoma. Kai ribojimai atšaukiami, šių terminų eiga atnaujinama. Informacija apie terminų sustabdymą ir atnaujinimą skelbiama Valstybinio patentų biuro interneto svetainėje. ^s-28d7594ba945028cee3d1d15
-TAR pastaba. [[#^s-28d7594ba945028cee3d1d15|6 dalyje]] nustatytas terminų eigos sustabdymas taikomas terminams, kurie nebuvo suėję iki Lietuvos Respublikos Vyriausybės 2020 m. kovo 14 d. nutarimo Nr. 207 „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo (2020-03-15), ir terminams, kurie prasidėjo įsigaliojus šiam nutarimui.
+TAR pastaba. 6 dalyje nustatytas terminų eigos sustabdymas taikomas terminams, kurie nebuvo suėję iki Lietuvos Respublikos Vyriausybės [2020 m. kovo 14 d. nutarimo Nr. 207](https://e-tar.lt/portal/lt/legalAct/73c0b060663111eabee4a336e7e6fdab) „Dėl karantino Lietuvos Respublikos teritorijoje paskelbimo“ įsigaliojimo (2020-03-15), ir terminams, kurie prasidėjo įsigaliojus šiam nutarimui.
 Papildyta straipsnio dalimi:
 Nr. XIII-2858, 2020-04-21, paskelbta TAR 2020-04-24, i. k. 2020-08722
 
@@ -1020,7 +1020,7 @@ TARPTAUTINĖ DIZAINO REGISTRACIJA
 2. Jeigu tarptautinės dizaino registracijos savininkas nesutinka su pakartotinės dizaino ekspertizės metu Valstybinio patentų biuro priimtu sprendimu, jis turi teisę per 3 mėnesius nuo šio sprendimo išsiuntimo dienos paduoti Apeliaciniam skyriui apeliaciją. Ši apeliacija priimama, nagrinėjama ir skundžiama šio Įstatymo [[#^s-c1202c94216dd0933c63af80|20 straipsnio]] nustatyta tvarka. ^s-a15e87148e16161d4f78265b
 
 
-3. Suinteresuotieji asmenys arba jų atstovai protestą dėl tarptautinės dizaino registracijos turi paduoti per 3 mėnesius nuo duomenų apie tarptautinę dizaino registraciją paskelbimo Tarptautinio biuro tarptautinių dizainų biuletenyje dienos. Protestas turi atitikti šio Įstatymo [[#^s-16c401aae478f15a0b982591|23 straipsnio]] 1 ir [[#^s-a15e87148e16161d4f78265b|2 dalių]] reikalavimus. ^s-64e5d711810b20de08868ef8
+3. Suinteresuotieji asmenys arba jų atstovai protestą dėl tarptautinės dizaino registracijos turi paduoti per 3 mėnesius nuo duomenų apie tarptautinę dizaino registraciją paskelbimo Tarptautinio biuro tarptautinių dizainų biuletenyje dienos. Protestas turi atitikti šio Įstatymo [[#^s-16c401aae478f15a0b982591|23 straipsnio]] [[#^s-bd1a116c68affa8aa9bf68e9|1]] ir [[#^s-46bd72e7c90405e733494dbf|2]] dalių reikalavimus. ^s-64e5d711810b20de08868ef8
 
 
 4. Užprotestuotos tarptautinės dizaino registracijos savininkas ar šio Įstatymo [[#^s-750ef6addb468f61bfd0e730|16 straipsnio 2 dalies]] nustatyta tvarka paskirtas jo atstovas per 5 mėnesius nuo pranešime Tarptautiniam biurui apie atsisakymą pripažinti tarptautinės dizaino registracijos galiojimą Lietuvos Respublikoje nurodytos datos pateikia motyvuotą atsakymą į protestą. Motyvuoto atsakymo į protestą nepateikimas laikomas atsisakymu dalyvauti protesto nagrinėjime ir neužkerta kelio Apeliaciniam skyriui nagrinėti protestą užprotestuotos tarptautinės dizaino registracijos savininkui ar jo atstovui nedalyvaujant. Jeigu užprotestuotos tarptautinės dizaino registracijos savininkas nepaskyrė atstovo, Apeliacinio skyriaus priimtas sprendimas tarptautinės dizaino registracijos savininkui nesiunčiamas. ^s-6a26c2973a83dc8ac740df36
@@ -1089,7 +1089,7 @@ Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. [[latest/TA
 
 
 
-6. Jeigu dizaino savininkas ar jo atstovas šio straipsnio 3 ir [[#^s-2aff77e792b12c6c63b89c1f|4 dalyse]] nustatytais terminais nepateikia prašymo pratęsti dizaino registracijos galiojimą, dizaino registracijos galiojimas nepratęsiamas ir šio Įstatymo [[#^s-ee1387af1e4a8de2da69b9c7|30 straipsnyje]] nustatyta tvarka dizainas išregistruojamas iš Lietuvos Respublikos dizaino registro. ^s-da7724ad7e3297ac66e2c730
+6. Jeigu dizaino savininkas ar jo atstovas šio straipsnio [[#^s-593b1bc0ea0a8cf06aba50c3|3]] ir [[#^s-2aff77e792b12c6c63b89c1f|4]] dalyse nustatytais terminais nepateikia prašymo pratęsti dizaino registracijos galiojimą, dizaino registracijos galiojimas nepratęsiamas ir šio Įstatymo [[#^s-ee1387af1e4a8de2da69b9c7|30 straipsnyje]] nustatyta tvarka dizainas išregistruojamas iš Lietuvos Respublikos dizaino registro. ^s-da7724ad7e3297ac66e2c730
 Straipsnio dalies pakeitimai:
 Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. [[latest/TAR.9D8E3F5DB369|1081010ISTA00X-1659]]
 Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. [[latest/TAR.2087C46BB049|1121010ISTA0XI-2397]]
@@ -1281,7 +1281,7 @@ Nr. XI-2397, 2012-11-08, Žin., 2012, Nr. 135-6871 (2012-11-22), i. k. [[latest/
 6. Dizaino savininkas gali panaudoti šio Įstatymo [[#^s-b41611a17af19a36fd2337f7|36 straipsnyje]] numatytas teises prieš licenciatą, jeigu šis nevykdo bet kurios licencinėje sutartyje numatytos sąlygos. ^s-a8768b60359046641bba22ea
 
 
-7. Šio straipsnio 1–[[#^s-a8768b60359046641bba22ea|6 dalies]] nuostatos mutatis mutandis taikomos ir sublicencinei sutarčiai. ^s-6fbe25268e723f21ff2847e5
+7. Šio straipsnio [[#^s-0360660c1a1fccfa3d34ef69|1]]–[[#^s-a8768b60359046641bba22ea|6]] dalies nuostatos mutatis mutandis taikomos ir sublicencinei sutarčiai. ^s-6fbe25268e723f21ff2847e5
 
 
 
@@ -1329,7 +1329,7 @@ DIZAINO REGISTRACIJOS PRIPAŽINIMAS NEGALIOJANČIA
 Teisę prašyti dizaino registraciją pripažinti negaliojančia turi šie asmenys:
 
 
-1) asmuo, kurio teisės tiesiogiai pažeidžiamos naudojant tokį dizainą, arba kompetentingų institucijų pareigūnai – šio Įstatymo [[#^s-ff5ea8b2adf9a27dd044e2a0|9 straipsnio]] 3 ir [[#^s-996389db58e6d6f7918d68b0|4 punktuose]] nurodytais pagrindais; ^s-4b3209f041230df5adb4cae8
+1) asmuo, kurio teisės tiesiogiai pažeidžiamos naudojant tokį dizainą, arba kompetentingų institucijų pareigūnai – šio Įstatymo [[#^s-ff5ea8b2adf9a27dd044e2a0|9 straipsnio]] [[#^s-ec808b84034be17498393494|3]] ir [[#^s-8baaceee027edbe383465a28|4]] punktuose nurodytais pagrindais; ^s-4b3209f041230df5adb4cae8
 Straipsnio punkto pakeitimai:
 Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. [[latest/TAR.9D8E3F5DB369|1081010ISTA00X-1659]]
 
@@ -1338,7 +1338,7 @@ Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. [[latest/TA
 2) asmuo, kuris turi teises į dizainą, – šio Įstatymo [[#^s-2ce5a834af4c8a71805fa598|10 straipsnio 1 dalies 2 punkte]] nurodytu pagrindu; ^s-e542097dcdfaecf21704ec0b
 
 
-3) asmuo, kuris yra ankstesnio registruoto ar pareikšto registruoti dizaino savininkas, – šio Įstatymo [[#^s-48c6b60f0bd8f42b6f022b8b|10 straipsnio 1 dalies]] 3 ar [[#^s-996389db58e6d6f7918d68b0|4 punkte]] nurodytu pagrindu; ^s-3d4952f75c494d1c583500f9
+3) asmuo, kuris yra ankstesnio registruoto ar pareikšto registruoti dizaino savininkas, – šio Įstatymo [[#^s-48c6b60f0bd8f42b6f022b8b|10 straipsnio 1 dalies]] [[#^s-bf631df841d3fb4d10b94260|3]] ar [[#^s-10dba7253b9282200a08560f|4]] punkte nurodytu pagrindu; ^s-3d4952f75c494d1c583500f9
 
 
 4) prekių ženklo, juridinio asmens pavadinimo ar kito juridinio asmens verslą skiriančio žymens savininkas – šio Įstatymo [[#^s-9a07b86e050efe4d46ab20dc|10 straipsnio 1 dalies 5 punkte]] nurodytu pagrindu; ^s-996389db58e6d6f7918d68b0
@@ -1347,7 +1347,7 @@ Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. [[latest/TA
 5) autorius ar jo teisių perėmėjas – šio Įstatymo [[#^s-ea04f120785fd027ce3c648e|10 straipsnio 1 dalies 6 punkte]] nurodytu pagrindu; ^s-790354fe6e55ffa24059f9c4
 
 
-6) kiekvienas suinteresuotas asmuo – šio Įstatymo [[#^s-ff5ea8b2adf9a27dd044e2a0|9 straipsnio]] 1 ir [[#^s-e542097dcdfaecf21704ec0b|2 punktuose]], [[#^s-18357128e7fb7a79278853f9|10 straipsnio 1 dalies 1 punkte]] nurodytais pagrindais. ^s-cf18f3bd5a49226594a18fd3
+6) kiekvienas suinteresuotas asmuo – šio Įstatymo [[#^s-ff5ea8b2adf9a27dd044e2a0|9 straipsnio]] [[#^s-cb73f78e7ea27422c7dae5c1|1]] ir [[#^s-30c46193908843359876a80b|2]] punktuose, [[#^s-18357128e7fb7a79278853f9|10 straipsnio 1 dalies 1 punkte]] nurodytais pagrindais. ^s-cf18f3bd5a49226594a18fd3
 Straipsnio punkto pakeitimai:
 Nr. X-1659, 2008-07-01, Žin., 2008, Nr. 81-3171 (2008-07-17), i. k. [[latest/TAR.9D8E3F5DB369|1081010ISTA00X-1659]]
 
@@ -1443,20 +1443,20 @@ GINČŲ NAGRINĖJIMAS. TEISIŲ GYNIMAS
 ### 472 straipsnis. Įrodymai ^s-3dd538babcd358fd1ebbb596
 
 
-1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu Civilinio proceso kodekso nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių ar prekių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio Įstatymo nustatytų teisių pažeidimas. ^s-f6456af20150cb5543bee877
+1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių ar prekių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio Įstatymo nustatytų teisių pažeidimas. ^s-f6456af20150cb5543bee877
 
 
-2. Jeigu šio Įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-f6456af20150cb5543bee877|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas Civilinio proceso kodekso nustatyta tvarka gali išreikalauti iš priešingos šalies banko, finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-6533752b25b9e7de169901cb
+2. Jeigu šio Įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-f6456af20150cb5543bee877|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali išreikalauti iš priešingos šalies banko, finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-6533752b25b9e7de169901cb
 
 
 
 ### 473 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės ^s-4717da1d4402cc72770a55f1
 
 
-1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja Civilinio proceso kodeksas ir šis Įstatymas. ^s-f0bcc03a228a7f093971c2ff
+1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir šis Įstatymas. ^s-f0bcc03a228a7f093971c2ff
 
 
-2. Kai yra pakankamas pagrindas įtarti, kad buvo šio Įstatymo nustatytų teisių pažeidimas, teismas Civilinio proceso kodekso nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra: ^s-a0dd495561b0cfd5c1887d18
+2. Kai yra pakankamas pagrindas įtarti, kad buvo šio Įstatymo nustatytų teisių pažeidimas, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra: ^s-a0dd495561b0cfd5c1887d18
 
 
 1) uždrausti asmenims daryti gresiantį šio Įstatymo nustatytų teisių pažeidimą; ^s-c302e2dba13b2fd2faa48b3b
@@ -1474,7 +1474,7 @@ GINČŲ NAGRINĖJIMAS. TEISIŲ GYNIMAS
 5) areštuoti šio Įstatymo nustatytų teisių pažeidimu įtariamų asmenų turtą, kurį turi jie arba tretieji asmenys, įskaitant banko ir kitų kredito įstaigų sąskaitas; taip pat reikalauti pateikti banko, finansinius ar komercinius dokumentus ar sudaryti galimybę susipažinti su šiais dokumentais, jeigu pažeidimas padarytas komerciniu tikslu; ^s-a52d1167704a7df468e23eb0
 
 
-6) taikyti kitas Civilinio proceso kodekso nustatytas priemones. ^s-a8ad38a95ccdec070091c795
+6) taikyti kitas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytas priemones. ^s-a8ad38a95ccdec070091c795
 
 
 3. Jeigu pritaikytos [[#^s-a0dd495561b0cfd5c1887d18|šio straipsnio 2 dalies]] 1 ir 2 punktuose nurodytos laikinosios apsaugos priemonės yra pažeidžiamos ir šis pažeidimas tęsiamas, teismas gali įpareigoti pažeidimo darymu įtariamus asmenis pateikti tinkamą galimos žalos kompensavimo užtikrinimą asmeniui, prašiusiam taikyti laikinąsias apsaugos priemones. ^s-d50d5325af9151955a8e56d0
@@ -1492,7 +1492,7 @@ GINČŲ NAGRINĖJIMAS. TEISIŲ GYNIMAS
 2) areštuoti šio įstatymo nustatytas teises pažeidžiančius gaminius, prireikus – medžiagas bei priemones, kurios yra naudojamos jų gamybai ir (arba) platinimui, bei su jomis susijusius dokumentus ir juos paimti; ^s-22437ed15d032cd207b11cb9
 
 
-3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas Civilinio proceso kodekse. ^s-324a7d88449c07d1dcd5de74
+3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). ^s-324a7d88449c07d1dcd5de74
 
 
 6. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač tais atvejais, kai delsimas galėtų padaryti nepataisomą žalą pareiškėjui arba kai įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kad laikinosios priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, t. y. iš karto tas priemones pritaikius. Šalių prašymu, įskaitant teisę būti išklausytam, laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti peržiūrėtos siekiant per protingą terminą po pranešimo apie priemonių pritaikymą nuspręsti, ar šios priemonės turi būti pakeistos, panaikintos ar patvirtintos. ^s-2e7f2b9fd0ecd3400b2718a8
@@ -1583,7 +1583,7 @@ Vyriausybė iki 2003 m. sausio 1 d. suderina teisės aktus, susijusius su šio �
 3. Mokesčiai už Valstybinio patentų biuro atliekamus veiksmus, kai per Valstybinį patentų biurą paduota paraiška Bendrijos dizainui registruoti, mokami [[latest/TAR.7DE59B8C46B2|Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymo]] ir Reglamento dėl Bendrijos dizainų nustatyta tvarka. ^s-12433d0bc7b159082f1d6dd5
 
 
-4. Lietuvos apeliacinis teismas pagal Reglamento dėl Bendrijos dizaino 71 straipsnio 2 dalį suinteresuotos šalies prašymu, pateikus teismui Europos Sąjungos intelektinės nuosavybės tarnybos sprendimo dėl atlyginamų išlaidų dydžio originalą ar patvirtintą kopiją kartu su patvirtintu sprendimo vertimu į lietuvių kalbą, ne vėliau kaip per penkias darbo dienas Civilinio proceso kodekso nustatyta tvarka patikrina įsiteisėjusio Europos Sąjungos intelektinės nuosavybės tarnybos sprendimo autentiškumą ir išduoda vykdomąjį raštą. ^s-98d061b5f223b23aea9631b5
+4. Lietuvos apeliacinis teismas pagal Reglamento dėl Bendrijos dizaino 71 straipsnio 2 dalį suinteresuotos šalies prašymu, pateikus teismui Europos Sąjungos intelektinės nuosavybės tarnybos sprendimo dėl atlyginamų išlaidų dydžio originalą ar patvirtintą kopiją kartu su patvirtintu sprendimo vertimu į lietuvių kalbą, ne vėliau kaip per penkias darbo dienas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka patikrina įsiteisėjusio Europos Sąjungos intelektinės nuosavybės tarnybos sprendimo autentiškumą ir išduoda vykdomąjį raštą. ^s-98d061b5f223b23aea9631b5
 Papildyta straipsnio dalimi:
 Nr. XIII-547, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11944
 
@@ -1606,13 +1606,13 @@ Nr. IX-2205, 2004-04-29, Žin., 2004, Nr. 73-2538 (2004-04-30), i. k. [[latest/T
 3. Įsigaliojus šiam Įstatymui, netenka galios: ^s-e02bcb1107f5187ccb415a62
 
 
-1) Lietuvos Respublikos pramoninio dizaino įstatymas (Žin., 1995, Nr. 61-1531); ^s-1ab95741a7587ae33f17eba0
+1) [Lietuvos Respublikos pramoninio dizaino įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.0BF57F35FC82) (Žin., 1995, Nr. 61-1531); ^s-1ab95741a7587ae33f17eba0
 
 
-2) Lietuvos Respublikos pramoninio [[#^s-b728b5f605f9b23e10550a98|dizaino įstatymo 5 straipsnio]] pakeitimo įstatymas (Žin., 2000, Nr. 42-1196); ^s-bee704c1ec39eb226bea987c
+2) [Lietuvos Respublikos pramoninio dizaino įstatymo 5 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.3F360DC27589) (Žin., 2000, Nr. 42-1196); ^s-bee704c1ec39eb226bea987c
 
 
-3) Lietuvos Respublikos pramoninio dizaino įstatymo papildymo 261 straipsniu įstatymas (Žin., 2000, Nr. 113-3613). ^s-2e865c730b945cdf3eb96290
+3) [Lietuvos Respublikos pramoninio dizaino įstatymo papildymo 261 straipsniu](https://e-tar.lt/portal/lt/legalAct/TAR.0BF57F35FC82) įstatymas (Žin., 2000, Nr. 113-3613). ^s-2e865c730b945cdf3eb96290
 
 
 
@@ -1679,7 +1679,7 @@ Lietuvos Respublikos dizaino įstatymo Nr. IX-1181 [[#^s-5fda0c69459d2badcd04e0e
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-547, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11944
-Lietuvos Respublikos dizaino įstatymo Nr. IX-1181 2, 16, 51-1 straipsnių ir priedo pakeitimo įstatymas
+Lietuvos Respublikos dizaino įstatymo Nr. IX-1181 [[#^s-61ca2c157b79f8ce6599bf15|2]], [[#^s-87576daa1478ae43b95f4c16|16]], 51-1 straipsnių ir priedo pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas

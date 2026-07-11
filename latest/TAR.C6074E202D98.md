@@ -357,4 +357,4 @@ Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo Nr. I-1591 [[#
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2398, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25632
-Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo Nr. I-1591 3, 7 ir [[#^s-f15ada44033ac0da1ac284c4|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo Nr. I-1591 [[#^s-7d62fc3c76476a01c076e1e4|3]], [[#^s-7b85b7015fa1d488c02eec0a|7]] ir [[#^s-f15ada44033ac0da1ac284c4|8]] straipsnių pakeitimo įstatymas

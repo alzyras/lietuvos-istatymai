@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-311130d6fab33628d0114e56
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2012 m. birželio 19 d. dekretą Nr. 1K-1096, ratifikuoja 2012 m. birželio 8 d. Vilniuje pasirašytą Lietuvos Respublikos ir Šventojo Sosto sutartį dėl kvalifikacijų, susijusių su aukštuoju mokslu, pripažinimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2012 m. birželio 19 d. dekretą Nr. 1K-1096](https://e-tar.lt/portal/lt/legalAct/TAR.7E38D12F59D3), ratifikuoja 2012 m. birželio 8 d. Vilniuje pasirašytą Lietuvos Respublikos ir Šventojo Sosto sutartį dėl kvalifikacijų, susijusių su aukštuoju mokslu, pripažinimo.
 
 
 

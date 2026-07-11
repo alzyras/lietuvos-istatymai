@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų �
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 2 citatos - Valstybinio socialinio draudimo įstatymo
+- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - Valstybinio socialinio draudimo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EDDCB615126E#^s-56e51fa1ccd5494964ba67f6|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - 2 citatos - PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.EDDCB615126E#^s-ebca7f488c83e6092064f614|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - 2 citatos - PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.EDDCB615126E#^s-56e51fa1ccd5494964ba67f6|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 12 STRAIPSNIO PAKEITIMO ĮSTATYMAS

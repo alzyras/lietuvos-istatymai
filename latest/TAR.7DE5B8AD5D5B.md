@@ -304,7 +304,7 @@ Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
 
 
 
-4. Selekcininkui suteikiama teisė per dvejus metus po to, kai pasibaigė paraiškos pirmenybės teisės galiojimo laikotarpis, nurodytas [[#^s-3af02b3f10dd7cf3cc8838af|šio straipsnio 2 dalyje]], o jeigu pirmoji paraiška buvo atmesta arba atsiimta, – per Saugomų veislių sąrašo tvarkytojo nustatytą laikotarpį nuo atmetimo ar atsiėmimo, Saugomų veislių sąrašo tvarkytojui, kuriam jis pateikė paskesnę paraišką, šio Įstatymo nustatyta tvarka pateikti būtinus dokumentus ar medžiagą tyrimams, numatytiems šio Įstatymo 11, 12 ir [[#^s-c31d49d611e5363ea018fbfd|13 straipsniuose]]. ^s-661529213bc568f99514d72b
+4. Selekcininkui suteikiama teisė per dvejus metus po to, kai pasibaigė paraiškos pirmenybės teisės galiojimo laikotarpis, nurodytas [[#^s-3af02b3f10dd7cf3cc8838af|šio straipsnio 2 dalyje]], o jeigu pirmoji paraiška buvo atmesta arba atsiimta, – per Saugomų veislių sąrašo tvarkytojo nustatytą laikotarpį nuo atmetimo ar atsiėmimo, Saugomų veislių sąrašo tvarkytojui, kuriam jis pateikė paskesnę paraišką, šio Įstatymo nustatyta tvarka pateikti būtinus dokumentus ar medžiagą tyrimams, numatytiems šio Įstatymo [[#^s-f6d69b339f82492d1d65939c|11]], [[#^s-4c916aaf5c6342ea0ce30fda|12]] ir [[#^s-c31d49d611e5363ea018fbfd|13]] straipsniuose. ^s-661529213bc568f99514d72b
 
 
 5. Tokie veiksmai kaip kitos paraiškos padavimas tos pačios veislės teisinei apsaugai suteikti, paraiškos viešas paskelbimas arba veislės, nurodytos pirmojoje paraiškoje, panaudojimas, jeigu tai įvyksta per [[#^s-3af02b3f10dd7cf3cc8838af|šio straipsnio 2 dalyje]] nurodytą laikotarpį, nesudaro pagrindo Saugomų veislių sąrašo tvarkytojui pateiktą paraišką atmesti. Tokie veiksmai taip pat nesudaro pagrindo jokioms trečiųjų šalių teisėms atsirasti. ^s-cccda4a53e71aed38accf70b
@@ -524,7 +524,7 @@ Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
 1) paaiškėja, kad apsaugos suteikimo metu veislė neatitiko naujumo ar išskirtinumo reikalavimų; ^s-87b94544db8c1031fd336567
 
 
-2) veislei buvo suteikta apsauga vadovaujantis tik pareiškėjo pateikta informacija, bet veislė apsaugos suteikimo metu neatitiko vienodumo ar stabilumo reikalavimų pagal šio Įstatymo 6 ir [[#^s-193c9697ae304d7de50a54aa|7 straipsnių]] nuostatas ar patvirtintas veislės pavadinimas neatitinka šio Įstatymo [[#^s-fc01347f9ed1d1fd47e41f3c|18 straipsnyje]] nustatytų reikalavimų; ^s-21f2c4d6c604ce1f8de6d92e
+2) veislei buvo suteikta apsauga vadovaujantis tik pareiškėjo pateikta informacija, bet veislė apsaugos suteikimo metu neatitiko vienodumo ar stabilumo reikalavimų pagal šio Įstatymo [[#^s-9fc4fbd6df9b0e96fd47b302|6]] ir [[#^s-193c9697ae304d7de50a54aa|7]] straipsnių nuostatas ar patvirtintas veislės pavadinimas neatitinka šio Įstatymo [[#^s-fc01347f9ed1d1fd47e41f3c|18 straipsnyje]] nustatytų reikalavimų; ^s-21f2c4d6c604ce1f8de6d92e
 Straipsnio punkto pakeitimai:
 Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
 
@@ -553,7 +553,7 @@ Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
 
 
 
-2) Saugomų veislių sąrašo tvarkytojas nustato, kad veislė neatitinka vienodumo ir stabilumo reikalavimų pagal šio Įstatymo 6 ir [[#^s-193c9697ae304d7de50a54aa|7 straipsnių]] nuostatas; ^s-2d06e6e2f3842f84b0ee2db5
+2) Saugomų veislių sąrašo tvarkytojas nustato, kad veislė neatitinka vienodumo ir stabilumo reikalavimų pagal šio Įstatymo [[#^s-9fc4fbd6df9b0e96fd47b302|6]] ir [[#^s-193c9697ae304d7de50a54aa|7]] straipsnių nuostatas; ^s-2d06e6e2f3842f84b0ee2db5
 Straipsnio punkto numeracijos pakeitimas:
 Nr. X-862, 2006-10-19, Žin., 2006, Nr. 118-4453 (2006-11-04), i. k. [[latest/TAR.CAE1404D088E|1061010ISTA000X-862]]
 
@@ -603,7 +603,7 @@ SELEKCININKO TEISĖS IR PAREIGOS
 ### 26 straipsnis. Selekcininko teisės ^s-a0315af2003cc90637af993a
 
 
-1. Atsižvelgdamas į šio Įstatymo 28 ir [[#^s-cd5e065de795d512b7e77216|29 straipsnių]] nuostatas, selekcininkas turi teisę duoti sutikimą asmenims atlikti su saugomos veislės dauginamąja medžiaga susijusius šiuos veiksmus: ^s-04942770d7d8e4bbb8abd5e9
+1. Atsižvelgdamas į šio Įstatymo [[#^s-9dc4cdd0c9f0398c1706a9f3|28]] ir [[#^s-cd5e065de795d512b7e77216|29]] straipsnių nuostatas, selekcininkas turi teisę duoti sutikimą asmenims atlikti su saugomos veislės dauginamąja medžiaga susijusius šiuos veiksmus: ^s-04942770d7d8e4bbb8abd5e9
 
 
 1) gaminti ir dauginti; ^s-061b7d8903dec14f3dabd725
@@ -624,7 +624,7 @@ SELEKCININKO TEISĖS IR PAREIGOS
 6) importuoti; ^s-f9a412df1cabc2861871573c
 
 
-7) sandėliuoti ją šios dalies 1–[[#^s-f9a412df1cabc2861871573c|6 punktuose]] nurodytais tikslais. ^s-d04e52c9ab9bc56b200bf171
+7) sandėliuoti ją šios dalies [[#^s-061b7d8903dec14f3dabd725|1]]–[[#^s-f9a412df1cabc2861871573c|6]] punktuose nurodytais tikslais. ^s-d04e52c9ab9bc56b200bf171
 
 
 2. Asmeniui, nesudariusiam licencinės sutarties dėl veislės, kuriai suteikta teisinė apsauga, dauginamosios medžiagos panaudojimo, draudžiama atlikti bet kokius [[#^s-04942770d7d8e4bbb8abd5e9|šio straipsnio 1 dalyje]] nurodytus veiksmus, susijusius su saugomos veislės dauginamąja medžiaga. ^s-6c5272245586f6f5e09f6211
@@ -947,20 +947,20 @@ Nagrinėdamas ginčą dėl šio Įstatymo nustatytų teisių pažeidimo, teismas
 ### 412 straipsnis. Įrodymai ^s-393b13cd4f921188f0a212cb
 
 
-1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu Civilinio proceso kodekso nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą augalo veislės, kuriai suteikta teisinė apsauga, dauginamosios medžiagos atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio Įstatymo nustatytų teisių pažeidimas. ^s-d5a44647674d3a13a0d32f8f
+1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą augalo veislės, kuriai suteikta teisinė apsauga, dauginamosios medžiagos atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio Įstatymo nustatytų teisių pažeidimas. ^s-d5a44647674d3a13a0d32f8f
 
 
-2. Jeigu šio Įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-d5a44647674d3a13a0d32f8f|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas Civilinio proceso kodekso nustatyta tvarka gali išreikalauti iš priešingos šalies banko finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-3f1ac185479a6b1bfbeda2a8
+2. Jeigu šio Įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-d5a44647674d3a13a0d32f8f|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali išreikalauti iš priešingos šalies banko finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-3f1ac185479a6b1bfbeda2a8
 
 
 
 ### 413 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės ^s-70fc2680174f208fb5faf932
 
 
-1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja Civilinio proceso kodeksas ir šis Įstatymas. ^s-d9a34f43e2af3da23a6f6b01
+1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir šis Įstatymas. ^s-d9a34f43e2af3da23a6f6b01
 
 
-2. Kai yra pakankamas pagrindas įtarti, kad buvo šio Įstatymo nustatytų teisių pažeidimas, teismas Civilinio proceso kodekso nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra: ^s-f7623404637d92e6146adbe1
+2. Kai yra pakankamas pagrindas įtarti, kad buvo šio Įstatymo nustatytų teisių pažeidimas, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra: ^s-f7623404637d92e6146adbe1
 
 
 1) uždrausti asmenims daryti gresiantį šio Įstatymo nustatytų teisių pažeidimą; ^s-b5f7e1fbf7a9bd4d1bed6394
@@ -975,7 +975,7 @@ Nagrinėdamas ginčą dėl šio Įstatymo nustatytų teisių pažeidimo, teismas
 4) areštuoti šio Įstatymo nustatytų teisių pažeidimu įtariamų asmenų turtą, kurį turi jie arba tretieji asmenys, įskaitant banko ir kitų kredito įstaigų sąskaitas; taip pat reikalauti pateikti banko, finansinius ar komercinius dokumentus ar sudaryti galimybę susipažinti su šiais dokumentais, jeigu pažeidimas padarytas komerciniu tikslu; ^s-bc30f71a34473889c411d2f6
 
 
-5) taikyti kitas Civilinio proceso kodekso nustatytas priemones. ^s-1fd4098e2c07a6940513af1f
+5) taikyti kitas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytas priemones. ^s-1fd4098e2c07a6940513af1f
 
 
 3. Jeigu pritaikytos [[#^s-f7623404637d92e6146adbe1|šio straipsnio 2 dalies]] 1 ir 2 punktuose nurodytos laikinosios apsaugos priemonės yra pažeidžiamos ir šis pažeidimas tęsiamas, teismas gali įpareigoti pažeidimo darymu įtariamus asmenis užtikrinti tinkamą galimos žalos kompensavimą asmeniui, prašiusiam taikyti laikinąsias apsaugos priemones. ^s-c576f95631fd7a798362f757
@@ -993,7 +993,7 @@ Nagrinėdamas ginčą dėl šio Įstatymo nustatytų teisių pažeidimo, teismas
 2) areštuoti šio Įstatymo nustatytas teises pažeidžiančią saugomos veislės dauginamąją medžiagą ir su ja susijusius dokumentus ir juos paimti; ^s-7452801790774b37b4577596
 
 
-3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas Civilinio proceso kodekse. ^s-1f55742e4087caee51e5e866
+3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). ^s-1f55742e4087caee51e5e866
 
 
 6. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač tais atvejais, kai delsimas galėtų padaryti nepataisomą žalą pareiškėjui arba kai įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kad laikinosios priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, t. y. iš karto tas priemones pritaikius. Šalių prašymu, įskaitant teisę būti išklausytam, laikinosios apsaugos ir įrodymų priemonės gali būti peržiūrėtos siekiant per proto kriterijus atitinkantį terminą po pranešimo apie priemonių taikymą nuspręsti, ar šios priemonės turi būti pakeistos, panaikintos ar patvirtintos. ^s-481743dfd8813c8ec8ea6bfc
@@ -1081,13 +1081,13 @@ BAIGIAMOSIOS NUOSTATOS
 Nuo 2002 m. balandžio 1 d. pripažįstami netekusiais galios:
 
 
-1) Lietuvos Respublikos augalų veislių apsaugos ir sėklininkystės įstatymas (Žin., 1996, Nr. 101-2301); ^s-8f55ee208f4ebc50649288d7
+1) [Lietuvos Respublikos augalų veislių apsaugos ir sėklininkystės įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.B37E7E16ECAA) (Žin., 1996, Nr. 101-2301); ^s-8f55ee208f4ebc50649288d7
 
 
-2) Lietuvos Respublikos augalų veislių apsaugos ir sėklininkystės įstatymo 3, 6, 17, 18, 19, 20, 24, 25 ir [[#^s-aeb7aaa09ea7991c51a509c5|27 straipsnių]] pakeitimo įstatymas (Žin., 1997, Nr. 59-1364); ^s-b9f1884f7a8cb700021a3033
+2) [Lietuvos Respublikos augalų veislių apsaugos ir sėklininkystės įstatymo 3, 6, 17, 18, 19, 20, 24, 25 ir 27 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.486134292B97) (Žin., 1997, Nr. 59-1364); ^s-b9f1884f7a8cb700021a3033
 
 
-3) Lietuvos Respublikos augalų veislių apsaugos ir sėklininkystės įstatymo [[#^s-3a243df84ba1fe101fe2fe53|23 straipsnio]] pakeitimo įstatymas (Žin., 2001, Nr. 39-1349). ^s-d4efd29387fd21add6ce7e49
+3) [Lietuvos Respublikos augalų veislių apsaugos ir sėklininkystės įstatymo 23 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.1FCD8AE51A28) (Žin., 2001, Nr. 39-1349). ^s-d4efd29387fd21add6ce7e49
 
 
 
@@ -1132,4 +1132,4 @@ Nr. XI-1994, 2012-04-26, Žin., 2012, Nr. 53-2643 (2012-05-08), i. k. [[latest/T
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-253, 2021-04-15, paskelbta TAR 2021-04-26, i. k. 2021-08628
-Lietuvos Respublikos augalų veislių apsaugos įstatymo Nr. IX-618 2, 9, 10, 11, 12, 13, 14, 16, 17, 19, 22, 23, 24, 26, 28, 32, 38, [[#^s-dff75f30d4a961a2a2273a12|41 straipsnių]] pakeitimo ir 25, 35, 41-7 straipsnių pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos augalų veislių apsaugos įstatymo Nr. IX-618 [[#^s-010178d546f5433cc67b7f5f|2]], [[#^s-0f642daa230b28bbb59be3c6|9]], [[#^s-d88527576f8902db289a5231|10]], [[#^s-f6d69b339f82492d1d65939c|11]], [[#^s-4c916aaf5c6342ea0ce30fda|12]], [[#^s-c31d49d611e5363ea018fbfd|13]], [[#^s-258fd2217a264132498391d4|14]], [[#^s-cd0115849926051a8fe07e7c|16]], [[#^s-4b882be4941d34bdac117fb3|17]], [[#^s-1a88260142be0a5cbdb60dbd|19]], [[#^s-a24cfa62005b458d1041eb1f|22]], [[#^s-3a243df84ba1fe101fe2fe53|23]], [[#^s-eb0ec8f7ac651707dd474047|24]], [[#^s-a0315af2003cc90637af993a|26]], [[#^s-9dc4cdd0c9f0398c1706a9f3|28]], [[#^s-38b469518cb9fb6316a9d9ac|32]], [[#^s-b722c88ac2ac43738142f7e0|38]], [[#^s-dff75f30d4a961a2a2273a12|41]] straipsnių pakeitimo ir [[#^s-d6910038288e886586d41cd5|25]], [[#^s-05c0c863d17486dc28671cf3|35]], 41-7 straipsnių pripažinimo netekusiais galios įstatymas

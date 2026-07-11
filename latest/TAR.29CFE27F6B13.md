@@ -774,7 +774,7 @@ Nr. XIII-2674, 2019-12-12, paskelbta TAR 2019-12-30, i. k. 2019-21530
 4. Kario, įtariamo drausmės pažeidimo padarymu, liga nėra pagrindas sustabdyti tarnybinį patikrinimą. Kai karys, įtariamas drausmės pažeidimo padarymu, dėl sveikatos būklės negali pateikti paaiškinimo ir yra tai patvirtinanti gydančio gydytojo pažyma, tarnybinis patikrinimas sustabdomas, iki išnyks jo sustabdymo priežastis. ^s-20e0c206b4f68c2a1dd1e550
 
 
-5. Kai paaiškėja, kad drausmės pažeidimas turi nusikalstamos veikos požymių, pažeidimo tyrimas sustabdomas ir tarnybinio patikrinimo medžiaga perduodama ikiteisminio tyrimo įstaigai. Jeigu ikiteisminis tyrimas nutraukiamas, asmuo atleidžiamas nuo baudžiamosios atsakomybės arba priimamas išteisinamasis ar apkaltinamasis nuosprendis ir yra pasibaigęs baudžiamasis procesas, tai nuo prokuroro ar teismo atitinkamų sprendimų priėmimo dienos drausmės pažeidimo tyrimas atnaujinamas ir nustatomas naujas terminas laikantis šio straipsnio 1 ir [[#^s-c3fc417f640f1a1c8f837388|2 dalyse]] nustatytų terminų. ^s-82793bccf42efd7616a18656
+5. Kai paaiškėja, kad drausmės pažeidimas turi nusikalstamos veikos požymių, pažeidimo tyrimas sustabdomas ir tarnybinio patikrinimo medžiaga perduodama ikiteisminio tyrimo įstaigai. Jeigu ikiteisminis tyrimas nutraukiamas, asmuo atleidžiamas nuo baudžiamosios atsakomybės arba priimamas išteisinamasis ar apkaltinamasis nuosprendis ir yra pasibaigęs baudžiamasis procesas, tai nuo prokuroro ar teismo atitinkamų sprendimų priėmimo dienos drausmės pažeidimo tyrimas atnaujinamas ir nustatomas naujas terminas laikantis šio straipsnio [[#^s-a59838988c32bd36f988e401|1]] ir [[#^s-c3fc417f640f1a1c8f837388|2]] dalyse nustatytų terminų. ^s-82793bccf42efd7616a18656
 
 
 6. Jeigu tarnybinis patikrinimas buvo pradėtas dėl kario skundo, apie tarnybinio patikrinimo sustabdymą, atnaujinimą ar pratęsimą kariui pranešama raštu. ^s-76d13098c1b950bd7d010cd6
@@ -1302,7 +1302,7 @@ Nr. XIII-543, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11940
 ### 55 straipsnis. Drausminių nuobaudų vykdymas ^s-effcf30f1987be9168488a1d
 
 
-1. Drausminė nuobauda pradedama vykdyti nuo teisės akto dėl jos skyrimo pasirašymo dienos, jeigu jame nėra nurodyta kita drausminės nuobaudos vykdymo pradžios data. Ne vėliau kaip per 5 darbo dienas nuo teisės akto dėl drausminės nuobaudos skyrimo pasirašymo dienos karys su šiuo aktu supažindinamas pasirašytinai arba jis išsiunčiamas kariui registruotąja pašto siunta. Jeigu dėl objektyvių priežasčių šio statuto [[#^s-0e321f1a357c66c801157639|31 straipsnio 1 dalies]] 2, 3 ir 4 punktuose ir 4 dalies 2, 3 ir 4 punktuose nurodytos drausminės nuobaudos negali būti vykdomos, jų vykdymas sustabdomas ir drausminė nuobauda baigiama vykdyti šioms priežastims išnykus. ^s-12260b9a1a5d2bb146c1c965
+1. Drausminė nuobauda pradedama vykdyti nuo teisės akto dėl jos skyrimo pasirašymo dienos, jeigu jame nėra nurodyta kita drausminės nuobaudos vykdymo pradžios data. Ne vėliau kaip per 5 darbo dienas nuo teisės akto dėl drausminės nuobaudos skyrimo pasirašymo dienos karys su šiuo aktu supažindinamas pasirašytinai arba jis išsiunčiamas kariui registruotąja pašto siunta. Jeigu dėl objektyvių priežasčių šio statuto [[#^s-0e321f1a357c66c801157639|31 straipsnio 1 dalies]] [[#^s-5e2a5bfa9c638d419589d458|2]], [[#^s-f5811ce4156bbe960beb8b52|3]] ir [[#^s-c3428ab64754e36abcf5bb1c|4]] punktuose ir 4 dalies [[#^s-5e2a5bfa9c638d419589d458|2]], [[#^s-f5811ce4156bbe960beb8b52|3]] ir [[#^s-c3428ab64754e36abcf5bb1c|4]] punktuose nurodytos drausminės nuobaudos negali būti vykdomos, jų vykdymas sustabdomas ir drausminė nuobauda baigiama vykdyti šioms priežastims išnykus. ^s-12260b9a1a5d2bb146c1c965
 
 
 2. Jeigu karys nesutinka su šio statuto nustatyta tvarka paskirta drausmine nuobauda, jis turi teisę apskųsti sprendimą dėl drausminės nuobaudos skyrimo aukštesniajam vadui (viršininkui) arba krašto apsaugos generaliniam inspektoriui. Drausminės nuobaudos apskundimas jos vykdymo nesustabdo. ^s-9bd798512fe93af6d4080f8e
@@ -1356,13 +1356,13 @@ GINKLUOTŲJŲ PAJĖGŲ NARIAMS KARO PADĖTIES METU TAIKOMA DRAUSMINĖ ATSAKOMYB�
 1. Karo padėties metu į ginkluotųjų pajėgų narių sąrašą įrašyti asmenys drausminėn atsakomybėn traukiami vadovaujantis šio skyriaus ir kitomis šio statuto nuostatomis šiame skyriuje nurodytais atvejais. ^s-09cab09e75dfc30a3985c693
 
 
-2. Užtikrinant ginkluotųjų pajėgų narių drausmę, taikant drausminę atsakomybę, nagrinėjant skundus dėl drausminės nuobaudos, mutatis mutandis taikomos šio statuto I dalies I, II ir III skyrių, 12, 13, [[#^s-801f42e8e2d02adcb2cff54a|15 straipsnių]], [[#^s-e6397da7dace509fde60bd64|18 straipsnio 3 dalies]] ir I dalies VIII skyriaus nuostatos. ^s-22a61cdc43ecc1a4b447054e
+2. Užtikrinant ginkluotųjų pajėgų narių drausmę, taikant drausminę atsakomybę, nagrinėjant skundus dėl drausminės nuobaudos, mutatis mutandis taikomos šio statuto I dalies I, II ir III skyrių, [[#^s-b542b4675e6ea08fe9be8f36|12]], [[#^s-503aac2efcc774f7e60aa27a|13]], [[#^s-801f42e8e2d02adcb2cff54a|15]] straipsnių, [[#^s-e6397da7dace509fde60bd64|18 straipsnio 3 dalies]] ir I dalies VIII skyriaus nuostatos. ^s-22a61cdc43ecc1a4b447054e
 
 
 3. Ginkluotųjų pajėgų nariams už raštu ar žodžiu viešai reiškiamą nesutikimą su demokratiškai išrinktos, sudarytos valstybės valdžios (Lietuvos Respublikos Seimo, Respublikos Prezidento, Lietuvos Respublikos Vyriausybės) paskelbta ir vykdoma politika ar už viešai keliamus politinius reikalavimus valstybės valdžiai, taip pat už veikas, nustatytas šio statuto II dalyje, taikomos šio statuto [[#^s-05f767f473621f56b42caca9|563 straipsnio 1 dalyje]] numatytos drausminės nuobaudos. ^s-c61fa8bacc4d2664b99e9aef
 
 
-4. Šio statuto [[#^s-05f767f473621f56b42caca9|563 straipsnio 1 dalyje]] numatytos drausminės nuobaudos skiriamos ir šio statuto [[#^s-27519e0702723ca9c30fec54|563 straipsnio]] 2 ir 15 dalyse numatyti veiksmai įforminami raštu. Jeigu dėl vykdomų valstybės ginkluotos gynybos veiksmų šio statuto [[#^s-05f767f473621f56b42caca9|563 straipsnio 1 dalyje]] numatytų drausminių nuobaudų skirti ir šio statuto [[#^s-27519e0702723ca9c30fec54|563 straipsnio]] 2 ir 15 dalyse numatytų veiksmų įforminti raštu nėra galimybės, jie vykdomi žodžiu, o pasikeitus aplinkybėms ir atsiradus galimybei įforminami raštu kariuomenės vado nustatyta tvarka. ^s-df944748d0d1ffa493bbc2a5
+4. Šio statuto [[#^s-05f767f473621f56b42caca9|563 straipsnio 1 dalyje]] numatytos drausminės nuobaudos skiriamos ir šio statuto [[#^s-27519e0702723ca9c30fec54|563 straipsnio]] [[#^s-1330154974fd75d3cc65c72d|2]] ir [[#^s-9f081d565cae2ac571d4e8d1|15]] dalyse numatyti veiksmai įforminami raštu. Jeigu dėl vykdomų valstybės ginkluotos gynybos veiksmų šio statuto [[#^s-05f767f473621f56b42caca9|563 straipsnio 1 dalyje]] numatytų drausminių nuobaudų skirti ir šio statuto [[#^s-27519e0702723ca9c30fec54|563 straipsnio]] [[#^s-1330154974fd75d3cc65c72d|2]] ir [[#^s-9f081d565cae2ac571d4e8d1|15]] dalyse numatytų veiksmų įforminti raštu nėra galimybės, jie vykdomi žodžiu, o pasikeitus aplinkybėms ir atsiradus galimybei įforminami raštu kariuomenės vado nustatyta tvarka. ^s-df944748d0d1ffa493bbc2a5
 
 
 
@@ -1372,7 +1372,7 @@ GINKLUOTŲJŲ PAJĖGŲ NARIAMS KARO PADĖTIES METU TAIKOMA DRAUSMINĖ ATSAKOMYB�
 1. Ginkluotųjų pajėgų narys gali būti sulaikomas, kai: ^s-2b093dc69ec031d58ad7a964
 
 
-1) yra šio statuto [[#^s-839a604a89f100a16cde8d98|14 straipsnio 2 dalies]] 1, 2, 5, 6 punktuose numatyti pagrindai; ^s-0d9fd3f9053b7966d6ff052d
+1) yra šio statuto [[#^s-839a604a89f100a16cde8d98|14 straipsnio 2 dalies]] [[#^s-91631555593ed1f1aa398e00|1]], [[#^s-59a0d19876141d300cb21095|2]], [[#^s-f9f5616edcc6da9f2727b04f|5]], [[#^s-ff6e71d50f3f957ec73c1769|6]] punktuose numatyti pagrindai; ^s-0d9fd3f9053b7966d6ff052d
 
 
 2) jis neturi dokumentų, įrodančių jo tapatybę ir priklausomybę ginkluotosioms pajėgoms. ^s-16ad9419d511159911cd933d
@@ -1415,7 +1415,7 @@ GINKLUOTŲJŲ PAJĖGŲ NARIAMS KARO PADĖTIES METU TAIKOMA DRAUSMINĖ ATSAKOMYB�
 2. Ginkluotųjų pajėgų vadas ar jo įgaliotas asmuo, gavęs informaciją apie galimai padarytą drausmės pažeidimą, nedelsdamas, bet ne vėliau kaip kitą kalendorinę dieną, privalo pareikalauti ginkluotųjų pajėgų nario paaiškinimo. Ginkluotųjų pajėgų narys per tris kalendorines dienas nuo pareikalavimo dienos gali pateikti paaiškinimą. ^s-1330154974fd75d3cc65c72d
 
 
-3. Nedelsiant, bet ne vėliau kaip per vieną mėnesį nuo ginkluotųjų pajėgų nario paaiškinimo pateikimo dienos, o jeigu paaiškinimas nebuvo pateiktas, nuo dienos, iki kurios ginkluotųjų pajėgų narys galėjo pateikti paaiškinimą, skiriamos drausminės nuobaudos, nustatytos [[#^s-05f767f473621f56b42caca9|šio straipsnio 1 dalyje]], nustatomas [[#^s-fe8db706f6cacc107cce621e|šio  straipsnio 1 dalies 2 punkte]] nurodytos drausminės nuobaudos dydis, taip pat terminas, nustatytas šio straipsnio 6, 11 ir [[#^s-39d4502611a264ddd8e9ef39|12 dalyse]], įvertinus: ^s-21546fd8d6168136f3172ecf
+3. Nedelsiant, bet ne vėliau kaip per vieną mėnesį nuo ginkluotųjų pajėgų nario paaiškinimo pateikimo dienos, o jeigu paaiškinimas nebuvo pateiktas, nuo dienos, iki kurios ginkluotųjų pajėgų narys galėjo pateikti paaiškinimą, skiriamos drausminės nuobaudos, nustatytos [[#^s-05f767f473621f56b42caca9|šio straipsnio 1 dalyje]], nustatomas [[#^s-fe8db706f6cacc107cce621e|šio  straipsnio 1 dalies 2 punkte]] nurodytos drausminės nuobaudos dydis, taip pat terminas, nustatytas šio straipsnio [[#^s-10011ccfadbc5f4229934cef|6]], [[#^s-99895c151e33345d8bf130a6|11]] ir [[#^s-39d4502611a264ddd8e9ef39|12]] dalyse, įvertinus: ^s-21546fd8d6168136f3172ecf
 
 
 1) padaryto drausmės pažeidimo pobūdį; ^s-942f0ce133a312db4cc7cc20
@@ -1427,7 +1427,7 @@ GINKLUOTŲJŲ PAJĖGŲ NARIAMS KARO PADĖTIES METU TAIKOMA DRAUSMINĖ ATSAKOMYB�
 3) pažeidėjo asmenybę; ^s-f9ed6a73d0d692d7751418fb
 
 
-4) drausminę atsakomybę lengvinančias aplinkybes, nustatytas šio statuto [[#^s-7b6e86d1fb81724109dca98a|41 straipsnyje]], ir sunkinančias aplinkybes, nustatytas šio statuto [[#^s-2f363df9cc7a3e6a6768cd01|42 straipsnio 1 dalies]] 4–7 punktuose. ^s-71a0c61c9c029351d0fabe74
+4) drausminę atsakomybę lengvinančias aplinkybes, nustatytas šio statuto [[#^s-7b6e86d1fb81724109dca98a|41 straipsnyje]], ir sunkinančias aplinkybes, nustatytas šio statuto [[#^s-2f363df9cc7a3e6a6768cd01|42 straipsnio 1 dalies]] [[#^s-85cebb1894a11e6f1b5caefe|4]]–[[#^s-d262b8846ebf90c2226df2e4|7]] punktuose. ^s-71a0c61c9c029351d0fabe74
 
 
 4. Kai paaiškėja, kad drausmės pažeidimas turi nusikalstamos veikos požymių, drausminės atsakomybės taikymo procesas sustabdomas ir ginkluotųjų pajėgų vadas ar jo įgaliotas asmuo, turintis teisę skirti drausminę nuobaudą, turimą informaciją perduoda tirti kompetentingai institucijai. Drausminės atsakomybės taikymo procesas sustabdomas ir tuo atveju, kai paaiškėja, kad dėl šios ginkluotųjų pajėgų nario veikos yra pradėtas ikiteisminis tyrimas. Jeigu atsisakoma pradėti ikiteisminį tyrimą arba pasibaigia baudžiamasis procesas, ginkluotųjų pajėgų vado ar jo įgalioto asmens, turinčio teisę skirti drausminę nuobaudą, sprendimu drausminės atsakomybės taikymo procesas atnaujinamas, nustatant [[#^s-21546fd8d6168136f3172ecf|šio straipsnio 3 dalyje]] nurodytą terminą, arba nutraukiamas, jeigu paaiškėja, kad ginkluotųjų pajėgų narys nepadarė drausmės pažeidimo ar atsirado kitos aplinkybės, dėl kurių negalima ar netikslinga skirti jam drausminę nuobaudą. ^s-80e00d071d02b3f0b9031076
@@ -1485,7 +1485,7 @@ GINKLUOTŲJŲ PAJĖGŲ NARIAMS KARO PADĖTIES METU TAIKOMA DRAUSMINĖ ATSAKOMYB�
 ### 564 straipsnis. Drausminių nuobaudų vykdymas ^s-fa905065828519f773241c89
 
 
-1. Drausminė nuobauda pradedama vykdyti nuo jos skyrimo dienos, jeigu ją skiriant nėra nurodyta kita drausminės nuobaudos vykdymo pradžios data. Jeigu dėl objektyvių priežasčių šio statuto [[#^s-05f767f473621f56b42caca9|563 straipsnio 1 dalies]] 3, 4 ir 5 punktuose nurodyta drausminė nuobauda negali būti vykdoma, jos vykdymas sustabdomas ir drausminė nuobauda baigiama vykdyti šioms priežastims išnykus. ^s-23bc7bfcd92d286a47b23e11
+1. Drausminė nuobauda pradedama vykdyti nuo jos skyrimo dienos, jeigu ją skiriant nėra nurodyta kita drausminės nuobaudos vykdymo pradžios data. Jeigu dėl objektyvių priežasčių šio statuto [[#^s-05f767f473621f56b42caca9|563 straipsnio 1 dalies]] [[#^s-eab1627a7d3805a285f9a700|3]], [[#^s-9e0e1176b538356fd60b23bd|4]] ir [[#^s-d96981cc54890f08cd76a7b6|5]] punktuose nurodyta drausminė nuobauda negali būti vykdoma, jos vykdymas sustabdomas ir drausminė nuobauda baigiama vykdyti šioms priežastims išnykus. ^s-23bc7bfcd92d286a47b23e11
 
 
 2. Jeigu dėl karo padėties metu susiklosčiusių finansinių aplinkybių ginkluotųjų pajėgų nariui tarnybinis atlyginimas nemokamas, ginkluotųjų pajėgų nariui paskirta drausminė nuobauda – tarnybinio atlyginimo sumažinimas – vykdoma, jam priskaičiuotas tarnybinis atlyginimas sumažinamas atitinkamai jam paskirtos tarnybinio atlyginimo sumažinimo dalies dydžiu kariuomenės vado nustatyta tvarka. ^s-7576be2e171e961552b45ced
@@ -1495,7 +1495,7 @@ GINKLUOTŲJŲ PAJĖGŲ NARIAMS KARO PADĖTIES METU TAIKOMA DRAUSMINĖ ATSAKOMYB�
 ### 565 straipsnis. Drausminių nuobaudų galiojimas ^s-d547f61dee75b7c05bf076ee
 
 
-1. Asmuo, turintis teisę skirti drausminę nuobaudą, skirdamas drausminę nuobaudą nustato nuobaudos galiojimo terminą, atitinkantį šio statuto [[#^s-27519e0702723ca9c30fec54|563 straipsnio]] 6, 11 ir 12 dalių nuostatas. ^s-442e75c10ad437fefe4c5577
+1. Asmuo, turintis teisę skirti drausminę nuobaudą, skirdamas drausminę nuobaudą nustato nuobaudos galiojimo terminą, atitinkantį šio statuto [[#^s-27519e0702723ca9c30fec54|563 straipsnio]] [[#^s-10011ccfadbc5f4229934cef|6]], [[#^s-99895c151e33345d8bf130a6|11]] ir [[#^s-39d4502611a264ddd8e9ef39|12]] dalių nuostatas. ^s-442e75c10ad437fefe4c5577
 
 
 2. Drausminės nuobaudos galiojimo terminas pradedamas skaičiuoti nuo drausminės nuobaudos skyrimo dienos. Drausminė nuobauda laikoma galiojančia iki drausminės nuobaudos galiojimo termino pabaigos, bet ne ilgiau, iki bus atšaukta karo padėtis. ^s-a56b170c3fa246699689bb58
@@ -1535,7 +1535,7 @@ IŠANKSTINĖ KARO TARNYBOS GINČŲ NAGRINĖJIMO NE TEISME TVARKA KRAŠTO APSAUGO
 ### 57 straipsnis. Karo tarnybos ginčai ^s-a8fd597f06b2d9c9bcf02031
 
 
-Ginčai dėl nušalinimo nuo pareigų, perkėlimo į kitas pareigas, dėl karių laipsnių, drausminių nuobaudų, kario tarnybos sutarties pratęsimo ir kiti karo tarnybos ginčai pradedami nagrinėti padavus skundą šiame skyriuje nustatyta tvarka.
+Ginčai [dėl nušalinimo nuo pareigų](https://e-tar.lt/portal/lt/legalAct/61ab2c2069ad11edbc04912defe897d1), perkėlimo į kitas pareigas, dėl karių laipsnių, drausminių nuobaudų, kario tarnybos sutarties pratęsimo ir kiti karo tarnybos ginčai pradedami nagrinėti padavus skundą šiame skyriuje nustatyta tvarka.
 
 
 
@@ -1674,7 +1674,7 @@ Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
 3. Vadas (viršininkas), patvirtinęs tarnybinio patikrinimo išvadą dėl kario skundo, sprendimą priima per 10 darbo dienų nuo tarnybinio patikrinimo išvados patvirtinimo dienos ir apie šį sprendimą raštu praneša skundą padavusiam kariui. ^s-5f6ea5d311613be887128edc
 
 
-4. Vadas (viršininkas), gavęs aukštesniojo vado (viršininko) sprendimą, nurodytą šio statuto [[#^s-8aeecf6823245c347c293dea|64 straipsnio 2 dalyje]], per 5 darbo dienas nuo sprendimo gavimo dienos skiria tarnybinį patikrinimą ir nustato jo atlikimo terminą, laikydamasis šio statuto [[#^s-15cc85fb2576f4a6d86d00cd|28 straipsnio]] 1 ir [[#^s-7441dd087f7dbe1b4942dcab|2 dalyse]] nustatytų terminų. ^s-37d7880ab923a05a738dabf0
+4. Vadas (viršininkas), gavęs aukštesniojo vado (viršininko) sprendimą, nurodytą šio statuto [[#^s-8aeecf6823245c347c293dea|64 straipsnio 2 dalyje]], per 5 darbo dienas nuo sprendimo gavimo dienos skiria tarnybinį patikrinimą ir nustato jo atlikimo terminą, laikydamasis šio statuto [[#^s-15cc85fb2576f4a6d86d00cd|28 straipsnio]] [[#^s-a59838988c32bd36f988e401|1]] ir [[#^s-c3fc417f640f1a1c8f837388|2]] dalyse nustatytų terminų. ^s-37d7880ab923a05a738dabf0
 Papildyta straipsnio dalimi:
 Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
 
@@ -1704,7 +1704,7 @@ Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
 3. Krašto apsaugos generalinis inspektorius, patvirtinęs tarnybinio patikrinimo išvadą dėl kario skundo, sprendimą priima per 5 darbo dienas nuo tarnybinio patikrinimo išvados patvirtinimo dienos ir apie šį sprendimą raštu praneša skundą padavusiam kariui, o jį įgyvendinti perduoda vadui (viršininkui), turinčiam teisę priimti atitinkamus sprendimus. Vadas (viršininkas), gavęs krašto apsaugos generalinio inspektoriaus sprendimą, jį įgyvendina per 10 darbo dienų nuo sprendimo gavimo dienos ir apie tai raštu praneša skundą pateikusiam kariui ir krašto apsaugos generaliniam inspektoriui. ^s-a1209cc2f402a4d23887e768
 
 
-4. Vadas (viršininkas), gavęs krašto apsaugos generalinio inspektoriaus sprendimą, nurodytą šio statuto [[#^s-8aeecf6823245c347c293dea|64 straipsnio 2 dalyje]], per 5 darbo dienas nuo sprendimo gavimo dienos skiria tarnybinį patikrinimą ir nustato jo atlikimo terminą, laikydamasis šio statuto [[#^s-15cc85fb2576f4a6d86d00cd|28 straipsnio]] 1 ir [[#^s-fc55a2e96ac0cba1d0f4ff37|2 dalyse]] nustatytų terminų. ^s-34edac46c0e40ed509ea571f
+4. Vadas (viršininkas), gavęs krašto apsaugos generalinio inspektoriaus sprendimą, nurodytą šio statuto [[#^s-8aeecf6823245c347c293dea|64 straipsnio 2 dalyje]], per 5 darbo dienas nuo sprendimo gavimo dienos skiria tarnybinį patikrinimą ir nustato jo atlikimo terminą, laikydamasis šio statuto [[#^s-15cc85fb2576f4a6d86d00cd|28 straipsnio]] [[#^s-a59838988c32bd36f988e401|1]] ir [[#^s-c3fc417f640f1a1c8f837388|2]] dalyse nustatytų terminų. ^s-34edac46c0e40ed509ea571f
 Papildyta straipsnio dalimi:
 Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
 
@@ -2018,7 +2018,7 @@ Už tarnybos ar ne tarnybos metu kario vardą žeminančią veiką, kuria akivai
 ### 92 straipsnis. Drausmės pažeidimas tarptautinės operacijos metu ^s-8961c07748910a639fde4d76
 
 
-1. Už šiame skyriuje nurodytus drausmės pažeidimus, padarytus tarptautinėse operacijose, išskyrus pažeidimus, numatytus šio statuto 66 ir [[#^s-bd9fb66779a642f5cec0a7c0|67 straipsniuose]], profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas ar pažeminamas kario laipsnis arba karys atleidžiamas iš tarnybos. ^s-0177e772dfa4304e1d5adc09
+1. Už šiame skyriuje nurodytus drausmės pažeidimus, padarytus tarptautinėse operacijose, išskyrus pažeidimus, numatytus šio statuto [[#^s-352459a4df0cf52e7546e93e|66]] ir [[#^s-bd9fb66779a642f5cec0a7c0|67]] straipsniuose, profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas ar pažeminamas kario laipsnis arba karys atleidžiamas iš tarnybos. ^s-0177e772dfa4304e1d5adc09
 
 
 2. Už drausmės pažeidimus, padarytus sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos. ^s-223c88d07d0723eef7acbbb8
@@ -2125,12 +2125,12 @@ Nr. XII-971, 2014-06-26, paskelbta TAR 2014-07-10, i. k. 2014-10013
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2101, 2015-12-01, paskelbta TAR 2015-12-10, i. k. 2015-19621
-Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. VIII-1191 pakeitimo ir Lietuvos kariuomenės drausmės statuto 2, 14, 18, 21, 36, 40, 48, 50, 55, 56, 61, 62, 63, [[#^s-43db4dc7ac16a1ed662d469d|64 straipsnių]] pakeitimo ir [[#^s-774b1936e727c7b1dd85cb59|47 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. VIII-1191 pakeitimo ir Lietuvos kariuomenės drausmės statuto [[#^s-e7b3283b49d788695c5509a2|2]], [[#^s-e0f166d53fe524eeda2addde|14]], [[#^s-611b61820f3ba8d2cf1f5b73|18]], 21, [[#^s-45e388863dc5e3edcde4c396|36]], [[#^s-c487bdecef89bc2aafde21ca|40]], [[#^s-ada760d5733b14c154968ed2|48]], [[#^s-eb8039e96659d23f81a5d27a|50]], [[#^s-effcf30f1987be9168488a1d|55]], [[#^s-27abd9a02874f67262523201|56]], [[#^s-aff546f3c4b6523480558607|61]], [[#^s-efd2ad5011d096fbd7af1697|62]], [[#^s-cd476d5a948ed0f3cbe8ba31|63]], [[#^s-43db4dc7ac16a1ed662d469d|64]] straipsnių pakeitimo ir [[#^s-774b1936e727c7b1dd85cb59|47 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2282, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06434
-Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. VIII-1191 pakeitimo ir Lietuvos kariuomenės drausmės statuto 2, 14, 18, 21, 36, 40, 48, 50, 55, 56, 61, 62, 63, [[#^s-43db4dc7ac16a1ed662d469d|64 straipsnių]] pakeitimo ir [[#^s-774b1936e727c7b1dd85cb59|47 straipsnio]] pripažinimo netekusiu galios [[latest/e08738b09f4b11e58fd1fc0b9bba68a7|įstatymo Nr. XII-2101]] [[#^s-eba6ee21d05293cf32ca84c0|17 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kariuomenės drausmės statuto patvirtinimo įstatymo Nr. VIII-1191 pakeitimo ir Lietuvos kariuomenės drausmės statuto [[#^s-e7b3283b49d788695c5509a2|2]], [[#^s-e0f166d53fe524eeda2addde|14]], [[#^s-611b61820f3ba8d2cf1f5b73|18]], 21, [[#^s-45e388863dc5e3edcde4c396|36]], [[#^s-c487bdecef89bc2aafde21ca|40]], [[#^s-ada760d5733b14c154968ed2|48]], [[#^s-eb8039e96659d23f81a5d27a|50]], [[#^s-effcf30f1987be9168488a1d|55]], [[#^s-27abd9a02874f67262523201|56]], [[#^s-aff546f3c4b6523480558607|61]], [[#^s-efd2ad5011d096fbd7af1697|62]], [[#^s-cd476d5a948ed0f3cbe8ba31|63]], [[#^s-43db4dc7ac16a1ed662d469d|64]] straipsnių pakeitimo ir [[#^s-774b1936e727c7b1dd85cb59|47 straipsnio]] pripažinimo netekusiu galios [[latest/e08738b09f4b11e58fd1fc0b9bba68a7|įstatymo Nr. XII-2101]] [[#^s-eba6ee21d05293cf32ca84c0|17 straipsnio]] pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas

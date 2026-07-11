@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.94F6B680E8B8#^s-6f17ed6be01607df8adca338|Lietuvos Respublikos sveikatos draudimo įstatymas]] - Įstatymas Nr. IX-605
-- [[latest/TAR.94F6B680E8B8#^s-f504e151ac45e93c8cd51e6d|Lietuvos Respublikos sveikatos draudimo įstatymas]] - Įstatymas Nr. IX-605
+_Nėra._

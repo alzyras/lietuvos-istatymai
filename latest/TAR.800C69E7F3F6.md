@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis.         Konvencijos, jos protokolų ir Susitarimo dėl laikino Konvencijos taikymo ratifikavimas ^s-67feca86928d17570b4ae327
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 20 d. dekretą Nr. 346, ratifikuoja:
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. sausio 20 d. dekretą Nr. 346](https://e-tar.lt/portal/lt/legalAct/TAR.54FDBFBE948D), ratifikuoja:
 
 
 1) Konvenciją dėl informacijos technologijų naudojimo muitinės tikslais, parengtą vadovaujantis Europos Sąjungos sutarties K.[[#^s-121ec491f3c80d54a3390c9d|3 straipsniu]], priimtą 1995 m. liepos 26 d. Briuselyje; ^s-72b37581ad6f3908bea1489a

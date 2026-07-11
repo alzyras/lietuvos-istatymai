@@ -547,7 +547,7 @@ Veislinė gyvulininkystė yra prioritetinė žemės ūkio šaka. Valstybė remia
 ### 21 straipsnis. Leidimų galiojimas ^s-fd20fb179ec7e84ebb604ef7
 
 
-Leidimai, išduoti vadovaujantis 1994 m. vasario 8 d. Gyvulių veislininkystės [[latest/TAR.A039F278F253|įstatymo Nr. I-384]] (Žin., 1994, Nr. 14-226; 1997, Nr. 59-1365) redakcija, nenustoja galioti.“
+Leidimai, išduoti vadovaujantis 1994 m. vasario 8 d. Gyvulių veislininkystės įstatymo Nr. I-384 (Žin., 1994, Nr. 14-226; 1997, Nr. 59-1365) redakcija, nenustoja galioti.“
 
 
 

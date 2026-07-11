@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-e186ec8a311021c2f5e8c7c9
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. balandžio  11  d. dekretą Nr. 260, ratifikuoja 1997 m. protokolą, iš dalies pakeičiantį 1973 m. Tarptautinę konvenciją dėl teršimo iš laivų prevencijos, iš dalies pakeistą 1978 m. protokolu, priimtą 1997 m. rugsėjo 26 d. Londone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. balandžio  11  d. dekretą Nr. 260](https://e-tar.lt/portal/lt/legalAct/TAR.D385260F57F9), ratifikuoja 1997 m. protokolą, iš dalies pakeičiantį 1973 m. Tarptautinę konvenciją dėl teršimo iš laivų prevencijos, iš dalies pakeistą 1978 m. protokolu, priimtą 1997 m. rugsėjo 26 d. Londone.
 
 
 

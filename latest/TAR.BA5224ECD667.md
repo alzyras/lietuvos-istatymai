@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-7e2dae9fcded8248cc20f576
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 14 d. dekretą Nr. 341, ratifikuoja su pareiškimais 1997 m. gruodžio 18 d. Europos Sąjungos Tarybos aktu Nr. 98/C 24/01 priimtą Konvenciją dėl muitinės administracijų tarpusavio pagalbos ir bendradarbiavimo, parengtą vadovaujantis Europos Sąjungos sutarties K.[[#^s-14cf4ec26f33cc2361af3d66|3 straipsniu]] (toliau – Konvencija).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. sausio 14 d. dekretą Nr. 341](https://e-tar.lt/portal/lt/legalAct/TAR.14FF2BC606FB), ratifikuoja su pareiškimais 1997 m. gruodžio 18 d. Europos Sąjungos Tarybos aktu Nr. 98/C 24/01 priimtą Konvenciją dėl muitinės administracijų tarpusavio pagalbos ir bendradarbiavimo, parengtą vadovaujantis Europos Sąjungos sutarties K.[[#^s-14cf4ec26f33cc2361af3d66|3 straipsniu]] (toliau – Konvencija).
 
 
 

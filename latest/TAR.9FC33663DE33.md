@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-513f18841fc8732ce31cf960
 
 
-Pripažinti netekusiu galios Lietuvos Respublikos darbo sutarties įstatymo 29 straipsnio papildymo įstatymo įgyvendinimo įstatymą.
+Pripažinti netekusiu galios [Lietuvos Respublikos darbo sutarties įstatymo 29 straipsnio papildymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.B010E1382851) įgyvendinimo įstatymą.
 
 
 

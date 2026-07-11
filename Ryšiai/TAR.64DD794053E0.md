@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.522B3E415B52#^s-16e97f1ad515a000b7f6b4e9|Lietuvos Respublikos teismų įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 68(1), 68(2), 68(4), 68(5) IR 68(6) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.522B3E415B52#^s-16e97f1ad515a000b7f6b4e9|Lietuvos Respublikos teismų įstatymas]] - LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 68(1), 68(2), 68(4), 68(5) IR 68(6) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

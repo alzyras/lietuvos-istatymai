@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Papildomo protokolo ratifikavimas ^s-6c38b7940f371ccaf3281019
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-4bc8872820546bc80e813288|Tarptautinių sutarčių įstatymo 7 straipsnio 2 dalimi]] ir atsižvelgdamas į Respublikos Prezidento 2000 m. spalio 4 d. dekretą Nr. 1016, ratifikuoja Nuteistųjų asmenų perdavimo konvencijos 1997 metų papildomą protokolą, pasirašytą 2000 m. birželio 8 d. Londone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-4bc8872820546bc80e813288|Tarptautinių sutarčių įstatymo 7 straipsnio 2 dalimi]] ir atsižvelgdamas į Respublikos Prezidento [2000 m. spalio 4 d. dekretą Nr. 1016](https://e-tar.lt/portal/lt/legalAct/TAR.D948C1450EBA), ratifikuoja Nuteistųjų asmenų perdavimo konvencijos 1997 metų papildomą protokolą, pasirašytą 2000 m. birželio 8 d. Londone.
 
 
 

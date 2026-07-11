@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos akcinių bendrovių \"Būtingės nafta\", \"M
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A0BAB27D768C|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas]] - 2 citatos - Nacionalinio saugumo pagrindų įstatymo
+- [[latest/TAR.A0BAB27D768C|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas]] - Nacionalinio saugumo pagrindų įstatymo
 
 ## Šį įstatymą cituoja
 

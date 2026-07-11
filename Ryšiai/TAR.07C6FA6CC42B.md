@@ -10,7 +10,7 @@ pavadinimas: "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 5 
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas]] - Mokesčio už aplinkos teršimą įstatymo
-- [[latest/TAR.7E966DA54042|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo pakeitimo įstatymas]] - 2002 m. sausio 22 d. įstatymo Nr. IX-720
+- [[latest/TAR.7E966DA54042|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo pakeitimo įstatymas]] - įstatymo Nr. IX-720
 
 ## Šį įstatymą cituoja
 

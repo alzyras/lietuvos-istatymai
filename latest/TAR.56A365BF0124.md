@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-d34854fecf942b06c42196bf
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gruodžio 5 d. dekretą Nr. 1129, ratifikuoja Lietuvos Respublikos Vyriausybės ir Ukrainos Vyriausybės sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo, pasirašytą 1996 m. rugsėjo 23 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [1996 m. gruodžio 5 d. dekretą Nr. 1129](https://e-tar.lt/portal/lt/legalAct/TAR.0F70132F60CF), ratifikuoja Lietuvos Respublikos Vyriausybės ir Ukrainos Vyriausybės sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo, pasirašytą 1996 m. rugsėjo 23 d. Vilniuje.
 
 
 

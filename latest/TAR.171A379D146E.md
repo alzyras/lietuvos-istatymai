@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-00b1c6fce211db37499d2de0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. vasario 25 d. dekretą Nr. 2075, ratifikuoja Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimą dėl bendradarbiavimo masinio naikinimo ginklų platinimo prevencijos srityje ir dėl gynybos bei karinių santykių plėtojimo, pasirašytą 2002 m. spalio 10 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. vasario 25 d. dekretą Nr. 2075](https://e-tar.lt/portal/lt/legalAct/TAR.570CE575A00C), ratifikuoja Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimą dėl bendradarbiavimo masinio naikinimo ginklų platinimo prevencijos srityje ir dėl gynybos bei karinių santykių plėtojimo, pasirašytą 2002 m. spalio 10 d. Vilniuje.
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-b3fa46857afc56150fa582b7
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. balandžio 14 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl tarptautinės Europos ir Viduržemio jūros regiono augalų apsaugos organizacijos įkūrimo“, ratifikuoja Konvenciją dėl Europos ir Viduržemio jūros regiono augalų apsaugos organizacijos įkūrimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. balandžio 14 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl tarptautinės Europos ir Viduržemio jūros regiono augalų apsaugos organizacijos įkūrimo“](https://e-tar.lt/portal/lt/legalAct/TAR.21C29274CE2D), ratifikuoja Konvenciją dėl Europos ir Viduržemio jūros regiono augalų apsaugos organizacijos įkūrimo.
 
 
 

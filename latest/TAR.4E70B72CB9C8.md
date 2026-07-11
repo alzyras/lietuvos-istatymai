@@ -54,7 +54,7 @@ Vilnius
 2. Pakeisti 13 straipsnio 4 dalį ir ją išdėstyti taip: ^s-52647004f7aab6adc3d4b6a0
 
 
-„[[#^s-52647004f7aab6adc3d4b6a0|Šio straipsnio 2 dalyje]] numatytos socialinės garantijos netaikomos asmenims, atsistatydinusiems dėl jiems pareikšto nepasitikėjimo šio įstatymo 11 straipsnio nustatyta tvarka, taip pat dėl to, kad šie asmenys paskirti arba išrinkti į kitas pareigas valstybės įstaigoje, organizacijoje, valstybės ar savivaldybės įmonėje.“
+„Šio straipsnio 2 dalyje numatytos socialinės garantijos netaikomos asmenims, atsistatydinusiems dėl jiems pareikšto nepasitikėjimo šio įstatymo 11 straipsnio nustatyta tvarka, taip pat dėl to, kad šie asmenys paskirti arba išrinkti į kitas pareigas valstybės įstaigoje, organizacijoje, valstybės ar savivaldybės įmonėje.“
 
 
 

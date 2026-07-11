@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 2 punkto antrosios pastraipos pripažinimas netekusia galios ^s-8472aa659badf52f82a43e68
 
 
-Pripažinti netekusia galios Lietuvos Respublikos Seimo 1994 m. gruodžio 22 d. nutarimo Nr. I-727 „Dėl Europos 1990 metų konvencijos dėl pinigų išplovimo ir nusikalstamu būdu įgytų pajamų paieškos, arešto bei konfiskavimo“ 2 punkto antrąją pastraipą.
+Pripažinti netekusia galios Lietuvos Respublikos Seimo [1994 m. gruodžio 22 d. nutarimo Nr. I-727](https://e-tar.lt/portal/lt/legalAct/TAR.3CE73D3D43BC) „Dėl Europos 1990 metų konvencijos dėl pinigų išplovimo ir nusikalstamu būdu įgytų pajamų paieškos, arešto bei konfiskavimo“ 2 punkto antrąją pastraipą.
 
 
 

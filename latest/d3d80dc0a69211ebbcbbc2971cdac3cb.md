@@ -58,7 +58,7 @@ užtraukia baudą nuo vieno tūkstančio keturių šimtų iki trijų tūkstanči
 užtraukia baudą nuo vieno tūkstančio aštuonių šimtų iki dviejų tūkstančių devynių šimtų eurų.
 
 
-4. Už šio straipsnio 1, [[#^s-df4d05cf9528c62717ff05e2|2 dalyse]] numatytus administracinius nusižengimus gali būti skiriamas narkotinių ar psichotropinių medžiagų pirmtakų (prekursorių) ir į oficialų sąrašą neįtrauktų medžiagų konfiskavimas. Už [[#^s-61d63f1fb71eca5c0bd69147|šio straipsnio 3 dalyje]] numatytą administracinį nusižengimą privaloma skirti narkotinių ar psichotropinių medžiagų pirmtakų (prekursorių) konfiskavimą.“ ^s-9534c53df80c3ec17b51742d
+4. Už šio straipsnio [[#^s-b3308afb790ca83f449a05e2|1]], [[#^s-df4d05cf9528c62717ff05e2|2]] dalyse numatytus administracinius nusižengimus gali būti skiriamas narkotinių ar psichotropinių medžiagų pirmtakų (prekursorių) ir į oficialų sąrašą neįtrauktų medžiagų konfiskavimas. Už [[#^s-61d63f1fb71eca5c0bd69147|šio straipsnio 3 dalyje]] numatytą administracinį nusižengimą privaloma skirti narkotinių ar psichotropinių medžiagų pirmtakų (prekursorių) konfiskavimą.“ ^s-9534c53df80c3ec17b51742d
 
 
 ### 2 straipsnis. Įstatymo įsigaliojimas ^s-817e2e00a450bd129cb0784d

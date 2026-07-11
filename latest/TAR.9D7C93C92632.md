@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-bfc1582ccacb6c51367787a6
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 22 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Uzbekistano Respublikos Vyriausybės susitarimą dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais“, ratifikuoja 1997 m. vasario 20 d. Taškente pasirašytą Lietuvos Respublikos Vyriausybės ir Uzbekistano Respublikos Vyriausybės susitarimą dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 22 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Uzbekistano Respublikos Vyriausybės susitarimą dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais“](https://e-tar.lt/portal/lt/legalAct/TAR.52B5CC396A89), ratifikuoja 1997 m. vasario 20 d. Taškente pasirašytą Lietuvos Respublikos Vyriausybės ir Uzbekistano Respublikos Vyriausybės susitarimą dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais.
 
 
 

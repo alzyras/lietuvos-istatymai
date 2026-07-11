@@ -469,7 +469,7 @@ Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
 ### 4 straipsnis. Krašto apsaugos sistemos institucijų veiklos teisiniai pagrindai ^s-42846c59c89cc5ac0c74c7df
 
 
-Krašto apsaugos sistemos institucijos savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, įstatymais ir kitais Seimo priimtais teisės aktais, Respublikos Prezidento dekretais, Vyriausybės nutarimais, krašto apsaugos ministro įsakymais ir Lietuvos Respublikos tarptautinėmis sutartimis.
+Krašto apsaugos sistemos institucijos savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymais ir kitais Seimo priimtais teisės aktais, Respublikos Prezidento dekretais, Vyriausybės nutarimais, krašto apsaugos ministro įsakymais ir Lietuvos Respublikos tarptautinėmis sutartimis.
 
 
 
@@ -528,10 +528,10 @@ Nr. X-1558, 2008-05-22, Žin., 2008, Nr. 65-2457 (2008-06-07)
 ### 51 straipsnis. Asmens duomenų tvarkymas ^s-1feeb22582942e2b174b78d7
 
 
-1. Krašto apsaugos sistemos institucijos, administruodamos tikrąją karo tarnybą, asmenų, stojančių į tikrąją karo tarnybą ir atliekančių tikrąją karo tarnybą, asmens duomenis, taip pat krašto apsaugos sistemos institucijos karinių operacijų planavimo, rengimosi joms ar jų vykdymo metu surinktus asmens duomenis tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu]] (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu. Šiais tikslais krašto apsaugos sistemos institucijos turi teisę tvarkyti ir specialių kategorijų asmens duomenis. ^s-ae2f889c4f83bdd521d20ff1
+1. Krašto apsaugos sistemos institucijos, administruodamos tikrąją karo tarnybą, asmenų, stojančių į tikrąją karo tarnybą ir atliekančių tikrąją karo tarnybą, asmens duomenis, taip pat krašto apsaugos sistemos institucijos karinių operacijų planavimo, rengimosi joms ar jų vykdymo metu surinktus asmens duomenis tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu]] (toliau – [[latest/TAR.299D835159BE|Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas]]) ir šiuo įstatymu. Šiais tikslais krašto apsaugos sistemos institucijos turi teisę tvarkyti ir specialių kategorijų asmens duomenis. ^s-ae2f889c4f83bdd521d20ff1
 
 
-2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-90085bd3a07bb89613b1ce99|11 straipsnio 2 dalyje]], [[#^s-70eaed89db05358284307677|14 straipsnio 5 dalyje]], 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (asmenims, stojantiems į tikrąją karo tarnybą, atliekantiems tikrąją karo tarnybą, asmenims, kurių asmens duomenis krašto apsaugos sistemos institucijos surinko karinės operacijos planavimo, rengimosi jai ar jos vykdymo metu) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-bf0bd50fa8fe2d6b612b2d0e|12 straipsnyje]], [[#^s-3b9f9fea8db3b2f91c8d408a|14 straipsnio]] 1, 2 ir 3 dalyse nustatytos duomenų subjektų (asmenų, stojančių į tikrąją karo tarnybą, atliekančių tikrąją karo tarnybą, asmenų, kurių asmens duomenis krašto apsaugos sistemos institucijos surinko karinės operacijos planavimo, rengimosi jai ar jos vykdymo metu) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (arba) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma arba gali būti sukliudyta užtikrinti tikrosios karo tarnybos atlikimą, planuoti karines operacijas, joms rengtis ir (arba) jas vykdyti. Krašto apsaugos sistemos institucijos turi kiekvienu konkrečiu atveju krašto apsaugos ministro ar jo įgalioto asmens nustatyta tvarka įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu. ^s-a642aac039570ca7e2179863
+2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-90085bd3a07bb89613b1ce99|11 straipsnio 2 dalyje]], [[#^s-70eaed89db05358284307677|14 straipsnio 5 dalyje]], 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (asmenims, stojantiems į tikrąją karo tarnybą, atliekantiems tikrąją karo tarnybą, asmenims, kurių asmens duomenis krašto apsaugos sistemos institucijos surinko karinės operacijos planavimo, rengimosi jai ar jos vykdymo metu) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-bf0bd50fa8fe2d6b612b2d0e|12 straipsnyje]], [[#^s-3b9f9fea8db3b2f91c8d408a|14 straipsnio]] [[#^s-a708ae898b07e3b47fb94afb|1]], [[#^s-bb2c736fcaa09b491f8dc8f4|2]] ir [[#^s-c1440c4f0ced3f0279d05342|3]] dalyse nustatytos duomenų subjektų (asmenų, stojančių į tikrąją karo tarnybą, atliekančių tikrąją karo tarnybą, asmenų, kurių asmens duomenis krašto apsaugos sistemos institucijos surinko karinės operacijos planavimo, rengimosi jai ar jos vykdymo metu) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (arba) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma arba gali būti sukliudyta užtikrinti tikrosios karo tarnybos atlikimą, planuoti karines operacijas, joms rengtis ir (arba) jas vykdyti. Krašto apsaugos sistemos institucijos turi kiekvienu konkrečiu atveju krašto apsaugos ministro ar jo įgalioto asmens nustatyta tvarka įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu. ^s-a642aac039570ca7e2179863
 
 
 Papildyta straipsniu:
@@ -692,7 +692,7 @@ Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
 
 
 
-10) finansuoti eksperimentinę plėtrą ir inovacinę veiklą gynybos ir saugumo srityje [[latest/303806a0869411e8af589337bf1eb893|Lietuvos Respublikos technologijų ir inovacijų įstatymo]] ir Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo nustatyta tvarka. Krašto apsaugos ministerija nefinansuoja eksperimentinės plėtros ar inovacinės veiklos, jeigu tai prieštarautų nacionalinio saugumo interesams. Informaciją, ar ketinantys vykdyti arba vykdantys eksperimentinę plėtrą ar inovacinę veiklą ūkio subjektai keltų grėsmę nacionalinio saugumo interesams, pagal Krašto apsaugos ministerijos kreipimąsi teikia institucijos, nurodytos [[latest/TAR.57E0E8B29108#^s-279aa6701b4db5a56f938325|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 12 straipsnio 7 dalyje]], o krašto apsaugos ministro sprendimu – ir kitos institucijos, vadovaudamosi [[latest/TAR.57E0E8B29108|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme]] nurodytais investuotojų patikros dėl atitikties nacionalinio saugumo interesams vertinimo kriterijais. ^s-42ed0e74a8324d25ca62e252
+10) finansuoti eksperimentinę plėtrą ir inovacinę veiklą gynybos ir saugumo srityje [[latest/303806a0869411e8af589337bf1eb893|Lietuvos Respublikos technologijų ir inovacijų įstatymo]] ir [Lietuvos Respublikos nacionalinių plėtros įstaigų įstatymo](https://e-tar.lt/portal/lt/legalAct/63fc0b406f9611e8ae2bfd1913d66d57) nustatyta tvarka. Krašto apsaugos ministerija nefinansuoja eksperimentinės plėtros ar inovacinės veiklos, jeigu tai prieštarautų nacionalinio saugumo interesams. Informaciją, ar ketinantys vykdyti arba vykdantys eksperimentinę plėtrą ar inovacinę veiklą ūkio subjektai keltų grėsmę nacionalinio saugumo interesams, pagal Krašto apsaugos ministerijos kreipimąsi teikia institucijos, nurodytos [[latest/TAR.57E0E8B29108#^s-279aa6701b4db5a56f938325|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 12 straipsnio 7 dalyje]], o krašto apsaugos ministro sprendimu – ir kitos institucijos, vadovaudamosi [[latest/TAR.57E0E8B29108|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme]] nurodytais investuotojų patikros dėl atitikties nacionalinio saugumo interesams vertinimo kriterijais. ^s-42ed0e74a8324d25ca62e252
 Papildyta straipsnio punktu:
 Nr. XIII-3436, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24612
 Straipsnio punkto pakeitimai:
@@ -852,7 +852,7 @@ Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
 
 
 
-14) teikia Respublikos Prezidentui pasiūlymus suteikti kariams pulkininko (jūrų kapitono) ir generolų (admirolų) laipsnius ir, vadovaudamasis Lietuvos Respublikos Konstitucijos 85 straipsniu, pasirašo Respublikos Prezidento aktus-dekretus dėl aukščiausių karinių laipsnių suteikimo; ^s-2bb327427a5673b3301646cc
+14) teikia Respublikos Prezidentui pasiūlymus suteikti kariams pulkininko (jūrų kapitono) ir generolų (admirolų) laipsnius ir, vadovaudamasis Lietuvos Respublikos Konstitucijos 85 straipsniu, pasirašo Respublikos Prezidento aktus-dekretus [dėl aukščiausių karinių laipsnių suteikimo](https://e-tar.lt/portal/lt/legalAct/TAR.1CBE4AC1C44E); ^s-2bb327427a5673b3301646cc
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
 
@@ -1659,7 +1659,7 @@ Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
 
 
 
-13. Apie šio straipsnio 2, 4, 7 ir [[#^s-bee1274b8b3cba7e9fa1f484|8 dalyse]] nurodytą įsakymą krašto apsaugos ministras privalo nedelsdamas pranešti Respublikos Prezidentui, Vyriausybei, Seimo Pirmininkui ir Seimo Nacionalinio saugumo ir gynybos komitetui. ^s-53ffeaa68d72c8f5177b49fb
+13. Apie šio straipsnio [[#^s-cf705da780da0dcf2bdb3b57|2]], [[#^s-03bd1247d7831a4eb7b9c5e6|4]], [[#^s-54d73b4d63e89d217d100691|7]] ir [[#^s-bee1274b8b3cba7e9fa1f484|8]] dalyse nurodytą įsakymą krašto apsaugos ministras privalo nedelsdamas pranešti Respublikos Prezidentui, Vyriausybei, Seimo Pirmininkui ir Seimo Nacionalinio saugumo ir gynybos komitetui. ^s-53ffeaa68d72c8f5177b49fb
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
@@ -1781,8 +1781,8 @@ Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
 
 
-13. Kariūnų, studijuojančių valstybės finansuojamose studijų vietose, įskaitant tuos, kurie iki studijų Akademijoje jau yra daugiau kaip pusę tos pačios arba aukštesnės pakopos studijų programos kreditų įgiję valstybės biudžeto lėšomis, studijos, karinis rengimas ir neformalusis švietimas Akademijoje apmokami iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Kariūnų, studijuojančių valstybės finansuojamose studijų vietose, išskyrus tuos, kurie iki studijų Akademijoje jau yra daugiau kaip pusę tos pačios arba aukštesnės pakopos studijų programos kreditų įgiję valstybės biudžeto lėšomis, išsiųstų studijuoti vadovaujantis [[#^s-8efe3825761bfe5486a895e2|šio straipsnio 8 dalies]] nuostatomis, studijos kitose Lietuvos aukštosiose mokyklose apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Krašto apsaugos ministerija turi teisę apmokėti asmenų, studijuojančių valstybės nefinansuojamose studijų vietose, įskaitant tuos, kurie iki studijų Akademijoje jau yra daugiau kaip pusę tos pačios arba aukštesnės pakopos studijų programos kreditų įgiję valstybės biudžeto lėšomis, studijų, karinio rengimo ir neformalaus švietimo Akademijoje kainą arba jos dalį iš patvirtintų valstybės biudžeto asignavimų Vyriausybės nustatyta tvarka. Už kariūnų studijas kitose Lietuvos aukštosiose mokyklose mokama ne didesnė negu norminė studijų kaina. Akademijoje studijuojančių kariūnų studijų valstybės nefinansuojamose studijų vietose kaina, susidedanti iš [[latest/TAR.C595FF45F869#^s-20a6e95a48d016cbfda05d42|Mokslo ir studijų įstatymo 83 straipsnio]] 2 ir [[#^s-a33019846ae075090fca1870|3 dalyse]] nurodytų studijų išlaidų, ir karinio rengimo išlaidų dydis nustatomi krašto apsaugos ministro tvirtinamame priėmimo į Akademiją mokytis pagal universitetinių studijų programas sąlygų apraše ir kariūno tarnybos sutartyje. Kariūnams suteikiama gyvenamoji patalpa (kareivinėse). Išsiųstiems studijuoti į kitas Lietuvos aukštąsias mokyklas kariūnams gyvenamoji patalpa suteikiama krašto apsaugos ministro nustatyta tvarka. Kariūnai aprūpinami arba iš dalies aprūpinami maistu arba Akademijos statute nustatytais atvejais jiems mokama Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė kompensacija. Iš dalies maistu aprūpintiems kariūnams mokama maitinimosi išlaidų piniginė kompensacija mažinama sunaudotų maisto produktų ir maisto žaliavų, skirtų fiziologinei mitybos normai užtikrinti, kaina. Kariūnams iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų skiriamos stipendijos. Kariūnams mokamų stipendijų rūšys, jų skaičius ir dydžiai, stipendijų skyrimo ir mokėjimo tvarka nustatomi Akademijos statute. Kariūnams [[latest/TAR.C595FF45F869|Mokslo ir studijų įstatyme]] numatytos stipendijos neskiriamos. Kariūnų kelionių išlaidų atlyginimo sąlygos nustatomos Akademijos statute. Kariūnų kelionių išlaidų atlyginimo tvarką, maksimalų per dieną nuvažiuojamą atstumą į abi puses, už kurį atlyginamos kelionės išlaidos, ir kelionės ne viešuoju transportu vieno kilometro atlyginamų išlaidų dydį nustato Vyriausybė arba jos įgaliota institucija. ^s-af1e31486f27ddb383eb9ac7
-TAR pastaba.  [[#^s-af1e31486f27ddb383eb9ac7|20 straipsnio 13 dalies]] nuostata dėl studijų finansavimo iš Lietuvos Respublikos krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų už studijų laikotarpį nuo 2025 m. liepos 1 d. taikoma ir iki 2025 m. birželio 30 d. į nefinansuojamas studijų vietas įstojusiems kariūnams.
+13. Kariūnų, studijuojančių valstybės finansuojamose studijų vietose, įskaitant tuos, kurie iki studijų Akademijoje jau yra daugiau kaip pusę tos pačios arba aukštesnės pakopos studijų programos kreditų įgiję valstybės biudžeto lėšomis, studijos, karinis rengimas ir neformalusis švietimas Akademijoje apmokami iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Kariūnų, studijuojančių valstybės finansuojamose studijų vietose, išskyrus tuos, kurie iki studijų Akademijoje jau yra daugiau kaip pusę tos pačios arba aukštesnės pakopos studijų programos kreditų įgiję valstybės biudžeto lėšomis, išsiųstų studijuoti vadovaujantis [[#^s-8efe3825761bfe5486a895e2|šio straipsnio 8 dalies]] nuostatomis, studijos kitose Lietuvos aukštosiose mokyklose apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Krašto apsaugos ministerija turi teisę apmokėti asmenų, studijuojančių valstybės nefinansuojamose studijų vietose, įskaitant tuos, kurie iki studijų Akademijoje jau yra daugiau kaip pusę tos pačios arba aukštesnės pakopos studijų programos kreditų įgiję valstybės biudžeto lėšomis, studijų, karinio rengimo ir neformalaus švietimo Akademijoje kainą arba jos dalį iš patvirtintų valstybės biudžeto asignavimų Vyriausybės nustatyta tvarka. Už kariūnų studijas kitose Lietuvos aukštosiose mokyklose mokama ne didesnė negu norminė studijų kaina. Akademijoje studijuojančių kariūnų studijų valstybės nefinansuojamose studijų vietose kaina, susidedanti iš [[latest/TAR.C595FF45F869#^s-20a6e95a48d016cbfda05d42|Mokslo ir studijų įstatymo 83 straipsnio]] [[latest/TAR.C595FF45F869#^s-1073ce2e746177f9919c0f76|2]] ir [[latest/TAR.C595FF45F869#^s-d07bef7a44aff3258f70df86|3]] dalyse nurodytų studijų išlaidų, ir karinio rengimo išlaidų dydis nustatomi krašto apsaugos ministro tvirtinamame priėmimo į Akademiją mokytis pagal universitetinių studijų programas sąlygų apraše ir kariūno tarnybos sutartyje. Kariūnams suteikiama gyvenamoji patalpa (kareivinėse). Išsiųstiems studijuoti į kitas Lietuvos aukštąsias mokyklas kariūnams gyvenamoji patalpa suteikiama krašto apsaugos ministro nustatyta tvarka. Kariūnai aprūpinami arba iš dalies aprūpinami maistu arba Akademijos statute nustatytais atvejais jiems mokama Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė kompensacija. Iš dalies maistu aprūpintiems kariūnams mokama maitinimosi išlaidų piniginė kompensacija mažinama sunaudotų maisto produktų ir maisto žaliavų, skirtų fiziologinei mitybos normai užtikrinti, kaina. Kariūnams iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų skiriamos stipendijos. Kariūnams mokamų stipendijų rūšys, jų skaičius ir dydžiai, stipendijų skyrimo ir mokėjimo tvarka nustatomi Akademijos statute. Kariūnams [[latest/TAR.C595FF45F869|Mokslo ir studijų įstatyme]] numatytos stipendijos neskiriamos. Kariūnų kelionių išlaidų atlyginimo sąlygos nustatomos Akademijos statute. Kariūnų kelionių išlaidų atlyginimo tvarką, maksimalų per dieną nuvažiuojamą atstumą į abi puses, už kurį atlyginamos kelionės išlaidos, ir kelionės ne viešuoju transportu vieno kilometro atlyginamų išlaidų dydį nustato Vyriausybė arba jos įgaliota institucija. ^s-af1e31486f27ddb383eb9ac7
+TAR pastaba.  20 straipsnio 13 dalies nuostata dėl studijų finansavimo iš Lietuvos Respublikos krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų už studijų laikotarpį nuo 2025 m. liepos 1 d. taikoma ir iki 2025 m. birželio 30 d. į nefinansuojamas studijų vietas įstojusiems kariūnams.
 Straipsnio dalies pakeitimai:
 Nr. XIV-437, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14794
 Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
@@ -1790,7 +1790,7 @@ Nr. XV-340, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12000
 
 
 
-131. Kariūnams, išsiųstiems mokytis užsienio valstybių karo mokymo įstaigose ar aukštosiose mokyklose, jeigu [[#^s-a88d791b058edbdaf59bea91|šio straipsnio 71 dalyje]] nurodytuose susitarimuose nesusitarta, kad šioje dalyje numatytą stipendiją moka ir aprūpinimo sąlygas užtikrina užsienio valstybės karo mokymo įstaiga ar aukštoji mokykla, iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų mokama Akademijos statute nustatyto dydžio stipendija, taikomos šio įstatymo [[#^s-117e7f62ab358a43db426915|49 straipsnio]] 5, 6, 8, 9 ir [[#^s-3b8e0b1076fcead0a70cd5a4|10 dalyse]] nustatytos aprūpinimo, išskyrus ryšių išlaidas ir netarnybinio automobilio naudojimo išmokas, sąlygos. ^s-416a2b1351b092c659e52a99
+131. Kariūnams, išsiųstiems mokytis užsienio valstybių karo mokymo įstaigose ar aukštosiose mokyklose, jeigu [[#^s-a88d791b058edbdaf59bea91|šio straipsnio 71 dalyje]] nurodytuose susitarimuose nesusitarta, kad šioje dalyje numatytą stipendiją moka ir aprūpinimo sąlygas užtikrina užsienio valstybės karo mokymo įstaiga ar aukštoji mokykla, iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų mokama Akademijos statute nustatyto dydžio stipendija, taikomos šio įstatymo [[#^s-117e7f62ab358a43db426915|49 straipsnio]] [[#^s-0cd163692a4419b110544529|5]], [[#^s-dc4ac1150694e4fea19f56c4|6]], [[#^s-e0eae785eed2219fb37da6c7|8]], [[#^s-17247e7eae44e6b8b4a5da37|9]] ir [[#^s-e7f2945402a1476fb562120a|10]] dalyse nustatytos aprūpinimo, išskyrus ryšių išlaidas ir netarnybinio automobilio naudojimo išmokas, sąlygos. ^s-416a2b1351b092c659e52a99
 Papildyta straipsnio dalimi:
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 
@@ -2215,7 +2215,7 @@ Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
 5. Esant krašto apsaugos sistemos poreikiui, krašto apsaugos ministras, gavęs atitinkamos šalies sutikimą, turi teisę priimti kariniu patarėju ar ekspertu šalies NATO narės kariuomenės ar atsargos karininką ne Lietuvos Respublikos pilietį pagal terminuotą sutartį ir nustatyti jo pareigas, teises, atsakomybę bei kitas sutarties  sąlygas. Tokios sutarties terminas negali būti ilgesnis kaip 2 metai, o jam pasibaigus su tuo pačiu asmeniu šioje dalyje nustatytomis sąlygomis gali būti sudaryta nauja sutartis. ^s-79228b7e7aaa5e9f81ec6f81
 
 
-6. Asmenys, norintys stoti į profesinę karo tarnybą, ir profesinės karo tarnybos kariai privalo pateikti krašto apsaugos ministro nustatytą informaciją apie save. Krašto apsaugos ministerija ar kita įgaliota krašto apsaugos sistemos institucija ar jos padalinys turi teisę gauti iš valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų bei jų padalinių, taip pat registrų, informacinių sistemų turimą informaciją, dokumentus, duomenis, įskaitant asmens duomenis, reikalingus patikrinti, ar asmuo, norintis stoti į profesinę karo tarnybą, atitinka šio straipsnio 1 ir [[#^s-995faa897ada91859b29dd65|4 dalyse]] nustatytus reikalavimus, o šioje dalyje nurodyti duomenų teikėjai privalo Krašto apsaugos ministerijos ar kitos įgaliotos krašto apsaugos sistemos institucijos ar jos padalinio prašymu tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, pateikti. ^s-aab791ab9226f7ca226a1719
+6. Asmenys, norintys stoti į profesinę karo tarnybą, ir profesinės karo tarnybos kariai privalo pateikti krašto apsaugos ministro nustatytą informaciją apie save. Krašto apsaugos ministerija ar kita įgaliota krašto apsaugos sistemos institucija ar jos padalinys turi teisę gauti iš valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų bei jų padalinių, taip pat registrų, informacinių sistemų turimą informaciją, dokumentus, duomenis, įskaitant asmens duomenis, reikalingus patikrinti, ar asmuo, norintis stoti į profesinę karo tarnybą, atitinka šio straipsnio [[#^s-89dbf8639be1ada118dd5288|1]] ir [[#^s-995faa897ada91859b29dd65|4]] dalyse nustatytus reikalavimus, o šioje dalyje nurodyti duomenų teikėjai privalo Krašto apsaugos ministerijos ar kitos įgaliotos krašto apsaugos sistemos institucijos ar jos padalinio prašymu tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, pateikti. ^s-aab791ab9226f7ca226a1719
 Straipsnio dalies pakeitimai:
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
@@ -2264,7 +2264,7 @@ Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
 5. Į savanorišką nenuolatinę karo tarnybą, išskyrus savanorių karo tarnybą, priimama savanoriškos nenuolatinės karo tarnybos kario sutarties pagrindu. ^s-72d22174f38e6b69002bf15c
 
 
-6. Iki kario savanorio ar savanoriškos nenuolatinės karo tarnybos kario sutarties sudarymo krašto apsaugos sistemos institucijos patikrina, ar nėra aplinkybių, galinčių kliudyti atlikti savanorių karo tarnybą ar kitą savanorišką nenuolatinę karo tarnybą. Krašto apsaugos ministerija ar kita įgaliota krašto apsaugos sistemos institucija ar jos padalinys turi teisę gauti iš valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų bei jų padalinių, taip pat registrų, informacinių sistemų turimą informaciją, dokumentus, duomenis, įskaitant asmens duomenis, reikalingus patikrinti, ar asmuo, norintis stoti į savanorių karo tarnybą ar kitą savanorišką nenuolatinę karo tarnybą, atitinka šio straipsnio 1 ir [[#^s-1f230dcd6d7c5eeae7d48602|3 dalyse]] nustatytus reikalavimus, o šioje dalyje nurodyti duomenų teikėjai privalo Krašto apsaugos ministerijos ar kitos įgaliotos krašto apsaugos sistemos institucijos ar jos padalinio prašymu  tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, pateikti. ^s-0480c44257befde7880cc0ff
+6. Iki kario savanorio ar savanoriškos nenuolatinės karo tarnybos kario sutarties sudarymo krašto apsaugos sistemos institucijos patikrina, ar nėra aplinkybių, galinčių kliudyti atlikti savanorių karo tarnybą ar kitą savanorišką nenuolatinę karo tarnybą. Krašto apsaugos ministerija ar kita įgaliota krašto apsaugos sistemos institucija ar jos padalinys turi teisę gauti iš valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų bei jų padalinių, taip pat registrų, informacinių sistemų turimą informaciją, dokumentus, duomenis, įskaitant asmens duomenis, reikalingus patikrinti, ar asmuo, norintis stoti į savanorių karo tarnybą ar kitą savanorišką nenuolatinę karo tarnybą, atitinka šio straipsnio [[#^s-414feddf1a50215459ec4856|1]] ir [[#^s-1f230dcd6d7c5eeae7d48602|3]] dalyse nustatytus reikalavimus, o šioje dalyje nurodyti duomenų teikėjai privalo Krašto apsaugos ministerijos ar kitos įgaliotos krašto apsaugos sistemos institucijos ar jos padalinio prašymu  tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, pateikti. ^s-0480c44257befde7880cc0ff
 
 
 Straipsnio pakeitimai:
@@ -2309,7 +2309,7 @@ Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
 
 
 
-3. Pasibaigus profesinės karo tarnybos sutarties laikotarpiui ir (ar) terminui, sutartis su kariu, turinčiu mažesnį negu 8 metų nepertraukiamą profesinės karo tarnybos stažą, gali būti pratęsta ne ilgiau kaip 5 metams; turinčiu 8 metų ir didesnį nepertraukiamą profesinės karo tarnybos stažą, bet neįgijusiu teisės į pareigūnų ir karių valstybinę pensiją pagal ištarnautus metus, – ne ilgiau kaip iki teisės į pareigūnų ir karių valstybinę pensiją pagal ištarnautus metus įgijimo; įgijusiu teisę į pareigūnų ir karių valstybinę pensiją pagal ištarnautus metus, – ne ilgiau kaip 5 metams. Visais atvejais sutartys pratęsiamos laikotarpiui, ne ilgesniam kaip iki tos dienos, kurią kariui sukaks šio įstatymo [[#^s-74a255f72c41e260aac3d84a|45 straipsnio]] 4 ir [[#^s-9a1a0353a0c780a6699f051f|6 dalyse]] nustatytas išleidimo į atsargą amžius. ^s-404e249cc23ea6a1dab81ba2
+3. Pasibaigus profesinės karo tarnybos sutarties laikotarpiui ir (ar) terminui, sutartis su kariu, turinčiu mažesnį negu 8 metų nepertraukiamą profesinės karo tarnybos stažą, gali būti pratęsta ne ilgiau kaip 5 metams; turinčiu 8 metų ir didesnį nepertraukiamą profesinės karo tarnybos stažą, bet neįgijusiu teisės į pareigūnų ir karių valstybinę pensiją pagal ištarnautus metus, – ne ilgiau kaip iki teisės į pareigūnų ir karių valstybinę pensiją pagal ištarnautus metus įgijimo; įgijusiu teisę į pareigūnų ir karių valstybinę pensiją pagal ištarnautus metus, – ne ilgiau kaip 5 metams. Visais atvejais sutartys pratęsiamos laikotarpiui, ne ilgesniam kaip iki tos dienos, kurią kariui sukaks šio įstatymo [[#^s-74a255f72c41e260aac3d84a|45 straipsnio]] [[#^s-ccf8b0bdfea1d999727b298d|4]] ir [[#^s-fa958cd62e19e7298336ad83|6]] dalyse nustatytas išleidimo į atsargą amžius. ^s-404e249cc23ea6a1dab81ba2
 Straipsnio dalies pakeitimai:
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
@@ -2317,7 +2317,7 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 
 
 
-4. Neatsižvelgiant į profesinės karo tarnybos sutarties terminą, šio įstatymo 37 ir [[#^s-fe76eb7a9bd7b2f84723a03a|38 straipsniuose]] numatytais atvejais ji gali būti nutraukta prieš terminą. ^s-b14fc5110f22120a69073b87
+4. Neatsižvelgiant į profesinės karo tarnybos sutarties terminą, šio įstatymo [[#^s-95e76d8bad0973888425a319|37]] ir [[#^s-fe76eb7a9bd7b2f84723a03a|38]] straipsniuose numatytais atvejais ji gali būti nutraukta prieš terminą. ^s-b14fc5110f22120a69073b87
 
 
 5. Krašto apsaugos ministras profesinės karo tarnybos sutartis sudaro ir jas pratęsia: ^s-068f79d187c7311f771718e4
@@ -2329,7 +2329,7 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 2) su pulkininko leitenanto (komandoro) ir aukštesnio laipsnio karininkais. ^s-84c5d5594969d579535f3ab1
 
 
-6. Laikydamiesi krašto apsaugos ministro nustatytų atrankos reikalavimų, sąlygų bei tvarkos, šio įstatymo [[#^s-74a255f72c41e260aac3d84a|45 straipsnio]] nustatytų amžiaus apribojimų ir šio straipsnio 2 ir [[#^s-404e249cc23ea6a1dab81ba2|3 dalių]] reikalavimų, Krašto apsaugos ministerijos vardu profesinės karo tarnybos sutartis sudaro ir pratęsia: ^s-9a1a0353a0c780a6699f051f
+6. Laikydamiesi krašto apsaugos ministro nustatytų atrankos reikalavimų, sąlygų bei tvarkos, šio įstatymo [[#^s-74a255f72c41e260aac3d84a|45 straipsnio]] nustatytų amžiaus apribojimų ir šio straipsnio [[#^s-839815ee435998629f24f2dc|2]] ir [[#^s-28dfe4a0bc5430efbd0652f1|3]] dalių reikalavimų, Krašto apsaugos ministerijos vardu profesinės karo tarnybos sutartis sudaro ir pratęsia: ^s-9a1a0353a0c780a6699f051f
 
 
 1) su kariuomenės karininkais iki majoro imtinai – kariuomenės vadas; ^s-b574e0bf45deb04be6ae46bd
@@ -2622,7 +2622,7 @@ Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
 
 
-13. Krašto apsaugos ministerija ar kita įgaliota krašto apsaugos sistemos institucija ar jos padalinys turi teisę gauti iš valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų bei jų padalinių, taip pat registrų, informacinių sistemų turimą informaciją, dokumentus, duomenis, įskaitant asmens duomenis, reikalingus patikrinti, ar karys atitinka [[#^s-f97dfb6d33d39c45579a1ae9|šio straipsnio 1 dalies 1 punkte]], 5, 7, 11 ir [[#^s-a2a00e7176d67f0e56b116d0|12 dalyse]] nustatytus reikalavimus, o šioje dalyje nurodyti duomenų teikėjai Krašto apsaugos ministerijos ar kitos įgaliotos krašto apsaugos sistemos institucijos ar jos padalinio prašymu privalo tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, pateikti.“ ^s-060b043b2c6e58818ca7074f
+13. Krašto apsaugos ministerija ar kita įgaliota krašto apsaugos sistemos institucija ar jos padalinys turi teisę gauti iš valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų bei jų padalinių, taip pat registrų, informacinių sistemų turimą informaciją, dokumentus, duomenis, įskaitant asmens duomenis, reikalingus patikrinti, ar karys atitinka [[#^s-f97dfb6d33d39c45579a1ae9|šio straipsnio 1 dalies 1 punkte]], [[#^s-fa824014ef71d4bb45bf76d2|5]], [[#^s-15ad14195f660af95cb1fc4d|7]], [[#^s-45b53536268eb7c7fdc69043|11]] ir [[#^s-a2a00e7176d67f0e56b116d0|12]] dalyse nustatytus reikalavimus, o šioje dalyje nurodyti duomenų teikėjai Krašto apsaugos ministerijos ar kitos įgaliotos krašto apsaugos sistemos institucijos ar jos padalinio prašymu privalo tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, pateikti.“ ^s-060b043b2c6e58818ca7074f
 Papildyta straipsnio dalimi:
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
@@ -2690,7 +2690,7 @@ Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
 
 
-7) pasibaigia profesinės karo tarnybos, kario savanorio ar savanoriškos nenuolatinės karo tarnybos kario sutarties terminas arba kariui sukanka šio įstatymo [[#^s-74a255f72c41e260aac3d84a|45 straipsnio]] 4, 6 dalyse, išskyrus šio įstatymo [[#^s-b7f01aa308de91d1c641f1a1|461 straipsnyje]] nustatytą atvejį ar [[#^s-6438cdadc7c164785b1013f7|32 straipsnio 3 dalyje]], [[#^s-95d7efcbb1f1453d35da2425|321 straipsnio 3 dalyje]] nustatytas amžius; ^s-5c4ca8a722a977fb7b90e947
+7) pasibaigia profesinės karo tarnybos, kario savanorio ar savanoriškos nenuolatinės karo tarnybos kario sutarties terminas arba kariui sukanka šio įstatymo [[#^s-74a255f72c41e260aac3d84a|45 straipsnio]] [[#^s-ccf8b0bdfea1d999727b298d|4]], [[#^s-fa958cd62e19e7298336ad83|6]] dalyse, išskyrus šio įstatymo [[#^s-b7f01aa308de91d1c641f1a1|461 straipsnyje]] nustatytą atvejį ar [[#^s-6438cdadc7c164785b1013f7|32 straipsnio 3 dalyje]], [[#^s-95d7efcbb1f1453d35da2425|321 straipsnio 3 dalyje]] nustatytas amžius; ^s-5c4ca8a722a977fb7b90e947
 Straipsnio punkto pakeitimai:
 Nr. XV-340, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12000
 
@@ -2778,16 +2778,16 @@ Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 ### 39 straipsnis. Profesinės karo tarnybos sutarties nutraukimo ne dėl kario kaltės sąlygos ^s-ec94ed5e52244e76c120d41c
 
 
-1. Krašto apsaugos ministerijos ar kariuomenės vadovybė savo iniciatyva arba valia, jei nėra kario kaltės (šio įstatymo [[#^s-67ca71e21591e8bf3ed0c2fe|38 straipsnio 2 dalies]] 1, 2, 5, 6, 12 ir 13 punktai), gali nutraukti profesinės karo tarnybos sutartį karį įspėjusi ne mažiau kaip prieš du mėnesius arba ir neįspėjusi, tačiau išmokėdama kariui 40 straipsnio 3 dalyje nustatytą papildomą kompensaciją. ^s-a118118b263c8562279b9a07
+1. Krašto apsaugos ministerijos ar kariuomenės vadovybė savo iniciatyva arba valia, jei nėra kario kaltės (šio įstatymo [[#^s-67ca71e21591e8bf3ed0c2fe|38 straipsnio 2 dalies]] [[#^s-fa281f4528f83e933ad2e381|1]], [[#^s-5634ecaa8d151a86006e2cbe|2]], [[#^s-8019dab287ee0c7b7745a323|5]], [[#^s-7151dfdf0fadd6b198787641|6]], [[#^s-e12e940541746b0a14602dee|12]] ir [[#^s-04d136cdec52ccd73eed4d8b|13]] punktai), gali nutraukti profesinės karo tarnybos sutartį karį įspėjusi ne mažiau kaip prieš du mėnesius arba ir neįspėjusi, tačiau išmokėdama kariui 40 straipsnio 3 dalyje nustatytą papildomą kompensaciją. ^s-a118118b263c8562279b9a07
 
 
-2. Profesinės karo tarnybos sutarties [[#^s-67ca71e21591e8bf3ed0c2fe|38 straipsnio 2 dalies]] 1, 2, 5, 6 ir 12 punktuose nustatytais atvejais negalima nutraukti ir kario iš karo tarnybos atleisti jo sirgimo (laikinojo nedarbingumo) metu, jeigu sirgimo laikotarpis ne ilgesnis kaip 4 mėnesiai. ^s-88418e275bd5c78ecee7f50d
+2. Profesinės karo tarnybos sutarties [[#^s-67ca71e21591e8bf3ed0c2fe|38 straipsnio 2 dalies]] [[#^s-fa281f4528f83e933ad2e381|1]], [[#^s-5634ecaa8d151a86006e2cbe|2]], [[#^s-8019dab287ee0c7b7745a323|5]], [[#^s-7151dfdf0fadd6b198787641|6]] ir [[#^s-e12e940541746b0a14602dee|12]] punktuose nustatytais atvejais negalima nutraukti ir kario iš karo tarnybos atleisti jo sirgimo (laikinojo nedarbingumo) metu, jeigu sirgimo laikotarpis ne ilgesnis kaip 4 mėnesiai. ^s-88418e275bd5c78ecee7f50d
 
 
-3. Šio įstatymo [[#^s-b025d1e3402dd03f77c6c1ae|38 straipsnio 1 dalies]] 1, 2, 3, 4, 7, 8 ir 9 punktuose ir [[#^s-88418e275bd5c78ecee7f50d|2 dalies]] 3, 7, 8 ir 13 punktuose numatytais atvejais profesinės karo tarnybos sutartis gali būti nutraukta bei karys atleistas iš karo tarnybos ir jo ligos (laikinojo nedarbingumo) metu. ^s-5d50e19a48d6906be0aa52c8
+3. Šio įstatymo [[#^s-b025d1e3402dd03f77c6c1ae|38 straipsnio 1 dalies]] [[#^s-33e5a8b9322906bc1b2bbb7e|1]], [[#^s-b86989916a220b68c9a7b887|2]], [[#^s-84ddf077e2d8468eec421cb9|3]], [[#^s-3215e15c874a65859a7be155|4]], [[#^s-5c4ca8a722a977fb7b90e947|7]], [[#^s-07679fa3c6686cdd1836069c|8]] ir [[#^s-3d9e301dcf0284f50ff7f600|9]] punktuose ir [[#^s-88418e275bd5c78ecee7f50d|2 dalies]] [[#^s-84ddf077e2d8468eec421cb9|3]], [[#^s-5c4ca8a722a977fb7b90e947|7]], [[#^s-07679fa3c6686cdd1836069c|8]] ir 13 punktuose numatytais atvejais profesinės karo tarnybos sutartis gali būti nutraukta bei karys atleistas iš karo tarnybos ir jo ligos (laikinojo nedarbingumo) metu. ^s-5d50e19a48d6906be0aa52c8
 
 
-4. Jeigu yra priimtas sprendimas nutraukti profesinės karo tarnybos sutartį šio įstatymo [[#^s-b025d1e3402dd03f77c6c1ae|38 straipsnio 1 dalies]] 5 ir 6 punktuose bei [[#^s-88418e275bd5c78ecee7f50d|2 dalies]] 4, 5, 6, 9, 10, 11 ir 12 punktuose ir [[#^s-6f67a2cfb146c56a5ee4481d|37 straipsnio 1 dalyje]] numatytais atvejais, o karys suserga iki numatytos atleidimo iš karo tarnybos dienos, iš pareigų jis gali būti atleistas ir ligos metu. Šiuo atveju jo atleidimo iš karo tarnybos diena nukeliama į kitą dieną po paskutinės ligos dienos, bet ne ilgiau kaip 60 dienų. ^s-f8b8ec665c235f26306ab492
+4. Jeigu yra priimtas sprendimas nutraukti profesinės karo tarnybos sutartį šio įstatymo [[#^s-b025d1e3402dd03f77c6c1ae|38 straipsnio 1 dalies]] [[#^s-59fabdc7681f85af55db8614|5]] ir [[#^s-bb807b48917b3b56af96fa25|6]] punktuose bei [[#^s-88418e275bd5c78ecee7f50d|2 dalies]] [[#^s-3215e15c874a65859a7be155|4]], [[#^s-59fabdc7681f85af55db8614|5]], [[#^s-bb807b48917b3b56af96fa25|6]], [[#^s-3d9e301dcf0284f50ff7f600|9]], 10, 11 ir 12 punktuose ir [[#^s-6f67a2cfb146c56a5ee4481d|37 straipsnio 1 dalyje]] numatytais atvejais, o karys suserga iki numatytos atleidimo iš karo tarnybos dienos, iš pareigų jis gali būti atleistas ir ligos metu. Šiuo atveju jo atleidimo iš karo tarnybos diena nukeliama į kitą dieną po paskutinės ligos dienos, bet ne ilgiau kaip 60 dienų. ^s-f8b8ec665c235f26306ab492
 
 
 Straipsnio pakeitimai:
@@ -2800,13 +2800,13 @@ Nr. IX-2560, 2004-11-11, Žin., 2004, Nr. 169-6215 (2004-11-23)
 ### 40 straipsnis. Išeitinė išmoka atleidžiant karį iš tarnybos ^s-2d433e2cc4feb0ade63a8630
 
 
-1. Kai profesinės karo tarnybos sutartis nutraukiama vadovybės iniciatyva arba valia ne dėl kario kaltės (šio įstatymo [[#^s-67ca71e21591e8bf3ed0c2fe|38 straipsnio 2 dalies]] 1, 2, 5, 6, 12, 13 punktai), taip pat pasibaigus profesinės karo tarnybos sutarties terminui ar profesinės karo tarnybos kariui sukakus šio įstatymo nustatytą išleidimo į atsargą amžių, jam išmokama 2 mėnesių Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jo atlyginimo dydžio išeitinė išmoka. Ši išmoka kariams, nepertraukiamai ištarnavusiems krašto apsaugos sistemoje daugiau kaip 5 metus, didinama pusantro karto, daugiau kaip 10 metų – du kartus, daugiau kaip 20 metų – tris kartus. Jeigu išleistas į atsargą karys buvo pakartotinai priimtas į profesinę karo tarnybą, atleidžiant tokį karį iš tarnybos šioje dalyje nurodytais pagrindais, išeitinė išmoka jam išmokama už ištarnautus metus, skaičiuojamus nuo paskutinio priėmimo į profesinę karo tarnybą pradžios, tačiau pagal šią dalį išmokama bendra išeitinių išmokų dydžių suma negali viršyti 6 mėnesių Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jo atlyginimo dydžio. ^s-e41c9ff5396a702ca19b14ed
+1. Kai profesinės karo tarnybos sutartis nutraukiama vadovybės iniciatyva arba valia ne dėl kario kaltės (šio įstatymo [[#^s-67ca71e21591e8bf3ed0c2fe|38 straipsnio 2 dalies]] [[#^s-fa281f4528f83e933ad2e381|1]], [[#^s-5634ecaa8d151a86006e2cbe|2]], [[#^s-8019dab287ee0c7b7745a323|5]], [[#^s-7151dfdf0fadd6b198787641|6]], [[#^s-e12e940541746b0a14602dee|12]], [[#^s-04d136cdec52ccd73eed4d8b|13]] punktai), taip pat pasibaigus profesinės karo tarnybos sutarties terminui ar profesinės karo tarnybos kariui sukakus šio įstatymo nustatytą išleidimo į atsargą amžių, jam išmokama 2 mėnesių Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jo atlyginimo dydžio išeitinė išmoka. Ši išmoka kariams, nepertraukiamai ištarnavusiems krašto apsaugos sistemoje daugiau kaip 5 metus, didinama pusantro karto, daugiau kaip 10 metų – du kartus, daugiau kaip 20 metų – tris kartus. Jeigu išleistas į atsargą karys buvo pakartotinai priimtas į profesinę karo tarnybą, atleidžiant tokį karį iš tarnybos šioje dalyje nurodytais pagrindais, išeitinė išmoka jam išmokama už ištarnautus metus, skaičiuojamus nuo paskutinio priėmimo į profesinę karo tarnybą pradžios, tačiau pagal šią dalį išmokama bendra išeitinių išmokų dydžių suma negali viršyti 6 mėnesių Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jo atlyginimo dydžio. ^s-e41c9ff5396a702ca19b14ed
 Straipsnio dalies pakeitimai:
 Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
 
 
-2. Visiems kariams, su kuriais nutraukiama profesinės karo tarnybos sutartis ne dėl jų kaltės (šio įstatymo [[#^s-67ca71e21591e8bf3ed0c2fe|38 straipsnio 2 dalies]] 1, 2, 5, 6, 12, 13 punktai) ir kurie iš anksto apie tai nebuvo įspėti, išmokama vieno mėnesio Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų atlyginimo dydžio, o kariui, auginančiam vaiką ar vaikų iki 14 metų, – 2 mėnesių Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jo atlyginimo dydžio papildoma kompensacija. ^s-40b6d7abade4ff808bfe5475
+2. Visiems kariams, su kuriais nutraukiama profesinės karo tarnybos sutartis ne dėl jų kaltės (šio įstatymo [[#^s-67ca71e21591e8bf3ed0c2fe|38 straipsnio 2 dalies]] [[#^s-fa281f4528f83e933ad2e381|1]], [[#^s-5634ecaa8d151a86006e2cbe|2]], [[#^s-8019dab287ee0c7b7745a323|5]], [[#^s-7151dfdf0fadd6b198787641|6]], [[#^s-e12e940541746b0a14602dee|12]], [[#^s-04d136cdec52ccd73eed4d8b|13]] punktai) ir kurie iš anksto apie tai nebuvo įspėti, išmokama vieno mėnesio Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jų atlyginimo dydžio, o kariui, auginančiam vaiką ar vaikų iki 14 metų, – 2 mėnesių Vyriausybės nustatyta tvarka apskaičiuoto vidutinio jo atlyginimo dydžio papildoma kompensacija. ^s-40b6d7abade4ff808bfe5475
 
 
  Straipsnio pakeitimai:
@@ -2868,7 +2868,7 @@ Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
 
 
-7) kariui grįžus iš šio įstatymo [[#^s-95116116d8970d8a05bdb38b|49 straipsnio 3 dalyje]] nurodyto profesinio parengimo, kvalifikacijos tobulinimo ar mokymosi arba šio straipsnio 3 ir [[#^s-4385e48f1af295bd7892fe09|5 dalyse]] nurodytų pareigų (tarnybos) – kol bus paskirtas į kitas pareigas, bet ne ilgiau kaip vienam mėnesiui; ^s-44e8cdf156e54e70a4a90765
+7) kariui grįžus iš šio įstatymo [[#^s-95116116d8970d8a05bdb38b|49 straipsnio 3 dalyje]] nurodyto profesinio parengimo, kvalifikacijos tobulinimo ar mokymosi arba šio straipsnio [[#^s-95116116d8970d8a05bdb38b|3]] ir [[#^s-0cd163692a4419b110544529|5]] dalyse nurodytų pareigų (tarnybos) – kol bus paskirtas į kitas pareigas, bet ne ilgiau kaip vienam mėnesiui; ^s-44e8cdf156e54e70a4a90765
 Straipsnio punkto pakeitimai:
 Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 
@@ -3017,13 +3017,13 @@ Nr. XII-450, 2013-07-02, Žin., 2013, Nr. 79-3980 (2013-07-23)
 ### 44 straipsnis. Kario parengimo išlaidų atlyginimas ^s-632cd43c8779f9bb900e951a
 
 
-1. Jeigu kariūnas pašalinamas iš karo mokymo įstaigos arba Lietuvos ar užsienio valstybės aukštosios mokyklos, į kurią buvo siųstas šio įstatymo [[#^s-3a497dbb15be0f396ec9ca0e|20 straipsnyje]] nustatyta tvarka, arba atsisako sudaryti profesinės karo tarnybos sutartį, jis privalo, atsižvelgiant į šio straipsnio 3 ir [[#^s-29f5c2d071fa84675e884e8e|4 dalyse]] nustatytas sąlygas, atlyginti mokymo išlaidas, išskyrus išlaidas už pirmuosius studijų metus. ^s-2f63958bbf1260e4eecee9e3
+1. Jeigu kariūnas pašalinamas iš karo mokymo įstaigos arba Lietuvos ar užsienio valstybės aukštosios mokyklos, į kurią buvo siųstas šio įstatymo [[#^s-3a497dbb15be0f396ec9ca0e|20 straipsnyje]] nustatyta tvarka, arba atsisako sudaryti profesinės karo tarnybos sutartį, jis privalo, atsižvelgiant į šio straipsnio [[#^s-a33019846ae075090fca1870|3]] ir [[#^s-12202a34bce2d37d59e35284|4]] dalyse nustatytas sąlygas, atlyginti mokymo išlaidas, išskyrus išlaidas už pirmuosius studijų metus. ^s-2f63958bbf1260e4eecee9e3
 Straipsnio dalies pakeitimai:
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 
 
 
-2. Karys, su kuriuo profesinės karo tarnybos, kario savanorio ar savanoriškos nenuolatinės karo tarnybos kario sutartis nutraukiama prieš terminą jo iniciatyva, arba karys, su kuriuo profesinės karo tarnybos, kario savanorio ar savanoriškos nenuolatinės karo tarnybos kario sutartis nutraukiama šio įstatymo [[#^s-b025d1e3402dd03f77c6c1ae|38 straipsnio 1 dalies]] 1, 2, 3, 5, 6, 8 punktuose ir [[#^s-aa3108ac08fa17a8081c204f|2 dalies]] 3, 4, 7, 8, 9, 10, 11 punktuose numatytais atvejais, privalo, atsižvelgiant į šio straipsnio 3 ir [[#^s-29f5c2d071fa84675e884e8e|4 dalyse]] nustatytas sąlygas, atlyginti krašto apsaugos sistemos išlaidas, susijusias su jo mokymu, profesiniu parengimu ir kvalifikacijos tobulinimu. ^s-aa3108ac08fa17a8081c204f
+2. Karys, su kuriuo profesinės karo tarnybos, kario savanorio ar savanoriškos nenuolatinės karo tarnybos kario sutartis nutraukiama prieš terminą jo iniciatyva, arba karys, su kuriuo profesinės karo tarnybos, kario savanorio ar savanoriškos nenuolatinės karo tarnybos kario sutartis nutraukiama šio įstatymo [[#^s-b025d1e3402dd03f77c6c1ae|38 straipsnio 1 dalies]] [[#^s-33e5a8b9322906bc1b2bbb7e|1]], [[#^s-b86989916a220b68c9a7b887|2]], [[#^s-84ddf077e2d8468eec421cb9|3]], [[#^s-59fabdc7681f85af55db8614|5]], [[#^s-bb807b48917b3b56af96fa25|6]], [[#^s-07679fa3c6686cdd1836069c|8]] punktuose ir 2 dalies [[#^s-84ddf077e2d8468eec421cb9|3]], [[#^s-3215e15c874a65859a7be155|4]], [[#^s-5c4ca8a722a977fb7b90e947|7]], [[#^s-07679fa3c6686cdd1836069c|8]], [[#^s-3d9e301dcf0284f50ff7f600|9]], 10, 11 punktuose numatytais atvejais, privalo, atsižvelgiant į šio straipsnio [[#^s-003c45b3c2a69b880f594dc1|3]] ir [[#^s-29f5c2d071fa84675e884e8e|4]] dalyse nustatytas sąlygas, atlyginti krašto apsaugos sistemos išlaidas, susijusias su jo mokymu, profesiniu parengimu ir kvalifikacijos tobulinimu. ^s-aa3108ac08fa17a8081c204f
 
 
 3. Mokymo karo mokymo įstaigoje, Lietuvos aukštojoje mokykloje arba užsienio valstybės aukštojoje mokykloje įgyjant aukštojo mokslo kvalifikaciją, išlaidos atlyginamos tik tuo atveju, jeigu karys profesinėje karo tarnyboje neištarnauja 5 metų po mokymo baigimo. Išlaidos, susijusios su kario profesiniu parengimu ir kvalifikacijos tobulinimu, atlyginamos tik tuo atveju, jeigu karys neištarnauja profesinėje karo tarnyboje ar savanoriškoje nenuolatinėje karo tarnyboje 3 metų po profesinio parengimo ar kvalifikacijos tobulinimo pabaigos. Mokymo, profesinio parengimo ir kvalifikacijos tobulinimo išlaidos neatlyginamos, jeigu karys krašto apsaugos ministro sprendimu nutraukia profesinės karo tarnybos, kario savanorio ar savanoriškos nenuolatinės karo tarnybos kario sutartį prieš terminą dėl pripažintų svarbių priežasčių ir nuo kario valios nepriklausančių bei nepašalinamų aplinkybių. ^s-003c45b3c2a69b880f594dc1
@@ -3051,7 +3051,7 @@ Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 ### 45 straipsnis. Profesinės karo tarnybos karių išleidimas į atsargą ^s-74a255f72c41e260aac3d84a
 
 
-1. Kai profesinės karo tarnybos sutartis nutraukiama šio įstatymo 37 ir [[#^s-fe76eb7a9bd7b2f84723a03a|38 straipsniuose]] numatytais pagrindais, išskyrus nurodytus [[#^s-839815ee435998629f24f2dc|šio straipsnio 2 dalyje]], arba kai pasibaigia profesinės karo tarnybos sutarties terminas ir ji toliau nepratęsiama, karys atleidžiamas iš pareigų, jas perduoda ir ne vėliau kaip per 14 kalendorinių dienų atleidžiamas iš profesinės karo tarnybos. ^s-55b1b21ea1ffad464ec2f3d9
+1. Kai profesinės karo tarnybos sutartis nutraukiama šio įstatymo [[#^s-95e76d8bad0973888425a319|37]] ir [[#^s-fe76eb7a9bd7b2f84723a03a|38]] straipsniuose numatytais pagrindais, išskyrus nurodytus [[#^s-839815ee435998629f24f2dc|šio straipsnio 2 dalyje]], arba kai pasibaigia profesinės karo tarnybos sutarties terminas ir ji toliau nepratęsiama, karys atleidžiamas iš pareigų, jas perduoda ir ne vėliau kaip per 14 kalendorinių dienų atleidžiamas iš profesinės karo tarnybos. ^s-55b1b21ea1ffad464ec2f3d9
 
 
 2. Kai profesinės karo tarnybos sutartis nutraukiama dėl negalios (šio įstatymo [[#^s-3d9e301dcf0284f50ff7f600|38 straipsnio 1 dalies 9 punktas]]) ir sveikatos būklės (šio įstatymo [[#^s-8019dab287ee0c7b7745a323|38 straipsnio 2 dalies 5 punktas]]), karys atleidžiamas iš pareigų ir ne vėliau kaip per 28 dienas iš profesinės karo tarnybos išleidžiamas į atsargą. ^s-839815ee435998629f24f2dc
@@ -3112,7 +3112,7 @@ Nr. XII-1780, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09811
 ### 461 straipsnis. Karių, sukakusių išleidimo iš profesinės karo tarnybos į atsargą amžių, tarnybos pratęsimas ^s-b7f01aa308de91d1c641f1a1
 
 
-Krašto apsaugos ministras arba jo įgaliotas asmuo, atsižvelgdamas į krašto apsaugos sistemos poreikius, gali pratęsti kario, sukakusio šio įstatymo [[#^s-74a255f72c41e260aac3d84a|45 straipsnio]] 4 ir 6 dalyse nustatytą amžių, išskyrus karo kapelionus, profesinę karo tarnybą pagal terminuotą profesinės karo tarnybos sutartį ne ilgiau kaip 4 metams su kario sutikimu. Profesinės karo tarnybos pratęsimo tvarką nustato krašto apsaugos ministras.
+Krašto apsaugos ministras arba jo įgaliotas asmuo, atsižvelgdamas į krašto apsaugos sistemos poreikius, gali pratęsti kario, sukakusio šio įstatymo [[#^s-74a255f72c41e260aac3d84a|45 straipsnio]] [[#^s-ccf8b0bdfea1d999727b298d|4]] ir [[#^s-fa958cd62e19e7298336ad83|6]] dalyse nustatytą amžių, išskyrus karo kapelionus, profesinę karo tarnybą pagal terminuotą profesinės karo tarnybos sutartį ne ilgiau kaip 4 metams su kario sutikimu. Profesinės karo tarnybos pratęsimo tvarką nustato krašto apsaugos ministras.
 
 
 Papildyta straipsniu:
@@ -3156,7 +3156,7 @@ Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
 ### 48 straipsnis. Karo tarnybos ginčai ir jų sprendimas ^s-dea20986e367c7b4efa5d74b
 
 
-1. Ginčai dėl nušalinimo nuo pareigų, perkėlimo į kitas pareigas, dėl karių laipsnių, drausminių nuobaudų, kario tarnybos sutarties pratęsimo ir kiti karo tarnybos ginčai, išskyrus [[#^s-710c501e43798aa8b588893c|šio straipsnio 2 dalyje]] nurodytus ginčus, nagrinėjami Kariuomenės drausmės statuto nustatyta privaloma išankstine karo tarnybos ginčų nagrinėjimo ne teisme tvarka. Galutinis sprendimas, priimtas nagrinėjant ginčą Kariuomenės drausmės statuto nustatyta išankstine karo tarnybos ginčų nagrinėjimo ne teisme tvarka, gali būti skundžiamas apygardos administraciniam teismui įstatymų nustatyta tvarka per 20 dienų nuo sprendimo gavimo ar pranešimo apie jį dienos. ^s-39de4f8f64e5a9865c7230df
+1. Ginčai [dėl nušalinimo nuo pareigų](https://e-tar.lt/portal/lt/legalAct/61ab2c2069ad11edbc04912defe897d1), perkėlimo į kitas pareigas, dėl karių laipsnių, drausminių nuobaudų, kario tarnybos sutarties pratęsimo ir kiti karo tarnybos ginčai, išskyrus [[#^s-710c501e43798aa8b588893c|šio straipsnio 2 dalyje]] nurodytus ginčus, nagrinėjami Kariuomenės drausmės statuto nustatyta privaloma išankstine karo tarnybos ginčų nagrinėjimo ne teisme tvarka. Galutinis sprendimas, priimtas nagrinėjant ginčą Kariuomenės drausmės statuto nustatyta išankstine karo tarnybos ginčų nagrinėjimo ne teisme tvarka, gali būti skundžiamas apygardos administraciniam teismui įstatymų nustatyta tvarka per 20 dienų nuo sprendimo gavimo ar pranešimo apie jį dienos. ^s-39de4f8f64e5a9865c7230df
 
 
 2. Ginčus dėl priėmimo į karo tarnybą, dėl atleidimo iš profesinės karo tarnybos, savanorių karo tarnybos ar kitos savanoriškos nenuolatinės karo tarnybos, taip pat dėl pašalinimo iš karo mokymo įstaigos, nesant drausmės pažeidimo, nagrinėja administraciniai teismai [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-710c501e43798aa8b588893c
@@ -3220,10 +3220,10 @@ Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 7. Profesinės karo tarnybos kariams, kurių profesinio parengimo, kvalifikacijos tobulinimo ar mokymosi užsienio valstybėse laikotarpis ilgesnis negu 6 mėnesiai ir jeigu užsienio mokymo įstaigos rekomenduoja šeimos nariams (sutuoktiniui, nepilnamečiams vaikams (įvaikiams), jeigu jie nėra emancipuoti ar sudarę santuokos, pilnamečiams vaikams (įvaikiams) iki 20 metų, jeigu jie su profesinės karo tarnybos kariu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, sutuoktinio nepilnamečiams vaikams (įvaikiams), jeigu jų gyvenamoji vieta yra nustatyta kartu su profesinės karo tarnybos kario sutuoktiniu ir jie nėra emancipuoti ar sudarę santuokos, pilnamečiams vaikams (įvaikiams) iki 20 metų, jeigu jų gyvenamoji vieta yra nustatyta kartu su profesinės karo tarnybos kario sutuoktiniu ir jie su profesinės karo tarnybos kariu turi bendrą ūkį, nėra sudarę santuokos ir dar nėra įgiję vidurinio išsilavinimo, nepilnamečiams išlaikytiniams, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys ir (ar) jo sutuoktinis, kitiems išlaikytiniams asmenims, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys ir (ar) jo sutuoktinis (toliau – šeimos nariai)) vykti kartu, profesinės karo tarnybos karių prašymu apmokamos jų šeimos narių kelionės bei kelionės draudimo išlaidos. Kartu su profesinės karo tarnybos kariu neišvykusiems šeimos nariams profesinės karo tarnybos kario prašymu apmokamos jų vienos kelionės pas profesinės karo tarnybos karį ir atgal į Lietuvos Respubliką ir kelionės draudimo išlaidos, jeigu profesinės karo tarnybos karys mokosi ilgiau negu 6 mėnesius, bet ne ilgiau negu 18 mėnesių, taip pat apmokamos jų dviejų kelionių pas profesinės karo tarnybos karį ir atgal į Lietuvos Respubliką ir kelionės draudimo išlaidos, jeigu profesinės karo tarnybos karys mokosi ilgiau negu 18 mėnesių. ^s-477e68f83baece9cac0aa887
 
 
-8. Profesinės karo tarnybos kariams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams apmokamas su šio straipsnio 5–[[#^s-477e68f83baece9cac0aa887|7 dalyse]] nurodytomis išlaidomis susijęs komisinis atlyginimas, nustatytas [[latest/TAR.C6C5599DD9A1#^s-f7ea2d859898171a3ec70cb1|Lietuvos Respublikos mokėjimų įstatymo 2 straipsnyje]], registracijos į reisą, taip pat, atsižvelgiant į buvimo užsienyje trukmę ir nustatytą aprangos ir ekipuotės poreikį, apmokamos asmeninio krovinio gabenimo arba registruoto bagažo ir bagažo viršsvorio, bagažo saugojimo išlaidos. ^s-e0eae785eed2219fb37da6c7
+8. Profesinės karo tarnybos kariams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams apmokamas su šio straipsnio [[#^s-0cd163692a4419b110544529|5]]–[[#^s-477e68f83baece9cac0aa887|7]] dalyse nurodytomis išlaidomis susijęs komisinis atlyginimas, nustatytas [[latest/TAR.C6C5599DD9A1#^s-f7ea2d859898171a3ec70cb1|Lietuvos Respublikos mokėjimų įstatymo 2 straipsnyje]], registracijos į reisą, taip pat, atsižvelgiant į buvimo užsienyje trukmę ir nustatytą aprangos ir ekipuotės poreikį, apmokamos asmeninio krovinio gabenimo arba registruoto bagažo ir bagažo viršsvorio, bagažo saugojimo išlaidos. ^s-e0eae785eed2219fb37da6c7
 
 
-9. Profesinės karo tarnybos kariams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams apmokamos valiutos keitimo kredito įstaigoje išlaidos, kai ši valiuta skirta šio straipsnio 5–[[#^s-e0eae785eed2219fb37da6c7|8 dalyse]] nurodytoms išlaidoms apmokėti. ^s-17247e7eae44e6b8b4a5da37
+9. Profesinės karo tarnybos kariams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams apmokamos valiutos keitimo kredito įstaigoje išlaidos, kai ši valiuta skirta šio straipsnio [[#^s-0cd163692a4419b110544529|5]]–[[#^s-e0eae785eed2219fb37da6c7|8]] dalyse nurodytoms išlaidoms apmokėti. ^s-17247e7eae44e6b8b4a5da37
 
 
 10. Krašto apsaugos ministras, atsižvelgdamas į profesinio parengimo, kvalifikacijos tobulinimo ar mokymosi užsienio valstybėse aprūpinimo sąlygas, nustato dienpinigių ir gyvenamojo ploto nuomos dydžius, neviršydamas Vyriausybės nustatytų maksimalių dienpinigių ir gyvenamojo ploto nuomos tose valstybėse išlaidų normų, taip pat kitų šiame straipsnyje nurodytų išlaidų dydžius ir apmokėjimo tvarką. Šiame straipsnyje nurodytos išlaidos neapmokamos, jeigu jas apmoka užsienio valstybė. ^s-e7f2945402a1476fb562120a
@@ -3262,19 +3262,19 @@ Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
 
 
-2. Kario, atlikusio tarnybą be šio straipsnio 3 ir [[#^s-33f79fe5f44b358276000aa8|4 dalyse]] nurodytų drausmės ir teisės pažeidimų, pažymėjime įrašoma, kad jis išleidžiamas į atsargą (perkeliamas į dimisiją) atlikęs tarnybą garbingai. ^s-163956d228c716185c505f95
+2. Kario, atlikusio tarnybą be šio straipsnio [[#^s-be368a780e5d0718ea5a6901|3]] ir [[#^s-33f79fe5f44b358276000aa8|4]] dalyse nurodytų drausmės ir teisės pažeidimų, pažymėjime įrašoma, kad jis išleidžiamas į atsargą (perkeliamas į dimisiją) atlikęs tarnybą garbingai. ^s-163956d228c716185c505f95
 
 
-3. Jeigu karys atleidžiamas šio įstatymo [[#^s-67ca71e21591e8bf3ed0c2fe|38 straipsnio 2 dalies]] 6, 7, 8 ir 9 punktuose nustatytais atvejais arba profesinės karo tarnybos sutartis su kariu nutraukiama prieš terminą dėl jo kaltės, pažymėjime įrašoma, kad jis išleidžiamas į atsargą (perkeliamas į dimisiją) atlikęs tarnybą, praleidus žodį „garbingai“. Žodis „garbingai“ krašto apsaugos ministro sprendimu taip pat gali būti nerašomas, jeigu karys tarnybos metu buvo baustas už šiurkščius karių drausmės pažeidimus, už kuriuos jis nebuvo atleistas iš tarnybos. ^s-be368a780e5d0718ea5a6901
+3. Jeigu karys atleidžiamas šio įstatymo [[#^s-67ca71e21591e8bf3ed0c2fe|38 straipsnio 2 dalies]] [[#^s-7151dfdf0fadd6b198787641|6]], [[#^s-f9cc2cff9beb8567f0d78064|7]], [[#^s-83db6efaa08217c76b890e7d|8]] ir [[#^s-0af33c7b7b2377b667fdf940|9]] punktuose nustatytais atvejais arba profesinės karo tarnybos sutartis su kariu nutraukiama prieš terminą dėl jo kaltės, pažymėjime įrašoma, kad jis išleidžiamas į atsargą (perkeliamas į dimisiją) atlikęs tarnybą, praleidus žodį „garbingai“. Žodis „garbingai“ krašto apsaugos ministro sprendimu taip pat gali būti nerašomas, jeigu karys tarnybos metu buvo baustas už šiurkščius karių drausmės pažeidimus, už kuriuos jis nebuvo atleistas iš tarnybos. ^s-be368a780e5d0718ea5a6901
 
 
 4. Kario, kuris atleidžiamas iš tarnybos dėl drausmės pažeidimo, pažymėjime įrašomi žodžiai „atleistas dėl drausmės pažeidimo“. ^s-33f79fe5f44b358276000aa8
 
 
-5. Kario, kuris atleidžiamas iš tarnybos dėl šio įstatymo [[#^s-b025d1e3402dd03f77c6c1ae|38 straipsnio 1 dalies]] 1, 2, 3, 5 ir 6 punktuose numatytų priežasčių, pažymėjime įrašomi žodžiai „atleistas dėl įstatymo pažeidimo“. ^s-2304d89340ed5da06d2124a8
+5. Kario, kuris atleidžiamas iš tarnybos dėl šio įstatymo [[#^s-b025d1e3402dd03f77c6c1ae|38 straipsnio 1 dalies]] [[#^s-33e5a8b9322906bc1b2bbb7e|1]], [[#^s-b86989916a220b68c9a7b887|2]], [[#^s-84ddf077e2d8468eec421cb9|3]], [[#^s-59fabdc7681f85af55db8614|5]] ir [[#^s-bb807b48917b3b56af96fa25|6]] punktuose numatytų priežasčių, pažymėjime įrašomi žodžiai „atleistas dėl įstatymo pažeidimo“. ^s-2304d89340ed5da06d2124a8
 
 
-6. Profesinės karo tarnybos kariams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, kurie nėra įgiję pagrindinio karinio parengtumo, nėra nepertraukiamai ištarnavę 2 metų krašto apsaugos sistemoje, taip pat kurių pažymėjimuose yra šio straipsnio 4 ir [[#^s-2304d89340ed5da06d2124a8|5 dalyse]] nurodyti įrašai, taip pat atleistiems iš tarnybos dėl priežasčių, susijusių su priesaikos sulaužymu, teisė iškilmingomis progomis dėvėti atsargos kario uniformą nesuteikiama. ^s-770afa7ec07984029652d895
+6. Profesinės karo tarnybos kariams, kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, kurie nėra įgiję pagrindinio karinio parengtumo, nėra nepertraukiamai ištarnavę 2 metų krašto apsaugos sistemoje, taip pat kurių pažymėjimuose yra šio straipsnio [[#^s-33f79fe5f44b358276000aa8|4]] ir [[#^s-2304d89340ed5da06d2124a8|5]] dalyse nurodyti įrašai, taip pat atleistiems iš tarnybos dėl priežasčių, susijusių su priesaikos sulaužymu, teisė iškilmingomis progomis dėvėti atsargos kario uniformą nesuteikiama. ^s-770afa7ec07984029652d895
 Straipsnio dalies pakeitimai:
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
@@ -3632,7 +3632,7 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 4) iki seržanto majoro (vyresniojo laivūno) imtinai Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos tarnaujantiems kariams – krašto apsaugos ministro tam įgaliotas asmuo. ^s-8863f0dd4acb597e9c55ff03
 
 
-4. Laikantis pagal patvirtintus pareigybių sąrašus nustatytų atskirų laipsnių karininkų limitų ir krašto apsaugos ministro nustatytų atrankos bei kvalifikacinių reikalavimų, aukštesni karininkų laipsniai kariams (išskyrus šio įstatymo [[#^s-5e9541fc2fcb42f547c0294f|54 straipsnio]] 13 ir 14 dalyse ir [[#^s-c01d83d7a601478be656ee6b|šio straipsnio 5 dalyje]] nustatytus atvejus), patariamajai atrankos komisijai rekomendavus, suteikiami: ^s-611d61c1893aa05f675e010d
+4. Laikantis pagal patvirtintus pareigybių sąrašus nustatytų atskirų laipsnių karininkų limitų ir krašto apsaugos ministro nustatytų atrankos bei kvalifikacinių reikalavimų, aukštesni karininkų laipsniai kariams (išskyrus šio įstatymo [[#^s-5e9541fc2fcb42f547c0294f|54 straipsnio]] [[#^s-a26778386ba769816c479d34|13]] ir [[#^s-d4c490e74d1bb81fd0d49a06|14]] dalyse ir [[#^s-c01d83d7a601478be656ee6b|šio straipsnio 5 dalyje]] nustatytus atvejus), patariamajai atrankos komisijai rekomendavus, suteikiami: ^s-611d61c1893aa05f675e010d
 
 
 1) jaunesniųjų karininkų, išskyrus pirmąjį karininko laipsnį, – kariuomenės vado įsakymu; ^s-c91d22b4bab155e55dd735ea
@@ -3644,7 +3644,7 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 5. Antrajame operatyvinių tarnybų departamente tarnaujantiems kariams aukštesnius karininkų laipsnius iki pulkininko leitenanto (komandoro) imtinai suteikia krašto apsaugos ministras. ^s-c01d83d7a601478be656ee6b
 
 
-6. Šio įstatymo [[#^s-5e9541fc2fcb42f547c0294f|54 straipsnio]] 13 ir 14 dalyse numatytais atvejais karininkų laipsnius iki pulkininko (jūrų kapitono) imtinai suteikia krašto apsaugos ministras kariuomenės vado teikimu, o priimamiems į profesinę karo tarnybą, savanorių karo tarnybą ar kitą savanorišką nenuolatinę karo tarnybą Lietuvos Respublikos piliečiams šio įstatymo [[#^s-45b53536268eb7c7fdc69043|36 straipsnio 11 dalyje]] numatytais atvejais – patariamosios komisijos teikimu. ^s-e5a91393019029bd20a5d1be
+6. Šio įstatymo [[#^s-5e9541fc2fcb42f547c0294f|54 straipsnio]] [[#^s-a26778386ba769816c479d34|13]] ir [[#^s-d4c490e74d1bb81fd0d49a06|14]] dalyse numatytais atvejais karininkų laipsnius iki pulkininko (jūrų kapitono) imtinai suteikia krašto apsaugos ministras kariuomenės vado teikimu, o priimamiems į profesinę karo tarnybą, savanorių karo tarnybą ar kitą savanorišką nenuolatinę karo tarnybą Lietuvos Respublikos piliečiams šio įstatymo [[#^s-45b53536268eb7c7fdc69043|36 straipsnio 11 dalyje]] numatytais atvejais – patariamosios komisijos teikimu. ^s-e5a91393019029bd20a5d1be
 Straipsnio dalies pakeitimai:
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
@@ -3667,7 +3667,7 @@ Nr. XI-2401, 2012-11-08, Žin., 2012, Nr. 135-6875 (2012-11-22)
 ### 56 straipsnis. Laipsnio atėmimas ^s-bfaf777ae9dc49aaeaefc11d
 
 
-Krašto apsaugos ministras (pulkininkams, jūrų kapitonams, generolams ir admirolams – Respublikos Prezidentas) kario laipsnį gali atimti, jeigu karys atleidžiamas iš tarnybos pagal šio įstatymo [[#^s-b025d1e3402dd03f77c6c1ae|38 straipsnio 1 dalies]] 1, 2 ar 3 punktą arba 2 dalies 3, 4 ar 8 punktą.
+Krašto apsaugos ministras (pulkininkams, jūrų kapitonams, generolams ir admirolams – Respublikos Prezidentas) kario laipsnį gali atimti, jeigu karys atleidžiamas iš tarnybos pagal šio įstatymo [[#^s-b025d1e3402dd03f77c6c1ae|38 straipsnio 1 dalies]] [[#^s-33e5a8b9322906bc1b2bbb7e|1]], [[#^s-b86989916a220b68c9a7b887|2]] ar [[#^s-84ddf077e2d8468eec421cb9|3]] punktą arba 2 dalies [[#^s-84ddf077e2d8468eec421cb9|3]], [[#^s-3215e15c874a65859a7be155|4]] ar [[#^s-07679fa3c6686cdd1836069c|8]] punktą.
 
 
 Straipsnio pakeitimai:
@@ -3824,7 +3824,7 @@ Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
 
 
-151. Atostogų, nurodytų šio straipsnio 12, 14 ir [[#^s-a3b1e7d4a0c0533cf3659758|15 dalyse]], dienomis privalomosios pradinės karo tarnybos kariai maistu neaprūpinami, už šias dienas jiems mokami Vyriausybės nustatyto dydžio dienpinigiai. ^s-3e64d342142c4fe16daf4c10
+151. Atostogų, nurodytų šio straipsnio [[#^s-20b78d9256df68fdc064c754|12]], [[#^s-b502b66016d2cf18000f9a05|14]] ir [[#^s-a3b1e7d4a0c0533cf3659758|15]] dalyse, dienomis privalomosios pradinės karo tarnybos kariai maistu neaprūpinami, už šias dienas jiems mokami Vyriausybės nustatyto dydžio dienpinigiai. ^s-3e64d342142c4fe16daf4c10
 Papildyta straipsnio dalimi:
 Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
@@ -4012,13 +4012,13 @@ Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
 
 
-12. Išmokos ir premijos, numatytos šio straipsnio 1, 5, 6, 8, 81 ir [[#^s-dd57f4c971e852dae656199f|10 dalyse]], mokamos ar dovanos perkamos iš Krašto apsaugos ministerijai skirtų asignavimų. Premijos, numatytos šio straipsnio 5, 6 ir [[#^s-dfcecc71e425f2eacfca35cd|8 dalyse]], mokamos krašto apsaugos ministro nustatyta tvarka iš Krašto apsaugos ministerijos sutaupytų darbo užmokesčio lėšų. ^s-7156a4324d93a5396a7f455c
+12. Išmokos ir premijos, numatytos šio straipsnio [[#^s-a80efdf1fdd10e0ea5147ff9|1]], [[#^s-3dce172a23aff22b56465e48|5]], [[#^s-43b8de35aa935a20e93f37ea|6]], [[#^s-dfcecc71e425f2eacfca35cd|8]], [[#^s-f6353c253c73444aaf5424b5|81]] ir [[#^s-dd57f4c971e852dae656199f|10]] dalyse, mokamos ar dovanos perkamos iš Krašto apsaugos ministerijai skirtų asignavimų. Premijos, numatytos šio straipsnio [[#^s-3dce172a23aff22b56465e48|5]], [[#^s-43b8de35aa935a20e93f37ea|6]] ir [[#^s-dfcecc71e425f2eacfca35cd|8]] dalyse, mokamos krašto apsaugos ministro nustatyta tvarka iš Krašto apsaugos ministerijos sutaupytų darbo užmokesčio lėšų. ^s-7156a4324d93a5396a7f455c
 Straipsnio dalies pakeitimai:
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 
 
 
-13. Išmokos, numatytos šio straipsnio 81 ir [[#^s-dd57f4c971e852dae656199f|10 dalyse]], išmokamos per 30 kalendorinių dienų po teisės į šias išmokas įgijimo. ^s-51b1e277dace3c887257f688
+13. Išmokos, numatytos šio straipsnio [[#^s-f6353c253c73444aaf5424b5|81]] ir [[#^s-dd57f4c971e852dae656199f|10]] dalyse, išmokamos per 30 kalendorinių dienų po teisės į šias išmokas įgijimo. ^s-51b1e277dace3c887257f688
 Straipsnio dalies pakeitimai:
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
@@ -4073,7 +4073,7 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 7. Kai su profesinės karo tarnybos kariu kartu gyvena jo ar jo sutuoktinio vaikai (įvaikiai), taip pat nepilnamečiai išlaikytiniai, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys ar jo sutuoktinis, už kiekvieną vaiką (įvaikį) ar nepilnametį išlaikytinį profesinės karo tarnybos kariui kartu su tarnybiniu atlyginimu mokama kompensacija, kurią sudaro 0,3 per mėnesį profesinės karo tarnybos kario gaunamos su tarnyba užsienyje susijusių išlaidų kompensacijos. ^s-e3fcf34a055b39734e8024d3
 
 
-8. Kai su profesinės karo tarnybos kariu kartu gyvena kiti, negu šio straipsnio 6 ir [[#^s-e3fcf34a055b39734e8024d3|7 dalyse]] nurodyti, išlaikytiniai asmenys, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys ar jo sutuoktinis, profesinės karo tarnybos kariui kartu su tarnybiniu atlyginimu už kiekvieną išlaikytinį mokama kompensacija, kurią sudaro 0,25 per mėnesį profesinės karo tarnybos kario gaunamos su tarnyba užsienyje susijusių išlaidų kompensacijos. ^s-ebca5f3ab2f8d355e5d1bda1
+8. Kai su profesinės karo tarnybos kariu kartu gyvena kiti, negu šio straipsnio [[#^s-4ef7f57334a75e3744328406|6]] ir [[#^s-e3fcf34a055b39734e8024d3|7]] dalyse nurodyti, išlaikytiniai asmenys, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys ar jo sutuoktinis, profesinės karo tarnybos kariui kartu su tarnybiniu atlyginimu už kiekvieną išlaikytinį mokama kompensacija, kurią sudaro 0,25 per mėnesį profesinės karo tarnybos kario gaunamos su tarnyba užsienyje susijusių išlaidų kompensacijos. ^s-ebca5f3ab2f8d355e5d1bda1
 
 
 9. Kai su profesinės karo tarnybos kariu kartu gyvena jo ar jo sutuoktinio vaikai (įvaikiai), taip pat nepilnamečiai išlaikytiniai, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys ar jo sutuoktinis, profesinės karo tarnybos kariui visiškai ar iš dalies apmokamos ar kompensuojamos jų ikimokyklinio ugdymo ir priešmokyklinio ugdymo išlaidos. Vyriausybė nustato ikimokyklinio ugdymo išlaidų ir priešmokyklinio ugdymo išlaidų apmokamas ar kompensuojamas dalis, o krašto apsaugos ministras – apmokamas ar kompensuojamas ikimokyklinio ugdymo ir priešmokyklinio ugdymo išlaidas, jų apskaičiavimo, apmokėjimo ar kompensavimo tvarką. ^s-ea22269e06b28f871595bf91
@@ -4082,10 +4082,10 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 10. Kai su profesinės karo tarnybos kariu kartu gyvena ir mokosi pagal bendrojo ugdymo programas jo ar jo sutuoktinio vaikai (įvaikiai), taip pat nepilnamečiai išlaikytiniai ar kiti išlaikytiniai, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys ar jo sutuoktinis, profesinės karo tarnybos kariui visiškai ar iš dalies apmokamos ar kompensuojamos jų mokymosi išlaidos, iki jie įgis vidurinį išsilavinimą. Šioje dalyje nurodytos išlaidos apmokamos ar kompensuojamos nuo tada, kai vaikams (įvaikiams), išlaikytiniams paprastai sueina 6 metai, bet ne ilgiau, iki jiems sueis 20 metų. Vyriausybė nustato mokymosi išlaidų apmokamą ar kompensuojamąją dalį, o krašto apsaugos ministras – apmokamas ar kompensuojamas mokymosi išlaidas, jų apskaičiavimo, apmokėjimo ar kompensavimo tvarką. ^s-28f08545bae1d5b7c82b054b
 
 
-11. Kai šio įstatymo [[#^s-1cda60218163277fbad86ab1|42 straipsnio 3 dalyje]] nustatytais atvejais toje pačioje ar skirtingose Lietuvos Respublikos diplomatinėse atstovybėse, specialiosiose misijose, atstovybėse prie tarptautinių organizacijų arba užsienio valstybių ar tarptautinėse karinėse ar gynybos institucijose atlikti tarnybos paskirti kartu gyvenantys sutuoktiniai, šio straipsnio 7 ir [[#^s-ebca5f3ab2f8d355e5d1bda1|8 dalyse]] nurodytos kompensacijos mokamos tam sutuoktiniui, kuriam jos priklausytų didesnės, o šio straipsnio 9 ir [[#^s-28f08545bae1d5b7c82b054b|10 dalyse]] nurodytos išlaidos apmokamos ar kompensuojamos sutuoktinių pasirinkimu vienam iš jų. ^s-5dac5fef036188e4b48125e2
+11. Kai šio įstatymo [[#^s-1cda60218163277fbad86ab1|42 straipsnio 3 dalyje]] nustatytais atvejais toje pačioje ar skirtingose Lietuvos Respublikos diplomatinėse atstovybėse, specialiosiose misijose, atstovybėse prie tarptautinių organizacijų arba užsienio valstybių ar tarptautinėse karinėse ar gynybos institucijose atlikti tarnybos paskirti kartu gyvenantys sutuoktiniai, šio straipsnio [[#^s-e3fcf34a055b39734e8024d3|7]] ir [[#^s-ebca5f3ab2f8d355e5d1bda1|8]] dalyse nurodytos kompensacijos mokamos tam sutuoktiniui, kuriam jos priklausytų didesnės, o šio straipsnio [[#^s-ea22269e06b28f871595bf91|9]] ir [[#^s-28f08545bae1d5b7c82b054b|10]] dalyse nurodytos išlaidos apmokamos ar kompensuojamos sutuoktinių pasirinkimu vienam iš jų. ^s-5dac5fef036188e4b48125e2
 
 
-12. Profesinės karo tarnybos karys, atliekantis tarnybą šio įstatymo [[#^s-1cda60218163277fbad86ab1|42 straipsnio 3 dalyje]] nustatytais atvejais, ir jo šeimos nariai apdraudžiami sveikatos draudimu. Sveikatos draudimo išlaidos apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Valstybėse, kuriose nėra galimybių apdrausti sveikatos draudimu, išlaidos, susijusios su profesinės karo tarnybos kario, atliekančio tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, specialiojoje misijoje, atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje, arba jo šeimos narių asmens sveikatos priežiūra, apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Šioje dalyje nurodytos sveikatos draudimo ir su asmens sveikatos priežiūra susijusios išlaidos apmokamos krašto apsaugos ministro nustatyta tvarka, neviršijant Vyriausybės nustatytų sveikatos draudimo ir sveikatos priežiūros išlaidų ribų taikant gyvenimo lygio vietos koeficientą. Už šeimos narius iš Krašto apsaugos ministerijai skirtų asignavimų taip pat mokamos privalomojo sveikatos draudimo įmokos, jeigu profesinės karo tarnybos kario šeimos nariai turi mokėti privalomojo sveikatos draudimo įmokas už save pagal [[latest/TAR.94F6B680E8B8#^s-b2aba1272cdaf55c3a9c747e|Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio]] 6 ar [[#^s-5dac5fef036188e4b48125e2|11 dalį]]. ^s-7fbeea215c066a42bae2958e
+12. Profesinės karo tarnybos karys, atliekantis tarnybą šio įstatymo [[#^s-1cda60218163277fbad86ab1|42 straipsnio 3 dalyje]] nustatytais atvejais, ir jo šeimos nariai apdraudžiami sveikatos draudimu. Sveikatos draudimo išlaidos apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Valstybėse, kuriose nėra galimybių apdrausti sveikatos draudimu, išlaidos, susijusios su profesinės karo tarnybos kario, atliekančio tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, specialiojoje misijoje, atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje, arba jo šeimos narių asmens sveikatos priežiūra, apmokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Šioje dalyje nurodytos sveikatos draudimo ir su asmens sveikatos priežiūra susijusios išlaidos apmokamos krašto apsaugos ministro nustatyta tvarka, neviršijant Vyriausybės nustatytų sveikatos draudimo ir sveikatos priežiūros išlaidų ribų taikant gyvenimo lygio vietos koeficientą. Už šeimos narius iš Krašto apsaugos ministerijai skirtų asignavimų taip pat mokamos privalomojo sveikatos draudimo įmokos, jeigu profesinės karo tarnybos kario šeimos nariai turi mokėti privalomojo sveikatos draudimo įmokas už save pagal [[latest/TAR.94F6B680E8B8#^s-b2aba1272cdaf55c3a9c747e|Lietuvos Respublikos sveikatos draudimo įstatymo 17 straipsnio]] [[latest/TAR.94F6B680E8B8#^s-306e679880a211f002474540|6]] ar [[latest/TAR.94F6B680E8B8#^s-5244b1d287719aad4843dcee|11]] dalį. ^s-7fbeea215c066a42bae2958e
 Straipsnio dalies pakeitimai:
 Nr. XV-251, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11021
 
@@ -4121,13 +4121,13 @@ Nr. XV-664, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22537
 
 
 
-19. Kartą per metus, skaičiuojant nuo paskyrimo tarnauti į Lietuvos Respublikos diplomatinę atstovybę, specialiąją misiją, atstovybę prie tarptautinės organizacijos, užsienio valstybės ar tarptautinę karinę arba gynybos instituciją, profesinės karo tarnybos kariui ir kartu su juo gyvenantiems jo šeimos nariams apmokamos ar kompensuojamos kelionės į Lietuvos Respubliką ir atgal išlaidos, o kartu su juo negyvenantiems šeimos nariams – kelionės pas profesinės karo tarnybos karį ir atgal į Lietuvos Respubliką išlaidos. Jeigu sutuoktiniai yra paskirti atlikti tarnybos į skirtingas užsienio valstybes arba skirtingus tos pačios užsienio valstybės miestus, vieno iš jų pasirinkimu vietoj šioje dalyje nurodytos kelionės į Lietuvos Respubliką ir atgal apmokamos ar kompensuojamos jo ir kartu su juo gyvenančių šeimos narių kelionės į kitą užsienio valstybę ar kitą tos pačios užsienio valstybės miestą, kuriame paskirtas atlikti tarnybos kitas sutuoktinis, ir atgal išlaidos. Jeigu dėl nenumatytų objektyvių aplinkybių profesinės karo tarnybos karys ir (ar) jo šeimos nariai negalėjo įgyvendinti šioje dalyje nustatytos teisės per nurodytą terminą, esant motyvuotam profesinės karo tarnybos kario prašymui, krašto apsaugos ministro ar jo įgalioto asmens sprendimu šios teisės įgyvendinimo terminas pratęsiamas 6 mėnesiams. Šios garantijos taikomos ir tais atvejais, kai profesinės karo tarnybos kario sutuoktinis yra diplomatas, kitas valstybės tarnautojas ar žvalgybos pareigūnas, įstatymų nustatyta tvarka atliekantis tarnybą užsienyje, arba asmuo, deleguotas į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje [[latest/TAR.981F27E01089|Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo]] nustatyta tvarka. Ypatingais atvejais Užsienio reikalų ministerijai rekomendavus kartu su profesinės karo tarnybos kariu užsienio valstybėje gyvenantiems šeimos nariams laikinai grįžti į Lietuvos Respubliką apmokamos arba kompensuojamos šeimos narių kelionės į Lietuvos Respubliką ir atgal išlaidos ir ne ilgiau kaip 6 mėnesius nuo šeimos nario grįžimo į Lietuvos Respubliką dienos toliau taikomos šioje dalyje, šio straipsnio 4, 6, 7, 8, 9, 10, 12, 13, 14, 15 ir [[#^s-52d02b83fb6a1f54f16a4603|25 dalyse]] ir [[latest/TAR.0F9036415DBD#^s-18ee958e732a25eeb556f77b|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje]] nustatytos garantijos. ^s-e97b6583ab0db107f8d66599
+19. Kartą per metus, skaičiuojant nuo paskyrimo tarnauti į Lietuvos Respublikos diplomatinę atstovybę, specialiąją misiją, atstovybę prie tarptautinės organizacijos, užsienio valstybės ar tarptautinę karinę arba gynybos instituciją, profesinės karo tarnybos kariui ir kartu su juo gyvenantiems jo šeimos nariams apmokamos ar kompensuojamos kelionės į Lietuvos Respubliką ir atgal išlaidos, o kartu su juo negyvenantiems šeimos nariams – kelionės pas profesinės karo tarnybos karį ir atgal į Lietuvos Respubliką išlaidos. Jeigu sutuoktiniai yra paskirti atlikti tarnybos į skirtingas užsienio valstybes arba skirtingus tos pačios užsienio valstybės miestus, vieno iš jų pasirinkimu vietoj šioje dalyje nurodytos kelionės į Lietuvos Respubliką ir atgal apmokamos ar kompensuojamos jo ir kartu su juo gyvenančių šeimos narių kelionės į kitą užsienio valstybę ar kitą tos pačios užsienio valstybės miestą, kuriame paskirtas atlikti tarnybos kitas sutuoktinis, ir atgal išlaidos. Jeigu dėl nenumatytų objektyvių aplinkybių profesinės karo tarnybos karys ir (ar) jo šeimos nariai negalėjo įgyvendinti šioje dalyje nustatytos teisės per nurodytą terminą, esant motyvuotam profesinės karo tarnybos kario prašymui, krašto apsaugos ministro ar jo įgalioto asmens sprendimu šios teisės įgyvendinimo terminas pratęsiamas 6 mėnesiams. Šios garantijos taikomos ir tais atvejais, kai profesinės karo tarnybos kario sutuoktinis yra diplomatas, kitas valstybės tarnautojas ar žvalgybos pareigūnas, įstatymų nustatyta tvarka atliekantis tarnybą užsienyje, arba asmuo, deleguotas į pareigas tarptautinėje ir Europos Sąjungos institucijoje ar užsienio valstybės institucijoje [[latest/TAR.981F27E01089|Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo]] nustatyta tvarka. Ypatingais atvejais Užsienio reikalų ministerijai rekomendavus kartu su profesinės karo tarnybos kariu užsienio valstybėje gyvenantiems šeimos nariams laikinai grįžti į Lietuvos Respubliką apmokamos arba kompensuojamos šeimos narių kelionės į Lietuvos Respubliką ir atgal išlaidos ir ne ilgiau kaip 6 mėnesius nuo šeimos nario grįžimo į Lietuvos Respubliką dienos toliau taikomos šioje dalyje, šio straipsnio [[#^s-592800b6f53bbd2bae073888|4]], [[#^s-4ef7f57334a75e3744328406|6]], [[#^s-e3fcf34a055b39734e8024d3|7]], [[#^s-ebca5f3ab2f8d355e5d1bda1|8]], [[#^s-ea22269e06b28f871595bf91|9]], [[#^s-28f08545bae1d5b7c82b054b|10]], [[#^s-7fbeea215c066a42bae2958e|12]], [[#^s-4adac4eee059ab288c4463af|13]], [[#^s-56a8afa043099c9acf0a5710|14]], [[#^s-ba1731a345584dcae997d9bb|15]] ir [[#^s-52d02b83fb6a1f54f16a4603|25]] dalyse ir [[latest/TAR.0F9036415DBD#^s-18ee958e732a25eeb556f77b|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje]] nustatytos garantijos. ^s-e97b6583ab0db107f8d66599
 
 
-20. Profesinės karo tarnybos kariams, kuriems užsienio valstybių arba tarptautinės karinės ar gynybos institucijos moka užmokestį už einamas pareigas ir (ar) skiria dienpinigius, [[#^s-9287a2e9e76a2211ca1cf69a|šio straipsnio 2 dalyje]] nustatyta priemoka ir [[#^s-56c22ea5006007993b63da39|3 dalyje]] nustatyta kompensacija nemokamos. Kariui mokamų šio straipsnio 6, 7, [[#^s-ebca5f3ab2f8d355e5d1bda1|8 dalyse]] nustatytų kompensacijų dydžiai apskaičiuojami taikant [[#^s-56c22ea5006007993b63da39|šio straipsnio 3 dalyje]] nurodytą su tarnyba užsienyje susijusių išlaidų kompensacijos koeficientą, priklausantį nuo kario laipsnio, ir gyvenimo lygio vietos koeficientą. ^s-b0d21d539ce9f98185c46eba
+20. Profesinės karo tarnybos kariams, kuriems užsienio valstybių arba tarptautinės karinės ar gynybos institucijos moka užmokestį už einamas pareigas ir (ar) skiria dienpinigius, [[#^s-9287a2e9e76a2211ca1cf69a|šio straipsnio 2 dalyje]] nustatyta priemoka ir [[#^s-56c22ea5006007993b63da39|3 dalyje]] nustatyta kompensacija nemokamos. Kariui mokamų šio straipsnio [[#^s-4ef7f57334a75e3744328406|6]], [[#^s-e3fcf34a055b39734e8024d3|7]], [[#^s-ebca5f3ab2f8d355e5d1bda1|8]] dalyse nustatytų kompensacijų dydžiai apskaičiuojami taikant [[#^s-56c22ea5006007993b63da39|šio straipsnio 3 dalyje]] nurodytą su tarnyba užsienyje susijusių išlaidų kompensacijos koeficientą, priklausantį nuo kario laipsnio, ir gyvenimo lygio vietos koeficientą. ^s-b0d21d539ce9f98185c46eba
 
 
-21. Profesinės karo tarnybos kariams, šio įstatymo [[#^s-1cda60218163277fbad86ab1|42 straipsnio 3 dalyje]] nustatytais atvejais pasiųstiems atlikti tarnybos specialiosiose misijose, tarptautinėse operacijose ar užsienio valstybių ir tarptautinėse karinėse ar gynybos institucijose, esančiose valstybėse, kuriose vyksta ginkluotas konfliktas, per visą tarnybos specialiosiose misijose, tarptautinėse operacijose ar užsienio valstybių ir tarptautinėse karinėse ar gynybos institucijose, esančiose valstybėse, kuriose vyksta ginkluotas konfliktas, laikotarpį vietoj [[#^s-9287a2e9e76a2211ca1cf69a|šio straipsnio 2 dalyje]] nustatyto tarnybinio atlyginimo ir priemokos ir [[#^s-56c22ea5006007993b63da39|3 dalyje]] nustatytos su tarnyba užsienyje susijusių išlaidų kompensacijos taikomas šio įstatymo [[#^s-d3dbcb06812d5440d2074fc2|611 straipsnyje]] kariams, dalyvaujantiems tarptautinėje operacijoje, nustatytas tarnybos apmokėjimas. Kariui mokamų šio straipsnio 6, 7, [[#^s-ebca5f3ab2f8d355e5d1bda1|8 dalyse]] nustatytų kompensacijų dydžiai apskaičiuojami taikant [[#^s-56c22ea5006007993b63da39|šio straipsnio 3 dalyje]] nurodytą su tarnyba užsienyje susijusių išlaidų kompensacijos koeficientą, priklausantį nuo kario laipsnio, ir gyvenimo lygio vietos koeficientą. ^s-646ef34db28e8b1d93f63db8
+21. Profesinės karo tarnybos kariams, šio įstatymo [[#^s-1cda60218163277fbad86ab1|42 straipsnio 3 dalyje]] nustatytais atvejais pasiųstiems atlikti tarnybos specialiosiose misijose, tarptautinėse operacijose ar užsienio valstybių ir tarptautinėse karinėse ar gynybos institucijose, esančiose valstybėse, kuriose vyksta ginkluotas konfliktas, per visą tarnybos specialiosiose misijose, tarptautinėse operacijose ar užsienio valstybių ir tarptautinėse karinėse ar gynybos institucijose, esančiose valstybėse, kuriose vyksta ginkluotas konfliktas, laikotarpį vietoj [[#^s-9287a2e9e76a2211ca1cf69a|šio straipsnio 2 dalyje]] nustatyto tarnybinio atlyginimo ir priemokos ir [[#^s-56c22ea5006007993b63da39|3 dalyje]] nustatytos su tarnyba užsienyje susijusių išlaidų kompensacijos taikomas šio įstatymo [[#^s-d3dbcb06812d5440d2074fc2|611 straipsnyje]] kariams, dalyvaujantiems tarptautinėje operacijoje, nustatytas tarnybos apmokėjimas. Kariui mokamų šio straipsnio [[#^s-4ef7f57334a75e3744328406|6]], [[#^s-e3fcf34a055b39734e8024d3|7]], [[#^s-ebca5f3ab2f8d355e5d1bda1|8]] dalyse nustatytų kompensacijų dydžiai apskaičiuojami taikant [[#^s-56c22ea5006007993b63da39|šio straipsnio 3 dalyje]] nurodytą su tarnyba užsienyje susijusių išlaidų kompensacijos koeficientą, priklausantį nuo kario laipsnio, ir gyvenimo lygio vietos koeficientą. ^s-646ef34db28e8b1d93f63db8
 
 
 22. Užsienio valstybių miestams, kurių gyvenimo lygio vietos ir (ar) gyvenamųjų patalpų nuomos lygio vietos koeficientai nėra nustatyti Vyriausybės, krašto apsaugos ministras, atsižvelgdamas į miesto, kuriame profesinės karo tarnybos karys atlieka tarnybą, ypatumus, gyvenimo lygio pokyčius ir nekilnojamojo turto nuomos rinkos kainų pasikeitimus, turi teisę nustatyti iki 50 procentų mažesnius gyvenimo lygio vietos ir (ar) gyvenamųjų patalpų nuomos lygio vietos koeficientus, negu tai užsienio valstybei nustatytas gyvenimo lygio vietos ir (ar) gyvenamųjų patalpų nuomos lygio vietos koeficientas (jeigu toje užsienio valstybėje koeficientai nustatyti keliems miestams, – iki 50 procentų mažesni koeficientai nustatomi atsižvelgiant į didžiausią tos užsienio valstybės miestui nustatytą gyvenimo lygio vietos ir (ar) gyvenamųjų patalpų nuomos lygio vietos koeficientą). ^s-d47cc1daa98105743dd826ef
@@ -4142,10 +4142,10 @@ Nr. XIV-1179, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15164
 24. Krašto apsaugos ministro sprendimu gali būti visiškai ar iš dalies apmokamos ar kompensuojamos kartu su profesinės karo tarnybos kariu užsienio valstybėje gyvenusių ir besimokiusių bei dėl profesinės karo tarnybos kario atšaukimo iš pareigų atsižvelgiant į priimančiosios valstybės pranešimą į Lietuvos Respubliką grįžusių [[#^s-89b0952523cc52221f517235|šio straipsnio 5 dalyje]] nurodytų šeimos narių – vaikų (įvaikių), taip pat nepilnamečių išlaikytinių ar kitų išlaikytinių, kurių globėju ar rūpintoju yra paskirtas profesinės karo tarnybos karys ar jo sutuoktinis, mokymosi Lietuvos Respublikoje išlaidos iki einamųjų mokslo metų pabaigos, jeigu jie nėra priimami mokytis valstybinėje ar savivaldybės bendrojo ugdymo mokykloje, esančioje mokyklos savininko teises ir pareigas įgyvendinančios institucijos priskirtoje teritorijoje, kurioje jie gyvena, ir (arba) valstybinėje ar savivaldybės bendrojo ugdymo mokykloje nėra galimybės tęsti užsienio valstybėje pradėtos bendrojo ugdymo programos. Mokymosi išlaidų apmokama ar kompensuojama dalis, jos apskaičiavimo, apmokėjimo ar kompensavimo tvarka nustatoma [[#^s-28f08545bae1d5b7c82b054b|šio straipsnio 10 dalyje]] nurodyta tvarka. Jeigu atsižvelgiant į priimančiosios valstybės pranešimą atšauktas iš pareigų profesinės karo tarnybos karys yra skiriamas į kitas šio įstatymo [[#^s-1cda60218163277fbad86ab1|42 straipsnio 3 dalyje]] nurodytas pareigas, šioje dalyje nustatytos garantijos netaikomos nuo jo paskyrimo į pareigas dienos. ^s-4e8805760ec2c9bef52d88f0
 
 
-25. Profesinės karo tarnybos kario mirties ar žūties atveju apmokamos arba kompensuojamos mirusio ar žuvusio asmens asmeninio krovinio nugabenimo į Lietuvos Respubliką išlaidos neviršijant Vyriausybės nustatytų limitų, taip pat jo šeimos narių persikėlimo (įskaitant jo šeimos narių asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų) iš užsienio valstybės į Lietuvos Respubliką išlaidos, jeigu mirusio ar žuvusio profesinės karo tarnybos kario šeimos nariai persikelia iš užsienio valstybės į Lietuvos Respubliką per 3 mėnesius nuo profesinės karo tarnybos kario mirties ar žūties dienos. Be to, kartu su mirusiu ar žuvusiu profesinės karo tarnybos kariu gyvenusiems jo šeimos nariams iki jų persikėlimo į Lietuvos Respubliką dienos, ne ilgiau negu 3 mėnesius nuo profesinės karo tarnybos kario mirties ar žūties dienos, taikomos šio straipsnio 6–14 ir [[#^s-e97b6583ab0db107f8d66599|19 dalyse]], taip pat [[latest/TAR.0F9036415DBD#^s-18ee958e732a25eeb556f77b|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje]] nustatytos garantijos. ^s-52d02b83fb6a1f54f16a4603
+25. Profesinės karo tarnybos kario mirties ar žūties atveju apmokamos arba kompensuojamos mirusio ar žuvusio asmens asmeninio krovinio nugabenimo į Lietuvos Respubliką išlaidos neviršijant Vyriausybės nustatytų limitų, taip pat jo šeimos narių persikėlimo (įskaitant jo šeimos narių asmeninio krovinio nugabenimą neviršijant Vyriausybės nustatytų limitų) iš užsienio valstybės į Lietuvos Respubliką išlaidos, jeigu mirusio ar žuvusio profesinės karo tarnybos kario šeimos nariai persikelia iš užsienio valstybės į Lietuvos Respubliką per 3 mėnesius nuo profesinės karo tarnybos kario mirties ar žūties dienos. Be to, kartu su mirusiu ar žuvusiu profesinės karo tarnybos kariu gyvenusiems jo šeimos nariams iki jų persikėlimo į Lietuvos Respubliką dienos, ne ilgiau negu 3 mėnesius nuo profesinės karo tarnybos kario mirties ar žūties dienos, taikomos šio straipsnio [[#^s-4ef7f57334a75e3744328406|6]]–[[#^s-56a8afa043099c9acf0a5710|14]] ir [[#^s-e97b6583ab0db107f8d66599|19]] dalyse, taip pat [[latest/TAR.0F9036415DBD#^s-18ee958e732a25eeb556f77b|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje]] nustatytos garantijos. ^s-52d02b83fb6a1f54f16a4603
 
 
-26. Lietuvos Respublikos diplomatinėje atstovybėje, specialiojoje misijoje ar atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje tarnybą atliekantiems profesinės karo tarnybos kariams, pasiųstiems į komandiruotę į Lietuvos Respubliką, ir jų šeimos nariams ne ilgiau kaip 6 mėnesius nuo profesinės karo tarnybos kario komandiruotės į Lietuvos Respubliką dienos toliau taikomos šio straipsnio 3, 4, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 19 ir [[#^s-52d02b83fb6a1f54f16a4603|25 dalyse]] ir [[latest/TAR.0F9036415DBD#^s-18ee958e732a25eeb556f77b|Valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje]] nustatytos garantijos, taip pat [[#^s-a30793feeeebdd5d26b2d4f9|šio straipsnio 17 dalyje]] nustatyta automobilio, naudojamo tarnybos reikmėms, nuomos ir veiklos nuomos išlaidų atlyginimo garantija. ^s-a9059a365dd5dbf2a7317c1f
+26. Lietuvos Respublikos diplomatinėje atstovybėje, specialiojoje misijoje ar atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje arba gynybos institucijoje tarnybą atliekantiems profesinės karo tarnybos kariams, pasiųstiems į komandiruotę į Lietuvos Respubliką, ir jų šeimos nariams ne ilgiau kaip 6 mėnesius nuo profesinės karo tarnybos kario komandiruotės į Lietuvos Respubliką dienos toliau taikomos šio straipsnio [[#^s-56c22ea5006007993b63da39|3]], [[#^s-592800b6f53bbd2bae073888|4]], [[#^s-4ef7f57334a75e3744328406|6]], [[#^s-e3fcf34a055b39734e8024d3|7]], [[#^s-ebca5f3ab2f8d355e5d1bda1|8]], [[#^s-ea22269e06b28f871595bf91|9]], [[#^s-28f08545bae1d5b7c82b054b|10]], [[#^s-5dac5fef036188e4b48125e2|11]], [[#^s-7fbeea215c066a42bae2958e|12]], [[#^s-4adac4eee059ab288c4463af|13]], [[#^s-56a8afa043099c9acf0a5710|14]], [[#^s-ba1731a345584dcae997d9bb|15]], [[#^s-d86fe884635f1fbabe43882d|16]], [[#^s-e97b6583ab0db107f8d66599|19]] ir [[#^s-52d02b83fb6a1f54f16a4603|25]] dalyse ir [[latest/TAR.0F9036415DBD#^s-18ee958e732a25eeb556f77b|Valstybinio socialinio draudimo įstatymo 6 straipsnio 1 dalyje]] nustatytos garantijos, taip pat [[#^s-a30793feeeebdd5d26b2d4f9|šio straipsnio 17 dalyje]] nustatyta automobilio, naudojamo tarnybos reikmėms, nuomos ir veiklos nuomos išlaidų atlyginimo garantija. ^s-a9059a365dd5dbf2a7317c1f
 
 
 Straipsnio pakeitimai:
@@ -4199,7 +4199,7 @@ Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
 
 
-8. Kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, dalyvaujantiems tarptautinėje operacijoje, taip pat rengimosi tarptautinei operacijai metu mokamas atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinis atlyginimas ir taikomos šio straipsnio atitinkamai 3, 4 ar [[#^s-2297f7424d0d3c364578b4c7|5 dalies]], taip pat 7 ir [[#^s-0cb936ad35c3e3a00a03acbe|9 dalių]] nuostatos. ^s-6ceac13addf400f3ca4a106c
+8. Kariams savanoriams ir kitiems savanoriškos nenuolatinės karo tarnybos kariams, dalyvaujantiems tarptautinėje operacijoje, taip pat rengimosi tarptautinei operacijai metu mokamas atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinis atlyginimas ir taikomos šio straipsnio atitinkamai [[#^s-66091e46cc3f22c2519fa047|3]], [[#^s-f5470a2f0224cfa82f8f5d40|4]] ar [[#^s-2297f7424d0d3c364578b4c7|5]] dalies, taip pat [[#^s-3a687bc76cbf8d21ae22f046|7]] ir [[#^s-0cb936ad35c3e3a00a03acbe|9]] dalių nuostatos. ^s-6ceac13addf400f3ca4a106c
 Straipsnio dalies pakeitimai:
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
 
@@ -4219,7 +4219,7 @@ Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 1. Krašto apsaugos sistemos valstybės tarnautojams, žvalgybos pareigūnams ir darbuotojams, dirbantiems pagal darbo sutartis, siunčiamiems už Lietuvos Respublikos teritorijos ir išskirtinės ekonominės zonos ribų dalyvauti tarptautinėse operacijose, pasirengti dalyvauti tarptautinėse operacijose, taip pat vykdyti tarnybinių užduočių tarptautinės operacijos vietovėje, mokamas Lietuvos Respublikos Vyriausybės nustatyta tvarka apskaičiuotas vidutinis darbo užmokestis. ^s-090b5ab26cae80bfeae02b30
 
 
-2. Krašto apsaugos sistemos valstybės tarnautojams, žvalgybos pareigūnams ir darbuotojams, dirbantiems pagal darbo sutartis, už Lietuvos Respublikos teritorijos ir išskirtinės ekonominės zonos ribų dalyvaujantiems tarptautinėse operacijose, besirengiantiems dalyvauti tarptautinėse operacijose, vykdantiems tarnybines užduotis tarptautinės operacijos vietovėje, mutatis mutandis taikomos šio įstatymo [[#^s-d3dbcb06812d5440d2074fc2|611 straipsnio]] 3, 4, 5, 6, 7 ir 9 dalyse, o krašto apsaugos sistemos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, mutatis mutandis taikomos šio įstatymo [[#^s-b067cc00b81507ef2bac924f|67 straipsnio]] 6, 7, 8, 9, 10, 11, 12 ir 13 dalyse nustatytos garantijos, taip pat šio įstatymo [[#^s-21057e58fbf634da4d5daedc|68 straipsnio 5 dalyje]] nustatyta garantija, susijusi su palaikų parvežimu mirties (žūties) tarnybos tarptautinės operacijos kariniame vienete, tarptautinėje operacijoje ar pasirengimo tarptautinei operacijai už Lietuvos Respublikos teritorijos ribų metu. Šio įstatymo [[#^s-b067cc00b81507ef2bac924f|67 straipsnyje]] nustatytos kompensacijos apskaičiuojamos pagal teisės į kompensaciją atsiradimo momentu taikytiną vidutinį žuvusio (mirusio) asmens ar asmens, kurio sveikata buvo sutrikdyta, darbo užmokestį. ^s-918242458570bd68548c8274
+2. Krašto apsaugos sistemos valstybės tarnautojams, žvalgybos pareigūnams ir darbuotojams, dirbantiems pagal darbo sutartis, už Lietuvos Respublikos teritorijos ir išskirtinės ekonominės zonos ribų dalyvaujantiems tarptautinėse operacijose, besirengiantiems dalyvauti tarptautinėse operacijose, vykdantiems tarnybines užduotis tarptautinės operacijos vietovėje, mutatis mutandis taikomos šio įstatymo [[#^s-d3dbcb06812d5440d2074fc2|611 straipsnio]] [[#^s-66091e46cc3f22c2519fa047|3]], [[#^s-f5470a2f0224cfa82f8f5d40|4]], [[#^s-2297f7424d0d3c364578b4c7|5]], [[#^s-e00b7f65053b7638a21ba1db|6]], [[#^s-3a687bc76cbf8d21ae22f046|7]] ir [[#^s-0cb936ad35c3e3a00a03acbe|9]] dalyse, o krašto apsaugos sistemos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, mutatis mutandis taikomos šio įstatymo [[#^s-b067cc00b81507ef2bac924f|67 straipsnio]] [[#^s-f6984ec676951cd0a7d51093|6]], [[#^s-119c3d52825c709ce0f22bbc|7]], [[#^s-0054c41c92e2904e479e2feb|8]], [[#^s-a93a9891206ad542e958dd17|9]], [[#^s-d892384da8d4ebc66ab9936e|10]], [[#^s-ee597fdf2bc67887de709501|11]], [[#^s-c2c6529e9f1dabb4d71137c5|12]] ir [[#^s-c3aef9364878a5c5f7522f1b|13]] dalyse nustatytos garantijos, taip pat šio įstatymo [[#^s-21057e58fbf634da4d5daedc|68 straipsnio 5 dalyje]] nustatyta garantija, susijusi su palaikų parvežimu mirties (žūties) tarnybos tarptautinės operacijos kariniame vienete, tarptautinėje operacijoje ar pasirengimo tarptautinei operacijai už Lietuvos Respublikos teritorijos ribų metu. Šio įstatymo [[#^s-b067cc00b81507ef2bac924f|67 straipsnyje]] nustatytos kompensacijos apskaičiuojamos pagal teisės į kompensaciją atsiradimo momentu taikytiną vidutinį žuvusio (mirusio) asmens ar asmens, kurio sveikata buvo sutrikdyta, darbo užmokestį. ^s-918242458570bd68548c8274
 Straipsnio dalies pakeitimai:
 Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
@@ -4340,7 +4340,7 @@ Nr. XIII-1810, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21824
 
 
 
-11. Profesinės karo tarnybos kariams, turintiems žvalgybos pareigūno statusą, šio straipsnio 4 ir [[#^s-3395e4b2f9df9566e1a84752|5 dalių]] nuostatos netaikomos. ^s-48d18242af4fc42b8e447c1c
+11. Profesinės karo tarnybos kariams, turintiems žvalgybos pareigūno statusą, šio straipsnio [[#^s-0115e023ee9be9f49a4a36c3|4]] ir [[#^s-3395e4b2f9df9566e1a84752|5]] dalių nuostatos netaikomos. ^s-48d18242af4fc42b8e447c1c
 Straipsnio dalies pakeitimai:
 Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
 Straipsnio dalies numeracijos pakeitimas:
@@ -4527,7 +4527,7 @@ Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
 2. Pirminės asmens sveikatos priežiūros paslaugos, finansuojamos iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, kariuomenės padaliniuose teikiamos tik tiems [[#^s-c062f656e438a86a21242446|šio straipsnio 1 dalyje]] nurodytiems asmenims, kurie apdrausti privalomuoju sveikatos draudimu. Šios paslaugos kariuomenės padaliniuose taip pat teikiamos kitiems privalomuoju sveikatos draudimu apdraustiems asmenims. Pirminių asmens sveikatos priežiūros paslaugų, finansuojamų iš Privalomojo sveikatos draudimo fondo biudžeto lėšų, teikimo kariuomenės padaliniuose sąlygas ir tvarką nustato sveikatos apsaugos ministras, suderinęs su krašto apsaugos ministru. ^s-4a6d825f5942769cffdc089a
 
 
-3. Šio straipsnio 1 ir [[#^s-ebbb06543a14402c67b597ac|5 dalyse]] nurodytų karių ir kitų asmenų sveikatinimo veiklą Lietuvoje organizuoja ir vykdo kariuomenės padaliniai, taip pat naudojamasi kitų nacionalinės sveikatos sistemos asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis ir patarnavimais, už kuriuos atsiskaitoma Vyriausybės nustatyta tvarka. Užsienyje tarptautinėse operacijose ar specialiosiose misijose dalyvaujančių karių, krašto apsaugos sistemos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, sveikatinimo veiklą organizuoja ir vykdo Lietuvos kariuomenės padaliniai arba užsienio šalių ar tarptautinių organizacijų sveikatinimo veiklą vykdančios institucijos. ^s-b64712e066999403dc99acd4
+3. Šio straipsnio [[#^s-c062f656e438a86a21242446|1]] ir [[#^s-ebbb06543a14402c67b597ac|5]] dalyse nurodytų karių ir kitų asmenų sveikatinimo veiklą Lietuvoje organizuoja ir vykdo kariuomenės padaliniai, taip pat naudojamasi kitų nacionalinės sveikatos sistemos asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis ir patarnavimais, už kuriuos atsiskaitoma Vyriausybės nustatyta tvarka. Užsienyje tarptautinėse operacijose ar specialiosiose misijose dalyvaujančių karių, krašto apsaugos sistemos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, sveikatinimo veiklą organizuoja ir vykdo Lietuvos kariuomenės padaliniai arba užsienio šalių ar tarptautinių organizacijų sveikatinimo veiklą vykdančios institucijos. ^s-b64712e066999403dc99acd4
 Straipsnio dalies pakeitimai:
 Nr. XIII-1810, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21824
 
@@ -4570,7 +4570,7 @@ Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
 ### 651 straipsnis. Socialinės integracijos priemonės ^s-d5bb6c9579103651b6db3ece
 
 
-1. Kariams, į tarptautines operacijas ar specialiąsias misijas siunčiamiems, jose dalyvaujantiems ir dalyvavusiems krašto apsaugos sistemos valstybės tarnautojams, žvalgybos pareigūnams, tarnaujantiems pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojams, dirbantiems pagal darbo sutartis, į tarptautines operacijas ar specialiąsias misijas siunčiamų, jose dalyvaujančių ir dalyvavusių karių, krašto apsaugos sistemos valstybės tarnautojų, žvalgybos pareigūnų, tarnaujančių pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojų, dirbančių pagal darbo sutartis, taip pat karių, atliekančių tarnybą – ilgalaikį plaukiojimą ar grįžusių iš ilgalaikio plaukiojimo, sutuoktiniams, vaikams (įvaikiams), tėvams (įtėviams), asmenims, kurių globėjais ar rūpintojais jie paskirti, karių, krašto apsaugos sistemos valstybės tarnautojų, žvalgybos pareigūnų, tarnaujančių pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojų, dirbančių pagal darbo sutartis, sutuoktinių vaikams (įvaikiams), asmenims, kurių globėjais ar rūpintojais jie paskirti, su siunčiamais į tarptautines operacijas ar specialiąsias misijas, jose dalyvaujančiais ir dalyvavusiais kariais, krašto apsaugos sistemos valstybės tarnautojais, žvalgybos pareigūnais, tarnaujančiais pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojais, dirbančiais pagal darbo sutartis, su siunčiamais į tarnybą – ilgalaikį plaukiojimą ar grįžusiais iš ilgalaikio plaukiojimo kariais bendrai gyvenantiems asmenims, nurodytiems Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, taip pat šio įstatymo 65 straipsnio 1 dalies 4 ir 8 punktuose nurodytiems asmenims teikiamos iš Krašto apsaugos ministerijai skirtų asignavimų finansuojamos psichologų paslaugos, kurių mastą ir tvarką nustato krašto apsaugos ministras. ^s-7f41f09995506456a6615782
+1. Kariams, į tarptautines operacijas ar specialiąsias misijas siunčiamiems, jose dalyvaujantiems ir dalyvavusiems krašto apsaugos sistemos valstybės tarnautojams, žvalgybos pareigūnams, tarnaujantiems pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojams, dirbantiems pagal darbo sutartis, į tarptautines operacijas ar specialiąsias misijas siunčiamų, jose dalyvaujančių ir dalyvavusių karių, krašto apsaugos sistemos valstybės tarnautojų, žvalgybos pareigūnų, tarnaujančių pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojų, dirbančių pagal darbo sutartis, taip pat karių, atliekančių tarnybą – ilgalaikį plaukiojimą ar grįžusių iš ilgalaikio plaukiojimo, sutuoktiniams, vaikams (įvaikiams), tėvams (įtėviams), asmenims, kurių globėjais ar rūpintojais jie paskirti, karių, krašto apsaugos sistemos valstybės tarnautojų, žvalgybos pareigūnų, tarnaujančių pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojų, dirbančių pagal darbo sutartis, sutuoktinių vaikams (įvaikiams), asmenims, kurių globėjais ar rūpintojais jie paskirti, su siunčiamais į tarptautines operacijas ar specialiąsias misijas, jose dalyvaujančiais ir dalyvavusiais kariais, krašto apsaugos sistemos valstybės tarnautojais, žvalgybos pareigūnais, tarnaujančiais pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojais, dirbančiais pagal darbo sutartis, su siunčiamais į tarnybą – ilgalaikį plaukiojimą ar grįžusiais iš ilgalaikio plaukiojimo kariais bendrai gyvenantiems asmenims, nurodytiems [[latest/TAR.3EEE59417F13|Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme, taip pat šio įstatymo 65 straipsnio 1 dalies]] [[latest/TAR.3EEE59417F13|4]] ir [[latest/TAR.3EEE59417F13|8]] punktuose nurodytiems asmenims teikiamos iš Krašto apsaugos ministerijai skirtų asignavimų finansuojamos psichologų paslaugos, kurių mastą ir tvarką nustato krašto apsaugos ministras. ^s-7f41f09995506456a6615782
 
 
 2. Reintegracija taikoma grįžusiems iš tarptautinės operacijos, specialiosios misijos ar ilgalaikio plaukiojimo kariams, krašto apsaugos sistemos valstybės tarnautojams, žvalgybos pareigūnams, tarnaujantiems pagal žvalgybos pareigūno tarnybos sutartis, ir darbuotojams, dirbantiems pagal darbo sutartis, taip pat jų sutuoktiniui, vaikams (įvaikiams), tėvams (įtėviams), asmenims, kurių globėju ar rūpintoju jie paskirti, kario, krašto apsaugos sistemos valstybės tarnautojo, žvalgybos pareigūno, tarnaujančio pagal žvalgybos pareigūno tarnybos sutartį, ir darbuotojo sutuoktinio vaikams (įvaikiams), asmenims, kurių globėju ar rūpintoju jie paskirti, su kariu bendrai gyvenantiems asmenims, nurodytiems [[latest/TAR.3EEE59417F13|Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatyme]]. Reintegracijos tvarką ir priemones nustato krašto apsaugos ministras. Šios paslaugos finansuojamos iš Krašto apsaugos ministerijai skirtų asignavimų. ^s-77f3e94b38a276e651320bb8
@@ -4582,7 +4582,7 @@ Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
 
 
-4. Tikrosios karo tarnybos, atsargos ir dimisijos kariams, turintiems sveikatos sutrikimų, dėl kurių jie įgijo teisę į šio įstatymo [[#^s-b067cc00b81507ef2bac924f|67 straipsnio]] 6–11 dalyse nustatytas garantijas šio įstatymo [[#^s-b067cc00b81507ef2bac924f|67 straipsnyje]] nustatytomis sąlygomis, taip pat asmenims, atitinkantiems visas šias sąlygas: turintiems sveikatos sutrikimų, kurie atsirado dėl dalyvavimo ginant Lietuvos Respublikos laisvę SSRS karinės agresijos laikotarpiu, 1991 m. sausio 11 d. – rugpjūčio 21 d., tarnaujant krašto apsaugos sistemoje, kai dėl šių sveikatos sutrikimų jiems nustatytas dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygis, bei pripažintiems nukentėjusiaisiais kovojant už Lietuvos Respublikos laisvę, iš Krašto apsaugos ministerijai skirtų asignavimų kompensuojamos: ^s-4908209e69975b6c7f9c103e
+4. Tikrosios karo tarnybos, atsargos ir dimisijos kariams, turintiems sveikatos sutrikimų, dėl kurių jie įgijo teisę į šio įstatymo [[#^s-b067cc00b81507ef2bac924f|67 straipsnio]] [[#^s-f6984ec676951cd0a7d51093|6]]–[[#^s-ee597fdf2bc67887de709501|11]] dalyse nustatytas garantijas šio įstatymo [[#^s-b067cc00b81507ef2bac924f|67 straipsnyje]] nustatytomis sąlygomis, taip pat asmenims, atitinkantiems visas šias sąlygas: turintiems sveikatos sutrikimų, kurie atsirado dėl dalyvavimo ginant Lietuvos Respublikos laisvę SSRS karinės agresijos laikotarpiu, 1991 m. sausio 11 d. – rugpjūčio 21 d., tarnaujant krašto apsaugos sistemoje, kai dėl šių sveikatos sutrikimų jiems nustatytas dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) lygis, bei pripažintiems nukentėjusiaisiais kovojant už Lietuvos Respublikos laisvę, iš Krašto apsaugos ministerijai skirtų asignavimų kompensuojamos: ^s-4908209e69975b6c7f9c103e
 Straipsnio dalies pakeitimai:
 Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
@@ -4612,7 +4612,7 @@ Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 
 
 
-6. Šio straipsnio 3 ir [[#^s-4908209e69975b6c7f9c103e|4 dalyse]] nurodytų išlaidų kompensavimo tvarką nustato Vyriausybė arba jos įgaliota institucija. ^s-3b4da8be19f6646c3ef596e4
+6. Šio straipsnio [[#^s-4174913c462678969eac7d0e|3]] ir [[#^s-4908209e69975b6c7f9c103e|4]] dalyse nurodytų išlaidų kompensavimo tvarką nustato Vyriausybė arba jos įgaliota institucija. ^s-3b4da8be19f6646c3ef596e4
 
 
  Straipsnio pakeitimai:
@@ -4646,7 +4646,7 @@ Nr. XII-2510, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20647
 ### 67 straipsnis. Vienkartinės kompensacijos kario žūties (mirties) ar sveikatos sutrikimo atveju ^s-b067cc00b81507ef2bac924f
 
 
-1. Kariui žuvus (mirus) ar sutrikus jo sveikatai dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, arba kai karys nužudytas ar jo sveikata sutrikdyta dėl priežasčių, susijusių su kario statusu, taip pat sutrikus kario sveikatai dėl nelaimingo atsitikimo tarnyboje arba nelaimingo atsitikimo pakeliui į tarnybą ar iš tarnybos, iš Krašto apsaugos ministerijai skirtų asignavimų išmokama šiame straipsnyje nustatytomis sąlygomis ir tvarka šio straipsnio 6, 7, 8, 9, 10, 11, 12 ir [[#^s-c3aef9364878a5c5f7522f1b|13 dalyse]] nustatyto dydžio vienkartinė kompensacija. Šio straipsnio 6, 7, 8, 9, 10 ir [[#^s-ee597fdf2bc67887de709501|11 dalyse]] nustatyta vienkartinė kompensacija mažinama priklausančios išmokėti [[latest/TAR.4325B0C38B2F|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme]] nustatytos netekto dalyvumo vienkartinės kompensacijos ar netekto dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu ir pagal [[#^s-c2c6529e9f1dabb4d71137c5|šio straipsnio 12 dalį]] išmokėtos kompensacijos dydžiu. [[#^s-c3aef9364878a5c5f7522f1b|Šio straipsnio 13 dalyje]] nustatyta vienkartinė kompensacija mažinama priklausančios išmokėti [[latest/TAR.4325B0C38B2F|Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme]] nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu. ^s-87cb0721fd50141561e2b9e6
+1. Kariui žuvus (mirus) ar sutrikus jo sveikatai dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, arba kai karys nužudytas ar jo sveikata sutrikdyta dėl priežasčių, susijusių su kario statusu, taip pat sutrikus kario sveikatai dėl nelaimingo atsitikimo tarnyboje arba nelaimingo atsitikimo pakeliui į tarnybą ar iš tarnybos, iš Krašto apsaugos ministerijai skirtų asignavimų išmokama šiame straipsnyje nustatytomis sąlygomis ir tvarka šio straipsnio [[#^s-f6984ec676951cd0a7d51093|6]], [[#^s-119c3d52825c709ce0f22bbc|7]], [[#^s-0054c41c92e2904e479e2feb|8]], [[#^s-a93a9891206ad542e958dd17|9]], [[#^s-d892384da8d4ebc66ab9936e|10]], [[#^s-ee597fdf2bc67887de709501|11]], [[#^s-c2c6529e9f1dabb4d71137c5|12]] ir [[#^s-c3aef9364878a5c5f7522f1b|13]] dalyse nustatyto dydžio vienkartinė kompensacija. Šio straipsnio [[#^s-f6984ec676951cd0a7d51093|6]], [[#^s-119c3d52825c709ce0f22bbc|7]], [[#^s-0054c41c92e2904e479e2feb|8]], [[#^s-a93a9891206ad542e958dd17|9]], [[#^s-d892384da8d4ebc66ab9936e|10]] ir [[#^s-ee597fdf2bc67887de709501|11]] dalyse nustatyta vienkartinė kompensacija mažinama priklausančios išmokėti [[latest/TAR.4325B0C38B2F|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme]] nustatytos netekto dalyvumo vienkartinės kompensacijos ar netekto dalyvumo (iki 2023 m. gruodžio 31 d. – darbingumo) periodinės kompensacijos, mokėtinos ne daugiau kaip 12 mėnesių, dydžiu ir pagal [[#^s-c2c6529e9f1dabb4d71137c5|šio straipsnio 12 dalį]] išmokėtos kompensacijos dydžiu. [[#^s-c3aef9364878a5c5f7522f1b|Šio straipsnio 13 dalyje]] nustatyta vienkartinė kompensacija mažinama priklausančios išmokėti [[latest/TAR.4325B0C38B2F|Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme]] nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu. ^s-87cb0721fd50141561e2b9e6
 
 
 2. Kariui žuvus (mirus) dėl priežasčių, susijusių su kario statusu, išskyrus [[#^s-87cb0721fd50141561e2b9e6|šio straipsnio 1 dalyje]] nustatytus atvejus, iš Krašto apsaugos ministerijai skirtų asignavimų išmokama šiame straipsnyje nustatytomis sąlygomis ir tvarka [[#^s-d2ee70fb0ff38d2a259bbbac|šio straipsnio 14 dalyje]] nustatyto dydžio vienkartinė kompensacija, kuri mažinama priklausančios išmokėti [[latest/TAR.4325B0C38B2F|Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme]] nustatytos vienkartinės socialinio draudimo išmokos apdraustajam mirus dydžiu. ^s-a06f21e3a4c0e38b3f9bb4f6
@@ -4689,7 +4689,7 @@ TAR pastaba: Kariams, kuriems iki [[latest/3799d4f0a54c11eea5a28c81c82193a8|įst
 14. Kariui žuvus (mirus) dėl priežasčių, susijusių su kario statusu, išskyrus [[#^s-87cb0721fd50141561e2b9e6|šio straipsnio 1 dalyje]] numatytus atvejus, mokama 9,31 atitinkamo kario laipsnio profesinės karo tarnybos kariui pirmaisiais tarnybos metais nustatyto dydžio tarnybinio atlyginimo vienkartinė kompensacija. Kariūnui žuvus (mirus) dėl priežasčių, susijusių su kario statusu, išskyrus [[#^s-87cb0721fd50141561e2b9e6|šio straipsnio 1 dalyje]] numatytus atvejus, mokama 9,31 profesinės karo tarnybos eiliniui pirmaisiais tarnybos metais nustatyto dydžio tarnybinių atlyginimų vienkartinė kompensacija. Vienkartinė kompensacija krašto apsaugos ministro sprendimu gali būti išmokama dalimis, bet ne ilgiau kaip per 12 mėnesių nuo sprendimo dėl vienkartinės kompensacijos išmokėjimo priėmimo dienos. ^s-d2ee70fb0ff38d2a259bbbac
 
 
-15. Pagal šio straipsnio 13 ir [[#^s-d2ee70fb0ff38d2a259bbbac|14 dalis]] vienkartinė kompensacija lygiomis dalimis išmokama žuvusiojo (mirusiojo) sutuoktiniui, tėvui, motinai ir kiekvienam kario išlaikytiniui. Išlaikytiniai yra nedarbingi asmenys, kurie buvo žuvusiojo (mirusiojo) išlaikomi arba jo žūties (mirties) dieną turėjo teisę gauti iš jo išlaikymą; taip pat žuvusiojo (mirusiojo) vaikai, gimę po jo žūties (mirties); vaikai, iki jiems sukaks 18 metų, o vaikai, kurie mokosi bendrojo ugdymo mokyklose, profesinio mokymo įstaigose, aukštosiose mokyklose pagal nuolatinės ar ištęstinės studijų formų programas, – iki jiems sukaks 24 metai, taip pat asmenys su negalia. ^s-8650f0c86ff377af8b688c6b
+15. Pagal šio straipsnio [[#^s-c3aef9364878a5c5f7522f1b|13]] ir [[#^s-d2ee70fb0ff38d2a259bbbac|14]] dalis vienkartinė kompensacija lygiomis dalimis išmokama žuvusiojo (mirusiojo) sutuoktiniui, tėvui, motinai ir kiekvienam kario išlaikytiniui. Išlaikytiniai yra nedarbingi asmenys, kurie buvo žuvusiojo (mirusiojo) išlaikomi arba jo žūties (mirties) dieną turėjo teisę gauti iš jo išlaikymą; taip pat žuvusiojo (mirusiojo) vaikai, gimę po jo žūties (mirties); vaikai, iki jiems sukaks 18 metų, o vaikai, kurie mokosi bendrojo ugdymo mokyklose, profesinio mokymo įstaigose, aukštosiose mokyklose pagal nuolatinės ar ištęstinės studijų formų programas, – iki jiems sukaks 24 metai, taip pat asmenys su negalia. ^s-8650f0c86ff377af8b688c6b
 
 
 16. Krašto apsaugos ministerija gali drausti savo civilinę atsakomybę kario žūties (mirties) ir sveikatos sutrikimo atvejais. ^s-0ddb04c80577f7ca5a97ff58
@@ -4849,7 +4849,7 @@ Atskirų šio įstatymo normų įgyvendinimo tvarką nustato [[latest/TAR.655148
 ### 781 straipsnis. Baziniais dydžiais nustatytų dydžių perskaičiavimas ^s-833c9c83dbf9028acb90f165
 
 
-Šiame įstatyme baziniais dydžiais nustatyti tarnybinio atlyginimo, priedų, priemokų ir šio įstatymo [[#^s-d3dbcb06812d5440d2074fc2|611 straipsnio]] 4 ir 5 dalyse nustatytų kompensacijų dydžiai perskaičiuojami taikant [[latest/8253c29006c711ee9978886e85107ab2|Pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatymo]] nustatyta tvarka nacionalinėje kolektyvinėje sutartyje sutartą, Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytą asignavimų darbo užmokesčiui indeksavimo dydį.
+Šiame įstatyme baziniais dydžiais nustatyti tarnybinio atlyginimo, priedų, priemokų ir šio įstatymo [[#^s-d3dbcb06812d5440d2074fc2|611 straipsnio]] [[#^s-f5470a2f0224cfa82f8f5d40|4]] ir [[#^s-2297f7424d0d3c364578b4c7|5]] dalyse nustatytų kompensacijų dydžiai perskaičiuojami taikant [[latest/8253c29006c711ee9978886e85107ab2|Pareiginės algos (atlyginimo) bazinio dydžio nustatymo ir asignavimų darbo užmokesčiui perskaičiavimo įstatymo]] nustatyta tvarka nacionalinėje kolektyvinėje sutartyje sutartą, Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme nurodytą asignavimų darbo užmokesčiui indeksavimo dydį.
 
 
 Papildyta straipsniu:
@@ -4863,16 +4863,16 @@ Nr. XIV-2368, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25621
 Įsigaliojus šiam įstatymui, pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos savanoriškosios krašto apsaugos tarnybos įstatymas (Žin., 1991, Nr.4-106); ^s-a37535c909df6821b55bc369
+1) [Lietuvos Respublikos savanoriškosios krašto apsaugos tarnybos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.62297C88717F) (Žin., 1991, Nr.4-106); ^s-a37535c909df6821b55bc369
 
 
 2) Lietuvos Respublikos krašto apsaugos tarnybos įstatymas (Žin., 1996, Nr. 101-2302); ^s-fc4de1ecb5c94773d0166695
 
 
-3) Lietuvos Respublikos krašto apsaugos tarnybos įstatymo [[#^s-23a527b1c1007c9346b151bb|6 straipsnio]] pakeitimo įstatymas (Žin., 1997, Nr.30-705); ^s-944581c055c34e2ffa633b3e
+3) [Lietuvos Respublikos krašto apsaugos tarnybos įstatymo 6 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.0AB37BAEF36C) (Žin., 1997, Nr.30-705); ^s-944581c055c34e2ffa633b3e
 
 
-4) Lietuvos Respublikos krašto apsaugos tarnybos įstatymo [[#^s-2d433e2cc4feb0ade63a8630|40 straipsnio]] įgyvendinimo įstatymas (Žin., 1997, Nr.41-990). ^s-0b1bf2fa1a8a2a950d89638e
+4) [Lietuvos Respublikos krašto apsaugos tarnybos įstatymo 40 straipsnio įgyvendinimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E602DFD80267) (Žin., 1997, Nr.41-990). ^s-0b1bf2fa1a8a2a950d89638e
 
 
 
@@ -5318,7 +5318,7 @@ Nr. VIII-1027, 99.01.14, Žin., 1999, Nr.11-246 (99.01.27)
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1289, 99.07.07, Žin., 1999, Nr.64-2069 (99.07.23)
-LIETUVOS RESPUBLIKOS KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 2, 3, 10, 11, 13, 25, 26, 28, 31, 34, 38, 39, 40, 43, 45, 46, 48, 50, 53, 54, 55, 56, 60, 62, 63, 64, 65, 68, 72, 73 STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 77(1) STRAIPSNIU ĮSTATYMAS
+LIETUVOS RESPUBLIKOS KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO [[#^s-801932a6d79a7ad805fdc003|2]], [[#^s-2d5fd1f8919227324d2384b1|3]], [[#^s-3613050324a7cb926ababbc7|10]], [[#^s-e785cda06b9e04f4cc2d3737|11]], [[#^s-a63b2b837be613a404809deb|13]], [[#^s-81dc02c7729e93478760a8f3|25]], [[#^s-966318207aa9476388139124|26]], [[#^s-e91b1764491fc27ab1a703dd|28]], [[#^s-31c5885f8b9cb3f1678fea01|31]], [[#^s-22a14e796b97ee4fe6ea7df3|34]], [[#^s-fe76eb7a9bd7b2f84723a03a|38]], [[#^s-ec94ed5e52244e76c120d41c|39]], [[#^s-2d433e2cc4feb0ade63a8630|40]], [[#^s-4a70bcf3244827fff511f950|43]], [[#^s-74a255f72c41e260aac3d84a|45]], [[#^s-05f89e2d6ebc1d218bf3d4f6|46]], [[#^s-dea20986e367c7b4efa5d74b|48]], [[#^s-3a63b19cc08cc7539571b469|50]], [[#^s-3398d1eef5e54ac3d0bb5c05|53]], [[#^s-5e9541fc2fcb42f547c0294f|54]], [[#^s-302f30e08c2b2bd6cca84fd5|55]], [[#^s-bfaf777ae9dc49aaeaefc11d|56]], [[#^s-c753afd31f5f4877ee582396|60]], [[#^s-89d5f2a0b7780e1fc9cbb17a|62]], [[#^s-f335b83866031921dca65753|63]], [[#^s-c2b638ac98f9b89bbc239cc7|64]], [[#^s-452f7321e837288492c415a4|65]], [[#^s-8f15f4a77125f46b3fcadf7a|68]], [[latest/TAR.15C705E93776|72]], [[latest/TAR.15C705E93776|73]] STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 77(1) STRAIPSNIU ĮSTATYMAS
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5466,7 +5466,7 @@ Nr. XI-754, 2010-04-13, Žin., 2010, Nr. 48-2303 (2010-04-27)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-822, 2010-05-18, Žin., 2010, Nr. 63-3099 (2010-05-31)
 [[latest/TAR.1FDE832EEE9B|KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 2, 3, 10, 11, 16, 17, 18, 21, 22, 28, 29, 31, 32, 33, 34, 36, 38, 42, 44, 45, 50, 52, 53, 54, 55, 59, 62, 65, 66, 68, 69, 73 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo 12, 14, 20, 22, 23, [[#^s-98185ed2b431bbcd785c5eae|24 straipsniai]], [[#^s-72dfa157b2470d875c0d5a80|25 straipsnio 1 dalis]], 34 ir [[#^s-fccbd2aed3edaa44e9a90d8c|35 straipsniai]] įsigalioja 2011 m. sausio 1 d.
+Šio įstatymo [[#^s-bf0bd50fa8fe2d6b612b2d0e|12]], [[#^s-3b9f9fea8db3b2f91c8d408a|14]], [[#^s-3a497dbb15be0f396ec9ca0e|20]], [[#^s-30f5d95f66178ef06f2c2050|22]], [[#^s-dcf6fa8240a4990181655ded|23]], [[#^s-98185ed2b431bbcd785c5eae|24]] straipsniai, [[#^s-72dfa157b2470d875c0d5a80|25 straipsnio 1 dalis]], [[#^s-22a14e796b97ee4fe6ea7df3|34]] ir [[#^s-fccbd2aed3edaa44e9a90d8c|35]] straipsniai įsigalioja 2011 m. sausio 1 d.
 Šio įstatymo [[#^s-31c5885f8b9cb3f1678fea01|31 straipsnis]] įsigalioja 2012 m. sausio 1 d.
 
 30.
@@ -5496,7 +5496,7 @@ Nr. XI-1415, 2011-05-26, Žin., 2011, Nr. 72-3466 (2011-06-14)
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1509, 2011-06-23, Žin., 2011, Nr. 86-4151 (2011-07-13)
-KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 2, 10, 11, 13, 17, 21, 22, 23, 28, 29, 30, 31, 32, 34, 36, 37, 38, 44, 47, 48, 49, 50, 54, 55, 59, 60, 62, 63, 64, 65, 66, 67, 68, [[#^s-bed0ca15f87a31b470e2c70b|69 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 10(1), 32(1) STRAIPSNIAIS ĮSTATYMAS
+KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO [[#^s-801932a6d79a7ad805fdc003|2]], [[#^s-3613050324a7cb926ababbc7|10]], [[#^s-e785cda06b9e04f4cc2d3737|11]], [[#^s-a63b2b837be613a404809deb|13]], [[#^s-1ebc8967969a46580f6110bc|17]], [[#^s-5e1ffbac74aa4df07fd50fb6|21]], [[#^s-30f5d95f66178ef06f2c2050|22]], [[#^s-dcf6fa8240a4990181655ded|23]], [[#^s-e91b1764491fc27ab1a703dd|28]], [[#^s-07f75635ee8a6818eb8646ea|29]], [[#^s-be988511cf8365b44618ad05|30]], [[#^s-31c5885f8b9cb3f1678fea01|31]], [[#^s-cfe652fdd18265a4f9d35540|32]], [[#^s-22a14e796b97ee4fe6ea7df3|34]], [[#^s-30416cca08fb2df42410d8cd|36]], [[#^s-95e76d8bad0973888425a319|37]], [[#^s-fe76eb7a9bd7b2f84723a03a|38]], [[#^s-632cd43c8779f9bb900e951a|44]], [[#^s-c6609dde1d855bec466f361d|47]], [[#^s-dea20986e367c7b4efa5d74b|48]], [[#^s-117e7f62ab358a43db426915|49]], [[#^s-3a63b19cc08cc7539571b469|50]], [[#^s-5e9541fc2fcb42f547c0294f|54]], [[#^s-302f30e08c2b2bd6cca84fd5|55]], [[#^s-5e39633eb5dfb05d7313cc33|59]], [[#^s-c753afd31f5f4877ee582396|60]], [[#^s-89d5f2a0b7780e1fc9cbb17a|62]], [[#^s-f335b83866031921dca65753|63]], [[#^s-c2b638ac98f9b89bbc239cc7|64]], [[#^s-452f7321e837288492c415a4|65]], [[#^s-bad1cbb502b1a66ff21359d6|66]], [[#^s-b067cc00b81507ef2bac924f|67]], [[#^s-8f15f4a77125f46b3fcadf7a|68]], [[#^s-bed0ca15f87a31b470e2c70b|69]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 10(1), 32(1) STRAIPSNIAIS ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-fe76eb7a9bd7b2f84723a03a|38 straipsnį]], įsigalioja 2011 m. rugsėjo 1 d.
 
 35.
@@ -5513,7 +5513,7 @@ KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 68 STRAIPSNIO 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2292, 2012-10-17, Žin., 2012, Nr. 129-6466 (2012-11-08)
-KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 2, 3, 9, 10, 25, 60, 63, 72, 73, 74 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI 77(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO [[#^s-801932a6d79a7ad805fdc003|2]], [[#^s-2d5fd1f8919227324d2384b1|3]], [[#^s-3d9acb54e7ad64296b6cba59|9]], [[#^s-3613050324a7cb926ababbc7|10]], [[#^s-81dc02c7729e93478760a8f3|25]], [[#^s-c753afd31f5f4877ee582396|60]], [[#^s-f335b83866031921dca65753|63]], [[latest/TAR.15C705E93776|72]], [[latest/TAR.15C705E93776|73]], [[latest/TAR.15C705E93776|74]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI 77(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 Šio įstatymas įsigalioja 2013 m. sausio 1 d.
 
 38.
@@ -5557,7 +5557,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2002-07-02, Žin., 2002, Nr. 69-2832 (2002-07-05)
-DĖL [[#^s-710c501e43798aa8b588893c|LIETUVOS RESPUBLIKOS KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 48 STRAIPSNIO 2 DALIES]] ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS KRAŠTO APSAUGOS SISTEMOS ORGANIZAVIMO IR KARO TARNYBOS ĮSTATYMO 48 STRAIPSNIO 2 DALIES ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.AA62A5F27B16)
 
 
 
@@ -5568,7 +5568,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1158, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13595
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 38, 45, 70 ir 73 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-fe76eb7a9bd7b2f84723a03a|38]], [[#^s-74a255f72c41e260aac3d84a|45]], [[#^s-8bec80d4c3439a3cf69cbdba|70]] ir 73 straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5578,12 +5578,12 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1286, 2014-10-21, paskelbta TAR 2014-10-28, i. k. 2014-15003
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 3 ir [[#^s-3b9f9fea8db3b2f91c8d408a|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-2d5fd1f8919227324d2384b1|3]] ir [[#^s-3b9f9fea8db3b2f91c8d408a|14]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1445, 2014-12-16, paskelbta TAR 2014-12-29, i. k. 2014-20786
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 10, 18 ir [[#^s-81dc02c7729e93478760a8f3|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-3613050324a7cb926ababbc7|10]], [[#^s-13ad9fa51d858108779bc341|18]] ir [[#^s-81dc02c7729e93478760a8f3|25]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5598,7 +5598,7 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1608, 2015-04-14, paskelbta TAR 2015-04-20, i. k. 2015-06034
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 64 ir [[#^s-8f15f4a77125f46b3fcadf7a|68 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-c2b638ac98f9b89bbc239cc7|64]] ir [[#^s-8f15f4a77125f46b3fcadf7a|68]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5608,17 +5608,17 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1563, 2015-03-26, paskelbta TAR 2015-04-08, i. k. 2015-05375
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 26 ir 72 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-966318207aa9476388139124|26]] ir 72 straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1641, 2015-04-23, paskelbta TAR 2015-05-07, i. k. 2015-06839
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 13, 18, 20, 28, 29, 31, 35, 38, 54, 56, 59, 60, 61, 62, 63, 65, 65-1, 67, 68, 72 ir 77-2 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-a63b2b837be613a404809deb|13]], [[#^s-13ad9fa51d858108779bc341|18]], [[#^s-3a497dbb15be0f396ec9ca0e|20]], [[#^s-e91b1764491fc27ab1a703dd|28]], [[#^s-07f75635ee8a6818eb8646ea|29]], [[#^s-31c5885f8b9cb3f1678fea01|31]], [[#^s-fccbd2aed3edaa44e9a90d8c|35]], [[#^s-fe76eb7a9bd7b2f84723a03a|38]], [[#^s-5e9541fc2fcb42f547c0294f|54]], [[#^s-bfaf777ae9dc49aaeaefc11d|56]], [[#^s-5e39633eb5dfb05d7313cc33|59]], [[#^s-c753afd31f5f4877ee582396|60]], [[#^s-c522999991b29f821f158589|61]], [[#^s-89d5f2a0b7780e1fc9cbb17a|62]], [[#^s-f335b83866031921dca65753|63]], [[#^s-452f7321e837288492c415a4|65]], 65-1, [[#^s-b067cc00b81507ef2bac924f|67]], [[#^s-8f15f4a77125f46b3fcadf7a|68]], 72 ir 77-2 straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1823, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10574
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 65 ir 65-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-452f7321e837288492c415a4|65]] ir 65-1 straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5633,37 +5633,37 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2489, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17982
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 35, 42, 44, 49, 59, 60, 61, 62, 63, 64, 65-1, [[#^s-bed0ca15f87a31b470e2c70b|69 straipsnių]] pakeitimo ir Įstatymo papildymo 63-1 straipsniu įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-801932a6d79a7ad805fdc003|2]], [[#^s-fccbd2aed3edaa44e9a90d8c|35]], [[#^s-f9488e4cd95d1896559b03e7|42]], [[#^s-632cd43c8779f9bb900e951a|44]], [[#^s-117e7f62ab358a43db426915|49]], [[#^s-5e39633eb5dfb05d7313cc33|59]], [[#^s-c753afd31f5f4877ee582396|60]], [[#^s-c522999991b29f821f158589|61]], [[#^s-89d5f2a0b7780e1fc9cbb17a|62]], [[#^s-f335b83866031921dca65753|63]], [[#^s-c2b638ac98f9b89bbc239cc7|64]], 65-1, [[#^s-bed0ca15f87a31b470e2c70b|69]] straipsnių pakeitimo ir Įstatymo papildymo 63-1 straipsniu įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2429, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17526
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 10-1, 11 ir [[#^s-5e39633eb5dfb05d7313cc33|59 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 10-1, [[#^s-e785cda06b9e04f4cc2d3737|11]] ir [[#^s-5e39633eb5dfb05d7313cc33|59]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2510, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20647
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 65, 66, 67, 68, 70 ir 72 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-452f7321e837288492c415a4|65]], [[#^s-bad1cbb502b1a66ff21359d6|66]], [[#^s-b067cc00b81507ef2bac924f|67]], [[#^s-8f15f4a77125f46b3fcadf7a|68]], [[#^s-8bec80d4c3439a3cf69cbdba|70]] ir 72 straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2722, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26833
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 12, 13, 18, 20, 21, 28, 29, 44, 53, 55, 59, 62, 65, 65-1, 67, 68 ir 77-2 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-801932a6d79a7ad805fdc003|2]], [[#^s-bf0bd50fa8fe2d6b612b2d0e|12]], [[#^s-a63b2b837be613a404809deb|13]], [[#^s-13ad9fa51d858108779bc341|18]], [[#^s-3a497dbb15be0f396ec9ca0e|20]], [[#^s-5e1ffbac74aa4df07fd50fb6|21]], [[#^s-e91b1764491fc27ab1a703dd|28]], [[#^s-07f75635ee8a6818eb8646ea|29]], [[#^s-632cd43c8779f9bb900e951a|44]], [[#^s-3398d1eef5e54ac3d0bb5c05|53]], [[#^s-302f30e08c2b2bd6cca84fd5|55]], [[#^s-5e39633eb5dfb05d7313cc33|59]], [[#^s-89d5f2a0b7780e1fc9cbb17a|62]], [[#^s-452f7321e837288492c415a4|65]], 65-1, [[#^s-b067cc00b81507ef2bac924f|67]], [[#^s-8f15f4a77125f46b3fcadf7a|68]] ir 77-2 straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-144, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29774
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 65, 66, 67, 68, 70 ir 72 straipsnių pakeitimo [[latest/1dcf82704a7011e6b5d09300a16a686c|įstatymo Nr. XII-2510]] [[#^s-05e5219fb5ff1ea6f0a8dfee|7 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-452f7321e837288492c415a4|65]], [[#^s-bad1cbb502b1a66ff21359d6|66]], [[#^s-b067cc00b81507ef2bac924f|67]], [[#^s-8f15f4a77125f46b3fcadf7a|68]], [[#^s-8bec80d4c3439a3cf69cbdba|70]] ir 72 straipsnių pakeitimo [[latest/1dcf82704a7011e6b5d09300a16a686c|įstatymo Nr. XII-2510]] [[#^s-05e5219fb5ff1ea6f0a8dfee|7 straipsnio]] pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-379, 2017-05-23, paskelbta TAR 2017-05-30, i. k. 2017-09160
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 31, 32, 32-1, 35, 36, 45, 47, 53, 54, 60, 63-1, [[#^s-c2b638ac98f9b89bbc239cc7|64 straipsnių]] pakeitimo ir [[#^s-05f89e2d6ebc1d218bf3d4f6|46 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-801932a6d79a7ad805fdc003|2]], [[#^s-31c5885f8b9cb3f1678fea01|31]], [[#^s-cfe652fdd18265a4f9d35540|32]], 32-1, [[#^s-fccbd2aed3edaa44e9a90d8c|35]], [[#^s-30416cca08fb2df42410d8cd|36]], [[#^s-74a255f72c41e260aac3d84a|45]], [[#^s-c6609dde1d855bec466f361d|47]], [[#^s-3398d1eef5e54ac3d0bb5c05|53]], [[#^s-5e9541fc2fcb42f547c0294f|54]], [[#^s-c753afd31f5f4877ee582396|60]], 63-1, [[#^s-c2b638ac98f9b89bbc239cc7|64]] straipsnių pakeitimo ir [[#^s-05f89e2d6ebc1d218bf3d4f6|46 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-539, 2017-06-29, paskelbta TAR 2017-07-11, i. k. 2017-11936
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 3, 9, 10, 11, 13, 14, 54 ir [[#^s-8d7c2113ecd04e0c13b5a2a5|57 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-2d5fd1f8919227324d2384b1|3]], [[#^s-3d9acb54e7ad64296b6cba59|9]], [[#^s-3613050324a7cb926ababbc7|10]], [[#^s-e785cda06b9e04f4cc2d3737|11]], [[#^s-a63b2b837be613a404809deb|13]], [[#^s-3b9f9fea8db3b2f91c8d408a|14]], [[#^s-5e9541fc2fcb42f547c0294f|54]] ir [[#^s-8d7c2113ecd04e0c13b5a2a5|57]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5678,7 +5678,7 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1312, 2018-06-27, paskelbta TAR 2018-06-30, i. k. 2018-10965
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 1, 10, 42, 58, 59, 60, 61, 63, 65, 65-1, 67, 68, 69, 70, 72, 77-2 straipsnių pakeitimo ir Įstatymo papildymo 61-1 straipsniu, 1 ir 2 priedais įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-8c5166a6e2afc747a7245d74|1]], [[#^s-3613050324a7cb926ababbc7|10]], [[#^s-f9488e4cd95d1896559b03e7|42]], [[#^s-d8fa3ef27a2127b395f4b333|58]], [[#^s-5e39633eb5dfb05d7313cc33|59]], [[#^s-c753afd31f5f4877ee582396|60]], [[#^s-c522999991b29f821f158589|61]], [[#^s-f335b83866031921dca65753|63]], [[#^s-452f7321e837288492c415a4|65]], 65-1, [[#^s-b067cc00b81507ef2bac924f|67]], [[#^s-8f15f4a77125f46b3fcadf7a|68]], [[#^s-bed0ca15f87a31b470e2c70b|69]], [[#^s-8bec80d4c3439a3cf69cbdba|70]], 72, 77-2 straipsnių pakeitimo ir Įstatymo papildymo 61-1 straipsniu, 1 ir 2 priedais įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5688,17 +5688,17 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1806, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21814
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 1, 10, 42, 58, 59, 60, 61, 63, 65, 65-1, 67, 68, 69, 70, 72, 77-2 straipsnių pakeitimo ir Įstatymo papildymo 61-1 straipsniu, 1 ir 2 priedais [[latest/145eb2407c4811e8ae2bfd1913d66d57|įstatymo Nr. XIII-1312]] 9 ir [[#^s-98185ed2b431bbcd785c5eae|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-8c5166a6e2afc747a7245d74|1]], [[#^s-3613050324a7cb926ababbc7|10]], [[#^s-f9488e4cd95d1896559b03e7|42]], [[#^s-d8fa3ef27a2127b395f4b333|58]], [[#^s-5e39633eb5dfb05d7313cc33|59]], [[#^s-c753afd31f5f4877ee582396|60]], [[#^s-c522999991b29f821f158589|61]], [[#^s-f335b83866031921dca65753|63]], [[#^s-452f7321e837288492c415a4|65]], 65-1, [[#^s-b067cc00b81507ef2bac924f|67]], [[#^s-8f15f4a77125f46b3fcadf7a|68]], [[#^s-bed0ca15f87a31b470e2c70b|69]], [[#^s-8bec80d4c3439a3cf69cbdba|70]], 72, 77-2 straipsnių pakeitimo ir Įstatymo papildymo 61-1 straipsniu, 1 ir 2 priedais [[latest/145eb2407c4811e8ae2bfd1913d66d57|įstatymo Nr. XIII-1312]] [[#^s-3d9acb54e7ad64296b6cba59|9]] ir [[#^s-98185ed2b431bbcd785c5eae|24]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1803, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21811
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 60, 61-1 ir [[#^s-b067cc00b81507ef2bac924f|67 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-c753afd31f5f4877ee582396|60]], 61-1 ir [[#^s-b067cc00b81507ef2bac924f|67]] straipsnių pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1810, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21824
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 1, 2, 5, 9, 10, 25, 60, 61-1, 63, 65, 65-1 straipsnių ir šeštojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 61-2 straipsniu ir septintojo skirsnio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-8c5166a6e2afc747a7245d74|1]], [[#^s-801932a6d79a7ad805fdc003|2]], [[#^s-aada3406934f72e942686563|5]], [[#^s-3d9acb54e7ad64296b6cba59|9]], [[#^s-3613050324a7cb926ababbc7|10]], [[#^s-81dc02c7729e93478760a8f3|25]], [[#^s-c753afd31f5f4877ee582396|60]], 61-1, [[#^s-f335b83866031921dca65753|63]], [[#^s-452f7321e837288492c415a4|65]], 65-1 straipsnių ir šeštojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 61-2 straipsniu ir septintojo skirsnio pripažinimo netekusiu galios įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5708,22 +5708,22 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2256, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10926
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2 ir [[#^s-13ad9fa51d858108779bc341|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-801932a6d79a7ad805fdc003|2]] ir [[#^s-13ad9fa51d858108779bc341|18]] straipsnių pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2351, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12441
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 10, 10-1 ir [[#^s-e785cda06b9e04f4cc2d3737|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-3613050324a7cb926ababbc7|10]], 10-1 ir [[#^s-e785cda06b9e04f4cc2d3737|11]] straipsnių pakeitimo įstatymas
 
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2671, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21313
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 8, 10, 10-1, 13, 21, 22, 23, 28, 29, 32-1, 34, 35, 36, 37, 38, 43, 44, 48, 49, 50, 54, 55, 59, 60, 61, 61-1, 63, 64, 65, 68, [[#^s-bed0ca15f87a31b470e2c70b|69 straipsnių]] pakeitimo ir Įstatymo papildymo 32-2 straipsniu įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-801932a6d79a7ad805fdc003|2]], [[#^s-9025479ac008ecc237e521d8|8]], [[#^s-3613050324a7cb926ababbc7|10]], 10-1, [[#^s-a63b2b837be613a404809deb|13]], [[#^s-5e1ffbac74aa4df07fd50fb6|21]], [[#^s-30f5d95f66178ef06f2c2050|22]], [[#^s-dcf6fa8240a4990181655ded|23]], [[#^s-e91b1764491fc27ab1a703dd|28]], [[#^s-07f75635ee8a6818eb8646ea|29]], 32-1, [[#^s-22a14e796b97ee4fe6ea7df3|34]], [[#^s-fccbd2aed3edaa44e9a90d8c|35]], [[#^s-30416cca08fb2df42410d8cd|36]], [[#^s-95e76d8bad0973888425a319|37]], [[#^s-fe76eb7a9bd7b2f84723a03a|38]], [[#^s-4a70bcf3244827fff511f950|43]], [[#^s-632cd43c8779f9bb900e951a|44]], [[#^s-dea20986e367c7b4efa5d74b|48]], [[#^s-117e7f62ab358a43db426915|49]], [[#^s-3a63b19cc08cc7539571b469|50]], [[#^s-5e9541fc2fcb42f547c0294f|54]], [[#^s-302f30e08c2b2bd6cca84fd5|55]], [[#^s-5e39633eb5dfb05d7313cc33|59]], [[#^s-c753afd31f5f4877ee582396|60]], [[#^s-c522999991b29f821f158589|61]], 61-1, [[#^s-f335b83866031921dca65753|63]], [[#^s-c2b638ac98f9b89bbc239cc7|64]], [[#^s-452f7321e837288492c415a4|65]], [[#^s-8f15f4a77125f46b3fcadf7a|68]], [[#^s-bed0ca15f87a31b470e2c70b|69]] straipsnių pakeitimo ir Įstatymo papildymo 32-2 straipsniu įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2911, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10908
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr.VIII-723 3, 14 ir [[#^s-13ad9fa51d858108779bc341|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr.VIII-723 [[#^s-2d5fd1f8919227324d2384b1|3]], [[#^s-3b9f9fea8db3b2f91c8d408a|14]] ir [[#^s-13ad9fa51d858108779bc341|18]] straipsnių pakeitimo įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5733,27 +5733,27 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3436, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24612
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 3, 9, 59, 60 ir [[#^s-bed0ca15f87a31b470e2c70b|69 straipsnių]] pakeitimo ir Įstatymo papildymo 10-2 straipsniu įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-2d5fd1f8919227324d2384b1|3]], [[#^s-3d9acb54e7ad64296b6cba59|9]], [[#^s-5e39633eb5dfb05d7313cc33|59]], [[#^s-c753afd31f5f4877ee582396|60]] ir [[#^s-bed0ca15f87a31b470e2c70b|69]] straipsnių pakeitimo ir Įstatymo papildymo 10-2 straipsniu įstatymas
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3235, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15869
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 3, 12, 13, 14, 17, 21, 23 ir [[#^s-b067cc00b81507ef2bac924f|67 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-2d5fd1f8919227324d2384b1|3]], [[#^s-bf0bd50fa8fe2d6b612b2d0e|12]], [[#^s-a63b2b837be613a404809deb|13]], [[#^s-3b9f9fea8db3b2f91c8d408a|14]], [[#^s-1ebc8967969a46580f6110bc|17]], [[#^s-5e1ffbac74aa4df07fd50fb6|21]], [[#^s-dcf6fa8240a4990181655ded|23]] ir [[#^s-b067cc00b81507ef2bac924f|67]] straipsnių pakeitimo įstatymas
 
 36.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3405, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24565
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 40 ir [[#^s-dea20986e367c7b4efa5d74b|48 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-2d433e2cc4feb0ade63a8630|40]] ir [[#^s-dea20986e367c7b4efa5d74b|48]] straipsnių pakeitimo įstatymas
 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3438, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24615
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 3 ir [[#^s-bf0bd50fa8fe2d6b612b2d0e|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-2d5fd1f8919227324d2384b1|3]] ir [[#^s-bf0bd50fa8fe2d6b612b2d0e|12]] straipsnių pakeitimo įstatymas
 
 38.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-437, 2021-06-22, paskelbta TAR 2021-06-30, i. k. 2021-14794
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 9, 20, 35, 43, 51, 63, 63-1, 64, 67 ir [[#^s-8f15f4a77125f46b3fcadf7a|68 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-801932a6d79a7ad805fdc003|2]], [[#^s-3d9acb54e7ad64296b6cba59|9]], [[#^s-3a497dbb15be0f396ec9ca0e|20]], [[#^s-fccbd2aed3edaa44e9a90d8c|35]], [[#^s-4a70bcf3244827fff511f950|43]], 51, [[#^s-f335b83866031921dca65753|63]], 63-1, [[#^s-c2b638ac98f9b89bbc239cc7|64]], [[#^s-b067cc00b81507ef2bac924f|67]] ir [[#^s-8f15f4a77125f46b3fcadf7a|68]] straipsnių pakeitimo įstatymas
 
 39.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5763,7 +5763,7 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 40.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-670, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24297
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 10, 21 ir [[#^s-30f5d95f66178ef06f2c2050|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-801932a6d79a7ad805fdc003|2]], [[#^s-3613050324a7cb926ababbc7|10]], [[#^s-5e1ffbac74aa4df07fd50fb6|21]] ir [[#^s-30f5d95f66178ef06f2c2050|22]] straipsnių pakeitimo įstatymas
 
 41.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5788,17 +5788,17 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 45.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1646, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26594
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 18 ir [[#^s-f9488e4cd95d1896559b03e7|42 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-801932a6d79a7ad805fdc003|2]], [[#^s-13ad9fa51d858108779bc341|18]] ir [[#^s-f9488e4cd95d1896559b03e7|42]] straipsnių pakeitimo įstatymas
 
 46.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1922, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08473
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 13, 52, [[#^s-5e9541fc2fcb42f547c0294f|54 straipsnių]] ir 1 priedo pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-a63b2b837be613a404809deb|13]], [[#^s-0d1683f32d8e5a984702e5c3|52]], [[#^s-5e9541fc2fcb42f547c0294f|54]] straipsnių ir 1 priedo pakeitimo įstatymas
 
 47.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1923, 2023-04-27, paskelbta TAR 2023-05-04, i. k. 2023-08474
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo [[latest/7c10862000e211ed8fa7d02a65c371ad|įstatymo Nr. XIV-1179]] 28 ir [[#^s-07f75635ee8a6818eb8646ea|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo [[latest/7c10862000e211ed8fa7d02a65c371ad|įstatymo Nr. XIV-1179]] [[#^s-e91b1764491fc27ab1a703dd|28]] ir [[#^s-07f75635ee8a6818eb8646ea|29]] straipsnių pakeitimo įstatymas
 
 48.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5808,17 +5808,17 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 49.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2369, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25622
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo [[latest/7c10862000e211ed8fa7d02a65c371ad|įstatymo Nr. XIV-1179]] 19, 28, 29, 31 ir [[#^s-cfe652fdd18265a4f9d35540|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 pakeitimo [[latest/7c10862000e211ed8fa7d02a65c371ad|įstatymo Nr. XIV-1179]] [[#^s-8e041f4caab5180a3cad95a2|19]], [[#^s-e91b1764491fc27ab1a703dd|28]], [[#^s-07f75635ee8a6818eb8646ea|29]], [[#^s-31c5885f8b9cb3f1678fea01|31]] ir [[#^s-cfe652fdd18265a4f9d35540|32]] straipsnių pakeitimo įstatymas
 
 50.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2372, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25771
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 32 ir [[#^s-c6609dde1d855bec466f361d|47 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-cfe652fdd18265a4f9d35540|32]] ir [[#^s-c6609dde1d855bec466f361d|47]] straipsnių pakeitimo įstatymas
 
 51.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2740, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11578
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 10, 10-1, 11, 13, 21, 36, 47, 60, 63, 64, 65 ir [[#^s-8f15f4a77125f46b3fcadf7a|68 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-801932a6d79a7ad805fdc003|2]], [[#^s-3613050324a7cb926ababbc7|10]], 10-1, [[#^s-e785cda06b9e04f4cc2d3737|11]], [[#^s-a63b2b837be613a404809deb|13]], [[#^s-5e1ffbac74aa4df07fd50fb6|21]], [[#^s-30416cca08fb2df42410d8cd|36]], [[#^s-c6609dde1d855bec466f361d|47]], [[#^s-c753afd31f5f4877ee582396|60]], [[#^s-f335b83866031921dca65753|63]], [[#^s-c2b638ac98f9b89bbc239cc7|64]], [[#^s-452f7321e837288492c415a4|65]] ir [[#^s-8f15f4a77125f46b3fcadf7a|68]] straipsnių pakeitimo įstatymas
 
 52.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5828,7 +5828,7 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 53.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-75, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23068
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 2, 23, 28, 29, 38, 54, 61, 63-1 ir 65-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-801932a6d79a7ad805fdc003|2]], [[#^s-dcf6fa8240a4990181655ded|23]], [[#^s-e91b1764491fc27ab1a703dd|28]], [[#^s-07f75635ee8a6818eb8646ea|29]], [[#^s-fe76eb7a9bd7b2f84723a03a|38]], [[#^s-5e9541fc2fcb42f547c0294f|54]], [[#^s-c522999991b29f821f158589|61]], 63-1 ir 65-1 straipsnių pakeitimo įstatymas
 
 54.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5838,7 +5838,7 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 55.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-340, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12000
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 10, 10-1, 20, 38, 47, 54, [[#^s-c753afd31f5f4877ee582396|60 straipsnių]] ir 1, 2 priedų pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-3613050324a7cb926ababbc7|10]], 10-1, [[#^s-3a497dbb15be0f396ec9ca0e|20]], [[#^s-fe76eb7a9bd7b2f84723a03a|38]], [[#^s-c6609dde1d855bec466f361d|47]], [[#^s-5e9541fc2fcb42f547c0294f|54]], [[#^s-c753afd31f5f4877ee582396|60]] straipsnių ir 1, 2 priedų pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
 
 56.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5848,7 +5848,7 @@ Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įs
 57.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-944, 2026-05-14, paskelbta TAR 2026-05-21, i. k. 2026-08550
-Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 3, 14 ir [[#^s-452f7321e837288492c415a4|65 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo Nr. VIII-723 [[#^s-2d5fd1f8919227324d2384b1|3]], [[#^s-3b9f9fea8db3b2f91c8d408a|14]] ir [[#^s-452f7321e837288492c415a4|65]] straipsnių pakeitimo įstatymas
 
 58.
 Lietuvos Respublikos Seimas, Įstatymas

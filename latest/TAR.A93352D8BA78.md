@@ -110,7 +110,7 @@ Vilnius
 „20 straipsnis. Žemės įkeitimas
 
 
-Žemė įkeičiama Hipotekos įstatymo nustatyta tvarka. Įkeičiant dalį žemės, ši dalis turi būti atidalyta ir įregistruota Nekilnojamojo turto registre kaip atskiras žemės sklypas.
+Žemė įkeičiama [Hipotekos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B) nustatyta tvarka. Įkeičiant dalį žemės, ši dalis turi būti atidalyta ir įregistruota Nekilnojamojo turto registre kaip atskiras žemės sklypas.
 
 
 

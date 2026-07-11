@@ -240,7 +240,7 @@ Pakeisti 22 straipsnio 1 dalį ir ją išdėstyti taip:
 1. Papildyti 26 straipsnį nauja 5 dalimi: ^s-52824655d4c13961faeb8cd5
 
 
-„Kai patento savininkas leidžia ar pats parduoda, ar kitokiu komerciniu būdu perleidžia ūkininkui augalų veisimo medžiagą naudoti žemės ūkyje, laikoma, kad jis suteikia ūkininkui teisę naudoti savo derliaus produktus veisimui ar dauginimui to ūkininko ūkyje. Šios išimties taikymo ribas ir sąlygas nustato 1994 m. liepos 27 d. Tarybos reglamento (EB) Nr. 2100/94 dėl augalų veislių teisinės apsaugos Bendrijoje [[#^s-61c72a2b477f9aea37c14d35|14 straipsnis]].“
+„Kai patento savininkas leidžia ar pats parduoda, ar kitokiu komerciniu būdu perleidžia ūkininkui augalų veisimo medžiagą naudoti žemės ūkyje, laikoma, kad jis suteikia ūkininkui teisę naudoti savo derliaus produktus veisimui ar dauginimui to ūkininko ūkyje. Šios išimties taikymo ribas ir sąlygas nustato 1994 m. liepos 27 d. Tarybos [reglamento (EB) Nr. 2100/94](https://eur-lex.europa.eu/eli/reg/2100/94/oj) dėl augalų veislių teisinės apsaugos Bendrijoje [[#^s-61c72a2b477f9aea37c14d35|14 straipsnis]].“
 
 
 2. Papildyti 26 straipsnį nauja 6 dalimi: ^s-d6e6ad5991fa163596d22e03
@@ -310,7 +310,7 @@ Sprendimą dėl šio straipsnio pirmojoje ir antrojoje dalyse nurodytų licencij
 Saugomų augalų veislių sąrašą ir Lietuvos Respublikos patentų registrą tvarkančios įstaigos yra atsakingos už šio straipsnio pirmojoje ir antrojoje dalyse nurodytų licencijų registravimą teisės aktų nustatyta tvarka.
 
 
-Kai augalo veislės licenciją gali išduoti tik Bendrijos augalų veislių tarnyba, taikomas 1994 m. liepos 27 d. Tarybos reglamento (EB) Nr. 2100/94 dėl augalų veislių teisinės apsaugos Bendrijoje 29 straipsnis.“
+Kai augalo veislės licenciją gali išduoti tik Bendrijos augalų veislių tarnyba, taikomas 1994 m. liepos 27 d. Tarybos [reglamento (EB) Nr. 2100/94](https://eur-lex.europa.eu/eli/reg/2100/94/oj) dėl augalų veislių teisinės apsaugos Bendrijoje 29 straipsnis.“
 
 
 ### 14 straipsnis. 39 straipsnio 1 ir 5 dalių pakeitimas ^s-61c72a2b477f9aea37c14d35
@@ -400,7 +400,7 @@ Valstybinis patentų biuras patvirtina Europos patentų konvencijos įgyvendinim
 ### 591 straipsnis. Europos patento paraiškos padavimas ^s-31d878b1b5f16d01d1cfc878
 
 
-Europos patento paraiška paduodama tiesiogiai Europos patentų tarnybai arba Valstybiniam patentų biurui Europos patentų konvencijos [[#^s-61c72a2b477f9aea37c14d35|14 straipsnio]] 1 ir 2 dalyse numatytomis kalbomis.
+Europos patento paraiška paduodama tiesiogiai Europos patentų tarnybai arba Valstybiniam patentų biurui Europos patentų konvencijos [[#^s-61c72a2b477f9aea37c14d35|14 straipsnio]] [[#^s-a33c9262f5991211b8f1dd3f|1]] ir [[#^s-c69c6b36713da4eca210fa93|2]] dalyse numatytomis kalbomis.
 
 
 Valstybinis patentų biuras gautas Europos patento paraiškas, išskyrus susijusias su valstybės ar tarnybos paslaptimis, persiunčia Europos patentų tarnybai per Europos patentų konvencijos 77 straipsnyje nurodytą terminą.
@@ -451,7 +451,7 @@ Jeigu per šio straipsnio antrojoje ir trečiojoje dalyse nurodytą terminą Eur
 Europos patento paraiškos arba Europos patento tekstas, pateiktas Europos patentų tarnybos procedūrų kalba, laikomas autentišku tekstu ir Lietuvos Respublikoje.
 
 
-Šio įstatymo 592 ir [[#^s-223e61b880d45ed2f295a9a7|593 straipsniuose]] nurodyti vertimai laikomi autentiškais, išskyrus patentų panaikinimo procesą, kai patentams suteikiama siauresnė teisinė apsauga, negu buvo suteikta tekstams Europos patentų tarnybos procedūrų kalba.
+Šio įstatymo [[#^s-a5c43e8d548608c9da561c2a|592]] ir [[#^s-223e61b880d45ed2f295a9a7|593]] straipsniuose nurodyti vertimai laikomi autentiškais, išskyrus patentų panaikinimo procesą, kai patentams suteikiama siauresnė teisinė apsauga, negu buvo suteikta tekstams Europos patentų tarnybos procedūrų kalba.
 
 
 Pareiškėjas ar patento savininkas gali bet kada pateikti ištaisytą Europos patento paraiškos arba Europos patento apibrėžties vertimą. Ištaisytas vertimas įsigalioja, kai jį paskelbia Valstybinis patentų biuras. Bet kuris asmuo, sąžiningai naudojantis arba pasirengęs naudoti išradimą nepažeisdamas patentinės paraiškos ar patento apibrėžties pirminio vertimo, po apibrėžties vertimo ištaisymo gali ir toliau nemokamai naudoti išradimą savo veikloje arba savo reikmėms.
@@ -496,10 +496,10 @@ priedas
 
 
 
-1. 1992 m. birželio 18 d. Tarybos reglamentas (EEB) Nr. 1768/92 dėl medicinos produktų papildomos apsaugos liudijimo sukūrimo. ^s-528c1a80a1fdc3cbb801cb57
+1. 1992 m. birželio 18 d. Tarybos [reglamentas (EEB) Nr. 1768/92](https://eur-lex.europa.eu/eli/reg/1768/92/oj) dėl medicinos produktų papildomos apsaugos liudijimo sukūrimo. ^s-528c1a80a1fdc3cbb801cb57
 
 
-2. 1996 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1610/96 dėl augalų apsaugos priemonių papildomos apsaugos liudijimo sukūrimo. ^s-92928e6fcd393422f0308185
+2. 1996 m. liepos 23 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1610/96](https://eur-lex.europa.eu/eli/reg/1610/96/oj) dėl augalų apsaugos priemonių papildomos apsaugos liudijimo sukūrimo. ^s-92928e6fcd393422f0308185
 
 
 3. 1998 m. liepos 6 d. Europos Parlamento ir Tarybos direktyva 98/44/EB dėl teisinės biotechnologinių išradimų apsaugos.“ ^s-67d62d9962f3812c411468f7

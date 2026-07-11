@@ -103,7 +103,7 @@ BENDROSIOS NUOSTATOS
 ### 3 straipsnis. Etninės kultūros valstybinės globos teisiniai pagrindai ^s-ed9359ae2b2edf1940c71320
 
 
-Etninės kultūros valstybinė globa vykdoma vadovaujantis Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais bei teisės aktais ir tarptautinėmis sutartimis.
+Etninės kultūros valstybinė globa vykdoma vadovaujantis [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais bei teisės aktais ir tarptautinėmis sutartimis.
 
 
 
@@ -224,7 +224,7 @@ Nr. IX-2531, 2004-11-02, Žin. 2004, Nr. 170-6237 (2004-11-25), i. k. [[latest/T
 1. Etninės kultūros globos taryba (toliau – Taryba) yra iš valstybės biudžeto išlaikoma įstaiga. Valstybės, kaip įstaigos savininkės, teises ir pareigas įgyvendina Seimas. Taryba yra viešasis juridinis asmuo, turintis antspaudą su Lietuvos valstybės herbu bei savo pavadinimu ir sąskaitų bankuose. Taryba yra atskaitinga Seimui. ^s-6777cdcf58b4ae341dad4abc
 
 
-2. Taryba savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Seimo patvirtintais Tarybos nuostatais bei kitais Lietuvos Respublikos teisės aktais, taip pat UNESCO Nematerialaus kultūros paveldo apsaugos konvencija, Europos Sąjungos teisės aktais bei tarptautinėmis sutartimis dėl tautinio identiteto apsaugos bei priemonių kultūros ir kalbos etniniam savitumui išsaugoti, tradicijų ir papročių regioninei įvairovei užtikrinti. ^s-50666c4fe07865c87c9fe608
+2. Taryba savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Seimo patvirtintais Tarybos nuostatais bei kitais Lietuvos Respublikos teisės aktais, taip pat UNESCO Nematerialaus kultūros paveldo apsaugos konvencija, Europos Sąjungos teisės aktais bei tarptautinėmis sutartimis dėl tautinio identiteto apsaugos bei priemonių kultūros ir kalbos etniniam savitumui išsaugoti, tradicijų ir papročių regioninei įvairovei užtikrinti. ^s-50666c4fe07865c87c9fe608
 
 
 3. Tarybos paskirtis – atlikti Seimo ir Vyriausybės eksperto bei patarėjo misiją padedant spręsti strateginius etninės kultūros valstybinės globos ir politikos formavimo bei nematerialaus kultūros paveldo apsaugos klausimus, užtikrinti Lietuvos Respublikos nacionalinėje teisės sistemoje įtvirtintos etninės kultūros valstybinės globos įgyvendinimo priežiūrą, skatinti etninės kultūros plėtrą. ^s-7566e2365753ab09efeda9e4
@@ -395,7 +395,7 @@ Nr. XIII-2540, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19040
 
 
 
-13. Tarybos posėdis yra teisėtas, kai jame dalyvauja ne mažiau kaip pusė visų Tarybos narių. Tarybos sprendimai priimami posėdyje dalyvaujančių Tarybos narių balsų dauguma, o jei balsai pasiskirsto po lygiai, sprendimą lemia posėdžio pirmininko balsas, išskyrus šio straipsnio 14 ir [[#^s-c6c92c2ce2981ff36c025ea5|16 dalyse]] nustatytas sąlygas, kai Tarybos posėdyje renkamas Tarybos pirmininkas ir jo pavaduotojas. ^s-f00648f67df43a0aa735c40c
+13. Tarybos posėdis yra teisėtas, kai jame dalyvauja ne mažiau kaip pusė visų Tarybos narių. Tarybos sprendimai priimami posėdyje dalyvaujančių Tarybos narių balsų dauguma, o jei balsai pasiskirsto po lygiai, sprendimą lemia posėdžio pirmininko balsas, išskyrus šio straipsnio [[#^s-93ff7dca29224f9586c3349b|14]] ir [[#^s-c6c92c2ce2981ff36c025ea5|16]] dalyse nustatytas sąlygas, kai Tarybos posėdyje renkamas Tarybos pirmininkas ir jo pavaduotojas. ^s-f00648f67df43a0aa735c40c
 
 
 14. Seimui patvirtinus Tarybą, ne vėliau kaip per 10 darbo dienų pradedami Tarybos pirmininko rinkimai. Taryba, dalyvaujant ne mažiau kaip 2/3 narių, renka iš Tarybos narių kandidatą pirmininko pareigoms, už kurį turi balsuoti ne mažiau kaip pusė visų Tarybos narių. Jeigu nė vienas kandidatas nesurenka reikiamo balsų skaičiaus, rinkimai kartojami dalyvaujant dviem daugiausia balsų surinkusiems kandidatams ir išrenkamas tas, kuris surenka balsų daugumą. Seimo Pirmininkas teikia Seimui tvirtinti Tarybos siūlomą kandidatą Tarybos pirmininko pareigoms 4 metų kadencijai. Jeigu Seimas nepaskiria į Tarybos pirmininko pareigas Tarybos išrinkto kandidato, Taryba renka kitą kandidatą. Detalesnė kandidato į Tarybos pirmininkus rinkimų tvarka nustatoma Tarybos nuostatuose. Tarybos pirmininko įgaliojimai tęsiasi iki naujos kadencijos Tarybos pirmininko paskyrimo. Tas pats asmuo Tarybos pirmininku gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. Pirmininkas vadovauja Tarybai, jis teisės aktų nustatyta tvarka kartu yra ir šios įstaigos vadovas. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas [[latest/TAR.7E60B29052C0|Lietuvos Respublikos valstybės pareigūnų darbo užmokesčio įstatyme]]. Jis gali dirbti mokslo ir studijų institucijose ir gauti atlyginimą už mokslinę, pedagoginę bei kūrybinę veiklą. Tarybos pirmininko, naudojančio tarnybos laiką darbui mokslo ir studijų institucijoje, darbo užmokestis apskaičiuojamas proporcingai Taryboje dirbtam laikui. Pasibaigus Tarybos pirmininko kadencijai, jeigu jis nėra paskiriamas kitai kadencijai ir per 2 mėnesių terminą nepradeda eiti valstybės pareigūno ar valstybės tarnautojo pareigų, jam išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Tarybos pirmininko įgaliojimams nutrūkus, kai jis pagal sveikatos priežiūros įstaigos išvadą nebegali eiti pareigų, atleidimo dieną išmokama 3 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Jam mirus, jo šeimos nariams išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išmoka. Šioje dalyje nurodytos išmokos mokamos iš Tarybai skirtų valstybės biudžeto lėšų. ^s-93ff7dca29224f9586c3349b
@@ -716,7 +716,7 @@ Nr. XI-749, 2010-04-13, Žin., 2010, Nr. 48-2299 (2010-04-27), i. k. [[latest/TA
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2764, 2016-11-08, paskelbta TAR 2016-11-17, i. k. 2016-26963
-Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 5 ir [[#^s-406342020622dcb99c5fb395|8 straipsnių]] pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 [[#^s-4a8818613e7901a006a9561b|5]] ir [[#^s-406342020622dcb99c5fb395|8]] straipsnių pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -731,7 +731,7 @@ Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3111, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15321
-Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 6-1 ir [[#^s-406342020622dcb99c5fb395|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos etninės kultūros valstybinės globos pagrindų įstatymo Nr. VIII-1328 6-1 ir [[#^s-406342020622dcb99c5fb395|8]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas

@@ -208,7 +208,7 @@ Privatizavimo komisija neigiamą sprendimą šio straipsnio nurodytais atvejais 
 2. Privatizavimo agentūra turi teisę įpareigoti įmonės steigėją: ^s-5846f3c0baaeec90d3ebc3c3
 
 
-1) parengti pasiūlymus dėl privatizavimo objektų (įmonių) restruktūrizavimo prieš jų privatizavimą (dėl įmonių išskaidymo, skolų padengimo, infrastruktūros sukūrimo ir kt.), jei įvertinus privatizavimo objektą (įmonę), paaiškėja, kad toks restruktūrizavimas padidins galimybę jį privatizuoti arba padidins privatizavimo objekto (įmonės) pardavimo kainą; ^s-681fee872ee0bf7d81615c04
+1) parengti pasiūlymus [dėl privatizavimo objektų](https://e-tar.lt/portal/lt/legalAct/TAR.C4ABEDEC96A6) (įmonių) restruktūrizavimo prieš jų privatizavimą (dėl įmonių išskaidymo, skolų padengimo, infrastruktūros sukūrimo ir kt.), jei įvertinus privatizavimo objektą (įmonę), paaiškėja, kad toks restruktūrizavimas padidins galimybę jį privatizuoti arba padidins privatizavimo objekto (įmonės) pardavimo kainą; ^s-681fee872ee0bf7d81615c04
 
 
 2) įstatymų nustatyta tvarka kreiptis į teismą dėl privatizuojamos valstybės (savivaldybės) kontroliuojamos įmonės sudarytų sandorių, pažeidžiančių šį ir kitus įstatymus, pripažinimo negaliojančiais ir nuostolių atlyginimo. ^s-9a21604606200e585e2bf584
@@ -398,7 +398,7 @@ Lietuvos Respublikos Vyriausybė turi teisę nustatyti ir kitus privatizavimo pr
 4. Į privatizavimo programą valstybės (savivaldybių) kontroliuojamos įmonės gali būti įtrauktos tik tada, kai šios įmonės yra Akcinių bendrovių įstatymo nustatyta tvarka akcionuotos ir perregistruotos į akcines bendroves. Šis reikalavimas įmonės steigėjo sprendimu gali būti netaikomas valstybės (savivaldybių) kontroliuojamoms įmonėms, kurios numatomos privatizuoti nuomos su išsipirkimu būdu. ^s-fd03fbf84a17dac0e162f8a4
 
 
-5. Į privatizavimo programą negali būti įtrauktas turtas, į kurį Lietuvos Respublikos įstatymų nustatyta tvarka pretenduoja atstatyti nuosavybės teisę fiziniai asmenys, religinės bendruomenės, taip pat įmonės, kurios pagal Lietuvos Respublikos įstatymą „Dėl valstybinių įmonių, kurių iki 2000-ųjų metų nenumatoma nei akcionuoti, nei privatizuoti“ yra įtrauktos į neprivatizuojamų ir neakcionuojamų įmonių sąrašą. ^s-440a67d73641d28d819d4610
+5. Į privatizavimo programą negali būti įtrauktas turtas, į kurį Lietuvos Respublikos įstatymų nustatyta tvarka pretenduoja atstatyti nuosavybės teisę fiziniai asmenys, religinės bendruomenės, taip pat įmonės, kurios pagal Lietuvos Respublikos įstatymą [„Dėl valstybinių įmonių, kurių iki 2000-ųjų metų nenumatoma nei akcionuoti, nei privatizuoti“](https://e-tar.lt/portal/lt/legalAct/TAR.F989833B3D38) yra įtrauktos į neprivatizuojamų ir neakcionuojamų įmonių sąrašą. ^s-440a67d73641d28d819d4610
 
 
 6. Objektai, kurie Lietuvos Respublikos įstatymų nustatyta tvarka yra valstybės saugomi, gali būti įtraukti į privatizavimo programas tik suderinus jų naudojimo sąlygas su atitinkama institucija, atliekančia šių objektų valstybinę priežiūrą. ^s-cb74f598243c085a21d6e3e6
@@ -628,7 +628,7 @@ Tais atvejais, kai Lietuvos Respublikos tarptautinėse sutartyse yra nustatytos 
 1. Šis įstatymas įsigalioja nuo 1995 m. rugsėjo 15 dienos. ^s-cfa6d349d628617657a1698b
 
 
-2. Įsigaliojus šiam įstatymui, lieka galioti Valstybinio turto pirminio privatizavimo įstatymas, pagal kurį turi būti privatizuojamas valstybės turtas, įtrauktas į privatizavimo programas, sudarytas pagal Valstybinio turto pirminio privatizavimo įstatymą. ^s-96cfd8dd543c2e3b5465f79b
+2. Įsigaliojus šiam įstatymui, lieka galioti [Valstybinio turto pirminio privatizavimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A5A607AA8E29), pagal kurį turi būti privatizuojamas valstybės turtas, įtrauktas į privatizavimo programas, sudarytas pagal Valstybinio turto pirminio privatizavimo įstatymą. ^s-96cfd8dd543c2e3b5465f79b
 
 
 3. Lietuvos Respublikos Vyriausybė iki 1995 m. rugsėjo 1 d. įsteigia Lietuvos valstybinę privatizavimo agentūrą prie Lietuvos Respublikos Vyriausybės ir patvirtina jos nuostatus. ^s-0b258e4829547e1075a20f0f

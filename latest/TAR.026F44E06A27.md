@@ -65,7 +65,7 @@ BENDROSIOS NUOSTATOS
 2) Valstybės duomenų valdysenos informacinės sistemos naudotojui teikiami pirminiai registruose ir informacinėse sistemose tvarkomi duomenys. ^s-5994960cf78a40ef81b8363d
 
 
-4. Šiuo įstatymu nedaromas poveikis registrų, informacinių sistemų valdytojams ir tvarkytojams atlikti pareigą laikytis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), taip pat priežiūros institucijų užduočiai užtikrinti Reglamento (ES) 2016/679 laikymąsi. ^s-a28c5e7d3b38e6b8720b985b
+4. Šiuo įstatymu nedaromas poveikis registrų, informacinių sistemų valdytojams ir tvarkytojams atlikti pareigą laikytis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), taip pat priežiūros institucijų užduočiai užtikrinti [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) laikymąsi. ^s-a28c5e7d3b38e6b8720b985b
 
 
 5. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu šio įstatymo priede. ^s-673204dfa6af238772d48759
@@ -150,7 +150,7 @@ Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
 24. Visuotinis surašymas – valstybės mastu apklausiant respondentus ir (arba) administracinių duomenų pagrindu atliekamas statistinis tyrimas, kuriuo siekiama surinkti išsamius statistinius duomenis apie visus Lietuvos Respublikos statistinio stebėjimo vienetus. ^s-27431e416622a7cf256f659d
 
 
-25. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Reglamente (ES) 2016/679, [[latest/TAR.FA13E28615F6|Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatyme]], [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]] ir [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatyme]]. ^s-a0e16a7c8fffa396980161f0
+25. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), [[latest/TAR.FA13E28615F6|Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatyme]], [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]] ir [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatyme]]. ^s-a0e16a7c8fffa396980161f0
 
 
 
@@ -178,10 +178,10 @@ Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
 2. Siekdamos užtikrinti visuomenės pasitikėjimą oficialiąja statistika, oficialiąją statistiką tvarkančios įstaigos vadovaujasi Europos statistikos praktikos kodekso principais, kaip nurodoma Reglamento (EB) Nr. 223/2009 [[#^s-c9524c71b8c0e3d42d6146ea|11 straipsnyje]]. ^s-8c008ebb062cfcc5a995caa7
 
 
-3. Šiame straipsnyje nurodytus principus Lietuvos bankas, vykdydamas Oficialiosios statistikos programos II dalies nuostatas, taiko taip, kaip Europos centrinių bankų sistemos vykdomų Europos statistikos plėtojimo, rengimo ir sklaidos principus taiko Europos Centrinis Bankas, ir taip, kaip nurodoma 1998 m. lapkričio 23 d. Tarybos reglamento (EB) Nr. 2533/98 dėl Europos centrinio banko renkamos statistinės informacijos su visais pakeitimais 3a straipsnyje. ^s-0a4fcdd8443ca59aa1193764
+3. Šiame straipsnyje nurodytus principus Lietuvos bankas, vykdydamas Oficialiosios statistikos programos II dalies nuostatas, taiko taip, kaip Europos centrinių bankų sistemos vykdomų Europos statistikos plėtojimo, rengimo ir sklaidos principus taiko Europos Centrinis Bankas, ir taip, kaip nurodoma 1998 m. lapkričio 23 d. Tarybos [reglamento (EB) Nr. 2533/98](https://eur-lex.europa.eu/eli/reg/2533/98/oj) dėl Europos centrinio banko renkamos statistinės informacijos su visais pakeitimais 3a straipsnyje. ^s-0a4fcdd8443ca59aa1193764
 
 
-4. Tvarkant asmens duomenis, laikomasi Reglamente (ES) 2016/679 nustatytų asmens duomenų tvarkymo principų. ^s-90acae647939387b550c6959
+4. Tvarkant asmens duomenis, laikomasi [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nustatytų asmens duomenų tvarkymo principų. ^s-90acae647939387b550c6959
 
 
 
@@ -218,7 +218,7 @@ Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
 9) semantinio susietumo principu. Valstybės duomenų agentūra, valdydama ir tvarkydama valstybės duomenis, semantiškai juos susieja pagal didelės vertės duomenų temines kategorijas ir pirminių duomenų tipus. ^s-290b86525cbf3856dd14ff5a
 
 
-2. Valstybės duomenų valdysenos informacinėje sistemoje tvarkant asmens duomenis laikomasi Reglamente (ES) 2016/679 nustatytų asmens duomenų tvarkymo principų. ^s-f1939f80bb63e04431a0a018
+2. Valstybės duomenų valdysenos informacinėje sistemoje tvarkant asmens duomenis laikomasi [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nustatytų asmens duomenų tvarkymo principų. ^s-f1939f80bb63e04431a0a018
 
 
 
@@ -249,7 +249,7 @@ Nr. XIV-2437, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26026
 4) koordinuoja kitų oficialiąją statistiką tvarkančių įstaigų veiklą rengiant Europos statistiką, nurodytą Europos statistikos programoje, ir įgyvendinant Oficialiosios statistikos programos I dalies nuostatas bei užtikrinant oficialiosios statistikos organizavimo principų laikymąsi, teikia rekomendacijas dėl jų įgyvendinimo; ^s-35ecb3dc32f6ba3c9b203fe0
 
 
-5) valdo ir tvarko Valstybės duomenų valdysenos informacinėje sistemoje esančius valstybės duomenis, vadovaudamasi šiuo įstatymu, Valstybės duomenų valdysenos informacinės sistemos nuostatais ir kitais teisės aktais, reglamentuojančiais oficialiosios statistikos tvarkymą, valstybės duomenų valdyseną, valdymą ir tvarkymą. Valstybės duomenų valdysenos informacinėje sistemoje esančius tik oficialiosios statistikos tikslams skirtus statistinius duomenis išimtinai tvarko vadovaudamasi Reglamentu (EB) Nr. 223/2009, Reglamentu (ES) 2016/679, šiuo įstatymu ir kitais teisės aktais, reglamentuojančiais oficialiosios statistikos tvarkymą, ir Valstybės duomenų valdysenos informacinės sistemos nuostatais; ^s-78ace16041e94cf92218eb3e
+5) valdo ir tvarko Valstybės duomenų valdysenos informacinėje sistemoje esančius valstybės duomenis, vadovaudamasi šiuo įstatymu, Valstybės duomenų valdysenos informacinės sistemos nuostatais ir kitais teisės aktais, reglamentuojančiais oficialiosios statistikos tvarkymą, valstybės duomenų valdyseną, valdymą ir tvarkymą. Valstybės duomenų valdysenos informacinėje sistemoje esančius tik oficialiosios statistikos tikslams skirtus statistinius duomenis išimtinai tvarko vadovaudamasi Reglamentu (EB) Nr. 223/2009, [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), šiuo įstatymu ir kitais teisės aktais, reglamentuojančiais oficialiosios statistikos tvarkymą, ir Valstybės duomenų valdysenos informacinės sistemos nuostatais; ^s-78ace16041e94cf92218eb3e
 
 
 6) jungia, analizuoja ar kitaip apdoroja, apibendrina valstybės duomenis, teikia juos valstybės duomenų vartotojams, taip pat šio įstatymo [[#^s-e63e161e488a40caf270d99a|21 straipsnio 1 dalyje]] nustatytais tikslais ir (arba) skleidžia valstybės duomenų pagrindu parengtą informaciją, atlieka kitus valstybės duomenų tvarkymo veiksmus; ^s-4826369da84a19657ca121ec
@@ -415,7 +415,7 @@ Nr. XIV-2251, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22982
 2. Valstybės duomenų agentūra ir kitos oficialiąją statistiką tvarkančios įstaigos, rengiančios Europos statistiką, nurodytą Europos statistikos programoje, priklauso Europos statistikos sistemai ir bendradarbiauja rengdamos, tobulindamos ir skleisdamos šią statistiką. ^s-cf63ee1541ff0237f94c0f9a
 
 
-3. Įgyvendindama Oficialiosios statistikos programą ir vadovaudamasi šio įstatymo [[#^s-7adbe776577868a540a38485|12 straipsnio 2 dalies]] nuostatomis, Valstybės duomenų agentūra bendradarbiauja su Lietuvos banku, vykdančiu Reglamente (EB) Nr. 2533/98 nustatytas funkcijas. ^s-371503786bd83ce2e13cd681
+3. Įgyvendindama Oficialiosios statistikos programą ir vadovaudamasi šio įstatymo [[#^s-7adbe776577868a540a38485|12 straipsnio 2 dalies]] nuostatomis, Valstybės duomenų agentūra bendradarbiauja su Lietuvos banku, vykdančiu [Reglamente (EB) Nr. 2533/98](https://eur-lex.europa.eu/eli/reg/2533/98/oj) nustatytas funkcijas. ^s-371503786bd83ce2e13cd681
 
 
 
@@ -470,10 +470,10 @@ Nr. XIV-2251, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22982
 3. Oficialiąją statistiką tvarkanti įstaiga turi teisę susipažinti su mokslo tikslais atliktos statistinės analizės, kuriai atlikti statistiniai duomenys gauti iš šios oficialiąją statistiką tvarkančios įstaigos pagal šio įstatymo [[#^s-877be9296fe4f5f27f5f3a73|17 straipsnio 4 dalyje]] nurodytą sutartį, rezultatais, siekdama patikrinti, ar nėra pažeistas statistinių duomenų konfidencialumo principas. ^s-dcc0c75928b4743c0d23f335
 
 
-4. Kai asmens duomenis, tarp jų ir specialių kategorijų asmens duomenis, oficialiąją statistiką tvarkančios įstaigos naudoja oficialiosios statistikos tikslams, oficialiąją statistiką tvarkančios įstaigos gali netaikyti Reglamento (ES) 2016/679 15, 16, 18 ir [[#^s-de742f903f2bea815c953e27|21 straipsniuose]] nurodytų duomenų subjekto teisių tokiu mastu, kiek dėl jų taikymo gali tapti neįmanoma pasiekti konkrečių oficialiosios statistikos tikslų arba jos gali tapti rimta kliūtimi pasiekti šiuos tikslus. Šioje dalyje nurodytas nuo Reglamento (ES) 2016/679 nukrypti leidžiančias nuostatas galima taikyti, kai oficialiąją statistiką tvarkančios įstaigos taiko Reglamento (ES) 2016/679 89 straipsnio 1 dalyje nurodytas sąlygas ir tinkamas duomenų subjekto teisių ir laisvių apsaugos priemones, atsižvelgiant į konkrečias asmens duomenų tvarkymo aplinkybes. ^s-918ac762163ee3e7b22f3d7c
+4. Kai asmens duomenis, tarp jų ir specialių kategorijų asmens duomenis, oficialiąją statistiką tvarkančios įstaigos naudoja oficialiosios statistikos tikslams, oficialiąją statistiką tvarkančios įstaigos gali netaikyti [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) [[#^s-488beda6839c03d922843729|15]], [[#^s-901279deddafb03cc0994fb2|16]], [[#^s-e7000a2adcc67d25ac172387|18]] ir [[#^s-de742f903f2bea815c953e27|21]] straipsniuose nurodytų duomenų subjekto teisių tokiu mastu, kiek dėl jų taikymo gali tapti neįmanoma pasiekti konkrečių oficialiosios statistikos tikslų arba jos gali tapti rimta kliūtimi pasiekti šiuos tikslus. Šioje dalyje nurodytas nuo [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nukrypti leidžiančias nuostatas galima taikyti, kai oficialiąją statistiką tvarkančios įstaigos taiko [Reglamento (ES) 2016/679 89 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_89/par_1/oj) nurodytas sąlygas ir tinkamas duomenų subjekto teisių ir laisvių apsaugos priemones, atsižvelgiant į konkrečias asmens duomenų tvarkymo aplinkybes. ^s-918ac762163ee3e7b22f3d7c
 
 
-5. Oficialiąją statistiką tvarkančios įstaigos, netaikydamos Reglamento (ES) 2016/679 [[#^s-bd22758b555453ff1a01afee|14 straipsnio]] 1–[[#^s-918ac762163ee3e7b22f3d7c|4 dalyse]] nustatytų informacijos reikalavimų duomenų subjektui pagal Reglamento (ES) 2016/679 14 straipsnio 5 dalies b ir (ar) c punktuose nustatytas išimtis, privalo oficialioje interneto svetainėje paskelbti Reglamento (ES) 2016/679 [[#^s-bd22758b555453ff1a01afee|14 straipsnio]] 1, 2 ir [[#^s-918ac762163ee3e7b22f3d7c|4 dalyse]] nurodytą informaciją ir taikyti kitas tinkamas duomenų subjekto teisių ir laisvių apsaugos priemones, atsižvelgdamos į konkrečias asmens duomenų tvarkymo aplinkybes. ^s-4a3c935107229ff731545ab1
+5. Oficialiąją statistiką tvarkančios įstaigos, netaikydamos [Reglamento (ES) 2016/679 14 straipsnio](https://eur-lex.europa.eu/eli/reg/2016/679/art_14/oj) [[#^s-baa0e0af17687ef9b9122081|1]]–[[#^s-abd4eb27fac374c50088f435|4]] dalyse nustatytų informacijos reikalavimų duomenų subjektui pagal [Reglamento (ES) 2016/679 14 straipsnio 5 dalies](https://eur-lex.europa.eu/eli/reg/2016/679/art_14/par_5/oj) b ir (ar) c punktuose nustatytas išimtis, privalo oficialioje interneto svetainėje paskelbti [Reglamento (ES) 2016/679 14 straipsnio](https://eur-lex.europa.eu/eli/reg/2016/679/art_14/oj) [[#^s-baa0e0af17687ef9b9122081|1]], [[#^s-5c9bcd14c1555d1bdeaa83f0|2]] ir [[#^s-abd4eb27fac374c50088f435|4]] dalyse nurodytą informaciją ir taikyti kitas tinkamas duomenų subjekto teisių ir laisvių apsaugos priemones, atsižvelgdamos į konkrečias asmens duomenų tvarkymo aplinkybes. ^s-4a3c935107229ff731545ab1
 
 
 6. Oficialiąją statistiką tvarkančios įstaigos [[#^s-918ac762163ee3e7b22f3d7c|šio straipsnio 4 dalyje]] nurodytu atveju, atsižvelgdamos į konkrečias asmens duomenų tvarkymo aplinkybes, viešai skelbia informaciją apie asmens duomenų tvarkymą, atlieka poveikio duomenų apsaugai vertinimą, konsultuojasi su  duomenų subjektų teisių ir laisvių apsaugos srityje veikiančiomis organizacijomis, įgyvendina kitas duomenų subjekto teisių ir laisvių apsaugos priemones. ^s-cd39f28bcdc8cb835150b26b
@@ -616,7 +616,7 @@ Oficialiosios statistikos šaltiniai yra:
 1) kai respondentas ir (arba) statistinio stebėjimo vienetas raštu leidžia savo duomenis skleisti; ^s-43bf93552b3c4bcdb7c6b788
 
 
-2) šio įstatymo [[#^s-c4ba48025528d648e893259e|17 straipsnio]] 4 ir 5 dalyse nurodytais atvejais. ^s-1f93cea8e5ae2881a3f8e7ed
+2) šio įstatymo [[#^s-c4ba48025528d648e893259e|17 straipsnio]] [[#^s-877be9296fe4f5f27f5f3a73|4]] ir [[#^s-63d58dfc94831c8dd75f9c73|5]] dalyse nurodytais atvejais. ^s-1f93cea8e5ae2881a3f8e7ed
 
 
 4. Konfidencialiais nelaikomi šie statistinio stebėjimo vieneto (išskyrus namų ūkį, fizinį asmenį) duomenys: ^s-1cdbaf497bf32da933802c86
@@ -690,7 +690,7 @@ RESPONDENTŲ IR OFICIALIOSIOS STATISTIKOS VARTOTOJŲ TEISĖS IR PAREIGOS
 1) gauti iš oficialiąją statistiką tvarkančių įstaigų informaciją apie teisinį statistinio tyrimo pagrindą, statistinių duomenų naudojimo tikslą, jų pateikimo privalomumą ar savanoriškumą, teikimo būdą, teisines nepateikimo pasekmes, numatytas Lietuvos Respublikos administracinių nusižengimų kodekse; ^s-8ca5844fedec2d54afca1ee2
 
 
-2) fiziniai asmenys – duomenų subjekto teises, nustatytas Reglamente (ES) 2016/679, išskyrus šio įstatymo [[#^s-918ac762163ee3e7b22f3d7c|10 straipsnio 4 dalyje]] nurodytą atvejį. ^s-2fbee36d1539f9da9e8384fc
+2) fiziniai asmenys – duomenų subjekto teises, nustatytas [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), išskyrus šio įstatymo [[#^s-918ac762163ee3e7b22f3d7c|10 straipsnio 4 dalyje]] nurodytą atvejį. ^s-2fbee36d1539f9da9e8384fc
 
 
 2. Respondentai privalo: ^s-fe18cfe87b4729ae3c65e24f
@@ -754,7 +754,7 @@ Nr. XIV-2251, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22982
 4. Valstybės duomenų valdysenos informacinės sistemos priemonėmis sudaromos galimybės gauti valstybės duomenis šio įstatymо [[#^s-e63e161e488a40caf270d99a|21 straipsnio 1 dalyje]] nustatytiems tikslams. ^s-42f36a110e6ec548cb8c1a7a
 
 
-5. Šio įstatymo [[#^s-e63e161e488a40caf270d99a|21 straipsnio 1 dalies]] 3, 5, 9 ir 10 punktuose nustatytiems tikslams valstybės duomenys teikiami tik taip, kad nebūtų galima tiesiogiai nustatyti duomenų subjekto tapatybės. Šio įstatymo [[#^s-e63e161e488a40caf270d99a|21 straipsnio 1 dalies]] 3, 5, 9 ir 10 punktuose nustatytiems tikslams valstybės duomenys, iš kurių galima netiesiogiai nustatyti duomenų subjekto tapatybę, teikiami tik kai būtina pasiekti šiuos tikslus. Šio įstatymo [[#^s-f8f8bd55e49b0af8a8278cdc|21 straipsnio 1 dalies 11 punkte]] nustatytam tikslui valstybės duomenys teikiami tik taip, kad nebūtų galima tiesiogiai ar netiesiogiai nustatyti duomenų subjekto tapatybės. ^s-8f630b78a1a4765005b00ecc
+5. Šio įstatymo [[#^s-e63e161e488a40caf270d99a|21 straipsnio 1 dalies]] [[#^s-87f6dacceff20564cc72316c|3]], [[#^s-bcad4aeab2b011d0bd99fd11|5]], [[#^s-a5ee077ed6cb5fa3f30e1486|9]] ir [[#^s-b93658ca2eca1aff281454ba|10]] punktuose nustatytiems tikslams valstybės duomenys teikiami tik taip, kad nebūtų galima tiesiogiai nustatyti duomenų subjekto tapatybės. Šio įstatymo [[#^s-e63e161e488a40caf270d99a|21 straipsnio 1 dalies]] [[#^s-87f6dacceff20564cc72316c|3]], [[#^s-bcad4aeab2b011d0bd99fd11|5]], [[#^s-a5ee077ed6cb5fa3f30e1486|9]] ir [[#^s-b93658ca2eca1aff281454ba|10]] punktuose nustatytiems tikslams valstybės duomenys, iš kurių galima netiesiogiai nustatyti duomenų subjekto tapatybę, teikiami tik kai būtina pasiekti šiuos tikslus. Šio įstatymo [[#^s-f8f8bd55e49b0af8a8278cdc|21 straipsnio 1 dalies 11 punkte]] nustatytam tikslui valstybės duomenys teikiami tik taip, kad nebūtų galima tiesiogiai ar netiesiogiai nustatyti duomenų subjekto tapatybės. ^s-8f630b78a1a4765005b00ecc
 Straipsnio dalies pakeitimai:
 Nr. XV-1004, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11090
 
@@ -766,7 +766,7 @@ Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
 
 
 
-7. Valstybės duomenys negali būti tvarkomi, siekiant priimti sprendimą arba atlikti veiksmus, sukeliančius teisines pasekmes konkrečiam fiziniam ar juridiniam asmeniui, išskyrus šio įstatymo [[#^s-e63e161e488a40caf270d99a|21 straipsnio 1 dalies]] 6–8 punktuose nustatytais tikslais. ^s-4a926326af476676b98a9ead
+7. Valstybės duomenys negali būti tvarkomi, siekiant priimti sprendimą arba atlikti veiksmus, sukeliančius teisines pasekmes konkrečiam fiziniam ar juridiniam asmeniui, išskyrus šio įstatymo [[#^s-e63e161e488a40caf270d99a|21 straipsnio 1 dalies]] [[#^s-73df4ad308f48754ce0bc3bd|6]]–[[#^s-87d5c2c55386d190c5d1cdd9|8]] punktuose nustatytais tikslais. ^s-4a926326af476676b98a9ead
 Straipsnio dalies pakeitimai:
 Nr. XV-1004, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11090
 
@@ -892,7 +892,7 @@ Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
 2) susipažinti su Valstybės duomenų valdysenos programos darbų atlikimo principais, tvarka ir metodais; ^s-2478135112a63a1c2a4f24af
 
 
-3) fiziniai asmenys – duomenų subjekto teises, nustatytas Reglamente (ES) 2016/679. ^s-ebae7fa0b245ed7c033221c8
+3) fiziniai asmenys – duomenų subjekto teises, nustatytas [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj). ^s-ebae7fa0b245ed7c033221c8
 
 
 2. Valstybės duomenų valdysenos informacinės sistemos naudotojai, be [[#^s-de050ca38721a951b20f1aa8|šio straipsnio 1 dalyje]] nurodytų teisių, turi teisę gauti prieigą prie Valstybės duomenų valdysenos informacinės sistemos. ^s-bc216f2e76a7828f83ab804b
@@ -901,7 +901,7 @@ Nr. XIV-1774, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27590
 3. Valstybės duomenų vartotojai privalo: ^s-e9efb793a1af594ef3de807a
 
 
-1) prašydami asmens duomenų, nurodyti asmens duomenų tvarkymo tikslą, pagrindą pagal įstatymą (-us) arba Vyriausybės nutarimą (-us), teisėto asmens duomenų tvarkymo sąlygas, nurodytas Reglamente (ES) 2016/679, taip pat aiškiai nurodyti prašomų asmens duomenų apimtį, būtiną konkrečiam tikslui pasiekti, ir kitą teisės aktuose, reglamentuojančiuose asmens duomenų gavimą ir teikimą, nustatytą informaciją, prašydami kitų valstybės duomenų – nurodyti valstybės duomenų naudojimo tikslą, teisinį pagrindą ir kitą teisės aktuose, reglamentuojančiuose valstybės duomenų gavimą ir teikimą, nustatytą informaciją; ^s-f15b57093e4bd465f7b42d99
+1) prašydami asmens duomenų, nurodyti asmens duomenų tvarkymo tikslą, pagrindą pagal įstatymą (-us) arba Vyriausybės nutarimą (-us), teisėto asmens duomenų tvarkymo sąlygas, nurodytas [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), taip pat aiškiai nurodyti prašomų asmens duomenų apimtį, būtiną konkrečiam tikslui pasiekti, ir kitą teisės aktuose, reglamentuojančiuose asmens duomenų gavimą ir teikimą, nustatytą informaciją, prašydami kitų valstybės duomenų – nurodyti valstybės duomenų naudojimo tikslą, teisinį pagrindą ir kitą teisės aktuose, reglamentuojančiuose valstybės duomenų gavimą ir teikimą, nustatytą informaciją; ^s-f15b57093e4bd465f7b42d99
 Straipsnio punkto pakeitimai:
 Nr. XIV-2669, 2024-05-21, paskelbta TAR 2024-05-29, i. k. 2024-09623
 
@@ -953,7 +953,7 @@ Nr. XIV-2437, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26026
 1. Valstybės duomenų valdymo platformos paslaugos informacinių technologijų paslaugų gavėjams centralizuotai teikiamos kaip viena iš Vyriausybės nustatytų informacinių technologijų paslaugų grupių. Valstybės duomenų valdymo platformos saugumas ir tinkamas jos veikimas užtikrinamas Valstybės duomenų agentūros nustatytomis administracinėmis ir techninėmis priemonėmis, kuriomis užtikrinama tvarkomų duomenų, įskaitant asmens duomenis, apsauga ir užkertamas kelias atsitiktiniam ar neteisėtam jų sunaikinimui, praradimui, pakeitimui, atskleidimui, kitokiam neteisėtam jų tvarkymui. ^s-04710c5e93f09efe0d988d22
 
 
-2. Valstybės duomenų valdymo platforma gali būti naudojama valstybės ir savivaldybių institucijų ir įstaigų, taip pat valstybės ir savivaldybių valdomų įmonių ir viešųjų įstaigų, kurios [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nustatyta tvarka įgaliotos atlikti viešąjį administravimą, teikia viešąsias paslaugas ar atlieka kitas įstatymuose nustatytas funkcijas, statutinių įstaigų ir kitų biudžetinių įstaigų, regionų plėtros tarybų funkcijoms atlikti, įgyvendinant įstatymuose ar kituose teisės aktuose nustatytus uždavinius, taip pat kitų subjektų funkcijoms atlikti, jiems įgyvendinant visuomenės interesams svarbius uždavinius, vadovaujantis [[latest/TAR.85C510BA700A#^s-31be8179ae72c5834ed29303|Valstybės informacinių išteklių valdymo įstatymo 37 straipsnio]] 1 ir [[#^s-08aa375ae8cc18f9af8757dd|2 dalimis]]. ^s-08aa375ae8cc18f9af8757dd
+2. Valstybės duomenų valdymo platforma gali būti naudojama valstybės ir savivaldybių institucijų ir įstaigų, taip pat valstybės ir savivaldybių valdomų įmonių ir viešųjų įstaigų, kurios [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nustatyta tvarka įgaliotos atlikti viešąjį administravimą, teikia viešąsias paslaugas ar atlieka kitas įstatymuose nustatytas funkcijas, statutinių įstaigų ir kitų biudžetinių įstaigų, regionų plėtros tarybų funkcijoms atlikti, įgyvendinant įstatymuose ar kituose teisės aktuose nustatytus uždavinius, taip pat kitų subjektų funkcijoms atlikti, jiems įgyvendinant visuomenės interesams svarbius uždavinius, vadovaujantis [[latest/TAR.85C510BA700A#^s-31be8179ae72c5834ed29303|Valstybės informacinių išteklių valdymo įstatymo 37 straipsnio]] [[latest/TAR.85C510BA700A#^s-afd42fe52eba4c0984cac6ec|1]] ir [[latest/TAR.85C510BA700A#^s-686fb41260cc4b1d3b8a7f7b|2]] dalimis. ^s-08aa375ae8cc18f9af8757dd
 
 
 3. Valstybės duomenų valdymo platforma finansuojama iš Lietuvos Respublikos valstybės biudžeto lėšų. ^s-f85feeb96ed00f2e365e28cb
@@ -986,7 +986,7 @@ STATISTINIŲ DUOMENŲ, STATISTINĖS INFORMACIJOS IR VALSTYBĖS DUOMENŲ APSAUGA
 1. Valstybės duomenų agentūra privalo imtis organizacinių ir techninių priemonių, kuriomis užtikrinama valstybės duomenų apsauga, diegti informacines technologijas, kuriomis užkertamas kelias atsitiktiniam ar neteisėtam jų sunaikinimui, praradimui, pakeitimui, atskleidimui, kitokiam neteisėtam jų tvarkymui, įskaitant duomenų šifravimą, principo „Būtina žinoti“, apibrėžto [[latest/TAR.F4CA26A706AF|Valstybės ir tarnybos paslapčių įstatyme]], taikymą, prievolės laikytis konfidencialumo pareigos nustatymą. ^s-e1d7490f839bece9d158f310
 
 
-2. Valstybės duomenų agentūra, nustatydama asmens duomenų tvarkymo priemones ir tvarkydama asmens duomenis, taiko technines ir organizacines priemones, kad būtų užtikrintas asmens duomenų apsaugos principų laikymasis, ir integruoja būtinas asmens duomenų tvarkymo apsaugos priemones, kad jos atitiktų Reglamento (ES) 2016/679 reikalavimus ir apsaugotų duomenų subjektų teises ir laisves. Šios priemonės apima pseudonimų suteikimą, nuasmeninimą, jeigu šio įstatymo [[#^s-e63e161e488a40caf270d99a|21 straipsnio 1 dalyje]] nustatyti tikslai gali būti pasiekiami šiuo būdu. Kai šio įstatymo [[#^s-e63e161e488a40caf270d99a|21 straipsnio 1 dalyje]] nustatytus tikslus galima pasiekti tvarkant asmens duomenis, iš kurių negalima arba jau negalima nustatyti duomenų subjektų tapatybės, šių tikslų siekiama tuo būdu. ^s-71340461574da525f48e8829
+2. Valstybės duomenų agentūra, nustatydama asmens duomenų tvarkymo priemones ir tvarkydama asmens duomenis, taiko technines ir organizacines priemones, kad būtų užtikrintas asmens duomenų apsaugos principų laikymasis, ir integruoja būtinas asmens duomenų tvarkymo apsaugos priemones, kad jos atitiktų [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) reikalavimus ir apsaugotų duomenų subjektų teises ir laisves. Šios priemonės apima pseudonimų suteikimą, nuasmeninimą, jeigu šio įstatymo [[#^s-e63e161e488a40caf270d99a|21 straipsnio 1 dalyje]] nustatyti tikslai gali būti pasiekiami šiuo būdu. Kai šio įstatymo [[#^s-e63e161e488a40caf270d99a|21 straipsnio 1 dalyje]] nustatytus tikslus galima pasiekti tvarkant asmens duomenis, iš kurių negalima arba jau negalima nustatyti duomenų subjektų tapatybės, šių tikslų siekiama tuo būdu. ^s-71340461574da525f48e8829
 
 
 
@@ -1038,7 +1038,7 @@ priedas
 
 
 
-1. 2009 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 223/2009 dėl Europos statistikos, panaikinantis Europos Parlamento ir Tarybos reglamentą (EB, Euratomas) Nr. 1101/2008 dėl konfidencialių statistinių duomenų perdavimo Europos Bendrijų statistikos tarnybai, Tarybos reglamentą (EB) Nr. 322/97 dėl Bendrijos statistikos ir Tarybos sprendimą 89/382/EEB, Euratomas, įsteigiantį Europos Bendrijų statistikos programų komitetą, su paskutiniais pakeitimais, padarytais 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentu (ES) 2015/759. ^s-2545beb2cd66f4cdc36a70a7
+1. 2009 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 223/2009 dėl Europos statistikos, panaikinantis Europos Parlamento ir Tarybos reglamentą (EB, Euratomas) Nr. 1101/2008 dėl konfidencialių statistinių duomenų perdavimo Europos Bendrijų statistikos tarnybai, Tarybos reglamentą (EB) Nr. 322/97 dėl Bendrijos statistikos ir Tarybos sprendimą 89/382/EEB, Euratomas, įsteigiantį Europos Bendrijų statistikos programų komitetą, su paskutiniais pakeitimais, padarytais 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2015/759](https://eur-lex.europa.eu/eli/reg/2015/759/oj). ^s-2545beb2cd66f4cdc36a70a7
 
 
 
@@ -1079,12 +1079,12 @@ Lietuvos Respublikos statistikos įstatymo Nr. I-270 pakeitimo įstatymas
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2365, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12389
-Lietuvos Respublikos oficialiosios statistikos įstatymo Nr. I-270 2, 5, 15, 16 ir [[#^s-c4ba48025528d648e893259e|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos oficialiosios statistikos įstatymo Nr. I-270 [[#^s-0b8b3bc43795ef25b62ea389|2]], [[#^s-4cc91629c6a289807292e586|5]], [[#^s-488beda6839c03d922843729|15]], [[#^s-901279deddafb03cc0994fb2|16]] ir [[#^s-c4ba48025528d648e893259e|17]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3306, 2020-09-29, paskelbta TAR 2020-10-07, i. k. 2020-20891
-Lietuvos Respublikos oficialiosios statistikos įstatymo Nr. I-270 2, 3, 4, 6, 13, 14, [[#^s-c4ba48025528d648e893259e|17 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos oficialiosios statistikos įstatymo Nr. I-270 [[#^s-0b8b3bc43795ef25b62ea389|2]], [[#^s-cdd83d878f3520e9e4d479f4|3]], [[#^s-dedbe5fd834cbb822206c991|4]], [[#^s-905cca18d68251e36c126f4b|6]], [[#^s-d794b6e2fd3042611eefa6ee|13]], [[#^s-bd22758b555453ff1a01afee|14]], [[#^s-c4ba48025528d648e893259e|17]] straipsnių ir priedo pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1099,19 +1099,19 @@ Lietuvos Respublikos oficialiosios statistikos įstatymo Nr. I-270 pakeitimo [[l
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2251, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22982
-Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymo Nr. I-270 9, 20, 21 ir [[#^s-688856beb66b67c58aa5ad22|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymo Nr. I-270 [[#^s-6a177958517949b9253ad02e|9]], [[#^s-f2c8712a9b92bbbacf10ea77|20]], [[#^s-de742f903f2bea815c953e27|21]] ir [[#^s-688856beb66b67c58aa5ad22|25]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2437, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-26026
-Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymo Nr. I-270 5 ir [[#^s-41b64f514dcb49264c6bebbb|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymo Nr. I-270 [[#^s-4cc91629c6a289807292e586|5]] ir [[#^s-41b64f514dcb49264c6bebbb|24]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2669, 2024-05-21, paskelbta TAR 2024-05-29, i. k. 2024-09623
-Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymo Nr. I-270 5, 21, 23 ir [[#^s-688856beb66b67c58aa5ad22|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymo Nr. I-270 [[#^s-4cc91629c6a289807292e586|5]], [[#^s-de742f903f2bea815c953e27|21]], [[#^s-0896d51f6881243e2cb43d51|23]] ir [[#^s-688856beb66b67c58aa5ad22|25]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1004, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11090
-Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymo Nr. I-270 20 ir [[#^s-de742f903f2bea815c953e27|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymo Nr. I-270 [[#^s-f2c8712a9b92bbbacf10ea77|20]] ir [[#^s-de742f903f2bea815c953e27|21]] straipsnių pakeitimo įstatymas

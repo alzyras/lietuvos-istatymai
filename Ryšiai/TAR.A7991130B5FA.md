@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto privatizavi
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymas]] - 2 citatos - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo
 
 ## Šį įstatymą cituoja
 

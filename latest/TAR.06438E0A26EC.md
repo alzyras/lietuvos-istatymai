@@ -167,7 +167,7 @@ Amnestija turi būti įvykdyta (išskyrus tuos atvejus, kai ją taiko ir vykdo t
 Teismai, taikydami šį įstatymą, neatliktąjį bausmės dalies laiką skaičiuoja nuo šio įstatymo įsigaliojimo dienos.
 
 
-Ginčus dėl amnestijos taikymo, kilusius po šio įstatymo įvykdymo, sprendžia Lietuvos Respublikos teismai Baudžiamojo proceso kodekso 414 straipsnyje nustatyta tvarka.
+Ginčus [[latest/TAR.06438E0A26EC|dėl amnestijos taikymo, kilusius po šio įstatymo įvykdymo, sprendžia Lietuvos Respublikos teismai Baudžiamojo proceso kodekso 414 straipsnyje]] nustatyta tvarka.
 
 
 

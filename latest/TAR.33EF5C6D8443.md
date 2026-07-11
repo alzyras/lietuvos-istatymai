@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-502e46e9582a1157df5e1906
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir  atsižvelgdamas į Respublikos Prezidento 2002 m. vasario 14 d. dekretą Nr. 1664, ratifikuoja su išlygomis 1973 m. spalio 2 d. sudarytą Konvenciją dėl sprendimų, susijusių su išlaikymo pareigomis, pripažinimo ir vykdymo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir  atsižvelgdamas į Respublikos Prezidento [2002 m. vasario 14 d. dekretą Nr. 1664](https://e-tar.lt/portal/lt/legalAct/TAR.51DD3FC30853), ratifikuoja su išlygomis 1973 m. spalio 2 d. sudarytą Konvenciją dėl sprendimų, susijusių su išlaikymo pareigomis, pripažinimo ir vykdymo.
 
 
 

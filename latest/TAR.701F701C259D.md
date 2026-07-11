@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Pasaulinės pašto sąjungos 2008 m. Ženevoje priimtų ir pakeistų dokumentų ratifikavimas ^s-37ef3bd934142902ff6f87f7
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2010 m. liepos 20 d. dekretą Nr. 1K-425, ratifikuoja Pasaulinės pašto sąjungos įstatų aštuntąjį papildomą protokolą, Pasaulinės pašto sąjungos bendrojo reglamento pirmąjį papildomą protokolą, Pasaulinės pašto konvencijos, Pasaulinės pašto konvencijos baigiamojo protokolo ir Susitarimo dėl finansinių pašto paslaugų pakeitimus, priimtus 2008 m. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2010 m. liepos 20 d. dekretą Nr. 1K-425](https://e-tar.lt/portal/lt/legalAct/TAR.4F53C3485B6B), ratifikuoja Pasaulinės pašto sąjungos įstatų aštuntąjį papildomą protokolą, Pasaulinės pašto sąjungos bendrojo reglamento pirmąjį papildomą protokolą, Pasaulinės pašto konvencijos, Pasaulinės pašto konvencijos baigiamojo protokolo ir Susitarimo dėl finansinių pašto paslaugų pakeitimus, priimtus 2008 m. Ženevoje.
 
 
 

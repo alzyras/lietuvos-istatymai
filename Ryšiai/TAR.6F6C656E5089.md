@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos viešųjų ir privačių interesų derinimo v
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas]] - 2 citatos - Gyventojų pajamų mokesčio įstatyme
-- [[latest/TAR.4DBDE27621A2|Lietuvos Respublikos korupcijos prevencijos įstatymas]] - 2 citatos - Korupcijos prevencijos įstatymo
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Valstybės tarnybos įstatymo
+- [[latest/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas]] - Gyventojų pajamų mokesčio įstatyme
+- [[latest/TAR.4DBDE27621A2|Lietuvos Respublikos korupcijos prevencijos įstatymas]] - Korupcijos prevencijos įstatymo
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - Valstybės tarnybos įstatymo
 
 ## Šį įstatymą cituoja
 

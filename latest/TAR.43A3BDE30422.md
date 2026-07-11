@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 6 straipsnio pakeitimas ir papildymas ^s-a9dfa1148ff3d957c12023b8
 
 
-6 straipsnio pavadinimą „Licencijos galiojimas“ papildyti žodžiais „ir panaikinimas“, iš straipsnio išbraukti žodžius „išskyrus atvejus, kai vadovaujantis įstatymo 32 straipsniu pritaikoma ekonominė sankcija – licencijos atėmimas“, papildyti straipsnį 2 ir [[#^s-d26738af2b1a1a5246b862b3|3 dalimis]] ir visą straipsnį išdėstyti taip:
+6 straipsnio pavadinimą „Licencijos galiojimas“ papildyti žodžiais „ir panaikinimas“, iš straipsnio išbraukti žodžius „išskyrus atvejus, kai vadovaujantis įstatymo 32 straipsniu pritaikoma ekonominė sankcija – licencijos atėmimas“, papildyti straipsnį 2 ir 3 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „6 straipsnis. Licencijos galiojimas ir panaikinimas
@@ -101,7 +101,7 @@ Vilnius
 Papildyti 20 straipsnį 5 dalimi:
 
 
-„5. Lošimų organizatorius privalo Vyriausybės nustatyta tvarka pranešti teritorinei valstybinei mokesčių inspekcijai apie laimėjimus ir pralaimėjimus, jei laimėjimo ar pralaimėjimo suma viršija Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“ [[#^s-454d6874a1b0807a4413ca97|2 straipsnyje]] nustatytą ir atsižvelgiant į vartojimo kainų pasikeitimus indeksuotą dydį.“
+„5. Lošimų organizatorius privalo Vyriausybės nustatyta tvarka pranešti teritorinei valstybinei mokesčių inspekcijai apie laimėjimus ir pralaimėjimus, jei laimėjimo ar pralaimėjimo suma viršija Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“](https://e-tar.lt/portal/lt/legalAct/TAR.1273CA6042BD) [[#^s-454d6874a1b0807a4413ca97|2 straipsnyje]] nustatytą ir atsižvelgiant į vartojimo kainų pasikeitimus indeksuotą dydį.“
 
 
 

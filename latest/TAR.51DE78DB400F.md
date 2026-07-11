@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio 1 ir 2 dalių papildymas ir pakeitimas ^s-97cb238f10b3bbe1ec009035
 
 
-1. Papildyti 2 straipsnio 1 dalį naujais 9 ir [[#^s-3dc9e6a8ec924e981642a0fd|10 punktais]]: ^s-4cf4ec01e2dd4393741fbeda
+1. Papildyti 2 straipsnio 1 dalį naujais 9 ir 10 punktais: ^s-4cf4ec01e2dd4393741fbeda
 
 
 „9) motina arba tėvas, nedirbantys ir neturintys vaiko priežiūros atostogų, bet auginantys vaiką iki trejų metų;
@@ -98,7 +98,7 @@ arba turi valstybinio socialinio pensijų draudimo stažą, ne mažesnį kaip 75
 
 Asmuo, neturėjęs teisės gauti valstybinės socialinio draudimo invalidumo pensijos šio straipsnio pirmojoje dalyje nurodytomis sąlygomis, įgyja teisę ją gauti tuo atveju, jei nurodytas sąlygas jis atitinka invalidumo nustatymo pakartotinai jį tikrinant dieną arba kreipimosi dėl pensijos dieną.
 
-Pareigūnams ir kariams ([[#^s-660aeba50a13132a7dffff09|2 straipsnio]] pirmosios dalies 2–4 punktai), išleistiems į atsargą ir įgijusiems teisę gauti valstybinę pareigūnų ir karių pensiją, šio straipsnio pirmosios [[#^s-cffdb90a560eee5c0fde7318|dalies 2 punkto]] sąlyga netaikoma.“
+Pareigūnams ir kariams ([[#^s-660aeba50a13132a7dffff09|2 straipsnio]] pirmosios dalies 2–4 punktai), išleistiems į atsargą ir įgijusiems teisę gauti valstybinę pareigūnų ir karių pensiją, šio straipsnio pirmosios dalies 2 punkto sąlyga netaikoma.“
 
 
 

@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos antspaudų ir spaudų apyvartos kontrolės į
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D16A5CA14164|Lietuvos Respublikos antspaudų apyvartos įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS ANTSPAUDŲ APYVARTOS ĮSTATYMAS
-- [[latest/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatymas]] - 2 citatos - Lietuvos Respublikos paslaugų įstatyme
-- [[latest/TAR.55B9E4E382B3|Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymas]] - 4 citatos - Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymas
+- [[latest/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatymas]] - Lietuvos Respublikos paslaugų įstatyme
+- [[latest/TAR.55B9E4E382B3|Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymas
 - [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - Lietuvos Respublikos viešojo administravimo įstatyme
 
 ## Šį įstatymą cituoja

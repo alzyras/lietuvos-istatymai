@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos viešojo administravimo įstatymo 2, 3, 4, 4-
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - Viešojo administravimo įstatymo 41 straipsnio 2 dalyje
 
 ## Šį įstatymą cituoja
 

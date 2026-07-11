@@ -55,7 +55,7 @@ Lietuvos Respublikos Vyriausybė parengia ir pateikia Seimui svarstyti:
 Žemesniosios pakopos savivaldybių tarybų įgaliojimai pasibaigia savivaldybių tarybų rinkimų dieną.
 
 
-Savivaldybių tarybų pareigūnų, išrinktų ar paskirtų pagal Lietuvos Respublikos vietos savivaldos pagrindų įstatymo 8 straipsnį (tarybų pirmininkų, jų pavaduotojų), 12 straipsnį (merų, viršaičių, jų pavaduotojų), 17 straipsnį (merų, valdytojų, jų pavaduotojų, valdybų sekretorių), įgaliojimai pasibaigia tą dieną, kurią šaukiamas naujai išrinktos savivaldybės tarybos pirmasis posėdis.
+Savivaldybių tarybų pareigūnų, išrinktų ar paskirtų pagal [Lietuvos Respublikos vietos savivaldos pagrindų įstatymo 8 straipsnį](https://e-tar.lt/portal/lt/legalAct/TAR.55DFA8DB5C3E) (tarybų pirmininkų, jų pavaduotojų), 12 straipsnį (merų, viršaičių, jų pavaduotojų), 17 straipsnį (merų, valdytojų, jų pavaduotojų, valdybų sekretorių), įgaliojimai pasibaigia tą dieną, kurią šaukiamas naujai išrinktos savivaldybės tarybos pirmasis posėdis.
 
 
 
@@ -86,7 +86,7 @@ Pagal Vietos savivaldos pagrindų įstatymą sudaryti savivaldybių tarybų sekr
 ### 6 straipsnis. ^s-652fa5dbb442ce2fb1d10221
 
 
-Lietuvos Respublikos Seimo 1994 m. liepos 14 d. nutarimą Nr. I-542 „Dėl Lietuvos Respublikos vietos savivaldos įstatymo įgyvendinimo“ (Žin., 1994, Nr. 55-1050) pripažinti netekusiu galios.
+Lietuvos Respublikos Seimo [1994 m. liepos 14 d. nutarimą Nr. I-542](https://e-tar.lt/portal/lt/legalAct/TAR.A5A6F5C05C2F) „Dėl Lietuvos Respublikos vietos savivaldos įstatymo įgyvendinimo“ (Žin., 1994, Nr. 55-1050) pripažinti netekusiu galios.
 
 
 

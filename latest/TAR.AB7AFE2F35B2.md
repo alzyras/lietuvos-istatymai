@@ -66,10 +66,10 @@ Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 
 
 
-2. [[#^s-a2ec4e593cbaed7e22dff3c9|Šio straipsnio 7 dalies]] ir šio įstatymo 12, 16, 21–[[#^s-898d32acbc50a700fec1e391|24 straipsnių]], II skyriaus trečiojo skirsnio (išskyrus [[#^s-e85c285cab43f5b75b6c29be|36 straipsnio 4 dalį]]), ketvirtojo, penktojo ir šeštojo skirsnių, 93, 96, 101, 102, 109, 110, 112, 113, 114, 115 straipsnių nuostatos mutatis mutandis taikomos kredito įstaigoms, teikiančioms investicines paslaugas ir (arba) vykdančioms investicinę veiklą. ^s-1e8cbcc5b22bb9b9ad06306f
+2. [[#^s-a2ec4e593cbaed7e22dff3c9|Šio straipsnio 7 dalies]] ir šio įstatymo [[#^s-8d7551fd167039d61f6d54ec|12]], [[#^s-89450573533cf207a398cd23|16]], [[#^s-7182526ebe3e9164625b4dcc|21]]–[[#^s-898d32acbc50a700fec1e391|24]] straipsnių, II skyriaus trečiojo skirsnio (išskyrus [[#^s-e85c285cab43f5b75b6c29be|36 straipsnio 4 dalį]]), ketvirtojo, penktojo ir šeštojo skirsnių, [[#^s-c620df69650dc99b1d8ce58a|93]], [[#^s-03cc58c7825d6bf7a8d13799|96]], [[#^s-aab306d7aa19c97009860bda|101]], [[#^s-c1300260aae553af8385c8d9|102]], [[#^s-bc2eb514b67003a8b0d39d5b|109]], [[#^s-5cc272b8110024182d5d30c9|110]], [[#^s-d0cb70dc7c07585b914be6cd|112]], [[#^s-fbc64d5ad540d61fb9d5dc1f|113]], [[#^s-4482c0ee6bd6c60060317ac0|114]], 115 straipsnių nuostatos mutatis mutandis taikomos kredito įstaigoms, teikiančioms investicines paslaugas ir (arba) vykdančioms investicinę veiklą. ^s-1e8cbcc5b22bb9b9ad06306f
 
 
-3. Šio įstatymo [[#^s-8d7551fd167039d61f6d54ec|12 straipsnio]], [[#^s-89450573533cf207a398cd23|16 straipsnio]] 1–8 ir 12 dalių, 28–32, 34, [[#^s-9b450eb9c9bdbaf61c14f7fb|35 straipsnių]], [[#^s-47c92947bddd135f730f4d38|36 straipsnio]] (išskyrus [[#^s-6ae5e9d9ed6a8da2bbc83728|4 dalį]]), 39, 93, 94, 101, 102, 112, 113, [[#^s-4482c0ee6bd6c60060317ac0|114 straipsnių]] nuostatos mutatis mutandis taikomos finansų maklerio įmonėms ir kredito įstaigoms, platinančioms struktūrizuotus indėlius arba teikiančioms konsultacijas dėl jų įsigijimo. ^s-67b2b9ca4c987a4408771d3e
+3. Šio įstatymo [[#^s-8d7551fd167039d61f6d54ec|12 straipsnio]], [[#^s-89450573533cf207a398cd23|16 straipsnio]] [[#^s-9c4c62cf9c986d4dd18cff62|1]]–[[#^s-803cf2256fefa63e78a9b92c|8]] ir [[#^s-e07a22ab0ac77c09180e26e8|12]] dalių, [[#^s-a560b4d7e25d32ad78c255bc|28]]–[[#^s-161773e68b6e1f4830a44bdb|32]], [[#^s-4315017a8a90f827af671f15|34]], [[#^s-9b450eb9c9bdbaf61c14f7fb|35]] straipsnių, [[#^s-47c92947bddd135f730f4d38|36 straipsnio]] (išskyrus [[#^s-6ae5e9d9ed6a8da2bbc83728|4 dalį]]), [[#^s-5d43fa5d35cbe14ee37c64f1|39]], [[#^s-c620df69650dc99b1d8ce58a|93]], [[#^s-d6095f228870b15176669b6b|94]], [[#^s-aab306d7aa19c97009860bda|101]], [[#^s-c1300260aae553af8385c8d9|102]], [[#^s-d0cb70dc7c07585b914be6cd|112]], [[#^s-fbc64d5ad540d61fb9d5dc1f|113]], [[#^s-4482c0ee6bd6c60060317ac0|114]] straipsnių nuostatos mutatis mutandis taikomos finansų maklerio įmonėms ir kredito įstaigoms, platinančioms struktūrizuotus indėlius arba teikiančioms konsultacijas dėl jų įsigijimo. ^s-67b2b9ca4c987a4408771d3e
 Straipsnio dalies pakeitimai:
 Nr. XIII-1877, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00227
 
@@ -78,13 +78,13 @@ Nr. XIII-1877, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00227
 4. Šio įstatymo [[#^s-7182526ebe3e9164625b4dcc|21 straipsnio]] nuostatos mutatis mutandis taikomos reguliuojamų rinkų ir daugiašalių prekybos sistemų nariams arba dalyviams, nurodytiems [[#^s-40b32bf6d44fe0b95227e599|šio straipsnio 5 dalies]] 1, 5, 9 ir 10 punktuose, net ir tuo atveju, jeigu jie pagal šį įstatymą neprivalo turėti veiklos licencijos. ^s-6ae5e9d9ed6a8da2bbc83728
 
 
-41. Šio įstatymo 89 ir [[#^s-7871ac99d0e9a28ad75266aa|891 straipsniai]] taikomi sąskaitų tvarkytojams (taip pat sąskaitų tvarkytojams, kurie neturi nei registruotos, nei pagrindinės buveinės Europos Sąjungoje), kai jie akcininkams ar kitiems sąskaitų tvarkytojams teikia paslaugas, susijusias su bendrovių, kurių registruota buveinė yra valstybėje narėje ir kurių akcijomis prekiaujama reguliuojamoje rinkoje, akcijomis. ^s-888a81efce75307a721393c1
+41. Šio įstatymo [[#^s-b1a65d990298475872fa33a9|89]] ir [[#^s-7871ac99d0e9a28ad75266aa|891]] straipsniai taikomi sąskaitų tvarkytojams (taip pat sąskaitų tvarkytojams, kurie neturi nei registruotos, nei pagrindinės buveinės Europos Sąjungoje), kai jie akcininkams ar kitiems sąskaitų tvarkytojams teikia paslaugas, susijusias su bendrovių, kurių registruota buveinė yra valstybėje narėje ir kurių akcijomis prekiaujama reguliuojamoje rinkoje, akcijomis. ^s-888a81efce75307a721393c1
 Papildyta straipsnio dalimi:
 Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
 
 
-42. Šio įstatymo 411, 412, 413, [[#^s-06ece28ff83ce98ecfbda149|414 straipsniai]] taikomi: ^s-629fe396d48f794d0efcbb7b
+42. Šio įstatymo [[#^s-329659996c2e6793ea64bb0d|411]], [[#^s-e5fe6a9c806f5921a6a9a21f|412]], [[#^s-5288368aa5a2c0a5e3198f1f|413]], [[#^s-06ece28ff83ce98ecfbda149|414]] straipsniai taikomi: ^s-629fe396d48f794d0efcbb7b
 
 
 1) gyvybės draudimo ir profesinių pensijų instituciniams investuotojams, kai jie tiesiogiai arba per turto valdytoją investuoja į akcinių bendrovių akcijas, kuriomis prekiaujama reguliuojamoje rinkoje; ^s-4e450006ee233d0b6d8de205
@@ -113,7 +113,7 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 2) asmenims, teikiantiems investicines paslaugas išimtinai jų patronuojančiosioms įmonėms, savo patronuojamosioms įmonėms arba jų patronuojančiųjų įmonių kitoms patronuojamosioms įmonėms; ^s-a359d69d9fb6d1f6d56c3220
 
 
-3) asmenims, kurie pavieniais atvejais, kaip nustatyta 2016 m. balandžio 25 d. Komisijos deleguotojo reglamento (ES) 2017/565, kuriuo Europos Parlamento ir Tarybos direktyva 2014/65/ES papildoma nuostatomis dėl investicinių įmonių organizacinių reikalavimų bei veiklos sąlygų ir toje direktyvoje apibrėžtų terminų, [[#^s-064eec473c00e49cc614d37b|4 straipsnyje]], teikia investicines paslaugas užsiimdami profesine veikla, reglamentuojama teisės aktais ar etikos kodeksais, nedraudžiančiais teikti investicinių paslaugų; ^s-63961511e78c67b9413b18d7
+3) asmenims, kurie pavieniais atvejais, kaip nustatyta 2016 m. balandžio 25 d. Komisijos deleguotojo [reglamento (ES) 2017/565](https://eur-lex.europa.eu/eli/reg/2017/565/oj), kuriuo Europos Parlamento ir Tarybos direktyva 2014/65/ES papildoma nuostatomis dėl investicinių įmonių organizacinių reikalavimų bei veiklos sąlygų ir toje direktyvoje apibrėžtų terminų, [[#^s-064eec473c00e49cc614d37b|4 straipsnyje]], teikia investicines paslaugas užsiimdami profesine veikla, reglamentuojama teisės aktais ar etikos kodeksais, nedraudžiančiais teikti investicinių paslaugų; ^s-63961511e78c67b9413b18d7
 Straipsnio punkto pakeitimai:
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 
@@ -164,7 +164,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 13) agenti di cambio, kurių veikla reglamentuojama 1998 m. vasario 24 d. Italijos įstatyminio dekreto Nr. 58 201 straipsnyje; ^s-ada3049ba7f4d86ad35d6139
 
 
-14) perdavimo sistemos operatoriams, kaip jie apibrėžti [[latest/TAR.F57794B7899F|Lietuvos Respublikos elektros energetikos įstatyme]], ir gamtinių dujų perdavimo sistemos operatoriams, kaip jie apibrėžti [[latest/TAR.0C5C33AA865C|Lietuvos Respublikos gamtinių dujų įstatyme]], (toliau – perdavimo sistemos operatorius) vykdantiems šiuose įstatymuose, 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančiame Reglamentą (EB) Nr. 1228/2003, 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinančiame Reglamentą (EB) Nr. 1775/2005, arba tinklo kodeksuose ar gairėse, priimtose įgyvendinant šiame punkte nurodytų reglamentų nuostatas, nurodytą perdavimo sistemos operatorių veiklą, taip pat balansavimo energijos tiekėjams, skirstomųjų tinklų operatoriams ir skirstymo sistemos operatoriams, suskystintų gamtinių dujų sistemos operatoriams ir viešuosius interesus atitinkančių paslaugų lėšų administratoriams. Šiame punkte nustatyta išimtis taikoma tik pavestas funkcijas siekiantiems atlikti šiame punkte nurodytiems asmenims, vykdantiems investicinę veiklą ar teikiantiems investicines paslaugas, susijusias su biržos prekių išvestinėmis finansinėmis priemonėmis. Išimtis netaikoma antrinės apyvartos rinkos operatoriams, įskaitant operatorius, vykdančius antrinės prekybos platformų, kuriose prekiaujama finansinėmis perdavimo teisėmis, veiklą; ^s-9334cdecb769b47902189ff2
+14) perdavimo sistemos operatoriams, kaip jie apibrėžti [[latest/TAR.F57794B7899F|Lietuvos Respublikos elektros energetikos įstatyme]], ir gamtinių dujų perdavimo sistemos operatoriams, kaip jie apibrėžti [[latest/TAR.0C5C33AA865C|Lietuvos Respublikos gamtinių dujų įstatyme]], (toliau – [[latest/TAR.0C5C33AA865C|perdavimo sistemos operatorius]]) vykdantiems šiuose įstatymuose, 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančiame [Reglamentą (EB) Nr. 1228/2003](https://eur-lex.europa.eu/eli/reg/1228/2003/oj), 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 715/2009 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų, panaikinančiame [Reglamentą (EB) Nr. 1775/2005](https://eur-lex.europa.eu/eli/reg/1775/2005/oj), arba tinklo kodeksuose ar gairėse, priimtose įgyvendinant šiame punkte nurodytų reglamentų nuostatas, nurodytą perdavimo sistemos operatorių veiklą, taip pat balansavimo energijos tiekėjams, skirstomųjų tinklų operatoriams ir skirstymo sistemos operatoriams, suskystintų gamtinių dujų sistemos operatoriams ir viešuosius interesus atitinkančių paslaugų lėšų administratoriams. Šiame punkte nustatyta išimtis taikoma tik pavestas funkcijas siekiantiems atlikti šiame punkte nurodytiems asmenims, vykdantiems investicinę veiklą ar teikiantiems investicines paslaugas, susijusias su biržos prekių išvestinėmis finansinėmis priemonėmis. Išimtis netaikoma antrinės apyvartos rinkos operatoriams, įskaitant operatorius, vykdančius antrinės prekybos platformų, kuriose prekiaujama finansinėmis perdavimo teisėmis, veiklą; ^s-9334cdecb769b47902189ff2
 Straipsnio punkto pakeitimai:
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 
@@ -176,7 +176,7 @@ Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 6. Šio įstatymo nuostatos netaikomos asmenims, nurodytiems [[#^s-40b32bf6d44fe0b95227e599|šio straipsnio 5 dalies]] 1, 9 ir 10 punktuose, nesvarbu, ar jie atitinka [[#^s-524271156016927f81da2950|šio straipsnio 5 dalies 4 punkto]] antrajame sakinyje nustatytas sąlygas. ^s-d1385325e48dff4c460b3174
 
 
-61. Šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] 8–[[#^s-8e6f6fd453806c1ebe424aad|10 dalys]], 13, 14, 141, 142, 15, 151, 152, 153, [[#^s-42c6bc4a0d8732a1972ce002|154 straipsniai]], išskyrus [[#^s-f87ce1536a1019768bf0646e|154 straipsnio 1 dalies]] 1, 3 ir 4 punktus, 155, 156, [[#^s-97b5b3b1316f2083f5a6ee2f|441 straipsniai]], [[#^s-064f71d17e8da4badbe749f1|50 straipsnio]] 3 ir [[#^s-6ae5e9d9ed6a8da2bbc83728|4 dalys]] ir [[#^s-4e9ce0087999dfeb65bed0f2|97 straipsnio]] 7–12 dalys netaikomi Reglamento (ES) 2019/2033 [[#^s-052c143d7dc1b76f7c64e6fc|1 straipsnio]] 2 ir [[#^s-40b32bf6d44fe0b95227e599|5 dalyse]] nurodytoms finansų maklerio įmonėms. Tokioms finansų maklerio įmonėms mutatis mutandis taikomi riziką ribojantys reikalavimai, kurie nurodomi Reglamento (ES) 2019/2033 1 straipsnio 5 dalies šeštojoje pastraipoje ir taikomi kredito įstaigoms. ^s-fe25a8b404b6f3187512618b
+61. Šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] [[#^s-b29aad40ee5c84c73f0b7290|8]]–[[#^s-8d885b1abf053be9848f934b|10]] dalys, [[#^s-c06cad8c35d3c2f5a6655a2c|13]], [[#^s-f78bcf4a6a18f7402393db80|14]], [[#^s-2cd452355a3e77b5d351ce56|141]], [[#^s-de2847eece1290d691f5cf90|142]], [[#^s-6ecaddf07da1622997a18414|15]], [[#^s-e43d5e2b001628755b3a9f00|151]], [[#^s-9331241bc3e2339d824c3382|152]], [[#^s-2c6572289b4fca4bae247ec5|153]], [[#^s-42c6bc4a0d8732a1972ce002|154]] straipsniai, išskyrus [[#^s-f87ce1536a1019768bf0646e|154 straipsnio 1 dalies]] [[#^s-3bb7b541e24ba02d50067be8|1]], [[#^s-c127339a24be98c6d2d400f2|3]] ir [[#^s-b972f296d465ddcf33581b1f|4]] punktus, [[#^s-ef59a2177b389b839fa87c36|155]], [[#^s-93efae17aa3c17266ded53c5|156]], [[#^s-97b5b3b1316f2083f5a6ee2f|441]] straipsniai, [[#^s-064f71d17e8da4badbe749f1|50 straipsnio]] [[#^s-33c72cf9d2abc5038f8125c8|3]] ir [[#^s-df9eb6a77b9dcad188484c07|4]] dalys ir [[#^s-4e9ce0087999dfeb65bed0f2|97 straipsnio]] [[#^s-051fb302b99aaad9889599c9|7]]–[[#^s-701db8c9c12eb86ae2357706|12]] dalys netaikomi [Reglamento (ES) 2019/2033 1 straipsnio](https://eur-lex.europa.eu/eli/reg/2019/2033/art_1/oj) [[#^s-69e9c6177ab3723f1fff43e6|2]] ir 5 dalyse nurodytoms finansų maklerio įmonėms. Tokioms finansų maklerio įmonėms mutatis mutandis taikomi riziką ribojantys reikalavimai, kurie nurodomi [Reglamento (ES) 2019/2033 1 straipsnio 5 dalies](https://eur-lex.europa.eu/eli/reg/2019/2033/art_1/par_5/oj) šeštojoje pastraipoje ir taikomi kredito įstaigoms. ^s-fe25a8b404b6f3187512618b
 Papildyta straipsnio dalimi:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 Straipsnio dalies pakeitimai:
@@ -184,7 +184,7 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
 
 
-62. Šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] 8–[[#^s-8e6f6fd453806c1ebe424aad|10 dalys]], 441, [[#^s-42c6bc4a0d8732a1972ce002|154 straipsnio]] 7–[[#^s-8e6f6fd453806c1ebe424aad|10 dalys]], 155 ir [[#^s-93efae17aa3c17266ded53c5|156 straipsniai]] netaikomi mažoms ir tarpusavio sąsajų neturinčioms finansų maklerio įmonėms. ^s-9fc20b24c445132bf3787a81
+62. Šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] [[#^s-b29aad40ee5c84c73f0b7290|8]]–[[#^s-8d885b1abf053be9848f934b|10]] dalys, [[#^s-97b5b3b1316f2083f5a6ee2f|441]], [[#^s-42c6bc4a0d8732a1972ce002|154]] straipsnio [[#^s-48a5de997c2ba107f7c48f5c|7]]–[[#^s-02e4531296fd9cc48a093cf1|10]] dalys, [[#^s-ef59a2177b389b839fa87c36|155]] ir [[#^s-93efae17aa3c17266ded53c5|156]] straipsniai netaikomi mažoms ir tarpusavio sąsajų neturinčioms finansų maklerio įmonėms. ^s-9fc20b24c445132bf3787a81
 Papildyta straipsnio dalimi:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -217,7 +217,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-102. Šis įstatymas, išskyrus šio įstatymo VII skyriaus pirmojo ir ketvirtojo skirsnių nuostatas, netaikomas sutelktinio finansavimo paslaugų teikėjams, kaip apibrėžta Reglamento (ES) 2020/1503 [[#^s-69eff1c351d34ef2501d72cb|2 straipsnio 1 dalies]] e punkte. ^s-fc7f8238d7825e763dca3c8c
+102. Šis įstatymas, išskyrus šio įstatymo VII skyriaus pirmojo ir ketvirtojo skirsnių nuostatas, netaikomas sutelktinio finansavimo paslaugų teikėjams, kaip apibrėžta [Reglamento (ES) 2020/1503 2 straipsnio 1 dalies e punkte](https://eur-lex.europa.eu/eli/reg/2020/1503/art_2/par_1/lit_e/oj). ^s-fc7f8238d7825e763dca3c8c
 Papildyta straipsnio dalimi:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -235,7 +235,7 @@ Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
 1. Algoritminė prekyba – prekyba finansinėmis priemonėmis, kai kompiuteriniu algoritmu automatiškai nustatomi atskiri pavedimų parametrai, tokie kaip pavedimo iniciatyvos laikas, vykdymo kaina arba mastas, vykdymo būdas ir pan., o žmogaus įsikišimas ribotas arba jo visai nėra. Prekyba nelaikoma algoritmine, kai sistemos naudojamos tik pavedimams perduoti į vieną ar daugiau prekybos vietų, pavedimams apdoroti, kai nenustatomi jokie prekybos parametrai, pavedimams patvirtinti arba įvykdytiems sandoriams apdoroti po prekybos. ^s-c07af970921aca778b3a17a5
 
 
-11. Alternatyviojo įmonių grupės konsolidavimo reikalavimas – finansų maklerio įmonių grupės patronuojančiajai įmonei taikomas Reglamento (ES) 2019/2033 [[#^s-e5bb3e444d49085978668966|8 straipsnio]] reikalavimas. ^s-34ec4b4c4973085ae56ce806
+11. Alternatyviojo įmonių grupės konsolidavimo reikalavimas – finansų maklerio įmonių grupės patronuojančiajai įmonei taikomas [Reglamento (ES) 2019/2033 8 straipsnio](https://eur-lex.europa.eu/eli/reg/2019/2033/art_8/oj) reikalavimas. ^s-34ec4b4c4973085ae56ce806
 Papildyta straipsnio dalimi:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -318,7 +318,7 @@ Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 
 
 
-12. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB, įsteigta institucija. ^s-269f0b54d1cd20a405a81aea
+12. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB, įsteigta institucija. ^s-269f0b54d1cd20a405a81aea
 Straipsnio dalies pakeitimai:
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 
@@ -348,19 +348,19 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-13. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo įsteigta institucija. ^s-43f30a4e06475ab97bb6b968
+13. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj) dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo įsteigta institucija. ^s-43f30a4e06475ab97bb6b968
 Straipsnio dalies pakeitimai:
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 
 
 
-14. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (toliau – Reglamentas (ES) Nr. 1095/2010), įsteigta institucija. ^s-04d6cf335f825cc4c6c03875
+14. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (toliau – [Reglamentas (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj)), įsteigta institucija. ^s-04d6cf335f825cc4c6c03875
 Straipsnio dalies pakeitimai:
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 
 
 
-15. Finansinės priemonės – bet kuri iš šių priemonių, įskaitant priemonę, kuri išleista naudojant paskirstytojo registro technologiją, kaip ji apibrėžta Reglamento (ES) 2022/858 2 straipsnio 1 punkte: ^s-bd957f5b69326a7887eb58d6
+15. Finansinės priemonės – bet kuri iš šių priemonių, įskaitant priemonę, kuri išleista naudojant paskirstytojo registro technologiją, kaip ji apibrėžta [Reglamento (ES) 2022/858 2 straipsnio](https://eur-lex.europa.eu/eli/reg/2022/858/art_2/oj) [[#^s-2ecfad276d1ea5cd27238635|1 punkte]]: ^s-bd957f5b69326a7887eb58d6
 Straipsnio dalies pakeitimai:
 Nr. XIV-1893, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08612
 
@@ -644,13 +644,13 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 3) vidutiniu siūlomos ir prašomos kainos skirtumų dydžiu, kai jis žinomas. ^s-dcd4fd810b1fa23e32e7cd28
 
 
-381. Lotas – bazinis skaičius, kaip tai apibrėžta 2016 m. gruodžio 1 d. Komisijos deleguotojo reglamento (ES) 2017/591, kuriuo Europos Parlamento ir Tarybos direktyva 2014/65/ES papildoma biržos prekių išvestinių finansinių priemonių pozicijų apribojimų taikymo techniniais reguliavimo standartais, [[#^s-9bd5a2bc22488db49cd17218|9 straipsnio 2 dalyje]]. ^s-911059de988de1a4f360d06b
+381. Lotas – bazinis skaičius, kaip tai apibrėžta 2016 m. gruodžio 1 d. Komisijos deleguotojo [reglamento (ES) 2017/591](https://eur-lex.europa.eu/eli/reg/2017/591/oj), kuriuo Europos Parlamento ir Tarybos direktyva 2014/65/ES papildoma biržos prekių išvestinių finansinių priemonių pozicijų apribojimų taikymo techniniais reguliavimo standartais, [[#^s-9bd5a2bc22488db49cd17218|9 straipsnio 2 dalyje]]. ^s-911059de988de1a4f360d06b
 Papildyta straipsnio dalimi:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-382. Mažos ir tarpusavio sąsajų neturinčios finansų maklerio įmonės – finansų maklerio įmonės, kurios atitinka visas Reglamento (ES) 2019/2033 12 straipsnio 1 dalies sąlygas. ^s-d44250443f63a8c25cfc1060
+382. Mažos ir tarpusavio sąsajų neturinčios finansų maklerio įmonės – finansų maklerio įmonės, kurios atitinka visas [Reglamento (ES) 2019/2033 12 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2019/2033/art_12/par_1/oj) sąlygas. ^s-d44250443f63a8c25cfc1060
 Papildyta straipsnio dalimi:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -679,7 +679,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-41. Nepriekaištingos reputacijos asmuo – fizinis ar juridinis asmuo, kurio reputacija, remiantis šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] 6 ir [[#^s-c73c249c59642190cefe03c1|7 dalių]] nuostatomis, abejoti nėra pagrįstos priežasties. ^s-fd567ddb820310efc569d985
+41. Nepriekaištingos reputacijos asmuo – fizinis ar juridinis asmuo, kurio reputacija, remiantis šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] [[#^s-35b66d110f8e50d8221adf1c|6]] ir [[#^s-4181e977489ed645d8984ab5|7]] dalių nuostatomis, abejoti nėra pagrįstos priežasties. ^s-fd567ddb820310efc569d985
 
 
 42. Neprofesionalusis klientas – klientas, kuris nepriskiriamas nei prie profesionaliųjų klientų, nei prie tinkamų sandorio šalių. ^s-391841cb8f7bd51cae0a96e1
@@ -717,7 +717,7 @@ Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
 6) su finansinių priemonių platinimu susijusios paslaugos; ^s-1468441990c37a81a3406315
 
 
-7) investicinės paslaugos, investicinė veikla ir papildomos paslaugos, susijusios su finansinėmis priemonėmis, turtu ar kitais objektais, su kuriais yra susietos išvestinės finansinės priemonės, nurodytos [[#^s-bd957f5b69326a7887eb58d6|šio straipsnio 15 dalies]] 5, 6, 7 ir 10 punktuose, su sąlyga, kad teikiamos investicinės paslaugos ar papildomos paslaugos arba vykdoma investicinė veikla yra susijusi su šiomis išvestinėmis finansinėmis priemonėmis. ^s-91254018e56920b56e003817
+7) investicinės paslaugos, investicinė veikla ir papildomos paslaugos, susijusios su finansinėmis priemonėmis, turtu ar kitais objektais, su kuriais yra susietos išvestinės finansinės priemonės, nurodytos [[#^s-bd957f5b69326a7887eb58d6|šio straipsnio 15 dalies]] [[#^s-63cfcaef4db33b01af6dc9e8|5]], [[#^s-1468441990c37a81a3406315|6]], 7 ir 10 punktuose, su sąlyga, kad teikiamos investicinės paslaugos ar papildomos paslaugos arba vykdoma investicinė veikla yra susijusi su šiomis išvestinėmis finansinėmis priemonėmis. ^s-91254018e56920b56e003817
 
 
 46. Neteko galios nuo 2025-07-01 ^s-bed45b5d2f5904884d96af1d
@@ -962,14 +962,14 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-85. Žemės ūkio biržos prekių išvestinės finansinės priemonės – išvestinių finansinių priemonių sandoriai, susiję su 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1308/2013, kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007, [[#^s-052c143d7dc1b76f7c64e6fc|1 straipsnyje]] ir I priedo I–XX dalyse bei XXIV/[[#^s-c07af970921aca778b3a17a5|1 dalyje]] išvardytais produktais, taip pat su produktais, išvardytais 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1379/2013 dėl bendro žvejybos ir akvakultūros produktų rinkų organizavimo, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1184/2006 ir (EB) Nr. 1224/2009 ir panaikinamas Tarybos reglamentas (EB) Nr. 104/2000, su visais pakeitimais, I priede. ^s-077325084d71316ad7b7f41c
+85. Žemės ūkio biržos prekių išvestinės finansinės priemonės – išvestinių finansinių priemonių sandoriai, susiję su 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1308/2013](https://eur-lex.europa.eu/eli/reg/1308/2013/oj), kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007, [[#^s-052c143d7dc1b76f7c64e6fc|1]] straipsnyje ir I priedo I–XX dalyse bei XXIV/[[#^s-c07af970921aca778b3a17a5|1 dalyje]] išvardytais produktais, taip pat su produktais, išvardytais 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1379/2013](https://eur-lex.europa.eu/eli/reg/1379/2013/oj) dėl bendro žvejybos ir akvakultūros produktų rinkų organizavimo, kuriuo iš dalies keičiami Tarybos [reglamentai (EB) Nr. 1184/2006](https://eur-lex.europa.eu/eli/reg/1184/2006/oj) ir (EB) Nr. 1224/2009 ir panaikinamas Tarybos reglamentas (EB) Nr. 104/2000, su visais pakeitimais, I priede. ^s-077325084d71316ad7b7f41c
 Straipsnio dalies pakeitimai:
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-86. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatyme]], [[latest/TAR.EBB4FD337ADE|Lietuvos Respublikos finansinio tvarumo įstatyme]], [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatyme]], [[latest/e68da860903411e4bb408baba2bdddf3|Alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatyme]], [[latest/TAR.D38B48DC3EF0|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatyme]], [[latest/a71c2bf036d511efbdaea558de59136c|Įmonių ir įmonių grupių atskaitomybės įstatyme]], [[latest/TAR.2C94E75C224B|Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme]], [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatyme]], 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo, Reglamente (ES) Nr. 648/2012, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 2015/2365, Reglamente (ES) Nr. 2016/1011, Reglamente (ES) 2019/2033, Reglamente (ES) 2020/1503 ir Reglamente (ES) 2022/2554. ^s-aa5e5ec7700071c6348f10f9
+86. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatyme]], [[latest/TAR.EBB4FD337ADE|Lietuvos Respublikos finansinio tvarumo įstatyme]], [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatyme]], [[latest/e68da860903411e4bb408baba2bdddf3|Alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatyme]], [[latest/TAR.D38B48DC3EF0|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatyme]], [[latest/a71c2bf036d511efbdaea558de59136c|Įmonių ir įmonių grupių atskaitomybės įstatyme]], [[latest/TAR.2C94E75C224B|Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme]], [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatyme]], 2011 m. spalio 25 d. Europos Parlamento ir Tarybos [reglamente (ES) Nr. 1227/2011](https://eur-lex.europa.eu/eli/reg/1227/2011/oj) dėl didmeninės energijos rinkos vientisumo ir skaidrumo, Reglamente (ES) Nr. 648/2012, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 600/2014, [Reglamente (ES) Nr. 2015/2365](https://eur-lex.europa.eu/eli/reg/2015/2365/oj), [Reglamente (ES) Nr. 2016/1011](https://eur-lex.europa.eu/eli/reg/2016/1011/oj), [Reglamente (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj), [Reglamente (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj) ir [Reglamente (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj). ^s-aa5e5ec7700071c6348f10f9
 Straipsnio dalies pakeitimai:
 Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
@@ -999,7 +999,7 @@ Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 2. Finansų maklerio įmonės licenciją turinti bendrovė vadinama finansų maklerio įmone. Terminą „finansų maklerio įmonė“ ar kitas šio termino gramatines formas arba žodžių junginius su šiuo terminu gali vartoti savo pavadinime ir reklamoje tik tos įmonės, kurios turi teisę teikti investicines paslaugas. Įmonės, kurios specializuojasi valdyti kitų asmenų finansinių priemonių portfelius, gali savo pavadinime vartoti terminą „investicijų valdymo įmonė“ ar kitas šio termino gramatines formas arba žodžių junginius su šiuo terminu. ^s-ed511a43ae5e468a0aef6cf0
 
 
-21. Finansų maklerio įmonė, turinti išduotą finansų maklerio įmonės licenciją, gali teikti kriptoturto paslaugas, kaip jos apibrėžtos 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 16 punkte, Reglamento (ES) 2023/1114 [[#^s-a0221760c43878d0b634f63a|60 straipsnyje]] nustatyta apimtimi ir tvarka. ^s-718a9e2a211d1155694c62e8
+21. Finansų maklerio įmonė, turinti išduotą finansų maklerio įmonės licenciją, gali teikti kriptoturto paslaugas, kaip jos apibrėžtos 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamento (ES) 2023/1114](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) dėl kriptoturto rinkų, kuriuo iš dalies keičiami [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, [[#^s-af37e89e5229341944f6a883|3]] straipsnio 1 dalies 16 punkte, [Reglamento (ES) 2023/1114 60 straipsnyje](https://eur-lex.europa.eu/eli/reg/2023/1114/art_60/oj) nustatyta apimtimi ir tvarka. ^s-718a9e2a211d1155694c62e8
 Papildyta straipsnio dalimi:
 Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 
@@ -1020,7 +1020,7 @@ Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 6. Finansų patarėjo įmonės licenciją turinti bendrovė vadinama finansų patarėjo įmone. Terminą „finansų patarėjo įmonė“ ar kitas šio termino gramatines formas arba žodžių junginius su šiuo terminu gali vartoti savo pavadinime ir reklamoje tik tos įmonės, kurios turi teisę verstis finansų patarėjo įmonės veikla. ^s-4525ff8d7f8c046cfdade58a
 
 
-7. Finansų patarėjo įmonė turi teisę teikti Lietuvos Respublikoje šio įstatymo [[#^s-dc1e5bba9e05d789f9907380|3 straipsnio 26 dalies]] 1 ir [[#^s-da09d613757f17d80967535d|5 punktuose]] nurodytas investicines paslaugas, susijusias su perleidžiamaisiais vertybiniais popieriais ir kolektyvinio investavimo subjektų vertybiniais popieriais, ir papildomas paslaugas, jeigu įmonė nesaugo klientų lėšų ir finansinių priemonių ir dėl to negali tapti klientų skolininke, o klientų pavedimus gali perduoti tik: ^s-351a425c5fb04ae9be001fcc
+7. Finansų patarėjo įmonė turi teisę teikti Lietuvos Respublikoje šio įstatymo [[#^s-dc1e5bba9e05d789f9907380|3 straipsnio 26 dalies]] [[#^s-df45231bcabf75287f54e6d6|1]] ir [[#^s-297fe240d2d2c1a2e956b98c|5]] punktuose nurodytas investicines paslaugas, susijusias su perleidžiamaisiais vertybiniais popieriais ir kolektyvinio investavimo subjektų vertybiniais popieriais, ir papildomas paslaugas, jeigu įmonė nesaugo klientų lėšų ir finansinių priemonių ir dėl to negali tapti klientų skolininke, o klientų pavedimus gali perduoti tik: ^s-351a425c5fb04ae9be001fcc
 
 
 1) valstybėje narėje licencijuotoms finansų maklerio įmonėms; ^s-c16f3145c12f4b9039e1408a
@@ -1041,7 +1041,7 @@ Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 8. Finansų patarėjo įmonei mutatis mutandis taikomi šio įstatymo II skyriuje nustatyti reikalavimai, taikomi finansų maklerio įmonėms, išskyrus išimtis, nustatytas šiame įstatyme. ^s-fbef3d9ff90341137a9279b2
 
 
-9. Finansų patarėjo įmonei netaikomi šio įstatymo 13 ir [[#^s-e86b0fd2b30f8c87a6f8d300|18 straipsniuose]] nustatyti reikalavimai, tačiau ji privalo apdrausti savo profesinę civilinę atsakomybę. Draudimo suma turi būti ne mažesnė kaip 29 000 eurų vienam draudžiamajam įvykiui ir 145 000 eurų visiems draudžiamiesiems įvykiams per metus. Finansų patarėjo įmonė privalo turėti draudimo apsaugą visą savo veiklos laiką. ^s-38d37a5bf01b0d501be69dd0
+9. Finansų patarėjo įmonei netaikomi šio įstatymo [[#^s-c06cad8c35d3c2f5a6655a2c|13]] ir [[#^s-e86b0fd2b30f8c87a6f8d300|18]] straipsniuose nustatyti reikalavimai, tačiau ji privalo apdrausti savo profesinę civilinę atsakomybę. Draudimo suma turi būti ne mažesnė kaip 29 000 eurų vienam draudžiamajam įvykiui ir 145 000 eurų visiems draudžiamiesiems įvykiams per metus. Finansų patarėjo įmonė privalo turėti draudimo apsaugą visą savo veiklos laiką. ^s-38d37a5bf01b0d501be69dd0
 
 
 10. Finansų patarėjo įmonė turi teisę teikti licencijoje nurodytas investicines paslaugas ir jas reklamuoti tik Lietuvos Respublikoje. Finansų patarėjo įmonė neturi šio įstatymo II skyriaus šeštajame skirsnyje nustatytų teisių. ^s-e5c91c9249ff290882656536
@@ -1096,7 +1096,7 @@ Nr. XIII-2964, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11343
 
 
 
-6. Nustatant [[#^s-21533d8ace8f7565dc0027bd|šio straipsnio 2 dalyje]] nurodytą vidaus valdymo tvarką, atsižvelgiama į šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] 8–10 dalyse, 154, 155 ir [[#^s-93efae17aa3c17266ded53c5|156 straipsniuose]] nustatytus kriterijus. ^s-bd3d22435f3b3bbe78753155
+6. Nustatant [[#^s-21533d8ace8f7565dc0027bd|šio straipsnio 2 dalyje]] nurodytą vidaus valdymo tvarką, atsižvelgiama į šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] [[#^s-b29aad40ee5c84c73f0b7290|8]]–[[#^s-8d885b1abf053be9848f934b|10]] dalyse, [[#^s-42c6bc4a0d8732a1972ce002|154]], [[#^s-ef59a2177b389b839fa87c36|155]] ir [[#^s-93efae17aa3c17266ded53c5|156]] straipsniuose nustatytus kriterijus. ^s-bd3d22435f3b3bbe78753155
 Papildyta straipsnio dalimi:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -1193,7 +1193,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 5) nebeatitinka reikalavimų finansų maklerio įmonės licencijai gauti; ^s-b962363f1ca416157ecf36f3
 
 
-6) šiurkščiai ir nuolat pažeidė šiame įstatyme, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 600/2014 ar Reglamente (ES) 2019/2033 nustatytus finansų maklerio įmonės veiklos reikalavimus; ^s-b422ce2bc47ccac25f629822
+6) šiurkščiai ir nuolat pažeidė šiame įstatyme, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 600/2014 ar [Reglamente (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) nustatytus finansų maklerio įmonės veiklos reikalavimus; ^s-b422ce2bc47ccac25f629822
 Straipsnio punkto pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -1251,7 +1251,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 7) tai, kaip asmuo vykdė ir vykdo pinigines ar kitas prievoles, įskaitant duomenis apie jam vykdytus arba vykdomus bankroto procesus, pareikštus ieškinius civilinėse bylose; ^s-fb189bff358d05e1681516f6
 
 
-8) šios dalies 1–[[#^s-fb189bff358d05e1681516f6|7 punktuose]] nurodytus duomenis apie juridinį asmenį, kurio vadovu asmuo buvo ar yra arba kurio kvalifikuotąją įstatinio kapitalo ir (arba) įstatinio kapitalo dalį jis tiesiogiai ar netiesiogiai valdo arba valdė. ^s-ca0a11d8c173a2b0675ece7a
+8) šios dalies [[#^s-fa6884bb26cff3fab3e32fd1|1]]–[[#^s-fb189bff358d05e1681516f6|7]] punktuose nurodytus duomenis apie juridinį asmenį, kurio vadovu asmuo buvo ar yra arba kurio kvalifikuotąją įstatinio kapitalo ir (arba) įstatinio kapitalo dalį jis tiesiogiai ar netiesiogiai valdo arba valdė. ^s-ca0a11d8c173a2b0675ece7a
 
 
 7. Asmuo negali būti laikomas nepriekaištingos reputacijos, jeigu: ^s-4181e977489ed645d8984ab5
@@ -1293,7 +1293,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 ### 10 straipsnis. Informavimo apie šaukiamą finansų maklerio įmonės neeilinį visuotinį akcininkų susirinkimą ypatumai ^s-84b8328dce232e0b8fb3fe2a
 
 
-1. Finansų maklerio įmonės, kuriai taikomas šio įstatymo [[#^s-efc8d9cd090a141e7519b0d5|14 straipsnio 2 dalyje]] nurodytas reikalavimas, visuotinis akcininkų susirinkimas ne mažesne kaip 2/3 visų susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų dauguma gali nuspręsti, kad, jeigu pagal šio įstatymo [[#^s-b24c512a1476ba733aef96c8|104 straipsnį]] yra paskiriamas laikinasis administratorius arba, priežiūros institucijos vertinimu, yra tenkinamos šio įstatymo [[#^s-ef6748e469b32f46e4e9dfb6|102 straipsnio 7 dalyje]] nurodytos sąlygos ir būtina padidinti įstatinį kapitalą, siekiant išvengti [[latest/TAR.EBB4FD337ADE#^s-f9d6a9e86d44d1d147753efa|Finansinio tvarumo įstatymo 42 straipsnyje]] nustatytų pertvarkymo sąlygų, apie šaukiamą neeilinį visuotinį akcininkų susirinkimą dėl įstatinio kapitalo didinimo būtų pranešama per trumpesnį laikotarpį, negu nustatyta Akcinių bendrovių įstatymo 26 straipsnio 4, 5 ir 6 dalyse ar 261 straipsnio 3, 4 ir 5 dalyse, arba priimti sprendimą dėl įstatų keitimo, numatant tokio trumpesnio pranešimo laikotarpio galimybę. Pranešimas apie šaukiamą neeilinį visuotinį akcininkų susirinkimą bet kokiu atveju turi būti paskelbtas likus ne mažiau kaip 10 dienų iki susirinkimo. ^s-e9b6fe36062a13a8b417390c
+1. Finansų maklerio įmonės, kuriai taikomas šio įstatymo [[#^s-efc8d9cd090a141e7519b0d5|14 straipsnio 2 dalyje]] nurodytas reikalavimas, visuotinis akcininkų susirinkimas ne mažesne kaip 2/3 visų susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų dauguma gali nuspręsti, kad, jeigu pagal šio įstatymo [[#^s-b24c512a1476ba733aef96c8|104 straipsnį]] yra paskiriamas laikinasis administratorius arba, priežiūros institucijos vertinimu, yra tenkinamos šio įstatymo [[#^s-ef6748e469b32f46e4e9dfb6|102 straipsnio 7 dalyje]] nurodytos sąlygos ir būtina padidinti įstatinį kapitalą, siekiant išvengti [[latest/TAR.EBB4FD337ADE#^s-f9d6a9e86d44d1d147753efa|Finansinio tvarumo įstatymo 42 straipsnyje]] nustatytų pertvarkymo sąlygų, apie šaukiamą neeilinį visuotinį akcininkų susirinkimą [dėl įstatinio kapitalo didinimo būtų pranešama per trumpesnį laikotarpį, negu nustatyta Akcinių bendrovių įstatymo 26 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) [4](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8), [5](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) ir [6](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) dalyse ar 261 straipsnio 3, 4 ir 5 dalyse, arba priimti sprendimą dėl įstatų keitimo, numatant tokio trumpesnio pranešimo laikotarpio galimybę. Pranešimas apie šaukiamą neeilinį visuotinį akcininkų susirinkimą bet kokiu atveju turi būti paskelbtas likus ne mažiau kaip 10 dienų iki susirinkimo. ^s-e9b6fe36062a13a8b417390c
 
 
 2. [[#^s-e9b6fe36062a13a8b417390c|Šio straipsnio 1 dalyje]] nurodytu atveju sutrumpintais terminais šaukiant visuotinį akcininkų susirinkimą netaikoma: Akcinių bendrovių įstatymo 21 straipsnio 1 dalies nuostatos dėl visuotinio akcininkų susirinkimo apskaitos dienos; Akcinių bendrovių įstatymo 25 straipsnio 3 dalyje nustatytas terminas pateikti siūlymą papildyti visuotinio akcininkų susirinkimo darbotvarkę ir 5 dalyje nustatyta pareiga ne vėliau kaip likus 10 dienų iki visuotinio akcininkų susirinkimo pranešti akcininkams apie visuotinio akcininkų susirinkimo darbotvarkės papildymus; Akcinių bendrovių įstatymo 26 straipsnio 7 dalyje nustatytas reikalavimas gauti visų akcininkų rašytinį sutikimą norint sušaukti visuotinį akcininkų susirinkimą nesilaikant Akcinių bendrovių įstatymo 26 straipsnio 4, 5 ir 6 dalyse nustatytų terminų. ^s-492d63376a54f668ead60004
@@ -1351,7 +1351,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 11. Priežiūros institucija neturi teisės nustatyti jokių išankstinių sąlygų dėl privalomo įsigyti finansų maklerio įmonės kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies dydžio ir nenagrinėja siūlomojo įsigijimo pagal rinkos ekonominius poreikius. ^s-732ed31b02418dc27b1b156f
 
 
-12. Priežiūros institucija turi teisę prieštarauti siūlomajam įsigijimui tik remdamasi [[#^s-ed1f9519e5225be6a0ece2b3|šio straipsnio 10 dalyje]] nurodytais kriterijais arba tuo atveju, jeigu įsigyjantysis asmuo pateikė ne visus pagal šio straipsnio 5 ar [[#^s-de62d744a7f67780bd8a3812|8 dalį]] priežiūros institucijos sąraše nurodytus pateikti dokumentus ir duomenis arba įsigyjančiojo asmens pateikta informacija yra neišsami ar klaidinga. ^s-d9cbdbe5835617e79f239594
+12. Priežiūros institucija turi teisę prieštarauti siūlomajam įsigijimui tik remdamasi [[#^s-ed1f9519e5225be6a0ece2b3|šio straipsnio 10 dalyje]] nurodytais kriterijais arba tuo atveju, jeigu įsigyjantysis asmuo pateikė ne visus pagal šio straipsnio [[#^s-cace09df8ad56f1722d81d3f|5]] ar [[#^s-de62d744a7f67780bd8a3812|8]] dalį priežiūros institucijos sąraše nurodytus pateikti dokumentus ir duomenis arba įsigyjančiojo asmens pateikta informacija yra neišsami ar klaidinga. ^s-d9cbdbe5835617e79f239594
 
 
 13. Priežiūros institucija, prieš priimdama sprendimą dėl siūlomojo įsigijimo, konsultuojasi su kitų valstybių narių priežiūros institucijomis, jeigu įsigyjantysis asmuo yra valstybėje narėje licencijuota finansų maklerio įmonė, suderintųjų kolektyvinio investavimo subjektų valdymo įmonė, kredito įstaiga, draudimo įmonė, perdraudimo įmonė arba bet kurio iš šių subjektų patronuojančioji įmonė ar kontroliuojantis asmuo. ^s-42e1cdc0ce491649916dd06f
@@ -1369,7 +1369,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 17. Jeigu baigusi vertinimą priežiūros institucija priima sprendimą prieštarauti siūlomajam įsigijimui, ji per 2 darbo dienas nuo sprendimo priėmimo ir neviršydama vertinimo laikotarpio termino raštu apie tai praneša įsigyjančiajam asmeniui, nurodydama sprendimo motyvus. ^s-7d6101a354f1f6cc39ac1422
 
 
-18. Priežiūros institucijos sprendime dėl siūlomojo įsigijimo nurodomos visos po konsultacijų pagal šio straipsnio 13 ir [[#^s-45caeef1363a2c408d65ee66|14 dalis]] gautos kitų priežiūros institucijų nuomonės ir išlygos. Priežiūros institucijos sprendimas prieštarauti siūlomajam įsigijimui gali būti skundžiamas teismui. Priežiūros institucija viešai paskelbia sprendimą ir jo motyvus, nepaisydama to, ar yra gautas įsigyjančiojo asmens sutikimas. Priežiūros institucija turi teisę viešai neskelbti sprendimo ir jo motyvų tais atvejais, kai toks paskelbimas padarytų žalos rinkai ar padarytų neproporcingos žalos suinteresuotiems asmenims. ^s-640d5653ace66f0615846498
+18. Priežiūros institucijos sprendime dėl siūlomojo įsigijimo nurodomos visos po konsultacijų pagal šio straipsnio [[#^s-42e1cdc0ce491649916dd06f|13]] ir [[#^s-45caeef1363a2c408d65ee66|14]] dalis gautos kitų priežiūros institucijų nuomonės ir išlygos. Priežiūros institucijos sprendimas prieštarauti siūlomajam įsigijimui gali būti skundžiamas teismui. Priežiūros institucija viešai paskelbia sprendimą ir jo motyvus, nepaisydama to, ar yra gautas įsigyjančiojo asmens sutikimas. Priežiūros institucija turi teisę viešai neskelbti sprendimo ir jo motyvų tais atvejais, kai toks paskelbimas padarytų žalos rinkai ar padarytų neproporcingos žalos suinteresuotiems asmenims. ^s-640d5653ace66f0615846498
 
 
 19. Jeigu priežiūros institucija gauna daugiau negu vieną pranešimą apie siūlomąjį įsigijimą iš tos pačios finansų maklerio įmonės, visi pranešimai nagrinėjami tokia pačia tvarka, nediskriminuojant įsigyjančiųjų asmenų. ^s-2e9acc394baa45e32324e164
@@ -1399,13 +1399,13 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 ### 13 straipsnis. Riziką ribojantys reikalavimai ^s-c06cad8c35d3c2f5a6655a2c
 
 
-1. Įmonė, siekianti gauti finansų maklerio įmonės licenciją, privalo tenkinti kapitalo ir kitus riziką ribojančius reikalavimus, nustatytus šiame įstatyme, Reglamente (ES) 2019/2033 ir kituose teisės aktuose, reglamentuojančiuose finansų maklerio įmonėms nustatytus kapitalo ir kitus riziką ribojančius reikalavimus. ^s-a7eac055e68f9e2618b94f76
+1. Įmonė, siekianti gauti finansų maklerio įmonės licenciją, privalo tenkinti kapitalo ir kitus riziką ribojančius reikalavimus, nustatytus šiame įstatyme, [Reglamente (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) ir kituose teisės aktuose, reglamentuojančiuose finansų maklerio įmonėms nustatytus kapitalo ir kitus riziką ribojančius reikalavimus. ^s-a7eac055e68f9e2618b94f76
 
 
-2. Priežiūros institucijos sprendimu finansų maklerio įmonei, kuri vykdo šio įstatymo [[#^s-dc1e5bba9e05d789f9907380|3 straipsnio 26 dalies]] 3 ir 6 punktuose nurodytą veiklą, kai jos konsoliduoto turto vertė, apskaičiuota kaip praėjusių 12 iš eilės einančių mėnesių vidurkis, yra lygi arba didesnė negu 5 milijardai eurų ir atitinka bent vieną iš [[#^s-49e07efa012248f0c25bea42|šio straipsnio 3 dalyje]] nurodytų sąlygų, mutatis mutandis gali būti taikomi Reglamento (ES) 2019/2033 1 straipsnio 5 dalies šeštojoje pastraipoje nurodyti riziką ribojantys reikalavimai, kurie taikomi ir kredito įstaigoms. Tokiai finansų maklerio įmonei taikomi šiame įstatyme, Reglamente (ES) Nr. 575/2013, [[latest/TAR.B6B636C7384A|Lietuvos Respublikos bankų įstatyme]] ir kituose kredito įstaigų veiklą reglamentuojančiuose teisės aktuose nustatyti riziką ribojantys reikalavimai. ^s-12abb2c0f1b03566ca2422b7
+2. Priežiūros institucijos sprendimu finansų maklerio įmonei, kuri vykdo šio įstatymo [[#^s-dc1e5bba9e05d789f9907380|3 straipsnio 26 dalies]] [[#^s-4a9bc3694aa777528669ae08|3]] ir [[#^s-341457c7985fb0cbeb6ef015|6]] punktuose nurodytą veiklą, kai jos konsoliduoto turto vertė, apskaičiuota kaip praėjusių 12 iš eilės einančių mėnesių vidurkis, yra lygi arba didesnė negu 5 milijardai eurų ir atitinka bent vieną iš [[#^s-49e07efa012248f0c25bea42|šio straipsnio 3 dalyje]] nurodytų sąlygų, mutatis mutandis gali būti taikomi [Reglamento (ES) 2019/2033 1 straipsnio 5 dalies](https://eur-lex.europa.eu/eli/reg/2019/2033/art_1/par_5/oj) šeštojoje pastraipoje nurodyti riziką ribojantys reikalavimai, kurie taikomi ir kredito įstaigoms. Tokiai finansų maklerio įmonei taikomi šiame įstatyme, Reglamente (ES) Nr. 575/2013, [[latest/TAR.B6B636C7384A|Lietuvos Respublikos bankų įstatyme]] ir kituose kredito įstaigų veiklą reglamentuojančiuose teisės aktuose nustatyti riziką ribojantys reikalavimai. ^s-12abb2c0f1b03566ca2422b7
 
 
-3. [[#^s-12abb2c0f1b03566ca2422b7|Šio straipsnio 2 dalyje]] nurodytas sprendimas priimamas tik tuo atveju, jeigu finansų maklerio įmonė vykdo toje dalyje nurodytą veiklą tokiu mastu, kad jos negalėjimas vykdyti įsipareigojimų arba patiriami sunkumai galėtų sukelti sisteminę riziką, ir (ar) finansų maklerio įmonė yra tarpuskaitos narė, kaip apibrėžta Reglamento (ES) 2019/2033 4 straipsnio 1 dalies 3 punkte, ir (ar), priežiūros institucijos pagrįstu vertinimu, atsižvelgiant į finansų maklerio įmonės veiklos dydį, pobūdį, mastą ir sudėtingumą ir į proporcingumo principą, nustatoma, kad sprendimą priimti būtina dėl finansų maklerio įmonės svarbos šalies ar Europos Sąjungos ekonomikai ir (ar) jos tarpvalstybinės veiklos svarbos, ir (ar) jos tarpusavio sąsajų su finansų sistema. ^s-49e07efa012248f0c25bea42
+3. [[#^s-12abb2c0f1b03566ca2422b7|Šio straipsnio 2 dalyje]] nurodytas sprendimas priimamas tik tuo atveju, jeigu finansų maklerio įmonė vykdo toje dalyje nurodytą veiklą tokiu mastu, kad jos negalėjimas vykdyti įsipareigojimų arba patiriami sunkumai galėtų sukelti sisteminę riziką, ir (ar) finansų maklerio įmonė yra tarpuskaitos narė, kaip apibrėžta [Reglamento (ES) 2019/2033 4 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2019/2033/art_4/par_1/oj) 3 punkte, ir (ar), priežiūros institucijos pagrįstu vertinimu, atsižvelgiant į finansų maklerio įmonės veiklos dydį, pobūdį, mastą ir sudėtingumą ir į proporcingumo principą, nustatoma, kad sprendimą priimti būtina dėl finansų maklerio įmonės svarbos šalies ar Europos Sąjungos ekonomikai ir (ar) jos tarpvalstybinės veiklos svarbos, ir (ar) jos tarpusavio sąsajų su finansų sistema. ^s-49e07efa012248f0c25bea42
 
 
 4. Priežiūros institucijos sprendimas, nurodytas [[#^s-12abb2c0f1b03566ca2422b7|šio straipsnio 2 dalyje]], panaikinamas, jeigu finansų maklerio įmonės konsoliduoto turto vertė nebeatitinka toje dalyje nurodytos ribos per 12 iš eilės einančių mėnesių. ^s-12492170b8ab3eff2ff3b6b6
@@ -1414,34 +1414,34 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 5. Kai priežiūros institucija priima arba panaikina [[#^s-12abb2c0f1b03566ca2422b7|šio straipsnio 2 dalyje]] nurodytą sprendimą, ji nedelsdama apie tai praneša finansų maklerio įmonei ir Europos bankininkystės institucijai. ^s-6ed61b29aeb3cb769f515162
 
 
-6. Jeigu finansų maklerio įmonė nustato, kad ji nebeatitinka Reglamento (ES) 2019/2033 12 straipsnio 1 dalyje nurodytų sąlygų, nedelsdama apie tai praneša priežiūros institucijai ir privalo pradėti laikytis šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] 8–[[#^s-cdaca6323e74b4ce45734513|10 dalyse]], 154, 155, [[#^s-93efae17aa3c17266ded53c5|156 straipsniuose]], [[#^s-89450573533cf207a398cd23|16 straipsnio]] 1 ir [[#^s-92eb73ab32f3781cb4ed617c|11 dalyse]] ir [[#^s-97b5b3b1316f2083f5a6ee2f|441 straipsnyje]] nurodytų reikalavimų ne vėliau kaip po 12 mėnesių nuo tos dienos, kai ji pati nustatė, kad neatitinka Reglamento (ES) 2019/2033 12 straipsnio 1 dalyje nurodytų sąlygų. ^s-8d4789bffa6201244020e099
+6. Jeigu finansų maklerio įmonė nustato, kad ji nebeatitinka [Reglamento (ES) 2019/2033 12 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2019/2033/art_12/par_1/oj) nurodytų sąlygų, nedelsdama apie tai praneša priežiūros institucijai ir privalo pradėti laikytis šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] [[#^s-b29aad40ee5c84c73f0b7290|8]]–[[#^s-8d885b1abf053be9848f934b|10]] dalyse, [[#^s-42c6bc4a0d8732a1972ce002|154]], [[#^s-ef59a2177b389b839fa87c36|155]], [[#^s-93efae17aa3c17266ded53c5|156]] straipsniuose, [[#^s-89450573533cf207a398cd23|16 straipsnio]] [[#^s-9c4c62cf9c986d4dd18cff62|1]] ir [[#^s-0c2fa83d6e5649707b7170d2|11]] dalyse ir [[#^s-97b5b3b1316f2083f5a6ee2f|441 straipsnyje]] nurodytų reikalavimų ne vėliau kaip po 12 mėnesių nuo tos dienos, kai ji pati nustatė, kad neatitinka [Reglamento (ES) 2019/2033 12 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2019/2033/art_12/par_1/oj) nurodytų sąlygų. ^s-8d4789bffa6201244020e099
 Straipsnio dalies pakeitimai:
 Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
 
 
-7. Šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] 8–[[#^s-cdaca6323e74b4ce45734513|10 dalys]], 154, 155, [[#^s-93efae17aa3c17266ded53c5|156 straipsniai]], [[#^s-89450573533cf207a398cd23|16 straipsnio]] 1 ir [[#^s-92eb73ab32f3781cb4ed617c|11 dalys]] ir [[#^s-97b5b3b1316f2083f5a6ee2f|441 straipsnis]] ir Reglamento (ES) 2019/2033 [[#^s-e5bb3e444d49085978668966|8 straipsnis]] finansų maklerio įmonei taikomi individualiai. ^s-5fc33e5fd472276582cc5b40
+7. Šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] [[#^s-b29aad40ee5c84c73f0b7290|8]]–[[#^s-8d885b1abf053be9848f934b|10]] dalys, [[#^s-42c6bc4a0d8732a1972ce002|154]], [[#^s-ef59a2177b389b839fa87c36|155]], [[#^s-93efae17aa3c17266ded53c5|156]] straipsniai, [[#^s-89450573533cf207a398cd23|16 straipsnio]] [[#^s-9c4c62cf9c986d4dd18cff62|1]] ir [[#^s-0c2fa83d6e5649707b7170d2|11]] dalys ir [[#^s-97b5b3b1316f2083f5a6ee2f|441 straipsnis]] ir [Reglamento (ES) 2019/2033 8 straipsnis](https://eur-lex.europa.eu/eli/reg/2019/2033/art_8/oj) finansų maklerio įmonei taikomi individualiai. ^s-5fc33e5fd472276582cc5b40
 Straipsnio dalies pakeitimai:
 Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
 
 
-8. Jeigu finansų maklerio įmonei taikomos Reglamento (ES) 2019/2033 [[#^s-8b837945108cc488c27cf6b5|7 straipsnio]] nuostatos, šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] 8–[[#^s-cdaca6323e74b4ce45734513|10 dalyse]], 154, 155, [[#^s-93efae17aa3c17266ded53c5|156 straipsniuose]], [[#^s-89450573533cf207a398cd23|16 straipsnio]] 1 ir [[#^s-92eb73ab32f3781cb4ed617c|11 dalyse]] ir [[#^s-97b5b3b1316f2083f5a6ee2f|441 straipsnyje]] nurodyti reikalavimai jai taikomi individualiai ir konsoliduotai. ^s-5a8bd458fb3827944d3a0c5c
+8. Jeigu finansų maklerio įmonei taikomos [Reglamento (ES) 2019/2033 7 straipsnio](https://eur-lex.europa.eu/eli/reg/2019/2033/art_7/oj) nuostatos, šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] [[#^s-b29aad40ee5c84c73f0b7290|8]]–[[#^s-8d885b1abf053be9848f934b|10]] dalyse, [[#^s-42c6bc4a0d8732a1972ce002|154]], [[#^s-ef59a2177b389b839fa87c36|155]], [[#^s-93efae17aa3c17266ded53c5|156]] straipsniuose, [[#^s-89450573533cf207a398cd23|16 straipsnio]] [[#^s-9c4c62cf9c986d4dd18cff62|1]] ir [[#^s-0c2fa83d6e5649707b7170d2|11]] dalyse ir [[#^s-97b5b3b1316f2083f5a6ee2f|441 straipsnyje]] nurodyti reikalavimai jai taikomi individualiai ir konsoliduotai. ^s-5a8bd458fb3827944d3a0c5c
 Straipsnio dalies pakeitimai:
 Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
 
 
-9. Šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] 8–[[#^s-cdaca6323e74b4ce45734513|10 dalyse]], 10, 154, 155, [[#^s-93efae17aa3c17266ded53c5|156 straipsniuose]], [[#^s-89450573533cf207a398cd23|16 straipsnio]] 1 ir [[#^s-92eb73ab32f3781cb4ed617c|11 dalyse]] ir [[#^s-97b5b3b1316f2083f5a6ee2f|441 straipsnyje]] nurodyti reikalavimai netaikomi konsoliduotos būklės patronuojamosioms įmonėms, kurios įsteigtos trečiosiose valstybėse, jeigu finansų maklerio įmonės patronuojančioji įmonė, veikianti ar įsteigta Europos Sąjungoje, priežiūros institucijai gali įrodyti, kad taikyti šiuos reikalavimus tai patronuojamajai įmonei yra neteisėta pagal trečiosios valstybės, kurioje ji yra, teisės aktus. ^s-6ccb2b9025e73196cf131a04
+9. Šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] [[#^s-b29aad40ee5c84c73f0b7290|8]]–[[#^s-8d885b1abf053be9848f934b|10]] dalyse, [[#^s-84b8328dce232e0b8fb3fe2a|10]], [[#^s-42c6bc4a0d8732a1972ce002|154]], [[#^s-ef59a2177b389b839fa87c36|155]], [[#^s-93efae17aa3c17266ded53c5|156]] straipsniuose, [[#^s-89450573533cf207a398cd23|16 straipsnio]] [[#^s-9c4c62cf9c986d4dd18cff62|1]] ir [[#^s-0c2fa83d6e5649707b7170d2|11]] dalyse ir [[#^s-97b5b3b1316f2083f5a6ee2f|441 straipsnyje]] nurodyti reikalavimai netaikomi konsoliduotos būklės patronuojamosioms įmonėms, kurios įsteigtos trečiosiose valstybėse, jeigu finansų maklerio įmonės patronuojančioji įmonė, veikianti ar įsteigta Europos Sąjungoje, priežiūros institucijai gali įrodyti, kad taikyti šiuos reikalavimus tai patronuojamajai įmonei yra neteisėta pagal trečiosios valstybės, kurioje ji yra, teisės aktus. ^s-6ccb2b9025e73196cf131a04
 Straipsnio dalies pakeitimai:
 Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
 
 
-10. Šio straipsnio 2–[[#^s-6ed61b29aeb3cb769f515162|5 dalys]] netaikomos prekiautojams biržos prekėmis ir apyvartiniais taršos leidimais. ^s-cdaca6323e74b4ce45734513
+10. Šio straipsnio [[#^s-12abb2c0f1b03566ca2422b7|2]]–[[#^s-6ed61b29aeb3cb769f515162|5]] dalys netaikomos prekiautojams biržos prekėmis ir apyvartiniais taršos leidimais. ^s-cdaca6323e74b4ce45734513
 
 
-11. Jeigu finansų maklerio įmonė nustato, kad ji atitinka visas Reglamento (ES) 2019/2033 12 straipsnio 1 dalyje nurodytas sąlygas, nedelsdama apie tai praneša priežiūros institucijai ir, praėjus 6 mėnesių nepertraukiamam sąlygų atitikties laikotarpiui, jai nebetaikomi šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] 8–[[#^s-cdaca6323e74b4ce45734513|10 dalyse]], 154, 155, [[#^s-93efae17aa3c17266ded53c5|156 straipsniuose]], [[#^s-89450573533cf207a398cd23|16 straipsnio]] 1 ir [[#^s-92eb73ab32f3781cb4ed617c|11 dalyse]] ir [[#^s-97b5b3b1316f2083f5a6ee2f|441 straipsnyje]] nurodyti reikalavimai. ^s-92eb73ab32f3781cb4ed617c
+11. Jeigu finansų maklerio įmonė nustato, kad ji atitinka visas [Reglamento (ES) 2019/2033 12 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2019/2033/art_12/par_1/oj) nurodytas sąlygas, nedelsdama apie tai praneša priežiūros institucijai ir, praėjus 6 mėnesių nepertraukiamam sąlygų atitikties laikotarpiui, jai nebetaikomi šio įstatymo [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] [[#^s-b29aad40ee5c84c73f0b7290|8]]–[[#^s-8d885b1abf053be9848f934b|10]] dalyse, [[#^s-42c6bc4a0d8732a1972ce002|154]], [[#^s-ef59a2177b389b839fa87c36|155]], [[#^s-93efae17aa3c17266ded53c5|156]] straipsniuose, [[#^s-89450573533cf207a398cd23|16 straipsnio]] [[#^s-9c4c62cf9c986d4dd18cff62|1]] ir [[#^s-0c2fa83d6e5649707b7170d2|11]] dalyse ir [[#^s-97b5b3b1316f2083f5a6ee2f|441 straipsnyje]] nurodyti reikalavimai. ^s-92eb73ab32f3781cb4ed617c
 Straipsnio dalies pakeitimai:
 Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
@@ -1455,16 +1455,16 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 ### 14 straipsnis. Pradinio kapitalo reikalavimai ^s-f78bcf4a6a18f7402393db80
 
 
-1. Finansų maklerio įmonės pradinis kapitalas sudaromas pagal Reglamento (ES) 2019/2033 [[#^s-254abe334a6bf25c95d778c4|9 straipsnio]] reikalavimus. ^s-fdefc76e72bc9b20aa63babb
+1. Finansų maklerio įmonės pradinis kapitalas sudaromas pagal [Reglamento (ES) 2019/2033 9 straipsnio](https://eur-lex.europa.eu/eli/reg/2019/2033/art_9/oj) reikalavimus. ^s-fdefc76e72bc9b20aa63babb
 
 
-2. Finansų maklerio įmonės, kuri gali teikti vieną ar kelias šio įstatymo [[#^s-dc1e5bba9e05d789f9907380|3 straipsnio 26 dalies]] 3 ir 6 punktuose nurodytas investicines paslaugas ar vykdyti investicinę veiklą, pradinis kapitalas turi būti ne mažesnis kaip 750 tūkstančių eurų. ^s-efc8d9cd090a141e7519b0d5
+2. Finansų maklerio įmonės, kuri gali teikti vieną ar kelias šio įstatymo [[#^s-dc1e5bba9e05d789f9907380|3 straipsnio 26 dalies]] [[#^s-4a9bc3694aa777528669ae08|3]] ir [[#^s-341457c7985fb0cbeb6ef015|6]] punktuose nurodytas investicines paslaugas ar vykdyti investicinę veiklą, pradinis kapitalas turi būti ne mažesnis kaip 750 tūkstančių eurų. ^s-efc8d9cd090a141e7519b0d5
 
 
-3. Finansų maklerio įmonės, kuri gali teikti vieną ar kelias šio įstatymo [[#^s-dc1e5bba9e05d789f9907380|3 straipsnio 26 dalies]] 1, 2, 4, 5 ir 7 punktuose nurodytas investicines paslaugas ar vykdyti investicinę veiklą, tačiau neturi teisės saugoti klientų pinigų ar jiems priklausančių finansinių priemonių, pradinis kapitalas turi būti ne mažesnis kaip 75 tūkstančiai eurų. ^s-0edfee9dae334e4ea28af5cc
+3. Finansų maklerio įmonės, kuri gali teikti vieną ar kelias šio įstatymo [[#^s-dc1e5bba9e05d789f9907380|3 straipsnio 26 dalies]] [[#^s-df45231bcabf75287f54e6d6|1]], [[#^s-f7dacfa6f6f54aa00ac00d35|2]], [[#^s-518014e45b37d597c2b442d0|4]], [[#^s-297fe240d2d2c1a2e956b98c|5]] ir [[#^s-e385dc5a8b9e9123cd858b8d|7]] punktuose nurodytas investicines paslaugas ar vykdyti investicinę veiklą, tačiau neturi teisės saugoti klientų pinigų ar jiems priklausančių finansinių priemonių, pradinis kapitalas turi būti ne mažesnis kaip 75 tūkstančiai eurų. ^s-0edfee9dae334e4ea28af5cc
 
 
-4. Finansų maklerio įmonės, išskyrus šio straipsnio 2, 3 ir [[#^s-836522e351edc8d4715811e7|5 dalyse]] nurodytas įmones, pradinis kapitalas turi būti ne mažesnis kaip 150 tūkstančių eurų. ^s-626a63d8c53304692d3ae12b
+4. Finansų maklerio įmonės, išskyrus šio straipsnio [[#^s-efc8d9cd090a141e7519b0d5|2]], [[#^s-0edfee9dae334e4ea28af5cc|3]] ir [[#^s-836522e351edc8d4715811e7|5]] dalyse nurodytas įmones, pradinis kapitalas turi būti ne mažesnis kaip 150 tūkstančių eurų. ^s-626a63d8c53304692d3ae12b
 
 
 5. Finansų maklerio įmonės, kuri teikia investicines paslaugas ar vykdo šio įstatymo [[#^s-01aaef1b26332d7d5ae4563b|3 straipsnio 26 dalies 9 punkte]] nurodytą veiklą ir turi teisę sudaryti sandorius savo sąskaita arba vykdo šią veiklą, pradinis kapitalas turi būti ne mažesnis kaip 750 tūkstančių eurų. ^s-836522e351edc8d4715811e7
@@ -1484,10 +1484,10 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 2. [[#^s-f0c0bca765178cd3de19f328|Šio straipsnio 1 dalyje]] nurodyta tvarka, strategija ir procesais turi būti užtikrinama, kad finansų maklerio įmonės vidaus kapitalo ir likvidžiojo turto vertė, rūšys ir paskirstymas nuolat padengtų jos prisiimtą riziką, kuri kyla ar gali kilti pačiai finansų maklerio įmonei arba kitiems subjektams ar asmenims. ^s-945525eb155ff06fb8e3e4d8
 
 
-3. Šio straipsnio 1 ir [[#^s-945525eb155ff06fb8e3e4d8|2 dalys]] netaikomos mažoms ir tarpusavio sąsajų neturinčioms finansų maklerio įmonėms. ^s-b2b76ec18e37b0e477dcfac9
+3. Šio straipsnio [[#^s-f0c0bca765178cd3de19f328|1]] ir [[#^s-945525eb155ff06fb8e3e4d8|2]] dalys netaikomos mažoms ir tarpusavio sąsajų neturinčioms finansų maklerio įmonėms. ^s-b2b76ec18e37b0e477dcfac9
 
 
-4. Priežiūros institucija gali reikalauti, kad mažos ir tarpusavio sąsajų neturinčios finansų maklerio įmonės laikytųsi šio straipsnio 1 ir [[#^s-945525eb155ff06fb8e3e4d8|2 dalyje]] nurodytų reikalavimų, kai, priežiūros institucijos pagrįstu vertinimu, tai būtina. ^s-d7dece134ee5e9efa21919cf
+4. Priežiūros institucija gali reikalauti, kad mažos ir tarpusavio sąsajų neturinčios finansų maklerio įmonės laikytųsi šio straipsnio [[#^s-f0c0bca765178cd3de19f328|1]] ir [[#^s-945525eb155ff06fb8e3e4d8|2]] dalyje nurodytų reikalavimų, kai, priežiūros institucijos pagrįstu vertinimu, tai būtina. ^s-d7dece134ee5e9efa21919cf
 
 
 5. Priežiūros institucija nustato [[#^s-f0c0bca765178cd3de19f328|šio straipsnio 1 dalyje]] nurodytos vidaus kapitalo ir likvidžiojo turto poreikio nustatymo tvarkos, strategijos ir procesų reikalavimus. ^s-1c41cd870cd190c20bbf09ec
@@ -1509,22 +1509,22 @@ Straipsnio dalies pakeitimai:
 Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
 
-1) finansų maklerio įmonei kyla likvidumo rizika ir ji nėra padengta, kaip tai nustatyta Reglamento (ES) 2019/2033 V antraštinėje dalyje; ^s-8561e0906ad92af8e47e16d3
+1) finansų maklerio įmonei kyla likvidumo rizika ir ji nėra padengta, kaip tai nustatyta [Reglamento (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) V antraštinėje dalyje; ^s-8561e0906ad92af8e47e16d3
 
 
-2) finansų maklerio įmonė nesilaiko šio įstatymo [[#^s-f39cfd8a27617a09df5201b2|6 straipsnio]] 2 ir 6 dalyse, [[#^s-2cd452355a3e77b5d351ce56|141 straipsnyje]], [[#^s-89450573533cf207a398cd23|16 straipsnio]] 1 ir 11 dalyse nustatytų reikalavimų ir kitomis priežiūros priemonėmis nepavyktų per tinkamą laikotarpį pagerinti finansų maklerio įmonės tvarkos, strategijos ir procesų. ^s-6e17e1cce71d6c670e751105
+2) finansų maklerio įmonė nesilaiko šio įstatymo [[#^s-f39cfd8a27617a09df5201b2|6 straipsnio]] [[#^s-21533d8ace8f7565dc0027bd|2]] ir [[#^s-bd3d22435f3b3bbe78753155|6]] dalyse, [[#^s-2cd452355a3e77b5d351ce56|141 straipsnyje]], [[#^s-89450573533cf207a398cd23|16 straipsnio]] [[#^s-9c4c62cf9c986d4dd18cff62|1]] ir [[#^s-0c2fa83d6e5649707b7170d2|11]] dalyse nustatytų reikalavimų ir kitomis priežiūros priemonėmis nepavyktų per tinkamą laikotarpį pagerinti finansų maklerio įmonės tvarkos, strategijos ir procesų. ^s-6e17e1cce71d6c670e751105
 
 
-2. Papildomo likvidumo dydis nustatomas kaip skirtumas tarp pakankamu laikomo likvidumo reikalavimo, nustatyto priežiūros institucijos, pagal [[#^s-5a31d6460865a4f09620bbfe|šio straipsnio 1 dalį]] ir likvidumo reikalavimo, nurodyto Reglamento (ES) 2019/2033 V antraštinėje dalyje. ^s-5e62a604ca7c2eb0b876dea6
+2. Papildomo likvidumo dydis nustatomas kaip skirtumas tarp pakankamu laikomo likvidumo reikalavimo, nustatyto priežiūros institucijos, pagal [[#^s-5a31d6460865a4f09620bbfe|šio straipsnio 1 dalį]] ir likvidumo reikalavimo, nurodyto [Reglamento (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) V antraštinėje dalyje. ^s-5e62a604ca7c2eb0b876dea6
 
 
-3. Finansų maklerio įmonė papildomo likvidumo reikalavimo laikosi turėdama likvidžiojo turto, kaip nurodyta Reglamento (ES) 2019/2033 [[#^s-515791c90cee5eb56fe9fd65|43 straipsnyje]]. ^s-1cd378925bc9c3570e4ee2f5
+3. Finansų maklerio įmonė papildomo likvidumo reikalavimo laikosi turėdama likvidžiojo turto, kaip nurodyta [Reglamento (ES) 2019/2033 43 straipsnyje](https://eur-lex.europa.eu/eli/reg/2019/2033/art_43/oj). ^s-1cd378925bc9c3570e4ee2f5
 
 
 4. Priežiūros institucija peržiūri sprendimą dėl papildomo likvidumo reikalavimo [[#^s-5a31d6460865a4f09620bbfe|šio straipsnio 1 dalyje]] nurodytų vertinimų metu ir privalo jį panaikinti, kai finansų maklerio įmonė ištaiso veiklos trūkumus, dėl kurių buvo priimtas sprendimas. ^s-b9df9abb6ea04bbd369b49d6
 
 
-5. Šio straipsnio reikalavimai netaikomi mažoms ir tarpusavio sąsajų neturinčioms finansų maklerio įmonėms, kurioms priežiūros institucija taiko likvidumo reikalavimo taikymo išimtį, nustatytą Reglamento (ES) 2019/2033 [[#^s-8f1266abc2b43b89ec5850aa|43 straipsnio 1 dalyje]]. ^s-04a9165426093f3dca29d8da
+5. Šio straipsnio reikalavimai netaikomi mažoms ir tarpusavio sąsajų neturinčioms finansų maklerio įmonėms, kurioms priežiūros institucija taiko likvidumo reikalavimo taikymo išimtį, nustatytą [Reglamento (ES) 2019/2033 43 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2019/2033/art_43/par_1/oj). ^s-04a9165426093f3dca29d8da
 
 
 Papildyta straipsniu:
@@ -1538,10 +1538,10 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 1. Priežiūros institucija gali reikalauti, kad finansų maklerio įmonė turėtų papildomų nuosavų lėšų tik kai, atlikusi šio įstatymo [[#^s-9331241bc3e2339d824c3382|152 straipsnyje]] nurodytą priežiūrinį tikrinimą ir vertinimą ir (ar) šio įstatymo [[#^s-2c6572289b4fca4bae247ec5|153 straipsnyje]] nurodytą vertinimą dėl vidaus modelių taikymo, nustato, kad: ^s-e7bae632a358d83b9941cd8c
 
 
-1) finansų maklerio įmonei kyla rizika arba ji kelia ją klientams, rinkai, ir rizika nėra padengta privalomu nuosavų lėšų reikalavimu, ypač K veiksnių reikalavimais, kaip tai nurodyta Reglamento (ES) 2019/2033 III ar IV antraštinėje dalyje; ^s-649eefbdd2508e7a6d72b07c
+1) finansų maklerio įmonei kyla rizika arba ji kelia ją klientams, rinkai, ir rizika nėra padengta privalomu nuosavų lėšų reikalavimu, ypač K veiksnių reikalavimais, kaip tai nurodyta [Reglamento (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) III ar IV antraštinėje dalyje; ^s-649eefbdd2508e7a6d72b07c
 
 
-2) finansų maklerio įmonė nesilaiko šio įstatymo [[#^s-f39cfd8a27617a09df5201b2|6 straipsnio]] 2 ir [[#^s-531cb314524dd2a308bbbec4|6 dalyse]], [[#^s-2cd452355a3e77b5d351ce56|141 straipsnyje]] ir [[#^s-89450573533cf207a398cd23|16 straipsnio]] 1 ir 11 dalyse nustatytų reikalavimų, o kitomis priežiūros priemonėmis nepavyktų per tinkamą laikotarpį pagerinti šios įmonės tvarkos, strategijos ir procesų; ^s-5526d50a0405a8533e9c3491
+2) finansų maklerio įmonė nesilaiko šio įstatymo [[#^s-f39cfd8a27617a09df5201b2|6 straipsnio]] [[#^s-21533d8ace8f7565dc0027bd|2]] ir [[#^s-bd3d22435f3b3bbe78753155|6]] dalyse, [[#^s-2cd452355a3e77b5d351ce56|141 straipsnyje]] ir [[#^s-89450573533cf207a398cd23|16 straipsnio]] [[#^s-9c4c62cf9c986d4dd18cff62|1]] ir [[#^s-0c2fa83d6e5649707b7170d2|11]] dalyse nustatytų reikalavimų, o kitomis priežiūros priemonėmis nepavyktų per tinkamą laikotarpį pagerinti šios įmonės tvarkos, strategijos ir procesų; ^s-5526d50a0405a8533e9c3491
 
 
 3) finansų maklerio įmonės atliktų koregavimų dėl prekybos knygos rizikos ribojančiu principu pagrįsto pozicijų vertinimo nepakanka, kad ši įmonė, nepatirdama reikšmingų nuostolių, esant įprastoms rinkos sąlygoms, per trumpą laikotarpį galėtų parduoti arba apdrausti pozicijas; ^s-8e7a575b0bea19ee4eb68bb4
@@ -1553,10 +1553,10 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 5) finansų maklerio įmonė pakartotinai nenustato arba nesilaiko papildomo nuosavų lėšų dydžio, kaip nustatyta šio įstatymo [[#^s-e43d5e2b001628755b3a9f00|151 straipsnyje]]. ^s-1439f0b5757fe6df8ba9c168
 
 
-2. Papildomų nuosavų lėšų dydis nustatomas kaip skirtumas tarp nuosavų lėšų reikalavimo, kurį priežiūros institucija nustato pagal [[#^s-e7bae632a358d83b9941cd8c|šio straipsnio 1 dalį]], ir nuosavų lėšų reikalavimo, nurodyto Reglamento (ES) 2019/2033 III ar IV antraštinėse dalyse. ^s-48ac6478f99986a760050efb
+2. Papildomų nuosavų lėšų dydis nustatomas kaip skirtumas tarp nuosavų lėšų reikalavimo, kurį priežiūros institucija nustato pagal [[#^s-e7bae632a358d83b9941cd8c|šio straipsnio 1 dalį]], ir nuosavų lėšų reikalavimo, nurodyto [Reglamento (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) III ar IV antraštinėse dalyse. ^s-48ac6478f99986a760050efb
 
 
-3. Papildomas nuosavas lėšas sudarantis 1 lygio kapitalas turi būti ne mažesnis kaip trys ketvirtadaliai papildomų nuosavų lėšų, o bendras 1 lygio kapitalas turi sudaryti bent tris ketvirtadalius 1 lygio kapitalo. Papildomos nuosavos lėšos negali būti naudojamos siekiant laikytis Reglamento (ES) 2019/2033 [[#^s-fa62a6c52d2a67322984a4e9|11 straipsnio 1 dalyje]] nurodytų nuosavų lėšų reikalavimų. ^s-34c1bcaabf86ba6f484526c8
+3. Papildomas nuosavas lėšas sudarantis 1 lygio kapitalas turi būti ne mažesnis kaip trys ketvirtadaliai papildomų nuosavų lėšų, o bendras 1 lygio kapitalas turi sudaryti bent tris ketvirtadalius 1 lygio kapitalo. Papildomos nuosavos lėšos negali būti naudojamos siekiant laikytis [Reglamento (ES) 2019/2033 11 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2019/2033/art_11/par_1/oj) nurodytų nuosavų lėšų reikalavimų. ^s-34c1bcaabf86ba6f484526c8
 
 
 4. Priežiūros institucija, nustačiusi [[#^s-202be29b0053630951b18f7b|šio straipsnio 1 dalies 4 punkte]] nurodytą atvejį, privalo pateikti konkretų paaiškinimą, kodėl šio įstatymo [[#^s-37b8a947b3f25391c0141e8d|151 straipsnio 1 dalyje]] nurodytos nuosavos lėšos nėra laikomos pakankamomis. ^s-0fa16923871e325b7468a8e4
@@ -1568,7 +1568,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 6. Apie [[#^s-e7bae632a358d83b9941cd8c|šio straipsnio 1 dalyje]] nurodytų įpareigojimų taikymo metodiką priežiūros institucija praneša Europos bankininkystės institucijai. ^s-531cb314524dd2a308bbbec4
 
 
-7. Šio straipsnio 1, 2, 3 ir [[#^s-0fa16923871e325b7468a8e4|4 dalyse]] nurodyti reikalavimai mažoms ir tarpusavio sąsajų neturinčioms finansų maklerio įmonėms taikomi tik kai priežiūros institucija pagrįstu finansų maklerio įmonės vertinimu nustato, kad tai būtina. ^s-9530d495d86ba7343017253c
+7. Šio straipsnio [[#^s-e7bae632a358d83b9941cd8c|1]], [[#^s-48ac6478f99986a760050efb|2]], [[#^s-34c1bcaabf86ba6f484526c8|3]] ir [[#^s-0fa16923871e325b7468a8e4|4]] dalyse nurodyti reikalavimai mažoms ir tarpusavio sąsajų neturinčioms finansų maklerio įmonėms taikomi tik kai priežiūros institucija pagrįstu finansų maklerio įmonės vertinimu nustato, kad tai būtina. ^s-9530d495d86ba7343017253c
 
 
 Straipsnio pakeitimai:
@@ -1579,7 +1579,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 ### 151 straipsnis. Nuosavos lėšos dėl ekonominio ciklo svyravimų ^s-e43d5e2b001628755b3a9f00
 
 
-1. Priežiūros institucija, vadovaudamasi proporcingumo principu, atsižvelgdama į finansų maklerio įmonės dydį, sisteminę svarbą, veiklos pobūdį, mastą ir sudėtingumą ir laikydamasi [[latest/TAR.1B4D7B687895#^s-787d7012a0c7f6fb5fc9dbe2|Lietuvos Respublikos Lietuvos banko įstatymo 432 straipsnyje]] nustatytų reikalavimų, gali reikalauti, kad finansų maklerio įmonė turėtų daugiau nuosavų lėšų, įskaitant papildomas nuosavas lėšas, nei tai nustatyta šiame įstatyme ir Reglamente (ES) 2019/2033, jeigu reikia užtikrinti, kad dėl ekonominio ciklo svyravimų nebūtų pažeisti šiame įstatyme ir Reglamente (ES) 2019/2033 nustatyti nuosavų lėšų reikalavimai ar nekiltų rizika dėl nesklandaus finansų maklerio įmonės veiklos nutraukimo. ^s-37b8a947b3f25391c0141e8d
+1. Priežiūros institucija, vadovaudamasi proporcingumo principu, atsižvelgdama į finansų maklerio įmonės dydį, sisteminę svarbą, veiklos pobūdį, mastą ir sudėtingumą ir laikydamasi [[latest/TAR.1B4D7B687895#^s-787d7012a0c7f6fb5fc9dbe2|Lietuvos Respublikos Lietuvos banko įstatymo 432 straipsnyje]] nustatytų reikalavimų, gali reikalauti, kad finansų maklerio įmonė turėtų daugiau nuosavų lėšų, įskaitant papildomas nuosavas lėšas, nei tai nustatyta šiame įstatyme ir [Reglamente (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj), jeigu reikia užtikrinti, kad dėl ekonominio ciklo svyravimų nebūtų pažeisti šiame įstatyme ir [Reglamente (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) nustatyti nuosavų lėšų reikalavimai ar nekiltų rizika dėl nesklandaus finansų maklerio įmonės veiklos nutraukimo. ^s-37b8a947b3f25391c0141e8d
 
 
 2. Apie [[#^s-37b8a947b3f25391c0141e8d|šio straipsnio 1 dalyje]] nustatytą nuosavų lėšų reikalavimą dėl ekonominio ciklo svyravimų priežiūros institucija nedelsdama praneša pertvarkymo institucijai. ^s-911c76122f5c91665f9755e1
@@ -1599,7 +1599,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 ### 152 straipsnis. Priežiūrinis tikrinimas ir vertinimas ^s-9331241bc3e2339d824c3382
 
 
-1. Priežiūros institucija atlieka finansų maklerio įmonės priežiūrinį tikrinimą ir vertinimą, atsižvelgdama į finansų maklerio įmonės dydį, rizikos profilį ir verslo modelį. Atliekant priežiūrinį tikrinimą ir vertinimą įvertinami procesai, kuriuos įdiegė finansų maklerio įmonė, laikydamasi šio įstatymo ir Reglamento (ES) 2019/2033 reikalavimų bei juos įgyvendinančių priežiūros institucijos teisės aktų. Atliekant priežiūrinį tikrinimą ir vertinimą įvertinamos finansų maklerio įmonės rizikos, nurodytos šio įstatymo [[#^s-42c6bc4a0d8732a1972ce002|154 straipsnyje]], finansų maklerio įmonės turimų finansinių priemonių pozicijų geografinė padėtis, verslo modelis, taip pat finansų maklerio įmonės keliama sisteminė rizika, kaip tai nurodyta Reglamento (ES) Nr. 1093/2010 [[#^s-416e07231a11cc59a7c5f200|23 straipsnyje]] ir Europos sisteminės rizikos valdybos rekomendacijose, tinklo ir informacinių sistemų saugumui kylanti rizika, kad būtų užtikrintas jų procesų, duomenų ir turto slaptumas, vientisumas ir prieinamumas, taip pat palūkanų normos rizika, kylanti iš ne prekybos knygos, vidaus valdymo tvarka ir vadovų gebėjimas vykdyti savo funkcijas. Priežiūros institucija priima teisės aktus, nustatančius priežiūrinio tikrinimo ir vertinimo tvarką. ^s-2a13ac84b58ca0f22e2e5acc
+1. Priežiūros institucija atlieka finansų maklerio įmonės priežiūrinį tikrinimą ir vertinimą, atsižvelgdama į finansų maklerio įmonės dydį, rizikos profilį ir verslo modelį. Atliekant priežiūrinį tikrinimą ir vertinimą įvertinami procesai, kuriuos įdiegė finansų maklerio įmonė, laikydamasi šio įstatymo ir [Reglamento (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) reikalavimų bei juos įgyvendinančių priežiūros institucijos teisės aktų. Atliekant priežiūrinį tikrinimą ir vertinimą įvertinamos finansų maklerio įmonės rizikos, nurodytos šio įstatymo [[#^s-42c6bc4a0d8732a1972ce002|154 straipsnyje]], finansų maklerio įmonės turimų finansinių priemonių pozicijų geografinė padėtis, verslo modelis, taip pat finansų maklerio įmonės keliama sisteminė rizika, kaip tai nurodyta [Reglamento (ES) Nr. 1093/2010 23 straipsnyje](https://eur-lex.europa.eu/eli/reg/1093/2010/art_23/oj) ir Europos sisteminės rizikos valdybos rekomendacijose, tinklo ir informacinių sistemų saugumui kylanti rizika, kad būtų užtikrintas jų procesų, duomenų ir turto slaptumas, vientisumas ir prieinamumas, taip pat palūkanų normos rizika, kylanti iš ne prekybos knygos, vidaus valdymo tvarka ir vadovų gebėjimas vykdyti savo funkcijas. Priežiūros institucija priima teisės aktus, nustatančius priežiūrinio tikrinimo ir vertinimo tvarką. ^s-2a13ac84b58ca0f22e2e5acc
 
 
 2. [[#^s-2a13ac84b58ca0f22e2e5acc|Šio straipsnio 1 dalyje]] nurodytas priežiūrinis tikrinimas ir vertinimas turi būti proporcingi atsižvelgiant į tai, ar finansų maklerio įmonė turi profesinės civilinės atsakomybės draudimą. ^s-5a0bf7877510e8f80905d07b
@@ -1622,16 +1622,16 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 ### 153 straipsnis. Sprendimo leisti taikyti vidaus modelius peržiūra ^s-2c6572289b4fca4bae247ec5
 
 
-1. Priežiūros institucija reguliariai, bent kartą per trejus metus, įvertina finansų maklerio įmonės atitiktį priežiūros institucijos suteiktam leidimui naudoti vidaus modelius apskaičiuojant nuosavas lėšas rinkos rizikai, kaip nurodyta Reglamento (ES) 2019/2033 [[#^s-02873015d9fdb562032879d7|22 straipsnyje]]. ^s-ba268c93192ce17ac0c32e6b
+1. Priežiūros institucija reguliariai, bent kartą per trejus metus, įvertina finansų maklerio įmonės atitiktį priežiūros institucijos suteiktam leidimui naudoti vidaus modelius apskaičiuojant nuosavas lėšas rinkos rizikai, kaip nurodyta [Reglamento (ES) 2019/2033 22 straipsnyje](https://eur-lex.europa.eu/eli/reg/2019/2033/art_22/oj). ^s-ba268c93192ce17ac0c32e6b
 
 
 2. Atliekant [[#^s-ba268c93192ce17ac0c32e6b|šio straipsnio 1 dalyje]] nurodytą vertinimą, pirmiausia atsižvelgiama į finansų maklerio įmonės veiklos pokyčius, vidaus modelių taikymą naujiems produktams, vertinama, ar finansų maklerio įmonės taiko tinkamai parengtus naujausius metodus ir praktiką. ^s-6a4b3823e7ee10c00e8b29d7
 
 
-3. Priežiūros institucija, nustačiusi reikšmingų [[#^s-ba268c93192ce17ac0c32e6b|šio straipsnio 1 dalyje]] nurodytų modelių taikymo trūkumų, finansų maklerio įmonei duoda šio įstatymo [[#^s-c1300260aae553af8385c8d9|102 straipsnio]] 3 ir 7 dalyje nurodytus privalomus nurodymus. ^s-37ee12983049d51a2300df22
+3. Priežiūros institucija, nustačiusi reikšmingų [[#^s-ba268c93192ce17ac0c32e6b|šio straipsnio 1 dalyje]] nurodytų modelių taikymo trūkumų, finansų maklerio įmonei duoda šio įstatymo [[#^s-c1300260aae553af8385c8d9|102 straipsnio]] [[#^s-6487fa1c60dd35e3fb90c55b|3]] ir [[#^s-ef6748e469b32f46e4e9dfb6|7]] dalyje nurodytus privalomus nurodymus. ^s-37ee12983049d51a2300df22
 
 
-4. Priežiūros institucija panaikina leidimą taikyti vidaus modelius ar duoda šio įstatymo [[#^s-c1300260aae553af8385c8d9|102 straipsnio]] 3 ir 7 dalyse ir [[#^s-b998f56f06eb34fc84d95f87|93 straipsnio 5 dalies 8 punkte]] nurodytus privalomus nurodymus finansų maklerio įmonei, jeigu daugelis nukrypimų, nurodytų Reglamento (ES) Nr. 575/2013 366 straipsnyje, rodo, kad vidaus modeliai nebėra tikslūs. ^s-bdbef571ebd58b998a826c22
+4. Priežiūros institucija panaikina leidimą taikyti vidaus modelius ar duoda šio įstatymo [[#^s-c1300260aae553af8385c8d9|102 straipsnio]] [[#^s-6487fa1c60dd35e3fb90c55b|3]] ir [[#^s-ef6748e469b32f46e4e9dfb6|7]] dalyse ir [[#^s-b998f56f06eb34fc84d95f87|93 straipsnio 5 dalies 8 punkte]] nurodytus privalomus nurodymus finansų maklerio įmonei, jeigu daugelis nukrypimų, nurodytų Reglamento (ES) Nr. 575/2013 366 straipsnyje, rodo, kad vidaus modeliai nebėra tikslūs. ^s-bdbef571ebd58b998a826c22
 
 
 5. Kai finansų maklerio įmonė nebeatitinka leidimui taikyti vidaus modelius išduoti ar privalomiems nurodymams, įtvirtintiems šio įstatymo [[#^s-c1300260aae553af8385c8d9|102 straipsnyje]], duoti nustatytų reikalavimų, priežiūros institucija reikalauja, kad finansų maklerio įmonė įrodytų, kad neatitiktis yra nereikšminga, arba pateiktų planą ir terminą, kada bus laikomasi reikalavimų. Priežiūros institucija gali reikalauti pakoreguoti planą, jeigu jis nevisiškai atitinka reikalavimus, ir reikalauti nustatyti kitą terminą. ^s-9b49c5a07b6e67157de0f9b3
@@ -1663,7 +1663,7 @@ Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 
 
 
-4) likvidumo rizikos pagal laikotarpius, įskaitant vienos dienos laikotarpį, siekiant užtikrinti, kad finansų maklerio įmonė išlaikytų pakankamo dydžio likvidumo reikalavimą, be kita ko, galėtų šalinti šios dalies 1, 2 ir [[#^s-c127339a24be98c6d2d400f2|3 punktuose]] nurodytus reikšmingus rizikos šaltinius. ^s-b972f296d465ddcf33581b1f
+4) likvidumo rizikos pagal laikotarpius, įskaitant vienos dienos laikotarpį, siekiant užtikrinti, kad finansų maklerio įmonė išlaikytų pakankamo dydžio likvidumo reikalavimą, be kita ko, galėtų šalinti šios dalies [[#^s-3bb7b541e24ba02d50067be8|1]], [[#^s-344d83e3ab005fb627e43a77|2]] ir [[#^s-c127339a24be98c6d2d400f2|3]] punktuose nurodytus reikšmingus rizikos šaltinius. ^s-b972f296d465ddcf33581b1f
 
 
 2. [[#^s-f87ce1536a1019768bf0646e|Šio straipsnio 1 dalyje]] nurodyta rizikos valdymo politika ir strategija privalo būti proporcingos finansų maklerio įmonės sudėtingumui, rizikos profiliui, veiklos mastui ir rizikos tolerancijai, kurią nustato finansų maklerio įmonės vadovai, ir privalo atitikti finansų maklerio įmonės svarbą kiekvienoje valstybėje narėje, kurioje finansų maklerio įmonė vykdo veiklą. ^s-0787e839673415e9334766e9
@@ -1675,10 +1675,10 @@ Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 4. Tinkama priemone [[#^s-3bb7b541e24ba02d50067be8|šio straipsnio 1 dalies 1 punkte]] nurodytiems rizikos veiksniams valdyti gali būti laikomas profesinės civilinės atsakomybės draudimas. ^s-09c61fb7421ed43936c3a0b5
 
 
-5. Finansų maklerio įmonė privalo įvertinti [[#^s-f87ce1536a1019768bf0646e|šio straipsnio 1 dalyje]] nurodytą reikšmingą poveikį nuosavoms lėšoms, kai rizika klientams ir rizika rinkai nėra pakankamai padengtos nuosavomis lėšomis, atitinkančiomis Reglamento (ES) 2019/2033 [[#^s-3d2729063370dddc06643976|11 straipsnyje]] nurodytus reikalavimus. ^s-399fd135bf2cb20df3034211
+5. Finansų maklerio įmonė privalo įvertinti [[#^s-f87ce1536a1019768bf0646e|šio straipsnio 1 dalyje]] nurodytą reikšmingą poveikį nuosavoms lėšoms, kai rizika klientams ir rizika rinkai nėra pakankamai padengtos nuosavomis lėšomis, atitinkančiomis [Reglamento (ES) 2019/2033 11 straipsnyje](https://eur-lex.europa.eu/eli/reg/2019/2033/art_11/oj) nurodytus reikalavimus. ^s-399fd135bf2cb20df3034211
 
 
-6. Priežiūros institucija turi teisę reikalauti, kad likviduojama arba veiklą nutraukianti finansų maklerio įmonė, atsižvelgdama į savo gyvybingumą ir verslo modelio bei strategijų tvarumą, tinkamai laikytųsi šiame įstatyme ir Reglamente (ES) 2019/2033 nurodytų reikalavimų ir turėtų reikalingų finansinių išteklių, taip pat, atsižvelgdama į likvidavimo arba veiklos nutraukimo laikotarpį, laikytųsi nuosavų lėšų ir likvidžiojo turto reikalavimų visą laikotarpį, kol finansų maklerio įmonė bus likviduota ar pasibaigs kitokiu būdu. ^s-f4d7b0e0641247468fae63dd
+6. Priežiūros institucija turi teisę reikalauti, kad likviduojama arba veiklą nutraukianti finansų maklerio įmonė, atsižvelgdama į savo gyvybingumą ir verslo modelio bei strategijų tvarumą, tinkamai laikytųsi šiame įstatyme ir [Reglamente (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) nurodytų reikalavimų ir turėtų reikalingų finansinių išteklių, taip pat, atsižvelgdama į likvidavimo arba veiklos nutraukimo laikotarpį, laikytųsi nuosavų lėšų ir likvidžiojo turto reikalavimų visą laikotarpį, kol finansų maklerio įmonė bus likviduota ar pasibaigs kitokiu būdu. ^s-f4d7b0e0641247468fae63dd
 Straipsnio dalies pakeitimai:
 Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 
@@ -1766,7 +1766,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 ### 156 straipsnis. Kintamasis atlygis ^s-93efae17aa3c17266ded53c5
 
 
-1. Kintamasis atlygis finansų maklerio įmonės darbuotojams, nurodytiems šio įstatymo [[#^s-bd6bc537f73a46cc925f0743|155 straipsnio 1 dalyje]], įskaitant ir atidėtąją dalį, nustatytą [[#^s-6249411b2c40f6f0db1f2e00|šio straipsnio 11 dalyje]], išmokamas arba suteikiamas tik tada, jeigu tenkinami šio straipsnio 2–[[#^s-f7373ed8e937615ecd846c5f|15 dalyse]] nustatyti reikalavimai. ^s-10c5c35cd39dbc1f18410c1e
+1. Kintamasis atlygis finansų maklerio įmonės darbuotojams, nurodytiems šio įstatymo [[#^s-bd6bc537f73a46cc925f0743|155 straipsnio 1 dalyje]], įskaitant ir atidėtąją dalį, nustatytą [[#^s-6249411b2c40f6f0db1f2e00|šio straipsnio 11 dalyje]], išmokamas arba suteikiamas tik tada, jeigu tenkinami šio straipsnio [[#^s-2c4646f688cbd810bef19a5a|2]]–[[#^s-f7373ed8e937615ecd846c5f|15]] dalyse nustatyti reikalavimai. ^s-10c5c35cd39dbc1f18410c1e
 
 
 2. Kai kintamasis atlygis nustatomas vertinant darbuotojo ir finansų maklerio įmonės veiklos rezultatus, visa šio atlygio suma grindžiama kelerių metų individualiu darbuotojo vertinimu ir finansų maklerio įmonės padalinio, kuriame darbuotojas dirba, taip pat visos finansų maklerio įmonės rezultatų vertinimu. Atliekant individualų darbuotojų vertinimą, atsižvelgiama į finansų maklerio įmonės verslo ciklą ir rizikas. ^s-2c4646f688cbd810bef19a5a
@@ -1784,7 +1784,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 6. Pagal darbuotojo ir darbdavio sudarytas sutartis dėl kompensacijos nutraukus darbo sutartį su kompensacija arba mokėjimais susiję atlygio paketai turi būti suderinti su ilgalaikiais finansų maklerio įmonės interesais. ^s-3444c70db4b695a1248fc5ea
 
 
-7. Nustatant veiklos rezultatų vertinimo priemones, kurios naudojamos kintamojo atlygio fondui apskaičiuoti, turi būti įvertinamos esamos ir būsimos rizikos ir su kapitalo ir likvidumo reikalavimais susijusios sąnaudos, kaip tai nurodyta Reglamente (ES) 2019/2033. ^s-8a189569c3126a0fb2331f69
+7. Nustatant veiklos rezultatų vertinimo priemones, kurios naudojamos kintamojo atlygio fondui apskaičiuoti, turi būti įvertinamos esamos ir būsimos rizikos ir su kapitalo ir likvidumo reikalavimais susijusios sąnaudos, kaip tai nurodyta [Reglamente (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj). ^s-8a189569c3126a0fb2331f69
 
 
 8. Ne mažiau kaip 50 procentų kintamojo atlygio turi sudaryti finansų maklerio įmonės akcijos, kitos nuosavybės priemonės, su akcijomis susijusios priemonės arba kitos lygiavertės nepiniginės priemonės, nepiniginės priemonės, kurios nustatomos atsižvelgiant į valdomų portfelių sudėtį, papildomo 1 lygio arba 2 lygio kapitalo priemonės, kaip jos suprantamos pagal Reglamentą (ES) Nr. 575/2013, arba kitos priemonės, kurios gali būti konvertuojamos į bendrą 1 lygio nuosavą kapitalą arba nurašomos ir kurios tinkamai parodo veiklą tęsti besitikinčios finansų maklerio įmonės kredito kokybę. ^s-54087706737fbd93d6140990
@@ -1808,16 +1808,16 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 13. Finansų maklerio įmonės nuožiūra kaupiamųjų pensijų įmokų skaičiavimo principai turi atitikti finansų maklerio įmonės verslo strategiją, tikslus, vertybes ir ilgalaikius tęstinės veiklos interesus. Kai darbuotojas finansų maklerio įmonėje nebedirba, finansų maklerio įmonės nuožiūra sukauptos kaupiamosios pensijų įmokos, iki jam sukanka pensinis amžius, laikomos finansų maklerio įmonėje 5 metus [[#^s-54087706737fbd93d6140990|šio straipsnio 8 dalyje]] nurodytomis priemonėmis. Kai darbuotojas sulaukia pensinio amžiaus ir išeina į pensiją, darbuotojo savo nuožiūra kaupiamos pensijų įmokos jam išmokamos [[#^s-54087706737fbd93d6140990|šio straipsnio 8 dalyje]] nurodytomis priemonėmis ir taikomas 5 metų šių priemonių perleidimo teisės terminas. ^s-6926872d58b20bbca8e478bc
 
 
-14. Pagal šio straipsnio 1–[[#^s-6926872d58b20bbca8e478bc|13 dalių]] reikalavimus finansų maklerio įmonė turi užtikrinti, kad šio įstatymo [[#^s-bd6bc537f73a46cc925f0743|155 straipsnio 1 dalyje]] nurodyti asmenys nesinaudotų asmeniniais draudimo sandoriais ar bet kokios kitos formos su atlygio įsipareigojimais susijusiu draudimu. ^s-8f46887e617b681ef07e09e4
+14. Pagal šio straipsnio [[#^s-10c5c35cd39dbc1f18410c1e|1]]–[[#^s-6926872d58b20bbca8e478bc|13]] dalių reikalavimus finansų maklerio įmonė turi užtikrinti, kad šio įstatymo [[#^s-bd6bc537f73a46cc925f0743|155 straipsnio 1 dalyje]] nurodyti asmenys nesinaudotų asmeniniais draudimo sandoriais ar bet kokios kitos formos su atlygio įsipareigojimais susijusiu draudimu. ^s-8f46887e617b681ef07e09e4
 
 
-15. Kintamasis atlygis negali būti mokamas tokiais būdais ir priemonėmis, kad būtų nesilaikoma šio įstatymo ir Reglamento (ES) 2019/2033 reikalavimų. ^s-f7373ed8e937615ecd846c5f
+15. Kintamasis atlygis negali būti mokamas tokiais būdais ir priemonėmis, kad būtų nesilaikoma šio įstatymo ir [Reglamento (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) reikalavimų. ^s-f7373ed8e937615ecd846c5f
 
 
-16. Finansų maklerio įmonei netaikomos šio straipsnio 8, 11 ir [[#^s-6926872d58b20bbca8e478bc|13 dalys]], kai įmonės vidutinė balansinio ir nebalansinio turto vertė, apskaičiuota per 4 metų, einančių prieš paskutinę finansinių metų dieną, laikotarpį, neviršija 100 milijonų eurų. ^s-81d1e00d92da3193e16470eb
+16. Finansų maklerio įmonei netaikomos šio straipsnio [[#^s-54087706737fbd93d6140990|8]], [[#^s-6249411b2c40f6f0db1f2e00|11]] ir [[#^s-6926872d58b20bbca8e478bc|13]] dalys, kai įmonės vidutinė balansinio ir nebalansinio turto vertė, apskaičiuota per 4 metų, einančių prieš paskutinę finansinių metų dieną, laikotarpį, neviršija 100 milijonų eurų. ^s-81d1e00d92da3193e16470eb
 
 
-17. Finansų maklerio įmonė netaiko šio straipsnio 8, 11 ir [[#^s-6926872d58b20bbca8e478bc|13 dalių]] asmenims, kurių metinis kintamasis atlygis neviršija 50 tūkstančių eurų ir sudaro mažiau nei ketvirtadalį jų metinio atlygio. ^s-dd9cddb6b8987da056cc320e
+17. Finansų maklerio įmonė netaiko šio straipsnio [[#^s-54087706737fbd93d6140990|8]], [[#^s-6249411b2c40f6f0db1f2e00|11]] ir [[#^s-6926872d58b20bbca8e478bc|13]] dalių asmenims, kurių metinis kintamasis atlygis neviršija 50 tūkstančių eurų ir sudaro mažiau nei ketvirtadalį jų metinio atlygio. ^s-dd9cddb6b8987da056cc320e
 
 
 18. Finansų maklerio įmonė, nurodyta šio įstatymo [[#^s-5a8bd458fb3827944d3a0c5c|13 straipsnio 8 dalyje]], turi laikytis šio straipsnio reikalavimų nuo finansinių metų, einančių po tų finansinių metų, kai buvo atliktas šio įstatymo [[#^s-5a8bd458fb3827944d3a0c5c|13 straipsnio 8 dalyje]] nurodytas vertinimas. ^s-e5190d9a2af2cfa7a2049964
@@ -1852,7 +1852,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 6. Finansines priemones išleidžianti finansų maklerio įmonė privalo pateikti visiems asmenims, platinantiems jos išleistą finansinę priemonę, pakankamai informacijos apie išleistą finansinę priemonę ir jos patvirtinimo procedūrą, įskaitant informaciją apie tikslinę klientų grupę. ^s-ded2880251031215f40a74de
 
 
-61. Šio straipsnio 3–[[#^s-ded2880251031215f40a74de|6 dalyse]] ir šio įstatymo [[#^s-78a954562ae163b37e2ad4d7|29 straipsnio 3 dalyje]] nustatyti reikalavimai netaikomi finansų maklerio įmonėms, teikiančioms investicines paslaugas, kurios susijusios su obligacijomis, neturinčiomis jokios kitos įterptosios išvestinės finansinės priemonės, išskyrus visos sumos sąlygą, arba platinančioms ar parduodančioms finansines priemones tik tinkamoms sandorio šalims. ^s-f22c1384c92ba055d3c9ebe2
+61. Šio straipsnio [[#^s-7dc18bd5fc8b79b18148f330|3]]–[[#^s-ded2880251031215f40a74de|6]] dalyse ir šio įstatymo [[#^s-78a954562ae163b37e2ad4d7|29 straipsnio 3 dalyje]] nustatyti reikalavimai netaikomi finansų maklerio įmonėms, teikiančioms investicines paslaugas, kurios susijusios su obligacijomis, neturinčiomis jokios kitos įterptosios išvestinės finansinės priemonės, išskyrus visos sumos sąlygą, arba platinančioms ar parduodančioms finansines priemones tik tinkamoms sandorio šalims. ^s-f22c1384c92ba055d3c9ebe2
 Papildyta straipsnio dalimi:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -1861,10 +1861,10 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 7. Finansų maklerio įmonė, siūlanti ar rekomenduojanti klientams finansinę priemonę, kurią išleido kitas subjektas, privalo imtis priemonių, kad gautų pakankamai informacijos apie siūlomą finansinę priemonę, jos tvirtinimo procedūrą, tikslinę klientų grupę, kad galėtų suprasti finansinės priemonės esmę ir įvertinti tikslinę klientų grupę. ^s-202eecc3c6674ee476b731f6
 
 
-8. Šio straipsnio 3–[[#^s-202eecc3c6674ee476b731f6|7 dalyse]] nustatyti reikalavimai nepanaikina kitų šiame įstatyme ir Reglamente (ES) Nr. 600/2014 finansų maklerio įmonei nustatytų pareigų, kurių ji privalo laikytis teikdama klientams investicines paslaugas. ^s-803cf2256fefa63e78a9b92c
+8. Šio straipsnio [[#^s-7dc18bd5fc8b79b18148f330|3]]–[[#^s-202eecc3c6674ee476b731f6|7]] dalyse nustatyti reikalavimai nepanaikina kitų šiame įstatyme ir Reglamente (ES) Nr. 600/2014 finansų maklerio įmonei nustatytų pareigų, kurių ji privalo laikytis teikdama klientams investicines paslaugas. ^s-803cf2256fefa63e78a9b92c
 
 
-9. Finansų maklerio įmonė privalo turėti ir naudoti reikiamas sistemas, įskaitant informacines ir ryšių technologijas, įdiegtas ir valdomas pagal Reglamentą (ES) 2022/2554, taip pat išteklius, administravimo procedūras, ir kitas priemones, kad būtų užtikrintas nuolatinis ir nenutrūkstamas investicinių paslaugų teikimas. ^s-3c0beba0d0619daa9c843d8c
+9. Finansų maklerio įmonė privalo turėti ir naudoti reikiamas sistemas, įskaitant informacines ir ryšių technologijas, įdiegtas ir valdomas pagal [Reglamentą (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj), taip pat išteklius, administravimo procedūras, ir kitas priemones, kad būtų užtikrintas nuolatinis ir nenutrūkstamas investicinių paslaugų teikimas. ^s-3c0beba0d0619daa9c843d8c
 Straipsnio dalies pakeitimai:
 Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 
@@ -1873,14 +1873,14 @@ Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 10. Finansų maklerio įmonė, patikėdama trečiajam asmeniui atlikti tokias įmonės funkcijas, kurios turi ypatingą reikšmę užtikrinant nuolatinį ir kokybišką investicinių paslaugų teikimą, privalo imtis visų būtinų priemonių, kad būtų išvengta papildomos nepateisinamos veiklos rizikos. Svarbių įmonės funkcijų atlikimas negali būti perduodamas kitiems asmenims, jeigu tai galėtų iš esmės pabloginti finansų maklerio įmonės vidaus kontrolės kokybę ar priežiūros institucijos galimybes atlikti veiksmingą priežiūrą. ^s-6a646c920d210eab43da4f88
 
 
-11. Finansų maklerio įmonė privalo taikyti tinkamas ir savo veiklos verslo modeliui, mastui ir sudėtingumui proporcingas savo prisiimtos verslo rizikos, administravimo ir apskaitos procedūras, vidaus kontrolės mechanizmą, veiksmingas rizikos vertinimo ir valdymo procedūras. Finansų maklerio įmonė privalo taikyti patikimas informacijos perdavimo saugumo priemones, kurios pagal Reglamento (ES) 2022/2554 reikalavimus užtikrintų perduodamos informacijos saugumą, konfidencialumą, patikimumą, sumažintų duomenų iškraipymo ir neteisėtos prieigos rizikas, taip pat užtikrintų, kad informacija būtų atpažįstama ir duomenys būtų apsaugoti nuo nutekėjimo. ^s-0c2fa83d6e5649707b7170d2
+11. Finansų maklerio įmonė privalo taikyti tinkamas ir savo veiklos verslo modeliui, mastui ir sudėtingumui proporcingas savo prisiimtos verslo rizikos, administravimo ir apskaitos procedūras, vidaus kontrolės mechanizmą, veiksmingas rizikos vertinimo ir valdymo procedūras. Finansų maklerio įmonė privalo taikyti patikimas informacijos perdavimo saugumo priemones, kurios pagal [Reglamento (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) reikalavimus užtikrintų perduodamos informacijos saugumą, konfidencialumą, patikimumą, sumažintų duomenų iškraipymo ir neteisėtos prieigos rizikas, taip pat užtikrintų, kad informacija būtų atpažįstama ir duomenys būtų apsaugoti nuo nutekėjimo. ^s-0c2fa83d6e5649707b7170d2
 Straipsnio dalies pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 
 
 
-12. Finansų maklerio įmonė privalo užtikrinti duomenų apie suteiktas paslaugas, vykdytą veiklą ir sudarytus sandorius saugojimą, kad priežiūros institucija galėtų atlikti veiksmingą priežiūrą, vadovaudamasi šiuo įstatymu, Reglamentu (ES) Nr. 600/2014, Reglamentu (ES) Nr. 596/2014 ir Reglamentu (ES) 2019/2033, ypač tais atvejais, kai reikia įsitikinti, kad finansų maklerio įmonė laikosi šiame įstatyme nustatytų pareigų įmonės klientams ir potencialiems klientams, taip pat pareigos užtikrinti rinkų vientisumą. ^s-e07a22ab0ac77c09180e26e8
+12. Finansų maklerio įmonė privalo užtikrinti duomenų apie suteiktas paslaugas, vykdytą veiklą ir sudarytus sandorius saugojimą, kad priežiūros institucija galėtų atlikti veiksmingą priežiūrą, vadovaudamasi šiuo įstatymu, Reglamentu (ES) Nr. 600/2014, Reglamentu (ES) Nr. 596/2014 ir [Reglamentu (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj), ypač tais atvejais, kai reikia įsitikinti, kad finansų maklerio įmonė laikosi šiame įstatyme nustatytų pareigų įmonės klientams ir potencialiems klientams, taip pat pareigos užtikrinti rinkų vientisumą. ^s-e07a22ab0ac77c09180e26e8
 Straipsnio dalies pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -1904,7 +1904,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 18. Finansų maklerio įmonė neturi teisės sudaryti su neprofesionaliaisiais klientais finansinio užtikrinimo perduodant užstato nuosavybės teisę susitarimų, kurių tikslas – užtikrinti esamus, būsimus, sąlyginius arba numatomus kliento įsipareigojimus. ^s-7feaf3d99808e35071b3e958
 
 
-19. Kai investicines paslaugas teikia kitoje valstybėje narėje įsteigtos finansų maklerio įmonės filialas, priežiūros institucija prižiūri, kaip filialas laikosi šio straipsnio 12–[[#^s-330ab959db183a235a005520|15 dalyse]] nustatytų pareigų, nepažeisdama įmonės buveinės valstybės narės priežiūros institucijos teisės tiesiogiai gauti šio straipsnio 12–[[#^s-330ab959db183a235a005520|15 dalyse]] nurodytus duomenis. ^s-32e3359833ba04b396a2d78e
+19. Kai investicines paslaugas teikia kitoje valstybėje narėje įsteigtos finansų maklerio įmonės filialas, priežiūros institucija prižiūri, kaip filialas laikosi šio straipsnio [[#^s-e07a22ab0ac77c09180e26e8|12]]–[[#^s-330ab959db183a235a005520|15]] dalyse nustatytų pareigų, nepažeisdama įmonės buveinės valstybės narės priežiūros institucijos teisės tiesiogiai gauti šio straipsnio [[#^s-e07a22ab0ac77c09180e26e8|12]]–[[#^s-330ab959db183a235a005520|15]] dalyse nurodytus duomenis. ^s-32e3359833ba04b396a2d78e
 
 
 20. Priežiūros institucija nustato kriterijus, pagal kuriuos, vadovaujantis [[#^s-330ab959db183a235a005520|šio straipsnio 15 dalimi]], [[#^s-c4f2af706d73965dba9c4fea|šio straipsnio 13 dalyje]] nurodyti duomenys privalo būti saugomi 7 metus. ^s-9a8357574f290b5a668fe77b
@@ -1969,7 +1969,7 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 1. Finansų maklerio įmonė privalo tvarkyti apskaitą ir sudaryti finansines ataskaitas vadovaudamasi Lietuvos Respublikos teisės aktais, reglamentuojančiais finansinę atskaitomybę, ir tarptautiniais apskaitos standartais. ^s-1d61197cd4de441c63fa5782
 
 
-2. Finansų maklerio įmonių audito atlikimo tvarka, reikalavimai auditoriui ir audito įmonei, auditoriaus ir audito įmonės pareigos ir atsakomybė reglamentuojami Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Finansų įstaigų įstatyme ir šio įstatymo 100 straipsnyje. ^s-1e031d6fa8594d678df6caf7
+2. Finansų maklerio įmonių audito atlikimo tvarka, reikalavimai auditoriui ir audito įmonei, auditoriaus ir audito įmonės pareigos ir atsakomybė reglamentuojami [[latest/TAR.9845F775C518|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme, Finansų įstaigų įstatyme ir šio įstatymo 100 straipsnyje]]. ^s-1e031d6fa8594d678df6caf7
 Straipsnio dalies pakeitimai:
 Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 
@@ -2009,7 +2009,7 @@ Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 3) kontroliuojama tų pačių fizinių ar juridinių asmenų, kurie kontroliuoja Europos Sąjungoje licencijuotą kredito įstaigą ar draudimo įmonę. ^s-22973621ddc21103db074d46
 
 
-3. Priežiūros institucija atsiklausia šio straipsnio 1 ir [[#^s-455325cf84516efec1a417ed|2 dalyse]] nurodytų priežiūros institucijų nuomonės vertindama licencijos siekiančios įmonės kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies savininkų tinkamumą ir tai pačiai grupei priklausančių įmonių vadovų reputaciją ir patirtį. Priežiūros institucija su kitos valstybės narės priežiūros institucija keičiasi informacija, reikalinga akcininkų tinkamumui įvertinti, taip pat tai pačiai įmonių grupei priklausančių įmonių vadovų reputacijai ir tinkamumui įvertinti tiek prieš išduodama finansų maklerio įmonės licenciją, tiek ir vėliau atlikdama finansų maklerio įmonės veiklos reikalavimų laikymosi priežiūrą. ^s-5c77c316a553d137be244cbf
+3. Priežiūros institucija atsiklausia šio straipsnio [[#^s-1779657a51edf695a958e593|1]] ir [[#^s-455325cf84516efec1a417ed|2]] dalyse nurodytų priežiūros institucijų nuomonės vertindama licencijos siekiančios įmonės kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies savininkų tinkamumą ir tai pačiai grupei priklausančių įmonių vadovų reputaciją ir patirtį. Priežiūros institucija su kitos valstybės narės priežiūros institucija keičiasi informacija, reikalinga akcininkų tinkamumui įvertinti, taip pat tai pačiai įmonių grupei priklausančių įmonių vadovų reputacijai ir tinkamumui įvertinti tiek prieš išduodama finansų maklerio įmonės licenciją, tiek ir vėliau atlikdama finansų maklerio įmonės veiklos reikalavimų laikymosi priežiūrą. ^s-5c77c316a553d137be244cbf
 
 
 
@@ -2041,7 +2041,7 @@ Priežiūros institucija, detalizuodama šio skirsnio nuostatas:
 ### 21 straipsnis. Algoritminė prekyba ^s-7182526ebe3e9164625b4dcc
 
 
-1. Algoritmine prekyba užsiimanti finansų maklerio įmonė turi taikyti savo vykdomai veiklai tinkamas ir veiksmingas sistemas ir rizikos kontrolės priemones, siekdama užtikrinti, kad jos prekybos sistemos būtų atsparios, pakankamai pajėgios pagal Reglamento (ES) 2022/2554 II skyriuje nustatytus reikalavimus, joms būtų taikomi atitinkami prekybos apribojimai ir būtų išvengta klaidingų pavedimų siuntimo ar kitokių sistemos klaidų, galinčių sukelti arba padidinti sumaištį rinkoje. ^s-4f3ac7c68dee3c9d405a10a1
+1. Algoritmine prekyba užsiimanti finansų maklerio įmonė turi taikyti savo vykdomai veiklai tinkamas ir veiksmingas sistemas ir rizikos kontrolės priemones, siekdama užtikrinti, kad jos prekybos sistemos būtų atsparios, pakankamai pajėgios pagal [Reglamento (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) II skyriuje nustatytus reikalavimus, joms būtų taikomi atitinkami prekybos apribojimai ir būtų išvengta klaidingų pavedimų siuntimo ar kitokių sistemos klaidų, galinčių sukelti arba padidinti sumaištį rinkoje. ^s-4f3ac7c68dee3c9d405a10a1
 Straipsnio dalies pakeitimai:
 Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 
@@ -2050,7 +2050,7 @@ Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 2. Finansų maklerio įmonė turi taikyti veiksmingas sistemas ir rizikos kontrolės priemones, siekdama užtikrinti, kad jos prekybos sistemos nebūtų naudojamos tikslams, kurie prieštarauja Reglamento (ES) Nr. 596/2014 nuostatoms arba prekybos vietos, su kuria ji yra susijusi, taisyklėms. ^s-9f67c8e5f396a03e7a088055
 
 
-3. Finansų maklerio įmonė turi taikyti veiksmingas verslo tęstinumo priemones, kad būtų šalinami visi jos prekybos sistemų trikdžiai, įskaitant informacinių ir ryšių technologijų veiklos tęstinumo politiką ir planus bei informacinių ir ryšių technologijų reagavimo ir veiklos atkūrimo planus, parengtus pagal Reglamento (ES) 2022/2554 [[#^s-3d2729063370dddc06643976|11 straipsnį]], ir užtikrinti, kad jos sistemos būtų visapusiškai išbandytos ir tinkamai prižiūrimos, taip užtikrinant atitiktį šio straipsnio 1 ir [[#^s-9f67c8e5f396a03e7a088055|2 dalyse]] ir šioje dalyje nustatytiems bendriesiems reikalavimams ir visiems Reglamento (ES) 2022/2554 II ir IV skyriuose nustatytiems reikalavimams. ^s-efabb9fde991da81a54466c6
+3. Finansų maklerio įmonė turi taikyti veiksmingas verslo tęstinumo priemones, kad būtų šalinami visi jos prekybos sistemų trikdžiai, įskaitant informacinių ir ryšių technologijų veiklos tęstinumo politiką ir planus bei informacinių ir ryšių technologijų reagavimo ir veiklos atkūrimo planus, parengtus pagal [Reglamento (ES) 2022/2554 11 straipsnį](https://eur-lex.europa.eu/eli/reg/2022/2554/art_11/oj), ir užtikrinti, kad jos sistemos būtų visapusiškai išbandytos ir tinkamai prižiūrimos, taip užtikrinant atitiktį šio straipsnio [[#^s-4f3ac7c68dee3c9d405a10a1|1]] ir [[#^s-9f67c8e5f396a03e7a088055|2]] dalyse ir šioje dalyje nustatytiems bendriesiems reikalavimams ir visiems [Reglamento (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) II ir IV skyriuose nustatytiems reikalavimams. ^s-efabb9fde991da81a54466c6
 Straipsnio dalies pakeitimai:
 Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 
@@ -2059,13 +2059,13 @@ Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 4. Finansų maklerio įmonė, užsiimanti algoritmine prekyba Lietuvos Respublikoje, apie tai praneša priežiūros institucijai, taip pat informuoja priežiūros instituciją apie prekybos vietą, kurioje finansų maklerio įmonė užsiima algoritmine prekyba kaip prekybos vietos narė ar dalyvė. ^s-260ac6d9a8f69dac2350fde8
 
 
-5. Priežiūros institucija turi teisę reikalauti, kad finansų maklerio įmonė reguliariai arba prireikus (ad hoc pagrindu) pateiktų taikomų algoritminės prekybos strategijų pobūdžio aprašą, informaciją apie sistemai taikomus prekybos kriterijus ar apribojimus, pagrindinius reikalavimus, kurių laikomasi, ir taikomas rizikos kontrolės priemones, kuriomis siekiama užtikrinti šio straipsnio 1, 2 ir [[#^s-efabb9fde991da81a54466c6|3 dalyse]] nustatytų sąlygų laikymąsi, taip pat informaciją apie atliktus savo sistemų bandymus. Priežiūros institucija gali bet kuriuo metu paprašyti finansų maklerio įmonės suteikti papildomos informacijos apie jos vykdomą algoritminę prekybą ir tos prekybos sistemas. ^s-3a91efcda4f1f5292b63e67d
+5. Priežiūros institucija turi teisę reikalauti, kad finansų maklerio įmonė reguliariai arba prireikus (ad hoc pagrindu) pateiktų taikomų algoritminės prekybos strategijų pobūdžio aprašą, informaciją apie sistemai taikomus prekybos kriterijus ar apribojimus, pagrindinius reikalavimus, kurių laikomasi, ir taikomas rizikos kontrolės priemones, kuriomis siekiama užtikrinti šio straipsnio [[#^s-4f3ac7c68dee3c9d405a10a1|1]], [[#^s-9f67c8e5f396a03e7a088055|2]] ir [[#^s-efabb9fde991da81a54466c6|3]] dalyse nustatytų sąlygų laikymąsi, taip pat informaciją apie atliktus savo sistemų bandymus. Priežiūros institucija gali bet kuriuo metu paprašyti finansų maklerio įmonės suteikti papildomos informacijos apie jos vykdomą algoritminę prekybą ir tos prekybos sistemas. ^s-3a91efcda4f1f5292b63e67d
 
 
 6. Gavusi kitos valstybės narės prekybos vietos, kurioje finansų maklerio įmonė kaip prekybos vietos narė ar dalyvė užsiima algoritmine prekyba, priežiūros institucijos prašymą, priežiūros institucija nedelsdama perduoda [[#^s-3a91efcda4f1f5292b63e67d|šio straipsnio 5 dalyje]] nurodytą informaciją, gautą iš finansų maklerio įmonės kaip prekybos vietos narės ar dalyvės, užsiimančios algoritmine prekyba. ^s-8b4e547e9df464477a359a3c
 
 
-7. Finansų maklerio įmonė imasi priemonių, kad išsaugotų informaciją, susijusią su šio straipsnio 4 ir [[#^s-3a91efcda4f1f5292b63e67d|5 dalyse]] nurodytais reikalavimais, ir užtikrina, kad, priežiūros institucijai paprašius, būtų nedelsiant pateikiami įrodymai, jog finansų maklerio įmonė laikosi šio įstatymo reikalavimų. ^s-099b61247418fd2601e549d3
+7. Finansų maklerio įmonė imasi priemonių, kad išsaugotų informaciją, susijusią su šio straipsnio [[#^s-260ac6d9a8f69dac2350fde8|4]] ir [[#^s-3a91efcda4f1f5292b63e67d|5]] dalyse nurodytais reikalavimais, ir užtikrina, kad, priežiūros institucijai paprašius, būtų nedelsiant pateikiami įrodymai, jog finansų maklerio įmonė laikosi šio įstatymo reikalavimų. ^s-099b61247418fd2601e549d3
 
 
 8. Didelio dažnio algoritminės prekybos metodą taikanti finansų maklerio įmonė saugo visų savo pateiktų pavedimų tikslius laiko sekos formato įrašus, įskaitant anuliuotus pavedimus, įvykdytus pavedimus ir kotiruotes prekybos vietose, ir pateikia juos priežiūros institucijai, jeigu ji to paprašo. ^s-5af35f827937279b289a7780
@@ -2116,7 +2116,7 @@ Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 16. Priežiūros institucija prekybos vietos, prie kurios finansų maklerio įmonė teikia tiesioginę elektroninę prieigą, priežiūros institucijos prašymu nedelsdama perduoda [[#^s-674efe2c678560681cfb6d27|šio straipsnio 15 dalyje]] nurodytą informaciją, gautą iš finansų maklerio įmonės. ^s-cc8dc47c988d90648f176c67
 
 
-17. Finansų maklerio įmonė imasi priemonių, kad išsaugotų su šio straipsnio 11–[[#^s-cc8dc47c988d90648f176c67|16 dalyse]] nurodyta veikla susijusią informaciją, ir užtikrina, kad šios informacijos pakanka, jog priežiūros institucija galėtų prižiūrėti, kaip laikomasi šio įstatymo reikalavimų. ^s-5a4b900f052fb6eb985230f1
+17. Finansų maklerio įmonė imasi priemonių, kad išsaugotų su šio straipsnio [[#^s-6ecb0732b88ffca541ce9a2a|11]]–[[#^s-cc8dc47c988d90648f176c67|16]] dalyse nurodyta veikla susijusią informaciją, ir užtikrina, kad šios informacijos pakanka, jog priežiūros institucija galėtų prižiūrėti, kaip laikomasi šio įstatymo reikalavimų. ^s-5a4b900f052fb6eb985230f1
 
 
 18. Finansų maklerio įmonė, teikianti bendrosios tarpuskaitos narės paslaugas kitiems asmenims, turi taikyti veiksmingas sistemas ir kontrolės priemones, užtikrinančias, kad tarpuskaitos paslaugos būtų teikiamos tik tiems asmenims, kurie yra tinkami ir atitinka aiškius kriterijus, ir kad šiems asmenims būtų taikomi atitinkami reikalavimai siekiant sumažinti riziką finansų maklerio įmonei ir rinkai. Finansų maklerio įmonė užtikrina, kad būtų sudarytas privalomas finansų maklerio įmonės ir asmens rašytinis susitarimas, kuriame nustatomos pagrindinės teisės ir pareigos, susijusios su šios paslaugos teikimu. ^s-ba6445ed0ddfb78d3bd0acea
@@ -2141,7 +2141,7 @@ Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 5. Finansų maklerio įmonės ir rinkos operatoriai, administruojantys daugiašalę prekybos sistemą arba organizuotos prekybos sistemą, turi turėti priemonių, kad galėtų nustatyti ir valdyti galimas neigiamas pasekmes daugiašalės prekybos sistemos ar organizuotos prekybos sistemos veiklai arba sistemos nariams, dalyviams ir naudotojams dėl galimų interesų konfliktų tarp daugiašalės prekybos sistemos, organizuotos prekybos sistemos, šių sistemų savininkų, finansų maklerio įmonės ar rinkos operatoriaus, administruojančių daugiašalę prekybos sistemą arba organizuotos prekybos sistemą, interesų ir interesų siekiant užtikrinti patikimą daugiašalės prekybos sistemos arba organizuotos prekybos sistemos veikimą. ^s-01fc416178b339eb856779e2
 
 
-6. Finansų maklerio įmonės ir rinkos operatoriai, administruojantys daugiašalę prekybos sistemą arba organizuotos prekybos sistemą, turi laikytis šio įstatymo [[#^s-a01cfe55d540cfa9e57001e2|67 straipsnio]] 3 ir [[#^s-db1d2bba3b37ee4603f126ba|4 dalyse]] ir [[#^s-10736acdce1ea3220090879a|70 straipsnyje]] nustatytų reikalavimų ir taikyti visas reikalingas veiksmingas sistemas, procedūras ir susitarimus, kad būtų užtikrintas nustatytų reikalavimų laikymasis. ^s-08a4fd2047376d0c9eec3921
+6. Finansų maklerio įmonės ir rinkos operatoriai, administruojantys daugiašalę prekybos sistemą arba organizuotos prekybos sistemą, turi laikytis šio įstatymo [[#^s-a01cfe55d540cfa9e57001e2|67 straipsnio]] [[#^s-7a5f6824fedb7ef9e9484070|3]] ir [[#^s-04e50cfb733b37afb02da11a|4]] dalyse ir [[#^s-10736acdce1ea3220090879a|70 straipsnyje]] nustatytų reikalavimų ir taikyti visas reikalingas veiksmingas sistemas, procedūras ir susitarimus, kad būtų užtikrintas nustatytų reikalavimų laikymasis. ^s-08a4fd2047376d0c9eec3921
 
 
 7. Finansų maklerio įmonės ir rinkos operatoriai, administruojantys daugiašalę prekybos sistemą arba organizuotos prekybos sistemą, turi suteikti sistemos nariams ir dalyviams visą reikalingą informaciją apie jų pareigas, susijusias su atsiskaitymais dėl toje sistemoje sudarytų sandorių. Finansų maklerio įmonės ir rinkos operatoriai, administruojantys daugiašalę prekybos sistemą arba organizuotos prekybos sistemą, privalo imtis visų reikalingų priemonių, kurios palengvintų veiksmingą atsiskaitymą už šiose sistemose sudarytus sandorius. ^s-123bfbd8d7a30281cc4e5465
@@ -2166,7 +2166,7 @@ Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 ### 23 straipsnis. Specialieji daugiašalės prekybos sistemos reikalavimai ^s-416e07231a11cc59a7c5f200
 
 
-1. Finansų maklerio įmonės ir rinkos operatoriai, administruojantys daugiašalę prekybos sistemą, be šio įstatymo 16 ir [[#^s-02873015d9fdb562032879d7|22 straipsniuose]] nustatytų reikalavimų, privalo patvirtinti neleidžiančias veikti savo nuožiūra taisykles, reglamentuojančias pavedimų vykdymo tvarką šioje sistemoje. ^s-14e66b7029eb95d2c9277c7a
+1. Finansų maklerio įmonės ir rinkos operatoriai, administruojantys daugiašalę prekybos sistemą, be šio įstatymo [[#^s-89450573533cf207a398cd23|16]] ir [[#^s-02873015d9fdb562032879d7|22]] straipsniuose nustatytų reikalavimų, privalo patvirtinti neleidžiančias veikti savo nuožiūra taisykles, reglamentuojančias pavedimų vykdymo tvarką šioje sistemoje. ^s-14e66b7029eb95d2c9277c7a
 
 
 2. Finansų maklerio įmonės ir rinkos operatoriai, administruojantys daugiašalę prekybos sistemą, turi: ^s-7fb9fb665e917415709dc08c
@@ -2181,7 +2181,7 @@ Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 3) turėti pakankamai finansinių išteklių, kurie palengvintų tinkamą sistemos veikimą, atsižvelgiant į rinkoje sudaromų sandorių pobūdį ir mastą bei su tuo susijusios rizikos pobūdį ir dydį. ^s-da1c1e1cca09be66db8a4226
 
 
-3. Šio įstatymo 29, 30, 31, [[#^s-35fdea57b48f385fd053d94f|33 straipsniuose]] (išskyrus [[#^s-6ce5261ed8c5a7f40aacb63e|33 straipsnio 41 dalį]]) ir [[#^s-4315017a8a90f827af671f15|34 straipsnyje]] nustatyti reikalavimai netaikomi sandoriams, sudarytiems pagal daugiašalės prekybos sistemos veiklą reglamentuojančias taisykles, kai sudarant sandorį dalyvauja tik tos sistemos nariai ar dalyviai arba tik pati sistema ir jos nariai ar dalyviai. Tačiau daugiašalės prekybos sistemos nariai ar dalyviai turi laikytis šio įstatymo 29, 30, 31, 33 ir [[#^s-4315017a8a90f827af671f15|34 straipsniuose]] nustatytų reikalavimų dėl savo klientų, kai, veikdami kliento sąskaita, vykdo jo pavedimus daugiašalėje prekybos sistemoje. ^s-5d1826af7cd48bbb8cdc6dea
+3. Šio įstatymo [[#^s-aed983dc83eb9af799847e25|29]], [[#^s-04f30d7da338e3bc5d04bb28|30]], [[#^s-c07a062a6941b9fda4de5a2d|31]], [[#^s-35fdea57b48f385fd053d94f|33]] straipsniuose (išskyrus [[#^s-6ce5261ed8c5a7f40aacb63e|33 straipsnio 41 dalį]]) ir [[#^s-4315017a8a90f827af671f15|34 straipsnyje]] nustatyti reikalavimai netaikomi sandoriams, sudarytiems pagal daugiašalės prekybos sistemos veiklą reglamentuojančias taisykles, kai sudarant sandorį dalyvauja tik tos sistemos nariai ar dalyviai arba tik pati sistema ir jos nariai ar dalyviai. Tačiau daugiašalės prekybos sistemos nariai ar dalyviai turi laikytis šio įstatymo [[#^s-aed983dc83eb9af799847e25|29]], [[#^s-04f30d7da338e3bc5d04bb28|30]], [[#^s-c07a062a6941b9fda4de5a2d|31]], [[#^s-35fdea57b48f385fd053d94f|33]] ir [[#^s-4315017a8a90f827af671f15|34]] straipsniuose nustatytų reikalavimų dėl savo klientų, kai, veikdami kliento sąskaita, vykdo jo pavedimus daugiašalėje prekybos sistemoje. ^s-5d1826af7cd48bbb8cdc6dea
 Straipsnio dalies pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -2245,7 +2245,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 12. Priežiūros institucija stebi finansų maklerio įmonės ir rinkos operatoriaus vykdomus tarpininko suderintus sandorius siekdama užtikrinti, kad ši veikla atitiktų jai keliamus reikalavimus ir kad vykdomi tarpininko suderinti sandoriai nesudarytų prielaidų kilti interesų konfliktui tarp finansų maklerio įmonės arba rinkos operatoriaus ir jų klientų. ^s-e1594851ffb645bc6d0adfd8
 
 
-13. Sandoriams, sudaromiems organizuotos prekybos sistemoje, taikomi šio įstatymo 29, 30, 31, 33 ir [[#^s-4315017a8a90f827af671f15|34 straipsniuose]] nustatyti reikalavimai. ^s-4c40a82fdeafdb53f1896e20
+13. Sandoriams, sudaromiems organizuotos prekybos sistemoje, taikomi šio įstatymo [[#^s-aed983dc83eb9af799847e25|29]], [[#^s-04f30d7da338e3bc5d04bb28|30]], [[#^s-c07a062a6941b9fda4de5a2d|31]], [[#^s-35fdea57b48f385fd053d94f|33]] ir [[#^s-4315017a8a90f827af671f15|34]] straipsniuose nustatyti reikalavimai. ^s-4c40a82fdeafdb53f1896e20
 
 
 
@@ -2267,7 +2267,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 2) nustatyti atitinkami kriterijai, kuriais remiantis suteikiamas leidimas pirminiam ir paskesniam emitentų finansinių priemonių įtraukimui į prekybą šioje rinkoje; ^s-5e43c5befd690565fced258d
 
 
-3) vykdant pirminį finansinių priemonių įtraukimą į prekybą rinkoje, apie šias finansines priemones paskelbiama pakankamai informacijos, kad investuotojai galėtų priimti pagrįstą investicinį sprendimą dėl investavimo į finansines priemones, – turi būti skelbiamas atitinkamas leidimo prekiauti dokumentas arba prospektas, jeigu taikomi [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] ir (arba) Reglamento (ES) 2017/1129 nustatyti reikalavimai, keliami viešajam siūlymui, kai finansinė priemonė pirmą kartą įtraukiama į prekybą daugiašalėje prekybos sistemoje; ^s-19aacd122f452fd54744b843
+3) vykdant pirminį finansinių priemonių įtraukimą į prekybą rinkoje, apie šias finansines priemones paskelbiama pakankamai informacijos, kad investuotojai galėtų priimti pagrįstą investicinį sprendimą dėl investavimo į finansines priemones, – turi būti skelbiamas atitinkamas leidimo prekiauti dokumentas arba prospektas, jeigu taikomi [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] ir (arba) [Reglamento (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) nustatyti reikalavimai, keliami viešajam siūlymui, kai finansinė priemonė pirmą kartą įtraukiama į prekybą daugiašalėje prekybos sistemoje; ^s-19aacd122f452fd54744b843
 Straipsnio punkto pakeitimai:
 Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
@@ -2325,7 +2325,7 @@ FINANSŲ MAKLERIO ĮMONIŲ VEIKLAI KELIAMI REIKALAVIMAI
 1. Lietuvos Respublikoje licencijuotos finansų maklerio įmonės, teikiančios investicines paslaugas Lietuvos Respublikoje, taip pat kitoje valstybėje narėje licencijuotų finansų maklerio įmonių filialai, teikiantys investicines paslaugas Lietuvos Respublikoje, privalo nuolat laikytis šiame skirsnyje nustatytų finansų maklerio įmonės veiklai keliamų reikalavimų. ^s-3994972ac2ba8ca408c30aec
 
 
-2. Kaip laikomasi [[#^s-3994972ac2ba8ca408c30aec|šio straipsnio 1 dalyje]] nustatytos pareigos, prižiūri priežiūros institucija. Priežiūros institucija, atlikdama priežiūros funkcijas, naudojasi šio įstatymo 93 ir [[#^s-c1300260aae553af8385c8d9|102 straipsniuose]] suteiktomis teisėmis. ^s-e64ebd0f1b8d513405b05660
+2. Kaip laikomasi [[#^s-3994972ac2ba8ca408c30aec|šio straipsnio 1 dalyje]] nustatytos pareigos, prižiūri priežiūros institucija. Priežiūros institucija, atlikdama priežiūros funkcijas, naudojasi šio įstatymo [[#^s-c620df69650dc99b1d8ce58a|93]] ir [[#^s-c1300260aae553af8385c8d9|102]] straipsniuose suteiktomis teisėmis. ^s-e64ebd0f1b8d513405b05660
 
 
 3. Finansų maklerio įmonės privalo teikti prašomus dokumentus priežiūros institucijos nustatyta tvarka ir atvejais. ^s-394c2fe4abae4f1887b7eabe
@@ -2334,13 +2334,13 @@ FINANSŲ MAKLERIO ĮMONIŲ VEIKLAI KELIAMI REIKALAVIMAI
 4. Finansų maklerio įmonės privalo priežiūros institucijos nustatytais atvejais ir tvarka atskleisti visuomenei informaciją apie savo veiklą. ^s-dfe13952032a6d42008ee9ab
 
 
-5. Priežiūros institucija turi teisę reikalauti, kad finansų maklerio įmonės, kurios nėra mažos ir tarpusavio sąsajų neturinčios finansų maklerio įmonės, ir finansų maklerio įmonės, nurodytos Reglamento (ES) 2019/2033 [[#^s-2c6a0c6af2b964eee905a967|46 straipsnio 2 dalyje]], skelbtų šio reglamento [[#^s-14abb5d171e0e7b6caf777aa|46 straipsnyje]] nurodytą informaciją dažniau nei kartą per metus. Priežiūros institucija taip pat turi teisę nustatyti tokios informacijos paskelbimo terminus ir reikalauti šią informaciją skelbti visuomenės informavimo priemonėse, visų pirma – finansų maklerio įmonių interneto svetainėse. ^s-0f08fb616d05d8e38c36b9f7
+5. Priežiūros institucija turi teisę reikalauti, kad finansų maklerio įmonės, kurios nėra mažos ir tarpusavio sąsajų neturinčios finansų maklerio įmonės, ir finansų maklerio įmonės, nurodytos [Reglamento (ES) 2019/2033 46 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2019/2033/art_46/par_2/oj), skelbtų šio reglamento [[#^s-14abb5d171e0e7b6caf777aa|46 straipsnyje]] nurodytą informaciją dažniau nei kartą per metus. Priežiūros institucija taip pat turi teisę nustatyti tokios informacijos paskelbimo terminus ir reikalauti šią informaciją skelbti visuomenės informavimo priemonėse, visų pirma – finansų maklerio įmonių interneto svetainėse. ^s-0f08fb616d05d8e38c36b9f7
 Papildyta straipsnio dalimi:
 Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
 
 
-6. Priežiūros institucija turi teisę reikalauti, kad patronuojančiosios įmonės kasmet skelbtų visą savo teisinės struktūros ir finansų maklerio įmonių grupės valdymo bei organizacinės struktūros aprašymą arba nuorodas į atitinkamą informaciją pagal šio įstatymo [[#^s-83e5e4bf10279756c785776d|7 straipsnio 1 dalies]] 4–6 ir 10 punktus, [[#^s-3d2729063370dddc06643976|11 straipsnio]] 22, 23 dalis ir [[#^s-89450573533cf207a398cd23|16 straipsnio]] 1, 11 dalis. ^s-9779854ed18b0f6213fd02bb
+6. Priežiūros institucija turi teisę reikalauti, kad patronuojančiosios įmonės kasmet skelbtų visą savo teisinės struktūros ir finansų maklerio įmonių grupės valdymo bei organizacinės struktūros aprašymą arba nuorodas į atitinkamą informaciją pagal šio įstatymo [[#^s-83e5e4bf10279756c785776d|7 straipsnio 1 dalies]] [[#^s-661a96f372f92f64227c5333|4]]–[[#^s-4e9e2e46a59beadf8589dc83|6]] ir [[#^s-e433e1f52e05f6da5025c138|10]] punktus, [[#^s-3d2729063370dddc06643976|11 straipsnio]] [[#^s-19dc080985a80c57f5755a57|22]], [[#^s-04e30b28331e1121be675e5c|23]] dalis ir [[#^s-89450573533cf207a398cd23|16 straipsnio]] [[#^s-9c4c62cf9c986d4dd18cff62|1]], [[#^s-0c2fa83d6e5649707b7170d2|11]] dalis. ^s-9779854ed18b0f6213fd02bb
 Papildyta straipsnio dalimi:
 Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
@@ -2352,7 +2352,7 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 1. Finansų maklerio įmonė privalo vengti interesų konfliktų ir imtis visų reikalingų priemonių, skirtų nustatyti ir valdyti interesų konfliktus, kylančius tarp įmonės, jos vadovų, darbuotojų, priklausomų tarpininkų, taip pat kitų su įmone tiesiogiai ar netiesiogiai kontrolės ryšiais susijusių asmenų ir įmonės klientų arba vien tik tarp įmonės klientų, kai interesų konfliktai kyla įmonei teikiant investicines paslaugas, papildomas paslaugas arba jų derinį, taip pat kai interesų konfliktai kyla dėl trečiojo asmens finansų maklerio įmonei mokamo bet kokio pobūdžio užmokesčio, komisinio atlyginimo arba dėl finansų maklerio įmonės atlyginimų politikos ir kitų skatinimo priemonių. ^s-cf29e9c1800a619977bb13e9
 
 
-2. Jeigu priemonės, kurių finansų maklerio įmonė ėmėsi vadovaudamasi šio įstatymo [[#^s-89450573533cf207a398cd23|16 straipsnio]] 2–7 dalimis, yra nepakankamos užtikrinti interesų konfliktų, kurie daro neigiamą poveikį klientų interesams, prevencijai, finansų maklerio įmonė, prieš pradėdama teikti investicines ir (arba) papildomas paslaugas, turi aiškiai atskleisti klientui interesų konflikto turinį ir (arba) priežastis, taip pat priemones, kurių finansų maklerio įmonė ėmėsi siekdama sumažinti neigiamą poveikį klientų interesams. ^s-48fc0a25933a18c8bd7780b9
+2. Jeigu priemonės, kurių finansų maklerio įmonė ėmėsi vadovaudamasi šio įstatymo [[#^s-89450573533cf207a398cd23|16 straipsnio]] [[#^s-5e8db017a96a229249bb1fd9|2]]–[[#^s-202eecc3c6674ee476b731f6|7]] dalimis, yra nepakankamos užtikrinti interesų konfliktų, kurie daro neigiamą poveikį klientų interesams, prevencijai, finansų maklerio įmonė, prieš pradėdama teikti investicines ir (arba) papildomas paslaugas, turi aiškiai atskleisti klientui interesų konflikto turinį ir (arba) priežastis, taip pat priemones, kurių finansų maklerio įmonė ėmėsi siekdama sumažinti neigiamą poveikį klientų interesams. ^s-48fc0a25933a18c8bd7780b9
 
 
 3. Finansų maklerio įmonė privalo užtikrinti, kad [[#^s-48fc0a25933a18c8bd7780b9|šio straipsnio 2 dalyje]] nurodyta informacija: ^s-04e54a2461b9ccb26a28a3ee
@@ -2374,7 +2374,7 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 2. Finansų maklerio įmonės, išleidžiančios finansines priemones, skirtas parduoti klientams, turi užtikrinti, kad šios finansinės priemonės būtų sukurtos taip, kad atitiktų tam tikros klientų kategorijos tikslinės klientų grupės poreikius, finansinių priemonių platinimo strategija atitiktų tikslinę klientų grupę, o finansų maklerio įmonė turi imtis reikalingų priemonių, skirtų užtikrinti, kad finansinė priemonė būtų platinama nustatytai tikslinei klientų grupei. ^s-f6ae5e1ded5c13bbd6d98817
 
 
-3. Finansų maklerio įmonė turi suprasti finansines priemones, kurias siūlo arba rekomenduoja, įvertinti finansinių priemonių atitiktį klientų, kuriems teikia investicines paslaugas, poreikiams, be kita ko, atsižvelgdama į nustatytą tikslinę klientų grupę, kaip tai nustatyta šio įstatymo [[#^s-89450573533cf207a398cd23|16 straipsnio]] 6 ir [[#^s-ada791b40776476d1265c807|7 dalyse]], ir užtikrinti, kad finansinės priemonės būtų siūlomos arba rekomenduojamos tik tada, kai tai atitinka kliento interesus. ^s-78a954562ae163b37e2ad4d7
+3. Finansų maklerio įmonė turi suprasti finansines priemones, kurias siūlo arba rekomenduoja, įvertinti finansinių priemonių atitiktį klientų, kuriems teikia investicines paslaugas, poreikiams, be kita ko, atsižvelgdama į nustatytą tikslinę klientų grupę, kaip tai nustatyta šio įstatymo [[#^s-89450573533cf207a398cd23|16 straipsnio]] [[#^s-ded2880251031215f40a74de|6]] ir [[#^s-202eecc3c6674ee476b731f6|7]] dalyse, ir užtikrinti, kad finansinės priemonės būtų siūlomos arba rekomenduojamos tik tada, kai tai atitinka kliento interesus. ^s-78a954562ae163b37e2ad4d7
 Straipsnio dalies pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -2410,7 +2410,7 @@ d) ar finansų maklerio įmonė įsipareigoja periodiškai vertinti klientui rek
 3) informaciją apie visas išlaidas ir kitus susijusius mokėjimus, kuri turi apimti informaciją, susijusią su investicinėmis ir papildomomis paslaugomis, įskaitant, jeigu taikoma, investavimo rekomendacijos kainą, su klientui rekomenduota arba platinama finansine priemone susijusias išlaidas ir informaciją klientui apie apmokėjimo sąlygas, įskaitant taikomus mokėjimus tretiesiems asmenims; ^s-9d98fbaddb9732f3c3f9adbe
 
 
-4) informaciją, nurodytą Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir [[#^s-8b837945108cc488c27cf6b5|7 straipsniuose]]. ^s-05feb42d0e5f06d74e49d48a
+4) informaciją, nurodytą [Reglamente (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) ir [Reglamento (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) [[#^s-76553711369d7a2f8aaffb1b|5]], [[#^s-f39cfd8a27617a09df5201b2|6]] ir [[#^s-8b837945108cc488c27cf6b5|7]] straipsniuose. ^s-05feb42d0e5f06d74e49d48a
 Papildyta straipsnio punktu:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -2439,7 +2439,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-8. Šio straipsnio 4–7, 12, 13 ir [[#^s-cb44f8a7a8b10b580a614f3c|14 dalyse]] nurodyta informacija turi būti teikiama suprantamai ir tokiu būdu, kad klientai arba potencialūs klientai galėtų suprasti investicinės paslaugos ir siūlomo konkretaus finansinių priemonių tipo pobūdį ir riziką ir tik tada priimtų pateikta informacija pagrįstus sprendimus. Šiame straipsnyje nurodyta informacija gali būti teikiama taip pat ir standartizuota forma. ^s-8ec0359865707932afa4b3e9
+8. Šio straipsnio [[#^s-962f5478ccd7b8d92a100b92|4]]–[[#^s-ada791b40776476d1265c807|7]], [[#^s-5e979739e457d44e2367cdd1|12]], [[#^s-663ed8dcf887a6947ac91f0c|13]] ir [[#^s-cb44f8a7a8b10b580a614f3c|14]] dalyse nurodyta informacija turi būti teikiama suprantamai ir tokiu būdu, kad klientai arba potencialūs klientai galėtų suprasti investicinės paslaugos ir siūlomo konkretaus finansinių priemonių tipo pobūdį ir riziką ir tik tada priimtų pateikta informacija pagrįstus sprendimus. Šiame straipsnyje nurodyta informacija gali būti teikiama taip pat ir standartizuota forma. ^s-8ec0359865707932afa4b3e9
 
 
 81. Visa informacija, kurią finansų maklerio įmonė privalo teikti pagal šį įstatymą, teikiama klientams arba potencialiems klientams elektroniniu formatu, išskyrus tuos atvejus, kai klientas arba potencialus klientas yra neprofesionalusis arba potencialus neprofesionalusis klientas ir paprašo teikti informaciją popierine forma, – tada informacija pateikiama popierine forma nemokamai. Finansų maklerio įmonė informuoja neprofesionaliuosius arba potencialius neprofesionaliuosius klientus apie galimybę gauti informaciją popierine forma. ^s-234d619eddd81878b39f4fc9
@@ -2454,7 +2454,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-9. Kai investicinė paslauga teikiama kaip dalis finansinio produkto, kuriam taikomi kituose teisės aktuose nustatyti reikalavimai dėl kredito įstaigų ir vartojimo kreditų davėjų arba vartojimo kredito tarpininkų pareigų teikiant informaciją klientams, šioms teikiamoms paslaugoms netaikomi šio straipsnio 4–[[#^s-8ec0359865707932afa4b3e9|8 dalyse]] nustatyti reikalavimai. ^s-f6a86614a9d056982e921a78
+9. Kai investicinė paslauga teikiama kaip dalis finansinio produkto, kuriam taikomi kituose teisės aktuose nustatyti reikalavimai dėl kredito įstaigų ir vartojimo kreditų davėjų arba vartojimo kredito tarpininkų pareigų teikiant informaciją klientams, šioms teikiamoms paslaugoms netaikomi šio straipsnio [[#^s-962f5478ccd7b8d92a100b92|4]]–[[#^s-8ec0359865707932afa4b3e9|8]] dalyse nustatyti reikalavimai. ^s-f6a86614a9d056982e921a78
 
 
 10. Finansų maklerio įmonė, informavusi klientą, kad teikia nepriklausomas investavimo rekomendacijas, privalo: ^s-38b26bdb7c7d6f159eb96d49
@@ -2534,7 +2534,7 @@ Nr. XIII-1877, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00227
 
 
 
-19. Finansų maklerio įmonė, teikianti paslaugas profesionaliesiems klientams, išskyrus investavimo rekomendacijų teikimą ir portfelio valdymą, gali nesilaikyti [[#^s-9d98fbaddb9732f3c3f9adbe|šio straipsnio 6 dalies 3 punkte]] nustatytų reikalavimų. Finansų maklerio įmonė taip pat gali nesilaikyti šio įstatymo [[#^s-aa47df6469b0ec7f81dbcaaa|30 straipsnio 21 dalyje]] ir [[#^s-c07a062a6941b9fda4de5a2d|31 straipsnio]] 1–[[#^s-78a954562ae163b37e2ad4d7|3 dalyse]] nustatytų reikalavimų, nebent profesionalieji klientai elektroniniu būdu arba popierine forma informuoja finansų maklerio įmonę, kad pageidauja naudotis šiuose straipsniuose numatytomis teisėmis. Finansų maklerio įmonė registruoja šiuos profesionaliųjų klientų prašymus. ^s-c78a6f920e9e1bc4a342808c
+19. Finansų maklerio įmonė, teikianti paslaugas profesionaliesiems klientams, išskyrus investavimo rekomendacijų teikimą ir portfelio valdymą, gali nesilaikyti [[#^s-9d98fbaddb9732f3c3f9adbe|šio straipsnio 6 dalies 3 punkte]] nustatytų reikalavimų. Finansų maklerio įmonė taip pat gali nesilaikyti šio įstatymo [[#^s-aa47df6469b0ec7f81dbcaaa|30 straipsnio 21 dalyje]] ir [[#^s-c07a062a6941b9fda4de5a2d|31 straipsnio]] [[#^s-e3cc06ab5cc0321ef3d07c7a|1]]–[[#^s-fa3bb0cef5852fcc28e41c8f|3]] dalyse nustatytų reikalavimų, nebent profesionalieji klientai elektroniniu būdu arba popierine forma informuoja finansų maklerio įmonę, kad pageidauja naudotis šiuose straipsniuose numatytomis teisėmis. Finansų maklerio įmonė registruoja šiuos profesionaliųjų klientų prašymus. ^s-c78a6f920e9e1bc4a342808c
 Papildyta straipsnio dalimi:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 Straipsnio dalies pakeitimai:
@@ -2545,7 +2545,7 @@ Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 ### 291 straipsnis. Subordinuotųjų tinkamų įsipareigojimų pardavimas neprofesionaliesiems klientams ^s-a023dbef9694268d57a2d84e
 
 
-1. Pardavėjas ‒ finansų maklerio įmonė, kredito įstaiga, valdymo įmonė, turinti valdymo įmonės licenciją pagal Kolektyvinio investavimo subjektų įstatymą ir (arba) Alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą, kurioje numatyta šios valdymo įmonės teisė teikti investicines paslaugas, taip pat kitose valstybėse narėse įsteigtos valdymo įmonės, turinčios valdymo įmonės licenciją pagal tų valstybių teisės aktus, perkeliančius 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvą 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo (su visais pakeitimais), arba pagal 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyvą 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kuria iš dalies keičiami direktyvos 2003/41/EB ir 2009/65/EB bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 1095/2010, (su visais pakeitimais), kurioje (valdymo įmonės licencijoje) numatyta teisė teikti investicines paslaugas, (toliau kartu šiame straipsnyje – pardavėjas) – turi teisę parduoti neprofesionaliajam klientui Lietuvos Respublikoje įsteigtų [[latest/TAR.EBB4FD337ADE#^s-e0aece963a7f331f2220c74c|Finansinio tvarumo įstatymo 1 straipsnio 2 dalyje]] nurodytų įstaigų išleistus tinkamus įsipareigojimus, tenkinančius visas Reglamento (ES) Nr. 575/2013 72a straipsnyje nurodytas sąlygas, išskyrus 72a [[#^s-dccbfc08f53df565f20b5081|straipsnio 1 dalies]] b punkte ir šio reglamento 72b straipsnio 3–5 dalyse nurodytas sąlygas, jeigu pardavėjas užtikrina, kad pirkimo metu neprofesionaliojo kliento pradinė minimali suma, investuojama į vieną ar kelias šioje dalyje nurodytas įsipareigojimų priemones, ne mažesnė kaip 10 000 eurų. ^s-dccbfc08f53df565f20b5081
+1. Pardavėjas ‒ finansų maklerio įmonė, kredito įstaiga, valdymo įmonė, turinti valdymo įmonės licenciją pagal Kolektyvinio investavimo subjektų įstatymą ir (arba) Alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą, kurioje numatyta šios valdymo įmonės teisė teikti investicines paslaugas, taip pat kitose valstybėse narėse įsteigtos valdymo įmonės, turinčios valdymo įmonės licenciją pagal tų valstybių teisės aktus, perkeliančius 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvą 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo (su visais pakeitimais), arba pagal 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyvą 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kuria iš dalies keičiami direktyvos 2003/41/EB ir 2009/65/EB bei [reglamentai (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) ir (ES) Nr. 1095/2010, (su visais pakeitimais), kurioje (valdymo įmonės licencijoje) numatyta teisė teikti investicines paslaugas, (toliau kartu šiame straipsnyje – pardavėjas) – turi teisę parduoti neprofesionaliajam klientui Lietuvos Respublikoje įsteigtų [[latest/TAR.EBB4FD337ADE#^s-e0aece963a7f331f2220c74c|Finansinio tvarumo įstatymo 1 straipsnio 2 dalyje]] nurodytų įstaigų išleistus tinkamus įsipareigojimus, tenkinančius visas Reglamento (ES) Nr. 575/2013 72a straipsnyje nurodytas sąlygas, išskyrus 72a straipsnio 1 dalies b punkte ir šio reglamento 72b straipsnio 3–5 dalyse nurodytas sąlygas, jeigu pardavėjas užtikrina, kad pirkimo metu neprofesionaliojo kliento pradinė minimali suma, investuojama į vieną ar kelias šioje dalyje nurodytas įsipareigojimų priemones, ne mažesnė kaip 10 000 eurų. ^s-dccbfc08f53df565f20b5081
 Straipsnio dalies pakeitimai:
 Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
@@ -2558,7 +2558,7 @@ TAR pastaba. 291 straipsnio redakcija, įsigaliojanti kitą darbo dieną po Liet
 ### 291 straipsnis. Subordinuotųjų tinkamų įsipareigojimų pardavimas neprofesionaliesiems klientams ^s-ee667b3b503d16c68034efe6
 
 
-Pardavėjas ‒ finansų maklerio įmonė, kredito įstaiga, valdymo įmonė, kuri turi valdymo įmonės licenciją pagal Kolektyvinio investavimo subjektų įstatymą ir (arba) Alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą, kurioje numatyta šios valdymo įmonės teisė teikti investicines paslaugas, taip pat kitose valstybėse narėse įsteigtos valdymo įmonės, turinčios valdymo įmonės licenciją pagal tų valstybių teisės aktus, perkeliančius 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvą 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo (su visais pakeitimais), arba pagal 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyvą 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kuria iš dalies keičiami direktyvos 2003/41/EB ir 2009/65/EB bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 1095/2010 (su visais pakeitimais), kurioje (valdymo įmonės licencijoje) numatyta teisė teikti investicines paslaugas, (toliau kartu šiame straipsnyje – pardavėjas) turi teisę parduoti neprofesionaliajam klientui [[latest/TAR.EBB4FD337ADE#^s-e0aece963a7f331f2220c74c|Finansinio tvarumo įstatymo 1 straipsnio 2 dalyje]] nurodytų įstaigų išleistus tinkamus įsipareigojimus, tenkinančius visas Reglamento (ES) Nr. 575/2013 72a straipsnyje nurodytas sąlygas, išskyrus 72a [[#^s-dccbfc08f53df565f20b5081|straipsnio 1 dalies]] b punkte ir šio reglamento 72b straipsnio 3–5 dalyse nurodytas sąlygas, jeigu tokių įsipareigojimų minimali nominalioji vertė ne mažesnė kaip 50 000 eurų.
+Pardavėjas ‒ finansų maklerio įmonė, kredito įstaiga, valdymo įmonė, kuri turi valdymo įmonės licenciją pagal Kolektyvinio investavimo subjektų įstatymą ir (arba) Alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą, kurioje numatyta šios valdymo įmonės teisė teikti investicines paslaugas, taip pat kitose valstybėse narėse įsteigtos valdymo įmonės, turinčios valdymo įmonės licenciją pagal tų valstybių teisės aktus, perkeliančius 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvą 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo (su visais pakeitimais), arba pagal 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyvą 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kuria iš dalies keičiami direktyvos 2003/41/EB ir 2009/65/EB bei [reglamentai (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) ir (ES) Nr. 1095/2010 (su visais pakeitimais), kurioje (valdymo įmonės licencijoje) numatyta teisė teikti investicines paslaugas, (toliau kartu šiame straipsnyje – pardavėjas) turi teisę parduoti neprofesionaliajam klientui [[latest/TAR.EBB4FD337ADE#^s-e0aece963a7f331f2220c74c|Finansinio tvarumo įstatymo 1 straipsnio 2 dalyje]] nurodytų įstaigų išleistus tinkamus įsipareigojimus, tenkinančius visas Reglamento (ES) Nr. 575/2013 72a straipsnyje nurodytas sąlygas, išskyrus 72a [[#^s-dccbfc08f53df565f20b5081|straipsnio 1 dalies]] b punkte ir šio reglamento 72b straipsnio 3–5 dalyse nurodytas sąlygas, jeigu tokių įsipareigojimų minimali nominalioji vertė ne mažesnė kaip 50 000 eurų.
 
 
 Straipsnio pakeitimai:
@@ -2597,7 +2597,7 @@ Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 
 
 
-3. Finansų maklerio įmonė, prieš pradėdama teikti investicines paslaugas, kitas negu nurodytos šio straipsnio 1 ir [[#^s-0d8477f808b0c19117ca98ec|6 dalyse]], turi pasiūlyti klientui ar potencialiam klientui pateikti informaciją apie jo žinias ir patirtį investavimo srityje, susijusias su konkrečios rūšies investicinėmis paslaugomis ar finansinėmis priemonėmis, kurias siūlo finansų maklerio įmonė arba dėl kurių kreipiasi pats klientas ar potencialus klientas. Atsižvelgdama į gautą informaciją, finansų maklerio įmonė turi įvertinti, ar konkrečios investicinės paslaugos ir finansinės priemonės yra priimtinos klientui. Jeigu ketinama teikti investicines paslaugas dėl paslaugų ar produktų paketo, kaip tai nustatyta šio įstatymo [[#^s-aed983dc83eb9af799847e25|29 straipsnio]] 16 ir 17 dalyse, turi būti vertinamas viso paslaugų ar produktų paketo priimtinumas klientui. ^s-e298f93117b1a5894824ea6b
+3. Finansų maklerio įmonė, prieš pradėdama teikti investicines paslaugas, kitas negu nurodytos šio straipsnio [[#^s-1e58414c241e34ccb8007c45|1]] ir [[#^s-0d8477f808b0c19117ca98ec|6]] dalyse, turi pasiūlyti klientui ar potencialiam klientui pateikti informaciją apie jo žinias ir patirtį investavimo srityje, susijusias su konkrečios rūšies investicinėmis paslaugomis ar finansinėmis priemonėmis, kurias siūlo finansų maklerio įmonė arba dėl kurių kreipiasi pats klientas ar potencialus klientas. Atsižvelgdama į gautą informaciją, finansų maklerio įmonė turi įvertinti, ar konkrečios investicinės paslaugos ir finansinės priemonės yra priimtinos klientui. Jeigu ketinama teikti investicines paslaugas dėl paslaugų ar produktų paketo, kaip tai nustatyta šio įstatymo [[#^s-aed983dc83eb9af799847e25|29 straipsnio]] [[#^s-0f606d6769870d86d20b0ec9|16]] ir [[#^s-94786a25f927f38c26df892f|17]] dalyse, turi būti vertinamas viso paslaugų ar produktų paketo priimtinumas klientui. ^s-e298f93117b1a5894824ea6b
 
 
 4. Jeigu finansų maklerio įmonė, įvertinusi [[#^s-e298f93117b1a5894824ea6b|šio straipsnio 3 dalyje]] nurodytą informaciją, nustato, kad investicinė paslauga ar finansinė priemonė konkrečiam klientui ar potencialiam klientui nėra priimtina, ji privalo klientą ar potencialų klientą apie tai įspėti. Įspėjimas gali būti pateikiamas ir standartizuota forma. ^s-3e4064cbe62ae699e32f3d65
@@ -2606,7 +2606,7 @@ Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 5. Jeigu klientas ar potencialus klientas atsisako suteikti [[#^s-e298f93117b1a5894824ea6b|šio straipsnio 3 dalyje]] nurodytą informaciją arba pateikia nepakankamai informacijos apie savo žinias ir patirtį investavimo srityje, finansų maklerio įmonė privalo įspėti klientą ar potencialų klientą, kad kliento atsisakymas pateikti reikalingą informaciją arba ne visos reikalingos informacijos pateikimas neleidžia finansų maklerio įmonei nustatyti, ar konkrečios investicinės paslaugos ir finansinės priemonės yra priimtinos klientui. Toks įspėjimas gali būti pateikiamas ir standartizuota forma. ^s-a2402609e014201d486523ee
 
 
-6. Finansų maklerio įmonė, kurios teikiamos investicinės paslaugos apima tik pavedimų vykdymą klientų sąskaita ir (arba) pavedimų priėmimą ir perdavimą, neatsižvelgdama į tai, ar yra teikiamos papildomos paslaugos, turi teisę teikti šias paslaugas nesurinkusi informacijos apie kliento žinias ir patirtį investavimo srityje ir neįvertinusi, ar konkrečios investicinės paslaugos arba finansinės priemonės yra tinkamos klientui, jeigu yra tenkinamos visos šio straipsnio 7 ir [[#^s-717aa14bd3b24007bf6991c4|8 dalyse]] nustatytos sąlygos. Finansų maklerio įmonė tokios teisės neturi, kai teikiant šioje dalyje nurodytas investicines paslaugas klientui suteikiamas kreditas ar paskola, kaip tai nurodyta šio įstatymo [[#^s-e16adbbf120b251cca318c96|3 straipsnio 45 dalies 2 punkte]], išskyrus susitarimus dėl anksčiau suteiktų kredito ar paskolos limitų, einamųjų sąskaitų ir sąskaitos kreditavimo. ^s-0d8477f808b0c19117ca98ec
+6. Finansų maklerio įmonė, kurios teikiamos investicinės paslaugos apima tik pavedimų vykdymą klientų sąskaita ir (arba) pavedimų priėmimą ir perdavimą, neatsižvelgdama į tai, ar yra teikiamos papildomos paslaugos, turi teisę teikti šias paslaugas nesurinkusi informacijos apie kliento žinias ir patirtį investavimo srityje ir neįvertinusi, ar konkrečios investicinės paslaugos arba finansinės priemonės yra tinkamos klientui, jeigu yra tenkinamos visos šio straipsnio [[#^s-e9b80469915c7faea18c0694|7]] ir [[#^s-717aa14bd3b24007bf6991c4|8]] dalyse nustatytos sąlygos. Finansų maklerio įmonė tokios teisės neturi, kai teikiant šioje dalyje nurodytas investicines paslaugas klientui suteikiamas kreditas ar paskola, kaip tai nurodyta šio įstatymo [[#^s-e16adbbf120b251cca318c96|3 straipsnio 45 dalies 2 punkte]], išskyrus susitarimus dėl anksčiau suteiktų kredito ar paskolos limitų, einamųjų sąskaitų ir sąskaitos kreditavimo. ^s-0d8477f808b0c19117ca98ec
 
 
 7. Investicinės paslaugos [[#^s-0d8477f808b0c19117ca98ec|šio straipsnio 6 dalyje]] nustatyta tvarka gali būti teikiamos dėl šių finansinių priemonių: ^s-e9b80469915c7faea18c0694
@@ -2652,7 +2652,7 @@ Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 ### 31 straipsnis. Ataskaitų klientams pateikimas ^s-c07a062a6941b9fda4de5a2d
 
 
-1. Finansų maklerio įmonė patvariojoje laikmenoje turi teikti klientui tinkamus pranešimus apie jam suteiktas paslaugas. Šiuose pranešimuose turi būti periodiškai pateikiama informacija klientams, atsižvelgiant į finansinių priemonių, dėl kurių teikiamos investicinės paslaugos, rūšį ir sudėtingumą, klientui teikiamų paslaugų pobūdį. Taip pat šiuose pranešimuose turi būti pateikiama informacija apie išlaidas, susijusias su sandorių sudarymu ir paslaugų teikimu klientui, bei informacija, nurodyta Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir [[#^s-8b837945108cc488c27cf6b5|7 straipsniuose]]. ^s-e3cc06ab5cc0321ef3d07c7a
+1. Finansų maklerio įmonė patvariojoje laikmenoje turi teikti klientui tinkamus pranešimus apie jam suteiktas paslaugas. Šiuose pranešimuose turi būti periodiškai pateikiama informacija klientams, atsižvelgiant į finansinių priemonių, dėl kurių teikiamos investicinės paslaugos, rūšį ir sudėtingumą, klientui teikiamų paslaugų pobūdį. Taip pat šiuose pranešimuose turi būti pateikiama informacija apie išlaidas, susijusias su sandorių sudarymu ir paslaugų teikimu klientui, bei informacija, nurodyta [Reglamente (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) ir [Reglamento (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) [[#^s-76553711369d7a2f8aaffb1b|5]], [[#^s-f39cfd8a27617a09df5201b2|6]] ir [[#^s-8b837945108cc488c27cf6b5|7]] straipsniuose. ^s-e3cc06ab5cc0321ef3d07c7a
 Straipsnio dalies pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -2683,7 +2683,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 2. Finansų maklerio įmonė, gavusi pavedimą suteikti investicines paslaugas tarpininkaujančios įmonės klientui, turi teisę vadovautis rekomendacijomis dėl investicinių paslaugų, kurias klientui suteikė tarpininkaujanti įmonė, ir sandorių. Už klientui suteiktų rekomendacijų tinkamumą atsako tarpininkaujanti įmonė. ^s-007ff8bc50d6c71fd03e3573
 
 
-3. Tarpininkaujančios įmonės pavedimą gavusi finansų maklerio įmonė atsako už investicinės paslaugos suteikimą ir (arba) sandorio sudarymą šiame skirsnyje nustatyta tvarka, kai paslauga yra teikiama arba sandoris yra sudaromas vadovaujantis informacija ar rekomendacijomis, kaip nustatyta šio straipsnio 1 ir [[#^s-007ff8bc50d6c71fd03e3573|2 dalyse]]. ^s-d631c73e72326d7f6224ef06
+3. Tarpininkaujančios įmonės pavedimą gavusi finansų maklerio įmonė atsako už investicinės paslaugos suteikimą ir (arba) sandorio sudarymą šiame skirsnyje nustatyta tvarka, kai paslauga yra teikiama arba sandoris yra sudaromas vadovaujantis informacija ar rekomendacijomis, kaip nustatyta šio straipsnio [[#^s-e70a98c34c440a5aabaf3240|1]] ir [[#^s-007ff8bc50d6c71fd03e3573|2]] dalyse. ^s-d631c73e72326d7f6224ef06
 
 
 
@@ -2706,7 +2706,7 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
 
 
-41. Dėl finansinių priemonių, kurioms taikoma prekybos pareiga pagal Reglamento (ES) Nr. 600/2014 23 ir [[#^s-a560b4d7e25d32ad78c255bc|28 straipsnius]], finansų maklerio įmonė, įvykdžiusi pavedimą kliento vardu, turi informuoti klientą, kurioje prekybos vietoje pavedimas buvo įvykdytas. ^s-6ce5261ed8c5a7f40aacb63e
+41. Dėl finansinių priemonių, kurioms taikoma prekybos pareiga pagal Reglamento (ES) Nr. 600/2014 [[#^s-416e07231a11cc59a7c5f200|23]] ir [[#^s-a560b4d7e25d32ad78c255bc|28]] straipsnius, finansų maklerio įmonė, įvykdžiusi pavedimą kliento vardu, turi informuoti klientą, kurioje prekybos vietoje pavedimas buvo įvykdytas. ^s-6ce5261ed8c5a7f40aacb63e
 Papildyta straipsnio dalimi:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 Straipsnio dalies pakeitimai:
@@ -2720,7 +2720,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-6. Finansų maklerio įmonė, vykdydama šio straipsnio 1, 2 ir [[#^s-a2cebd57988410f46aeb0a19|3 dalyse]] nustatytus reikalavimus, turi nustatyti ir įgyvendinti tinkamas priemones ir procedūras. Visų pirma finansų maklerio įmonė turi nustatyti ir įgyvendinti pavedimų vykdymo politiką, pagal kurią kliento pavedimas būtų įvykdytas geriausiomis klientui sąlygomis, taip pat turėti ir naudoti veiksmingas pavedimų vykdymo politikos įgyvendinimo priemones. ^s-8b82b28885d762751179f3a3
+6. Finansų maklerio įmonė, vykdydama šio straipsnio [[#^s-ef5db9a76dcf59469b85c83c|1]], [[#^s-f3e5f6c63122e96e7d45b99e|2]] ir [[#^s-a2cebd57988410f46aeb0a19|3]] dalyse nustatytus reikalavimus, turi nustatyti ir įgyvendinti tinkamas priemones ir procedūras. Visų pirma finansų maklerio įmonė turi nustatyti ir įgyvendinti pavedimų vykdymo politiką, pagal kurią kliento pavedimas būtų įvykdytas geriausiomis klientui sąlygomis, taip pat turėti ir naudoti veiksmingas pavedimų vykdymo politikos įgyvendinimo priemones. ^s-8b82b28885d762751179f3a3
 
 
 7. Nustatant pavedimų vykdymo politiką, turi būti nurodyta informacija apie klientų pavedimų vykdymo vietas (atskirai kiekvieno finansinių priemonių tipo) ir priežastys, lemiančios pavedimų vykdymo vietos pasirinkimą. Pavedimų vykdymo politikos apraše turi būti nurodytos bent jau tos pavedimų vykdymo vietos, kuriose finansų maklerio įmonė gali nuolat pasiekti geriausią klientui rezultatą. ^s-9c7d8fd01fd441289398804e
@@ -2763,14 +2763,14 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 3. [[#^s-2de47e7eb4b3806abf97187d|Šio straipsnio 2 dalyje]] numatyta pareiga netaikoma, jeigu kliento ribinis pavedimas yra didelis, palyginti su įprastu rinkos dydžiu, kaip tai nustatyta Reglamento (ES) Nr. 600/2014 [[#^s-064eec473c00e49cc614d37b|4 straipsnyje]]. ^s-84d994bc213defc4b66f8aa8
 
 
-4. Sutuoktinio įgaliojimas sudaryti sandorius dėl Lietuvos Respublikos Vyriausybės taupymo lakštų ir finansinių priemonių, kurios yra bendroji jungtinė sutuoktinių nuosavybė, kurios viešai siūlomos ir (arba) kuriomis prekiaujama reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje, gali būti išduotas paprasta rašytine forma. ^s-5c932d65221635123e0642d4
+4. Sutuoktinio įgaliojimas sudaryti sandorius [dėl Lietuvos Respublikos Vyriausybės](https://e-tar.lt/portal/lt/legalAct/TAR.7B11B97BAFCE) taupymo lakštų ir finansinių priemonių, kurios yra bendroji jungtinė sutuoktinių nuosavybė, kurios viešai siūlomos ir (arba) kuriomis prekiaujama reguliuojamoje rinkoje ir (arba) daugiašalėje prekybos sistemoje, gali būti išduotas paprasta rašytine forma. ^s-5c932d65221635123e0642d4
 
 
 
 ### 35 straipsnis. Pranešimas apie pažeidimus finansų maklerio įmonėje ir centriniame depozitoriume ^s-9b450eb9c9bdbaf61c14f7fb
 
 
-Finansų maklerio įmonė, centrinis depozitoriumas, patvirtinti informacijos apie sandorius skelbimo subjektai ir patvirtinti pranešimų apie sandorius teikimo subjektai turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu finansų maklerio įmonės, informacijos apie sandorius paslaugų teikėjo ir centrinio depozitoriumo vadovams ar kitiems įgaliotiesiems asmenims pranešti apie padarytą ar galimą šio įstatymo, jo įgyvendinamųjų teisės aktų, Reglamento (ES) Nr. 575/2013, Reglamento (ES) Nr. 596/2014, Reglamento (ES) Nr. 600/2014, Reglamento (ES) Nr. 909/2014 ar Reglamento (ES) 2019/2033 nuostatų pažeidimą. Šiam reikalavimui įgyvendinti finansų maklerio įmonė, informacijos apie sandorius paslaugų teikėjas ir centrinis depozitoriumas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi [[latest/TAR.1B4D7B687895#^s-b20478b0c7118343d89d79f8|Lietuvos banko įstatymo 437 straipsnio 1 dalyje]] nustatyti reikalavimai.
+Finansų maklerio įmonė, centrinis depozitoriumas, patvirtinti informacijos apie sandorius skelbimo subjektai ir patvirtinti pranešimų apie sandorius teikimo subjektai turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu finansų maklerio įmonės, informacijos apie sandorius paslaugų teikėjo ir centrinio depozitoriumo vadovams ar kitiems įgaliotiesiems asmenims pranešti apie padarytą ar galimą šio įstatymo, jo įgyvendinamųjų teisės aktų, Reglamento (ES) Nr. 575/2013, Reglamento (ES) Nr. 596/2014, Reglamento (ES) Nr. 600/2014, Reglamento (ES) Nr. 909/2014 ar [Reglamento (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) nuostatų pažeidimą. Šiam reikalavimui įgyvendinti finansų maklerio įmonė, informacijos apie sandorius paslaugų teikėjas ir centrinis depozitoriumas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi [[latest/TAR.1B4D7B687895#^s-b20478b0c7118343d89d79f8|Lietuvos banko įstatymo 437 straipsnio 1 dalyje]] nustatyti reikalavimai.
 
 
 Straipsnio pakeitimai:
@@ -2839,7 +2839,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 2. Finansų maklerio įmonė, prieš pradėdama teikti investicines ir (arba) papildomas paslaugas bet kuriam iš [[#^s-a6f900b036b3ec133f132f28|šio straipsnio 1 dalyje]] nurodytų asmenų, privalo iš anksto jam pranešti, kad finansų maklerio įmonės turimos informacijos pagrindu toks asmuo yra laikomas profesionaliuoju klientu ir jam nebus taikomos tam tikros investuotojų apsaugos priemonės, išskyrus atvejus, kai finansų maklerio įmonė ir klientas susitaria kitaip. ^s-691c1049a4ee7a7490aaa876
 
 
-3. [[#^s-a6f900b036b3ec133f132f28|Šio straipsnio 1 dalyje]] nurodytiems profesionaliesiems klientams jų pasirinkimu gali būti netaikomos visos investuotojų apsaugos priemonės, nurodytos šio įstatymo [[#^s-aed983dc83eb9af799847e25|29 straipsnyje]] (išskyrus 5–8 dalis), 30, [[#^s-35fdea57b48f385fd053d94f|33 straipsniuose]] ir [[#^s-18a49b6f930df369023716bb|34 straipsnio 1 dalyje]], ar dalis šių priemonių. ^s-c58b757a7f0c5c5749f16598
+3. [[#^s-a6f900b036b3ec133f132f28|Šio straipsnio 1 dalyje]] nurodytiems profesionaliesiems klientams jų pasirinkimu gali būti netaikomos visos investuotojų apsaugos priemonės, nurodytos šio įstatymo [[#^s-aed983dc83eb9af799847e25|29 straipsnyje]] (išskyrus [[#^s-02a496ebc5135680505f0ab9|5]]–[[#^s-8ec0359865707932afa4b3e9|8]] dalis), [[#^s-04f30d7da338e3bc5d04bb28|30]], [[#^s-35fdea57b48f385fd053d94f|33]] straipsniuose ir [[#^s-18a49b6f930df369023716bb|34 straipsnio 1 dalyje]], ar dalis šių priemonių. ^s-c58b757a7f0c5c5749f16598
 
 
 4. Finansų maklerio įmonė, prieš pradėdama teikti investicines paslaugas [[#^s-a6f900b036b3ec133f132f28|šio straipsnio 1 dalyje]] nurodytiems asmenims, turi juos informuoti, kad finansų maklerio įmonės turimos informacijos pagrindu klientas laikomas profesionaliuoju klientu ir jam nebus taikoma neprofesionaliesiems klientams nustatyta apsauga, nebent būtų susitarta kitaip. Finansų maklerio įmonė, siekdama aukštesnio kliento interesų apsaugos lygio, privalo pranešti profesionaliajam klientui, kad jis turi teisę prašyti pakeisti investicinių paslaugų teikimo sutarties sąlygas. ^s-b3a39d9ab9949ad1ab963523
@@ -2858,7 +2858,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 ### 38 straipsnis. Asmenys, kurie gali būti pripažinti profesionaliaisiais klientais ^s-ef3bd6782c56e68b7565f535
 
 
-1. Finansų maklerio įmonės klientams, kurie nepatenka į šio įstatymo [[#^s-a6f900b036b3ec133f132f28|37 straipsnio 1 dalyje]] nurodytų asmenų sąrašą, įskaitant savivaldybes, vietos valdžios institucijas ir kitus viešuosius juridinius asmenis ir privačius investuotojus, šiame straipsnyje nustatyta tvarka jų pasirinkimu gali būti netaikomos visos investuotojų apsaugos priemonės, nurodytos šio įstatymo [[#^s-aed983dc83eb9af799847e25|29 straipsnyje]] (išskyrus 5–8 dalis), 30, [[#^s-35fdea57b48f385fd053d94f|33 straipsniuose]] ir [[#^s-18a49b6f930df369023716bb|34 straipsnio 1 dalyje]], ar dalis šių priemonių, jeigu jie pripažįstami profesionaliaisiais klientais, jeigu investuotojai atitinka šio straipsnio 2 ir [[#^s-4e557a19ac96e69315aad349|3 dalyse]] nustatytus kriterijus ir yra laikomasi šiame straipsnyje nustatytų procedūrų. ^s-d27183b7ae32e38fc05f92ee
+1. Finansų maklerio įmonės klientams, kurie nepatenka į šio įstatymo [[#^s-a6f900b036b3ec133f132f28|37 straipsnio 1 dalyje]] nurodytų asmenų sąrašą, įskaitant savivaldybes, vietos valdžios institucijas ir kitus viešuosius juridinius asmenis ir privačius investuotojus, šiame straipsnyje nustatyta tvarka jų pasirinkimu gali būti netaikomos visos investuotojų apsaugos priemonės, nurodytos šio įstatymo [[#^s-aed983dc83eb9af799847e25|29 straipsnyje]] (išskyrus [[#^s-02a496ebc5135680505f0ab9|5]]–[[#^s-8ec0359865707932afa4b3e9|8]] dalis), [[#^s-04f30d7da338e3bc5d04bb28|30]], [[#^s-35fdea57b48f385fd053d94f|33]] straipsniuose ir [[#^s-18a49b6f930df369023716bb|34 straipsnio 1 dalyje]], ar dalis šių priemonių, jeigu jie pripažįstami profesionaliaisiais klientais, jeigu investuotojai atitinka šio straipsnio [[#^s-24028b1935532809a09667eb|2]] ir [[#^s-4e557a19ac96e69315aad349|3]] dalyse nustatytus kriterijus ir yra laikomasi šiame straipsnyje nustatytų procedūrų. ^s-d27183b7ae32e38fc05f92ee
 
 
 2. Netaikyti kurios nors iš investuotojų apsaugos priemonių profesionaliuoju klientu pripažintam asmeniui leidžiama tik tuo atveju, jeigu finansų maklerio įmonė, įvertinusi kliento žinias, įgūdžius ir patirtį ir atsižvelgdama į jam planuojamų teikti paslaugų ar planuojamų sudaryti sandorių pobūdį, yra pagrįstai įsitikinusi, kad klientas gali savarankiškai ir kompetentingai priimti investicinius sprendimus ir vertinti su tuo susijusią riziką. Laikoma, kad profesionaliaisiais klientais pripažinti asmenys neturi tiek pat žinių ir patirties, kiek jų turi šio įstatymo [[#^s-058c84bb27ce67a0b47fa7d4|37 straipsnyje]] nurodyti profesionalieji klientai. Žinios ir patirtis gali būti įvertinamos pasitelkiant tinkamumo testą, taikomą finansų įstaigų vadovams. Analogiškai turi būti įvertinamas ir asmuo, įgaliotas sudaryti sandorius mažosios įmonės vardu. ^s-24028b1935532809a09667eb
@@ -2898,7 +2898,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 ### 39 straipsnis. Sandoriai su tinkamomis sandorio šalimis ^s-5d43fa5d35cbe14ee37c64f1
 
 
-1. Finansų maklerio įmonė, vykdanti pavedimus klientų naudai ir (arba) sudaranti sandorius savo sąskaita, ir (arba) priimanti ir perduodanti klientų pavedimus, turi teisę sudaryti sandorius arba tarpininkauti sudarant sandorius su tinkamomis sandorio šalimis nesilaikydama šio įstatymo [[#^s-aed983dc83eb9af799847e25|29 straipsnyje]] (išskyrus 81 ir 82 dalis), [[#^s-04f30d7da338e3bc5d04bb28|30 straipsnyje]], [[#^s-c07a062a6941b9fda4de5a2d|31 straipsnio]] 1–[[#^s-d86d2799332aa7d0ba49fe46|3 dalyse]], [[#^s-35fdea57b48f385fd053d94f|33 straipsnyje]] ir [[#^s-18a49b6f930df369023716bb|34 straipsnio 1 dalyje]] nustatytų reikalavimų dėl sudaromų sandorių ir su šiais sandoriais tiesiogiai susijusių papildomų paslaugų. ^s-a2ac0406f778a1ce893c7b99
+1. Finansų maklerio įmonė, vykdanti pavedimus klientų naudai ir (arba) sudaranti sandorius savo sąskaita, ir (arba) priimanti ir perduodanti klientų pavedimus, turi teisę sudaryti sandorius arba tarpininkauti sudarant sandorius su tinkamomis sandorio šalimis nesilaikydama šio įstatymo [[#^s-aed983dc83eb9af799847e25|29 straipsnyje]] (išskyrus [[#^s-234d619eddd81878b39f4fc9|81]] ir [[#^s-445ad438830099bfd2acfd02|82]] dalis), [[#^s-04f30d7da338e3bc5d04bb28|30 straipsnyje]], [[#^s-c07a062a6941b9fda4de5a2d|31 straipsnio]] [[#^s-e3cc06ab5cc0321ef3d07c7a|1]]–[[#^s-fa3bb0cef5852fcc28e41c8f|3]] dalyse, [[#^s-35fdea57b48f385fd053d94f|33 straipsnyje]] ir [[#^s-18a49b6f930df369023716bb|34 straipsnio 1 dalyje]] nustatytų reikalavimų dėl sudaromų sandorių ir su šiais sandoriais tiesiogiai susijusių papildomų paslaugų. ^s-a2ac0406f778a1ce893c7b99
 Straipsnio dalies pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -2910,7 +2910,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 3. Šiame straipsnyje tinkamomis sandorio šalimis yra laikomos finansų maklerio įmonės, kredito įstaigos, draudimo įmonės, suderintieji kolektyvinio investavimo subjektai ir jų valdymo įmonės, pensijų fondai ir jų valdymo įmonės, kitos Europos Sąjungoje ar atskirose valstybėse narėse pagal Europos Sąjungos teisę arba pagal valstybių narių nacionalinę teisę licencijuotos ar prižiūrimos finansų įstaigos, valstybių narių vyriausybės ir jų įgalioti subjektai, užsiimantys valstybės skolos valdymu nacionaliniu lygiu, taip pat centriniai bankai ir tarpvalstybinės organizacijos. ^s-d86d2799332aa7d0ba49fe46
 
 
-4. Asmens priskyrimas prie tinkamų sandorio šalių kategorijos nepanaikina šio asmens teisės prašyti jam taikyti visas neprofesionaliųjų investuotojų interesų apsaugos priemones, įskaitant šio įstatymo 29, 30, 31, [[#^s-35fdea57b48f385fd053d94f|33 straipsniuose]] ir [[#^s-4315017a8a90f827af671f15|34 straipsnio]] 1 ir [[#^s-9706312a2559cd15823badbb|2 dalyse]] nustatytas priemones. Toks prašymas gali būti bendro pobūdžio arba pateikiamas kiekvienu konkrečiu atveju. ^s-bb647f0455f4094cae378e0e
+4. Asmens priskyrimas prie tinkamų sandorio šalių kategorijos nepanaikina šio asmens teisės prašyti jam taikyti visas neprofesionaliųjų investuotojų interesų apsaugos priemones, įskaitant šio įstatymo [[#^s-aed983dc83eb9af799847e25|29]], [[#^s-04f30d7da338e3bc5d04bb28|30]], [[#^s-c07a062a6941b9fda4de5a2d|31]], [[#^s-35fdea57b48f385fd053d94f|33]] straipsniuose ir [[#^s-4315017a8a90f827af671f15|34 straipsnio]] [[#^s-18a49b6f930df369023716bb|1]] ir [[#^s-2de47e7eb4b3806abf97187d|2]] dalyse nustatytas priemones. Toks prašymas gali būti bendro pobūdžio arba pateikiamas kiekvienu konkrečiu atveju. ^s-bb647f0455f4094cae378e0e
 
 
 5. Jeigu planuojamo sudaryti sandorio šalys priklauso skirtingoms jurisdikcijoms, finansų maklerio įmonė pripažįsta tokį subjektų statusą, kokį nustato tos valstybės narės, kurioje sandorio šalis yra įsteigta, teisės aktai. ^s-516f5a2f2b5619c7391915c1
@@ -2953,16 +2953,16 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 1. Finansų maklerio įmonė ar rinkos operatorius, administruojantys daugiašalę prekybos sistemą arba organizuotos prekybos sistemą, gali sustabdyti arba nutraukti prekybą finansine priemone, jeigu finansinė priemonė nebeatitinka daugiašalės prekybos sistemos arba organizuotos prekybos sistemos taisyklių, išskyrus atvejus, kai toks prekybos sustabdymas arba nutraukimas galėtų daryti didelę žalą investuotojų interesams arba sklandžiam rinkos veikimui. ^s-341cfbc8523bc1515f8fc71b
 
 
-2. Finansų maklerio įmonė ar rinkos operatorius, administruojantys daugiašalę prekybos sistemą arba organizuotos prekybos sistemą, sustabdę arba nutraukę prekybą finansine priemone, privalo sustabdyti arba nutraukti prekybą šio įstatymo [[#^s-bd957f5b69326a7887eb58d6|3 straipsnio 15 dalies]] 4–10 punktuose nurodytomis išvestinėmis finansinėmis priemonėmis, kurios yra susijusios su šia finansine priemone arba yra sudarytos jos pagrindu, jeigu tai būtina siekiant sustabdyti arba nutraukti prekybą pagrindine finansine priemone. ^s-93e5c66aad0b20c0527fdf9d
+2. Finansų maklerio įmonė ar rinkos operatorius, administruojantys daugiašalę prekybos sistemą arba organizuotos prekybos sistemą, sustabdę arba nutraukę prekybą finansine priemone, privalo sustabdyti arba nutraukti prekybą šio įstatymo [[#^s-bd957f5b69326a7887eb58d6|3 straipsnio 15 dalies]] [[#^s-b258a760911fb8393b8ac7ad|4]]–[[#^s-e0d6a88ed5e696004aaeda0d|10]] punktuose nurodytomis išvestinėmis finansinėmis priemonėmis, kurios yra susijusios su šia finansine priemone arba yra sudarytos jos pagrindu, jeigu tai būtina siekiant sustabdyti arba nutraukti prekybą pagrindine finansine priemone. ^s-93e5c66aad0b20c0527fdf9d
 
 
 3. Finansų maklerio įmonė ar rinkos operatorius, administruojantys daugiašalę prekybos sistemą arba organizuotos prekybos sistemą, turi viešai paskelbti apie savo sprendimą sustabdyti arba nutraukti prekybą finansine priemone arba [[#^s-93e5c66aad0b20c0527fdf9d|šio straipsnio 2 dalyje]] nurodytomis išvestinėmis finansinėmis priemonėmis ir apie tai pranešti priežiūros institucijai. ^s-6af90936d50878964da3d3d1
 
 
-4. Priežiūros institucija, nustačiusi, kad Lietuvos Respublikoje sustabdyta arba nutraukta prekyba finansine priemone, nurodo Lietuvos Respublikoje veikiančioms reguliuojamoms rinkoms, kitoms daugiašalėms prekybos sistemoms, kitoms organizuotos prekybos sistemoms ir sisteminę prekybą vykdančioms finansų maklerio įmonėms, kuriose prekiaujama ta pačia finansine priemone arba [[#^s-93e5c66aad0b20c0527fdf9d|šio straipsnio 2 dalyje]] nurodytomis išvestinėmis finansinėmis priemonėmis, kurios yra susijusios su ta pačia finansine priemone arba yra sudarytos jos pagrindu, sustabdyti arba nutraukti prekybą ta pačia finansine priemone ar išvestinėmis finansinėmis priemonėmis, kai prekyba sustabdoma arba nutraukiama dėl įtariamo piktnaudžiavimo rinka, perėmimo pasiūlymo arba viešai neatskleistos informacijos apie emitentą ar finansinę priemonę nepaskelbimo pažeidžiant Reglamento (ES) Nr. 596/2014 7 ir [[#^s-3bf1926a20dcd5dd95b9c89a|17 straipsnius]], išskyrus atvejus, kai toks prekybos sustabdymas arba nutraukimas galėtų padaryti didelę žalą investuotojų interesams arba sklandžiam rinkos veikimui. Apie priimtą sprendimą priežiūros institucija nedelsdama paskelbia viešai ir praneša Europos vertybinių popierių ir rinkų institucijai ir kitų valstybių narių priežiūros institucijoms. ^s-fdd186d319e04ee30407171d
+4. Priežiūros institucija, nustačiusi, kad Lietuvos Respublikoje sustabdyta arba nutraukta prekyba finansine priemone, nurodo Lietuvos Respublikoje veikiančioms reguliuojamoms rinkoms, kitoms daugiašalėms prekybos sistemoms, kitoms organizuotos prekybos sistemoms ir sisteminę prekybą vykdančioms finansų maklerio įmonėms, kuriose prekiaujama ta pačia finansine priemone arba [[#^s-93e5c66aad0b20c0527fdf9d|šio straipsnio 2 dalyje]] nurodytomis išvestinėmis finansinėmis priemonėmis, kurios yra susijusios su ta pačia finansine priemone arba yra sudarytos jos pagrindu, sustabdyti arba nutraukti prekybą ta pačia finansine priemone ar išvestinėmis finansinėmis priemonėmis, kai prekyba sustabdoma arba nutraukiama dėl įtariamo piktnaudžiavimo rinka, perėmimo pasiūlymo arba viešai neatskleistos informacijos apie emitentą ar finansinę priemonę nepaskelbimo pažeidžiant Reglamento (ES) Nr. 596/2014 [[#^s-8b837945108cc488c27cf6b5|7]] ir [[#^s-3bf1926a20dcd5dd95b9c89a|17]] straipsnius, išskyrus atvejus, kai toks prekybos sustabdymas arba nutraukimas galėtų padaryti didelę žalą investuotojų interesams arba sklandžiam rinkos veikimui. Apie priimtą sprendimą priežiūros institucija nedelsdama paskelbia viešai ir praneša Europos vertybinių popierių ir rinkų institucijai ir kitų valstybių narių priežiūros institucijoms. ^s-fdd186d319e04ee30407171d
 
 
-5. Priežiūros institucija, iš kitos valstybės narės priežiūros institucijos gavusi informaciją, analogišką nurodytai [[#^s-fdd186d319e04ee30407171d|šio straipsnio 4 dalyje]], nurodo savo prižiūrimoms reguliuojamoms rinkoms, daugiašalėms prekybos sistemoms, organizuotos prekybos sistemoms ir sisteminę prekybą vykdančioms finansų maklerio įmonėms, kuriose prekiaujama ta pačia finansine priemone arba [[#^s-93e5c66aad0b20c0527fdf9d|šio straipsnio 2 dalyje]] nurodytomis išvestinėmis finansinėmis priemonėmis, taip pat sustabdyti arba nutraukti prekybą šia finansine priemone ar išvestinėmis finansinėmis priemonėmis, kai prekyba sustabdoma arba nutraukiama dėl įtariamo piktnaudžiavimo rinka, perėmimo pasiūlymo arba viešai neatskleistos informacijos apie emitentą ar finansinę priemonę nepaskelbimo pažeidžiant Reglamento (ES) Nr. 596/2014 7 ir [[#^s-3bf1926a20dcd5dd95b9c89a|17 straipsnius]], išskyrus atvejus, kai toks prekybos sustabdymas ar nutraukimas galėtų daryti didelę žalą investuotojų interesams arba sklandžiam rinkos veikimui. ^s-64065955fc9c2c5fe94b9076
+5. Priežiūros institucija, iš kitos valstybės narės priežiūros institucijos gavusi informaciją, analogišką nurodytai [[#^s-fdd186d319e04ee30407171d|šio straipsnio 4 dalyje]], nurodo savo prižiūrimoms reguliuojamoms rinkoms, daugiašalėms prekybos sistemoms, organizuotos prekybos sistemoms ir sisteminę prekybą vykdančioms finansų maklerio įmonėms, kuriose prekiaujama ta pačia finansine priemone arba [[#^s-93e5c66aad0b20c0527fdf9d|šio straipsnio 2 dalyje]] nurodytomis išvestinėmis finansinėmis priemonėmis, taip pat sustabdyti arba nutraukti prekybą šia finansine priemone ar išvestinėmis finansinėmis priemonėmis, kai prekyba sustabdoma arba nutraukiama dėl įtariamo piktnaudžiavimo rinka, perėmimo pasiūlymo arba viešai neatskleistos informacijos apie emitentą ar finansinę priemonę nepaskelbimo pažeidžiant Reglamento (ES) Nr. 596/2014 [[#^s-8b837945108cc488c27cf6b5|7]] ir [[#^s-3bf1926a20dcd5dd95b9c89a|17]] straipsnius, išskyrus atvejus, kai toks prekybos sustabdymas ar nutraukimas galėtų daryti didelę žalą investuotojų interesams arba sklandžiam rinkos veikimui. ^s-64065955fc9c2c5fe94b9076
 
 
 6. Priežiūros institucija, gavusi [[#^s-64065955fc9c2c5fe94b9076|šio straipsnio 5 dalyje]] nurodytą informaciją, apie priimtą sprendimą praneša Europos vertybinių popierių ir rinkų institucijai ir kitų valstybių narių priežiūros institucijoms, taip pat pateikia sprendimo paaiškinimą, jeigu priimtas sprendimas nestabdyti arba nenutraukti prekybos finansine priemone arba [[#^s-93e5c66aad0b20c0527fdf9d|šio straipsnio 2 dalyje]] nurodytomis išvestinėmis finansinėmis priemonėmis. ^s-9a1ecb4fc04e3f9288022b81
@@ -3025,7 +3025,7 @@ Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 3. Jeigu į susitarimą su turto valdytoju neįtraukiamas bent vienas iš [[#^s-0821977279530b6093c7f8fc|šio straipsnio 2 dalies]] 1–5 punktuose nurodytų elementų, gyvybės draudimo ir profesinių pensijų institucinis investuotojas privalo pateikti aiškų ir pagrįstą to paaiškinimą. ^s-f0659ca9a9a49c000b8916f3
 
 
-4. Šio straipsnio 1, 2 ir [[#^s-f0659ca9a9a49c000b8916f3|3 dalyse]] nurodyta informacija privalo būti nemokamai prieinama gyvybės draudimo ir profesinių pensijų institucinio investuotojo interneto svetainėje ir kiekvienais metais atnaujinama, nebent nėra esminių jos pasikeitimų. Gyvybės draudimo ir profesinių pensijų instituciniai investuotojai, kurių veiklą reglamentuoja [[latest/TAR.8447F63760E9|Draudimo įstatymas]], gali įtraukti šią informaciją į mokumo ir finansinės būklės ataskaitą. ^s-172602914a5c2c2ab8810c5c
+4. Šio straipsnio [[#^s-622d429dc5fa9f1d68789d66|1]], [[#^s-0821977279530b6093c7f8fc|2]] ir [[#^s-f0659ca9a9a49c000b8916f3|3]] dalyse nurodyta informacija privalo būti nemokamai prieinama gyvybės draudimo ir profesinių pensijų institucinio investuotojo interneto svetainėje ir kiekvienais metais atnaujinama, nebent nėra esminių jos pasikeitimų. Gyvybės draudimo ir profesinių pensijų instituciniai investuotojai, kurių veiklą reglamentuoja [[latest/TAR.8447F63760E9|Draudimo įstatymas]], gali įtraukti šią informaciją į mokumo ir finansinės būklės ataskaitą. ^s-172602914a5c2c2ab8810c5c
 
 
 Straipsnio pakeitimai:
@@ -3076,7 +3076,7 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 2. Jeigu įgaliotieji konsultantai elgesio kodekso netaiko, jie turi paskelbti aiškų ir pagrįstą paaiškinimą, kodėl to nedaro. Jeigu įgaliotieji konsultantai taiko elgesio kodeksą, bet nesilaiko kurios nors jo rekomendacijos, įgaliotieji konsultantai turi paskelbti, kurių elgesio kodekso nuostatų nesilaiko, pateikti paaiškinimą, kodėl jie taip daro, ir nurodyti, jeigu taikytina, visas kitas priemones, kurių buvo imtasi. ^s-3477158c77a3f64d01e09d2f
 
 
-3. Šio straipsnio 1 ir [[#^s-3477158c77a3f64d01e09d2f|2 dalyse]] nurodyta praėjusių kalendorinių metų informacija turi būti viešai ir nemokamai paskelbiama įgaliotųjų konsultantų interneto svetainėse ne vėliau kaip per 4 mėnesius nuo praėjusių kalendorinių metų pabaigos. ^s-1fe1278e565980c47df8a0ad
+3. Šio straipsnio [[#^s-fd73852582bf092a79550c48|1]] ir [[#^s-3477158c77a3f64d01e09d2f|2]] dalyse nurodyta praėjusių kalendorinių metų informacija turi būti viešai ir nemokamai paskelbiama įgaliotųjų konsultantų interneto svetainėse ne vėliau kaip per 4 mėnesius nuo praėjusių kalendorinių metų pabaigos. ^s-1fe1278e565980c47df8a0ad
 
 
 4. Siekiant, kad įgaliotieji konsultantai tinkamai informuotų savo klientus apie savo veiklos tikslumą ir patikimumą, įgaliotieji konsultantai turi viešai skelbti šią informaciją, susijusią su praėjusių kalendorinių metų tyrimų, konsultacijų ir balsavimo rekomendacijų parengimu: ^s-97a3cd794fb9bf311935ffc7
@@ -3106,7 +3106,7 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 5. [[#^s-97a3cd794fb9bf311935ffc7|Šio straipsnio 4 dalyje]] nurodytą informaciją įgaliotieji konsultantai turi kiekvienais metais ne vėliau kaip per 4 mėnesius nuo praėjusių kalendorinių metų pabaigos viešai ir nemokamai paskelbti savo interneto svetainėse ir užtikrinti, kad ji būtų prieinama ne trumpiau kaip 3 metus nuo jos paskelbimo dienos. ^s-ef424e64fd2fa7723b30bc97
 
 
-6. [[#^s-97a3cd794fb9bf311935ffc7|Šio straipsnio 4 dalyje]] nurodyta informacija gali būti neskelbiama [[#^s-ef424e64fd2fa7723b30bc97|šio straipsnio 5 dalyje]] nustatyta tvarka, jeigu ji yra paskelbta kartu su šio straipsnio 1 ar [[#^s-3477158c77a3f64d01e09d2f|2 dalyje]] nurodyta informacija. ^s-c68e890756567d3128994efb
+6. [[#^s-97a3cd794fb9bf311935ffc7|Šio straipsnio 4 dalyje]] nurodyta informacija gali būti neskelbiama [[#^s-ef424e64fd2fa7723b30bc97|šio straipsnio 5 dalyje]] nustatyta tvarka, jeigu ji yra paskelbta kartu su šio straipsnio [[#^s-fd73852582bf092a79550c48|1]] ar [[#^s-3477158c77a3f64d01e09d2f|2]] dalyje nurodyta informacija. ^s-c68e890756567d3128994efb
 
 
 7. Įgaliotieji konsultantai turi nustatyti bet kokį esamą ar galimą interesų konfliktą ar verslo santykius, galinčius paveikti tyrimų, konsultacijų ar balsavimo rekomendacijų rengimą, ir nedelsdami apie tai informuoti savo klientus. Jie taip pat turi nedelsdami informuoti savo klientus apie veiksmus, kurių jie ėmėsi esamam ar galimam interesų konfliktui pašalinti, sušvelninti ar valdyti. ^s-1c7dffacca1ec08425f6c6e6
@@ -3134,10 +3134,10 @@ FINANSŲ MAKLERIO ĮMONIŲ TEISĖS
 2. Kredito įstaiga, ketinanti pradėti teikti investicines ir papildomas paslaugas kitoje valstybėje narėje, pasinaudodama priklausomų tarpininkų, įrašytų į viešąjį priklausomų tarpininkų sąrašą, tvarkomą priežiūros institucijos, paslaugomis, turi perduoti priežiūros institucijai informaciją apie šių priklausomų tarpininkų tapatybę. ^s-65ecb793128ae6e5adbe71da
 
 
-3. Priežiūros institucija, gavusi šio straipsnio 1 ir [[#^s-65ecb793128ae6e5adbe71da|2 dalyse]] nurodytą informaciją, per vieną mėnesį ją perduoda priimančiosios valstybės narės priežiūros institucijai. ^s-3330f4125165e38fcd6b4ce9
+3. Priežiūros institucija, gavusi šio straipsnio [[#^s-e96356425c3be121d9775d5c|1]] ir [[#^s-65ecb793128ae6e5adbe71da|2]] dalyse nurodytą informaciją, per vieną mėnesį ją perduoda priimančiosios valstybės narės priežiūros institucijai. ^s-3330f4125165e38fcd6b4ce9
 
 
-4. Jeigu šio straipsnio 1 ir [[#^s-65ecb793128ae6e5adbe71da|2 dalyse]] nurodyti duomenys ir informacija keičiasi, finansų maklerio įmonė arba kredito įstaiga privalo apie numatomus pasikeitimus pranešti priežiūros institucijai ne vėliau kaip prieš vieną mėnesį iki planuojamo pasikeitimų įsigaliojimo. Šią informaciją priežiūros institucija perduoda priimančiosios valstybės narės priežiūros institucijai. ^s-cab1d81b55c2ecde99d70758
+4. Jeigu šio straipsnio [[#^s-e96356425c3be121d9775d5c|1]] ir [[#^s-65ecb793128ae6e5adbe71da|2]] dalyse nurodyti duomenys ir informacija keičiasi, finansų maklerio įmonė arba kredito įstaiga privalo apie numatomus pasikeitimus pranešti priežiūros institucijai ne vėliau kaip prieš vieną mėnesį iki planuojamo pasikeitimų įsigaliojimo. Šią informaciją priežiūros institucija perduoda priimančiosios valstybės narės priežiūros institucijai. ^s-cab1d81b55c2ecde99d70758
 
 
 5. Lietuvos Respublikoje licencijuota finansų maklerio įmonė ir rinkos operatorius, administruojantys daugiašalę prekybos sistemą arba organizuotos prekybos sistemą, ketinantys kitose valstybėse narėse imtis priemonių, skirtų tose valstybėse narėse įsteigtų asmenų tapimui daugiašalės prekybos sistemos arba organizuotos prekybos sistemos nariais arba naudojimuisi ja nuotoliniu būdu palengvinti, priežiūros institucijai turi pranešti, kurioje valstybėje narėje ketinama imtis tokių priemonių. Šią informaciją priežiūros institucija per vieną mėnesį perduoda priimančiosios valstybės narės priežiūros institucijai. Kai yra priimančiosios valstybės narės priežiūros institucijos prašymas, priežiūros institucija per pagrįstą terminą perduoda jai informaciją apie šios daugiašalės prekybos sistemos arba organizuotos prekybos sistemos narius. ^s-d19f2e2d361162ac983f4798
@@ -3163,7 +3163,7 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
 
 
-4. Jeigu šio straipsnio 2 ir [[#^s-bdc1eda19fe8ca6d06b0f333|3 dalyse]] nurodyti duomenys ir informacija pasikeičia, finansų maklerio įmonė arba kredito įstaiga privalo apie numatomus pasikeitimus pranešti savo buveinės valstybės narės priežiūros institucijai. Priežiūros institucija turi teisę gauti tokios informacijos pasikeitimo patvirtinimo dokumentus. ^s-d21fd32514763c2798f75907
+4. Jeigu šio straipsnio [[#^s-503fc93b07200ffafcf8c5e1|2]] ir [[#^s-bdc1eda19fe8ca6d06b0f333|3]] dalyse nurodyti duomenys ir informacija pasikeičia, finansų maklerio įmonė arba kredito įstaiga privalo apie numatomus pasikeitimus pranešti savo buveinės valstybės narės priežiūros institucijai. Priežiūros institucija turi teisę gauti tokios informacijos pasikeitimo patvirtinimo dokumentus. ^s-d21fd32514763c2798f75907
 
 
 5. Kitoje valstybėje narėje licencijuota finansų maklerio įmonė ir rinkos operatorius, administruojantys daugiašalę prekybos sistemą, turi teisę Lietuvos Respublikoje imtis reikiamų priemonių, palengvinančių Lietuvos Respublikoje įsteigtų juridinių asmenų tapimą daugiašalės prekybos sistemos nariais arba naudojimąsi ja nuotoliniu būdu. ^s-0a414d2ae41a5890d1d1feff
@@ -3198,7 +3198,7 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 2. Jeigu Lietuvos Respublikoje įsteigta finansų maklerio įmonė skiria priklausomą tarpininką, kuris yra įsteigtas kitoje valstybėje narėje, toks priklausomas tarpininkas yra prilyginamas įmonės filialui ir jam yra taikomos šio įstatymo nuostatos, reglamentuojančios finansų maklerio įmonės filialo veiklą. ^s-a1f7dc4e6e3bbc6251b9d6fd
 
 
-3. Kredito įstaigoms, ketinančioms kitoje valstybėje narėje teikti investicines ir papildomas paslaugas nesteigiant filialo, bet pasinaudojant tos valstybės narės teritorijoje įsteigtų priklausomų tarpininkų paslaugomis, šio straipsnio 1 ir [[#^s-a1f7dc4e6e3bbc6251b9d6fd|2 dalių]] nuostatos taikomos mutatis mutandis. ^s-8dac4fd79a746fa05ea53466
+3. Kredito įstaigoms, ketinančioms kitoje valstybėje narėje teikti investicines ir papildomas paslaugas nesteigiant filialo, bet pasinaudojant tos valstybės narės teritorijoje įsteigtų priklausomų tarpininkų paslaugomis, šio straipsnio [[#^s-f87b5e3aa85488f1f40f5257|1]] ir [[#^s-a1f7dc4e6e3bbc6251b9d6fd|2]] dalių nuostatos taikomos mutatis mutandis. ^s-8dac4fd79a746fa05ea53466
 
 
 4. Priežiūros institucija ne vėliau kaip per 3 mėnesius nuo [[#^s-f87b5e3aa85488f1f40f5257|šio straipsnio 1 dalyje]] nurodytos informacijos gavimo ją perduoda priimančiosios valstybės narės priežiūros institucijai ir apie tai praneša pranešimą pateikusiai finansų maklerio įmonei arba kredito įstaigai, išskyrus atvejus, kai priežiūros institucija turi pagrindą abejoti finansų maklerio įmonės arba kredito įstaigos valdymo struktūros ar finansinės padėties pakankamumu atsižvelgiant į numatomos vykdyti veiklos pobūdį. Be to, priežiūros institucija priimančiosios valstybės narės priežiūros institucijai perduoda informaciją apie pripažintą įsipareigojimų investuotojams draudimo sistemą, kurios narė yra filialą steigianti finansų maklerio įmonė. ^s-2d47a9e199db3868db153ee9
@@ -3223,7 +3223,7 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 3. [[#^s-aa920e3017a0f7507d0c2c0c|Šio straipsnio 2 dalyje]] nurodyta informacija turi būti audituojama ir, kai įmanoma, skelbiama kaip metinių finansinių ataskaitų priedas arba kaip konsoliduotųjų finansinių ataskaitų, kai rengiamos, priedas. ^s-73b0e30b760927361e38a9ed
 
 
-4. Finansų maklerio įmonė, atitinkanti šio įstatymo [[#^s-81d1e00d92da3193e16470eb|156 straipsnio 16 dalyje]] nurodytas sąlygas, privalo viešai paskelbti informaciją, nurodytą Reglamento (ES) 2019/2033 [[#^s-98d9f8ceb68d27ecec11fa41|52 straipsnyje]], tame straipsnyje nustatyta tvarka. ^s-c5de75147bca65229206ca02
+4. Finansų maklerio įmonė, atitinkanti šio įstatymo [[#^s-81d1e00d92da3193e16470eb|156 straipsnio 16 dalyje]] nurodytas sąlygas, privalo viešai paskelbti informaciją, nurodytą [Reglamento (ES) 2019/2033 52 straipsnyje](https://eur-lex.europa.eu/eli/reg/2019/2033/art_52/oj), tame straipsnyje nustatyta tvarka. ^s-c5de75147bca65229206ca02
 Straipsnio dalies pakeitimai:
 Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
@@ -3354,7 +3354,7 @@ TREČIŲJŲ VALSTYBIŲ ĮMONIŲ VEIKLA LIETUVOS RESPUBLIKOJE
 1) informaciją apie trečiosios valstybės priežiūros instituciją, nurodydama jos pavadinimą; jeigu trečiosios valstybės įmonę prižiūri daugiau negu viena priežiūros institucija, informaciją apie funkcijas, kurios pavestos vykdyti kiekvienai šių priežiūros institucijų; ^s-71ec058bc70a06090c448360
 
 
-2) trečiosios valstybės priežiūros institucijos rašytinį patvirtinimą, kad trečiosios valstybės įmonė ir trečiosios valstybės institucija atitinka [[#^s-96eb3dba2552ca0d5dbb2aee|šio straipsnio 7 dalies]] 1, 2 ir [[#^s-6aae0efde1f5385636d7357e|3 punktuose]] nurodytus reikalavimus; ^s-5141584d79bd581cd39882c5
+2) trečiosios valstybės priežiūros institucijos rašytinį patvirtinimą, kad trečiosios valstybės įmonė ir trečiosios valstybės institucija atitinka [[#^s-96eb3dba2552ca0d5dbb2aee|šio straipsnio 7 dalies]] [[#^s-71ec058bc70a06090c448360|1]], 2 ir [[#^s-6aae0efde1f5385636d7357e|3]] punktuose nurodytus reikalavimus; ^s-5141584d79bd581cd39882c5
 
 
 3) priežiūros institucijos nustatytos formos informaciją apie asmenis, kuriems priklauso trečiosios valstybės įmonės kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis, šios įmonės kontroliuojamas įmones, šioje įmonėje dalyvaujančias įmones ar asmenis, priežiūros ir valdymo organų narius; ^s-6aae0efde1f5385636d7357e
@@ -3422,7 +3422,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 ### 50 straipsnis. Filialui taikomi reikalavimai ^s-064f71d17e8da4badbe749f1
 
 
-1. Trečiosios valstybės įmonės filialas, kuriam išduotas leidimas pagal šio įstatymo [[#^s-e798139670f4862aa13eb0f3|49 straipsnį]], privalo laikytis šio įstatymo 16, 21–24, 28–31, [[#^s-35fdea57b48f385fd053d94f|33 straipsniuose]], [[#^s-18a49b6f930df369023716bb|34 straipsnio 1 dalyje]], 35, 39, 40 ir [[#^s-aebbf977abc5e10c6c52989e|41 straipsniuose]], Reglamento (ES) Nr. 600/2014 3–[[#^s-f81a2943afd8776c3b0a8cce|26 straipsniuose]] ir jų įgyvendinamųjų teisės aktų nustatytų reikalavimų. ^s-a41aef2468ffef42027504d4
+1. Trečiosios valstybės įmonės filialas, kuriam išduotas leidimas pagal šio įstatymo [[#^s-e798139670f4862aa13eb0f3|49 straipsnį]], privalo laikytis šio įstatymo [[#^s-89450573533cf207a398cd23|16]], [[#^s-7182526ebe3e9164625b4dcc|21]]–[[#^s-898d32acbc50a700fec1e391|24]], [[#^s-a560b4d7e25d32ad78c255bc|28]]–[[#^s-c07a062a6941b9fda4de5a2d|31]], [[#^s-35fdea57b48f385fd053d94f|33]] straipsniuose, [[#^s-18a49b6f930df369023716bb|34 straipsnio 1 dalyje]], [[#^s-9b450eb9c9bdbaf61c14f7fb|35]], [[#^s-5d43fa5d35cbe14ee37c64f1|39]], [[#^s-05d055bd8f4f2472e83289b1|40]] ir [[#^s-aebbf977abc5e10c6c52989e|41]] straipsniuose, Reglamento (ES) Nr. 600/2014 [[#^s-af37e89e5229341944f6a883|3]]–[[#^s-f81a2943afd8776c3b0a8cce|26]] straipsniuose ir jų įgyvendinamųjų teisės aktų nustatytų reikalavimų. ^s-a41aef2468ffef42027504d4
 
 
 2. Priežiūros institucija prižiūri, kaip trečiosios valstybės įmonės filialas laikosi [[#^s-a41aef2468ffef42027504d4|šio straipsnio 1 dalyje]] nurodytų reikalavimų. ^s-a054a72062249c55e843cf06
@@ -3525,7 +3525,7 @@ REGULIUOJAMOS RINKOS LICENCIJAVIMAS
 3. Steigiama arba veikianti akcinė bendrovė, ketinanti verstis rinkos operatoriaus veikla, priežiūros institucijai turi pateikti: ^s-a459c191caaa7c486b07c400
 
 
-1) prašymą, kuriame nurodytas rinkos operatoriaus steigimo tikslas, pavadinimas, buveinė, duomenys, patvirtinantys, kad steigėjai (akcininkai) ir vadovai atitinka šio įstatymo 58 ir [[#^s-a0221760c43878d0b634f63a|60 straipsniuose]] nustatytus reikalavimus; ^s-7c0ca88aaf2df852bad9cc9c
+1) prašymą, kuriame nurodytas rinkos operatoriaus steigimo tikslas, pavadinimas, buveinė, duomenys, patvirtinantys, kad steigėjai (akcininkai) ir vadovai atitinka šio įstatymo [[#^s-0aa4d3dd7c6b6493c118aa7b|58]] ir [[#^s-a0221760c43878d0b634f63a|60]] straipsniuose nustatytus reikalavimus; ^s-7c0ca88aaf2df852bad9cc9c
 
 
 2) steigimo sutartį; ^s-8383a35cce35b94c36bbfe94
@@ -3555,7 +3555,7 @@ Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 6. Rinkos operatorius privalo laikytis rinkos operatoriui keliamų organizacinių ir veiklos reikalavimų (įskaitant pradinius reikalavimus reguliuojamos rinkos licencijai gauti) ir užtikrinti, kad jo administruojamoje reguliuojamoje rinkoje būtų laikomasi kitų šiame skyriuje nustatytų reikalavimų. Rinkos operatorius naudojasi šiame skyriuje nustatytomis reguliuojamos rinkos teisėmis. ^s-8b3028be4103441ca0898c66
 
 
-7. Rinkos operatorius, turintis išduotą reguliuojamos rinkos licenciją, gali teikti kriptoturto paslaugas, kaip jos apibrėžtos Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkte, Reglamento (ES) 2023/1114 [[#^s-a0221760c43878d0b634f63a|60 straipsnyje]] nustatyta apimtimi ir tvarka. ^s-38f8fa654916a826b0701a61
+7. Rinkos operatorius, turintis išduotą reguliuojamos rinkos licenciją, gali teikti kriptoturto paslaugas, kaip jos apibrėžtos [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) 16 punkte, [Reglamento (ES) 2023/1114 60 straipsnyje](https://eur-lex.europa.eu/eli/reg/2023/1114/art_60/oj) nustatyta apimtimi ir tvarka. ^s-38f8fa654916a826b0701a61
 Papildyta straipsnio dalimi:
 Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 
@@ -3668,7 +3668,7 @@ Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
 
 
-5. Rinkos operatorius turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų jo darbuotojams specialiu, nepriklausomu ir autonomišku kanalu rinkos operatoriaus vadovams arba kitiems įgaliotiems asmenims pranešti apie padarytą ar galimą šio įstatymo, Reglamento (ES) Nr. 600/2014, Reglamento (ES) 2017/1129 ar jų pagrindu priimtų teisės aktų nuostatų pažeidimą. Šiam reikalavimui įgyvendinti rinkos operatorius gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi [[latest/TAR.1B4D7B687895#^s-b20478b0c7118343d89d79f8|Lietuvos banko įstatymo 437 straipsnio 1 dalyje]] nustatyti reikalavimai. ^s-0131ea0b44aa91e80178ad4f
+5. Rinkos operatorius turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų jo darbuotojams specialiu, nepriklausomu ir autonomišku kanalu rinkos operatoriaus vadovams arba kitiems įgaliotiems asmenims pranešti apie padarytą ar galimą šio įstatymo, Reglamento (ES) Nr. 600/2014, [Reglamento (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) ar jų pagrindu priimtų teisės aktų nuostatų pažeidimą. Šiam reikalavimui įgyvendinti rinkos operatorius gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi [[latest/TAR.1B4D7B687895#^s-b20478b0c7118343d89d79f8|Lietuvos banko įstatymo 437 straipsnio 1 dalyje]] nustatyti reikalavimai. ^s-0131ea0b44aa91e80178ad4f
 Straipsnio dalies pakeitimai:
 Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 
@@ -3818,7 +3818,7 @@ Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 1) taikyti tinkamas priemones ir procedūras, skirtas nustatyti ir valdyti situacijoms, galinčioms sukelti neigiamų padarinių reguliuojamos rinkos veikimui ar jos dalyviams, taip pat interesų konfliktus tarp reguliuojamos rinkos, jos akcininkų ar rinkos operatoriaus ir patikimo reguliuojamos rinkos veikimo, ypač tais atvejais, kai tokie interesų konfliktai galėtų sukelti neigiamų padarinių reguliuojamai rinkai atliekant priežiūros institucijos pavestas funkcijas; ^s-b8f953a2c45116813bf55a76
 
 
-2) taikyti tinkamas priemones rizikai valdyti, įskaitant informacinių ir ryšių technologijų rizikos valdymo priemones, nustatytas Reglamento (ES) 2022/2554 II skyriuje, naudoti priemones ir sistemas reikšmingai veiklos rizikai nustatyti ir taikyti veiksmingas priemones potencialiai rizikai sumažinti; ^s-9db8f7b2de2f24134413dfa0
+2) taikyti tinkamas priemones rizikai valdyti, įskaitant informacinių ir ryšių technologijų rizikos valdymo priemones, nustatytas [Reglamento (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) II skyriuje, naudoti priemones ir sistemas reikšmingai veiklos rizikai nustatyti ir taikyti veiksmingas priemones potencialiai rizikai sumažinti; ^s-9db8f7b2de2f24134413dfa0
 Straipsnio punkto pakeitimai:
 Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 
@@ -3876,7 +3876,7 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 1) [[#^s-52ee0640f4d830aa3fae3f63|šio straipsnio 2 dalyje]] nurodytą pradinį kapitalą; ^s-88d8f94c5f5610371624d5b3
 
 
-2) vieną ketvirtadalį reguliuojamos rinkos operatoriaus praėjusių metų pridėtinių išlaidų sumos. Pridėtinės išlaidos apskaičiuojamos Reglamento (ES) 575/2013 [[#^s-4e9ce0087999dfeb65bed0f2|97 straipsnyje]] ir 2014 m. rugsėjo 4 d. Komisijos deleguotojo reglamento (ES) 2015/488, kuriuo iš dalies keičiamos Deleguotojo reglamento (ES) Nr. 241/2014 nuostatos dėl įmonių nuosavų lėšų, nustatomų pagal pastoviąsias pridėtines išlaidas, reikalavimų, nustatyta tvarka. ^s-2d5beae397a116d5873fe30a
+2) vieną ketvirtadalį reguliuojamos rinkos operatoriaus praėjusių metų pridėtinių išlaidų sumos. Pridėtinės išlaidos apskaičiuojamos Reglamento (ES) 575/2013 [[#^s-4e9ce0087999dfeb65bed0f2|97 straipsnyje]] ir 2014 m. rugsėjo 4 d. Komisijos deleguotojo [reglamento (ES) 2015/488](https://eur-lex.europa.eu/eli/reg/2015/488/oj), kuriuo iš dalies keičiamos Deleguotojo reglamento (ES) Nr. 241/2014 nuostatos dėl įmonių nuosavų lėšų, nustatomų pagal pastoviąsias pridėtines išlaidas, reikalavimų, nustatyta tvarka. ^s-2d5beae397a116d5873fe30a
 Straipsnio punkto pakeitimai:
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 
@@ -3938,7 +3938,7 @@ PREKYBA REGULIUOJAMOJE RINKOJE. SKAIDRUMO REIKALAVIMAI
 6. Reguliuojamoje rinkoje turi būti priemonių, leidžiančių nuolat stebėti, ar į prekybą reguliuojamoje rinkoje įtraukta finansinė priemonė atitinka konkrečiam finansinių priemonių tipui nustatytus įtraukimo į prekybą reguliuojamoje rinkoje reikalavimus. ^s-641580d96032d555915e8470
 
 
-7. Perleidžiamieji vertybiniai popieriai, kurie buvo įtraukti į prekybą reguliuojamoje rinkoje, gali būti papildomai įtraukiami į prekybą kitose reguliuojamose rinkose, neatsižvelgiant į tai, ar yra šių vertybinių popierių emitento sutikimas dėl tokio įtraukimo, jeigu laikomasi teisės aktų, nustatančių perleidžiamųjų vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje, reikalavimų. Vertybinių popierių emitentas turi būti informuojamas, kad jo išleistais vertybiniais popieriais prekiaujama šioje reguliuojamoje rinkoje. Emitentas neturi pareigos tiesiogiai pateikti reguliuojamai rinkai šio straipsnio 3 ir [[#^s-6fea17810b792b2f4fd8bdd8|4 dalyse]] nurodytos informacijos, jeigu vertybiniai popieriai buvo įtraukti į prekybą šioje reguliuojamoje rinkoje be jų emitento sutikimo. ^s-6a8b59f17680bd5447e5a645
+7. Perleidžiamieji vertybiniai popieriai, kurie buvo įtraukti į prekybą reguliuojamoje rinkoje, gali būti papildomai įtraukiami į prekybą kitose reguliuojamose rinkose, neatsižvelgiant į tai, ar yra šių vertybinių popierių emitento sutikimas dėl tokio įtraukimo, jeigu laikomasi teisės aktų, nustatančių perleidžiamųjų vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje, reikalavimų. Vertybinių popierių emitentas turi būti informuojamas, kad jo išleistais vertybiniais popieriais prekiaujama šioje reguliuojamoje rinkoje. Emitentas neturi pareigos tiesiogiai pateikti reguliuojamai rinkai šio straipsnio [[#^s-41621e7c29bb9e64327181f0|3]] ir [[#^s-6fea17810b792b2f4fd8bdd8|4]] dalyse nurodytos informacijos, jeigu vertybiniai popieriai buvo įtraukti į prekybą šioje reguliuojamoje rinkoje be jų emitento sutikimo. ^s-6a8b59f17680bd5447e5a645
 
 
 
@@ -3948,19 +3948,19 @@ PREKYBA REGULIUOJAMOJE RINKOJE. SKAIDRUMO REIKALAVIMAI
 1. Nepažeidžiant šiame įstatyme nustatytos priežiūros institucijos teisės duoti privalomą nurodymą sustabdyti arba nutraukti prekybą finansine priemone, rinkos operatorius turi teisę sustabdyti arba nutraukti prekybą finansine priemone savo administruojamoje reguliuojamoje rinkoje, jeigu finansinė priemonė nebetenkina reguliuojamos rinkos taisyklėse nustatytų reikalavimų, išskyrus atvejus, kai prekybos sustabdymas arba nutraukimas galėtų padaryti didelę žalą investuotojų interesams arba sklandžiam rinkos veikimui. ^s-516f1cf0d1752e8d8f784b67
 
 
-2. Rinkos operatorius, kuris sustabdo arba nutraukia prekybą finansine priemone, taip pat turi sustabdyti arba nutraukti prekybą šio įstatymo [[#^s-bd957f5b69326a7887eb58d6|3 straipsnio 15 dalies]] 4–10 punktuose nurodytomis išvestinėmis finansinėmis priemonėmis, kurios yra susijusios su ta finansine priemone arba sudarytos jos pagrindu, kai tai būtina siekiant sustabdyti arba nutraukti prekybą pagrindine finansine priemone. ^s-d464949adcb1211acc3020cd
+2. Rinkos operatorius, kuris sustabdo arba nutraukia prekybą finansine priemone, taip pat turi sustabdyti arba nutraukti prekybą šio įstatymo [[#^s-bd957f5b69326a7887eb58d6|3 straipsnio 15 dalies]] [[#^s-b258a760911fb8393b8ac7ad|4]]–[[#^s-e0d6a88ed5e696004aaeda0d|10]] punktuose nurodytomis išvestinėmis finansinėmis priemonėmis, kurios yra susijusios su ta finansine priemone arba sudarytos jos pagrindu, kai tai būtina siekiant sustabdyti arba nutraukti prekybą pagrindine finansine priemone. ^s-d464949adcb1211acc3020cd
 
 
 3. Rinkos operatorius, kuris sustabdo ar nutraukia prekybą finansine priemone arba [[#^s-d464949adcb1211acc3020cd|šio straipsnio 2 dalyje]] nurodytomis išvestinėmis finansinėmis priemonėmis, privalo šį sprendimą paskelbti viešai ir perduoti su šiuo sprendimu susijusią informaciją priežiūros institucijai. ^s-f5874b3516ba82614e589048
 
 
-4. Priežiūros institucija, nustačiusi, kad Lietuvos Respublikoje sustabdyta arba nutraukta prekyba finansine priemone, nurodo kitoms Lietuvos Respublikoje veikiančioms reguliuojamoms rinkoms, daugiašalėms prekybos sistemoms, organizuotos prekybos sistemoms ir sisteminę prekybą vykdančioms finansų maklerio įmonėms, kuriose prekiaujama ta pačia finansine priemone ar [[#^s-d464949adcb1211acc3020cd|šio straipsnio 2 dalyje]] nurodytomis išvestinėmis finansinėmis priemonėmis, sustabdyti arba nutraukti prekybą ta finansine priemone ar išvestinėmis finansinėmis priemonėmis, kai prekyba sustabdoma arba nutraukiama dėl įtariamo piktnaudžiavimo rinka, perėmimo pasiūlymo arba viešai neatskleistos informacijos apie emitentą ar finansinę priemonę nepaskelbimo pažeidžiant Reglamento (ES) Nr. 596/2014 7 ir [[#^s-3bf1926a20dcd5dd95b9c89a|17 straipsnius]], išskyrus atvejus, kai toks prekybos sustabdymas ar nutraukimas galėtų padaryti didelę žalą investuotojų interesams arba sklandžiam rinkos veikimui. ^s-2128bea0836e3ea39fcae8a7
+4. Priežiūros institucija, nustačiusi, kad Lietuvos Respublikoje sustabdyta arba nutraukta prekyba finansine priemone, nurodo kitoms Lietuvos Respublikoje veikiančioms reguliuojamoms rinkoms, daugiašalėms prekybos sistemoms, organizuotos prekybos sistemoms ir sisteminę prekybą vykdančioms finansų maklerio įmonėms, kuriose prekiaujama ta pačia finansine priemone ar [[#^s-d464949adcb1211acc3020cd|šio straipsnio 2 dalyje]] nurodytomis išvestinėmis finansinėmis priemonėmis, sustabdyti arba nutraukti prekybą ta finansine priemone ar išvestinėmis finansinėmis priemonėmis, kai prekyba sustabdoma arba nutraukiama dėl įtariamo piktnaudžiavimo rinka, perėmimo pasiūlymo arba viešai neatskleistos informacijos apie emitentą ar finansinę priemonę nepaskelbimo pažeidžiant Reglamento (ES) Nr. 596/2014 [[#^s-8b837945108cc488c27cf6b5|7]] ir [[#^s-3bf1926a20dcd5dd95b9c89a|17]] straipsnius, išskyrus atvejus, kai toks prekybos sustabdymas ar nutraukimas galėtų padaryti didelę žalą investuotojų interesams arba sklandžiam rinkos veikimui. ^s-2128bea0836e3ea39fcae8a7
 
 
 5. Jeigu priežiūros institucija reikalauja sustabdyti ar nutraukti prekybą finansine priemone arba [[#^s-d464949adcb1211acc3020cd|šio straipsnio 2 dalyje]] nurodytomis išvestinėmis finansinėmis priemonėmis, toks priežiūros institucijos sprendimas turi būti nedelsiant viešai paskelbtas. Apie šį sprendimą priežiūros institucija praneša Europos vertybinių popierių ir rinkų institucijai ir kitų valstybių narių priežiūros institucijoms. ^s-a527cab10d2db1fac684718b
 
 
-6. Priežiūros institucija, iš kitos valstybės narės priežiūros institucijos gavusi [[#^s-a527cab10d2db1fac684718b|šio straipsnio 5 dalyje]] nurodytą informaciją, nurodo savo prižiūrimoms reguliuojamoms rinkoms, daugiašalėms prekybos sistemoms, organizuotos prekybos sistemoms ir sisteminę prekybą vykdančioms finansų maklerio įmonėms, kuriose prekiaujama ta pačia finansine priemone arba [[#^s-d464949adcb1211acc3020cd|šio straipsnio 2 dalyje]] nurodytomis išvestinėmis finansinėmis priemonėmis, taip pat sustabdyti arba nutraukti prekybą ta finansine priemone ar išvestinėmis finansinėmis priemonėmis, kai prekyba sustabdoma arba nutraukiama dėl įtariamo piktnaudžiavimo rinka, perėmimo pasiūlymo arba viešai neatskleistos informacijos apie emitentą ar finansinę priemonę nepaskelbimo pažeidžiant Reglamento (ES) Nr. 596/2014 7 ir [[#^s-3bf1926a20dcd5dd95b9c89a|17 straipsnius]], išskyrus atvejus, kai toks prekybos sustabdymas ar nutraukimas galėtų daryti didelę žalą investuotojų interesams arba sklandžiam rinkos veikimui. ^s-88d01ec700d1b70d6400a0fe
+6. Priežiūros institucija, iš kitos valstybės narės priežiūros institucijos gavusi [[#^s-a527cab10d2db1fac684718b|šio straipsnio 5 dalyje]] nurodytą informaciją, nurodo savo prižiūrimoms reguliuojamoms rinkoms, daugiašalėms prekybos sistemoms, organizuotos prekybos sistemoms ir sisteminę prekybą vykdančioms finansų maklerio įmonėms, kuriose prekiaujama ta pačia finansine priemone arba [[#^s-d464949adcb1211acc3020cd|šio straipsnio 2 dalyje]] nurodytomis išvestinėmis finansinėmis priemonėmis, taip pat sustabdyti arba nutraukti prekybą ta finansine priemone ar išvestinėmis finansinėmis priemonėmis, kai prekyba sustabdoma arba nutraukiama dėl įtariamo piktnaudžiavimo rinka, perėmimo pasiūlymo arba viešai neatskleistos informacijos apie emitentą ar finansinę priemonę nepaskelbimo pažeidžiant Reglamento (ES) Nr. 596/2014 [[#^s-8b837945108cc488c27cf6b5|7]] ir [[#^s-3bf1926a20dcd5dd95b9c89a|17]] straipsnius, išskyrus atvejus, kai toks prekybos sustabdymas ar nutraukimas galėtų daryti didelę žalą investuotojų interesams arba sklandžiam rinkos veikimui. ^s-88d01ec700d1b70d6400a0fe
 
 
 7. Priežiūros institucija, gavusi [[#^s-88d01ec700d1b70d6400a0fe|šio straipsnio 6 dalyje]] nurodytą informaciją, apie priimtą sprendimą informuoja Europos vertybinių popierių ir rinkų instituciją ir kitų valstybių narių priežiūros institucijas, taip pat pateikia sprendimo paaiškinimą, jeigu priimtas sprendimas nestabdyti arba nenutraukti prekybos finansine priemone arba [[#^s-d464949adcb1211acc3020cd|šio straipsnio 2 dalyje]] nurodytomis išvestinėmis finansinėmis priemonėmis. ^s-293df3f17fd670dd50f2e953
@@ -4012,10 +4012,10 @@ PREKYBA REGULIUOJAMOJE RINKOJE. SKAIDRUMO REIKALAVIMAI
 4) turi pakankamus išteklius savo atliekamoms funkcijoms užtikrinti, atsižvelgiant į finansinio pobūdžio priemones ir procedūras, kurios reguliuojamoje rinkoje yra nustatytos siekiant užtikrinti tinkamą atsiskaitymą už sudarytus sandorius; ^s-0d5e26c32462abc557d956d5
 
 
-5) turi teisę Lietuvos Respublikoje teikti investicines paslaugas, nurodytas šio įstatymo [[#^s-dc1e5bba9e05d789f9907380|3 straipsnio 26 dalies]] 2 ar [[#^s-536ceead056fef3a562e941c|3 punkte]]. ^s-cd95e82c8a44680b2191d942
+5) turi teisę Lietuvos Respublikoje teikti investicines paslaugas, nurodytas šio įstatymo [[#^s-dc1e5bba9e05d789f9907380|3 straipsnio 26 dalies]] [[#^s-f7dacfa6f6f54aa00ac00d35|2]] ar [[#^s-4a9bc3694aa777528669ae08|3]] punkte. ^s-cd95e82c8a44680b2191d942
 
 
-4. Reguliuojamos rinkos nariai neprivalo vienas kito atžvilgiu laikytis šio įstatymo 29, 30, 31, 33 ir [[#^s-4315017a8a90f827af671f15|34 straipsniuose]] nustatytų pareigų dėl toje reguliuojamoje rinkoje sudaromų sandorių. Tačiau reguliuojamos rinkos nariai privalo laikytis šio įstatymo 29, 30, 31, 33 ir [[#^s-4315017a8a90f827af671f15|34 straipsniuose]] nustatytų reikalavimų, taikomų klientams, kai, veikdami savo klientų vardu, vykdo jų pavedimus toje reguliuojamoje rinkoje. ^s-ed84608f9a0c824ef22fdeef
+4. Reguliuojamos rinkos nariai neprivalo vienas kito atžvilgiu laikytis šio įstatymo [[#^s-aed983dc83eb9af799847e25|29]], [[#^s-04f30d7da338e3bc5d04bb28|30]], [[#^s-c07a062a6941b9fda4de5a2d|31]], [[#^s-35fdea57b48f385fd053d94f|33]] ir [[#^s-4315017a8a90f827af671f15|34]] straipsniuose nustatytų pareigų dėl toje reguliuojamoje rinkoje sudaromų sandorių. Tačiau reguliuojamos rinkos nariai privalo laikytis šio įstatymo [[#^s-aed983dc83eb9af799847e25|29]], [[#^s-04f30d7da338e3bc5d04bb28|30]], [[#^s-c07a062a6941b9fda4de5a2d|31]], [[#^s-35fdea57b48f385fd053d94f|33]] ir [[#^s-4315017a8a90f827af671f15|34]] straipsniuose nustatytų reikalavimų, taikomų klientams, kai, veikdami savo klientų vardu, vykdo jų pavedimus toje reguliuojamoje rinkoje. ^s-ed84608f9a0c824ef22fdeef
 
 
 5. Narystę reguliuojamoje rinkoje ir prieigą prie jos reglamentuojančiose taisyklėse turi būti numatyta galimybė finansų maklerio įmonėms ir kredito įstaigoms tapti tiesioginiais ar nutolusiais reguliuojamos rinkos nariais. ^s-e5518aa1d281237ad2a0bfbc
@@ -4058,7 +4058,7 @@ PREKYBA REGULIUOJAMOJE RINKOJE. SKAIDRUMO REIKALAVIMAI
 3) ginčų, kylančių dėl reguliuojamoje rinkoje sudaromų sandorių, sprendimo būdus. ^s-c530cbba7185d86d3654a861
 
 
-3. Reguliuojamose rinkose turi būti nustatyta akcijų, depozitoriumo pakvitavimų, biržoje prekiaujamų fondų, sertifikatų ir kitų panašių finansinių priemonių, taip pat kitų finansinių priemonių, kurių kainos kitimo žingsnių dydį reguliuoja Europos Sąjungos teisės aktai, kainos kitimo žingsnio taikymo tvarka. Dėl kainos kitimo žingsnio taikymo reguliuojamose rinkose nedraudžiama didelės apimties pavedimus, kaip jie suprantami pagal 2016 m. liepos 14 d. Komisijos deleguotąjį reglamentą (ES) 2017/587, kuriuo Europos Parlamento ir Tarybos reglamentas (ES) Nr. 600/2014 dėl finansinių priemonių rinkų papildomas techniniais reguliavimo standartais, susijusiais su prekybos vietoms ir investicinėms įmonėms taikomais skaidrumo reikalavimais dėl akcijų, depozitoriumo pakvitavimų, biržinių fondų, sertifikatų ir kitų panašių finansinių priemonių ir su pareiga tam tikrų akcijų sandorius vykdyti prekybos vietoje arba per sistemingai sandorius savo viduje sudarantį tarpininką, nustatyti pagal siūlomų pirkimo ir pardavimo kainų vidurkį. ^s-7a5f6824fedb7ef9e9484070
+3. Reguliuojamose rinkose turi būti nustatyta akcijų, depozitoriumo pakvitavimų, biržoje prekiaujamų fondų, sertifikatų ir kitų panašių finansinių priemonių, taip pat kitų finansinių priemonių, kurių kainos kitimo žingsnių dydį reguliuoja Europos Sąjungos teisės aktai, kainos kitimo žingsnio taikymo tvarka. Dėl kainos kitimo žingsnio taikymo reguliuojamose rinkose nedraudžiama didelės apimties pavedimus, kaip jie suprantami pagal 2016 m. liepos 14 d. Komisijos deleguotąjį [reglamentą (ES) 2017/587](https://eur-lex.europa.eu/eli/reg/2017/587/oj), kuriuo Europos Parlamento ir Tarybos reglamentas (ES) Nr. 600/2014 dėl finansinių priemonių rinkų papildomas techniniais reguliavimo standartais, susijusiais su prekybos vietoms ir investicinėms įmonėms taikomais skaidrumo reikalavimais dėl akcijų, depozitoriumo pakvitavimų, biržinių fondų, sertifikatų ir kitų panašių finansinių priemonių ir su pareiga tam tikrų akcijų sandorius vykdyti prekybos vietoje arba per sistemingai sandorius savo viduje sudarantį tarpininką, nustatyti pagal siūlomų pirkimo ir pardavimo kainų vidurkį. ^s-7a5f6824fedb7ef9e9484070
 Straipsnio dalies pakeitimai:
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
 
@@ -4099,7 +4099,7 @@ Priežiūros institucija sudaro Lietuvos Respublikoje veikiančių reguliuojamų
 ### 70 straipsnis. Sistemų atsparumas, sistemų sustabdymas ir elektroninė prekyba ^s-10736acdce1ea3220090879a
 
 
-1. Reguliuojamoje rinkoje turi būti nustatytas ir palaikomas skaitmeninės veiklos atsparumas pagal Reglamento (ES) 2022/2554 II skyriuje nustatytus reikalavimus siekiant užtikrinti, kad reguliuojamos rinkos prekybos sistemos būtų atsparios, pakankamai pajėgios susidoroti su didžiausiais pavedimų ir pranešimų kiekiais, galėtų užtikrinti tvarkingą prekybą esant itin dideliam rinkos spaudimui, būtų visapusiškai patikrintos siekiant užtikrinti šių reikalavimų laikymąsi ir jose būtų taikomos veiksmingos veiklos tęstinumo priemonės, įskaitant informacinių ir ryšių technologijų veiklos tęstinumo politiką ir planus bei informacinių ir ryšių technologijų reagavimo ir veiklos atkūrimo planus, parengtus pagal Reglamento (ES) 2022/2554 [[#^s-3d2729063370dddc06643976|11 straipsnį]], siekiant užtikrinti paslaugų tęstinumą, jeigu įvyktų bet koks prekybos sistemų gedimas. ^s-fb613caeab2e966a17a9a643
+1. Reguliuojamoje rinkoje turi būti nustatytas ir palaikomas skaitmeninės veiklos atsparumas pagal [Reglamento (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) II skyriuje nustatytus reikalavimus siekiant užtikrinti, kad reguliuojamos rinkos prekybos sistemos būtų atsparios, pakankamai pajėgios susidoroti su didžiausiais pavedimų ir pranešimų kiekiais, galėtų užtikrinti tvarkingą prekybą esant itin dideliam rinkos spaudimui, būtų visapusiškai patikrintos siekiant užtikrinti šių reikalavimų laikymąsi ir jose būtų taikomos veiksmingos veiklos tęstinumo priemonės, įskaitant informacinių ir ryšių technologijų veiklos tęstinumo politiką ir planus bei informacinių ir ryšių technologijų reagavimo ir veiklos atkūrimo planus, parengtus pagal [Reglamento (ES) 2022/2554 11 straipsnį](https://eur-lex.europa.eu/eli/reg/2022/2554/art_11/oj), siekiant užtikrinti paslaugų tęstinumą, jeigu įvyktų bet koks prekybos sistemų gedimas. ^s-fb613caeab2e966a17a9a643
 Straipsnio dalies pakeitimai:
 Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 
@@ -4138,13 +4138,13 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 7. Reguliuojama rinka privalo pateikti nuoseklią ir palyginamą informaciją apie prekybos sustabdymo parametrus ir visus reikšmingus šių parametrų pokyčius priežiūros institucijai. Šią informaciją priežiūros institucija praneša Europos vertybinių popierių ir rinkų institucijai. Kai reguliuojama rinka ypač svarbi tos finansinės priemonės likvidumui, laikinai sustabdžius prekybą bet kurioje valstybėje narėje, toje prekybos vietoje turi būti įdiegtos būtinos sistemos ir procedūros, reikalingos priežiūros institucijoms informuoti, kad jos galėtų derinti atsakomuosius veiksmus visoje rinkoje ir nustatyti, ar derėtų laikinai sustabdyti prekybą kitose prekybos vietose, kuriose prekiaujama finansine priemone, kol prekyba bus atnaujinta pradinėje rinkoje. ^s-5a6867c3ad241116a8be6587
 
 
-71. Rinkos operatoriaus valdomoje interneto svetainėje privaloma atskleisti prekybos sustabdymo arba apribojimo aplinkybes ir pagrindinių tuo tikslu naudotų techninių parametrų nustatymo principus. Kai reguliuojama rinka nesustabdo ir neapriboja prekybos, nepaisydama didelio kainų pokyčio, darančio poveikį finansinei priemonei ar susijusioms finansinėms priemonėms, dėl kurių vienoje ar keliose rinkose susidaro nustatytą tvarką pažeidžiančių prekybos sąlygų, priežiūros institucija gali imtis priemonių normaliam rinkų veikimui atkurti, įskaitant šio įstatymo [[#^s-e3f7274f8ac4c89edc154199|93 straipsnio 5 dalies]] 3 ir 6 punktuose ir [[#^s-6487fa1c60dd35e3fb90c55b|102 straipsnio 3 dalies]] 1 ir 19 punktuose nurodytų priežiūros įgaliojimų naudojimą. ^s-8bed7bc0f2ac05619e7b132a
+71. Rinkos operatoriaus valdomoje interneto svetainėje privaloma atskleisti prekybos sustabdymo arba apribojimo aplinkybes ir pagrindinių tuo tikslu naudotų techninių parametrų nustatymo principus. Kai reguliuojama rinka nesustabdo ir neapriboja prekybos, nepaisydama didelio kainų pokyčio, darančio poveikį finansinei priemonei ar susijusioms finansinėms priemonėms, dėl kurių vienoje ar keliose rinkose susidaro nustatytą tvarką pažeidžiančių prekybos sąlygų, priežiūros institucija gali imtis priemonių normaliam rinkų veikimui atkurti, įskaitant šio įstatymo [[#^s-e3f7274f8ac4c89edc154199|93 straipsnio 5 dalies]] [[#^s-3ec206a554116903d4d9fe66|3]] ir [[#^s-b42cd6af1cf89b38d46310e9|6]] punktuose ir [[#^s-6487fa1c60dd35e3fb90c55b|102 straipsnio 3 dalies]] [[#^s-8a98d8c19238971d30d7e9f6|1]] ir [[#^s-b0554cfd867073b1607e8e51|19]] punktuose nurodytų priežiūros įgaliojimų naudojimą. ^s-8bed7bc0f2ac05619e7b132a
 Papildyta straipsnio dalimi:
 Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
 
 
-8. Reguliuojamoje rinkoje privaloma taikyti veiksmingas sistemas, procedūras ir priemones, taip pat reikalauti, kad jos nariai arba dalyviai atliktų tinkamus algoritmų testavimus, ir sudaryti palankias sąlygas šiems testavimams atlikti, kaip numatyta Reglamento (ES) 2022/2554 II ir IV skyriuose, siekiant: ^s-e7fa408a66f266ae68e64500
+8. Reguliuojamoje rinkoje privaloma taikyti veiksmingas sistemas, procedūras ir priemones, taip pat reikalauti, kad jos nariai arba dalyviai atliktų tinkamus algoritmų testavimus, ir sudaryti palankias sąlygas šiems testavimams atlikti, kaip numatyta [Reglamento (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) II ir IV skyriuose, siekiant: ^s-e7fa408a66f266ae68e64500
 Straipsnio dalies pakeitimai:
 Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 
@@ -4164,7 +4164,7 @@ Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 11. Reguliuojamoje rinkoje turi būti nustatyti tinkami rizikos kontrolės standartai ir prekybos ribos, taikomos tiesioginei elektroninei prieigai, taip pat turi būti galimybė išskirti ir prireikus sustabdyti tiesiogine elektronine prieiga besinaudojančio asmens pavedimus ir prekybos veiklą, atskiriant juos nuo kitų reguliuojamos rinkos nario ar dalyvio pavedimų arba vykdomos prekybos veiklos. ^s-33c53e286b7374923f0aabfe
 
 
-12. Reguliuojamoje rinkoje privaloma turėti priemones, skirtas laikinai sustabdyti arba visiškai nutraukti nario arba dalyvio teisę teikti tiesioginę elektroninę prieigą klientui, kai nesilaikoma šio straipsnio 9–[[#^s-33c53e286b7374923f0aabfe|11 dalių]] reikalavimų. ^s-ae1d42c88d3fde95b9d3e4c8
+12. Reguliuojamoje rinkoje privaloma turėti priemones, skirtas laikinai sustabdyti arba visiškai nutraukti nario arba dalyvio teisę teikti tiesioginę elektroninę prieigą klientui, kai nesilaikoma šio straipsnio [[#^s-62489fdd4815d0a52bfa2093|9]]–[[#^s-33c53e286b7374923f0aabfe|11]] dalių reikalavimų. ^s-ae1d42c88d3fde95b9d3e4c8
 
 
 13. Reguliuojamos rinkos taisyklės dėl kolokacijos paslaugų turi būti skaidrios, sąžiningos ir nediskriminacinės. ^s-e8a5d13d7219fd4bb411fc6b
@@ -4369,7 +4369,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 1) išsamią pozicijų išklotinę, nurodydamos pozicijas, įgytas prekiaujant biržos prekių išvestinėmis finansinėmis priemonėmis arba apyvartiniais taršos leidimais ar su apyvartiniais taršos leidimais susietomis išvestinėmis finansinėmis priemonėmis ir sudarant ekonomiškai lygiavertes nebiržinės prekybos sutartis; ^s-c991948a7d4f39e0eb3bcdae
 
 
-2) duomenis apie savo klientus ir tų klientų klientus, kol bus pasiektas galutinis klientas, kaip nurodyta Reglamento (ES) Nr. 600/2014 [[#^s-f81a2943afd8776c3b0a8cce|26 straipsnyje]], ir Reglamento (ES) Nr. 1227/2011 [[#^s-e5bb3e444d49085978668966|8 straipsnyje]], kai tai susiję su didmeniniais energetikos produktais. ^s-554dd2d3ecf79bc456e1ca7e
+2) duomenis apie savo klientus ir tų klientų klientus, kol bus pasiektas galutinis klientas, kaip nurodyta Reglamento (ES) Nr. 600/2014 [[#^s-f81a2943afd8776c3b0a8cce|26 straipsnyje]], ir [Reglamento (ES) Nr. 1227/2011 8 straipsnyje](https://eur-lex.europa.eu/eli/reg/1227/2011/art_8/oj), kai tai susiję su didmeniniais energetikos produktais. ^s-554dd2d3ecf79bc456e1ca7e
 
 
 Straipsnio dalies pakeitimai:
@@ -4495,7 +4495,7 @@ FINANSINIŲ PRIEMONIŲ APSKAITA
 2. Emitentas arba kitas asmuo, išleidęs finansines priemones, kurios traukiamos į apskaitą aukščiausiuoju ir žemesniuoju finansinių priemonių apskaitos lygiais, privalo sudaryti sutartį su sąskaitų tvarkytoju arba centriniu depozitoriumu dėl finansinių priemonių sąskaitos, kurioje įrašai daromi šio įstatymo [[#^s-f3d32ec1d28aac79d5246436|87 straipsnio 3 dalies 1 punkte]] nustatyta tvarka, atidarymo, tvarkymo ir uždarymo. Jeigu ši sutartis yra nesudaryta ar nutraukiama, emitentas arba kitas finansines priemones išleidęs asmuo privalo nedelsdamas, bet ne vėliau kaip per 3 darbo dienas, sudaryti sutartį su kitu sąskaitų tvarkytoju arba centriniu depozitoriumu. Už tokios sutarties sudarymą yra atsakingas emitento arba kito finansines priemones išleidusio asmens valdymo organas. ^s-8563fb9b5df9aab4f4020c14
 
 
-3. Finansinių priemonių sąskaitas, kuriose įrašai daromi šio įstatymo [[#^s-f3d32ec1d28aac79d5246436|87 straipsnio 3 dalies 1 punkte]] nustatyta tvarka, atidaro ir tvarko centrinis depozitoriumas. Finansinių priemonių sąskaitas, kuriose įrašai daromi šio įstatymo [[#^s-52608bd2c14c13f1008fa219|87 straipsnio 3 dalies]] 2–5 punktuose ir [[#^s-45a6619ce1ad518a4ea574a6|7 dalyje]] nustatyta tvarka, atidaro ir tvarko sąskaitų tvarkytojai. ^s-fe7ff74f69d4972465d72716
+3. Finansinių priemonių sąskaitas, kuriose įrašai daromi šio įstatymo [[#^s-f3d32ec1d28aac79d5246436|87 straipsnio 3 dalies 1 punkte]] nustatyta tvarka, atidaro ir tvarko centrinis depozitoriumas. Finansinių priemonių sąskaitas, kuriose įrašai daromi šio įstatymo [[#^s-52608bd2c14c13f1008fa219|87 straipsnio 3 dalies]] [[#^s-b39bed77481c30a51580861c|2]]–[[#^s-4ececac5e287f1d8c3c6cabd|5]] punktuose ir [[#^s-45a6619ce1ad518a4ea574a6|7 dalyje]] nustatyta tvarka, atidaro ir tvarko sąskaitų tvarkytojai. ^s-fe7ff74f69d4972465d72716
 
 
 4. Finansinių priemonių sąskaitos, kuriose daromi šio įstatymo [[#^s-4ececac5e287f1d8c3c6cabd|87 straipsnio 3 dalies 5 punkte]] ar 7 dalies 1 punkte nustatyti įrašai, atidaromos ir tvarkomos sutarties tarp sąskaitų tvarkytojo ir šios finansinių priemonių sąskaitos savininko pagrindu. ^s-07d9a501663b74d86ba33562
@@ -4507,7 +4507,7 @@ FINANSINIŲ PRIEMONIŲ APSKAITA
 1) įrašai, nurodyti šio įstatymo [[#^s-4ececac5e287f1d8c3c6cabd|87 straipsnio 3 dalies 5 punkte]] ar 7 dalies 1 punkte, yra nuosavybės teisės įrodymas, todėl juos darant privalo būti aiškiai nurodyti finansinių priemonių savininkai ir į jų vardu atidarytų sąskaitų apskaitą įtrauktos finansinės priemonės. Sąskaitų tvarkytojai, tvarkantys finansinių priemonių sąskaitas, kuriose daromi šio įstatymo [[#^s-4ececac5e287f1d8c3c6cabd|87 straipsnio 3 dalies 5 punkte]] ar 7 dalies 1 punkte nurodyti įrašai, privalo šių sąskaitų turėtojų prašymu pateikti šių sąskaitų išrašus. Su šiose sąskaitose esančiomis finansinėmis priemonėmis susijusios operacijos daromos vadovaujantis pavedimais, investiciniais sprendimais, finansinių priemonių perleidimo sutartimis ir kitais teisėtais pagrindais. Be savininko sutikimo įrašai šiame punkte nurodytose finansinių priemonių sąskaitose gali būti daromi centrinio depozitoriumo nustatyta tvarka atitaisant klaidas. Sąskaitų tvarkytojai privalo saugoti visus dokumentus, kurių pagrindu buvo padaryti įrašai žemesniojo finansinių priemonių apskaitos lygio finansinių priemonių sąskaitose; ^s-e2b330f54075e1525d9382f8
 
 
-2) įrašai, tvarkomi šio įstatymo [[#^s-52608bd2c14c13f1008fa219|87 straipsnio 3 dalies]] 2–5 punktuose ir 7 dalies 2 punkte nustatyta tvarka, užtikrina administracinį klientų atskyrimą, tačiau nėra nuosavybės teisės įrodymas. ^s-e02de100be1f98bed86b4142
+2) įrašai, tvarkomi šio įstatymo [[#^s-52608bd2c14c13f1008fa219|87 straipsnio 3 dalies]] [[#^s-b39bed77481c30a51580861c|2]]–[[#^s-4ececac5e287f1d8c3c6cabd|5]] punktuose ir 7 dalies 2 punkte nustatyta tvarka, užtikrina administracinį klientų atskyrimą, tačiau nėra nuosavybės teisės įrodymas. ^s-e02de100be1f98bed86b4142
 
 
 6. Vykdydamas bet kokią su finansinėmis priemonėmis, esančiomis finansinių priemonių sąskaitose, kuriose įrašai daromi šio įstatymo [[#^s-4ececac5e287f1d8c3c6cabd|87 straipsnio 3 dalies 5 punkte]] ar 7 dalies 1 punkte nustatyta tvarka, susijusią operaciją sąskaitų tvarkytojas privalo patikrinti, kad sandorį sudarytų įgaliotos šalys ir sandoris atitiktų tų finansinių priemonių perleidimui keliamus reikalavimus. Finansinių priemonių perleidimo sutartyje, kuri pateikiama sąskaitų tvarkytojams, šalys turi nurodyti bendrovės, kurios finansinės priemonės perleidžiamos, pavadinimą, teisinę formą, kodą, buveinę, perleidžiamų finansinių priemonių rūšį ir skaičių, taip pat kitus teisės aktuose, reglamentuojančiuose finansinių priemonių perleidimą, nurodytus duomenis. Sąskaitų tvarkytojas privalo atsisakyti daryti įrašus finansinių priemonių perleidėjo ir įgijėjo finansinių priemonių sąskaitose, kuriose įrašai daromi šio įstatymo [[#^s-4ececac5e287f1d8c3c6cabd|87 straipsnio 3 dalies 5 punkte]] ar 7 dalies 1 punkte nustatyta tvarka, jeigu sutartyje nėra bent vieno iš šioje dalyje nurodytų duomenų. ^s-0646b52c0c277efd47b9f611
@@ -4576,10 +4576,10 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 8. Sąskaitų tvarkytojas, kuris tvarko finansinių priemonių sąskaitas, kuriose įrašai daromi šio įstatymo [[#^s-4ececac5e287f1d8c3c6cabd|87 straipsnio 3 dalies 5 punkte]] ar 7 dalies 1 punkte nustatyta tvarka, pagal finansinių priemonių savininko, kurio finansinių priemonių sąskaitas jis tvarko, nurodymus turi nedelsdamas perduoti emitentui, kurio finansinės priemonės yra įtrauktos į prekybą reguliuojamoje rinkoje, iš finansinių priemonių savininko gautą informaciją, susijusią su jam priklausančiomis turtinėmis ir neturtinėmis teisėmis, kurias jam suteikia nuosavybės teise priklausančios finansinės priemonės ir kuriomis gali naudotis visi tos pačios klasės akcijų savininkai. Sąskaitų tvarkytojas turi teisę šią pareigą įgyvendinti per centrinį depozitoriumą. ^s-0f934982624e46cc0c321792
 
 
-9. Kai šio straipsnio 6 ir [[#^s-0f934982624e46cc0c321792|8 dalyse]] nustatytais atvejais perduodant informaciją per sąskaitų tvarkytoją yra daugiau negu vienas sąskaitų tvarkytojas (sąskaitų tvarkytojų grandinė), bet kuris sąskaitų tvarkytojas nedelsdamas perduoda informaciją kitam sąskaitų tvarkytojui, nebent sąskaitų tvarkytojas gali informaciją tiesiogiai perduoti emitentui, finansinių priemonių savininkui arba jo įgaliotam asmeniui. ^s-a8cd931d710aca39feba06b9
+9. Kai šio straipsnio [[#^s-f5837564787b6bde229549f3|6]] ir [[#^s-0f934982624e46cc0c321792|8]] dalyse nustatytais atvejais perduodant informaciją per sąskaitų tvarkytoją yra daugiau negu vienas sąskaitų tvarkytojas (sąskaitų tvarkytojų grandinė), bet kuris sąskaitų tvarkytojas nedelsdamas perduoda informaciją kitam sąskaitų tvarkytojui, nebent sąskaitų tvarkytojas gali informaciją tiesiogiai perduoti emitentui, finansinių priemonių savininkui arba jo įgaliotam asmeniui. ^s-a8cd931d710aca39feba06b9
 
 
-10. Perduodant šiame straipsnyje nustatytą informaciją ar pranešimus vadovaujamasi 2018 m. rugsėjo 3 d. Komisijos įgyvendinimo reglamentu (ES) 2018/1212, kuriuo, įgyvendinant Europos Parlamento ir Tarybos direktyvos 2007/36/EB nuostatas, nustatomi būtinieji akcininkų identifikavimo, informacijos perdavimo ir akcininkų naudojimosi savo teisėmis palengvinimo reikalavimai (OL 2018 L 223, p. 1). ^s-5d3643fa23d3c5e94e60e5d8
+10. Perduodant šiame straipsnyje nustatytą informaciją ar pranešimus vadovaujamasi 2018 m. rugsėjo 3 d. Komisijos įgyvendinimo [reglamentu (ES) 2018/1212](https://eur-lex.europa.eu/eli/reg/2018/1212/oj), kuriuo, įgyvendinant Europos Parlamento ir Tarybos direktyvos 2007/36/EB nuostatas, nustatomi būtinieji akcininkų identifikavimo, informacijos perdavimo ir akcininkų naudojimosi savo teisėmis palengvinimo reikalavimai (OL 2018 L 223, p. 1). ^s-5d3643fa23d3c5e94e60e5d8
 
 
 11. Centrinis depozitoriumas ir sąskaitų tvarkytojai savo interneto svetainėje privalo viešai skelbti šiame straipsnyje nurodytų teikiamų paslaugų įkainius, kiekvienos paslaugos įkainius nurodydamas atskirai. Tokie įkainiai turi būti proporcingi, nediskriminaciniai ir nustatomi atsižvelgiant į patiriamas faktines paslaugų suteikimo sąnaudas. Paslaugų, suteiktų Lietuvos Respublikoje ir tarpvalstybiniu mastu, įkainiai gali skirtis, tačiau skirtingi įkainiai turi būti pagrįsti ir atitikti paslaugų suteikimo faktinių sąnaudų skirtumą. ^s-33f9397e20d3dfe35f127980
@@ -4632,7 +4632,7 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 8. Finansinių priemonių savininkų asmens duomenys pagal šį straipsnį tvarkomi siekiant palengvinti emitentui arba kitam asmeniui, išleidusiam finansines priemones, identifikuoti jo išleistų finansinių priemonių savininkus ir užtikrinti jų teisę naudotis savo turtinėmis ir neturtinėmis teisėmis. Sąskaitų tvarkytojas, šiame straipsnyje nustatyta tvarka atskleidęs finansinių priemonių savininkų duomenis, nelaikomas pažeidusiu sutartyje, įstatyme ar kitame teisės akte nustatytą informacijos apie finansinių priemonių savininkus atskleidimo apribojimą. ^s-d7ef2e5086b2bf075e0cb33f
 
 
-9. Šiame straipsnyje nustatytos informacijos apie finansines priemones ir jų savininkus teikimui taikomos šio įstatymo [[#^s-b1a65d990298475872fa33a9|89 straipsnio]] 10 ir 11 dalių nuostatos. ^s-edd69a12292c90d4d6d52d5f
+9. Šiame straipsnyje nustatytos informacijos apie finansines priemones ir jų savininkus teikimui taikomos šio įstatymo [[#^s-b1a65d990298475872fa33a9|89 straipsnio]] [[#^s-5d3643fa23d3c5e94e60e5d8|10]] ir [[#^s-33f9397e20d3dfe35f127980|11]] dalių nuostatos. ^s-edd69a12292c90d4d6d52d5f
 
 
 Papildyta straipsniu:
@@ -4646,7 +4646,7 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 1. Centrinis depozitoriumas stebi, kaip sąskaitų tvarkytojai, kurie yra centrinio depozitoriumo dalyviai, laikosi finansinių priemonių sąskaitų tvarkymo reikalavimų, ir informuoja priežiūros instituciją apie nustatytus pažeidimus. ^s-0d4c25d37514c3fdb24343e5
 
 
-2. Centrinis depozitoriumas stebi, kaip emitentai ar kiti asmenys, išleidę finansines priemones, ar sąskaitų tvarkytojai, kurie yra centrinio depozitoriumo dalyviai, laikosi šio įstatymo 89 ir [[#^s-7871ac99d0e9a28ad75266aa|891 straipsniuose]] nustatytų reikalavimų, ir informuoja priežiūros instituciją apie nustatytus pažeidimus. ^s-317eafe2025f82d1b7e659a7
+2. Centrinis depozitoriumas stebi, kaip emitentai ar kiti asmenys, išleidę finansines priemones, ar sąskaitų tvarkytojai, kurie yra centrinio depozitoriumo dalyviai, laikosi šio įstatymo [[#^s-b1a65d990298475872fa33a9|89]] ir [[#^s-7871ac99d0e9a28ad75266aa|891]] straipsniuose nustatytų reikalavimų, ir informuoja priežiūros instituciją apie nustatytus pažeidimus. ^s-317eafe2025f82d1b7e659a7
 Papildyta straipsnio dalimi:
 Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 
@@ -4691,10 +4691,10 @@ Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
 ### 91 straipsnis. Centrinis depozitoriumas ^s-0bcbbb292a8edff63904adf3
 
 
-1. Centrinio depozitoriumo organizacinius ir veiklos reikalavimus nustato Reglamentas (ES) Nr. 909/2014 ir Reglamentas (ES) 2023/1114. ^s-821d47803a7fdc614f4e251e
+1. Centrinio depozitoriumo organizacinius ir veiklos reikalavimus nustato Reglamentas (ES) Nr. 909/2014 ir [Reglamentas (ES) 2023/1114](https://eur-lex.europa.eu/eli/reg/2023/1114/oj). ^s-821d47803a7fdc614f4e251e
 
 
-2. Centrinis depozitoriumas gali teikti kriptoturto paslaugas, kaip jos apibrėžtos Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkte, Reglamento (ES) 2023/1114 [[#^s-a0221760c43878d0b634f63a|60 straipsnyje]] nustatyta apimtimi ir tvarka. ^s-8bce59655d58d0526f94ac12
+2. Centrinis depozitoriumas gali teikti kriptoturto paslaugas, kaip jos apibrėžtos [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) 16 punkte, [Reglamento (ES) 2023/1114 60 straipsnyje](https://eur-lex.europa.eu/eli/reg/2023/1114/art_60/oj) nustatyta apimtimi ir tvarka. ^s-8bce59655d58d0526f94ac12
 
 
 Straipsnio pakeitimai:
@@ -4710,7 +4710,7 @@ PAGRINDINIŲ SANDORIO ŠALIŲ VEIKLOS IR BANKROTO PROCESO YPATUMAI
 ### 911 straipsnis. Informavimo apie šaukiamą pagrindinės sandorio šalies neeilinį visuotinį akcininkų susirinkimą ypatumai ^s-6bcc87f92f9a9841f30a15cf
 
 
-1. Pagrindinės sandorio šalies visuotinis akcininkų susirinkimas ne mažesne kaip 2/3 visų susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų dauguma gali nuspręsti, kad tuo atveju, kai, priežiūros institucijos vertinimu, tenkinamos Reglamento (ES) 2021/23 [[#^s-1d61197cd4de441c63fa5782|18 straipsnio 1 dalies]] pirmojoje pastraipoje nurodytos sąlygos ir būtina padidinti įstatinį kapitalą siekiant išvengti Reglamento (ES) 2021/23 [[#^s-02873015d9fdb562032879d7|22 straipsnyje]] nustatytų pertvarkymo sąlygų, pranešimui apie šaukiamą neeilinį visuotinį akcininkų susirinkimą dėl įstatinio kapitalo didinimo taikomas trumpesnis terminas, negu nustatyta Akcinių bendrovių įstatymo 26 straipsnio 4, 5 ir 6 dalyse ar 261 straipsnio 3, 4 ir 5 dalyse, arba gali nuspręsti savo įstatuose nustatyti galimybę taikyti trumpesnį pranešimo apie šaukiamą neeilinį visuotinį akcininkų susirinkimą terminą. Pranešimas apie šaukiamą neeilinį visuotinį akcininkų susirinkimą bet kokiu atveju turi būti paskelbtas likus ne mažiau kaip 10 dienų iki susirinkimo dienos. ^s-cdb6663d18ec65153ec92468
+1. Pagrindinės sandorio šalies visuotinis akcininkų susirinkimas ne mažesne kaip 2/3 visų susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų dauguma gali nuspręsti, kad tuo atveju, kai, priežiūros institucijos vertinimu, tenkinamos [Reglamento (ES) 2021/23 18 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2021/23/art_18/par_1/oj) pirmojoje pastraipoje nurodytos sąlygos ir būtina padidinti įstatinį kapitalą siekiant išvengti [Reglamento (ES) 2021/23 22 straipsnyje](https://eur-lex.europa.eu/eli/reg/2021/23/art_22/oj) nustatytų pertvarkymo sąlygų, pranešimui apie šaukiamą neeilinį visuotinį akcininkų susirinkimą [dėl įstatinio kapitalo didinimo taikomas trumpesnis terminas, negu nustatyta Akcinių bendrovių įstatymo 26 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) [4](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8), [5](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) ir [6](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) dalyse ar 261 straipsnio 3, 4 ir 5 dalyse, arba gali nuspręsti savo įstatuose nustatyti galimybę taikyti trumpesnį pranešimo apie šaukiamą neeilinį visuotinį akcininkų susirinkimą terminą. Pranešimas apie šaukiamą neeilinį visuotinį akcininkų susirinkimą bet kokiu atveju turi būti paskelbtas likus ne mažiau kaip 10 dienų iki susirinkimo dienos. ^s-cdb6663d18ec65153ec92468
 
 
 2. Kai apie šaukiamą neeilinį visuotinį akcininkų susirinkimą pranešama per trumpesnį terminą, kaip numatyta [[#^s-cdb6663d18ec65153ec92468|šio straipsnio 1 dalyje]], netaikomi Akcinių bendrovių įstatymo 21 straipsnio 1 dalies nuostatos dėl apskaitos dienos, Akcinių bendrovių įstatymo 25 straipsnio 3 dalyje nustatytas siūlymo papildyti visuotinio akcininkų susirinkimo darbotvarkę pateikimo terminas ir Akcinių bendrovių įstatymo 25 straipsnio 5 dalyje nustatyta pareiga ne vėliau kaip likus 10 dienų iki visuotinio akcininkų susirinkimo dienos pranešti akcininkams apie visuotinio akcininkų susirinkimo darbotvarkės papildymus, taip pat Akcinių bendrovių įstatymo 26 straipsnio 7 dalyje nustatytas reikalavimas gauti visų akcininkų rašytinį sutikimą norint sušaukti visuotinį akcininkų susirinkimą nesilaikant Akcinių bendrovių įstatymo 26 straipsnio 4, 5 ir 6 dalyse nustatytų terminų. ^s-d134602e6be337697b1d620d
@@ -4720,7 +4720,7 @@ PAGRINDINIŲ SANDORIO ŠALIŲ VEIKLOS IR BANKROTO PROCESO YPATUMAI
 ### 912 straipsnis. Pagrindinės sandorio šalies bankroto proceso teisinis reglamentavimas ^s-a43b12761900544ddfea77ae
 
 
-Pagrindinės sandorio šalies bankroto procesui taikomas [[latest/68f2cad098b711e9ae2e9d61b1f977b3|Lietuvos Respublikos juridinių asmenų nemokumo įstatymas]], jeigu šiame įstatyme, [[latest/TAR.779892D853B4|Finansų įstaigų įstatyme]] ir Reglamente (ES) 2021/23 nenustatyta kitaip.
+Pagrindinės sandorio šalies bankroto procesui taikomas [[latest/68f2cad098b711e9ae2e9d61b1f977b3|Lietuvos Respublikos juridinių asmenų nemokumo įstatymas]], jeigu šiame įstatyme, [[latest/TAR.779892D853B4|Finansų įstaigų įstatyme]] ir [Reglamente (ES) 2021/23](https://eur-lex.europa.eu/eli/reg/2021/23/oj) nenustatyta kitaip.
 
 
 
@@ -4823,7 +4823,7 @@ Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 
 
 
-3) atlieka priežiūros institucijai priskirtas funkcijas, nustatytas Reglamente (ES) Nr. 236/2012, Reglamente (ES) Nr. 648/2012, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 2016/1011, Reglamente (ES) 2019/2033, Reglamente (ES) 2019/2088, Reglamente (ES) 2020/852, Reglamente (ES) 2020/1503, Reglamente (ES) 2021/23 ir Reglamente (ES) 2022/858; ^s-bfc24e0157a26164e57c69cc
+3) atlieka priežiūros institucijai priskirtas funkcijas, nustatytas Reglamente (ES) Nr. 236/2012, Reglamente (ES) Nr. 648/2012, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 600/2014, [Reglamente (ES) Nr. 2016/1011](https://eur-lex.europa.eu/eli/reg/2016/1011/oj), [Reglamente (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj), [Reglamente (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj), [Reglamente (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj), [Reglamente (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj), [Reglamente (ES) 2021/23](https://eur-lex.europa.eu/eli/reg/2021/23/oj) ir [Reglamente (ES) 2022/858](https://eur-lex.europa.eu/eli/reg/2022/858/oj); ^s-bfc24e0157a26164e57c69cc
 Straipsnio punkto pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
@@ -4831,7 +4831,7 @@ Nr. XIV-1893, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08612
 
 
 
-31) atlieka Reglamento (ES) Nr. 2016/1011 23b [[#^s-e3f7274f8ac4c89edc154199|straipsnio 5 dalies]] a punkte nurodytą vertinimą; ^s-82fab26c0f22634c25526be7
+31) atlieka [Reglamento (ES) Nr. 2016/1011](https://eur-lex.europa.eu/eli/reg/2016/1011/oj) 23b [[#^s-e3f7274f8ac4c89edc154199|straipsnio 5 dalies]] a punkte nurodytą vertinimą; ^s-82fab26c0f22634c25526be7
 Papildyta straipsnio punktu:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -4861,7 +4861,7 @@ Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 2) reikalauti, kad asmenys pateiktų informaciją apie turimos biržos prekės išvestinės finansinės priemonės pozicijos dydį ir tikslą, taip pat apie turtą ir įsipareigojimus pagrindinėje rinkoje, su kuria yra susijusi biržos prekės išvestinė finansinė priemonė, ir to pagrindimo dokumentus; ^s-c181b95a9ce3788233873319
 
 
-3) apriboti asmenims galimybę sudaryti sandorius dėl biržos prekių išvestinių finansinių priemonių, įskaitant pozicijų apribojimus, taikomus pagal šio įstatymo 72 ir [[#^s-86c88b128980f21b67e544be|74 straipsnių]] nuostatas; ^s-3ec206a554116903d4d9fe66
+3) apriboti asmenims galimybę sudaryti sandorius dėl biržos prekių išvestinių finansinių priemonių, įskaitant pozicijų apribojimus, taikomus pagal šio įstatymo [[#^s-3bc6d4c2cca1b5e2fc239550|72]] ir [[#^s-86c88b128980f21b67e544be|74]] straipsnių nuostatas; ^s-3ec206a554116903d4d9fe66
 
 
 4) reikalauti, kad asmenys laikinai nutrauktų vertimąsi profesine veikla; ^s-ed7e9114dca8c47047db7a91
@@ -4876,10 +4876,10 @@ Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 7) įpareigoti asmenis atkurti iki pažeidimo buvusią padėtį; ^s-13bd17414cda3ee99a128111
 
 
-8) duoti šio įstatymo [[#^s-c1300260aae553af8385c8d9|102 straipsnio]] 3 ir 7 dalyse nustatytus privalomus nurodymus; ^s-b998f56f06eb34fc84d95f87
+8) duoti šio įstatymo [[#^s-c1300260aae553af8385c8d9|102 straipsnio]] [[#^s-6487fa1c60dd35e3fb90c55b|3]] ir [[#^s-ef6748e469b32f46e4e9dfb6|7]] dalyse nustatytus privalomus nurodymus; ^s-b998f56f06eb34fc84d95f87
 
 
-9) turėti kitokių įgaliojimų ir teisių, nustatytų [[latest/TAR.1B4D7B687895|Lietuvos banko įstatyme]], Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 596/2014, Reglamente (ES) Nr. 2015/2365, Reglamente (ES) Nr. 2016/1011, Reglamente (ES) 2019/2033, Reglamente (ES) 2019/2088, Reglamente (ES) 2020/852, Reglamente (ES) 2020/1503, Reglamente (ES) 2021/23, Reglamente (ES) 2022/858 ir jų įgyvendinamuosiuose teisės aktuose. ^s-e96909ee2a7b974dbc228863
+9) turėti kitokių įgaliojimų ir teisių, nustatytų [[latest/TAR.1B4D7B687895|Lietuvos banko įstatyme]], Reglamente (ES) Nr. 600/2014, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 909/2014, Reglamente (ES) Nr. 596/2014, [Reglamente (ES) Nr. 2015/2365](https://eur-lex.europa.eu/eli/reg/2015/2365/oj), [Reglamente (ES) Nr. 2016/1011](https://eur-lex.europa.eu/eli/reg/2016/1011/oj), [Reglamente (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj), [Reglamente (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj), [Reglamente (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj), [Reglamente (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj), [Reglamente (ES) 2021/23](https://eur-lex.europa.eu/eli/reg/2021/23/oj), [Reglamente (ES) 2022/858](https://eur-lex.europa.eu/eli/reg/2022/858/oj) ir jų įgyvendinamuosiuose teisės aktuose. ^s-e96909ee2a7b974dbc228863
 Straipsnio punkto pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
@@ -4935,10 +4935,10 @@ PRIEŽIŪROS INSTITUCIJOS BENDRADARBIAVIMAS SU KITŲ VALSTYBIŲ PRIEŽIŪROS INS
 9. Jeigu [[#^s-983eab0911a6ab98951c81ca|šio straipsnio 5 dalyje]] nurodyti veiksmai yra susiję su didmeniniais energetikos produktais, [[#^s-8768ac1331b7f18ee572e8a6|šio straipsnio 7 dalyje]] nurodyta informacija pateikiama Energetikos reguliavimo institucijų bendradarbiavimo agentūrai. ^s-0a157d8b28345928638025ef
 
 
-10. Jeigu šio straipsnio 5, 7 ir [[#^s-aa98e84467fa6bbb7eef6160|8 dalyse]] nurodyti veiksmai yra susiję su apyvartiniais taršos leidimais, priežiūros institucija turi bendradarbiauti su valstybės institucijomis ir įstaigomis, atsakingomis už neatidėliotinų sandorių ir aukcionų priežiūrą, taip pat su kompetentingomis institucijomis, registrų administratoriais ir kitomis valstybės institucijomis, prižiūrinčiais, kaip laikomasi [[latest/TAR.B77E00EAEBEB|Klimato kaitos valdymo finansinių instrumentų įstatymo]] reikalavimų. ^s-1ad9c2e0ef5d81f0cc9537c0
+10. Jeigu šio straipsnio [[#^s-983eab0911a6ab98951c81ca|5]], [[#^s-8768ac1331b7f18ee572e8a6|7]] ir [[#^s-aa98e84467fa6bbb7eef6160|8]] dalyse nurodyti veiksmai yra susiję su apyvartiniais taršos leidimais, priežiūros institucija turi bendradarbiauti su valstybės institucijomis ir įstaigomis, atsakingomis už neatidėliotinų sandorių ir aukcionų priežiūrą, taip pat su kompetentingomis institucijomis, registrų administratoriais ir kitomis valstybės institucijomis, prižiūrinčiais, kaip laikomasi [[latest/TAR.B77E00EAEBEB|Klimato kaitos valdymo finansinių instrumentų įstatymo]] reikalavimų. ^s-1ad9c2e0ef5d81f0cc9537c0
 
 
-11. Jeigu [[#^s-983eab0911a6ab98951c81ca|šio straipsnio 5 dalyje]] nurodyti veiksmai yra susiję su žemės ūkio biržos prekių išvestinėmis finansinėmis priemonėmis, priežiūros institucija turi bendradarbiauti su institucija, atsakinga už žemės ūkio biržos prekių išvestinių finansinių priemonių rinkų priežiūrą, administravimą ir reguliavimą pagal Reglamentą (ES) Nr. 1308/2013. ^s-746b9aaac6aca6b9f5cd2894
+11. Jeigu [[#^s-983eab0911a6ab98951c81ca|šio straipsnio 5 dalyje]] nurodyti veiksmai yra susiję su žemės ūkio biržos prekių išvestinėmis finansinėmis priemonėmis, priežiūros institucija turi bendradarbiauti su institucija, atsakinga už žemės ūkio biržos prekių išvestinių finansinių priemonių rinkų priežiūrą, administravimą ir reguliavimą pagal [Reglamentą (ES) Nr. 1308/2013](https://eur-lex.europa.eu/eli/reg/1308/2013/oj). ^s-746b9aaac6aca6b9f5cd2894
 
 
 12. Priežiūros institucija informuoja Europos Komisiją ir Europos vertybinių popierių ir rinkų instituciją apie bendro pobūdžio sunkumus, su kuriais susiduria Lietuvos Respublikoje įsteigtos finansų maklerio įmonės, įsisteigdamos trečiosiose valstybėse ar jose teikdamos investicines paslaugas. ^s-d0dabe3c1af7e6c62de3c3be
@@ -4997,7 +4997,7 @@ PRIEŽIŪROS INSTITUCIJOS BENDRADARBIAVIMAS SU KITŲ VALSTYBIŲ PRIEŽIŪROS INS
 6. Priežiūros institucija gali pranešti Europos vertybinių popierių ir rinkų institucijai apie atvejus, kai priežiūros institucijos kreipimasis į kitos valstybės narės priežiūros instituciją dėl bendradarbiavimo pagal šio įstatymo [[#^s-03cc58c7825d6bf7a8d13799|96 straipsnį]] arba prašymas keistis informacija pagal šį straipsnį buvo atmestas arba dėl jo nebuvo imtasi veiksmų per protingą laikotarpį. ^s-6917a0b31b2281917472afdc
 
 
-7. Informacija, kuria keičiamasi [[#^s-6d43bb8c17aafc112bfa5eca|šio straipsnio 1 dalies]] tikslais, vykdant finansų maklerio įmonių priežiūrą, vadovaujantis šiuo įstatymu ir Reglamentu (ES) 2019/2033, apima informaciją apie finansų maklerio įmonės valdymą ir nuosavybės struktūrą, nuosavų lėšų, koncentracijos rizikos, likvidumo reikalavimų laikymąsi, administracines ir apskaitos procedūras, vidaus kontrolės mechanizmus, kitus svarbius veiksnius, dėl kurių gali būti daromas poveikis finansų maklerio įmonės keliamai rizikai. ^s-051fb302b99aaad9889599c9
+7. Informacija, kuria keičiamasi [[#^s-6d43bb8c17aafc112bfa5eca|šio straipsnio 1 dalies]] tikslais, vykdant finansų maklerio įmonių priežiūrą, vadovaujantis šiuo įstatymu ir [Reglamentu (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj), apima informaciją apie finansų maklerio įmonės valdymą ir nuosavybės struktūrą, nuosavų lėšų, koncentracijos rizikos, likvidumo reikalavimų laikymąsi, administracines ir apskaitos procedūras, vidaus kontrolės mechanizmus, kitus svarbius veiksnius, dėl kurių gali būti daromas poveikis finansų maklerio įmonės keliamai rizikai. ^s-051fb302b99aaad9889599c9
 Papildyta straipsnio dalimi:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -5027,7 +5027,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-12. Siekdama įvertinti Reglamento (ES) 2019/2033 [[#^s-14e66b7029eb95d2c9277c7a|23 straipsnio 1 dalies]] pirmosios pastraipos c punkte nurodytą sąlygą, priežiūros institucija gali prašyti, kad tarpuskaitos nario buveinės valstybės narės kompetentinga institucija pateiktų informaciją apie garantinių įmokų modelį ir parametrus, taikomus atitinkamos finansų maklerio įmonės garantinės įmokos reikalavimui apskaičiuoti. ^s-701db8c9c12eb86ae2357706
+12. Siekdama įvertinti [Reglamento (ES) 2019/2033 23 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2019/2033/art_23/par_1/oj) pirmosios pastraipos c punkte nurodytą sąlygą, priežiūros institucija gali prašyti, kad tarpuskaitos nario buveinės valstybės narės kompetentinga institucija pateiktų informaciją apie garantinių įmokų modelį ir parametrus, taikomus atitinkamos finansų maklerio įmonės garantinės įmokos reikalavimui apskaičiuoti. ^s-701db8c9c12eb86ae2357706
 Papildyta straipsnio dalimi:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -5113,7 +5113,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 2. Auditorius taip pat privalo pranešti priežiūros institucijai apie [[#^s-3a7a9820931f5a7ab11c7855|šio straipsnio 1 dalyje]] nurodytus faktus ir aplinkybes, kurie paaiškėja atliekant įmonės, kurią sieja glaudūs ryšiai su finansų maklerio įmone, auditą. ^s-2ff2d293c8c91d1a45614107
 
 
-3. Šio straipsnio 1 ir [[#^s-2ff2d293c8c91d1a45614107|2 dalyse]] nurodytas priežiūros institucijos informavimas nelaikomas teisės aktuose ar sutartyje numatyto draudimo atskleisti konfidencialią informaciją pažeidimu, todėl nesukelia auditoriui jokių neigiamų pasekmių. ^s-211997fc66fc02092e08c707
+3. Šio straipsnio [[#^s-3a7a9820931f5a7ab11c7855|1]] ir [[#^s-2ff2d293c8c91d1a45614107|2]] dalyse nurodytas priežiūros institucijos informavimas nelaikomas teisės aktuose ar sutartyje numatyto draudimo atskleisti konfidencialią informaciją pažeidimu, todėl nesukelia auditoriui jokių neigiamų pasekmių. ^s-211997fc66fc02092e08c707
 
 
 
@@ -5165,7 +5165,7 @@ Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 5) atkurti iki finansinių priemonių rinką reglamentuojančių teisės aktų pažeidimo buvusią padėtį; ^s-101b41f6a8e4843a6734222c
 
 
-6) finansų maklerio įmonei turėti nuosavų lėšų, kurios viršytų šiame įstatyme ir Reglamente (ES) 2019/2033 nustatytus nuosavų lėšų reikalavimus; ^s-ae70399408e399f20a8d8923
+6) finansų maklerio įmonei turėti nuosavų lėšų, kurios viršytų šiame įstatyme ir [Reglamente (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) nustatytus nuosavų lėšų reikalavimus; ^s-ae70399408e399f20a8d8923
 Straipsnio punkto pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -5228,22 +5228,22 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 21) kai nustatoma, kad dėl pažeidimo buvo gautas pelnas ar išvengta nuostolių, nurodyti atlyginti nukentėjusiesiems padarytą žalą; ^s-f64be4040e8a820b32de4ee0
 
 
-22) nutraukti Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą; ^s-a84c35ad3d2084656f64786c
+22) nutraukti [Reglamente (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą; ^s-a84c35ad3d2084656f64786c
 
 
-221) finansų maklerio įmonei naudoti didesnius multiplikatoriaus koeficientus, kaip tai nurodyta Reglamente (ES) 2019/2033; ^s-333d47035bbb92cced893105
+221) finansų maklerio įmonei naudoti didesnius multiplikatoriaus koeficientus, kaip tai nurodyta [Reglamente (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj); ^s-333d47035bbb92cced893105
 Papildyta straipsnio punktu:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-222) sustiprinti tvarką, procesus, mechanizmus ir strategijas, įdiegtus pagal šio įstatymo 141 ir [[#^s-89450573533cf207a398cd23|16 straipsnius]]; ^s-9a414b5cdbbdd82b4c24a65e
+222) sustiprinti tvarką, procesus, mechanizmus ir strategijas, įdiegtus pagal šio įstatymo [[#^s-2cd452355a3e77b5d351ce56|141]] ir [[#^s-89450573533cf207a398cd23|16]] straipsnius; ^s-9a414b5cdbbdd82b4c24a65e
 Papildyta straipsnio punktu:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-223) per vienus metus pateikti priežiūros reikalavimų pagal šį įstatymą ir Reglamentą (ES) 2019/2033 vykdymo planą, nustatyti galutinį to plano įgyvendinimo terminą ir planą patobulinti, patikslinant jo taikymo sritį ir galutinį įgyvendinimo terminą; ^s-96b7203499658f70a7728c32
+223) per vienus metus pateikti priežiūros reikalavimų pagal šį įstatymą ir [Reglamentą (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) vykdymo planą, nustatyti galutinį to plano įgyvendinimo terminą ir planą patobulinti, patikslinant jo taikymo sritį ir galutinį įgyvendinimo terminą; ^s-96b7203499658f70a7728c32
 Papildyta straipsnio punktu:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -5293,10 +5293,10 @@ Nr. XIV-1589, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25156
 
 
 
-7. Priežiūros institucija, nustačiusi, kad finansų maklerio įmonė, kuriai taikomas šio įstatymo [[#^s-efc8d9cd090a141e7519b0d5|14 straipsnio 2 dalyje]] nurodytas reikalavimas, pažeidžia šio įstatymo, Reglamento (ES) Nr. 575/2013, Reglamento (ES) Nr. 600/2014 3, 4, 5, 6, 7, 14, 15, 16, 17, 24, 25 ir [[#^s-f81a2943afd8776c3b0a8cce|26 straipsniuose]] nustatytus reikalavimus, arba turėdama duomenų, kad artimiausiu metu dėl sparčiai blogėjančios finansinės būklės finansų maklerio įmonė juos pažeis, turi teisę finansų maklerio įmonei duoti šiuos privalomus nurodymus: ^s-ef6748e469b32f46e4e9dfb6
+7. Priežiūros institucija, nustačiusi, kad finansų maklerio įmonė, kuriai taikomas šio įstatymo [[#^s-efc8d9cd090a141e7519b0d5|14 straipsnio 2 dalyje]] nurodytas reikalavimas, pažeidžia šio įstatymo, Reglamento (ES) Nr. 575/2013, Reglamento (ES) Nr. 600/2014 [[#^s-af37e89e5229341944f6a883|3]], [[#^s-064eec473c00e49cc614d37b|4]], [[#^s-76553711369d7a2f8aaffb1b|5]], [[#^s-f39cfd8a27617a09df5201b2|6]], [[#^s-8b837945108cc488c27cf6b5|7]], [[#^s-f78bcf4a6a18f7402393db80|14]], [[#^s-6ecaddf07da1622997a18414|15]], [[#^s-89450573533cf207a398cd23|16]], [[#^s-3bf1926a20dcd5dd95b9c89a|17]], [[#^s-898d32acbc50a700fec1e391|24]], [[#^s-32d70d61cb9f6723fd5420cd|25]] ir [[#^s-f81a2943afd8776c3b0a8cce|26]] straipsniuose nustatytus reikalavimus, arba turėdama duomenų, kad artimiausiu metu dėl sparčiai blogėjančios finansinės būklės finansų maklerio įmonė juos pažeis, turi teisę finansų maklerio įmonei duoti šiuos privalomus nurodymus: ^s-ef6748e469b32f46e4e9dfb6
 
 
-1) įgyvendinti vieną ar daugiau gaivinimo plane, parengtame pagal [[latest/TAR.EBB4FD337ADE#^s-1d8698b74b10d559ff684b54|Finansinio tvarumo įstatymo 4–11 straipsnių]] nuostatas, nustatytų procedūrų ar priemonių arba gaivinimo planą atnaujinti, kai šioje dalyje nustatytų nurodymų taikymą paskatinusios aplinkybės skiriasi nuo galiojančiame gaivinimo plane nustatytų prielaidų, ir įgyvendinti vieną ar daugiau atnaujintame gaivinimo plane nustatytų procedūrų ar priemonių per priežiūros institucijos nustatytą laikotarpį, užtikrinant, kad būtų pašalintos šioje dalyje nustatytų priemonių taikymą paskatinusios aplinkybės; ^s-bc2258f53e49ac5b6112af49
+1) įgyvendinti vieną ar daugiau gaivinimo plane, parengtame pagal [[latest/TAR.EBB4FD337ADE|Finansinio tvarumo įstatymo]] [[latest/TAR.EBB4FD337ADE#^s-e59f6a0a130a7fe121b48f96|4]]–[[latest/TAR.EBB4FD337ADE#^s-1d8698b74b10d559ff684b54|11]] straipsnių nuostatas, nustatytų procedūrų ar priemonių arba gaivinimo planą atnaujinti, kai šioje dalyje nustatytų nurodymų taikymą paskatinusios aplinkybės skiriasi nuo galiojančiame gaivinimo plane nustatytų prielaidų, ir įgyvendinti vieną ar daugiau atnaujintame gaivinimo plane nustatytų procedūrų ar priemonių per priežiūros institucijos nustatytą laikotarpį, užtikrinant, kad būtų pašalintos šioje dalyje nustatytų priemonių taikymą paskatinusios aplinkybės; ^s-bc2258f53e49ac5b6112af49
 
 
 2) parengti ir įgyvendinti per priežiūros institucijos nustatytą terminą jai priimtiną finansų maklerio įmonės veiklos pakeitimo priemonių planą; ^s-8cc4684f58f33863f0a21557
@@ -5330,10 +5330,10 @@ Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 10. Priežiūros institucija, nustačiusi, kad finansų maklerio įmonė, kuriai taikomas šio įstatymo [[#^s-efc8d9cd090a141e7519b0d5|14 straipsnio 2 dalyje]] nurodytas reikalavimas, atitinka [[#^s-ef6748e469b32f46e4e9dfb6|šio straipsnio 7 dalyje]] nurodytas sąlygas, nedelsdama apie tai turi pranešti finansų sektoriaus subjektų pertvarkymo institucijai (toliau – pertvarkymo institucija). Tokiu atveju (įskaitant atvejus, kai priežiūros institucija atlieka patikrinimus pagal šį straipsnį) priežiūros institucija turi teisę gauti visą informaciją, būtiną pertvarkymo planui, parengtam pagal Finansinio tvarumo įstatymą, atnaujinti, galimam finansų maklerio įmonės pertvarkymui pasirengti ir jos turtui bei įsipareigojimams įvertinti. Priežiūros institucija šią informaciją turi pateikti pertvarkymo institucijai. ^s-bbb8f965bae725eccdd74b03
 
 
-101. Taikydama [[#^s-a206821095856bb8c9504c9c|šio straipsnio 3 dalies 15 punktą]], priežiūros institucija gali nustatyti reikalavimus finansų maklerio įmonėms teikti papildomą informaciją arba ją teikti dažniau, nei nurodyta Reglamente (ES) 2019/2033, jeigu teiktina informacija nedubliuojama ir tenkinama viena iš šių sąlygų: ^s-793d4931c744cfa243ecf7f6
+101. Taikydama [[#^s-a206821095856bb8c9504c9c|šio straipsnio 3 dalies 15 punktą]], priežiūros institucija gali nustatyti reikalavimus finansų maklerio įmonėms teikti papildomą informaciją arba ją teikti dažniau, nei nurodyta [Reglamente (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj), jeigu teiktina informacija nedubliuojama ir tenkinama viena iš šių sąlygų: ^s-793d4931c744cfa243ecf7f6
 
 
-1) taikomas vienas iš [[#^s-6f83e1b86efe2711882800d2|šio straipsnio 4 dalies]] 1 ir [[#^s-5e18d6471c8e55e736127ce4|2 punktuose]] nurodytų pagrindų; ^s-3e61f8445944c80705a532b9
+1) taikomas vienas iš [[#^s-6f83e1b86efe2711882800d2|šio straipsnio 4 dalies]] 1 ir [[#^s-5e18d6471c8e55e736127ce4|2]] punktuose nurodytų pagrindų; ^s-3e61f8445944c80705a532b9
 
 
 2) priežiūros institucijos vertinimu, būtina rinkti duomenis, kuriais būtų galima įrodyti, kad yra [[#^s-63e187d2bcba2e734c3c78f9|šio straipsnio 4 dalies 2 punkte]] nurodytas pagrindas; ^s-5e18d6471c8e55e736127ce4
@@ -5467,8 +5467,8 @@ Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
 
 
 6. Finansų maklerio įmonės, kuriai taikomas šio įstatymo [[#^s-efc8d9cd090a141e7519b0d5|14 straipsnio 2 dalyje]] nurodytas reikalavimas, kreditorių reikalavimų tenkinimui mutatis mutandis taikoma [[latest/TAR.B6B636C7384A#^s-cba352ba3e1c277b4491882b|Bankų įstatymo 87 straipsnyje]] nustatyta kreditorių reikalavimų tenkinimo eilė. ^s-b2d176ecb2cab72f9223d0d5
-TAR pastaba. [[#^s-b2d176ecb2cab72f9223d0d5|106 straipsnio 6 dalyje]] nustatyta kreditorių reikalavimų tenkinimo eilė taikoma bankroto procedūroms, pradėtoms po [[latest/7143c27055d211e9975f9c35aedfe438|įstatymo Nr. XIII-2024]] įsigaliojimo dienos (2019-04-04), išskyrus šiuos kreditorių reikalavimus:
-kreditorių reikalavimai, atsiradę dėl [[latest/TAR.B6B636C7384A#^s-fa456dfc52acaec63badab65|Lietuvos Respublikos bankų įstatymo 87 straipsnio 6 dalyje]] nurodytų ir toje dalyje nustatytus reikalavimus atitinkančių skolos priemonių, kurias finansų maklerio įmonė, kuriai taikomas [[#^s-efc8d9cd090a141e7519b0d5|Finansinių priemonių rinkų įstatymo 14 straipsnio 2 dalyje]] nurodytas reikalavimas, išleido iki [[latest/7143c27055d211e9975f9c35aedfe438|įstatymo Nr. XIII-2024]] įsigaliojimo dienos (2019-04-04), mutatis mutandis tenkinami [[latest/TAR.B6B636C7384A#^s-f866b10c19ffb1ae834fbc2d|Bankų įstatymo 87 straipsnio 5 dalyje]] nustatyta eile.
+TAR pastaba. 106 straipsnio 6 dalyje nustatyta kreditorių reikalavimų tenkinimo eilė taikoma bankroto procedūroms, pradėtoms po [[latest/7143c27055d211e9975f9c35aedfe438|įstatymo Nr. XIII-2024]] įsigaliojimo dienos (2019-04-04), išskyrus šiuos kreditorių reikalavimus:
+kreditorių reikalavimai, atsiradę [dėl Lietuvos Respublikos bankų įstatymo 87 straipsnio 6 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.E33EAA504244) nurodytų ir toje dalyje nustatytus reikalavimus atitinkančių skolos priemonių, kurias finansų maklerio įmonė, kuriai taikomas [[#^s-efc8d9cd090a141e7519b0d5|Finansinių priemonių rinkų įstatymo 14 straipsnio 2 dalyje]] nurodytas reikalavimas, išleido iki [[latest/7143c27055d211e9975f9c35aedfe438|įstatymo Nr. XIII-2024]] įsigaliojimo dienos (2019-04-04), mutatis mutandis tenkinami [[latest/TAR.B6B636C7384A#^s-f866b10c19ffb1ae834fbc2d|Bankų įstatymo 87 straipsnio 5 dalyje]] nustatyta eile.
 Papildyta straipsnio dalimi:
 Nr. XIII-2024, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05398
 
@@ -5498,10 +5498,10 @@ Nr. XIII-2024, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05398
 2. Priežiūros institucija ir kitos suinteresuotos priežiūros institucijos bendru susitarimu gali atsisakyti taikyti [[#^s-eeefcf5a3457caf4fe9136a0|šio straipsnio 1 dalies]] 3, 4 ir 5 punktuose nustatytus kriterijus, kai taikyti tuos kriterijus būtų netinkama siekiant užtikrinti veiksmingą jungtinę (konsoliduotą) priežiūrą arba alternatyviojo įmonių grupės konsolidavimo reikalavimo laikymosi priežiūrą, atsižvelgiant į konkrečias finansų maklerio įmones ir jų veiklos atitinkamose valstybėse narėse svarbą, ir jungtinei (konsoliduotai) priežiūrai arba alternatyviojo įmonių grupės konsolidavimo reikalavimo laikymosi priežiūrai atlikti gali paskirti kitą priežiūros instituciją. Šiais atvejais, prieš priimant sprendimą dėl priežiūros institucijos, atsakingos už jungtinės (konsoliduotos) priežiūros atlikimą, išrinkimo, konsultuojamasi su Europos Sąjungos patronuojančiąja investicine kontroliuojančiąja bendrove, Europos Sąjungos patronuojančiąja mišrios veiklos finansų kontroliuojančiąja įmone arba finansų maklerio įmone, turinčia didžiausią bendrą balansą. Priežiūros institucija, tapusi atsakinga už jungtinės (konsoliduotos) priežiūros atlikimą, praneša Europos Komisijai ir Europos bankininkystės institucijai apie visus tokius sprendimus. ^s-072b10a00a74b83b66a0941e
 
 
-3. Lietuvos Respublikoje susidarius kritinei situacijai, įskaitant Reglamento (ES) Nr. 1093/2010 [[#^s-e86b0fd2b30f8c87a6f8d300|18 straipsnyje]] numatytus atvejus arba neigiamus pokyčius finansų rinkose, dėl kurių gali kilti grėsmė rinkos likvidumui ir finansinės sistemos stabilumui bet kurioje kitoje Europos Sąjungos valstybėje narėje, kurioje yra licencijuoti finansų maklerio įmonių grupei priklausantys subjektai, priežiūros institucija, jeigu ji atlieka finansų maklerio įmonių grupės jungtinę (konsoliduotą) priežiūrą, iš karto, kai tik praktiškai tai įmanoma padaryti, visą informaciją apie šią situaciją pateikia Europos bankininkystės institucijai, Europos sisteminės rizikos valdybai, Europos centrinių bankų sistemos centriniams bankams ir Lietuvos Respublikos finansų ministerijai, taip pat kitos Europos Sąjungos valstybės narės centrinės valdžios institucijoms, dalyvaujančioms rengiant teisės aktus, susijusius su finansų įstaigų ir draudimo įmonių priežiūra, jeigu ši informacija yra svarbi šių institucijų funkcijoms atlikti. ^s-abe100c4055ca040f515f837
+3. Lietuvos Respublikoje susidarius kritinei situacijai, įskaitant [Reglamento (ES) Nr. 1093/2010 18 straipsnyje](https://eur-lex.europa.eu/eli/reg/1093/2010/art_18/oj) numatytus atvejus arba neigiamus pokyčius finansų rinkose, dėl kurių gali kilti grėsmė rinkos likvidumui ir finansinės sistemos stabilumui bet kurioje kitoje Europos Sąjungos valstybėje narėje, kurioje yra licencijuoti finansų maklerio įmonių grupei priklausantys subjektai, priežiūros institucija, jeigu ji atlieka finansų maklerio įmonių grupės jungtinę (konsoliduotą) priežiūrą, iš karto, kai tik praktiškai tai įmanoma padaryti, visą informaciją apie šią situaciją pateikia Europos bankininkystės institucijai, Europos sisteminės rizikos valdybai, Europos centrinių bankų sistemos centriniams bankams ir Lietuvos Respublikos finansų ministerijai, taip pat kitos Europos Sąjungos valstybės narės centrinės valdžios institucijoms, dalyvaujančioms rengiant teisės aktus, susijusius su finansų įstaigų ir draudimo įmonių priežiūra, jeigu ši informacija yra svarbi šių institucijų funkcijoms atlikti. ^s-abe100c4055ca040f515f837
 
 
-4. Jeigu priežiūros institucija yra atsakinga už grupės, kuriai priklauso ir kitose valstybėse narėse licencijuotos finansų maklerio įmonės, jungtinę (konsoliduotą) priežiūrą, ji gali sudaryti priežiūros institucijų kolegiją, kurios paskirtis – užtikrinti bendradarbiavimą ir keitimąsi informacija tarp Lietuvos Respublikos ir kitų valstybių narių priežiūros institucijų ir Europos bankininkystės institucijos, o prireikus ir kitų užsienio valstybių priežiūros institucijų, visų pirma, kai to reikia taikant Reglamento (ES) 2019/2033 [[#^s-14e66b7029eb95d2c9277c7a|23 straipsnio 1 dalies]] pirmosios pastraipos c punktą ir [[#^s-072b10a00a74b83b66a0941e|2 dalį]], siekiant su reikalavimus atitinkančių pagrindinių sandorio šalių priežiūros institucijomis keistis susijusia informacija dėl garantinių įmokų modelio ir ją atnaujinti. ^s-fec0f94bebb992f552b7fb87
+4. Jeigu priežiūros institucija yra atsakinga už grupės, kuriai priklauso ir kitose valstybėse narėse licencijuotos finansų maklerio įmonės, jungtinę (konsoliduotą) priežiūrą, ji gali sudaryti priežiūros institucijų kolegiją, kurios paskirtis – užtikrinti bendradarbiavimą ir keitimąsi informacija tarp Lietuvos Respublikos ir kitų valstybių narių priežiūros institucijų ir Europos bankininkystės institucijos, o prireikus ir kitų užsienio valstybių priežiūros institucijų, visų pirma, kai to reikia taikant [Reglamento (ES) 2019/2033 23 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2019/2033/art_23/par_1/oj) pirmosios pastraipos c punktą ir [[#^s-072b10a00a74b83b66a0941e|2 dalį]], siekiant su reikalavimus atitinkančių pagrindinių sandorio šalių priežiūros institucijomis keistis susijusia informacija dėl garantinių įmokų modelio ir ją atnaujinti. ^s-fec0f94bebb992f552b7fb87
 
 
 5. Priežiūros institucijų kolegija steigiama, kad priežiūros institucija, Europos bankininkystės institucija ir kitos suinteresuotos Europos Sąjungos valstybių narių priežiūros institucijos galėtų: ^s-c2a5b1b17630d12d51120231
@@ -5510,13 +5510,13 @@ Nr. XIII-2024, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05398
 1) vykdyti [[#^s-abe100c4055ca040f515f837|šio straipsnio 3 dalyje]] nurodytas užduotis; ^s-25f4e4b32180398016d0b3db
 
 
-2) nagrinėti prašymus suteikti informaciją, kai tai būtina siekiant sudaryti palankesnes sąlygas jungtinei (konsoliduotai) priežiūrai pagal Reglamento (ES) 2019/2033 [[#^s-8b837945108cc488c27cf6b5|7 straipsnį]] atlikti; ^s-44288f6c0bc8d25feabdc97a
+2) nagrinėti prašymus suteikti informaciją, kai tai būtina siekiant sudaryti palankesnes sąlygas jungtinei (konsoliduotai) priežiūrai pagal [Reglamento (ES) 2019/2033 7 straipsnį](https://eur-lex.europa.eu/eli/reg/2019/2033/art_7/oj) atlikti; ^s-44288f6c0bc8d25feabdc97a
 
 
 3) nagrinėti prašymus suteikti informaciją tais atvejais, kai kelioms tą pačią grupę sudarančių finansų maklerio įmonių priežiūros institucijoms reikia prašyti, kad tarpuskaitos nario buveinės valstybės narės priežiūros institucija arba reikalavimus atitinkančios pagrindinės sandorio šalies priežiūros institucija pateiktų informaciją apie garantinių įmokų modelį ir parametrus, taikomus atitinkamų finansų maklerio įmonių garantinės įmokos reikalavimui apskaičiuoti; ^s-c4711f84e7d6a5f26f901acd
 
 
-4) keistis informacija tarpusavyje, su Europos bankininkystės institucija pagal Reglamento (ES) Nr. 1093/2010 [[#^s-7182526ebe3e9164625b4dcc|21 straipsnį]] ir Europos vertybinių popierių ir rinkų institucija pagal Reglamento (ES) Nr. 1095/2010 [[#^s-7182526ebe3e9164625b4dcc|21 straipsnį]]; ^s-fc1e3923881070e63acfaacb
+4) keistis informacija tarpusavyje, su Europos bankininkystės institucija pagal [Reglamento (ES) Nr. 1093/2010 21 straipsnį](https://eur-lex.europa.eu/eli/reg/1093/2010/art_21/oj) ir Europos vertybinių popierių ir rinkų institucija pagal [Reglamento (ES) Nr. 1095/2010 21 straipsnį](https://eur-lex.europa.eu/eli/reg/1095/2010/art_21/oj); ^s-fc1e3923881070e63acfaacb
 
 
 5) susitarti dėl savanoriško užduočių pavedimo ir prireikus dėl savanoriško atsakomybės perdavimo kitoms priežiūros institucijoms; ^s-beec3e8ba24a741d6fe44555
@@ -5537,7 +5537,7 @@ Nr. XIII-2024, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05398
 2) kai tikslinga, trečiųjų valstybių priežiūros institucijos, kurioms taikomi konfidencialumo reikalavimai, nustatyti [[latest/TAR.1B4D7B687895#^s-98b3b2f78e311f3719fb704c|Lietuvos banko įstatymo 43 straipsnyje]]. ^s-ff0f5c394fd29183397beac9
 
 
-8. Priežiūros institucija, atlikdama grupės jungtinę (konsoliduotą) priežiūrą, pirmininkauja priežiūros institucijos kolegijos posėdžiams ir priima sprendimus. Visi kolegijos nariai iš anksto informuojami apie organizuojamus kolegijos posėdžius, pagrindinius klausimus ir veiklą, kuri bus aptariama per posėdį, o posėdžiui įvykus jiems pateikiama informacija apie sprendimus ir jų įgyvendinimą. Priimdama sprendimus priežiūros institucija atsižvelgia į priežiūros veiklos, kurią turėtų planuoti arba koordinuoti [[#^s-46155710c73bc4fabfa92648|šio straipsnio 7 dalyje]] nurodytos institucijos, svarbą. Priežiūros institucijos kolegijos įsteigimas ir veikimas oficialiai įforminamas rašytiniais susitarimais. Priežiūros institucijos kolegijos posėdžiuose gali dalyvauti ir Europos bankininkystės institucija, kaip tai nurodyta Reglamento (ES) Nr. 1093/2010 [[#^s-7182526ebe3e9164625b4dcc|21 straipsnyje]]. ^s-12d9fb327ba6e06f02548aeb
+8. Priežiūros institucija, atlikdama grupės jungtinę (konsoliduotą) priežiūrą, pirmininkauja priežiūros institucijos kolegijos posėdžiams ir priima sprendimus. Visi kolegijos nariai iš anksto informuojami apie organizuojamus kolegijos posėdžius, pagrindinius klausimus ir veiklą, kuri bus aptariama per posėdį, o posėdžiui įvykus jiems pateikiama informacija apie sprendimus ir jų įgyvendinimą. Priimdama sprendimus priežiūros institucija atsižvelgia į priežiūros veiklos, kurią turėtų planuoti arba koordinuoti [[#^s-46155710c73bc4fabfa92648|šio straipsnio 7 dalyje]] nurodytos institucijos, svarbą. Priežiūros institucijos kolegijos įsteigimas ir veikimas oficialiai įforminamas rašytiniais susitarimais. Priežiūros institucijos kolegijos posėdžiuose gali dalyvauti ir Europos bankininkystės institucija, kaip tai nurodyta [Reglamento (ES) Nr. 1093/2010 21 straipsnyje](https://eur-lex.europa.eu/eli/reg/1093/2010/art_21/oj). ^s-12d9fb327ba6e06f02548aeb
 
 
 9. Priežiūros institucija, atlikdama grupės jungtinę (konsoliduotą) priežiūrą, [[#^s-46155710c73bc4fabfa92648|šio straipsnio 7 dalyje]] nurodytoms institucijoms teikia: ^s-4ebc34619c875b0afd62a208
@@ -5555,7 +5555,7 @@ Nr. XIII-2024, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05398
 4) informaciją apie pritaikytas poveikio priemones ir duotus privalomus nurodymus, kurių priežiūros institucija imasi vadovaudamasi šiuo įstatymu. ^s-699a20f88d3a6236f6707c18
 
 
-10. Jeigu kitų valstybių narių priežiūros institucijos, vykdydamos jungtinę (konsoliduotą) priežiūrą, nebendradarbiauja su priežiūros institucija tiek, kiek reikia siekiant atlikti [[#^s-4ebc34619c875b0afd62a208|šio straipsnio 9 dalyje]] nurodytas užduotis, taip pat jeigu nesutariama dėl priežiūros institucijų kolegijų veiklos, priežiūros institucija gali paprašyti Europos bankininkystės institucijos pagalbos pagal Reglamento (ES) Nr. 1093/2010 [[#^s-d3bcf8bb18aae7c1d956c6b8|19 straipsnį]]. ^s-eb1a3348008635ea4e3705c7
+10. Jeigu kitų valstybių narių priežiūros institucijos, vykdydamos jungtinę (konsoliduotą) priežiūrą, nebendradarbiauja su priežiūros institucija tiek, kiek reikia siekiant atlikti [[#^s-4ebc34619c875b0afd62a208|šio straipsnio 9 dalyje]] nurodytas užduotis, taip pat jeigu nesutariama dėl priežiūros institucijų kolegijų veiklos, priežiūros institucija gali paprašyti Europos bankininkystės institucijos pagalbos pagal [Reglamento (ES) Nr. 1093/2010 19 straipsnį](https://eur-lex.europa.eu/eli/reg/1093/2010/art_19/oj). ^s-eb1a3348008635ea4e3705c7
 
 
 11. Priežiūros institucija, prieš priimdama sprendimą, kuris gali būti svarbus kitoms priežiūros institucijoms atliekant priežiūros funkcijas, konsultuojasi dėl: ^s-16357e575f5e20620f0a6483
@@ -5610,7 +5610,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 3. [[#^s-ccba737e4b3ef5fa76660c7b|Šio straipsnio 2 dalyje]] nustatyti priežiūros institucijos nurodymai negali būti griežtesni negu tie, kurie taikomi atliekant Lietuvos Respublikoje įsteigtų finansų maklerio įmonių priežiūrą. ^s-a0690c8c6667b8f82270119b
 
 
-4. Priežiūros institucija prižiūri, kaip finansų maklerio įmonių filialai, įsteigti Lietuvos Respublikoje, laikosi šio įstatymo 29, 30, 31, 33, [[#^s-4315017a8a90f827af671f15|34 straipsnių]], Reglamento (ES) Nr. 600/2014 14–[[#^s-f81a2943afd8776c3b0a8cce|26 straipsnių]] ir jų pagrindu priimtų kitų teisės aktų reikalavimų. Šiuo tikslu priežiūros institucija turi teisę atlikti filialo patikrinimus, siekdama nustatyti, ar laikomasi šių reikalavimų, ir reikalauti ištaisyti nustatytus pažeidimus. ^s-535521e41f23256c795bf832
+4. Priežiūros institucija prižiūri, kaip finansų maklerio įmonių filialai, įsteigti Lietuvos Respublikoje, laikosi šio įstatymo [[#^s-aed983dc83eb9af799847e25|29]], [[#^s-04f30d7da338e3bc5d04bb28|30]], [[#^s-c07a062a6941b9fda4de5a2d|31]], [[#^s-35fdea57b48f385fd053d94f|33]], [[#^s-4315017a8a90f827af671f15|34]] straipsnių, Reglamento (ES) Nr. 600/2014 [[#^s-f78bcf4a6a18f7402393db80|14]]–[[#^s-f81a2943afd8776c3b0a8cce|26]] straipsnių ir jų pagrindu priimtų kitų teisės aktų reikalavimų. Šiuo tikslu priežiūros institucija turi teisę atlikti filialo patikrinimus, siekdama nustatyti, ar laikomasi šių reikalavimų, ir reikalauti ištaisyti nustatytus pažeidimus. ^s-535521e41f23256c795bf832
 
 
 5. Priežiūros institucija taip pat turi teisę atlikti patikrinimus ir tikrinti, kaip finansų maklerio įmonių filialai, įsteigti Lietuvos Respublikoje, laikosi kitų, negu nurodyta [[#^s-535521e41f23256c795bf832|šio straipsnio 4 dalyje]], šio įstatymo ir jo pagrindu priimtų teisės aktų reikalavimų, kai, priežiūros institucijos nuomone, tai svarbu Lietuvos finansų sistemos stabilumui ir patikimumui. Prieš atlikdama tokius patikrinimus, priežiūros institucija konsultuojasi su Europos Sąjungos valstybių narių, kurių jurisdikcijai priklauso finansų maklerio įmonių filialus Lietuvos Respublikoje įsteigusios finansų maklerio įmonės, priežiūros institucijomis, o atlikusi patikrinimus perduoda joms gautą informaciją ir išvadas, kurios yra svarbios kitoje valstybėje narėje licencijuotos finansų maklerio įmonės rizikos vertinimui ar Lietuvos finansų sistemos stabilumui ir patikimumui. ^s-675b04de87bc836c9becb5a3
@@ -5635,16 +5635,16 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 2) investicinės paslaugos Lietuvos Respublikoje teikiamos įsteigus filialą, o filialą įsteigusi finansų maklerio įmonė įtariama padariusi šiame įstatyme nustatytų reikalavimų, kurių laikymosi priežiūra nėra priskirta priežiūros institucijos kompetencijai, pažeidimų. ^s-fbb85a12d7d6ab582fc587b4
 
 
-3. Jeigu, nepaisydama finansų maklerio įmonės priežiūros institucijos pritaikytų poveikio priemonių arba dėl to, kad pritaikytos poveikio priemonės yra nepakankamos, finansų maklerio įmonė ir toliau nesilaiko šiame įstatyme nustatytų reikalavimų ir pažeidžia Lietuvos Respublikos investuotojų interesus arba kelia grėsmę sklandžiam finansinių priemonių rinkų veikimui, priežiūros institucija, prieš tai pranešusi finansų maklerio įmonės priežiūros institucijai, turi teisę imtis visų reikalingų priemonių investuotojų interesams apsaugoti ir sklandžiam rinkų veikimui užtikrinti. Priežiūros institucija turi teisę imtis priemonių, užkertančių kelią galimybei finansų maklerio įmonėms, pažeidžiančioms teisės aktų reikalavimus, sudaryti sandorius dėl finansinių priemonių Lietuvos Respublikoje. Apie priemones, kurių buvo imtasi, priežiūros institucija nedelsdama praneša Europos Komisijai ir Europos vertybinių popierių ir rinkų institucijai. Priežiūros institucija taip pat gali perduoti šį klausimą Europos vertybinių popierių ir rinkų institucijai, kuri gali imtis veiksmų pagal Reglamentu (ES) Nr. 1095/2010 jai suteiktus įgaliojimus. ^s-e025f943aa4b66bb1bdea0f4
+3. Jeigu, nepaisydama finansų maklerio įmonės priežiūros institucijos pritaikytų poveikio priemonių arba dėl to, kad pritaikytos poveikio priemonės yra nepakankamos, finansų maklerio įmonė ir toliau nesilaiko šiame įstatyme nustatytų reikalavimų ir pažeidžia Lietuvos Respublikos investuotojų interesus arba kelia grėsmę sklandžiam finansinių priemonių rinkų veikimui, priežiūros institucija, prieš tai pranešusi finansų maklerio įmonės priežiūros institucijai, turi teisę imtis visų reikalingų priemonių investuotojų interesams apsaugoti ir sklandžiam rinkų veikimui užtikrinti. Priežiūros institucija turi teisę imtis priemonių, užkertančių kelią galimybei finansų maklerio įmonėms, pažeidžiančioms teisės aktų reikalavimus, sudaryti sandorius dėl finansinių priemonių Lietuvos Respublikoje. Apie priemones, kurių buvo imtasi, priežiūros institucija nedelsdama praneša Europos Komisijai ir Europos vertybinių popierių ir rinkų institucijai. Priežiūros institucija taip pat gali perduoti šį klausimą Europos vertybinių popierių ir rinkų institucijai, kuri gali imtis veiksmų pagal [Reglamentu (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj) jai suteiktus įgaliojimus. ^s-e025f943aa4b66bb1bdea0f4
 
 
 4. Jeigu priežiūros institucija nustato, kad kitoje valstybėje narėje licencijuota finansų maklerio įmonė, veikdama per filialą Lietuvos Respublikoje, pažeidžia šiame įstatyme nustatytus reikalavimus, kurių priežiūrą atlieka priežiūros institucija, ji nurodo finansų maklerio įmonei nutraukti teisės aktų reikalavimus pažeidžiančius veiksmus. Jeigu finansų maklerio įmonė ir toliau pažeidžia teisės aktų reikalavimus, priežiūros institucija turi teisę imtis visų reikalingų poveikio priemonių daromiems pažeidimams nutraukti. Priežiūros institucija praneša finansų maklerio įmonės priežiūros institucijai apie priemones, kurių buvo imtasi. ^s-56c909904022f82c6f4c2999
 
 
-5. Jeigu, nepaisydama priežiūros institucijos pritaikytų poveikio priemonių, finansų maklerio įmonė toliau pažeidžia Lietuvos Respublikos teisės aktų reikalavimus, priežiūros institucija turi teisę, prieš tai pranešusi finansų maklerio įmonės priežiūros institucijai, imtis visų reikalingų priemonių investuotojų interesams apsaugoti ir sklandžiam rinkų veikimui užtikrinti. Apie priemones, kurių buvo imtasi, priežiūros institucija nedelsdama praneša Europos Komisijai ir Europos vertybinių popierių ir rinkų institucijai. Priežiūros institucija taip pat gali perduoti šį klausimą Europos vertybinių popierių ir rinkų institucijai, kuri gali imtis veiksmų pagal Reglamentu (ES) Nr. 1095/2010 jai suteiktus įgaliojimus. ^s-6f667f548c2a0e5c65154a26
+5. Jeigu, nepaisydama priežiūros institucijos pritaikytų poveikio priemonių, finansų maklerio įmonė toliau pažeidžia Lietuvos Respublikos teisės aktų reikalavimus, priežiūros institucija turi teisę, prieš tai pranešusi finansų maklerio įmonės priežiūros institucijai, imtis visų reikalingų priemonių investuotojų interesams apsaugoti ir sklandžiam rinkų veikimui užtikrinti. Apie priemones, kurių buvo imtasi, priežiūros institucija nedelsdama praneša Europos Komisijai ir Europos vertybinių popierių ir rinkų institucijai. Priežiūros institucija taip pat gali perduoti šį klausimą Europos vertybinių popierių ir rinkų institucijai, kuri gali imtis veiksmų pagal [Reglamentu (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj) jai suteiktus įgaliojimus. ^s-6f667f548c2a0e5c65154a26
 
 
-6. Jeigu priežiūros institucija turi pagrindą įtarti, kad kitoje valstybėje narėje veikiančią reguliuojamą rinką, daugiašalę prekybos sistemą ar organizuotos prekybos sistemą administruojantys rinkos operatorius ar finansų maklerio įmonė pažeidžia šiame įstatyme nustatytus reikalavimus, priežiūros institucija apie tai nedelsdama praneša reguliuojamą rinką, daugiašalę prekybos sistemą ar organizuotos prekybos sistemą administruojančių rinkos operatoriaus ar finansų maklerio įmonės priežiūros institucijai. Jeigu, nepaisydami buveinės priežiūros institucijos pritaikytų poveikio priemonių arba dėl to, kad pritaikytos poveikio priemonės yra nepakankamos, reguliuojamą rinką, daugiašalę prekybos sistemą ar organizuotos prekybos sistemą administruojantys rinkos operatorius ar finansų maklerio įmonė ir toliau pažeidžia Lietuvos Respublikos investuotojų interesus ar kelia grėsmę sklandžiam finansinių priemonių rinkų veikimui, priežiūros institucija, pranešusi buveinės priežiūros institucijai, turi teisę imtis visų reikalingų priemonių investuotojų interesams apsaugoti ir sklandžiam rinkų veikimui užtikrinti. Priežiūros institucija turi teisę neleisti imtis veiksmų Lietuvos Respublikoje, kuriais siekiama sudaryti galimybę Lietuvos Respublikoje įsteigtiems subjektams tapti tos reguliuojamos rinkos, daugiašalės prekybos sistemos arba organizuotos prekybos sistemos nariais ar dalyviais arba palengvinti prekybą joje. Apie priemones, kurių buvo imtasi, priežiūros institucija nedelsdama praneša Europos Komisijai ir Europos vertybinių popierių ir rinkų institucijai. Priežiūros institucija taip pat gali perduoti šį klausimą Europos vertybinių popierių ir rinkų institucijai, kuri gali imtis veiksmų pagal Reglamentu (ES) Nr. 1095/2010 jai suteiktus įgaliojimus. ^s-e3481f3f76c4c7c7a1f312f5
+6. Jeigu priežiūros institucija turi pagrindą įtarti, kad kitoje valstybėje narėje veikiančią reguliuojamą rinką, daugiašalę prekybos sistemą ar organizuotos prekybos sistemą administruojantys rinkos operatorius ar finansų maklerio įmonė pažeidžia šiame įstatyme nustatytus reikalavimus, priežiūros institucija apie tai nedelsdama praneša reguliuojamą rinką, daugiašalę prekybos sistemą ar organizuotos prekybos sistemą administruojančių rinkos operatoriaus ar finansų maklerio įmonės priežiūros institucijai. Jeigu, nepaisydami buveinės priežiūros institucijos pritaikytų poveikio priemonių arba dėl to, kad pritaikytos poveikio priemonės yra nepakankamos, reguliuojamą rinką, daugiašalę prekybos sistemą ar organizuotos prekybos sistemą administruojantys rinkos operatorius ar finansų maklerio įmonė ir toliau pažeidžia Lietuvos Respublikos investuotojų interesus ar kelia grėsmę sklandžiam finansinių priemonių rinkų veikimui, priežiūros institucija, pranešusi buveinės priežiūros institucijai, turi teisę imtis visų reikalingų priemonių investuotojų interesams apsaugoti ir sklandžiam rinkų veikimui užtikrinti. Priežiūros institucija turi teisę neleisti imtis veiksmų Lietuvos Respublikoje, kuriais siekiama sudaryti galimybę Lietuvos Respublikoje įsteigtiems subjektams tapti tos reguliuojamos rinkos, daugiašalės prekybos sistemos arba organizuotos prekybos sistemos nariais ar dalyviais arba palengvinti prekybą joje. Apie priemones, kurių buvo imtasi, priežiūros institucija nedelsdama praneša Europos Komisijai ir Europos vertybinių popierių ir rinkų institucijai. Priežiūros institucija taip pat gali perduoti šį klausimą Europos vertybinių popierių ir rinkų institucijai, kuri gali imtis veiksmų pagal [Reglamentu (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj) jai suteiktus įgaliojimus. ^s-e3481f3f76c4c7c7a1f312f5
 
 
 7. Visos poveikio priemonės, kurių priežiūros institucija gali imtis šiame straipsnyje nurodytais atvejais, turi būti pagrįstos ir motyvuotos, o apie pritaikytas poveikio priemones nedelsiant pranešama finansų maklerio įmonei ar rinkos operatoriui. ^s-7e105ab0fecfda8799d6a575
@@ -5717,13 +5717,13 @@ Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 13) rinkos operatoriaus ar finansų maklerio įmonės vadovui ar kitam fiziniam asmeniui, kuris laikomas atsakingu už šio įstatymo, Reglamento (ES) Nr. 596/2014 ar Reglamento (ES) Nr. 600/2014 pažeidimą, laikinai uždraudžia eiti rinkos operatoriaus ar finansų maklerio įmonės vadovo pareigas; ^s-aa56eeecd9b4f7e3c88c5435
 
 
-14) jeigu pakartotinai per vienus metus nuo sprendimo, kuriuo buvo paskirta poveikio priemonė, įsigaliojimo dienos padaromi šio įstatymo, Reglamento (ES) Nr. 600/2014 ar Reglamento (ES) Nr. 596/2014 14 ir [[#^s-6ecaddf07da1622997a18414|15 straipsnių]] pažeidimai, rinkos operatoriaus ar finansų maklerio įmonės vadovui ar kitam fiziniam asmeniui, kuris laikomas atsakingu už pažeidimą, uždraudžia eiti rinkos operatoriaus ar finansų maklerio įmonės vadovo pareigas; ^s-14aa76a0e5b3e3454d3165d2
+14) jeigu pakartotinai per vienus metus nuo sprendimo, kuriuo buvo paskirta poveikio priemonė, įsigaliojimo dienos padaromi šio įstatymo, Reglamento (ES) Nr. 600/2014 ar Reglamento (ES) Nr. 596/2014 [[#^s-f78bcf4a6a18f7402393db80|14]] ir [[#^s-6ecaddf07da1622997a18414|15]] straipsnių pažeidimai, rinkos operatoriaus ar finansų maklerio įmonės vadovui ar kitam fiziniam asmeniui, kuris laikomas atsakingu už pažeidimą, uždraudžia eiti rinkos operatoriaus ar finansų maklerio įmonės vadovo pareigas; ^s-14aa76a0e5b3e3454d3165d2
 
 
 15) uždraudžia vadovo pareigas finansų maklerio įmonėje einančiam asmeniui ar kitam fiziniam asmeniui, kuris laikomas atsakingu už Reglamento (ES) Nr. 596/2014 pažeidimą, ne ilgiau kaip 3 mėnesiams sudaryti sandorius savo sąskaita; ^s-c10bbe3cd807114309d8257b
 
 
-16) dėl Reglamento (ES) Nr. 2015/2365 pažeidimo laikinai uždraudžia Reglamentą (ES) Nr. 2015/2365 pažeidusiam vadovui ar kitam atsakingam asmeniui atlikti vadovaujamas funkcijas. Pateikus dokumentus, kuriais įrodoma, kad nebėra aplinkybių, dėl kurių buvo laikinai neleista atlikti vadovaujamų funkcijų, priežiūros institucijos sprendimu laikinas draudimas nedelsiant, bet ne vėliau kaip per 5 darbo dienas nuo tos dienos, kai priežiūros institucija nustato, kad pagrindas išnyko, panaikinamas; ^s-cc67f65ed0d68fcee45084e7
+16) dėl [Reglamento (ES) Nr. 2015/2365](https://eur-lex.europa.eu/eli/reg/2015/2365/oj) pažeidimo laikinai uždraudžia [Reglamentą (ES) Nr. 2015/2365](https://eur-lex.europa.eu/eli/reg/2015/2365/oj) pažeidusiam vadovui ar kitam atsakingam asmeniui atlikti vadovaujamas funkcijas. Pateikus dokumentus, kuriais įrodoma, kad nebėra aplinkybių, dėl kurių buvo laikinai neleista atlikti vadovaujamų funkcijų, priežiūros institucijos sprendimu laikinas draudimas nedelsiant, bet ne vėliau kaip per 5 darbo dienas nuo tos dienos, kai priežiūros institucija nustato, kad pagrindas išnyko, panaikinamas; ^s-cc67f65ed0d68fcee45084e7
 
 
 17) laikinai sustabdo (apriboja) finansų maklerio įmonės akcininko balsavimo teisę; ^s-1ac71035e4f8b1681fee1b1d
@@ -5732,7 +5732,7 @@ Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
 18) laikinai uždraudžia finansų maklerio įmonei būti reguliuojamos rinkos arba daugiašalės prekybos sistemos nare arba dalyve, organizuotos prekybos sistemos kliente. ^s-f7c7e1ed2056eb68c892c4d6
 
 
-19) dėl Reglamento (ES) 2020/1503 pažeidimo uždraudžia šį reglamentą pažeidusiam sutelktinio finansavimo paslaugų teikėjo valdymo organo nariui ar kitam fiziniam asmeniui, kuris laikomas atsakingu už pažeidimą, atlikti vadovaujamas funkcijas sutelktinio finansavimo paslaugų teikėjų įmonėse; ^s-1a1014c8b364bb243ead28ae
+19) dėl [Reglamento (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj) pažeidimo uždraudžia šį reglamentą pažeidusiam sutelktinio finansavimo paslaugų teikėjo valdymo organo nariui ar kitam fiziniam asmeniui, kuris laikomas atsakingu už pažeidimą, atlikti vadovaujamas funkcijas sutelktinio finansavimo paslaugų teikėjų įmonėse; ^s-1a1014c8b364bb243ead28ae
 Papildyta straipsnio punktu:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 Straipsnio punkto pakeitimai:
@@ -5740,13 +5740,13 @@ Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
 
 
 
-20) pagrindinei sandorio šaliai paskiria, laikydamasi Reglamente (ES) 2021/23 nustatytų sąlygų, laikinąjį administratorių. ^s-24035f94148f73b8566c0288
+20) pagrindinei sandorio šaliai paskiria, laikydamasi [Reglamente (ES) 2021/23](https://eur-lex.europa.eu/eli/reg/2021/23/oj) nustatytų sąlygų, laikinąjį administratorių. ^s-24035f94148f73b8566c0288
 Papildyta straipsnio punktu:
 Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
 
 
 
-2. Taikant [[#^s-3129d18ee6c6791f9135f72b|šio straipsnio 1 dalies 11 punktą]], šiurkščiu pažeidimu laikomi centrinio depozitoriumo valdymo organo nario, finansų maklerio įmonės stebėtojų tarybos nario, finansų maklerio įmonės valdymo organo nario, finansų maklerio įmonės vadovo, kitos valstybės narės finansų maklerio įmonės filialo vadovo arba kito fizinio asmens, kuris laikomas atsakingu už pažeidimą, veiksmai, kuriais pažeidžiamos šio įstatymo, Reglamento (ES) Nr. 600/2014, Reglamento (ES) Nr. 575/2013, Reglamento (ES) Nr. 909/2014, Reglamento (ES) Nr. 596/2014, Reglamento (ES) Nr. 2015/2365, Reglamento (ES) Nr. 2016/1011 ar jų įgyvendinamųjų teisės aktų nuostatos ir dėl kurių už pažeidimą atsakingas asmuo savo ar kitų asmenų naudai išvengė didelės turtinės žalos arba gavo didelės turtinės naudos, arba padarė didelės turtinės žalos tretiesiems asmenims, arba kilo grėsmė finansų rinkos stabilumui ir patikimumui. Turtinė žala, turtinė nauda yra didelė, kai jos vertė viršija 250 bazinių bausmių ir nuobaudų dydžio sumą. ^s-74eb0c6e8b663984dd88310b
+2. Taikant [[#^s-3129d18ee6c6791f9135f72b|šio straipsnio 1 dalies 11 punktą]], šiurkščiu pažeidimu laikomi centrinio depozitoriumo valdymo organo nario, finansų maklerio įmonės stebėtojų tarybos nario, finansų maklerio įmonės valdymo organo nario, finansų maklerio įmonės vadovo, kitos valstybės narės finansų maklerio įmonės filialo vadovo arba kito fizinio asmens, kuris laikomas atsakingu už pažeidimą, veiksmai, kuriais pažeidžiamos šio įstatymo, Reglamento (ES) Nr. 600/2014, Reglamento (ES) Nr. 575/2013, Reglamento (ES) Nr. 909/2014, Reglamento (ES) Nr. 596/2014, [Reglamento (ES) Nr. 2015/2365](https://eur-lex.europa.eu/eli/reg/2015/2365/oj), [Reglamento (ES) Nr. 2016/1011](https://eur-lex.europa.eu/eli/reg/2016/1011/oj) ar jų įgyvendinamųjų teisės aktų nuostatos ir dėl kurių už pažeidimą atsakingas asmuo savo ar kitų asmenų naudai išvengė didelės turtinės žalos arba gavo didelės turtinės naudos, arba padarė didelės turtinės žalos tretiesiems asmenims, arba kilo grėsmė finansų rinkos stabilumui ir patikimumui. Turtinė žala, turtinė nauda yra didelė, kai jos vertė viršija 250 bazinių bausmių ir nuobaudų dydžio sumą. ^s-74eb0c6e8b663984dd88310b
 
 
 3. Priežiūros institucija kiekvienais metais pateikia Europos vertybinių popierių ir rinkų institucijai apibendrintą informaciją apie visas poveikio priemones, pritaikytas pagal [[#^s-ae890e9ce0877fec64afd836|šio straipsnio 1 dalį]]. ^s-657d1025036efa6e21909b4e
@@ -5755,7 +5755,7 @@ Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
 4. Priežiūros institucija, viešai paskelbusi informaciją apie pritaikytą poveikio priemonę, tuo pačiu metu apie tai praneša Europos vertybinių popierių ir rinkų institucijai. Priežiūros institucija pateikia Europos vertybinių popierių ir rinkų institucijai informaciją apie pritaikytas poveikio priemones, apie kurias nebuvo viešai paskelbta pagal [[latest/TAR.1B4D7B687895#^s-c87e731d7a7d70c84f669b85|Lietuvos banko įstatymo 433 straipsnį]], taip pat informaciją apie dėl pritaikytų poveikio priemonių pateiktus skundus ir jų nagrinėjimo rezultatus. ^s-29c4d33368d7f5e45a642883
 
 
-5. Priežiūros institucija pateikia Europos bankininkystės institucijai informaciją apie visas šiame įstatyme numatytas poveikio priemones, pritaikytas nustačius Reglamente (ES) Nr. 575/2013, Reglamente (ES) 2019/2033 ir (arba) finansų maklerio įmonių ir kredito įstaigų veiklą reglamentuojančiuose teisės aktuose nustatytų reikalavimų pažeidimus, taip pat informaciją apie dėl pritaikytų poveikio priemonių pateiktus skundus ir jų nagrinėjimo rezultatus. ^s-258b3bce892f8dfaaefa1e84
+5. Priežiūros institucija pateikia Europos bankininkystės institucijai informaciją apie visas šiame įstatyme numatytas poveikio priemones, pritaikytas nustačius Reglamente (ES) Nr. 575/2013, [Reglamente (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) ir (arba) finansų maklerio įmonių ir kredito įstaigų veiklą reglamentuojančiuose teisės aktuose nustatytų reikalavimų pažeidimus, taip pat informaciją apie dėl pritaikytų poveikio priemonių pateiktus skundus ir jų nagrinėjimo rezultatus. ^s-258b3bce892f8dfaaefa1e84
 Straipsnio dalies pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -5764,10 +5764,10 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 ### 1111 straipsnis. Atsakomybė už pagrindinės informacijos apie investiciją dokumente pateiktą informaciją ^s-ab24346f1989d549eff364ef
 
 
-1. Už pagrindinės informacijos apie investiciją dokumente, rengiamame pagal Reglamento (ES) 2020/1503 reikalavimus, pateiktos informacijos teisingumą ir išsamumą atsakingi šio Reglamento 23 straipsnio 9 dalyje ar [[#^s-235f4cd9258af34e8c8bc4a9|24 straipsnio 4 dalyje]] nurodyti asmenys. ^s-1e112c088a4c2baf4efd2cfc
+1. Už pagrindinės informacijos apie investiciją dokumente, rengiamame pagal [Reglamento (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj) reikalavimus, pateiktos informacijos teisingumą ir išsamumą atsakingi šio Reglamento 23 straipsnio 9 dalyje ar [[#^s-235f4cd9258af34e8c8bc4a9|24 straipsnio 4 dalyje]] nurodyti asmenys. ^s-1e112c088a4c2baf4efd2cfc
 
 
-2. Investuotojas, patyręs žalos dėl pagrindinės informacijos apie investiciją dokumente pateiktos informacijos trūkumų, kaip tai nustatyta Reglamento (ES) 2020/1503 23 straipsnio 10 dalyje ar [[#^s-1b5e3428c1980c59e2203d85|24 straipsnio 5 dalyje]], turi teisę Lietuvos Respublikos civilinio kodekso nustatyta tvarka iš [[#^s-1e112c088a4c2baf4efd2cfc|šio straipsnio 1 dalyje]] nurodytų atsakingų asmenų reikalauti žalos atlyginimo. ^s-30d149ed4fe7ee91e91fd25e
+2. Investuotojas, patyręs žalos dėl pagrindinės informacijos apie investiciją dokumente pateiktos informacijos trūkumų, kaip tai nustatyta [Reglamento (ES) 2020/1503 23 straipsnio 10 dalyje](https://eur-lex.europa.eu/eli/reg/2020/1503/art_23/par_10/oj) ar [[#^s-1b5e3428c1980c59e2203d85|24 straipsnio 5 dalyje]], turi teisę Lietuvos Respublikos civilinio kodekso nustatyta tvarka iš [[#^s-1e112c088a4c2baf4efd2cfc|šio straipsnio 1 dalyje]] nurodytų atsakingų asmenų reikalauti žalos atlyginimo. ^s-30d149ed4fe7ee91e91fd25e
 
 
 Papildyta straipsniu:
@@ -5814,10 +5814,10 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 11) pažeisti Reglamente (ES) Nr. 600/2014 nustatyti reikalavimai; ^s-c6389285e8ea574b2058a9bc
 
 
-12) pažeisti Reglamente (ES) Nr. 2016/1011 nustatyti reikalavimai; ^s-1091a3bec0060c05acd63353
+12) pažeisti [Reglamente (ES) Nr. 2016/1011](https://eur-lex.europa.eu/eli/reg/2016/1011/oj) nustatyti reikalavimai; ^s-1091a3bec0060c05acd63353
 
 
-13) pažeisti Reglamente (ES) Nr. 2015/2365 nustatyti reikalavimai; ^s-9bf829fbeb9a0e3a19277620
+13) pažeisti [Reglamente (ES) Nr. 2015/2365](https://eur-lex.europa.eu/eli/reg/2015/2365/oj) nustatyti reikalavimai; ^s-9bf829fbeb9a0e3a19277620
 
 
 14) pažeisti Reglamente (ES) Nr. 596/2014 nustatyti reikalavimai; ^s-f53163b9a6180042f32e3bce
@@ -5829,7 +5829,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 16) pažeisti Reglamente (ES) Nr. 575/2013 nustatyti reikalavimai; ^s-18e10c7e336e46e6b8197773
 
 
-17) pažeisti Reglamente (EB) Nr. 1060/2009 nustatyti reikalavimai; ^s-606c8d190fc5bbf44e948cc0
+17) pažeisti [Reglamente (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) nustatyti reikalavimai; ^s-606c8d190fc5bbf44e948cc0
 
 
 18) pažeisti Reglamente (ES) Nr. 236/2012 nustatyti reikalavimai; ^s-64f54e120dcb64a933717e70
@@ -5838,28 +5838,28 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 19) pažeisti Reglamente (ES) Nr. 648/2012 nustatyti reikalavimai; ^s-6a5a7ed2fca5c50b9e5a0335
 
 
-20) pažeisti Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai; ^s-3d6395a4e262c50f448e9439
+20) pažeisti [Reglamente (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) nustatyti reikalavimai; ^s-3d6395a4e262c50f448e9439
 
 
-201) pažeisti Reglamente (ES) 2019/2033 nustatyti reikalavimai; ^s-fe394801aeed34aaf369cb6e
+201) pažeisti [Reglamente (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) nustatyti reikalavimai; ^s-fe394801aeed34aaf369cb6e
 Papildyta straipsnio punktu:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-202) pažeisti Reglamente (ES) 2019/2088 nustatyti reikalavimai; ^s-280c14a3af9d9206155bdc9d
+202) pažeisti [Reglamente (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) nustatyti reikalavimai; ^s-280c14a3af9d9206155bdc9d
 Papildyta straipsnio punktu:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-203) pažeisti Reglamente (ES) 2020/1503 nustatyti reikalavimai; ^s-83b062200f191fe467280eab
+203) pažeisti [Reglamente (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj) nustatyti reikalavimai; ^s-83b062200f191fe467280eab
 Papildyta straipsnio punktu:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-204) pažeisti Reglamente (ES) 2022/2554 nustatyti reikalavimai; ^s-4b9fe09978fc39683f616187
+204) pažeisti [Reglamente (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) nustatyti reikalavimai; ^s-4b9fe09978fc39683f616187
 Papildyta straipsnio punktu:
 Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
 
@@ -5886,13 +5886,13 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-27) pažeisti Reglamento (ES) 2020/852 5, 6 ir [[#^s-8b837945108cc488c27cf6b5|7 straipsniuose]] nustatyti reikalavimai; ^s-c753d7fcc8cb2028cb5af911
+27) pažeisti [Reglamento (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) [[#^s-76553711369d7a2f8aaffb1b|5]], [[#^s-f39cfd8a27617a09df5201b2|6]] ir [[#^s-8b837945108cc488c27cf6b5|7]] straipsniuose nustatyti reikalavimai; ^s-c753d7fcc8cb2028cb5af911
 Papildyta straipsnio punktu:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-28) nesilaiko vidaus tvarkos reikalavimų, kaip tai nurodyta šio įstatymo [[#^s-89450573533cf207a398cd23|16 straipsnio]] 1 ir 11 dalyse; ^s-e4773743a047e863d51092b3
+28) nesilaiko vidaus tvarkos reikalavimų, kaip tai nurodyta šio įstatymo [[#^s-89450573533cf207a398cd23|16 straipsnio]] [[#^s-9c4c62cf9c986d4dd18cff62|1]] ir [[#^s-0c2fa83d6e5649707b7170d2|11]] dalyse; ^s-e4773743a047e863d51092b3
 Papildyta straipsnio punktu:
 Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 
@@ -5922,7 +5922,7 @@ Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 ### 114 straipsnis. Piniginės baudos ^s-4482c0ee6bd6c60060317ac0
 
 
-1. Priežiūros institucija už šio įstatymo [[#^s-58d8b5c5e29946f902f4e2ef|112 straipsnio 1 dalyje]], išskyrus 12–15 ir 203 punktus, nurodytus pažeidimus skiria pinigines baudas: ^s-2790b9a06e05291606ececfa
+1. Priežiūros institucija už šio įstatymo [[#^s-58d8b5c5e29946f902f4e2ef|112 straipsnio 1 dalyje]], išskyrus [[#^s-1091a3bec0060c05acd63353|12]]–[[#^s-8d1a3716c7bcf65dc5b2cbff|15]] ir [[#^s-83b062200f191fe467280eab|203]] punktus, nurodytus pažeidimus skiria pinigines baudas: ^s-2790b9a06e05291606ececfa
 
 
 1) fiziniams asmenims – iki 5 milijonų eurų; ^s-56b57a5eecec4e94077dfb6e
@@ -5934,7 +5934,7 @@ Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 
 
 
-3) juridiniams asmenims už šio įstatymo [[#^s-58d8b5c5e29946f902f4e2ef|112 straipsnio 1 dalies]] 201, 21 ir 28 punktuose nurodytus pažeidimus – iki 10 procentų bendrųjų metinių pajamų. ^s-3ec7ac8378a5eb1ace394fdb
+3) juridiniams asmenims už šio įstatymo [[#^s-58d8b5c5e29946f902f4e2ef|112 straipsnio 1 dalies]] [[#^s-fe394801aeed34aaf369cb6e|201]], [[#^s-635c83e85427bc07fb75dc4c|21]] ir [[#^s-e4773743a047e863d51092b3|28]] punktuose nurodytus pažeidimus – iki 10 procentų bendrųjų metinių pajamų. ^s-3ec7ac8378a5eb1ace394fdb
 Papildyta straipsnio punktu:
 Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
 
@@ -5945,7 +5945,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
 
 
-2. Už Reglamento (ES) Nr. 2016/1011, Reglamento (ES) Nr. 2015/2365, Reglamento (ES) Nr. 596/2014, Reglamento (ES) Nr. 909/2014 ir Reglamento (ES) 2020/1503 pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta atitinkamai Reglamento (ES) Nr. 2016/1011 [[#^s-a11aff05b870d45dd71e4a76|42 straipsnio]], Reglamento (ES) Nr. 2015/2365 [[#^s-02873015d9fdb562032879d7|22 straipsnio]], Reglamento (ES) Nr. 596/2014 [[#^s-04f30d7da338e3bc5d04bb28|30 straipsnio]], Reglamento (ES) Nr. 909/2014 [[#^s-cee96f5754f6a9eeddc744fd|63 straipsnio]] ir Reglamento (ES) 2020/1503 [[#^s-5d43fa5d35cbe14ee37c64f1|39 straipsnio]] nuostatose. ^s-671bedfbeb62c9646bcc92c0
+2. Už [Reglamento (ES) Nr. 2016/1011](https://eur-lex.europa.eu/eli/reg/2016/1011/oj), [Reglamento (ES) Nr. 2015/2365](https://eur-lex.europa.eu/eli/reg/2015/2365/oj), Reglamento (ES) Nr. 596/2014, Reglamento (ES) Nr. 909/2014 ir [Reglamento (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj) pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta atitinkamai [Reglamento (ES) Nr. 2016/1011 42 straipsnio](https://eur-lex.europa.eu/eli/reg/2016/1011/art_42/oj), [Reglamento (ES) Nr. 2015/2365 22 straipsnio](https://eur-lex.europa.eu/eli/reg/2015/2365/art_22/oj), Reglamento (ES) Nr. 596/2014 [[#^s-04f30d7da338e3bc5d04bb28|30 straipsnio]], Reglamento (ES) Nr. 909/2014 [[#^s-cee96f5754f6a9eeddc744fd|63 straipsnio]] ir [Reglamento (ES) 2020/1503 39 straipsnio](https://eur-lex.europa.eu/eli/reg/2020/1503/art_39/oj) nuostatose. ^s-671bedfbeb62c9646bcc92c0
 Straipsnio dalies pakeitimai:
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 
@@ -5957,7 +5957,7 @@ Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
 4. Jeigu dėl šio įstatymo [[#^s-58d8b5c5e29946f902f4e2ef|112 straipsnio 1 dalyje]] išvardytų pažeidimų, išskyrus šio straipsnio 5 dalyje nurodytus pažeidimus, buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1 arba 2 dalyje nurodytus baudų dydžius, priežiūros institucija turi teisę skirti baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio. ^s-9827d11aab0881554edd1fbd
 
 
-5. Jeigu dėl Reglamento (ES) Nr. 2016/1011, Reglamento (ES) Nr. 596/2014 ar Reglamento (ES) Nr. 909/2014 nuostatų pažeidimo buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo Reglamento (ES) Nr. 2016/1011 [[#^s-a11aff05b870d45dd71e4a76|42 straipsnyje]], Reglamento (ES) Nr. 596/2014 [[#^s-04f30d7da338e3bc5d04bb28|30 straipsnje]] ar Reglamento (ES) Nr. 909/2014 [[#^s-cee96f5754f6a9eeddc744fd|63 straipsnyje]] nurodytus baudų dydžius, skiriama bauda iki trigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio. ^s-746c415d63a3d80ce06a9a77
+5. Jeigu dėl [Reglamento (ES) Nr. 2016/1011](https://eur-lex.europa.eu/eli/reg/2016/1011/oj), Reglamento (ES) Nr. 596/2014 ar Reglamento (ES) Nr. 909/2014 nuostatų pažeidimo buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo [Reglamento (ES) Nr. 2016/1011 42 straipsnyje](https://eur-lex.europa.eu/eli/reg/2016/1011/art_42/oj), Reglamento (ES) Nr. 596/2014 [[#^s-04f30d7da338e3bc5d04bb28|30 straipsnje]] ar Reglamento (ES) Nr. 909/2014 [[#^s-cee96f5754f6a9eeddc744fd|63 straipsnyje]] nurodytus baudų dydžius, skiriama bauda iki trigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio. ^s-746c415d63a3d80ce06a9a77
 
 
 6. Šio įstatymo [[#^s-db2b8a61bb9cd671fffb52dc|112 straipsnio 1 dalies 6 punkte]] nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki 1 procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų. ^s-df0151b1697666d6d024a892
@@ -5992,79 +5992,79 @@ priedas
 1. 2001 m. gegužės 28 d. Europos Parlamento ir Tarybos direktyva 2001/34/EB dėl vertybinių popierių įtraukimo į biržos oficialųjį prekybos sąrašą ir dėl informacijos, kuri turi būti skelbiama apie tuos vertybinius popierius. ^s-69bc7cd275dc0c1194c76ee1
 
 
-2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. ^s-c37968058a408a8965ef2c08
+2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2023/2869](https://eur-lex.europa.eu/eli/reg/2023/2869/oj). ^s-c37968058a408a8965ef2c08
 
 
-3. 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 236/2012 dėl skolintų vertybinių popierių pardavimo ir tam tikrų kredito įsipareigojimų neįvykdymo apsikeitimo sandorių aspektų su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2845. ^s-2398c254648e52935e573b14
+3. 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 236/2012 dėl skolintų vertybinių popierių pardavimo ir tam tikrų kredito įsipareigojimų neįvykdymo apsikeitimo sandorių aspektų su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2023/2845](https://eur-lex.europa.eu/eli/reg/2023/2845/oj). ^s-2398c254648e52935e573b14
 
 
-4. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų su paskutiniais pakeitimais, padarytais 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/2987. ^s-6ee1c3ec34169d69ed0f3a36
+4. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų su paskutiniais pakeitimais, padarytais 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/2987](https://eur-lex.europa.eu/eli/reg/2024/2987/oj). ^s-6ee1c3ec34169d69ed0f3a36
 
 
-5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/2994. ^s-21146a240685cb9662106aa2
+5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/2994](https://eur-lex.europa.eu/eli/reg/2024/2994/oj). ^s-21146a240685cb9662106aa2
 
 
-6. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 575/2013 dėl riziką ribojančių reikalavimų kredito įstaigoms, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 su paskutiniais pakeitimais, padarytais 2025 m. birželio 17 d. Europos Parlamento ir Tarybos reglamentu (ES) 2025/1215. ^s-536a22b9a106c43e3f72205d
+6. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 575/2013 dėl riziką ribojančių reikalavimų kredito įstaigoms, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 su paskutiniais pakeitimais, padarytais 2025 m. birželio 17 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2025/1215](https://eur-lex.europa.eu/eli/reg/2025/1215/oj). ^s-536a22b9a106c43e3f72205d
 
 
-7. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/2809. ^s-a544869fe1d6963f4912d6fa
+7. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 596/2014 dėl piktnaudžiavimo rinka (Piktnaudžiavimo rinka reglamentas) ir kuriuo panaikinama Europos Parlamento ir Tarybos direktyva 2003/6/EB ir Komisijos direktyvos 2003/124/EB, 2003/125/EB ir 2004/72/EB su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/2809](https://eur-lex.europa.eu/eli/reg/2024/2809/oj). ^s-a544869fe1d6963f4912d6fa
 
 
-8. 2014 m. gegužės 14 d. Europos Parlamento ir Tarybos direktyva 2014/65/ES dėl finansinių priemonių rinkų, kuria iš dalies keičiamos Direktyva 2002/92/EB ir Direktyva 2011/61/ES, su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/2811. ^s-c901620d7a7d84891978ea0e
+8. 2014 m. gegužės 14 d. Europos Parlamento ir Tarybos direktyva 2014/65/ES dėl finansinių priemonių rinkų, kuria iš dalies keičiamos Direktyva 2002/92/EB ir Direktyva 2011/61/ES, su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/2811](https://eur-lex.europa.eu/eli/dir/2024/2811/oj). ^s-c901620d7a7d84891978ea0e
 
 
-9. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 600/2014 dėl finansinių priemonių rinkų, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/2809. ^s-220e4eb5454edaffbf39df0d
+9. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 600/2014 dėl finansinių priemonių rinkų, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/2809](https://eur-lex.europa.eu/eli/reg/2024/2809/oj). ^s-220e4eb5454edaffbf39df0d
 
 
-10. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/1174. ^s-f67826bcc131cc8968563479
+10. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/1174](https://eur-lex.europa.eu/eli/reg/2024/1174/oj). ^s-f67826bcc131cc8968563479
 
 
-11. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 909/2014 dėl atsiskaitymo už vertybinius popierius gerinimo Europos Sąjungoje ir centrinių vertybinių popierių depozitoriumų, kuriuo iš dalies keičiamos direktyvos 98/26/EB ir 2014/65/ES bei Reglamentas (ES) Nr. 236/2012, su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2845. ^s-a1924c0b8973cf6905f03ab9
+11. 2014 m. liepos 23 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 909/2014 dėl atsiskaitymo už vertybinius popierius gerinimo Europos Sąjungoje ir centrinių vertybinių popierių depozitoriumų, kuriuo iš dalies keičiamos direktyvos 98/26/EB ir 2014/65/ES bei Reglamentas (ES) Nr. 236/2012, su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2023/2845](https://eur-lex.europa.eu/eli/reg/2023/2845/oj). ^s-a1924c0b8973cf6905f03ab9
 
 
-12. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. ^s-7988f6f85b0b533efa2cf939
+12. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2023/2869](https://eur-lex.europa.eu/eli/reg/2023/2869/oj). ^s-7988f6f85b0b533efa2cf939
 
 
-13. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/2365 dėl vertybinių popierių įsigijimo finansavimo sandorių ir pakartotinio naudojimo skaidrumo ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. ^s-7edab818d9ba3b97a4797428
+13. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2015/2365](https://eur-lex.europa.eu/eli/reg/2015/2365/oj) dėl vertybinių popierių įsigijimo finansavimo sandorių ir pakartotinio naudojimo skaidrumo ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2023/2869](https://eur-lex.europa.eu/eli/reg/2023/2869/oj). ^s-7edab818d9ba3b97a4797428
 
 
-14. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2016/1011 dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014, su paskutiniais pakeitimais, padarytais 2025 m. gegužės 7 d. Europos Parlamento ir Tarybos reglamentu (ES) 2025/914. ^s-539ffb62222103681a00a1bf
+14. 2016 m. birželio 8 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 2016/1011](https://eur-lex.europa.eu/eli/reg/2016/1011/oj) dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014, su paskutiniais pakeitimais, padarytais 2025 m. gegužės 7 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2025/914](https://eur-lex.europa.eu/eli/reg/2025/914/oj). ^s-539ffb62222103681a00a1bf
 
 
-15. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu, su paskutiniais pakeitimas, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2864. ^s-267e03eb3f07b158eb05a86a
+15. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos [direktyva (ES) 2017/828](https://eur-lex.europa.eu/eli/dir/2017/828/oj), kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu, su paskutiniais pakeitimas, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/2864](https://eur-lex.europa.eu/eli/dir/2023/2864/oj). ^s-267e03eb3f07b158eb05a86a
 
 
-16. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB, su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/2809. ^s-1cbb666f0830e06782b294fb
+16. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB, su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/2809](https://eur-lex.europa.eu/eli/reg/2024/2809/oj). ^s-1cbb666f0830e06782b294fb
 
 
-17. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2034 dėl investicinių įmonių riziką ribojančios priežiūros, kuria iš dalies keičiamos direktyvos 2002/87/EB, 2009/65/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES ir 2014/65/ES, su paskutiniais pakeitimas, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2864. ^s-1a26af889788716f3e48014c
+17. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/2034](https://eur-lex.europa.eu/eli/dir/2019/2034/oj) dėl investicinių įmonių riziką ribojančios priežiūros, kuria iš dalies keičiamos direktyvos 2002/87/EB, 2009/65/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES ir 2014/65/ES, su paskutiniais pakeitimas, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/2864](https://eur-lex.europa.eu/eli/dir/2023/2864/oj). ^s-1a26af889788716f3e48014c
 
 
-18. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos Reglamentas (ES) 2019/2033 dėl riziką ribojančių reikalavimų investicinėms įmonėms, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 575/2013, (ES) Nr. 600/2014 ir (ES) Nr. 806/2014, su paskutiniais pakeitimas, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. ^s-6ca90f6c35b7219cab17a049
+18. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos [Reglamentas (ES) 2019/2033](https://eur-lex.europa.eu/eli/reg/2019/2033/oj) dėl riziką ribojančių reikalavimų investicinėms įmonėms, kuriuo iš dalies keičiami [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), (ES) Nr. 575/2013, (ES) Nr. 600/2014 ir (ES) Nr. 806/2014, su paskutiniais pakeitimas, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2023/2869](https://eur-lex.europa.eu/eli/reg/2023/2869/oj). ^s-6ca90f6c35b7219cab17a049
 
 
-19. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimas, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/2869. ^s-6e7eb65d4f547f77715d0eb2
+19. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimas, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2023/2869](https://eur-lex.europa.eu/eli/reg/2023/2869/oj). ^s-6e7eb65d4f547f77715d0eb2
 
 
-20. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088. ^s-015bc9d69c5037a509ea693b
+20. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas [Reglamentas (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj). ^s-015bc9d69c5037a509ea693b
 
 
-21. 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, su paskutiniais pakeitimais, padarytais 2022 m. liepos 12 d. Komisijos deleguotuoju reglamentu (ES) 2022/1988. ^s-0bcc9d4de1f2c2ad52af475b
+21. 2020 m. spalio 7 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj) dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas [Reglamentas (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) ir [Direktyva (ES) 2019/1937](https://eur-lex.europa.eu/eli/dir/2019/1937/oj), su paskutiniais pakeitimais, padarytais 2022 m. liepos 12 d. Komisijos deleguotuoju [reglamentu (ES) 2022/1988](https://eur-lex.europa.eu/eli/reg/2022/1988/oj). ^s-0bcc9d4de1f2c2ad52af475b
 
 
-22. 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/23 dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1095/2010, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132. ^s-09795c1cc9b462a0c8754e0b
+22. 2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2021/23](https://eur-lex.europa.eu/eli/reg/2021/23/oj) dėl pagrindinių sandorio šalių gaivinimo ir pertvarkymo sistemos, kuriuo iš dalies keičiami [reglamentai (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj), (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 806/2014 ir (ES) 2015/2365 ir direktyvos 2002/47/EB, 2004/25/EB, 2007/36/EB, 2014/59/ES ir (ES) 2017/1132. ^s-09795c1cc9b462a0c8754e0b
 
 
-23. 2022 m. gegužės 30 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/858 dėl paskirstytojo registro technologija grindžiamoms rinkos infrastruktūroms skirtos bandomosios tvarkos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 600/2014 ir (ES) Nr. 909/2014 ir Direktyva 2014/65/ES. ^s-af68c7387d627244e35cf013
+23. 2022 m. gegužės 30 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2022/858](https://eur-lex.europa.eu/eli/reg/2022/858/oj) dėl paskirstytojo registro technologija grindžiamoms rinkos infrastruktūroms skirtos bandomosios tvarkos, kuriuo iš dalies keičiami reglamentai (ES) Nr. 600/2014 ir (ES) Nr. 909/2014 ir Direktyva 2014/65/ES. ^s-af68c7387d627244e35cf013
 
 
-24. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo. ^s-c904ebeff4306f5f19504960
+24. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2022/2556](https://eur-lex.europa.eu/eli/dir/2022/2556/oj), kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo. ^s-c904ebeff4306f5f19504960
 
 
-25. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011. ^s-c889c1e372b6b1a713eaf829
+25. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami [reglamentai (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj), (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011. ^s-c889c1e372b6b1a713eaf829
 
 
-26. 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/3005 dėl reitingavimo pagal aplinkos, socialinius ir valdymo (ASV) kriterijus veiklos skaidrumo ir sąžiningumo, kuriuo iš dalies keičiami reglamentai (ES) 2019/2088 ir (ES) 2023/2859. ^s-e4c68a183e4fe6cf0257ed43
+26. 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2024/3005](https://eur-lex.europa.eu/eli/reg/2024/3005/oj) dėl reitingavimo pagal aplinkos, socialinius ir valdymo (ASV) kriterijus veiklos skaidrumo ir sąžiningumo, kuriuo iš dalies keičiami [reglamentai (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) ir (ES) 2023/2859. ^s-e4c68a183e4fe6cf0257ed43
 –––––––––––––––––
 
 
@@ -6087,18 +6087,18 @@ Nr. X-1776, 2008-11-06, Žin., 2008, Nr. 131-5026 (2008-11-15)
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-199, 2009-03-19, Žin., 2009, Nr. 38-1438 (2009-04-04)
-[[#^s-4e9ce0087999dfeb65bed0f2|FINANSINIŲ PRIEMONIŲ RINKŲ ĮSTATYMO 3, 7, 10, 14, 20, 41, 42, 43, 47, 51, 62, 64, 80, 82, 83, 85, 86, 95, 97 STRAIPSNIŲ]] BEI PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 85(1) STRAIPSNIU ĮSTATYMAS
+FINANSINIŲ PRIEMONIŲ RINKŲ ĮSTATYMO [[#^s-af37e89e5229341944f6a883|3]], [[#^s-8b837945108cc488c27cf6b5|7]], [[#^s-84b8328dce232e0b8fb3fe2a|10]], [[#^s-f78bcf4a6a18f7402393db80|14]], [[#^s-184843e9c1e4e4cfb9c19dce|20]], [[#^s-aebbf977abc5e10c6c52989e|41]], [[#^s-a11aff05b870d45dd71e4a76|42]], [[#^s-515791c90cee5eb56fe9fd65|43]], [[#^s-fedb1137e0a7e6f07dafadf0|47]], [[#^s-9c1d1704c18977f448f35a9c|51]], [[#^s-a6746bbdbec90d569e6625a9|62]], [[#^s-dbda46cac5b712ecefa35e9c|64]], [[latest/TAR.AB7AFE2F35B2|80]], [[latest/TAR.AB7AFE2F35B2|82]], [[latest/TAR.AB7AFE2F35B2|83]], [[latest/TAR.AB7AFE2F35B2|85]], [[latest/TAR.AB7AFE2F35B2|86]], [[#^s-805c4feea789db76099daf79|95]], [[#^s-4e9ce0087999dfeb65bed0f2|97]] STRAIPSNIŲ BEI PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 85(1) STRAIPSNIU ĮSTATYMAS
 Iki šio įstatymo įsigaliojimo Vertybinių popierių komisijai paduoti prašymai dėl sutikimo įsigyti ar padidinti finansų maklerio įmonės ar reguliuojamos rinkos operatoriaus akcijų paketą nagrinėjami ir sprendimai priimami prašymo padavimo metu galiojusių teisės aktų nustatyta tvarka.
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-875, 2010-06-03, Žin., 2010, Nr. 71-3551 (2010-06-19)
-[[#^s-03cc58c7825d6bf7a8d13799|FINANSINIŲ PRIEMONIŲ RINKŲ ĮSTATYMO 2, 3, 10, 22, 32, 47, 55, 62, 64, 68, 71, 72, 73, 85, 86, 87, 95, 96 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 96(1) STRAIPSNIU ĮSTATYMAS
+FINANSINIŲ PRIEMONIŲ RINKŲ ĮSTATYMO [[#^s-b49d9e45270496bd668f7abd|2]], [[#^s-af37e89e5229341944f6a883|3]], [[#^s-84b8328dce232e0b8fb3fe2a|10]], [[#^s-02873015d9fdb562032879d7|22]], [[#^s-161773e68b6e1f4830a44bdb|32]], [[#^s-fedb1137e0a7e6f07dafadf0|47]], [[#^s-b8f87ed5d7f4e03cb1ad1180|55]], [[#^s-a6746bbdbec90d569e6625a9|62]], [[#^s-dbda46cac5b712ecefa35e9c|64]], [[#^s-7fba06c21fff99ec6c1e5735|68]], [[#^s-24868cb0a33f3bc003516424|71]], [[#^s-3bc6d4c2cca1b5e2fc239550|72]], [[#^s-103abcd434bc6044ceb48f49|73]], [[latest/TAR.AB7AFE2F35B2|85]], [[latest/TAR.AB7AFE2F35B2|86]], [[#^s-f800fd8037a385e92b8041f5|87]], [[#^s-805c4feea789db76099daf79|95]], [[#^s-03cc58c7825d6bf7a8d13799|96]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 96(1) STRAIPSNIU ĮSTATYMAS
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1402, 2011-05-24, Žin., 2011, Nr. 71-3364 (2011-06-11)
-[[#^s-805c4feea789db76099daf79|FINANSINIŲ PRIEMONIŲ RINKŲ ĮSTATYMO 3, 4, 7, 15, 18, 20, 21, 64, 67, 68, 69, 71, 80, 85, 95 STRAIPSNIŲ]] IR PRIEDO PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 90(1), 93(1) STRAIPSNIAIS ĮSTATYMAS
+FINANSINIŲ PRIEMONIŲ RINKŲ ĮSTATYMO [[#^s-af37e89e5229341944f6a883|3]], [[#^s-064eec473c00e49cc614d37b|4]], [[#^s-8b837945108cc488c27cf6b5|7]], [[#^s-6ecaddf07da1622997a18414|15]], [[#^s-e86b0fd2b30f8c87a6f8d300|18]], [[#^s-184843e9c1e4e4cfb9c19dce|20]], [[#^s-7182526ebe3e9164625b4dcc|21]], [[#^s-dbda46cac5b712ecefa35e9c|64]], [[#^s-a01cfe55d540cfa9e57001e2|67]], [[#^s-7fba06c21fff99ec6c1e5735|68]], [[#^s-30b525ea23963c297e025052|69]], [[#^s-24868cb0a33f3bc003516424|71]], [[latest/TAR.AB7AFE2F35B2|80]], [[latest/TAR.AB7AFE2F35B2|85]], [[#^s-805c4feea789db76099daf79|95]] STRAIPSNIŲ IR PRIEDO PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 90(1), 93(1) STRAIPSNIAIS ĮSTATYMAS
 Finansų maklerio įmonės, rinkos operatorius ir Centrinis depozitoriumas, vadovaudamiesi šio įstatymo [[#^s-064eec473c00e49cc614d37b|4 straipsniu]], pagal tarptautinius apskaitos standartus sudaro 2012 m. sausio 1 d. ir vėliau prasidedančių ataskaitinių laikotarpių finansines ataskaitas.
 
 5.
@@ -6125,22 +6125,22 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1103, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13435
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 4 ir [[#^s-c620df69650dc99b1d8ce58a|93 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-064eec473c00e49cc614d37b|4]] ir [[#^s-c620df69650dc99b1d8ce58a|93]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1470, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21127
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 70, 84, [[#^s-c620df69650dc99b1d8ce58a|93 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-10736acdce1ea3220090879a|70]], 84, [[#^s-c620df69650dc99b1d8ce58a|93]] straipsnių ir priedo pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1547, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04840
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 7, 12, 13, 70, 71, 76, 81, 84, 88, [[#^s-b1a65d990298475872fa33a9|89 straipsnių]], VI skyriaus antrojo skirsnio pavadinimo ir Įstatymo priedo pakeitimo ir Įstatymo papildymo 12-1, 12-2, 25-1, 73-1 straipsniais įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-b49d9e45270496bd668f7abd|2]], [[#^s-af37e89e5229341944f6a883|3]], [[#^s-8b837945108cc488c27cf6b5|7]], [[#^s-8d7551fd167039d61f6d54ec|12]], [[#^s-c06cad8c35d3c2f5a6655a2c|13]], [[#^s-10736acdce1ea3220090879a|70]], [[#^s-24868cb0a33f3bc003516424|71]], [[#^s-530f24bc6b3d4ef36f86ae18|76]], 81, 84, [[#^s-ba18be0fcc2ef247d16f155b|88]], [[#^s-b1a65d990298475872fa33a9|89]] straipsnių, VI skyriaus antrojo skirsnio pavadinimo ir Įstatymo priedo pakeitimo ir Įstatymo papildymo 12-1, 12-2, 25-1, 73-1 straipsniais įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2057, 2015-11-24, paskelbta TAR 2015-12-02, i. k. 2015-19168
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 71, 81, 83, 84, [[#^s-f800fd8037a385e92b8041f5|87 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 9-1, 85-1 straipsniais įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-b49d9e45270496bd668f7abd|2]], [[#^s-af37e89e5229341944f6a883|3]], [[#^s-24868cb0a33f3bc003516424|71]], 81, 83, 84, [[#^s-f800fd8037a385e92b8041f5|87]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 9-1, 85-1 straipsniais įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6155,7 +6155,7 @@ Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 83 strai
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-462, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10819
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 7, 44, 67, 70, 71, 73-1, 76, 81, 83, 84, 93, [[#^s-d6095f228870b15176669b6b|94 straipsnių]] ir priedo pakeitimo ir IV skyriaus, 25-1, [[#^s-7fba06c21fff99ec6c1e5735|68 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-b49d9e45270496bd668f7abd|2]], [[#^s-af37e89e5229341944f6a883|3]], [[#^s-8b837945108cc488c27cf6b5|7]], [[#^s-fe9a5fe222f3f9c9c38b4797|44]], [[#^s-a01cfe55d540cfa9e57001e2|67]], [[#^s-10736acdce1ea3220090879a|70]], [[#^s-24868cb0a33f3bc003516424|71]], 73-1, [[#^s-530f24bc6b3d4ef36f86ae18|76]], 81, 83, 84, [[#^s-c620df69650dc99b1d8ce58a|93]], [[#^s-d6095f228870b15176669b6b|94]] straipsnių ir priedo pakeitimo ir IV skyriaus, 25-1, [[#^s-7fba06c21fff99ec6c1e5735|68]] straipsnių pripažinimo netekusiais galios įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6165,7 +6165,7 @@ Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 pakeitim
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1877, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00227
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 29 ir [[#^s-ba18be0fcc2ef247d16f155b|88 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-b49d9e45270496bd668f7abd|2]], [[#^s-aed983dc83eb9af799847e25|29]] ir [[#^s-ba18be0fcc2ef247d16f155b|88]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6175,37 +6175,37 @@ Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-5d
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2252, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11172
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 88, 89, 90, 93, [[#^s-c1300260aae553af8385c8d9|102 straipsnių]], penktojo skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 41-1, 41-2, 41-3, 41-4, 89-1 straipsniais įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-b49d9e45270496bd668f7abd|2]], [[#^s-af37e89e5229341944f6a883|3]], [[#^s-ba18be0fcc2ef247d16f155b|88]], [[#^s-b1a65d990298475872fa33a9|89]], [[#^s-7ab29a37a5f437b3875541d4|90]], [[#^s-c620df69650dc99b1d8ce58a|93]], [[#^s-c1300260aae553af8385c8d9|102]] straipsnių, penktojo skirsnio pavadinimo ir priedo pakeitimo ir Įstatymo papildymo 41-1, 41-2, 41-3, 41-4, 89-1 straipsniais įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2358, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11980
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 3, 25, 35, 53, 56, 58, 59, 62, 82, [[#^s-2fb7b0c8f3e01c20b01f9de2|111 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 62-1 straipsniu įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-af37e89e5229341944f6a883|3]], [[#^s-32d70d61cb9f6723fd5420cd|25]], [[#^s-9b450eb9c9bdbaf61c14f7fb|35]], [[#^s-c40f1c49051aa1dfe2376932|53]], [[#^s-8c025320fd93093678ac9cea|56]], [[#^s-0aa4d3dd7c6b6493c118aa7b|58]], [[#^s-e233a995f918f3507e6cfa48|59]], [[#^s-a6746bbdbec90d569e6625a9|62]], 82, [[#^s-2fb7b0c8f3e01c20b01f9de2|111]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 62-1 straipsniu įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2974, 2020-05-21, paskelbta TAR 2020-05-29, i. k. 2020-11674
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 30, 62-1, [[#^s-a01cfe55d540cfa9e57001e2|67 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-b49d9e45270496bd668f7abd|2]], [[#^s-af37e89e5229341944f6a883|3]], [[#^s-04f30d7da338e3bc5d04bb28|30]], 62-1, [[#^s-a01cfe55d540cfa9e57001e2|67]] straipsnių ir priedo pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2964, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11343
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 6 ir 79 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-f39cfd8a27617a09df5201b2|6]] ir 79 straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-767, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26896
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 15, 102, [[#^s-474e7876c008daa754706bfd|107 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 29-1 ir 105-1 straipsniais įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-6ecaddf07da1622997a18414|15]], [[#^s-c1300260aae553af8385c8d9|102]], [[#^s-474e7876c008daa754706bfd|107]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 29-1 ir 105-1 straipsniais įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-821, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27710
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 6, 8, 9, 13, 14, 15, 16, 23, 29, 30, 31, 33, 35, 37, 39, 49, 50, 51, 72, 73, 76, 93, 97, 99, 102, 107, 111, 112, [[#^s-4482c0ee6bd6c60060317ac0|114 straipsnių]], priedo pakeitimo, Įstatymo papildymo 14-1, 14-2, 15-1, 15-2, 15-3, 15-4, 15-5, 15-6, 44-1, 107-1, 111-1 straipsniais ir V skyriaus pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-b49d9e45270496bd668f7abd|2]], [[#^s-af37e89e5229341944f6a883|3]], [[#^s-f39cfd8a27617a09df5201b2|6]], [[#^s-e5bb3e444d49085978668966|8]], [[#^s-254abe334a6bf25c95d778c4|9]], [[#^s-c06cad8c35d3c2f5a6655a2c|13]], [[#^s-f78bcf4a6a18f7402393db80|14]], [[#^s-6ecaddf07da1622997a18414|15]], [[#^s-89450573533cf207a398cd23|16]], [[#^s-416e07231a11cc59a7c5f200|23]], [[#^s-aed983dc83eb9af799847e25|29]], [[#^s-04f30d7da338e3bc5d04bb28|30]], [[#^s-c07a062a6941b9fda4de5a2d|31]], [[#^s-35fdea57b48f385fd053d94f|33]], [[#^s-9b450eb9c9bdbaf61c14f7fb|35]], [[#^s-058c84bb27ce67a0b47fa7d4|37]], [[#^s-5d43fa5d35cbe14ee37c64f1|39]], [[#^s-e798139670f4862aa13eb0f3|49]], [[#^s-064f71d17e8da4badbe749f1|50]], [[#^s-9c1d1704c18977f448f35a9c|51]], [[#^s-3bc6d4c2cca1b5e2fc239550|72]], [[#^s-103abcd434bc6044ceb48f49|73]], [[#^s-530f24bc6b3d4ef36f86ae18|76]], [[#^s-c620df69650dc99b1d8ce58a|93]], [[#^s-4e9ce0087999dfeb65bed0f2|97]], [[#^s-792352701b1d6811dd560853|99]], [[#^s-c1300260aae553af8385c8d9|102]], [[#^s-474e7876c008daa754706bfd|107]], [[#^s-2fb7b0c8f3e01c20b01f9de2|111]], [[#^s-d0cb70dc7c07585b914be6cd|112]], [[#^s-4482c0ee6bd6c60060317ac0|114]] straipsnių, priedo pakeitimo, Įstatymo papildymo 14-1, 14-2, 15-1, 15-2, 15-3, 15-4, 15-5, 15-6, 44-1, 107-1, 111-1 straipsniais ir V skyriaus pripažinimo netekusiu galios įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1455, 2022-10-27, paskelbta TAR 2022-11-07, i. k. 2022-22566
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 93, [[#^s-2fb7b0c8f3e01c20b01f9de2|111 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo VI-1 skyriumi įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-b49d9e45270496bd668f7abd|2]], [[#^s-af37e89e5229341944f6a883|3]], [[#^s-c620df69650dc99b1d8ce58a|93]], [[#^s-2fb7b0c8f3e01c20b01f9de2|111]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo VI-1 skyriumi įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6220,7 +6220,7 @@ Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-c1
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1893, 2023-04-25, paskelbta TAR 2023-05-05, i. k. 2023-08612
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 3, [[#^s-c620df69650dc99b1d8ce58a|93 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-af37e89e5229341944f6a883|3]], [[#^s-c620df69650dc99b1d8ce58a|93]] straipsnių ir priedo pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6230,19 +6230,19 @@ Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-c1
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2888, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13497
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 4, 15-4, 15-5, 29, 30, 41-1, 41-2, 41-3, 53, 72, 91, 93, 102, 112, [[#^s-4482c0ee6bd6c60060317ac0|114 straipsnių]], II skyriaus penktojo skirsnio pavadinimo ir priedo pakeitimo įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-b49d9e45270496bd668f7abd|2]], [[#^s-af37e89e5229341944f6a883|3]], [[#^s-064eec473c00e49cc614d37b|4]], 15-4, 15-5, [[#^s-aed983dc83eb9af799847e25|29]], [[#^s-04f30d7da338e3bc5d04bb28|30]], 41-1, 41-2, 41-3, [[#^s-c40f1c49051aa1dfe2376932|53]], [[#^s-3bc6d4c2cca1b5e2fc239550|72]], [[#^s-0bcbbb292a8edff63904adf3|91]], [[#^s-c620df69650dc99b1d8ce58a|93]], [[#^s-c1300260aae553af8385c8d9|102]], [[#^s-d0cb70dc7c07585b914be6cd|112]], [[#^s-4482c0ee6bd6c60060317ac0|114]] straipsnių, II skyriaus penktojo skirsnio pavadinimo ir priedo pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-298, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11967
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 3, 15-4, 16, 18, 21, 49, 62, 70, 93, [[#^s-d0cb70dc7c07585b914be6cd|112 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-af37e89e5229341944f6a883|3]], 15-4, [[#^s-89450573533cf207a398cd23|16]], [[#^s-e86b0fd2b30f8c87a6f8d300|18]], [[#^s-7182526ebe3e9164625b4dcc|21]], [[#^s-e798139670f4862aa13eb0f3|49]], [[#^s-a6746bbdbec90d569e6625a9|62]], [[#^s-10736acdce1ea3220090879a|70]], [[#^s-c620df69650dc99b1d8ce58a|93]], [[#^s-d0cb70dc7c07585b914be6cd|112]] straipsnių ir priedo pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-860, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06969
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 15, 102, [[#^s-474e7876c008daa754706bfd|107 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 29-1 ir 105-1 straipsniais [[latest/1a105440640311eca9ac839120d251c4|įstatymo Nr. XIV-767]] [[#^s-af37e89e5229341944f6a883|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-6ecaddf07da1622997a18414|15]], [[#^s-c1300260aae553af8385c8d9|102]], [[#^s-474e7876c008daa754706bfd|107]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 29-1 ir 105-1 straipsniais [[latest/1a105440640311eca9ac839120d251c4|įstatymo Nr. XIV-767]] [[#^s-af37e89e5229341944f6a883|3 straipsnio]] pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-843, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06952
-Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 2, 3, 13, 14-2, 15-4, 15-6, 17, 25, 27, 29, 29-1, 33, 36, 40, 41, 41-1, 41-2, 41-4, 43, 44-1, 49, 50, 60, 62, 64, 65, 67, 70, 73, 76, 88, 102, 111, [[#^s-d0cb70dc7c07585b914be6cd|112 straipsnių]], priedo pakeitimo ir [[#^s-24868cb0a33f3bc003516424|71 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos finansinių priemonių rinkų įstatymo Nr. X-1024 [[#^s-b49d9e45270496bd668f7abd|2]], [[#^s-af37e89e5229341944f6a883|3]], [[#^s-c06cad8c35d3c2f5a6655a2c|13]], 14-2, 15-4, 15-6, [[#^s-3bf1926a20dcd5dd95b9c89a|17]], [[#^s-32d70d61cb9f6723fd5420cd|25]], [[#^s-0b8e075a61281deae4e21f04|27]], [[#^s-aed983dc83eb9af799847e25|29]], 29-1, [[#^s-35fdea57b48f385fd053d94f|33]], [[#^s-47c92947bddd135f730f4d38|36]], [[#^s-05d055bd8f4f2472e83289b1|40]], [[#^s-aebbf977abc5e10c6c52989e|41]], 41-1, 41-2, 41-4, [[#^s-515791c90cee5eb56fe9fd65|43]], 44-1, [[#^s-e798139670f4862aa13eb0f3|49]], [[#^s-064f71d17e8da4badbe749f1|50]], [[#^s-a0221760c43878d0b634f63a|60]], [[#^s-a6746bbdbec90d569e6625a9|62]], [[#^s-dbda46cac5b712ecefa35e9c|64]], [[#^s-702fe407424be7110433b411|65]], [[#^s-a01cfe55d540cfa9e57001e2|67]], [[#^s-10736acdce1ea3220090879a|70]], [[#^s-103abcd434bc6044ceb48f49|73]], [[#^s-530f24bc6b3d4ef36f86ae18|76]], [[#^s-ba18be0fcc2ef247d16f155b|88]], [[#^s-c1300260aae553af8385c8d9|102]], [[#^s-2fb7b0c8f3e01c20b01f9de2|111]], [[#^s-d0cb70dc7c07585b914be6cd|112]] straipsnių, priedo pakeitimo ir [[#^s-24868cb0a33f3bc003516424|71 straipsnio]] pripažinimo netekusiu galios įstatymas

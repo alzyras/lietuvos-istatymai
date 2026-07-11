@@ -166,7 +166,7 @@ Teisę gauti šalpos pensiją, kai yra šio Įstatymo [[#^s-35f84fe61561e0770b11
 1. Šalpos pensijos skiriamos ir mokamos asmenims, neturintiems teisės gauti šio Įstatymo [[#^s-4facdab3410d69f5ebca6e93|2 straipsnio 5 dalyje]] nurodytų pensijų ir (ar) pensijų išmokų, išskyrus: ^s-dc7a6dd131db9ab4777e9f9f
 
 
-1) šio Įstatymo [[#^s-7232daac3fa9ac5a1a880175|5 straipsnio]] 1 ir [[#^s-221abd749b5eb0ce86a412b5|2 punktuose]] nurodytus asmenis, kurie kartu su šalpos pensijomis turi teisę gauti valstybines socialinio draudimo našlaičių ar našlių pensijas ir (ar) valstybines našlaičių pensijas; ^s-834b003dc01cabaa7c3d14c4
+1) šio Įstatymo [[#^s-7232daac3fa9ac5a1a880175|5 straipsnio]] 1 ir 2 punktuose nurodytus asmenis, kurie kartu su šalpos pensijomis turi teisę gauti valstybines socialinio draudimo našlaičių ar našlių pensijas ir (ar) valstybines našlaičių pensijas; ^s-834b003dc01cabaa7c3d14c4
 
 
 2) šio Įstatymo [[#^s-7232daac3fa9ac5a1a880175|5 straipsnio]] 3 ir 4 punktuose nurodytus asmenis, kurie kartu su šalpos pensijomis turi teisę gauti valstybines socialinio draudimo našlių pensijas. ^s-221abd749b5eb0ce86a412b5
@@ -188,7 +188,7 @@ Teisę gauti šalpos pensiją, kai yra šio Įstatymo [[#^s-35f84fe61561e0770b11
 2) šio Įstatymo [[#^s-428dc411378aa1595d2d4622|5 straipsnio 2 punkte]] nurodytiems asmenims, pripažintiems I grupės invalidais, – 2 bazinių pensijų dydžio, II grupės invalidais, – 1,5 bazinės pensijos dydžio, III grupės invalidais, – 0,75 bazinės pensijos dydžio; ^s-252eb9b30aa69a48e56b7190
 
 
-3) šio Įstatymo [[#^s-7232daac3fa9ac5a1a880175|5 straipsnio]] 3 ir 4 punktuose nurodytiems asmenims, pripažintiems I grupės invalidais, – 1,5 bazinės pensijos dydžio, sukakusiems senatvės pensijos amžių ar pripažintiems II grupės invalidais, – bazinės pensijos dydžio. ^s-4cc20aec0acc00ce18b22584
+3) šio Įstatymo [[#^s-7232daac3fa9ac5a1a880175|5 straipsnio]] [[#^s-518dbdf33da490ce5292bc02|3]] ir [[#^s-cb1592f669bc7036819c9285|4]] punktuose nurodytiems asmenims, pripažintiems I grupės invalidais, – 1,5 bazinės pensijos dydžio, sukakusiems senatvės pensijos amžių ar pripažintiems II grupės invalidais, – bazinės pensijos dydžio. ^s-4cc20aec0acc00ce18b22584
 
 
 
@@ -358,10 +358,10 @@ Teisę gauti šalpos kompensaciją šio Įstatymo [[#^s-15d2e8ed4a2ad32aba147f4d
 2. Asmenims, kurie turi teisę gauti šio Įstatymo [[#^s-4facdab3410d69f5ebca6e93|2 straipsnio 5 dalyje]] nurodytą pensiją ir (ar) pensijų išmoką, kurios dydis (bendra visų paskirtų pensijų ir (ar) pensijų išmokų suma) lygus arba mažesnis už šalpos pensiją, šalpos našlaičių pensiją ar šalpos kompensaciją, pastarosios šalpos išmokos neskiriamos ir nemokamos tol, kol asmuo gauna pensiją ir (ar) pensijų išmoką. ^s-5799b2653d8df755c160f588
 
 
-3. Šalpos išmokos skiriamos ir mokamos nepaisant to, ar jų gavėjai yra asmenys, išvardyti [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] 1–8 punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymas]]. ^s-b63a6ef766f3d4c5dec60a35
+3. Šalpos išmokos skiriamos ir mokamos nepaisant to, ar jų gavėjai yra asmenys, išvardyti [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] [[latest/TAR.A7F77DF94F5D|1]]–[[latest/TAR.A7F77DF94F5D|8]] punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymas]]. ^s-b63a6ef766f3d4c5dec60a35
 
 
-4. Šalpos pensijos šio Įstatymo [[#^s-cb1592f669bc7036819c9285|5 straipsnio 4 punkte]] nurodytiems asmenims ir šalpos kompensacijos šio Įstatymo [[#^s-e2fa8bd454fd486e71b26acf|15 straipsnio 2 punkte]] nurodytiems asmenims skiriamos ir mokamos tik tuo atveju, jeigu jų pagimdyti ir iki 8 metų išauginti vaikai nebuvo globojami (rūpinami) kūdikių namuose ar kitose globos, auklėjimo ar slaugos įstaigose ir jeigu įstatymų nustatyta tvarka motinai nebuvo apribota tėvų valdžia (atimtos motinystės ar vaikų auklėjimo teisės arba motinai tėvystės teisės nebuvo apribotos). ^s-6a1176d11201addb8e9e5d42
+4. Šalpos pensijos šio Įstatymo 5 straipsnio 4 punkte nurodytiems asmenims ir šalpos kompensacijos šio Įstatymo 15 straipsnio 2 punkte nurodytiems asmenims skiriamos ir mokamos tik tuo atveju, jeigu jų pagimdyti ir iki 8 metų išauginti vaikai nebuvo globojami (rūpinami) kūdikių namuose ar kitose globos, auklėjimo ar slaugos įstaigose ir jeigu įstatymų nustatyta tvarka motinai nebuvo apribota tėvų valdžia (atimtos motinystės ar vaikų auklėjimo teisės arba motinai tėvystės teisės nebuvo apribotos). ^s-6a1176d11201addb8e9e5d42
 
 
 5. Tikslinės kompensacijos slaugos išlaidoms bei slaugos pašalpos skiriamos ir mokamos nepaisant šių šalpos išmokų gavėjų gaunamų pensijų ir (ar) pensijų išmokų, šalpos išmokų, taip pat nepaisant kitų pajamų. ^s-67dd7ace56563f346a725372
@@ -487,7 +487,7 @@ Teisę gauti šalpos kompensaciją šio Įstatymo [[#^s-15d2e8ed4a2ad32aba147f4d
 2. Asmenims iki 18 metų, kuriems buvo paskirtos šalpos pensijos ar (ir) šalpos našlaičių pensijos ir kurie po to apgyvendinami ar pradedami slaugyti iš valstybės ar savivaldybės biudžetų lėšų visai ar iš dalies finansuojamose globos, auklėjimo ar slaugos įstaigose, šios pensijos nemokamos nuo dienos, einančios po tos dienos, kurią jie apgyvendinti šiose įstaigose. ^s-03688019d06be81b92c92698
 
 
-3. Kai šio straipsnio 1 ir [[#^s-03688019d06be81b92c92698|2 dalyse]] nurodyti asmenys laikinai ar visam laikui išvyksta (paimami) iš globos, auklėjimo ar slaugos įstaigų, šalpos pensijos ar (ir) šalpos našlaičių pensijos jų pačių ar vieno iš jų tėvų (įtėvių), globėjų ar rūpintojų prašymu skiriamos, o paskirtos pradedamos mokėti nuo dienos, einančios po tos dienos, kurią jie išvyko (paimti) iš šių įstaigų. Jiems vėl grįžus į nurodytas įstaigas, šalpos pensijos ar (ir) šalpos našlaičių pensijos nemokamos nuo dienos, einančios po tos dienos, kurią jie apgyvendinti šiose įstaigose. ^s-3569c014d257945d18df79bf
+3. Kai šio straipsnio [[#^s-7b466c61e73ad152b2738fea|1]] ir [[#^s-03688019d06be81b92c92698|2]] dalyse nurodyti asmenys laikinai ar visam laikui išvyksta (paimami) iš globos, auklėjimo ar slaugos įstaigų, šalpos pensijos ar (ir) šalpos našlaičių pensijos jų pačių ar vieno iš jų tėvų (įtėvių), globėjų ar rūpintojų prašymu skiriamos, o paskirtos pradedamos mokėti nuo dienos, einančios po tos dienos, kurią jie išvyko (paimti) iš šių įstaigų. Jiems vėl grįžus į nurodytas įstaigas, šalpos pensijos ar (ir) šalpos našlaičių pensijos nemokamos nuo dienos, einančios po tos dienos, kurią jie apgyvendinti šiose įstaigose. ^s-3569c014d257945d18df79bf
 
 
 4. Tikslinės kompensacijos slaugos išlaidoms ir slaugos pašalpos vaikams invalidams ir invalidams, gyvenantiems ar slaugomiems iš valstybės ar savivaldybės biudžetų lėšų visai ar iš dalies finansuojamose globos, auklėjimo ar slaugos įstaigose, neskiriamos ir nemokamos. Kai šie invalidai laikinai ar visam laikui išvyksta (paimami) iš šių įstaigų, tikslinės kompensacijos slaugos išlaidoms ir slaugos pašalpos invalido arba vieno iš jo tėvų (įtėvių), globėjo ar rūpintojo prašymu skiriamos, o paskirtos pradedamos mokėti nuo dienos, einančios po tos dienos, kurią jie išvyko (paimti) iš globos, auklėjimo ar slaugos įstaigų. Jiems vėl grįžus į nurodytas įstaigas tikslinės kompensacijos slaugos išlaidoms ir slaugos pašalpos nemokamos nuo dienos, einančios po tos dienos, kurią jie vėl apgyvendinti ar pradėti slaugyti nurodytose įstaigose. ^s-260d9ed225fd2d87f4330fda
@@ -527,7 +527,7 @@ TEISIŲ, ĮGYTŲ IKI ŠIO ĮSTATYMO ĮSIGALIOJIMO, IŠSAUGOJIMAS
 ### 24 straipsnis. Asmenų iki 18 metų įgytų teisių išsaugojimas ^s-35faa0dfbfdbcbe32372fc7a
 
 
-1. Asmenims nuo 16 iki 18 metų, kurie buvo pripažinti I, II ar III grupės invalidais iki šio Įstatymo įsigaliojimo, šalpos pensijos skiriamos ir mokamos šių dydžių: I grupės invalidams – 2 bazinių pensijų dydžio, II grupės invalidams – 1,5 bazinės pensijos dydžio, III grupės invalidams – bazinės pensijos dydžio. Kai šie invalidai sukanka 18 metų, šalpos pensijos jiems mokamos šio Įstatymo [[#^s-252eb9b30aa69a48e56b7190|7 straipsnio 2 punkte]] nustatytų dydžių. ^s-59647402b378046dcc9bd036
+1. Asmenims nuo 16 iki 18 metų, kurie buvo pripažinti I, II ar III grupės invalidais iki šio Įstatymo įsigaliojimo, šalpos pensijos skiriamos ir mokamos šių dydžių: I grupės invalidams – 2 bazinių pensijų dydžio, II grupės invalidams – 1,5 bazinės pensijos dydžio, III grupės invalidams – bazinės pensijos dydžio. Kai šie invalidai sukanka 18 metų, šalpos pensijos jiems mokamos šio Įstatymo 7 straipsnio 2 punkte nustatytų dydžių. ^s-59647402b378046dcc9bd036
 
 
 2. Jeigu įsigaliojus šiam Įstatymui dėl invalidumo lygio nustatymo vaikui invalidui, pripažintam tokiu iki šio Įstatymo įsigaliojimo, nesikreipiama, bazinės pensijos dydžio šalpos pensija mokama tol, kol vaikui invalidui bus nustatytas atitinkamas invalidumo lygis, arba tol, kol pasibaigia šalpos pensijos mokėjimo terminas, arba tol, kol vaikui invalidui sukaks 16 metų. ^s-f029feb5554cf847a8e22acd
@@ -562,7 +562,7 @@ Sukakusiems 18 metų asmenims, kurie iki šio Įstatymo įsigaliojimo buvo pripa
 2) I grupės invalidai nuo vaikystės arba tapę I grupės invalidais iki 18 metų asmenys pripažįstami II ar III grupės invalidais; ^s-738acc085831c6bd9932a73b
 
 
-3) [[#^s-4b7b2309a79efc1713d1988a|šio straipsnio 1 dalyje]] nurodyti asmenys toliau namuose neslaugomi arba kai jie apgyvendinami ar slaugomi iš valstybės ar savivaldybių biudžetų lėšų visai ar iš dalies finansuojamose globos, auklėjimo ar slaugos įstaigose. Šiais atvejais šalpos pensijos už nurodytų asmenų buvimo globos, auklėjimo ar slaugos įstaigose laiką nemokamos, o jiems išvykus (juos paėmus) iš nurodytų įstaigų, vėl pradedamos mokėti šio Įstatymo [[#^s-84599831cf03259fa9dc5d75|22 straipsnio]] 2 ir [[#^s-d80a94b7fcec8b50cc645403|3 dalyse]] nustatyta tvarka; ^s-00ba7451ea427fea2ab7c472
+3) [[#^s-4b7b2309a79efc1713d1988a|šio straipsnio 1 dalyje]] nurodyti asmenys toliau namuose neslaugomi arba kai jie apgyvendinami ar slaugomi iš valstybės ar savivaldybių biudžetų lėšų visai ar iš dalies finansuojamose globos, auklėjimo ar slaugos įstaigose. Šiais atvejais šalpos pensijos už nurodytų asmenų buvimo globos, auklėjimo ar slaugos įstaigose laiką nemokamos, o jiems išvykus (juos paėmus) iš nurodytų įstaigų, vėl pradedamos mokėti šio Įstatymo [[#^s-84599831cf03259fa9dc5d75|22 straipsnio]] [[#^s-03688019d06be81b92c92698|2]] ir [[#^s-3569c014d257945d18df79bf|3]] dalyse nustatyta tvarka; ^s-00ba7451ea427fea2ab7c472
 
 
 4) teisės aktų nustatyta tvarka paskirtas globėju ar rūpintoju asmuo atleidžiamas ar nušalinamas nuo globėjo (rūpintojo) pareigų. ^s-365720567783ca55bd6d3607
@@ -571,7 +571,7 @@ Sukakusiems 18 metų asmenims, kurie iki šio Įstatymo įsigaliojimo buvo pripa
 3. Jeigu įsigaliojus šiam Įstatymui vaikai invalidai iki 16 metų pripažįstami turinčiais lengvą negalią arba dėl invalidumo lygio nustatymo nesikreipta, šalpos pensija už invalidų slaugą namuose mokama tol, kol 16 metų neturinčiam vaikui invalidui bus nustatyta sunki ar vidutinė negalia ir jis įgis teisę gauti tikslinę kompensaciją slaugos išlaidoms arba kol jam sukaks 16 metų. ^s-d80a94b7fcec8b50cc645403
 
 
-4. Šiame straipsnyje nurodytos šalpos pensijos mokamos nepaisant šių pensijų gavėjų gaunamų jiems patiems priklausančių šalpos pensijų arba šalpos kompensacijų, taip pat nepaisant jų gaunamų pensijų ir (ar) pensijų išmokų ([[#^s-4facdab3410d69f5ebca6e93|2 straipsnio 5 dalis]]) bei nepaisant to, ar jų gavėjai yra asmenys, nurodyti [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] 1–8 punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymas]]. ^s-6b542df2f97323f0288d7ee4
+4. Šiame straipsnyje nurodytos šalpos pensijos mokamos nepaisant šių pensijų gavėjų gaunamų jiems patiems priklausančių šalpos pensijų arba šalpos kompensacijų, taip pat nepaisant jų gaunamų pensijų ir (ar) pensijų išmokų ([[#^s-4facdab3410d69f5ebca6e93|2 straipsnio 5 dalis]]) bei nepaisant to, ar jų gavėjai yra asmenys, nurodyti [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] [[latest/TAR.A7F77DF94F5D|1]]–[[latest/TAR.A7F77DF94F5D|8]] punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymas]]. ^s-6b542df2f97323f0288d7ee4
 
 
 5. Šalpos pensijos už invalidų slaugą namuose vienam iš tėvų (įtėvių), globėjui ar rūpintojui mokamos 2004 m. kovo mėnesio dydžio ir patvirtinus naują bazinės pensijos dydį nedidinamos. ^s-41ebbdc4ec61b3be30a96094
@@ -584,7 +584,7 @@ Sukakusiems 18 metų asmenims, kurie iki šio Įstatymo įsigaliojimo buvo pripa
 1. Socialinės pensijos, paskirtos iki 1995 m. sausio 1 d. ir mokėtos iki šio Įstatymo įsigaliojimo, toliau mokamos tol, kol pasibaigia šių pensijų skyrimo ir mokėjimo terminas. ^s-013bdf056d70a3ae03622756
 
 
-2. Socialinės pensijos toliau mokamos nepaisant to, ar jų gavėjai gauna valstybines socialinio draudimo našlių pensijas ir (ar) šalpos pensijas už invalidų slaugą, taip pat nepaisant to, ar jie yra asmenys, nurodyti [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] 1–8 punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymas]]. ^s-c86694486e5a949d953417b1
+2. Socialinės pensijos toliau mokamos nepaisant to, ar jų gavėjai gauna valstybines socialinio draudimo našlių pensijas ir (ar) šalpos pensijas už invalidų slaugą, taip pat nepaisant to, ar jie yra asmenys, nurodyti [[latest/TAR.A7F77DF94F5D#^s-e6807aefbb16aa44b40284f3|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] [[latest/TAR.A7F77DF94F5D|1]]–[[latest/TAR.A7F77DF94F5D|8]] punktuose, taip pat ūkininkai ir jų partneriai, kurių statusą reglamentuoja [[latest/TAR.769B541DD7F7|Ūkininko ūkio įstatymas]]. ^s-c86694486e5a949d953417b1
 
 
 3. Socialinės pensijos indeksuojamos pagal naujai patvirtintos ir iki patvirtinimo buvusios bazinės pensijos dydžių santykį. Ši nuostata pradedama taikyti pirmą kartą po šio Įstatymo įsigaliojimo patvirtinus naują bazinės pensijos dydį. ^s-4336655c0cb7198dba798edf

@@ -77,7 +77,7 @@ Vaiko teisių apsaugos kontrolierius savo veikloje vadovaujasi šiais principais
 4) atskaitingumo. Vaiko teisių apsaugos kontrolierius už savo veiklą yra atskaitingas Lietuvos Respublikos Seimui; ^s-73e74880ea4767b28fd48a37
 
 
-5) teisėtumo, teisingumo ir nešališkumo. Vaiko teisių apsaugos kontrolierius savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, tarptautinėmis sutartimis ir susitarimais, šiuo ir kitais įstatymais bei teisės aktais, teisės principais. Vaiko teisių apsaugos kontrolierius vienodai (lygiai teisingai) gina visus vaikus ir savo veikloje yra objektyvus; ^s-3dfcde1b442dbfcd0540febb
+5) teisėtumo, teisingumo ir nešališkumo. Vaiko teisių apsaugos kontrolierius savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), tarptautinėmis sutartimis ir susitarimais, šiuo ir kitais įstatymais bei teisės aktais, teisės principais. Vaiko teisių apsaugos kontrolierius vienodai (lygiai teisingai) gina visus vaikus ir savo veikloje yra objektyvus; ^s-3dfcde1b442dbfcd0540febb
 
 
 6) viešumo. Vaiko teisių apsaugos kontrolierius viešai teikia informaciją visuomenei apie savo veiklą bei vaiko teisių ir jo teisėtų interesų apsaugą Lietuvos Respublikoje, išskyrus informaciją, dėl kurios gali būti pažeistos vaiko teisės ar jo teisėti interesai arba kuri Lietuvos Respublikos įstatymų nustatyta tvarka yra neskelbtina. ^s-652e4914f9ff976af788d652
@@ -113,7 +113,7 @@ Nr. XIV-1998, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11572
 1. Seimo Pirmininko teikimu Seimas skiria vaiko teisių apsaugos kontrolierių 5 metų kadencijai. Tas pats asmuo vaiko teisių apsaugos kontrolieriumi gali būti skiriamas ne daugiau kaip dvi kadencijas iš eilės. ^s-e254f23401fb3a73f5d33ec8
 
 
-2. Seimo Pirmininkas vaiko teisių apsaugos kontrolieriaus kandidatūrą Seimui pateikia ne vėliau kaip prieš 3 mėnesius iki vaiko teisių apsaugos kontrolieriaus kadencijos pabaigos. Vaiko teisių apsaugos kontrolierių atleidus iš pareigų šio įstatymo [[#^s-6606bcd0d88c28de1183ab11|8 straipsnio 1 dalies]] 2–6 punktuose nurodytais pagrindais, Seimo Pirmininkas vaiko teisių apsaugos kontrolieriaus kandidatūrą pateikia Seimui ne vėliau kaip per vieną mėnesį nuo vaiko teisių apsaugos kontrolieriaus įgaliojimų pabaigos dienos. ^s-cd663b3672f6c19ac1a9e98c
+2. Seimo Pirmininkas vaiko teisių apsaugos kontrolieriaus kandidatūrą Seimui pateikia ne vėliau kaip prieš 3 mėnesius iki vaiko teisių apsaugos kontrolieriaus kadencijos pabaigos. Vaiko teisių apsaugos kontrolierių atleidus iš pareigų šio įstatymo [[#^s-6606bcd0d88c28de1183ab11|8 straipsnio 1 dalies]] [[#^s-7659d05fc98af049451b25ec|2]]–[[#^s-1f536211e0ccb6818155c5ff|6]] punktuose nurodytais pagrindais, Seimo Pirmininkas vaiko teisių apsaugos kontrolieriaus kandidatūrą pateikia Seimui ne vėliau kaip per vieną mėnesį nuo vaiko teisių apsaugos kontrolieriaus įgaliojimų pabaigos dienos. ^s-cd663b3672f6c19ac1a9e98c
 
 
 3. Vaiko teisių apsaugos kontrolieriui mirus ar atleidus jį iš pareigų šio įstatymo [[#^s-2818e17b5544c7acb87df40d|8 straipsnyje]] nurodytais pagrindais, Seimas Seimo Pirmininko teikimu skiria kitą vaiko teisių apsaugos kontrolierių 5 metų kadencijai. ^s-7a9574c9583b86c26304c649
@@ -605,7 +605,7 @@ Nr. XIV-1998, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11572
 5) suteikia Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojams ir darbuotojams, dirbantiems pagal darbo sutartis, atostogas, siunčia juos į komandiruotes; ^s-a6fb63d78d8cac6821f5dcd7
 
 
-6) priima sprendimus dėl Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, kvalifikacijos tobulinimo; ^s-23c6e9238b3aba6c0c3a374e
+6) priima sprendimus [dėl Vaiko teisių apsaugos kontrolieriaus įstaigos](https://e-tar.lt/portal/lt/legalAct/TAR.D4AD2979F383) valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, kvalifikacijos tobulinimo; ^s-23c6e9238b3aba6c0c3a374e
 
 
 7) skatina Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojus ir darbuotojus, dirbančius pagal darbo sutartis, skiria valstybės tarnautojams tarnybines nuobaudas arba priima sprendimus dėl darbuotojų, dirbančių pagal darbo sutartis, darbo pareigų pažeidimo; ^s-12a1ccac248998383f34c53f
@@ -713,9 +713,9 @@ Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-17
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-423, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14580
-Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 17 ir [[#^s-919b7493c039fa4b4862f9bd|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 [[#^s-fba92cfb6051d809fb2d99dd|17]] ir [[#^s-919b7493c039fa4b4862f9bd|22]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1998, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11572
-Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 5, 6, 8, 9, 12, 26, [[#^s-cafc9d40d87e50d18db56ff6|27 straipsnių]] ir šeštojo skirsnio pakeitimo įstatymas
+Lietuvos Respublikos vaiko teisių apsaugos kontrolieriaus įstatymo Nr. VIII-1708 [[#^s-c6447383c276629db8aa4dc9|5]], [[#^s-5ae281aa60d52db5b9b56884|6]], [[#^s-2818e17b5544c7acb87df40d|8]], [[#^s-98c2de821c44bab30150c4d9|9]], [[#^s-f4ea47533f2df91c2409c7d2|12]], [[#^s-b8b3c7f414de78bb15b3c184|26]], [[#^s-cafc9d40d87e50d18db56ff6|27]] straipsnių ir šeštojo skirsnio pakeitimo įstatymas

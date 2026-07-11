@@ -48,7 +48,7 @@ Tiesioginis valdymas gali būti įvedamas, jeigu:
 1) savivaldos institucijos savo veiksmais kėsinasi į valstybės teritorijos vientisumą bei konstitucinę santvarką; ^s-7f2ab6d5ae9018f50de678d1
 2) teismai nustato, kad taryba nesilaiko Lietuvos Respublikos Konstitucijos, pažeidinėja įstatymus; ^s-8a642bc8ebdefbb1c9dde3f8
 3) taryba neišsirenka mero, mero pavaduotojo ir nesuformuoja savivaldos institucijų per šiame įstatyme nustatytą laiką arba tris kartus nesusirenka į mero šaukiamą posėdį; ^s-ef07f13e230b7054114aa2e4
-4) meras ir taryba nesilaiko Vietos savivaldos įstatymo 9 straipsnio 3 dalies nuostatų. ^s-02dc1fe70a461f515195b5a3
+4) meras ir taryba nesilaiko [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatymo 9 straipsnio 3 dalies]] nuostatų. ^s-02dc1fe70a461f515195b5a3
 Siūlymą laikinai įvesti tiesioginį valdymą Seimui gali pateikti Vyriausybė, o išvadas dėl tokio siūlymo pagrįstumo Seimui teikia Seimo Valdymo reformų ir savivaldybių komitetas.
 Seimas, priimdamas sprendimą įvesti tiesioginį valdymą, nustato naujų rinkimų į savivaldybės tarybą datą.“
 

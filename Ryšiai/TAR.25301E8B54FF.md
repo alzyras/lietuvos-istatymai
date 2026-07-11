@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos kariuomenės drausmės statuto pakeitimo įst
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.23C5BC14E2B6|Lietuvos Respublikos karo policijos įstatymas]] - 2 citatos - Karo policijos įstatymas
-- [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - 6 citatos - Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme
-- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - 2 citatos - Valstybės ir tarnybos paslapčių įstatymo
+- [[latest/TAR.23C5BC14E2B6|Lietuvos Respublikos karo policijos įstatymas]] - Karo policijos įstatymas
+- [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - 4 citatos - Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme
+- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - Valstybės ir tarnybos paslapčių įstatymo
 
 ## Šį įstatymą cituoja
 

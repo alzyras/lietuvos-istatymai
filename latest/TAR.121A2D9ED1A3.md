@@ -278,7 +278,7 @@ Licencijų rūšys:
 1) asmuo, įrašytas į sveikatos priežiūros įstaigos įskaitą dėl alkoholizmo, narkomanijos arba prižiūrimas sveikatos priežiūros įstaigos dėl psichikos ligos ar sutrikimo; ^s-e2cd46bf5dfd5f549f01977f
 
 
-2) asmuo, kuris įrašytas į operatyvinę įskaitą arba kuriam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai; ^s-9c8a232dff18a1792ad27e4d
+2) asmuo, kuris įrašytas į operatyvinę įskaitą arba kuriam [Organizuoto nusikalstamumo užkardymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.67E8ECAA4910) nustatyta tvarka taikomi teismo įpareigojimai; ^s-9c8a232dff18a1792ad27e4d
 
 
 3) asmuo, kuriam verstis šio Įstatymo nustatyta veikla uždrausta teismo nuosprendžiu; ^s-b7c3f1bcedfa116587079c00
@@ -333,7 +333,7 @@ Licencijų rūšys:
 4) nustatoma, kad civilinės pirotechnikos priemonės parduodamos savivaldybės tarybos uždraustose vietose ar uždraustu laiku. ^s-d572a37aa7a4fe6932ba97cb
 
 
-5. Šio straipsnio 1 ir [[#^s-f1c7042f1987e24d6e5c626a|2 dalyse]] nurodytuose leidimuose nurodomas maksimalus patalpose leidžiamas laikyti civilinių pirotechnikos priemonių kiekis, taip pat maksimalus patalpose leidžiamas laikyti kiekvienos atskiros klasės civilinių pirotechnikos priemonių kiekis. ^s-674a84bedf510e4d1306ed93
+5. Šio straipsnio [[#^s-38c0df0475c68ace1749243b|1]] ir [[#^s-f1c7042f1987e24d6e5c626a|2]] dalyse nurodytuose leidimuose nurodomas maksimalus patalpose leidžiamas laikyti civilinių pirotechnikos priemonių kiekis, taip pat maksimalus patalpose leidžiamas laikyti kiekvienos atskiros klasės civilinių pirotechnikos priemonių kiekis. ^s-674a84bedf510e4d1306ed93
 
 
 
@@ -394,7 +394,7 @@ CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ APYVARTOS SAUGOS REIKALAVIMAI IR APSKAITA
 4. Eksportuotojai, vežėjai, išvežantys civilines pirotechnikos priemones, privalo laikytis [[#^s-976e1c6a82f00b1889685986|šio straipsnio 2 dalies]] 4, 5, 6 ir 8 punktų reikalavimų. ^s-f78b004dc76d5ef0840f0d4d
 
 
-5. Gamintojai privalo laikytis [[#^s-976e1c6a82f00b1889685986|šio straipsnio 2 dalies]] 1, 3–9 punktų reikalavimų. Gamintojai taip pat privalo: ^s-3d674113503cafae9291566f
+5. Gamintojai privalo laikytis [[#^s-976e1c6a82f00b1889685986|šio straipsnio 2 dalies]] [[#^s-c74dc754624cadd695a27557|1]], [[#^s-b1ccca3b7594344517d2550d|3]]–9 punktų reikalavimų. Gamintojai taip pat privalo: ^s-3d674113503cafae9291566f
 
 
 1) garantuoti, kad pagamintų civilinių pirotechnikos priemonių konstrukcija, gamybos technologija užtikrintų, jog civilinių pirotechnikos priemonių keliamas pavojus gyvybei ir sveikatai, aplinkai, turtui būtų minimalus, jei bus laikomasi saugos taisyklių reikalavimų; ^s-c74dc754624cadd695a27557
@@ -502,7 +502,7 @@ CIVILINIŲ PIROTECHNIKOS PRIEMONIŲ IMPORTAS, ĮVEŽIMAS, EKSPORTAS, IŠVEŽIMAS
 2. Importuotojas ar vežėjas, pageidaujantis įvežti į Lietuvą saugos ekspertizei atlikti civilinių pirotechnikos priemonių bandinių, turi gauti leidimą, kuris išduodamas terminuotam laikotarpiui. ^s-b7cca2d105ccf6009e2cdc6f
 
 
-3. Šio straipsnio 1 ir [[#^s-b7cca2d105ccf6009e2cdc6f|2 dalyse]] nurodytus leidimus išduoda Policijos departamentas prie Vidaus reikalų ministerijos. Leidimų išdavimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. ^s-1577204d4a9521b03f6d9f0d
+3. Šio straipsnio [[#^s-3c20a7a134021a64107ca02e|1]] ir [[#^s-b7cca2d105ccf6009e2cdc6f|2]] dalyse nurodytus leidimus išduoda Policijos departamentas prie Vidaus reikalų ministerijos. Leidimų išdavimo tvarką nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija. ^s-1577204d4a9521b03f6d9f0d
 
 
 4. Fiziniai asmenys asmeninėms reikmėms gali be leidimo įsivežti į Lietuvos Respubliką, išsivežti iš jos civilinių pirotechnikos priemonių, tačiau vienu metu visų įvežamų (išvežamų) civilinių pirotechnikos priemonių bendras pirotechninio mišinio kiekis neturi viršyti 50 gramų. Fiziniams asmenims leidimai įsivežti į Lietuvos Respubliką, išsivežti iš jos civilines pirotechnikos priemones, kurių bendras pirotechninio mišinio kiekis viršija 50 gramų, neišduodami. ^s-780afdf8dac5f52c6446d330

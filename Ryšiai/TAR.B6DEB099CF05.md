@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A0BAB27D768C#^s-0478329cb645aeaca36557fe|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas]] - 2 citatos - NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO 2, 3, 4 STRAIPSNIŲ IR PRIEDĖLIO 2, 3, 4, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 25 SKYRIŲ PAKEITIMO BEI PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.A0BAB27D768C#^s-0478329cb645aeaca36557fe|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas]] - NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO 2, 3, 4 STRAIPSNIŲ IR PRIEDĖLIO 2, 3, 4, 5, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 25 SKYRIŲ PAKEITIMO BEI PAPILDYMO ĮSTATYMAS

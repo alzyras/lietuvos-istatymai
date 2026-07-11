@@ -433,10 +433,10 @@ AKREDITAVIMO PROCESAS
 3) kai atitikties vertinimo įstaiga nesilaiko standarto LST EN ISO/IEC 17011 reikalavimų, susijusių su konkrečia akreditavimo srityje nurodyta atitikties vertinimo veikla. ^s-e593e33f4c2b8a1046c711ee
 
 
-2. Akredituota atitikties vertinimo įstaiga, norėdama savo akreditavimo sritį papildyti naujomis atitikties vertinimo veiklomis, pateikia nacionalinei akreditacijos įstaigai paraišką išplėsti akreditavimo pažymėjime nurodytą akreditavimo sritį. Paraiška nagrinėjama ir sprendimas išplėsti akreditavimo sritį priimamas mutatis mutandis šio įstatymo 9 ir [[#^s-9be0779e2163d5fda677446d|10 straipsniuose]] nustatyta tvarka ir terminais. Akreditavimo pažymėjimo galiojimo metu išplėsta akreditavimo sritis galioja likusiam akreditavimo pažymėjimo galiojimo laikotarpiui. ^s-6bc14f9f4b6217b200345b39
+2. Akredituota atitikties vertinimo įstaiga, norėdama savo akreditavimo sritį papildyti naujomis atitikties vertinimo veiklomis, pateikia nacionalinei akreditacijos įstaigai paraišką išplėsti akreditavimo pažymėjime nurodytą akreditavimo sritį. Paraiška nagrinėjama ir sprendimas išplėsti akreditavimo sritį priimamas mutatis mutandis šio įstatymo [[#^s-4d8fd35899ae97a7bad7f43a|9]] ir [[#^s-9be0779e2163d5fda677446d|10]] straipsniuose nustatyta tvarka ir terminais. Akreditavimo pažymėjimo galiojimo metu išplėsta akreditavimo sritis galioja likusiam akreditavimo pažymėjimo galiojimo laikotarpiui. ^s-6bc14f9f4b6217b200345b39
 
 
-3. Šio straipsnio 1 ir [[#^s-6bc14f9f4b6217b200345b39|2 dalyse]] nurodytais atvejais, priėmus sprendimą išplėsti ar susiaurinti akreditavimo sritį, nacionalinė akreditacijos įstaiga pakeičia akreditavimo pažymėjimą. Akreditavimo pažymėjimas akredituotos atitikties vertinimo įstaigos prašymu taip pat keičiamas, kai: ^s-83d4b7fb770dbaaabea3dd4e
+3. Šio straipsnio [[#^s-cd80d48fae3704a2a2ff139a|1]] ir [[#^s-6bc14f9f4b6217b200345b39|2]] dalyse nurodytais atvejais, priėmus sprendimą išplėsti ar susiaurinti akreditavimo sritį, nacionalinė akreditacijos įstaiga pakeičia akreditavimo pažymėjimą. Akreditavimo pažymėjimas akredituotos atitikties vertinimo įstaigos prašymu taip pat keičiamas, kai: ^s-83d4b7fb770dbaaabea3dd4e
 
 
 1) pasikeičia atitikties vertinimo įstaigos pavadinimas; ^s-a7fa739d6b8981c280d5d4e7
@@ -623,7 +623,7 @@ Notifikuotoji įstaiga atlieka gaminių atitikties vertinimo procedūras, kuriom
 9) jeigu techniniame reglamente nebenustatomos notifikuotosios įstaigos funkcijos. ^s-ee1c3d1b594c1fbf9656b3ef
 
 
-2. Vyriausybės įgaliotos institucijos sprendimas panaikinti notifikuotosios įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimą priimamas ir notifikavimo pranešimas pateikiamas mutatis mutandis šio įstatymo [[#^s-0b3f6d7f5d48c35ab48022ab|142 straipsnio]] 1 ir 4 dalyse nustatyta tvarka. ^s-93e6f86fa7b19c92af1e633d
+2. Vyriausybės įgaliotos institucijos sprendimas panaikinti notifikuotosios įstaigos paskyrimo atlikti gaminių atitikties vertinimo procedūras galiojimą priimamas ir notifikavimo pranešimas pateikiamas mutatis mutandis šio įstatymo [[#^s-0b3f6d7f5d48c35ab48022ab|142 straipsnio]] [[#^s-6d13076817fd65f1806348a8|1]] ir [[#^s-15cc2d5d0a2bd8c38973d2da|4]] dalyse nustatyta tvarka. ^s-93e6f86fa7b19c92af1e633d
 
 
 Papildyta skyriumi:
@@ -710,7 +710,7 @@ priedas
 
 
 
-1. 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 765/2008, nustatantis akreditavimo reikalavimus ir panaikinantis Reglamentą (EEB) Nr. 339/93, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos Reglamentu (ES) 2019/1020. ^s-323b954ea4a881385cf45796
+1. 2008 m. liepos 9 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 765/2008, nustatantis akreditavimo reikalavimus ir panaikinantis Reglamentą (EEB) Nr. 339/93, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [Reglamentu (ES) 2019/1020](https://eur-lex.europa.eu/eli/reg/2019/1020/oj). ^s-323b954ea4a881385cf45796
 
 
 Priedo pakeitimai:
@@ -733,9 +733,9 @@ Lietuvos Respublikos atitikties įvertinimo įstatymo Nr. VIII-870 pakeitimo įs
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1450, 2022-10-11, paskelbta TAR 2022-10-19, i. k. 2022-21165
-Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 1, 2, [[#^s-9484ce2ecb06f7558af30571|5 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas
+Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 [[#^s-524abaad7ae17cf0337f451c|1]], [[#^s-4aff6130b563c84e6376176c|2]], [[#^s-9484ce2ecb06f7558af30571|5]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-424, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16535
-Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 6, 15, 17, [[#^s-13878181406cd2aad28695d8|18 straipsnių]] ir III skyriaus pakeitimo įstatymas
+Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 [[#^s-870996514e7cd750671a306c|6]], [[#^s-d00d2a1d4463f9b123014820|15]], [[#^s-45e4d3e7fa0926b261d68d5c|17]], [[#^s-13878181406cd2aad28695d8|18]] straipsnių ir III skyriaus pakeitimo įstatymas

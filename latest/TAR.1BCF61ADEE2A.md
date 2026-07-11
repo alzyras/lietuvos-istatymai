@@ -73,7 +73,7 @@ Papildyti 1 priedėlyje išdėstyto sąrašo 3 punktą žodžiais „viceministr
 
 „Lietuvos Respublikos
 1996 m. gegužės 16 d.
-[[latest/TAR.D4A66ACB9F97|įstatymo Nr. I-1338]]
+įstatymo Nr. I-1338
 1 priedėlis
 
 Politikų, valstybės tarnautojų ir jų šeimos narių,
@@ -131,13 +131,13 @@ s ą r a š a s
 ### 4 straipsnis. 2 priedėlyje išdėstyto sąrašo pakeitimas ^s-6f89aa4f352922e6a769150f
 
 
-Iš 2 priedėlyje išdėstyto sąrašo 1 punkto išbraukti žodžius „(pagal Lietuvos Respublikos Seimo 1995 m. birželio 27 d. nutarimo Nr. I-965 priedėlį)“, išbraukti 5, 6, 7, 12 punktus, 13 ir 14 punktuose vietoj žodžių „Apskričių valdytojų“ įrašyti žodžius „Apskričių viršininkų“ , iš 17 punkto išbraukti žodžius „Generalinės prokuratūros struktūrinių padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovai, jų pavaduotojai“, pakeisti buvusių 5–20 punktų numeraciją ir visą priedėlį išdėstyti taip:
+Iš 2 priedėlyje išdėstyto sąrašo 1 punkto išbraukti žodžius „(pagal Lietuvos Respublikos Seimo [1995 m. birželio 27 d. nutarimo Nr. I-965](https://e-tar.lt/portal/lt/legalAct/TAR.49C0823F6115) priedėlį)“, išbraukti 5, 6, 7, 12 punktus, 13 ir 14 punktuose vietoj žodžių „Apskričių valdytojų“ įrašyti žodžius „Apskričių viršininkų“ , iš 17 punkto išbraukti žodžius „Generalinės prokuratūros struktūrinių padalinių, taip pat apygardų ir apylinkių prokuratūrų vadovai, jų pavaduotojai“, pakeisti buvusių 5–20 punktų numeraciją ir visą priedėlį išdėstyti taip:
 
 
 
 „Lietuvos Respublikos
 1996 m. gegužės 16 d.
-[[latest/TAR.D4A66ACB9F97|įstatymo Nr. I-1338]]
+įstatymo Nr. I-1338
 2 priedėlis
 
 Valstybės tarnautojų, ūkinių subjektų vadovų

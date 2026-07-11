@@ -68,7 +68,7 @@ Pakeisti ir papildyti 55 straipsnio 2 dalį ir ją išdėstyti taip:
 1. Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d. ^s-b840977346af5c3937c42331
 
 
-2. Iki šio įstatymo įsigaliojimo paskirtos valstybinės socialinio draudimo invalidumo, našlių ir našlaičių pensijos, kurias apskaičiuojant buvo taikytos Valstybinių socialinio draudimo pensijų įstatymo 29 straipsnio 3 dalies 2 punkto nuostatos, įsigaliojus šiam įstatymui, neperskaičiuojamos. ^s-960f8170aabab7d5e321d560
+2. Iki šio įstatymo įsigaliojimo paskirtos valstybinės socialinio draudimo invalidumo, našlių ir našlaičių pensijos, kurias apskaičiuojant buvo taikytos [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo 29 straipsnio 3 dalies 2 punkto]] nuostatos, įsigaliojus šiam įstatymui, neperskaičiuojamos. ^s-960f8170aabab7d5e321d560
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-e26c11d091404c2cd360228f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2001 m. liepos 23 d. dekretą Nr. 1437, ratifikuoja Lietuvos Respublikos ir Ukrainos sutartį dėl socialinės apsaugos, pasirašytą 2001 m. balandžio 23 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2001 m. liepos 23 d. dekretą Nr. 1437](https://e-tar.lt/portal/lt/legalAct/TAR.DEFDB2B34C8A), ratifikuoja Lietuvos Respublikos ir Ukrainos sutartį dėl socialinės apsaugos, pasirašytą 2001 m. balandžio 23 d. Vilniuje.
 
 
 

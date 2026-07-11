@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-8b717920e20cc435bcad142d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. kovo 2 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl fonogramų gamintojų apsaugos nuo neteisėto jų fonogramų kopijavimo“, ratifikuoja Konvenciją dėl fonogramų gamintojų apsaugos nuo neteisėto jų fonogramų kopijavimo, priimtą 1971 m. spalio 29 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. kovo 2 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl fonogramų gamintojų apsaugos nuo neteisėto jų fonogramų kopijavimo“](https://e-tar.lt/portal/lt/legalAct/TAR.333FF272BC2F), ratifikuoja Konvenciją dėl fonogramų gamintojų apsaugos nuo neteisėto jų fonogramų kopijavimo, priimtą 1971 m. spalio 29 d. Ženevoje.
 
 
 

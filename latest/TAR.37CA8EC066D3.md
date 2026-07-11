@@ -198,7 +198,7 @@ BENDROSIOS NUOSTATOS
 6. Gatvių, kurios nėra valstybinės reikšmės kelių tąsa, projektavimo, tiesimo, rekonstravimo, taisymo (remonto) ir priežiūros darbus organizuoja ir užsakovo funkcijas atlieka savivaldybės. Gatvių, kurios yra valstybinės reikšmės kelių tąsa, projektavimo, tiesimo, rekonstravimo, taisymo (remonto) ir priežiūros darbų tvarką nustato Vyriausybė. ^s-d66506bf4bb825055b79578a
 
 
-7. Geležinkelių pervažų įrengimą ir priežiūrą reglamentuoja Geležinkelio transporto kodeksas. ^s-64c21b091c38c7eee7dea08d
+7. Geležinkelių pervažų įrengimą ir priežiūrą reglamentuoja [Geležinkelio transporto kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.179AB2FCFD5D). ^s-64c21b091c38c7eee7dea08d
 
 
 
@@ -413,7 +413,7 @@ NAUDOJIMASIS KELIAIS
 3. Apie kelio uždarymą skelbiama per visuomenės informavimo priemones. ^s-ff1be709fea42750dbbae7cb
 
 
-4. Dėl šio straipsnio 1 ir [[#^s-a27e085595e0ec417197abfd|2 dalyse]] nurodytų ribojimų atsiradę nuostoliai eismo dalyviams neatlyginami. ^s-0e7f010f89a22352fac25ce2
+4. Dėl šio straipsnio [[#^s-a1e8e2ad500861b1abcb1eb4|1]] ir [[#^s-a27e085595e0ec417197abfd|2]] dalyse nurodytų ribojimų atsiradę nuostoliai eismo dalyviams neatlyginami. ^s-0e7f010f89a22352fac25ce2
 
 
 

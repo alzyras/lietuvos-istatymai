@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-13263b36e0899229208413b0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl bendro karinio dalinio sudarymo tarptautiniam saugumui ir taikai palaikyti bei atkurti“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl bendro karinio dalinio sudarymo tarptautiniam saugumui ir taikai palaikyti bei atkurti, pasirašytą 1997 m. birželio 25 d. Trakuose.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 8 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl bendro karinio dalinio sudarymo tarptautiniam saugumui ir taikai palaikyti bei atkurti“](https://e-tar.lt/portal/lt/legalAct/TAR.E43C94123366), ratifikuoja Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl bendro karinio dalinio sudarymo tarptautiniam saugumui ir taikai palaikyti bei atkurti, pasirašytą 1997 m. birželio 25 d. Trakuose.
 
 
 

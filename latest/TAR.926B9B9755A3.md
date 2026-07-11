@@ -459,7 +459,7 @@ NEKILNOJAMOJO KULTŪROS PAVELDO APSAUGOS ADMINISTRAVIMAS
 1) tarpininkauja tarp valdytojų ir Departamento: priima valdytojų prašymus, perduoda juos Departamentui su savo pasiūlymais ir teikia valdytojams atsakymus; ^s-a2ce4a27eab053c1f1f0c6e4
 
 
-2) perduoda pranešimus šio įstatymo [[#^s-1b37485a0be9f6e13db9ac75|10 straipsnio]] 1 ir [[#^s-984ddadd6b59fea34472869e|3 dalyse]] nurodytais atvejais; ^s-9ee6567c83a0aa4aef4fb237
+2) perduoda pranešimus šio įstatymo [[#^s-1b37485a0be9f6e13db9ac75|10 straipsnio]] [[#^s-8651555aeed786fdcd0298c8|1]] ir [[#^s-4f7b1caaa4fdbe78cbe9370d|3]] dalyse nurodytais atvejais; ^s-9ee6567c83a0aa4aef4fb237
 
 
 3) tikrina kultūros paveldo objektų būklę, kaupia informaciją ir teikia ją Departamentui kultūros ministro patvirtinta stebėsenos tvarka; ^s-8d5066949195168bd413125b
@@ -477,7 +477,7 @@ NEKILNOJAMOJO KULTŪROS PAVELDO APSAUGOS ADMINISTRAVIMAS
 7) priima kitus sprendimus ir atlieka veiksmus pagal įstatymuose ir kituose teisės aktuose nustatytus Departamento suteiktus įgaliojimus. ^s-ba321bdd406e04fb62ae74c7
 
 
-4. Savivaldybių paveldosaugos padaliniai savivaldybės tarybos paskelbtų saugomų objektų atžvilgiu atlieka funkcijas, nurodytas šio įstatymo [[#^s-9beb93487059a9b7c9433303|5 straipsnio 10 dalies]] 2, 7–11, 13–19 punktuose, taip pat: ^s-6b1aa530091e6aea924f75b5
+4. Savivaldybių paveldosaugos padaliniai savivaldybės tarybos paskelbtų saugomų objektų atžvilgiu atlieka funkcijas, nurodytas šio įstatymo [[#^s-9beb93487059a9b7c9433303|5 straipsnio 10 dalies]] [[#^s-fc36f9287b69807a32a892e2|2]], [[#^s-ba41c09a666eacdcda93286a|7]]–[[#^s-c53917f58ee5034f06767a55|11]], [[#^s-9b23fc46601a6f925fd31566|13]]–[[#^s-6f5d564ba09860d29b788160|19]] punktuose, taip pat: ^s-6b1aa530091e6aea924f75b5
 
 
 1) rengia savivaldybės nekilnojamojo kultūros paveldo apskaitos, paveldotvarkos, švietimo, lavinimo ir kitas paveldosaugos programas ir organizuoja jų vykdymą; ^s-f6f85cf61626026cb1730493
@@ -535,7 +535,7 @@ NEKILNOJAMOJO KULTŪROS PAVELDO APSKAITA IR KULTŪROS PAVELDO OBJEKTO SKELBIMAS 
 6. Nekilnojamųjų kultūros vertybių vertinimo ir atrankos kriterijus, šių vertybių atskleidimui reikalingų tyrimų duomenų apimtį ir vertinimo tarybų pavyzdinius nuostatus tvirtina kultūros ministras. ^s-a8ae06492db547540fbe86c0
 
 
-7. Kultūros vertybių registras steigiamas, tvarkomas, naudojamas ir reorganizuojamas Valstybės registrų įstatymo, šio įstatymo, [[latest/TAR.C5DA698A4015|Kilnojamųjų kultūros vertybių apsaugos įstatymo]] ir kitų teisės aktų nustatyta tvarka. ^s-28206005e1a1bb2b0ddc61db
+7. Kultūros vertybių registras steigiamas, tvarkomas, naudojamas ir reorganizuojamas [Valstybės registrų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296), šio įstatymo, [[latest/TAR.C5DA698A4015|Kilnojamųjų kultūros vertybių apsaugos įstatymo]] ir kitų teisės aktų nustatyta tvarka. ^s-28206005e1a1bb2b0ddc61db
 
 
 8. Nekilnojamosios kultūros vertybės registruojamos vertinimo tarybai nusprendus, kad vertybei reikalinga teisinė apsauga. Tokios vertybės registruojamos kaip kultūros paveldo pavieniai ar kompleksiniai objektai ar vietovės. ^s-74eb35a563fe748675485db1
@@ -572,7 +572,7 @@ NEKILNOJAMOJO KULTŪROS PAVELDO APSKAITA IR KULTŪROS PAVELDO OBJEKTO SKELBIMAS 
 3. Jei atliekant statybos ar kitokius darbus aptinkama archeologinių radinių ar nekilnojamojo daikto vertingųjų savybių, valdytojai ar darbus atliekantys asmenys apie tai privalo pranešti savivaldybės paveldosaugos padaliniui, o šis informuoja Departamentą. Departamentas gali sustabdyti darbus 15 dienų. Per šį terminą jis kartu su savivaldybės paveldosaugos padaliniu turi patikrinti pranešimą ir priimti sprendimą inicijuoti ar neinicijuoti aptiktos nekilnojamosios kultūros vertybės įregistravimą, kultūros paveldo objekto skelbimą saugomu ar aptiktos vertingosios savybės atskleidimą ir apsaugos reikalavimų patikslinimą. ^s-0555db30de531382786b8e00
 
 
-4. Departamentas taip pat gali sustabdyti darbus 15 dienų, jei išaiškėja, kad buvo pažeisti šio straipsnio 1 ar [[#^s-d497670ef8095898a69fd73e|2 dalies]] reikalavimai. ^s-1ea5ddb1edf4f6e9a44fd510
+4. Departamentas taip pat gali sustabdyti darbus 15 dienų, jei išaiškėja, kad buvo pažeisti šio straipsnio [[#^s-21125c394191b2a62cc635c5|1]] ar [[#^s-d497670ef8095898a69fd73e|2]] dalies reikalavimai. ^s-1ea5ddb1edf4f6e9a44fd510
 
 
 5. Institucija, priėmusi sprendimą inicijuoti kultūros paveldo objekto skelbimą saugomu arba jau saugomo objekto naujai aptiktos vertingosios savybės nustatymą bei apsaugos reikalavimų pakeitimą, gali iki 6 mėnesių apriboti ar uždrausti darbus, kurie pačiame objekte, jo teritorijoje ar apsaugos zonoje galėtų pažeisti vertingąsias savybes. Jei teritorija ir apsaugos zona nenustatytos, apriboti ar uždrausti darbus galima iki 250 metrų atstumu nuo objekto. Jeigu dėl nepalankių klimato sąlygų trūkstami tyrimai neatliekami, terminas gali būti pratęstas. Bendras uždraudimo vykdyti darbus terminas negali būti ilgesnis negu 8 mėnesiai. Per šį terminą šio įstatymo nustatyta tvarka turi būti atlikti trūkstami tyrimai, parengtas ir suderintas teritorijos ir apsaugos zonos ribų projektas, reikalui esant, statinys užkonservuotas ir atlikti kiti kultūros paveldo objekto skelbimo saugomu procedūros veiksmai. ^s-0350f70e5e8df374c6e3ae42
@@ -1250,7 +1250,7 @@ BAIGIAMOSIOS NUOSTATOS
 3) kultūros paminklas įrašomas į valstybinės reikšmės istorijos, archeologijos ir kultūros objektų sąrašą, kad būtų užtikrintas prieinamumas, lankymas ar pažinimas. ^s-aaca89b791a4a9835a04d0ea
 
 
-3. Kultūros paveldo objekto (nekilnojamojo daikto) paėmimo tvarką nustato [[latest/TAR.8A39C83848CB|Civilinis kodeksas]], Žemės ir kiti įstatymai. Savininkui atlyginama rinkos kaina, nustatoma vadovaujantis Turto ir verslo vertinimo pagrindų įstatymu arba šalių susitarimu – perduodant kitą daiktą (turtą). ^s-6a348c89f848c6a6e06f671f
+3. Kultūros paveldo objekto (nekilnojamojo daikto) paėmimo tvarką nustato [[latest/TAR.8A39C83848CB|Civilinis kodeksas]], Žemės ir kiti įstatymai. Savininkui atlyginama rinkos kaina, nustatoma vadovaujantis [Turto ir verslo vertinimo pagrindų įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) arba šalių susitarimu – perduodant kitą daiktą (turtą). ^s-6a348c89f848c6a6e06f671f
 
 
 

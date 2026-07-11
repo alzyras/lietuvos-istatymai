@@ -131,7 +131,7 @@ Vilnius
 1) nustatytos formos prašymą; ^s-31d7a65ec23fb4d0b9da5cf7
 
 
-2) dokumentus, nurodytus šio Įstatymo 20 straipsnio 2 dalies 2 ir [[#^s-375a2ee886316e82898f6633|3 punktuose]]; ^s-b0a2637b397391df1c796e71
+2) dokumentus, nurodytus šio Įstatymo 20 straipsnio 2 dalies 2 ir 3 punktuose; ^s-b0a2637b397391df1c796e71
 
 
 3) sutartį su žemės savininku dėl sklypo laikino naudojimo statybos metu, dėl šio sklypo servitutų naudojant pastatytą statinį ir kompensacijų už naudojimąsi žemės sklypu bei žalą (jeigu ji padaroma) tais atvejais, kai pagal statinio projektavimo sąlygų sąvadą inžineriniai tinklai, susisiekimo komunikacijos numatomi tiesti statytojui (užsakovui) nepriklausančiame žemės sklype ar kai tokio sklypo dalį numatoma panaudoti statybvietei įrengti; ^s-375a2ee886316e82898f6633
@@ -161,7 +161,7 @@ Vilnius
 1) nustatytos formos prašymą; ^s-16955de5a4d7172100f064fc
 
 
-2) dokumentus, nurodytus šio Įstatymo 20 straipsnio 2 dalies 2 ir [[#^s-cde1b6b6e677c4c55599037c|3 punktuose]]; ^s-41518c3e4f4d9078540642de
+2) dokumentus, nurodytus šio Įstatymo 20 straipsnio 2 dalies 2 ir 3 punktuose; ^s-41518c3e4f4d9078540642de
 
 
 3) įstatymų nustatyta tvarka priimtą sprendimą nugriauti statinį, priklausantį valstybės, savivaldybės ar kito juridinio asmens nuosavybei; ^s-cde1b6b6e677c4c55599037c
@@ -182,7 +182,7 @@ Vilnius
 6. Pakeisti 23 straipsnio 12 dalį ir ją išdėstyti taip: ^s-be27524a3a2aa2c719acb54d
 
 
-„12. Statybos leidimą savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) išduoda ne vėliau kaip per 10 darbo dienų (ypatingo statinio statybos leidimą – per 15 darbo dienų) nuo visų dokumentų, nurodytų šio straipsnio 6 ar [[#^s-55670431afe149ca8e4f8660|7 dalyje]], gavimo dienos.“
+„12. Statybos leidimą savivaldybės administracijos direktorius (jo įgaliotas savivaldybės administracijos valstybės tarnautojas) išduoda ne vėliau kaip per 10 darbo dienų (ypatingo statinio statybos leidimą – per 15 darbo dienų) nuo visų dokumentų, nurodytų šio straipsnio 6 ar [[#^s-55670431afe149ca8e4f8660|7]] dalyje, gavimo dienos.“
 
 
 7. 23 straipsnio 13 dalį pripažinti netekusia galios. ^s-55670431afe149ca8e4f8660
@@ -332,7 +332,7 @@ Vilnius
 5. Pakeisti 27 straipsnio 6 dalį ir ją išdėstyti taip: ^s-5d7b6fbdb7c74d59d836ec5f
 
 
-„6. Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos įgalioti pareigūnai pagal šio straipsnio 4 ir [[#^s-5d7b6fbdb7c74d59d836ec5f|5 dalyse]] nustatytą kompetenciją turi teisę:
+„6. Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos įgalioti pareigūnai pagal šio straipsnio [[#^s-b0e79c47922e352678b30b2f|4]] ir 5 dalyse nustatytą kompetenciją turi teisę:
 
 
 1) sustabdyti statinio statybą šio Įstatymo 33 straipsnio 2 dalyje nustatytais atvejais; ^s-1f531b4839601bdbbd84251c
@@ -341,7 +341,7 @@ Vilnius
 2) kai tai susiję su pareigomis, netrukdomi patekti į statybvietes, statomus, rekonstruojamus, remontuojamus ar griaunamus statinius, juose esančius butus ir reikalauti iš statybos dalyvių pateikti visus statybos dokumentus; ^s-1d0d6f3e2dc7b4558276b33e
 
 
-3) Administracinių teisės pažeidimų kodekso nustatytais atvejais surašyti administracinių teisės pažeidimų protokolus, nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas arba teikti administracinių teisės pažeidimų bylas teismui; ^s-55bec89b64de9efc75952b74
+3) [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatytais atvejais surašyti administracinių teisės pažeidimų protokolus, nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas arba teikti administracinių teisės pažeidimų bylas teismui; ^s-55bec89b64de9efc75952b74
 
 
 4) Civilinio kodekso nustatytais atvejais kreiptis į teismą dėl civilinių bylų iškėlimo, kad būtų atlyginta valstybei padaryta žala dėl įstatymų nuostatų, kitų teisės aktų ir normatyvinių statybos techninių dokumentų reikalavimų pažeidimo; ^s-88dc94184f742b04e56c48b1
@@ -415,7 +415,7 @@ Pakeisti 28 straipsnį ir jį išdėstyti taip:
 1) nedelsdami dviem egzemplioriais surašo savavališkos statybos aktą, pareikalauja iš statytojo ir rangovo (jei darbai vykdomi rangos būdu) tuojau pat sustabdyti statybos darbus ir įteikia jiems aktą pasirašytinai arba registruotu laišku; ^s-61d9911dd306d5aa77f35496
 
 
-2) Administracinių teisės pažeidimų kodekso nustatyta tvarka surašo administracinio teisės pažeidimo protokolą ir nagrinėja administracinio teisės pažeidimo bylą dėl administracinės nuobaudos paskyrimo arba siunčia šį protokolą teismui; ^s-a54a76a7e07d23520bf93ee5
+2) [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka surašo administracinio teisės pažeidimo protokolą ir nagrinėja administracinio teisės pažeidimo bylą dėl administracinės nuobaudos paskyrimo arba siunčia šį protokolą teismui; ^s-a54a76a7e07d23520bf93ee5
 
 
 3) ne vėliau kaip per 3 darbo dienas nuo savavališkos statybos akto surašymo dienos jį pateikia Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos viršininkui ar jo įgaliotam administracijos padalinio vadovui. ^s-cf89d4123914a490fa297868

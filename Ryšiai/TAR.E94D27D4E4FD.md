@@ -9,11 +9,11 @@ pavadinimas: "Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir kar
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Administracinių bylų teisenos įstatymo
-- [[latest/TAR.56935A08DD06|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - 2 citatos - Jūros aplinkos apsaugos įstatyme
-- [[latest/TAR.8FBB384266D1|Lietuvos Respublikos saugios laivybos įstatymas]] - 2 citatos - Saugios laivybos įstatyme
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Administracinių bylų teisenos įstatymo
+- [[latest/TAR.56935A08DD06|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - Jūros aplinkos apsaugos įstatyme
+- [[latest/TAR.E9CE9C91C255|Lietuvos Respublikos karo prievolės ir alternatyviosios krašto apsaugos tarnybos įstatymas]] - Karo prievolės įstatymo
+- [[latest/TAR.8FBB384266D1|Lietuvos Respublikos saugios laivybos įstatymas]] - Saugios laivybos įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.15C705E93776#^s-aec84f68d27e870489cecda2|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Įstatymas Nr. XI-1509
-- [[latest/TAR.15C705E93776#^s-e603ab3b8792ce28e9fac43e|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Įstatymas Nr. XI-1509
+_Nėra._

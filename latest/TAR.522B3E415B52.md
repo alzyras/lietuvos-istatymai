@@ -89,7 +89,7 @@ Teismai, vykdydami teisingumą, yra nepriklausomi nuo kitų valstybės valdžios
 ### 3 straipsnis. Teisėjų nepriklausomumas ^s-4a4d03cbefc065d4ac359ae5
 
 
-1. Teisėjų nepriklausomumo garantijas bei teisėjų statusą nustato Lietuvos Respublikos Konstitucija, šis ir kiti įstatymai bei kiti teisės aktai. ^s-24d841973fe1d3404b3e9fb5
+1. Teisėjų nepriklausomumo garantijas bei teisėjų statusą nustato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis ir kiti įstatymai bei kiti teisės aktai. ^s-24d841973fe1d3404b3e9fb5
 
 
 2. Teisėjai, vykdydami teisingumą, veikia nešališkai ir klauso tik įstatymų. ^s-34e07b525be89f3fbd89bbbc
@@ -215,7 +215,7 @@ LIETUVOS RESPUBLIKOS TEISMAI
 ### 12 straipsnis. Lietuvos Respublikos teismų sistema ir steigimas ^s-5da782f01abd3a1b688e9c0d
 
 
-1. Teismų sistemą ir kompetenciją nustato Lietuvos Respublikos Konstitucija, šis ir kiti įstatymai. Lietuvos Respublikos teismai steigiami įstatymu. ^s-b864132e820620c5b9212864
+1. Teismų sistemą ir kompetenciją nustato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis ir kiti įstatymai. Lietuvos Respublikos teismai steigiami įstatymu. ^s-b864132e820620c5b9212864
 
 
 2. Lietuvos Respublikos vientisą teismų sistemą sudaro bendrosios kompetencijos ir specializuoti teismai. ^s-fa33c91bc536470e0d5cd3dc
@@ -441,7 +441,7 @@ LIETUVOS AUKŠČIAUSIASIS TEISMAS
 3. Teisėjus į Aukščiausiojo Teismo Civilinių bylų ir Baudžiamųjų bylų skyrius paskirsto Aukščiausiojo Teismo pirmininkas, atsižvelgdamas į teisėjų darbo krūvį skyriuose. ^s-295e2c7c6421d1568276e629
 
 
-4. Aukščiausiojo Teismo organizavimo ir veiklos klausimus nustato šis Įstatymas, [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksas]], Lietuvos Respublikos civilinio proceso kodeksas, kiti įstatymai. ^s-48b3eff704e448bb06fe5c1f
+4. Aukščiausiojo Teismo organizavimo ir veiklos klausimus nustato šis Įstatymas, [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksas]], [Lietuvos Respublikos civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), kiti įstatymai. ^s-48b3eff704e448bb06fe5c1f
 
 
 5. Aukščiausiojo Teismo buveinė yra Lietuvos Respublikos sostinėje Vilniuje. ^s-7833aafc10116ffd167b2498
@@ -634,7 +634,7 @@ BYLŲ NAGRINĖJIMAS TEISMUOSE
 ### 33 straipsnis. Bylų nagrinėjimo teisės šaltiniai ^s-0a5bafd4004c53b739bcb6fc
 
 
-1. Nagrinėdami bylas, teismai vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Vyriausybės nutarimais, kitais Lietuvos Respublikoje galiojančiais teisės aktais, kurie neprieštarauja įstatymams. ^s-2a87feb684ce862527807397
+1. Nagrinėdami bylas, teismai vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Vyriausybės nutarimais, kitais Lietuvos Respublikoje galiojančiais teisės aktais, kurie neprieštarauja įstatymams. ^s-2a87feb684ce862527807397
 
 
 2. Nagrinėdami bylas, teismai taip pat vadovaujasi oficialiai paskelbtais Lietuvos Respublikos Konstitucinio Teismo nutarimais. ^s-ced7289b71e87388b9a60ea2
@@ -1113,7 +1113,7 @@ Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
 
 
-5. Teisėją perkelti į kitą tos pačios pakopos ar kitos jurisdikcijos teismą arba žemesnės pakopos teismą, arba į kitus teismo, kurio teisėju jis paskirtas, rūmus galima tik teisėjo sutikimu, išskyrus atvejus, numatytus šio Įstatymo [[#^s-2a702b4f95644239a085a4da|63 straipsnio]] 3, 5 ir 6 dalyse. ^s-b8e2cd7d20bcd10a0db86761
+5. Teisėją perkelti į kitą tos pačios pakopos ar kitos jurisdikcijos teismą arba žemesnės pakopos teismą, arba į kitus teismo, kurio teisėju jis paskirtas, rūmus galima tik teisėjo sutikimu, išskyrus atvejus, numatytus šio Įstatymo [[#^s-2a702b4f95644239a085a4da|63 straipsnio]] [[#^s-dac21a87187057347ef9b2bc|3]], [[#^s-ad50cefc5c350067c57aa3a9|5]] ir [[#^s-70c8f21a367fded7ad538b56|6]] dalyse. ^s-b8e2cd7d20bcd10a0db86761
 Straipsnio dalies pakeitimai:
 Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
 
@@ -1379,7 +1379,7 @@ PRETENDENTŲ Į TEISĖJUS ATRANKA
 ### 551 straipsnis. Pretendentų į teisėjus atranka ^s-978529e8216de2e77ff40c92
 
 
-1. Į laisvas teismų teisėjų vietas bei teismų pirmininkų, pirmininkų pavaduotojų ir skyrių pirmininkų pareigas pretendentai gali būti skiriami tik juos įvertinus atrankos metu, išskyrus šio Įstatymo 60, 61, 63 ir [[#^s-4ba9979216898ceff2fd9e7e|64 straipsniuose]] nustatytus atvejus. ^s-4ec09c763bceb65f2abd61b6
+1. Į laisvas teismų teisėjų vietas bei teismų pirmininkų, pirmininkų pavaduotojų ir skyrių pirmininkų pareigas pretendentai gali būti skiriami tik juos įvertinus atrankos metu, išskyrus šio Įstatymo [[#^s-e5f4c160efe6fd7f82e03135|60]], [[#^s-df96957e199c97cd59ddab86|61]], [[#^s-2a702b4f95644239a085a4da|63]] ir [[#^s-4ba9979216898ceff2fd9e7e|64]] straipsniuose nustatytus atvejus. ^s-4ec09c763bceb65f2abd61b6
 
 
 2. Pretendentai į teisėjus ir laisvas arba atsilaisvinančias teisėjų vietas, pageidaujantys būti įrašyti į pretendentų į apylinkės teismo teisėjų sąrašą arba teisėjų karjeros siekiančių asmenų registrą ir dalyvauti atrankoje, prioriteto tvarka nurodo teismus, o tais atvejais, kai teismai sudaryti iš teismo rūmų, – ir teismo rūmus, kuriuose pageidauja užimti laisvą teisėjo vietą, pageidaujamą ir (ar) turimą specializaciją (toliau – pretendento prioritetų sąrašas). ^s-1506ddeb3b6ef74b1ebe558d
@@ -1453,7 +1453,7 @@ PRETENDENTŲ Į TEISĖJUS ATRANKA
 ### 555 straipsnis. Pretendentų į teismų pirmininkų, pirmininkų pavaduotojų ir skyrių pirmininkų pareigas atrankos skelbimo ir organizavimo tvarka ^s-0be47f726177239933e5b28c
 
 
-Pretendentų į teismų pirmininkų, pirmininkų pavaduotojų ir skyrių pirmininkų pareigas atranka skelbiama ir organizuojama šio Įstatymo 551 ir [[#^s-9a68f1d36869cc48e2e220c3|554 straipsniuose]] nustatyta tvarka.
+Pretendentų į teismų pirmininkų, pirmininkų pavaduotojų ir skyrių pirmininkų pareigas atranka skelbiama ir organizuojama šio Įstatymo [[#^s-978529e8216de2e77ff40c92|551]] ir [[#^s-9a68f1d36869cc48e2e220c3|554]] straipsniuose nustatyta tvarka.
 
 
 
@@ -1491,7 +1491,7 @@ Pretendentų į teismų pirmininkų, pirmininkų pavaduotojų ir skyrių pirmini
 2. Aukščiausiasis Teismas, priėmęs [[#^s-6df5174591305a10cfb3bf7f|šio straipsnio 1 dalyje]] nurodytą skundą, turi teisę sustabdyti teisėjo skyrimo į atitinkamą teismą ar atitinkamo teismo pirmininko, pirmininko pavaduotojo arba skyriaus pirmininko pareigas procedūrą, apie šį sprendimą nedelsiant pranešdamas Atrankos komisijai ir Respublikos Prezidento kanceliarijai. Kartu Aukščiausiasis Teismas turi teisę prašyti Atrankos komisijos per septynias dienas nuo teismo pranešimo gavimo dienos pateikti paaiškinimus dėl skundo. ^s-c3a0a54d2438024c4013a307
 
 
-3. Šiame straipsnyje nurodytus skundus Aukščiausiajame Teisme mutatis mutandis Civilinio proceso kodekse nustatyta tvarka nagrinėja trijų teisėjų kolegija. ^s-c192703bad592c43c2241404
+3. Šiame straipsnyje nurodytus skundus Aukščiausiajame Teisme mutatis mutandis [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka nagrinėja trijų teisėjų kolegija. ^s-c192703bad592c43c2241404
 
 
 4. Skundus dėl esminių procedūrinių pažeidimų, galėjusių turėti įtakos objektyviam atrankoje dalyvavusių pretendentų įvertinimui, Aukščiausiasis Teismas turi išnagrinėti ne vėliau kaip per trisdešimt dienų nuo skundo gavimo dienos. ^s-bf4283a6a69a11542c965d5b
@@ -1526,7 +1526,7 @@ Pretendentų į teismų pirmininkų, pirmininkų pavaduotojų ir skyrių pirmini
 ### 56 straipsnis. Pretendentų asmens duomenų tvarkymas ^s-a2ecba2de22a8ae09cc08509
 
 
-1. Respublikos Prezidento kanceliarija, Atrankos komisija ir Nacionalinė teismų administracija pretendentų asmens duomenis tvarko vadovaudamosi [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo, kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). ^s-dda32901a6a8c5d47dcab6b8
+1. Respublikos Prezidento kanceliarija, Atrankos komisija ir Nacionalinė teismų administracija pretendentų asmens duomenis tvarko vadovaudamosi [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo, kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). ^s-dda32901a6a8c5d47dcab6b8
 
 
 2. Teisėjų, teismų pirmininkų, pirmininkų pavaduotojų ir skyrių pirmininkų skyrimo procedūros viešumo ir skaidrumo užtikrinimo tikslais Atrankos komisijos išvados dėl pretendentų į laisvas arba atsilaisvinančias Apeliacinio teismo, Vyriausiojo administracinio teismo ar Aukščiausiojo Teismo teisėjų vietas ir teismo pirmininko, pirmininko pavaduotojo arba skyriaus pirmininko pareigas skelbiamos Nacionalinės teismų administracijos interneto svetainėje šio Įstatymo [[#^s-583019b0898330c74c26b0ac|552 straipsnio 3 dalyje]] nurodytame tvarkos apraše nustatyta tvarka. Tais pačiais tikslais Nacionalinės teismų administracijos interneto svetainėje skelbiami ir kandidatų į konkrečių teismų teisėjus sąrašai. ^s-f3b18d608fedb3dfe2e4b180
@@ -1550,7 +1550,7 @@ Pretendentų į teismų pirmininkų, pirmininkų pavaduotojų ir skyrių pirmini
 2) Atrankos komisijos balsavimo dėl visų į šiuos sąrašus įrašytų pretendentų rezultatai, pretendentų vertinimo pagal šio Įstatymo [[#^s-a267f78eabec46994b8fa74a|551 straipsnio 7 dalyje]] nurodytus kriterijus rezultatai. ^s-9cb686f01c8a4dc286b29aa1
 
 
-5. Šio straipsnio 3 ir [[#^s-2cc97315e170205ec1817ebd|4 dalyse]] nurodyti pretendentų asmens duomenys Nacionalinės teismų administracijos interneto svetainėje skelbiami vienus metus nuo jų paskelbimo dienos. ^s-81c68b0f3840335b09103e1f
+5. Šio straipsnio [[#^s-03e1d8ae780cf60cff4b3cb2|3]] ir [[#^s-2cc97315e170205ec1817ebd|4]] dalyse nurodyti pretendentų asmens duomenys Nacionalinės teismų administracijos interneto svetainėje skelbiami vienus metus nuo jų paskelbimo dienos. ^s-81c68b0f3840335b09103e1f
 
 
 
@@ -1706,7 +1706,7 @@ Teisėjas negali būti skiriamas dirbti teisme ar teismo skyriuje, kuriame atiti
 8. Sprendžiant dėl teisėjo laikino perkėlimo [[#^s-70c8f21a367fded7ad538b56|šio straipsnio 6 dalyje]] numatytais atvejais, įvertinamas perkeliamo teisėjo darbo stažas, specializacija, šeiminė padėtis, atstumas nuo teisėjo gyvenamosios vietovės iki teismo ar teismo rūmų, į kuriuos teisėjas yra perkeliamas, teisėjo nuomonė ir argumentai dėl galimo perkėlimo, taip pat kitos esminės aplinkybės. ^s-92ae9a44bc759e3e7f8a8d64
 
 
-9. Šio straipsnio 6 ir [[#^s-26704f87c071d301b7c7cc86|7 dalyse]] numatytais atvejais teisėjas į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus laikinai perkeliamas netaikant šio Įstatymo [[#^s-978529e8216de2e77ff40c92|551 straipsnyje]] nustatytos atrankos. Teisėjo laikiną perkėlimą nustatančiame teisės akte nurodomas teisėjo laikino perkėlimo į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus terminas (perkėlimo pradžia ir pabaiga). [[#^s-26704f87c071d301b7c7cc86|Šio straipsnio 7 dalyje]] numatytais atvejais Aukščiausiojo Teismo teisėją į kitą teismą laikinai perkelia Seimas Respublikos Prezidento teikimu, Apeliacinio teismo teisėją – Seimo pritarimu Respublikos Prezidentas, Vyriausiojo administracinio teismo teisėją į Apeliacinį teismą – Seimo pritarimu Respublikos Prezidentas. ^s-043b30e0d8fa226a47f49a9e
+9. Šio straipsnio [[#^s-70c8f21a367fded7ad538b56|6]] ir [[#^s-26704f87c071d301b7c7cc86|7]] dalyse numatytais atvejais teisėjas į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus laikinai perkeliamas netaikant šio Įstatymo [[#^s-978529e8216de2e77ff40c92|551 straipsnyje]] nustatytos atrankos. Teisėjo laikiną perkėlimą nustatančiame teisės akte nurodomas teisėjo laikino perkėlimo į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus terminas (perkėlimo pradžia ir pabaiga). [[#^s-26704f87c071d301b7c7cc86|Šio straipsnio 7 dalyje]] numatytais atvejais Aukščiausiojo Teismo teisėją į kitą teismą laikinai perkelia Seimas Respublikos Prezidento teikimu, Apeliacinio teismo teisėją – Seimo pritarimu Respublikos Prezidentas, Vyriausiojo administracinio teismo teisėją į Apeliacinį teismą – Seimo pritarimu Respublikos Prezidentas. ^s-043b30e0d8fa226a47f49a9e
 
 
 10. Dėl teisėjų perkėlimo Respublikos Prezidentui motyvuotai pataria Teisėjų taryba. ^s-2208e1415017ddeff5ff3157
@@ -1768,7 +1768,7 @@ TEISĖJŲ KARJERA
 3. Apygardos teismo teisėjais gali būti skiriami šio Įstatymo [[#^s-435c6851fc37c168c13072ca|51 straipsnio 1 dalyje]] pretendentams į apylinkės teismo teisėjus nustatytus reikalavimus atitinkantys advokatai, turintys ne mažesnį kaip dešimties metų advokato darbo stažą, ir prokurorai, turintys ne mažesnį kaip dešimties metų prokuroro darbo stažą. ^s-c97b1c4a4e71037de6326d6d
 
 
-4. Kai abejojama dėl šio straipsnio 2 ir [[#^s-c97b1c4a4e71037de6326d6d|3 dalyse]] nurodytų pretendentų į teisėjus teisinio darbo stažo, teisėjo darbui tinkamą teisinio darbo stažą pripažįsta teisingumo ministro sudaryta Teisinio darbo stažo pripažinimo komisija. ^s-5fc78b7d52fdc5e40d09713d
+4. Kai abejojama dėl šio straipsnio [[#^s-2acc7854a9bc7c09c79222ab|2]] ir [[#^s-c97b1c4a4e71037de6326d6d|3]] dalyse nurodytų pretendentų į teisėjus teisinio darbo stažo, teisėjo darbui tinkamą teisinio darbo stažą pripažįsta teisingumo ministro sudaryta Teisinio darbo stažo pripažinimo komisija. ^s-5fc78b7d52fdc5e40d09713d
 
 
 
@@ -1798,7 +1798,7 @@ TEISĖJŲ KARJERA
 ### 69 straipsnis. Teisinio pedagoginio darbo stažo pripažinimas ^s-ceb0d58cd1a11125e33e0f95
 
 
-Šio Įstatymo 66, 67 ir [[#^s-11e4c26cc111587effde0b5e|68 straipsniuose]] nurodytu teisiniu pedagoginiu darbo stažu pripažįstamas laikas, kurį teisės krypties socialinių mokslų daktaras dirbo teisinį pedagoginį darbą eidamas [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymo]] nustatytas dėstytojų ir mokslo darbuotojų pareigas universitetuose, rengiančiuose teisės bakalaurus ir (ar) teisės magistrus, taip pat teisininko profesinį kvalifikacinį laipsnį įgyjančius teisininkus, t. y. suteikiančiuose vienpakopį aukštąjį teisinį universitetinį išsilavinimą. Teisinio pedagoginio darbo stažo pripažinimo tvarką nustato Vyriausybė.
+Šio Įstatymo [[#^s-0e4ff78d19e18879c816b533|66]], [[#^s-2f389fd66126dbbf7c832ca6|67]] ir [[#^s-11e4c26cc111587effde0b5e|68]] straipsniuose nurodytu teisiniu pedagoginiu darbo stažu pripažįstamas laikas, kurį teisės krypties socialinių mokslų daktaras dirbo teisinį pedagoginį darbą eidamas [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymo]] nustatytas dėstytojų ir mokslo darbuotojų pareigas universitetuose, rengiančiuose teisės bakalaurus ir (ar) teisės magistrus, taip pat teisininko profesinį kvalifikacinį laipsnį įgyjančius teisininkus, t. y. suteikiančiuose vienpakopį aukštąjį teisinį universitetinį išsilavinimą. Teisinio pedagoginio darbo stažo pripažinimo tvarką nustato Vyriausybė.
 
 
 
@@ -1811,7 +1811,7 @@ TEISĖJŲ KARJERA
 2. Dėl Regionų administracinio teismo, apygardos teismo teisėjų skyrimo Respublikos Prezidentui pataria Teisėjų taryba. ^s-fd36332d83a1935ce12e58c6
 
 
-3. Kandidatūros į Regionų administracinio teismo, apygardos teismo teisėjus svarstomos Teisėjų taryboje šio Įstatymo [[#^s-799198a2cc4ce6a41c3f2444|57 straipsnio]] 3, 4, 5 ir 6 dalyse nustatyta tvarka. ^s-e44228c6f104bcf8bc66c523
+3. Kandidatūros į Regionų administracinio teismo, apygardos teismo teisėjus svarstomos Teisėjų taryboje šio Įstatymo [[#^s-799198a2cc4ce6a41c3f2444|57 straipsnio]] [[#^s-49e755491a5e821905f6f8ce|3]], [[#^s-eb57ed365ab3e1dfb3321d66|4]], [[#^s-3bf960df66e21e3ed635f45c|5]] ir [[#^s-c14b3cba30c6d8b2757fc1ea|6]] dalyse nustatyta tvarka. ^s-e44228c6f104bcf8bc66c523
 
 
 
@@ -1824,7 +1824,7 @@ TEISĖJŲ KARJERA
 2. Dėl Vyriausiojo administracinio teismo teisėjų skyrimo Respublikos Prezidentui pataria Teisėjų taryba. ^s-04c49b32b4f8dc076baa56f5
 
 
-3. Kandidatūros į Vyriausiojo administracinio teismo teisėjus svarstomos Teisėjų taryboje šio Įstatymo [[#^s-799198a2cc4ce6a41c3f2444|57 straipsnio]] 3, 4, 5 ir 6 dalyse nustatyta tvarka. ^s-81432e159af7e355e6889dd0
+3. Kandidatūros į Vyriausiojo administracinio teismo teisėjus svarstomos Teisėjų taryboje šio Įstatymo [[#^s-799198a2cc4ce6a41c3f2444|57 straipsnio]] [[#^s-49e755491a5e821905f6f8ce|3]], [[#^s-eb57ed365ab3e1dfb3321d66|4]], [[#^s-3bf960df66e21e3ed635f45c|5]] ir [[#^s-c14b3cba30c6d8b2757fc1ea|6]] dalyse nustatyta tvarka. ^s-81432e159af7e355e6889dd0
 
 
 
@@ -1837,7 +1837,7 @@ TEISĖJŲ KARJERA
 2. Dėl Apeliacinio teismo teisėjų skyrimo Respublikos Prezidentui pataria Teisėjų taryba. ^s-0fd365f5ab1e6874c53a6745
 
 
-3. Kandidatūros į Apeliacinio teismo teisėjus svarstomos Teisėjų taryboje šio Įstatymo [[#^s-799198a2cc4ce6a41c3f2444|57 straipsnio]] 3, 4, 5 ir 6 dalyse nustatyta tvarka. ^s-04bb4db6b3234e50a0fb5707
+3. Kandidatūros į Apeliacinio teismo teisėjus svarstomos Teisėjų taryboje šio Įstatymo [[#^s-799198a2cc4ce6a41c3f2444|57 straipsnio]] [[#^s-49e755491a5e821905f6f8ce|3]], [[#^s-eb57ed365ab3e1dfb3321d66|4]], [[#^s-3bf960df66e21e3ed635f45c|5]] ir [[#^s-c14b3cba30c6d8b2757fc1ea|6]] dalyse nustatyta tvarka. ^s-04bb4db6b3234e50a0fb5707
 
 
 
@@ -1850,7 +1850,7 @@ TEISĖJŲ KARJERA
 2. Dėl Aukščiausiojo Teismo teisėjų skyrimo Respublikos Prezidentui pataria Teisėjų taryba. ^s-dc736b14d5d8501ea0db1bac
 
 
-3. Kandidatūros į Aukščiausiojo Teismo teisėjus svarstomos Teisėjų taryboje šio Įstatymo [[#^s-799198a2cc4ce6a41c3f2444|57 straipsnio]] 3, 4, 5 ir 6 dalyse nustatyta tvarka. ^s-7b54ebe78f05ad4ffafb57ab
+3. Kandidatūros į Aukščiausiojo Teismo teisėjus svarstomos Teisėjų taryboje šio Įstatymo [[#^s-799198a2cc4ce6a41c3f2444|57 straipsnio]] [[#^s-49e755491a5e821905f6f8ce|3]], [[#^s-eb57ed365ab3e1dfb3321d66|4]], [[#^s-3bf960df66e21e3ed635f45c|5]] ir [[#^s-c14b3cba30c6d8b2757fc1ea|6]] dalyse nustatyta tvarka. ^s-7b54ebe78f05ad4ffafb57ab
 
 
 Skyriaus pakeitimai:
@@ -1908,7 +1908,7 @@ Nr. X-611, 2006-05-23, Žin., 2006, Nr. 60-2121 (2006-05-27)
 1. Kandidatūras į laisvas arba atsilaisvinančias apylinkės teismo, Regionų administracinio teismo, apygardos teismo, Vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo, skyriaus pirmininko vietas atrenka Atrankos komisija pagal teisėjų karjeros siekiančių asmenų vertinimo kriterijus šio Įstatymo [[#^s-7cb8befa13b71b1ff0fef3cd|556 straipsnyje]] nustatyta tvarka. ^s-fc40981ef1fb08c100430cc0
 
 
-2. Kandidatūros į apylinkės teismo, Regionų administracinio teismo, apygardos teismo ir Vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo, skyriaus pirmininko pareigas svarstomos Teisėjų taryboje šio Įstatymo [[#^s-799198a2cc4ce6a41c3f2444|57 straipsnio]] 3, 4, 5 ir 6 dalyse nustatyta tvarka. ^s-c822149fde929f20f4fdda6a
+2. Kandidatūros į apylinkės teismo, Regionų administracinio teismo, apygardos teismo ir Vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo, skyriaus pirmininko pareigas svarstomos Teisėjų taryboje šio Įstatymo [[#^s-799198a2cc4ce6a41c3f2444|57 straipsnio]] [[#^s-49e755491a5e821905f6f8ce|3]], [[#^s-eb57ed365ab3e1dfb3321d66|4]], [[#^s-3bf960df66e21e3ed635f45c|5]] ir [[#^s-c14b3cba30c6d8b2757fc1ea|6]] dalyse nustatyta tvarka. ^s-c822149fde929f20f4fdda6a
 
 
 Straipsnio pakeitimai:
@@ -1953,7 +1953,7 @@ Nr. XI-240, 2009-04-28, Žin., 2009, Nr. 54-2138 (2009-05-12)
 1. Kandidatūras į laisvas arba atsilaisvinančias Apeliacinio teismo pirmininko, skyriaus pirmininko vietas atrenka Atrankos komisija pagal teisėjų karjeros siekiančių asmenų vertinimo kriterijus šio Įstatymo [[#^s-7cb8befa13b71b1ff0fef3cd|556 straipsnyje]] nustatyta tvarka. ^s-1f76f4fd3d5dc1e9af73669f
 
 
-2. Kandidatūros į Apeliacinio teismo pirmininko, skyriaus pirmininko pareigas svarstomos Teisėjų taryboje šio Įstatymo [[#^s-799198a2cc4ce6a41c3f2444|57 straipsnio]] 3, 4, 5 ir 6 dalyse nustatyta tvarka. ^s-eaa8f5ade8ba73b950c0fe98
+2. Kandidatūros į Apeliacinio teismo pirmininko, skyriaus pirmininko pareigas svarstomos Teisėjų taryboje šio Įstatymo [[#^s-799198a2cc4ce6a41c3f2444|57 straipsnio]] [[#^s-49e755491a5e821905f6f8ce|3]], [[#^s-eb57ed365ab3e1dfb3321d66|4]], [[#^s-3bf960df66e21e3ed635f45c|5]] ir [[#^s-c14b3cba30c6d8b2757fc1ea|6]] dalyse nustatyta tvarka. ^s-eaa8f5ade8ba73b950c0fe98
 
 
 Straipsnio pakeitimai:
@@ -2008,7 +2008,7 @@ Nr. X-611, 2006-05-23, Žin., 2006, Nr. 60-2121 (2006-05-27)
 1. Kandidatūras į laisvas arba atsilaisvinančias Aukščiausiojo Teismo pirmininko, skyriaus pirmininko vietas atrenka Atrankos komisija pagal teisėjų karjeros siekiančių asmenų vertinimo kriterijus šio Įstatymo [[#^s-7cb8befa13b71b1ff0fef3cd|556 straipsnyje]] nustatyta tvarka. ^s-c732a3870178b5b25d4041a3
 
 
-2. Kandidatūros į Aukščiausiojo Teismo pirmininko ir skyriaus pirmininko pareigas svarstomos Teisėjų taryboje šio Įstatymo [[#^s-799198a2cc4ce6a41c3f2444|57 straipsnio]] 3, 4, 5 ir 6 dalyse nustatyta tvarka. ^s-279083caf33408eef496adc5
+2. Kandidatūros į Aukščiausiojo Teismo pirmininko ir skyriaus pirmininko pareigas svarstomos Teisėjų taryboje šio Įstatymo [[#^s-799198a2cc4ce6a41c3f2444|57 straipsnio]] [[#^s-49e755491a5e821905f6f8ce|3]], [[#^s-eb57ed365ab3e1dfb3321d66|4]], [[#^s-3bf960df66e21e3ed635f45c|5]] ir [[#^s-c14b3cba30c6d8b2757fc1ea|6]] dalyse nustatyta tvarka. ^s-279083caf33408eef496adc5
 
 
 Straipsnio pakeitimai:
@@ -2074,7 +2074,7 @@ Nr. XIV-1570, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25121
 
 
 
-7. Dėl šio straipsnio 2, 3, 4, 5 ir [[#^s-5f8b69362a1a2f4cb1ef6774|6 dalyse]] nurodytų asmenų atleidimo iš pareigų Respublikos Prezidentui pataria Teisėjų taryba, išskyrus atvejus, kai teisėjas yra paskiriamas Lietuvos Respublikos Konstitucinio Teismo teisėju arba Vyriausybės nariu. ^s-fcb151d2a2e1be9cd32a5c57
+7. Dėl šio straipsnio [[#^s-74bf837a718f9d1e54a0cee9|2]], [[#^s-c11fb1c23dafe0324b851e2f|3]], [[#^s-8826f7646091fd82cfecffeb|4]], [[#^s-12929aaa94cda05a3f968d86|5]] ir [[#^s-5f8b69362a1a2f4cb1ef6774|6]] dalyse nurodytų asmenų atleidimo iš pareigų Respublikos Prezidentui pataria Teisėjų taryba, išskyrus atvejus, kai teisėjas yra paskiriamas Lietuvos Respublikos Konstitucinio Teismo teisėju arba Vyriausybės nariu. ^s-fcb151d2a2e1be9cd32a5c57
 
 
 Straipsnio pakeitimai:
@@ -2097,7 +2097,7 @@ pirmininko pašalinimas iš pareigų
 2. [[#^s-d30ced70b3ec9adfdb0883ea|Šio straipsnio 1 dalyje]] nurodyta pašalinimo iš pareigų tvarka gali būti taikoma ir Aukščiausiojo Teismo bei Apeliacinio teismo skyrių pirmininkams. ^s-5096d264363175a6659d227e
 
 
-3. Seimo nutarimu šio straipsnio 1 ar [[#^s-5096d264363175a6659d227e|2 dalyje]] nurodytam asmeniui pradėjus Seime apkaltos procesą, jam suteikti įgaliojimai sustabdomi iki Seimo sprendimo apkaltos procese priėmimo. Jei Seimas apkaltai nepritaria, šio asmens įgaliojimai atnaujinami ir jam sumokamas atlyginimas už įgaliojimų sustabdymo laiką. ^s-362be26bd38e8c223a633868
+3. Seimo nutarimu šio straipsnio [[#^s-d30ced70b3ec9adfdb0883ea|1]] ar [[#^s-5096d264363175a6659d227e|2]] dalyje nurodytam asmeniui pradėjus Seime apkaltos procesą, jam suteikti įgaliojimai sustabdomi iki Seimo sprendimo apkaltos procese priėmimo. Jei Seimas apkaltai nepritaria, šio asmens įgaliojimai atnaujinami ir jam sumokamas atlyginimas už įgaliojimų sustabdymo laiką. ^s-362be26bd38e8c223a633868
 
 
 Straipsnio pakeitimai:
@@ -2539,7 +2539,7 @@ Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 ### 915 straipsnis. Teisėjų veiklos vertinimo rezultatų naudojimas ^s-e251e22a63a48568887fb359
 
 
-1. Jeigu teisėjų veiklos vertinimo metu paaiškėja šio Įstatymo [[#^s-b02fd92b24db37b80c35d678|81 straipsnio 1 dalies 2 punkte]], [[#^s-c8a07d27bb6eb4d107b89356|83 straipsnio 2 dalyje]] arba [[#^s-140b41e20d4210b07ad70582|90 straipsnio 1 dalies]] 5 ar 6 punkte nurodytos aplinkybės, tai gali būti pagrindas pradėti atskirą tyrimą dėl galimybės patraukti teisėją drausminėn atsakomybėn, jį atleisti arba pašalinti iš pareigų šio Įstatymo 84, 90 arba [[#^s-820cd150f69b3f68b36bab47|91 straipsnyje]] nustatyta tvarka. ^s-3f18e387dcb95fc32ad1df1b
+1. Jeigu teisėjų veiklos vertinimo metu paaiškėja šio Įstatymo [[#^s-b02fd92b24db37b80c35d678|81 straipsnio 1 dalies 2 punkte]], [[#^s-c8a07d27bb6eb4d107b89356|83 straipsnio 2 dalyje]] arba [[#^s-140b41e20d4210b07ad70582|90 straipsnio 1 dalies]] [[#^s-134bf272a93b51d3ecb36b49|5]] ar [[#^s-c775cb88e67eb5c59c146446|6]] punkte nurodytos aplinkybės, tai gali būti pagrindas pradėti atskirą tyrimą dėl galimybės patraukti teisėją drausminėn atsakomybėn, jį atleisti arba pašalinti iš pareigų šio Įstatymo 84, 90 arba [[#^s-820cd150f69b3f68b36bab47|91 straipsnyje]] nustatyta tvarka. ^s-3f18e387dcb95fc32ad1df1b
 
 
 2. Teisėjų veiklos vertinimo medžiaga gali būti naudojama nepažeidžiant asmens duomenų apsaugos, valstybės, tarnybos, komercinės, profesinės ir kitų įstatymų saugomų paslapčių apsaugos reikalavimų, taip pat laikantis kitų įstatymuose numatytų apribojimų ir draudimų. Su teisėjų veiklos vertinimo medžiaga susipažinti ir ją naudoti gali Respublikos Prezidentas, vidinį teismų administravimą ir teismų administracinės veiklos priežiūrą atliekantys subjektai, Nacionalinės teismų administracijos direktorius ar jų įgalioti asmenys, Atrankos komisijos, Vertinimo komisijos, Teisėjų etikos ir drausmės komisijos, Teisėjų garbės teismo ir Teisėjų tarybos nariai, kai tai būtina teisės aktuose nustatytoms jų funkcijoms atlikti. Kiti asmenys susipažinti su teisėjų veiklos vertinimo medžiaga ir ją naudoti gali tik įstatymų numatytais atvejais ir pagrindais. ^s-a0a0df60ac5e6015a508c17a
@@ -2687,7 +2687,7 @@ Nr. XV-1084, 2026-06-25, paskelbta TAR 2026-07-03, i. k. 2026-11533
 6. Teisėjams, teismo skyrių pirmininkams, teismo pirmininko pavaduotojui teismo pirmininkas, o teismų pirmininkams Respublikos Prezidentas gali suteikti iki vienų metų atostogas kvalifikacijai tobulinti. Šiuo atveju teisėjui paliekamos jo eitos pareigos, tačiau jam nustatytas atlyginimas nemokamas; atostogų kvalifikacijai tobulinti laikas įskaitomas į teisėjo darbo stažą. Pasinaudoti atostogomis kvalifikacijai tobulinti teisėjas gali vieną kartą per penkerius metus. ^s-08f9e180096ea12caf7f8d60
 
 
-7. Teisėjui dėl šio Įstatymo 63 ir [[#^s-4ba9979216898ceff2fd9e7e|64 straipsniuose]] nustatyto perkėlimo į kitas pareigas kitoje gyvenamojoje vietovėje skiriama iki 5 darbo dienų persikėlimo atostogų. Už šį laikotarpį teisėjui mokamas jo vidutinis atlyginimas. ^s-e901759e9aa78a4069f95807
+7. Teisėjui dėl šio Įstatymo [[#^s-2a702b4f95644239a085a4da|63]] ir [[#^s-4ba9979216898ceff2fd9e7e|64]] straipsniuose nustatyto perkėlimo į kitas pareigas kitoje gyvenamojoje vietovėje skiriama iki 5 darbo dienų persikėlimo atostogų. Už šį laikotarpį teisėjui mokamas jo vidutinis atlyginimas. ^s-e901759e9aa78a4069f95807
 
 
 8. Teismo pirmininkui, teismo pirmininko pavaduotojui, skyriaus pirmininkui ir kitiems teisėjams atostogas suteikia atitinkamo teismo pirmininkas. Apie teismo pirmininkui suteiktas atostogas informuojamas Respublikos Prezidentas. ^s-31514fc088deeed95d20fde3
@@ -2731,7 +2731,7 @@ Nr. IX-1014, 2002-07-02, Žin., 2002, Nr. 73-3090 (2002-07-19)
 3. Teisėjui, perkeltam į kitą teismą arba į kitus to paties teismo, kurio teisėju jis paskirtas, rūmus šio Įstatymo [[#^s-70c8f21a367fded7ad538b56|63 straipsnio 6 dalyje]] numatytu atveju, Vyriausybės nustatyta tvarka kompensuojamos su perkėlimu susijusios išlaidos. ^s-e674068e7ed1001a9ca427aa
 
 
-4. Teisėjui, kuris yra perkeltas ar paskirtas į kitą teismą šio Įstatymo 63 ar [[#^s-4ba9979216898ceff2fd9e7e|64 straipsniuose]] numatytais atvejais arba yra paskirtas į aukštesnės pakopos teismą, jo pasirinkimu, atsižvelgiant į šio Įstatymo [[#^s-338acf61984bce95ac7bb205|98 straipsnio 5 dalyje]] nustatytus apribojimus, gali būti išmokama kompensacija už nepanaudotas atostogas arba šios atostogos yra perkeliamos ir toliau skaičiuojamos teisme, į kurį jis perkeltas arba paskirtas. ^s-60d46a568bddf17302aee4aa
+4. Teisėjui, kuris yra perkeltas ar paskirtas į kitą teismą šio Įstatymo [[#^s-2a702b4f95644239a085a4da|63]] ar [[#^s-4ba9979216898ceff2fd9e7e|64]] straipsniuose numatytais atvejais arba yra paskirtas į aukštesnės pakopos teismą, jo pasirinkimu, atsižvelgiant į šio Įstatymo [[#^s-338acf61984bce95ac7bb205|98 straipsnio 5 dalyje]] nustatytus apribojimus, gali būti išmokama kompensacija už nepanaudotas atostogas arba šios atostogos yra perkeliamos ir toliau skaičiuojamos teisme, į kurį jis perkeltas arba paskirtas. ^s-60d46a568bddf17302aee4aa
 Papildyta straipsnio dalimi:
 Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
@@ -3271,14 +3271,14 @@ Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
 
 3. Teisėjų tarybos nariu negali būti renkamas teisėjas, kuris turi mažesnį kaip trejų metų teisėjo darbo stažą arba kuriam buvo taikyta drausminė nuobauda. ^s-d9d2f199d6d3d8764b6efaa9
-TAR pastaba. [[#^s-d9d2f199d6d3d8764b6efaa9|119 straipsnio 3 dalies]] nuostatos taikomos Teismų įstatymo nustatyta tvarka renkant naujos sudėties Teisėjų tarybą.
+TAR pastaba. 119 straipsnio 3 dalies nuostatos taikomos Teismų įstatymo nustatyta tvarka renkant naujos sudėties Teisėjų tarybą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
 
 
 4. Teisėjų tarybos įgaliojimų laikas – ketveri metai. Teisėjų tarybos nariais teisėjai gali būti renkami ne daugiau kaip dviem kadencijoms iš eilės. ^s-c5f744307678b158b9a83776
-TAR pastaba. [[#^s-c5f744307678b158b9a83776|119 straipsnio 4 dalies]] nuostatos taikomos Teismų įstatymo nustatyta tvarka renkant naujos sudėties Teisėjų tarybą.
+TAR pastaba. 119 straipsnio 4 dalies nuostatos taikomos Teismų įstatymo nustatyta tvarka renkant naujos sudėties Teisėjų tarybą.
 Straipsnio dalies pakeitimai:
 Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
 
@@ -3903,7 +3903,7 @@ Nr. VIII-1535, 00.02.10, Žin., 2000, Nr.15-382 (00.02.23)
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1994, 00.10.10, Žin., 2000, Nr.92-2847 (00.10.31)
-TEISMO [[latest/TAR.94F5702CA0F1|ANTSTOLIŲ ĮSTATYMO]] ĮGYVENDINIMO ĮSTATYMAS
+[TEISMO ANTSTOLIŲ ĮSTATYMO ĮGYVENDINIMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.11884DFA7938)
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3923,9 +3923,9 @@ Nauja įstatymo redakcija
 Šio įstatymo įsigaliojimą nusako:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-788, 2002-03-14, Žin., 2002, Nr. 31-1131 (2002-03-27)
-[[latest/TAR.390AEF086CE3|TEISMŲ ĮSTATYMO PAKEITIMO ĮSTATYMO]] ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMAS
+[TEISMŲ ĮSTATYMO PAKEITIMO ĮSTATYMO ĮSIGALIOJIMO IR ĮGYVENDINIMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.51C6B1E00ECC)
 [[latest/TAR.390AEF086CE3|Teismų įstatymo pakeitimo įstatymas]] įsigalioja nuo 2002 m. gegužės 1 d., išskyrus šiame Įstatyme numatytas išimtis.
-[[#^s-df607a3fad4de0d90c100a3c|Teismų įstatymo 94 ir 100 straipsniai]] įsigalioja nuo 2003 m. sausio 1 d.
+Teismų įstatymo [[#^s-87afbe1aa3512f542b922523|94]] ir [[#^s-df607a3fad4de0d90c100a3c|100]] straipsniai įsigalioja nuo 2003 m. sausio 1 d.
 Iki šiame Įstatyme nurodytų Teismų įstatymo straipsnių įsigaliojimo taikomos atitinkamos Teismų įstatymo nuostatos, galiojusios iki [[latest/TAR.390AEF086CE3|Teismų įstatymo pakeitimo įstatymo]] įsigaliojimo.
 
 25.
@@ -4015,23 +4015,23 @@ Jei teismų pirmininkai, pirmininkų pavaduotojai ir skyrių pirmininkai iki ši
 36.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1685, 2008-07-03, Žin., 2008, Nr. 81-3186 (2008-07-17)
-[[#^s-bac9765cacf6716238f63fe6|TEISMŲ ĮSTATYMO 33, 34, 36, 38, 39, 42, 43, 47, 51, 55(1), 57, 61, 63, 64, 69(1), 81 STRAIPSNIŲ]], IX SKYRIAUS PAVADINIMO, 83, 84, 85, 86, 90, 98, 101, [[#^s-1214c625ad209d301f74b724|103 STRAIPSNIŲ]], XII SKYRIAUS ANTROJO SKIRSNIO PAVADINIMO, 106, 107, 108, 119, 120, 122, 124, 127, 128, [[#^s-b6223325afec0f9a7486196e|129 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, 89, 109, 110, 111, 112, [[#^s-935b7e77c17035bd48dcd3e9|125 STRAIPSNIŲ]] PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PAPILDYMO 53(1), 53(2) STRAIPSNIAIS IR IX SKYRIAUS TREČIUOJU SKIRSNIU ĮSTATYMAS
-Šis įstatymas, išskyrus šio įstatymo 4 ir [[#^s-4ee840827bdd8745830e8ab3|31 straipsnius]], [[#^s-f0fe39e0ed872b12730dddf6|32 straipsniu]] keičiamo [[#^s-3185964d93e53edcd904dad6|Teismų įstatymo 107 straipsnio]] 1 ir [[#^s-05c8726ca2466c4859891235|2 dalis]], įsigalioja 2008 m. rusėjo 1 d.
+TEISMŲ ĮSTATYMO 33, 34, 36, 38, 39, 42, 43, 47, 51, 55(1), 57, 61, 63, 64, 69(1), [[#^s-bac9765cacf6716238f63fe6|81 STRAIPSNIŲ]], IX SKYRIAUS PAVADINIMO, [[#^s-6677cd6cebec2aa5d86adfaf|83]], [[#^s-ca093b5b2ff403183e72d8e1|84]], [[#^s-22fe023bcffc37966ce856d8|85]], [[#^s-6cb22b1291af3e39268f9adb|86]], [[#^s-27ff65e7e76c72ac7a25b600|90]], [[#^s-e65f4db927d291d696da0069|98]], [[#^s-b6629568c1497db84daa4289|101]], [[#^s-1214c625ad209d301f74b724|103]] STRAIPSNIŲ, XII SKYRIAUS ANTROJO SKIRSNIO PAVADINIMO, [[#^s-eff7997ae22a2ece0c8e6531|106]], [[#^s-3185964d93e53edcd904dad6|107]], [[#^s-d9638a11ccd3b8ba7e8652b8|108]], [[#^s-74d8bccbd3038a2a6fe23b31|119]], [[#^s-7d9ffdd27cd815ff86514ec9|120]], [[#^s-c2d0eacb80a7cb6d8b218ca1|122]], [[#^s-454b09aca41b05c025eb45ec|124]], [[#^s-aebbc492ea8186d98779ee92|127]], [[#^s-c18eb351bddd51fcc5d4a80d|128]], [[#^s-b6223325afec0f9a7486196e|129]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, [[#^s-79d9e9226c715bb311e8593d|89]], [[#^s-752964dc10de34a49fd2e5d8|109]], [[#^s-9612b9232d2abfa82a25c93a|110]], [[#^s-0dc9a196f70a82a3f4abec65|111]], [[#^s-d043089ae4fac76ea9bc7d34|112]], [[#^s-935b7e77c17035bd48dcd3e9|125]] STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PAPILDYMO 53(1), 53(2) STRAIPSNIAIS IR IX SKYRIAUS TREČIUOJU SKIRSNIU ĮSTATYMAS
+Šis įstatymas, išskyrus šio įstatymo [[#^s-6bc8da21b9b7d4bba5899bc3|4]] ir [[#^s-4ee840827bdd8745830e8ab3|31]] straipsnius, [[#^s-f0fe39e0ed872b12730dddf6|32 straipsniu]] keičiamo [[#^s-3185964d93e53edcd904dad6|Teismų įstatymo 107 straipsnio]] [[#^s-2b15382e202a5b385df9dfc2|1]] ir [[#^s-20c865d69ddb34a62f28ceec|2]] dalis, įsigalioja 2008 m. rusėjo 1 d.
 Šio įstatymo [[#^s-4ee840827bdd8745830e8ab3|31 straipsnis]], [[#^s-f0fe39e0ed872b12730dddf6|32 straipsniu]] keičiamo [[#^s-2b15382e202a5b385df9dfc2|Teismų įstatymo 107 straipsnio 1 dalis]] įsigalioja 2017 m. sausio 1 d., [[#^s-05c8726ca2466c4859891235|2 dalis]] – 2012 m. sausio 1 d.
 Šio įstatymo [[#^s-6bc8da21b9b7d4bba5899bc3|4 straipsnis]] įsigalioja 2010 m. liepos 1 d.
 Šio įstatymo įsigaliojimas keistas:
 36.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-587, 2009-12-21, Žin., 2009, Nr. 154-6957 (2009-12-28)
-[[#^s-bac9765cacf6716238f63fe6|TEISMŲ ĮSTATYMO 33, 34, 36, 38, 39, 42, 43, 47, 51, 55(1), 57, 61, 63, 64, 69(1), 81 STRAIPSNIŲ]], IX SKYRIAUS PAVADINIMO, 83, 84, 85, 86, 90, 98, 101, [[#^s-1214c625ad209d301f74b724|103 STRAIPSNIŲ]], XII SKYRIAUS ANTROJO SKIRSNIO PAVADINIMO, 106, 107, 108, 119, 120, 122, 124, 127, 128, [[#^s-b6223325afec0f9a7486196e|129 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, 89, 109, 110, 111, 112, [[#^s-935b7e77c17035bd48dcd3e9|125 STRAIPSNIŲ]] PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PAPILDYMO 53(1), 53(2) STRAIPSNIAIS IR IX SKYRIAUS TREČIUOJU SKIRSNIU ĮSTATYMO [[#^s-fa3906e3c2213437f6732c28|46 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+TEISMŲ ĮSTATYMO 33, 34, 36, 38, 39, 42, 43, 47, 51, 55(1), 57, 61, 63, 64, 69(1), [[#^s-bac9765cacf6716238f63fe6|81 STRAIPSNIŲ]], IX SKYRIAUS PAVADINIMO, [[#^s-6677cd6cebec2aa5d86adfaf|83]], [[#^s-ca093b5b2ff403183e72d8e1|84]], [[#^s-22fe023bcffc37966ce856d8|85]], [[#^s-6cb22b1291af3e39268f9adb|86]], [[#^s-27ff65e7e76c72ac7a25b600|90]], [[#^s-e65f4db927d291d696da0069|98]], [[#^s-b6629568c1497db84daa4289|101]], [[#^s-1214c625ad209d301f74b724|103]] STRAIPSNIŲ, XII SKYRIAUS ANTROJO SKIRSNIO PAVADINIMO, [[#^s-eff7997ae22a2ece0c8e6531|106]], [[#^s-3185964d93e53edcd904dad6|107]], [[#^s-d9638a11ccd3b8ba7e8652b8|108]], [[#^s-74d8bccbd3038a2a6fe23b31|119]], [[#^s-7d9ffdd27cd815ff86514ec9|120]], [[#^s-c2d0eacb80a7cb6d8b218ca1|122]], [[#^s-454b09aca41b05c025eb45ec|124]], [[#^s-aebbc492ea8186d98779ee92|127]], [[#^s-c18eb351bddd51fcc5d4a80d|128]], [[#^s-b6223325afec0f9a7486196e|129]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, [[#^s-79d9e9226c715bb311e8593d|89]], [[#^s-752964dc10de34a49fd2e5d8|109]], [[#^s-9612b9232d2abfa82a25c93a|110]], [[#^s-0dc9a196f70a82a3f4abec65|111]], [[#^s-d043089ae4fac76ea9bc7d34|112]], [[#^s-935b7e77c17035bd48dcd3e9|125]] STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PAPILDYMO 53(1), 53(2) STRAIPSNIAIS IR IX SKYRIAUS TREČIUOJU SKIRSNIU ĮSTATYMO [[#^s-fa3906e3c2213437f6732c28|46 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
 36.2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1754, 2011-12-01, Žin., 2011, Nr. 150-7053 (2011-12-08)
-[[#^s-bac9765cacf6716238f63fe6|TEISMŲ ĮSTATYMO 33, 34, 36, 38, 39, 42, 43, 47, 51, 55(1), 57, 61, 63, 64, 69(1), 81 STRAIPSNIŲ]], IX SKYRIAUS PAVADINIMO, 83, 84, 85, 86, 90, 98, 101, [[#^s-1214c625ad209d301f74b724|103 STRAIPSNIŲ]], XII SKYRIAUS ANTROJO SKIRSNIO PAVADINIMO, 106, 107, 108, 119, 120, 122, 124, 127, 128, [[#^s-b6223325afec0f9a7486196e|129 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, 89, 109, 110, 111, 112, [[#^s-935b7e77c17035bd48dcd3e9|125 STRAIPSNIŲ]] PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PAPILDYMO 53(1), 53(2) STRAIPSNIAIS IR IX SKYRIAUS TREČIUOJU SKIRSNIU ĮSTATYMO [[#^s-fa3906e3c2213437f6732c28|46 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+TEISMŲ ĮSTATYMO 33, 34, 36, 38, 39, 42, 43, 47, 51, 55(1), 57, 61, 63, 64, 69(1), [[#^s-bac9765cacf6716238f63fe6|81 STRAIPSNIŲ]], IX SKYRIAUS PAVADINIMO, [[#^s-6677cd6cebec2aa5d86adfaf|83]], [[#^s-ca093b5b2ff403183e72d8e1|84]], [[#^s-22fe023bcffc37966ce856d8|85]], [[#^s-6cb22b1291af3e39268f9adb|86]], [[#^s-27ff65e7e76c72ac7a25b600|90]], [[#^s-e65f4db927d291d696da0069|98]], [[#^s-b6629568c1497db84daa4289|101]], [[#^s-1214c625ad209d301f74b724|103]] STRAIPSNIŲ, XII SKYRIAUS ANTROJO SKIRSNIO PAVADINIMO, [[#^s-eff7997ae22a2ece0c8e6531|106]], [[#^s-3185964d93e53edcd904dad6|107]], [[#^s-d9638a11ccd3b8ba7e8652b8|108]], [[#^s-74d8bccbd3038a2a6fe23b31|119]], [[#^s-7d9ffdd27cd815ff86514ec9|120]], [[#^s-c2d0eacb80a7cb6d8b218ca1|122]], [[#^s-454b09aca41b05c025eb45ec|124]], [[#^s-aebbc492ea8186d98779ee92|127]], [[#^s-c18eb351bddd51fcc5d4a80d|128]], [[#^s-b6223325afec0f9a7486196e|129]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, [[#^s-79d9e9226c715bb311e8593d|89]], [[#^s-752964dc10de34a49fd2e5d8|109]], [[#^s-9612b9232d2abfa82a25c93a|110]], [[#^s-0dc9a196f70a82a3f4abec65|111]], [[#^s-d043089ae4fac76ea9bc7d34|112]], [[#^s-935b7e77c17035bd48dcd3e9|125]] STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS IR ĮSTATYMO PAPILDYMO 53(1), 53(2) STRAIPSNIAIS IR IX SKYRIAUS TREČIUOJU SKIRSNIU ĮSTATYMO [[#^s-fa3906e3c2213437f6732c28|46 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
 36.3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1495, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20795
-[[#^s-bac9765cacf6716238f63fe6|LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 33, 34, 36, 38, 39, 42, 43, 47, 51, 55-1, 57, 61, 63, 64, 69-1, [[#^s-bac9765cacf6716238f63fe6\|81 STRAIPSNIŲ]]]], IX SKYRIAUS PAVADINIMO, 83, 84, 85, 86, 90, 98, 101, [[#^s-1214c625ad209d301f74b724|103 STRAIPSNIŲ]], XII SKYRIAUS ANTROJO SKIRSNIO PAVADINIMO, 106, 107, 108, 119, 120, 122, 124, 127, 128, [[#^s-b6223325afec0f9a7486196e|129 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, 89, 109 110, 111, 112, [[#^s-935b7e77c17035bd48dcd3e9|125 STRAIPSNIŲ]] PRIPAŽINIMU NETEKUSIAIS GALIOS IR ĮSTATYMO PAPILDYMO 53-1, 53-2 STRAIPSNIAIS IR IX SKYRIAUS TREČIUOJU SKIRSNIU [[latest/TAR.C297668F27C1|ĮSTATYMO NR. X-1685]] [[#^s-fa3906e3c2213437f6732c28|46 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO [[#^s-0a5bafd4004c53b739bcb6fc|33]], [[#^s-a10299da2675c2a918094e9a|34]], [[#^s-8fc6ceeed3b24323f8ce6622|36]], [[#^s-99dfaaae5601f9368c5b5f84|38]], [[#^s-f21794d9fdcfa3a429497d6e|39]], [[#^s-4f981635050eae99a81795f9|42]], [[#^s-f5a6b307179e02f619b81dbd|43]], [[#^s-32cfe4c990ea0f8ab5968d2f|47]], [[#^s-ea1a3b17454bd2eb579ffa60|51]], 55-1, [[#^s-799198a2cc4ce6a41c3f2444|57]], [[#^s-df96957e199c97cd59ddab86|61]], [[#^s-2a702b4f95644239a085a4da|63]], [[#^s-4ba9979216898ceff2fd9e7e|64]], 69-1, [[#^s-bac9765cacf6716238f63fe6|81]] STRAIPSNIŲ, IX SKYRIAUS PAVADINIMO, [[#^s-6677cd6cebec2aa5d86adfaf|83]], [[#^s-ca093b5b2ff403183e72d8e1|84]], [[#^s-22fe023bcffc37966ce856d8|85]], [[#^s-6cb22b1291af3e39268f9adb|86]], [[#^s-27ff65e7e76c72ac7a25b600|90]], [[#^s-e65f4db927d291d696da0069|98]], [[#^s-b6629568c1497db84daa4289|101]], [[#^s-1214c625ad209d301f74b724|103]] STRAIPSNIŲ, XII SKYRIAUS ANTROJO SKIRSNIO PAVADINIMO, [[#^s-eff7997ae22a2ece0c8e6531|106]], [[#^s-3185964d93e53edcd904dad6|107]], [[#^s-d9638a11ccd3b8ba7e8652b8|108]], [[#^s-74d8bccbd3038a2a6fe23b31|119]], [[#^s-7d9ffdd27cd815ff86514ec9|120]], [[#^s-c2d0eacb80a7cb6d8b218ca1|122]], [[#^s-454b09aca41b05c025eb45ec|124]], [[#^s-aebbc492ea8186d98779ee92|127]], [[#^s-c18eb351bddd51fcc5d4a80d|128]], [[#^s-b6223325afec0f9a7486196e|129]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 89, 109 [[#^s-9612b9232d2abfa82a25c93a|110]], [[#^s-0dc9a196f70a82a3f4abec65|111]], [[#^s-d043089ae4fac76ea9bc7d34|112]], [[#^s-935b7e77c17035bd48dcd3e9|125]] STRAIPSNIŲ PRIPAŽINIMU NETEKUSIAIS GALIOS IR ĮSTATYMO PAPILDYMO 53-1, 53-2 STRAIPSNIAIS IR IX SKYRIAUS TREČIUOJU SKIRSNIU [[latest/TAR.C297668F27C1|ĮSTATYMO NR. X-1685]] [[#^s-fa3906e3c2213437f6732c28|46 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4070,7 +4070,7 @@ Nr. XI-1243, 2010-12-22, Žin., 2010, Nr. 157-7975 (2010-12-31)
 43.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1423, 2011-05-26, Žin., 2011, Nr. 67-3157 (2011-06-02)
-[[#^s-b6629568c1497db84daa4289|TEISMŲ ĮSTATYMO 45, 55(1), 63 IR 101 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+TEISMŲ ĮSTATYMO 45, 55(1), [[#^s-2a702b4f95644239a085a4da|63]] IR [[#^s-b6629568c1497db84daa4289|101]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 44.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4080,13 +4080,13 @@ Nr. XI-1479, 2011-06-21, Žin., 2011, Nr. 78-3804 (2011-06-30)
 45.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1482, 2011-06-21, Žin., 2011, Nr. 85-4128 (2011-07-13)
-[[#^s-7d9ffdd27cd815ff86514ec9|TEISMŲ ĮSTATYMO 36, 37, 93, 94, 120 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 37(1) STRAIPSNIU ĮSTATYMAS
+TEISMŲ ĮSTATYMO [[#^s-8fc6ceeed3b24323f8ce6622|36]], [[#^s-a52bc6baa4373d7a9cc32aac|37]], [[#^s-424e5be6f7faa1bfbc6d3966|93]], [[#^s-87afbe1aa3512f542b922523|94]], [[#^s-7d9ffdd27cd815ff86514ec9|120]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 37(1) STRAIPSNIU ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-4a4d03cbefc065d4ac359ae5|3 straipsnį]] ir [[#^s-58a84da046c2b09784558e4a|šio straipsnio 3 dalį]], įsigalioja 2011 m. spalio 1 d.
 Šio įstatymo [[#^s-4a4d03cbefc065d4ac359ae5|3 straipsnis]] įsigalioja 2013 m. liepos 1 d.
 Įstatymo įsigaliojimas keistas:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-74, 2012-12-20, Žin., 2012, Nr. 153-7826 (2012-12-29)
-[[#^s-7d9ffdd27cd815ff86514ec9|TEISMŲ ĮSTATYMO 36, 37, 93, 94, 120 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 37(1) STRAIPSNIU ĮSTATYMO [[#^s-752d7aa5ac3557d686169ea1|7 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+TEISMŲ ĮSTATYMO [[#^s-8fc6ceeed3b24323f8ce6622|36]], [[#^s-a52bc6baa4373d7a9cc32aac|37]], [[#^s-424e5be6f7faa1bfbc6d3966|93]], [[#^s-87afbe1aa3512f542b922523|94]], [[#^s-7d9ffdd27cd815ff86514ec9|120]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 37(1) STRAIPSNIU ĮSTATYMO [[#^s-752d7aa5ac3557d686169ea1|7 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
 
 46.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4156,17 +4156,17 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 99.12.21, Žin., 1999, Nr.109-3192 (99.12.24)
-DĖL [[#^s-8a131e5687389209d705ba6e|LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 14, 251, 26, 30, 33, 34, 36, 40, 51, 56, 58, 59, 66, 69, 691 IR 73 STRAIPSNIŲ]] ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+DĖL LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO [[#^s-998c5fdb4a278fc665da6d7d|14]], [[latest/TAR.522B3E415B52|251]], [[#^s-2a247d5dd375c8aeea04c9e5|26]], [[#^s-95d36950d35300dc5f2bf4a0|30]], [[#^s-0a5bafd4004c53b739bcb6fc|33]], [[#^s-a10299da2675c2a918094e9a|34]], [[#^s-8fc6ceeed3b24323f8ce6622|36]], [[#^s-151f5e9b7a871c0417c770e1|40]], [[#^s-ea1a3b17454bd2eb579ffa60|51]], [[#^s-a2ecba2de22a8ae09cc08509|56]], [[#^s-86bb74252b13e24b29af435c|58]], [[#^s-9babcb2b347174e3c9bb820d|59]], [[#^s-0e4ff78d19e18879c816b533|66]], [[#^s-ceb0d58cd1a11125e33e0f95|69]], [[latest/TAR.522B3E415B52|691]] IR [[#^s-8a131e5687389209d705ba6e|73]] STRAIPSNIŲ ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 2.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2006-05-09, Žin., 2006, Nr. 51-1894 (2006-05-11)
-DĖL [[#^s-f3b18d608fedb3dfe2e4b180|LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 56 STRAIPSNIO 2 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-58a84da046c2b09784558e4a|3 DALIES]] (2003 M. SAUSIO 21 D. REDAKCIJA), 4, 5, 6 DALIŲ (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-49e755491a5e821905f6f8ce|57 STRAIPSNIO 3 DALIES]] (2003 M. SAUSIO 28 D. REDAKCIJA), [[#^s-705adcf1fff8016b3c1bd417|63 STRAIPSNIO 4 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-56d9de1bdde13662a3d67805|70 STRAIPSNIO]] 2, [[#^s-58a84da046c2b09784558e4a|3 DALIŲ]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-bbece2225317df73ac9e4838|71 STRAIPSNIO]] 2, [[#^s-58a84da046c2b09784558e4a|3 DALIŲ]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-29cafc65033563adcd6feeb6|72 STRAIPSNIO]] 2, [[#^s-58a84da046c2b09784558e4a|3 DALIŲ]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-dc736b14d5d8501ea0db1bac|73 STRAIPSNIO 2 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-35cc9702358f309e4c7b5340|74 STRAIPSNIO 1 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-726578ae78e138bfa8222bc3|75 STRAIPSNIO 1 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-c822149fde929f20f4fdda6a|76 STRAIPSNIO 2 DALIES]] (2003 M. SAUSIO 21 D. REDAKCIJA), [[#^s-e4174d2e39b191bf76a10092|77 STRAIPSNIO 3 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-eaa8f5ade8ba73b950c0fe98|78 STRAIPSNIO 2 DALIES]] (2003 M. SAUSIO 21 D. REDAKCIJA), [[#^s-6e53d797d010846a1966cbea|79 STRAIPSNIO 2 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-bac9765cacf6716238f63fe6|81 STRAIPSNIO]] 3, 7 DALIŲ (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-27ff65e7e76c72ac7a25b600|90 STRAIPSNIO]] 3, 7 DALIŲ (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-74d8bccbd3038a2a6fe23b31|119 STRAIPSNIO]] 2, [[#^s-6c70d876e359f4520b4948ff|5 DALIŲ]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-7d9ffdd27cd815ff86514ec9|120 STRAIPSNIO]] 3, 4 PUNKTŲ (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-4ab4e131d2940449b0c3cd5a|128 STRAIPSNIO 2 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), LIETUVOS RESPUBLIKOS ĮSTATYMO "LIETUVOS AUKŠČIAUSIOJO TEISMO STATUTAS" 11 STRAIPSNIO 3 DALIES 13 PUNKTO (1996 M. LIEPOS 4 D. REDAKCIJA), [[#^s-095ff9c9aa945f2e4624ab89|17 STRAIPSNIO]] 1, [[#^s-58a84da046c2b09784558e4a|3 DALIŲ]] (1995 M. BALANDŽIO 18 D. REDAKCIJA), [[#^s-d513c1797cbdf86e31826688|4 DALIES]] (1996 M. LIEPOS 4 D. REDAKCIJA), [[#^s-9aeaa5dab7a74750ef5fe456|18 STRAIPSNIO 3 DALIES]] (1995 M. BALANDŽIO 18 D. REDAKCIJA) IR LIETUVOS RESPUBLIKOS PREZIDENTO 2003 M. VASARIO 10 D. DEKRETO NR. 2048 "DĖL APYGARDOS TEISMO TEISĖJO ATLEIDIMO" [[#^s-bee6ea4cc337cf1ddb8c70e3|1 STRAIPSNIO]] ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+DĖL LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO [[#^s-f3b18d608fedb3dfe2e4b180|56 STRAIPSNIO 2 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-58a84da046c2b09784558e4a|3 DALIES]] (2003 M. SAUSIO 21 D. REDAKCIJA), [[#^s-d513c1797cbdf86e31826688|4]], 5, 6 DALIŲ (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-49e755491a5e821905f6f8ce|57 STRAIPSNIO 3 DALIES]] (2003 M. SAUSIO 28 D. REDAKCIJA), [[#^s-705adcf1fff8016b3c1bd417|63 STRAIPSNIO 4 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-56d9de1bdde13662a3d67805|70 STRAIPSNIO]] [[#^s-fd36332d83a1935ce12e58c6|2]], [[#^s-e44228c6f104bcf8bc66c523|3]] DALIŲ (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-bbece2225317df73ac9e4838|71 STRAIPSNIO]] [[#^s-04c49b32b4f8dc076baa56f5|2]], [[#^s-81432e159af7e355e6889dd0|3]] DALIŲ (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-29cafc65033563adcd6feeb6|72 STRAIPSNIO]] [[#^s-0fd365f5ab1e6874c53a6745|2]], [[#^s-04bb4db6b3234e50a0fb5707|3]] DALIŲ (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-dc736b14d5d8501ea0db1bac|73 STRAIPSNIO 2 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-35cc9702358f309e4c7b5340|74 STRAIPSNIO 1 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-726578ae78e138bfa8222bc3|75 STRAIPSNIO 1 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-c822149fde929f20f4fdda6a|76 STRAIPSNIO 2 DALIES]] (2003 M. SAUSIO 21 D. REDAKCIJA), [[#^s-e4174d2e39b191bf76a10092|77 STRAIPSNIO 3 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-eaa8f5ade8ba73b950c0fe98|78 STRAIPSNIO 2 DALIES]] (2003 M. SAUSIO 21 D. REDAKCIJA), [[#^s-6e53d797d010846a1966cbea|79 STRAIPSNIO 2 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-bac9765cacf6716238f63fe6|81 STRAIPSNIO]] [[#^s-c11fb1c23dafe0324b851e2f|3]], [[#^s-fcb151d2a2e1be9cd32a5c57|7]] DALIŲ (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-27ff65e7e76c72ac7a25b600|90 STRAIPSNIO]] [[#^s-4a80b5fb876c9b196825b3c3|3]], [[#^s-9d6cd6683828f1187192ae30|7]] DALIŲ (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-74d8bccbd3038a2a6fe23b31|119 STRAIPSNIO]] [[#^s-51cff23e23aab73ab4d29574|2]], [[#^s-68a316530b5cf42ec313a4b2|5]] DALIŲ (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-7d9ffdd27cd815ff86514ec9|120 STRAIPSNIO]] 3, 4 PUNKTŲ (2002 M. SAUSIO 24 D. REDAKCIJA), [[#^s-4ab4e131d2940449b0c3cd5a|128 STRAIPSNIO 2 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), LIETUVOS RESPUBLIKOS ĮSTATYMO ["LIETUVOS AUKŠČIAUSIOJO TEISMO STATUTAS"](https://e-tar.lt/portal/lt/legalAct/TAR.1DAB8BD6385D) 11 STRAIPSNIO 3 DALIES 13 PUNKTO (1996 M. LIEPOS 4 D. REDAKCIJA), [[#^s-095ff9c9aa945f2e4624ab89|17 STRAIPSNIO]] 1, 3 DALIŲ (1995 M. BALANDŽIO 18 D. REDAKCIJA), [[#^s-d513c1797cbdf86e31826688|4 DALIES]] (1996 M. LIEPOS 4 D. REDAKCIJA), [[#^s-9aeaa5dab7a74750ef5fe456|18 STRAIPSNIO 3 DALIES]] (1995 M. BALANDŽIO 18 D. REDAKCIJA) IR LIETUVOS RESPUBLIKOS PREZIDENTO [2003 M. VASARIO 10 D. DEKRETO NR. 2048](https://e-tar.lt/portal/lt/legalAct/TAR.31DD97BEE910) "DĖL APYGARDOS TEISMO TEISĖJO ATLEIDIMO" [[#^s-bee6ea4cc337cf1ddb8c70e3|1 STRAIPSNIO]] ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 3.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2007-12-17, Žin., 2007, Nr. 134-5427 (2007-12-18)
-DĖL [[#^s-32cfe4c990ea0f8ab5968d2f|LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 47 STRAIPSNIO]] (2003 M. BALANDŽIO 3 D. REDAKCIJA) [[#^s-d513c1797cbdf86e31826688|4 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, DĖL LIETUVOS RESPUBLIKOS PREZIDENTO 2004 M. LIEPOS 1 D. DEKRETO NR. 140 "DĖL APYGARDOS TEISMO TEISĖJO ATLEIDIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, [[#^s-6677cd6cebec2aa5d86adfaf|LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 83 STRAIPSNIO]] (2002 M. SAUSIO 24 D. REDAKCIJA) 1, [[#^s-05c8726ca2466c4859891235|2 DALIMS]], [[#^s-ca093b5b2ff403183e72d8e1|84 STRAIPSNIO]] (2002 M. SAUSIO 24 D. REDAKCIJA) 1, 6 DALIMS, [[#^s-6cb22b1291af3e39268f9adb|86 STRAIPSNIO]] (2002 M. SAUSIO 24 D. REDAKCIJA) [[#^s-05c8726ca2466c4859891235|2 DALIAI]], [[#^s-27ff65e7e76c72ac7a25b600|90 STRAIPSNIO]] (2002 M. SAUSIO 24 D. REDAKCIJA) 1 DALIES 5 PUNKTUI, 6 DALIAI, TAIP PAT DĖL BYLOS DALIES PAGAL PAREIŠKĖJO - LIETUVOS APELIACINIO TEISMO PRAŠYMĄ IŠTIRTI LIETUVOS RESPUBLIKOS PREZIDENTO 2004 M. LIEPOS 1 D. DEKRETO NR. 140 "DĖL APYGARDOS TEISMO TEISĖJO ATLEIDIMO" ATITIKTĮ [[#^s-9d6cd6683828f1187192ae30|LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 90 STRAIPSNIO 7 DALIAI]] (2002 M. SAUSIO 24 D. REDAKCIJA) NUTRAUKIMO
+DĖL [[#^s-32cfe4c990ea0f8ab5968d2f|LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 47 STRAIPSNIO]] (2003 M. BALANDŽIO 3 D. REDAKCIJA) [[#^s-d513c1797cbdf86e31826688|4 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, DĖL LIETUVOS RESPUBLIKOS PREZIDENTO [2004 M. LIEPOS 1 D. DEKRETO NR. 140](https://e-tar.lt/portal/lt/legalAct/TAR.0FCC2F547688) "DĖL APYGARDOS TEISMO TEISĖJO ATLEIDIMO" ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, [[#^s-6677cd6cebec2aa5d86adfaf|LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 83 STRAIPSNIO]] (2002 M. SAUSIO 24 D. REDAKCIJA) [[#^s-775feaf6ba2bb16aa77b9f29|1]], [[#^s-05c8726ca2466c4859891235|2]] DALIMS, [[#^s-ca093b5b2ff403183e72d8e1|84 STRAIPSNIO]] (2002 M. SAUSIO 24 D. REDAKCIJA) [[#^s-775feaf6ba2bb16aa77b9f29|1]], 6 DALIMS, [[#^s-6cb22b1291af3e39268f9adb|86 STRAIPSNIO]] (2002 M. SAUSIO 24 D. REDAKCIJA) [[#^s-05c8726ca2466c4859891235|2 DALIAI]], [[#^s-27ff65e7e76c72ac7a25b600|90 STRAIPSNIO]] (2002 M. SAUSIO 24 D. REDAKCIJA) 1 DALIES 5 PUNKTUI, 6 DALIAI, TAIP PAT DĖL BYLOS DALIES PAGAL PAREIŠKĖJO - LIETUVOS APELIACINIO TEISMO PRAŠYMĄ IŠTIRTI LIETUVOS RESPUBLIKOS PREZIDENTO [2004 M. LIEPOS 1 D. DEKRETO NR. 140](https://e-tar.lt/portal/lt/legalAct/TAR.0FCC2F547688) "DĖL APYGARDOS TEISMO TEISĖJO ATLEIDIMO" ATITIKTĮ [[#^s-9d6cd6683828f1187192ae30|LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 90 STRAIPSNIO 7 DALIAI]] (2002 M. SAUSIO 24 D. REDAKCIJA) NUTRAUKIMO
 
 
 
@@ -4183,7 +4183,7 @@ Nr. XII-748, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 2014-00013
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1495, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20795
-[[#^s-bac9765cacf6716238f63fe6|Lietuvos Respublikos teismų įstatymo 33, 34, 36, 38, 39, 42, 43, 47, 51, 55-1, 57, 61, 63, 64, 69-1, [[#^s-bac9765cacf6716238f63fe6\|81 straipsnių]]]], IX skyriaus pavadinimo, 83, 84, 85, 86, 90, 98, 101, [[#^s-1214c625ad209d301f74b724|103 straipsnių]], XII skyriaus antrojo skirsnio pavadinimo, 106, 107, 108, 119, 120, 122, 124, 127, 128, [[#^s-b6223325afec0f9a7486196e|129 straipsnių]] pakeitimo ir papildymo, 89, 109 110, 111, 112, [[#^s-935b7e77c17035bd48dcd3e9|125 straipsnių]] pripažinimu netekusiais galios ir Įstatymo papildymo 53-1, 53-2 straipsniais ir IX skyriaus trečiuoju skirsniu [[latest/TAR.C297668F27C1|įstatymo Nr. X-1685]] [[#^s-fa3906e3c2213437f6732c28|46 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teismų įstatymo [[#^s-0a5bafd4004c53b739bcb6fc|33]], [[#^s-a10299da2675c2a918094e9a|34]], [[#^s-8fc6ceeed3b24323f8ce6622|36]], [[#^s-99dfaaae5601f9368c5b5f84|38]], [[#^s-f21794d9fdcfa3a429497d6e|39]], [[#^s-4f981635050eae99a81795f9|42]], [[#^s-f5a6b307179e02f619b81dbd|43]], [[#^s-32cfe4c990ea0f8ab5968d2f|47]], [[#^s-ea1a3b17454bd2eb579ffa60|51]], 55-1, [[#^s-799198a2cc4ce6a41c3f2444|57]], [[#^s-df96957e199c97cd59ddab86|61]], [[#^s-2a702b4f95644239a085a4da|63]], [[#^s-4ba9979216898ceff2fd9e7e|64]], 69-1, [[#^s-bac9765cacf6716238f63fe6|81]] straipsnių, IX skyriaus pavadinimo, [[#^s-6677cd6cebec2aa5d86adfaf|83]], [[#^s-ca093b5b2ff403183e72d8e1|84]], [[#^s-22fe023bcffc37966ce856d8|85]], [[#^s-6cb22b1291af3e39268f9adb|86]], [[#^s-27ff65e7e76c72ac7a25b600|90]], [[#^s-e65f4db927d291d696da0069|98]], [[#^s-b6629568c1497db84daa4289|101]], [[#^s-1214c625ad209d301f74b724|103]] straipsnių, XII skyriaus antrojo skirsnio pavadinimo, [[#^s-eff7997ae22a2ece0c8e6531|106]], [[#^s-3185964d93e53edcd904dad6|107]], [[#^s-d9638a11ccd3b8ba7e8652b8|108]], [[#^s-74d8bccbd3038a2a6fe23b31|119]], [[#^s-7d9ffdd27cd815ff86514ec9|120]], [[#^s-c2d0eacb80a7cb6d8b218ca1|122]], [[#^s-454b09aca41b05c025eb45ec|124]], [[#^s-aebbc492ea8186d98779ee92|127]], [[#^s-c18eb351bddd51fcc5d4a80d|128]], [[#^s-b6223325afec0f9a7486196e|129]] straipsnių pakeitimo ir papildymo, 89, 109 [[#^s-9612b9232d2abfa82a25c93a|110]], [[#^s-0dc9a196f70a82a3f4abec65|111]], [[#^s-d043089ae4fac76ea9bc7d34|112]], [[#^s-935b7e77c17035bd48dcd3e9|125]] straipsnių pripažinimu netekusiais galios ir Įstatymo papildymo 53-1, 53-2 straipsniais ir IX skyriaus trečiuoju skirsniu [[latest/TAR.C297668F27C1|įstatymo Nr. X-1685]] [[#^s-fa3906e3c2213437f6732c28|46 straipsnio]] pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4203,32 +4203,32 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-89b6632e0481b8748a547d05|
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2379, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14740
-Lietuvos Respublikos teismų įstatymo Nr. I-480 51 ir 53-2 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-ea1a3b17454bd2eb579ffa60|51]] ir 53-2 straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2402, 2016-06-02, paskelbta TAR 2016-06-08, i. k. 2016-15660
-Lietuvos Respublikos teismų įstatymo Nr. I-480 22, 23, 27, 31, 32, [[#^s-0a5bafd4004c53b739bcb6fc|33 straipsnių]] pakeitimo ir 24, 25, [[#^s-2a247d5dd375c8aeea04c9e5|26 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-50edb2ba5ed8d7d923f41867|22]], [[#^s-6c74e1f68b71554404dc27f9|23]], [[#^s-1be20d6f21e8a4f3e1238ae0|27]], [[#^s-4ee840827bdd8745830e8ab3|31]], [[#^s-f0fe39e0ed872b12730dddf6|32]], [[#^s-0a5bafd4004c53b739bcb6fc|33]] straipsnių pakeitimo ir [[#^s-34461a97af23bb596795b178|24]], [[#^s-4ce5273ae47476ad0f21366b|25]], [[#^s-2a247d5dd375c8aeea04c9e5|26]] straipsnių pripažinimo netekusiais galios įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2475, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17981
-Lietuvos Respublikos teismų įstatymo Nr. I-480 12, 14, 28, 34, 36, 41, 45, 55-1, 56, 63, 65, 70, 80, 101, 107, 114, [[#^s-7d9ffdd27cd815ff86514ec9|120 straipsnių]], trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 114-1 straipsniu įstatymas
+Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-5da782f01abd3a1b688e9c0d|12]], [[#^s-998c5fdb4a278fc665da6d7d|14]], [[#^s-406cb995df9e309e85c03bc5|28]], [[#^s-a10299da2675c2a918094e9a|34]], [[#^s-8fc6ceeed3b24323f8ce6622|36]], [[#^s-89b6632e0481b8748a547d05|41]], [[#^s-d9f63a002a8776f13a09d7b6|45]], 55-1, [[#^s-a2ecba2de22a8ae09cc08509|56]], [[#^s-2a702b4f95644239a085a4da|63]], [[#^s-64a5477e4d6ffa24242fe771|65]], [[#^s-56d9de1bdde13662a3d67805|70]], [[#^s-0e50cdb01928638def43a02c|80]], [[#^s-b6629568c1497db84daa4289|101]], [[#^s-3185964d93e53edcd904dad6|107]], [[#^s-96a64300893fbe649ccd3a9f|114]], [[#^s-7d9ffdd27cd815ff86514ec9|120]] straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 114-1 straipsniu įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2628, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24200
-Lietuvos Respublikos teismų įstatymo Nr. I-480 48 ir [[#^s-df96957e199c97cd59ddab86|61 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-c8f92ef886cadee418d44365|48]] ir [[#^s-df96957e199c97cd59ddab86|61]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2720, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26506
-Lietuvos Respublikos teismų įstatymo Nr. I-480 12, 15, 23 ir [[#^s-32cfe4c990ea0f8ab5968d2f|47 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-5da782f01abd3a1b688e9c0d|12]], [[#^s-1bf3bfe0a11b2fddf467a854|15]], [[#^s-6c74e1f68b71554404dc27f9|23]] ir [[#^s-32cfe4c990ea0f8ab5968d2f|47]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-606, 2017-07-04, paskelbta TAR 2017-07-19, i. k. 2017-12426
-Lietuvos Respublikos teismų įstatymo Nr. I-480 7 ir [[#^s-99dfaaae5601f9368c5b5f84|38 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-752d7aa5ac3557d686169ea1|7]] ir [[#^s-99dfaaae5601f9368c5b5f84|38]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4238,7 +4238,7 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-b6629568c1497db84daa4289|
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1741, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20714
-Lietuvos Respublikos teismų įstatymo Nr. I-480 54, 55-1, 85, 91-3 ir [[#^s-c2d0eacb80a7cb6d8b218ca1|122 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-3849cbfc1bf4ef5e0b126442|54]], 55-1, [[#^s-22fe023bcffc37966ce856d8|85]], 91-3 ir [[#^s-c2d0eacb80a7cb6d8b218ca1|122]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4248,22 +4248,22 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-c18eb351bddd51fcc5d4a80d|
 15.
 Lietuvos Respublikos Konstitucinis Teismas, Pranešimas
 Nr. 2B-56P, 2019-12-30, paskelbta TAR 2019-12-30, i. k. 2019-21605
-Dėl [[#^s-4c1500b9dd0f89dff84d7d5e|Lietuvos Respublikos teismų įstatymo 47 straipsnio 2 dalies]] (2013 m. gruodžio 23 d. redakcija) galiojimo sustabdymo
+[Dėl Lietuvos Respublikos teismų įstatymo 47 straipsnio 2 dalies (2013 m. gruodžio 23 d. redakcija) galiojimo sustabdymo](https://e-tar.lt/portal/lt/legalAct/a01088102afa11eabe008ea93139d588)
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2372, 2019-07-16, paskelbta TAR 2019-08-05, i. k. 2019-12836
-Lietuvos Respublikos teismų įstatymo Nr. I-480 7, 36, 39, 45, 48, 53-1, 53-2, 54, 55-1, 57, 61, 63, 69-1, 76, 78, 84, 85, 88, 91-2, 91-3, 91-4, 91-5, 93, 94, 98, 101, 102, 106, 119, 121, 122, 124, 128, [[#^s-8fd505460433cfb215ab4334|130 straipsnių]] pakeitimo, Įstatymo papildymo 44-1 straipsniu ir nauja VII dalimi ir [[#^s-87a98e3eb2e140ef7ed2b1d0|95 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-752d7aa5ac3557d686169ea1|7]], [[#^s-8fc6ceeed3b24323f8ce6622|36]], [[#^s-f21794d9fdcfa3a429497d6e|39]], [[#^s-d9f63a002a8776f13a09d7b6|45]], [[#^s-c8f92ef886cadee418d44365|48]], 53-1, 53-2, [[#^s-3849cbfc1bf4ef5e0b126442|54]], 55-1, [[#^s-799198a2cc4ce6a41c3f2444|57]], [[#^s-df96957e199c97cd59ddab86|61]], [[#^s-2a702b4f95644239a085a4da|63]], 69-1, [[#^s-a944e8e281bb5dc4d35d467b|76]], [[#^s-088bda5698abeef852cfa6db|78]], [[#^s-ca093b5b2ff403183e72d8e1|84]], [[#^s-22fe023bcffc37966ce856d8|85]], [[#^s-6ddba6f3c1d840bfb1d08b3c|88]], 91-2, 91-3, 91-4, 91-5, [[#^s-424e5be6f7faa1bfbc6d3966|93]], [[#^s-87afbe1aa3512f542b922523|94]], [[#^s-e65f4db927d291d696da0069|98]], [[#^s-b6629568c1497db84daa4289|101]], [[#^s-810e1d56de8c93d83e5d1f8d|102]], [[#^s-eff7997ae22a2ece0c8e6531|106]], [[#^s-74d8bccbd3038a2a6fe23b31|119]], [[#^s-03d0bfd7b93ec39a2d9133b6|121]], [[#^s-c2d0eacb80a7cb6d8b218ca1|122]], [[#^s-454b09aca41b05c025eb45ec|124]], [[#^s-c18eb351bddd51fcc5d4a80d|128]], [[#^s-8fd505460433cfb215ab4334|130]] straipsnių pakeitimo, Įstatymo papildymo 44-1 straipsniu ir nauja VII dalimi ir [[#^s-87a98e3eb2e140ef7ed2b1d0|95 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2775, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02010
-Lietuvos Respublikos teismų įstatymo Nr. I-480 68, 69-1, 73, 79, 79-1 straipsnių pakeitimo ir Įstatymo papildymo 79-1 straipsniu įstatymas
+Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-11e4c26cc111587effde0b5e|68]], 69-1, [[#^s-8a131e5687389209d705ba6e|73]], [[#^s-563feb1b78005672d28fe797|79]], 79-1 straipsnių pakeitimo ir Įstatymo papildymo 79-1 straipsniu įstatymas
 
 18.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT41-N4/2020, 2020-03-09, paskelbta TAR 2020-03-09, i. k. 2020-05178
-Dėl [[#^s-32cfe4c990ea0f8ab5968d2f|Lietuvos Respublikos teismų įstatymo 47 straipsnio]] (2013 m. gruodžio 23 d. redakcija) [[#^s-05c8726ca2466c4859891235|2 dalies]], [[latest/TAR.DEEB2C5600E3#^s-1c7589f41a6c3dc34487f82b|Lietuvos Respublikos Konstitucinio Teismo įstatymo 8 straipsnio]] (2008 m. lapkričio 11 d. redakcija) [[#^s-d513c1797cbdf86e31826688|4 dalies]] atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos teismų įstatymo 47 straipsnio (2013 m. gruodžio 23 d. redakcija) 2 dalies, Lietuvos Respublikos Konstitucinio Teismo įstatymo 8 straipsnio (2008 m. lapkričio 11 d. redakcija) 4 dalies atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/9b02781061fa11eabee4a336e7e6fdab)
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4273,12 +4273,12 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-32cfe4c990ea0f8ab5968d2f|
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3133, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15378
-Lietuvos Respublikos teismų įstatymo Nr. I-480 120, 124 ir [[#^s-c18eb351bddd51fcc5d4a80d|128 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-7d9ffdd27cd815ff86514ec9|120]], [[#^s-454b09aca41b05c025eb45ec|124]] ir [[#^s-c18eb351bddd51fcc5d4a80d|128]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-114, 2020-12-22, paskelbta TAR 2020-12-28, i. k. 2020-28792
-Lietuvos Respublikos teismų įstatymo Nr. I-480 7, 36, 39, 45, 48, 53-1, 53-2, 54, 55-1, 57, 61, 63, 69-1, 76, 78, 84, 85, 88, 91-2, 91-3, 91-4, 91-5, 93, 94, 98, 101, 102, 106, 119, 121, 122, 124, 128, [[#^s-8fd505460433cfb215ab4334|130 straipsnių]] pakeitimo, Įstatymo papildymo 44-1 straipsniu ir nauja VII dalimi ir [[#^s-87a98e3eb2e140ef7ed2b1d0|95 straipsnio]] pripažinimo netekusiu galios [[latest/cffc1f90b75911e98451fa7b5933515d|įstatymo Nr. XIII-2372]] [[#^s-99dfaaae5601f9368c5b5f84|38 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-752d7aa5ac3557d686169ea1|7]], [[#^s-8fc6ceeed3b24323f8ce6622|36]], [[#^s-f21794d9fdcfa3a429497d6e|39]], [[#^s-d9f63a002a8776f13a09d7b6|45]], [[#^s-c8f92ef886cadee418d44365|48]], 53-1, 53-2, [[#^s-3849cbfc1bf4ef5e0b126442|54]], 55-1, [[#^s-799198a2cc4ce6a41c3f2444|57]], [[#^s-df96957e199c97cd59ddab86|61]], [[#^s-2a702b4f95644239a085a4da|63]], 69-1, [[#^s-a944e8e281bb5dc4d35d467b|76]], [[#^s-088bda5698abeef852cfa6db|78]], [[#^s-ca093b5b2ff403183e72d8e1|84]], [[#^s-22fe023bcffc37966ce856d8|85]], [[#^s-6ddba6f3c1d840bfb1d08b3c|88]], 91-2, 91-3, 91-4, 91-5, [[#^s-424e5be6f7faa1bfbc6d3966|93]], [[#^s-87afbe1aa3512f542b922523|94]], [[#^s-e65f4db927d291d696da0069|98]], [[#^s-b6629568c1497db84daa4289|101]], [[#^s-810e1d56de8c93d83e5d1f8d|102]], [[#^s-eff7997ae22a2ece0c8e6531|106]], [[#^s-74d8bccbd3038a2a6fe23b31|119]], [[#^s-03d0bfd7b93ec39a2d9133b6|121]], [[#^s-c2d0eacb80a7cb6d8b218ca1|122]], [[#^s-454b09aca41b05c025eb45ec|124]], [[#^s-c18eb351bddd51fcc5d4a80d|128]], [[#^s-8fd505460433cfb215ab4334|130]] straipsnių pakeitimo, Įstatymo papildymo 44-1 straipsniu ir nauja VII dalimi ir [[#^s-87a98e3eb2e140ef7ed2b1d0|95 straipsnio]] pripažinimo netekusiu galios [[latest/cffc1f90b75911e98451fa7b5933515d|įstatymo Nr. XIII-2372]] [[#^s-99dfaaae5601f9368c5b5f84|38 straipsnio]] pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4293,17 +4293,17 @@ Lietuvos Respublikos teismų įstatymo Nr. I-480 papildymo 44-2 straipsniu įsta
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1570, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25121
-Lietuvos Respublikos teismų įstatymo Nr. I-480 12, 14, 28, 31, 34, 36, 39, 41, 74, 76, 78, 79-1, 81, 85, 90, 91-1, 91-2, 91-3, 104, 105, 106, 107, 119, 120, [[#^s-c2d0eacb80a7cb6d8b218ca1|122 straipsnių]], IV skyriaus pirmojo skirsnio pavadinimo ir VII skyriaus pakeitimo įstatymas
+Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-5da782f01abd3a1b688e9c0d|12]], [[#^s-998c5fdb4a278fc665da6d7d|14]], [[#^s-406cb995df9e309e85c03bc5|28]], [[#^s-4ee840827bdd8745830e8ab3|31]], [[#^s-a10299da2675c2a918094e9a|34]], [[#^s-8fc6ceeed3b24323f8ce6622|36]], [[#^s-f21794d9fdcfa3a429497d6e|39]], [[#^s-89b6632e0481b8748a547d05|41]], [[#^s-dba123c426b39a3291597197|74]], [[#^s-a944e8e281bb5dc4d35d467b|76]], [[#^s-088bda5698abeef852cfa6db|78]], 79-1, [[#^s-bac9765cacf6716238f63fe6|81]], [[#^s-22fe023bcffc37966ce856d8|85]], [[#^s-27ff65e7e76c72ac7a25b600|90]], 91-1, 91-2, 91-3, [[#^s-e4c56fa5729321fdd7d5e734|104]], [[#^s-6f30a62b986f9327a0b003ee|105]], [[#^s-eff7997ae22a2ece0c8e6531|106]], [[#^s-3185964d93e53edcd904dad6|107]], [[#^s-74d8bccbd3038a2a6fe23b31|119]], [[#^s-7d9ffdd27cd815ff86514ec9|120]], [[#^s-c2d0eacb80a7cb6d8b218ca1|122]] straipsnių, IV skyriaus pirmojo skirsnio pavadinimo ir VII skyriaus pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2137, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14331
-Lietuvos Respublikos teismų įstatymo Nr. I-480 57, 101 ir [[#^s-74d8bccbd3038a2a6fe23b31|119 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teismų įstatymo Nr. I-480 [[#^s-799198a2cc4ce6a41c3f2444|57]], [[#^s-b6629568c1497db84daa4289|101]] ir [[#^s-74d8bccbd3038a2a6fe23b31|119]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2613, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08905
-Lietuvos Respublikos teismų įstatymo Nr. I-480 44-1, 98, [[#^s-b6629568c1497db84daa4289|101 straipsnių]] pakeitimo ir Įstatymo papildymo 44-3 straipsniu įstatymas
+Lietuvos Respublikos teismų įstatymo Nr. I-480 44-1, [[#^s-e65f4db927d291d696da0069|98]], [[#^s-b6629568c1497db84daa4289|101]] straipsnių pakeitimo ir Įstatymo papildymo 44-3 straipsniu įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas

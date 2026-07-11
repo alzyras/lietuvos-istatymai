@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos pakeitimų ratifikavimas ^s-86750fc9d026bfc1f89df8d0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. spalio 22 d. dekretą Nr. 1K-1545, ratifikuoja Muitinių bendradarbiavimo tarybos įkūrimo konvencijos, pasirašytos 1950 m. gruodžio 15 d. Briuselyje, pakeitimus, išdėstytus 2007 m. birželio 30 d. Briuselyje priimtoje Muitinių bendradarbiavimo tarybos rekomendacijoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. spalio 22 d. dekretą Nr. 1K-1545](https://e-tar.lt/portal/lt/legalAct/TAR.F9121C642A45), ratifikuoja Muitinių bendradarbiavimo tarybos įkūrimo konvencijos, pasirašytos 1950 m. gruodžio 15 d. Briuselyje, pakeitimus, išdėstytus 2007 m. birželio 30 d. Briuselyje priimtoje Muitinių bendradarbiavimo tarybos rekomendacijoje.
 
 
 

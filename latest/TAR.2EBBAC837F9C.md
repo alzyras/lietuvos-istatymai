@@ -54,7 +54,7 @@ Papildyti 3 straipsnį 4 dalimi:
 Papildyti 8 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Biudžeto sudarymo ir vykdymo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, šis Įstatymas, [[latest/TAR.2DD07D41B8F1|Fiskalinės drausmės įstatymas]], Seimo statutas, [[latest/TAR.F960F4CF3005|Savivaldybių biudžetų pajamų nustatymo metodikos įstatymas]], atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas, Vyriausybės patvirtintos biudžetų sudarymo ir vykdymo taisyklės ir kiti biudžeto pajamų gavimą ir programų finansavimą reglamentuojantys teisės aktai.“
+„1. Biudžeto sudarymo ir vykdymo teisinis pagrindas yra [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis Įstatymas, [[latest/TAR.2DD07D41B8F1|Fiskalinės drausmės įstatymas]], Seimo statutas, [[latest/TAR.F960F4CF3005|Savivaldybių biudžetų pajamų nustatymo metodikos įstatymas]], atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas, Vyriausybės patvirtintos biudžetų sudarymo ir vykdymo taisyklės ir kiti biudžeto pajamų gavimą ir programų finansavimą reglamentuojantys teisės aktai.“
 
 
 

@@ -42,7 +42,7 @@ Vilnius
 Papildyti 4 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
-„Valstybinei paminklosaugos komisijai vadovauja pirmininkas, kurį šios komisijos ir Lietuvos Respublikos Seimo Švietimo, mokslo ir kultūros komiteto teikimu skiria ir keičia Seimo Pirmininkas. Komisijos pirmininkas skiriamas dvejiems metams iš komisijos narių. Pareiginį atlyginimą Komisijos pirmininkui nustato Lietuvos Respublikos Vyriausybė. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, Valstybinės paminklosaugos komisijos pirmininkui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.“
+„Valstybinei paminklosaugos komisijai vadovauja pirmininkas, kurį šios komisijos ir Lietuvos Respublikos Seimo Švietimo, mokslo ir kultūros komiteto teikimu skiria ir keičia Seimo Pirmininkas. Komisijos pirmininkas skiriamas dvejiems metams iš komisijos narių. Pareiginį atlyginimą Komisijos pirmininkui nustato Lietuvos Respublikos Vyriausybė. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatytą darbo apmokėjimo sistemą, Valstybinės paminklosaugos komisijos pirmininkui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.“
 
 
 

@@ -84,7 +84,7 @@ Vilnius
 3. Pakeisti 26 straipsnio 13 dalies 4 punktą ir jį išdėstyti taip: ^s-9e8a758db7a4612ad1c01181
 
 
-„4) Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos – už 10 straipsnio 1 dalies, 12 straipsnio 1, 3, 4, 5 ir 7 dalių, 13 straipsnio, 14 straipsnio 1 dalies, [[#^s-9e8a758db7a4612ad1c01181|3 dalies]] 1, 2, 3, 4, 6 ir 7 punktų, 5 dalies, 15, 16 straipsnių, 18 straipsnio, 19 straipsnio 1 dalies 5 punkto nuostatų pažeidimus;“.
+„4) Valstybinė ne maisto produktų inspekcija prie Ūkio ministerijos – už 10 straipsnio 1 dalies, 12 straipsnio 1, 3, 4, 5 ir 7 dalių, 13 straipsnio, 14 straipsnio 1 dalies, 3 dalies 1, 2, 3, 4, 6 ir 7 punktų, 5 dalies, 15, 16 straipsnių, 18 straipsnio, 19 straipsnio 1 dalies 5 punkto nuostatų pažeidimus;“.
 
 
 

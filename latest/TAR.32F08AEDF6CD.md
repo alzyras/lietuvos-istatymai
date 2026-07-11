@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-b19ca5a813b964092fa55095
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. rugsėjo 28 d. dekretą Nr. 1498, ratifikuoja 1954 metų Hagos konvencijos dėl kultūros vertybių apsaugos ginkluoto konflikto metu 1999 metų Antrąjį protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. rugsėjo 28 d. dekretą Nr. 1498](https://e-tar.lt/portal/lt/legalAct/TAR.B8BC3126BCA1), ratifikuoja 1954 metų Hagos konvencijos dėl kultūros vertybių apsaugos ginkluoto konflikto metu 1999 metų Antrąjį protokolą.
 
 
 

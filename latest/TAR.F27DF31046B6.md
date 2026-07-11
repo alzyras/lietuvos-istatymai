@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Priedėlio 18 skyriaus šeštojo skirsnio 1 ir 3 dalių pakeitimas ^s-bc7f78f2daaab53eb9e1e973
 
 
-1. 18 skyriaus šeštojo skirsnio [[#^s-03948f8a20ec1b87ebb63fae|1 dalyje]] vietoj žodžių „tardymo institucijose“ įrašyti žodžius „ikiteisminio tyrimo įstaigose“ ir šią dalį išdėstyti taip: ^s-03948f8a20ec1b87ebb63fae
+1. 18 skyriaus šeštojo skirsnio 1 dalyje vietoj žodžių „tardymo institucijose“ įrašyti žodžius „ikiteisminio tyrimo įstaigose“ ir šią dalį išdėstyti taip: ^s-03948f8a20ec1b87ebb63fae
 
 
 „Teisėsaugą kariuomenėje vykdo Lietuvos teisėsaugos institucijų specializuoti padaliniai. Specializuotų padalinių ir pareigūnų veiklos paskirtis – sustabdyti kariškių daromus teisės pažeidimus, tirti tarnybos metu karių ir karininkų padarytus arba susijusius su tarnyba teisės pažeidimus, traukti juos padariusius kariškius atsakomybėn. Karinės teisėsaugos specializuoti padaliniai ir pareigybės steigiami prokuratūros ir ikiteisminio tyrimo įstaigose. Karių ir karininkų bylas dėl tarnybos arba su tarnyba susijusių teisės pažeidimų nagrinėja specializuotas teismas.“

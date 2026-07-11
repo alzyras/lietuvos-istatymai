@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.791BF9249C9C#^s-05cdccac2527f5a946874e94|Lietuvos Respublikos sporto įstatymas]] - 2 citatos - 1051010ISTA000X-238
+- [[latest/TAR.791BF9249C9C#^s-05cdccac2527f5a946874e94|Lietuvos Respublikos sporto įstatymas]] - 1051010ISTA000X-238

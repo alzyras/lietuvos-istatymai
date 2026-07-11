@@ -84,7 +84,7 @@ Pakeisti 14 straipsnio 3 dalies 7 punktą ir jį išdėstyti taip:
 3. Pakeisti 25 straipsnio 2 dalį ir ją išdėstyti taip: ^s-8175df0226ee1b301a3aad89
 
 
-„2. Lietuvos Respublikoje parduodami, laikomi, gabenami kontrabandiniai, falsifikuoti tabako gaminiai, tabako gaminiai be specialių ženklų – banderolių, taip pat tabako gaminiai, kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais arba kurie buvo laikomi, parduodami neturint licencijos, konfiskuojami vadovaujantis atitinkamai Lietuvos Respublikos administracinių teisės pažeidimų kodeksu ar Lietuvos Respublikos baudžiamuoju kodeksu.“
+„2. Lietuvos Respublikoje parduodami, laikomi, gabenami kontrabandiniai, falsifikuoti tabako gaminiai, tabako gaminiai be specialių ženklų – banderolių, taip pat tabako gaminiai, kurių įsigijimas nepatvirtintas juridinę galią turinčiais dokumentais arba kurie buvo laikomi, parduodami neturint licencijos, konfiskuojami vadovaujantis atitinkamai [Lietuvos Respublikos administracinių teisės pažeidimų kodeksu](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) ar Lietuvos Respublikos baudžiamuoju kodeksu.“
 
 
 
@@ -94,7 +94,7 @@ Pakeisti 14 straipsnio 3 dalies 7 punktą ir jį išdėstyti taip:
 1. 26 straipsnio 3 dalyje po žodžių „tabako pardavimo reikalavimų pažeidimą“ įrašyti žodžius ir skaičius „už šio Įstatymo 14 straipsnio 3 dalies 6 ar 7 punktuose nustatytų tabako gaminių pardavimo, laikymo ar gabenimo draudimų pažeidimą“, antrame sakinyje išbraukti žodžius „ir panaikinamas licencijos galiojimas“ ir šią dalį išdėstyti taip: ^s-53e059694e2ecf7c169f0441
 
 
-„3. Už šio Įstatymo 12 straipsnio 1 dalyje nustatyto draudimo įgalioti ar pagal sutartį perduoti kitiems asmenims teisę verstis turimose licencijose nurodyta veikla pažeidimą, už šio Įstatymo 12 straipsnio 3, 4, 5 ar [[#^s-a101a1fc72e32d736f879aab|7 dalyje]] nustatytų tabako gaminių įsigijimo, tabako gaminių ar tabako pardavimo reikalavimų pažeidimą, už šio Įstatymo 14 straipsnio 3 dalies 6 ar 7 punktuose nustatytų tabako gaminių pardavimo, laikymo ar gabenimo draudimų pažeidimą juridiniai asmenys, užsienio juridinių asmenų filialai ir ūkininkai baudžiami nuo trijų tūkstančių iki penkių tūkstančių litų bauda. Už šių draudimų ir reikalavimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys, užsienio juridinių asmenų filialai ir ūkininkai baudžiami nuo penkių tūkstančių iki dešimties tūkstančių litų bauda.“
+„3. Už šio Įstatymo 12 straipsnio 1 dalyje nustatyto draudimo įgalioti ar pagal sutartį perduoti kitiems asmenims teisę verstis turimose licencijose nurodyta veikla pažeidimą, už šio Įstatymo 12 straipsnio 3, 4, 5 ar 7 dalyje nustatytų tabako gaminių įsigijimo, tabako gaminių ar tabako pardavimo reikalavimų pažeidimą, už šio Įstatymo 14 straipsnio 3 dalies 6 ar 7 punktuose nustatytų tabako gaminių pardavimo, laikymo ar gabenimo draudimų pažeidimą juridiniai asmenys, užsienio juridinių asmenų filialai ir ūkininkai baudžiami nuo trijų tūkstančių iki penkių tūkstančių litų bauda. Už šių draudimų ir reikalavimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys, užsienio juridinių asmenų filialai ir ūkininkai baudžiami nuo penkių tūkstančių iki dešimties tūkstančių litų bauda.“
 
 
 2. 26 straipsnio 6 dalies antrame sakinyje išbraukti žodžius „ir panaikinamas licencijos galiojimas“ ir šią dalį išdėstyti taip: ^s-4c6c8442b5957c0b8bec6dfa
@@ -130,7 +130,7 @@ Pakeisti 14 straipsnio 3 dalies 7 punktą ir jį išdėstyti taip:
 7. Pakeisti 26 straipsnio 16 dalį ir ją išdėstyti taip: ^s-a101a1fc72e32d736f879aab
 
 
-„16. Įmonėms, kurių turimų licencijų galiojimas buvo panaikintas pagal [[#^s-a101a1fc72e32d736f879aab|šio straipsnio 7 dalį]], nauja licencija verstis tabako gaminių mažmenine prekyba toje prekybos vietoje, kurioje padarytas pažeidimas, neišduodama trejus metus nuo licencijos galiojimo panaikinimo dienos.“
+„16. Įmonėms, kurių turimų licencijų galiojimas buvo panaikintas pagal šio straipsnio 7 dalį, nauja licencija verstis tabako gaminių mažmenine prekyba toje prekybos vietoje, kurioje padarytas pažeidimas, neišduodama trejus metus nuo licencijos galiojimo panaikinimo dienos.“
 
 
 

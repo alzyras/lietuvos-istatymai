@@ -228,7 +228,7 @@ Pakeisti 63 straipsnį ir jį išdėstyti taip:
 9. Kariai savanoriai ir kiti aktyviojo rezervo kariai, taip pat parengtojo rezervo kariai pratybų, mokymų ar tarnybos užduočių vykdymo laikotarpiu aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas arba jiems išmokama Vyriausybės nustatyto dydžio maitinimosi išlaidų piniginė kompensacija. ^s-bb2a175324d5affa93fe433c
 
 
-10. Profesinės karo tarnybos kariams, turintiems žvalgybos pareigūno statusą, šio straipsnio 4–[[#^s-d40cba7af2d184e5ce4c1f83|6 dalių]] nuostatos netaikomos.“ ^s-daa7cd97a8909989ebe3cb59
+10. Profesinės karo tarnybos kariams, turintiems žvalgybos pareigūno statusą, šio straipsnio [[#^s-4089863e28fd8a200114c99f|4]]–[[#^s-d40cba7af2d184e5ce4c1f83|6]] dalių nuostatos netaikomos.“ ^s-daa7cd97a8909989ebe3cb59
 
 
 
@@ -288,7 +288,7 @@ Pakeisti 65 straipsnį ir jį išdėstyti taip:
 6) ne krašto apsaugos sistemoje tarnaujantiems (dirbantiems) asmenims karinių operacijų užsienyje metu ir tais atvejais, kai kariuomenė teikia pagalbą kitoms valstybės ir savivaldybių institucijoms. ^s-f3f5ddd8cd170cbe43110617
 
 
-2. Šio straipsnio 1 ir [[#^s-78d085f66aaf2aebc627d3fc|3 dalyse]] nurodytų karių ir kitų asmenų sveikatinimo veiklą Lietuvoje organizuoja ir vykdo kariuomenės padaliniai, taip pat naudojamasi kitų nacionalinės sveikatos sistemos asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis ir patarnavimais, už kuriuos atsiskaitoma Vyriausybės nustatyta tvarka. Užsienyje tarptautinėse operacijose ar specialiosiose misijose dalyvaujančių karių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, sveikatinimo veiklą organizuoja ir vykdo Lietuvos kariuomenės padaliniai arba užsienio šalių ar tarptautinių organizacijų sveikatinimo veiklą vykdančios institucijos. ^s-23f05daba1d197b679527d46
+2. Šio straipsnio [[#^s-31b8035464ec7da22cf017ab|1]] ir [[#^s-78d085f66aaf2aebc627d3fc|3]] dalyse nurodytų karių ir kitų asmenų sveikatinimo veiklą Lietuvoje organizuoja ir vykdo kariuomenės padaliniai, taip pat naudojamasi kitų nacionalinės sveikatos sistemos asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis ir patarnavimais, už kuriuos atsiskaitoma Vyriausybės nustatyta tvarka. Užsienyje tarptautinėse operacijose ar specialiosiose misijose dalyvaujančių karių, valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, sveikatinimo veiklą organizuoja ir vykdo Lietuvos kariuomenės padaliniai arba užsienio šalių ar tarptautinių organizacijų sveikatinimo veiklą vykdančios institucijos. ^s-23f05daba1d197b679527d46
 
 
 3. Tikrosios karo tarnybos karių, civilinę krašto apsaugos tarnybą atliekančių statutinių valstybės tarnautojų, asmenų, stojančių ar šaukiamų į tikrąją karo tarnybą, civilinę krašto apsaugos tarnybą ar Lietuvos šaulių sąjungos kovinius būrius, karių savanorių, kitų aktyviojo ir parengtojo rezervo karių sveikatos tikrinimo nustatant tinkamumą tarnybai, atrankos pagal sveikatos būklę tvarką nustato Vyriausybė arba jos įgaliota institucija. ^s-78d085f66aaf2aebc627d3fc
@@ -388,7 +388,7 @@ Civiliams statutiniams valstybės tarnautojams, atliekantiems civilinę krašto 
 ### 18 straipsnis. Įstatymo įsigaliojimas ^s-07e857f525df9badcd465562
 
 
-1. Šis įstatymas, išskyrus [[#^s-2df12913ce4dcd758816b9aa|19 straipsnio]] 3 ir 4 dalis, įsigalioja 2013 m. sausio 1 d. ^s-dbbb90c960dd73214ab6c695
+1. Šis įstatymas, išskyrus [[#^s-2df12913ce4dcd758816b9aa|19 straipsnio]] [[#^s-01f364ca3c8886973211cd98|3]] ir [[#^s-d4927cf3c0e480f186521b24|4]] dalis, įsigalioja 2013 m. sausio 1 d. ^s-dbbb90c960dd73214ab6c695
 
 
 2. Šio įstatymo [[#^s-01f364ca3c8886973211cd98|19 straipsnio 3 dalis]] įsigalioja įsigaliojus šio įstatymo [[#^s-d4927cf3c0e480f186521b24|19 straipsnio 4 dalyje]] numatytam (numatytiems) įstatymui (įstatymams). ^s-6c18ced9a9dbef1f6d8de44e

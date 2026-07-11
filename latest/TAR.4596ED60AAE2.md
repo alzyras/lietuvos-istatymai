@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Statuto ratifikavimas ^s-6d8d726ac4dd435d6b4c1611
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. sausio 29 d. dekretą Nr. 2036, ratifikuoja su pareiškimais Tarptautinio baudžiamojo teismo Romos statutą, sudarytą 1998 m. liepos 17 d. Romoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. sausio 29 d. dekretą Nr. 2036](https://e-tar.lt/portal/lt/legalAct/TAR.AB0E521F2BBD), ratifikuoja su pareiškimais Tarptautinio baudžiamojo teismo Romos statutą, sudarytą 1998 m. liepos 17 d. Romoje.
 
 
 

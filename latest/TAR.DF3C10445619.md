@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-7b4d1578894062a70fc2b2e7
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. liepos 19 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1959 metų Europos Tarybos privilegijų ir imunitetų pagrindinio susitarimo trečiąjį protokolą“, ratifikuoja 1959 metų Europos Tarybos privilegijų ir imunitetų pagrindinio susitarimo trečiąjį protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. liepos 19 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1959 metų Europos Tarybos privilegijų ir imunitetų pagrindinio susitarimo trečiąjį protokolą“](https://e-tar.lt/portal/lt/legalAct/TAR.6EF74983817D), ratifikuoja 1959 metų Europos Tarybos privilegijų ir imunitetų pagrindinio susitarimo trečiąjį protokolą.
 
 
 

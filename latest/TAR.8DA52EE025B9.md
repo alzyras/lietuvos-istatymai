@@ -109,7 +109,7 @@ Nuo akcizų už akmens anglis, koksą ir lignitą atleidžiami akmens anglys, ko
 ### 5 straipsnis. Įstatymo įsigaliojimas ^s-b17bb9adfb96a529e4d3631b
 
 
-1. Šio įstatymo [[#^s-86c5cd930a184b4c6cf13043|1 straipsnio]] 1 ir [[#^s-6487f4d2d47085e22e391c74|2 dalys]] ir [[#^s-fe268ba8bfa752d75d74f369|2 straipsnis]] įsigalioja 2012 m. kovo 1 d. ^s-157c1a3410595856f05d67e7
+1. Šio įstatymo [[#^s-86c5cd930a184b4c6cf13043|1 straipsnio]] [[#^s-233bed45bae32bdced822689|1]] ir [[#^s-a2612a4484ec0363ee9802ed|2]] dalys ir [[#^s-fe268ba8bfa752d75d74f369|2 straipsnis]] įsigalioja 2012 m. kovo 1 d. ^s-157c1a3410595856f05d67e7
 
 
 2. Šio įstatymo [[#^s-0013fddddf87d75502de2315|3 straipsnis]] įsigalioja 2012 m. sausio 1 d. ^s-6487f4d2d47085e22e391c74

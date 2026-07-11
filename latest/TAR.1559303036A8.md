@@ -175,7 +175,7 @@ Nr. XV-40, 2024-12-05, paskelbta TAR 2024-12-18, i. k. 2024-22442
 3) programos, pritaikytos regos negalią turintiems asmenims, – ne mažiau kaip 10 procentų viso mėnesio transliavimo laiko. ^s-1ce92df769cf3c39e992a6f9
 
 
-11. LRT rengia ir transliuoja nacionalinio lygmens specialias rinkimų agitacijai skirtas laidas Lietuvos Respublikos rinkimų kodekse nustatytomis sąlygomis ir tvarka. LRT taip pat rengia ir transliuoja referendumo agitacijai skirtas laidas Lietuvos Respublikos referendumo konstituciniame įstatyme nustatytomis sąlygomis ir tvarka. ^s-940cc20dbad6b56b6b143b57
+11. LRT rengia ir transliuoja nacionalinio lygmens specialias rinkimų agitacijai skirtas laidas [Lietuvos Respublikos rinkimų kodekse](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) nustatytomis sąlygomis ir tvarka. LRT taip pat rengia ir transliuoja referendumo agitacijai skirtas laidas Lietuvos Respublikos referendumo konstituciniame įstatyme nustatytomis sąlygomis ir tvarka. ^s-940cc20dbad6b56b6b143b57
 Straipsnio dalies pakeitimai:
 Nr. XIV-1387, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15858
 
@@ -369,7 +369,7 @@ Nr. XV-981, 2026-06-02, paskelbta TAR 2026-06-12, i. k. 2026-10323
 
 
 4) svarsto ir tvirtina LRT strateginius veiklos planus ir metinius veiklos planus; ^s-fa8599748cf4bea644ac081c
-TAR pastaba. [[#^s-fa8599748cf4bea644ac081c|11 straipsnio 2 dalies 4 punkto]] nuostatos taikomos rengiant Lietuvos nacionalinio radijo ir televizijos 2026–2028 m. ar vėlesnių metų strateginius veiklos planus.
+TAR pastaba. 11 straipsnio 2 dalies 4 punkto nuostatos taikomos rengiant Lietuvos nacionalinio radijo ir televizijos 2026–2028 m. ar vėlesnių metų strateginius veiklos planus.
 Straipsnio punkto pakeitimai:
 Nr. XV-618, 2025-11-27, paskelbta TAR 2025-12-02, i. k. 2025-20539
 
@@ -776,7 +776,7 @@ LRT TURTAS, FINANSINĖ IR ŪKINĖ VEIKLA
 4) kitos piniginės lėšos, išskyrus valstybės biudžeto lėšas; ^s-617f2714a2705f6093bcb440
 
 
-5) iš valstybės biudžeto lėšų ir iš šios dalies 2, 3 ir [[#^s-617f2714a2705f6093bcb440|4 punktuose]] numatytų lėšų įsigytas turtas, išskyrus nekilnojamąjį turtą, įsigytą už Europos Sąjungos paramą, valstybės biudžeto ir valstybės fondų lėšas; ^s-a604927b4ae5e0c12be75777
+5) iš valstybės biudžeto lėšų ir iš šios dalies [[#^s-4aa4129ae1608f80291c28e8|2]], [[#^s-cecdddd1b13f0271f2f83812|3]] ir [[#^s-617f2714a2705f6093bcb440|4]] punktuose numatytų lėšų įsigytas turtas, išskyrus nekilnojamąjį turtą, įsigytą už Europos Sąjungos paramą, valstybės biudžeto ir valstybės fondų lėšas; ^s-a604927b4ae5e0c12be75777
 
 
 6) dovanotas turtas; ^s-58d5e096a8720f455520de2b
@@ -788,7 +788,7 @@ LRT TURTAS, FINANSINĖ IR ŪKINĖ VEIKLA
 8) turtinės teisės, atsirandančios iš intelektinės veiklos rezultatų; ^s-cbd31f30336e93996fd4de67
 
 
-9) pajamos, turtas ar kita nauda, gauti valdant, naudojant šios dalies 1–[[#^s-cbd31f30336e93996fd4de67|8 punktuose]] nurodytas lėšas ar kitą turtą ir jais disponuojant, išskyrus šiame įstatyme nustatytus atvejus. ^s-6119ae1245a3bc360ec3ae96
+9) pajamos, turtas ar kita nauda, gauti valdant, naudojant šios dalies [[#^s-0c43f11d6031b5e407c831ac|1]]–[[#^s-cbd31f30336e93996fd4de67|8]] punktuose nurodytas lėšas ar kitą turtą ir jais disponuojant, išskyrus šiame įstatyme nustatytus atvejus. ^s-6119ae1245a3bc360ec3ae96
 
 
 3. LRT turtą, nurodytą [[#^s-b1fe97f97b4a900fbbebe8d2|šio straipsnio 2 dalyje]], valdo, naudoja ir juo disponuoja vadovaudamasi Tarybos nustatyta tvarka ir sudarydama tik tokius civilinius sandorius, kurie neprieštarauja LRT steigimo dokumentams ir veiklos tikslams. LRT pastatai ir žemė negali būti parduodami, perleidžiami ar įkeičiami. ^s-67ebc4b3d2ec974084c876f3
@@ -823,7 +823,7 @@ LRT TURTAS, FINANSINĖ IR ŪKINĖ VEIKLA
 
 
 5. LRT iš valstybės biudžeto skiriamų lėšų dydis kiekvienais metais sudaro užpraeitų metų faktiškai gautų 0,75 procento valstybės biudžeto ir savivaldybių biudžetų pajamų iš gyventojų pajamų mokesčio ir 0,8 procento iš akcizo pajamų. LRT skiriamų asignavimų dydis neturi būti mažesnis už paskutinių trejų biudžetinių metų LRT skirtų valstybės biudžeto asignavimų vidurkį. ^s-4b996f1ab04087bfd6c57d66
-TAR pastaba. [[#^s-4b996f1ab04087bfd6c57d66|19 straipsnio 5 dalies]] nuostatos taikomos apskaičiuojant ir skiriant Lietuvos nacionaliniam radijui ir televizijai valstybės biudžeto asignavimus 2029 m. ar vėlesniais metais.
+TAR pastaba. 19 straipsnio 5 dalies nuostatos taikomos apskaičiuojant ir skiriant Lietuvos nacionaliniam radijui ir televizijai valstybės biudžeto asignavimus 2029 m. ar vėlesniais metais.
 Straipsnio dalies pakeitimai:
 Nr. XIV-645, 2021-11-16, paskelbta TAR 2021-11-25, i. k. 2021-24254
 Nr. XV-618, 2025-11-27, paskelbta TAR 2025-12-02, i. k. 2025-20539
@@ -869,7 +869,7 @@ Nr. VIII-38, 96.12.12, Žin., 1996, Nr.121-2852 (96.12.14)
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-428, 97.09.25, Žin., 1997, Nr.91-2272 (97.10.07)
-[[#^s-8f910a91453eb0d4e651ef42|LIETUVOS RESPUBLIKOS LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 8, 9 IR 10 STRAIPSNIŲ]] PAKEITIMO BEI PAPILDYMO
+LIETUVOS RESPUBLIKOS LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO [[#^s-696478cee1f59056be4fa845|8]], [[#^s-e0096f93ed23799a9b810e4d|9]] IR [[#^s-8f910a91453eb0d4e651ef42|10]] STRAIPSNIŲ PAKEITIMO BEI PAPILDYMO
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -950,7 +950,7 @@ Nr. XII-736, 2013-12-23, paskelbta TAR 2014-01-06, i. k. 2014-00033
 13.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-874, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05355
-LIETUVOS RESPUBLIKOS LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO 6, 7, [[#^s-cf832bb3ee9dea4b882c5139|15 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO [[latest/f321664076d911e38da4e231c7b4cf37|ĮSTATYMO NR. XII-736]] [[#^s-8a3333b99a6dfc47f38d7136|3 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS LIETUVOS NACIONALINIO RADIJO IR TELEVIZIJOS ĮSTATYMO [[#^s-554970c933d9806599fe1d2c|6]], [[#^s-04acafb24220095eb285e13c|7]], [[#^s-cf832bb3ee9dea4b882c5139|15]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO [[latest/f321664076d911e38da4e231c7b4cf37|ĮSTATYMO NR. XII-736]] [[#^s-8a3333b99a6dfc47f38d7136|3 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
 
 
 
@@ -959,7 +959,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1142, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13458
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 11 ir [[#^s-202f2f0e3805ef3e38db3115|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 [[#^s-1e08ff77ae60c1e4e120f133|11]] ir [[#^s-202f2f0e3805ef3e38db3115|14]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -994,12 +994,12 @@ Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2019, 2023-05-25, paskelbta TAR 2023-05-31, i. k. 2023-10705
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 15 ir [[#^s-90649b83e02355a47fde2fb4|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 [[#^s-cf832bb3ee9dea4b882c5139|15]] ir [[#^s-90649b83e02355a47fde2fb4|16]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2695, 2024-06-06, paskelbta TAR 2024-06-13, i. k. 2024-10828
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 5, 10, 13 ir [[#^s-cf832bb3ee9dea4b882c5139|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 [[#^s-fe4f08a44797ae0ab0a90d32|5]], [[#^s-8f910a91453eb0d4e651ef42|10]], [[#^s-1c952d791bc48304ca6a8b13|13]] ir [[#^s-cf832bb3ee9dea4b882c5139|15]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1009,7 +1009,7 @@ Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-618, 2025-11-27, paskelbta TAR 2025-12-02, i. k. 2025-20539
-Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 11 ir [[#^s-d001b71a685b7e65b7eee720|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo Nr. I-1571 [[#^s-1e08ff77ae60c1e4e120f133|11]] ir [[#^s-d001b71a685b7e65b7eee720|19]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas

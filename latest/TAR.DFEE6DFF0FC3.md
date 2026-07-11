@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-de9f803b230947b3e188e559
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2004 m. sausio 14 d. dekretą Nr. 338 „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Protokolą prieš neteisėtą šaunamųjų ginklų, jų dalių ir komponentų bei šaudmenų gamybą ir prekybą jais, papildantį Jungtinių Tautų konvenciją prieš tarptautinį organizuotą nusikalstamumą“, ratifikuoja su pareiškimu 2001 m. gegužės 31 d. Niujorke priimtą Protokolą prieš neteisėtą šaunamųjų ginklų, jų dalių ir komponentų bei šaudmenų gamybą ir prekybą jais, papildantį Jungtinių Tautų konvenciją prieš tarptautinį organizuotą nusikalstamumą, (toliau – Protokolas).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento [2004 m. sausio 14 d. dekretą Nr. 338](https://e-tar.lt/portal/lt/legalAct/TAR.CEDA6251539A) [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Protokolą prieš neteisėtą šaunamųjų ginklų, jų dalių ir komponentų bei šaudmenų gamybą ir prekybą jais, papildantį Jungtinių Tautų konvenciją prieš tarptautinį organizuotą nusikalstamumą“](https://e-tar.lt/portal/lt/legalAct/TAR.CEDA6251539A), ratifikuoja su pareiškimu 2001 m. gegužės 31 d. Niujorke priimtą Protokolą prieš neteisėtą šaunamųjų ginklų, jų dalių ir komponentų bei šaudmenų gamybą ir prekybą jais, papildantį Jungtinių Tautų konvenciją prieš tarptautinį organizuotą nusikalstamumą, (toliau – Protokolas).
 
 
 Straipsnio pakeitimai:

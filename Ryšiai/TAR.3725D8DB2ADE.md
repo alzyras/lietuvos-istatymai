@@ -10,7 +10,7 @@ pavadinimas: "Lietuvos Respublikos ne pelno organizacijų (įmonių) reorganizav
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatymas]] - Asociacijų įstatymas
-- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 2 citatos - Lietuvos Respublikos archyvų įstatymo
+- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - Lietuvos Respublikos archyvų įstatymo
 - [[latest/TAR.D2D24C160EB1|Lietuvos Respublikos labdaros ir paramos fondų įstatymas]] - Labdaros ir paramos fondų įstatymas
 - [[latest/TAR.1E52802BE548|Lietuvos Respublikos viešųjų įstaigų įstatymas]] - Viešųjų įstaigų įstatymas
 

@@ -45,7 +45,7 @@ Vilnius
 1 d.“
 
 
-2. [[#^s-6ad0e112eb8b29421fb22745|2 dalyje]] vietoj datos „2001 m. sausio 31 d.“ įrašyti žodžius ir skaičių „per 1 mėnesį po šio įstatymo nustatytos finansavimo tvarkos įsigaliojimo“ ir šią dalį išdėstyti taip: ^s-6ad0e112eb8b29421fb22745
+2. 2 dalyje vietoj datos „2001 m. sausio 31 d.“ įrašyti žodžius ir skaičių „per 1 mėnesį po šio įstatymo nustatytos finansavimo tvarkos įsigaliojimo“ ir šią dalį išdėstyti taip: ^s-6ad0e112eb8b29421fb22745
 
 
 „2. LRT administracinė komisija įsteigiama ne vėliau kaip per 1 mėnesį po šio įstatymo nustatytos finansavimo tvarkos įsigaliojimo.“

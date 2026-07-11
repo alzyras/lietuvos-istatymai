@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-8cd0d4da9f49b05fa712f980
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2011 m. lapkričio 21 d. dekretą Nr. 1K-867, ratifikuoja Baudžiamosios teisės konvencijos dėl korupcijos papildomą protokolą, priimtą 2003 m. gegužės 15 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2011 m. lapkričio 21 d. dekretą Nr. 1K-867](https://e-tar.lt/portal/lt/legalAct/TAR.FCCC5EB77322), ratifikuoja Baudžiamosios teisės konvencijos dėl korupcijos papildomą protokolą, priimtą 2003 m. gegužės 15 d. Strasbūre.
 
 
 

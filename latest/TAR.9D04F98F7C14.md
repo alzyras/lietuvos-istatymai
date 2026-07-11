@@ -119,7 +119,7 @@ Nr. XIV-1299, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14927
 2. Jeigu atnaujinimo projekto ar jo dalies parengimą pirkdamas paslaugas teisės aktų nustatyta tvarka savo iniciatyva organizuoja projekto administratorius ar savivaldybė, šio atnaujinimo projekto ar jo dalies parengimo išlaidos, neviršijant [[#^s-abf58def1ddf594992ca2a33|šio straipsnio 1 dalies 2 punkte]] nurodytos paramos dydžio, apmokamos pirkimo metu projekto administratoriaus ar savivaldybės atrinktam atnaujinimo projekto ar jo dalies rengėjui arba kompensuojamos projekto administratoriui ar savivaldybei, jeigu atnaujinimo projekto ar jo dalies parengimo išlaidas jis (ji) apmokėjo savo lėšomis, kai investicijų planą patvirtina daugiabučio namo butų ir kitų patalpų savininkai. ^s-d57042cc6435114ed7e2ceae
 
 
-3. Šio straipsnio 1 ir [[#^s-d57042cc6435114ed7e2ceae|2 dalyse]] nurodytos valstybės paramos daugiabučiams namams atnaujinti teikimo ir atnaujinimo projektų įgyvendinimo priežiūros taisykles tvirtina Vyriausybė. ^s-1eab703a2302b842f397b8aa
+3. Šio straipsnio [[#^s-ecd0d8af3d57f09ea41ed603|1]] ir [[#^s-d57042cc6435114ed7e2ceae|2]] dalyse nurodytos valstybės paramos daugiabučiams namams atnaujinti teikimo ir atnaujinimo projektų įgyvendinimo priežiūros taisykles tvirtina Vyriausybė. ^s-1eab703a2302b842f397b8aa
 
 
 4. Vyriausybės patvirtintos Daugiabučių namų atnaujinimo (modernizavimo) programos įgyvendinimą administruoja Lietuvos Respublikos aplinkos ministerijos įgaliota institucija, kuri atlieka šias funkcijas: ^s-90a526825aa6da19b171d75d
@@ -131,7 +131,7 @@ Nr. XIV-1299, 2022-06-30, paskelbta TAR 2022-07-07, i. k. 2022-14927
 2) vertina investicijų planus ir vykdo atnaujinimo projektų įgyvendinimo priežiūrą Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka; ^s-b1e6dd9a424b564d4d634f31
 
 
-3) administruoja ir teikia šio straipsnio 1 ir [[#^s-d57042cc6435114ed7e2ceae|2 dalyse]] nurodytą valstybės paramą (išskyrus lengvatinių kreditų teikimą ir kredito bei palūkanų apmokėjimą už nepasiturinčius gyventojus); ^s-2bfd16b6aab4f7a9f6d00bb7
+3) administruoja ir teikia šio straipsnio [[#^s-ecd0d8af3d57f09ea41ed603|1]] ir [[#^s-d57042cc6435114ed7e2ceae|2]] dalyse nurodytą valstybės paramą (išskyrus lengvatinių kreditų teikimą ir kredito bei palūkanų apmokėjimą už nepasiturinčius gyventojus); ^s-2bfd16b6aab4f7a9f6d00bb7
 
 
 4) teikia ūkinę veiklą vykdantiems butų ir kitų patalpų savininkams nereikšmingą (de minimis) pagalbą, kuriai taikomos Europos Sąjungos nereikšmingos (de minimis) pagalbos taisyklės; ^s-4fba6f65e21efee7730f5c72
@@ -287,7 +287,7 @@ Nr. VIII-194, 97.04.24, Žin., 1997, Nr.38-926 (97.05.02)
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-472, 97.10.21, Žin., 1997, Nr.98-2483 (97.10.30)
-LIETUVOS RESPUBLIKOS GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO 3, 6, 8, 9, 10, 11, 12, 14, 17, 19, 20, 21 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI 13 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
+LIETUVOS RESPUBLIKOS GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO [[#^s-5f0bfdddfd5da30ee7e5181e|3]], [[#^s-11a501fcd47af96cea9fafc6|6]], [[#^s-51bc419dfb1161b4410062fe|8]], [[#^s-15a2515058d64d6a6964f102|9]], [[#^s-e0747e411ff1121a49e2a231|10]], [[latest/TAR.9D04F98F7C14|11]], [[latest/TAR.9D04F98F7C14|12]], [[latest/TAR.9D04F98F7C14|14]], [[latest/TAR.9D04F98F7C14|17]], [[latest/TAR.9D04F98F7C14|19]], [[latest/TAR.9D04F98F7C14|20]], [[latest/TAR.9D04F98F7C14|21]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI 13 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -297,7 +297,7 @@ DAUGIABUČIŲ NAMŲ SAVININKŲ BENDRIJŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-2033, 2000 10 12, Žin., 2000, Nr. 92-2874 (2000 10 31)
-GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO PAPILDYMO 13 STRAIPSNIU, 14 IR 18 STRAIPSNIŲ PAKEITIMO IR BUTŲ PRIVATIZAVIMO ĮSTATYMO BEI LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS - ATKURIAMOJO SEIMO NUTARIMO „DĖL LIETUVOS RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO ĮSIGALIOJIMO“ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+GYVENTOJŲ APSIRŪPINIMO GYVENAMOSIOMIS PATALPOMIS ĮSTATYMO PAPILDYMO 13 STRAIPSNIU, 14 IR 18 STRAIPSNIŲ PAKEITIMO IR BUTŲ PRIVATIZAVIMO ĮSTATYMO BEI LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS - ATKURIAMOJO SEIMO NUTARIMO [„DĖL LIETUVOS RESPUBLIKOS BUTŲ PRIVATIZAVIMO ĮSTATYMO ĮSIGALIOJIMO“](https://e-tar.lt/portal/lt/legalAct/TAR.83E0BEB47111) PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
 
 8.
@@ -352,12 +352,12 @@ Nr. X-1681, 2008-07-03, Žin., 2008, Nr. 81-3182 (2008-07-17)
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1732, 2008-09-29, Žin., 2008, Nr. 120-4544 (2008-10-18)
-VALSTYBĖS PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI ĮSTATYMO 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 11(1) STRAIPSNIU ĮSTATYMAS
+VALSTYBĖS PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI ĮSTATYMO [[#^s-a623482c30ef687158caf5ac|1]], [[#^s-9d4cf40b7cd05d0ad63a33d4|2]], [[#^s-5f0bfdddfd5da30ee7e5181e|3]], [[#^s-19d84a34d1378bd79354fc92|4]], [[#^s-c052959af2597904c2ff1b2c|5]], [[#^s-11a501fcd47af96cea9fafc6|6]], [[#^s-51bc419dfb1161b4410062fe|8]], [[#^s-15a2515058d64d6a6964f102|9]], 10, 11, 12, 13, 14 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 11(1) STRAIPSNIU ĮSTATYMAS
 Šio įstatymo pakeitimas:
 16.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-101, 2008-12-22, Žin., 2008, Nr. 149-6025 (2008-12-30)
-VALSTYBĖS PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI ĮSTATYMO 1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 13, 14 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 11(1) STRAIPSNIU ĮSTATYMO 11 IR 15 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+VALSTYBĖS PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI BEI DAUGIABUČIAMS NAMAMS MODERNIZUOTI ĮSTATYMO [[#^s-a623482c30ef687158caf5ac|1]], [[#^s-9d4cf40b7cd05d0ad63a33d4|2]], [[#^s-5f0bfdddfd5da30ee7e5181e|3]], [[#^s-19d84a34d1378bd79354fc92|4]], [[#^s-c052959af2597904c2ff1b2c|5]], [[#^s-11a501fcd47af96cea9fafc6|6]], [[#^s-51bc419dfb1161b4410062fe|8]], [[#^s-15a2515058d64d6a6964f102|9]], 10, 11, 12, 13, 14 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 11(1) STRAIPSNIU ĮSTATYMO 11 IR 15 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -374,7 +374,7 @@ Nr. XI-355, 2009-07-17, Žin., 2009, Nr. 93-3961 (2009-08-04)
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1051, 2010-10-12, Žin., 2010, Nr. 125-6376 (2010-10-23)
-VALSTYBĖS PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI IR DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI) ĮSTATYMO 4, 6, 8, 10, 11, 12 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 11(1) STRAIPSNIU ĮSTATYMAS
+VALSTYBĖS PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI IR DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI) ĮSTATYMO [[#^s-19d84a34d1378bd79354fc92|4]], [[#^s-11a501fcd47af96cea9fafc6|6]], [[#^s-51bc419dfb1161b4410062fe|8]], 10, 11, 12 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 11(1) STRAIPSNIU ĮSTATYMAS
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -421,7 +421,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1054, 2014-07-17, paskelbta TAR 2014-07-24, i. k. 2014-10479
 LIETUVOS RESPUBLIKOS VALSTYBĖS PARAMOS BŪSTUI ĮSIGYTI AR IŠSINUOMOTI IR DAUGIABUČIAMS NAMAMS ATNAUJINTI (MODERNIZUOTI) ĮSTATYMO NR. I-2455 PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
-Valstybės parama daugiabučių namų butų savininkams, įgyvendinantiems daugiabučių namų modernizavimo projektus, kuriems Lietuvos Respublikos Vyriausybės nustatyta tvarka buvo pritarta iki Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatymo pavadinimo, 1, [[#^s-9d4cf40b7cd05d0ad63a33d4|2 straipsnių]] ir penktojo skirsnio pakeitimo ir papildymo [[latest/TAR.242A7F8A7730|įstatymo Nr. XI-355]] (toliau – [[latest/TAR.242A7F8A7730|Įstatymas Nr. XI-355]]) įsigaliojimo dienos, teikiama pagal iki [[latest/TAR.242A7F8A7730|Įstatymo Nr. XI-355]] įsigaliojimo dienos galiojusias Valstybės paramos daugiabučiams namams modernizuoti teikimo ir investicijų projektų energinio efektyvumo nustatymo taisykles.
+Valstybės parama daugiabučių namų butų savininkams, įgyvendinantiems daugiabučių namų modernizavimo projektus, kuriems Lietuvos Respublikos Vyriausybės nustatyta tvarka buvo pritarta iki Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsinuomoti bei daugiabučiams namams modernizuoti įstatymo pavadinimo, [[#^s-a623482c30ef687158caf5ac|1]], [[#^s-9d4cf40b7cd05d0ad63a33d4|2]] straipsnių ir penktojo skirsnio pakeitimo ir papildymo [[latest/TAR.242A7F8A7730|įstatymo Nr. XI-355]] (toliau – [[latest/TAR.242A7F8A7730|Įstatymas Nr. XI-355]]) įsigaliojimo dienos, teikiama pagal iki [[latest/TAR.242A7F8A7730|Įstatymo Nr. XI-355]] įsigaliojimo dienos galiojusias Valstybės paramos daugiabučiams namams modernizuoti teikimo ir investicijų projektų energinio efektyvumo nustatymo taisykles.
 Šis įstatymas taikomas daugiabučių namų atnaujinimo (modernizavimo) projektams (išskyrus iki šio įstatymo įsigaliojimo įgyvendintus projektus), parengtiems ir įgyvendinamiems nuo 2009 m. rugsėjo 20 d. pagal Lietuvos Respublikos Vyriausybės patvirtintos Daugiabučių namų atnaujinimo (modernizavimo) programos ar ją atitinkančių savivaldybių tarybų patvirtintų programų įgyvendinimo ir finansavimo modelį.
 Šio įstatymo [[#^s-a623482c30ef687158caf5ac|1 straipsnyje]] išdėstyto [[#^s-71dfd451acea52f01b5d97dd|Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymo 3 straipsnio 1 dalies 5 punkto]] nuostatos dėl C pastato energinio naudingumo klasės taikomos daugiabučių namų atnaujinimo (modernizavimo) projektams, rengiamiems ir įgyvendinamiems nuo šio įstatymo įsigaliojimo dienos.
 Nauja įstatymo redakcija

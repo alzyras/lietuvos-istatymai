@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9A3AD08EA5D0#^s-4af266a875c0362b4cfb3aea|Lietuvos Respublikos švietimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO 9, 11, 30, 31, 33, 33(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.9A3AD08EA5D0#^s-f3d480c61cb7bbfbc1e11aa8|Lietuvos Respublikos švietimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO 9, 11, 30, 31, 33, 33(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.9A3AD08EA5D0#^s-4af266a875c0362b4cfb3aea|Lietuvos Respublikos švietimo įstatymas]] - LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO 9, 11, 30, 31, 33, 33(1) STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

@@ -128,7 +128,7 @@ Papildyti 14 straipsnio trečiąją dalį ir ją išdėstyti taip:
 4) asmeniui žuvus ar mirus būtinosios karinės tarnybos ar karinių mokymų sovietinėje armijoje (1945 07 22 – 1991 12 31) metu arba vėliau mirus dėl ligų, susijusių su karine tarnyba; ^s-6c48d28c422f3d6e04aeae4d
 
 
-5) mirus šio įstatymo 11 straipsnio pirmosios dalies 2, 3 ir [[#^s-51a6f29e7290c741d930b71e|5 punktuose]] nurodytiems asmenims ir 11 straipsnio pirmosios dalies 4 ir 7 punktuose nurodytiems asmenims, kurie nustatyta tvarka iki mirties buvo pripažinti invalidais.“ ^s-51a6f29e7290c741d930b71e
+5) mirus šio įstatymo 11 straipsnio pirmosios dalies 2, 3 ir 5 punktuose nurodytiems asmenims ir 11 straipsnio pirmosios dalies 4 ir 7 punktuose nurodytiems asmenims, kurie nustatyta tvarka iki mirties buvo pripažinti invalidais.“ ^s-51a6f29e7290c741d930b71e
 
 
 

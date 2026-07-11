@@ -69,7 +69,7 @@ Pakeisti [[#^s-1e0118dc9ef94a2b647be242|2 straipsnį]] ir jį išdėstyti taip:
 8. Linijinis laivas – laivas, plaukiantis laivybos linijoje, kurios operatoriui yra išduotas laivybos linijos įregistravimo pažymėjimas, tarp dviejų ar daugiau paskelbtų uostų pagal nuolatinį grafiką. ^s-5604995c7f64674f46cc1d95
 
 
-9. Laisvasis uostas – nuo uosto teritorijos atskirta uosto teritorijos dalis, kurioje ne Lietuvos prekės importo muitų bei mokesčių ir ekonominių draudimų bei apribojimų požiūriu laikomos esančiomis ne Lietuvos Respublikos muitų teritorijoje, išskyrus atvejus, kai šios prekės išleidžiamos laisvai cirkuliuoti, pateikiamos kitai muitinės procedūrai įforminti arba laikomos ar naudojamos kitomis sąlygomis, negu nustatyta šio įstatymo, Muitinės kodekso ar kitų teisės aktų. ^s-f6d4a5861702647442fe9a67
+9. Laisvasis uostas – nuo uosto teritorijos atskirta uosto teritorijos dalis, kurioje ne Lietuvos prekės importo muitų bei mokesčių ir ekonominių draudimų bei apribojimų požiūriu laikomos esančiomis ne Lietuvos Respublikos muitų teritorijoje, išskyrus atvejus, kai šios prekės išleidžiamos laisvai cirkuliuoti, pateikiamos kitai muitinės procedūrai įforminti arba laikomos ar naudojamos kitomis sąlygomis, negu nustatyta šio įstatymo, [Muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) ar kitų teisės aktų. ^s-f6d4a5861702647442fe9a67
 
 
 10. Krantinė – nustatyto ilgio, pločio ir leistinų apkrovų hidrotechninis įrenginys, skirtas laivams švartuoti ir krauti, keleiviams įlaipinti ar išlaipinti. ^s-75e30afe3969d167a8d23c74
@@ -163,7 +163,7 @@ Pakeisti [[#^s-1e0118dc9ef94a2b647be242|2 straipsnį]] ir jį išdėstyti taip:
 ### 5 straipsnis. 11 straipsnio pakeitimas ^s-942fe9983390d79327d4d6a2
 
 
-Pakeisti [[#^s-7262e6cd64426726e005ef94|11 straipsnio]] 1, 3, 7, 9, 10, 11, 12, 13 ir [[#^s-51c6161d51f809af2a92f9af|14 punktus]], straipsnį papildyti nauju [[#^s-b37cce837412d342bda6ba93|15 punktu]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-7262e6cd64426726e005ef94|11 straipsnio]] 1, 3, 7, 9, 10, 11, 12, 13 ir 14 punktus, straipsnį papildyti nauju [[#^s-b37cce837412d342bda6ba93|15 punktu]] ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-7262e6cd64426726e005ef94|11 straipsnis]]. Uosto direkcijos funkcijos
@@ -377,7 +377,7 @@ Pakeisti [[#^s-87c1731fc31b422f8fb6101e|23 straipsnį]] ir jį išdėstyti taip:
 ### 15 straipsnis. 24 straipsnio 1 dalies pakeitimas ^s-4b84391857f58ab917123ca4
 
 
-24 straipsnio 1 dalyje vietoj žodžių „žemės nuomos įstatymo“ įrašyti žodžius „civilinio kodekso“ ir šią dalį išdėstyti taip:
+24 straipsnio 1 dalyje vietoj žodžių [„žemės nuomos įstatymo“](https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC) įrašyti žodžius „civilinio kodekso“ ir šią dalį išdėstyti taip:
 
 
 „1. Uosto žemės nuomos sutartis sudaroma raštu ne ilgiau kaip 50 metų, laikantis Lietuvos Respublikos civilinio kodekso ir šio įstatymo reikalavimų.“

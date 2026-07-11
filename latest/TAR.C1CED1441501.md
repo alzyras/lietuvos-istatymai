@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-6e33f84a9531ea1f90d8f3a2
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. gegužės 28 d. dekretą Nr.956, ratifikuoja Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir apsaugos, pasirašytą 1996 m. vasario 7 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento [1996 m. gegužės 28 d. dekretą Nr.956](https://e-tar.lt/portal/lt/legalAct/TAR.5FC2E11989A9), ratifikuoja Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir apsaugos, pasirašytą 1996 m. vasario 7 d. Vilniuje.
 
 
 

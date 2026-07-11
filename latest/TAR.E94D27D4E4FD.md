@@ -300,7 +300,7 @@ Pakeisti [[#^s-bb618ac088011efabbfa93b5|22 straipsnį]] ir jį išdėstyti taip:
 1. Pakeisti 28 straipsnio 2 dalį ir ją išdėstyti taip: ^s-0ceec66976417b07531334fd
 
 
-„2. Į profesinę karo tarnybą [[#^s-0ceec66976417b07531334fd|šio straipsnio 1 dalyje]] nurodyti asmenys priimami sudarant profesinės karo tarnybos sutartį. Jeigu priimamas į profesinę karo tarnybą asmuo nėra atlikęs privalomosios pradinės karo tarnybos ar kitu būdu įgijęs reikiamo pagrindinio karinio parengtumo, priimant į profesinę karo tarnybą jam nustatomas bandomasis laikotarpis, kurio metu karys siunčiamas į pagrindinio karinio parengtumo kursus.“
+„2. Į profesinę karo tarnybą šio straipsnio 1 dalyje nurodyti asmenys priimami sudarant profesinės karo tarnybos sutartį. Jeigu priimamas į profesinę karo tarnybą asmuo nėra atlikęs privalomosios pradinės karo tarnybos ar kitu būdu įgijęs reikiamo pagrindinio karinio parengtumo, priimant į profesinę karo tarnybą jam nustatomas bandomasis laikotarpis, kurio metu karys siunčiamas į pagrindinio karinio parengtumo kursus.“
 
 
 2. 28 straipsnio 4 dalies 5 punkte vietoj žodžio „profesinės“ įrašyti žodį „tikrosios“, išbraukti žodžius „savanorių karo tarnybos“ ir šį punktą išdėstyti taip: ^s-45416b6ed8dd372e38f6adb7
@@ -527,7 +527,7 @@ Papildyti Įstatymą 321 straipsniu:
 2. Pakeisti 44 straipsnio 3 dalį ir ją išdėstyti taip: ^s-e267ce31f77e195dad502b6b
 
 
-„3. [[#^s-e267ce31f77e195dad502b6b|Šio straipsnio 2 dalyje]] nurodytos išlaidos, išskyrus išlaidas, susijusias su karininko parengimu karo mokymo įstaigoje, išieškomos iš profesinės karo tarnybos kario, kario savanorio ar kito aktyviojo rezervo kario ne daugiau kaip už 3 paskutinių metų laikotarpį. Išieškomų išlaidų apskaičiavimo taisykles tvirtina Vyriausybė arba jos įgaliota institucija.“
+„3. Šio straipsnio 2 dalyje nurodytos išlaidos, išskyrus išlaidas, susijusias su karininko parengimu karo mokymo įstaigoje, išieškomos iš profesinės karo tarnybos kario, kario savanorio ar kito aktyviojo rezervo kario ne daugiau kaip už 3 paskutinių metų laikotarpį. Išieškomų išlaidų apskaičiavimo taisykles tvirtina Vyriausybė arba jos įgaliota institucija.“
 
 
 3. Pakeisti 44 straipsnio 5 dalį ir ją išdėstyti taip: ^s-074d13eec92624312b7e8c71
@@ -761,7 +761,7 @@ Pakeisti 60 straipsnio 7 dalį ir ją išdėstyti taip:
 3. 65 straipsnio 3 dalyje vietoj žodžio „institucijas“ įrašyti žodį „įstaigas“ ir šią dalį išdėstyti taip: ^s-fa0334489f8a800ae9d435c7
 
 
-„3. Krašto apsaugos ministerija organizuoja šio straipsnio 1 ir [[#^s-3dfab54f8f16b44a92a9d0b0|2 dalyse]] nurodytų karių ir kitų asmenų sveikatinimo veiklą ir atlieka jų asmens sveikatos priežiūrą per krašto apsaugos sistemos sveikatos priežiūros įstaigas ir naudodamasi kitų nacionalinės sveikatos sistemos asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis ir patarnavimais. Už juos atsiskaitoma Vyriausybės nustatyta tvarka.“
+„3. Krašto apsaugos ministerija organizuoja šio straipsnio [[#^s-8d5e8f52c9d333d70cb5cafe|1]] ir [[#^s-3dfab54f8f16b44a92a9d0b0|2]] dalyse nurodytų karių ir kitų asmenų sveikatinimo veiklą ir atlieka jų asmens sveikatos priežiūrą per krašto apsaugos sistemos sveikatos priežiūros įstaigas ir naudodamasi kitų nacionalinės sveikatos sistemos asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis ir patarnavimais. Už juos atsiskaitoma Vyriausybės nustatyta tvarka.“
 
 
 
@@ -819,7 +819,7 @@ Pakeisti 66 straipsnį ir jį išdėstyti taip:
 2. 67 straipsnio 1 dalyje vietoj žodžių „ar sveikatos sutrikimo“ įrašyti žodžius „ligos ar sveikatos problemos“ ir šią dalį išdėstyti taip: ^s-fc4a2f8a77904471a3a6c01a
 
 
-„1. Dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, arba dėl tarnybos tapusiam neįgaliam arba ir netapusiam neįgaliam kariui, kuriam dėl ligos ar sveikatos problemos liko liekamųjų reiškinių ir sumažėjo tinkamumo tarnybai laipsnis, išmokama šio straipsnio 5, 6, 7, 8, 9 ir 10 dalyse nustatyto dydžio vienkartinė kompensacija, sumažinta priklausančių išmokėti draudimo iš valstybės biudžeto išmokų dydžiu. Kariui žuvus dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, arba dėl tarnybos, išmokama šio straipsnio 11 dalyje nustatyto dydžio vienkartinė kompensacija, sumažinta priklausančių išmokėti draudimo iš valstybės biudžeto išmokų dydžiu. Šios kompensacijos mokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto lėšų.“
+„1. Dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, arba dėl tarnybos tapusiam neįgaliam arba ir netapusiam neįgaliam kariui, kuriam dėl ligos ar sveikatos problemos liko liekamųjų reiškinių ir sumažėjo tinkamumo tarnybai laipsnis, išmokama šio straipsnio [[#^s-f26dbd313daaefe5fabd6877|5]], 6, 7, 8, 9 ir 10 dalyse nustatyto dydžio vienkartinė kompensacija, sumažinta priklausančių išmokėti draudimo iš valstybės biudžeto išmokų dydžiu. Kariui žuvus dėl priežasčių, susijusių su tarnybinių pareigų vykdymu, arba dėl tarnybos, išmokama šio straipsnio 11 dalyje nustatyto dydžio vienkartinė kompensacija, sumažinta priklausančių išmokėti draudimo iš valstybės biudžeto išmokų dydžiu. Šios kompensacijos mokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto lėšų.“
 
 
 3. 67 straipsnio 2 dalyje vietoj žodžių „ar sveikatos sutrikimo“ įrašyti žodžius „ligos ar sveikatos problemos“ ir šią dalį išdėstyti taip: ^s-998f20a7bf354b940cdc470a

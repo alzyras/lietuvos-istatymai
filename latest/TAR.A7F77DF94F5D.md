@@ -261,7 +261,7 @@ Nr. XIV-2361, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25612
 ### 6 straipsnis. Pensijų mokėjimas asmenims, turintiems teisę gauti daugiau negu vieną pensiją ^s-30b159801f86e32eeabfab5f
 
 
-1. Asmenims, kuriems mokamos netekto darbingumo (invalidumo) pensijos ir kurie gaudami šią pensiją po 2018 m. sausio 1 d. sukanka senatvės pensijos amžių ir įgyja teisę gauti senatvės pensiją, mokama didesnioji iš šių pensijų: arba senatvės pensija, apskaičiuota šio įstatymo 17 ir [[#^s-30369a92ba13d8a0f06b4aee|18 straipsniuose]] nustatyta tvarka, arba iki 2023 m. gruodžio 31 d. paskirta socialinio draudimo senatvės pensija neįgaliajam (toliau – senatvės pensija neįgaliajam), arba senatvės pensija asmeniui su negalia, apskaičiuota šio įstatymo [[#^s-5588e0dd4927669d9163f666|34 straipsnyje]] nustatyta tvarka. Kartu su senatvės pensija, skiriama ir mokama pagal šio įstatymo 14 arba [[#^s-947fdb89b14f2115a1ec8f1f|20 straipsnį]], ar senatvės pensija neįgaliajam arba senatvės pensija asmeniui su negalia, apskaičiuota pagal šio įstatymo [[#^s-5588e0dd4927669d9163f666|34 straipsnį]], pensijų kaupime dalyvavusiems asmenims mokama kaupiamoji pensijų išmoka pagal [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatymo]] nuostatas. Kartu su senatvės pensija, senatvės pensija neįgaliajam, senatvės pensija asmeniui su negalia ar negalios, netekto darbingumo, invalidumo pensija gali būti mokamos našlių ir (ar) našlaičių pensijos, jeigu kituose įstatymuose nenustatyta kitaip. Asmenims, tuo pačiu metu turintiems teisę gauti ir negalios, netekto darbingumo ar invalidumo pensiją, ir senatvės pensiją, senatvės pensiją neįgaliajam ar senatvės pensiją asmeniui su negalia, mokama didesnioji iš šių pensijų arba asmens prašymu – viena iš šių pensijų. ^s-ae8161324f2346b0f4424b65
+1. Asmenims, kuriems mokamos netekto darbingumo (invalidumo) pensijos ir kurie gaudami šią pensiją po 2018 m. sausio 1 d. sukanka senatvės pensijos amžių ir įgyja teisę gauti senatvės pensiją, mokama didesnioji iš šių pensijų: arba senatvės pensija, apskaičiuota šio įstatymo [[#^s-4d3f26e86ee09cd86ee0684b|17]] ir [[#^s-30369a92ba13d8a0f06b4aee|18]] straipsniuose nustatyta tvarka, arba iki 2023 m. gruodžio 31 d. paskirta socialinio draudimo senatvės pensija neįgaliajam (toliau – senatvės pensija neįgaliajam), arba senatvės pensija asmeniui su negalia, apskaičiuota šio įstatymo [[#^s-5588e0dd4927669d9163f666|34 straipsnyje]] nustatyta tvarka. Kartu su senatvės pensija, skiriama ir mokama pagal šio įstatymo 14 arba [[#^s-947fdb89b14f2115a1ec8f1f|20 straipsnį]], ar senatvės pensija neįgaliajam arba senatvės pensija asmeniui su negalia, apskaičiuota pagal šio įstatymo [[#^s-5588e0dd4927669d9163f666|34 straipsnį]], pensijų kaupime dalyvavusiems asmenims mokama kaupiamoji pensijų išmoka pagal [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatymo]] nuostatas. Kartu su senatvės pensija, senatvės pensija neįgaliajam, senatvės pensija asmeniui su negalia ar negalios, netekto darbingumo, invalidumo pensija gali būti mokamos našlių ir (ar) našlaičių pensijos, jeigu kituose įstatymuose nenustatyta kitaip. Asmenims, tuo pačiu metu turintiems teisę gauti ir negalios, netekto darbingumo ar invalidumo pensiją, ir senatvės pensiją, senatvės pensiją neįgaliajam ar senatvės pensiją asmeniui su negalia, mokama didesnioji iš šių pensijų arba asmens prašymu – viena iš šių pensijų. ^s-ae8161324f2346b0f4424b65
 
 
 2. Asmenims, tuo pačiu metu turintiems teisę gauti našlių pensijas ir našlaičių pensijas, mokama didesnioji pensija arba jų pasirinkimu viena iš šių pensijų. ^s-990512285050572e69b5e9b1
@@ -334,7 +334,7 @@ Nr. XIV-1968, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10361
 
 
 
-7. Jeigu Valstybės duomenų agentūros vėliausiai paskelbtas 65 metus sukakusių ir vyresnių asmenų skurdo rizikos lygis yra didesnis negu 25 procentai ir (arba) indeksavimo metais prognozuojamos vidutinės senatvės pensijos santykis su tais metais prognozuojamu vidutiniu neto darbo užmokesčiu yra mažesnis kaip 50 procentų, individualioji pensijos dalis indeksuojama papildomai, prie šio straipsnio 1 ir [[#^s-5e1bdb5beb53e672980a1dbb|2 dalyse]] nustatyta tvarka apskaičiuoto IK pridedant papildomą indeksą, apskaičiuotą taip, kad indeksavimo metais panaudotinos papildomos lėšos individualiajai pensijos daliai indeksuoti neviršytų 75 procentų planuojamo Valstybinio socialinio draudimo fondo biudžeto teigiamo pinigų srautų rezultato, apskaičiuoto taikant šio straipsnio 1 ir [[#^s-5e1bdb5beb53e672980a1dbb|2 dalyse]] nustatyta tvarka apskaičiuotą IK ir atėmus [[latest/TAR.CA0F08EF687E|Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatyme]] nustatytą būtinų kasos apyvartos lėšų sumą. Konkreti papildomų lėšų suma, skiriama individualiajai daliai indeksuoti, nustatoma indeksavimo metais galiojančiame Valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatyme. ^s-fc86e6d19fdcad91c3cede05
+7. Jeigu Valstybės duomenų agentūros vėliausiai paskelbtas 65 metus sukakusių ir vyresnių asmenų skurdo rizikos lygis yra didesnis negu 25 procentai ir (arba) indeksavimo metais prognozuojamos vidutinės senatvės pensijos santykis su tais metais prognozuojamu vidutiniu neto darbo užmokesčiu yra mažesnis kaip 50 procentų, individualioji pensijos dalis indeksuojama papildomai, prie šio straipsnio [[#^s-ba12ac49208e44fb8a7bfdd9|1]] ir [[#^s-5e1bdb5beb53e672980a1dbb|2]] dalyse nustatyta tvarka apskaičiuoto IK pridedant papildomą indeksą, apskaičiuotą taip, kad indeksavimo metais panaudotinos papildomos lėšos individualiajai pensijos daliai indeksuoti neviršytų 75 procentų planuojamo Valstybinio socialinio draudimo fondo biudžeto teigiamo pinigų srautų rezultato, apskaičiuoto taikant šio straipsnio [[#^s-ba12ac49208e44fb8a7bfdd9|1]] ir [[#^s-5e1bdb5beb53e672980a1dbb|2]] dalyse nustatyta tvarka apskaičiuotą IK ir atėmus [[latest/TAR.CA0F08EF687E|Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatyme]] nustatytą būtinų kasos apyvartos lėšų sumą. Konkreti papildomų lėšų suma, skiriama individualiajai daliai indeksuoti, nustatoma indeksavimo metais galiojančiame Valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatyme. ^s-fc86e6d19fdcad91c3cede05
 Papildyta straipsnio dalimi:
 Nr. XIII-2651, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20992
 Straipsnio dalies pakeitimai:
@@ -349,7 +349,7 @@ Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
 
 
 
-9. [[#^s-fc86e6d19fdcad91c3cede05|Šio straipsnio 7 dalyje]] nurodytas papildomas individualiosios pensijos dalies indeksavimas taikomas toms socialinio draudimo pensijoms, kurias sudaro bendroji ir individualioji pensijos dalys. Pensijos, nurodytos šio įstatymo [[#^s-c326c2248cdd34d74ee57302|58 straipsnio 1 dalyje]] ir [[#^s-790a50f88567ba78bf394672|60 straipsnyje]] (išskyrus priedą už stažo metus), ir socialinio draudimo pensijos, kurių nesudaro bendroji ir individualioji pensijos dalys, indeksuojamos dauginant asmeniui paskirtos ir mokamos pensijos dydį (pensijos dalį) tik iš šio straipsnio 1 ir [[#^s-5e1bdb5beb53e672980a1dbb|2 dalyse]] nustatyta tvarka apskaičiuoto IK. ^s-dc8f79c2b942a19f86a9fbb6
+9. [[#^s-fc86e6d19fdcad91c3cede05|Šio straipsnio 7 dalyje]] nurodytas papildomas individualiosios pensijos dalies indeksavimas taikomas toms socialinio draudimo pensijoms, kurias sudaro bendroji ir individualioji pensijos dalys. Pensijos, nurodytos šio įstatymo [[#^s-c326c2248cdd34d74ee57302|58 straipsnio 1 dalyje]] ir [[#^s-790a50f88567ba78bf394672|60 straipsnyje]] (išskyrus priedą už stažo metus), ir socialinio draudimo pensijos, kurių nesudaro bendroji ir individualioji pensijos dalys, indeksuojamos dauginant asmeniui paskirtos ir mokamos pensijos dydį (pensijos dalį) tik iš šio straipsnio [[#^s-ba12ac49208e44fb8a7bfdd9|1]] ir [[#^s-5e1bdb5beb53e672980a1dbb|2]] dalyse nustatyta tvarka apskaičiuoto IK. ^s-dc8f79c2b942a19f86a9fbb6
 Papildyta straipsnio dalimi:
 Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
 
@@ -364,7 +364,7 @@ Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
 2. Individualioji dalis mokama iš Valstybinio socialinio draudimo fondo biudžeto lėšų. ^s-417751a38ab1bd6727dac2d5
 
 
-3. Kompensacijos už ypatingas darbo sąlygas, našlių pensijos, taip pat pensijos, nurodytos šio įstatymo [[#^s-22924ea4b5d88715804e0137|49 straipsnio 7 dalyje]], [[#^s-d49673ee138af0d4fa3987ae|53 straipsnio 5 dalyje]], 58 ir [[#^s-790a50f88567ba78bf394672|60 straipsniuose]], mokamos iš Valstybinio socialinio draudimo fondo biudžeto lėšų. ^s-12fdf72d861ced60ce071e03
+3. Kompensacijos už ypatingas darbo sąlygas, našlių pensijos, taip pat pensijos, nurodytos šio įstatymo [[#^s-22924ea4b5d88715804e0137|49 straipsnio 7 dalyje]], [[#^s-d49673ee138af0d4fa3987ae|53 straipsnio 5 dalyje]], [[#^s-a5d3815c1a02785ca6230679|58]] ir [[#^s-790a50f88567ba78bf394672|60]] straipsniuose, mokamos iš Valstybinio socialinio draudimo fondo biudžeto lėšų. ^s-12fdf72d861ced60ce071e03
 
 
 
@@ -407,10 +407,10 @@ Nr. XIV-2361, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25612
 
 
 
-8. Stažu, įgytu dirbant Lietuvos įmonėse, laikomi šio straipsnio 1, 4, 5, [[#^s-aaf0aed534043f97959f77ac|6 dalyse]] nurodyti laikotarpiai, šio įstatymo 2 priedo 1.1, 1.3, 2.1, 2.2, 2.3, 2.5, 2.6, 2.9, 2.13, 2.14 papunkčiuose nurodyti draudimo, darbo, tarnybos ir (ar) bendradarbiavimo Lietuvos teritorijoje laikotarpiai, 1.2 papunktyje nurodytų kūrybinių sąjungų narių kūrybinės veiklos laikotarpiai, 2.4 papunktyje nurodyti mokymosi laikotarpiai, 2.10 papunktyje nurodytų pensijų gavimo laikotarpiai, 2.11, 2.12 papunkčiuose nurodyti slaugos laikotarpiai ir būtinosios karinės tarnybos sovietinėje armijoje laikotarpis. ^s-7a5aac1c9b829a9b76c25a4b
+8. Stažu, įgytu dirbant Lietuvos įmonėse, laikomi šio straipsnio [[#^s-594eed768663ce97825861dd|1]], [[#^s-4900b001a3748b8729616959|4]], [[#^s-037bdb84415123bb9d97d668|5]], [[#^s-aaf0aed534043f97959f77ac|6]] dalyse nurodyti laikotarpiai, šio įstatymo 2 priedo 1.1, 1.3, 2.1, 2.2, 2.3, 2.5, 2.6, 2.9, 2.13, 2.14 papunkčiuose nurodyti draudimo, darbo, tarnybos ir (ar) bendradarbiavimo Lietuvos teritorijoje laikotarpiai, 1.2 papunktyje nurodytų kūrybinių sąjungų narių kūrybinės veiklos laikotarpiai, 2.4 papunktyje nurodyti mokymosi laikotarpiai, 2.10 papunktyje nurodytų pensijų gavimo laikotarpiai, 2.11, 2.12 papunkčiuose nurodyti slaugos laikotarpiai ir būtinosios karinės tarnybos sovietinėje armijoje laikotarpis. ^s-7a5aac1c9b829a9b76c25a4b
 
 
-9. Per kalendorinius metus įgytu stažu laikomas šio straipsnio 1, 2, 4, 5, 6 ir [[#^s-6f2c9a0e3487d805e7b894bd|7 dalyse]] nustatyta tvarka apskaičiuotas stažas. Per kalendorinius metus negali būti įskaityti daugiau kaip vieni stažo metai. ^s-d8e1967699388daa897f8a7b
+9. Per kalendorinius metus įgytu stažu laikomas šio straipsnio [[#^s-594eed768663ce97825861dd|1]], [[#^s-b5e12c10b73b65dda85c706c|2]], [[#^s-4900b001a3748b8729616959|4]], [[#^s-037bdb84415123bb9d97d668|5]], [[#^s-aaf0aed534043f97959f77ac|6]] ir [[#^s-6f2c9a0e3487d805e7b894bd|7]] dalyse nustatyta tvarka apskaičiuotas stažas. Per kalendorinius metus negali būti įskaityti daugiau kaip vieni stažo metai. ^s-d8e1967699388daa897f8a7b
 
 
 10. Per visus kalendorinius metus įgytas stažas sudedamas. Jis išreiškiamas metais ir skaičiuojamas keturių skaitmenų po kablelio tikslumu. ^s-2b6441d9abeec715921289cb
@@ -432,7 +432,7 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 ### 11 straipsnis. Socialinio draudimo pensijų apskaitos vienetai ^s-ae6b5e45b77c136f54adc87b
 
 
-1. Už kiekvienus kalendorinius pensijų socialinio draudimo metus asmeniui apskaičiuojami apskaitos vienetai dviejų skaitmenų po kablelio tikslumu. Per kalendorinius metus įgytų apskaitos vienetų skaičius negali būti didesnis kaip 5, išskyrus šio įstatymo [[#^s-adda35034e938fa34964dd6a|12 straipsnio]] 3 ir 31 dalyse nustatytas išimtis. ^s-d31bf2b93c6f03aaae47e7e7
+1. Už kiekvienus kalendorinius pensijų socialinio draudimo metus asmeniui apskaičiuojami apskaitos vienetai dviejų skaitmenų po kablelio tikslumu. Per kalendorinius metus įgytų apskaitos vienetų skaičius negali būti didesnis kaip 5, išskyrus šio įstatymo [[#^s-adda35034e938fa34964dd6a|12 straipsnio]] [[#^s-ca5a1bb833f509dcf296dc3e|3]] ir [[#^s-c44f38e03663307693464324|31]] dalyse nustatytas išimtis. ^s-d31bf2b93c6f03aaae47e7e7
 Straipsnio dalies pakeitimai:
 Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
 Nr. XV-349, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11764
@@ -455,7 +455,7 @@ Nr. XV-349, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11764
 3. Jeigu iki 2018 m. gruodžio 31 d. pensijų kaupime dalyvavęs ir pensijos išmokos sutarties nesudaręs ar išmokos iš pensijų kaupimo bendrovės negavęs asmuo Lietuvos Respublikos pensijų kaupimo įstatymo pakeitimo įstatymo 2 straipsnyje nustatyta tvarka nutraukia dalyvavimą pensijų kaupime, jo pensijų sąskaitoje sukauptos lėšos pervedamos į Valstybinio socialinio draudimo fondo biudžetą ir įskaitomos kaip Valstybinio socialinio draudimo fondo biudžeto gautos asmens pensijų socialinio draudimo įmokos individualiajai pensijos daliai. Dalyvavimą pensijų kaupime nutraukusio asmens iki 2017 m. gruodžio 31 d. įgytų apskaitos vienetų skaičius apskaičiuojamas šio įstatymo nustatyta tvarka kaip pensijų kaupime nedalyvavusiam asmeniui. Nuo 2018 m. sausio 1 d. iki 2018 m. gruodžio 31 d. asmens įgytų apskaitos vienetų skaičius apskaičiuojamas [[#^s-cbceee0c0397663f22373a75|šio straipsnio 1 dalyje]] nustatyta tvarka įskaitant šiuo laikotarpiu į pensijų fondą pervestą kaupiamosios pensijų įmokos sumą. Pervedamų lėšų suma (įskaitant dalyvio lėšomis sumokėtas pensijų įmokas, jei dalyvis jas mokėjo, ir už dalyvį iš valstybės biudžeto sumokėtas įmokas), viršijanti iš Valstybinio socialinio draudimo fondo biudžeto už asmenį pervestų kaupiamųjų pensijos įmokų sumą, įskaitoma kaip pervedimo metais Valstybinio socialinio draudimo fondo biudžeto gautos asmens pensijų socialinio draudimo įmokos individualiajai pensijos daliai. Už šią sumą apskaitos vienetai apskaičiuojami [[#^s-cbceee0c0397663f22373a75|šio straipsnio 1 dalyje]] nustatyta tvarka, netaikant 5 apskaitos vienetų per metus apribojimo. ^s-ca5a1bb833f509dcf296dc3e
 
 
-31. Jeigu iki 2025 m. gruodžio 31 d. pensijų kaupime dalyvauti pradėjęs ir pensijų išmokos sutarties nesudaręs ar pensijų išmokos negavęs asmuo Lietuvos Respublikos pensijų kaupimo [[latest/TAR.1F58348F79F7|įstatymo Nr. IX-1691]] 1, 3, 4, 5, 6, 7, 8, 10, 12, 13, 15, 22, 24, 28, 29, 30, 33, 351, 352, 357, 358, 359, 3510, 36, 37, [[#^s-a51329faf117bbee049a6755|40 straipsnių]], V skyriaus pavadinimo pakeitimo, Įstatymo papildymo 291 straipsniu ir [[#^s-30b159801f86e32eeabfab5f|6 straipsnio]] bei Įstatymo priedo pripažinimo netekusiais galios įstatymo 32 straipsnio 3 dalyje nustatyta tvarka nutraukia dalyvavimą pensijų kaupime, jo pensijų sąskaitoje sukauptų lėšų sumos dalis, susidariusi iš Valstybinio socialinio draudimo fondo biudžeto ir valstybės biudžeto už dalyvį sumokėtų įmokų, pervedama į Valstybinio socialinio draudimo fondo biudžetą ir įskaitoma kaip prašymo nutraukti pensijų kaupimą pateikimo pensijų kaupimo bendrovei metais Valstybinio socialinio draudimo fondo biudžeto gautos asmens pensijų socialinio draudimo įmokos individualiajai pensijos daliai. Už šią sumą apskaitos vienetai apskaičiuojami [[#^s-cbceee0c0397663f22373a75|šio straipsnio 1 dalyje]] nustatyta tvarka, netaikant 5 apskaitos vienetų per metus apribojimo. ^s-c44f38e03663307693464324
+31. Jeigu iki 2025 m. gruodžio 31 d. pensijų kaupime dalyvauti pradėjęs ir pensijų išmokos sutarties nesudaręs ar pensijų išmokos negavęs asmuo Lietuvos Respublikos pensijų kaupimo [[latest/TAR.1F58348F79F7|įstatymo Nr. IX-1691]] [[latest/TAR.1F58348F79F7#^s-3c60a6d814421185a8c03d0d|1]], [[latest/TAR.1F58348F79F7#^s-e81c4f7e31e0c09bbab460dc|3]], [[latest/TAR.1F58348F79F7#^s-f9f49e3fcd8e149a05ed8879|4]], [[latest/TAR.1F58348F79F7#^s-4562e35f32d75502c4570357|5]], [[latest/TAR.1F58348F79F7#^s-b86a50fba9a9e3000f80d8e4|6]], [[latest/TAR.1F58348F79F7#^s-2da633957eac517b17c65b1a|7]], [[latest/TAR.1F58348F79F7#^s-c45bc44c13233375313be4e4|8]], [[latest/TAR.1F58348F79F7#^s-db0e4ce334f456a09bf34186|10]], [[latest/TAR.1F58348F79F7#^s-226e36eb2a1585a3f121c711|12]], [[latest/TAR.1F58348F79F7#^s-85d85c6d8f0f3c0f1a253fd9|13]], [[latest/TAR.1F58348F79F7#^s-9f24260230df10c6691904ce|15]], [[latest/TAR.1F58348F79F7#^s-5f7da9f7da38304beb4cf622|22]], [[latest/TAR.1F58348F79F7#^s-7f248e487e357b1e582e4e31|24]], [[latest/TAR.1F58348F79F7#^s-2051b8af144772ba05f6dfa2|28]], [[latest/TAR.1F58348F79F7#^s-3bd882b9c944885f4204c9f4|29]], [[latest/TAR.1F58348F79F7#^s-0c2bad9ab536f2b2b913399d|30]], [[latest/TAR.1F58348F79F7#^s-8d5ce0621f8569230606934b|33]], [[latest/TAR.1F58348F79F7#^s-424d64445b2ad6c8199e0053|351]], [[latest/TAR.1F58348F79F7#^s-859f6a96c2e89137590d0e07|352]], [[latest/TAR.1F58348F79F7#^s-9bdf27fdbebe2c57f4404f49|357]], [[latest/TAR.1F58348F79F7#^s-a7eba5cb5adb0eea82ae8748|358]], [[latest/TAR.1F58348F79F7#^s-4b7a4cf37796fdcdddc472e1|359]], [[latest/TAR.1F58348F79F7#^s-4060ab52b2178d65169c7be3|3510]], [[latest/TAR.1F58348F79F7#^s-d50b6737d06d1bf99288d34e|36]], [[latest/TAR.1F58348F79F7#^s-c39db313671ee38ac81f9e70|37]], [[latest/TAR.1F58348F79F7#^s-5f19a808a95479323b734252|40]] straipsnių, V skyriaus pavadinimo pakeitimo, Įstatymo papildymo 291 straipsniu ir [[#^s-30b159801f86e32eeabfab5f|6 straipsnio]] bei Įstatymo priedo pripažinimo netekusiais galios įstatymo 32 straipsnio 3 dalyje nustatyta tvarka nutraukia dalyvavimą pensijų kaupime, jo pensijų sąskaitoje sukauptų lėšų sumos dalis, susidariusi iš Valstybinio socialinio draudimo fondo biudžeto ir valstybės biudžeto už dalyvį sumokėtų įmokų, pervedama į Valstybinio socialinio draudimo fondo biudžetą ir įskaitoma kaip prašymo nutraukti pensijų kaupimą pateikimo pensijų kaupimo bendrovei metais Valstybinio socialinio draudimo fondo biudžeto gautos asmens pensijų socialinio draudimo įmokos individualiajai pensijos daliai. Už šią sumą apskaitos vienetai apskaičiuojami [[#^s-cbceee0c0397663f22373a75|šio straipsnio 1 dalyje]] nustatyta tvarka, netaikant 5 apskaitos vienetų per metus apribojimo. ^s-c44f38e03663307693464324
 Papildyta straipsnio dalimi:
 Nr. XV-349, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11764
 
@@ -618,7 +618,7 @@ Nr. XIV-2361, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25612
 2. Jeigu išankstinės senatvės pensijos mokėjimas buvo sustabdytas pagal [[#^s-df65034bc5c7857f7a82fcda|šio straipsnio 1 dalį]], asmens prašymu anksčiau paskirtosios išankstinės senatvės pensijos mokėjimas gali būti atnaujintas nuo mėnesio, einančio po to mėnesio, kurį asmuo kreipėsi dėl šios pensijos mokėjimo atnaujinimo, pirmos dienos, jei asmuo atitinka sąlygas išankstinei senatvės pensijai gauti. Ši nuostata taikoma ir atnaujinant išankstinių senatvės pensijų, paskirtų iki šio įstatymo įsigaliojimo, mokėjimą. ^s-62bec470e3669f8b16cc4b61
 
 
-3. Jeigu išankstinės senatvės pensijos sustabdymo laikotarpiu asmuo įgijo papildomo stažo ir apskaitos vienetų, atnaujinus šios pensijos mokėjimą pagal [[#^s-62bec470e3669f8b16cc4b61|šio straipsnio 2 dalį]], ji naujinama šio įstatymo [[#^s-d9f8022d32ab0d88e79feab8|19 straipsnyje]] nustatyta tvarka. Jeigu išankstinė senatvės pensija buvo paskirta iki šio įstatymo įsigaliojimo, atnaujinamas šio įstatymo 45 ir [[#^s-ae1e03dda535ced37cf2becf|48 straipsniuose]] nustatyta tvarka apskaičiuotos pensijos mokėjimas ir pensija naujinama šio įstatymo [[#^s-d9f8022d32ab0d88e79feab8|19 straipsnyje]] nustatyta tvarka. ^s-1ebd0e984a102bfd93040c0a
+3. Jeigu išankstinės senatvės pensijos sustabdymo laikotarpiu asmuo įgijo papildomo stažo ir apskaitos vienetų, atnaujinus šios pensijos mokėjimą pagal [[#^s-62bec470e3669f8b16cc4b61|šio straipsnio 2 dalį]], ji naujinama šio įstatymo [[#^s-d9f8022d32ab0d88e79feab8|19 straipsnyje]] nustatyta tvarka. Jeigu išankstinė senatvės pensija buvo paskirta iki šio įstatymo įsigaliojimo, atnaujinamas šio įstatymo [[#^s-f3e4bd0c130420115fe58c82|45]] ir [[#^s-ae1e03dda535ced37cf2becf|48]] straipsniuose nustatyta tvarka apskaičiuotos pensijos mokėjimas ir pensija naujinama šio įstatymo [[#^s-d9f8022d32ab0d88e79feab8|19 straipsnyje]] nustatyta tvarka. ^s-1ebd0e984a102bfd93040c0a
 
 
 Straipsnio pakeitimai:
@@ -654,7 +654,7 @@ Nr. XIII-3394, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24262
 1. Skiriant negalios (netekto darbingumo) pensiją asmeniui, gavusiam išankstinę senatvės pensiją, negalios (netekto darbingumo) pensijos dydis apskaičiuojamas šio įstatymo nustatyta tvarka ir nemažinamas dėl to, kad asmuo gavo išankstinę senatvės pensiją, išskyrus atvejį, kai išankstinę senatvės pensiją gavusiam asmeniui negalios (netekto darbingumo) pensija buvo paskirta iki senatvės pensijos amžiaus sukakties dienos, tačiau jos mokėjimas tęsiamas jam sukakus senatvės pensijos amžių. Tokiu atveju iki senatvės pensijos amžiaus sukakties dienos asmeniui paskirtos negalios pensijos dydis nuo pirmosios dienos mėnesio, einančio po to mėnesio, kurį asmuo sukako senatvės pensijos amžių, apskaičiuojamas sumažinant jį dydžiu, kuris lygus 0,32 procento šios pensijos, padauginto iš visų mėnesių, kuriais asmuo gavo išankstinę senatvės pensiją, skaičiaus. Šioje dalyje nustatytu atveju negalios pensijos dydis asmeniui sukakus senatvės pensijos amžių nemažinamas, jeigu išankstinę senatvės pensiją asmuo gavo ne ilgiau kaip 3 metus ir jo stažas, skiriant išankstinę senatvės pensiją, įskaitytas pagal šį įstatymą ir Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas, yra ne mažesnis, kaip nurodytas [[#^s-009f9c06a0fd8f9143616d2e|šio straipsnio 2 dalyje]]. ^s-8900ecb0844823f0a85f8f19
 
 
-2. Skiriant senatvės pensiją asmeniui, gavusiam išankstinę senatvės pensiją, senatvės pensijos dydis apskaičiuojamas pagal šio įstatymo 17 ir [[#^s-30369a92ba13d8a0f06b4aee|18 straipsnius]] ir mažinamas dydžiu, kuris lygus 0,32 procento šios pensijos, padauginto iš visų mėnesių, kuriais asmuo gavo išankstinę senatvės pensiją, skaičiaus. Senatvės pensijos dydis nemažinamas, jeigu išankstinę senatvės pensiją asmuo gavo ne ilgiau kaip 3 metus ir jo stažas, skiriant išankstinę senatvės pensiją, įskaitytas pagal šį įstatymą ir Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas, yra ne mažesnis kaip: ^s-009f9c06a0fd8f9143616d2e
+2. Skiriant senatvės pensiją asmeniui, gavusiam išankstinę senatvės pensiją, senatvės pensijos dydis apskaičiuojamas pagal šio įstatymo [[#^s-4d3f26e86ee09cd86ee0684b|17]] ir [[#^s-30369a92ba13d8a0f06b4aee|18]] straipsnius ir mažinamas dydžiu, kuris lygus 0,32 procento šios pensijos, padauginto iš visų mėnesių, kuriais asmuo gavo išankstinę senatvės pensiją, skaičiaus. Senatvės pensijos dydis nemažinamas, jeigu išankstinę senatvės pensiją asmuo gavo ne ilgiau kaip 3 metus ir jo stažas, skiriant išankstinę senatvės pensiją, įskaitytas pagal šį įstatymą ir Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas, yra ne mažesnis kaip: ^s-009f9c06a0fd8f9143616d2e
 
 
 1) 2021 m. ir anksčiau – 40 metų; ^s-9e200ef90950065a52603fd1
@@ -845,7 +845,7 @@ Negalios pensijos bendrosios dalies dydis apskaičiuojamas pagal formulę d · �
 3) jeigu asmuo apskaitos vienetų turi įgijęs iki 24 metų sukakties, į pakaitinių pensijos apskaitos vienetų vidurkio skaičiavimą įtraukiami didžiausi trejų metų apskaitos vienetų dydžiai (jeigu yra tik vienų ar dvejų metų įgyti apskaitos vienetai, kitais dydžiais laikomas nulis). Tokiu atveju įgytų apskaitos vienetų suma dalijama iš tiek metų, kiek praėjo nuo tų metų, kuriais asmeniui sukako 21 metai, pradžios iki dalyvumo lygio nustatymo dienos, bet ne ilgiau kaip iki senatvės pensijos amžiaus sukakties dienos (įskaitant ir atitinkamą dalį metų, kuriais asmeniui nustatytas dalyvumo lygis); ^s-a2ffdae048fdbe463c6e2d80
 
 
-4) pakaitinių pensijos apskaitos vienetų vidurkiu laikomas didesnis iš dydžių, apskaičiuotų pagal šios dalies 2 ar [[#^s-a2ffdae048fdbe463c6e2d80|3 punktą]]. ^s-5de3495c08c4528b49d18615
+4) pakaitinių pensijos apskaitos vienetų vidurkiu laikomas didesnis iš dydžių, apskaičiuotų pagal šios dalies [[#^s-6dda1639a1b1dd83e4264f3c|2]] ar [[#^s-a2ffdae048fdbe463c6e2d80|3]] punktą. ^s-5de3495c08c4528b49d18615
 
 
 4. Nustatant pakaitinių pensijos apskaitos vienetų vidurkį, skaičiavimui naudojami nesumažinti dėl asmens dalyvavimo pensijų kaupime asmens įgyti apskaitos vienetai. ^s-024633bd3767eef3dd57c2da
@@ -881,10 +881,10 @@ Laikinieji pensijos apskaitos vienetai apskaičiuojami kaip skirtumas tarp apska
 1. Kai asmuo, gaunantis pagal šį įstatymą paskirtą negalios (netekto darbingumo) pensiją, apskaičiuotą kaip asmenims, netekusiems 65 procentų ir mažiau dalyvumo (darbingumo), įgyja teisę gauti senatvės pensiją, jam skiriama ir mokama senatvės pensija, kuri apskaičiuojama tokia tvarka: ^s-b1262fa3aedf33f505b253a4
 
 
-1) senatvės pensijos bendroji dalis apskaičiuojama šio įstatymo 17, 23 ir [[#^s-ebf23718ff1f164a94841f26|24 straipsniuose]] nustatyta tvarka, įskaitant į stažą iki senatvės pensijos amžiaus sukakties buvusius negalios (netekto darbingumo) pensijos gavimo metus ir taikant būtinojo stažo reikalavimą, nustatytą senatvės pensijai; ^s-3784f916cc4df842a5345470
+1) senatvės pensijos bendroji dalis apskaičiuojama šio įstatymo [[#^s-4d3f26e86ee09cd86ee0684b|17]], [[#^s-8360233a0c1774bde3bf246d|23]] ir [[#^s-ebf23718ff1f164a94841f26|24]] straipsniuose nustatyta tvarka, įskaitant į stažą iki senatvės pensijos amžiaus sukakties buvusius negalios (netekto darbingumo) pensijos gavimo metus ir taikant būtinojo stažo reikalavimą, nustatytą senatvės pensijai; ^s-3784f916cc4df842a5345470
 
 
-2) senatvės pensijos individualioji dalis apskaičiuojama šio įstatymo 18, 23 ir [[#^s-ebf23718ff1f164a94841f26|24 straipsniuose]] nustatyta tvarka, asmens įgytais apskaitos vienetais laikant dydį, apskaičiuotą pagal šio įstatymo 12, 13 ir [[#^s-8533c84cfc33e8e9976d364b|51 straipsnius]], o jeigu asmuo netekto darbingumo (invalidumo) pensiją gavo 2017 m. gruodžio mėnesį, – pagal šio įstatymo 12, 13 ir [[#^s-912c1a8cefab7bd235d6ed80|47 straipsnius]], neįskaitant laikinųjų pensijos apskaitos vienetų. ^s-3989686b7d351c91f14464e4
+2) senatvės pensijos individualioji dalis apskaičiuojama šio įstatymo [[#^s-30369a92ba13d8a0f06b4aee|18]], [[#^s-8360233a0c1774bde3bf246d|23]] ir [[#^s-ebf23718ff1f164a94841f26|24]] straipsniuose nustatyta tvarka, asmens įgytais apskaitos vienetais laikant dydį, apskaičiuotą pagal šio įstatymo [[#^s-adda35034e938fa34964dd6a|12]], [[#^s-015f93aa50a137208a902a1e|13]] ir [[#^s-8533c84cfc33e8e9976d364b|51]] straipsnius, o jeigu asmuo netekto darbingumo (invalidumo) pensiją gavo 2017 m. gruodžio mėnesį, – pagal šio įstatymo [[#^s-adda35034e938fa34964dd6a|12]], [[#^s-015f93aa50a137208a902a1e|13]] ir [[#^s-912c1a8cefab7bd235d6ed80|47]] straipsnius, neįskaitant laikinųjų pensijos apskaitos vienetų. ^s-3989686b7d351c91f14464e4
 
 
 2. Kai asmuo, gaunantis pagal šį įstatymą paskirtą negalios (netekto darbingumo) pensiją, apskaičiuotą kaip asmenims, netekusiems 70 procentų ir daugiau dalyvumo (darbingumo), įgyja teisę gauti senatvės pensiją, jam skiriama ir mokama senatvės pensija asmeniui su negalia, kuri apskaičiuojama tokia tvarka: ^s-3e9a5704d2a2244490c7524c
@@ -896,7 +896,7 @@ Laikinieji pensijos apskaitos vienetai apskaičiuojami kaip skirtumas tarp apska
 2) senatvės pensijos asmeniui su negalia individualioji dalis apskaičiuojama [[#^s-b1262fa3aedf33f505b253a4|šio straipsnio 1 dalyje]] nustatyta tvarka apskaičiuotą senatvės pensijos individualiosios dalies dydį dauginant iš netekto dalyvumo lygio daugiklio d (šio įstatymo 3 priedas), pagal kurį iki senatvės pensijos amžiaus sukakties buvo apskaičiuota negalios (netekto darbingumo) pensija; ^s-0b4e4fa91307eea51db11f69
 
 
-3) pagal [[#^s-3e9a5704d2a2244490c7524c|šio straipsnio 2 dalies]] 1 ir [[#^s-0b4e4fa91307eea51db11f69|2 punktus]] apskaičiuota senatvės pensija asmeniui su negalia, kuriam darbingumo lygis buvo nustatytas iki senatvės pensijos amžiaus sukakties, mokama neterminuotai. Kai šiam asmeniui dalyvumo lygis nustatomas po senatvės pensijos amžiaus sukakties dienos, senatvės pensija asmeniui su negalia mokama vadovaujantis šio straipsnio 4 ir [[#^s-06ca1b528af368d4bf01408d|5 dalių]] nuostatomis. Kai asmeniui iki senatvės pensijos amžiaus sukakties nustatyto dalyvumo lygio terminas baigiasi po senatvės pensijos amžiaus sukakties dienos, senatvės pensija asmeniui su negalia mokama vadovaujantis šio straipsnio 4 ir [[#^s-06ca1b528af368d4bf01408d|5 dalių]] nuostatomis. ^s-f8694bbf3359011f4960d7f4
+3) pagal [[#^s-3e9a5704d2a2244490c7524c|šio straipsnio 2 dalies]] [[#^s-c01b863ba007103dc9d56835|1]] ir [[#^s-0b4e4fa91307eea51db11f69|2]] punktus apskaičiuota senatvės pensija asmeniui su negalia, kuriam darbingumo lygis buvo nustatytas iki senatvės pensijos amžiaus sukakties, mokama neterminuotai. Kai šiam asmeniui dalyvumo lygis nustatomas po senatvės pensijos amžiaus sukakties dienos, senatvės pensija asmeniui su negalia mokama vadovaujantis šio straipsnio [[#^s-e9d015a5deb2e46b9a4366f2|4]] ir [[#^s-06ca1b528af368d4bf01408d|5]] dalių nuostatomis. Kai asmeniui iki senatvės pensijos amžiaus sukakties nustatyto dalyvumo lygio terminas baigiasi po senatvės pensijos amžiaus sukakties dienos, senatvės pensija asmeniui su negalia mokama vadovaujantis šio straipsnio [[#^s-e9d015a5deb2e46b9a4366f2|4]] ir [[#^s-06ca1b528af368d4bf01408d|5]] dalių nuostatomis. ^s-f8694bbf3359011f4960d7f4
 
 
 3. Kai senatvės pensijos gavėjas po senatvės pensijos paskyrimo pripažįstamas asmeniu su negalia ir jam nustatomas 70 procentų ir didesnis netekto dalyvumo lygis, jam nuo dalyvumo lygio nustatymo dienos be jo prašymo, jeigu jam tai naudinga, pradedama mokėti senatvės pensija asmeniui su negalia, kuri apskaičiuojama tokia tvarka: ^s-cbe459be6b258148b6ed83a2
@@ -917,7 +917,7 @@ Laikinieji pensijos apskaitos vienetai apskaičiuojami kaip skirtumas tarp apska
 2) mažesnis kaip 70 procentų netekto dalyvumo lygis, asmeniui, jeigu jam tai naudinga, be asmens prašymo nuo mažesnio netekto dalyvumo lygio (procentais) nustatymo dienos, o jeigu senatvės pensija asmeniui su negalia už tą mėnesį jau išmokėta, – nuo kito mėnesio pirmos dienos atnaujinamas senatvės pensijos mokėjimas, jeigu asmeniui iki dalyvumo lygio nustatymo dienos senatvės pensija buvo paskirta. Jeigu asmeniui nustatomas mažesnis, negu buvo nustatytas, netekto dalyvumo lygis (procentais), tačiau didesnis kaip 70 procentų netekto dalyvumo lygis, jam mokama senatvės pensija asmeniui su negalia, apskaičiuota pagal nustatytą netekto dalyvumo lygį (procentais). ^s-0e711fe302402429ef5dc700
 
 
-5. Šio straipsnio 3 ir [[#^s-e9d015a5deb2e46b9a4366f2|4 dalyse]] nustatyta tvarka apskaičiuotos senatvės pensijos asmeniui su negalia mokamos iki nustatyto dalyvumo lygio termino pabaigos. Pasibaigus šiam terminui, asmens prašymu skiriama ir pradedama mokėti senatvės pensija, jeigu ji nebuvo paskirta, arba be asmens prašymo atnaujinamas anksčiau paskirtos senatvės pensijos mokėjimas. Jeigu senatvės pensijos gavėjui vėl nustatomas 70 procentų ir didesnis netekto dalyvumo lygis, jam, vadovaujantis [[#^s-cbe459be6b258148b6ed83a2|šio straipsnio 3 dalimi]], pradedama mokėti senatvės pensija asmeniui su negalia. ^s-06ca1b528af368d4bf01408d
+5. Šio straipsnio [[#^s-cbe459be6b258148b6ed83a2|3]] ir [[#^s-e9d015a5deb2e46b9a4366f2|4]] dalyse nustatyta tvarka apskaičiuotos senatvės pensijos asmeniui su negalia mokamos iki nustatyto dalyvumo lygio termino pabaigos. Pasibaigus šiam terminui, asmens prašymu skiriama ir pradedama mokėti senatvės pensija, jeigu ji nebuvo paskirta, arba be asmens prašymo atnaujinamas anksčiau paskirtos senatvės pensijos mokėjimas. Jeigu senatvės pensijos gavėjui vėl nustatomas 70 procentų ir didesnis netekto dalyvumo lygis, jam, vadovaujantis [[#^s-cbe459be6b258148b6ed83a2|šio straipsnio 3 dalimi]], pradedama mokėti senatvės pensija asmeniui su negalia. ^s-06ca1b528af368d4bf01408d
 
 
 6. Senatvės pensija asmeniui su negalia (senatvės pensija neįgaliajam) naujinama šio įstatymo [[#^s-d9f8022d32ab0d88e79feab8|19 straipsnyje]] nustatyta tvarka. Jeigu senatvės pensijos ar senatvės pensijos asmeniui su negalia mokėjimo sustabdymo laikotarpiu asmuo įgijo papildomo stažo ir apskaitos vienetų, atnaujinus šios pensijos mokėjimą pagal [[#^s-0e711fe302402429ef5dc700|šio straipsnio 4 dalies 2 punktą]] ar [[#^s-06ca1b528af368d4bf01408d|šio straipsnio 5 dalį]], ji naujinama šio įstatymo [[#^s-d9f8022d32ab0d88e79feab8|19 straipsnyje]] nustatyta tvarka. ^s-5abc6f32f48fb582c6bd71c7
@@ -936,7 +936,7 @@ NAŠLIŲ IR NAŠLAIČIŲ PENSIJOS
 ### 35 straipsnis. Teisė gauti našlių ir našlaičių pensiją ^s-37fa706f93454b00e769633c
 
 
-1. Teisę gauti našlių ir našlaičių pensiją turi šio įstatymo 36 ir [[#^s-a0ac7559fb5815c4a6351bb9|38 straipsniuose]] nurodyti mirusio (paskelbto mirusiu) asmens sutuoktinis ir vaikai (įvaikiai), jeigu asmuo mirties (paskelbimo mirusiu) dieną atitiko šias sąlygas: ^s-cdc4e6fb860b7d510e220adf
+1. Teisę gauti našlių ir našlaičių pensiją turi šio įstatymo [[#^s-3c50246512d269ab920f3de0|36]] ir [[#^s-a0ac7559fb5815c4a6351bb9|38]] straipsniuose nurodyti mirusio (paskelbto mirusiu) asmens sutuoktinis ir vaikai (įvaikiai), jeigu asmuo mirties (paskelbimo mirusiu) dieną atitiko šias sąlygas: ^s-cdc4e6fb860b7d510e220adf
 
 
 1) buvo įgijęs teisę gauti negalios, netekto darbingumo, invalidumo ar senatvės pensiją (atsižvelgiant į mirusio (paskelbto mirusiu) asmens amžių) arba gavo vieną iš šių pensijų; ^s-df3b4a105950a050e83be3a9
@@ -1099,7 +1099,7 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 
 
-5. Jeigu pateikiami papildomi laikotarpių, buvusių iki pensijos paskyrimo, stažo ir (ar) darbo užmokesčio duomenys, asmens senatvės, senatvės pensijos asmeniui su negalia, negalios ar netekto darbingumo pensijos bendroji ir (ar) individualioji dalys (šio įstatymo 17, 18, 29, 30 ir [[#^s-5588e0dd4927669d9163f666|34 straipsniai]]) nustatomos iš naujo, atsižvelgiant į papildomus stažo ir (ar) darbo užmokesčio duomenis. ^s-e899bc35c7f055154d70a832
+5. Jeigu pateikiami papildomi laikotarpių, buvusių iki pensijos paskyrimo, stažo ir (ar) darbo užmokesčio duomenys, asmens senatvės, senatvės pensijos asmeniui su negalia, negalios ar netekto darbingumo pensijos bendroji ir (ar) individualioji dalys (šio įstatymo [[#^s-4d3f26e86ee09cd86ee0684b|17]], [[#^s-30369a92ba13d8a0f06b4aee|18]], [[#^s-51d5cf73500e68622d992650|29]], [[#^s-12b7f7ce8d929a9b09f43ad8|30]] ir [[#^s-5588e0dd4927669d9163f666|34]] straipsniai) nustatomos iš naujo, atsižvelgiant į papildomus stažo ir (ar) darbo užmokesčio duomenis. ^s-e899bc35c7f055154d70a832
 Straipsnio dalies pakeitimai:
 Nr. XIV-2361, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25612
 
@@ -1169,10 +1169,10 @@ Nr. XIV-2361, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25612
 4. Našlių ar našlaičių pensijos gavėjui, persikėlusiam gyventi į užsienio valstybę, kurioje jam netaikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos dėl pensijų mokėjimo, paskirtoji našlių ar našlaičių pensija mokama, jei mirusysis (paskelbtas mirusiu) atitiko šio įstatymo [[#^s-76d2852b8abbdafabc340e00|35 straipsnio 4 dalyje]] nurodytas sąlygas. Jeigu našlių pensija, paskirta iki 2007 m. sausio 1 d., ar našlaičių pensija buvo paskirta už mirusiojo (paskelbto mirusiu) įgytą minimalųjį stažą atitinkamos rūšies pensijai gauti dirbant Lietuvos įmonėse, tačiau į jo stažą buvo įskaityti laikotarpiai, įgyti dirbant užsienio valstybėse, našlių ar našlaičių pensija perskaičiuojama [[#^s-43250598b61fb0e15a58ab8d|šio straipsnio 3 dalyje]] nustatyta tvarka pagal mirusiojo (paskelbto mirusiu) stažo, įgyto dirbant Lietuvos įmonėse, duomenis ir mokama perskaičiuota pensija. ^s-111fbccda480a8897a3a7150
 
 
-5. Kitais atvejais užsienio valstybėje gyvenančiam asmeniui, neatitinkančiam šio straipsnio 2, 3 ir [[#^s-111fbccda480a8897a3a7150|4 dalyse]] nustatytų sąlygų, pensija mokama dar šešis mėnesius po asmens išvykimo mėnesio ir po to jos mokėjimas nutraukiamas. ^s-818e20d3a18d7946d7731dfa
+5. Kitais atvejais užsienio valstybėje gyvenančiam asmeniui, neatitinkančiam šio straipsnio [[#^s-14f4f781c2c6d3c2ad55ada1|2]], [[#^s-43250598b61fb0e15a58ab8d|3]] ir [[#^s-111fbccda480a8897a3a7150|4]] dalyse nustatytų sąlygų, pensija mokama dar šešis mėnesius po asmens išvykimo mėnesio ir po to jos mokėjimas nutraukiamas. ^s-818e20d3a18d7946d7731dfa
 
 
-6. Šio straipsnio 2, 3, 4 ir [[#^s-818e20d3a18d7946d7731dfa|5 dalių]] nuostatos dėl pensijos mokėjimo pensijos gavėjui persikėlus gyventi į užsienio valstybę taikomos tik tais atvejais, kai pensijos gavėjas išvyksta į užsienio valstybę, kurioje jam netaikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos dėl pensijų mokėjimo. Lietuvos Respublikai prisijungus prie tarptautinių konvencijų arba sudarius tarptautines sutartis dėl pensijų mokėjimo, pensija mokama taip, kaip nustatyta tarptautinėse konvencijose arba sutartyse. ^s-16e547db161fd3fd3842f0a8
+6. Šio straipsnio [[#^s-14f4f781c2c6d3c2ad55ada1|2]], [[#^s-43250598b61fb0e15a58ab8d|3]], [[#^s-111fbccda480a8897a3a7150|4]] ir [[#^s-818e20d3a18d7946d7731dfa|5]] dalių nuostatos dėl pensijos mokėjimo pensijos gavėjui persikėlus gyventi į užsienio valstybę taikomos tik tais atvejais, kai pensijos gavėjas išvyksta į užsienio valstybę, kurioje jam netaikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos dėl pensijų mokėjimo. Lietuvos Respublikai prisijungus prie tarptautinių konvencijų arba sudarius tarptautines sutartis dėl pensijų mokėjimo, pensija mokama taip, kaip nustatyta tarptautinėse konvencijose arba sutartyse. ^s-16e547db161fd3fd3842f0a8
 
 
 Straipsnio pakeitimai:
@@ -1256,7 +1256,7 @@ Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
 3. Jei asmens draudžiamųjų pajamų koeficientas už laikotarpį iki 1994 metų buvo padidintas taikant senatvės ir invalidumo pensijų padidinimo nuo 2004 m. kovo 1 d. nuostatas, taikant šio straipsnio nuostatas sandaugai apskaičiuoti imamas padidintas koeficientas. ^s-31b811111a0e66a035bd8140
 
 
-4. Jei nuo paskutinio senatvės pensijos, paskirtos po 1995 m. sausio 1 d., skyrimo iki 2017 m. gruodžio 31 d. asmuo turėjo draudžiamųjų pajamų, stažo ir asmens draudžiamųjų pajamų koeficiento duomenys atnaujinami atsižvelgiant į šias draudžiamąsias pajamas. Naujinant stažo duomenis, įskaitomi tik tie stažo laikotarpiai, kurie pagal teisės aktų nuostatas, galiojusias iki 2017 m. gruodžio 31 d., iki šios datos buvo įgyti dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu (stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu iki 2017 m. gruodžio 31 d., toliau šio įstatymo 47 ir [[#^s-8533c84cfc33e8e9976d364b|51 straipsniuose]] vadinamas stažu). Atnaujinti duomenys taikomi apskaičiuojant apskaitos vienetų skaičių pagal šio straipsnio 1 ir [[#^s-fffd81cac674b614f06ec3b4|2 dalis]] tik tuo atveju, jei pagal atnaujintus duomenis apskaičiuotas apskaitos vienetų skaičius didesnis už apskaičiuotąjį pagal neatnaujintus (taikytus 2017 m. gruodžio mėn.) duomenis. ^s-b9f63c8b1713cbc1ee994846
+4. Jei nuo paskutinio senatvės pensijos, paskirtos po 1995 m. sausio 1 d., skyrimo iki 2017 m. gruodžio 31 d. asmuo turėjo draudžiamųjų pajamų, stažo ir asmens draudžiamųjų pajamų koeficiento duomenys atnaujinami atsižvelgiant į šias draudžiamąsias pajamas. Naujinant stažo duomenis, įskaitomi tik tie stažo laikotarpiai, kurie pagal teisės aktų nuostatas, galiojusias iki 2017 m. gruodžio 31 d., iki šios datos buvo įgyti dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu (stažas, įgytas dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu iki 2017 m. gruodžio 31 d., toliau šio įstatymo [[#^s-912c1a8cefab7bd235d6ed80|47]] ir [[#^s-8533c84cfc33e8e9976d364b|51]] straipsniuose vadinamas stažu). Atnaujinti duomenys taikomi apskaičiuojant apskaitos vienetų skaičių pagal šio straipsnio [[#^s-1942f920e34b3b8d76bc8f35|1]] ir [[#^s-fffd81cac674b614f06ec3b4|2]] dalis tik tuo atveju, jei pagal atnaujintus duomenis apskaičiuotas apskaitos vienetų skaičius didesnis už apskaičiuotąjį pagal neatnaujintus (taikytus 2017 m. gruodžio mėn.) duomenis. ^s-b9f63c8b1713cbc1ee994846
 Straipsnio dalies pakeitimai:
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
@@ -1265,7 +1265,7 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 5. Asmens įgytu apskaitos vienetų skaičiumi šio įstatymo įsigaliojimo dieną laikomas šiame straipsnyje nurodyta tvarka apskaičiuotas asmens įgytų apskaitos vienetų skaičius 2017 m. gruodžio 31 d., padaugintas iš koregavimo koeficiento 0,78. ^s-6a27b3578d80d483e685fa86
 
 
-6. Jei pensija, apskaičiuota šiame, 45 ir [[#^s-ae1e03dda535ced37cf2becf|48 straipsniuose]] nustatyta tvarka, yra mažesnė už mokėtąją senatvės pensiją, toliau tęsiamas anksčiau paskirto dydžio papildomos pensijos dalies mokėjimas. Tokiu atveju individualiąja pensijos dalimi laikomas 2017 m. gruodį mokėtos senatvės pensijos papildomos pensijos dalies dydis. ^s-b5a199e6dcf549d8f76c2743
+6. Jei pensija, apskaičiuota šiame, [[#^s-f3e4bd0c130420115fe58c82|45]] ir [[#^s-ae1e03dda535ced37cf2becf|48]] straipsniuose nustatyta tvarka, yra mažesnė už mokėtąją senatvės pensiją, toliau tęsiamas anksčiau paskirto dydžio papildomos pensijos dalies mokėjimas. Tokiu atveju individualiąja pensijos dalimi laikomas 2017 m. gruodį mokėtos senatvės pensijos papildomos pensijos dalies dydis. ^s-b5a199e6dcf549d8f76c2743
 Straipsnio dalies pakeitimai:
 Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
 
@@ -1312,7 +1312,7 @@ Nr. XIV-458, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15455
 
 
 
-4. Jei asmuo iki netekto darbingumo pensijos paskyrimo pagal Lietuvos Respublikos pensijų sistemos reformos įstatymą (toliau – Pensijų sistemos reformos įstatymas) buvo pasirinkęs dalyvavimą pensijų kaupime, jam apskaičiuojamas iki šio įstatymo įsigaliojimo buvusia tvarka sumažintas dėl dalyvavimo kaupime asmens draudžiamųjų pajamų koeficientas k. Įgytų 2017 m. gruodžio 31 d. apskaitos vienetų skaičiumi šiuo atveju laikoma sandauga S1 · k + S2 · K ([[#^s-79fdb4697c386f4436c9f035|šio straipsnio 2 dalyje]] nurodytu atveju – S4 · K4 + S5 · k + S2 · K; jeigu asmuo yra įgijęs stažo iki 1994 metų, bet pensija 2017 m. gruodį buvo mokama tik pagal draudžiamųjų pajamų koeficientą už laikotarpį nuo 1994 metų, - sandauga S4 × K + S5 × k + S2 × K), o laikinųjų pensijos apskaitos vienetų skaičiumi – sandauga S5 · (K – k). ^s-679cef842f40252f2399e1e3
+4. Jei asmuo iki netekto darbingumo pensijos paskyrimo pagal Lietuvos Respublikos pensijų sistemos reformos įstatymą (toliau – [Pensijų sistemos reformos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8)) buvo pasirinkęs dalyvavimą pensijų kaupime, jam apskaičiuojamas iki šio įstatymo įsigaliojimo buvusia tvarka sumažintas dėl dalyvavimo kaupime asmens draudžiamųjų pajamų koeficientas k. Įgytų 2017 m. gruodžio 31 d. apskaitos vienetų skaičiumi šiuo atveju laikoma sandauga S1 · k + S2 · K ([[#^s-79fdb4697c386f4436c9f035|šio straipsnio 2 dalyje]] nurodytu atveju – S4 · K4 + S5 · k + S2 · K; jeigu asmuo yra įgijęs stažo iki 1994 metų, bet pensija 2017 m. gruodį buvo mokama tik pagal draudžiamųjų pajamų koeficientą už laikotarpį nuo 1994 metų, - sandauga S4 × K + S5 × k + S2 × K), o laikinųjų pensijos apskaitos vienetų skaičiumi – sandauga S5 · (K – k). ^s-679cef842f40252f2399e1e3
 Straipsnio dalies pakeitimai:
 Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
 Straipsnio dalies numeracijos pakeitimas:
@@ -1391,7 +1391,7 @@ Nr. XIV-458, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15455
 ### 50 straipsnis. Iki šio įstatymo įsigaliojimo paskirtų senatvės ir netekto darbingumo (invalidumo) pensijų dydžių tikslinimas ^s-92afdfd83f0344a49587e917
 
 
-1. Jei pateikiami papildomi stažo ir (ar) darbo užmokesčio duomenys už laikotarpius, buvusius iki pensijos paskyrimo, asmens, kuriam senatvės ar netekto darbingumo (invalidumo) pensija buvo paskirta iki šio įstatymo įsigaliojimo, pensijos bendroji ir (ar) individualioji dalys (šio įstatymo 45, 46, 47 ir [[#^s-ae1e03dda535ced37cf2becf|48 straipsniai]]) nustatomos iš naujo, atsižvelgiant į papildomus stažo ir (ar) darbo užmokesčio (asmens draudžiamųjų pajamų koeficiento) duomenis. Duomenis apie iki 1994 m. sausio 1 d. turėtą darbo užmokestį galima pateikti tik tuo atveju, jeigu 2017 m. gruodžio 31 d. pagal tuo metu galiojusių teisės aktų nuostatas senatvės ar netekto darbingumo (invalidumo) pensijos papildoma dalis buvo sudaryta iš dviejų atskirų dalių. ^s-83617d561cda3ce8269a8f8d
+1. Jei pateikiami papildomi stažo ir (ar) darbo užmokesčio duomenys už laikotarpius, buvusius iki pensijos paskyrimo, asmens, kuriam senatvės ar netekto darbingumo (invalidumo) pensija buvo paskirta iki šio įstatymo įsigaliojimo, pensijos bendroji ir (ar) individualioji dalys (šio įstatymo [[#^s-f3e4bd0c130420115fe58c82|45]], [[#^s-1a2168dd17e848c899f71507|46]], [[#^s-912c1a8cefab7bd235d6ed80|47]] ir [[#^s-ae1e03dda535ced37cf2becf|48]] straipsniai) nustatomos iš naujo, atsižvelgiant į papildomus stažo ir (ar) darbo užmokesčio (asmens draudžiamųjų pajamų koeficiento) duomenis. Duomenis apie iki 1994 m. sausio 1 d. turėtą darbo užmokestį galima pateikti tik tuo atveju, jeigu 2017 m. gruodžio 31 d. pagal tuo metu galiojusių teisės aktų nuostatas senatvės ar netekto darbingumo (invalidumo) pensijos papildoma dalis buvo sudaryta iš dviejų atskirų dalių. ^s-83617d561cda3ce8269a8f8d
 
 
 2. Jei atsižvelgiant į naujai pateiktus duomenis senatvės ar netekto darbingumo (invalidumo) pensijos bendrosios ir (ar) individualiosios dalių dydžiai padidėja, naujo dydžio senatvės ar netekto darbingumo (invalidumo) pensijos bendroji ir (ar) individualioji dalys (dalis) pradedamos (pradedama) mokėti nuo mėnesio, einančio po to mėnesio, kurį asmuo pateikė naujus duomenis (visus būtinus dokumentus), pirmos dienos. ^s-d6f89e34129403bb50ed54c9
@@ -1426,7 +1426,7 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
 
 
-2. Kai visas asmens stažas yra įgytas iki 1994 m. sausio 1 d., jo įgytų apskaitos vienetų skaičiumi laikomas dydis S2, suapvalintas iki dviejų skaitmenų po kablelio. Kai, apskaičiuojant apskaitos vienetų skaičių pagal šio straipsnio 1 ir [[#^s-334404dd2eb756dc42acf88b|3 dalis]], sandauga (AV1 : S1) S2 yra mažesnė už dydį S2, suapvalintą dviejų skaitmenų po kablelio tikslumu, asmens įgytų apskaitos vienetų skaičius apskaičiuojamas pagal formulę AV1 + S2 (pensijų kaupimo dalyviams – pagal formulę AV2 + S2). ^s-a99919203d3305b270f01df9
+2. Kai visas asmens stažas yra įgytas iki 1994 m. sausio 1 d., jo įgytų apskaitos vienetų skaičiumi laikomas dydis S2, suapvalintas iki dviejų skaitmenų po kablelio. Kai, apskaičiuojant apskaitos vienetų skaičių pagal šio straipsnio [[#^s-1111108beb93d54540e0ac57|1]] ir [[#^s-334404dd2eb756dc42acf88b|3]] dalis, sandauga (AV1 : S1) S2 yra mažesnė už dydį S2, suapvalintą dviejų skaitmenų po kablelio tikslumu, asmens įgytų apskaitos vienetų skaičius apskaičiuojamas pagal formulę AV1 + S2 (pensijų kaupimo dalyviams – pagal formulę AV2 + S2). ^s-a99919203d3305b270f01df9
 Papildyta straipsnio dalimi:
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 
@@ -1478,7 +1478,7 @@ Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
 1. Asmeniui, kuriam netekto darbingumo pensija buvo paskirta pagal šį įstatymą arba paskirta iš naujo, pasikeitus netekto darbingumo procentams (šio įstatymo [[#^s-6528c69727c34727f1673fa9|49 straipsnis]]), įgijus teisę gauti senatvės pensiją, ji apskaičiuojama pagal šio įstatymo [[#^s-5588e0dd4927669d9163f666|34 straipsnį]]. ^s-6b8dd541b1ce17d08f9fac8c
 
 
-2. Asmeniui, kuriam netekto darbingumo (invalidumo) pensija buvo paskirta iki šio įstatymo įsigaliojimo ir mokama pagal šio įstatymo [[#^s-5edaec68d5ed11a80d58bceb|45 straipsnio 5 dalį]] bei [[#^s-818786462d60fde40f847bdd|48 straipsnio 3 dalį]], įgijus teisę gauti senatvės pensiją, ji apskaičiuojama šio straipsnio 3, 4 ir [[#^s-d49673ee138af0d4fa3987ae|5 dalyse]] nustatyta tvarka. ^s-e95290ad08792859cbb5082b
+2. Asmeniui, kuriam netekto darbingumo (invalidumo) pensija buvo paskirta iki šio įstatymo įsigaliojimo ir mokama pagal šio įstatymo [[#^s-5edaec68d5ed11a80d58bceb|45 straipsnio 5 dalį]] bei [[#^s-818786462d60fde40f847bdd|48 straipsnio 3 dalį]], įgijus teisę gauti senatvės pensiją, ji apskaičiuojama šio straipsnio [[#^s-818786462d60fde40f847bdd|3]], 4 ir 5 dalyse nustatyta tvarka. ^s-e95290ad08792859cbb5082b
 
 
 3. Bendroji pensijos dalis apskaičiuojama pagal šio įstatymo [[#^s-4d3f26e86ee09cd86ee0684b|17 straipsnį]], įskaitant į stažą visą iki netekto darbingumo (invalidumo) pensijos skyrimo asmens turėtą stažą, taip pat visą netekto darbingumo (invalidumo) pensijos gavimo laikotarpį iki senatvės pensijos amžiaus sukakties ir taikant būtinojo stažo reikalavimus, nustatytus senatvės pensijai. ^s-8167f6bd60dfac78fb57477e
@@ -1529,10 +1529,10 @@ Nr. XIII-3395, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24263
 1. Asmeniui, iki šio įstatymo įsigaliojimo atidėjusiam pensijos skyrimą (dar nepradėjus gauti pensijos), senatvės pensija skiriama pagal šį įstatymą pasibaigus sutartam atidėjimo laikotarpiui, didinant 8 procentais už kiekvienus atidėjimo metus, bet ne daugiau kaip už 5 metus. ^s-1cb6845c0037dffbf97b4b57
 
 
-2. Asmeniui, iki šio įstatymo įsigaliojimo atidėjusiam jau gaunamos pensijos mokėjimą, senatvės pensija pasibaigus sutartam atidėjimo laikotarpiui mokama pagal šį įstatymą, didinant 8 procentais už kiekvienus atidėjimo metus, bet ne daugiau kaip už 5 metus. Jei iki šio įstatymo įsigaliojimo atidėjus jau gaunamos pensijos mokėjimą buvo taikomi skirtingi pensijos didinimo už atidėtą kreipimąsi procentai, senatvės pensijos bendroji ir individualioji dalys, apskaičiuotos šio įstatymo 45 ir [[#^s-1a2168dd17e848c899f71507|46 straipsniuose]] nustatyta tvarka, didinamos tiek procentų, kiek buvo padidinta iki šio įstatymo įsigaliojimo mokėta senatvės pensija. ^s-dd27091da5e26800028d8949
+2. Asmeniui, iki šio įstatymo įsigaliojimo atidėjusiam jau gaunamos pensijos mokėjimą, senatvės pensija pasibaigus sutartam atidėjimo laikotarpiui mokama pagal šį įstatymą, didinant 8 procentais už kiekvienus atidėjimo metus, bet ne daugiau kaip už 5 metus. Jei iki šio įstatymo įsigaliojimo atidėjus jau gaunamos pensijos mokėjimą buvo taikomi skirtingi pensijos didinimo už atidėtą kreipimąsi procentai, senatvės pensijos bendroji ir individualioji dalys, apskaičiuotos šio įstatymo [[#^s-f3e4bd0c130420115fe58c82|45]] ir [[#^s-1a2168dd17e848c899f71507|46]] straipsniuose nustatyta tvarka, didinamos tiek procentų, kiek buvo padidinta iki šio įstatymo įsigaliojimo mokėta senatvės pensija. ^s-dd27091da5e26800028d8949
 
 
-3. Jei asmeniui iki šio įstatymo įsigaliojimo buvo paskirta ir mokama senatvės pensija atidėjus kreipimąsi, senatvės pensijos bendroji ir individualioji dalys, apskaičiuotos šio įstatymo 45 ir [[#^s-1a2168dd17e848c899f71507|46 straipsniuose]] nustatyta tvarka, didinamos tiek procentų, kiek buvo padidinta iki šio įstatymo įsigaliojimo paskirta ir mokėta senatvės pensija. ^s-e44030e129c90318ef0b7421
+3. Jei asmeniui iki šio įstatymo įsigaliojimo buvo paskirta ir mokama senatvės pensija atidėjus kreipimąsi, senatvės pensijos bendroji ir individualioji dalys, apskaičiuotos šio įstatymo [[#^s-f3e4bd0c130420115fe58c82|45]] ir [[#^s-1a2168dd17e848c899f71507|46]] straipsniuose nustatyta tvarka, didinamos tiek procentų, kiek buvo padidinta iki šio įstatymo įsigaliojimo paskirta ir mokėta senatvės pensija. ^s-e44030e129c90318ef0b7421
 
 
 
@@ -1612,7 +1612,7 @@ Nr. XIV-2361, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25612
 2. Asmenims, nurodytiems [[#^s-036169b05f3deddc49320021|šio straipsnio 1 dalyje]], po šio įstatymo įsigaliojimo įgijusiems apskaitos vienetų, nuo kiekvienų kalendorinių metų sausio 1 dienos, pradedant 2019 metais, pensijų dydžiai naujinami, pridedant asmens įgytų apskaitos vienetų skaičiaus ([[#^s-036169b05f3deddc49320021|šio straipsnio 1 dalis]]) ir galiojančios apskaitos vieneto vertės sandaugos dydį. Naujas netekto darbingumo ar invalidumo pensijos dydis, atnaujintas atsižvelgiant į praėjusiais kalendoriniais metais asmens įgytų apskaitos vienetų skaičių, apskaičiuojamas ir naujo dydžio netekto darbingumo ar invalidumo pensija pradedama mokėti ne vėliau kaip atitinkamų kalendorinių metų liepos mėnesį. Kartu su naujo dydžio netekto darbingumo ar invalidumo pensija gavėjui išmokamas nuo kalendorinių metų sausio 1 dienos susidaręs netekto darbingumo ar invalidumo pensijų dydžių skirtumas. ^s-3a0379969fc6920e10e946dc
 
 
-3. Senatvės pensijų, paskirtų iki šio įstatymo įsigaliojimo, dydžiai, apskaičiuoti šio įstatymo [[#^s-f3e4bd0c130420115fe58c82|45 straipsnio]] 1–4 dalyse, [[#^s-1a2168dd17e848c899f71507|46 straipsnio]] 1–5 dalyse bei [[#^s-ae1e03dda535ced37cf2becf|48 straipsnio]] 1 ir [[#^s-3a0379969fc6920e10e946dc|2 dalyse]] nustatyta tvarka, naujinami šio įstatymo [[#^s-d9f8022d32ab0d88e79feab8|19 straipsnyje]] nustatyta tvarka. ^s-96dc4e461ea5a0f9c28a8a0d
+3. Senatvės pensijų, paskirtų iki šio įstatymo įsigaliojimo, dydžiai, apskaičiuoti šio įstatymo [[#^s-f3e4bd0c130420115fe58c82|45 straipsnio]] [[#^s-1cbf3d617b16badeae90f4c7|1]]–[[#^s-c042733902b73bb6418f85ef|4]] dalyse, [[#^s-1a2168dd17e848c899f71507|46 straipsnio]] [[#^s-1942f920e34b3b8d76bc8f35|1]]–[[#^s-6a27b3578d80d483e685fa86|5]] dalyse bei [[#^s-ae1e03dda535ced37cf2becf|48 straipsnio]] [[#^s-310da8ec549043714c63d99c|1]] ir [[#^s-7bd6e2f8769e7dc68327a2cf|2]] dalyse nustatyta tvarka, naujinami šio įstatymo [[#^s-d9f8022d32ab0d88e79feab8|19 straipsnyje]] nustatyta tvarka. ^s-96dc4e461ea5a0f9c28a8a0d
 
 
 Straipsnio pakeitimai:
@@ -1626,7 +1626,7 @@ Nr. XIII-1728, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20993
 1. Asmeniui mokama pensija, paskirta iki 1994 m. gruodžio 31 d. ir neperskaičiuota pagal nuo 1995 m. sausio 1 d. galiojusį Pensijų įstatymą (toliau – neperskaičiuota pensija), kiekvienais metais nuo sausio 1 dienos indeksuojama šio įstatymo [[#^s-a5722f3dde8191b8e7a00745|8 straipsnyje]] nustatyta tvarka. ^s-9559d16b34cdacb2741398ea
 
 
-2. Neperskaičiuotos invalidumo pensijos mokamos tol, kol pagal nuo 1995 m. sausio 1 d. galiojusį Pensijų įstatymą perskaičiuota pensija pradeda viršyti neperskaičiuotos pensijos dydį, o neperskaičiuotos senatvės pensijos – tol, kol šio įstatymo 45, 46 ir [[#^s-ae1e03dda535ced37cf2becf|48 straipsniuose]] nustatyta tvarka apskaičiuota senatvės pensija pradeda viršyti mokamos neperskaičiuotos pensijos dydį. Tokiu atveju asmeniui pradedama mokėti perskaičiuota pensija. ^s-0035a30b190c66246321bf1e
+2. Neperskaičiuotos invalidumo pensijos mokamos tol, kol pagal nuo 1995 m. sausio 1 d. galiojusį Pensijų įstatymą perskaičiuota pensija pradeda viršyti neperskaičiuotos pensijos dydį, o neperskaičiuotos senatvės pensijos – tol, kol šio įstatymo [[#^s-f3e4bd0c130420115fe58c82|45]], [[#^s-1a2168dd17e848c899f71507|46]] ir [[#^s-ae1e03dda535ced37cf2becf|48]] straipsniuose nustatyta tvarka apskaičiuota senatvės pensija pradeda viršyti mokamos neperskaičiuotos pensijos dydį. Tokiu atveju asmeniui pradedama mokėti perskaičiuota pensija. ^s-0035a30b190c66246321bf1e
 
 
 3. Neperskaičiuotų senatvės pensijų gavėjams, kurie yra įgiję didesnį kaip 30 metų stažą, priedas už stažo metus nuo 2018 m. sausio 1 d. apskaičiuojamas pagal formulę B · (S – 30) / 30, kurioje: ^s-72cb0f86573447e5beaa913c
@@ -2714,7 +2714,7 @@ Nr. VIII-1292, 99.07.07, Žin., 1999, Nr.66-2115 (99.07.30)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1479, 99.12.16, Žin., 1999, Nr.113-3283 (99.12.30)
 [[latest/TAR.B09DF76B324F|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 5, 6, 8, 10, 13, 14, 45, 52 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 7, 12, 14, 17, 24, 26, 27, 28, 39, 40, 42, 43, 45, 49, 51 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 1 IR 4 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS]]
-Šiuo įstatymu pakeisti ir papildyti [[#^s-e6807aefbb16aa44b40284f3|Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] 3, 9, 13 punktai, [[#^s-2510fc738aeaf0c40f5792a2|14 straipsnio]] 2 ir 4 dalys, [[#^s-f3e4bd0c130420115fe58c82|45 straipsnio]] 1 ir 3 dalys, 52 straipsnio 2 dalies 8 punktas įsigalioja nuo 2000 m. sausio 1 d.
+Šiuo įstatymu pakeisti ir papildyti [[#^s-e6807aefbb16aa44b40284f3|Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies]] [[latest/TAR.A7F77DF94F5D|3]], [[latest/TAR.A7F77DF94F5D|9]], [[latest/TAR.A7F77DF94F5D|13]] punktai, [[#^s-2510fc738aeaf0c40f5792a2|14 straipsnio]] [[#^s-f225ea38f30ebb0e032c420e|2]] ir 4 dalys, [[#^s-f3e4bd0c130420115fe58c82|45 straipsnio]] [[#^s-1cbf3d617b16badeae90f4c7|1]] ir [[#^s-b108bcb66aa8151cf15a31fa|3]] dalys, 52 straipsnio 2 dalies 8 punktas įsigalioja nuo 2000 m. sausio 1 d.
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2749,7 +2749,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-84, 2000 12 19, Žin., 2000, Nr. 111-3563 (2000 12 29)
 [[latest/TAR.AA5208A8C431|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 18, 55 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
 Šis įstatymas įsigalioja nuo 2001 m. sausio 1 d.
-Iki šio įstatymo įsigaliojimo paskirtos valstybinės socialinio draudimo invalidumo, našlių ir našlaičių pensijos, kurias apskaičiuojant buvo taikytos Valstybinių socialinio draudimo pensijų įstatymo 29 straipsnio 3 dalies 2 punkto nuostatos, įsigaliojus šiam įstatymui, neperskaičiuojamos.
+Iki šio įstatymo įsigaliojimo paskirtos valstybinės socialinio draudimo invalidumo, našlių ir našlaičių pensijos, kurias apskaičiuojant buvo taikytos [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo 29 straipsnio 3 dalies 2 punkto]] nuostatos, įsigaliojus šiam įstatymui, neperskaičiuojamos.
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2788,8 +2788,8 @@ Nr. IX-1112, 2002-10-01, Žin., 2002, Nr. 101-4491 (2002-10-23)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1245, 2002-12-10, Žin., 2002, Nr. 124-5620 (2002-12-27)
 [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMAS]]
-Šis Įstatymas, išskyrus [[#^s-e2a846ea3d660a9b70fa5fc9|1 straipsnio 4 dalies]] nuostatas dėl Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 12 punkto pakeitimo, įsigalioja nuo 2003 m. sausio 1 d.
-Šio Įstatymo [[#^s-e2a846ea3d660a9b70fa5fc9|1 straipsnio 4 dalies]] nuostatos dėl Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 12 punkto pakeitimo įsigalioja nuo 2004 m. sausio 1 d.
+Šis Įstatymas, išskyrus [[#^s-e2a846ea3d660a9b70fa5fc9|1 straipsnio 4 dalies]] nuostatas dėl [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 12 punkto]] pakeitimo, įsigalioja nuo 2003 m. sausio 1 d.
+Šio Įstatymo [[#^s-e2a846ea3d660a9b70fa5fc9|1 straipsnio 4 dalies]] nuostatos dėl [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 12 punkto]] pakeitimo įsigalioja nuo 2004 m. sausio 1 d.
 Šio Įstatymo atitaisymas skelbtas: Žin., 2003, Nr. 24 (2003-03-07)
 
 26.
@@ -2807,7 +2807,7 @@ Nr. IX-1295, 2003-01-16, Žin., 2003, Nr. 12-437 (2003-01-31)
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1298, 2003-01-21, Žin., 2003, Nr. 14-538 (2003-02-07)
-[[latest/TAR.F628061443C6|PILIETYBĖS ĮSTATYMO]] ĮGYVENDINIMO ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, ŠALPOS (SOCIALINIŲ) PENSIJŲ ĮSTATYMO, MOKSLININKŲ VALSTYBINIŲ PENSIJŲ LAIKINOJO ĮSTATYMO, [[latest/TAR.ED38F243563C|VALSTYBINIŲ PENSIJŲ ĮSTATYMO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[PILIETYBĖS ĮSTATYMO ĮGYVENDINIMO ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, ŠALPOS (SOCIALINIŲ) PENSIJŲ ĮSTATYMO, MOKSLININKŲ VALSTYBINIŲ PENSIJŲ LAIKINOJO ĮSTATYMO, VALSTYBINIŲ PENSIJŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.6882E187A7BD)
 Šis Įstatymas, išskyrus šio Įstatymo šeštojo skirsnio [[#^s-3d450f17d3ebd38c4ee6c12f|2 straipsnį]], įsigalioja nuo 2003 m. kovo 1 d.
 
 29.
@@ -2836,11 +2836,11 @@ Nr. IX-1829, 2003-11-18, Žin., 2003, Nr. 114-5117 (2003-12-05)
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2017, 2004-02-12, Žin., 2004, Nr. 32-1008 (2004-02-28)
-[[#^s-737ad56397e2a7b754e12bc0|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMAS
+VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO [[#^s-737927b27fa553571c09dfb5|9]], [[#^s-bb146404374b0a6898de4e49|16]], [[#^s-7a17f97b972c8791937a7320|28]], [[#^s-37fa706f93454b00e769633c|35]], [[#^s-3c50246512d269ab920f3de0|36]], [[#^s-a51329faf117bbee049a6755|40]], [[#^s-25d50eb1a425d919493b9a12|43]], [[#^s-f3e4bd0c130420115fe58c82|45]], [[#^s-6528c69727c34727f1673fa9|49]], [[#^s-92afdfd83f0344a49587e917|50]], [[#^s-737ad56397e2a7b754e12bc0|54]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2004 m. kovo 1 d.
 Įsigaliojus šiam Įstatymui, valstybinės socialinio draudimo pensijos, paskirtos iki jo įsigaliojimo, perskaičiuojamos (skiriamos iš naujo) pagal šio Įstatymo nuostatas, jeigu pensijų gavėjams tai naudinga, bet ne anksčiau kaip nuo šio Įstatymo įsigaliojimo.
-Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai privalo pradėti mokėti pagal [[#^s-e14ff58d7ff8feadaa2635d7|Valstybinių socialinio draudimo pensijų įstatymo 57–59 straipsnių]] nuostatas padidintas valstybines socialinio draudimo senatvės ir invalidumo pensijas ne vėliau kaip praėjus 2 mėnesiams nuo šio Įstatymo įsigaliojimo. Paskirtų ir padidintų pensijų dydžių skirtumas pensininkui kompensuojamas nuo šio Įstatymo įsigaliojimo dienos.
-Institucijos, skiriančios ir mokančios Lietuvos Respublikos valstybines pensijas bei pensijų išmokas, privalo teikti Valstybinio socialinio draudimo fondo valdybai pagal šios valdybos paklausimus [[#^s-790a50f88567ba78bf394672|Valstybinių socialinio draudimo pensijų įstatymo 57–60 straipsnių]] nuostatoms įgyvendinti reikalingas žinias apie asmenims mokamas valstybines pensijas ir pensijų išmokas.
+Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai privalo pradėti mokėti pagal Valstybinių socialinio draudimo pensijų įstatymo [[#^s-fc985bb611f600b0a82e42a8|57]]–[[#^s-e14ff58d7ff8feadaa2635d7|59]] straipsnių nuostatas padidintas valstybines socialinio draudimo senatvės ir invalidumo pensijas ne vėliau kaip praėjus 2 mėnesiams nuo šio Įstatymo įsigaliojimo. Paskirtų ir padidintų pensijų dydžių skirtumas pensininkui kompensuojamas nuo šio Įstatymo įsigaliojimo dienos.
+Institucijos, skiriančios ir mokančios Lietuvos Respublikos valstybines pensijas bei pensijų išmokas, privalo teikti Valstybinio socialinio draudimo fondo valdybai pagal šios valdybos paklausimus Valstybinių socialinio draudimo pensijų įstatymo [[#^s-fc985bb611f600b0a82e42a8|57]]–[[#^s-790a50f88567ba78bf394672|60]] straipsnių nuostatoms įgyvendinti reikalingas žinias apie asmenims mokamas valstybines pensijas ir pensijų išmokas.
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2868,7 +2868,7 @@ Nr. IX-2375, 2004-07-15, Žin., 2004, Nr. 117-4373 (2004-07-29)
 38.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
-[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]], ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, [[latest/TAR.94F6B680E8B8|SVEIKATOS DRAUDIMO ĮSTATYMO]], [[latest/TAR.FDF42614DE52|NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO]], VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34, 36, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, [[#^s-737ad56397e2a7b754e12bc0|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO]], [[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]], ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, [[latest/TAR.94F6B680E8B8|SVEIKATOS DRAUDIMO ĮSTATYMO]], [[latest/TAR.FDF42614DE52|NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO]], VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, [[latest/TAR.CA0F08EF687E|VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO]], INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO [[#^s-f47bd8a85e88a1ed5fdb4426|33]], [[#^s-5588e0dd4927669d9163f666|34]], [[#^s-3c50246512d269ab920f3de0|36]], [[#^s-f3e4bd0c130420115fe58c82|45]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO [[latest/TAR.9347C8C7E0A3|9]], [[latest/TAR.9347C8C7E0A3|16]], [[latest/TAR.9347C8C7E0A3|28]], [[latest/TAR.9347C8C7E0A3|35]], [[latest/TAR.9347C8C7E0A3|36]], [[latest/TAR.9347C8C7E0A3|40]], [[latest/TAR.9347C8C7E0A3|43]], [[latest/TAR.9347C8C7E0A3|45]], [[latest/TAR.9347C8C7E0A3|49]], [[latest/TAR.9347C8C7E0A3|50]], [[latest/TAR.9347C8C7E0A3|54]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO]], [[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 
 39.
@@ -2901,7 +2901,7 @@ Nr. X-594, 2006-05-04, Žin., 2006, Nr. 57-2024 (2006-05-20)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-658, 2006-06-08, Žin., 2006, Nr. 72-2675 (2006-06-28)
 [[latest/TAR.309180C69F27|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 6, 8 IR 14 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-[[#^s-5e1bdb5beb53e672980a1dbb|Valstybinių socialinio draudimo pensijų įstatymo 8 straipsnio  2 dalies]] pakeitimas įsigalioja nuo 2006 m. liepos 1 d., 2 straipsnio 1 dalies 10 punkto pakeitimas, [[#^s-1d6b38a53e89ab7b6a7b4480|6 straipsnio 4 dalies]] pakeitimas, [[#^s-a5722f3dde8191b8e7a00745|8 straipsnio]] 3 ir 6 dalių pakeitimas bei [[#^s-2510fc738aeaf0c40f5792a2|14 straipsnio]] pakeitimas įsigalioja nuo 2008 m. sausio 1 d.
+[[#^s-5e1bdb5beb53e672980a1dbb|Valstybinių socialinio draudimo pensijų įstatymo 8 straipsnio  2 dalies]] pakeitimas įsigalioja nuo 2006 m. liepos 1 d., 2 straipsnio 1 dalies 10 punkto pakeitimas, [[#^s-1d6b38a53e89ab7b6a7b4480|6 straipsnio 4 dalies]] pakeitimas, [[#^s-a5722f3dde8191b8e7a00745|8 straipsnio]] [[#^s-67ba910c4e2a7b1b59e5556e|3]] ir [[#^s-d4244265b8d635770d0fdc2e|6]] dalių pakeitimas bei [[#^s-2510fc738aeaf0c40f5792a2|14 straipsnio]] pakeitimas įsigalioja nuo 2008 m. sausio 1 d.
 Šio įstatymo pakeitimas:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1395, 2007-12-20, Žin., 2007, Nr. 138-5650 (2007-12-29)
@@ -2946,7 +2946,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1115, 2007-05-10, Žin., 2007, Nr. 59-2277 (2007-05-29)
 [[latest/TAR.99F1CC363E62|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 5, 6, 32, 39, 42, 46, 52, 64 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 24(1), 42(1), 53(1), 66(1) STRAIPSNIAIS ĮSTATYMAS]]
 Šis įstatymas, išskyrus [[#^s-2510fc738aeaf0c40f5792a2|14 straipsnį]], įsigalioja nuo 2007 m. liepos 1 d.
-Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos teritoriniai skyriai ir Užsienio išmokų tarnyba ne vėliau kaip iki 2007 m. gruodžio 1 d. privalo be asmens prašymo paskirti ir nuo 2007 m. liepos 1 d. išmokėti pagal šį įstatymą apskaičiuotą priedą už stažo metus valstybinių socialinio draudimo senatvės, netekto darbingumo (invalidumo), ištarnauto laiko pensijų gavėjams, sukakusiems senatvės pensijos amžių arba pripažintiems nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais), taip pat senatvės pensijų, paskirtų pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymą (Žin., 2003, Nr. 114–5116), gavėjams. Skiriant šį priedą, įskaitomas asmens iki 2006 m. gruodžio 31 d. įgytas valstybinio socialinio pensijų draudimo stažas ir šiam stažui prilyginami laikotarpiai ([[#^s-a5722f3dde8191b8e7a00745|8 straipsnio]] 1–3, 5, 6 dalys, [[#^s-6528c69727c34727f1673fa9|49 straipsnis]], [[#^s-1375bfff8bd1aceb1023d95e|54 straipsnio 1 dalis]], 2 dalies 1–9 punktai, 3 ir 4 dalys).
+Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos teritoriniai skyriai ir Užsienio išmokų tarnyba ne vėliau kaip iki 2007 m. gruodžio 1 d. privalo be asmens prašymo paskirti ir nuo 2007 m. liepos 1 d. išmokėti pagal šį įstatymą apskaičiuotą priedą už stažo metus valstybinių socialinio draudimo senatvės, netekto darbingumo (invalidumo), ištarnauto laiko pensijų gavėjams, sukakusiems senatvės pensijos amžių arba pripažintiems nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. – invalidais), taip pat senatvės pensijų, paskirtų pagal Lietuvos Respublikos valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymą (Žin., 2003, Nr. 114–5116), gavėjams. Skiriant šį priedą, įskaitomas asmens iki 2006 m. gruodžio 31 d. įgytas valstybinio socialinio pensijų draudimo stažas ir šiam stažui prilyginami laikotarpiai ([[#^s-a5722f3dde8191b8e7a00745|8 straipsnio]] [[#^s-ba12ac49208e44fb8a7bfdd9|1]]–[[#^s-67ba910c4e2a7b1b59e5556e|3]], [[#^s-88d4f60359462db66622261a|5]], [[#^s-d4244265b8d635770d0fdc2e|6]] dalys, [[#^s-6528c69727c34727f1673fa9|49 straipsnis]], [[#^s-1375bfff8bd1aceb1023d95e|54 straipsnio 1 dalis]], 2 dalies 1–9 punktai, 3 ir 4 dalys).
 Jeigu valstybinė socialinio draudimo pensija buvo paskirta pirmą kartą ar iš naujo arba perskaičiuota 2007 m. sausio 1 d. – birželio 30 d. laikotarpiu ar skiriama arba perskaičiuojama po 2007 m. liepos 1 d., priedo už stažą dydis apskaičiuojamas pagal valstybinio socialinio pensijų draudimo stažą, įgytą iki pensijos skyrimo (perskaičiavimo) mėnesio pirmos dienos.
 
 49.
@@ -2954,7 +2954,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1358, 2007-12-06, Žin., 2007, Nr. 132-5360 (2007-12-15)
 [[latest/TAR.7BCCD10D7AF8|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 23, 32, 42 IR 52 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
 Šis įstatymas įsigalioja 2008 m. sausio 1 d.
-Įsigaliojus šiam įstatymui, pagal naujas [[#^s-8360233a0c1774bde3bf246d|Valstybinių socialinio draudimo pensijų įstatymo 23 straipsnio]], 32 straipsnio 2 dalies, [[#^s-0e924d58e2cdef4a2fe6f6f9|52 straipsnio]] 1 ir 2 dalių nuostatas padidinamos iki šio įstatymo įsigaliojimo paskirtos valstybinės socialinio draudimo senatvės, netekto darbingumo (invalidumo), našlaičių, ištarnauto laiko ir maitintojo netekimo pensijos. Pirmą kartą pagal šio įstatymo nuostatas padidinant pagal Valstybinių socialinio draudimo pensijų įstatymą neperskaičiuotas pensijas, Valstybinio [[#^s-0e924d58e2cdef4a2fe6f6f9|socialinio draudimo pensijų įstatymo 52 straipsnyje]] nurodytų neperskaičiuotų pensijų dalis, lygi valstybinės socialinio draudimo bazinės pensijos dydžiui, padidinama iki 110 procentų valstybinės socialinio draudimo bazinės pensijos dydžio ir prie padidintos pensijos dalies pridedamos likusios pensijos dalys.
+Įsigaliojus šiam įstatymui, pagal naujas [[#^s-0e924d58e2cdef4a2fe6f6f9|Valstybinių socialinio draudimo pensijų įstatymo 23 straipsnio, 32 straipsnio 2 dalies, 52 straipsnio]] [[#^s-2809888ed74072fbb4eb36a0|1]] ir [[#^s-a56a622ffbc658c60b682778|2]] dalių nuostatas padidinamos iki šio įstatymo įsigaliojimo paskirtos valstybinės socialinio draudimo senatvės, netekto darbingumo (invalidumo), našlaičių, ištarnauto laiko ir maitintojo netekimo pensijos. Pirmą kartą pagal šio įstatymo nuostatas padidinant pagal Valstybinių socialinio draudimo pensijų įstatymą neperskaičiuotas pensijas, Valstybinio [[#^s-0e924d58e2cdef4a2fe6f6f9|socialinio draudimo pensijų įstatymo 52 straipsnyje]] nurodytų neperskaičiuotų pensijų dalis, lygi valstybinės socialinio draudimo bazinės pensijos dydžiui, padidinama iki 110 procentų valstybinės socialinio draudimo bazinės pensijos dydžio ir prie padidintos pensijos dalies pridedamos likusios pensijos dalys.
 
 50.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2966,7 +2966,7 @@ Nr. X-1393, 2007-12-20, Žin., 2007, Nr. 138-5648 (2007-12-29)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1756, 2008-10-20, Žin., 2008, Nr. 127-4833 (2008-11-06)
 [[latest/TAR.50FB23C65707|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 5, 15, 19, 24, 28, 33, 40, 42, 53, 56, 59, 65 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo 1, 5, 6, 7, 8, 9, [[#^s-2510fc738aeaf0c40f5792a2|14 straipsniai]] ir 15 straipsnio 1 dalis įsigalioja 2009 m. sausio 1 d.
+Šio įstatymo [[#^s-79c1234a11b007812779727d|1]], [[#^s-185ae4cd376b928f4d330b75|5]], [[#^s-30b159801f86e32eeabfab5f|6]], [[#^s-fb623befb1de161cd3db0c70|7]], [[#^s-a5722f3dde8191b8e7a00745|8]], [[#^s-737927b27fa553571c09dfb5|9]], [[#^s-2510fc738aeaf0c40f5792a2|14]] straipsniai ir 15 straipsnio 1 dalis įsigalioja 2009 m. sausio 1 d.
 Šis įstatymas ir jo įsigaliojimas keistas:
 51.1.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2980,7 +2980,7 @@ Nr. XI-529, 2009-12-08, Žin., 2009, Nr. 151-6776 (2009-12-22)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1805, 2011-12-15, Žin., 2011, Nr. 160-7571 (2011-12-28)
 VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 5, 15, 19, 24, 28, 33, 40, 42, 53, 56, 59, 65 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 13, 14, 15 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-Šio įstatymo [[#^s-98d2ea531035e506ef900a47|10 straipsnyje]] išdėstyto [[#^s-0fce87d1af83d5ba74c7873c|Valstybinių socialinio draudimo pensijų įstatymo 56 straipsnio]] 2, 4, 5, 6 ir 7 dalių nuostatos taikomos skiriant valstybines socialinio draudimo pensijas pirmą kartą arba iš naujo nuo 2013 m. sausio 1 d. ir vėlesnių datų.
+Šio įstatymo [[#^s-98d2ea531035e506ef900a47|10 straipsnyje]] išdėstyto [[#^s-0fce87d1af83d5ba74c7873c|Valstybinių socialinio draudimo pensijų įstatymo 56 straipsnio]] [[#^s-8e8f9faeba13306ebec63dd8|2]], [[latest/TAR.A7F77DF94F5D|4]], [[latest/TAR.A7F77DF94F5D|5]], [[latest/TAR.A7F77DF94F5D|6]] ir [[latest/TAR.A7F77DF94F5D|7]] dalių nuostatos taikomos skiriant valstybines socialinio draudimo pensijas pirmą kartą arba iš naujo nuo 2013 m. sausio 1 d. ir vėlesnių datų.
 51.4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-90, 2012-12-20, Žin., 2012, Nr. 154-7927 (2012-12-29)
@@ -3033,7 +3033,7 @@ Nr. XI-958, 2010-06-30, Žin., 2010, Nr. 86-4516 (2010-07-20)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1436, 2011-06-09, Žin., 2011, Nr. 77-3723 (2011-06-28)
 [[latest/TAR.7813375FF647|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 21, 25, 33, 56, 57, 67 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus 4 ir [[#^s-fb623befb1de161cd3db0c70|7 straipsnius]], įsigalioja 2012 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-f8e67cf59226e1f2270cbb9d|4]] ir [[#^s-fb623befb1de161cd3db0c70|7]] straipsnius, įsigalioja 2012 m. sausio 1 d.
 
 60.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3060,7 +3060,7 @@ VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 56 STRAIPSNIO PAKEITIMO ĮST
 64.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2137, 2012-06-28, Žin., 2012, Nr. 80-4141 (2012-07-10)
-[[#^s-737ad56397e2a7b754e12bc0|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 1, 2, 8, 43, 54 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 1(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
+VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO [[#^s-79c1234a11b007812779727d|1]], [[#^s-3d450f17d3ebd38c4ee6c12f|2]], [[#^s-a5722f3dde8191b8e7a00745|8]], [[#^s-25d50eb1a425d919493b9a12|43]], [[#^s-737ad56397e2a7b754e12bc0|54]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 1(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja po vieno mėnesio nuo paskelbimo leidinyje „Valstybės žinios“ dienos, t. y. nuo 2012-08-11.
 
 65.
@@ -3115,17 +3115,17 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2002-11-25, Žin., 2002, Nr. 113-5057 (2002-11-27)
-DĖL [[latest/TAR.46EF9E1D52E9#^s-d2f3605e077d7042ef2d8ec0|LIETUVOS RESPUBLIKOS DIPLOMATINĖS TARNYBOS ĮSTATYMO 69 STRAIPSNIO 2 DALIES]], [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 4 STRAIPSNIO]] (2000 M. KOVO 16 D. REDAKCIJA) 1 DALIES 9 PUNKTO IR [[#^s-3d450f17d3ebd38c4ee6c12f|LIETUVOS RESPUBLIKOS VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2 STRAIPSNIO]] (1999 M. GRUODŽIO 16 D. REDAKCIJA) 1 DALIES 5 PUNKTO BEI [[#^s-8360233a0c1774bde3bf246d|23 STRAIPSNIO]] (1994 M. GRUODŽIO 21 D., 2000 M. GRUODŽIO 21 D., 2001 M. GEGUŽĖS 8 D. REDAKCIJOS) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS DIPLOMATINĖS TARNYBOS ĮSTATYMO 69 STRAIPSNIO 2 DALIES, LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 4 STRAIPSNIO (2000 M. KOVO 16 D. REDAKCIJA) 1 DALIES 9 PUNKTO IR LIETUVOS RESPUBLIKOS VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2 STRAIPSNIO (1999 M. GRUODŽIO 16 D. REDAKCIJA) 1 DALIES 5 PUNKTO BEI 23 STRAIPSNIO (1994 M. GRUODŽIO 21 D., 2000 M. GRUODŽIO 21 D., 2001 M. GEGUŽĖS 8 D. REDAKCIJOS) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.DDD82D03B30C)
 
 2.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2003-12-03, Žin., 2003, Nr. 115-5221 (2003-12-10)
-DĖL LIETUVOS RESPUBLIKOS VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, [[latest/TAR.ED38F243563C|LIETUVOS RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO]], LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS RESPUBLIKOS VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO" NUOSTATŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, TAIP PAT DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 1994 M. LAPKRIČIO 18 D. NUTARIMU NR. 1156 PATVIRTINTŲ VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ SKYRIMO IR MOKĖJIMO NUOSTATŲ 84 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR [[#^s-c042733902b73bb6418f85ef|LIETUVOS RESPUBLIKOS VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 45 STRAIPSNIO 4 DALIAI]] (1994 M. LIEPOS 18 D. REDAKCIJA)
+DĖL LIETUVOS RESPUBLIKOS VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO, LIETUVOS RESPUBLIKOS VALSTYBINIŲ PENSIJŲ ĮSTATYMO, LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS RESPUBLIKOS VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO" NUOSTATŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, TAIP PAT DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS [1994 M. LAPKRIČIO 18 D. NUTARIMU NR. 1156](https://e-tar.lt/portal/lt/legalAct/TAR.260B8E89C210) PATVIRTINTŲ VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ SKYRIMO IR MOKĖJIMO NUOSTATŲ 84 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR LIETUVOS RESPUBLIKOS VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO [[#^s-c042733902b73bb6418f85ef|45 STRAIPSNIO 4 DALIAI]] (1994 M. LIEPOS 18 D. REDAKCIJA)
 
 3.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2009-09-02, Žin., 2009, Nr. 106-4434 (2009-09-05)
-DĖL [[#^s-12b7f7ce8d929a9b09f43ad8|LIETUVOS RESPUBLIKOS VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 30 STRAIPSNIO]] (2005 M. GEGUŽĖS 19 D. REDAKCIJA), 32 STRAIPSNIO 4 DALIES (2005 M. GEGUŽĖS 19 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 30 STRAIPSNIO (2005 M. GEGUŽĖS 19 D. REDAKCIJA), 32 STRAIPSNIO 4 DALIES (2005 M. GEGUŽĖS 19 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.FBB2EB63FCB0)
 
 
 Pakeitimai:
@@ -3133,7 +3133,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1203, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14121
-Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo Nr. I-549 36, 52, 58, 59, 60 ir [[#^s-6050fabb2b30852f9e64079d|61 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-3c50246512d269ab920f3de0|36]], [[#^s-0e924d58e2cdef4a2fe6f6f9|52]], [[#^s-a5d3815c1a02785ca6230679|58]], [[#^s-e14ff58d7ff8feadaa2635d7|59]], [[#^s-790a50f88567ba78bf394672|60]] ir [[#^s-6050fabb2b30852f9e64079d|61]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3143,7 +3143,7 @@ Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo Nr. I-5
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2626, 2016-09-21, paskelbta TAR 2016-09-29, i. k. 2016-24198
-Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo Nr. I-549 1, 34, 43, [[#^s-737ad56397e2a7b754e12bc0|54 straipsnių]], priedo pakeitimo ir [[#^s-726c298f7e83c1f451d3d539|3 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-79c1234a11b007812779727d|1]], [[#^s-5588e0dd4927669d9163f666|34]], [[#^s-25d50eb1a425d919493b9a12|43]], [[#^s-737ad56397e2a7b754e12bc0|54]] straipsnių, priedo pakeitimo ir [[#^s-726c298f7e83c1f451d3d539|3 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3158,17 +3158,17 @@ Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo Nr. I-5
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-881, 2017-12-12, paskelbta TAR 2017-12-19, i. k. 2017-20433
-Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo Nr. I-549 pakeitimo [[latest/b4384d004a7011e6b5d09300a16a686c|įstatymo Nr. XII-2512]] 1 ir [[#^s-726c298f7e83c1f451d3d539|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatymo Nr. I-549 pakeitimo [[latest/b4384d004a7011e6b5d09300a16a686c|įstatymo Nr. XII-2512]] [[#^s-79c1234a11b007812779727d|1]] ir [[#^s-726c298f7e83c1f451d3d539|3]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1361, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11460
-Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 11, 12, 45, 46, 47, 48, 53 ir [[#^s-a026c4c09975bec05e5b7d4d|62 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-ae6b5e45b77c136f54adc87b|11]], [[#^s-adda35034e938fa34964dd6a|12]], [[#^s-f3e4bd0c130420115fe58c82|45]], [[#^s-1a2168dd17e848c899f71507|46]], [[#^s-912c1a8cefab7bd235d6ed80|47]], [[#^s-ae1e03dda535ced37cf2becf|48]], [[#^s-c89fde78017f52bdeb98ca57|53]] ir [[#^s-a026c4c09975bec05e5b7d4d|62]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1728, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20993
-Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 6, 8, 19, 33, 59 ir [[#^s-790a50f88567ba78bf394672|60 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-30b159801f86e32eeabfab5f|6]], [[#^s-a5722f3dde8191b8e7a00745|8]], [[#^s-d9f8022d32ab0d88e79feab8|19]], [[#^s-f47bd8a85e88a1ed5fdb4426|33]], [[#^s-e14ff58d7ff8feadaa2635d7|59]] ir [[#^s-790a50f88567ba78bf394672|60]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3178,7 +3178,7 @@ Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-98d2
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2650, 2019-12-12, paskelbta TAR 2019-12-21, i. k. 2019-20991
-Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 2, 8 ir [[#^s-a51329faf117bbee049a6755|40 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-3d450f17d3ebd38c4ee6c12f|2]], [[#^s-a5722f3dde8191b8e7a00745|8]] ir [[#^s-a51329faf117bbee049a6755|40]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3198,12 +3198,12 @@ Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-98d2
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3203, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15396
-Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 23 ir [[#^s-737ad56397e2a7b754e12bc0|54 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-8360233a0c1774bde3bf246d|23]] ir [[#^s-737ad56397e2a7b754e12bc0|54]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3395, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24263
-Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 23 ir [[#^s-737ad56397e2a7b754e12bc0|54 straipsnių]] pakeitimo [[latest/03d79d20c1cd11ea9815f635b9c0dcef|įstatymo Nr. XIII-3203]] pakeitimo įstatymas
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-8360233a0c1774bde3bf246d|23]] ir [[#^s-737ad56397e2a7b754e12bc0|54]] straipsnių pakeitimo [[latest/03d79d20c1cd11ea9815f635b9c0dcef|įstatymo Nr. XIII-3203]] pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3223,22 +3223,22 @@ Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-a572
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-458, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15455
-Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 47 ir [[#^s-6528c69727c34727f1673fa9|49 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-912c1a8cefab7bd235d6ed80|47]] ir [[#^s-6528c69727c34727f1673fa9|49]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-678, 2021-11-23, paskelbta TAR 2021-11-26, i. k. 2021-24469
-Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 2, 8, 17, 29, 33, 45 ir [[#^s-6528c69727c34727f1673fa9|49 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-3d450f17d3ebd38c4ee6c12f|2]], [[#^s-a5722f3dde8191b8e7a00745|8]], [[#^s-4d3f26e86ee09cd86ee0684b|17]], [[#^s-51d5cf73500e68622d992650|29]], [[#^s-f47bd8a85e88a1ed5fdb4426|33]], [[#^s-f3e4bd0c130420115fe58c82|45]] ir [[#^s-6528c69727c34727f1673fa9|49]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1968, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10361
-Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 2 ir [[#^s-a5722f3dde8191b8e7a00745|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-3d450f17d3ebd38c4ee6c12f|2]] ir [[#^s-a5722f3dde8191b8e7a00745|8]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2361, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25612
-Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 1, 2, 5, 6, 10, 13, 20, 23, 35, 36, 38, 39, 40, 41, 58, [[#^s-e14ff58d7ff8feadaa2635d7|59 straipsnių]], III skyriaus ir Įstatymo 3, 6 priedų pakeitimo įstatymas
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-79c1234a11b007812779727d|1]], [[#^s-3d450f17d3ebd38c4ee6c12f|2]], [[#^s-185ae4cd376b928f4d330b75|5]], [[#^s-30b159801f86e32eeabfab5f|6]], [[#^s-98d2ea531035e506ef900a47|10]], [[#^s-015f93aa50a137208a902a1e|13]], [[#^s-947fdb89b14f2115a1ec8f1f|20]], [[#^s-8360233a0c1774bde3bf246d|23]], [[#^s-37fa706f93454b00e769633c|35]], [[#^s-3c50246512d269ab920f3de0|36]], [[#^s-a0ac7559fb5815c4a6351bb9|38]], [[#^s-ce359f209917eb9c09c3c9d6|39]], [[#^s-a51329faf117bbee049a6755|40]], [[#^s-4f06a217410838c05a7073f4|41]], [[#^s-a5d3815c1a02785ca6230679|58]], [[#^s-e14ff58d7ff8feadaa2635d7|59]] straipsnių, III skyriaus ir Įstatymo 3, 6 priedų pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3248,4 +3248,4 @@ Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-a5d3
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-349, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11764
-Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 11 ir [[#^s-adda35034e938fa34964dd6a|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos socialinio draudimo pensijų įstatymo Nr. I-549 [[#^s-ae6b5e45b77c136f54adc87b|11]] ir [[#^s-adda35034e938fa34964dd6a|12]] straipsnių pakeitimo įstatymas

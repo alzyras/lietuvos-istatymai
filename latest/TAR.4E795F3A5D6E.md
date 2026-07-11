@@ -49,7 +49,7 @@ Papildyti 1 straipsnį 3 dalimi:
 ### 2 straipsnis.         2 straipsnio 1, 11 dalių pakeitimas ir straipsnio papildymas 15, 16, 17, 18 dalimis ^s-8d1bfe7b06734b8e5c9920aa
 
 
-1. Pakeisti [[#^s-40219a7b3fdfff6286958dd4|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-40219a7b3fdfff6286958dd4
+1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^s-40219a7b3fdfff6286958dd4
 
 
 „1. Vartotojas – fizinis asmuo, kuris pareiškia norą pirkti, perka ir naudoja prekę ar paslaugą su verslu ar profesija nesusijusiu tikslu, t. y. vartotojo asmeniniams, šeimos, namų ūkio poreikiams tenkinti.“
@@ -178,7 +178,7 @@ RYŠIO PRIEMONėmis
 6. [[#^s-77880ee637dbebcc4cf1de0f|Šio straipsnio 5 dalyje]] nurodytos informacijos komercinis pobūdis turi būti aiškiai bei suprantamai išreikštas ir atitikti naudojamas ryšio priemones, atsižvelgiant į sutartiniams santykiams taikomus sąžiningumo bei neveiksnių ir ribotai veiksnių asmenų apsaugą užtikrinančius principus. ^s-97c1b4cab07f03e65a010812
 
 
-7. Iki sutarties sudarymo vartotojas turi gauti šio straipsnio 5 ir [[#^s-97c1b4cab07f03e65a010812|6 dalyse]] nurodytą informaciją raštu ar kitoje vartotojui prieinamoje patvariojoje laikmenoje. ^s-5fc77a9c4f91c6ed90c5a62a
+7. Iki sutarties sudarymo vartotojas turi gauti šio straipsnio [[#^s-77880ee637dbebcc4cf1de0f|5]] ir [[#^s-97c1b4cab07f03e65a010812|6]] dalyse nurodytą informaciją raštu ar kitoje vartotojui prieinamoje patvariojoje laikmenoje. ^s-5fc77a9c4f91c6ed90c5a62a
 
 
 8. Jei vartotojo prašymu sutartis sudaroma tokiomis ryšio priemonėmis, kuriomis neįmanoma pateikti informacijos pagal [[#^s-5fc77a9c4f91c6ed90c5a62a|šio straipsnio 7 dalies]] reikalavimus, paslaugos teikėjas nedelsdamas informaciją pateikia po sutarties sudarymo. ^s-3afeb7e7ac2a73baaf45d22c
@@ -200,7 +200,7 @@ RYŠIO PRIEMONėmis
 2. Vartotojas turi teisę atsisakyti gyvybės draudimo arba pensijų kaupimo sutarties, sudarytos ryšio priemonėmis, pranešdamas apie tai raštu paslaugos teikėjui per 30 dienų. Pensijų kaupimo sutarčių atsisakymo terminas pradedamas skaičiuoti nuo sutarties sudarymo dienos. Gyvybės draudimo sutarčių atsisakymo terminas pradedamas skaičiuoti nuo tos dienos, kai vartotojas informuojamas, kad sutartis yra sudaryta. ^s-90d7d3fe6e3509e3fa7836fd
 
 
-3. Jei vartotojas gauna informaciją pagal šio įstatymo [[#^s-415fb09d7d61889a085fe5e0|281 straipsnio]] 5 ar [[#^s-97b98033f34e7f408a5ee8d1|6 dalį]] po sutarties sudarymo arba vėliau negu pranešimą, kad sutartis sudaryta, atsisakymo terminas pradedamas skaičiuoti nuo informacijos gavimo dienos. ^s-d007c01325bbc36bebd046f5
+3. Jei vartotojas gauna informaciją pagal šio įstatymo [[#^s-415fb09d7d61889a085fe5e0|281 straipsnio]] [[#^s-77880ee637dbebcc4cf1de0f|5]] ar [[#^s-97c1b4cab07f03e65a010812|6]] dalį po sutarties sudarymo arba vėliau negu pranešimą, kad sutartis sudaryta, atsisakymo terminas pradedamas skaičiuoti nuo informacijos gavimo dienos. ^s-d007c01325bbc36bebd046f5
 
 
 4. Draudžiama šiame straipsnyje numatytą vartotojo teisę atsisakyti sutarties suvaržyti papildomais įpareigojimais ar įmokomis arba bet kokiu kitu būdu ją apriboti ar panaikinti, išskyrus šiame straipsnyje numatytus atvejus. ^s-436ed8af4c2fb6fc3c31a050
@@ -227,10 +227,10 @@ RYŠIO PRIEMONėmis
 8. Finansinės paslaugos teikėjas sutartį, nepasibaigus numatytam sutarties atsisakymo terminui, gali pradėti vykdyti tik vartotojui sutikus. Kai vartotojas pasinaudoja teise atsisakyti sutarties, jis per sutartyje numatytą terminą sumoka už faktiškai suteiktą finansinę paslaugą, kurią finansinės paslaugos teikėjas jam suteikė pagal sutartį. ^s-52586ad9acb238564290672a
 
 
-9. Vartotojas už faktiškai suteiktą finansinę paslaugą moka, jei jis buvo informuotas pagal šio įstatymo [[#^s-25f13b6dfc95ebab4ff14f16|281 straipsnio 5 dalies 7 punktą]]. Finansinės paslaugos teikėjas negali reikalauti už suteiktą finansinę paslaugą mokėti, jei jis be išankstinio vartotojo prašymo pradėjo vykdyti sutartį nepasibaigus šio straipsnio 1 ar [[#^s-90d7d3fe6e3509e3fa7836fd|2 dalyje]] numatytam sutarties atsisakymo terminui. ^s-2665e66a52653c7aebe26968
+9. Vartotojas už faktiškai suteiktą finansinę paslaugą moka, jei jis buvo informuotas pagal šio įstatymo [[#^s-25f13b6dfc95ebab4ff14f16|281 straipsnio 5 dalies 7 punktą]]. Finansinės paslaugos teikėjas negali reikalauti už suteiktą finansinę paslaugą mokėti, jei jis be išankstinio vartotojo prašymo pradėjo vykdyti sutartį nepasibaigus šio straipsnio [[#^s-78dfd1b6e00e8403987930a7|1]] ar [[#^s-90d7d3fe6e3509e3fa7836fd|2]] dalyje numatytam sutarties atsisakymo terminui. ^s-2665e66a52653c7aebe26968
 
 
-10. Finansinių paslaugų teikėjas ne vėliau kaip per 30 dienų nuo pranešimo apie sutarties atsisakymą gavimo dienos grąžina vartotojui pagal sutartį gautus pinigus (ir (ar) turtą), išskyrus nurodytus [[#^s-52586ad9acb238564290672a|šio straipsnio 8 dalyje]]. Vartotojas, atsisakęs sutarties pagal šio straipsnio 1 ir [[#^s-90d7d3fe6e3509e3fa7836fd|2 dalis]], ne vėliau kaip per 30 dienų, nuo pranešimo apie sutarties atsisakymą išsiuntimo dienos, grąžina finansinių paslaugų teikėjui pagal sutartį gautus pinigus (ir (ar) turtą). ^s-f586b1293d9467a741f41219
+10. Finansinių paslaugų teikėjas ne vėliau kaip per 30 dienų nuo pranešimo apie sutarties atsisakymą gavimo dienos grąžina vartotojui pagal sutartį gautus pinigus (ir (ar) turtą), išskyrus nurodytus [[#^s-52586ad9acb238564290672a|šio straipsnio 8 dalyje]]. Vartotojas, atsisakęs sutarties pagal šio straipsnio [[#^s-78dfd1b6e00e8403987930a7|1]] ir [[#^s-90d7d3fe6e3509e3fa7836fd|2]] dalis, ne vėliau kaip per 30 dienų, nuo pranešimo apie sutarties atsisakymą išsiuntimo dienos, grąžina finansinių paslaugų teikėjui pagal sutartį gautus pinigus (ir (ar) turtą). ^s-f586b1293d9467a741f41219
 
 
 
@@ -324,7 +324,7 @@ VARTOTOJŲ VIEŠO INTERESO GYNIMAS
 ### 286 straipsnis. Europos Sąjungos valstybių narių institucijų ar organizacijų teisė pareikšti ieškinį Lietuvoje ginant vartotojų viešą interesą ^s-4e0b3794a9d74b93c4e63ea2
 
 
-1. Europos Sąjungos valstybių narių institucijos ar organizacijos, kurias Europos Komisija įtraukia į Europos Parlamento ir Tarybos direktyvoje 98/27/EB dėl draudimų ginant vartotojų interesus numatytą sąrašą ir jas paskelbia Europos Bendrijų oficialiajame leidinyje, turi teisę pagal Lietuvos Respublikos civilinio proceso kodekso 49 straipsnio 1 dalį Lietuvos Respublikos teismuose pareikšti ieškinį dėl įpareigojimo prekių ar paslaugų pardavėjui (teikėjui) nutraukti vartotojų viešą interesą pažeidžiančius veiksmus. ^s-d11a6608fb261561189f8e44
+1. Europos Sąjungos valstybių narių institucijos ar organizacijos, kurias Europos Komisija įtraukia į Europos Parlamento ir Tarybos direktyvoje 98/27/EB dėl draudimų ginant vartotojų interesus numatytą sąrašą ir jas paskelbia Europos Bendrijų oficialiajame leidinyje, turi teisę pagal [Lietuvos Respublikos civilinio proceso kodekso 49 straipsnio 1 dalį](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) Lietuvos Respublikos teismuose pareikšti ieškinį dėl įpareigojimo prekių ar paslaugų pardavėjui (teikėjui) nutraukti vartotojų viešą interesą pažeidžiančius veiksmus. ^s-d11a6608fb261561189f8e44
 
 
 2. [[#^s-d11a6608fb261561189f8e44|Šio straipsnio 1 dalyje]] nurodyta teise pareikšti ieškinį Europos Sąjungos valstybių narių institucijos ar organizacijos gali pasinaudoti tik tuo atveju, jei prieš tai raštu kreipėsi į pardavėją ar paslaugų teikėją dėl vartotojų viešą interesą pažeidžiančių veiksmų nutraukimo ir jų prašymas per 2 savaites nuo kreipimosi dienos nebuvo patenkintas. ^s-261b548f2db1a0b04911fcbc

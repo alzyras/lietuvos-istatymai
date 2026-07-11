@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.DE63AAC4EF06|Dėl Lietuvos Respublikos Laikinojo Pagrindinio Įstatymo]] - Įstatymas Nr. I-1625
+_Nėra._

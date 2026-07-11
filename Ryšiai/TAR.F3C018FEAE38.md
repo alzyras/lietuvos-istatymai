@@ -9,10 +9,10 @@ pavadinimas: "Lietuvos Respublikos mokesčių už pramoninės nuosavybės objekt
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.13BA31BA9E61|Lietuvos Respublikos dizaino įstatymas]] - 3 citatos - Lietuvos Respublikos dizaino įstatymo
-- [[latest/TAR.7DE59B8C46B2|Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymas]] - 4 citatos - 2001 m. birželio 5 d. įstatymo Nr. IX-352
-- [[latest/TAR.07786E0929A8|Lietuvos Respublikos patentų įstatymas]] - 2 citatos - Patentų įstatymo
-- [[latest/TAR.B494EC0B78B0|Lietuvos Respublikos prekių ženklų įstatymas]] - 3 citatos - Lietuvos Respublikos prekių ženklų įstatymo
+- [[latest/TAR.13BA31BA9E61|Lietuvos Respublikos dizaino įstatymas]] - 2 citatos - Lietuvos Respublikos dizaino įstatymo
+- [[latest/TAR.7DE59B8C46B2|Lietuvos Respublikos mokesčių už pramoninės nuosavybės objektų registravimą įstatymas]] - 4 citatos - įstatymo Nr. IX-352
+- [[latest/TAR.07786E0929A8|Lietuvos Respublikos patentų įstatymas]] - Patentų įstatymo
+- [[latest/TAR.B494EC0B78B0|Lietuvos Respublikos prekių ženklų įstatymas]] - 2 citatos - Lietuvos Respublikos prekių ženklų įstatymo
 
 ## Šį įstatymą cituoja
 

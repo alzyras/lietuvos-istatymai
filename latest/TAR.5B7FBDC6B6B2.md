@@ -36,7 +36,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-2728cb399653af2f40e8f68b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. spalio 18 d. dekretą Nr. 1078, ratifikuoja 1995 m. Romoje pasirašytą UNIDROIT konvenciją dėl pavogtų ar neteisėtai išvežtų kultūros objektų.
+Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento [1996 m. spalio 18 d. dekretą Nr. 1078](https://e-tar.lt/portal/lt/legalAct/TAR.20470E56453B), ratifikuoja 1995 m. Romoje pasirašytą UNIDROIT konvenciją dėl pavogtų ar neteisėtai išvežtų kultūros objektų.
 
 
 

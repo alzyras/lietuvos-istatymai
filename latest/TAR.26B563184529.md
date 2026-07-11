@@ -439,7 +439,7 @@ Nr. XV-480, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17635
 2. Savivaldybės lygmens ir vietovės lygmens teritorijų planavimo dokumentų rengimą organizuoja savivaldybės administracijos direktorius, išskyrus [[#^s-d9cc3ac55a336ca6e4fa3bba|šio straipsnio 1 dalyje]] nurodytus teritorijų planavimo dokumentus ir atvejus, kai kiti įstatymai nustato kitus specialiojo teritorijų planavimo organizatorius. ^s-712dd6d2ac6e388418b66b8d
 
 
-3. Fiziniai asmenys, juridiniai asmenys ar jų padaliniai, kitos organizacijos ar jų padaliniai turi planavimo iniciatyvos teisę (toliau – planavimo iniciatoriai) ir gali Vyriausybės nustatyta tvarka ir sąlygomis tik savo valia ir sprendimu teikti savivaldybei ar kitų įstatymų nustatytiems specialiojo teritorijų planavimo organizatoriams pasiūlymus dėl vietovės lygmens teritorijų planavimo dokumentų rengimo, keitimo ar koregavimo ir (ar) finansavimo, šio įstatymo [[#^s-4e297fd5b2c1b2a908815fa7|28 straipsnio 7 dalyje]] nurodytais atvejais – dėl savivaldybės lygmens bendrojo plano koregavimo. Savivaldybės administracijos direktorius ar kitų įstatymų nustatyti specialiojo teritorijų planavimo organizatoriai per 20 darbo dienų nuo šio pasiūlymo gavimo dienos privalo priimti sprendimą tenkinti pasiūlymą ir paviešinti sprendimo dėl teritorijų planavimo dokumento rengimo ir planavimo tikslų projektą šio įstatymo [[#^s-b8862446054035633c740f49|31 straipsnio 4 dalyje]] nustatyta tvarka arba per 10 darbo dienų nuo šio pasiūlymo gavimo dienos motyvuotai atmesti pasiūlymą. Lietuvos Respublikos krašto apsaugos ministerija ar krašto apsaugos ministro įgaliota institucija ir Lietuvos Respublikos ekonomikos ir inovacijų ministerija ar ekonomikos ir inovacijų ministro įgaliota institucija šio įstatymo [[#^s-4e297fd5b2c1b2a908815fa7|28 straipsnio 7 dalyje]] nurodytais atvejais Vyriausybės nustatyta tvarka ir sąlygomis gali teikti savivaldybei pasiūlymus dėl savivaldybės lygmens ir vietovės lygmens bendrojo plano koregavimo. Savivaldybės administracijos direktorius per 5 darbo dienas nuo Krašto apsaugos ministerijos ar krašto apsaugos ministro įgaliotos institucijos pasiūlymo gavimo dienos ir per 15 darbo dienų nuo Ekonomikos ir inovacijų ministerijos ar ekonomikos ir inovacijų ministro įgaliotos institucijos pasiūlymo gavimo dienos priima sprendimą dėl atitinkamo bendrojo plano koregavimo pradžios ir planavimo tikslų arba motyvuotai šį pasiūlymą atmeta. Sprendimas priimti Krašto apsaugos ministerijos ar Ekonomikos ir inovacijų ministerijos ar krašto apsaugos ministro, ekonomikos ir inovacijų ministro įgaliotų institucijų pasiūlymą kartu su planavimo organizatoriaus sprendimo dėl teritorijų planavimo dokumento rengimo ir teritorijų planavimo tikslų projektu viešinamas šio įstatymo [[#^s-b8862446054035633c740f49|31 straipsnio 4 dalyje]] nustatyta tvarka. Apie motyvuotą sprendimą atmesti pasiūlymą visais atvejais informuojamas šį pasiūlymą pateikęs planavimo iniciatorius ir sprendimas skelbiamas savivaldybės ar kitų įstatymų nustatytų specialiojo teritorijų planavimo organizatorių interneto svetainėse. Savivaldybės administracijos direktorius ar kitų įstatymų nustatyti specialiojo teritorijų planavimo organizatoriai neturi teisės reikalauti naudotis iniciatyvos teise, kai šiame įstatyme nustatytais atvejais numatytai veiklai įgyvendinti teritorijų planavimas nereikalingas. Priėmus sprendimą rengti, keisti ar koreguoti siūlomą teritorijų planavimo dokumentą, planavimo iniciatoriai su savivaldybės administracijos direktoriumi ar kitų įstatymų nustatytu specialiojo teritorijų planavimo organizatoriumi Vyriausybės nustatyta tvarka ir sąlygomis sudaro teritorijų planavimo proceso inicijavimo sutartį, numatančią teritorijų planavimo dokumento rengimą, keitimą, koregavimą ir (ar) finansavimą, (jeigu kitokia teritorijų planavimo dokumentų finansavimo tvarka nenustatyta kituose specialiojo teritorijų planavimo dokumentų rengimą reglamentuojančiuose teisės aktuose). Teritorijų planavimo proceso inicijavimo sutartis, išskyrus joje nurodytus asmens duomenis, skelbiama viešai savivaldybės ar kitų įstatymų nustatyto specialiojo teritorijų planavimo organizatoriaus interneto svetainėje ir per Topografijos, inžinerinės infrastruktūros, teritorijų planavimo ir statybos elektroninių vartų informacinę sistemą (toliau – TPS „Vartai“). ^s-e4e8cf1815d0ca2dac83c670
+3. Fiziniai asmenys, juridiniai asmenys ar jų padaliniai, kitos organizacijos ar jų padaliniai turi planavimo iniciatyvos teisę (toliau – planavimo iniciatoriai) ir gali Vyriausybės nustatyta tvarka ir sąlygomis tik savo valia ir sprendimu teikti savivaldybei ar kitų įstatymų nustatytiems specialiojo teritorijų planavimo organizatoriams pasiūlymus dėl vietovės lygmens teritorijų planavimo dokumentų rengimo, keitimo ar koregavimo ir (ar) finansavimo, šio įstatymo [[#^s-4e297fd5b2c1b2a908815fa7|28 straipsnio 7 dalyje]] nurodytais atvejais – dėl savivaldybės lygmens bendrojo plano koregavimo. Savivaldybės administracijos direktorius ar kitų įstatymų nustatyti specialiojo teritorijų planavimo organizatoriai per 20 darbo dienų nuo šio pasiūlymo gavimo dienos privalo priimti sprendimą tenkinti pasiūlymą ir paviešinti sprendimo dėl teritorijų planavimo dokumento rengimo ir planavimo tikslų projektą šio įstatymo 31 straipsnio 4 dalyje nustatyta tvarka arba per 10 darbo dienų nuo šio pasiūlymo gavimo dienos motyvuotai atmesti pasiūlymą. Lietuvos Respublikos krašto apsaugos ministerija ar krašto apsaugos ministro įgaliota institucija ir Lietuvos Respublikos ekonomikos ir inovacijų ministerija ar ekonomikos ir inovacijų ministro įgaliota institucija šio įstatymo [[#^s-4e297fd5b2c1b2a908815fa7|28 straipsnio 7 dalyje]] nurodytais atvejais Vyriausybės nustatyta tvarka ir sąlygomis gali teikti savivaldybei pasiūlymus dėl savivaldybės lygmens ir vietovės lygmens bendrojo plano koregavimo. Savivaldybės administracijos direktorius per 5 darbo dienas nuo Krašto apsaugos ministerijos ar krašto apsaugos ministro įgaliotos institucijos pasiūlymo gavimo dienos ir per 15 darbo dienų nuo Ekonomikos ir inovacijų ministerijos ar ekonomikos ir inovacijų ministro įgaliotos institucijos pasiūlymo gavimo dienos priima sprendimą dėl atitinkamo bendrojo plano koregavimo pradžios ir planavimo tikslų arba motyvuotai šį pasiūlymą atmeta. Sprendimas priimti Krašto apsaugos ministerijos ar Ekonomikos ir inovacijų ministerijos ar krašto apsaugos ministro, ekonomikos ir inovacijų ministro įgaliotų institucijų pasiūlymą kartu su planavimo organizatoriaus sprendimo dėl teritorijų planavimo dokumento rengimo ir teritorijų planavimo tikslų projektu viešinamas šio įstatymo 31 straipsnio 4 dalyje nustatyta tvarka. Apie motyvuotą sprendimą atmesti pasiūlymą visais atvejais informuojamas šį pasiūlymą pateikęs planavimo iniciatorius ir sprendimas skelbiamas savivaldybės ar kitų įstatymų nustatytų specialiojo teritorijų planavimo organizatorių interneto svetainėse. Savivaldybės administracijos direktorius ar kitų įstatymų nustatyti specialiojo teritorijų planavimo organizatoriai neturi teisės reikalauti naudotis iniciatyvos teise, kai šiame įstatyme nustatytais atvejais numatytai veiklai įgyvendinti teritorijų planavimas nereikalingas. Priėmus sprendimą rengti, keisti ar koreguoti siūlomą teritorijų planavimo dokumentą, planavimo iniciatoriai su savivaldybės administracijos direktoriumi ar kitų įstatymų nustatytu specialiojo teritorijų planavimo organizatoriumi Vyriausybės nustatyta tvarka ir sąlygomis sudaro teritorijų planavimo proceso inicijavimo sutartį, numatančią teritorijų planavimo dokumento rengimą, keitimą, koregavimą ir (ar) finansavimą, (jeigu kitokia teritorijų planavimo dokumentų finansavimo tvarka nenustatyta kituose specialiojo teritorijų planavimo dokumentų rengimą reglamentuojančiuose teisės aktuose). Teritorijų planavimo proceso inicijavimo sutartis, išskyrus joje nurodytus asmens duomenis, skelbiama viešai savivaldybės ar kitų įstatymų nustatyto specialiojo teritorijų planavimo organizatoriaus interneto svetainėje ir per Topografijos, inžinerinės infrastruktūros, teritorijų planavimo ir statybos elektroninių vartų informacinę sistemą (toliau – TPS „Vartai“). ^s-e4e8cf1815d0ca2dac83c670
 Straipsnio dalies pakeitimai:
 Nr. XV-212, 2025-05-15, paskelbta TAR 2025-05-28, i. k. 2025-09426
 Nr. XV-825, 2026-04-16, paskelbta TAR 2026-04-21, i. k. 2026-06396
@@ -452,7 +452,7 @@ Nr. XV-825, 2026-04-16, paskelbta TAR 2026-04-21, i. k. 2026-06396
 
 
 
-5. Teritorijų planavimo dokumentų rengėjus pasirenka planavimo organizatoriai Lietuvos Respublikos įstatymų nustatyta tvarka, išskyrus atvejus, kai sudarydamas teritorijų planavimo proceso inicijavimo sutartį planavimo iniciatorius pasirenka teritorijų planavimo dokumentų rengėją. Savivaldybės lygmens ir vietovės lygmens teritorijų planavimo dokumentai rengiami savivaldybės lėšomis, jeigu kiti Lietuvos Respublikos įstatymai nenustato kitaip arba jeigu dėl teritorijų planavimo dokumentų rengimo finansavimo susitariama kitaip pagal planavimo iniciatoriaus su savivaldybės administracijos direktoriumi ar kitų įstatymų nustatytu specialiojo teritorijų planavimo organizatoriumi sudarytą tarpusavio sutartį, taip pat teritorijų planavimo dokumentų rengimas gali būti finansuojamas iš Europos Sąjungos lėšų. ^s-df830642a185c55ed686339e
+5. Teritorijų planavimo dokumentų rengėjus pasirenka planavimo organizatoriai Lietuvos Respublikos įstatymų nustatyta tvarka, išskyrus atvejus, kai sudarydamas teritorijų planavimo proceso inicijavimo sutartį planavimo iniciatorius pasirenka teritorijų planavimo dokumentų rengėją. Savivaldybės lygmens ir vietovės lygmens teritorijų planavimo dokumentai rengiami savivaldybės lėšomis, jeigu kiti Lietuvos Respublikos įstatymai nenustato kitaip arba jeigu [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09) finansavimo susitariama kitaip pagal planavimo iniciatoriaus su savivaldybės administracijos direktoriumi ar kitų įstatymų nustatytu specialiojo teritorijų planavimo organizatoriumi sudarytą tarpusavio sutartį, taip pat teritorijų planavimo dokumentų rengimas gali būti finansuojamas iš Europos Sąjungos lėšų. ^s-df830642a185c55ed686339e
 
 
 6. Planavimo organizatorius turi teisę priimti sprendimą nutraukti pradėtą teritorijų planavimo procesą, jeigu nustato, kad planavimo tikslai gali būti įgyvendinti kitomis priemonėmis nerengiant teritorijų planavimo dokumento, arba nutraukiama teritorijų planavimo proceso inicijavimo sutartis. Sprendimas nutraukti pradėtą teritorijų planavimo procesą skelbiamas planavimo organizatoriaus interneto svetainėje, planuojamoje teritorijoje esančių seniūnijų skelbimų lentose ir pranešimuose (siunčiamuose elektroniniu paštu) šių seniūnijų seniūnams ir seniūnaičiams, TPS „Vartai“. ^s-a50ab8ce4bc36ed413739ae9
@@ -1331,7 +1331,7 @@ TERITORIJŲ PLANAVIMO PROCESAS
 4. Savivaldybės arba jos dalių bendrieji planai pradedami rengti savivaldybės tarybai priėmus sprendimą dėl savivaldybės arba jos dalių bendrųjų planų rengimo pradžios ir planavimo tikslų. Šių planų rengimą organizuoja savivaldybės administracijos direktorius. ^s-11b6dea3350cf84840513fa3
 
 
-5. Detalieji planai pradedami rengti merui ar jo įgaliotam savivaldybės administracijos direktoriui priėmus sprendimą dėl detaliojo plano rengimo pradžios ir planavimo tikslų. Detaliųjų planų rengimą organizuoja savivaldybės administracijos direktorius. ^s-673ed52a6c758dde9179aaf7
+5. Detalieji planai pradedami rengti merui ar jo įgaliotam savivaldybės administracijos direktoriui priėmus sprendimą [dėl detaliojo plano rengimo pradžios](https://e-tar.lt/portal/lt/legalAct/TAR.A7F9A335D705) ir planavimo tikslų. Detaliųjų planų rengimą organizuoja savivaldybės administracijos direktorius. ^s-673ed52a6c758dde9179aaf7
 Straipsnio dalies pakeitimai:
 Nr. XIV-1275, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15623
 Nr. XIV-2334, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25088
@@ -1611,10 +1611,10 @@ Nr. XIV-2334, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25088
 ### 28 straipsnis. Kompleksinio teritorijų planavimo dokumentų keitimas ir koregavimas ^s-44e3b3a2852463aea2141ed1
 
 
-1. Kompleksinio teritorijų planavimo dokumentai keičiami sprendimą rengti tą teritorijų planavimo dokumentą priėmusios valstybės ar savivaldybės institucijos sprendimu dėl dokumento keitimo, laikantis šiame įstatyme nustatytų teritorijų planavimo proceso reikalavimų ir taikant tą pačią dokumento tvirtinimo procedūrą. Fiziniai asmenys, juridiniai asmenys ar jų padaliniai, kitos organizacijos ar jų padaliniai turi iniciatyvos teisę siūlyti planavimo organizatoriui keisti vietovės lygmens kompleksinio teritorijų planavimo dokumentą šio įstatymo [[#^s-838d5ef91f5ed04e7446633d|6 straipsnio]] 3 ir [[#^s-1e7a432ebd037896a64c9a36|4 dalyse]] nustatyta tvarka. ^s-d59b657385eb5990f8e6f71e
+1. Kompleksinio teritorijų planavimo dokumentai keičiami sprendimą rengti tą teritorijų planavimo dokumentą priėmusios valstybės ar savivaldybės institucijos sprendimu dėl dokumento keitimo, laikantis šiame įstatyme nustatytų teritorijų planavimo proceso reikalavimų ir taikant tą pačią dokumento tvirtinimo procedūrą. Fiziniai asmenys, juridiniai asmenys ar jų padaliniai, kitos organizacijos ar jų padaliniai turi iniciatyvos teisę siūlyti planavimo organizatoriui keisti vietovės lygmens kompleksinio teritorijų planavimo dokumentą šio įstatymo [[#^s-838d5ef91f5ed04e7446633d|6 straipsnio]] [[#^s-e4e8cf1815d0ca2dac83c670|3]] ir [[#^s-91d8161e31683579baff41aa|4]] dalyse nustatyta tvarka. ^s-d59b657385eb5990f8e6f71e
 
 
-2. Sprendimą dėl kompleksinio teritorijų planavimo dokumento koregavimo pradžios ir planavimo tikslų priima planavimo organizatorius. Fiziniai asmenys, juridiniai asmenys ar jų padaliniai, kitos organizacijos ar jų padaliniai turi iniciatyvos teisę siūlyti planavimo organizatoriui koreguoti vietovės lygmens kompleksinio teritorijų planavimo dokumentą šio įstatymo [[#^s-838d5ef91f5ed04e7446633d|6 straipsnio]] 3 ir [[#^s-1e7a432ebd037896a64c9a36|4 dalyse]] nustatyta tvarka. Krašto apsaugos ministerija ar jos įgaliota institucija, taip pat Ekonomikos ir inovacijų ministerija ar jos įgaliota institucija turi iniciatyvos teisę siūlyti planavimo organizatoriui koreguoti ir savivaldybės lygmens bendrąjį planą šio įstatymo [[#^s-838d5ef91f5ed04e7446633d|6 straipsnio]] 3 ir [[#^s-1e7a432ebd037896a64c9a36|4 dalyse]] nustatyta tvarka. ^s-3da06a392d6a9d0af974b8a4
+2. Sprendimą dėl kompleksinio teritorijų planavimo dokumento koregavimo pradžios ir planavimo tikslų priima planavimo organizatorius. Fiziniai asmenys, juridiniai asmenys ar jų padaliniai, kitos organizacijos ar jų padaliniai turi iniciatyvos teisę siūlyti planavimo organizatoriui koreguoti vietovės lygmens kompleksinio teritorijų planavimo dokumentą šio įstatymo [[#^s-838d5ef91f5ed04e7446633d|6 straipsnio]] [[#^s-e4e8cf1815d0ca2dac83c670|3]] ir [[#^s-91d8161e31683579baff41aa|4]] dalyse nustatyta tvarka. Krašto apsaugos ministerija ar jos įgaliota institucija, taip pat Ekonomikos ir inovacijų ministerija ar jos įgaliota institucija turi iniciatyvos teisę siūlyti planavimo organizatoriui koreguoti ir savivaldybės lygmens bendrąjį planą šio įstatymo [[#^s-838d5ef91f5ed04e7446633d|6 straipsnio]] [[#^s-e4e8cf1815d0ca2dac83c670|3]] ir [[#^s-91d8161e31683579baff41aa|4]] dalyse nustatyta tvarka. ^s-3da06a392d6a9d0af974b8a4
 
 
 3. Kompleksinio teritorijų planavimo dokumentų korektūros rengimo, derinimo, tikrinimo, tvirtinimo ir įsigaliojimo tvarka nustatyta šiame įstatyme ir Kompleksinio teritorijų planavimo dokumentų rengimo taisyklėse. Kompleksinio teritorijų planavimo dokumento korektūra tvirtinama teritorijų planavimo dokumentą tvirtinančio subjekto sprendimu ir registruojama šio įstatymo nustatyta tvarka. ^s-76d117086eefc799d3832541
@@ -1644,7 +1644,7 @@ Nr. XV-212, 2025-05-15, paskelbta TAR 2025-05-28, i. k. 2025-09426
 2) perduoda pasiūlymą valstybės ar savivaldybės institucijai, priėmusiai sprendimą rengti tą kompleksinio teritorijų planavimo dokumentą, o ši per vieną mėnesį priima sprendimą dėl galiojančio kompleksinio teritorijų planavimo dokumento keitimo arba motyvuotai atmeta pasiūlymą. ^s-b54650213ddf127e4a36df1f
 
 
-9. Detaliųjų planų (arba vietovės lygmens bendrųjų planų, kuriuose nustatomas detaliųjų planų teritorijos naudojimo reglamentas) sprendiniai, išskyrus teritorijos naudojimo reglamento sprendinius, nurodytus šio įstatymo [[#^s-a27b321fd6a5ff270a01bcb9|18 straipsnio 1 dalies]] 1–4 punktuose, nekeičiant nustatyto užstatymo tipo, skirtingo leidžiamojo aukščio ir (ar) leidžiamosios aukščio altitudės pastatų (jų dalių) išdėstymo, nustatytų žemės sklypų ribų ir nemažinant viešųjų erdvių ploto koreguojant šiuos dokumentus gali būti naikinami, naujai nustatomi ar keičiami šiuos teritorijų planavimo dokumentus tvirtinančio subjekto sprendimu, jeigu tai nepažeidžia įstatymų ir kitų teisės aktų reikalavimų, aukštesnio lygmens kompleksinio ar specialiojo teritorijų planavimo dokumento sprendinių ir nesikeičia nustatytos pasekmės ar poveikis aplinkai. Prieš tai šiam kompleksinio teritorijų planavimo dokumento koregavimui turi raštu pritarti visi žemės sklypo valdytojai (išskyrus atvejus, kai privaloma gauti savivaldybės, kaip žemės savininkės ar valstybinės žemės patikėtinės, pritarimą, kuris išreiškiamas šį kompleksinio teritorijų planavimo dokumentą tvirtinančio subjekto sprendimu) ir Teritorijų planavimo komisija. Informacija visuomenei apie šioje dalyje nurodytą kompleksinio teritorijų planavimo dokumento koregavimą skelbiama Vyriausybės nustatyta supaprastinta teritorijų planavimo dokumentų viešinimo procedūrų tvarka planavimo organizatoriaus interneto svetainėje, TPS „Vartai“ ir prie planuojamos teritorijos ribų planavimo organizatoriaus nurodytoje (-ose) vietoje (-ose) įrengtame (-uose) informaciniame (-iuose) stende (-uose). ^s-61eb50a2a7ed0c82dcac2420
+9. Detaliųjų planų (arba vietovės lygmens bendrųjų planų, kuriuose nustatomas detaliųjų planų teritorijos naudojimo reglamentas) sprendiniai, išskyrus teritorijos naudojimo reglamento sprendinius, nurodytus šio įstatymo [[#^s-a27b321fd6a5ff270a01bcb9|18 straipsnio 1 dalies]] [[#^s-df2c178c6665814d7624d518|1]]–[[#^s-69652f4d67ae4a57a79ff1f5|4]] punktuose, nekeičiant nustatyto užstatymo tipo, skirtingo leidžiamojo aukščio ir (ar) leidžiamosios aukščio altitudės pastatų (jų dalių) išdėstymo, nustatytų žemės sklypų ribų ir nemažinant viešųjų erdvių ploto koreguojant šiuos dokumentus gali būti naikinami, naujai nustatomi ar keičiami šiuos teritorijų planavimo dokumentus tvirtinančio subjekto sprendimu, jeigu tai nepažeidžia įstatymų ir kitų teisės aktų reikalavimų, aukštesnio lygmens kompleksinio ar specialiojo teritorijų planavimo dokumento sprendinių ir nesikeičia nustatytos pasekmės ar poveikis aplinkai. Prieš tai šiam kompleksinio teritorijų planavimo dokumento koregavimui turi raštu pritarti visi žemės sklypo valdytojai (išskyrus atvejus, kai privaloma gauti savivaldybės, kaip žemės savininkės ar valstybinės žemės patikėtinės, pritarimą, kuris išreiškiamas šį kompleksinio teritorijų planavimo dokumentą tvirtinančio subjekto sprendimu) ir Teritorijų planavimo komisija. Informacija visuomenei apie šioje dalyje nurodytą kompleksinio teritorijų planavimo dokumento koregavimą skelbiama Vyriausybės nustatyta supaprastinta teritorijų planavimo dokumentų viešinimo procedūrų tvarka planavimo organizatoriaus interneto svetainėje, TPS „Vartai“ ir prie planuojamos teritorijos ribų planavimo organizatoriaus nurodytoje (-ose) vietoje (-ose) įrengtame (-uose) informaciniame (-iuose) stende (-uose). ^s-61eb50a2a7ed0c82dcac2420
 Straipsnio dalies pakeitimai:
 Nr. XV-212, 2025-05-15, paskelbta TAR 2025-05-28, i. k. 2025-09426
 Nr. XV-825, 2026-04-16, paskelbta TAR 2026-04-21, i. k. 2026-06396
@@ -1674,7 +1674,7 @@ Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 1. Kompleksinio teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėsena atliekama valstybės teritorijos bendrajam planui, valstybės teritorijos dalių bendriesiems planams, savivaldybių ir jų dalių bendriesiems planams. ^s-e7165617d12913bcfc73d652
 
 
-2. Kompleksinio teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėseną šio įstatymo [[#^s-30c1a28efec743a47ca185e2|7 straipsnio]] 4 ir [[#^s-f84a42c9448737e0c880135d|5 dalyse]] nurodyti subjektai atlieka nuolat. Atitinkamo lygmens teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėsenai atlikti valstybė ar savivaldybės naudoja TPS „Vartai“. ^s-b4b1be1d8dbeb480e577ec94
+2. Kompleksinio teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėseną šio įstatymo [[#^s-30c1a28efec743a47ca185e2|7 straipsnio]] [[#^s-6004c2cb1c7f6a469eef5f50|4]] ir [[#^s-364e05d0eeb1be2763c3394e|5]] dalyse nurodyti subjektai atlieka nuolat. Atitinkamo lygmens teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėsenai atlikti valstybė ar savivaldybės naudoja TPS „Vartai“. ^s-b4b1be1d8dbeb480e577ec94
 Straipsnio dalies pakeitimai:
 Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
 Nr. XV-825, 2026-04-16, paskelbta TAR 2026-04-21, i. k. 2026-06396
@@ -1689,7 +1689,7 @@ Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
 
 
 
-4. Šio įstatymo [[#^s-30c1a28efec743a47ca185e2|7 straipsnio]] 4 ar [[#^s-f84a42c9448737e0c880135d|5 dalyje]] nurodytas subjektas, atlikdamas kompleksinio teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėseną, vadovaudamasis kompleksinio teritorijų planavimo dokumento sprendinių įgyvendinimo programa, kaupia ir analizuoja informaciją, stebi, analizuoja ir prognozuoja teritorijos raidos tendencijas ir jų įtaką kompleksinio teritorijų planavimo dokumento sprendinių įgyvendinimui ir parengia stebėsenos ataskaitą. ^s-9f924158654673b70f04ff6d
+4. Šio įstatymo [[#^s-30c1a28efec743a47ca185e2|7 straipsnio]] [[#^s-6004c2cb1c7f6a469eef5f50|4]] ar [[#^s-364e05d0eeb1be2763c3394e|5]] dalyje nurodytas subjektas, atlikdamas kompleksinio teritorijų planavimo dokumentų sprendinių įgyvendinimo stebėseną, vadovaudamasis kompleksinio teritorijų planavimo dokumento sprendinių įgyvendinimo programa, kaupia ir analizuoja informaciją, stebi, analizuoja ir prognozuoja teritorijos raidos tendencijas ir jų įtaką kompleksinio teritorijų planavimo dokumento sprendinių įgyvendinimui ir parengia stebėsenos ataskaitą. ^s-9f924158654673b70f04ff6d
 Straipsnio dalies pakeitimai:
 Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
 
@@ -1870,7 +1870,7 @@ Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
 
 
 
-6. Šiame įstatyme nurodyti asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu) ir kitais teisės aktais, reglamentuojančiais asmens duomenų apsaugą. TPS „Vartai“, savivaldybių interneto svetainėse viešai, iki jose skelbiami teritorijų planavimo dokumentai, gali būti skelbiami šie duomenys: ^s-e1253ff85e696fd4ee9e4967
+6. Šiame įstatyme nurodyti asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu) ir kitais teisės aktais, reglamentuojančiais asmens duomenų apsaugą. TPS „Vartai“, savivaldybių interneto svetainėse viešai, iki jose skelbiami teritorijų planavimo dokumentai, gali būti skelbiami šie duomenys: ^s-e1253ff85e696fd4ee9e4967
 
 Straipsnio dalies pakeitimai:
 Nr. XV-212, 2025-05-15, paskelbta TAR 2025-05-28, i. k. 2025-09426
@@ -2072,7 +2072,7 @@ Konsultavimosi metu, vadovaudamiesi Vyriausybės tvirtinamais Visuomenės inform
 3. Planavimo organizatoriaus atsakyme pasiūlymus pateikusiam asmeniui nurodoma, ar planavimo organizatorius pritaria pasiūlymams, ar motyvuotai juos atmeta. Kai pasiūlymai dėl teritorijų planavimo dokumento priimami, teritorijų planavimo dokumentas atitinkamai pakoreguojamas ir planavimo organizatoriaus sprendimu teikiamas pakartotinai viešai svarstyti ar pakartotinai susipažinti, jeigu pagal priimtus pasiūlymus keičiami teritorijų planavimo dokumento sprendiniai, apie kuriuos nebuvo informuota visuomenė. Kai teritorijų planavimo dokumento sprendiniai keičiami atsižvelgus į priimtus pasiūlymus, apie kuriuos buvo viešai informuota, ar į teritorijų planavimo dokumentą derinančių institucijų pastabas teritorijų planavimo proceso baigiamojo etapo teritorijų planavimo dokumento derinimo stadijoje, visuomenė su pakeistais teritorijų planavimo dokumento sprendiniais supažindinama TPS „Vartai“ ir sprendimą rengti teritorijų planavimo dokumentą priėmusios valstybės institucijos ar savivaldybės interneto svetainėje. Planavimo organizatorius apie parengtą ir pagal pasiūlymus, į kuriuos atsižvelgta, pataisytą teritorijų planavimo dokumentą, susipažinimo su juo, svarstymo tvarką, vietą ir laiką turi paskelbti TPS „Vartai“ ir sprendimą rengti teritorijų planavimo dokumentą priėmusios valstybės institucijos ar savivaldybės interneto svetainėje. ^s-68a51c5d2678de88a6f6983c
 
 
-4. Jeigu planavimo organizatorius po viešo svarstymo ar pasibaigus susipažinimo su parengtu valstybės lygmens teritorijų planavimo dokumentu terminui nusprendžia pakeisti dalį rengiamo teritorijų planavimo dokumento sprendinių, teritorijų planavimo dokumentas su pakeistais sprendiniais teikiamas pakartotinai viešai svarstyti ar pakartotinai susipažinti. Šioje dalyje nurodytu atveju pasiūlymai planavimo organizatoriui teikiami tik dėl pakeistų teritorijų planavimo dokumento sprendinių šio straipsnio 1 ir [[#^s-450c55108fc1b858aef07909|2 dalyse]] nustatyta tvarka. ^s-db8da2b54be383555295969f
+4. Jeigu planavimo organizatorius po viešo svarstymo ar pasibaigus susipažinimo su parengtu valstybės lygmens teritorijų planavimo dokumentu terminui nusprendžia pakeisti dalį rengiamo teritorijų planavimo dokumento sprendinių, teritorijų planavimo dokumentas su pakeistais sprendiniais teikiamas pakartotinai viešai svarstyti ar pakartotinai susipažinti. Šioje dalyje nurodytu atveju pasiūlymai planavimo organizatoriui teikiami tik dėl pakeistų teritorijų planavimo dokumento sprendinių šio straipsnio [[#^s-d9e90734ca1651fb082913e4|1]] ir [[#^s-450c55108fc1b858aef07909|2]] dalyse nustatyta tvarka. ^s-db8da2b54be383555295969f
 
 
 5. Planavimo organizatorius, išnagrinėjęs visuomenės pateiktus pasiūlymus dėl teritorijų planavimo dokumentų, parengia apibendrintą informaciją apie priimtus ir motyvuotai atmestus pasiūlymus su paaiškinimais, kaip atsižvelgta į visuomenės nuomonę, ir šią informaciją, visuomenės pasiūlymų kopijas kartu su parengtais teritorijų planavimo dokumentais teikia teritorijų planavimo dokumentą tikrinančiai institucijai. ^s-1a03bbade224978e0ad89def
@@ -2167,7 +2167,7 @@ Nr. XIV-500, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15875
 
 
 
-4. Atestatas pagal teritorijų planavimo dokumentų rūšis ir teritorijų planavimo lygmenis išduodamas neterminuotam laikui šio straipsnio 1 ir [[#^s-4c7fe9e73f568fcdf4484575|2 dalyse]] nurodytiems fiziniams asmenims, atitinkantiems šiuos kvalifikacinius reikalavimus: ^s-30a7c86af8bd1fbc282aaa45
+4. Atestatas pagal teritorijų planavimo dokumentų rūšis ir teritorijų planavimo lygmenis išduodamas neterminuotam laikui šio straipsnio [[#^s-269c388f9e2d99f8053ea3c2|1]] ir [[#^s-4c7fe9e73f568fcdf4484575|2]] dalyse nurodytiems fiziniams asmenims, atitinkantiems šiuos kvalifikacinius reikalavimus: ^s-30a7c86af8bd1fbc282aaa45
 
 
 1) fiziniai asmenys, siekiantys įgyti teisę vadovauti kompleksinio teritorijų planavimo dokumentų rengimui, privalo turėti [[#^s-2f2d32fdbc8b0ad751a41e5f|šio straipsnio 1 dalies 2 punkte]] nurodytą išsilavinimą, ne mažesnę kaip 3 metų profesinę patirtį (jos trukmė skaičiuojama pradedant nuo [[#^s-2f2d32fdbc8b0ad751a41e5f|šio straipsnio 1 dalies 2 punkte]] nurodyto išsilavinimo įgijimo dienos) dalyvaujant rengiant atitinkamo lygmens kompleksinio teritorijų planavimo dokumentus arba profesinę patirtį vadovaujant žemesnio lygmens kompleksinio teritorijų planavimo dokumentų rengimui, taip pat būti atestavimą atliekančios institucijos nustatyta tvarka išlaikę profesinių ir teisinių žinių egzaminą pagal aplinkos ministro patvirtintą programą; ^s-da97eb4672ba79a4b419c3ba
@@ -2185,7 +2185,7 @@ Nr. XIV-500, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15875
 
 
 
-6. Kai teritorijų planavimo valstybinę priežiūrą atliekanti institucija nustato, kad šio straipsnio 1 ir [[#^s-4c7fe9e73f568fcdf4484575|2 dalyse]] nurodyti asmenys, rengdami teritorijų planavimo dokumentus ar vadovaudami jų rengimui, pažeidė įstatymų, kitų teisės aktų, teritorijų planavimo dokumentų rengimo reikalavimus, atestatų galiojimas gali būti sustabdomas, iki bus pašalinti pažeidimai, dėl kurių buvo sustabdytas atestatų galiojimas, visais atvejais ne ilgiau kaip 6 mėnesiams. ^s-a6910cd13e5feb149b012b26
+6. Kai teritorijų planavimo valstybinę priežiūrą atliekanti institucija nustato, kad šio straipsnio [[#^s-269c388f9e2d99f8053ea3c2|1]] ir [[#^s-4c7fe9e73f568fcdf4484575|2]] dalyse nurodyti asmenys, rengdami teritorijų planavimo dokumentus ar vadovaudami jų rengimui, pažeidė įstatymų, kitų teisės aktų, teritorijų planavimo dokumentų rengimo reikalavimus, atestatų galiojimas gali būti sustabdomas, iki bus pašalinti pažeidimai, dėl kurių buvo sustabdytas atestatų galiojimas, visais atvejais ne ilgiau kaip 6 mėnesiams. ^s-a6910cd13e5feb149b012b26
 
 
 61. Atestavimą atliekanti organizacija, atsižvelgdama į pažeidimo pobūdį, pasekmes, aplinkybes, kuriomis padarytas pažeidimas, 6 mėnesiams sustabdo atestato galiojimą architektams, kai jų veikloje nustatomi Europos architektūros paslaugų teikėjų etikos kodekso pažeidimai, taip pat kai paaiškėja, kad jie padarė pažeidimus, nurodytus [[latest/ea80d52054f211e7846ef01bfffb9b64|Lietuvos Respublikos architektūros įstatyme]], ir nustato terminą pažeidimams, dėl kurių sustabdomas atestato galiojimas, pašalinti. ^s-49261b82e0bbb42e3674ced9
@@ -2230,7 +2230,7 @@ Nr. XIV-500, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15875
 
 
 
-9. Panaikinus atestato galiojimą, šio straipsnio 1 ir [[#^s-4c7fe9e73f568fcdf4484575|2 dalyse]] nurodyti fiziniai asmenys dėl naujo atestato išdavimo gali kreiptis ne anksčiau kaip po vienų metų, išskyrus [[#^s-99197c8a6b789c7bdc76e5a5|šio straipsnio 8 dalies 6 punkte]] nurodytą atvejį. ^s-ce2bd9d43ebbe33cc3c0ad6b
+9. Panaikinus atestato galiojimą, šio straipsnio [[#^s-269c388f9e2d99f8053ea3c2|1]] ir [[#^s-4c7fe9e73f568fcdf4484575|2]] dalyse nurodyti fiziniai asmenys dėl naujo atestato išdavimo gali kreiptis ne anksčiau kaip po vienų metų, išskyrus [[#^s-99197c8a6b789c7bdc76e5a5|šio straipsnio 8 dalies 6 punkte]] nurodytą atvejį. ^s-ce2bd9d43ebbe33cc3c0ad6b
 
 
 10. Fizinis asmuo, pageidaujantis gauti arba pakeisti teritorijų planavimo vadovo atestatą, už šias paslaugas turi sumokėti atestavimą atliekančiai organizacijai aplinkos ministro nustatytą įmoką. Nustatant šios įmokos dydį, turi būti laikomasi nuostatos, kad jis turi padengti ekonomiškai pagrįstas atestavimo paslaugos teikimo sąnaudas ir užtikrinti pajamas, reikalingas šių paslaugų teikimui reikiamos infrastruktūros plėtrai ir gerinimui. ^s-e069de59b89c1e21a4d55c32
@@ -2319,13 +2319,13 @@ Nr. XII-1197, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14126
 ### 45 straipsnis. Atsakomybė už šio įstatymo 42, 421, 43 ir 44 straipsniuose nurodytus pažeidimus ir jų nagrinėjimo tvarka ^s-88a18a0ffcd575f1e6803bb9
 
 
-1. Už šio įstatymo 42, 421, 43 ir [[#^s-480da982cf6c682d31c99e96|44 straipsniuose]] nurodytus pažeidimus atsako ir juridinių asmenų padaliniai, taip pat kitos užsienio organizacijos ir jų padaliniai. Šie pažeidimai tiriami, protokolai surašomi ir pažeidimų bylos nagrinėjamos ne teismo tvarka pagal Administracinių nusižengimų kodeksą, išskyrus šiame straipsnyje nurodytus atvejus. ^s-45399f8bda7f272826496f2f
+1. Už šio įstatymo [[#^s-b1b46dc3dd1caf40fea423b1|42]], [[#^s-f77e93a0a7ca8ec072a493f8|421]], [[#^s-bf0749d8518cbe350820ed58|43]] ir [[#^s-480da982cf6c682d31c99e96|44]] straipsniuose nurodytus pažeidimus atsako ir juridinių asmenų padaliniai, taip pat kitos užsienio organizacijos ir jų padaliniai. Šie pažeidimai tiriami, protokolai surašomi ir pažeidimų bylos nagrinėjamos ne teismo tvarka pagal Administracinių nusižengimų kodeksą, išskyrus šiame straipsnyje nurodytus atvejus. ^s-45399f8bda7f272826496f2f
 
 
-2. Dėl šio įstatymo 42, 421, 43 ir [[#^s-480da982cf6c682d31c99e96|44 straipsniuose]] nurodytų pažeidimų protokolus surašo [[#^s-c03c50c06b399c818590c282|šio straipsnio 4 dalyje]] nurodyti pareigūnai. ^s-47e2b9b592f582617bfe4a57
+2. Dėl šio įstatymo [[#^s-b1b46dc3dd1caf40fea423b1|42]], [[#^s-f77e93a0a7ca8ec072a493f8|421]], [[#^s-bf0749d8518cbe350820ed58|43]] ir [[#^s-480da982cf6c682d31c99e96|44]] straipsniuose nurodytų pažeidimų protokolus surašo [[#^s-c03c50c06b399c818590c282|šio straipsnio 4 dalyje]] nurodyti pareigūnai. ^s-47e2b9b592f582617bfe4a57
 
 
-3. Šio įstatymo 42, 421, 43 ir [[#^s-480da982cf6c682d31c99e96|44 straipsniuose]] nurodytus pažeidimus nagrinėja Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos (toliau – Inspekcija). ^s-d7e6ab9912300fc8f9387d96
+3. Šio įstatymo [[#^s-b1b46dc3dd1caf40fea423b1|42]], [[#^s-f77e93a0a7ca8ec072a493f8|421]], [[#^s-bf0749d8518cbe350820ed58|43]] ir [[#^s-480da982cf6c682d31c99e96|44]] straipsniuose nurodytus pažeidimus nagrinėja Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos (toliau – Inspekcija). ^s-d7e6ab9912300fc8f9387d96
 
 
 4. Inspekcijos vardu nagrinėti šiame įstatyme nurodytus pažeidimus ir skirti nuobaudas turi teisę Inspekcijos vadovas, vadovo pavaduotojas ar vadovo įgalioti kiti šios institucijos pareigūnai. ^s-c03c50c06b399c818590c282
@@ -2407,7 +2407,7 @@ Asmenys, pažeidę šį įstatymą, atsako Lietuvos Respublikos įstatymų nusta
 
 
 6. Visuomenės (viešąjį) interesą ginantiems subjektams naikinamasis terminas pareikšti reikalavimus dėl patvirtintų teritorijų planavimo dokumentų, išskyrus valstybei svarbių projektų teritorijų planavimo dokumentus, jų sprendinių ar juos patvirtinančių administracinių aktų ginčijimo yra 5 metai nuo patvirtinto teritorijų planavimo dokumento įsigaliojimo. Visuomenės (viešąjį) interesą ginantiems subjektams naikinamasis terminas pareikšti reikalavimus dėl patvirtintų valstybei svarbių projektų teritorijų planavimo dokumentų, jų sprendinių ar juos patvirtinančių administracinių aktų ginčijimo yra 2 metai nuo patvirtinto teritorijų planavimo dokumento įsigaliojimo. ^s-bdddd57d02f932c06338b71a
-TAR pastaba. [[#^s-bdddd57d02f932c06338b71a|49 straipsnio 6 dalyje]] nurodytas 5 metų naikinamasis terminas taikomas ir iki [[latest/1e5309905cb011eb9dc7b575f08e8bea|įstatymo  Nr. XIV-158]] įsigaliojimo dienos (2021-07-01) patvirtintiems teritorijų planavimo dokumentams, jeigu šio įstatymo įsigaliojimo dieną nepraėję 2 metai nuo patvirtinto teritorijų planavimo dokumento įsigaliojimo.
+TAR pastaba. 49 straipsnio 6 dalyje nurodytas 5 metų naikinamasis terminas taikomas ir iki [[latest/1e5309905cb011eb9dc7b575f08e8bea|įstatymo  Nr. XIV-158]] įsigaliojimo dienos (2021-07-01) patvirtintiems teritorijų planavimo dokumentams, jeigu šio įstatymo įsigaliojimo dieną nepraėję 2 metai nuo patvirtinto teritorijų planavimo dokumento įsigaliojimo.
 Straipsnio dalies pakeitimai:
 Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
 
@@ -2502,7 +2502,7 @@ Nr. IX-1512, 2003-04-17, Žin., 2003, Nr. 42-1916 (2003-05-01)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1962, 2004-01-15, Žin., 2004, Nr. 21-617 (2004-02-07)
 TERITORIJŲ PLANAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-Šis Įstatymas, išskyrus jo 2 ir [[#^s-f460e60cd3aad2bfa8c315f3|3 straipsnius]], įsigalioja nuo 2004 m. gegužės 1 d.
+Šis Įstatymas, išskyrus jo [[#^s-3c219bc83198ccb7a3608c90|2]] ir [[#^s-f460e60cd3aad2bfa8c315f3|3]] straipsnius, įsigalioja nuo 2004 m. gegužės 1 d.
 Nauja įstatymo redakcija
 Iki 2004 m. gegužės 1 d. pradėti rengti teritorijų planavimo dokumentai (išskyrus bendruosius planus), kuriems išduotos planavimo sąlygos, sudarytos planavimo darbų sutartys ir pradėtos viešo svarstymo su visuomene procedūros, baigiami rengti pagal iki 2004 m. gegužės 1 d. galiojusį Teritorijų planavimo įstatymą (Žin., 1995, Nr. 107-2391) ir kitus teritorijų planavimą reglamentavusius teisės aktus.
 Pakeitimas:
@@ -2556,7 +2556,7 @@ Nr. XI-500, 2009-11-19, Žin., 2009, Nr. 144-6351 (2009-12-05)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-619, 2009-12-22, Žin., 2009, Nr. 159-7205 (2009-12-31)
 [[latest/TAR.B9BA9457080D|TERITORIJŲ PLANAVIMO ĮSTATYMO 2, 4, 15, 19, 20, 21, 22, 23, 24, 26, 31, 37 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus 13 ir [[#^s-35bf57839e6c7d9f82b33013|14 straipsnius]], įsigalioja 2010 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-107510cd65fd97480514d3b3|13]] ir [[#^s-35bf57839e6c7d9f82b33013|14]] straipsnius, įsigalioja 2010 m. sausio 1 d.
 Iki 2010 m. sausio 1 d. pradėti rengti teritorijų planavimo dokumentai, dėl kurių yra išduotos planavimo sąlygos, sudarytos planavimo darbų sutartys ir pradėtos viešo svarstymo su visuomene procedūros, baigiami rengti ir tvirtinami pagal Teritorijų planavimo įstatymo nuostatas, galiojusias iki 2010 m. sausio 1 d., ir kitus teritorijų planavimą reglamentavusius teisės aktus.
 
 19.
@@ -2579,12 +2579,12 @@ TERITORIJŲ PLANAVIMO ĮSTATYMO 32 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2034, 2012-05-24, Žin., 2012, Nr. 63-3172 (2012-06-05)
-[[#^s-b073465a35022cbb2d46812c|TERITORIJŲ PLANAVIMO ĮSTATYMO 2, 13, 16, 32 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 18(1) STRAIPSNIU ĮSTATYMAS
+TERITORIJŲ PLANAVIMO ĮSTATYMO [[#^s-3c219bc83198ccb7a3608c90|2]], [[#^s-107510cd65fd97480514d3b3|13]], [[#^s-41dbf06f7e093678147525e1|16]], [[#^s-b073465a35022cbb2d46812c|32]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 18(1) STRAIPSNIU ĮSTATYMAS
 Šio įstatymo [[#^s-a34fa8b8e875f84b130e4d9d|4 straipsnis]] įsigalioja 2012 m. liepos 1 d.
-Šio įstatymo [[#^s-a34fa8b8e875f84b130e4d9d|4 straipsnyje]] išdėstytas Teritorijų planavimo įstatymo 181 straipsnis taikomas tik:
+Šio įstatymo [[#^s-a34fa8b8e875f84b130e4d9d|4 straipsnyje]] išdėstytas [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo 181 straipsnis]] taikomas tik:
 1) ypatingos valstybinės svarbos projektų specialiųjų planų, dėl kurių iki 2012 m. liepos 1 d. dar nėra išduotos planavimo sąlygos, rengimui, derinimui, keitimui, tikrinimui, tvirtinimui, galiojimui, viešumo užtikrinimui ir ginčų sprendimui; ^s-64d0da2fbebdd1e8adca64ce
 2) jau galiojančių ypatingos valstybinės svarbos projektų specialiųjų planų pakeitimų rengimui, derinimui, keitimui, tikrinimui, tvirtinimui, galiojimui, viešumo užtikrinimui ir ginčų sprendimui. ^s-15743019cdc1ff02b7eb63ea
-Ypatingos valstybinės svarbos projektų specialieji planai, dėl kurių iki 2012 m. liepos 1 d. yra išduotos planavimo sąlygos, planavimo organizatoriaus pasirinkimu yra baigiami rengti, derinti, viešai skelbti ir tvirtinti pagal iki 2012 m. liepos 1 d. galiojusius teisės aktus arba pradedami rengti iš naujo pagal šio įstatymo [[#^s-a34fa8b8e875f84b130e4d9d|4 straipsnyje]] išdėstytame Teritorijų planavimo įstatymo 181 straipsnyje nustatytą ypatingos valstybinės svarbos projektų specialiųjų planų rengimo, derinimo, keitimo, tikrinimo, tvirtinimo, galiojimo, viešumo užtikrinimo ir ginčų sprendimo tvarką.
+Ypatingos valstybinės svarbos projektų specialieji planai, dėl kurių iki 2012 m. liepos 1 d. yra išduotos planavimo sąlygos, planavimo organizatoriaus pasirinkimu yra baigiami rengti, derinti, viešai skelbti ir tvirtinti pagal iki 2012 m. liepos 1 d. galiojusius teisės aktus arba pradedami rengti iš naujo pagal šio įstatymo [[#^s-a34fa8b8e875f84b130e4d9d|4 straipsnyje]] išdėstytame [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo 181 straipsnyje]] nustatytą ypatingos valstybinės svarbos projektų specialiųjų planų rengimo, derinimo, keitimo, tikrinimo, tvirtinimo, galiojimo, viešumo užtikrinimo ir ginčų sprendimo tvarką.
 Projektui, kuris pripažįstamas ypatingos valstybinės svarbos projektu po 2012 m. liepos 1 d., įgyvendinti rengiami ir (ar) parengti specialieji planai taip pat yra laikomi ypatingos valstybinės svarbos projekto specialiaisiais planais.
 
 23.
@@ -2595,7 +2595,7 @@ Nr. XI-2225, 2012-09-20, Žin., 2012, Nr. 111-5635 (2012-09-26)
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2349, 2012-11-06, Žin., 2012, Nr. 132-6677 (2012-11-15)
-[[#^s-223617c9718ead4236d86e89|TERITORIJŲ PLANAVIMO ĮSTATYMO 11, 18, 18(1), 26 IR 31 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+TERITORIJŲ PLANAVIMO ĮSTATYMO 11, 18, 18(1), [[#^s-2d29c18088b0f54691792d62|26]] IR [[#^s-223617c9718ead4236d86e89|31]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
 
 25.
@@ -2631,7 +2631,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1197, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14126
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 42, 43 ir [[#^s-480da982cf6c682d31c99e96|44 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-b1b46dc3dd1caf40fea423b1|42]], [[#^s-bf0749d8518cbe350820ed58|43]] ir [[#^s-480da982cf6c682d31c99e96|44]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2656,12 +2656,12 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-499570f082
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2643, 2016-09-27, paskelbta TAR 2016-10-06, i. k. 2016-24683
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 27 ir [[#^s-88a18a0ffcd575f1e6803bb9|45 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-1e3aa9732121c7b12a28d4fd|27]] ir [[#^s-88a18a0ffcd575f1e6803bb9|45]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-427, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10249
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 25 ir [[#^s-37f6ec5228cf690598d720ba|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-32e6a857fc7dbe8a2de94349|25]] ir [[#^s-37f6ec5228cf690598d720ba|41]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2671,7 +2671,7 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-7d795a53a0
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1320, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11314
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 4, 6, 20, 28 ir [[#^s-223617c9718ead4236d86e89|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-a34fa8b8e875f84b130e4d9d|4]], [[#^s-838d5ef91f5ed04e7446633d|6]], [[#^s-99ac82e5d3248663b108462c|20]], [[#^s-44e3b3a2852463aea2141ed1|28]] ir [[#^s-223617c9718ead4236d86e89|31]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2681,37 +2681,37 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-b1d0dde17f
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1986, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04582
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 16, 19 ir [[#^s-99ac82e5d3248663b108462c|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-41dbf06f7e093678147525e1|16]], [[#^s-8c08c69498dfe4b6b2abdc3c|19]] ir [[#^s-99ac82e5d3248663b108462c|20]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2148, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09401
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 16, 19, 20 ir [[#^s-44e3b3a2852463aea2141ed1|28 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-41dbf06f7e093678147525e1|16]], [[#^s-8c08c69498dfe4b6b2abdc3c|19]], [[#^s-99ac82e5d3248663b108462c|20]] ir [[#^s-44e3b3a2852463aea2141ed1|28]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2188, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09843
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 17, 20 ir [[#^s-94e77371c17743ca17f822fc|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-83587822fa6eabb26a301860|17]], [[#^s-99ac82e5d3248663b108462c|20]] ir [[#^s-94e77371c17743ca17f822fc|21]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2896, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10870
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 6, 15, 17, 18, 21, 26, 27 ir [[#^s-bf9eab388f088f620c750330|39 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-3c219bc83198ccb7a3608c90|2]], [[#^s-838d5ef91f5ed04e7446633d|6]], [[#^s-b604fe438b8e93d1957f801a|15]], [[#^s-83587822fa6eabb26a301860|17]], [[#^s-ce7335bedb02b7d05fd8d7f6|18]], [[#^s-94e77371c17743ca17f822fc|21]], [[#^s-2d29c18088b0f54691792d62|26]], [[#^s-1e3aa9732121c7b12a28d4fd|27]] ir [[#^s-bf9eab388f088f620c750330|39]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3125, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15369
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 7, 11, 13, 14, 16, 17, 25 ir [[#^s-2d29c18088b0f54691792d62|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-3c219bc83198ccb7a3608c90|2]], [[#^s-30c1a28efec743a47ca185e2|7]], [[#^s-050f96c9a00dc9e3a1560052|11]], [[#^s-107510cd65fd97480514d3b3|13]], [[#^s-35bf57839e6c7d9f82b33013|14]], [[#^s-41dbf06f7e093678147525e1|16]], [[#^s-83587822fa6eabb26a301860|17]], [[#^s-32e6a857fc7dbe8a2de94349|25]] ir [[#^s-2d29c18088b0f54691792d62|26]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3163, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15495
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 4, 6, 17, 20, 23 ir [[#^s-44e3b3a2852463aea2141ed1|28 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-3c219bc83198ccb7a3608c90|2]], [[#^s-a34fa8b8e875f84b130e4d9d|4]], [[#^s-838d5ef91f5ed04e7446633d|6]], [[#^s-83587822fa6eabb26a301860|17]], [[#^s-99ac82e5d3248663b108462c|20]], [[#^s-c801fa2a78ab80f33f60e622|23]] ir [[#^s-44e3b3a2852463aea2141ed1|28]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-158, 2021-01-12, paskelbta TAR 2021-01-22, i. k. 2021-01175
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 3, 6, 7, 11, 13, 14, 15, 16, 17, 18, 20, 23, 25, 26, 27, 28, 30, 31, 33, 35, 37, 39, 47 ir [[#^s-c59f4906093975d1fb15d0ae|49 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-3c219bc83198ccb7a3608c90|2]], [[#^s-f460e60cd3aad2bfa8c315f3|3]], [[#^s-838d5ef91f5ed04e7446633d|6]], [[#^s-30c1a28efec743a47ca185e2|7]], [[#^s-050f96c9a00dc9e3a1560052|11]], [[#^s-107510cd65fd97480514d3b3|13]], [[#^s-35bf57839e6c7d9f82b33013|14]], [[#^s-b604fe438b8e93d1957f801a|15]], [[#^s-41dbf06f7e093678147525e1|16]], [[#^s-83587822fa6eabb26a301860|17]], [[#^s-ce7335bedb02b7d05fd8d7f6|18]], [[#^s-99ac82e5d3248663b108462c|20]], [[#^s-c801fa2a78ab80f33f60e622|23]], [[#^s-32e6a857fc7dbe8a2de94349|25]], [[#^s-2d29c18088b0f54691792d62|26]], [[#^s-1e3aa9732121c7b12a28d4fd|27]], [[#^s-44e3b3a2852463aea2141ed1|28]], [[#^s-b1d0dde17f8e2bd05c2d4410|30]], [[#^s-223617c9718ead4236d86e89|31]], [[#^s-f2f362cb403c495802c2b227|33]], [[#^s-e32abdba02e6929c469c2dcc|35]], [[#^s-6be4c95087b09efefbd6e2f6|37]], [[#^s-bf9eab388f088f620c750330|39]], [[#^s-d15fdf980486e027a45e80b0|47]] ir [[#^s-c59f4906093975d1fb15d0ae|49]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2721,7 +2721,7 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-499570f082
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-921, 2022-01-20, paskelbta TAR 2022-01-28, i. k. 2022-01362
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 20 ir [[#^s-c801fa2a78ab80f33f60e622|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-3c219bc83198ccb7a3608c90|2]], [[#^s-99ac82e5d3248663b108462c|20]] ir [[#^s-c801fa2a78ab80f33f60e622|23]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2736,59 +2736,59 @@ Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-99ac82e5d3
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1533, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24177
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2, 4 ir [[#^s-41dbf06f7e093678147525e1|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-57f898f8b3e63570ec9ca34c|1]], [[#^s-3c219bc83198ccb7a3608c90|2]], [[#^s-a34fa8b8e875f84b130e4d9d|4]] ir [[#^s-41dbf06f7e093678147525e1|16]] straipsnių pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1316, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15644
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 45 ir [[#^s-d15fdf980486e027a45e80b0|47 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-88a18a0ffcd575f1e6803bb9|45]] ir [[#^s-d15fdf980486e027a45e80b0|47]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1275, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15623
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 18, 20, 24 ir [[#^s-1e3aa9732121c7b12a28d4fd|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-ce7335bedb02b7d05fd8d7f6|18]], [[#^s-99ac82e5d3248663b108462c|20]], [[#^s-b13f55b2fc84f4c434089c99|24]] ir [[#^s-1e3aa9732121c7b12a28d4fd|27]] straipsnių pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2122, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14310
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 9, 20, 23, 25, 26, 30, 34, 37, 45 ir [[#^s-d15fdf980486e027a45e80b0|47 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-82fcd2c1ccb1299b05e69a74|9]], [[#^s-99ac82e5d3248663b108462c|20]], [[#^s-c801fa2a78ab80f33f60e622|23]], [[#^s-32e6a857fc7dbe8a2de94349|25]], [[#^s-2d29c18088b0f54691792d62|26]], [[#^s-b1d0dde17f8e2bd05c2d4410|30]], [[#^s-9aef895b284ef33940e36cd7|34]], [[#^s-6be4c95087b09efefbd6e2f6|37]], [[#^s-88a18a0ffcd575f1e6803bb9|45]] ir [[#^s-d15fdf980486e027a45e80b0|47]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2334, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25088
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 18, 20, 24 ir [[#^s-1e3aa9732121c7b12a28d4fd|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-ce7335bedb02b7d05fd8d7f6|18]], [[#^s-99ac82e5d3248663b108462c|20]], [[#^s-b13f55b2fc84f4c434089c99|24]] ir [[#^s-1e3aa9732121c7b12a28d4fd|27]] straipsnių pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2420, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25641
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 7, 18, 20, 29, 31, 33, 34 ir [[#^s-e32abdba02e6929c469c2dcc|35 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-30c1a28efec743a47ca185e2|7]], [[#^s-ce7335bedb02b7d05fd8d7f6|18]], [[#^s-99ac82e5d3248663b108462c|20]], [[#^s-8c02ba8437a9f2536ca1fca5|29]], [[#^s-223617c9718ead4236d86e89|31]], [[#^s-f2f362cb403c495802c2b227|33]], [[#^s-9aef895b284ef33940e36cd7|34]] ir [[#^s-e32abdba02e6929c469c2dcc|35]] straipsnių pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2523, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06310
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 7, 18, 20, 29, 31, 33, 34 ir [[#^s-e32abdba02e6929c469c2dcc|35 straipsnių]] pakeitimo [[latest/3a7ca560a55311eea5a28c81c82193a8|įstatymo Nr. XIV-2420]] [[#^s-82fcd2c1ccb1299b05e69a74|9 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-30c1a28efec743a47ca185e2|7]], [[#^s-ce7335bedb02b7d05fd8d7f6|18]], [[#^s-99ac82e5d3248663b108462c|20]], [[#^s-8c02ba8437a9f2536ca1fca5|29]], [[#^s-223617c9718ead4236d86e89|31]], [[#^s-f2f362cb403c495802c2b227|33]], [[#^s-9aef895b284ef33940e36cd7|34]] ir [[#^s-e32abdba02e6929c469c2dcc|35]] straipsnių pakeitimo [[latest/3a7ca560a55311eea5a28c81c82193a8|įstatymo Nr. XIV-2420]] [[#^s-82fcd2c1ccb1299b05e69a74|9 straipsnio]] pakeitimo įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2564, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07717
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2 ir [[#^s-a34fa8b8e875f84b130e4d9d|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-57f898f8b3e63570ec9ca34c|1]], [[#^s-3c219bc83198ccb7a3608c90|2]] ir [[#^s-a34fa8b8e875f84b130e4d9d|4]] straipsnių pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-212, 2025-05-15, paskelbta TAR 2025-05-28, i. k. 2025-09426
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 6, 17, 18, 20, 23, 25, 27, 28, 30, 31, 33, 35, 39, [[#^s-88a18a0ffcd575f1e6803bb9|45 straipsnių]], septintojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 42-1 straipsniu įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-838d5ef91f5ed04e7446633d|6]], [[#^s-83587822fa6eabb26a301860|17]], [[#^s-ce7335bedb02b7d05fd8d7f6|18]], [[#^s-99ac82e5d3248663b108462c|20]], [[#^s-c801fa2a78ab80f33f60e622|23]], [[#^s-32e6a857fc7dbe8a2de94349|25]], [[#^s-1e3aa9732121c7b12a28d4fd|27]], [[#^s-44e3b3a2852463aea2141ed1|28]], [[#^s-b1d0dde17f8e2bd05c2d4410|30]], [[#^s-223617c9718ead4236d86e89|31]], [[#^s-f2f362cb403c495802c2b227|33]], [[#^s-e32abdba02e6929c469c2dcc|35]], [[#^s-bf9eab388f088f620c750330|39]], [[#^s-88a18a0ffcd575f1e6803bb9|45]] straipsnių, septintojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 42-1 straipsniu įstatymas
 
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-384, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12039
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2 ir [[#^s-c801fa2a78ab80f33f60e622|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-57f898f8b3e63570ec9ca34c|1]], [[#^s-3c219bc83198ccb7a3608c90|2]] ir [[#^s-c801fa2a78ab80f33f60e622|23]] straipsnių pakeitimo įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-480, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17635
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2 ir [[#^s-a34fa8b8e875f84b130e4d9d|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-57f898f8b3e63570ec9ca34c|1]], [[#^s-3c219bc83198ccb7a3608c90|2]] ir [[#^s-a34fa8b8e875f84b130e4d9d|4]] straipsnių pakeitimo įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-825, 2026-04-16, paskelbta TAR 2026-04-21, i. k. 2026-06396
-Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 6, 20, 23, 26, 27, 28, 29, 30, 31, 34, 35, 37, 39 ir [[#^s-d15fdf980486e027a45e80b0|47 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 [[#^s-838d5ef91f5ed04e7446633d|6]], [[#^s-99ac82e5d3248663b108462c|20]], [[#^s-c801fa2a78ab80f33f60e622|23]], [[#^s-2d29c18088b0f54691792d62|26]], [[#^s-1e3aa9732121c7b12a28d4fd|27]], [[#^s-44e3b3a2852463aea2141ed1|28]], [[#^s-8c02ba8437a9f2536ca1fca5|29]], [[#^s-b1d0dde17f8e2bd05c2d4410|30]], [[#^s-223617c9718ead4236d86e89|31]], [[#^s-9aef895b284ef33940e36cd7|34]], [[#^s-e32abdba02e6929c469c2dcc|35]], [[#^s-6be4c95087b09efefbd6e2f6|37]], [[#^s-bf9eab388f088f620c750330|39]] ir [[#^s-d15fdf980486e027a45e80b0|47]] straipsnių pakeitimo įstatymas

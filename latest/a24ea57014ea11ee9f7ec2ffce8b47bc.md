@@ -43,16 +43,16 @@ Vilnius
 ### 1 straipsnis. 18 straipsnio pakeitimas ^s-19cc86ced1a98980526ec10d
 
 
-Pakeisti 18 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/60718c50037311edb32c9f9d8ba206f8#^s-02b5d0145d199d1b5b2dfcd1|18 straipsnį]] ir jį išdėstyti taip:
 
 
-„18 straipsnis. 65 straipsnio pakeitimas
+„[[latest/60718c50037311edb32c9f9d8ba206f8#^s-02b5d0145d199d1b5b2dfcd1|18 straipsnis]]. [[latest/60718c50037311edb32c9f9d8ba206f8|65 straipsnio]] pakeitimas
 
 
-Pakeisti 65 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/60718c50037311edb32c9f9d8ba206f8|65 straipsnį]] ir jį išdėstyti taip:
 
 
-„65 straipsnis. Dėstytojai
+„[[latest/60718c50037311edb32c9f9d8ba206f8|65 straipsnis]]. Dėstytojai
 
 
 1. Tyrėjai arba pripažinti menininkai aukštosiose mokyklose gali užimti šias dėstytojų pareigybes: profesoriaus, docento, asistento, jaunesniojo asistento. Asmenys, kurie nėra tyrėjai arba pripažinti menininkai, aukštosiose mokyklose gali užimti šias dėstytojų pareigybes: vyresniojo lektoriaus, lektoriaus. [[#^s-df84309d46da3b91b7a3ee6d|Šio straipsnio 8 dalyje]] nurodyti asmenys gali užimti dėstytojo praktiko pareigas. ^s-edd8d074461c3f0e8c4d7a73
@@ -79,24 +79,24 @@ Pakeisti 65 straipsnį ir jį išdėstyti taip:
 8. Aukštosios mokyklos gali nustatyti įvairias dėstytojų praktikų pareigybes. Tokie dėstytojai dėsto, veda praktinius užsiėmimus, vadovauja studentų praktiniams darbams, supažindina studentus su mokslinių tyrimų taikymu praktikoje, padeda jiems atlikti taikomosios mokslinės veiklos darbus, perteikia jiems praktinio darbo žinias. Į šias pareigas aukštosios mokyklos nustatyta tvarka priimami asmenys, turintys ne trumpesnę kaip 3 metų praktinio darbo patirtį dėstymo srityje ir profesinių pasiekimų. Atlikdami pareigas tokie dėstytojai privalo dirbti praktinį darbą dėstymo srityje ir turėti aukštosios mokyklos nustatyta tvarka numatytas dėstymo kompetencijas. ^s-df84309d46da3b91b7a3ee6d
 
 
-9. Kvalifikacinius dėstytojų pareigybių reikalavimus, ne žemesnius, kaip nustatyti šio straipsnio 2–[[#^s-216223095ad5778137ea9689|7 dalyse]], konkursų šioms pareigoms eiti organizavimo ir dėstytojų atestavimo tvarką nustato aukštoji mokykla.“.“ ^s-3a3317a127deabdbd2a73914
+9. Kvalifikacinius dėstytojų pareigybių reikalavimus, ne žemesnius, kaip nustatyti šio straipsnio [[#^s-05ca13ecb48302ed49b773a6|2]]–[[#^s-216223095ad5778137ea9689|7]] dalyse, konkursų šioms pareigoms eiti organizavimo ir dėstytojų atestavimo tvarką nustato aukštoji mokykla.“.“ ^s-3a3317a127deabdbd2a73914
 
 
 
 ### 2 straipsnis. 29 straipsnio pakeitimas ^s-cd2f044940dd5f9612d54e20
 
 
-1. Pakeisti 29 straipsnio 3 dalį ir ją išdėstyti taip: ^s-83ec8d67b289b32441e5678e
+1. Pakeisti [[latest/60718c50037311edb32c9f9d8ba206f8#^s-ff613fb08eeca0ffa27f0a56|29 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-83ec8d67b289b32441e5678e
 „3. Šio įstatymo 1 straipsnio 2 dalis, 17, 20, 22 ir 25 straipsniai įsigalioja 2023 m. liepos 1 d.“
 
 
-2. Papildyti 29 straipsnį 31 dalimi: ^s-5c23c1bf62789091b859e030
+2. Papildyti [[latest/60718c50037311edb32c9f9d8ba206f8#^s-2cf0d08535767b96545ab200|29 straipsnį 31 dalimi]]: ^s-5c23c1bf62789091b859e030
 
 
 „31. Šio įstatymo 1 straipsnio 1 dalis, 16, 18, 19, 21, 23, 24 straipsniai įsigalioja 2024 m. sausio 1 d.“
 
 
-3. Pakeisti 29 straipsnio 6 dalį ir ją išdėstyti taip: ^s-9b1672318fc3f0e564dd4510
+3. Pakeisti [[latest/60718c50037311edb32c9f9d8ba206f8#^s-689e8f91b4b6af5b1829aa24|29 straipsnio 6 dalį]] ir ją išdėstyti taip: ^s-9b1672318fc3f0e564dd4510
 
 
 „6. Šio įstatymo nuostatos taikomos mokslo ir studijų institucijų dėstytojams ir mokslo darbuotojams, priimtiems į pareigas nuo 2024 m. sausio 1 d. Iki 2024 m. sausio 1 d. priimtų į pareigas dėstytojų, mokslo darbuotojų ir tyrėjų pareigos ir kitos darbo sąlygos gali būti keičiamos atsižvelgiant į šio įstatymo nuostatas tik šių darbuotojų sutikimu.“

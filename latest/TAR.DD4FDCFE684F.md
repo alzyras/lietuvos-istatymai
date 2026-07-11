@@ -72,10 +72,10 @@ BENDROSIOS NUOSTATOS
 ### 3 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-c2a53dd461f46d6497af84f4
 
 
-1. Dalyvavimas pensijų kaupime – valstybinio socialinio draudimo įmokos dalies, papildomos dalyvio lėšomis mokamos pensijų įmokos ir papildomos iš valstybės biudžeto lėšų už dalyvį mokamos įmokos kaupimas, kaip nustatyta Lietuvos Respublikos pensijų sistemos reformos įstatyme (toliau – Pensijų sistemos reformos įstatymas), šio įstatymo nustatyta tvarka sudarius ir įregistravus pensijų kaupimo sutartį. ^s-16bddfce5772f9f1d8df9893
+1. Dalyvavimas pensijų kaupime – valstybinio socialinio draudimo įmokos dalies, papildomos dalyvio lėšomis mokamos pensijų įmokos ir papildomos iš valstybės biudžeto lėšų už dalyvį mokamos įmokos kaupimas, kaip nustatyta [Lietuvos Respublikos pensijų sistemos reformos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8) (toliau – [Pensijų sistemos reformos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8)), šio įstatymo nustatyta tvarka sudarius ir įregistravus pensijų kaupimo sutartį. ^s-16bddfce5772f9f1d8df9893
 
 
-2. Finansinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Lietuvos Respublikos finansinių priemonių rinkų įstatymo (toliau – Finansinių priemonių rinkų įstatymas) 3 straipsnio 4 dalies]] 1, 2, 3 ir 4 punktuose nurodytos finansinės priemonės, taip pat indėliai. ^s-26a2e9a204557ff0be3a7e93
+2. Finansinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Lietuvos Respublikos finansinių priemonių rinkų įstatymo (toliau – Finansinių priemonių rinkų įstatymas) 3 straipsnio 4 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-058ef0e4834e6f1ad4368f73|1]], [[latest/TAR.AB7AFE2F35B2#^s-2e48a37a2927c243d27165d3|2]], [[latest/TAR.AB7AFE2F35B2#^s-06701e7a8c57efed50383eb3|3]] ir [[latest/TAR.AB7AFE2F35B2#^s-71078f5c7f1fdabf0a7adbe6|4]] punktuose nurodytos finansinės priemonės, taip pat indėliai. ^s-26a2e9a204557ff0be3a7e93
 
 
 3. Gyvybės draudimo įmonė (toliau – draudimo įmonė) – įmonė, įsteigta ir veikianti Akcinių bendrovių ir Draudimo įstatymų nustatyta tvarka. ^s-172cf8585f3c3ec1a3821610
@@ -99,7 +99,7 @@ BENDROSIOS NUOSTATOS
 9. Valstybė narė – Europos Sąjungos valstybė narė arba Europos ekonominės erdvės valstybė. ^s-c82d01e2259c879a4e50c65e
 
 
-10. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatyme]] (toliau – [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymas]]), [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatyme]], Pensijų sistemos reformos įstatyme, [[latest/TAR.ED28779BEADF|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme]], [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatyme]] (toliau – [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymas]]). ^s-6ab906d42a59f5c85a884dd8
+10. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatyme]] (toliau – [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymas]]), [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatyme]], [Pensijų sistemos reformos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8), [[latest/TAR.ED28779BEADF|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme]], [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatyme]] (toliau – [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymas]]). ^s-6ab906d42a59f5c85a884dd8
 
 
 
@@ -111,7 +111,7 @@ DALYVAVIMAS PENSIJŲ KAUPIME
 ### 4 straipsnis. Dalyvavimas pensijų kaupime ^s-67153c29a77fa81d705fbb5d
 
 
-1. Teisę tapti pensijų kaupimo dalyviu šio įstatymo ir Pensijų sistemos reformos įstatymo numatytame pensijų kaupime turi asmenys, kurie turi draudžiamųjų pajamų, nuo kurių privalomai skaičiuojamos valstybinio socialinio draudimo įmokos pagrindinei ir papildomai pensijos daliai gauti, taip pat asmenys, pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą (toliau – [[latest/TAR.6A56D29DBEE8|Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymas]]) turintys teisę pervesti lėšas iš Europos Sąjungos institucijų pensijų sistemos, išskyrus asmenis, kurie jau yra sukakę [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatyme]] nustatytą senatvės pensijos amžių (toliau – senatvės pensijos amžius). ^s-247dc389073710be79161027
+1. Teisę tapti pensijų kaupimo dalyviu šio įstatymo ir [Pensijų sistemos reformos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8) numatytame pensijų kaupime turi asmenys, kurie turi draudžiamųjų pajamų, nuo kurių privalomai skaičiuojamos valstybinio socialinio draudimo įmokos pagrindinei ir papildomai pensijos daliai gauti, taip pat asmenys, pagal Lietuvos Respublikos Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymą (toliau – [[latest/TAR.6A56D29DBEE8|Europos Sąjungos institucijų darbuotojų ir Europos Parlamento narių pensinių teisių išsaugojimo ir perkėlimo įstatymas]]) turintys teisę pervesti lėšas iš Europos Sąjungos institucijų pensijų sistemos, išskyrus asmenis, kurie jau yra sukakę [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatyme]] nustatytą senatvės pensijos amžių (toliau – senatvės pensijos amžius). ^s-247dc389073710be79161027
 
 
 2. Dalyvavimas pensijų kaupime prasideda sudarius pensijų kaupimo sutartį ir ją įregistravus Valstybinio socialinio draudimo fondo (toliau – VSDF) valdybos prie Socialinės apsaugos ir darbo ministerijos (toliau – VSDF valdyba) įsteigtame ir tvarkomame pensijų kaupimo sutarčių registre (toliau – Sutarčių registras). Pensijų kaupimo bendrovė per vieną mėnesį nuo pensijų kaupimo sutarties sudarymo informuoja dalyvį apie pensijų kaupimo sutarties įregistravimą. ^s-ff21b5eb876d207ed29a78ba
@@ -191,7 +191,7 @@ DALYVAVIMAS PENSIJŲ KAUPIME
 1. Pensijų kaupimo sutarties šalys yra dalyvis ir pensijų kaupimo bendrovė. Pensijų kaupimo sutartis dalyvio naudai negali būti sudaryta su jo darbdaviu ar kitais asmenimis. ^s-2509b923cb1aee653b816b05
 
 
-2. Pirmą kartą sudaryta pensijų kaupimo sutartis įsigalioja Pensijų sistemos reformos įstatymo nustatyta tvarka. Pereinant į kitą pensijų kaupimo bendrovę, sudarytos naujos pensijų kaupimo sutartys įsigalioja šio įstatymo [[#^s-3e696cedf025ea78d85d6795|8 straipsnyje]] nustatyta tvarka. Pereiti į kitos pensijų kaupimo bendrovės valdomą pensijų fondą dalyvis gali tik šio įstatymo nustatyta tvarka nutraukęs sudarytą pensijų kaupimo sutartį. Pereinant į kitą pensijų fondą, valdomą tos pačios pensijų kaupimo bendrovės, sudarytos naujos pensijų kaupimo sutartys įsigalioja šio įstatymo [[#^s-f89560fc8afa88055de393b1|7 straipsnyje]] nustatyta tvarka. ^s-3c6d8ba430353e27359bbdd8
+2. Pirmą kartą sudaryta pensijų kaupimo sutartis įsigalioja [Pensijų sistemos reformos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8) nustatyta tvarka. Pereinant į kitą pensijų kaupimo bendrovę, sudarytos naujos pensijų kaupimo sutartys įsigalioja šio įstatymo [[#^s-3e696cedf025ea78d85d6795|8 straipsnyje]] nustatyta tvarka. Pereiti į kitos pensijų kaupimo bendrovės valdomą pensijų fondą dalyvis gali tik šio įstatymo nustatyta tvarka nutraukęs sudarytą pensijų kaupimo sutartį. Pereinant į kitą pensijų fondą, valdomą tos pačios pensijų kaupimo bendrovės, sudarytos naujos pensijų kaupimo sutartys įsigalioja šio įstatymo [[#^s-f89560fc8afa88055de393b1|7 straipsnyje]] nustatyta tvarka. ^s-3c6d8ba430353e27359bbdd8
 
 
 3. Jeigu to paties asmens vardu yra sudarytos kelios pensijų kaupimo sutartys, galioja ta sutartis, kurią pirmą gauna ir įregistruoja VSDF valdyba. ^s-79897ef9ed6113bd2ae2d588
@@ -294,7 +294,7 @@ DALYVAVIMAS PENSIJŲ KAUPIME
 ### 10 straipsnis. Pensijų įmokų mokėjimo sąlygos ir terminai ^s-0bdfc6352c921ef729db95ac
 
 
-1. Valstybinio socialinio draudimo įmokos, kurių sudedamoji dalis yra pensijų įmoka, ir papildomos dalyvio lėšomis mokamos įmokos, nurodytos Pensijų sistemos reformos įstatymo [[#^s-247dc389073710be79161027|4 straipsnio 1 dalyje]], draudėjų apskaičiuojamos ir pervedamos VSDF biudžetui Lietuvos Respublikos įstatymų nustatyta tvarka. ^s-d131c1f2b61c13bae3bffef5
+1. Valstybinio socialinio draudimo įmokos, kurių sudedamoji dalis yra pensijų įmoka, ir papildomos dalyvio lėšomis mokamos įmokos, nurodytos [Pensijų sistemos reformos įstatymo 4 straipsnio 1 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8), draudėjų apskaičiuojamos ir pervedamos VSDF biudžetui Lietuvos Respublikos įstatymų nustatyta tvarka. ^s-d131c1f2b61c13bae3bffef5
 
 
 2. VSDF valdyba, remdamasi Sutarčių registre esančia informacija apie dalyvių sudarytas pensijų kaupimo sutartis, jų pasirinktus pensijų fondus ir Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro informacija apie priskaičiuotas valstybinio socialinio draudimo įmokas, už kiekvieną dalyvį perveda pensijų įmokas atitinkamiems pensijų kaupimo bendrovių valdomiems pensijų fondams. Pensijų įmokų apskaičiavimo ir pervedimo tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-ea981d08ab781c9bc4799b2d
@@ -351,10 +351,10 @@ bendrosios Pensijų kaupimo bendrovių veiklos nuostatos
 4. Draudimo įmonė pensijų kaupimo techninius atidėjinius sudaro pagal priežiūros institucijos nustatytą draudimo techninių atidėjinių dydžių apskaičiavimo metodiką. Pensijų kaupimo techninių atidėjinių investavimui keliami tokie pat reikalavimai kaip ir draudimo techninių atidėjinių investavimui. ^s-6855dd1b12b536bcdc6bf194
 
 
-5. Garantijų rezervas turi būti sudaromas, investuojamas ir naudojamas valdymo įmonės nustatyta, su priežiūros institucija suderinta tvarka. Priežiūros institucija turi teisę duoti nurodymus pakeisti ir (ar) papildyti garantijų rezervo sudarymo, investavimo ir naudojimo tvarką. Garantijų rezervas investuojamas į diversifikuotą finansinių priemonių portfelį, kuriam taikomi tokie patys kaip ir pensijų turtui reikalavimai, nustatyti [[latest/TAR.DDA1BD559D9B#^s-a75940ec779fb16c04bd19de|Papildomo savanoriško pensijų kaupimo įstatymo 45, 47 ir 49 straipsniuose]]. ^s-07a4f327c1126955ab109bba
+5. Garantijų rezervas turi būti sudaromas, investuojamas ir naudojamas valdymo įmonės nustatyta, su priežiūros institucija suderinta tvarka. Priežiūros institucija turi teisę duoti nurodymus pakeisti ir (ar) papildyti garantijų rezervo sudarymo, investavimo ir naudojimo tvarką. Garantijų rezervas investuojamas į diversifikuotą finansinių priemonių portfelį, kuriam taikomi tokie patys kaip ir pensijų turtui reikalavimai, nustatyti [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatymo]] [[latest/TAR.DDA1BD559D9B#^s-324b854f7d4f34a0c5a4e224|45]], [[latest/TAR.DDA1BD559D9B#^s-9fab38ee6509e8b80b2aa21b|47]] ir [[latest/TAR.DDA1BD559D9B#^s-a75940ec779fb16c04bd19de|49]] straipsniuose. ^s-07a4f327c1126955ab109bba
 
 
-6. Draudimo įmonei ir valdymo įmonei šio straipsnio 1 ir [[#^s-bc84fa4a5b34cd7d3abdda71|2 dalyse]] nustatyti saugumo reikalavimai turi būti, kiek galima, tapatūs savo esme ir dydžiu. ^s-63d9cd65fefdf5b1d04972b0
+6. Draudimo įmonei ir valdymo įmonei šio straipsnio [[#^s-c25f084b894f8c6aa1f66848|1]] ir [[#^s-bc84fa4a5b34cd7d3abdda71|2]] dalyse nustatyti saugumo reikalavimai turi būti, kiek galima, tapatūs savo esme ir dydžiu. ^s-63d9cd65fefdf5b1d04972b0
 
 
 
@@ -429,7 +429,7 @@ bendrosios Pensijų kaupimo bendrovių veiklos nuostatos
 5. Pensijų turtas gali būti investuotas į išvestines finansines priemones tik rizikai valdyti. Pensijų kaupimo bendrovė išvestines finansines priemones turi teisę naudoti tik tuo atveju, kai pensijų fondo taisyklėse yra nurodyta, kokiomis išvestinėmis finansinėmis priemonėmis ir kokiais tikslais pensijų kaupimo bendrovė ketina naudotis. Kiekviena išvestinė finansinė priemonė turi būti pagrįsta konkrečiu investiciniu sandoriu (investicine pozicija). Toks sandoris ir jo rizikai valdyti naudojama išvestinė finansinė priemonė turi būti nurodyti pensijų kaupimo bendrovės veiklos ir finansinės būklės ataskaitose. ^s-dae5c4f71a0cc69075792342
 
 
-6. Sukurto naujo pensijų fondo finansinių priemonių portfelis 6 mėnesius nuo pirmosios įmokos į pensijų fondą gavimo dienos gali neatitikti [[latest/TAR.DDA1BD559D9B#^s-a75940ec779fb16c04bd19de|Papildomo savanoriško pensijų kaupimo įstatymo 47, 48 ir 49 straipsnių]] reikalavimų. ^s-3e29f0f92243a31687a64873
+6. Sukurto naujo pensijų fondo finansinių priemonių portfelis 6 mėnesius nuo pirmosios įmokos į pensijų fondą gavimo dienos gali neatitikti [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatymo]] [[latest/TAR.DDA1BD559D9B#^s-9fab38ee6509e8b80b2aa21b|47]], [[latest/TAR.DDA1BD559D9B#^s-66e24280c29176127a4c0c04|48]] ir [[latest/TAR.DDA1BD559D9B#^s-a75940ec779fb16c04bd19de|49]] straipsnių reikalavimų. ^s-3e29f0f92243a31687a64873
 
 
 
@@ -541,7 +541,7 @@ bendrosios Pensijų kaupimo bendrovių veiklos nuostatos
 6. Likviduojamos pensijų kaupimo bendrovės likvidatorius, likvidacinės komisijos pirmininkas ar bankrutuojančios pensijų kaupimo bendrovės bankroto administratorius privalo teikti su šia pensijų kaupimo bendrove susijusią informaciją priežiūros institucijai ir kitiems asmenims priežiūros institucijos nustatyta tvarka. ^s-f99d7360fe321fac48e50caa
 
 
-7. Likviduojamos pensijų kaupimo bendrovės likvidatorius, likvidacinės komisijos pirmininkas ir bankrutuojančios pensijų kaupimo bendrovės bankroto administratorius yra atsakingi už neperduotų kitoms pensijų kaupimo bendrovėms teisių ir pareigų, atsirandančių iš likviduojamos ar bankrutuojančios bendrovės pensijų kaupimo sutarčių, perdavimą, kurį jie privalo vykdyti laikydamiesi šio įstatymo 21 ar [[#^s-14e5446852c8407608cc0460|22 straipsnio]] reikalavimų. ^s-4a01fb2f9dfabe38ab9714c1
+7. Likviduojamos pensijų kaupimo bendrovės likvidatorius, likvidacinės komisijos pirmininkas ir bankrutuojančios pensijų kaupimo bendrovės bankroto administratorius yra atsakingi už neperduotų kitoms pensijų kaupimo bendrovėms teisių ir pareigų, atsirandančių iš likviduojamos ar bankrutuojančios bendrovės pensijų kaupimo sutarčių, perdavimą, kurį jie privalo vykdyti laikydamiesi šio įstatymo [[#^s-0cb2dbb7b17b8a5992181c34|21]] ar [[#^s-14e5446852c8407608cc0460|22]] straipsnio reikalavimų. ^s-4a01fb2f9dfabe38ab9714c1
 
 
 8. Likviduota pensijų kaupimo bendrovė gali būti išregistruota iš Juridinių asmenų registro tik atlikus visų jos teisių ir pareigų, atsirandančių iš pensijų kaupimo sutarčių, perdavimą. ^s-220836c500a0ac35bd5f7900
@@ -594,7 +594,7 @@ PENSIJŲ KAUPIMO BENDROVIŲ VEIKLOS YPATUMAI
 3. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms taikomas [[latest/TAR.8447F63760E9|Draudimo įstatymas]] tiek, kiek šis įstatymas nenustato kitaip. ^s-ca4e8ce032ad3113e7bc760b
 
 
-4. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms mutatis mutandis taikomi [[latest/TAR.DDA1BD559D9B#^s-e4b9942c23dee55c2b90016e|Papildomo savanoriško pensijų kaupimo įstatymo 6 straipsnis]] (išskyrus 1 dalies 11 punktą), 9, 12 (išskyrus [[#^s-82b81871c4ace4e80058b31e|1 dalies]] 2 ir 3 punktus), [[#^s-9cf1b2e14311a6ffc8c4f57e|13 straipsniai]], 21, 22, 29 (išskyrus 1–6 dalis), 32, 33 ir 34 straipsniai, ketvirtasis, penktasis ir šeštasis skirsniai (išskyrus 51 straipsnį, 55 straipsnio 1, 5, 6 ir 7 dalis). ^s-499f249d733d70adeb6fbc14
+4. Pensijų kaupimo veiklą vykdančioms draudimo įmonėms mutatis mutandis taikomi [[latest/TAR.DDA1BD559D9B#^s-e4b9942c23dee55c2b90016e|Papildomo savanoriško pensijų kaupimo įstatymo 6 straipsnis]] (išskyrus 1 dalies 11 punktą), 9, 12 (išskyrus [[#^s-82b81871c4ace4e80058b31e|1 dalies]] [[latest/TAR.DDA1BD559D9B|2]] ir [[latest/TAR.DDA1BD559D9B|3]] punktus), [[#^s-9cf1b2e14311a6ffc8c4f57e|13 straipsniai]], 21, 22, 29 (išskyrus [[#^s-aa66aba54366b18f321d7d15|1]]–6 dalis), [[#^s-8a52727511a9102991a256ea|32]], 33 ir 34 straipsniai, ketvirtasis, penktasis ir šeštasis skirsniai (išskyrus 51 straipsnį, 55 straipsnio 1, 5, 6 ir 7 dalis). ^s-499f249d733d70adeb6fbc14
 
 
 
@@ -758,7 +758,7 @@ PENSIJŲ IŠMOKOS
 2. Už laikotarpį, kai asmenys nedalyvavo pensijų kaupime, valstybinės socialinio draudimo senatvės pensijų dydis nemažinamas. ^s-6f37b908e9814efa5ff6124a
 
 
-3. Dalyviams, kuriems paskirta ir mokama valstybinė socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensija, sukakus senatvės pensijos amžių, skiriama valstybinė socialinio draudimo senatvės pensija vadovaujantis šio straipsnio 1 ir [[#^s-6f37b908e9814efa5ff6124a|2 dalių]] nuostatomis. ^s-b6ce43821033f318dbf824ea
+3. Dalyviams, kuriems paskirta ir mokama valstybinė socialinio draudimo netekto darbingumo (iki 2005 m. liepos 1 d. – invalidumo) pensija, sukakus senatvės pensijos amžių, skiriama valstybinė socialinio draudimo senatvės pensija vadovaujantis šio straipsnio [[#^s-9e8ffddcec32066a23cb28a6|1]] ir [[#^s-6f37b908e9814efa5ff6124a|2]] dalių nuostatomis. ^s-b6ce43821033f318dbf824ea
 
 
 
@@ -802,7 +802,7 @@ VALSTYBINĖ PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
 4) gauti duomenis (tarp jų ir asmens duomenis), dokumentus arba jų nuorašus, reikalingus pensijų kaupimo bendrovių veiklos priežiūrai, iš valstybės, savivaldybių institucijų, įstaigų, kitų asmenų; ^s-4f79652976cc5086f81551aa
 
 
-5) priežiūros institucija draudimo įmonių depozitoriumų atžvilgiu vykdo funkcijas ir turi teises, numatytas Papildomo savanoriško pensijų kaupimo įstatymo 57 straipsnio 1 dalies 2, 3, 7 ir 8 punktuose, 58 straipsnio 1, 3 ir [[#^s-2f4d67f259390f1e916a1b19|4 dalyse]] ir 59 straipsnio 1 dalies 3 punkte. Priežiūros institucijos atliekamiems depozitoriumų patikrinimams mutatis mutandis taikomas [[latest/TAR.8447F63760E9#^s-f7c00c53b06980a9ac9aa694|Draudimo įstatymo 205 straipsnis]]. ^s-37a67955adc215e011035427
+5) priežiūros institucija draudimo įmonių depozitoriumų atžvilgiu vykdo funkcijas ir turi teises, numatytas [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatymo 57 straipsnio 1 dalies]] [[latest/TAR.DDA1BD559D9B|2]], [[latest/TAR.DDA1BD559D9B|3]], [[latest/TAR.DDA1BD559D9B|7]] ir [[latest/TAR.DDA1BD559D9B|8]] punktuose, 58 straipsnio 1, 3 ir 4 dalyse ir 59 straipsnio 1 dalies 3 punkte. Priežiūros institucijos atliekamiems depozitoriumų patikrinimams mutatis mutandis taikomas [[latest/TAR.8447F63760E9#^s-f7c00c53b06980a9ac9aa694|Draudimo įstatymo 205 straipsnis]]. ^s-37a67955adc215e011035427
 
 
 2. Priežiūros institucija, be kituose įstatymuose nustatytų poveikio priemonių, turi teisę: ^s-e56a133f5431c663ac6cd711
@@ -853,7 +853,7 @@ VALSTYBINĖ PRIEŽIŪRA IR ATSAKOMYBĖ UŽ ĮSTATYMO PAŽEIDIMUS
 ### 2 straipsnis. Baigiamosios nuostatos ^s-669e24dae6b00bffcdb03155
 
 
-1. Šio įstatymo 1 straipsnyje nauja redakcija išdėstyto [[latest/TAR.1F58348F79F7#^s-db0e4ce334f456a09bf34186|Lietuvos Respublikos pensijų kaupimo įstatymo 10 straipsnio]] 7 ir 8 dalys įsigalioja 2013 m. sausio 1 d. ^s-8f6d268453d57e383982c753
+1. Šio įstatymo 1 straipsnyje nauja redakcija išdėstyto [[latest/TAR.1F58348F79F7#^s-db0e4ce334f456a09bf34186|Lietuvos Respublikos pensijų kaupimo įstatymo 10 straipsnio]] [[latest/TAR.1F58348F79F7#^s-9e2019414d32e1362b488f7b|7]] ir [[latest/TAR.1F58348F79F7#^s-2a4ff5c76876a8971c433092|8]] dalys įsigalioja 2013 m. sausio 1 d. ^s-8f6d268453d57e383982c753
 
 
 2. Šio įstatymo nuostatos taikomos visoms galiojančioms pensijų kaupimo sutartims, taip pat ir sudarytoms iki šio įstatymo įsigaliojimo. ^s-606811dd942bb5ea53ae403e

@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Konstitucijos denonsavimas ^s-5d1eb2a423b7bb4f8bf314e2
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2011 m. lapkričio 16 d. dekretą Nr. 1K-858, denonsuoja 1979 m. balandžio 8 d. Vienoje priimtą Jungtinių Tautų pramonės plėtros organizacijos konstituciją, prie kurios buvo prisijungta Lietuvos Respublikos Vyriausybės 1991 m. spalio 11 d. raštu.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2011 m. lapkričio 16 d. dekretą Nr. 1K-858](https://e-tar.lt/portal/lt/legalAct/TAR.8B60AAF71652), denonsuoja 1979 m. balandžio 8 d. Vienoje priimtą Jungtinių Tautų pramonės plėtros organizacijos konstituciją, prie kurios buvo prisijungta Lietuvos Respublikos Vyriausybės 1991 m. spalio 11 d. raštu.
 
 
 

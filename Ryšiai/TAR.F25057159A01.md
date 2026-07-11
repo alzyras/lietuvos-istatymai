@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos ligos ir motinystės socialinio draudimo įst
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.068516AF734B#^s-436f77e02002fa6659c940b5|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 2 citatos - LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 5, 6, 17, 20 IR 21 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.068516AF734B#^s-c4cb3e6d78e276364a5ef670|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 2 citatos - LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 5, 6, 17, 20 IR 21 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.068516AF734B#^s-436f77e02002fa6659c940b5|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 5, 6, 17, 20 IR 21 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

@@ -71,7 +71,7 @@ BENDROSIOS NUOSTATOS
 ### 2 straipsnis. Pagrindinės šio Įstatymo sąvokos ^s-3bb7df15b0a0a6a24ca938a4
 
 
-1. Akcijų paketas – 1/10 arba daugiau visų pensijų fondų valdymo įmonės akcijų ar akcijų suteikiamų balsavimo teisių arba toks akcijų ar balsavimo teisių kiekis, kuris leidžia daryti esminę įtaką valdymo įmonės valdymui. Skaičiuojant akcijų paketą, atsižvelgiama į balsus, kuriuos asmuo turi pagal Vertybinių popierių rinkos įstatymo [[#^s-7bd7f122dadf225ed1c41c3f|16 straipsnį]]. ^s-186fdcce7e71360626f24a29
+1. Akcijų paketas – 1/10 arba daugiau visų pensijų fondų valdymo įmonės akcijų ar akcijų suteikiamų balsavimo teisių arba toks akcijų ar balsavimo teisių kiekis, kuris leidžia daryti esminę įtaką valdymo įmonės valdymui. Skaičiuojant akcijų paketą, atsižvelgiama į balsus, kuriuos asmuo turi pagal [Vertybinių popierių rinkos įstatymo 16 straipsnį](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D). ^s-186fdcce7e71360626f24a29
 
 
 2. Apskaitos vienetas – pensijų fondo dalyviui priklausančios pensijų turto vertės sąlyginis matas. ^s-8b21a926ea9f2db64a630a88
@@ -80,13 +80,13 @@ BENDROSIOS NUOSTATOS
 3. Depozitoriumas – komercinis bankas, turintis teisę teikti investicines paslaugas ir turintis buveinę arba skyrių Lietuvos Respublikoje, Lietuvos centrinis vertybinių popierių depozitoriumas ar Europos Sąjungos valstybių centriniai vertybinių popierių depozitoriumai, jeigu jie turi teisę saugoti pinigines lėšas. ^s-27ec93017a20225d12717112
 
 
-4. Dukterinė įmonė – kaip ši sąvoka apibrėžta Vertybinių popierių rinkos įstatyme. ^s-9d945d1f36532a21c1319704
+4. Dukterinė įmonė – kaip ši sąvoka apibrėžta [Vertybinių popierių rinkos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D). ^s-9d945d1f36532a21c1319704
 
 
 5. Europos Sąjungos valstybė – Europos Sąjungai ar Europos ekonominei erdvei priklausanti valstybė. ^s-1b8270f323bee44adafa5060
 
 
-6. Glaudus ryšys – kaip ši sąvoka apibrėžta Vertybinių popierių rinkos įstatyme. ^s-8c643b7d1ff4f87085b67f12
+6. Glaudus ryšys – kaip ši sąvoka apibrėžta [Vertybinių popierių rinkos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D). ^s-8c643b7d1ff4f87085b67f12
 
 
 7. Grynieji aktyvai – atitinkamo pensijų fondo pensijų turto vertės ir ilgalaikių bei trumpalaikių finansinių įsipareigojimų (išskyrus įsipareigojimus pensijų fondo dalyviams) skirtumas. ^s-d9830c5949df52a9427a7d2e
@@ -95,16 +95,16 @@ BENDROSIOS NUOSTATOS
 8. Investicijų portfelis – investicinių priemonių rinkinys. ^s-1a29dc242c054d1fac5f3e11
 
 
-9. Investicinės priemonės – vertybiniai popieriai, nurodyti [[#^s-a88aee85c116e285888b1990|šio straipsnio 26 dalyje]], ir investicinės priemonės, numatytos Vertybinių popierių rinkos įstatymo 3 straipsnio 2 dalies 2-6 punktuose. ^s-896bfc9bc7b3c9dd680d6a1b
+9. Investicinės priemonės – vertybiniai popieriai, nurodyti [[#^s-a88aee85c116e285888b1990|šio straipsnio 26 dalyje]], ir investicinės priemonės, numatytos [Vertybinių popierių rinkos įstatymo 3 straipsnio 2 dalies 2-6 punktuose](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D). ^s-896bfc9bc7b3c9dd680d6a1b
 
 
 10. Išvestinės investicinės priemonės – investicinės priemonės, kurių vertė priklauso nuo vienos investicinės priemonės ar kelių kitų investicinių priemonių. ^s-c884456e2144bb65aa3eb231
 
 
-11. Kontrolė – kaip ši sąvoka apibrėžta Vertybinių popierių rinkos įstatyme. ^s-bb4d7df9427cfeb8d3bec9f4
+11. Kontrolė – kaip ši sąvoka apibrėžta [Vertybinių popierių rinkos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D). ^s-bb4d7df9427cfeb8d3bec9f4
 
 
-12. Nepriekaištingos reputacijos asmenys – kaip ši sąvoka apibrėžta Vertybinių popierių rinkos įstatyme. ^s-e0639d5c7800d873a0eaf400
+12. Nepriekaištingos reputacijos asmenys – kaip ši sąvoka apibrėžta [Vertybinių popierių rinkos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D). ^s-e0639d5c7800d873a0eaf400
 
 
 13. Papildomo savanoriško pensijų kaupimo veikla (toliau – pensijų kaupimo veikla) – finansinė veikla, kurią sudaro piniginių lėšų pagal pensijų kaupimo sutartis rinkimas, jų investavimas ar reinvestavimas į diversifikuotą investicijų portfelį ir pensijų išmokų mokėjimas šiame Įstatyme ir pensijų fondo taisyklėse nustatytomis sąlygomis kaupime dalyvaujantiems asmenims, bei kita su tuo susijusi veikla. ^s-cccaf4ea62229767308cb1c0
@@ -155,7 +155,7 @@ BENDROSIOS NUOSTATOS
 2) skolos vertybiniai popieriai; ^s-f1c92b6244fdaf305139c150
 
 
-3) kiti perleidžiami vertybiniai popieriai, suteikiantys teisę pasirašymo ar keitimo būdu įsigyti šios dalies 1 ir [[#^s-f1c92b6244fdaf305139c150|2 punktuose]] nurodytų vertybinių popierių. ^s-ca783aa30462d4a5f0f9b696
+3) kiti perleidžiami vertybiniai popieriai, suteikiantys teisę pasirašymo ar keitimo būdu įsigyti šios dalies [[#^s-91dca79fc8d36ed62f25a547|1]] ir [[#^s-f1c92b6244fdaf305139c150|2]] punktuose nurodytų vertybinių popierių. ^s-ca783aa30462d4a5f0f9b696
 
 
 
@@ -185,7 +185,7 @@ VALDYMO ĮMONĖS LICENCIJAVIMAS IR VEIKLA
 2) saugoti ir tvarkyti investicinių fondų investicinius vienetus ar investicinių kintamojo kapitalo bendrovių akcijas. ^s-dcf08be2cfd54da7cb954819
 
 
-5. Šio straipsnio 1 ir [[#^s-107c3954e3775cda60f24770|2 dalyse]] nurodytos valdymo įmonės taip pat turi teisę valdyti [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatyme]] numatytus valstybinio socialinio draudimo įmokos dalies kaupimo pensijų fondus, jeigu jos atitinka [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatymo]] nustatytus reikalavimus. ^s-199308bda166607ac6984ad1
+5. Šio straipsnio [[#^s-b4e4eb87f65143036aab16f1|1]] ir [[#^s-107c3954e3775cda60f24770|2]] dalyse nurodytos valdymo įmonės taip pat turi teisę valdyti [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatyme]] numatytus valstybinio socialinio draudimo įmokos dalies kaupimo pensijų fondus, jeigu jos atitinka [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatymo]] nustatytus reikalavimus. ^s-199308bda166607ac6984ad1
 
 
 6. [[#^s-b4e4eb87f65143036aab16f1|Šio straipsnio 1 dalyje]] paminėtos valdymo įmonės negali verstis kita, šiame straipsnyje nenurodyta, veikla. ^s-d76bc02e905a55eb15700d7d
@@ -291,7 +291,7 @@ Valdymo įmonė privalo:
 3. Turtiniai įnašai negali sudaryti daugiau kaip 20 procentų valdymo įmonės įstatinio kapitalo. Turtiniu įnašu gali būti tik nekilnojamasis turtas, būtinas tiesioginei valdymo įmonės veiklai. ^s-232da06b89001be8050fe9b3
 
 
-4. Ne mažiau kaip 125 000 eurų valdymo įmonės nuosavo kapitalo turi būti investuota į diversifikuotą investicijų portfelį, kuriam taikomi šio Įstatymo 46, 47 ir [[#^s-0bac50550e97190dc345227c|49 straipsniuose]] nustatyti reikalavimai. Likusią nuosavo kapitalo dalį valdymo įmonė valdo savo nuožiūra, laikydamasi įstatymų ir kitų teisės aktų nustatytos tvarkos. ^s-8e833b4560c1e498495cde06
+4. Ne mažiau kaip 125 000 eurų valdymo įmonės nuosavo kapitalo turi būti investuota į diversifikuotą investicijų portfelį, kuriam taikomi šio Įstatymo [[#^s-5e1d071677d2c7e0ba2ef999|46]], [[#^s-db35d61faee1f94efacb6cfa|47]] ir [[#^s-0bac50550e97190dc345227c|49]] straipsniuose nustatyti reikalavimai. Likusią nuosavo kapitalo dalį valdymo įmonė valdo savo nuožiūra, laikydamasi įstatymų ir kitų teisės aktų nustatytos tvarkos. ^s-8e833b4560c1e498495cde06
 
 
 5. Valdymo įmonė privalo laikytis Vertybinių popierių komisijos nustatytų kapitalo pakankamumo reikalavimų. ^s-e334e3d87a6cae297cf44058
@@ -304,7 +304,7 @@ Valdymo įmonė privalo:
 1. Tuo atveju, kai valdymo įmonė prisiima įsipareigojimus garantuoti pensijų fondo dalyviams tam tikrą pajamingumą, turi būti formuojamas garantijų rezervas. Šio rezervo formavimo, investavimo ir naudojimo tvarka turi būti suderinta su Vertybinių popierių komisija. Vertybinių popierių komisija turi teisę duoti nurodymus pakeisti ir (ar) papildyti garantijų formavimo, investavimo ir naudojimo tvarką. ^s-fa12dca999b091cfd2bd6227
 
 
-2. Garantijų rezervas investuojamas į diversifikuotą investicijų portfelį, kuriam taikomi šio Įstatymo 46, 47 ir [[#^s-0bac50550e97190dc345227c|49 straipsniuose]] nustatyti reikalavimai. ^s-d6f400ad9247454e93bbb142
+2. Garantijų rezervas investuojamas į diversifikuotą investicijų portfelį, kuriam taikomi šio Įstatymo [[#^s-5e1d071677d2c7e0ba2ef999|46]], [[#^s-db35d61faee1f94efacb6cfa|47]] ir [[#^s-0bac50550e97190dc345227c|49]] straipsniuose nustatyti reikalavimai. ^s-d6f400ad9247454e93bbb142
 
 
 
@@ -385,7 +385,7 @@ Vertybinių popierių komisija turi teisę nustatyti:
 ### 11 straipsnis. Valdymo įmonės akcijų paketo įsigijimas ^s-2f9dfd9145ddccdb6811aa87
 
 
-1. Asmuo, norintis įsigyti valdymo įmonės akcijų paketą arba padidinti jau turimą akcijų kiekį tiek, kad jo turimų balsų ar įstatinio kapitalo dalis pasiektų 1/5, 1/3 ar 1/2 ribą arba tiek, kad įmonė taptų jo dukterine įmone (tuo atveju, kai įsigyja juridinis asmuo), turi gauti išankstinį Vertybinių popierių komisijos leidimą. Asmens turimi balsai skaičiuojami Vertybinių popierių rinkos įstatymo [[#^s-7bd7f122dadf225ed1c41c3f|16 straipsnyje]] nustatyta tvarka. ^s-7ad14f628177faed262c1dcc
+1. Asmuo, norintis įsigyti valdymo įmonės akcijų paketą arba padidinti jau turimą akcijų kiekį tiek, kad jo turimų balsų ar įstatinio kapitalo dalis pasiektų 1/5, 1/3 ar 1/2 ribą arba tiek, kad įmonė taptų jo dukterine įmone (tuo atveju, kai įsigyja juridinis asmuo), turi gauti išankstinį Vertybinių popierių komisijos leidimą. Asmens turimi balsai skaičiuojami [Vertybinių popierių rinkos įstatymo 16 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nustatyta tvarka. ^s-7ad14f628177faed262c1dcc
 
 
 2. [[#^s-7ad14f628177faed262c1dcc|Šio straipsnio 1 dalyje]] minėtas asmuo turi pateikti Vertybinių popierių komisijai jos nustatyto turinio prašymą, o Vertybinių popierių komisija ne vėliau kaip per 3 mėnesius nuo prašymo gavimo dienos turi pranešti jam apie leidimą įsigyti akcijų paketą arba atsisakymą leisti jį įsigyti. ^s-65e8a27834b6b55860121972
@@ -1227,7 +1227,7 @@ INVESTAVIMO TAISYKLĖS
 1) išleistos arba garantuotos Europos Sąjungos valstybės narės vyriausybės, regioninės valdžios, savivaldybės ar centrinio banko, Europos centrinio banko, Europos Sąjungos ar Europos investicijų banko, valstybės ne Europos Sąjungos narės ar vieno iš federacinę valstybę sudarančių subjektų ar tarptautinės organizacijos, kuriai priklauso bent viena Europos Sąjungos valstybė; ^s-650695dd359d9ef68d37b52c
 
 
-2) išleistos subjekto, kurio vertybiniais popieriais prekiaujama [[#^s-95bdcc3b4eb687b720ccef1e|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytose reguliuojamose rinkose; ^s-44587cdb74d44c1ea5035b53
+2) išleistos subjekto, kurio vertybiniais popieriais prekiaujama [[#^s-95bdcc3b4eb687b720ccef1e|šio straipsnio 1 dalies]] [[#^s-650695dd359d9ef68d37b52c|1]] ir 2 punktuose nurodytose reguliuojamose rinkose; ^s-44587cdb74d44c1ea5035b53
 
 
 3) išleistos ar garantuotos subjekto, kurio veiklos rizika yra prižiūrima pagal Europos Sąjungos teisės reikalavimus ar tokius reikalavimus, kurie yra ne mažiau griežti už nustatytus Europos Sąjungoje; ^s-3157809aafe9e92b02d3d65e
@@ -1246,7 +1246,7 @@ INVESTAVIMO TAISYKLĖS
 ### 47 straipsnis. Investicijų portfelio diversifikavimas ^s-db35d61faee1f94efacb6cfa
 
 
-1. Į vieno emitento vertybinius popierius ar pinigų rinkos priemones gali būti investuota ne daugiau kaip 5 procentai pensijų turtą sudarančių grynųjų aktyvų, išskyrus šio straipsnio 2, 5 ir [[#^s-07aab4ae6ee627b04e3c61bb|6 dalyse]] numatytus atvejus. ^s-b14478eea7e0b426e1482c72
+1. Į vieno emitento vertybinius popierius ar pinigų rinkos priemones gali būti investuota ne daugiau kaip 5 procentai pensijų turtą sudarančių grynųjų aktyvų, išskyrus šio straipsnio [[#^s-2450ba7dc51a42137ab2a0fa|2]], [[#^s-ea61ee068bcd1af93b0ff235|5]] ir [[#^s-07aab4ae6ee627b04e3c61bb|6]] dalyse numatytus atvejus. ^s-b14478eea7e0b426e1482c72
 
 
 2. Į vieno emitento vertybinius popierius ar pinigų rinkos priemones gali būti investuota daugiau kaip 5 procentai, bet ne daugiau kaip 10 procentų grynųjų aktyvų, su sąlyga, kad tokių investicijų bendra suma nebus didesnė kaip 40 procentų grynųjų aktyvų (šis apribojimas netaikomas indėliams). ^s-2450ba7dc51a42137ab2a0fa
@@ -1264,7 +1264,7 @@ INVESTAVIMO TAISYKLĖS
 6. Investicijos į obligacijas, išleistas tokios Europos Sąjungos valstybėje registruotą buveinę turinčios kredito įstaigos, kuri, siekiant apsaugoti obligacijų savininkų interesus, yra tos valstybės specialiai prižiūrima pagal teisės aktus, o iš obligacijų leidimo gauta suma visam obligacijų galiojimo laikui investuojama į tokį turtą, kurio pakaktų patenkinti obligacijų savininkų reikalavimus, ir iš kurio - emitento nemokumo atveju - obligacijų savininkų reikalavimai išmokėti pagrindinę sumą ir palūkanas būtų patenkinti pirmumo teise, negali būti didesnės kaip 25 procentai grynųjų aktyvų. Kai į tokias vieno emitento obligacijas investuojama daugiau kaip 5 procentai, bet ne daugiau kaip 25 procentai grynųjų aktyvų, bendra tokių investicijų suma negali būti didesnė kaip 80 procentų grynųjų aktyvų. ^s-07aab4ae6ee627b04e3c61bb
 
 
-7. Šio straipsnio 5 ir [[#^s-07aab4ae6ee627b04e3c61bb|6 dalyse]] numatyti vertybiniai popieriai ir pinigų rinkos priemonės nėra įskaitomi skaičiuojant investicijas, kurioms pagal [[#^s-2450ba7dc51a42137ab2a0fa|šio straipsnio 2 dalį]] taikoma maksimali leistina 40 procentų riba. Šio straipsnio 1-6 dalyse numatytos ribos negali būti sudedamos, todėl investicijų į vieno asmens išleistus vertybinius popierius, pinigų rinkos priemones, indėlius suma negali būti didesnė kaip 35 procentai pensijų turtą sudarančių grynųjų aktyvų. ^s-6b2a18982d05081cd35d2c39
+7. Šio straipsnio [[#^s-ea61ee068bcd1af93b0ff235|5]] ir [[#^s-07aab4ae6ee627b04e3c61bb|6]] dalyse numatyti vertybiniai popieriai ir pinigų rinkos priemonės nėra įskaitomi skaičiuojant investicijas, kurioms pagal [[#^s-2450ba7dc51a42137ab2a0fa|šio straipsnio 2 dalį]] taikoma maksimali leistina 40 procentų riba. Šio straipsnio 1-6 dalyse numatytos ribos negali būti sudedamos, todėl investicijų į vieno asmens išleistus vertybinius popierius, pinigų rinkos priemones, indėlius suma negali būti didesnė kaip 35 procentai pensijų turtą sudarančių grynųjų aktyvų. ^s-6b2a18982d05081cd35d2c39
 
 
 8. Į įmonių, priklausančių grupei, kuri turi sudaryti konsoliduotą finansinę atskaitomybę, išleistus vertybinius popierius ir pinigų rinkos priemones gali būti investuota ne daugiau kaip 20 procentų grynųjų aktyvų. ^s-019efccda870d20035832613
@@ -1314,7 +1314,7 @@ INVESTAVIMO TAISYKLĖS
 4) ne daugiau kaip 10 procentų jų aktyvų gali būti investuota į kitų kolektyvinio investavimo subjektų investicinius vienetus ar akcijas; ^s-0c5eee9dc23474fcc6805afb
 
 
-5) subjektų investavimo strategija atitinka šio Įstatymo 46–[[#^s-98917d0160b137bc91e2a67f|48 straipsniuose]] nustatytus investicijų portfelio diversifikavimo reikalavimus. ^s-c1993106802c29db5a4ceefd
+5) subjektų investavimo strategija atitinka šio Įstatymo [[#^s-5e1d071677d2c7e0ba2ef999|46]]–[[#^s-98917d0160b137bc91e2a67f|48]] straipsniuose nustatytus investicijų portfelio diversifikavimo reikalavimus. ^s-c1993106802c29db5a4ceefd
 
 
 2. Į kiekvieną iš [[#^s-e721ae26d66d2fc532d2e27b|1 dalyje]] numatytų subjektų gali būti investuota ne daugiau kaip 20 procentų pensijų fondo grynųjų aktyvų. ^s-ffa61c198aa90770a8ae30e8
@@ -1330,7 +1330,7 @@ INVESTAVIMO TAISYKLĖS
 1. Pensijų fondas gali nesilaikyti šiame skirsnyje nustatytų investavimo apribojimų, jei jis pasinaudoja turimų vertybinių popierių ar pinigų rinkos priemonių suteikiama pirmumo teise. Tokiu atveju, taip pat tada, kai investavimo taisyklių reikalavimai pažeidžiami dėl priežasčių, nepriklausančių nuo valdymo įmonės, neatitikimas turi būti pašalintas kuo greičiau – ne vėliau kaip per 6 mėnesius. ^s-8123d3879353ae3a066efed5
 
 
-2. Naujai sukurto pensijų fondo investicijų portfelis 6 mėnesius nuo pensijų fondo taisyklių patvirtinimo gali neatitikti šio Įstatymo 46–[[#^s-0bac50550e97190dc345227c|49 straipsnių]] reikalavimų. ^s-87e4eb6b395f26b1a5e22819
+2. Naujai sukurto pensijų fondo investicijų portfelis 6 mėnesius nuo pensijų fondo taisyklių patvirtinimo gali neatitikti šio Įstatymo [[#^s-5e1d071677d2c7e0ba2ef999|46]]–[[#^s-0bac50550e97190dc345227c|49]] straipsnių reikalavimų. ^s-87e4eb6b395f26b1a5e22819
 
 
 
@@ -1412,7 +1412,7 @@ VALDYMO ĮMONIŲ IR DEPOZITORIUMŲ VEIKLOS VALSTYBINĖ PRIEŽIŪRA
 1. Valdymo įmonių ir depozitoriumų veiklą prižiūri Vertybinių popierių komisija. ^s-10aa384ba1f87231647cacca
 
 
-2. Vertybinių popierių komisija priežiūros funkcijas atlieka vadovaudamasi šiuo Įstatymu ir Vertybinių popierių rinkos įstatymu bei turi šio ir kitų įstatymų numatytas teises ir pareigas. ^s-315f05ad6eea8e0b3ca1616d
+2. Vertybinių popierių komisija priežiūros funkcijas atlieka vadovaudamasi šiuo Įstatymu ir [Vertybinių popierių rinkos įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) bei turi šio ir kitų įstatymų numatytas teises ir pareigas. ^s-315f05ad6eea8e0b3ca1616d
 
 
 3. Vertybinių popierių komisijos veiksmai ar neveikimas skundžiami [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-0c0407cebe7967f97d0ce8c4
@@ -1487,7 +1487,7 @@ VALDYMO ĮMONIŲ IR DEPOZITORIUMŲ VEIKLOS VALSTYBINĖ PRIEŽIŪRA
 ### 59 straipsnis. Piniginės baudos už Įstatymo pažeidimą ^s-4e4dc5d6d98b241e9d5627c2
 
 
-Vertybinių popierių komisija, vadovaudamasi Vertybinių popierių rinkos įstatymo 62 straipsnyje nustatyta tvarka, turi teisę skirti baudas:
+Vertybinių popierių komisija, vadovaudamasi [Vertybinių popierių rinkos įstatymo 62 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nustatyta tvarka, turi teisę skirti baudas:
 
 
 1) juridiniams asmenims, veikiantiems kaip valdymo įmonės, bet neturintiems šio Įstatymo nustatytos licencijos – iki 500 tūkstančių litų; ^s-db6784e1b3fd136844c7fa18

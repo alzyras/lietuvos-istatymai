@@ -123,7 +123,7 @@ VALSTYBĖS SKOLOS
 2) valstybės turtinių įsipareigojimų pripažinimo valstybės vidaus ar užsienio skola Lietuvos Respublikos Vyriausybės siūlymu priima Seimas. Įstatyme turi būti nurodomi skolos dydis, skolos padengimo terminas ir kitos esminės sąlygos. ^s-0683f80f3a90efb56a696050
 
 
-2. Vidaus ir užsienio paskolas Lietuvos Respublikos vardu ima bei valstybės garantijas vidaus ir užsienio paskoloms teikia Lietuvos Respublikos Vyriausybė, laikydamasi Lietuvos Respublikos įstatymuose nustatytų limitų, šio įstatymo 5, 6 ir [[#^s-2dba4971da20d03f4be30ec6|7 straipsniuose]] nustatyta tvarka. ^s-1bf79da77a65a90086349d02
+2. Vidaus ir užsienio paskolas Lietuvos Respublikos vardu ima bei valstybės garantijas vidaus ir užsienio paskoloms teikia Lietuvos Respublikos Vyriausybė, laikydamasi Lietuvos Respublikos įstatymuose nustatytų limitų, šio įstatymo [[#^s-c190b4be1ef28a987da6fe90|5]], [[#^s-115cd8cf9cf8b562b985e74e|6]] ir [[#^s-2dba4971da20d03f4be30ec6|7]] straipsniuose nustatyta tvarka. ^s-1bf79da77a65a90086349d02
 
 
 3. Valdant valstybės skolą, Lietuvos Respublikos Vyriausybei atstovauja Finansų ministerija, kuri Lietuvos Respublikos Vyriausybės sprendimu: ^s-b5b4346b1dca53e8ac6bb192
@@ -376,7 +376,7 @@ Vyriausybė Lietuvos Respublikos vardu gali imti paskolas ir teikti valstybės g
 6. Finansų ministerijos sprendimai dėl skolų išieškojimo iš skolininko arba skolininko, už kurio įsipareigojimų įvykdymą garantuoja valstybė, sąskaitų bankų įstaigose ir turto gali būti pateikti vykdyti per trejus metus nuo jų priėmimo. ^s-afdb9f83107fbae0ae7e0a1e
 
 
-7. Jeigu šio straipsnio 2, 3, 4 ir [[#^s-c1f2c247d7bf3688b980edae|5 dalyse]] nurodytų veiksmų nepakanka, o įsipareigojimai ir toliau nevykdomi, Finansų ministerija turi teisę kreiptis į teismą su pareiškimu dėl bankroto bylos iškėlimo skolininkui arba skolininkui, už kurio įsipareigojimų įvykdymą garantuoja valstybė. Apie savo ketinimus kreiptis į teismą dėl įmonės bankroto bylos iškėlimo Finansų ministerija raštu praneša skolininkui arba skolininkui, už kurio įsipareigojimų įvykdymą garantuoja valstybė. Pranešime nurodomi skolininko arba skolininko, už kurio įsipareigojimų įvykdymą garantuoja valstybė, neįvykdyti įsipareigojimai ir perspėjama apie tai, kad jeigu jie nebus įvykdyti per šiame pranešime nurodytą laikotarpį, Finansų ministerija kreipsis į teismą dėl bankroto bylos iškėlimo. ^s-13d09c84cf344b5c96b6f7d7
+7. Jeigu šio straipsnio [[#^s-1d26c33ac1b1240273eddf81|2]], [[#^s-f68fc17432231927a22e715b|3]], [[#^s-c1e3a691a6db00d9041f75a7|4]] ir [[#^s-c1f2c247d7bf3688b980edae|5]] dalyse nurodytų veiksmų nepakanka, o įsipareigojimai ir toliau nevykdomi, Finansų ministerija turi teisę kreiptis į teismą su pareiškimu dėl bankroto bylos iškėlimo skolininkui arba skolininkui, už kurio įsipareigojimų įvykdymą garantuoja valstybė. Apie savo ketinimus kreiptis į teismą dėl įmonės bankroto bylos iškėlimo Finansų ministerija raštu praneša skolininkui arba skolininkui, už kurio įsipareigojimų įvykdymą garantuoja valstybė. Pranešime nurodomi skolininko arba skolininko, už kurio įsipareigojimų įvykdymą garantuoja valstybė, neįvykdyti įsipareigojimai ir perspėjama apie tai, kad jeigu jie nebus įvykdyti per šiame pranešime nurodytą laikotarpį, Finansų ministerija kreipsis į teismą dėl bankroto bylos iškėlimo. ^s-13d09c84cf344b5c96b6f7d7
 
 
 8. Jeigu Lietuvos Respublikos Vyriausybė nuspręs, kad socialiniu ir (arba) ekonominiu požiūriu tikslinga nepradėti bankroto procedūros, neskaičiuoti delspinigių, arba nuspręs pasiūlyti skolininkui peržiūrėti pradines paskolos sutarties sąlygas ir pasirašyti su Finansų ministerija paskolos sąlygų pakeitimo sutartį ar skolos grąžinimo sutartį, o įvykdžius skolininko, už kurio įsipareigojimų įvykdymą garantuoja valstybė, įsipareigojimus paves skolininkui pasirašyti su Finansų ministerija skolos grąžinimo sutartį ir nustatys skolos grąžinimo sąlygas, Finansų ministerija privalo apskaičiuoti finansines tokio sprendimo pasekmes ir reikalingą sumą numatyti kitų metų valstybės biudžete (o jeigu pasekmės atsilieptų keletą metų – kiekvienų kitų metų valstybės biudžete). ^s-a6007a59290d694cde6ef518
@@ -388,10 +388,10 @@ Vyriausybė Lietuvos Respublikos vardu gali imti paskolas ir teikti valstybės g
 10. Jeigu skolininkas gautų paskolos lėšų nepanaudoja pagal tikslinę paskirtį ilgiau kaip šešis mėnesius, jis privalo sumokėti šio laikotarpio paskolos palūkanų, numatytų paskolos sutartyje, dydžio baudą ir grąžinti Finansų ministerijai visą nepanaudotą pagal paskirtį sumą. ^s-f37d52d5d389d404f8dcb598
 
 
-11. Sankcijas pagal šio straipsnio 9 ir [[#^s-f37d52d5d389d404f8dcb598|10 dalis]] skiria Valstybės kontrolės institucijos įstatymų nustatyta tvarka. ^s-e618d60e2c33d22742041256
+11. Sankcijas pagal šio straipsnio [[#^s-71736231a365be5564968150|9]] ir [[#^s-f37d52d5d389d404f8dcb598|10]] dalis skiria Valstybės kontrolės institucijos įstatymų nustatyta tvarka. ^s-e618d60e2c33d22742041256
 
 
-12. Jeigu skolininkas negrąžina šio straipsnio 9 ir [[#^s-f37d52d5d389d404f8dcb598|10 dalyje]] nurodytų sumų, Finansų ministerija ne ginčo tvarka išieško šias sumas iš skolininko sąskaitų bankų įstaigose. Jeigu skolininko lėšų nepakanka išieškomoms sumoms padengti, išieškojimas nukreipiamas į kitą skolininko turtą. ^s-60031038c8123ac0f585ac73
+12. Jeigu skolininkas negrąžina šio straipsnio [[#^s-71736231a365be5564968150|9]] ir [[#^s-f37d52d5d389d404f8dcb598|10]] dalyje nurodytų sumų, Finansų ministerija ne ginčo tvarka išieško šias sumas iš skolininko sąskaitų bankų įstaigose. Jeigu skolininko lėšų nepakanka išieškomoms sumoms padengti, išieškojimas nukreipiamas į kitą skolininko turtą. ^s-60031038c8123ac0f585ac73
 
 
 13. Visos įmokos pagal sankcijas sumokamos į Valstybės iždo sąskaitą. Šios sąskaitos lėšos gali būti naudojamos visiems iš šio įstatymo reglamentuojamų santykių kylantiems valstybės turtiniams įsipareigojimams vykdyti ir pasibaigus biudžetiniams metams į valstybės biudžetą neįskaitomos. ^s-1ffa75b33af341451c81eeb2

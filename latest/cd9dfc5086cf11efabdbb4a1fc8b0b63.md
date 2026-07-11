@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-b3197060ab682c162aa98153
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 2 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2024 m. rugsėjo 20 d. dekretą Nr. 1K-74 „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos srityje“, ratifikuoja 2024 m. rugsėjo 13 d. Berlyne pasirašytą Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos srityje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 2 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento [2024 m. rugsėjo 20 d. dekretą Nr. 1K-74](https://e-tar.lt/portal/lt/legalAct/c9006d53774211efabdbb4a1fc8b0b63) [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos srityje“](https://e-tar.lt/portal/lt/legalAct/c9006d53774211efabdbb4a1fc8b0b63), ratifikuoja 2024 m. rugsėjo 13 d. Berlyne pasirašytą Lietuvos Respublikos Vyriausybės ir Vokietijos Federacinės Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos srityje.
 
 
 

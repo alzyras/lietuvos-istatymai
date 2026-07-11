@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos denonsavimas ^s-2b3c08353d506e0cc9844c1d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1998 m. birželio 3 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui denonsuoti Tarptautinės darbo organizacijos 1919 metų konvenciją Nr. 4 „Dėl moterų nakties darbo“, denonsuoja 1931 m. birželio 19 d. Lietuvos Respublikos Seimo ratifikuotą Tarptautinės darbo organizacijos 1919 metų konvenciją Nr. 4 „Dėl moterų nakties darbo“.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1998 m. birželio 3 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui denonsuoti Tarptautinės darbo organizacijos 1919 metų konvenciją Nr. 4 „Dėl moterų nakties darbo“](https://e-tar.lt/portal/lt/legalAct/TAR.5F3972DC4047), denonsuoja 1931 m. birželio 19 d. Lietuvos Respublikos Seimo ratifikuotą Tarptautinės darbo organizacijos 1919 metų konvenciją Nr. 4 „Dėl moterų nakties darbo“.
 
 
 

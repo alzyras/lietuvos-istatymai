@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-724e3a594c21404fcfe5f9fb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2001 m. birželio 11 d. dekretą Nr. 1357, ratifikuoja su išlyga 1961 m. spalio 5 d. sudarytą Konvenciją dėl valdžios institucijų įgaliojimų ir taikytinos teisės nepilnamečių apsaugos srityje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2001 m. birželio 11 d. dekretą Nr. 1357](https://e-tar.lt/portal/lt/legalAct/TAR.6D94E127E082), ratifikuoja su išlyga 1961 m. spalio 5 d. sudarytą Konvenciją dėl valdžios institucijų įgaliojimų ir taikytinos teisės nepilnamečių apsaugos srityje.
 
 
 

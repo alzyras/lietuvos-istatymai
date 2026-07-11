@@ -92,7 +92,7 @@ Registras yra valstybės registras.
 1. Vadovaujančioji Registro tvarkymo įstaiga yra Informatikos ir ryšių departamentas prie Lietuvos Respublikos vidaus reikalų ministerijos, kuris kartu yra ir Registro tvarkymo įstaiga. ^s-95c92a3e6d2dcc1f5b9a2178
 
 
-2. Registro duomenys tvarkomi vadovaujantis šiuo įstatymu, Lietuvos Respublikos valstybės registrų įstatymu, [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], Lietuvos Respublikos baudžiamuoju kodeksu, [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]], [[latest/TAR.A0A0CCC6B997|Lietuvos Respublikos bausmių vykdymo kodeksu]], Registro nuostatais ir kitais Lietuvos Respublikos, Europos Sąjungos ir tarptautinės teisės aktais. ^s-cbe4e1f71ceef48d223b9fb8
+2. Registro duomenys tvarkomi vadovaujantis šiuo įstatymu, [Lietuvos Respublikos valstybės registrų įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], Lietuvos Respublikos baudžiamuoju kodeksu, [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodeksu]], [[latest/TAR.A0A0CCC6B997|Lietuvos Respublikos bausmių vykdymo kodeksu]], Registro nuostatais ir kitais Lietuvos Respublikos, Europos Sąjungos ir tarptautinės teisės aktais. ^s-cbe4e1f71ceef48d223b9fb8
 
 
 3. Valstybės ir savivaldybių institucijos ir įstaigos turi teisę gauti Registro duomenis neatlygintinai, kai tai būtina tiesioginėms ir teisės aktuose nustatytoms šių institucijų ir įstaigų funkcijoms atlikti. ^s-cb1d0a643199650aec9a0cc3
@@ -112,7 +112,7 @@ Registras finansuojamas iš Lietuvos Respublikos valstybės biudžeto, taip pat 
 ### 8 straipsnis. Registro reorganizavimas ir likvidavimas ^s-acac5aed876803f4fc37f736
 
 
-Registras reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės registrų įstatymo ir kitų teisės aktų nustatyta tvarka.
+Registras reorganizuojamas ir likviduojamas [Lietuvos Respublikos valstybės registrų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296) ir kitų teisės aktų nustatyta tvarka.
 
 
 

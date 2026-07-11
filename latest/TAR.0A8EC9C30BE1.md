@@ -71,7 +71,7 @@ Pakeisti 11 straipsnį ir jį išdėstyti taip:
 1. Šis įstatymas, išskyrus [[#^s-538e1f55f945db7e0b98d4cb|1 straipsnio 2 dalį]], įsigalioja nuo 2006 m. sausio 1 d. ^s-5d63de015bdea97b046d9d80
 
 
-2. Šio įstatymo [[#^s-fcc09a0cbeecc0a2be52c745|1 straipsnyje]] išdėstyta Žemės mokesčio įstatymo 6 straipsnio 4 dalis įsigalioja nuo 2007 m. sausio 1 d. ^s-269a063293ac9d092ca9fbbe
+2. Šio įstatymo [[#^s-fcc09a0cbeecc0a2be52c745|1 straipsnyje]] išdėstyta [[latest/TAR.D267FBDC094B|Žemės mokesčio įstatymo 6 straipsnio 4 dalis]] įsigalioja nuo 2007 m. sausio 1 d. ^s-269a063293ac9d092ca9fbbe
 
 
 

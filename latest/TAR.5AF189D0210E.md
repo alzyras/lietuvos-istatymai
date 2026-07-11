@@ -70,7 +70,7 @@ Vilnius
 2. Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip: ^s-1691c6966ee3f7f1b44836ee
 
 
-„4. Jeigu būsto kredito gavėjas teisę į šią subsidiją įgijo po to, kai gavo valstybės remiamą būsto kreditą, suteiktą iš bankams pagal savivaldybes nustatyto kredito limito, subsidija apskaičiuojama nuo kredito likučio sumos vadovaujantis [[#^s-1691c6966ee3f7f1b44836ee|šio straipsnio 2 dalyje]] nustatyta tvarka.“
+„4. Jeigu būsto kredito gavėjas teisę į šią subsidiją įgijo po to, kai gavo valstybės remiamą būsto kreditą, suteiktą iš bankams pagal savivaldybes nustatyto kredito limito, subsidija apskaičiuojama nuo kredito likučio sumos vadovaujantis šio straipsnio 2 dalyje nustatyta tvarka.“
 
 
 

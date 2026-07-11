@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-f5fbd79668510f262a35d404
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 24 d. dekretą Nr. 721, ratifikuoja 2001 m. gegužės 22 d. Stokholme priimtą Stokholmo konvenciją dėl patvariųjų organinių teršalų (POT).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. rugpjūčio 24 d. dekretą Nr. 721](https://e-tar.lt/portal/lt/legalAct/TAR.D263A8EBAECE), ratifikuoja 2001 m. gegužės 22 d. Stokholme priimtą Stokholmo konvenciją dėl patvariųjų organinių teršalų (POT).
 
 
 

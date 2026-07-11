@@ -48,7 +48,7 @@ Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 2) 30 straipsnį papildyti antrąja dalimi:
 
 
-„Frakcijų rekomenduotus deputatus Mandatų ir etikos komisijos nariais Aukščiausioji Taryba gali tvirtinti personaliai. Aukščiausiajai Tarybai nepatvirtinus iš eilės dviejų frakcijos rekomenduotų kandidatūrų, trečiasis kandidatas į komisiją įrašomas be svarstymo.“;
+„Frakcijų rekomenduotus deputatus Mandatų ir etikos komisijos nariais Aukščiausioji Taryba gali tvirtinti personaliai. [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC) nepatvirtinus iš eilės dviejų frakcijos rekomenduotų kandidatūrų, trečiasis kandidatas į komisiją įrašomas be svarstymo.“;
 
 
 3) 32 straipsnio pirmosios dalies antrame sakinyje po žodžio „pirmininką“ įrašyti žodžius:

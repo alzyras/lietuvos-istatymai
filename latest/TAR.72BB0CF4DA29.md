@@ -40,28 +40,28 @@ I. Įsigaliojus Lietuvos Respublikos valstybės kontrolės įstatymui, pripažin
 1. 1990 m. gegužės 31 d. Lietuvos Respublikos valstybės kontrolės departamento įstatymą Nr. I-258 (Žin., 1990, Nr. 17-444).
 
 
-2. 1990 m. gruodžio 28 d. įstatymą Nr. I-894 „Dėl Lietuvos Respublikos valstybės kontrolės departamento statuto patvirtinimo“ (Žin., 1991, Nr. 2-30).
+2. [1990 m. gruodžio 28 d. įstatymą Nr. I-894](https://e-tar.lt/portal/lt/legalAct/TAR.B4062792CC6F) [„Dėl Lietuvos Respublikos valstybės kontrolės departamento statuto patvirtinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.B4062792CC6F) (Žin., 1991, Nr. 2-30).
 
 
-3. 1990 m. gruodžio 28 d. įstatymą Nr. I-896 „Dėl Lietuvos Respublikos valstybės kontrolės departamento įstatymo 32 straipsnio 4 punkto pakeitimo“ (Žin., 1991, Nr. 2-32).
+3. [1990 m. gruodžio 28 d. įstatymą Nr. I-896](https://e-tar.lt/portal/lt/legalAct/TAR.A148F6DCB270) [„Dėl Lietuvos Respublikos valstybės kontrolės departamento įstatymo 32 straipsnio 4 punkto pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.A148F6DCB270) (Žin., 1991, Nr. 2-32).
 
 
 4. 1993 m. sausio 5 d. Lietuvos Respublikos valstybės kontrolieriaus priesaikos įstatymą Nr. I-41 (Žin., 1993, Nr. 3-53).
 
 
-5. 1993 m. balandžio 27 d. įstatymą Nr. I-136 „Dėl Lietuvos Respublikos valstybės kontrolės departamento įstatymo pakeitimo“ (Žin., 1993, Nr. 14-350).
+5. [1993 m. balandžio 27 d. įstatymą Nr. I-136](https://e-tar.lt/portal/lt/legalAct/TAR.5FE679675584) [„Dėl Lietuvos Respublikos valstybės kontrolės departamento įstatymo pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.5FE679675584) (Žin., 1993, Nr. 14-350).
 
 
-6. 1993 m. balandžio 28 d. įstatymą Nr. I-139 „Dėl Lietuvos Respublikos valstybės kontrolės departamento statuto pakeitimo“ (Žin., 1993, Nr. 14-352).
+6. [1993 m. balandžio 28 d. įstatymą Nr. I-139](https://e-tar.lt/portal/lt/legalAct/TAR.F26EFFD65D7C) [„Dėl Lietuvos Respublikos valstybės kontrolės departamento statuto pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.F26EFFD65D7C) (Žin., 1993, Nr. 14-352).
 
 
-7. 1994 m. kovo 29 d. įstatymą Nr. I-415 „Dėl Lietuvos Respublikos valstybės kontrolės departamento statuto antrojo skyriaus pripažinimo netekusiu galios“ (Žin., 1994, Nr. 27-461).
+7. [1994 m. kovo 29 d. įstatymą Nr. I-415](https://e-tar.lt/portal/lt/legalAct/TAR.BD202C84CD63) [„Dėl Lietuvos Respublikos valstybės kontrolės departamento statuto antrojo skyriaus pripažinimo netekusiu galios“](https://e-tar.lt/portal/lt/legalAct/TAR.BD202C84CD63) (Žin., 1994, Nr. 27-461).
 
 
-8. Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. gegužės 31 d. nutarimą Nr. I-259 „Dėl Lietuvos Respublikos valstybės kontrolės departamento įstatymo įsigaliojimo tvarkos“ (Žin., 1990, Nr. 17-445).
+8. Lietuvos Respublikos Aukščiausiosios Tarybos [1990 m. gegužės 31 d. nutarimą Nr. I-259](https://e-tar.lt/portal/lt/legalAct/TAR.8234CA3F8227) [„Dėl Lietuvos Respublikos valstybės kontrolės departamento įstatymo įsigaliojimo tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.8234CA3F8227) (Žin., 1990, Nr. 17-445).
 
 
-9. Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. gruodžio 28 d. nutarimą Nr. I-895 „Dėl Lietuvos Respublikos valstybės kontrolės departamento statuto įsigaliojimo“ (Žin., 1991, Nr. 2-31).
+9. Lietuvos Respublikos Aukščiausiosios Tarybos [1990 m. gruodžio 28 d. nutarimą Nr. I-895](https://e-tar.lt/portal/lt/legalAct/TAR.118E41276BCB) [„Dėl Lietuvos Respublikos valstybės kontrolės departamento statuto įsigaliojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.118E41276BCB) (Žin., 1991, Nr. 2-31).
 
 
 II. Pakeisti Lietuvos Respublikos civilinio proceso kodeksą (Žin., 1964, Nr. 19-139; 1991, Nr. 33-891; 1993, Nr. 54-1051; 1994, Nr. 58-1131, Nr. 93-1809):

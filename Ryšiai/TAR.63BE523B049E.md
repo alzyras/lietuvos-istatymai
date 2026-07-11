@@ -9,10 +9,9 @@ pavadinimas: "Lietuvos Respublikos akcinių bendrovių įstatymo 1, 4, 7, 14, 16
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.ED28779BEADF|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas]] - 2 citatos - Kolektyvinio investavimo subjektų įstatyme
-- [[latest/TAR.3DF892F52616|Lietuvos Respublikos vertybinių popierių įstatymas]] - 3 citatos - Vertybinių popierių įstatyme
+- [[latest/TAR.ED28779BEADF|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatymas]] - Kolektyvinio investavimo subjektų įstatyme
+- [[latest/TAR.3DF892F52616|Lietuvos Respublikos vertybinių popierių įstatymas]] - 2 citatos - Vertybinių popierių įstatymas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.E22116F1B0E0#^s-11d889e607ac4912e95bff6a|Lietuvos Respublikos akcinių bendrovių įstatymas]] - Įstatymas Nr. XI-354
-- [[latest/TAR.E22116F1B0E0#^s-47bac1c3ec9ec2c9e4f7cb01|Lietuvos Respublikos akcinių bendrovių įstatymas]] - Įstatymas Nr. XI-354
+_Nėra._

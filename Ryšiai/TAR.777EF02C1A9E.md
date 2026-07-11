@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos akcinės bendrovės \"Mažeikių nafta\" akci
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.5C23DECF6210|Lietuvos Respublikos valstybės skolos įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės skolos įstatymo
+- [[latest/TAR.5C23DECF6210|Lietuvos Respublikos valstybės skolos įstatymas]] - Lietuvos Respublikos valstybės skolos įstatymo
 
 ## Šį įstatymą cituoja
 

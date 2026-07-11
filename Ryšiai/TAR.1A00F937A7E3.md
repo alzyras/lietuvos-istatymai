@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos draudimo įstatymo 1, 2, 3, 4, 6, 14, 15, 16,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.3BAADED2C30B|Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas]] - 2 citatos - Indėlių ir įsipareigojimų investuotojams draudimo įstatymo
+- [[latest/TAR.3BAADED2C30B|Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymas]] - Indėlių ir įsipareigojimų investuotojams draudimo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.8447F63760E9#^s-755555ebaa084faac02c26ff|Lietuvos Respublikos draudimo įstatymas]] - Įstatymas Nr. X-1324
-- [[latest/TAR.8447F63760E9#^s-dd1860a9ac6df67ff70f2bed|Lietuvos Respublikos draudimo įstatymas]] - Įstatymas Nr. X-1324
+_Nėra._

@@ -9,13 +9,11 @@ pavadinimas: "Lietuvos Respublikos viešojo pirkimo įstatymo pakeitimo įstatym
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 2 citatos - Lietuvos Respublikos archyvų įstatymo
-- [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - 2 citatos - Lietuvos Respublikos konkurencijos įstatymo
-- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 6 citatos - įstatymo Nr. I-1491
+- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - Lietuvos Respublikos archyvų įstatymo
+- [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - Lietuvos Respublikos konkurencijos įstatymo
+- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Viešųjų pirkimų įstatymo
 
 ## Šį įstatymą cituoja
 
 - [[latest/TAR.C54AFFAA7622#^s-71565f5ca82ac9fb9b0b1ff7|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 2 citatos - VIEŠOJO PIRKIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.C54AFFAA7622#^s-7d484803c9cc6716a4c73283|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 2 citatos - VIEŠOJO PIRKIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.F4EDFC59E1E8#^s-09d81790fafec09c6427191c|Lietuvos Respublikos viešųjų pirkimų įstatymo pakeitimo įstatymas]] - įstatymo Nr. VIII-1210
 - [[latest/TAR.F4EDFC59E1E8#^s-0a11d81b3928fe187c62ecb1|Lietuvos Respublikos viešųjų pirkimų įstatymo pakeitimo įstatymas]] - įstatymo Nr. VIII-1210

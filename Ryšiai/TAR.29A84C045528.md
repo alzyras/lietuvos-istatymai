@@ -9,11 +9,11 @@ pavadinimas: "Lietuvos Respublikos sodininkų bendrijų įstatymo 1, 2, 3, 4, 5,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatymas]] - 2 citatos - Asociacijų įstatyme
-- [[latest/TAR.44235B485568|Lietuvos Respublikos energetikos įstatymas]] - 2 citatos - Energetikos įstatymo
-- [[latest/TAR.FD474D5CE327#^s-6cb5d69706ecdc0fbaf6659a|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - 2 citatos - Sodininkų bendrijų įstatymo 6 straipsnio 1 dalies
-- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Statybos įstatymo
-- [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - 2 citatos - Žemės įstatymo
+- [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatymas]] - Asociacijų įstatyme
+- [[latest/TAR.44235B485568|Lietuvos Respublikos energetikos įstatymas]] - Energetikos įstatymo
+- [[latest/TAR.FD474D5CE327#^s-6cb5d69706ecdc0fbaf6659a|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - Sodininkų bendrijų įstatymo 6 straipsnio 1 dalies
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - Statybos įstatymo
+- [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - Žemės įstatymo
 
 ## Šį įstatymą cituoja
 

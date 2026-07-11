@@ -43,7 +43,7 @@ Vilnius
 1. Pakeisti 69 straipsnio 2 dalį ir ją išdėstyti taip: ^s-34615f674cd1b34ab4e82769
 
 
-„2. Valstybės tarnautojams, kurių iki [[#^s-34615f674cd1b34ab4e82769|šio straipsnio 1 dalyje]] nurodytos datos gautas vidutinis darbo užmokestis (toliau – buvęs darbo užmokestis) yra didesnis už darbo užmokestį, nustatomą pagal šio įstatymo šeštajame skirsnyje nurodytas darbo apmokėjimo sąlygas (neįskaičiuojant šio įstatymo 33 straipsnio 1 dalies 2 punkte ir 6 dalyje numatytų priedų ir 34 straipsnio 1 dalies 1 ir 3 punktuose numatytų priemokų):
+„2. Valstybės tarnautojams, kurių iki šio straipsnio 1 dalyje nurodytos datos gautas vidutinis darbo užmokestis (toliau – buvęs darbo užmokestis) yra didesnis už darbo užmokestį, nustatomą pagal šio įstatymo šeštajame skirsnyje nurodytas darbo apmokėjimo sąlygas (neįskaičiuojant šio įstatymo 33 straipsnio 1 dalies 2 punkte ir 6 dalyje numatytų priedų ir 34 straipsnio 1 dalies 1 ir 3 punktuose numatytų priemokų):
 
 
 1) buvęs darbo užmokestis apskaičiuojamas iš paskutinių 3 mėnesių tarnybinių atlyginimų (pareiginių algų) ir iš paskutinių 12 mėnesių nustatytų priedų bei priemokų dydžių (neįskaičiuojant įstatymuose ir statutuose diplomatams ir statutiniams valstybės tarnautojams numatytų priedų už laipsnį, klasę, rangą, kvalifikacinę kategoriją), vadovaujantis Vyriausybės patvirtinta tvarka; ^s-aa00f08eae880f561e3ded6e
@@ -143,7 +143,7 @@ S – šio įstatymo 33 straipsnio 1 dalies 2 punkte ir 6 dalyje numatyti prieda
 3. Papildyti 69 straipsnį nauja 6 dalimi: ^s-2142b9c8ad455f78e5610048
 
 
-„6. Valstybės tarnautojams ne diplomatams, paskirtiems į pareigas Lietuvos Respublikos diplomatinėse atstovybėse ar konsulinėse įstaigose, darbo užmokestis apskaičiuojamas pagal šio įstatymo 31–34 straipsnių nuostatas ir dydžius, netaikant šio straipsnio 2, 3 ir [[#^s-d5ee45e2cfc696f193bf155c|4 dalių]] nuostatų.“
+„6. Valstybės tarnautojams ne diplomatams, paskirtiems į pareigas Lietuvos Respublikos diplomatinėse atstovybėse ar konsulinėse įstaigose, darbo užmokestis apskaičiuojamas pagal šio įstatymo 31–34 straipsnių nuostatas ir dydžius, netaikant šio straipsnio 2, 3 ir 4 dalių nuostatų.“
 
 
 4. 69 straipsnio buvusią 6 dalį laikyti 7 dalimi. ^s-d5ee45e2cfc696f193bf155c

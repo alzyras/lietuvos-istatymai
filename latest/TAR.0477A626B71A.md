@@ -109,13 +109,13 @@ Bet koks veikimas ar neveikimas, teisės norma, vertinimo kriterijus ar praktika
 2) ribojama asmens galimybė dalyvauti; ^s-75fb2a33a6d923b827c7c39f
 
 
-3) nustatomos skirtingos sąlygos dėl atidėtų išmokų išsaugojimo, kai darbuotojas pasitraukia iš sistemų, išskyrus 8 ir [[#^s-436cf6eb23c1e24858066fc1|10 punktuose]] nurodytus atvejus; ^s-c4fb3ab9b53027d3da831217
+3) nustatomos skirtingos sąlygos dėl atidėtų išmokų išsaugojimo, kai darbuotojas pasitraukia iš sistemų, išskyrus [[#^s-faeab19be456bde5a54958c0|8]] ir [[#^s-436cf6eb23c1e24858066fc1|10]] punktuose nurodytus atvejus; ^s-c4fb3ab9b53027d3da831217
 
 
 4) nustatomos skirtingos taisyklės dėl minimalaus dalyvavimo laikotarpio; ^s-e844f0a8b4357aec5846ee55
 
 
-5) nustatomos skirtingos taisyklės dėl įmokų grąžinimo ar teisių į išmoką išsaugojimo, kai darbuotojas nutraukia dalyvavimą sistemose, išskyrus 8 ir [[#^s-436cf6eb23c1e24858066fc1|10 punktuose]] nurodytus atvejus; ^s-b1c382c309d1e1ee3f68995b
+5) nustatomos skirtingos taisyklės dėl įmokų grąžinimo ar teisių į išmoką išsaugojimo, kai darbuotojas nutraukia dalyvavimą sistemose, išskyrus [[#^s-faeab19be456bde5a54958c0|8]] ir [[#^s-436cf6eb23c1e24858066fc1|10]] punktuose nurodytus atvejus; ^s-b1c382c309d1e1ee3f68995b
 
 
 6) nustatomos skirtingos išmokų skyrimo, jų gavimo apribojimo sąlygos; ^s-71eb39f1848545dcda30dd0b

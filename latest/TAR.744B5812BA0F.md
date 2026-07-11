@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimas ^s-7aa2a4d4a0faff5789be5ae8
 
 
-[[#^s-7e1b142c49dd2f803430b1ed|1 straipsnio 16 punktą]] pripažinti netekusiu galios, buvusius 17–27 punktus laikyti atitinkamai 16–[[#^s-e6074ca0439b765841b795b7|26 punktais]] ir šį straipsnį išdėstyti taip:
+[[#^s-7e1b142c49dd2f803430b1ed|1 straipsnio 16 punktą]] pripažinti netekusiu galios, buvusius [[#^s-9df24df07dcf8ea411641a16|17]]–27 punktus laikyti atitinkamai [[#^s-7e1b142c49dd2f803430b1ed|16]]–[[#^s-e6074ca0439b765841b795b7|26]] punktais ir šį straipsnį išdėstyti taip:
 
 
 „1 straipsnis. Atmintinos dienos

@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio 3 ir 4 dalių pakeitimas ir straipsnio papildymas nauja 5 dalimi ^s-2e7cd221d03f8aad4d9c5c3e
 
 
-1 straipsnio 3 dalies 3 punkte vietoj žodžių „šiame įstatyme“ įrašyti žodžius „Vietos savivaldos įstatymo 4 straipsnio 3 dalyje“, išbraukti žodžius „arba tris kartus nesusirenka į mero šaukiamą posėdį“, papildyti šią dalį naujais 4 ir [[#^s-238ba72aa1b53446d41c5e3d|6 punktais]], buvusį [[#^s-34b3ff0908f95fd05c752ebc|4 punktą]] laikyti [[#^s-bab45e1b249bb4f34a55e7ca|5 punktu]], 4 dalyje po žodžių „tiesioginį valdymą“ įrašyti žodžius „dėl 1–5 punktuose nurodytų priežasčių“, straipsnį papildyti nauja 5 dalimi, buvusią 5 dalį laikyti 6 dalimi ir šias dalis išdėstyti taip:
+1 straipsnio 3 dalies 3 punkte vietoj žodžių „šiame įstatyme“ įrašyti žodžius „Vietos savivaldos įstatymo 4 straipsnio 3 dalyje“, išbraukti žodžius „arba tris kartus nesusirenka į mero šaukiamą posėdį“, papildyti šią dalį naujais [[latest/TAR.D0CD0966D67F|4]] ir [[latest/TAR.D0CD0966D67F|6]] punktais, buvusį [[#^s-34b3ff0908f95fd05c752ebc|4 punktą]] laikyti [[#^s-bab45e1b249bb4f34a55e7ca|5 punktu]], 4 dalyje po žodžių „tiesioginį valdymą“ įrašyti žodžius „dėl 1–5 punktuose nurodytų priežasčių“, straipsnį papildyti nauja 5 dalimi, buvusią 5 dalį laikyti 6 dalimi ir šias dalis išdėstyti taip:
 
 
 „Tiesioginis valdymas gali būti įvedamas, jeigu:
@@ -51,19 +51,19 @@ Vilnius
 2) teismai nustato, kad taryba nesilaiko Lietuvos Respublikos Konstitucijos, pažeidinėja įstatymus; ^s-816c0e39bc3e95ce91b1f25e
 
 
-3) taryba neišsirenka mero, mero pavaduotojo ir nesuformuoja savivaldos institucijų per Vietos savivaldos įstatymo 4 straipsnio 3 dalyje nustatytą laiką; ^s-bd6bba75ab020de0952e1921
+3) taryba neišsirenka mero, mero pavaduotojo ir nesuformuoja savivaldos institucijų per [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatymo 4 straipsnio 3 dalyje]] nustatytą laiką; ^s-bd6bba75ab020de0952e1921
 
 
 4) tarybos posėdžiai pagal [[latest/TAR.D0CD0966D67F#^s-f2ff2f9e4891b8b76f0e8273|Vietos savivaldos įstatymo 7 straipsnyje]] nurodytus reikalavimus ir terminus nešaukiami arba taryba pagal šiuos reikalavimus nesusirenka į posėdį 3 kartus iš eilės; ^s-34b3ff0908f95fd05c752ebc
 
 
-5) meras ir taryba nesilaiko Vietos savivaldos įstatymo 9 straipsnio 3 dalies nuostatų; ^s-bab45e1b249bb4f34a55e7ca
+5) meras ir taryba nesilaiko [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatymo 9 straipsnio 3 dalies]] nuostatų; ^s-bab45e1b249bb4f34a55e7ca
 
 
 6) pakartotinių rinkimų į savivaldybės tarybą rezultatai apygardoje pripažįstami negaliojančiais. ^s-238ba72aa1b53446d41c5e3d
 
 
-Siūlymą laikinai įvesti tiesioginį valdymą dėl 1–[[#^s-bab45e1b249bb4f34a55e7ca|5 punktuose]] nurodytų priežasčių Seimui gali pateikti Vyriausybė, o išvadas dėl tokio siūlymo pagrįstumo Seimui teikia Seimo Valdymo reformų ir savivaldybių komitetas.
+Siūlymą laikinai įvesti tiesioginį valdymą dėl [[#^s-b9e089cc890423c0d2af0297|1]]–[[#^s-bab45e1b249bb4f34a55e7ca|5]] punktuose nurodytų priežasčių Seimui gali pateikti Vyriausybė, o išvadas dėl tokio siūlymo pagrįstumo Seimui teikia Seimo Valdymo reformų ir savivaldybių komitetas.
 
 
 Įsigaliojus Vyriausiosios rinkimų komisijos sprendimui dėl pakartotinių rinkimų į savivaldybės tarybą rezultatų apygardoje pripažinimo negaliojančiais, Seimas Valdymo reformų ir savivaldybių komiteto teikimu įveda savivaldybėje tiesioginį valdymą.

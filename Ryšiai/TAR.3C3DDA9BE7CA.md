@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A0BAB27D768C#^s-0478329cb645aeaca36557fe|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas]] - Įstatymas Nr. IX-2554
+_Nėra._

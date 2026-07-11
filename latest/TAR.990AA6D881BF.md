@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-fb060ee171b814a7a1209456
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2011 m. gegužės 9 d. dekretą Nr. 1K-691, ratifikuoja 2010 m. gegužės 7 d. Madride pasirašytą Lietuvos Respublikos ir Ispanijos Karalystės susitarimą dėl įslaptintos informacijos abipusės apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2011 m. gegužės 9 d. dekretą Nr. 1K-691](https://e-tar.lt/portal/lt/legalAct/TAR.4F92CA824528), ratifikuoja 2010 m. gegužės 7 d. Madride pasirašytą Lietuvos Respublikos ir Ispanijos Karalystės susitarimą dėl įslaptintos informacijos abipusės apsaugos.
 
 
 

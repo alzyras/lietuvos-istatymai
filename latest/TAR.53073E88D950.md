@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-3327f96bf0e7ce531a33ce73
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugpjūčio 6 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1957 metų Europos sutartį dėl pavojingų krovinių tarptautinio vežimo keliais (ADR)“, ratifikuoja 1957 metų Europos sutartį dėl pavojingų krovinių tarptautinio vežimo keliais (ADR), prie kurios Lietuvos Respublika prisijungė 1995 m. gruodžio 7 d.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugpjūčio 6 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1957 metų Europos sutartį dėl pavojingų krovinių tarptautinio vežimo keliais (ADR)“](https://e-tar.lt/portal/lt/legalAct/TAR.1E7B4B10D6D2), ratifikuoja 1957 metų Europos sutartį dėl pavojingų krovinių tarptautinio vežimo keliais (ADR), prie kurios Lietuvos Respublika prisijungė 1995 m. gruodžio 7 d.
 
 
 

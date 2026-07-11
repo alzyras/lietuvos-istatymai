@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarčių ratifikavimas ^s-04e796012e1df06d64cf783f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. gegužės 6 d. dekretą Nr. 291, ratifikuoja Sutartį tarp Lietuvos Respublikos ir Nyderlandų Karalystės Olandijos Antilų atžvilgiu dėl automatinio keitimosi informacija apie palūkanas, gautas iš taupymo pajamų, ir Sutartį tarp Lietuvos Respublikos ir Nyderlandų Karalystės Arubos atžvilgiu dėl automatinio keitimosi informacija apie palūkanas, gautas iš taupymo pajamų, sudarytas pasikeičiant laiškais.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. gegužės 6 d. dekretą Nr. 291](https://e-tar.lt/portal/lt/legalAct/TAR.063D26741AFD), ratifikuoja Sutartį tarp Lietuvos Respublikos ir Nyderlandų Karalystės Olandijos Antilų atžvilgiu dėl automatinio keitimosi informacija apie palūkanas, gautas iš taupymo pajamų, ir Sutartį tarp Lietuvos Respublikos ir Nyderlandų Karalystės Arubos atžvilgiu dėl automatinio keitimosi informacija apie palūkanas, gautas iš taupymo pajamų, sudarytas pasikeičiant laiškais.
 
 
 

@@ -70,7 +70,7 @@ Vilnius
 „Seniūnijos aptarnaujama teritorija yra savivaldybės teritorijos dalis, susidedanti iš gyvenamųjų vietovių ar dalies miesto teritorijos. Seniūnija turi savo aptarnaujamos teritorijos ribas ir pavadinimą.“
 
 
-3. Buvusias [[#^s-4263441acaac41cddae4c458|3 straipsnio]] 1, 2, 3, 4, 5 ir 6 dalis laikyti atitinkamai 2, 3, 4, 5, 6 ir 7 dalimis. ^s-46fd46c53daec8ed3f2ed66b
+3. Buvusias [[#^s-4263441acaac41cddae4c458|3 straipsnio]] [[#^s-04e3a94ed9e0899196899bf8|1]], [[#^s-b34b0dbc7b2ca5c2d3fa19b1|2]], 3, 4, 5 ir 6 dalis laikyti atitinkamai [[#^s-b34b0dbc7b2ca5c2d3fa19b1|2]], 3, 4, 5, 6 ir 7 dalimis. ^s-46fd46c53daec8ed3f2ed66b
 
 
 

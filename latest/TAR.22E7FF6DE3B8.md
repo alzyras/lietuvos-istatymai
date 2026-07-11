@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-5a5e9bc41f1a16c06b6f022c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. balandžio 13 d. dekretą Nr. 1K-929, ratifikuoja 2006 m. birželio 9 d. Liuksemburge pasirašytą Europos bendrijos bei jos valstybių narių, Albanijos Respublikos, Bosnijos ir Hercegovinos, Bulgarijos Respublikos, Buvusiosios Jugoslavijos Respublikos Makedonijos, Islandijos Respublikos, Juodkalnijos Respublikos, Kroatijos Respublikos, Norvegijos Karalystės, Rumunijos, Serbijos Respublikos ir Jungtinių Tautų laikinosios administracijos misijos Kosove daugiašalį susitarimą dėl Europos bendrosios aviacijos erdvės sukūrimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. balandžio 13 d. dekretą Nr. 1K-929](https://e-tar.lt/portal/lt/legalAct/TAR.2CF184638141), ratifikuoja 2006 m. birželio 9 d. Liuksemburge pasirašytą Europos bendrijos bei jos valstybių narių, Albanijos Respublikos, Bosnijos ir Hercegovinos, Bulgarijos Respublikos, Buvusiosios Jugoslavijos Respublikos Makedonijos, Islandijos Respublikos, Juodkalnijos Respublikos, Kroatijos Respublikos, Norvegijos Karalystės, Rumunijos, Serbijos Respublikos ir Jungtinių Tautų laikinosios administracijos misijos Kosove daugiašalį susitarimą dėl Europos bendrosios aviacijos erdvės sukūrimo.
 
 
 

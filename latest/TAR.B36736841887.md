@@ -79,7 +79,7 @@ Nustatyti, kad planuojant ir vykdant biudžetą nepanaudotos specialios tikslin�
 Papildyti 13 straipsnį 9 punktu:
 
 
-„9) papildoma speciali tikslinė dotacija pagal [[latest/TAR.D0CD0966D67F#^s-15fb4213dd03970ceda76daa|Vietos savivaldos įstatymo 8 straipsnio]] 22, 23, 24, 25, 26, 27, 28 ir 29 punktuose nurodytas perduodamas funkcijas savivaldybėms pervedama atsižvelgiant į apskričių viršininkų administracijų faktines išlaidas, padarytas iki šių funkcijų perdavimo savivaldybėms.“
+„9) papildoma speciali tikslinė dotacija pagal [[latest/TAR.D0CD0966D67F#^s-15fb4213dd03970ceda76daa|Vietos savivaldos įstatymo 8 straipsnio]] [[latest/TAR.D0CD0966D67F|22]], [[latest/TAR.D0CD0966D67F|23]], [[latest/TAR.D0CD0966D67F|24]], [[latest/TAR.D0CD0966D67F|25]], [[latest/TAR.D0CD0966D67F|26]], [[latest/TAR.D0CD0966D67F|27]], [[latest/TAR.D0CD0966D67F|28]] ir [[latest/TAR.D0CD0966D67F|29]] punktuose nurodytas perduodamas funkcijas savivaldybėms pervedama atsižvelgiant į apskričių viršininkų administracijų faktines išlaidas, padarytas iki šių funkcijų perdavimo savivaldybėms.“
 
 
 

@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D66F6A760DE7#^s-13510d89e2085b03de2c0e56|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 33 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.D66F6A760DE7#^s-13510d89e2085b03de2c0e56|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - LIETUVOS RESPUBLIKOS KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 33 STRAIPSNIO PAPILDYMO ĮSTATYMAS

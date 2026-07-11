@@ -49,7 +49,7 @@ Papildyti Įstatymą 61 straipsniu:
 „61 straipsnis.     Atleidimas nuo valstybės rinkliavos, kai yra sumokėtas konsulinis mokestis
 
 
-Nuo valstybės rinkliavos už paso išdavimą ar keitimą ir dokumento dėl teisės į Lietuvos Respublikos pilietybę išsaugojimo išdavimą ar keitimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio 1 dalies 4 ir 5 punktuose, atlikimą.“
+Nuo valstybės rinkliavos už paso išdavimą ar keitimą ir dokumento dėl teisės į Lietuvos Respublikos pilietybę išsaugojimo išdavimą ar keitimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų [[latest/TAR.B2F1F575D794|Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio 1 dalies]] [[latest/TAR.B2F1F575D794|4]] ir [[latest/TAR.B2F1F575D794|5]] punktuose, atlikimą.“
 
 
 

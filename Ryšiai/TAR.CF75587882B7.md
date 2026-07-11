@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos darbo užmokesčio dalies, nesumokėtos valst
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.802CCF0B0455|Lietuvos Respublikos 2007 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 2 citatos - Lietuvos Respublikos 2007 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 4 citatos - Lietuvos Respublikos valstybės tarnybos įstatyme
+- [[latest/TAR.802CCF0B0455|Lietuvos Respublikos 2007 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - Lietuvos Respublikos 2007 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 3 citatos - Lietuvos Respublikos valstybės tarnybos įstatyme
 
 ## Šį įstatymą cituoja
 

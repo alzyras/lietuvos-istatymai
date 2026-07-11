@@ -47,7 +47,7 @@ Pakeisti Lietuvos Respublikos invalidų socialinės integracijos įstatymą ir j
 
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucija, humanizmo ir teisingumo principais, siekdamas įgyvendinti tarptautiniuose aktuose įtvirtintas invalidų teises, pripažindamas, kad invalidų integracija į visuomenės ir valstybės gyvenimą yra vienas iš civilizuotumo rodiklių, priima šį įstatymą.
+Lietuvos Respublikos Seimas, vadovaudamasis [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), humanizmo ir teisingumo principais, siekdamas įgyvendinti tarptautiniuose aktuose įtvirtintas invalidų teises, pripažindamas, kad invalidų integracija į visuomenės ir valstybės gyvenimą yra vienas iš civilizuotumo rodiklių, priima šį įstatymą.
 
 
 
@@ -139,7 +139,7 @@ INVALIDUMO NUSTATYMAS. INVALIDUMO STATISTIKA
 1) vaikams iki 16 metų – Lietuvos nacionalinės sveikatos sistemos asmens sveikatos priežiūros įstaigų, teikiančių sveikatos priežiūros paslaugas vaikams, gydytojų konsultacinės komisijos, kurių nuostatus tvirtina Sveikatos apsaugos ministerija; ^s-8bd6abfeba106fee567b6d60
 
 
-2) asmenims nuo 16 metų – valstybinės medicininės-socialinės ekspertizės komisijos, kurių nuostatus tvirtina Vyriausybė (toliau šios dalies 1 ir 2 punktuose nurodytos komisijos vadinamos invalidumą nustatančiomis komisijomis). ^s-2932b6fece3eb5f4d58a97c8
+2) asmenims nuo 16 metų – valstybinės medicininės-socialinės ekspertizės komisijos, kurių nuostatus tvirtina Vyriausybė (toliau šios dalies [[#^s-8bd6abfeba106fee567b6d60|1]] ir 2 punktuose nurodytos komisijos vadinamos invalidumą nustatančiomis komisijomis). ^s-2932b6fece3eb5f4d58a97c8
 
 
 2. Invalido visišką negalią pripažįsta [[#^s-8c078e7d361d4c00f258f336|šio straipsnio 1 dalyje]] nurodytos invalidumą nustatančios komisijos, remdamosi Sveikatos apsaugos bei Socialinės apsaugos ir darbo ministerijų patvirtintu funkcinių būklių, dėl kurių pripažįstama visiška invalido negalia, sąrašu. ^s-663e4d880572736104494b85
@@ -366,7 +366,7 @@ INVALIDŲ INTEGRACIJA Į DARBĄ
 3. Invalido, kurio integracija į darbą reikalauja iš darbdavio ypatingų pastangų, įdarbinimą darbo birža gali prilyginti ne daugiau kaip 3 invalidų įdarbinimui. ^s-c795fb7f56b210540c3c4bc0
 
 
-4. Darbdaviai, nevykdantys invalidų įdarbinimo arba papildomų darbo vietų skaičiaus steigimo kvotų, moka papildomas įmokas į Užimtumo fondą Bedarbių rėmimo įstatymo nustatyta tvarka. Papildomų įmokų mokėjimas neatleidžia darbdavių nuo pareigos įdarbinti invalidus. ^s-ad987e0b5b311ce97a3767d3
+4. Darbdaviai, nevykdantys invalidų įdarbinimo arba papildomų darbo vietų skaičiaus steigimo kvotų, moka papildomas įmokas į Užimtumo fondą [Bedarbių rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.0B3E8942C5C4) nustatyta tvarka. Papildomų įmokų mokėjimas neatleidžia darbdavių nuo pareigos įdarbinti invalidus. ^s-ad987e0b5b311ce97a3767d3
 
 
 5. Jeigu darbo birža arba invalidai nesikreipė dėl įdarbinimo, darbdaviai invalidams rezervuotose darbo vietose gali įdarbinti kitus asmenis pagal terminuotą darbo sutartį, kuri pasibaigia atsiradus poreikiui įdarbinti invalidus. ^s-fd3cd42537e6f39084642fad

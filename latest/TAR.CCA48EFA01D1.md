@@ -212,7 +212,7 @@ Dėl Lietuvos Respublikos įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietu
 
 3.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-1994-12-22, Žin., 1994, Nr. 101-2045 (1994-12-30), i. k. 0941000NUTARG940424
+1994-12-22, Žin., 1994, Nr. 101-2045 (1994-12-30), i. k. [0941000NUTARG940424](https://e-tar.lt/portal/lt/legalAct/TAR.9642748867DE)
 Dėl Lietuvos Respublikos 1994 m. birželio 15 d. įstatymo "Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo" 2 straipsnio ir šio įstatymo priėmimo tvarkos atitikimo Lietuvos Respublikos Konstitucijai
 
 4.

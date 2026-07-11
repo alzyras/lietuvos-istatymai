@@ -64,7 +64,7 @@ Vilnius
 „14. Pajamos – pozityviosios pajamos, priskiriamos Europos ekonominių interesų grupės pajamos, nutraukus gyvybės draudimo sutartis ar išstojus iš pensijų fondo grąžinamos įmokos (ar jų dalis), atlygis už atliktus darbus, suteiktas paslaugas, už perduotas ar suteiktas teises, už parduotą ar kitaip perleistą, investuotą turtą ar lėšas ir (arba) kita nauda pinigais ir (arba) natūra, išskyrus:
 
 
-1) dėl įstatinio kapitalo didinimo akcininkams proporcingai jų turimų akcijų skaičiui nemokamai išduotas akcijas arba anksčiau išleistų akcijų nominalios vertės padidinimo sumą, taip pat pajaus vertės ar dalies padidinimo sumą dėl pagrindinio kapitalo didinimo pajininkams ir nariams proporcingai jų turimai pajų vertei ar daliai; ^s-2ef4f76cf206501b1123d001
+1) [dėl įstatinio kapitalo didinimo](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) akcininkams proporcingai jų turimų akcijų skaičiui nemokamai išduotas akcijas arba anksčiau išleistų akcijų nominalios vertės padidinimo sumą, taip pat pajaus vertės ar dalies padidinimo sumą dėl pagrindinio kapitalo didinimo pajininkams ir nariams proporcingai jų turimai pajų vertei ar daliai; ^s-2ef4f76cf206501b1123d001
 
 
 2) nekilnojamąjį daiktą, susigrąžintą pagal Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą, bei atkurtas santaupas pagal Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymą; ^s-5f02cefb5ebee07aeafca1bf
@@ -103,7 +103,7 @@ Vilnius
 3) pajamos, gautos už parduotą ar kitokiu būdu perleistą nuosavybėn kilnojamąjį daiktą, jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra (ar privalo būti) įregistruotas Lietuvoje, taip pat už nekilnojamąjį daiktą, esantį Lietuvoje, gautos pajamos; ^s-8dd5d21a7f73546db7afcaf5
 
 
-4) kitos šios dalies 1–[[#^s-8dd5d21a7f73546db7afcaf5|3 punktuose]] nenurodytos pajamos, gautos iš nuolatinių Lietuvos gyventojų, iš Lietuvos vienetų, iš užsienio vienetų per jų nuolatines buveines ir iš nenuolatinių Lietuvos gyventojų per jų nuolatines bazes, išskyrus nenuolatinių Lietuvos gyventojų iš veiklos užsienio valstybėse gautas pajamas.“ ^s-d657ea4ee39d5c0d7b5f7ae0
+4) kitos šios dalies [[#^s-7a85045578033ada0a0f809c|1]]–[[#^s-8dd5d21a7f73546db7afcaf5|3]] punktuose nenurodytos pajamos, gautos iš nuolatinių Lietuvos gyventojų, iš Lietuvos vienetų, iš užsienio vienetų per jų nuolatines buveines ir iš nenuolatinių Lietuvos gyventojų per jų nuolatines bazes, išskyrus nenuolatinių Lietuvos gyventojų iš veiklos užsienio valstybėse gautas pajamas.“ ^s-d657ea4ee39d5c0d7b5f7ae0
 
 
 6. Pakeisti 2 straipsnio 29 dalį ir ją išdėstyti taip: ^s-62c51899b29b6fa7f7afbd00
@@ -471,10 +471,10 @@ Pakeisti [[#^s-359eb87a6f90e3e7f2eba61e|17 straipsnį]] ir išdėstyti jį taip:
 26) paveldėjimo būdu gautos pajamos, kurios yra mokesčio objektas pagal Lietuvos Respublikos paveldimo turto mokestį reglamentuojančius teisės aktus; dovanojimo būdu gautos pajamos iš sutuoktinių, vaikų (įvaikių), tėvų (įtėvių), brolių, seserų ir senelių; taip pat iš kitų gyventojų dovanojimo būdu per mokestinį laikotarpį gautų pajamų suma (vertė), neviršijanti 8 000 litų; ^s-3bca1b66071fe770c0b7d177
 
 
-27) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamų, gautų pardavus ar kitaip perleidus nuosavybėn šios dalies 28, 30, 53 ir [[#^s-31776927eb9ff1eddd44ed41|54 punktuose]] nenurodytą turtą, ir to turto įsigijimo kainos ir kitų šio Įstatymo [[#^s-8870b6a5fc9cb4f8c8885574|19 straipsnyje]] nurodytų su šio turto pardavimu ar kitokiu perleidimu nuosavybėn susijusių išlaidų skirtumas, neviršijantis 8 000 litų per mokestinį laikotarpį; ^s-268444acb3edb13f3c5bdc34
+27) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamų, gautų pardavus ar kitaip perleidus nuosavybėn šios dalies [[#^s-f182cf4f354708d36d86003f|28]], [[#^s-4eebcc38451864e0da014c9a|30]], [[#^s-d6c8f10ae9cc74d819c337c7|53]] ir [[#^s-31776927eb9ff1eddd44ed41|54]] punktuose nenurodytą turtą, ir to turto įsigijimo kainos ir kitų šio Įstatymo [[#^s-8870b6a5fc9cb4f8c8885574|19 straipsnyje]] nurodytų su šio turto pardavimu ar kitokiu perleidimu nuosavybėn susijusių išlaidų skirtumas, neviršijantis 8 000 litų per mokestinį laikotarpį; ^s-268444acb3edb13f3c5bdc34
 
 
-28) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos pardavus ar kitaip perleidus nuosavybėn kilnojamąjį daiktą, jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra nustatyta tvarka įregistruotas Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 3 metus iki jo pardavimo ar kitokio perleidimo nuosavybėn, arba šios dalies 53 ir [[#^s-31776927eb9ff1eddd44ed41|54 punktuose]] nenurodytą nekilnojamąjį daiktą, esantį Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 3 metus iki jo pardavimo ar kitokio perleidimo nuosavybėn; ^s-f182cf4f354708d36d86003f
+28) ne individualios veiklos turto pardavimo ar kitokio perleidimo nuosavybėn pajamos, gautos pardavus ar kitaip perleidus nuosavybėn kilnojamąjį daiktą, jeigu šios rūšies daiktui pagal Lietuvos Respublikos teisės aktus privaloma teisinė registracija ir šis daiktas yra nustatyta tvarka įregistruotas Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 3 metus iki jo pardavimo ar kitokio perleidimo nuosavybėn, arba šios dalies [[#^s-d6c8f10ae9cc74d819c337c7|53]] ir [[#^s-31776927eb9ff1eddd44ed41|54]] punktuose nenurodytą nekilnojamąjį daiktą, esantį Europos ekonominės erdvės valstybėje, jeigu toks daiktas įsigytas anksčiau negu prieš 3 metus iki jo pardavimo ar kitokio perleidimo nuosavybėn; ^s-f182cf4f354708d36d86003f
 
 
 29) pajamos už parduotus arba kitaip perleistus nuosavybėn vertybinius popierius, įsigytus iki 1999 m. sausio 1 d. Ši lengvata netaikoma, kai vertybiniai popieriai laikomi parduotais pagal šio Įstatymo [[#^s-cead47873b0ae7c9111b60d9|11 straipsnį]]; ^s-952e34c562a55a571d118751
@@ -510,7 +510,7 @@ Pakeisti [[#^s-359eb87a6f90e3e7f2eba61e|17 straipsnį]] ir išdėstyti jį taip:
 39) iš asmens, susijusio su gyventoju darbo santykiais ar jų esmę atitinkančiais santykiais, per mokestinį laikotarpį gautų prizų vertė, neviršijanti 700 litų; ^s-686780d01083fddd732a6709
 
 
-40) šios dalies 37 ir [[#^s-8c37570d3ec8c93cfaf6cc76|38 punktuose]] nenurodyti 700 litų vertės neviršijantys sporto varžybų ir kiti prizai ir laimėjimai, jeigu jie iš to paties asmens gaunami ne daugiau kaip 6 kartus per mokestinį laikotarpį; ^s-7ecbf80efaec041a2a84dc66
+40) šios dalies [[#^s-c1547cfdd5c298d0f15e382c|37]] ir [[#^s-8c37570d3ec8c93cfaf6cc76|38]] punktuose nenurodyti 700 litų vertės neviršijantys sporto varžybų ir kiti prizai ir laimėjimai, jeigu jie iš to paties asmens gaunami ne daugiau kaip 6 kartus per mokestinį laikotarpį; ^s-7ecbf80efaec041a2a84dc66
 
 
 41) Lietuvos Respublikos teisės aktų nustatyta tvarka politinės kampanijos metu gautos ir šiai kampanijai panaudotos aukos ir dovanos; ^s-dd2356878a27e01e2878b58b
@@ -742,7 +742,7 @@ Pakeisti [[#^s-778f7377d5c1c21e8eb4a67e|20 straipsnį]] ir jį išdėstyti taip:
 
 
 
-3. Jeigu pagal šio straipsnio 1 ar [[#^s-13552920887360fb0e50f3e4|2 dalyje]] nustatytą formulę apskaičiuotas NPD yra neigiamas, laikoma, kad jis lygus 0. ^s-7145b3c1f0ed78cc686a5f67
+3. Jeigu pagal šio straipsnio [[#^s-6fdf436a5461a7d715c4d26e|1]] ar [[#^s-13552920887360fb0e50f3e4|2]] dalyje nustatytą formulę apskaičiuotas NPD yra neigiamas, laikoma, kad jis lygus 0. ^s-7145b3c1f0ed78cc686a5f67
 
 
 4. NPD mokestiniu laikotarpiu taikomas tik nuolatiniam Lietuvos gyventojui, kai jis pagal [[#^s-13552920887360fb0e50f3e4|šio straipsnio 2 dalies]] nuostatas turėdamas teisę į NPD pateikia laisvos formos prašymą vienoje pajamų, susijusių su darbo santykiais arba jų esmę atitinkančiais santykiais, gavimo vietoje. Taikant [[#^s-13552920887360fb0e50f3e4|šio straipsnio 2 dalies]] nuostatas mokestiniu laikotarpiu turi būti atsižvelgiama tik į visas kas mėnesį mokamas išmokas (pagrindinį darbo užmokestį, priedus ir priemokas), susijusias su darbo santykiais arba jų esmę atitinkančiais santykiais. ^s-46370ea76985db18283da901
@@ -775,7 +775,7 @@ Pakeisti [[#^s-778f7377d5c1c21e8eb4a67e|20 straipsnį]] ir jį išdėstyti taip:
 13. MPNPD tėvams (įtėviams) taikomi jų pasirinktu santykiu. ^s-40dfaf7a0612f86f74cc73a5
 
 
-14. Nenuolatiniam Lietuvos gyventojui NPD gali būti taikomas tik mokestiniam laikotarpiui pasibaigus, teikiant metinę pajamų mokesčio deklaraciją. NPD nenuolatiniam Lietuvos gyventojui taikomas atsižvelgiant į šio straipsnio 1, 3, 6 ir [[#^s-7ef81012df5711a002c39128|7 dalių]] nuostatas. ^s-53836697f2c426b323cd551e
+14. Nenuolatiniam Lietuvos gyventojui NPD gali būti taikomas tik mokestiniam laikotarpiui pasibaigus, teikiant metinę pajamų mokesčio deklaraciją. NPD nenuolatiniam Lietuvos gyventojui taikomas atsižvelgiant į šio straipsnio [[#^s-6fdf436a5461a7d715c4d26e|1]], [[#^s-7145b3c1f0ed78cc686a5f67|3]], [[#^s-fb858e5a1f42a5799b3ffe05|6]] ir [[#^s-7ef81012df5711a002c39128|7]] dalių nuostatas. ^s-53836697f2c426b323cd551e
 
 
 15. Šio Įstatymo 29 straipsnyje nustatytais atvejais iš pajamų atimama MNPD ir MPNPD dalis, apskaičiuota tame straipsnyje nustatyta tvarka.“ ^s-6d193ee174aa46894d461f21

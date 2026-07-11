@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.DEEB2C5600E3#^s-14d6eed32411a38f056ee29c|Lietuvos Respublikos Konstitucinio Teismo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.DEEB2C5600E3#^s-f919fc14aa0eb7bec2de120a|Lietuvos Respublikos Konstitucinio Teismo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.DEEB2C5600E3#^s-f919fc14aa0eb7bec2de120a|Lietuvos Respublikos Konstitucinio Teismo įstatymas]] - LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS

@@ -85,7 +85,7 @@ Vilnius
 1. 16 straipsnio 1 dalyje vietoj žodžių „savivaldybės tarnautojas“ įrašyti žodžius „valstybės tarnautojas“ ir šią dalį išdėstyti taip: ^s-dc4f28aafaa3fc7afa953bd1
 
 
-„1. Savivaldybės taryba savo įgaliojimų laikui prie tarybos sudaro Administracinę komisiją. Ši komisija nagrinėja Administracinių teisės pažeidimų kodekso jos kompetencijai priskirtas administracinių teisės pažeidimų bylas. Savivaldybės taryba šios komisijos pirmininku mero teikimu skiria tarybos narį. Komisijos atsakingojo sekretoriaus pareigas atlieka savivaldybės administracijos direktoriaus paskirtas valstybės tarnautojas, šios funkcijos įrašomos į jo pareigybės aprašymą.“
+„1. Savivaldybės taryba savo įgaliojimų laikui prie tarybos sudaro Administracinę komisiją. Ši komisija nagrinėja [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) jos kompetencijai priskirtas administracinių teisės pažeidimų bylas. Savivaldybės taryba šios komisijos pirmininku mero teikimu skiria tarybos narį. Komisijos atsakingojo sekretoriaus pareigas atlieka savivaldybės administracijos direktoriaus paskirtas valstybės tarnautojas, šios funkcijos įrašomos į jo pareigybės aprašymą.“
 
 
 2. Pakeisti 16 straipsnio 3 dalį ir ją išdėstyti taip: ^s-758a44e21ec71510b696c8c0
@@ -133,7 +133,7 @@ Vilnius
 24 straipsnio 2 punkte po žodžių „vadovus ir“ įrašyti žodį „valstybės“ ir šį punktą išdėstyti taip:
 
 
-„2) savivaldybės tarybos veiklos reglamento nustatyta tvarka siūlyti savivaldybės tarybai svarstyti klausimus, rengti savivaldybės tarybos sprendimų projektus, iš savivaldybės administracijos ar kitų savivaldybės įstaigų ir organizacijų gauti su savivaldybės taryboje nagrinėjamais klausimais susijusią informaciją, dalyvauti diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas dėl savivaldybės tarybos sprendimų projektų, dėl savivaldybės tarybos darbo tvarkos ir kt., savivaldybės tarybos posėdžio metu klausti pranešėjus, pasisakyti dėl vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės teritorijoje, vadovus ir valstybės tarnautojus;“.
+„2) savivaldybės tarybos veiklos reglamento nustatyta tvarka siūlyti savivaldybės tarybai svarstyti klausimus, rengti savivaldybės tarybos sprendimų projektus, iš savivaldybės administracijos ar kitų savivaldybės įstaigų ir organizacijų gauti su savivaldybės taryboje nagrinėjamais klausimais susijusią informaciją, dalyvauti diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas [dėl savivaldybės tarybos sprendimų](https://e-tar.lt/portal/lt/legalAct/355fa5c08a0111e6b969d7ae07280e89) projektų, dėl savivaldybės tarybos darbo tvarkos ir kt., savivaldybės tarybos posėdžio metu klausti pranešėjus, pasisakyti dėl vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės teritorijoje, vadovus ir valstybės tarnautojus;“.
 
 
 
@@ -199,7 +199,7 @@ Vilnius
 3) pagal kompetenciją [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nustatyta tvarka nagrinėja gyventojų skundus ir pareiškimus. Anoniminiai skundai ar pareiškimai nagrinėjami, jeigu taip nusprendžia savivaldybės kontrolierius; ^s-5cfe0697290782781db64a1c
 
 
-4) Administracinių teisės pažeidimų kodekso nustatytais atvejais surašo administracinių teisės pažeidimų protokolus ir juos teikia nagrinėti įstatymų nustatyta tvarka savivaldybės Administracinei komisijai.“ ^s-d79dfca116b0ca984e8fd936
+4) [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatytais atvejais surašo administracinių teisės pažeidimų protokolus ir juos teikia nagrinėti įstatymų nustatyta tvarka savivaldybės Administracinei komisijai.“ ^s-d79dfca116b0ca984e8fd936
 
 
 

@@ -48,7 +48,7 @@ Vilnius
 Nukentėjusių asmenų valstybinė našlių ir našlaičių pensija skiriama ir mokama, jeigu turintys teisę ją gauti yra sukakę senatvės pensijos amžių arba pripažinti I ar II grupių invalidais.“
 
 
-2. Buvusias 3, 4 dalis laikyti atitinkamai 5, 6 dalimis. ^s-36ab40838f8a570a9799b701
+2. Buvusias [[#^s-a72bb8f6c46aed39c212331e|3]], 4 dalis laikyti atitinkamai 5, 6 dalimis. ^s-36ab40838f8a570a9799b701
 
 
 3. 6 dalyje vietoj žodžio „trečiojoje“ įrašyti žodį „penktojoje“, vietoj žodžio „reguliuojančiuose“ įrašyti žodį „reglamentuojančiuose“ ir šią dalį išdėstyti taip: ^s-a72bb8f6c46aed39c212331e

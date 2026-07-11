@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.E2CE2C82DA9E#^s-6f404eb53e95d98bb125509c|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - 2 citatos - VIEŠOJO SEKTORIAUS ATSKAITOMYBĖS ĮSTATYMO 31 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.E2CE2C82DA9E#^s-a7ac89725a30891a29d48332|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - 2 citatos - VIEŠOJO SEKTORIAUS ATSKAITOMYBĖS ĮSTATYMO 31 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.E2CE2C82DA9E#^s-6f404eb53e95d98bb125509c|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - VIEŠOJO SEKTORIAUS ATSKAITOMYBĖS ĮSTATYMO 31 STRAIPSNIO PAKEITIMO ĮSTATYMAS

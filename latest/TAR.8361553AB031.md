@@ -69,7 +69,7 @@ Pripažinti 19 straipsnio 5 dalį netekusia galios.
 ### 4 straipsnis. Įstatymo įsigaliojimas ^s-091091da043e36fa67d0f549
 
 
-Šio įstatymo 1 ir [[#^s-83c1d9bcb1889d19e8242c13|2 straipsniai]] įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
+Šio įstatymo [[#^s-5eddda3729ac74b23f9959dc|1]] ir [[#^s-83c1d9bcb1889d19e8242c13|2]] straipsniai įsigalioja tų metų, kurių ataskaitų rinkinius viešojo sektoriaus subjektai privalo sudaryti pagal Viešojo sektoriaus atskaitomybės įstatymą, sausio 1 dieną.
 
 
 

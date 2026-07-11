@@ -42,7 +42,7 @@ Vilnius
 Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Moteriai, atleistai iš darbo nėštumo metu arba nėštumo ir gimdymo atostogų metu dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] ir Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatyme nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir turinčiai šio straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą, motinystės pašalpa mokama šio įstatymo 17 straipsnyje nustatyta tvarka.“
+„2. Moteriai, atleistai iš darbo nėštumo metu arba nėštumo ir gimdymo atostogų metu dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] ir Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir turinčiai šio straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą, motinystės pašalpa mokama šio įstatymo 17 straipsnyje nustatyta tvarka.“
 
 
 
@@ -52,13 +52,13 @@ Pakeisti 16 straipsnio 2 dalį ir ją išdėstyti taip:
 1. Pakeisti 19 straipsnio 4 dalį ir ją išdėstyti taip: ^s-74514b56de59b5b9dd598d40
 
 
-„4. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka išleistam vaiko iki vienerių metų priežiūros atostogų bei gaunančiam motinystės (tėvystės) pašalpą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] ir Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatyme nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 straipsnyje nustatyta tvarka, bet ne ilgiau kaip iki įsidarbinimo.“
+„4. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka išleistam vaiko iki vienerių metų priežiūros atostogų bei gaunančiam motinystės (tėvystės) pašalpą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] ir Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatyme nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka, bet ne ilgiau kaip iki įsidarbinimo.“
 
 
 2. Pakeisti 19 straipsnio 5 dalį ir ją išdėstyti taip: ^s-de5bef5d855a51b398ef04d7
 
 
-„5. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam [[#^s-74514b56de59b5b9dd598d40|šio straipsnio 1 dalyje]] nurodytą ligos ir motinystės socialinio draudimo stažą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] ir Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatyme nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir dėl to negavusiam vaiko iki vienerių metų priežiūros atostogų, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 straipsnyje nustatyta tvarka, bet ne ilgiau kaip iki įsidarbinimo.“
+„5. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam [[#^s-74514b56de59b5b9dd598d40|šio straipsnio 1 dalyje]] nurodytą ligos ir motinystės socialinio draudimo stažą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė terminuotos darbo sutarties terminas arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] ir Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir dėl to negavusiam vaiko iki vienerių metų priežiūros atostogų, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 straipsnyje nustatyta tvarka, bet ne ilgiau kaip iki įsidarbinimo.“
 
 
 

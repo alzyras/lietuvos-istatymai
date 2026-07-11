@@ -42,7 +42,7 @@ Vilnius
 1. Papildyti [[#^s-c8a18e74587b7cffd59448bb|3 straipsnį]] nauja 3 dalimi: ^s-b62603aaaaa41d921d460dd5
 
 
-„Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų konstitucinio įstatymo (toliau – Konstitucinis įstatymas) nustatytiems nacionaliniams ir užsienio subjektams leidžiama įsigyti nuosavybėn ne žemės ūkio paskirties žemės sklypus, reikalingus jų tiesioginei veiklai skirtiems pastatams ir įrenginiams statyti bei eksploatuoti. Tokių sklypų įsigijimo nuosavybėn tvarką, sąlygas ir apribojimus nustato Konstitucinis įstatymas ir Savivaldybių funkcijoms vykdyti reikalingų žemės sklypų įsigijimo ir perleidimo įstatymas.“
+„Lietuvos Respublikos Konstitucijos 47 straipsnio antrojoje dalyje numatyto žemės sklypų įsigijimo nuosavybėn subjektų, tvarkos, sąlygų ir apribojimų konstitucinio įstatymo (toliau – Konstitucinis įstatymas) nustatytiems nacionaliniams ir užsienio subjektams leidžiama įsigyti nuosavybėn ne žemės ūkio paskirties žemės sklypus, reikalingus jų tiesioginei veiklai skirtiems pastatams ir įrenginiams statyti bei eksploatuoti. Tokių sklypų įsigijimo nuosavybėn tvarką, sąlygas ir apribojimus nustato Konstitucinis įstatymas ir [Savivaldybių funkcijoms vykdyti reikalingų žemės sklypų įsigijimo ir perleidimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.2A6BB295A7A3).“
 
 
 2. Buvusias [[#^s-c8a18e74587b7cffd59448bb|3 straipsnio]] 3, 4 dalis laikyti 4, 5 dalimis. ^s-e58d721289044e6f6206b620
@@ -228,7 +228,7 @@ Pakeisti 28 straipsnį ir jį išdėstyti taip:
 ### 13 straipsnis. 30 straipsnio pakeitimas ir papildymas ^s-d1c2873f7ff378e1a88600c4
 
 
-1. Pakeisti 30 straipsnio 2 dalies 1, 3, 5 ir [[#^s-e9a67fba39dfbd59a7f557ab|6 punktus]], 7 punktą pripažinti netekusiu galios ir šią dalį išdėstyti taip: ^s-499ca080bab7fe65de33b000
+1. Pakeisti 30 straipsnio 2 dalies 1, 3, 5 ir 6 punktus, 7 punktą pripažinti netekusiu galios ir šią dalį išdėstyti taip: ^s-499ca080bab7fe65de33b000
 
 
 „Lietuvos Respublikos Vyriausybė:
@@ -386,7 +386,7 @@ Miškų ūkio paskirties žemėje miškų atkūrimą ir apsaugą nustato [[lates
 ### 21 straipsnis. 44 straipsnio 1 dalies pakeitimas ir papildymas ^s-630310aadfaa96dea5446c0d
 
 
-44 straipsnio 1 dalyje vietoj žodžių „žemės plotai, kuriuos užima“ įrašyti žodžius „žemė, kurioje yra“, pakeisti šios dalies 1, 3, 4, [[#^s-cec8d6bdf2564d1b91aefc83|5 punktus]], papildyti 6, [[#^s-e79a7eb23057efd76c443b88|7 punktais]] ir šią dalį išdėstyti taip:
+44 straipsnio 1 dalyje vietoj žodžių „žemės plotai, kuriuos užima“ įrašyti žodžius „žemė, kurioje yra“, pakeisti šios dalies 1, 3, 4, 5 punktus, papildyti [[#^s-7556156738341cb00cbb9a43|6]], [[#^s-e79a7eb23057efd76c443b88|7]] punktais ir šią dalį išdėstyti taip:
 
 
 „Valstybinio vandenų fondo žemę sudaro žemė, kurioje yra:
@@ -437,7 +437,7 @@ Pakeisti 49 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 24 straipsnis. 55 straipsnio 4 ir 5 punktų pakeitimas ir papildymas ^s-a3ff0646479a2890009ee897
 
 
-Pakeisti 55 straipsnio 4, [[#^s-b1d6ccd5b50a1fd35b6b3f19|5 punktus]] ir juos išdėstyti taip:
+Pakeisti 55 straipsnio 4, 5 punktus ir juos išdėstyti taip:
 
 
 „4) žemės savininkų bei valstybinės žemės naudotojų ir apskrities viršininko – dėl atlyginimo už paimamą visuomenės poreikiams žemę būdo ir dydžio;

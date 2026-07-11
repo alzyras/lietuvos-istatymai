@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.7B9B89F840E2#^s-55810c2db9d0e1ad45ec58c7|Lietuvos Respublikos lobistinės veiklos įstatymas]] - 3 citatos - 1011010ISTA00IX-308
-- [[latest/TAR.7B9B89F840E2#^s-9137fd8d043a365ee6d4a196|Lietuvos Respublikos lobistinės veiklos įstatymas]] - 3 citatos - 1011010ISTA00IX-308
+- [[latest/TAR.7B9B89F840E2#^s-55810c2db9d0e1ad45ec58c7|Lietuvos Respublikos lobistinės veiklos įstatymas]] - 2 citatos - 1011010ISTA00IX-308

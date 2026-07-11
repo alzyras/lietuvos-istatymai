@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl užsieniečių teisinės pad
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.42837E5A79DD#^s-b7fcdfdba0ef5139f8112d96|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - Įstatymas Nr. X-1442
-- [[latest/TAR.42837E5A79DD#^s-d380d2d641411ba21387bb73|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - Įstatymas Nr. X-1442
+_Nėra._

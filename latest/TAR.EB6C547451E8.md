@@ -90,7 +90,7 @@ Fizinis asmuo (toliau – pareiškėjas) pripažįstamas advokatu, jeigu jis:
 5) moka valstybinę kalbą; ^s-d5c31227e994aeb67e0d9839
 
 
-6) išlaikė advokatų kvalifikacinį egzaminą, o asmuo, kuris turi ne mažesnį kaip septynerių metų teisėjo darbo stažą, dešimties metų prokuroro darbo stažą, yra teisės krypties socialinių mokslų daktaras ar habilituotas daktaras arba kuris buvo išbrauktas iš praktikuojančių advokatų sąrašo Advokatūros įstatymo Nr. VIII-811 [[#^s-be8da86b97e2a45e33ce7a9f|24 straipsnio]] 1, 5 ar [[#^s-7100208ba3a7cd8a604f1c86|6 punkte]] nurodytais pagrindais, – jeigu išlaikė advokatų veiklos organizavimo egzaminą; ^s-7100208ba3a7cd8a604f1c86
+6) išlaikė advokatų kvalifikacinį egzaminą, o asmuo, kuris turi ne mažesnį kaip septynerių metų teisėjo darbo stažą, dešimties metų prokuroro darbo stažą, yra teisės krypties socialinių mokslų daktaras ar habilituotas daktaras arba kuris buvo išbrauktas iš praktikuojančių advokatų sąrašo Advokatūros [įstatymo Nr. VIII-811](https://e-tar.lt/portal/lt/legalAct/TAR.61CD00F11D24) [[#^s-be8da86b97e2a45e33ce7a9f|24 straipsnio]] [[latest/TAR.9F4371AB03A3|1]], [[latest/TAR.9F4371AB03A3|5]] ar [[latest/TAR.9F4371AB03A3|6]] punkte nurodytais pagrindais, – jeigu išlaikė advokatų veiklos organizavimo egzaminą; ^s-7100208ba3a7cd8a604f1c86
 
 
 7) neturi sveikatos sutrikimų, dėl kurių negalėtų atlikti advokato pareigų. Pareiškėjų ir advokatų sveikatos reikalavimus bei sveikatos tikrinimo tvarką nustato Lietuvos Respublikos sveikatos apsaugos ministerija ir Lietuvos Respublikos teisingumo ministerija.“ ^s-cd1cdfb8feed16e43c7db7f4
@@ -236,7 +236,7 @@ Asmuo, norintis laikyti advokatų egzaminus, privalo pateikti Lietuvos advokatū
 3) dokumentą, įrodantį aukštąjį universitetinį teisinį išsilavinimą – teisės bakalauro ir teisės magistro kvalifikacinius laipsnius arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį universitetinį teisinį išsilavinimą); ^s-fffec6ae27c7f20ba267c7b2
 
 
-4) asmuo, norintis laikyti advokatų kvalifikacinį egzaminą, – dokumentą, įrodantį šio Įstatymo 7 straipsnio 3 punkte nurodytą teisinio darbo stažą, arba advokato padėjėjo praktikos vadovo duotą teigiamą praktikos įvertinimą, o asmuo, norintis laikyti advokatų veiklos organizavimo egzaminą, – dokumentą, įrodantį septynerių metų teisėjo darbo stažą arba dešimties metų prokuroro darbo stažą, arba dokumentą, patvirtinantį teisės krypties socialinių mokslų daktaro ar habilituoto daktaro laipsnį, arba dokumentą, patvirtinantį, kad buvo išbrauktas iš praktikuojančių advokatų sąrašo Advokatūros įstatymo Nr. VIII-811 [[#^s-be8da86b97e2a45e33ce7a9f|24 straipsnio]] 1, 5 ar 6 punkte nurodytais pagrindais; ^s-b90da1f361aaf99ca5a935d6
+4) asmuo, norintis laikyti advokatų kvalifikacinį egzaminą, – dokumentą, įrodantį šio Įstatymo 7 straipsnio 3 punkte nurodytą teisinio darbo stažą, arba advokato padėjėjo praktikos vadovo duotą teigiamą praktikos įvertinimą, o asmuo, norintis laikyti advokatų veiklos organizavimo egzaminą, – dokumentą, įrodantį septynerių metų teisėjo darbo stažą arba dešimties metų prokuroro darbo stažą, arba dokumentą, patvirtinantį teisės krypties socialinių mokslų daktaro ar habilituoto daktaro laipsnį, arba dokumentą, patvirtinantį, kad buvo išbrauktas iš praktikuojančių advokatų sąrašo Advokatūros [įstatymo Nr. VIII-811](https://e-tar.lt/portal/lt/legalAct/TAR.61CD00F11D24) [[#^s-be8da86b97e2a45e33ce7a9f|24 straipsnio]] [[latest/TAR.9F4371AB03A3|1]], [[latest/TAR.9F4371AB03A3|5]] ar [[latest/TAR.9F4371AB03A3|6]] punkte nurodytais pagrindais; ^s-b90da1f361aaf99ca5a935d6
 
 
 5) įmokos už advokatų egzaminų laikymą kvitą.“ ^s-245eb39c6eaa5d29fb9886ea
@@ -249,7 +249,7 @@ Asmuo, norintis laikyti advokatų egzaminus, privalo pateikti Lietuvos advokatū
 1. Pakeisti [[#^s-33a60b6a558c22363368b870|17 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-c491d30355dd74e66e0d564a
 
 
-„1. Teisę verstis advokato veikla turi ir advokatų teises ir pareigas įgyja į advokatų, turinčių teisę verstis advokato veikla, sąrašą (toliau – Lietuvos praktikuojančių advokatų sąrašas) įrašyti advokatai, kurie turi šio straipsnio 3 dalyje nurodytą liudijimą. Teisės verstis advokato veikla liudijimo išdavimo diena laikoma advokato teisės verstis advokato veikla suteikimo diena.“
+„1. Teisę verstis advokato veikla turi ir advokatų teises ir pareigas įgyja į advokatų, turinčių teisę verstis advokato veikla, sąrašą (toliau – Lietuvos praktikuojančių [advokatų sąrašas](https://e-tar.lt/portal/lt/legalAct/TAR.880E94AA0CE4)) įrašyti advokatai, kurie turi šio straipsnio 3 dalyje nurodytą liudijimą. Teisės verstis advokato veikla liudijimo išdavimo diena laikoma advokato teisės verstis advokato veikla suteikimo diena.“
 
 
 2. Pakeisti ir papildyti [[#^s-f4d3c885c8069137c37602fb|17 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-225012be40488b9a34b419d7
@@ -415,7 +415,7 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 2. Pakeisti 35 straipsnio 3 dalį ir ją išdėstyti taip: ^s-f4d3c885c8069137c37602fb
 
 
-„3. Sprendimą dėl asmens įrašymo į Lietuvos advokatų padėjėjų sąrašą Lietuvos advokatūra priima ne vėliau kaip per keturiasdešimt penkias dienas nuo [[#^s-f4d3c885c8069137c37602fb|šio straipsnio 2 dalyje]] nurodytų dokumentų gavimo dienos. Šis sprendimas pareiškėjui pateikiamas ne vėliau kaip per dvidešimt darbo dienų nuo sprendimo priėmimo dienos.“
+„3. Sprendimą dėl asmens įrašymo į Lietuvos advokatų padėjėjų sąrašą Lietuvos advokatūra priima ne vėliau kaip per keturiasdešimt penkias dienas nuo šio straipsnio 2 dalyje nurodytų dokumentų gavimo dienos. Šis sprendimas pareiškėjui pateikiamas ne vėliau kaip per dvidešimt darbo dienų nuo sprendimo priėmimo dienos.“
 
 
 
@@ -526,7 +526,7 @@ Pakeisti 61 straipsnio 3 dalį ir ją išdėstyti taip:
 2. Pakeisti 64 straipsnio 8 dalį ir ją išdėstyti taip: ^s-e3fabeddd231997127f74ccd
 
 
-„8. Europos Sąjungos valstybės narės teisininkui, teikiančiam nuolatines teisines paslaugas Lietuvos Respublikoje savo valstybės kompetentingos institucijos suteiktu teisininko profesiniu vardu, taikomos šio Įstatymo nuostatos, išskyrus šio Įstatymo [[#^s-d28b285ec24ba3b2762c332d|7 straipsnio]] 2–7 punktus, 9–[[#^s-eebb9052a38a31dc9f6c2893|19 straipsnius]], [[#^s-b41c69012e7d4e384df8a3f0|23 straipsnį]], 39 straipsnio 2 dalį ir 41 straipsnį.“
+„8. Europos Sąjungos valstybės narės teisininkui, teikiančiam nuolatines teisines paslaugas Lietuvos Respublikoje savo valstybės kompetentingos institucijos suteiktu teisininko profesiniu vardu, taikomos šio Įstatymo nuostatos, išskyrus šio Įstatymo [[#^s-d28b285ec24ba3b2762c332d|7 straipsnio]] 2–7 punktus, [[#^s-9c451c6ff2a569bb2000e6af|9]]–[[#^s-eebb9052a38a31dc9f6c2893|19]] straipsnius, [[#^s-b41c69012e7d4e384df8a3f0|23 straipsnį]], 39 straipsnio 2 dalį ir 41 straipsnį.“
 
 
 
@@ -597,10 +597,10 @@ Lietuvos Respublikos teisingumo ministras ir Lietuvos advokatūra iki šio įsta
 ### 31 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-3e43d6d0850cc7b5749f6add
 
 
-1. Šis įstatymas, išskyrus [[#^s-898ebcc80abb331182275be0|3 straipsnyje]] išdėstyto [[latest/TAR.9F4371AB03A3#^s-5e1cf1eec7e4c6c93e235116|Lietuvos Respublikos advokatūros įstatymo (toliau – Advokatūros įstatymas) 7 straipsnio 6 punktą]], šio įstatymo [[#^s-d28b285ec24ba3b2762c332d|7 straipsnį]], [[#^s-9c451c6ff2a569bb2000e6af|9 straipsnyje]] išdėstyto [[latest/TAR.9F4371AB03A3#^s-d6a6f4cb9e6fbc18a61311e3|Advokatūros įstatymo 16 straipsnio]] 1, 2, 4 ir 5 punktus ir šio įstatymo [[#^s-9965bff9aa1e9044d748a009|30 straipsnį]], įsigalioja 2013 m. rugsėjo 1 d. ^s-aea9499c341aacad708875ab
+1. Šis įstatymas, išskyrus [[#^s-898ebcc80abb331182275be0|3 straipsnyje]] išdėstyto [[latest/TAR.9F4371AB03A3#^s-d6a6f4cb9e6fbc18a61311e3|Lietuvos Respublikos advokatūros įstatymo (toliau – Advokatūros įstatymas) 7 straipsnio 6 punktą, šio įstatymo 7 straipsnį, 9 straipsnyje išdėstyto Advokatūros įstatymo 16 straipsnio]] [[latest/TAR.9F4371AB03A3#^s-f944b168afcbf5c511f218d4|1]], [[latest/TAR.9F4371AB03A3#^s-5bee5aeee95db12815b8afae|2]], [[latest/TAR.9F4371AB03A3#^s-9dc614f6ffa8b17f31dab8a9|4]] ir [[latest/TAR.9F4371AB03A3#^s-cbaf8c8333f6d348cf1679ae|5]] punktus ir šio įstatymo [[#^s-9965bff9aa1e9044d748a009|30 straipsnį]], įsigalioja 2013 m. rugsėjo 1 d. ^s-aea9499c341aacad708875ab
 
 
-2. Šio įstatymo [[#^s-898ebcc80abb331182275be0|3 straipsnyje]] išdėstyto [[latest/TAR.9F4371AB03A3#^s-5e1cf1eec7e4c6c93e235116|Advokatūros įstatymo 7 straipsnio 6 punktas]], šio įstatymo [[#^s-d28b285ec24ba3b2762c332d|7 straipsnis]] ir [[#^s-9c451c6ff2a569bb2000e6af|9 straipsnyje]] išdėstyto [[latest/TAR.9F4371AB03A3#^s-d6a6f4cb9e6fbc18a61311e3|Advokatūros įstatymo 16 straipsnio]] 1, 2, 4 ir 5 punktai įsigalioja 2014 m. kovo 1 d. ^s-5c33d1a7d75f3445a8f16927
+2. Šio įstatymo [[#^s-898ebcc80abb331182275be0|3 straipsnyje]] išdėstyto [[latest/TAR.9F4371AB03A3#^s-d6a6f4cb9e6fbc18a61311e3|Advokatūros įstatymo 7 straipsnio 6 punktas, šio įstatymo 7 straipsnis ir 9 straipsnyje išdėstyto Advokatūros įstatymo 16 straipsnio]] [[latest/TAR.9F4371AB03A3#^s-f944b168afcbf5c511f218d4|1]], [[latest/TAR.9F4371AB03A3#^s-5bee5aeee95db12815b8afae|2]], [[latest/TAR.9F4371AB03A3#^s-9dc614f6ffa8b17f31dab8a9|4]] ir [[latest/TAR.9F4371AB03A3#^s-cbaf8c8333f6d348cf1679ae|5]] punktai įsigalioja 2014 m. kovo 1 d. ^s-5c33d1a7d75f3445a8f16927
 
 
 3. Šio įstatymo [[#^s-898ebcc80abb331182275be0|3 straipsnyje]] išdėstyto [[latest/TAR.9F4371AB03A3#^s-1f92419b7d0c9e2d1927f7a5|Advokatūros įstatymo 7 straipsnio 2 punkto]], [[#^s-9c451c6ff2a569bb2000e6af|9 straipsnyje]] išdėstyto [[latest/TAR.9F4371AB03A3#^s-c62ac6b02bfb5ae20518faef|Advokatūros įstatymo 16 straipsnio 3 punkto]] ir [[#^s-33a60b6a558c22363368b870|17 straipsnio 1 dalyje]] išdėstyto [[latest/TAR.9F4371AB03A3#^s-947acd14aa22197775305b84|Advokatūros įstatymo 35 straipsnio 1 dalies 2 punkto]] nuostatos netaikomos asmenims, iki šio įstatymo įsigaliojimo pateikusiems prašymus laikyti advokatų egzaminus, pateikusiems prašymus pripažinti juos advokatais, pateikusiems prašymus įrašyti juos į advokatų padėjėjų sąrašą ar tapusiems advokatais ir advokatų padėjėjais. ^s-2cb8e823d2afb65e76af30d5

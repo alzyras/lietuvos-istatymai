@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1, 2, 3, 7,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatymas]] - 2001 m. lapkričio 6 d. įstatymo Nr. IX-574
+_Nėra._
 
 ## Šį įstatymą cituoja
 

@@ -90,7 +90,7 @@ Pakeisti [[#^s-74e4cc63484d26b1f8369bdf|12 straipsnio 3 dalį]] ir ją išdėsty
 2. Pakeisti [[#^s-16ca52c25b5b8aeca709fc13|13 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-6685aabfd1c4a5ca43a63275
 
 
-„3. Statiniai valstybiniuose parkuose projektuojami, statomi ar rekonstruojami vadovaujantis teisės aktais, valstybinių parkų planavimo schemų (ribų ir tvarkymo planų) sprendiniais, atsižvelgiant į miestelių ir kaimų architektūros, kraštovaizdžio ypatumus, paveldo objektų apsaugos reikalavimus. Leistinas ir rekomenduojamas statinių formas, dydžius, teritorijos užstatymo tankį, atstumus nuo vandens telkinių ir šlaitų nustato valstybinių parkų individualūs apsaugos reglamentai. Juose gali būti sugriežtinti [[#^s-6685aabfd1c4a5ca43a63275|šio straipsnio 2 dalyje]] nurodyti reikalavimai ir nustatyti papildomi reikalavimai.“
+„3. Statiniai valstybiniuose parkuose projektuojami, statomi ar rekonstruojami vadovaujantis teisės aktais, valstybinių parkų planavimo schemų (ribų ir tvarkymo planų) sprendiniais, atsižvelgiant į miestelių ir kaimų architektūros, kraštovaizdžio ypatumus, paveldo objektų apsaugos reikalavimus. Leistinas ir rekomenduojamas statinių formas, dydžius, teritorijos užstatymo tankį, atstumus nuo vandens telkinių ir šlaitų nustato valstybinių parkų individualūs apsaugos reglamentai. Juose gali būti sugriežtinti šio straipsnio 2 dalyje nurodyti reikalavimai ir nustatyti papildomi reikalavimai.“
 
 
 3. Pakeisti 13 straipsnio 4 dalį ir ją išdėstyti taip: ^s-a1cac7ae0f2b430806585d93
@@ -173,7 +173,7 @@ Pakeisti 23 straipsnį ir jį išdėstyti taip:
 5. Savivaldybių draustinius Vyriausybės nustatyta tvarka steigia savivaldybių tarybos, tvirtindamos savivaldybių draustinių ribų planus, o savivaldybės saugomais objektais savivaldybių gamtos paveldo objektus savivaldybių tarybos skelbia, tvirtindamos šių objektų schemas. ^s-535a9f85ffb2ca0e677479e1
 
 
-6. Šio straipsnio 1, 2, 3, 4 ir [[#^s-535a9f85ffb2ca0e677479e1|5 dalyse]] nurodytų saugomų teritorijų steigimo kriterijus nustato Vyriausybė arba jos įgaliota institucija. ^s-2a3ab0b374272e1898d9adf1
+6. Šio straipsnio [[#^s-59ac73a5b7133c80432dc1bd|1]], [[#^s-47cdb32497973431fc4effb3|2]], [[#^s-1dd6fda370e1a270d7e48569|3]], [[#^s-1f872a954070b3089ce465b6|4]] ir [[#^s-535a9f85ffb2ca0e677479e1|5]] dalyse nurodytų saugomų teritorijų steigimo kriterijus nustato Vyriausybė arba jos įgaliota institucija. ^s-2a3ab0b374272e1898d9adf1
 
 
 7. Kultūros paveldo objektai ir vietovės (nekilnojamosios kultūros vertybės) skelbiami saugomais, jų teritorijos ir apsaugos zonos nustatomos [[latest/TAR.9BC8AEE9D9F8|Nekilnojamojo kultūros paveldo apsaugos įstatymo]] nustatyta tvarka. ^s-ecdf740fe737d63d510db72d
@@ -301,7 +301,7 @@ Papildyti Įstatymą 281 straipsniu:
 6. Jeigu šiame straipsnyje nurodyti pažeidimai nepadarė esminės žalos teisės aktuose tiesiogiai nurodytam visuomenės (viešajam) interesui ar žmonių sveikatai, gyvybei ir kitiems teisės aktuose tiesiogiai nurodytiems interesams arba padaryta žala yra labai nežymi, o asmuo nutraukė neteisėtus veiksmus, pašalino jų padarinius ir atlygino žalą, atestavimo komisija, vadovaudamasi teisingumo ir protingumo kriterijais, gali priimti sprendimą saugomų teritorijų specialiojo teritorijų planavimo vadovo atestato galiojimo nestabdyti ir (ar) atestato galiojimo nepanaikinti. ^s-e636314abd904c8d643a2617
 
 
-7. Asmenys, kurių saugomų teritorijų specialiojo teritorijų planavimo vadovo atestato galiojimas panaikintas, dėl naujo atestato išdavimo gali kreiptis ne anksčiau kaip po 2 metų nuo sprendimo dėl atestato galiojimo panaikinimo dienos.“ ^s-2fb96bcd54bbabbd614c2036
+7. Asmenys, kurių saugomų teritorijų specialiojo teritorijų planavimo vadovo atestato galiojimas panaikintas, dėl naujo atestato išdavimo gali kreiptis ne anksčiau kaip po 2 metų nuo sprendimo [dėl atestato galiojimo panaikinimo](https://e-tar.lt/portal/lt/legalAct/TAR.0E918BA39DEC) dienos.“ ^s-2fb96bcd54bbabbd614c2036
 
 
 ### 13 straipsnis. 31 straipsnio 6 dalies ir 10 dalies 2 ir 3 punktų pakeitimas ^s-9d5ce6691975a7f58169d26f

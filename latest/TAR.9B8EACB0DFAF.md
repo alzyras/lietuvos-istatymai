@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio 1 ir 3 dalių pakeitimas ^s-05057fc2c3aacfae19df9caa
 
 
-1. Pakeisti [[#^s-84b1d4376b770ed9745241b0|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-84b1d4376b770ed9745241b0
+1. Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip: ^s-84b1d4376b770ed9745241b0
 
 
 „1. Šis įstatymas nustato suderintųjų ir neprofesionaliesiems investuotojams skirtų specialiųjų kolektyvinio investavimo subjektų ir kolektyvinio investavimo subjektų valdymo įmonių veiklą bei šios veiklos valstybinę priežiūrą. Įstatymo paskirtis – užtikrinti, kad būtų apsaugoti investicinių fondų bendraturčių ir investicinių bendrovių akcininkų interesai.“

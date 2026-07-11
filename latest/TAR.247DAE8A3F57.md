@@ -63,7 +63,7 @@ Vilnius
 „14) teršimas – medžiagų, preparatų, organizmų ir mikroorganizmų ar jų junginių (toliau – teršalų) išmetimas (išleidimas, paskleidimas) į aplinką kaip žmonių veiklos rezultatas;“.
 
 
-5. Papildyti [[#^s-70c6c6c3e04e4b8557aa104b|1 straipsnį]] 19–[[#^s-7416f1013d25a516d1b7529b|21 punktais]]: ^s-ecc46fab3bec81453e67549d
+5. Papildyti [[#^s-70c6c6c3e04e4b8557aa104b|1 straipsnį]] 19–[[#^s-7416f1013d25a516d1b7529b|21]] punktais: ^s-ecc46fab3bec81453e67549d
 
 
 „19) aplinkos atkūrimo priemonės – bet kurie veiksmai, įskaitant žalą sumažinančias bei laikinąsias priemones, kuriomis nustatyta tvarka atkuriama iki pradinės būklės pažeista aplinka, jos elementai ir (arba) pablogėjusios jų funkcijos arba įgyvendinamos lygiavertės tiems aplinkos elementams ir (arba) jų funkcijoms alternatyvos;
@@ -332,19 +332,19 @@ Aplinkos ministerija, jai pavaldžios ar kitos valstybės ar savivaldybių insti
 „Asmenys, pažeidę aplinkos apsaugos reikalavimus, atsako pagal Lietuvos Respublikos įstatymus.“
 
 
-2. Papildyti 34 straipsnį nauja [[#^s-725169377cfad6aa564e4adb|2 dalimi]]: ^s-725169377cfad6aa564e4adb
+2. Papildyti 34 straipsnį nauja 2 dalimi: ^s-725169377cfad6aa564e4adb
 
 
 „Ūkio subjektams taikoma civilinė atsakomybė, neatsižvelgiant į jų kaltę, už bet kokią žalą aplinkai arba realią jos grėsmę, atsiradusią dėl jų ūkinės veiklos, išskyrus šiame įstatyme numatytus atvejus.“
 
 
-3. Papildyti 34 straipsnį nauja [[#^s-43f511e9cae2b0c445277a30|3 dalimi]]: ^s-43f511e9cae2b0c445277a30
+3. Papildyti 34 straipsnį nauja 3 dalimi: ^s-43f511e9cae2b0c445277a30
 
 
 „Šio straipsnio antrojoje dalyje nurodyta civilinė atsakomybė netaikoma asmenims, vykdantiems veiklą, kurios pagrindinė paskirtis – krašto apsauga arba tarptautinis saugumas bei kurios vienintelė paskirtis – apsauga nuo stichinių nelaimių.“
 
 
-4. Buvusias 34 straipsnio 2 ir [[#^s-43f511e9cae2b0c445277a30|3 dalis]] laikyti atitinkamai 4 ir 5 dalimis. ^s-4b5b0c87463e0e5b5cc02929
+4. Buvusias 34 straipsnio 2 ir 3 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-4b5b0c87463e0e5b5cc02929
 
 
 

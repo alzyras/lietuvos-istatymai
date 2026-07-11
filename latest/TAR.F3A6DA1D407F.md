@@ -44,7 +44,7 @@ Vilnius
 17 straipsnio 1 dalies 1 punkte vietoj žodžių „operatyvinės veiklos“ įrašyti žodžius „kriminalinės žvalgybos“ ir šį punktą išdėstyti taip:
 
 
-„1) dirbančius pagal darbo sutartis, narystės pagrindu einančius renkamąsias pareigas renkamose organizacijose, narystės pagrindu dirbančius ūkinėse bendrijose, žemės ūkio bendrovėse arba kooperatinėse organizacijose, viešojo administravimo valstybės tarnautojus, kriminalinės žvalgybos slaptuosius dalyvius, kuriems pagal su jais sudarytas rašytines slapto bendradarbiavimo sutartis mokamas atlygis, taip pat asmenis, nurodytus [[latest/TAR.0F9036415DBD#^s-66a74a7996a218e9403ff8dc|Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies]] 1 ir 2 punktuose;“.
+„1) dirbančius pagal darbo sutartis, narystės pagrindu einančius renkamąsias pareigas renkamose organizacijose, narystės pagrindu dirbančius ūkinėse bendrijose, žemės ūkio bendrovėse arba kooperatinėse organizacijose, viešojo administravimo valstybės tarnautojus, kriminalinės žvalgybos slaptuosius dalyvius, kuriems pagal su jais sudarytas rašytines slapto bendradarbiavimo sutartis mokamas atlygis, taip pat asmenis, nurodytus [[latest/TAR.0F9036415DBD#^s-66a74a7996a218e9403ff8dc|Valstybinio socialinio draudimo įstatymo 4 straipsnio 2 dalies]] [[latest/TAR.0F9036415DBD|1]] ir [[latest/TAR.0F9036415DBD|2]] punktuose;“.
 
 
 

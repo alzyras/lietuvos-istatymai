@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-861023305574d785f66a24f3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. liepos 4 d. dekretą Nr. 1348, ratifikuoja Lietuvos Respublikos Vyriausybės ir Norvegijos Karalystės Vyriausybės sutartį dėl operatyvaus informavimo apie branduolines avarijas ir pasikeitimo informacija apie branduolinius objektus.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [1997 m. liepos 4 d. dekretą Nr. 1348](https://e-tar.lt/portal/lt/legalAct/TAR.0EC444295770), ratifikuoja Lietuvos Respublikos Vyriausybės ir Norvegijos Karalystės Vyriausybės sutartį dėl operatyvaus informavimo apie branduolines avarijas ir pasikeitimo informacija apie branduolinius objektus.
 
 
 

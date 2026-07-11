@@ -57,7 +57,7 @@ Visuomeninės politinės organizacijos ir visuomeniniai politiniai judėjimai, n
 ### 4 straipsnis. ^s-637b0576753359340d6e5455
 
 
-Šio įstatymo 1, 2 ir 3 straipsniuose nustatyti terminai taikomi visuomeninėms politinėms organizacijoms ir visuomeniniams politiniams judėjimams, kurie registruosis dalyvauti 1994 m. vyksiančiuose rinkimuose. Visuomeninės politinės organizacijos ir visuomeniniai politiniai judėjimai, kurie nedalyvaus 1994 m. vyksiančiuose rinkimuose, šio įstatymo reikalavimus turi įvykdyti iki 1995 m. sausio 1 d. ir nuo šios dienos jie netenka teisių, numatytų šioms organizacijoms Lietuvos Respublikos savivaldybių tarybų rinkimų įstatyme, Lietuvos Respublikos Seimo rinkimų įstatyme ir Lietuvos Respublikos Prezidento rinkimų įstatyme.
+Šio įstatymo 1, 2 ir 3 straipsniuose nustatyti terminai taikomi visuomeninėms politinėms organizacijoms ir visuomeniniams politiniams judėjimams, kurie registruosis dalyvauti 1994 m. vyksiančiuose rinkimuose. Visuomeninės politinės organizacijos ir visuomeniniai politiniai judėjimai, kurie nedalyvaus 1994 m. vyksiančiuose rinkimuose, šio įstatymo reikalavimus turi įvykdyti iki 1995 m. sausio 1 d. ir nuo šios dienos jie netenka teisių, numatytų šioms organizacijoms [Lietuvos Respublikos savivaldybių tarybų rinkimų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC), [Lietuvos Respublikos Seimo rinkimų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.06267D86738E) ir [Lietuvos Respublikos Prezidento rinkimų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.E39827DBDE34).
 
 
 

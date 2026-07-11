@@ -49,7 +49,7 @@ Vilnius
 1. 44 straipsnio 2 dalį pripažinti netekusia galios. ^s-66ba11f825e8f5c86dd205ff
 
 
-2. Buvusią 44 straipsnio 3 dalį laikyti [[#^s-cf4516c366c98df4496727dd|2 dalimi]]. ^s-cf4516c366c98df4496727dd
+2. Buvusią 44 straipsnio 3 dalį laikyti 2 dalimi. ^s-cf4516c366c98df4496727dd
 
 
 

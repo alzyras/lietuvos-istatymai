@@ -38,18 +38,18 @@ Vilnius
 ### 1 straipsnis. 29 straipsnio pakeitimas ^s-450d8e9940bd2d4499b7bde7
 
 
-Pakeisti 29 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.7D36321FB46F#^s-c52310b175c111c112152dc2|29 straipsnį]] ir jį išdėstyti taip:
 
 
-„29 straipsnis. 54 straipsnio pakeitimas
-Pakeisti 54 straipsnį ir jį išdėstyti taip:
-„54 straipsnis. Informacijos gavimas ir teikimas
+„[[latest/TAR.7D36321FB46F#^s-c52310b175c111c112152dc2|29 straipsnis]]. [[latest/TAR.7D36321FB46F|54 straipsnio]] pakeitimas
+Pakeisti [[latest/TAR.7D36321FB46F|54 straipsnį]] ir jį išdėstyti taip:
+„[[latest/TAR.7D36321FB46F|54 straipsnis]]. Informacijos gavimas ir teikimas
 
 
 1. Valstybės ir savivaldybių institucijos ir ūkio subjektai privalo teikti Lietuvos bankui informaciją, reikalingą jo funkcijoms atlikti. ^s-6f28d79345fb732d1173e3bc
 
 
-2. Lietuvos bankas gali teikti informaciją Europos centriniam bankui, Europos Sąjungos valstybių centriniams bankams, tarptautinėms pinigų ir finansų institucijoms, valstybės ir savivaldybių institucijoms, jei ji reikalinga jų funkcijoms atlikti ir jei tokios informacijos teikimo nedraudžia šis ar kiti Lietuvos Respublikos įstatymai. Šis draudimas netaikomas, kai reikia teikti statistinę informaciją Europos centriniam bankui, – šiuo atveju taikoma 1998 m. lapkričio 23 d. Tarybos reglamento (EB) 2533/98 dėl Europos centrinio banko renkamos statistinės informacijos 8 straipsnyje nustatyta konfidencialumo tvarka. ^s-83b216c376e65396454972e7
+2. Lietuvos bankas gali teikti informaciją Europos centriniam bankui, Europos Sąjungos valstybių centriniams bankams, tarptautinėms pinigų ir finansų institucijoms, valstybės ir savivaldybių institucijoms, jei ji reikalinga jų funkcijoms atlikti ir jei tokios informacijos teikimo nedraudžia šis ar kiti Lietuvos Respublikos įstatymai. Šis draudimas netaikomas, kai reikia teikti statistinę informaciją Europos centriniam bankui, – šiuo atveju taikoma 1998 m. lapkričio 23 d. Tarybos [reglamento (EB) 2533/98](https://eur-lex.europa.eu/eli/reg/2533/98/oj) dėl Europos centrinio banko renkamos statistinės informacijos [[latest/TAR.7D36321FB46F#^s-998f5cfc8fb001e792ba45dd|8 straipsnyje]] nustatyta konfidencialumo tvarka. ^s-83b216c376e65396454972e7
 
 
 3. Lietuvos Respublikos juridinių asmenų registre įregistruotų juridinių asmenų be valstybės garantijos gaunamos paskolos iš fizinių ar juridinių asmenų, kurių nuolatinė gyvenamoji vieta ar buveinė yra ne Lietuvos Respublikoje, ir jiems suteikiamos paskolos registruojamos Lietuvos banke Lietuvos banko nustatyta tvarka.“ ^s-f893f8efdeb1c8cee7981149

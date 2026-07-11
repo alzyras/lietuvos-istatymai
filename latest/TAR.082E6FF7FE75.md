@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos pakeitimo ratifikavimas ^s-1381d844836785cbdfe24731
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. gegužės 9 d. dekretą Nr. 1K-955, ratifikuoja Konvencijos dėl teisės gauti informaciją, visuomenės dalyvavimo priimant sprendimus ir teisės kreiptis į teismus aplinkosaugos klausimais pakeitimą, priimtą 2005 m. gegužės 27 d. Almatoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. gegužės 9 d. dekretą Nr. 1K-955](https://e-tar.lt/portal/lt/legalAct/TAR.A65D12A84EBB), ratifikuoja Konvencijos dėl teisės gauti informaciją, visuomenės dalyvavimo priimant sprendimus ir teisės kreiptis į teismus aplinkosaugos klausimais pakeitimą, priimtą 2005 m. gegužės 27 d. Almatoje.
 
 
 

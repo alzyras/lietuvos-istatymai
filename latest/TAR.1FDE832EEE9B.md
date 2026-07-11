@@ -400,7 +400,7 @@ Pakeisti 42 straipsnio 2 dalies 8 punktą ir jį išdėstyti taip:
 2. Pakeisti 44 straipsnio 3 dalį ir ją išdėstyti taip: ^s-26371360edad3017aacd54bb
 
 
-„3. [[#^s-26371360edad3017aacd54bb|Šio straipsnio 2 dalyje]] nurodytos išlaidos, išskyrus išlaidas, susijusias su karininko parengimu karo mokykloje, išieškomos iš profesinės karo tarnybos kario ar kario savanorio ne daugiau kaip už 3 paskutinių metų laikotarpį. Išieškomų išlaidų apskaičiavimo taisykles tvirtina Vyriausybė arba jos įgaliota institucija.“
+„3. Šio straipsnio 2 dalyje nurodytos išlaidos, išskyrus išlaidas, susijusias su karininko parengimu karo mokykloje, išieškomos iš profesinės karo tarnybos kario ar kario savanorio ne daugiau kaip už 3 paskutinių metų laikotarpį. Išieškomų išlaidų apskaičiavimo taisykles tvirtina Vyriausybė arba jos įgaliota institucija.“
 
 
 
@@ -709,7 +709,7 @@ Pakeisti 65 straipsnį ir jį išdėstyti taip:
 2. Karių savanorių ir kitų aktyviojo rezervo karių sveikatos priežiūra jų tarnybos, pratybų ir mokymų metu, taip pat po pratybų ar mokymų, jei sveikatos sutrikimas atsirado dėl su kario tarnyba susijusių priežasčių, finansuojama iš Krašto apsaugos ministerijai skirtų valstybės biudžeto lėšų. ^s-172367d5b7f82b52e05036e5
 
 
-3. Krašto apsaugos ministerija organizuoja šio straipsnio 1 ir [[#^s-172367d5b7f82b52e05036e5|2 dalyse]] nurodytų karių ir kitų asmenų sveikatinimo veiklą ir atlieka jų asmens sveikatos priežiūrą per krašto apsaugos sistemos sveikatos priežiūros institucijas ir naudodamasi kitų nacionalinės sveikatos sistemos asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis ir patarnavimais. Už juos atsiskaitoma Vyriausybės nustatyta tvarka. ^s-a441c08c9edb0446454ecda7
+3. Krašto apsaugos ministerija organizuoja šio straipsnio [[#^s-7048b90c95c4e8326f46c63c|1]] ir [[#^s-172367d5b7f82b52e05036e5|2]] dalyse nurodytų karių ir kitų asmenų sveikatinimo veiklą ir atlieka jų asmens sveikatos priežiūrą per krašto apsaugos sistemos sveikatos priežiūros institucijas ir naudodamasi kitų nacionalinės sveikatos sistemos asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis ir patarnavimais. Už juos atsiskaitoma Vyriausybės nustatyta tvarka. ^s-a441c08c9edb0446454ecda7
 
 
 4. Iš valstybės biudžeto Krašto apsaugos ministerijai skirtų lėšų apmokamos karių reabilitacijos po sužeidimo ar ligos, susijusių su tarnybinių pareigų vykdymu, efektyvių sveikatos priežiūros paslaugų išlaidos. ^s-767462f6434be711ef82004b
@@ -771,7 +771,7 @@ Pakeisti 68 straipsnio 3 dalį ir ją išdėstyti taip:
 Pakeisti 73 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
-„6. Krašto apsaugos sistemos statutiniams valstybės tarnautojams draudžiama užsiimti su valstybės tarnyba nesuderinama [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] apibrėžta veikla. Jų tarnybai taip pat taikomi šio įstatymo 36 straipsnio 1 dalies 3 punkte ir 6, 7, 8, 9 ir 11 dalyse numatyti karių tarnybai taikomi apribojimai. Tarnautojų, atliekančių civilinę krašto apsaugos tarnybą Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos, tarnybai, be šių apribojimų, dar taikomi karių tarnybai galiojantys apribojimai, nustatyti šio įstatymo [[#^s-41a4b96b28dbab781833e070|36 straipsnio 1 dalies]] 2, 3 punktuose ir 2, 3 dalyse.“
+„6. Krašto apsaugos sistemos statutiniams valstybės tarnautojams draudžiama užsiimti su valstybės tarnyba nesuderinama [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] apibrėžta veikla. Jų tarnybai taip pat taikomi šio įstatymo 36 straipsnio 1 dalies 3 punkte ir 6, 7, 8, 9 ir 11 dalyse numatyti karių tarnybai taikomi apribojimai. Tarnautojų, atliekančių civilinę krašto apsaugos tarnybą Antrajame operatyvinių tarnybų departamente prie Krašto apsaugos ministerijos, tarnybai, be šių apribojimų, dar taikomi karių tarnybai galiojantys apribojimai, nustatyti šio įstatymo [[#^s-41a4b96b28dbab781833e070|36 straipsnio 1 dalies]] 2, 3 punktuose ir [[#^s-df6364d1ebf5d07679d3307e|2]], 3 dalyse.“
 
 
 
@@ -859,7 +859,7 @@ Iki šio įstatymo įsigaliojimo sudarytos kario savanorio tarnybos sutartys gal
 ### 36 straipsnis. Šio įstatymo įsigaliojimas ^s-432f076490cb3211c03c2419
 
 
-1. Šio įstatymo 12, 14, 20, 22, 23, [[#^s-42f61af5db8aa9877af72ecb|24 straipsniai]], [[#^s-8e4e9bcda23398b83eea45ae|25 straipsnio 1 dalis]], 34 ir [[#^s-95869e93bfa7c0fcabed4364|35 straipsniai]] įsigalioja 2011 m. sausio 1 d. ^s-41a4b96b28dbab781833e070
+1. Šio įstatymo [[#^s-417373b30e9faac03ff86269|12]], [[#^s-eec956167cd67ffd318e68fa|14]], [[#^s-dedf4415d20932ff0796f61f|20]], [[#^s-19702ae1044999ec0dd7b1ad|22]], [[#^s-202b36c4fc038a771acce969|23]], [[#^s-42f61af5db8aa9877af72ecb|24]] straipsniai, [[#^s-8e4e9bcda23398b83eea45ae|25 straipsnio 1 dalis]], [[#^s-506d23b236cbbcfb20e3af7a|34]] ir [[#^s-95869e93bfa7c0fcabed4364|35]] straipsniai įsigalioja 2011 m. sausio 1 d. ^s-41a4b96b28dbab781833e070
 
 
 2. Šio įstatymo [[#^s-70cd8b5e12875921023b640f|31 straipsnis]] įsigalioja 2012 m. sausio 1 d. ^s-df6364d1ebf5d07679d3307e

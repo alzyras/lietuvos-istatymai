@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos gyventojų turto deklaravimo įstatymo 1, 2, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.3EEE59417F13#^s-2d00a5208f3ad1378d7f9909|Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas]] - 2 citatos - Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsnyje
+- [[latest/TAR.3EEE59417F13#^s-2d00a5208f3ad1378d7f9909|Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymas]] - Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 17 straipsnyje
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D4A66ACB9F97#^s-82006bf67248d5bf62fcf88d|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - 2 citatos - GYVENTOJŲ TURTO DEKLARAVIMO ĮSTATYMO 1, 2, 3, 7 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.D4A66ACB9F97#^s-8a54e4d204bbb6894e068997|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - 2 citatos - GYVENTOJŲ TURTO DEKLARAVIMO ĮSTATYMO 1, 2, 3, 7 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.D4A66ACB9F97#^s-8a54e4d204bbb6894e068997|Lietuvos Respublikos gyventojų turto deklaravimo įstatymas]] - GYVENTOJŲ TURTO DEKLARAVIMO ĮSTATYMO 1, 2, 3, 7 IR 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

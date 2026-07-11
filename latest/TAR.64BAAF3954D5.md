@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-b8531bbd3c3fa0d145dd958e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. liepos 19 d. dekretą Nr. 11, ratifikuoja 1998 m. birželio 24 d. Orhuse priimtą 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos Protokolą dėl sunkiųjų metalų.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. liepos 19 d. dekretą Nr. 11](https://e-tar.lt/portal/lt/legalAct/TAR.CFD176F011F6), ratifikuoja 1998 m. birželio 24 d. Orhuse priimtą 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos Protokolą dėl sunkiųjų metalų.
 
 
 

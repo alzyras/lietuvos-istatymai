@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.542D2FA3CA61|Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymas]] - 2 citatos - Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymas
-- [[latest/e944ee00600111e4bad5c03f56793630|Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas]] - 2 citatos - paramos būstui įsigyti ar išsinuomoti įstatymo
+- [[latest/TAR.542D2FA3CA61|Lietuvos Respublikos kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymas]] - Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat valstybės garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymas
+- [[latest/e944ee00600111e4bad5c03f56793630|Lietuvos Respublikos paramos būstui įsigyti ar išsinuomoti įstatymas]] - paramos būstui įsigyti ar išsinuomoti įstatymo
 
 ## Šį įstatymą cituoja
 

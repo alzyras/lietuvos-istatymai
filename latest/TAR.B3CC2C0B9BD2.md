@@ -428,7 +428,7 @@ Juridiniai ir fiziniai asmenys, kurie tiesiogiai naudoja vandens išteklius ir t
 3. Laivybai tinkamų valstybinės reikšmės vidaus vandenų kelių sąrašą tvirtina Vyriausybė, o vietinės reikšmės ir perspektyvinių vidaus vandenų kelių sąrašus – Susisiekimo ministerija, suderinusi su Aplinkos apsaugos ministerija. ^s-a7c49834016687a5fa515f88
 
 
-4. Vandens telkinių naudojimą laivybai nustato Vidaus vandenų transporto kodeksas. ^s-709f8bd4dfdfc3224ff16745
+4. Vandens telkinių naudojimą laivybai nustato [Vidaus vandenų transporto kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F). ^s-709f8bd4dfdfc3224ff16745
 
 
 

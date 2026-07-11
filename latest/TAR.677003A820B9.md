@@ -49,7 +49,7 @@ Vilnius
 ### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-b5676a7d065cfb5ffe598771
 
 
-Papildyti 2 straipsnį nauja [[#^s-941a8b67a1036db3f470caa3|2 dalimi]], buvusias 2 straipsnio 2, 3, 4, [[#^s-0b7bfb4c6d5211dc6b141bea|5 dalis]] laikyti atitinkamai 3, 4, 5, [[#^s-6a6046374859b54655869da7|6 dalimis]], jas pakeisti, straipsnį papildyti [[#^s-3f922df6e01bc9cfcde47ca0|7 dalimi]] ir visą straipsnį išdėstyti taip:
+Papildyti 2 straipsnį nauja [[#^s-941a8b67a1036db3f470caa3|2 dalimi]], buvusias 2 straipsnio [[#^s-941a8b67a1036db3f470caa3|2]], [[#^s-f7c331e1631a54d499a07e19|3]], [[#^s-f6f131f680ac024c1ae91bd6|4]], [[#^s-0b7bfb4c6d5211dc6b141bea|5]] dalis laikyti atitinkamai [[#^s-f7c331e1631a54d499a07e19|3]], [[#^s-f6f131f680ac024c1ae91bd6|4]], [[#^s-0b7bfb4c6d5211dc6b141bea|5]], [[#^s-6a6046374859b54655869da7|6]] dalimis, jas pakeisti, straipsnį papildyti [[#^s-3f922df6e01bc9cfcde47ca0|7 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 „2 straipsnis. Pagrindinės šio įstatymo sąvokos
@@ -200,7 +200,7 @@ Pakeisti [[#^s-d170bf7b7a973d0412479f4a|11 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-d170bf7b7a973d0412479f4a|11 straipsnis]]. Lygių galimybių kontrolieriaus tarnybos teisiniai pagrindai
 
 
-1. Lygių galimybių kontrolieriaus tarnyba vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-9f9a056dd6467a0fa5c094fb
+1. Lygių galimybių kontrolieriaus tarnyba vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo įstatymu, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-9f9a056dd6467a0fa5c094fb
 
 
 2. Lygių galimybių kontrolieriaus tarnyba savo veiklą grindžia teisėtumo, nešališkumo ir teisingumo principais. ^s-68f041023482fff669f5b0c4
@@ -561,7 +561,7 @@ Pakeisti [[#^s-0fd3f2f3ecc9f9fb87ef2e20|25 straipsnį]] ir jį išdėstyti taip:
 1. Lygių galimybių kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5 dydžių atlyginimas. Kiti priedai ar premijos lygių galimybių kontrolieriui nemokami. ^s-f588c61dbf179d3f9747db27
 
 
-2. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, lygių galimybių kontrolieriui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos. ^s-c045429820edaaeddd3f5f8d
+2. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatytą darbo apmokėjimo sistemą, lygių galimybių kontrolieriui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos. ^s-c045429820edaaeddd3f5f8d
 
 
 3. Lygių galimybių kontrolierius valstybiniu socialiniu draudimu draudžiamas [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo]] nustatyta tvarka.“ ^s-37727377b6ee4d7f16f28be7

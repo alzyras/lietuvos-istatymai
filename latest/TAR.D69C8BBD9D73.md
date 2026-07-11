@@ -114,10 +114,10 @@ DARBDAVIŲ, LEIDUSIŲ DIRBTI NELEGALIAI TREČIOSIOS ŠALIES PILIEČIAMS, ATSAKOM
 3. Darbdavys privalo sumokėti nelegaliai dirbusiam trečiosios šalies piliečiui atlyginimą už darbą, dėl kurio buvo susitarta, bet ne mažesnį kaip Lietuvos Respublikos Vyriausybės nustatytos minimaliosios mėnesinės algos dydžio ir ne mažiau kaip už tris mėnesius (nebent darbdavys arba nelegaliai dirbęs trečiosios šalies pilietis gali įrodyti, kad nelegalus darbas buvo atliekamas trumpesnį laiką), ir nuo šios sumos sumokėti teisės aktų nustatytus mokesčius, įskaitant susidariusius delspinigius ir baudas, taip pat visas šioje dalyje numatytų sumų pervedimo į šalį, į kurią grįžo ar buvo sugrąžintas trečiosios šalies pilietis, išlaidas ir trečiosios šalies piliečio grąžinimo išlaidas. ^s-a34c0325667783b91428791b
 
 
-4. [[#^s-ffdf2edb45a799935c461d38|Šio straipsnio 1 dalyje]] nurodytų pažeidimų bylas nagrinėja ir baudas skiria Valstybinė darbo inspekcija. Šie pažeidimai tiriami, pažeidimų protokolai surašomi ir bylos nagrinėjamos mutatis mutandis vadovaujantis Administracinių teisės pažeidimų kodekso nuostatomis. ^s-3ed037fbc035f34a66216ca6
+4. [[#^s-ffdf2edb45a799935c461d38|Šio straipsnio 1 dalyje]] nurodytų pažeidimų bylas nagrinėja ir baudas skiria Valstybinė darbo inspekcija. Šie pažeidimai tiriami, pažeidimų protokolai surašomi ir bylos nagrinėjamos mutatis mutandis vadovaujantis [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nuostatomis. ^s-3ed037fbc035f34a66216ca6
 
 
-5. Skiriamos baudos dydis nustatomas pagal didžiausios ir mažiausios baudų vidurkį, atsižvelgiant į šio straipsnio 6 ir [[#^s-3f24f53201130886e9ef4835|7 dalyse]] nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidurkio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidurkio iki maksimalaus dydžio. Kai yra ir atsakomybę lengvinančių, ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas nutarime skirti baudą. ^s-b504db4a5efcdaf34efaed73
+5. Skiriamos baudos dydis nustatomas pagal didžiausios ir mažiausios baudų vidurkį, atsižvelgiant į šio straipsnio [[#^s-f0984c48d9fc89fcb73c61e6|6]] ir [[#^s-3f24f53201130886e9ef4835|7]] dalyse nustatytas atsakomybę lengvinančias ir sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidurkio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidurkio iki maksimalaus dydžio. Kai yra ir atsakomybę lengvinančių, ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas nutarime skirti baudą. ^s-b504db4a5efcdaf34efaed73
 
 
 6. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad juridinis asmuo, padaręs pažeidimą, užkirto kelią žalingoms pažeidimo pasekmėms, iki pažeidimo tyrimo pradžios pažeidimą nutraukė, pripažino padaręs pažeidimą, padėjo [[#^s-3f24f53201130886e9ef4835|šio straipsnio 7 dalyje]] nurodytų institucijų įgaliotiems pareigūnams atlikti pažeidimo tyrimą, geranoriškai atlygino žalą, taip pat labai sunki juridinio asmens finansinė padėtis. ^s-f0984c48d9fc89fcb73c61e6
@@ -178,10 +178,10 @@ priedas
 ### 7 straipsnis. Baigiamosios nuostatos ^s-4243392f9705bca9a3e0bc8d
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-99604a31eb865a9458eb72f9|3 dalis]], įsigalioja 2012 m. rugpjūčio 1 d. ^s-ada81dae0ae1b2bf537670a6
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-d6cde56652e21640ed4d15a5|2]] ir [[#^s-99604a31eb865a9458eb72f9|3]] dalis, įsigalioja 2012 m. rugpjūčio 1 d. ^s-ada81dae0ae1b2bf537670a6
 
 
-2. Šio įstatymo [[#^s-fcbeacbc04e47f10f8a1f4d9|2 straipsnyje]] nurodyti [[latest/TAR.1FD5C3A4D10A#^s-1e7c0d4940e278c714a0defe|Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 straipsnio]] 25, 26 ir 27 punktai nuo 2013 m. sausio 1 d. laikomi atitinkamai [[latest/TAR.1FD5C3A4D10A#^s-1e7c0d4940e278c714a0defe|Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 straipsnio]] 26, 27 ir 28 punktais. ^s-d6cde56652e21640ed4d15a5
+2. Šio įstatymo [[#^s-fcbeacbc04e47f10f8a1f4d9|2 straipsnyje]] nurodyti [[latest/TAR.1FD5C3A4D10A#^s-1e7c0d4940e278c714a0defe|Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 straipsnio]] [[latest/TAR.1FD5C3A4D10A|25]], [[latest/TAR.1FD5C3A4D10A|26]] ir [[latest/TAR.1FD5C3A4D10A|27]] punktai nuo 2013 m. sausio 1 d. laikomi atitinkamai [[latest/TAR.1FD5C3A4D10A#^s-1e7c0d4940e278c714a0defe|Lietuvos Respublikos valstybinės darbo inspekcijos įstatymo 6 straipsnio]] [[latest/TAR.1FD5C3A4D10A|26]], [[latest/TAR.1FD5C3A4D10A|27]] ir [[latest/TAR.1FD5C3A4D10A|28]] punktais. ^s-d6cde56652e21640ed4d15a5
 
 
 3. Lietuvos Respublikos Vyriausybė iki 2012 m. liepos 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-99604a31eb865a9458eb72f9

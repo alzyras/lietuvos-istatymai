@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-bd1898a7d64ce7ea18797805
 
 
-1. [[#^s-49eecd98666c916a32e4747c|2 straipsnio]] 2 ir [[#^s-e5392b4aef73192ed54fcf68|3 dalyje]] po žodžių „bet dar negrąžintos“ įrašyti žodžius „taip pat pagal šį įstatymą įsteigtos garantijų institucijos neįvykdytų įsipareigojimų pagal suteiktas garantijas bankams suma“ ir šias dalis išdėstyti taip: ^s-566d66ea9652f4923e35cb29
+1. [[#^s-49eecd98666c916a32e4747c|2 straipsnio]] [[#^s-83e7f39a828f3d5cd5e6142c|2]] ir [[#^s-4a5c9c2b277be9e553edfbae|3]] dalyje po žodžių „bet dar negrąžintos“ įrašyti žodžius „taip pat pagal šį įstatymą įsteigtos garantijų institucijos neįvykdytų įsipareigojimų pagal suteiktas garantijas bankams suma“ ir šias dalis išdėstyti taip: ^s-566d66ea9652f4923e35cb29
 
 
 „2. Vidaus skola – Lietuvos Respublikos turtiniai įsipareigojimai vidaus valiuta pagal paskolos sutartis, sutartis su valstybės garantija arba kitus skolos įsipareigojamuosius dokumentus, pagal kuriuos lėšos, materialinės vertybės arba paslaugos gautos, bet dar negrąžintos, taip pat pagal šį įstatymą įsteigtos garantijų institucijos neįvykdytų įsipareigojimų pagal suteiktas garantijas bankams suma.
@@ -48,7 +48,7 @@ Vilnius
 3. Užsienio skola – Lietuvos Respublikos turtiniai įsipareigojimai užsienio valiuta pagal paskolos sutartis, sutartis su valstybės garantija arba kitus skolos įsipareigojamuosius dokumentus, pagal kuriuos lėšos, materialinės vertybės arba paslaugos gautos, bet dar negrąžintos, taip pat pagal šį įstatymą įsteigtos garantijų institucijos neįvykdytų įsipareigojimų pagal suteiktas garantijas bankams suma.“ ^s-e5392b4aef73192ed54fcf68
 
 
-2. Papildyti [[#^s-49eecd98666c916a32e4747c|2 straipsnį]] naujomis 10 ir [[#^s-1c6b7234022a52af86cc0d51|12 dalimis]], pakeisti buvusių 10–[[#^s-f0a3290860e8d1554e3dbc63|14 dalių]] numeraciją ir jas visas išdėstyti taip: ^s-0861aa8fd48ced162d9ab855
+2. Papildyti [[#^s-49eecd98666c916a32e4747c|2 straipsnį]] naujomis 10 ir 12 dalimis, pakeisti buvusių 10–14 dalių numeraciją ir jas visas išdėstyti taip: ^s-0861aa8fd48ced162d9ab855
 
 
 „10. Valstybės garantija už garantijų institucijos suteiktas garantijas – Lietuvos Respublikos turtinis įsipareigojimas įvykdyti visus garantijų institucijos, už kurios garantijų įvykdymą garantuoja valstybė, įsipareigojimus, jeigu ši institucija neįvykdo arba įvykdo ne visus garantijų įsipareigojamuosiuose dokumentuose numatytus įsipareigojimus.

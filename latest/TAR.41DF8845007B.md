@@ -81,7 +81,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 „3 straipsnis. Policijos veiklos teisiniai pagrindai
 
 
-Policija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Europos Sąjungos teisės aktais, Lietuvos Respublikos tarptautinėmis sutartimis, Lietuvos Respublikos vidaus tarnybos statutu ir kitais teisės aktais.“
+Policija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Europos Sąjungos teisės aktais, Lietuvos Respublikos tarptautinėmis sutartimis, Lietuvos Respublikos vidaus tarnybos statutu ir kitais teisės aktais.“
 
 
 

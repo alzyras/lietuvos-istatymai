@@ -38,10 +38,10 @@ Vilnius
 ### 1 straipsnis. Įstatymo papildymas 171 straipsniu ^s-9740d3f96d355647a7417cbf
 
 
-Papildyti Įstatymą 171 straipsniu:
+Papildyti Įstatymą [[latest/TAR.D22016A0EC70|171 straipsniu]]:
 
 
-„171 straipsnis. Bendrieji žvejybos galimybių Baltijos jūroje paskirstymo principai
+„[[latest/TAR.D22016A0EC70|171 straipsnis]]. Bendrieji žvejybos galimybių Baltijos jūroje paskirstymo principai
 
 
 1. Skirstant individualias žvejybos galimybes ūkio subjektams, valdantiems Lietuvos Respublikos žvejybos laivą, jei nebus viršyta Žemės ūkio ministerijos nustatyta žvejybos pajėgumo riba atitinkamame geografiniame žvejybos rajone, apskaičiuojama, kokią Lietuvos Respublikai skirtų atitinkamos rūšies žuvų žvejybos galimybių dalį per bet kuriuos kiekvieno ūkio subjekto pasirinktus 3 kalendorinius metus iš 7 paskutinių kalendorinių metų vidutiniškai sudarė ūkio subjekto sugautų tos rūšies žuvų kiekis (toliau – istorinė dalis). ^s-35e60bc46b42badeaac992b8
@@ -68,7 +68,7 @@ Papildyti Įstatymą 171 straipsniu:
 5. Jei apskaičiuotų ūkio subjektams skiriamų individualių žvejybos galimybių suma viršija paskirstomas pagal istorinę dalį Lietuvos Respublikos žvejybos galimybes, kiekvienam ūkio subjektui skiriamos individualios žvejybos galimybės proporcingai mažinamos. ^s-2733f55fc4f53fab59f9f553
 
 
-6. Vienas ūkio subjektas, įskaitant su juo susijusius ūkio subjektus, kaip jie apibrėžti šio įstatymo 142 straipsnio 12, 13, 14, 15, 16, 17, 18 ir 19 dalyse, negali turėti daugiau kaip  40 procentų kiekvienos žuvų rūšies Lietuvos Respublikai skirtų žvejybos galimybių. ^s-fe393be220462defe5a27b46
+6. Vienas ūkio subjektas, įskaitant su juo susijusius ūkio subjektus, kaip jie apibrėžti šio įstatymo [[latest/TAR.D22016A0EC70|142 straipsnio]] [[latest/TAR.D22016A0EC70|12]], [[latest/TAR.D22016A0EC70|13]], [[latest/TAR.D22016A0EC70|14]], [[latest/TAR.D22016A0EC70|15]], [[latest/TAR.D22016A0EC70|16]], [[latest/TAR.D22016A0EC70|17]], [[latest/TAR.D22016A0EC70|18]] ir [[latest/TAR.D22016A0EC70|19]] dalyse, negali turėti daugiau kaip  40 procentų kiekvienos žuvų rūšies Lietuvos Respublikai skirtų žvejybos galimybių. ^s-fe393be220462defe5a27b46
 
 
 7. Priekrantės žvejybai individualios žvejybos galimybės ūkio subjektams neskirstomos, tačiau ūkio subjektų, valdančių Lietuvos Respublikos žvejybos laivą, jei nebus viršyta Žemės ūkio ministerijos nustatyta žvejybos pajėgumo riba priekrantės žvejybos zonoje, bendram naudojimui skiriama: ^s-c498399bdae75a3581791e6a
@@ -96,13 +96,13 @@ Papildyti Įstatymą 171 straipsniu:
 ### 2 straipsnis. 31 straipsnio pakeitimas ^s-6a38e202d069a150215079d6
 
 
-1. Papildyti 31 straipsnio 4 dalį nauju 6 punktu: ^s-644f63033d07b800bf9517c8
+1. Papildyti [[latest/TAR.D22016A0EC70#^s-8444d3ab79338a983e9cb4f8|31 straipsnio 4 dalį]] nauju [[latest/TAR.D22016A0EC70|6 punktu]]: ^s-644f63033d07b800bf9517c8
 
 
 „6) lėšos už aukciono būdu paskirstytas individualias žvejybos galimybes;“.
 
 
-2. Buvusį 31 straipsnio 4 dalies 6 punktą laikyti 7 punktu. ^s-68fc018598147b6a196c443d
+2. Buvusį [[latest/TAR.D22016A0EC70|31 straipsnio 4 dalies 6 punktą]] laikyti [[latest/TAR.D22016A0EC70|7 punktu]]. ^s-68fc018598147b6a196c443d
 
 
 

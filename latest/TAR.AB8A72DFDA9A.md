@@ -116,7 +116,7 @@ Pakeisti 254 straipsnio 3 dalį ir ją išdėstyti taip:
 2. 256 straipsnio 4 dalyje po žodžių „šio straipsnio“ įrašyti skaičių „1“ ir šią dalį išdėstyti taip: ^s-daefabb13b9b0326d51648fc
 
 
-„4. Šio straipsnio 1, 2 ir 3 dalių nuostatos netaikomos, kai kaltinime nurodyta veika perkvalifikuojama pagal baudžiamąjį įstatymą, numatantį lengvesnį nusikaltimą ar baudžiamąjį nusižengimą, jeigu iš esmės nesikeičia faktinės nusikalstamos veikos aplinkybės.“
+„4. Šio straipsnio [[#^s-a14a59bb5c14142f291a42c4|1]], 2 ir 3 dalių nuostatos netaikomos, kai kaltinime nurodyta veika perkvalifikuojama pagal baudžiamąjį įstatymą, numatantį lengvesnį nusikaltimą ar baudžiamąjį nusižengimą, jeigu iš esmės nesikeičia faktinės nusikalstamos veikos aplinkybės.“
 
 
 

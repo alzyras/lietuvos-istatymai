@@ -40,19 +40,19 @@ Vilnius
 ### 1 straipsnis. 13 straipsnio 1 dalies pakeitimas ^s-6dbdbfef306ccc4f2b9e9e84
 
 
-Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.A0A0CCC6B997#^s-5c95694bfe5f53f84c0a805c|13 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
-„1. Asmenims, padariusiems nusikalstamą veiką ar nuteistiems iki 2003 m. gegužės 1 d., apkaltinamojo nuosprendžio priėmimo ar apkaltinamojo nuosprendžio vykdymo senatis nustatoma vadovaujantis arba naujojo Baudžiamojo kodekso 3, 95 ir 96 straipsnių taisyklėmis, – kai senaties terminai pagal naujojo Baudžiamojo kodekso nuostatas yra tokie patys ar trumpesni, arba senojo Baudžiamojo kodekso 7, 49 ir 50 straipsnių taisyklėmis, – kai senaties terminai pagal naujojo Baudžiamojo kodekso nuostatas yra ilgesni.“
+„1. Asmenims, padariusiems nusikalstamą veiką ar nuteistiems iki 2003 m. gegužės 1 d., apkaltinamojo nuosprendžio priėmimo ar apkaltinamojo nuosprendžio vykdymo senatis nustatoma vadovaujantis arba naujojo Baudžiamojo kodekso [[latest/TAR.A0A0CCC6B997#^s-a2a812c2c853a6fbac6c123b|3]], [[latest/TAR.A0A0CCC6B997#^s-746057292ce26c57acf3058d|95]] ir [[latest/TAR.A0A0CCC6B997#^s-6c845af2634eb4395d8c1949|96]] straipsnių taisyklėmis, – kai senaties terminai pagal naujojo Baudžiamojo kodekso nuostatas yra tokie patys ar trumpesni, arba senojo Baudžiamojo kodekso [[latest/TAR.A0A0CCC6B997#^s-4929b83c970d6429293ec1c5|7]], [[latest/TAR.A0A0CCC6B997#^s-47517d3ebc5729877fa427d6|49]] ir [[latest/TAR.A0A0CCC6B997#^s-52af215b68646459a28231a6|50]] straipsnių taisyklėmis, – kai senaties terminai pagal naujojo Baudžiamojo kodekso nuostatas yra ilgesni.“
 
 
 ### 2 straipsnis. 36 straipsnio pakeitimas ^s-0b06a9599b4238bec506f61d
 
 
-Pakeisti 36 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.A0A0CCC6B997#^s-e3d5a3453c2172d5b7d024ed|36 straipsnį]] ir jį išdėstyti taip:
 
 
-„36 straipsnis. Teismingumo taisyklių taikymas ir bylos perdavimas nagrinėti teisiamajame posėdyje
+„[[latest/TAR.A0A0CCC6B997#^s-e3d5a3453c2172d5b7d024ed|36 straipsnis]]. Teismingumo taisyklių taikymas ir bylos perdavimas nagrinėti teisiamajame posėdyje
 
 
 1. Byloms, kurios teismui su kaltinamąja išvada buvo atsiųstos (perduotos) iki naujojo [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] įsigaliojimo, taikomos senajame [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekse]] nustatytos teismingumo taisyklės. ^s-b68668bcec45df2706733072

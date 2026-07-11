@@ -100,7 +100,7 @@ BENDROSIOS NUOSTATOS
 ### 3 straipsnis. LŠS veiklos teisiniai pagrindai ^s-de9bcd4173f5547ec602737f
 
 
-1. LŠS savo veiklą grindžia Lietuvos Respublikos Konstitucija, [[latest/TAR.A0BAB27D768C|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymu]], šiuo ir kitais Lietuvos Respublikos įstatymais, taip pat LŠS statutu, Šaulių etikos kodeksu ir kitais teisės aktais. ^s-dfe0dc74982013a3c7e62f3c
+1. LŠS savo veiklą grindžia [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), [[latest/TAR.A0BAB27D768C|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymu]], šiuo ir kitais Lietuvos Respublikos įstatymais, taip pat LŠS statutu, Šaulių etikos kodeksu ir kitais teisės aktais. ^s-dfe0dc74982013a3c7e62f3c
 
 
 2. [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatymas]] LŠS taikomas tiek, kiek jis neprieštarauja šiam įstatymui. ^s-d2c2cf159fcba15a86bc4891
@@ -401,13 +401,13 @@ INSTITUCIJOMIS BEI ĮSTAIGOMIS
 ### 14 straipsnis. LŠS pagalba kariuomenei, kai ši teikia pagalbą kitoms valstybės ir savivaldybių institucijoms bei įstaigoms ^s-43fc6d677e3acf004eb79875
 
 
-1. LŠS padeda kariuomenei, kai ši teikia pagalbą kitoms valstybės ir savivaldybių institucijoms bei įstaigoms [[latest/TAR.15C705E93776#^s-36d8ac0f08c2e0e9ded1c128|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies]] 1, 2, 3, 5 ir 7 punktuose nustatytais atvejais. ^s-ff7416b7baf99c5e192c6a6b
+1. LŠS padeda kariuomenei, kai ši teikia pagalbą kitoms valstybės ir savivaldybių institucijoms bei įstaigoms [[latest/TAR.15C705E93776#^s-36d8ac0f08c2e0e9ded1c128|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies]] [[latest/TAR.15C705E93776#^s-96b8895a3bf793ee23ffeb02|1]], [[latest/TAR.15C705E93776#^s-eb7f3891fe694bca930f18da|2]], [[latest/TAR.15C705E93776#^s-9b5a7bd472541de84861e1c8|3]], [[latest/TAR.15C705E93776#^s-10a52bd47f437c8fb48ebefa|5]] ir [[latest/TAR.15C705E93776#^s-15777b5bfc69ae11bcbc1bd9|7]] punktuose nustatytais atvejais. ^s-ff7416b7baf99c5e192c6a6b
 
 
-2. Kai [[latest/TAR.15C705E93776#^s-36d8ac0f08c2e0e9ded1c128|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies]] 2, 3 ir 7 punktuose nustatytais atvejais kariuomenė teikia pagalbą kitoms valstybės ar savivaldybių institucijoms ar įstaigoms, LŠS pagalba kariuomenei teikiama LŠS vado įsakymu, gavus kariuomenės vado prašymą. ^s-94b47e5d380ec60b5ea84c25
+2. Kai [[latest/TAR.15C705E93776#^s-36d8ac0f08c2e0e9ded1c128|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies]] [[latest/TAR.15C705E93776#^s-eb7f3891fe694bca930f18da|2]], [[latest/TAR.15C705E93776#^s-9b5a7bd472541de84861e1c8|3]] ir [[latest/TAR.15C705E93776#^s-15777b5bfc69ae11bcbc1bd9|7]] punktuose nustatytais atvejais kariuomenė teikia pagalbą kitoms valstybės ar savivaldybių institucijoms ar įstaigoms, LŠS pagalba kariuomenei teikiama LŠS vado įsakymu, gavus kariuomenės vado prašymą. ^s-94b47e5d380ec60b5ea84c25
 
 
-3. Kai [[latest/TAR.15C705E93776#^s-36d8ac0f08c2e0e9ded1c128|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies]] 1 ir 5 punktuose nustatytais atvejais kariuomenė teikia pagalbą kitoms valstybės ar savivaldybių institucijoms ar įstaigoms, LŠS pagalba kariuomenei teikiama LŠS vado ar jo įgalioto rinktinės vado įsakymu, gavus kariuomenės vado ar jo įgalioto atitinkamoje apskrityje veikiančio kariuomenės dalinio, kuriam priklausantis karinis vienetas teikia pagalbą civilinės saugos ir gelbėjimo sistemos pajėgoms ar policijai, vado prašymą. ^s-a5911bfc9be502c106f9948a
+3. Kai [[latest/TAR.15C705E93776#^s-36d8ac0f08c2e0e9ded1c128|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies]] [[latest/TAR.15C705E93776#^s-96b8895a3bf793ee23ffeb02|1]] ir [[latest/TAR.15C705E93776#^s-10a52bd47f437c8fb48ebefa|5]] punktuose nustatytais atvejais kariuomenė teikia pagalbą kitoms valstybės ar savivaldybių institucijoms ar įstaigoms, LŠS pagalba kariuomenei teikiama LŠS vado ar jo įgalioto rinktinės vado įsakymu, gavus kariuomenės vado ar jo įgalioto atitinkamoje apskrityje veikiančio kariuomenės dalinio, kuriam priklausantis karinis vienetas teikia pagalbą civilinės saugos ir gelbėjimo sistemos pajėgoms ar policijai, vado prašymą. ^s-a5911bfc9be502c106f9948a
 
 
 4. LŠS padaliniai, pagal šį straipsnį teikiantys pagalbą kariuomenei, priskiriami karinių vienetų, teikiančių pagalbą valstybės ar savivaldybių institucijoms ar įstaigoms, vadų operaciniam vadovavimui. LŠS pagalba kariuomenei teikiama pagal rinktinių vadų ir atitinkamose apskrityse veikiančių kariuomenės dalinių vadų parengtus planus. ^s-350ee5c7a6870ff783ded5d5
@@ -536,7 +536,7 @@ LŠS centrinės institucijos yra:
 5) LŠS Garbės teismas; ^s-73571ffbee044ec68124746e
 
 
-6) kitos šio straipsnio 1–[[#^s-73571ffbee044ec68124746e|5 punktuose]] nurodytų institucijų įsteigtos jų patariamosios ir pagalbinės institucijos. ^s-e9d120da29f501f659ff9f5c
+6) kitos šio straipsnio [[#^s-a46199e692fbd9c41bb43947|1]]–[[#^s-73571ffbee044ec68124746e|5]] punktuose nurodytų institucijų įsteigtos jų patariamosios ir pagalbinės institucijos. ^s-e9d120da29f501f659ff9f5c
 
 
 
@@ -856,7 +856,7 @@ LŠS centrinės institucijos yra:
 1) netekus Lietuvos Respublikos pilietybės; ^s-69c9979421a2d1634d93ab47
 
 
-2) atsiradus arba paaiškėjus bet kuriai iš [[#^s-882514734890e713ff689290|šio straipsnio 3 dalies]] 2–[[#^s-d7fd19a6cf2a891a10e68112|6 punktuose]] nustatytų aplinkybių; ^s-fb87b75ca3d274085e9f92d9
+2) atsiradus arba paaiškėjus bet kuriai iš [[#^s-882514734890e713ff689290|šio straipsnio 3 dalies]] 2–[[#^s-d7fd19a6cf2a891a10e68112|6]] punktuose nustatytų aplinkybių; ^s-fb87b75ca3d274085e9f92d9
 
 
 3) LŠS statuto nustatyta tvarka įsigaliojus LŠS vado ar jo įgalioto rinktinės vado įsakymui pašalinti asmenį iš LŠS už šiurkštų drausminį nusižengimą arba įsigaliojus rinktinės garbės teismo ar LŠS Garbės teismo sprendimui, kuriuo patvirtinamas tokio LŠS vado ar jo įgalioto rinktinės vado įsakymo pagrįstumas ir teisėtumas; ^s-fb9e51df33314343537cbb65
@@ -1003,7 +1003,7 @@ LŠS centrinės institucijos yra:
 6) lengvo sveikatos sutrikdymo atveju – 6 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio. ^s-7effe9a1679faffb6f5d8477
 
 
-5. Šio straipsnio 1, 3 ir [[#^s-2711afd4cd8290a3324847b3|4 dalyse]] nurodytos kompensacijos nemokamos šiais atvejais: ^s-cebc94c0c2153cacbe1b4d6e
+5. Šio straipsnio [[#^s-d55fac88ca8b6ff84788df62|1]], [[#^s-a283cc724beb02403db98481|3]] ir [[#^s-2711afd4cd8290a3324847b3|4]] dalyse nurodytos kompensacijos nemokamos šiais atvejais: ^s-cebc94c0c2153cacbe1b4d6e
 
 
 1) jeigu šaulys žuvo, susižalojo, buvo sužalotas ar jo sveikata buvo kitaip sutrikdyta jam darant tyčinę nusikalstamą veiką ar nevykdant teisėto įsakymo; ^s-46066953c37216aaf756550a
@@ -1030,7 +1030,7 @@ LŠS centrinės institucijos yra:
 7. [[#^s-8a25ad514d038a8ce4ec061c|Šio straipsnio 6 dalyje]] nurodytų tarnybinio tyrimo ir karinės medicinos ekspertizės komisijų sprendimai gali būti apskundžiami teismui per 10 dienų nuo išvadų įteikimo šauliui arba kitiems [[#^s-fda69b99007e88e68c7849db|šio straipsnio 2 dalyje]] nurodytiems asmenims ar jų atstovams. ^s-27f5a8e7b4ef6d64c3155159
 
 
-8. Šio straipsnio 1, 3 ir [[#^s-2711afd4cd8290a3324847b3|4 dalyse]] nurodytos kompensacijos mokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Krašto apsaugos ministro nustatyta tvarka jos gali būti išmokamos dalimis, bet ne vėliau kaip per 12 mėnesių. ^s-535cfe0f7a99fdf312e8eeba
+8. Šio straipsnio [[#^s-d55fac88ca8b6ff84788df62|1]], [[#^s-a283cc724beb02403db98481|3]] ir [[#^s-2711afd4cd8290a3324847b3|4]] dalyse nurodytos kompensacijos mokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų. Krašto apsaugos ministro nustatyta tvarka jos gali būti išmokamos dalimis, bet ne vėliau kaip per 12 mėnesių. ^s-535cfe0f7a99fdf312e8eeba
 
 
 9. Šauliui mirus dėl priežasčių, nesusijusių su šaulio tarnyba, šaulio šeimai gali būti išmokėta iki 12 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio vienkartinė pašalpa. Sutrikus šaulio sveikatai dėl priežasčių, nesusijusių su šaulio tarnyba, jam gali būti išmokėta iki 6 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio vienkartinė pašalpa. ^s-68c39c87e0b01d53031676fb
@@ -1067,7 +1067,7 @@ LŠS centrinės institucijos yra:
 7. Jeigu šaulio mirtis nėra susijusi su jo tarnyba, jam gali būti pastatytas krašto apsaugos ministro patvirtinto pavyzdžio antkapinis paminklas, bet jo statymo išlaidos gali būti apmokamos iš LŠS lėšų tik LŠS vado įsakymu su LŠS Centro valdybos pritarimu. Šiam tikslui negali būti naudojamos valstybės biudžeto lėšos. ^s-d7d95b21dfbcd1fbe2ab2461
 
 
-8. Šio straipsnio 1, 2 ir [[#^s-afe32b099de9c9a35977ac29|3 dalyse]] nustatytos garantijos netaikomos LŠS vadui ir šauliams, einantiems šio įstatymo [[#^s-cf4c5e74e149b87309f823da|36 straipsnyje]] nurodytas pareigas. ^s-1e7dc615d0b7000266db4771
+8. Šio straipsnio [[#^s-2c54df3d2faec91c9b3a3841|1]], [[#^s-800fde04517c77430f4fb0c4|2]] ir [[#^s-afe32b099de9c9a35977ac29|3]] dalyse nustatytos garantijos netaikomos LŠS vadui ir šauliams, einantiems šio įstatymo [[#^s-cf4c5e74e149b87309f823da|36 straipsnyje]] nurodytas pareigas. ^s-1e7dc615d0b7000266db4771
 
 
 
@@ -1113,7 +1113,7 @@ LŠS centrinės institucijos yra:
 1. Jaunieji šauliai negali būti skiriami atlikti šaulio tarnybą į LŠS kovinius būrius. ^s-166b414323c3156ec18653f1
 
 
-2. Jaunieji šauliai negali būti skiriami atlikti šaulio tarnybą vykdant šio įstatymo [[#^s-3c5eeeb4c338e4e26e8ef0b5|9 straipsnio 1 dalies]] 5, 7 punktuose ir [[#^s-2343f4fa6d81ce46ccf8ea96|2 dalyje]] nustatytas LŠS funkcijas. ^s-2343f4fa6d81ce46ccf8ea96
+2. Jaunieji šauliai negali būti skiriami atlikti šaulio tarnybą vykdant šio įstatymo [[#^s-3c5eeeb4c338e4e26e8ef0b5|9 straipsnio 1 dalies]] [[#^s-72159aa9f40afa3194bb3f86|5]], [[#^s-f424966c29ead2b5b375ba59|7]] punktuose ir 2 dalyje nustatytas LŠS funkcijas. ^s-2343f4fa6d81ce46ccf8ea96
 
 
 3. Draudžiamas jaunųjų šaulių karinis rengimas kovos veiksmams. ^s-74f107fcb12b4a88d1cf8442

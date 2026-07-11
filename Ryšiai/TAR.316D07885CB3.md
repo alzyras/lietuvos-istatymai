@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos diplomatinės tarnybos įstatymo įgyvendinim
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatymas]] - 2 citatos - Lietuvos Respublikos diplomatinės tarnybos įstatymo
+- [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatymas]] - Lietuvos Respublikos diplomatinės tarnybos įstatymo
 
 ## Šį įstatymą cituoja
 

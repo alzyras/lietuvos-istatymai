@@ -48,7 +48,7 @@ Pakeisti 26 straipsnio 1 dalį, straipsnį papildyti [[#^s-b260643fbc051d2b71eb8
 1. Moterų ir vyrų lygių galimybių kontrolieriui mokamas paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (VMDU) 5 dydžių atlyginimas. Kiti priedai ar premijos moterų ir vyrų lygių galimybių kontrolieriui nemokami. ^s-d2d69a994de833bc568b5556
 
 
-2. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, moterų ir vyrų lygių galimybių kontrolieriui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.“ ^s-b260643fbc051d2b71eb8d54
+2. Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatytą darbo apmokėjimo sistemą, moterų ir vyrų lygių galimybių kontrolieriui taikomos minėtu įstatymu nustatytos darbo apmokėjimo sąlygos.“ ^s-b260643fbc051d2b71eb8d54
 
 
 

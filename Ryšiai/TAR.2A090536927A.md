@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl Lietuvos kariuomenės padali
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A9C13A86ED0A#^s-d9eea1ace7e5f03bebc13fe6|Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS ĮSTATYMO “DĖL LIETUVOS KARIUOMENĖS PADALINIŲ DALYVAVIMO TARPTAUTINĖSE OPERACIJOSE” PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.A9C13A86ED0A#^s-d9eea1ace7e5f03bebc13fe6|Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymas]] - LIETUVOS RESPUBLIKOS ĮSTATYMO “DĖL LIETUVOS KARIUOMENĖS PADALINIŲ DALYVAVIMO TARPTAUTINĖSE OPERACIJOSE” PAKEITIMO ĮSTATYMAS

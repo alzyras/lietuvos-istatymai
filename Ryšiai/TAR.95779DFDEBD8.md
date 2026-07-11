@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A612711C3F71#^s-678e1037aa29e15f89a82c18|Lietuvos Respublikos tarnybinio paso įstatymas]] - 3 citatos - 1101010ISTA0XI-1059
-- [[latest/TAR.A612711C3F71#^s-816c8f68b57d3073bbf4acf2|Lietuvos Respublikos tarnybinio paso įstatymas]] - 3 citatos - 1101010ISTA0XI-1059
+- [[latest/TAR.A612711C3F71#^s-816c8f68b57d3073bbf4acf2|Lietuvos Respublikos tarnybinio paso įstatymas]] - 2 citatos - 1101010ISTA0XI-1059

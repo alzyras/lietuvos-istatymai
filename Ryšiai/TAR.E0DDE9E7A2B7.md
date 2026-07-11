@@ -9,11 +9,10 @@ pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, na
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D5496D69DF98#^s-45c3ad45c3177d258236c9d3|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 2 citatos - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 15 straipsnio 5 dalis
-- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - 2 citatos - Valstybės ir tarnybos paslapčių įstatymo
-- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - Vietos savivaldos įstatyme
+- [[latest/TAR.D5496D69DF98#^s-45c3ad45c3177d258236c9d3|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 15 straipsnio 5 dalis
+- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - Valstybės ir tarnybos paslapčių įstatymo
+- [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymas]] - Vietos savivaldos įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D5496D69DF98#^s-96b6c331d00aa138b840e3cc|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - Įstatymas Nr. X-771
-- [[latest/TAR.D5496D69DF98#^s-e9e2aec5bba3abafcff3a61c|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - Įstatymas Nr. X-771
+_Nėra._

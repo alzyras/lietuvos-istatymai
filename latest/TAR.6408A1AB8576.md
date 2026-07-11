@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio 2 dalies pakeitimas ir papildymas ^s-5ecf0d39418121c069df1da3
 
 
-1 straipsnio 2 dalies 29–[[#^s-cb361e5c1c34126ebadfcd66|38 punktus]] laikyti atitinkamai 28–[[#^s-1e7639fbb5ef26a15abfab33|37 punktais]], dalį papildyti nauju [[#^s-cb361e5c1c34126ebadfcd66|38 punktu]] ir šią dalį išdėstyti taip:
+1 straipsnio 2 dalies 29–38 punktus laikyti atitinkamai 28–37 punktais, dalį papildyti nauju [[#^s-cb361e5c1c34126ebadfcd66|38 punktu]] ir šią dalį išdėstyti taip:
 
 
 „2. Nustatyti šias atmintinas dienas:

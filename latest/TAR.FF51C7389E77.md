@@ -410,7 +410,7 @@ Kiekvienas fizinis asmuo, kurio garbę ir orumą žemina visuomenės informavimo
 ### 18 straipsnis. Nepilnamečių apsauga ^s-2dba22a0e89ba35296949ea4
 
 
-1. Nepilnamečiai turi būti apsaugoti, kaip to reikalauja Vaiko teisių apsaugos pagrindų ir kiti įstatymai, Jungtinių Tautų Organizacijos Vaiko teisių konvencija bei Lietuvos Respublikos tarptautinės sutartys, nuo jų fiziniam, protiniam ir doroviniam vystymuisi kenkiančios viešosios informacijos, ypač susijusios su pornografija ir (ar) savitiksliu smurto vaizdavimu. ^s-3d26046c9fe63f84e4751fa7
+1. Nepilnamečiai turi būti apsaugoti, kaip to reikalauja Vaiko teisių apsaugos pagrindų ir kiti įstatymai, Jungtinių Tautų Organizacijos [Vaiko teisių konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.48A4910C899F) bei Lietuvos Respublikos tarptautinės sutartys, nuo jų fiziniam, protiniam ir doroviniam vystymuisi kenkiančios viešosios informacijos, ypač susijusios su pornografija ir (ar) savitiksliu smurto vaizdavimu. ^s-3d26046c9fe63f84e4751fa7
 
 
 2. Viešosios informacijos, kuri gali turėti neigiamą poveikį nepilnamečių fiziniam, protiniam ar doroviniam vystymuisi, priskyrimo kriterijus nustato atskiras įstatymas. ^s-1390dc0d434b1cf14d9202ef
@@ -510,7 +510,7 @@ teisinis statusas ir veiklos sąlygos
 1. Viešosios informacijos rengėjų, platintojų ir jų savininkų santykius reglamentuoja šis ir kiti įstatymai, norminiai teisės aktai ir šalių susitarimai. ^s-154231ecc3c0cad86a74562f
 
 
-2. Viešosios informacijos rengėjais ir (ar) platintojais gali būti Lietuvos Respublikos ir užsienio valstybių fiziniai asmenys bei visų rūšių įmonės ir organizacijos, įstatymų nustatyta tvarka įsteigusios įmonę ar savo įmonės padalinį Lietuvos Respublikoje, išskyrus šio straipsnio 4, 5, [[#^s-850ed718c00377def19d8857|6 dalyse]] ir kitų įstatymų nurodytus asmenis. ^s-0962b355e75dbc6e77dbb5ed
+2. Viešosios informacijos rengėjais ir (ar) platintojais gali būti Lietuvos Respublikos ir užsienio valstybių fiziniai asmenys bei visų rūšių įmonės ir organizacijos, įstatymų nustatyta tvarka įsteigusios įmonę ar savo įmonės padalinį Lietuvos Respublikoje, išskyrus šio straipsnio [[#^s-dad644cdbdca75bb56bfb52b|4]], [[#^s-3fff5e8164e9084a454df5e5|5]], [[#^s-850ed718c00377def19d8857|6]] dalyse ir kitų įstatymų nurodytus asmenis. ^s-0962b355e75dbc6e77dbb5ed
 
 
 3. Viešosios informacijos rengėjo ar platintojo savininkas gali įstatymų nustatytais atvejais ir tvarka nutraukti ar reorganizuoti viešosios informacijos rengimo ir (ar) platinimo veiklą arba perleisti rengėją ar platintoją kitiems [[#^s-0962b355e75dbc6e77dbb5ed|šio straipsnio 2 dalyje]] nurodytiems asmenims. Parduodant ar kitaip perleidžiant ne mažiau kaip 10 procentų transliuotojo ar operatoriaus akcijų, būtina apie akcijų pardavimą ar perleidimą informuoti Lietuvos radijo ir televizijos komisiją. Jei pardavus ar kitaip perleidus transliuotojo ar operatoriaus akcijas, keičiasi kontrolinio akcijų paketo savininkas (savininkai), parduodant ar kitaip perleidžiant akcijas privaloma gauti Lietuvos radijo ir televizijos komisijos rašytinį sutikimą dėl minėtų akcijų pardavimo ar kitokio perleidimo. Šis reikalavimas taikomas ir tais atvejais, kai pardavus ar kitaip perleidus transliuotojo ar operatoriaus turtą ar turto dalį (jei turtas yra neakcionuotas), transliuotojo ar operatoriaus kontrolė pereina kitam asmeniui. ^s-da7958a425e0bc501c31f095
@@ -713,7 +713,7 @@ Lietuvos nacionalinis radijas ir televizija (toliau – LRT) – valstybei nuosa
 3) iki 20 W galios radijo, televizijos stočiai mokslo ir mokymo institucijų šviečiamosioms ir kultūrinėms programoms transliuoti – ne ilgiau kaip 3 metams; ^s-bfe09b5f81835afa87b6d61f
 
 
-4) savininkams bendrųjų priėmimo tinklų, prie kurių prijungta ar gali būti prijungta per 300 butų (valdų) – ne ilgiau kaip 3 metams. Bendrųjų priėmimo tinklų, prie kurių prijungta ar gali būti prijungta mažiau kaip 300 butų (valdų), savininkai privalo gauti leidimus Telekomunikacijų įstatymo nustatyta tvarka. ^s-c1663a53a89225e581658ba1
+4) savininkams bendrųjų priėmimo tinklų, prie kurių prijungta ar gali būti prijungta per 300 butų (valdų) – ne ilgiau kaip 3 metams. Bendrųjų priėmimo tinklų, prie kurių prijungta ar gali būti prijungta mažiau kaip 300 butų (valdų), savininkai privalo gauti leidimus [Telekomunikacijų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.027489452776) nustatyta tvarka. ^s-c1663a53a89225e581658ba1
 
 
 9. Komisija licencijas nacionalinio masto transliuotojams ir kabelinės televizijos bei MDTV operatoriams išduoda ne ilgiau kaip 10 metų, regioninio masto transliuotojams – ne ilgiau kaip 5 metams, vietiniams transliuotojams – ne ilgiau kaip 3 metams. ^s-1b78bdcbd9a51e05e8f224e5
@@ -878,7 +878,7 @@ c) minėtose valstybėse įsisteigusių kūrėjų įnašas į šių kūrinių be
 2. Kūriniai, kurie, remiantis [[#^s-f5ea40368102efdc9a6c4038|šio straipsnio 1 dalies]] nuostatomis, neturėtų būti laikomi Europos kūriniais, bet yra sukurti remiantis dvišalėmis bendro kūrimo (gamybos) sutartimis tarp valstybių Europos Sąjungos narių ir trečiųjų Europos valstybių, traktuojami kaip Europos kūriniai, jeigu Europos Sąjungos kūrėjų įnašas sudaro didžiąją bendro kūrimo (gamybos) išlaidų dalį ir jeigu jų kūrimas (gamyba) nėra kontroliuojamas kūrėjų, įsisteigusių valstybėje ne Europos Sąjungos narėje. ^s-1597646e537a29c5bd8c3b68
 
 
-3. Kūriniai, kurie, remiantis šio straipsnio 1 ir [[#^s-1597646e537a29c5bd8c3b68|2 dalių]] nuostatomis, neturėtų būti laikomi Europos kūriniais, bet iš esmės yra sukurti bendradarbiaujant su autoriais ir kūrėjais, gyvenančiais vienoje ar keliose valstybėse Europos Sąjungos narėse, traktuojami kaip Europos kūriniai tokiu mastu, kuris atitinka valstybėse Europos Sąjungos narėse įsisteigusių kūrėjų įnašą į šių kūrinių bendro kūrimo (gamybos) išlaidas. ^s-830154f4e40cdb31b7d8d5b9
+3. Kūriniai, kurie, remiantis šio straipsnio [[#^s-f5ea40368102efdc9a6c4038|1]] ir [[#^s-1597646e537a29c5bd8c3b68|2]] dalių nuostatomis, neturėtų būti laikomi Europos kūriniais, bet iš esmės yra sukurti bendradarbiaujant su autoriais ir kūrėjais, gyvenančiais vienoje ar keliose valstybėse Europos Sąjungos narėse, traktuojami kaip Europos kūriniai tokiu mastu, kuris atitinka valstybėse Europos Sąjungos narėse įsisteigusių kūrėjų įnašą į šių kūrinių bendro kūrimo (gamybos) išlaidas. ^s-830154f4e40cdb31b7d8d5b9
 
 
 
@@ -900,7 +900,7 @@ c) minėtose valstybėse įsisteigusių kūrėjų įnašas į šių kūrinių be
 3) Lietuvos Respublikoje visuomenei itin reikšmingais įvykiais laikoma: olimpinės vasaros ir žiemos žaidynės, pasaulio ir Europos krepšinio čempionatai, pasaulio futbolo taurės varžybos, Europos futbolo čempionatas, Lietuvos dainų šventės, iškilmingi Lietuvos valstybinių švenčių minėjimai. Vyriausybė gali nustatyti ir kitus visuomenei itin reikšmingus įvykius; ^s-bf6745cb18dfe93244a16701
 
 
-4) šios dalies 1 ir [[#^s-2263c88571838137280de77f|2 punktų]] nuostatoms įgyvendinti būtinus reikalavimus nustato licenciją turintiems transliuotojams – Lietuvos radijo ir televizijos komisija, Lietuvos nacionaliniam radijui ir televizijai – LRT taryba. ^s-3c13cc2a1843832813aa6e59
+4) šios dalies [[#^s-0ffba6a1daf19aa841a3b3a1|1]] ir [[#^s-2263c88571838137280de77f|2]] punktų nuostatoms įgyvendinti būtinus reikalavimus nustato licenciją turintiems transliuotojams – Lietuvos radijo ir televizijos komisija, Lietuvos nacionaliniam radijui ir televizijai – LRT taryba. ^s-3c13cc2a1843832813aa6e59
 
 
 3. Televizijos transliuotojai turi daugiau kaip pusę programos laiko, kuris lieka atėmus laiką, skirtą žinių, sporto, žaidimų, reklamos laidoms, teleteksto paslaugoms ir teleparduotuvei, kai tai įmanoma, skirti Europos kūriniams. ^s-cbfb3f5b34b0e039742d8b8f
@@ -915,7 +915,7 @@ c) minėtose valstybėse įsisteigusių kūrėjų įnašas į šių kūrinių be
 6. Radijo, televizijos programoje ne rečiau kaip kartą per valandą turi būti skelbiamas programą transliuojančios stoties arba retransliuojamos programos pavadinimas. Jeigu radijo, televizijos stoties programa yra trumpesnė nei valanda, programos pavadinimas skelbiamas programos pabaigoje. ^s-d52aed96987b10519801defd
 
 
-7. Šio straipsnio 3 ir [[#^s-283b712015983d748f85a4ba|4 dalyse]] nurodyti reikalavimai netaikomi vietiniams televizijos transliuotojams. ^s-b59dbe9b75a14d23ac6c1877
+7. Šio straipsnio [[#^s-cbfb3f5b34b0e039742d8b8f|3]] ir [[#^s-283b712015983d748f85a4ba|4]] dalyse nurodyti reikalavimai netaikomi vietiniams televizijos transliuotojams. ^s-b59dbe9b75a14d23ac6c1877
 
 
 
@@ -994,7 +994,7 @@ c) minėtose valstybėse įsisteigusių kūrėjų įnašas į šių kūrinių be
 9) kai dėl reklamos pertraukiamos kitokio pobūdžio laidos, negu nurodytos [[#^s-fe0b4eb422730e668d6c3b66|šios dalies 7 punkte]], po kiekvieno eilinio reklamos intarpo toje programoje turi praeiti ne mažiau kaip 20 minučių; ^s-b6f131afcc27a3f8b00dbb0d
 
 
-10) šios dalies 3, 4, 5, 6, [[#^s-462f6c59367c16da40fb9e87|8 punktų]] nuostatos netaikomos toms televizijos laidoms, kurios yra skirtos transliuoti tik nacionalinei teritorijai, taip pat toms laidoms, kurių tiesiogiai ar netiesiogiai negali priimti kitų valstybių Europos Sąjungos narių gyventojai. ^s-ba8f14280a4f7420262c10a3
+10) šios dalies [[#^s-52097dfc796c4e022b24e5c1|3]], [[#^s-b0f1d4e66bb8f578a98915e3|4]], [[#^s-c494890b63dfaf0f8c194d96|5]], [[#^s-9eef858137cceb774cfe83af|6]], [[#^s-462f6c59367c16da40fb9e87|8]] punktų nuostatos netaikomos toms televizijos laidoms, kurios yra skirtos transliuoti tik nacionalinei teritorijai, taip pat toms laidoms, kurių tiesiogiai ar netiesiogiai negali priimti kitų valstybių Europos Sąjungos narių gyventojai. ^s-ba8f14280a4f7420262c10a3
 
 
 11. Kaip laikomasi šiame ir kituose įstatymuose nustatytų reikalavimų reklamai, kontroliuoja Nacionalinė vartotojų teisių apsaugos taryba ir Konkurencijos taryba, bendradarbiaudamos su viešosios informacijos rengėjų ir (ar) platintojų veiklos reglamentavimo institucijomis bei reklamos savitvarkos institucijomis. ^s-1c38969eac16b12c356062df
@@ -1180,7 +1180,7 @@ Viešosios informacijos RENGĖJŲ IR PLATINTOJŲ VEIKLOS REGlamentavimo IR savit
 6. Į Komisiją gali kreiptis visi suinteresuoti asmenys. ^s-192b5d6d8abc5b85196e1b6b
 
 
-7. Komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Respublikos Prezidento dekretais, kitais Seimo ir Vyriausybės priimtais teisės aktais, taip pat Lietuvos žurnalistų ir leidėjų etikos kodeksu, Europos Tarybos Parlamentinės Asamblėjos rezoliucija „Dėl žurnalistinės etikos“. ^s-c28da5765b4b332a10e2d8ab
+7. Komisija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Respublikos Prezidento dekretais, kitais Seimo ir Vyriausybės priimtais teisės aktais, taip pat Lietuvos žurnalistų ir leidėjų etikos kodeksu, Europos Tarybos Parlamentinės Asamblėjos rezoliucija „Dėl žurnalistinės etikos“. ^s-c28da5765b4b332a10e2d8ab
 
 
 8. Komisija dirba pagal pačios patvirtintą reglamentą. Komisijos sprendimai dėl profesinės etikos ar kitų pažeidimų turi būti skelbiami nedelsiant tose pačiose visuomenės informavimo priemonėse, kuriose Komisija nustatė tuos pažeidimus. Jei visuomenės informavimo rengėjas ir (ar) platintojas nepaskelbia Komisijos sprendimo dėl profesinės etikos ar kitų pažeidimų savo visuomenės informavimo priemonėje, Komisijos sprendimas skelbiamas per Lietuvos nacionalinį radiją. ^s-3c1c1fa89f52de525ce97e2c
@@ -1199,7 +1199,7 @@ Viešosios informacijos RENGĖJŲ IR PLATINTOJŲ VEIKLOS REGlamentavimo IR savit
 1. Lietuvos radijo ir televizijos komisija (toliau šiame ir [[#^s-364d743e9b057b6f6c9e13a9|49 straipsniuose]] – Komisija) – nepriklausoma Seimui atskaitinga komercinių radijo ir televizijos transliuotojų veiklą reglamentuojanti bei prižiūrinti institucija. Komisija dalyvauja formuojant valstybės audiovizualinę politiką. Ji yra Seimo bei Vyriausybės ekspertė radijo ir televizijos transliavimo klausimais. ^s-9187da5552618b6b701a4e47
 
 
-2. Komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais bei norminiais aktais, taip pat pačios pasitvirtintais nuostatais. ^s-739ea0367ba78d4dd7e85864
+2. Komisija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais bei norminiais aktais, taip pat pačios pasitvirtintais nuostatais. ^s-739ea0367ba78d4dd7e85864
 
 
 3. Komisija yra juridinis asmuo, turi savo antspaudą bei sąskaitų bankuose. Komisijos būstinė yra Vilniuje. ^s-31dac531643d0ede13ab7255
@@ -1242,7 +1242,7 @@ Viešosios informacijos RENGĖJŲ IR PLATINTOJŲ VEIKLOS REGlamentavimo IR savit
 1. Komisijos funkcijos: ^s-e4cd2bdef29d797981ead97a
 
 
-1) kartu su Ryšių reguliavimo tarnyba Telekomunikacijų įstatymo nustatyta tvarka rengti radijo ir televizijos programų transliavimo strategiją ir strateginį planą; ^s-34986ecc9e004edd348a7894
+1) kartu su Ryšių reguliavimo tarnyba [Telekomunikacijų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.027489452776) nustatyta tvarka rengti radijo ir televizijos programų transliavimo strategiją ir strateginį planą; ^s-34986ecc9e004edd348a7894
 
 
 2) šio įstatymo [[#^s-b03783420355204adddc7758|31 straipsnyje]] nustatytais atvejais skelbti konkursus transliavimo ir (ar) retransliavimo licencijoms gauti, nustatyti šių konkursų ir licencijų sąlygas, konkurso dalyvių registracijos ir licencijos mokesčių dydį, priimti sprendimus dėl konkursų rezultatų ir licencijų išdavimo bei kontroliuoti, kaip laikomasi licencijų sąlygų ir Komisijos priimtų sprendimų; ^s-35d56a860396e8d565ec5bf7
@@ -1291,7 +1291,7 @@ Viešosios informacijos RENGĖJŲ IR PLATINTOJŲ VEIKLOS REGlamentavimo IR savit
 4. Žurnalistų etikos inspektoriumi negali būti Seimo, Vyriausybės nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai. Žurnalistų etikos inspektorius bei jo šeimos nariai negali būti susiję darbo santykiais su visuomenės informavimo rengėjais ir (ar) platintojais, negali turėti visuomenės informavimo rengėjų ir (ar) platintojų akcijų. ^s-6485bc57f78cc1953eba70c0
 
 
-5. Žurnalistų etikos inspektorius vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Respublikos Prezidento dekretais, kitais Seimo ir Vyriausybės priimtais teisės aktais. ^s-3e591023de744d732ae0ec5f
+5. Žurnalistų etikos inspektorius vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Respublikos Prezidento dekretais, kitais Seimo ir Vyriausybės priimtais teisės aktais. ^s-3e591023de744d732ae0ec5f
 
 
 6. Žurnalistų etikos inspektorius savo veiklą grindžia teisėtumo, nešališkumo, teisingumo ir viešumo principais. ^s-4323d61481e8f2dd09c2481d
@@ -1456,14 +1456,14 @@ TEISĖS AKTŲ PAŽEIDIMUS IR JOS ĮGYVENDINIMO TVARKA
 1) [[latest/TAR.065AB8483E1E|Lietuvos Respublikos visuomenės informavimo įstatymas]] (Žin., 1996, Nr. 71-1706, Nr. 82-1971, Nr. 121-2848; 1997, Nr. 12-232, Nr. 67-1677, Nr. 91-2271; 1998, Nr. 8-166); ^s-92d931bf16588b1ad53da0c8
 
 
-2) [[latest/TAR.065AB8483E1E|Lietuvos Respublikos visuomenės informavimo įstatymo]] įgyvendinimo įstatymas (Žin., 1996, Nr. 71-1707). ^s-62fa7f1f0c9d0925fd7971ea
+2) [Lietuvos Respublikos visuomenės informavimo įstatymo įgyvendinimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.67D76F2910A0) (Žin., 1996, Nr. 71-1707). ^s-62fa7f1f0c9d0925fd7971ea
 
 
 
 ### 3 straipsnis. Įstatymo įgyvendinimas ^s-30081d07f2c6a5d8751e4658
 
 
-1. Televizijos transliuotojai, išskyrus vietinius, įsipareigoję savo žiūrovams transliuoti informacinio, švietimo, kultūrinio ar pramoginio pobūdžio programas, privalo įgyvendinti [[latest/TAR.065AB8483E1E#^s-71173341a529f158f473d125|Visuomenės informavimo įstatymo 38 straipsnio]] 3 ir 4 dalių nuostatas. Šių nuostatų reikalavimai įgyvendinami nuosekliai, kiek tai praktiškai įmanoma, tačiau įstatymo įsigaliojimo metu pasiekti Europos kūrinių ir nepriklausomų kūrėjų produkcijos transliavimo mastai negali būti sumažinti. Transliuotojai (išskyrus LRT) kas 2 metai pateikia Radijo ir televizijos komisijai ataskaitą dėl [[latest/TAR.065AB8483E1E#^s-71173341a529f158f473d125|Visuomenės informavimo įstatymo 38 straipsnio]] 3 ir 4 dalių nuostatų įgyvendinimo. Ataskaitoje turi būti nurodytos priežastys, kurios trukdo šias nuostatas įgyvendinti bei kokių priemonių imtasi ar numatoma imtis trūkumams pašalinti. Taikant [[latest/TAR.065AB8483E1E#^s-71173341a529f158f473d125|Visuomenės informavimo įstatymo 38 straipsnio]] 3 ir 4 dalių nuostatas, atsižvelgiama į tai, kad teminiams kanalams nėra tinkamų Europos kūrinių, taip pat į tai, kad televizijos transliuotojas dar tik pradeda savo veiklą. ^s-b4615630615584475e921dd2
+1. Televizijos transliuotojai, išskyrus vietinius, įsipareigoję savo žiūrovams transliuoti informacinio, švietimo, kultūrinio ar pramoginio pobūdžio programas, privalo įgyvendinti [[latest/TAR.065AB8483E1E#^s-71173341a529f158f473d125|Visuomenės informavimo įstatymo 38 straipsnio]] [[latest/TAR.065AB8483E1E#^s-ee63391aff5540d869c388bf|3]] ir [[latest/TAR.065AB8483E1E#^s-452c8c62a537552942ed3327|4]] dalių nuostatas. Šių nuostatų reikalavimai įgyvendinami nuosekliai, kiek tai praktiškai įmanoma, tačiau įstatymo įsigaliojimo metu pasiekti Europos kūrinių ir nepriklausomų kūrėjų produkcijos transliavimo mastai negali būti sumažinti. Transliuotojai (išskyrus LRT) kas 2 metai pateikia Radijo ir televizijos komisijai ataskaitą dėl [[latest/TAR.065AB8483E1E#^s-71173341a529f158f473d125|Visuomenės informavimo įstatymo 38 straipsnio]] [[latest/TAR.065AB8483E1E#^s-ee63391aff5540d869c388bf|3]] ir [[latest/TAR.065AB8483E1E#^s-452c8c62a537552942ed3327|4]] dalių nuostatų įgyvendinimo. Ataskaitoje turi būti nurodytos priežastys, kurios trukdo šias nuostatas įgyvendinti bei kokių priemonių imtasi ar numatoma imtis trūkumams pašalinti. Taikant [[latest/TAR.065AB8483E1E#^s-71173341a529f158f473d125|Visuomenės informavimo įstatymo 38 straipsnio]] [[latest/TAR.065AB8483E1E#^s-ee63391aff5540d869c388bf|3]] ir [[latest/TAR.065AB8483E1E#^s-452c8c62a537552942ed3327|4]] dalių nuostatas, atsižvelgiama į tai, kad teminiams kanalams nėra tinkamų Europos kūrinių, taip pat į tai, kad televizijos transliuotojas dar tik pradeda savo veiklą. ^s-b4615630615584475e921dd2
 Straipsnio dalies pakeitimai:
 Nr. IX-39, 2000-11-21, Žin., 2000, Nr. 102-3215 (2000-11-29), i. k. [[latest/TAR.7181DF7AABFF|1001010ISTA000IX-39]]
 

@@ -74,10 +74,10 @@ Nr. 50-1599; 2000, Nr. 28-763, Nr. 111-3577; 2001, Nr. 91-3189, Nr. 103-3657)
 ### 2 straipsnis. Įstatymo įsigaliojimas ^s-918afe64d326205fbf14b1ca
 
 
-1. Šis Įstatymas, išskyrus [[#^s-42cc553187400396d29f2a6f|1 straipsnio 5 dalies]] nuostatas dėl Valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalies 12 punkto pakeitimo, įsigalioja nuo 2003 m. sausio 1 d. ^s-709044210eca9e3d9d557005
+1. Šis Įstatymas, išskyrus [[#^s-42cc553187400396d29f2a6f|1 straipsnio 5 dalies]] nuostatas dėl [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalies 12 punkto]] pakeitimo, įsigalioja nuo 2003 m. sausio 1 d. ^s-709044210eca9e3d9d557005
 
 
-2. Šio Įstatymo [[#^s-42cc553187400396d29f2a6f|1 straipsnio 5 dalies]] nuostatos dėl Valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalies 12 punkto pakeitimo įsigalioja nuo 2004 m. sausio 1 d. ^s-2222164b70b967e45ed92f32
+2. Šio Įstatymo [[#^s-42cc553187400396d29f2a6f|1 straipsnio 5 dalies]] nuostatos dėl [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalies 12 punkto]] pakeitimo įsigalioja nuo 2004 m. sausio 1 d. ^s-2222164b70b967e45ed92f32
 
 
 

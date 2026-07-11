@@ -170,7 +170,7 @@ Pakeisti 218 straipsnį ir jį išdėstyti taip:
 2. [[#^s-82cec97a2b5bf978b4a1d931|Šio straipsnio 1 dalyje]] numatyti proceso dalyviai turi teisę per prokuroro nustatytą terminą pateikti prašymą susipažinti su ikiteisminio tyrimo medžiaga. Jeigu yra toks jų prašymas, jie supažindinami su ikiteisminio tyrimo medžiaga. Gali būti supažindinama įteikiant ikiteisminio tyrimo medžiagos kopiją. Tais atvejais, kai kopija neįteikiama, prokuroras nustato terminą, per kurį proceso dalyviai turi teisę susipažinti su ikiteisminio tyrimo medžiaga ir pateikti prašymus dėl ikiteisminio tyrimo papildymo. ^s-5aeacd2a0c4b9eb97b65e706
 
 
-3. Kai ikiteisminį tyrimą ar daugumą jo veiksmų atliko ikiteisminio tyrimo pareigūnas, prokuroras, įsitikinęs, jog ikiteisminio tyrimo metu surinkta pakankamai duomenų, pagrindžiančių įtariamojo kaltę dėl nusikalstamos veikos padarymo, gali jam pavesti atlikti šio straipsnio 1 ir [[#^s-5aeacd2a0c4b9eb97b65e706|2 dalyse]] numatytus veiksmus. ^s-6387b7ecbde6d21793c536c4
+3. Kai ikiteisminį tyrimą ar daugumą jo veiksmų atliko ikiteisminio tyrimo pareigūnas, prokuroras, įsitikinęs, jog ikiteisminio tyrimo metu surinkta pakankamai duomenų, pagrindžiančių įtariamojo kaltę dėl nusikalstamos veikos padarymo, gali jam pavesti atlikti šio straipsnio [[#^s-82cec97a2b5bf978b4a1d931|1]] ir [[#^s-5aeacd2a0c4b9eb97b65e706|2]] dalyse numatytus veiksmus. ^s-6387b7ecbde6d21793c536c4
 
 
 4. Gautus prašymus papildyti ikiteisminį tyrimą motyvuotu nutarimu išsprendžia prokuroras. Jeigu prokuroras nusprendė atlikti papildomus proceso veiksmus, [[#^s-82cec97a2b5bf978b4a1d931|šio straipsnio 1 dalyje]] numatyti proceso dalyviai supažindinami tik su medžiaga, gauta atlikus papildomus proceso veiksmus. ^s-556a366873e7e53d36656ddd
@@ -274,13 +274,13 @@ Pakeisti 239 straipsnio 1 dalį, ją papildyti [[#^s-37d268cc4812a110e4d52584|3 
 1. Papildyti 306 straipsnio 1 dalį ir ją išdėstyti taip: ^s-22a0d0cc2a61871ac7c3c22e
 
 
-„1. Apylinkės teismo teisėjas, surašydamas apkaltinamąjį nuosprendį, aprašomojoje dalyje gali nedėstyti šio Kodekso 305 straipsnio 1 dalies 2, 3 ir 4 punktuose ir 5 dalyje numatytų aplinkybių, išskyrus bylas, kuriose asmenys kaltinami padarę nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 135 straipsnio 1 dalyje, 149 straipsnio 1, 2 ir 3 dalyse, 150 straipsnio 1, 2 ir 3 dalyse, 180 straipsnio 2 ir 3 dalyse, 182 straipsnio 2 dalyje ir 260 straipsnio 1 ir [[#^s-07a373ec283197b25e43a7a3|2 dalyse]].“
+„1. Apylinkės teismo teisėjas, surašydamas apkaltinamąjį nuosprendį, aprašomojoje dalyje gali nedėstyti šio Kodekso 305 straipsnio 1 dalies 2, 3 ir 4 punktuose ir 5 dalyje numatytų aplinkybių, išskyrus bylas, kuriose asmenys kaltinami padarę nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 135 straipsnio 1 dalyje, 149 straipsnio 1, 2 ir 3 dalyse, 150 straipsnio 1, 2 ir 3 dalyse, 180 straipsnio 2 ir 3 dalyse, 182 straipsnio 2 dalyje ir 260 straipsnio 1 ir 2 dalyse.“
 
 
 2. Pakeisti 306 straipsnio 3 dalį ir ją išdėstyti taip: ^s-07a373ec283197b25e43a7a3
 
 
-„3. Jeigu pateikiamas [[#^s-07a373ec283197b25e43a7a3|šio straipsnio 2 dalyje]] numatytas rašytinis prašymas arba nuosprendis apskundžiamas apeliacinės ar kasacinės instancijos teismui, nuosprendį priėmęs teisėjas per tris dienas nuo prašymo ar skundo gavimo dienos surašo nesutrumpintą aprašomąją nuosprendžio dalį. Naujai surašytą aprašomąją nuosprendžio dalį teisėjas pasirašo ir prideda prie jau esančio nuosprendžio.“
+„3. Jeigu pateikiamas šio straipsnio 2 dalyje numatytas rašytinis prašymas arba nuosprendis apskundžiamas apeliacinės ar kasacinės instancijos teismui, nuosprendį priėmęs teisėjas per tris dienas nuo prašymo ar skundo gavimo dienos surašo nesutrumpintą aprašomąją nuosprendžio dalį. Naujai surašytą aprašomąją nuosprendžio dalį teisėjas pasirašo ir prideda prie jau esančio nuosprendžio.“
 
 
 
@@ -401,7 +401,7 @@ Papildyti 421 straipsnį nauju [[#^s-68ace43f9677c818b5100d13|4 punktu]], buvus�
 Teisėjo surašytame teismo baudžiamajame įsakyme turi būti:
 
 
-1) nurodyti šio Kodekso 419 straipsnio 1–[[#^s-68ace43f9677c818b5100d13|4 punktuose]] išvardyti duomenys; ^s-2dfae12017667a74954bfda0
+1) nurodyti šio Kodekso 419 straipsnio 1–4 punktuose išvardyti duomenys; ^s-2dfae12017667a74954bfda0
 
 
 2) sprendimas pripažinti kaltinamąjį kaltu; ^s-7f2265138f3ceac291fe0b9d

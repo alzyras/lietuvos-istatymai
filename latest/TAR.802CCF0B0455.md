@@ -5165,7 +5165,7 @@ tūkst. Lt
 
 
  Savivaldybės pavadinimas
- Dėl darbo užmokesčio koeficiento taikymo 2002-2004 m.
+ [Dėl darbo užmokesčio](https://e-tar.lt/portal/lt/legalAct/TAR.3A55ECEE9ACE) koeficiento taikymo 2002-2004 m.
 
 
  Klaipėdos miesto

@@ -75,7 +75,7 @@ Nr. XIV-2318, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25071
 1. Antstoliai, atlikdami savo funkcijas, privalo vadovautis antstolių veiklos teisėtumo, kooperacijos ir demokratiškumo, taip pat civilinio proceso principais. Antstolis privalo sąžiningai atlikti profesines pareigas, neatskleisti profesinės veiklos metu jam paaiškėjusių asmeninio gyvenimo aplinkybių, saugoti komercines ir kitas įstatymų saugomas paslaptis. Vykdydamas vykdomuosius dokumentus, antstolis privalo imtis visų teisėtų priemonių tinkamai apginti išieškotojo interesus, nepažeisdamas kitų vykdymo proceso dalyvių teisių bei teisėtų interesų. ^s-69fee43d190df0e4aff70317
 
 
-2. Atlikdami savo funkcijas, antstoliai yra nepriklausomi ir savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo bei kitais įstatymais, kitais teisės aktais, Antstolių profesinės etikos kodeksu. ^s-52f13767ad9980410b78d303
+2. Atlikdami savo funkcijas, antstoliai yra nepriklausomi ir savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, šiuo bei kitais įstatymais, kitais teisės aktais, Antstolių profesinės etikos kodeksu. ^s-52f13767ad9980410b78d303
 
 
 
@@ -128,7 +128,7 @@ b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso [[#^s-8065
 a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję aštuoneri metai;
 
 
-b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar [[#^s-f07e9692257ab72e740baa32|37 straipsnyje]] nurodytais atvejais, bet nuo atleidimo dienos nėra praėję treji metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję šešeri metai;
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso [[#^s-80656a5d5116e28e908c8795|36]] ar [[#^s-f07e9692257ab72e740baa32|37]] straipsnyje nurodytais atvejais, bet nuo atleidimo dienos nėra praėję treji metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję šešeri metai;
 
 
 4) yra padaręs nesunkų nusikaltimą ir: ^s-54a83b9b672801d59edb2ea1
@@ -137,7 +137,7 @@ b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar [[#^
 a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję penkeri metai;
 
 
-b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar [[#^s-f07e9692257ab72e740baa32|37 straipsnyje]] nurodytais atvejais, bet nuo atleidimo dienos nėra praėję dveji metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję treji metai;
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso [[#^s-80656a5d5116e28e908c8795|36]] ar [[#^s-f07e9692257ab72e740baa32|37]] straipsnyje nurodytais atvejais, bet nuo atleidimo dienos nėra praėję dveji metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję treji metai;
 
 
 5) yra padaręs tyčinį baudžiamąjį nusižengimą ir: ^s-ebc0138ea12b9443da3362c2
@@ -146,7 +146,7 @@ b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar [[#^
 a) yra nuteistas ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nėra praėję treji metai;
 
 
-b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar [[#^s-f07e9692257ab72e740baa32|37 straipsnyje]] nurodytais atvejais, bet nuo atleidimo dienos nėra praėję vieni metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję dveji metai;
+b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso [[#^s-80656a5d5116e28e908c8795|36]] ar [[#^s-f07e9692257ab72e740baa32|37]] straipsnyje nurodytais atvejais, bet nuo atleidimo dienos nėra praėję vieni metai arba yra atleistas kitais atleidimo nuo baudžiamosios atsakomybės pagrindais, bet nuo atleidimo dienos nėra praėję dveji metai;
 
 
 6) piktnaudžiauja alkoholiu, vartoja psichotropines, narkotines ar kitas psichiką veikiančias medžiagas ne medicinos tikslais; ^s-0fa3c2700628f4e018da569b
@@ -164,7 +164,7 @@ b) yra atleistas nuo baudžiamosios atsakomybės Baudžiamojo kodekso 36 ar [[#^
 2. Jeigu asmuo padaro korupcinio pobūdžio nusikalstamą veiką, kuri suprantama taip, kaip apibrėžiama [[latest/TAR.4DBDE27621A2|Lietuvos Respublikos korupcijos prevencijos įstatyme]], [[#^s-2b85661bd0d65031503b51c5|šio straipsnio 1 dalyje]] nurodyti terminai, kai asmuo nelaikomas esąs nepriekaištingos reputacijos, ilginami vienu trečdaliu. ^s-b8cb39ec0b0ee71b403dc9c0
 
 
-3. Lietuvos Respublikos teisingumo ministerija turi teisę gauti iš visų teisėsaugos institucijų, valstybės bei savivaldybių institucijų ir informacinių sistemų, kurios suprantamos taip, kaip apibrėžiamos [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]], (toliau – informacinės sistemos) informaciją, dokumentus ar duomenis (įskaitant asmens duomenis), reikalingus įsitikinti, kad asmuo atitinka šiame straipsnyje nustatytus reikalavimus. ^s-6fce7d8dfe9e51502ae1b674
+3. Lietuvos Respublikos teisingumo ministerija turi teisę gauti iš visų teisėsaugos institucijų, valstybės bei savivaldybių institucijų ir informacinių sistemų, kurios suprantamos taip, kaip apibrėžiamos [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]], (toliau – [[latest/TAR.85C510BA700A|informacinės sistemos]]) informaciją, dokumentus ar duomenis (įskaitant asmens duomenis), reikalingus įsitikinti, kad asmuo atitinka šiame straipsnyje nustatytus reikalavimus. ^s-6fce7d8dfe9e51502ae1b674
 
 
 Straipsnio pakeitimai:
@@ -499,7 +499,7 @@ Nr. XIV-2545, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07539
 5) teikti Lietuvos antstolių rūmų prezidiumo pirmininkui siūlymą atimti iš asmens teisę vykdyti antstolio padėjėjo veiklą; ^s-593464e682cac910c5fc8a6b
 
 
-6) skirti [[latest/TAR.C44837068B55#^s-c956a6df616392c7d1c72fd8|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies]] 1, 2 ir 6 punktuose numatytas poveikio priemones. ^s-11a6e75dcee3c0be6f559658
+6) skirti [[latest/TAR.C44837068B55#^s-c956a6df616392c7d1c72fd8|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies]] [[latest/TAR.C44837068B55#^s-6ac02c4bcfacd052e02998b0|1]], [[latest/TAR.C44837068B55#^s-5e480abb32cccd30d67e6543|2]] ir [[latest/TAR.C44837068B55#^s-1a7def7a3bf36eb95441b9f9|6]] punktuose numatytas poveikio priemones. ^s-11a6e75dcee3c0be6f559658
 Papildyta straipsnio punktu:
 Nr. XIV-2545, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07539
 
@@ -536,7 +536,7 @@ Nr. XIV-2318, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25071
 3) teisės teikti paslaugas, nurodytas šio Įstatymo [[#^s-dc78997642f4822f9dd18ae0|21 straipsnio 2 dalyje]], atėmimas iki šešių mėnesių; ^s-a9e4bdef9b18368adfad7739
 
 
-4) teisės gauti vykdyti vykdomuosius dokumentus Civilinio proceso kodekso 650 straipsnio 3 dalyje nustatyta tvarka atėmimas iki šešių mėnesių; ^s-cefb88b305e30cddaff4b1f8
+4) teisės gauti vykdyti vykdomuosius dokumentus [Civilinio proceso kodekso 650 straipsnio 3 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka atėmimas iki šešių mėnesių; ^s-cefb88b305e30cddaff4b1f8
 Straipsnio punkto pakeitimai:
 Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
 
@@ -580,7 +580,7 @@ Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. [[latest/T
 2. [[latest/TAR.C44837068B55|Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo]] reikalavimus galimai pažeidusiam antstoliui, antstolio atstovui Lietuvos antstolių rūmų prezidiumo sprendimu gali būti keliama drausmės byla, kurią nagrinėja Antstolių garbės teismas. ^s-e42cbaac216fe4d98ae7157f
 
 
-3. Antstolių garbės teismas antstoliui, antstolio atstovui už [[#^s-e42cbaac216fe4d98ae7157f|šio straipsnio 2 dalyje]] nurodytus pažeidimus gali paskirti [[latest/TAR.C44837068B55#^s-c956a6df616392c7d1c72fd8|Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies]] 1, 2 ir 6 punktuose numatytas poveikio priemones. ^s-84c469624e58a4be71423a7e
+3. Antstolių garbės teismas antstoliui, antstolio atstovui už [[#^s-e42cbaac216fe4d98ae7157f|šio straipsnio 2 dalyje]] nurodytus pažeidimus gali paskirti [[latest/TAR.C44837068B55#^s-c956a6df616392c7d1c72fd8|Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 36 straipsnio 1 dalies]] [[latest/TAR.C44837068B55#^s-6ac02c4bcfacd052e02998b0|1]], [[latest/TAR.C44837068B55#^s-5e480abb32cccd30d67e6543|2]] ir [[latest/TAR.C44837068B55#^s-1a7def7a3bf36eb95441b9f9|6]] punktuose numatytas poveikio priemones. ^s-84c469624e58a4be71423a7e
 
 
 4. Šio įstatymo nuostatos dėl drausmės bylos iškėlimo, nagrinėjimo, Antstolių garbės teismo sprendimo priėmimo, įsiteisėjimo ir drausminės nuobaudos galiojimo, nagrinėjant [[#^s-e42cbaac216fe4d98ae7157f|šio straipsnio 2 dalyje]] nurodytus pažeidimus, taikomos tiek, kiek neprieštarauja [[latest/TAR.C44837068B55|Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo]] nuostatoms. ^s-c156fbcf6ab8c7abe3eee297
@@ -837,13 +837,13 @@ Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. [[latest/T
 
 
 
-5. Konstatuojant faktines aplinkybes fizinių ar juridinių asmenų prašymu, faktinių aplinkybių konstatavimo protokolas surašomas dviem egzemplioriais. Vienas iš jų išduodamas asmeniui, kurio prašymu buvo konstatuotos faktinės aplinkybės, o antras saugomas antstolio (antstolių) kontoroje. Faktinių aplinkybių konstatavimo protokolas elektronine forma, išskyrus vaizdo ar garso įrašus, ne vėliau kaip kitą dieną nuo surašymo dienos Antstolių informacinės sistemos nuostatų nustatyta tvarka perduodamas į Antstolių informacinės sistemos duomenų bazę. ^s-e0cc8bcd1f43e0f67d624a4b
+5. Konstatuojant faktines aplinkybes fizinių ar juridinių asmenų prašymu, faktinių aplinkybių konstatavimo protokolas surašomas dviem egzemplioriais. Vienas iš jų išduodamas asmeniui, kurio prašymu buvo konstatuotos faktinės aplinkybės, o antras saugomas antstolio (antstolių) kontoroje. Faktinių aplinkybių konstatavimo protokolas elektronine forma, išskyrus vaizdo ar garso įrašus, ne vėliau kaip kitą dieną nuo surašymo dienos Antstolių [[latest/TAR.85C510BA700A|informacinės sistemos]] nuostatų nustatyta tvarka perduodamas į Antstolių [[latest/TAR.85C510BA700A|informacinės sistemos]] duomenų bazę. ^s-e0cc8bcd1f43e0f67d624a4b
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. [[latest/TAR.39678AC27C78|1081010ISTA00X-1837]]
 
 
 
-6. Teismo pavedimu faktinės aplinkybės konstatuojamos Civilinio proceso kodekso nustatyta tvarka. ^s-da937fe61f0dba70d7c56cd3
+6. Teismo pavedimu faktinės aplinkybės konstatuojamos [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-da937fe61f0dba70d7c56cd3
 Straipsnio dalies numeracijos pakeitimas:
 Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. [[latest/TAR.39678AC27C78|1081010ISTA00X-1837]]
 
@@ -852,7 +852,7 @@ Nr. X-1837, 2008-11-14, Žin., 2008, Nr. 138-5444 (2008-12-02), i. k. [[latest/T
 ### 24 straipsnis. Dokumentų perdavimas ir įteikimas ^s-13d6bfc17822228db77dfb8f
 
 
-1. Teismo pavedimu dokumentai perduodami ir įteikiami Civilinio proceso kodekso nustatyta tvarka. ^s-2e2e2e24f0498ea392b98f0d
+1. Teismo pavedimu dokumentai perduodami ir įteikiami [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-2e2e2e24f0498ea392b98f0d
 
 
 2. Antstolis fizinių ar juridinių asmenų prašymu perduoda ir įteikia dokumentus kitiems Lietuvos Respublikoje esantiems fiziniams ar juridiniams asmenims. Dokumentų įteikimo ir perdavimo tvarką įsakymu tvirtina teisingumo ministras. ^s-fe9c472ad4d5548d947cd0c7
@@ -920,7 +920,7 @@ Nr. XII-2481, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17979
 ### 27 straipsnis. Antstolio, antstolio padėjėjo veiklos kontrolė ir skundų nagrinėjimas ^s-efbc99cbd74d6d22eae143ae
 
 
-1. Antstolio procesinių veiksmų teisėtumą Civilinio proceso kodekso nustatyta tvarka kontroliuoja teismas. ^s-df3aa7acc7a0a34010196f23
+1. Antstolio procesinių veiksmų teisėtumą [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka kontroliuoja teismas. ^s-df3aa7acc7a0a34010196f23
 
 
 2. Kaip antstoliai (antstolių padėjėjai) laikosi šio Įstatymo, Sprendimų vykdymo instrukcijos, Antstolių profesinės etikos kodekso, kitų teisingumo ministro tvirtinamų teisės aktų, reglamentuojančių antstolių veiklą, ir vykdymo išlaidų išieškojimo tvarkos, nesusijusios su vykdymo išlaidų dydžio apskaičiavimu, pagal kompetenciją teisingumo ministro nustatyta tvarka kontroliuoja Teisingumo ministerija ir Lietuvos antstolių rūmai. ^s-3f2b2ef41e791da567e13205
@@ -1215,7 +1215,7 @@ Nr. XIV-2318, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25071
 
 
 
-2. Antstolis privalo užtikrinti, kad duomenys apie vykdomųjų dokumentų vykdymą, faktinių aplinkybių konstatavimą ir dokumentų perdavimą ar įteikimą būtų tinkamai naudojami ir saugomi. Duomenims rinkti, kaupti ir perduoti gali būti naudojamos informacinės technologijos: kompiuteriai, specialios programos, duomenų bazės, duomenų perdavimo tinklai, sudarantys Antstolių informacinę sistemą. Šios sistemos duomenys teikiami atlygintinai, išskyrus atvejus, kai jie teikiami valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti, susijusioms informacinėms sistemoms, kitiems fiziniams ir juridiniams asmenims, kuriems Lietuvos Respublikos įstatymai ar Europos Sąjungos teisės aktai nustato teisę neatlygintinai gauti šios sistemos duomenis, taip pat vykdymo proceso dalyviams, besinaudojantiems Antstolių informacinės sistemos elektroninės vykdomosios bylos portalu. Antstolių informacinės sistemos nuostatus tvirtina teisingumo ministras. ^s-982fb6ca25f3f66ed5e8bfd0
+2. Antstolis privalo užtikrinti, kad duomenys apie vykdomųjų dokumentų vykdymą, faktinių aplinkybių konstatavimą ir dokumentų perdavimą ar įteikimą būtų tinkamai naudojami ir saugomi. Duomenims rinkti, kaupti ir perduoti gali būti naudojamos informacinės technologijos: kompiuteriai, specialios programos, duomenų bazės, duomenų perdavimo tinklai, sudarantys Antstolių informacinę sistemą. Šios sistemos duomenys teikiami atlygintinai, išskyrus atvejus, kai jie teikiami valstybės ir savivaldybių institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms atlikti, susijusioms informacinėms sistemoms, kitiems fiziniams ir juridiniams asmenims, kuriems Lietuvos Respublikos įstatymai ar Europos Sąjungos teisės aktai nustato teisę neatlygintinai gauti šios sistemos duomenis, taip pat vykdymo proceso dalyviams, besinaudojantiems Antstolių [[latest/TAR.85C510BA700A|informacinės sistemos]] elektroninės vykdomosios bylos portalu. Antstolių [[latest/TAR.85C510BA700A|informacinės sistemos]] nuostatus tvirtina teisingumo ministras. ^s-982fb6ca25f3f66ed5e8bfd0
 Straipsnio dalies pakeitimai:
 Nr. XIV-2318, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25071
 Nr. XIV-3056, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19683
@@ -1660,12 +1660,12 @@ Lietuvos Respublikos antstolių įstatymo Nr. IX-876 [[#^s-fc69cf283d4453d883bb3
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-572, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12072
-Lietuvos Respublikos antstolių įstatymo Nr. IX-876 11 ir [[#^s-ef25ac3fa1834e6db95d520d|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 [[#^s-956ad312a0fe4a3515883de4|11]] ir [[#^s-ef25ac3fa1834e6db95d520d|12]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2481, 2016-06-23, paskelbta TAR 2016-06-30, i. k. 2016-17979
-Lietuvos Respublikos antstolių įstatymo Nr. IX-876 20 ir [[#^s-8d789a117650b7b9e28cfbc6|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 [[#^s-164bbca06f6393ceab772874|20]] ir [[#^s-8d789a117650b7b9e28cfbc6|26]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1675,27 +1675,27 @@ Lietuvos Respublikos antstolių įstatymo Nr. IX-876 [[#^s-fc69cf283d4453d883bb3
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2722, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21593
-Lietuvos Respublikos antstolių įstatymo Nr. IX-876 10, 12, 15, 18, 21, 29 ir [[#^s-e6f226e06de5950312427512|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 [[#^s-88f8ef9066f24a3ffd1287d7|10]], [[#^s-ef25ac3fa1834e6db95d520d|12]], [[#^s-bbfd331c65e23b8caabc86b8|15]], [[#^s-47b0f963746739f5e6659e7c|18]], [[#^s-fc69cf283d4453d883bb3307|21]], [[#^s-c7f3593af01bc02b293e41c0|29]] ir [[#^s-e6f226e06de5950312427512|33]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3216, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15753
-Lietuvos Respublikos antstolių įstatymo Nr. IX-876 5, 6, 8, 11, 12, 13, 14, 15, 22, 27, 28, 29, 30, 34, 35, 36, 39, 47 ir [[#^s-9dd6406a10d6a04692988cba|49 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 [[#^s-abe832f7f36748551296eb30|5]], [[#^s-cc57b29647d91512788ced3d|6]], [[#^s-e0a6b13851f6a97f2350df75|8]], [[#^s-956ad312a0fe4a3515883de4|11]], [[#^s-ef25ac3fa1834e6db95d520d|12]], [[#^s-b3def60cb1fc1e5cd28549e5|13]], [[#^s-48d1019eb57a617e3f794038|14]], [[#^s-bbfd331c65e23b8caabc86b8|15]], [[#^s-87cc1604fba618f30b6b2234|22]], [[#^s-efbc99cbd74d6d22eae143ae|27]], [[#^s-8daf56540a91176058227971|28]], [[#^s-c7f3593af01bc02b293e41c0|29]], [[#^s-c49ae5c4c9d08164d9983339|30]], [[#^s-c196b6dab0432bf27fa8e997|34]], [[#^s-53fd41bcc4c387d8be27d341|35]], [[#^s-80656a5d5116e28e908c8795|36]], [[#^s-61069a240d014458677041bf|39]], [[#^s-4e8702191d5ca4480675fd03|47]] ir [[#^s-9dd6406a10d6a04692988cba|49]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-612, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23534
-Lietuvos Respublikos antstolių įstatymo Nr. IX-876 5, 12 ir [[#^s-61069a240d014458677041bf|39 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 [[#^s-abe832f7f36748551296eb30|5]], [[#^s-ef25ac3fa1834e6db95d520d|12]] ir [[#^s-61069a240d014458677041bf|39]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1361, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15455
-Lietuvos Respublikos antstolių įstatymo Nr. IX-876 10 ir [[#^s-21caa5dffb726e1abe266923|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 [[#^s-88f8ef9066f24a3ffd1287d7|10]] ir [[#^s-21caa5dffb726e1abe266923|32]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2318, 2023-12-12, paskelbta TAR 2023-12-22, i. k. 2023-25071
-Lietuvos Respublikos antstolių įstatymo Nr. IX-876 2, 4, 5, 6, 8, 10, 11, 12, 14, 20, 21, 22, 28, 29, 32, 33, 34, 35, 36, 37, 43, 43-1, 46 ir [[#^s-12abb5c7d5b8aaccf2c8f440|48 straipsnių]] pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 [[#^s-fc4fcffbc628fab1fee4aed5|2]], [[#^s-bcac7fab263e29ff61c83f6e|4]], [[#^s-abe832f7f36748551296eb30|5]], [[#^s-cc57b29647d91512788ced3d|6]], [[#^s-e0a6b13851f6a97f2350df75|8]], [[#^s-88f8ef9066f24a3ffd1287d7|10]], [[#^s-956ad312a0fe4a3515883de4|11]], [[#^s-ef25ac3fa1834e6db95d520d|12]], [[#^s-48d1019eb57a617e3f794038|14]], [[#^s-164bbca06f6393ceab772874|20]], [[#^s-fc69cf283d4453d883bb3307|21]], [[#^s-87cc1604fba618f30b6b2234|22]], [[#^s-8daf56540a91176058227971|28]], [[#^s-c7f3593af01bc02b293e41c0|29]], [[#^s-21caa5dffb726e1abe266923|32]], [[#^s-e6f226e06de5950312427512|33]], [[#^s-c196b6dab0432bf27fa8e997|34]], [[#^s-53fd41bcc4c387d8be27d341|35]], [[#^s-80656a5d5116e28e908c8795|36]], [[#^s-f07e9692257ab72e740baa32|37]], [[#^s-d405a4ee2f2e1364cd90decc|43]], 43-1, [[#^s-5feba2928c3538f329b2b238|46]] ir [[#^s-12abb5c7d5b8aaccf2c8f440|48]] straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1705,4 +1705,4 @@ Lietuvos Respublikos antstolių įstatymo Nr. IX-876 [[#^s-48d1019eb57a617e3f794
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3056, 2024-11-07, paskelbta TAR 2024-11-12, i. k. 2024-19683
-Lietuvos Respublikos antstolių įstatymo Nr. IX-876 5, 18, 22, 25-1, 27, 37, 39, 45 ir [[#^s-9dd6406a10d6a04692988cba|49 straipsnių]] pakeitimo ir [[#^s-221bd083a691bc99156f8564|19 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos antstolių įstatymo Nr. IX-876 [[#^s-abe832f7f36748551296eb30|5]], [[#^s-47b0f963746739f5e6659e7c|18]], [[#^s-87cc1604fba618f30b6b2234|22]], 25-1, [[#^s-efbc99cbd74d6d22eae143ae|27]], [[#^s-f07e9692257ab72e740baa32|37]], [[#^s-61069a240d014458677041bf|39]], [[#^s-30a5a5c22029cde395848dcc|45]] ir [[#^s-9dd6406a10d6a04692988cba|49]] straipsnių pakeitimo ir [[#^s-221bd083a691bc99156f8564|19 straipsnio]] pripažinimo netekusiu galios įstatymas

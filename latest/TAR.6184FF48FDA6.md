@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-b399495a530dde33fb011ff0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. birželio 18 d. dekretą Nr. 118, ratifikuoja su pareiškimais 1996 m. rugsėjo 27 d. Briuselyje priimtą Konvenciją dėl ekstradicijos tarp Europos Sąjungos valstybių narių, parengtą remiantis Europos Sąjungos sutarties K.[[#^s-73beb989e63d7ad36cb5b68f|3 straipsniu]].
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. birželio 18 d. dekretą Nr. 118](https://e-tar.lt/portal/lt/legalAct/TAR.B2F899C5CA50), ratifikuoja su pareiškimais 1996 m. rugsėjo 27 d. Briuselyje priimtą Konvenciją dėl ekstradicijos tarp Europos Sąjungos valstybių narių, parengtą remiantis Europos Sąjungos sutarties K.[[#^s-73beb989e63d7ad36cb5b68f|3 straipsniu]].
 
 
 

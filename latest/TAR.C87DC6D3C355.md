@@ -70,13 +70,13 @@ Vilnius
 1. [[#^s-7910f82b22cda13ed769ff3b|2 straipsnio 1 dalyje]] išbraukti žodžius „(kvotėjo, tardytojo)“, po žodžio „atlyginti“ įrašyti žodžius ir skaičius „išskyrus šio straipsnio 7 ir 8 dalyse numatytus atvejus“ ir šią dalį išdėstyti taip: ^s-3a01e8f43dbcaa170bdbd631
 
 
-„1. Lietuvos Respublikos valstybės biudžete kasmet numatomi asignavimai žalai, atsiradusiai dėl ikiteisminio tyrimo pareigūno, prokuroro, teisėjo ar teismo neteisėtų veiksmų (Lietuvos Respublikos civilinio kodekso 6.272 straipsnis), taip pat dėl kitų valstybės valdžios institucijų neteisėtų veiksmų (aktų) (Lietuvos Respublikos civilinio kodekso 6.271 straipsnis), atlyginti, išskyrus šio straipsnio 7 ir [[#^s-5dc660a3e3d2aaf27ba1e344|8 dalyse]] numatytus atvejus. Šių asignavimų valdytojas yra Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija).“
+„1. Lietuvos Respublikos valstybės biudžete kasmet numatomi asignavimai žalai, atsiradusiai dėl ikiteisminio tyrimo pareigūno, prokuroro, teisėjo ar teismo neteisėtų veiksmų (Lietuvos Respublikos civilinio kodekso 6.272 straipsnis), taip pat dėl kitų valstybės valdžios institucijų neteisėtų veiksmų (aktų) (Lietuvos Respublikos civilinio kodekso 6.271 straipsnis), atlyginti, išskyrus šio straipsnio 7 ir 8 dalyse numatytus atvejus. Šių asignavimų valdytojas yra Lietuvos Respublikos teisingumo ministerija (toliau – Teisingumo ministerija).“
 
 
-2. [[#^s-b1eadd2df6a434b4010e9e54|2 straipsnio 2 dalyje]] po žodžių „nurodytų asignavimų“ įrašyti žodžius ir skaičius „išskyrus šio straipsnio 7 ir 8 dalyse numatytus atvejus“, 1 ir [[#^s-8a6e0eed26061e1c70619437|2 punktuose]] išbraukti žodžius „(kvotėjo, tardytojo)“, dalį papildyti [[#^s-4a8e1b1afa7a7dd639307446|6 punktu]] ir ją išdėstyti taip: ^s-256108b786bdcf97d3ba3171
+2. [[#^s-b1eadd2df6a434b4010e9e54|2 straipsnio 2 dalyje]] po žodžių „nurodytų asignavimų“ įrašyti žodžius ir skaičius „išskyrus šio straipsnio 7 ir 8 dalyse numatytus atvejus“, 1 ir 2 punktuose išbraukti žodžius „(kvotėjo, tardytojo)“, dalį papildyti [[#^s-4a8e1b1afa7a7dd639307446|6 punktu]] ir ją išdėstyti taip: ^s-256108b786bdcf97d3ba3171
 
 
-„2. Iš [[#^s-3a01e8f43dbcaa170bdbd631|šio straipsnio 1 dalyje]] nurodytų asignavimų, išskyrus šio straipsnio 7 ir [[#^s-5dc660a3e3d2aaf27ba1e344|8 dalyse]] numatytus atvejus, Teisingumo ministerija vykdo:
+„2. Iš [[#^s-3a01e8f43dbcaa170bdbd631|šio straipsnio 1 dalyje]] nurodytų asignavimų, išskyrus šio straipsnio [[#^s-2fb6c0d5ea109e31be1804f3|7]] ir [[#^s-5dc660a3e3d2aaf27ba1e344|8]] dalyse numatytus atvejus, Teisingumo ministerija vykdo:
 
 
 1) teismo sprendimus dėl žalos, atsiradusios dėl ikiteisminio tyrimo pareigūno, prokuroro, teisėjo ar teismo arba kitų valstybės valdžios institucijų neteisėtų veiksmų (aktų), atlyginimo; ^s-0ce131cdd980b23e46482295
@@ -106,7 +106,7 @@ Vilnius
 4. Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip: ^s-65fef26bed60eb8f95edcaab
 
 
-„6. Vykdant [[#^s-256108b786bdcf97d3ba3171|šio straipsnio 2 dalyje]] nurodytus dokumentus, lėšos iš [[#^s-3a01e8f43dbcaa170bdbd631|šio straipsnio 1 dalyje]] numatytų asignavimų pervedamos į asmens nurodytą sąskaitą banke arba jo pageidavimu išmokamos grynais pinigais. Dėl [[#^s-256108b786bdcf97d3ba3171|šio straipsnio 2 dalyje]] nurodytų dokumentų priverstinio vykdymo asmuo gali kreiptis, jeigu Teisingumo ministerija pagal asmens prašymą lėšas pervesti į nurodytą sąskaitą banke arba išmokėti grynais pinigais šių dokumentų neįvykdė per šio straipsnio 3–[[#^s-811ce19e6c2c58f11d0b36cf|5 dalyse]] nustatytus terminus.“
+„6. Vykdant [[#^s-256108b786bdcf97d3ba3171|šio straipsnio 2 dalyje]] nurodytus dokumentus, lėšos iš [[#^s-3a01e8f43dbcaa170bdbd631|šio straipsnio 1 dalyje]] numatytų asignavimų pervedamos į asmens nurodytą sąskaitą banke arba jo pageidavimu išmokamos grynais pinigais. Dėl [[#^s-256108b786bdcf97d3ba3171|šio straipsnio 2 dalyje]] nurodytų dokumentų priverstinio vykdymo asmuo gali kreiptis, jeigu Teisingumo ministerija pagal asmens prašymą lėšas pervesti į nurodytą sąskaitą banke arba išmokėti grynais pinigais šių dokumentų neįvykdė per šio straipsnio [[#^s-0afc904dbb5a4884a207e7d1|3]]–[[#^s-811ce19e6c2c58f11d0b36cf|5]] dalyse nustatytus terminus.“
 
 
 5. Papildyti 2 straipsnį 7 dalimi: ^s-811ce19e6c2c58f11d0b36cf

@@ -49,7 +49,7 @@ Vilnius
 „2) ne didesne kaip pareigūno vidutinis darbo užmokestis (išskyrus šio straipsnio 2 dalyje nustatytus atvejus) vienkartine pinigine išmoka Vyriausybės nustatyta tvarka;“.
 
 
-2. Papildyti 23 straipsnį nauja [[#^s-2ad30da0e14f7fee0c75b3e3|2 dalimi]]: ^s-2ad30da0e14f7fee0c75b3e3
+2. Papildyti 23 straipsnį nauja 2 dalimi: ^s-2ad30da0e14f7fee0c75b3e3
 
 
 „2. Pareigūnai, tiesiogiai dalyvavę atskleidžiant ar ištiriant nusikalstamas veikas ir kitus teisės pažeidimus, kuriais padaryta ar galėjo būti padaryta turtinė žala valstybei, Vyriausybės nustatyta tvarka gali būti skatinami ne didesne kaip pareigūno keturių vidutinių darbo užmokesčių dydžio vienkartine pinigine išmoka.“
@@ -61,7 +61,7 @@ Vilnius
 4. Pakeisti 23 straipsnio 4 dalį ir ją išdėstyti taip: ^s-9e0a3678281a2f8b580379c9
 
 
-„4. Vidaus reikalų ministras turi teisę skatinti ir apdovanoti visais šio straipsnio 1 ir [[#^s-2ad30da0e14f7fee0c75b3e3|2 dalyse]] išvardytais paskatinimais ir apdovanojimais, vidaus reikalų įstaigos vadovas – [[#^s-c28eb37593de00a6e6614f36|šio straipsnio 1 dalies]] 1–4, 6 punktuose ir [[#^s-2ad30da0e14f7fee0c75b3e3|2 dalyje]] išvardytais paskatinimais ir apdovanojimais.“
+„4. Vidaus reikalų ministras turi teisę skatinti ir apdovanoti visais šio straipsnio [[#^s-c28eb37593de00a6e6614f36|1]] ir [[#^s-2ad30da0e14f7fee0c75b3e3|2]] dalyse išvardytais paskatinimais ir apdovanojimais, vidaus reikalų įstaigos vadovas – [[#^s-c28eb37593de00a6e6614f36|šio straipsnio 1 dalies]] 1–4, 6 punktuose ir [[#^s-2ad30da0e14f7fee0c75b3e3|2 dalyje]] išvardytais paskatinimais ir apdovanojimais.“
 
 
 

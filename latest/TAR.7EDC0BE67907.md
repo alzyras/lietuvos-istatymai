@@ -239,7 +239,7 @@ Pakeisti 51 straipsnio 3 dalį ir ją išdėstyti taip:
 ### 12 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-f017824474ca53418bb69a34
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-dd52af22dff87190b232b478|3 dalis]], įsigalioja 2014 m. spalio 1 d. ^s-1adee3b99923ea47474a418e
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-add1eb0ae0e25425f72f3f09|2]] ir [[#^s-dd52af22dff87190b232b478|3]] dalis, įsigalioja 2014 m. spalio 1 d. ^s-1adee3b99923ea47474a418e
 
 
 2. Lietuvos Respublikos Vyriausybė iki 2014 m. balandžio 1 d. patvirtina Strateginio planavimo savivaldybėse rekomendacijas, kuriose, be kitų dalykų, siekiant kelti strateginio valdymo savivaldybėse kultūros lygį, turi būti numatytas visuotinės kokybės vadybos principų, savivaldybės veiklos rezultatyvumo (veiksmingumo) ir efektyvumo matavimo metodų, savivaldybės politikų, savivaldybės administracijos, visuomeninių organizacijų ir kitų savivaldybės bendruomenės atstovų sąveikos formų, kitų pažangių mokslinių metodų ir priemonių taikymas savivaldybių strateginio planavimo procese. ^s-add1eb0ae0e25425f72f3f09

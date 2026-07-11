@@ -159,7 +159,7 @@ Vilnius
 ### 3 straipsnis.         Karių laipsnių suteikimas Lietuvos kariuomenės kariams ir kariūnams (aspirantams) ^s-7a0118c06113f35d3d2befff
 
 
-1. Lietuvos kariuomenėje iki 1940 m. spalio 28 d. tarnavusiems arba karo mokymo įstaigose besimokiusiems kariams, kariūnams (aspirantams), kuriems pirmieji (aukštesni) karių laipsniai nebuvo suteikti tuo metu nustatyta tvarka dėl Lietuvos valstybės okupacijos ir Lietuvos kariuomenės likvidavimo 1940 m. spalio 28 d., suteikiami pirmieji (aukštesni) karių laipsniai, atitinkantys jų Lietuvos kariuomenėje eitas paskutines pareigas arba baigus karo mokymo įstaigą suteikiamą kario laipsnį. ^s-42380c435e2831c40b810c6c
+1. Lietuvos kariuomenėje iki 1940 m. spalio 28 d. tarnavusiems arba karo mokymo įstaigose besimokiusiems kariams, kariūnams (aspirantams), kuriems pirmieji (aukštesni) karių laipsniai nebuvo suteikti tuo metu nustatyta tvarka [dėl Lietuvos valstybės](https://e-tar.lt/portal/lt/legalAct/TAR.59F99B2B61F2) okupacijos ir Lietuvos kariuomenės likvidavimo 1940 m. spalio 28 d., suteikiami pirmieji (aukštesni) karių laipsniai, atitinkantys jų Lietuvos kariuomenėje eitas paskutines pareigas arba baigus karo mokymo įstaigą suteikiamą kario laipsnį. ^s-42380c435e2831c40b810c6c
 
 
 2. Karių laipsniai, kurie Lietuvos kariuomenės kariams ir kariūnams (aspirantams) nebuvo suteikti dėl [[#^s-42380c435e2831c40b810c6c|šio straipsnio 1 dalyje]] nustatytų priežasčių, prilyginami Lietuvos Respublikos sausumos ir karinių oro pajėgų karių laipsniams Pasipriešinimo 1940–1990 metų okupacijoms dalyvių teisinio statuso pripažinimo ir karių savanorių karinių laipsnių bei apdovanojimų prilyginimo įstatymo [[#^s-7cae52aa3ce61f4b7a065d45|2 straipsnio 1 dalyje]] nustatyta tvarka. ^s-77bb76d5e2b92765d36116be

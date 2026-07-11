@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.0D5EC80FC43B#^s-401b4666735c2070adcf4c6f|Lietuvos Respublikos teritorijoje galiojančių teisės aktų, priimtų iki 1990 m. kovo 11 d., pripažinimo netekusiais galios įstatymas]] - 2 citatos - 0981010ISTAVIII-998
+- [[latest/TAR.0D5EC80FC43B#^s-401b4666735c2070adcf4c6f|Lietuvos Respublikos teritorijoje galiojančių teisės aktų, priimtų iki 1990 m. kovo 11 d., pripažinimo netekusiais galios įstatymas]] - 0981010ISTAVIII-998

@@ -430,7 +430,7 @@ Strateginę reikšmę nacionaliniam saugumui turinčių įmonių ir įrenginių 
 12. Komisijos sprendimas gali būti skundžiamas Vilniaus apygardos administraciniam teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-ed2e260cf1fd4acb85ab8739
 
 
-13. Europos Sąjungos valstybės narės, valstybės, pasirašiusios Europos ekonominės erdvės sutartį, taip pat juridiniai asmenys, kuriuose Europos Sąjungos valstybės narės arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, tiesiogiai ar netiesiogiai turi daugiau kaip 2/3 balsų suteikiančių šių juridinių asmenų akcijų ar kitų kapitalo dalių, atitinka nacionalinio saugumo interesus ir šiems subjektams netaikoma šio straipsnio 1 ir [[#^s-8399c1936e20fd43b7a25cd8|2 dalyse]] nustatytos pareigos ir potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimas nėra atliekamas. ^s-880906297128d2464589c7e1
+13. Europos Sąjungos valstybės narės, valstybės, pasirašiusios Europos ekonominės erdvės sutartį, taip pat juridiniai asmenys, kuriuose Europos Sąjungos valstybės narės arba valstybės, pasirašiusios Europos ekonominės erdvės sutartį, tiesiogiai ar netiesiogiai turi daugiau kaip 2/3 balsų suteikiančių šių juridinių asmenų akcijų ar kitų kapitalo dalių, atitinka nacionalinio saugumo interesus ir šiems subjektams netaikoma šio straipsnio [[#^s-296ec0a13a571b8623df6000|1]] ir [[#^s-8399c1936e20fd43b7a25cd8|2]] dalyse nustatytos pareigos ir potencialių dalyvių atitikties nacionalinio saugumo interesams įvertinimas nėra atliekamas. ^s-880906297128d2464589c7e1
 
 
 

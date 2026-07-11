@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D841592F4E8A#^s-0319ae8bdd1cfe467f260fc1|Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymas]] - 3 citatos - 0991010ISTAIII-1471
-- [[latest/TAR.D841592F4E8A#^s-07d1c3b40156cf40a72edafa|Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymas]] - 3 citatos - 0991010ISTAIII-1471
+- [[latest/TAR.D841592F4E8A#^s-0319ae8bdd1cfe467f260fc1|Lietuvos Respublikos valstybės paramos ginkluoto pasipriešinimo (rezistencijos) dalyviams įstatymas]] - 2 citatos - 0991010ISTAIII-1471

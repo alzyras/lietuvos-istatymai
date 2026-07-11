@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9D1ADB9E1518#^s-dfc92c95ffac9e15fc231e6f|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - Įstatymas Nr. XI-1627
-- [[latest/TAR.9D1ADB9E1518#^s-eb6b4b182aa6d2084809010b|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymas]] - Įstatymas Nr. XI-1627
+_Nėra._

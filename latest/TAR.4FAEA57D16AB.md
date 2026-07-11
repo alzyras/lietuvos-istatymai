@@ -170,7 +170,7 @@ Nr. XI-1649, 2011-11-10, Žin., 2011, Nr. 144-6758 (2011-11-29), i. k. [[latest/
 3.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT34-N9/2014, 2014-07-03, paskelbta TAR 2014-07-03, i. k. 2014-09761
-Dėl Lietuvos Respublikos Prezidento valstybinės rentos įstatymo (2006 m. gruodžio 12 d. redakcija) kai kurių nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos Prezidento valstybinės rentos įstatymo (2006 m. gruodžio 12 d. redakcija) kai kurių nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/a0d444d002a611e49c45b5946a668bf8)
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas

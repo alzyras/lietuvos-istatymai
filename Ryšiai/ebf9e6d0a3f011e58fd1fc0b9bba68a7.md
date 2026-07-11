@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos angliavandenilių išteklių mokesčio įstat
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.2716576D8D0C#^s-27a72893044896e86d5af663|Lietuvos Respublikos angliavandenilių išteklių mokesčio įstatymas]] - 8 straipsnio 3 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.2716576D8D0C#^s-7dfd48621bd17f73b94beef3|Lietuvos Respublikos angliavandenilių išteklių mokesčio įstatymas]] - Įstatymas Nr. XII-2158
-- [[latest/TAR.2716576D8D0C#^s-f22f67f516727164d4711054|Lietuvos Respublikos angliavandenilių išteklių mokesčio įstatymas]] - Įstatymas Nr. XII-2158
+_Nėra._

@@ -92,10 +92,10 @@ Pakeisti 9 straipsnio 7 dalį ir ją išdėstyti taip:
 ### 6 straipsnis. Įstatymo įsigaliojimas ^s-e2c7b941f352a8301db02d5c
 
 
-1. Šio įstatymo 1 ir [[#^s-8a31523c9a945552f7db512b|4 straipsniai]] įsigalioja nuo 2006 m. liepos 1 d. ^s-b366c2380b87c99bc3831bb4
+1. Šio įstatymo [[#^s-b5631e8a5b1d02e4ad21c516|1]] ir [[#^s-8a31523c9a945552f7db512b|4]] straipsniai įsigalioja nuo 2006 m. liepos 1 d. ^s-b366c2380b87c99bc3831bb4
 
 
-2. Šio įstatymo 2, 3 ir [[#^s-bb67913d476ecff74534ba7e|5 straipsniai]] įsigalioja nuo 2008 m. sausio 1 d. ^s-2ee5a5d68df8ef5d7f666045
+2. Šio įstatymo [[#^s-df0bedf0419f47042248713c|2]], [[#^s-f7a17ba2ed0a8e0d27e7832c|3]] ir [[#^s-bb67913d476ecff74534ba7e|5]] straipsniai įsigalioja nuo 2008 m. sausio 1 d. ^s-2ee5a5d68df8ef5d7f666045
 
 
 

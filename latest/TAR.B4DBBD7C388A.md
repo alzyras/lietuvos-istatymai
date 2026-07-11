@@ -426,7 +426,7 @@ Nr. XI-601, 2009-12-22, Žin., 2010, Nr. 1-12 (2010-01-05), i. k. [[latest/TAR.2
 5.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT140-N11/2021, 2021-09-07, paskelbta TAR 2021-09-07, i. k. 2021-18922
-Dėl Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 6 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo 6 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/fa913c900fcc11ec9f09e7df20500045)
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-4f962baad5600a265691f3a4
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. vasario 9 d. dekretą Nr. 201, ratifikuoja 1994 m. birželio 14 d. Osle priimtą 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos Protokolą dėl tolesnio išmetamų sieros teršalų mažinimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. vasario 9 d. dekretą Nr. 201](https://e-tar.lt/portal/lt/legalAct/TAR.138EDBB8511F), ratifikuoja 1994 m. birželio 14 d. Osle priimtą 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos Protokolą dėl tolesnio išmetamų sieros teršalų mažinimo.
 
 
 

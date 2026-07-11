@@ -40,7 +40,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-0e573a1f446184455fb30600
-MOKSLININKŲ VALSTYBINIŲ PENSIJŲ LAIKINOJO ĮSTATYMO 3 IR 6 STRAIPSNIŲ PAKEITIMAS
+MOKSLININKŲ VALSTYBINIŲ PENSIJŲ LAIKINOJO ĮSTATYMO [[#^s-518b7b8bab33de9fd6bd306f|3]] IR 6 STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1995, Nr. 1-4; 1998, Nr. 98-2711; 2002, Nr. 60-2414)
 
@@ -106,7 +106,7 @@ Nr. KT100-N6/2020, 2020-06-03, paskelbta TAR 2020-06-03, i. k. 2020-12128
 
 
 ### KETVIRTASIS SKIRSNIS ^s-792cbc302704fd85c0886344
-VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTATYMO 3, 10, 11, 12 IR 14 STRAIPSNIŲ PAKEITIMAS
+[VALSTYBINIŲ SOCIALINIO DRAUDIMO SENATVĖS PENSIJŲ IŠANKSTINIO MOKĖJIMO ĮSTATYMO](https://e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900) [3](https://e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900), [10](https://e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900), [11](https://e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900), [12](https://e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900) IR [14](https://e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900) STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2003, Nr. 114-5116; 2004, Nr. 117-4373)
 
@@ -227,4 +227,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT100-N6/2020, 2020-06-03, paskelbta TAR 2020-06-03, i. k. 2020-12128
-Dėl Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/8eee13f0a59c11ea9515f752ff221ec9)

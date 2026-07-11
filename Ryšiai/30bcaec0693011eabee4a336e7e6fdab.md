@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 4 stra
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.5C23DECF6210#^s-2a53323a1fa77528ae513fa4|Lietuvos Respublikos valstybės skolos įstatymas]] - 4 straipsnio 2 dalį 6 punktu
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.5C23DECF6210#^s-86ae68ae2377c87201301f0f|Lietuvos Respublikos valstybės skolos įstatymas]] - Įstatymas Nr. XIII-2820
+_Nėra._

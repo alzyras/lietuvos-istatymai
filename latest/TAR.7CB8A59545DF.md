@@ -101,7 +101,7 @@ Nustatyti, kad 2001 metais valstybės biudžeto įmokos į Privalomojo sveikatos
 ### 6 straipsnis. 8 straipsnio 1 dalies pakeitimas ir straipsnio papildymas 3 dalimi ^s-3f2309cf8a6ece07b5c25be6
 
 
-1. [[#^s-917b38686cb16cb44edd3177|8 straipsnio 1 dalies]] 1, 2, [[#^s-8327247ec53bb17f96294f3f|3 punktuose]] po žodžio „dotacijų“ išbraukti žodžius „bei beprocenčių paskolų, skirtų laikinam pajamų trūkumui padengti“ ir šią dalį išdėstyti taip: ^s-9d2e3ae2afa922e8d0583a4c
+1. [[#^s-917b38686cb16cb44edd3177|8 straipsnio 1 dalies]] 1, 2, 3 punktuose po žodžio „dotacijų“ išbraukti žodžius „bei beprocenčių paskolų, skirtų laikinam pajamų trūkumui padengti“ ir šią dalį išdėstyti taip: ^s-9d2e3ae2afa922e8d0583a4c
 
 
 „1. Nustatyti šiuos savivaldybės skolinimosi limitus:
@@ -144,7 +144,7 @@ Nustatyti, kad 2001 metais valstybės biudžeto įmokos į Privalomojo sveikatos
 „5) laikantis valstybės grynojo skolinimosi limito, finansuoti valstybės investicijų programą iš jau pasirašytų arba numatomų pasirašyti paskolų su valstybės garantija – iki 330000 tūkst. litų;“.
 
 
-4. Papildyti [[#^s-e68e24027306a62b29a1b320|9 straipsnį]] 7, 8 ir [[#^s-d31efd0954fd3480f159dc14|9 punktais]]: ^s-42c949d3b22577bd0d438bd1
+4. Papildyti [[#^s-e68e24027306a62b29a1b320|9 straipsnį]] 7, 8 ir 9 punktais: ^s-42c949d3b22577bd0d438bd1
 
 
 „7) pirminei teisinei pagalbai finansuoti valstybės biudžete numatytus asignavimus paskirstyti savivaldybėms;

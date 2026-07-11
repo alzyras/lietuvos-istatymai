@@ -36,7 +36,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir jos Protokolo ratifikavimas ^s-f50117cb15466ecfc5c35981
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. vasario 5 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1954 metų UNESCO kultūros vertybių apsaugos ginkluoto konflikto metu konvenciją ir jos Protokolą“, ratifikuoja 1954 metų UNESCO kultūros vertybių apsaugos ginkluoto konflikto metu konvenciją ir jos Protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. vasario 5 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1954 metų UNESCO kultūros vertybių apsaugos ginkluoto konflikto metu konvenciją ir jos Protokolą“](https://e-tar.lt/portal/lt/legalAct/TAR.D78428A53B5A), ratifikuoja 1954 metų UNESCO kultūros vertybių apsaugos ginkluoto konflikto metu konvenciją ir jos Protokolą.
 
 
 

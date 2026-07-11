@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 5 straipsnio pakeitimas ^s-4ec985e3bd70b0b9e6d17508
 
 
-Pakeisti 5 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.F960F4CF3005#^s-a9c6a6a7fc84c34c3ec98cd1|5 straipsnio 2 dalies 2 punktą]] ir jį išdėstyti taip:
 
 
 „2) ugdymo reikmėms finansuoti vykdant [[latest/TAR.D0CD0966D67F#^s-76ca4f96bc48eb0abea983a1|Vietos savivaldos įstatymo 6 straipsnio 8 punkte]] nustatytą savarankiškąją savivaldybių funkciją ir [[latest/TAR.D0CD0966D67F#^s-ba55ab579b426775ce964434|Vietos savivaldos įstatymo 7 straipsnio 7 punkte]] nustatytą valstybinę (valstybės perduotą savivaldybėms) funkciją – pagal Vyriausybės ar jos įgaliotos institucijos nustatytą tvarką;“.
@@ -49,13 +49,13 @@ Pakeisti 5 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 ### 2 straipsnis. 10 straipsnio pakeitimas ^s-ee4fcefb382bdbcc047cf3cf
 
 
-1. Pakeisti 10 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip: ^s-11a943fdd4fb15652b042082
+1. Pakeisti [[latest/TAR.F960F4CF3005#^s-de94e6ef7e97220fe7e62dae|10 straipsnio 1 dalies 7 punktą]] ir jį išdėstyti taip: ^s-11a943fdd4fb15652b042082
 
 
-„7) savivaldybės biudžetui skiriamą gyventojų pajamų mokesčio dalį (procentais), kuri apskaičiuojama kaip savivaldybei prognozuojamų pajamų iš gyventojų pajamų mokesčio, apskaičiuotų pagal šios dalies 2 ir 6 punktus, šio Įstatymo 7, 8 ir 101 straipsnius, santykis su visoms savivaldybėms prognozuojamomis pajamomis iš gyventojų pajamų mokesčio, apskaičiuotomis pagal šios dalies 1 ir 2 punktus, šio Įstatymo 101 straipsnį, išreikštas procentais.“
+„7) savivaldybės biudžetui skiriamą gyventojų pajamų mokesčio dalį (procentais), kuri apskaičiuojama kaip savivaldybei prognozuojamų pajamų iš gyventojų pajamų mokesčio, apskaičiuotų pagal šios dalies [[latest/TAR.F960F4CF3005|2]] ir [[latest/TAR.F960F4CF3005|6]] punktus, šio Įstatymo [[latest/TAR.F960F4CF3005#^s-503e899c3796d7111967c820|7]], [[latest/TAR.F960F4CF3005#^s-fc4e094c1e47636d994ea06a|8]] ir [[latest/TAR.F960F4CF3005#^s-fd4ec994bc39e224cdce01b5|101]] straipsnius, santykis su visoms savivaldybėms prognozuojamomis pajamomis iš gyventojų pajamų mokesčio, apskaičiuotomis pagal šios dalies [[latest/TAR.F960F4CF3005|1]] ir [[latest/TAR.F960F4CF3005|2]] punktus, šio Įstatymo [[latest/TAR.F960F4CF3005#^s-fd4ec994bc39e224cdce01b5|101 straipsnį]], išreikštas procentais.“
 
 
-2. Pakeisti 10 straipsnio 3 dalies 2 punktą ir jį išdėstyti taip: ^s-71c52fd774e3dfe8fb1bbf1b
+2. Pakeisti [[latest/TAR.F960F4CF3005#^s-a24902639ef8c12e583b6d4a|10 straipsnio 3 dalies 2 punktą]] ir jį išdėstyti taip: ^s-71c52fd774e3dfe8fb1bbf1b
 
 
 „2) specialią tikslinę dotaciją ugdymo reikmėms finansuoti, atsižvelgdamos į lėšų poreikį švietimo įstaigų darbuotojams – pedagogams darbo užmokesčiui už kasmetines atostogas mokėti.“
@@ -64,10 +64,10 @@ Pakeisti 5 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. Įstatymo papildymas 101 straipsniu ^s-e9fa2416ffd2421b0ac30cb7
 
 
-Papildyti Įstatymą 101 straipsniu:
+Papildyti Įstatymą [[latest/TAR.F960F4CF3005#^s-fd4ec994bc39e224cdce01b5|101 straipsniu]]:
 
 
-„101 straipsnis. Finansinio rodiklio verslo plėtros sąlygoms gerinti dydis ir sumos, apskaičiuotos taikant šį dydį, paskirstymas savivaldybėms
+„[[latest/TAR.F960F4CF3005#^s-fd4ec994bc39e224cdce01b5|101 straipsnis]]. Finansinio rodiklio verslo plėtros sąlygoms gerinti dydis ir sumos, apskaičiuotos taikant šį dydį, paskirstymas savivaldybėms
 
 
 1. Atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme gali būti numatomas finansinis rodiklis verslo plėtros sąlygoms gerinti, savivaldybėms skatinti už verslo plėtros sąlygų sudarymą. Šio rodiklio dydis apskaičiuojamas pagal formulę: ^s-dd0bec6b5acedab5456545e4

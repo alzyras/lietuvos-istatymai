@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-8e1d77a68aa9071d56016c4e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2005 m. rugsėjo 21 d. dekretą Nr. 418, ratifikuoja 2005 m. liepos 5 d. Vilniuje pasirašytą Lietuvos Respublikos ir Kanados sutartį dėl socialinės apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2005 m. rugsėjo 21 d. dekretą Nr. 418](https://e-tar.lt/portal/lt/legalAct/TAR.941569A9B845), ratifikuoja 2005 m. liepos 5 d. Vilniuje pasirašytą Lietuvos Respublikos ir Kanados sutartį dėl socialinės apsaugos.
 
 
 

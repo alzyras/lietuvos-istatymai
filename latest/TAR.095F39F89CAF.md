@@ -58,7 +58,7 @@ Vilnius
 3. Pakeisti 13 straipsnio 7 dalį ir ją išdėstyti taip: ^s-ee400465cbcb40b5ffd11647
 
 
-„7. Šio straipsnio 1 ir [[#^s-64050fe366996b225561f3cf|2 dalyse]] nurodytos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) teikimo ir daugiabučių namų atnaujinimo (modernizavimo) projektų įgyvendinimo priežiūros taisykles tvirtina Vyriausybė. Valstybės paramos teikimą administruoja ir daugiabučių namų atnaujinimo (modernizavimo) projektų įgyvendinimo priežiūrą vykdo Vyriausybės įgaliota institucija.“
+„7. Šio straipsnio [[#^s-eb1160ca1dc64f4e1e14fd5b|1]] ir [[#^s-64050fe366996b225561f3cf|2]] dalyse nurodytos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) teikimo ir daugiabučių namų atnaujinimo (modernizavimo) projektų įgyvendinimo priežiūros taisykles tvirtina Vyriausybė. Valstybės paramos teikimą administruoja ir daugiabučių namų atnaujinimo (modernizavimo) projektų įgyvendinimo priežiūrą vykdo Vyriausybės įgaliota institucija.“
 
 
 

@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos įstatymas dėl Tauriųjų metalų gaminių k
 
 ## Šis įstatymas cituoja
 
-- [[latest/7e008ae0c47311eba2bad9a0748ee64d|Lietuvos Respublikos įstatymo „Dėl Tauriųjų metalų gaminių kontrolės ir prabavimo konvencijos ir jos priedų ratifikavimo“ Nr. IX-2088 2 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XIV-332
+_Nėra._
 
 ## Šį įstatymą cituoja
 

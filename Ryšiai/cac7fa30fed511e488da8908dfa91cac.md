@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos įmonių, priklausančių finansų konglomera
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.2C94E75C224B#^s-418065917b41593e1d55a1b8|Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas]] - 2 straipsnio 24 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.2C94E75C224B#^s-c27228eaaf505378b8c6d424|Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas]] - Įstatymas Nr. XII-1695
-- [[latest/TAR.2C94E75C224B#^s-dab24a095a64b7a59b5e434d|Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymas]] - Įstatymas Nr. XII-1695
+_Nėra._

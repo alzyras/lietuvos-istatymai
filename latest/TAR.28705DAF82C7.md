@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-b4f9facfe492b9e89b635bd0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. birželio 20 d. dekretą Nr. 344, ratifikuoja 2005 m. kovo 29 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Serbijos ir Juodkalnijos Ministrų Tarybos susitarimą dėl abipusio investicijų skatinimo ir apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. birželio 20 d. dekretą Nr. 344](https://e-tar.lt/portal/lt/legalAct/TAR.8ECD46F50EC7), ratifikuoja 2005 m. kovo 29 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Serbijos ir Juodkalnijos Ministrų Tarybos susitarimą dėl abipusio investicijų skatinimo ir apsaugos.
 
 
 

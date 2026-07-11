@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo speci
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.A92E17FDCD13|Lietuvos Respublikos medžioklės įstatymas]] - Medžioklės įstatymo reikalavimus rengiamiems medžioklės plotų vienetų sudarymo ar jų ribų pakeitimo projektams parengti – įplaukos pagal 3 straipsnio 2 punktą
 
 ## Šį įstatymą cituoja
 

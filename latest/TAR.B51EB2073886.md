@@ -77,7 +77,7 @@ Vilnius
 Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
-„Kiekvienos šio įstatymo [[#^s-fdbdf05539290d39b343a204|1 straipsnio 1 dalies]] 3–6 punktuose nustatytos valstybinės pensijos dydis bei šios pensijos dydžio ir tam pačiam asmeniui paskirtų pagal šio straipsnio pirmąją dalį valstybinių pensijų ir valstybinių socialinio draudimo pensijų bendra suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama valstybinė pensija, Statistikos departamento prie Lietuvos Respublikos Vyriausybės paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio 1,5 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją mokanti institucija.“
+„Kiekvienos šio įstatymo [[#^s-fdbdf05539290d39b343a204|1 straipsnio 1 dalies]] [[#^s-006b4e446cfc8cb8df0b41d5|3]]–[[#^s-8b477ceaf96e6b3b89c0c88e|6]] punktuose nustatytos valstybinės pensijos dydis bei šios pensijos dydžio ir tam pačiam asmeniui paskirtų pagal šio straipsnio pirmąją dalį valstybinių pensijų ir valstybinių socialinio draudimo pensijų bendra suma vienam asmeniui negali viršyti užpraeito ketvirčio prieš tą mėnesį, už kurį mokama valstybinė pensija, Statistikos departamento prie Lietuvos Respublikos Vyriausybės paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio 1,5 dydžio. Pensijos dydžio ribojimą taiko valstybinę pensiją mokanti institucija.“
 
 
 

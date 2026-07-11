@@ -9,9 +9,11 @@ pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įs
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A7F77DF94F5D#^s-790a50f88567ba78bf394672|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 2 citatos - Valstybinių socialinio draudimo pensijų įstatymo 57–60 straipsnių
-- [[latest/TAR.A7F77DF94F5D#^s-e14ff58d7ff8feadaa2635d7|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 2 citatos - Valstybinių socialinio draudimo pensijų įstatymo 57–59 straipsnių
+- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 2 citatos - Valstybinių socialinio draudimo pensijų įstatymo
+- [[latest/TAR.A7F77DF94F5D#^s-790a50f88567ba78bf394672|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 60
+- [[latest/TAR.A7F77DF94F5D#^s-e14ff58d7ff8feadaa2635d7|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 59
+- [[latest/TAR.A7F77DF94F5D#^s-fc985bb611f600b0a82e42a8|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 2 citatos - 57
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A7F77DF94F5D#^s-e40f8e7af5afea6c1a51aa58|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - Įstatymas Nr. IX-2017
+_Nėra._

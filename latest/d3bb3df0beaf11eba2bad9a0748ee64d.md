@@ -60,7 +60,7 @@ užtraukia baudą asmenims nuo penkių šimtų iki septynių šimtų eurų ir ju
 užtraukia baudą asmenims nuo septynių šimtų iki devynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų iki vieno tūkstančio eurų.
 
 
-5. Augalų apsaugos produktų reklamavimo reikalavimų, nurodytų Reglamente (EB) Nr. 1107/2009, apskaitos tvarkymo reikalavimų pažeidimas ^s-4e8203abef64bb8f75e01f74
+5. Augalų apsaugos produktų reklamavimo reikalavimų, nurodytų [Reglamente (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj), apskaitos tvarkymo reikalavimų pažeidimas ^s-4e8203abef64bb8f75e01f74
 užtraukia baudą asmenims nuo septynių šimtų iki devynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų iki vieno tūkstančio eurų.
 
 
@@ -109,7 +109,7 @@ užtraukia baudą asmenims nuo penkių šimtų iki septynių šimtų eurų ir ju
 užtraukia baudą asmenims nuo septynių šimtų iki devynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų iki vieno tūkstančio eurų.
 
 
-5. Augalų apsaugos produktų, tapačių Lietuvos Respublikoje registruotiems augalų apsaugos produktams, reklamavimo reikalavimų, nurodytų Reglamente (EB) Nr. 1107/2009, apskaitos tvarkymo reikalavimų pažeidimas ^s-843f2637f9842778e383440e
+5. Augalų apsaugos produktų, tapačių Lietuvos Respublikoje registruotiems augalų apsaugos produktams, reklamavimo reikalavimų, nurodytų [Reglamente (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj), apskaitos tvarkymo reikalavimų pažeidimas ^s-843f2637f9842778e383440e
 užtraukia baudą asmenims nuo septynių šimtų iki devynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo aštuonių šimtų iki vieno tūkstančio eurų.
 
 
@@ -139,10 +139,10 @@ užtraukia baudą asmenims nuo vieno tūkstančio septynių šimtų iki dviejų 
 Papildyti Kodeksą 3422 straipsniu:
 
 
-„3422 straipsnis. Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus Reglamente (EB) Nr. 1107/2009 nurodytas išimtis, vežimas, saugojimas, naudojimas, reklamavimas, įvežimas į Lietuvos Respubliką iš Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių ar iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių, tiekimas rinkai
+„3422 straipsnis. Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus [Reglamente (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) nurodytas išimtis, vežimas, saugojimas, naudojimas, reklamavimas, įvežimas į Lietuvos Respubliką iš Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių ar iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių, tiekimas rinkai
 
 
-1. Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus Reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies a, b, c, d punktuose ir 53 straipsnyje nurodytas išimtis, vežimas, saugojimas ^s-1abc3a622ab0bdd1d202a083
+1. Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus [Reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies](https://eur-lex.europa.eu/eli/reg/1107/2009/art_28/par_2/oj) a, b, c, d punktuose ir 53 straipsnyje nurodytas išimtis, vežimas, saugojimas ^s-1abc3a622ab0bdd1d202a083
 užtraukia baudą asmenims nuo šešių šimtų iki devynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo septynių šimtų iki vieno tūkstančio vieno šimto eurų.
 
 
@@ -150,7 +150,7 @@ užtraukia baudą asmenims nuo šešių šimtų iki devynių šimtų eurų ir ju
 užtraukia baudą asmenims nuo devynių šimtų iki vieno tūkstančio trijų šimtų eurų ir juridinių asmenų vadovams ar jų įgaliotiems asmenims – nuo vieno tūkstančio vieno šimto iki vieno tūkstančio penkių šimtų eurų.
 
 
-3. Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus Reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies a, b punktuose ir 53 straipsnyje nurodytas išimtis, naudojimas ^s-d386b499ba8ce5fbd8fcdd1a
+3. Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus [Reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies](https://eur-lex.europa.eu/eli/reg/1107/2009/art_28/par_2/oj) a, b punktuose ir 53 straipsnyje nurodytas išimtis, naudojimas ^s-d386b499ba8ce5fbd8fcdd1a
 užtraukia baudą asmenims nuo devynių šimtų iki vieno tūkstančio trijų šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio vieno šimto iki vieno tūkstančio penkių šimtų eurų.
 
 
@@ -158,7 +158,7 @@ užtraukia baudą asmenims nuo devynių šimtų iki vieno tūkstančio trijų š
 užtraukia baudą asmenims nuo vieno tūkstančio trijų šimtų iki vieno tūkstančio septynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio penkių šimtų iki vieno tūkstančio devynių šimtų eurų.
 
 
-5. Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus Reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies a, b punktuose ir 53 straipsnyje nurodytas išimtis, reklamavimas ^s-8b2f36763ea6c7fc8f444b52
+5. Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus [Reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies](https://eur-lex.europa.eu/eli/reg/1107/2009/art_28/par_2/oj) a, b punktuose ir 53 straipsnyje nurodytas išimtis, reklamavimas ^s-8b2f36763ea6c7fc8f444b52
 užtraukia baudą asmenims nuo vieno tūkstančio trijų šimtų iki vieno tūkstančio septynių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio penkių šimtų iki vieno tūkstančio devynių šimtų eurų.
 
 
@@ -166,7 +166,7 @@ užtraukia baudą asmenims nuo vieno tūkstančio trijų šimtų iki vieno tūks
 užtraukia baudą asmenims nuo vieno tūkstančio septynių šimtų iki dviejų tūkstančių vieno šimto eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio devynių šimtų iki dviejų tūkstančių penkių šimtų eurų.
 
 
-7. Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus Reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies a, b punktuose ir 53 straipsnyje nurodytas išimtis, įvežimas į Lietuvos Respubliką iš Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių ar iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių ^s-2e04bf3c14f7b8e0c89400d8
+7. Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus [Reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies](https://eur-lex.europa.eu/eli/reg/1107/2009/art_28/par_2/oj) a, b punktuose ir 53 straipsnyje nurodytas išimtis, įvežimas į Lietuvos Respubliką iš Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių ar iš ne Europos Sąjungos valstybių narių ir ne Europos ekonominės erdvės valstybių ^s-2e04bf3c14f7b8e0c89400d8
 užtraukia baudą asmenims nuo vieno tūkstančio septynių šimtų iki dviejų tūkstančių vieno šimto eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo vieno tūkstančio devynių šimtų iki dviejų tūkstančių trijų šimtų eurų.
 
 
@@ -174,7 +174,7 @@ užtraukia baudą asmenims nuo vieno tūkstančio septynių šimtų iki dviejų 
 užtraukia baudą asmenims nuo dviejų tūkstančių vieno šimto iki dviejų tūkstančių penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų tūkstančių trijų šimtų iki dviejų tūkstančių septynių šimtų eurų.
 
 
-9. Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus Reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies a, b punktuose ir 53 straipsnyje nurodytas išimtis, tiekimas rinkai ^s-2488547db696dcdd89b95dda
+9. Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus [Reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies](https://eur-lex.europa.eu/eli/reg/1107/2009/art_28/par_2/oj) a, b punktuose ir 53 straipsnyje nurodytas išimtis, tiekimas rinkai ^s-2488547db696dcdd89b95dda
 užtraukia baudą asmenims nuo dviejų tūkstančių vieno šimto iki dviejų tūkstančių penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų tūkstančių trijų šimtų iki dviejų tūkstančių septynių šimtų eurų.
 
 
@@ -286,10 +286,10 @@ užtraukia baudą asmenims nuo trijų tūkstančių keturių šimtų iki trijų 
 Papildyti Kodeksą 3425 straipsniu:
 
 
-„3425 straipsnis. Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus Reglamento (EB) 1107/2009 28 straipsnio 2 dalies a, b, c, d punktuose ir 53 straipsnyje nurodytas išimtis, augalų apsaugos produktų, netapačių Lietuvos Respublikoje registruotiems augalų apsaugos produktams, ir (ar) falsifikuotų augalų apsaugos produktų, taip pat augalų apsaugos produktų, kurių galiojimo terminas pasibaigęs ir neatlikti kiekybiniai ir kokybiniai tyrimai, ar augalų apsaugos produktų, kurių galiojimo terminas pasibaigęs ir kiekybinė ir (ar) kokybinė sudėtis neatitinka Lietuvos Respublikoje registruoto augalų apsaugos produkto sudėties, tvarkymo reikalavimų nesilaikymas
+„3425 straipsnis. Lietuvos Respublikoje neregistruotų augalų apsaugos produktų, išskyrus [Reglamento (EB) 1107/2009 28 straipsnio 2 dalies](https://eur-lex.europa.eu/eli/reg/1107/2009/art_28/par_2/oj) a, b, c, d punktuose ir 53 straipsnyje nurodytas išimtis, augalų apsaugos produktų, netapačių Lietuvos Respublikoje registruotiems augalų apsaugos produktams, ir (ar) falsifikuotų augalų apsaugos produktų, taip pat augalų apsaugos produktų, kurių galiojimo terminas pasibaigęs ir neatlikti kiekybiniai ir kokybiniai tyrimai, ar augalų apsaugos produktų, kurių galiojimo terminas pasibaigęs ir kiekybinė ir (ar) kokybinė sudėtis neatitinka Lietuvos Respublikoje registruoto augalų apsaugos produkto sudėties, tvarkymo reikalavimų nesilaikymas
 
 
-1. Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos reikalavimo pašalinti iš rinkos Lietuvos Respublikoje neregistruotus augalų apsaugos produktus, išskyrus Reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies a, b, c, d punktuose ir 53 straipsnyje nurodytas išimtis, augalų apsaugos produktus, netapačius Lietuvos Respublikoje registruotiems augalų apsaugos produktams, ir (ar) falsifikuotus augalų apsaugos produktus ar augalų apsaugos produktus, kurių galiojimo terminas pasibaigęs ir neatlikti kiekybiniai ir kokybiniai tyrimai, ar augalų apsaugos produktus, kurių galiojimo terminas pasibaigęs ir kiekybinė ir (ar) kokybinė sudėtis neatitinka Lietuvos Respublikoje registruoto augalų apsaugos produkto sudėties, ir Augalų apsaugos produktų saugojimo, tiekimo rinkai, naudojimo taisyklėse nustatyta tvarka bei terminais perduoti atliekų tvarkytojui, turinčiam teisę tvarkyti atitinkamas atliekas, nesilaikymas ^s-f16e9b911583d2f9d11204db
+1. Valstybinės augalininkystės tarnybos prie Žemės ūkio ministerijos reikalavimo pašalinti iš rinkos Lietuvos Respublikoje neregistruotus augalų apsaugos produktus, išskyrus [Reglamento (EB) Nr. 1107/2009 28 straipsnio 2 dalies](https://eur-lex.europa.eu/eli/reg/1107/2009/art_28/par_2/oj) a, b, c, d punktuose ir 53 straipsnyje nurodytas išimtis, augalų apsaugos produktus, netapačius Lietuvos Respublikoje registruotiems augalų apsaugos produktams, ir (ar) falsifikuotus augalų apsaugos produktus ar augalų apsaugos produktus, kurių galiojimo terminas pasibaigęs ir neatlikti kiekybiniai ir kokybiniai tyrimai, ar augalų apsaugos produktus, kurių galiojimo terminas pasibaigęs ir kiekybinė ir (ar) kokybinė sudėtis neatitinka Lietuvos Respublikoje registruoto augalų apsaugos produkto sudėties, ir Augalų apsaugos produktų saugojimo, tiekimo rinkai, naudojimo taisyklėse nustatyta tvarka bei terminais perduoti atliekų tvarkytojui, turinčiam teisę tvarkyti atitinkamas atliekas, nesilaikymas ^s-f16e9b911583d2f9d11204db
 užtraukia baudą asmenims nuo vieno tūkstančio penkių šimtų iki dviejų tūkstančių penkių šimtų eurų ir juridinių asmenų vadovams ar kitiems atsakingiems asmenims – nuo dviejų tūkstančių penkių šimtų iki trijų tūkstančių penkių šimtų eurų.
 
 
@@ -337,13 +337,13 @@ užtraukia baudą asmenims nuo vieno šimto iki dviejų šimtų eurų ir juridin
 1. Pakeisti 589 straipsnio 32 punktą ir jį išdėstyti taip: ^s-b60381c18a34778f6ad5058e
 
 
-„32) Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 95, 99, 127, 143, 150, 155, 158, 160, 161, 162, 163, 164, 165, 166, 168, 171, 172, 173, 174, 176, 185, 186, 187, 188, 193, 198, 205 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224 straipsniuose, 3422 straipsnio 1, [[#^s-151fca6809a80f1608569d25|2 dalyse]], 3423 straipsnio 1, [[#^s-151fca6809a80f1608569d25|2 dalyse]], 3424 straipsnio 1, [[#^s-151fca6809a80f1608569d25|2 dalyse]], 505 straipsnyje, 506 straipsnio 4, 41 dalyse, 508, 515 straipsniuose numatytų administracinių nusižengimų;“.
+„32) Finansinių nusikaltimų tyrimo tarnybos prie Vidaus reikalų ministerijos – dėl šio kodekso 95, 99, 127, 143, 150, 155, 158, 160, 161, 162, 163, 164, 165, 166, 168, 171, 172, 173, 174, 176, 185, 186, 187, 188, 193, 198, 205 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 214, 224 straipsniuose, 3422 straipsnio 1, 2 dalyse, 3423 straipsnio 1, 2 dalyse, 3424 straipsnio 1, 2 dalyse, 505 straipsnyje, 506 straipsnio 4, 41 dalyse, 508, 515 straipsniuose numatytų administracinių nusižengimų;“.
 
 
 2. Pakeisti 589 straipsnio 40 punktą ir jį išdėstyti taip: ^s-151fca6809a80f1608569d25
 
 
-„40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, [[#^s-151fca6809a80f1608569d25|2 dalyse]], 141, 1411, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, [[#^s-ffb826dd0e7ea5d1ca561ce0|3 dalyse]], 3042 straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 3081 straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 12, 13 dalyse, 312 straipsnio 1, 3, [[#^s-e69c12d295c12e3357344453|4 dalyse]], 341 straipsnyje, 342 straipsnio 7, 8 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, [[#^s-151fca6809a80f1608569d25|2 dalyse]], 436, 437, 450 straipsniuose, 459 straipsnio 4, 5, 6, 9 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 41 dalyse, 508, 5101, 515 straipsniuose numatytų administracinių nusižengimų;“.
+„40) Lietuvos Respublikos muitinės – dėl šio kodekso 47 straipsnio 3 dalyje, 49 straipsnio 5 dalyje, 63 straipsnio 6 dalyje, 64 straipsnyje, 65 straipsnio 3 dalyje, 66 straipsnio 5 dalyje, 69, 121, 122, 125 straipsniuose, 140 straipsnio 1, 2 dalyse, 141, 1411, 143, 173, 174, 176, 187, 208 straipsniuose, 209 straipsnio 1, 2, 3, 4, 5, 6, 7, 8 dalyse, 210, 211, 212, 213, 214, 215, 216, 217, 2171, 218, 219, 224 straipsniuose, 234 straipsnio 1 dalyje, 245 straipsnyje, 251 straipsnio 1, 2, 3, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 dalyse, 284 straipsnio 5, 6 dalyse, 285 straipsnio 1 dalyje, 303 straipsnio 1, 2, 3 dalyse, 3042 straipsnio 2 dalyje, 308 straipsnio 6 dalyje, 3081 straipsnio 2, 3, 5, 7, 8 dalyse, 309 straipsnio 6, 9 dalyse, 310 straipsnio 12, 13 dalyse, 312 straipsnio 1, 3, 4 dalyse, 341 straipsnyje, 342 straipsnio 7, 8 dalyse, 408, 412 straipsniuose, 426 straipsnio 4 dalyje, 431 straipsnio 1, 2 dalyse, 436, 437, 450 straipsniuose, 459 straipsnio 4, 5, 6, 9 dalyse, 463, 464, 475, 504, 505 straipsniuose, 506 straipsnio 4, 41 dalyse, 508, 5101, 515 straipsniuose numatytų administracinių nusižengimų;“.
 
 
 3. Pakeisti 589 straipsnio 57 punktą ir jį išdėstyti taip: ^s-ffb826dd0e7ea5d1ca561ce0
@@ -364,13 +364,13 @@ užtraukia baudą asmenims nuo vieno šimto iki dviejų šimtų eurų ir juridin
 1. Pakeisti Kodekso priedo 55 punktą ir jį išdėstyti taip: ^s-0508e0b5cbe016360d55114b
 
 
-„55. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2009 dėl augalų apsaugos produktų pateikimo į rinką ir panaikinantis Tarybos direktyvas 79/117/EEB ir 91/414/EEB, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1381.“
+„55. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) dėl augalų apsaugos produktų pateikimo į rinką ir panaikinantis Tarybos direktyvas 79/117/EEB ir 91/414/EEB, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/1381](https://eur-lex.europa.eu/eli/reg/2019/1381/oj).“
 
 
 2. Papildyti Kodekso priedą 551 punktu: ^s-fbc39c38d4900aec54d777bf
 
 
-„551. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/128/EB, nustatanti Bendrijos veiksmų pagrindus siekiant tausiojo pesticidų naudojimo, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243.“
+„551. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/128/EB, nustatanti Bendrijos veiksmų pagrindus siekiant tausiojo pesticidų naudojimo, su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/1243](https://eur-lex.europa.eu/eli/reg/2019/1243/oj).“
 
 
 ### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-48a40694ce734a5b7b26474c

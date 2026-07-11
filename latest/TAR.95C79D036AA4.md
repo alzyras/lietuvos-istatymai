@@ -256,7 +256,7 @@ Nr. XV-982, 2026-06-02, paskelbta TAR 2026-06-10, i. k. 2026-10157
 32. Vaikas – asmuo iki 16 metų. ^s-69e659503d333f13b4b140a1
 
 
-33. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančiame Europos cheminių medžiagų agentūrą, iš dalies keičiančiame Direktyvą 1999/45/EB bei panaikinančiame Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, su visais pakeitimais, [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatyme]] ir [[latest/422c8b5042b811e6a8ae9e1795984391|Lietuvos Respublikos užimtumo įstatyme]]. ^s-08f2edba239bb2d9b02ca5c9
+33. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančiame Europos cheminių medžiagų agentūrą, iš dalies keičiančiame Direktyvą 1999/45/EB bei panaikinančiame Tarybos reglamentą (EEB) Nr. 793/93, Komisijos [reglamentą (EB) Nr. 1488/94](https://eur-lex.europa.eu/eli/reg/1488/94/oj), Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, su visais pakeitimais, [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatyme]] ir [[latest/422c8b5042b811e6a8ae9e1795984391|Lietuvos Respublikos užimtumo įstatyme]]. ^s-08f2edba239bb2d9b02ca5c9
 Papildyta straipsnio dalimi:
 Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
@@ -277,7 +277,7 @@ Nr. XII-739, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 214-00017
 1. Kiekvienam darbuotojui privalo būti sudarytos saugios ir sveikatai nekenksmingos darbo sąlygos, neatsižvelgiant į įmonės veiklos rūšį, darbo sutarties rūšį, darbuotojų skaičių, įmonės rentabilumą, darbo vietą, darbo aplinką, darbo pobūdį, darbo dienos ar darbo pamainos trukmę, darbuotojo pilietybę, rasę, tautybę, lytį, seksualinę orientaciją, amžių, socialinę kilmę, politinius ar religinius įsitikinimus. ^s-73a5da86f6f2c99d975eb9e6
 
 
-2. Darbuotojo teisę turėti saugias ir sveikatai nekenksmingas darbo sąlygas garantuoja Lietuvos Respublikos Konstitucija, šis Įstatymas ir kiti darbuotojų saugos ir sveikatos norminiai teisės aktai. Saugias ir sveikatai nekenksmingas darbo sąlygas darbuotojams privalo sudaryti darbdaviai. Dėl saugių ir sveikatai nekenksmingų darbo sąlygų sudarymo darbuotojas turi teisę kreiptis į darbuotojų atstovą, padalinio vadovą ar kitą darbdavio įgaliotą asmenį, darbdaviui atstovaujantį asmenį, darbuotojų saugos ir sveikatos komitetą, Lietuvos Respublikos valstybinę darbo inspekciją prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinė darbo inspekcija) ar kitas valstybės institucijas, teikdamas pasiūlymus ar reikalaudamas, kad būtų sudarytos saugios ir sveikatai nekenksmingos darbo sąlygos. ^s-bfcbba0ebe06848e7e94dc9a
+2. Darbuotojo teisę turėti saugias ir sveikatai nekenksmingas darbo sąlygas garantuoja [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis Įstatymas ir kiti darbuotojų saugos ir sveikatos norminiai teisės aktai. Saugias ir sveikatai nekenksmingas darbo sąlygas darbuotojams privalo sudaryti darbdaviai. Dėl saugių ir sveikatai nekenksmingų darbo sąlygų sudarymo darbuotojas turi teisę kreiptis į darbuotojų atstovą, padalinio vadovą ar kitą darbdavio įgaliotą asmenį, darbdaviui atstovaujantį asmenį, darbuotojų saugos ir sveikatos komitetą, Lietuvos Respublikos valstybinę darbo inspekciją prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybinė darbo inspekcija) ar kitas valstybės institucijas, teikdamas pasiūlymus ar reikalaudamas, kad būtų sudarytos saugios ir sveikatai nekenksmingos darbo sąlygos. ^s-bfcbba0ebe06848e7e94dc9a
 Straipsnio dalies pakeitimai:
 Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
 
@@ -293,7 +293,7 @@ Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 ### 4 straipsnis. Įstatymo taikymas ^s-8f8f7d5ad5afd4e9b2b353aa
 
 
-1. Šis Įstatymas taikomas bet kuriai veiklai, įskaitant veiklą, vykdomą laivuose, plaukiojančiuose su Lietuvos valstybės vėliava, atsižvelgiant į šio straipsnio 2 ir [[#^s-c1a74339cec6ea294304a7a9|4 dalyse]] numatytus šio Įstatymo taikymo ypatumus. Šio Įstatymo 15 ir [[#^s-9fe1d52c299d02de84de17df|46 straipsnių]] nuostatos taikomos statytojams (užsakovams), taip pat statinio projektavimo valdytojams ir (ar) statinio statybos valdytojams, jeigu statytojas (užsakovas), kaip įgaliotojas, pavedimo sutartimi nustatė įgaliotiniui – statinio projektavimo valdytojui ar statinio statybos valdytojui – vykdyti šio Įstatymo [[#^s-f4a1e2186e2245f283de13bf|15 straipsnio 1 dalyje]] statytojui (užsakovui) nustatytas pareigas. ^s-e2b1c9f6fca4262ed5d73308
+1. Šis Įstatymas taikomas bet kuriai veiklai, įskaitant veiklą, vykdomą laivuose, plaukiojančiuose su Lietuvos valstybės vėliava, atsižvelgiant į šio straipsnio [[#^s-fdf2bbb355abc6df7ce69881|2]] ir [[#^s-c1a74339cec6ea294304a7a9|4]] dalyse numatytus šio Įstatymo taikymo ypatumus. Šio Įstatymo [[#^s-7e52dd79ebbd6973a7f52149|15]] ir [[#^s-9fe1d52c299d02de84de17df|46]] straipsnių nuostatos taikomos statytojams (užsakovams), taip pat statinio projektavimo valdytojams ir (ar) statinio statybos valdytojams, jeigu statytojas (užsakovas), kaip įgaliotojas, pavedimo sutartimi nustatė įgaliotiniui – statinio projektavimo valdytojui ar statinio statybos valdytojui – vykdyti šio Įstatymo [[#^s-f4a1e2186e2245f283de13bf|15 straipsnio 1 dalyje]] statytojui (užsakovui) nustatytas pareigas. ^s-e2b1c9f6fca4262ed5d73308
 Straipsnio dalies pakeitimai:
 Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 
@@ -314,7 +314,7 @@ Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
 
 
 
-5. Savarankiškai dirbančiam asmeniui, kaip ši sąvoka apibrėžta [[latest/422c8b5042b811e6a8ae9e1795984391#^s-7934858345f600523478e20f|Užimtumo įstatymo 5 straipsnio 1 punkte]], vykdančiam savarankišką veiklą statybvietėje, mutatis mutandis taikomos šio Įstatymo [[#^s-f4a1e2186e2245f283de13bf|15 straipsnio 1 dalies]], [[#^s-23a3642f9ca583131eafee06|16 straipsnio]], [[#^s-942e0677a769188a293b745f|25 straipsnio 1 dalies 1 punkto]], [[#^s-c5ad7698aafc987537bad745|28 straipsnio 2 dalies]], [[#^s-2dbd86d51b4570c95340ce48|30 straipsnio]] ir [[#^s-75cb9381c5e77611188b6a7b|33 straipsnio 1 dalies]] 1–6 punktų nuostatos. ^s-b10ba9218a9d86462bf839c1
+5. Savarankiškai dirbančiam asmeniui, kaip ši sąvoka apibrėžta [[latest/422c8b5042b811e6a8ae9e1795984391#^s-7934858345f600523478e20f|Užimtumo įstatymo 5 straipsnio 1 punkte]], vykdančiam savarankišką veiklą statybvietėje, mutatis mutandis taikomos šio Įstatymo [[#^s-f4a1e2186e2245f283de13bf|15 straipsnio 1 dalies]], [[#^s-23a3642f9ca583131eafee06|16 straipsnio]], [[#^s-942e0677a769188a293b745f|25 straipsnio 1 dalies 1 punkto]], [[#^s-c5ad7698aafc987537bad745|28 straipsnio 2 dalies]], [[#^s-2dbd86d51b4570c95340ce48|30 straipsnio]] ir [[#^s-75cb9381c5e77611188b6a7b|33 straipsnio 1 dalies]] [[#^s-ec2e55a1200b9ff256659f31|1]]–[[#^s-00a64a6e9695081358069326|6]] punktų nuostatos. ^s-b10ba9218a9d86462bf839c1
 Papildyta straipsnio dalimi:
 Nr. XIV-551, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21218
 
@@ -515,7 +515,7 @@ Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 
 
 
-2) laive, išskyrus plaukiojantį išimtinai vidaus vandenyse, Lietuvos Respublikos teritorinėje jūroje arba Lietuvos Respublikos valstybinių jūrų uostų akvatorijose, kuris verčiasi komercine veikla, išskyrus žvejybos laivus, tradicinius laivus, karinių jūrų pajėgų laivus, (toliau šiame straipsnyje – laivas) komitetas steigiamas, kai jame yra 5 ar daugiau darbuotojų. Laivo komitetas steigiamas ir jo darbas organizuojamas šios dalies 3–[[#^s-6aba7b69ff5598be112bba95|6 punktuose]] ir 3 ir [[#^s-6605c951aee77380e777e38b|4 dalyse]] nustatyta komiteto steigimo ir jo darbo organizavimo tvarka; ^s-b588e10a8fa1bdb243a4da1c
+2) laive, išskyrus plaukiojantį išimtinai vidaus vandenyse, Lietuvos Respublikos teritorinėje jūroje arba Lietuvos Respublikos valstybinių jūrų uostų akvatorijose, kuris verčiasi komercine veikla, išskyrus žvejybos laivus, tradicinius laivus, karinių jūrų pajėgų laivus, (toliau šiame straipsnyje – laivas) komitetas steigiamas, kai jame yra 5 ar daugiau darbuotojų. Laivo komitetas steigiamas ir jo darbas organizuojamas šios dalies [[#^s-b0047d97787afcb0fa549c5e|3]]–[[#^s-6aba7b69ff5598be112bba95|6]] punktuose ir [[#^s-74be0777218ceb66a2f7abcc|3]] ir [[#^s-6605c951aee77380e777e38b|4]] dalyse nustatyta komiteto steigimo ir jo darbo organizavimo tvarka; ^s-b588e10a8fa1bdb243a4da1c
 
 
 3) komitetas sudaromas dvišaliu principu – iš vienodo skaičiaus darbdavio ar darbdaviui atstovaujančio asmens skirtų darbdavio atstovų (administracijos pareigūnų) ir iš [[#^s-6605c951aee77380e777e38b|šio straipsnio 4 dalyje]] nustatyta tvarka išrinktų darbuotojų atstovų saugai ir sveikatai; ^s-b0047d97787afcb0fa549c5e
@@ -843,7 +843,7 @@ Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 8) darbdavys fizinis asmuo miršta arba paskelbiamas mirusiu. ^s-f210785d20234b3cf65f413e
 
 
-12. Valstybinė darbo inspekcija sustabdo leidimo galiojimą, panaikina leidimo galiojimo sustabdymą ar leidimo galiojimą ir praneša apie leidimo galiojimo sustabdymą, leidimo galiojimo sustabdymo panaikinimą ar leidimo galiojimo panaikinimą darbdaviui ne vėliau kaip per 3 darbo dienas nuo šio straipsnio 9, 10 ar [[#^s-d2efb85d1ccee30544c5dd38|11 dalyje]], išskyrus šios dalies 7 ir 8 punktus, nurodytų aplinkybių paaiškėjimo dienos. ^s-fc624b52cae3266a8798cbe7
+12. Valstybinė darbo inspekcija sustabdo leidimo galiojimą, panaikina leidimo galiojimo sustabdymą ar leidimo galiojimą ir praneša apie leidimo galiojimo sustabdymą, leidimo galiojimo sustabdymo panaikinimą ar leidimo galiojimo panaikinimą darbdaviui ne vėliau kaip per 3 darbo dienas nuo šio straipsnio 9, 10 ar 11 dalyje, išskyrus šios dalies 7 ir 8 punktus, nurodytų aplinkybių paaiškėjimo dienos. ^s-fc624b52cae3266a8798cbe7
 
 
 13. Valstybinė darbo inspekcija, nustačiusi, kad darbdavys vykdo su asbesto poveikiu susijusius statybos darbus neturėdamas leidimo arba esant sustabdytam leidimo galiojimui, vyriausiojo valstybinio darbo inspektoriaus nustatyta tvarka turi teisę reikalauti, kad darbdavys sustabdytų šiuos darbus, iki jam bus išduotas leidimas. ^s-22164fc1f96d4e2d8748f603
@@ -1049,7 +1049,7 @@ Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 
 
 
-7. Įmonės atskiro struktūrinio padalinio, esančio kitoje negu įmonė teritorijoje ar vietovėje, vadovo žinios darbuotojų saugos ir sveikatos klausimais tikrinamos šio Įstatymo [[#^s-0ec7b70f0797bc2479af3c92|26 straipsnyje]] nustatyta tvarka. Jis darbdaviui atstovaujančio asmens pavedimu savarankiškai vykdo priemones, nustatytas šio straipsnio 3, 4 ir [[#^s-49b2fe24c8e4c43d0e369951|5 dalyse]]. ^s-b246974cc50d600bbeb9fd48
+7. Įmonės atskiro struktūrinio padalinio, esančio kitoje negu įmonė teritorijoje ar vietovėje, vadovo žinios darbuotojų saugos ir sveikatos klausimais tikrinamos šio Įstatymo [[#^s-0ec7b70f0797bc2479af3c92|26 straipsnyje]] nustatyta tvarka. Jis darbdaviui atstovaujančio asmens pavedimu savarankiškai vykdo priemones, nustatytas šio straipsnio [[#^s-a9f982c3d1435d6dffc49082|3]], [[#^s-c4de3f2b6e4d8a7682303254|4]] ir [[#^s-49b2fe24c8e4c43d0e369951|5]] dalyse. ^s-b246974cc50d600bbeb9fd48
 Straipsnio dalies pakeitimai:
 Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
 
@@ -1167,7 +1167,7 @@ Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
 
 
 
-7) sudaro sąlygas šio Įstatymo 12 ir [[#^s-929e6fb2f980ff753cbb73ea|13 straipsniuose]] numatytų įmonės darbuotojų saugos ir sveikatos tarnybos, darbuotojų saugos ir sveikatos komiteto veiklai; ^s-22385f9381ceac19c6ede82d
+7) sudaro sąlygas šio Įstatymo [[#^s-58c6720a3b9f5d1dcd008f58|12]] ir [[#^s-929e6fb2f980ff753cbb73ea|13]] straipsniuose numatytų įmonės darbuotojų saugos ir sveikatos tarnybos, darbuotojų saugos ir sveikatos komiteto veiklai; ^s-22385f9381ceac19c6ede82d
 
 
 8) užtikrina [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] ir kitų norminių teisės aktų, reglamentuojančių darbo ir poilsio laiką, nustatytą darbuotojų darbo ir poilsio laiką; ^s-c5fe29866ad85a28fd8ef222
@@ -1550,7 +1550,7 @@ Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
 6. Asmenų iki aštuoniolikos metų, kai jie dirba daugiau negu vienoje darbovietėje ar mokosi profesinio mokymo įstaigoje ir dirba, kasdienio ir savaitės darbo laiko kiekvienoje darbovietėje ir praktinio mokymo laiko trukmė sumuojama. ^s-054a1a838b00d72edd51bd3d
 
 
-7. Vaikai gali dirbti leidžiamus lengvus darbus laisvu nuo mokymosi metu, išskyrus šio straipsnio 8 ir [[#^s-ca8e065aec9e9d38d4d11a14|9 dalyse]] nurodytus draudimus. ^s-1e4a35db076a249aa58b365d
+7. Vaikai gali dirbti leidžiamus lengvus darbus laisvu nuo mokymosi metu, išskyrus šio straipsnio [[#^s-3f4e1c51193ecec90cd2777d|8]] ir [[#^s-ca8e065aec9e9d38d4d11a14|9]] dalyse nurodytus draudimus. ^s-1e4a35db076a249aa58b365d
 
 
 8. Vaikų darbas rytais nuo šeštos iki septintos valandos prieš pamokas draudžiamas. ^s-3f4e1c51193ecec90cd2777d
@@ -1906,10 +1906,10 @@ Nr. XII-739, 2013-12-23, paskelbta TAR 2014-01-03, i. k. 214-00017
 4. Lietuvos Respublikos profesinių ligų registro duomenys tvarkomi siekiant identifikuoti asmenį, kuriam nustatyta profesinė liga, užtikrinti teisingą informacijos apie registro objektus tvarkymą, teikti asmens duomenis duomenų gavėjams, tvarkyti registro duomenis statistikos tikslais. ^s-c26d52846f91d4e24ff0cdbd
 
 
-5. Registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. Registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus bei [[latest/TAR.C6E4170DB704|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme]] nustatytus sveikatos duomenų teikimo pacientams reikalavimus. ^s-52b55bd19c21f934b6b59c09
+5. Registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. Registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus bei [[latest/TAR.C6E4170DB704|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme]] nustatytus sveikatos duomenų teikimo pacientams reikalavimus. ^s-52b55bd19c21f934b6b59c09
 
 
-6. Registro informacinės sistemos duomenys gali būti teikiami pakartotinai naudoti vadovaujantis [[latest/0457ba8067e611eca9ac839120d251c4|Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatymo]] nuostatomis arba kitu teisėtu pagrindu, nustatytu Reglamente (ES) 2016/679 arba specialiuosiuose įstatymuose, reglamentuojančiuose asmens duomenų tvarkymą asmens sutikimu. Asmens duomenų teikimas pakartotiniam naudojimui galimas tik tada, kai yra bent vienas teisėtas duomenų tvarkymo pagrindas pagal Reglamento (ES) 2016/679 [[#^s-526583b7c991e8ba9e1ba952|6 straipsnį]], o jeigu bus tvarkomi specialių kategorijų (sveikatos) duomenys, taikoma bent viena iš šio reglamento [[#^s-319ac4170a976f4a03085310|9 straipsnio 2 dalyje]] nustatytų išimčių, leidžiančių tvarkyti specialių kategorijų (sveikatos) duomenis, ir toks tvarkymas atitinka Reglamento (ES) 2016/679 [[#^s-48677b4b045eeb4aae7e0b00|5 straipsnyje]] nustatytus duomenų tvarkymo principus. ^s-b440312114b9a61acf56c7c6
+6. Registro informacinės sistemos duomenys gali būti teikiami pakartotinai naudoti vadovaujantis [[latest/0457ba8067e611eca9ac839120d251c4|Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatymo]] nuostatomis arba kitu teisėtu pagrindu, nustatytu [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) arba specialiuosiuose įstatymuose, reglamentuojančiuose asmens duomenų tvarkymą asmens sutikimu. Asmens duomenų teikimas pakartotiniam naudojimui galimas tik tada, kai yra bent vienas teisėtas duomenų tvarkymo pagrindas pagal [Reglamento (ES) 2016/679 6 straipsnį](https://eur-lex.europa.eu/eli/reg/2016/679/art_6/oj), o jeigu bus tvarkomi specialių kategorijų (sveikatos) duomenys, taikoma bent viena iš šio reglamento [[#^s-319ac4170a976f4a03085310|9 straipsnio 2 dalyje]] nustatytų išimčių, leidžiančių tvarkyti specialių kategorijų (sveikatos) duomenis, ir toks tvarkymas atitinka [Reglamento (ES) 2016/679 5 straipsnyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_5/oj) nustatytus duomenų tvarkymo principus. ^s-b440312114b9a61acf56c7c6
 
 
 7. Registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra atveriami pakartotinai naudoti. ^s-f2a1a9a3ab44ff3b6735c742
@@ -1983,31 +1983,31 @@ Nr. XIII-1158, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08529
 Įsigaliojus šiam Įstatymui, netenka galios:
 
 
-1. Lietuvos Respublikos žmonių saugos darbe įstatymas (Žin., 1993, Nr. 55-1064); ^s-e0f941b63b19907a0051911e
+1. [Lietuvos Respublikos žmonių saugos darbe įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.1C72AF32F5CB) (Žin., 1993, Nr. 55-1064); ^s-e0f941b63b19907a0051911e
 
 
-2. Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos žmonių saugos darbe įstatymo pakeitimo ir papildymo“ (Žin., 1994, Nr. 88-1669); ^s-8dd6a687a07bd0ecf5ff6d0b
+2. Lietuvos Respublikos įstatymas [„Dėl Lietuvos Respublikos žmonių saugos darbe įstatymo pakeitimo ir papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.D6F6CB8ABE07) (Žin., 1994, Nr. 88-1669); ^s-8dd6a687a07bd0ecf5ff6d0b
 
 
-3. Lietuvos Respublikos žmonių saugos darbe įstatymo 1, 15, 28, 29, 35, 36, 42, 68 straipsnių pakeitimo ir papildymo įstatymas (Žin., 1996, Nr. 50-1195); ^s-22eab76ed2b7379d207f1d5c
+3. [Lietuvos Respublikos žmonių saugos darbe įstatymo 1, 15, 28, 29, 35, 36, 42, 68 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.1E2B48695013) (Žin., 1996, Nr. 50-1195); ^s-22eab76ed2b7379d207f1d5c
 
 
-4. Lietuvos Respublikos žmonių saugos darbe įstatymo 79 straipsnio pakeitimo įstatymas (Žin., 1997, Nr. 67-1658); ^s-f5976dd7186bc81868eb7fde
+4. [Lietuvos Respublikos žmonių saugos darbe įstatymo 79 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.BC88AC92E481) (Žin., 1997, Nr. 67-1658); ^s-f5976dd7186bc81868eb7fde
 
 
-5. Lietuvos Respublikos žmonių saugos darbe įstatymo 73 straipsnio pakeitimo įstatymas (Žin., 1997, Nr. 117-3001); ^s-0b2fda90c7903d75519a8be4
+5. [Lietuvos Respublikos žmonių saugos darbe įstatymo 73 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.B3B834092B4E) (Žin., 1997, Nr. 117-3001); ^s-0b2fda90c7903d75519a8be4
 
 
-6. Lietuvos Respublikos žmonių saugos darbe įstatymo [[#^s-075c0d38d116778feec3699c|43 straipsnio]] papildymo įstatymas (Žin., 2000, Nr. 57-1678); ^s-3af96b7890f7d67f7b616dae
+6. [Lietuvos Respublikos žmonių saugos darbe įstatymo 43 straipsnio papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.DC506D7EF952) (Žin., 2000, Nr. 57-1678); ^s-3af96b7890f7d67f7b616dae
 
 
-7. Lietuvos Respublikos žmonių saugos darbe įstatymo pakeitimo įstatymas (Žin., 2000, Nr. 95-2968); ^s-e634fecf1a1c47e81febfb62
+7. [Lietuvos Respublikos žmonių saugos darbe įstatymo pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.F33CACCE2B89) (Žin., 2000, Nr. 95-2968); ^s-e634fecf1a1c47e81febfb62
 
 
-8. [[#^s-3725e50f55c295078d85fd33|Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 45 straipsnio]] pakeitimo įstatymas (Žin., 2002, Nr. 72-3012); ^s-cb7b2c490b19b489a447047d
+8. [Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 45 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.94437EC84636) (Žin., 2002, Nr. 72-3012); ^s-cb7b2c490b19b489a447047d
 
 
-9. Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 71 straipsnio pakeitimo įstatymas (Žin., 2003, Nr. 38-1698). ^s-64c49a9fd73ef1e59c160858
+9. [Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 71 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.059A39D7F56B) (Žin., 2003, Nr. 38-1698). ^s-64c49a9fd73ef1e59c160858
 
 
 
@@ -2036,7 +2036,7 @@ priedas
 
 
 
-1. 1989 m. birželio 12 d. Tarybos direktyva 89/391/EEB dėl priemonių darbuotojų saugai ir sveikatos apsaugai darbe gerinti nustatymo su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008. ^s-dc10fe478467d9a1655af985
+1. 1989 m. birželio 12 d. Tarybos direktyva 89/391/EEB dėl priemonių darbuotojų saugai ir sveikatos apsaugai darbe gerinti nustatymo su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1137/2008](https://eur-lex.europa.eu/eli/reg/1137/2008/oj). ^s-dc10fe478467d9a1655af985
 
 
 2. 1991 m. birželio 25 d. Tarybos direktyva 91/383/EEB, pateikianti papildomas priemones, skatinančias gerinti terminuotuose arba laikinuose darbo santykiuose esančių darbuotojų saugą ir sveikatą darbe, su paskutiniais pakeitimais, padarytais 2007 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva 2007/30/EB. ^s-21e9eac6f4aee9aba6d9a9eb
@@ -2051,10 +2051,10 @@ priedas
 5. 1994 m. birželio 22 d. Tarybos direktyva 94/33/EB dėl dirbančio jaunimo apsaugos su paskutiniais pakeitimais, padarytais 2014 m. vasario 26 d. Europos Parlamento ir Tarybos direktyva 2014/27/ES. ^s-4666a79d12383bb9b4765915
 
 
-6. 2009 m. vasario 16 d. Tarybos direktyva 2009/13/EB, įgyvendinanti Europos bendrijos laivų savininkų asociacijų (ECSA) ir Europos transporto darbuotojų federacijos (ETF) sudarytą susitarimą dėl 2006 m. Konvencijos dėl darbo jūrų laivyboje ir iš dalies keičianti Direktyvą 1999/63/EB, su paskutiniais pakeitimais, padarytais 2018 m. sausio 23 d. Tarybos direktyva (ES) 2018/131. ^s-c3e978d05a86588edcc759f0
+6. 2009 m. vasario 16 d. Tarybos direktyva 2009/13/EB, įgyvendinanti Europos bendrijos laivų savininkų asociacijų (ECSA) ir Europos transporto darbuotojų federacijos (ETF) sudarytą susitarimą dėl 2006 m. Konvencijos dėl darbo jūrų laivyboje ir iš dalies keičianti Direktyvą 1999/63/EB, su paskutiniais pakeitimais, padarytais 2018 m. sausio 23 d. Tarybos [direktyva (ES) 2018/131](https://eur-lex.europa.eu/eli/dir/2018/131/oj). ^s-c3e978d05a86588edcc759f0
 
 
-7. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos direktyva 2009/148/EB dėl darbuotojų apsaugos nuo rizikos, susijusios su asbesto veikimu darbe, su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2668. ^s-6d00c0189504ad433cba1d6a
+7. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos direktyva 2009/148/EB dėl darbuotojų apsaugos nuo rizikos, susijusios su asbesto veikimu darbe, su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/2668](https://eur-lex.europa.eu/eli/dir/2023/2668/oj). ^s-6d00c0189504ad433cba1d6a
 Papildyta punktu:
 Nr. XV-982, 2026-06-02, paskelbta TAR 2026-06-10, i. k. 2026-10157
 
@@ -2092,13 +2092,13 @@ DARBUOTOJŲ SAUGOS IR SVEIKATOS ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1169, 2007-06-07, Žin., 2007, Nr. 69-2720 (2007-06-23)
-[[#^s-3725e50f55c295078d85fd33|DARBUOTOJŲ SAUGOS IR SVEIKATOS ĮSTATYMO 1, 2, 5, 8, 12, 15, 16, 21, 25, 27, 29, 34, 38, 39, 44, 45 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, V SKYRIAUS PAVADINIMO PAKEITIMO BEI ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
-Šio įstatymo [[#^s-bddea8b5c7183a9b5ebca560|5 straipsnio 1 dalis]], 6 ir [[#^s-23a3642f9ca583131eafee06|16 straipsniai]] įsigalioja nuo 2008 m. liepos 1 d.
+DARBUOTOJŲ SAUGOS IR SVEIKATOS ĮSTATYMO [[#^s-55dc60651f372ce8b6b89b50|1]], [[#^s-118380eb86d88a94a7c91d39|2]], [[#^s-48677b4b045eeb4aae7e0b00|5]], [[#^s-56360c067662da0b01627edf|8]], [[#^s-58c6720a3b9f5d1dcd008f58|12]], [[#^s-7e52dd79ebbd6973a7f52149|15]], [[#^s-23a3642f9ca583131eafee06|16]], [[#^s-c64442e647dac4b4d3ad616b|21]], [[#^s-c165b385da553fecb7adbc48|25]], [[#^s-c625415201001411a6a38076|27]], [[#^s-3d3d2247a313e6bcdbb8cf8f|29]], [[#^s-0f94ac9397206c4fe0540ff7|34]], [[#^s-8be1213a87911e57f477266a|38]], [[#^s-cd00258d2e03bf2445fa7c93|39]], [[#^s-fd4b3731f5696771ffd069fe|44]], [[#^s-3725e50f55c295078d85fd33|45]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, V SKYRIAUS PAVADINIMO PAKEITIMO BEI ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
+Šio įstatymo [[#^s-bddea8b5c7183a9b5ebca560|5 straipsnio 1 dalis]], [[#^s-526583b7c991e8ba9e1ba952|6]] ir [[#^s-23a3642f9ca583131eafee06|16]] straipsniai įsigalioja nuo 2008 m. liepos 1 d.
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-802, 2010-05-11, Žin., 2010, Nr. 60-2961 (2010-05-25)
-[[#^s-c625415201001411a6a38076|DARBUOTOJŲ SAUGOS IR SVEIKATOS ĮSTATYMO 8, 12, 13, 22, 27 STRAIPSNIŲ]] PAKEITIMO IR 12(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+DARBUOTOJŲ SAUGOS IR SVEIKATOS ĮSTATYMO [[#^s-56360c067662da0b01627edf|8]], [[#^s-58c6720a3b9f5d1dcd008f58|12]], [[#^s-929e6fb2f980ff753cbb73ea|13]], [[#^s-b87e9d2b97ec8431cc15b9bf|22]], [[#^s-c625415201001411a6a38076|27]] STRAIPSNIŲ PAKEITIMO IR 12(1) STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-56360c067662da0b01627edf|8 straipsnį]], įsigalioja 2010 m. birželio 1 d.
 
 6.
@@ -2142,37 +2142,37 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1437, 2014-12-16, paskelbta TAR 2014-12-23, i. k. 2014-20565
-Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2 ir [[#^s-0ec7b70f0797bc2479af3c92|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 [[#^s-118380eb86d88a94a7c91d39|2]] ir [[#^s-0ec7b70f0797bc2479af3c92|26]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1581, 2015-03-26, paskelbta TAR 2015-04-13, i. k. 2015-05694
-Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 8, 13 ir [[#^s-c625415201001411a6a38076|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 [[#^s-56360c067662da0b01627edf|8]], [[#^s-929e6fb2f980ff753cbb73ea|13]] ir [[#^s-c625415201001411a6a38076|27]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1806, 2015-06-18, paskelbta TAR 2015-06-29, i. k. 2015-10367
-Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 41, 43 ir [[#^s-fd4b3731f5696771ffd069fe|44 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 [[#^s-e824d8f1f40edb57ed9fc8c9|41]], [[#^s-075c0d38d116778feec3699c|43]] ir [[#^s-fd4b3731f5696771ffd069fe|44]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1709, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08041
-Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 43, 44 ir [[#^s-3725e50f55c295078d85fd33|45 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 [[#^s-075c0d38d116778feec3699c|43]], [[#^s-fd4b3731f5696771ffd069fe|44]] ir [[#^s-3725e50f55c295078d85fd33|45]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2607, 2016-09-14, paskelbta TAR 2016-09-19, i. k. 2016-23712
-Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 1, 2, 3, 9, 10, 12, 13, 16, 21, 22, 25, 26, 27, 29, 31, 33, 34, 35, [[#^s-fd4b3731f5696771ffd069fe|44 straipsnių]], V skyriaus ir priedo pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 [[#^s-55dc60651f372ce8b6b89b50|1]], [[#^s-118380eb86d88a94a7c91d39|2]], [[#^s-8b59715b76ec2c22dd1d78c5|3]], [[#^s-7d6acf7f756f4bfcb717c22f|9]], [[#^s-257a63bc8ff3fff20091a065|10]], [[#^s-58c6720a3b9f5d1dcd008f58|12]], [[#^s-929e6fb2f980ff753cbb73ea|13]], [[#^s-23a3642f9ca583131eafee06|16]], [[#^s-c64442e647dac4b4d3ad616b|21]], [[#^s-b87e9d2b97ec8431cc15b9bf|22]], [[#^s-c165b385da553fecb7adbc48|25]], [[#^s-0ec7b70f0797bc2479af3c92|26]], [[#^s-c625415201001411a6a38076|27]], [[#^s-3d3d2247a313e6bcdbb8cf8f|29]], [[#^s-e485087e850d4f06066f0dcd|31]], [[#^s-cd09b315033c485bd05e8793|33]], [[#^s-0f94ac9397206c4fe0540ff7|34]], [[#^s-6767bd1187b9b1615e5db209|35]], [[#^s-fd4b3731f5696771ffd069fe|44]] straipsnių, V skyriaus ir priedo pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-146, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29846
-Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 1, 2, 3, 9, 10, 12, 13, 16, 21, 22, 25, 26, 27, 29, 31, 33, 34, 35, [[#^s-fd4b3731f5696771ffd069fe|44 straipsnių]], V skyriaus ir priedo pakeitimo ir Įstatymo papildymo V-1 skyriumi [[latest/a6086b807e7211e6b969d7ae07280e89|įstatymo Nr. XII-2607]] 23 ir [[#^s-6725d2e6ff6a52aa7721aa5f|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 [[#^s-55dc60651f372ce8b6b89b50|1]], [[#^s-118380eb86d88a94a7c91d39|2]], [[#^s-8b59715b76ec2c22dd1d78c5|3]], [[#^s-7d6acf7f756f4bfcb717c22f|9]], [[#^s-257a63bc8ff3fff20091a065|10]], [[#^s-58c6720a3b9f5d1dcd008f58|12]], [[#^s-929e6fb2f980ff753cbb73ea|13]], [[#^s-23a3642f9ca583131eafee06|16]], [[#^s-c64442e647dac4b4d3ad616b|21]], [[#^s-b87e9d2b97ec8431cc15b9bf|22]], [[#^s-c165b385da553fecb7adbc48|25]], [[#^s-0ec7b70f0797bc2479af3c92|26]], [[#^s-c625415201001411a6a38076|27]], [[#^s-3d3d2247a313e6bcdbb8cf8f|29]], [[#^s-e485087e850d4f06066f0dcd|31]], [[#^s-cd09b315033c485bd05e8793|33]], [[#^s-0f94ac9397206c4fe0540ff7|34]], [[#^s-6767bd1187b9b1615e5db209|35]], [[#^s-fd4b3731f5696771ffd069fe|44]] straipsnių, V skyriaus ir priedo pakeitimo ir Įstatymo papildymo V-1 skyriumi [[latest/a6086b807e7211e6b969d7ae07280e89|įstatymo Nr. XII-2607]] [[#^s-c961a439eab3d3e240a0ecb4|23]] ir [[#^s-6725d2e6ff6a52aa7721aa5f|24]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1158, 2018-05-17, paskelbta TAR 2018-05-28, i. k. 2018-08529
-Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2, 5, 8, 12, 21, 27, 44, 45, 47 ir [[#^s-3aa2c260973768c33839ebd2|48 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 [[#^s-118380eb86d88a94a7c91d39|2]], [[#^s-48677b4b045eeb4aae7e0b00|5]], [[#^s-56360c067662da0b01627edf|8]], [[#^s-58c6720a3b9f5d1dcd008f58|12]], [[#^s-c64442e647dac4b4d3ad616b|21]], [[#^s-c625415201001411a6a38076|27]], [[#^s-fd4b3731f5696771ffd069fe|44]], [[#^s-3725e50f55c295078d85fd33|45]], [[#^s-735ebb977ae3a652aad4161f|47]] ir [[#^s-3aa2c260973768c33839ebd2|48]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2182,27 +2182,27 @@ Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 [[#^s
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2475, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16485
-Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2 ir [[#^s-c625415201001411a6a38076|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 [[#^s-118380eb86d88a94a7c91d39|2]] ir [[#^s-c625415201001411a6a38076|27]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2553, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19861
-Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2, 3, 4, 6, 25, 27, 39 ir [[#^s-e824d8f1f40edb57ed9fc8c9|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 [[#^s-118380eb86d88a94a7c91d39|2]], [[#^s-8b59715b76ec2c22dd1d78c5|3]], [[#^s-8f8f7d5ad5afd4e9b2b353aa|4]], [[#^s-526583b7c991e8ba9e1ba952|6]], [[#^s-c165b385da553fecb7adbc48|25]], [[#^s-c625415201001411a6a38076|27]], [[#^s-cd00258d2e03bf2445fa7c93|39]] ir [[#^s-e824d8f1f40edb57ed9fc8c9|41]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-551, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21218
-Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 4, [[#^s-7e52dd79ebbd6973a7f52149|15 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 [[#^s-8f8f7d5ad5afd4e9b2b353aa|4]], [[#^s-7e52dd79ebbd6973a7f52149|15]] straipsnių ir priedo pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2703, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11223
-Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 1, 2, 4, 10, 13, 15, 18, 21, 23, 28, 33, 44, [[#^s-9fe1d52c299d02de84de17df|46 straipsnių]], V skyriaus pavadinimo pakeitimo ir [[#^s-8be1213a87911e57f477266a|38 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 [[#^s-55dc60651f372ce8b6b89b50|1]], [[#^s-118380eb86d88a94a7c91d39|2]], [[#^s-8f8f7d5ad5afd4e9b2b353aa|4]], [[#^s-257a63bc8ff3fff20091a065|10]], [[#^s-929e6fb2f980ff753cbb73ea|13]], [[#^s-7e52dd79ebbd6973a7f52149|15]], [[#^s-47c76f9c92ba40882e167d97|18]], [[#^s-c64442e647dac4b4d3ad616b|21]], [[#^s-c961a439eab3d3e240a0ecb4|23]], [[#^s-781cc622410a766f0f1c1480|28]], [[#^s-cd09b315033c485bd05e8793|33]], [[#^s-fd4b3731f5696771ffd069fe|44]], [[#^s-9fe1d52c299d02de84de17df|46]] straipsnių, V skyriaus pavadinimo pakeitimo ir [[#^s-8be1213a87911e57f477266a|38 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-982, 2026-06-02, paskelbta TAR 2026-06-10, i. k. 2026-10157
-Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 2, [[#^s-47c76f9c92ba40882e167d97|18 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 18-1, 18-2 straipsniais įstatymas
+Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo Nr. IX-1672 [[#^s-118380eb86d88a94a7c91d39|2]], [[#^s-47c76f9c92ba40882e167d97|18]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 18-1, 18-2 straipsniais įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas

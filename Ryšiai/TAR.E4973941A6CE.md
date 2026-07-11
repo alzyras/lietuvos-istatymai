@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.7C998994CA2D#^s-599e5780917c60a3d21d7f51|Lietuvos Respublikos Lietuvos valstybinio komercinio banko ir Lietuvos žemės ūkio banko privatizavimo įstatymo pakeitimo įstatymas]] - Lietuvos žemės ūkio banko privatizavimo įstatymo
+_Nėra._

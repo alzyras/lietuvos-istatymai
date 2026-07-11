@@ -128,7 +128,7 @@ BENDROSIOS NUOSTATOS
 3) turto įgijimas, valdymas ar naudojimas, įgijimo (perdavimo) metu žinant, kad šis turtas įgytas nusikalstamu būdu; ^s-2a4163e0747dc1982dcce5db
 
 
-4) rengimasis, pasikėsinimas padaryti, bendrininkavimas darant bet kurią iš šios dalies 1–[[#^s-2a4163e0747dc1982dcce5db|3 punktuose]] nurodytų veikų. ^s-9844cabdf9dac5a96dbfc72d
+4) rengimasis, pasikėsinimas padaryti, bendrininkavimas darant bet kurią iš šios dalies [[#^s-20928c61151ff72dad65f1db|1]]–[[#^s-2a4163e0747dc1982dcce5db|3]] punktuose nurodytų veikų. ^s-9844cabdf9dac5a96dbfc72d
 
 
 8. Pinigų plovimo prevencija – šiame Įstatyme nurodytų priemonių įgyvendinimas. ^s-fef54c990d8397254b131c22
@@ -174,7 +174,7 @@ Lietuvos Respublikos Vyriausybė, Finansinių nusikaltimų tyrimo tarnyba prie L
 6. Finansinių nusikaltimų tyrimo tarnyba patvirtina finansinės nuomos (lizingo) davėjams ir kitiems subjektams, išskyrus advokatus ir advokatų padėjėjus, skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui. ^s-add173f3cfaad305d823e8ab
 
 
-7. Šio straipsnio 1–[[#^s-e64dc7fce088c6c2b642fa32|5 dalyse]] nurodytos institucijos privalo paskirti vadovaujančius darbuotojus, kurie organizuotų šiame Įstatyme numatytų pinigų plovimo prevencijos priemonių įgyvendinimą ir palaikytų ryšius su Finansinių nusikaltimų tyrimo tarnyba. ^s-c980f03083eeb1d6545cac8f
+7. Šio straipsnio [[#^s-7b4f8bd3552c7905223b1a60|1]]–[[#^s-e64dc7fce088c6c2b642fa32|5]] dalyse nurodytos institucijos privalo paskirti vadovaujančius darbuotojus, kurie organizuotų šiame Įstatyme numatytų pinigų plovimo prevencijos priemonių įgyvendinimą ir palaikytų ryšius su Finansinių nusikaltimų tyrimo tarnyba. ^s-c980f03083eeb1d6545cac8f
 
 
 8. Apie [[#^s-c980f03083eeb1d6545cac8f|šio straipsnio 7 dalyje]] nustatytų darbuotojų paskyrimą turi būti pranešta Finansinių nusikaltimų tyrimo tarnybai. ^s-9007f45867b316d07618f636
@@ -311,7 +311,7 @@ PINIGŲ PLOVIMO PREVENCIJOS PRIEMONĖS
 3. Azartinius lošimus organizuojančios bendrovės privalo nustatyti kliento tapatybę, jeigu jis keičia grynuosius pinigus į žetonus arba įmoka ar laimi sumą, viršijančią 3500 litų ar ją atitinkančią sumą užsienio valiuta. ^s-6afae04070b425da24eb9456
 
 
-4. Draudžiama atlikti šio straipsnio 1–[[#^s-6afae04070b425da24eb9456|3 dalyse]] nurodytas operacijas, jeigu klientas šio Įstatymo nustatytais atvejais nepateikia duomenų, patvirtinančių jo tapatybę, taip pat jeigu pateikti ne visi duomenys arba jie yra neteisingi. ^s-a77069b848de067295acebf8
+4. Draudžiama atlikti šio straipsnio [[#^s-dddc38a2bc8cd145a386402f|1]]–[[#^s-6afae04070b425da24eb9456|3]] dalyse nurodytas operacijas, jeigu klientas šio Įstatymo nustatytais atvejais nepateikia duomenų, patvirtinančių jo tapatybę, taip pat jeigu pateikti ne visi duomenys arba jie yra neteisingi. ^s-a77069b848de067295acebf8
 
 
 5. Kliento tapatybės bei kelių tarpusavyje susijusių operacijų su pinigais nustatymo tvarką nustato Vyriausybė. ^s-751f720bf076a0526dfa00f8
@@ -321,14 +321,14 @@ PINIGŲ PLOVIMO PREVENCIJOS PRIEMONĖS
 ### 11 straipsnis. Sąskaitų atidarymas ar kitų operacijų su pinigais atlikimas per atstovą ^s-fa2d82ef58176251efed33ec
 
 
-Kai klientas atidaro sąskaitą arba atlieka kitas šio Įstatymo [[#^s-7a3a6b1f00c9912935bc9c38|10 straipsnio]] 1–3 dalyse nurodytas operacijas ne savo vardu, finansų įstaigos ir kiti subjektai privalo nustatyti kliento ir asmens, kurio vardu šis klientas veikia, tikrąją tapatybę.
+Kai klientas atidaro sąskaitą arba atlieka kitas šio Įstatymo [[#^s-7a3a6b1f00c9912935bc9c38|10 straipsnio]] [[#^s-dddc38a2bc8cd145a386402f|1]]–[[#^s-6afae04070b425da24eb9456|3]] dalyse nurodytas operacijas ne savo vardu, finansų įstaigos ir kiti subjektai privalo nustatyti kliento ir asmens, kurio vardu šis klientas veikia, tikrąją tapatybę.
 
 
 
 ### 12 straipsnis. Informacijos saugojimas ^s-84b2d3b3a5f206cabd9f7179
 
 
-1. Finansų įstaigos privalo tvarkyti šio Įstatymo [[#^s-e7a9b81a261af2f35f1f9d09|13 straipsnio]] 1 ir [[#^s-a9496215f8239c4bd4647d14|2 dalyse]] nurodytų kliento atliktų operacijų su pinigais bei įtartinų operacijų registrą, išskyrus atvejus, kai finansų įstaigos klientas yra kita finansų įstaiga. ^s-8f57d5e6cf6d99c27cbc404a
+1. Finansų įstaigos privalo tvarkyti šio Įstatymo [[#^s-e7a9b81a261af2f35f1f9d09|13 straipsnio]] [[#^s-da9ce3fbb566a73f2cc14b64|1]] ir [[#^s-f9100c19a474fb2aa77c7d65|2]] dalyse nurodytų kliento atliktų operacijų su pinigais bei įtartinų operacijų registrą, išskyrus atvejus, kai finansų įstaigos klientas yra kita finansų įstaiga. ^s-8f57d5e6cf6d99c27cbc404a
 
 
 2. Notarai ir asmenys, turintys teisę atlikti notarinius veiksmus, privalo tvarkyti klientų įtartinų sandorių bei sandorių, pagal kuriuos gaunama ar mokama pinigų suma viršija 50 000 litų ar ją atitinkančią sumą užsienio valiuta, registrą. ^s-a9496215f8239c4bd4647d14
@@ -374,7 +374,7 @@ Kai klientas atidaro sąskaitą arba atlieka kitas šio Įstatymo [[#^s-7a3a6b1f
 5. Kiti subjektai, išskyrus notarus ar asmenis, turinčius teisę atlikti notarinius veiksmus, advokatus ar advokatų padėjėjus, praneša Finansinių nusikaltimų tyrimo tarnybai kliento tapatybę patvirtinančius duomenis ir informaciją apie vienkartinį atsiskaitymą grynaisiais pinigais, jeigu gaunamų ar mokamų grynųjų pinigų suma viršija 50 000 litų ar ją atitinkančią sumą užsienio valiuta. ^s-19d206d524cf39f3148dda52
 
 
-6. Šio straipsnio 1–[[#^s-19d206d524cf39f3148dda52|5 dalyse]] nurodyta informacija Finansinių nusikaltimų tyrimo tarnybai pateikiama nedelsiant, ne vėliau kaip per 7 darbo dienas nuo operacijos su pinigais atlikimo ar sandorio sudarymo dienos. ^s-881655db3f5d544c56d3fa03
+6. Šio straipsnio [[#^s-da9ce3fbb566a73f2cc14b64|1]]–[[#^s-19d206d524cf39f3148dda52|5]] dalyse nurodyta informacija Finansinių nusikaltimų tyrimo tarnybai pateikiama nedelsiant, ne vėliau kaip per 7 darbo dienas nuo operacijos su pinigais atlikimo ar sandorio sudarymo dienos. ^s-881655db3f5d544c56d3fa03
 
 
 7. [[#^s-da9ce3fbb566a73f2cc14b64|Šio straipsnio 1 dalyje]] nurodyta informacija Finansinių nusikaltimų tyrimo tarnybai neteikiama, jeigu finansų įstaigos klientas yra kita finansų įstaiga. ^s-1459b5bbef313a52aa14b647

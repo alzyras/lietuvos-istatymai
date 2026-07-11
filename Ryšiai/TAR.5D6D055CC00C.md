@@ -9,316 +9,186 @@ pavadinimas: "Lietuvos Respublikos miškų įstatymas"
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - 5 citatos - Aplinkos apsaugos įstatymo
-- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - 2 citatos - Lietuvos Respublikos baudžiamojo proceso kodeksu
-- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 2 citatos - Civilinis kodeksas
-- [[latest/abdb66e01e5911ef8b14c5bcce136045|Lietuvos Respublikos gynybos ir saugumo pramonės įstatymas]] - 2 citatos - Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme
-- [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymas]] - 2 citatos - Lietuvos Respublikos investicijų įstatyme
-- [[latest/TAR.1A9832128E70|Lietuvos Respublikos miškų įstatymo 1, 3, 4, 7, 11, 16, 17, 18, 19, 21, 22, 23 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO 1, 3, 4, 7, 11, 16, 17, 18, 19, 21, 22, 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.DE6172F73647|Lietuvos Respublikos miškų įstatymo 14 straipsnio pakeitimo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.FA95BD27DA54|Lietuvos Respublikos miškų įstatymo 15 straipsnio pakeitimo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.4D4C11CA2601|Lietuvos Respublikos miškų įstatymo 17 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. VIII-434
-- [[latest/TAR.B37C11B10EEE|Lietuvos Respublikos miškų įstatymo 2, 4, 11, 13 ir 14 straipsnių pakeitimo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO 2, 4, 11, 13 IR 14 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.7501477AA243|Lietuvos Respublikos miškų įstatymo 2, 4, 5 straipsnių pakeitimo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO 2, 4, 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.C456F906EDA1|Lietuvos Respublikos miškų įstatymo 2, 5, 6 straipsnių pakeitimo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO 2, 5, 6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.DD20D28F2D52|Lietuvos Respublikos miškų įstatymo 2, 7, 11 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO 2, 7, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.6360589EE098|Lietuvos Respublikos miškų įstatymo 23 straipsnio pakeitimo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.059A886EC6B9|Lietuvos Respublikos miškų įstatymo 3, 15 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO 3, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.F3C5B7B4057F|Lietuvos Respublikos miškų įstatymo 4, 11 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO 4, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.B8EDC56ADAB9|Lietuvos Respublikos miškų įstatymo 5 ir 11 straipsnių pakeitimo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO 5 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.D057322CDAA3|Lietuvos Respublikos miškų įstatymo 5 ir 7 straipsnių pakeitimo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO 5 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.6D4C2D715032|Lietuvos Respublikos miškų įstatymo 6 straipsnio pakeitimo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.AB295747C61D|Lietuvos Respublikos miškų įstatymo 7 straipsnio pakeitimo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.748F5E4B4368|Lietuvos Respublikos miškų įstatymo 7 straipsnio papildymo įstatymas]] - 2 citatos - Įstatymas Nr. I-1608
-- [[latest/TAR.24CA29E669DF|Lietuvos Respublikos miškų įstatymo 7 straipsnio papildymo įstatymas]] - 2 citatos - Įstatymas Nr. XI-239
-- [[latest/TAR.E30A4B53ED68|Lietuvos Respublikos miškų įstatymo 8 straipsnio papildymo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO 8 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.B04AF1A398D8|Lietuvos Respublikos miškų įstatymo 8, 10, 14, 16, 17, 18, 22, 26 straipsnių pakeitimo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO 8, 10, 14, 16, 17, 18, 22, 26 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/503fc7d0fafb11e4b733cba410730a6c|Lietuvos Respublikos miškų įstatymo Nr. I-671 1 ir 7 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1690
-- [[latest/fbdb0c21c1cb11ea9815f635b9c0dcef|Lietuvos Respublikos miškų įstatymo Nr. I-671 1, 2, 5, 6, 23 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3198
-- [[latest/54c09cc0802311e8ae2bfd1913d66d57|Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1404
-- [[latest/b2c974e0f25111e88568e724760eeafa|Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1644
-- [[latest/db2ec9804f0811e9975f9c35aedfe438|Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1988
-- [[latest/e193ee506ab611e7827cd63159af616c|Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-616
-- [[latest/71baa7f0d1d611f08918e1adc7c5b1ec|Lietuvos Respublikos miškų įstatymo Nr. I-671 2 ir 11 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-628
-- [[latest/8cb48cd0a15c11eea5a28c81c82193a8|Lietuvos Respublikos miškų įstatymo Nr. I-671 2 ir 4 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2336
-- [[latest/d72182901fd911e586708c6593c243ce|Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 3, 4, 5, 6, 9, 13, 14, 15, 16, 18 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XII-1839
-- [[latest/ec792d30a16411eea5a28c81c82193a8|Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 3, 7, 10-1, 12 straipsnių pakeitimo ir Įstatymo papildymo 10-2 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2379
-- [[latest/16f8d060eac411f09cfce49e7aeb76fe|Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4 ir 5 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-733
-- [[latest/aa8e2bb0225511eabe008ea93139d588|Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir 19 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2635
-- [[latest/28d5a4e048fb11e6b5d09300a16a686c|Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 7 ir 11 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2584
-- [[latest/930970b0c59111e9840ec0427c781bac|Lietuvos Respublikos miškų įstatymo Nr. I-671 4 ir 4-1 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2418
-- [[latest/25d2f1c0127011ea9d279ea27696ab7b|Lietuvos Respublikos miškų įstatymo Nr. I-671 4 ir 4-1 straipsnių pakeitimo įstatymo Nr. XIII-2418 1 straipsnio ir Miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2527
-- [[latest/7ca98960042511edb32c9f9d8ba206f8|Lietuvos Respublikos miškų įstatymo Nr. I-671 4, 4-1, 5, 13 ir 15 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1319
-- [[latest/d1916830af9b11e98451fa7b5933515d|Lietuvos Respublikos miškų įstatymo Nr. I-671 4-1 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2410
-- [[latest/6b6ee910c1ba11ea9815f635b9c0dcef|Lietuvos Respublikos miškų įstatymo Nr. I-671 5 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3115
-- [[latest/31c475c0510311e7846ef01bfffb9b64|Lietuvos Respublikos miškų įstatymo Nr. I-671 5 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-424
-- [[latest/0fd9e5004ae211e4a8328599cac64d82|Lietuvos Respublikos miškų įstatymo Nr. I-671 6 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1160
-- [[latest/6ca45bf08b8911e6b969d7ae07280e89|Lietuvos Respublikos miškų įstatymo Nr. I-671 6 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2641
-- [[latest/c9f430502a8511e78397ae072f58c508|Lietuvos Respublikos miškų įstatymo Nr. I-671 6 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-291
-- [[latest/8fc009700ba711e6a238c18f7a3f1736|Lietuvos Respublikos miškų įstatymo Nr. I-671 6, 8, 9 ir 22 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2304
-- [[latest/171e2eb089a511e397b5c02d3197f382|Lietuvos Respublikos miškų įstatymo Nr. I-671 7 ir 11 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-761
-- [[latest/7b3903d0935811e9ae2e9d61b1f977b3|Lietuvos Respublikos miškų įstatymo Nr. I-671 papildymo 10-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2181
-- [[latest/059ab250cfa311e3a8ded1a0f5aff0a9|Lietuvos Respublikos miškų įstatymo Nr. I-671 papildymo 4-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XII-855
-- [[latest/TAR.960DBFBF5981|Lietuvos Respublikos miškų įstatymo pakeitimo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.C42C2A946448|Lietuvos Respublikos miškų įstatymo įgyvendinimo įstatymas]] - 4 citatos - MIŠKŲ ĮSTATYMO ĮGYVENDINIMO ĮSTATYMAS
-- [[latest/TAR.38E82AA2664C|Lietuvos Respublikos nekilnojamojo turto registro įstatymas]] - 2 citatos - Nekilnojamojo turto registro įstatymo
-- [[latest/TAR.4325B0C38B2F|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme
-- [[latest/TAR.C44837068B55#^s-7df509bf8fa468ec4f9629c3|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - 2 citatos - Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 20 straipsnyje
-- [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - 2 citatos - Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
-- [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 6 citatos - Lietuvos Respublikos saugomų teritorijų įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - 6 citatos - Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme
-- [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymas]] - 6 citatos - LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO
-- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - Lietuvos Respublikos viešojo administravimo įstatymu
-- [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - 2 citatos - Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymu
-- [[latest/TAR.BA283DF0FB41|Lietuvos Respublikos želdynų įstatymas]] - 2 citatos - Lietuvos Respublikos želdynų įstatymas
-- [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - 10 citatos - Lietuvos Respublikos žemės įstatymo
+- [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - 3 citatos - Aplinkos apsaugos įstatymo
+- [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Lietuvos Respublikos baudžiamojo proceso kodeksu
+- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - Civilinis kodeksas
+- [[latest/abdb66e01e5911ef8b14c5bcce136045|Lietuvos Respublikos gynybos ir saugumo pramonės įstatymas]] - Lietuvos Respublikos gynybos ir saugumo pramonės įstatyme
+- [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymas]] - Lietuvos Respublikos investicijų įstatyme
+- [[latest/TAR.1A9832128E70|Lietuvos Respublikos miškų įstatymo 1, 3, 4, 7, 11, 16, 17, 18, 19, 21, 22, 23 straipsnių pakeitimo ir papildymo įstatymas]] - LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO 1, 3, 4, 7, 11, 16, 17, 18, 19, 21, 22, 23 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.DE6172F73647|Lietuvos Respublikos miškų įstatymo 14 straipsnio pakeitimo įstatymas]] - MIŠKŲ ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.FA95BD27DA54|Lietuvos Respublikos miškų įstatymo 15 straipsnio pakeitimo įstatymas]] - MIŠKŲ ĮSTATYMO 15 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.B37C11B10EEE|Lietuvos Respublikos miškų įstatymo 2, 4, 11, 13 ir 14 straipsnių pakeitimo įstatymas]] - MIŠKŲ ĮSTATYMO 2, 4, 11, 13 IR 14 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.7501477AA243|Lietuvos Respublikos miškų įstatymo 2, 4, 5 straipsnių pakeitimo įstatymas]] - MIŠKŲ ĮSTATYMO 2, 4, 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.C456F906EDA1|Lietuvos Respublikos miškų įstatymo 2, 5, 6 straipsnių pakeitimo įstatymas]] - MIŠKŲ ĮSTATYMO 2, 5, 6 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.DD20D28F2D52|Lietuvos Respublikos miškų įstatymo 2, 7, 11 straipsnių pakeitimo ir papildymo įstatymas]] - MIŠKŲ ĮSTATYMO 2, 7, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.6360589EE098|Lietuvos Respublikos miškų įstatymo 23 straipsnio pakeitimo įstatymas]] - MIŠKŲ ĮSTATYMO 23 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.059A886EC6B9|Lietuvos Respublikos miškų įstatymo 3, 15 straipsnių pakeitimo ir papildymo įstatymas]] - MIŠKŲ ĮSTATYMO 3, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.F3C5B7B4057F|Lietuvos Respublikos miškų įstatymo 4, 11 straipsnių pakeitimo ir papildymo įstatymas]] - MIŠKŲ ĮSTATYMO 4, 11 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.B8EDC56ADAB9|Lietuvos Respublikos miškų įstatymo 5 ir 11 straipsnių pakeitimo įstatymas]] - MIŠKŲ ĮSTATYMO 5 IR 11 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.D057322CDAA3|Lietuvos Respublikos miškų įstatymo 5 ir 7 straipsnių pakeitimo įstatymas]] - MIŠKŲ ĮSTATYMO 5 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.6D4C2D715032|Lietuvos Respublikos miškų įstatymo 6 straipsnio pakeitimo įstatymas]] - MIŠKŲ ĮSTATYMO 6 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.AB295747C61D|Lietuvos Respublikos miškų įstatymo 7 straipsnio pakeitimo įstatymas]] - MIŠKŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.E30A4B53ED68|Lietuvos Respublikos miškų įstatymo 8 straipsnio papildymo įstatymas]] - LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO 8 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.B04AF1A398D8|Lietuvos Respublikos miškų įstatymo 8, 10, 14, 16, 17, 18, 22, 26 straipsnių pakeitimo įstatymas]] - MIŠKŲ ĮSTATYMO 8, 10, 14, 16, 17, 18, 22, 26 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/930970b0c59111e9840ec0427c781bac|Lietuvos Respublikos miškų įstatymo Nr. I-671 4 ir 4-1 straipsnių pakeitimo įstatymas]] - įstatymo Nr. XIII-2418
+- [[latest/TAR.960DBFBF5981|Lietuvos Respublikos miškų įstatymo pakeitimo įstatymas]] - MIŠKŲ ĮSTATYMO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.C42C2A946448|Lietuvos Respublikos miškų įstatymo įgyvendinimo įstatymas]] - MIŠKŲ ĮSTATYMO ĮGYVENDINIMO ĮSTATYMAS
+- [[latest/TAR.38E82AA2664C|Lietuvos Respublikos nekilnojamojo turto registro įstatymas]] - Nekilnojamojo turto registro įstatymo
+- [[latest/TAR.4325B0C38B2F|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas]] - Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatyme
+- [[latest/TAR.C44837068B55#^s-7df509bf8fa468ec4f9629c3|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymas]] - Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 20 straipsnyje
+- [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
+- [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 3 citatos - Lietuvos Respublikos saugomų teritorijų įstatyme
+- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - 3 citatos - Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme
+- [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymas]] - 2 citatos - Lietuvos Respublikos teritorijų planavimo įstatyme
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - Lietuvos Respublikos viešojo administravimo įstatymu
+- [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymu
+- [[latest/TAR.BA283DF0FB41|Lietuvos Respublikos želdynų įstatymas]] - Lietuvos Respublikos želdynų įstatymas
+- [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - 6 citatos - Lietuvos Respublikos žemės įstatymo
 
 ## Šį įstatymą cituoja
 
 - [[latest/TAR.D856EBD4D076|Dėl Lietuvos Respublikos žemės reformos įstatymo pakeitimo ir papildymo]] - Miškų įstatymas
 - [[latest/TAR.7847E47234C5|Dėl Lietuvos Respublikos žemės įstatymo pakeitimo ir papildymo]] - „Lietuvos Respublikos miškų įstatymas“
 - [[latest/1d492130347311efbdaea558de59136c#^s-2e38c9738b6744ca806a13c4|Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 235, 236, 239, 242, 247, 260, 262, 271, 276, 281, 284, 285, 291, 293, 295, 296, 303, 304-2, 309, 356, 440, 505, 589 straipsnių ir priedo pakeitimo, Kodekso papildymo 255-1 straipsniu ir 304 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/1d492130347311efbdaea558de59136c#^s-e28e3f84fb0c5da9a65b5f83|Lietuvos Respublikos administracinių nusižengimų kodekso 12, 29, 235, 236, 239, 242, 247, 260, 262, 271, 276, 281, 284, 285, 291, 293, 295, 296, 303, 304-2, 309, 356, 440, 505, 589 straipsnių ir priedo pakeitimo, Kodekso papildymo 255-1 straipsniu ir 304 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/576ee5d0ec9411e78a1adea6fe72f3c5#^s-9583a5943b72e92ba85c409e|Lietuvos Respublikos administracinių nusižengimų kodekso 276, 415, 589 ir 611 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/576ee5d0ec9411e78a1adea6fe72f3c5#^s-ccb78e9171aac44d215be745|Lietuvos Respublikos administracinių nusižengimų kodekso 276, 415, 589 ir 611 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-25dcec6024cc9c9c749d99c6|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-bda8e7c844cfd8d54b93e913|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/04d01952b3fd11f092fda1fd0c194cc5#^s-0ae7ee423939ee9f023da4f1|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/04d01952b3fd11f092fda1fd0c194cc5#^s-ac915c159f5fcb95560c6f5d|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/TAR.E2780B68DE62#^s-0007e250048000b439f133e6|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - Lietuvos Respublikos miškų įstatymo
-- [[latest/TAR.E2780B68DE62#^s-152414073c321f04258b8b41|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - Lietuvos Respublikos miškų įstatymo
 - [[latest/TAR.E2780B68DE62#^s-7ca36d9d63b08915552e4149|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - Lietuvos Respublikos miškų įstatymo
 - [[latest/bd725e700ba411e6a238c18f7a3f1736#^s-5e40e4a1e1fe4986bf37960e|Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 2, 31, 34 straipsnių ir VII skyriaus pavadinimo pakeitimo, Įstatymo papildymo 23-1, 23-2, 23-3, 23-4 straipsniais ir nauju VIII skyriumi įstatymas]] - Lietuvos Respublikos miškų įstatymo
 - [[latest/bd725e700ba411e6a238c18f7a3f1736#^s-bcb528cda1bc1d0ea071f90c|Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 2, 31, 34 straipsnių ir VII skyriaus pavadinimo pakeitimo, Įstatymo papildymo 23-1, 23-2, 23-3, 23-4 straipsniais ir nauju VIII skyriumi įstatymas]] - Lietuvos Respublikos miškų įstatymo
 - [[latest/6abb4c701e6311ef8b14c5bcce136045#^s-89ebc32dcd1a7d3e0c5c2286|Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 8, 19-4, 31 ir 33 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatymo
-- [[latest/6abb4c701e6311ef8b14c5bcce136045#^s-f2444b6f3f70e7edf8982bb2|Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 1, 6, 8, 19-4, 31 ir 33 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatymo
 - [[latest/5cb21d00c1cb11ea9815f635b9c0dcef#^s-158e5498434344b5b60c961e|Lietuvos Respublikos aplinkos apsaugos įstatymo Nr. I-2223 12, 31, 33, 37 ir 41 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatymo
 - [[latest/TAR.FC7AB69BE291#^s-0cd4219c1160c9680dfb3241|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/TAR.FC7AB69BE291#^s-1fa74b40864332781ff28b48|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 2 citatos - Lietuvos Respublikos miškų įstatyme
 - [[latest/TAR.FC7AB69BE291#^s-e80b481e7214e08d3049e1f4|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - Miškų įstatyme
 - [[latest/bd0c979255c611f0b070ee7f1ceefc75#^s-1d8fb821eaa57c3ef7be8f5c|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 5, 6, 7, 11, 12, 13-1, 14, 14-1, 15-1, 16, 19, 20, 20-1, 20-2, 22, 22-1, 23, 28, 29, 30, 31, 37, 38, 39-1, 39-3, 39-4, 39-5, 39-6, 45, 46, 48, 49, 51, 55, 57, 59, 60, 63, 64, 65 straipsnių, septintojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 1-1, 39-7, 48-1, 48-2, 58-1 straipsniais įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/bd0c979255c611f0b070ee7f1ceefc75#^s-77a99936281ee3566b9c0db1|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 5, 6, 7, 11, 12, 13-1, 14, 14-1, 15-1, 16, 19, 20, 20-1, 20-2, 22, 22-1, 23, 28, 29, 30, 31, 37, 38, 39-1, 39-3, 39-4, 39-5, 39-6, 45, 46, 48, 49, 51, 55, 57, 59, 60, 63, 64, 65 straipsnių, septintojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 1-1, 39-7, 48-1, 48-2, 58-1 straipsniais įstatymas]] - 2 citatos - Lietuvos Respublikos miškų įstatyme
 - [[latest/bd0c979255c611f0b070ee7f1ceefc75#^s-b6dd5223fc3aca022a7895f5|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 5, 6, 7, 11, 12, 13-1, 14, 14-1, 15-1, 16, 19, 20, 20-1, 20-2, 22, 22-1, 23, 28, 29, 30, 31, 37, 38, 39-1, 39-3, 39-4, 39-5, 39-6, 45, 46, 48, 49, 51, 55, 57, 59, 60, 63, 64, 65 straipsnių, septintojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 1-1, 39-7, 48-1, 48-2, 58-1 straipsniais įstatymas]] - Miškų įstatyme
-- [[latest/TAR.55D93E8A9C77#^s-aff5439dba7b2f0128c6e795|Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatymas]] - Miškų įstatymas
 - [[latest/TAR.55D93E8A9C77#^s-cf0022902d9b00155c077b11|Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatymas]] - Miškų įstatymas
-- [[latest/efd14e50a16311eea5a28c81c82193a8#^s-68a69e92c1a2c79a019fb953|Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatymo Nr. IX-533 2, 8 ir 9 straipsnių pakeitimo įstatymas]] - Miškų įstatymas
 - [[latest/efd14e50a16311eea5a28c81c82193a8#^s-e34760fde435532a889981ca|Lietuvos Respublikos augalų nacionalinių genetinių išteklių įstatymo Nr. IX-533 2, 8 ir 9 straipsnių pakeitimo įstatymas]] - Miškų įstatymas
-- [[latest/afe4d3e0faa111eb9f09e7df20500045#^s-12b738cad9a605ef06e70b32|Lietuvos Respublikos fizinio barjero Lietuvos Respublikos teritorijoje prie Europos Sąjungos išorės sienos su Baltarusijos Respublika įrengimo įstatymas]] - Miškų įstatyme
 - [[latest/afe4d3e0faa111eb9f09e7df20500045#^s-4a37a55a001a65899c789d9a|Lietuvos Respublikos fizinio barjero Lietuvos Respublikos teritorijoje prie Europos Sąjungos išorės sienos su Baltarusijos Respublika įrengimo įstatymas]] - Miškų įstatyme
-- [[latest/afe4d3e0faa111eb9f09e7df20500045#^s-576840ec7173926238c75df2|Lietuvos Respublikos fizinio barjero Lietuvos Respublikos teritorijoje prie Europos Sąjungos išorės sienos su Baltarusijos Respublika įrengimo įstatymas]] - Lietuvos Respublikos miškų įstatymas
 - [[latest/afe4d3e0faa111eb9f09e7df20500045#^s-820de3c983ed2b79e975df7e|Lietuvos Respublikos fizinio barjero Lietuvos Respublikos teritorijoje prie Europos Sąjungos išorės sienos su Baltarusijos Respublika įrengimo įstatymas]] - Lietuvos Respublikos miškų įstatymas
-- [[latest/TAR.A7D82E8EDC6B#^s-45bc96c6f43d292547e4b825|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/TAR.A7D82E8EDC6B#^s-4a749e96aaa3edb9345730ae|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/620680f055cf11f0b070ee7f1ceefc75#^s-4043b7d3e89bc0ff7adb3676|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 8, 9 straipsnių, 5 priedo pakeitimo ir 5, 7, 7-1 straipsnių, 1, 3, 4 priedų pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/620680f055cf11f0b070ee7f1ceefc75#^s-adde77f5d42d09b8dc59d671|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 8, 9 straipsnių, 5 priedo pakeitimo ir 5, 7, 7-1 straipsnių, 1, 3, 4 priedų pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/bf8e716255cf11f0b070ee7f1ceefc75#^s-abdda53ed904f84944f51763|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 1, 2, 7 straipsnių pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/bf8e716255cf11f0b070ee7f1ceefc75#^s-b82b61d10bb506b73dd61e2a|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 1, 2, 7 straipsnių pakeitimo ir 5 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/7a911b42dfda11f08918e1adc7c5b1ec#^s-2f8b6b49d4a1814f7fb24903|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 2 ir 4 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/7a911b42dfda11f08918e1adc7c5b1ec#^s-4227bc5daff99d1fc244dc31|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 2 ir 4 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/11e3bd50748b11f1b53dfa020e517810#^s-5be12efd8d54ece6644c0d69|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/11e3bd50748b11f1b53dfa020e517810#^s-5fafde7b12dee2480a037ea1|Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 9 straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/6e6720a0ffb111ed9978886e85107ab2#^s-1c7304d429d7e434dc8804f0|Lietuvos Respublikos kurortų ir kurortinių teritorijų darnaus vystymo įstatymas]] - Lietuvos Respublikos miškų įstatymas
 - [[latest/6e6720a0ffb111ed9978886e85107ab2#^s-391f017e26047ce8eb9ad66b|Lietuvos Respublikos kurortų ir kurortinių teritorijų darnaus vystymo įstatymas]] - Lietuvos Respublikos miškų įstatymas
-- [[latest/TAR.B810DCE56C74#^s-1b675ead61300c4bff4788ce|Lietuvos Respublikos laukinių augalų ir grybų įstatymas]] - Miškų įstatymu
 - [[latest/TAR.B810DCE56C74#^s-59582808c9db2ed10c94e9fc|Lietuvos Respublikos laukinių augalų ir grybų įstatymas]] - Miškų įstatymu
-- [[latest/TAR.B810DCE56C74#^s-82710e7e8ce50024dc52139f|Lietuvos Respublikos laukinių augalų ir grybų įstatymas]] - Lietuvos Respublikos miškų įstatymas
 - [[latest/TAR.B810DCE56C74#^s-aa65dd31f47d56b9baa1140b|Lietuvos Respublikos laukinių augalų ir grybų įstatymas]] - Miškų įstatyme
-- [[latest/TAR.B810DCE56C74#^s-c4802d3d86342387b4d8b572|Lietuvos Respublikos laukinių augalų ir grybų įstatymas]] - Miškų įstatyme
 - [[latest/TAR.B810DCE56C74#^s-fa7e5d461c8ccd56d1e9ec36|Lietuvos Respublikos laukinių augalų ir grybų įstatymas]] - Lietuvos Respublikos miškų įstatymas
-- [[latest/eae03f300a2311ebb74de75171d26d52#^s-21b4ebf02486d6e8e8dbdb2f|Lietuvos Respublikos laukinės augalijos įstatymo Nr. VIII-1226 pakeitimo įstatymas]] - Miškų įstatymu
 - [[latest/eae03f300a2311ebb74de75171d26d52#^s-8447b14eb9db59146a8db2cc|Lietuvos Respublikos laukinės augalijos įstatymo Nr. VIII-1226 pakeitimo įstatymas]] - Miškų įstatyme
 - [[latest/eae03f300a2311ebb74de75171d26d52#^s-8d2cf7d9c8c814a1d8dd085d|Lietuvos Respublikos laukinės augalijos įstatymo Nr. VIII-1226 pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatymas
-- [[latest/eae03f300a2311ebb74de75171d26d52#^s-a45bfec5c4874e2f8a81cba8|Lietuvos Respublikos laukinės augalijos įstatymo Nr. VIII-1226 pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatymas
 - [[latest/eae03f300a2311ebb74de75171d26d52#^s-c66db4e362d538f0bde7f044|Lietuvos Respublikos laukinės augalijos įstatymo Nr. VIII-1226 pakeitimo įstatymas]] - Miškų įstatymu
-- [[latest/eae03f300a2311ebb74de75171d26d52#^s-cc905433ec13a301c1c595ee|Lietuvos Respublikos laukinės augalijos įstatymo Nr. VIII-1226 pakeitimo įstatymas]] - Miškų įstatyme
 - [[latest/TAR.08F2F39FF20B#^s-083c9618ddbc09a17b5643cf|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Miškų įstatyme
-- [[latest/TAR.08F2F39FF20B#^s-1fe99f2a3ab6a0d6e1857b5f|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Miškų įstatyme
-- [[latest/TAR.08F2F39FF20B#^s-76d7c378bb0b4ac60679d8a3|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/TAR.08F2F39FF20B#^s-bf29fb1bff51895cd26735ae|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/b49583d00a2411ebb74de75171d26d52#^s-323720ee7fd664fdb217cbe8|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/b49583d00a2411ebb74de75171d26d52#^s-71133f85cf0337cae52b05f6|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/b49583d00a2411ebb74de75171d26d52#^s-a439533307c72927097c6db8|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Miškų įstatyme
-- [[latest/b49583d00a2411ebb74de75171d26d52#^s-e99fae0b5d2e4c7cb9a5d4fd|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Miškų įstatyme
-- [[latest/9805e872448111f180c9c618618421ed#^s-35cfe02203134fdda4970317|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Miškų įstatyme
 - [[latest/9805e872448111f180c9c618618421ed#^s-367c9a2331a964be09201b5f|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Lietuvos Respublikos miškų įstatymas
 - [[latest/9805e872448111f180c9c618618421ed#^s-5c10da0dc5e786856f7d40eb|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Miškų įstatyme
 - [[latest/9805e872448111f180c9c618618421ed#^s-777f412d49c4a42ccbd32546|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Miškų įstatyme
-- [[latest/9805e872448111f180c9c618618421ed#^s-c4ab4e9973568e5fcce02f88|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Lietuvos Respublikos miškų įstatymas
 - [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-020196e369feb5c2adfde0d7|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Miškų įstatyme
 - [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-c3fa5a29ade3b5d2196c99ae|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Lietuvos Respublikos miškų įstatymas
-- [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-e560a742124aaf6b140a9249|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Lietuvos Respublikos miškų įstatymas
 - [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-f51a7f797f6ee28329ffe2bd|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Miškų įstatyme
-- [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-f6d7cd1d147744db91f030bf|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Miškų įstatyme
 - [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-0041950a94690d712f6b070b|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Miškų įstatyme
 - [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-06fb05796191226d7b83f535|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Lietuvos Respublikos miškų įstatymas
-- [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-3ceb8427fa1817e1bd389f39|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Miškų įstatyme
-- [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-de46cfbcdd95cfed26cdcd8c|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Lietuvos Respublikos miškų įstatymas
 - [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-dfaea02d20e4a004f5ef9143|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Miškų įstatyme
 - [[latest/310272b2448111f180c9c618618421ed#^s-d2a3f49ad21a8244beca41ba|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymo Nr. XIV-3051 1, 2, 3, 8 straipsnių ir 1, 2 ir 7 priedų pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatymas
 - [[latest/310272b2448111f180c9c618618421ed#^s-f27537e427aa70f29ab4277b|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymo Nr. XIV-3051 1, 2, 3, 8 straipsnių ir 1, 2 ir 7 priedų pakeitimo įstatymas]] - Miškų įstatyme
 - [[latest/TAR.1A9832128E70#^s-35d9de985e2092cc537d386b|Lietuvos Respublikos miškų įstatymo 1, 3, 4, 7, 11, 16, 17, 18, 19, 21, 22, 23 straipsnių pakeitimo ir papildymo įstatymas]] - 2 citatos - Miškų įstatymas
-- [[latest/TAR.7501477AA243#^s-cae81dfe2497d62d6dac69ee|Lietuvos Respublikos miškų įstatymo 2, 4, 5 straipsnių pakeitimo įstatymas]] - Miškų įstatymo
 - [[latest/TAR.7501477AA243#^s-f611996debd963a2b6dab019|Lietuvos Respublikos miškų įstatymo 2, 4, 5 straipsnių pakeitimo įstatymas]] - Miškų įstatymo
 - [[latest/TAR.059A886EC6B9#^s-be44aff9ffbecf6ac865d7be|Lietuvos Respublikos miškų įstatymo 3, 15 straipsnių pakeitimo ir papildymo įstatymas]] - Miškų įstatymas
-- [[latest/TAR.059A886EC6B9#^s-f59820f3d650ee33ba864985|Lietuvos Respublikos miškų įstatymo 3, 15 straipsnių pakeitimo ir papildymo įstatymas]] - Miškų įstatymas
 - [[latest/503fc7d0fafb11e4b733cba410730a6c#^s-bdda488c822ddef8902c7955|Lietuvos Respublikos miškų įstatymo Nr. I-671 1 ir 7 straipsnių pakeitimo įstatymas]] - Miškų įstatymo
+- [[latest/fbdb0c21c1cb11ea9815f635b9c0dcef#^s-2338bf7a4f8e9f269aba35ce|Lietuvos Respublikos miškų įstatymo Nr. I-671 1, 2, 5, 6, 23 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas]] - miškų įstatymo
 - [[latest/fbdb0c21c1cb11ea9815f635b9c0dcef#^s-3e20b3a009454e5d726acb36|Lietuvos Respublikos miškų įstatymo Nr. I-671 1, 2, 5, 6, 23 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas]] - Miškų įstatymo
-- [[latest/fbdb0c21c1cb11ea9815f635b9c0dcef#^s-71da0463a44a8c92f58973ea|Lietuvos Respublikos miškų įstatymo Nr. I-671 1, 2, 5, 6, 23 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas]] - Miškų įstatymo
-- [[latest/e193ee506ab611e7827cd63159af616c#^s-79a8ac08a07ff8eed8e18ba7|Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatymo 11 straipsnio 8 dalyje
 - [[latest/e193ee506ab611e7827cd63159af616c#^s-81f03c63593763c68df4f1d2|Lietuvos Respublikos miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatymo 11 straipsnio 8 dalyje
-- [[latest/25d2f1c0127011ea9d279ea27696ab7b#^s-ed9fbe286193af74b4bd37cf|Lietuvos Respublikos miškų įstatymo Nr. I-671 4 ir 4-1 straipsnių pakeitimo įstatymo Nr. XIII-2418 1 straipsnio ir Miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatymo 4 straipsnio 9 dalies 3 punktą
+- [[latest/25d2f1c0127011ea9d279ea27696ab7b#^s-ed9fbe286193af74b4bd37cf|Lietuvos Respublikos miškų įstatymo Nr. I-671 4 ir 4-1 straipsnių pakeitimo įstatymo Nr. XIII-2418 1 straipsnio ir Miškų įstatymo Nr. I-671 11 straipsnio pakeitimo įstatymas]] - 3 citatos - Lietuvos Respublikos miškų įstatymo 4 straipsnio 9 dalies 3 punktą
 - [[latest/TAR.960DBFBF5981#^s-0a4136cbb5327a584551d0bf|Lietuvos Respublikos miškų įstatymo pakeitimo įstatymas]] - Miškų įstatymo
 - [[latest/TAR.960DBFBF5981#^s-1542844bbe4b473c3372bda3|Lietuvos Respublikos miškų įstatymo pakeitimo įstatymas]] - Miškų įstatymas
-- [[latest/TAR.960DBFBF5981#^s-1ec8120500cdb39911871526|Lietuvos Respublikos miškų įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMAS
-- [[latest/TAR.960DBFBF5981#^s-36e7a4628e60362de4fc00a5|Lietuvos Respublikos miškų įstatymo pakeitimo įstatymas]] - Miškų įstatymo
-- [[latest/TAR.960DBFBF5981#^s-611ba0de4514af3a25c051f8|Lietuvos Respublikos miškų įstatymo pakeitimo įstatymas]] - Miškų įstatymas
+- [[latest/TAR.960DBFBF5981#^s-1ec8120500cdb39911871526|Lietuvos Respublikos miškų įstatymo pakeitimo įstatymas]] - MIŠKŲ ĮSTATYMAS
 - [[latest/TAR.960DBFBF5981#^s-b4a63a9ee79b2b836829a918|Lietuvos Respublikos miškų įstatymo pakeitimo įstatymas]] - Miškų įstatymo
 - [[latest/TAR.960DBFBF5981#^s-f97a46686ed047a1822662d5|Lietuvos Respublikos miškų įstatymo pakeitimo įstatymas]] - MIŠKŲ ĮSTATYMO
 - [[latest/TAR.C42C2A946448#^s-0af92f79d197b1412705533f|Lietuvos Respublikos miškų įstatymo įgyvendinimo įstatymas]] - Lietuvos Respublikos miškų įstatymas
 - [[latest/TAR.C42C2A946448#^s-0cec901f010c866fee27947b|Lietuvos Respublikos miškų įstatymo įgyvendinimo įstatymas]] - Lietuvos Respublikos miškų įstatymo
-- [[latest/TAR.FF1083B528B7#^s-1933d8b4bea7876d4695f4b1|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Miškų įstatymas
 - [[latest/TAR.FF1083B528B7#^s-258885767d986e803649d705|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Miškų įstatymas
 - [[latest/TAR.FF1083B528B7#^s-2e8235188c7fac24ec39e1a9|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/TAR.FF1083B528B7#^s-444271d359b723ea08eeb667|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Miškų įstatymo
-- [[latest/TAR.FF1083B528B7#^s-9acf754affaff246bafa60aa|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/TAR.FF1083B528B7#^s-9fe42c575c10d4c7d7be2022|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Miškų įstatymo
-- [[latest/TAR.FF1083B528B7#^s-e436bbcf4c2dfb579308b2ca|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Miškų įstatymo
-- [[latest/TAR.150DCAB53625#^s-46d393ae53ab21887333d41b|Lietuvos Respublikos saugomų teritorijų įstatymo 31 straipsnio pakeitimo ir papildymo įstatymas]] - Miškų įstatymo
 - [[latest/TAR.150DCAB53625#^s-7d0ef1eea04c694ccc39d2d3|Lietuvos Respublikos saugomų teritorijų įstatymo 31 straipsnio pakeitimo ir papildymo įstatymas]] - Miškų įstatymo
 - [[latest/TAR.150DCAB53625#^s-a109b086fcdf6b9833714e89|Lietuvos Respublikos saugomų teritorijų įstatymo 31 straipsnio pakeitimo ir papildymo įstatymas]] - Miškų įstatymo
 - [[latest/787506209cf311e69ad4c8713b612d0f#^s-60c97ba70b15dcae32909adb|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/787506209cf311e69ad4c8713b612d0f#^s-edb60c59539a9185b9f774b1|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/2634aca02a8611e78397ae072f58c508#^s-cdc3c941b1c81cf6b80088b6|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymo Nr. XII-2683 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/20973eb00a2611ebb74de75171d26d52#^s-9337a51da9c84b67af806002|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2 ir 5 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/80f0df80935a11e9ae2e9d61b1f977b3#^s-47e0f009ba980b93122de8a4|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 5, 7, 9, 11, 12, 13, 18, 19, 20, 20-1, 25, 27 ir 28 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/80f0df80935a11e9ae2e9d61b1f977b3#^s-56fefea004f20ef939f5f6c2|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 5, 7, 9, 11, 12, 13, 18, 19, 20, 20-1, 25, 27 ir 28 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-0bb420ec2d1d4663c9d98b3a|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Miškų įstatymas
 - [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-2811917b796ad765d172d6f0|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Miškų įstatymo
-- [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-4169a280bd323715780a68ed|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Miškų įstatymas
 - [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-6f0f4e83d884240b5045751a|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Miškų įstatymo
-- [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-743bd48f9490bf118e673e21|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-baefbe603a5f709e88bef371|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-f5efd06f2027e0bb6711adf3|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Miškų įstatymo
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-3290bc11a393aa0fd24a4092|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-5e3312708d7035474d0d29c1|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-6670f4b28ddc9ec07335feeb|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Miškų įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-85d0dd866c10656635e032aa|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Miškų įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-d6a493e07df95085865f81a2|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Miškų įstatyme
 - [[latest/ba03da02a73311ef90b5ee8931e5ce5e#^s-8350ac9c8153adba94959ac4|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2 ir 19 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/af0add73325111f08fdabd4950271e2c#^s-0929d56b615a1096e6d8c100|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/af0add73325111f08fdabd4950271e2c#^s-d673e51301e19189a76c8fa7|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/3a1d7d704dc511ec862fdcbc8b3e3e05#^s-047e33fc1919af02526fa16b|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 98 ir 105 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/TAR.26B563184529#^s-06f91fe3dae520d6b82bad33|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Miškų įstatymu
-- [[latest/TAR.26B563184529#^s-94e77371c17743ca17f822fc|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Miškų įstatymu
 - [[latest/TAR.A03517D9FD6D#^s-228edf6d423ad25b71069158|Lietuvos Respublikos teritorijų planavimo įstatymo 2, 17, 20 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos miškų įstatymas
-- [[latest/TAR.A03517D9FD6D#^s-9ab3066b849378cf452e66ee|Lietuvos Respublikos teritorijų planavimo įstatymo 2, 17, 20 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos miškų įstatymas
 - [[latest/14fdeea09bea11ea9515f752ff221ec9#^s-6846466044115199ebc8a0c0|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 6, 15, 17, 18, 21, 26, 27 ir 39 straipsnių pakeitimo įstatymas]] - Miškų įstatymu
-- [[latest/TAR.1C65A214E386#^s-0ce9a32761508e73043a2289|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Miškų įstatymas
 - [[latest/TAR.1C65A214E386#^s-acf5f74f04937e25a1832bf5|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Miškų įstatymas
-- [[latest/TAR.91F3BE482534#^s-b979f8e3ba34f63531d42dbc|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos miškų įstatymo
 - [[latest/TAR.91F3BE482534#^s-bae23e92bdb2fcee814f4ab4|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Miškų įstatymu
 - [[latest/TAR.91F3BE482534#^s-cbd388ef7fef18db2a55aadf|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos miškų įstatymo
-- [[latest/TAR.91F3BE482534#^s-f723ddda59be13eefd9e10ab|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Miškų įstatymu
 - [[latest/2370827049bc11efbdaea558de59136c#^s-b2688f1dc3b720e5b0fcdb94|Lietuvos Respublikos želdynų įstatymo Nr. X-1241 2, 5, 7, 8, 12, 13, 14, 15, 16, 22 ir 24 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/9dde3570988511eb9fecb5ecd3bd711c#^s-83018559d5c8c202388829ae|Lietuvos Respublikos želdynų įstatymo Nr. X-1241 pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/9dde3570988511eb9fecb5ecd3bd711c#^s-edf2c8061c158383278c366b|Lietuvos Respublikos želdynų įstatymo Nr. X-1241 pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/TAR.13E108ED3981#^s-25ca3cc05d8086dd6ce6c05c|Lietuvos Respublikos žemės gelmių įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/TAR.13E108ED3981#^s-26e521c04da98b74d1287d54|Lietuvos Respublikos žemės gelmių įstatymas]] - Miškų įstatymo 5 straipsnio 5 dalyje
-- [[latest/TAR.13E108ED3981#^s-58ff2665592b10f7eb124177|Lietuvos Respublikos žemės gelmių įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/TAR.13E108ED3981#^s-8c2f12f1c42a9424741e11ce|Lietuvos Respublikos žemės gelmių įstatymas]] - Miškų įstatymo 5 straipsnio 5 dalyje
 - [[latest/e25ff5c0ccfb11ec8d9390588bf2de65#^s-6dda81a23c6e6944e3b8705e|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 2 ir 11 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/6a69a6d0f96711ed9978886e85107ab2#^s-42eaaa8063ff2a1c2b27d5fd|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 23 straipsnio pakeitimo įstatymas]] - Miškų įstatymo 5 straipsnio 5 dalyje
 - [[latest/6a69a6d0f96711ed9978886e85107ab2#^s-b088329f42e0f05701549a03|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 23 straipsnio pakeitimo įstatymas]] - Miškų įstatymo 5 straipsnio 5 dalyje
-- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-238e7e561a3c70a7243dd837|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/81f64500fbba11e99681cd81dcdca52c#^s-2999ad1722937a46d877af91|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/TAR.075D49C59279#^s-0f2a6cc69aea98ea8fd813e7|Lietuvos Respublikos žemės reformos įstatymas]] - Miškų įstatymas
-- [[latest/TAR.075D49C59279#^s-bd6b967e67aacaee512e7f50|Lietuvos Respublikos žemės reformos įstatymas]] - Miškų įstatymas
-- [[latest/TAR.0EF9122D15BE#^s-2dee714ce51df2f9cadd2427|Lietuvos Respublikos žemės reformos įstatymo pakeitimo įstatymas]] - Miškų įstatymas
 - [[latest/TAR.0EF9122D15BE#^s-c7ea9d13e1937a8be9de7675|Lietuvos Respublikos žemės reformos įstatymo pakeitimo įstatymas]] - Miškų įstatymas
-- [[latest/TAR.CC10C5274343#^s-02614d798473732ec9520587|Lietuvos Respublikos žemės įstatymas]] - Miškų įstatyme
 - [[latest/TAR.CC10C5274343#^s-08301c1527c515e70bcf03a5|Lietuvos Respublikos žemės įstatymas]] - Miškų įstatymo
 - [[latest/TAR.CC10C5274343#^s-3746487f3710d0ba7f9b6b76|Lietuvos Respublikos žemės įstatymas]] - Miškų įstatyme
 - [[latest/TAR.CC10C5274343#^s-3f3f9af810e50afa98e167c2|Lietuvos Respublikos žemės įstatymas]] - Lietuvos Respublikos miškų įstatymo
 - [[latest/TAR.CC10C5274343#^s-409734dd24d230c3d699954a|Lietuvos Respublikos žemės įstatymas]] - Miškų įstatyme
 - [[latest/TAR.CC10C5274343#^s-448f44d01bb29b10c480b6b9|Lietuvos Respublikos žemės įstatymas]] - Miškų įstatyme
-- [[latest/TAR.CC10C5274343#^s-573b19a317ad1e4c337fe2ce|Lietuvos Respublikos žemės įstatymas]] - 2 citatos - Miškų įstatyme
 - [[latest/TAR.CC10C5274343#^s-62d349395cf2c079ee66a98f|Lietuvos Respublikos žemės įstatymas]] - Miškų įstatyme
-- [[latest/TAR.CC10C5274343#^s-77f802fccdf388f1bdc24a12|Lietuvos Respublikos žemės įstatymas]] - Miškų įstatyme
-- [[latest/TAR.CC10C5274343#^s-7d5e79bd045b4a1c028d0a1e|Lietuvos Respublikos žemės įstatymas]] - Miškų įstatymas
 - [[latest/TAR.CC10C5274343#^s-946d0ca09f57b77ab9be1f6d|Lietuvos Respublikos žemės įstatymas]] - Miškų įstatymas
 - [[latest/TAR.CC10C5274343#^s-9cd868112fb6ed9aaf2ad23c|Lietuvos Respublikos žemės įstatymas]] - Miškų įstatyme
-- [[latest/TAR.CC10C5274343#^s-b8e2e1880e79131bf6e6426d|Lietuvos Respublikos žemės įstatymas]] - Miškų įstatyme
-- [[latest/TAR.CC10C5274343#^s-bbe28f0937887546e8ed1214|Lietuvos Respublikos žemės įstatymas]] - 2 citatos - Lietuvos Respublikos miškų įstatymo
-- [[latest/TAR.CC10C5274343#^s-c05d8128e2da72a0e2f876b4|Lietuvos Respublikos žemės įstatymas]] - Miškų įstatyme
 - [[latest/TAR.CC10C5274343#^s-edb74de77027cd4777ecfc11|Lietuvos Respublikos žemės įstatymas]] - Miškų įstatyme
-- [[latest/TAR.A64DB3EB7FC6#^s-0e2a9783d953494ddaab9eeb|Lietuvos Respublikos žemės įstatymo 2, 3, 7, 8, 9, 10, 12, 13, 15, 16, 19, 20, 21, 22, 23, 24, 25, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir papildymo įstatymas]] - Miškų įstatymo
 - [[latest/TAR.A64DB3EB7FC6#^s-474c244615af7eb4ecdf6eda|Lietuvos Respublikos žemės įstatymo 2, 3, 7, 8, 9, 10, 12, 13, 15, 16, 19, 20, 21, 22, 23, 24, 25, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir papildymo įstatymas]] - Miškų įstatymo
 - [[latest/TAR.AED9738851A9#^s-f2a5e498d95027b9d0ad7005|Lietuvos Respublikos žemės įstatymo 3, 6, 9, 10, 12, 17, 18, 21, 22, 23, 24, 28, 30, 31, 35, 36, 37, 39, 40, 41, 44, 47, 49, 55 straipsnių pakeitimo ir papildymo įstatymas]] - Miškų įstatymas
 - [[latest/fcebfb601fa611eeb233e8b04dc9bb3d#^s-4bc9fe8d3d685360d4e86e99|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymas]] - Lietuvos Respublikos miškų įstatymo
-- [[latest/fcebfb601fa611eeb233e8b04dc9bb3d#^s-734f6cf2beb40172792ddb9e|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymas]] - Miškų įstatyme
 - [[latest/fcebfb601fa611eeb233e8b04dc9bb3d#^s-bd39cd893f0e7422caf0219d|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymas]] - Miškų įstatyme
 - [[latest/fcebfb601fa611eeb233e8b04dc9bb3d#^s-be95e64c7b3cbcad8386f822|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymas]] - Miškų įstatyme
-- [[latest/fcebfb601fa611eeb233e8b04dc9bb3d#^s-d8827e0054afc0bf1221a681|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymas]] - Miškų įstatyme
-- [[latest/fcebfb601fa611eeb233e8b04dc9bb3d#^s-daf38ce2e864f698a4289c38|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymas]] - 2 citatos - Lietuvos Respublikos miškų įstatymo
 - [[latest/fcebfb601fa611eeb233e8b04dc9bb3d#^s-f4c63e4abc348c854e525798|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymas]] - Miškų įstatyme
-- [[latest/4726ce20a15d11eea5a28c81c82193a8#^s-8d17f83f88695c3391410a58|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymo Nr. XIV-2114 5, 8, 10, 17, 18, 21, 22, 24, 27, 30 straipsnių pakeitimo įstatymas]] - Miškų įstatyme
-- [[latest/4726ce20a15d11eea5a28c81c82193a8#^s-b65be95c2493c5115e6e9498|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymo Nr. XIV-2114 5, 8, 10, 17, 18, 21, 22, 24, 27, 30 straipsnių pakeitimo įstatymas]] - Miškų įstatyme
 - [[latest/4726ce20a15d11eea5a28c81c82193a8#^s-bf7489460588cee91db5871b|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymo Nr. XIV-2114 5, 8, 10, 17, 18, 21, 22, 24, 27, 30 straipsnių pakeitimo įstatymas]] - Miškų įstatyme
 - [[latest/4726ce20a15d11eea5a28c81c82193a8#^s-f8032147705f2f53790ab973|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymo Nr. XIV-2114 5, 8, 10, 17, 18, 21, 22, 24, 27, 30 straipsnių pakeitimo įstatymas]] - Miškų įstatyme
 - [[latest/ab66e212a73011ef90b5ee8931e5ce5e#^s-0772a7dbd13ab3a02db1031f|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 32, 41, 45, 49, 50, 51 ir 52 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/d8d5e3a055d011f0b070ee7f1ceefc75#^s-94b53c2b10b39b9bbe7a907d|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/d8d5e3a055d011f0b070ee7f1ceefc75#^s-db6f94af87ec6f4a92fa25a4|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-166f7a110e1539609df17ef4|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Miškų įstatyme
-- [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-232596c329dd678adf90e51c|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Miškų įstatyme
 - [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-3276ef6934a82ad6b568e5bf|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Miškų įstatyme
-- [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-49f89bc05e264001f47ec9de|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Miškų įstatyme
 - [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-5ed55a259c8e37c1d2324334|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Miškų įstatyme
 - [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-9859fbeb4dc8a394bafcfe90|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Miškų įstatymo
 - [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-ac7e21d5d975813f2b8028c6|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Miškų įstatyme
 - [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-c0112eb908485d015a30c620|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Miškų įstatyme
-- [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-fd7ebf35a98bb910c060d59d|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Miškų įstatyme
-- [[latest/964880b23bc711f0b070ee7f1ceefc75#^s-9ef77c1b60b8e453d6b68915|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 15, 22, 23, 29, 32, 34, 35, 37, 40, 41, 43, 45, 47, 55, 56, 64, 66 straipsnių ir VI-1 skyriaus pakeitimo įstatymas]] - Miškų įstatyme
 - [[latest/964880b23bc711f0b070ee7f1ceefc75#^s-be0520f0a80cdde0d8d3e7b6|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 15, 22, 23, 29, 32, 34, 35, 37, 40, 41, 43, 45, 47, 55, 56, 64, 66 straipsnių ir VI-1 skyriaus pakeitimo įstatymas]] - Miškų įstatyme
-- [[latest/734cab9276c711f1b53dfa020e517810#^s-5471fba7089af094242f4c8e|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 22, 23, 29, 30, 32, 36-1, 36-2, 37, 40, 41, 45, 46, 47, 48, 49, 51, 52, 60, 62 ir 64 straipsnių pakeitimo, Įstatymo papildymo 41-1, 41-2, 41-3, 41-4 straipsniais ir 56 straipsnio pripažinimo netekusiu galios įstatymas]] - Miškų įstatyme
 - [[latest/734cab9276c711f1b53dfa020e517810#^s-bedbe363beea93d6af1c1fd1|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 22, 23, 29, 30, 32, 36-1, 36-2, 37, 40, 41, 45, 46, 47, 48, 49, 51, 52, 60, 62 ir 64 straipsnių pakeitimo, Įstatymo papildymo 41-1, 41-2, 41-3, 41-4 straipsniais ir 56 straipsnio pripažinimo netekusiu galios įstatymas]] - Miškų įstatyme
-- [[latest/78aef0e2afce11f092fda1fd0c194cc5#^s-69e8e7d3c8e94f95661844a7|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 9, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/78aef0e2afce11f092fda1fd0c194cc5#^s-d4adeb907d32bafb7a37f0c2|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 9, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
 - [[latest/25337d90793111e8ae2bfd1913d66d57#^s-9e1bf298379b76ca3a8278a8|Lietuvos Respublikos žemės įstatymo Nr. I-446 7 straipsnio pakeitimo įstatymas]] - Miškų įstatymo
-- [[latest/ca135ae0510211e7846ef01bfffb9b64#^s-ba1c0768dfdc35bcb97b3372|Lietuvos Respublikos žemės įstatymo Nr. I-446 7 straipsnio pakeitimo įstatymas]] - Miškų įstatymo
-- [[latest/25337d90793111e8ae2bfd1913d66d57#^s-d4b2355c5c05c713bc3841b9|Lietuvos Respublikos žemės įstatymo Nr. I-446 7 straipsnio pakeitimo įstatymas]] - Miškų įstatymo
 - [[latest/ca135ae0510211e7846ef01bfffb9b64#^s-ec5f5f0b47256fc0e6fd29f5|Lietuvos Respublikos žemės įstatymo Nr. I-446 7 straipsnio pakeitimo įstatymas]] - Miškų įstatymo
-- [[latest/df1f3370ec8c11e78a1adea6fe72f3c5#^s-0b9933b00b6411ea47ad7805|Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9 ir 32 straipsnių pakeitimo įstatymas]] - Miškų įstatymo
 - [[latest/df1f3370ec8c11e78a1adea6fe72f3c5#^s-3d23909d706a116d1d0ef038|Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9 ir 32 straipsnių pakeitimo įstatymas]] - Miškų įstatymo
-- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-05ebba3df4bdf95943e7ac3c|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - 2 citatos - Miškų įstatyme
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-113ef033395ff0d53ff1bddc|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Miškų įstatymo
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-1e4fcf95fad962a0c041f88e|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Miškų įstatymo
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-49c0bdf7c2231b81bbcd98ab|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Miškų įstatymas
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-4b5e1e593d8aa65784436fe9|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-597df28254e91c8d57f55fc0|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Miškų įstatymo
-- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-79d2ac1af250c04a7e1e39ea|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Miškų įstatymas
-- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-7e520ba40a6434800a41b871|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Lietuvos Respublikos miškų įstatyme
-- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-adf910a2ec3cde4974f60f29|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Miškų įstatyme
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-beac284649651bb596857bb4|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Miškų įstatymo
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-cdfdfe58f370303cdce1a10d|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Miškų įstatyme
-- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-e3f5ffb5fe57b5f093dc1a88|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Miškų įstatymo
 - [[latest/33d53292042311edb32c9f9d8ba206f8#^s-ee178f78db0d08f818872afe|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Miškų įstatyme
 - [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-07b759dd378382e25a09f0ef|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Miškų įstatyme
 - [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-08dbde9d7606178d3f74ed40|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Miškų įstatymo
-- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-45215e9233ec2bf71096a44d|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Miškų įstatyme
 - [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-84f1ae2ab73736218b07217a|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Miškų įstatymo
-- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-f169ec53a6b13dd66a8490a0|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Miškų įstatymo
-- [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-1e53bbd1998ad2e1706815c8|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Miškų įstatymo
 - [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-2834d0d96e4220a9678cf17d|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Miškų įstatymo
-- [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-38eba9665a994b1f3f85d882|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Miškų įstatyme
 - [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-bfd5ea973cc46cc843dc34ca|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Miškų įstatyme
 - [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-c2ddc616f97ee4896a1011f6|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Miškų įstatymo
-- [[latest/6dbdd2c0a62d11eea5a28c81c82193a8#^s-9ebf938827107200c18fa110|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 straipsnio pakeitimo įstatymas]] - Miškų įstatyme
 - [[latest/6dbdd2c0a62d11eea5a28c81c82193a8#^s-c0fc2a0028f1a7accb53779b|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 straipsnio pakeitimo įstatymas]] - Miškų įstatyme
 - [[latest/TAR.7ED447C0D254#^s-14365afdfb51ca64d4cb90fb|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Miškų įstatymo
-- [[latest/TAR.7ED447C0D254#^s-3b5ade45442e1423247d6634|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Miškų įstatymas
-- [[latest/TAR.7ED447C0D254#^s-71fe0a1250f20346fa91de03|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Miškų įstatyme
 - [[latest/TAR.7ED447C0D254#^s-93e4ef40c2749f83a197cd9a|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Miškų įstatymas
-- [[latest/TAR.7ED447C0D254#^s-d3acab0cc15df6aaf483fbe2|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Miškų įstatymo
 - [[latest/TAR.7ED447C0D254#^s-d8f5e817aff708719741d50b|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Miškų įstatymas
-- [[latest/TAR.7ED447C0D254#^s-e5001fe1ac130c32f730e1e5|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Miškų įstatymas
 - [[latest/TAR.7ED447C0D254#^s-e7104375456e058f64e7720b|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - Miškų įstatyme

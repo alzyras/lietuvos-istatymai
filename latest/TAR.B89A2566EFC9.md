@@ -148,13 +148,13 @@ Nuo 1995 m. vasario 1 d. netenka galios:
 2) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos istorijos ir kultūros paminklų apsaugos ir naudojimo įstatymo įsigaliojimo tvarkos“ (Žin., 1977, Nr. 36-471); ^s-7b4e24f9fc2001d7d0339bb1
 
 
-3) Lietuvos Respublikos kultūros paveldo inspekcijos laikinasis įstatymas (Žin., 1990, Nr. 24-598); ^s-b41a016eb891ff681fbc80f1
+3) [Lietuvos Respublikos kultūros paveldo inspekcijos laikinasis įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.89C1AA11BD9E) (Žin., 1990, Nr. 24-598); ^s-b41a016eb891ff681fbc80f1
 
 
-4) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos kultūros paveldo inspekcijos laikinojo įstatymo įsigaliojimo“ (Žin., 1990, Nr. 23-566); ^s-daf8b50f93aff969d4d5c6ae
+4) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas [„Dėl Lietuvos Respublikos kultūros paveldo inspekcijos laikinojo įstatymo įsigaliojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.24655C9141B9) (Žin., 1990, Nr. 23-566); ^s-daf8b50f93aff969d4d5c6ae
 
 
-5) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl Lietuvos Respublikos kultūros paveldo inspekcijos“ (Žin., 1990, Nr. 18-467, Nr. 23-566). ^s-7968f857c22ba93f27ba31c6
+5) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas [„Dėl Lietuvos Respublikos kultūros paveldo inspekcijos“](https://e-tar.lt/portal/lt/legalAct/TAR.33DBB6038A62) (Žin., 1990, Nr. 18-467, Nr. 23-566). ^s-7968f857c22ba93f27ba31c6
 
 
 

@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fon
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.458267ED82D6|Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas]] - 3 citatos - LIETUVOS RESPUBLIKOS 2009 METŲ PRIVALOMOJO SVEIKATOS DRAUDIMO FONDO BIUDŽETO RODIKLIŲ PATVIRTINIMO ĮSTATYMAS
+- [[latest/TAR.458267ED82D6|Lietuvos Respublikos 2009 metų Privalomojo sveikatos draudimo fondo biudžeto rodiklių patvirtinimo įstatymas]] - 2008 m. gruodžio 22 d. įstatymo Nr. XI-97
 
 ## Šį įstatymą cituoja
 

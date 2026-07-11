@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos geležinkelių transporto eismo saugos įstat
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C7A984833333#^s-39735e9ce3d58379a1d9a585|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo 25 straipsnio 2 dalies
+_Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C7A984833333#^s-38a812c37cc2565d2a29af55|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - 2 citatos - GELEŽINKELIŲ TRANSPORTO EISMO SAUGOS ĮSTATYMO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.C7A984833333#^s-fcac146a349a2b05ad35701b|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - 2 citatos - GELEŽINKELIŲ TRANSPORTO EISMO SAUGOS ĮSTATYMO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.C7A984833333#^s-38a812c37cc2565d2a29af55|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - GELEŽINKELIŲ TRANSPORTO EISMO SAUGOS ĮSTATYMO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS

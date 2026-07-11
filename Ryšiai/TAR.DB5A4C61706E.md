@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo speci
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - 2 citatos - Aplinkos apsaugos rėmimo programos įstatyme
+- [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - Aplinkos apsaugos rėmimo programos įstatyme
 
 ## Šį įstatymą cituoja
 

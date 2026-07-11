@@ -9,9 +9,13 @@ pavadinimas: "Lietuvos Respublikos advokatūros įstatymo Nr. IX-2066 60 straips
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.9F4371AB03A3|Lietuvos Respublikos advokatūros įstatymas]] - 12 punktu
+- [[latest/TAR.9F4371AB03A3#^s-0e2b1df2fa19e0cafebc5118|Lietuvos Respublikos advokatūros įstatymas]] - 2 citatos - 60 straipsnio 2 dalies
+- [[latest/TAR.9F4371AB03A3#^s-26d94dceb0ba0971cbc737b9|Lietuvos Respublikos advokatūros įstatymas]] - 12
+- [[latest/TAR.9F4371AB03A3#^s-616182d6e7927c35e2cb7296|Lietuvos Respublikos advokatūros įstatymas]] - 20
+- [[latest/TAR.9F4371AB03A3#^s-74b16b222368d39778b0665c|Lietuvos Respublikos advokatūros įstatymas]] - 21
+- [[latest/TAR.9F4371AB03A3#^s-85e9c9c2b85037ad2bee0c9e|Lietuvos Respublikos advokatūros įstatymas]] - 13
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9F4371AB03A3#^s-07349121b83fa0d4efa26b92|Lietuvos Respublikos advokatūros įstatymas]] - Įstatymas Nr. XII-2234
-- [[latest/TAR.9F4371AB03A3#^s-10031ac6e33cca0b9bcff628|Lietuvos Respublikos advokatūros įstatymas]] - Įstatymas Nr. XII-2234
+_Nėra._

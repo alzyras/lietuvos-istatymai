@@ -336,7 +336,7 @@ Pakeisti [[#^s-91392d0ac35c962779010797|23 straipsnį]] ir jį išdėstyti taip:
 2) į valstybės biudžetą įmokama Lietuvos banko pelno įmoka, lygi 50 procentų Lietuvos banko finansinių metų pelno ar jo dalies, likusios po pelno dalies skyrimo pagal [[#^s-435b2b0765a0a2bc7f29b296|šios dalies 1 punkto]] nuostatas; ^s-b36b35a5fb665e6a8e125904
 
 
-3) pelno dalis, likusi po pelno paskirstymo pagal šios dalies 1 ir [[#^s-b36b35a5fb665e6a8e125904|2 punktų]] nuostatas, skiriama lygiomis dalimis įstatiniam ir (arba) atsargos kapitalui. Kai įstatiniam kapitalui iki šio Įstatymo [[#^s-126087665cba68128008b2f9|20 straipsnyje]] nustatyto dydžio reikia mažiau, skiriama reikiama suma, o likusi suma skiriama atsargos kapitalui.“ ^s-701ae19640562d19e4315835
+3) pelno dalis, likusi po pelno paskirstymo pagal šios dalies [[#^s-435b2b0765a0a2bc7f29b296|1]] ir [[#^s-b36b35a5fb665e6a8e125904|2]] punktų nuostatas, skiriama lygiomis dalimis įstatiniam ir (arba) atsargos kapitalui. Kai įstatiniam kapitalui iki šio Įstatymo [[#^s-126087665cba68128008b2f9|20 straipsnyje]] nustatyto dydžio reikia mažiau, skiriama reikiama suma, o likusi suma skiriama atsargos kapitalui.“ ^s-701ae19640562d19e4315835
 
 
 
@@ -439,7 +439,7 @@ Papildyti Įstatymą priedu:
 
 „Lietuvos Respublikos
 1994 m. gruodžio 1 d.
-[[latest/TAR.1B4D7B687895|įstatymo Nr. I-678]]
+įstatymo Nr. I-678
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
@@ -452,16 +452,16 @@ priedas
 2. 1992 m. vasario 7 d. Europos Bendrijos steigimo sutarties Protokolas Nr. 18 dėl Europos centrinių bankų sistemos ir Europos centrinio banko statuto. ^s-2b957fde1b2e7050a7ee0a07
 
 
-3. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) 3603/93, kuriame pateikti apibrėžimai, susiję su sutarties 104 ir 104b (1) straipsniuose numatytų uždraudimų taikymu. ^s-3ddd339fc413c33a58b72985
+3. 1993 m. gruodžio 13 d. Tarybos [reglamentas (EB) 3603/93](https://eur-lex.europa.eu/eli/reg/3603/93/oj), kuriame pateikti apibrėžimai, susiję su sutarties 104 ir 104b (1) straipsniuose numatytų uždraudimų taikymu. ^s-3ddd339fc413c33a58b72985
 
 
-4. 1993 m. gruodžio 13 d. Tarybos reglamentas (EB) 3604/93, kuriame pateikiami apibrėžimai, susiję su sutarties 104a straipsnyje numatytos privilegijuotos teisės naudotis finansinių institucijų teikiama parama, uždraudimo taikymu. ^s-8d1152f96e3c4238e3ebeb4b
+4. 1993 m. gruodžio 13 d. Tarybos [reglamentas (EB) 3604/93](https://eur-lex.europa.eu/eli/reg/3604/93/oj), kuriame pateikiami apibrėžimai, susiję su sutarties 104a straipsnyje numatytos privilegijuotos teisės naudotis finansinių institucijų teikiama parama, uždraudimo taikymu. ^s-8d1152f96e3c4238e3ebeb4b
 
 
-5. 2001 m. birželio 28 d. Tarybos reglamentas (EB) 1338/2001, nustatantis priemones, būtinas euro apsaugai nuo padirbinėjimo. ^s-f0034c7044a9ea70a75c50c3
+5. 2001 m. birželio 28 d. Tarybos [reglamentas (EB) 1338/2001](https://eur-lex.europa.eu/eli/reg/1338/2001/oj), nustatantis priemones, būtinas euro apsaugai nuo padirbinėjimo. ^s-f0034c7044a9ea70a75c50c3
 
 
-6. 2001 m. birželio 28 d. Tarybos reglamentas (EB) 1339/2001, išplečiantis Reglamento (EB) Nr. 1338/2001, nustatančio priemones, būtinas euro apsaugai nuo klastojimo, veikimą toms valstybėms, kurios nėra priėmusios euro kaip savo bendros valiutos.“ ^s-e86976db7fbd32ef12c7e8a7
+6. 2001 m. birželio 28 d. Tarybos [reglamentas (EB) 1339/2001](https://eur-lex.europa.eu/eli/reg/1339/2001/oj), išplečiantis [Reglamento (EB) Nr. 1338/2001](https://eur-lex.europa.eu/eli/reg/1338/2001/oj), nustatančio priemones, būtinas euro apsaugai nuo klastojimo, veikimą toms valstybėms, kurios nėra priėmusios euro kaip savo bendros valiutos.“ ^s-e86976db7fbd32ef12c7e8a7
 
 
 

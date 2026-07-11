@@ -9,8 +9,10 @@ pavadinimas: "Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VI
 
 ## Šis įstatymas cituoja
 
+- [[latest/TAR.72C31F8DD98E|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - 17 citatos - 17 straipsnio 4 dalies 2 punktą
+- [[latest/TAR.72C31F8DD98E#^s-3c4e0e51b9e60659a702dd82|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - 2 straipsnio 13 dalį
 - [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Statybos įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.72C31F8DD98E#^s-ab7f6160773453845af7b8e9|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Įstatymas Nr. XIV-2992
+_Nėra._

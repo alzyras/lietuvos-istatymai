@@ -150,7 +150,7 @@ ASMENS DUOMENŲ TVARKYMO REIKALAVIMAI
 3. To paties ar kito duomenų valdytojo atliekamas asmens duomenų tvarkymas gali apimti archyvavimą dėl viešojo intereso, naudojimą mokslinio, statistinio ar istorinio tyrimo tikslais siekiant šio įstatymo [[#^s-3186feb7ac5648b0a82924db|1 straipsnio 2 dalyje]] nurodytų tikslų, jeigu taikomos tinkamos duomenų subjektų teisių ir laisvių apsaugos priemonės. ^s-973a31329b38a319b7e47a90
 
 
-4. Duomenų valdytojas yra atsakingas už šio straipsnio 1, 2 ir [[#^s-973a31329b38a319b7e47a90|3 dalių]] nuostatų laikymąsi ir turi sugebėti įrodyti, kad jų laikomasi. ^s-ea4ef40426a5b0c9a260aa03
+4. Duomenų valdytojas yra atsakingas už šio straipsnio [[#^s-b07939da153d1d6fe3799773|1]], [[#^s-cc04707d51152c8bf4162558|2]] ir [[#^s-973a31329b38a319b7e47a90|3]] dalių nuostatų laikymąsi ir turi sugebėti įrodyti, kad jų laikomasi. ^s-ea4ef40426a5b0c9a260aa03
 
 
 
@@ -176,7 +176,7 @@ Duomenų valdytojas, kuris tvarko skirtingų kategorijų duomenų subjektų asme
 3) nukentėjusiųjų arba nuo nusikalstamos veikos galimai nukentėjusių asmenų; ^s-24a0920138a9412bd044eca7
 
 
-4) kitų su nusikalstama veika susijusių asmenų (pavyzdžiui, asmenų, kurie galėtų būti kviečiami liudyti atliekant nusikalstamų veikų tyrimą arba vėliau baudžiamojo proceso metu, asmenų, kurie gali suteikti informacijos apie nusikalstamas veikas, arba asmenų, kurie yra susiję su vienu iš šio straipsnio 1 ir [[#^s-58301ef2815e270844948c66|2 punktuose]] nurodytų asmenų); ^s-2fdef237ce98194c21d79c97
+4) kitų su nusikalstama veika susijusių asmenų (pavyzdžiui, asmenų, kurie galėtų būti kviečiami liudyti atliekant nusikalstamų veikų tyrimą arba vėliau baudžiamojo proceso metu, asmenų, kurie gali suteikti informacijos apie nusikalstamas veikas, arba asmenų, kurie yra susiję su vienu iš šio straipsnio [[#^s-8cfc5c6aa69202447a846254|1]] ir [[#^s-58301ef2815e270844948c66|2]] punktuose nurodytų asmenų); ^s-2fdef237ce98194c21d79c97
 
 
 5) asmenų, kurių asmens duomenys tvarkomi nacionalinio saugumo ar gynybos tikslais. ^s-e93f4a7135760828adabe180
@@ -202,10 +202,10 @@ Duomenų valdytojas, kuris tvarko skirtingų kategorijų duomenų subjektų asme
 1. Duomenų tvarkymas yra teisėtas tik tuo atveju, kai jis būtinas, ir tiek, kiek jis būtinas kompetentingai institucijai funkcijoms šio įstatymo [[#^s-3186feb7ac5648b0a82924db|1 straipsnio 2 dalyje]] nurodytais tikslais atlikti, ir grindžiamas Europos Sąjungos arba Lietuvos Respublikos teisės aktais. Lietuvos Respublikos teisės aktuose, reglamentuojančiuose asmens duomenų tvarkymą, turi būti nurodyti duomenų tvarkymo siekiai, tvarkytini asmens duomenys, duomenų tvarkymo tikslai ir kiti duomenų tvarkymo reikalavimai, kuriais siekiama užtikrinti teisėtą asmens duomenų tvarkymą. ^s-c0c452881d32c48f75edd103
 
 
-2. Kompetentingų institucijų šio įstatymo [[#^s-3186feb7ac5648b0a82924db|1 straipsnio 2 dalyje]] nurodytais tikslais renkami asmens duomenys negali būti tvarkomi kitais tikslais, nebent taip juos tvarkyti yra leidžiama pagal Europos Sąjungos arba Lietuvos Respublikos teisės aktus. Jei asmens duomenys tvarkomi kitais tikslais, taikomas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) (toliau – Reglamentas (ES) 2016/679) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]]. ^s-7518c4f6b18c6c0a2e7021f7
+2. Kompetentingų institucijų šio įstatymo [[#^s-3186feb7ac5648b0a82924db|1 straipsnio 2 dalyje]] nurodytais tikslais renkami asmens duomenys negali būti tvarkomi kitais tikslais, nebent taip juos tvarkyti yra leidžiama pagal Europos Sąjungos arba Lietuvos Respublikos teisės aktus. Jei asmens duomenys tvarkomi kitais tikslais, taikomas 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1) (toliau – [Reglamentas (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj)) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]]. ^s-7518c4f6b18c6c0a2e7021f7
 
 
-3. Kai kompetentingoms institucijoms pagal Lietuvos Respublikos teisės aktus yra pavesta atlikti kitas funkcijas negu tos, kurios atliekamos šio įstatymo [[#^s-3186feb7ac5648b0a82924db|1 straipsnio 2 dalyje]] nurodytais tikslais, tvarkant asmens duomenis tokiais tikslais, įskaitant jų archyvavimą dėl viešojo intereso, naudojimą mokslinio ar istorinio tyrimo tikslais ar statistiniais tikslais, taikomas Reglamentas (ES) 2016/679 ir [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymas]]. ^s-d07b47cb183d2c2c5b145316
+3. Kai kompetentingoms institucijoms pagal Lietuvos Respublikos teisės aktus yra pavesta atlikti kitas funkcijas negu tos, kurios atliekamos šio įstatymo [[#^s-3186feb7ac5648b0a82924db|1 straipsnio 2 dalyje]] nurodytais tikslais, tvarkant asmens duomenis tokiais tikslais, įskaitant jų archyvavimą dėl viešojo intereso, naudojimą mokslinio ar istorinio tyrimo tikslais ar statistiniais tikslais, taikomas [Reglamentas (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymas]]. ^s-d07b47cb183d2c2c5b145316
 
 
 4. Tais atvejais, kai Europos Sąjungos arba Lietuvos Respublikos teisės aktuose, taikomuose asmens duomenis persiunčiančiai kompetentingai institucijai, numatytos specialios asmens duomenų tvarkymo sąlygos, asmens duomenis persiunčianti kompetentinga institucija turi informuoti asmens duomenų gavėją apie tas sąlygas ir reikalavimą jų laikytis. ^s-48b26351021098c48d0eb83c
@@ -255,13 +255,13 @@ DUOMENŲ SUBJEKTO TEISĖS
 ### 10 straipsnis. Pranešimai ir duomenų subjektų naudojimosi savo teisėmis sąlygos ^s-4d6b3250a0a63ebd256dba75
 
 
-1. Duomenų valdytojas turi imtis visų pagrįstų priemonių, kad šio įstatymo [[#^s-f71b7e7c0063661f30777f5a|11 straipsnyje]] nurodyta informacija ir pranešimai pagal šio įstatymo 12, 13, 14, 15, 16 ir [[#^s-2621fb497655ed428027d28c|30 straipsnius]], susiję su asmens duomenų tvarkymu, duomenų subjektui būtų pateikiami glausta, suprantama ir lengvai prieinama forma, aiškia ir paprasta kalba. Informacija pateikiama elektroniniu būdu ir (ar) bet kokiomis kitomis tinkamomis priemonėmis. Duomenų valdytojas duomenų subjekto prašomą pateikti informaciją apie asmens duomenų tvarkymą pateikia tokia pačia forma, kokia buvo gautas prašymas. ^s-590fb1c4109ccf2460e9bf7d
+1. Duomenų valdytojas turi imtis visų pagrįstų priemonių, kad šio įstatymo [[#^s-f71b7e7c0063661f30777f5a|11 straipsnyje]] nurodyta informacija ir pranešimai pagal šio įstatymo [[#^s-2ce3a13392aaee6a73c52542|12]], [[#^s-d7f52779087e1b9a42ca6073|13]], [[#^s-c97644cf1dfff5ef6c05f24e|14]], [[#^s-ba0a4d5ee7b05a741499096c|15]], [[#^s-a04f556dd7b4e579c1d274db|16]] ir [[#^s-2621fb497655ed428027d28c|30]] straipsnius, susiję su asmens duomenų tvarkymu, duomenų subjektui būtų pateikiami glausta, suprantama ir lengvai prieinama forma, aiškia ir paprasta kalba. Informacija pateikiama elektroniniu būdu ir (ar) bet kokiomis kitomis tinkamomis priemonėmis. Duomenų valdytojas duomenų subjekto prašomą pateikti informaciją apie asmens duomenų tvarkymą pateikia tokia pačia forma, kokia buvo gautas prašymas. ^s-590fb1c4109ccf2460e9bf7d
 
 
-2. Duomenų valdytojas sudaro palankias sąlygas naudotis šio įstatymo 12, 13, 14, 15 ir [[#^s-a04f556dd7b4e579c1d274db|16 straipsniuose]] nustatytomis duomenų subjekto teisėmis. ^s-49492947b4de019df81ace5d
+2. Duomenų valdytojas sudaro palankias sąlygas naudotis šio įstatymo [[#^s-2ce3a13392aaee6a73c52542|12]], [[#^s-d7f52779087e1b9a42ca6073|13]], [[#^s-c97644cf1dfff5ef6c05f24e|14]], [[#^s-ba0a4d5ee7b05a741499096c|15]] ir [[#^s-a04f556dd7b4e579c1d274db|16]] straipsniuose nustatytomis duomenų subjekto teisėmis. ^s-49492947b4de019df81ace5d
 
 
-3. Duomenų valdytojas nedelsdamas, bet ne vėliau kaip per vieną mėnesį nuo duomenų subjekto prašymo gavimo dienos, raštu pateikia duomenų subjektui informaciją apie veiksmus, kurių imtasi gavus prašymą pagal šio įstatymo 12, 13, 14 ir [[#^s-ba0a4d5ee7b05a741499096c|15 straipsnius]], arba atsisakymą imtis veiksmų pagal duomenų subjekto prašymą. Šis terminas prireikus gali būti pratęstas iki trijų mėnesių, atsižvelgiant į duomenų subjekto pateiktų prašymų sudėtingumą ir skaičių. Duomenų valdytojas per vieną mėnesį nuo duomenų subjekto prašymo gavimo dienos raštu praneša duomenų subjektui apie šioje dalyje nurodyto termino pratęsimą ir pratęsimo priežastis. Jei duomenų valdytojas atsisako imtis veiksmų pagal duomenų subjekto prašymą, jis praneša duomenų subjektui apie atsisakymo priežastis ir apie duomenų subjekto teisę pateikti skundą Valstybinei duomenų apsaugos inspekcijai arba kreiptis į teismą, o kai asmens duomenys tvarkomi nacionalinio saugumo ar gynybos tikslais, – apie teisę pateikti skundą kitam subjektui, kuris pagal Lietuvos Respublikos įstatymus, reglamentuojančius kompetentingų institucijų veiklą, nagrinėja skundus dėl žmogaus teisių ir laisvių pažeidimų. ^s-2544d126aa51f9e6b90be62c
+3. Duomenų valdytojas nedelsdamas, bet ne vėliau kaip per vieną mėnesį nuo duomenų subjekto prašymo gavimo dienos, raštu pateikia duomenų subjektui informaciją apie veiksmus, kurių imtasi gavus prašymą pagal šio įstatymo [[#^s-2ce3a13392aaee6a73c52542|12]], [[#^s-d7f52779087e1b9a42ca6073|13]], [[#^s-c97644cf1dfff5ef6c05f24e|14]] ir [[#^s-ba0a4d5ee7b05a741499096c|15]] straipsnius, arba atsisakymą imtis veiksmų pagal duomenų subjekto prašymą. Šis terminas prireikus gali būti pratęstas iki trijų mėnesių, atsižvelgiant į duomenų subjekto pateiktų prašymų sudėtingumą ir skaičių. Duomenų valdytojas per vieną mėnesį nuo duomenų subjekto prašymo gavimo dienos raštu praneša duomenų subjektui apie šioje dalyje nurodyto termino pratęsimą ir pratęsimo priežastis. Jei duomenų valdytojas atsisako imtis veiksmų pagal duomenų subjekto prašymą, jis praneša duomenų subjektui apie atsisakymo priežastis ir apie duomenų subjekto teisę pateikti skundą Valstybinei duomenų apsaugos inspekcijai arba kreiptis į teismą, o kai asmens duomenys tvarkomi nacionalinio saugumo ar gynybos tikslais, – apie teisę pateikti skundą kitam subjektui, kuris pagal Lietuvos Respublikos įstatymus, reglamentuojančius kompetentingų institucijų veiklą, nagrinėja skundus dėl žmogaus teisių ir laisvių pažeidimų. ^s-2544d126aa51f9e6b90be62c
 
 
 4. Duomenų valdytojas [[#^s-590fb1c4109ccf2460e9bf7d|šio straipsnio 1 dalyje]] nurodytą informaciją ir pranešimus teikia ir kitus su duomenų subjektų teisių įgyvendinimu susijusius veiksmus atlieka nemokamai. Jeigu duomenų subjekto prašymai yra akivaizdžiai nepagrįsti arba neproporcingi visų pirma dėl jų pasikartojančio pobūdžio, duomenų valdytojas gali: ^s-deed84cab882747965a70203
@@ -442,7 +442,7 @@ Duomenų subjektas turi teisę gauti duomenų valdytojo patvirtinimą, ar su juo
 7. Duomenų valdytojas nedelsdamas turi pranešti apie netikslių asmens duomenų ištaisymą kompetentingai institucijai, iš kurios tie netikslūs asmens duomenys buvo gauti. ^s-19347845f71f2f26345ab755
 
 
-8. Tais atvejais, kai pagal šio straipsnio 1, 2 ir [[#^s-69a81071b8ebbbff805f7db5|3 dalis]] asmens duomenys buvo ištaisyti ar ištrinti arba buvo apribotas jų tvarkymas, duomenų valdytojas nedelsdamas turi apie tai pranešti duomenų gavėjams, o duomenų gavėjai turi ištaisyti ar ištrinti asmens duomenis arba apriboti asmens duomenų tvarkymą. ^s-e5acbe207c8d800a21c92a39
+8. Tais atvejais, kai pagal šio straipsnio [[#^s-257c2ae55cddf5788935b70d|1]], [[#^s-b6a063b27c7b29371f34a732|2]] ir [[#^s-69a81071b8ebbbff805f7db5|3]] dalis asmens duomenys buvo ištaisyti ar ištrinti arba buvo apribotas jų tvarkymas, duomenų valdytojas nedelsdamas turi apie tai pranešti duomenų gavėjams, o duomenų gavėjai turi ištaisyti ar ištrinti asmens duomenis arba apriboti asmens duomenų tvarkymą. ^s-e5acbe207c8d800a21c92a39
 
 
 
@@ -459,7 +459,7 @@ Duomenų subjektas turi teisę gauti duomenų valdytojo patvirtinimą, ar su juo
 ### 16 straipsnis. Duomenų subjekto teisės vykstant baudžiamajam procesui ^s-a04f556dd7b4e579c1d274db
 
 
-Vykstant baudžiamajam procesui, duomenų subjektas šio įstatymo 11, 12 ir [[#^s-c97644cf1dfff5ef6c05f24e|14 straipsniuose]] nurodytomis teisėmis naudojasi tiek, kiek [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekse]] nenustatyta kitokia teisių įgyvendinimo tvarka.
+Vykstant baudžiamajam procesui, duomenų subjektas šio įstatymo [[#^s-f71b7e7c0063661f30777f5a|11]], [[#^s-2ce3a13392aaee6a73c52542|12]] ir [[#^s-c97644cf1dfff5ef6c05f24e|14]] straipsniuose nurodytomis teisėmis naudojasi tiek, kiek [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekse]] nenustatyta kitokia teisių įgyvendinimo tvarka.
 
 
 
@@ -587,10 +587,10 @@ Duomenų tvarkytojas ir bet kuris duomenų valdytojui arba duomenų tvarkytojui 
 4) jeigu įmanoma, bendras šio įstatymo [[#^s-3f7904e0dd4ca6d5163b3b81|28 straipsnio 1 dalyje]] nurodytų techninių ir organizacinių saugumo priemonių aprašymas. ^s-f0e9ce375494c5c6f009dfe6
 
 
-3. Šio straipsnio 1 ir [[#^s-3c12085620dbb683f721d2d5|2 dalyse]] nurodyti įrašai tvarkomi raštu, įskaitant elektroninę formą. ^s-ee1a774895a7d790d03318c7
+3. Šio straipsnio [[#^s-89f5d79d6137c358218313cc|1]] ir [[#^s-3c12085620dbb683f721d2d5|2]] dalyse nurodyti įrašai tvarkomi raštu, įskaitant elektroninę formą. ^s-ee1a774895a7d790d03318c7
 
 
-4. Duomenų valdytojas ir duomenų tvarkytojas turi pateikti šio straipsnio 1 ir [[#^s-3c12085620dbb683f721d2d5|2 dalyse]] nurodytus įrašus Valstybinei duomenų apsaugos inspekcijai jos prašymu, išskyrus atvejus, kai asmens duomenys tvarkomi nacionalinio saugumo arba gynybos tikslais. ^s-fb0e5b27b7a845b25ad62011
+4. Duomenų valdytojas ir duomenų tvarkytojas turi pateikti šio straipsnio [[#^s-89f5d79d6137c358218313cc|1]] ir [[#^s-3c12085620dbb683f721d2d5|2]] dalyse nurodytus įrašus Valstybinei duomenų apsaugos inspekcijai jos prašymu, išskyrus atvejus, kai asmens duomenys tvarkomi nacionalinio saugumo arba gynybos tikslais. ^s-fb0e5b27b7a845b25ad62011
 
 
 
@@ -656,7 +656,7 @@ Gavę Valstybinės duomenų apsaugos inspekcijos prašymą, duomenų valdytojas 
 ### 27 straipsnis. Pranešimų apie šio įstatymo pažeidimus skatinimas ^s-5dba9b780d87263de940aba9
 
 
-Duomenų valdytojai turi diegti veiksmingus mechanizmus, kuriais būtų skatinama jiems konfidencialiai pranešti apie šio įstatymo pažeidimus dėl asmens duomenų tvarkymo.
+Duomenų valdytojai turi diegti veiksmingus mechanizmus, kuriais būtų skatinama jiems konfidencialiai pranešti apie šio įstatymo pažeidimus [dėl asmens duomenų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.CCBBCFCD3831).
 
 
 
@@ -753,7 +753,7 @@ ASMENS DUOMENŲ SAUGUMAS
 1. Jeigu dėl asmens duomenų saugumo pažeidimo gali kilti didelis pavojus fizinių asmenų teisėms ir laisvėms, duomenų valdytojas nedelsdamas apie asmens duomenų saugumo pažeidimą praneša duomenų subjektui. ^s-8ee189a0c74b9d59be371799
 
 
-2. [[#^s-8ee189a0c74b9d59be371799|Šio straipsnio 1 dalyje]] nurodytame pranešime duomenų subjektui aiškia ir paprasta kalba aprašomas asmens duomenų saugumo pažeidimo pobūdis ir pateikiama šio įstatymo [[#^s-8ec1b5840a02a81dfae7a64e|29 straipsnio 3 dalies]] 2, 3, 4 ir 5 punktuose nurodyta informacija. ^s-0559190ea36328fb8a6cd48c
+2. [[#^s-8ee189a0c74b9d59be371799|Šio straipsnio 1 dalyje]] nurodytame pranešime duomenų subjektui aiškia ir paprasta kalba aprašomas asmens duomenų saugumo pažeidimo pobūdis ir pateikiama šio įstatymo [[#^s-8ec1b5840a02a81dfae7a64e|29 straipsnio 3 dalies]] [[#^s-cf5aee17bec7b4c0420deb54|2]], [[#^s-68247c54cdca628f3d5a0812|3]], [[#^s-ecebf9a4dd0e688be541db3b|4]] ir [[#^s-0d274f4457268f8f5706b82a|5]] punktuose nurodyta informacija. ^s-0559190ea36328fb8a6cd48c
 
 
 3. [[#^s-8ee189a0c74b9d59be371799|Šio straipsnio 1 dalyje]] nurodytu atveju pranešti duomenų subjektui nereikalaujama, jeigu įvykdoma bent viena iš šių sąlygų: ^s-2a06e2bb8db6f9baba75ec60
@@ -873,7 +873,7 @@ ASMENS DUOMENŲ PERDAVIMAI Į TREČIĄSIAS VALSTYBES ARBA TARPTAUTINĖMS ORGANIZ
 1. Perduoti asmens duomenis į trečiąją valstybę arba tarptautinei organizacijai galima, jeigu Europos Komisija nusprendė, kad ši trečioji valstybė, teritorija arba vienas ar daugiau nurodytų sektorių šioje trečiojoje valstybėje, arba ši tarptautinė organizacija užtikrina tinkamo lygio apsaugą. Šiuo atveju dėl asmens duomenų perdavimo specialaus leidimo nereikia. ^s-353e9dbb8cde1c76259e92b9
 
 
-2. Europos Komisijos sprendimas, nustatantis, kad trečioji valstybė, teritorija arba vienas ar daugiau nurodytų sektorių trečiojoje valstybėje, arba tarptautinė organizacija nebeužtikrina tinkamo lygio asmens duomenų apsaugos, neturi įtakos asmens duomenų perdavimui į tą trečiąją valstybę, teritoriją arba nurodytam vienam ar daugiau sektorių trečiojoje valstybėje, arba tai tarptautinei organizacijai pagal šio įstatymo 36 ir [[#^s-fe735604cf7840848c216700|37 straipsnius]]. ^s-0dc08afc7591fda096ab5b1a
+2. Europos Komisijos sprendimas, nustatantis, kad trečioji valstybė, teritorija arba vienas ar daugiau nurodytų sektorių trečiojoje valstybėje, arba tarptautinė organizacija nebeužtikrina tinkamo lygio asmens duomenų apsaugos, neturi įtakos asmens duomenų perdavimui į tą trečiąją valstybę, teritoriją arba nurodytam vienam ar daugiau sektorių trečiojoje valstybėje, arba tai tarptautinei organizacijai pagal šio įstatymo [[#^s-36b4d6bd6567859c271e62f5|36]] ir [[#^s-fe735604cf7840848c216700|37]] straipsnius. ^s-0dc08afc7591fda096ab5b1a
 
 
 
@@ -895,7 +895,7 @@ ASMENS DUOMENŲ PERDAVIMAI Į TREČIĄSIAS VALSTYBES ARBA TARPTAUTINĖMS ORGANIZ
 3. Asmens duomenų perdavimas [[#^s-3aa0db3c4d8bb6eabdb2daa7|šio straipsnio 1 dalies 2 punkte]] nurodytu atveju fiksuojamas raštu, įskaitant elektroninę formą, ir dokumentai, kuriuose užfiksuotas šis perdavimas, pateikiami Valstybinei duomenų apsaugos inspekcijai jos prašymu, nurodant asmens duomenų perdavimo datą ir laiką, informaciją apie asmens duomenis gaunančią kompetentingą instituciją, asmens duomenų perdavimo pagrindimą ir perduotus asmens duomenis. ^s-7a22186fc0c8e0bd615f5b3b
 
 
-4. Šio straipsnio 2 ir [[#^s-7a22186fc0c8e0bd615f5b3b|3 dalių]] nuostatos netaikomos Lietuvos Respublikos valstybės institucijoms, kai jos asmens duomenis perduoda nacionalinio saugumo arba gynybos tikslais. ^s-0de2b276128c64dc8ea860fd
+4. Šio straipsnio [[#^s-ca8d88aed0318ab257b0eaac|2]] ir [[#^s-7a22186fc0c8e0bd615f5b3b|3]] dalių nuostatos netaikomos Lietuvos Respublikos valstybės institucijoms, kai jos asmens duomenis perduoda nacionalinio saugumo arba gynybos tikslais. ^s-0de2b276128c64dc8ea860fd
 
 
 
@@ -954,7 +954,7 @@ ASMENS DUOMENŲ PERDAVIMAI Į TREČIĄSIAS VALSTYBES ARBA TARPTAUTINĖMS ORGANIZ
 3. Asmens duomenų perdavimas pagal [[#^s-c420b61f3c5998b75c2b69bb|šio straipsnio 1 dalį]] fiksuojamas raštu, įskaitant elektroninę formą, ir dokumentai, kuriuose užfiksuotas šis perdavimas, turi būti pateikti Valstybinei duomenų apsaugos inspekcijai jos prašymu, nurodant asmens duomenų perdavimo datą ir laiką, informaciją apie duomenų gavėją, asmens duomenų perdavimo pagrindimą ir perduotus asmens duomenis. ^s-c076383a79108400558f0824
 
 
-4. Šio straipsnio 2 ir [[#^s-c076383a79108400558f0824|3 dalių]] nuostatos netaikomos Lietuvos Respublikos valstybės institucijoms, kai jos asmens duomenis perduoda nacionalinio saugumo arba gynybos tikslais. ^s-9ff5c10e5d55bce87c270bc2
+4. Šio straipsnio [[#^s-77c793b4667bba1a2a8b8a73|2]] ir [[#^s-c076383a79108400558f0824|3]] dalių nuostatos netaikomos Lietuvos Respublikos valstybės institucijoms, kai jos asmens duomenis perduoda nacionalinio saugumo arba gynybos tikslais. ^s-9ff5c10e5d55bce87c270bc2
 
 
 
@@ -969,16 +969,16 @@ PRIEŽIŪROS INSTITUCIJA
 1. Valstybinė duomenų apsaugos inspekcija yra atsakinga už šio įstatymo taikymo stebėseną, kad būtų apsaugotos žmogaus pagrindinės teisės ir laisvės tvarkant asmens duomenis ir sudarytos palankesnės sąlygos laisvam asmens duomenų judėjimui Europos Sąjungoje. ^s-c45768d5525c54bda9e1b184
 
 
-2. Valstybinė duomenų apsaugos inspekcija bendradarbiauja su kitų Europos Sąjungos valstybių narių priežiūros institucijomis ir Europos Komisija, dalyvauja Reglamentu (ES) 2016/679 įsteigtos Europos duomenų apsaugos valdybos (toliau – Valdyba) veikloje. ^s-9fbf99c37fab004526b91a48
+2. Valstybinė duomenų apsaugos inspekcija bendradarbiauja su kitų Europos Sąjungos valstybių narių priežiūros institucijomis ir Europos Komisija, dalyvauja [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) įsteigtos Europos duomenų apsaugos valdybos (toliau – Valdyba) veikloje. ^s-9fbf99c37fab004526b91a48
 
 
 3. Valstybinė duomenų apsaugos inspekcija neturi teisės kontroliuoti duomenų tvarkymo, kurį atlieka teismai vykdydami teisingumą. Ji taip pat neturi teisės kontroliuoti duomenų tvarkymo, kurį atlieka Lietuvos Respublikos valstybės institucijos nacionalinio saugumo ar gynybos tikslais. ^s-66f5c099166ab839f5f9a0d5
 
 
-4. Valstybinė duomenų apsaugos inspekcija, pagal šį įstatymą atlikdama jai pavestas funkcijas ir naudodamasi jai suteiktomis teisėmis, veikia visiškai nepriklausomai. Valstybinės duomenų apsaugos inspekcijos nepriklausomumo garantijos nustatytos Reglamente (ES) 2016/679 ir [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatyme]]. ^s-7cf30e473915a4403cfc9035
+4. Valstybinė duomenų apsaugos inspekcija, pagal šį įstatymą atlikdama jai pavestas funkcijas ir naudodamasi jai suteiktomis teisėmis, veikia visiškai nepriklausomai. Valstybinės duomenų apsaugos inspekcijos nepriklausomumo garantijos nustatytos [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatyme]]. ^s-7cf30e473915a4403cfc9035
 
 
-5. Valstybinė duomenų apsaugos inspekcija, vadovaudamasi Reglamentu (ES) 2016/679, kasmet rengia metinę veiklos ataskaitą. Joje gali būti informacija apie šio įstatymo pažeidimus ir taikytas nuobaudas. Valstybinės duomenų apsaugos inspekcijos metinė veiklos ataskaita pateikiama Europos Komisijai ir Valdybai. Ši ataskaita Lietuvos Respublikos teisės aktų nustatyta tvarka pateikiama kitoms valstybės institucijoms ir paskelbiama Valstybinės duomenų apsaugos inspekcijos interneto svetainėje. ^s-de9ddff4bd433e36ebdbe85a
+5. Valstybinė duomenų apsaugos inspekcija, vadovaudamasi [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), kasmet rengia metinę veiklos ataskaitą. Joje gali būti informacija apie šio įstatymo pažeidimus ir taikytas nuobaudas. Valstybinės duomenų apsaugos inspekcijos metinė veiklos ataskaita pateikiama Europos Komisijai ir Valdybai. Ši ataskaita Lietuvos Respublikos teisės aktų nustatyta tvarka pateikiama kitoms valstybės institucijoms ir paskelbiama Valstybinės duomenų apsaugos inspekcijos interneto svetainėje. ^s-de9ddff4bd433e36ebdbe85a
 
 
 
@@ -1129,7 +1129,7 @@ Duomenų subjektas, manydamas, kad šiame įstatyme nustatytos jo teisės buvo p
 ### 47 straipsnis. Atstovavimas duomenų subjektams ^s-8860c372851c20522d7ebb66
 
 
-Duomenų subjektas turi teisę įgalioti pelno nesiekiančią įstaigą, organizaciją ar asociaciją, kuri įsteigta pagal Europos Sąjungos valstybės narės teisės aktus, kurios steigimo dokumentuose nurodyti tikslai atitinka viešąjį interesą ir kuri veikia asmens duomenų apsaugos srityje, jo vardu pateikti skundą ir jo vardu naudotis šio įstatymo 44, 45 ir [[#^s-f18a93a0d02696f2847a2f06|46 straipsniuose]] nurodytomis teisėmis.
+Duomenų subjektas turi teisę įgalioti pelno nesiekiančią įstaigą, organizaciją ar asociaciją, kuri įsteigta pagal Europos Sąjungos valstybės narės teisės aktus, kurios steigimo dokumentuose nurodyti tikslai atitinka viešąjį interesą ir kuri veikia asmens duomenų apsaugos srityje, jo vardu pateikti skundą ir jo vardu naudotis šio įstatymo [[#^s-14abceacaa12132308e59f21|44]], [[#^s-02a5173a87388503f490e9e6|45]] ir [[#^s-f18a93a0d02696f2847a2f06|46]] straipsniuose nurodytomis teisėmis.
 
 
 
@@ -1144,10 +1144,10 @@ Asmuo, patyręs turtinę ir neturtinę žalą dėl neteisėto duomenų tvarkymo 
 ### 49 straipsnis. Už šio įstatymo pažeidimus skiriamos administracinės baudos ^s-d806929420f6d5e7658c9ebe
 
 
-1. Duomenų valdytojui ar duomenų tvarkytojui, pažeidusiam šio įstatymo 17–[[#^s-17280c943e396bd43a29f159|33 straipsnių]] nuostatas, Valstybinė duomenų apsaugos inspekcija turi teisę skirti administracinę baudą iki 0,5 procento duomenų valdytojo ar duomenų tvarkytojo einamųjų metų biudžeto ir kitų praėjusiais metais gautų bendrųjų metinių pajamų, bet ne didesnę negu trisdešimt tūkstančių eurų. ^s-83fcec2f05e4011876991b80
+1. Duomenų valdytojui ar duomenų tvarkytojui, pažeidusiam šio įstatymo [[#^s-3d260a792f83006d26cd71a4|17]]–[[#^s-17280c943e396bd43a29f159|33]] straipsnių nuostatas, Valstybinė duomenų apsaugos inspekcija turi teisę skirti administracinę baudą iki 0,5 procento duomenų valdytojo ar duomenų tvarkytojo einamųjų metų biudžeto ir kitų praėjusiais metais gautų bendrųjų metinių pajamų, bet ne didesnę negu trisdešimt tūkstančių eurų. ^s-83fcec2f05e4011876991b80
 
 
-2. Duomenų valdytojui ar duomenų tvarkytojui, pažeidusiam šio įstatymo 3–15, 34–[[#^s-816e222e44349e387b9c8b15|38 straipsnių]] nuostatas, taip pat nesilaikančiam šio įstatymo [[#^s-0baf92ad6975c9896384bf91|41 straipsnio]] 1, 2 ir 3 punktuose nurodytų Valstybinės duomenų apsaugos inspekcijos taikytų priemonių, Valstybinė duomenų apsaugos inspekcija turi teisę skirti administracinę baudą iki 1 procento duomenų valdytojo ar duomenų tvarkytojo einamųjų metų biudžeto ir kitų praėjusiais metais gautų bendrųjų metinių pajamų, bet ne didesnę negu šešiasdešimt tūkstančių eurų. ^s-3f8bc697c4a6f31969bab417
+2. Duomenų valdytojui ar duomenų tvarkytojui, pažeidusiam šio įstatymo [[#^s-a2314c330ceee70e04b5bd77|3]]–[[#^s-ba0a4d5ee7b05a741499096c|15]], [[#^s-58f64ee020b341e2c3c181eb|34]]–[[#^s-816e222e44349e387b9c8b15|38]] straipsnių nuostatas, taip pat nesilaikančiam šio įstatymo [[#^s-0baf92ad6975c9896384bf91|41 straipsnio]] 1, 2 ir 3 punktuose nurodytų Valstybinės duomenų apsaugos inspekcijos taikytų priemonių, Valstybinė duomenų apsaugos inspekcija turi teisę skirti administracinę baudą iki 1 procento duomenų valdytojo ar duomenų tvarkytojo einamųjų metų biudžeto ir kitų praėjusiais metais gautų bendrųjų metinių pajamų, bet ne didesnę negu šešiasdešimt tūkstančių eurų. ^s-3f8bc697c4a6f31969bab417
 
 
 
@@ -1160,7 +1160,7 @@ Asmuo, patyręs turtinę ir neturtinę žalą dėl neteisėto duomenų tvarkymo 
 2. Valstybinė duomenų apsaugos inspekcija užtikrina, kad už šio įstatymo pažeidimus skiriamos administracinės baudos kiekvienu konkrečiu atveju būtų veiksmingos, proporcingos ir atgrasančios. ^s-c3fa5f195e842b5c743218ff
 
 
-3. Administracinės baudos, atsižvelgiant į kiekvieno konkretaus atvejo aplinkybes, skiriamos kartu su šio įstatymo [[#^s-0baf92ad6975c9896384bf91|41 straipsnio]] 1, 2 ir [[#^s-76904fa358bfbe8157c7601a|3 punktuose]] nustatytomis poveikio priemonėmis arba vietoj jų. Sprendžiant dėl administracinės baudos skyrimo ir jos dydžio, kiekvienu konkrečiu atveju atsižvelgiama į: ^s-0bd56f0619a8dc2296f6eb84
+3. Administracinės baudos, atsižvelgiant į kiekvieno konkretaus atvejo aplinkybes, skiriamos kartu su šio įstatymo [[#^s-0baf92ad6975c9896384bf91|41 straipsnio]] 1, 2 ir 3 punktuose nustatytomis poveikio priemonėmis arba vietoj jų. Sprendžiant dėl administracinės baudos skyrimo ir jos dydžio, kiekvienu konkrečiu atveju atsižvelgiama į: ^s-0bd56f0619a8dc2296f6eb84
 
 
 1) pažeidimo pobūdį, sunkumą ir trukmę, atsižvelgiant į duomenų tvarkymo pobūdį, aprėptį ar tikslą, taip pat į nukentėjusių duomenų subjektų skaičių ir jų patirtos žalos dydį; ^s-510fbb17b3ca59d43d02cbdf
@@ -1172,7 +1172,7 @@ Asmuo, patyręs turtinę ir neturtinę žalą dėl neteisėto duomenų tvarkymo 
 3) bet kuriuos veiksmus, kurių duomenų valdytojas arba duomenų tvarkytojas ėmėsi, kad sumažintų duomenų subjektų patirtą žalą; ^s-76904fa358bfbe8157c7601a
 
 
-4) duomenų valdytojo arba duomenų tvarkytojo atsakomybės dydį, atsižvelgiant į jų pagal šio įstatymo 18 ir [[#^s-abb7ea7bd1560b1ec4051d25|28 straipsnius]] įgyvendintas technines ir organizacines priemones; ^s-397d0cea68fbf25cfcf819ab
+4) duomenų valdytojo arba duomenų tvarkytojo atsakomybės dydį, atsižvelgiant į jų pagal šio įstatymo [[#^s-4219871399385af7fdf65158|18]] ir [[#^s-abb7ea7bd1560b1ec4051d25|28]] straipsnius įgyvendintas technines ir organizacines priemones; ^s-397d0cea68fbf25cfcf819ab
 
 
 5) bet kuriuos svarbius to duomenų valdytojo arba duomenų tvarkytojo ankstesnius pažeidimus; ^s-3f531bce3e9b069e54020401
@@ -1187,7 +1187,7 @@ Asmuo, patyręs turtinę ir neturtinę žalą dėl neteisėto duomenų tvarkymo 
 8) tai, kokiu būdu Valstybinė duomenų apsaugos inspekcija sužinojo apie pažeidimą, visų pirma tai, ar duomenų valdytojas arba duomenų tvarkytojas pranešė apie pažeidimą (jei taip, – kokiu mastu); ^s-61eec0bc98c5a372dcb55778
 
 
-9) jei duomenų valdytojui arba duomenų tvarkytojui dėl to paties dalyko anksčiau buvo taikytos šio įstatymo [[#^s-0baf92ad6975c9896384bf91|41 straipsnio]] 1, 2 ir [[#^s-76904fa358bfbe8157c7601a|3 punktuose]] nurodytos priemonės, – ar laikytasi tų priemonių. ^s-ed7cad1204db847c12946abd
+9) jei duomenų valdytojui arba duomenų tvarkytojui dėl to paties dalyko anksčiau buvo taikytos šio įstatymo [[#^s-0baf92ad6975c9896384bf91|41 straipsnio]] 1, 2 ir 3 punktuose nurodytos priemonės, – ar laikytasi tų priemonių. ^s-ed7cad1204db847c12946abd
 
 
 4. Valstybinė duomenų apsaugos inspekcija, spręsdama dėl administracinės baudos skyrimo ir jos dydžio, gali atsižvelgti ir į kitus, [[#^s-0bd56f0619a8dc2296f6eb84|šio straipsnio 3 dalyje]] nenurodytus, veiksnius, lengvinančius duomenų valdytojo ar duomenų tvarkytojo atsakomybę. ^s-ceee83c37f55fd4c6304bd09
@@ -1222,7 +1222,7 @@ priedas
 
 
 
-1. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/680 dėl fizinių asmenų apsaugos kompetentingoms institucijoms tvarkant asmens duomenis nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas arba bausmių vykdymo tikslais ir dėl laisvo tokių duomenų judėjimo, ir kuriuo panaikinamas Tarybos pamatinis sprendimas 2008/977/TVR (OL 2016 L 119, p. 89). ^s-908ab5c9e4af9650ca8a111c
+1. 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [direktyva (ES) 2016/680](https://eur-lex.europa.eu/eli/dir/2016/680/oj) dėl fizinių asmenų apsaugos kompetentingoms institucijoms tvarkant asmens duomenis nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas arba bausmių vykdymo tikslais ir dėl laisvo tokių duomenų judėjimo, ir kuriuo panaikinamas Tarybos pamatinis sprendimas 2008/977/TVR (OL 2016 L 119, p. 89). ^s-908ab5c9e4af9650ca8a111c
 
 
 

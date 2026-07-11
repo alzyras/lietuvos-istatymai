@@ -658,7 +658,7 @@ Pakeisti [[#^s-9c6fe3f38e2d8706bc6229ca|19 straipsnį]] ir jį išdėstyti taip:
 4. Leidimų naudoti mėlynus ir raudonus švyturėlius ir specialiuosius garso signalus išdavimo ir naudojimo tvarką nustato Vyriausybė. ^s-d7a9c8e93cdc07241b602b1b
 
 
-5. Šio straipsnio 1, 2 ir [[#^s-49620a81c346591c6800f0ad|3 dalyse]] nustatytas teises ir pareigas taip pat turi Europos Sąjungos valstybių narių ir asocijuotų Šengeno valstybių specialiųjų transporto priemonių vairuotojai, kai jie tarptautinių teisės aktų nustatytais atvejais ir tvarka vykdo tarnybines pareigas Lietuvos Respublikos teritorijoje.“ ^s-8fed933eb68e8b46b5d13cdd
+5. Šio straipsnio [[#^s-c2f67ec49ab8d7a3d315f489|1]], [[#^s-bf42002f5d7873108353191d|2]] ir [[#^s-49620a81c346591c6800f0ad|3]] dalyse nustatytas teises ir pareigas taip pat turi Europos Sąjungos valstybių narių ir asocijuotų Šengeno valstybių specialiųjų transporto priemonių vairuotojai, kai jie tarptautinių teisės aktų nustatytais atvejais ir tvarka vykdo tarnybines pareigas Lietuvos Respublikos teritorijoje.“ ^s-8fed933eb68e8b46b5d13cdd
 
 
 
@@ -928,7 +928,7 @@ Pakeisti ir papildyti 29 straipsnį ir jį išdėstyti taip:
 1. Lietuvos Respublikoje registruotų motorinių transporto priemonių ir priekabų valdytojai privalo šias transporto priemones pateikti periodinei privalomajai techninei apžiūrai. ^s-c45b259f081f4f6437109f0a
 
 
-2. Šio įstatymo [[#^s-131acb419a5a88b7387353d7|25 straipsnio]] 6 ir [[#^s-a00ad9c18e6e1837a32aacb7|7 dalyse]] nurodytais atvejais motorinių transporto priemonių, priekabų valdytojai privalo pateikti jas privalomajai neeilinei techninei apžiūrai. ^s-ac59da190d3cb0f190a4ce65
+2. Šio įstatymo [[#^s-131acb419a5a88b7387353d7|25 straipsnio]] [[#^s-b6ea4e2fab4f08a3d64f15a7|6]] ir [[#^s-0ff04251f2820b0bd32f912a|7]] dalyse nurodytais atvejais motorinių transporto priemonių, priekabų valdytojai privalo pateikti jas privalomajai neeilinei techninei apžiūrai. ^s-ac59da190d3cb0f190a4ce65
 
 
 3. Naujos motorinės transporto priemonės ir priekabos laikotarpiu nuo transporto priemonės pirmo registravimo datos iki pirmos privalomosios techninės apžiūros dalyvauja viešajame eisme be privalomosios techninės apžiūros (išskyrus vienetinės gamybos transporto priemones). ^s-2ad2d04825f4448b684bc715
@@ -980,7 +980,7 @@ priedas
 1. 1970 m. vasario 6 d. Tarybos direktyva 70/156/EEB dėl valstybių narių įstatymų, reglamentuojančių transporto priemonių ir jų priekabų tipo patvirtinimą, suderinimo (OL 2004 m. specialusis leidimas, 13 skyrius, 1 tomas, p. 44) su paskutiniais pakeitimais, padarytais 2007 m. birželio 21 d. Komisijos direktyva 2007/37/EB, iš dalies keičiančia Tarybos direktyvos 70/156/EEB dėl valstybių narių įstatymų, reglamentuojančių motorinių transporto priemonių ir jų priekabų tipo patvirtinimą, suderinimo I ir III priedus (OL 2007 L 161, p. 60). ^s-0e8f5cf8e97f5c2383e18856
 
 
-2. Konvencija dėl eismo įvykiams taikytinos teisės, sudaryta 1971 m. gegužės 4 d. Hagoje. ^s-c8c9ca62b39e6e30c4de6785
+2. [Konvencija dėl eismo įvykiams taikytinos teisės](https://e-tar.lt/portal/lt/legalAct/TAR.6CE885E45531), sudaryta 1971 m. gegužės 4 d. Hagoje. ^s-c8c9ca62b39e6e30c4de6785
 
 
 3. 1991 m. liepos 29 d. Tarybos direktyva 91/439/EEB dėl vairuotojo pažymėjimų (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 317) su paskutiniais pakeitimais, padarytais 2009 m. rugpjūčio 25 d. Komisijos direktyva 2009/112/EB (OL 2009 L 223, p. 23). ^s-b2ff1871fd7872e67a45a998
@@ -989,10 +989,10 @@ priedas
 4. 1998 m. birželio 4 d. Tarybos rekomendacija 98/376/EB dėl neįgalių asmenų automobilių statymo kortelių. ^s-97d5d8675245feff4a1ac092
 
 
-5. 2002 m. kovo 18 d. Europos Parlamento ir Tarybos direktyva 2002/24/EB dėl dviračių ir triračių motorinių transporto priemonių tipo patvirtinimo, panaikinanti Tarybos direktyvą 92/61/EEB (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 399), su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1). ^s-b9a9c3c56baf5d155fc93efd
+5. 2002 m. kovo 18 d. Europos Parlamento ir Tarybos direktyva 2002/24/EB dėl dviračių ir triračių motorinių transporto priemonių tipo patvirtinimo, panaikinanti Tarybos direktyvą 92/61/EEB (OL 2004 m. specialusis leidimas, 13 skyrius, 29 tomas, p. 399), su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1137/2008](https://eur-lex.europa.eu/eli/reg/1137/2008/oj) (OL 2008 L 311, p. 1). ^s-b9a9c3c56baf5d155fc93efd
 
 
-6. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva 2003/59/EB dėl tam tikrų kelių transporto priemonių kroviniams ir keleiviams vežti vairuotojų pradinės kvalifikacijos ir periodinio mokymo, iš dalies keičianti Tarybos reglamentą (EEB) Nr. 3820/85 ir Tarybos direktyvą 91/439/EEB bei panaikinanti Tarybos direktyvą 76/914/EEB (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 441), su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1). ^s-b6ea4e2fab4f08a3d64f15a7
+6. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos direktyva 2003/59/EB dėl tam tikrų kelių transporto priemonių kroviniams ir keleiviams vežti vairuotojų pradinės kvalifikacijos ir periodinio mokymo, iš dalies keičianti Tarybos [reglamentą (EEB) Nr. 3820/85](https://eur-lex.europa.eu/eli/reg/3820/85/oj) ir Tarybos direktyvą 91/439/EEB bei panaikinanti Tarybos direktyvą 76/914/EEB (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 441), su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1137/2008](https://eur-lex.europa.eu/eli/reg/1137/2008/oj) (OL 2008 L 311, p. 1). ^s-b6ea4e2fab4f08a3d64f15a7
 
 
 7. 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 2006/126/EB dėl vairuotojo pažymėjimų (OL 2006 L 403, p. 18) su paskutiniais pakeitimais, padarytais 2009 m. rugpjūčio 25 d. Komisijos direktyva 2009/113/EB (OL 2009 L 223, p. 31). ^s-0ff04251f2820b0bd32f912a
@@ -1011,7 +1011,7 @@ priedas
 ### 26 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-a43d0a69aa04614587dafd00
 
 
-1. Šis įstatymas, išskyrus [[#^s-a9a68a24fab53581a5fd7006|šio straipsnio 7 dalį]], [[#^s-67b0e17d842190f69f01f956|1 straipsnyje]] išdėstyto [[latest/TAR.5DC1759E42CB#^s-07efec8d9ee3a52bdb4a8dd0|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 2 straipsnio]] 40 ir 57 dalis, [[#^s-1dbe890fb5b0b990b51419ea|15 straipsnio 2 dalį]], [[#^s-86f9abe13e2ed8335eb3915f|17 straipsnio 6 dalį]], [[#^s-89f7f8fe3af2e23e06060f7b|19 straipsnio 1 dalį]], [[#^s-053598a77707538e5587070b|20 straipsnyje]] išdėstyto [[latest/TAR.5DC1759E42CB#^s-576782935b319f9051041cc2|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 27 straipsnio 9 dalį]], įsigalioja 2014 m. liepos 1 d. ^s-80e378747b00aabfaef41e09
+1. Šis įstatymas, išskyrus [[#^s-a9a68a24fab53581a5fd7006|šio straipsnio 7 dalį]], [[#^s-67b0e17d842190f69f01f956|1 straipsnyje]] išdėstyto [[latest/TAR.5DC1759E42CB#^s-07efec8d9ee3a52bdb4a8dd0|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 2 straipsnio]] [[latest/TAR.5DC1759E42CB#^s-d1cf8b68487fe087513bec67|40]] ir [[latest/TAR.5DC1759E42CB#^s-40a436c69a32c66ff7cdf3b8|57]] dalis, [[#^s-1dbe890fb5b0b990b51419ea|15 straipsnio 2 dalį]], [[#^s-86f9abe13e2ed8335eb3915f|17 straipsnio 6 dalį]], [[#^s-89f7f8fe3af2e23e06060f7b|19 straipsnio 1 dalį]], [[#^s-053598a77707538e5587070b|20 straipsnyje]] išdėstyto [[latest/TAR.5DC1759E42CB#^s-576782935b319f9051041cc2|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 27 straipsnio 9 dalį]], įsigalioja 2014 m. liepos 1 d. ^s-80e378747b00aabfaef41e09
 
 
 2. Šio įstatymo [[#^s-67b0e17d842190f69f01f956|1 straipsnyje]] išdėstyto [[latest/TAR.5DC1759E42CB#^s-d1cf8b68487fe087513bec67|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 2 straipsnio 40 dalis]], taip pat [[#^s-1dbe890fb5b0b990b51419ea|15 straipsnio 2 dalis]] ir [[#^s-86f9abe13e2ed8335eb3915f|17 straipsnio 6 dalis]] įsigalioja 2013 m. liepos 1 d. ^s-8d8df80ee15d97b90bc74b6f

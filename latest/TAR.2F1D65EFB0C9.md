@@ -319,7 +319,7 @@ STANDARTŲ IR TECHNINIŲ REGLAMENTŲ RYŠYS
 3) nesant reikiamo techninio reglamento, teisės aktų nustatyta tvarka deklaruojama, kad produktas ar paslauga atitinka Lietuvos standartą; ^s-368ead3f2babb2f6bc509a71
 
 
-4) gamintojui savo noru pasirinkus kitą, nei [[#^s-791929ad3646d5cf051527e6|šio straipsnio 4 dalies]] 2 ar [[#^s-368ead3f2babb2f6bc509a71|3 punktuose]] nurodyti, atvejį, atitinkantį naujausią mokslo ir technikos lygį, teisės aktų nustatyta tvarka įrodoma, kad pagal šį sprendimą pagamintas produktas ar teikiama paslauga atitinka techninį reglamentą, arba, jeigu nėra techninio reglamento, kad yra saugūs, nekenksmingi žmonių bei gyvūnų sveikatai ir gyvybei, aplinkai, materialinėms gėrybėms ir vartotojams. ^s-9b96c2e1956aa92feac204a0
+4) gamintojui savo noru pasirinkus kitą, nei [[#^s-791929ad3646d5cf051527e6|šio straipsnio 4 dalies]] [[#^s-2461e0f4f48378ac3e5ff8ea|2]] ar [[#^s-368ead3f2babb2f6bc509a71|3]] punktuose nurodyti, atvejį, atitinkantį naujausią mokslo ir technikos lygį, teisės aktų nustatyta tvarka įrodoma, kad pagal šį sprendimą pagamintas produktas ar teikiama paslauga atitinka techninį reglamentą, arba, jeigu nėra techninio reglamento, kad yra saugūs, nekenksmingi žmonių bei gyvūnų sveikatai ir gyvybei, aplinkai, materialinėms gėrybėms ir vartotojams. ^s-9b96c2e1956aa92feac204a0
 
 
 5. Tais atvejais, kai teisės aktų nustatyta tvarka deklaruojama, kad produktas ar paslauga atitinka darnųjį Lietuvos standartą (standartus), laikoma, kad produktas ar paslauga atitinka techninį reglamentą, su kuriuo susijęs darnusis Lietuvos standartas (standartai). ^s-57e230c1afbf4675861d0251
@@ -337,7 +337,7 @@ NACIONALINĖ STANDARTIZACIJOS INSTITUCIJA
 1. Nacionalinė standartizacijos institucija yra šio ir kitų įstatymų nustatyta tvarka įsteigta asociacija. Ši asociacija yra ne pelno organizacija, jos pavadinimas – Lietuvos standartizacijos asociacija. Verstis komercine veikla jai draudžiama. ^s-4cee524e16dd1e5a8959e0db
 
 
-2. Lietuvos standartizacijos asociacija yra šio įstatymo [[#^s-8f240f57e21576d970712fd7|4 straipsnio 1 punkte]] išvardytų suinteresuotų subjektų savanoriškas susivienijimas, vykdantis viešojo administravimo funkciją – įgyvendinantis šį įstatymą bei tobulinantis ir plėtojantis nacionalinę standartizaciją Lietuvos Respublikoje. ^s-45eb1089949258a86a53a4b4
+2. Lietuvos standartizacijos asociacija yra šio įstatymo 4 straipsnio 1 punkte išvardytų suinteresuotų subjektų savanoriškas susivienijimas, vykdantis viešojo administravimo funkciją – įgyvendinantis šį įstatymą bei tobulinantis ir plėtojantis nacionalinę standartizaciją Lietuvos Respublikoje. ^s-45eb1089949258a86a53a4b4
 
 
 3. Lietuvos standartizacijos asociacijos veiklos tikslai, pagrindinės funkcijos ir uždaviniai turi būti susiję su asociacijos narių veikla ar poreikiais ir turi būti nurodyti Lietuvos standartizacijos asociacijos įstatuose. ^s-71b4a53baa31ec12ba44e6cb
@@ -390,7 +390,7 @@ NACIONALINĖ STANDARTIZACIJOS INSTITUCIJA
 ### 13 straipsnis. Lietuvos standartizacijos asociacijos nariai ^s-f0a199ab224061d09cfc282e
 
 
-1. Lietuvos standartizacijos asociacijos nariais gali būti Lietuvos Respublikos valstybės ir savivaldybių institucijos, Lietuvos Respublikos ir kitų valstybių juridiniai asmenys, įmonės, neturinčios juridinio asmens teisių, priėmę sprendimą tapti asociacijos nariais ir atstovaujantys šio įstatymo [[#^s-8f240f57e21576d970712fd7|4 straipsnio 1 punkte]] išvardytoms suinteresuotoms šalims. Asociacijos įstatuose gali būti nustatyti apribojimai būti asociacijos nariais užsienio šalių juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių. ^s-80ea488ec1b488690c73a6ff
+1. Lietuvos standartizacijos asociacijos nariais gali būti Lietuvos Respublikos valstybės ir savivaldybių institucijos, Lietuvos Respublikos ir kitų valstybių juridiniai asmenys, įmonės, neturinčios juridinio asmens teisių, priėmę sprendimą tapti asociacijos nariais ir atstovaujantys šio įstatymo 4 straipsnio 1 punkte išvardytoms suinteresuotoms šalims. Asociacijos įstatuose gali būti nustatyti apribojimai būti asociacijos nariais užsienio šalių juridiniams asmenims ir įmonėms, neturinčioms juridinio asmens teisių. ^s-80ea488ec1b488690c73a6ff
 
 
 2. Lietuvos standartizacijos asociacijos narių priėmimo ir narystės nutraukimo tvarką nustato Asociacijos įstatai. ^s-a22616a52e7f3580dcc55048
@@ -561,7 +561,7 @@ Lietuvos standartizacijos asociacijos valdymo organai yra:
 ### 19 straipsnis. Lietuvos standartizacijos asociacijos technikos komitetai ^s-ae50f5689a3c450f1577ba45
 
 
-1. Lietuvos standartizacijos asociacija sudaro technikos komitetus, kuriuose savanoriškai ir lygiomis teisėmis dalyvauja visos suinteresuotos šalys, nurodytos šio įstatymo [[#^s-8f240f57e21576d970712fd7|4 straipsnio 1 punkte]]. Technikos komitetas gali turėti atskirą buveinę ir sekretoriatą. Technikos komitetas nėra juridinis asmuo ir savo veikloje naudojasi Lietuvos standartizacijos asociacijos, kaip juridinio asmens, vardu. ^s-010f415e4d5715fe70f57a87
+1. Lietuvos standartizacijos asociacija sudaro technikos komitetus, kuriuose savanoriškai ir lygiomis teisėmis dalyvauja visos suinteresuotos šalys, nurodytos šio įstatymo 4 straipsnio 1 punkte. Technikos komitetas gali turėti atskirą buveinę ir sekretoriatą. Technikos komitetas nėra juridinis asmuo ir savo veikloje naudojasi Lietuvos standartizacijos asociacijos, kaip juridinio asmens, vardu. ^s-010f415e4d5715fe70f57a87
 
 
 2. Pagrindinė technikos komitetų funkcija – rengti Lietuvos standartų projektus ir priimti juos bendru sutarimu, dalyvauti rengiant tarptautinių ir Europos standartų projektus. ^s-bcf8e63fac242bd26c4b58a4
@@ -577,7 +577,7 @@ Lietuvos standartizacijos asociacijos valdymo organai yra:
 ### 20 straipsnis. Lietuvos standartizacijos asociacijos komisijos ^s-b50b9c18599300a7a07cf9b1
 
 
-1. Lietuvos standartizacijos asociacijos komisijos, atstovaujančios suinteresuotoms šalims, nurodytoms šio įstatymo [[#^s-8f240f57e21576d970712fd7|4 straipsnio 1 punkte]], sudaromos Lietuvos standartizacijos asociacijos veiklai koordinuoti ir plėtoti. ^s-2485de2349781cc6708fb6e9
+1. Lietuvos standartizacijos asociacijos komisijos, atstovaujančios suinteresuotoms šalims, nurodytoms šio įstatymo 4 straipsnio 1 punkte, sudaromos Lietuvos standartizacijos asociacijos veiklai koordinuoti ir plėtoti. ^s-2485de2349781cc6708fb6e9
 
 
 2. Standartizacijos taryba sudaro nuolatines Elektrotechnikos komisiją ir Vartotojų komisiją. Standartizacijos taryba gali sudaryti ir kitas nuolatines ar laikinąsias komisijas. ^s-798632c5369a41ef7597c69a
@@ -743,7 +743,7 @@ Juridiniai ir fiziniai asmenys, pažeidę šį įstatymą, atsako Lietuvos Respu
 2) Lietuvos Respublikos Vyriausybė, siekdama užtikrinti visuomenės interesus standartizacijos srityje ir atsižvelgdama į Lietuvos standartizacijos asociacijos vykdomas viešojo administravimo funkcijas, perduoda šio įstatymo [[#^s-d8898c6c8eccf0e736be3601|25 straipsnyje]] nurodytai įgaliotajai institucijai patikėjimo teise valdyti Lietuvos standartizacijos departamento valdytas ir naudotas negyvenamąsias patalpas, o įgaliotajai institucijai perėmus šias patalpas, perduoda jas neatlygintinai naudotis pagal panaudos sutartį Lietuvos standartizacijos asociacijai. Panaudos sutartis pasibaigia, kai panaudos subjektas nutraukia veiklą, dėl kurios buvo sudaryta panaudos sutartis ir kurią vykdydamas jis naudojosi valstybės turtu; ^s-d8cb9ffae6b9d6fc69a8880f
 
 
-3) Lietuvos standartizacijos asociacija pradeda vykdyti nacionalinės standartizacijos institucijos funkcijas perėmusi [[#^s-a3fcf026814a0bd6879af377|šio straipsnio 3 dalies]] 1 ir [[#^s-d8cb9ffae6b9d6fc69a8880f|2 punktuose]] nurodytą turtą. ^s-8991555c37b804a5d8b423ab
+3) Lietuvos standartizacijos asociacija pradeda vykdyti nacionalinės standartizacijos institucijos funkcijas perėmusi [[#^s-a3fcf026814a0bd6879af377|šio straipsnio 3 dalies]] [[#^s-73930f64b9567002331f0859|1]] ir [[#^s-d8cb9ffae6b9d6fc69a8880f|2]] punktuose nurodytą turtą. ^s-8991555c37b804a5d8b423ab
 
 
 

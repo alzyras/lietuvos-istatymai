@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-f37655930c9b1c38700183ea
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. rugpjūčio 19 d. dekretą Nr. 1862, ratifikuoja su išlyga Konvenciją dėl muitinės tvarkos, taikomos tarptautiniame transporte naudojamiems bendro fondo konteineriams, sudarytą 1994 m. sausio 21 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. rugpjūčio 19 d. dekretą Nr. 1862](https://e-tar.lt/portal/lt/legalAct/TAR.D5FFA0BDC3D2), ratifikuoja su išlyga Konvenciją dėl muitinės tvarkos, taikomos tarptautiniame transporte naudojamiems bendro fondo konteineriams, sudarytą 1994 m. sausio 21 d. Ženevoje.
 
 
 

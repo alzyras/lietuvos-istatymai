@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijų ratifikavimas ^s-918e504b9490fdb471778031
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. liepos 2 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinės darbo organizacijos konvencijas“, ratifikuoja šias Tarptautinės darbo organizacijos konvencijas:
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. liepos 2 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinės darbo organizacijos konvencijas“](https://e-tar.lt/portal/lt/legalAct/TAR.192C96838356), ratifikuoja šias Tarptautinės darbo organizacijos konvencijas:
 
 
 1) 1946 metų 73-ąją konvenciją „Dėl jūreivių sveikatos patikrinimo“; ^s-7f61c1c58afcb6d59e4c6705
@@ -49,7 +49,7 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 3) 1973 metų 138-ąją konvenciją „Dėl minimalaus įdarbinimo amžiaus“; ^s-cd3ce90db3d8085ab083a7ff
 
 
-4) 1985 metų 160-ąją konvenciją „Dėl darbo statistikos“. ^s-db8cae9fca9a68a0899e5811
+4) 1985 metų 160-ąją konvenciją [„Dėl darbo statistikos“](https://e-tar.lt/portal/lt/legalAct/225742d2878c11efabdbb4a1fc8b0b63). ^s-db8cae9fca9a68a0899e5811
 
 
 

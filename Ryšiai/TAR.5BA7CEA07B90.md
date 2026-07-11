@@ -9,73 +9,58 @@ pavadinimas: "Lietuvos Respublikos atitikties vertinimo įstatymas"
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Lietuvos Respublikos administracinių bylų teisenos įstatymo
-- [[latest/6d80e4504fb211edbc04912defe897d1|Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 1, 2, 5 straipsnių ir priedo pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1450
-- [[latest/34499bb29eaf11f0a34db2fbd35a03b2|Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 6, 15, 17, 18 straipsnių ir III skyriaus pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-424
-- [[latest/9fc846603ed911eb8d9fe110e148c770|Lietuvos Respublikos atitikties įvertinimo įstatymo Nr. VIII-870 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-31
-- [[latest/TAR.8E0817BAE9B5|Lietuvos Respublikos atitikties įvertinimo įstatymo pakeitimo įstatymas]] - 6 citatos - 1111010ISTA0XI-1299
-- [[latest/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatymas]] - 2 citatos - Lietuvos Respublikos paslaugų įstatyme
-- [[latest/TAR.A845E65C32A2|Lietuvos Respublikos produktų saugos įstatymas]] - 2 citatos - Lietuvos Respublikos produktų saugos įstatyme
-- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 3 citatos - Viešojo administravimo įstatymo
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Lietuvos Respublikos administracinių bylų teisenos įstatymo
+- [[latest/TAR.8E0817BAE9B5|Lietuvos Respublikos atitikties įvertinimo įstatymo pakeitimo įstatymas]] - 2 citatos - 1111010ISTA0XI-1299
+- [[latest/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatymas]] - Lietuvos Respublikos paslaugų įstatyme
+- [[latest/TAR.A845E65C32A2|Lietuvos Respublikos produktų saugos įstatymas]] - Lietuvos Respublikos produktų saugos įstatyme
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - Lietuvos Respublikos viešojo administravimo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/6d80e4504fb211edbc04912defe897d1#^s-facd7548bfde5d21c422e578|Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 1, 2, 5 straipsnių ir priedo pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatymo
-- [[latest/9fc846603ed911eb8d9fe110e148c770#^s-6548a3f57955b14c4c44b2d8|Lietuvos Respublikos atitikties įvertinimo įstatymo Nr. VIII-870 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatymo
+- [[latest/6d80e4504fb211edbc04912defe897d1#^s-1b50358c5bb3ce2b68cf8b29|Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 1, 2, 5 straipsnių ir priedo pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas]] - 2 citatos - 1 straipsnis
+- [[latest/6d80e4504fb211edbc04912defe897d1#^s-1d9095257801b1274df5a0f1|Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 1, 2, 5 straipsnių ir priedo pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas]] - 6 dalimi
+- [[latest/6d80e4504fb211edbc04912defe897d1#^s-428820b7afdd6a35f977aecf|Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 1, 2, 5 straipsnių ir priedo pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas]] - 4 citatos - 8
+- [[latest/6d80e4504fb211edbc04912defe897d1#^s-5b494a15bc5f54c9985c85d5|Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 1, 2, 5 straipsnių ir priedo pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas]] - 3 citatos - 9 straipsnyje
+- [[latest/6d80e4504fb211edbc04912defe897d1#^s-6d51386b9cb6a5a85830d782|Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 1, 2, 5 straipsnių ir priedo pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas]] - 5 dalimi
+- [[latest/6d80e4504fb211edbc04912defe897d1#^s-808b8ac61a261af5e8b07bc0|Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 1, 2, 5 straipsnių ir priedo pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas]] - 9 straipsnyje
+- [[latest/6d80e4504fb211edbc04912defe897d1#^s-c704dc2d7c4b3fef1a02e41c|Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 1, 2, 5 straipsnių ir priedo pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas]] - dalies 2 punkte
+- [[latest/6d80e4504fb211edbc04912defe897d1#^s-facd7548bfde5d21c422e578|Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 1, 2, 5 straipsnių ir priedo pakeitimo ir Įstatymo papildymo III-1 skyriumi įstatymas]] - atitikties vertinimo įstatymo
+- [[latest/34499bb29eaf11f0a34db2fbd35a03b2#^s-52e5874b303dafeee633f6be|Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 6, 15, 17, 18 straipsnių ir III skyriaus pakeitimo įstatymas]] - 15 straipsnio 1 dalį
+- [[latest/34499bb29eaf11f0a34db2fbd35a03b2#^s-a4b61d03b73f5a52f2bea941|Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 6, 15, 17, 18 straipsnių ir III skyriaus pakeitimo įstatymas]] - 2 citatos - 17 straipsnis
+- [[latest/34499bb29eaf11f0a34db2fbd35a03b2#^s-eb06935b0020e25cf89c9594|Lietuvos Respublikos atitikties vertinimo įstatymo Nr. VIII-870 6, 15, 17, 18 straipsnių ir III skyriaus pakeitimo įstatymas]] - 2 citatos - 18 straipsnis
+- [[latest/9fc846603ed911eb8d9fe110e148c770#^s-6548a3f57955b14c4c44b2d8|Lietuvos Respublikos atitikties įvertinimo įstatymo Nr. VIII-870 pakeitimo įstatymas]] - atitikties vertinimo įstatymo
+- [[latest/9fc846603ed911eb8d9fe110e148c770#^s-951a3b907a2b077b6983846c|Lietuvos Respublikos atitikties įvertinimo įstatymo Nr. VIII-870 pakeitimo įstatymas]] - šio straipsnio 3 dalį
 - [[latest/9fc846603ed911eb8d9fe110e148c770#^s-d89573185278fa78630dc5ca|Lietuvos Respublikos atitikties įvertinimo įstatymo Nr. VIII-870 pakeitimo įstatymas]] - 2 citatos - „Lietuvos Respublikos atitikties vertinimo įstatymas“
-- [[latest/9fc846603ed911eb8d9fe110e148c770#^s-fa6ce7d33fec38bdd7ef137e|Lietuvos Respublikos atitikties įvertinimo įstatymo Nr. VIII-870 pakeitimo įstatymas]] - 2 citatos - „Lietuvos Respublikos atitikties vertinimo įstatymas“
-- [[latest/9fc846603ed911eb8d9fe110e148c770#^s-fdebead774e57598801f8f87|Lietuvos Respublikos atitikties įvertinimo įstatymo Nr. VIII-870 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS ATITIKTIES VERTINIMO ĮSTATYMAS
-- [[latest/TAR.8E0817BAE9B5#^s-a0a3b7d87936c686732ee403|Lietuvos Respublikos atitikties įvertinimo įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS ATITIKTIES ĮVERTINIMO ĮSTATYMAS
-- [[latest/TAR.8E0817BAE9B5#^s-d79f428fd7d06dbe1dd75b65|Lietuvos Respublikos atitikties įvertinimo įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
-- [[latest/TAR.2A629A227788#^s-78c0dd771bf44f501feab768|Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymu
+- [[latest/9fc846603ed911eb8d9fe110e148c770#^s-fdebead774e57598801f8f87|Lietuvos Respublikos atitikties įvertinimo įstatymo Nr. VIII-870 pakeitimo įstatymas]] - įstatymą Nr. VIII-870
+- [[latest/TAR.8E0817BAE9B5#^s-d79f428fd7d06dbe1dd75b65|Lietuvos Respublikos atitikties įvertinimo įstatymo pakeitimo įstatymas]] - atitikties įvertinimo įstatymo
 - [[latest/TAR.2A629A227788#^s-8d97ffaa528a572e5ec4e551|Lietuvos Respublikos cheminių medžiagų ir cheminių mišinių įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymu
 - [[latest/9f0eedb0499211ea8aceeadd0c5b168c#^s-c09fbe14fd3003ddabbcacaa|Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo Nr. VIII-1641 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymu
-- [[latest/9f0eedb0499211ea8aceeadd0c5b168c#^s-f057cef2f91f8c15dc031c1a|Lietuvos Respublikos cheminių medžiagų ir preparatų įstatymo Nr. VIII-1641 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymu
-- [[latest/TAR.A4D0A2869EAA#^s-620cd1ac7804c7777732dc63|Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymu
 - [[latest/TAR.A4D0A2869EAA#^s-c947e06eb650bbae754af722|Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymu
 - [[latest/c6a0725091da11e5a6f4e928c954d72b#^s-59713870afa8f9ace4f53863|Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymu
-- [[latest/c6a0725091da11e5a6f4e928c954d72b#^s-839a36a371a13205766376f1|Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo Nr. IX-931 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymu
-- [[latest/TAR.9D79B7E5F423#^s-24edbd22e31a57facb4b7564|Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymu
 - [[latest/TAR.9D79B7E5F423#^s-51ae0a1100c6a372466a2cf3|Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymu
 - [[latest/TAR.9845F775C518#^s-06344aea4733947b3d93019f|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - Atitikties vertinimo įstatyme
 - [[latest/TAR.9845F775C518#^s-7b9bc5ca9b73deb08867dd3f|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatyme
-- [[latest/TAR.9845F775C518#^s-e0ecfe1e7951a5b7c5c96200|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatyme
-- [[latest/TAR.9845F775C518#^s-e7e7eee1c30435d4211b61b6|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - Atitikties vertinimo įstatyme
 - [[latest/e3c4203036d511efbdaea558de59136c#^s-0b209e6feba6cabb3544fefc|Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatyme
-- [[latest/e3c4203036d511efbdaea558de59136c#^s-53d1babc92f4f9b99d797539|Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 pakeitimo įstatymas]] - Atitikties vertinimo įstatyme
 - [[latest/e3c4203036d511efbdaea558de59136c#^s-658544f4ac8450c03b88a33c|Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 pakeitimo įstatymas]] - Atitikties vertinimo įstatyme
-- [[latest/e3c4203036d511efbdaea558de59136c#^s-cf69db4d95fc3933675afd75|Lietuvos Respublikos finansinių ataskaitų audito įstatymo Nr. VIII-1227 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatyme
 - [[latest/TAR.C7A984833333#^s-0a409fa12b556a5afadabed7|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - Atitikties vertinimo įstatymo
 - [[latest/TAR.C7A984833333#^s-14d7f3efffbb3319357a5e21|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - Atitikties vertinimo įstatymu
-- [[latest/TAR.C7A984833333#^s-387e4fdabce489f8f9c1062b|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - 2 citatos - Atitikties vertinimo įstatymo
 - [[latest/TAR.C7A984833333#^s-50d49befd20b55d17c867726|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - Atitikties vertinimo įstatymo 141 straipsnyje
 - [[latest/TAR.C7A984833333#^s-588c995a36f4524f1bb6a87d|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatyme
 - [[latest/TAR.C7A984833333#^s-6fa728eaecc5cc8485481260|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - Atitikties vertinimo įstatymo
-- [[latest/TAR.C7A984833333#^s-9e6b1b04e116c1f77558ee44|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - 2 citatos - Atitikties vertinimo įstatymo
-- [[latest/TAR.C7A984833333#^s-fbed0a3ebec7f725d8ed8e6d|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatyme
-- [[latest/e5219f72a26411efa605b9842742bf37#^s-139960f18ff4b18162d45410|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 1, 2, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 17, 18, 20, 21, 22, 23, 24, 26 straipsnių, priedo pakeitimo ir Įstatymo papildymo 16-1, 19-1 straipsniais įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatyme
 - [[latest/e5219f72a26411efa605b9842742bf37#^s-3a11d6d44b9be1d711132402|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 1, 2, 4, 5, 6, 7, 8, 10, 11, 13, 14, 15, 17, 18, 20, 21, 22, 23, 24, 26 straipsnių, priedo pakeitimo ir Įstatymo papildymo 16-1, 19-1 straipsniais įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatyme
 - [[latest/3d737a30a58b11ef90b5ee8931e5ce5e#^s-bf67b7c67f3107fa225c6f03|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 2, 3, 5, 6 straipsnių ir VI skyriaus pakeitimo įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatyme
-- [[latest/3d737a30a58b11ef90b5ee8931e5ce5e#^s-fe444ef6b84f18a2a50b39db|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 2, 3, 5, 6 straipsnių ir VI skyriaus pakeitimo įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatyme
-- [[latest/865406301e6211e586708c6593c243ce#^s-0a2eda68bb9a6acb79747589|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos atitikties įvertinimo įstatymo
-- [[latest/736b48002b2f11eb932eb1ed7f923910#^s-10c1e8a6259026de2ffebdf9|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - 2 citatos - Atitikties įvertinimo įstatymo
-- [[latest/865406301e6211e586708c6593c243ce#^s-2f491c4f617e822a183386dc|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
 - [[latest/736b48002b2f11eb932eb1ed7f923910#^s-4e083b06a78e54482424db04|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - Atitikties įvertinimo įstatymu
 - [[latest/736b48002b2f11eb932eb1ed7f923910#^s-516dc3dc4e809a4837f4b219|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatyme
 - [[latest/865406301e6211e586708c6593c243ce#^s-5e693e5fe954699d0bde45da|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
-- [[latest/865406301e6211e586708c6593c243ce#^s-763e799b75394852bc8855c0|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos atitikties įvertinimo įstatymo
-- [[latest/736b48002b2f11eb932eb1ed7f923910#^s-7a418f708a7cb7c509bf3e02|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatyme
 - [[latest/865406301e6211e586708c6593c243ce#^s-8a5b8733848fde7408f1f4a4|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
 - [[latest/865406301e6211e586708c6593c243ce#^s-93780132a2213611a9e82af0|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymu
 - [[latest/865406301e6211e586708c6593c243ce#^s-a3a8fba4c3f2f183e5a5ef47|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
 - [[latest/736b48002b2f11eb932eb1ed7f923910#^s-c6cc0d933dd9a8f608441fd0|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - Atitikties įvertinimo įstatymo
 - [[latest/865406301e6211e586708c6593c243ce#^s-ee4abeeecbef682838624550|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymu
 - [[latest/865406301e6211e586708c6593c243ce#^s-fb4966f6f65a937817fd6cef|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
-- [[latest/03a3f6d0fafb11e4b733cba410730a6c#^s-954b3901909c174486264692|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 papildymo 15-1 straipsniu ir Įstatymo priedo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos atitikties įvertinimo įstatymo
 - [[latest/03a3f6d0fafb11e4b733cba410730a6c#^s-a95166fd171d4f50b44d5e15|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 papildymo 15-1 straipsniu ir Įstatymo priedo pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymu
 - [[latest/03a3f6d0fafb11e4b733cba410730a6c#^s-d721204167cf9f89188a7959|Lietuvos Respublikos geležinkelių transporto eismo saugos įstatymo Nr. IX-1905 papildymo 15-1 straipsniu ir Įstatymo priedo pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
 - [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-227aafec9c6e961ad17aca65|Lietuvos Respublikos kibernetinio saugumo įstatymas]] - Atitikties įvertinimo įstatymo
-- [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-458086fd40c1d8567a3bf3d6|Lietuvos Respublikos kibernetinio saugumo įstatymas]] - 4 citatos - Atitikties vertinimo įstatymo
 - [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-96dc3b2dd4e0779ecf594557|Lietuvos Respublikos kibernetinio saugumo įstatymas]] - Atitikties įvertinimo įstatymo
 - [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-a175e79ea012aa8508e84492|Lietuvos Respublikos kibernetinio saugumo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
 - [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-a883c31cb10de6ef1f4591b6|Lietuvos Respublikos kibernetinio saugumo įstatymas]] - Atitikties vertinimo įstatymo
@@ -84,35 +69,23 @@ pavadinimas: "Lietuvos Respublikos atitikties vertinimo įstatymas"
 - [[latest/32167570d41011eba2bad9a0748ee64d#^s-3e6982f9cdd93b9fff8540ce|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 1, 2, 6, 8, 9, 13 straipsnių, V skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17 straipsniu ir VI skyriumi įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
 - [[latest/32167570d41011eba2bad9a0748ee64d#^s-54c5830899fe736466e6325d|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 1, 2, 6, 8, 9, 13 straipsnių, V skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17 straipsniu ir VI skyriumi įstatymas]] - Atitikties įvertinimo įstatymo
 - [[latest/32167570d41011eba2bad9a0748ee64d#^s-6daf9c4e92544501ab7ad965|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 1, 2, 6, 8, 9, 13 straipsnių, V skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17 straipsniu ir VI skyriumi įstatymas]] - Atitikties įvertinimo įstatymo
-- [[latest/32167570d41011eba2bad9a0748ee64d#^s-7f126796536f6abbc17870d0|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 1, 2, 6, 8, 9, 13 straipsnių, V skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17 straipsniu ir VI skyriumi įstatymas]] - 3 citatos - Atitikties vertinimo įstatymo
 - [[latest/32167570d41011eba2bad9a0748ee64d#^s-d0bad62a9e81eb102381c834|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 1, 2, 6, 8, 9, 13 straipsnių, V skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17 straipsniu ir VI skyriumi įstatymas]] - Atitikties vertinimo įstatymo
-- [[latest/1261a35049bd11efbdaea558de59136c#^s-06ed430216765f3916b90f6c|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas]] - 4 citatos - Atitikties vertinimo įstatymo
 - [[latest/1261a35049bd11efbdaea558de59136c#^s-37bbaa8dfe4204a152059b27|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas]] - Atitikties įvertinimo įstatymo
 - [[latest/1261a35049bd11efbdaea558de59136c#^s-569226f942a6be3255f35e6b|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatymo
 - [[latest/1261a35049bd11efbdaea558de59136c#^s-5ceaaa179faaa737a72c6e45|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
 - [[latest/1261a35049bd11efbdaea558de59136c#^s-8e985de622bcf13e66dffe29|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas]] - Atitikties vertinimo įstatymo
 - [[latest/1261a35049bd11efbdaea558de59136c#^s-ff22a3de1361ec4425ebeba2|Lietuvos Respublikos kibernetinio saugumo įstatymo Nr. XII-1428 pakeitimo įstatymas]] - Atitikties įvertinimo įstatymo
 - [[latest/4bb0838002da11efbcbfb318996800a8#^s-3fce1bd151c0bfe509438531|Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 2, 11, 16, 18, 28 ir 29 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatyme
-- [[latest/c5adb5f0222d11eabe008ea93139d588#^s-1816029f12d2ac995411299e|Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatyme
 - [[latest/c5adb5f0222d11eabe008ea93139d588#^s-c3447a7239d1dcb899b5ec6a|Lietuvos Respublikos loterijų įstatymo Nr. IX-1661 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatyme
 - [[latest/TAR.A3C0EA6B2203#^s-393fd85a2990f13d5ce8dd40|Lietuvos Respublikos metrologijos įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
-- [[latest/TAR.A3C0EA6B2203#^s-587ff5bb02f7997a18ddff80|Lietuvos Respublikos metrologijos įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
-- [[latest/TAR.A3C0EA6B2203#^s-696b19e6b710b0a7088825b4|Lietuvos Respublikos metrologijos įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatyme
 - [[latest/TAR.A3C0EA6B2203#^s-7b4e023556987beb6809f48b|Lietuvos Respublikos metrologijos įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatyme
 - [[latest/95b6e080747611e3b675ad30753d4b1b#^s-5feb9621e18d1c646004eb09|Lietuvos Respublikos metrologijos įstatymo 1, 2, 6, 7, 8, 9, 10, 12, 15, 18, 19, 22, 23 straipsnių pakeitimo ir papildymo ĮSTATYMAS]] - Lietuvos Respublikos atitikties įvertinimo įstatyme
-- [[latest/95b6e080747611e3b675ad30753d4b1b#^s-f5a3d78c3704f67ba8586100|Lietuvos Respublikos metrologijos įstatymo 1, 2, 6, 7, 8, 9, 10, 12, 15, 18, 19, 22, 23 straipsnių pakeitimo ir papildymo ĮSTATYMAS]] - Lietuvos Respublikos atitikties įvertinimo įstatyme
 - [[latest/b3564d30003e11e88bcec397524184ce#^s-07f6b658394cc0651df5797b|Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatyme
 - [[latest/b3564d30003e11e88bcec397524184ce#^s-0e9f780f46f45338e3f41a5e|Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
-- [[latest/b3564d30003e11e88bcec397524184ce#^s-6623409352dcd70539698c40|Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatyme
-- [[latest/b3564d30003e11e88bcec397524184ce#^s-88028694fa87db15acec30cf|Lietuvos Respublikos metrologijos įstatymo Nr. I-1452 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
 - [[latest/9fbd66d2058311f08e9f87c0d053bf09#^s-90fc86a91ddff980c5fec432|Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatymo Nr. VIII-602 2 ir 8 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos atitikties vertinimo įstatyme
 - [[latest/TAR.C40F7F89A7C3#^s-442cfe2cd4f94fe95718495c|Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
-- [[latest/TAR.C40F7F89A7C3#^s-948fa5693b64d6ff48da9013|Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
-- [[latest/5c29cd90f0ae11e99681cd81dcdca52c#^s-785215ed09564a4f8356243e|Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo Nr. I-1324 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
 - [[latest/5c29cd90f0ae11e99681cd81dcdca52c#^s-edb4ee1a2c83999a221b0d32|Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymo Nr. I-1324 pakeitimo įstatymas]] - Lietuvos Respublikos atitikties įvertinimo įstatymo
-- [[latest/e2c256c048e011e6b5d09300a16a686c#^s-4730425a33fa3fea83c18074|Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo Nr. IX-1315 pakeitimo įstatymas]] - 3 citatos - Atitikties įvertinimo įstatymas
 - [[latest/e2c256c048e011e6b5d09300a16a686c#^s-78eea94caa6cfc868dd698ef|Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo Nr. IX-1315 pakeitimo įstatymas]] - 2 citatos - Atitikties įvertinimo įstatymas
 - [[latest/e2c256c048e011e6b5d09300a16a686c#^s-896df439be163f1009765ee8|Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo Nr. IX-1315 pakeitimo įstatymas]] - Atitikties įvertinimo įstatymu
 - [[latest/TAR.1D96847399A5#^s-037a6423fcb2375fa3a38d26|Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo pakeitimo įstatymas]] - 2 citatos - Atitikties įvertinimo įstatymas
-- [[latest/TAR.1D96847399A5#^s-533679b96d3c2b6e4144ed68|Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo pakeitimo įstatymas]] - 3 citatos - Atitikties įvertinimo įstatymas
 - [[latest/TAR.1D96847399A5#^s-a07c0cea8021e817eb4c17b1|Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatymo pakeitimo įstatymas]] - Atitikties įvertinimo įstatymu

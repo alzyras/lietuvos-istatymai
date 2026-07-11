@@ -296,14 +296,14 @@ Pakeisti [[#^s-bbe8f1d1fef77bc911682ec2|21 straipsnį]] ir jį išdėstyti taip:
 ### 12 straipsnis. 27 straipsnio pakeitimas ir papildymas ^s-a08e718fc1381a534c4604ef
 
 
-Pakeisti 27 straipsnio pavadinimą ir [[#^s-0b1a0e002161760f7b9606b2|2 dalį]], straipsnį papildyti 5 ir [[#^s-24c124a53fba051a10a48f50|6 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 27 straipsnio pavadinimą ir [[#^s-0b1a0e002161760f7b9606b2|2 dalį]], straipsnį papildyti 5 ir 6 dalimis ir visą straipsnį išdėstyti taip:
 
 
 
 „27 straipsnis. Antstolio, antstolio padėjėjo veiklos kontrolė ir skundų nagrinėjimas
 
 
-1. Antstolio procesinių veiksmų teisėtumą Civilinio proceso kodekso nustatyta tvarka kontroliuoja teismas. ^s-955fe3cd2fef6944dd779e60
+1. Antstolio procesinių veiksmų teisėtumą [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka kontroliuoja teismas. ^s-955fe3cd2fef6944dd779e60
 
 
 2. Kaip antstoliai (antstolių padėjėjai) laikosi šio Įstatymo, Sprendimų vykdymo instrukcijos, Antstolių profesinės etikos kodekso, kitų teisingumo ministro tvirtinamų teisės aktų, reglamentuojančių antstolių veiklą, ir vykdymo išlaidų išieškojimo tvarkos, nesusijusios su vykdymo išlaidų dydžio apskaičiavimu, pagal kompetenciją teisingumo ministro nustatyta tvarka kontroliuoja Teisingumo ministerija ir Lietuvos antstolių rūmai. ^s-0b1a0e002161760f7b9606b2
@@ -429,7 +429,7 @@ Pakeisti 34 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 20 straipsnis. 39 straipsnio pakeitimas ir papildymas ^s-698ad94f97b9c6895c98c3cd
 
 
-Pakeisti 39 straipsnio 1 ir [[#^s-ad8ad6d11893a5bce1dc62bc|2 dalis]], straipsnį papildyti naujomis 3 ir [[#^s-00d75558bdad490259a7bbcd|4 dalimis]], buvusią [[#^s-f9b8b312867927a6634811a9|3 dalį]] laikyti [[#^s-d885611252106027b39fa659|5 dalimi]] ir visą straipsnį išdėstyti taip:
+Pakeisti 39 straipsnio 1 ir 2 dalis, straipsnį papildyti naujomis 3 ir 4 dalimis, buvusią [[#^s-f9b8b312867927a6634811a9|3 dalį]] laikyti [[#^s-d885611252106027b39fa659|5 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 

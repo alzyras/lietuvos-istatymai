@@ -80,7 +80,7 @@ Nr. XIII-3156, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15134
 
 
 
-4. Šiuo Įstatymu įgyvendinami šio Įstatymo 3 priede nurodyti Europos Sąjungos teisės aktai dėl gydytojų rengimo, diplomų, pažymėjimų ir kitų oficialią gydytojo kvalifikaciją patvirtinančių dokumentų abipusio pripažinimo ir gydytojo praktikos sąlygų. ^s-475d55e64dc4e853abf8b449
+4. Šiuo Įstatymu įgyvendinami šio Įstatymo 3 priede nurodyti Europos Sąjungos teisės aktai [dėl gydytojų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.F1D2EF137C18), diplomų, pažymėjimų ir kitų oficialią gydytojo kvalifikaciją patvirtinančių dokumentų abipusio pripažinimo ir gydytojo praktikos sąlygų. ^s-475d55e64dc4e853abf8b449
 Straipsnio dalies pakeitimai:
 Nr. XIV-1509, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23357
 
@@ -342,7 +342,7 @@ Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
 
 
 
-6. Licenciją gydytojui išduoda, atsisako ją išduoti, jos galiojimą sustabdo, jos galiojimo sustabdymą panaikina, licencijos galiojimą panaikina ir licencijos duomenis tikslina Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – licencijas išduodanti institucija), vadovaudamasi šiuo Įstatymu ir sveikatos apsaugos ministro patvirtintomis Medicinos praktikos licencijavimo taisyklėmis. Licencijas išduodanti institucija, siekdama patikrinti, ar įvykdytos licencijos išdavimo sąlygos, ar licencijos turėtojas laikosi šio Įstatymo [[#^s-c49cfe865a78634b3b4de8ae|10 straipsnyje]] nurodytų pareigų, ar yra pagrindas sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą, patikslinti licencijos duomenis, turi teisę iš valstybės ir savivaldybių institucijų ir įstaigų, kitų juridinių asmenų, tvarkančių duomenis, susijusius su šiuo Įstatymu reglamentuojama medicinos praktika, gauti duomenis apie gydytojo atitiktį šio Įstatymo [[#^s-b651f21975e5be3f679e639c|4 straipsnio 5 dalyje]] nurodytoms licencijos išdavimo sąlygoms, šio Įstatymo [[#^s-c49cfe865a78634b3b4de8ae|10 straipsnyje]] nurodytų pareigų vykdymą, juridinių faktų, nurodytų šio Įstatymo [[#^s-ffb6fa01f9d2d06c26465119|6 straipsnio 1 dalyje]] ir [[#^s-5425c6b2dd910c7b5f84d1cc|8 straipsnio 1 dalies]] 2–5 punktuose ir 2 dalies 2 punkte, buvimą. Valstybės ir savivaldybių institucijos ir įstaigos, kiti juridiniai asmenys, tvarkantys duomenis, susijusius su šiuo Įstatymu reglamentuojama medicinos praktika, privalo pateikti šioje dalyje nurodytus duomenis licencijas išduodančiai institucijai per jos nurodytą terminą, kuris negali būti trumpesnis kaip 15 dienų. ^s-7bdb91a9d493fb86e674d40c
+6. Licenciją gydytojui išduoda, atsisako ją išduoti, jos galiojimą sustabdo, jos galiojimo sustabdymą panaikina, licencijos galiojimą panaikina ir licencijos duomenis tikslina Valstybinė akreditavimo sveikatos priežiūros veiklai tarnyba prie Sveikatos apsaugos ministerijos (toliau – licencijas išduodanti institucija), vadovaudamasi šiuo Įstatymu ir sveikatos apsaugos ministro patvirtintomis Medicinos praktikos licencijavimo taisyklėmis. Licencijas išduodanti institucija, siekdama patikrinti, ar įvykdytos licencijos išdavimo sąlygos, ar licencijos turėtojas laikosi šio Įstatymo [[#^s-c49cfe865a78634b3b4de8ae|10 straipsnyje]] nurodytų pareigų, ar yra pagrindas sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą, panaikinti licencijos galiojimo sustabdymą, patikslinti licencijos duomenis, turi teisę iš valstybės ir savivaldybių institucijų ir įstaigų, kitų juridinių asmenų, tvarkančių duomenis, susijusius su šiuo Įstatymu reglamentuojama medicinos praktika, gauti duomenis apie gydytojo atitiktį šio Įstatymo [[#^s-b651f21975e5be3f679e639c|4 straipsnio 5 dalyje]] nurodytoms licencijos išdavimo sąlygoms, šio Įstatymo [[#^s-c49cfe865a78634b3b4de8ae|10 straipsnyje]] nurodytų pareigų vykdymą, juridinių faktų, nurodytų šio Įstatymo [[#^s-ffb6fa01f9d2d06c26465119|6 straipsnio 1 dalyje]] ir [[#^s-5425c6b2dd910c7b5f84d1cc|8 straipsnio 1 dalies]] [[#^s-9f6364b484494031ce8ab62e|2]]–[[#^s-1f7970ea54b1413a3abb7d29|5]] punktuose ir 2 dalies 2 punkte, buvimą. Valstybės ir savivaldybių institucijos ir įstaigos, kiti juridiniai asmenys, tvarkantys duomenis, susijusius su šiuo Įstatymu reglamentuojama medicinos praktika, privalo pateikti šioje dalyje nurodytus duomenis licencijas išduodančiai institucijai per jos nurodytą terminą, kuris negali būti trumpesnis kaip 15 dienų. ^s-7bdb91a9d493fb86e674d40c
 Straipsnio dalies pakeitimai:
 Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
 Nr. XIII-2559, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19867
@@ -468,7 +468,7 @@ Nr. XIII-3156, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15134
 1) gydytojas pateikė suklastotus dokumentus licencijai gauti; ^s-804b93e25b97e5a85bd233a3
 
 
-2) gydytojas per vienus metus nepašalino licencijas išduodančios institucijos nurodytų trūkumų, kai licencijos galiojimas buvo sustabdytas vadovaujantis šio Įstatymo [[#^s-5425c6b2dd910c7b5f84d1cc|8 straipsnio 1 dalies]] 1, 2, 3 ar [[#^s-3136cd3e39461368ddd059a1|5 punktu]]; ^s-ca72dc8ed0614199b6c30120
+2) gydytojas per vienus metus nepašalino licencijas išduodančios institucijos nurodytų trūkumų, kai licencijos galiojimas buvo sustabdytas vadovaujantis šio Įstatymo [[#^s-5425c6b2dd910c7b5f84d1cc|8 straipsnio 1 dalies]] [[#^s-778be6686baceca30179ed47|1]], [[#^s-9f6364b484494031ce8ab62e|2]], [[#^s-0caca3bd0d48b2aa32065b1f|3]] ar [[#^s-1f7970ea54b1413a3abb7d29|5]] punktu; ^s-ca72dc8ed0614199b6c30120
 Straipsnio punkto pakeitimai:
 Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
 
@@ -526,7 +526,7 @@ Nr. XIII-2379, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12802
 
 
 
-2. Gydytojas, kurio licencijos galiojimas buvo panaikintas vadovaujantis šio Įstatymo [[#^s-ffb6fa01f9d2d06c26465119|6 straipsnio 1 dalies]] 2, 5 ar 6 punktu, gali kreiptis dėl naujos licencijos išdavimo, kai išnyksta licencijos galiojimo panaikinimo pagrindas ir įvykdytos šio Įstatymo [[#^s-b651f21975e5be3f679e639c|4 straipsnio 5 dalyje]] nustatytos licencijos išdavimo sąlygos, Medicinos praktikos licencijavimo taisyklėse nustatyta tvarka pateikdamas paraišką ir licencijai gauti reikalingus dokumentus. ^s-4fb239aab68d29c4a0a2c393
+2. Gydytojas, kurio licencijos galiojimas buvo panaikintas vadovaujantis šio Įstatymo [[#^s-ffb6fa01f9d2d06c26465119|6 straipsnio 1 dalies]] [[#^s-ca72dc8ed0614199b6c30120|2]], [[#^s-3136cd3e39461368ddd059a1|5]] ar [[#^s-1c769ce0556587e20caf1aaa|6]] punktu, gali kreiptis dėl naujos licencijos išdavimo, kai išnyksta licencijos galiojimo panaikinimo pagrindas ir įvykdytos šio Įstatymo [[#^s-b651f21975e5be3f679e639c|4 straipsnio 5 dalyje]] nustatytos licencijos išdavimo sąlygos, Medicinos praktikos licencijavimo taisyklėse nustatyta tvarka pateikdamas paraišką ir licencijai gauti reikalingus dokumentus. ^s-4fb239aab68d29c4a0a2c393
 
 
 Straipsnio pakeitimai:
@@ -552,7 +552,7 @@ Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
 4) gydytojas dėl sveikatos būklės negali atlikti profesinių pareigų; ^s-53ae3262cbc77d0007a8be6c
 
 
-5) gydytojas neįvykdė bent vienos iš šio Įstatymo [[#^s-c49cfe865a78634b3b4de8ae|10 straipsnio]] 2 ar [[#^s-0caca3bd0d48b2aa32065b1f|3 punkte]] nustatytų profesinių pareigų ir per Medicinos praktikos licencijavimo taisyklėse nustatytą terminą nepašalino šio licencijas išduodančios institucijos nurodyto trūkumo; ^s-1f7970ea54b1413a3abb7d29
+5) gydytojas neįvykdė bent vienos iš šio Įstatymo [[#^s-c49cfe865a78634b3b4de8ae|10 straipsnio]] 2 ar 3 punkte nustatytų profesinių pareigų ir per Medicinos praktikos licencijavimo taisyklėse nustatytą terminą nepašalino šio licencijas išduodančios institucijos nurodyto trūkumo; ^s-1f7970ea54b1413a3abb7d29
 
 
 6) profesinės kompetencijos vertinimo komisija nustatė, kad gydytojas padarė grubią medicinos praktikos klaidą arba per vienus metus nuo paskutinės medicinos praktikos klaidos padarymo padarė medicinos praktikos klaidą, ir nusprendė, kad gydytojo profesinė kvalifikacija neatitinka licencijoje nurodytos profesinės kvalifikacijos reikalavimų. ^s-f8c73c4d844f121b5b15efc1
@@ -582,10 +582,10 @@ Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
 5. Licencijos galiojimo sustabdymas panaikinamas licencijas išduodančios institucijos sprendimu: ^s-15611ee34e8578986d3c135b
 
 
-1) gavus dokumentus ir (ar) duomenis, patvirtinančius, kad išnykęs (išnykę) licencijos galiojimo sustabdymo pagrindas (pagrindai), jeigu licencijos galiojimas buvo sustabdytas [[#^s-5425c6b2dd910c7b5f84d1cc|šio straipsnio 1 dalies]] 1, 2, 4 ir 5 punktuose nurodytais pagrindais; ^s-701aa29f44812a3b854442dd
+1) gavus dokumentus ir (ar) duomenis, patvirtinančius, kad išnykęs (išnykę) licencijos galiojimo sustabdymo pagrindas (pagrindai), jeigu licencijos galiojimas buvo sustabdytas [[#^s-5425c6b2dd910c7b5f84d1cc|šio straipsnio 1 dalies]] 1, [[#^s-dcbc5224ec456e3ab446a430|2]], 4 ir 5 punktuose nurodytais pagrindais; ^s-701aa29f44812a3b854442dd
 
 
-2) gavus dokumentus ir (ar) duomenis, patvirtinančius, kad įvykdytos šio straipsnio 21 arba [[#^s-a2e23025284897122d255192|22 dalyje]] nurodytos sąlygos, jeigu licencijos galiojimas buvo sustabdytas [[#^s-5425c6b2dd910c7b5f84d1cc|šio straipsnio 1 dalies]] 3 ar 6 punkte arba [[#^s-67bca3305b7ddaee57fc9a5c|šio straipsnio 2 dalies 2 punkte]] nurodytu pagrindu; ^s-dcbc5224ec456e3ab446a430
+2) gavus dokumentus ir (ar) duomenis, patvirtinančius, kad įvykdytos šio straipsnio 21 arba [[#^s-a2e23025284897122d255192|22 dalyje]] nurodytos sąlygos, jeigu licencijos galiojimas buvo sustabdytas [[#^s-5425c6b2dd910c7b5f84d1cc|šio straipsnio 1 dalies]] [[#^s-2df3e3bb1981d161d018f478|3]] ar 6 punkte arba [[#^s-67bca3305b7ddaee57fc9a5c|šio straipsnio 2 dalies 2 punkte]] nurodytu pagrindu; ^s-dcbc5224ec456e3ab446a430
 
 
 3) nenustačius pagrindo panaikinti licencijos galiojimą, jeigu licencijos galiojimas buvo sustabdytas [[#^s-b85adee816b9bcdab3c13ebd|šio straipsnio 2 dalies 1 punkte]] nurodytu pagrindu. ^s-2df3e3bb1981d161d018f478
@@ -594,7 +594,7 @@ Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
 6. Sprendimas panaikinti licencijos galiojimo sustabdymą priimamas Medicinos praktikos licencijavimo taisyklėse nustatyta tvarka ne vėliau kaip per: ^s-5db5bc9ba6376349cecb5a4a
 
 
-1) 20 dienų nuo prašymo panaikinti licencijos galiojimo sustabdymą ir [[#^s-15611ee34e8578986d3c135b|šio straipsnio 5 dalies]] 1 ar [[#^s-d75a0b362c4ac18b2546b658|2 punkte]] nurodytų dokumentų ir (ar) duomenų gavimo licencijas išduodančioje institucijoje dienos; ^s-12ad3dbf9f12576511e17485
+1) 20 dienų nuo prašymo panaikinti licencijos galiojimo sustabdymą ir [[#^s-15611ee34e8578986d3c135b|šio straipsnio 5 dalies]] 1 ar [[#^s-d75a0b362c4ac18b2546b658|2]] punkte nurodytų dokumentų ir (ar) duomenų gavimo licencijas išduodančioje institucijoje dienos; ^s-12ad3dbf9f12576511e17485
 
 
 2) 2 darbo dienas nuo licencijas išduodančios institucijos sprendimo, kad nėra pagrindo panaikinti licencijos galiojimą, jeigu licencijos galiojimas buvo sustabdytas [[#^s-b85adee816b9bcdab3c13ebd|šio straipsnio 2 dalies 1 punkte]] nurodytu pagrindu. ^s-d75a0b362c4ac18b2546b658
@@ -918,22 +918,22 @@ Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 [[#^s-3ce355680a94
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1955, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16896
-Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 4, 6, 7, 8 ir [[#^s-c49cfe865a78634b3b4de8ae|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 [[#^s-7692f3e48fbbcae02126ed6a|4]], [[#^s-6461dc8db4295cfe3a7e442e|6]], [[#^s-4cbe585fe941b318bae59cf3|7]], [[#^s-f66193b5d551ab09d6a9fbc7|8]] ir [[#^s-c49cfe865a78634b3b4de8ae|10]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1410, 2018-06-30, paskelbta TAR 2018-07-05, i. k. 2018-11468
-Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 2, 3 ir [[#^s-7692f3e48fbbcae02126ed6a|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 [[#^s-3ce355680a948412a778a213|2]], [[#^s-16402f5b2e1c445cb90c7ac4|3]] ir [[#^s-7692f3e48fbbcae02126ed6a|4]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2379, 2019-07-18, paskelbta TAR 2019-08-02, i. k. 2019-12802
-Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 6, 7 ir [[#^s-f66193b5d551ab09d6a9fbc7|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 [[#^s-6461dc8db4295cfe3a7e442e|6]], [[#^s-4cbe585fe941b318bae59cf3|7]] ir [[#^s-f66193b5d551ab09d6a9fbc7|8]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2559, 2019-11-28, paskelbta TAR 2019-12-10, i. k. 2019-19867
-Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 2, 4, 5, 6, 8 ir [[#^s-c49cfe865a78634b3b4de8ae|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 [[#^s-3ce355680a948412a778a213|2]], [[#^s-7692f3e48fbbcae02126ed6a|4]], [[#^s-ba2c2e06f61f9f68b1709388|5]], [[#^s-6461dc8db4295cfe3a7e442e|6]], [[#^s-f66193b5d551ab09d6a9fbc7|8]] ir [[#^s-c49cfe865a78634b3b4de8ae|10]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -943,12 +943,12 @@ Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 [[#^s-16402f5b2e1c
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3156, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15134
-Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 1, [[#^s-3ce355680a948412a778a213|2 straipsnių]] pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas
+Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 [[#^s-b14dda4cebaa71ffcca31183|1]], [[#^s-3ce355680a948412a778a213|2]] straipsnių pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1509, 2022-11-10, paskelbta TAR 2022-11-21, i. k. 2022-23357
-Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 1, 2, 3, [[#^s-7692f3e48fbbcae02126ed6a|4 straipsnių]] ir priedo pakeitimo, Įstatymo papildymo nauju 1 priedu ir 2 priedu įstatymas
+Lietuvos Respublikos medicinos praktikos įstatymo Nr. I-1555 [[#^s-b14dda4cebaa71ffcca31183|1]], [[#^s-3ce355680a948412a778a213|2]], [[#^s-16402f5b2e1c445cb90c7ac4|3]], [[#^s-7692f3e48fbbcae02126ed6a|4]] straipsnių ir priedo pakeitimo, Įstatymo papildymo nauju 1 priedu ir 2 priedu įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas

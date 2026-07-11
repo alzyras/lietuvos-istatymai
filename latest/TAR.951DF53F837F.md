@@ -209,7 +209,7 @@ Vyriausybė:
 2. Valstybinė atominės energetikos saugos inspekcija: ^s-a49f326572c64eed8c1acbdb
 
 
-1) išduoda licencijas šio įstatymo 9 ir [[#^s-7825eb5446e97f978fe52e59|10 straipsnių]] nustatyta tvarka; ^s-0c3f629ed80af6660a7bb69c
+1) išduoda licencijas šio įstatymo [[#^s-4c73507a8d84757548ebbb1d|9]] ir [[#^s-7825eb5446e97f978fe52e59|10]] straipsnių nustatyta tvarka; ^s-0c3f629ed80af6660a7bb69c
 
 
 2) derina Radioaktyviųjų atliekų tvarkymo agentūros parengtą Radioaktyviųjų atliekų tvarkymo strategiją; ^s-00a9fae25569a19c5f9969c4
@@ -268,7 +268,7 @@ Aplinkos ministerija:
 3) suderinusi su Sveikatos apsaugos ministerija ir Valstybine atominės energetikos saugos inspekcija, nustato didžiausią leistiną aplinkos teršimą radionuklidais; ^s-03620bb31ebdda23ed57cc05
 
 
-4) įstatymų ir kitų teisės aktų nustatyta tvarka dalyvauja išduodant licencijas šio įstatymo 9 ir [[#^s-7825eb5446e97f978fe52e59|10 straipsnių]] nustatyta tvarka. ^s-773bb921b5faa641c49b6b7c
+4) įstatymų ir kitų teisės aktų nustatyta tvarka dalyvauja išduodant licencijas šio įstatymo [[#^s-4c73507a8d84757548ebbb1d|9]] ir [[#^s-7825eb5446e97f978fe52e59|10]] straipsnių nustatyta tvarka. ^s-773bb921b5faa641c49b6b7c
 
 
 
@@ -281,7 +281,7 @@ Radiacinės saugos centras:
 1) atlieka radioaktyviųjų atliekų tvarkymo valstybinę radiacinės saugos priežiūrą ir kontrolę pagal savo kompetenciją; ^s-a3f4613c452d9f8d11887e3f
 
 
-2) išduoda licencijas šio įstatymo 9 ir [[#^s-7825eb5446e97f978fe52e59|10 straipsnių]] nustatyta tvarka. ^s-b28ab2a9303e9aef957b356d
+2) išduoda licencijas šio įstatymo [[#^s-4c73507a8d84757548ebbb1d|9]] ir [[#^s-7825eb5446e97f978fe52e59|10]] straipsnių nustatyta tvarka. ^s-b28ab2a9303e9aef957b356d
 
 
 
@@ -304,13 +304,13 @@ Be Vyriausybės nustatyta tvarka išduotos licencijos draudžiama:
 ### 10 straipsnis. Licencijų ir leidimų išdavimas ^s-7825eb5446e97f978fe52e59
 
 
-1. Šio įstatymo [[#^s-d547bdda02e093e9299e7eec|9 straipsnio 1 punkte]] nurodytai veiklai licencijas išduoda Valstybinė atominės energetikos saugos inspekcija, suderinus su Radiacinės saugos centru, Aplinkos ministerija ir vietos savivaldos institucija, kurios teritorija ar jos dalis yra saugyklos ar kapinyno sanitarinės apsaugos zonoje. ^s-341dc2ba9cd34c5260acb053
+1. Šio įstatymo 9 straipsnio 1 punkte nurodytai veiklai licencijas išduoda Valstybinė atominės energetikos saugos inspekcija, suderinus su Radiacinės saugos centru, Aplinkos ministerija ir vietos savivaldos institucija, kurios teritorija ar jos dalis yra saugyklos ar kapinyno sanitarinės apsaugos zonoje. ^s-341dc2ba9cd34c5260acb053
 
 
-2. Šio įstatymo [[#^s-96c18c5aa105179bff92eca9|9 straipsnio 2 punkte]] nurodytai veiklai licencijas radioaktyviųjų atliekų vežėjui išduoda Radiacinės saugos centras, suderinus su Aplinkos ministerija, o radioaktyviąsias atliekas vežti su branduolinėmis medžiagomis – ir Valstybine atominės energetikos saugos inspekcija. ^s-4339c75a78a2c6c7bdcc4059
+2. Šio įstatymo 9 straipsnio 2 punkte nurodytai veiklai licencijas radioaktyviųjų atliekų vežėjui išduoda Radiacinės saugos centras, suderinus su Aplinkos ministerija, o radioaktyviąsias atliekas vežti su branduolinėmis medžiagomis – ir Valstybine atominės energetikos saugos inspekcija. ^s-4339c75a78a2c6c7bdcc4059
 
 
-3. Šio įstatymo [[#^s-52a18400f7473aaa803b2563|9 straipsnio 3 punkte]] nurodytai veiklai licencijas smulkiems gamintojams išduoda Radiacinės saugos centras. ^s-a31cb7cb78a47c83974c87be
+3. Šio įstatymo 9 straipsnio 3 punkte nurodytai veiklai licencijas smulkiems gamintojams išduoda Radiacinės saugos centras. ^s-a31cb7cb78a47c83974c87be
 
 
 4. Vienkartinius leidimus siuntėjui vežti šalies viduje, išvežti ir vežti tranzitu radioaktyviąsias atliekas išduoda Aplinkos ministerija, suderinus su Radiacinės saugos centru, o radioaktyviąsias atliekas vežti su branduolinėmis medžiagomis – ir su Valstybine atominės energetikos saugos inspekcija. ^s-19057d73ab0c200ef4e18541
@@ -532,7 +532,7 @@ RADIOAKTYVIŲJŲ ATLIEKŲ TVARKYMO ĮRENGINIŲ PRIĖMIMAS IR PERDAVIMAS EKSPLOAT
 ### 21 straipsnis. Radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimas ^s-90d94331921dc9b2d896531c
 
 
-1. Radioaktyviųjų atliekų tvarkymo įrenginys pradedamas eksploatuoti tik gavus licenciją pagal šio įstatymo 9 ir [[#^s-7825eb5446e97f978fe52e59|10 straipsnius]]. Licencija išduodama remiantis saugos įvertinimo pagal šio įstatymo [[#^s-c2d0c887f07f0b92d5c01433|19 straipsnio 3 dalies]] rezultatus bei įgyvendinus  priėmimo ir perdavimo eksploatuoti programą pagal šio įstatymo [[#^s-ffc3a7b6a00c2a8eb6363aa4|20 straipsnį]]. ^s-0c5b54d966219d7790a99fa2
+1. Radioaktyviųjų atliekų tvarkymo įrenginys pradedamas eksploatuoti tik gavus licenciją pagal šio įstatymo [[#^s-4c73507a8d84757548ebbb1d|9]] ir [[#^s-7825eb5446e97f978fe52e59|10]] straipsnius. Licencija išduodama remiantis saugos įvertinimo pagal šio įstatymo [[#^s-c2d0c887f07f0b92d5c01433|19 straipsnio 3 dalies]] rezultatus bei įgyvendinus  priėmimo ir perdavimo eksploatuoti programą pagal šio įstatymo [[#^s-ffc3a7b6a00c2a8eb6363aa4|20 straipsnį]]. ^s-0c5b54d966219d7790a99fa2
 
 
 2. Radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimo metu: ^s-5d9b2b9474f2729d795fb608
@@ -596,7 +596,7 @@ Radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojanti organizacija atsak
 2. Radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimo nutraukimo tvarka nustatoma vadovaujantis [[latest/TAR.6286F15970B3|Branduolinės energijos įstatymu]]. ^s-9acb669a8fb98c99612f23cc
 
 
-3. Radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojanti organizacija privalo užtikrinti, kad įrenginio eksploatavimo nutraukimo metu būtų pakankamai kvalifikuotų darbuotojų ir sukaupti finansiniai ištekliai. Nutraukiant radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimą, būtina įvykdyti šio įstatymo 22 ir [[#^s-c1fd6193805144e164987efe|24 straipsnių]] reikalavimus. ^s-698328911fad31cebfa2f58d
+3. Radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojanti organizacija privalo užtikrinti, kad įrenginio eksploatavimo nutraukimo metu būtų pakankamai kvalifikuotų darbuotojų ir sukaupti finansiniai ištekliai. Nutraukiant radioaktyviųjų atliekų tvarkymo įrenginio eksploatavimą, būtina įvykdyti šio įstatymo [[#^s-f11aaabf7de5f45d88b2f520|22]] ir [[#^s-c1fd6193805144e164987efe|24]] straipsnių reikalavimus. ^s-698328911fad31cebfa2f58d
 
 
 4. Radioaktyviųjų atliekų tvarkymo įrenginį eksploatuojanti organizacija privalo registruoti ir saugoti visą svarbią eksploatavimo nutraukimui licenciaro nustatytą informaciją. ^s-815b28265aa5d26a318541e6

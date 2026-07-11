@@ -94,7 +94,7 @@ Vilnius
 8) teikti pasiūlymus Seimui, Vyriausybei, kitoms valstybės institucijoms dėl klausimų, susijusių su pavestu tyrimu, sprendimo; ^s-dbcc1f904af6cc87ba2e35a6
 
 
-9) teikti Seimui, Vyriausybei pasiūlymus dėl teisės aktų pakeitimo, papildymo, pripažinimo netekusiais galios ar naujų teisės aktų parengimo ir priėmimo; ^s-efcec5db47c22fbd6e2c4539
+9) teikti Seimui, Vyriausybei pasiūlymus [dėl teisės aktų pakeitimo](https://e-tar.lt/portal/lt/legalAct/TAR.FC8F81C79171), papildymo, pripažinimo netekusiais galios ar naujų teisės aktų parengimo ir priėmimo; ^s-efcec5db47c22fbd6e2c4539
 
 
 10) teikti Seimui pasiūlymus dėl komisijos nario pašalinimo iš komisijos už šio įstatymo pažeidimus. ^s-bd1835d29db77ee3b91a31c5
@@ -113,7 +113,7 @@ Vilnius
 1. Komisijos nariai privalo: ^s-1a64545bbabbbe6e875398f5
 
 
-1) vadovautis Lietuvos Respublikos Konstitucija, įstatymais, kitais teisės aktais; ^s-36f1fd41faae12270ab11af1
+1) vadovautis [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymais, kitais teisės aktais; ^s-36f1fd41faae12270ab11af1
 
 
 2) laikyti paslaptyje duomenis ar žinias, kuriuos jie sužinojo vykdydami tyrimą, jeigu tokie duomenys ar žinios sudaro valstybės, komercinę, banko, tarnybinę arba kitą įstatymų saugomą paslaptį; ^s-deb25612a1e4115f4035ec02

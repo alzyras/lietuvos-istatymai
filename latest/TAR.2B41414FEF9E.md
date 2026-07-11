@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-6dfda3fd6b7111d610ab8e78
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. sausio 3 d. dekretą Nr. 1K-918, ratifikuoja Europos Tarybos konvenciją dėl veiksmų prieš prekybą žmonėmis, priimtą 2005 m. gegužės 16 d. Varšuvoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. sausio 3 d. dekretą Nr. 1K-918](https://e-tar.lt/portal/lt/legalAct/TAR.2C34002653C4), ratifikuoja Europos Tarybos konvenciją dėl veiksmų prieš prekybą žmonėmis, priimtą 2005 m. gegužės 16 d. Varšuvoje.
 
 
 

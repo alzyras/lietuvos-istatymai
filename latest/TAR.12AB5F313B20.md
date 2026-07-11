@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Papildomo protokolo ratifikavimas ^s-cfcdd0ff3e97a2a5cb5514e0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. liepos 19 d. dekretą Nr. 12, ratifikuoja 2002 m. rugsėjo 12 d. Varšuvoje priimtą Antidopingo konvencijos Papildomą protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. liepos 19 d. dekretą Nr. 12](https://e-tar.lt/portal/lt/legalAct/TAR.CCAC8AAF1171), ratifikuoja 2002 m. rugsėjo 12 d. Varšuvoje priimtą Antidopingo konvencijos Papildomą protokolą.
 
 
 

@@ -36,7 +36,7 @@ Vilnius
 Lietuvos Respublikos Seimas nutaria:
 
 
-Atleisti nuo pelno mokesčio žemės ūkio įmonių 1993 metais gautą pelną, apmokestintiną pagal Lietuvos Respublikos juridinių asmenų [[latest/TAR.A5ACBDA529A9|pelno mokesčio įstatymo]] nustatytą lengvatinį 10 procentų pelno mokesčio tarifą.
+Atleisti nuo pelno mokesčio žemės ūkio įmonių 1993 metais gautą pelną, apmokestintiną pagal [Lietuvos Respublikos juridinių asmenų pelno mokesčio įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.84CB75BE0C44) nustatytą lengvatinį 10 procentų pelno mokesčio tarifą.
 
 
 

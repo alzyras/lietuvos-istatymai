@@ -54,7 +54,7 @@ Akcinė bendrovė „Lietuvos dujos“ reorganizuojama bendrovių skaidymo būdu
 ### 3 straipsnis. Reorganizavimo tvarka ^s-52f8653b36848a0e84b28fd5
 
 
-1. Reorganizavimo metu akcinės bendrovės „Lietuvos dujos“ turtas vertinamas ir apskaičiuojamas pagal likutinę vertę, vadovaujantis Buhalterinės apskaitos pagrindų įstatymu bei kitais teisės aktais. ^s-4f1698c1d7ee422caa79a4e6
+1. Reorganizavimo metu akcinės bendrovės „Lietuvos dujos“ turtas vertinamas ir apskaičiuojamas pagal likutinę vertę, vadovaujantis [Buhalterinės apskaitos pagrindų įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.F15B67B048EB) bei kitais teisės aktais. ^s-4f1698c1d7ee422caa79a4e6
 
 
 2. Akcinės bendrovės „Lietuvos dujos“ visuotinis akcininkų susirinkimas ne mažiau kaip 2/3 balsų dauguma gali priimti nutarimą reorganizuoti bendrovę ir patvirtinti akcinės bendrovės reorganizavimo projektą bei parengtus reorganizavimo metu steigiamų bendrovių įstatus. ^s-e1827cfb63a4a5e92992fdb2
@@ -69,7 +69,7 @@ Akcinė bendrovė „Lietuvos dujos“ reorganizuojama bendrovių skaidymo būdu
 5. Reorganizuojamos akcinės bendrovės „Lietuvos dujos“ visos teisės ir prievolės (įsipareigojimai) perduodami po reorganizavimo veiklą tęsiančiai akcinei bendrovei „Lietuvos dujos“ ir reorganizuojant steigiamoms naujoms akcinėms bendrovėms. Reorganizuojama akcinė bendrovė „Lietuvos dujos“ privalo papildomai užtikrinti prievolių įvykdymą kiekvienam to pareikalavusiam jos kreditoriui. Akcinė bendrovė „Lietuvos dujos“ gali prievolių įvykdymo papildomai neužtikrinti, jei jos įsipareigojimų kreditoriui įvykdymas yra pakankamai užtikrintas neabejotino patikimumo apsaugos priemonėmis – įkeitimu, laidavimu ar garantija. ^s-7c09616adf53556c7bffe7dd
 
 
-6. Akcinės bendrovės „Lietuvos dujos“ reorganizavimo metu steigiamos bendrovės ir jų įstatai registruojami po steigiamųjų akcininkų susirinkimų, vadovaujantis Įmonių rejestro įstatymu. Reorganizavimo metu steigiamos bendrovės vietoj steigimo sutarties pateikia akcinės bendrovės „Lietuvos dujos“ visuotinio akcininkų susirinkimo, patvirtinusio reorganizavimo projektą, protokolą. ^s-9c11c1c4c6b49e59f4604478
+6. Akcinės bendrovės „Lietuvos dujos“ reorganizavimo metu steigiamos bendrovės ir jų įstatai registruojami po steigiamųjų akcininkų susirinkimų, vadovaujantis [Įmonių rejestro įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14). Reorganizavimo metu steigiamos bendrovės vietoj steigimo sutarties pateikia akcinės bendrovės „Lietuvos dujos“ visuotinio akcininkų susirinkimo, patvirtinusio reorganizavimo projektą, protokolą. ^s-9c11c1c4c6b49e59f4604478
 
 
 7. Valstybės garantijos bankams dėl suteiktų paskolų akcinei bendrovei „Lietuvos dujos“ galioja ir po reorganizavimo veiksiančioms bendrovėms, perėmusioms prievoles pagal šias paskolas. ^s-9ef612b4044c3ad6efd0e04f

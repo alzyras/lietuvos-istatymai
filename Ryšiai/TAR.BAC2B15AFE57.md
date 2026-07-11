@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.299D835159BE#^s-882f988bc5ca5aaed3df1bc9|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymas]] - 3 citatos - 1121010ISTA0XI-2237
-- [[latest/TAR.299D835159BE#^s-908ab5c9e4af9650ca8a111c|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymas]] - 3 citatos - 1121010ISTA0XI-2237
+- [[latest/TAR.299D835159BE#^s-908ab5c9e4af9650ca8a111c|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymas]] - 2 citatos - 1121010ISTA0XI-2237

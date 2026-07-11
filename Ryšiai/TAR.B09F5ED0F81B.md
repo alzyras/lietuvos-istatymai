@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-_Nėra._
+- [[latest/e0187bd0a01011e58fd1fc0b9bba68a7#^s-cc99be4832716e6a9a0cfcf9|Lietuvos Respublikos vaiko gimimo momento nustatymo įstatymo Nr. IX-837 6 straipsnio pakeitimo įstatymas]] - 2 citatos - 6 straipsnis

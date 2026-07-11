@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-1f7829f7a0b18fd77dbd83ee
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1998 m. lapkričio 2 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Sutartį dėl Baltijos valstybių bendrosios tranzito procedūros“, ratifikuoja Sutartį dėl Baltijos valstybių bendrosios tranzito procedūros, pasirašytą 1998 m. liepos 10 d. Siguldoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1998 m. lapkričio 2 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Sutartį dėl Baltijos valstybių bendrosios tranzito procedūros“](https://e-tar.lt/portal/lt/legalAct/TAR.005ED3AC7CCB), ratifikuoja Sutartį dėl Baltijos valstybių bendrosios tranzito procedūros, pasirašytą 1998 m. liepos 10 d. Siguldoje.
 
 
 

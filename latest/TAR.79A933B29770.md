@@ -49,7 +49,7 @@ Vilnius
 ### 2 straipsnis. 6 straipsnio 2 dalies pakeitimas ^s-7678763f49d2e89910575c10
 
 
-6 straipsnio 2 dalies pirmojoje pastraipoje po žodžių „gyvenamąją vietą“ įrašyti žodžius „ir kitas suteiktas paslaugas“, 3 ir [[#^s-13888ee0d5a61adfa04e6a0d|4 punktus]] pakeisti ir šią dalį išdėstyti taip:
+6 straipsnio 2 dalies pirmojoje pastraipoje po žodžių „gyvenamąją vietą“ įrašyti žodžius „ir kitas suteiktas paslaugas“, 3 ir 4 punktus pakeisti ir šią dalį išdėstyti taip:
 
 
 „2. Už išduodamus dokumentus dėl pilietybės, išvykimo į užsienį ir atvykimo į Lietuvos Respubliką bei gyvenimo joje, užsieniečių įdarbinimo, taip pat už dokumentą, patvirtinantį asmens gyvenamąją vietą, ir kitas suteiktas paslaugas nuo valstybės rinkliavos atleidžiami:

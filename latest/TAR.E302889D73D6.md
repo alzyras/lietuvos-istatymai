@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-b0e0c843db4f5f4fc7adaf4c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. sausio 6 d. dekretą Nr. 2005, ratifikuoja Lietuvos Respublikos ir Kroatijos Respublikos laisvosios prekybos sutartį, pasirašytą 2002 m. spalio 24 d. Zagrebe.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. sausio 6 d. dekretą Nr. 2005](https://e-tar.lt/portal/lt/legalAct/TAR.A7842E87EC11), ratifikuoja Lietuvos Respublikos ir Kroatijos Respublikos laisvosios prekybos sutartį, pasirašytą 2002 m. spalio 24 d. Zagrebe.
 
 
 

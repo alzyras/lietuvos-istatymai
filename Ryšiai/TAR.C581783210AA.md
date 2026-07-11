@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.551F0CDE5B64#^s-8411fa0f5060133559364858|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas]] - 2 citatos - AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 73 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.551F0CDE5B64#^s-f196df1d7eef6d29c79b03b7|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas]] - 2 citatos - AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 73 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.551F0CDE5B64#^s-8411fa0f5060133559364858|Lietuvos Respublikos autorių teisių ir gretutinių teisių įstatymas]] - AUTORIŲ TEISIŲ IR GRETUTINIŲ TEISIŲ ĮSTATYMO 73 STRAIPSNIO PAKEITIMO ĮSTATYMAS

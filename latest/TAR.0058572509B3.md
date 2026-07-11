@@ -240,4 +240,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2620, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24194
-Lietuvos Respublikos valstybinės kalbos inspekcijos įstatymo Nr. IX-672 4 ir [[#^s-455a441dfdc6aa88722a9578|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinės kalbos inspekcijos įstatymo Nr. IX-672 [[#^s-426c6de0676fb5236608c857|4]] ir [[#^s-455a441dfdc6aa88722a9578|5]] straipsnių pakeitimo įstatymas

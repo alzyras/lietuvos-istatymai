@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo denonsavimas ^s-7ed018f0772ee2fc296223e3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugsėjo 15 d. dekretą Nr. 755, denonsuoja 2005 m. balandžio 22 d. Kišiniove pasirašytą Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės susitarimą dėl piliečių kelionių, ratifikuotą Lietuvos Respublikos [[latest/TAR.3A2AE26338FC|2005 m. birželio 21 d. įstatymu Nr. X-264]] (Žin., 2005, Nr. 85-3134).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. rugsėjo 15 d. dekretą Nr. 755](https://e-tar.lt/portal/lt/legalAct/TAR.C3FBCBEC46F4), denonsuoja 2005 m. balandžio 22 d. Kišiniove pasirašytą Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės susitarimą dėl piliečių kelionių, ratifikuotą Lietuvos Respublikos [[latest/TAR.3A2AE26338FC|2005 m. birželio 21 d. įstatymu Nr. X-264]] (Žin., 2005, Nr. 85-3134).
 
 
 

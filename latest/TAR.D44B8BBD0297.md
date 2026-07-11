@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-7453edb8810f536c1bb1660c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. rugsėjo 26 d. dekretą Nr. 1916, ratifikuoja Lietuvos Respublikos Vyriausybės ir Graikijos Respublikos Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos, pasirašytą 2002 m. gegužės 15 d. Atėnuose.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. rugsėjo 26 d. dekretą Nr. 1916](https://e-tar.lt/portal/lt/legalAct/TAR.007C65012ACA), ratifikuoja Lietuvos Respublikos Vyriausybės ir Graikijos Respublikos Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos, pasirašytą 2002 m. gegužės 15 d. Atėnuose.
 
 
 

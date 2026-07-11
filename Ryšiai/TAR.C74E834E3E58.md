@@ -9,7 +9,8 @@ pavadinimas: "Lietuvos Respublikos vidaus reikalų, Specialiųjų tyrimų tarnyb
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.EDDCB615126E|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - 3 citatos - pareigūnų ir karių valstybinių pensijų įstatymo
+- [[latest/TAR.EDDCB615126E|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - 3 citatos - pareigūnų ir karių valstybinių pensijų įstatymo 11 straipsnio 2 dalyje
+- [[latest/TAR.ED38F243563C|Lietuvos Respublikos valstybinių pensijų įstatymas]] - Lietuvos Respublikos valstybinių pensijų įstatymo 3 straipsnio 3 dalies
 
 ## Šį įstatymą cituoja
 

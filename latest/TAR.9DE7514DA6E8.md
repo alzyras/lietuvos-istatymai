@@ -61,7 +61,7 @@ Lietuvos Respublikoje nustatomos tokios valstybinio socialinio draudimo rūšys:
 3) sveikatos draudimas, kai draudžiama gydymo ir profilaktikos išlaidų kompensacijoms, numatytoms šio įstatymo 23-26 straipsniuose; ^s-662547a78acf9f2983643d0d
 
 
-4) draudimas nuo nedarbo, kai draudžiama bedarbio pašalpoms pagal Gyventojų užimtumo įstatymą. Iš šio draudimo lėšų taip pat kompensuojama už kitas nedarbo priemones, numatytas Gyventojų [[latest/422c8b5042b811e6a8ae9e1795984391|užimtumo įstatyme]]; ^s-be54962202f37e6b31c7aa19
+4) draudimas nuo nedarbo, kai draudžiama bedarbio pašalpoms pagal Gyventojų užimtumo įstatymą. Iš šio draudimo lėšų taip pat kompensuojama už kitas nedarbo priemones, numatytas [Gyventojų užimtumo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.0B3E8942C5C4); ^s-be54962202f37e6b31c7aa19
 
 
 5) draudimas nuo nelaimingų atsitikimų gamyboje, kai draudžiama pašalpoms suluošinimo darbe ir profesinių susirgimų atvejais ir kitoms išmokoms, numatytoms Draudimo nuo nelaimingų atsitikimų darbe įstatyme. ^s-cfea36ff9e589e7ac6afc1ca
@@ -125,7 +125,7 @@ Iš valstybinio socialinio draudimo fondo kompensuojamos išlaidos ambulatorinio
 Visa bazinė vaistų kaina ir visa medicinos pagalbos priemonių kaina kompensuojama:
 
 
-1) apdraustųjų, išvardintų šio įstatymo [[#^s-e44056f06321361875d28ba0|4 straipsnio 1 punkte]], apdraustųjų, netekusių darbo ir gaunančių išeitinę arba bedarbio pašalpas, taip pat asmenų, gaunančių arba turinčių teisę gauti valstybinę socialinio draudimo pensiją, vaikams iki trejų metų; ^s-f2cbff4d32331513e79cff44
+1) apdraustųjų, išvardintų šio įstatymo 4 straipsnio 1 punkte, apdraustųjų, netekusių darbo ir gaunančių išeitinę arba bedarbio pašalpas, taip pat asmenų, gaunančių arba turinčių teisę gauti valstybinę socialinio draudimo pensiją, vaikams iki trejų metų; ^s-f2cbff4d32331513e79cff44
 
 
 2) I grupės invalidams, gaunantiems arba turintiems teisę gauti valstybinę socialinio draudimo pensiją; ^s-81836643f594d1db08d3f6ba
@@ -137,7 +137,7 @@ Visa bazinė vaistų kaina ir visa medicinos pagalbos priemonių kaina kompensuo
 80 procentų bazinės vaistų kainos ir 80 procentų medicinos pagalbos priemonių kainos kompensuojama:
 
 
-1) šio įstatymo [[#^s-e44056f06321361875d28ba0|4 straipsnio 1 punkte]] išvardintų apdraustųjų, netekusių darbo ir gaunančių išeitinę arba bedarbio pašalpas, taip pat asmenų, gaunančių arba turinčių teisę gauti valstybinę socialinio draudimo pensiją, vaikams nuo trejų iki septynerių metų; ^s-de2db429d5739d077af6dd03
+1) šio įstatymo 4 straipsnio 1 punkte išvardintų apdraustųjų, netekusių darbo ir gaunančių išeitinę arba bedarbio pašalpas, taip pat asmenų, gaunančių arba turinčių teisę gauti valstybinę socialinio draudimo pensiją, vaikams nuo trejų iki septynerių metų; ^s-de2db429d5739d077af6dd03
 
 
 2) gaunantiems arba turintiems teisę gauti valstybinę socialinio draudimo pensiją II grupės ir nedirbantiems III grupės invalidams bei kitiems nedirbantiems pensininkams.“ ^s-140188435ffcb1f27cc77958
@@ -152,7 +152,7 @@ Visa bazinė vaistų kaina ir visa medicinos pagalbos priemonių kaina kompensuo
 2) ketvirtąją dalį išdėstyti taip: ^s-5d84ba4aeece2665544bde01
 
 
-„Kitais atvejais apdraustiesiems, išvardintiems [[#^s-e44056f06321361875d28ba0|4 straipsnio 1 punkte]], ir jų vaikams nuo septynerių iki šešiolikos metų iš valstybinio socialinio draudimo lėšų apmokama 50 procentų kiekvienos sanatorinio gydymo dienos standartinės kainos, o pensininkams, gaunantiems valstybines socialinio draudimo pensijas, – 80 procentų standartinės kainos.“
+„Kitais atvejais apdraustiesiems, išvardintiems [[#^s-10188d218f61f295deb37bc3|4 straipsnio 1 punkte]], ir jų vaikams nuo septynerių iki šešiolikos metų iš valstybinio socialinio draudimo lėšų apmokama 50 procentų kiekvienos sanatorinio gydymo dienos standartinės kainos, o pensininkams, gaunantiems valstybines socialinio draudimo pensijas, – 80 procentų standartinės kainos.“
 
 
 7. 26 straipsnį išdėstyti taip: ^s-12707be5fab8e7310a64d780
@@ -185,7 +185,7 @@ I grupės invalidams, gaunantiems arba turintiems teisę gauti valstybinę socia
 „Valstybinio socialinio draudimo fondo biudžeto pajamos apskaitomos atskirose sąskaitose pagal Lietuvos Respublikos Vyriausybės nustatytus kiekvienos draudimo rūšies įmokų dydžius.“
 
 
-9. 31, 32, 33, 34 ir [[#^s-3b458c334cad78e2fd0a7b55|35 straipsnius]] išdėstyti taip: ^s-12344131c8d2e1d86aee487d
+9. 31, [[#^s-e8a172eef41d1618b560253c|32]], [[#^s-ecb1ccad2927238944184dcf|33]], [[#^s-56f5d5d0cfaba2e574f7392b|34]] ir [[#^s-3b458c334cad78e2fd0a7b55|35]] straipsnius išdėstyti taip: ^s-12344131c8d2e1d86aee487d
 
 
 „31 straipsnis. Valstybinio socialinio draudimo fondo biudžeto išlaidos
@@ -227,7 +227,7 @@ Drausdamas asmenis, išvardintus šio įstatymo [[#^s-e44056f06321361875d28ba0|4
 Įmokos skaičiuojamos nuo kiekvienam apdraustajam priskaičiuoto atlyginimo už darbą. Atlyginimo suma, nuo kurios skaičiuojamos įmokos, negali būti didesnė kaip Statistikos departamento skelbiamo vidutinio darbo užmokesčio trigubo dydžio suma ir mažesnė kaip kiekvieno kalendorinio mėnesio minimalus darbo užmokestis.
 
 
-Asmenys, išvardinti šio įstatymo [[#^s-99fc10c84e4c762dc1515421|4 straipsnio]] 2 ir 3 punktuose, valstybinio socialinio draudimo įmokas moka patys. Įmokų dydis bazinei valstybinei socialinio draudimo pensijai gauti apskaičiuojamas pagal aktuarinius skaičiavimus ir tvirtinamas Vyriausybės.
+Asmenys, išvardinti šio įstatymo [[#^s-99fc10c84e4c762dc1515421|4 straipsnio]] [[#^s-7d79fd5287e9a6ac4bffc757|2]] ir [[#^s-bdc5527729cbba80baa96634|3]] punktuose, valstybinio socialinio draudimo įmokas moka patys. Įmokų dydis bazinei valstybinei socialinio draudimo pensijai gauti apskaičiuojamas pagal aktuarinius skaičiavimus ir tvirtinamas Vyriausybės.
 
 
 Įmokų mokėjimo terminus ir tvarką nustato Valstybinio socialinio draudimo fondo biudžeto sudarymo ir vykdymo taisyklės.
@@ -255,7 +255,7 @@ Lietuvos bankų įstaigos valstybinio socialinio draudimo fondo lėšų apyvarto
 Lietuvos bankų įstaigos, pažeidusios šio straipsnio nuostatas ir padariusios žalos valstybinio socialinio draudimo fondui, privalo ją atlyginti.“
 
 
-11. 38, 39, 40, 41 ir [[#^s-584f9873a5b9c1e005e5591a|42 straipsnius]] išdėstyti taip: ^s-92a881ae4f0b683e4d57eea8
+11. 38, 39, [[#^s-82e266b7b8475a116bd6b55b|40]], [[#^s-e9364a75946d9089f62da260|41]] ir [[#^s-584f9873a5b9c1e005e5591a|42]] straipsnius išdėstyti taip: ^s-92a881ae4f0b683e4d57eea8
 
 
 „38 straipsnis. Atsakomybė už įmokų mokėjimo teisingumą

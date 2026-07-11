@@ -78,7 +78,7 @@ Vilnius
 15 straipsnio 2 dalyje vietoj žodžių „padarytus nusikaltimus“ įrašyti žodžius „padarytas nusikalstamas veikas“ ir šią dalį išdėstyti taip:
 
 
-„2. Už padarytas nusikalstamas veikas karo policininkas atsako Lietuvos Respublikos įstatymų nustatyta tvarka. Už administracinius teisės pažeidimus karo policininkas atsako pagal drausmės statutus, išskyrus Lietuvos Respublikos administracinių teisės pažeidimų kodekso 15 straipsnio 1 dalyje numatytas išimtis. Už drausminius nusižengimus karo policininkas atsako drausmės statutų nustatyta tvarka.“
+„2. Už padarytas nusikalstamas veikas karo policininkas atsako Lietuvos Respublikos įstatymų nustatyta tvarka. Už administracinius teisės pažeidimus karo policininkas atsako pagal drausmės statutus, išskyrus [Lietuvos Respublikos administracinių teisės pažeidimų kodekso 15 straipsnio 1 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytas išimtis. Už drausminius nusižengimus karo policininkas atsako drausmės statutų nustatyta tvarka.“
 
 
 

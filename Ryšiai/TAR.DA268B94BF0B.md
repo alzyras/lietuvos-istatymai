@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A7A6A8CC58D7#^s-0de233a34cfeb2e6f592d669|Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas]] - 3 citatos - 1111010ISTA0XI-1579
-- [[latest/TAR.A7A6A8CC58D7#^s-6eb8f919637fd59d5ce18879|Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas]] - 3 citatos - 1111010ISTA0XI-1579
+- [[latest/TAR.A7A6A8CC58D7#^s-0de233a34cfeb2e6f592d669|Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymas]] - 2 citatos - 1111010ISTA0XI-1579

@@ -105,7 +105,7 @@ BENDROSIOS NUOSTATOS
 9. Tranzitas – ne Lietuvos Respublikos strateginių prekių gabenimas per Lietuvos Respublikos muitų teritoriją. ^s-f4b2e93d05a93779276e764d
 
 
-10. Tarptautiniai neplatinimo režimai – Wassenaaro susitarimas (WA), Raketų technologijų kontrolės režimas (MTCR), Branduolinių tiekėjų grupė (NSG), Australijos grupė (AG), Konvencija dėl cheminio ginklo kūrimo, gamybos, kaupimo ir panaudojimo uždraudimo bei jo sunaikinimo (CWC), Konvencija dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo (BTWC), Branduolinio ginklo neplatinimo sutartis (NPT) ir kiti susitarimai bei tarptautiniai valstybių įsipareigojimai, kurių tikslas – politinėmis, ekonominėmis, diplomatinėms bei teisinėmis priemonėmis užkirsti kelią cheminio, biologinio ir branduolinio ginklo bei įprastinės ginkluotės platinimui. ^s-0d99fa3873fb9f107abb40d3
+10. Tarptautiniai neplatinimo režimai – Wassenaaro susitarimas (WA), Raketų technologijų kontrolės režimas (MTCR), Branduolinių tiekėjų grupė (NSG), Australijos grupė (AG), [Konvencija dėl cheminio ginklo kūrimo, gamybos, kaupimo ir panaudojimo uždraudimo bei jo sunaikinimo](https://e-tar.lt/portal/lt/legalAct/TAR.E7384FC11497) (CWC), Konvencija dėl bakteriologinių ir toksinių ginklų kūrimo, gamybos ir saugojimo uždraudimo bei jų sunaikinimo (BTWC), Branduolinio ginklo neplatinimo sutartis (NPT) ir kiti susitarimai bei tarptautiniai valstybių įsipareigojimai, kurių tikslas – politinėmis, ekonominėmis, diplomatinėms bei teisinėmis priemonėmis užkirsti kelią cheminio, biologinio ir branduolinio ginklo bei įprastinės ginkluotės platinimui. ^s-0d99fa3873fb9f107abb40d3
 
 
 
@@ -159,7 +159,7 @@ Vyriausybė ar jos įgaliota institucija, vadovaudamasi Europos Sąjungos, tarpt
 5. Ūkio ministerijos išduota licencija reikalinga į Strateginių prekių sąrašus neįtrauktų prekių eksportui, jei importuojančiai šaliai arba galutinio panaudojimo šaliai yra taikomas ginklų embargas, nustatytas Europos Sąjungos Tarybos, Europos Saugumo ir Bendradarbiavimo Organizacijos, Jungtinių Tautų Organizacijos Saugumo Tarybos sprendimais, ir jeigu [[#^s-4685572cfb16cb0333079d30|šio straipsnio 4 dalyje]] nurodytos institucijos yra raštu pranešusios juridiniam ar fiziniam asmeniui, kad atitinkamos prekės yra arba gali būti panaudotos į Bendrąjį karinės įrangos sąrašą įtrauktų prekių gamybai arba bandymų ar analitinės įrangos, naudojamos šioms prekėms kurti, gaminti ir prižiūrėti, gamybai, arba kaip nebaigtas gaminys gamykloje, kurioje gaminamos į Bendrąjį karinės įrangos sąrašą įtrauktos prekės. ^s-c6c6a898a918fdb5adf318be
 
 
-6. Jeigu juridinis ar fizinis asmuo žino, kad jo numatytos eksportuoti į Strateginių prekių sąrašus neįtrauktos prekės yra skirtos kuriam nors iš šio straipsnio 4 ir [[#^s-c6c6a898a918fdb5adf318be|5 dalyse]] nurodytų panaudojimo tikslų, jis turi raštu pranešti Ūkio ministerijai. Ši kartu su strateginių prekių eksporto, importo ir tranzito kontrolę vykdančiomis valstybės institucijomis ir įstaigomis sprendžia, ar reikia licencijos atitinkamai prekei eksportuoti. ^s-528ba599174f6cc6bad62c2f
+6. Jeigu juridinis ar fizinis asmuo žino, kad jo numatytos eksportuoti į Strateginių prekių sąrašus neįtrauktos prekės yra skirtos kuriam nors iš šio straipsnio [[#^s-4685572cfb16cb0333079d30|4]] ir [[#^s-c6c6a898a918fdb5adf318be|5]] dalyse nurodytų panaudojimo tikslų, jis turi raštu pranešti Ūkio ministerijai. Ši kartu su strateginių prekių eksporto, importo ir tranzito kontrolę vykdančiomis valstybės institucijomis ir įstaigomis sprendžia, ar reikia licencijos atitinkamai prekei eksportuoti. ^s-528ba599174f6cc6bad62c2f
 
 
 7. Eksportuojančios šalies valstybės institucijų prašymu juridiniam ar fiziniam asmeniui, importuojančiam strategines prekes, išduodamas importo sertifikatas arba analogiškas dokumentas, patvirtinantis strateginių prekių galutinį panaudojimą. ^s-5ac1418e09415fd45c51d681
@@ -201,7 +201,7 @@ APSKAITA
 1. Ūkio ministerija kaupia duomenis apie strategines prekes bei juridinius ir fizinius asmenis, eksportuojančius, importuojančius ar gabenančius tranzitu strategines prekes, šių prekių galutinius vartotojus ar kitaip su jomis susijusius asmenis ir naudoja šiuos duomenis strateginių prekių eksporto, importo ir tranzito kontrolei. ^s-c9cdb3e5a1176043bc52e880
 
 
-2. Strateginių prekių eksporto, importo ir tranzito statistinius duomenis Muitinės kodekso, Statistikos įstatymo ir kitų teisės aktų nustatyta tvarka renka, apdoroja ir teikia muitinės įstaigos. ^s-8668ae330c3a928a96383dc2
+2. Strateginių prekių eksporto, importo ir tranzito statistinius duomenis [Muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), Statistikos įstatymo ir kitų teisės aktų nustatyta tvarka renka, apdoroja ir teikia muitinės įstaigos. ^s-8668ae330c3a928a96383dc2
 
 
 

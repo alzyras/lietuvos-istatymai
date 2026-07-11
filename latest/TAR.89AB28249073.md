@@ -66,41 +66,41 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 ### 3 straipsnis. 3 straipsnio pakeitimas ir papildymas ^s-4cb7a413d5b0e9f658a10b05
 
 
-1. Pakeisti [[#^s-c7d9852a8ca832c782a10c5e|3 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-c7d9852a8ca832c782a10c5e
+1. Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip: ^s-c7d9852a8ca832c782a10c5e
 
 
 
 „1. Duomenys apie žemės gelmes (geologiniai duomenys) – tiriant ir (arba) naudojant žemės gelmes gauti visi duomenys apie žemės gelmių sudėtį, sandarą ir fizines savybes, tarp jų – gręžinių kernas, geofizinių tyrimų medžiaga, fosilijų, uolienų, mineralų rinkiniai, jų fizinių, mechaninių, radiologinių, cheminių ir kitų savybių tyrimai, taip pat jų apibendrinimo rezultatai.“
 
 
-2. Papildyti [[#^s-4cb7a413d5b0e9f658a10b05|3 straipsnį]] nauja [[#^s-62266102417d96d5bd542070|2 dalimi]]: ^s-62266102417d96d5bd542070
+2. Papildyti [[#^s-4cb7a413d5b0e9f658a10b05|3 straipsnį]] nauja 2 dalimi: ^s-62266102417d96d5bd542070
 
 
 „2. Hidraulinis uolienų ardymas – gelmių išteklių (dažniausiai tradicinių angliavandenilių, išsklaidytųjų angliavandenilių ir žemės gelmių šiluminės energijos) tyrimo ir naudojimo būdas, kai, gręžinyje sukėlus didelį slėgį, uolienų storymėje atveriami plyšiai ir į juos įspaudžiamas vandens, smėlio ar dirbtinių kietų dalelių ir cheminių medžiagų mišinys, siekiant padidinti uolienų storymės laidumą ir produktyvumą.“
 
 
-3. Papildyti [[#^s-4cb7a413d5b0e9f658a10b05|3 straipsnį]] nauja [[#^s-4bcc95b25e344b5b1cb65b64|3 dalimi]]: ^s-4bcc95b25e344b5b1cb65b64
+3. Papildyti [[#^s-4cb7a413d5b0e9f658a10b05|3 straipsnį]] nauja 3 dalimi: ^s-4bcc95b25e344b5b1cb65b64
 
 
 „3. Kasybos pramonės atliekos – žemės gelmių tyrimo ir naudojimo metu susidariusios atliekos, įskaitant medžiagas, kurios buvo naudojamos žemės gelmių tyrimo ir naudojimo metu.“
 
 
-4. Buvusią [[#^s-62266102417d96d5bd542070|3 straipsnio 2 dalį]] laikyti [[#^s-20bc5ffa73f0a3e995b23b5d|4 dalimi]]. ^s-20bc5ffa73f0a3e995b23b5d
+4. Buvusią [[#^s-62266102417d96d5bd542070|3 straipsnio 2 dalį]] laikyti 4 dalimi. ^s-20bc5ffa73f0a3e995b23b5d
 
 
-5. Papildyti [[#^s-4cb7a413d5b0e9f658a10b05|3 straipsnį]] nauja [[#^s-b7e1fb0d27afda3b521661de|5 dalimi]]: ^s-b7e1fb0d27afda3b521661de
+5. Papildyti [[#^s-4cb7a413d5b0e9f658a10b05|3 straipsnį]] nauja 5 dalimi: ^s-b7e1fb0d27afda3b521661de
 
 
 „5. Laidojimas žemės gelmių ertmėse – žemės gelmių išteklių tyrimo ir naudojimo ir kitos pramoninės veiklos metu susidariusių atliekų (toliau – kasybos pramonės atliekos ir kitos atliekos) talpinimas arba palikimas žemės gelmių ertmėse, nesudarant galimybės kontroliuoti jų būklę ir iškelti visą jų kiekį į žemės paviršių jas panaudoti ar perdirbti.“
 
 
-6. Papildyti [[#^s-4cb7a413d5b0e9f658a10b05|3 straipsnį]] nauja [[#^s-159bb3ad4df21c960843d50c|6 dalimi]]: ^s-159bb3ad4df21c960843d50c
+6. Papildyti [[#^s-4cb7a413d5b0e9f658a10b05|3 straipsnį]] nauja 6 dalimi: ^s-159bb3ad4df21c960843d50c
 
 
 „6. Laikymas žemės gelmių ertmėse – kasybos pramonės atliekų ir kitų atliekų talpinimo žemės gelmių ertmėse būdas, kad būtų galima kontroliuoti jų būklę, o prireikus visą jų kiekį iškelti į žemės paviršių jas panaudoti ar perdirbti.“
 
 
-7. Buvusią [[#^s-4bcc95b25e344b5b1cb65b64|3 straipsnio 3 dalį]] laikyti [[#^s-fe80ffa111b15d826ad1364f|7 dalimi]], ją pakeisti ir išdėstyti taip: ^s-fe80ffa111b15d826ad1364f
+7. Buvusią [[#^s-4bcc95b25e344b5b1cb65b64|3 straipsnio 3 dalį]] laikyti 7 dalimi, ją pakeisti ir išdėstyti taip: ^s-fe80ffa111b15d826ad1364f
 
 
 „7. Naudingosios iškasenos – žemės gelmėse esančios gamtinės medžiagos, kurias galima naudoti gamyboje ar kitoms reikmėms:
@@ -121,7 +121,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 5) vertingieji mineralai.“ ^s-662e0f8016fc192e35958ce6
 
 
-8. Buvusias [[#^s-4cb7a413d5b0e9f658a10b05|3 straipsnio]] 4–[[#^s-e6b13a00fbb7c7af49b5cd87|11 dalis]] laikyti atitinkamai 8–15 dalimis. ^s-c2b13a61ec9b70b03efc47f8
+8. Buvusias [[#^s-4cb7a413d5b0e9f658a10b05|3 straipsnio]] [[#^s-20bc5ffa73f0a3e995b23b5d|4]]–[[#^s-e6b13a00fbb7c7af49b5cd87|11]] dalis laikyti atitinkamai 8–15 dalimis. ^s-c2b13a61ec9b70b03efc47f8
 
 
 9. Pakeisti [[#^s-f3b4afc08b5502a345bc744a|3 straipsnio 12 dalį]] ir ją išdėstyti taip: ^s-23c670387aa7b4e4de953445

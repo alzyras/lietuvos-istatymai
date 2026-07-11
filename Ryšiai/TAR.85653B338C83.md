@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos Lietuvos valstybinio komercinio banko restruk
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.B6B636C7384A#^s-db1df2bf427612bb60a5ca42|Lietuvos Respublikos bankų įstatymas]] - bankų įstatymo 34 straipsnio 6 dalį
+_Nėra._
 
 ## Šį įstatymą cituoja
 

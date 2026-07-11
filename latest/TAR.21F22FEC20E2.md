@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-15bcd285e3df33ff5092ec8a
 
 
-1. 2 straipsnio 1 dalies 1 ir [[#^s-93013f0c5b0b8df801855fc8|2 punktuose]] vietoj skaičiaus „17“ įrašyti skaičių „19“ ir šią dalį išdėstyti taip: ^s-f10ec855c6e5ccbf5520dea4
+1. 2 straipsnio 1 dalies 1 ir 2 punktuose vietoj skaičiaus „17“ įrašyti skaičių „19“ ir šią dalį išdėstyti taip: ^s-f10ec855c6e5ccbf5520dea4
 
 
 „1. Artimas pagalbininkas:
@@ -136,7 +136,7 @@ Vilnius
 5. 14 straipsnio 11 dalyje vietoj skaičiaus ir žodžių „9 dalis netaikoma“ įrašyti skaičius ir žodžius „2 ir 8 dalys netaikomos“ ir šią dalį išdėstyti taip: ^s-3c1406079b767d1274c2e25e
 
 
-„11. Šio straipsnio 2 ir 8 dalys netaikomos advokatams ir advokatų padėjėjams tuo metu, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese arba dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo.“
+„11. Šio straipsnio [[#^s-d7f1c466c861460edb3d010b|2]] ir 8 dalys netaikomos advokatams ir advokatų padėjėjams tuo metu, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese arba dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo.“
 
 
 

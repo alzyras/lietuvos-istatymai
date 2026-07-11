@@ -40,7 +40,7 @@ Vilnius
 1. Pakeisti 52 straipsnio 3 dalį ir ją išdėstyti taip: ^s-5d9008f33654e14b228c566a
 
 
-„3. Jei neperskaičiuota pensija viršija ar po indeksavimo pradeda viršyti maksimalią neperskaičiuotą pensiją – 500 litų, ji mokama 500 litų dydžio, kol tam asmeniui perskaičiuota pagal šį įstatymą pensija ima viršyti 500 litų. Kai šio straipsnio 4 dalyje nustatyta tvarka patvirtinama nauja maksimali neperskaičiuota pensija, mokama neperskaičiuota pensija indeksuojama šio straipsnio 1 ir [[#^s-a3b612bfd82966f1496813d0|2 dalyse]] nustatyta tvarka, neviršijant naujos maksimalios neperskaičiuotos pensijos.“
+„3. Jei neperskaičiuota pensija viršija ar po indeksavimo pradeda viršyti maksimalią neperskaičiuotą pensiją – 500 litų, ji mokama 500 litų dydžio, kol tam asmeniui perskaičiuota pagal šį įstatymą pensija ima viršyti 500 litų. Kai šio straipsnio 4 dalyje nustatyta tvarka patvirtinama nauja maksimali neperskaičiuota pensija, mokama neperskaičiuota pensija indeksuojama šio straipsnio 1 ir [[#^s-a3b612bfd82966f1496813d0|2]] dalyse nustatyta tvarka, neviršijant naujos maksimalios neperskaičiuotos pensijos.“
 
 
 2. Papildyti 52 straipsnį 4 dalimi: ^s-a3b612bfd82966f1496813d0

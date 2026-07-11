@@ -87,7 +87,7 @@ Papildyti [[#^s-ff07f9f6e42760867ffbe651|3 straipsnį 2 dalimi]] ir visą straip
 ### 4 straipsnis. Priedėlio 2 skyriaus trečiojo skirsnio 1 dalies pakeitimas ^s-9ecf81ed227ab4ef2dc015a1
 
 
-1. 2 skyriaus trečiojo skirsnio [[#^s-a912026d8ecfda5a34a0683c|1 dalies]] a punkto 6 pastraipoje vietoj žodžio „aktyvųjį“ įrašyti žodį „mobilizacinį“, po žodžio „rezervą“ įrašyti žodžius „pagal nacionalinius ir NATO kolektyvinės gynybos planus“ ir šią pastraipą išdėstyti taip: ^s-a912026d8ecfda5a34a0683c
+1. 2 skyriaus trečiojo skirsnio 1 dalies a punkto 6 pastraipoje vietoj žodžio „aktyvųjį“ įrašyti žodį „mobilizacinį“, po žodžio „rezervą“ įrašyti žodžius „pagal nacionalinius ir NATO kolektyvinės gynybos planus“ ir šią pastraipą išdėstyti taip: ^s-a912026d8ecfda5a34a0683c
 
 
 „– rengdama gynybai kariuomenę ir jos mobilizacinį rezervą pagal nacionalinius ir NATO kolektyvinės gynybos planus;“.
@@ -110,7 +110,7 @@ Pakeisti 3 skyrių ir jį išdėstyti taip:
 „3 SKYRIUS
 TEISINIAI NACIONALINIO SAUGUMO PAGRINDAI
 
-Lietuvos nacionalinio saugumo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, šis bei kiti įstatymai ir tarptautinės sutartys.
+Lietuvos nacionalinio saugumo teisinis pagrindas yra [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis bei kiti įstatymai ir tarptautinės sutartys.
 Kertinės Konstitucijos normos, tiesiogiai reglamentuojančios nacionalinio saugumo klausimus, yra:
 – Konstitucijos [[#^s-a67ca5a9406d69a75953d827|1 straipsnis]], skelbiantis, kad Lietuvos valstybė yra nepriklausoma demokratinė respublika;
 – Konstitucijos [[#^s-07ba52e75e252dc833b7ae05|3 straipsnis]], skelbiantis, kad niekas negali varžyti ar riboti Tautos suvereniteto, savintis visai Tautai priklausančių teisių;
@@ -120,7 +120,7 @@ Kertinės Konstitucijos normos, tiesiogiai reglamentuojančios nacionalinio saug
 – Konstitucijos 142 straipsnis, įpareigojantis Seimą ir Respublikos Prezidentą priimti sprendimus panaudoti ginkluotąsias pajėgas bei imtis kitų veiksmų, būtinų Tėvynei apginti ar valstybės tarptautiniams įsipareigojimams vykdyti;
 – Konstitucijos 144 straipsnis, suteikiantis galią Seimui ir Respublikos Prezidentui įvesti nepaprastąją padėtį, jei iškyla grėsmė konstitucinei santvarkai ar visuomenės rimčiai; ir
 – Konstitucijos sudedamosios dalies – 1992 m. birželio 8 d. Konstitucinio akto – reikalavimai niekada ir jokiu pavidalu nesijungti į jokias buvusios SSRS pagrindu kuriamas naujas politines, karines, ekonomines ar kitokias valstybių sąjungas bei sandraugas.
-Nacionalinis saugumas taip pat grindžiamas Jungtinių Tautų Chartija, Europos saugumo ir bendradarbiavimo organizacijos dokumentais, Šiaurės Atlanto sutartimi, žmogaus teisių apsaugos ir kitomis daugiašalėmis ir dvišalėmis tarptautinėmis sutartimis, įsigaliojusiomis Lietuvos Respublikai, taip pat visuotinai pripažintais tarptautinės teisės principais ir normomis.“
+Nacionalinis saugumas taip pat grindžiamas [Jungtinių Tautų Chartija](https://e-tar.lt/portal/lt/legalAct/TAR.DD12C52B498E), Europos saugumo ir bendradarbiavimo organizacijos dokumentais, Šiaurės Atlanto sutartimi, žmogaus teisių apsaugos ir kitomis daugiašalėmis ir dvišalėmis tarptautinėmis sutartimis, įsigaliojusiomis Lietuvos Respublikai, taip pat visuotinai pripažintais tarptautinės teisės principais ir normomis.“
 
 
 
@@ -181,7 +181,7 @@ Kitas prioritetas – patikima, Europos Sąjungos reikalavimus atitinkanti valst
 ### 8 straipsnis. Priedėlio 7 skyriaus pakeitimas ^s-c31562b9f27c55846dd99563
 
 
-1. 7 skyriaus pirmojo skirsnio [[#^s-2edce88ea20783e4a1674909|1 dalyje]] po žodžio „besąlyginis“ įrašyti žodžius „taip pat derinamas su NATO kolektyvinės gynybos principų įgyvendinimu“, [[#^s-93c5750de80c1e9131de61bd|2 dalyje]] po žodžių „gina valstybės“ įrašyti žodžius „ir NATO sąjungininkų“, vietoj žodžio „įmanomais“ įrašyti žodžius „pagal tarptautinę teisę leistinais“, [[#^s-69f85642922a4a68546f3b75|3 dalyje]] po žodžio „Siekdama“ įrašyti žodžius „NATO sąjungininkų ir kitokios“ ir visą skirsnį išdėstyti taip: ^s-2edce88ea20783e4a1674909
+1. 7 skyriaus pirmojo skirsnio 1 dalyje po žodžio „besąlyginis“ įrašyti žodžius „taip pat derinamas su NATO kolektyvinės gynybos principų įgyvendinimu“, [[#^s-93c5750de80c1e9131de61bd|2 dalyje]] po žodžių „gina valstybės“ įrašyti žodžius „ir NATO sąjungininkų“, vietoj žodžio „įmanomais“ įrašyti žodžius „pagal tarptautinę teisę leistinais“, [[#^s-69f85642922a4a68546f3b75|3 dalyje]] po žodžio „Siekdama“ įrašyti žodžius „NATO sąjungininkų ir kitokios“ ir visą skirsnį išdėstyti taip: ^s-2edce88ea20783e4a1674909
 
 
 
@@ -220,19 +220,19 @@ Gynybos besąlyginumas reiškia, kad Lietuvos gynyba nėra saistoma jokių sąly
 – valstybės atsargomis ir kitais mobilizacinio rezervo ištekliais.“
 
 
-3. 7 skyriaus antrojo skirsnio [[#^s-69f85642922a4a68546f3b75|3 dalyje]] po žodžio „pajėgoms“ įrašyti žodžius „taip pat“, išbraukti žodžius „Karo akademija“, vietoj žodžių „savanorių piliečių ginkluoto pasipriešinimo (partizanų) būriai“ įrašyti žodžius „bei kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) būriai, pavaldūs ginkluotųjų pajėgų vadovybei“ ir šią dalį išdėstyti taip: ^s-69f85642922a4a68546f3b75
+3. 7 skyriaus antrojo skirsnio 3 dalyje po žodžio „pajėgoms“ įrašyti žodžius „taip pat“, išbraukti žodžius „Karo akademija“, vietoj žodžių „savanorių piliečių ginkluoto pasipriešinimo (partizanų) būriai“ įrašyti žodžius „bei kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) būriai, pavaldūs ginkluotųjų pajėgų vadovybei“ ir šią dalį išdėstyti taip: ^s-69f85642922a4a68546f3b75
 
 
 „Valstybės ginkluotąsias pajėgas taikos metu sudaro visos kariuomenės rūšys ir jos aktyvusis rezervas. Įvedus karo padėtį ar ginkluotos gynybos nuo agresijos (karo) metu ginkluotosioms pajėgoms taip pat priskiriama: Valstybės sienos apsaugos tarnyba, specializuoti policijos daliniai, koviniai Šaulių sąjungos būriai bei kiti koviniai piliečių ir jų organizacijų ginkluoto pasipriešinimo (partizanų) būriai, pavaldūs ginkluotųjų pajėgų vadovybei.“
 
 
-4. 7 skyriaus antrojo skirsnio [[#^s-8c4b32bd13a71b5b1b736eb6|4 dalyje]] po žodžių „besąlyginės gynybos principas“ įrašyti žodžius „įgyvendinamas atsižvelgiant į NATO kolektyvinės gynybos principą“ ir šią dalį išdėstyti taip: ^s-8c4b32bd13a71b5b1b736eb6
+4. 7 skyriaus antrojo skirsnio 4 dalyje po žodžių „besąlyginės gynybos principas“ įrašyti žodžius „įgyvendinamas atsižvelgiant į NATO kolektyvinės gynybos principą“ ir šią dalį išdėstyti taip: ^s-8c4b32bd13a71b5b1b736eb6
 
 
 „Lietuvos gynybos sistemos pagrindas – visuotinės ir besąlyginės gynybos principas, įgyvendinamas atsižvelgiant į NATO kolektyvinės gynybos principą. Šis principas įtvirtinamas įstatymuose, kituose gynybą reglamentuojančiuose teisės aktuose, kariuomenės bei jos aktyviojo rezervo parengimo gynybai planuose ir kituose dokumentuose. Šiuo principu taip pat grindžiamas piliečių mokymas ir rengimasis gynybai bei pasipriešinimui.“
 
 
-5. 7 skyriaus antrojo skirsnio [[#^s-22cf9b4a7fae91b597938e13|5 dalyje]] po žodžio „agresijos“ įrašyti žodžius „įgyvendinamai individualiai ir kartu su NATO sąjungininkų pajėgomis“ ir šią dalį išdėstyti taip: ^s-22cf9b4a7fae91b597938e13
+5. 7 skyriaus antrojo skirsnio 5 dalyje po žodžio „agresijos“ įrašyti žodžius „įgyvendinamai individualiai ir kartu su NATO sąjungininkų pajėgomis“ ir šią dalį išdėstyti taip: ^s-22cf9b4a7fae91b597938e13
 
 
 „Visuotiniu piliečių pasirengimu pasipriešinimui ir ginkluotųjų pajėgų pasirengimu besąlygiškai gynybai nuo agresijos, įgyvendinamai individualiai ir kartu su NATO sąjungininkų pajėgomis, Lietuva siekia atgrasinti kiekvieną potencialų užpuoliką.“
@@ -282,7 +282,7 @@ Gynybos besąlyginumas reiškia, kad Lietuvos gynyba nėra saistoma jokių sąly
 ### 10 straipsnis. Priedėlio 10 skyriaus pakeitimas ^s-1511c14d35435519baff9b60
 
 
-1. 10 skyriaus pirmojo skirsnio [[#^s-5657d59473258f38f72fcb63|1 dalies]] 3 pastraipoje išbraukti žodžius „Vakarų Europos Sąjungoje“ ir šią pastraipą išdėstyti taip: ^s-5657d59473258f38f72fcb63
+1. 10 skyriaus pirmojo skirsnio 1 dalies 3 pastraipoje išbraukti žodžius „Vakarų Europos Sąjungoje“ ir šią pastraipą išdėstyti taip: ^s-5657d59473258f38f72fcb63
 
 
 „– narystė Šiaurės Atlanto sutarties organizacijoje ir Europos Sąjungoje;“.
@@ -333,7 +333,7 @@ Lietuva, tapdama visateise Šiaurės Atlanto sutarties organizacijos, įskaitant
 ### 11 straipsnis. Priedėlio 11 skyriaus 1 dalies pakeitimas ir papildymas ^s-99bd17637f50391a44e6c29c
 
 
-1. Pakeisti 11 skyriaus [[#^s-342d0e733bf230939fb52fc3|1 dalies]] 3 pastraipą ir ją išdėstyti taip: ^s-342d0e733bf230939fb52fc3
+1. Pakeisti 11 skyriaus 1 dalies 3 pastraipą ir ją išdėstyti taip: ^s-342d0e733bf230939fb52fc3
 
 
 „– kariuomenės ir jos mobilizacinio rezervo rengimo;“.
@@ -463,7 +463,7 @@ Respublikos Prezidentas, gavęs Seimo pritarimą, skiria kariuomenės vadą. Kra
 „Seimas įgyvendina šių pagrindų nuostatas sukurdamas teisinę nacionalinio saugumo ir gynybos bazę – įstatymais reglamentuoja šias sritis: krašto apsaugos taikos metu; visuotinės gynybos ir pasipriešinimo agresoriui ar okupantui; Krašto apsaugos ministerijos ir kitų krašto apsaugos sistemos institucijų veiklos; kariuomenės; privalomosios krašto apsaugos tarnybos; savanoriškosios krašto apsaugos tarnybos; alternatyviosios krašto apsaugos tarnybos; Valstybės sienos apsaugos tarnybos pasirengimo ir dalyvavimo krašto gynyboje; mobilizacijos; bendros civilinės saugos ir gelbėjimo sistemos; piliečių rengimo pasipriešinimui, įskaitant institucinę mokymo struktūrą; Valstybės gynimo tarybos; karių pareigų, teisių ir atsakomybės; kolaboravimo veikų ir atsakomybės už jas; valstybės paslapčių apsaugos; policijos, Specialiųjų tyrimų tarnybos, Vadovybės apsaugos departamento, Valstybės saugumo departamento, kitų žvalgybos ir kontržvalgybos tarnybų ir operatyvinės veiklos subjektų veiklos bei kitas.“
 
 
-2. Pakeisti 15 skyriaus antrojo skirsnio [[#^s-5bbb9666fe502e2701072f5f|2 dalį]] ir ją išdėstyti taip: ^s-5bbb9666fe502e2701072f5f
+2. Pakeisti 15 skyriaus antrojo skirsnio 2 dalį ir ją išdėstyti taip: ^s-5bbb9666fe502e2701072f5f
 
 
 „Ginkluoto užpuolimo atveju, kai Respublikos Prezidentas nedelsdamas priima sprendimą dėl gynybos nuo ginkluotos agresijos, įskaitant sprendimą dalyvauti kolektyvinės gynybos operacijoje, įveda karo padėtį ar skelbia mobilizaciją, Seimas tvirtina šiuos sprendimus, užtikrindamas ginkluotą gynybą ir Lietuvos tarptautinių įsipareigojimų pagal kolektyvinės gynybos sutartis vykdymą. Seimas taip pat priima sprendimus dėl Lietuvos dalyvavimo kitose tarptautinėse karinėse operacijose, o neatidėliotinais atvejais, kai tokį sprendimą priima Respublikos Prezidentas, Seimas tvirtina arba panaikina šį sprendimą.“
@@ -512,14 +512,14 @@ KRAŠTO APSAUGOS SISTEMA
 Krašto apsaugos sistemą sudaro Krašto apsaugos ministerija, kariuomenė (ginkluotosios pajėgos), Lietuvos karo akademija, puskarininkių mokykla ir kitos karo mokymo įstaigos, žvalgybos ir kontržvalgybos tarnyba (Antrasis operatyvinių tarnybų departamentas prie Krašto apsaugos ministerijos), karo prievolės ir mobilizacijos bei kitos krašto apsaugos ministrui pavaldžios valstybės institucijos, krašto apsaugos reikmėms paskirti infrastruktūros objektai ir įmonės. Krašto apsaugos ministerija yra vadovaujanti krašto apsaugos sistemos institucija. Ministerijos integrali dalis yra Gynybos štabas, tiesiogiai pavaldus kariuomenės vadui. Krašto apsaugos ministerijos ir visos krašto apsaugos sistemos struktūrą bei veiklą išsamiau reglamentuoja kiti įstatymai ir kiti teisės aktai.
 Krašto apsaugos ministerijos ir visos krašto apsaugos sistemos veiklai vadovauja krašto apsaugos ministras. Jis atsako už gynybos politikos įgyvendinimą, krašto apsaugos sistemos plėtrą ir jos parengimą ginti valstybę. Ministro teises, pareigas, funkcijas ir atsakomybę nustato įstatymai ir kiti teisės aktai.
 Lietuvos kariuomenė yra valstybės ginkluotos gynybos institucija, pagrindinė krašto apsaugos sistemos dalis. Kariuomenė yra ištikima Lietuvos Respublikai, jos Konstitucijai, tarnauja valstybei ir visuomenei, paklūsta Lietuvos piliečių demokratiškai išrinktai valstybės valdžiai.
-Aukščiausiasis valstybės karinis pareigūnas, kariniais klausimais atstovaujantis Lietuvos kariuomenei, yra kariuomenės vadas. Svarbiausias jo uždavinys taikos metu – parengti kariuomenę ginkluotai valstybės gynybai. Kariuomenės vadas taikos metu yra tiesiogiai pavaldus krašto apsaugos ministrui ir vykdo nustatytą kariuomenės plėtros politiką. Kariuomenės vado skyrimo ir atleidimo tvarką, teises, pareigas, funkcijas ir atsakomybę nustato Lietuvos Respublikos Konstitucija, įstatymai bei kiti teisės aktai. Įstatymai bei kiti teisės aktai taip pat nustato lauko pajėgų vado skyrimo ir atleidimo tvarką, teises, pareigas, funkcijas ir atsakomybę.
+Aukščiausiasis valstybės karinis pareigūnas, kariniais klausimais atstovaujantis Lietuvos kariuomenei, yra kariuomenės vadas. Svarbiausias jo uždavinys taikos metu – parengti kariuomenę ginkluotai valstybės gynybai. Kariuomenės vadas taikos metu yra tiesiogiai pavaldus krašto apsaugos ministrui ir vykdo nustatytą kariuomenės plėtros politiką. Kariuomenės vado skyrimo ir atleidimo tvarką, teises, pareigas, funkcijas ir atsakomybę nustato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymai bei kiti teisės aktai. Įstatymai bei kiti teisės aktai taip pat nustato lauko pajėgų vado skyrimo ir atleidimo tvarką, teises, pareigas, funkcijas ir atsakomybę.
 Taikos metu kariuomenė:
 – saugo valstybės teritoriją, oro erdvę, teritorinius vandenis ir išimtinę ekonominę zoną bei karinius objektus;
 – palaiko kovinę parengtį;
 – rengiasi ir Konstitucijos bei įstatymų nustatyta tvarka Respublikos Prezidentui bei Seimui nusprendus dalyvauja tarptautinėse karinėse operacijose;
 – įstatymų numatytais atvejais ir tvarka gali būti pasiųsta padėti civilinei valdžiai.
 Kariuomenė turi būti rengiama ugdant kario asmenybę, pilietiškumą ir patriotizmą, profesionalius įgūdžius ir kario etiką. Vadai turi puoselėti karių ir civilių gyventojų tarpusavio supratimą ir pasitikėjimą.
-Karo tarnybos rūšis ir atlikimo tvarką bei karių teisinį statusą reglamentuoja Lietuvos Respublikos Konstitucija, įstatymai ir kiti teisės aktai.
+Karo tarnybos rūšis ir atlikimo tvarką bei karių teisinį statusą reglamentuoja [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymai ir kiti teisės aktai.
 Kariuomenę sudaro sausumos pajėgos (į kurias yra integruoti krašto apsaugos savanoriai) bei karinės oro ir karinės jūrų pajėgos, taip pat aktyvusis rezervas. Kariuomenės pajėgų rūšių sudėtį, uždavinius ir funkcijas nustato įstatymai bei kiti teisės aktai.
 Principinę kariuomenės struktūrą krašto apsaugos ministro teikimu, jam gavus Valstybės gynimo tarybos pritarimą ir Vyriausybės įgaliojimą, tvirtina Seimas.
 Teisėsaugą kariuomenėje ir visoje krašto apsaugos sistemoje įstatymų ir kitų teisės aktų nustatyta tvarka vykdo Lietuvos teisėsaugos institucijų specializuoti padaliniai ir karo policija. Karinės teisėsaugos specializuoti padaliniai ir pareigybės steigiami prokuratūros ir ikiteisminio tyrimo institucijose. Karių ir karininkų bylas dėl tarnybos arba su tarnyba susijusių teisės pažeidimų nagrinėja specializuotas teismas. Karo policijos statusą, jurisdikciją, uždavinius ir funkcijas nustato įstatymai.“

@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 20 straipsnio pakeitimas ^s-fbb0d1d189e2a786305e5e9e
 
 
-Papildyti 20 straipsnį 7 dalimi:
+Papildyti [[latest/TAR.5DC1759E42CB#^s-fc34dbcf350053c5bc456719|20 straipsnį 7 dalimi]]:
 
 
 „7. Transporto priemonės savininkas (valdytojas) privalo užtikrinti, kad bendrojo naudojimo vietose nebūtų laikoma neeksploatuojama transporto priemonė (transporto priemonė, kuri dėl akivaizdžių trūkumų ar išorinių požymių nenaudojama ar negali būti naudojama pagal tikslinę paskirtį) arba negalima eksploatuoti transporto priemonė (transporto priemonė, kuriai šio įstatymo nustatytais pagrindais ilgiau kaip tris mėnesius yra sustabdytas ar panaikintas leidimas dalyvauti viešajame eisme, arba ilgiau kaip tris mėnesius neįregistruota ar ilgiau kaip tris mėnesius išregistruota transporto priemonė).“

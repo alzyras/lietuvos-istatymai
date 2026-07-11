@@ -40,10 +40,10 @@ Vilnius
 ### 1 straipsnis. 6 straipsnio pakeitimas ^s-fe55386fb4278e7eeb1a86b7
 
 
-Pakeisti 6 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/2494f17042ba11e6a8ae9e1795984391#^s-266a83e2f5d0349109d2bee6|6 straipsnį]] ir jį išdėstyti taip:
 
 
-„6 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas
+„[[latest/2494f17042ba11e6a8ae9e1795984391#^s-266a83e2f5d0349109d2bee6|6 straipsnis]]. Įstatymo įsigaliojimas ir įgyvendinimas
 
 
 1. Šis įstatymas, išskyrus [[#^s-650de1d2bb67a2964f1ddf3c|šio straipsnio 2 dalį]], įsigalioja 2017 m. liepos 1 d. ^s-51f7152de95828cbe24ceb1c

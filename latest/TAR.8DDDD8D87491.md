@@ -179,7 +179,7 @@ Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
 25. Prekiautojas gyvūnais – asmuo, turintis Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka išduotą leidimą prekiauti gyvūnais. ^s-3c8db4ed23c80b873e069e1c
 
 
-26. Skerdimas – kaip apibrėžta 2009 m. rugsėjo 24 d. Tarybos reglamento (EB) Nr. 1099/2009 dėl žudomų gyvūnų apsaugos (toliau – Reglamentas (EB) Nr. 1099/2009) [[#^s-e90d21eac642fe2ee231cd96|2 straipsnio]] j punkte. ^s-046ffb9ceac9f96ef22925b9
+26. Skerdimas – kaip apibrėžta 2009 m. rugsėjo 24 d. Tarybos [reglamento (EB) Nr. 1099/2009](https://eur-lex.europa.eu/eli/reg/1099/2009/oj) dėl žudomų gyvūnų apsaugos (toliau – [Reglamentas (EB) Nr. 1099/2009](https://eur-lex.europa.eu/eli/reg/1099/2009/oj)) [[#^s-e90d21eac642fe2ee231cd96|2 straipsnio]] j punkte. ^s-046ffb9ceac9f96ef22925b9
 Straipsnio dalies pakeitimai:
 Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
@@ -315,7 +315,7 @@ Nr. XIV-2484, 2024-03-14, paskelbta TAR 2024-03-15, i. k. 2024-04798
 12) tvirtina gyvūnų galimybes stimuliuojančių medžiagų, didinančių gyvūnų produktyvumą, darbingumą, sportinius rezultatus, naudojimo reikalavimus; ^s-64b716ee69402a13d21f4af0
 
 
-13) organizuoja ir vykdo šios dalies 2, 3, 6–9, [[#^s-64b716ee69402a13d21f4af0|12 punktuose]] nustatytų reikalavimų laikymosi priežiūrą, įskaitant Reglamento (ES) 2017/625 21 straipsnio 1 dalyje nustatytą oficialią kontrolę; ^s-a3e980871423819c56a8d87d
+13) organizuoja ir vykdo šios dalies [[#^s-3ad447d48f52f726fcc5a6ca|2]], [[#^s-944626a2aa483ec9c087d1fb|3]], [[#^s-e9e74f79cf82d39eb261ad5f|6]]–[[#^s-f7dc9fe1c8d603a7d19ed5d0|9]], [[#^s-64b716ee69402a13d21f4af0|12]] punktuose nustatytų reikalavimų laikymosi priežiūrą, įskaitant [Reglamento (ES) 2017/625 21 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2017/625/art_21/par_1/oj) nustatytą oficialią kontrolę; ^s-a3e980871423819c56a8d87d
 
 
 14) atlieka kitas teisės aktuose nustatytas funkcijas. ^s-b77c6b8972827806bef3e403
@@ -477,7 +477,7 @@ Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
 22) laukinių gyvūnų, kurie buvo prižiūrimi žmogaus, paleidimas į laisvę, jeigu šie gyvūnai nebuvo tinkamai paruošti gyventi natūralioje aplinkoje; ^s-4f28a6af52fab0bc994d3c13
 
 
-23) gyvūno savininko ar laikytojo sutikimas atlikti šios dalies 1–[[#^s-4f28a6af52fab0bc994d3c13|22 punktuose]] nurodytus veiksmus ar sąlygų atlikti tokius veiksmus sudarymas; ^s-203fa3735906598ed4f1ec79
+23) gyvūno savininko ar laikytojo sutikimas atlikti šios dalies [[#^s-c2949349c4f1a4d1856bcaa9|1]]–[[#^s-4f28a6af52fab0bc994d3c13|22]] punktuose nurodytus veiksmus ar sąlygų atlikti tokius veiksmus sudarymas; ^s-203fa3735906598ed4f1ec79
 
 
 24) gyvūno augintinio savininko nesutikimas bendradarbiauti su šio įstatymo vykdymą kontroliuojančių institucijų pareigūnais, informacijos apie jo laikomų gyvūnų gerovę, sveikatos būklę, buvimo vietą ar kitas svarbias aplinkybes nesuteikimas; ^s-7d1ba2cf66fc0ed4f3a2f30c
@@ -502,7 +502,7 @@ Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
 
 
 
-5. Kol bus priimtas ir įsiteisės teismo sprendimas arba bylą ne teismo tvarka nagrinėjančios institucijos (pareigūno) sprendimas dėl gyvūno konfiskavimo, savivaldybės administracijos direktoriaus įgaliotas asmuo, dalyvaujant Valstybinės maisto ir veterinarijos tarnybos veterinarijos gydytojui ir policijos pareigūnui, jeigu būtina užtikrinti viešąją tvarką, turi paimti tokį gyvūną ir perduoti jį gyvūnų globėjui ar kitam paimtą gyvūną galinčiam laikinai laikyti gyvūnų laikytojui arba kitokiu būdu užtikrinti tinkamą gyvūno laikymą. Siekiant nutraukti gyvūno kančias, iš gyvūno savininko ar laikytojo paimtas suluošintas ar sunkiai sergantis gyvūnas, neprašant gyvūno savininko ar laikytojo sutikimo, veterinarijos gydytojo sprendimu gali būti nugaišinamas. Gyvūno gydymo, laikino laikymo, nugaišinimo ar gaišenos tvarkymo išlaidas atlygina gyvūno laikytojas arba savininkas, kuris kankino ar žiauriai elgėsi su gyvūnu. Kilęs ginčas dėl šių išlaidų atlyginimo ar jų dydžio nustatymo, taip pat gyvūno nuosavybės teisės nustatymo ar laikymo fakto pripažinimo sprendžiamas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-b34d06c7869a65f883a5d322
+5. Kol bus priimtas ir įsiteisės teismo sprendimas arba bylą ne teismo tvarka nagrinėjančios institucijos (pareigūno) sprendimas dėl gyvūno konfiskavimo, savivaldybės administracijos direktoriaus įgaliotas asmuo, dalyvaujant Valstybinės maisto ir veterinarijos tarnybos veterinarijos gydytojui ir policijos pareigūnui, jeigu būtina užtikrinti viešąją tvarką, turi paimti tokį gyvūną ir perduoti jį gyvūnų globėjui ar kitam paimtą gyvūną galinčiam laikinai laikyti gyvūnų laikytojui arba kitokiu būdu užtikrinti tinkamą gyvūno laikymą. Siekiant nutraukti gyvūno kančias, iš gyvūno savininko ar laikytojo paimtas suluošintas ar sunkiai sergantis gyvūnas, neprašant gyvūno savininko ar laikytojo sutikimo, veterinarijos gydytojo sprendimu gali būti nugaišinamas. Gyvūno gydymo, laikino laikymo, nugaišinimo ar gaišenos tvarkymo išlaidas atlygina gyvūno laikytojas arba savininkas, kuris kankino ar žiauriai elgėsi su gyvūnu. Kilęs ginčas dėl šių išlaidų atlyginimo ar jų dydžio nustatymo, taip pat gyvūno nuosavybės teisės nustatymo ar laikymo fakto pripažinimo sprendžiamas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-b34d06c7869a65f883a5d322
 Straipsnio dalies pakeitimai:
 Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
 Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
@@ -697,7 +697,7 @@ Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
 3) teistiems už tyčinius smurtinius nusikaltimus, jeigu teistumas neišnykęs arba nepanaikintas; ^s-253fefa6cb647cea2ddb14df
 
 
-4) gyvenantiems kartu su asmenimis, nurodytais šios dalies 2 ir [[#^s-253fefa6cb647cea2ddb14df|3 punktuose]]. ^s-3ad9ba3ebda2aa161316a7dc
+4) gyvenantiems kartu su asmenimis, nurodytais šios dalies [[#^s-57823eab80c5a3e1572995a1|2]] ir [[#^s-253fefa6cb647cea2ddb14df|3]] punktuose. ^s-3ad9ba3ebda2aa161316a7dc
 
 
 5. Pavojingo šuns savininkas turi užtikrinti, kad tokio šuns laikymas nebus patikėtas [[#^s-d4658dcc370a6076138dc41c|šio straipsnio 4 dalies]] 2 ir 3 punktuose nurodytiems asmenims. ^s-f86acb19f3ca0f4f9a480238
@@ -927,7 +927,7 @@ Nr. XIV-2171, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18812
 1. Ūkiniai gyvūnai skerdyklose laikomi, svaiginami, skerdžiami laikantis skerdžiamų gyvūnų apsaugą reglamentuojančių teisės aktų reikalavimų. ^s-f1b147bc45b9c62486393c56
 
 
-2. Ūkiniai gyvūnai gali būti skerdžiami skerdykloje prieš tai jų neapsvaiginus, vadovaujantis Reglamento (EB) Nr. 1099/2009 [[#^s-ffebdcb34e95675f11fb3e30|4 straipsnio 4 dalimi]]. ^s-db73ccfd2096dc3e8e0cb40f
+2. Ūkiniai gyvūnai gali būti skerdžiami skerdykloje prieš tai jų neapsvaiginus, vadovaujantis [Reglamento (EB) Nr. 1099/2009 4 straipsnio 4 dalimi](https://eur-lex.europa.eu/eli/reg/1099/2009/art_4/par_4/oj). ^s-db73ccfd2096dc3e8e0cb40f
 Straipsnio dalies pakeitimai:
 Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
 
@@ -1055,7 +1055,7 @@ Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
 1. Šio įstatymo reikalavimus pažeidę asmenys atsako Lietuvos Respublikos įstatymų nustatyta tvarka. ^s-cd51bcb3e90c5a9f0520735d
 
 
-2. Šio įstatymo [[#^s-a3e980871423819c56a8d87d|3 straipsnio 9 dalies 13 punkte]] nustatyta valstybinė veterinarinė priežiūra gyvūnų gerovės srityje tiek, kiek ji nenustatyta Reglamente (ES) 2017/625, vykdoma vadovaujantis [[latest/TAR.97BDCD719E57|Lietuvos Respublikos veterinarijos įstatymu]]. ^s-616f8e3aeb678d417d777640
+2. Šio įstatymo [[#^s-a3e980871423819c56a8d87d|3 straipsnio 9 dalies 13 punkte]] nustatyta valstybinė veterinarinė priežiūra gyvūnų gerovės srityje tiek, kiek ji nenustatyta [Reglamente (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj), vykdoma vadovaujantis [[latest/TAR.97BDCD719E57|Lietuvos Respublikos veterinarijos įstatymu]]. ^s-616f8e3aeb678d417d777640
 Straipsnio dalies pakeitimai:
 Nr. XIV-1901, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08467
 
@@ -1144,10 +1144,10 @@ priedas
 
 
 
-1. 2009 m. rugsėjo 24 d. Tarybos reglamentas (EB) Nr. 1099/2009 dėl žudomų gyvūnų apsaugos. ^s-5df731d5ea2e8ff25b51b4e0
+1. 2009 m. rugsėjo 24 d. Tarybos [reglamentas (EB) Nr. 1099/2009](https://eur-lex.europa.eu/eli/reg/1099/2009/oj) dėl žudomų gyvūnų apsaugos. ^s-5df731d5ea2e8ff25b51b4e0
 
 
-2. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/625 dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB, ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas). ^s-1f1d1d20ebe343eb4f2bf389
+2. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj) dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB, ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas). ^s-1f1d1d20ebe343eb4f2bf389
 
 
 Priedo pakeitimai:
@@ -1185,12 +1185,12 @@ Nr. XI-2271, 2012-10-03, Žin., 2012, Nr. 122-6126 (2012-10-20), i. k. [[latest/
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1147, 2014-09-23, paskelbta TAR 2014-09-30, i. k. 2014-13263
-Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 1, 2, 5 ir [[#^s-0b3b2ff7526564ad148f46f3|17 straipsnių]] pakeitimo ir Įstatymo papildymo priedu įstatymas
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 [[#^s-ee9c4cf448330f35380ecaba|1]], [[#^s-e90d21eac642fe2ee231cd96|2]], [[#^s-f3a148f193db7d205c9bae5c|5]] ir [[#^s-0b3b2ff7526564ad148f46f3|17]] straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1828, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10578
-Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 4, 5 ir [[#^s-56135e34fdb21cecc3543ae4|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 [[#^s-4c7e297d69ad33c5bb4ef1fa|4]], [[#^s-f3a148f193db7d205c9bae5c|5]] ir [[#^s-56135e34fdb21cecc3543ae4|20]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1200,27 +1200,27 @@ Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 [[#^s-
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3207, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15400
-Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 2, 3, 4, 8, 20, [[#^s-4753c48dcbe602e07c69ff35|21 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 [[#^s-e90d21eac642fe2ee231cd96|2]], [[#^s-fe53c50e7d8a2e8c91bf3cd7|3]], [[#^s-4c7e297d69ad33c5bb4ef1fa|4]], [[#^s-65c721516f02d3b6f6fae55b|8]], [[#^s-56135e34fdb21cecc3543ae4|20]], [[#^s-4753c48dcbe602e07c69ff35|21]] straipsnių ir priedo pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3301, 2020-09-24, paskelbta TAR 2020-10-09, i. k. 2020-21151
-Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 2 ir [[#^s-fe53c50e7d8a2e8c91bf3cd7|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 [[#^s-e90d21eac642fe2ee231cd96|2]] ir [[#^s-fe53c50e7d8a2e8c91bf3cd7|3]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-231, 2021-03-30, paskelbta TAR 2021-04-19, i. k. 2021-08081
-Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 2, 4, 7, 9, 10 ir [[#^s-22ece3151664bcf28c3bb2b0|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 [[#^s-e90d21eac642fe2ee231cd96|2]], [[#^s-4c7e297d69ad33c5bb4ef1fa|4]], [[#^s-f242fee4b8e41c0ce76b3f43|7]], [[#^s-b662e52134eb3fd0df6595e2|9]], [[#^s-99e6f2ff0460fe14f9e2a77c|10]] ir [[#^s-22ece3151664bcf28c3bb2b0|12]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-974, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06311
-Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 3 ir [[#^s-f242fee4b8e41c0ce76b3f43|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 [[#^s-fe53c50e7d8a2e8c91bf3cd7|3]] ir [[#^s-f242fee4b8e41c0ce76b3f43|7]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1752, 2022-12-22, paskelbta TAR 2022-12-29, i. k. 2022-27304
-Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 6 ir [[#^s-4753c48dcbe602e07c69ff35|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 [[#^s-bb4a68777255d9c48f4b9106|6]] ir [[#^s-4753c48dcbe602e07c69ff35|21]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1230,7 +1230,7 @@ Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 [[#^s-
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1901, 2023-04-25, paskelbta TAR 2023-05-04, i. k. 2023-08467
-Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 1, 3 ir [[#^s-4753c48dcbe602e07c69ff35|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 [[#^s-ee9c4cf448330f35380ecaba|1]], [[#^s-fe53c50e7d8a2e8c91bf3cd7|3]] ir [[#^s-4753c48dcbe602e07c69ff35|21]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1240,9 +1240,9 @@ Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 [[#^s-
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2978, 2024-09-12, paskelbta TAR 2024-09-19, i. k. 2024-16410
-Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 4, 10, 12 ir [[#^s-5bd7d3f3e8ce3623c4e67f48|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 [[#^s-4c7e297d69ad33c5bb4ef1fa|4]], [[#^s-99e6f2ff0460fe14f9e2a77c|10]], [[#^s-22ece3151664bcf28c3bb2b0|12]] ir [[#^s-5bd7d3f3e8ce3623c4e67f48|19]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2171, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18812
-Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 2, 10, 12 ir [[#^s-0b3b2ff7526564ad148f46f3|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatymo Nr. VIII-500 [[#^s-e90d21eac642fe2ee231cd96|2]], [[#^s-99e6f2ff0460fe14f9e2a77c|10]], [[#^s-22ece3151664bcf28c3bb2b0|12]] ir [[#^s-0b3b2ff7526564ad148f46f3|17]] straipsnių pakeitimo įstatymas

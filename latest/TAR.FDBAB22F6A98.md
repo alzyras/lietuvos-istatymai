@@ -51,25 +51,25 @@ Vilnius
 3. 2 straipsnio 29 dalies 1 punkte po žodžio „kodeksas“ įrašyti nuorodą į oficialaus paskelbimo šaltinį „OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 307 (su paskutiniais pakeitimais, padarytais 2005 m. balandžio 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 648/2005, OL 2005 L 117, p. 13)“ ir šį punktą išdėstyti taip: ^s-407025f345c1f3042a85f002
 
 
-„1) 1992 m. spalio 12 d. Tarybos reglamentas (EEB) Nr. 2913/92, nustatantis Bendrijos muitinės kodeksą (toliau – Bendrijos muitinės kodeksas) (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 307 (su paskutiniais pakeitimais, padarytais 2005 m. balandžio 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 648/2005, OL 2005 L 117, p. 13);“.
+„1) 1992 m. spalio 12 d. Tarybos [reglamentas (EEB) Nr. 2913/92](https://eur-lex.europa.eu/eli/reg/2913/92/oj), nustatantis Bendrijos muitinės kodeksą (toliau – Bendrijos [muitinės kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145)) (OL 2004 m. specialusis leidimas, 2 skyrius, 4 tomas, p. 307 (su paskutiniais pakeitimais, padarytais 2005 m. balandžio 13 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 648/2005, OL 2005 L 117, p. 13);“.
 
 
 4. 2 straipsnio 29 dalies 2 punkte po žodžio „nuostatos“ įrašyti nuorodą į oficialaus paskelbimo šaltinį „OL 2004 m. specialusis leidimas, 2 skyrius, 6 tomas, p. 3 (su paskutiniais pakeitimais, padarytais 2006 m. kovo 8 d. Komisijos reglamentu (EB) Nr. 402/2006, OL 2006 L 70, p. 35)“ ir šį punktą išdėstyti taip: ^s-62a9a17c6a26d1257174588b
 
 
-„2) 1993 m. liepos 2 d. Komisijos reglamentas (EEB) Nr. 2454/93, išdėstantis Tarybos reglamento (EEB) Nr. 2913/ 92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas (toliau – Bendrijos muitinės kodekso įgyvendinimo nuostatos) (OL 2004 m. specialusis leidimas, 2 skyrius, 6 tomas, p. 3 (su paskutiniais pakeitimais, padarytais 2006 m. kovo 8 d. Komisijos reglamentu (EB) Nr. 402/2006, OL 2006 L 70, p. 35);“.
+„2) 1993 m. liepos 2 d. Komisijos [reglamentas (EEB) Nr. 2454/93](https://eur-lex.europa.eu/eli/reg/2454/93/oj), išdėstantis Tarybos reglamento (EEB) Nr. 2913/ 92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas (toliau – Bendrijos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) įgyvendinimo nuostatos) (OL 2004 m. specialusis leidimas, 2 skyrius, 6 tomas, p. 3 (su paskutiniais pakeitimais, padarytais 2006 m. kovo 8 d. Komisijos reglamentu (EB) Nr. 402/2006, OL 2006 L 70, p. 35);“.
 
 
-5. 2 straipsnio 29 dalies 3 punkte po žodžio „sistemą“ įrašyti nuorodą į oficialaus paskelbimo šaltinį „OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 419 (su paskutiniais pakeitimais, padarytais 2000 m. liepos 20 d. Tarybos reglamentu (EB) Nr. 1671/2000, OL 2000 L 193, p. 11)“ ir šį punktą išdėstyti taip: ^s-ceec08fcad9c3d83982c7570
+5. 2 straipsnio 29 dalies 3 punkte po žodžio „sistemą“ įrašyti nuorodą į oficialaus paskelbimo šaltinį „OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 419 (su paskutiniais pakeitimais, padarytais 2000 m. liepos 20 d. Tarybos [reglamentu (EB) Nr. 1671/2000](https://eur-lex.europa.eu/eli/reg/1671/2000/oj), OL 2000 L 193, p. 11)“ ir šį punktą išdėstyti taip: ^s-ceec08fcad9c3d83982c7570
 
 
-„3) 1983 m. kovo 28 d. Tarybos reglamentas (EEB) Nr. 918/83, nustatantis Bendrijos atleidimo nuo muitų sistemą (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 419 (su paskutiniais pakeitimais, padarytais 2000 m. liepos 20 d. Tarybos reglamentu (EB) Nr. 1671/2000, OL 2000 L 193, p. 11);“.
+„3) 1983 m. kovo 28 d. Tarybos reglamentas (EEB) Nr. 918/83, nustatantis Bendrijos atleidimo nuo muitų sistemą (OL 2004 m. specialusis leidimas, 2 skyrius, 1 tomas, p. 419 (su paskutiniais pakeitimais, padarytais 2000 m. liepos 20 d. Tarybos [reglamentu (EB) Nr. 1671/2000](https://eur-lex.europa.eu/eli/reg/1671/2000/oj), OL 2000 L 193, p. 11);“.
 
 
 6. 2 straipsnio 29 dalies 4 punkte po žodžio „tarifo“ įrašyti nuorodą į oficialaus paskelbimo šaltinį „OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382 (su paskutiniais pakeitimais, padarytais 2006 m. birželio 29 d. Komisijos reglamentu (EB) Nr. 996/2006, OL 2006 L 179, p. 26)“ ir šį punktą išdėstyti taip: ^s-8f65a1986d72013c53e5a747
 
 
-„4) 1987 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2658/87 dėl tarifų ir statistinės prekių nomenklatūros bei dėl bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382 (su paskutiniais pakeitimais, padarytais 2006 m. birželio 29 d. Komisijos reglamentu (EB) Nr. 996/2006, OL 2006 L 179, p. 26);“.
+„4) 1987 m. liepos 23 d. Tarybos [reglamentas (EEB) Nr. 2658/87](https://eur-lex.europa.eu/eli/reg/2658/87/oj) [dėl tarifų](https://e-tar.lt/portal/lt/legalAct/SAV.511075) ir statistinės prekių nomenklatūros bei dėl bendrojo muitų tarifo (OL 2004 m. specialusis leidimas, 2 skyrius, 2 tomas, p. 382 (su paskutiniais pakeitimais, padarytais 2006 m. birželio 29 d. Komisijos reglamentu (EB) Nr. 996/2006, OL 2006 L 179, p. 26);“.
 
 
 
@@ -229,7 +229,7 @@ Jeigu atitinkamo mokesčio įstatymas nenustato kitaip, mokesčių mokėtojas �
 2. Pakeisti 81 straipsnio 4 dalį ir ją išdėstyti taip: ^s-489bc76d8c1c397bb21e5a62
 
 
-„4. Muitinės administruojamus papildomai apskaičiuotus mokesčius ir su jais susijusias sumas mokesčių mokėtojas privalo sumokėti Bendrijos muitinės kodekse nustatytais muitų mokėjimo terminais. Muitinės administruojamų mokesčių (įskaitant papildomai apskaičiuotus mokesčius) mokėjimo tvarką nustato Vyriausybė, jeigu įstatymai nenustato kitaip.“
+„4. Muitinės administruojamus papildomai apskaičiuotus mokesčius ir su jais susijusias sumas mokesčių mokėtojas privalo sumokėti Bendrijos [muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nustatytais muitų mokėjimo terminais. Muitinės administruojamų mokesčių (įskaitant papildomai apskaičiuotus mokesčius) mokėjimo tvarką nustato Vyriausybė, jeigu įstatymai nenustato kitaip.“
 
 
 

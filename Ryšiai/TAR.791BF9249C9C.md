@@ -9,126 +9,196 @@ pavadinimas: "Lietuvos Respublikos sporto įstatymas"
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatymas]] - 2 citatos - Lietuvos Respublikos asociacijų įstatyme
-- [[latest/2d8b78b0e79411e68503b67e3b82e8bd|Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas]] - 4 citatos - Biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo
-- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Lietuvos Respublikos darbo kodekse
-- [[latest/TAR.980258A6C9E1|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 11, 27, 49, 50 straipsnių pakeitimo ir papildymo įstatymas]] - 3 citatos - 0991010ISTAIII-1478
-- [[latest/TAR.9C879B9158EF|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 12 straipsnio pakeitimo įstatymas]] - 3 citatos - 1131010ISTA0XII-476
-- [[latest/TAR.CB4D11F5961D|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo ir papildymo įstatymas]] - 3 citatos - 1121010ISTA00XII-84
-- [[latest/TAR.1B2CFA8ABBF4|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo įstatymas]] - 2 citatos - 1051010ISTA000X-238
-- [[latest/c428499089d911e397b5c02d3197f382|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo ĮSTATYMAS]] - Įstatymas Nr. XII-699
-- [[latest/TAR.C4EE79A870A8|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 5, 9 straipsnių pakeitimo ir papildymo ir 11 straipsnio pripažinimo netekusiu galios įstatymas]] - 3 citatos - 1101010ISTA00XI-850
-- [[latest/TAR.4D67B71B0F84|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 7, 12, 15, 41 ir 44 straipsnių pakeitimo įstatymas]] - 3 citatos - 1091010ISTA00XI-493
-- [[latest/TAR.3DFE91BF2E7B|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 9, 12, 13 straipsnių pakeitimo įstatymas]] - 3 citatos - 0971010ISTAVIII-324
-- [[latest/a9f375804a7611e6b5d09300a16a686c|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 2, 3, 15, 30, 41 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - Įstatymas Nr. XII-2591
-- [[latest/d367e1a0036c11e588da8908dfa91cac|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 41 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XII-1722
-- [[latest/a55037d0dcd611e89a31865acf012092|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Įstatymas Nr. XIII-1540
-- [[latest/TAR.082D84B08894|Lietuvos Respublikos kūno kultūros ir sporto įstatymo pakeitimo įstatymas]] - 3 citatos - 1081010ISTA00X-1501
-- [[latest/TAR.068516AF734B|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme
-- [[latest/d1e6be90747611e3b675ad30753d4b1b|Lietuvos Respublikos nevyriausybinių organizacijų plėtros ĮSTATYMAS]] - 6 citatos - Nevyriausybinių organizacijų plėtros įstatyme
-- [[latest/TAR.026F44E06A27|Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas]] - 2 citatos - Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymu
-- [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - 2 citatos - Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
-- [[latest/TAR.074B2F6259F9#^s-7114369ab5b3b7632c97ea18|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - 2 citatos - Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 49 straipsnyje
-- [[latest/54358d80287211eabe008ea93139d588|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XIII-2668
-- [[latest/ebae81601cb211eabe008ea93139d588|Lietuvos Respublikos sporto įstatymo Nr. I-1151 15 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XIII-2602
-- [[latest/e4dd7f008c1011ed8df094f359a60216|Lietuvos Respublikos sporto įstatymo Nr. I-1151 17 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XIV-1757
-- [[latest/16cbc400a55511eea5a28c81c82193a8|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XIV-2429
-- [[latest/cff03250ba1b11eab9d9cd0c85e0b745|Lietuvos Respublikos sporto įstatymo Nr. I-1151 24 straipsnio pakeitimo įstatymas]] - Įstatymas Nr. XIII-3083
-- [[latest/b1e00b40c1ab11ea9815f635b9c0dcef|Lietuvos Respublikos sporto įstatymo Nr. I-1151 6, 7 ir 8 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XIII-3099
-- [[latest/5c7ed1703aa311efbdaea558de59136c|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Įstatymas Nr. XIV-2859
-- [[latest/1098afc0800011ec993ff5ca6e8ba60c|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Įstatymas Nr. XIV-908
-- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Įstatymas Nr. XIV-1173
-- [[latest/TAR.C8205E261830#^s-5cc86c13c375b52f1f1d554a|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - 2 citatos - Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje
-- [[latest/TAR.D3ED3792F52B#^s-2d227dc3e8ef1b67c38cd82c|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 6 citatos - Valstybės tarnybos įstatymo 5 straipsnio 2 dalyje
-- [[latest/TAR.9A3AD08EA5D0|Lietuvos Respublikos švietimo įstatymas]] - 6 citatos - Švietimo įstatymo
+- [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatymas]] - Lietuvos Respublikos asociacijų įstatyme
+- [[latest/2d8b78b0e79411e68503b67e3b82e8bd|Lietuvos Respublikos biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymas]] - 2 citatos - Biudžetinių įstaigų darbuotojų darbo apmokėjimo ir komisijų narių atlygio už darbą įstatymo
+- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - Lietuvos Respublikos darbo kodekse
+- [[latest/TAR.980258A6C9E1|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 11, 27, 49, 50 straipsnių pakeitimo ir papildymo įstatymas]] - 2 citatos - 0991010ISTAIII-1478
+- [[latest/TAR.9C879B9158EF|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 12 straipsnio pakeitimo įstatymas]] - 2 citatos - 1131010ISTA0XII-476
+- [[latest/TAR.CB4D11F5961D|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo ir papildymo įstatymas]] - 2 citatos - 1121010ISTA00XII-84
+- [[latest/TAR.1B2CFA8ABBF4|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio pakeitimo įstatymas]] - 1051010ISTA000X-238
+- [[latest/TAR.C4EE79A870A8|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 5, 9 straipsnių pakeitimo ir papildymo ir 11 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - 1101010ISTA00XI-850
+- [[latest/TAR.4D67B71B0F84|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 7, 12, 15, 41 ir 44 straipsnių pakeitimo įstatymas]] - 2 citatos - 1091010ISTA00XI-493
+- [[latest/TAR.3DFE91BF2E7B|Lietuvos Respublikos kūno kultūros ir sporto įstatymo 9, 12, 13 straipsnių pakeitimo įstatymas]] - 2 citatos - 0971010ISTAVIII-324
+- [[latest/TAR.082D84B08894|Lietuvos Respublikos kūno kultūros ir sporto įstatymo pakeitimo įstatymas]] - 2 citatos - 1081010ISTA00X-1501
+- [[latest/TAR.068516AF734B|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymas]] - Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatyme
+- [[latest/d1e6be90747611e3b675ad30753d4b1b|Lietuvos Respublikos nevyriausybinių organizacijų plėtros ĮSTATYMAS]] - 3 citatos - Nevyriausybinių organizacijų plėtros įstatyme
+- [[latest/TAR.026F44E06A27|Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymas]] - Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymu
+- [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo
+- [[latest/TAR.074B2F6259F9#^s-7114369ab5b3b7632c97ea18|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymas]] - Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 49 straipsnyje
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - įstatymo Nr. XIV-908
+- [[latest/TAR.C8205E261830#^s-5cc86c13c375b52f1f1d554a|Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymas]] - Lietuvos Respublikos vaiko teisių apsaugos pagrindų įstatymo 30 straipsnio 1 dalyje
+- [[latest/TAR.D3ED3792F52B#^s-2d227dc3e8ef1b67c38cd82c|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 3 citatos - Valstybės tarnybos įstatymo 5 straipsnio 2 dalyje
+- [[latest/TAR.9A3AD08EA5D0|Lietuvos Respublikos švietimo įstatymas]] - 5 citatos - Švietimo įstatymo
 
 ## Šį įstatymą cituoja
 
 - [[latest/8f36c240d81a11e8a1baff673bb7216a#^s-50cb576ab78dd5575e781534|Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir kodekso papildymo 98-1 ir 494-1 straipsniais įstatymas]] - Lietuvos Respublikos sporto įstatyme
 - [[latest/8f36c240d81a11e8a1baff673bb7216a#^s-5ac99d7850da155c4d29edff|Lietuvos Respublikos administracinių nusižengimų kodekso 589 straipsnio pakeitimo ir kodekso papildymo 98-1 ir 494-1 straipsniais įstatymas]] - Lietuvos Respublikos sporto įstatyme
 - [[latest/9b065b203aa311efbdaea558de59136c#^s-d43bc2d7ac8f2df45ac2c138|Lietuvos Respublikos administracinių nusižengimų kodekso 98-1 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos sporto įstatyme
-- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-645e6c78ede94a9f4b065b6e|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos sporto įstatyme
-- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-af4276dfde8c9a24dd1ada9c|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos sporto įstatyme
 - [[latest/TAR.C677663D2202#^s-bba64dd668fd689346a37eda|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas]] - Lietuvos Respublikos sporto įstatyme
-- [[latest/TAR.C677663D2202#^s-ebef3b30e17c9a056d746714|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas]] - Lietuvos Respublikos sporto įstatyme
 - [[latest/TAR.A0FCF5DD97FC#^s-609e1517c8161c78b2f52309|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2, 3, 5, 6, 7, 8, 9, 10, 12, 13-1, 16, 17, 18, 19, 20, 21, 22, 23, 27, 29, 30 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 18-1 straipsniu įstatymas]] - Lietuvos Respublikos kūno kultūros ir sporto įstatyme
-- [[latest/TAR.A0FCF5DD97FC#^s-dacb6b797cd1ab97851a2940|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 2, 3, 5, 6, 7, 8, 9, 10, 12, 13-1, 16, 17, 18, 19, 20, 21, 22, 23, 27, 29, 30 straipsnių pakeitimo ir papildymo ir įstatymo papildymo 18-1 straipsniu įstatymas]] - Lietuvos Respublikos kūno kultūros ir sporto įstatyme
-- [[latest/20da9c203aa411efbdaea558de59136c#^s-3f8d33f87b711c3661ce7dfd|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2 ir 17 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos sporto įstatyme
 - [[latest/20da9c203aa411efbdaea558de59136c#^s-937a113e13ac5ead6fb11de4|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2 ir 17 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos sporto įstatyme
 - [[latest/5c4dd290c13b11ef88c08519262548c4#^s-093c4d6500f3db045756eb90|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 8, 16, 17, 21 ir 37 straipsnių pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymo Nr. XIV-2803 1 ir 8 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos sporto įstatyme
-- [[latest/5c4dd290c13b11ef88c08519262548c4#^s-7a2b6dadc6f6a9478efc2fca|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo Nr. IX-1007 2, 8, 16, 17, 21 ir 37 straipsnių pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymo Nr. XIV-2803 1 ir 8 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos sporto įstatyme
 - [[latest/TAR.D33E89BBB88A#^s-404aaa3db9a3b017a9ca6789|Lietuvos Respublikos invalidų socialinės integracijos įstatymo pakeitimo įstatymas]] - Kūno kultūros ir sporto įstatymas
-- [[latest/TAR.D33E89BBB88A#^s-ecf9e6ac1c09c9e71d1f044f|Lietuvos Respublikos invalidų socialinės integracijos įstatymo pakeitimo įstatymas]] - Kūno kultūros ir sporto įstatymas
-- [[latest/a55037d0dcd611e89a31865acf012092#^s-290806c26c3444e8b827b525|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo
-- [[latest/a55037d0dcd611e89a31865acf012092#^s-67547f921820b2e7ce59a42e|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS SPORTO ĮSTATYMAS
+- [[latest/a9f375804a7611e6b5d09300a16a686c#^s-03499b90b8cd1c9ec98fcac8|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 2, 3, 15, 30, 41 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - 12 dalimi
+- [[latest/a9f375804a7611e6b5d09300a16a686c#^s-1744bc049a67e30daa20b01b|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 2, 3, 15, 30, 41 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - 2 citatos - 6 punktu
+- [[latest/a9f375804a7611e6b5d09300a16a686c#^s-4193258a7ed801e63c1c417c|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 2, 3, 15, 30, 41 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - 3 straipsnio 5 punktą
+- [[latest/a9f375804a7611e6b5d09300a16a686c#^s-59d990757c2f1a26e1a0ee86|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 2, 3, 15, 30, 41 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - 41 straipsnio 2 dalį 6 punktu
+- [[latest/a9f375804a7611e6b5d09300a16a686c#^s-6dd23a03e1bc2c7b183981e2|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 2, 3, 15, 30, 41 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - 461 straipsnis
+- [[latest/a9f375804a7611e6b5d09300a16a686c#^s-a0420e553af2f0d22bd2dc96|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 2, 3, 15, 30, 41 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - 2 citatos - 15 straipsnio 4 dalies 6 punktą
+- [[latest/a9f375804a7611e6b5d09300a16a686c#^s-cd066957cac4357e9b6a8e8e|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 2, 3, 15, 30, 41 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - 2 citatos - 30 straipsnio 2 dalies 6 punktą
+- [[latest/a9f375804a7611e6b5d09300a16a686c#^s-ea8824c14d4af6f30b3539a1|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 2, 3, 15, 30, 41 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - 4 citatos - 35
+- [[latest/a9f375804a7611e6b5d09300a16a686c#^s-f137f9fe5c610afb1272dfe0|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 2, 3, 15, 30, 41 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas]] - 30 straipsnio 2 dalį 6 punktu
+- [[latest/d367e1a0036c11e588da8908dfa91cac#^s-121bc5dbca829a1dfebda83b|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 41 straipsnio pakeitimo įstatymas]] - 41 straipsnio 1 dalį 7 punktu
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-1d3be59469c203d8ee3234f9|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Kūno kultūros ir sporto įstatymo 40 straipsnio
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-274c9e7049141dd3381fcbcf|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 10
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-290806c26c3444e8b827b525|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - Sporto įstatymo
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-50c65448cf099f916045d4d2|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - Sporto įstatymo 19 straipsnio 1 dalies 10 punktas
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-67547f921820b2e7ce59a42e|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - įstatymą Nr. I-1151
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-7c62851b7e4cb9aa421d3722|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 1
 - [[latest/a55037d0dcd611e89a31865acf012092#^s-92bc7a62f541917fee86529f|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - Kūno kultūros ir sporto įstatymo 22 straipsnyje
-- [[latest/a55037d0dcd611e89a31865acf012092#^s-b71244876a81d97446d7fbfb|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - Kūno kultūros ir sporto įstatymo 22 straipsnio
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-9b50be276674d32631326353|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 10
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-9cfa2dc706fc76c87bd54be2|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - Kūno kultūros ir sporto įstatymo 41 straipsnio
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-b71244876a81d97446d7fbfb|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - Sporto įstatymo
 - [[latest/a55037d0dcd611e89a31865acf012092#^s-c6b8526744623ef31b86654b|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Kūno kultūros ir sporto įstatymo 23 straipsnio
-- [[latest/a55037d0dcd611e89a31865acf012092#^s-d3ec09614b7801b4ea10be74|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 5 citatos - Kūno kultūros ir sporto įstatymo 22 straipsnio
-- [[latest/a55037d0dcd611e89a31865acf012092#^s-ec23309c124f45c906b356bb|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo
-- [[latest/a55037d0dcd611e89a31865acf012092#^s-f3c1cba8ede65c594eabceb7|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-d33d03fe7a8604ccd07e7421|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Lietuvos Respublikos kūno kultūros ir sporto įstatymo 41 straipsnio
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-df266c45e07dec0948e17886|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 3 straipsnyje
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-e8e4975a75c8e027ad640fc6|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 3 citatos - Lietuvos Respublikos sporto įstatymo 19 straipsnio 1 dalies 10 punktą
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-ec23309c124f45c906b356bb|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 7 citatos - Kūno kultūros ir sporto įstatymo 41 straipsnio
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-f3c1cba8ede65c594eabceb7|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - Sporto įstatymo
+- [[latest/a55037d0dcd611e89a31865acf012092#^s-fb596e100357bb942d1a499b|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 4 citatos - Kūno kultūros ir sporto įstatymo 41 straipsnio 1 dalies
 - [[latest/6fb9ff103aa511efbdaea558de59136c#^s-541f03e8e4e28b028c020173|Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIII-1540 2 straipsnio pakeitimo įstatymas]] - įstatymo Nr. I-1151
-- [[latest/TAR.082D84B08894#^s-df73308ebfd1b3b32a8d06bb|Lietuvos Respublikos kūno kultūros ir sporto įstatymo pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS KŪNO KULTŪROS IR SPORTO ĮSTATYMAS
 - [[latest/TAR.DDE7E5B5F2A6#^s-b16a8e358ecdabe4024b42d5|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 15, 16, 17, 23 ir 24 straipsnių pakeitimo įstatymas]] - Kūno kultūros ir sporto įstatymas
-- [[latest/TAR.DDE7E5B5F2A6#^s-f1cc25c4304c1f3601ec5bf0|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo 15, 16, 17, 23 ir 24 straipsnių pakeitimo įstatymas]] - Kūno kultūros ir sporto įstatymas
-- [[latest/c4ca2970dcd811e89a31865acf012092#^s-5f1680be36d96844594f6c19|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 15 straipsnio pakeitimo įstatymas]] - Sporto įstatymas
 - [[latest/c4ca2970dcd811e89a31865acf012092#^s-617ca9c333c7edbbee48c696|Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo Nr. I-2044 15 straipsnio pakeitimo įstatymas]] - Sporto įstatymas
-- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-a197f7cd4ae6e57b4addfb1c|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - Lietuvos Respublikos sporto įstatymo 23 straipsnio 1 dalies 2 punkto
+- [[latest/54358d80287211eabe008ea93139d588#^s-13ce4b058eda06d212181e2a|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 2 citatos - 18 straipsnis
+- [[latest/54358d80287211eabe008ea93139d588#^s-27e5896f6cdc4ec63fe8697f|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 11 straipsnio 2 dalį
+- [[latest/54358d80287211eabe008ea93139d588#^s-2c07aa7ab3fe613af47fb0cc|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 2 citatos - 16 straipsnio 2 dalyje
+- [[latest/54358d80287211eabe008ea93139d588#^s-6cfc934b8d9cbc4dc3a75035|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 24 straipsnio 2 dalies 6 punktą
+- [[latest/54358d80287211eabe008ea93139d588#^s-7033f892a7d8b0e36c0139f4|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 18 straipsnio 3 dalyje
+- [[latest/54358d80287211eabe008ea93139d588#^s-7817c7a0d78c3754d7c067f3|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 24 straipsnio 11 dalį
+- [[latest/54358d80287211eabe008ea93139d588#^s-788ef77f64e901e782c2a1f1|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 16 straipsnio 2 dalyje
+- [[latest/54358d80287211eabe008ea93139d588#^s-92d6d9a6ac15020b6e06c636|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 2 citatos - 1
+- [[latest/54358d80287211eabe008ea93139d588#^s-a7b2715cea0458073c885e74|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 2 citatos - 10
+- [[latest/54358d80287211eabe008ea93139d588#^s-af555508a52c91b6ef9345de|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 25 straipsnio 3 dalies 8 punktą
+- [[latest/54358d80287211eabe008ea93139d588#^s-b09b496b1cb6ff2caa84e86f|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 25 straipsnio 4 dalį
+- [[latest/54358d80287211eabe008ea93139d588#^s-c050a7a23e456be77560f318|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 24 straipsnio 2 dalies 4 punktą
+- [[latest/54358d80287211eabe008ea93139d588#^s-c55f3a718cd897f3fbb43882|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 2 citatos - 20 straipsnis
+- [[latest/54358d80287211eabe008ea93139d588#^s-cc1d7456ff8d1268aad725d5|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 3 citatos - 10
+- [[latest/54358d80287211eabe008ea93139d588#^s-cd11bd55693652d003de6554|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 2 citatos - 17 straipsnis
+- [[latest/54358d80287211eabe008ea93139d588#^s-d67f4a5e8ee2845a490fb827|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 11 straipsnio 3 dalį
+- [[latest/54358d80287211eabe008ea93139d588#^s-dfdc61aee43942df5d5914e9|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 25 straipsnio 7 dalį
+- [[latest/54358d80287211eabe008ea93139d588#^s-e10f381b0e6860bc5c81efa7|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 19 straipsnyje
+- [[latest/54358d80287211eabe008ea93139d588#^s-e97f7bb5d7f659e04b58aa0e|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 19 straipsnyje
+- [[latest/54358d80287211eabe008ea93139d588#^s-fd755f7933c0101939d93081|Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir 25 straipsnių pakeitimo įstatymas]] - 2 citatos - 19 straipsnis
+- [[latest/ebae81601cb211eabe008ea93139d588#^s-cca73e9d1af163638143f67e|Lietuvos Respublikos sporto įstatymo Nr. I-1151 15 straipsnio pakeitimo įstatymas]] - 2 citatos - 15 straipsnis
+- [[latest/e4dd7f008c1011ed8df094f359a60216#^s-b28033482875d334fd7f19bb|Lietuvos Respublikos sporto įstatymo Nr. I-1151 17 straipsnio pakeitimo įstatymas]] - 17 straipsnio 6 dalies 5 punktą
+- [[latest/e4dd7f008c1011ed8df094f359a60216#^s-d7c165021c700a12abc07dcd|Lietuvos Respublikos sporto įstatymo Nr. I-1151 17 straipsnio pakeitimo įstatymas]] - 17 straipsnio 6 dalies 2 punktą
+- [[latest/16cbc400a55511eea5a28c81c82193a8#^s-34d55b3c6ce2762f056bbe52|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2 straipsnio pakeitimo įstatymas]] - 2 straipsnio 13 dalį
+- [[latest/16cbc400a55511eea5a28c81c82193a8#^s-420336a10b149c60f06fa18e|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2 straipsnio pakeitimo įstatymas]] - 2 straipsnio 23 dalį
+- [[latest/16cbc400a55511eea5a28c81c82193a8#^s-9d739c1f6c2b906ec2166d01|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2 straipsnio pakeitimo įstatymas]] - 2 straipsnio 31 dalį
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-115020ed2742922cec1e67d8|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 23 straipsnio 1 dalies 8 punkto
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-12c379260faca253622cdf2f|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 23 straipsnio 1 dalies 7 punktą
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-4c33814871897da29a9b2778|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 23 straipsnio 1 dalies 12 punktą
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-541c0b0d19c24051edfa2c1d|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 23 straipsnio 1 dalies 2 punktą
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-5a1ee638fe1660245c58ce93|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 5 citatos - 27 straipsnio 7 dalies 11 punktą
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-5e0afffe73953e4c1fd600b4|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 7 citatos - 1
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-607e0295ff581ddf26031ebe|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 20 straipsnio 10 dalį
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-707c5d0c3cb12c95016760ad|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 2 citatos - 9 punktu
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-770739f0deae849f13ecb237|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 13 straipsnio 2 dalį
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-8d304e568f6ac014dea0a3ff|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 2 citatos - 8 punktu
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-a4a555b87e7888199770b6c8|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 2 citatos - 7 punktu
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-c9379373343da6b57ed93019|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 2 straipsnio 34 dalį
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-cdaed66442899fba31d8b578|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 23 straipsnio 1 dalies 6 punktą
 - [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-cf01746cb9795ff77c0d0c3c|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - Lietuvos Respublikos sporto įstatymo 23 straipsnio 1 dalies 2 punkto
-- [[latest/cff03250ba1b11eab9d9cd0c85e0b745#^s-1e1c533de7944eeb45091293|Lietuvos Respublikos sporto įstatymo Nr. I-1151 24 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos sporto įstatymo 24 straipsnio 1 dalyje
-- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-2597b9c37bd485f47472c4f4|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo 21 straipsnio
-- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-50240c75fd007b8a88d90665|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 6 citatos - Sporto įstatymo 10 straipsnio
-- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-64b11d86b243972bc6754594|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo 20 straipsnio
-- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-651cbe8fdf61e3b87e8d236b|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo 10 straipsnio
-- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-66d5aff29bd334ec11524c5a|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - įstatymo Nr. I-1151
-- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-76c3182859777d9004076df3|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 9 citatos - Sporto įstatymo
-- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-846c4e12e4dd342682f1da61|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo 20 straipsnio
-- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-8d1950f473010eb74f6d52de|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - Sporto įstatymo 13 straipsnio 2 dalyje
-- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-9edcf8f9ce7e9acdc9f9deff|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - Sporto įstatymo 18 straipsnio 3 dalyje
-- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-a77434335c2458c73b8e8d66|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo 27 straipsnio 4 dalį
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-d034e0ad922f4a9a0c2176ca|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 2 citatos - 23 straipsnio 1 dalies 6 punkte
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-d9f24f76e95a568598551f53|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 5 citatos - 13
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-e159046ae283bc18e809f77d|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 7 citatos - 2
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-e4b2d37172f1dfab097305a5|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 11 straipsnio 4 dalį
+- [[latest/04ff9192d0f811f08918e1adc7c5b1ec#^s-fe47a0538e54aca6d86c042e|Lietuvos Respublikos sporto įstatymo Nr. I-1151 2, 6, 8, 11, 13, 20, 22, 23, 26 ir 27 straipsnių pakeitimo ir Įstatymo papildymo V-1 skyriumi įstatymas]] - 3 citatos - šio straipsnio 2 dalyje
+- [[latest/cff03250ba1b11eab9d9cd0c85e0b745#^s-0d17d198423892d2da544d58|Lietuvos Respublikos sporto įstatymo Nr. I-1151 24 straipsnio pakeitimo įstatymas]] - 5 citatos - 12
+- [[latest/cff03250ba1b11eab9d9cd0c85e0b745#^s-1e1c533de7944eeb45091293|Lietuvos Respublikos sporto įstatymo Nr. I-1151 24 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos sporto įstatymo 24 straipsnio 7 dalies
+- [[latest/cff03250ba1b11eab9d9cd0c85e0b745#^s-5d6e4aabc269df1d3cf48584|Lietuvos Respublikos sporto įstatymo Nr. I-1151 24 straipsnio pakeitimo įstatymas]] - 2 citatos - 24 straipsnio 10 dalį
+- [[latest/cff03250ba1b11eab9d9cd0c85e0b745#^s-7cb42eab02aa93338bdb00d3|Lietuvos Respublikos sporto įstatymo Nr. I-1151 24 straipsnio pakeitimo įstatymas]] - 9 citatos - 5
+- [[latest/cff03250ba1b11eab9d9cd0c85e0b745#^s-c2a2554cfea293873be537f0|Lietuvos Respublikos sporto įstatymo Nr. I-1151 24 straipsnio pakeitimo įstatymas]] - 2 citatos - 24 straipsnio 11 dalį
+- [[latest/b1e00b40c1ab11ea9815f635b9c0dcef#^s-46d4fbff51a49c7dca8fe8c1|Lietuvos Respublikos sporto įstatymo Nr. I-1151 6, 7 ir 8 straipsnių pakeitimo įstatymas]] - 2 citatos - 6 straipsnis
+- [[latest/b1e00b40c1ab11ea9815f635b9c0dcef#^s-6403dc13518555d7d7591143|Lietuvos Respublikos sporto įstatymo Nr. I-1151 6, 7 ir 8 straipsnių pakeitimo įstatymas]] - 8 straipsnio 2 dalies 1 punktą
+- [[latest/b1e00b40c1ab11ea9815f635b9c0dcef#^s-ad81e152eba26cb684b1c2cc|Lietuvos Respublikos sporto įstatymo Nr. I-1151 6, 7 ir 8 straipsnių pakeitimo įstatymas]] - 7 straipsnio 2 dalį
+- [[latest/b1e00b40c1ab11ea9815f635b9c0dcef#^s-c304dea121815799bcdadda9|Lietuvos Respublikos sporto įstatymo Nr. I-1151 6, 7 ir 8 straipsnių pakeitimo įstatymas]] - 8 straipsnio 1 dalies 1 punktą
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-033a0d9648c9ff2221ceae20|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 4 citatos - 2
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-102f4e1e605c1f06636e4a36|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 4 citatos - 12
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-2597b9c37bd485f47472c4f4|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 1 straipsnyje
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-2a649348ecb78995a0d23c74|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 6
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-2e76da6773f2fe05d0d2db4e|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 6 citatos - 1
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-2ec3777a610d73d45a167928|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 3 straipsnyje
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-2efc2e327eb3035658f9bdac|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 4 citatos - 2
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-3181067e3ec69161e350736f|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - šio straipsnio 1 dalyje
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-3617002a72e654c884d24775|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - Sporto įstatymo 22 straipsnio 1 dalies 10 punkto
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-38c7d04966d006bf47bda774|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 4 citatos - 2
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-46329227ef800272a0d5feeb|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 6 citatos - 1
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-47cb85cbde94d8a6395a056d|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - šio straipsnio 14 dalį
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-5dbc86d1882451ad8b5aa8cd|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo 20 straipsnio 1 dalies 5 punkte
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-64b11d86b243972bc6754594|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 1 straipsnyje
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-651cbe8fdf61e3b87e8d236b|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 1 straipsnyje
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-66d5aff29bd334ec11524c5a|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 4 citatos - 71 straipsniu
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-67d63b1a4706c7d11ca59961|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 straipsnio 3 dalyje
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-7147ad9709f49e7c08348c25|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 4 citatos - 2
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-846c4e12e4dd342682f1da61|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 1 straipsnyje
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-8a78d6d07797d723840ae255|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 6
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-8bd0146c12bd158b1425cfa4|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 10
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-8d1950f473010eb74f6d52de|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 3 citatos - 1 straipsnyje
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-8ed39082ac677effd4021ac6|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo 17 straipsnio 1 dalies 1 punkto
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-9b12dce6c361e78d513608d0|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - šio straipsnio 2 dalį
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-9df38d69cb823bfccf17612c|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 4 citatos - 2
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-9edcf8f9ce7e9acdc9f9deff|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 3 citatos - 1 straipsnyje
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-a1b503f36427a6f59e0e95c6|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 10
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-a77434335c2458c73b8e8d66|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 3 citatos - Sporto įstatymo 24 straipsnio 5 dalį
 - [[latest/5c7ed1703aa311efbdaea558de59136c#^s-b1644dbab2e74d305174af12|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo 18 straipsnio
-- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-b305a69901dd6e2efce3a2be|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - įstatymo Nr. I-1151
-- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-b8d669ba7fc080cc224675e4|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo 19 straipsnio
-- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-bf20add59d3cbc09ff009f15|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo
-- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-c19be2b983ea7c8bac3902e3|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo 14 straipsnio 4 dalies
-- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-c6197c1440b6dcc039959fee|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS SPORTO ĮSTATYMAS
-- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-ea98a9d668845f7aee5e1c99|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - Sporto įstatymo 5 straipsnio
-- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-f43d54bec14c0cfd8ebec831|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - įstatymo Nr. I-1151
-- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-f44c50a4111a3f9e1e75405d|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS SPORTO ĮSTATYMAS
-- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-06d23ba01e4e5876ba0dfbc2|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - 3 citatos - Sporto įstatymo 24 straipsnio
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-b305a69901dd6e2efce3a2be|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - įstatymo Nr. I-1151
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-b35c3c697ff235ed02c6c1b1|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 3 citatos - 10
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-b7b172e424797f107f74fe9b|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 6 citatos - 1
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-b8d669ba7fc080cc224675e4|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - Sporto įstatymo 19 straipsnio
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-bf20add59d3cbc09ff009f15|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - Sporto įstatymo
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-c14dd5d2c845f442487f448d|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 1
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-c19be2b983ea7c8bac3902e3|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 1 straipsnyje
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-c6197c1440b6dcc039959fee|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - įstatymą Nr. I-1151
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-c8f706ca3dfc8fbf8705cb76|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - šio straipsnio 1 dalyje
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-cff1e4c406a2159f145bbfac|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 4 citatos - 2
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-d4b245d7154a4f2a36fed629|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 12
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-e1ead86aef7c2e6b21d6b5dd|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 3 citatos - 6
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-ea98a9d668845f7aee5e1c99|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 1 straipsnyje
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-f43d54bec14c0cfd8ebec831|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - įstatymo Nr. I-1151
+- [[latest/1098afc0800011ec993ff5ca6e8ba60c#^s-f44c50a4111a3f9e1e75405d|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - įstatymą Nr. I-1151
+- [[latest/5c7ed1703aa311efbdaea558de59136c#^s-ff2ba9c570a290266f06b36a|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas]] - 2 citatos - 1
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-06ebe4ba1c2557afdaa31ac6|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 24 straipsnio 7 dalį
 - [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-10fbc88fdc11c4d63c28f3b3|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 24 straipsnio 2 dalį
-- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-16016f6e5861427276481da9|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos sporto įstatymo 2 straipsnio
 - [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-2010463e7fed5ce25ae89931|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 2 straipsnio 9 dalį
-- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-21c79d4978a47a90924d0fed|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - 3 citatos - Sporto įstatymo 6 straipsnio
 - [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-274f99ae591c23562f1f308e|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 24 straipsnio 1 dalį
 - [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-2bf5224e59e5c9f7577345de|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 19 straipsnio
-- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-36e18afc70ee3b6053f744de|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - 3 citatos - Sporto įstatymo 15 straipsnio
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-34b506708cffd7be4d1cf43e|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 19 straipsnio 1 dalies 4 punkto
 - [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-3d07e40679a9bb0c9b783356|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 6 straipsnio 5 dalies 3 punktą
 - [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-3e26ae5d3cb26eabdea256ab|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 24 straipsnio
 - [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-40d64bb95a5612d7647c47d2|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 2 straipsnio 3 dalį
-- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-5fe3d11671bd3cbd8656f62b|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Sporto įstatymo 13 straipsnio
-- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-67538998192cbc56edf54700|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - 3 citatos - Sporto įstatymo 23 straipsnio
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-53dfc2793344731ef150a4dc|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 24 straipsnio 4 dalį
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-5fe3d11671bd3cbd8656f62b|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 13 straipsnio 3 dalį
 - [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-6f6d6330fd021db028442144|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 23 straipsnio 1 dalį
 - [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-7065c3b405755e84c0ea828c|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 15 straipsnio 1 dalį
-- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-921a214e17394ab5e700c1bb|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Sporto įstatymo 24 straipsnio
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-7135d95ffcdc9081896e5314|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 24 straipsnio 5 dalį
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-91034b024907107ac2b09385|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 19 straipsnio 1 dalies 4 punkto
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-921a214e17394ab5e700c1bb|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 24 straipsnio
 - [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-943f7e0862993d41fba12624|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 23 straipsnio 2 dalį
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-94cd24e063321e1867a2b167|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 23 straipsnį 31 dalimi
 - [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-9787d4301e685e642296b404|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 6 straipsnio 5 dalies 7 punktą
-- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-a88b4271ad015fca6ea5c7eb|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Sporto įstatymo 24 straipsnio 2 dalies
-- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-b94ed73952d71bcfe1400ac3|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - 6 citatos - Sporto įstatymo 19 straipsnio
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-a88b4271ad015fca6ea5c7eb|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - 7 citatos - 1
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-c8a68e96ca91460fccc9b26e|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 24 straipsnio 6 dalį
 - [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-d018a6ca396a0c2d4ac67989|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 2 straipsnio 32 dalį
-- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-e9850b710e91b4fea27cd3c6|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Sporto įstatymo 18 straipsnio
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-e235cb4a88f732ff54611e6d|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 24 straipsnio 8 dalies 4 punktą
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-e3e7b9ec8e8dca8d1ed8825a|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 19 straipsnio 1 dalies 2 punktą
+- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-e9850b710e91b4fea27cd3c6|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 18 straipsnio 3 dalį
 - [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-f21ca8986d891eb4b5a60676|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 15 straipsnio 2 dalį
-- [[latest/d75de2c0f6c411ec8fa7d02a65c371ad#^s-fc4ac73a0d0d5995ec360d0f|Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymo Nr. XIV-908 1 ir 2 straipsnių pakeitimo įstatymas]] - Sporto įstatymo 19 straipsnio
 - [[latest/TAR.0F9036415DBD#^s-2cb7c76b3b26dad0734d3980|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos sporto įstatymo
-- [[latest/TAR.0F9036415DBD#^s-bfa41525bf86aaeefe10fbcc|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos sporto įstatymo
-- [[latest/3cb926c0f6c511ec8fa7d02a65c371ad#^s-62a8b5693f505b3eccf81069|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 ir 12 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos sporto įstatymo
 - [[latest/3cb926c0f6c511ec8fa7d02a65c371ad#^s-968fc21fc3bb16d5d33b01a9|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo Nr. I-1336 6 ir 12 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos sporto įstatymo
-- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-20effa828cc6ce8961216b6f|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos sporto įstatyme
 - [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-8d94a9ec753e9f36deda946f|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos sporto įstatyme
-- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-cd5bf6a606b6f5f158680f79|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos sporto įstatyme
 - [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-f618c87bdd9259edb8d491db|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Lietuvos Respublikos sporto įstatyme
-- [[latest/01d2bff0ad3d11e98451fa7b5933515d#^s-502f7f2e8004c2d8e0e403fe|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII-1826 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos sporto įstatyme
 - [[latest/01d2bff0ad3d11e98451fa7b5933515d#^s-eaae0fd970863e176714f8f3|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymo Nr. XIII-1826 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos sporto įstatyme
-- [[latest/TAR.42837E5A79DD#^s-9d0c6bd26d9c8113b9ecd97b|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - Lietuvos Respublikos sporto įstatyme
 - [[latest/TAR.42837E5A79DD#^s-cb5cf35f2403a6811b318ac1|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - Lietuvos Respublikos sporto įstatyme
 - [[latest/f88555703aa411efbdaea558de59136c#^s-50ee22b2c8913578935b07a1|Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ Nr. IX-2206 45 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos sporto įstatyme

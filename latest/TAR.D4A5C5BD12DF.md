@@ -40,7 +40,7 @@ Nr. 5-161, 2002 m. kovo 28 d. Nr. IX-822)
 ### 1 straipsnis. 5 straipsnio 2 dalies pakeitimas ir papildymas ^s-dc458db215301efc80d3357b
 
 
-Papildyti 5 straipsnio 2 dalį nauju [[#^s-1efa35e586aa33c039f0bf2e|1 punktu]], buvusius 1 ir [[#^s-ae18dd11876a7c71c9b93a32|2 punktus]] laikyti atitinkamai 2 ir [[#^s-11cb0c04f195e3fc00c13fc7|3 punktais]], pakeisti [[#^s-ae18dd11876a7c71c9b93a32|2 punktą]] ir visą dalį išdėstyti taip:
+Papildyti 5 straipsnio 2 dalį nauju [[#^s-1efa35e586aa33c039f0bf2e|1 punktu]], buvusius 1 ir 2 punktus laikyti atitinkamai 2 ir 3 punktais, pakeisti [[#^s-ae18dd11876a7c71c9b93a32|2 punktą]] ir visą dalį išdėstyti taip:
 
 
 „2. Nuosavybės teisės į žemę, iki 1995 m. birželio 1 d. buvusią miestams nustatyta tvarka priskirtose teritorijose, atkuriamos:

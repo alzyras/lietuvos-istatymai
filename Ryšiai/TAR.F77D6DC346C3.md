@@ -13,4 +13,4 @@ pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl Lietuvos Aukščiausioj
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.CCA48EFA01D1#^s-c12bacb3fe19e8adb4e4897b|Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo]] - 2 citatos - 0941010ISTA000I-634
+- [[latest/TAR.CCA48EFA01D1#^s-c12bacb3fe19e8adb4e4897b|Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų teismų veiklos teritorijų nustatymo ir Lietuvos Respublikos prokuratūros reformavimo]] - 0941010ISTA000I-634

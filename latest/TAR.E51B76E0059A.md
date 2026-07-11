@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-6fb6a656672e1aa132d32319
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 ir 6 punktais ir atsižvelgdamas į Respublikos Prezidento 2009 m. sausio 13 d. dekretą Nr. 1K-1673, ratifikuoja 2007 m. spalio 15 d. Liuksemburge pasirašytą Europos Bendrijų bei jų valstybių narių ir Juodkalnijos Respublikos stabilizacijos ir asociacijos susitarimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 ir 6 punktais ir atsižvelgdamas į Respublikos Prezidento [2009 m. sausio 13 d. dekretą Nr. 1K-1673](https://e-tar.lt/portal/lt/legalAct/TAR.7DA3753F7581), ratifikuoja 2007 m. spalio 15 d. Liuksemburge pasirašytą Europos Bendrijų bei jų valstybių narių ir Juodkalnijos Respublikos stabilizacijos ir asociacijos susitarimą.
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-a70361b49835567912bba0a7
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. liepos 7 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Rusijos Federacijos sutartį dėl Lietuvos ir Rusijos valstybės sienos“, ratifikuoja 1997 m. spalio 24 d. Maskvoje pasirašytą Lietuvos Respublikos ir Rusijos Federacijos sutartį dėl Lietuvos ir Rusijos valstybės sienos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. liepos 7 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Rusijos Federacijos sutartį dėl Lietuvos ir Rusijos valstybės sienos“](https://e-tar.lt/portal/lt/legalAct/TAR.85D4316E9F49), ratifikuoja 1997 m. spalio 24 d. Maskvoje pasirašytą Lietuvos Respublikos ir Rusijos Federacijos sutartį dėl Lietuvos ir Rusijos valstybės sienos.
 
 
 

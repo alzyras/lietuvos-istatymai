@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-f85eb08ca247cab3b503fb37
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. kovo 12 d. dekretą Nr. 399, ratifikuoja Susitarimą dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos dalyvavimo Europos ekonominėje erdvėje, priimtą 2003 m. spalio 14 d. Liuksemburge.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. kovo 12 d. dekretą Nr. 399](https://e-tar.lt/portal/lt/legalAct/TAR.2EC9A2D41B16), ratifikuoja Susitarimą dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos dalyvavimo Europos ekonominėje erdvėje, priimtą 2003 m. spalio 14 d. Liuksemburge.
 
 
 

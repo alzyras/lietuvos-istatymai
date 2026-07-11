@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio 1 dalies papildymas ir 4 dalies pakeitimas ^s-3d5022b5770d2b13e6db6a46
 
 
-1. 2 straipsnio 1 dalį papildyti 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 ir [[#^s-13c6ea6995f42e04837abadc|22 punktais]]: ^s-9da98d9c08d7e6d3eaad619e
+1. 2 straipsnio 1 dalį papildyti 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 ir 22 punktais: ^s-9da98d9c08d7e6d3eaad619e
 
 
 „11) valstybės įmonė „Automagistralė“;
@@ -81,14 +81,14 @@ Vilnius
 2. Pakeisti 2 straipsnio 4 dalį ir ją išdėstyti taip: ^s-5ac23d5916afa33eb5d0f4f1
 
 
-„4. [[#^s-5ac23d5916afa33eb5d0f4f1|Šio straipsnio 2 dalyje]] nurodyti įrenginiai turi nuosavybės teise priklausyti valstybei ir gali būti išnuomoti ir perduoti pagal panaudos sutartį arba perduoti valdyti, naudoti ir disponuoti jais patikėjimo teise tik [[#^s-9da98d9c08d7e6d3eaad619e|šio straipsnio 1 dalyje]] nurodytoms valstybės įmonėms ir [[#^s-435861f01549860500531944|3 straipsnio 1 dalyje]] nurodytoms įmonėms.“
+„4. Šio straipsnio 2 dalyje nurodyti įrenginiai turi nuosavybės teise priklausyti valstybei ir gali būti išnuomoti ir perduoti pagal panaudos sutartį arba perduoti valdyti, naudoti ir disponuoti jais patikėjimo teise tik [[#^s-9da98d9c08d7e6d3eaad619e|šio straipsnio 1 dalyje]] nurodytoms valstybės įmonėms ir [[#^s-435861f01549860500531944|3 straipsnio 1 dalyje]] nurodytoms įmonėms.“
 
 
 
 ### 2 straipsnis. 3 straipsnio 1 dalies pakeitimas ^s-e08415659b0cb6126676f17f
 
 
-[[#^s-435861f01549860500531944|3 straipsnio 1 dalies]] 4 ir [[#^s-998df3eb10ef2261a0c80f01|6 punktuose]] išbraukti žodžius „specialios paskirties“, 9 punktą pripažinti netekusiu galios ir šią dalį išdėstyti taip:
+[[#^s-435861f01549860500531944|3 straipsnio 1 dalies]] 4 ir 6 punktuose išbraukti žodžius „specialios paskirties“, 9 punktą pripažinti netekusiu galios ir šią dalį išdėstyti taip:
 
 
 „1. Strateginę reikšmę nacionaliniam saugumui turi šios įmonės, kurių kapitalo dalį gali sudaryti privatus nacionalinis bei europinės ir transatlantinės integracijos kriterijus atitinkantis užsienio kapitalas, paliekant sprendžiamąją galią valstybei:

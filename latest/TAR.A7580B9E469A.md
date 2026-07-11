@@ -121,14 +121,14 @@ Pakeisti 10 straipsnio 2 dalį ir ją išdėstyti taip:
 3. Pakeisti 15 straipsnio 4 dalį ir ją išdėstyti taip: ^s-23731adcd1ecd6d3a5920891
 
 
-„4. Juridinis asmuo, kuriam už [[#^s-23731adcd1ecd6d3a5920891|šio straipsnio 3 dalyje]] nurodytą bent vieną pažeidimą buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į juridinių asmenų registro tvarkytoją ne anksčiau kaip po metų, kurie pradedami skaičiuoti nuo statuso panaikinimo dienos. Paramos gavėjo statusas pakartotinai suteikiamas, jeigu juridinis asmuo yra sumokėjęs visus mokėtinus mokesčius, baudas ir delspinigius, neturi teistumo už šio straipsnio 3 dalies 1 punkte nurodytus nusikaltimus, per paskutinius vienus metus nėra padaręs šio straipsnio 3 dalies 1 punkte nurodytų baudžiamųjų nusižengimų ir per metų laikotarpį nebuvo nustatyta [[latest/TAR.C44837068B55|Pinigų plovimo prevencijos įstatymo]] pažeidimų.“
+„4. Juridinis asmuo, kuriam už šio straipsnio 3 dalyje nurodytą bent vieną pažeidimą buvo panaikintas paramos gavėjo statusas, pakartotinai dėl šio statuso suteikimo gali kreiptis į juridinių asmenų registro tvarkytoją ne anksčiau kaip po metų, kurie pradedami skaičiuoti nuo statuso panaikinimo dienos. Paramos gavėjo statusas pakartotinai suteikiamas, jeigu juridinis asmuo yra sumokėjęs visus mokėtinus mokesčius, baudas ir delspinigius, neturi teistumo už šio straipsnio 3 dalies 1 punkte nurodytus nusikaltimus, per paskutinius vienus metus nėra padaręs šio straipsnio 3 dalies 1 punkte nurodytų baudžiamųjų nusižengimų ir per metų laikotarpį nebuvo nustatyta [[latest/TAR.C44837068B55|Pinigų plovimo prevencijos įstatymo]] pažeidimų.“
 
 
 
 ### 6 straipsnis. Įstatymo taikymas ^s-f83b746af1d1898565034874
 
 
-Šio įstatymo [[#^s-864e6a14c3f2c2e9f828877c|5 straipsnio 2 dalyje]] išdėstytos Labdaros ir paramos įstatymo 15 straipsnio 3 dalies 4 punkto nuostatos taikomos pažeidimams, padarytiems po šio įstatymo įsigaliojimo.
+Šio įstatymo [[#^s-864e6a14c3f2c2e9f828877c|5 straipsnio 2 dalyje]] išdėstytos [[latest/TAR.C0FF21832A85|Labdaros ir paramos įstatymo 15 straipsnio 3 dalies 4 punkto]] nuostatos taikomos pažeidimams, padarytiems po šio įstatymo įsigaliojimo.
 
 
 

@@ -315,7 +315,7 @@ TARPTAUTINIŲ SANKCIJŲ ĮGYVENDINIMO KOORDINAVIMAS IR UŽTIKRINIMAS
 ### 11 straipsnis. Kompetentingos institucijos įgyvendinant tarptautines sankcijas, jų funkcijos bei veiklos sritys ^s-195d95d74e19fdd84352b674
 
 
-1. Kompetentingos institucijos, nurodytos šio straipsnio 3, 4 ir [[#^s-c269c996b9e42edca4de5277|5 dalyse]], pagal kompetenciją užtikrindamos tarptautinių sankcijų įgyvendinimą: ^s-2d7ab3cfd087a928cb262a93
+1. Kompetentingos institucijos, nurodytos šio straipsnio [[#^s-d9d0bfa0387cdf218ec61913|3]], [[#^s-9c0d81a4384f6a1c6d909067|4]] ir [[#^s-c269c996b9e42edca4de5277|5]] dalyse, pagal kompetenciją užtikrindamos tarptautinių sankcijų įgyvendinimą: ^s-2d7ab3cfd087a928cb262a93
 
 
 1) priima sprendimus, nurodytus tarptautines sankcijas nustatančiuose teisės aktuose; ^s-61af91ea5a594de607163ad2
@@ -363,10 +363,10 @@ Nr. XIV-1865, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06472
 5. Jeigu tam tikrų tarptautinių sankcijų įgyvendinimas nepatenka į nė vienos institucijos veiklos sritį, Vyriausybė paskiria kompetentingą tų tarptautinių sankcijų įgyvendinimą užtikrinančią instituciją. ^s-c269c996b9e42edca4de5277
 
 
-6. Šio straipsnio 3, 4 ir [[#^s-c269c996b9e42edca4de5277|5 dalyse]] nurodytos kompetentingos institucijos patvirtina tvarkos aprašus dėl tarptautinių sankcijų įgyvendinimo užtikrinimo savo veiklos srityje. ^s-3033108ddc4dffb093e3d1c4
+6. Šio straipsnio [[#^s-d9d0bfa0387cdf218ec61913|3]], [[#^s-9c0d81a4384f6a1c6d909067|4]] ir [[#^s-c269c996b9e42edca4de5277|5]] dalyse nurodytos kompetentingos institucijos patvirtina tvarkos aprašus dėl tarptautinių sankcijų įgyvendinimo užtikrinimo savo veiklos srityje. ^s-3033108ddc4dffb093e3d1c4
 
 
-7. Lietuvos bankas ir kitos Vyriausybės nustatytos ūkio subjektų veiklos priežiūros institucijos, atlikdamos priežiūros funkciją, pagal kompetenciją prižiūri, kaip laikomasi šio įstatymo [[#^s-cc0b8b208d81c7ce27d0dd00|4 straipsnio]] nuostatų, ir pagal kompetenciją konsultuoja šio straipsnio 3 ir [[#^s-c269c996b9e42edca4de5277|5 dalyse]] nurodytas kompetentingas institucijas tarptautinių sankcijų įgyvendinimo klausimais. ^s-7b665595f9be8053dfdcdd3a
+7. Lietuvos bankas ir kitos Vyriausybės nustatytos ūkio subjektų veiklos priežiūros institucijos, atlikdamos priežiūros funkciją, pagal kompetenciją prižiūri, kaip laikomasi šio įstatymo [[#^s-cc0b8b208d81c7ce27d0dd00|4 straipsnio]] nuostatų, ir pagal kompetenciją konsultuoja šio straipsnio [[#^s-7b6adf2887d4634427277845|3]] ir 5 dalyse nurodytas kompetentingas institucijas tarptautinių sankcijų įgyvendinimo klausimais. ^s-7b665595f9be8053dfdcdd3a
 
 
 
@@ -461,7 +461,7 @@ Nr. XV-203, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08905
 ### 14 straipsnis. Poveikio priemones taikančios institucijos ^s-751297eee0504dcd123370b1
 
 
-1. Juridinių asmenų padarytus tarptautinių sankcijų pažeidimus tiria šio įstatymo [[#^s-195d95d74e19fdd84352b674|11 straipsnio]] 3, 4 ir 5 dalyse nurodytos kompetentingos institucijos, jeigu jos atlieka ūkio subjektų veiklos priežiūrą, kaip tai yra nustatyta [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatyme]], ir Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – poveikio priemones taikančios institucijos). ^s-9780cf83db43322525a94956
+1. Juridinių asmenų padarytus tarptautinių sankcijų pažeidimus tiria šio įstatymo [[#^s-195d95d74e19fdd84352b674|11 straipsnio]] [[#^s-d9d0bfa0387cdf218ec61913|3]], [[#^s-9c0d81a4384f6a1c6d909067|4]] ir [[#^s-c269c996b9e42edca4de5277|5]] dalyse nurodytos kompetentingos institucijos, jeigu jos atlieka ūkio subjektų veiklos priežiūrą, kaip tai yra nustatyta [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatyme]], ir Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikalų ministerijos (toliau – poveikio priemones taikančios institucijos). ^s-9780cf83db43322525a94956
 
 
 2. Jeigu įtariama, kad padarytas tarptautinių sankcijų pažeidimas, kompetentingos institucijos, kurios yra nurodytos šio įstatymo [[#^s-195d95d74e19fdd84352b674|11 straipsnyje]], bet kurios neatlieka ūkio subjektų veiklos priežiūros, kaip tai yra nustatyta [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatyme]], išskyrus Finansinių nusikaltimų tyrimo tarnybą prie Lietuvos Respublikos vidaus reikalų ministerijos, visą turimą informaciją, susijusią su galbūt padarytu tarptautinių sankcijų pažeidimu, nedelsdamos perduoda tirti poveikio priemones taikančiai institucijai pagal veiklos sritį. ^s-bdf5f328018cfed34f9acedb
@@ -470,7 +470,7 @@ Nr. XV-203, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08905
 3. Jeigu įtariama, kad padarytas tarptautinių sankcijų pažeidimas turi administracinio nusižengimo arba nusikalstamos veikos požymių, kompetentingos institucijos, kurios yra nurodytos šio įstatymo [[#^s-195d95d74e19fdd84352b674|11 straipsnyje]], bet kurių darbuotojams nėra suteikta teisė pradėti administracinių nusižengimų teisenos arba ikiteisminio tyrimo, visą turimą informaciją, susijusią su galbūt padarytu administraciniu nusižengimu ar nusikalstama veika, nedelsdamos perduoda institucijai pagal veiklos sritį, kurios pareigūnams ar valstybės tarnautojams yra suteikta teisė pradėti administracinių nusižengimų teiseną arba ikiteisminį tyrimą. ^s-f4043e17762b04704f92a84c
 
 
-4. Lietuvos bankas, pagal kompetenciją atlikdamas šio įstatymo [[#^s-7b665595f9be8053dfdcdd3a|11 straipsnio 7 dalyje]] nurodytą funkciją ir nustatęs, kad prižiūrimi finansų rinkos dalyviai pažeidžia šio įstatymo [[#^s-cc0b8b208d81c7ce27d0dd00|4 straipsnio]] 1 ir [[#^s-bdf5f328018cfed34f9acedb|2 dalyse]] nustatytus reikalavimus, prižiūrimiems finansų rinkos dalyviams taiko finansų rinką reglamentuojančių įstatymų, kurių vykdymo priežiūra priskirta Lietuvos bankui, nustatytas poveikio priemones ir (arba) duoda privalomus nurodymus [[latest/TAR.1B4D7B687895|Lietuvos banko įstatymo]] ir kitų finansų rinką reglamentuojančių įstatymų, kurių vykdymo priežiūra priskirta Lietuvos bankui, nustatyta tvarka. ^s-b1b4a3b63dd91c832040a1ff
+4. Lietuvos bankas, pagal kompetenciją atlikdamas šio įstatymo [[#^s-7b665595f9be8053dfdcdd3a|11 straipsnio 7 dalyje]] nurodytą funkciją ir nustatęs, kad prižiūrimi finansų rinkos dalyviai pažeidžia šio įstatymo [[#^s-cc0b8b208d81c7ce27d0dd00|4 straipsnio]] [[#^s-a39e5b43d944a9b8b42ecf78|1]] ir [[#^s-06f705c445ac32ec9d0a063e|2]] dalyse nustatytus reikalavimus, prižiūrimiems finansų rinkos dalyviams taiko finansų rinką reglamentuojančių įstatymų, kurių vykdymo priežiūra priskirta Lietuvos bankui, nustatytas poveikio priemones ir (arba) duoda privalomus nurodymus [[latest/TAR.1B4D7B687895|Lietuvos banko įstatymo]] ir kitų finansų rinką reglamentuojančių įstatymų, kurių vykdymo priežiūra priskirta Lietuvos bankui, nustatyta tvarka. ^s-b1b4a3b63dd91c832040a1ff
 
 
 
@@ -574,7 +574,7 @@ Nr. XV-203, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08905
 1) skiriamos konkrečios baudos dydį nustato pagal jos vidurkį, kuris apskaičiuojamas sudedant šio įstatymo [[#^s-eb03ec56be46bfd64b02964c|15 straipsnio 1 dalyje]] nustatytus mažiausią ir didžiausią baudos dydžius ir gautą rezultatą padalijant pusiau; ^s-0cf4a71973927dc6a5a93d7e
 
 
-2) skirdama konkrečią baudą, vertina [[#^s-302fc39941d042dbed440317|šio straipsnio 8 dalies]] 1–[[#^s-3e879c9d4a3d66cd278b9106|4 punktuose]] nurodytas aplinkybes ir baudos dydį skaičiuoja nuo baudos vidurkio; ^s-a99529b9eea272fc3d51f7f6
+2) skirdama konkrečią baudą, vertina [[#^s-302fc39941d042dbed440317|šio straipsnio 8 dalies]] [[#^s-0cf4a71973927dc6a5a93d7e|1]]–[[#^s-3e879c9d4a3d66cd278b9106|4]] punktuose nurodytas aplinkybes ir baudos dydį skaičiuoja nuo baudos vidurkio; ^s-a99529b9eea272fc3d51f7f6
 
 
 3) nustačiusi, kad yra kelios asmens atsakomybę lengvinančios aplinkybės ir nėra sunkinančių aplinkybių, skiria baudą, nesiekiančią skirtinos baudos vidurkio; ^s-ced22037f88d4589e6e18325
@@ -597,7 +597,7 @@ Jeigu poveikio priemones taikanti institucija, nustačiusi, kad pažeidimas vert
 1. Juridinis asmuo poveikio priemones taikančios institucijos sprendimu paskirtą baudą privalo sumokėti į valstybės biudžetą ne vėliau kaip per 3 mėnesius nuo sprendimo skirti baudą priėmimo dienos, o jeigu sprendimas skirti baudą buvo apskųstas, – ne vėliau kaip per 3 mėnesius nuo teismo sprendimo, kuriuo skundas buvo atmestas ar patenkintas iš dalies, įsiteisėjimo dienos. ^s-3d7fcc4e960f5532a707fbea
 
 
-2. Poveikio priemones taikančios institucijos sprendimas skirti baudą yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Jeigu poveikio priemones taikanti institucija, priėmusi sprendimą skirti baudą, yra mokesčių administratorius, baudos išieškojimui mutatis mutandis taikoma [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] nustatyta mokesčių priverstinio išieškojimo tvarka. ^s-68b01e0dc31c02a764490749
+2. Poveikio priemones taikančios institucijos sprendimas skirti baudą yra vykdomasis dokumentas, vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Jeigu poveikio priemones taikanti institucija, priėmusi sprendimą skirti baudą, yra mokesčių administratorius, baudos išieškojimui mutatis mutandis taikoma [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymo]] nustatyta mokesčių priverstinio išieškojimo tvarka. ^s-68b01e0dc31c02a764490749
 
 
 
@@ -632,100 +632,100 @@ priedas
 
 
 
-1. 2001 m. gruodžio 27 d. Tarybos reglamentas (EB) Nr. 2580/2001 dėl specialių ribojančių priemonių, taikomų tam tikriems asmenims ir subjektams siekiant kovoti su terorizmu, su paskutiniais pakeitimais, padarytais  2017 m. lapkričio 13 d. Tarybos reglamentu (ES) 2017/2061. ^s-995c5834f4ccfc6372ee78bb
+1. 2001 m. gruodžio 27 d. Tarybos [reglamentas (EB) Nr. 2580/2001](https://eur-lex.europa.eu/eli/reg/2580/2001/oj) dėl specialių ribojančių priemonių, taikomų tam tikriems asmenims ir subjektams siekiant kovoti su terorizmu, su paskutiniais pakeitimais, padarytais  2017 m. lapkričio 13 d. Tarybos [reglamentu (ES) 2017/2061](https://eur-lex.europa.eu/eli/reg/2017/2061/oj). ^s-995c5834f4ccfc6372ee78bb
 
 
-2. 2002 m. gegužės 27 d. Tarybos reglamentas (EB) Nr. 881/2002, kuriuo nustatomos tam tikros specialios ribojamosios priemonės, taikomos tam tikriems asmenims ir subjektams, susijusiems su ISIL („Da'esh“) ir Al-Qaida organizacijomis, su paskutiniais pakeitimais, padarytais 2016 m. kovo 15 d. Tarybos reglamentu (ES) 2016/363. ^s-85048bd266874d0402cfde71
+2. 2002 m. gegužės 27 d. Tarybos reglamentas (EB) Nr. 881/2002, kuriuo nustatomos tam tikros specialios ribojamosios priemonės, taikomos tam tikriems asmenims ir subjektams, susijusiems su ISIL („Da'esh“) ir Al-Qaida organizacijomis, su paskutiniais pakeitimais, padarytais 2016 m. kovo 15 d. Tarybos [reglamentu (ES) 2016/363](https://eur-lex.europa.eu/eli/reg/2016/363/oj). ^s-85048bd266874d0402cfde71
 
 
-3. 2004 m. vasario 19 d. Tarybos reglamentas (EB) Nr. 314/2004 dėl ribojamųjų priemonių, atsižvelgiant į padėtį Zimbabvėje, su paskutiniais pakeitimais, padarytais 2022 m. vasario 17 d. Tarybos reglamentu (ES) 2022/225. ^s-2f3fc729f78bbf40a334c40d
+3. 2004 m. vasario 19 d. Tarybos reglamentas (EB) Nr. 314/2004 dėl ribojamųjų priemonių, atsižvelgiant į padėtį Zimbabvėje, su paskutiniais pakeitimais, padarytais 2022 m. vasario 17 d. Tarybos [reglamentu (ES) 2022/225](https://eur-lex.europa.eu/eli/reg/2022/225/oj). ^s-2f3fc729f78bbf40a334c40d
 
 
-4. 2005 m. liepos 18 d. Tarybos reglamentas (EB) Nr. 1183/2005, nustatantis tam tikras konkrečias ribojančias priemones asmenims, kurie savo veiksmais pažeidžia ginklų embargą Kongo Demokratinei Respublikai, su paskutiniais pakeitimais, padarytais 2022 m. gruodžio 5 d. Tarybos reglamentu (ES) 2022/2373. ^s-095ac03ddc1fc001d2b0a49d
+4. 2005 m. liepos 18 d. Tarybos [reglamentas (EB) Nr. 1183/2005](https://eur-lex.europa.eu/eli/reg/1183/2005/oj), nustatantis tam tikras konkrečias ribojančias priemones asmenims, kurie savo veiksmais pažeidžia ginklų embargą Kongo Demokratinei Respublikai, su paskutiniais pakeitimais, padarytais 2022 m. gruodžio 5 d. Tarybos [reglamentu (ES) 2022/2373](https://eur-lex.europa.eu/eli/reg/2022/2373/oj). ^s-095ac03ddc1fc001d2b0a49d
 
 
-5. 2006 m. gegužės 18 d. Tarybos reglamentas (EB) Nr. 765/2006 dėl ribojamųjų priemonių atsižvelgiant į padėtį Baltarusijoje ir į Baltarusijos įsitraukimą į Rusijos agresiją prieš Ukrainą su paskutiniais pakeitimais, padarytais 2022 m. birželio 3 d. Tarybos reglamentu (ES) 2022/877. ^s-78e8352a13abe9c112203e4f
+5. 2006 m. gegužės 18 d. Tarybos reglamentas (EB) Nr. 765/2006 dėl ribojamųjų priemonių atsižvelgiant į padėtį Baltarusijoje ir į Baltarusijos įsitraukimą į Rusijos agresiją prieš Ukrainą su paskutiniais pakeitimais, padarytais 2022 m. birželio 3 d. Tarybos [reglamentu (ES) 2022/877](https://eur-lex.europa.eu/eli/reg/2022/877/oj). ^s-78e8352a13abe9c112203e4f
 
 
-6. 2009 m. gruodžio 22 d. Tarybos reglamentas (ES) Nr. 1284/2009 dėl ribojamųjų priemonių atsižvelgiant į padėtį Gvinėjoje su paskutiniais pakeitimais, padarytais 2022 m. spalio 24 d. Tarybos reglamentu (ES) 2022/2042. ^s-c4f3dc259fa1a39fe2b323a9
+6. 2009 m. gruodžio 22 d. Tarybos [reglamentas (ES) Nr. 1284/2009](https://eur-lex.europa.eu/eli/reg/1284/2009/oj) dėl ribojamųjų priemonių atsižvelgiant į padėtį Gvinėjoje su paskutiniais pakeitimais, padarytais 2022 m. spalio 24 d. Tarybos [reglamentu (ES) 2022/2042](https://eur-lex.europa.eu/eli/reg/2022/2042/oj). ^s-c4f3dc259fa1a39fe2b323a9
 
 
-7. 2011 m. vasario 4 d. Tarybos reglamentas (ES) Nr. 101/2011 dėl ribojamųjų priemonių, taikytinų tam tikriems asmenims, subjektams ir įstaigoms atsižvelgiant į padėtį Tunise, su paskutiniais pakeitimais, padarytais 2022 m. vasario 3 d. Tarybos reglamentu (ES) 2022/149. ^s-b7995ab0c847ffd329457c03
+7. 2011 m. vasario 4 d. Tarybos reglamentas (ES) Nr. 101/2011 dėl ribojamųjų priemonių, taikytinų tam tikriems asmenims, subjektams ir įstaigoms atsižvelgiant į padėtį Tunise, su paskutiniais pakeitimais, padarytais 2022 m. vasario 3 d. Tarybos [reglamentu (ES) 2022/149](https://eur-lex.europa.eu/eli/reg/2022/149/oj). ^s-b7995ab0c847ffd329457c03
 
 
 8. 2011 m. balandžio 12 d. Tarybos reglamentas (ES) Nr. 359/2011 dėl ribojamųjų priemonių, taikytinų tam tikriems asmenims, subjektams ir įstaigoms atsižvelgiant į padėtį Irane, su paskutiniais pakeitimais, padarytais 2013 m. gegužės 13 d. Tarybos reglamentu (ES) 517/2013. ^s-e6d88c2c58c31c41c380812d
 
 
-9. 2012 m. sausio 18 d. Tarybos reglamentas (ES) Nr. 36/2012 dėl ribojamųjų priemonių, atsižvelgiant į padėtį Sirijoje, kuriuo panaikinamas Reglamentas (ES) Nr. 442/2011, su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 6 d. Tarybos reglamentu (ES) 2016/2137. ^s-77e87271f46d9e765cb58f16
+9. 2012 m. sausio 18 d. Tarybos reglamentas (ES) Nr. 36/2012 dėl ribojamųjų priemonių, atsižvelgiant į padėtį Sirijoje, kuriuo panaikinamas Reglamentas (ES) Nr. 442/2011, su paskutiniais pakeitimais, padarytais 2016 m. gruodžio 6 d. Tarybos [reglamentu (ES) 2016/2137](https://eur-lex.europa.eu/eli/reg/2016/2137/oj). ^s-77e87271f46d9e765cb58f16
 
 
-10. 2012 m. kovo 23 d. Tarybos reglamentas (ES) Nr. 267/2012 dėl ribojamųjų priemonių Iranui, kuriuo panaikinamas Reglamentas (ES) Nr. 961/2010, su paskutiniais pakeitimais, padarytais 2017 m. birželio 8 d. Tarybos reglamentu (ES) 2017/964. ^s-ab94842ab86d7bc521750722
+10. 2012 m. kovo 23 d. Tarybos reglamentas (ES) Nr. 267/2012 dėl ribojamųjų priemonių Iranui, kuriuo panaikinamas Reglamentas (ES) Nr. 961/2010, su paskutiniais pakeitimais, padarytais 2017 m. birželio 8 d. Tarybos [reglamentu (ES) 2017/964](https://eur-lex.europa.eu/eli/reg/2017/964/oj). ^s-ab94842ab86d7bc521750722
 
 
-11. 2012 m. gegužės 3 d. Tarybos reglamentas (ES) Nr. 377/2012 dėl ribojamųjų priemonių, atsižvelgiant į padėtį Bisau Gvinėjoje, su paskutiniais pakeitimais, padarytais 2022 m. liepos 28 d. Tarybos reglamentu (ES) 2022/1329. ^s-dd5e5f8a482955b3ea369435
+11. 2012 m. gegužės 3 d. Tarybos reglamentas (ES) Nr. 377/2012 dėl ribojamųjų priemonių, atsižvelgiant į padėtį Bisau Gvinėjoje, su paskutiniais pakeitimais, padarytais 2022 m. liepos 28 d. Tarybos [reglamentu (ES) 2022/1329](https://eur-lex.europa.eu/eli/reg/2022/1329/oj). ^s-dd5e5f8a482955b3ea369435
 
 
-12. 2013 m. gegužės 2 d. Tarybos reglamentas (ES) Nr. 401/2013 dėl ribojamųjų priemonių, taikomų atsižvelgiant į padėtį Mianmare / Birmoje, kuriuo panaikinamas Reglamentas (EB) Nr. 194/2008, su paskutiniais pakeitimais, padarytais 2022 m. vasario 21 d. Tarybos reglamentu (ES) 2022/238. ^s-359db697e2389e0f77e87d05
+12. 2013 m. gegužės 2 d. Tarybos reglamentas (ES) Nr. 401/2013 dėl ribojamųjų priemonių, taikomų atsižvelgiant į padėtį Mianmare / Birmoje, kuriuo panaikinamas Reglamentas (EB) Nr. 194/2008, su paskutiniais pakeitimais, padarytais 2022 m. vasario 21 d. Tarybos [reglamentu (ES) 2022/238](https://eur-lex.europa.eu/eli/reg/2022/238/oj). ^s-359db697e2389e0f77e87d05
 
 
-13. 2014 m. kovo 5 d. Tarybos reglamentas (ES) Nr. 208/2014 dėl ribojamųjų priemonių, taikytinų tam tikriems asmenims, subjektams ir įstaigoms atsižvelgiant į padėtį Ukrainoje, su paskutiniais pakeitimais, padarytais 2015 m. sausio 29 d. Tarybos reglamentu (ES) 2015/138. ^s-2f5adf37e567ab9da401fcb4
+13. 2014 m. kovo 5 d. Tarybos reglamentas (ES) Nr. 208/2014 dėl ribojamųjų priemonių, taikytinų tam tikriems asmenims, subjektams ir įstaigoms atsižvelgiant į padėtį Ukrainoje, su paskutiniais pakeitimais, padarytais 2015 m. sausio 29 d. Tarybos [reglamentu (ES) 2015/138](https://eur-lex.europa.eu/eli/reg/2015/138/oj). ^s-2f5adf37e567ab9da401fcb4
 
 
-14. 2014 m. kovo 17 d. Tarybos reglamentas (ES) Nr. 269/2014 dėl ribojamųjų priemonių, taikytinų atsižvelgiant į veiksmus, kuriais kenkiama Ukrainos teritoriniam vientisumui, suverenitetui ir nepriklausomybei arba į juos kėsinamasi, su paskutiniais pakeitimais, padarytais 2022 m. gruodžio 16 d. Tarybos reglamentu (ES) 2022/2475. ^s-5ad7c946878666c251ae1959
+14. 2014 m. kovo 17 d. Tarybos reglamentas (ES) Nr. 269/2014 dėl ribojamųjų priemonių, taikytinų atsižvelgiant į veiksmus, kuriais kenkiama Ukrainos teritoriniam vientisumui, suverenitetui ir nepriklausomybei arba į juos kėsinamasi, su paskutiniais pakeitimais, padarytais 2022 m. gruodžio 16 d. Tarybos [reglamentu (ES) 2022/2475](https://eur-lex.europa.eu/eli/reg/2022/2475/oj). ^s-5ad7c946878666c251ae1959
 
 
-15. 2014 m. birželio 23 d. Tarybos reglamentas (ES) Nr. 692/2014 dėl ribojamųjų priemonių atsakant į neteisėtą Krymo ir Sevastopolio prijungimą su paskutiniais pakeitimais, padarytais 2022 m. spalio 4 d. Tarybos reglamentu (ES) 2022/1848. ^s-f9c319cec2c5fe2a2bd8d0a7
+15. 2014 m. birželio 23 d. Tarybos reglamentas (ES) Nr. 692/2014 dėl ribojamųjų priemonių atsakant į neteisėtą Krymo ir Sevastopolio prijungimą su paskutiniais pakeitimais, padarytais 2022 m. spalio 4 d. Tarybos [reglamentu (ES) 2022/1848](https://eur-lex.europa.eu/eli/reg/2022/1848/oj). ^s-f9c319cec2c5fe2a2bd8d0a7
 
 
 16. 2014 m. liepos 10 d. Tarybos reglamentas (ES) Nr. 747/2014 dėl ribojamųjų priemonių atsižvelgiant į padėtį Sudane, kuriuo panaikinami reglamentai (EB) Nr. 131/2004 ir (EB) Nr. 1184/2005. ^s-3014700061aa1acf754f0880
 
 
-17. 2014 m. liepos 31 d. Tarybos reglamentas (ES) Nr. 833/2014 dėl ribojamųjų priemonių atsižvelgiant į Rusijos veiksmus, kuriais destabilizuojama padėtis Ukrainoje, su paskutiniais pakeitimais, padarytais 2023 m. vasario 4 d. Tarybos reglamentu (ES) 2023/250. ^s-60301bf1cd80fd24b7a1ded7
+17. 2014 m. liepos 31 d. Tarybos reglamentas (ES) Nr. 833/2014 dėl ribojamųjų priemonių atsižvelgiant į Rusijos veiksmus, kuriais destabilizuojama padėtis Ukrainoje, su paskutiniais pakeitimais, padarytais 2023 m. vasario 4 d. Tarybos [reglamentu (ES) 2023/250](https://eur-lex.europa.eu/eli/reg/2023/250/oj). ^s-60301bf1cd80fd24b7a1ded7
 
 
-18. 2015 m. gegužės 7 d. Tarybos reglamentas (ES) 2015/735 dėl ribojamųjų priemonių atsižvelgiant į padėtį Pietų Sudane, kuriuo panaikinamas Reglamentas (ES) Nr. 748/2014, su paskutiniais pakeitimais, padarytais 2018 m. rugpjūčio 10 d. Tarybos reglamentu (ES) 2018/1116. ^s-ecb8efbfedce50f78f6e62dc
+18. 2015 m. gegužės 7 d. Tarybos [reglamentas (ES) 2015/735](https://eur-lex.europa.eu/eli/reg/2015/735/oj) dėl ribojamųjų priemonių atsižvelgiant į padėtį Pietų Sudane, kuriuo panaikinamas Reglamentas (ES) Nr. 748/2014, su paskutiniais pakeitimais, padarytais 2018 m. rugpjūčio 10 d. Tarybos [reglamentu (ES) 2018/1116](https://eur-lex.europa.eu/eli/reg/2018/1116/oj). ^s-ecb8efbfedce50f78f6e62dc
 
 
-19. 2015 m. spalio 1 d. Tarybos reglamentas (ES) 2015/1755 dėl ribojamųjų priemonių atsižvelgiant į padėtį Burundyje su paskutiniais pakeitimais, padarytais 2019 m. spalio 24 d. Tarybos reglamentu (ES) 2019/1777. ^s-3d07f71f91a7df1735e7206b
+19. 2015 m. spalio 1 d. Tarybos [reglamentas (ES) 2015/1755](https://eur-lex.europa.eu/eli/reg/2015/1755/oj) dėl ribojamųjų priemonių atsižvelgiant į padėtį Burundyje su paskutiniais pakeitimais, padarytais 2019 m. spalio 24 d. Tarybos [reglamentu (ES) 2019/1777](https://eur-lex.europa.eu/eli/reg/2019/1777/oj). ^s-3d07f71f91a7df1735e7206b
 
 
-20. 2016 m. sausio 18 d. Tarybos reglamentas (ES) 2016/44 dėl ribojamųjų priemonių atsižvelgiant į padėtį Libijoje ir kuriuo panaikinamas Reglamentas (ES) Nr. 204/2011 su paskutiniais pakeitimais, padarytais 2021 m. birželio 21 d. Tarybos reglamentu (ES) 2021/1005. ^s-75b137e447b973c28cef310d
+20. 2016 m. sausio 18 d. Tarybos [reglamentas (ES) 2016/44](https://eur-lex.europa.eu/eli/reg/2016/44/oj) dėl ribojamųjų priemonių atsižvelgiant į padėtį Libijoje ir kuriuo panaikinamas Reglamentas (ES) Nr. 204/2011 su paskutiniais pakeitimais, padarytais 2021 m. birželio 21 d. Tarybos [reglamentu (ES) 2021/1005](https://eur-lex.europa.eu/eli/reg/2021/1005/oj). ^s-75b137e447b973c28cef310d
 
 
-21. 2016 m. rugsėjo 20 d. Tarybos reglamentas (ES) 2016/1686, kuriuo nustatomos papildomos ribojamosios priemonės, taikomos ISIL („Da'esh“) ir „Al-Qaida“ bei su jomis susijusiems fiziniams ir juridiniams asmenims, subjektams ar organizacijoms, su paskutiniais pakeitimais, padarytais 2016 m. rugsėjo 20 d. Tarybos reglamentu (ES) 2016/1686. ^s-153bbe04e84b255ddbdb5fa6
+21. 2016 m. rugsėjo 20 d. Tarybos [reglamentas (ES) 2016/1686](https://eur-lex.europa.eu/eli/reg/2016/1686/oj), kuriuo nustatomos papildomos ribojamosios priemonės, taikomos ISIL („Da'esh“) ir „Al-Qaida“ bei su jomis susijusiems fiziniams ir juridiniams asmenims, subjektams ar organizacijoms, su paskutiniais pakeitimais, padarytais 2016 m. rugsėjo 20 d. Tarybos [reglamentu (ES) 2016/1686](https://eur-lex.europa.eu/eli/reg/2016/1686/oj). ^s-153bbe04e84b255ddbdb5fa6
 
 
-22. 2017 m. rugpjūčio 30 d. Tarybos reglamentas (ES) 2017/1509 dėl ribojamųjų priemonių Korėjos Liaudies Demokratinei Respublikai, kuriuo panaikinamas Reglamentas (EB) Nr. 329/2007, su paskutiniais pakeitimais, padarytais 2018 m. vasario 26 d. Tarybos reglamentu (ES) 2018/285. ^s-20766521e2f56993f0ae56f4
+22. 2017 m. rugpjūčio 30 d. Tarybos [reglamentas (ES) 2017/1509](https://eur-lex.europa.eu/eli/reg/2017/1509/oj) dėl ribojamųjų priemonių Korėjos Liaudies Demokratinei Respublikai, kuriuo panaikinamas Reglamentas (EB) Nr. 329/2007, su paskutiniais pakeitimais, padarytais 2018 m. vasario 26 d. Tarybos [reglamentu (ES) 2018/285](https://eur-lex.europa.eu/eli/reg/2018/285/oj). ^s-20766521e2f56993f0ae56f4
 
 
-23. 2017 m. rugsėjo 28 d. Tarybos reglamentas (ES) 2017/1770 dėl ribojamųjų priemonių atsižvelgiant į padėtį Malyje su paskutiniais pakeitimais, padarytais 2021 m. gruodžio 13 d. Tarybos reglamentu (ES) 2021/2201. ^s-c3241b7909e273a3de67151b
+23. 2017 m. rugsėjo 28 d. Tarybos [reglamentas (ES) 2017/1770](https://eur-lex.europa.eu/eli/reg/2017/1770/oj) dėl ribojamųjų priemonių atsižvelgiant į padėtį Malyje su paskutiniais pakeitimais, padarytais 2021 m. gruodžio 13 d. Tarybos [reglamentu (ES) 2021/2201](https://eur-lex.europa.eu/eli/reg/2021/2201/oj). ^s-c3241b7909e273a3de67151b
 
 
-24. 2017 m. lapkričio 13 d. Tarybos reglamentas (ES) 2017/2063 dėl ribojamųjų priemonių atsižvelgiant į padėtį Venesueloje su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 11 d. Tarybos reglamentu (ES) 2019/1889. ^s-02194755cd6c356ba832151b
+24. 2017 m. lapkričio 13 d. Tarybos [reglamentas (ES) 2017/2063](https://eur-lex.europa.eu/eli/reg/2017/2063/oj) dėl ribojamųjų priemonių atsižvelgiant į padėtį Venesueloje su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 11 d. Tarybos [reglamentu (ES) 2019/1889](https://eur-lex.europa.eu/eli/reg/2019/1889/oj). ^s-02194755cd6c356ba832151b
 
 
-25. 2018 m. spalio 15 d. Tarybos reglamentas (ES) 2018/1542 dėl ribojamųjų kovos su cheminio ginklo platinimu ir naudojimu priemonių. ^s-50ab19096855d50173b39206
+25. 2018 m. spalio 15 d. Tarybos [reglamentas (ES) 2018/1542](https://eur-lex.europa.eu/eli/reg/2018/1542/oj) dėl ribojamųjų kovos su cheminio ginklo platinimu ir naudojimu priemonių. ^s-50ab19096855d50173b39206
 
 
-26. 2019 m. gegužės 17 d. Tarybos reglamentas (ES) 2019/796 dėl ribojamųjų priemonių, skirtų kovai su kibernetiniais išpuoliais, keliančiais grėsmę Sąjungai arba jos valstybėms narėms. ^s-47bf386119b5696206c4619b
+26. 2019 m. gegužės 17 d. Tarybos [reglamentas (ES) 2019/796](https://eur-lex.europa.eu/eli/reg/2019/796/oj) dėl ribojamųjų priemonių, skirtų kovai su kibernetiniais išpuoliais, keliančiais grėsmę Sąjungai arba jos valstybėms narėms. ^s-47bf386119b5696206c4619b
 
 
-27. 2019 m. spalio 14 d. Tarybos reglamentas (ES) 2019/1716 dėl ribojamųjų priemonių atsižvelgiant į padėtį Nikaragvoje su paskutiniais pakeitimais, padarytais 2022 m. spalio 13 d. Tarybos reglamentu (ES) 2022/1934. ^s-79b354880318d3cbfd2c992e
+27. 2019 m. spalio 14 d. Tarybos [reglamentas (ES) 2019/1716](https://eur-lex.europa.eu/eli/reg/2019/1716/oj) dėl ribojamųjų priemonių atsižvelgiant į padėtį Nikaragvoje su paskutiniais pakeitimais, padarytais 2022 m. spalio 13 d. Tarybos [reglamentu (ES) 2022/1934](https://eur-lex.europa.eu/eli/reg/2022/1934/oj). ^s-79b354880318d3cbfd2c992e
 
 
-28. 2019 m. lapkričio 11 d. Tarybos reglamentas (ES) 2019/1890 dėl ribojamųjų priemonių atsižvelgiant į neturint leidimo Turkijos vykdomą gręžimo veiklą rytinėje Viduržemio jūros dalyje. ^s-4f9212dec7efe1c08b5ba748
+28. 2019 m. lapkričio 11 d. Tarybos [reglamentas (ES) 2019/1890](https://eur-lex.europa.eu/eli/reg/2019/1890/oj) dėl ribojamųjų priemonių atsižvelgiant į neturint leidimo Turkijos vykdomą gręžimo veiklą rytinėje Viduržemio jūros dalyje. ^s-4f9212dec7efe1c08b5ba748
 
 
-29. 2020 m. gruodžio 7 d. Tarybos reglamentas (ES) 2020/1998 dėl ribojamųjų kovos su šiurkščiais žmogaus teisių pažeidimais priemonių. ^s-9e8e941d4f8104434631f14b
+29. 2020 m. gruodžio 7 d. Tarybos [reglamentas (ES) 2020/1998](https://eur-lex.europa.eu/eli/reg/2020/1998/oj) dėl ribojamųjų kovos su šiurkščiais žmogaus teisių pažeidimais priemonių. ^s-9e8e941d4f8104434631f14b
 
 
-30. 2021 m. liepos 30 d. Tarybos reglamentas (ES) 2021/1275 dėl ribojamųjų priemonių atsižvelgiant į padėtį Libane. ^s-ad741526f0d3431b9694f3cc
+30. 2021 m. liepos 30 d. Tarybos [reglamentas (ES) 2021/1275](https://eur-lex.europa.eu/eli/reg/2021/1275/oj) dėl ribojamųjų priemonių atsižvelgiant į padėtį Libane. ^s-ad741526f0d3431b9694f3cc
 
 
-31. 2022 m. vasario 23 d. Tarybos reglamentas (ES) 2022/263 dėl ribojamųjų priemonių, taikytinų reaguojant į Rusijos Federacijos sprendimą neteisėtai pripažinti, okupuoti ar aneksuoti tam tikras vyriausybės nekontroliuojamas Ukrainos teritorijas, su paskutiniais pakeitimais, padarytais 2022 m. spalio 6 d. Tarybos reglamentu (ES) 2022/1903. ^s-1827cc8559793664de18184f
+31. 2022 m. vasario 23 d. Tarybos [reglamentas (ES) 2022/263](https://eur-lex.europa.eu/eli/reg/2022/263/oj) dėl ribojamųjų priemonių, taikytinų reaguojant į Rusijos Federacijos sprendimą neteisėtai pripažinti, okupuoti ar aneksuoti tam tikras vyriausybės nekontroliuojamas Ukrainos teritorijas, su paskutiniais pakeitimais, padarytais 2022 m. spalio 6 d. Tarybos [reglamentu (ES) 2022/1903](https://eur-lex.europa.eu/eli/reg/2022/1903/oj). ^s-1827cc8559793664de18184f
 
 
-32. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1226 dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama Direktyva (ES) 2018/1673. ^s-9ebec01ccb45e1c22e13c120
+32. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1226](https://eur-lex.europa.eu/eli/dir/2024/1226/oj) dėl nusikalstamų veikų apibrėžties ir sankcijų už Sąjungos ribojamųjų priemonių pažeidimą, kuria iš dalies keičiama [Direktyva (ES) 2018/1673](https://eur-lex.europa.eu/eli/dir/2018/1673/oj). ^s-9ebec01ccb45e1c22e13c120
 _________________________
 Papildyta straipsnio dalimi:
 Nr. XV-203, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08905
@@ -767,7 +767,7 @@ Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1865, 2023-03-30, paskelbta TAR 2023-04-05, i. k. 2023-06472
-Lietuvos Respublikos tarptautinių sankcijų įstatymo Nr. IX-2160 1, 2, 5, 11, [[#^s-179463f9999326787cbc5747|12 straipsnių]] ir V skyriaus pakeitimo ir Įstatymo papildymo II-1 skyriumi ir priedu įstatymas
+Lietuvos Respublikos tarptautinių sankcijų įstatymo Nr. IX-2160 [[#^s-a7997d852b943d933a451c95|1]], [[#^s-e7bb7beba201777b6e674236|2]], [[#^s-b311624a72dbe4347f430409|5]], [[#^s-195d95d74e19fdd84352b674|11]], [[#^s-179463f9999326787cbc5747|12]] straipsnių ir V skyriaus pakeitimo ir Įstatymo papildymo II-1 skyriumi ir priedu įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -777,4 +777,4 @@ Lietuvos Respublikos tarptautinių sankcijų įstatymo Nr. IX-2160 [[#^s-e35f410
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-203, 2025-05-15, paskelbta TAR 2025-05-20, i. k. 2025-08905
-Lietuvos Respublikos tarptautinių sankcijų įstatymo Nr. IX-2160 2 ir [[#^s-dfe8643e6ef2d1dfd0bffd26|13 straipsnių]] bei priedo pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
+Lietuvos Respublikos tarptautinių sankcijų įstatymo Nr. IX-2160 [[#^s-e7bb7beba201777b6e674236|2]] ir [[#^s-dfe8643e6ef2d1dfd0bffd26|13]] straipsnių bei priedo pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas

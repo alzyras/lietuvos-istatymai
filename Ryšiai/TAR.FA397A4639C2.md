@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.951DF53F837F|Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymas]] - Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo
+_Nėra._
 
 ## Šį įstatymą cituoja
 

@@ -42,13 +42,13 @@ Vilnius
 1. 13 straipsnio 1 dalies 2 punkte po žodžio „įstatymą“ įrašyti žodžius „ir Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 161 straipsnyje nustatytą valstybės nekilnojamojo turto atnaujinimo organizatoriaus parduotą nekilnojamąjį turtą, įskaitant žemę“ ir šį punktą išdėstyti taip: ^s-5d759128e978446471d9186e
 
 
-„2) pajamos iš valstybės turto (išskyrus pajamas, gaunamas pagal Valstybės ir savivaldybių turto privatizavimo įstatymą ir Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 161 straipsnyje nustatytą valstybės nekilnojamojo turto atnaujinimo organizatoriaus parduotą nekilnojamąjį turtą, įskaitant žemę);“.
+„2) pajamos iš valstybės turto (išskyrus pajamas, gaunamas pagal Valstybės ir savivaldybių turto privatizavimo įstatymą ir [[latest/TAR.D5496D69DF98|Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 161 straipsnyje]] nustatytą valstybės nekilnojamojo turto atnaujinimo organizatoriaus parduotą nekilnojamąjį turtą, įskaitant žemę);“.
 
 
 2. 13 straipsnio 2 dalyje po žodžio „realizavimą“ įrašyti žodžius „išskyrus Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 161 straipsnyje nustatytą atvejį – kai atnaujinamas valstybės nekilnojamasis turtas“ ir šią dalį išdėstyti taip: ^s-7a0880d44edfa304bbf2e899
 
 
-„2. Į valstybės biudžeto pajamas įskaitomos įmokos už ilgalaikio materialiojo ir nematerialiojo turto realizavimą, išskyrus Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 161 straipsnyje nustatytą atvejį -kai atnaujinamas valstybės nekilnojamasis turtas.“
+„2. Į valstybės biudžeto pajamas įskaitomos įmokos už ilgalaikio materialiojo ir nematerialiojo turto realizavimą, išskyrus [[latest/TAR.D5496D69DF98|Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 161 straipsnyje]] nustatytą atvejį -kai atnaujinamas valstybės nekilnojamasis turtas.“
 
 
 

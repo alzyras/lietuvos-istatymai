@@ -111,7 +111,7 @@ iki 1997 m. liepos 1 d.:
 12) nustatyti lėšų rezervo, skirto užkrečiamųjų ligų protrūkių profilaktikai ir jų pasekmių pašalinimui, naudojimo tvarką; ^s-6800d8c57bfa386d4afa4543
 
 
-13) teisės aktus dėl Valstybinės visuomenės sveikatos priežiūros tarnybos prie Sveikatos apsaugos ministerijos Respublikinio imunoprofilaktikos centro, kitų šios tarnybos įstaigų ir jų padalinių, vykdančių užkrečiamųjų ligų profilaktiką ir kontrolę, reorganizavimo į šios tarnybos Respublikinį užkrečiamųjų ligų profilaktikos ir kontrolės centrą, taip pat dėl jo etatų patvirtinimo ir šio centro išlaikymo. ^s-4f6d673b67815edbcdd3a02f
+13) teisės aktus [dėl Valstybinės visuomenės sveikatos priežiūros tarnybos](https://e-tar.lt/portal/lt/legalAct/TAR.B8F5147E8D06) prie Sveikatos apsaugos ministerijos Respublikinio imunoprofilaktikos centro, kitų šios tarnybos įstaigų ir jų padalinių, vykdančių užkrečiamųjų ligų profilaktiką ir kontrolę, reorganizavimo į šios tarnybos Respublikinį užkrečiamųjų ligų profilaktikos ir kontrolės centrą, taip pat dėl jo etatų patvirtinimo ir šio centro išlaikymo. ^s-4f6d673b67815edbcdd3a02f
 
 
 2. Nustatyti, kad iki Vyriausybė priims šio įstatymo [[#^s-cfb50425c0ca193019d3a9c5|1 straipsnyje]] nurodytus teisės aktus, galioja atitinkami Sveikatos apsaugos ministerijos teisės aktai. ^s-3b53fcab025e49c426ddb05d

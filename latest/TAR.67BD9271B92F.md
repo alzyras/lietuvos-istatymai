@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-982d866051ffda620f016822
-LIETUVOS RESPUBLIKOS PREZIDENTO ĮSTATYMO 20 STRAIPSNIO PAKEITIMAS
+[[latest/TAR.438A78A26F38|LIETUVOS RESPUBLIKOS PREZIDENTO ĮSTATYMO 20 STRAIPSNIO]] PAKEITIMAS
 
 (Žin., 1993, Nr. 5-89; 2003, Nr. 112-4992)
 
@@ -57,7 +57,7 @@ Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
 ### ANTRASIS SKIRSNIS ^s-a0b63b7cef397e59da311495
-[[latest/TAR.ED38F243563C#^s-4f5423281768c8939d76bcc2|VALSTYBINIŲ PENSIJŲ ĮSTATYMO 1, 2, 3, 8, 9, 14 STRAIPSNIŲ]] PAKEITIMAS IR PAPILDYMAS
+[[latest/TAR.ED38F243563C|VALSTYBINIŲ PENSIJŲ ĮSTATYMO]] [[latest/TAR.ED38F243563C#^s-f3c033b83b87133933acf2f9|1]], [[latest/TAR.ED38F243563C#^s-e20b2fc71a76ed2bb6e4cb0a|2]], [[latest/TAR.ED38F243563C#^s-eaa3df59b77536730912158d|3]], [[latest/TAR.ED38F243563C#^s-7cbf5c70874c00a665b5f7d6|8]], [[latest/TAR.ED38F243563C#^s-3575c29f9003513a3ef000be|9]], [[latest/TAR.ED38F243563C#^s-4f5423281768c8939d76bcc2|14]] STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 1994, Nr. 101-2018; 1995, Nr. 59-1476, Nr. 102-2282; 1996, Nr. 73-1750; 1997, Nr. 104-2622; 1998, Nr. 56-1546, Nr. 98-2709, Nr. 114-3192, Nr. 115-3235; 1999, Nr. 48-1525, Nr. 99-2846; 2001, Nr. 21-693; 2002, Nr. 73-3089; 2005, Nr. 7-188, Nr. 71-2554; 2006, Nr. 77-2970)
 
@@ -211,16 +211,16 @@ VIDAUS REIKALŲ, SPECIALIŲJŲ TYRIMŲ TARNYBOS, VALSTYBĖS SAUGUMO, KRAŠTO APS
 ### 1 straipsnis. 10 straipsnio 1, 2 ir 3 dalių pakeitimas ^s-255a4d111a48eaccb5092d92
 
 
-Pakeisti 10 straipsnio 1, 2 ir [[#^s-e9d0fc443efccf2fb25a96c2|3 dalis]] ir jas išdėstyti taip:
+Pakeisti 10 straipsnio 1, 2 ir 3 dalis ir jas išdėstyti taip:
 
 
 „1. Teisę gauti pareigūnų ir karių valstybinę našlių ir našlaičių pensiją turi mirusiojo (arba nustatyta tvarka pripažinto mirusiu ar nežinia kur esančiu) pareigūno ar kario sutuoktinis bei vaikai (įvaikiai), atitinkantys [[latest/TAR.ED38F243563C#^s-3575c29f9003513a3ef000be|Valstybinių pensijų įstatymo 9 straipsnyje]] nustatytas sąlygas. Ši pensija skiriama, jei miręs asmuo buvo įgijęs teisę gauti pareigūnų ir karių valstybinę pensiją už tarnybą arba žuvęs ar miręs nuo sužalojimų asmuo dėl priežasčių, susijusių su tarnyba, arba dėl netekto darbingumo buvo įgijęs teisę gauti pareigūnų ir karių valstybinę netekto darbingumo pensiją arba vieną iš šių pensijų gavo.
 
 
-2. Pareigūnų ir karių valstybinė našlių ir našlaičių pensija apskaičiuojama taip pat kaip karių ir pareigūnų valstybinė netekto darbingumo pensija asmenims, netekusiems 75–100 procentų darbingumo, atsižvelgiant, ar pareigūnas mirė dėl priežasčių, susijusių su tarnyba, ar dėl kitų priežasčių. Taip apskaičiuota pensija skiriama turintiems teisę gauti pareigūnų ir karių valstybinę našlių ir našlaičių pensiją asmenims [[latest/TAR.ED38F243563C#^s-3575c29f9003513a3ef000be|Valstybinių pensijų įstatymo 9 straipsnio]] 5 ir 8 dalyse nustatytomis dalimis. ^s-7a141ab9287399c03fcdc5ba
+2. Pareigūnų ir karių valstybinė našlių ir našlaičių pensija apskaičiuojama taip pat kaip karių ir pareigūnų valstybinė netekto darbingumo pensija asmenims, netekusiems 75–100 procentų darbingumo, atsižvelgiant, ar pareigūnas mirė dėl priežasčių, susijusių su tarnyba, ar dėl kitų priežasčių. Taip apskaičiuota pensija skiriama turintiems teisę gauti pareigūnų ir karių valstybinę našlių ir našlaičių pensiją asmenims [[latest/TAR.ED38F243563C#^s-3575c29f9003513a3ef000be|Valstybinių pensijų įstatymo 9 straipsnio]] [[latest/TAR.ED38F243563C|5]] ir [[latest/TAR.ED38F243563C|8]] dalyse nustatytomis dalimis. ^s-7a141ab9287399c03fcdc5ba
 
 
-3. Mirus pareigūnui ar kariui, gavusiam pareigūnų ir karių valstybinę pensiją už tarnybą arba netekto darbingumo pensiją, pareigūnų ir karių valstybinė našlių ir našlaičių pensija skiriama pagal mirusiojo gautos pensijos dydį [[latest/TAR.ED38F243563C#^s-3575c29f9003513a3ef000be|Valstybinių pensijų įstatymo 9 straipsnio]] 5 ir 8 dalyse nustatytomis dalimis.“ ^s-e9d0fc443efccf2fb25a96c2
+3. Mirus pareigūnui ar kariui, gavusiam pareigūnų ir karių valstybinę pensiją už tarnybą arba netekto darbingumo pensiją, pareigūnų ir karių valstybinė našlių ir našlaičių pensija skiriama pagal mirusiojo gautos pensijos dydį [[latest/TAR.ED38F243563C#^s-3575c29f9003513a3ef000be|Valstybinių pensijų įstatymo 9 straipsnio]] [[latest/TAR.ED38F243563C|5]] ir [[latest/TAR.ED38F243563C|8]] dalyse nustatytomis dalimis.“ ^s-e9d0fc443efccf2fb25a96c2
 
 
 ### KETVIRTASIS SKIRSNIS ^s-00d1864edb45641e8bc7b5d1

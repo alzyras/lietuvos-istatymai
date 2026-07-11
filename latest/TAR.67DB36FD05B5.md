@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-d9d236e08d3ff924a222d7eb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. gruodžio 11 d. dekretą Nr. 1K-827, ratifikuoja 2005 m. spalio 20 d. Paryžiuje priimtą Konvenciją dėl kultūrų raiškos įvairovės apsaugos ir skatinimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. gruodžio 11 d. dekretą Nr. 1K-827](https://e-tar.lt/portal/lt/legalAct/TAR.F3CFC246095C), ratifikuoja 2005 m. spalio 20 d. Paryžiuje priimtą Konvenciją dėl kultūrų raiškos įvairovės apsaugos ir skatinimo.
 
 
 

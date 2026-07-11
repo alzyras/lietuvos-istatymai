@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos viešųjų ir privačių interesų derinimo v
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas]] - 2 citatos - Gyventojų pajamų mokesčio įstatyme
+- [[latest/TAR.C677663D2202|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymas]] - Gyventojų pajamų mokesčio įstatyme
 - [[latest/TAR.789C6EE505FD|Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymas]] - Vyriausiosios tarnybinės etikos komisijos įstatymo
 
 ## Šį įstatymą cituoja

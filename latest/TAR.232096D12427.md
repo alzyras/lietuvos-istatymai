@@ -77,7 +77,7 @@ laivas – bet kurio tipo savaeigis arba nesavaeigis plaukiojantis statinys, kur
 linijinis laivas – laivas, plaukiantis laivybos linijoje tarp dviejų ar daugiau paskelbtų uostų pagal nuolatinį grafiką, kurios operatoriui yra išduotas laivybos linijos įregistravimo pažymėjimas;
 
 
-laisvasis uostas – uosto žemės dalis, kurioje ne Lietuvos prekės importo muitų bei mokesčių ir ekonominių draudimų bei apribojimų požiūriu laikomos esančiomis ne Lietuvos Respublikos muitų teritorijoje, išskyrus atvejus, kai šios prekės išleidžiamos laisvai cirkuliuoti, pateikiamos kitai muitinės procedūrai įforminti arba laikomos ar naudojamos kitomis sąlygomis, negu nustatyta šio įstatymo, Muitinės kodekso ar kitų teisės aktų;
+laisvasis uostas – uosto žemės dalis, kurioje ne Lietuvos prekės importo muitų bei mokesčių ir ekonominių draudimų bei apribojimų požiūriu laikomos esančiomis ne Lietuvos Respublikos muitų teritorijoje, išskyrus atvejus, kai šios prekės išleidžiamos laisvai cirkuliuoti, pateikiamos kitai muitinės procedūrai įforminti arba laikomos ar naudojamos kitomis sąlygomis, negu nustatyta šio įstatymo, [Muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) ar kitų teisės aktų;
 
 
 krantinė – nustatyto ilgio, pločio ir leistinų apkrovų hidrotechninis įrenginys, skirtas švartuoti ir krauti laivus, įlaipinti arba išlaipinti keleivius;
@@ -267,7 +267,7 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 ### 8 straipsnis. 17 straipsnio pakeitimas ^s-ad8c5e5d84a26997ebf1c0b3
 
 
-Pakeisti 17 straipsnyje išdėstyto 21 straipsnio 1 ir [[#^s-71141bfd27f03b7aa4d36752|2 dalis]] ir visą 17 straipsnį išdėstyti taip:
+Pakeisti 17 straipsnyje išdėstyto 21 straipsnio 1 ir 2 dalis ir visą 17 straipsnį išdėstyti taip:
 
 
 „17 straipsnis. 21 straipsnio pakeitimas
@@ -283,7 +283,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 2. Prekės iš Lietuvos Respublikos muitų teritorijos į laisvąjį uostą įvežamos ir iš laisvojo uosto į Lietuvos Respublikos muitų teritoriją išvežamos per tam tikslui įrengtas vietas. Postų ir muitinio tikrinimo vietų įrengimą organizuoja Vyriausybės įgaliota institucija, patalpų, muitinio tikrinimo vietų bei infrastruktūros projektus suderinusi su Muitinės departamentu prie Lietuvos Respublikos finansų ministerijos. ^s-71141bfd27f03b7aa4d36752
 
 
-3. Muitinė tikrina į laisvąjį uostą įvežamas, iš jo išvežamas ir jame laikomas prekes Muitinės kodekso nustatyta tvarka.“ ^s-0921ccfd473a38e7f7b30c20
+3. Muitinė tikrina į laisvąjį uostą įvežamas, iš jo išvežamas ir jame laikomas prekes [Muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nustatyta tvarka.“ ^s-0921ccfd473a38e7f7b30c20
 
 
 
@@ -333,11 +333,11 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 „20 straipsnis. 24 straipsnio pavadinimo ir [[#^s-8fcd614b7371252b32a0ec90|1 dalies]] pakeitimas
 
 
-24 straipsnio pavadinime prieš žodžius „Nuomos sutarties“ įrašyti žodžius „Uosto žemės“, [[#^s-8fcd614b7371252b32a0ec90|1 dalyje]] vietoj skaičiaus ir žodžio „25 metų“ įrašyti skaičius ir žodžius „kaip 50 metų“, vietoj žodžių „Lietuvos Respublikos civilinio kodekso“ įrašyti žodžius „Lietuvos Respublikos žemės nuomos įstatymo“ ir šį straipsnį išdėstyti taip:
+24 straipsnio pavadinime prieš žodžius „Nuomos sutarties“ įrašyti žodžius „Uosto žemės“, [[#^s-8fcd614b7371252b32a0ec90|1 dalyje]] vietoj skaičiaus ir žodžio „25 metų“ įrašyti skaičius ir žodžius „kaip 50 metų“, vietoj žodžių „Lietuvos Respublikos civilinio kodekso“ įrašyti žodžius [„Lietuvos Respublikos žemės nuomos įstatymo“](https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC) ir šį straipsnį išdėstyti taip:
 „24 straipsnis. Uosto žemės nuomos sutarties forma ir terminas
 
 
-1. Uosto žemės nuomos sutartis sudaroma raštu ne ilgiau kaip 50 metų, laikantis Lietuvos Respublikos žemės nuomos įstatymo ir šio įstatymo reikalavimų. ^s-8fcd614b7371252b32a0ec90
+1. Uosto žemės nuomos sutartis sudaroma raštu ne ilgiau kaip 50 metų, laikantis [Lietuvos Respublikos žemės nuomos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC) ir šio įstatymo reikalavimų. ^s-8fcd614b7371252b32a0ec90
 
 
 2. Nuomininkas, tvarkingai vykdęs uosto žemės nuomos sutartyje nustatytas pareigas, pasibaigus sutarties terminui, turi pirmumo teisę atnaujinti sutartį.“ ^s-1137d5f9a50d29d9cf1a09b1

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-321ee3fb2f14edd3ae49d64e
 
 
-Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. kovo 12 d. dekretą Nr. 886, ratifikuoja Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl „Objekto 500“ ir hidroelektrinės „Tautų draugystė“, pasirašytą 1995 m. vasario 6 d. Vilniuje.
+Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento [1996 m. kovo 12 d. dekretą Nr. 886](https://e-tar.lt/portal/lt/legalAct/TAR.086F865C3F6F), ratifikuoja Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl „Objekto 500“ ir hidroelektrinės „Tautų draugystė“, pasirašytą 1995 m. vasario 6 d. Vilniuje.
 
 
 

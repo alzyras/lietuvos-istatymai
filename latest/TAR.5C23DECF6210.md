@@ -70,7 +70,7 @@ Nr. XV-267, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11114
 4. Grynasis skolinių įsipareigojimų pokytis – per tam tikrą laikotarpį Vyriausybės valstybės vardu skolinantis prisiimtų ir įvykdytų įsipareigojimų sumų skirtumas. ^s-080826cea5833b9f20691ec5
 
 
-5. Išvestinės finansinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-bd957f5b69326a7887eb58d6|Finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies]] 4–10 punktuose nurodytos finansinės priemonės. ^s-b6d0f82dd7054332d339d3b2
+5. Išvestinės finansinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-bd957f5b69326a7887eb58d6|Finansinių priemonių rinkų įstatymo 3 straipsnio 15 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-b258a760911fb8393b8ac7ad|4]]–[[latest/TAR.AB7AFE2F35B2#^s-e0d6a88ed5e696004aaeda0d|10]] punktuose nurodytos finansinės priemonės. ^s-b6d0f82dd7054332d339d3b2
 
 
 6. Kiti įsipareigojamieji skolos dokumentai – dokumentai, kuriais patvirtinamas skolinantis prisiimtas įsipareigojimas (neapimantis įsipareigojimų, prisiimamų išplatinant Vyriausybės vertybinius popierius, pasirašant paskolų sutartis, finansinės nuomos (lizingo) sutartis, suteikiant valstybės garantijas) grąžinti dokumentuose nurodytą pinigų sumą šiuose dokumentuose sutartomis (nustatytomis) sąlygomis (komerciniai popieriai, paprastieji ir įsakomieji vekseliai, depozitų sertifikatai, Vyriausybės depozitinių įsipareigojimų sutartys ir pan.). ^s-9fb7ef22d887fe45d5cddc37
@@ -172,7 +172,7 @@ Nr. XV-267, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11114
 
 
 
-2. Vyriausybės vertybinius popierius leidžia, paskolas valstybės vardu ima, valstybės garantijas teikia ir įsipareigojimus pagal kitus įsipareigojamuosius skolos dokumentus prisiima Vyriausybė, laikydamasi Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme nustatytų limitų, šio įstatymo 5 ir [[#^s-eebf05777c768661f5d46bb6|6 straipsniuose]] nustatyta tvarka. ^s-4b9330eb3ec8cd9b4d927825
+2. Vyriausybės vertybinius popierius leidžia, paskolas valstybės vardu ima, valstybės garantijas teikia ir įsipareigojimus pagal kitus įsipareigojamuosius skolos dokumentus prisiima Vyriausybė, laikydamasi Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme nustatytų limitų, šio įstatymo [[#^s-ee80bcf59d91e0f617038c84|5]] ir [[#^s-eebf05777c768661f5d46bb6|6]] straipsniuose nustatyta tvarka. ^s-4b9330eb3ec8cd9b4d927825
 
 
 3. Skolinantis valstybės vardu, Vyriausybei atstovauja Finansų ministerija. Finansų ministerija Vyriausybės nustatyta tvarka: ^s-860c760ce993e75d4d9f019a
@@ -229,7 +229,7 @@ Nr. XV-538, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19769
 6) naudoja finansines priemones (tarp jų ir išvestines) Vyriausybės valstybės vardu skolinantis prisiimtiems įsipareigojimams valdyti; ^s-5884bd250c1ac306089d8c2e
 
 
-7) skelbia duomenis apie valstybės skolininkus ir valstybės garantuojamus skolininkus, laikydamasi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento). ^s-2a3a98e866be3017d5d22ffb
+7) skelbia duomenis apie valstybės skolininkus ir valstybės garantuojamus skolininkus, laikydamasi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento). ^s-2a3a98e866be3017d5d22ffb
 
 
 6. Finansų ministerija arba kitas subjektas, kuris pagal pavedimo sutartį administruoja Finansų ministerijos perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, (toliau – kitas subjektas, administruojantis perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus): ^s-d9be72ddf5a641c1f2e2cb39
@@ -246,7 +246,7 @@ Nr. XV-538, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19769
 3) grupuoja finansų ministro nustatyta tvarka perskolinamas paskolas, įsipareigojimus pagal skolos grąžinimo sutartis ir valstybės garantuojamų skolininkų valstybės garantuojamas paskolas, valstybės garantuojamus ne nuosavybės vertybinius popierius; ^s-22c14c60945d2c13be61f3bd
 
 
-4) turi teisę Vyriausybės nustatytomis sąlygomis ir tvarka peržiūrėti perskolinamos paskolos arba skolos grąžinimo sąlygas ir pasirašyti su valstybės skolininku arba valstybės garantuojamu skolininku perskolinamos paskolos sąlygų pakeitimo sutartį arba skolos grąžinimo sutartį, jeigu ekonominiu požiūriu inicijuoti bankroto procesą arba skolos išieškojimą Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka yra netikslinga. ^s-293c9c77364c3e052fd8969d
+4) turi teisę Vyriausybės nustatytomis sąlygomis ir tvarka peržiūrėti perskolinamos paskolos arba skolos grąžinimo sąlygas ir pasirašyti su valstybės skolininku arba valstybės garantuojamu skolininku perskolinamos paskolos sąlygų pakeitimo sutartį arba skolos grąžinimo sutartį, jeigu ekonominiu požiūriu inicijuoti bankroto procesą arba skolos išieškojimą [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka yra netikslinga. ^s-293c9c77364c3e052fd8969d
 
 
 7. Visiems iš šio įstatymo reglamentuojamų santykių atsirandantiems Vyriausybės prisiimtiems turtiniams įsipareigojimams vykdyti naudojami visi galimi valstybės finansiniai ištekliai, tarp jų ir nauji valstybės turtiniai įsipareigojimai. ^s-c0dcbf43db368260f335834e
@@ -300,7 +300,7 @@ Nr. XV-538, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19769
 15. Jeigu valstybės garantija užtikrintos reikalavimo teisės perleidžiamos pagal Lietuvos Respublikos pakeitimo vertybiniais popieriais ir padengtųjų obligacijų įstatymą, valstybės garantija, kuria užtikrinamos šios perleidžiamos reikalavimo teisės, galioja neatsižvelgiant į tai, kad valstybės garantija reikalavimo teisių perleidimas draudžiamas ar ribojamas. ^s-1c47767735c48e6128bb59e5
 
 
-16. Centrinės valdžios sektoriaus subjektas gali skolintis, platindamas vertybinius popierius,  pasirašydamas paskolų sutartis ar prisiimdamas kitus skolinius įsipareigojimus, neviršydamas jam pagal šio straipsnio 17 ir [[#^s-c22b5ce2373a6484817f3a93|18 dalių]] nuostatas nustatyto tam tikrų metų skolinimosi limito. ^s-96bf48776e4c1bbf6c9822ae
+16. Centrinės valdžios sektoriaus subjektas gali skolintis, platindamas vertybinius popierius,  pasirašydamas paskolų sutartis ar prisiimdamas kitus skolinius įsipareigojimus, neviršydamas jam pagal šio straipsnio [[#^s-3a59b23bf70c3e941110d158|17]] ir [[#^s-c22b5ce2373a6484817f3a93|18]] dalių nuostatas nustatyto tam tikrų metų skolinimosi limito. ^s-96bf48776e4c1bbf6c9822ae
 
 
 17. Vyriausybė Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatyme nustatytą centrinės valdžios sektoriaus subjektų tam tikrų metų bendrą skolinimosi limitą paskirsto nustatydama: ^s-3a59b23bf70c3e941110d158
@@ -557,10 +557,10 @@ Nr. XIV-2709, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11293
 2) valstybės skolininko arba valstybės garantuojamo skolininko – fizinio asmens, taip pat ūkininko, individualios įmonės savininko arba ūkinės bendrijos nario – ekonominė (socialinė) padėtis yra sunki. Kriterijus, kuriais vadovaujantis pripažįstama, kad valstybės skolininko arba valstybės garantuojamo skolininko – fizinio asmens, taip pat ūkininko, individualios įmonės savininko arba ūkinės bendrijos nario – ekonominė (socialinė) padėtis yra sunki, nustato Vyriausybė arba jos įgaliota institucija. ^s-6b46ca6b0ecf1e9c97d780a6
 
 
-3. Finansų ministerija arba, kai teikiamos [[latest/TAR.C595FF45F869|Mokslo ir studijų įstatyme]] nurodytos valstybės remiamos paskolos, Vyriausybės įgaliota institucija ar įstaiga turi teisę išieškoti iš valstybės skolininko arba valstybės garantuojamo skolininko laiku negrąžintą perskolinamą paskolą arba skolą ar jos dalį, nesumokėtas palūkanas, delspinigius, valiutų kursų skirtumą arba kitas sutartyse nurodytas įmokas ir valstybės patirtas išlaidas, susijusias su reikalavimo įvykdyti prievolę pareiškimu. Jeigu valstybės garantuojamas skolininkas nevykdo sutartinių įsipareigojimų ir dėl to valstybei, kaip garantui, tenka juos įvykdyti, Finansų ministerija arba, kai teikiamos [[latest/TAR.C595FF45F869|Mokslo ir studijų įstatyme]] nurodytos valstybės remiamos paskolos, Vyriausybės įgaliota institucija ar įstaiga įgyja atgręžtinio reikalavimo teisę valstybės garantuojamam skolininkui. Jeigu valstybės skolininkas arba valstybės garantuojamas skolininkas praleidžia prievolės įvykdymo terminą, o po šio termino pabaigos dėl valiutų kursų pasikeitimo valiuta, kuria turi būti mokama, nuvertėja, šie skolininkai privalo sumokėti Finansų ministerijai arba, kai teikiamos [[latest/TAR.C595FF45F869|Mokslo ir studijų įstatyme]] nurodytos valstybės remiamos paskolos, Vyriausybės įgaliotai institucijai ar įstaigai valiutos kurso, buvusio prievolės įvykdymo termino suėjimo metu, ir mokėjimo metu esančio valiutos kurso skirtumą. Finansų ministerijos sprendimai dėl skolos išieškojimo iš valstybės skolininko arba valstybės garantuojamo skolininko perduodami antstoliams vykdyti Civilinio proceso kodekso nustatyta tvarka. ^s-83eef34d9ff0a07fdd5265dd
+3. Finansų ministerija arba, kai teikiamos [[latest/TAR.C595FF45F869|Mokslo ir studijų įstatyme]] nurodytos valstybės remiamos paskolos, Vyriausybės įgaliota institucija ar įstaiga turi teisę išieškoti iš valstybės skolininko arba valstybės garantuojamo skolininko laiku negrąžintą perskolinamą paskolą arba skolą ar jos dalį, nesumokėtas palūkanas, delspinigius, valiutų kursų skirtumą arba kitas sutartyse nurodytas įmokas ir valstybės patirtas išlaidas, susijusias su reikalavimo įvykdyti prievolę pareiškimu. Jeigu valstybės garantuojamas skolininkas nevykdo sutartinių įsipareigojimų ir dėl to valstybei, kaip garantui, tenka juos įvykdyti, Finansų ministerija arba, kai teikiamos [[latest/TAR.C595FF45F869|Mokslo ir studijų įstatyme]] nurodytos valstybės remiamos paskolos, Vyriausybės įgaliota institucija ar įstaiga įgyja atgręžtinio reikalavimo teisę valstybės garantuojamam skolininkui. Jeigu valstybės skolininkas arba valstybės garantuojamas skolininkas praleidžia prievolės įvykdymo terminą, o po šio termino pabaigos dėl valiutų kursų pasikeitimo valiuta, kuria turi būti mokama, nuvertėja, šie skolininkai privalo sumokėti Finansų ministerijai arba, kai teikiamos [[latest/TAR.C595FF45F869|Mokslo ir studijų įstatyme]] nurodytos valstybės remiamos paskolos, Vyriausybės įgaliotai institucijai ar įstaigai valiutos kurso, buvusio prievolės įvykdymo termino suėjimo metu, ir mokėjimo metu esančio valiutos kurso skirtumą. Finansų ministerijos sprendimai dėl skolos išieškojimo iš valstybės skolininko arba valstybės garantuojamo skolininko perduodami antstoliams vykdyti [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-83eef34d9ff0a07fdd5265dd
 
 
-4. Finansų ministerijos siūlymu kitas subjektas, administruojantis perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, turi teisę perimti valstybės nuosavybėn valstybės skolininko arba valstybės garantuojamo skolininko, arba trečiųjų asmenų turtą, jeigu nepavyksta jo realizuoti Civilinio proceso kodekso ir (ar) [[latest/68f2cad098b711e9ae2e9d61b1f977b3|Juridinių asmenų nemokumo įstatymo]] nustatyta tvarka, jį administruoti ir realizuoti Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka, kad būtų įvykdyti visi skolininkų turtiniai įsipareigojimai, taip pat atlygintos valstybės ir kito subjekto, administruojančio perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, išlaidos, susijusios su reikalavimo įvykdyti prievolę pareiškimu. ^s-9fef4c676c9179c4081f9c95
+4. Finansų ministerijos siūlymu kitas subjektas, administruojantis perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, turi teisę perimti valstybės nuosavybėn valstybės skolininko arba valstybės garantuojamo skolininko, arba trečiųjų asmenų turtą, jeigu nepavyksta jo realizuoti [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir (ar) [[latest/68f2cad098b711e9ae2e9d61b1f977b3|Juridinių asmenų nemokumo įstatymo]] nustatyta tvarka, jį administruoti ir realizuoti Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka, kad būtų įvykdyti visi skolininkų turtiniai įsipareigojimai, taip pat atlygintos valstybės ir kito subjekto, administruojančio perduotas perskolinamas paskolas, valstybės garantijas ir kitus turtinius įsipareigojimus, išlaidos, susijusios su reikalavimo įvykdyti prievolę pareiškimu. ^s-9fef4c676c9179c4081f9c95
 Straipsnio dalies pakeitimai:
 Nr. XV-538, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19769
 
@@ -702,7 +702,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-393, 2009-07-22, Žin., 2009, Nr. 93-3985 (2009-08-04)
 [[latest/TAR.EBB4FD337ADE|FINANSINIO TVARUMO ĮSTATYMAS]]
 Įstatymo taikymo nusakymas:
-Jeigu pagal šį įstatymą skolinamasi ir (arba) teikiamos valstybės garantijos, [[#^s-4b9330eb3ec8cd9b4d927825|Valstybės skolos įstatymo 3 straipsnio 2 dalies]], [[#^s-ee80bcf59d91e0f617038c84|5 straipsnio]] 1 ir 2 dalių, [[#^s-eebf05777c768661f5d46bb6|6 straipsnio]] 1 ir 2 dalių nuostatos netaikomos.
+Jeigu pagal šį įstatymą skolinamasi ir (arba) teikiamos valstybės garantijos, [[#^s-ee80bcf59d91e0f617038c84|Valstybės skolos įstatymo 3 straipsnio 2 dalies, 5 straipsnio]] [[#^s-a0c827a2147f97698de099bd|1]] ir [[#^s-aab6d453717aafb104c34e8d|2]] dalių, [[#^s-eebf05777c768661f5d46bb6|6 straipsnio]] [[#^s-445026fa5fccf7541ab69acf|1]] ir [[#^s-41f24c9cb835796b362b985b|2]] dalių nuostatos netaikomos.
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -731,7 +731,7 @@ Nr. XII-642, 2013-12-03, Žin., 2013, Nr. 130-6626 (2013-12-19)
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-794, 2014-03-20, paskelbta TAR 2014-04-03, i. k. 2014-04030
-LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMO NR. I-1508 3, 9 IR [[#^s-b35e66be692e369dc3cd2e29|10 STRAIPSNIŲ]] PAKEITIMO
+LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMO NR. I-1508 [[#^s-26b5868be7f854dac38f441d|3]], [[#^s-762ff8ac8ea01292e04c1233|9]] IR [[#^s-b35e66be692e369dc3cd2e29|10]] STRAIPSNIŲ PAKEITIMO
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. spalio 1 d.
 
 
@@ -741,17 +741,17 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1123, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13629
-Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 ir [[#^s-eebf05777c768661f5d46bb6|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 [[#^s-26b5868be7f854dac38f441d|3]] ir [[#^s-eebf05777c768661f5d46bb6|6]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2146, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19629
-Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 4 ir [[#^s-b35e66be692e369dc3cd2e29|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 [[#^s-29ffd1527576207db5f8467a|2]], [[#^s-23e0404dbc7327aa13ee2cc4|4]] ir [[#^s-b35e66be692e369dc3cd2e29|10]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-181, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29869
-Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 4, 8 ir 12 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 [[#^s-29ffd1527576207db5f8467a|2]], [[#^s-23e0404dbc7327aa13ee2cc4|4]], [[#^s-c66dafd0bba06eb8f9beb9ed|8]] ir 12 straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -761,17 +761,17 @@ Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 [[#^s-29ffd152757620
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1787, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21240
-Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 4, 7 ir [[#^s-762ff8ac8ea01292e04c1233|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 [[#^s-23e0404dbc7327aa13ee2cc4|4]], [[#^s-c3db3bb6936dd1c141681d59|7]] ir [[#^s-762ff8ac8ea01292e04c1233|9]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2087, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07325
-Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 4 ir [[#^s-c66dafd0bba06eb8f9beb9ed|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 [[#^s-29ffd1527576207db5f8467a|2]], [[#^s-23e0404dbc7327aa13ee2cc4|4]] ir [[#^s-c66dafd0bba06eb8f9beb9ed|8]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2130, 2019-05-28, paskelbta TAR 2019-05-31, i. k. 2019-08708
-Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 3, [[#^s-ee80bcf59d91e0f617038c84|5 straipsnių]] pakeitimo ir [[#^s-c3db3bb6936dd1c141681d59|7 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 [[#^s-29ffd1527576207db5f8467a|2]], [[#^s-26b5868be7f854dac38f441d|3]], [[#^s-ee80bcf59d91e0f617038c84|5]] straipsnių pakeitimo ir [[#^s-c3db3bb6936dd1c141681d59|7 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -801,7 +801,7 @@ Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 [[#^s-26b5868be7f854
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1164, 2022-06-23, paskelbta TAR 2022-07-11, i. k. 2022-15161
-Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2 ir [[#^s-23e0404dbc7327aa13ee2cc4|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 [[#^s-29ffd1527576207db5f8467a|2]] ir [[#^s-23e0404dbc7327aa13ee2cc4|4]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -816,22 +816,22 @@ Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 pakeitimo įstatymas
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2773, 2024-06-20, paskelbta TAR 2024-06-28, i. k. 2024-12077
-Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3 ir [[#^s-23e0404dbc7327aa13ee2cc4|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 [[#^s-26b5868be7f854dac38f441d|3]] ir [[#^s-23e0404dbc7327aa13ee2cc4|4]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3097, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20356
-Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 2, 3, 4 ir [[#^s-c3db3bb6936dd1c141681d59|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 [[#^s-29ffd1527576207db5f8467a|2]], [[#^s-26b5868be7f854dac38f441d|3]], [[#^s-23e0404dbc7327aa13ee2cc4|4]] ir [[#^s-c3db3bb6936dd1c141681d59|7]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-267, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11114
-Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 1, 2, 3, 4 ir [[#^s-eebf05777c768661f5d46bb6|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 [[#^s-b3010ec95ec6e4a283250028|1]], [[#^s-29ffd1527576207db5f8467a|2]], [[#^s-26b5868be7f854dac38f441d|3]], [[#^s-23e0404dbc7327aa13ee2cc4|4]] ir [[#^s-eebf05777c768661f5d46bb6|6]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-538, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19769
-Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 3, 8 ir [[#^s-762ff8ac8ea01292e04c1233|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės skolos įstatymo Nr. I-1508 [[#^s-26b5868be7f854dac38f441d|3]], [[#^s-c66dafd0bba06eb8f9beb9ed|8]] ir [[#^s-762ff8ac8ea01292e04c1233|9]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas

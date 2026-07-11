@@ -40,10 +40,10 @@ Vilnius
 ### 1 straipsnis. 61 straipsnio pakeitimas ^s-a8f57963e3c9cb0c44da9084
 
 
-Pakeisti 61 straipsnio 18 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.15C705E93776#^s-9d0d4e9a977ab2caac1ca626|61 straipsnio 18 dalį]] ir ją išdėstyti taip:
 
 
-„18. Profesinės karo tarnybos kariui krašto apsaugos ministro nustatyta tvarka apmokamos ar kompensuojamos važiavimo tarnybos tikslais reguliariaisiais reisais vietinio susisiekimo maršrutais išlaidos tais atvejais, kai toks važiavimas nėra laikomas komandiruote. Šioje dalyje nurodytos išlaidos neapmokamos ir nekompensuojamos, jeigu profesinės karo tarnybos kariui kompensuojamos ar atlyginamos šio straipsnio 17 dalyje nurodytos išlaidos.“
+„18. Profesinės karo tarnybos kariui krašto apsaugos ministro nustatyta tvarka apmokamos ar kompensuojamos važiavimo tarnybos tikslais reguliariaisiais reisais vietinio susisiekimo maršrutais išlaidos tais atvejais, kai toks važiavimas nėra laikomas komandiruote. Šioje dalyje nurodytos išlaidos neapmokamos ir nekompensuojamos, jeigu profesinės karo tarnybos kariui kompensuojamos ar atlyginamos [[latest/TAR.15C705E93776|šio straipsnio 17 dalyje]] nurodytos išlaidos.“
 
 
 

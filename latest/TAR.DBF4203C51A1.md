@@ -55,7 +55,7 @@ Nr. XIII-1375, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12044
 
 
 
-4. Nacionalinė teismų administracija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, [[latest/TAR.522B3E415B52|Teismų įstatymu]], šiuo ir kitais įstatymais, kitais teisės aktais bei savo nuostatais. ^s-e234d2d6c4d52c076ce294cd
+4. Nacionalinė teismų administracija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), [[latest/TAR.522B3E415B52|Teismų įstatymu]], šiuo ir kitais įstatymais, kitais teisės aktais bei savo nuostatais. ^s-e234d2d6c4d52c076ce294cd
 
 
 5. Nacionalinė teismų administracija yra biudžetinė įstaiga, finansuojama iš Lietuvos Respublikos biudžeto. ^s-f4797dfffc56006a8694e39d
@@ -323,7 +323,7 @@ Nr. XII-631, 2013-12-03, Žin., 2013, Nr. 127-6447 (2013-12-12), i. k. [[latest/
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1375, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12044
-Lietuvos Respublikos nacionalinės teismų administracijos įstatymo Nr. IX-787 1 ir [[#^s-e265e62044b588cc7503b363|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nacionalinės teismų administracijos įstatymo Nr. IX-787 [[#^s-37798c7329ee83b71d1450d8|1]] ir [[#^s-e265e62044b588cc7503b363|4]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -333,4 +333,4 @@ Lietuvos Respublikos nacionalinės teismų administracijos įstatymo Nr. IX-787 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1995, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11567
-Lietuvos Respublikos nacionalinės teismų administracijos įstatymo Nr. IX-787 2 ir [[#^s-e265e62044b588cc7503b363|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nacionalinės teismų administracijos įstatymo Nr. IX-787 [[#^s-1d675fd2757cc047fc99a9c4|2]] ir [[#^s-e265e62044b588cc7503b363|4]] straipsnių pakeitimo įstatymas

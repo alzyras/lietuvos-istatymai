@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos gyvulių veislininkystės įstatymo pakeitimo
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A039F278F253|Lietuvos Respublikos ūkinių gyvūnų veislininkystės įstatymas]] - 5 citatos - Lietuvos Respublikos gyvulių veislininkystės įstatymo
+- [[latest/TAR.A039F278F253|Lietuvos Respublikos ūkinių gyvūnų veislininkystės įstatymas]] - 2 citatos - Gyvulių veislininkystės įstatymo
 
 ## Šį įstatymą cituoja
 

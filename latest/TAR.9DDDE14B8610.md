@@ -116,7 +116,7 @@ Pakeisti ir papildyti Lietuvos Respublikos akcinių bendrovių įstatymą (Žin.
 1) antrosios dalies 6 punktą išdėstyti taip:
 
 
-„6) sudaryti sutartis, prisiimti įsipareigojimus, skolintis ir skolinti pinigus tik Lietuvos Respublikos įmonių įstatymo 12 straipsnio trečiojoje dalyje, taip pat įstatymo „Dėl ūkinių subjektų piniginių lėšų skolinimo fiziniams bei juridiniams asmenims“ nustatyta tvarka bei sąlygomis;“;
+„6) sudaryti sutartis, prisiimti įsipareigojimus, skolintis ir skolinti pinigus tik [Lietuvos Respublikos įmonių įstatymo 12 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B) trečiojoje dalyje, taip pat įstatymo [„Dėl ūkinių subjektų piniginių lėšų skolinimo fiziniams bei juridiniams asmenims“](https://e-tar.lt/portal/lt/legalAct/TAR.3C577FD436E2) nustatyta tvarka bei sąlygomis;“;
 
 
 2) papildyti ketvirtąja dalimi:

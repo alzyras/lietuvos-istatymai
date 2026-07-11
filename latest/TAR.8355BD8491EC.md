@@ -82,7 +82,7 @@ BENDROSIOS NUOSTATOS
 1. Atviro tipo kolektyvinio investavimo subjektas – kolektyvinio investavimo subjektas, kurio investiciniai vienetai ar akcijos išleidžiami ir išperkami investuotojo reikalavimu. ^s-83b744d589a2fb9954dd9d0a
 
 
-2. Dukterinė įmonė – kaip tai apibrėžta Įmonių konsoliduotos finansinės atskaitomybės įstatyme. ^s-56e97670db32036d939ac1f5
+2. Dukterinė įmonė – kaip tai apibrėžta [Įmonių konsoliduotos finansinės atskaitomybės įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.AB44F084071E). ^s-56e97670db32036d939ac1f5
 
 
 3. Finansinės priemonės – kaip tai apibrėžta [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]]. ^s-9bd6fa86d74f07abcff66207
@@ -118,7 +118,7 @@ BENDROSIOS NUOSTATOS
 13. Investicinių vienetų arba akcijų siūlymas – investicinių vienetų arba akcijų siūlymas per visuomenės informavimo priemones, reklamą arba kitais būdais, kai kreipiamasi į daugiau kaip 100 asmenų. ^s-a22e852448441c20da19d7e1
 
 
-14. Išvestinės finansinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] 4, 5, 6, 7, 8, 9 ir 10 punktuose numatytos finansinės priemonės, kurių vertė priklauso nuo vienos ar kelių finansinių priemonių vertės. ^s-c2bad493ef3b520d935bef08
+14. Išvestinės finansinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-71078f5c7f1fdabf0a7adbe6|4]], [[latest/TAR.AB7AFE2F35B2|5]], [[latest/TAR.AB7AFE2F35B2|6]], [[latest/TAR.AB7AFE2F35B2|7]], [[latest/TAR.AB7AFE2F35B2|8]], [[latest/TAR.AB7AFE2F35B2|9]] ir [[latest/TAR.AB7AFE2F35B2|10]] punktuose numatytos finansinės priemonės, kurių vertė priklauso nuo vienos ar kelių finansinių priemonių vertės. ^s-c2bad493ef3b520d935bef08
 
 
 15. Kolektyvinio investavimo subjektas – investicinis fondas ar investicinė bendrovė, kurių sudarymo vienintelis tikslas – [[#^s-a22e852448441c20da19d7e1|šio straipsnio 13 dalyje]] nustatyta tvarka siūlant investicinius vienetus ar akcijas, kaupti asmenų lėšas ir padalijant riziką jas kolektyviai investuoti į šiame įstatyme nurodytą turtą laikantis šiame įstatyme nustatytų investavimo reikalavimų. ^s-e6afd9026d6f3fe9214baab1
@@ -133,7 +133,7 @@ BENDROSIOS NUOSTATOS
 18. Kolektyvinio investavimo subjekto subfondas – sudėtinio kolektyvinio investavimo subjekto turto dalis, tvarkoma atskirai nuo kito jo turto. ^s-4f316b78147776ae8f924ca4
 
 
-19. Kontrolė – kaip tai apibrėžta Įmonių konsoliduotos finansinės atskaitomybės įstatyme. ^s-2e244e1b941642dfbc0a1488
+19. Kontrolė – kaip tai apibrėžta [Įmonių konsoliduotos finansinės atskaitomybės įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.AB44F084071E). ^s-2e244e1b941642dfbc0a1488
 
 
 20. Lyginamasis indeksas – valdymo įmonės ar investicinės bendrovės, kurios turto valdymas neperduotas valdymo įmonei, pasirenkamas rodiklis, su kurio reikšmės kitimu lyginama kolektyvinio investavimo subjekto investicijų grąža. ^s-357876a5d9c1e29c57484460
@@ -142,7 +142,7 @@ BENDROSIOS NUOSTATOS
 21. Nepriekaištingos reputacijos asmenys – kaip tai apibrėžta [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]]. ^s-3e81824cc26f3f1e19730533
 
 
-22. Patronuojanti įmonė – kaip tai apibrėžta Įmonių konsoliduotos finansinės atskaitomybės įstatyme. ^s-01089424252edeea1e90e478
+22. Patronuojanti įmonė – kaip tai apibrėžta [Įmonių konsoliduotos finansinės atskaitomybės įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.AB44F084071E). ^s-01089424252edeea1e90e478
 
 
 23. Periodinė ataskaita – dokumentas, kuriame investuotojams ir visuomenei pateikiama informacija apie valdymo įmonės, kolektyvinio investavimo subjekto veiklos rezultatus, jų finansinę būklę ir kitus pagrindinius tam tikro laikotarpio įvykius. ^s-8259d7f449066db9428f59f3
@@ -157,7 +157,7 @@ BENDROSIOS NUOSTATOS
 2) obligacijos ir kitų formų ne nuosavybės vertybiniai popieriai; ^s-85f295b5be203c3e3ea38d13
 
 
-3) kiti perleidžiamieji vertybiniai popieriai, kurie suteikia teisę pasirašymo ar keitimo būdu įsigyti šios dalies 1 ir [[#^s-85f295b5be203c3e3ea38d13|2 punktuose]] nurodytų perleidžiamųjų vertybinių popierių. ^s-233d7d3c59b3e867c937ed64
+3) kiti perleidžiamieji vertybiniai popieriai, kurie suteikia teisę pasirašymo ar keitimo būdu įsigyti šios dalies [[#^s-0f3e17aca54cecbf36f80abc|1]] ir [[#^s-85f295b5be203c3e3ea38d13|2]] punktuose nurodytų perleidžiamųjų vertybinių popierių. ^s-233d7d3c59b3e867c937ed64
 
 
 25. Pinigų rinkos priemonės – [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]] apibrėžtos pinigų rinkos priemonės, kurių vertę bet kuriuo metu galima tiksliai nustatyti. ^s-141f244ab3aa1f71dcf1a960
@@ -193,7 +193,7 @@ BENDROSIOS NUOSTATOS
 3) rinkodara; ^s-7138f79cb4c79cbe9a7e18ba
 
 
-4) kita veikla, susijusi su šios dalies 1, 2 ir [[#^s-7138f79cb4c79cbe9a7e18ba|3 punktuose]] nurodyta veikla. ^s-0565e7b41a172ad148944a73
+4) kita veikla, susijusi su šios dalies [[#^s-c74842f944eca7d83b5c1200|1]], [[#^s-61373a8f997b91349eabd632|2]] ir [[#^s-7138f79cb4c79cbe9a7e18ba|3]] punktuose nurodyta veikla. ^s-0565e7b41a172ad148944a73
 
 
 Šiame įstatyme vartojama turto valdymo sąvoka taip pat apima investicinio fondo valdymą patikėjimo teise.
@@ -270,7 +270,7 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS LICENCIJAVIMAS IR VEIKLA
 5. Suderintųjų kolektyvinio investavimo subjektų nevaldančioms valdymo įmonėms netaikomas šio įstatymo IX skyrius. ^s-7735890d8c2c4acef3877be3
 
 
-6. Valdymo įmonei, turinčiai teisę verstis [[#^s-71c8d946c71e0946b9fd3884|šio straipsnio 1 dalies]] 1–4 punktuose nurodyta veikla, mutatis mutandis taikomi [[latest/TAR.AB7AFE2F35B2#^s-02873015d9fdb562032879d7|Finansinių priemonių rinkų įstatymo 13 ir 22 straipsniuose]] nustatyti reikalavimai ir juos įgyvendinantys Vertybinių popierių komisijos teisės aktai. Taikant pirmiau minėtus [[latest/TAR.AB7AFE2F35B2#^s-40b32bf6d44fe0b95227e599|Finansinių priemonių rinkų įstatymo reikalavimus, atsižvelgiama į Finansinių priemonių rinkų įstatymo 2 straipsnio 5 dalies]] nuostatas. ^s-fa4241f7c53fbdf007af8a94
+6. Valdymo įmonei, turinčiai teisę verstis [[#^s-71c8d946c71e0946b9fd3884|šio straipsnio 1 dalies]] 1–4 punktuose nurodyta veikla, mutatis mutandis taikomi [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymo]] [[latest/TAR.AB7AFE2F35B2#^s-c06cad8c35d3c2f5a6655a2c|13]] ir [[latest/TAR.AB7AFE2F35B2#^s-02873015d9fdb562032879d7|22]] straipsniuose nustatyti reikalavimai ir juos įgyvendinantys Vertybinių popierių komisijos teisės aktai. Taikant pirmiau minėtus [[latest/TAR.AB7AFE2F35B2#^s-40b32bf6d44fe0b95227e599|Finansinių priemonių rinkų įstatymo reikalavimus, atsižvelgiama į Finansinių priemonių rinkų įstatymo 2 straipsnio 5 dalies]] nuostatas. ^s-fa4241f7c53fbdf007af8a94
 
 
 
@@ -423,7 +423,7 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS LICENCIJAVIMAS IR VEIKLA
 13) užtikrinti, kad investiciniai sprendimai būtų įforminami raštu ir registruojami investicinių sprendimų registravimo žurnale. ^s-9c3b19f43dd18290bb0c19bc
 
 
-2. Valdymo įmonė, turinti teisę teikti paslaugas, numatytas šio įstatymo [[#^s-71c8d946c71e0946b9fd3884|4 straipsnio 1 dalies]] 1 ar 2 punkte, klientų lėšas į savo valdomus investicinius fondus ar investicines bendroves gali investuoti tik gavusi išankstinį kliento sutikimą. ^s-66b601e5122a3b4824751dd4
+2. Valdymo įmonė, turinti teisę teikti paslaugas, numatytas šio įstatymo [[#^s-71c8d946c71e0946b9fd3884|4 straipsnio 1 dalies]] [[#^s-2f41784d0fdc7ad0c3fa1062|1]] ar [[#^s-a08f0c1277ef136402b1f23b|2]] punkte, klientų lėšas į savo valdomus investicinius fondus ar investicines bendroves gali investuoti tik gavusi išankstinį kliento sutikimą. ^s-66b601e5122a3b4824751dd4
 
 
 3. Valdymo įmonės, turinčios teisę teikti paslaugą, numatytą šio įstatymo [[#^s-2f41784d0fdc7ad0c3fa1062|4 straipsnio 1 dalies 1 punkte]], įsipareigojimai investuotojams draudžiami [[latest/TAR.3BAADED2C30B|Indėlių ir įsipareigojimų investuotojams draudimo įstatymo]] nustatyta tvarka. ^s-fd4109951569bc74db87f90b
@@ -593,7 +593,7 @@ Vertybinių popierių komisija nustato:
 ### 12 straipsnis.       Valdymo įmonės, jos valdomų kolektyvinio investavimo subjektų ar investicinės bendrovės auditas ^s-6a852f9e729942c1b4900937
 
 
-Valdymo įmonės, jos valdomų kolektyvinio investavimo subjektų ar investicinės bendrovės auditui taikomi Audito įstatyme, Finansų įstaigų įstatyme ir šio įstatymo 22 straipsnio 6 dalyje nustatyti reikalavimai.
+Valdymo įmonės, jos valdomų kolektyvinio investavimo subjektų ar investicinės bendrovės auditui taikomi Audito įstatyme, [[latest/TAR.779892D853B4|Finansų įstaigų įstatyme ir šio įstatymo 22 straipsnio 6 dalyje]] nustatyti reikalavimai.
 
 
 
@@ -606,7 +606,7 @@ Valdymo įmonės, jos valdomų kolektyvinio investavimo subjektų ar investicin�
 2. Investicinei bendrovei [[#^s-94424edcc931ea1c7a5a6e26|šio straipsnio 1 dalyje]] numatyti draudimai taikomi ir jos administracijos vadovui, jo pavaduotojui, valdybos, stebėtojų tarybos nariams ir darbuotojams (ir jų sutuoktiniams). ^s-779ac9c9aaedc4d62cc4c2d6
 
 
-3. Investicinį fondą sudarantis ar investicinei bendrovei priklausantis turtas negali būti skolinamas, įkeičiamas, juo negalima garantuoti ar laiduoti kitų asmenų įsipareigojimų. Tai nereiškia, kad draudžiama įsigyti iki galo neapmokėtų perleidžiamųjų vertybinių popierių, pinigų rinkos priemonių ar kitų šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalies]] 5, 7 ar 8 punkte nustatytų priemonių. ^s-d1df1a3626d72a404dbf7bfe
+3. Investicinį fondą sudarantis ar investicinei bendrovei priklausantis turtas negali būti skolinamas, įkeičiamas, juo negalima garantuoti ar laiduoti kitų asmenų įsipareigojimų. Tai nereiškia, kad draudžiama įsigyti iki galo neapmokėtų perleidžiamųjų vertybinių popierių, pinigų rinkos priemonių ar kitų šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalies]] [[#^s-ef09cf1411a6d8fda14b1b00|5]], [[#^s-1230225f274b677cada9c358|7]] ar [[#^s-cc437ade57951c767b875e21|8]] punkte nustatytų priemonių. ^s-d1df1a3626d72a404dbf7bfe
 
 
 4. Investicinio fondo ar investicinės bendrovės turtu negali būti sudaromi sandoriai dėl perleidžiamųjų vertybinių popierių, pinigų rinkos priemonių ar kitų investicinių priemonių, kurių ji neturi, pardavimo. ^s-b3c091cebaa201c8b640a41b
@@ -656,7 +656,7 @@ Valdymo įmonės, jos valdomų kolektyvinio investavimo subjektų ar investicin�
 7) laikinai sustabdyti valdymo įmonės licencijos teikti vieną ar kelias paslaugas galiojimą. ^s-018f46ebf9502ff98ea0fdaa
 
 
-2. Vertybinių popierių komisija turi teisę skirti Administracinių teisės pažeidimų kodekse numatytas nuobaudas valdymo įmonės ar investicinės bendrovės administracijos vadovams, jų pavaduotojams, valdybos nariams ar darbuotojams. ^s-1e8b54c8bcf013a596ad0a26
+2. Vertybinių popierių komisija turi teisę skirti [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytas nuobaudas valdymo įmonės ar investicinės bendrovės administracijos vadovams, jų pavaduotojams, valdybos nariams ar darbuotojams. ^s-1e8b54c8bcf013a596ad0a26
 
 
 3. Vertybinių popierių komisija turi teisę depozitoriumui taikyti [[#^s-edc6b2038ca63c2e8752e7e8|šio straipsnio 1 dalies]] 1 ir 2 punktuose numatytas poveikio priemones. ^s-5ae050850c43139b32b1ecd1
@@ -1149,7 +1149,7 @@ SUDĖTINIAI KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 ### 41 straipsnis. Sudėtinio kolektyvinio investavimo subjekto sudarymo dokumentai ^s-c0cf237379b3823820011473
 
 
-1. Sudėtinės investicinės kintamojo kapitalo bendrovės įstatuose šio įstatymo [[#^s-3cb13dfa22b68963fb7961dc|54 straipsnio 1 dalies]] 2, 3, 5 ir 7 punktuose ir [[#^s-d7e90572101ec7740c44158b|65 straipsnio 2 dalies]] 1 ir [[#^s-fcad8ca57f165c043352655d|2 punktuose]] nurodyta informacija turi būti pateikta apie kiekvieną ją sudarantį subfondą atskirai. Papildomai apie kiekvieną subfondą įstatuose turi būti nurodoma: ^s-3ebb6e30eaef8913962a9c28
+1. Sudėtinės investicinės kintamojo kapitalo bendrovės įstatuose šio įstatymo [[#^s-3cb13dfa22b68963fb7961dc|54 straipsnio 1 dalies]] [[#^s-59a3f20e4eab82884c762ebf|2]], [[#^s-4fb5b68edd181b37f38d7262|3]], [[#^s-2b3dd75ef65de37daa8f405a|5]] ir [[#^s-b7b4fe3bef39fb7bc95a477d|7]] punktuose ir [[#^s-d7e90572101ec7740c44158b|65 straipsnio 2 dalies]] [[#^s-c5f09b3aadcea7273cfffd03|1]] ir [[#^s-00a6d548054a3f70dc3fd218|2]] punktuose nurodyta informacija turi būti pateikta apie kiekvieną ją sudarantį subfondą atskirai. Papildomai apie kiekvieną subfondą įstatuose turi būti nurodoma: ^s-3ebb6e30eaef8913962a9c28
 
 
 1) subfondo pavadinimas; ^s-2a650cb1ae60edc8db5adcb3
@@ -1164,7 +1164,7 @@ SUDĖTINIAI KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 4) informacija, kad investicinės kintamojo kapitalo bendrovės visuotiniame akcininkų susirinkime sprendžiant tik su vieno subfondo dalyvių interesais susijusį klausimą, balsavimo teisę turi tik to subfondo dalyviai. ^s-2de0f9bff0339c6307bcafa9
 
 
-2. Sudėtinio investicinio fondo taisyklėse šio įstatymo [[#^s-03c37dad09f668f12e692285|46 straipsnio]] 3, 4, 5, 6, 7, 9, 12, 14, 15 punktuose ir [[#^s-d7e90572101ec7740c44158b|65 straipsnio 2 dalies]] 1 ir 2 punktuose nurodyta informacija turi būti pateikta apie kiekvieną jį sudarantį subfondą. Papildomai apie kiekvieną subfondą taisyklėse turi būti pateikiama [[#^s-3ebb6e30eaef8913962a9c28|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodyta informacija. ^s-cd59a7bb5efd8ff40dcef413
+2. Sudėtinio investicinio fondo taisyklėse šio įstatymo [[#^s-03c37dad09f668f12e692285|46 straipsnio]] 3, 4, 5, 6, 7, 9, 12, 14, 15 punktuose ir [[#^s-d7e90572101ec7740c44158b|65 straipsnio 2 dalies]] [[#^s-c5f09b3aadcea7273cfffd03|1]] ir [[#^s-00a6d548054a3f70dc3fd218|2]] punktuose nurodyta informacija turi būti pateikta apie kiekvieną jį sudarantį subfondą. Papildomai apie kiekvieną subfondą taisyklėse turi būti pateikiama [[#^s-3ebb6e30eaef8913962a9c28|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodyta informacija. ^s-cd59a7bb5efd8ff40dcef413
 
 
 3. Sudėtinio kolektyvinio investavimo subjekto sudarymo dokumentuose taip pat turi būti nurodoma: ^s-ec84e929e5acf9e9d213e6b4
@@ -1186,7 +1186,7 @@ SUDĖTINIAI KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 1. Sudėtinio kolektyvinio investavimo subjekto valdymo įmonė ar investicinė kintamojo kapitalo bendrovė privalo laikytis šiame įstatyme ir kituose teisės aktuose nustatytų, atitinkamos rūšies ir tipo kolektyvinio investavimo subjektams ir jų valdymo įmonėms taikomų reikalavimų. ^s-0a05492b6d09f99a1cb38eaf
 
 
-2. Kolektyvinio investavimo subjekto veiklą reglamentuojančios šio įstatymo ir kitų teisės aktų nuostatos, išskyrus šio įstatymo II skyriaus pirmojo skirsnio, 59, 72 ir [[#^s-38746e849cd7024166a127e4|90 straipsnių]] nuostatas, taikomos kiekvienam subfondui atskirai. ^s-ffe91efc6048c2fcde6d3732
+2. Kolektyvinio investavimo subjekto veiklą reglamentuojančios šio įstatymo ir kitų teisės aktų nuostatos, išskyrus šio įstatymo II skyriaus pirmojo skirsnio, [[#^s-472156d060b75cb849d856e6|59]], [[#^s-dbe95957b1098926ec7b1e4d|72]] ir [[#^s-38746e849cd7024166a127e4|90]] straipsnių nuostatas, taikomos kiekvienam subfondui atskirai. ^s-ffe91efc6048c2fcde6d3732
 
 
 3. Sudėtinį kolektyvinio investavimo subjektą sudarančių subfondų turtas privalo būti saugomas viename depozitoriume. ^s-38672a7fd5c738ab23994f8f
@@ -1614,13 +1614,13 @@ SUDERINTŲJŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ INVESTAVIMO TAISYKLĖS
 1) išleistos arba garantuotos valstybės narės vyriausybės, regioninės valdžios, savivaldybės ar centrinio banko, Europos centrinio banko, Europos Sąjungos ar Europos investicijų banko, ne valstybės narės vyriausybės ar vieno iš federacinę valstybę sudarančių subjektų, ar tarptautinės organizacijos, kuriai priklauso bent viena valstybė narė, arba ^s-d5ba9a03710198de2b0a73a8
 
 
-2) išleistos subjekto, kurio vertybiniai popieriai įtraukti į prekybą [[#^s-9b75d50b12cd9ebdc21d02b9|šio straipsnio 1 dalies]] 1–[[#^s-b2864efb218cfbad7daf0a12|3 punktuose]] nurodytose reguliuojamose rinkose, arba ^s-ee7b9719bfe5df25fac22a61
+2) išleistos subjekto, kurio vertybiniai popieriai įtraukti į prekybą [[#^s-9b75d50b12cd9ebdc21d02b9|šio straipsnio 1 dalies]] [[#^s-d5ba9a03710198de2b0a73a8|1]]–[[#^s-b2864efb218cfbad7daf0a12|3]] punktuose nurodytose reguliuojamose rinkose, arba ^s-ee7b9719bfe5df25fac22a61
 
 
 3) išleistos ar garantuotos subjekto, kurio veiklos rizika yra prižiūrima pagal Europos Sąjungos teisės reikalavimus ar tokius reikalavimus, kurie yra ne mažiau griežti už nustatytus Europos Sąjungoje, arba ^s-b2864efb218cfbad7daf0a12
 
 
-4) išleistos Vertybinių popierių komisijos patvirtintus kriterijus atitinkančios įmonės, kurios kapitalas ir rezervai sudaro bent 10 milijonų eurų ir kuri rengia konsoliduotą finansinę atskaitomybę bei atlieka įmonių grupės finansavimo funkciją, kai bent vienos iš jos grupei priklausančių įmonių perleidžiamieji vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje, arba kuri naudojama banko paskolomis finansuojamiems vertybiniams popieriams išleisti, o investicijos į tokias pinigų rinkos priemones apsaugotos ne mažiau, negu nurodyta [[#^s-7510c5df1e71eefe86ad6b6a|šio straipsnio 2 dalies]] 1, 2 ir [[#^s-b2864efb218cfbad7daf0a12|3 punktuose]]. ^s-cf6315ff0f8908694e40ecbf
+4) išleistos Vertybinių popierių komisijos patvirtintus kriterijus atitinkančios įmonės, kurios kapitalas ir rezervai sudaro bent 10 milijonų eurų ir kuri rengia konsoliduotą finansinę atskaitomybę bei atlieka įmonių grupės finansavimo funkciją, kai bent vienos iš jos grupei priklausančių įmonių perleidžiamieji vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje, arba kuri naudojama banko paskolomis finansuojamiems vertybiniams popieriams išleisti, o investicijos į tokias pinigų rinkos priemones apsaugotos ne mažiau, negu nurodyta [[#^s-7510c5df1e71eefe86ad6b6a|šio straipsnio 2 dalies]] [[#^s-d5ba9a03710198de2b0a73a8|1]], [[#^s-ee7b9719bfe5df25fac22a61|2]] ir [[#^s-b2864efb218cfbad7daf0a12|3]] punktuose. ^s-cf6315ff0f8908694e40ecbf
 
 
 3. Investicinė kintamojo kapitalo bendrovė gali įsigyti tik jos tiesioginei veiklai vykdyti būtiną kilnojamąjį ir nekilnojamąjį turtą. ^s-82d54f4a8a31db471eb6f7a1
@@ -1639,7 +1639,7 @@ SUDERINTŲJŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ INVESTAVIMO TAISYKLĖS
 ### 58 straipsnis. Investicijų portfelio diversifikavimas ^s-f95af9f2a0409873691abc35
 
 
-1. Į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota ne daugiau kaip 5 procentai suderintojo kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų, išskyrus šio straipsnio 2, 5 ir [[#^s-300a2e05655dd90628392e9a|6 dalyse]] nustatytus atvejus. ^s-f3500884d979618c4193d9fb
+1. Į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota ne daugiau kaip 5 procentai suderintojo kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų, išskyrus šio straipsnio [[#^s-6b5379ba6918926d44cfdadf|2]], [[#^s-da2fe15f234cc6f73faddbd9|5]] ir [[#^s-300a2e05655dd90628392e9a|6]] dalyse nustatytus atvejus. ^s-f3500884d979618c4193d9fb
 
 
 2. Į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota daugiau kaip 5 procentai, bet ne daugiau kaip 10 procentų grynųjų aktyvų, jeigu tokių investicijų bendra suma nėra didesnė kaip 40 procentų grynųjų aktyvų (šis apribojimas netaikomas indėliams ir išvestinėms finansinėms priemonėms, kuriomis prekiaujama ne reguliuojamoje rinkoje, jeigu jų emitentą prižiūri priežiūros institucija). ^s-6b5379ba6918926d44cfdadf
@@ -1657,7 +1657,7 @@ SUDERINTŲJŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ INVESTAVIMO TAISYKLĖS
 6. Investicijos į obligacijas, išleistas tokios valstybėje narėje registruotą buveinę turinčios kredito įstaigos, kuri, siekiant apsaugoti obligacijų savininkų interesus, yra tos valstybės specialiai prižiūrima pagal teisės aktus, o iš obligacijų leidimo gauta suma visam obligacijų galiojimo laikui investuojama į tokį turtą, kurio pakaktų obligacijų savininkų reikalavimams patenkinti ir iš kurio – emitento nemokumo atveju – obligacijų savininkų reikalavimai išmokėti pagrindinę sumą ir palūkanas būtų patenkinti pirmumo teise, negali būti didesnės kaip 25 procentai grynųjų aktyvų. Kai į tokias vieno emitento obligacijas investuojama daugiau kaip 5 procentai, bet ne daugiau kaip 25 procentai grynųjų aktyvų, bendra tokių investicijų suma negali būti didesnė kaip 80 procentų grynųjų aktyvų. ^s-300a2e05655dd90628392e9a
 
 
-7. Šio straipsnio 5 ir [[#^s-300a2e05655dd90628392e9a|6 dalyse]] numatyti perleidžiamieji vertybiniai popieriai ir pinigų rinkos priemonės nėra įskaitomi skaičiuojant investicijas, kurioms pagal [[#^s-6b5379ba6918926d44cfdadf|šio straipsnio 2 dalį]] taikoma didžiausia leistina 40 procentų riba. Šio straipsnio 1, 2, 3, 4, 5 ir [[#^s-300a2e05655dd90628392e9a|6 dalyse]] nustatytos ribos negali būti sudedamos, todėl investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius, pinigų rinkos priemones, indėlius ir įsipareigojimus, atsirandančius iš išvestinių finansinių priemonių sandorių su tuo asmeniu, suma negali būti didesnė kaip 35 procentai kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų. ^s-19e99cea8fcc7405d089160c
+7. Šio straipsnio [[#^s-da2fe15f234cc6f73faddbd9|5]] ir [[#^s-300a2e05655dd90628392e9a|6]] dalyse numatyti perleidžiamieji vertybiniai popieriai ir pinigų rinkos priemonės nėra įskaitomi skaičiuojant investicijas, kurioms pagal [[#^s-6b5379ba6918926d44cfdadf|šio straipsnio 2 dalį]] taikoma didžiausia leistina 40 procentų riba. Šio straipsnio [[#^s-f3500884d979618c4193d9fb|1]], [[#^s-6b5379ba6918926d44cfdadf|2]], [[#^s-11043359cffbf93f249ca852|3]], [[#^s-1728113c77cd474236a3d904|4]], [[#^s-da2fe15f234cc6f73faddbd9|5]] ir [[#^s-300a2e05655dd90628392e9a|6]] dalyse nustatytos ribos negali būti sudedamos, todėl investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius, pinigų rinkos priemones, indėlius ir įsipareigojimus, atsirandančius iš išvestinių finansinių priemonių sandorių su tuo asmeniu, suma negali būti didesnė kaip 35 procentai kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų. ^s-19e99cea8fcc7405d089160c
 
 
 8. Į įmonių, priklausančių grupei, kuri turi sudaryti konsoliduotą finansinę atskaitomybę, išleistus perleidžiamuosius vertybinius popierius ir pinigų rinkos priemones gali būti investuota ne daugiau kaip 20 procentų grynųjų aktyvų. ^s-3b73b6a22772c5dfcf31ed9f
@@ -1742,16 +1742,16 @@ SUDERINTŲJŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ INVESTAVIMO TAISYKLĖS
 1. Leidžiama investuoti tik į išvestines finansines priemones (įskaitant ir tas, kurios suteikia teisę tik gauti pinigus), kurios atitinka šias sąlygas: ^s-43a9eedf0455dbf35a6e237a
 
 
-1) jos yra įtrauktos į prekybą šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalies]] 1, 2 ir [[#^s-5815c5b826a78b2c61527023|3 punktuose]] nurodytose rinkose arba kuriomis prekiaujama už aukščiau nurodytų rinkų ribų; ^s-b1da17aa20fb407fb09f21e4
+1) jos yra įtrauktos į prekybą šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalies]] [[#^s-ff1c4e783d289a3d046efae4|1]], [[#^s-b7f6a6b3f0a96f4e82e85a6e|2]] ir [[#^s-090ff8137410d552cda1b60b|3]] punktuose nurodytose rinkose arba kuriomis prekiaujama už aukščiau nurodytų rinkų ribų; ^s-b1da17aa20fb407fb09f21e4
 
 
 2) jos susietos su šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalyje]] nurodytomis investicinėmis priemonėmis, finansiniais indeksais, palūkanų normomis, valiutomis ar valiutos kursais, į kuriuos, kaip nurodyta sudarymo dokumentuose, kolektyvinio investavimo subjektas turi teisę investuoti; ^s-3b5952fa36123149b91960d2
 
 
-3) kita šalis sandoriuose, sudarytuose už šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytų rinkų ribų, atitinka Vertybinių popierių komisijos nustatytus kriterijus ir yra prižiūrima priežiūros institucijos; ^s-5815c5b826a78b2c61527023
+3) kita šalis sandoriuose, sudarytuose už šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalies]] [[#^s-ff1c4e783d289a3d046efae4|1]], [[#^s-b7f6a6b3f0a96f4e82e85a6e|2]] ir [[#^s-090ff8137410d552cda1b60b|3]] punktuose nurodytų rinkų ribų, atitinka Vertybinių popierių komisijos nustatytus kriterijus ir yra prižiūrima priežiūros institucijos; ^s-5815c5b826a78b2c61527023
 
 
-4) priemones, kuriomis prekiaujama už šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalies]] 1, 2 ir [[#^s-5815c5b826a78b2c61527023|3 punktuose]] nurodytų rinkų ribų, kiekvieną dieną galima patikrinti, patikimai įvertinti ir bet kuriuo metu parduoti ar kitaip atlyginamai realizuoti jų tikrąja verte. ^s-740d5eac63750fdaa40032c7
+4) priemones, kuriomis prekiaujama už šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalies]] [[#^s-ff1c4e783d289a3d046efae4|1]], [[#^s-b7f6a6b3f0a96f4e82e85a6e|2]] ir [[#^s-090ff8137410d552cda1b60b|3]] punktuose nurodytų rinkų ribų, kiekvieną dieną galima patikrinti, patikimai įvertinti ir bet kuriuo metu parduoti ar kitaip atlyginamai realizuoti jų tikrąja verte. ^s-740d5eac63750fdaa40032c7
 
 
 2. Valdymo įmonė ar investicinė kintamojo kapitalo bendrovė privalo: ^s-57610cfd48643fce3ba2a8bc
@@ -1772,7 +1772,7 @@ SUDERINTŲJŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ INVESTAVIMO TAISYKLĖS
 4. Pagal sandorius su išvestinėmis finansinėmis priemonėmis priimti įsipareigojimai negali būti didesni už kolektyvinio investavimo subjekto grynųjų aktyvų vertę. Skaičiuojant įsipareigojimų vertę, turi būti atsižvelgiama į išvestinės finansinės priemonės vertę skaičiavimo metu, į sandorio šalies riziką, į būsimus rinkos pasikeitimus ir laiką, kurio reikia įsipareigojimams įvykdyti, ir į tai, kad išvestinė finansinė priemonė įeina į perleidžiamojo vertybinio popieriaus ar pinigų rinkos priemonės sudėtį. Į išvestines finansines priemones gali būti investuota iki 35 procentų kolektyvinio investavimo subjekto aktyvų vertės, bet tik tuo atveju, jei nebus viršytos šio įstatymo [[#^s-f95af9f2a0409873691abc35|58 straipsnyje]] nustatytos ribos. Nustatant, ar neviršytos šio įstatymo [[#^s-f95af9f2a0409873691abc35|58 straipsnyje]] nustatytos ribos, investicijos į su indeksu susietas išvestines finansines priemones skaičiuojamos atskirai. ^s-ad6f3b224cc0aa84b2fa8eba
 
 
-5. Įsipareigojimų rizika sandoriuose su išvestinėmis finansinėmis priemonėmis, sudarytuose už šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytų rinkų ribų, negali būti didesnė kaip 5 procentai kolektyvinio investavimo subjekto grynųjų aktyvų vertės, o tuo atveju, jei kita sandorio šalis yra [[#^s-300a2e05655dd90628392e9a|58 straipsnio 6 dalyje]] nurodyta kredito įstaiga, – ne didesnė kaip 10 procentų grynųjų aktyvų vertės. ^s-f1a7becd49ece1cc1d5c658e
+5. Įsipareigojimų rizika sandoriuose su išvestinėmis finansinėmis priemonėmis, sudarytuose už šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalies]] [[#^s-ff1c4e783d289a3d046efae4|1]], [[#^s-b7f6a6b3f0a96f4e82e85a6e|2]] ir [[#^s-090ff8137410d552cda1b60b|3]] punktuose nurodytų rinkų ribų, negali būti didesnė kaip 5 procentai kolektyvinio investavimo subjekto grynųjų aktyvų vertės, o tuo atveju, jei kita sandorio šalis yra [[#^s-300a2e05655dd90628392e9a|58 straipsnio 6 dalyje]] nurodyta kredito įstaiga, – ne didesnė kaip 10 procentų grynųjų aktyvų vertės. ^s-f1a7becd49ece1cc1d5c658e
 
 
 
@@ -1798,7 +1798,7 @@ SUDERINTŲJŲ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ INVESTAVIMO TAISYKLĖS
 1. Kolektyvinio investavimo subjektas ar jo valdymo įmonė gali nesilaikyti šiame skyriuje nustatytų investavimo apribojimų, jeigu jis pasinaudoja turimų perleidžiamųjų vertybinių popierių ar pinigų rinkos priemonių suteikiama pirmumo teise. Tokiu atveju, taip pat tada, kai investavimo taisyklių reikalavimai pažeidžiami dėl priežasčių, nepriklausančių nuo valdymo įmonės ar investicinės kintamojo kapitalo bendrovės, neatitiktis turi būti pašalinta kiek įmanoma greičiau, bet ne vėliau kaip per 6 mėnesius. ^s-a1314ebc48e67b1c1888aaf9
 
 
-2. Sudaryto naujo kolektyvinio investavimo subjekto investicijų portfelis 6 mėnesius nuo dienos, kai jo sudarymo dokumentams ir prospektams pritarė Vertybinių popierių komisija, gali neatitikti 58, 60 ir [[#^s-f606982e50e8e118261a8d8b|61 straipsnių]] reikalavimų. ^s-246b56ccdca552a4803dc25c
+2. Sudaryto naujo kolektyvinio investavimo subjekto investicijų portfelis 6 mėnesius nuo dienos, kai jo sudarymo dokumentams ir prospektams pritarė Vertybinių popierių komisija, gali neatitikti [[#^s-f95af9f2a0409873691abc35|58]], [[#^s-2309858a51843c23450df18d|60]] ir [[#^s-f606982e50e8e118261a8d8b|61]] straipsnių reikalavimų. ^s-246b56ccdca552a4803dc25c
 
 
 3. Šiame skyriuje nustatytus reikalavimus pažeidusi valdymo įmonė ar investicinė kintamojo kapitalo bendrovė, kurios turto valdymas neperduotas valdymo įmonei, privalo nedelsdama apie pažeidimą raštu informuoti Vertybinių popierių komisiją, nurodydama pažeidimo priežastis, priemones, kurių ji ketina imtis padėčiai ištaisyti, ir numatomą pažeidimo ištaisymo terminą. ^s-01b5ead15f48739a796a7252
@@ -1842,13 +1842,13 @@ SPECIALIEJI KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 1. Suėjus 6 mėnesiams nuo dienos, kai naujo specialiojo kolektyvinio investavimo subjekto sudarymo dokumentams ir prospektams pritarė Vertybinių popierių komisija, tą subjektą valdančios valdymo įmonės investicijos į jį negali viršyti 30 procentų kolektyvinio investavimo subjekto grynųjų aktyvų vertės. ^s-491af645630d751856669fe4
 
 
-2. Valdymo įmonė jos valdomo nekilnojamojo turto kolektyvinio investavimo subjekto sąskaita arba nekilnojamojo turto investicinė bendrovė, kurios turto valdymas neperduotas valdymo įmonei, gali įsigyti šio įstatymo [[#^s-61ad38ba7003e61a0f6b1161|74 straipsnio 1 dalies]] 1, 2, 3 ir 5 punktuose nurodytus investavimo objektus, priklausančius kolektyvinio investavimo subjekto depozitoriumui ar bendrovei, kuriai priklauso 5 ir daugiau procentų valdymo įmonės ar investicinės bendrovės akcijų, suteikiančių balso teisę. ^s-0b1bb83217bb7778d151ad49
+2. Valdymo įmonė jos valdomo nekilnojamojo turto kolektyvinio investavimo subjekto sąskaita arba nekilnojamojo turto investicinė bendrovė, kurios turto valdymas neperduotas valdymo įmonei, gali įsigyti šio įstatymo [[#^s-61ad38ba7003e61a0f6b1161|74 straipsnio 1 dalies]] [[#^s-f49ea483a8daabbb4930493c|1]], [[#^s-5657057b7dc666a1285812b8|2]], [[#^s-d124d63065e35e02967f1b70|3]] ir [[#^s-4371dff08c0a44bbcccf0c9d|5]] punktuose nurodytus investavimo objektus, priklausančius kolektyvinio investavimo subjekto depozitoriumui ar bendrovei, kuriai priklauso 5 ir daugiau procentų valdymo įmonės ar investicinės bendrovės akcijų, suteikiančių balso teisę. ^s-0b1bb83217bb7778d151ad49
 
 
 3. Valdymo įmonė jos valdomo privataus kapitalo kolektyvinio investavimo subjekto lėšomis arba privataus kapitalo investicinė bendrovė, kurios turto valdymas neperduotas valdymo įmonei, gali įsigyti šio įstatymo [[#^s-3ef00a962a654f918ebe0e07|79 straipsnio]] 1 ir 2 punktuose nurodytus investavimo objektus, priklausančius kolektyvinio investavimo subjekto depozitoriumui ar bendrovei, kuriai priklauso 5 ir daugiau procentų valdymo įmonės ar investicinės bendrovės akcijų, suteikiančių balso teisę. ^s-7ef28f49b02524785479e709
 
 
-4. Šio straipsnio 2 ir [[#^s-7ef28f49b02524785479e709|3 dalyse]] numatyta teise pasinaudojusi valdymo įmonė ar investicinė bendrovė, kurios turto valdymas neperduotas valdymo įmonei, privalo ne vėliau kaip per 5 darbo dienas nuo įsigijimo sandorio sudarymo pranešti apie jį Vertybinių popierių komisijai. Kartu su pranešimu Vertybinių popierių komisijai turi būti pateikiama: ^s-4aff61f1a80ff9780c6df0c5
+4. Šio straipsnio [[#^s-0b1bb83217bb7778d151ad49|2]] ir [[#^s-7ef28f49b02524785479e709|3]] dalyse numatyta teise pasinaudojusi valdymo įmonė ar investicinė bendrovė, kurios turto valdymas neperduotas valdymo įmonei, privalo ne vėliau kaip per 5 darbo dienas nuo įsigijimo sandorio sudarymo pranešti apie jį Vertybinių popierių komisijai. Kartu su pranešimu Vertybinių popierių komisijai turi būti pateikiama: ^s-4aff61f1a80ff9780c6df0c5
 
 
 1) valdymo įmonės ar investicinės bendrovės, kurios turto valdymas neperduotas valdymo įmonei, valdybos sprendimas su jame nurodyta atitinkamo investavimo objekto įsigijimo kaina; ^s-7cf4b9ec1a09c9e3c264fa1d
@@ -1857,7 +1857,7 @@ SPECIALIEJI KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 2) įsigijimo motyvai; ^s-1138311f1ca7207de2639de9
 
 
-3) įsigyjant šio įstatymo [[#^s-61ad38ba7003e61a0f6b1161|74 straipsnio 1 dalies]] 1, 2, 3 ir 5 punktuose išvardytus investavimo objektus – nekilnojamojo turto vertintojų išvados. ^s-45c274dc757c0140e2e78190
+3) įsigyjant šio įstatymo [[#^s-61ad38ba7003e61a0f6b1161|74 straipsnio 1 dalies]] [[#^s-f49ea483a8daabbb4930493c|1]], [[#^s-5657057b7dc666a1285812b8|2]], [[#^s-d124d63065e35e02967f1b70|3]] ir [[#^s-4371dff08c0a44bbcccf0c9d|5]] punktuose išvardytus investavimo objektus – nekilnojamojo turto vertintojų išvados. ^s-45c274dc757c0140e2e78190
 
 
 5. Specialiojo kolektyvinio investavimo subjekto valdymo įmonė ar investicinė bendrovė, kurios turto valdymas neperduotas valdymo įmonei, kolektyvinio investavimo subjektą sudarančiu turtu sudarydama sandorį dėl investicinių priemonių, kurių ji neturi, pardavimo, privalo užtikrinti, kad tokio sandorio objektu esančios investicinės priemonės bus įsigytos iki tokio sandorio įvykdymo termino. ^s-ba074829b46f4dcdb0ea25ff
@@ -1867,7 +1867,7 @@ SPECIALIEJI KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 ### 67 straipsnis.       Specialiųjų kolektyvinio investavimo subjektų investicinių vienetų ar akcijų įsigijimas ir išpirkimas ^s-99b740b2ab68a2acd7630144
 
 
-1. Specialiųjų kolektyvinio investavimo subjektų investiciniai vienetai ar akcijos įsigyjami šio įstatymo 34, [[#^s-8e7c8f2a2dc48b3099c550e6|35 straipsniuose]] ir sudarymo dokumentuose nustatyta tvarka. ^s-4cc2ced3bf9d42c111c39b13
+1. Specialiųjų kolektyvinio investavimo subjektų investiciniai vienetai ar akcijos įsigyjami šio įstatymo [[#^s-cd14335a976967be1db28b72|34]], [[#^s-8e7c8f2a2dc48b3099c550e6|35]] straipsniuose ir sudarymo dokumentuose nustatyta tvarka. ^s-4cc2ced3bf9d42c111c39b13
 
 
 2. Specialiųjų kolektyvinio investavimo subjektų investiciniai vienetai ar akcijos išperkami ir už juos atsiskaitoma su investuotojais sudarymo dokumentuose ir prospektuose nustatyta tvarka ir terminais. Atsiskaityti už išpirktus specialiojo kolektyvinio investavimo subjekto investicinius vienetus ar akcijas privaloma ne vėliau kaip per 30 kalendorinių dienų nuo pareikalavimo išpirkti. Jeigu specialiojo kolektyvinio investavimo subjekto sudarymo dokumentuose nustatyta kita paraiškų išpirkti investicinius vienetus ar akcijas vykdymo diena, 30 kalendorinių dienų terminas pradedamas skaičiuoti nuo sudarymo dokumentuose nustatytos dienos. Investuotojų pateikti reikalavimai išpirkti atviro tipo specialiųjų kolektyvinio investavimo subjektų investicinius vienetus ar akcijas privalo būti vykdomi ne rečiau kaip vieną kartą per 3 mėnesius. ^s-539aea0d4d9fc5159c8bae32
@@ -1922,10 +1922,10 @@ KOLEKTYVINIO INVESTAVIMO Į PERLEIDŽIAMUOSIUS VERTYBINIUS POPIERIUS SUBJEKTAI
 1. Kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektams ir jų valdymo įmonėms taikomi visi šiame įstatyme suderintiesiems kolektyvinio investavimo subjektams ir jų valdymo įmonėms nustatyti reikalavimai, išskyrus šiame straipsnyje nustatytas išimtis. ^s-8de6c2c10192654e227a3558
 
 
-2. Kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektams su šiame straipsnyje numatytais apribojimais netaikomos šio įstatymo [[#^s-f13360b37a56d07d2485028c|13 straipsnio]] 4 ir [[#^s-465d26f2e92e3f790622c9c4|5 dalys]], [[#^s-d1df1a3626d72a404dbf7bfe|13 straipsnio 3 dalyje]] įtvirtintas draudimas skolinti ar įkeisti investicinį fondą sudarantį ar investicinės bendrovės turtą, [[#^s-f95af9f2a0409873691abc35|58 straipsnio]] 1 ir [[#^s-831d0119648a8df7349022ad|2 dalys]], [[#^s-c52c62f2a168130fb79eb8ba|66 straipsnio]] 2, 3 ir [[#^s-95d4a5cfda32cef0a4e75613|4 dalys]], 67, 68, 70 ir [[#^s-22daee8eb7b6850d6da3c6d9|99 straipsniai]]. Draudžiama kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjekto turtu garantuoti ar laiduoti už kitų asmenų įsipareigojimus. ^s-831d0119648a8df7349022ad
+2. Kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektams su šiame straipsnyje numatytais apribojimais netaikomos šio įstatymo [[#^s-f13360b37a56d07d2485028c|13 straipsnio]] [[#^s-b3c091cebaa201c8b640a41b|4]] ir [[#^s-cbd5c4a889f1978a2327d572|5]] dalys, [[#^s-d1df1a3626d72a404dbf7bfe|13 straipsnio 3 dalyje]] įtvirtintas draudimas skolinti ar įkeisti investicinį fondą sudarantį ar investicinės bendrovės turtą, [[#^s-f95af9f2a0409873691abc35|58 straipsnio]] [[#^s-f3500884d979618c4193d9fb|1]] ir [[#^s-6b5379ba6918926d44cfdadf|2]] dalys, [[#^s-c52c62f2a168130fb79eb8ba|66 straipsnio]] [[#^s-0b1bb83217bb7778d151ad49|2]], [[#^s-7ef28f49b02524785479e709|3]] ir [[#^s-4aff61f1a80ff9780c6df0c5|4]] dalys, [[#^s-99b740b2ab68a2acd7630144|67]], [[#^s-2451a2cd495cd8be48197baf|68]], [[#^s-4554e3c5bc2e7689ae5defb4|70]] ir [[#^s-22daee8eb7b6850d6da3c6d9|99]] straipsniai. Draudžiama kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjekto turtu garantuoti ar laiduoti už kitų asmenų įsipareigojimus. ^s-831d0119648a8df7349022ad
 
 
-3. Kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektas į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali investuoti iki 20 procentų grynųjų aktyvų, išskyrus [[#^s-f95af9f2a0409873691abc35|58 straipsnio]] 5 ir 6 dalyse nustatytus atvejus. Vertybinių popierių komisijai sutikus, jei tai būtina dėl ypatingų sąlygų reguliuojamoje rinkoje dominuojant vienam emitentui, į jo akcijas, obligacijas ar kitų formų ne nuosavybės vertybinius popierius gali būti investuojama iki 35 procentų grynųjų aktyvų. ^s-6d12abbc678023b6032dbd9d
+3. Kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektas į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali investuoti iki 20 procentų grynųjų aktyvų, išskyrus [[#^s-f95af9f2a0409873691abc35|58 straipsnio]] [[#^s-da2fe15f234cc6f73faddbd9|5]] ir [[#^s-300a2e05655dd90628392e9a|6]] dalyse nustatytus atvejus. Vertybinių popierių komisijai sutikus, jei tai būtina dėl ypatingų sąlygų reguliuojamoje rinkoje dominuojant vienam emitentui, į jo akcijas, obligacijas ar kitų formų ne nuosavybės vertybinius popierius gali būti investuojama iki 35 procentų grynųjų aktyvų. ^s-6d12abbc678023b6032dbd9d
 
 
 4. Kolektyvinio investavimo į perleidžiamuosius vertybinius popierius investicinė bendrovė ar valdymo įmonė, valdanti kolektyvinio investavimo subjekto turtą, gali skolintis iki 15 procentų paskolos sudarymo dieną buvusių grynųjų aktyvų vertės kolektyvinio investavimo subjekto sudarymo dokumentuose iš anksto nustatytam terminui. ^s-95d4a5cfda32cef0a4e75613
@@ -1976,7 +1976,7 @@ NEKILNOJAMOJO TURTO KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 ### 73 straipsnis.       Nekilnojamojo turto kolektyvinio investavimo subjektų pagrindinės investavimo taisyklės ir ypatumai ^s-8e723e6197910c0686d988ff
 
 
-1. Jeigu šiame skirsnyje nenustatyta kitaip, nekilnojamojo turto kolektyvinio investavimo subjekto turto investavimui netaikomi šio įstatymo [[#^s-f13360b37a56d07d2485028c|13 straipsnio]] 4 ir 5 dalyse, [[#^s-5823f65ce4795d6a67401b8e|57 straipsnyje]], išskyrus šio straipsnio 5 dalyje numatytą draudimą, [[#^s-f95af9f2a0409873691abc35|58 straipsnyje]], [[#^s-246b56ccdca552a4803dc25c|64 straipsnio 2 dalyje]] nustatyti apribojimai, [[#^s-22daee8eb7b6850d6da3c6d9|99 straipsnis]], [[#^s-d1df1a3626d72a404dbf7bfe|13 straipsnio 3 dalyje]] įtvirtintas draudimas įkeisti investicinį fondą sudarantį ar investicinės bendrovės turtą. Draudžiama skolinti nekilnojamojo turto kolektyvinio investavimo subjekto turtą, garantuoti ar laiduoti juo už kitų asmenų įsipareigojimus. Nekilnojamojo turto kolektyvinio investavimo subjektas neprivalo naudoti palyginamojo indekso. ^s-4f91e8c88ceb5b59448bb6e5
+1. Jeigu šiame skirsnyje nenustatyta kitaip, nekilnojamojo turto kolektyvinio investavimo subjekto turto investavimui netaikomi šio įstatymo [[#^s-f13360b37a56d07d2485028c|13 straipsnio]] [[#^s-b3c091cebaa201c8b640a41b|4]] ir [[#^s-cbd5c4a889f1978a2327d572|5]] dalyse, [[#^s-5823f65ce4795d6a67401b8e|57 straipsnyje]], išskyrus šio straipsnio 5 dalyje numatytą draudimą, [[#^s-f95af9f2a0409873691abc35|58 straipsnyje]], [[#^s-246b56ccdca552a4803dc25c|64 straipsnio 2 dalyje]] nustatyti apribojimai, [[#^s-22daee8eb7b6850d6da3c6d9|99 straipsnis]], [[#^s-d1df1a3626d72a404dbf7bfe|13 straipsnio 3 dalyje]] įtvirtintas draudimas įkeisti investicinį fondą sudarantį ar investicinės bendrovės turtą. Draudžiama skolinti nekilnojamojo turto kolektyvinio investavimo subjekto turtą, garantuoti ar laiduoti juo už kitų asmenų įsipareigojimus. Nekilnojamojo turto kolektyvinio investavimo subjektas neprivalo naudoti palyginamojo indekso. ^s-4f91e8c88ceb5b59448bb6e5
 
 
 2. Nekilnojamojo turto objekto įsigijimo kaina negali būti daug aukštesnė, o pardavimo kaina – daug žemesnė už tą, kurią nustatė šio įstatymo [[#^s-dbe95957b1098926ec7b1e4d|72 straipsnyje]] nustatytus reikalavimus atitinkantys nekilnojamojo turto vertintojai. Dideliu kainos skirtumu laikytina kaina, kuri daugiau negu 15 procentų skiriasi nuo turto vertintojo (vertintojų) nustatytos nekilnojamojo turto objekto vertės. Nekilnojamojo turto investicinė bendrovė ar valdymo įmonė, valdanti nekilnojamojo turto kolektyvinio investavimo subjektą, išskirtiniais atvejais, kai tai nepažeidžia kolektyvinio investavimo subjekto dalyvių interesų, sudariusi nekilnojamojo turto objekto pirkimo ar pardavimo sandorį, kurio kaina viršija šioje dalyje nustatytą didžiausią leistiną kainų skirtumą, privalo apie sandorį nedelsdama, bet ne vėliau kaip per 5 darbo dienas nuo sandorio sudarymo dienos, informuoti Vertybinių popierių komisiją. Pranešime turi būti nurodyta sudaryto sandorio kaina, nekilnojamojo turto vertintojo (vertintojų) nustatyta nekilnojamojo turto objekto vertė ir sandorio sudarymo motyvai. ^s-270d02b27290190bc24323bf
@@ -2007,7 +2007,7 @@ NEKILNOJAMOJO TURTO KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 5) kilnojamasis turtas ir įrenginiai, būtini kolektyvinio investavimo subjekto investicijų portfelyje esančiam nekilnojamojo turto objektui eksploatuoti; ^s-4371dff08c0a44bbcccf0c9d
 
 
-6) kitos šio įstatymo 57, 61, [[#^s-03a487f89c90ca59bec9f114|62 straipsniuose]] išvardytos investicinės priemonės. ^s-eb57d431758d55f5cab78703
+6) kitos šio įstatymo [[#^s-5823f65ce4795d6a67401b8e|57]], [[#^s-f606982e50e8e118261a8d8b|61]], [[#^s-03a487f89c90ca59bec9f114|62]] straipsniuose išvardytos investicinės priemonės. ^s-eb57d431758d55f5cab78703
 
 
 2. Nekilnojamojo turto kolektyvinio investavimo subjekto turtu draudžiama įsigyti [[#^s-61ad38ba7003e61a0f6b1161|šio straipsnio 1 dalyje]] išvardytus objektus, jeigu: ^s-5b87b5b2bb4f8a3e27265843
@@ -2032,7 +2032,7 @@ NEKILNOJAMOJO TURTO KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 1. Nekilnojamojo turto kolektyvinio investavimo subjekto turtas laikomas pakankamai diversifikuotu, jei jis investuotas laikantis šiame straipsnyje išdėstytų reikalavimų. Skaičiuojant [[#^s-614d1c81242e70dc0eb5dbd0|šio straipsnio 3 dalyje]] nustatytas didžiausias leistinas investavimo ribas, viename pastate esančios patalpos laikytinos vienu nekilnojamojo turto objektu. ^s-694d44fab9ab22271e72a5e2
 
 
-2. Ne daugiau kaip 20 procentų nekilnojamojo turto kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų gali būti investuota į šio įstatymo [[#^s-5823f65ce4795d6a67401b8e|57 straipsnyje]] nurodytas priemones laikantis šio įstatymo 58, 59, 61 ir [[#^s-03a487f89c90ca59bec9f114|62 straipsniuose]] nustatytų reikalavimų. ^s-16e5a953ab4b1371919d188c
+2. Ne daugiau kaip 20 procentų nekilnojamojo turto kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų gali būti investuota į šio įstatymo [[#^s-5823f65ce4795d6a67401b8e|57 straipsnyje]] nurodytas priemones laikantis šio įstatymo [[#^s-f95af9f2a0409873691abc35|58]], [[#^s-472156d060b75cb849d856e6|59]], [[#^s-f606982e50e8e118261a8d8b|61]] ir [[#^s-03a487f89c90ca59bec9f114|62]] straipsniuose nustatytų reikalavimų. ^s-16e5a953ab4b1371919d188c
 
 
 3. Į vieną nekilnojamojo turto objektą ir (ar) nekilnojamojo turto bendrovę gali būti investuota ne daugiau kaip 30 procentų nekilnojamojo turto kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų. ^s-614d1c81242e70dc0eb5dbd0
@@ -2050,7 +2050,7 @@ NEKILNOJAMOJO TURTO KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 7. Bendra investicijų į [[#^s-5d8bad55c53d8abd0b822661|šio straipsnio 6 dalyje]] nurodytas investicines priemones ir [[#^s-c4a21fa9cecd4969dd635a0c|šio straipsnio 5 dalyje]] nurodytus investavimo objektus, į kuriuos yra investavusi tokia nekilnojamojo turto bendrovė ir į ją investuojantis nekilnojamojo turto kolektyvinio investavimo subjektas, suma negali viršyti 30 procentų nekilnojamojo turto kolektyvinio investavimo subjekto turtą sudarančių grynųjų aktyvų. ^s-e5610256f7fc04f00009144f
 
 
-8. Sudaryto naujo nekilnojamojo turto kolektyvinio investavimo subjekto investicijų portfelis 4 metus nuo dienos, kai jo sudarymo dokumentams ir prospektams pritarė Vertybinių popierių komisija, gali neatitikti šiame straipsnyje nustatytų diversifikavimo reikalavimų. Visais atvejais tai nepanaikina valdymo įmonės ar investicinės bendrovės pareigos nekilnojamojo turto kolektyvinio investavimo subjekto turtą investuoti laikantis šio įstatymo 66 ir [[#^s-84a7abea901e632208e97f66|74 straipsnių]] reikalavimų. ^s-4ddbf4093722efdb484e4c2f
+8. Sudaryto naujo nekilnojamojo turto kolektyvinio investavimo subjekto investicijų portfelis 4 metus nuo dienos, kai jo sudarymo dokumentams ir prospektams pritarė Vertybinių popierių komisija, gali neatitikti šiame straipsnyje nustatytų diversifikavimo reikalavimų. Visais atvejais tai nepanaikina valdymo įmonės ar investicinės bendrovės pareigos nekilnojamojo turto kolektyvinio investavimo subjekto turtą investuoti laikantis šio įstatymo [[#^s-c52c62f2a168130fb79eb8ba|66]] ir [[#^s-84a7abea901e632208e97f66|74]] straipsnių reikalavimų. ^s-4ddbf4093722efdb484e4c2f
 
 
 9. Tuo atveju, kai investavimo taisyklių reikalavimai pažeidžiami dėl priežasčių, nepriklausančių nuo valdymo įmonės ar investicinės bendrovės, neatitiktis turi būti pašalinta kaip įmanoma greičiau, bet ne vėliau kaip per vienus metus. ^s-f1e3541432dc8dba1859b4fb
@@ -2073,7 +2073,7 @@ NEKILNOJAMOJO TURTO KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 ### 77 straipsnis.       Nekilnojamojo turto kolektyvinio investavimo subjektų metų ataskaitos turinys ^s-7b528dae169ceb85fc2e3878
 
 
-Kartu su nekilnojamojo turto kolektyvinio investavimo subjekto metų ataskaita, be šio įstatymo [[#^s-ff03ff61394392dacf9bf76c|22 straipsnio]] 3 ir 6 dalyse numatytos informacijos, turi būti pateikta:
+Kartu su nekilnojamojo turto kolektyvinio investavimo subjekto metų ataskaita, be šio įstatymo [[#^s-ff03ff61394392dacf9bf76c|22 straipsnio]] [[#^s-87b6f99675b8986c390de23c|3]] ir [[#^s-90aaee11ac3c214e6bdb1fc1|6]] dalyse numatytos informacijos, turi būti pateikta:
 
 
 1) informacija apie pelną ir (arba) nuostolį, patirtą per finansinius metus pardavus kiekvieną nekilnojamojo turto objektą; ^s-6a6d0e7ab2c936deeb16c95e
@@ -2095,7 +2095,7 @@ PRIVATAUS KAPITALO KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 ### 78 straipsnis.       Privataus kapitalo kolektyvinio investavimo subjektų pagrindinės investavimo taisyklės ir ypatumai ^s-c25ccd213bbe9320b10f6121
 
 
-1. Jeigu šiame skirsnyje nenustatyta kitaip, privataus kapitalo kolektyvinio investavimo subjektams ir jų valdymo įmonėms netaikomi šio įstatymo [[#^s-f13360b37a56d07d2485028c|13 straipsnio]] 4 ir 5 dalyse, [[#^s-5823f65ce4795d6a67401b8e|57 straipsnio]] 1, 2 ir 4 dalyse, 58, [[#^s-472156d060b75cb849d856e6|59 straipsniuose]], [[#^s-246b56ccdca552a4803dc25c|64 straipsnio 2 dalyje]] nustatyti apribojimai, [[#^s-22daee8eb7b6850d6da3c6d9|99 straipsnis]] ir [[#^s-d1df1a3626d72a404dbf7bfe|13 straipsnio 3 dalyje]] įtvirtintas draudimas įkeisti investicinį fondą sudarantį ar investicinės bendrovės turtą. Draudžiama skolinti privataus kapitalo kolektyvinio investavimo subjekto turtą, garantuoti ar laiduoti juo už kitų asmenų įsipareigojimus. Draudimas skolinti turtą netaikomas tik profesionaliesiems investuotojams skirtam kolektyvinio investavimo subjektui, tačiau paskolinto turto vertė negali viršyti 50 procentų privataus kapitalo kolektyvinio investavimo subjekto grynųjų aktyvų vertės. Privataus kapitalo kolektyvinio investavimo subjektas neprivalo naudoti lyginamojo indekso. ^s-8753185543d0473befd558c4
+1. Jeigu šiame skirsnyje nenustatyta kitaip, privataus kapitalo kolektyvinio investavimo subjektams ir jų valdymo įmonėms netaikomi šio įstatymo [[#^s-f13360b37a56d07d2485028c|13 straipsnio]] [[#^s-b3c091cebaa201c8b640a41b|4]] ir [[#^s-cbd5c4a889f1978a2327d572|5]] dalyse, [[#^s-5823f65ce4795d6a67401b8e|57 straipsnio]] [[#^s-9b75d50b12cd9ebdc21d02b9|1]], [[#^s-7510c5df1e71eefe86ad6b6a|2]] ir [[#^s-301e1e98a3147a81a81f572f|4]] dalyse, [[#^s-f95af9f2a0409873691abc35|58]], [[#^s-472156d060b75cb849d856e6|59]] straipsniuose, [[#^s-246b56ccdca552a4803dc25c|64 straipsnio 2 dalyje]] nustatyti apribojimai, [[#^s-22daee8eb7b6850d6da3c6d9|99 straipsnis]] ir [[#^s-d1df1a3626d72a404dbf7bfe|13 straipsnio 3 dalyje]] įtvirtintas draudimas įkeisti investicinį fondą sudarantį ar investicinės bendrovės turtą. Draudžiama skolinti privataus kapitalo kolektyvinio investavimo subjekto turtą, garantuoti ar laiduoti juo už kitų asmenų įsipareigojimus. Draudimas skolinti turtą netaikomas tik profesionaliesiems investuotojams skirtam kolektyvinio investavimo subjektui, tačiau paskolinto turto vertė negali viršyti 50 procentų privataus kapitalo kolektyvinio investavimo subjekto grynųjų aktyvų vertės. Privataus kapitalo kolektyvinio investavimo subjektas neprivalo naudoti lyginamojo indekso. ^s-8753185543d0473befd558c4
 
 
 2. Privataus kapitalo investicinė bendrovė ar valdymo įmonė, valdanti kolektyvinio investavimo subjekto turtą, gali skolintis kolektyvinio investavimo subjekto sąskaita iki 80 procentų paskolos sutarties sudarymo dieną buvusių grynųjų aktyvų vertės kolektyvinio investavimo subjekto sudarymo dokumentuose iš anksto nustatytam terminui. ^s-45c8ee1a4153a5aedec1fb42
@@ -2111,13 +2111,13 @@ PRIVATAUS KAPITALO KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 Privataus kapitalo kolektyvinio investavimo subjekto turtą gali sudaryti:
 
 
-1) naujai steigiamų įmonių ir (arba) veikiančių įmonių, kurių išleisti perleidžiamieji vertybiniai popieriai nėra įtraukti į prekybą šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalies]] 1, 2 ir [[#^s-e3305db6210004d67aa30957|3 punktuose]] išvardytose rinkose, vertybiniai popieriai; ^s-200fbfa00d5edb33bbf77115
+1) naujai steigiamų įmonių ir (arba) veikiančių įmonių, kurių išleisti perleidžiamieji vertybiniai popieriai nėra įtraukti į prekybą šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalies]] [[#^s-ff1c4e783d289a3d046efae4|1]], [[#^s-b7f6a6b3f0a96f4e82e85a6e|2]] ir [[#^s-090ff8137410d552cda1b60b|3]] punktuose išvardytose rinkose, vertybiniai popieriai; ^s-200fbfa00d5edb33bbf77115
 
 
-2) šio straipsnio [[#^s-200fbfa00d5edb33bbf77115|1 punkte]] nurodytų įmonių, kurių perleidžiamųjų vertybinių popierių yra įsigijęs privataus kapitalo kolektyvinio investavimo subjektas, išleistos pinigų rinkos priemonės, jei jos nėra įtrauktos į prekybą šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalies]] 1, 2 ir [[#^s-e3305db6210004d67aa30957|3 punktuose]] išvardytose rinkose; ^s-4f17c74c74993840eb394262
+2) šio straipsnio [[#^s-200fbfa00d5edb33bbf77115|1 punkte]] nurodytų įmonių, kurių perleidžiamųjų vertybinių popierių yra įsigijęs privataus kapitalo kolektyvinio investavimo subjektas, išleistos pinigų rinkos priemonės, jei jos nėra įtrauktos į prekybą šio įstatymo [[#^s-9b75d50b12cd9ebdc21d02b9|57 straipsnio 1 dalies]] [[#^s-ff1c4e783d289a3d046efae4|1]], [[#^s-b7f6a6b3f0a96f4e82e85a6e|2]] ir [[#^s-090ff8137410d552cda1b60b|3]] punktuose išvardytose rinkose; ^s-4f17c74c74993840eb394262
 
 
-3) kitos šio įstatymo 57, 61 ir [[#^s-03a487f89c90ca59bec9f114|62 straipsniuose]] išvardytos investicinės priemonės. ^s-e3305db6210004d67aa30957
+3) kitos šio įstatymo [[#^s-5823f65ce4795d6a67401b8e|57]], [[#^s-f606982e50e8e118261a8d8b|61]] ir [[#^s-03a487f89c90ca59bec9f114|62]] straipsniuose išvardytos investicinės priemonės. ^s-e3305db6210004d67aa30957
 
 
 
@@ -2130,7 +2130,7 @@ Privataus kapitalo kolektyvinio investavimo subjekto turtą gali sudaryti:
 2. Į vienos įmonės perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota ne daugiau kaip 30 procentų subjekto turtą sudarančių grynųjų aktyvų. ^s-a802bb4ab8ed40d7c5613fe9
 
 
-3. Sudaryto naujo privataus kapitalo kolektyvinio investavimo subjekto investicijų portfelis 4 metus nuo dienos, kai jo sudarymo dokumentams ir prospektams pritarė Vertybinių popierių komisija, gali neatitikti šiame straipsnyje nustatytų diversifikavimo reikalavimų. Visais atvejais tai nepanaikina valdymo įmonės ar investicinės bendrovės pareigos privataus kapitalo kolektyvinio investavimo subjekto turtą investuoti laikantis šio įstatymo 66 ir [[#^s-3ef00a962a654f918ebe0e07|79 straipsnių]] reikalavimų. ^s-12f9a5f41435bc79b29afcaf
+3. Sudaryto naujo privataus kapitalo kolektyvinio investavimo subjekto investicijų portfelis 4 metus nuo dienos, kai jo sudarymo dokumentams ir prospektams pritarė Vertybinių popierių komisija, gali neatitikti šiame straipsnyje nustatytų diversifikavimo reikalavimų. Visais atvejais tai nepanaikina valdymo įmonės ar investicinės bendrovės pareigos privataus kapitalo kolektyvinio investavimo subjekto turtą investuoti laikantis šio įstatymo [[#^s-c52c62f2a168130fb79eb8ba|66]] ir [[#^s-3ef00a962a654f918ebe0e07|79]] straipsnių reikalavimų. ^s-12f9a5f41435bc79b29afcaf
 
 
 4. Tuo atveju, kai investavimo taisyklių reikalavimai pažeidžiami dėl priežasčių, nepriklausančių nuo valdymo įmonės ar investicinės bendrovės, neatitiktis turi būti pašalinta kaip įmanoma greičiau, bet ne vėliau kaip per vienus metus. Šis terminas gali būti ilgesnis tik išskirtiniais atvejais, kai valdymo įmonė ar investicinė bendrovė negali ištaisyti padėties dėl nuo jos nepriklausančių priežasčių. Tokiu atveju, pasibaigus vienų metų terminui, valdymo įmonė ar investicinė bendrovė privalo nedelsdama apie susidariusią padėtį ir jos priežastis informuoti Vertybinių popierių komisiją. Pranešime taip pat turi būti nurodytas planuojamas reikalavimo įvykdymo terminas. ^s-187feb39841a1f1fe2c3c1a7
@@ -2156,13 +2156,13 @@ Privataus kapitalo kolektyvinio investavimo subjekto turtą gali sudaryti:
 ### 82 straipsnis.       Privataus kapitalo kolektyvinio investavimo subjektų metų ataskaitos turinys ^s-46c2b1d244656374a669aff0
 
 
-Kartu su privataus kapitalo kolektyvinio investavimo subjekto metų ataskaita, be šio įstatymo [[#^s-ff03ff61394392dacf9bf76c|22 straipsnio]] 3 ir 6 dalyse numatytos informacijos, turi būti pateikta:
+Kartu su privataus kapitalo kolektyvinio investavimo subjekto metų ataskaita, be šio įstatymo [[#^s-ff03ff61394392dacf9bf76c|22 straipsnio]] [[#^s-87b6f99675b8986c390de23c|3]] ir [[#^s-90aaee11ac3c214e6bdb1fc1|6]] dalyse numatytos informacijos, turi būti pateikta:
 
 
-1) informacija apie kiekvienos šio įstatymo [[#^s-3ef00a962a654f918ebe0e07|79 straipsnio]] 1 ir [[#^s-5623acc11b160e56b6d19377|2 punktuose]] nurodytos įmonės, į kurios perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones yra investuotas subjekto turtas, veiklos rezultatus; ^s-cd1100b43d684cd87e1d1399
+1) informacija apie kiekvienos šio įstatymo [[#^s-3ef00a962a654f918ebe0e07|79 straipsnio]] [[#^s-200fbfa00d5edb33bbf77115|1]] ir [[#^s-4f17c74c74993840eb394262|2]] punktuose nurodytos įmonės, į kurios perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones yra investuotas subjekto turtas, veiklos rezultatus; ^s-cd1100b43d684cd87e1d1399
 
 
-2) informacija apie pelną ir (arba) nuostolį, patirtą per finansinius metus pardavus atskirų šio įstatymo [[#^s-3ef00a962a654f918ebe0e07|79 straipsnio]] 1 ir [[#^s-5623acc11b160e56b6d19377|2 punktuose]] numatytų įmonių išleistus perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones. ^s-5623acc11b160e56b6d19377
+2) informacija apie pelną ir (arba) nuostolį, patirtą per finansinius metus pardavus atskirų šio įstatymo [[#^s-3ef00a962a654f918ebe0e07|79 straipsnio]] [[#^s-200fbfa00d5edb33bbf77115|1]] ir [[#^s-4f17c74c74993840eb394262|2]] punktuose numatytų įmonių išleistus perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones. ^s-5623acc11b160e56b6d19377
 
 
 
@@ -2175,7 +2175,7 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTAI, INVESTUOJANTYS Į KITUS KOLEKTYVINIO INVESTA
 ### 83 straipsnis.       Kolektyvinio investavimo subjektų, investuojančių į kitus kolektyvinio investavimo subjektus, pagrindinės turto investavimo taisyklės ir ypatumai ^s-3e0027177dec968756fd4dc3
 
 
-1. Jeigu šiame skirsnyje nenustatyta kitaip, kolektyvinio investavimo subjektų, investuojančių į kitus kolektyvinio investavimo subjektus, turto investavimui netaikomi šio įstatymo [[#^s-f13360b37a56d07d2485028c|13 straipsnio]] 4 ir 5 dalyse, [[#^s-5823f65ce4795d6a67401b8e|57 straipsnio]] 1, 2 ir 4 dalyse, 58 ir [[#^s-f606982e50e8e118261a8d8b|61 straipsniuose]] nustatyti apribojimai, [[#^s-22daee8eb7b6850d6da3c6d9|99 straipsnis]] ir [[#^s-d1df1a3626d72a404dbf7bfe|13 straipsnio 3 dalyje]] įtvirtintas draudimas įkeisti investicinį fondą sudarantį ar investicinės bendrovės turtą. Draudžiama skolinti šių kolektyvinio investavimo subjektų turtą, garantuoti ar laiduoti juo už kitų asmenų įsipareigojimus. Šios rūšies kolektyvinio investavimo subjektai neprivalo naudoti lyginamojo indekso. ^s-7e60ea09367007fccfc428ba
+1. Jeigu šiame skirsnyje nenustatyta kitaip, kolektyvinio investavimo subjektų, investuojančių į kitus kolektyvinio investavimo subjektus, turto investavimui netaikomi šio įstatymo [[#^s-f13360b37a56d07d2485028c|13 straipsnio]] [[#^s-b3c091cebaa201c8b640a41b|4]] ir [[#^s-cbd5c4a889f1978a2327d572|5]] dalyse, [[#^s-5823f65ce4795d6a67401b8e|57 straipsnio]] [[#^s-9b75d50b12cd9ebdc21d02b9|1]], [[#^s-7510c5df1e71eefe86ad6b6a|2]] ir [[#^s-301e1e98a3147a81a81f572f|4]] dalyse, [[#^s-f95af9f2a0409873691abc35|58]] ir [[#^s-f606982e50e8e118261a8d8b|61]] straipsniuose nustatyti apribojimai, [[#^s-22daee8eb7b6850d6da3c6d9|99 straipsnis]] ir [[#^s-d1df1a3626d72a404dbf7bfe|13 straipsnio 3 dalyje]] įtvirtintas draudimas įkeisti investicinį fondą sudarantį ar investicinės bendrovės turtą. Draudžiama skolinti šių kolektyvinio investavimo subjektų turtą, garantuoti ar laiduoti juo už kitų asmenų įsipareigojimus. Šios rūšies kolektyvinio investavimo subjektai neprivalo naudoti lyginamojo indekso. ^s-7e60ea09367007fccfc428ba
 
 
 2. Šios rūšies kolektyvinio investavimo subjektą valdanti valdymo įmonė ar investicinė bendrovė gali skolintis tokio kolektyvinio investavimo subjekto sąskaita iki 15 procentų paskolos sutarties sudarymo dieną buvusios grynųjų aktyvų vertės kolektyvinio investavimo subjekto sudarymo dokumentuose iš anksto nustatytam terminui, kuris negali būti ilgesnis negu 6 mėnesiai. ^s-ae10dc9808f3151b34a3544e
@@ -2191,7 +2191,7 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTAI, INVESTUOJANTYS Į KITUS KOLEKTYVINIO INVESTA
 2) valstybėje narėje ir (arba) kitoje valstybėje sudarytų kolektyvinio investavimo subjektų, neatitinkančių Europos Sąjungos teisės reikalavimų, investiciniai vienetai ar akcijos, jei tokie subjektai ir (arba) jų valdymo įmonės investuotojų interesų apsaugos tikslais yra licencijuojami ir (arba) prižiūrimi, o Vertybinių popierių komisija ir užsienio priežiūros institucija yra sudariusios susitarimą, užtikrinantį tinkamą veiklos priežiūrą ir informacijos teikimą; ^s-7a000fd9444320372f64997b
 
 
-3) kitos šio įstatymo 57 ir [[#^s-03a487f89c90ca59bec9f114|62 straipsniuose]] išvardytos investavimo priemonės. ^s-a5253e111627dea729d0ccf3
+3) kitos šio įstatymo [[#^s-5823f65ce4795d6a67401b8e|57]] ir [[#^s-03a487f89c90ca59bec9f114|62]] straipsniuose išvardytos investavimo priemonės. ^s-a5253e111627dea729d0ccf3
 
 
 2. Pareiga įrodyti, kad kolektyvinio investavimo subjektas, į kurio investicinius vienetus ar akcijas ketinama investuoti, atitinka [[#^s-dc146db356c44cb1ac5d0671|šio straipsnio 1 dalies]] reikalavimus, tenka valdymo įmonei ar investicinei bendrovei. ^s-d976b9efb5a2ed9d2ef9fdad
@@ -2210,7 +2210,7 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTAI, INVESTUOJANTYS Į KITUS KOLEKTYVINIO INVESTA
 3. Iki 20 procentų kolektyvinio investavimo subjekto grynųjų aktyvų vertės gali būti investuota į vieno kolektyvinio investavimo subjekto, kurio daugiau kaip 10 procentų grynųjų aktyvų yra investuota į kitų kolektyvinio investavimo subjektų investicinius vienetus ar akcijas, investicinius vienetus ar akcijas. ^s-d7e048dde43c3af66d26eb3d
 
 
-4. Ne daugiau kaip 20 procentų subjekto turtą sudarančių grynųjų aktyvų gali būti investuota į šio įstatymo [[#^s-5823f65ce4795d6a67401b8e|57 straipsnyje]] nurodytas priemones, laikantis šio įstatymo 58, 59, 61 ir [[#^s-03a487f89c90ca59bec9f114|62 straipsniuose]] nustatytų reikalavimų. ^s-42883a5654b6756802d6bd69
+4. Ne daugiau kaip 20 procentų subjekto turtą sudarančių grynųjų aktyvų gali būti investuota į šio įstatymo [[#^s-5823f65ce4795d6a67401b8e|57 straipsnyje]] nurodytas priemones, laikantis šio įstatymo [[#^s-f95af9f2a0409873691abc35|58]], [[#^s-472156d060b75cb849d856e6|59]], [[#^s-f606982e50e8e118261a8d8b|61]] ir [[#^s-03a487f89c90ca59bec9f114|62]] straipsniuose nustatytų reikalavimų. ^s-42883a5654b6756802d6bd69
 
 
 5. Ne daugiau kaip 20 procentų kolektyvinio investavimo subjekto grynųjų aktyvų vertės gali būti investuota į šio įstatymo [[#^s-7a000fd9444320372f64997b|84 straipsnio 1 dalies 2 punkte]] nustatytus reikalavimus atitinkančių alternatyvaus kolektyvinio investavimo ar jiems analogiškų kolektyvinio investavimo subjektų investicinius vienetus ar akcijas. ^s-e169af2914464c802c879906
@@ -2219,7 +2219,7 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTAI, INVESTUOJANTYS Į KITUS KOLEKTYVINIO INVESTA
 6. Bendra investicijų į [[#^s-d7e048dde43c3af66d26eb3d|šio straipsnio 3 dalyje]] numatytus kolektyvinio investavimo subjektus suma negali viršyti 60 procentų kolektyvinio investavimo subjekto grynųjų aktyvų. ^s-3ee37643e1313cf538613389
 
 
-7. Šio straipsnio 2 ir [[#^s-d7e048dde43c3af66d26eb3d|3 dalyse]] numatytos investavimo ribos gali būti išplėstos atitinkamai iki 100 ir 50 procentų, jeigu kolektyvinio investavimo subjektas, į kurio investicinius vienetus ar akcijas ketinama investuoti padidinta grynųjų aktyvų dalis, yra iš anksto įvardytas kolektyvinio investavimo subjekto sudarymo dokumentuose ir prospektuose, atskleidžiant jo investavimo strategiją ir visų su investavimu į jį susijusių mokesčių ir išlaidų dydžius. Tokiu atveju, siekiant gauti Vertybinių popierių komisijos pritarimą kolektyvinio investavimo subjekto, investuojančio į kitus kolektyvinio investavimo subjektus, sudarymo dokumentams ir prospektams arba šių dokumentų pakeitimams, Vertybinių popierių komisijai turi būti pateikti atitinkamo kolektyvinio investavimo subjekto, į kurį ketinama investuoti padidinta grynųjų aktyvų dalis, sudarymo dokumentai ir prospektai. ^s-7994716213e6607f471710d3
+7. Šio straipsnio [[#^s-145023fc8d6f0aac3ee8c363|2]] ir [[#^s-d7e048dde43c3af66d26eb3d|3]] dalyse numatytos investavimo ribos gali būti išplėstos atitinkamai iki 100 ir 50 procentų, jeigu kolektyvinio investavimo subjektas, į kurio investicinius vienetus ar akcijas ketinama investuoti padidinta grynųjų aktyvų dalis, yra iš anksto įvardytas kolektyvinio investavimo subjekto sudarymo dokumentuose ir prospektuose, atskleidžiant jo investavimo strategiją ir visų su investavimu į jį susijusių mokesčių ir išlaidų dydžius. Tokiu atveju, siekiant gauti Vertybinių popierių komisijos pritarimą kolektyvinio investavimo subjekto, investuojančio į kitus kolektyvinio investavimo subjektus, sudarymo dokumentams ir prospektams arba šių dokumentų pakeitimams, Vertybinių popierių komisijai turi būti pateikti atitinkamo kolektyvinio investavimo subjekto, į kurį ketinama investuoti padidinta grynųjų aktyvų dalis, sudarymo dokumentai ir prospektai. ^s-7994716213e6607f471710d3
 
 
 8. Visais atvejais investicinė bendrovė ar šios rūšies kolektyvinio investavimo subjektą valdanti valdymo įmonė privalo laikytis šio įstatymo [[#^s-472156d060b75cb849d856e6|59 straipsnyje]] nustatytų apribojimų. ^s-e3f5d47b8f2521e1e5c5416b
@@ -2228,17 +2228,17 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTAI, INVESTUOJANTYS Į KITUS KOLEKTYVINIO INVESTA
 9. Skolinių įsipareigojimų vienai kredito įstaigai dalis kolektyvinio investavimo subjekto investiciniame portfelyje negali viršyti 10 procentų kolektyvinio investavimo subjekto grynųjų aktyvų vertės. ^s-eeb869321cc189e632143881
 
 
-10. Investicijų į kito kolektyvinio investavimo subjekto atskirų subfondų investicinius vienetus ar akcijas dalys turi būti sudedamos ir visais atvejais jų suma negali viršyti šio straipsnio 2, 3 ir [[#^s-7994716213e6607f471710d3|7 dalyse]] nustatytų leistinų ribų. ^s-212760ad9fce71c83a1f8aa1
+10. Investicijų į kito kolektyvinio investavimo subjekto atskirų subfondų investicinius vienetus ar akcijas dalys turi būti sudedamos ir visais atvejais jų suma negali viršyti šio straipsnio [[#^s-145023fc8d6f0aac3ee8c363|2]], [[#^s-d7e048dde43c3af66d26eb3d|3]] ir [[#^s-7994716213e6607f471710d3|7]] dalyse nustatytų leistinų ribų. ^s-212760ad9fce71c83a1f8aa1
 
 
-11. Sudaryto naujo šios rūšies kolektyvinio investavimo subjekto investicijų portfelis 6 mėnesius nuo dienos, kai jo sudarymo dokumentams ir prospektams pritarė Vertybinių popierių komisija, gali neatitikti šiame straipsnyje nustatytų diversifikavimo reikalavimų. Tokio subjekto portfeliui taip pat taikomi šio įstatymo [[#^s-bbb858eb2f80e9f2c8d92b14|64 straipsnio]] 1 ir [[#^s-d7e048dde43c3af66d26eb3d|3 dalyse]] nustatyti reikalavimai. ^s-349dd73a3dbef917e0a553c3
+11. Sudaryto naujo šios rūšies kolektyvinio investavimo subjekto investicijų portfelis 6 mėnesius nuo dienos, kai jo sudarymo dokumentams ir prospektams pritarė Vertybinių popierių komisija, gali neatitikti šiame straipsnyje nustatytų diversifikavimo reikalavimų. Tokio subjekto portfeliui taip pat taikomi šio įstatymo [[#^s-bbb858eb2f80e9f2c8d92b14|64 straipsnio]] [[#^s-a1314ebc48e67b1c1888aaf9|1]] ir [[#^s-01b5ead15f48739a796a7252|3]] dalyse nustatyti reikalavimai. ^s-349dd73a3dbef917e0a553c3
 
 
 
 ### 86 straipsnis.       Kolektyvinio investavimo subjektų, investuojančių į kitus kolektyvinio investavimo subjektus, metų ataskaitos turinys ^s-fd75d6ed3dbf99efdf6bdee9
 
 
-Kartu su kolektyvinio investavimo subjekto, investuojančio į kitus kolektyvinio investavimo subjektus, metų ataskaita, be šio įstatymo [[#^s-ff03ff61394392dacf9bf76c|22 straipsnio]] 3 ir 6 dalyse numatytos informacijos, turi būti pateikta:
+Kartu su kolektyvinio investavimo subjekto, investuojančio į kitus kolektyvinio investavimo subjektus, metų ataskaita, be šio įstatymo [[#^s-ff03ff61394392dacf9bf76c|22 straipsnio]] [[#^s-87b6f99675b8986c390de23c|3]] ir [[#^s-90aaee11ac3c214e6bdb1fc1|6]] dalyse numatytos informacijos, turi būti pateikta:
 
 
 1) informacija apie pelną ir (arba) nuostolį, patirtą per finansinius metus subjekto turtu įsigijus ar pardavus kiekvieno šio įstatymo [[#^s-7994716213e6607f471710d3|85 straipsnio 7 dalyje]] nustatyto kolektyvinio investavimo subjekto investicinius vienetus ar akcijas; ^s-83fc5a166f28ee96ba59e88c
@@ -2266,7 +2266,7 @@ ALTERNATYVAUS KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 3. Alternatyvaus kolektyvinio investavimo subjektų turtas gali būti investuojamas į visus šiame įstatyme nustatytus suderintiesiems ir specialiesiems kolektyvinio investavimo subjektams leistinus investuoti investavimo objektus, laikantis šiame skirsnyje nustatytų specialiųjų reikalavimų ir kolektyvinio investavimo subjekto investavimo strategijos. ^s-7e5e259f7da8186e8322ef0b
 
 
-4. Alternatyvaus kolektyvinio investavimo subjektams, jų valdymo įmonėms netaikomi šio įstatymo [[#^s-f13360b37a56d07d2485028c|13 straipsnio]] 3, 4 ir [[#^s-f2f8343801cf0a7254ab08b0|5 dalys]], investavimo apribojimai, nustatyti šio įstatymo 57, 58, [[#^s-472156d060b75cb849d856e6|59 straipsniuose]], ir šio įstatymo VII skyriaus antrojo, trečiojo, ketvirtojo ir penktojo skirsnių nuostatos. Alternatyvaus kolektyvinio investavimo subjektas neprivalo naudoti lyginamojo indekso. ^s-6221ae1d7ec5c07fa12ecf8b
+4. Alternatyvaus kolektyvinio investavimo subjektams, jų valdymo įmonėms netaikomi šio įstatymo [[#^s-f13360b37a56d07d2485028c|13 straipsnio]] [[#^s-d1df1a3626d72a404dbf7bfe|3]], [[#^s-b3c091cebaa201c8b640a41b|4]] ir [[#^s-cbd5c4a889f1978a2327d572|5]] dalys, investavimo apribojimai, nustatyti šio įstatymo [[#^s-5823f65ce4795d6a67401b8e|57]], [[#^s-f95af9f2a0409873691abc35|58]], [[#^s-472156d060b75cb849d856e6|59]] straipsniuose, ir šio įstatymo VII skyriaus antrojo, trečiojo, ketvirtojo ir penktojo skirsnių nuostatos. Alternatyvaus kolektyvinio investavimo subjektas neprivalo naudoti lyginamojo indekso. ^s-6221ae1d7ec5c07fa12ecf8b
 
 
 5. Valdymo įmonei, valdančiai alternatyvaus kolektyvinio investavimo investicinį fondą, ar alternatyvaus kolektyvinio investavimo investicinei bendrovei, kurių turtas numatomas investuoti į nekilnojamąjį turtą, mutatis mutandis taikomi šio įstatymo [[#^s-8543c039c898dbd962fa8947|65 straipsnio 2 dalies 3 punkto]] ir [[#^s-dbe95957b1098926ec7b1e4d|72 straipsnio]] reikalavimai. Alternatyvaus kolektyvinio investavimo subjekto investicijų portfelį sudarantys ar ketinami įsigyti nekilnojamojo turto objektai turi būti įvertinti bent vieno nekilnojamojo turto vertintojo. ^s-f2f8343801cf0a7254ab08b0
@@ -2297,7 +2297,7 @@ ALTERNATYVAUS KOLEKTYVINIO INVESTAVIMO SUBJEKTAI
 2. Alternatyvaus kolektyvinio investavimo subjekto sudarymo dokumentuose privalo būti nurodyta, kad jo dalyviais gali būti tik profesionalieji investuotojai. ^s-ea63a9bc88553a1a3c67cf64
 
 
-3. Alternatyvaus kolektyvinio investavimo investicinio fondo taisyklėms šio įstatymo [[#^s-d7e90572101ec7740c44158b|65 straipsnio 2 dalies]] 2 ir 3 punktuose nustatyti reikalavimai taikomi mutatis mutandis. ^s-b140676348ef414e16bcc6e6
+3. Alternatyvaus kolektyvinio investavimo investicinio fondo taisyklėms šio įstatymo [[#^s-d7e90572101ec7740c44158b|65 straipsnio 2 dalies]] [[#^s-00a6d548054a3f70dc3fd218|2]] ir [[#^s-8543c039c898dbd962fa8947|3]] punktuose nustatyti reikalavimai taikomi mutatis mutandis. ^s-b140676348ef414e16bcc6e6
 
 
 4. Alternatyvaus kolektyvinio investavimo investicinės bendrovės įstatams taikomi šio įstatymo [[#^s-79830d9c4df25dcbc1526857|54 straipsnio]] reikalavimai. ^s-b96face0e75afadd8ebd92be
@@ -2415,7 +2415,7 @@ INVESTICINIŲ VIENETŲ AR AKCIJŲ ĮTRAUKIMAS Į PREKYBĄ LIETUVOS RESPUBLIKOJE 
 ### 93 straipsnis.       Investicinių vienetų ar akcijų įtraukimas į prekybą reguliuojamoje rinkoje ^s-00d100695e9e2cdcc3dfd28b
 
 
-1. Remiantis šiuo įstatymu sudaryto kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos gali būti įtraukiami į prekybą Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, laikantis šiame įstatyme ir Finansinių priemonių rinkų įstatymo 54 straipsnio 1 dalyje numatytų taisyklių, reglamentuojančių finansinių priemonių įtraukimą į prekybą reguliuojamoje rinkoje, reikalavimų. Į prekybą Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje draudžiama įtraukti alternatyvaus kolektyvinio investavimo subjektų investicinius vienetus ar akcijas. ^s-6b4e9cb23e1b2e819ba30b53
+1. Remiantis šiuo įstatymu sudaryto kolektyvinio investavimo subjekto investiciniai vienetai ar akcijos gali būti įtraukiami į prekybą Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje, laikantis šiame įstatyme ir [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymo 54 straipsnio 1 dalyje]] numatytų taisyklių, reglamentuojančių finansinių priemonių įtraukimą į prekybą reguliuojamoje rinkoje, reikalavimų. Į prekybą Lietuvos Respublikoje veikiančioje reguliuojamoje rinkoje draudžiama įtraukti alternatyvaus kolektyvinio investavimo subjektų investicinius vienetus ar akcijas. ^s-6b4e9cb23e1b2e819ba30b53
 
 
 2. Uždaro tipo kolektyvinio investavimo subjekto investicinių vienetų ar akcijų įtraukimui į prekybą reguliuojamoje rinkoje šis įstatymas taikomas tiek, kiek šių santykių nereglamentuoja [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymas]]. ^s-fef5287843cebf086b65c9ef
@@ -2762,7 +2762,7 @@ Vertybinių popierių komisija, vadovaudamasi [[latest/TAR.AB7AFE2F35B2|Finansin
 ### 111 straipsnis. Piniginių baudų išieškojimas ^s-4d69c389469fde0d2fc524c7
 
 
-Piniginės baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kai asmuo gavo Vertybinių popierių komisijos sprendimą skirti baudą. Jei bauda nebuvo savanoriškai sumokėta, Vertybinių popierių komisijos sprendimas skirti baudą vykdomas Civilinio proceso kodekso nustatyta tvarka.
+Piniginės baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kai asmuo gavo Vertybinių popierių komisijos sprendimą skirti baudą. Jei bauda nebuvo savanoriškai sumokėta, Vertybinių popierių komisijos sprendimas skirti baudą vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.
 
 
 
@@ -2820,10 +2820,10 @@ priedas
 ### 2 straipsnis. Įstatymo taikymas veikiantiems kolektyvinio investavimo subjektams ^s-b8fb1c039b1948cbf9f88f7f
 
 
-1. Valdymo įmonės, šio įstatymo įsigaliojimo dieną valdančios suderintuosius ir (arba) riboto platinimo kolektyvinio investavimo subjektus, ar šio įstatymo įsigaliojimo dieną veikiančios riboto platinimo ir (arba) suderintosios investicinės kintamojo kapitalo bendrovės per 6 mėnesius nuo šio įstatymo įsigaliojimo dienos privalo Vertybinių popierių komisijai pateikti su šio įstatymo nuostatomis suderintus jų valdomų kolektyvinio investavimo subjektų sudarymo dokumentų, viso ir sutrumpinto prospektų pakeitimus ir Kolektyvinio investavimo subjektų įstatymo 33 straipsnio 5 dalyje numatytas taisykles. ^s-0ed360383b4ca5d53aa0b7f1
+1. Valdymo įmonės, šio įstatymo įsigaliojimo dieną valdančios suderintuosius ir (arba) riboto platinimo kolektyvinio investavimo subjektus, ar šio įstatymo įsigaliojimo dieną veikiančios riboto platinimo ir (arba) suderintosios investicinės kintamojo kapitalo bendrovės per 6 mėnesius nuo šio įstatymo įsigaliojimo dienos privalo Vertybinių popierių komisijai pateikti su šio įstatymo nuostatomis suderintus jų valdomų kolektyvinio investavimo subjektų sudarymo dokumentų, viso ir sutrumpinto prospektų pakeitimus ir [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatymo 33 straipsnio 5 dalyje]] numatytas taisykles. ^s-0ed360383b4ca5d53aa0b7f1
 
 
-2. Valdymo įmonės, šio įstatymo įsigaliojimo dieną valdančios riboto platinimo kolektyvinio investavimo subjektus, ar šio įstatymo įsigaliojimo dieną veikiančios riboto platinimo investicinės kintamojo kapitalo bendrovės, nusprendusios pasinaudoti [[latest/TAR.ED28779BEADF#^s-787988907521547fcb90c8ba|Kolektyvinio investavimo subjektų įstatymo 71 straipsnio]] 2, 4 ir [[#^s-3c775745f6c57f89af5bd55b|5 dalių]] nuostatomis, privalo apie tai iš anksto informuoti dalyvius kolektyvinio investavimo subjekto sudarymo dokumentuose nustatyta tvarka ir atlikti kitus šiame įstatyme nustatytus veiksmus. ^s-dcd27ee032b473a3a225163f
+2. Valdymo įmonės, šio įstatymo įsigaliojimo dieną valdančios riboto platinimo kolektyvinio investavimo subjektus, ar šio įstatymo įsigaliojimo dieną veikiančios riboto platinimo investicinės kintamojo kapitalo bendrovės, nusprendusios pasinaudoti [[latest/TAR.ED28779BEADF#^s-787988907521547fcb90c8ba|Kolektyvinio investavimo subjektų įstatymo 71 straipsnio]] [[latest/TAR.ED28779BEADF#^s-a5f9d0f724833756025db1d5|2]], [[latest/TAR.ED28779BEADF|4]] ir [[latest/TAR.ED28779BEADF|5]] dalių nuostatomis, privalo apie tai iš anksto informuoti dalyvius kolektyvinio investavimo subjekto sudarymo dokumentuose nustatyta tvarka ir atlikti kitus šiame įstatyme nustatytus veiksmus. ^s-dcd27ee032b473a3a225163f
 
 
 

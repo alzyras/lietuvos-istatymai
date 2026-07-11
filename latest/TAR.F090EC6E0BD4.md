@@ -52,7 +52,7 @@ Sumažinti valstybės biudžeto asignavimus 243916 tūkst. litų pagal 1 priedė
 1. Padidinti 1997 metų valstybės biudžeto pajamas papildomai gautomis pajamomis – 65000 tūkst. litų. ^s-bbd9ad028827b5bd2c9a0794
 
 
-2. Lietuvos valstybinio komercinio banko Vyriausybei grąžinamą paskolą, suteiktą pagal Lietuvos Respublikos Vyriausybės 1996 m. rugsėjo 12 d. nutarimą Nr. 1056 „Dėl paskolos Lietuvos valstybiniam komerciniam bankui suteikimo“ banko likvidumui palaikyti, įskaityti į valstybės biudžeto pajamas. ^s-5beb65a44ab812e96878f0db
+2. Lietuvos valstybinio komercinio banko Vyriausybei grąžinamą paskolą, suteiktą pagal Lietuvos Respublikos Vyriausybės [1996 m. rugsėjo 12 d. nutarimą Nr. 1056](https://e-tar.lt/portal/lt/legalAct/TAR.362E78DC57E0) [„Dėl paskolos Lietuvos valstybiniam komerciniam bankui suteikimo“](https://e-tar.lt/portal/lt/legalAct/TAR.362E78DC57E0) banko likvidumui palaikyti, įskaityti į valstybės biudžeto pajamas. ^s-5beb65a44ab812e96878f0db
 
 
 
@@ -1393,7 +1393,7 @@ Lietuvos Respublikos
 ### 1 straipsnis. Įstatymo 1 straipsnio 1 dalies, 1 ir 2 priedėlių pakeitimas ^s-15e4ac92a35173d5819c0619
 
 
-1. Pakeisti [[#^s-a3055c4c1e40dafe60d4d545|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-a3055c4c1e40dafe60d4d545
+1. Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip: ^s-a3055c4c1e40dafe60d4d545
 
 
 „1. Patvirtinti Lietuvos Respublikos 1997 metų valstybės biudžetą – 6084736 tūkst. litų pajamų, 6782586 tūkst. litų išlaidų (išlaidos viršija pajamas 697850 tūkst. litų) ir 100000 tūkst. litų kasos apyvartos lėšų (1, 2, 3 priedėliai).“

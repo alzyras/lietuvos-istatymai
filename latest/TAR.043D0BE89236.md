@@ -59,7 +59,7 @@ Pakeisti 2 straipsnio 22 dalį ir ją išdėstyti taip:
 3) rinkodara, informacijos teikimas pensijų fondo valdymo sutartyse nustatyta tvarka; ^s-4f33b7fea4b43ac2533df61f
 
 
-4) kita veikla, susijusi su šios dalies 1, 2, [[#^s-4f33b7fea4b43ac2533df61f|3 punktuose]] nurodyta veikla.“ ^s-a575856d1377eb1badc1dcf2
+4) kita veikla, susijusi su šios dalies [[#^s-daa244d881c9aaf34e444bf3|1]], [[#^s-db5747b8b1af0151346d6d6c|2]], [[#^s-4f33b7fea4b43ac2533df61f|3]] punktuose nurodyta veikla.“ ^s-a575856d1377eb1badc1dcf2
 
 
 
@@ -368,7 +368,7 @@ Jeigu pensijų fondo valdytojo teisė valdyti pensijų fondą pasibaigia, o kita
 ### 21 straipsnis. 56 straipsnio pakeitimas ir papildymas ^s-275b27885128fbdd8db036b2
 
 
-Pakeisti 56 straipsnio 1 dalies 2 punktą, straipsnį papildyti 2 ir [[#^s-b06928d7a327c569d9391cd0|3 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 56 straipsnio 1 dalies 2 punktą, straipsnį papildyti 2 ir 3 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „56 straipsnis. Piniginės baudos už šio įstatymo pažeidimą
@@ -392,7 +392,7 @@ Pakeisti 56 straipsnio 1 dalies 2 punktą, straipsnį papildyti 2 ir [[#^s-b0692
 2. Piniginės baudos į valstybės biudžetą sumokamos ne vėliau kaip per vieną mėnesį nuo dienos, kurią asmuo gavo priežiūros institucijos sprendimą skirti baudą. ^s-526a76b0de602ce75c367e89
 
 
-3. Savanoriškai neįvykdytas priežiūros institucijos sprendimas vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka.“ ^s-b06928d7a327c569d9391cd0
+3. Savanoriškai neįvykdytas priežiūros institucijos sprendimas vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.“ ^s-b06928d7a327c569d9391cd0
 
 
 

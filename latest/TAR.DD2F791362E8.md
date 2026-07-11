@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-c180f93e87af35221f091d21
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2001 m. gegužės 9 d. dekretą Nr. 1314, ratifikuoja Konvenciją dėl teisės gauti informaciją, visuomenės dalyvavimo priimant sprendimus ir teisės kreiptis į teismus aplinkosaugos klausimais, pasirašytą 1998 m. birželio 25 d. Orhuse.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2001 m. gegužės 9 d. dekretą Nr. 1314](https://e-tar.lt/portal/lt/legalAct/TAR.AA2AEDD3611D), ratifikuoja Konvenciją dėl teisės gauti informaciją, visuomenės dalyvavimo priimant sprendimus ir teisės kreiptis į teismus aplinkosaugos klausimais, pasirašytą 1998 m. birželio 25 d. Orhuse.
 
 
 

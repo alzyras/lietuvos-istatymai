@@ -9,11 +9,10 @@ pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 2, 6, 10, 12, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Lietuvos Respublikos administracinių bylų teisenos įstatymo
-- [[latest/TAR.9E5C5C16B6E6|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - Lietuvos Respublikos alkoholio kontrolės įstatymo
-- [[latest/TAR.41CD8BF53D8D|Lietuvos Respublikos rinkliavų įstatymas]] - 6 citatos - Lietuvos Respublikos rinkliavų įstatymo
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Lietuvos Respublikos administracinių bylų teisenos įstatymo
+- [[latest/TAR.9E5C5C16B6E6|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - alkoholio kontrolės įstatymo
+- [[latest/TAR.41CD8BF53D8D|Lietuvos Respublikos rinkliavų įstatymas]] - 4 citatos - Lietuvos Respublikos rinkliavų įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9E5C5C16B6E6#^s-0ccbd22213fc90c7177d284d|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - Įstatymas Nr. XI-2103
-- [[latest/TAR.9E5C5C16B6E6#^s-13f371e051ff8112a2b3c8e0|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - Įstatymas Nr. XI-2103
+_Nėra._

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-291befdf14e79948ffd761eb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2005 m. gegužės  30  d. dekretą Nr. 321, ratifikuoja 2005 m. balandžio 22 d. Kišiniove pasirašytą Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės susitarimą dėl piliečių kelionių.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2005 m. gegužės  30  d. dekretą Nr. 321](https://e-tar.lt/portal/lt/legalAct/TAR.9428FE09CDA3), ratifikuoja 2005 m. balandžio 22 d. Kišiniove pasirašytą Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės susitarimą dėl piliečių kelionių.
 
 
 

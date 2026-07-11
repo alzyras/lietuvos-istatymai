@@ -77,7 +77,7 @@ Nukentėjusiųjų asmenų valstybinė pensija skiriama asmenų, žuvusių dėl 1
 1. Šis įstatymas įsigalioja nuo 1999 m. sausio 1 d. ^s-60f5b0657a8f8b7d73dc973a
 
 
-2. Iki 1999 m. sausio 1 d. paskirtos ir mokamos nukentėjusiųjų asmenų valstybinės pensijos [[latest/TAR.ED38F243563C#^s-8217fb295cd6ffecb1e6c42e|Valstybinių pensijų įstatymo 12 straipsnyje]] ir 14 straipsnio 1 dalies 1 ir 2 punktuose išvardytiems asmenims perskaičiuojamos pagal šio įstatymo nuostatas nuo 1999 m. sausio 1 d. ^s-ba702a600eee7f58b0736c84
+2. Iki 1999 m. sausio 1 d. paskirtos ir mokamos nukentėjusiųjų asmenų valstybinės pensijos [[latest/TAR.ED38F243563C|Valstybinių pensijų įstatymo 12 straipsnyje ir 14 straipsnio 1 dalies]] [[latest/TAR.ED38F243563C|1]] ir [[latest/TAR.ED38F243563C|2]] punktuose išvardytiems asmenims perskaičiuojamos pagal šio įstatymo nuostatas nuo 1999 m. sausio 1 d. ^s-ba702a600eee7f58b0736c84
 
 
 

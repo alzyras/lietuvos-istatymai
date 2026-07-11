@@ -118,7 +118,7 @@ Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
 ### 3 straipsnis. LŠS veiklos teisiniai pagrindai ^s-6d0ba7b5d0c635f52451a5a9
 
 
-1. LŠS savo veiklą grindžia Lietuvos Respublikos Konstitucija, [[latest/TAR.A0BAB27D768C|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymu]], [[latest/TAR.8EB86FBF111C|Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymu]], šiuo ir kitais Lietuvos Respublikos įstatymais, taip pat LŠS statutu, Šaulių etikos kodeksu ir kitais teisės aktais. ^s-5233ced14a446daff1fe2a91
+1. LŠS savo veiklą grindžia [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), [[latest/TAR.A0BAB27D768C|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymu]], [[latest/TAR.8EB86FBF111C|Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymu]], šiuo ir kitais Lietuvos Respublikos įstatymais, taip pat LŠS statutu, Šaulių etikos kodeksu ir kitais teisės aktais. ^s-5233ced14a446daff1fe2a91
 
 
 2. Jeigu [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatyme]] nustatytos kitokios asociacijų veiklą reglamentuojančios taisyklės negu šiame įstatyme, taikomos šio įstatymo nuostatos. ^s-b29abf0a53b23e9f57c62acd
@@ -497,13 +497,13 @@ Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
 ### 15 straipsnis. LŠS pagalba kariuomenei, kai ši teikia pagalbą kitoms valstybės ir savivaldybių institucijoms bei įstaigoms ^s-bdba9186911d5480540c14f9
 
 
-1. LŠS padeda kariuomenei, kai ši teikia pagalbą kitoms valstybės ir savivaldybių institucijoms bei įstaigoms [[latest/TAR.15C705E93776#^s-36d8ac0f08c2e0e9ded1c128|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies]] 1, 2, 3, 5 ir 7 punktuose nustatytais atvejais. ^s-e0967213ae8ad91149c59b43
+1. LŠS padeda kariuomenei, kai ši teikia pagalbą kitoms valstybės ir savivaldybių institucijoms bei įstaigoms [[latest/TAR.15C705E93776#^s-36d8ac0f08c2e0e9ded1c128|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies]] [[latest/TAR.15C705E93776#^s-96b8895a3bf793ee23ffeb02|1]], [[latest/TAR.15C705E93776#^s-eb7f3891fe694bca930f18da|2]], [[latest/TAR.15C705E93776#^s-9b5a7bd472541de84861e1c8|3]], [[latest/TAR.15C705E93776#^s-10a52bd47f437c8fb48ebefa|5]] ir [[latest/TAR.15C705E93776#^s-15777b5bfc69ae11bcbc1bd9|7]] punktuose nustatytais atvejais. ^s-e0967213ae8ad91149c59b43
 
 
-2. Kai [[latest/TAR.15C705E93776#^s-36d8ac0f08c2e0e9ded1c128|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies]] 2, 3 ir 7 punktuose nustatytais atvejais kariuomenė teikia pagalbą kitoms valstybės ar savivaldybių institucijoms ar įstaigoms, LŠS pagalba kariuomenei teikiama LŠS vado įsakymu, gavus kariuomenės vado prašymą. ^s-0c9582182874a4cf142d0e12
+2. Kai [[latest/TAR.15C705E93776#^s-36d8ac0f08c2e0e9ded1c128|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies]] [[latest/TAR.15C705E93776#^s-eb7f3891fe694bca930f18da|2]], [[latest/TAR.15C705E93776#^s-9b5a7bd472541de84861e1c8|3]] ir [[latest/TAR.15C705E93776#^s-15777b5bfc69ae11bcbc1bd9|7]] punktuose nustatytais atvejais kariuomenė teikia pagalbą kitoms valstybės ar savivaldybių institucijoms ar įstaigoms, LŠS pagalba kariuomenei teikiama LŠS vado įsakymu, gavus kariuomenės vado prašymą. ^s-0c9582182874a4cf142d0e12
 
 
-3. Kai [[latest/TAR.15C705E93776#^s-36d8ac0f08c2e0e9ded1c128|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies]] 1 ir 5 punktuose nustatytais atvejais kariuomenė teikia pagalbą kitoms valstybės ar savivaldybių institucijoms ar įstaigoms, LŠS pagalba kariuomenei teikiama LŠS vado ar jo įgalioto rinktinės vado įsakymu, gavus kariuomenės vado ar jo įgalioto atitinkamoje apskrityje veikiančio kariuomenės dalinio, kuriam priklausantis karinis vienetas teikia pagalbą krizių valdymo ir civilinės saugos sistemos subjektams ar policijai, vado prašymą. ^s-df27161e2c2a21173b6ff79f
+3. Kai [[latest/TAR.15C705E93776#^s-36d8ac0f08c2e0e9ded1c128|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 18 straipsnio 1 dalies]] [[latest/TAR.15C705E93776#^s-96b8895a3bf793ee23ffeb02|1]] ir [[latest/TAR.15C705E93776#^s-10a52bd47f437c8fb48ebefa|5]] punktuose nustatytais atvejais kariuomenė teikia pagalbą kitoms valstybės ar savivaldybių institucijoms ar įstaigoms, LŠS pagalba kariuomenei teikiama LŠS vado ar jo įgalioto rinktinės vado įsakymu, gavus kariuomenės vado ar jo įgalioto atitinkamoje apskrityje veikiančio kariuomenės dalinio, kuriam priklausantis karinis vienetas teikia pagalbą krizių valdymo ir civilinės saugos sistemos subjektams ar policijai, vado prašymą. ^s-df27161e2c2a21173b6ff79f
 Straipsnio dalies pakeitimai:
 Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
 
@@ -1163,7 +1163,7 @@ Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
 2. Priimant į LŠS jaunuosius šaulius, kurie nėra pripažinti visiškai veiksniais, būtinas rašytinis tėvų arba to iš tėvų, su kuriuo vaikas gyvena, globėjų ar rūpintojų sutikimas. ^s-7d9d82ca097e183e2821d573
 
 
-3. Šauliais negali būti šie Lietuvos Respublikos piliečiai (šios dalies 9–[[#^s-4c850007d80565c82ca91110|15 punktai]] netaikomi jauniesiems šauliams): ^s-127b6f20dbc23b34b70ff6f6
+3. Šauliais negali būti šie Lietuvos Respublikos piliečiai (šios dalies [[#^s-8c3c6d6dc522ca2d028fced0|9]]–[[#^s-4c850007d80565c82ca91110|15]] punktai netaikomi jauniesiems šauliams): ^s-127b6f20dbc23b34b70ff6f6
 
 
 1) jaunesni kaip 11 metų; ^s-239ff3a6a700a9f742c8f722
@@ -1435,10 +1435,10 @@ Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
 1. Šauliai, atlikdami šio įstatymo [[#^s-44c3c377f8bb2d8becd8e2a0|9 straipsnio 1 dalies 7 punkte]] ir [[#^s-bdba9186911d5480540c14f9|15 straipsnyje]] nustatytą šaulio tarnybą, turi teisę naudoti šaunamuosius ginklus ir specialiąsias priemones Lietuvos Respublikos karinės jėgos naudojimo statuto [[#^s-c83b7dfa8a519100dade581c|8 straipsnyje]] nustatytais pagrindais. ^s-69635df6d6e2f72287d7f109
 
 
-2. Šauliai, atlikdami šio įstatymo [[#^s-1a6baa95d4596cfda44563ee|9 straipsnio 1 dalies 5 punkte]] ir [[#^s-1a6f4717b442cb78b82dcab1|17 straipsnyje]] nustatytą šaulio tarnybą, veikdami kartu su policijos pareigūnais, turi teisę naudoti prievartą, specialiąsias priemones ir šaunamuosius ginklus [[latest/TAR.CA89372D00AA#^s-3e20a6b34e909ba2b94485ba|Policijos įstatymo 27 ir 28 straipsniuose]] nustatyta tvarka ir pagrindais. ^s-9b8110960462c9657fcfd73f
+2. Šauliai, atlikdami šio įstatymo [[#^s-1a6baa95d4596cfda44563ee|9 straipsnio 1 dalies 5 punkte]] ir [[#^s-1a6f4717b442cb78b82dcab1|17 straipsnyje]] nustatytą šaulio tarnybą, veikdami kartu su policijos pareigūnais, turi teisę naudoti prievartą, specialiąsias priemones ir šaunamuosius ginklus [[latest/TAR.CA89372D00AA|Policijos įstatymo]] [[latest/TAR.CA89372D00AA#^s-427a2b35bfdf4bfccfce19c5|27]] ir [[latest/TAR.CA89372D00AA#^s-3e20a6b34e909ba2b94485ba|28]] straipsniuose nustatyta tvarka ir pagrindais. ^s-9b8110960462c9657fcfd73f
 
 
-3. Šauliai, atlikdami šio įstatymo [[#^s-1a6baa95d4596cfda44563ee|9 straipsnio 1 dalies 5 punkte]] ir [[#^s-c4e35e4a1b7411c053d713a3|18 straipsnyje]] nustatytą šaulio tarnybą, veikdami kartu su Valstybės sienos apsaugos tarnybos pareigūnais, turi teisę naudoti prievartą, specialiąsias priemones ir šaunamuosius ginklus [[latest/TAR.0F8C601D8592#^s-62747dcfed3793bc5d4fea5c|Valstybės sienos ir jos apsaugos įstatymo 28 ir 29 straipsniuose]] nustatyta tvarka ir pagrindais. ^s-9240b95254ecca2f9a922284
+3. Šauliai, atlikdami šio įstatymo [[#^s-1a6baa95d4596cfda44563ee|9 straipsnio 1 dalies 5 punkte]] ir [[#^s-c4e35e4a1b7411c053d713a3|18 straipsnyje]] nustatytą šaulio tarnybą, veikdami kartu su Valstybės sienos apsaugos tarnybos pareigūnais, turi teisę naudoti prievartą, specialiąsias priemones ir šaunamuosius ginklus [[latest/TAR.0F8C601D8592|Valstybės sienos ir jos apsaugos įstatymo]] [[latest/TAR.0F8C601D8592#^s-0116eb7ac24d25ba34a2ae3e|28]] ir [[latest/TAR.0F8C601D8592#^s-62747dcfed3793bc5d4fea5c|29]] straipsniuose nustatyta tvarka ir pagrindais. ^s-9240b95254ecca2f9a922284
 
 
 4. Teisę naudoti prievartą, šaunamuosius ginklus ir specialiąsias priemones, išskyrus savigyną, turi tik pilnamečiai šauliai, LŠS vado nustatyta tvarka, suderinta su policija, Valstybės sienos apsaugos tarnyba, išlaikę šaunamųjų ginklų ir specialiųjų priemonių naudojimo taisyklių egzaminus. ^s-a5e44edd8dd5d21f1c2aa327
@@ -1556,7 +1556,7 @@ Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
 7. Vyriausybė, LŠS vadas ar rinktinės vadas, pagal kompetenciją atitinkamiems šauliams turintys teisę skirti drausmines nuobaudas, sužinoję apie daromą ar padarytą šaulio drausminį nusižengimą, turi nedelsdami, ne vėliau kaip per 3 darbo dienas nuo sužinojimo apie drausminį nusižengimą dienos, įsakymu pavesti pavaldžiam asmeniui atlikti drausminio nusižengimo tyrimą. ^s-ae4b0f2087f19a5c4974fed8
 
 
-8. Drausminio nusižengimo tyrimas gali būti neatliekamas, jeigu šio įstatymo [[#^s-f5b7317180760a01c6dc73f9|46 straipsnio]] 1 ar [[#^s-20122ef7ea581347603010b3|2 dalyje]] nurodyti drausminiai nusižengimai yra akivaizdūs ir neginčijami. ^s-7cea481095f0388e40797dcc
+8. Drausminio nusižengimo tyrimas gali būti neatliekamas, jeigu šio įstatymo [[#^s-f5b7317180760a01c6dc73f9|46 straipsnio]] [[#^s-da639491a72f434e5e3b5358|1]] ar [[#^s-fadc1bb34a14696ad45fa822|2]] dalyje nurodyti drausminiai nusižengimai yra akivaizdūs ir neginčijami. ^s-7cea481095f0388e40797dcc
 
 
 9. Drausminio nusižengimo tyrimas turi būti atliktas ne vėliau kaip per vieną mėnesį nuo pavedimo atlikti drausminio nusižengimo tyrimą ar nuo jo atnaujinimo, kai yra [[#^s-a60e2c7c04aa512243963333|šio straipsnio 15 dalyje]] numatyti pagrindai, dienos. ^s-1c0436e57a0a73e42095d334
@@ -1574,7 +1574,7 @@ Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
 13. Šaulys, galimai padaręs drausminį nusižengimą, per 5 darbo dienas nuo pranešimo gavimo dienos gali pateikti drausminį nusižengimą tiriančiam asmeniui rašytinį paaiškinimą dėl drausminio nusižengimo. Šaulys, galimai padaręs drausminį nusižengimą, gali teikti dokumentus ir kitą informaciją, susijusius su drausminiu nusižengimu, dalyvauti tikrinant su drausminiu nusižengimu susijusius faktinius duomenis vietoje, pareikšti motyvuotą nušalinimą drausminį nusižengimą atliekančiam asmeniui dėl jo galimo šališkumo, apskųsti drausminį nusižengimą atliekančio asmens veiksmus ar neveikimą, baigus drausminio nusižengimo tyrimą, susipažinti su drausminio nusižengimo tyrimo išvada ir kita drausminio nusižengimo tyrimo medžiaga, gauti jų kopijas, skųsti sprendimus, priimtus baigus drausminio nusižengimo tyrimą. ^s-3190c25d47f45eee654fe02e
 
 
-14. Kai šaulys, įtariamas padaręs drausminį nusižengimą, dėl sveikatos būklės negali pateikti paaiškinimo ir yra jo sveikatos būklę patvirtinanti gydytojo pažyma, drausminio nusižengimo tyrimas, taip pat šio straipsnio 10 ir [[#^s-984b30b4001166f187eeef31|11 dalyse]] nurodytų terminų skaičiavimas sustabdomas, iki išnyksta nurodyto sustabdymo priežastys. ^s-3267ac26cf87b53e2cc26650
+14. Kai šaulys, įtariamas padaręs drausminį nusižengimą, dėl sveikatos būklės negali pateikti paaiškinimo ir yra jo sveikatos būklę patvirtinanti gydytojo pažyma, drausminio nusižengimo tyrimas, taip pat šio straipsnio [[#^s-efd8bc84cb5259eab0426354|10]] ir [[#^s-984b30b4001166f187eeef31|11]] dalyse nurodytų terminų skaičiavimas sustabdomas, iki išnyksta nurodyto sustabdymo priežastys. ^s-3267ac26cf87b53e2cc26650
 
 
 15. Kai paaiškėja, kad drausminis nusižengimas turi nusikalstamos veikos ar administracinio nusižengimo požymių, drausminio nusižengimo tyrimas sustabdomas ir drausminio nusižengimo tyrimo medžiaga perduodama ikiteisminio tyrimo įstaigai ar administracinį nusižengimą tiriančiam subjektui. Jeigu ikiteisminis tyrimas nutraukiamas, asmuo atleidžiamas nuo baudžiamosios atsakomybės arba priimamas išteisinamasis ar apkaltinamasis nuosprendis ir yra pasibaigęs baudžiamasis procesas arba nutraukiama administracinio nusižengimo teisena, nuo atitinkamų sprendimų priėmimo dienos drausminio nusižengimo tyrimas atnaujinamas ir nustatomas naujas terminas laikantis [[#^s-efd8bc84cb5259eab0426354|šio straipsnio 10 dalyje]] nustatyto termino. ^s-a60e2c7c04aa512243963333
@@ -1887,7 +1887,7 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 
 
 
-5. Šio straipsnio 1, 3 ir [[#^s-814fe89c95651e6d09903825|4 dalyse]] nurodytos kompensacijos nemokamos šiais atvejais, jeigu: ^s-585cd37be7b67e8c67b9e60d
+5. Šio straipsnio [[#^s-20a535a0893e3fbf4a9c960a|1]], [[#^s-5bb39b6108cc0aa6875fce91|3]] ir [[#^s-814fe89c95651e6d09903825|4]] dalyse nurodytos kompensacijos nemokamos šiais atvejais, jeigu: ^s-585cd37be7b67e8c67b9e60d
 
 
 1) šaulys žuvo, susižalojo, buvo sužalotas ar jo sveikata buvo kitaip sutrikdyta jam darant nusikalstamą veiką ar nevykdant teisėto įsakymo; ^s-56f486647de2046cf20e3688
@@ -1914,7 +1914,7 @@ Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
 7. [[#^s-49930bfc334f2dc90e98e950|Šio straipsnio 6 dalyje]] nurodytų tarnybinio tyrimo komisijos ir Karinės medicinos ekspertizės komisijos sprendimai gali būti skundžiami teismui per 10 dienų nuo išvadų įteikimo šauliui arba kitiems [[#^s-b2cf4ba24b0a587e68c4455a|šio straipsnio 2 dalyje]] nurodytiems asmenims ar jų atstovams dienos. ^s-6011db69ffc04b385becf468
 
 
-8. Šio straipsnio 1, 3 ir [[#^s-814fe89c95651e6d09903825|4 dalyse]] nurodytos kompensacijos mokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti. Krašto apsaugos ministro nustatyta tvarka jos gali būti išmokamos dalimis ne vėliau kaip per 12 mėnesių. ^s-7bd55bb1226050b494b72158
+8. Šio straipsnio [[#^s-20a535a0893e3fbf4a9c960a|1]], [[#^s-5bb39b6108cc0aa6875fce91|3]] ir [[#^s-814fe89c95651e6d09903825|4]] dalyse nurodytos kompensacijos mokamos iš Krašto apsaugos ministerijai skirtų valstybės biudžeto asignavimų, skirtų LŠS veiklai finansuoti. Krašto apsaugos ministro nustatyta tvarka jos gali būti išmokamos dalimis ne vėliau kaip per 12 mėnesių. ^s-7bd55bb1226050b494b72158
 
 
 9. Šauliui mirus tarnybos metu dėl priežasčių, nesusijusių su šaulio tarnyba, šaulio šeimai gali būti išmokėta iki 12 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio vienkartinė pašalpa. Sutrikus šaulio sveikatai dėl priežasčių, nesusijusių su šaulio tarnyba, jam gali būti išmokėta iki 6 Vyriausybės nustatytų minimaliųjų mėnesinių algų dydžio vienkartinė pašalpa. ^s-eda18118fcdfb527309dedbc
@@ -1963,7 +1963,7 @@ Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
 
 
 
-10. Šio straipsnio 1, 2 ir [[#^s-556f64cb40456f99820fd7e2|3 dalyse]] nustatytos garantijos netaikomos LŠS vadui ir šauliams, einantiems šio įstatymo [[#^s-aea19e5df2cd61a7e11b95b2|50 straipsnyje]] nurodytas pareigas. ^s-a53118a5d167b3a9b9f04c59
+10. Šio straipsnio [[#^s-c6d029705bbf5c484640931c|1]], [[#^s-dcbac1779efad60ba48a5bf8|2]] ir [[#^s-556f64cb40456f99820fd7e2|3]] dalyse nustatytos garantijos netaikomos LŠS vadui ir šauliams, einantiems šio įstatymo [[#^s-aea19e5df2cd61a7e11b95b2|50 straipsnyje]] nurodytas pareigas. ^s-a53118a5d167b3a9b9f04c59
 
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
@@ -2034,20 +2034,20 @@ Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
 ### 51 straipsnis. Šaulių teisė susipažinti su įslaptinta informacija ir ją naudoti ^s-24635cc40506071ab40e42c3
 
 
-1. Jeigu šaulio tarnybai nustatytas specialus reikalavimas turėti leidimą dirbti ar susipažinti su įslaptinta informacija arba teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, šaulys į šaulio tarnybą gali būti skiriamas tik suteikus jam tokį leidimą ar teisę. ^s-e2951d7a294cd0e527a3d725
+1. Jeigu šaulio tarnybai nustatytas specialus reikalavimas turėti leidimą dirbti ar susipažinti su įslaptinta informacija arba teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), šaulys į šaulio tarnybą gali būti skiriamas tik suteikus jam tokį leidimą ar teisę. ^s-e2951d7a294cd0e527a3d725
 
 
-2. Kai šaulys netenka leidimo dirbti ar susipažinti su įslaptinta informacija arba teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, jis gali būti skiriamas į kitą su tokios informacijos naudojimu nesusijusią šaulio tarnybą. ^s-1568caf11330c1f2cf0cc491
+2. Kai šaulys netenka leidimo dirbti ar susipažinti su įslaptinta informacija arba teisės dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), jis gali būti skiriamas į kitą su tokios informacijos naudojimu nesusijusią šaulio tarnybą. ^s-1568caf11330c1f2cf0cc491
 
 
 
 ### 52 straipsnis. Šaulių asmens duomenų tvarkymas ^s-0ffbd5bf7586b3544b188f96
 
 
-1. LŠS, kariuomenė, taip pat Krašto apsaugos ministerija, įgyvendindamos šį įstatymą, šaulių asmens duomenis tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu]] (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu. Šiais tikslais LŠS, kariuomenė, taip pat Krašto apsaugos ministerija turi teisę tvarkyti ir specialių kategorijų asmens duomenis. ^s-9455e35092ad266d350520f9
+1. LŠS, kariuomenė, taip pat Krašto apsaugos ministerija, įgyvendindamos šį įstatymą, šaulių asmens duomenis tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu]] (toliau – [[latest/TAR.299D835159BE|Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas]]) ir šiuo įstatymu. Šiais tikslais LŠS, kariuomenė, taip pat Krašto apsaugos ministerija turi teisę tvarkyti ir specialių kategorijų asmens duomenis. ^s-9455e35092ad266d350520f9
 
 
-2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-be7ec0f4c6b1c9148ab4aa9a|11 straipsnio 2 dalyje]], 14 straipsnio 5 dalyje, [[#^s-cf51d6ac54f6bc22340b1a3f|30 straipsnio 1 dalyje]] nurodytos informacijos teikimas duomenų subjektams (šauliams) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-4785a86a288e089c6a7ca8d5|12 straipsnyje]], [[#^s-11879ac2dd633c053c2f99c8|14 straipsnio]] 1, 2 ir 3 dalyse nustatytos duomenų subjektų (šaulių) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui (šauliui) pateikus informaciją ir (ar) įgyvendinus šioje dalyje nurodytą duomenų subjekto (šaulio) teisę gali būti neįmanoma arba sukliudyta planuoti, organizuoti ir (ar) vykdyti šiame įstatyme LŠS nustatytas užduotis ir funkcijas. LŠS savo vado nustatyta tvarka, kariuomenė, taip pat Krašto apsaugos ministerija krašto apsaugos ministro ar jo įgalioto asmens nustatyta tvarka turi kiekvienu atveju įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis grindžiamas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu. ^s-2a09523c7186659da3c6ea2f
+2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-be7ec0f4c6b1c9148ab4aa9a|11 straipsnio 2 dalyje]], 14 straipsnio 5 dalyje, [[#^s-cf51d6ac54f6bc22340b1a3f|30 straipsnio 1 dalyje]] nurodytos informacijos teikimas duomenų subjektams (šauliams) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-4785a86a288e089c6a7ca8d5|12 straipsnyje]], [[#^s-11879ac2dd633c053c2f99c8|14 straipsnio]] [[#^s-c16b5179236f3f9e5216bd61|1]], [[#^s-e26d9a57f6f827e70547b358|2]] ir [[#^s-3e0d482705890ddb4e77ad9c|3]] dalyse nustatytos duomenų subjektų (šaulių) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui (šauliui) pateikus informaciją ir (ar) įgyvendinus šioje dalyje nurodytą duomenų subjekto (šaulio) teisę gali būti neįmanoma arba sukliudyta planuoti, organizuoti ir (ar) vykdyti šiame įstatyme LŠS nustatytas užduotis ir funkcijas. LŠS savo vado nustatyta tvarka, kariuomenė, taip pat Krašto apsaugos ministerija krašto apsaugos ministro ar jo įgalioto asmens nustatyta tvarka turi kiekvienu atveju įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis grindžiamas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu. ^s-2a09523c7186659da3c6ea2f
 
 
 Straipsnio pakeitimai:
@@ -2070,7 +2070,7 @@ Nr. XV-74, 2024-12-19, paskelbta TAR 2024-12-23, i. k. 2024-23067
 
 
 
-2. Jaunieji šauliai negali būti skiriami atlikti šaulio tarnybos vykdant šio įstatymo [[#^s-bdf28efffe95c32e6529cbe7|9 straipsnio 1 dalies]] 5, 7 punktuose ir [[#^s-1eb8265f1065431cdb4b3947|2 dalyje]] nustatytas LŠS funkcijas. ^s-1eb8265f1065431cdb4b3947
+2. Jaunieji šauliai negali būti skiriami atlikti šaulio tarnybos vykdant šio įstatymo [[#^s-bdf28efffe95c32e6529cbe7|9 straipsnio 1 dalies]] [[#^s-1a6baa95d4596cfda44563ee|5]], [[#^s-44c3c377f8bb2d8becd8e2a0|7]] punktuose ir 2 dalyje nustatytas LŠS funkcijas. ^s-1eb8265f1065431cdb4b3947
 
 
 3. Draudžiamas jaunųjų šaulių karinis rengimas kovos veiksmams. ^s-c5af5719dd1f38737d11ae28
@@ -2251,17 +2251,17 @@ Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 [[#^s-9f
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1687, 2015-05-07, paskelbta TAR 2015-05-20, i. k. 2015-07665
-Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 12, 26, 30, 36 ir [[#^s-fa585d4ef67b4baee5022f12|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 [[#^s-4785a86a288e089c6a7ca8d5|12]], [[#^s-b40adde3f25cb708fc44840f|26]], [[#^s-4a6799c8e0f209940300f307|30]], [[#^s-7c55b897999593552ba6eb33|36]] ir [[#^s-fa585d4ef67b4baee5022f12|41]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2525, 2016-06-29, paskelbta TAR 2016-07-13, i. k. 2016-20283
-Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 30 ir [[#^s-3bffea8a8622f3624f3a981f|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 [[#^s-4a6799c8e0f209940300f307|30]] ir [[#^s-3bffea8a8622f3624f3a981f|33]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-404, 2017-06-01, paskelbta TAR 2017-06-09, i. k. 2017-09788
-Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 12, 26 ir [[#^s-7c55b897999593552ba6eb33|36 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 [[#^s-4785a86a288e089c6a7ca8d5|12]], [[#^s-b40adde3f25cb708fc44840f|26]] ir [[#^s-7c55b897999593552ba6eb33|36]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2271,7 +2271,7 @@ Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 papildym
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1550, 2018-10-18, paskelbta TAR 2018-10-31, i. k. 2018-17459
-Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 9 ir [[#^s-054d98c291069f23ef578b4c|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 [[#^s-bb7ef777d80dc4a5667516f4|9]] ir [[#^s-054d98c291069f23ef578b4c|11]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2281,17 +2281,17 @@ Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 [[#^s-c5
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2676, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21317
-Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 8 ir [[#^s-4a6799c8e0f209940300f307|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 [[#^s-c83b7dfa8a519100dade581c|8]] ir [[#^s-4a6799c8e0f209940300f307|30]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3237, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15872
-Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 2, 3, 8, 9, 12, 13, 21, 34, 35, [[#^s-fa585d4ef67b4baee5022f12|41 straipsnių]] pakeitimo ir Įstatymo papildymo 20-1, 33-1 straipsniais įstatymas
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 [[#^s-27d072cb982216f62c08f50a|2]], [[#^s-6d0ba7b5d0c635f52451a5a9|3]], [[#^s-c83b7dfa8a519100dade581c|8]], [[#^s-bb7ef777d80dc4a5667516f4|9]], [[#^s-4785a86a288e089c6a7ca8d5|12]], [[#^s-ddbd77b93102f5938c472a9f|13]], [[#^s-721141490e394553572dd6a0|21]], [[#^s-c5ec1dd4fb16e226d36bbdd6|34]], [[#^s-c7e78b67d5094870cfe7a954|35]], [[#^s-fa585d4ef67b4baee5022f12|41]] straipsnių pakeitimo ir Įstatymo papildymo 20-1, 33-1 straipsniais įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3247, 2020-06-30, paskelbta TAR 2020-07-15, i. k. 2020-15781
-Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 1, 4, 16, 17, 26, 30, 35, [[#^s-7c55b897999593552ba6eb33|36 straipsnių]] pakeitimo ir Įstatymo papildymo 31-1, 31-2, 31-3 straipsniais ir penktuoju-1 skirsniu įstatymas
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 [[#^s-f0548e1326cb8b5f2f960086|1]], [[#^s-cfd2d240feaaa2bd346e8e95|4]], [[#^s-5231d47771a7b18c641f8198|16]], [[#^s-1a6f4717b442cb78b82dcab1|17]], [[#^s-b40adde3f25cb708fc44840f|26]], [[#^s-4a6799c8e0f209940300f307|30]], [[#^s-c7e78b67d5094870cfe7a954|35]], [[#^s-7c55b897999593552ba6eb33|36]] straipsnių pakeitimo ir Įstatymo papildymo 31-1, 31-2, 31-3 straipsniais ir penktuoju-1 skirsniu įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2301,7 +2301,7 @@ Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 [[#^s-4a
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-971, 2022-03-24, paskelbta TAR 2022-03-30, i. k. 2022-06308
-Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 2, 16, 17, 32 ir [[#^s-3bffea8a8622f3624f3a981f|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 [[#^s-27d072cb982216f62c08f50a|2]], [[#^s-5231d47771a7b18c641f8198|16]], [[#^s-1a6f4717b442cb78b82dcab1|17]], [[#^s-9ff6e4b71f710d839bc73ce7|32]] ir [[#^s-3bffea8a8622f3624f3a981f|33]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2311,7 +2311,7 @@ Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitim
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2371, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25625
-Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 30, 37, 48 ir [[#^s-aea19e5df2cd61a7e11b95b2|50 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 [[#^s-4a6799c8e0f209940300f307|30]], [[#^s-46df38e097683fd1bc22a68a|37]], [[#^s-65e766d1b811bce9f65c7b7e|48]] ir [[#^s-aea19e5df2cd61a7e11b95b2|50]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2321,4 +2321,4 @@ Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 pakeitim
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-941, 2026-05-14, paskelbta TAR 2026-05-21, i. k. 2026-08547
-Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 3, 9, 24, 35 ir [[#^s-6f86b4fa8310b23897b2252e|40 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymo Nr. VIII-375 [[#^s-6d0ba7b5d0c635f52451a5a9|3]], [[#^s-bb7ef777d80dc4a5667516f4|9]], [[#^s-39c77747d0a3b8d141e8c656|24]], [[#^s-c7e78b67d5094870cfe7a954|35]] ir [[#^s-6f86b4fa8310b23897b2252e|40]] straipsnių pakeitimo įstatymas

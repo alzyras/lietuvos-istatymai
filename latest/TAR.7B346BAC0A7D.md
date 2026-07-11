@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-28d88ffa184c0fc2c2a7d8e3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. lapkričio 10 d. dekretą Nr. 1K-1152, ratifikuoja 2006 m. gruodžio 12 d. Briuselyje pasirašytą Europos Bendrijos bei jos valstybių narių ir Maroko Karalystės bendradarbiavimo susitarimą dėl civilinės pasaulinės palydovinės navigacijos sistemos (GNSS).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. lapkričio 10 d. dekretą Nr. 1K-1152](https://e-tar.lt/portal/lt/legalAct/TAR.EC89EC95B63B), ratifikuoja 2006 m. gruodžio 12 d. Briuselyje pasirašytą Europos Bendrijos bei jos valstybių narių ir Maroko Karalystės bendradarbiavimo susitarimą dėl civilinės pasaulinės palydovinės navigacijos sistemos (GNSS).
 
 
 

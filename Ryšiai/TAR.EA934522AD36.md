@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.DDA1BD559D9B#^s-90edb2fe6609b49fdc1f0ca5|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - 2 citatos - PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO ĮSTATYMO 15, 50, 53 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.DDA1BD559D9B#^s-940958e116e55e8e984215a5|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - 2 citatos - PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO ĮSTATYMO 15, 50, 53 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.DDA1BD559D9B#^s-940958e116e55e8e984215a5|Lietuvos Respublikos papildomo savanoriško pensijų kaupimo įstatymas]] - PAPILDOMO SAVANORIŠKO PENSIJŲ KAUPIMO ĮSTATYMO 15, 50, 53 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

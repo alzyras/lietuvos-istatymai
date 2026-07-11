@@ -135,7 +135,7 @@ Pakeisti 5.53 straipsnį ir jį išdėstyti taip:
 1. Įpėdinis, priėmęs palikimą pagal antstolio sudarytą turto apyrašą, už palikėjo skolas atsako tik paveldėtu turtu. Jeigu bent vienas įpėdinis priėmė palikimą pagal turto apyrašą, tai ir visi kiti įpėdiniai laikomi priėmusiais palikimą pagal turto apyrašą. ^s-39e542f527afd790e6535fff
 
 
-2. Dėl palikimo priėmimo pagal turto apyrašą įpėdinis pareiškimu kreipiasi į palikimo atsiradimo vietos notarą. Gavęs šį pareiškimą, notaras nedelsdamas išduoda įpėdiniui vykdomąjį pavedimą dėl turto apyrašo sudarymo. Šis pavedimas vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Notaro išduotą vykdomąjį pavedimą dėl turto apyrašo sudarymo įpėdinis ne vėliau kaip per dvi savaites pateikia bet kuriam palikimo atsiradimo vietos apylinkės teismo veiklos teritorijoje veikiančiam antstoliui. Per dvi savaites nuo išdavimo antstoliui nepateiktas vykdomasis pavedimas dėl turto apyrašo sudarymo negalioja ir bet kuris įpėdinis turi teisę kreiptis į notarą dėl naujo vykdomojo pavedimo išdavimo. ^s-61ee99dcf538bbf1d869f2f4
+2. Dėl palikimo priėmimo pagal turto apyrašą įpėdinis pareiškimu kreipiasi į palikimo atsiradimo vietos notarą. Gavęs šį pareiškimą, notaras nedelsdamas išduoda įpėdiniui vykdomąjį pavedimą dėl turto apyrašo sudarymo. Šis pavedimas vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Notaro išduotą vykdomąjį pavedimą dėl turto apyrašo sudarymo įpėdinis ne vėliau kaip per dvi savaites pateikia bet kuriam palikimo atsiradimo vietos apylinkės teismo veiklos teritorijoje veikiančiam antstoliui. Per dvi savaites nuo išdavimo antstoliui nepateiktas vykdomasis pavedimas dėl turto apyrašo sudarymo negalioja ir bet kuris įpėdinis turi teisę kreiptis į notarą dėl naujo vykdomojo pavedimo išdavimo. ^s-61ee99dcf538bbf1d869f2f4
 
 
 3. Turto apyrašą antstolis sudaro ne vėliau kaip per vieną mėnesį nuo [[#^s-61ee99dcf538bbf1d869f2f4|šio straipsnio 2 dalyje]] nurodytų dokumentų gavimo. Tais atvejais, kai paveldimas turtas yra keliose vietose arba yra daug palikėjo kreditorių, turto apyrašą antstolis privalo sudaryti ne vėliau kaip per tris mėnesius. ^s-2b9e3537181ed34d9a33873e
@@ -193,10 +193,10 @@ Jeigu sudarant turto apyrašą įpėdinis dėl savo kaltės nurodė ne visą tur
 ### 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-20602afea460054c5e090238
 
 
-1. Šis įstatymas, išskyrus 4, 5, 6, 7, 8, [[#^s-d6c27d23196c1e7ebe280399|9 straipsnius]] ir [[#^s-9ce32e10accf54b06fefd85c|šio straipsnio 3 dalį]], įsigalioja 2011 m. spalio 1 d. ^s-6cf16eedbd7c0636547a78b2
+1. Šis įstatymas, išskyrus [[#^s-6cd9428566378ddf39526ced|4]], [[#^s-8100f41123ac7cc7ec98255e|5]], [[#^s-9d3f183986915da2216cf33f|6]], [[#^s-4f6e52d3ffd4798cee4ada79|7]], [[#^s-38dd7c11cc12a937ff1c97d9|8]], [[#^s-d6c27d23196c1e7ebe280399|9]] straipsnius ir [[#^s-9ce32e10accf54b06fefd85c|šio straipsnio 3 dalį]], įsigalioja 2011 m. spalio 1 d. ^s-6cf16eedbd7c0636547a78b2
 
 
-2. Šio įstatymo 4, 5, 6, 7, 8, [[#^s-d6c27d23196c1e7ebe280399|9 straipsniai]] įsigalioja 2011 m. lapkričio 1 d. ^s-4569eb80ca17e9463dc171db
+2. Šio įstatymo [[#^s-6cd9428566378ddf39526ced|4]], [[#^s-8100f41123ac7cc7ec98255e|5]], [[#^s-9d3f183986915da2216cf33f|6]], [[#^s-4f6e52d3ffd4798cee4ada79|7]], [[#^s-38dd7c11cc12a937ff1c97d9|8]], [[#^s-d6c27d23196c1e7ebe280399|9]] straipsniai įsigalioja 2011 m. lapkričio 1 d. ^s-4569eb80ca17e9463dc171db
 
 
 3. Teisingumo ministras iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-9ce32e10accf54b06fefd85c

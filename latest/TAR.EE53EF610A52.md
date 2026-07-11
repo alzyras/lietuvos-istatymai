@@ -62,7 +62,7 @@ Pripažinti netekusiais galios:
 7) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimą „Dėl Lietuvos Respublikos laikinojo įstatymo „Dėl darbuotojų privataus kapitalo kaupimo valstybinėse įmonėse“ įsigaliojimo tvarkos“ (Žin., 1990, Nr. 35-849); ^s-f588169ab2d8fe0b2bb571a9
 
 
-8) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimą „Dėl Lietuvos Respublikos nemokių valstybinių įmonių privatizavimo įstatymo įgyvendinimo“ (Žin., 1991, Nr. 22-573); ^s-e3215ce90ebce22edd0a2c22
+8) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimą [„Dėl Lietuvos Respublikos nemokių valstybinių įmonių privatizavimo įstatymo įgyvendinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.8991D05B9591) (Žin., 1991, Nr. 22-573); ^s-e3215ce90ebce22edd0a2c22
 
 
 9) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimą „Dėl Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos valstybinio turto pirminio privatizavimo įstatymo papildymo ir pakeitimo“ įsigaliojimo“ (Žin., 1992, Nr. 28-813). ^s-dd6c0c6728ece892559d7c2e

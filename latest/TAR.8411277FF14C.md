@@ -42,7 +42,7 @@ Vilnius
 Papildyti Įstatymą 4 dalimi:
 
 
-„4. Nustatyti, kad Lietuvos vystymo bankas pradeda veikti pagal Lietuvos Respublikos komercinių bankų įstatymą kaip komercinis bankas parengus Lietuvos vystymo banko statuto naują redakciją pagal Lietuvos Respublikos komercinių bankų įstatymą, statutą įregistravus Lietuvos Respublikos įmonių rejestro įstatymo nustatyta tvarka ir pakeitus banko licenciją. Šio įstatymo patvirtintu statutu Lietuvos vystymo bankas vadovaujasi iki naujos redakcijos statuto, parengto pagal Lietuvos Respublikos komercinių bankų įstatymą, įregistravimo Lietuvos Respublikos įmonių rejestro įstatymo nustatyta tvarka ir banko licencijos pakeitimo.“
+„4. Nustatyti, kad Lietuvos vystymo bankas pradeda veikti pagal Lietuvos Respublikos komercinių bankų įstatymą kaip komercinis bankas parengus Lietuvos vystymo banko statuto naują redakciją pagal Lietuvos Respublikos komercinių bankų įstatymą, statutą įregistravus [Lietuvos Respublikos įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka ir pakeitus banko licenciją. Šio įstatymo patvirtintu statutu Lietuvos vystymo bankas vadovaujasi iki naujos redakcijos statuto, parengto pagal Lietuvos Respublikos komercinių bankų įstatymą, įregistravimo [Lietuvos Respublikos įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka ir banko licencijos pakeitimo.“
 
 
 

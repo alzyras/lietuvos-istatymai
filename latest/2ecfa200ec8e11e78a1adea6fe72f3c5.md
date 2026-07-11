@@ -40,10 +40,10 @@ Vilnius
 ### 1 straipsnis. 13 straipsnio pakeitimas ^s-061c45d424eea1330f1c3aa9
 
 
-Pakeisti 13 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.5DC1759E42CB#^s-e08914fde74bf057640645e4|13 straipsnį]] ir jį išdėstyti taip:
 
 
-„13 straipsnis. Bendrosios transporto priemonių vairuotojų pareigos
+„[[latest/TAR.5DC1759E42CB#^s-e08914fde74bf057640645e4|13 straipsnis]]. Bendrosios transporto priemonių vairuotojų pareigos
 
 
 1. Draudžiama vairuoti motorinę transporto priemonę, traktorių, savaeigę mašiną asmenims, neturintiems šios teisės, taip pat esant neblaiviam, apsvaigusiam nuo psichiką veikiančių medžiagų ar nepasinaudojus teisės aktų nustatytu privalomu kasdieniu poilsiu. Be to, neleidžiama vairuoti susirgus ar pavargus, jeigu dėl to gali kilti pavojus eismo saugumui, duoti transporto priemonę vairuoti asmenims, kurie yra paveikti bent vieno iš pirmiau nurodytų veiksnių arba neturi teisės vairuoti šią transporto priemonę. ^s-9106e067444a6ae0e07b1a76
@@ -58,7 +58,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 4. Motorinės transporto priemonės, traktoriaus, savaeigės mašinos vairuotojas privalo mokėti suteikti pirmąją pagalbą per eismo įvykį nukentėjusiems asmenims. ^s-f0b5f977983c609d9ec46976
 
 
-5. Motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos vairuotojas privalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti galiojantį vairuotojo pažymėjimą, transporto priemonės registravimo, privalomosios techninės apžiūros dokumentus, M2, M3, N2, N3, O3 ir O4 klasių transporto priemonių ir T5 kategorijos ratinių traktorių paskutinio techninio patikrinimo ataskaitą, transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimą (polisą) ir kitus Lietuvos Respublikos įstatymų ir KET nustatytus dokumentus (išskyrus šio straipsnio 6, 7 ir [[#^s-6502d153cde27387742f0498|8 dalyse]] nurodytus atvejus, kai motorinės transporto priemonės ir (ar) priekabos vairuotojas neprivalo su savimi turėti atitinkamų dokumentų), taip pat leisti jam patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis. ^s-b0fbeab2d01cd30b186d75e2
+5. Motorinės transporto priemonės ir (ar) priekabos, traktoriaus, savaeigės mašinos vairuotojas privalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti galiojantį vairuotojo pažymėjimą, transporto priemonės registravimo, privalomosios techninės apžiūros dokumentus, M2, M3, N2, N3, O3 ir O4 klasių transporto priemonių ir T5 kategorijos ratinių traktorių paskutinio techninio patikrinimo ataskaitą, transporto priemonių valdytojų civilinės atsakomybės privalomojo draudimo liudijimą (polisą) ir kitus Lietuvos Respublikos įstatymų ir KET nustatytus dokumentus (išskyrus šio straipsnio [[#^s-feb321801f20b3b7e1f14e32|6]], [[#^s-d11ee66f08e20228bcf38793|7]] ir [[#^s-6502d153cde27387742f0498|8]] dalyse nurodytus atvejus, kai motorinės transporto priemonės ir (ar) priekabos vairuotojas neprivalo su savimi turėti atitinkamų dokumentų), taip pat leisti jam patikrinti vairavimo ir poilsio trukmei nustatyti įteisintų prietaisų rodmenis. ^s-b0fbeab2d01cd30b186d75e2
 
 
 6. Motorinės transporto priemonės ir (ar) priekabos vairuotojas, kuriam Lietuvos Respublikoje išduotas vairuotojo pažymėjimas galioja, neprivalo su savimi turėti ir tikrinančio pareigūno reikalavimu pateikti vairuotojo pažymėjimo, jeigu jis pateikia galiojantį savo asmens tapatybę patvirtinantį dokumentą. ^s-feb321801f20b3b7e1f14e32
@@ -106,10 +106,10 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 ### 2 straipsnis. 22 straipsnio pakeitimas ^s-40cceb5beaa34e77b3f8cea3
 
 
-Pakeisti 22 straipsnio 3 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.5DC1759E42CB#^s-ea3c55a648e268a874129000|22 straipsnio 3 dalį]] ir ją išdėstyti taip:
 
 
-„3. Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones, kai teisė vairuoti transporto priemones nėra atimta, patvirtina įrašas apie išduotą vairuotojo pažymėjimą Lietuvos Respublikos kelių transporto priemonių vairuotojų registre ar valstybės įmonės „Regitra“ išduotas vairuotojo pažymėjimas, kurio duomenys tvarkomi Lietuvos Respublikos kelių transporto priemonių vairuotojų registre, ir šio įstatymo 13 straipsnio 9 dalyje nurodyti užsienio valstybėse išduoti vairuotojo pažymėjimai.“
+„3. Asmens teisę vairuoti tam tikrų kategorijų motorines transporto priemones, kai teisė vairuoti transporto priemones nėra atimta, patvirtina įrašas apie išduotą vairuotojo pažymėjimą Lietuvos Respublikos kelių transporto priemonių vairuotojų registre ar valstybės įmonės „Regitra“ išduotas vairuotojo pažymėjimas, kurio duomenys tvarkomi Lietuvos Respublikos kelių transporto priemonių vairuotojų registre, ir šio įstatymo [[latest/TAR.5DC1759E42CB#^s-bcb36b4c7c4c056364247ccb|13 straipsnio 9 dalyje]] nurodyti užsienio valstybėse išduoti vairuotojo pažymėjimai.“
 
 
 ### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-c08d129340ca0c0a23b3dc83

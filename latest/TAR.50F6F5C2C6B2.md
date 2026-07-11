@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-d8c2a447f7726e08561aeff2
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 12 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Čekijos Respublikos sutartį dėl socialinės apsaugos“, ratifikuoja Lietuvos Respublikos ir Čekijos Respublikos sutartį dėl socialinės apsaugos, pasirašytą 1999 m. gegužės 27 d. Prahoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 12 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Čekijos Respublikos sutartį dėl socialinės apsaugos“](https://e-tar.lt/portal/lt/legalAct/TAR.D7EDA6565EF9), ratifikuoja Lietuvos Respublikos ir Čekijos Respublikos sutartį dėl socialinės apsaugos, pasirašytą 1999 m. gegužės 27 d. Prahoje.
 
 
 

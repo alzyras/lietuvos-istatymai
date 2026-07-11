@@ -44,7 +44,7 @@ Vilnius
 Pakeisti Įstatymo 1 priedėlio 1 išnašą ir ją išdėstyti taip:
 
 
-„1Lietuvos statistikos departamento Europos ekonominės bendrijos ekonominės veiklos klasifikavimo sistemos (NACE) pagrindu parengtas Ekonominės veiklos rūšių klasifikatorius, kuriam Lietuvos Respublikos Vyriausybė pritarė 1995 m. gegužės 17 d. nutarimu Nr. 696 „Dėl Ekonominės veiklos rūšių klasifikatoriaus“ (Žin., 1995, Nr. 43-1054).“
+„1Lietuvos statistikos departamento Europos ekonominės bendrijos ekonominės veiklos klasifikavimo sistemos (NACE) pagrindu parengtas Ekonominės veiklos rūšių klasifikatorius, kuriam Lietuvos Respublikos Vyriausybė pritarė [1995 m. gegužės 17 d. nutarimu Nr. 696](https://e-tar.lt/portal/lt/legalAct/TAR.CAF6DFCEDEB7) „Dėl Ekonominės veiklos rūšių klasifikatoriaus“ (Žin., 1995, Nr. 43-1054).“
 
 
 

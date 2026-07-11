@@ -9,10 +9,8 @@ pavadinimas: "Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo 1, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Darbo kodeksas
-- [[latest/TAR.95C79D036AA4|Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas]] - Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymo
+- [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas]] - 2 citatos - Darbo kodekso 265 straipsnyje
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.95C79D036AA4#^s-1f1cdf893982c3b3757c5ae2|Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas]] - Įstatymas Nr. X-1169
-- [[latest/TAR.95C79D036AA4#^s-6d00c0189504ad433cba1d6a|Lietuvos Respublikos darbuotojų saugos ir sveikatos įstatymas]] - Įstatymas Nr. X-1169
+_Nėra._

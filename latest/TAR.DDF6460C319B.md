@@ -63,7 +63,7 @@ Vilnius
 ### 2 straipsnis. Įstatymo įsigaliojimas ^s-3c4d20f8146aa1b7f3dec12d
 
 
-Šio įstatymo [[#^s-fad87ec50ac0755f9aa7389f|1 straipsnio]] 2 ir 3 dalys įsigalioja 2014 m. sausio 1 d.
+Šio įstatymo [[#^s-fad87ec50ac0755f9aa7389f|1 straipsnio]] [[#^s-dcb07867d9c651d66a63a86f|2]] ir [[#^s-d993c1e2ecf3336335996b10|3]] dalys įsigalioja 2014 m. sausio 1 d.
 
 
 

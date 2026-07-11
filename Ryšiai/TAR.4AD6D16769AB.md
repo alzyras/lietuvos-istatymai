@@ -9,15 +9,14 @@ pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 2, 3
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.B9E1D301256F|Lietuvos Respublikos akcizų įstatymas]] - 2 citatos - Lietuvos Respublikos akcizų įstatyme
-- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 2 citatos - Civilinis kodeksas
-- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 8 citatos - Lietuvos Respublikos mokesčių administravimo įstatyme
-- [[latest/TAR.9CD153214DD1|Lietuvos Respublikos pašto įstatymas]] - 2 citatos - Lietuvos Respublikos pašto įstatyme
-- [[latest/TAR.A5ACBDA529A9|Lietuvos Respublikos pelno mokesčio įstatymas]] - 2 citatos - Lietuvos Respublikos pelno mokesčio įstatymo
-- [[latest/TAR.ED68997709F5#^s-7ded77790523e1691ba495da|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - 2 citatos - Pridėtinės vertės mokesčio įstatymo 13 straipsnio 9 dalies
-- [[latest/TAR.ED68997709F5#^s-a0633c37b15e37faa009ce0a|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - 4 citatos - Pridėtinės vertės mokesčio įstatymo 13 straipsnio 13 dalį
+- [[latest/TAR.B9E1D301256F|Lietuvos Respublikos akcizų įstatymas]] - Lietuvos Respublikos akcizų įstatyme
+- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - Civilinis kodeksas
+- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 4 citatos - Lietuvos Respublikos mokesčių administravimo įstatyme
+- [[latest/TAR.9CD153214DD1|Lietuvos Respublikos pašto įstatymas]] - Lietuvos Respublikos pašto įstatyme
+- [[latest/TAR.A5ACBDA529A9|Lietuvos Respublikos pelno mokesčio įstatymas]] - Lietuvos Respublikos pelno mokesčio įstatymo
+- [[latest/TAR.ED68997709F5#^s-7ded77790523e1691ba495da|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - Pridėtinės vertės mokesčio įstatymo 13 straipsnio 9 dalies
+- [[latest/TAR.ED68997709F5#^s-a0633c37b15e37faa009ce0a|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - 2 citatos - Pridėtinės vertės mokesčio įstatymo 13 straipsnio 13 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.ED68997709F5#^s-008949054ab861703ff664c3|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - Įstatymas Nr. XI-518
-- [[latest/TAR.ED68997709F5#^s-951ad7fe84aa679fdc57d085|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - Įstatymas Nr. XI-518
+_Nėra._

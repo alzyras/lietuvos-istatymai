@@ -33,7 +33,7 @@ Vilnius
 
 
 
-Ignalinos valstybinės atominės elektrinės darbuotojai Lietuvos Respublikos piliečiai turi teisę įsigyti privatizuojamos įmonės „Lietuvos valstybinė energetikos sistema“ (kodas – 2055155) akcijų tokiomis pat sąlygomis, kurios nustatytos Lietuvos Respublikos įstatyme „Dėl darbuotojų pirmenybės įsigyti privatizuojamų įmonių akcijų“ (Žin., 1992, Nr. 12-310; 1993, Nr. 5-91, Nr. 6-112; 1994, Nr. 32-569, Nr. 45-828).
+Ignalinos valstybinės atominės elektrinės darbuotojai Lietuvos Respublikos piliečiai turi teisę įsigyti privatizuojamos įmonės „Lietuvos valstybinė energetikos sistema“ (kodas – 2055155) akcijų tokiomis pat sąlygomis, kurios nustatytos Lietuvos Respublikos įstatyme [„Dėl darbuotojų pirmenybės įsigyti privatizuojamų įmonių akcijų“](https://e-tar.lt/portal/lt/legalAct/TAR.DD1D02F5D6AD) (Žin., 1992, Nr. 12-310; 1993, Nr. 5-91, Nr. 6-112; 1994, Nr. 32-569, Nr. 45-828).
 
 
 

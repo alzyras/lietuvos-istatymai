@@ -149,7 +149,7 @@ Papildyti 19 straipsnį 6 dalimi:
 ### 6 straipsnis. Įstatymo įsigaliojimas ^s-5376b22756cbe3e52153ce08
 
 
-1. Šis įstatymas, išskyrus [[#^s-3e0d4385a2b8b1a1697f947a|1 straipsnio]] 1 ir [[#^s-e785463cb811b13c532f2a78|2 dalis]] ir [[#^s-b98ed9acb07b6d83100de7da|3 straipsnio 1 dalį]], įsigalioja 2010 m. liepos 1 d. ^s-d2ea65e84ce64763c67f2d4f
+1. Šis įstatymas, išskyrus [[#^s-3e0d4385a2b8b1a1697f947a|1 straipsnio]] [[#^s-e3d226b8273b1655efbd6508|1]] ir [[#^s-715b86536c8e60a3d2d9b947|2]] dalis ir [[#^s-b98ed9acb07b6d83100de7da|3 straipsnio 1 dalį]], įsigalioja 2010 m. liepos 1 d. ^s-d2ea65e84ce64763c67f2d4f
 
 
 2. Šio įstatymo [[#^s-e3d226b8273b1655efbd6508|1 straipsnio 1 dalis]] įsigalioja 2010 m. liepos 1 d. ir galioja iki 2011 m. gruodžio 31 d. ^s-e785463cb811b13c532f2a78

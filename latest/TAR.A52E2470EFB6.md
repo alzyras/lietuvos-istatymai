@@ -77,7 +77,7 @@ Vilnius
 3) krūmai sodinami ne mažesniu kaip 1 m atstumu nuo sklypo ribos; ^s-78fb2af13fb55224723aa935
 
 
-4) mažesniais, negu nurodyta šios dalies 1, 2 ir [[#^s-78fb2af13fb55224723aa935|3 punktuose]], atstumais sodiniai gali būti sodinami turint rašytinį kaimyninio sklypo savininko sutikimą.“ ^s-6fc630f94f0df231b32ee1d8
+4) mažesniais, negu nurodyta šios dalies [[#^s-cc49c05c295f81bfb3e18a4a|1]], [[#^s-fd855e9ee50a676303b72754|2]] ir [[#^s-78fb2af13fb55224723aa935|3]] punktuose, atstumais sodiniai gali būti sodinami turint rašytinį kaimyninio sklypo savininko sutikimą.“ ^s-6fc630f94f0df231b32ee1d8
 
 
 4. Pakeisti 6 straipsnio 6 dalį ir ją išdėstyti taip: ^s-2aa8de72d6a8b48e0cd54e4a
@@ -116,17 +116,17 @@ Vilnius
 „9. Šio straipsnio 7 dalyje nurodyti rodikliai gali būti viršyti tik tuo atveju, jeigu yra patvirtinti atitinkami teritorijų planavimo dokumentai.“
 
 
-8. Buvusias 6 straipsnio 7 ir [[#^s-b5995ac7bb484692b1c9e0d9|8 dalis]] laikyti atitinkamai 10 ir 11 dalimis. ^s-b5995ac7bb484692b1c9e0d9
+8. Buvusias 6 straipsnio 7 ir 8 dalis laikyti atitinkamai 10 ir 11 dalimis. ^s-b5995ac7bb484692b1c9e0d9
 
 
 
 ### 2 straipsnis. Įstatymo įsigaliojimas ^s-5e1423f90911dde51ee5a313
 
 
-1. Šis įstatymas, išskyrus [[#^s-743e2e79d206e4b729cef3c3|1 straipsnio]] 5, 6, 7 ir 8 dalis, įsigalioja 2010 m. spalio 1 d. ^s-6a9a3422f122cd7dfbf04af5
+1. Šis įstatymas, išskyrus [[#^s-743e2e79d206e4b729cef3c3|1 straipsnio]] [[#^s-792e138a373baa293433bb29|5]], [[#^s-a107fdf5342d1771f2826583|6]], [[#^s-836c5828628d11d986f5e360|7]] ir [[#^s-b5995ac7bb484692b1c9e0d9|8]] dalis, įsigalioja 2010 m. spalio 1 d. ^s-6a9a3422f122cd7dfbf04af5
 
 
-2. Šio įstatymo [[#^s-743e2e79d206e4b729cef3c3|1 straipsnio]] 5, 6, 7 ir 8 dalys įsigalioja 2012 m. liepos 1 d. ^s-fd02612313c9c6cd19c53194
+2. Šio įstatymo [[#^s-743e2e79d206e4b729cef3c3|1 straipsnio]] [[#^s-792e138a373baa293433bb29|5]], [[#^s-a107fdf5342d1771f2826583|6]], [[#^s-836c5828628d11d986f5e360|7]] ir [[#^s-b5995ac7bb484692b1c9e0d9|8]] dalys įsigalioja 2012 m. liepos 1 d. ^s-fd02612313c9c6cd19c53194
 
 
 

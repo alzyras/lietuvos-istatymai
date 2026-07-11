@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.CA0F08EF687E#^s-8841cb391efb66e98e0695a8|Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymas]] - 2 citatos - VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.CA0F08EF687E#^s-c5bcb0536e3ab86111a43935|Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymas]] - 2 citatos - VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.CA0F08EF687E#^s-8841cb391efb66e98e0695a8|Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatymas]] - VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS

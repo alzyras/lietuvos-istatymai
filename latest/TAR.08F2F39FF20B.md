@@ -62,19 +62,19 @@ BENDROSIOS NUOSTATOS
 ### 2 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-ef21bb12e406aed37c344fcc
 
 
-1. Cirkas – kaip apibrėžiama 2005 m. spalio 21 d. Komisijos reglamento (EB) Nr. 1739/2005, nustatančio gyvūnų sveikatos reikalavimus cirko gyvūnų judėjimui tarp šalių narių, 2 straipsnio 1 punkte. ^s-9253812b410723883583e480
+1. Cirkas – kaip apibrėžiama 2005 m. spalio 21 d. Komisijos [reglamento (EB) Nr. 1739/2005](https://eur-lex.europa.eu/eli/reg/1739/2005/oj), nustatančio gyvūnų sveikatos reikalavimus cirko gyvūnų judėjimui tarp šalių narių, 2 straipsnio 1 punkte. ^s-9253812b410723883583e480
 
 
 2. Domestikuotas gyvūnas – gyvūnas, kuris per vykdytą selektyvaus veisimo procesą yra įgijęs genetinių pasikeitimų, modifikavusių jo išvaizdą, fiziologiją ir elgesį. ^s-118de20cdf3f672d92cfbe14
 
 
-3. Ekosisteminės paslaugos – ši sąvoka atitinka Reglamento (ES) Nr. 1143/2014 3 straipsnio 6 punkte apibrėžtą sąvoką „ekosistemų funkcijos“. ^s-67882271015b62c62ad8066f
+3. Ekosisteminės paslaugos – ši sąvoka atitinka [Reglamento (ES) Nr. 1143/2014 3 straipsnio](https://eur-lex.europa.eu/eli/reg/1143/2014/art_3/oj) 6 punkte apibrėžtą sąvoką „ekosistemų funkcijos“. ^s-67882271015b62c62ad8066f
 
 
 4. Epizootija – staigus gyvūnų užkrečiamosios ligos išplitimas atskirame ūkininko ūkyje ar didesnėje teritorijoje (visoje šalyje ar jos dalyje). ^s-8d8eb1a63b1e4cd6d80573dd
 
 
-5. Invazinė rūšis – ši sąvoka atitinka Reglamento (ES) Nr. 1143/2014 3 straipsnio 2 punkte apibrėžtą sąvoką „invazinės svetimos rūšys“. ^s-9a5da7b813b65afa40b8a536
+5. Invazinė rūšis – ši sąvoka atitinka [Reglamento (ES) Nr. 1143/2014 3 straipsnio](https://eur-lex.europa.eu/eli/reg/1143/2014/art_3/oj) 2 punkte apibrėžtą sąvoką „invazinės svetimos rūšys“. ^s-9a5da7b813b65afa40b8a536
 
 
 6. Iškamša – techninėmis priemonėmis atkurta gyvūno ar jo dalių anatominė forma naudojant gyvūno kailį ar odą. ^s-a1f592f802a2b763e7d78d4c
@@ -116,13 +116,13 @@ BENDROSIOS NUOSTATOS
 18. Prekyba laukiniais gyvūnais – laukinių gyvūnų, jų dalių ar gaminių iš jų pirkimas, pardavimas, supirkimas, nuoma, mainai, siūlymas parduoti arba kitas veiksmas, kurį galima prilyginti išvardytiems, įskaitant reklamavimą arba parduoti skatinančio veiksmo skelbimą ir kvietimą tartis, laikymas prekybai, vežimas komerciniais tikslais, įvežimas į Lietuvos Respubliką (įskaitant ir įvežimą iš jūros) iš Europos Sąjungai nepriklausančių šalių arba išvežimas iš Lietuvos Respublikos į Europos Sąjungai nepriklausančias šalis, vežimas tranzitu per Lietuvos Respublikos teritoriją, viešas eksponavimas siekiant gauti pajamų, viešų vietų puošimas laukiniais gyvūnais, jų dalimis ar gaminiais iš jų. ^s-957512ba692c8b530bda3c17
 
 
-19. Svetimžemė gyvūnų rūšis – ši sąvoka atitinka Reglamento (ES) Nr. 1143/2014 3 straipsnio 1 punkte apibrėžtą sąvoką „svetimos rūšys“. ^s-ff9eb9153919386f5a653502
+19. Svetimžemė gyvūnų rūšis – ši sąvoka atitinka [Reglamento (ES) Nr. 1143/2014 3 straipsnio](https://eur-lex.europa.eu/eli/reg/1143/2014/art_3/oj) 1 punkte apibrėžtą sąvoką „svetimos rūšys“. ^s-ff9eb9153919386f5a653502
 
 
 20. Zoologijos sodas – vieta su nuolatiniais įrenginiais, specialiomis patalpomis, kuriose nuolat laikomi ir visuomenei ne mažiau kaip septynias dienas per metus eksponuojami gyvi laukiniai gyvūnai, išskyrus cirkus, gyvūnų augintinių parduotuves, taip pat vietas, kuriose asmenys visuomenei eksponuoja ne daugiau kaip 20 rūšių laukinius žinduolius arba ne daugiau kaip 30 rūšių kitus laukinius gyvūnus, ir tai nekelia grėsmės laukinės gyvūnijos ir biologinės įvairovės išsaugojimui. Atvejai, kai laukinių gyvūnų eksponavimas kelia grėsmę biologinei įvairovei, nustatomi Leidimų zoologijos sodams įkurti išdavimo ir zoologijos sodų kontrolės tvarkos apraše. ^s-2f34ff6ce64f775929c38a4f
 
 
-21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatyme]], [[latest/TAR.8DDDD8D87491|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme]], [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatyme]], [[latest/TAR.80CA64E588A1|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme]], [[latest/TAR.A92E17FDCD13|Medžioklės įstatyme]], [[latest/TAR.11BAD851321B|Mėgėjų žvejybos įstatyme]], [[latest/TAR.1746D2A4EFB9|Saugomų gyvūnų, augalų ir grybų rūšių įstatyme]], [[latest/TAR.D22016A0EC70|Žuvininkystės įstatyme]], Reglamente (ES) Nr. 1143/2014, 2006 m. gegužės 4 d. Komisijos reglamente (EB) Nr. 865/2006, nustatančiame išsamias Tarybos reglamento (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą įgyvendinimo taisykles, su paskutiniais pakeitimais, padarytais 2019 m. vasario 6 d. Komisijos reglamentu (ES) Nr. 2019/220 (toliau – Reglamentas (EB) Nr. 865/2006), ir 1996 m. gruodžio 9 d. Tarybos reglamente (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 29 d. Komisijos reglamentu (ES) Nr. 2019/2117 (toliau – Reglamentas (EB) Nr. 338/97). ^s-955c072aa72eed42527b4374
+21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatyme]], [[latest/TAR.8DDDD8D87491|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme]], [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatyme]], [[latest/TAR.80CA64E588A1|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme]], [[latest/TAR.A92E17FDCD13|Medžioklės įstatyme]], [[latest/TAR.11BAD851321B|Mėgėjų žvejybos įstatyme]], [[latest/TAR.1746D2A4EFB9|Saugomų gyvūnų, augalų ir grybų rūšių įstatyme]], [[latest/TAR.D22016A0EC70|Žuvininkystės įstatyme]], [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj), 2006 m. gegužės 4 d. Komisijos reglamente (EB) Nr. 865/2006, nustatančiame išsamias Tarybos reglamento (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą įgyvendinimo taisykles, su paskutiniais pakeitimais, padarytais 2019 m. vasario 6 d. Komisijos [reglamentu (ES) Nr. 2019/220](https://eur-lex.europa.eu/eli/reg/2019/220/oj) (toliau – Reglamentas (EB) Nr. 865/2006), ir 1996 m. gruodžio 9 d. Tarybos reglamente (EB) Nr. 338/97 dėl laukinės faunos ir floros rūšių apsaugos kontroliuojant jų prekybą su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 29 d. Komisijos [reglamentu (ES) Nr. 2019/2117](https://eur-lex.europa.eu/eli/reg/2019/2117/oj) (toliau – Reglamentas (EB) Nr. 338/97). ^s-955c072aa72eed42527b4374
 
 
 
@@ -241,7 +241,7 @@ LAUKINĖS GYVŪNIJOS IŠTEKLIŲ NAUDOJIMAS IR APSAUGA
 4) nedelsdami pranešti policijai ir Aplinkos ministerijos įgaliotai institucijai, vykdančiai laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinę kontrolę, apie kiekvieną nelaisvėje laikytą ir į laisvę ištrūkusį laukinį gyvūną ar hibridą; ^s-30c8c32737d2eb48f98984a6
 
 
-5) savo lėšomis organizuoti gyvūnų sugavimą, nužudymą ar sumedžiojimą, jeigu tai būtina pagal šio įstatymo [[#^s-b1d657289f43a66c55315188|21 straipsnio]] 1 ir [[#^s-c7bd645696cf0585372a62dd|2 dalių]] reikalavimus. ^s-f3d71d8470c83c614f343bca
+5) savo lėšomis organizuoti gyvūnų sugavimą, nužudymą ar sumedžiojimą, jeigu tai būtina pagal šio įstatymo [[#^s-b1d657289f43a66c55315188|21 straipsnio]] [[#^s-c4167517140d937916b3c7a3|1]] ir [[#^s-8b4d9ba6432fbb0fb69b97c8|2]] dalių reikalavimus. ^s-f3d71d8470c83c614f343bca
 
 
 
@@ -297,7 +297,7 @@ LAUKINĖS GYVŪNIJOS IŠTEKLIŲ NAUDOJIMAS IR APSAUGA
 
 
 6. Draudžiama naudoti laukinių žinduolių, paukščių, roplių ir varliagyvių rūšių gyvūnus cirkuose, išskyrus atvejus, kai cirkuose demonstruojami ir (arba) naudojami triukus ir manevrus atliekantys šių rūšių laukiniai gyvūnai priskiriami rūšims, įrašytoms į Laukinių gyvūnų naudojimo taisyklėse nurodytą sąrašą. Šis sąrašas sudaromas atsižvelgiant į [[#^s-5c00db5ea35227f5be0fe2bf|šio straipsnio 2 dalyje]] nustatytus kriterijus. ^s-02597371a3fc5740e47a084b
-TAR pastaba. [[#^s-02597371a3fc5740e47a084b|6 straipsnio 6 dalis]] įsigalioja 2021 m. lapkričio 1 d.
+TAR pastaba. 6 straipsnio 6 dalis įsigalioja 2021 m. lapkričio 1 d.
 
 
 
@@ -519,7 +519,7 @@ c) tveriant tvoras pakrantės apsaugos juostoje pažeidžiant [[latest/420f4dd09
 6) kai aptvaras, voljeras ar kitas statinys įrengtas aptveriant miško žemę, laikyti ne mažiau laukinių gyvūnų aptverto miško žemės ploto vienete, negu nurodyta Laukinių gyvūnų naudojimo taisyklėse; ^s-e5f73edf1d7cb4d00f0d4425
 
 
-7) nugaišusius laukinius gyvūnus tvarkyti vadovaujantis 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1069/2009, kuriuo nustatomos žmonėms vartoti neskirtų šalutinių gyvūninių produktų ir jų gaminių sveikumo taisyklės ir panaikinamas reglamentas (EB) Nr. 1774/2002 (toliau – Reglamentas (EB) Nr. 1069/2009); ^s-5e8f45d61ac16c764b2e38af
+7) nugaišusius laukinius gyvūnus tvarkyti vadovaujantis 2009 m. spalio 21 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1069/2009](https://eur-lex.europa.eu/eli/reg/1069/2009/oj), kuriuo nustatomos žmonėms vartoti neskirtų šalutinių gyvūninių produktų ir jų gaminių sveikumo taisyklės ir panaikinamas [reglamentas (EB) Nr. 1774/2002](https://eur-lex.europa.eu/eli/reg/1774/2002/oj) (toliau – [Reglamentas (EB) Nr. 1069/2009](https://eur-lex.europa.eu/eli/reg/1069/2009/oj)); ^s-5e8f45d61ac16c764b2e38af
 
 
 8) Aplinkos ministerijos įgaliotai institucijai, vykdančiai laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinę kontrolę, pareikalavus, prieš patikrinimą ar patikrinimo metu pateikti visus dokumentus, susijusius su laukinių gyvūnų laikymu ir teisėtu įsigijimu, jeigu šių dokumentų leidimo laikyti nelaisvėje laukinius gyvūnus turėtojas nėra pateikęs kitam priežiūrą atliekančiam subjektui; ^s-2062ee46797081d82e8dbe0e
@@ -770,7 +770,7 @@ Nr. XIV-2486, 2024-03-14, paskelbta TAR 2024-03-21, i. k. 2024-05114
 7. Jeigu iš anksto negalima nustatyti, kur ir (arba) kokių rūšių laukiniai gyvūnai bus naudojami, leidime naudoti laukinius gyvūnus gali būti nenurodomos konkrečios laukinių gyvūnų rūšys, kurias leidžiama naudoti, ir naudojimo vietos. Tokiu atveju leidimo naudoti laukinius gyvūnus papildomų sąlygų skiltyje iš anksto aptariamos naudojimo sąlygos; nustatomi draudimai dėl laukinių gyvūnų naudojimo terminų ir vietų; dėl laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinę kontrolę vykdančios Aplinkos ministerijos įgaliotos institucijos informavimo apie laukinių gyvūnų paėmimo iš aplinkos vietas, laiką ir būdus; dėl medžioklės plotų naudotojų informavimo apie laukinių gyvūnų paėmimo iš aplinkos vietas, laiką ir būdus; dėl laukinių gyvūnų tyčinio trikdymo ar paėmimo iš aplinkos vietų, laiko, būdų ir skaičiaus suderinimo su saugomos teritorijos direkcija, jeigu planuojama naudoti laukinius gyvūnus šioje saugomoje teritorijoje ar šios saugomos teritorijos direkcijai priskirtoje saugomoje teritorijoje. ^s-4ef7d8662bee48b2c603dc60
 
 
-8. Derindama laukinių gyvūnų tyčinio trikdymo ar paėmimo iš aplinkos vietas, laiką ir būdus [[#^s-4ef7d8662bee48b2c603dc60|šio straipsnio 7 dalyje]] ir šio įstatymo [[#^s-4e812720734d7015896a673b|15 straipsnio 2 punkte]] nurodytais atvejais, saugomos teritorijos direkcija priima sprendimą nepritarti laukinių gyvūnų paėmimui iš buveinių arba jų tyčiniam trikdymui (dėl tyčinio trikdymo ar paėmimo iš aplinkos būdo, vietos, laiko ir skaičiaus) saugomoje teritorijoje ar jos dalyje, kai ši veikla prieštarauja veiklą saugomoje teritorijoje reglamentuojantiems dokumentams arba turės neigiamą poveikį saugomoms rūšims ar jų buveinėms. Saugomos teritorijos direkcijai priėmus sprendimą nepritarti laukinių gyvūnų paėmimo iš aplinkos arba jų tyčinio trikdymo sąlygoms (dėl tyčinio trikdymo ar paėmimo iš aplinkos būdo, vietos, laiko ir skaičiaus), laukinius gyvūnus trikdyti ar paimti iš aplinkos saugomoje teritorijoje ar jos dalyje draudžiama. ^s-ad74ad02e90ed7c2d69282e2
+8. Derindama laukinių gyvūnų tyčinio trikdymo ar paėmimo iš aplinkos vietas, laiką ir būdus [[#^s-4ef7d8662bee48b2c603dc60|šio straipsnio 7 dalyje]] ir šio įstatymo 15 straipsnio 2 punkte nurodytais atvejais, saugomos teritorijos direkcija priima sprendimą nepritarti laukinių gyvūnų paėmimui iš buveinių arba jų tyčiniam trikdymui (dėl tyčinio trikdymo ar paėmimo iš aplinkos būdo, vietos, laiko ir skaičiaus) saugomoje teritorijoje ar jos dalyje, kai ši veikla prieštarauja veiklą saugomoje teritorijoje reglamentuojantiems dokumentams arba turės neigiamą poveikį saugomoms rūšims ar jų buveinėms. Saugomos teritorijos direkcijai priėmus sprendimą nepritarti laukinių gyvūnų paėmimo iš aplinkos arba jų tyčinio trikdymo sąlygoms (dėl tyčinio trikdymo ar paėmimo iš aplinkos būdo, vietos, laiko ir skaičiaus), laukinius gyvūnus trikdyti ar paimti iš aplinkos saugomoje teritorijoje ar jos dalyje draudžiama. ^s-ad74ad02e90ed7c2d69282e2
 
 
 9. Leidimas naudoti laukinius gyvūnus išduodamas arba rašytinis atsisakymas išduoti leidimą naudoti laukinius gyvūnus asmeniui pateikiamas ne vėliau kaip per 30 kalendorinių dienų nuo prašymo, visų tinkamai įformintų dokumentų ir informacijos, reikalingų išduoti leidimą naudoti laukinius gyvūnus, gavimo dienos. ^s-f4ff286427645709d5bc6cdb
@@ -850,7 +850,7 @@ Leidimo naudoti laukinius gyvūnus turėtojo pareigos:
 4) leisti laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinę kontrolę vykdančiai Aplinkos ministerijos įgaliotai institucijai patikrinti ar apžiūrėti gamybines patalpas, šaldytuvus, turimus gyvūnus, iškamšas ir kaupiamą informaciją apie pagamintas iškamšas; ^s-be41a18763541ed63bb6b900
 
 
-5) tvarkant šalutinius gyvūninius produktus, laikytis Reglamento (EB) Nr. 1069/2009 reikalavimų. ^s-8d6cda6e5c49003d0cc0ebd0
+5) tvarkant šalutinius gyvūninius produktus, laikytis [Reglamento (EB) Nr. 1069/2009](https://eur-lex.europa.eu/eli/reg/1069/2009/oj) reikalavimų. ^s-8d6cda6e5c49003d0cc0ebd0
 
 
 4. Komerciniais tikslais iškamšos eksponuojamos ar kitaip naudojamos vadovaujantis Prekybos laukiniais gyvūnais, augalais ir grybais taisyklėse nustatytais reikalavimais. ^s-5522491d8789361ac993d1a1
@@ -941,7 +941,7 @@ Leidimo naudoti laukinius gyvūnus turėtojo pareigos:
 17. Laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinę kontrolę vykdanti Aplinkos ministerijos įgaliota institucija sprendimą dėl draudimo įleisti lankytojus į zoologijos sodą arba į jo dalį panaikina, jeigu leidimo įkurti zoologijos sodą turėtojas pašalina nustatytus pažeidimus, dėl kurių buvo priimtas sprendimas dėl draudimo įleisti lankytojus į zoologijos sodą arba į jo dalį per šio straipsnio 14 ir (ar) 15, ir (ar) [[#^s-211ff3318ce8cc415a1acba3|16 dalyse]] nurodytus terminus. ^s-7a9f19c789cd8036ff48fd50
 
 
-18. Jeigu leidimo įkurti zoologijos sodą turėtojas nepašalina patikrinimo metu zoologijos sodo dalyje nustatytų pažeidimų dėl [[#^s-710c02a4291b3d6f645cf1c4|šio straipsnio 12 dalies]] 2, 7 ir 8 punktuose nurodytų zoologijos sodams privalomų įgyvendinti priemonių ir reikalavimų nevykdymo per nustatytą ne ilgesnį kaip 2 metų terminą skaičiuojant nuo pažeidimo nustatymo dienos arba jeigu per šio straipsnio 15 ir [[#^s-211ff3318ce8cc415a1acba3|16 dalyse]] nurodytus terminus zoologijos sodo dalyje nepašalinami [[#^s-710c02a4291b3d6f645cf1c4|šio straipsnio 12 dalies]] 3, 4, 5 ir 6 punktuose nurodytų reikalavimų pažeidimai, laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinę kontrolę vykdanti Aplinkos ministerijos įgaliota institucija priima sprendimą dėl zoologijos sodo dalies uždarymo ir įpareigoja zoologijos sodo dalį uždaryti per nustatytą ne ilgesnį kaip 8 mėnesių terminą. Terminas pažeidimams pašalinti skaičiuojamas nuo pažeidimo nustatymo dienos. ^s-2a56c8d1408eb02315e77d0d
+18. Jeigu leidimo įkurti zoologijos sodą turėtojas nepašalina patikrinimo metu zoologijos sodo dalyje nustatytų pažeidimų dėl [[#^s-710c02a4291b3d6f645cf1c4|šio straipsnio 12 dalies]] 2, 7 ir 8 punktuose nurodytų zoologijos sodams privalomų įgyvendinti priemonių ir reikalavimų nevykdymo per nustatytą ne ilgesnį kaip 2 metų terminą skaičiuojant nuo pažeidimo nustatymo dienos arba jeigu per šio straipsnio [[#^s-60fdb3fc7c92feb84e6760a2|15]] ir [[#^s-211ff3318ce8cc415a1acba3|16]] dalyse nurodytus terminus zoologijos sodo dalyje nepašalinami [[#^s-710c02a4291b3d6f645cf1c4|šio straipsnio 12 dalies]] 3, 4, 5 ir 6 punktuose nurodytų reikalavimų pažeidimai, laukinės gyvūnijos apsaugos ir laukinės gyvūnijos išteklių naudojimo valstybinę kontrolę vykdanti Aplinkos ministerijos įgaliota institucija priima sprendimą dėl zoologijos sodo dalies uždarymo ir įpareigoja zoologijos sodo dalį uždaryti per nustatytą ne ilgesnį kaip 8 mėnesių terminą. Terminas pažeidimams pašalinti skaičiuojamas nuo pažeidimo nustatymo dienos. ^s-2a56c8d1408eb02315e77d0d
 
 
 19. Aplinkos ministerijos įgaliota institucija leidimo įkurti zoologijos sodą galiojimą panaikina, jeigu yra nors viena iš šių sąlygų: ^s-edd335bd66486a7f54644928
@@ -959,7 +959,7 @@ Leidimo naudoti laukinius gyvūnus turėtojo pareigos:
 4) Valstybinė maisto ir veterinarijos tarnyba nustato gyvūnų užkrečiamąją ligą, dėl kurios išplitimo rizikos nurodytoje teritorijoje negalėtų būti laikomi tam tikrų rūšių laukiniai gyvūnai, ir gyvūnai nepašalinami iš zoologijos sodo per nustatytą terminą; ^s-2a54c304fa575099d385d6d9
 
 
-5) jeigu, skaičiuojant nuo pažeidimo nustatymo dienos, per nustatytą ne ilgesnį kaip 2 metų laikotarpį nepašalinami visame zoologijos sode nustatyti pažeidimai dėl [[#^s-710c02a4291b3d6f645cf1c4|šio straipsnio 12 dalies]] 1, 2, 7 ir 8 punktuose nurodytų zoologijos sodams privalomų įgyvendinti priemonių ir reikalavimų arba jeigu per šio straipsnio 15 ir [[#^s-211ff3318ce8cc415a1acba3|16 dalyse]] nurodytus terminus nepašalinami visame zoologijos sode [[#^s-710c02a4291b3d6f645cf1c4|šio straipsnio 12 dalies]] 3, 4, 5 ir [[#^s-c2de3901931ea621194804c1|6 punktuose]] nurodytų reikalavimų pažeidimai; ^s-c4077b42c13994e954fd3751
+5) jeigu, skaičiuojant nuo pažeidimo nustatymo dienos, per nustatytą ne ilgesnį kaip 2 metų laikotarpį nepašalinami visame zoologijos sode nustatyti pažeidimai dėl [[#^s-710c02a4291b3d6f645cf1c4|šio straipsnio 12 dalies]] [[#^s-8f2a991f063180878d79427f|1]], [[#^s-8c12f5693653370a3a729b9c|2]], 7 ir 8 punktuose nurodytų zoologijos sodams privalomų įgyvendinti priemonių ir reikalavimų arba jeigu per šio straipsnio [[#^s-60fdb3fc7c92feb84e6760a2|15]] ir [[#^s-211ff3318ce8cc415a1acba3|16]] dalyse nurodytus terminus nepašalinami visame zoologijos sode [[#^s-710c02a4291b3d6f645cf1c4|šio straipsnio 12 dalies]] [[#^s-1452ac43a5d5501b4438f107|3]], [[#^s-2a54c304fa575099d385d6d9|4]], 5 ir [[#^s-c2de3901931ea621194804c1|6]] punktuose nurodytų reikalavimų pažeidimai; ^s-c4077b42c13994e954fd3751
 
 
 6) leidimui įkurti zoologijos sodą išduoti asmuo pateikė suklastotus duomenis ir dokumentus. ^s-c2de3901931ea621194804c1
@@ -1293,19 +1293,19 @@ Leidimo introdukuoti ar reintrodukuoti turėtojo pareigos:
 2. Invazines rūšis draudžiama tyčia paleisti į laisvę, introdukuoti, reintrodukuoti, perkelti ir įkurdinti aplinkoje. ^s-b0c8eef9be516770ac0e2d88
 
 
-3. Kai remiantis šio įstatymo [[#^s-5c00db5ea35227f5be0fe2bf|6 straipsnio 2 dalyje]] nurodytais kriterijais nustatoma, kad tam tikrų svetimžemių rūšių gyvūnai, ištrūkę į laisvę, galėtų sukelti invazijų į natūralias ekosistemas ir jų sutrikdymo pavojų, keltų grėsmę žmonių sveikatai, kitiems gyvūnams ar augalams, tam tikrų rūšių laukinių gyvūnų laikymas, veisimas, platinimas, įvežimas į Lietuvos Respubliką, išvežimas iš Lietuvos Respublikos, vežimas per Lietuvos Respublikos teritoriją, pateikimas rinkai, mainymas, prekiavimas jomis ir kitoks naudojimas gali būti ribojamas arba draudžiamas. Invazinių rūšių naudojimo ribojimai ir draudimai bei draudimams taikomos išimtys nurodytos Invazinių rūšių valdymo ir naikinimo tvarkos apraše. Šias rūšis veisti, laikyti, platinti, pateikti rinkai, prekiauti jomis ir naudoti leidžiama laikantis Reglamento (ES) Nr. 1143/2014 ir Invazinių rūšių valdymo ir naikinimo tvarkos aprašo reikalavimų. ^s-8ace0da7907d38d6960e26dc
+3. Kai remiantis šio įstatymo [[#^s-5c00db5ea35227f5be0fe2bf|6 straipsnio 2 dalyje]] nurodytais kriterijais nustatoma, kad tam tikrų svetimžemių rūšių gyvūnai, ištrūkę į laisvę, galėtų sukelti invazijų į natūralias ekosistemas ir jų sutrikdymo pavojų, keltų grėsmę žmonių sveikatai, kitiems gyvūnams ar augalams, tam tikrų rūšių laukinių gyvūnų laikymas, veisimas, platinimas, įvežimas į Lietuvos Respubliką, išvežimas iš Lietuvos Respublikos, vežimas per Lietuvos Respublikos teritoriją, pateikimas rinkai, mainymas, prekiavimas jomis ir kitoks naudojimas gali būti ribojamas arba draudžiamas. Invazinių rūšių naudojimo ribojimai ir draudimai bei draudimams taikomos išimtys nurodytos Invazinių rūšių valdymo ir naikinimo tvarkos apraše. Šias rūšis veisti, laikyti, platinti, pateikti rinkai, prekiauti jomis ir naudoti leidžiama laikantis [Reglamento (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) ir Invazinių rūšių valdymo ir naikinimo tvarkos aprašo reikalavimų. ^s-8ace0da7907d38d6960e26dc
 
 
 4. Visuomenės ir atskirų subjektų informavimą apie tam tikrų svetimžemių gyvūnų rūšių laikymo, veisimo, platinimo, įvežimo į Lietuvos Respubliką, išvežimo iš Lietuvos Respublikos, vežimo per Lietuvos Respublikos teritoriją, pateikimo rinkai, mainymo, prekiavimo jomis ir kitokio naudojimo ribojimus ar draudimus organizuoja ir koordinuoja Aplinkos ministerija ir (ar) jos įgaliotos institucijos. ^s-9d5b1c2f79eaa98affe9b788
 
 
-5. Jeigu invazinė rūšis įtraukta ir į Invazinių Lietuvoje rūšių sąrašą, ir į Reglamente (ES) Nr. 1143/2014 nurodytą Sąjungai susirūpinimą keliančių invazinių rūšių sąrašą (toliau – Sąjungos sąrašas), taikomos Reglamento (ES) Nr. 1143/2014 ir šio įstatymo nuostatos, reglamentuojančios į Sąjungos sąrašą įtrauktų invazinių rūšių naudojimą. ^s-3e0758bc78e96db6bd01290c
+5. Jeigu invazinė rūšis įtraukta ir į Invazinių Lietuvoje rūšių sąrašą, ir į [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) nurodytą Sąjungai susirūpinimą keliančių invazinių rūšių sąrašą (toliau – Sąjungos sąrašas), taikomos [Reglamento (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) ir šio įstatymo nuostatos, reglamentuojančios į Sąjungos sąrašą įtrauktų invazinių rūšių naudojimą. ^s-3e0758bc78e96db6bd01290c
 
 
 6. Aplinkos ministerija ar jos įgaliota institucija priima sprendimus dėl invazinių rūšių plitimo prevencijos ir valdymo priemonių, nustato įpareigojimus vandens telkinių, žemės savininkams, naudotojams ir valdytojams dėl atskirų invazinių rūšių, kurios nurodomos Invazinių rūšių valdymo ir naikinimo tvarkos apraše, naikinimo priemonių, kuriomis siekiama užtikrinti, kad invazinės rūšys neplistų į gretimus sklypus ar vandens telkinius, įgyvendinimo. Įpareigojimai dėl atskirų invazinių rūšių naikinimo priemonių įgyvendinimo nustatomi atsižvelgiant į šių rūšių daromą neigiamą poveikį biologinei įvairovei, žmonių sveikatai, plitimo ypatumus ir į naikinimo priemonių veiksmingumą. ^s-91dbf1c5c3720802757acfe4
 
 
-7. Naudoti invazines rūšis (gyvus gyvūnus), kurios įrašytos į Invazinių Lietuvoje rūšių sąrašą ir neįtrauktos į Reglamente (ES) Nr. 1143/2014 nurodytą Sąjungos sąrašą, leidžiama: ^s-fe50796a2c635e156be522d6
+7. Naudoti invazines rūšis (gyvus gyvūnus), kurios įrašytos į Invazinių Lietuvoje rūšių sąrašą ir neįtrauktos į [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) nurodytą Sąjungos sąrašą, leidžiama: ^s-fe50796a2c635e156be522d6
 
 
 1) kai jos laikomos turint leidimą įkurti zoologijos sodą, nurodytą šio įstatymo [[#^s-1fe99f2a3ab6a0d6e1857b5f|17 straipsnyje]]; ^s-22e917838ff33f0f2b52e12e
@@ -1326,7 +1326,7 @@ Leidimo introdukuoti ar reintrodukuoti turėtojo pareigos:
 8. Invazinių rūšių gyvūnai, Medžioklės Lietuvos Respublikos teritorijoje taisyklėse priskirti medžiojamiesiems gyvūnams, medžiojami vadovaujantis šiomis taisyklėmis ir [[latest/TAR.A92E17FDCD13|Medžioklės įstatymu]]. ^s-023b5359bfaac9de5db78e76
 
 
-9. Aplinkos ministerija arba jos įgaliotos institucijos praneša Europos Komisijai ir kitoms Europos Sąjungos valstybėms narėms apie rūšių, įtrauktų į Sąjungos sąrašą, ankstyvą aptikimą ir likvidavimą, kaip nurodyta Reglamente (ES) Nr. 1143/2014, ir organizuoja šių rūšių likvidavimo priemonių taikymą Invazinių rūšių valdymo ir naikinimo tvarkos apraše nustatyta tvarka. ^s-fb82254f1a093a7bda2ae5df
+9. Aplinkos ministerija arba jos įgaliotos institucijos praneša Europos Komisijai ir kitoms Europos Sąjungos valstybėms narėms apie rūšių, įtrauktų į Sąjungos sąrašą, ankstyvą aptikimą ir likvidavimą, kaip nurodyta [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj), ir organizuoja šių rūšių likvidavimo priemonių taikymą Invazinių rūšių valdymo ir naikinimo tvarkos apraše nustatyta tvarka. ^s-fb82254f1a093a7bda2ae5df
 
 
 10. Uždaroje valdoje laikyti ir paplitę aplinkoje invazinių rūšių gyvūnai turi būti skubiai paimami iš aplinkos (sugauti, nužudomi arba sumedžiojami) laukinės gyvūnijos išteklių naudotojų lėšomis per Invazinių rūšių valdymo ir naikinimo tvarkos apraše nustatytą terminą. ^s-534cd429b02fd3541f5b5b72
@@ -1336,31 +1336,31 @@ Leidimo introdukuoti ar reintrodukuoti turėtojo pareigos:
 ### 25 straipsnis. Leidimo naudoti invazines rūšis išdavimas, galiojimo sustabdymas, galiojimo sustabdymo panaikinimas ir galiojimo panaikinimas ^s-62eec3d20db8dd435f517a31
 
 
-1. Vyriausybės įgaliota institucija išduoda šiuos Reglamente (ES) Nr. 1143/2014 nustatytus leidimus naudoti invazines rūšis, įrašytas į Sąjungos sąrašą (taip pat sustabdo jų galiojimą, panaikina galiojimo sustabdymą ir panaikina jų galiojimą) (toliau – leidimas naudoti invazines rūšis): ^s-78380523c2df674dfb0338fa
+1. Vyriausybės įgaliota institucija išduoda šiuos [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) nustatytus leidimus naudoti invazines rūšis, įrašytas į Sąjungos sąrašą (taip pat sustabdo jų galiojimą, panaikina galiojimo sustabdymą ir panaikina jų galiojimą) (toliau – leidimas naudoti invazines rūšis): ^s-78380523c2df674dfb0338fa
 
 
-1) Reglamento (ES) Nr. 1143/2014 [[#^s-76d7c378bb0b4ac60679d8a3|8 straipsnyje]] nurodytus leidimus naudoti invazines rūšis moksliniams tyrimams, ex situ išsaugojimui arba naudoti invazines rūšis medicinos tikslais, kai to reikia siekiant pažangos žmonių sveikatos srityje; ^s-8379d6656014d8692dcca28c
+1) [Reglamento (ES) Nr. 1143/2014 8 straipsnyje](https://eur-lex.europa.eu/eli/reg/1143/2014/art_8/oj) nurodytus leidimus naudoti invazines rūšis moksliniams tyrimams, ex situ išsaugojimui arba naudoti invazines rūšis medicinos tikslais, kai to reikia siekiant pažangos žmonių sveikatos srityje; ^s-8379d6656014d8692dcca28c
 
 
-2) Reglamento (ES) Nr. 1143/2014 [[#^s-bc0523c24c88df5e917d7361|9 straipsnyje]] nurodytus leidimus naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus. ^s-0eacf6d44d29cf8deedd43af
+2) [Reglamento (ES) Nr. 1143/2014 9 straipsnyje](https://eur-lex.europa.eu/eli/reg/1143/2014/art_9/oj) nurodytus leidimus naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus. ^s-0eacf6d44d29cf8deedd43af
 
 
-2. Leidimai naudoti invazines rūšis išduodami, jų galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir leidimo naudoti invazines rūšis galiojimas panaikinamas vadovaujantis Reglamentu (ES) Nr. 1143/2014 ir šio straipsnio nuostatomis. ^s-c2074dae3a04a0989fbf7652
+2. Leidimai naudoti invazines rūšis išduodami, jų galiojimas sustabdomas, galiojimo sustabdymas panaikinamas ir leidimo naudoti invazines rūšis galiojimas panaikinamas vadovaujantis [Reglamentu (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) ir šio straipsnio nuostatomis. ^s-c2074dae3a04a0989fbf7652
 
 
-3. Vyriausybės įgaliota institucija prie išduotų Leidimų naudoti invazines rūšis prideda 2016 m. vasario 4 d. Komisijos įgyvendinimo reglamente (ES) Nr. 2016/145, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (ES) Nr. 1143/2014 patvirtinamas formatas dokumento, laikomo įrodymu, kad kompetentingos valstybių narių valdžios institucijos išdavė leidimą įstaigoms vykdyti tam tikrą veiklą, susijusią su Sąjungai susirūpinimą keliančiomis invazinėmis svetimomis rūšimis, nurodytą dokumentą (toliau – leidimo įrodymas). Leidimo įrodymas visais atvejais pridedamas prie leidimo naudoti invazines rūšis ir prie šiame leidime naudoti invazines rūšis, nurodytas Sąjungos sąraše, egzempliorių ir yra neatsiejamas nuo leidimo naudoti invazines rūšis. ^s-403f93da837e4fc522533238
+3. Vyriausybės įgaliota institucija prie išduotų Leidimų naudoti invazines rūšis prideda 2016 m. vasario 4 d. Komisijos įgyvendinimo [reglamente (ES) Nr. 2016/145](https://eur-lex.europa.eu/eli/reg/2016/145/oj), kuriuo pagal Europos Parlamento ir Tarybos [reglamentą (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) patvirtinamas formatas dokumento, laikomo įrodymu, kad kompetentingos valstybių narių valdžios institucijos išdavė leidimą įstaigoms vykdyti tam tikrą veiklą, susijusią su Sąjungai susirūpinimą keliančiomis invazinėmis svetimomis rūšimis, nurodytą dokumentą (toliau – leidimo įrodymas). Leidimo įrodymas visais atvejais pridedamas prie leidimo naudoti invazines rūšis ir prie šiame leidime naudoti invazines rūšis, nurodytas Sąjungos sąraše, egzempliorių ir yra neatsiejamas nuo leidimo naudoti invazines rūšis. ^s-403f93da837e4fc522533238
 
 
 4. Vyriausybės įgaliota institucija prireikus kreipiasi į Žemės ūkio ministeriją ar jos įgaliotas institucijas ar į Valstybinę maisto ir veterinarijos tarnybą, kad šios pagal kompetenciją įvertintų leidimo naudoti invazines rūšis prašytojo pateiktą informaciją ir teiktų kitą informaciją, reikalingą pateikiant Europos Komisijai paraišką išduoti žemės ūkio veiklos subjektams leidimą naudoti invazines rūšis žemės ūkyje su socialinio ar ekonominio pobūdžio interesais susijusiais tikslais. ^s-d1c3e730c2296fa722bef06c
 
 
-5. Kartu su prašymu gauti leidimą naudoti invazines rūšis moksliniams tyrimams, ex situ išsaugojimui arba naudoti invazines rūšis medicinos tikslais, kai to reikia siekiant pažangos žmonių sveikatos srityje, pateikiami visi dokumentai ir informacija, nurodyti Reglamente (ES) Nr. 1143/2014. Kartu su prašymu gauti leidimą naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus, pateikiami visi dokumentai ir informacija, nurodyti Reglamente (ES) Nr. 1143/2014, reikalingais teikti paraišką Europos Komisijai. ^s-67df052e241bd3748594e5fd
+5. Kartu su prašymu gauti leidimą naudoti invazines rūšis moksliniams tyrimams, ex situ išsaugojimui arba naudoti invazines rūšis medicinos tikslais, kai to reikia siekiant pažangos žmonių sveikatos srityje, pateikiami visi dokumentai ir informacija, nurodyti [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj). Kartu su prašymu gauti leidimą naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus, pateikiami visi dokumentai ir informacija, nurodyti [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj), reikalingais teikti paraišką Europos Komisijai. ^s-67df052e241bd3748594e5fd
 
 
-6. Leidimas naudoti invazines rūšis moksliniams tyrimams, ex situ išsaugojimui arba naudoti invazines rūšis medicinos tikslais, kai to reikia siekiant pažangos žmonių sveikatos srityje, išduodamas arba atsisakymas jį išduoti leidimo prašytojui pateikiamas ne vėliau kaip per 30 kalendorinių dienų nuo prašymo, visų tinkamai įformintų dokumentų ir informacijos, nustatytų Reglamente (ES) Nr. 1143/2014, reikalingų leidimui išduoti, gavimo dienos. ^s-78b6610b09ea4d1c4094ba8a
+6. Leidimas naudoti invazines rūšis moksliniams tyrimams, ex situ išsaugojimui arba naudoti invazines rūšis medicinos tikslais, kai to reikia siekiant pažangos žmonių sveikatos srityje, išduodamas arba atsisakymas jį išduoti leidimo prašytojui pateikiamas ne vėliau kaip per 30 kalendorinių dienų nuo prašymo, visų tinkamai įformintų dokumentų ir informacijos, nustatytų [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj), reikalingų leidimui išduoti, gavimo dienos. ^s-78b6610b09ea4d1c4094ba8a
 
 
-7. Vyriausybės įgaliota institucija, gavusi visus dokumentus ar informaciją, nurodytus Reglamente (ES) Nr. 1143/2014, reikalingus išduoti leidimą naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus, ne vėliau kaip per 30 kalendorinių dienų nuo prašymo gavimo dienos išnagrinėja prašymą ir pateikia paraišką Europos Komisijai arba pateikia leidimo prašytojui neigiamą atsakymą dėl paraiškos Europos Komisijai neteikimo. Gavusi pranešimą iš Europos Komisijos, Vyriausybės įgaliota institucija per 10 kalendorinių dienų nuo Europos Komisijos pranešimo gavimo dienos išduoda leidimą naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus, arba leidimo prašytojui pateikia rašytinį atsisakymą išduoti šį leidimą. ^s-89cca14fe24a8d27288c9e25
+7. Vyriausybės įgaliota institucija, gavusi visus dokumentus ar informaciją, nurodytus [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj), reikalingus išduoti leidimą naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus, ne vėliau kaip per 30 kalendorinių dienų nuo prašymo gavimo dienos išnagrinėja prašymą ir pateikia paraišką Europos Komisijai arba pateikia leidimo prašytojui neigiamą atsakymą dėl paraiškos Europos Komisijai neteikimo. Gavusi pranešimą iš Europos Komisijos, Vyriausybės įgaliota institucija per 10 kalendorinių dienų nuo Europos Komisijos pranešimo gavimo dienos išduoda leidimą naudoti invazines rūšis tikslais, susijusiais su įtikinamais visuomenės interesais, įskaitant socialinio ar ekonominio pobūdžio interesus, arba leidimo prašytojui pateikia rašytinį atsisakymą išduoti šį leidimą. ^s-89cca14fe24a8d27288c9e25
 
 
 8. Prašymo išduoti leidimą naudoti invazines rūšis nagrinėjimas nutraukiamas, jeigu leidimo naudoti invazines rūšis prašytojas per 60 kalendorinių dienų nuo informacijos apie būtinybę pateikti trūkstamus dokumentus ir (ar) informaciją gavimo dienos Vyriausybės įgaliotai institucijai nepateikia visų prašomų dokumentų, duomenų ir informacijos, reikalingų išduoti leidimą naudoti invazines rūšis ir (ar) pateikti paraišką Europos Komisijai. ^s-f5f7ac256b444901e5860ab3
@@ -1378,19 +1378,19 @@ Leidimo introdukuoti ar reintrodukuoti turėtojo pareigos:
 12. Leidimo naudoti invazines rūšis galiojimas sustabdomas, jeigu leidimo naudoti invazines rūšis turėtojas: ^s-62d2dfe1d201ed580347ffd3
 
 
-1) nesilaiko išduotame leidime naudoti invazines rūšis nustatytų sąlygų, nurodytų Reglamente (ES) Nr. 1143/2014; ^s-e59f096b5c34611560914ab1
+1) nesilaiko išduotame leidime naudoti invazines rūšis nustatytų sąlygų, nurodytų [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj); ^s-e59f096b5c34611560914ab1
 
 
-2) pažeidžia Reglamento (ES) Nr. 1143/2014 [[#^s-76d7c378bb0b4ac60679d8a3|8 straipsnio]] 2 ir [[#^s-403f93da837e4fc522533238|3 dalių]] reikalavimus; ^s-f49c4a8312af11e51dddd2aa
+2) pažeidžia [Reglamento (ES) Nr. 1143/2014 8 straipsnio](https://eur-lex.europa.eu/eli/reg/1143/2014/art_8/oj) [[#^s-d028b857afd84369c18e4352|2]] ir [[#^s-7c12c2d64fa9e92e72d8202a|3]] dalių reikalavimus; ^s-f49c4a8312af11e51dddd2aa
 
 
-3) dėl kitų priežasčių, nurodytų Reglamento (ES) Nr. 1143/2014 [[#^s-238d323b8c9b58368ddf4286|8 straipsnio 5 dalyje]]; ^s-26c958d5a76709add14da848
+3) dėl kitų priežasčių, nurodytų [Reglamento (ES) Nr. 1143/2014 8 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/reg/1143/2014/art_8/par_5/oj); ^s-26c958d5a76709add14da848
 
 
 4) pateikia rašytinį prašymą sustabdyti leidimo naudoti invazines rūšis galiojimą ne ilgesniam kaip 2 metų laikotarpiui. ^s-e10ce10d72109c365f6dbb64
 
 
-13. Jeigu leidimo naudoti invazines rūšis turėtojas nesilaikė išduotame leidime naudoti invazines rūšis nustatytų sąlygų ir pažeidė šio įstatymo ar Reglamento (ES) Nr. 1143/2014 reikalavimus, prieš sustabdydama leidimo naudoti invazines rūšis galiojimą, Vyriausybės įgaliota institucija ne vėliau kaip per 5 darbo dienas nuo informacijos apie nustatytus pažeidimus gavimo dienos įspėja leidimo naudoti invazines rūšis turėtoją dėl leidimo naudoti invazines rūšis galiojimo sustabdymo ir šiam pažeidimui pašalinti nustato ne ilgesnį kaip 10 kalendorinių dienų terminą, kuris leidimo naudoti invazines rūšis turėtojo prašymu gali būti vieną kartą pratęstas dar 15 kalendorinių dienų. Terminas pažeidimui pašalinti skaičiuojamas nuo leidimo naudoti invazines rūšis turėtojo informavimo apie sprendimo dėl įspėjimo priėmimą dienos. Jeigu per nustatytą laikotarpį leidimo naudoti invazines rūšis turėtojas nepašalina nustatytų pažeidimų, leidimo naudoti invazines rūšis galiojimas sustabdomas ir draudžiama vykdyti visas leidime naudoti invazines rūšis nurodytas veiklas, išskyrus laikymą ir auginimą, užtikrinant, kad invazinės rūšys nesidaugintų ir neištrūktų į laisvę. ^s-97bec01dd050619c0cdd37d3
+13. Jeigu leidimo naudoti invazines rūšis turėtojas nesilaikė išduotame leidime naudoti invazines rūšis nustatytų sąlygų ir pažeidė šio įstatymo ar [Reglamento (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) reikalavimus, prieš sustabdydama leidimo naudoti invazines rūšis galiojimą, Vyriausybės įgaliota institucija ne vėliau kaip per 5 darbo dienas nuo informacijos apie nustatytus pažeidimus gavimo dienos įspėja leidimo naudoti invazines rūšis turėtoją dėl leidimo naudoti invazines rūšis galiojimo sustabdymo ir šiam pažeidimui pašalinti nustato ne ilgesnį kaip 10 kalendorinių dienų terminą, kuris leidimo naudoti invazines rūšis turėtojo prašymu gali būti vieną kartą pratęstas dar 15 kalendorinių dienų. Terminas pažeidimui pašalinti skaičiuojamas nuo leidimo naudoti invazines rūšis turėtojo informavimo apie sprendimo dėl įspėjimo priėmimą dienos. Jeigu per nustatytą laikotarpį leidimo naudoti invazines rūšis turėtojas nepašalina nustatytų pažeidimų, leidimo naudoti invazines rūšis galiojimas sustabdomas ir draudžiama vykdyti visas leidime naudoti invazines rūšis nurodytas veiklas, išskyrus laikymą ir auginimą, užtikrinant, kad invazinės rūšys nesidaugintų ir neištrūktų į laisvę. ^s-97bec01dd050619c0cdd37d3
 
 
 14. Leidimo naudoti invazines rūšis galiojimo sustabdymo terminas skaičiuojamas nuo Vyriausybės įgaliotos institucijos priimto sprendimo sustabdyti leidimo naudoti invazines rūšis galiojimą dienos arba nuo [[#^s-e10ce10d72109c365f6dbb64|šio straipsnio 12 dalies 4 punkte]] nurodytame prašyme pateiktos datos. ^s-99920b04cd4b825dc59489ed
@@ -1402,7 +1402,7 @@ Leidimo introdukuoti ar reintrodukuoti turėtojo pareigos:
 1) jeigu leidimo naudoti invazines rūšis turėtojas ne vėliau kaip per 6 mėnesius pašalina nustatytus pažeidimus, dėl kurių sustabdytas leidimo naudoti invazines rūšis galiojimas. Terminas pažeidimams pašalinti skaičiuojamas nuo sprendimo dėl leidimo naudoti invazines rūšis galiojimo sustabdymo priėmimo dienos; ^s-14363bb6019d5c3eb8455d94
 
 
-2) per vienus metus nuo sprendimo dėl leidimo naudoti invazines rūšis galiojimo sustabdymo priėmimo dienos pašalinamos kitos priežastys, nurodytos Reglamento (ES) Nr. 1143/2014 [[#^s-238d323b8c9b58368ddf4286|8 straipsnio 5 dalyje]]; ^s-f978d0dafcb098cb00d3e9dc
+2) per vienus metus nuo sprendimo dėl leidimo naudoti invazines rūšis galiojimo sustabdymo priėmimo dienos pašalinamos kitos priežastys, nurodytos [Reglamento (ES) Nr. 1143/2014 8 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/reg/1143/2014/art_8/par_5/oj); ^s-f978d0dafcb098cb00d3e9dc
 
 
 3) leidimo naudoti invazines rūšis turėtojas pateikė prašymą panaikinti leidimo naudoti invazines rūšis galiojimo sustabdymą, jeigu prieš tai buvo pateikęs prašymą sustabdyti leidimo naudoti invazines rūšis galiojimą. ^s-5745ac95a35658b2da511f1a
@@ -1423,7 +1423,7 @@ Leidimo introdukuoti ar reintrodukuoti turėtojo pareigos:
 4) leidimo naudoti invazines rūšis turėtojas per 6 mėnesius nuo sprendimo dėl leidimo naudoti invazines rūšis galiojimo sustabdymo priėmimo dienos nepašalina nustatytų pažeidimų, dėl kurių buvo sustabdytas leidimo naudoti invazines rūšis galiojimas; ^s-77d7df60cf1159e027f377fd
 
 
-5) per vienus metus nuo sprendimo dėl leidimo naudoti invazines rūšis galiojimo sustabdymo priėmimo dienos nepašalinamos kitos priežastys, nurodytos Reglamento (ES) Nr. 1143/2014 [[#^s-238d323b8c9b58368ddf4286|8 straipsnio 5 dalyje]]; ^s-0d827ff52ffe0a768254776c
+5) per vienus metus nuo sprendimo dėl leidimo naudoti invazines rūšis galiojimo sustabdymo priėmimo dienos nepašalinamos kitos priežastys, nurodytos [Reglamento (ES) Nr. 1143/2014 8 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/reg/1143/2014/art_8/par_5/oj); ^s-0d827ff52ffe0a768254776c
 
 
 6) leidimo naudoti invazines rūšis turėtojas nepateikė prašymo dėl leidimo naudoti invazines rūšis galiojimo sustabdymo panaikinimo tol, kol baigėsi prašyme dėl leidimo naudoti invazines rūšis galiojimo sustabdymo nurodyto leidimo naudoti invazines rūšis galiojimo sustabdymo terminas; ^s-1cc983ecc40452e1cb5525d3
@@ -1461,7 +1461,7 @@ Leidimo introdukuoti ar reintrodukuoti turėtojo pareigos:
 ### 27 straipsnis. Leidimų įvežti į Lietuvos Respubliką ar iš jos išvežti laukinius gyvūnus išdavimas ir galiojimo panaikinimas ^s-9b72395c84889dcbd0cc2266
 
 
-1. Leidimo įvežti į Lietuvos Respubliką ar iš jos išvežti laukinių gyvūnų rūšis, kurioms taikoma Nykstančių laukinės faunos ir floros rūšių tarptautinės prekybos konvencija ir Reglamentas (EB) Nr. 338/97, išdavimo, keitimo sąlygos, galiojimo terminai nustatomi vadovaujantis Reglamentu (EB) Nr. 338/97, Reglamentu (EB) Nr. 865/2006, kitais Reglamento (EB) Nr. 338/97 įgyvendinimo taisykles nustatančiais reglamentais ir šiuo įstatymu. ^s-60d6e2392323518810b8d5d3
+1. Leidimo įvežti į Lietuvos Respubliką ar iš jos išvežti laukinių gyvūnų rūšis, kurioms taikoma [Nykstančių laukinės faunos ir floros rūšių tarptautinės prekybos konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.DE968E395995) ir Reglamentas (EB) Nr. 338/97, išdavimo, keitimo sąlygos, galiojimo terminai nustatomi vadovaujantis Reglamentu (EB) Nr. 338/97, Reglamentu (EB) Nr. 865/2006, kitais Reglamento (EB) Nr. 338/97 įgyvendinimo taisykles nustatančiais reglamentais ir šiuo įstatymu. ^s-60d6e2392323518810b8d5d3
 
 
 2. Atsižvelgiant į laukinių gyvūnų rūšių apsaugos būklę, į Lietuvos Respublikos tarptautinių sutarčių reikalavimus arba siekiant, kad kuo mažiau laukinių gyvūnų būtų paimta iš aplinkos, arba, jeigu kai kurių rūšių laukiniai gyvūnai, ištrūkę į laisvę, galėtų sukelti invazijų į natūralias ekosistemas ir jų sutrikdymo pavojų, keltų grėsmę žmonių gyvybei ir sveikatai, kitiems gyvūnams, dėl kitų priežasčių, Aplinkos ministerija riboja arba uždraudžia tam tikrų rūšių laukinių gyvūnų įvežimą į Lietuvos Respubliką ar išvežimą iš jos. Ribojamų ir draudžiamų įvežti į Lietuvos Respubliką ar išvežti iš jos laukinių gyvūnų rūšys ir draudimams taikomos išimtys nurodomos Prekybos laukiniais gyvūnais, augalais ir grybais taisyklėse. ^s-d78adeb1b0bafeec9d218716
@@ -1470,7 +1470,7 @@ Leidimo introdukuoti ar reintrodukuoti turėtojo pareigos:
 3. Įvežant Prekybos laukiniais gyvūnais, augalais ir grybais taisyklėse nurodytų rūšių laukinius gyvūnus ir (ar) jų dalis ir gaminius iš jų į Europos Sąjungai nepriklausančias šalis ar juos išvežant iš jų, reikalingi teisėtą jų įsigijimą pagrindžiantys dokumentai nurodomi Prekybos laukiniais gyvūnais, augalais ir grybais taisyklėse. ^s-88201da1039697303aa7d4fb
 
 
-4. Leidimas įvežti į Lietuvos Respubliką iš Europos Sąjungai nepriklausančių šalių ar iš jos išvežti į Europos Sąjungai nepriklausančias šalis laukinių gyvūnų rūšis, kurioms netaikoma Nykstančių laukinės faunos ir floros rūšių tarptautinės prekybos konvencija ir Reglamentas (EB) Nr. 338/97 (toliau – leidimas įvežti į Lietuvos Respubliką ar iš jos išvežti laukinius gyvūnus), reikalingas šiais atvejais: ^s-c6132608125730c4c128d772
+4. Leidimas įvežti į Lietuvos Respubliką iš Europos Sąjungai nepriklausančių šalių ar iš jos išvežti į Europos Sąjungai nepriklausančias šalis laukinių gyvūnų rūšis, kurioms netaikoma [Nykstančių laukinės faunos ir floros rūšių tarptautinės prekybos konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.DE968E395995) ir Reglamentas (EB) Nr. 338/97 (toliau – leidimas įvežti į Lietuvos Respubliką ar iš jos išvežti laukinius gyvūnus), reikalingas šiais atvejais: ^s-c6132608125730c4c128d772
 
 
 1) kai ketinama įvežti Prekybos laukiniais gyvūnais, augalais ir grybais taisyklėse nurodytų saugomų rūšių laukinius gyvūnus ir (ar) jų dalis ir gaminius iš jų į Europos Sąjungai nepriklausančias šalis ar kai ketinama juos išvežti iš Europos Sąjungai nepriklausančių šalių; ^s-dd79a2cb0ccdc725abe90522
@@ -1564,7 +1564,7 @@ Siekiant nustatyti laukinių gyvūnų rūšių apsaugos būklę, pokyčius ir nu
 ### 32 straipsnis. Laukinės gyvūnijos moksliniai tyrimai ir visuomenės švietimas ^s-1719e0124030af5adf5ce98f
 
 
-1. Siekiant surinkti kuo daugiau informacijos, užtikrinti laukinės gyvūnijos apsaugą ir naudojimo kontrolę, ištyrinėti laukinių gyvūnų rūšių paplitimą, populiacijų būklę ir gausą, nustatyti invazinių rūšių paplitimą, plitimo kelius, gausos reguliavimo priemones ir atlikti jų rizikos vertinimą, nurodytą Reglamente (ES) Nr. 1143/2014, atliekami moksliniai tyrimai, kuriuos organizuoja ir koordinuoja Aplinkos ministerija ir jos įgaliotos institucijos. ^s-686803f402ef1c250938af4a
+1. Siekiant surinkti kuo daugiau informacijos, užtikrinti laukinės gyvūnijos apsaugą ir naudojimo kontrolę, ištyrinėti laukinių gyvūnų rūšių paplitimą, populiacijų būklę ir gausą, nustatyti invazinių rūšių paplitimą, plitimo kelius, gausos reguliavimo priemones ir atlikti jų rizikos vertinimą, nurodytą [Reglamente (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj), atliekami moksliniai tyrimai, kuriuos organizuoja ir koordinuoja Aplinkos ministerija ir jos įgaliotos institucijos. ^s-686803f402ef1c250938af4a
 
 
 2. Saugomų laukinių gyvūnų rūšių moksliniai tyrimai atliekami vadovaujantis [[latest/TAR.1746D2A4EFB9|Saugomų gyvūnų, augalų ir grybų rūšių įstatymu]] ir Saugomų rūšių naudojimo tvarkos aprašu. ^s-f18ebcac9fe256d1ad1bf655
@@ -1620,7 +1620,7 @@ Fiziniai ir juridiniai asmenys, pažeidę šį įstatymą, atsako Lietuvos Respu
 1) medžiojamųjų gyvūnų padaryta žala žemės, miško ir vandens telkinių sklypų savininkams, valdytojams ir naudotojams dėl žemės ūkio pasėlių, miško ir hidrotechnikos įrenginių pakenkimo bei vilkų padaryta žala ūkiniams gyvūnams atlyginama [[latest/TAR.A92E17FDCD13|Medžioklės įstatymo]] nustatyta tvarka; ^s-6f8f84429686309bb7b20506
 
 
-2) eismo įvykių metu padaryta žala atlyginama, jeigu įrodomi neteisėti valstybės veiksmai (neveikimas), kaltė ir priežastinis ryšys ir jeigu žala atsirado ne dėl nenugalimos jėgos, nukentėjusio asmens veiksmų arba kitų Lietuvos Respublikos civilinio kodekso 6.253 straipsnyje nurodytų veiksmų, ir išieškoma Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka; ^s-b734f03b8e2ef89bc2399f66
+2) eismo įvykių metu padaryta žala atlyginama, jeigu įrodomi neteisėti valstybės veiksmai (neveikimas), kaltė ir priežastinis ryšys ir jeigu žala atsirado ne dėl nenugalimos jėgos, nukentėjusio asmens veiksmų arba kitų Lietuvos Respublikos civilinio kodekso 6.253 straipsnyje nurodytų veiksmų, ir išieškoma [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka; ^s-b734f03b8e2ef89bc2399f66
 
 
 3) griežtai saugomų rūšių laukinių gyvūnų padarytą žalą žemės ūkio pasėliams, domestikuotiems gyvūnams, miškui, hidrotechnikos įrenginiams ar kitiems objektams, žemės, miško ir vandens telkinių sklypų savininkams, valdytojams ir naudotojams atlygina valstybė, jeigu neįrodoma, kad žala atsirado dėl nenugalimos jėgos, nukentėjusio asmens tyčios arba kitų Civilinio kodekso 6.253 straipsnyje nurodytų veiksmų. ^s-a98ea8d523f761dcce9165ab
@@ -1689,10 +1689,10 @@ priedas
 2. 1999 m. kovo 29 d. Tarybos direktyva 1999/22/EB dėl laukinių gyvūnų laikymo zoologijos soduose. ^s-ebfe968bb5fce6646ff0789f
 
 
-3. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos direktyva 2009/147/EB dėl laukinių paukščių apsaugos su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1010. ^s-df48b269aecd1771bed58651
+3. 2009 m. lapkričio 30 d. Europos Parlamento ir Tarybos direktyva 2009/147/EB dėl laukinių paukščių apsaugos su paskutiniais pakeitimais, padarytais 2019 m. birželio 5 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/1010](https://eur-lex.europa.eu/eli/reg/2019/1010/oj). ^s-df48b269aecd1771bed58651
 
 
-4. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1143/2014 dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo. ^s-0672b10b9b779d29385766a5
+4. 2014 m. spalio 22 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1143/2014](https://eur-lex.europa.eu/eli/reg/1143/2014/oj) dėl invazinių svetimų rūšių introdukcijos ir plitimo prevencijos ir valdymo. ^s-0672b10b9b779d29385766a5
 
 
 
@@ -1727,7 +1727,7 @@ Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-776, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18830
-Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 5, 8, 9 ir [[#^s-b8dd0f2e7fea0f1c0083e81a|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 [[#^s-872970f2b7946fe5a27c5e73|5]], [[#^s-76d7c378bb0b4ac60679d8a3|8]], [[#^s-bc0523c24c88df5e917d7361|9]] ir [[#^s-b8dd0f2e7fea0f1c0083e81a|20]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1737,14 +1737,14 @@ Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įsta
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2172, 2023-09-21, paskelbta TAR 2023-09-27, i. k. 2023-18814
-Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 8 ir [[#^s-2c286d333c16298164f3e4d1|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 [[#^s-76d7c378bb0b4ac60679d8a3|8]] ir [[#^s-2c286d333c16298164f3e4d1|24]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2352, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25323
-Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 4 ir [[#^s-1b8c02e3e6e4b1572bdcbf06|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 [[#^s-17b1c9962c2d918a54481dcc|4]] ir [[#^s-1b8c02e3e6e4b1572bdcbf06|18]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2486, 2024-03-14, paskelbta TAR 2024-03-21, i. k. 2024-05114
-Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 9 ir [[#^s-6085751d78cc5d5a19203994|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 [[#^s-bc0523c24c88df5e917d7361|9]] ir [[#^s-6085751d78cc5d5a19203994|14]] straipsnių pakeitimo įstatymas

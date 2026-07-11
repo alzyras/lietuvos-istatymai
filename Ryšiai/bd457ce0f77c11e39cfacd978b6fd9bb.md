@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos profesinio mokymo įstatymo Nr. VIII-450 12-1
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.44FA08A7226F|Lietuvos Respublikos profesinio mokymo įstatymas]] - 5 citatos - 121 straipsnio 10 dalies 3 punktą
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.44FA08A7226F#^s-8e7d3b1a63c9a3ccb313af83|Lietuvos Respublikos profesinio mokymo įstatymas]] - Įstatymas Nr. XII-923
-- [[latest/TAR.44FA08A7226F#^s-e23b0f052746f8e3d5cd0b86|Lietuvos Respublikos profesinio mokymo įstatymas]] - Įstatymas Nr. XII-923
+_Nėra._

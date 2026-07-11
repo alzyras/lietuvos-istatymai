@@ -9,11 +9,10 @@ pavadinimas: "Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A4D0A2869EAA|Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymas]] - 2 citatos - Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo
-- [[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - 2 citatos - Ginklų ir šaudmenų kontrolės įstatymo
-- [[latest/TAR.A845E65C32A2|Lietuvos Respublikos produktų saugos įstatymas]] - 3 citatos - Produktų saugos įstatymu
+- [[latest/TAR.A4D0A2869EAA|Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymas]] - civilinių pirotechnikos priemonių apyvartos kontrolės įstatymo
+- [[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - Ginklų ir šaudmenų kontrolės įstatymo
+- [[latest/TAR.A845E65C32A2|Lietuvos Respublikos produktų saugos įstatymas]] - 2 citatos - Produktų saugos įstatymu
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A4D0A2869EAA#^s-0b9bb3c9545894f720af916a|Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymas]] - 2 citatos - 1041010ISTA0IX-2074
-- [[latest/TAR.A4D0A2869EAA#^s-32f1d710e119f5f3c5166692|Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymas]] - 2 citatos - 1041010ISTA0IX-2074
+- [[latest/TAR.A4D0A2869EAA#^s-32f1d710e119f5f3c5166692|Lietuvos Respublikos civilinių pirotechnikos priemonių apyvartos kontrolės įstatymas]] - 1041010ISTA0IX-2074

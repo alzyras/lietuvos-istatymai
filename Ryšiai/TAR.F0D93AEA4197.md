@@ -14,5 +14,4 @@ _Nėra._
 ## Šį įstatymą cituoja
 
 - [[latest/TAR.4A9B29FE9E04#^s-3e011c0db874bf79f8df4982|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 1101010ISTA0XI-1020
-- [[latest/TAR.4A9B29FE9E04#^s-d7c66d25f0e44c96d5b4a766|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 3 citatos - 1101010ISTA0XI-1020
-- [[latest/TAR.4A9B29FE9E04#^s-fdaa6c4d0330beeea3432b06|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 1101010ISTA0XI-1020
+- [[latest/TAR.4A9B29FE9E04#^s-d7c66d25f0e44c96d5b4a766|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 2 citatos - 1101010ISTA0XI-1020

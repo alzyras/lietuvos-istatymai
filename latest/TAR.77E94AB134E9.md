@@ -66,7 +66,7 @@ Pakeisti 170 straipsnio 4 dalies 3 punktą ir visą dalį išdėstyti taip:
 ### 2 straipsnis. 173 straipsnio 1 dalies papildymas ir pakeitimas ^s-5375a13b3d2e812c6bed155d
 
 
-Papildyti 173 straipsnio 1 dalį nauju [[#^s-568baac37b628f768e325220|4 punktu]], buvusius 4, 5, 6, [[#^s-cd31932ea05ba8f7fc47c6f6|7 punktus]] laikyti atitinkamai 5, 6, 7, [[#^s-dca9bd296831f2c5366f7fe0|8 punktais]] ir šią dalį išdėstyti taip:
+Papildyti 173 straipsnio 1 dalį nauju [[#^s-568baac37b628f768e325220|4 punktu]], buvusius 4, 5, 6, 7 punktus laikyti atitinkamai 5, 6, 7, 8 punktais ir šią dalį išdėstyti taip:
 
 
 „1. Ikiteisminio tyrimo teisėjas šio Kodekso nustatyta tvarka:

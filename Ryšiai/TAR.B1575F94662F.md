@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatym
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 4 citatos - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo
-- [[latest/TAR.35E7B34FF641|Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo pakeitimo įstatymas]] - 2 citatos - Valstybės ir savivaldybės įmonių įstatymo pakeitimo įstatymo
+- [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 2 citatos - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo
+- [[latest/TAR.35E7B34FF641|Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymo pakeitimo įstatymas]] - Valstybės ir savivaldybės įmonių įstatymo pakeitimo įstatymo
 
 ## Šį įstatymą cituoja
 

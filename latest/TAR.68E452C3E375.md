@@ -43,7 +43,7 @@ Lietuvos Respublikos Vyriausybė, atsižvelgdama į Lietuvos gyventojų genocido
 1) iki 1997 m. balandžio 1 d. parengia ir pateikia Seimui Karių savanorių ir laisvės kovų dalyvių teisinio statuso, Partizanų karinių laipsnių ir apdovanojimų pripažinimo tvarkos, Socialinės rūpybos ir valstybės paramos bei kompensacijų už žuvusiuosius skyrimo įstatymų projektus; ^s-e70aae2ce9794feab7e69a67
 
 
-2) iki 1997 m. balandžio 1 d. parengia ir pateikia Seimui Ordinų, medalių ir kitų pasižymėjimo ženklų įstatymo pakeitimo bei Krašto apsaugos tarnybos įstatymo pakeitimo projektus; ^s-03b9ce716b6a2d13897d0d1a
+2) iki 1997 m. balandžio 1 d. parengia ir pateikia Seimui [Ordinų, medalių ir kitų pasižymėjimo ženklų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.8E4050F57F92) pakeitimo bei Krašto apsaugos tarnybos įstatymo pakeitimo projektus; ^s-03b9ce716b6a2d13897d0d1a
 
 
 3) iki 1997 m. liepos 1 d. parengia bei patvirtina Pasipriešinimo 1940–1990 metų okupacijoms dalyvių teisinio statuso įstatymo įgyvendinimo programą ir numato atitinkamas biudžeto lėšas. ^s-05ca7ab15ba45ef8421448f9

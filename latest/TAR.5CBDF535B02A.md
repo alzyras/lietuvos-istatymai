@@ -211,19 +211,19 @@ Pakeisti 171 straipsnį ir jį išdėstyti taip:
 „171 straipsnis. Viešųjų paslaugų teikimo organizavimas
 
 
-1. Savivaldybių institucijos užtikrina bendrus interesus tenkinančių keleivinio kelių transporto viešųjų paslaugų teikimą, kurio, atsižvelgdami į savo komercinius interesus, vežėjai neprisiimtų arba neprisiimtų tokiu mastu ar tokiomis pačiomis sąlygomis negaudami atlygio, vadovaudamosi Reglamentu (EB) Nr. 1370/2007. ^s-2973924fe4e601cfcab5a1b1
+1. Savivaldybių institucijos užtikrina bendrus interesus tenkinančių keleivinio kelių transporto viešųjų paslaugų teikimą, kurio, atsižvelgdami į savo komercinius interesus, vežėjai neprisiimtų arba neprisiimtų tokiu mastu ar tokiomis pačiomis sąlygomis negaudami atlygio, vadovaudamosi [Reglamentu (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj). ^s-2973924fe4e601cfcab5a1b1
 
 
 2. Savivaldybių institucijos vežėjus teikti viešąsias paslaugas pagal viešųjų paslaugų įsipareigojimus parenka: ^s-da917339faefe1757329a457
 
 
-1) konkurso būdu, vadovaudamosi Reglamento (EB) Nr. 1370/2007 [[#^s-0be27889d1a1d807bcc7ba4b|5 straipsnyje]] nurodytais reikalavimais; ^s-c8d494f2c0fa96169e178b99
+1) konkurso būdu, vadovaudamosi [Reglamento (EB) Nr. 1370/2007 5 straipsnyje](https://eur-lex.europa.eu/eli/reg/1370/2007/art_5/oj) nurodytais reikalavimais; ^s-c8d494f2c0fa96169e178b99
 
 
-2) tiesiogiai sudarydamos viešųjų paslaugų teikimo sutartį su vežėju, atitinkančiu Reglamento (EB) Nr. 1370/2007 [[#^s-0be27889d1a1d807bcc7ba4b|5 straipsnyje]] nurodytus reikalavimus. ^s-a3dedf75b249dbed9701b728
+2) tiesiogiai sudarydamos viešųjų paslaugų teikimo sutartį su vežėju, atitinkančiu [Reglamento (EB) Nr. 1370/2007 5 straipsnyje](https://eur-lex.europa.eu/eli/reg/1370/2007/art_5/oj) nurodytus reikalavimus. ^s-a3dedf75b249dbed9701b728
 
 
-3. Viešųjų paslaugų sutarčių turinį, trukmę, jų sudarymo sąlygas ir tvarką, vežėjų nuostolių, patirtų vykdant viešųjų paslaugų įsipareigojimus, kompensacijai apskaičiuoti taikomas taisykles nustato Reglamentas (EB) Nr. 1370/2007. Nuostolių, patirtų vykdant viešųjų paslaugų įsipareigojimus, kompensacijos apskaičiavimo tvarką nustato Vyriausybė arba jos įgaliota institucija pagal Reglamento (EB) Nr. 1370/2007 priede išdėstytas taisykles.“ ^s-1d2d1323d786dc5a18f865ad
+3. Viešųjų paslaugų sutarčių turinį, trukmę, jų sudarymo sąlygas ir tvarką, vežėjų nuostolių, patirtų vykdant viešųjų paslaugų įsipareigojimus, kompensacijai apskaičiuoti taikomas taisykles nustato [Reglamentas (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj). Nuostolių, patirtų vykdant viešųjų paslaugų įsipareigojimus, kompensacijos apskaičiavimo tvarką nustato Vyriausybė arba jos įgaliota institucija pagal [Reglamento (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) priede išdėstytas taisykles.“ ^s-1d2d1323d786dc5a18f865ad
 
 
 ### 10 straipsnis. 18 straipsnio 3, 4, 7, 8 ir 9 dalių pakeitimas ^s-1018a90211eebb3030ec921b
@@ -267,7 +267,7 @@ Pakeisti Kodekso priedą ir jį išdėstyti taip:
 
 
 „Lietuvos Respublikos
-kelių transporto kodekso
+[kelių transporto kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C)
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
@@ -283,10 +283,10 @@ priedas
 3. 1996 m. balandžio 29 d. Tarybos direktyva 96/26/EB dėl leidimo verstis krovinių ir keleivių vežėjo kelių transporto verslu ir diplomų, pažymėjimų bei kitų oficialių profesinę kvalifikaciją patvirtinančių dokumentų tarpusavio pripažinimo, skirto palengvinti šiems vežėjams naudojimąsi įsisteigimo laisve nacionalinio ir tarptautinio vežimo srityje (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 285) su paskutiniais pakeitimais, padarytais 1998 m. spalio 1 d. Tarybos direktyva 98/76/EB (OL 2004 m. specialusis leidimas, 6 skyrius, 3 tomas, p. 285). ^s-2daf386e3701b7ae3bc47806
 
 
-4. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo ir iš dalies keičiantis Tarybos reglamentus (EEB) Nr. 3821/85 ir (EB) Nr. 2135/98 bei panaikinantis Reglamentą (EEB) Nr. 3820/85 (OL 2006 L 102, p. 1). ^s-7020aa150450afcdc26e366f
+4. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo ir iš dalies keičiantis Tarybos [reglamentus (EEB) Nr. 3821/85](https://eur-lex.europa.eu/eli/reg/3821/85/oj) ir (EB) Nr. 2135/98 bei panaikinantis [Reglamentą (EEB) Nr. 3820/85](https://eur-lex.europa.eu/eli/reg/3820/85/oj) (OL 2006 L 102, p. 1). ^s-7020aa150450afcdc26e366f
 
 
-5. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1370/2007 dėl keleivinio geležinkelio ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 (OL 2007 L 315, p. 1).“ ^s-dc75f40de004cabd438e781e
+5. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) dėl keleivinio geležinkelio ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos [reglamentus (EEB) Nr. 1191/69](https://eur-lex.europa.eu/eli/reg/1191/69/oj) ir (EEB) Nr. 1107/70 (OL 2007 L 315, p. 1).“ ^s-dc75f40de004cabd438e781e
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.

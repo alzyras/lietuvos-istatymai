@@ -336,14 +336,14 @@ Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-190
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-522, 2017-06-27, paskelbta TAR 2017-06-30, i. k. 2017-11231
-Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 4 ir [[#^s-9aeee8a80bccd75ddedc88cd|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 [[#^s-8b7a0fe851a738d625a7dceb|4]] ir [[#^s-9aeee8a80bccd75ddedc88cd|8]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-916, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21508
-Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 2 ir [[#^s-8b7a0fe851a738d625a7dceb|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 [[#^s-17a3254bcb09ae1d2dad0175|2]] ir [[#^s-8b7a0fe851a738d625a7dceb|4]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3085, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19838
-Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 1, 4 ir [[#^s-a8552181b3af8b02bb073ba3|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 [[#^s-e16bb985c7cec18e2d91639f|1]], [[#^s-8b7a0fe851a738d625a7dceb|4]] ir [[#^s-a8552181b3af8b02bb073ba3|6]] straipsnių pakeitimo įstatymas

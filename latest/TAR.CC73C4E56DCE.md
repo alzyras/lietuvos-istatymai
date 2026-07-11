@@ -66,7 +66,7 @@ Vilnius
 1. Pakeisti [[#^s-c6a41d6118120d3f999e7650|5 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-d613f55d7a2d84aa57ae9f08
 
 
-„1. Asmenų, nurodytų šio įstatymo [[#^s-38a4abb4c9d7bb8a08355a12|4 straipsnio]] 1, 2, 5 ir 10 dalyse, socialinio draudimo įmokas privalo mokėti apdraustieji ir draudėjai. Asmenų, dirbančių pagal darbo sutartis, kurie pagal darbo sutartį įsidarbina pirmą kartą, ne daugiau kaip vienus jų darbo metus (skaičiuojant nuo įsidarbinimo pirmą kartą pradžios ir sumuojant darbo laikotarpius) socialinio draudimo įmokas šio įstatymo [[#^s-4de5947cfe1adc0d7c2049d2|3 straipsnio]] 2–5 dalyse nurodytoms socialinio draudimo rūšims privalo mokėti apdraustieji ir draudėjai, skaičiuojant šias įmokas nuo priskaičiuoto darbo užmokesčio.“
+„1. Asmenų, nurodytų šio įstatymo [[#^s-38a4abb4c9d7bb8a08355a12|4 straipsnio]] [[#^s-055c46ae81b7bb8e54c4537a|1]], [[#^s-96e1cb35adacf0ee0e0b5512|2]], 5 ir 10 dalyse, socialinio draudimo įmokas privalo mokėti apdraustieji ir draudėjai. Asmenų, dirbančių pagal darbo sutartis, kurie pagal darbo sutartį įsidarbina pirmą kartą, ne daugiau kaip vienus jų darbo metus (skaičiuojant nuo įsidarbinimo pirmą kartą pradžios ir sumuojant darbo laikotarpius) socialinio draudimo įmokas šio įstatymo [[#^s-4de5947cfe1adc0d7c2049d2|3 straipsnio]] [[#^s-4b043c3ba01744d36ced825e|2]]–5 dalyse nurodytoms socialinio draudimo rūšims privalo mokėti apdraustieji ir draudėjai, skaičiuojant šias įmokas nuo priskaičiuoto darbo užmokesčio.“
 
 
 2. Pakeisti [[#^s-c6a41d6118120d3f999e7650|5 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-cd2f91f0a147de0a7093d5a4
@@ -88,7 +88,7 @@ Vilnius
 2. Pakeisti 7 straipsnio 4 dalį ir ją išdėstyti taip: ^s-4b043c3ba01744d36ced825e
 
 
-„4. [[#^s-4b043c3ba01744d36ced825e|Šio straipsnio 2 dalyje]] nurodytų asmenų (išskyrus ūkininkus ir jų partnerius), taip pat šio įstatymo 4 straipsnio 5 dalyje nurodytų asmenų socialinio draudimo įmokų bazė, kurią privalo taikyti kiekvienas draudėjas, kalendoriniais metais negali būti didesnė negu 48 Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma, o šių įmokų bazė per mėnesį negali būti didesnė negu 4 Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma.“
+„4. Šio straipsnio 2 dalyje nurodytų asmenų (išskyrus ūkininkus ir jų partnerius), taip pat šio įstatymo 4 straipsnio 5 dalyje nurodytų asmenų socialinio draudimo įmokų bazė, kurią privalo taikyti kiekvienas draudėjas, kalendoriniais metais negali būti didesnė negu 48 Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma, o šių įmokų bazė per mėnesį negali būti didesnė negu 4 Lietuvos Respublikos Vyriausybės patvirtintų einamųjų metų draudžiamųjų pajamų dydžių suma.“
 
 
 
@@ -98,7 +98,7 @@ Vilnius
 1. Papildyti 8 straipsnio 1 dalį 29 punktu: ^s-055c46ae81b7bb8e54c4537a
 
 
-„29) darbo užmokesčio, mokamo asmenims, kurie pagal darbo sutartį įsidarbina pirmą kartą ir kurių darbo užmokestis neviršija 3 minimaliųjų algų dydžio, ne daugiau kaip vienus jų darbo metus (skaičiuojant nuo įsidarbinimo pirmą kartą pradžios ir sumuojant darbo laikotarpius). Šio punkto nuostata netaikoma apskaičiuojant socialinio draudimo įmokas šio įstatymo [[#^s-4de5947cfe1adc0d7c2049d2|3 straipsnio]] 2–5 dalyse nurodytoms socialinio draudimo rūšims.“
+„29) darbo užmokesčio, mokamo asmenims, kurie pagal darbo sutartį įsidarbina pirmą kartą ir kurių darbo užmokestis neviršija 3 minimaliųjų algų dydžio, ne daugiau kaip vienus jų darbo metus (skaičiuojant nuo įsidarbinimo pirmą kartą pradžios ir sumuojant darbo laikotarpius). Šio punkto nuostata netaikoma apskaičiuojant socialinio draudimo įmokas šio įstatymo [[#^s-4de5947cfe1adc0d7c2049d2|3 straipsnio]] [[#^s-4b043c3ba01744d36ced825e|2]]–5 dalyse nurodytoms socialinio draudimo rūšims.“
 
 
 2. 8 straipsnio 1 dalies 29 punktą pripažinti netekusiu galios. ^s-96e1cb35adacf0ee0e0b5512

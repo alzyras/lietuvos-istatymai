@@ -205,7 +205,7 @@ EUROPOS SĄJUNGOS TEISĖS AKTAI, SU KURIAIS SUDERINTOS [[latest/TAR.ED68997709F5
 ### 10 straipsnis. Įstatymo įsigaliojimas ^s-f8133bf3ffd256a22b64be81
 
 
-Šio įstatymo [[#^s-64c5d8b5280e84ddf910c8a3|1 straipsnio]] 1 ir 3 dalys įsigalioja 2008 m. sausio 1 d.
+Šio įstatymo [[#^s-64c5d8b5280e84ddf910c8a3|1 straipsnio]] [[#^s-a926cd4334199f7a5751637d|1]] ir [[#^s-1720eca9ec0d7a69e5a2464b|3]] dalys įsigalioja 2008 m. sausio 1 d.
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą
 

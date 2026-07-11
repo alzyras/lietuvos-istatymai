@@ -68,7 +68,7 @@ BENDROSIOS NUOSTATOS
 3. Tarybą Lietuvos Respublikos teisės aktų nustatyta tvarka steigia Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė). Tarybos savininkė yra valstybė. Tarybos savininko teises ir pareigas, išskyrus sprendimus dėl Tarybos reorganizavimo ir likvidavimo, kuriuos priima Vyriausybė, įgyvendina Lietuvos Respublikos kultūros ministerija (toliau – Kultūros ministerija). ^s-8a925ee5b83059e2c52d7bbe
 
 
-4. Taryba savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, Europos Sąjungos teisės aktais, Lietuvos Respublikos įstatymais, Vyriausybės programa, Vyriausybės nutarimais, kultūros ministro įsakymais, Vyriausybės (ar jos pavedimu – kultūros ministro) patvirtintais Tarybos nuostatais ir kitais teisės aktais. Tarybos veiklai [[latest/TAR.3A756D83A99B|Lietuvos Respublikos biudžetinių įstaigų įstatymas]] taikomas tiek, kiek šis įstatymas nenustato kitaip. ^s-bdbc62668ac6d1d3122459f4
+4. Taryba savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, Europos Sąjungos teisės aktais, Lietuvos Respublikos įstatymais, Vyriausybės programa, Vyriausybės nutarimais, kultūros ministro įsakymais, Vyriausybės (ar jos pavedimu – kultūros ministro) patvirtintais Tarybos nuostatais ir kitais teisės aktais. Tarybos veiklai [[latest/TAR.3A756D83A99B|Lietuvos Respublikos biudžetinių įstaigų įstatymas]] taikomas tiek, kiek šis įstatymas nenustato kitaip. ^s-bdbc62668ac6d1d3122459f4
 
 
 
@@ -102,7 +102,7 @@ Taryba, siekdama jai pavestų tikslų:
 1) kultūros ministro nustatyta tvarka finansuoja kultūros ir meno programas, projektus ir kitokias priemones; ^s-488ce3f6971dd4390e53cfb7
 
 
-2) vadovaudamasi Lietuvos Respublikos kultūros rėmimo fondo įstatymu, administruoja Kultūros rėmimo fondą; ^s-ea97b2a9b01361494aad9901
+2) vadovaudamasi [Lietuvos Respublikos kultūros rėmimo fondo įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.8F098889C62F), administruoja Kultūros rėmimo fondą; ^s-ea97b2a9b01361494aad9901
 
 
 3) kultūros ministro nustatyta tvarka skiria kultūros ir meno kūrėjams stipendijas ir kitokią finansinę paramą; ^s-e436cae52b8d3687d9abc22c
@@ -160,7 +160,7 @@ TARYBOS STRUKTŪRA IR DARBO ORGANIZAVIMAS
 1. Tarybos pirmininką kultūros ministro teikimu 4 metams priima į pareigas ir iš jų atleidžia Vyriausybė. Asmuo, priimamas į šias pareigas, turi atitikti bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, išmanyti kultūros ir meno raidos procesus ir turėti ne mažesnę kaip 5 metų veiklos kultūros ir meno srityje patirtį. Tarybos pirmininkas gali būti skiriamas eiti šias pareigas ne daugiau kaip dvi kadencijas iš eilės. 2/3 Tarybos narių gali motyvuotu raštu siūlyti atleisti Tarybos pirmininką iš pareigų. ^s-efe3d5ebba400bebe349e450
 
 
-2. Tarybos pirmininkas yra valstybės pareigūnas, atsakingas ir atskaitingas kultūros ministrui. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme. ^s-d2a3cedc628568319e20b821
+2. Tarybos pirmininkas yra valstybės pareigūnas, atsakingas ir atskaitingas kultūros ministrui. Tarybos pirmininkui mokamas darbo užmokestis, nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3). ^s-d2a3cedc628568319e20b821
 
 
 3. Tarybos pirmininkas: ^s-601445f00fe1332498e25678
@@ -243,7 +243,7 @@ TARYBOS STRUKTŪRA IR DARBO ORGANIZAVIMAS
 4. Lietuvos bibliotekininkų draugija, Lietuvos muziejų asociacija ir Lietuvos kultūros centrų asociacija deleguoja du kartu atrinktus rinkėjus. ^s-2e700257f99788aca61df33a
 
 
-5. Šio straipsnio 3 ir [[#^s-2e700257f99788aca61df33a|4 dalyse]] nurodytoms organizacijoms nepriklausančios asociacijos ir viešosios įstaigos, veikiančios kultūros ir meno srityje, kultūros ministro nustatyta tvarka deleguoja du kartu atrinktus rinkėjus. ^s-d4805814a36c0e8b8992a425
+5. Šio straipsnio [[#^s-58bf94fede4b03232553fc35|3]] ir [[#^s-2e700257f99788aca61df33a|4]] dalyse nurodytoms organizacijoms nepriklausančios asociacijos ir viešosios įstaigos, veikiančios kultūros ir meno srityje, kultūros ministro nustatyta tvarka deleguoja du kartu atrinktus rinkėjus. ^s-d4805814a36c0e8b8992a425
 
 
 6. Tarybos nariais gali būti siūlomi asmenys, dėl savo pasiekimų kultūros ir (ar) meno srityse žinomi Lietuvoje, turintys ne mažesnę kaip 5 metų patirtį įgyvendinant kultūrinius projektus bei žinių ir gebėjimų (kompetencijos), padedančių siekti Tarybai keliamų tikslų ir įgyvendinti jos funkcijas. ^s-f0e81c90407f30d17648c286
@@ -255,7 +255,7 @@ TARYBOS STRUKTŪRA IR DARBO ORGANIZAVIMAS
 8. Kandidatus į Tarybos narius Kultūros ministerijai gali siūlyti fiziniai ir juridiniai asmenys, pateikdami informaciją apie tai, kad kandidatai atitinka šiame straipsnyje nustatytus reikalavimus. ^s-8f24436571995a957debc191
 
 
-9. Kultūros ir meno organizacijų vadovai ir šio straipsnio 3, 4 ir [[#^s-d4805814a36c0e8b8992a425|5 dalyse]] nurodytų organizacijų pasiūlyti rinkėjai negali būti siūlomi į Tarybos narius. ^s-008039dae48e10e78012e4d9
+9. Kultūros ir meno organizacijų vadovai ir šio straipsnio [[#^s-58bf94fede4b03232553fc35|3]], [[#^s-2e700257f99788aca61df33a|4]] ir [[#^s-d4805814a36c0e8b8992a425|5]] dalyse nurodytų organizacijų pasiūlyti rinkėjai negali būti siūlomi į Tarybos narius. ^s-008039dae48e10e78012e4d9
 
 
 10. Rinkėjai balsuoja slaptai, rinkimų biuletenyje pažymėdami ne daugiau kaip 20 kandidatų į Tarybos narius pavardes. Išrinktais laikomi 20 kandidatų, surinkę daugiausia balsų. Jeigu mažiausią vienodą balsų skaičių surenka daugiau kandidatų, negu reikia išrinkti, balsavimas kartojamas. Šiuo atveju balsavimo biuletenyje paliekamos tik po vienodą balsų skaičių surinkusių kandidatų pavardės. ^s-01346ad0de0f013d78efbc26

@@ -44,7 +44,7 @@ Vilnius
 Papildyti 1 straipsnį 4 dalimi:
 
 
-„4. Tais atvejais, kai taikomas [[latest/TAR.C6C5599DD9A1#^s-b8da601c5f66e3f327176038|Mokėjimų įstatymas, vietoj šio įstatymo 36 straipsnio]] 5–9 dalyse nustatytų informacijos reikalavimų, išskyrus šio įstatymo 36 straipsnio 7 dalies 3–8 punktus, 8 dalies 1, 4 ir 5 punktus ir 9 dalies 2 punktą, taikomos [[latest/TAR.C6C5599DD9A1#^s-544d6081c89f532a267863fc|Mokėjimų įstatymo 10 ir 17 straipsnių]] nuostatos.“
+„4. Tais atvejais, kai taikomas [[latest/TAR.C6C5599DD9A1#^s-b8da601c5f66e3f327176038|Mokėjimų įstatymas, vietoj šio įstatymo 36 straipsnio]] [[latest/TAR.C6C5599DD9A1|5]]–[[latest/TAR.C6C5599DD9A1|9]] dalyse nustatytų informacijos reikalavimų, išskyrus šio įstatymo 36 straipsnio 7 dalies 3–8 punktus, 8 dalies 1, 4 ir 5 punktus ir 9 dalies 2 punktą, taikomos [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] [[latest/TAR.C6C5599DD9A1#^s-55e4b92153c7e5b26380382c|10]] ir [[latest/TAR.C6C5599DD9A1#^s-544d6081c89f532a267863fc|17]] straipsnių nuostatos.“
 
 
 

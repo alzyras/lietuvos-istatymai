@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos mokslo ir studijų įstatymo 7, 11, 21, 22, 6
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.C595FF45F869|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Lietuvos Respublikos mokslo ir studijų įstatymo 70 straipsnio 7 dalies
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C595FF45F869#^s-76226fc1bd60145b22b44d51|Lietuvos Respublikos mokslo ir studijų įstatymas]] - 2 citatos - MOKSLO IR STUDIJŲ ĮSTATYMO 7, 11, 21, 22, 69, 70 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.C595FF45F869#^s-c01667f4509815403772ac77|Lietuvos Respublikos mokslo ir studijų įstatymas]] - 2 citatos - MOKSLO IR STUDIJŲ ĮSTATYMO 7, 11, 21, 22, 69, 70 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.C595FF45F869#^s-76226fc1bd60145b22b44d51|Lietuvos Respublikos mokslo ir studijų įstatymas]] - MOKSLO IR STUDIJŲ ĮSTATYMO 7, 11, 21, 22, 69, 70 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

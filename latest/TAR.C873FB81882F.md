@@ -44,7 +44,7 @@ Vilnius
 1. Papildyti [[#^s-f4bd081bba20cb93e484dffd|2 straipsnį]] nauja 7 dalimi: ^s-5d0ba5777ba80c7d0e1e6d0a
 
 
-„7. Europos priežiūros institucijų jungtinis komitetas – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48), ir 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84), įsteigtas komitetas.“
+„7. Europos priežiūros institucijų jungtinis komitetas – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (OL 2010 L 331, p. 12), 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48), ir 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB (OL 2010 L 331, p. 84), įsteigtas komitetas.“
 
 
 2. Buvusią 2 straipsnio 7 dalį laikyti 8 dalimi. ^s-0cc3c7f5aabec819aa2071c1
@@ -53,7 +53,7 @@ Vilnius
 3. Papildyti [[#^s-f4bd081bba20cb93e484dffd|2 straipsnį]] nauja 9 dalimi: ^s-f79bccb68c7e632a3994fa4c
 
 
-„9. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) įsteigta institucija.“
+„9. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj) dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) įsteigta institucija.“
 
 
 4. Buvusias [[#^s-f4bd081bba20cb93e484dffd|2 straipsnio]] 9–26 dalis laikyti atitinkamai 10–28 dalimis. ^s-de8e3e37293b647eeae3e6d7
@@ -102,13 +102,13 @@ Papildyti 10 straipsnio 2 dalį 4 punktu:
 1. Pakeisti 16 straipsnio 3 dalį ir ją išdėstyti taip: ^s-d8d22e72b86ab220ab578890
 
 
-„3. Lietuvos Respublikos kompetentinga institucija taip pat turi teisę keistis informacija, susijusia su prižiūrimomis finansų konglomerato įmonėmis ir reikalinga atitinkamoms funkcijoms pagal sektoriaus taisykles atlikti, su centriniais bankais, Europos centrinių bankų sistema, Europos centriniu banku ir Europos sisteminės rizikos valdyba pagal Reglamentą (ES) Nr. 1092/2010.“
+„3. Lietuvos Respublikos kompetentinga institucija taip pat turi teisę keistis informacija, susijusia su prižiūrimomis finansų konglomerato įmonėmis ir reikalinga atitinkamoms funkcijoms pagal sektoriaus taisykles atlikti, su centriniais bankais, Europos centrinių bankų sistema, Europos centriniu banku ir Europos sisteminės rizikos valdyba pagal [Reglamentą (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj).“
 
 
 2. Papildyti 16 straipsnį 8 dalimi: ^s-b54f95589e9fed77a1a326b1
 
 
-„8. Lietuvos Respublikos kompetentinga institucija, vykdydama šiame įstatyme nustatytas funkcijas, pagal Reglamentą (ES) Nr. 1093/2010, Reglamentą (ES) Nr. 1094/2010 ir Reglamentą (ES) Nr. 1095/2010 bendradarbiauja su Europos priežiūros institucijų jungtiniu komitetu ir nedelsdama teikia jam visą jo užduotims vykdyti būtiną informaciją.“
+„8. Lietuvos Respublikos kompetentinga institucija, vykdydama šiame įstatyme nustatytas funkcijas, pagal [Reglamentą (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), [Reglamentą (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj) ir [Reglamentą (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj) bendradarbiauja su Europos priežiūros institucijų jungtiniu komitetu ir nedelsdama teikia jam visą jo užduotims vykdyti būtiną informaciją.“
 
 
 
@@ -118,7 +118,7 @@ Papildyti 10 straipsnio 2 dalį 4 punktu:
 Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Įmonės, kurioms taikoma papildoma priežiūra, nepaisant to, ar jos yra prižiūrimos įmonės, turi teisę, nepaisydamos Lietuvos Respublikos įstatymuose ar jų lydimuosiuose teisės aktuose nustatytų apribojimų, keistis bet kokia informacija, kuri reikalinga papildomos priežiūros tikslams įgyvendinti, taip pat keistis informacija pagal šį įstatymą su Europos priežiūros institucijomis atitinkamai pagal Reglamentą (ES) Nr. 1093/2010, Reglamentą (ES) Nr. 1094/2010 ar Reglamentą (ES) Nr. 1095/2010, prireikus pasitelkdamos Europos priežiūros institucijų jungtinį komitetą.“
+„1. Įmonės, kurioms taikoma papildoma priežiūra, nepaisant to, ar jos yra prižiūrimos įmonės, turi teisę, nepaisydamos Lietuvos Respublikos įstatymuose ar jų lydimuosiuose teisės aktuose nustatytų apribojimų, keistis bet kokia informacija, kuri reikalinga papildomos priežiūros tikslams įgyvendinti, taip pat keistis informacija pagal šį įstatymą su Europos priežiūros institucijomis atitinkamai pagal [Reglamentą (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), [Reglamentą (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj) ar [Reglamentą (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj), prireikus pasitelkdamos Europos priežiūros institucijų jungtinį komitetą.“
 
 
 
@@ -128,7 +128,7 @@ Pakeisti 17 straipsnio 1 dalį ir ją išdėstyti taip:
 Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Šio įstatymo 5 straipsnio 4 dalyje nurodytu atveju kompetentingos institucijos įvertina, ar prižiūrimoms įmonėms, kurių patronuojančios įmonės buveinė yra užsienio valstybėje, taikoma užsienio valstybės kompetentingų institucijų priežiūra yra lygiavertė šiame įstatyme nustatytai prižiūrimų įmonių papildomai priežiūrai dėl šio įstatymo [[#^s-bf8821c0d3e531b5c9b26984|5 straipsnio]] 2 ir 3 dalyse nurodytų įmonių. Šį įvertinimą bet kurių Europos Sąjungos valstybėje narėje licenciją gavusių prižiūrimų įmonių prašymu ar savo iniciatyva atlieka Lietuvos Respublikos kompetentinga institucija, jeigu taikydama šio įstatymo 14 straipsnyje nustatytus kriterijus ji būtų koordinatorius. Tokiu atveju Lietuvos Respublikos kompetentinga institucija, prieš priimdama sprendimą, konsultuojasi su kitomis atitinkamomis kompetentingomis institucijomis ir deda visas pastangas, kad būtų laikomasi visų taikomų gairių, kurias atitinkamai pagal Reglamentą (ES) Nr. 1093/2010, Reglamentą (ES) Nr. 1094/2010 ar Reglamentą (ES) Nr. 1095/2010 parengia Europos priežiūros institucijų jungtinis komitetas. Kai kompetentinga institucija nesutinka su sprendimu, kurį priėmė kita atitinkama kompetentinga institucija pagal šią dalį, taikomas atitinkamai Reglamento (ES) Nr. 1093/2010, Reglamento (ES) Nr. 1094/2010 ar Reglamento (ES) Nr. 1095/2010 19 straipsnis.“
+„1. Šio įstatymo 5 straipsnio 4 dalyje nurodytu atveju kompetentingos institucijos įvertina, ar prižiūrimoms įmonėms, kurių patronuojančios įmonės buveinė yra užsienio valstybėje, taikoma užsienio valstybės kompetentingų institucijų priežiūra yra lygiavertė šiame įstatyme nustatytai prižiūrimų įmonių papildomai priežiūrai dėl šio įstatymo [[#^s-bf8821c0d3e531b5c9b26984|5 straipsnio]] [[#^s-b54f95589e9fed77a1a326b1|2]] ir 3 dalyse nurodytų įmonių. Šį įvertinimą bet kurių Europos Sąjungos valstybėje narėje licenciją gavusių prižiūrimų įmonių prašymu ar savo iniciatyva atlieka Lietuvos Respublikos kompetentinga institucija, jeigu taikydama šio įstatymo 14 straipsnyje nustatytus kriterijus ji būtų koordinatorius. Tokiu atveju Lietuvos Respublikos kompetentinga institucija, prieš priimdama sprendimą, konsultuojasi su kitomis atitinkamomis kompetentingomis institucijomis ir deda visas pastangas, kad būtų laikomasi visų taikomų gairių, kurias atitinkamai pagal [Reglamentą (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), [Reglamentą (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj) ar [Reglamentą (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj) parengia Europos priežiūros institucijų jungtinis komitetas. Kai kompetentinga institucija nesutinka su sprendimu, kurį priėmė kita atitinkama kompetentinga institucija pagal šią dalį, taikomas atitinkamai [Reglamento (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), [Reglamento (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj) ar [Reglamento (ES) Nr. 1095/2010 19 straipsnis](https://eur-lex.europa.eu/eli/reg/1095/2010/art_19/oj).“
 
 
 

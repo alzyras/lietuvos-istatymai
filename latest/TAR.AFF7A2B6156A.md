@@ -55,7 +55,7 @@ Pakeisti 33 straipsnį ir jį išdėstyti taip:
 „33 straipsnis. Lietuvos darbo biržos funkcijos socialinio draudimo sistemoje
 
 
-Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos disponuoja įstatymų ir socialinės apsaugos ir darbo ministro nustatyta tvarka iš Fondo gautomis lėšomis, skirsto jas teritorinėms darbo biržoms Užimtumo rėmimo įstatymo nustatytoms užimtumo rėmimo priemonėms įgyvendinti ir vykdo jų panaudojimo kontrolę.“
+Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos disponuoja įstatymų ir socialinės apsaugos ir darbo ministro nustatyta tvarka iš Fondo gautomis lėšomis, skirsto jas teritorinėms darbo biržoms [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytoms užimtumo rėmimo priemonėms įgyvendinti ir vykdo jų panaudojimo kontrolę.“
 
 
 

@@ -43,7 +43,7 @@ Pripažinti netekusiais galios:
 1) Lietuvos Respublikos profesinių sąjungų turto paskirstymo įstatymą (Žin., 2000, Nr. 67-2018); ^s-7485e7b6fae457d6f93f04a5
 
 
-2) Lietuvos Respublikos profesinių sąjungų turto paskirstymo įstatymo pakeitimo įstatymą (Žin., 2002, Nr. 15-549). ^s-a6761cbd4cff27eb730c79f0
+2) [Lietuvos Respublikos profesinių sąjungų turto paskirstymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.FAE7B76A239A) pakeitimo įstatymą (Žin., 2002, Nr. 15-549). ^s-a6761cbd4cff27eb730c79f0
 
 
 

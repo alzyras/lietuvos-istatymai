@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-d57929986f46a878ce06871d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. kovo 12 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Kazachstano Respublikos sutarties dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose protokolą“, ratifikuoja Lietuvos Respublikos ir Kazachstano Respublikos sutarties dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose protokolą, pasirašytą 1997 m. kovo 7 d. Alma Atoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. kovo 12 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Kazachstano Respublikos sutarties dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose protokolą“](https://e-tar.lt/portal/lt/legalAct/TAR.CD1C84CF19ED), ratifikuoja Lietuvos Respublikos ir Kazachstano Respublikos sutarties dėl teisinės pagalbos ir teisinių santykių civilinėse, šeimos ir baudžiamosiose bylose protokolą, pasirašytą 1997 m. kovo 7 d. Alma Atoje.
 
 
 

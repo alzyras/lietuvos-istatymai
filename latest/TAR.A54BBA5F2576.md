@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-7504983a9b60e17d35a3ad55
-[[latest/TAR.94F6B680E8B8#^s-931f5a1629c199165a4a6bcb|Sveikatos draudimo įstatymo 7, 17, 18 ir 19 straipsnių]] pakeitimo įstatymo pripažinimas netekusiu galios
+[Sveikatos draudimo įstatymo 7, 17, 18 ir 19 straipsnių pakeitimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.AF29713ED2DD) pripažinimas netekusiu galios
 
 (Žin., 2002, Nr. 52-1985)
 
@@ -44,12 +44,12 @@ Vilnius
 ### 1 straipsnis.         Sveikatos draudimo įstatymo 7, 17, 18 ir 19 straipsnių pakeitimo įstatymo pripažinimas netekusiu galios ^s-9626c3947fdee10106a47057
 
 
-[[latest/TAR.94F6B680E8B8#^s-931f5a1629c199165a4a6bcb|Sveikatos draudimo įstatymo 7, 17, 18 ir 19 straipsnių]] įstatymo pakeitimo įstatymą pripažinti netekusiu galios.
+[[latest/TAR.94F6B680E8B8|Sveikatos draudimo įstatymo]] [[latest/TAR.94F6B680E8B8#^s-b2ff3ccc6f80ae96468f765f|7]], [[latest/TAR.94F6B680E8B8#^s-b2aba1272cdaf55c3a9c747e|17]], [[latest/TAR.94F6B680E8B8#^s-07bb2dcb3acbdd0ecb8a0b99|18]] ir [[latest/TAR.94F6B680E8B8#^s-931f5a1629c199165a4a6bcb|19]] straipsnių įstatymo pakeitimo įstatymą pripažinti netekusiu galios.
 
 
 
 ### ANTRASIS SKIRSNIS ^s-a20291e171c94ecaedd4392c
-[[latest/TAR.94F6B680E8B8#^s-bb2eb241cb69425bf0334688|Sveikatos draudimo įstatymo 9, 15, 32 straipsnių]] pakeitimo IR PAPILDYMO įstatymo pripažinimas netekusiu galios
+[Sveikatos draudimo įstatymo 9, 15, 32 straipsnių pakeitimo IR PAPILDYMO įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.6915932BBCF1) pripažinimas netekusiu galios
 
 (Žin., 2002, Nr. 72-3021)
 
@@ -58,12 +58,12 @@ Vilnius
 ### 1 straipsnis.         Sveikatos draudimo įstatymo 9, 15, 32 straipsnių pakeitimo ir papildymo įstatymo pripažinimas netekusiu galios ^s-a7a151fb92bbb067b49bec15
 
 
-[[latest/TAR.94F6B680E8B8#^s-bb2eb241cb69425bf0334688|Sveikatos draudimo įstatymo 9, 15, 32 straipsnių]] pakeitimo ir papildymo įstatymą pripažinti netekusiu galios.
+[[latest/TAR.94F6B680E8B8|Sveikatos draudimo įstatymo]] [[latest/TAR.94F6B680E8B8#^s-9ca53152c0abd65c27481071|9]], [[latest/TAR.94F6B680E8B8#^s-fba30b46fc759ee654a2e670|15]], [[latest/TAR.94F6B680E8B8#^s-bb2eb241cb69425bf0334688|32]] straipsnių pakeitimo ir papildymo įstatymą pripažinti netekusiu galios.
 
 
 
 ### TREČIASIS SKIRSNIS ^s-e5b0d8c3546d9cc48d5c4644
-[[latest/TAR.94F6B680E8B8#^s-4fd8d1ebac8222954e44a284|Sveikatos draudimo įstatymo 5 straipsnio]] pakeitimo įstatymo pripažinimas netekusiu galios
+[Sveikatos draudimo įstatymo 5 straipsnio pakeitimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.0EF25BF4A772) pripažinimas netekusiu galios
 
 (Žin., 2002, Nr. 105-4686)
 

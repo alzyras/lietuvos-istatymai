@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimų ratifikavimas ^s-54be6b8baaaa3e8647987a50
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. gegužės 6 d. dekretą Nr. 292, ratifikuoja Lietuvos Respublikos ir Kaimanų salų susitarimą dėl taupymo pajamų apmokestinimo, Lietuvos Respublikos ir Jungtinės Karalystės Montserrato užjūrio teritorijos susitarimą dėl taupymo pajamų apmokestinimo, Lietuvos Respublikos ir Turkso ir Caicoso salų susitarimą dėl taupymo pajamų apmokestinimo, Lietuvos Respublikos ir Angilijos Vyriausybės susitarimą dėl automatinio keitimosi informacija apie palūkanas, gautas iš taupymo pajamų, ir Lietuvos Respublikos ir Britanijos Mergelių salų Vyriausybės susitarimą dėl taupymo pajamų apmokestinimo, sudarytus pasikeičiant laiškais.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. gegužės 6 d. dekretą Nr. 292](https://e-tar.lt/portal/lt/legalAct/TAR.2B0864C7F07C), ratifikuoja Lietuvos Respublikos ir Kaimanų salų susitarimą dėl taupymo pajamų apmokestinimo, Lietuvos Respublikos ir Jungtinės Karalystės Montserrato užjūrio teritorijos susitarimą dėl taupymo pajamų apmokestinimo, Lietuvos Respublikos ir Turkso ir Caicoso salų susitarimą dėl taupymo pajamų apmokestinimo, Lietuvos Respublikos ir Angilijos Vyriausybės susitarimą dėl automatinio keitimosi informacija apie palūkanas, gautas iš taupymo pajamų, ir Lietuvos Respublikos ir Britanijos Mergelių salų Vyriausybės susitarimą dėl taupymo pajamų apmokestinimo, sudarytus pasikeičiant laiškais.
 
 
 

@@ -10,9 +10,7 @@ pavadinimas: "Lietuvos Respublikos valstybės tarnybos įstatymo 7, 8, 24 straip
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatymas]] - 3 citatos - Diplomatinės tarnybos įstatymo
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės tarnybos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D3ED3792F52B#^s-04a592117515d4348b0b28ca|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - VALSTYBĖS TARNYBOS ĮSTATYMO 7, 8, 24 STRAIPSNIŲ IR PRIEDĖLIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 2, 3 PRIEDAIS ĮSTATYMAS
-- [[latest/TAR.D3ED3792F52B#^s-f8f6d23dbae0a0333a1202d3|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - VALSTYBĖS TARNYBOS ĮSTATYMO 7, 8, 24 STRAIPSNIŲ IR PRIEDĖLIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 2, 3 PRIEDAIS ĮSTATYMAS
+- [[latest/TAR.D3ED3792F52B#^s-f8f6d23dbae0a0333a1202d3|Lietuvos Respublikos valstybės tarnybos įstatymas]] - VALSTYBĖS TARNYBOS ĮSTATYMO 7, 8, 24 STRAIPSNIŲ IR PRIEDĖLIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 2, 3 PRIEDAIS ĮSTATYMAS

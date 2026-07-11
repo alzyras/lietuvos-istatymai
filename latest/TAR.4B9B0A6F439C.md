@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-6009b00c33d0f6399ebbe643
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. gruodžio 13 d. dekretą Nr. 1K-831, ratifikuoja 2006 m. balandžio 20 d. Seule pasirašytą Lietuvos Respublikos Vyriausybės ir Korėjos Respublikos Vyriausybės sutartį dėl pajamų dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. gruodžio 13 d. dekretą Nr. 1K-831](https://e-tar.lt/portal/lt/legalAct/TAR.77564CF684BF), ratifikuoja 2006 m. balandžio 20 d. Seule pasirašytą Lietuvos Respublikos Vyriausybės ir Korėjos Respublikos Vyriausybės sutartį dėl pajamų dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
 
 
 

@@ -79,7 +79,7 @@ Pakeisti 38 straipsnio 7 dalies 2 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. Įstatymo taikymas ^s-fad3fac783c0911590232123
 
 
-Šio įstatymo [[#^s-81a1890bd853c6491e28d493|1 straipsnio]] 2, 3 ir 4 dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių mokestinių laikotarpių apmokestinamąsias pajamas.
+Šio įstatymo [[#^s-81a1890bd853c6491e28d493|1 straipsnio]] [[#^s-cfccdf53e197c47e6b14035c|2]], [[#^s-41d3f5267277bdd3fe489982|3]] ir [[#^s-8038362f94198fd7af25a601|4]] dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių mokestinių laikotarpių apmokestinamąsias pajamas.
 
 
 

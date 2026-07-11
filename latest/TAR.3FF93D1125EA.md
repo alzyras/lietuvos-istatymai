@@ -45,7 +45,7 @@ Vilnius
 Pakeisti 17 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
-„5. Valstybės ar savivaldybės įmonės ir viešosios įstaigos, kurioms viešojo administravimo įgaliojimai buvo suteikti iki šio įstatymo įsigaliojimo, toliau atlieka joms pavestas viešojo administravimo funkcijas. Nauji viešojo administravimo įgaliojimai viešosioms įstaigoms suteikiami Viešojo administravimo įstatymo 41 straipsnio 2 dalyje nustatyta tvarka.“
+„5. Valstybės ar savivaldybės įmonės ir viešosios įstaigos, kurioms viešojo administravimo įgaliojimai buvo suteikti iki šio įstatymo įsigaliojimo, toliau atlieka joms pavestas viešojo administravimo funkcijas. Nauji viešojo administravimo įgaliojimai viešosioms įstaigoms suteikiami [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo 41 straipsnio 2 dalyje]] nustatyta tvarka.“
 
 
 

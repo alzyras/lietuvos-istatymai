@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos karo prievolės įstatymo pakeitimo ir papild
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]] - Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas
 
 ## Šį įstatymą cituoja
 

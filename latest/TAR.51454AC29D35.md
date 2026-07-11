@@ -235,7 +235,7 @@ Kai operacija pinigais, apie kurią pagal šį Įstatymą turi būti pranešta F
 3. Kredito įstaigos praneša Finansinių nusikaltimų tyrimo tarnybai kliento tapatybę patvirtinančius duomenis ir informaciją apie vienkartinį grynųjų pinigų keitimą iš vienos valiutos į kitą, jeigu keičiamų grynųjų pinigų suma viršija 20 000 litų ar ją atitinkančią sumą užsienio valiuta. ^s-5eafa354bb9ad94a1fee5c0d
 
 
-4. Šio straipsnio 1–[[#^s-5eafa354bb9ad94a1fee5c0d|3 dalyse]] nurodyta informacija Finansinių nusikaltimų tyrimo tarnybai pateikiama nedelsiant, ne vėliau kaip per 7 darbo dienas nuo operacijos atlikimo dienos. ^s-51bc4be6128794e92235de87
+4. Šio straipsnio [[#^s-85a6c36a3b1d9a643c1f2b14|1]]–[[#^s-5eafa354bb9ad94a1fee5c0d|3]] dalyse nurodyta informacija Finansinių nusikaltimų tyrimo tarnybai pateikiama nedelsiant, ne vėliau kaip per 7 darbo dienas nuo operacijos atlikimo dienos. ^s-51bc4be6128794e92235de87
 
 
 5. [[#^s-85a6c36a3b1d9a643c1f2b14|Šio straipsnio 1 dalyje]] nurodyta informacija Finansinių nusikaltimų tyrimo tarnybai neteikiama, jeigu kredito ar finansinės įstaigos klientas yra kita kredito ar finansinė įstaiga. ^s-c987403deb86d9b9480f9c45

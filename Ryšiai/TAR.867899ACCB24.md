@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.3EB34933E485#^s-165a514f5b02ec3454d3a4c4|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 33, 40, 42, 55, 63, 64, 95, 102, 106 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.3EB34933E485#^s-471ad9654ded2e34c0e8a829|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 33, 40, 42, 55, 63, 64, 95, 102, 106 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.3EB34933E485#^s-165a514f5b02ec3454d3a4c4|Lietuvos Respublikos mokesčių administravimo įstatymas]] - MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 33, 40, 42, 55, 63, 64, 95, 102, 106 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

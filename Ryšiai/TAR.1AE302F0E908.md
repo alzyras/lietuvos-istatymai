@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos strateginių prekių eksporto, importo ir tra
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.AB5C4F8C996B|Lietuvos Respublikos strateginių prekių kontrolės įstatymas]] - Lietuvos Respublikos strateginių prekių kontrolės įstatymo
-- [[latest/TAR.F707D11C62FE|Lietuvos Respublikos tarptautinių sankcijų įstatymas]] - 2 citatos - Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatyme
-- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - 2 citatos - Valstybės ir tarnybos paslapčių įstatymo
+- [[latest/TAR.F707D11C62FE|Lietuvos Respublikos tarptautinių sankcijų įstatymas]] - Lietuvos Respublikos ekonominių ir kitų tarptautinių sankcijų įgyvendinimo įstatyme
+- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - Valstybės ir tarnybos paslapčių įstatymo
 
 ## Šį įstatymą cituoja
 

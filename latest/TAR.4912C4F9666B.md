@@ -149,7 +149,7 @@ Papildyti Įstatymą 191 straipsniu:
 „1. Vadovybės apsaugos departamento pareigūnas šio Įstatymo ir kitų teisės aktų nustatytais atvejais ir tvarka turi teisę panaudoti psichinę ar (ir) fizinę prievartą, šaunamąjį ginklą bei sprogstamąsias medžiagas.“
 
 
-2. Papildyti 22 straipsnį nauja [[#^s-cb4392e0a9d5ecf5a7bb85ef|2 dalimi]]: ^s-cb4392e0a9d5ecf5a7bb85ef
+2. Papildyti 22 straipsnį nauja 2 dalimi: ^s-cb4392e0a9d5ecf5a7bb85ef
 
 
 „2. Psichinė prievarta šiame Įstatyme suprantama kaip įspėjimas apie ketinimą panaudoti fizinę prievartą, šaunamąjį ginklą ar sprogstamąsias medžiagas. Psichinei prievartai prilyginamas šaunamojo ginklo demonstravimas ir įspėjamieji šūviai, tačiau šias psichinės prievartos priemones galima naudoti tik šio Įstatymo 24 straipsnio 2, 4, 5 dalyse išvardytomis sąlygomis.“

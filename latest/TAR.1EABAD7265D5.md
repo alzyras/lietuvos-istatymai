@@ -191,7 +191,7 @@ Nr. XV-300, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11969
 31. Valstybė narė – valstybė Europos Sąjungos narė, taip pat Europos ekonominės erdvės valstybė. ^s-f116070b37e713cafbc302e0
 
 
-32. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatyme]], [[latest/TAR.779892D853B4|Finansų įstaigų įstatyme]], [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatyme]], [[latest/a71c2bf036d511efbdaea558de59136c|Įmonių ir įmonių grupių atskaitomybės įstatyme]], [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatyme]], [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]], 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB. ^s-4c720b0d117a446f70192346
+32. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatyme]], [[latest/TAR.779892D853B4|Finansų įstaigų įstatyme]], [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatyme]], [[latest/a71c2bf036d511efbdaea558de59136c|Įmonių ir įmonių grupių atskaitomybės įstatyme]], [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatyme]], [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]], 2017 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB. ^s-4c720b0d117a446f70192346
 Straipsnio dalies pakeitimai:
 Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 Nr. XV-300, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11969
@@ -340,7 +340,7 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS-VALDYTOJOS VEIKLOS LEIDIMO IŠDAVIM
 4. Verstis pagal šį įstatymą veikiančios investicinės bendrovės-valdytojos veikla turi teisę tik akcinė bendrovė, uždaroji akcinė bendrovė, tikroji ūkinė bendrija ar komanditinė ūkinė bendrija, turinčios priežiūros institucijos išduotą veiklos leidimą. Veiklos leidimas turi būti gautas prieš akcinei bendrovei, uždarajai akcinei bendrovei, tikrajai ūkinei bendrijai ar komanditinei ūkinei bendrijai pradedant akcijų platinimą ar prieš pateikiant siūlymą įnešti įnašą. ^s-98887de668aa247ebd7c9301
 
 
-5. Įmonė, kuri savo arba jos valdomo subjekto investicinius vienetus, akcijas ar kitus dalyvavimą juridiniame asmenyje patvirtinančius vertybinius popierius arba teises siūlo įsigyti ar įsipareigoti tai padaryti ateityje iš anksto nustatytai ir žinomai asmenų, atitinkančių šio įstatymo [[#^s-e51c5d9aacdee8bc49edce6a|3 straipsnyje]] informuotiesiems investuotojams keliamus reikalavimus, grupei, taip pat įmonė, kurios arba jos valdomo subjekto investicinius vienetus, akcijas ar kitus dalyvavimą juridiniame asmenyje patvirtinančius vertybinius popierius arba teises įsigyja ar įsipareigoja tai padaryti ateityje savo iniciatyva be ankstesnio įmonės kreipimosi į šiuos asmenis su tokiu siūlymu, neprivalo gauti šio straipsnio 1 ir [[#^s-98887de668aa247ebd7c9301|4 dalyse]] nurodyto veiklos leidimo šioje dalyje nurodytai veiklai vykdyti. ^s-d377bb45e3a84b212b3eb4bc
+5. Įmonė, kuri savo arba jos valdomo subjekto investicinius vienetus, akcijas ar kitus dalyvavimą juridiniame asmenyje patvirtinančius vertybinius popierius arba teises siūlo įsigyti ar įsipareigoti tai padaryti ateityje iš anksto nustatytai ir žinomai asmenų, atitinkančių šio įstatymo [[#^s-e51c5d9aacdee8bc49edce6a|3 straipsnyje]] informuotiesiems investuotojams keliamus reikalavimus, grupei, taip pat įmonė, kurios arba jos valdomo subjekto investicinius vienetus, akcijas ar kitus dalyvavimą juridiniame asmenyje patvirtinančius vertybinius popierius arba teises įsigyja ar įsipareigoja tai padaryti ateityje savo iniciatyva be ankstesnio įmonės kreipimosi į šiuos asmenis su tokiu siūlymu, neprivalo gauti šio straipsnio [[#^s-70ca5696457cc1a59e5fde03|1]] ir [[#^s-98887de668aa247ebd7c9301|4]] dalyse nurodyto veiklos leidimo šioje dalyje nurodytai veiklai vykdyti. ^s-d377bb45e3a84b212b3eb4bc
 
 
 
@@ -359,7 +359,7 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS-VALDYTOJOS VEIKLOS LEIDIMO IŠDAVIM
 4. Valdymo įmonės, kolektyvinio investavimo subjekto pavadinime ir (ar) dokumentuose draudžiama vartoti žodžius, žodžių junginius, santrumpas ar kitą informaciją, sudarančią klaidingą įspūdį, kad subjektai veikia pagal šį įstatymą, jeigu tam dar nėra gautas priežiūros institucijos išduodamas veiklos leidimas arba pritarimas steigimo dokumentams. ^s-5c55a34f8b49d300ba24e17e
 
 
-5. Šio straipsnio 1 ir [[#^s-5c55a34f8b49d300ba24e17e|4 dalyse]] nustatyti reikalavimai netaikomi juridinių asmenų, keičiančių savo veiklos sritį arba steigiamų siekiant veikti pagal šį įstatymą kaip valdymo įmonės ar kolektyvinio investavimo subjektai, steigimo dokumentams tiek, kiek tai būtina siekiant šiuos dokumentus įregistruoti Juridinių asmenų registre ir juos pateikti priežiūros institucijai. Atliekant šiuos veiksmus (išskyrus steigimo dokumentų teikimą priežiūros institucijai) turi būti aiškiai nurodoma, kad juridinis asmuo nėra gavęs priežiūros institucijos išduodamo veiklos leidimo veikti pagal šį įstatymą arba nėra gavęs pritarimo steigimo dokumentams. ^s-763176694df150b3a5b90baa
+5. Šio straipsnio [[#^s-2d1a18715f9240e3626ccaa5|1]] ir [[#^s-5c55a34f8b49d300ba24e17e|4]] dalyse nustatyti reikalavimai netaikomi juridinių asmenų, keičiančių savo veiklos sritį arba steigiamų siekiant veikti pagal šį įstatymą kaip valdymo įmonės ar kolektyvinio investavimo subjektai, steigimo dokumentams tiek, kiek tai būtina siekiant šiuos dokumentus įregistruoti Juridinių asmenų registre ir juos pateikti priežiūros institucijai. Atliekant šiuos veiksmus (išskyrus steigimo dokumentų teikimą priežiūros institucijai) turi būti aiškiai nurodoma, kad juridinis asmuo nėra gavęs priežiūros institucijos išduodamo veiklos leidimo veikti pagal šį įstatymą arba nėra gavęs pritarimo steigimo dokumentams. ^s-763176694df150b3a5b90baa
 
 
 
@@ -417,7 +417,7 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS-VALDYTOJOS VEIKLOS LEIDIMO IŠDAVIM
 7) patvirtinimo dokumentą, kad nė vienas iš investicinės bendrovės-valdytojos darbuotojų nėra Lietuvos Respublikoje veikiančios reguliuojamos rinkos, daugiašalės prekybos sistemos operatoriaus, priežiūros institucijos ar centrinio vertybinių popierių depozitoriumo darbuotojas; ^s-04aabe6ac2fc0b65c710d3ec
 
 
-8) organizacinės struktūros aprašymą, jeigu ši informacija nėra pateikiama viename iš dokumentų, kurie vadovaujantis šios dalies 1, 2 ir [[#^s-7a7e0007db57675041bf3c24|3 punktais]] teikiami priežiūros institucijai; ^s-130abf1a960a8ef97b423dd3
+8) organizacinės struktūros aprašymą, jeigu ši informacija nėra pateikiama viename iš dokumentų, kurie vadovaujantis šios dalies [[#^s-18251e40cdd960265c9b61ee|1]], [[#^s-a00d817d3851acb1f781c7c0|2]] ir [[#^s-7a7e0007db57675041bf3c24|3]] punktais teikiami priežiūros institucijai; ^s-130abf1a960a8ef97b423dd3
 
 
 9) patvirtinimo dokumentą, kad investicinė bendrovė-valdytoja yra parengusi ir patvirtinusi pagrindinių funkcijų atlikimo kontrolės sistemos aprašymą, investavimo rizikos valdymo politikos ir interesų konfliktų valdymo politikos aprašus; ^s-bf10416c09bc2616ea07f1d6
@@ -426,13 +426,13 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS-VALDYTOJOS VEIKLOS LEIDIMO IŠDAVIM
 10) patvirtinimo dokumentą, kad pagrindinės informacijos investuotojams dokumentas yra parengtas, išskyrus atvejus, kai steigimo dokumente ir prospekte yra nurodyta, kad šio kolektyvinio investavimo subjekto investicinius vienetus, akcijas gali įgyti tik profesionalieji investuotojai. ^s-05132e90d040cd9b83a38495
 
 
-4. Priežiūros institucijai pateikiami aktualūs šio straipsnio 2 ir [[#^s-a6240e316c5604b659811a47|3 dalyse]] nurodyti dokumentai ir informacija. Jeigu nuo [[#^s-7dc905cd172a3844e115c060|šio straipsnio 1 dalyje]] nurodyto prašymo pateikimo iki priežiūros institucijos sprendimo išduoti valdymo įmonės arba investicinės bendrovės-valdytojos veiklos leidimą dienos šie dokumentai ir (arba) informacija pasikeičia, prašymą pateikęs asmuo ne vėliau kaip per 3 darbo dienas nuo dokumentų ir informacijos pasikeitimo dienos priežiūros institucijai pateikia aktualius dokumentus ir (arba) informaciją, nurodydama atliktus pakeitimus. Iki investicinės bendrovės-valdytojos veiklos leidimo išdavimo priežiūros institucijai turi būti pateiktas pranešimas apie investicinės bendrovės-valdytojos įstatų įregistravimą Juridinių asmenų registre. ^s-65783bc949129370aa3139bf
+4. Priežiūros institucijai pateikiami aktualūs šio straipsnio [[#^s-5670b3b204ad7e5643abd400|2]] ir [[#^s-a6240e316c5604b659811a47|3]] dalyse nurodyti dokumentai ir informacija. Jeigu nuo [[#^s-7dc905cd172a3844e115c060|šio straipsnio 1 dalyje]] nurodyto prašymo pateikimo iki priežiūros institucijos sprendimo išduoti valdymo įmonės arba investicinės bendrovės-valdytojos veiklos leidimą dienos šie dokumentai ir (arba) informacija pasikeičia, prašymą pateikęs asmuo ne vėliau kaip per 3 darbo dienas nuo dokumentų ir informacijos pasikeitimo dienos priežiūros institucijai pateikia aktualius dokumentus ir (arba) informaciją, nurodydama atliktus pakeitimus. Iki investicinės bendrovės-valdytojos veiklos leidimo išdavimo priežiūros institucijai turi būti pateiktas pranešimas apie investicinės bendrovės-valdytojos įstatų įregistravimą Juridinių asmenų registre. ^s-65783bc949129370aa3139bf
 
 
 5. Priežiūros institucija, siekdama įsitikinti, kad akcinė bendrovė, uždaroji akcinė bendrovė, tikroji ūkinė bendrija ar komanditinė ūkinė bendrija atitinka visus šiame įstatyme ir jo įgyvendinamuosiuose teisės aktuose nustatytus valdymo įmonei ar investicinei bendrovei-valdytojai keliamus reikalavimus, turi teisę reikalauti papildomų su valdymo įmonės ar investicinės bendrovės-valdytojos planuojama vykdyti veikla susijusių dokumentų ir (ar) informacijos. ^s-bace8469d1e2af462a493bad
 
 
-6. Gavusi šio straipsnio 2–[[#^s-bace8469d1e2af462a493bad|5 dalyse]] nurodytus dokumentus ir informaciją, priežiūros institucija nagrinėja ir vertina: ^s-63493b331552993cf4642196
+6. Gavusi šio straipsnio [[#^s-5670b3b204ad7e5643abd400|2]]–[[#^s-bace8469d1e2af462a493bad|5]] dalyse nurodytus dokumentus ir informaciją, priežiūros institucija nagrinėja ir vertina: ^s-63493b331552993cf4642196
 
 
 1) valdymo įmonės, investicinės bendrovės-valdytojos vadovų, investicinius sprendimus priimančių asmenų atitiktį šiam įstatymui ir kitiems teisės aktams; ^s-732a25cfb48409dd1ecc93cc
@@ -447,7 +447,7 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS-VALDYTOJOS VEIKLOS LEIDIMO IŠDAVIM
 4) investicinės bendrovės-valdytojos atitiktį šio įstatymo [[#^s-b4d073185f6152d7532bbf77|17 straipsnyje]] nustatytiems reikalavimams; ^s-0f83b5ba0064b77859156f9a
 
 
-5) prospektą, jeigu jis privalo būti parengtas vadovaujantis [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymu]] ir Reglamentu (ES) 2017/1129. ^s-90e5c7391c070f6b5b7a86d4
+5) prospektą, jeigu jis privalo būti parengtas vadovaujantis [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymu]] ir [Reglamentu (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj). ^s-90e5c7391c070f6b5b7a86d4
 Straipsnio punkto pakeitimai:
 Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 
@@ -462,7 +462,7 @@ Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 2) kolektyvinio investavimo subjekto valdymas, išskyrus atvejus, kai pagal šio įstatymo [[#^s-2b16dbebca7ecb84ee73906d|6 straipsnį]] dalis funkcijų yra pavesta atlikti kitam fiziniam asmeniui ir (arba) įmonei, ir išskyrus investicinių vienetų, akcijų platinimą ar siūlymą įnešti įnašą, bus vykdomas ne Lietuvos Respublikoje; ^s-50829c180821995cdc984c67
 
 
-3) pateikti dokumentai ir (ar) informacija neatitinka šiame įstatyme nustatytų reikalavimų, pateikti ne visi šio straipsnio 2–[[#^s-bace8469d1e2af462a493bad|5 dalyse]] nurodyti arba klaidingi dokumentai ir (ar) informacija; ^s-450c817ffa186d93f3a8d290
+3) pateikti dokumentai ir (ar) informacija neatitinka šiame įstatyme nustatytų reikalavimų, pateikti ne visi šio straipsnio [[#^s-5670b3b204ad7e5643abd400|2]]–[[#^s-bace8469d1e2af462a493bad|5]] dalyse nurodyti arba klaidingi dokumentai ir (ar) informacija; ^s-450c817ffa186d93f3a8d290
 
 
 4) veiklos leidimą ketinanti gauti akcinė bendrovė, uždaroji akcinė bendrovė, tikroji ūkinė bendrija ar komanditinė ūkinė bendrija, valdymo įmonės kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies savininkai, valdymo įmonės ar investicinės bendrovės-valdytojos vadovai ir (arba) investicinius sprendimus priimantis asmuo neatitinka šiame įstatyme ir kituose teisės aktuose, reglamentuojančiuose atitinkamos rūšies ir tipo kolektyvinio investavimo subjektų ir valdymo įmonių veiklą, nustatytų reikalavimų; ^s-9c7df0814066c3fe74fe5efa
@@ -620,7 +620,7 @@ VALDYMO ĮMONĖS IR INVESTICINĖS BENDROVĖS-VALDYTOJOS VEIKLOS REIKALAVIMAI
 5) ar yra pagrindas įtarti, kad, siekiant įgyvendinti siūlomąjį įsigijimą, vykdoma ar įvykdyta arba buvo bandyta įvykdyti pinigų plovimo ar teroristų finansavimo veikla, kaip tai apibrėžta [[latest/TAR.C44837068B55|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme]], ar kad siūlomasis įsigijimas gali padidinti šios veiklos pavojų. ^s-13deb13eacfb4b059ae0e5f1
 
 
-9. Priežiūros institucija turi teisę prieštarauti siūlomajam įsigijimui tik remdamasi [[#^s-b5ef175002f6fc38bc9b23e5|šio straipsnio 8 dalyje]] nurodytais kriterijais arba tuo atveju, jeigu įsigyjantysis asmuo pateikė ne visus šio straipsnio 4 ar [[#^s-03399613a8ab9bdf0f52d4ca|6 dalyje]] nustatytus dokumentus ir duomenis. ^s-0f243fc5b365994c29caa9a6
+9. Priežiūros institucija turi teisę prieštarauti siūlomajam įsigijimui tik remdamasi [[#^s-b5ef175002f6fc38bc9b23e5|šio straipsnio 8 dalyje]] nurodytais kriterijais arba tuo atveju, jeigu įsigyjantysis asmuo pateikė ne visus šio straipsnio [[#^s-f537e69e2e1aeafe1d8ddfea|4]] ar [[#^s-03399613a8ab9bdf0f52d4ca|6]] dalyje nustatytus dokumentus ir duomenis. ^s-0f243fc5b365994c29caa9a6
 
 
 10. Priežiūros institucija, prieš priimdama sprendimą dėl siūlomojo įsigijimo, konsultuojasi su kitų valstybių narių priežiūros institucijomis, jeigu įsigyjantysis asmuo yra valstybėje narėje licencijuota valdymo įmonė, finansų maklerio įmonė, kredito įstaiga, draudimo įmonė, perdraudimo įmonė arba bet kurio iš šių subjektų patronuojančioji įmonė ar kontroliuojantis asmuo. ^s-361af5000bb0dd64dfe049b2
@@ -720,7 +720,7 @@ Nr. XV-300, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11969
 7) kitų funkcijų, kurios pagrindinėmis funkcijomis laikomos pagal valdymo įmonės ar investicinės bendrovės-valdytojos su investuotojais sudarytas sutartis, kontrolę. ^s-f44dfaf0a4d8105b866a52d1
 
 
-3. Valdymo įmonė ar investicinė bendrovė-valdytoja turi užtikrinti, kad būtų įdiegtos priemonės, leidžiančios jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje ar investicinėje bendrovėje-valdytojoje atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo, Reglamento (ES) Nr. 1286/2014 ir kitų teisės aktų, reglamentuojančių kolektyvinio investavimo subjektų veiklą, pažeidimą. Šioms priemonėms įdiegti valdymo įmonė ar investicinė bendrovė-valdytoja gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi [[latest/TAR.1B4D7B687895#^s-87dbd917e843670224f82dc0|Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio]] 2, 3 ir 4 punktuose nustatyti reikalavimai. ^s-0e9dbec34b472d6e8884d310
+3. Valdymo įmonė ar investicinė bendrovė-valdytoja turi užtikrinti, kad būtų įdiegtos priemonės, leidžiančios jų darbuotojams specialiu, nepriklausomu ir autonomišku kanalu valdymo įmonėje ar investicinėje bendrovėje-valdytojoje atsakingam asmeniui pranešti apie padarytą ar galimą šio įstatymo, [Reglamento (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) ir kitų teisės aktų, reglamentuojančių kolektyvinio investavimo subjektų veiklą, pažeidimą. Šioms priemonėms įdiegti valdymo įmonė ar investicinė bendrovė-valdytoja gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi [[latest/TAR.1B4D7B687895#^s-87dbd917e843670224f82dc0|Lietuvos Respublikos Lietuvos banko įstatymo 437 straipsnio]] [[latest/TAR.1B4D7B687895|2]], [[latest/TAR.1B4D7B687895|3]] ir [[latest/TAR.1B4D7B687895|4]] punktuose nustatyti reikalavimai. ^s-0e9dbec34b472d6e8884d310
 
 
 4. Valdymo įmonė ar investicinė bendrovė-valdytoja atsako už savo pačios ir savo valdomo kolektyvinio investavimo subjekto veiklos, taip pat investuotojams ir priežiūros institucijai pateikiamos informacijos, dokumentų ir duomenų atitiktį teisės aktuose nustatytiems reikalavimams, informacijos, dokumentų ir duomenų tarpusavio suderinamumą, teisingumą ir tinkamą pateikimą. ^s-ac361af412d16662cea972ca
@@ -765,7 +765,7 @@ Valdymo įmonių ar investicinių bendrovių-valdytojų kapitalui taikomi atitin
 2. Priežiūros institucija pritarimo [[#^s-65cf33f8a4c7b8b364d12291|šio straipsnio 1 dalyje]] nurodytais atvejais gali neduoti tik tuo atveju, jeigu tai prieštarautų šio įstatymo ar kitų teisės aktų, reglamentuojančių atitinkamos rūšies ir tipo kolektyvinio investavimo subjektų ar jų valdymo įmonių veiklą, reikalavimams. ^s-24a4f0fed07909c484982251
 
 
-3. Priežiūros institucijai per 20 darbo dienų nuo atitinkamo prašymo [[#^s-e6f0b29dbfad20cc1a00ba3b|šio straipsnio 1 dalies 2 punkte]] nustatytu atveju gavimo dienos nepateikus motyvuoto prieštaravimo, pritarimas laikomas duotu, išskyrus atvejus, kai šiame įstatyme numatyta kitaip. Prireikus priežiūros institucija, nurodžiusi motyvus, turi teisę pratęsti prašymo nagrinėjimo laikotarpį, bet ne ilgiau kaip 15 darbo dienų. Apie prašymo nagrinėjimo laikotarpio pratęsimą ir jo motyvus priežiūros institucija nedelsdama raštu informuoja prašymą pateikusį asmenį. Priežiūros institucijos sprendimas dėl [[#^s-9d1561183bc1b4cabc595245|šio straipsnio 1 dalies 1 punkte]] nurodytų steigimo dokumentų priimamas laikantis šio įstatymo 9, 28 ir [[#^s-f9c657ebf3b266b4e8c827e2|30 straipsniuose]] nustatytų terminų, o dėl [[#^s-b670419010eb07829181d4d6|šio straipsnio 1 dalies 3 punkte]] nurodytų pasikeitimų – laikantis šio įstatymo [[#^s-eb35ca856f85ed00afb9c88b|12 straipsnyje]] nustatytų terminų. ^s-d8de6854ba46b0ff9dea4edd
+3. Priežiūros institucijai per 20 darbo dienų nuo atitinkamo prašymo [[#^s-e6f0b29dbfad20cc1a00ba3b|šio straipsnio 1 dalies 2 punkte]] nustatytu atveju gavimo dienos nepateikus motyvuoto prieštaravimo, pritarimas laikomas duotu, išskyrus atvejus, kai šiame įstatyme numatyta kitaip. Prireikus priežiūros institucija, nurodžiusi motyvus, turi teisę pratęsti prašymo nagrinėjimo laikotarpį, bet ne ilgiau kaip 15 darbo dienų. Apie prašymo nagrinėjimo laikotarpio pratęsimą ir jo motyvus priežiūros institucija nedelsdama raštu informuoja prašymą pateikusį asmenį. Priežiūros institucijos sprendimas dėl [[#^s-9d1561183bc1b4cabc595245|šio straipsnio 1 dalies 1 punkte]] nurodytų steigimo dokumentų priimamas laikantis šio įstatymo [[#^s-f7634d90eea6e5d1654ccb27|9]], [[#^s-b655870d06162751e432acbf|28]] ir [[#^s-f9c657ebf3b266b4e8c827e2|30]] straipsniuose nustatytų terminų, o dėl [[#^s-b670419010eb07829181d4d6|šio straipsnio 1 dalies 3 punkte]] nurodytų pasikeitimų – laikantis šio įstatymo [[#^s-eb35ca856f85ed00afb9c88b|12 straipsnyje]] nustatytų terminų. ^s-d8de6854ba46b0ff9dea4edd
 
 
 4. Valdymo įmonė ar investicinė bendrovė-valdytoja privalo nedelsdama, bet ne vėliau kaip per 7 darbo dienas nuo atitinkamų faktų atsiradimo dienos, raštu informuoti priežiūros instituciją apie: ^s-51d9e2dbbf98d86b113a40fd
@@ -846,10 +846,10 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ VEIKLOS REIKALAVIMAI
 3) fizinis asmuo, kuris tiesiogiai dalyvauja kolektyvinio investavimo subjekto veikloje ar jo valdytojo veikloje pagal susitarimą dėl tam tikrų funkcijų perdavimo, kuriuo siekiama užtikrinti, kad kolektyvinio investavimo subjektas ar jo valdytojas galėtų vykdyti investicinę veiklą; ^s-225909449cb75bbc9b37cc70
 
 
-4) šios dalies 1, 2 ir [[#^s-225909449cb75bbc9b37cc70|3 punktuose]] nurodytų asmenų sutuoktinis, sugyventinis, vaikas, įvaikis; ^s-e1de25550f0a9d3ad0cccab0
+4) šios dalies [[#^s-b4fa8c0eb90a59b865e68299|1]], [[#^s-8d694cf0ce85e1499799348e|2]] ir [[#^s-225909449cb75bbc9b37cc70|3]] punktuose nurodytų asmenų sutuoktinis, sugyventinis, vaikas, įvaikis; ^s-e1de25550f0a9d3ad0cccab0
 
 
-5) su šios dalies 1, 2 ir [[#^s-225909449cb75bbc9b37cc70|3 punktuose]] nurodytais asmenimis susijęs juridinis asmuo, kurio vadovas, valdybos ar stebėtojų tarybos narys yra [[#^s-e1de25550f0a9d3ad0cccab0|šios dalies 4 punkte]] nurodytas asmuo arba kuris yra tokio asmens kontroliuojamas, arba yra įsteigtas tokio asmens naudai, arba kurio ekonominiai interesai yra tolygūs tokio asmens ekonominiams interesams. ^s-9fe03c4f41f558ad2e472171
+5) su šios dalies [[#^s-b4fa8c0eb90a59b865e68299|1]], [[#^s-8d694cf0ce85e1499799348e|2]] ir [[#^s-225909449cb75bbc9b37cc70|3]] punktuose nurodytais asmenimis susijęs juridinis asmuo, kurio vadovas, valdybos ar stebėtojų tarybos narys yra [[#^s-e1de25550f0a9d3ad0cccab0|šios dalies 4 punkte]] nurodytas asmuo arba kuris yra tokio asmens kontroliuojamas, arba yra įsteigtas tokio asmens naudai, arba kurio ekonominiai interesai yra tolygūs tokio asmens ekonominiams interesams. ^s-9fe03c4f41f558ad2e472171
 
 
 
@@ -862,10 +862,10 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ VEIKLOS REIKALAVIMAI
 2. Investuotojų pasirašytų įsipareigojimų pagrindu veikiančio kolektyvinio investavimo subjekto turtas ir įsipareigojimai (skaičiuojant ir investuotojų pasirašytus įsipareigojimus) per 24 mėnesius nuo priežiūros institucijos išduoto investicinės bendrovės-valdytojos veiklos leidimo arba atitinkamai nuo pritarimo investicinio fondo taisyklėms, investicinės bendrovės, kurios valdymas perduotas valdymo įmonei, steigimo dokumentams dienos turi būti ne mažesni kaip 2 000 000 eurų. ^s-df2fc963df70fe71c0be251d
 
 
-3. Gryniesiems aktyvams esant ar tapus mažesniems už šio straipsnio 1 ar [[#^s-df2fc963df70fe71c0be251d|2 dalyje]] nurodytą dydį, valdymo įmonė ar investicinė bendrovė-valdytoja apie tai privalo nedelsdama pranešti priežiūros institucijai ir nurodyti veiksmų, skirtų padėčiai taisyti, planą ir terminus. Jeigu valdymo įmonė ar investicinė bendrovė-valdytoja per protingą laiką neištaiso padėties, ji privalo nedelsdama imtis šiame įstatyme nustatytų investicinės bendrovės likvidavimo ar investicinio fondo panaikinimo veiksmų. ^s-36abcdb2629ff3c412a8b8be
+3. Gryniesiems aktyvams esant ar tapus mažesniems už šio straipsnio [[#^s-edacdb48dd95e1baef42ce39|1]] ar [[#^s-df2fc963df70fe71c0be251d|2]] dalyje nurodytą dydį, valdymo įmonė ar investicinė bendrovė-valdytoja apie tai privalo nedelsdama pranešti priežiūros institucijai ir nurodyti veiksmų, skirtų padėčiai taisyti, planą ir terminus. Jeigu valdymo įmonė ar investicinė bendrovė-valdytoja per protingą laiką neištaiso padėties, ji privalo nedelsdama imtis šiame įstatyme nustatytų investicinės bendrovės likvidavimo ar investicinio fondo panaikinimo veiksmų. ^s-36abcdb2629ff3c412a8b8be
 
 
-4. Jeigu gryniesiems aktyvams esant ar tapus mažesniems už šio straipsnio 1 ar [[#^s-df2fc963df70fe71c0be251d|2 dalyje]] nurodytą dydį, valdymo įmonė ar investicinė bendrovė-valdytoja nesiima veiksmų, skirtų padėčiai taisyti, ir (arba) per protingą laiką neištaiso padėties, arba, vadovaudamasi [[#^s-36abcdb2629ff3c412a8b8be|šio straipsnio 3 dalimi]], nepanaikina investicinio fondo ar nelikviduoja investicinės bendrovės, priežiūros institucija turi teisę priimti sprendimą panaikinti investicinį fondą arba investicinės bendrovės-valdytojos veiklos leidimo galiojimą, pripažinti netekusiu galios priežiūros institucijos pritarimą investicinės bendrovės steigimo dokumentams arba pripažinti netekusiomis galios investicinio fondo taisykles. ^s-8ecebe7f528d0a6ba57e783b
+4. Jeigu gryniesiems aktyvams esant ar tapus mažesniems už šio straipsnio [[#^s-edacdb48dd95e1baef42ce39|1]] ar [[#^s-df2fc963df70fe71c0be251d|2]] dalyje nurodytą dydį, valdymo įmonė ar investicinė bendrovė-valdytoja nesiima veiksmų, skirtų padėčiai taisyti, ir (arba) per protingą laiką neištaiso padėties, arba, vadovaudamasi [[#^s-36abcdb2629ff3c412a8b8be|šio straipsnio 3 dalimi]], nepanaikina investicinio fondo ar nelikviduoja investicinės bendrovės, priežiūros institucija turi teisę priimti sprendimą panaikinti investicinį fondą arba investicinės bendrovės-valdytojos veiklos leidimo galiojimą, pripažinti netekusiu galios priežiūros institucijos pritarimą investicinės bendrovės steigimo dokumentams arba pripažinti netekusiomis galios investicinio fondo taisykles. ^s-8ecebe7f528d0a6ba57e783b
 
 
 
@@ -903,7 +903,7 @@ Nr. XIV-834, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27726
 1. Steigimo dokumentuose apie kiekvieną kolektyvinio investavimo subjektą sudarantį kolektyvinio investavimo subjekto subfondą turi būti nurodyta informacija, kuri skiriasi nuo kitus kolektyvinio investavimo subjekto subfondus apibūdinančios informacijos (kolektyvinio investavimo subjekto subfondo pavadinimas, investavimo strategija, dalyvių ir valdymo įmonės teisės bei pareigos, atlygio valdymo įmonei apskaičiavimo metodika, dydis ir mokėjimo tvarka ir pan.). ^s-123256874302f7a48738213c
 
 
-2. Sudėtiniam kolektyvinio investavimo subjektui rengiamas bendras prospektas. Kai, leidžiant subfondo investicinių vienetų ar akcijų emisiją, taikomas [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] ir Reglamento (ES) 2017/1129 nustatytas reikalavimas parengti prospektą, papildomai turi būti parengtas atskiras subfondo prospektas. ^s-09ffd646826573487ced3564
+2. Sudėtiniam kolektyvinio investavimo subjektui rengiamas bendras prospektas. Kai, leidžiant subfondo investicinių vienetų ar akcijų emisiją, taikomas [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] ir [Reglamento (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) nustatytas reikalavimas parengti prospektą, papildomai turi būti parengtas atskiras subfondo prospektas. ^s-09ffd646826573487ced3564
 Straipsnio dalies pakeitimai:
 Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 
@@ -988,7 +988,7 @@ c) bendra paskolų, į kurias investuotas kolektyvinio investavimo subjekto turt
 2) pagal Kolektyvinio investavimo subjektų įstatymą, šį įstatymą ir Alternatyviųjų kolektyvinio investavimo subjektų valdytojų įstatymą veikiančioms valdymo įmonėms ir jų valdomiems kolektyvinio investavimo subjektams, investicinėms bendrovėms-valdytojoms, kitiems analogiška veikla užsiimantiems subjektams, kurie pritraukia turtą iš keleto investuotojų, siekdami šį turtą investuoti tų investuotojų naudai pagal nustatytą investavimo politiką, ir šiuos subjektus valdančioms įmonėms; ^s-004cb3433e3bfcca48605dec
 
 
-3) šios dalies 1 ir [[#^s-004cb3433e3bfcca48605dec|2 punktuose]] nurodytų juridinių asmenų patronuojamosioms ir patronuojančiosioms įmonėms; ^s-f8a90e79457e233675e98731
+3) šios dalies [[#^s-9f41990da1873bc4d8b0d82b|1]] ir [[#^s-004cb3433e3bfcca48605dec|2]] punktuose nurodytų juridinių asmenų patronuojamosioms ir patronuojančiosioms įmonėms; ^s-f8a90e79457e233675e98731
 
 
 4) su valdytoju susijusiems juridiniams asmenims, kaip jie suprantami pagal šio įstatymo [[#^s-5815069dcceb6a86b26ffb2d|17 straipsnio 4 dalį]]. ^s-1ed1157fdf2f9adadef31a14
@@ -1134,7 +1134,7 @@ KOLEKTYVINIO INVESTAVIMO SUBJEKTO, KURIO VALDYMAS PERDUOTAS VALDYMO ĮMONEI, STE
 2) investicinio fondo atitiktį šio įstatymo [[#^s-b4d073185f6152d7532bbf77|17 straipsnyje]] nustatytiems reikalavimams; ^s-90e7fde3eb22a3290afc5db0
 
 
-3) prospektą, jeigu jis privalo būti parengtas vadovaujantis [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymu]] ir Reglamentu (ES) 2017/1129. ^s-4ea942aea82ffbc912e039d5
+3) prospektą, jeigu jis privalo būti parengtas vadovaujantis [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymu]] ir [Reglamentu (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj). ^s-4ea942aea82ffbc912e039d5
 Straipsnio punkto pakeitimai:
 Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 
@@ -1268,7 +1268,7 @@ Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 2) investicinės bendrovės, kurios valdymas perduotas valdymo įmonei, atitiktį šio įstatymo [[#^s-b4d073185f6152d7532bbf77|17 straipsnyje]] nustatytiems reikalavimams; ^s-0fc1e97821ddeea00f75538e
 
 
-3) prospektą, jeigu jis privalo būti parengtas vadovaujantis [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymu]] ir Reglamentu (ES) 2017/1129. ^s-9f937a02a4e9b506f283e724
+3) prospektą, jeigu jis privalo būti parengtas vadovaujantis [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymu]] ir [Reglamentu (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj). ^s-9f937a02a4e9b506f283e724
 Straipsnio punkto pakeitimai:
 Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 
@@ -1343,16 +1343,16 @@ INVESTICINĖS BENDROVĖS YPATUMAI
 7. Išleidžiant papildomas [[#^s-ce7070cff894b4fb101d7683|šio straipsnio 1 dalyje]] nurodytos investicinės bendrovės akcijas, siūlant įnešti įnašus, nebūtina atsižvelgti į akcijos vertę, nustatytą pagal išleidimo metu esančią grynųjų aktyvų vertę. ^s-62861a07933d717db7e01191
 
 
-8. Investicinių kintamojo kapitalo bendrovių įstatų turiniui šio įstatymo [[#^s-c5998a17013ad21876b661f3|29 straipsnio]] 2 ir [[#^s-9f52212e956f51bfd566ce11|5 dalys]] taikomos mutatis mutandis. Šių bendrovių įstatai pateikiami Juridinių asmenų registro tvarkytojui po to, kai jiems pritaria priežiūros institucija, išskyrus šio įstatymo [[#^s-51d9e2dbbf98d86b113a40fd|16 straipsnio 4 dalyje]] nurodytą atvejį. ^s-edb97b1d85581330c0cf6ae3
+8. Investicinių kintamojo kapitalo bendrovių įstatų turiniui šio įstatymo [[#^s-c5998a17013ad21876b661f3|29 straipsnio]] [[#^s-f53640d53f2c93d32ca16532|2]] ir [[#^s-f069a7667ecd67dbb44de456|5]] dalys taikomos mutatis mutandis. Šių bendrovių įstatai pateikiami Juridinių asmenų registro tvarkytojui po to, kai jiems pritaria priežiūros institucija, išskyrus šio įstatymo [[#^s-51d9e2dbbf98d86b113a40fd|16 straipsnio 4 dalyje]] nurodytą atvejį. ^s-edb97b1d85581330c0cf6ae3
 
 
 9. [[#^s-ce7070cff894b4fb101d7683|Šio straipsnio 1 dalyje]] nurodytoms akcinėms bendrovėms, kurių akcijos platinamos arba siūlymas įnešti įnašą teikiamas iš anksto nustatytai ir žinomai asmenų grupei, arba tai atliekama investuotojo iniciatyva be ankstesnio valdymo įmonės arba investicinės bendrovės-valdytojos kreipimosi į šiuos asmenis: ^s-b2356566024ed60b8b93ee45
 
 
-1) šio straipsnio 2–[[#^s-655aeda4e98b4dac8065dbdd|6 dalys]] netaikomos; ^s-51fee85961eba4c375d10015
+1) šio straipsnio [[#^s-66df640de9a74138e05dee46|2]]–[[#^s-655aeda4e98b4dac8065dbdd|6]] dalys netaikomos; ^s-51fee85961eba4c375d10015
 
 
-2) taikomos šio įstatymo [[#^s-9de01ba6ce502008d128a868|32 straipsnio]] 1–[[#^s-b2356566024ed60b8b93ee45|9 dalys]]. ^s-68afc43a31fc3164cb0121e5
+2) taikomos šio įstatymo [[#^s-9de01ba6ce502008d128a868|32 straipsnio]] [[#^s-230941a52f175f95b53d7f92|1]]–[[#^s-79f2de8abd4b7a5b3fb97daa|9]] dalys. ^s-68afc43a31fc3164cb0121e5
 
 
 
@@ -1365,7 +1365,7 @@ INVESTICINĖS BENDROVĖS YPATUMAI
 1) nustatyti didžiausią sumą, už kurią gali būti pasirašytos bendrovės akcijos, ir ^s-a74040060113bca9eb0ca2a0
 
 
-2) įgalioti valdymo įmonę arba investicinės bendrovės-valdytojos valdybą visuotinio akcininkų susirinkimo sprendime nurodytą laikotarpį, kuris negali būti ilgesnis kaip 5 metai nuo visuotinio akcininkų susirinkimo sprendimo priėmimo dienos, priimti sprendimus dėl įstatinio kapitalo didinimo neviršijant [[#^s-a74040060113bca9eb0ca2a0|šios dalies 1 punkte]] nurodytos sumos. ^s-90c26571db51d50062277308
+2) įgalioti valdymo įmonę arba investicinės bendrovės-valdytojos valdybą visuotinio akcininkų susirinkimo sprendime nurodytą laikotarpį, kuris negali būti ilgesnis kaip 5 metai nuo visuotinio akcininkų susirinkimo sprendimo priėmimo dienos, priimti sprendimus [dėl įstatinio kapitalo didinimo](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) neviršijant [[#^s-a74040060113bca9eb0ca2a0|šios dalies 1 punkte]] nurodytos sumos. ^s-90c26571db51d50062277308
 
 
 2. [[#^s-230941a52f175f95b53d7f92|Šio straipsnio 1 dalyje]] nustatytu atveju investicinės bendrovės įstatuose nurodoma: ^s-4b35114579706a598459b5ef
@@ -1386,10 +1386,10 @@ INVESTICINĖS BENDROVĖS YPATUMAI
 5. Dokumentas, kuriuo patvirtinamas [[#^s-230941a52f175f95b53d7f92|šio straipsnio 1 dalies]] 1 ir (arba) 2 punktuose nurodytas visuotinio akcininkų susirinkimo sprendimas, per 10 dienų nuo sprendimo priėmimo turi būti pateiktas Juridinių asmenų registro tvarkytojui. ^s-f156d667a5ddf12ff26bc40d
 
 
-6. Jeigu taikoma [[#^s-4b35114579706a598459b5ef|šio straipsnio 2 dalis]], dokumentas, rodantis investicinės bendrovės pasirašytojo kapitalo dydį (pasirašytų akcijų nominaliųjų verčių sumą arba grynųjų aktyvų vertę, kai akcijos neturi nominaliosios vertės), apskaičiuotą ataskaitinių finansinių metų pabaigos dieną, per 30 dienų nuo bendrovės ataskaitinių finansinių metų pabaigos turi būti pateiktas Juridinių asmenų registro tvarkytojui. Informacija apie valdymo įmonės arba investicinės bendrovės-valdytojos valdybos sprendimus dėl įstatinio kapitalo didinimo neviršijant investicinės bendrovės įstatuose nurodytos didžiausios sumos, už kurią gali būti pasirašytos akcijos, investicinės bendrovės akcininkams atskleidžiama bendrovės įstatuose nustatyta tvarka. ^s-353a77b996a0d3b0ec5776e4
+6. Jeigu taikoma [[#^s-4b35114579706a598459b5ef|šio straipsnio 2 dalis]], dokumentas, rodantis investicinės bendrovės pasirašytojo kapitalo dydį (pasirašytų akcijų nominaliųjų verčių sumą arba grynųjų aktyvų vertę, kai akcijos neturi nominaliosios vertės), apskaičiuotą ataskaitinių finansinių metų pabaigos dieną, per 30 dienų nuo bendrovės ataskaitinių finansinių metų pabaigos turi būti pateiktas Juridinių asmenų registro tvarkytojui. Informacija apie valdymo įmonės arba investicinės bendrovės-valdytojos valdybos sprendimus [dėl įstatinio kapitalo didinimo](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) neviršijant investicinės bendrovės įstatuose nurodytos didžiausios sumos, už kurią gali būti pasirašytos akcijos, investicinės bendrovės akcininkams atskleidžiama bendrovės įstatuose nustatyta tvarka. ^s-353a77b996a0d3b0ec5776e4
 
 
-7. Tais atvejais, kai taikoma [[#^s-4b35114579706a598459b5ef|šio straipsnio 2 dalis]] ir investicinės bendrovės visuotinis akcininkų susirinkimas priima sprendimą dėl įstatinio kapitalo sumažinimo, neperžengiant įstatuose nurodyto įstatinio kapitalo dydžio, Akcinių bendrovių įstatymo 52 straipsnio 11 dalis netaikoma. Investicinės bendrovės įstatinis kapitalas laikomas sumažintu investicinei bendrovei tinkamai įvykdžius Akcinių bendrovių įstatymo 53 straipsnyje nustatytas pareigas dėl akcininkų ir kreditorių informavimo bei investicinės bendrovės prievolių vykdymo užtikrinimo ir išsprendus ginčus dėl prievolių įvykdymo papildomo užtikrinimo, jeigu tokių buvo, ir valdymo įmonei arba investicinės bendrovės-valdytojos valdybai paskelbus apie sumažintą investicinės bendrovės įstatinį kapitalą valdymo įmonės ir (arba) investicinės bendrovės interneto svetainėje. Akcinių bendrovių įstatymo 52 straipsnio 9 dalis ir [[#^s-c67b6c1e3c312575a62612dc|53 straipsnio]] 6, 7 ir [[#^s-a43f9a6e0bb9ee972899abae|8 dalys]] taikomos mutatis mutandis, įstatų pateikimą ir įregistravimą Juridinių asmenų registre pakeičiant informacijos apie sumažintą investicinės bendrovės įstatinį kapitalą paskelbimu investicinės bendrovės ir (arba) valdymo įmonės interneto svetainėje. ^s-1e4aa41ca276b90d762490c9
+7. Tais atvejais, kai taikoma [[#^s-4b35114579706a598459b5ef|šio straipsnio 2 dalis]] ir investicinės bendrovės visuotinis akcininkų susirinkimas priima sprendimą dėl įstatinio kapitalo sumažinimo, neperžengiant įstatuose nurodyto įstatinio kapitalo dydžio, Akcinių bendrovių įstatymo 52 straipsnio 11 dalis netaikoma. Investicinės bendrovės įstatinis kapitalas laikomas sumažintu investicinei bendrovei tinkamai įvykdžius Akcinių bendrovių įstatymo 53 straipsnyje nustatytas pareigas dėl akcininkų ir kreditorių informavimo bei investicinės bendrovės prievolių vykdymo užtikrinimo ir išsprendus ginčus dėl prievolių įvykdymo papildomo užtikrinimo, jeigu tokių buvo, ir valdymo įmonei arba investicinės bendrovės-valdytojos valdybai paskelbus apie sumažintą investicinės bendrovės įstatinį kapitalą valdymo įmonės ir (arba) investicinės bendrovės interneto svetainėje. Akcinių bendrovių įstatymo 52 straipsnio 9 dalis ir 53 straipsnio 6, 7 ir 8 dalys taikomos mutatis mutandis, įstatų pateikimą ir įregistravimą Juridinių asmenų registre pakeičiant informacijos apie sumažintą investicinės bendrovės įstatinį kapitalą paskelbimu investicinės bendrovės ir (arba) valdymo įmonės interneto svetainėje. ^s-1e4aa41ca276b90d762490c9
 
 
 8. [[#^s-230941a52f175f95b53d7f92|Šio straipsnio 1 dalyje]] nurodytos investicinės bendrovės, kurios akcijos platinamos viešai, visuotinis akcininkų susirinkimas turi teisę priimti sprendimą skirti ir išmokėti dividendus, esant Akcinių bendrovių įstatymo 59 straipsnio 6 dalies 3 punkte nustatytoms aplinkybėms, išskyrus atvejus, kai investicinės bendrovės metinėse finansinėse ataskaitose nurodytas bendrovės turtas yra arba išmokėjus dividendus tampa bent 1,5 karto mažesnis negu šiose ataskaitose nurodytų bendrovės įsipareigojimų kreditoriams suma ir (ar) grynųjų aktyvų vertės dydis nebeatitinka šio įstatymo nustatytų reikalavimų. Apie tai, kad išmokėjus dividendus investicinės bendrovės nuosavas kapitalas yra mažesnis už bendrovės įstatinio kapitalo, privalomojo rezervo, perkainojimo rezervo ir rezervo savoms akcijoms įsigyti sumą, nurodoma bendrovės metinėse finansinėse ataskaitose. ^s-a43f9a6e0bb9ee972899abae
@@ -1404,7 +1404,7 @@ INVESTICINĖS BENDROVĖS YPATUMAI
 11. Šio įstatymo [[#^s-655aeda4e98b4dac8065dbdd|31 straipsnio 6 dalyje]] nustatyti reikalavimai taikomi ir [[#^s-230941a52f175f95b53d7f92|šio straipsnio 1 dalyje]] nurodytoms bendrovėms. ^s-97725bfb2470e7c2fc54bde4
 
 
-12. Investicinių bendrovių, kurių kapitalas nekintamas, įstatų turiniui šio įstatymo [[#^s-c5998a17013ad21876b661f3|29 straipsnio]] 2 ir [[#^s-f156d667a5ddf12ff26bc40d|5 dalyse]] nustatyti reikalavimai taikomi mutatis mutandis. ^s-6bf7a55cae4a07500b343733
+12. Investicinių bendrovių, kurių kapitalas nekintamas, įstatų turiniui šio įstatymo [[#^s-c5998a17013ad21876b661f3|29 straipsnio]] [[#^s-f53640d53f2c93d32ca16532|2]] ir [[#^s-f069a7667ecd67dbb44de456|5]] dalyse nustatyti reikalavimai taikomi mutatis mutandis. ^s-6bf7a55cae4a07500b343733
 
 
 
@@ -1430,7 +1430,7 @@ Akcinių bendrovių įstatymo 47 straipsnis investicinėms bendrovėms, kurių t
 2. Siūlant įnešti įnašus į [[#^s-6149a4c025028ef7b0e58a53|šio straipsnio 1 dalyje]] nurodytą investicinę bendrovę, nebūtina atsižvelgti į dalyvio įnašo vertę, nustatytą pagal išleidimo metu esančią grynųjų aktyvų vertę. ^s-404503675f7b27661cd90801
 
 
-3. Investicinių bendrovių, kurių teisinė forma yra tikroji ūkinė bendrija ar komanditinė ūkinė bendrija, steigimo dokumentų turiniui šio įstatymo [[#^s-c5998a17013ad21876b661f3|29 straipsnio]] 2 ir 5 dalyse nustatyti reikalavimai taikomi mutatis mutandis. ^s-418744754c1ac542fd9bdea3
+3. Investicinių bendrovių, kurių teisinė forma yra tikroji ūkinė bendrija ar komanditinė ūkinė bendrija, steigimo dokumentų turiniui šio įstatymo [[#^s-c5998a17013ad21876b661f3|29 straipsnio]] [[#^s-f53640d53f2c93d32ca16532|2]] ir [[#^s-f069a7667ecd67dbb44de456|5]] dalyse nustatyti reikalavimai taikomi mutatis mutandis. ^s-418744754c1ac542fd9bdea3
 
 
 
@@ -1575,10 +1575,10 @@ INVESTUOTOJAMS TEIKIAMA INFORMACIJA
 ### 44 straipsnis. Pareiga parengti prospektą ^s-220c6325f73034a2c379776a
 
 
-1. Valdymo įmonė (kiekvienam savo valdomam kolektyvinio investavimo subjektui) ar investicinė bendrovė-valdytoja privalo parengti prospektą. Prospektas rengiamas ir investuotojams teikiamas šio įstatymo nustatyta tvarka, išskyrus atvejį, kai kolektyvinio investavimo subjektui taikoma [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir Reglamente (ES) 2017/1129 nustatyta pareiga parengti prospektą. Tokiu atveju šiame skyriuje nustatyti reikalavimai taikomi tiek, kiek [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir Reglamente (ES) 2017/1129 nenustatyta kitaip. ^s-39a1b178e8e0be66093ae7d7
+1. Valdymo įmonė (kiekvienam savo valdomam kolektyvinio investavimo subjektui) ar investicinė bendrovė-valdytoja privalo parengti prospektą. Prospektas rengiamas ir investuotojams teikiamas šio įstatymo nustatyta tvarka, išskyrus atvejį, kai kolektyvinio investavimo subjektui taikoma [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) nustatyta pareiga parengti prospektą. Tokiu atveju šiame skyriuje nustatyti reikalavimai taikomi tiek, kiek [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) nenustatyta kitaip. ^s-39a1b178e8e0be66093ae7d7
 
 
-2. Jeigu kolektyvinio investavimo subjektui taikoma [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir Reglamente (ES) 2017/1129 nustatyta pareiga parengti prospektą, prospektas rengiamas ir investuotojams teikiamas [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir Reglamente (ES) 2017/1129 nustatyta tvarka. Tokiu atveju investicinių vienetų ar akcijų platinimui, siūlymui įnešti įnašą arba įtraukiant investicinius vienetus, akcijas arba teises į prekybą reguliuojamoje rinkoje taikomos [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] ir Reglamento (ES) 2017/1129 nuostatos dėl vertybinių popierių viešo siūlymo ir įtraukimo į prekybą reguliuojamoje rinkoje. ^s-15a856107a572b96399b93fd
+2. Jeigu kolektyvinio investavimo subjektui taikoma [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) nustatyta pareiga parengti prospektą, prospektas rengiamas ir investuotojams teikiamas [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) nustatyta tvarka. Tokiu atveju investicinių vienetų ar akcijų platinimui, siūlymui įnešti įnašą arba įtraukiant investicinius vienetus, akcijas arba teises į prekybą reguliuojamoje rinkoje taikomos [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] ir [Reglamento (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) nuostatos dėl vertybinių popierių viešo siūlymo ir įtraukimo į prekybą reguliuojamoje rinkoje. ^s-15a856107a572b96399b93fd
 
 
 Straipsnio pakeitimai:
@@ -1599,7 +1599,7 @@ Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 ### 46 straipsnis. Prospekto skelbimo ir pateikimo investuotojui tvarka ^s-909001bd0cbb74cca41b4d8e
 
 
-1. Prospektas privalo būti skelbiamas viešai tik tais atvejais, kai jis turi būti parengtas pagal [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir Reglamente (ES) 2017/1129 nustatytus reikalavimus. ^s-d7ea25f9baab4f47a27a350a
+1. Prospektas privalo būti skelbiamas viešai tik tais atvejais, kai jis turi būti parengtas pagal [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) nustatytus reikalavimus. ^s-d7ea25f9baab4f47a27a350a
 Straipsnio dalies pakeitimai:
 Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 
@@ -1615,7 +1615,7 @@ Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 ### 47 straipsnis. Pagrindinės informacijos investuotojams dokumentas ^s-150e291cf707664d785b3ae6
 
 
-1. Valdymo įmonė ir investicinė bendrovė-valdytoja parengia kiekvieno savo valdomo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą. Rengiant ir teikiant pagrindinės informacijos investuotojams dokumentą, laikomasi Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų. ^s-324746358831f21e390bb55c
+1. Valdymo įmonė ir investicinė bendrovė-valdytoja parengia kiekvieno savo valdomo kolektyvinio investavimo subjekto pagrindinės informacijos investuotojams dokumentą. Rengiant ir teikiant pagrindinės informacijos investuotojams dokumentą, laikomasi [Reglamente (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) nustatytų reikalavimų. ^s-324746358831f21e390bb55c
 Straipsnio dalies pakeitimai:
 Nr. XIII-2656, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20828
 Nr. XIV-1035, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08781
@@ -1649,7 +1649,7 @@ Informacija apie kolektyvinio investavimo subjekto dalyviui priklausančių inve
 1. Investuotojams skirta reklaminio pobūdžio informacija turi būti lengvai atpažįstama. Ji turi būti teisinga, aiški ir neklaidinanti. ^s-8a3eb5f8ef3ead5bf9dd6310
 
 
-2. Rengiant investuotojams reklaminio pobūdžio informaciją ir ją viešinant, turi būti vadovaujamasi šiame įstatyme ir Reglamente (ES) 2017/1129 nustatytais apribojimais ir nuostatomis. ^s-519c6c86faf0ce809e7bb0df
+2. Rengiant investuotojams reklaminio pobūdžio informaciją ir ją viešinant, turi būti vadovaujamasi šiame įstatyme ir [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) nustatytais apribojimais ir nuostatomis. ^s-519c6c86faf0ce809e7bb0df
 Straipsnio dalies pakeitimai:
 Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 
@@ -1664,7 +1664,7 @@ Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 ### 501 straipsnis. Su tvarumu susijusios informacijos teikimo investuotojams tvarka ^s-5337d5627f0efbe72fa083ea
 
 
-Prieš pradedant investuoti valdymo įmonė investuotojams turi pateikti informaciją, nurodytą Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir [[#^s-18bc189b162a8e490843f7a3|7 straipsniuose]].
+Prieš pradedant investuoti valdymo įmonė investuotojams turi pateikti informaciją, nurodytą [Reglamente (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) ir [Reglamento (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) [[#^s-d8d36fe16df7c16b2ae9d10f|5]], [[#^s-2b16dbebca7ecb84ee73906d|6]] ir [[#^s-18bc189b162a8e490843f7a3|7]] straipsniuose.
 
 
 Straipsnio pakeitimai:
@@ -1722,7 +1722,7 @@ Nr. XV-300, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11969
 7. Auditorius taip pat privalo pranešti priežiūros institucijai [[#^s-e7f6cd1ee259b8073c170d32|šio straipsnio 6 dalies]] 1, 2 ir 3 punktuose nurodytus faktus ir aplinkybes, paaiškėjusias atliekant įmonės, kurią sieja glaudūs ryšiai su valdymo įmone ar investicine bendrove-valdytoja, auditą. ^s-2d07603a24e06dc646c7ad75
 
 
-8. Šio straipsnio 5, 6 ir [[#^s-2d07603a24e06dc646c7ad75|7 dalyse]] nurodytas priežiūros institucijos informavimas nelaikomas teisės aktuose ar sutartyje numatyto draudimo atskleisti konfidencialią informaciją pažeidimu ir todėl nesukelia auditoriui jokių neigiamų padarinių. ^s-b2d71cd44aed5529fa2e7472
+8. Šio straipsnio [[#^s-78a0e1076026c58e3d903847|5]], [[#^s-e7f6cd1ee259b8073c170d32|6]] ir [[#^s-2d07603a24e06dc646c7ad75|7]] dalyse nurodytas priežiūros institucijos informavimas nelaikomas teisės aktuose ar sutartyje numatyto draudimo atskleisti konfidencialią informaciją pažeidimu ir todėl nesukelia auditoriui jokių neigiamų padarinių. ^s-b2d71cd44aed5529fa2e7472
 
 
 
@@ -1747,8 +1747,8 @@ Nr. XV-300, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11969
 4) veiklos apžvalga; ^s-cd60ef99802eab9296c991ed
 
 
-41) informacija, nurodyta Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir [[#^s-18bc189b162a8e490843f7a3|7 straipsniuose]]; ^s-b956b17033ff3b830c4fa7b3
-TAR pastaba. [[#^s-b956b17033ff3b830c4fa7b3|52 straipsnio 2 dalies 41 punkto]] nuostatos taikomos rengiant 2022 ir vėlesnių metų informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų metų veiklos ataskaitas.
+41) informacija, nurodyta [Reglamente (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) ir [Reglamento (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) [[#^s-d8d36fe16df7c16b2ae9d10f|5]], [[#^s-2b16dbebca7ecb84ee73906d|6]] ir [[#^s-18bc189b162a8e490843f7a3|7]] straipsniuose; ^s-b956b17033ff3b830c4fa7b3
+TAR pastaba. 52 straipsnio 2 dalies 41 punkto nuostatos taikomos rengiant 2022 ir vėlesnių metų informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų metų veiklos ataskaitas.
 Papildyta straipsnio punktu:
 Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
 Straipsnio punkto pakeitimai:
@@ -1768,8 +1768,8 @@ Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
 2) metinis pranešimas; ^s-f6bd023d6407a6c3a9dccb4a
 
 
-21) informacija, nurodyta Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir [[#^s-18bc189b162a8e490843f7a3|7 straipsniuose]]; ^s-a82eb06ca4ce2dff6bba039d
-TAR pastaba. [[#^s-a82eb06ca4ce2dff6bba039d|52 straipsnio 3 dalies 21 punkto]] nuostatos taikomos rengiant 2022 ir vėlesnių metų informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų metų veiklos ataskaitas.
+21) informacija, nurodyta [Reglamente (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) ir [Reglamento (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) [[#^s-d8d36fe16df7c16b2ae9d10f|5]], [[#^s-2b16dbebca7ecb84ee73906d|6]] ir [[#^s-18bc189b162a8e490843f7a3|7]] straipsniuose; ^s-a82eb06ca4ce2dff6bba039d
+TAR pastaba. 52 straipsnio 3 dalies 21 punkto nuostatos taikomos rengiant 2022 ir vėlesnių metų informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų metų veiklos ataskaitas.
 Papildyta straipsnio punktu:
 Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
 Straipsnio punkto pakeitimai:
@@ -2028,7 +2028,7 @@ VALDYMO ĮMONIŲ IR KOLEKTYVINIO INVESTAVIMO SUBJEKTŲ VEIKLOS PRIEŽIŪRA
 3) tikrina kolektyvinio investavimo subjekto turto saugotojų veiklą; ^s-01ca365c222c90f0053a851e
 
 
-4) atlieka kitas šiame įstatyme, kituose Lietuvos Respublikos teisės aktuose, Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 kompetentingai institucijai nustatytas funkcijas. ^s-47498921019c226024dccc1e
+4) atlieka kitas šiame įstatyme, kituose Lietuvos Respublikos teisės aktuose, [Reglamente (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) ir [Reglamente (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) kompetentingai institucijai nustatytas funkcijas. ^s-47498921019c226024dccc1e
 Straipsnio punkto pakeitimai:
 Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
 
@@ -2075,7 +2075,7 @@ Informacijai, kurią priežiūros institucija gauna priežiūros tikslu, apsaugo
 4) atkurti prieš pažeidžiant teisės aktus buvusią padėtį; ^s-e1fc6f622fe742ee329589ac
 
 
-5) nutraukti Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei jo teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą; ^s-efe52c9e35d247c1eacab456
+5) nutraukti [Reglamente (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei jo teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą; ^s-efe52c9e35d247c1eacab456
 
 
 6) priežiūros institucijai pateikti papildomą informaciją arba dažniau, negu nustatyta teisės aktuose, teikti informaciją, reikalingą priežiūros funkcijoms atlikti; ^s-88a8d94f36680524b8d920f7
@@ -2157,7 +2157,7 @@ ATSAKOMYBĖ UŽ ŠIO ĮSTATYMO PAŽEIDIMUS
 6) nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo [[#^s-8a0ed25f0173d9672a8ebc00|63 straipsnį]] duoti privalomi nurodymai; ^s-b8543809d0a03e154331ac36
 
 
-7) pažeidžiami Reglamente (ES) Nr. 1286/2014, Reglamente (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir [[#^s-18bc189b162a8e490843f7a3|7 straipsniuose]] nustatyti reikalavimai; ^s-476513b5c26974c3b77e0e69
+7) pažeidžiami [Reglamente (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj), [Reglamente (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) ir [Reglamento (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) [[#^s-d8d36fe16df7c16b2ae9d10f|5]], [[#^s-2b16dbebca7ecb84ee73906d|6]] ir [[#^s-18bc189b162a8e490843f7a3|7]] straipsniuose nustatyti reikalavimai; ^s-476513b5c26974c3b77e0e69
 Straipsnio punkto pakeitimai:
 Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
 
@@ -2175,7 +2175,7 @@ Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
 2. Poveikio priemonių taikymo tvarką nustato [[latest/TAR.1B4D7B687895|Lietuvos banko įstatymas]]. ^s-8b5dfa1149272ac6d8ab036d
 
 
-3. Jeigu valdymo įmonės ar investicinės bendrovės-valdytojos pažeidžia [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir (arba) Reglamente (ES) 2017/1129 nustatytus prospekto rengimo, tvirtinimo ir skelbimo reikalavimus (išskyrus [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir Reglamente (ES) 2017/1129 numatytas prospektų skelbimo išimtis), priežiūros institucija taiko poveikio priemones vadovaudamasi [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymu]] ir [[latest/TAR.1B4D7B687895|Lietuvos banko įstatymu]]. ^s-a7ec6f611b5f2e70f617953a
+3. Jeigu valdymo įmonės ar investicinės bendrovės-valdytojos pažeidžia [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir (arba) [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) nustatytus prospekto rengimo, tvirtinimo ir skelbimo reikalavimus (išskyrus [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) numatytas prospektų skelbimo išimtis), priežiūros institucija taiko poveikio priemones vadovaudamasi [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymu]] ir [[latest/TAR.1B4D7B687895|Lietuvos banko įstatymu]]. ^s-a7ec6f611b5f2e70f617953a
 Straipsnio dalies pakeitimai:
 Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 
@@ -2198,7 +2198,7 @@ Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 
 
 
-2. Už Reglamento (ES) Nr. 1286/2014 pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta Reglamento (ES) Nr. 1286/2014 [[#^s-e3eaf0d67c6fe28ca6f6dd88|24 straipsnyje]]. ^s-ab2cb498fff34eae12122763
+2. Už [Reglamento (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta [Reglamento (ES) Nr. 1286/2014 24 straipsnyje](https://eur-lex.europa.eu/eli/reg/1286/2014/art_24/oj). ^s-ab2cb498fff34eae12122763
 
 
 3. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis. Jeigu juridinis asmuo priklauso patronuojančiajai įmonei, kaip ji apibrėžta [[latest/TAR.2C94E75C224B#^s-c27cb1de999f4f6cf3f4ee7c|Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 2 straipsnio 22 dalyje]], bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose. ^s-97be5d3d42503ecab4912697
@@ -2213,7 +2213,7 @@ Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 6. Šio įstatymo [[#^s-b8543809d0a03e154331ac36|65 straipsnio 1 dalies 6 punkte]] nurodytais atvejais priežiūros institucija už kiekvieną privalomo nurodymo nevykdymo ar netinkamo vykdymo dieną skiria baudą iki vieno procento bendrųjų metinių pajamų, o tais atvejais, kai sunku ar neįmanoma nustatyti bendrųjų metinių pajamų, – iki 1 500 eurų. ^s-98164687855d70a21341a721
 
 
-7. Už [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] ir Reglamento (ES) 2017/1129 pažeidimus asmenims taikomos [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] nustatytos baudos. ^s-9650454044acd07d4ec8c81c
+7. Už [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] ir [Reglamento (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) pažeidimus asmenims taikomos [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] nustatytos baudos. ^s-9650454044acd07d4ec8c81c
 Straipsnio dalies pakeitimai:
 Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
 
@@ -2247,19 +2247,19 @@ priedas
 
 
 
-1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektais (KIPVPS), derinimo su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2162. ^s-68e48b7e295144748eafbe66
+1. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyva 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamuosius vertybinius popierius subjektais (KIPVPS), derinimo su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/2162](https://eur-lex.europa.eu/eli/dir/2019/2162/oj). ^s-68e48b7e295144748eafbe66
 
 
-2. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2021 m. gruodžio 15 d. Europos Parlamento ir Tarybos reglamentu (ES) 2021/2259. ^s-9f65068e1332c1edeebb1254
+2. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2021 m. gruodžio 15 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2021/2259](https://eur-lex.europa.eu/eli/reg/2021/2259/oj). ^s-9f65068e1332c1edeebb1254
 Punkto pakeitimai:
 Nr. XIV-1035, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08781
 
 
 
-3. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852. ^s-72c2ea09006b080b3b3cf2b8
+3. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj). ^s-72c2ea09006b080b3b3cf2b8
 
 
-4. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088. ^s-d251ddb4c77428a8a9d0db89
+4. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas [Reglamentas (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj). ^s-d251ddb4c77428a8a9d0db89
 Papildyta punktu:
 Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
 
@@ -2295,7 +2295,7 @@ Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio invest
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1246, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09861
-Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 1, 9, 11, 12, 13, 48, 49, 51, 52, 53, 54, [[#^s-ca896b61580e1070a24f53de|55 straipsnių]] pakeitimo, Įstatymo papildymo 13-1 straipsniu, priedu ir 50, [[#^s-2be2d0b7c74168b1b160d25c|56 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 [[#^s-59750ca77fd79bbc7b767004|1]], [[#^s-f7634d90eea6e5d1654ccb27|9]], [[#^s-475ed736fac44786e65da05b|11]], [[#^s-eb35ca856f85ed00afb9c88b|12]], [[#^s-340d8c1280fb4d63f998cf74|13]], [[#^s-d0def2dc808681ed72ec2144|48]], [[#^s-8bdbfc7d38cc00ce2cf3542f|49]], [[#^s-36278974f22cd3709ae85523|51]], [[#^s-71c7bc43682ab28982b14dc7|52]], [[#^s-c67b6c1e3c312575a62612dc|53]], [[#^s-618d32a2a3e9e9e3cf74dba3|54]], [[#^s-ca896b61580e1070a24f53de|55]] straipsnių pakeitimo, Įstatymo papildymo 13-1 straipsniu, priedu ir [[#^s-6c64e2611534c064f87d1efd|50]], [[#^s-2be2d0b7c74168b1b160d25c|56]] straipsnių pripažinimo netekusiais galios įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2305,12 +2305,12 @@ Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio invest
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2361, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11983
-Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 2, 9, 20, 28, 30, 44, 46, 50, 65 ir [[#^s-038e80b9a3de3c6be72a7f31|66 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 [[#^s-b9b111dbf6183eb97f39c994|2]], [[#^s-f7634d90eea6e5d1654ccb27|9]], [[#^s-bd5c42d6744b792be935ac37|20]], [[#^s-b655870d06162751e432acbf|28]], [[#^s-f9c657ebf3b266b4e8c827e2|30]], [[#^s-220c6325f73034a2c379776a|44]], [[#^s-909001bd0cbb74cca41b4d8e|46]], [[#^s-6c64e2611534c064f87d1efd|50]], [[#^s-9049e471f2cd42bfeaadf3e4|65]] ir [[#^s-038e80b9a3de3c6be72a7f31|66]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2656, 2019-12-12, paskelbta TAR 2019-12-20, i. k. 2019-20828
-Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 pakeitimo [[latest/bd8f6e20131711e9b2b6e7cdb14007b4|įstatymo Nr. XIII-1873]] 1 ir [[#^s-b9b111dbf6183eb97f39c994|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 pakeitimo [[latest/bd8f6e20131711e9b2b6e7cdb14007b4|įstatymo Nr. XIII-1873]] [[#^s-59750ca77fd79bbc7b767004|1]] ir [[#^s-b9b111dbf6183eb97f39c994|2]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2320,7 +2320,7 @@ Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio invest
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-803, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27381
-Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 52, 61, [[#^s-9049e471f2cd42bfeaadf3e4|65 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 50-1 straipsniu įstatymas
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 [[#^s-71c7bc43682ab28982b14dc7|52]], [[#^s-08d4051378bcce146d2b3e79|61]], [[#^s-9049e471f2cd42bfeaadf3e4|65]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 50-1 straipsniu įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2340,4 +2340,4 @@ Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio invest
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-300, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11969
-Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 2, 13 ir [[#^s-36278974f22cd3709ae85523|51 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatymo Nr. XII-376 [[#^s-b9b111dbf6183eb97f39c994|2]], [[#^s-340d8c1280fb4d63f998cf74|13]] ir [[#^s-36278974f22cd3709ae85523|51]] straipsnių pakeitimo įstatymas

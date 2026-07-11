@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-917309bbb93db5da4bf37dd6
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 24 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimą dėl pensinio aprūpinimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimą dėl pensinio aprūpinimo, pasirašytą 1999 m. birželio 29 d. Maskvoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 24 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimą dėl pensinio aprūpinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.810BED4007B1), ratifikuoja Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimą dėl pensinio aprūpinimo, pasirašytą 1999 m. birželio 29 d. Maskvoje.
 
 
 

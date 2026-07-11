@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio papildymas 16 ir 17 dalimis ^s-055df83231c4fa70f13c22c1
 
 
-Papildyti [[#^s-f82745cbefc6bc0eb91b17f7|2 straipsnį]] 16 ir [[#^s-76f6802d13cb7db54cc6a7b3|17 dalimis]]:
+Papildyti [[#^s-f82745cbefc6bc0eb91b17f7|2 straipsnį]] 16 ir 17 dalimis:
 
 
 „16. Agresyvaus šuns ženklinimas – agresyvaus šuns žymėjimas išorinio ženklinimo žymekliu ir tatuiruote ar implantu – mikroschema.
@@ -82,13 +82,13 @@ Pakeisti ir papildyti 61 straipsnį ir jį išdėstyti taip:
 4) nepateikusiems pažymos, kad jie yra išklausę atitinkamą Vyriausybės įgaliotos institucijos patvirtintą mokymo programą; ^s-19d26f9d6c75a3025363bf27
 
 
-5) gyvenantiems kartu su asmenimis, nurodytais šios dalies 2 ir [[#^s-1e373ff8ba1f8bc775a62a45|3 punktuose]]. ^s-00f5c4c82b6ac0c62108ef1d
+5) gyvenantiems kartu su asmenimis, nurodytais šios dalies [[#^s-193991b541517e2f19c73011|2]] ir [[#^s-1e373ff8ba1f8bc775a62a45|3]] punktuose. ^s-00f5c4c82b6ac0c62108ef1d
 
 
 5. Savivaldybės ar Vyriausybės įgaliotos institucijos agresyvius šunis gali paimti Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka: ^s-d21e1b2dd5f66cfe4554645a
 
 
-1) kai atsiranda [[#^s-a121c1eb32165e90cd0f0852|šio straipsnio 4 dalies]] 2, 3 ir [[#^s-c010395bc56d2bab45e71685|5 punktuose]] nurodyti pagrindai; ^s-bdfc09058a29a0e20736b140
+1) kai atsiranda [[#^s-a121c1eb32165e90cd0f0852|šio straipsnio 4 dalies]] [[#^s-2ae8f8984a758be7d66946e5|2]], [[#^s-30cd80d97a3ea99019660d33|3]] ir [[#^s-c010395bc56d2bab45e71685|5]] punktuose nurodyti pagrindai; ^s-bdfc09058a29a0e20736b140
 
 
 2) panaikinus leidimą laikyti agresyvų šunį; ^s-2ae8f8984a758be7d66946e5

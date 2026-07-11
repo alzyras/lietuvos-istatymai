@@ -9,8 +9,7 @@ pavadinimas: "Dėl Lietuvos Respublikos valstybinio socialinio draudimo įstatym
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 2 citatos - Valstybinių socialinio draudimo pensijų įstatyme
-- [[latest/422c8b5042b811e6a8ae9e1795984391|Lietuvos Respublikos užimtumo įstatymas]] - 2 citatos - užimtumo įstatyme
+- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - Valstybinių socialinio draudimo pensijų įstatyme
 
 ## Šį įstatymą cituoja
 

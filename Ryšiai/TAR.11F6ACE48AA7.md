@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos teismų įstatymo 47, 82, 89, 91 ir 97 straip
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.522B3E415B52#^s-16e97f1ad515a000b7f6b4e9|Lietuvos Respublikos teismų įstatymas]] - 2 citatos - TEISMŲ ĮSTATYMO 47, 82, 89, 91 IR 97 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.522B3E415B52#^s-16e97f1ad515a000b7f6b4e9|Lietuvos Respublikos teismų įstatymas]] - TEISMŲ ĮSTATYMO 47, 82, 89, 91 IR 97 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

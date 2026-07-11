@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-3a9f1f619930a195a8761f85
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. liepos 3 d. dekretą Nr. 1K-1118, ratifikuoja 2012 m. vasario 23 d. Meksike sudarytą Lietuvos Respublikos Vyriausybės ir Meksikos Jungtinių Valstijų Vyriausybės sutartį dėl pajamų dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. liepos 3 d. dekretą Nr. 1K-1118](https://e-tar.lt/portal/lt/legalAct/TAR.5F8042D3B24C), ratifikuoja 2012 m. vasario 23 d. Meksike sudarytą Lietuvos Respublikos Vyriausybės ir Meksikos Jungtinių Valstijų Vyriausybės sutartį dėl pajamų dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
 
 
 

@@ -86,7 +86,7 @@ Pakeisti 24 straipsnį ir jį išdėstyti taip:
 3. Viešosios informacijos rengėjai ir (ar) skleidėjai, jų dalyviai privalo visuomenės informavimo priemonėje paskelbti apie gautą paramą, jeigu ji viršija 10 bazinių socialinių išmokų dydį, nurodydami, kokio dydžio ir iš ko gauta parama. ^s-97341c447e64a288dc768a4a
 
 
-4. Už šio straipsnio 1 ir [[#^s-44e7c227da05383dfb65b346|2 dalyse]] nurodytų duomenų nepateikimą taikoma atsakomybė teisės aktų nustatyta tvarka ir kitos poveikio priemonės.“ ^s-238e88f6f6728492bfa1ed57
+4. Už šio straipsnio [[#^s-ffcd0b914684444db7fd54b9|1]] ir [[#^s-44e7c227da05383dfb65b346|2]] dalyse nurodytų duomenų nepateikimą taikoma atsakomybė teisės aktų nustatyta tvarka ir kitos poveikio priemonės.“ ^s-238e88f6f6728492bfa1ed57
 
 
 

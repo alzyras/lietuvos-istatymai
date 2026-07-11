@@ -207,7 +207,7 @@ Vilnius
 „47. Ginklų, jų priedėlių ir šaudmenų klasifikacija – šiame Įstatyme nustatytas ginklų, jų priedėlių ir šaudmenų priskyrimas pagal jų pavojingumo laipsnį vienai iš kategorijų (A, B, C arba D). Pavojingiausi yra A kategorijos ginklai, jų priedėliai ir šaudmenys, mažiausiai pavojingi – D kategorijos ginklai ir šaudmenys.“
 
 
-24. Papildyti [[#^s-753a2e5517f4be6f0c8f6192|2 straipsnį]] 48, 49, 50, 51, 52, 53, 54, 55 ir [[#^s-89f72b92fc6bbf400996ab3c|56 dalimis]]: ^s-6f9c05abd880a213e34c6196
+24. Papildyti [[#^s-753a2e5517f4be6f0c8f6192|2 straipsnį]] 48, [[#^s-e65dee4940f5d432200c29f7|49]], [[#^s-bca2ea27b3d2c6fc15cca441|50]], [[#^s-393b94bdae07c691acf4de74|51]], [[#^s-20d4b1430154bf2c71635e15|52]], [[#^s-1d50ee814fde43eb58572b45|53]], [[#^s-e96f355048c724c4650dc2a6|54]], [[#^s-a2d5bdad65a9af1fc0b2ebd5|55]] ir [[#^s-89f72b92fc6bbf400996ab3c|56]] dalimis: ^s-6f9c05abd880a213e34c6196
 
 
 „48. Ginklo priedėlis – duslintuvas, lazerinis, optinis ir naktinis taikikliai.
@@ -405,7 +405,7 @@ Pakeisti [[#^s-1cf8397f983b8f88c7c11723|7 straipsnį]] ir jį išdėstyti taip:
 3) iš abiejų pusių paaštrinta geležtė. ^s-2416bf3c1a7b8aa51aac82b6
 
 
-5. Sprendimą dėl daiktų, skleidžiančių radioaktyvųjį, elektromagnetinį, šviesos, šilumos, infragarso ar ultragarso spinduliavimą, pavojingą biologinį poveikį, pavojingas gyvybei dujas ar kitokias pavojingas sveikatai ar gyvybei medžiagas arba energiją, pripažinimo ginklais, nurodytais šio Įstatymo [[#^s-a68645cd5f43965a4cd8a533|3 straipsnio 15 punkte]], priima ekspertų komisija, nurodyta šio Įstatymo 1 straipsnio 5 dalyje.“ ^s-d3ffb597d32c60189372f13e
+5. Sprendimą dėl daiktų, skleidžiančių radioaktyvųjį, elektromagnetinį, šviesos, šilumos, infragarso ar ultragarso spinduliavimą, pavojingą biologinį poveikį, pavojingas gyvybei dujas ar kitokias pavojingas sveikatai ar gyvybei medžiagas arba energiją, pripažinimo ginklais, nurodytais šio Įstatymo 3 straipsnio 15 punkte, priima ekspertų komisija, nurodyta šio Įstatymo 1 straipsnio 5 dalyje.“ ^s-d3ffb597d32c60189372f13e
 
 
 
@@ -505,7 +505,7 @@ Pakeisti [[#^s-6af6d5ae4db2e62990d119a5|8 straipsnio 1 dalį]] ir ją išdėstyt
 „11. Šaunamųjų ginklų lazerinius taikiklius gali įsigyti, turėti ir naudoti asmenys, turintys šaunamąjį ginklą sportui.“
 
 
-6. Papildyti [[#^s-c02cced2eb96c59cdb99aad2|13 straipsnį]] 12, 13 ir [[#^s-9855a31af66b3f9e35e6d510|14 dalimis]]: ^s-77ba0fbb422855e949649617
+6. Papildyti [[#^s-c02cced2eb96c59cdb99aad2|13 straipsnį]] 12, 13 ir 14 dalimis: ^s-77ba0fbb422855e949649617
 
 
 „12. Mokymui B, C kategorijų ginklus, jų šaudmenis gali įsigyti ir turėti Lietuvos Respublikoje įregistruoti juridiniai asmenys, gavę leidimą.
@@ -629,7 +629,7 @@ Pakeisti [[#^s-1aefca46706e06446eff8ccf|18 straipsnį]] ir jį išdėstyti taip:
 7) kuris įstatymų nustatyta tvarka įtariamas arba kaltinamas padaręs nusikalstamą veiką; ^s-3e99e67fe2586a578801bc65
 
 
-8) kuris yra įrašytas į operatyvinę įskaitą arba kuriam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai; ^s-d087f137dea90b6d2e82cad2
+8) kuris yra įrašytas į operatyvinę įskaitą arba kuriam [Organizuoto nusikalstamumo užkardymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.67E8ECAA4910) nustatyta tvarka taikomi teismo įpareigojimai; ^s-d087f137dea90b6d2e82cad2
 
 
 9) padaręs pakartotinai per metus administracinį teisės pažeidimą, kuriuo kėsinosi į nuosavybę, viešąją ar valdymo tvarką; ^s-6b770b3da01a611113677130
@@ -987,7 +987,7 @@ Pakeisti [[#^s-9121caf4bc26e847c9fe8d54|25 straipsnį]] ir jį išdėstyti taip:
 „4. Ginklus sportui galima nuomoti Lietuvos Respublikos nuolatiniams gyventojams ir užsieniečiams, turintiems teisę laikyti ir nešiotis tos kategorijos ginklą ir pateikusiems šią teisę įrodančius dokumentus bei galiojantį šaudymo sporto organizacijos nario pažymėjimą.“
 
 
-4. Buvusias [[#^s-5576a5e29612625b3fef7bc5|28 straipsnio]] 4 ir [[#^s-77b861960b648a6a34979af8|5 dalis]] laikyti atitinkamai 5 ir 6 dalimis. ^s-6d4726f656bdfd95c8124bb5
+4. Buvusias [[#^s-5576a5e29612625b3fef7bc5|28 straipsnio]] 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis. ^s-6d4726f656bdfd95c8124bb5
 
 
 5. 28 straipsnio 5 dalyje vietoj žodžių „Įmonė, nuomojanti“ įrašyti žodžius „Lietuvos Respublikoje įregistruotas juridinis asmuo, nuomojantis“ ir šią dalį išdėstyti taip: ^s-77b861960b648a6a34979af8

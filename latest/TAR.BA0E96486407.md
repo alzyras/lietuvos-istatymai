@@ -55,7 +55,7 @@ Vilnius
 Pakeisti 2 straipsnio 13 dalį ir ją išdėstyti taip:
 
 
-„13. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančiame Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 (toliau – Reglamentas (EB) Nr. 1370/2007) ir 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (toliau – Reglamentas (EB) Nr. 1008/2008).“
+„13. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos 2007 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančiame Tarybos [reglamentus (EEB) Nr. 1191/69](https://eur-lex.europa.eu/eli/reg/1191/69/oj) ir (EEB) Nr. 1107/70 (toliau – [Reglamentas (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj)) ir 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1008/2008](https://eur-lex.europa.eu/eli/reg/1008/2008/oj) dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (toliau – [Reglamentas (EB) Nr. 1008/2008](https://eur-lex.europa.eu/eli/reg/1008/2008/oj)).“
 
 
 
@@ -69,10 +69,10 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 „13 straipsnis. Viešųjų keleivinio transporto paslaugų teikimas
 
 
-1. Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybių institucijos, vadovaudamosi Reglamentu (EB) Nr. 1370/2007 ir Reglamentu (EB) Nr. 1008/2008, užtikrina visuomenės interesus tenkinančių viešųjų keleivinio transporto paslaugų teikimą. Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybių institucijos vežėją (operatorių) viešosioms keleivinio transporto paslaugoms teikti pagal viešųjų paslaugų įsipareigojimus parenka konkurso būdu, vadovaudamosi Reglamento (EB) Nr. 1370/2007 3, 4, [[#^s-72c0041d854a4383427fa766|5 straipsniais]], Reglamento (EB) 1008/2008 17 straipsniu, arba tiesiogiai sudarydamos sutartis pagal Reglamento (EB) Nr. 1370/2007 [[#^s-72c0041d854a4383427fa766|5 straipsnyje]] nurodytas sąlygas. ^s-df35f2e0ebd2159576d17a0c
+1. Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybių institucijos, vadovaudamosi [Reglamentu (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) ir [Reglamentu (EB) Nr. 1008/2008](https://eur-lex.europa.eu/eli/reg/1008/2008/oj), užtikrina visuomenės interesus tenkinančių viešųjų keleivinio transporto paslaugų teikimą. Vyriausybė ar jos įgaliota institucija ir (ar) savivaldybių institucijos vežėją (operatorių) viešosioms keleivinio transporto paslaugoms teikti pagal viešųjų paslaugų įsipareigojimus parenka konkurso būdu, vadovaudamosi [Reglamento (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) [[#^s-205455ec12f3c643a50dfebb|3]], [[#^s-092eeb820509a396d34a3ec7|4]], [[#^s-72c0041d854a4383427fa766|5]] straipsniais, [Reglamento (EB) 1008/2008 17 straipsniu](https://eur-lex.europa.eu/eli/reg/1008/2008/art_17/oj), arba tiesiogiai sudarydamos sutartis pagal [Reglamento (EB) Nr. 1370/2007 5 straipsnyje](https://eur-lex.europa.eu/eli/reg/1370/2007/art_5/oj) nurodytas sąlygas. ^s-df35f2e0ebd2159576d17a0c
 
 
-2. Viešųjų paslaugų sutarčių turinį, trukmę, jų sudarymo sąlygas ir tvarką, vežėjo (operatoriaus) nuostolių, patirtų vykdant viešųjų paslaugų įsipareigojimus, kompensavimo tvarką nustato Reglamentas (EB) Nr. 1370/2007 ir Reglamentas (EB) Nr. 1008/2008. ^s-b4201369a0bfa3cd92817f43
+2. Viešųjų paslaugų sutarčių turinį, trukmę, jų sudarymo sąlygas ir tvarką, vežėjo (operatoriaus) nuostolių, patirtų vykdant viešųjų paslaugų įsipareigojimus, kompensavimo tvarką nustato [Reglamentas (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) ir [Reglamentas (EB) Nr. 1008/2008](https://eur-lex.europa.eu/eli/reg/1008/2008/oj). ^s-b4201369a0bfa3cd92817f43
 
 
 3. Nuostolių, patirtų vykdant viešųjų paslaugų įsipareigojimą, kompensacijos apskaičiavimo tvarką nustato Vyriausybė ar jos įgaliota institucija. ^s-1aca038382e4a27e7b5de5f3
@@ -105,10 +105,10 @@ priedas
 2. 2004 m. balandžio 29 d. Tarybos direktyva 2004/82/EB dėl vežėjų įpareigojimo perduoti keleivių duomenis (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 74). ^s-ec7f0e6c91354e0ff5acf64b
 
 
-3. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 (OL 2007 L 315, p. 1). ^s-7d12f52582417c88210982ad
+3. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos [reglamentus (EEB) Nr. 1191/69](https://eur-lex.europa.eu/eli/reg/1191/69/oj) ir (EEB) Nr. 1107/70 (OL 2007 L 315, p. 1). ^s-7d12f52582417c88210982ad
 
 
-4. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (nauja redakcija) (OL 2008 L 293, p. 3).“ ^s-4891e91312edd8f86ea5f9ac
+4. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1008/2008](https://eur-lex.europa.eu/eli/reg/1008/2008/oj) dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (nauja redakcija) (OL 2008 L 293, p. 3).“ ^s-4891e91312edd8f86ea5f9ac
 
 
 

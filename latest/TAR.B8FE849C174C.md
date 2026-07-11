@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-4e4a2b2dfa573ea8253c27c8
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2002 m. spalio 8 d. dekretą Nr. 1933, ratifikuoja Lietuvos Respublikos ir Kuveito Valstybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 2001 m. birželio 5 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2002 m. spalio 8 d. dekretą Nr. 1933](https://e-tar.lt/portal/lt/legalAct/TAR.43613ABDE578), ratifikuoja Lietuvos Respublikos ir Kuveito Valstybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 2001 m. birželio 5 d. Vilniuje.
 
 
 

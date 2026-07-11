@@ -61,7 +61,7 @@ Vilnius
 „14. Pajamos – pozityviosios pajamos, priskiriamos Europos ekonominių interesų grupės pajamos, taip pat per mokestinį laikotarpį gautas atlygis už atliktus darbus, suteiktas paslaugas, už perduotas ar suteiktas teises, už parduotą ar kitaip perleistą, investuotą turtą ar lėšas ir (arba) kita gauta nauda pinigais ir (arba) natūra, išskyrus:
 
 
-1) dėl įstatinio kapitalo didinimo akcininkams proporcingai jų turimų akcijų skaičiui nemokamai išduotas akcijas arba anksčiau išleistų akcijų nominalios vertės padidinimo sumą, taip pat pajaus vertės ar dalies padidinimo sumą dėl pagrindinio kapitalo didinimo pajininkams ir nariams proporcingai jų turimai pajų vertei ar daliai; ^s-7d63fbd05339630e4537d788
+1) [dėl įstatinio kapitalo didinimo](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) akcininkams proporcingai jų turimų akcijų skaičiui nemokamai išduotas akcijas arba anksčiau išleistų akcijų nominalios vertės padidinimo sumą, taip pat pajaus vertės ar dalies padidinimo sumą dėl pagrindinio kapitalo didinimo pajininkams ir nariams proporcingai jų turimai pajų vertei ar daliai; ^s-7d63fbd05339630e4537d788
 
 
 2) nekilnojamąjį daiktą, susigrąžintą pagal Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą, bei atkurtas santaupas pagal Lietuvos Respublikos gyventojų santaupų atkūrimo įstatymą; ^s-970d36dd63a508464bc7ae08
@@ -120,7 +120,7 @@ Papildyti Įstatymą 131 straipsniu:
 „131 straipsnis. Priskiriamų Europos ekonominių interesų grupės pajamų ir leidžiamų atskaitymų, priskiriant Europos ekonominių interesų grupės sąnaudas, nustatymas ir apmokestinimas
 
 
-1. Gyventojo individualios veiklos pajamoms ir leidžiamiems atskaitymams, susijusiems su individualios veiklos pajamų gavimu, priskiriamos Europos ekonominių interesų grupės pajamos ir sąnaudos apskaičiuojamos ta pačia tvarka kaip vienetui pagal Pelno mokesčio įstatymo 391 straipsnio 1 ir [[#^s-1e151a1744e32ffc7d7f0e49|4 dalių]] nuostatas. ^s-e0393016773615ffafde82ea
+1. Gyventojo individualios veiklos pajamoms ir leidžiamiems atskaitymams, susijusiems su individualios veiklos pajamų gavimu, priskiriamos Europos ekonominių interesų grupės pajamos ir sąnaudos apskaičiuojamos ta pačia tvarka kaip vienetui pagal [[latest/TAR.A5ACBDA529A9|Pelno mokesčio įstatymo 391 straipsnio]] [[latest/TAR.A5ACBDA529A9|1]] ir [[latest/TAR.A5ACBDA529A9|4]] dalių nuostatas. ^s-e0393016773615ffafde82ea
 
 
 2. Gyventojas (Europos ekonominių interesų grupės dalyvis) priskiria jam priklausančią Europos ekonominių interesų grupės pajamų dalį savo pajamoms, nesvarbu, ar Europos ekonominių interesų grupės pelnas jam išmokėtas, ar ne, ir apmokestina šio Įstatymo nustatyta tvarka. ^s-1fa9f6bbf303b52c7df91db9
@@ -156,7 +156,7 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1985 m. liepos 25 d. Tarybos reglamentas (EEB) Nr. 2137/85 dėl Europos ekonominių interesų grupių (EEIG).“
+1985 m. liepos 25 d. Tarybos [reglamentas (EEB) Nr. 2137/85](https://eur-lex.europa.eu/eli/reg/2137/85/oj) dėl Europos ekonominių interesų grupių (EEIG).“
 
 
 

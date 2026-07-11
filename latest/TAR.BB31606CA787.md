@@ -52,7 +52,7 @@ Vilnius
 2. Pakeisti 68 straipsnio 3 dalį ir ją išdėstyti taip: ^s-ac061aa00ed41a5adc53642e
 
 
-„3. Tapusiam laikinai nedarbingu pašauktam į pratybas, mokymus arba kitų tarnybos užduočių vykdymo metu nedirbančiam ir neturinčiam kitų draudžiamųjų pajamų kariui savanoriui ar kitam aktyviojo rezervo kariui laikinojo nedarbingumo laikotarpiu, tačiau ne ilgiau kaip 4 mėnesius, iš Krašto apsaugos ministerijai skirtų lėšų mokama [[#^s-ac061aa00ed41a5adc53642e|šio straipsnio 2 dalyje]] nustatyto dydžio ligos pašalpa.“
+„3. Tapusiam laikinai nedarbingu pašauktam į pratybas, mokymus arba kitų tarnybos užduočių vykdymo metu nedirbančiam ir neturinčiam kitų draudžiamųjų pajamų kariui savanoriui ar kitam aktyviojo rezervo kariui laikinojo nedarbingumo laikotarpiu, tačiau ne ilgiau kaip 4 mėnesius, iš Krašto apsaugos ministerijai skirtų lėšų mokama šio straipsnio 2 dalyje nustatyto dydžio ligos pašalpa.“
 
 
 

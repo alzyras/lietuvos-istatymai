@@ -65,7 +65,7 @@ Papildyti Įstatymą 471 straipsniu:
 „471 straipsnis. Pareikšto nušalinimo išsprendimo tvarka
 
 
-1. Kai šio įstatymo 47 straipsnio 1, [[#^s-c920e61fc63dbd4fa9dd3a75|2 dalyse]] nurodytais pagrindais nušalinimą teisėjui (teisėjams) pareiškia proceso dalyvis, nušalinimo klausimą sprendžia atitinkamo teismo pirmininkas, teismo pirmininko pavaduotojas arba jų paskirtas teisėjas, išskyrus [[#^s-c920e61fc63dbd4fa9dd3a75|šio straipsnio 2 dalyje]] nurodytus atvejus. ^s-5f779f4a6f5f7f81a8657a26
+1. Kai šio įstatymo 47 straipsnio 1, 2 dalyse nurodytais pagrindais nušalinimą teisėjui (teisėjams) pareiškia proceso dalyvis, nušalinimo klausimą sprendžia atitinkamo teismo pirmininkas, teismo pirmininko pavaduotojas arba jų paskirtas teisėjas, išskyrus [[#^s-c920e61fc63dbd4fa9dd3a75|šio straipsnio 2 dalyje]] nurodytus atvejus. ^s-5f779f4a6f5f7f81a8657a26
 
 
 2. Kai bylai nagrinėti yra sudaryta teisėjų kolegija ir nušalinimas pareiškiamas ne visiems kolegijos nariams, nušalinimo klausimą sprendžia teisėjai (teisėjas), kuriems nušalinimas nėra pareikštas. Jeigu balsų už ir prieš nušalinimą yra po lygiai, teisėjas laikomas nušalintu. Pareiškus pakartotinį nušalinimą, kuris grindžiamas tais pačiais argumentais, kuriais grįstas nušalinimas buvo atmestas, nušalinimo klausimą nedelsdamas išsprendžia bylą nagrinėjantis teisėjas ar teisėjų kolegija. ^s-c920e61fc63dbd4fa9dd3a75
@@ -138,7 +138,7 @@ Pakeisti 85 straipsnio 5 dalį ir ją išdėstyti taip:
 97 straipsnio 2 dalyje vietoj žodžių „teismo antstolių kontorai prie apylinkės teismo“ įrašyti žodį „antstoliui“ ir šią dalį išdėstyti taip:
 
 
-„2. Jeigu per penkiolika dienų ar teismo nustatytą terminą sprendimas neįvykdomas, pareiškėjo prašymu atitinkamas administracinis teismas išduoda jam vykdomąjį raštą kartu nurodydamas jį vykdyti antstoliui pagal atsakovo buveinės vietą Civilinio proceso kodekso nustatyta tvarka.“
+„2. Jeigu per penkiolika dienų ar teismo nustatytą terminą sprendimas neįvykdomas, pareiškėjo prašymu atitinkamas administracinis teismas išduoda jam vykdomąjį raštą kartu nurodydamas jį vykdyti antstoliui pagal atsakovo buveinės vietą [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.“
 
 
 

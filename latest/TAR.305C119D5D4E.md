@@ -82,10 +82,10 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 1) nuotekoms; ^s-14160ecc0be85f3abd5a7a58
 
 
-2) šalutiniams gyvūniniams produktams, įskaitant perdirbtus produktus, kuriems taikomas 2002 m. spalio 3 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1774/2002, nustatantis sveikatos taisykles gyvūninės kilmės šalutiniams produktams, neskirtiems vartoti žmonėms (OL 2004 m. specialusis leidimas, 3 skyrius, 37 tomas, p. 92) (toliau – Reglamentas (EB) Nr. 1774/2002), išskyrus produktus, kurie turi būti sudeginti, šalinti sąvartyne arba naudoti biologinių dujų ar komposto gamybos įmonėje; ^s-07a55c372dfd99e586693873
+2) šalutiniams gyvūniniams produktams, įskaitant perdirbtus produktus, kuriems taikomas 2002 m. spalio 3 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1774/2002](https://eur-lex.europa.eu/eli/reg/1774/2002/oj), nustatantis sveikatos taisykles gyvūninės kilmės šalutiniams produktams, neskirtiems vartoti žmonėms (OL 2004 m. specialusis leidimas, 3 skyrius, 37 tomas, p. 92) (toliau – [Reglamentas (EB) Nr. 1774/2002](https://eur-lex.europa.eu/eli/reg/1774/2002/oj)), išskyrus produktus, kurie turi būti sudeginti, šalinti sąvartyne arba naudoti biologinių dujų ar komposto gamybos įmonėje; ^s-07a55c372dfd99e586693873
 
 
-3) nepaskerstų gyvūnų gaišenoms, įskaitant gyvūnus, nužudytus siekiant likviduoti epizootines ligas, ir gaišenoms, tvarkomoms pagal Reglamento (EB) Nr. 1774/2002 reikalavimus; ^s-f303273db3c7c61c0ca596b6
+3) nepaskerstų gyvūnų gaišenoms, įskaitant gyvūnus, nužudytus siekiant likviduoti epizootines ligas, ir gaišenoms, tvarkomoms pagal [Reglamento (EB) Nr. 1774/2002](https://eur-lex.europa.eu/eli/reg/1774/2002/oj) reikalavimus; ^s-f303273db3c7c61c0ca596b6
 
 
 4) atliekoms, susidarančioms žvalgant, išgaunant, apdorojant ir saugant mineralinius išteklius, ir karjerų eksploatavimo atliekoms, kurioms taikomi Aplinkos ministerijos nustatyti reikalavimai. ^s-5f543ab2e84fa66e02dde7e6
@@ -404,7 +404,7 @@ Tam tikros konkrečios atliekos tampa nebe atliekomis jas panaudojus, įskaitant
 3. Pakeisti 4 straipsnio 5 dalį ir ją išdėstyti taip: ^s-d1ecb958b983de631a9a284b
 
 
-„5. Atliekų vežimą tranzitu, išvežimą iš Lietuvos Respublikos ir įvežimą į Lietuvos Respubliką reglamentuoja Lietuvos Respublikos, Europos Sąjungos teisės aktai ir tarptautinės sutartys. Aplinkos ministerijos įgaliota institucija pagal kompetenciją kontroliuoja atliekų vežimo tranzitu, išvežimo iš Lietuvos Respublikos ir įvežimo į Lietuvos Respubliką reikalavimų vykdymą pagal 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1013/2006 dėl atliekų vežimo (OL 2006 L 190, p. 1) su paskutiniais pakeitimais, padarytais 2010 m. gegužės 12 d. Komisijos reglamentu (ES) Nr. 413/2010 (OL 2010 L 119, p. 1), ir kitų Lietuvos Respublikos, Europos Sąjungos teisės aktų ir tarptautinių sutarčių nuostatas.“
+„5. Atliekų vežimą tranzitu, išvežimą iš Lietuvos Respublikos ir įvežimą į Lietuvos Respubliką reglamentuoja Lietuvos Respublikos, Europos Sąjungos teisės aktai ir tarptautinės sutartys. Aplinkos ministerijos įgaliota institucija pagal kompetenciją kontroliuoja atliekų vežimo tranzitu, išvežimo iš Lietuvos Respublikos ir įvežimo į Lietuvos Respubliką reikalavimų vykdymą pagal 2006 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 1013/2006](https://eur-lex.europa.eu/eli/reg/1013/2006/oj) dėl atliekų vežimo (OL 2006 L 190, p. 1) su paskutiniais pakeitimais, padarytais 2010 m. gegužės 12 d. Komisijos reglamentu (ES) Nr. 413/2010 (OL 2010 L 119, p. 1), ir kitų Lietuvos Respublikos, Europos Sąjungos teisės aktų ir tarptautinių sutarčių nuostatas.“
 
 
 4. Papildyti 4 straipsnį 8 dalimi: ^s-d936bac227a4b7877d30648f
@@ -616,7 +616,7 @@ Papildyti Įstatymą 111 straipsniu:
 1. Aplinkos apsaugos valstybinės kontrolės ir kitų įgaliotų institucijų pareigūnai teisės aktų nustatyta tvarka atlieka atliekas apdorojančių, surenkančių ar vežančių įmonių, tarpininkų, prekiautojų atliekomis ir atliekų darytojų priežiūrą, įskaitant šių įmonių patikrinimus. ^s-b68d3cf603f34c53b9e514e8
 
 
-2. Nustatant [[#^s-b68d3cf603f34c53b9e514e8|šio straipsnio 1 dalyje]] nurodytų įmonių patikrinimų dažnumą, atsižvelgiama į aplinkos apsaugos vadybos sistemos (ISO 14001 standarto) ir Europos Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) įdiegimą gamyboje vadovaujantis 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1221/2009 dėl organizacijų savanoriško Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) taikymo, panaikinančiu Reglamentą (EB) Nr. 761/2001 ir Komisijos sprendimus 2001/681/EB bei 2006/193/EB (OL 2009 L 342, p. 1). ^s-448d0dbf0e4051a3643c9170
+2. Nustatant [[#^s-b68d3cf603f34c53b9e514e8|šio straipsnio 1 dalyje]] nurodytų įmonių patikrinimų dažnumą, atsižvelgiama į aplinkos apsaugos vadybos sistemos (ISO 14001 standarto) ir Europos Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) įdiegimą gamyboje vadovaujantis 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1221/2009](https://eur-lex.europa.eu/eli/reg/1221/2009/oj) dėl organizacijų savanoriško Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) taikymo, panaikinančiu Reglamentą (EB) Nr. 761/2001 ir Komisijos sprendimus 2001/681/EB bei 2006/193/EB (OL 2009 L 342, p. 1). ^s-448d0dbf0e4051a3643c9170
 
 
 3. Atliekų surinkimo ir vežimo patikrinimas apima surinktų bei vežamų atliekų kilmės, pobūdžio, kiekio, paskirties vietos tikrinimą. Teisės aktų nustatyta tvarka aplinkos apsaugos valstybinės kontrolės, kitų įgaliotų institucijų pareigūnai gali tikrinti, kaip laikomasi ir kitų teisės aktų reikalavimų.“ ^s-7fa9f425a98ac907cfc0af86
@@ -665,13 +665,13 @@ Papildyti Įstatymą 121 straipsniu:
 „121 straipsnis. Alyvos atliekos
 
 
-1. Atsižvelgiant į alyvos atliekų apdorojimo technines galimybes ir ekonominį pagrįstumą ir vadovaujantis šio Įstatymo 14, 15 ir [[#^s-e019edbb33e4485ee9b0bb4c|17 straipsniais]], būtina: ^s-bf9d8b0064d3e91e3e33d1d6
+1. Atsižvelgiant į alyvos atliekų apdorojimo technines galimybes ir ekonominį pagrįstumą ir vadovaujantis šio Įstatymo [[#^s-67e9e2a471cc607751bfaa41|14]], [[#^s-a3e5c22323e45760a105df8b|15]] ir [[#^s-e019edbb33e4485ee9b0bb4c|17]] straipsniais, būtina: ^s-bf9d8b0064d3e91e3e33d1d6
 
 
 1) alyvos atliekas rūšiuoti jų susidarymo vietoje ir surinkti atskirai; ^s-e43fabbede1966aa1674be88
 
 
-2) alyvos atliekas apdoroti pagal šio Įstatymo 3 ir 41 straipsnių reikalavimus; ^s-a301f7426da3bdfa827e7dd2
+2) alyvos atliekas apdoroti pagal šio Įstatymo [[#^s-b962c16ceccda34447f7b88a|3]] ir 41 straipsnių reikalavimus; ^s-a301f7426da3bdfa827e7dd2
 
 
 3) alyvos atliekų nemaišyti su skirtingas savybes turinčiomis alyvos atliekomis ir su kitomis atliekomis ar medžiagomis, jeigu toks maišymas trukdo jas apdoroti. ^s-848a4420bd38e0283ab71484
@@ -762,10 +762,10 @@ Papildyti Įstatymą 181 straipsniu:
 „181 straipsnis. Buityje susidarančios pavojingosios atliekos
 
 
-1. Buityje susidarančioms mišrioms atliekoms netaikomi šio Įstatymo 7, 9, 13, 14, 15 ir [[#^s-e019edbb33e4485ee9b0bb4c|17 straipsnių]] reikalavimai. ^s-561be39d79a54821d2845787
+1. Buityje susidarančioms mišrioms atliekoms netaikomi šio Įstatymo [[#^s-a99e91161d79a05efc3d26a0|7]], [[#^s-f03fc5514b096f6b5cdbd32f|9]], [[#^s-0817ece6d2d6c436162f7574|13]], [[#^s-67e9e2a471cc607751bfaa41|14]], [[#^s-a3e5c22323e45760a105df8b|15]] ir [[#^s-e019edbb33e4485ee9b0bb4c|17]] straipsnių reikalavimai. ^s-561be39d79a54821d2845787
 
 
-2. Buityje susidarančioms pavojingosioms atliekoms šio Įstatymo 7, 9, 15 ir [[#^s-e019edbb33e4485ee9b0bb4c|17 straipsnių]] reikalavimai netaikomi tol, kol jas priima atliekas surenkanti, šalinanti arba naudojanti įmonė, kuri turi leidimą ir (ar) yra įregistruota į Atliekų tvarkytojų valstybės registrą.“ ^s-0efd229a4d4ada1c6a22c43f
+2. Buityje susidarančioms pavojingosioms atliekoms šio Įstatymo [[#^s-a99e91161d79a05efc3d26a0|7]], [[#^s-f03fc5514b096f6b5cdbd32f|9]], [[#^s-a3e5c22323e45760a105df8b|15]] ir [[#^s-e019edbb33e4485ee9b0bb4c|17]] straipsnių reikalavimai netaikomi tol, kol jas priima atliekas surenkanti, šalinanti arba naudojanti įmonė, kuri turi leidimą ir (ar) yra įregistruota į Atliekų tvarkytojų valstybės registrą.“ ^s-0efd229a4d4ada1c6a22c43f
 
 
 
@@ -1019,7 +1019,7 @@ Pakeisti Įstatymo 5 priedą ir jį išdėstyti taip:
 2. 1996 m. rugsėjo 24 d. Tarybos direktyva 96/61/EB dėl taršos integruotos prevencijos ir kontrolės (OL 2004 m. specialusis leidimas, 15 skyrius, 3 tomas, p. 80) su paskutiniais pakeitimais, padarytais 2006 m. sausio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 166/2006 (OL 2006 L 33, p. 1). ^s-1740e577eb7a7ddf62ec8209
 
 
-3. 1999 m. balandžio 26 d. Tarybos direktyva 1999/31/EB dėl atliekų sąvartynų (OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 228) su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 29 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1882/2003 (OL 2004 m. specialusis leidimas, 1 skyrius, 4 tomas, p. 447). ^s-22331556c6f6b0b86734716a
+3. 1999 m. balandžio 26 d. Tarybos direktyva 1999/31/EB dėl atliekų sąvartynų (OL 2004 m. specialusis leidimas, 15 skyrius, 4 tomas, p. 228) su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 29 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1882/2003](https://eur-lex.europa.eu/eli/reg/1882/2003/oj) (OL 2004 m. specialusis leidimas, 1 skyrius, 4 tomas, p. 447). ^s-22331556c6f6b0b86734716a
 
 
 4. 2000 m. rugsėjo 18 d. Europos Parlamento ir Tarybos direktyva 2000/53/EB dėl eksploatuoti netinkamų transporto priemonių (OL 2004 m. specialusis leidimas, 15 skyrius, 5 tomas, p. 224) su paskutiniais pakeitimais, padarytais 2005 m. rugsėjo 20 d. Tarybos sprendimu 2005/673/EB (OL 2005 L 254, p. 69). ^s-dc0ca5960c1388120977fc5f
@@ -1028,7 +1028,7 @@ Pakeisti Įstatymo 5 priedą ir jį išdėstyti taip:
 5. 2003 m. sausio 27 d. Europos Parlamento ir Tarybos direktyva 2002/96/EB dėl elektros ir elektroninės įrangos atliekų (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 359) su paskutiniais pakeitimais, padarytais 2003 m. gruodžio 8 d. Europos Parlamento ir Tarybos direktyva 2003/108/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 692). ^s-71c358de3add559c5ff78139
 
 
-6. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1013/2006 dėl atliekų vežimo (OL 2006 L 190, p. 1) su paskutiniais pakeitimais, padarytais 2010 m. gegužės 12 d. Komisijos reglamentu (ES) Nr. 413/2010 (OL 2010 L 119, p. 1). ^s-f1e5f58ae002b627c306c7e3
+6. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1013/2006](https://eur-lex.europa.eu/eli/reg/1013/2006/oj) dėl atliekų vežimo (OL 2006 L 190, p. 1) su paskutiniais pakeitimais, padarytais 2010 m. gegužės 12 d. Komisijos reglamentu (ES) Nr. 413/2010 (OL 2010 L 119, p. 1). ^s-f1e5f58ae002b627c306c7e3
 
 
 7. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/66/EB dėl baterijų ir akumuliatorių bei baterijų ir akumuliatorių atliekų ir Direktyvos 91/157/EEB panaikinimo (OL 2006 L 266, p. 1). ^s-5e2292c2282347dfe71d4e70
@@ -1037,20 +1037,20 @@ Pakeisti Įstatymo 5 priedą ir jį išdėstyti taip:
 8. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/98/EB dėl atliekų ir panaikinanti kai kurias direktyvas (OL 2008 L 312, p. 1). ^s-edcc3ce02aa5f80826d9bd4a
 
 
-9. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB dėl anglies dioksido geologinio saugojimo, iš dalies keičianti Tarybos direktyvą 85/337/EEB, direktyvas 2000/60/EB, 2001/80/EB, 2004/35/EB, 2006/12/EB, 2008/1/EB ir Reglamentą (EB) Nr. 1013/2006 (OL 2009 L 140, p. 114).“ ^s-14742190ee2b785a93262914
+9. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB dėl anglies dioksido geologinio saugojimo, iš dalies keičianti Tarybos direktyvą 85/337/EEB, direktyvas 2000/60/EB, 2001/80/EB, 2004/35/EB, 2006/12/EB, 2008/1/EB ir [Reglamentą (EB) Nr. 1013/2006](https://eur-lex.europa.eu/eli/reg/1013/2006/oj) (OL 2009 L 140, p. 114).“ ^s-14742190ee2b785a93262914
 
 
 
 ### 37 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-ad3969bcad641b04054e6b9c
 
 
-1. Šio įstatymo 8 ir [[#^s-77f895a1acd2930e889428d1|16 straipsniai]] ir šio įstatymo [[#^s-7831d82d29167e01e43794a4|4 straipsnyje]] išdėstytas Atliekų tvarkymo įstatymo 31 straipsnis įsigalioja 2011 m. gruodžio 12 d. ^s-001d522ffabc590bb536c40a
+1. Šio įstatymo [[#^s-b6f56293e8cbbf5dcc375abd|8]] ir [[#^s-77f895a1acd2930e889428d1|16]] straipsniai ir šio įstatymo [[#^s-7831d82d29167e01e43794a4|4 straipsnyje]] išdėstytas [[latest/TAR.8D38517814F1|Atliekų tvarkymo įstatymo 31 straipsnis]] įsigalioja 2011 m. gruodžio 12 d. ^s-001d522ffabc590bb536c40a
 
 
 2. Šio įstatymo [[#^s-19f2a0372dfa460d65b3477a|28 straipsnis]] įsigalioja 2013 m. gruodžio 12 d. ^s-9d2a927b7c0f31def7ab7c3b
 
 
-3. Lietuvos Respublikos Vyriausybė, Aplinkos ministerija ir Ūkio ministerija, atsižvelgdamos į šio straipsnio 1 ir [[#^s-9d2a927b7c0f31def7ab7c3b|2 dalių]] nuostatas, priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-08cd2ff5f87bad114e991892
+3. Lietuvos Respublikos Vyriausybė, Aplinkos ministerija ir Ūkio ministerija, atsižvelgdamos į šio straipsnio [[#^s-001d522ffabc590bb536c40a|1]] ir [[#^s-9d2a927b7c0f31def7ab7c3b|2]] dalių nuostatas, priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-08cd2ff5f87bad114e991892
 
 
 

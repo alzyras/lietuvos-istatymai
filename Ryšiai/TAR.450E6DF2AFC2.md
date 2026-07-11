@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - 2 citatos - Aplinkos apsaugos rėmimo programos įstatyme
-- [[latest/TAR.9F274C93E483|Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas]] - 2 citatos - Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatyme
+- [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - 4 citatos - 1
+- [[latest/TAR.9F274C93E483|Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas]] - Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatyme
 
 ## Šį įstatymą cituoja
 

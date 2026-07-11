@@ -240,7 +240,7 @@ Sudarant valstybinės žemės sklypų pirkimo-pardavimo, nuomos ir panaudos suta
 8) vietos savivaldybių poreikiams ir bendram (viešam) naudojimui, jeigu tai numatyta nustatyta tvarka patvirtintuose miestų, miestelių ir kaimų detaliuose planuose arba žemėtvarkos projektuose.
 
 
-Institucijos sprendimas paimti žemę visuomenės poreikiams skelbiamas vietinėje spaudoje du kartus su 15 dienų pertrauka. Lietuvos Respublikos Vyriausybės ar apskrities valdytojo sprendimą dėl žemės sklypo paėmimo visuomenės poreikiams suinteresuotieji asmenys gali skųsti teismui per vieną mėnesį po jo antrojo paskelbimo spaudoje.
+Institucijos sprendimas paimti žemę visuomenės poreikiams skelbiamas vietinėje spaudoje du kartus su 15 dienų pertrauka. Lietuvos Respublikos Vyriausybės ar apskrities valdytojo sprendimą [dėl žemės sklypo paėmimo visuomenės poreikiams](https://e-tar.lt/portal/lt/legalAct/6a2b868047a911e483c6e89f9dba57fd) suinteresuotieji asmenys gali skųsti teismui per vieną mėnesį po jo antrojo paskelbimo spaudoje.
 
 
 Savivaldos institucijų, ministerijų ar kitų valdymo institucijų prašymų paimti žemę visuomenės poreikiams pateikimo ir nagrinėjimo tvarką nustato Lietuvos Respublikos Vyriausybė.
@@ -315,7 +315,7 @@ Jeigu žemė ar jos dalis, paimta visuomenės poreikiams, nepanaudojama sprendim
 2) papildyti straipsnį trečiąja dalimi:
 
 
-„Laisvos valstybinės žemės fondo žemė parduodama, suteikiama naudotis ar išnuomojama, nustačius atskirų jos sklypų pagrindinę tikslinę naudojimo paskirtį ir atlikus būtinus teritorijos optimizavimo, tvarkymo ir žemės gerinimo darbus, šio įstatymo ir (kai žemė nuomojama) Žemės nuomos įstatymo nustatyta tvarka.“
+„Laisvos valstybinės žemės fondo žemė parduodama, suteikiama naudotis ar išnuomojama, nustačius atskirų jos sklypų pagrindinę tikslinę naudojimo paskirtį ir atlikus būtinus teritorijos optimizavimo, tvarkymo ir žemės gerinimo darbus, šio įstatymo ir (kai žemė nuomojama) [Žemės nuomos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC) nustatyta tvarka.“
 
 
 23. 46 straipsnio 3 punkte vietoj žodžių „vietos savivaldybėms“ įrašyti žodžius „vietos savivaldos institucijoms“.

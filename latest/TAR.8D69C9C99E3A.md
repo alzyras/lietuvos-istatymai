@@ -26,14 +26,14 @@ rysiai: "[[Ryšiai/TAR.8D69C9C99E3A]]"
 
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
-DĖL LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS NUTARIMO „DĖL LIETUVOS RESPUBLIKOS SEIMO RINKIMŲ ĮSTATYMO ĮGYVENDINIMO“ PAKEITIMO
+DĖL LIETUVOS RESPUBLIKOS AUKŠČIAUSIOSIOS TARYBOS NUTARIMO [„DĖL LIETUVOS RESPUBLIKOS SEIMO RINKIMŲ ĮSTATYMO ĮGYVENDINIMO“](https://e-tar.lt/portal/lt/legalAct/TAR.425ACFDD91A8) PAKEITIMO
 
 1994 m. lapkričio 8 d. Nr. I-641
 Vilnius
 
 
 
-1. Pakeisti Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos Seimo rinkimų įstatymo įgyvendinimo“ (Žin., 1992, Nr. 24-706) 1 punkto antrąją dalį ir ją išdėstyti taip:
+1. Pakeisti Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo [„Dėl Lietuvos Respublikos Seimo rinkimų įstatymo įgyvendinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.425ACFDD91A8) (Žin., 1992, Nr. 24-706) 1 punkto antrąją dalį ir ją išdėstyti taip:
 
 
 „Atsisakymas įregistruoti politinę partiją rinkimams gali būti apskųstas Vilniaus apygardos teismui, kuris šį skundą išnagrinėja per 3 dienas. Teismo sprendimas įsiteisėja nuo paskelbimo.“

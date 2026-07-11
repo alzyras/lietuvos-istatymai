@@ -154,7 +154,7 @@ Pakeisti [[#^s-2457c634421b2e380743319e|25 straipsnį]] ir išdėstyti taip:
 ### 7 straipsnis. 26 straipsnio pakeitimas ir papildymas ^s-90324153ed9126235509420d
 
 
-Pakeisti [[#^s-d147d1599bb05fc3f5f30842|26 straipsnio]] pavadinimą, papildyti straipsnį nauja [[#^s-4cbd90c6f05899dee1635cd0|2 dalimi]], buvusias 2, 3, [[#^s-e896c4db9f2da3c20419774d|4 dalis]] laikyti atitinkamai 3, 4, [[#^s-c00b442dfd25ba18a17e5e30|5 dalimis]], pakeisti [[#^s-e896c4db9f2da3c20419774d|4 dalį]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-d147d1599bb05fc3f5f30842|26 straipsnio]] pavadinimą, papildyti straipsnį nauja [[#^s-4cbd90c6f05899dee1635cd0|2 dalimi]], buvusias [[#^s-82879c5718f4cb5fcc3488f2|2]], 3, 4 dalis laikyti atitinkamai 3, 4, 5 dalimis, pakeisti [[#^s-e896c4db9f2da3c20419774d|4 dalį]] ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-d147d1599bb05fc3f5f30842|26 straipsnis]]. Karių drausmė ir materialinė atsakomybė
@@ -179,7 +179,7 @@ Pakeisti [[#^s-d147d1599bb05fc3f5f30842|26 straipsnio]] pavadinimą, papildyti s
 ### 8 straipsnis. 28 straipsnio pakeitimas ir papildymas ^s-3ace4acb6a77de0afcff7065
 
 
-Papildyti [[#^s-210f85b8a287ec01df03ff88|28 straipsnį]] naujomis 3, 4 ir [[#^s-bee39ea93af57b7a04b40ab7|5 dalimis]], o buvusią [[#^s-c4a1c1f6e252afc2fc9ac0a6|3 dalį]] laikyti [[#^s-2abdf00bd2fd88b489dff15a|6 dalimi]] ir šį straipsnį išdėstyti taip:
+Papildyti [[#^s-210f85b8a287ec01df03ff88|28 straipsnį]] naujomis 3, 4 ir [[#^s-6dd2bdbb68a0278396656cea|5]] dalimis, o buvusią [[#^s-c4a1c1f6e252afc2fc9ac0a6|3 dalį]] laikyti [[#^s-2abdf00bd2fd88b489dff15a|6 dalimi]] ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-210f85b8a287ec01df03ff88|28 straipsnis]]. Priėmimas į profesinę karo tarnybą
@@ -212,7 +212,7 @@ Papildyti [[#^s-210f85b8a287ec01df03ff88|28 straipsnį]] naujomis 3, 4 ir [[#^s-
 ### 9 straipsnis. 31 straipsnio 2 dalies pakeitimas ir papildymas ^s-6e4c35fe72d819a8057e8498
 
 
-Pakeisti 31 straipsnio 2 dalies 2 punktą, papildyti šią dalį 3 ir [[#^s-c4d91467cdecdc46d10b3c46|4 punktais]] ir visą dalį išdėstyti taip:
+Pakeisti 31 straipsnio 2 dalies 2 punktą, papildyti šią dalį 3 ir 4 punktais ir visą dalį išdėstyti taip:
 
 
 „2. Profesinės karo tarnybos sutartis sudaroma šiems terminams:
@@ -244,7 +244,7 @@ Pakeisti 34 straipsnio 3 dalį ir išdėstyti taip:
 ### 11 straipsnis. 38 straipsnio pakeitimas ir papildymas ^s-811d2f4a9245432c74e8ff7e
 
 
-Pakeisti 38 straipsnio 1 ir [[#^s-169f7e9e26633a312f7f8c24|2 dalis]], papildyti straipsnį 3 ir [[#^s-21b245ff5bf6079e3b864064|4 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 38 straipsnio 1 ir 2 dalis, papildyti straipsnį 3 ir 4 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „38 straipsnis.     Profesinės karo tarnybos ar kario savanorio tarnybos sutarties nutraukimo pagrindai
@@ -386,7 +386,7 @@ Jeigu profesinės karo tarnybos karys pažeidžia ar yra įtariamas pažeidęs t
 „1. Kai profesinės karo tarnybos sutartis nutraukiama šio įstatymo 37 ir 38 straipsniuose numatytais pagrindais, išskyrus nurodytus [[#^s-e2b9d4a092f01f5a5ef9e9a9|šio straipsnio 2 dalyje]], arba kai pasibaigia profesinės karo tarnybos sutarties terminas ir ji toliau nepratęsiama, karys atleidžiamas iš pareigų, jas perduoda ir ne vėliau kaip per 14 kalendorinių dienų atleidžiamas iš profesinės karo tarnybos.“
 
 
-2. Pakeisti 45 straipsnio 5 ir [[#^s-fd1f87dd2f30e602a4fc44eb|6 dalis]] ir jas išdėstyti taip: ^s-e2b9d4a092f01f5a5ef9e9a9
+2. Pakeisti 45 straipsnio 5 ir 6 dalis ir jas išdėstyti taip: ^s-e2b9d4a092f01f5a5ef9e9a9
 
 
 „5. Kariai gydytojai, krašto apsaugos sistemoje einantys gydytojo (karo gydytojo) pareigas, neatsižvelgiant į jų turimą laipsnį, išleidžiami į atsargą sukakę 60 metų.
@@ -412,7 +412,7 @@ Kai kuriais atvejais krašto apsaugos ministras, atsižvelgdamas į krašto apsa
 ### 17 straipsnis. 48 straipsnio papildymas ^s-fe1d32ca78330c7e99d8f30f
 
 
-Papildyti 48 straipsnį 2, 3, [[#^s-c7ef68b671c8d206bcea0c68|4 dalimis]] ir straipsnį išdėstyti taip:
+Papildyti 48 straipsnį 2, 3, 4 dalimis ir straipsnį išdėstyti taip:
 
 
 „48 straipsnis. Karo tarnybos ginčai ir jų sprendimas
@@ -434,7 +434,7 @@ Papildyti 48 straipsnį 2, 3, [[#^s-c7ef68b671c8d206bcea0c68|4 dalimis]] ir stra
 ### 18 straipsnis. 50 straipsnio 4 ir 5 dalių pakeitimas ^s-55fa7936d2867400b7350a6d
 
 
-Pakeisti 50 straipsnio 4, [[#^s-0b21b775952fcb9a4dd83ee2|5 dalis]] ir jas išdėstyti taip:
+Pakeisti 50 straipsnio 4, 5 dalis ir jas išdėstyti taip:
 
 
 „4. Kario, kuris atleidžiamas iš tarnybos dėl drausmės pažeidimo, pažymėjime įrašomi žodžiai „atleistas dėl drausmės pažeidimo“.
@@ -469,7 +469,7 @@ Pakeisti 53 straipsnio 4 dalį ir išdėstyti taip:
 „5. Pulkininko (jūrų kapitono) ir aukštesni laipsniai gali būti suteikti kariui, ištarnavusiam dalinio, kovinio laivo, junginio ar pajėgų rūšies vadu arba jo pavaduotoju ne mažiau kaip 1 metus. Šis reikalavimas netaikomas karininkams medicinos ir teisės specialistams, turintiems ne žemesnį kaip magistro laipsnį.“
 
 
-3. Pakeisti 54 straipsnio 14 ir [[#^s-35b82d14776531ebc879bae3|15 dalis]], papildyti straipsnį 16 ir [[#^s-31334f400ce9e131c40cf86f|17 dalimis]] ir jas išdėstyti taip: ^s-5a2c453ebaec6edf8469ace6
+3. Pakeisti 54 straipsnio 14 ir 15 dalis, papildyti straipsnį 16 ir 17 dalimis ir jas išdėstyti taip: ^s-5a2c453ebaec6edf8469ace6
 
 
 „14. Lietuvos Respublikos piliečiui, turinčiam kitos valstybės kariuomenės atsargos karininko laipsnį ir priimtam į profesinę karo tarnybą ar įrašomam į kariuomenės aktyviojo rezervo įskaitą, karinis laipsnis suteikiamas atsižvelgiant į krašto apsaugos ministro paskirtos patariamosios komisijos išvadas ir rekomendacijas (įvertinimą, ar karinė kvalifikacija pagal Lietuvos kariuomenės reikalavimus atitinka krašto apsaugos sistemos poreikius).
@@ -507,7 +507,7 @@ Pakeisti 53 straipsnio 4 dalį ir išdėstyti taip:
 Papildyti 56 straipsnio 2 dalį ir išdėstyti taip:
 
 
-„2. Iki laipsnio pažeminimo kario turėtas laipsnis statutų nustatyta tvarka gali būti grąžintas kariui ne anksčiau kaip po 6 mėnesių, jeigu jo tarnyba vertinama gerai. Į šį terminą neįskaitomas laikas, kai karys neatliko tarnybos dėl atostogų, mokymosi ar ligos. Šio įstatymo 54 straipsnio 2 dalyje nustatytas reikalingas tarnybos laikas aukštesniajam nei grąžintasis laipsniui suteikti skaičiuojamas nuo laipsnio grąžinimo kariui dienos.“
+„2. Iki laipsnio pažeminimo kario turėtas laipsnis statutų nustatyta tvarka gali būti grąžintas kariui ne anksčiau kaip po 6 mėnesių, jeigu jo tarnyba vertinama gerai. Į šį terminą neįskaitomas laikas, kai karys neatliko tarnybos [dėl atostogų](https://e-tar.lt/portal/lt/legalAct/213d0c608f4211e4a98a9f2247652cf4), mokymosi ar ligos. Šio įstatymo 54 straipsnio 2 dalyje nustatytas reikalingas tarnybos laikas aukštesniajam nei grąžintasis laipsniui suteikti skaičiuojamas nuo laipsnio grąžinimo kariui dienos.“
 
 
 
@@ -552,7 +552,7 @@ Papildyti 62 straipsnio 5 dalį antru sakiniu, pakeisti [[#^s-2a9fe55d107e942000
 „4. Profesinės karo tarnybos kariai, kurie patys ar jų šeimos nariai (sutuoktinis ir vaikai) toje tarnybos vietovėje neturi nuosavybės teise buto, namo ar jo dalies ir pastaruosius 5 metus nėra jo perleidę (išskyrus perleidimą dėl santuokos nutraukimo), iš Krašto apsaugos ministerijos atitinkamoje vietovėje turimo tarnybinių butų fondo aprūpinami pagal tos gyvenamosios vietovės sąlygas įrengtais techninius ir sanitarinius reikalavimus atitinkančiais ir visiškai suremontuotais tarnybiniais butais (viengungiai arba kariai, kurių šeimos negali persikelti į kario tarnybos vietą – atskira tarnybine gyvenamąja patalpa). Už suteiktą tarnybinį butą kariai gyvenamosios patalpos nuomos sutarties taisyklėmis reglamentuoto nuomos mokesčio nemoka, išskyrus mokestį už plotą, viršijantį Vyriausybės arba jos įgaliotos institucijos nustatytas nemokamai kariui suteikiamų tarnybinių butų ploto normas. Kariai patys moka už energijos, ryšių ir visus komunalinius patarnavimus pagal toje vietovėje galiojančius tarifus.“
 
 
-2. Pakeisti 63 straipsnio 6, 7, [[#^s-61b5e86d8761a9de55e73bbb|8 dalis]], papildyti [[#^s-a234b2258c0734b87a2c91a3|9 dalį]] antru sakiniu, pakeisti [[#^s-0f75ab060bf3710c762df8ea|10 dalį]], papildyti [[#^s-d6043abb50c297b2235dd834|11 dalį]] ir šias dalis išdėstyti taip: ^s-5b483ec071915f54931faf32
+2. Pakeisti 63 straipsnio 6, 7, 8 dalis, papildyti [[#^s-a234b2258c0734b87a2c91a3|9 dalį]] antru sakiniu, pakeisti [[#^s-0f75ab060bf3710c762df8ea|10 dalį]], papildyti [[#^s-d6043abb50c297b2235dd834|11 dalį]] ir šias dalis išdėstyti taip: ^s-5b483ec071915f54931faf32
 
 
 „6. Karys, perkeliamas tarnauti į kitą vietovę, ne vėliau kaip per 30 dienų palaisvina ankstesnėje tarnybos vietovėje turėtą tarnybinį butą (tarnybinę gyvenamąją patalpą). Tarnybinis butas naujojoje vietovėje kariui suteikiamas šio straipsnio nustatytomis sąlygomis.
@@ -561,7 +561,7 @@ Papildyti 62 straipsnio 5 dalį antru sakiniu, pakeisti [[#^s-2a9fe55d107e942000
 7. Karys gali naudotis tarnybiniu butu (tarnybine gyvenamąja patalpa) tol, kol jis tarnauja profesinėje karo tarnyboje. Atleistas iš krašto apsaugos tarnybos (išleistas į atsargą) karys privalo tarnybinį butą (tarnybinę gyvenamąją patalpą) palaisvinti ne vėliau kaip per 30 dienų. Vyriausybės nustatytais atvejais, sąlygomis ir tvarka šioje dalyje, taip pat šio straipsnio 5 dalyje nustatytą terminą krašto apsaugos ministras gali pratęsti. ^s-b975c3fc3605dd2f305b2a10
 
 
-8. Jeigu karys nevykdo šio straipsnio 5 ir [[#^s-b975c3fc3605dd2f305b2a10|7 dalyse]] nustatytų reikalavimų, jis baudžiamas pagal įstatymus ir ne ginčo tvarka iškeldinamas iš tarnybinio buto (tarnybinės gyvenamosios patalpos) kartu su tame bute gyvenančiais asmenimis. ^s-61b5e86d8761a9de55e73bbb
+8. Jeigu karys nevykdo šio straipsnio 5 ir [[#^s-b975c3fc3605dd2f305b2a10|7]] dalyse nustatytų reikalavimų, jis baudžiamas pagal įstatymus ir ne ginčo tvarka iškeldinamas iš tarnybinio buto (tarnybinės gyvenamosios patalpos) kartu su tame bute gyvenančiais asmenimis. ^s-61b5e86d8761a9de55e73bbb
 
 
 9. Profesinės karo tarnybos kariams, kurie neaprūpinti tarnybiniu butu (viengungiai – atskira tarnybine gyvenamąja patalpa), gyvenamosios patalpos išlaikymo išlaidoms kompensuoti iš Krašto apsaugos ministerijai skirtų lėšų mokami Vyriausybės nustatyto dydžio butpinigiai. Į kitą vietovę tarnauti perkeliamiems šeimas turintiems kariams, kurie tarnybos vietoje aprūpinami tik viengungiams skirta atskira tarnybine gyvenamąja patalpa, kai jų šeimos gyvena ne tarnybiniame bute kitoje vietovėje ir negali persikelti į kario tarnybos vietą, mokama Vyriausybės nustatyto dydžio butpinigių dalis. ^s-a234b2258c0734b87a2c91a3
@@ -624,7 +624,7 @@ b) kai slaugo sergantį iki 7 metų vaiką – ne ilgiau kaip 14 kalendorinių d
 c) kai stacionare slaugo sergantį vaiką iki 7 metų, taip pat vaiką iki 14 metų, sergantį onkohemotologine liga, po sudėtingos operacijos, traumos ar nudegimo – visą slaugymo laiką, bet ne ilgiau kaip 122 kalendorines dienas.“
 
 
-2. Pakeisti 68 straipsnio 4 ir [[#^s-6dd2bdbb68a0278396656cea|5 dalis]], papildyti straipsnį [[#^s-bac77371460cbcd07f7893a3|6 dalimi]] ir šias dalis išdėstyti taip: ^s-976397eee04b3b184c8ecf4c
+2. Pakeisti 68 straipsnio 4 ir 5 dalis, papildyti straipsnį [[#^s-bac77371460cbcd07f7893a3|6 dalimi]] ir šias dalis išdėstyti taip: ^s-976397eee04b3b184c8ecf4c
 
 
 „4. Tikrosios karo tarnybos metu su tarnyba susijusiomis aplinkybėmis žuvę kariai laidojami valstybės lėšomis. Valstybės finansuojamų laidojimo išlaidų aprašą nustato Vyriausybė arba jos įgaliota institucija. Tikrosios tarnybos metu kariui žuvus kitomis aplinkybėmis arba jam mirus dėl ligos, karį laidojantiems jo šeimos nariams ar artimiesiems skiriama pusės Vyriausybės nustatyto laidojimo išlaidų dydžio parama laidojimo išlaidoms iš dalies padengti.
@@ -671,7 +671,7 @@ Pakeisti 72 straipsnio 1 dalį, papildyti ją [[#^s-f051865bab1ca5baafc783a9|5 p
 Pakeisti 73 straipsnio 5 dalį ir išdėstyti taip:
 
 
-„5. Jeigu tarnautojas nutraukia sutartį pažeisdamas šio straipsnio 2 dalyje nurodytus įsipareigojimus, kai nėra šio straipsnio 4 dalyje nurodytų priežasčių, arba jei sutartis nutraukiama darbdavio iniciatyva dėl tarnautojo kaltės (Darbo sutarties įstatymo 29 straipsnio 1 dalies 6, 7, 8, 9, 10, 11 ir 12 punktai ir 2 bei 3 dalys) ar pagal Darbo sutarties įstatymo [[#^s-d147d1599bb05fc3f5f30842|26 straipsnio]] 5, 6, 9, 15, 16, 17, 18, 19 ir 20 punktus, asmuo privalo atlyginti darbdaviui išlaidas, tiesiogiai susijusias su jo mokymu, profesiniu parengimu ar kvalifikacijos kėlimu, įskaitant ir mokymosi užsienio mokyklose bei kursuose išlaidas, kurias kaip pagalbą krašto apsaugos sistemai padengė užsienio valstybės. Jeigu asmuo nevykdo šios pareigos, išlaidos iš jo išieškomos įstatymų nustatyta tvarka.“
+„5. Jeigu tarnautojas nutraukia sutartį pažeisdamas šio straipsnio 2 dalyje nurodytus įsipareigojimus, kai nėra šio straipsnio 4 dalyje nurodytų priežasčių, arba jei sutartis nutraukiama darbdavio iniciatyva dėl tarnautojo kaltės ([Darbo sutarties įstatymo 29 straipsnio 1 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) [6](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), [7](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), [8](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), [9](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), [10](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), [11](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) ir [12](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) punktai ir [[#^s-52e13c1172c333a8a6c99584|2]] bei 3 dalys) ar pagal [Darbo sutarties įstatymo 26 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) [5](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), [6](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), [9](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), [15](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), [16](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), [17](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), [18](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), [19](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) ir [20](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) punktus, asmuo privalo atlyginti darbdaviui išlaidas, tiesiogiai susijusias su jo mokymu, profesiniu parengimu ar kvalifikacijos kėlimu, įskaitant ir mokymosi užsienio mokyklose bei kursuose išlaidas, kurias kaip pagalbą krašto apsaugos sistemai padengė užsienio valstybės. Jeigu asmuo nevykdo šios pareigos, išlaidos iš jo išieškomos įstatymų nustatyta tvarka.“
 
 
 

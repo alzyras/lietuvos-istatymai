@@ -72,7 +72,7 @@ Apygardos administracinio teismo ar apygardos teismo teisėju gali būti skiriam
 ### 4 straipsnis.         68 straipsnio 3 punkto pakeitimas ir straipsnio papildymas 4 bei 5 punktais ^s-9426222a5395003c3d32f4b4
 
 
-68 straipsnio 3 punkte vietoj žodžio „penkiolikos“ įrašyti žodį „dešimt“, straipsnį papildyti 4 ir [[#^s-548f507b5e0ad5506da18674|5 punktais]] ir jį išdėstyti taip:
+68 straipsnio 3 punkte vietoj žodžio „penkiolikos“ įrašyti žodį „dešimt“, straipsnį papildyti 4 ir 5 punktais ir jį išdėstyti taip:
 
 
 „68 straipsnis. Reikalavimai asmeniui, siekiančiam tapti Aukščiausiojo Teismo teisėju

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-b4b4d1bd683f62f053f399ac
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2000 m. gegužės 29 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl bendradarbiavimo ir abipusės pagalbos įvykus katastrofoms, gaivalinėms nelaimėms bei kitiems ypatingiems atsitikimams“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl bendradarbiavimo ir abipusės pagalbos įvykus katastrofoms, gaivalinėms nelaimėms ir kitiems ypatingiems atsitikimams, pasirašytą 2000 m. balandžio 4 d. Varšuvoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2000 m. gegužės 29 d. dekretą „[Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl bendradarbiavimo ir abipusės pagalbos įvykus katastrofoms, gaivalinėms nelaimėms bei kitiems ypatingiems atsitikimams](https://e-tar.lt/portal/lt/legalAct/TAR.1DC61A0306EB)“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl bendradarbiavimo ir abipusės pagalbos įvykus katastrofoms, gaivalinėms nelaimėms ir kitiems ypatingiems atsitikimams, pasirašytą 2000 m. balandžio 4 d. Varšuvoje.
 
 
 

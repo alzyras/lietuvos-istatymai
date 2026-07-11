@@ -114,7 +114,7 @@ Pakeisti 6 straipsnio 27 punktą ir jį išdėstyti taip:
 ### 7 straipsnis. 35 straipsnio pakeitimas ^s-3923be9ddab29faecc0c7ab3
 
 
-Pakeisti 35 straipsnio 1 ir [[#^s-938f7a22edd6553e67f91997|3 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 35 straipsnio 1 ir 3 dalis ir visą straipsnį išdėstyti taip:
 
 
 
@@ -210,7 +210,7 @@ Pakeisti ir papildyti 40 straipsnį ir jį išdėstyti taip:
 ### 12 straipsnis. 41 straipsnio pakeitimas ^s-4452821379740d38c7ca471d
 
 
-Pakeisti 41 straipsnio 1, 2, 3, 4 ir [[#^s-851055c1ca991e0374a8e5e6|5 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 41 straipsnio 1, 2, 3, 4 ir 5 dalis ir visą straipsnį išdėstyti taip:
 
 
 

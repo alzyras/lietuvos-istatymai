@@ -50,7 +50,7 @@ Pakeisti 7 straipsnio 3 punktą ir jį išdėstyti taip:
 ### 2 straipsnis. 8 straipsnio papildymas ir pakeitimas ^s-35e854b29cac56f1703ce5f8
 
 
-8 straipsnį papildyti nauju [[#^s-2be3afea6da28abe2bfa4a97|22 punktu]], buvusius 22, 23, 24, 25, 26, 27, 28, [[#^s-f9324f8a4efb12fb73cb2327|29 punktus]] laikyti atitinkamai 23, 24, 25, 26, 27, 28, 29, [[#^s-75ae2987b5f2cd4b1b7ea377|30 punktais]] ir visą straipsnį išdėstyti taip:
+8 straipsnį papildyti nauju [[#^s-2be3afea6da28abe2bfa4a97|22 punktu]], buvusius 22, 23, 24, 25, 26, 27, 28, 29 punktus laikyti atitinkamai 23, 24, 25, 26, 27, 28, 29, 30 punktais ir visą straipsnį išdėstyti taip:
 
 
 „8 straipsnis. Valstybinės (perduotos savivaldybėms) funkcijos

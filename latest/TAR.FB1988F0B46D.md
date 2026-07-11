@@ -47,7 +47,7 @@ Vilnius
 „Valstybiniu socialiniu pensijų draudimu privalomai draudžiami:
 
 
-1) gaunantys atlyginimą už darbą asmenys: dirbantys pagal darbo sutartis, einantys narystės pagrindu renkamąsias pareigas renkamose organizacijose, dirbantys žemės ūkio bendrovėse arba kooperatinėse organizacijose, kandidatai į notarus (asesoriai), viešojo administravimo valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šios dalies 3 ir [[#^s-17787a71273c3e1612bb5e46|5 punktuose]]); ^s-e1e1edbecac8aa29087a7abd
+1) gaunantys atlyginimą už darbą asmenys: dirbantys pagal darbo sutartis, einantys narystės pagrindu renkamąsias pareigas renkamose organizacijose, dirbantys žemės ūkio bendrovėse arba kooperatinėse organizacijose, kandidatai į notarus (asesoriai), viešojo administravimo valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šios dalies [[#^s-72ea10271464473d94073c60|3]] ir [[#^s-17787a71273c3e1612bb5e46|5]] punktuose); ^s-e1e1edbecac8aa29087a7abd
 
 
 2) valstybės politikai, Konstitucinio Teismo teisėjai, Lietuvos Aukščiausiojo Teismo teisėjai, kitų teismų teisėjai, kandidatai į teisėjus, prokuratūros pareigūnai, Lietuvos banko valdybos pirmininkas, jo pavaduotojai ir valdybos nariai, Seimo ar Respublikos Prezidento paskirti valstybės institucijų ar įstaigų vadovai, kiti Seimo ar Respublikos Prezidento paskirti valstybės institucijų ar įstaigų pareigūnai, Seimo ar Respublikos Prezidento paskirti valstybinių (nuolatinių) komisijų ir tarybų, kitų valstybinių (nuolatinių) komisijų ir tarybų pirmininkai, jų pavaduotojai ir nariai, taip pat pagal specialius įstatymus įsteigtų komisijų ar tarybų pareigūnai. Asmenys, išvardyti šiame punkte, valstybiniu socialiniu pensijų draudimu draudžiami tuo atveju, jeigu jie gauna atlyginimą už darbą; ^s-70325f4d0827ac428ca5c123
@@ -130,7 +130,7 @@ Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 3. Pakeisti 8 straipsnio 4 dalį ir ją išdėstyti taip: ^s-614dace0c1cd0777bc47c589
 
 
-„Valstybinio socialinio pensijų draudimo stažą, dirbdami savarankiškai, įgyja asmenys, išvardyti [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 7–9 punktuose, išskyrus 7 punkte nurodytus asmenis, kurie privalomai draudžiasi valstybiniu socialiniu pensijų draudimu papildomai pensijos daliai gauti ([[#^s-614dace0c1cd0777bc47c589|šio straipsnio 3 dalis]]). Stažą, įgytą dirbant savarankiškai, sudaro laikas, per kurį [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 7–9 punktuose išvardyti asmenys moka įstatymo jiems nustatytas privalomas valstybinio socialinio pensijų draudimo įmokas arba per kurį už juos tokios įmokos mokamos.“
+„Valstybinio socialinio pensijų draudimo stažą, dirbdami savarankiškai, įgyja asmenys, išvardyti [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 7–9 punktuose, išskyrus 7 punkte nurodytus asmenis, kurie privalomai draudžiasi valstybiniu socialiniu pensijų draudimu papildomai pensijos daliai gauti (šio straipsnio 3 dalis). Stažą, įgytą dirbant savarankiškai, sudaro laikas, per kurį [[#^s-1a9362dd0b099a190d5b12cc|2 straipsnio]] pirmosios dalies 7–9 punktuose išvardyti asmenys moka įstatymo jiems nustatytas privalomas valstybinio socialinio pensijų draudimo įmokas arba per kurį už juos tokios įmokos mokamos.“
 
 
 4. 8 straipsnio 5 dalyje vietoj skaičių „9–13“ įrašyti skaičius „10–14“ ir šią dalį išdėstyti taip: ^s-ed73af4a68633d12d2083e2a
@@ -143,7 +143,7 @@ Pakeisti 6 straipsnio 4 dalį ir ją išdėstyti taip:
 ### 4 straipsnis. 9 straipsnio pakeitimas ^s-eb8c5cf710a730f956d659eb
 
 
-[[#^s-7eaf805d36f5cb1b8a73316d|9 straipsnio]] 1 ir 2 dalyse po žodžių „nuo kurių buvo įmokėtos“ įrašyti žodžius „ar turėjo būti įmokėtos“ ir šį straipsnį išdėstyti taip:
+[[#^s-7eaf805d36f5cb1b8a73316d|9 straipsnio]] [[#^s-08dea6141320593e34152bc6|1]] ir [[#^s-25ccb6f9bfb3d4911a5abaae|2]] dalyse po žodžių „nuo kurių buvo įmokėtos“ įrašyti žodžius „ar turėjo būti įmokėtos“ ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-7eaf805d36f5cb1b8a73316d|9 straipsnis]].       Valstybinio socialinio pensijų draudimo stažo, kai buvo dirbta pagal darbo sutartį, narystės ar tarnybos pagrindu, apskaičiavimas

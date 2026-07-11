@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-d22184a67cbf38b96d7e2f0e
 
 
-Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugpjūčio 12 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo, pasirašytą 1996 m. balandžio 4 d. Vilniuje.
+Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugpjūčio 12 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo“](https://e-tar.lt/portal/lt/legalAct/TAR.98AC2E41D492), ratifikuoja Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo, pasirašytą 1996 m. balandžio 4 d. Vilniuje.
 
 
 

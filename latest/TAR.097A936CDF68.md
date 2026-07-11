@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis.         Lietuvos Respublikos ir Vakarų Europos Sąjungos saugumo susitarimo ratifikavimas ^s-d7d732f6ecc01cbf94c707e9
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. gegužės 19 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Vakarų Europos Sąjungos saugumo susitarimą“, ratifikuoja Lietuvos Respublikos ir Vakarų Europos Sąjungos saugumo susitarimą, pasirašytą 1997 m. balandžio 24 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. gegužės 19 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Vakarų Europos Sąjungos saugumo susitarimą“](https://e-tar.lt/portal/lt/legalAct/TAR.B07156D7EA9D), ratifikuoja Lietuvos Respublikos ir Vakarų Europos Sąjungos saugumo susitarimą, pasirašytą 1997 m. balandžio 24 d. Vilniuje.
 
 
 

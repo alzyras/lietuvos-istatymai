@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. 14 straipsnio pakeitimas ir papildymas ^s-88bc37b24766d81dd10e23d5
 
 
-Pakeisti 14 straipsnio 1 dalies 1 punktą, straipsnį papildyti 3, 4 ir [[#^s-69b2aed61a28b298c0416ffe|5 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 14 straipsnio 1 dalies 1 punktą, straipsnį papildyti 3, 4 ir 5 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „14 straipsnis. Maisto reklama

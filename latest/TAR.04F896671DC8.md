@@ -174,7 +174,7 @@ d) kiti represuoti asmenys;
 4) asmenys, gimę kalėjimuose, koncentracijos stovyklose ar kitose įkalinimo vietose, jeigu bent vienas iš tėvų tuo metu buvo politinis kalinys ar jam prilygintas asmuo. ^s-1ae3cff0855e957cc3ec2222
 
 
-3. Šio straipsnio 1 ir [[#^s-0519d790c8002a1fa717f361|2 dalyse]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – politinio kalinio teisinis statusas. ^s-288d34843617bfbfcb09d63d
+3. Šio straipsnio [[#^s-04e8147cf2164c350d760259|1]] ir [[#^s-0519d790c8002a1fa717f361|2]] dalyse išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – politinio kalinio teisinis statusas. ^s-288d34843617bfbfcb09d63d
 
 
 
@@ -220,7 +220,7 @@ d) kiti represuoti asmenys;
 3. Asmeniui, kuriam buvo apribota gyvenamosios vietos pasirinkimo teisė (uždrausta grįžti ir gyventi Lietuvoje), pateikus Lietuvos Aukščiausiojo Teismo, Generalinės prokuratūros ir Vidaus reikalų ministerijos bei kitų valstybių įgaliotų institucijų išduotus dokumentus, kad nėra duomenų apie šio apribojimo panaikinimo datą, leidimo grįžti ir gyventi data [[#^s-abb95b00c70ee32bbb204ec4|5 straipsnio 1 dalyje]] ir 2 dalies 1 punkte išvardytais atvejais laikoma faktinio grįžimo į Lietuvą data, bet ne vėlesnė kaip iki 1990 m. kovo 11 d. ^s-f9c539f967b018307a6407af
 
 
-4. Šio straipsnio 1 ir [[#^s-6158345ff709d0d337bbc379|2 dalyse]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – tremtinio teisinis statusas. ^s-a5454860b261c6f8b6c29442
+4. Šio straipsnio [[#^s-abb95b00c70ee32bbb204ec4|1]] ir [[#^s-6158345ff709d0d337bbc379|2]] dalyse išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – tremtinio teisinis statusas. ^s-a5454860b261c6f8b6c29442
 
 
 
@@ -325,7 +325,7 @@ d) partizanų, jų ryšininkų ir rėmėjų bei politinių kalinių šeimų nari
 e) dėl prievartavimo dirbti okupacinių režimų struktūrų informatoriais arba dėl prievartavimo stoti į komjaunimą ar komunistų partiją turėję pasitraukti iš darbo ar mokymo įstaigų arba persikelti į kitą gyvenamąją vietą;
 
 
-f) [[#^s-8d1e6b87d15948c91d53884a|šio straipsnio 1 dalies 8 punkto]] b ir c papunkčiuose išvardytų asmenų šeimų represavimo metu buvę nepilnamečiai nariai;
+f) šio straipsnio 1 dalies 8 punkto b ir c papunkčiuose išvardytų asmenų šeimų represavimo metu buvę nepilnamečiai nariai;
 
 
 g) paimti priverstiniams darbams, taip pat kartu su jais buvę nepilnamečiai – vaikai (įvaikiai), broliai ir seserys ar išlaikytiniai;

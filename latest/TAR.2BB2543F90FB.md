@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir jos papildomo protokolo ratifikavimas ^s-785f6152d2f3cf19856c7770
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. rugsėjo  7  d. dekretą Nr. 405, ratifikuoja Konvenciją dėl turizmui taikytinų muitinės lengvatų ir jos papildomą protokolą dėl turizmo informacinių dokumentų ir medžiagos importo, priimtus 1954 m. birželio 4 d. Niujorke.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. rugsėjo  7  d. dekretą Nr. 405](https://e-tar.lt/portal/lt/legalAct/TAR.581302D4DF51), ratifikuoja Konvenciją dėl turizmui taikytinų muitinės lengvatų ir jos papildomą protokolą dėl turizmo informacinių dokumentų ir medžiagos importo, priimtus 1954 m. birželio 4 d. Niujorke.
 
 
 

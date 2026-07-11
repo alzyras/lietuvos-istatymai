@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-af0b5494317caa2cc284d8dc
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. rugsėjo 9 d. dekretą Nr. 1K-1499, ratifikuoja Šiaurės Atlanto Sutarties protokolą dėl Albanijos Respublikos prisijungimo, pasirašytą 2008 m. liepos 9 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. rugsėjo 9 d. dekretą Nr. 1K-1499](https://e-tar.lt/portal/lt/legalAct/TAR.0C3A6BF303A6), ratifikuoja Šiaurės Atlanto Sutarties protokolą dėl Albanijos Respublikos prisijungimo, pasirašytą 2008 m. liepos 9 d. Briuselyje.
 
 
 

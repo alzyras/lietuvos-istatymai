@@ -55,13 +55,13 @@ Papildyti [[#^s-8be96bb8b249429ae7fa1437|1 straipsnį 2 dalimi]] ir visą straip
 ### 2 straipsnis. 11 straipsnio papildymas ir pakeitimas ^s-8664a8a9a83278d917c0fdb7
 
 
-1. Papildyti 11 straipsnį nauja [[#^s-94f9bcbe14bbfc944a5caac6|1 dalimi]]: ^s-94f9bcbe14bbfc944a5caac6
+1. Papildyti 11 straipsnį nauja 1 dalimi: ^s-94f9bcbe14bbfc944a5caac6
 
 
 „1. Uosto direkcija vykdo [[#^s-7f238a967428c4a911bede91|šio straipsnio 2 dalyje]] išvardytas funkcijas uosto akvatorijos, Lietuvos Respublikos teritorinių vandenų, išimtinės ekonominės zonos teritorijose, išskyrus teritorijas kitų Lietuvos Respublikos jūrų uostų, naftos bei chemijos produktų terminalų, neįeinančių į jūrų uostų teritorijas.“
 
 
-2. Buvusią 11 straipsnio 1 dalį laikyti [[#^s-7f238a967428c4a911bede91|2 dalimi]]. ^s-7f238a967428c4a911bede91
+2. Buvusią 11 straipsnio 1 dalį laikyti 2 dalimi. ^s-7f238a967428c4a911bede91
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-1e0a041d556437416b790475
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. rugsėjo 17 d. dekretą Nr. 1887, ratifikuoja Lietuvos Respublikos Vyriausybės ir Uzbekistano Respublikos Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos, pasirašytą 2002 m. vasario 18 d. Taškente.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. rugsėjo 17 d. dekretą Nr. 1887](https://e-tar.lt/portal/lt/legalAct/TAR.B7F03BC0507A), ratifikuoja Lietuvos Respublikos Vyriausybės ir Uzbekistano Respublikos Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos, pasirašytą 2002 m. vasario 18 d. Taškente.
 
 
 

@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 3 straipsnio pakeitimas ^s-ed0b4c3ff36f6d40fc807bd1
 
 
-Pakeisti 3 straipsnio 2 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.810A3C4DB722|3 straipsnio 2 punktą]] ir jį išdėstyti taip:
 
 
 „2) fizinis asmuo, kuriam per pastaruosius vienus metus Lietuvos Respublikos organizuoto nusikalstamumo prevencijos įstatymo nustatyta tvarka skirtas vienas ar keli teismo įpareigojimai, – kol galioja teismo įpareigojimai;“.

@@ -175,7 +175,7 @@ Pakeisti 5 straipsnio 1 dalį ir ją išdėstyti taip:
 3. 14 straipsnio 5 dalyje vietoj žodžių „pratęsti nedarbo draudimo išmokos mokėjimo trukmę“ įrašyti žodžius „mokėti nedarbo draudimo išmoką ir (arba) pratęsti jos mokėjimo trukmę“ ir šią dalį išdėstyti taip: ^s-9f930699eb900e79252a2932
 
 
-„5. Pagrindas šio straipsnio 2 ir [[#^s-ea0de5a3d5748caa6b946cd2|4 dalyse]] nurodytiems bedarbiams mokėti nedarbo draudimo išmoką ir (arba) pratęsti jos mokėjimo trukmę yra nedarbingumo pažymėjimas arba nėštumo ir gimdymo atostogų pažymėjimas, išduotas bedarbiui pagal sveikatos apsaugos ministro ir socialinės apsaugos ir darbo ministro patvirtintas Nedarbingumo pažymėjimų bei nėštumo ir gimdymo atostogų pažymėjimų išdavimo taisykles.“
+„5. Pagrindas šio straipsnio [[#^s-2727fbb59327450567f8878a|2]] ir [[#^s-ea0de5a3d5748caa6b946cd2|4]] dalyse nurodytiems bedarbiams mokėti nedarbo draudimo išmoką ir (arba) pratęsti jos mokėjimo trukmę yra nedarbingumo pažymėjimas arba nėštumo ir gimdymo atostogų pažymėjimas, išduotas bedarbiui pagal sveikatos apsaugos ministro ir socialinės apsaugos ir darbo ministro patvirtintas Nedarbingumo pažymėjimų bei nėštumo ir gimdymo atostogų pažymėjimų išdavimo taisykles.“
 
 
 4. Papildyti [[#^s-6954dee31cfe6e103b37afcf|14 straipsnį]] nauja 6 dalimi: ^s-ea0de5a3d5748caa6b946cd2
@@ -265,10 +265,10 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 „1. Pereinamuoju laikotarpiu (2009 m. sausio 1 d. – 2012 m. gruodžio 31 d.):
 
 
-1) iš nedarbo draudimo lėšų finansuojamos nedarbo draudimo išmokos ir išlaidos, nustatytos Užimtumo rėmimo įstatymo 37 straipsnio 2 dalies 1, 3, 4 ir 5 punktuose; ^s-dfb89e62eb25f9857849ce68
+1) iš nedarbo draudimo lėšų finansuojamos nedarbo draudimo išmokos ir išlaidos, nustatytos [Užimtumo rėmimo įstatymo 37 straipsnio 2 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) [1](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5), [3](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5), [4](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) ir [5](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) punktuose; ^s-dfb89e62eb25f9857849ce68
 
 
-2) valstybės biudžetas nuosekliai perima iš Valstybinio socialinio draudimo fondo biudžeto Užimtumo rėmimo įstatymo 37 straipsnio 2 dalies 1, 3, 4 ir 5 punktuose nustatytų išlaidų finansavimą. Lėšos šioms išlaidoms finansuoti numatomos einamųjų metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme.“ ^s-6c0047c71782772247e551f3
+2) valstybės biudžetas nuosekliai perima iš Valstybinio socialinio draudimo fondo biudžeto [Užimtumo rėmimo įstatymo 37 straipsnio 2 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) [1](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5), [3](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5), [4](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) ir [5](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) punktuose nustatytų išlaidų finansavimą. Lėšos šioms išlaidoms finansuoti numatomos einamųjų metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatyme.“ ^s-6c0047c71782772247e551f3
 
 
 

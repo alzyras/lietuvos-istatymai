@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.DBF4203C51A1#^s-54a8efa3d94e13774ce4dbba|Lietuvos Respublikos nacionalinės teismų administracijos įstatymas]] - 3 citatos - 1041010ISTA0IX-2109
+- [[latest/TAR.DBF4203C51A1#^s-54a8efa3d94e13774ce4dbba|Lietuvos Respublikos nacionalinės teismų administracijos įstatymas]] - 2 citatos - 1041010ISTA0IX-2109

@@ -54,13 +54,13 @@ Pakeisti 2 straipsnio 5 dalies 2 punktą ir jį išdėstyti taip:
 1. Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip: ^s-6535f0803c5320873a97bfea
 
 
-„1. Centrinė kredito unija turi teisę teikti šio straipsnio 2 ir 3 dalyse nustatytiems asmenims licencines finansines paslaugas ir kitas finansines paslaugas, tarp jų ir finansines paslaugas užsienio valiuta, jei šios teisės neapribotos šio ar kitų įstatymų nustatyta tvarka. Centrinė kredito unija privalo teikti šio Įstatymo 2 straipsnio 5 dalies 1 punkte nustatytą licencinę finansinę paslaugą.“
+„1. Centrinė kredito unija turi teisę teikti šio straipsnio [[#^s-e450d4914821a2b7daa0d912|2]] ir 3 dalyse nustatytiems asmenims licencines finansines paslaugas ir kitas finansines paslaugas, tarp jų ir finansines paslaugas užsienio valiuta, jei šios teisės neapribotos šio ar kitų įstatymų nustatyta tvarka. Centrinė kredito unija privalo teikti šio Įstatymo 2 straipsnio 5 dalies 1 punkte nustatytą licencinę finansinę paslaugą.“
 
 
 2. Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip: ^s-e450d4914821a2b7daa0d912
 
 
-„3. Indėlius ar kitas grąžintinas lėšas Centrinė kredito unija, be [[#^s-e450d4914821a2b7daa0d912|šio straipsnio 2 dalyje]] nurodytų asmenų, gali priimti ir iš Lietuvos Respublikoje įsteigtų asociacijų, religinių bendruomenių ir bendrijų, profesinių sąjungų organizacijų, tų viešųjų įstaigų, kurių steigėjai nėra valstybės institucijos, Lietuvos Respublikos, tarptautinių ar užsienio valstybių labdaros ir paramos fondų, Lietuvos Respublikos Vyriausybės ar savivaldybių įgaliotų institucijų, užsienio valstybių finansų įstaigų. Centrinė kredito unija taip pat turi teisę teikti šioje dalyje nurodytiems asmenims šio Įstatymo 2 straipsnio 5 dalies 2 punkte nustatytas mokėjimo paslaugas.“
+„3. Indėlius ar kitas grąžintinas lėšas Centrinė kredito unija, be šio straipsnio 2 dalyje nurodytų asmenų, gali priimti ir iš Lietuvos Respublikoje įsteigtų asociacijų, religinių bendruomenių ir bendrijų, profesinių sąjungų organizacijų, tų viešųjų įstaigų, kurių steigėjai nėra valstybės institucijos, Lietuvos Respublikos, tarptautinių ar užsienio valstybių labdaros ir paramos fondų, Lietuvos Respublikos Vyriausybės ar savivaldybių įgaliotų institucijų, užsienio valstybių finansų įstaigų. Centrinė kredito unija taip pat turi teisę teikti šioje dalyje nurodytiems asmenims šio Įstatymo 2 straipsnio 5 dalies 2 punkte nustatytas mokėjimo paslaugas.“
 
 
 

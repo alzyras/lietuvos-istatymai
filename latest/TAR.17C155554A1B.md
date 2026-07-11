@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-98b096f2e95622e3b3784c9e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi, Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 10 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. gruodžio 17 d. dekretą Nr. 1K-1314, ratifikuoja 2012 m. birželio 27 d. Briuselyje priimtą Europos Sąjungos bei jos valstybių narių ir Vietnamo Socialistinės Respublikos pagrindų susitarimą dėl visapusės partnerystės ir bendradarbiavimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi, [[latest/TAR.5BCEC9B41811|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 10 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2012 m. gruodžio 17 d. dekretą Nr. 1K-1314](https://e-tar.lt/portal/lt/legalAct/TAR.1250D7039AC9), ratifikuoja 2012 m. birželio 27 d. Briuselyje priimtą Europos Sąjungos bei jos valstybių narių ir Vietnamo Socialistinės Respublikos pagrindų susitarimą dėl visapusės partnerystės ir bendradarbiavimo.
 
 
 

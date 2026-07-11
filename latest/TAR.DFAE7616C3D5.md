@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-da3510d61faac8efd07a62c3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. birželio 23 d. dekretą Nr. 351, ratifikuoja 2004 m. gruodžio 17 d. Darmštate pasirašytą Lietuvos Respublikos ir Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) susitarimą dėl valstybės bendradarbiavimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. birželio 23 d. dekretą Nr. 351](https://e-tar.lt/portal/lt/legalAct/TAR.43920947CB60), ratifikuoja 2004 m. gruodžio 17 d. Darmštate pasirašytą Lietuvos Respublikos ir Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) susitarimą dėl valstybės bendradarbiavimo.
 
 
 

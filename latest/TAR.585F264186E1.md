@@ -47,7 +47,7 @@ Pakeisti Įstatymo priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 valstybės politikų ir valstybės
-pareigūnų darbo apmokėjimo įstatymo priedėlis
+pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) priedėlis
 
 
 
@@ -574,7 +574,7 @@ Pakeisti Įstatymo priedėlį ir jį išdėstyti taip:
 
 „Lietuvos Respublikos
 valstybės politikų ir valstybės
-pareigūnų darbo apmokėjimo įstatymo priedėlis
+pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) priedėlis
 
 
 

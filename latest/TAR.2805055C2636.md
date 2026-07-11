@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Savivaldybių mokestinių pajamų išlyginimas ^s-a56ccae520285b5ac72d7722
 
 
-1. Savivaldybių mokestinių pajamų dalį, negautą dėl mokestinės nepriemokos pripažinimo beviltiška pagal Mokesčių administravimo įstatymo 29 straipsnio 7 dalies 4 punktą ir priklausiusią pervesti į valstybės iždo sąskaitą, teritorinė valstybinė mokesčių inspekcija perveda į šią sąskaitą iš savivaldybės, kurios asignavimų valdytojo finansinių prievolių suma ar jos dalis buvo padengtos pripažinus šią mokestinę nepriemoką beviltiška, biudžetui priklausančios pajamų dalies. Ši mokestinių pajamų dalis pervedama į valstybės iždo sąskaitą proporcingai kiekvieną mėnesį lygiomis dalimis per trejus metus. ^s-68f9ab91812bb8f02db9da59
+1. Savivaldybių mokestinių pajamų dalį, negautą dėl mokestinės nepriemokos pripažinimo beviltiška pagal [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo 29 straipsnio 7 dalies 4 punktą]] ir priklausiusią pervesti į valstybės iždo sąskaitą, teritorinė valstybinė mokesčių inspekcija perveda į šią sąskaitą iš savivaldybės, kurios asignavimų valdytojo finansinių prievolių suma ar jos dalis buvo padengtos pripažinus šią mokestinę nepriemoką beviltiška, biudžetui priklausančios pajamų dalies. Ši mokestinių pajamų dalis pervedama į valstybės iždo sąskaitą proporcingai kiekvieną mėnesį lygiomis dalimis per trejus metus. ^s-68f9ab91812bb8f02db9da59
 
 
 2. Pervesta mokestinių pajamų dalis iš iždo sąskaitos vadovaujantis tų metų Lietuvos Respublikos valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymu paskirstoma kitų savivaldybių biudžetams. ^s-5c95d601666070d78fdd364f
@@ -47,7 +47,7 @@ Vilnius
 ### 2 straipsnis.         Mokestinių pajamų išlyginimas tarp valstybės biudžeto ir valstybės pinigų fondų ^s-8dbc0c64f229b01359a58737
 
 
-Valstybės biudžeto mokestinių pajamų dalį, negautą dėl mokestinės nepriemokos pripažinimo beviltiška pagal Mokesčių administravimo įstatymo 29 straipsnio 7 dalies 4 punktą ir priklausiusią pervesti į valstybės iždo sąskaitą, teritorinė valstybinė mokesčių inspekcija perveda į šią sąskaitą iš valstybės pinigų fondui, kurio asignavimų valdytojo finansinių prievolių suma ar jos dalis buvo padengtos pripažinus šią mokestinę nepriemoką beviltiška, priklausančios pajamų dalies. Ši mokestinių pajamų dalis pervedama į valstybės iždo sąskaitą proporcingai kiekvieną mėnesį lygiomis dalimis per trejus metus.
+Valstybės biudžeto mokestinių pajamų dalį, negautą dėl mokestinės nepriemokos pripažinimo beviltiška pagal [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymo 29 straipsnio 7 dalies 4 punktą]] ir priklausiusią pervesti į valstybės iždo sąskaitą, teritorinė valstybinė mokesčių inspekcija perveda į šią sąskaitą iš valstybės pinigų fondui, kurio asignavimų valdytojo finansinių prievolių suma ar jos dalis buvo padengtos pripažinus šią mokestinę nepriemoką beviltiška, priklausančios pajamų dalies. Ši mokestinių pajamų dalis pervedama į valstybės iždo sąskaitą proporcingai kiekvieną mėnesį lygiomis dalimis per trejus metus.
 
 
 

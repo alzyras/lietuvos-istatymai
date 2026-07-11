@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-98136c497cb86b7d74adadfd
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. rugsėjo 29 d. dekretą Nr. 1K-130, ratifikuoja 2009 m. birželio 26 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės bendrą saugumo susitarimą dėl keitimosi įslaptinta informacija ir įslaptintos informacijos apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. rugsėjo 29 d. dekretą Nr. 1K-130](https://e-tar.lt/portal/lt/legalAct/TAR.73ED37C9E0E6), ratifikuoja 2009 m. birželio 26 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Prancūzijos Respublikos Vyriausybės bendrą saugumo susitarimą dėl keitimosi įslaptinta informacija ir įslaptintos informacijos apsaugos.
 
 
 

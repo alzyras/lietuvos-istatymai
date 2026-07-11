@@ -81,7 +81,7 @@ BENDROSIOS NUOSTATOS
 5) pavojingųjų cheminių medžiagų ir cheminių mišinių gabenimui geležinkelių, kelių, vidaus vandenų, jūrų ar oro transportu. ^s-1c0eaf873bf6e816045e4085
 
 
-4. Reglamente (EB) Nr. 1907/2006 nustatyti cheminių medžiagų – atskirų ir esančių cheminių mišinių ar gaminių sudėtyje – registracijos, autorizacijos, apribojimų reikalavimai Lietuvos Respublikoje gali būti netaikomi, kai tai būtina gynybos tikslais. Sprendimų netaikyti Reglamento (EB) Nr. 1907/2006 reikalavimų gynybos tikslais naudojamoms cheminėms medžiagoms – atskiroms ir esančioms cheminių mišinių ar gaminių sudėtyje – priėmimo, pratęsimo ir galiojimo panaikinimo tvarką nustato Lietuvos Respublikos krašto apsaugos ministras kartu su Lietuvos Respublikos aplinkos ministru. ^s-7f54b59a05140dfb08a928ab
+4. [Reglamente (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatyti cheminių medžiagų – atskirų ir esančių cheminių mišinių ar gaminių sudėtyje – registracijos, autorizacijos, apribojimų reikalavimai Lietuvos Respublikoje gali būti netaikomi, kai tai būtina gynybos tikslais. Sprendimų netaikyti [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) reikalavimų gynybos tikslais naudojamoms cheminėms medžiagoms – atskiroms ir esančioms cheminių mišinių ar gaminių sudėtyje – priėmimo, pratęsimo ir galiojimo panaikinimo tvarką nustato Lietuvos Respublikos krašto apsaugos ministras kartu su Lietuvos Respublikos aplinkos ministru. ^s-7f54b59a05140dfb08a928ab
 
 
 5. Šis įstatymas nustato bendruosius augalų apsaugos ir biocidinių produktų tiekimo rinkai ir kitokio tvarkymo reikalavimus ir taikomas tiek, kiek to nereglamentuoja Europos Sąjungos reglamentai ar sprendimai ir Lietuvos Respublikos įstatymai, nustatantys augalų apsaugos ir biocidinių produktų tiekimo rinkai ar kitokio tvarkymo reguliavimą. ^s-4ad6acaf82a26e5d642525d9
@@ -91,10 +91,10 @@ BENDROSIOS NUOSTATOS
 ### 2 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-b39888210cc5d176ac4eeed0
 
 
-1. Cheminė medžiaga – kaip apibrėžta Reglamento (EB) Nr. 1907/2006 3 straipsnio 1 punkte ir Reglamento (EB) Nr. 1272/2008 2 straipsnio 7 punkte. ^s-890c6a0d560768ad70803132
+1. Cheminė medžiaga – kaip apibrėžta [Reglamento (EB) Nr. 1907/2006 3 straipsnio](https://eur-lex.europa.eu/eli/reg/1907/2006/art_3/oj) [[latest/TAR.2A629A227788|1 punkte]] ir [Reglamento (EB) Nr. 1272/2008 2 straipsnio](https://eur-lex.europa.eu/eli/reg/1272/2008/art_2/oj) [[latest/TAR.2A629A227788|7 punkte]]. ^s-890c6a0d560768ad70803132
 
 
-2. Cheminis mišinys – kaip apibrėžta Reglamento (EB) Nr. 1907/2006 3 straipsnio 2 punkte ir Reglamento (EB) Nr. 1272/2008 2 straipsnio 8 punkte. ^s-97fda773fdb29155c2694e38
+2. Cheminis mišinys – kaip apibrėžta [Reglamento (EB) Nr. 1907/2006 3 straipsnio](https://eur-lex.europa.eu/eli/reg/1907/2006/art_3/oj) [[latest/TAR.2A629A227788|2 punkte]] ir [Reglamento (EB) Nr. 1272/2008 2 straipsnio](https://eur-lex.europa.eu/eli/reg/1272/2008/art_2/oj) [[latest/TAR.2A629A227788|8 punkte]]. ^s-97fda773fdb29155c2694e38
 
 
 3. Cheminių medžiagų ir cheminių mišinių klasifikavimas – cheminių medžiagų ir cheminių mišinių priskyrimas vienai ar daugiau pavojingumo klasių ir kategorijų pagal jų savybes, taip pat priskyrimas cheminei medžiagai ir cheminiam mišiniui pavojaus piktogramų, pavojingumo klasių ir kategorijų kodų, pavojingumo ir atsargumo frazės ar frazių, kuriomis apibūdinamas cheminės medžiagos ar cheminio mišinio keliamas pavojus. ^s-22a302a6b0703b9dca551366
@@ -103,16 +103,16 @@ BENDROSIOS NUOSTATOS
 4. Cheminių medžiagų ir cheminių mišinių tvarkymas – cheminių medžiagų gamyba, cheminių medžiagų ir cheminių mišinių tiekimas rinkai, klasifikavimas, pakavimas, ženklinimas, apskaita, eksportas, naudojimas (įskaitant cheminių mišinių ruošimą ir gaminių gamybą). ^s-3030725bf658fcdad2a7c823
 
 
-5. Cheminių medžiagų ir cheminių mišinių ženklinimas – Reglamente (EB) Nr. 1272/2008 nustatytos informacijos apie chemines medžiagas ir cheminius mišinius pateikimas etiketėje. ^s-a760a510de932e6006249095
+5. Cheminių medžiagų ir cheminių mišinių ženklinimas – [Reglamente (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nustatytos informacijos apie chemines medžiagas ir cheminius mišinius pateikimas etiketėje. ^s-a760a510de932e6006249095
 
 
-6. Pavojingosios cheminės medžiagos ir cheminiai mišiniai – cheminės medžiagos ir cheminiai mišiniai, kurie pagal Reglamentą (EB) Nr. 1272/2008 klasifikuojami kaip pavojingi. ^s-c291f566bd975333afe9e0bf
+6. Pavojingosios cheminės medžiagos ir cheminiai mišiniai – cheminės medžiagos ir cheminiai mišiniai, kurie pagal [Reglamentą (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) klasifikuojami kaip pavojingi. ^s-c291f566bd975333afe9e0bf
 
 
 7. Rizika – tikimybė, kad cheminių medžiagų ar cheminių mišinių fizinis pavojus, pavojus žmonių sveikatai ir aplinkai atsiranda pagrįstai numatomomis naudojimo sąlygomis. ^s-fdc6751161d65742f262adfd
 
 
-8. Saugos duomenų lapas – dokumentas, kuriame pateikiama Reglamento (EB) Nr. 1907/2006 31 straipsnio 6 dalyje nustatyto turinio informacija apie cheminę medžiagą ir cheminį mišinį, kuria remdamasis cheminių medžiagų ir cheminių mišinių platintojas ir naudotojas (įskaitant cheminių mišinių ruošėją ir gaminių gamintoją) imasi reikalingų priemonių, susijusių su žmonių sveikatos apsauga ir sauga darbo vietoje bei aplinkos apsauga. ^s-fb1943ac34b5061f9725b2a8
+8. Saugos duomenų lapas – dokumentas, kuriame pateikiama [Reglamento (EB) Nr. 1907/2006 31 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/reg/1907/2006/art_31/par_6/oj) nustatyto turinio informacija apie cheminę medžiagą ir cheminį mišinį, kuria remdamasis cheminių medžiagų ir cheminių mišinių platintojas ir naudotojas (įskaitant cheminių mišinių ruošėją ir gaminių gamintoją) imasi reikalingų priemonių, susijusių su žmonių sveikatos apsauga ir sauga darbo vietoje bei aplinkos apsauga. ^s-fb1943ac34b5061f9725b2a8
 
 
 9. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos šio įstatymo priede nurodytuose reglamentuose. ^s-e55658ec3fd3a751e74aef63
@@ -143,7 +143,7 @@ RIZIKOS MAŽINIMO, SAUGOS IR VALDYMO PRIEMONIŲ TAIKYMAS TVARKANT CHEMINES MEDŽ
 1) įvertinti cheminių medžiagų ir cheminių mišinių keliamą riziką, nustatyti ir taikyti savo veikloje priemones, šalinančias arba iki minimumo mažinančias neigiamą cheminių medžiagų ir cheminių mišinių poveikį žmonių sveikatai ir aplinkai, taip pat fizinį pavojų, rekomenduoti šias priemones tolesniems tiekimo grandinės dalyviams; ^s-92d6ca6c6f4ee219e26ad0b2
 
 
-2) turėti duomenų apie gaminamų, tiekiamų rinkai, naudojamų ar kitaip tvarkomų cheminių medžiagų ir cheminių mišinių savybes, kiekį, taip pat kitą informaciją, reikalingą pagal šio įstatymo nustatytus reikalavimus klasifikuoti, pakuoti, ženklinti chemines medžiagas ir cheminius mišinius, Reglamento (EB) Nr. 1907/2006 nustatytais atvejais ir tvarka registruoti chemines medžiagas ir autorizuoti jų naudojimą; ^s-e85b01132c6feab59ebf97e3
+2) turėti duomenų apie gaminamų, tiekiamų rinkai, naudojamų ar kitaip tvarkomų cheminių medžiagų ir cheminių mišinių savybes, kiekį, taip pat kitą informaciją, reikalingą pagal šio įstatymo nustatytus reikalavimus klasifikuoti, pakuoti, ženklinti chemines medžiagas ir cheminius mišinius, [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatytais atvejais ir tvarka registruoti chemines medžiagas ir autorizuoti jų naudojimą; ^s-e85b01132c6feab59ebf97e3
 
 
 3) teikti vartotojams ir kitiems suinteresuotiems asmenims informaciją apie tiekiamų rinkai ar kitaip tvarkomų cheminių medžiagų ir cheminių mišinių pavojingas savybes, galinčias sukelti fizinį pavojų, pakenkti žmonių sveikatai ar aplinkai, taip pat taikytinas keliamos rizikos valdymo ir saugos priemones; ^s-0067d2dc6ec76e0bb2d84bea
@@ -162,13 +162,13 @@ RIZIKOS MAŽINIMO, SAUGOS IR VALDYMO PRIEMONIŲ TAIKYMAS TVARKANT CHEMINES MEDŽ
 1. Cheminių medžiagų ir cheminių mišinių savybės nustatomos šiais būdais: ^s-db5125a43c0ea98b9e8a937e
 
 
-1) surenkama ir įvertinama visa cheminės medžiagos ar cheminio mišinio bandymais gauta informacija apie cheminę medžiagą ar cheminį mišinį ir informacija, gauta kitais būdais, taikant alternatyvius metodus, apibūdintus Reglamente (EB) Nr. 1907/2006 ir Reglamente (EB) Nr. 1272/2008, arba naudojant klinikinių tyrimų duomenis, duomenis apie poveikį darbo aplinkoje, mokslinę ar techninę informaciją, duomenis iš duomenų bazių, kuriose pateikiami epidemiologiniai duomenys; ^s-d421e3725fa6f87810cdb23b
+1) surenkama ir įvertinama visa cheminės medžiagos ar cheminio mišinio bandymais gauta informacija apie cheminę medžiagą ar cheminį mišinį ir informacija, gauta kitais būdais, taikant alternatyvius metodus, apibūdintus [Reglamente (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir [Reglamente (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj), arba naudojant klinikinių tyrimų duomenis, duomenis apie poveikį darbo aplinkoje, mokslinę ar techninę informaciją, duomenis iš duomenų bazių, kuriose pateikiami epidemiologiniai duomenys; ^s-d421e3725fa6f87810cdb23b
 
 
 2) jeigu informacijos, nurodytos [[#^s-d421e3725fa6f87810cdb23b|šios dalies 1 punkte]], nepakanka cheminės medžiagos ar cheminio mišinio savybėms nustatyti, atliekami nauji cheminės medžiagos ar cheminio mišinio bandymai. ^s-e099d8bbb9e26e65998a12bd
 
 
-2. Cheminių medžiagų ir cheminių mišinių bandymai atliekami laikantis Reglamente (EB) Nr. 1907/2006, Reglamente (EB) Nr. 1272/2008 ir 2008 m. gegužės 30 d. Europos Komisijos reglamente (EB) Nr. 440/2008, nustatančiame bandymų metodus pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH) (OL 2008 L 142, p. 1), nustatytų reikalavimų. ^s-dbca19511383c554c6610fea
+2. Cheminių medžiagų ir cheminių mišinių bandymai atliekami laikantis [Reglamente (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj), [Reglamente (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) ir 2008 m. gegužės 30 d. Europos Komisijos reglamente (EB) Nr. 440/2008, nustatančiame bandymų metodus pagal Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH) (OL 2008 L 142, p. 1), nustatytų reikalavimų. ^s-dbca19511383c554c6610fea
 
 
 3. Cheminių medžiagų ir cheminių mišinių savybių bandymai, kuriais siekiama įvertinti saugą žmonių sveikatai ir aplinkai, atliekami geros laboratorinės praktikos principus atitinkančiose Lietuvos Respublikos ar kitų valstybių bandymų laboratorijose. Lietuvoje geros laboratorinės praktikos principus nustato Lietuvos Respublikos ekonomikos ir inovacijų ministras kartu su Lietuvos Respublikos sveikatos apsaugos ministru ir aplinkos ministru. ^s-9fcad1a413e320a6fd2fe99c
@@ -191,14 +191,14 @@ RIZIKOS MAŽINIMO, SAUGOS IR VALDYMO PRIEMONIŲ TAIKYMAS TVARKANT CHEMINES MEDŽ
 ### 7 straipsnis. Cheminių medžiagų ir cheminių mišinių klasifikavimas ^s-923d5df516c6e412f5a5853f
 
 
-Gamintojai, importuotojai ir tolesni naudotojai, prieš tiekdami rinkai chemines medžiagas ar cheminius mišinius, privalo įvertinti, ar cheminės medžiagos ir cheminiai mišiniai atitinka Reglamente (EB) Nr. 1272/2008 nustatytus fizinio pavojaus, pavojingumo žmonių sveikatai ar aplinkai kriterijus, ir, jeigu atitinka, privalo juos suklasifikuoti, vadovaudamiesi Reglamente (EB) Nr. 1272/2008 nustatytais reikalavimais.
+Gamintojai, importuotojai ir tolesni naudotojai, prieš tiekdami rinkai chemines medžiagas ar cheminius mišinius, privalo įvertinti, ar cheminės medžiagos ir cheminiai mišiniai atitinka [Reglamente (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nustatytus fizinio pavojaus, pavojingumo žmonių sveikatai ar aplinkai kriterijus, ir, jeigu atitinka, privalo juos suklasifikuoti, vadovaudamiesi [Reglamente (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nustatytais reikalavimais.
 
 
 
 ### 8 straipsnis. Pavojingųjų cheminių medžiagų ir cheminių mišinių pakavimas ^s-6102ad99443e819f0923d3fc
 
 
-Gamintojai, importuotojai, tolesni naudotojai arba platintojai, prieš tiekdami rinkai pavojingąsias chemines medžiagas ar cheminius mišinius, atsižvelgdami į nustatytą klasifikaciją, privalo juos supakuoti pagal Reglamente (EB) Nr. 1272/2008 nustatytus pakavimo reikalavimus.
+Gamintojai, importuotojai, tolesni naudotojai arba platintojai, prieš tiekdami rinkai pavojingąsias chemines medžiagas ar cheminius mišinius, atsižvelgdami į nustatytą klasifikaciją, privalo juos supakuoti pagal [Reglamente (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nustatytus pakavimo reikalavimus.
 
 
 
@@ -206,7 +206,7 @@ Gamintojai, importuotojai, tolesni naudotojai arba platintojai, prieš tiekdami 
 ### 9 straipsnis. Pavojingųjų cheminių medžiagų ir cheminių mišinių ženklinimas ^s-b198068fead925982c25c6d6
 
 
-1. Gamintojai, importuotojai, tolesni naudotojai arba platintojai, prieš tiekdami rinkai pavojingąsias chemines medžiagas ir cheminius mišinius, atsižvelgdami į nustatytą klasifikaciją, privalo jų pakuotes paženklinti, vadovaudamiesi Reglamento (EB) Nr. 1272/2008 nustatytais reikalavimais. ^s-6e9e4030203910171e69a115
+1. Gamintojai, importuotojai, tolesni naudotojai arba platintojai, prieš tiekdami rinkai pavojingąsias chemines medžiagas ir cheminius mišinius, atsižvelgdami į nustatytą klasifikaciją, privalo jų pakuotes paženklinti, vadovaudamiesi [Reglamento (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nustatytais reikalavimais. ^s-6e9e4030203910171e69a115
 
 
 2. Tiekiamų Lietuvos Respublikos rinkai pavojingųjų cheminių medžiagų ir cheminių mišinių ženklinimo užrašai turi būti lietuvių kalba, išskyrus atvejus, numatytus [[#^s-e11de61cf8c3166ad587a421|šio straipsnio 3 dalyje]]. Šalia užrašo lietuvių kalba gali būti pateikiami užrašai kitomis kalbomis, kurių tekstas turi atitikti užrašą lietuvių kalba. ^s-fbfd95f119e23cb54b63364d
@@ -228,7 +228,7 @@ Gamintojai, importuotojai, tolesni naudotojai arba platintojai, prieš tiekdami 
 ### 10 straipsnis. Saugos duomenų lapas ir informacijos apie chemines medžiagas ir cheminius mišinius perdavimas ^s-67921611b08f00b55218e527
 
 
-Asmenys, tiekiantys rinkai chemines medžiagas ir cheminius mišinius, privalo Reglamente (EB) Nr. 1907/2006 ir Reglamente (EB) Nr. 1272/2008 nustatytais atvejais pagal šių reglamentų reikalavimus pateikti kitiems tiekimo grandinės dalyviams saugos duomenų lapą pagal šių reglamentų reikalavimus arba Reglamente (EB) Nr. 1907/2006 nustatytais atvejais – išplėstinį saugos duomenų lapą ar kitą turimą svarbią informaciją apie cheminę medžiagą ar cheminį mišinį.
+Asmenys, tiekiantys rinkai chemines medžiagas ir cheminius mišinius, privalo [Reglamente (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir [Reglamente (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nustatytais atvejais pagal šių reglamentų reikalavimus pateikti kitiems tiekimo grandinės dalyviams saugos duomenų lapą pagal šių reglamentų reikalavimus arba [Reglamente (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatytais atvejais – išplėstinį saugos duomenų lapą ar kitą turimą svarbią informaciją apie cheminę medžiagą ar cheminį mišinį.
 
 
 
@@ -260,42 +260,42 @@ Gamintojai, importuotojai, tolesni naudotojai, įskaitant cheminių mišinių ru
 ### 13 straipsnis. Cheminių medžiagų registracija, vertinimas ir autorizacija ^s-341c5de5fb55ebaa3b055d02
 
 
-1. Cheminių medžiagų registracija, vertinimas ir autorizacija turi būti atliekami Reglamente (EB) Nr. 1907/2006 nustatytais atvejais ir tvarka. ^s-ef07c6f70fa5240289493d7c
+1. Cheminių medžiagų registracija, vertinimas ir autorizacija turi būti atliekami [Reglamente (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatytais atvejais ir tvarka. ^s-ef07c6f70fa5240289493d7c
 
 
-2. Reglamente (EB) Nr. 1907/2006 nustatyta tvarka neregistruotos ar neautorizuotos cheminės medžiagos, išskyrus atvejus, kai cheminių medžiagų nereikia registruoti ar autorizuoti, privalo būti pašalinamos ir (ar) susigrąžinamos iš rinkos šio įstatymo [[#^s-d7bf8d85ffb13d3fdf354a28|19 straipsnyje]] nustatyta tvarka. ^s-e15a4de777c51abbec283fbe
+2. [Reglamente (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatyta tvarka neregistruotos ar neautorizuotos cheminės medžiagos, išskyrus atvejus, kai cheminių medžiagų nereikia registruoti ar autorizuoti, privalo būti pašalinamos ir (ar) susigrąžinamos iš rinkos šio įstatymo [[#^s-d7bf8d85ffb13d3fdf354a28|19 straipsnyje]] nustatyta tvarka. ^s-e15a4de777c51abbec283fbe
 
 
 
 ### 14 straipsnis. Duomenų ir informacijos apie chemines medžiagas ir cheminius mišinius rinkimas ir kaupimas ^s-2a44f719091c8cb8fc4ee6c1
 
 
-1. Gamintojai, importuotojai, tolesni naudotojai, įskaitant cheminių mišinių ruošėjus, platintojai ir Reglamente (ES) 2017/852, Reglamente (ES) Nr. 649/2012 nustatytais atvejais eksportuotojai, tiekiantys rinkai, naudojantys ir Reglamente (ES) 2017/852, Reglamente (ES) Nr. 649/2012 nustatytais atvejais eksportuojantys chemines medžiagas ir cheminius mišinius, privalo su sveikatos apsaugos ministru suderinta ir aplinkos ministro nustatyta tvarka teikti kompetentingai institucijai, įgaliotai vykdyti Reglamentu (EB) Nr. 1907/2006 ir Reglamentu (EB) Nr. 1272/2008 nacionalinėms kompetentingoms institucijoms nustatytas užduotis, duomenis ir informaciją apie chemines medžiagas ir cheminius mišinius, jų kiekį, savybes, galimą poveikį žmonių sveikatai ir aplinkai, išskyrus duomenis ir informaciją apie chemines medžiagas ir cheminius mišinius, nurodytus šio straipsnio 2 ir [[#^s-6377e25770b54ae09c4a3b8c|3 dalyse]]. ^s-8e7c83cdcb900b6db0ede09d
+1. Gamintojai, importuotojai, tolesni naudotojai, įskaitant cheminių mišinių ruošėjus, platintojai ir [Reglamente (ES) 2017/852](https://eur-lex.europa.eu/eli/reg/2017/852/oj), Reglamente (ES) Nr. 649/2012 nustatytais atvejais eksportuotojai, tiekiantys rinkai, naudojantys ir [Reglamente (ES) 2017/852](https://eur-lex.europa.eu/eli/reg/2017/852/oj), Reglamente (ES) Nr. 649/2012 nustatytais atvejais eksportuojantys chemines medžiagas ir cheminius mišinius, privalo su sveikatos apsaugos ministru suderinta ir aplinkos ministro nustatyta tvarka teikti kompetentingai institucijai, įgaliotai vykdyti [Reglamentu (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir [Reglamentu (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nacionalinėms kompetentingoms institucijoms nustatytas užduotis, duomenis ir informaciją apie chemines medžiagas ir cheminius mišinius, jų kiekį, savybes, galimą poveikį žmonių sveikatai ir aplinkai, išskyrus duomenis ir informaciją apie chemines medžiagas ir cheminius mišinius, nurodytus šio straipsnio [[#^s-f7990ff9f30b4ed4931a2e29|2]] ir [[#^s-6377e25770b54ae09c4a3b8c|3]] dalyse. ^s-8e7c83cdcb900b6db0ede09d
 
 
-2. Asmenys, gaminantys, importuojantys ir eksportuojantys, įvežantys į Lietuvos Respubliką iš kitų Europos Sąjungos valstybių narių ir Europos ekonominei erdvei priklausančių valstybių ir išvežantys iš Lietuvos Respublikos į kitas Europos Sąjungos valstybes nares ir Europos ekonominei erdvei priklausančias valstybes fluorintas šiltnamio efektą sukeliančias dujas ar ozono sluoksnį ardančias medžiagas, jų turinčius cheminius mišinius, produktus ar įrangą, kuriuose yra fluorintų šiltnamio efektą sukeliančių dujų ir (ar) ozono sluoksnį ardančių medžiagų arba kurių veikimas nuo jų priklauso, naudojantys, surenkantys ar naikinantys šias medžiagas, taip pat asmenys, atliekantys šių medžiagų recirkuliaciją ar regeneraciją, įgyvendinant Reglamentą (EB) Nr. 1005/2009 ir Reglamentą (ES) Nr. 517/2014, privalo aplinkos ministro nustatyta tvarka teikti duomenis ir informaciją apie fluorintas šiltnamio efektą sukeliančias dujas, ozono sluoksnį ardančias medžiagas ir jų turinčius cheminius mišinius Lietuvos Respublikos aplinkos ministerijos įgaliotai institucijai. ^s-f7990ff9f30b4ed4931a2e29
+2. Asmenys, gaminantys, importuojantys ir eksportuojantys, įvežantys į Lietuvos Respubliką iš kitų Europos Sąjungos valstybių narių ir Europos ekonominei erdvei priklausančių valstybių ir išvežantys iš Lietuvos Respublikos į kitas Europos Sąjungos valstybes nares ir Europos ekonominei erdvei priklausančias valstybes fluorintas šiltnamio efektą sukeliančias dujas ar ozono sluoksnį ardančias medžiagas, jų turinčius cheminius mišinius, produktus ar įrangą, kuriuose yra fluorintų šiltnamio efektą sukeliančių dujų ir (ar) ozono sluoksnį ardančių medžiagų arba kurių veikimas nuo jų priklauso, naudojantys, surenkantys ar naikinantys šias medžiagas, taip pat asmenys, atliekantys šių medžiagų recirkuliaciją ar regeneraciją, įgyvendinant [Reglamentą (EB) Nr. 1005/2009](https://eur-lex.europa.eu/eli/reg/1005/2009/oj) ir Reglamentą (ES) Nr. 517/2014, privalo aplinkos ministro nustatyta tvarka teikti duomenis ir informaciją apie fluorintas šiltnamio efektą sukeliančias dujas, ozono sluoksnį ardančias medžiagas ir jų turinčius cheminius mišinius Lietuvos Respublikos aplinkos ministerijos įgaliotai institucijai. ^s-f7990ff9f30b4ed4931a2e29
 
 
-3. Importuotojai ir tolesni naudotojai, įskaitant cheminių mišinių ruošėjus, tiekiantys rinkai cheminius mišinius, kurie laikomi pavojingais dėl jų poveikio žmonių sveikatai ar dėl jų fizinio poveikio, Reglamento (EB) Nr. 1272/2008 45 straipsnyje ir VIII priede nustatyta tvarka teikia informaciją, susijusią su neatidėliotinomis priemonėmis ekstremaliomis žmonių sveikatai situacijomis ir prevencinėmis priemonėmis, kompetentingai institucijai, įgaliotai vykdyti Reglamentu (EB) Nr. 1907/2006 ir Reglamentu (EB) Nr. 1272/2008 nacionalinėms kompetentingoms institucijoms nustatytas užduotis, naudodamiesi Europos cheminių medžiagų agentūros elektroninėmis priemonėmis. ^s-6377e25770b54ae09c4a3b8c
+3. Importuotojai ir tolesni naudotojai, įskaitant cheminių mišinių ruošėjus, tiekiantys rinkai cheminius mišinius, kurie laikomi pavojingais dėl jų poveikio žmonių sveikatai ar dėl jų fizinio poveikio, [Reglamento (EB) Nr. 1272/2008 45 straipsnyje](https://eur-lex.europa.eu/eli/reg/1272/2008/art_45/oj) ir VIII priede nustatyta tvarka teikia informaciją, susijusią su neatidėliotinomis priemonėmis ekstremaliomis žmonių sveikatai situacijomis ir prevencinėmis priemonėmis, kompetentingai institucijai, įgaliotai vykdyti [Reglamentu (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir [Reglamentu (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nacionalinėms kompetentingoms institucijoms nustatytas užduotis, naudodamiesi Europos cheminių medžiagų agentūros elektroninėmis priemonėmis. ^s-6377e25770b54ae09c4a3b8c
 
 
-4. Pagal šio straipsnio 1, 2 ir [[#^s-6377e25770b54ae09c4a3b8c|3 dalis]] surinkti duomenys ir informacija kaupiami, analizuojami ir apibendrinami, teikiami suinteresuotiems asmenims laikantis šio įstatymo [[#^s-735e0a175b080108a2b6fc6b|15 straipsnio]] reikalavimų. ^s-a617c35415a60a67cbfb3298
+4. Pagal šio straipsnio [[#^s-8e7c83cdcb900b6db0ede09d|1]], [[#^s-f7990ff9f30b4ed4931a2e29|2]] ir [[#^s-6377e25770b54ae09c4a3b8c|3]] dalis surinkti duomenys ir informacija kaupiami, analizuojami ir apibendrinami, teikiami suinteresuotiems asmenims laikantis šio įstatymo [[#^s-735e0a175b080108a2b6fc6b|15 straipsnio]] reikalavimų. ^s-a617c35415a60a67cbfb3298
 
 
-5. Asmenys, pateikę duomenis ir informaciją apie šio straipsnio 1, 2 ir [[#^s-6377e25770b54ae09c4a3b8c|3 dalyse]] nurodytas chemines medžiagas ar cheminius mišinius, gavę naujos informacijos apie cheminių medžiagų ar cheminių mišinių pavojingumą žmonių sveikatai ar aplinkai, privalo nedelsdami pateikti atnaujintus duomenis ir informaciją kompetentingai institucijai, įgaliotai vykdyti Reglamentu (EB) Nr. 1907/2006 ir Reglamentu (EB) Nr. 1272/2008 nacionalinėms kompetentingoms institucijoms nustatytas užduotis. ^s-f1d3a3bee8cd429e9d74d0b2
+5. Asmenys, pateikę duomenis ir informaciją apie šio straipsnio [[#^s-8e7c83cdcb900b6db0ede09d|1]], [[#^s-f7990ff9f30b4ed4931a2e29|2]] ir [[#^s-6377e25770b54ae09c4a3b8c|3]] dalyse nurodytas chemines medžiagas ar cheminius mišinius, gavę naujos informacijos apie cheminių medžiagų ar cheminių mišinių pavojingumą žmonių sveikatai ar aplinkai, privalo nedelsdami pateikti atnaujintus duomenis ir informaciją kompetentingai institucijai, įgaliotai vykdyti [Reglamentu (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir [Reglamentu (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nacionalinėms kompetentingoms institucijoms nustatytas užduotis. ^s-f1d3a3bee8cd429e9d74d0b2
 
 
 
 ### 15 straipsnis. Duomenų ir informacijos apie chemines medžiagas ir cheminius mišinius konfidencialumas ^s-735e0a175b080108a2b6fc6b
 
 
-1. Asmenys, teikdami duomenis ir informaciją apie chemines medžiagas ar cheminius mišinius šio įstatymo [[#^s-8e7c83cdcb900b6db0ede09d|14 straipsnio 1 dalyje]] nurodytai kompetentingai institucijai, nepažeisdami Reglamento (EB) Nr. 1907/2006 ir Reglamento (EB) Nr. 1272/2008 atitinkamų nuostatų, gali nurodyti, kokius duomenis ar informaciją jie laiko komercine ar pramonine paslaptimi, pateikdami kartu pagrindimą. Tokie duomenys ir informacija gali būti teikiami kitiems asmenims tik turint šiuos duomenis ar informaciją pateikusio asmens rašytinį sutikimą. ^s-66bd40eeb1ea7fe0a647ec41
+1. Asmenys, teikdami duomenis ir informaciją apie chemines medžiagas ar cheminius mišinius šio įstatymo [[#^s-8e7c83cdcb900b6db0ede09d|14 straipsnio 1 dalyje]] nurodytai kompetentingai institucijai, nepažeisdami [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir [Reglamento (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) atitinkamų nuostatų, gali nurodyti, kokius duomenis ar informaciją jie laiko komercine ar pramonine paslaptimi, pateikdami kartu pagrindimą. Tokie duomenys ir informacija gali būti teikiami kitiems asmenims tik turint šiuos duomenis ar informaciją pateikusio asmens rašytinį sutikimą. ^s-66bd40eeb1ea7fe0a647ec41
 
 
-2. Asmenys, teikdami duomenis ar informaciją apie chemines medžiagas ir cheminius mišinius šio įstatymo [[#^s-8e7c83cdcb900b6db0ede09d|14 straipsnio 1 dalyje]] nurodytai kompetentingai institucijai, turi teisę pasinaudoti cheminės medžiagos, esančios cheminio mišinio sudėtyje, cheminio pavadinimo slaptumo (konfidencialumo) išsaugojimu, vadovaudamiesi Reglamente (EB) Nr. 1272/2008 nustatytais reikalavimais. ^s-3fa81c723dec654b10912c65
+2. Asmenys, teikdami duomenis ar informaciją apie chemines medžiagas ir cheminius mišinius šio įstatymo [[#^s-8e7c83cdcb900b6db0ede09d|14 straipsnio 1 dalyje]] nurodytai kompetentingai institucijai, turi teisę pasinaudoti cheminės medžiagos, esančios cheminio mišinio sudėtyje, cheminio pavadinimo slaptumo (konfidencialumo) išsaugojimu, vadovaudamiesi [Reglamente (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nustatytais reikalavimais. ^s-3fa81c723dec654b10912c65
 
 
-3. Informacija apie chemines medžiagas ir cheminius mišinius ir duomenys, kurie pagal Reglamento (EB) Nr. 1907/2006 nuostatas negali būti laikomi komercine ar pramonine paslaptimi ir kurie pagal Lietuvos Respublikos įstatymus nepriskirti valstybės ar tarnybos paslaptims, turi būti skelbiami viešai. Šio įstatymo [[#^s-2a44f719091c8cb8fc4ee6c1|14 straipsnio]] 1, 2, [[#^s-edec8e176fb888d20d0e7112|3 dalyse]] ir [[#^s-123b99adf57437cb3e5dbdce|20 straipsnyje]] nurodytos institucijos ir (ar) valstybės įmonės turi teisę gauti visą veiklos priežiūrai atlikti reikalingą informaciją ir duomenis, tarp jų duomenis ir informaciją, kurie laikomi valstybės, tarnybos, komercine ar pramonine paslaptimi. Šios institucijos atsako už gautų duomenų ir informacijos, kurie yra valstybės, tarnybos, komercinė ar pramoninė paslaptis, apsaugą. ^s-edec8e176fb888d20d0e7112
+3. Informacija apie chemines medžiagas ir cheminius mišinius ir duomenys, kurie pagal [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nuostatas negali būti laikomi komercine ar pramonine paslaptimi ir kurie pagal Lietuvos Respublikos įstatymus nepriskirti valstybės ar tarnybos paslaptims, turi būti skelbiami viešai. Šio įstatymo [[#^s-2a44f719091c8cb8fc4ee6c1|14 straipsnio]] [[#^s-8e7c83cdcb900b6db0ede09d|1]], [[#^s-f7990ff9f30b4ed4931a2e29|2]], [[#^s-6377e25770b54ae09c4a3b8c|3]] dalyse ir [[#^s-123b99adf57437cb3e5dbdce|20 straipsnyje]] nurodytos institucijos ir (ar) valstybės įmonės turi teisę gauti visą veiklos priežiūrai atlikti reikalingą informaciją ir duomenis, tarp jų duomenis ir informaciją, kurie laikomi valstybės, tarnybos, komercine ar pramonine paslaptimi. Šios institucijos atsako už gautų duomenų ir informacijos, kurie yra valstybės, tarnybos, komercinė ar pramoninė paslaptis, apsaugą. ^s-edec8e176fb888d20d0e7112
 
 
 
@@ -307,13 +307,13 @@ CHEMINIŲ MEDŽIAGŲ IR CHEMINIŲ MIŠINIŲ IMPORTAS IR EKSPORTAS
 ### 16 straipsnis. Cheminių medžiagų ir cheminių mišinių importas ir eksportas ^s-e3d2daf0b42816e7f01d8289
 
 
-1. Cheminės medžiagos – atskiros ir esančios cheminių mišinių ar gaminių sudėtyje – ir cheminiai mišiniai, neįrašyti į Reglamento (EB) Nr. 1907/2006 Tam tikrų pavojingųjų cheminių medžiagų, cheminių mišinių ir gaminių gamybos, tiekimo rinkai ir naudojimo apribojimų sąrašą, importuojami laikantis šio įstatymo, kitų Lietuvos Respublikos ir Europos Sąjungos teisės aktų reikalavimų. ^s-ea7539aec1008e4235e15ddb
+1. Cheminės medžiagos – atskiros ir esančios cheminių mišinių ar gaminių sudėtyje – ir cheminiai mišiniai, neįrašyti į [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) Tam tikrų pavojingųjų cheminių medžiagų, cheminių mišinių ir gaminių gamybos, tiekimo rinkai ir naudojimo apribojimų sąrašą, importuojami laikantis šio įstatymo, kitų Lietuvos Respublikos ir Europos Sąjungos teisės aktų reikalavimų. ^s-ea7539aec1008e4235e15ddb
 
 
-2. Pavojingosios cheminės medžiagos – atskiros ir esančios cheminių mišinių ar gaminių sudėtyje – ir cheminiai mišiniai, kurių tiekimas rinkai ir naudojimas draudžiamas arba ribojamas, importuojami pagal Reglamente (EB) Nr. 1907/2006 nustatytas gamybos, tiekimo rinkai ir naudojimo apribojimo sąlygas. Šių cheminių medžiagų ir cheminių mišinių importui ir eksportui taikomi ir kiti Lietuvos Respublikos, Europos Sąjungos teisės aktuose ir tarptautinėse sutartyse nustatyti reikalavimai. ^s-12a0df40601adaa83444895a
+2. Pavojingosios cheminės medžiagos – atskiros ir esančios cheminių mišinių ar gaminių sudėtyje – ir cheminiai mišiniai, kurių tiekimas rinkai ir naudojimas draudžiamas arba ribojamas, importuojami pagal [Reglamente (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatytas gamybos, tiekimo rinkai ir naudojimo apribojimo sąlygas. Šių cheminių medžiagų ir cheminių mišinių importui ir eksportui taikomi ir kiti Lietuvos Respublikos, Europos Sąjungos teisės aktuose ir tarptautinėse sutartyse nustatyti reikalavimai. ^s-12a0df40601adaa83444895a
 
 
-3. Vyriausybės paskirta kompetentinga institucija pagal kompetenciją vykdo su pavojingųjų cheminių medžiagų ir cheminių mišinių bei jų turinčių gaminių importu ir eksportu susijusias kompetentingos institucijos funkcijas, nustatytas Reglamente (ES) Nr. 649/2012 ir Reglamente (ES) 2017/852. ^s-8eca94c7eb3ec2e9ef7d0fff
+3. Vyriausybės paskirta kompetentinga institucija pagal kompetenciją vykdo su pavojingųjų cheminių medžiagų ir cheminių mišinių bei jų turinčių gaminių importu ir eksportu susijusias kompetentingos institucijos funkcijas, nustatytas Reglamente (ES) Nr. 649/2012 ir [Reglamente (ES) 2017/852](https://eur-lex.europa.eu/eli/reg/2017/852/oj). ^s-8eca94c7eb3ec2e9ef7d0fff
 
 
 
@@ -330,16 +330,16 @@ CHEMINIŲ MEDŽIAGŲ, CHEMINIŲ MIŠINIŲ IR JŲ TURINČIŲ GAMINIŲ GAMYBOS, TI
 1. Jeigu, vadovaujantis naujais cheminės medžiagos ar cheminio mišinio epidemiologiniais tyrimais, rizikos vertinimo analizės rezultatais, naujų cheminės medžiagos ar cheminio mišinio bandymų rezultatais, moksline technine informacija ar statistiškai pagrįsta praktine patirtimi, pagrįstai manoma, kad cheminė medžiaga ar cheminis mišinys, kurie buvo laikomi kaip atitinkantys teisės aktų nustatytus reikalavimus, kelia pavojų žmonių sveikatai ar aplinkai, teikiamas pasiūlymas dėl laikinųjų priemonių – cheminės medžiagos klasifikavimo laikinojo pakeitimo arba tiekimo rinkai ir naudojimo draudimo ar apribojimo – taikymo Lietuvos Respublikos teritorijoje vadovaujantis šiame straipsnyje nustatytais reikalavimais. ^s-5fde7c1a37ce1dc646b8dc5f
 
 
-2. Šio įstatymo [[#^s-123b99adf57437cb3e5dbdce|20 straipsnyje]] nurodytos institucijos ir (ar) valstybės įmonės [[#^s-5fde7c1a37ce1dc646b8dc5f|šio straipsnio 1 dalyje]] nurodytais atvejais kompetentingai institucijai, įgaliotai vykdyti Reglamentu (EB) Nr. 1907/2006 ir Reglamentu (EB) Nr. 1272/2008 nacionalinėms kompetentingoms institucijoms nustatytas užduotis, teikia pasiūlymą dėl laikinųjų priemonių taikymo. ^s-4e84cf0ea742af1d3a156a19
+2. Šio įstatymo [[#^s-123b99adf57437cb3e5dbdce|20 straipsnyje]] nurodytos institucijos ir (ar) valstybės įmonės [[#^s-5fde7c1a37ce1dc646b8dc5f|šio straipsnio 1 dalyje]] nurodytais atvejais kompetentingai institucijai, įgaliotai vykdyti [Reglamentu (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir [Reglamentu (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nacionalinėms kompetentingoms institucijoms nustatytas užduotis, teikia pasiūlymą dėl laikinųjų priemonių taikymo. ^s-4e84cf0ea742af1d3a156a19
 
 
-3. Institucijos teikia [[#^s-5fde7c1a37ce1dc646b8dc5f|šio straipsnio 1 dalyje]] nurodytą pasiūlymą dėl laikinųjų priemonių taikymo kompetentingai institucijai, įgaliotai vykdyti Reglamentu (EB) Nr. 1907/2006 ir Reglamentu (EB) Nr. 1272/2008 nacionalinėms kompetentingoms institucijoms nustatytas užduotis, motyvuotu sprendimu nurodydamos pasiūlymo priežastis, siūlomas laikinąsias priemones, jų taikymo pagrindimą ir laikotarpį, kuriam siūlomos laikinosios priemonės. ^s-eb9257ceeb530b8e2f44b515
+3. Institucijos teikia [[#^s-5fde7c1a37ce1dc646b8dc5f|šio straipsnio 1 dalyje]] nurodytą pasiūlymą dėl laikinųjų priemonių taikymo kompetentingai institucijai, įgaliotai vykdyti [Reglamentu (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir [Reglamentu (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nacionalinėms kompetentingoms institucijoms nustatytas užduotis, motyvuotu sprendimu nurodydamos pasiūlymo priežastis, siūlomas laikinąsias priemones, jų taikymo pagrindimą ir laikotarpį, kuriam siūlomos laikinosios priemonės. ^s-eb9257ceeb530b8e2f44b515
 
 
-4. Kompetentinga institucija, įgaliota vykdyti Reglamentu (EB) Nr. 1907/2006 ir Reglamentu (EB) Nr. 1272/2008 nacionalinėms kompetentingoms institucijoms nustatytas užduotis, per 20 darbo dienų nuo pasiūlymo dėl laikinųjų priemonių taikymo gavimo dienos privalo išanalizuoti ir įvertinti šį pasiūlymą vadovaudamasi [[#^s-b8df56831228188b404f144a|šio straipsnio 5 dalyje]] išdėstytais principais ir priimti sprendimą dėl laikinųjų priemonių taikymo Lietuvos Respublikos teritorijoje. Ši kompetentinga institucija taip pat turi teisę priimti tokį sprendimą savo iniciatyva [[#^s-5fde7c1a37ce1dc646b8dc5f|šio straipsnio 1 dalyje]] nurodytais atvejais. ^s-d76a0e100894afb00f29f62e
+4. Kompetentinga institucija, įgaliota vykdyti [Reglamentu (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir [Reglamentu (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nacionalinėms kompetentingoms institucijoms nustatytas užduotis, per 20 darbo dienų nuo pasiūlymo dėl laikinųjų priemonių taikymo gavimo dienos privalo išanalizuoti ir įvertinti šį pasiūlymą vadovaudamasi [[#^s-b8df56831228188b404f144a|šio straipsnio 5 dalyje]] išdėstytais principais ir priimti sprendimą dėl laikinųjų priemonių taikymo Lietuvos Respublikos teritorijoje. Ši kompetentinga institucija taip pat turi teisę priimti tokį sprendimą savo iniciatyva [[#^s-5fde7c1a37ce1dc646b8dc5f|šio straipsnio 1 dalyje]] nurodytais atvejais. ^s-d76a0e100894afb00f29f62e
 
 
-5. Priimdama sprendimą dėl laikinųjų priemonių taikymo, kompetentinga institucija, įgaliota vykdyti Reglamentu (EB) Nr. 1907/2006 ir Reglamentu (EB) Nr. 1272/2008 nacionalinėms kompetentingoms institucijoms nustatytas užduotis, turi vadovautis šiais principais: ^s-b8df56831228188b404f144a
+5. Priimdama sprendimą dėl laikinųjų priemonių taikymo, kompetentinga institucija, įgaliota vykdyti [Reglamentu (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir [Reglamentu (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nacionalinėms kompetentingoms institucijoms nustatytas užduotis, turi vadovautis šiais principais: ^s-b8df56831228188b404f144a
 
 
 1) veiksmingumo – laikinoji priemonė turi būti nukreipta į konkretų riziką keliantį cheminės medžiagos ar cheminio mišinio poveikį, turi per pagrįstą laikotarpį sumažinti šią riziką iki priimtino lygio ir turi būti proporcinga šiai rizikai; ^s-609a58cfcd4477346a856739
@@ -357,13 +357,13 @@ CHEMINIŲ MEDŽIAGŲ, CHEMINIŲ MIŠINIŲ IR JŲ TURINČIŲ GAMINIŲ GAMYBOS, TI
 6. Asmenys, tiekiantys rinkai ir naudojantys chemines medžiagas ir cheminius mišinius, privalo įgyvendinti sprendime dėl laikinųjų priemonių taikymo nurodytas laikinąsias priemones. ^s-69baac2994cb4a4e1478fae9
 
 
-7. Kompetentinga institucija, įgaliota vykdyti Reglamentu (EB) Nr. 1907/2006 ir Reglamentu (EB) Nr. 1272/2008 nacionalinėms kompetentingoms institucijoms nustatytas užduotis, apie priimtą sprendimą dėl laikinųjų priemonių taikymo ir tokio sprendimo priėmimo priežastis nedelsdama privalo informuoti Europos Komisiją, Europos cheminių medžiagų agentūrą ir kitas Europos Sąjungos valstybes nares, pateikdama informaciją, pagrindžiančią laikinųjų priemonių taikymą. ^s-ec26e9d39255e2f2c72238d9
+7. Kompetentinga institucija, įgaliota vykdyti [Reglamentu (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir [Reglamentu (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nacionalinėms kompetentingoms institucijoms nustatytas užduotis, apie priimtą sprendimą dėl laikinųjų priemonių taikymo ir tokio sprendimo priėmimo priežastis nedelsdama privalo informuoti Europos Komisiją, Europos cheminių medžiagų agentūrą ir kitas Europos Sąjungos valstybes nares, pateikdama informaciją, pagrindžiančią laikinųjų priemonių taikymą. ^s-ec26e9d39255e2f2c72238d9
 
 
-8. Gavusi Europos Komisijos išvadas dėl laikinųjų priemonių taikymo, patvirtinančias laikinųjų priemonių taikymą Lietuvos Respublikos teritorijoje arba įpareigojančias atšaukti laikinųjų priemonių taikymą Lietuvos Respublikos teritorijoje, kompetentinga institucija, įgaliota vykdyti Reglamentu (EB) Nr. 1907/2006 ir Reglamentu (EB) Nr. 1272/2008 nacionalinėms kompetentingoms institucijoms nustatytas užduotis, Reglamente (EB) Nr. 1272/2008 nustatyta tvarka pateikia pasiūlymą dėl suderinto klasifikavimo ir ženklinimo Europos cheminių medžiagų agentūrai arba inicijuoja apribojimo procedūrą Reglamente (EB) Nr. 1907/2006 nustatyta tvarka, arba prireikus pakeičia ar panaikina [[#^s-d76a0e100894afb00f29f62e|šio straipsnio 4 dalyje]] nurodytą sprendimą dėl laikinųjų priemonių taikymo. ^s-368b6da6d21cdde6442368ae
+8. Gavusi Europos Komisijos išvadas dėl laikinųjų priemonių taikymo, patvirtinančias laikinųjų priemonių taikymą Lietuvos Respublikos teritorijoje arba įpareigojančias atšaukti laikinųjų priemonių taikymą Lietuvos Respublikos teritorijoje, kompetentinga institucija, įgaliota vykdyti [Reglamentu (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir [Reglamentu (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nacionalinėms kompetentingoms institucijoms nustatytas užduotis, [Reglamente (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nustatyta tvarka pateikia pasiūlymą dėl suderinto klasifikavimo ir ženklinimo Europos cheminių medžiagų agentūrai arba inicijuoja apribojimo procedūrą [Reglamente (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) nustatyta tvarka, arba prireikus pakeičia ar panaikina [[#^s-d76a0e100894afb00f29f62e|šio straipsnio 4 dalyje]] nurodytą sprendimą dėl laikinųjų priemonių taikymo. ^s-368b6da6d21cdde6442368ae
 
 
-9. [[#^s-368b6da6d21cdde6442368ae|Šio straipsnio 8 dalyje]] nustatyta tvarka inicijavus cheminės medžiagos tiekimo rinkai ir naudojimo apribojimo procedūrą, šio įstatymo [[#^s-123b99adf57437cb3e5dbdce|20 straipsnyje]] nurodytos institucijos ir (ar) valstybės įmonės, pateikusios pasiūlymą dėl laikinųjų priemonių taikymo, kuris buvo patvirtintas Europos Komisijos, pateikia kompetentingai institucijai, įgaliotai vykdyti Reglamentu (EB) Nr. 1907/2006 ir Reglamentu (EB) Nr. 1272/2008 nacionalinėms kompetentingoms institucijoms nustatytas užduotis, parengtą dokumentaciją pagal Reglamento (EB) Nr. 1907/2006 XV priede nustatytus reikalavimus. ^s-e971a0e5f14dc00fee8eca57
+9. [[#^s-368b6da6d21cdde6442368ae|Šio straipsnio 8 dalyje]] nustatyta tvarka inicijavus cheminės medžiagos tiekimo rinkai ir naudojimo apribojimo procedūrą, šio įstatymo [[#^s-123b99adf57437cb3e5dbdce|20 straipsnyje]] nurodytos institucijos ir (ar) valstybės įmonės, pateikusios pasiūlymą dėl laikinųjų priemonių taikymo, kuris buvo patvirtintas Europos Komisijos, pateikia kompetentingai institucijai, įgaliotai vykdyti [Reglamentu (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir [Reglamentu (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) nacionalinėms kompetentingoms institucijoms nustatytas užduotis, parengtą dokumentaciją pagal [Reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) XV priede nustatytus reikalavimus. ^s-e971a0e5f14dc00fee8eca57
 
 
 10. Sprendimai dėl laikinųjų priemonių taikymo Lietuvos Respublikos teritorijoje, sprendimai dėl taikomų laikinųjų priemonių pakeitimo ir panaikinimo skelbiami Teisės aktų registre. ^s-e3d6a4dd28a1f94fcad9ac94
@@ -373,10 +373,10 @@ CHEMINIŲ MEDŽIAGŲ, CHEMINIŲ MIŠINIŲ IR JŲ TURINČIŲ GAMINIŲ GAMYBOS, TI
 ### 18 straipsnis. Pavojingųjų cheminių medžiagų, cheminių mišinių gamybos, tiekimo rinkai ir naudojimo apribojimai ^s-fef9043bfafed6065db1be97
 
 
-1. Chemines medžiagas ir cheminius mišinius, kuriems pagal Reglamentą (EB) Nr. 1907/2006, Reglamentą (ES) 2017/852 ir Reglamentą (ES) 2019/1021 taikomi gamybos, tiekimo rinkai ir naudojimo apribojimai, išskyrus šiuose reglamentuose nustatytas išimtis, draudžiama gaminti, tiekti rinkai ir naudoti, jeigu jie neatitinka Reglamente (EB) Nr. 1907/2006, Reglamente (ES) 2017/852 ir Reglamente (ES) 2019/1021 nustatytų apribojimo sąlygų. ^s-5b8cb437a7ec61dad34701d5
+1. Chemines medžiagas ir cheminius mišinius, kuriems pagal [Reglamentą (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj), [Reglamentą (ES) 2017/852](https://eur-lex.europa.eu/eli/reg/2017/852/oj) ir [Reglamentą (ES) 2019/1021](https://eur-lex.europa.eu/eli/reg/2019/1021/oj) taikomi gamybos, tiekimo rinkai ir naudojimo apribojimai, išskyrus šiuose reglamentuose nustatytas išimtis, draudžiama gaminti, tiekti rinkai ir naudoti, jeigu jie neatitinka [Reglamente (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj), [Reglamente (ES) 2017/852](https://eur-lex.europa.eu/eli/reg/2017/852/oj) ir [Reglamente (ES) 2019/1021](https://eur-lex.europa.eu/eli/reg/2019/1021/oj) nustatytų apribojimo sąlygų. ^s-5b8cb437a7ec61dad34701d5
 
 
-2. Pavojingosios cheminės medžiagos – atskiros ir esančios cheminių mišinių ar gaminių sudėtyje, kurių gamyba, tiekimas rinkai ir naudojimas draudžiamas arba ribojamas, turi būti pašalinamos ir (ar) susigrąžinamos iš rinkos šio įstatymo [[#^s-d7bf8d85ffb13d3fdf354a28|19 straipsnio]] 2, 3, 4, 5 dalyse nustatyta tvarka. ^s-8c92ac9452d6bc556ba6be8a
+2. Pavojingosios cheminės medžiagos – atskiros ir esančios cheminių mišinių ar gaminių sudėtyje, kurių gamyba, tiekimas rinkai ir naudojimas draudžiamas arba ribojamas, turi būti pašalinamos ir (ar) susigrąžinamos iš rinkos šio įstatymo [[#^s-d7bf8d85ffb13d3fdf354a28|19 straipsnio]] [[#^s-117178eeadb41c32ef21d6a7|2]], [[#^s-be77188e00b4ea690fd12038|3]], [[#^s-d5779cbb15cce41900cbb647|4]], [[#^s-777a29964c22b989192a7ad5|5]] dalyse nustatyta tvarka. ^s-8c92ac9452d6bc556ba6be8a
 
 
 
@@ -392,10 +392,10 @@ CHEMINIŲ MEDŽIAGŲ, CHEMINIŲ MIŠINIŲ IR JŲ TURINČIŲ GAMINIŲ GAMYBOS, TI
 3. Kai cheminės medžiagos gamintojo, importuotojo ar tolesnio naudotojo neįmanoma identifikuoti arba jis yra nutraukęs ūkinę veiklą, cheminę medžiagą – atskirą ar esančią cheminių mišinių ar gaminių sudėtyje – iš rinkos pašalinti savo lėšomis privalo platintojas. ^s-be77188e00b4ea690fd12038
 
 
-4. Pagal šio straipsnio 1, 2 ir [[#^s-be77188e00b4ea690fd12038|3 dalių]] reikalavimus pašalintos ir (ar) susigrąžintos iš rinkos cheminės medžiagos eksportuojamos laikantis Reglamento (ES) 649/2012 ir Reglamento (ES) 2017/852 reikalavimų arba cheminių medžiagų gamintojo, importuotojo ar tolesnio naudotojo, o pagal [[#^s-be77188e00b4ea690fd12038|šio straipsnio 3 dalį]] – ir platintojo lėšomis, perduodamos atliekų tvarkytojui vadovaujantis atliekų tvarkymą reglamentuojančių teisės aktų reikalavimais. ^s-d5779cbb15cce41900cbb647
+4. Pagal šio straipsnio [[#^s-b0e1ecb557677a2b6c683681|1]], [[#^s-117178eeadb41c32ef21d6a7|2]] ir [[#^s-be77188e00b4ea690fd12038|3]] dalių reikalavimus pašalintos ir (ar) susigrąžintos iš rinkos cheminės medžiagos eksportuojamos laikantis Reglamento (ES) 649/2012 ir [Reglamento (ES) 2017/852](https://eur-lex.europa.eu/eli/reg/2017/852/oj) reikalavimų arba cheminių medžiagų gamintojo, importuotojo ar tolesnio naudotojo, o pagal [[#^s-be77188e00b4ea690fd12038|šio straipsnio 3 dalį]] – ir platintojo lėšomis, perduodamos atliekų tvarkytojui vadovaujantis atliekų tvarkymą reglamentuojančių teisės aktų reikalavimais. ^s-d5779cbb15cce41900cbb647
 
 
-5. Apie šio straipsnio 1–[[#^s-d5779cbb15cce41900cbb647|4 dalyse]] nurodytų veiksmų atlikimą cheminės medžiagos gamintojas, importuotojas ar tolesnis naudotojas, o pagal [[#^s-be77188e00b4ea690fd12038|šio straipsnio 3 dalį]] – ir platintojas ne vėliau kaip per 5 darbo dienas nuo reikalavimų įvykdymo dienos praneša šio įstatymo [[#^s-123b99adf57437cb3e5dbdce|20 straipsnyje]] nurodytai cheminių medžiagų ir cheminių mišinių tvarkymo priežiūrą vykdančiai institucijai ir (ar) valstybės įmonei, pareikalavusiai pašalinti ir (ar) susigrąžinti chemines medžiagas iš rinkos, pateikdamas reikalavimų įvykdymą patvirtinančius dokumentus. ^s-777a29964c22b989192a7ad5
+5. Apie šio straipsnio [[#^s-b0e1ecb557677a2b6c683681|1]]–[[#^s-d5779cbb15cce41900cbb647|4]] dalyse nurodytų veiksmų atlikimą cheminės medžiagos gamintojas, importuotojas ar tolesnis naudotojas, o pagal [[#^s-be77188e00b4ea690fd12038|šio straipsnio 3 dalį]] – ir platintojas ne vėliau kaip per 5 darbo dienas nuo reikalavimų įvykdymo dienos praneša šio įstatymo [[#^s-123b99adf57437cb3e5dbdce|20 straipsnyje]] nurodytai cheminių medžiagų ir cheminių mišinių tvarkymo priežiūrą vykdančiai institucijai ir (ar) valstybės įmonei, pareikalavusiai pašalinti ir (ar) susigrąžinti chemines medžiagas iš rinkos, pateikdamas reikalavimų įvykdymą patvirtinančius dokumentus. ^s-777a29964c22b989192a7ad5
 
 
 
@@ -432,19 +432,19 @@ priedas
 
 
 
-1. 2003 m. spalio 13 d. Europos Parlamento ir Tarybos Reglamentas (EB) Nr. 2003/2003 dėl trąšų (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 467) su paskutiniais pakeitimais, padarytais 2016 m. rugsėjo 8 d. Komisijos reglamentu (ES) Nr. 2016/1618 (OL 2016 L 242, p. 24). ^s-13b55ad5da0debaa12d24040
+1. 2003 m. spalio 13 d. Europos Parlamento ir Tarybos [Reglamentas (EB) Nr. 2003/2003](https://eur-lex.europa.eu/eli/reg/2003/2003/oj) dėl trąšų (OL 2004 m. specialusis leidimas, [[latest/TAR.2A629A227788|13 skyrius]], 32 tomas, p. 467) su paskutiniais pakeitimais, padarytais 2016 m. rugsėjo 8 d. Komisijos [reglamentu (ES) Nr. 2016/1618](https://eur-lex.europa.eu/eli/reg/2016/1618/oj) (OL 2016 L 242, p. 24). ^s-13b55ad5da0debaa12d24040
 
 
-2. 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiantis Europos cheminių medžiagų agentūrą, iš dalies keičiantis Direktyvą 1999/45/EB bei panaikinantis Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1), su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 17 d. Komisijos reglamentu (ES) 2018/2005 (OL 2018 L 322, p. 14). ^s-cb47792f16f6b4dc62f45b08
+2. 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiantis Europos cheminių medžiagų agentūrą, iš dalies keičiantis Direktyvą 1999/45/EB bei panaikinantis Tarybos reglamentą (EEB) Nr. 793/93, Komisijos [reglamentą (EB) Nr. 1488/94](https://eur-lex.europa.eu/eli/reg/1488/94/oj), Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB (OL 2006 L 396, p. 1), su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 17 d. Komisijos [reglamentu (ES) 2018/2005](https://eur-lex.europa.eu/eli/reg/2018/2005/oj) (OL 2018 L 322, p. 14). ^s-cb47792f16f6b4dc62f45b08
 
 
-3. 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1272/2008 dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiantis ir panaikinantis direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiantis Reglamentą (EB) Nr. 1907/2006 (OL 2008 L 353, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. kovo 27 d. Komisijos reglamentu (ES) 2019/521 (OL 2019 L 86, p. 1). ^s-01a454f9afcc6f9e46c56225
+3. 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiantis ir panaikinantis direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiantis [Reglamentą (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) (OL 2008 L 353, p. 1), su paskutiniais pakeitimais, padarytais 2019 m. kovo 27 d. Komisijos [reglamentu (ES) 2019/521](https://eur-lex.europa.eu/eli/reg/2019/521/oj) (OL 2019 L 86, p. 1). ^s-01a454f9afcc6f9e46c56225
 
 
-4. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1005/2009 dėl ozono sluoksnį ardančių medžiagų (OL 2009 L 286, p. 1) su paskutiniais pakeitimais, padarytais 2017 m. kovo 29 d. Komisijos reglamentu (ES) 2017/605 (OL 2017 L 84, p. 3). ^s-bd3fc845e668907a04d3cc58
+4. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1005/2009](https://eur-lex.europa.eu/eli/reg/1005/2009/oj) dėl ozono sluoksnį ardančių medžiagų (OL 2009 L 286, p. 1) su paskutiniais pakeitimais, padarytais 2017 m. kovo 29 d. Komisijos [reglamentu (ES) 2017/605](https://eur-lex.europa.eu/eli/reg/2017/605/oj) (OL 2017 L 84, p. 3). ^s-bd3fc845e668907a04d3cc58
 
 
-5. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2009 dėl augalų apsaugos produktų pateikimo į rinką ir panaikinantis Tarybos direktyvas 79/117/EEB ir 91/414/EEB (OL 2009 L 309, p. 1), su paskutiniais pakeitimais, padarytais 2018 m. balandžio 19 d. Komisijos reglamentu (ES) 2018/605 (OL 2018 L 101, p. 33). ^s-bb2209f63935feb0bbe40324
+5. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1107/2009](https://eur-lex.europa.eu/eli/reg/1107/2009/oj) dėl augalų apsaugos produktų pateikimo į rinką ir panaikinantis Tarybos direktyvas 79/117/EEB ir 91/414/EEB (OL 2009 L 309, p. 1), su paskutiniais pakeitimais, padarytais 2018 m. balandžio 19 d. Komisijos [reglamentu (ES) 2018/605](https://eur-lex.europa.eu/eli/reg/2018/605/oj) (OL 2018 L 101, p. 33). ^s-bb2209f63935feb0bbe40324
 
 
 6. 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva 2010/75/ES dėl pramoninių išmetamų teršalų (taršos integruotos prevencijos ir kontrolės) (OL 2010 L 334, p. 17). ^s-1ddb7f90b2532c54ece14a10
@@ -453,16 +453,16 @@ priedas
 7. 2012 m. gegužės 22 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 528/2012 dėl biocidinių produktų tiekimo rinkai ir jų naudojimo (OL 2012 L 167, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 334/2014 (OL 2014 L 103, p. 22). ^s-2a6293d9a6595a7ec283140a
 
 
-8. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 649/2012 dėl pavojingų cheminių medžiagų eksporto ir importo (OL 2012 L 201, p. 60) su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 11 d. Komisijos deleguotuoju reglamentu (ES) 2019/330 (OL 2019 L 59, p. 1). ^s-d7b270ec3cae431e2661ae0b
+8. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 649/2012 dėl pavojingų cheminių medžiagų eksporto ir importo (OL 2012 L 201, p. 60) su paskutiniais pakeitimais, padarytais 2018 m. gruodžio 11 d. Komisijos deleguotuoju [reglamentu (ES) 2019/330](https://eur-lex.europa.eu/eli/reg/2019/330/oj) (OL 2019 L 59, p. 1). ^s-d7b270ec3cae431e2661ae0b
 
 
 9. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 517/2014 dėl fluorintų šiltnamio efektą sukeliančių dujų, kuriuo panaikinamas Reglamentas (EB) Nr. 842/2006 (OL 2014 L 150, p. 195). ^s-aca30968f405d232ba943924
 
 
-10. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/852 dėl gyvsidabrio, kuriuo panaikinamas Reglamentas (EB) Nr. 1102/2008 (OL 2017 L 137, p. 1). ^s-ccd91b528a8f8436dda38fb1
+10. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/852](https://eur-lex.europa.eu/eli/reg/2017/852/oj) dėl gyvsidabrio, kuriuo panaikinamas [Reglamentas (EB) Nr. 1102/2008](https://eur-lex.europa.eu/eli/reg/1102/2008/oj) (OL 2017 L 137, p. 1). ^s-ccd91b528a8f8436dda38fb1
 
 
-11. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1021 dėl patvariųjų organinių teršalų (OL 2019 L 169, p. 45).“ ^s-81f6b22da683953d77dc4c4c
+11. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2019/1021](https://eur-lex.europa.eu/eli/reg/2019/1021/oj) dėl patvariųjų organinių teršalų (OL 2019 L 169, p. 45).“ ^s-81f6b22da683953d77dc4c4c
 
 
 

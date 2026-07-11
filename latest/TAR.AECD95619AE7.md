@@ -68,7 +68,7 @@ Papildyti Įstatymą priedu:
 
 „Lietuvos Respublikos
 1994 m. liepos 19 d.
-[[latest/TAR.E2B2957B9182|įstatymo Nr. I-552]]
+įstatymo Nr. I-552
 priedas
 
 ĮGYVENDINAMAS EUROPOS SĄJUNGOS TEISĖS AKTAS

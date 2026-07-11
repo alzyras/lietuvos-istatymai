@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-fbf44753c8ee263acdb365ee
-[[latest/f6d686707e7011e6b969d7ae07280e89#^s-c9dc5d56b27f8bb8135267ee|DARBO KODEKSO 141 IR 208 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/f6d686707e7011e6b969d7ae07280e89|DARBO KODEKSO]] [[latest/f6d686707e7011e6b969d7ae07280e89#^s-e1ab477a855b45ee0255e5cb|141]] IR [[latest/f6d686707e7011e6b969d7ae07280e89#^s-c9dc5d56b27f8bb8135267ee|208]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2002, Nr. 64-2569)
 
@@ -62,7 +62,7 @@ Vilnius
 
 
 ### ANTRASIS SKIRSNIS ^s-d8648ebc43c2f79f59577a10
-ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO
+[ADMINISTRACINIŲ TEISĖS PAŽEIDIMŲ KODEKSO](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492)
 1886 STRAIPSNIO PAKEITIMAS
 
 (Žin., 1985, Nr. 1-1; 1992, Nr. 21-610; 2000, Nr. 22-552; 2002, Nr. 75-3214, Nr. 123-5526)
@@ -83,7 +83,7 @@ užtraukia baudą nuo penkių šimtų iki trijų tūkstančių litų.“
 
 
 ### TREČIASIS SKIRSNIS ^s-7b2e3bc39e5ca0031ee78a59
-[[latest/TAR.A0A0CCC6B997#^s-7f5d2e0c13d08eedcc788cd5|BAUSMIŲ VYKDYMO KODEKSO 34, 35 STRAIPSNIŲ]] PAKEITIMAS IR PAPILDYMAS
+[[latest/TAR.A0A0CCC6B997|BAUSMIŲ VYKDYMO KODEKSO]] [[latest/TAR.A0A0CCC6B997#^s-657c5d3f9ca89b7264806f49|34]], [[latest/TAR.A0A0CCC6B997#^s-7f5d2e0c13d08eedcc788cd5|35]] STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 2002, Nr. 73-3084)
 
@@ -131,7 +131,7 @@ užtraukia baudą nuo penkių šimtų iki trijų tūkstančių litų.“
 
 
 ### KETVIRTASIS SKIRSNIS ^s-5858ebce3071cc4d6157b609
-SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO 4 STRAIPSNIO PAKEITIMAS
+[SEIMO NARIŲ DARBO SĄLYGŲ ĮSTATYMO 4 STRAIPSNIO](https://e-tar.lt/portal/lt/legalAct/TAR.C543D39A1A6E) PAKEITIMAS
 
 (Žin., 1996, Nr. 71-1710; 2001, Nr. 64-2328)
 
@@ -192,7 +192,7 @@ BAIGIAMOSIOS NUOSTATOS
 ### 1 straipsnis. Pereinamojo laikotarpio nuostatos ^s-6ebe16a69adee149d861585f
 
 
-Iki Valdininkų registro reorganizavimo į Valstybės tarnautojų registrą šio įstatymo trečiajame skirsnyje išdėstyto Bausmių vykdymo kodekso 35 straipsnio 2 dalyje nurodyta teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo bausmę arba viešųjų teisių atėmimo bausmę vykdanti institucija pagal nuteistojo gyvenamąją vietą, vykdydama teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo bausmę arba viešųjų teisių atėmimo bausmę, turi teisę gauti reikalingą informaciją iš Valdininkų registro.
+Iki Valdininkų registro reorganizavimo į Valstybės tarnautojų registrą šio įstatymo trečiajame skirsnyje išdėstyto [[latest/TAR.A0A0CCC6B997|Bausmių vykdymo kodekso 35 straipsnio 2 dalyje]] nurodyta teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo bausmę arba viešųjų teisių atėmimo bausmę vykdanti institucija pagal nuteistojo gyvenamąją vietą, vykdydama teisės dirbti tam tikrą darbą arba užsiimti tam tikra veikla atėmimo bausmę arba viešųjų teisių atėmimo bausmę, turi teisę gauti reikalingą informaciją iš Valdininkų registro.
 
 
 

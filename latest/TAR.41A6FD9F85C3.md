@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Sprendimo ratifikavimas ^s-6fcfc7aac5c704362ef1d688
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. lapkričio 14 d. dekretą Nr. 1550, ratifikuoja Lietuvos Respublikos ir Lenkijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimą Nr.1/2000 „Dėl Lietuvos Respublikos ir Lenkijos Respublikos laisvosios prekybos sutarties 3 protokolo dėl sąvokos „prekių kilmė“ apibrėžimo pakeitimo“, pasirašytą 2000 m. gruodžio 13 d. Varšuvoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. lapkričio 14 d. dekretą Nr. 1550](https://e-tar.lt/portal/lt/legalAct/TAR.0B1A7D57C78E), ratifikuoja Lietuvos Respublikos ir Lenkijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimą Nr.1/2000 „Dėl Lietuvos Respublikos ir Lenkijos Respublikos laisvosios prekybos sutarties 3 protokolo dėl sąvokos „prekių kilmė“ apibrėžimo pakeitimo“, pasirašytą 2000 m. gruodžio 13 d. Varšuvoje.
 
 
 

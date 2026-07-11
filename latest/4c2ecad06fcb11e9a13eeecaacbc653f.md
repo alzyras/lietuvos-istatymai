@@ -40,19 +40,19 @@ Vilnius
 ### 1 straipsnis. 17 straipsnio pakeitimas ^s-42442225f0c9d51b09feb27e
 
 
-Pakeisti 17 straipsnio 1 dalies 12 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.67B5099C5848#^s-8bf27047b38401b571f508c8|17 straipsnio 1 dalies 12 punktą]] ir jį išdėstyti taip:
 
 
-„12) užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, dėl leidimų gyventi Lietuvoje pakeitimo, dėl skundų dėl prieglobsčio nesuteikimo ar panaikinimo, taip pat dėl perkeliamųjų asmenų skundų dėl perkeliamojo asmens statuso nesuteikimo ar panaikinimo;“.
+„12) užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, [dėl leidimų](https://e-tar.lt/portal/lt/legalAct/TAR.49F3BFF08717) gyventi Lietuvoje pakeitimo, dėl skundų dėl prieglobsčio nesuteikimo ar panaikinimo, taip pat dėl perkeliamųjų asmenų skundų dėl perkeliamojo asmens statuso nesuteikimo ar panaikinimo;“.
 
 
 ### 2 straipsnis. 20 straipsnio pakeitimas ^s-49771ef33fd7631081c7923d
 
 
-Pakeisti 20 straipsnio 2 dalies 10 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.67B5099C5848|20 straipsnio 2 dalies 10 punktą]] ir jį išdėstyti taip:
 
 
-„10) dėl užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, dėl leidimų gyventi Lietuvoje pakeitimo, dėl skundų dėl prieglobsčio nesuteikimo ar panaikinimo, taip pat dėl perkeliamųjų asmenų skundų dėl perkeliamojo asmens statuso nesuteikimo ar panaikinimo;“.
+„10) dėl užsieniečių skundų dėl atsisakymo išduoti leidimą gyventi ar dirbti Lietuvoje ar tokio leidimo panaikinimo, [dėl leidimų](https://e-tar.lt/portal/lt/legalAct/TAR.49F3BFF08717) gyventi Lietuvoje pakeitimo, dėl skundų dėl prieglobsčio nesuteikimo ar panaikinimo, taip pat dėl perkeliamųjų asmenų skundų dėl perkeliamojo asmens statuso nesuteikimo ar panaikinimo;“.
 
 
 ### 3 straipsnis. Įstatymo įsigaliojimas ^s-8ea03afa49275ae2b8b86cef

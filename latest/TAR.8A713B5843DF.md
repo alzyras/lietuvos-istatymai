@@ -50,7 +50,7 @@ Pakeisti [[#^s-7a895b4adab3585ce99c4790|2 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-7a895b4adab3585ce99c4790|2 straipsnis]]. Nedarbo draudimas
 
 
-Nedarbo draudimas yra socialinio draudimo rūšis, kuri įstatymų nustatytais atvejais kompensuoja šios rūšies draudimu apdraustiems asmenims dėl nedarbo negautas pajamas arba jų dalį ir (arba) finansuoja Užimtumo rėmimo įstatymo nustatytas aktyvios darbo rinkos politikos priemones.“
+Nedarbo draudimas yra socialinio draudimo rūšis, kuri įstatymų nustatytais atvejais kompensuoja šios rūšies draudimu apdraustiems asmenims dėl nedarbo negautas pajamas arba jų dalį ir (arba) finansuoja [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytas aktyvios darbo rinkos politikos priemones.“
 
 
 
@@ -60,7 +60,7 @@ Nedarbo draudimas yra socialinio draudimo rūšis, kuri įstatymų nustatytais a
 Pakeisti 17 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Įmokų tarifas nedarbo draudimui ir nedarbo draudimo lėšų Užimtumo rėmimo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti dydis kasmet tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.“
+„2. Įmokų tarifas nedarbo draudimui ir nedarbo draudimo lėšų [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti dydis kasmet tvirtinami Valstybinio socialinio draudimo fondo biudžeto rodiklių patvirtinimo įstatymu.“
 
 
 

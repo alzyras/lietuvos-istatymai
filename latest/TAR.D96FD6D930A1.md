@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-9df01c752ed518773d729881
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio pirmosios dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. sausio 18 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti sutartį tarp Lietuvos Respublikos ir Belgijos-Liuksemburgo ekonominės sąjungos dėl investicijų abipusio skatinimo ir apsaugos“, ratifikuoja Lietuvos Respublikos ir Belgijos-Liuksemburgo ekonominės sąjungos sutartį dėl investicijų abipusio skatinimo ir apsaugos, pasirašytą 1997 m. spalio 15 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio pirmosios dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 1999 m. sausio 18 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti sutartį tarp Lietuvos Respublikos ir Belgijos-Liuksemburgo ekonominės sąjungos dėl investicijų abipusio skatinimo ir apsaugos“](https://e-tar.lt/portal/lt/legalAct/TAR.F0C57A3C384D), ratifikuoja Lietuvos Respublikos ir Belgijos-Liuksemburgo ekonominės sąjungos sutartį dėl investicijų abipusio skatinimo ir apsaugos, pasirašytą 1997 m. spalio 15 d. Briuselyje.
 
 
 

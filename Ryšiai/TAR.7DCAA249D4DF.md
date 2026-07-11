@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EFE69222D6BC#^s-53463aeeeeb2ef1e2e42f316|Lietuvos Respublikos geodezijos ir kartografijos įstatymas]] - 3 citatos - 1061010ISTA00X-1008
-- [[latest/TAR.EFE69222D6BC#^s-e4bc9485f7c02d4b29efa59c|Lietuvos Respublikos geodezijos ir kartografijos įstatymas]] - 3 citatos - 1061010ISTA00X-1008
+- [[latest/TAR.EFE69222D6BC#^s-e4bc9485f7c02d4b29efa59c|Lietuvos Respublikos geodezijos ir kartografijos įstatymas]] - 2 citatos - 1061010ISTA00X-1008

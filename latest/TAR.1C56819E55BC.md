@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir Susitarimo ratifikavimas ^s-bcf2a141eeebde59b50c3aba
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. birželio 30 d. dekretą Nr. 142, ratifikuoja su pareiškimu Jungtinių Tautų jūrų teisės konvenciją, priimtą 1982 m. gruodžio 10 d. Montego Bėjuje, ir Susitarimą dėl 1982 m. gruodžio 10 d. Jungtinių Tautų jūrų teisės konvencijos XI dalies įgyvendinimo, priimtą 1994 m. liepos 28 d. Niujorke.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. birželio 30 d. dekretą Nr. 142](https://e-tar.lt/portal/lt/legalAct/TAR.800840AB083B), ratifikuoja su pareiškimu Jungtinių Tautų jūrų teisės konvenciją, priimtą 1982 m. gruodžio 10 d. Montego Bėjuje, ir Susitarimą dėl 1982 m. gruodžio 10 d. Jungtinių Tautų jūrų teisės konvencijos XI dalies įgyvendinimo, priimtą 1994 m. liepos 28 d. Niujorke.
 
 
 

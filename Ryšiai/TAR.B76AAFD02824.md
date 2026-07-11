@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos rinkliavų įstatymo 7 straipsnio pakeitimo �
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.41CD8BF53D8D#^s-c03f0ebaf0733b6df00dedc1|Lietuvos Respublikos rinkliavų įstatymas]] - 2 citatos - RINKLIAVŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.41CD8BF53D8D#^s-c03f0ebaf0733b6df00dedc1|Lietuvos Respublikos rinkliavų įstatymas]] - RINKLIAVŲ ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMAS

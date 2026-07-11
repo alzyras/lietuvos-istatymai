@@ -102,7 +102,7 @@ Asmenų, mirusių nuo pavojingų ir ypač pavojingų užkrečiamųjų ligų, pal
 ### 7 straipsnis. 26 straipsnio 1 dalies 3, 4 punktų ir 3 dalies pakeitimas ^s-b306493c084567333c3afce0
 
 
-1. 26 straipsnio 1 dalies 3 ir [[#^s-9e37d41a09374d29df9effc4|4 punktuose]] vietoj žodžių „apskrities vyriausiuoju valstybiniu gydytoju higienistu“ įrašyti žodžius „Sveikatos apsaugos ministerija arba jos įgaliota institucija“ ir šiuos punktus išdėstyti taip: ^s-af0b3b7f1833c2a5b4e3e411
+1. 26 straipsnio 1 dalies 3 ir 4 punktuose vietoj žodžių „apskrities vyriausiuoju valstybiniu gydytoju higienistu“ įrašyti žodžius „Sveikatos apsaugos ministerija arba jos įgaliota institucija“ ir šiuos punktus išdėstyti taip: ^s-af0b3b7f1833c2a5b4e3e411
 
 
 „3) suderinusi su Sveikatos apsaugos ministerija arba jos įgaliota institucija, tvirtina savivaldybės teritorijos sanitarinės kontrolės taisykles;

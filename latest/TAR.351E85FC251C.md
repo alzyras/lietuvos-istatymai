@@ -228,7 +228,7 @@ Sutarčių registras finansuojamas iš Lietuvos Respublikos valstybės biudžeto
 ### 8 straipsnis. Sutarčių registro reorganizavimas ir likvidavimas ^s-5b107e81df09cec7390fb376
 
 
-Sutarčių registras reorganizuojamas ir likviduojamas Lietuvos Respublikos valstybės registrų įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka.
+Sutarčių registras reorganizuojamas ir likviduojamas [Lietuvos Respublikos valstybės registrų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296) ir Lietuvos Respublikos Vyriausybės nustatyta tvarka.
 
 
 

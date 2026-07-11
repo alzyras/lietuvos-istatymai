@@ -112,7 +112,7 @@ Nr. XV-345, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11759
 ### 3 straipsnis. Mokesčio mokėtojai ^s-afb0d438813f33ac47d76f4e
 
 
-1. Mokestį moka nekilnojamojo turto savininkai – fiziniai, juridiniai asmenys, išskyrus šio straipsnio 2, 3 ir [[#^s-4a1647fed167e51fc818503f|4 dalyse]] nurodytus atvejus. ^s-cb24a770e2683306ce68ebe4
+1. Mokestį moka nekilnojamojo turto savininkai – fiziniai, juridiniai asmenys, išskyrus šio straipsnio [[#^s-eb6c70fe5d682c17a8b7cce0|2]], [[#^s-04c83a090eeba48809b73179|3]] ir [[#^s-4a1647fed167e51fc818503f|4]] dalyse nurodytus atvejus. ^s-cb24a770e2683306ce68ebe4
 
 
 2. Mokestį už įsigyjamą nekilnojamąjį turtą moka šį turtą įsigyjantis fizinis ar juridinis asmuo, jeigu duomenys apie atitinkamą sandorį yra įrašyti Nekilnojamojo turto registro informacinėje sistemoje. ^s-eb6c70fe5d682c17a8b7cce0
@@ -157,10 +157,10 @@ Mokesčio mokestinis laikotarpis yra kalendoriniai metai.
 ### 6 straipsnis. Mokesčio tarifų dydis bei jo nustatymo kriterijai ir tvarka ^s-3aa703d9ad4c83e21bded4a4
 
 
-1. Mokesčio tarifas yra nuo 0,5 procento iki 3 procentų nekilnojamojo turto mokestinės vertės, išskyrus šio straipsnio 5 ir [[#^s-25903d3cdd2af57a62960d61|6 dalyse]] nustatytus atvejus. ^s-8a42a247fd95f41ef66823d4
+1. Mokesčio tarifas yra nuo 0,5 procento iki 3 procentų nekilnojamojo turto mokestinės vertės, išskyrus šio straipsnio [[#^s-3d7c9e2864fd876917cebb93|5]] ir [[#^s-25903d3cdd2af57a62960d61|6]] dalyse nustatytus atvejus. ^s-8a42a247fd95f41ef66823d4
 
 
-2. Savivaldybės taryba, siekdama, kad nustatytas naujas konkretus mokesčio tarifas galiotų šios savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, naują konkretų mokesčio tarifą turi nustatyti iki einamojo mokestinio laikotarpio liepos 1 dienos. Jeigu, vadovaujantis šio įstatymo [[#^s-09211b1e55826b4247c92dc0|9 straipsnio 4 dalimi]], nuo kito mokestinio laikotarpio mokestis už šio įstatymo [[#^s-d0ede68a09b4c0701ea9fd1d|9 straipsnio 2 dalies]] 1 ir 2 punktuose nurodytą nekilnojamąjį turtą bus skaičiuojamas taikant naujai atlikto masinio nekilnojamojo turto vertinimo metu nustatytą vertę, kitą mokestinį laikotarpį galiosiantį naują konkretų mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos. Jeigu savivaldybės taryba per šioje dalyje nurodytus terminus nenustato naujų konkrečių mokesčio tarifų, kitą mokestinį laikotarpį galioja paskutiniai nustatyti konkretūs mokesčio tarifai, o jeigu savivaldybės taryba kito mokestinio laikotarpio konkrečius mokesčio tarifus nustato arba pakeičia po šioje dalyje nurodytų terminų, nustatyti arba pakeisti konkretūs mokesčio tarifai savivaldybės teritorijoje taikomi dar kitą mokestinį laikotarpį po ateinančio mokestinio laikotarpio. ^s-e3eca78477fcb9db146fceca
+2. Savivaldybės taryba, siekdama, kad nustatytas naujas konkretus mokesčio tarifas galiotų šios savivaldybės teritorijoje nuo kito mokestinio laikotarpio pradžios, naują konkretų mokesčio tarifą turi nustatyti iki einamojo mokestinio laikotarpio liepos 1 dienos. Jeigu, vadovaujantis šio įstatymo [[#^s-09211b1e55826b4247c92dc0|9 straipsnio 4 dalimi]], nuo kito mokestinio laikotarpio mokestis už šio įstatymo [[#^s-d0ede68a09b4c0701ea9fd1d|9 straipsnio 2 dalies]] [[#^s-be46bd6ecf24e6c20e734543|1]] ir [[#^s-6d98cc3ccbf28097ae3acd17|2]] punktuose nurodytą nekilnojamąjį turtą bus skaičiuojamas taikant naujai atlikto masinio nekilnojamojo turto vertinimo metu nustatytą vertę, kitą mokestinį laikotarpį galiosiantį naują konkretų mokesčio tarifą savivaldybės taryba gali nustatyti iki einamojo mokestinio laikotarpio gruodžio 1 dienos. Jeigu savivaldybės taryba per šioje dalyje nurodytus terminus nenustato naujų konkrečių mokesčio tarifų, kitą mokestinį laikotarpį galioja paskutiniai nustatyti konkretūs mokesčio tarifai, o jeigu savivaldybės taryba kito mokestinio laikotarpio konkrečius mokesčio tarifus nustato arba pakeičia po šioje dalyje nurodytų terminų, nustatyti arba pakeisti konkretūs mokesčio tarifai savivaldybės teritorijoje taikomi dar kitą mokestinį laikotarpį po ateinančio mokestinio laikotarpio. ^s-e3eca78477fcb9db146fceca
 
 
 3. Savivaldybės taryba [[#^s-e3eca78477fcb9db146fceca|šio straipsnio 2 dalyje]] nustatyta tvarka turi teisę nustatyti ir kelis konkrečius mokesčio tarifus, kurie diferencijuojami atsižvelgiant į vieną arba kelis iš šių kriterijų: ^s-028b9137c65bec4e4984e595
@@ -324,10 +324,10 @@ NEKILNOJAMOJO TURTO MOKESTINĖ VERTĖ IR NEKILNOJAMOJO TURTO VERTINIMAS
 1. Nekilnojamojo turto mokestinė vertė yra nekilnojamojo turto vidutinė rinkos vertė: ^s-5f94c3ad9b17a8ed7d5c68be
 
 
-1) šio įstatymo [[#^s-d0ede68a09b4c0701ea9fd1d|9 straipsnio 2 dalies]] 1 ir [[#^s-815e14a2c3b6b14e6c9c85b4|2 punktuose]] nurodyto nekilnojamojo turto – nustatyta pagal vėliausius Vyriausybės nustatyta tvarka patvirtintus masinio vertinimo dokumentus; ^s-3523bf184a936fe83947c52d
+1) šio įstatymo [[#^s-d0ede68a09b4c0701ea9fd1d|9 straipsnio 2 dalies]] [[#^s-be46bd6ecf24e6c20e734543|1]] ir [[#^s-6d98cc3ccbf28097ae3acd17|2]] punktuose nurodyto nekilnojamojo turto – nustatyta pagal vėliausius Vyriausybės nustatyta tvarka patvirtintus masinio vertinimo dokumentus; ^s-3523bf184a936fe83947c52d
 
 
-2) šio įstatymo [[#^s-d0ede68a09b4c0701ea9fd1d|9 straipsnio 2 dalies]] 3, 4 ir 5 punktuose nurodyto nekilnojamojo turto – nustatyta ne anksčiau kaip prieš 3 metus. ^s-815e14a2c3b6b14e6c9c85b4
+2) šio įstatymo [[#^s-d0ede68a09b4c0701ea9fd1d|9 straipsnio 2 dalies]] [[#^s-2d7697d428b7d3c517d8177b|3]], [[#^s-a2cd0173d692691d1ea10666|4]] ir [[#^s-084eb93c3c96f642ac0d69d5|5]] punktuose nurodyto nekilnojamojo turto – nustatyta ne anksčiau kaip prieš 3 metus. ^s-815e14a2c3b6b14e6c9c85b4
 
 
 2. Nekilnojamojo turto mokestine verte gali būti laikoma nekilnojamojo turto vertė, nustatyta atlikus individualųjį vertinimą, jeigu: ^s-5b6613bdbc676f1e383abbb7
@@ -342,7 +342,7 @@ NEKILNOJAMOJO TURTO MOKESTINĖ VERTĖ IR NEKILNOJAMOJO TURTO VERTINIMAS
 3) individualusis vertinimas atitinka Vyriausybės nustatytus reikalavimus. ^s-1da6a17156d37ee9c71c629c
 
 
-3. Mokesčio mokėtojo (šio įstatymo [[#^s-04c83a090eeba48809b73179|3 straipsnio 3 dalyje]] nurodytais atvejais – nekilnojamojo turto savininko) prašymas nekilnojamojo turto mokestine verte laikyti nekilnojamojo turto vertę, nustatytą atlikus individualųjį vertinimą, kartu su individualiojo vertinimo ataskaita (toliau – prašymas) pateikiamas masinio vertinimo įmonei ir nagrinėjamas šio įstatymo [[#^s-5d0da10639e410eab0c8a577|10 straipsnio 2 dalyje]] nustatyta tvarka. Jeigu prašymas tenkinamas, individualiojo vertinimo metu nustatyta vertė šio nekilnojamojo turto mokestine verte laikoma nuo to mokestinio laikotarpio, kurį pateiktas prašymas, pradžios tol, kol masinio vertinimo įmonė šio įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka nustato (patvirtina) naują šio turto mokestinę vertę, o šio įstatymo [[#^s-d0ede68a09b4c0701ea9fd1d|9 straipsnio 2 dalies]] 3, 4 ir 5 punktuose nurodyto turto atvejais – ne ilgiau negu šio įstatymo [[#^s-09211b1e55826b4247c92dc0|9 straipsnio 4 dalyje]] nurodytą laikotarpį. ^s-b54739641f59e180f6c15104
+3. Mokesčio mokėtojo (šio įstatymo [[#^s-04c83a090eeba48809b73179|3 straipsnio 3 dalyje]] nurodytais atvejais – nekilnojamojo turto savininko) prašymas nekilnojamojo turto mokestine verte laikyti nekilnojamojo turto vertę, nustatytą atlikus individualųjį vertinimą, kartu su individualiojo vertinimo ataskaita (toliau – prašymas) pateikiamas masinio vertinimo įmonei ir nagrinėjamas šio įstatymo [[#^s-5d0da10639e410eab0c8a577|10 straipsnio 2 dalyje]] nustatyta tvarka. Jeigu prašymas tenkinamas, individualiojo vertinimo metu nustatyta vertė šio nekilnojamojo turto mokestine verte laikoma nuo to mokestinio laikotarpio, kurį pateiktas prašymas, pradžios tol, kol masinio vertinimo įmonė šio įstatymo ir Lietuvos Respublikos Vyriausybės nustatyta tvarka nustato (patvirtina) naują šio turto mokestinę vertę, o šio įstatymo [[#^s-d0ede68a09b4c0701ea9fd1d|9 straipsnio 2 dalies]] [[#^s-2d7697d428b7d3c517d8177b|3]], [[#^s-a2cd0173d692691d1ea10666|4]] ir [[#^s-084eb93c3c96f642ac0d69d5|5]] punktuose nurodyto turto atvejais – ne ilgiau negu šio įstatymo [[#^s-09211b1e55826b4247c92dc0|9 straipsnio 4 dalyje]] nurodytą laikotarpį. ^s-b54739641f59e180f6c15104
 
 
 Straipsnio pakeitimai:
@@ -365,13 +365,13 @@ Nr. XV-345, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11759
 2) vienbučių, dvibučių, daugiabučių, įvairių socialinių grupių, gyvenamosios (butų), mėgėjų sodų, garažų (automobilių garažų, atvirų ar uždarų požeminių, antžeminių automobilių saugyklų, elingų) ir pagalbinio ūkio (namų ūkio pastatų, esančių privačiame namų valdos žemės sklype, ūkininko sodybos žemės ūkio paskirties žemės sklype, sodo sklype ir skirtų ten gyvenančių žmonių būtiniausioms nuolatinėms reikmėms) paskirties nekilnojamasis turtas, išskyrus Lietuvos Respublikos jūrinėje teritorijoje esantį nekilnojamąjį turtą, – lyginamuoju metodu atliekant masinį vertinimą; ^s-6d98cc3ccbf28097ae3acd17
 
 
-3) nekilnojamasis turtas, nurodytas šios dalies 1 ir [[#^s-6d98cc3ccbf28097ae3acd17|2 punktuose]], kai trūksta kadastro duomenų vidutinei rinkos vertei apskaičiuoti masiniu vertinimo būdu, – išlaidų (kaštų) metodu (apskaičiuojant fizinio nusidėvėjimo procentą), taikant vietovės pataisos koeficientą, kuriuo įvertinama nekilnojamojo turto buvimo vietos įtaka, naudojant Nekilnojamojo turto kadastro informacinės sistemos ir Nekilnojamojo turto registro informacinės sistemos duomenis, nekilnojamojo turto atkūrimo kaštų (statybinės vertės) kainynus ir statinių vidutinės naudojimo trukmės normatyvus, atliekant paskesnį vertinimą, išlaidų (kaštų) metodu vertinamo nekilnojamojo turto statybos kaina indeksuojama Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka; ^s-2d7697d428b7d3c517d8177b
+3) nekilnojamasis turtas, nurodytas šios dalies [[#^s-be46bd6ecf24e6c20e734543|1]] ir [[#^s-6d98cc3ccbf28097ae3acd17|2]] punktuose, kai trūksta kadastro duomenų vidutinei rinkos vertei apskaičiuoti masiniu vertinimo būdu, – išlaidų (kaštų) metodu (apskaičiuojant fizinio nusidėvėjimo procentą), taikant vietovės pataisos koeficientą, kuriuo įvertinama nekilnojamojo turto buvimo vietos įtaka, naudojant Nekilnojamojo turto kadastro informacinės sistemos ir Nekilnojamojo turto registro informacinės sistemos duomenis, nekilnojamojo turto atkūrimo kaštų (statybinės vertės) kainynus ir statinių vidutinės naudojimo trukmės normatyvus, atliekant paskesnį vertinimą, išlaidų (kaštų) metodu vertinamo nekilnojamojo turto statybos kaina indeksuojama Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka; ^s-2d7697d428b7d3c517d8177b
 
 
 4) Lietuvos Respublikos jūrinėje teritorijoje esantis nekilnojamasis turtas, Lietuvos Respublikos sausumos teritorijoje esantys inžineriniai statiniai, išskyrus kitos paskirties pogrupio inžinerinius statinius, kurie priskirti I grupės nesudėtingų inžinerinių statinių kategorijai, – išlaidų (kaštų) metodu (apskaičiuojant fizinio nusidėvėjimo procentą), naudojant Nekilnojamojo turto kadastro informacinės sistemos ir Nekilnojamojo turto registro informacinės sistemos duomenis, nekilnojamojo turto atkūrimo kaštų (statybinės vertės) kainynus ir statinių vidutinės naudojimo trukmės normatyvus, atliekant paskesnį vertinimą, išlaidų (kaštų) metodu vertinamo nekilnojamojo turto statybos kaina indeksuojama Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka; ^s-a2cd0173d692691d1ea10666
 
 
-5) Lietuvos Respublikos sausumos teritorijoje esantys kitos paskirties pogrupio inžineriniai statiniai, kurie priskirti I grupės nesudėtingų inžinerinių statinių kategorijai, ir kitas šios dalies 1, 2 ir [[#^s-2d7697d428b7d3c517d8177b|3 punktuose]] nenurodytas nekilnojamasis turtas – išlaidų (kaštų) metodu (apskaičiuojant fizinio nusidėvėjimo procentą), taikant vietovės pataisos koeficientą, kuriuo įvertinama nekilnojamojo turto buvimo vietos įtaka, naudojant Nekilnojamojo turto kadastro informacinės sistemos ir Nekilnojamojo turto registro informacinės sistemos duomenis, nekilnojamojo turto atkūrimo kaštų (statybinės vertės) kainynus ir statinių vidutinės naudojimo trukmės normatyvus, atliekant paskesnį vertinimą, išlaidų (kaštų) metodu vertinamo nekilnojamojo turto statybos kaina indeksuojama Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. ^s-084eb93c3c96f642ac0d69d5
+5) Lietuvos Respublikos sausumos teritorijoje esantys kitos paskirties pogrupio inžineriniai statiniai, kurie priskirti I grupės nesudėtingų inžinerinių statinių kategorijai, ir kitas šios dalies [[#^s-be46bd6ecf24e6c20e734543|1]], [[#^s-6d98cc3ccbf28097ae3acd17|2]] ir [[#^s-2d7697d428b7d3c517d8177b|3]] punktuose nenurodytas nekilnojamasis turtas – išlaidų (kaštų) metodu (apskaičiuojant fizinio nusidėvėjimo procentą), taikant vietovės pataisos koeficientą, kuriuo įvertinama nekilnojamojo turto buvimo vietos įtaka, naudojant Nekilnojamojo turto kadastro informacinės sistemos ir Nekilnojamojo turto registro informacinės sistemos duomenis, nekilnojamojo turto atkūrimo kaštų (statybinės vertės) kainynus ir statinių vidutinės naudojimo trukmės normatyvus, atliekant paskesnį vertinimą, išlaidų (kaštų) metodu vertinamo nekilnojamojo turto statybos kaina indeksuojama Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. ^s-084eb93c3c96f642ac0d69d5
 
 
 3. Masinio vertinimo įmonė nustato, tvirtina ir Teisės aktų registro informacinėje sistemoje ir savo interneto svetainėje paskelbia vietovės pataisos koeficientus pagal nekilnojamojo turto paskirtį ir vietovę. ^s-1d49cbd9a972990c2cc624a1
@@ -442,16 +442,16 @@ Nr. XV-345, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11759
 2. Bendraturčiai mokestį moka proporcingai jiems tenkančiai (jų įsigyjamai) nekilnojamojo turto daliai. ^s-215044d6955446cc0d9039ac
 
 
-3. Juridiniai asmenys moka avansinį mokestį. Kiekvienas avansinis mokestis sudaro 1/4 sumos, apskaičiuotos pagal einamųjų kalendorinių metų sausio 1 dieną juridinio asmens turimo apmokestinamojo nekilnojamojo turto, už kurį pagal šio įstatymo [[#^s-afb0d438813f33ac47d76f4e|3 straipsnio]] 1 ir [[#^s-215044d6955446cc0d9039ac|2 dalių]] nuostatas jis privalo mokėti mokestį, mokestinę vertę taikant šio įstatymo [[#^s-3aa703d9ad4c83e21bded4a4|6 straipsnyje]] nustatytus mokesčio tarifus. Avansiniai mokesčiai sumokami atitinkamai iki einamųjų kalendorinių metų kovo 15 dienos, birželio 15 dienos ir rugsėjo 15 dienos. Jeigu suma, apskaičiuota pagal einamųjų kalendorinių metų sausio 1 dieną juridinio asmens turimo apmokestinamojo nekilnojamojo turto, už kurį pagal šio įstatymo [[#^s-afb0d438813f33ac47d76f4e|3 straipsnio]] 1 ir [[#^s-215044d6955446cc0d9039ac|2 dalių]] nuostatas jis privalo mokėti mokestį, mokestinę vertę taikant šio įstatymo [[#^s-3aa703d9ad4c83e21bded4a4|6 straipsnyje]] nustatytus mokesčio tarifus, neviršija 500 eurų, juridinis asmuo avansinio mokesčio neprivalo mokėti. Jeigu einamaisiais kalendoriniais metais nekilnojamojo turto mokestinė vertė yra didesnė už praėjusiais kalendoriniais metais buvusią mokestinę vertę, avansinis mokestis už tą nekilnojamąjį turtą gali būti skaičiuojamas pagal praėjusiais kalendoriniais metais buvusią nekilnojamojo turto mokestinę vertę. ^s-712c5c3ba825470087612ada
+3. Juridiniai asmenys moka avansinį mokestį. Kiekvienas avansinis mokestis sudaro 1/4 sumos, apskaičiuotos pagal einamųjų kalendorinių metų sausio 1 dieną juridinio asmens turimo apmokestinamojo nekilnojamojo turto, už kurį pagal šio įstatymo [[#^s-afb0d438813f33ac47d76f4e|3 straipsnio]] [[#^s-cb24a770e2683306ce68ebe4|1]] ir [[#^s-eb6c70fe5d682c17a8b7cce0|2]] dalių nuostatas jis privalo mokėti mokestį, mokestinę vertę taikant šio įstatymo [[#^s-3aa703d9ad4c83e21bded4a4|6 straipsnyje]] nustatytus mokesčio tarifus. Avansiniai mokesčiai sumokami atitinkamai iki einamųjų kalendorinių metų kovo 15 dienos, birželio 15 dienos ir rugsėjo 15 dienos. Jeigu suma, apskaičiuota pagal einamųjų kalendorinių metų sausio 1 dieną juridinio asmens turimo apmokestinamojo nekilnojamojo turto, už kurį pagal šio įstatymo [[#^s-afb0d438813f33ac47d76f4e|3 straipsnio]] [[#^s-cb24a770e2683306ce68ebe4|1]] ir [[#^s-eb6c70fe5d682c17a8b7cce0|2]] dalių nuostatas jis privalo mokėti mokestį, mokestinę vertę taikant šio įstatymo [[#^s-3aa703d9ad4c83e21bded4a4|6 straipsnyje]] nustatytus mokesčio tarifus, neviršija 500 eurų, juridinis asmuo avansinio mokesčio neprivalo mokėti. Jeigu einamaisiais kalendoriniais metais nekilnojamojo turto mokestinė vertė yra didesnė už praėjusiais kalendoriniais metais buvusią mokestinę vertę, avansinis mokestis už tą nekilnojamąjį turtą gali būti skaičiuojamas pagal praėjusiais kalendoriniais metais buvusią nekilnojamojo turto mokestinę vertę. ^s-712c5c3ba825470087612ada
 
 
 4. Atitinkamo mokestinio laikotarpio mokestį už fiziniams asmenims nuosavybės teise priklausantį arba jų įsigyjamą nekilnojamąjį turtą apskaičiuoja, mokesčio deklaracijos formą užpildo ir mokesčio mokėtojams pateikia mokesčių administratorius iki kitų kalendorinių metų kovo 1 dienos, išskyrus atvejus, kai mokesčio mokėtojui nekyla prievolė mokėti mokesčio pagal šio įstatymo [[#^s-85a95db2e491a70ed8998539|7 straipsnio 5 dalį]]. Mokesčio mokėtojai juridiniai asmenys atitinkamo mokestinio laikotarpio mokesčio deklaraciją mokesčių administratoriui pateikia iki kitų kalendorinių metų vasario 15 dienos, joje deklaruodami ir einamojo mokestinio laikotarpio pirmų 9 mėnesių avansinį nekilnojamojo turto mokestį. Mokesčio deklaracijos formą, jos pildymo ir pateikimo tvarką nustato centrinis mokesčių administratorius. ^s-98a3bb59b6fcf2883e0e0b56
 
 
-5. Mokesčio mokėtojai juridiniai asmenys mokesčio deklaracijoje mokestį apskaičiuoja pagal nekilnojamojo turto, už kurį pagal šio įstatymo 3 ir [[#^s-04767a4782f80b7312132c89|4 straipsnių]] nuostatas tą mokestinį laikotarpį jie privalo mokėti mokestį ir kuriam netaikomos šio įstatymo [[#^s-965cba73a769894a6695a1db|7 straipsnyje]] nustatytos mokesčio lengvatos, mokestinę vertę taikydami šio įstatymo [[#^s-3aa703d9ad4c83e21bded4a4|6 straipsnyje]] nustatytus tarifus. ^s-be93109e9a1f6810f6da0263
+5. Mokesčio mokėtojai juridiniai asmenys mokesčio deklaracijoje mokestį apskaičiuoja pagal nekilnojamojo turto, už kurį pagal šio įstatymo [[#^s-afb0d438813f33ac47d76f4e|3]] ir [[#^s-04767a4782f80b7312132c89|4]] straipsnių nuostatas tą mokestinį laikotarpį jie privalo mokėti mokestį ir kuriam netaikomos šio įstatymo [[#^s-965cba73a769894a6695a1db|7 straipsnyje]] nustatytos mokesčio lengvatos, mokestinę vertę taikydami šio įstatymo [[#^s-3aa703d9ad4c83e21bded4a4|6 straipsnyje]] nustatytus tarifus. ^s-be93109e9a1f6810f6da0263
 
 
-6. Jeigu nekilnojamasis turtas, už kurį pagal šio įstatymo 3 ir [[#^s-04767a4782f80b7312132c89|4 straipsnių]] nuostatas mokesčio mokėtojas privalo apskaičiuoti mokestį, priklausė jam nuosavybės teise, buvo įsigyjamas arba juridinio asmens buvo perimtas iš fizinio asmens ne visą mokestinį laikotarpį, mokestis apskaičiuojamas proporcingai tai mokestinio laikotarpio daliai (mėnesiais), kurią tas nekilnojamasis turtas priklausė nuosavybės teise, buvo įsigyjamas arba juridinio asmens buvo perimtas iš fizinio asmens, laikantis šių taisyklių: ^s-a8733fe98af49aa5c50a311b
+6. Jeigu nekilnojamasis turtas, už kurį pagal šio įstatymo [[#^s-afb0d438813f33ac47d76f4e|3]] ir [[#^s-04767a4782f80b7312132c89|4]] straipsnių nuostatas mokesčio mokėtojas privalo apskaičiuoti mokestį, priklausė jam nuosavybės teise, buvo įsigyjamas arba juridinio asmens buvo perimtas iš fizinio asmens ne visą mokestinį laikotarpį, mokestis apskaičiuojamas proporcingai tai mokestinio laikotarpio daliai (mėnesiais), kurią tas nekilnojamasis turtas priklausė nuosavybės teise, buvo įsigyjamas arba juridinio asmens buvo perimtas iš fizinio asmens, laikantis šių taisyklių: ^s-a8733fe98af49aa5c50a311b
 
 
 1) juridiniai asmenys mokestį pradeda skaičiuoti nuo mėnesio, einančio po mėnesio, kurį įgijo nuosavybės teisę į nekilnojamąjį turtą, perėmė valdyti įsigyjamą nekilnojamąjį turtą, jiems grąžintos teisės į įsigyjamą nekilnojamąjį turtą arba kurį nekilnojamasis turtas yra jiems perduotas šio įstatymo [[#^s-04c83a090eeba48809b73179|3 straipsnio 3 dalyje]] nurodytu atveju. Mokestis už fiziniams asmenims nuosavybės teise priklausantį arba jų įsigyjamą nekilnojamąjį turtą pradedamas skaičiuoti nuo mėnesio, einančio po mėnesio, kurį buvo įgytos nuosavybės teisės į nekilnojamąjį turtą, perimtas valdyti įsigyjamas nekilnojamasis turtas, o šio įstatymo [[#^s-04c83a090eeba48809b73179|3 straipsnio 3 dalyje]] nurodytu atveju – nuo mėnesio, einančio po mėnesio, kurį juridinis asmuo nekilnojamąjį turtą grąžino; ^s-db061f23248fbc4eef155e4b
@@ -563,7 +563,7 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio pakeit
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1390, 2014-12-09, paskelbta TAR 2014-12-22, i. k. 2014-20429
-Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 6 ir [[#^s-965cba73a769894a6695a1db|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 [[#^s-3aa703d9ad4c83e21bded4a4|6]] ir [[#^s-965cba73a769894a6695a1db|7]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -573,7 +573,7 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 [[#^s-d3a
 13.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT24-N14/2015, 2015-09-22, paskelbta TAR 2015-09-22, i. k. 2015-14100
-Dėl [[#^s-965cba73a769894a6695a1db|Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio]] (2011 m. gruodžio 21 d. redakcija) nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo 7 straipsnio (2011 m. gruodžio 21 d. redakcija) nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/19e63dd0612211e589fccd6fa118e11c)
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -583,27 +583,27 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 [[#^s-d3a
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-430, 2017-06-08, paskelbta TAR 2017-06-19, i. k. 2017-10250
-Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 2 ir [[#^s-3aa703d9ad4c83e21bded4a4|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 [[#^s-4678bd7c540f761a8a1e5392|2]] ir [[#^s-3aa703d9ad4c83e21bded4a4|6]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-815, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20009
-Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 6, 7, 11, 12 ir 14 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 [[#^s-3aa703d9ad4c83e21bded4a4|6]], [[#^s-965cba73a769894a6695a1db|7]], [[#^s-365c48fea93479c0c5397160|11]], [[#^s-d3a1cabbd9498de2550d3a25|12]] ir 14 straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2244, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10373
-Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 2, 3 ir [[#^s-3aa703d9ad4c83e21bded4a4|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 [[#^s-4678bd7c540f761a8a1e5392|2]], [[#^s-afb0d438813f33ac47d76f4e|3]] ir [[#^s-3aa703d9ad4c83e21bded4a4|6]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2653, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21307
-Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 6 ir [[#^s-965cba73a769894a6695a1db|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 [[#^s-3aa703d9ad4c83e21bded4a4|6]] ir [[#^s-965cba73a769894a6695a1db|7]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-725, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25843
-Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 6 ir [[#^s-965cba73a769894a6695a1db|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 [[#^s-3aa703d9ad4c83e21bded4a4|6]] ir [[#^s-965cba73a769894a6695a1db|7]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -613,7 +613,7 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 [[#^s-965
 21.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
-Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/1ce2a330b3f011eb8371ea260d59d64b)
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -623,9 +623,9 @@ Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 pakeitimo
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2577, 2024-04-25, paskelbta TAR 2024-05-02, i. k. 2024-08218
-Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 2, 6, 8, 9, 10 ir [[#^s-365c48fea93479c0c5397160|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 [[#^s-4678bd7c540f761a8a1e5392|2]], [[#^s-3aa703d9ad4c83e21bded4a4|6]], [[#^s-29ecb1bb7502d1316984e5ed|8]], [[#^s-15c95967a46b4927a5ab521f|9]], [[#^s-11774235f0606aad0d929076|10]] ir [[#^s-365c48fea93479c0c5397160|11]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-345, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11759
-Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 2, 6, 7, 8, 9, 10 ir [[#^s-365c48fea93479c0c5397160|11 straipsnių]] pakeitimo [[latest/5efb81d0087d11efbcbfb318996800a8|įstatymo Nr. XIV-2577]] pakeitimo įstatymas
+Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymo Nr. X-233 [[#^s-4678bd7c540f761a8a1e5392|2]], [[#^s-3aa703d9ad4c83e21bded4a4|6]], [[#^s-965cba73a769894a6695a1db|7]], [[#^s-29ecb1bb7502d1316984e5ed|8]], [[#^s-15c95967a46b4927a5ab521f|9]], [[#^s-11774235f0606aad0d929076|10]] ir [[#^s-365c48fea93479c0c5397160|11]] straipsnių pakeitimo [[latest/5efb81d0087d11efbcbfb318996800a8|įstatymo Nr. XIV-2577]] pakeitimo įstatymas

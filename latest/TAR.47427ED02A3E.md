@@ -76,7 +76,7 @@ BENDROSIOS NUOSTATOS
 2. Išmokos vaikams (toliau – išmokos) – periodinės ir vienkartinės piniginės išmokos, skiriamos ir mokamos šio įstatymo nustatytomis sąlygomis ir tvarka šeimose auginamiems vaikams, globojamiems vaikams, nėščioms moterims, taip pat vienkartinė išmoka būstui įsigyti arba įsikurti. ^s-b784ba787d0497cfaf72b97a
 
 
-3. Minimalus gyvenimo lygis (toliau – MGL) – Gyventojų pajamų garantijų įstatymo nustatyta tvarka Vyriausybės patvirtintas minimalus gyvenimo lygio dydis. ^s-8bc7d1535a2220bdaae5838a
+3. Minimalus gyvenimo lygis (toliau – MGL) – [Gyventojų pajamų garantijų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.983975D33B37) nustatyta tvarka Vyriausybės patvirtintas minimalus gyvenimo lygio dydis. ^s-8bc7d1535a2220bdaae5838a
 
 
 4. Nuolat Lietuvos Respublikoje gyvenantys asmenys – Lietuvos Respublikos piliečiai, kurių duomenys apie gyvenamąją vietą Lietuvos Respublikoje, o neturinčių gyvenamosios vietos – apie savivaldybę, kurioje gyvena, yra įrašyti į Lietuvos Respublikos gyventojų registrą, arba nuolat Lietuvos Respublikoje gyvenantys užsieniečiai bei asmenys be pilietybės. ^s-9613e073fe938430fdb56fd2

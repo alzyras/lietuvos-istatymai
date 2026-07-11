@@ -85,7 +85,7 @@ Papildyti 11 straipsnį trečiąja dalimi:
 ### 4 straipsnis. 15 straipsnio 1 ir 4 punktų pakeitimas ^s-86e81d352f74e282fb54caf8
 
 
-Pakeisti 15 straipsnio 1 ir [[#^s-db37bfa34a915dcbe711eac4|4 punktus]] ir visą straipsnį išdėstyti taip:
+Pakeisti 15 straipsnio 1 ir 4 punktus ir visą straipsnį išdėstyti taip:
 
 
 „15 straipsnis. Bendrovės pagrindinio kapitalo padidinimas

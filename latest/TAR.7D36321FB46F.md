@@ -136,7 +136,7 @@ Pakeisti [[#^s-998f5cfc8fb001e792ba45dd|8 straipsnį]] ir jį išdėstyti taip:
 6) išleidžia monetas, laikydamasis Europos Bendrijos steigimo sutarties reikalavimų, ir vykdo kitą su tuo susijusią veiklą. ^s-9de2d1a794d6d682a35fc027
 
 
-3. Lietuvos bankas vykdo veiklą, reikalingą šio straipsnio 1 ir [[#^s-12a7f043e78c2e0d6f1ec942|2 dalyse]] numatytoms funkcijoms įgyvendinti ir tam reikalingai infrastruktūrai sukurti bei palaikyti.“ ^s-a03bb6d5286a9f0a6d51a6be
+3. Lietuvos bankas vykdo veiklą, reikalingą šio straipsnio [[#^s-fe1dd8c48c3a37cb074a293a|1]] ir [[#^s-12a7f043e78c2e0d6f1ec942|2]] dalyse numatytoms funkcijoms įgyvendinti ir tam reikalingai infrastruktūrai sukurti bei palaikyti.“ ^s-a03bb6d5286a9f0a6d51a6be
 
 
 
@@ -484,7 +484,7 @@ Pakeisti 54 straipsnį ir jį išdėstyti taip:
 1. Valstybės ir savivaldybių institucijos ir ūkio subjektai privalo teikti Lietuvos bankui informaciją, reikalingą jo funkcijoms atlikti. ^s-ff78c80bdb2f36e3b5901993
 
 
-2. Lietuvos bankas gali teikti informaciją Europos centriniam bankui, Europos Sąjungos valstybių centriniams bankams, tarptautinėms pinigų ir finansų institucijoms, valstybės ir savivaldybių institucijoms, jei ji reikalinga jų funkcijoms atlikti ir jei tokios informacijos teikimo nedraudžia šis ar kiti Lietuvos Respublikos įstatymai. Šis draudimas netaikomas, kai reikia teikti statistinę informaciją Europos centriniam bankui – šiuo atveju taikoma 1998 m. lapkričio 23 d. Tarybos reglamento (EB) 2533/98 dėl Europos centrinio banko renkamos statistinės informacijos [[#^s-998f5cfc8fb001e792ba45dd|8 straipsnyje]] nustatyta konfidencialumo tvarka.“ ^s-9cb0be0a2818dd06f1441fc1
+2. Lietuvos bankas gali teikti informaciją Europos centriniam bankui, Europos Sąjungos valstybių centriniams bankams, tarptautinėms pinigų ir finansų institucijoms, valstybės ir savivaldybių institucijoms, jei ji reikalinga jų funkcijoms atlikti ir jei tokios informacijos teikimo nedraudžia šis ar kiti Lietuvos Respublikos įstatymai. Šis draudimas netaikomas, kai reikia teikti statistinę informaciją Europos centriniam bankui – šiuo atveju taikoma 1998 m. lapkričio 23 d. Tarybos [reglamento (EB) 2533/98](https://eur-lex.europa.eu/eli/reg/2533/98/oj) dėl Europos centrinio banko renkamos statistinės informacijos [[#^s-998f5cfc8fb001e792ba45dd|8 straipsnyje]] nustatyta konfidencialumo tvarka.“ ^s-9cb0be0a2818dd06f1441fc1
 
 
 
@@ -527,7 +527,7 @@ Papildyti Įstatymo priedą 7 punktu:
 ### 33 straipsnis. Įstatymo įsigaliojimas ^s-8f318546d5170f60508b4b78
 
 
-Šis įstatymas, išskyrus 6 ir [[#^s-282cce63793690b5a1b0b98d|7 straipsnius]], įsigalioja dieną, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio 2 dalyje nustatytą procedūrą.
+Šis įstatymas, išskyrus [[#^s-661c77852ddb66c1c4f7f451|6]] ir [[#^s-282cce63793690b5a1b0b98d|7]] straipsnius, įsigalioja dieną, nuo kurios Europos Sąjungos Taryba panaikina išlygą dėl Lietuvos Respublikos pagal Europos Bendrijos steigimo sutarties 122 straipsnio 2 dalyje nustatytą procedūrą.
 
 
 

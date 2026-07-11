@@ -108,7 +108,7 @@ STATUSAS IR VEIKLOS PAGRINDAI
 2. Lietuvos Raudonojo Kryžiaus draugijos narystė, valdymo organų sudarymas ir jų kompetencija, struktūriniai padaliniai, valdymo organų ir vadovų atskaitomybės aukščiausiajam valdymo organui ir jų veiklos kontrolės tvarka, lėšų bei pajamų naudojimo kontrolės tvarka yra apibrėžiami Lietuvos Raudonojo Kryžiaus draugijos įstatuose. ^s-565b735cad3a39dc0efb17a5
 
 
-3. Lietuvos Raudonojo Kryžiaus draugijai taikomas Visuomeninių organizacijų įstatymas, jeigu šis įstatymas nenustato ko kita. ^s-c630aef95a9a017e3a023847
+3. Lietuvos Raudonojo Kryžiaus draugijai taikomas [Visuomeninių organizacijų įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.D65FBAE9B378), jeigu šis įstatymas nenustato ko kita. ^s-c630aef95a9a017e3a023847
 
 
 
@@ -491,7 +491,7 @@ BAIGIAMOSIOS NUOSTATOS
 2. Sveikatos priežiūros įstaigos, kurios šio įstatymo įsigaliojimo dieną naudoja pavadinimą „Raudonasis Kryžius“, per 5 metus nuo šio įstatymo įsigaliojimo dienos turi jo atsisakyti arba pakeisti kitu pavadinimu. ^s-992cadda559408e2330634b4
 
 
-3. Šio straipsnio 1 ir [[#^s-992cadda559408e2330634b4|2 dalyse]] nurodytoms sveikatos priežiūros įstaigoms šiose straipsnio dalyse nurodytu laikotarpiu netaikoma administracinė ir baudžiamoji atsakomybė už Raudonojo Kryžiaus emblemos ir pavadinimo „Raudonasis Kryžius“ naudojimą. ^s-bbd9bc7d982c45cf223e7ed0
+3. Šio straipsnio [[#^s-3d273d1867c37053e72bc02e|1]] ir [[#^s-992cadda559408e2330634b4|2]] dalyse nurodytoms sveikatos priežiūros įstaigoms šiose straipsnio dalyse nurodytu laikotarpiu netaikoma administracinė ir baudžiamoji atsakomybė už Raudonojo Kryžiaus emblemos ir pavadinimo „Raudonasis Kryžius“ naudojimą. ^s-bbd9bc7d982c45cf223e7ed0
 
 
 

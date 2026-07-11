@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos įmonių įstatymo, jį keitusių bei su juo 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.8E13ADB62DC6|Dėl Lietuvos Respublikos administracinių teisės pažeidimų kodekso, Įmonių įstatymo ir Alkoholio kontrolės įstatymo pakeitimo]] - 2 citatos - „Dėl Lietuvos Respublikos administracinių teisės pažeidimų kodekso, Įmonių įstatymo ir Alkoholio kontrolės įstatymo pakeitimo“
-- [[latest/TAR.2E6C3B043493|Dėl Lietuvos Respublikos įmonių įstatymo ir Lietuvos Respublikos įmonių rejestro įstatymo papildymo]] - 2 citatos - „Dėl Lietuvos Respublikos įmonių įstatymo ir Lietuvos Respublikos įmonių rejestro įstatymo papildymo“
+- [[latest/TAR.8E13ADB62DC6|Dėl Lietuvos Respublikos administracinių teisės pažeidimų kodekso, Įmonių įstatymo ir Alkoholio kontrolės įstatymo pakeitimo]] - „Dėl Lietuvos Respublikos administracinių teisės pažeidimų kodekso, Įmonių įstatymo ir Alkoholio kontrolės įstatymo pakeitimo“
+- [[latest/TAR.2E6C3B043493|Dėl Lietuvos Respublikos įmonių įstatymo ir Lietuvos Respublikos įmonių rejestro įstatymo papildymo]] - „Dėl Lietuvos Respublikos įmonių įstatymo ir Lietuvos Respublikos įmonių rejestro įstatymo papildymo“
 
 ## Šį įstatymą cituoja
 

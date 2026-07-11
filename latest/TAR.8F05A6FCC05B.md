@@ -113,7 +113,7 @@ PROKURATŪROS STATUSAS, SANDARA, FUNKCIJOS IR VEIKLOS PAGRINDAI
 ### 3 straipsnis. Prokuratūros veiklos teisiniai pagrindai ^s-9888a700f7aeb009cd5d9ddc
 
 
-1. Prokuratūra savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo Įstatymu, kitais teisės aktais bei Lietuvos Respublikos tarptautinėmis sutartimis (toliau – tarptautinės sutartys). ^s-c99858e315b1b70a7e341f1f
+1. Prokuratūra savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo Įstatymu, kitais teisės aktais bei Lietuvos Respublikos tarptautinėmis sutartimis (toliau – tarptautinės sutartys). ^s-c99858e315b1b70a7e341f1f
 
 
 2. Prokuroras sprendimus priima savarankiškai ir vienvaldiškai, vadovaudamasis įstatymais ir protingumo principu, gerbdamas asmens teises ir laisves, laikydamasis nekaltumo prezumpcijos, taip pat principo, kad įstatymui, valstybės institucijoms ir pareigūnams visi asmenys yra lygūs nepaisant asmens socialinės ir šeiminės padėties, pareigų, užsiėmimo, įsitikinimų, pažiūrų, kilmės, rasės, lyties, tautybės, kalbos, tikėjimo ir išsilavinimo. ^s-c448c774676dcba8cd5ce7ff
@@ -125,7 +125,7 @@ PROKURATŪROS STATUSAS, SANDARA, FUNKCIJOS IR VEIKLOS PAGRINDAI
 4. Prokuroro veiksmai ir sprendimai įstatymų nustatyta tvarka gali būti skundžiami aukštesniajam prokurorui ir teismui. ^s-af991f788301989605bfec38
 
 
-5. Dėl neteisėtų prokurorų veiksmų ar neveikimo asmenims atsiradusi žala atlyginama Žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo įstatymo arba Civilinio kodekso ir Civilinio proceso kodekso nustatyta tvarka. ^s-a70fa20db71276234d64a89f
+5. Dėl neteisėtų prokurorų veiksmų ar neveikimo asmenims atsiradusi žala atlyginama Žalos, atsiradusios dėl valdžios institucijų neteisėtų veiksmų, atlyginimo įstatymo arba Civilinio kodekso ir [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-a70fa20db71276234d64a89f
 
 
 
@@ -357,7 +357,7 @@ PROKURORŲ STATUSAS IR KOMPETENCIJA
 ### 11 straipsnis. Prokurorų statusas ir nepriklausomumas ^s-a8789af231a0bb4dafc3d9ab
 
 
-1. Prokuroras yra asmuo, paskirtas į prokuroro pareigas šio Įstatymo nustatyta tvarka. Prokuroro – valstybės pareigūno statusą nustato Lietuvos Respublikos Konstitucija, įstatymai ir tarptautinės sutartys. ^s-d218cca1c79f0c2d0f24b82d
+1. Prokuroras yra asmuo, paskirtas į prokuroro pareigas šio Įstatymo nustatyta tvarka. Prokuroro – valstybės pareigūno statusą nustato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymai ir tarptautinės sutartys. ^s-d218cca1c79f0c2d0f24b82d
 
 
 2. Atlikdamas savo funkcijas, prokuroras yra nepriklausomas ir klauso tik Lietuvos Respublikos Konstitucijos ir įstatymų. ^s-24ec0b0c33ee47b6064b8a22
@@ -391,7 +391,7 @@ PROKURORŲ STATUSAS IR KOMPETENCIJA
 4. Įeiti į prokuroro gyvenamąsias, tarnybines ir kitas patalpas, daryti jose arba prokuroro asmeniniame ar tarnybiniame automobilyje arba kitoje asmeninėje transporto priemonėje apžiūrą, kratą ar poėmį, taip pat atlikti prokuroro asmens apžiūrą ar kratą, jam priklausančių daiktų ir dokumentų apžiūrą ar poėmį galima tik prokuroro sutikimu arba jei generalinis prokuroras pradėjo ikiteisminį tyrimą dėl prokuroro padarytos nusikalstamos veikos. Ši nuostata netaikoma, kai prokuroras yra užkluptas darantis nusikalstamą veiką ar tuoj po jos. ^s-d0b26db510c17cb5856e6ce3
 
 
-5. Prokurorui negali būti Administracinių teisės pažeidimų kodekso nustatyta tvarka taikomas administracinis sulaikymas, asmens apžiūra, daiktų patikrinimas, daiktų bei dokumentų poėmis, prokuroras negali būti patrauktas administracinėn atsakomybėn. Jei prokuroro padaryta veika turi administracinio teisės pažeidimo požymių, dokumentai perduodami generaliniam prokurorui, kad šis atliktų tarnybinį patikrinimą dėl tarnybinio nusižengimo ar prokuroro vardą žeminančio poelgio. ^s-33582a639ac55f7d70933800
+5. Prokurorui negali būti [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka taikomas administracinis sulaikymas, asmens apžiūra, daiktų patikrinimas, daiktų bei dokumentų poėmis, prokuroras negali būti patrauktas administracinėn atsakomybėn. Jei prokuroro padaryta veika turi administracinio teisės pažeidimo požymių, dokumentai perduodami generaliniam prokurorui, kad šis atliktų tarnybinį patikrinimą dėl tarnybinio nusižengimo ar prokuroro vardą žeminančio poelgio. ^s-33582a639ac55f7d70933800
 
 
 6. Prokuroras, sulaikytas be prokuroro pažymėjimo, turi būti nedelsiant paleistas, kai nustatomas jo statusas. Ši nuostata netaikoma, kai prokuroras yra užkluptas darantis nusikalstamą veiką ar tuoj po jos arba kai dėl jo padarytos nusikalstamos veikos yra pradėtas ikiteisminis tyrimas. ^s-eb7a9b45e3f6ddb3f5b64e2a
@@ -647,7 +647,7 @@ PROKURATŪROS VADOVAI
 2. Generalinis prokuroras Generalinės prokuratūros, teritorinių prokuratūrų, generalinio prokuroro ir jo pavaduotojų, prokurorų kompetenciją nustato įsakymu patvirtindamas Kompetencijos nuostatus. ^s-6d8e79852ee42c03d39b4597
 
 
-3. Generaliniam prokurorui ir jo pavaduotojams netaikomos šio Įstatymo [[#^s-b879ab11ea5febc2b5133191|25 straipsnio 1 dalies]], [[#^s-43efd27b151814118f8498c2|26 straipsnio]], [[#^s-db2cbe17bea22e3a983b5068|30 straipsnio 3 dalies]], 31–34, 36, [[#^s-44ff6245e1cb9f0f96b96f59|37 straipsnių]], [[#^s-01f56e8728bd6150525135af|39 straipsnio 3 dalies]], 40–[[#^s-b4a05b1f512c6254fb349fab|44 straipsnių]], [[#^s-a1537cc1d676e71f9168ddbd|45 straipsnio]] 1–6 dalių, 46, [[#^s-05ccf1dd86108ed01f54f399|48 straipsnių]] ir [[#^s-2d77a990e0e98faf9da531cb|53 straipsnio 2 dalies]] nuostatos. ^s-3160e7b1b372b5e63b41c0da
+3. Generaliniam prokurorui ir jo pavaduotojams netaikomos šio Įstatymo [[#^s-b879ab11ea5febc2b5133191|25 straipsnio 1 dalies]], [[#^s-43efd27b151814118f8498c2|26 straipsnio]], [[#^s-db2cbe17bea22e3a983b5068|30 straipsnio 3 dalies]], [[#^s-6672389f1922e3eff42c476f|31]]–[[#^s-946a9d38d959de24a9211df9|34]], [[#^s-d6daa68b9eeb6d370d1cf7e0|36]], [[#^s-44ff6245e1cb9f0f96b96f59|37]] straipsnių, [[#^s-01f56e8728bd6150525135af|39 straipsnio 3 dalies]], [[#^s-43b0f78f5df19c934eb7bdf4|40]]–[[#^s-b4a05b1f512c6254fb349fab|44]] straipsnių, [[#^s-a1537cc1d676e71f9168ddbd|45 straipsnio]] [[#^s-2805c6c9a3f920856db6b6f0|1]]–[[#^s-b4b8e15d9ad00b4f05d20efb|6]] dalių, [[#^s-18f828255e0117a2f5e5f54b|46]], [[#^s-05ccf1dd86108ed01f54f399|48]] straipsnių ir [[#^s-2d77a990e0e98faf9da531cb|53 straipsnio 2 dalies]] nuostatos. ^s-3160e7b1b372b5e63b41c0da
 
 
 
@@ -792,7 +792,7 @@ PRIĖMIMAS Į TARNYBĄ PROKURATŪROJE
 4. Asmens, kuris iki šio Įstatymo įsigaliojimo buvo paskirtas į respublikos prokuroro (jo pavaduotojo), miesto, rajono, tarprajoninės, transporto prokuratūros prokuroro (jo pavaduotojo, jo padėjėjo), prokuratūros stažuotojo, prokuratūros tardytojo (jo padėjėjo) pareigas, tarnybos prokuratūroje laikas yra įskaitomas į tarnybos prokuroru stažą. ^s-ca8c6d951c6fe9a375a9d9d2
 
 
-5. Asmens darbo (tarnybos) laikas, numatytas šio straipsnio 2 ir [[#^s-87a2674b660670a85a14741c|3 dalyse]], į tarnybos prokuroru stažą įskaitomas generalinio prokuroro įsakymu remiantis Atrankos komisijos teikimu. ^s-fec463fe210cd98cdd157b5f
+5. Asmens darbo (tarnybos) laikas, numatytas šio straipsnio [[#^s-0a777e2ba63d992051003479|2]] ir [[#^s-87a2674b660670a85a14741c|3]] dalyse, į tarnybos prokuroru stažą įskaitomas generalinio prokuroro įsakymu remiantis Atrankos komisijos teikimu. ^s-fec463fe210cd98cdd157b5f
 
 
 6. Asmuo, nesutikdamas su Atrankos komisijos teikimu, gali jį apskųsti generaliniam prokurorui, o nesutikdamas su generalinio prokuroro įsakymu dėl stažo įskaitymo, – teismui [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-d6c6ee5f1288126540806e91
@@ -868,7 +868,7 @@ PROKURORŲ TARNYBOS YPATUMAI
 5. Atestacijos komisija, savo išvadoje siūlydama atidėti tarnybos vertinimą ir pratęsti stažuotę, gali prokurorui nustatyti individualią stažuotės programą. ^s-5233c7885bcbaf83c33ef20d
 
 
-6. Prokuroro stažuotės laikas įskaitomas į šio Įstatymo [[#^s-bef2249c88f57ec72e07cb81|28 straipsnio]] 2 ir [[#^s-004a49e40104bbbace41f2d8|3 dalyse]] numatytą tarnybos prokuroru stažą. ^s-3cee374809d7a47c21687648
+6. Prokuroro stažuotės laikas įskaitomas į šio Įstatymo [[#^s-bef2249c88f57ec72e07cb81|28 straipsnio]] [[#^s-0a777e2ba63d992051003479|2]] ir [[#^s-87a2674b660670a85a14741c|3]] dalyse numatytą tarnybos prokuroru stažą. ^s-3cee374809d7a47c21687648
 
 
 
@@ -884,7 +884,7 @@ PROKURORŲ TARNYBOS YPATUMAI
 3. Mokytis į užsienį prokuratūros siuntimu išvykusiam prokurorui paliekamos jo eitos pareigos ir ne ilgiau kaip tris mėnesius mokamas jo vidutinis darbo užmokestis. ^s-87d9da02262caadfd358edd4
 
 
-4. Prokuratūros siuntimu mokęsis ilgiau kaip tris mėnesius ir per vienerius metus nuo mokymosi pabaigos atleistas iš tarnybos prokuratūroje pagal šio Įstatymo [[#^s-3c429d528a0137a590cfd18b|44 straipsnio 1 dalies]] 1–6, 9 ir 10 punktų ir [[#^s-c4ec276fbb7c5a7dec9aad2a|2 dalies]] 1–4, 6 ir 7 punktų nuostatas prokuroras privalo atlyginti dėl jo mokymosi prokuratūros turėtas išlaidas už paskutinius dvejus metus. ^s-c13d56b98affd654ee31af5d
+4. Prokuratūros siuntimu mokęsis ilgiau kaip tris mėnesius ir per vienerius metus nuo mokymosi pabaigos atleistas iš tarnybos prokuratūroje pagal šio Įstatymo [[#^s-3c429d528a0137a590cfd18b|44 straipsnio 1 dalies]] [[#^s-e39b86add9569dbdbb4207f4|1]]–[[#^s-94760baf0e50a6e599a28254|6]], [[#^s-e77b51b66475d3cff15e4878|9]] ir [[#^s-407bfc19ac44e59053f0e56b|10]] punktų ir [[#^s-c4ec276fbb7c5a7dec9aad2a|2 dalies]] [[#^s-e39b86add9569dbdbb4207f4|1]]–[[#^s-037d77a5010e905bae5e4c9d|4]], [[#^s-94760baf0e50a6e599a28254|6]] ir [[#^s-f3cf3b3f3135fe6d208529ad|7]] punktų nuostatas prokuroras privalo atlyginti dėl jo mokymosi prokuratūros turėtas išlaidas už paskutinius dvejus metus. ^s-c13d56b98affd654ee31af5d
 
 
 5. Prokuratūros išlaidų sąmatoje prokurorų stažuotėms ir kvalifikacijos kėlimui turi būti numatytos lėšos, kurios sudarytų ne mažiau kaip 3 procentus prokurorų darbo užmokesčiui skirtų asignavimų. ^s-7c5380670ecb672bf1e8f7b0
@@ -1306,16 +1306,16 @@ PROKURORO ATLEIDIMAS IŠ TARNYBOS
 1. Prokuroras atleidžiamas iš tarnybos generalinio prokuroro įsakymu šio Įstatymo nustatyta tvarka. ^s-2805c6c9a3f920856db6b6f0
 
 
-2. Prokurorą atleisti iš tarnybos laikino nedarbingumo laikotarpiu ar atostogų metu, išskyrus šio Įstatymo [[#^s-3c429d528a0137a590cfd18b|44 straipsnio 1 dalies]] 1–4, 11 punktuose ir 2 dalies 8 punkte nustatytus atvejus, draudžiama. Jeigu prokuroras atleidžiamas iš tarnybos pažeidžiant šią nuostatą, jo atleidimo diena laikoma kita po atostogų ar laikino nedarbingumo pasibaigimo tarnybos diena. ^s-3e3d4ab5752f5477e1f7f1e5
+2. Prokurorą atleisti iš tarnybos laikino nedarbingumo laikotarpiu ar atostogų metu, išskyrus šio Įstatymo [[#^s-3c429d528a0137a590cfd18b|44 straipsnio 1 dalies]] [[#^s-e39b86add9569dbdbb4207f4|1]]–[[#^s-037d77a5010e905bae5e4c9d|4]], [[#^s-a06910b53792f9b2dac25e1e|11]] punktuose ir 2 dalies 8 punkte nustatytus atvejus, draudžiama. Jeigu prokuroras atleidžiamas iš tarnybos pažeidžiant šią nuostatą, jo atleidimo diena laikoma kita po atostogų ar laikino nedarbingumo pasibaigimo tarnybos diena. ^s-3e3d4ab5752f5477e1f7f1e5
 
 
-3. Nėščią prokurorę atleisti iš tarnybos, išskyrus šio Įstatymo [[#^s-3c429d528a0137a590cfd18b|44 straipsnio 1 dalies]] 1–6, 9–12 punktuose ir [[#^s-3e3d4ab5752f5477e1f7f1e5|2 dalies]] 1, 3, 6, 8 punktuose nustatytus atvejus, draudžiama. ^s-a932e7e3333238d2e715d53d
+3. Nėščią prokurorę atleisti iš tarnybos, išskyrus šio Įstatymo [[#^s-3c429d528a0137a590cfd18b|44 straipsnio 1 dalies]] [[#^s-e39b86add9569dbdbb4207f4|1]]–[[#^s-94760baf0e50a6e599a28254|6]], [[#^s-e77b51b66475d3cff15e4878|9]]–[[#^s-489def97b3d3576d21cf9530|12]] punktuose ir [[#^s-3e3d4ab5752f5477e1f7f1e5|2 dalies]] [[#^s-e39b86add9569dbdbb4207f4|1]], [[#^s-0eda57e1cc4bcaf41587f719|3]], [[#^s-94760baf0e50a6e599a28254|6]], [[#^s-cc98edf72cc0135d8a713474|8]] punktuose nustatytus atvejus, draudžiama. ^s-a932e7e3333238d2e715d53d
 
 
-4. Prokurorą, kuris vienas augina vaiką iki trejų metų, atleisti iš tarnybos, išskyrus šio Įstatymo [[#^s-3c429d528a0137a590cfd18b|44 straipsnio 1 dalies]] 1–6, 8–12 punktuose ir [[#^s-3e3d4ab5752f5477e1f7f1e5|2 dalies]] 1–6, 8 punktuose nustatytus atvejus, draudžiama. ^s-3de1bddbdd8175c5463a109c
+4. Prokurorą, kuris vienas augina vaiką iki trejų metų, atleisti iš tarnybos, išskyrus šio Įstatymo [[#^s-3c429d528a0137a590cfd18b|44 straipsnio 1 dalies]] [[#^s-e39b86add9569dbdbb4207f4|1]]–[[#^s-94760baf0e50a6e599a28254|6]], [[#^s-cc98edf72cc0135d8a713474|8]]–[[#^s-489def97b3d3576d21cf9530|12]] punktuose ir [[#^s-3e3d4ab5752f5477e1f7f1e5|2 dalies]] [[#^s-e39b86add9569dbdbb4207f4|1]]–[[#^s-94760baf0e50a6e599a28254|6]], [[#^s-cc98edf72cc0135d8a713474|8]] punktuose nustatytus atvejus, draudžiama. ^s-3de1bddbdd8175c5463a109c
 
 
-5. Atleisti prokurorą iš tarnybos šio Įstatymo [[#^s-3c429d528a0137a590cfd18b|44 straipsnio 1 dalies]] 7, 12 punktuose ir 2 dalies 8 punkte nustatytais atvejais galima tik apie tai įspėjus raštu prieš du mėnesius. Prokuroras, kuris vienas augina vaiką iki 14 metų, taip pat prokuroras, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją atsiradimo liko ne daugiau kaip penkeri metai arba kuris yra invalidas, apie atleidimą iš tarnybos turi būti įspėjamas prieš keturis mėnesius. Jei prokuroras atleidžiamas iš tarnybos nesibaigus įspėjimo laikui, jo atleidimo data nukeliama iki įspėjimo termino pabaigos. ^s-f6ce00855e6e8340dc80c558
+5. Atleisti prokurorą iš tarnybos šio Įstatymo [[#^s-3c429d528a0137a590cfd18b|44 straipsnio 1 dalies]] [[#^s-f3cf3b3f3135fe6d208529ad|7]], [[#^s-489def97b3d3576d21cf9530|12]] punktuose ir 2 dalies 8 punkte nustatytais atvejais galima tik apie tai įspėjus raštu prieš du mėnesius. Prokuroras, kuris vienas augina vaiką iki 14 metų, taip pat prokuroras, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją atsiradimo liko ne daugiau kaip penkeri metai arba kuris yra invalidas, apie atleidimą iš tarnybos turi būti įspėjamas prieš keturis mėnesius. Jei prokuroras atleidžiamas iš tarnybos nesibaigus įspėjimo laikui, jo atleidimo data nukeliama iki įspėjimo termino pabaigos. ^s-f6ce00855e6e8340dc80c558
 
 
 6. Mirę, įstatymų nustatyta tvarka paskelbti mirusiais ar pripažinti nežinia kur esančiais prokurorai generalinio prokuroro įsakymu išbraukiami iš Prokurorų pareigybių sąrašo. ^s-b4b8e15d9ad00b4f05d20efb
@@ -1343,7 +1343,7 @@ PROKURORO ATLEIDIMAS IŠ TARNYBOS
 ### 47 straipsnis. Išeitinė išmoka ^s-a13a39be9614d5d85920f607
 
 
-1. Atleidžiant prokurorą iš tarnybos šio Įstatymo [[#^s-3c429d528a0137a590cfd18b|44 straipsnio 1 dalies]] 7 ir 8 punktuose ir 2 dalies 5 punkte nustatytais atvejais, o generalinį prokurorą (jo pavaduotoją) – šio Įstatymo [[#^s-6e9ae8346f0bb98ce144a810|22 straipsnio 5 dalies 3 punkte]] nustatytu atveju, jam sumokama dviejų mėnesių vidutinio jo darbo užmokesčio dydžio išeitinė išmoka. ^s-8ae627328610aa65ea44f667
+1. Atleidžiant prokurorą iš tarnybos šio Įstatymo [[#^s-3c429d528a0137a590cfd18b|44 straipsnio 1 dalies]] [[#^s-f3cf3b3f3135fe6d208529ad|7]] ir [[#^s-cc98edf72cc0135d8a713474|8]] punktuose ir 2 dalies 5 punkte nustatytais atvejais, o generalinį prokurorą (jo pavaduotoją) – šio Įstatymo [[#^s-6e9ae8346f0bb98ce144a810|22 straipsnio 5 dalies 3 punkte]] nustatytu atveju, jam sumokama dviejų mėnesių vidutinio jo darbo užmokesčio dydžio išeitinė išmoka. ^s-8ae627328610aa65ea44f667
 
 
 2. [[#^s-8ae627328610aa65ea44f667|Šio straipsnio 1 dalyje]] nustatyta išeitinė išmoka atleidžiamam prokurorui, turinčiam daugiau kaip penkerių metų tarnybos prokuroru stažą, didinama pusantro karto, turinčiam daugiau kaip dešimties metų tarnybos prokuroru stažą – du kartus, turinčiam daugiau kaip penkiolika metų tarnybos prokuroru stažą – pustrečio karto, turinčiam daugiau kaip dvidešimties metų tarnybos prokuroru stažą – tris kartus. ^s-ed5ab1eccb002fd576e93a91
@@ -1362,7 +1362,7 @@ PROKURORO ATLEIDIMAS IŠ TARNYBOS
 3. Jei teismas prokuroro atleidimą iš tarnybos pripažino neteisėtu ir nustatė, kad į eitas pareigas jis negali būti grąžintas dėl prokuratūros darbo organizavimo pakeitimų arba dėl kitų svarbių priežasčių, prokurorui priteisiama šio Įstatymo [[#^s-a13a39be9614d5d85920f607|47 straipsnyje]] nustatyto dydžio išeitinė išmoka ir vidutinis mėnesinis darbo užmokestis už priverstinės pravaikštos laiką nuo neteisėto atleidimo iš tarnybos dienos iki teismo sprendimo įsigaliojimo dienos. Šiuo atveju laikoma, kad prokuroras iš tarnybos atleistas pagal šio Įstatymo [[#^s-e39b86add9569dbdbb4207f4|44 straipsnio 1 dalies 1 punktą]] kaip atsistatydinęs savo prašymu nuo teismo sprendimo įsigaliojimo dienos. ^s-e33c0f811f0a0e9d37d32c3c
 
 
-4. Generalinis prokuroras, remdamasis šio straipsnio 2 ir [[#^s-e33c0f811f0a0e9d37d32c3c|3 dalyse]] nurodytais teismo sprendimais, privalo panaikinti neteisėtą įsakymą dėl prokuroro atleidimo iš tarnybos ir šio įsakymo pagrindus. ^s-8021798d062c7981664d118c
+4. Generalinis prokuroras, remdamasis šio straipsnio [[#^s-46b2e959179895d43f6c9ac7|2]] ir [[#^s-e33c0f811f0a0e9d37d32c3c|3]] dalyse nurodytais teismo sprendimais, privalo panaikinti neteisėtą įsakymą dėl prokuroro atleidimo iš tarnybos ir šio įsakymo pagrindus. ^s-8021798d062c7981664d118c
 
 
 
@@ -1374,7 +1374,7 @@ PROKURORŲ SOCIALINĖS GARANTIJOS
 ### 49 straipsnis. Prokurorų darbo užmokestis ^s-42423dc95937e61fdc1d0cf7
 
 
-Prokurorų darbo užmokestį nustato Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymas.
+Prokurorų darbo užmokestį nustato Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3).
 
 
 

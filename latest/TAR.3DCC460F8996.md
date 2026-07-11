@@ -131,10 +131,10 @@ Vilnius
 1. Jeigu įvertinus visas aplinkybes, tarp jų gerą komercinę praktiką ir perduotų prekių, suteiktų paslaugų ar atliktų darbų pobūdį, sutarties sąlyga dėl mokėjimo datos arba dėl pavėluoto mokėjimo pasekmių kreditoriui yra nesąžininga, kilus ginčui, kreditorius gali įstatymų nustatyta tvarka kreiptis į teismą dėl tokios sutarties sąlygos pripažinimo nesąžininga ir reikalauti atlyginti nuostolius. ^s-813c1e7e508715853b48e4f1
 
 
-2. Nustatant, ar sutarties sąlyga kreditoriui yra nesąžininga, taip pat turi būti atsižvelgta į tai, ar yra objektyvi priežastis skolininkui nevykdyti šio Įstatymo [[#^s-91cb0462e7a7b88ddfd13a2c|3 straipsnio]] 2, 3 ir 4 dalių nuostatų. ^s-37076770085228043e716242
+2. Nustatant, ar sutarties sąlyga kreditoriui yra nesąžininga, taip pat turi būti atsižvelgta į tai, ar yra objektyvi priežastis skolininkui nevykdyti šio Įstatymo [[#^s-91cb0462e7a7b88ddfd13a2c|3 straipsnio]] [[#^s-9740461d985bf1be776591ce|2]], [[#^s-7e0810e461b12975bea74436|3]] ir [[#^s-0b053301eeb9bee1620f6f8d|4]] dalių nuostatų. ^s-37076770085228043e716242
 
 
-3. Jeigu nusprendžiama, kad sutarties sąlyga kreditoriui yra nesąžininga, taikomos šio Įstatymo [[#^s-91cb0462e7a7b88ddfd13a2c|3 straipsnio]] 2, 3 ir 4 dalių nuostatos, taip pat kreditorius turi teisę reikalauti atlyginti nuostolius, išskyrus atvejus, kai teismas nustato kitas sąlygas - kreditoriui teisingas. ^s-a33b1ac95951f9417edf2861
+3. Jeigu nusprendžiama, kad sutarties sąlyga kreditoriui yra nesąžininga, taikomos šio Įstatymo [[#^s-91cb0462e7a7b88ddfd13a2c|3 straipsnio]] [[#^s-9740461d985bf1be776591ce|2]], [[#^s-7e0810e461b12975bea74436|3]] ir [[#^s-0b053301eeb9bee1620f6f8d|4]] dalių nuostatos, taip pat kreditorius turi teisę reikalauti atlyginti nuostolius, išskyrus atvejus, kai teismas nustato kitas sąlygas - kreditoriui teisingas. ^s-a33b1ac95951f9417edf2861
 
 
 

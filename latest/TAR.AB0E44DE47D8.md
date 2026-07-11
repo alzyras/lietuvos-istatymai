@@ -299,7 +299,7 @@ Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
 2. Kompensuojamasis uždarbis apskaičiuojamas dauginant nukentėjusiojo kompensavimo koeficientą (k) (šio įstatymo [[#^s-bd9d0c129fdeb1b71468ca42|2 straipsnio 11 dalis]]) iš 50,43 procento vidutinio šalies darbo užmokesčio (D) (šio įstatymo [[#^s-9ab5e4fc87607898d60ccce1|2 straipsnio 10 dalis]]), galiojusio teisės į vienkartinę netekto dalyvumo kompensaciją atsiradimo mėnesį, t. y. pagal formulę k × 0,5043 × D. ^s-c76fa978d266e86390c11b19
 
 
-3. Jeigu nukentėjusiajam netektas dalyvumas nustatytas neterminuotai, jam išmokama trigubai didesnė vienkartinė netekto dalyvumo kompensacija, negu nurodyta šio straipsnio 1 ir [[#^s-c76fa978d266e86390c11b19|2 dalyse]]. ^s-1ba0af0725a4134fdad61453
+3. Jeigu nukentėjusiajam netektas dalyvumas nustatytas neterminuotai, jam išmokama trigubai didesnė vienkartinė netekto dalyvumo kompensacija, negu nurodyta šio straipsnio [[#^s-7beb53787d33c28d239f32da|1]] ir [[#^s-c76fa978d266e86390c11b19|2]] dalyse. ^s-1ba0af0725a4134fdad61453
 
 
 4. Vienkartinė netekto dalyvumo kompensacija gali būti išmokama lygiomis dalimis, bet ne ilgiau kaip per metus. Nuo neišmokėtos per vienkartinės netekto dalyvumo kompensacijos mokėjimo dalimis laikotarpį sumos skaičiuojami ir mokami delspinigiai [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekso]] nustatyta tvarka ir dydžiais. ^s-314e3fe60f3600809acba9b0
@@ -644,7 +644,7 @@ Nr. IX-1591, 2003-05-29, Žin., 2003, Nr. 57-2536 (2003-06-13)
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
-[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]], ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, [[latest/TAR.94F6B680E8B8|SVEIKATOS DRAUDIMO ĮSTATYMO]], [[latest/TAR.FDF42614DE52|NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO]], [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]], VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34, 36, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, [[latest/TAR.A7F77DF94F5D#^s-737ad56397e2a7b754e12bc0|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO]], [[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]], ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, [[latest/TAR.94F6B680E8B8|SVEIKATOS DRAUDIMO ĮSTATYMO]], [[latest/TAR.FDF42614DE52|NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO]], [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]], [[latest/TAR.CA0F08EF687E|VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO]], INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO [[latest/TAR.A7F77DF94F5D#^s-f47bd8a85e88a1ed5fdb4426|33]], [[latest/TAR.A7F77DF94F5D#^s-5588e0dd4927669d9163f666|34]], [[latest/TAR.A7F77DF94F5D#^s-3c50246512d269ab920f3de0|36]], [[latest/TAR.A7F77DF94F5D#^s-f3e4bd0c130420115fe58c82|45]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]] [[latest/TAR.9347C8C7E0A3|9]], [[latest/TAR.9347C8C7E0A3|16]], [[latest/TAR.9347C8C7E0A3|28]], [[latest/TAR.9347C8C7E0A3|35]], [[latest/TAR.9347C8C7E0A3|36]], [[latest/TAR.9347C8C7E0A3|40]], [[latest/TAR.9347C8C7E0A3|43]], [[latest/TAR.9347C8C7E0A3|45]], [[latest/TAR.9347C8C7E0A3|49]], [[latest/TAR.9347C8C7E0A3|50]], [[latest/TAR.9347C8C7E0A3|54]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO]], [[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 
 8.
@@ -680,17 +680,17 @@ Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar sus
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-829, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20026
-Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 2, 3, 7, 11, 12, [[#^s-71c6744da9c72dfa7fbd6602|13 straipsnių]] ir antrojo skirsnio pavadinimo pakeitimo įstatymas
+Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 [[#^s-13f951e398be392215e11fab|2]], [[#^s-9e0fc1e8727171e4c24369aa|3]], [[#^s-fbf5a325f8bf82284db1cafc|7]], [[#^s-da78e971f1725a4486cfd7ea|11]], [[#^s-5dc64cf2d193dac207f8c240|12]], [[#^s-71c6744da9c72dfa7fbd6602|13]] straipsnių ir antrojo skirsnio pavadinimo pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1723, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20977
-Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 12 ir [[#^s-71c6744da9c72dfa7fbd6602|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 [[#^s-5dc64cf2d193dac207f8c240|12]] ir [[#^s-71c6744da9c72dfa7fbd6602|13]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2233, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10350
-Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 18 ir 18-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 [[#^s-53f30686e16e1dc59539ddaa|18]] ir 18-1 straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -700,4 +700,4 @@ Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar sus
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2364, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25617
-Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 1, 2, 7, 12, 13, 14, 15, 16, 17, 18-1, 19, 22 ir [[#^s-ac08eb4410f7bdea2897d0f3|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žalos atlyginimo dėl nelaimingų atsitikimų darbe ar susirgimų profesine liga laikinojo įstatymo Nr. VIII-366 [[#^s-e4323f11f836e3d6d0bd6613|1]], [[#^s-13f951e398be392215e11fab|2]], [[#^s-fbf5a325f8bf82284db1cafc|7]], [[#^s-5dc64cf2d193dac207f8c240|12]], [[#^s-71c6744da9c72dfa7fbd6602|13]], [[#^s-2e69b5e215bb956e57e8dd7b|14]], [[#^s-16e562dd14b099636c0b9ce4|15]], [[#^s-cb4921b091659acb8a909195|16]], [[#^s-6feae8881caecf7bc1e5ccc5|17]], 18-1, [[#^s-f2841b42fd35b4ca50896a6b|19]], [[#^s-9e16a30b48722e3a6d13ab47|22]] ir [[#^s-ac08eb4410f7bdea2897d0f3|23]] straipsnių pakeitimo įstatymas

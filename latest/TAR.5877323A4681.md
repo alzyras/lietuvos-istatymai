@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-9fa07476519baeb8dde09a99
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. lapkričio 21 d. dekretą Nr. 1K-1593, ratifikuoja 1993 m. balandžio 2 d. Toremolinose priimtą 1993 m. Toremolinoso protokolą dėl 1977 m. Tarptautinės Toremolinoso konvencijos dėl žvejybos laivų saugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. lapkričio 21 d. dekretą Nr. 1K-1593](https://e-tar.lt/portal/lt/legalAct/TAR.43E10C41CFBC), ratifikuoja 1993 m. balandžio 2 d. Toremolinose priimtą 1993 m. Toremolinoso protokolą dėl 1977 m. Tarptautinės Toremolinoso konvencijos dėl žvejybos laivų saugos.
 
 
 

@@ -220,7 +220,7 @@ Pakeisti [[#^s-1db29d39bd62cb3de5e0f499|7 straipsnį]] ir jį išdėstyti taip:
 3. Šeimos, auginančios neįgalų vaiką (įvaikį) iki 18 metų, kuriam nustatytas specialusis nuolatinės slaugos poreikis, arba neįgalų vaiką (įvaikį), kuriam iki 2005 m. liepos 1 d. buvo pripažinta visiška negalia, vieną kartą per 6 metus turi teisę gauti iki 32 MGL dydžio lengvųjų automobilių įsigijimo ir jų techninio pritaikymo išlaidų kompensaciją. ^s-55828d0e222515be5e8eaf65
 
 
-4. Kompensacijos, nustatytos šio straipsnio 1 ir [[#^s-55828d0e222515be5e8eaf65|3 dalyse]], mokamos iš valstybės biudžeto. ^s-5c026a2f9c8243bef47827ea
+4. Kompensacijos, nustatytos šio straipsnio [[#^s-d6f4941a8b6b1d667fd8fd33|1]] ir [[#^s-55828d0e222515be5e8eaf65|3]] dalyse, mokamos iš valstybės biudžeto. ^s-5c026a2f9c8243bef47827ea
 
 
 5. Transporto išlaidų kompensacijų mokėjimo tvarką nustato Vyriausybė arba jos įgaliota institucija.“ ^s-c4bcfdd1704fabd48ff1f9ca
@@ -233,7 +233,7 @@ Pakeisti [[#^s-1db29d39bd62cb3de5e0f499|7 straipsnį]] ir jį išdėstyti taip:
 8 straipsnio 4 punkte vietoj skaičių ir žodžio „1, 2, 5, 6 ir 7“ įrašyti skaičius „1–7“ ir šį punktą išdėstyti taip:
 
 
-„4) dėl važiavimo vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais lengvatų, nustatytų šio įstatymo [[#^s-1d6554ce34ed4d2cf34f826c|5 straipsnio]] 1–7 dalyse, – iš savivaldybių, išdavusių šiems vežėjams leidimus vežti keleivius vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, biudžetų;“.
+„4) dėl važiavimo vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais lengvatų, nustatytų šio įstatymo [[#^s-1d6554ce34ed4d2cf34f826c|5 straipsnio]] [[#^s-2c1218a59906dca3b02f1b56|1]]–7 dalyse, – iš savivaldybių, išdavusių šiems vežėjams leidimus vežti keleivius vietinio (miesto ir priemiestinio) reguliaraus susisiekimo autobusais ir troleibusais, biudžetų;“.
 
 
 

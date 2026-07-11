@@ -58,7 +58,7 @@ Lietuvos Respublikoje nustatomos tokios valstybinio socialinio draudimo rūšys:
 3) draudimas kompensacijoms, numatytoms šio įstatymo 26 straipsnyje; ^s-537e42027316ba7d0787578e
 
 
-4) draudimas nuo nedarbo, kai draudžiama bedarbio pašalpoms pagal Gyventojų užimtumo įstatymą. Iš šio draudimo lėšų taip pat kompensuojama už kitas nedarbo priemones, numatytas Gyventojų [[latest/422c8b5042b811e6a8ae9e1795984391|užimtumo įstatyme]]; ^s-687b210b7cacac64c5643cd2
+4) draudimas nuo nedarbo, kai draudžiama bedarbio pašalpoms pagal Gyventojų užimtumo įstatymą. Iš šio draudimo lėšų taip pat kompensuojama už kitas nedarbo priemones, numatytas [Gyventojų užimtumo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.0B3E8942C5C4); ^s-687b210b7cacac64c5643cd2
 
 
 5) draudimas nuo nelaimingų atsitikimų gamyboje, kai draudžiama pašalpoms suluošinimo darbe ir profesinių susirgimų atvejais ir kitoms išmokoms, numatytoms Draudimo nuo nelaimingų atsitikimų darbe įstatyme.“ ^s-71e4ac72433336c42c19692f

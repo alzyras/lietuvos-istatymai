@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F43F5ED5C4BB#^s-262ceb31c11c330a73d3e3b7|Lietuvos Respublikos karių materialinės atsakomybės įstatymas]] - 3 citatos - 1061010ISTA000X-795
+- [[latest/TAR.F43F5ED5C4BB#^s-262ceb31c11c330a73d3e3b7|Lietuvos Respublikos karių materialinės atsakomybės įstatymas]] - 2 citatos - 1061010ISTA000X-795

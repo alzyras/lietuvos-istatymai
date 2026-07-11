@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įs
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 3 citatos - Viešojo administravimo įstatymo
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - Viešojo administravimo įstatymo
 
 ## Šį įstatymą cituoja
 

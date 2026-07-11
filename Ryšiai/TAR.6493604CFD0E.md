@@ -9,8 +9,7 @@ pavadinimas: "Lietuvos Respublikos strateginių prekių ir technologijų importo
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.AB5C4F8C996B|Lietuvos Respublikos strateginių prekių kontrolės įstatymas]] - Lietuvos Respublikos strateginių prekių ir technologijų importo, tranzito ir eksporto kontrolės įstatymo
-- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - 2 citatos - Valstybės ir tarnybos paslapčių įstatymo
+- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - Valstybės ir tarnybos paslapčių įstatymo
 
 ## Šį įstatymą cituoja
 

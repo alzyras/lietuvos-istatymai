@@ -40,10 +40,10 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimas ^s-6b2075a4a747f9922f51e9ea
 
 
-Pakeisti 1 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.D0429A864011#^s-75df95078e908bdd8a4dc906|1 straipsnį]] ir jį išdėstyti taip:
 
 
-„1 straipsnis. Įstatymo paskirtis
+„[[latest/TAR.D0429A864011#^s-75df95078e908bdd8a4dc906|1 straipsnis]]. Įstatymo paskirtis
 
 
 Šis įstatymas nustato melioracijos statinių nuosavybės santykius, žemės savininkų ir kitų naudotojų teises ir pareigas, susijusias su melioracijos statinių statyba, naudojimu ir apsauga, taip pat melioracijos organizavimą, valdymą, projektavimą, ekspertizę, melioruotos žemės ir melioracijos statinių apskaitą, melioracijos statinių nurašymą bei melioracijos finansavimo tvarką.“
@@ -53,13 +53,13 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 ### 2 straipsnis. 2 straipsnio pakeitimas ^s-a7b1f0f92ab7ade8f567b8d2
 
 
-1. Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip: ^s-c14cd215ef8d31b0107977ed
+1. Pakeisti [[latest/TAR.D0429A864011#^s-a2a2d594216b1271e3cd1872|2 straipsnio 6 dalį]] ir ją išdėstyti taip: ^s-c14cd215ef8d31b0107977ed
 
 
 „6. Melioruota žemė – žemės plotas, kuriame drėgmės režimas reguliuojamas melioracijos sistema.“
 
 
-2. Papildyti 2 straipsnį 8 dalimi: ^s-c20d9d8a07e2eb3c3944abc9
+2. Papildyti [[latest/TAR.D0429A864011|2 straipsnį 8 dalimi]]: ^s-c20d9d8a07e2eb3c3944abc9
 
 
 „8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatyme, Lietuvos Respublikos statybos įstatyme, Lietuvos Respublikos žemės įstatyme.“
@@ -69,7 +69,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 ### 3 straipsnis. 7 straipsnio pakeitimas ^s-9e6c48eb790378458ca0425f
 
 
-Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.D0429A864011#^s-181c63550164a0cbdd92656b|7 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Žemės ūkio ministro įgaliota institucija žemės ūkio ministro nustatyta tvarka:
@@ -86,10 +86,10 @@ Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 4 straipsnis. 9 straipsnio pakeitimas ^s-607a1e930d66c49b7d34b56e
 
 
-Pakeisti 9 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.D0429A864011#^s-b4600a3f85428139da4740e9|9 straipsnį]] ir jį išdėstyti taip:
 
 
-„9 straipsnis. Melioruotos žemės ir melioracijos statinių apskaita
+„[[latest/TAR.D0429A864011#^s-b4600a3f85428139da4740e9|9 straipsnis]]. Melioruotos žemės ir melioracijos statinių apskaita
 
 
 Melioruotos žemės ir melioracijos statinių apskaita yra sudedamoji [[latest/TAR.CC10C5274343#^s-2b7ddbce883cdb2c0cfb854a|Žemės įstatymo 35 straipsnio 2 dalies 3 punkte]] nurodyto rinkinio dalis. Melioruotos žemės ir melioracijos statinių apskaitos tvarką nustato žemės ūkio ministras.“
@@ -116,7 +116,7 @@ MELIORACIJOS STATINIŲ NURAŠYMAS
 2. Nurašyti valstybei nuosavybės teise priklausantys grioviai ir (ar) sureguliuoti upeliai neišardomi, paliekami savaime atsikurti. ^s-cd77e499cae569960c58c058
 
 
-3. Pagrindinė žemės ūkio paskirties žemės naudojimo paskirtis, išskyrus [[#^s-a61d04c3f3d2160200543bcb|šio straipsnio 1 dalyje]] nustatytą atvejį, keičiama tik nurašius, išardžius bei likvidavus šio įstatymo 3 straipsnio 2 dalyje nurodytus valstybei nuosavybės teise priklausančius urbanizuotose ir (ar) urbanizuojamose teritorijose esančius melioracijos statinius ir savivaldybės tarybai priėmus sprendimą dėl šių melioracijos statinių likvidavimo. Jeigu keičiant pagrindinę žemės ūkio paskirties žemės naudojimo paskirtį šio įstatymo 3 straipsnio 2 dalyje nurodytų valstybei nuosavybės teise priklausančių melioracijos statinių išardymas bei likvidavimas darys žalą kitų asmenų interesams, turtui ir (ar) gamtinei aplinkai, šiuos melioracijos statinius privačios žemės savininkas, savivaldybė ar valstybinės žemės naudotojas privalo iškelti į kitą vietą arba kitaip pertvarkyti parengęs melioracijos statinių iškėlimo projektą vadovaudamasis žemės ūkio ministro nustatyta tvarka. ^s-d45c0fc4781a03aabb54ffcf
+3. Pagrindinė žemės ūkio paskirties žemės naudojimo paskirtis, išskyrus [[#^s-a61d04c3f3d2160200543bcb|šio straipsnio 1 dalyje]] nustatytą atvejį, keičiama tik nurašius, išardžius bei likvidavus šio įstatymo [[latest/TAR.D0429A864011#^s-08c3b7d08ca4a4270fe8acf1|3 straipsnio 2 dalyje]] nurodytus valstybei nuosavybės teise priklausančius urbanizuotose ir (ar) urbanizuojamose teritorijose esančius melioracijos statinius ir savivaldybės tarybai priėmus sprendimą dėl šių melioracijos statinių likvidavimo. Jeigu keičiant pagrindinę žemės ūkio paskirties žemės naudojimo paskirtį šio įstatymo [[latest/TAR.D0429A864011#^s-08c3b7d08ca4a4270fe8acf1|3 straipsnio 2 dalyje]] nurodytų valstybei nuosavybės teise priklausančių melioracijos statinių išardymas bei likvidavimas darys žalą kitų asmenų interesams, turtui ir (ar) gamtinei aplinkai, šiuos melioracijos statinius privačios žemės savininkas, savivaldybė ar valstybinės žemės naudotojas privalo iškelti į kitą vietą arba kitaip pertvarkyti parengęs melioracijos statinių iškėlimo projektą vadovaudamasis žemės ūkio ministro nustatyta tvarka. ^s-d45c0fc4781a03aabb54ffcf
 
 
 4. Nurašius melioracijos statinius, melioracijos statiniai ir melioruota žemė išbraukiami iš melioruotos žemės ir melioracijos statinių apskaitos.“ ^s-409637dbfc3f8fe8689cd9c2

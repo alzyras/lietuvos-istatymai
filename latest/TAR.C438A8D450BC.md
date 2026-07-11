@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-9c29157005e92922e4ccc44e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 9 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Turkijos Respublikos laisvosios prekybos sutartį“, ratifikuoja Lietuvos Respublikos ir Turkijos Respublikos laisvosios prekybos sutartį, pasirašytą 1997 m. birželio 2 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. rugsėjo 9 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Turkijos Respublikos laisvosios prekybos sutartį“](https://e-tar.lt/portal/lt/legalAct/TAR.0C305466BE28), ratifikuoja Lietuvos Respublikos ir Turkijos Respublikos laisvosios prekybos sutartį, pasirašytą 1997 m. birželio 2 d. Vilniuje.
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-d085522816d7f6fc7920c516
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. lapkričio 4 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Kanados Vyriausybės sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Kanados Vyriausybės sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo, pasirašytą 1996 m. rugpjūčio 29 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. lapkričio 4 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Kanados Vyriausybės sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo“](https://e-tar.lt/portal/lt/legalAct/TAR.2F6BB3D4F241), ratifikuoja Lietuvos Respublikos Vyriausybės ir Kanados Vyriausybės sutartį dėl pajamų ir kapitalo dvigubo apmokestinimo ir fiskalinių pažeidimų išvengimo, pasirašytą 1996 m. rugpjūčio 29 d. Vilniuje.
 
 
 

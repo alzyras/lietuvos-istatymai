@@ -531,7 +531,7 @@ KŪNO KULTŪRA IR SPORTAS ŠVIETIMO ĮSTAIGOSE
 2. Kitose neformaliojo švietimo programas vykdančiose švietimo įstaigose kūno kultūros pratybos vykdomos pagal patvirtintus mokymo planus ir (ar) programas. ^s-520b693cb5cf0a8f5588fb77
 
 
-3. Kvalifikacinius reikalavimus mokytojams dirbti šio įstatymo 16 ir [[#^s-04c2d5b109c5edefbfbce99d|17 straipsniuose]] nurodytose švietimo įstaigose nustato [[latest/TAR.9A3AD08EA5D0|Švietimo įstatymas]], o dėstytojams aukštosiose mokyklose – Aukštojo mokslo įstatymas. ^s-ed15f5cc8323a25649bb9b5c
+3. Kvalifikacinius reikalavimus mokytojams dirbti šio įstatymo [[#^s-e62f1437e247df416faabd6d|16]] ir [[#^s-04c2d5b109c5edefbfbce99d|17]] straipsniuose nurodytose švietimo įstaigose nustato [[latest/TAR.9A3AD08EA5D0|Švietimo įstatymas]], o dėstytojams aukštosiose mokyklose – [Aukštojo mokslo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F). ^s-ed15f5cc8323a25649bb9b5c
 
 
 
@@ -629,7 +629,7 @@ KŪNO KULTŪROS IR SPORTO SPECIALISTAI
 1. Kūno kultūros ir sporto pratybas gali vykdyti tik kūno kultūros ir sporto specialistai. ^s-33c3c88e0e9f3b289efd24b7
 
 
-2. Darbdavys, priimdamas į darbą kūno kultūros ir sporto specialistą, privalo įsitikinti, ar asmuo turi reikiamą išsilavinimą arba galiojantį kūno kultūros ir sporto veiklos leidimą. Darbdavys, pažeidęs šio straipsnio nuostatas, atsako Administracinių teisės pažeidimų kodekso nustatyta tvarka. ^s-c6b51fa04892467ffb2d3310
+2. Darbdavys, priimdamas į darbą kūno kultūros ir sporto specialistą, privalo įsitikinti, ar asmuo turi reikiamą išsilavinimą arba galiojantį kūno kultūros ir sporto veiklos leidimą. Darbdavys, pažeidęs šio straipsnio nuostatas, atsako [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka. ^s-c6b51fa04892467ffb2d3310
 
 
 
@@ -653,7 +653,7 @@ Kūno kultūros ir sporto specialistas su organizacijomis, kuriose vykdo kūno k
 1. Treneris su organizacijomis gali pasirašyti darbo sutartį arba vykdyti individualią veiklą, kaip ji apibrėžiama [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]]. ^s-d6fc3c77a7f1f1b0a29fa8df
 
 
-2. Vykdydamas individualią veiklą, treneris su organizacija privalo pasirašyti sportinės veiklos sutartį, numatytą šio įstatymo [[#^s-42f9bc15b66247dce89c0044|35 straipsnio 2 dalyje]], išskyrus 6, 7 ir 12 punktuose nurodytas nuostatas. ^s-926a2f36c6b5a7c7db4c52d8
+2. Vykdydamas individualią veiklą, treneris su organizacija privalo pasirašyti sportinės veiklos sutartį, numatytą šio įstatymo [[#^s-42f9bc15b66247dce89c0044|35 straipsnio 2 dalyje]], išskyrus [[#^s-a151ca7be59dff5e0c59024a|6]], [[#^s-a08d043af387954d1818dd86|7]] ir [[#^s-59d48f6509db73f127fb946d|12]] punktuose nurodytas nuostatas. ^s-926a2f36c6b5a7c7db4c52d8
 
 
 3. Kūno kultūros ir sporto departamento nustatyta tvarka treneriams yra suteikiamos kvalifikacinės kategorijos. ^s-1e7981feab0c270abdf4b9cb

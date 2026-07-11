@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos protokolo pakeitimo ratifikavimas ^s-d8a6b9e51362e37caa75f6d5
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio pirmosios dalies 6 punktu bei atsižvelgdamas į Lietuvos Respublikos Prezidento 2015 m. birželio 2 d. dekretą Nr. 1K-333, ratifikuoja 2012 m. gruodžio 8 d. Dohoje priimtą Jungtinių Tautų bendrosios klimato kaitos konvencijos Kioto protokolo Dohos pakeitimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio pirmosios dalies 6 punktu bei atsižvelgdamas į Lietuvos Respublikos Prezidento [2015 m. birželio 2 d. dekretą Nr. 1K-333](https://e-tar.lt/portal/lt/legalAct/1501e2c0091011e588da8908dfa91cac), ratifikuoja 2012 m. gruodžio 8 d. Dohoje priimtą Jungtinių Tautų bendrosios klimato kaitos konvencijos Kioto protokolo Dohos pakeitimą.
 
 
 

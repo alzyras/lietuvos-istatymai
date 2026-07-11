@@ -5958,7 +5958,7 @@ ______________
 
 
  1 4
- Antidempingo įstatymo priežiūra
+ [Antidempingo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.834893A1E7FD) priežiūra
      1. 1. 6 ^s-df8084c15ab84c378ada3aaf
      241
      216
@@ -8058,7 +8058,7 @@ ______________
 
 
  1 1
- [[latest/TAR.FBE404535C5B|Lietuvos Respublikos transporto veiklos pagrindų įstatymo]], Kelių transporto kodekso ir kitų norminių aktų įgyvendinimas kelių transporto srityje
+ [[latest/TAR.FBE404535C5B|Lietuvos Respublikos transporto veiklos pagrindų įstatymo]], [Kelių transporto kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C) ir kitų norminių aktų įgyvendinimas kelių transporto srityje
    12. 1. 1 ^s-f906968106a2fccc6635f1bc
    9507
    7244

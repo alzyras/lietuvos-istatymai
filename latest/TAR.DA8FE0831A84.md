@@ -196,7 +196,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 8) netekus Lietuvos Respublikos pilietybės. ^s-d4eb15375445f31dbe1a01d3
 
 
-5. Komisijos pirmininko ir jos narių darbo apmokėjimą reglamentuoja Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymas. Komisijos pirmininkui ir jos nariams [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodeksas]] taikomas tiek, kiek jų statuso nereglamentuoja šis ir kiti įstatymai. Komisijos pirmininkas ir jos nariai gali būti skatinami vienkartinėmis piniginėmis išmokomis, neviršijant darbo užmokesčiui skirtų lėšų. Komisijos pirmininkas ir jos nariai skatinami šiais atvejais: ^s-b3ab879cc8da9c6ba075649c
+5. Komisijos pirmininko ir jos narių darbo apmokėjimą reglamentuoja Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3). Komisijos pirmininkui ir jos nariams [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodeksas]] taikomas tiek, kiek jų statuso nereglamentuoja šis ir kiti įstatymai. Komisijos pirmininkas ir jos nariai gali būti skatinami vienkartinėmis piniginėmis išmokomis, neviršijant darbo užmokesčiui skirtų lėšų. Komisijos pirmininkas ir jos nariai skatinami šiais atvejais: ^s-b3ab879cc8da9c6ba075649c
 
 
 1) už labai gerą darbą kalendoriniais metais; ^s-8a3db0a89b9af5453d58b63a
@@ -352,7 +352,7 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 10. Komisijos paskirta piniginė bauda į valstybės biudžetą sumokama Komisijos nustatyta tvarka ir terminais. Komisijos nutarimas per 30 dienų nuo jo priėmimo dienos įstatymų nustatyta tvarka gali būti apskundžiamas teismui. Komisijos nutarimas dėl piniginės baudos skyrimo įsigalioja po 30 dienų nuo nutarimo priėmimo dienos, jei per tą laiką įstatymų nustatyta tvarka nebuvo apskųstas teismui. ^s-a5a57db9c5240b22cac73431
 
 
-11. Nesumokėta piniginė bauda išieškoma Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-7154a4dbd7662334e07bf8a7
+11. Nesumokėta piniginė bauda išieškoma [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-7154a4dbd7662334e07bf8a7
 
 
 12. Skundą dėl Komisijos nutarimo nagrinėjantis teismas, atsižvelgdamas į atsakomybę lengvinančias ir kitas aplinkybes (dėl kurių atitinkama piniginė bauda energetikos įmonei, kuri pažeidė šį įstatymą, būtų akivaizdžiai per didelė, nes neproporcinga padarytam teisės pažeidimui ir dėl to neteisinga) ir vadovaudamasis teisingumo, protingumo kriterijais, turi teisę skirti mažesnę piniginę baudą.“ ^s-b3396beac7d82aec01680fc6
@@ -368,13 +368,13 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 „1. Energetikos įmonės Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka išperka ar eksploatuoja vartotojų (juridinių ir fizinių asmenų) lėšomis iki šio Įstatymo įsigaliojimo įrengtus bendrai naudojamus energetikos objektus, skirtus energijai perduoti ir (ar) skirstyti. Valstybei ar savivaldybei nuosavybės teise priklausantys bendrai naudojami energetikos objektai ir sodininkų bendrijoms nuosavybės teise priklausantys bendrai naudojami energetikos objektai, skirti energijai perduoti ir (ar) skirstyti, įrengti iki šio Įstatymo įsigaliojimo, gali būti parduoti energetikos įmonei už kainą, nustatomą pagal turto ir verslo vertinimą reglamentuojančius teisės aktus. Išperkamų bendrai naudojamų energetikos objektų kaina nustatoma vadovaujantis turto ir verslo vertinimą reglamentuojančiais teisės aktais.“
 
 
-2. 28 straipsnį papildyti nauja [[#^s-de201f88639eb23e8ad03eee|2 dalimi]]: ^s-de201f88639eb23e8ad03eee
+2. 28 straipsnį papildyti nauja 2 dalimi: ^s-de201f88639eb23e8ad03eee
 
 
 „2. Valstybei ar savivaldybei nuosavybės teise priklausantys bendrai naudojami energetikos objektai perduodami energetikos įmonei po to, kai valstybės ar savivaldybės institucija, Lietuvos bankas, valstybės ar savivaldybės įmonė, įstaiga, organizacija, patikėjimo teise valdanti šiuos objektus, sudaro pirkimo–pardavimo sutartį (toliau – sutartis) su energetikos įmone. Sutartyje turi būti nustatytas atlyginimo už perduodamą energetikos objektą būdas, terminai, energetikos objekto naudojimo tikslas. Sutartis pasirašoma tik tada, kai energetikos objektų pardavimui ir sutarties projektui pritaria atitinkamai Vyriausybė ar savivaldybės taryba. Teikiant Vyriausybei ar savivaldybės tarybai pritarti sutarties projektą, pagrindžiama būtinybė parduoti energetikos objektą energetikos įmonei ir kartu pateikiama energetikos objekto vertinimo ataskaita.“
 
 
-3. Buvusias 28 straipsnio 2, 3 ir [[#^s-077f1dd82b9b349e1252db4a|4 dalis]] laikyti atitinkamai 3, 4 ir 5 dalimis. ^s-cbf93d997d747111a8033cbe
+3. Buvusias 28 straipsnio 2, 3 ir 4 dalis laikyti atitinkamai 3, 4 ir 5 dalimis. ^s-cbf93d997d747111a8033cbe
 
 
 4. 28 straipsnio 4 dalyje vietoj skaičiaus „2“ įrašyti skaičių „3“ ir šią dalį išdėstyti taip: ^s-077f1dd82b9b349e1252db4a
@@ -393,7 +393,7 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 2. Papildyti Įstatymo priedą nauju 8 punktu: ^s-c9084b47060cd51a2f77288e
 
 
-„8. 2003 m. birželio 26 d. Europos Parlamento ir Tarybos reglamentas (EB) 1228/2003 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų (OL 2004 m. specialusis leidimas, 12 skyrius, 2 tomas, p. 175).“
+„8. 2003 m. birželio 26 d. Europos Parlamento ir Tarybos [reglamentas (EB) 1228/2003](https://eur-lex.europa.eu/eli/reg/1228/2003/oj) dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų (OL 2004 m. specialusis leidimas, 12 skyrius, 2 tomas, p. 175).“
 
 
 3. Buvusį 8 punktą laikyti 9 punktu. ^s-9e5dcf739191e68b1cc145aa
@@ -402,7 +402,7 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 4. Papildyti Įstatymo priedą 10 punktu: ^s-bafec78c83acb5c1d6cb4bb8
 
 
-„10. 2005 m. rugsėjo 28 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1775/2005 dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų (OL 2005 L 289, p. 1).“
+„10. 2005 m. rugsėjo 28 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1775/2005](https://eur-lex.europa.eu/eli/reg/1775/2005/oj) dėl teisės naudotis gamtinių dujų perdavimo tinklais sąlygų (OL 2005 L 289, p. 1).“
 
 
 5. Papildyti Įstatymo priedą 11 punktu: ^s-2d3b8193c47ef58b729a9c81

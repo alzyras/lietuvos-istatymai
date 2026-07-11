@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-c7dd3efbee51f2890cfc0e0a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. liepos 25 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės susitarimą dėl bendradarbiavimo telekomunikacijų, pašto ir informatikos srityse“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės susitarimą dėl bendradarbiavimo telekomunikacijų, pašto ir informatikos srityse, pasirašytą 1997 m. gegužės 16 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. liepos 25 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės susitarimą dėl bendradarbiavimo telekomunikacijų, pašto ir informatikos srityse“](https://e-tar.lt/portal/lt/legalAct/TAR.28F5928F0A99), ratifikuoja Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės susitarimą dėl bendradarbiavimo telekomunikacijų, pašto ir informatikos srityse, pasirašytą 1997 m. gegužės 16 d. Vilniuje.
 
 
 

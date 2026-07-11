@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos mokslo ir studijų įstatymo Nr. XI-242 67 st
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.C595FF45F869#^s-836afae94f3e83f5ad7a6424|Lietuvos Respublikos mokslo ir studijų įstatymas]] - 67 straipsnį 4 dalimi
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C595FF45F869#^s-76226fc1bd60145b22b44d51|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Įstatymas Nr. XIV-2845
-- [[latest/TAR.C595FF45F869#^s-c01667f4509815403772ac77|Lietuvos Respublikos mokslo ir studijų įstatymas]] - Įstatymas Nr. XIV-2845
+_Nėra._

@@ -67,7 +67,7 @@ BENDROSIOS NUOSTATOS
 4. Deleguojami asmenys – karjeros valstybės tarnautojai, statutiniai valstybės tarnautojai ir prokurorai, kurie perkeliami ar siunčiami, ir kiti asmenys, kurie siunčiami dirbti į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas teisės aktų nustatyta tvarka. ^s-441ba2e7d36f9d1f40721f1d
 
 
-5. Išlaidos, susijusios su delegavimu – šio įstatymo 21 ir [[#^s-93363a65762100131aa40cd4|22 straipsnyje]] nurodytos išlaidos. ^s-901b45d0eb5d0ad6d8fccc90
+5. Išlaidos, susijusios su delegavimu – šio įstatymo [[#^s-4e34330a1c8433ba9b71928c|21]] ir [[#^s-93363a65762100131aa40cd4|22]] straipsnyje nurodytos išlaidos. ^s-901b45d0eb5d0ad6d8fccc90
 
 
 6. Kiti asmenys – asmenys, dirbantys pagal darbo sutartis, ir savarankiškai dirbantys asmenys, nurodyti [[latest/TAR.0F9036415DBD#^s-3e8dc9ff0c5abc41b0aec1ee|Valstybinio socialinio draudimo įstatymo 2 straipsnio 8 dalyje]]. ^s-64878d4985424cfe20e7ce32
@@ -98,7 +98,7 @@ Deleguojančiosios institucijos yra šios:
 4) prokurorų – Lietuvos Respublikos generalinė prokuratūra; ^s-528bb5ba999e3b496c8d9222
 
 
-5) asmenų, nenurodytų šio straipsnio 1–[[#^s-528bb5ba999e3b496c8d9222|4 punktuose]], – Lietuvos Respublikos užsienio reikalų ministerija (toliau – Užsienio reikalų ministerija). ^s-794669307bbca135dc92c0b5
+5) asmenų, nenurodytų šio straipsnio [[#^s-428f35aaff0649198623c93d|1]]–[[#^s-528bb5ba999e3b496c8d9222|4]] punktuose, – Lietuvos Respublikos užsienio reikalų ministerija (toliau – Užsienio reikalų ministerija). ^s-794669307bbca135dc92c0b5
 
 
 
@@ -356,7 +356,7 @@ Delegavimo sutartis – tai Užsienio reikalų ministerijos ir pretendento, kuri
 3. Sprendimą dėl Delegavimo sutarties pratęsimo priima užsienio reikalų ministras, atsižvelgdamas į tarptautinės ir Europos Sąjungos institucijos ar užsienio valstybės institucijos pasiūlymą pratęsti delegavimo trukmę, į delegavimo prioritetus, taikomus pratęsimo metu, ir į išlaidų, susijusių su asmens delegavimu, padengimo iš tam tikslui skirtų Lietuvos Respublikos valstybės biudžeto asignavimų galimybes. ^s-a1a0619535676db6946ab4ba
 
 
-4. Šio straipsnio 2 ir [[#^s-a1a0619535676db6946ab4ba|3 dalyse]] minimi sprendimai priimami per tarptautinių ir Europos Sąjungos institucijų ar užsienio valstybių institucijų nustatytą laikotarpį, tačiau ne vėliau kaip prieš 30 dienų iki delegavimo laikotarpio pabaigos. ^s-24b1904b744c9a278ad47a7e
+4. Šio straipsnio [[#^s-372fdb508faa3f5e4a22d27f|2]] ir [[#^s-a1a0619535676db6946ab4ba|3]] dalyse minimi sprendimai priimami per tarptautinių ir Europos Sąjungos institucijų ar užsienio valstybių institucijų nustatytą laikotarpį, tačiau ne vėliau kaip prieš 30 dienų iki delegavimo laikotarpio pabaigos. ^s-24b1904b744c9a278ad47a7e
 
 
 5. Jei delegavimo trukmė ar Delegavimo sutartis nepratęsiamos, gali būti skelbiama nauja atranka šio įstatymo nustatyta tvarka, išskyrus atvejus, kai tarptautinės ir Europos Sąjungos institucijos ar užsienio valstybės institucijos teisės aktai nustato kitaip. ^s-98af0e84eb6b9431cfc32e05

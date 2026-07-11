@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 11 straipsnio pakeitimas ir papildymas ^s-b703100b8833d4b2bb5f085e
 
 
-1. Pakeisti ir papildyti 11 straipsnio 1 dalies 2, 3 ir [[#^s-ba771f5574f1bd6da6f3028d|4 punktus]] ir juos išdėstyti taip: ^s-32c640f8295fd651b54c3124
+1. Pakeisti ir papildyti 11 straipsnio 1 dalies 2, 3 ir 4 punktus ir juos išdėstyti taip: ^s-32c640f8295fd651b54c3124
 
 
 „2) politiniai kaliniai ir tremtiniai, pateikę Lietuvos Respublikos teisėsaugos institucijų išduotus dokumentus (reabilitacijos pažymas), patvirtinančius politinių kalinių ir tremtinių teisių atkūrimą, arba Lietuvos gyventojų genocido ir rezistencijos tyrimo centro išduotus nuo okupacijų nukentėjusio asmens – politinio kalinio ar tremtinio teisinio statuso pažymėjimus;
@@ -91,7 +91,7 @@ Vilnius
 2. 13 straipsnį papildyti nauja [[#^s-e5fe93f97922e7d60958a6fe|3 dalimi]]: ^s-054eda3a64a874a869943907
 
 
-„Nukentėjusių asmenų valstybinė pensija mokama [[#^s-054eda3a64a874a869943907|šio straipsnio 2 dalyje]] išvardytiems asmenims:
+„Nukentėjusių asmenų valstybinė pensija mokama šio straipsnio 2 dalyje išvardytiems asmenims:
 
 
 1) pripažintiems I grupės invalidais – 2 valstybinių pensijų bazių dydžio; ^s-df6dfe0e4ce3d8879deeb210
@@ -103,7 +103,7 @@ Vilnius
 3) pripažintiems III grupės invalidais – 0,75 valstybinių pensijų bazės dydžio.“ ^s-2a67b54f60c35aa63222d8ef
 
 
-3. 13 straipsnio buvusią [[#^s-e5fe93f97922e7d60958a6fe|3 dalį]] laikyti 4 dalimi. ^s-e5fe93f97922e7d60958a6fe
+3. 13 straipsnio buvusią 3 dalį laikyti 4 dalimi. ^s-e5fe93f97922e7d60958a6fe
 
 
 
@@ -130,7 +130,7 @@ Vilnius
 ### 5 straipsnis. Įstatymo įsigaliojimas ^s-91086a84b5e87c2b1e2c7fe2
 
 
-Šis įstatymas įsigalioja nuo 1999 m. sausio 10 d., išskyrus Valstybinių pensijų įstatymo 11 straipsnio 1 dalies 4 punkto ir 11 straipsnio 3 dalies pakeitimus bei papildymus, taip pat 13 straipsnio 2 dalies 3 punktą, kurie įsigalioja nuo 2000 m. sausio 1 d.
+Šis įstatymas įsigalioja nuo 1999 m. sausio 10 d., išskyrus [[latest/TAR.ED38F243563C|Valstybinių pensijų įstatymo 11 straipsnio 1 dalies 4 punkto]] ir 11 straipsnio 3 dalies pakeitimus bei papildymus, taip pat 13 straipsnio 2 dalies 3 punktą, kurie įsigalioja nuo 2000 m. sausio 1 d.
 
 
 

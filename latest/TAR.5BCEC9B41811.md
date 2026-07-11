@@ -69,7 +69,7 @@ Lietuvos Respublikos tarptautinių sutarčių sudarymo iniciatyvos teisę turi L
 ### 4 straipsnis. Sprendimų dėl Lietuvos Respublikos tarptautinių sutarčių sudarymo tikslingumo priėmimas ^s-c5734c560049d1f813094e20
 
 
-1. Sprendimus dėl Lietuvos Respublikos tarptautinių sutarčių sudarymo tikslingumo pagal Lietuvos Respublikos Konstitucijos, šio ir kitų įstatymų bei tarptautinės teisės reikalavimus priima Lietuvos Respublikos Prezidentas, Vyriausybė arba jos pavedimu ir nustatyta tvarka – Užsienio reikalų ministerija. ^s-289c60cf0ed4395df834ef2e
+1. Sprendimus [dėl Lietuvos Respublikos tarptautinių sutarčių sudarymo](https://e-tar.lt/portal/lt/legalAct/TAR.DC9F80442BD6) tikslingumo pagal Lietuvos Respublikos Konstitucijos, šio ir kitų įstatymų bei tarptautinės teisės reikalavimus priima Lietuvos Respublikos Prezidentas, Vyriausybė arba jos pavedimu ir nustatyta tvarka – Užsienio reikalų ministerija. ^s-289c60cf0ed4395df834ef2e
 
 
 2. Priimant sprendimą dėl Lietuvos Respublikos tarptautinės sutarties sudarymo tikslingumo turi būti apsvarstyta, ar šios sutarties projekto nuostatos atitinka Lietuvos Respublikos Konstituciją, Lietuvos Respublikos užsienio politikos ir nacionalinio saugumo pagrindus ir tikslus, šio įstatymo reikalavimus, tarptautinės teisės principus ir normas. ^s-3d22b94d546975079368218d
@@ -111,7 +111,7 @@ Lietuvos Respublikos tarptautinių sutarčių sudarymo iniciatyvos teisę turi L
 1. Turi būti ratifikuojamos šios Lietuvos Respublikos tarptautinės sutartys: ^s-bc43da124285faab63d14c70
 
 
-1) dėl Lietuvos Respublikos valstybės sienų nustatymo ir pakeitimo, išimtinės ekonominės zonos ir kontinentinio šelfo delimitavimo; ^s-2125f4d1beb9ff9b2f0b6674
+1) [dėl Lietuvos Respublikos valstybės sienų](https://e-tar.lt/portal/lt/legalAct/TAR.4B52331CFCA5) nustatymo ir pakeitimo, išimtinės ekonominės zonos ir kontinentinio šelfo delimitavimo; ^s-2125f4d1beb9ff9b2f0b6674
 
 
 2) dėl politinio bendradarbiavimo su užsienio valstybėmis, tarpusavio pagalbos, taip pat su valstybės gynyba susijusios gynybinio pobūdžio sutartys; ^s-cc673decff3daac098d5c652
@@ -155,7 +155,7 @@ Lietuvos Respublikos tarptautinių sutarčių sudarymo iniciatyvos teisę turi L
 ### 9 straipsnis. Lietuvos Respublikos tarptautinių sutarčių tvirtinimas ^s-a45ec9c3370cbf65f4059020
 
 
-1. Lietuvos Respublikos tarptautines sutartis, kurioms Lietuvos Respublikos Konstitucija ir šis įstatymas nenumato ratifikavimo procedūros, jeigu pačioje sutartyje nenumatyta kitaip, ir kurioms sudaryti įgaliojimai nebuvo išduoti šio įstatymo [[#^s-1b1b7b382dbdffa79b1be06a|6 straipsnio 2 dalyje]] nustatyta tvarka, tvirtina Lietuvos Respublikos Vyriausybė. ^s-c07d1a46143a425bcf7b34f7
+1. Lietuvos Respublikos tarptautines sutartis, kurioms [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) ir šis įstatymas nenumato ratifikavimo procedūros, jeigu pačioje sutartyje nenumatyta kitaip, ir kurioms sudaryti įgaliojimai nebuvo išduoti šio įstatymo [[#^s-1b1b7b382dbdffa79b1be06a|6 straipsnio 2 dalyje]] nustatyta tvarka, tvirtina Lietuvos Respublikos Vyriausybė. ^s-c07d1a46143a425bcf7b34f7
 
 
 2. Lietuvos Respublikos Vyriausybė tarptautinę sutartį tvirtina nutarimu. ^s-affd437375f8ad667173b442
@@ -247,7 +247,7 @@ Lietuvos Respublikos tarptautinės sutartys Užsienio reikalų ministerijos teik
 ### 18 straipsnis. Įstatymo „Dėl Lietuvos Respublikos tarptautinių sutarčių“ pripažinimas netekusiu galios ^s-042b258d2c670b4c31a96410
 
 
-Įsigaliojus šiam įstatymui, pripažinti netekusiu galios Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos tarptautinių sutarčių“ (Žin., 1991, Nr. 16-415; 1992, Nr. 30-915).
+Įsigaliojus šiam įstatymui, pripažinti netekusiu galios Lietuvos Respublikos įstatymą [„Dėl Lietuvos Respublikos tarptautinių sutarčių“](https://e-tar.lt/portal/lt/legalAct/TAR.BC4A20CEA4A8) (Žin., 1991, Nr. 16-415; 1992, Nr. 30-915).
 
 
 

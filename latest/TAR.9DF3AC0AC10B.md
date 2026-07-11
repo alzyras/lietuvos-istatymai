@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. 170 straipsnio papildymas ir pakeitimas ^s-1a257791e47b222cffebe9ed
 
 
-Papildyti 170 straipsnį nauja [[#^s-ba5ed3e1c00447f5027a85e5|1 dalimi]], buvusias 1, 2 ir [[#^s-4a3712519c4d6bcd0eb296dd|3 dalis]] laikyti atitinkamai 2, 3 ir [[#^s-1f30628b0e2f0c62a6fa4cd9|4 dalimis]], [[#^s-c60d3e7e0e6cbdafb0d7be25|2 dalyje]] vietoj žodžių „viešais pareiškimais žodžiu, raštu ar panaudodamas visuomenės informavimo priemonę“ įrašyti žodį „viešai“ ir visą straipsnį išdėstyti taip:
+Papildyti 170 straipsnį nauja [[#^s-ba5ed3e1c00447f5027a85e5|1 dalimi]], buvusias 1, 2 ir 3 dalis laikyti atitinkamai 2, 3 ir 4 dalimis, [[#^s-c60d3e7e0e6cbdafb0d7be25|2 dalyje]] vietoj žodžių „viešais pareiškimais žodžiu, raštu ar panaudodamas visuomenės informavimo priemonę“ įrašyti žodį „viešai“ ir visą straipsnį išdėstyti taip:
 
 
 

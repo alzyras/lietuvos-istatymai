@@ -64,7 +64,7 @@ BENDROSIOS NUOSTATOS
 3. Šis įstatymas netaikomas švietimo ir socialinėms paslaugoms, finansuojamoms iš valstybės ir savivaldybių biudžetų lėšų, asmens ir visuomenės sveikatos priežiūros paslaugoms, kurių išlaidos pagal įstatymus yra apmokamos (kompensuojamos) iš Privalomojo sveikatos draudimo fondo biudžeto, valstybės ar savivaldybių biudžetų lėšų, aprūpinimui vaistais, taip pat vykdant teismų sprendimus. ^s-a6c34ffb46a5ac3c24e242ce
 
 
-4. Tais atvejais, kai taikomas [[latest/TAR.C6C5599DD9A1#^s-bd1c44b8f8e3892bb6487b7b|Lietuvos Respublikos mokėjimų įstatymas, vietoj šio įstatymo 37 straipsnio 1 dalyje]] nustatytų informacijos reikalavimų, išskyrus šio įstatymo [[#^s-3ed05bae2f11d264aa0a7ec4|37 straipsnio 1 dalies]] 10–14, 16, 19 ir 23 punktus, taikomos [[latest/TAR.C6C5599DD9A1#^s-eb55e30789ad021221d1f186|Mokėjimų įstatymo 13 ir 20 straipsnių]] nuostatos. ^s-b6ae426051085e8f83ae611d
+4. Tais atvejais, kai taikomas [[latest/TAR.C6C5599DD9A1#^s-bd1c44b8f8e3892bb6487b7b|Lietuvos Respublikos mokėjimų įstatymas, vietoj šio įstatymo 37 straipsnio 1 dalyje nustatytų informacijos reikalavimų, išskyrus šio įstatymo 37 straipsnio 1 dalies]] [[latest/TAR.C6C5599DD9A1|10]]–[[latest/TAR.C6C5599DD9A1|14]], [[latest/TAR.C6C5599DD9A1|16]], [[latest/TAR.C6C5599DD9A1|19]] ir [[latest/TAR.C6C5599DD9A1|23]] punktus, taikomos [[latest/TAR.C6C5599DD9A1|Mokėjimų įstatymo]] [[latest/TAR.C6C5599DD9A1#^s-97f1100596be471d2cbd66a2|13]] ir [[latest/TAR.C6C5599DD9A1#^s-eb55e30789ad021221d1f186|20]] straipsnių nuostatos. ^s-b6ae426051085e8f83ae611d
 Straipsnio dalies pakeitimai:
 Nr. XII-2564, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20318
 Nr. XIII-1096, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06735
@@ -79,13 +79,13 @@ Nr. XI-562, 2009-12-10, Žin., 2009, Nr. 153-6900 (2009-12-28)
 ### 2 straipsnis. Pagrindinės šio įstatymo sąvokos ^s-302f53e42c7fe99e72a2cdd0
 
 
-1. Asmens duomenys – kaip apibrėžta 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). ^s-e7fb8719e91b63fddc8ff766
+1. Asmens duomenys – kaip apibrėžta 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas). ^s-e7fb8719e91b63fddc8ff766
 Papildyta straipsnio dalimi:
 Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
 
 
 
-11. Atnaujinimas – kaip apibrėžta 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamento (ES) 2024/1781, kuriuo nustatoma tvarių gaminių ekologinio projektavimo reikalavimų nustatymo sistema, iš dalies keičiami Direktyva (ES) 2020/1828 bei Reglamentas (ES) 2023/1542 ir panaikinama Direktyva 2009/125/EB, 2 straipsnio 18 punkte. ^s-77746212d3cb09abf33d4d16
+11. Atnaujinimas – kaip apibrėžta 2024 m. birželio 13 d. Europos Parlamento ir Tarybos [reglamento (ES) 2024/1781](https://eur-lex.europa.eu/eli/reg/2024/1781/oj), kuriuo nustatoma tvarių gaminių ekologinio projektavimo reikalavimų nustatymo sistema, iš dalies keičiami [Direktyva (ES) 2020/1828](https://eur-lex.europa.eu/eli/dir/2020/1828/oj) bei [Reglamentas (ES) 2023/1542](https://eur-lex.europa.eu/eli/reg/2023/1542/oj) ir panaikinama Direktyva 2009/125/EB, 2 straipsnio 18 punkte. ^s-77746212d3cb09abf33d4d16
 Papildyta straipsnio dalimi:
 Nr. XV-780, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05182
 
@@ -120,13 +120,13 @@ Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
 
 
 
-31. Įgaliotasis atstovas – kaip apibrėžta Reglamento (ES) 2024/1781 2 straipsnio 43 punkte. ^s-27882864367bf385432e47d2
+31. Įgaliotasis atstovas – kaip apibrėžta [Reglamento (ES) 2024/1781 2 straipsnio](https://eur-lex.europa.eu/eli/reg/2024/1781/art_2/oj) 43 punkte. ^s-27882864367bf385432e47d2
 Papildyta straipsnio dalimi:
 Nr. XV-780, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05182
 
 
 
-32. Importuotojas – kaip apibrėžta Reglamento (ES) 2024/1781 2 straipsnio 44 punkte. ^s-aa073e77bcea4191c298f531
+32. Importuotojas – kaip apibrėžta [Reglamento (ES) 2024/1781 2 straipsnio](https://eur-lex.europa.eu/eli/reg/2024/1781/art_2/oj) 44 punkte. ^s-aa073e77bcea4191c298f531
 Papildyta straipsnio dalimi:
 Nr. XV-780, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05182
 
@@ -178,7 +178,7 @@ Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
 
 
 
-101. Platintojas – kaip apibrėžta Reglamento (ES) 2024/1781 2 straipsnio 45 punkte. ^s-768887b43169e10c52a6d2e2
+101. Platintojas – kaip apibrėžta [Reglamento (ES) 2024/1781 2 straipsnio](https://eur-lex.europa.eu/eli/reg/2024/1781/art_2/oj) 45 punkte. ^s-768887b43169e10c52a6d2e2
 Papildyta straipsnio dalimi:
 Nr. XV-780, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05182
 
@@ -215,7 +215,7 @@ Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
 
 
 
-131. Taisymas – kaip apibrėžta Reglamento (ES) 2024/1781 2 straipsnio 20 punkte. ^s-445c765273ca13e397e21a37
+131. Taisymas – kaip apibrėžta [Reglamento (ES) 2024/1781 2 straipsnio](https://eur-lex.europa.eu/eli/reg/2024/1781/art_2/oj) 20 punkte. ^s-445c765273ca13e397e21a37
 Papildyta straipsnio dalimi:
 Nr. XV-780, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05182
 
@@ -264,7 +264,7 @@ Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
 
 
 
-18. Vartojimo ginčų neteisminio sprendimo procedūra – vartojimo ginčų sprendimas ne teismo tvarka, kai vartojimo ginčą pagal šio įstatymo 222–[[#^s-94b622471e8e575f437300d7|225 straipsniuose]] nustatytus reikalavimus sprendžia vartojimo ginčų neteisminio sprendimo subjektas. ^s-47f617024f2dcbf6d7194370
+18. Vartojimo ginčų neteisminio sprendimo procedūra – vartojimo ginčų sprendimas ne teismo tvarka, kai vartojimo ginčą pagal šio įstatymo [[#^s-94ea5c5187d7ff6503ed25e3|222]]–[[#^s-94b622471e8e575f437300d7|225]] straipsniuose nustatytus reikalavimus sprendžia vartojimo ginčų neteisminio sprendimo subjektas. ^s-47f617024f2dcbf6d7194370
 Papildyta straipsnio dalimi:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 Straipsnio dalies numeracijos pakeitimas:
@@ -415,7 +415,7 @@ Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 
 
 
-6. Įgyvendinant Europos Sąjungos teisės aktus, kituose įstatymuose gali būti nustatyti kitokie informacijos apie vartojimo ginčų neteisminio sprendimo procedūras pateikimo vartotojams reikalavimai, negu nustatyta šio straipsnio 4 ir [[#^s-5b9498ced9905349af42001b|5 dalyse]]. Tokiu atveju šio straipsnio 4 ir [[#^s-5b9498ced9905349af42001b|5 dalys]] taikomos tiek, kiek kitaip nenustatyta kituose įstatymuose. ^s-8b520ab2a9d3a0e317ae57ab
+6. Įgyvendinant Europos Sąjungos teisės aktus, kituose įstatymuose gali būti nustatyti kitokie informacijos apie vartojimo ginčų neteisminio sprendimo procedūras pateikimo vartotojams reikalavimai, negu nustatyta šio straipsnio [[#^s-7905ae09e7445f425479b594|4]] ir [[#^s-5b9498ced9905349af42001b|5]] dalyse. Tokiu atveju šio straipsnio [[#^s-7905ae09e7445f425479b594|4]] ir [[#^s-5b9498ced9905349af42001b|5]] dalys taikomos tiek, kiek kitaip nenustatyta kituose įstatymuose. ^s-8b520ab2a9d3a0e317ae57ab
 Papildyta straipsnio dalimi:
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 
@@ -482,10 +482,10 @@ Pardavėjai ir paslaugų teikėjai, siūlydami įsigyti ir teikdami prekes ir pa
 7) skolos grąžinimo terminą ir galimas jos grąžinimo sąlygas; ^s-0b72a28386eca93e552f6616
 
 
-8) asmens duomenų tvarkymą pagal Reglamento (ES) 2016/679 [[#^s-ac9a37799102356569720e70|14 straipsnį]] šio reglamento nustatyta tvarka. ^s-01c3e85ccb7df6d85b105931
+8) asmens duomenų tvarkymą pagal [Reglamento (ES) 2016/679 14 straipsnį](https://eur-lex.europa.eu/eli/reg/2016/679/art_14/oj) šio reglamento nustatyta tvarka. ^s-01c3e85ccb7df6d85b105931
 
 
-4. Šio straipsnio 1–[[#^s-07ebb8508e17a15f15e09dfc|3 dalyse]] nustatyti vartotojų informavimo reikalavimai taikomi mutatis mutandis ir įvykus reikalavimo teisės, kylančios iš vartojimo sutarties, perleidimui, jeigu kiti įstatymai, įgyvendinantys Europos Sąjungos teisės aktus, nenustato kitokių vartotojų informavimo reikalavimų. ^s-30cddeb37c8a4798ca1f0828
+4. Šio straipsnio [[#^s-f46cb765ae63683118bfbd47|1]]–[[#^s-07ebb8508e17a15f15e09dfc|3]] dalyse nustatyti vartotojų informavimo reikalavimai taikomi mutatis mutandis ir įvykus reikalavimo teisės, kylančios iš vartojimo sutarties, perleidimui, jeigu kiti įstatymai, įgyvendinantys Europos Sąjungos teisės aktus, nenustato kitokių vartotojų informavimo reikalavimų. ^s-30cddeb37c8a4798ca1f0828
 
 
 5. Pardavėjai ir (ar) paslaugų teikėjai, taip pat skolų išieškojimo paslaugų teikėjai, išieškodami ne teismo tvarka skolas iš vartotojų, turi: ^s-32e7d0e3a85a2ba5ee3ef844
@@ -706,10 +706,10 @@ Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
 10) kuria ir tvarko vartotojų teisių apsaugos duomenų bazę; ^s-e07d7b408b151c96b840caa0
 
 
-11) keičiasi informacija apie pavojingus gaminius ir rinkos priežiūrą Reglamento (ES) 2023/988 nustatyta tvarka, taip pat savo interneto svetainėje skelbia apie pavojingus ne maisto produktus ir rinkos ribojimo priemonių taikymą; ^s-f90fb4172d389901d9b87aad
+11) keičiasi informacija apie pavojingus gaminius ir rinkos priežiūrą [Reglamento (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) nustatyta tvarka, taip pat savo interneto svetainėje skelbia apie pavojingus ne maisto produktus ir rinkos ribojimo priemonių taikymą; ^s-f90fb4172d389901d9b87aad
 
 
-12) įgyvendina Reglamentą (ES) 2017/2394; ^s-c7cade1d621f6c9586c2d588
+12) įgyvendina [Reglamentą (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj); ^s-c7cade1d621f6c9586c2d588
 Straipsnio punkto pakeitimai:
 Nr. XV-780, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05182
 
@@ -721,7 +721,7 @@ Nr. XV-780, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05182
 14) organizuoja vartotojų nuomonių, elgsenos, prekių ir paslaugų kainų bei kitus tyrimus; ^s-49c38d4b5cf4f7e632a27bc3
 
 
-15) atlieka nacionalinio kontaktinio punkto, atsakingo už nacionalinės skilties administravimą Europos internetinėje taisymo platformoje, įsteigtoje pagal Direktyvą (ES) 2024/1799, funkcijas ir nustato nacionalinės skilties administravimo tvarką; ^s-c9a5fd99a62b82e6c9ebcbea
+15) atlieka nacionalinio kontaktinio punkto, atsakingo už nacionalinės skilties administravimą Europos internetinėje taisymo platformoje, įsteigtoje pagal [Direktyvą (ES) 2024/1799](https://eur-lex.europa.eu/eli/dir/2024/1799/oj), funkcijas ir nustato nacionalinės skilties administravimo tvarką; ^s-c9a5fd99a62b82e6c9ebcbea
 Papildyta straipsnio punktu:
 Nr. XV-780, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05182
 
@@ -868,7 +868,7 @@ Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
 5) nėra priimtas sprendimas dėl šios vartotojų asociacijos nemokumo bylos iškėlimo ir (ar) sprendimas dėl jos, kaip juridinio asmens, likvidavimo dėl bankroto pagal Juridinių asmenų nemokumo įstatymą; ^s-db938f44e61be4720038fbeb
 
 
-6) jos interneto svetainėje yra paskelbta aiški ir suprantama informacija apie šios vartotojų asociacijos atitiktį šios dalies 1–[[#^s-db938f44e61be4720038fbeb|5 punktuose]] nustatytoms sąlygoms, finansavimo šaltinius, organizacinę, valdymo ir narystės struktūrą, įstatuose nurodytus veiklos tikslus ir veiklos ataskaitos. ^s-197da107f2111145e315b93f
+6) jos interneto svetainėje yra paskelbta aiški ir suprantama informacija apie šios vartotojų asociacijos atitiktį šios dalies [[#^s-d188e9eae26f77d762271aac|1]]–[[#^s-db938f44e61be4720038fbeb|5]] punktuose nustatytoms sąlygoms, finansavimo šaltinius, organizacinę, valdymo ir narystės struktūrą, įstatuose nurodytus veiklos tikslus ir veiklos ataskaitos. ^s-197da107f2111145e315b93f
 
 
 Straipsnio dalies pakeitimai:
@@ -1057,7 +1057,7 @@ Nr. XIII-1975, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03174
 5) Lietuvos advokatūros advokatų taryba ar jos sudarytas organas – vartotojų ir advokatų ginčus dėl teisinių paslaugų; ^s-e65c604e7b1c526b124e7021
 
 
-6) Valstybinė vartotojų teisių apsaugos tarnyba – ginčus kitose, [[#^s-c126d6f3496fb97ef00b8dfc|šio straipsnio 1 dalies]] 1–[[#^s-e65c604e7b1c526b124e7021|5 punktuose]] nenurodytose, vartotojų teisių apsaugos srityse. ^s-cc37e06f0691c5f0abcfd664
+6) Valstybinė vartotojų teisių apsaugos tarnyba – ginčus kitose, [[#^s-c126d6f3496fb97ef00b8dfc|šio straipsnio 1 dalies]] [[#^s-d058ef616e767ea3ae12f45e|1]]–[[#^s-e65c604e7b1c526b124e7021|5]] punktuose nenurodytose, vartotojų teisių apsaugos srityse. ^s-cc37e06f0691c5f0abcfd664
 
 
 2. Nagrinėdamos vartojimo ginčus, vartojimo ginčus nagrinėjančios institucijos turi teisę: ^s-ac6486435294318e87a7979a
@@ -1108,7 +1108,7 @@ Nr. XV-780, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05182
 
 
 
-5. Šio įstatymo 23–[[#^s-f6ed18a6935373d86d732a5e|29 straipsniai]] taikomi tik vartojimo ginčus nagrinėjančioms institucijoms. ^s-68afedb5ff066b1fd0035543
+5. Šio įstatymo [[#^s-94d6ad3500ba87c5c4ef855c|23]]–[[#^s-f6ed18a6935373d86d732a5e|29]] straipsniai taikomi tik vartojimo ginčus nagrinėjančioms institucijoms. ^s-68afedb5ff066b1fd0035543
 
 
 6. Vartojimo ginčus nagrinėjančios institucijos nagrinėja visus vartotojų reikalavimus, kylančius iš vartojimo teisinių santykių, dėl kurių gali būti sprendžiama teisme, įskaitant turtinės ir (ar) neturtinės žalos atlyginimo, taip pat netesybų klausimus. Sprendžiant turtinės ir (ar) neturtinės žalos atlyginimo klausimus, taikomos Civilinio kodekso nuostatos dėl civilinės atsakomybės. ^s-f159e845bc1687cd66972048
@@ -1146,7 +1146,7 @@ Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
 3. Vartojimo ginčų komisijos nariai privalo dalyvauti komisijos posėdžiuose. Jeigu vartojimo ginčų komisijos narys (nariai) neatvyksta į posėdį, komisijos pirmininkas savo nuožiūra sprendžia, ar atidėti posėdį, ar nagrinėti ginčą iš esmės. ^s-35e6afbda51b424b6ae95b67
 
 
-4. [[#^s-7116845949297aace1179d5c|Šio straipsnio 2 dalies]] 2 ir 3 punktuose nurodyti vartojimo ginčų komisijos nariai atleidžiami nuo darbo pareigų atlikimo laikotarpiu, kuriuo jie dalyvauja vartojimo ginčų komisijos darbe. Vartojimo ginčų komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių darbo apmokėjimo įstatymo nustatyta tvarka, o kelionės išlaidos – vartojimo ginčų komisijų nuostatuose nustatyta tvarka. ^s-64da72b236a3ceedc226727f
+4. [[#^s-7116845949297aace1179d5c|Šio straipsnio 2 dalies]] 2 ir 3 punktuose nurodyti vartojimo ginčų komisijos nariai atleidžiami nuo darbo pareigų atlikimo laikotarpiu, kuriuo jie dalyvauja vartojimo ginčų komisijos darbe. Vartojimo ginčų komisijos narių darbas apmokamas Lietuvos Respublikos valstybės ir savivaldybių įstaigų darbuotojų ir komisijų narių [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka, o kelionės išlaidos – vartojimo ginčų komisijų nuostatuose nustatyta tvarka. ^s-64da72b236a3ceedc226727f
 Straipsnio dalies pakeitimai:
 Nr. XIII-1744, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20717
 
@@ -1155,7 +1155,7 @@ Nr. XIII-1744, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20717
 5. Vartojimo ginčų komisijos sprendimas dėl ginčo esmės priimamas balsų dauguma. Priimant sprendimą dėl ginčo esmės, dalyvauja tik vartojimo ginčų komisijos nariai. Komisijos narys, nesutinkantis su sprendimu dėl ginčo esmės, gali pareikšti atskirąją nuomonę. Kai į posėdį neatvyksta vartojimo ginčų komisijos narys (nariai) ir vartojimo ginčų komisijos pirmininkas priima sprendimą nagrinėti ginčą iš esmės, sprendimą dėl ginčo esmės priima ginčą nagrinėjantys vartojimo ginčų komisijos nariai. Jeigu ginčą nagrinėja du vartojimo ginčų komisijos nariai ir jų nuomonės išsiskiria arba ginčą nagrinėja tik vartojimo ginčų komisijos pirmininkas, sprendimą priima vartojimo ginčų komisijos pirmininkas savo nuožiūra. ^s-a57d09118d5464d01f7e76de
 
 
-6. Vartojimo ginčų komisijos nariams mutatis mutandis taikomi Civilinio proceso kodekse nustatyti nušalinimo pagrindai ir tvarka. ^s-60d16370a314f47ec88c6779
+6. Vartojimo ginčų komisijos nariams mutatis mutandis taikomi [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyti nušalinimo pagrindai ir tvarka. ^s-60d16370a314f47ec88c6779
 
 
 7. Valstybinė vartotojų teisių apsaugos tarnyba užtikrina vartojimo ginčų komisijų veiklos sąlygas ir šias komisijas techniškai aptarnauja. ^s-dfe77406ae7cdc31a4b0926f
@@ -1555,7 +1555,7 @@ Vartojimo ginčus nagrinėjanti institucija nutraukia ginčo nagrinėjimą šiai
 3) viena iš ginčo šalių dėl nagrinėjamo ginčo kreipiasi į bendrosios kompetencijos teismą; ^s-9dde7e69409c81e965a5d91c
 
 
-4) paaiškėja šio įstatymo [[#^s-c5f0cf4c06c015785d3bb7fa|233 straipsnio 1 dalies]] 1–4 ar 8 punkte nurodytos aplinkybės arba paaiškėja, kad ginčas nėra vartojimo ginčas; ^s-214cf3ee3defe0c0221401da
+4) paaiškėja šio įstatymo [[#^s-c5f0cf4c06c015785d3bb7fa|233 straipsnio 1 dalies]] [[#^s-6a2168eef7bf250fd08d9800|1]]–[[#^s-3d856b8bce8a2430a412897c|4]] ar [[#^s-5bada52aee96754ee4cfaf21|8]] punkte nurodytos aplinkybės arba paaiškėja, kad ginčas nėra vartojimo ginčas; ^s-214cf3ee3defe0c0221401da
 
 
 5) vartotojas atsisako savo reikalavimų; ^s-fe27cb49b5e34602bf3a6093
@@ -1616,7 +1616,7 @@ Vartojimo ginčus nagrinėjanti institucija nutraukia ginčo nagrinėjimą šiai
 10) ginčo šalių teisė kreiptis į teismą dėl to paties ginčo dalyko; ^s-79093cedb96ebbb71b670862
 
 
-11) ginčo šalių pareiga pranešti vartojimo ginčus nagrinėjančiai institucijai, kai pareiškiamas ieškinys bendrosios kompetencijos teisme prašant nagrinėti ginčą iš esmės, taip pat pardavėjo ar paslaugų teikėjo pareiga per nustatytą terminą pranešti vartojimo ginčus nagrinėjančiai institucijai apie sprendimo įvykdymą arba neįvykdymą, kai priimamas [[#^s-ad438d8d1b89ec6045d2553d|šio straipsnio 1 dalies]] 1 ar [[#^s-96057d5287053de37d196788|2 punkte]] nurodytas sprendimas. ^s-8d076923204ef915e3d86ffd
+11) ginčo šalių pareiga pranešti vartojimo ginčus nagrinėjančiai institucijai, kai pareiškiamas ieškinys bendrosios kompetencijos teisme prašant nagrinėti ginčą iš esmės, taip pat pardavėjo ar paslaugų teikėjo pareiga per nustatytą terminą pranešti vartojimo ginčus nagrinėjančiai institucijai apie sprendimo įvykdymą arba neįvykdymą, kai priimamas [[#^s-ad438d8d1b89ec6045d2553d|šio straipsnio 1 dalies]] [[#^s-eed61103ea118581bb5000cf|1]] ar [[#^s-96057d5287053de37d196788|2]] punkte nurodytas sprendimas. ^s-8d076923204ef915e3d86ffd
 Papildyta straipsnio punktu:
 Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 
@@ -1631,7 +1631,7 @@ Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 2) dėl vartotojo patirtų išlaidų, susijusių su vartojimo ginčų neteisminio sprendimo procedūra (įrodymų surinkimo išlaidų, įskaitant būtinas ekspertizės ar laboratorinių tyrimų išlaidas, išlaidų advokato ar advokato padėjėjo pagalbai apmokėti, vertimo išlaidų), atlyginimo proporcingai patenkintų vartotojo reikalavimų daliai; ^s-2c2ba4a2248fd276da43fb48
 
 
-3) dėl vartojimo ginčus nagrinėjančios institucijos patirtų ginčo nagrinėjimo išlaidų atlyginimo. Pardavėjas, paslaugų teikėjas turi atlyginti vartojimo ginčus nagrinėjančios institucijos patirtas ginčo nagrinėjimo išlaidas proporcingai patenkintų vartotojo reikalavimų daliai, kai priimamas [[#^s-ad438d8d1b89ec6045d2553d|šio straipsnio 1 dalies]] 1 ar [[#^s-2c2ba4a2248fd276da43fb48|2 punkte]] nurodytas sprendimas. Šių išlaidų dydį nustato vartojimo ginčus nagrinėjanti institucija pagal vartojimo ginčų neteisminio sprendimo procedūros taisyklėse nurodytų vartojimo ginčų neteisminio sprendimo procedūros veiksmų atlikimo vidutines sąnaudas. Negali būti reikalaujama iš vartotojo atlyginti vartojimo ginčus nagrinėjančios institucijos patirtas ginčo nagrinėjimo išlaidas. ^s-4f93c90bbae44056f7c6d6c4
+3) dėl vartojimo ginčus nagrinėjančios institucijos patirtų ginčo nagrinėjimo išlaidų atlyginimo. Pardavėjas, paslaugų teikėjas turi atlyginti vartojimo ginčus nagrinėjančios institucijos patirtas ginčo nagrinėjimo išlaidas proporcingai patenkintų vartotojo reikalavimų daliai, kai priimamas [[#^s-ad438d8d1b89ec6045d2553d|šio straipsnio 1 dalies]] [[#^s-5c29e35c91ac43bbc42c2b09|1]] ar [[#^s-2c2ba4a2248fd276da43fb48|2]] punkte nurodytas sprendimas. Šių išlaidų dydį nustato vartojimo ginčus nagrinėjanti institucija pagal vartojimo ginčų neteisminio sprendimo procedūros taisyklėse nurodytų vartojimo ginčų neteisminio sprendimo procedūros veiksmų atlikimo vidutines sąnaudas. Negali būti reikalaujama iš vartotojo atlyginti vartojimo ginčus nagrinėjančios institucijos patirtas ginčo nagrinėjimo išlaidas. ^s-4f93c90bbae44056f7c6d6c4
 
 
 Straipsnio dalies pakeitimai:
@@ -1649,10 +1649,10 @@ Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 ### 28 straipsnis. Vartojimo ginčus nagrinėjančios institucijos sprendimo įsigaliojimas ir vykdymas ^s-58d41cb4b5824f98103b1ea5
 
 
-1. Vartojimo ginčus nagrinėjančios institucijos sprendimas įsigalioja ir yra privalomas vykdyti, jeigu nė viena ginčo šalis per 30 dienų nuo vartojimo ginčus nagrinėjančios institucijos sprendimo dėl ginčo esmės priėmimo nepareiškia ieškinio bendrosios kompetencijos teisme Civilinio proceso kodekso nustatyta tvarka, prašydama nagrinėti ginčą iš esmės. ^s-332b85a0a2451d5835177d7f
+1. Vartojimo ginčus nagrinėjančios institucijos sprendimas įsigalioja ir yra privalomas vykdyti, jeigu nė viena ginčo šalis per 30 dienų nuo vartojimo ginčus nagrinėjančios institucijos sprendimo dėl ginčo esmės priėmimo nepareiškia ieškinio bendrosios kompetencijos teisme [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka, prašydama nagrinėti ginčą iš esmės. ^s-332b85a0a2451d5835177d7f
 
 
-2. Įsigaliojęs vartojimo ginčus nagrinėjančios institucijos sprendimas yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas, jis gali būti vykdomas priverstinai Civilinio proceso kodekso nustatyta tvarka. ^s-2e1604fea30859061a4b4692
+2. Įsigaliojęs vartojimo ginčus nagrinėjančios institucijos sprendimas yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas, jis gali būti vykdomas priverstinai [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-2e1604fea30859061a4b4692
 
 
 3. Kiti įstatymai gali nustatyti kitokias vartojimo ginčus nagrinėjančios institucijos sprendimo įsigaliojimo ir vykdymo taisykles, negu nustatyta šiame straipsnyje. ^s-04d563ed124d686320ee1513
@@ -1667,7 +1667,7 @@ Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 ### 29 straipsnis. Kreipimasis į bendrosios kompetencijos teismą ^s-f6ed18a6935373d86d732a5e
 
 
-1. Vartotojo kreipimasis į vartojimo ginčus nagrinėjančią instituciją neatima iš vartotojo teisės kreiptis į bendrosios kompetencijos teismą Civilinio proceso kodekso nustatyta tvarka su prašymu nagrinėti ginčą iš esmės. ^s-5b1e6ff7297d99471127ca99
+1. Vartotojo kreipimasis į vartojimo ginčus nagrinėjančią instituciją neatima iš vartotojo teisės kreiptis į bendrosios kompetencijos teismą [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka su prašymu nagrinėti ginčą iš esmės. ^s-5b1e6ff7297d99471127ca99
 
 
 2. Kreipimasis į teismą po vartojimo ginčus nagrinėjančios institucijos sprendimo dėl ginčo esmės priėmimo nelaikomas šios institucijos sprendimo apskundimu. ^s-f5d485489273ddc54714d669
@@ -1705,7 +1705,7 @@ Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 2) sprendimą priima toks pat vartotojų asociacijų ir verslininkus vienijančių asociacijų paskirtų (pasiūlytų) asmenų skaičius, kai vartojimo ginčas nagrinėjamas ir sprendimas dėl jo priimamas kolegialiai; ^s-aae0c42a1fcc11aa54e62cbd
 
 
-3) vartojimo ginčų neteisminio sprendimo subjektas atitinka šio įstatymo [[#^s-75a4654114dcf4fec7ea6b34|22 straipsnio 3 dalyje]], 222, 223, 224 ir [[#^s-94b622471e8e575f437300d7|225 straipsniuose]] nustatytus reikalavimus. ^s-8c5b13378ca74ceea5fe4d91
+3) vartojimo ginčų neteisminio sprendimo subjektas atitinka šio įstatymo [[#^s-75a4654114dcf4fec7ea6b34|22 straipsnio 3 dalyje]], [[#^s-94ea5c5187d7ff6503ed25e3|222]], [[#^s-ae1e91e896ea06b8deec6f72|223]], [[#^s-329b5fe61c8f8ff73aad97a8|224]] ir [[#^s-94b622471e8e575f437300d7|225]] straipsniuose nustatytus reikalavimus. ^s-8c5b13378ca74ceea5fe4d91
 
 
 4. Teisingumo ministerija įvertina, ar vartojimo ginčų neteisminio sprendimo subjektai, kurie pateikė informaciją pagal [[#^s-ac896d760a32ded593010536|šio straipsnio 3 dalį]], atitinka šio įstatymo nustatytus reikalavimus. ^s-3486b8944944cdc5bb6f1dbc
@@ -1714,7 +1714,7 @@ Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 5. Kas dvejus metus vartojimo ginčų neteisminio sprendimo subjektai privalo teisingumo ministro nustatyta tvarka pateikti Teisingumo ministerijai savo veiklos, susijusios su vartojimo ginčų neteisminiu sprendimu, ataskaitas. ^s-0cacd65487282e811dba57aa
 
 
-6. Teisingumo ministerija vartojimo ginčų neteisminio sprendimo subjektų sąrašą ir kitą informaciją apie Europos Parlamento ir Tarybos 2013 m. gegužės 21 d. direktyvos 2013/11/ES dėl alternatyvaus vartotojų ginčų sprendimo, kuria iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB, įgyvendinimą pateikia Europos Komisijai. Teisingumo ministerija informuoja Europos Komisiją apie vartojimo ginčų neteisminio sprendimo subjektų sąrašo pakeitimus. ^s-73b55d7d2397a3375d92eccd
+6. Teisingumo ministerija vartojimo ginčų neteisminio sprendimo subjektų sąrašą ir kitą informaciją apie Europos Parlamento ir Tarybos 2013 m. gegužės 21 d. direktyvos 2013/11/ES dėl alternatyvaus vartotojų ginčų sprendimo, kuria iš dalies keičiamas [Reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) ir Direktyva 2009/22/EB, įgyvendinimą pateikia Europos Komisijai. Teisingumo ministerija informuoja Europos Komisiją apie vartojimo ginčų neteisminio sprendimo subjektų sąrašo pakeitimus. ^s-73b55d7d2397a3375d92eccd
 
 
 7. Kai vartojimo ginčų neteisminio sprendimo subjektas, įrašytas į vartojimo ginčų neteisminio sprendimo subjektų sąrašą, neatitinka šio įstatymo reikalavimų, Teisingumo ministerija apie tai praneša šiam subjektui ir nurodo reikalavimus, kurių jis neatitinka. Jeigu vartojimo ginčų neteisminio sprendimo subjektas, išskyrus šio įstatymo [[#^s-c126d6f3496fb97ef00b8dfc|22 straipsnio 1 dalyje]] nurodytas vartojimo ginčus nagrinėjančias institucijas, nurodytų trūkumų nepašalina per 3 mėnesius nuo pranešimo gavimo, Teisingumo ministerija išbraukia šį subjektą iš vartojimo ginčų neteisminio sprendimo subjektų sąrašo. Tokiu atveju iš vartojimo ginčų neteisminio sprendimo subjektų sąrašo išbrauktas subjektas nebaigtus nagrinėti vartojimo ginčus perduoda Valstybinei vartotojų teisių apsaugos tarnybai, o šio subjekto sprendimai dėl ginčo esmės, priimti iki subjekto išbraukimo iš vartojimo ginčų neteisminio sprendimo subjektų sąrašo, vykdomi teisės aktų nustatyta tvarka. ^s-59290a2c5402a43e1a247052
@@ -1782,7 +1782,7 @@ Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 ### 294 straipsnis. Administracinis bendradarbiavimas ^s-1143e4bbd5cc8ba71a0dd49c
 
 
-Vartojimo ginčų neteisminio sprendimo subjektai ir institucijos, įgyvendinančios Reglamentą (ES) 2017/2394, keičiasi informacija ir bendradarbiauja teisingumo ministro nustatyta tvarka.
+Vartojimo ginčų neteisminio sprendimo subjektai ir institucijos, įgyvendinančios [Reglamentą (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj), keičiasi informacija ir bendradarbiauja teisingumo ministro nustatyta tvarka.
 
 
 Straipsnio pakeitimai:
@@ -1803,7 +1803,7 @@ VARTOTOJŲ VIEŠOJO INTERESO GYNIMAS
 ### 30 straipsnis. Vartotojų viešojo intereso gynimas ^s-b7ce89c9b3c2d212ecb77217
 
 
-1. Vartotojų viešasis interesas ginamas pareiškiant ieškinį dėl verslininko padaryto vartotojų apsaugos teisės aktų nuostatų pažeidimo, kuriuo daroma ar gali būti padaryta žala vartotojų kolektyviniams interesams, kai ieškinį vartotojų vardu pareiškia šio įstatymo [[#^s-a6f900cd2a2221f3888f09da|32 straipsnyje]] nurodytas subjektas kaip ieškovas. Ieškiniai dėl vartotojų viešojo intereso gynimo nagrinėjami Civilinio proceso kodekso nustatyta tvarka. ^s-cd51c2367111d4448d4d2862
+1. Vartotojų viešasis interesas ginamas pareiškiant ieškinį dėl verslininko padaryto vartotojų apsaugos teisės aktų nuostatų pažeidimo, kuriuo daroma ar gali būti padaryta žala vartotojų kolektyviniams interesams, kai ieškinį vartotojų vardu pareiškia šio įstatymo [[#^s-a6f900cd2a2221f3888f09da|32 straipsnyje]] nurodytas subjektas kaip ieškovas. Ieškiniai dėl vartotojų viešojo intereso gynimo nagrinėjami [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-cd51c2367111d4448d4d2862
 
 
 2. Ieškinių dėl vartotojų viešojo intereso gynimo dėl verslininkų padarytų Europos Sąjungos vartotojų apsaugos teisės aktų nuostatų, įskaitant perkeltąsias į nacionalinę teisę, pažeidimų, kuriais daroma ar gali būti padaryta žala vartotojų kolektyviniams interesams, kai ieškinius vartotojų vardu, siekdami verslininko veiksmų ar neveikimo nutraukimo, jų uždraudimo ir (ar) vartotojų teisių gynimo priemonių taikymo, pareiškia šio įstatymo [[#^s-a6f900cd2a2221f3888f09da|32 straipsnyje]] nurodyti subjektai kaip ieškovai, nagrinėjimo ypatumus nustato [[latest/TAR.68CC8934A031|Civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymas]]. Europos Sąjungos vartotojų apsaugos teisės aktų nuostatų sąrašą tvirtina teisingumo ministras. ^s-ed2c41aef414d0c3a87a2953
@@ -1832,7 +1832,7 @@ Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
 2) įgaliotoji vartotojų asociacija; ^s-1e7439a2b3b98de41fd90b14
 
 
-3) vartotojų interesams atstovaujanti organizacija, valstybės valdžios institucija ar kitas viešasis subjektas, kitos Europos Sąjungos valstybės narės paskirtas ieškiniams pareikšti pagal Direktyvą (ES) 2020/1828 ir Europos Komisijos nurodytas pagal šią direktyvą paskelbtame kompetentingų subjektų sąraše; ^s-bda782f8a1723836b8dee7aa
+3) vartotojų interesams atstovaujanti organizacija, valstybės valdžios institucija ar kitas viešasis subjektas, kitos Europos Sąjungos valstybės narės paskirtas ieškiniams pareikšti pagal [Direktyvą (ES) 2020/1828](https://eur-lex.europa.eu/eli/dir/2020/1828/oj) ir Europos Komisijos nurodytas pagal šią direktyvą paskelbtame kompetentingų subjektų sąraše; ^s-bda782f8a1723836b8dee7aa
 
 
 4) kituose Lietuvos Respublikos įstatymuose nustatyti subjektai. ^s-6325a7b4c798ac3398c340af
@@ -1844,7 +1844,7 @@ Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
 1) įgaliotoji vartotojų asociacija; ^s-1a9cd633c63f2060d7d44a59
 
 
-2) vartotojų interesams atstovaujanti organizacija, valstybės valdžios institucija ar kitas viešasis subjektas, kitos Europos Sąjungos valstybės narės paskirtas ieškiniams pareikšti pagal Direktyvą (ES) 2020/1828 ir Europos Komisijos nurodytas pagal šią direktyvą paskelbtame kompetentingų subjektų sąraše; ^s-b993cce439f9f993c609a767
+2) vartotojų interesams atstovaujanti organizacija, valstybės valdžios institucija ar kitas viešasis subjektas, kitos Europos Sąjungos valstybės narės paskirtas ieškiniams pareikšti pagal [Direktyvą (ES) 2020/1828](https://eur-lex.europa.eu/eli/dir/2020/1828/oj) ir Europos Komisijos nurodytas pagal šią direktyvą paskelbtame kompetentingų subjektų sąraše; ^s-b993cce439f9f993c609a767
 
 
 3) kituose Lietuvos Respublikos įstatymuose nustatyti subjektai. ^s-952ac200bc31458379746f16
@@ -1865,13 +1865,13 @@ Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
 1) Valstybinė vartotojų teisių apsaugos tarnyba; ^s-41985b4d9a8a88813a19b0b7
 
 
-2) įgaliotoji vartotojų asociacija, pateikusi Teisingumo ministerijai prašymą būti paskirta tokių ieškinių pareiškimo tikslais ir Europos Komisijos nurodyta pagal Direktyvą (ES) 2020/1828 paskelbtame kompetentingų subjektų sąraše. ^s-7bb667d4a5b2e2e78dcc7d74
+2) įgaliotoji vartotojų asociacija, pateikusi Teisingumo ministerijai prašymą būti paskirta tokių ieškinių pareiškimo tikslais ir Europos Komisijos nurodyta pagal [Direktyvą (ES) 2020/1828](https://eur-lex.europa.eu/eli/dir/2020/1828/oj) paskelbtame kompetentingų subjektų sąraše. ^s-7bb667d4a5b2e2e78dcc7d74
 
 
-2. Ieškinį dėl vartotojų kolektyvinių interesų gynimo su prašymu, kad kitos Europos Sąjungos valstybės narės teismas ar kita kompetentinga įstaiga priimtų sprendimą dėl vartotojų teisių gynimo priemonių taikymo, turi teisę pareikšti įgaliotoji vartotojų asociacija, pateikusi Teisingumo ministerijai prašymą būti paskirta tokių ieškinių pareiškimo tikslais ir Europos Komisijos nurodyta pagal Direktyvą (ES) 2020/1828 paskelbtame kompetentingų subjektų sąraše. ^s-335556af3471b0a15dad97e8
+2. Ieškinį dėl vartotojų kolektyvinių interesų gynimo su prašymu, kad kitos Europos Sąjungos valstybės narės teismas ar kita kompetentinga įstaiga priimtų sprendimą dėl vartotojų teisių gynimo priemonių taikymo, turi teisę pareikšti įgaliotoji vartotojų asociacija, pateikusi Teisingumo ministerijai prašymą būti paskirta tokių ieškinių pareiškimo tikslais ir Europos Komisijos nurodyta pagal [Direktyvą (ES) 2020/1828](https://eur-lex.europa.eu/eli/dir/2020/1828/oj) paskelbtame kompetentingų subjektų sąraše. ^s-335556af3471b0a15dad97e8
 
 
-3. Teisingumo ministerija teikia Europos Komisijai informaciją apie asmenis, turinčius teisę reikšti ieškinius pagal šį straipsnį, ir kitą Direktyvai (ES) 2020/1828 įgyvendinti reikalingą informaciją. ^s-19b7d9503008e82b6161d586
+3. Teisingumo ministerija teikia Europos Komisijai informaciją apie asmenis, turinčius teisę reikšti ieškinius pagal šį straipsnį, ir kitą [Direktyvai (ES) 2020/1828](https://eur-lex.europa.eu/eli/dir/2020/1828/oj) įgyvendinti reikalingą informaciją. ^s-19b7d9503008e82b6161d586
 
 
 Straipsnio pakeitimai:
@@ -1895,7 +1895,7 @@ Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
 3) šio įstatymo [[#^s-3c0f65631db8143861714340|33 straipsnyje]] nurodytų asmenų kitų Europos Sąjungos valstybių narių teismuose ir kitose kompetentingose įstaigose pareikštus ieškinius dėl vartotojų kolektyvinių interesų gynimo, jų nagrinėjimo eigą ir šių bylų rezultatus. ^s-90373da5d49e2b6605483fdb
 
 
-2. Šio įstatymo [[#^s-2f9bdbe17fe213d639a6471b|32 straipsnio 1 dalies]] 2, 3 ir 4 punktuose ir [[#^s-17f2d222238cbee6c1fe5666|2 dalyje]] nurodyti subjektai [[#^s-6a812f3b637aa384390ceb7b|šio straipsnio 1 dalies]] 2 ir 3 punktuose nurodytą informaciją: ^s-17f2d222238cbee6c1fe5666
+2. Šio įstatymo [[#^s-2f9bdbe17fe213d639a6471b|32 straipsnio 1 dalies]] [[#^s-1e7439a2b3b98de41fd90b14|2]], [[#^s-bda782f8a1723836b8dee7aa|3]] ir [[#^s-6325a7b4c798ac3398c340af|4]] punktuose ir 2 dalyje nurodyti subjektai [[#^s-6a812f3b637aa384390ceb7b|šio straipsnio 1 dalies]] [[#^s-1e7439a2b3b98de41fd90b14|2]] ir [[#^s-bda782f8a1723836b8dee7aa|3]] punktuose nurodytą informaciją: ^s-17f2d222238cbee6c1fe5666
 
 
 1) pateikia Valstybinei vartotojų teisių apsaugos tarnybai jos nustatyta tvarka; ^s-78ad966f6a9999fddaf83aee
@@ -2006,7 +2006,7 @@ Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
 13. [[#^s-361905cbe8c95b7f9f901ab6|Šio straipsnio 10 dalyje]] nurodyti Valstybinės vartotojų teisių apsaugos tarnybos nutarimai yra vieši ir skelbiami Valstybinės vartotojų teisių apsaugos tarnybos interneto svetainėje nepažeidžiant asmens duomenų apsaugos, komercinės, banko, profesinės ir kitų įstatymų saugomų paslapčių apsaugos reikalavimų, taip pat vartotojo teisės į privataus gyvenimo neliečiamumą. ^s-1b42903f3846f721683b3c19
 
 
-14. Suinteresuoti asmenys, nesutinkantys su Valstybinės vartotojų teisių apsaugos tarnybos nutarimais, priimtais dėl nesąžiningų sąlygų nustatymo išnagrinėjus vartojimo sutartis, turi teisę pareikšti ieškinį bendrosios kompetencijos teisme Civilinio proceso kodekso nustatyta tvarka. Kai ieškinį pareiškia pardavėjas ar paslaugų teikėjas, atsakovė yra Valstybinė vartotojų teisių apsaugos tarnyba. ^s-cf60b7d1ba39180131c1f355
+14. Suinteresuoti asmenys, nesutinkantys su Valstybinės vartotojų teisių apsaugos tarnybos nutarimais, priimtais dėl nesąžiningų sąlygų nustatymo išnagrinėjus vartojimo sutartis, turi teisę pareikšti ieškinį bendrosios kompetencijos teisme [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Kai ieškinį pareiškia pardavėjas ar paslaugų teikėjas, atsakovė yra Valstybinė vartotojų teisių apsaugos tarnyba. ^s-cf60b7d1ba39180131c1f355
 
 
 Papildyta straipsniu:
@@ -2045,13 +2045,13 @@ NUOTOLINIŲ SUTARČIŲ YPATUMAI
 1. Šio skirsnio nuostatos taikomos santykiams, kylantiems dėl finansinių paslaugų teikėjo ir vartotojo nuotolinių sutarčių. ^s-20c19025683dbcced4990845
 
 
-2. Kartu su šio skirsnio reikalavimais nuotolinėms sutartims taikomos Civilinio kodekso 6.2281, 6.2282, 6.2284 straipsnių, 6.2285 straipsnio 3 ir [[#^s-fc70dc90e8c3990b47b1a82b|5 dalių]], 6.2287 straipsnio 6 dalies, 6.2288 straipsnio 5 dalies, 6.22810 straipsnio 11–16 dalių, 6.22816 straipsnio ir [[latest/TAR.C6C5599DD9A1#^s-55a4f157ddd2d3442fc490ee|Mokėjimų įstatymo 11 straipsnio 4 dalies]] nuostatos. ^s-3265621750fc89930a653c92
+2. Kartu su šio skirsnio reikalavimais nuotolinėms sutartims taikomos Civilinio kodekso 6.2281, 6.2282, 6.2284 straipsnių, 6.2285 straipsnio 3 ir 5 dalių, 6.2287 straipsnio 6 dalies, 6.2288 straipsnio 5 dalies, 6.22810 straipsnio 11–16 dalių, 6.22816 straipsnio ir [[latest/TAR.C6C5599DD9A1#^s-55a4f157ddd2d3442fc490ee|Mokėjimų įstatymo 11 straipsnio 4 dalies]] nuostatos. ^s-3265621750fc89930a653c92
 
 
-3. Kai nuotolinę sutartį sudaro pradinė nuotolinė sutartis, kurią sudarius per tam tikrą laikotarpį atliekamos to paties pobūdžio viena po kitos einančių ar atskirų finansinių operacijų grupės, šio skirsnio ir kitos [[#^s-3265621750fc89930a653c92|šio straipsnio 2 dalyje]] nurodytų įstatymų straipsnių nuostatos, išskyrus Civilinio kodekso 6.2285 straipsnio 5 dalį, ir šio įstatymo [[#^s-2958369915332a18306589a4|40 straipsnio]] 1, 9, 11 ir 12 dalių nuostatos taikomos tik pradinei nuotolinei sutarčiai, o sudarius šią nuotolinę sutartį ateityje atliksimoms to paties pobūdžio viena po kitos einančių ar atskirų finansinių operacijų grupėms nurodytos nuostatos netaikomos. ^s-a6fdf6ac2ae678060359f1c9
+3. Kai nuotolinę sutartį sudaro pradinė nuotolinė sutartis, kurią sudarius per tam tikrą laikotarpį atliekamos to paties pobūdžio viena po kitos einančių ar atskirų finansinių operacijų grupės, šio skirsnio ir kitos [[#^s-3265621750fc89930a653c92|šio straipsnio 2 dalyje]] nurodytų įstatymų straipsnių nuostatos, išskyrus Civilinio kodekso 6.2285 straipsnio 5 dalį, ir šio įstatymo [[#^s-2958369915332a18306589a4|40 straipsnio]] [[#^s-528a5370bec6aa414ac60edf|1]], [[#^s-8c098de0dc510e9cf3620807|9]], [[#^s-e77a751690872d2ec156b03a|11]] ir [[#^s-46d80bd6bff6e1857a7c120e|12]] dalių nuostatos taikomos tik pradinei nuotolinei sutarčiai, o sudarius šią nuotolinę sutartį ateityje atliksimoms to paties pobūdžio viena po kitos einančių ar atskirų finansinių operacijų grupėms nurodytos nuostatos netaikomos. ^s-a6fdf6ac2ae678060359f1c9
 
 
-4. Kai pradinė nuotolinė sutartis nesudaroma, tačiau tos pačios nuotolinės sutarties šalys vėliau atlieka to paties pobūdžio vieną po kitos einančias ar atskiras finansines operacijas, šio įstatymo 37 ir [[#^s-c24aa7b7cc5c2adb06cc6472|39 straipsniai]] taikomi tik pirmajai operacijai. Tačiau jeigu ilgiau negu vienus metus to paties pobūdžio operacija neatliekama, kita operacija laikoma pirmąja finansinių operacijų grupės operacija ir jai taikomi šio įstatymo 37 ir [[#^s-c24aa7b7cc5c2adb06cc6472|39 straipsniuose]] nustatyti reikalavimai. ^s-b05ccf81d69e46c27c1a2f1d
+4. Kai pradinė nuotolinė sutartis nesudaroma, tačiau tos pačios nuotolinės sutarties šalys vėliau atlieka to paties pobūdžio vieną po kitos einančias ar atskiras finansines operacijas, šio įstatymo [[#^s-bae534f72448564f7f20582d|37]] ir [[#^s-c24aa7b7cc5c2adb06cc6472|39]] straipsniai taikomi tik pirmajai operacijai. Tačiau jeigu ilgiau negu vienus metus to paties pobūdžio operacija neatliekama, kita operacija laikoma pirmąja finansinių operacijų grupės operacija ir jai taikomi šio įstatymo [[#^s-bae534f72448564f7f20582d|37]] ir [[#^s-c24aa7b7cc5c2adb06cc6472|39]] straipsniuose nustatyti reikalavimai. ^s-b05ccf81d69e46c27c1a2f1d
 
 
 5. Vartotojai negali atsisakyti šiame skirsnyje jiems nustatytų teisių. ^s-fc70dc90e8c3990b47b1a82b
@@ -2124,7 +2124,7 @@ NUOTOLINIŲ SUTARČIŲ YPATUMAI
 18) informaciją apie šalių teises nutraukti nuotolinę sutartį prieš terminą arba vienašališkai, įskaitant nuotolinėje sutartyje nustatomas netesybas; ^s-4d3f827bec3a84f540c271b8
 
 
-19) praktinius nurodymus, susijusius su teise atsisakyti nuotolinės sutarties pagal šio įstatymo [[#^s-64d94d2f41492ea1cf0e3ab7|38 straipsnio]] 1–[[#^s-b5568e189c6961cd06feadcc|3 dalis]], įskaitant finansinių paslaugų teikėjo ryšio numerį, elektroninio pašto adresą arba kitas ryšio priemones, kuriomis turėtų būti siunčiamas pranešimas apie nuotolinės sutarties atsisakymą. Kai nuotolinė sutartis sudaroma naudojantis elektronine sąsaja, kaip ji apibrėžiama 2022 m. spalio 19 d. Europos Parlamento ir Tarybos reglamente (ES) 2022/2065 dėl bendrosios skaitmeninių paslaugų rinkos, kuriuo iš dalies keičiama Direktyva 2000/31/EB, (Skaitmeninių paslaugų akte), turi būti nurodoma informacija apie nuotolinės sutarties atsisakymo funkciją, nustatytą Civilinio kodekso 6.22810 straipsnio 11–15 dalyse, ir jos pateikimo vietą; ^s-c75daa718439e1b96572731d
+19) praktinius nurodymus, susijusius su teise atsisakyti nuotolinės sutarties pagal šio įstatymo [[#^s-64d94d2f41492ea1cf0e3ab7|38 straipsnio]] [[#^s-489438a842e4a6c0fc98ddad|1]]–[[#^s-4bccd97d01b5bfa713848818|3]] dalis, įskaitant finansinių paslaugų teikėjo ryšio numerį, elektroninio pašto adresą arba kitas ryšio priemones, kuriomis turėtų būti siunčiamas pranešimas apie nuotolinės sutarties atsisakymą. Kai nuotolinė sutartis sudaroma naudojantis elektronine sąsaja, kaip ji apibrėžiama 2022 m. spalio 19 d. Europos Parlamento ir Tarybos [reglamente (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj) dėl bendrosios skaitmeninių paslaugų rinkos, kuriuo iš dalies keičiama Direktyva 2000/31/EB, (Skaitmeninių paslaugų akte), turi būti nurodoma informacija apie nuotolinės sutarties atsisakymo funkciją, nustatytą Civilinio kodekso 6.22810 straipsnio 11–15 dalyse, ir jos pateikimo vietą; ^s-c75daa718439e1b96572731d
 
 
 20) nuotolinei sutarčiai taikomą teisę ir (ar) bylos, kai ginčas kyla iš nuotolinės sutarties, teismingumą; ^s-985d30b9a5f3f2f48c7cc602
@@ -2209,10 +2209,10 @@ NUOTOLINIŲ SUTARČIŲ YPATUMAI
 9. Pasinaudojęs teise atsisakyti nuotolinės sutarties, vartotojas nedelsdamas sumoka už faktiškai jam pagal šią sutartį finansinių paslaugų teikėjo suteiktą finansinę paslaugą. Mokėtina suma negali viršyti sumos, kuri yra proporcinga suteiktos finansinės paslaugos apimčiai, palyginti su visa nuotolinės sutarties apimtimi, ir neturi būti tokio dydžio, kad būtų laikoma sankcija. ^s-f80affe6ac64ab41e12b5389
 
 
-10. Vartotojas už faktiškai suteiktą finansinę paslaugą pagal [[#^s-f80affe6ac64ab41e12b5389|šio straipsnio 9 dalį]] moka, jeigu buvo tinkamai informuotas apie teisę atsisakyti nuotolinės sutarties pagal šio įstatymo [[#^s-60e09bb2b76b22b46c775f2c|37 straipsnio 1 dalies 16 punktą]]. Faktą, kad vartotojas buvo tinkamai informuotas, turi įrodyti finansinių paslaugų teikėjas. Finansinių paslaugų teikėjas negali reikalauti mokėti už suteiktą finansinę paslaugą, jeigu be išankstinio vartotojo prašymo pradėjo vykdyti nuotolinę sutartį nepasibaigus šio straipsnio 1 ar [[#^s-4bccd97d01b5bfa713848818|3 dalyje]] nustatytam nuotolinės sutarties atsisakymo terminui. ^s-5a0402f1c8d3a95ad2db20d6
+10. Vartotojas už faktiškai suteiktą finansinę paslaugą pagal [[#^s-f80affe6ac64ab41e12b5389|šio straipsnio 9 dalį]] moka, jeigu buvo tinkamai informuotas apie teisę atsisakyti nuotolinės sutarties pagal šio įstatymo [[#^s-60e09bb2b76b22b46c775f2c|37 straipsnio 1 dalies 16 punktą]]. Faktą, kad vartotojas buvo tinkamai informuotas, turi įrodyti finansinių paslaugų teikėjas. Finansinių paslaugų teikėjas negali reikalauti mokėti už suteiktą finansinę paslaugą, jeigu be išankstinio vartotojo prašymo pradėjo vykdyti nuotolinę sutartį nepasibaigus šio straipsnio [[#^s-489438a842e4a6c0fc98ddad|1]] ar [[#^s-4bccd97d01b5bfa713848818|3]] dalyje nustatytam nuotolinės sutarties atsisakymo terminui. ^s-5a0402f1c8d3a95ad2db20d6
 
 
-11. Finansinių paslaugų teikėjas nepagrįstai nedelsdamas ir ne vėliau kaip per 30 dienų nuo pranešimo apie nuotolinės sutarties atsisakymą gavimo dienos grąžina vartotojui pagal šią sutartį gautas sumas, išskyrus nurodytąsias [[#^s-f80affe6ac64ab41e12b5389|šio straipsnio 9 dalyje]]. Vartotojas, atsisakęs nuotolinės sutarties pagal šio straipsnio 1 ar [[#^s-4bccd97d01b5bfa713848818|3 dalį]], nepagrįstai nedelsdamas ir ne vėliau kaip per 30 dienų nuo pranešimo apie nuotolinės sutarties atsisakymą išsiuntimo dienos grąžina finansinių paslaugų teikėjui pagal šią sutartį gautas sumas. ^s-c5c0d936f2b53f2b7ff6da1b
+11. Finansinių paslaugų teikėjas nepagrįstai nedelsdamas ir ne vėliau kaip per 30 dienų nuo pranešimo apie nuotolinės sutarties atsisakymą gavimo dienos grąžina vartotojui pagal šią sutartį gautas sumas, išskyrus nurodytąsias [[#^s-f80affe6ac64ab41e12b5389|šio straipsnio 9 dalyje]]. Vartotojas, atsisakęs nuotolinės sutarties pagal šio straipsnio [[#^s-489438a842e4a6c0fc98ddad|1]] ar [[#^s-4bccd97d01b5bfa713848818|3]] dalį, nepagrįstai nedelsdamas ir ne vėliau kaip per 30 dienų nuo pranešimo apie nuotolinės sutarties atsisakymą išsiuntimo dienos grąžina finansinių paslaugų teikėjui pagal šią sutartį gautas sumas. ^s-c5c0d936f2b53f2b7ff6da1b
 
 
 12. Jeigu Europos Sąjungos teisės aktuose ar kituose Europos Sąjungos teisės aktų įgyvendinamuosiuose įstatymuose, reglamentuojančiuose konkrečias finansines paslaugas, nustatomos teisės atsisakyti sutarties taisyklės arba numatyta šios teisės alternatyva – apsisprendimo laikotarpis arba kitokia alternatyva, taikomos nurodytų kitų įstatymų ar Europos Sąjungos teisės aktų nuostatos, išskyrus atvejus, kai nurodytuose kituose įstatymuose ar Europos Sąjungos teisės aktuose nustatyta kitaip. ^s-da30fe3896ba103941a3a163
@@ -2253,7 +2253,7 @@ NUOTOLINIŲ SUTARČIŲ YPATUMAI
 ### 391 straipsnis. Papildoma vartotojų apsauga dėl elektroninių sąsajų ^s-50c15a76b2ff96f123724ac5
 
 
-Draudžiama finansinių paslaugų teikėjams kurti ir naudoti elektronines sąsajas, kaip jos apibrėžiamos Reglamente (ES) 2022/2065, nuotolinėms sutartims sudaryti taip, kad vartotojai būtų apgaunami, jais būtų manipuliuojama arba būtų kitaip iškraipomas ar silpninamas jų gebėjimas priimti laisvus ir informuotus sprendimus. Naudojant elektronines sąsajas, draudžiama:
+Draudžiama finansinių paslaugų teikėjams kurti ir naudoti elektronines sąsajas, kaip jos apibrėžiamos [Reglamente (ES) 2022/2065](https://eur-lex.europa.eu/eli/reg/2022/2065/oj), nuotolinėms sutartims sudaryti taip, kad vartotojai būtų apgaunami, jais būtų manipuliuojama arba būtų kitaip iškraipomas ar silpninamas jų gebėjimas priimti laisvus ir informuotus sprendimus. Naudojant elektronines sąsajas, draudžiama:
 
 
 1) labiau pabrėžti tam tikrus pasirinkimus, kai prašoma, kad vartotojas priimtų sprendimą; ^s-93109be9ac462a7cf377ed7f
@@ -2284,10 +2284,10 @@ PREKIŲ TAISYMAS
 2. Šio skirsnio nuostatos netaikomos šio įstatymo [[#^s-a451625d1fadc2f8bfa94fb5|2 straipsnio 12 dalies 2 punkte]] nurodytoms prekėms. ^s-dff042ecca9c8d1c9ebb51c4
 
 
-3. Šio įstatymo 394 ir [[#^s-5bc43e7579519c509ba46a8e|395 straipsniai]] taikomi tik toms prekėms, kurioms Direktyvos (ES) 2024/1799 II priede (su visais pakeitimais) nurodytuose Europos Sąjungos teisės aktuose nustatyti taisomumo reikalavimai, ir tik tokiu mastu, kokiu jie nustatyti. Šių Europos Sąjungos teisės aktų sąrašas skelbiamas viešai Valstybinės vartotojų teisių apsaugos tarnybos interneto svetainėje. ^s-ae74a33ddb4d9658936d8c6e
+3. Šio įstatymo [[#^s-89f62649e229fc9807bb1262|394]] ir [[#^s-5bc43e7579519c509ba46a8e|395]] straipsniai taikomi tik toms prekėms, kurioms [Direktyvos (ES) 2024/1799](https://eur-lex.europa.eu/eli/dir/2024/1799/oj) II priede (su visais pakeitimais) nurodytuose Europos Sąjungos teisės aktuose nustatyti taisomumo reikalavimai, ir tik tokiu mastu, kokiu jie nustatyti. Šių Europos Sąjungos teisės aktų sąrašas skelbiamas viešai Valstybinės vartotojų teisių apsaugos tarnybos interneto svetainėje. ^s-ae74a33ddb4d9658936d8c6e
 
 
-4. Šiame skirsnyje vartojama sąvoka „gamintojas“ suprantama taip, kaip apibrėžiama Reglamento (ES) 2024/1781 2 straipsnio 42 punkte. ^s-da135c9778ffe00c739b223d
+4. Šiame skirsnyje vartojama sąvoka „gamintojas“ suprantama taip, kaip apibrėžiama [Reglamento (ES) 2024/1781 2 straipsnio](https://eur-lex.europa.eu/eli/reg/2024/1781/art_2/oj) 42 punkte. ^s-da135c9778ffe00c739b223d
 
 
 
@@ -2345,7 +2345,7 @@ PREKIŲ TAISYMAS
 1) su pagrindinėmis taisymo paslaugos savybėmis susijusius informacijos pateikimo reikalavimus, nustatytus Civilinio kodekso 6.2286 straipsnio 1 dalies 1 punkte ir 6.2287 straipsnio 1 dalies 1 punkte, [[latest/TAR.28F4561D519F#^s-dd24c5b9c26e0cf6536fe48d|Lietuvos Respublikos paslaugų įstatymo 13 straipsnio 1 dalies 10 punkte]]; ^s-392662feb2ed3cd11400c6ea
 
 
-2) su taisytojo tapatybe ir kontaktine informacija susijusius informacijos pateikimo reikalavimus, nustatytus Civilinio kodekso 6.2286 straipsnio 1 dalies 2 punkte ir 6.2287 straipsnio 1 dalies 2 ir [[#^s-fdcb010d8745eadc7798a73a|3 punktuose]], [[latest/TAR.28F4561D519F#^s-442894e2cb8081ffc8362aa1|Paslaugų įstatymo 13 straipsnio 1 dalies 1 punkte]], [[latest/TAR.8A719A97956F#^s-6dd1db65b3910a68dfe1945a|Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo 6 straipsnio 1 dalies]] 1, 2 ir [[#^s-fdcb010d8745eadc7798a73a|3 punktuose]]; ^s-38d7773975e006175f9da644
+2) su taisytojo tapatybe ir kontaktine informacija susijusius informacijos pateikimo reikalavimus, nustatytus Civilinio kodekso 6.2286 straipsnio 1 dalies 2 punkte ir 6.2287 straipsnio 1 dalies 2 ir 3 punktuose, [[latest/TAR.28F4561D519F#^s-44fdaebe9ff192e593921add|Paslaugų įstatymo 13 straipsnio 1 dalies 1 punkte, Lietuvos Respublikos informacinės visuomenės paslaugų įstatymo 6 straipsnio 1 dalies]] [[latest/TAR.28F4561D519F#^s-faabffc036faacd0dd951524|1]], [[latest/TAR.28F4561D519F#^s-80d0e185fc05a782136e7502|2]] ir [[latest/TAR.28F4561D519F#^s-33db8e7333c34b6571fdb042|3]] punktuose; ^s-38d7773975e006175f9da644
 
 
 3) su kaina susijusius informacijos pateikimo reikalavimus, nustatytus Civilinio kodekso 6.2286 straipsnio 1 dalies 3 punkte ir 6.2287 straipsnio 1 dalies 4 punkte, [[latest/TAR.28F4561D519F#^s-b2191f2e81097aedfa3e39d1|Paslaugų įstatymo 13 straipsnio 1 dalies 9 punkte]] ir 3 [[#^s-392662feb2ed3cd11400c6ea|dalies 1 punkte]]; ^s-fdcb010d8745eadc7798a73a
@@ -2416,7 +2416,7 @@ Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
 ### 40 straipsnis. Atsakomybė už teisės aktų, reglamentuojančių vartotojų teisių apsaugą, pažeidimus ^s-2958369915332a18306589a4
 
 
-1. Valstybinė vartotojų teisių apsaugos tarnyba už Reglamento (ES) 2018/302 3, [[#^s-69db1b96521b87628fa30fe7|4 straipsniuose]] ir [[#^s-888926d62ebac440f9aeb0bb|5 straipsnio]] 1 ir [[#^s-e0cadcf9501e9cf55754f6ba|2 dalyse]], 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/1128 dėl internetinių turinio paslaugų tarpvalstybinio perkeliamumo vidaus rinkoje [[#^s-27241d4cc2f30e68e1159e76|3 straipsnyje]], Civilinio kodekso 6.2285 straipsnio 3 ir [[#^s-703639fd1538195845e9d0ea|5 dalyse]], 6.2286 straipsnio 1 dalyje, 6.2287 straipsnio 1 ir [[#^s-3a81bf4e4e990994d6657d95|6 dalyse]], 6.2288 straipsnio 2–[[#^s-3a81bf4e4e990994d6657d95|6 dalyse]], 6.2289 straipsnio 4 ir [[#^s-703639fd1538195845e9d0ea|5 dalyse]], 6.22810 straipsnio 1, 9–14 dalyse, 6.22811 straipsnio 2, 6–[[#^s-46d80bd6bff6e1857a7c120e|12 dalyse]], 6.22812 straipsnio 4 ir [[#^s-cd8a99ebd222ccb9a6d666fa|7 dalyse]], 6.22816 straipsnio 1 dalyje, 6.22820 straipsnio 2 ir [[#^s-f39158e9479e22d8aa42a13a|3 dalyse]], 6.22823 straipsnio 11, 12 ir 13 dalyse, 6.353 straipsnio 8 dalyje, 6.359, 6.3591 straipsniuose, 6.364 straipsnio 1 ir [[#^s-e0cadcf9501e9cf55754f6ba|2 dalyse]], 6.369 straipsnio 3, 7–13 dalyse, 6.370 straipsnio 4–[[#^s-8c098de0dc510e9cf3620807|9 dalyse]], taip pat šio įstatymo [[#^s-c340503dcf0c8f5304214c44|61 straipsnyje]], [[#^s-43b862d27458b492de1eb1f8|393 straipsnio]] 1–[[#^s-cc5b1ac471e93c142429fd57|4 dalyse]], 394, 395 ir [[#^s-c6c1f4816b63954a86aa901f|441 straipsniuose]] nurodytų reikalavimų (draudimų) nesilaikymą verslininkui gali skirti nuo penkių šimtų iki penkių tūkstančių eurų baudą. Valstybinė vartotojų teisių apsaugos tarnyba už šio įstatymo [[#^s-888926d62ebac440f9aeb0bb|5 straipsnio]] 3, 4 ir [[#^s-703639fd1538195845e9d0ea|5 dalyse]], [[#^s-ff9590e5300667915ab6da9d|21 straipsnio]] 2 ir [[#^s-f39158e9479e22d8aa42a13a|3 dalyse]] nurodytų reikalavimų nesilaikymą verslininkui gali skirti nuo dviejų šimtų penkiasdešimt iki dviejų tūkstančių penkių šimtų eurų baudą. ^s-528a5370bec6aa414ac60edf
+1. Valstybinė vartotojų teisių apsaugos tarnyba už [Reglamento (ES) 2018/302](https://eur-lex.europa.eu/eli/reg/2018/302/oj) [[#^s-27241d4cc2f30e68e1159e76|3]], [[#^s-69db1b96521b87628fa30fe7|4]] straipsniuose ir [[#^s-888926d62ebac440f9aeb0bb|5 straipsnio]] [[#^s-ecbd21f37f00a0109aa050e7|1]] ir [[#^s-efd9f0050474599e1f6d0994|2]] dalyse, 2017 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamento (ES) 2017/1128](https://eur-lex.europa.eu/eli/reg/2017/1128/oj) dėl internetinių turinio paslaugų tarpvalstybinio perkeliamumo vidaus rinkoje [[#^s-27241d4cc2f30e68e1159e76|3 straipsnyje]], Civilinio kodekso 6.2285 straipsnio 3 ir 5 dalyse, 6.2286 straipsnio 1 dalyje, 6.2287 straipsnio 1 ir 6 dalyse, 6.2288 straipsnio 2–6 dalyse, 6.2289 straipsnio 4 ir 5 dalyse, 6.22810 straipsnio 1, 9–14 dalyse, 6.22811 straipsnio 2, 6–12 dalyse, 6.22812 straipsnio 4 ir 7 dalyse, 6.22816 straipsnio 1 dalyje, 6.22820 straipsnio 2 ir 3 dalyse, 6.22823 straipsnio 11, 12 ir 13 dalyse, 6.353 straipsnio 8 dalyje, 6.359, 6.3591 straipsniuose, 6.364 straipsnio 1 ir 2 dalyse, 6.369 straipsnio 3, 7–13 dalyse, 6.370 straipsnio 4–9 dalyse, taip pat šio įstatymo [[#^s-c340503dcf0c8f5304214c44|61 straipsnyje]], [[#^s-43b862d27458b492de1eb1f8|393 straipsnio]] [[#^s-5dd98f27d645be06e65f04ab|1]]–[[#^s-6c03f833f58a0c851f93b20a|4]] dalyse, [[#^s-89f62649e229fc9807bb1262|394]], [[#^s-5bc43e7579519c509ba46a8e|395]] ir [[#^s-c6c1f4816b63954a86aa901f|441]] straipsniuose nurodytų reikalavimų (draudimų) nesilaikymą verslininkui gali skirti nuo penkių šimtų iki penkių tūkstančių eurų baudą. Valstybinė vartotojų teisių apsaugos tarnyba už šio įstatymo [[#^s-888926d62ebac440f9aeb0bb|5 straipsnio]] [[#^s-cbc8107ccac71c40ea6417da|3]], [[#^s-7905ae09e7445f425479b594|4]] ir [[#^s-5b9498ced9905349af42001b|5]] dalyse, [[#^s-ff9590e5300667915ab6da9d|21 straipsnio]] [[#^s-cc3dfac10753316df5036db3|2]] ir [[#^s-7c1925749024fa415fe65ceb|3]] dalyse nurodytų reikalavimų nesilaikymą verslininkui gali skirti nuo dviejų šimtų penkiasdešimt iki dviejų tūkstančių penkių šimtų eurų baudą. ^s-528a5370bec6aa414ac60edf
 Straipsnio dalies pakeitimai:
 Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 Nr. XIV-2749, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11255
@@ -2431,13 +2431,13 @@ Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 
 
 
-3. Tais atvejais, kai pažeidimu nepadaroma esminės žalos šio įstatymo saugomiems vartotojų interesams, Valstybinė vartotojų teisių apsaugos tarnyba, atsižvelgdama į byloje nustatytų aplinkybių visumą, vadovaudamasi teisingumo ir protingumo kriterijais, verslininkui už šio straipsnio 1 ir [[#^s-e0cadcf9501e9cf55754f6ba|2 dalyse]] nurodytą pažeidimą gali skirti nuobaudą – įspėjimą ir neskirti baudos. ^s-f39158e9479e22d8aa42a13a
+3. Tais atvejais, kai pažeidimu nepadaroma esminės žalos šio įstatymo saugomiems vartotojų interesams, Valstybinė vartotojų teisių apsaugos tarnyba, atsižvelgdama į byloje nustatytų aplinkybių visumą, vadovaudamasi teisingumo ir protingumo kriterijais, verslininkui už šio straipsnio [[#^s-528a5370bec6aa414ac60edf|1]] ir [[#^s-e0cadcf9501e9cf55754f6ba|2]] dalyse nurodytą pažeidimą gali skirti nuobaudą – įspėjimą ir neskirti baudos. ^s-f39158e9479e22d8aa42a13a
 Papildyta straipsnio dalimi:
 Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 
 
 
-4. Skiriant konkrečią baudą, atsižvelgiama į pažeidimo pobūdį, sunkumą, mastą ir trukmę, verslininko gautą finansinę naudą ar išvengtus nuostolius ir į šio straipsnio 5 ir [[#^s-3a81bf4e4e990994d6657d95|6 dalyse]] nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes. Skiriant baudą už [[#^s-528a5370bec6aa414ac60edf|šio straipsnio 1 dalyje]] nurodytus pažeidimus, baudos dydis nustatomas pagal baudos dydžio minimumo ir maksimumo vidurkį, atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidutinio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidutinio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas Valstybinės vartotojų teisių apsaugos tarnybos nutarime. Skiriant baudą už [[#^s-e0cadcf9501e9cf55754f6ba|šio straipsnio 2 dalyje]] nurodytus pažeidimus, baudos dydis nustatomas Vyriausybės nustatyta tvarka. ^s-cc5b1ac471e93c142429fd57
+4. Skiriant konkrečią baudą, atsižvelgiama į pažeidimo pobūdį, sunkumą, mastą ir trukmę, verslininko gautą finansinę naudą ar išvengtus nuostolius ir į šio straipsnio [[#^s-703639fd1538195845e9d0ea|5]] ir [[#^s-3a81bf4e4e990994d6657d95|6]] dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes. Skiriant baudą už [[#^s-528a5370bec6aa414ac60edf|šio straipsnio 1 dalyje]] nurodytus pažeidimus, baudos dydis nustatomas pagal baudos dydžio minimumo ir maksimumo vidurkį, atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidutinio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidutinio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas Valstybinės vartotojų teisių apsaugos tarnybos nutarime. Skiriant baudą už [[#^s-e0cadcf9501e9cf55754f6ba|šio straipsnio 2 dalyje]] nurodytus pažeidimus, baudos dydis nustatomas Vyriausybės nustatyta tvarka. ^s-cc5b1ac471e93c142429fd57
 Straipsnio dalies pakeitimai:
 Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
@@ -2479,7 +2479,7 @@ Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
 2) verslininkas, padaręs pažeidimą, slėpė padarytą pažeidimą; ^s-1ed1e18a706b5abc30d1fb2e
 
 
-3) verslininkas pakartotinai per trejus metus padarė pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, įspėjimas, išskyrus [[#^s-e0cadcf9501e9cf55754f6ba|šio straipsnio 2 dalyje]] nurodytus pažeidimus, arba jam už tą patį pažeidimą buvo skirta sankcija kitose Europos Sąjungos valstybėse narėse tarpvalstybinių pažeidimų atvejais, kai tokia informacija yra prieinama pagal Reglamentą (ES) 2017/2394. ^s-0edd32da1496b6d7e690dc45
+3) verslininkas pakartotinai per trejus metus padarė pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, įspėjimas, išskyrus [[#^s-e0cadcf9501e9cf55754f6ba|šio straipsnio 2 dalyje]] nurodytus pažeidimus, arba jam už tą patį pažeidimą buvo skirta sankcija kitose Europos Sąjungos valstybėse narėse tarpvalstybinių pažeidimų atvejais, kai tokia informacija yra prieinama pagal [Reglamentą (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj). ^s-0edd32da1496b6d7e690dc45
 
 
 Straipsnio dalies pakeitimai:
@@ -2500,7 +2500,7 @@ Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 
 
 
-9. Lietuvos bankas prižiūri, kaip [[latest/TAR.1B4D7B687895#^s-fe6a349c465836e50038f327|Lietuvos banko įstatymo 42 straipsnio 1 dalyje]] nurodyti prižiūrimi finansų rinkos dalyviai laikosi šio įstatymo aštuntojo skirsnio nuostatų, ir už šio įstatymo [[#^s-bae534f72448564f7f20582d|37 straipsnio]] 1–[[#^s-cd8a99ebd222ccb9a6d666fa|7 dalyse]], [[#^s-64d94d2f41492ea1cf0e3ab7|38 straipsnio]] 1–4 ir 6–[[#^s-e77a751690872d2ec156b03a|11 dalyse]], [[#^s-c24aa7b7cc5c2adb06cc6472|39 straipsnio]] 1–[[#^s-f39158e9479e22d8aa42a13a|3 dalyse]] ir [[#^s-50c15a76b2ff96f123724ac5|391 straipsnyje]] nurodytų reikalavimų (draudimų) nesilaikymą taiko prižiūrimiems finansų rinkos dalyviams poveikio priemones ir duoda privalomus nurodymus, vadovaudamasis [[latest/TAR.1B4D7B687895|Lietuvos banko įstatymu]] ir kitais finansų rinką reglamentuojančiais teisės aktais, kurių vykdymo priežiūra priskirta Lietuvos bankui. Valstybinė vartotojų teisių apsaugos tarnyba už šio įstatymo [[#^s-bae534f72448564f7f20582d|37 straipsnio]] 1–[[#^s-cd8a99ebd222ccb9a6d666fa|7 dalyse]], [[#^s-64d94d2f41492ea1cf0e3ab7|38 straipsnio]] 1–4 ir 6–[[#^s-e77a751690872d2ec156b03a|11 dalyse]], [[#^s-c24aa7b7cc5c2adb06cc6472|39 straipsnio]] 1–[[#^s-f39158e9479e22d8aa42a13a|3 dalyse]] ir [[#^s-50c15a76b2ff96f123724ac5|391 straipsnyje]] nurodytų reikalavimų (draudimų) nesilaikymą kitiems verslininkams gali skirti nuo penkių šimtų iki penkių tūkstančių eurų baudą. ^s-8c098de0dc510e9cf3620807
+9. Lietuvos bankas prižiūri, kaip [[latest/TAR.1B4D7B687895#^s-1fd989b80916c438c11d4499|Lietuvos banko įstatymo 42 straipsnio 1 dalyje nurodyti prižiūrimi finansų rinkos dalyviai laikosi šio įstatymo aštuntojo skirsnio nuostatų, ir už šio įstatymo 37 straipsnio]] [[latest/TAR.1B4D7B687895|1]]–[[latest/TAR.1B4D7B687895|7]] dalyse, [[#^s-64d94d2f41492ea1cf0e3ab7|38 straipsnio]] [[#^s-489438a842e4a6c0fc98ddad|1]]–[[#^s-84481ffcafef9e1e9d01bd28|4]] ir [[#^s-3b7b2d6b3d8d417378b200e7|6]]–[[#^s-c5c0d936f2b53f2b7ff6da1b|11]] dalyse, [[#^s-c24aa7b7cc5c2adb06cc6472|39 straipsnio]] [[#^s-760ce5adccb43fda78926663|1]]–[[#^s-6eef89c658a3f4ae89d02bbd|3]] dalyse ir [[#^s-50c15a76b2ff96f123724ac5|391 straipsnyje]] nurodytų reikalavimų (draudimų) nesilaikymą taiko prižiūrimiems finansų rinkos dalyviams poveikio priemones ir duoda privalomus nurodymus, vadovaudamasis [[latest/TAR.1B4D7B687895|Lietuvos banko įstatymu]] ir kitais finansų rinką reglamentuojančiais teisės aktais, kurių vykdymo priežiūra priskirta Lietuvos bankui. Valstybinė vartotojų teisių apsaugos tarnyba už šio įstatymo [[#^s-bae534f72448564f7f20582d|37 straipsnio]] [[#^s-3ed05bae2f11d264aa0a7ec4|1]]–[[#^s-6aa89e37fbc72d6704020e23|7]] dalyse, [[#^s-64d94d2f41492ea1cf0e3ab7|38 straipsnio]] [[#^s-489438a842e4a6c0fc98ddad|1]]–[[#^s-84481ffcafef9e1e9d01bd28|4]] ir [[#^s-3b7b2d6b3d8d417378b200e7|6]]–[[#^s-c5c0d936f2b53f2b7ff6da1b|11]] dalyse, [[#^s-c24aa7b7cc5c2adb06cc6472|39 straipsnio]] [[#^s-760ce5adccb43fda78926663|1]]–[[#^s-6eef89c658a3f4ae89d02bbd|3]] dalyse ir [[#^s-50c15a76b2ff96f123724ac5|391 straipsnyje]] nurodytų reikalavimų (draudimų) nesilaikymą kitiems verslininkams gali skirti nuo penkių šimtų iki penkių tūkstančių eurų baudą. ^s-8c098de0dc510e9cf3620807
 Straipsnio dalies pakeitimai:
 Nr. XV-268, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11116
 Straipsnio dalies numeracijos pakeitimas:
@@ -2514,7 +2514,7 @@ Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
 
 
 
-11. Valstybinė vartotojų teisių apsaugos tarnyba Reglamento (ES) 2017/2394 [[#^s-ff9590e5300667915ab6da9d|21 straipsnyje]] nustatytais atvejais už šio straipsnio 1, 2 ir (ar) [[#^s-8c098de0dc510e9cf3620807|9 dalyse]] nurodytą pažeidimą, kuris yra plačiai paplitęs pažeidimas ar Europos Sąjungos mastu plačiai paplitęs pažeidimas, kaip jie apibrėžiami šiame reglamente, verslininkui, atsakingam už šį plačiai paplitusį pažeidimą ar Europos Sąjungos mastu plačiai paplitusį pažeidimą, (už [[#^s-8c098de0dc510e9cf3620807|šio straipsnio 9 dalyje]] nurodytą pažeidimą – tik kitam verslininkui, kuris nėra Lietuvos banko prižiūrimas finansų rinkos dalyvis) gali skirti iki 4 procentų jo metinių pajamų praėjusiais finansiniais metais atitinkamoje valstybėje narėje ar valstybėse narėse dydžio baudą. Jeigu verslininkas nepateikia informacijos apie savo metines pajamas, jam gali būti skiriama iki dviejų milijonų eurų bauda. Skiriamos baudos dydis nustatomas Vyriausybės nustatyta tvarka, atsižvelgiant į pažeidimo pobūdį, sunkumą, mastą, trukmę, verslininko gautą finansinę naudą ar išvengtus nuostolius, ankstesnius verslininko padarytus teisės aktų, reglamentuojančių vartotojų teisių apsaugą, pažeidimus, atsakomybę lengvinančias ar sunkinančias aplinkybes. ^s-e77a751690872d2ec156b03a
+11. Valstybinė vartotojų teisių apsaugos tarnyba [Reglamento (ES) 2017/2394 21 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/2394/art_21/oj) nustatytais atvejais už šio straipsnio 1, 2 ir (ar) [[#^s-8c098de0dc510e9cf3620807|9 dalyse]] nurodytą pažeidimą, kuris yra plačiai paplitęs pažeidimas ar Europos Sąjungos mastu plačiai paplitęs pažeidimas, kaip jie apibrėžiami šiame reglamente, verslininkui, atsakingam už šį plačiai paplitusį pažeidimą ar Europos Sąjungos mastu plačiai paplitusį pažeidimą, (už [[#^s-8c098de0dc510e9cf3620807|šio straipsnio 9 dalyje]] nurodytą pažeidimą – tik kitam verslininkui, kuris nėra Lietuvos banko prižiūrimas finansų rinkos dalyvis) gali skirti iki 4 procentų jo metinių pajamų praėjusiais finansiniais metais atitinkamoje valstybėje narėje ar valstybėse narėse dydžio baudą. Jeigu verslininkas nepateikia informacijos apie savo metines pajamas, jam gali būti skiriama iki dviejų milijonų eurų bauda. Skiriamos baudos dydis nustatomas Vyriausybės nustatyta tvarka, atsižvelgiant į pažeidimo pobūdį, sunkumą, mastą, trukmę, verslininko gautą finansinę naudą ar išvengtus nuostolius, ankstesnius verslininko padarytus teisės aktų, reglamentuojančių vartotojų teisių apsaugą, pažeidimus, atsakomybę lengvinančias ar sunkinančias aplinkybes. ^s-e77a751690872d2ec156b03a
 Papildyta straipsnio dalimi:
 Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
 Straipsnio dalies pakeitimai:
@@ -2522,7 +2522,7 @@ Nr. XV-268, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11116
 
 
 
-12. Lietuvos bankas Reglamento (ES) 2017/2394 [[#^s-ff9590e5300667915ab6da9d|21 straipsnyje]] nustatytais atvejais už [[#^s-8c098de0dc510e9cf3620807|šio straipsnio 9 dalyje]] nurodytą pažeidimą, kuris yra plačiai paplitęs pažeidimas ar Europos Sąjungos mastu plačiai paplitęs pažeidimas, kaip jie apibrėžiami šiame reglamente, taiko prižiūrimiems finansų rinkos dalyviams poveikio priemones ir duoda privalomus nurodymus vadovaudamasis [[latest/TAR.1B4D7B687895|Lietuvos banko įstatymu]] ir kitais finansų rinką reglamentuojančiais teisės aktais, kurių vykdymo priežiūra priskirta Lietuvos bankui. ^s-46d80bd6bff6e1857a7c120e
+12. Lietuvos bankas [Reglamento (ES) 2017/2394 21 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/2394/art_21/oj) nustatytais atvejais už [[#^s-8c098de0dc510e9cf3620807|šio straipsnio 9 dalyje]] nurodytą pažeidimą, kuris yra plačiai paplitęs pažeidimas ar Europos Sąjungos mastu plačiai paplitęs pažeidimas, kaip jie apibrėžiami šiame reglamente, taiko prižiūrimiems finansų rinkos dalyviams poveikio priemones ir duoda privalomus nurodymus vadovaudamasis [[latest/TAR.1B4D7B687895|Lietuvos banko įstatymu]] ir kitais finansų rinką reglamentuojančiais teisės aktais, kurių vykdymo priežiūra priskirta Lietuvos bankui. ^s-46d80bd6bff6e1857a7c120e
 Papildyta straipsnio dalimi:
 Nr. XV-268, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11116
 
@@ -2756,10 +2756,10 @@ Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
 ### 48 straipsnis. Nutarimo vykdymas ^s-b846d2d73eb6c3b016d8691e
 
 
-1. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas turi būti įvykdytas ne vėliau kaip per vieną mėnesį nuo dienos, kurią vartotojų teisių pažeidimą padariusiam pardavėjui, paslaugų teikėjui jis buvo įteiktas. Apskundus Valstybinės vartotojų teisių apsaugos tarnybos nutarimą dėl baudos skyrimo, bauda turi būti sumokėta ne vėliau kaip per 30 kalendorinių dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. ^s-a7888e3d17ca0e6809d107fb
+1. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas turi būti įvykdytas ne vėliau kaip per vieną mėnesį nuo dienos, kurią vartotojų teisių pažeidimą padariusiam pardavėjui, paslaugų teikėjui jis buvo įteiktas. Apskundus Valstybinės vartotojų teisių apsaugos tarnybos nutarimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo, bauda turi būti sumokėta ne vėliau kaip per 30 kalendorinių dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. ^s-a7888e3d17ca0e6809d107fb
 
 
-2. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos. ^s-ffc987242db2691319ebd767
+2. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas yra vykdomasis dokumentas, vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per 3 metus nuo jo priėmimo dienos. ^s-ffc987242db2691319ebd767
 
 
 Įstatymas papildytas straipsniu:
@@ -2773,10 +2773,10 @@ Nr. XI-1620, 2011-10-13, Žin., 2011, Nr. 129-6109 (2011-10-27)
 1. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas yra vykdomasis dokumentas. ^s-7ec069a99d99e6b5c76a0592
 
 
-2. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas dėl baudos skyrimo vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir Civilinio proceso kodekse nustatyta tvarka. ^s-478436dc8264c62086c538e7
+2. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-478436dc8264c62086c538e7
 
 
-3. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas įpareigoti pardavėją, paslaugų teikėją, pažeidusius vartotojų teises, nutraukti neteisėtus veiksmus priverstinai vykdomas Civilinio proceso kodekse nustatyta tvarka, jeigu nutarime nurodytas asmuo neįvykdo šio nutarimo savanoriškai per 14 kalendorinių dienų nuo nutarimo įteikimo jam dienos, išskyrus atvejus, kai nutarime nustatytas ilgesnis jo įvykdymo terminas. ^s-f6c10e90884707c8eb7babcd
+3. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas įpareigoti pardavėją, paslaugų teikėją, pažeidusius vartotojų teises, nutraukti neteisėtus veiksmus priverstinai vykdomas [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka, jeigu nutarime nurodytas asmuo neįvykdo šio nutarimo savanoriškai per 14 kalendorinių dienų nuo nutarimo įteikimo jam dienos, išskyrus atvejus, kai nutarime nustatytas ilgesnis jo įvykdymo terminas. ^s-f6c10e90884707c8eb7babcd
 
 
 4. Valstybinės vartotojų teisių apsaugos tarnybos nutarimas įpareigoti pardavėją, paslaugų teikėją, pažeidusius vartotojų teises, nutraukti neteisėtus veiksmus gali būti pateikiamas vykdyti antstoliui ne vėliau kaip per 180 kalendorinių dienų nuo nutarimo priėmimo arba, nutarimą apskundus teismui, nuo teismo sprendimo įsiteisėjimo dienos, jeigu nutarimas nebuvo panaikintas. ^s-7866fc9c6c29ace19cdd3cb0
@@ -2800,63 +2800,63 @@ Nr. XIV-3113, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20361
 
 
 ### DEŠIMTASIS SKIRSNIS ^s-00d1d2353bfba93bac1cabfc
-REGLAMENTO (ES) 2017/2394 ĮGYVENDINIMAS
+[REGLAMENTO (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) ĮGYVENDINIMAS
 
 
 
 ### 50 straipsnis. Bendroji ryšių palaikymo tarnyba ir kompetentingos institucijos ^s-05588571176b77f207a92f80
 
 
-1. Vyriausybė, įgyvendindama Reglamentą (ES) 2017/2394, paskiria bendrąją ryšių palaikymo tarnybą. ^s-146bf3dcf14a2320d7a645a2
+1. Vyriausybė, įgyvendindama [Reglamentą (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj), paskiria bendrąją ryšių palaikymo tarnybą. ^s-146bf3dcf14a2320d7a645a2
 
 
-2. Vyriausybė, įgyvendindama Reglamentą (ES) 2017/2394, paskiria kompetentingas institucijas, jeigu jos nėra nustatytos Lietuvos Respublikos įstatymuose, kuriais įgyvendinami Reglamento (ES) 2017/2394 priede nurodyti Europos Sąjungos teisės aktai. ^s-7b1272b8fe52775dc0f4cee9
+2. Vyriausybė, įgyvendindama [Reglamentą (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj), paskiria kompetentingas institucijas, jeigu jos nėra nustatytos Lietuvos Respublikos įstatymuose, kuriais įgyvendinami [Reglamento (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) priede nurodyti Europos Sąjungos teisės aktai. ^s-7b1272b8fe52775dc0f4cee9
 
 
 
 ### 51 straipsnis. Kompetentingų institucijų minimalių įgaliojimų įgyvendinimo tvarka ^s-20b98c2067cf03393390da08
 
 
-1. Šis straipsnis taikomas kompetentingoms institucijoms įgyvendinant Reglamento (ES) 2017/2394 [[#^s-26ebf2791d8ed27e2265c160|9 straipsnyje]] nustatytus įgaliojimus, jeigu kiti įstatymai nenustato kitaip. ^s-ac5121ea31b6596e8fff4d23
+1. Šis straipsnis taikomas kompetentingoms institucijoms įgyvendinant [Reglamento (ES) 2017/2394 9 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/2394/art_9/oj) nustatytus įgaliojimus, jeigu kiti įstatymai nenustato kitaip. ^s-ac5121ea31b6596e8fff4d23
 
 
-2. Įgyvendindamos Reglamente (ES) 2017/2394 nustatytus įgaliojimus susipažinti su dokumentais, duomenimis ar informacija, susijusia su pažeidimais, kuriems taikomas Reglamentas (ES) 2017/2394, ir įgaliojimus gauti informaciją, duomenis ar dokumentus, įskaitant duomenis finansų ir duomenų judėjimui susekti, kompetentingos institucijos, siekdamos nustatyti, ar padarytas arba daromas pažeidimas, kuriam taikomas Reglamentas (ES) 2017/2394, privalo saugoti sužinotas komercines, profesines ir banko paslaptis ar joms prilygintą paslaptį sudarančią informaciją ir naudoti jas be savininko sutikimo gali tik tiems tikslams, dėl kurių jos buvo pateiktos. Asmenys, teikdami dokumentus, duomenis ar informaciją, turi kompetentingai institucijai pateikti prašymą dėl savo komercinių, profesinių ar banko paslapčių ar joms prilygintos paslaptį sudarančios informacijos apsaugos. Šiame prašyme turi būti aiškiai nurodyta, kokia informacija yra komercinė, profesinė ar banko paslaptis. ^s-01e1e59ab2e78a5e7f907137
+2. Įgyvendindamos [Reglamente (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) nustatytus įgaliojimus susipažinti su dokumentais, duomenimis ar informacija, susijusia su pažeidimais, kuriems taikomas [Reglamentas (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj), ir įgaliojimus gauti informaciją, duomenis ar dokumentus, įskaitant duomenis finansų ir duomenų judėjimui susekti, kompetentingos institucijos, siekdamos nustatyti, ar padarytas arba daromas pažeidimas, kuriam taikomas [Reglamentas (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj), privalo saugoti sužinotas komercines, profesines ir banko paslaptis ar joms prilygintą paslaptį sudarančią informaciją ir naudoti jas be savininko sutikimo gali tik tiems tikslams, dėl kurių jos buvo pateiktos. Asmenys, teikdami dokumentus, duomenis ar informaciją, turi kompetentingai institucijai pateikti prašymą dėl savo komercinių, profesinių ar banko paslapčių ar joms prilygintos paslaptį sudarančios informacijos apsaugos. Šiame prašyme turi būti aiškiai nurodyta, kokia informacija yra komercinė, profesinė ar banko paslaptis. ^s-01e1e59ab2e78a5e7f907137
 
 
-3. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus atlikti patikrinimus vietoje, taikomos [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymo]] ir šių institucijų veiklą bei įgaliojimus reglamentuojančių įstatymų nuostatos dėl ūkio subjektų veiklos patikrinimų. Kompetentinga institucija, nagrinėdama pažeidimus, turi teisę be išankstinio įspėjimo įeiti į pardavėjo, paslaugų teikėjo naudojamas patalpas, teritoriją ar transporto priemones darbo laiku, o ne darbo laiku – gavusi pardavėjo, paslaugų teikėjo sutikimą arba teismo leidimą, ir paimti bet kokioje saugojimo laikmenoje laikomą informaciją, duomenis ar dokumentus, kurie turi įrodomąją reikšmę. Įeiti į fizinio asmens gyvenamąsias patalpas galima tik pateikus teismo nutartį dėl leidimo įeiti į fizinio asmens gyvenamąsias patalpas. ^s-f86ddcdb2ab3c9cbee18c6a0
+3. Kompetentingoms institucijoms įgyvendinant [Reglamente (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) nustatytus įgaliojimus atlikti patikrinimus vietoje, taikomos [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymo]] ir šių institucijų veiklą bei įgaliojimus reglamentuojančių įstatymų nuostatos dėl ūkio subjektų veiklos patikrinimų. Kompetentinga institucija, nagrinėdama pažeidimus, turi teisę be išankstinio įspėjimo įeiti į pardavėjo, paslaugų teikėjo naudojamas patalpas, teritoriją ar transporto priemones darbo laiku, o ne darbo laiku – gavusi pardavėjo, paslaugų teikėjo sutikimą arba teismo leidimą, ir paimti bet kokioje saugojimo laikmenoje laikomą informaciją, duomenis ar dokumentus, kurie turi įrodomąją reikšmę. Įeiti į fizinio asmens gyvenamąsias patalpas galima tik pateikus teismo nutartį dėl leidimo įeiti į fizinio asmens gyvenamąsias patalpas. ^s-f86ddcdb2ab3c9cbee18c6a0
 
 
-4. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus įsigyti prekių ar paslaugų kaip bandomųjų pirkinių, taikomos [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] ir šių institucijų veiklą bei įgaliojimus reglamentuojančių įstatymų nuostatos dėl kontrolinių pirkimų. ^s-6eaaaa58d9d9b3e6409316d1
+4. Kompetentingoms institucijoms įgyvendinant [Reglamente (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) nustatytus įgaliojimus įsigyti prekių ar paslaugų kaip bandomųjų pirkinių, taikomos [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] ir šių institucijų veiklą bei įgaliojimus reglamentuojančių įstatymų nuostatos dėl kontrolinių pirkimų. ^s-6eaaaa58d9d9b3e6409316d1
 
 
-5. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus patvirtinti laikinąsias priemones, mutatis mutandis taikomos šio įstatymo [[#^s-c6c1f4816b63954a86aa901f|441 straipsnio]] nuostatos. ^s-fbf298b5d77356ad70be27d3
+5. Kompetentingoms institucijoms įgyvendinant [Reglamente (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) nustatytus įgaliojimus patvirtinti laikinąsias priemones, mutatis mutandis taikomos šio įstatymo [[#^s-c6c1f4816b63954a86aa901f|441 straipsnio]] nuostatos. ^s-fbf298b5d77356ad70be27d3
 
 
-6. Turėdama duomenų apie galimą pažeidimą, kuriam taikomas Reglamentas (ES) 2017/2394, kompetentinga institucija, gavusi pardavėjo, paslaugų teikėjo rašytinį įsipareigojimą nutraukti pažeidimą, ne vėliau kaip per 14 kalendorinių dienų nuo jo gavimo jį išnagrinėja ir priima sprendimą dėl šio įsipareigojimo patvirtinimo. Kompetentingos institucijos patvirtinti pardavėjo, paslaugų teikėjo įsipareigojimai nutraukti vartotojų teisių pažeidimą skelbiami kompetentingos institucijos ir pardavėjo, paslaugų teikėjo interneto svetainėse (jeigu šie svetainę turi), prireikus – ir prekybos vietose. Pardavėjui, paslaugų teikėjui neįvykdžius įsipareigojimo nutraukti pažeidimą, kompetentinga institucija pradeda pažeidimo nagrinėjimo procedūrą. ^s-e17b2f9334053f071de1a5f1
+6. Turėdama duomenų apie galimą pažeidimą, kuriam taikomas [Reglamentas (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj), kompetentinga institucija, gavusi pardavėjo, paslaugų teikėjo rašytinį įsipareigojimą nutraukti pažeidimą, ne vėliau kaip per 14 kalendorinių dienų nuo jo gavimo jį išnagrinėja ir priima sprendimą dėl šio įsipareigojimo patvirtinimo. Kompetentingos institucijos patvirtinti pardavėjo, paslaugų teikėjo įsipareigojimai nutraukti vartotojų teisių pažeidimą skelbiami kompetentingos institucijos ir pardavėjo, paslaugų teikėjo interneto svetainėse (jeigu šie svetainę turi), prireikus – ir prekybos vietose. Pardavėjui, paslaugų teikėjui neįvykdžius įsipareigojimo nutraukti pažeidimą, kompetentinga institucija pradeda pažeidimo nagrinėjimo procedūrą. ^s-e17b2f9334053f071de1a5f1
 
 
-7. Turėdama duomenų apie galimą pažeidimą, kuriam taikomas Reglamentas (ES) 2017/2394, kompetentinga institucija, gavusi pardavėjo, paslaugų teikėjo pateiktą rašytinį įsipareigojimą užtikrinti vartotojų teisių gynimo priemonių įgyvendinimą, ne vėliau kaip per 14 kalendorinių dienų nuo įsipareigojimo gavimo jį išnagrinėja ir priima sprendimą dėl šio įsipareigojimo patvirtinimo. Kompetentingos institucijos patvirtinti įsipareigojimai užtikrinti vartotojų teisių gynimo priemonių įgyvendinimą skelbiami kompetentingos institucijos ir pardavėjo, paslaugų teikėjo interneto svetainėse (jeigu šie svetainę turi), prireikus – ir prekybos vietose. Pardavėjui, paslaugų teikėjui neįvykdžius įsipareigojimo užtikrinti vartotojų teisių gynimo priemonių įgyvendinimą, kompetentinga institucija pradeda pažeidimo nagrinėjimo procedūrą. ^s-1760c4fe45a6daf429023d51
+7. Turėdama duomenų apie galimą pažeidimą, kuriam taikomas [Reglamentas (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj), kompetentinga institucija, gavusi pardavėjo, paslaugų teikėjo pateiktą rašytinį įsipareigojimą užtikrinti vartotojų teisių gynimo priemonių įgyvendinimą, ne vėliau kaip per 14 kalendorinių dienų nuo įsipareigojimo gavimo jį išnagrinėja ir priima sprendimą dėl šio įsipareigojimo patvirtinimo. Kompetentingos institucijos patvirtinti įsipareigojimai užtikrinti vartotojų teisių gynimo priemonių įgyvendinimą skelbiami kompetentingos institucijos ir pardavėjo, paslaugų teikėjo interneto svetainėse (jeigu šie svetainę turi), prireikus – ir prekybos vietose. Pardavėjui, paslaugų teikėjui neįvykdžius įsipareigojimo užtikrinti vartotojų teisių gynimo priemonių įgyvendinimą, kompetentinga institucija pradeda pažeidimo nagrinėjimo procedūrą. ^s-1760c4fe45a6daf429023d51
 
 
-8. Kompetentingos institucijos teikia vartotojams, patyrusiems žalą dėl galimų pažeidimų, kuriems taikomas Reglamentas (ES) 2017/2394, informaciją apie žalos atlyginimo tvarką. Šios informacijos teikimo būdą nustato pati kompetentinga institucija. ^s-4c8d94807ec0d850ee315170
+8. Kompetentingos institucijos teikia vartotojams, patyrusiems žalą dėl galimų pažeidimų, kuriems taikomas [Reglamentas (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj), informaciją apie žalos atlyginimo tvarką. Šios informacijos teikimo būdą nustato pati kompetentinga institucija. ^s-4c8d94807ec0d850ee315170
 
 
-9. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus nutraukti ar uždrausti pažeidimus, kuriems taikomas šis reglamentas, taikomos šio įstatymo septintojo skirsnio nuostatos dėl vartotojų viešojo intereso gynimo. ^s-ed88a214453dcb7d32cc4c25
+9. Kompetentingoms institucijoms įgyvendinant [Reglamente (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) nustatytus įgaliojimus nutraukti ar uždrausti pažeidimus, kuriems taikomas šis reglamentas, taikomos šio įstatymo septintojo skirsnio nuostatos dėl vartotojų viešojo intereso gynimo. ^s-ed88a214453dcb7d32cc4c25
 
 
-10. Kompetentingoms institucijoms įgyvendinant Reglamente (ES) 2017/2394 nustatytus įgaliojimus dėl prieigos prie elektroninių sąsajų apribojimo ar nutraukimo, turinio pašalinimo ir įspėjimo vartotojams pateikimo, mutatis mutandis taikomos šio įstatymo [[#^s-61a6b7ab6302155c839aaff1|491 straipsnio]] nuostatos. ^s-5637bdcc794681b9d710b5f9
+10. Kompetentingoms institucijoms įgyvendinant [Reglamente (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) nustatytus įgaliojimus dėl prieigos prie elektroninių sąsajų apribojimo ar nutraukimo, turinio pašalinimo ir įspėjimo vartotojams pateikimo, mutatis mutandis taikomos šio įstatymo [[#^s-61a6b7ab6302155c839aaff1|491 straipsnio]] nuostatos. ^s-5637bdcc794681b9d710b5f9
 
 
-11. Įgyvendindamos Reglamente (ES) 2017/2394 nustatytus įgaliojimus, kompetentingos institucijos dėl interneto domeno vardo panaikinimo ir (ar) leidimo jį įregistruoti kompetentingai institucijai kreipiasi į teismą. ^s-61369ff39bba24f550302b4f
+11. Įgyvendindamos [Reglamente (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) nustatytus įgaliojimus, kompetentingos institucijos dėl interneto domeno vardo panaikinimo ir (ar) leidimo jį įregistruoti kompetentingai institucijai kreipiasi į teismą. ^s-61369ff39bba24f550302b4f
 
 
-12. Tirdamos pažeidimus, kuriems taikomas Reglamentas (ES) 2017/2394, kompetentingos institucijos viešajai tvarkai palaikyti ir galimoms prievartos priemonėms panaudoti gali pasitelkti policijos pareigūnus. ^s-c2ca1a88ea81a369c181e461
+12. Tirdamos pažeidimus, kuriems taikomas [Reglamentas (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj), kompetentingos institucijos viešajai tvarkai palaikyti ir galimoms prievartos priemonėms panaudoti gali pasitelkti policijos pareigūnus. ^s-c2ca1a88ea81a369c181e461
 
 
-13. Kompetentingos institucijos gali savo iniciatyva pradėti tyrimą ir (ar) patikrinimą bet kokiu klausimu, susijusiu su galimu pažeidimu, kuriam taikomas Reglamentas (ES) 2017/2394. ^s-2cddb43b7227066e54a71f2e
+13. Kompetentingos institucijos gali savo iniciatyva pradėti tyrimą ir (ar) patikrinimą bet kokiu klausimu, susijusiu su galimu pažeidimu, kuriam taikomas [Reglamentas (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj). ^s-2cddb43b7227066e54a71f2e
 
 
-14. Kompetentingos institucijos, įgyvendindamos Reglamentą (ES) 2017/2394, turi teisę savo interneto svetainėse skelbti informaciją apie taikytas poveikio priemones, įskaitant informaciją apie padaryto pažeidimo esmę ir jį padariusio asmens tapatybę (vardas, pavardė, juridinio asmens pavadinimas ir kodas), taip pat informaciją apie kitus kompetentingų institucijų priimtus sprendimus. Jeigu kompetentingos institucijos sprendimas taikyti poveikio priemonę apskundžiamas, apie tai paskelbiama kompetentingos institucijos interneto svetainėje, taip pat pateikiama informacija apie skundo išnagrinėjimo rezultatus. ^s-e1c255c1dfb75d1554fe7716
+14. Kompetentingos institucijos, įgyvendindamos [Reglamentą (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj), turi teisę savo interneto svetainėse skelbti informaciją apie taikytas poveikio priemones, įskaitant informaciją apie padaryto pažeidimo esmę ir jį padariusio asmens tapatybę (vardas, pavardė, juridinio asmens pavadinimas ir kodas), taip pat informaciją apie kitus kompetentingų institucijų priimtus sprendimus. Jeigu kompetentingos institucijos sprendimas taikyti poveikio priemonę apskundžiamas, apie tai paskelbiama kompetentingos institucijos interneto svetainėje, taip pat pateikiama informacija apie skundo išnagrinėjimo rezultatus. ^s-e1c255c1dfb75d1554fe7716
 
 
 Papildyta skirsniu:
@@ -2898,14 +2898,14 @@ Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
 
 
 
-4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2673. ^s-7ea39565a17d26b6bcc57c15
+4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/2673](https://eur-lex.europa.eu/eli/dir/2023/2673/oj). ^s-7ea39565a17d26b6bcc57c15
 Punkto pakeitimai:
 Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
 Nr. XV-268, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11116
 
 
 
-5. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2013/11/ES dėl alternatyvaus vartotojų ginčų sprendimo, kuria iš dalies keičiami Reglamentas (EB) Nr. 2006/2004 ir Direktyva 2009/22/EB. ^s-6998ccbef85210ec52a0ba79
+5. 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos direktyva 2013/11/ES dėl alternatyvaus vartotojų ginčų sprendimo, kuria iš dalies keičiami [Reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) ir Direktyva 2009/22/EB. ^s-6998ccbef85210ec52a0ba79
 
 
 6. Neteko galios nuo 2026-03-31 ^s-4b082388c0eed54b2f7d1837
@@ -2914,34 +2914,34 @@ Nr. XV-780, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05182
 
 
 
-7. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366 dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010 ir panaikinama Direktyva 2007/64/EB. ^s-622f7f18ddb0dd2fe83a1c5d
+7. 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj) dėl mokėjimo paslaugų vidaus rinkoje, kuria iš dalies keičiamos direktyvos 2002/65/EB, 2009/110/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) ir panaikinama Direktyva 2007/64/EB. ^s-622f7f18ddb0dd2fe83a1c5d
 
 
-8. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/2394 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas Reglamentas (EB) Nr. 2006/2004, su pakeitimais, padarytais 2018 m. vasario 28 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/302. ^s-0af65a4bf94c2e7c59df16ae
+8. 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymo užtikrinimą, bendradarbiavimo, kuriuo panaikinamas [Reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj), su pakeitimais, padarytais 2018 m. vasario 28 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2018/302](https://eur-lex.europa.eu/eli/reg/2018/302/oj). ^s-0af65a4bf94c2e7c59df16ae
 
 
-9. 2018 m. vasario 28 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/302 dėl nepagrįsto geografinio blokavimo ir kitų formų diskriminavimo dėl klientų pilietybės, gyvenamosios vietos arba įsisteigimo vietos vidaus rinkoje problemos sprendimo, kuriuo iš dalies keičiami reglamentai (EB) Nr. 2006/2004 ir (ES) 2017/2394 ir Direktyva 2009/22/EB. ^s-f6729a4c44707c5d7e08c722
+9. 2018 m. vasario 28 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2018/302](https://eur-lex.europa.eu/eli/reg/2018/302/oj) dėl nepagrįsto geografinio blokavimo ir kitų formų diskriminavimo dėl klientų pilietybės, gyvenamosios vietos arba įsisteigimo vietos vidaus rinkoje problemos sprendimo, kuriuo iš dalies keičiami [reglamentai (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) ir (ES) 2017/2394 ir Direktyva 2009/22/EB. ^s-f6729a4c44707c5d7e08c722
 
 
-10. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/770 dėl tam tikrų skaitmeninio turinio ir skaitmeninių paslaugų teikimo sutarčių aspektų. ^s-b78e02bdc86ebcd519b9824d
+10. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/770](https://eur-lex.europa.eu/eli/dir/2019/770/oj) dėl tam tikrų skaitmeninio turinio ir skaitmeninių paslaugų teikimo sutarčių aspektų. ^s-b78e02bdc86ebcd519b9824d
 
 
-11. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/771 dėl tam tikrų prekių pirkimo–pardavimo sutarčių aspektų, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 ir Direktyva 2009/22/EB bei panaikinama Direktyva 1999/44/EB. ^s-a4c14f0d2721b8bd08ed94e3
+11. 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/771](https://eur-lex.europa.eu/eli/dir/2019/771/oj) dėl tam tikrų prekių pirkimo–pardavimo sutarčių aspektų, kuria iš dalies keičiami [Reglamentas (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) ir Direktyva 2009/22/EB bei panaikinama Direktyva 1999/44/EB. ^s-a4c14f0d2721b8bd08ed94e3
 
 
-12. 2020 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/1828 dėl atstovaujamųjų ieškinių siekiant apsaugoti vartotojų kolektyvinius interesus, kuria panaikinama Direktyva 2009/22/EB. ^s-de90bd862b1f41f76a978138
+12. 2020 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyva (ES) 2020/1828](https://eur-lex.europa.eu/eli/dir/2020/1828/oj) dėl atstovaujamųjų ieškinių siekiant apsaugoti vartotojų kolektyvinius interesus, kuria panaikinama Direktyva 2009/22/EB. ^s-de90bd862b1f41f76a978138
 Papildyta punktu:
 Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
 
 
 
-13. 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/988 dėl bendros gaminių saugos, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1025/2012 bei Europos Parlamento ir Tarybos direktyva (ES) 2020/1828 ir panaikinamos Europos Parlamento ir Tarybos direktyva 2001/95/EB bei Tarybos direktyva 87/357/EEB. ^s-a403dbe794773dbf07fff2d8
+13. 2023 m. gegužės 10 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) dėl bendros gaminių saugos, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1025/2012](https://eur-lex.europa.eu/eli/reg/1025/2012/oj) bei Europos Parlamento ir Tarybos [direktyva (ES) 2020/1828](https://eur-lex.europa.eu/eli/dir/2020/1828/oj) ir panaikinamos Europos Parlamento ir Tarybos direktyva 2001/95/EB bei Tarybos direktyva 87/357/EEB. ^s-a403dbe794773dbf07fff2d8
 Papildyta straipsnio dalimi:
 Nr. XIV-3113, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20361
 
 
 
-14. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1799 dėl bendrųjų taisyklių, kuriomis skatinamas prekių taisymas, kuria iš dalies keičiami Reglamentas (ES) 2017/2394 bei direktyvos (ES) 2019/771 ir (ES) 2020/1828. ^s-2bc18345aefa71b8ad0f8737
+14. 2024 m. birželio 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1799](https://eur-lex.europa.eu/eli/dir/2024/1799/oj) dėl bendrųjų taisyklių, kuriomis skatinamas prekių taisymas, kuria iš dalies keičiami [Reglamentas (ES) 2017/2394](https://eur-lex.europa.eu/eli/reg/2017/2394/oj) bei [direktyvos (ES) 2019/771](https://eur-lex.europa.eu/eli/dir/2019/771/oj) ir (ES) 2020/1828. ^s-2bc18345aefa71b8ad0f8737
 Papildyta straipsnio dalimi:
 Nr. XV-780, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05182
 
@@ -2964,7 +2964,7 @@ Nr. VIII-1946, 00.09.19, Žin., 2000, Nr.85-2581 (00.10.11)
 VARTOTOJŲ TEISIŲ GYNIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
 Vartotojų teisių gynimo įstatymo pakeitimo įstatymas, išskyrus Vartotojų teisių gynimo įstatymo 29 ir 30 straipsnius, įsigalioja nuo 2001 m. sausio 1 d.
-Iki 2004 m. sausio 1 d. vietoj [[#^s-98e91ff3cf9376b96849063f|Vartotojų teisių gynimo įstatymo 7 straipsnio]] 4 ir 6 dalyse nurodyto 2 metų termino taikomas 6 mėnesių terminas.
+Iki 2004 m. sausio 1 d. vietoj [[#^s-98e91ff3cf9376b96849063f|Vartotojų teisių gynimo įstatymo 7 straipsnio]] [[latest/TAR.D790096B17EE|4]] ir [[latest/TAR.D790096B17EE|6]] dalyse nurodyto 2 metų termino taikomas 6 mėnesių terminas.
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3035,17 +3035,17 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-29583
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1866, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10766
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 10, 12, 19 ir [[#^s-ff9590e5300667915ab6da9d|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-30d51b6897b33a639bb206ea|10]], [[#^s-00a118eb1a9058472c2d0510|12]], [[#^s-78a33df99e68066f88941643|19]] ir [[#^s-ff9590e5300667915ab6da9d|21]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2095, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19373
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 10, 12, 19 ir [[#^s-ff9590e5300667915ab6da9d|21 straipsnių]] pakeitimo [[latest/d4235a70215d11e5b336e9064144f02a|įstatymo Nr. XII-1866]] [[#^s-302f53e42c7fe99e72a2cdd0|2 straipsnio]] pakeitimo ir 1, 3 ir [[#^s-69db1b96521b87628fa30fe7|4 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-30d51b6897b33a639bb206ea|10]], [[#^s-00a118eb1a9058472c2d0510|12]], [[#^s-78a33df99e68066f88941643|19]] ir [[#^s-ff9590e5300667915ab6da9d|21]] straipsnių pakeitimo [[latest/d4235a70215d11e5b336e9064144f02a|įstatymo Nr. XII-1866]] [[#^s-302f53e42c7fe99e72a2cdd0|2 straipsnio]] pakeitimo ir [[#^s-fe07cd97493caa70a03a35ca|1]], [[#^s-27241d4cc2f30e68e1159e76|3]] ir [[#^s-69db1b96521b87628fa30fe7|4]] straipsnių pripažinimo netekusiais galios įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2083, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19362
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2, 5, 10, 11, 12, [[#^s-2958369915332a18306589a4|40 straipsnių]], šeštojo skirsnio ir Įstatymo priedo pakeitimo įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-302f53e42c7fe99e72a2cdd0|2]], [[#^s-888926d62ebac440f9aeb0bb|5]], [[#^s-30d51b6897b33a639bb206ea|10]], [[#^s-bb0b3b2866ddbb8764fcd238|11]], [[#^s-00a118eb1a9058472c2d0510|12]], [[#^s-2958369915332a18306589a4|40]] straipsnių, šeštojo skirsnio ir Įstatymo priedo pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3095,22 +3095,22 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-203af
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2093, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07404
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12 ir [[#^s-2958369915332a18306589a4|40 straipsnių]] pakeitimo ir Įstatymo papildymo 49-1 straipsniu įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-00a118eb1a9058472c2d0510|12]] ir [[#^s-2958369915332a18306589a4|40]] straipsnių pakeitimo ir Įstatymo papildymo 49-1 straipsniu įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2514, 2019-11-14, paskelbta TAR 2019-11-26, i. k. 2019-18819
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2, 12, 29-4, [[#^s-2958369915332a18306589a4|40 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 44-1 straipsniu ir dešimtuoju skirsniu įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-302f53e42c7fe99e72a2cdd0|2]], [[#^s-00a118eb1a9058472c2d0510|12]], 29-4, [[#^s-2958369915332a18306589a4|40]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 44-1 straipsniu ir dešimtuoju skirsniu įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2779, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02014
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12, 13, 22, 22-1, 22-2, 30, [[#^s-f4c0620348e75ec2d488cd99|34 straipsnių]] pakeitimo, Įstatymo papildymo 13-1 straipsniu ir 31, [[#^s-6468161329e49e5c196c919c|35 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-00a118eb1a9058472c2d0510|12]], [[#^s-2e52f2cb839b4a2402b9ffc9|13]], [[#^s-203afe72f5ed41b6295f5b16|22]], 22-1, 22-2, [[#^s-b7ce89c9b3c2d212ecb77217|30]], [[#^s-f4c0620348e75ec2d488cd99|34]] straipsnių pakeitimo, Įstatymo papildymo 13-1 straipsniu ir [[#^s-0403eaaccb6af101ac89e56f|31]], [[#^s-6468161329e49e5c196c919c|35]] straipsnių pripažinimo netekusiais galios įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3126, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15370
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 10 ir [[#^s-94f89af8eb2294cb8b88057a|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-30d51b6897b33a639bb206ea|10]] ir [[#^s-94f89af8eb2294cb8b88057a|17]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3120,17 +3120,17 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-29583
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-467, 2021-06-29, paskelbta TAR 2021-07-14, i. k. 2021-15845
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12, [[#^s-2958369915332a18306589a4|40 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-00a118eb1a9058472c2d0510|12]], [[#^s-2958369915332a18306589a4|40]] straipsnių ir priedo pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-550, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21217
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12, 22-2, 23, 23-3, 25, 27, 28, 29-3, 32, 33, [[#^s-2958369915332a18306589a4|40 straipsnių]] pakeitimo ir Įstatymo papildymo 35-1, 35-2 straipsniais įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-00a118eb1a9058472c2d0510|12]], 22-2, [[#^s-94d6ad3500ba87c5c4ef855c|23]], 23-3, [[#^s-6b15c933c108094a71f4709d|25]], [[#^s-6388c4df21ca30ec52af4880|27]], [[#^s-58d41cb4b5824f98103b1ea5|28]], 29-3, [[#^s-a6f900cd2a2221f3888f09da|32]], [[#^s-3c0f65631db8143861714340|33]], [[#^s-2958369915332a18306589a4|40]] straipsnių pakeitimo ir Įstatymo papildymo 35-1, 35-2 straipsniais įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-886, 2021-12-23, paskelbta TAR 2022-01-04, i. k. 2022-00067
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2, [[#^s-2958369915332a18306589a4|40 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-302f53e42c7fe99e72a2cdd0|2]], [[#^s-2958369915332a18306589a4|40]] straipsnių ir priedo pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3140,7 +3140,7 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-203af
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1472, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23019
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 13-1, 30, 32, 33, [[#^s-f4c0620348e75ec2d488cd99|34 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 13-1, [[#^s-b7ce89c9b3c2d212ecb77217|30]], [[#^s-a6f900cd2a2221f3888f09da|32]], [[#^s-3c0f65631db8143861714340|33]], [[#^s-f4c0620348e75ec2d488cd99|34]] straipsnių ir priedo pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3150,7 +3150,7 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 49-1 straip
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2145, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14041
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12 ir 49-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-00a118eb1a9058472c2d0510|12]] ir 49-1 straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3165,7 +3165,7 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-203af
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3113, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20361
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 12 ir 49-1 straipsnių bei priedo pakeitimo įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-00a118eb1a9058472c2d0510|12]] ir 49-1 straipsnių bei priedo pakeitimo įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3175,12 +3175,12 @@ Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-302f5
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-780, 2026-03-26, paskelbta TAR 2026-03-30, i. k. 2026-05182
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 2, 12, 22 ir [[#^s-2958369915332a18306589a4|40 straipsnių]], priedo pakeitimo ir Įstatymo papildymo aštuntuoju-1 skirsniu įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-302f53e42c7fe99e72a2cdd0|2]], [[#^s-00a118eb1a9058472c2d0510|12]], [[#^s-203afe72f5ed41b6295f5b16|22]] ir [[#^s-2958369915332a18306589a4|40]] straipsnių, priedo pakeitimo ir Įstatymo papildymo aštuntuoju-1 skirsniu įstatymas
 
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-268, 2025-06-12, paskelbta TAR 2025-06-19, i. k. 2025-11116
-Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 1, 2, [[#^s-2958369915332a18306589a4|40 straipsnių]], aštuntojo skirsnio ir priedo pakeitimo įstatymas
+Lietuvos Respublikos vartotojų teisių apsaugos įstatymo Nr. I-657 [[#^s-fe07cd97493caa70a03a35ca|1]], [[#^s-302f53e42c7fe99e72a2cdd0|2]], [[#^s-2958369915332a18306589a4|40]] straipsnių, aštuntojo skirsnio ir priedo pakeitimo įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas

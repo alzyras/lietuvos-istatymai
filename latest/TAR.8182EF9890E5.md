@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-6021b7b1a60ac616156f100b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. gegužės 15 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimą dėl prekybinio ir ekonominio bendradarbiavimo“, ratifikuoja Alma Atoje 1997 m. kovo 7 d. pasirašytą Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimą dėl prekybinio ir ekonominio bendradarbiavimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. gegužės 15 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimą dėl prekybinio ir ekonominio bendradarbiavimo“](https://e-tar.lt/portal/lt/legalAct/TAR.3F34C97E9D36), ratifikuoja Alma Atoje 1997 m. kovo 7 d. pasirašytą Lietuvos Respublikos Vyriausybės ir Kazachstano Respublikos Vyriausybės susitarimą dėl prekybinio ir ekonominio bendradarbiavimo.
 
 
 

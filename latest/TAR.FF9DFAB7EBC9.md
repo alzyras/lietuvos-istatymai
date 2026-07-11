@@ -60,7 +60,7 @@ Vilnius
 1. Šis įstatymas įsigalioja 2009 m. vasario 1 d. ^s-20fe50d63c0b620527f4a902
 
 
-2. Iki šio įstatymo įsigaliojimo paskirtam Nacionalinės teismų administracijos direktoriui iki kadencijos, kuriai jis buvo paskirtas, pabaigos taikomos Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nuostatos. ^s-3712567560cb3e07dee9d8e9
+2. Iki šio įstatymo įsigaliojimo paskirtam Nacionalinės teismų administracijos direktoriui iki kadencijos, kuriai jis buvo paskirtas, pabaigos taikomos Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nuostatos. ^s-3712567560cb3e07dee9d8e9
 
 
 

@@ -44,7 +44,7 @@ Vilnius
 1. [[#^s-f553065204fb6573775f71bd|2 straipsnio 1 dalį]] pripažinti netekusia galios. ^s-794920e47e0b3f7f16ea67f4
 
 
-2. Buvusias [[#^s-389ab0bf44ca68d0e8147870|2 straipsnio]] 2–19 dalis laikyti atitinkamai 1–18 dalimis. ^s-cd3b7283d2067d4a7f1581a3
+2. Buvusias [[#^s-389ab0bf44ca68d0e8147870|2 straipsnio]] [[#^s-b36f1adca29d596f34e692fb|2]]–19 dalis laikyti atitinkamai [[#^s-f553065204fb6573775f71bd|1]]–18 dalimis. ^s-cd3b7283d2067d4a7f1581a3
 
 
 3. Papildyti [[#^s-389ab0bf44ca68d0e8147870|2 straipsnį]] nauja 19 dalimi: ^s-8184753af8a86e62a61b24c4

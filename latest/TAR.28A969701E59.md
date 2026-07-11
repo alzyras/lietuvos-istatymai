@@ -251,7 +251,7 @@ KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ADMINISTRAVIMAS
 16) organizuoja ir finansuoja Lietuvai reikšmingų kultūros objektų, esančių užsienyje, paiešką ir grąžinimą, istorinės apžvalgos rengimą, kaupia ir sistemina informaciją apie juos, organizuoja ir finansuoja leidinių apie Lietuvai reikšmingus kultūros objektus užsienyje leidimą; ^s-7be1826f63d488f7d7f8c688
 
 
-17) Administracinių teisės pažeidimų kodekso nustatytais atvejais surašo administracinių teisės pažeidimų protokolus, pagal kompetenciją nagrinėja administracinių teisės pažeidimų bylas; ^s-4690c350c296c1d84495b548
+17) [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatytais atvejais surašo administracinių teisės pažeidimų protokolus, pagal kompetenciją nagrinėja administracinių teisės pažeidimų bylas; ^s-4690c350c296c1d84495b548
 
 
 18) atlieka kitas šio įstatymo ir kitų teisės aktų nustatytas funkcijas. ^s-4ada58d9611a1831b73715a2
@@ -260,7 +260,7 @@ KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ADMINISTRAVIMAS
 4. Lietuvos archyvų departamento prie Lietuvos Respublikos Vyriausybės (toliau – Lietuvos archyvų departamentas) kompetenciją kilnojamųjų kultūros vertybių – dokumentų apsaugos srityje nustato [[latest/TAR.1FEF229DA7C6|Dokumentų ir archyvų įstatymas]]. ^s-7fd22bae9734018c71bc30d4
 
 
-5. Apskrities viršininko kompetenciją kilnojamųjų kultūros vertybių apsaugos srityje nustato Apskrities valdymo įstatymas. ^s-1f6e64d56b4355c32aad3e60
+5. Apskrities viršininko kompetenciją kilnojamųjų kultūros vertybių apsaugos srityje nustato [Apskrities valdymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF). ^s-1f6e64d56b4355c32aad3e60
 
 
 6. Savivaldybės kilnojamųjų kultūros vertybių apsaugos srityje: ^s-5bfaa7e0a5fe56af37990c10
@@ -302,7 +302,7 @@ KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSKAITA
 3. Dokumentų, kurie yra kilnojamosios kultūros vertybės ir priklauso Nacionaliniam dokumentų fondui, apskaitą ir saugojimą reglamentuoja [[latest/TAR.1FEF229DA7C6|Dokumentų ir archyvų įstatymas]] ir kiti teisės aktai. ^s-30c18c3ff3f249885feda26c
 
 
-4. Kultūros vertybių registras tvarkomas Valstybės registrų įstatymo, [[latest/TAR.9BC8AEE9D9F8|Nekilnojamojo kultūros paveldo apsaugos įstatymo]], šio įstatymo, Kultūros vertybių registro nuostatų, kuriuos tvirtina Vyriausybė, ir kitų teisės aktų nustatyta tvarka. Vadovaujančioji Kultūros vertybių registro tvarkymo įstaiga yra Kultūros ministerija, o tvarkymo įstaiga – Kultūros paveldo departamentas. ^s-2a8b42b5cce30c6e8f4597d4
+4. Kultūros vertybių registras tvarkomas [Valstybės registrų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296), [[latest/TAR.9BC8AEE9D9F8|Nekilnojamojo kultūros paveldo apsaugos įstatymo]], šio įstatymo, Kultūros vertybių registro nuostatų, kuriuos tvirtina Vyriausybė, ir kitų teisės aktų nustatyta tvarka. Vadovaujančioji Kultūros vertybių registro tvarkymo įstaiga yra Kultūros ministerija, o tvarkymo įstaiga – Kultūros paveldo departamentas. ^s-2a8b42b5cce30c6e8f4597d4
 
 
 5. Jeigu kilnojamoji kultūros vertybė negrąžinamai išvežama iš Lietuvos Respublikos pagal tarptautines sutartis šio įstatymo [[#^s-0fbe2eaf9c1488dde4702817|14 straipsnyje]] nustatytais atvejais, iš valstybinės apskaitos ji neišbraukiama, tačiau jai nebetaikomi šio įstatymo apsaugos reikalavimai, o duomenys apie ją saugomi duomenų bazės archyve neterminuotai. ^s-c5e6e043714f2e567d38a20f
@@ -449,7 +449,7 @@ KILNOJAMŲJŲ KULTŪROS VERTYBIŲ IR ANTIKVARINIŲ DAIKTŲ IŠVEŽIMAS IŠ LIETU
 1. Vyriausybė nustato Kilnojamųjų kultūros vertybių ir antikvarinių daiktų išvežimo iš Lietuvos Respublikos tvarką. ^s-3e88e4b3a03b0ac600f94e11
 
 
-2. Kilnojamosios kultūros vertybės ir antikvariniai daiktai, įrašyti į Vyriausybės patvirtintą sąrašą, gali būti išvežami tik turint leidimą. Leidimą išduoda Kultūros paveldo departamentas. Šių kilnojamųjų kultūros vertybių, išskyrus vertybes, įtrauktas į muziejų ir bibliotekų kilnojamųjų kultūros vertybių apskaitos dokumentus, ir antikvarinių daiktų įkainojimui bei antikvarinių daiktų kultūrinei vertei nustatyti ir išvadoms dėl leidimų juos išvežti išdavimo pateikti sudaroma Kilnojamųjų kultūros vertybių išvežimo taryba. Sprendimas dėl leidimo išvežti turi būti priimtas per 15 darbo dienų nuo rašytinio prašymo pateikimo dienos. Vyriausybės nustatyta tvarka terminas gali būti pratęstas iki 30 darbo dienų. ^s-b4ab4ab5f0c2527889f90204
+2. Kilnojamosios kultūros vertybės ir antikvariniai daiktai, įrašyti į Vyriausybės patvirtintą sąrašą, gali būti išvežami tik turint leidimą. Leidimą išduoda Kultūros paveldo departamentas. Šių kilnojamųjų kultūros vertybių, išskyrus vertybes, įtrauktas į muziejų ir bibliotekų kilnojamųjų kultūros vertybių apskaitos dokumentus, ir antikvarinių daiktų įkainojimui bei antikvarinių daiktų kultūrinei vertei nustatyti ir išvadoms [dėl leidimų](https://e-tar.lt/portal/lt/legalAct/TAR.49F3BFF08717) juos išvežti išdavimo pateikti sudaroma Kilnojamųjų kultūros vertybių išvežimo taryba. Sprendimas dėl leidimo išvežti turi būti priimtas per 15 darbo dienų nuo rašytinio prašymo pateikimo dienos. Vyriausybės nustatyta tvarka terminas gali būti pratęstas iki 30 darbo dienų. ^s-b4ab4ab5f0c2527889f90204
 
 
 3. Jeigu Kilnojamųjų kultūros vertybių išvežimo taryba nustato, kad norimas išvežti kilnojamasis daiktas yra antikvarinis daiktas, kurio nebuvimas Lietuvoje nuskurdintų Lietuvos kultūros paveldą, leidimas negrąžinamai išvežti šį antikvarinį daiktą neišduodamas. Šiuo atveju antikvarinis daiktas, turintis kultūrinę vertę, savininkui sutikus gali būti siūlomas įrašyti į Kultūros vertybių registrą arba Vyriausybės nustatyta tvarka per vienus metus valstybės išperkamas. Jeigu Kilnojamųjų kultūros vertybių išvežimo taryba nustato, kad norimas išvežti antikvarinis daiktas yra nereikšmingas Lietuvos kultūros paveldui, savininko prašymu išduodamas leidimas šį antikvarinį daiktą išvežti negrąžinamai. ^s-20a86b3e50562a0566c53431
@@ -515,7 +515,7 @@ Valstybėms ne Europos Sąjungos narėms kultūros objektai, esantys Lietuvos Re
 ### 18 straipsnis. Lietuvos Respublikos įgaliota institucija ^s-39df691b40839f4b2835dce3
 
 
-1. Kultūros ministerija yra Lietuvos Respublikos įgaliota institucija, priimanti šio įstatymo 16 ir [[#^s-6f3c4df4539561e48e131509|17 straipsniuose]] nurodytų užsienio valstybių prašymus dėl neteisėtai išvežtų kilnojamųjų kultūros vertybių ir kitų kultūros objektų grąžinimo. ^s-d59f8f6e1163a764ddceb809
+1. Kultūros ministerija yra Lietuvos Respublikos įgaliota institucija, priimanti šio įstatymo [[#^s-0bb3c1aba4b8e02960b72720|16]] ir [[#^s-6f3c4df4539561e48e131509|17]] straipsniuose nurodytų užsienio valstybių prašymus dėl neteisėtai išvežtų kilnojamųjų kultūros vertybių ir kitų kultūros objektų grąžinimo. ^s-d59f8f6e1163a764ddceb809
 
 
 2. Kultūros ministerija, išskyrus atvejus, kai Lietuvos Respublikos įstatymai ar tarptautinės sutartys, kurių šalys yra Lietuvos Respublika ir besikreipianti užsienio valstybė, nustato kitaip: ^s-0ab056a86f8e3ffed885494e

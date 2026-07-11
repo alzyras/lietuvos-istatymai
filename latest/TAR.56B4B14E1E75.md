@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis.         Tarptautinio valiutos fondo steigimo sutarties ketvirtojo pakeitimo ratifikavimas ^s-65ec94c23840d6d55f68b927
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 5 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. sausio 7 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinio valiutos fondo steigimo sutarties ketvirtąjį pakeitimą“, ratifikuoja Tarptautinio valiutos fondo steigimo sutarties ketvirtąjį pakeitimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 5 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. sausio 7 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinio valiutos fondo steigimo sutarties ketvirtąjį pakeitimą“](https://e-tar.lt/portal/lt/legalAct/TAR.3D85433F7220), ratifikuoja Tarptautinio valiutos fondo steigimo sutarties ketvirtąjį pakeitimą.
 
 
 

@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 8, 14, 15, 17, 20
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.4A9B29FE9E04|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - 2 citatos - Žemės ūkio bendrovių įstatymo
+- [[latest/TAR.4A9B29FE9E04|Lietuvos Respublikos žemės ūkio bendrovių įstatymas]] - Žemės ūkio bendrovių įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - VIETOS SAVIVALDOS ĮSTATYMO 8, 14, 15, 17, 20, 24, 26, 29, 31, 40 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - VIETOS SAVIVALDOS ĮSTATYMO 8, 14, 15, 17, 20, 24, 26, 29, 31, 40 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS

@@ -14,5 +14,4 @@ pavadinimas: "Lietuvos Respublikos vidaus tarnybos statuto 41 straipsnio pakeit
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.4FC026AC03AE#^s-0bae1da0f38246a0257d7b31|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - Įstatymas Nr. XII-297
-- [[latest/TAR.4FC026AC03AE#^s-bf920f8155f15153f8114615|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymas]] - Įstatymas Nr. XII-297
+_Nėra._

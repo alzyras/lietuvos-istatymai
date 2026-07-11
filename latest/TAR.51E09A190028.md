@@ -65,7 +65,7 @@ Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
 „5) nesukakę senatvės pensijos amžiaus ir negaunantys pajamų, susijusių su darbo santykiais, valstybės tarnautojų ir profesinės karo tarnybos karių bei deleguotų asmenų sutuoktiniai – tuo laikotarpiu, kai jie gyvena užsienyje kartu su valstybės tarnautoju ar deleguotu asmeniu, jeigu pastarasis asmuo deleguotas ar valstybės tarnautojas perkeltas į pareigas Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, tarptautinėje ar Europos Sąjungos institucijoje, ar užsienio valstybės institucijoje, pasiųstas dirbti į specialiąją misiją, ar kai jie gyvena kartu su profesinės karo tarnybos kariu, jeigu profesinės karo tarnybos karys paskirtas atlikti karo tarnybą Lietuvos Respublikos diplomatinėje atstovybėje, konsulinėje įstaigoje, Lietuvos Respublikos atstovybėje prie tarptautinės organizacijos, užsienio valstybės ar tarptautinėje karinėje ar gynybos institucijoje. Deleguotų asmenų sutuoktiniai draudžiami tik tuo atveju, jei deleguotam asmeniui darbo užmokestį ir nuo jo socialinio draudimo įmokas moka asmenį delegavusi Lietuvos Respublikos deleguojančioji institucija;“.
 
 
-4. Papildyti [[#^s-d96f3c5e67cbc7effccbefb3|4 straipsnį]] 7 ir [[#^s-d37f8c0eecd07f3bad4982fe|8 punktais]]: ^s-72e3acb2b02230d296eb4eca
+4. Papildyti [[#^s-d96f3c5e67cbc7effccbefb3|4 straipsnį]] 7 ir 8 punktais: ^s-72e3acb2b02230d296eb4eca
 
 
 „7) šeimos pasirinkimu vienas iš tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas vaiko globėju, auginantys vaiką iki trejų metų;

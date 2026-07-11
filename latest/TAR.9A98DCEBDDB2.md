@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-534d5ec6a8e996aa19576a2d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. vasario 17 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Sutartį dėl netarifinių barjerų prekyboje panaikinimo tarp Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos“, ratifikuoja Sutartį dėl netarifinių barjerų prekyboje panaikinimo tarp Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos, pasirašytą 1997 m. lapkričio 20 d. Rygoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. vasario 17 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Sutartį dėl netarifinių barjerų prekyboje panaikinimo tarp Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos“](https://e-tar.lt/portal/lt/legalAct/TAR.8D9BB848CB73), ratifikuoja Sutartį dėl netarifinių barjerų prekyboje panaikinimo tarp Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos, pasirašytą 1997 m. lapkričio 20 d. Rygoje.
 
 
 

@@ -495,7 +495,7 @@ Nr. XV-733, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00066
 13. Laisvos valstybinės žemės fonde esantys ir nepanaudoti nuosavybės teisėms atkurti valstybinių miškų sklypai, kurie yra įsiterpę į valstybinės reikšmės miškus arba su jais ribojasi, arba yra 5 ha ir didesni ir turi privažiavimo kelius, Vyriausybės nutarimais perduodami patikėjimo teise valdyti miškų urėdijai. Kiti nuosavybės teisėms atkurti nepanaudoti valstybinių miškų sklypai parduodami aukcionuose, jeigu kituose įstatymuose nenustatyta kitaip. ^s-2bed0ee8ddc8457a11fe6df0
 
 
-14. Privačios nuosavybės teise valdomas žemės sklypas (jo dalis), kuriame yra Lietuvos Respublikos miškų valstybės kadastre registruotas miškas, esantis miestui po 1995 m. birželio 1 d. priskirtoje teritorijoje, dėl kurios priskyrimo miestui ar miesto savivaldybės teritorijai priimtas sprendimas iki 2024 m. sausio 1 d., visuomenės poreikiams paimamas vadovaujantis [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymu]]. Šiuo atveju sprendimą dėl žemės sklypo paėmimo visuomenės poreikiams priima Nacionalinės žemės tarnybos vadovas be valstybės institucijos ar savivaldybės tarybos prašymo. Privačios nuosavybės teise valdomas žemės sklypas (jo dalis), kuriame yra Lietuvos Respublikos miškų valstybės kadastre registruotas miškas ir kuris patenka į miestų plėtros teritorijas, dėl kurių priskyrimo miestui ar miesto savivaldybės teritorijai sprendimas priimamas po 2024 m. sausio 1 d., visuomenės poreikiams paimamas suinteresuotos institucijos prašymu ir šios institucijos lėšomis [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymo]] nustatyta tvarka. ^s-35ac4b3e0eddb00aa2e28cca
+14. Privačios nuosavybės teise valdomas žemės sklypas (jo dalis), kuriame yra Lietuvos Respublikos miškų valstybės kadastre registruotas miškas, esantis miestui po 1995 m. birželio 1 d. priskirtoje teritorijoje, dėl kurios priskyrimo miestui ar miesto savivaldybės teritorijai priimtas sprendimas iki 2024 m. sausio 1 d., visuomenės poreikiams paimamas vadovaujantis [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymu]]. Šiuo atveju sprendimą [dėl žemės sklypo paėmimo visuomenės poreikiams](https://e-tar.lt/portal/lt/legalAct/6a2b868047a911e483c6e89f9dba57fd) priima Nacionalinės žemės tarnybos vadovas be valstybės institucijos ar savivaldybės tarybos prašymo. Privačios nuosavybės teise valdomas žemės sklypas (jo dalis), kuriame yra Lietuvos Respublikos miškų valstybės kadastre registruotas miškas ir kuris patenka į miestų plėtros teritorijas, dėl kurių priskyrimo miestui ar miesto savivaldybės teritorijai sprendimas priimamas po 2024 m. sausio 1 d., visuomenės poreikiams paimamas suinteresuotos institucijos prašymu ir šios institucijos lėšomis [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymo]] nustatyta tvarka. ^s-35ac4b3e0eddb00aa2e28cca
 Papildyta straipsnio dalimi:
 Nr. XIV-2336, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25317
 
@@ -522,10 +522,10 @@ Nr. XIII-2418, 2019-08-22, paskelbta TAR 2019-08-23, i. k. 2019-13433
 2) asmuo, nuosavybės teise turintis miškų ūkio paskirties žemės sklypą, kuris ribojasi su parduodamu miškų ūkio paskirties žemės sklypu. ^s-959fb9f39d37c1856e418d99
 
 
-2. Pirmumo teisę (išskyrus atvejus, kai pirmumo teise pasinaudoja žemės sklypo  bendraturčiai Civilinio kodekso 4.79 straipsnyje nustatyta tvarka) įsigyti privačią miškų ūkio paskirties žemę, kuri yra valstybinių parkų konservacinio, ekologinės apsaugos ir rekreacinio prioriteto zonose, valstybiniuose draustiniuose ir kitose saugomose teritorijose, kurioms suteiktas Natura 2000 statusas, arba kuri ribojasi su valstybinės reikšmės mišku, už tokią pat kainą ir kitomis tokiomis pat sąlygomis turi valstybė. Kaina, kurią valstybė gali mokėti už perkamus privačios žemės sklypus, negali viršyti šių žemės sklypų vidutinės rinkos vertės, apskaičiuotos atliekant vertinimą masiniu būdu Vyriausybės įgaliotos institucijos nustatyta tvarka, arba rinkos vertės, apskaičiuotos taikant Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme nustatytą individualų turto vertinimą, jeigu pastaroji vertė yra didesnė. ^s-3588f3390ca8db2fcfd166ad
+2. Pirmumo teisę (išskyrus atvejus, kai pirmumo teise pasinaudoja žemės sklypo  bendraturčiai Civilinio kodekso 4.79 straipsnyje nustatyta tvarka) įsigyti privačią miškų ūkio paskirties žemę, kuri yra valstybinių parkų konservacinio, ekologinės apsaugos ir rekreacinio prioriteto zonose, valstybiniuose draustiniuose ir kitose saugomose teritorijose, kurioms suteiktas Natura 2000 statusas, arba kuri ribojasi su valstybinės reikšmės mišku, už tokią pat kainą ir kitomis tokiomis pat sąlygomis turi valstybė. Kaina, kurią valstybė gali mokėti už perkamus privačios žemės sklypus, negali viršyti šių žemės sklypų vidutinės rinkos vertės, apskaičiuotos atliekant vertinimą masiniu būdu Vyriausybės įgaliotos institucijos nustatyta tvarka, arba rinkos vertės, apskaičiuotos taikant [Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nustatytą individualų turto vertinimą, jeigu pastaroji vertė yra didesnė. ^s-3588f3390ca8db2fcfd166ad
 
 
-3. Miškų ūkio paskirties žemės sklypo savininkas apie sprendimą parduoti miškų ūkio paskirties žemės sklypą praneša pasirinktam notarui arba Nacionalinės žemės tarnybos teritoriniam padaliniui pagal parduodamo miškų ūkio paskirties žemės sklypo buvimo vietą. Pranešime apie sprendimą parduoti miškų ūkio paskirties žemės sklypą žemės savininkas privalo nurodyti pardavimo sąlygas. Miškų ūkio paskirties žemės sklypo savininkui draudžiama nustatyti žemės sklypo pardavimo sąlygą, numatančią, kad šio straipsnio 1 ar [[#^s-3588f3390ca8db2fcfd166ad|2 dalyje]] nurodytas pirmumo teisę turintis asmuo gali pirmumo teise įsigyti parduodamą miškų ūkio paskirties žemės sklypą tik su kitais parduodamais miškų ūkio paskirties žemės sklypais, išskyrus atvejus, kai parduodami miškų ūkio paskirties žemės sklypai ribojasi. Jeigu miškų ūkio paskirties žemės sklypo savininko pranešimas apie sprendimą parduoti miškų ūkio paskirties žemės sklypą pateikiamas notarui, šis ne vėliau kaip per 2 darbo dienas nuo jo gavimo dienos pranešimą perduoda Nacionalinės žemės tarnybos teritoriniam padaliniui pagal parduodamo žemės sklypo buvimo vietą. Kai parduodama bendrosios nuosavybės teise valdoma žemės sklypo dalis, pranešimas apie sprendimą parduoti miškų ūkio paskirties žemės sklypo dalį Nacionalinės žemės tarnybos teritoriniam padaliniui teikiamas, kai Civilinio kodekso 4.79 straipsnyje nustatyta tvarka pirmumo teise pirkti žemės sklypą nepasinaudoja to žemės sklypo bendraturtis. ^s-93da02eb1e159bc05b6b3166
+3. Miškų ūkio paskirties žemės sklypo savininkas apie sprendimą parduoti miškų ūkio paskirties žemės sklypą praneša pasirinktam notarui arba Nacionalinės žemės tarnybos teritoriniam padaliniui pagal parduodamo miškų ūkio paskirties žemės sklypo buvimo vietą. Pranešime apie sprendimą parduoti miškų ūkio paskirties žemės sklypą žemės savininkas privalo nurodyti pardavimo sąlygas. Miškų ūkio paskirties žemės sklypo savininkui draudžiama nustatyti žemės sklypo pardavimo sąlygą, numatančią, kad šio straipsnio [[#^s-e5c257c74bb31683f7270059|1]] ar [[#^s-3588f3390ca8db2fcfd166ad|2]] dalyje nurodytas pirmumo teisę turintis asmuo gali pirmumo teise įsigyti parduodamą miškų ūkio paskirties žemės sklypą tik su kitais parduodamais miškų ūkio paskirties žemės sklypais, išskyrus atvejus, kai parduodami miškų ūkio paskirties žemės sklypai ribojasi. Jeigu miškų ūkio paskirties žemės sklypo savininko pranešimas apie sprendimą parduoti miškų ūkio paskirties žemės sklypą pateikiamas notarui, šis ne vėliau kaip per 2 darbo dienas nuo jo gavimo dienos pranešimą perduoda Nacionalinės žemės tarnybos teritoriniam padaliniui pagal parduodamo žemės sklypo buvimo vietą. Kai parduodama bendrosios nuosavybės teise valdoma žemės sklypo dalis, pranešimas apie sprendimą parduoti miškų ūkio paskirties žemės sklypo dalį Nacionalinės žemės tarnybos teritoriniam padaliniui teikiamas, kai Civilinio kodekso 4.79 straipsnyje nustatyta tvarka pirmumo teise pirkti žemės sklypą nepasinaudoja to žemės sklypo bendraturtis. ^s-93da02eb1e159bc05b6b3166
 Straipsnio dalies pakeitimai:
 Nr. XIII-2410, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12400
 Nr. XIII-2418, 2019-08-22, paskelbta TAR 2019-08-23, i. k. 2019-13433
@@ -551,7 +551,7 @@ Nr. XIV-1319, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15647
 
 
 
-7. Jeigu žemės sklypas parduotas pažeidžiant pirmumo teisę jį pirkti, šio straipsnio 1 ir [[#^s-3588f3390ca8db2fcfd166ad|2 dalyse]] nurodytas suinteresuotas asmuo per 3 mėnesius nuo sužinojimo apie miškų ūkio paskirties žemės sklypo pardavimą dienos arba nuo momento, kai galėjo apie tai sužinoti, turi teisę per teismą reikalauti, kad jam būtų perkeltos pirkėjo teisės ir pareigos. ^s-eabbfc1bda823c382d4b898a
+7. Jeigu žemės sklypas parduotas pažeidžiant pirmumo teisę jį pirkti, šio straipsnio [[#^s-e5c257c74bb31683f7270059|1]] ir [[#^s-3588f3390ca8db2fcfd166ad|2]] dalyse nurodytas suinteresuotas asmuo per 3 mėnesius nuo sužinojimo apie miškų ūkio paskirties žemės sklypo pardavimą dienos arba nuo momento, kai galėjo apie tai sužinoti, turi teisę per teismą reikalauti, kad jam būtų perkeltos pirkėjo teisės ir pareigos. ^s-eabbfc1bda823c382d4b898a
 
 
 Papildyta straipsniu :
@@ -1131,13 +1131,13 @@ Nr. XIII-2527, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19115
 1) I grupės miškuose; ^s-efa78df8f53275b8a4328020
 
 
-2) II grupės – ekosistemų apsaugos miškuose, išskyrus [[#^s-7be5ad8792e29c8205e75fa9|šio straipsnio 1 dalies]] 1, 3, 5, 7 ir 9 punktuose nustatytus atvejus; ^s-e9cd26bfc1d5c9b500d4b679
+2) II grupės – ekosistemų apsaugos miškuose, išskyrus [[#^s-7be5ad8792e29c8205e75fa9|šio straipsnio 1 dalies]] [[#^s-efa78df8f53275b8a4328020|1]], [[#^s-e80b4af17ff52e87d4371ce2|3]], 5, 7 ir 9 punktuose nustatytus atvejus; ^s-e9cd26bfc1d5c9b500d4b679
 
 
-3) III grupės – draustinių miškuose ir valstybinių rezervatų apsaugos zonų miškuose, išskyrus [[#^s-7be5ad8792e29c8205e75fa9|šio straipsnio 1 dalies]] 1, 3, 5, 7 ir 9 punktuose nustatytus atvejus; ^s-e80b4af17ff52e87d4371ce2
+3) III grupės – draustinių miškuose ir valstybinių rezervatų apsaugos zonų miškuose, išskyrus [[#^s-7be5ad8792e29c8205e75fa9|šio straipsnio 1 dalies]] [[#^s-efa78df8f53275b8a4328020|1]], 3, 5, 7 ir 9 punktuose nustatytus atvejus; ^s-e80b4af17ff52e87d4371ce2
 
 
-4) kituose miškuose, esančiuose vieno kilometro atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose miškuose ir III grupės vandens telkinių apsaugos zonų, laukų apsauginiuose ir valstybinių parkų apsaugos zonų miškuose, išskyrus [[#^s-7be5ad8792e29c8205e75fa9|šio straipsnio 1 dalies]] 1, 2, 3, 7, 8, 9 punktuose nurodytus atvejus, jeigu atitinkamų objektų statyba ar atitinkamų teritorijų formavimas numatytas bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose arba šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose. Šiame punkte nustatyti draudimai ir apribojimai netaikomi miško žemę paverčiant kitomis naudmenomis [[#^s-e46ed57c892c0477ea1293a3|šio straipsnio 1 dalies 5 punkte]] nustatytu atveju. ^s-833c329ddd322b16766b6ce0
+4) kituose miškuose, esančiuose vieno kilometro atstumu nuo Baltijos jūros ir Kuršių marių, II grupės rekreaciniuose miškuose ir III grupės vandens telkinių apsaugos zonų, laukų apsauginiuose ir valstybinių parkų apsaugos zonų miškuose, išskyrus [[#^s-7be5ad8792e29c8205e75fa9|šio straipsnio 1 dalies]] [[#^s-efa78df8f53275b8a4328020|1]], [[#^s-e9cd26bfc1d5c9b500d4b679|2]], [[#^s-e80b4af17ff52e87d4371ce2|3]], 7, 8, 9 punktuose nurodytus atvejus, jeigu atitinkamų objektų statyba ar atitinkamų teritorijų formavimas numatytas bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose arba šių saugomų teritorijų specialiojo teritorijų planavimo dokumentuose. Šiame punkte nustatyti draudimai ir apribojimai netaikomi miško žemę paverčiant kitomis naudmenomis [[#^s-e46ed57c892c0477ea1293a3|šio straipsnio 1 dalies 5 punkte]] nustatytu atveju. ^s-833c329ddd322b16766b6ce0
 Straipsnio punkto pakeitimai:
 Nr. XIII-1404, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11465
 Nr. XV-628, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20829
@@ -1167,7 +1167,7 @@ Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 
 
 
-4. Šio straipsnio 2 ir [[#^s-dbb2e1276a2925fa87c44713|3 dalyse]] nenurodytuose miškuose miško žemę paversti kitomis naudmenomis leidžiama, jeigu [[#^s-7be5ad8792e29c8205e75fa9|šio straipsnio 1 dalies]] 1–6, 8 punktuose nurodyti atvejai yra numatyti bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose. ^s-435dad5f18daf626cc627a3c
+4. Šio straipsnio [[#^s-5c3f70ee238722806617c58f|2]] ir [[#^s-dbb2e1276a2925fa87c44713|3]] dalyse nenurodytuose miškuose miško žemę paversti kitomis naudmenomis leidžiama, jeigu [[#^s-7be5ad8792e29c8205e75fa9|šio straipsnio 1 dalies]] 1–6, 8 punktuose nurodyti atvejai yra numatyti bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose. ^s-435dad5f18daf626cc627a3c
 
 
 5. Miško žemės pavertimas kitomis naudmenomis turi būti suplanuotas vietovės lygmens bendruosiuose planuose arba specialiojo teritorijų planavimo dokumentuose, arba detaliuosiuose planuose, arba žemės valdos projektuose. ^s-9f4e5b9c5ebb4d82641be691
@@ -1198,13 +1198,13 @@ Nr. XIII-1644, 2018-11-15, paskelbta TAR 2018-11-27, i. k. 2018-19126
 11. Miško iškirtimas technologinėms ir gamybinėms miško ūkio reikmėms (medelynams įrengti, miško ūkiniams keliams tiesti, priešgaisrinėms juostoms, technologiniams proskiebiams, poilsio aikštelėms ir medienos sandėliams įrengti, nustatyta tvarka žvyrui ir smėliui kasti miško ūkio reikmėms) nėra miško žemės pavertimas kitomis naudmenomis. ^s-be38154715ba0808aea73f51
 
 
-12. Teritorijose, skirtose krašto apsaugos tikslams, miško žemė paverčiama kitomis naudmenomis netaikant šio straipsnio 4, 5 ir [[#^s-b6c986848aeb489700999750|6 dalyse]] nustatytų reikalavimų, kai Vyriausybė priima nutarimą dėl tam tikrų valstybinės miško žemės plotų pavertimo kitomis naudmenomis, o jeigu tai valstybinės reikšmės miškai, – ir nutarimą dėl tam tikrų valstybinės reikšmės miškų plotų išbraukimo iš valstybinės reikšmės miškų plotų. ^s-53abbffbb51f7f279000e3a3
+12. Teritorijose, skirtose krašto apsaugos tikslams, miško žemė paverčiama kitomis naudmenomis netaikant šio straipsnio [[#^s-435dad5f18daf626cc627a3c|4]], [[#^s-9f4e5b9c5ebb4d82641be691|5]] ir [[#^s-b6c986848aeb489700999750|6]] dalyse nustatytų reikalavimų, kai Vyriausybė priima nutarimą dėl tam tikrų valstybinės miško žemės plotų pavertimo kitomis naudmenomis, o jeigu tai valstybinės reikšmės miškai, – ir nutarimą dėl tam tikrų valstybinės reikšmės miškų plotų išbraukimo iš valstybinės reikšmės miškų plotų. ^s-53abbffbb51f7f279000e3a3
 Papildyta straipsnio dalimi:
 Nr. XIII-616, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12308
 
 
 
-13. Jeigu [[#^s-05c8e85e6fc6f5a24b19fe00|šio straipsnio 1 dalies 1 punkte]] nurodyti atvejai numatyti bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose, miško žemė gali būti paverčiama kitomis naudmenomis ir netaikant šio straipsnio 5 ir [[#^s-b6c986848aeb489700999750|6 dalyse]] nustatytų reikalavimų, kai tai reikalinga valstybei svarbiems projektams, stambiam projektui, Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, arba gynybos ir saugumo pramonės projektams, arba gynybos ir saugumo pramonės produktų gamybos vystymo projektams įgyvendinti ir kai Vyriausybė priima nutarimą paversti tam tikrus miško žemės plotus kitomis naudmenomis, jeigu tai valstybinės reikšmės miškai, – ir nutarimą išbraukti tam tikrus valstybinės reikšmės miškų plotus iš valstybinės reikšmės miškų plotų. ^s-380506aff6c45866f28b6fcb
+13. Jeigu [[#^s-05c8e85e6fc6f5a24b19fe00|šio straipsnio 1 dalies 1 punkte]] nurodyti atvejai numatyti bendruosiuose planuose ar valstybei svarbių projektų teritorijų planavimo dokumentuose, miško žemė gali būti paverčiama kitomis naudmenomis ir netaikant šio straipsnio [[#^s-9f4e5b9c5ebb4d82641be691|5]] ir [[#^s-b6c986848aeb489700999750|6]] dalyse nustatytų reikalavimų, kai tai reikalinga valstybei svarbiems projektams, stambiam projektui, Vyriausybės nutarimu pripažintam užtikrinančiu neatidėliotinus valstybės saugumo ir gynybos poreikius, arba gynybos ir saugumo pramonės projektams, arba gynybos ir saugumo pramonės produktų gamybos vystymo projektams įgyvendinti ir kai Vyriausybė priima nutarimą paversti tam tikrus miško žemės plotus kitomis naudmenomis, jeigu tai valstybinės reikšmės miškai, – ir nutarimą išbraukti tam tikrus valstybinės reikšmės miškų plotus iš valstybinės reikšmės miškų plotų. ^s-380506aff6c45866f28b6fcb
 Papildyta straipsnio dalimi:
 Nr. XIII-1988, 2019-03-14, paskelbta TAR 2019-03-25, i. k. 2019-04584
 Straipsnio dalies pakeitimai:
@@ -1598,7 +1598,7 @@ Nr. IX-1447, 2003-04-03, Žin., 2003, Nr. 38-1692 (2003-04-24)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1925, 2003-12-18, Žin., 2003, Nr. 123-5593 (2003-12-30)
 [[latest/TAR.7501477AA243|MIŠKŲ ĮSTATYMO 2, 4, 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-Šio Įstatymo [[#^s-00bc8f28c2204bb646eaaffb|3 straipsnis]] įsigalioja nuo 2004 m. sausio 1 d., 1 ir [[#^s-ba7d0eddc5338319e4de4a19|2 straipsniai]] įsigalioja nuo 2004 m. gegužės 1 d.
+Šio Įstatymo [[#^s-00bc8f28c2204bb646eaaffb|3 straipsnis]] įsigalioja nuo 2004 m. sausio 1 d., [[#^s-b8fc55e297661ae5e09ded2f|1]] ir [[#^s-ba7d0eddc5338319e4de4a19|2]] straipsniai įsigalioja nuo 2004 m. gegužės 1 d.
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1663,7 +1663,7 @@ Nr. XII-386, 2013-06-18, Žin., 2013, Nr. 73-3651 (2013-07-09)
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-761, 2014-01-23, paskelbta TAR 2014-01-23, i. k. 2014-00791
-LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO NR. I-671 7 IR [[#^s-c4f4e42dfaac7a3a032bd043|11 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO NR. I-671 [[#^s-bf56077c3bcedc5b5f4940b7|7]] IR [[#^s-c4f4e42dfaac7a3a032bd043|11]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-a325d65134483091783efaa8|1 straipsnio 2 dalį]] ir šio straipsnio 3 dalį, įsigalioja 2014 m. vasario 1 d.
 Šio įstatymo [[#^s-a325d65134483091783efaa8|1 straipsnio 2 dalis]] įsigalioja 2015 m. sausio 1 d.
 
@@ -1679,7 +1679,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. 16/07-17/07-20/08, 2009-06-22, Žin., 2009, Nr. 75-3074 (2009-06-25)
-DĖL [[latest/TAR.26B563184529|LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO]] (2004 M. SAUSIO 15 D. REDAKCIJA) 22 STRAIPSNIO 6 DALIES (2006 M. BIRŽELIO 8 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2004 M. GEGUŽĖS 26 D. NUTARIMU NR. 635 "DĖL DETALIOJO TERITORIJŲ PLANAVIMO ORGANIZATORIAUS TEISIŲ IR PAREIGŲ PERDAVIMO IR SUTARTIES SUDARYMO TVARKOS APRAŠO PATVIRTINIMO" PATVIRTINTO DETALIOJO TERITORIJŲ PLANAVIMO ORGANIZATORIAUS TEISIŲ IR PAREIGŲ PERDAVIMO IR SUTARTIES SUDARYMO TVARKOS APRAŠO 7.2 PUNKTO (2007 M. SAUSIO 15 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, [[latest/TAR.26B563184529|LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO]], LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO NUOSTATOMS IR LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2002 M. GEGUŽĖS 9 D. NUTARIMO NR. 641 "DĖL MIŠKO ŽEMĖS PAVERTIMO KITOMIS NAUDMENOMIS TVARKOS PATVIRTINIMO" 1 PUNKTU PATVIRTINTOS MIŠKO ŽEMĖS PAVERTIMO KITOMIS NAUDMENOMIS TVARKOS 7.4 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO, [[latest/TAR.26B563184529|LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO]] NUOSTATOMS
+DĖL LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO (2004 M. SAUSIO 15 D. REDAKCIJA) 22 STRAIPSNIO 6 DALIES (2006 M. BIRŽELIO 8 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS [2004 M. GEGUŽĖS 26 D. NUTARIMU NR. 635](https://e-tar.lt/portal/lt/legalAct/TAR.23CBE2E281F1) ["DĖL DETALIOJO TERITORIJŲ PLANAVIMO ORGANIZATORIAUS TEISIŲ IR PAREIGŲ PERDAVIMO IR SUTARTIES SUDARYMO TVARKOS APRAŠO PATVIRTINIMO"](https://e-tar.lt/portal/lt/legalAct/TAR.23CBE2E281F1) PATVIRTINTO DETALIOJO TERITORIJŲ PLANAVIMO ORGANIZATORIAUS TEISIŲ IR PAREIGŲ PERDAVIMO IR SUTARTIES SUDARYMO TVARKOS APRAŠO 7.2 PUNKTO (2007 M. SAUSIO 15 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO, LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO NUOSTATOMS IR LIETUVOS RESPUBLIKOS VYRIAUSYBĖS [2002 M. GEGUŽĖS 9 D. NUTARIMO NR. 641](https://e-tar.lt/portal/lt/legalAct/TAR.07F74FF21E5D) "DĖL MIŠKO ŽEMĖS PAVERTIMO KITOMIS NAUDMENOMIS TVARKOS PATVIRTINIMO" 1 PUNKTU PATVIRTINTOS MIŠKO ŽEMĖS PAVERTIMO KITOMIS NAUDMENOMIS TVARKOS 7.4 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS MIŠKŲ ĮSTATYMO, LIETUVOS RESPUBLIKOS TERITORIJŲ PLANAVIMO ĮSTATYMO NUOSTATOMS
 
 
 
@@ -1695,22 +1695,22 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-f4ca4e511c2553ff67ef9397|
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1690, 2015-05-14, paskelbta TAR 2015-05-15, i. k. 2015-07419
-Lietuvos Respublikos miškų įstatymo Nr. I-671 1 ir [[#^s-bf56077c3bcedc5b5f4940b7|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-b8fc55e297661ae5e09ded2f|1]] ir [[#^s-bf56077c3bcedc5b5f4940b7|7]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1839, 2015-06-23, paskelbta TAR 2015-07-01, i. k. 2015-10586
-Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 3, 4, 5, 6, 9, 13, 14, 15, 16, [[#^s-f20f37169a389e12834e0fea|18 straipsnių]] pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-ba7d0eddc5338319e4de4a19|2]], [[#^s-00bc8f28c2204bb646eaaffb|3]], [[#^s-87505683ebf3fae640ca6704|4]], [[#^s-83a9a5f7153b4f7b38d6ff92|5]], [[#^s-f4ca4e511c2553ff67ef9397|6]], [[#^s-068b587c99d612f25de1c256|9]], [[#^s-23d1ed6696bb94943b83192e|13]], [[#^s-96384e859e3c96f7bf29fede|14]], [[#^s-e684ea013d61504be7204be6|15]], [[#^s-5f93e06acc2359a422ab0ef8|16]], [[#^s-f20f37169a389e12834e0fea|18]] straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2304, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10410
-Lietuvos Respublikos miškų įstatymo Nr. I-671 6, 8, 9 ir [[#^s-07fdb2dfe0db1fe9b3225e67|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-f4ca4e511c2553ff67ef9397|6]], [[#^s-99266bdbc3f7877a49f02f9e|8]], [[#^s-068b587c99d612f25de1c256|9]] ir [[#^s-07fdb2dfe0db1fe9b3225e67|22]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2584, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20338
-Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 7 ir [[#^s-c4f4e42dfaac7a3a032bd043|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-ba7d0eddc5338319e4de4a19|2]], [[#^s-87505683ebf3fae640ca6704|4]], [[#^s-83a9a5f7153b4f7b38d6ff92|5]], [[#^s-bf56077c3bcedc5b5f4940b7|7]] ir [[#^s-c4f4e42dfaac7a3a032bd043|11]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1735,7 +1735,7 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-c4f4e42dfaac7a3a032bd043|
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-628, 2017-07-11, paskelbta TAR 2017-07-14, i. k. 2017-12233
-Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir [[#^s-38763f1282679ba27ff8d554|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-ba7d0eddc5338319e4de4a19|2]], [[#^s-87505683ebf3fae640ca6704|4]], [[#^s-83a9a5f7153b4f7b38d6ff92|5]], [[#^s-f4ca4e511c2553ff67ef9397|6]], [[#^s-bf56077c3bcedc5b5f4940b7|7]], [[#^s-99266bdbc3f7877a49f02f9e|8]], [[#^s-23d1ed6696bb94943b83192e|13]], [[#^s-f20f37169a389e12834e0fea|18]] ir [[#^s-38763f1282679ba27ff8d554|19]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1760,12 +1760,12 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-c4f4e42dfaac7a3a032bd043|
 15.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT12-N4/2019, 2019-04-16, paskelbta TAR 2019-12-02, i. k. 2019-19221
-Dėl Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir [[#^s-38763f1282679ba27ff8d554|19 straipsnių]] pakeitimo įstatymo, Lietuvos Respublikos Seimo statuto 164 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai
+Dėl Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-ba7d0eddc5338319e4de4a19|2]], [[#^s-87505683ebf3fae640ca6704|4]], [[#^s-83a9a5f7153b4f7b38d6ff92|5]], [[#^s-f4ca4e511c2553ff67ef9397|6]], [[#^s-bf56077c3bcedc5b5f4940b7|7]], [[#^s-99266bdbc3f7877a49f02f9e|8]], [[#^s-23d1ed6696bb94943b83192e|13]], [[#^s-f20f37169a389e12834e0fea|18]] ir [[#^s-38763f1282679ba27ff8d554|19]] straipsnių pakeitimo įstatymo, Lietuvos Respublikos Seimo statuto 164 straipsnio 1 dalies atitikties Lietuvos Respublikos Konstitucijai
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2635, 2019-12-10, paskelbta TAR 2019-12-19, i. k. 2019-20657
-Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir [[#^s-38763f1282679ba27ff8d554|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-ba7d0eddc5338319e4de4a19|2]], [[#^s-87505683ebf3fae640ca6704|4]], [[#^s-83a9a5f7153b4f7b38d6ff92|5]], [[#^s-f4ca4e511c2553ff67ef9397|6]], [[#^s-bf56077c3bcedc5b5f4940b7|7]], [[#^s-99266bdbc3f7877a49f02f9e|8]], [[#^s-23d1ed6696bb94943b83192e|13]], [[#^s-f20f37169a389e12834e0fea|18]] ir [[#^s-38763f1282679ba27ff8d554|19]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1775,17 +1775,17 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 papildymo 10-1 straipsniu įsta
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2418, 2019-08-22, paskelbta TAR 2019-08-23, i. k. 2019-13433
-Lietuvos Respublikos miškų įstatymo Nr. I-671 4 ir 4-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-87505683ebf3fae640ca6704|4]] ir 4-1 straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2527, 2019-11-14, paskelbta TAR 2019-11-29, i. k. 2019-19115
-Lietuvos Respublikos miškų įstatymo Nr. I-671 4 ir 4-1 straipsnių pakeitimo [[latest/930970b0c59111e9840ec0427c781bac|įstatymo Nr. XIII-2418]] [[#^s-b8fc55e297661ae5e09ded2f|1 straipsnio]] ir Miškų įstatymo Nr. I-671 [[#^s-c4f4e42dfaac7a3a032bd043|11 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-87505683ebf3fae640ca6704|4]] ir 4-1 straipsnių pakeitimo [[latest/930970b0c59111e9840ec0427c781bac|įstatymo Nr. XIII-2418]] [[#^s-b8fc55e297661ae5e09ded2f|1 straipsnio]] ir Miškų įstatymo Nr. I-671 [[#^s-c4f4e42dfaac7a3a032bd043|11 straipsnio]] pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
-Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/fad428d01ea411ebb0038a8cd8ff585f)
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1795,29 +1795,29 @@ Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-83a9a5f7153b4f7b38d6ff92|
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3198, 2020-06-26, paskelbta TAR 2020-07-09, i. k. 2020-15391
-Lietuvos Respublikos miškų įstatymo Nr. I-671 1, 2, 5, 6, [[#^s-6ea2fd48f2e9d5ae25daf3fc|23 straipsnių]] pakeitimo ir Įstatymo papildymo priedu įstatymas
+Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-b8fc55e297661ae5e09ded2f|1]], [[#^s-ba7d0eddc5338319e4de4a19|2]], [[#^s-83a9a5f7153b4f7b38d6ff92|5]], [[#^s-f4ca4e511c2553ff67ef9397|6]], [[#^s-6ea2fd48f2e9d5ae25daf3fc|23]] straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1319, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15647
-Lietuvos Respublikos miškų įstatymo Nr. I-671 4, 4-1, 5, 13 ir [[#^s-e684ea013d61504be7204be6|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-87505683ebf3fae640ca6704|4]], 4-1, [[#^s-83a9a5f7153b4f7b38d6ff92|5]], [[#^s-23d1ed6696bb94943b83192e|13]] ir [[#^s-e684ea013d61504be7204be6|15]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2336, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25317
-Lietuvos Respublikos miškų įstatymo Nr. I-671 2 ir [[#^s-87505683ebf3fae640ca6704|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-ba7d0eddc5338319e4de4a19|2]] ir [[#^s-87505683ebf3fae640ca6704|4]] straipsnių pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2379, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25330
-Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 3, 7, 10-1, [[#^s-bcb0e05bbb2a64d45be81086|12 straipsnių]] pakeitimo ir Įstatymo papildymo 10-2 straipsniu įstatymas
+Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-ba7d0eddc5338319e4de4a19|2]], [[#^s-00bc8f28c2204bb646eaaffb|3]], [[#^s-bf56077c3bcedc5b5f4940b7|7]], 10-1, [[#^s-bcb0e05bbb2a64d45be81086|12]] straipsnių pakeitimo ir Įstatymo papildymo 10-2 straipsniu įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-628, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20829
-Lietuvos Respublikos miškų įstatymo Nr. I-671 2 ir [[#^s-c4f4e42dfaac7a3a032bd043|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-ba7d0eddc5338319e4de4a19|2]] ir [[#^s-c4f4e42dfaac7a3a032bd043|11]] straipsnių pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-733, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00066
-Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4 ir [[#^s-83a9a5f7153b4f7b38d6ff92|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos miškų įstatymo Nr. I-671 [[#^s-ba7d0eddc5338319e4de4a19|2]], [[#^s-87505683ebf3fae640ca6704|4]] ir [[#^s-83a9a5f7153b4f7b38d6ff92|5]] straipsnių pakeitimo įstatymas

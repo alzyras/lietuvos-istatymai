@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-3593240f50d9fe522b67a5ba
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. liepos 16 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinę Romos konvenciją dėl atlikėjų, fonogramų gamintojų ir transliuojančiųjų organizacijų apsaugos“, ratifikuoja Tarptautinę Romos konvenciją dėl atlikėjų, fonogramų gamintojų ir transliuojančiųjų organizacijų apsaugos, priimtą 1961 m. spalio 26 d. Romoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. liepos 16 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinę Romos konvenciją dėl atlikėjų, fonogramų gamintojų ir transliuojančiųjų organizacijų apsaugos“](https://e-tar.lt/portal/lt/legalAct/TAR.8A4D403BAC94), ratifikuoja Tarptautinę Romos konvenciją dėl atlikėjų, fonogramų gamintojų ir transliuojančiųjų organizacijų apsaugos, priimtą 1961 m. spalio 26 d. Romoje.
 
 
 

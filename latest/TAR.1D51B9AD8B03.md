@@ -70,7 +70,7 @@ Nr. VIII-1576, 2000-03-16, Žin., 2000, Nr. 26-668 (2000-03-29), i. k. [[latest/
 6. Turto padalinimo ir finansinių prievolių paskirstymo savivaldybėms klausimai, susiję su naujų savivaldybių veikla, sprendžiami vadovaujantis Vietos savivaldos ir kitų įstatymų nuostatomis bei Vyriausybės nustatyta tvarka. ^s-8b2d74517a1297b25e4791f1
 
 
-7. Vyriausioji rinkimų komisija, organizuodama 2000 metų savivaldybių tarybų rinkimus pagal šiame įstatyme nustatytas savivaldybių teritorijų ribas, prireikus apskričių viršininkų teikimu gali patikslinti rinkimų apylinkių ribas vėliau negu leidžiama Savivaldybių tarybų rinkimų įstatymo 10 straipsnio 4 dalyje, bet ne vėliau kaip likus 60 dienų iki rinkimų datos, paskelbti naujai sudarytas rinkimų apygardas bei savivaldybėse renkamų tarybos narių skaičių vėliau negu leidžiama Savivaldybių tarybų rinkimų įstatymo 9 straipsnio 3 dalyje, bet ne vėliau kaip likus 75 dienoms iki rinkimų datos. Politinės partijos ir politinės organizacijos gali Vyriausiajai rinkimų komisijai į šių naujai sudaromų rinkimų apygardų rinkimų komisijas pasiūlyti kandidatūras vėliau negu leidžiama Savivaldybių tarybų rinkimų įstatymo 13 straipsnio 4 dalyje, bet ne vėliau kaip likus 74 dienoms iki rinkimų datos. ^s-0bacca2b161c07f19cb0e241
+7. Vyriausioji rinkimų komisija, organizuodama 2000 metų savivaldybių tarybų rinkimus pagal šiame įstatyme nustatytas savivaldybių teritorijų ribas, prireikus apskričių viršininkų teikimu gali patikslinti rinkimų apylinkių ribas vėliau negu leidžiama [Savivaldybių tarybų rinkimų įstatymo 10 straipsnio 4 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC), bet ne vėliau kaip likus 60 dienų iki rinkimų datos, paskelbti naujai sudarytas rinkimų apygardas bei savivaldybėse renkamų tarybos narių skaičių vėliau negu leidžiama [Savivaldybių tarybų rinkimų įstatymo 9 straipsnio 3 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC), bet ne vėliau kaip likus 75 dienoms iki rinkimų datos. Politinės partijos ir politinės organizacijos gali Vyriausiajai rinkimų komisijai į šių naujai sudaromų rinkimų apygardų rinkimų komisijas pasiūlyti kandidatūras vėliau negu leidžiama [Savivaldybių tarybų rinkimų įstatymo 13 straipsnio 4 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.336A4B109EBC), bet ne vėliau kaip likus 74 dienoms iki rinkimų datos. ^s-0bacca2b161c07f19cb0e241
 
 
 
@@ -260,16 +260,16 @@ Nr. X-306, 2005-07-05, Žin., 2005, Nr. 88-3283 (2005-07-21), i. k. [[latest/TAR
 Po 2000 metų rinkimų į savivaldybių tarybas netenka galios:
 
 
-1) Lietuvos Respublikos įstatymas „Dėl Druskininkų miesto ir Varėnos rajono savivaldybių teritorijų administracinių ribų pakeitimo“ (Žin., 1995, Nr. 85-1913); ^s-0a8d9b2b94c0bd6d86029e13
+1) Lietuvos Respublikos įstatymas [„Dėl Druskininkų miesto ir Varėnos rajono savivaldybių teritorijų administracinių ribų pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.C9784A445C10) (Žin., 1995, Nr. 85-1913); ^s-0a8d9b2b94c0bd6d86029e13
 
 
-2) Lietuvos Respublikos įstatymas „Dėl Marijampolės miesto ir Marijampolės rajono savivaldybių teritorijų administracinių ribų pakeitimo“ (Žin., 1995, Nr. 85-1914); ^s-9786f51ced670de908878725
+2) Lietuvos Respublikos įstatymas [„Dėl Marijampolės miesto ir Marijampolės rajono savivaldybių teritorijų administracinių ribų pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.167EF34CE075) (Žin., 1995, Nr. 85-1914); ^s-9786f51ced670de908878725
 
 
-3) Lietuvos Respublikos Birštono miesto ir Prienų rajono savivaldybių teritorijų administracinių ribų pakeitimo įstatymas (Žin., 1996, Nr. 29-706); ^s-5ffaef77d79c499e7b74f9d3
+3) [Lietuvos Respublikos Birštono miesto ir Prienų rajono savivaldybių teritorijų administracinių ribų pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.BFF0E81C00AD) (Žin., 1996, Nr. 29-706); ^s-5ffaef77d79c499e7b74f9d3
 
 
-4) Lietuvos Respublikos Vilniaus miesto, Vilniaus ir Trakų rajonų savivaldybių teritorijų administracinių ribų pakeitimo įstatymas (Žin., 1996, Nr. 43-1044). ^s-8c9db0d74e42dfdb88aca1a1
+4) [Lietuvos Respublikos Vilniaus miesto, Vilniaus ir Trakų rajonų savivaldybių teritorijų administracinių ribų pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.86467DECC3D9) (Žin., 1996, Nr. 43-1044). ^s-8c9db0d74e42dfdb88aca1a1
 
 
 
@@ -303,8 +303,8 @@ Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatym
 
 4.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2001-06-28, Žin., 2001, Nr. 56-1997 (2001-06-30), i. k. 1011000NUTARG011960
-Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir [[#^s-44fc75f9c427d26dcc1d5ea0|5 straipsnio]] pakeitimo įstatymo įgyvendinimo įstatymo atitikties Lietuvos Respublikos Konstitucijai, taip pat dėl Lietuvos Respublikos Vyriausybės 1999 m. lapkričio 29 d. nutarimo Nr. 1307 "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo įgyvendinimo įstatymo projektų" atitikties Lietuvos Respublikos Konstitucijai, [[latest/TAR.0120FD7BCFFC|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo]] (1999 m. gegužės 4 d. redakcija) 7 bei 13 straipsniams ir [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymo]] (1998 m. lapkričio 17 d. redakcija) 15 straipsnio 30 punktui
+2001-06-28, Žin., 2001, Nr. 56-1997 (2001-06-30), i. k. [1011000NUTARG011960](https://e-tar.lt/portal/lt/legalAct/TAR.CC42DF610277)
+Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo [[#^s-7896a4a5a3f9f6442f3ac189|4]], 14 straipsnių papildymo ir [[#^s-44fc75f9c427d26dcc1d5ea0|5 straipsnio]] pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo [[#^s-7896a4a5a3f9f6442f3ac189|4]], 14 straipsnių papildymo ir [[#^s-44fc75f9c427d26dcc1d5ea0|5 straipsnio]] pakeitimo įstatymo įgyvendinimo įstatymo atitikties Lietuvos Respublikos Konstitucijai, taip pat dėl Lietuvos Respublikos Vyriausybės [1999 m. lapkričio 29 d. nutarimo Nr. 1307](https://e-tar.lt/portal/lt/legalAct/TAR.7F7BEE8A5A61) "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo [[#^s-7896a4a5a3f9f6442f3ac189|4]] ir [[#^s-44fc75f9c427d26dcc1d5ea0|5]] straipsnių pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo [[#^s-7896a4a5a3f9f6442f3ac189|4]] ir [[#^s-44fc75f9c427d26dcc1d5ea0|5]] straipsnių pakeitimo įstatymo įgyvendinimo įstatymo projektų" atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo (1999 m. gegužės 4 d. redakcija) 7 bei 13 straipsniams ir Lietuvos Respublikos vietos savivaldos įstatymo (1998 m. lapkričio 17 d. redakcija) 15 straipsnio 30 punktui
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas

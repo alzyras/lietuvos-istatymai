@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-3ccb961b1e1f0a51ebfc7714
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gruodžio 24 d. dekretą Nr. 1152, ratifikuoja Lietuvos Respublikos ir Slovėnijos Respublikos laisvosios prekybos sutartį, pasirašytą 1996 m. spalio 4 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [1996 m. gruodžio 24 d. dekretą Nr. 1152](https://e-tar.lt/portal/lt/legalAct/TAR.79A64B53ABC4), ratifikuoja Lietuvos Respublikos ir Slovėnijos Respublikos laisvosios prekybos sutartį, pasirašytą 1996 m. spalio 4 d. Vilniuje.
 
 
 

@@ -112,7 +112,7 @@ Iki šiol išrinktų arba paskirtų apylinkių teismų teisėjų įgaliojimų la
 8 straipsnis
 
 
-Lietuvos Respublikos įstatymo [[latest/TAR.CCA48EFA01D1|„Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo“]] 4–6 straipsnių normos, reglamentuojančios reikalavimus asmenims, galintiems būti šių teismų teisėjais, taip pat patariamąja institucija Respublikos Prezidentui, taikomos iki [[latest/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymo]] įsigaliojimo.
+Lietuvos Respublikos įstatymo [[latest/TAR.CCA48EFA01D1|„Dėl Lietuvos Aukščiausiojo Teismo, Lietuvos apeliacinio teismo, apygardų teismų įsteigimo, apygardų ir apylinkių teismų veiklos teritorijų nustatymo bei Lietuvos Respublikos prokuratūros reformavimo“]] [[latest/TAR.CCA48EFA01D1|4]]–[[latest/TAR.CCA48EFA01D1|6]] straipsnių normos, reglamentuojančios reikalavimus asmenims, galintiems būti šių teismų teisėjais, taip pat patariamąja institucija Respublikos Prezidentui, taikomos iki [[latest/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymo]] įsigaliojimo.
 
 
 
@@ -140,7 +140,7 @@ Lietuvos Respublikos Vyriausybė iki 1994 m. rugsėjo 1 d. parengia ir pateikia 
 12 straipsnis
 
 
-Pasiūlyti Lietuvos Aukščiausiajam Teismui iki 1994 m. rugsėjo 1 d. parengti ir pateikti Seimui Lietuvos Aukščiausiojo Teismo statuto projektą.
+Pasiūlyti Lietuvos Aukščiausiajam Teismui iki 1994 m. rugsėjo 1 d. parengti ir pateikti Seimui [Lietuvos Aukščiausiojo Teismo statuto](https://e-tar.lt/portal/lt/legalAct/TAR.1DAB8BD6385D) projektą.
 
 
 
@@ -239,16 +239,16 @@ NETENKA GALIOS
 23. Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. vasario 13 d. nutarimas „Dėl Lietuvos Respublikos teismų santvarkos ir teisėjų statuso įstatymo įsigaliojimo tvarkos“ (Žin., 1990, Nr. 8-186).
 
 
-24. Lietuvos Respublikos 1990 m. rugsėjo 27 d. įstatymas „Dėl Lietuvos Respublikos teismų santvarkos ir teisėjų statuso įstatymo 19 straipsnio pakeitimo“ (Žin., 1990, Nr. 29-695).
+24. Lietuvos Respublikos 1990 m. rugsėjo 27 d. įstatymas [„Dėl Lietuvos Respublikos teismų santvarkos ir teisėjų statuso įstatymo 19 straipsnio pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.76768C1309A0) (Žin., 1990, Nr. 29-695).
 
 
 25. Lietuvos Respublikos 1990 m. rugsėjo 27 d. įstatymas „Dėl rajonų (miestų) teismų teisėjų ir tarėjų skaičiaus“ (Žin., 1990, Nr. 29-696).
 
 
-26. Lietuvos Respublikos 1990 m. spalio 31 d. įstatymas „Dėl Lietuvos Respublikos teismų santvarkos ir teisėjų statuso įstatymo 49 straipsnio pakeitimo“ (Žin., 1990, Nr. 32-772).
+26. Lietuvos Respublikos 1990 m. spalio 31 d. įstatymas [„Dėl Lietuvos Respublikos teismų santvarkos ir teisėjų statuso įstatymo 49 straipsnio pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.A2440EA675F0) (Žin., 1990, Nr. 32-772).
 
 
-27. Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. spalio 31 d. nutarimas „Dėl Lietuvos Aukščiausiojo Teismo tarėjų laikinos rinkimų tvarkos“ (Žin., 1990, Nr. 32-773).
+27. Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. spalio 31 d. nutarimas [„Dėl Lietuvos Aukščiausiojo Teismo tarėjų laikinos rinkimų tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.B36535ED60C8) (Žin., 1990, Nr. 32-773).
 
 
 28. Lietuvos Respublikos Aukščiausiosios Tarybos 1991 m. lapkričio 7 d. nutarimas „Dėl rajonų (miestų) teismų teisėjų ir tarėjų skaičiaus“ (Žin., 1991, Nr. 32-875).
@@ -257,11 +257,11 @@ NETENKA GALIOS
 29. [[latest/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymas]] (Žin., 1992, Nr. 8-208).
 
 
-30. Lietuvos Respublikos Aukščiausiosios Tarybos 1992 m. vasario 6 d. nutarimas „Dėl Lietuvos Respublikos teismų įstatymo įsigaliojimo“ (Žin., 1992, Nr. 8-209).
+30. Lietuvos Respublikos Aukščiausiosios Tarybos 1992 m. vasario 6 d. nutarimas [„Dėl Lietuvos Respublikos teismų įstatymo įsigaliojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.C8C7748F872C) (Žin., 1992, Nr. 8-209).
 
 
-31. Lietuvos Respublikos 1992 m. spalio 29 d. įstatymas „Dėl apygardų teismų, Lietuvos apeliacinio teismo ir Lietuvos Aukščiausiojo Teismo įsteigimo ir Lietuvos Respublikos teismų įstatymo 15 straipsnio papildymo“ (Žin., 1992, Nr. 32-976).
+31. Lietuvos Respublikos 1992 m. spalio 29 d. įstatymas [„Dėl apygardų teismų, Lietuvos apeliacinio teismo ir Lietuvos Aukščiausiojo Teismo įsteigimo ir Lietuvos Respublikos teismų įstatymo 15 straipsnio papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.730E2C2E914A) (Žin., 1992, Nr. 32-976).
 
 
-32. Lietuvos Respublikos 1993 m. gegužės 4 d. įstatymas „Dėl Lietuvos Aukščiausiojo Teismo sudėties“ (Žin., 1993, Nr. 15-378).
+32. Lietuvos Respublikos 1993 m. gegužės 4 d. įstatymas [„Dėl Lietuvos Aukščiausiojo Teismo sudėties“](https://e-tar.lt/portal/lt/legalAct/TAR.04A262EE83D3) (Žin., 1993, Nr. 15-378).
 ______________

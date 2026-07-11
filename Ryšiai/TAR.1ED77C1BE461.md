@@ -14,5 +14,4 @@ pavadinimas: "Lietuvos Respublikos prokuratūros įstatymo 51 straipsnio pakeiti
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.3EB53577EFCA#^s-d755605dce9449b3bb13103b|Lietuvos Respublikos prokuratūros įstatymas]] - 2 citatos - PROKURATŪROS ĮSTATYMO 51 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.3EB53577EFCA#^s-f9df04e3cfb7f188918846f5|Lietuvos Respublikos prokuratūros įstatymas]] - 2 citatos - PROKURATŪROS ĮSTATYMO 51 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.3EB53577EFCA#^s-f9df04e3cfb7f188918846f5|Lietuvos Respublikos prokuratūros įstatymas]] - PROKURATŪROS ĮSTATYMO 51 STRAIPSNIO PAKEITIMO ĮSTATYMAS

@@ -58,7 +58,7 @@ Vilnius
 Pakeisti [[#^s-cd2a155538bacb3061953836|4 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
-„2. Statutiniams valstybės tarnautojams šio Įstatymo [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnio]] 4 ir 5 dalys, [[#^s-976efcbdc6f4a61dbb06ee1c|19 straipsnio]] 2 ir 3 dalys, 39 straipsnio 1 dalis, 43 straipsnio 5 dalies 9 punktas ir šio Įstatymo VI skyrius taikomi be išlygų. Kitos šio Įstatymo nuostatos statutiniams valstybės tarnautojams taikomos tiek, kiek jų statuso nereglamentuoja statutai ar [[latest/TAR.46EF9E1D52E9|Diplomatinės tarnybos įstatymas]].“
+„2. Statutiniams valstybės tarnautojams šio Įstatymo [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnio]] [[#^s-522a5e4cfa0d241ed44f93e4|4]] ir [[#^s-2c03ccfc8b4c0f64a214df16|5]] dalys, [[#^s-976efcbdc6f4a61dbb06ee1c|19 straipsnio]] 2 ir 3 dalys, 39 straipsnio 1 dalis, 43 straipsnio 5 dalies 9 punktas ir šio Įstatymo VI skyrius taikomi be išlygų. Kitos šio Įstatymo nuostatos statutiniams valstybės tarnautojams taikomos tiek, kiek jų statuso nereglamentuoja statutai ar [[latest/TAR.46EF9E1D52E9|Diplomatinės tarnybos įstatymas]].“
 
 
 
@@ -97,7 +97,7 @@ Pakeisti [[#^s-cd2a155538bacb3061953836|4 straipsnio 2 dalį]] ir ją išdėstyt
 2. Pakeisti [[#^s-40ceb6dcfcab055dd85377c6|10 straipsnio 4 dalį]] ir ją išdėstyti taip: ^s-b1e528726d25046796db36b1
 
 
-„4. Jeigu kiti įstatymai (išskyrus statutus, Diplomatinės tarnybos įstatymą, Korupcijos prevencijos įstatymą, Valstybės ir tarnybos paslapčių įstatymą ir Apskrities valdymo įstatyme, [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatyme]], [[latest/TAR.33DE665E5E0E|Savivaldybių administracinės priežiūros įstatyme]] ir Laikino [[latest/TAR.EA5F9F0D6DBB|tiesioginio valdymo savivaldybės teritorijoje įstatyme]] nustatytas įstaigos vadovų priėmimo į pareigas sąlygas) nustato kitokias priėmimo į valstybės tarnautojo pareigas sąlygas, taikomos šio Įstatymo nuostatos.“
+„4. Jeigu kiti įstatymai (išskyrus statutus, Diplomatinės tarnybos įstatymą, Korupcijos prevencijos įstatymą, Valstybės ir tarnybos paslapčių įstatymą ir [Apskrities valdymo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF), [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatyme]], [[latest/TAR.33DE665E5E0E|Savivaldybių administracinės priežiūros įstatyme]] ir Laikino [[latest/TAR.EA5F9F0D6DBB|tiesioginio valdymo savivaldybės teritorijoje įstatyme]] nustatytas įstaigos vadovų priėmimo į pareigas sąlygas) nustato kitokias priėmimo į valstybės tarnautojo pareigas sąlygas, taikomos šio Įstatymo nuostatos.“
 
 
 3. Papildyti [[#^s-91b9d7d0970b93bc6399ba67|10 straipsnį 6 dalimi]]: ^s-324f94a09d1b3a4572daae67
@@ -137,7 +137,7 @@ Pakeisti [[#^s-cd2a155538bacb3061953836|4 straipsnio 2 dalį]] ir ją išdėstyt
 2. Pakeisti [[#^s-d492bd1304435e884cfb4638|11 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-494378800a0de6174ea94495
 
 
-„3. Be konkurso į karjeros valstybės tarnautojo pareigas gali būti priimama šio Įstatymo [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnio]] 2, 3 ir 5 dalyse bei 43 straipsnio 2, 3 ir 15 dalyse nurodytais atvejais. Jeigu asmenų, kurie tokiu būdu gali būti priimti į karjeros valstybės tarnautojo pareigas, yra du ir daugiau, jie egzaminuojami žodžiu (pokalbis).“
+„3. Be konkurso į karjeros valstybės tarnautojo pareigas gali būti priimama šio Įstatymo [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnio]] [[#^s-a497356a7554bda2e199efeb|2]], [[#^s-5793fc6a6e3c50c82d558829|3]] ir [[#^s-2c03ccfc8b4c0f64a214df16|5]] dalyse bei 43 straipsnio 2, 3 ir 15 dalyse nurodytais atvejais. Jeigu asmenų, kurie tokiu būdu gali būti priimti į karjeros valstybės tarnautojo pareigas, yra du ir daugiau, jie egzaminuojami žodžiu (pokalbis).“
 
 
 3. [[#^s-e71211fe7d844232c397e238|11 straipsnio 4 dalį]] pripažinti netekusia galios. ^s-423ff3c626814ebe2cc5fb15
@@ -159,7 +159,7 @@ Pakeisti ir papildyti13 straipsnį ir jį išdėstyti taip:
 2. Asmuo, konkurso būdu priimamas į įstaigos vadovo pareigas, egzaminuojamas raštu (testas) ir žodžiu (pokalbis). Egzaminas laikomas valstybine – lietuvių kalba. Pokalbio metu patikrinami asmens gebėjimai atlikti valstybės tarnautojo pareigybės aprašyme nustatytas funkcijas, taip pat kitų kalbų, privalomų tokioms funkcijoms atlikti, mokėjimas. ^s-ed35dbaec86750868c79e07c
 
 
-3. Be konkurso į įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymo nustatytai kadencijai) pareigas gali būti priimama šio Įstatymo [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnio]] 2 ir [[#^s-2aad7d07606231d53273972f|3 dalyse]] bei 43 straipsnio 3 dalyje nurodytais atvejais.“ ^s-2aad7d07606231d53273972f
+3. Be konkurso į įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymo nustatytai kadencijai) pareigas gali būti priimama šio Įstatymo [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnio]] [[#^s-a497356a7554bda2e199efeb|2]] ir [[#^s-5793fc6a6e3c50c82d558829|3]] dalyse bei 43 straipsnio 3 dalyje nurodytais atvejais.“ ^s-2aad7d07606231d53273972f
 
 
 
@@ -222,31 +222,31 @@ e) taip pat gauti atlyginimą šio Įstatymo 17 straipsnio 1 punkte nurodytu atv
 3) dėl išvykimo kartu su priimtu, perkeltu, paskirtu arba išrinktu darbui užsienyje sutuoktiniu (išskyrus diplomato statusą turintį sutuoktinį) savo noru atsistatydino iš karjeros valstybės tarnautojo arba įstaigos vadovo pareigų, – per 3 mėnesius po sutuoktinio perkėlimo laikotarpio pabaigos arba per 3 mėnesius nuo prašymo atkurti karjeros valstybės tarnautojo arba įstaigos vadovo statusą pateikimo dienos, jeigu toks prašymas pateikiamas nepasibaigus sutuoktinio perkėlimo laikotarpiui.“ ^s-463438703fda0e4435508844
 
 
-3. Papildyti [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnį]] nauja [[#^s-cc1824f70471d5f81f7e7448|3 dalimi]]: ^s-cc1824f70471d5f81f7e7448
+3. Papildyti [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnį]] nauja 3 dalimi: ^s-cc1824f70471d5f81f7e7448
 
 
 „3. Teisę atkurti karjeros valstybės tarnautojo statusą – Vyriausybės nustatyta tvarka grįžti į eitas arba, jeigu nėra galimybės, kitas tos pačios kategorijos karjeros valstybės tarnautojo pareigas toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje – ir teisę atkurti įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymo nustatytai kadencijai) statusą – Vyriausybės nustatyta tvarka grįžti į eitas arba, jeigu nėra galimybės, kitas tos pačios kategorijos įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymo nustatytai kadencijai) pareigas kitoje valstybės ar savivaldybės institucijoje ar įstaigoje – turi diplomatų sutuoktiniai, kurie atsistatydino savo noru iš karjeros valstybės tarnautojo arba įstaigos vadovo pareigų dėl išvykimo kartu su sutuoktiniu, paskirtu dirbti užsienyje. Šie asmenys turi teisę atkurti karjeros valstybės tarnautojo statusą arba įstaigos vadovo statusą per 3 mėnesius po sutuoktinio perkėlimo laikotarpio pabaigos arba per 3 mėnesius nuo prašymo atkurti karjeros valstybės tarnautojo statusą arba įstaigos vadovo statusą pateikimo dienos, jeigu toks prašymas pateikiamas nepasibaigus sutuoktinio perkėlimo laikotarpiui.“
 
 
-4. Papildyti [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnį]] nauja [[#^s-40ceb6dcfcab055dd85377c6|4 dalimi]]: ^s-40ceb6dcfcab055dd85377c6
+4. Papildyti [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnį]] nauja 4 dalimi: ^s-40ceb6dcfcab055dd85377c6
 
 
 „4. Teisę atkurti statutinio valstybės tarnautojo statusą – Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka grįžti į eitas arba, jeigu nėra galimybės, kitas statutinio valstybės tarnautojo pareigas toje pačioje arba kitoje valstybės institucijoje ar įstaigoje, kurioje pareigas einančių statutinių valstybės tarnautojų statusą reglamentuoja atitinkamas statutas arba [[latest/TAR.46EF9E1D52E9|Diplomatinės tarnybos įstatymas]], – turi buvę statutiniai valstybės tarnautojai, statuto arba [[latest/TAR.46EF9E1D52E9|Diplomatinės tarnybos įstatymo]] nustatyta tvarka atsistatydinę savo noru ir paskirti dirbti tarptautinėje institucijoje arba užsienio valstybės institucijoje, taip pat buvę statutiniai valstybės tarnautojai, atsistatydinę savo noru iš pareigų ir išvykę kartu su sutuoktiniais, perkeltais, paskirtais arba išrinktais darbui užsienyje. Jei statutai ar [[latest/TAR.46EF9E1D52E9|Diplomatinės tarnybos įstatymas]] nenustato kitaip, šie asmenys turi teisę atkurti statutinio valstybės tarnautojo statusą per 3 mėnesius nuo darbo tarptautinėje institucijoje arba užsienio valstybės institucijoje pabaigos arba per 3 mėnesius po sutuoktinio perkėlimo laikotarpio pabaigos, arba per 3 mėnesius nuo prašymo atkurti statutinio valstybės tarnautojo statusą pateikimo dienos, jeigu toks prašymas pateikiamas nepasibaigus sutuoktinio perkėlimo laikotarpiui.“
 
 
-5. Papildyti [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnį]] nauja [[#^s-85b10bc73c02c5377fb1b351|5 dalimi]]: ^s-85b10bc73c02c5377fb1b351
+5. Papildyti [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnį]] nauja 5 dalimi: ^s-85b10bc73c02c5377fb1b351
 
 
-„5. Jeigu nėra galimybės atkurti įstaigos vadovo statuso šio straipsnio 2 ir [[#^s-cc1824f70471d5f81f7e7448|3 dalyse]] nurodytiems asmenims, turintiems teisę atkurti įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymo nustatytai kadencijai) statusą, nuo [[#^s-ef64e8afb99e209121b406a2|šio straipsnio 2 dalyje]] nurodytų aplinkybių atsiradimo dienos Vyriausybės nustatyta tvarka 3 mėnesius siūlomos tos pačios ar žemesnės kategorijos karjeros valstybės tarnautojo pareigos toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, o nuo [[#^s-cc1824f70471d5f81f7e7448|šio straipsnio 3 dalyje]] nurodytų aplinkybių atsiradimo dienos Vyriausybės nustatyta tvarka 3 mėnesius siūlomos tos pačios kategorijos karjeros valstybės tarnautojo pareigos toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje.“
+„5. Jeigu nėra galimybės atkurti įstaigos vadovo statuso šio straipsnio [[#^s-ef64e8afb99e209121b406a2|2]] ir [[#^s-cc1824f70471d5f81f7e7448|3]] dalyse nurodytiems asmenims, turintiems teisę atkurti įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymo nustatytai kadencijai) statusą, nuo [[#^s-ef64e8afb99e209121b406a2|šio straipsnio 2 dalyje]] nurodytų aplinkybių atsiradimo dienos Vyriausybės nustatyta tvarka 3 mėnesius siūlomos tos pačios ar žemesnės kategorijos karjeros valstybės tarnautojo pareigos toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, o nuo [[#^s-cc1824f70471d5f81f7e7448|šio straipsnio 3 dalyje]] nurodytų aplinkybių atsiradimo dienos Vyriausybės nustatyta tvarka 3 mėnesius siūlomos tos pačios kategorijos karjeros valstybės tarnautojo pareigos toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje.“
 
 
-6. Papildyti [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnį]] nauja [[#^s-91b9d7d0970b93bc6399ba67|6 dalimi]]: ^s-91b9d7d0970b93bc6399ba67
+6. Papildyti [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnį]] nauja 6 dalimi: ^s-91b9d7d0970b93bc6399ba67
 
 
-„6. Šio straipsnio 2, 3, 4 ir [[#^s-85b10bc73c02c5377fb1b351|5 dalyse]] nurodyti asmenys privalo būti priimti į valstybės tarnautojo pareigas, jeigu atitinka bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, ir jiems siūlomos pareigybės aprašyme nustatytus specialiuosius reikalavimus. Asmenys, siekiantys atkurti įstaigos vadovo statusą, gali būti priimti į šias pareigas priimančio asmens sprendimu po į šias pareigas priimančio asmens ir asmens, priimamo į valstybės tarnautojo pareigas, pokalbio, kurio metu patikrinami asmens gebėjimai atlikti įstaigos vadovo pareigybės aprašyme nustatytas funkcijas.“
+„6. Šio straipsnio [[#^s-ef64e8afb99e209121b406a2|2]], [[#^s-cc1824f70471d5f81f7e7448|3]], [[#^s-40ceb6dcfcab055dd85377c6|4]] ir [[#^s-85b10bc73c02c5377fb1b351|5]] dalyse nurodyti asmenys privalo būti priimti į valstybės tarnautojo pareigas, jeigu atitinka bendruosius reikalavimus, keliamus asmeniui, priimamam į valstybės tarnautojo pareigas, ir jiems siūlomos pareigybės aprašyme nustatytus specialiuosius reikalavimus. Asmenys, siekiantys atkurti įstaigos vadovo statusą, gali būti priimti į šias pareigas priimančio asmens sprendimu po į šias pareigas priimančio asmens ir asmens, priimamo į valstybės tarnautojo pareigas, pokalbio, kurio metu patikrinami asmens gebėjimai atlikti įstaigos vadovo pareigybės aprašyme nustatytas funkcijas.“
 
 
-7. Buvusias [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnio]] 3 ir [[#^s-40ceb6dcfcab055dd85377c6|4 dalis]] laikyti atitinkamai 7 ir 8 dalimis. ^s-482293a6cb3655316a2de3ed
+7. Buvusias [[#^s-ed3709214e46f4f9b2aa91a1|16 straipsnio]] [[#^s-5793fc6a6e3c50c82d558829|3]] ir [[#^s-522a5e4cfa0d241ed44f93e4|4]] dalis laikyti atitinkamai [[#^s-62c1c062f8aab2f86cae7871|7]] ir 8 dalimis. ^s-482293a6cb3655316a2de3ed
 
 
 
@@ -340,7 +340,7 @@ Pakeisti [[#^s-976efcbdc6f4a61dbb06ee1c|19 straipsnį]] ir jį išdėstyti taip:
 2. Atsižvelgiant į delegavimą į tarptautines institucijas ir užsienio valstybių institucijas reglamentuojančius teisės aktus, karjeros valstybės tarnautojas arba statutinis valstybės tarnautojas jo rašytiniu sutikimu gali būti laikinai perkeltas į pareigas tarptautinėje institucijoje ar užsienio valstybės institucijoje. Pretenduojantys būti laikinai perkelti į šias pareigas valstybės tarnautojai atrenkami Vyriausybės nustatyta tvarka. ^s-374b5d2c63dcaf938ecc5a79
 
 
-3. Paprastai pagal šio straipsnio 1 ar [[#^s-374b5d2c63dcaf938ecc5a79|2 dalį]] perkeltas valstybės tarnautojas kitas pareigas gali eiti ne ilgiau kaip trejus metus, jeigu tarptautinė sutartis ar Europos Sąjungos teisės aktai nenustato kitaip. ^s-e19646b093ad1de6398569b5
+3. Paprastai pagal šio straipsnio [[#^s-f8bdbeef2e398c375c3a3b9a|1]] ar [[#^s-374b5d2c63dcaf938ecc5a79|2]] dalį perkeltas valstybės tarnautojas kitas pareigas gali eiti ne ilgiau kaip trejus metus, jeigu tarptautinė sutartis ar Europos Sąjungos teisės aktai nenustato kitaip. ^s-e19646b093ad1de6398569b5
 
 
 4. Karjeros valstybės tarnautojas gali būti perkeltas į kitas pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, jeigu jis atitinka pareigybės, į kurią perkeliama, aprašyme nustatytus specialius reikalavimus. ^s-14e4d6fd848434a76eeb2c7e
@@ -515,10 +515,10 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 „39 straipsnis. Atostogos dėl valstybės tarnautojo perkėlimo į kitas pareigas
 
 
-1. Karjeros valstybės tarnautojui dėl šio Įstatymo [[#^s-23f0867b44b35f3bb129e1d5|18 straipsnyje]] (išskyrus šio Įstatymo [[#^s-23f0867b44b35f3bb129e1d5|18 straipsnio]] 1 ir [[#^s-afa9d22b5728a7c5e14785f8|2 dalyse]] nustatytą perkėlimą) nustatyto perkėlimo į kitas pareigas kitoje gyvenamojoje vietovėje ir dėl [[#^s-976efcbdc6f4a61dbb06ee1c|19 straipsnyje]] nustatyto perkėlimo į kitas pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, dėl perkėlimo dirbti į specialiąsias misijas, taip pat dėl karjeros valstybės tarnautojo ir statutinio valstybės tarnautojo laikino perkėlimo dirbti į tarptautinę instituciją ar užsienio valstybės instituciją skiriama iki 5 darbo dienų persikėlimo atostogų. Už šį laikotarpį valstybės tarnautojui mokamas jo vidutinis mėnesinis darbo užmokestis, apskaičiuotas Vyriausybės nustatyta tvarka. ^s-fa8437c212a39ed66f94eb96
+1. Karjeros valstybės tarnautojui dėl šio Įstatymo [[#^s-23f0867b44b35f3bb129e1d5|18 straipsnyje]] (išskyrus šio Įstatymo [[#^s-23f0867b44b35f3bb129e1d5|18 straipsnio]] 1 ir 2 dalyse nustatytą perkėlimą) nustatyto perkėlimo į kitas pareigas kitoje gyvenamojoje vietovėje ir dėl [[#^s-976efcbdc6f4a61dbb06ee1c|19 straipsnyje]] nustatyto perkėlimo į kitas pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, dėl perkėlimo dirbti į specialiąsias misijas, taip pat dėl karjeros valstybės tarnautojo ir statutinio valstybės tarnautojo laikino perkėlimo dirbti į tarptautinę instituciją ar užsienio valstybės instituciją skiriama iki 5 darbo dienų persikėlimo atostogų. Už šį laikotarpį valstybės tarnautojui mokamas jo vidutinis mėnesinis darbo užmokestis, apskaičiuotas Vyriausybės nustatyta tvarka. ^s-fa8437c212a39ed66f94eb96
 
 
-2. Persikėlimo išlaidas, susidariusias dėl šio Įstatymo [[#^s-23f0867b44b35f3bb129e1d5|18 straipsnyje]] (išskyrus šio Įstatymo [[#^s-23f0867b44b35f3bb129e1d5|18 straipsnio]] 1 ir [[#^s-afa9d22b5728a7c5e14785f8|2 dalyse]] nustatytą perkėlimą) nustatyto perkėlimo į kitas pareigas kitoje gyvenamojoje vietovėje, moka valstybės ar savivaldybės institucija ar įstaiga, į kurią perkeltas valstybės tarnautojas. Persikėlimo išlaidas, susidariusias dėl šio Įstatymo 19 straipsnio 1 dalyje nustatyto perkėlimo, moka valstybės ar savivaldybės institucija ar įstaiga, iš kurios perkeliamas valstybės tarnautojas. Persikėlimo išlaidos mokamos Vyriausybės nustatyta tvarka.“ ^s-afa9d22b5728a7c5e14785f8
+2. Persikėlimo išlaidas, susidariusias dėl šio Įstatymo [[#^s-23f0867b44b35f3bb129e1d5|18 straipsnyje]] (išskyrus šio Įstatymo [[#^s-23f0867b44b35f3bb129e1d5|18 straipsnio]] 1 ir 2 dalyse nustatytą perkėlimą) nustatyto perkėlimo į kitas pareigas kitoje gyvenamojoje vietovėje, moka valstybės ar savivaldybės institucija ar įstaiga, į kurią perkeltas valstybės tarnautojas. Persikėlimo išlaidas, susidariusias dėl šio Įstatymo 19 straipsnio 1 dalyje nustatyto perkėlimo, moka valstybės ar savivaldybės institucija ar įstaiga, iš kurios perkeliamas valstybės tarnautojas. Persikėlimo išlaidos mokamos Vyriausybės nustatyta tvarka.“ ^s-afa9d22b5728a7c5e14785f8
 
 
 
@@ -544,7 +544,7 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 2. Papildyti 41 straipsnį nauja [[#^s-5bbbc312ac549a9bad576a3b|5 dalimi]]: ^s-a8a1394a8824f5681f0402ec
 
 
-„5. Šio Įstatymo 44 straipsnio 1, [[#^s-a8a1394a8824f5681f0402ec|2 dalyse]] nurodytais pagrindais atleidžiamam, pagal 18 straipsnio 2 dalį ar [[#^s-26395d4448aad32f33c4a51f|20 straipsnį]] perkeliamam į kitą valstybės ar savivaldybės instituciją ar įstaigą valstybės tarnautojui jo atleidimo (perkėlimo) iš pareigų dieną išmokamos visos jam priklausančios pinigų sumos.“
+„5. Šio Įstatymo 44 straipsnio 1, 2 dalyse nurodytais pagrindais atleidžiamam, pagal 18 straipsnio 2 dalį ar [[#^s-26395d4448aad32f33c4a51f|20 straipsnį]] perkeliamam į kitą valstybės ar savivaldybės instituciją ar įstaigą valstybės tarnautojui jo atleidimo (perkėlimo) iš pareigų dieną išmokamos visos jam priklausančios pinigų sumos.“
 
 
 3. Papildyti 41 straipsnį nauja 6 dalimi: ^s-2e0068711df4bf56d69cf59e
@@ -682,7 +682,7 @@ Pakeisti 44 straipsnį ir jį išdėstyti taip:
 3) praranda Lietuvos Respublikos pilietybę; ^s-dcfdefc58722201c3adf4789
 
 
-4) per [[latest/TAR.5603BD9D8D74|Valstybės tarnybos įstatymo pakeitimo įstatymo]] įgyvendinimo įstatyme nustatytą terminą neįgyja einamoms pareigoms būtino išsilavinimo; ^s-6264601f1a2b341b98bf4674
+4) per [Valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.8C46EE8DC023) nustatytą terminą neįgyja einamoms pareigoms būtino išsilavinimo; ^s-6264601f1a2b341b98bf4674
 
 
 5) įstatymų nustatytais atvejais pasibaigia įstaigos vadovo kadencija; ^s-0b7a08e3adfd8d737fac619e
@@ -842,16 +842,16 @@ Pakeisti 49 straipsnį ir išdėstyti jį taip:
 ### 33 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-e45d26001e345a52a4c18a0d
 
 
-1. Šio įstatymo [[#^s-516b08b3c3591a7f4fda0ca9|5 straipsnio]] 3, 4, 5 ir [[#^s-2fedd3ba0138bdb4b3045199|6 dalys]], [[#^s-533d3ed86012f82b5a12eb4e|9 straipsnis]], [[#^s-254c89f201293d5d97666023|10 straipsnio 1 dalis]], [[#^s-40499ccc2a51b7bc440ebf57|10 straipsnio]] 2 ir [[#^s-c0304e5fa8bbd10ee35c3f64|3 dalys]], kiek tai susiję su įstaigos vadovo statuso atkūrimu, [[#^s-40ceb6dcfcab055dd85377c6|10 straipsnio 4 dalis]], 11, 12, 14, 17, [[#^s-26395d4448aad32f33c4a51f|20 straipsniai]] ir [[#^s-64c9b7da1d59589ab189bdfd|30 straipsnio]] 2 ir [[#^s-c0304e5fa8bbd10ee35c3f64|3 dalys]] įsigalioja nuo 2006 m. liepos 1 d. ^s-ccb76fc8e3069baecd3f86f4
+1. Šio įstatymo [[#^s-516b08b3c3591a7f4fda0ca9|5 straipsnio]] [[#^s-324f94a09d1b3a4572daae67|3]], [[#^s-33024ff83c1fc0be33701724|4]], [[#^s-6113672db0dbd88e703666f3|5]] ir [[#^s-02c315229682059ebfee10d1|6]] dalys, [[#^s-533d3ed86012f82b5a12eb4e|9 straipsnis]], [[#^s-254c89f201293d5d97666023|10 straipsnio 1 dalis]], [[#^s-40499ccc2a51b7bc440ebf57|10 straipsnio]] [[#^s-ef64e8afb99e209121b406a2|2]] ir [[#^s-cc1824f70471d5f81f7e7448|3]] dalys, kiek tai susiję su įstaigos vadovo statuso atkūrimu, [[#^s-40ceb6dcfcab055dd85377c6|10 straipsnio 4 dalis]], [[#^s-510d216dc554e2b19d5e8df8|11]], [[#^s-38f5294fe6a486534d11b142|12]], [[#^s-7d15aca4697a35e9ec520820|14]], [[#^s-f994f59b19a7d9564e87f953|17]], [[#^s-26395d4448aad32f33c4a51f|20]] straipsniai ir [[#^s-64c9b7da1d59589ab189bdfd|30 straipsnio]] [[#^s-39ccc989905a01c987621d18|2]] ir [[#^s-a3234a1d5e045292d6caeaa9|3]] dalys įsigalioja nuo 2006 m. liepos 1 d. ^s-ccb76fc8e3069baecd3f86f4
 
 
-2. Iki šio įstatymo [[#^s-516b08b3c3591a7f4fda0ca9|5 straipsnio]] 3, 4 ir [[#^s-5ea55ee2cf6fc7f4df70f64d|5 dalių]] įsigaliojimo paskelbti konkursai dėl priėmimo į karjeros valstybės tarnautojo ir į įstaigos vadovo pareigas vykdomi pagal jų paskelbimo dieną galiojusius teisės aktus. ^s-d4e9b6242a6bc9e061883944
+2. Iki šio įstatymo [[#^s-516b08b3c3591a7f4fda0ca9|5 straipsnio]] [[#^s-324f94a09d1b3a4572daae67|3]], [[#^s-33024ff83c1fc0be33701724|4]] ir [[#^s-6113672db0dbd88e703666f3|5]] dalių įsigaliojimo paskelbti konkursai dėl priėmimo į karjeros valstybės tarnautojo ir į įstaigos vadovo pareigas vykdomi pagal jų paskelbimo dieną galiojusius teisės aktus. ^s-d4e9b6242a6bc9e061883944
 
 
 3. Karjeros valstybės tarnautojų sutuoktiniams, iki šio įstatymo įsigaliojimo išvykusiems kartu su perkeltais į kitas pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, taip pat į pareigas tarptautinėse organizacijose ar institucijose, Europos Sąjungos institucijose ar įstaigose valstybės tarnautojais, garantuojamos eitos pareigos, jeigu iki išvykimo jie buvo karjeros valstybės tarnautojai. ^s-c0304e5fa8bbd10ee35c3f64
 
 
-4. Asmenims, kurie iki šio įstatymo įsigaliojimo savo noru atsistatydino iš karjeros valstybės tarnautojo arba įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymo nustatytai kadencijai) pareigų dėl šio įstatymo [[#^s-ef64e8afb99e209121b406a2|10 straipsnio 2 dalyje]] nurodytų priežasčių (išskyrus [[#^s-4b51879de81b8db929ab899d|šio straipsnio 4 dalyje]] nurodytus atvejus), taikomos šio įstatymo [[#^s-40499ccc2a51b7bc440ebf57|10 straipsnio]] 2, 5 ir [[#^s-2fedd3ba0138bdb4b3045199|6 dalių]] nuostatos. ^s-4b51879de81b8db929ab899d
+4. Asmenims, kurie iki šio įstatymo įsigaliojimo savo noru atsistatydino iš karjeros valstybės tarnautojo arba įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymo nustatytai kadencijai) pareigų dėl šio įstatymo [[#^s-ef64e8afb99e209121b406a2|10 straipsnio 2 dalyje]] nurodytų priežasčių (išskyrus šio straipsnio 4 dalyje nurodytus atvejus), taikomos šio įstatymo [[#^s-40499ccc2a51b7bc440ebf57|10 straipsnio]] [[#^s-ef64e8afb99e209121b406a2|2]], [[#^s-85b10bc73c02c5377fb1b351|5]] ir [[#^s-91b9d7d0970b93bc6399ba67|6]] dalių nuostatos. ^s-4b51879de81b8db929ab899d
 
 
 5. Šio įstatymo [[#^s-7c3ad591ec46fdbb708b4f53|8 straipsnis]] ir [[#^s-fca338f80e0cf146653e3eb6|28 straipsnio]] nuostatos dėl valstybės tarnautojų darbo užmokesčio mokėjimo kvalifikacijos tobulinimo tarptautinėse institucijose ir užsienio valstybių institucijose metu taikomos santykiams, kurie atsirado įsigaliojus šiam įstatymui. ^s-5ea55ee2cf6fc7f4df70f64d

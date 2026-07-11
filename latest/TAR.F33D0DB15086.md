@@ -44,7 +44,7 @@ Vilnius
 ### 2 straipsnis. Kvalifikaciniai reikalavimai ^s-7d4b717754e0d82e190e48fb
 
 
-Iki bus įgyvendinti Vyriausybės nustatyti aukštojo teisinio išsilavinimo kvalifikaciniai reikalavimai, numatyti Notariato įstatymo pakeitimo ir papildymo įstatymo 1 straipsnio 2 dalyje, šiam išsilavinimui prilyginamas vienos pakopos aukštasis teisinis universitetinis išsilavinimas. Iki Vyriausybės nustatytų aukštojo teisinio išsilavinimo kvalifikacinių reikalavimų įgyvendinimo įgytas vienos pakopos aukštasis teisinis universitetinis išsilavinimas laikomas atitinkančiu kvalifikacinius reikalavimus, kurie keliami asmenims, norintiems tapti notarais.
+Iki bus įgyvendinti Vyriausybės nustatyti aukštojo teisinio išsilavinimo kvalifikaciniai reikalavimai, numatyti [[latest/TAR.D19DD3E4FAA6|Notariato įstatymo pakeitimo ir papildymo įstatymo 1 straipsnio 2 dalyje]], šiam išsilavinimui prilyginamas vienos pakopos aukštasis teisinis universitetinis išsilavinimas. Iki Vyriausybės nustatytų aukštojo teisinio išsilavinimo kvalifikacinių reikalavimų įgyvendinimo įgytas vienos pakopos aukštasis teisinis universitetinis išsilavinimas laikomas atitinkančiu kvalifikacinius reikalavimus, kurie keliami asmenims, norintiems tapti notarais.
 
 
 
@@ -54,10 +54,10 @@ Iki bus įgyvendinti Vyriausybės nustatyti aukštojo teisinio išsilavinimo kva
 Vyriausybė iki 1998 m. liepos 1 d.:
 
 
-1) patvirtina teisinių pareigybių, numatytų Notariato įstatymo pakeitimo ir papildymo įstatymo 1 straipsnio 3 dalyje, sąrašą; ^s-d7e4ee99badc7a47b972303d
+1) patvirtina teisinių pareigybių, numatytų [[latest/TAR.D19DD3E4FAA6|Notariato įstatymo pakeitimo ir papildymo įstatymo 1 straipsnio 3 dalyje]], sąrašą; ^s-d7e4ee99badc7a47b972303d
 
 
-2) suderinusi su aukštosiomis mokyklomis, rengiančiomis teisininkus su aukštuoju teisiniu išsilavinimu, nustato ir patvirtina aukštojo teisinio išsilavinimo kvalifikacinius reikalavimus, numatytus Notariato įstatymo pakeitimo ir papildymo įstatymo 1 straipsnio 2 dalyje. ^s-409b5837df03572419318449
+2) suderinusi su aukštosiomis mokyklomis, rengiančiomis teisininkus su aukštuoju teisiniu išsilavinimu, nustato ir patvirtina aukštojo teisinio išsilavinimo kvalifikacinius reikalavimus, numatytus [[latest/TAR.D19DD3E4FAA6|Notariato įstatymo pakeitimo ir papildymo įstatymo 1 straipsnio 2 dalyje]]. ^s-409b5837df03572419318449
 
 
 

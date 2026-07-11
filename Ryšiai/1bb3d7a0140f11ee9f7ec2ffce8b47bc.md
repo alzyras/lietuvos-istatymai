@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.2E0162CE3FB9#^s-226c15e8e6441d1f142b2cd4|Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymas]] - 5 straipsnyje
+- [[latest/TAR.2E0162CE3FB9#^s-2c94eb2c4cf0701f0fdce1b1|Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymas]] - 2 citatos - 15 straipsnis
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.2E0162CE3FB9#^s-2c94eb2c4cf0701f0fdce1b1|Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymas]] - Įstatymas Nr. XIV-2067
-- [[latest/TAR.2E0162CE3FB9#^s-d93abdf205125a26476b0cbe|Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymas]] - Įstatymas Nr. XIV-2067
+_Nėra._

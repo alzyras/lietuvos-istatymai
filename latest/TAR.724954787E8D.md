@@ -84,7 +84,7 @@ BENDROJI DALIS
 ### 3 straipsnis. Konsulinių pareigūnų veiklos teisiniai pagrindai ^s-4c05bb0ab6f1d04c3fffd088
 
 
-1. Konsuliniai pareigūnai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, 1963 m. Vienos konvencija dėl konsulinių santykių, kitomis Lietuvos Respublikos tarptautinėmis sutartimis, šiuo statutu, Lietuvos Respublikos notariato, Lietuvos Respublikos diplomatinės tarnybos ir Lietuvos Respublikos valstybės tarnybos įstatymais, kitais nacionalinės teisės ir Europos Sąjungos teisės aktais. ^s-46c2ded17cbcae300bd7f247
+1. Konsuliniai pareigūnai savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), 1963 m. [Vienos konvencija dėl konsulinių santykių](https://e-tar.lt/portal/lt/legalAct/TAR.5445815F0BD2), kitomis Lietuvos Respublikos tarptautinėmis sutartimis, šiuo statutu, Lietuvos Respublikos notariato, Lietuvos Respublikos diplomatinės tarnybos ir Lietuvos Respublikos valstybės tarnybos įstatymais, kitais nacionalinės teisės ir Europos Sąjungos teisės aktais. ^s-46c2ded17cbcae300bd7f247
 
 
 2. Konsulinių pareigūnų, išskyrus garbės konsulinius pareigūnus, ir jų šeimos narių teisinę padėtį ir socialines garantijas nustato [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatymas]]. ^s-b1470b2b0e5d9bb9cf652b77
@@ -424,7 +424,7 @@ Konsulinis pareigūnas tvarko Lietuvos Respublikos piliečių tikrosios karo ir 
 1. Nustatytos formos legalizavimo įrašu konsulinis pareigūnas patvirtina legalizuojamame dokumente esantį parašą, pasirašiusio asmens pareigas ir antspaudą. Dokumento legalizavimas nepatvirtina dokumento turinio tikrumo. ^s-55544f5ac23349359b64e89c
 
 
-2. Dokumentai tvirtinami pažyma (Apostille) vadovaujantis 1961 m. spalio 5 d. Hagos konvencija dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo. ^s-9ace2a24cb6661cc55de9924
+2. Dokumentai tvirtinami pažyma (Apostille) vadovaujantis 1961 m. spalio 5 d. Hagos [konvencija dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo](https://e-tar.lt/portal/lt/legalAct/TAR.35B48E5133C4). ^s-9ace2a24cb6661cc55de9924
 
 
 3. Dokumentų legalizavimo ar tvirtinimo pažyma (Apostille) nereikalaujama, kai pagal Lietuvos Respublikos tarptautines sutartis ar Europos Sąjungos teisės aktus dokumentas yra atleistas nuo legalizavimo ar tvirtinimo pažyma (Apostille). ^s-56525a8843eff037261d9568

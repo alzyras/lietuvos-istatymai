@@ -9,11 +9,10 @@ pavadinimas: "Lietuvos Respublikos civilinės saugos įstatymo 2, 3, 6, 7, 9, 10
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.6286F15970B3|Lietuvos Respublikos branduolinės energijos įstatymas]] - 2 citatos - Branduolinės energijos įstatymo
-- [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - 2 citatos - Civilinės saugos įstatymo
-- [[latest/TAR.3ED3D65F5638|Lietuvos Respublikos valstybės rezervo įstatymas]] - 2 citatos - Valstybės rezervo įstatymo
+- [[latest/TAR.6286F15970B3|Lietuvos Respublikos branduolinės energijos įstatymas]] - Branduolinės energijos įstatymo
+- [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - 2 citatos - CIVILINĖS SAUGOS ĮSTATYMO
+- [[latest/TAR.3ED3D65F5638|Lietuvos Respublikos valstybės rezervo įstatymas]] - Valstybės rezervo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C15592B096FA#^s-7eca6eeefc64e22a3304b2c3|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - Įstatymas Nr. IX-2001
-- [[latest/TAR.C15592B096FA#^s-8e47b2fe2a2615bae1089f59|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - Įstatymas Nr. IX-2001
+_Nėra._

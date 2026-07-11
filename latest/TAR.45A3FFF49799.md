@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-b00cf42c5ce1b7b0ac8f8557
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2002 m. rugpjūčio 30 d. dekretą Nr. 1877, ratifikuoja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolą Nr. 13 dėl mirties bausmės panaikinimo visais atvejais, pasirašytą 2002 m. gegužės 3 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2002 m. rugpjūčio 30 d. dekretą Nr. 1877](https://e-tar.lt/portal/lt/legalAct/TAR.12EB93636F69), ratifikuoja Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolą Nr. 13 dėl mirties bausmės panaikinimo visais atvejais, pasirašytą 2002 m. gegužės 3 d. Vilniuje.
 
 
 

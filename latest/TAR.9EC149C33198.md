@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-a63cbbd32058a472f32dbaad
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2000 m. lapkričio 14 d. dekretą Nr. 1082, ratifikuoja Lietuvos Respublikos Vyriausybės ir Kipro Respublikos Vyriausybės sutartį dėl tarptautinio keleivių ir krovinių vežimo kelių transportu, pasirašytą 2000 m. vasario 15 d. Nikosijoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2000 m. lapkričio 14 d. dekretą Nr. 1082](https://e-tar.lt/portal/lt/legalAct/TAR.E2EFA69CC9CE), ratifikuoja Lietuvos Respublikos Vyriausybės ir Kipro Respublikos Vyriausybės sutartį dėl tarptautinio keleivių ir krovinių vežimo kelių transportu, pasirašytą 2000 m. vasario 15 d. Nikosijoje.
 
 
 

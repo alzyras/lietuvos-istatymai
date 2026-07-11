@@ -158,10 +158,10 @@ Nr. XIV-1891, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08044
 24. Valstybės sienos kirtimas – asmenų, transporto priemonių vykimas, daiktų, krovinių gabenimas per valstybės sieną. ^s-5041b499552968eff19dd96f
 
 
-25. Sąvokos „išorės siena“, „vidaus siena“ ir „patikrinimai kertant sieną“ suprantamos taip, kaip jos apibrėžtos Reglamente (ES) Nr. 2016/399. ^s-09fd7763024b6a6acf374486
+25. Sąvokos „išorės siena“, „vidaus siena“ ir „patikrinimai kertant sieną“ suprantamos taip, kaip jos apibrėžtos [Reglamente (ES) Nr. 2016/399](https://eur-lex.europa.eu/eli/reg/2016/399/oj). ^s-09fd7763024b6a6acf374486
 
 
-26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatyme]] (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas), Lietuvos Respublikos civiliniame kodekse, [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatyme]], [[latest/TAR.9D2F66B96EBC|Lietuvos Respublikos aviacijos įstatyme]], [[latest/TAR.2A629A227788|Lietuvos Respublikos cheminių medžiagų ir preparatų įstatyme]], [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatyme]], [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme]], [[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme]], Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, [[latest/TAR.56935A08DD06|Lietuvos Respublikos jūros aplinkos apsaugos įstatyme]], [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme]], [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme]], [[latest/TAR.CF3E2829B861|Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatyme]], Lietuvos Respublikos nuodingųjų medžiagų priežiūros įstatyme, [[latest/TAR.CA89372D00AA|Lietuvos Respublikos policijos įstatyme]], [[latest/TAR.423D6799832E|Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme]], [[latest/TAR.8FBB384266D1|Lietuvos Respublikos saugios laivybos įstatyme]], Lietuvos Respublikos vidaus tarnybos statute, [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme]] ir Reglamente (ES) Nr. 2016/399, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente), 1951 m. Konvencijoje dėl pabėgėlių statuso, 1982 m. Jungtinių Tautų jūrų teisės konvencijoje. ^s-23b62402f53ca59dda12b816
+26. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatyme]] (toliau – [[latest/TAR.299D835159BE|Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas]]), Lietuvos Respublikos civiliniame kodekse, [[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatyme]], [[latest/TAR.9D2F66B96EBC|Lietuvos Respublikos aviacijos įstatyme]], [[latest/TAR.2A629A227788|Lietuvos Respublikos cheminių medžiagų ir preparatų įstatyme]], [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatyme]], [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme]], [[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme]], Lietuvos Respublikos įstatyme „Dėl užsieniečių teisinės padėties“, [[latest/TAR.56935A08DD06|Lietuvos Respublikos jūros aplinkos apsaugos įstatyme]], [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme]], [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme]], [[latest/TAR.CF3E2829B861|Lietuvos Respublikos narkotinių ir psichotropinių medžiagų kontrolės įstatyme]], Lietuvos Respublikos nuodingųjų medžiagų priežiūros įstatyme, [[latest/TAR.CA89372D00AA|Lietuvos Respublikos policijos įstatyme]], [[latest/TAR.423D6799832E|Lietuvos Respublikos sprogmenų apyvartos kontrolės įstatyme]], [[latest/TAR.8FBB384266D1|Lietuvos Respublikos saugios laivybos įstatyme]], Lietuvos Respublikos vidaus tarnybos statute, [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme]] ir [Reglamente (ES) Nr. 2016/399](https://eur-lex.europa.eu/eli/reg/2016/399/oj), 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente), 1951 m. Konvencijoje dėl pabėgėlių statuso, 1982 m. Jungtinių Tautų jūrų teisės konvencijoje. ^s-23b62402f53ca59dda12b816
 Straipsnio dalies pakeitimai:
 Nr. XIV-891, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00748
 Nr. XIV-1891, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08044
@@ -242,10 +242,10 @@ VALSTYBĖS SIENOS TEISINIS REŽIMAS
 4) patikrinimų įstaigų pareigūnų reikalavimu išlipti iš transporto priemonės; ^s-018733b6156269593f42c02b
 
 
-5) laikytis eismo juostas valstybės sienos perėjimo punktuose ženklinančių ženklų, kurių pavyzdžiai pateikti Reglamento (ES) Nr. 2016/399 III priede, reikalavimų. ^s-455ae54fb6a16c61ac52c280
+5) laikytis eismo juostas valstybės sienos perėjimo punktuose ženklinančių ženklų, kurių pavyzdžiai pateikti [Reglamento (ES) Nr. 2016/399](https://eur-lex.europa.eu/eli/reg/2016/399/oj) III priede, reikalavimų. ^s-455ae54fb6a16c61ac52c280
 
 
-6. Šio straipsnio 2, 3, 4 ir [[#^s-b24027503ad6ba3236a66c26|5 dalys]] taikomos: ^s-972e2090da10a116756b0913
+6. Šio straipsnio [[#^s-a22613ea4b66d84de22aae78|2]], [[#^s-797ef677138bd76f35bb73df|3]], [[#^s-cb3053af4a7e6144ee2343b2|4]] ir [[#^s-b24027503ad6ba3236a66c26|5]] dalys taikomos: ^s-972e2090da10a116756b0913
 
 
 1) patikrinimų prie išorės sienos metu; ^s-93b5dde071e0c769d8c51f6e
@@ -652,7 +652,7 @@ Nr. XIV-1891, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08044
 5. Fiziniai ir juridiniai asmenys, juridinių asmenų filialai, atstovybės bei juridinio asmens statuso neturintys asmenys išbraukiami iš sąrašo, kai: ^s-76bae600664a1e386d164715
 
 
-1) paaiškėja [[#^s-aee8a2cd8a4964c6192a7bf7|šio straipsnio 3 dalies]] 1, 3, 4 ir [[#^s-abbc501e33ddc00ab7b369a9|5 punktuose]] nurodytos aplinkybės arba paaiškėja, kad fizinis ir juridinis asmuo, juridinio asmens filialas, atstovybė bei juridinio asmens statuso neturintis asmuo kartu su prašymu pateikė suklastotus dokumentus; ^s-ee6ea91959be25229dd8ed2a
+1) paaiškėja [[#^s-aee8a2cd8a4964c6192a7bf7|šio straipsnio 3 dalies]] 1, [[#^s-bd337cd882b451f288bdfe1a|3]], [[#^s-938b61432ef43796da31e6fb|4]] ir [[#^s-abbc501e33ddc00ab7b369a9|5]] punktuose nurodytos aplinkybės arba paaiškėja, kad fizinis ir juridinis asmuo, juridinio asmens filialas, atstovybė bei juridinio asmens statuso neturintis asmuo kartu su prašymu pateikė suklastotus dokumentus; ^s-ee6ea91959be25229dd8ed2a
 Straipsnio punkto pakeitimai:
 Nr. XIV-1891, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08044
 
@@ -703,7 +703,7 @@ Nr. XIV-1891, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08044
 9. Laivybos priežiūros, muitinės, aplinkos apsaugos, žuvininkystės kontrolės institucijos ar įstaigos Valstybės sienos apsaugos tarnybai turi pateikti išankstinius jiems priklausančių laivų ir jais plaukiojančių asmenų sąrašus. ^s-02ea5af1c2201b601bbabf90
 
 
-10. Lietuvos Respublikos karo laivams šio straipsnio 7, 8 ir [[#^s-32f3eae93ac7d6f1a14ae650|19 dalyse]] nustatyti reikalavimai netaikomi. ^s-4934f2e02ca285e71a0fc160
+10. Lietuvos Respublikos karo laivams šio straipsnio [[#^s-6471a0b3bb22e9047c88ddb4|7]], [[#^s-46bcaa64adbbcbdecc355f9e|8]] ir [[#^s-32f3eae93ac7d6f1a14ae650|19]] dalyse nustatyti reikalavimai netaikomi. ^s-4934f2e02ca285e71a0fc160
 
 
 11. Fiziniai ir juridiniai asmenys, juridinių asmenų filialai, atstovybės bei juridinio asmens statuso neturintys asmenys, kurie verčiasi laivų nuoma, kai per parą keletą kartų išvykstama į teritorinę jūrą, vidaus ir pasienio vandenis, tuoj pat, ne vėliau kaip per 24 valandas, praneša Valstybės sienos apsaugos tarnybai tik apie nuomojamų plaukiojimo priemonių pirmo išvykimo iš nuolatinės dislokacijos vietos ir paskutinio numatomo grįžimo laiką, plaukiojimo rajoną ir švartavimosi punktus. ^s-0fdc228add00a3df48d3a096
@@ -927,10 +927,10 @@ VALSTYBĖS SIENOS APSAUGOS TARNYBA
 ### 22 straipsnis. Duomenų tvarkymas Valstybės sienos apsaugos tarnyboje ^s-32410997bbbdb6428a6af914
 
 
-1. Valstybės sienos apsaugos tarnyba, įgyvendindama valstybės sienos apsaugą ir jos kirtimo kontrolę, užtikrindama viešąją tvarką ir valstybės sienos teisinio režimo laikymąsi, vykdydama kriminalinę žvalgybą, ikiteisminį tyrimą ir valstybinę migracijos procesų kontrolę, įgyvendindama nusikalstamų veikų prevenciją, atlikdama jų tyrimą ir atskleisdama nusikalstamas veikas, tvarko asmens duomenis (įskaitant ir specialių kategorijų asmens duomenis) nusikalstamų veikų prevencijos, tyrimo, atskleidimo, apsaugos nuo grėsmių visuomenės saugumui ir jų prevencijos tikslais, taip pat nacionalinio saugumo ir gynybos tikslais, vadovaudamasi Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymu ir šiuo įstatymu. Kai asmens duomenys (įskaitant ir specialių kategorijų asmens duomenis) tvarkomi nacionalinio saugumo ir gynybos tikslais, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas taikomas tiek, kiek šiame įstatyme ir kituose įstatymuose nenustatyta kitaip. ^s-06d42f4c62f38b2c3e4fd34d
+1. Valstybės sienos apsaugos tarnyba, įgyvendindama valstybės sienos apsaugą ir jos kirtimo kontrolę, užtikrindama viešąją tvarką ir valstybės sienos teisinio režimo laikymąsi, vykdydama kriminalinę žvalgybą, ikiteisminį tyrimą ir valstybinę migracijos procesų kontrolę, įgyvendindama nusikalstamų veikų prevenciją, atlikdama jų tyrimą ir atskleisdama nusikalstamas veikas, tvarko asmens duomenis (įskaitant ir specialių kategorijų asmens duomenis) nusikalstamų veikų prevencijos, tyrimo, atskleidimo, apsaugos nuo grėsmių visuomenės saugumui ir jų prevencijos tikslais, taip pat nacionalinio saugumo ir gynybos tikslais, vadovaudamasi Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymu ir šiuo įstatymu. Kai asmens duomenys (įskaitant ir specialių kategorijų asmens duomenis) tvarkomi nacionalinio saugumo ir gynybos tikslais, [[latest/TAR.299D835159BE|Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas]] taikomas tiek, kiek šiame įstatyme ir kituose įstatymuose nenustatyta kitaip. ^s-06d42f4c62f38b2c3e4fd34d
 
 
-2. Jeigu asmens duomenys tvarkomi vidaus administravimo ar kitais tikslais, negu nurodyta [[#^s-06d42f4c62f38b2c3e4fd34d|šio straipsnio 1 dalyje]], asmens duomenys tvarkomi vadovaujantis Reglamentu (ES) 2016/679 ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]]. ^s-bfdfa9cf458a9bbb84f9cc10
+2. Jeigu asmens duomenys tvarkomi vidaus administravimo ar kitais tikslais, negu nurodyta [[#^s-06d42f4c62f38b2c3e4fd34d|šio straipsnio 1 dalyje]], asmens duomenys tvarkomi vadovaujantis [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]]. ^s-bfdfa9cf458a9bbb84f9cc10
 
 
 3. Duomenų subjektų, kurių asmens duomenys tvarkomi [[#^s-06d42f4c62f38b2c3e4fd34d|šio straipsnio 1 dalyje]] nustatytais tikslais, teisėms, siekiant Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-655cf1ee00d2a933d3abae53|11 straipsnio 3 dalyje]], [[#^s-fa49f33fe98f9b7d36f28fde|13 straipsnio 1 dalyje]], [[#^s-76bae600664a1e386d164715|14 straipsnio 5 dalyje]] nurodytų tikslų, gali būti taikomi šie apribojimai: ^s-3d8b7c08f21f6eb8000a5647
@@ -981,7 +981,7 @@ VALSTYBĖS SIENOS APSAUGOS TARNYBA
 8. Europos Sąjungos teisės aktų, Lietuvos Respublikos tarptautinių sutarčių, Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka arba pagal duomenų teikimo ar bendradarbiavimo sutartis Valstybės sienos apsaugos tarnyba teikia tvarkomus duomenis užsienio valstybių teisėsaugos institucijoms, Europos Sąjungos institucijoms, tarptautinėms organizacijoms, valstybės ir savivaldybių institucijoms, įstaigoms ir įmonėms, jeigu tai netrukdo atlikti oficialius arba teisinius nagrinėjimus, tyrimus ar procedūras, nekenkia nusikalstamų veikų prevencijai, tyrimui, atskleidimui ar baudžiamajam persekiojimui už nusikalstamas veikas, nacionaliniam saugumui ir gynybai, visuomenės saugumo užtikrinimui, asmenų teisių ir laisvių apsaugai. ^s-3864b30aef2329e691d8c357
 
 
-9. Duomenys, tvarkomi pagal 2017 m. lapkričio 30 d. Europos Parlamento ir Tarybos reglamento (ES) 2017/2226, kuriuo sukuriama atvykimo ir išvykimo sistema (AIS), kurioje registruojami trečiųjų šalių piliečių, kertančių valstybių narių išorės sienas, atvykimo ir išvykimo bei atsisakymo leisti jiems atvykti duomenys, nustatomos prieigos prie AIS teisėsaugos tikslais sąlygos ir iš dalies keičiama Konvencija dėl Šengeno susitarimo įgyvendinimo ir reglamentai (EB) Nr. 767/2008 ir (ES) Nr. 1077/2011, 40 straipsnio 1 dalį, neperduodami ir prieiga prie jų trečiosioms šalims, tarptautinėms organizacijoms ar privatiems subjektams nesuteikiama, išskyrus atvejus, kai yra tenkinamos Reglamento (ES) 2017/2226 41 ir 42 straipsniuose nustatytos sąlygos. ^s-fa1b58f1ca86cdbee4c920ee
+9. Duomenys, tvarkomi pagal 2017 m. lapkričio 30 d. Europos Parlamento ir Tarybos [reglamento (ES) 2017/2226](https://eur-lex.europa.eu/eli/reg/2017/2226/oj), kuriuo sukuriama atvykimo ir išvykimo sistema (AIS), kurioje registruojami trečiųjų šalių piliečių, kertančių valstybių narių išorės sienas, atvykimo ir išvykimo bei atsisakymo leisti jiems atvykti duomenys, nustatomos prieigos prie AIS teisėsaugos tikslais sąlygos ir iš dalies keičiama Konvencija dėl Šengeno susitarimo įgyvendinimo ir reglamentai (EB) Nr. 767/2008 ir (ES) Nr. 1077/2011, 40 [[#^s-06d42f4c62f38b2c3e4fd34d|straipsnio 1 dalį]], neperduodami ir prieiga prie jų trečiosioms šalims, tarptautinėms organizacijoms ar privatiems subjektams nesuteikiama, išskyrus atvejus, kai yra tenkinamos [Reglamento (ES) 2017/2226](https://eur-lex.europa.eu/eli/reg/2017/2226/oj) 41 ir 42 straipsniuose nustatytos sąlygos. ^s-fa1b58f1ca86cdbee4c920ee
 
 
 Straipsnio pakeitimai:
@@ -1267,8 +1267,8 @@ Nr. XIII-1867, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21879
 
 
 
-16) priimti sprendimus dėl kelionės leidimų išdavimo, atsisakymo išduoti, atšaukimo ar panaikinimo, vadovaujantis 2018 m. rugsėjo 12 d. Europos Parlamento ir Tarybos reglamento (ES) 2018/1240, kuriuo sukuriama Europos kelionių informacijos ir leidimų sistema (ETIAS) ir iš dalies keičiami reglamentai (ES) Nr. 1077/2011, (ES) Nr. 515/2014, (ES) 2016/399, (ES) 2016/1624 ir (ES) 2017/2226, nuostatomis. ^s-b7eb4a250dd2580c9c441be8
-TAR pastaba. [[#^s-b7eb4a250dd2580c9c441be8|26 straipsnio 1 dalies 16 punkto]] nuostata taikoma nuo Reglamente (ES) 2018/1240 nustatytos jo taikymo datos, kurią nustato Europos Komisija pagal Reglamento (ES) 2018/1240 88 straipsnį.
+16) priimti sprendimus dėl kelionės leidimų išdavimo, atsisakymo išduoti, atšaukimo ar panaikinimo, vadovaujantis 2018 m. rugsėjo 12 d. Europos Parlamento ir Tarybos [reglamento (ES) 2018/1240](https://eur-lex.europa.eu/eli/reg/2018/1240/oj), kuriuo sukuriama Europos kelionių informacijos ir leidimų sistema (ETIAS) ir iš dalies keičiami [reglamentai (ES) Nr. 1077/2011](https://eur-lex.europa.eu/eli/reg/1077/2011/oj), (ES) Nr. 515/2014, (ES) 2016/399, (ES) 2016/1624 ir (ES) 2017/2226, nuostatomis. ^s-b7eb4a250dd2580c9c441be8
+TAR pastaba. 26 straipsnio 1 dalies 16 punkto nuostata taikoma nuo [Reglamente (ES) 2018/1240](https://eur-lex.europa.eu/eli/reg/2018/1240/oj) nustatytos jo taikymo datos, kurią nustato Europos Komisija pagal [Reglamento (ES) 2018/1240 88 straipsnį](https://eur-lex.europa.eu/eli/reg/2018/1240/art_88/oj).
 Papildyta straipsnio punktu:
 Nr. XIV-891, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00748
 
@@ -1320,19 +1320,19 @@ Nr. XIV-891, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00748
 8) laivas pažeidžia taikaus plaukimo teritorine jūra, plaukimo ar buvimo joje reikalavimus; ^s-38d86801ff419c036c4358b6
 
 
-9) asmenys pažeidė šio įstatymo [[#^s-3446cdeb38b77500bc9f803c|14 straipsnio]] 1, 12, 15, 17 ir 18 dalių nuostatas. ^s-c5fe2e1b48d1a4f195eae471
+9) asmenys pažeidė šio įstatymo [[#^s-3446cdeb38b77500bc9f803c|14 straipsnio]] [[#^s-1fc6a90fa09b41d7568f2083|1]], [[#^s-ce99ded5f211db741995e861|12]], [[#^s-467e4344e018e1dee3003c84|15]], [[#^s-eef352f2bc043df6a708b3f8|17]] ir [[#^s-59b2c5381f861a19a1fa9184|18]] dalių nuostatas. ^s-c5fe2e1b48d1a4f195eae471
 
 
-3. Valstybės sienos apsaugos tarnybos pareigūnai teritorinėje jūroje, vidaus ir pasienio vandenyse turi teisę lydėti arba vilkti sulaikytą laivą, jeigu laivo kapitonas nevykdo šio straipsnio 1 ir [[#^s-ec76cd6f54e8304e3b3353a8|2 dalių]] nuostatų ir nėra galimybės patikrinti sustabdytą laivą. ^s-1d233efe81992e995a51efd2
+3. Valstybės sienos apsaugos tarnybos pareigūnai teritorinėje jūroje, vidaus ir pasienio vandenyse turi teisę lydėti arba vilkti sulaikytą laivą, jeigu laivo kapitonas nevykdo šio straipsnio [[#^s-6004c6eb1f2b5fea005190f4|1]] ir [[#^s-ec76cd6f54e8304e3b3353a8|2]] dalių nuostatų ir nėra galimybės patikrinti sustabdytą laivą. ^s-1d233efe81992e995a51efd2
 
 
-4. Valstybės sienos apsaugos tarnybos pareigūnai turi teisę organizuoti laivo sustabdymą siekdami sulaikyti asmenį arba atlikti tyrimą dėl nusikalstamų veikų ar administracinių nusižengimų, padarytų laivo plaukimo metu, šio įstatymo [[#^s-aae6c6653fd9c973c9f240e5|6 straipsnio]] 4 ir [[#^s-bbe15be75251bf38bad0e699|6 dalyse]] nurodytais atvejais. ^s-54e9227a11fba78f65cc75eb
+4. Valstybės sienos apsaugos tarnybos pareigūnai turi teisę organizuoti laivo sustabdymą siekdami sulaikyti asmenį arba atlikti tyrimą dėl nusikalstamų veikų ar administracinių nusižengimų, padarytų laivo plaukimo metu, šio įstatymo [[#^s-aae6c6653fd9c973c9f240e5|6 straipsnio]] [[#^s-d4a68209ac507ef40c8ec8b2|4]] ir [[#^s-d7af7ca5c972665943df27fc|6]] dalyse nurodytais atvejais. ^s-54e9227a11fba78f65cc75eb
 
 
 5. Valstybės sienos apsaugos tarnybos pareigūnai turi teisę sustabdyti ar sulaikyti laivą šio įstatymo [[#^s-fa4027a8aa9dc9cd8e508674|6 straipsnio 5 dalyje]] nurodytais atvejais. ^s-fbdd670646e8122a189d9953
 
 
-6. [[#^s-a58240b3c5fc0e6831abfe78|Šio straipsnio 1 dalies 3 punkte]], 2 ir [[#^s-1d233efe81992e995a51efd2|3 dalyse]] nurodytos priemonės negali būti taikomos užsienio valstybėms priklausantiems karo laivams ar laivams, naudojamiems nekomerciniais tikslais. ^s-bbe15be75251bf38bad0e699
+6. [[#^s-a58240b3c5fc0e6831abfe78|Šio straipsnio 1 dalies 3 punkte]], [[#^s-ec76cd6f54e8304e3b3353a8|2]] ir [[#^s-1d233efe81992e995a51efd2|3]] dalyse nurodytos priemonės negali būti taikomos užsienio valstybėms priklausantiems karo laivams ar laivams, naudojamiems nekomerciniais tikslais. ^s-bbe15be75251bf38bad0e699
 
 
 
@@ -1350,7 +1350,7 @@ Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
 
 
 
-2. Psichinę prievartą Valstybės sienos apsaugos tarnybos pareigūnas turi teisę panaudoti šio straipsnio 3 ir [[#^s-e1680482dfa15f4edf52c952|4 dalyse]] arba šio įstatymo [[#^s-62747dcfed3793bc5d4fea5c|29 straipsnio]] 2 ir [[#^s-b6088ffcbcaeb69b33f87965|3 dalyse]] išvardytais atvejais. ^s-06f93179e1c94b228692cf89
+2. Psichinę prievartą Valstybės sienos apsaugos tarnybos pareigūnas turi teisę panaudoti šio straipsnio [[#^s-b6088ffcbcaeb69b33f87965|3]] ir [[#^s-e1680482dfa15f4edf52c952|4]] dalyse arba šio įstatymo [[#^s-62747dcfed3793bc5d4fea5c|29 straipsnio]] [[#^s-85f42579a3db97e824055704|2]] ir [[#^s-9f1fdd98fb732566352df7e2|3]] dalyse išvardytais atvejais. ^s-06f93179e1c94b228692cf89
 
 
 3. Fizinę prievartą Valstybės sienos apsaugos tarnybos pareigūnas turi teisę panaudoti šiais atvejais: ^s-b6088ffcbcaeb69b33f87965
@@ -1497,7 +1497,7 @@ Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
 7. Jeigu neišvengiamo pavojaus Valstybės sienos apsaugos tarnybos pareigūno ar kitų asmenų gyvybei ar sveikatai nėra, šaunamąjį ginklą ir sprogmenis panaudoti draudžiama: ^s-0b0ecd7fcacd0f3ec88e11ef
 
 
-1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus [[#^s-85f42579a3db97e824055704|šio straipsnio 2 dalies]] 1 ir [[#^s-9cd46c7649e6e9d15a06bf31|2 punktuose]] nurodytus atvejus; ^s-9daea764ae3ec1f92708b608
+1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus [[#^s-85f42579a3db97e824055704|šio straipsnio 2 dalies]] 1 ir [[#^s-9cd46c7649e6e9d15a06bf31|2]] punktuose nurodytus atvejus; ^s-9daea764ae3ec1f92708b608
 
 
 2) patalpose, kuriose yra sprogstamųjų medžiagų, lengvai užsidegančių medžiagų, galinčių sukelti pavojų asmens gyvybei bei sveikatai ar visuomenės saugumui. ^s-9cd46c7649e6e9d15a06bf31
@@ -1515,7 +1515,7 @@ Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
 
 
 
-10. Šio straipsnio 1, 2 ir [[#^s-9f1fdd98fb732566352df7e2|3 dalys]] ir 7 dalies 1 punktas netaikomi tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė. ^s-2e703ee06950c21fb74048dd
+10. Šio straipsnio [[#^s-ce9d36b15615bdf1367c197e|1]], [[#^s-85f42579a3db97e824055704|2]] ir [[#^s-9f1fdd98fb732566352df7e2|3]] dalys ir 7 dalies 1 punktas netaikomi tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė. ^s-2e703ee06950c21fb74048dd
 
 
 
@@ -1528,7 +1528,7 @@ Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
 2. Naudojant laivo ginkluotę prieš stabdomą laivą, negalima siekti jį paskandinti. ^s-36c0fe96ffe3970ebdf7e99f
 
 
-3. Valstybės sienos apsaugos tarnybos pareigūnai prieš persekiojamą laivą gali panaudoti laivo ginkluotę, nesilaikydami šio straipsnio 1 ir [[#^s-36c0fe96ffe3970ebdf7e99f|2 dalyse]] nustatytų reikalavimų, jeigu persekiojamas laivas pirmas panaudoja ginklus arba užpuola Valstybės sienos apsaugos tarnybos laivą arba kai delsimas naudoti laivo ginkluotę kelia neišvengiamą pavojų Valstybės sienos apsaugos tarnybos laivui ar jo įgulai arba kitų asmenų gyvybei ar sveikatai, arba kai įspėjimas apie ketinimą naudoti laivo ginkluotę yra neįmanomas. ^s-dd4c2d3e0983537646c46755
+3. Valstybės sienos apsaugos tarnybos pareigūnai prieš persekiojamą laivą gali panaudoti laivo ginkluotę, nesilaikydami šio straipsnio [[#^s-3c7dc528daf5e48ec606505b|1]] ir [[#^s-36c0fe96ffe3970ebdf7e99f|2]] dalyse nustatytų reikalavimų, jeigu persekiojamas laivas pirmas panaudoja ginklus arba užpuola Valstybės sienos apsaugos tarnybos laivą arba kai delsimas naudoti laivo ginkluotę kelia neišvengiamą pavojų Valstybės sienos apsaugos tarnybos laivui ar jo įgulai arba kitų asmenų gyvybei ar sveikatai, arba kai įspėjimas apie ketinimą naudoti laivo ginkluotę yra neįmanomas. ^s-dd4c2d3e0983537646c46755
 
 
 
@@ -1574,7 +1574,7 @@ RĖMĖJŲ VEIKLOS TEISINIAI PAGRINDAI
 3) asmuo, kuris yra įstatymų nustatyta tvarka uždraustos organizacijos narys. ^s-af44c72d5676b68efd20350d
 
 
-5. Į rėmėjų sąrašą įrašytas asmuo su Valstybės sienos apsaugos tarnyba pasirašo 3 metų sutartį, kurioje įsipareigoja neatlygintinai padėti Valstybės sienos apsaugos tarnybai vykdyti šio įstatymo [[#^s-5112e40c49fa31428d1ad2ea|23 straipsnio 1 dalies]] 1–5 punktuose nustatytas funkcijas (toliau – sutartis). Praėjus 3 metų laikotarpiui, jeigu rėmėjas be pažeidimų vykdė jam keliamas užduotis, sutarties galiojimas šalių sutarimu pratęsiamas tam pačiam laikotarpiui. Sutarties sudarymo tvarką ir sutarties sąlygas nustato Valstybės sienos apsaugos tarnybos vadas. ^s-76c6808233ede2da6732b082
+5. Į rėmėjų sąrašą įrašytas asmuo su Valstybės sienos apsaugos tarnyba pasirašo 3 metų sutartį, kurioje įsipareigoja neatlygintinai padėti Valstybės sienos apsaugos tarnybai vykdyti šio įstatymo [[#^s-5112e40c49fa31428d1ad2ea|23 straipsnio 1 dalies]] [[#^s-3dd4884b29fdf0adc2082d25|1]]–[[#^s-e1a0f61384d5359271acbeaf|5]] punktuose nustatytas funkcijas (toliau – sutartis). Praėjus 3 metų laikotarpiui, jeigu rėmėjas be pažeidimų vykdė jam keliamas užduotis, sutarties galiojimas šalių sutarimu pratęsiamas tam pačiam laikotarpiui. Sutarties sudarymo tvarką ir sutarties sąlygas nustato Valstybės sienos apsaugos tarnybos vadas. ^s-76c6808233ede2da6732b082
 
 
 6. Apie nepatenkintą asmens prašymą tapti rėmėju, šio sprendimo apskundimo galimybę ir asmens įrašymą į rėmėjų sąrašą Valstybės sienos apsaugos tarnyba informuoja prašymą pateikusį asmenį ir jį rekomendavusią asociaciją [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nustatyta tvarka. Sprendimas netenkinti asmens prašymo tapti rėmėju gali būti [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka skundžiamas apygardos administraciniam teismui. ^s-7cf4b1077ac610c41b0bedd6
@@ -1607,7 +1607,7 @@ RĖMĖJŲ VEIKLOS TEISINIAI PAGRINDAI
 ### 34 straipsnis. Rėmėjų funkcijos, teisės ir pareigos ^s-29fcc253a59bbd6d299c4e20
 
 
-1. Rėmėjai padeda Valstybės sienos apsaugos tarnybai vykdyti šio įstatymo [[#^s-5112e40c49fa31428d1ad2ea|23 straipsnio 1 dalies]] 1–5 punktuose nustatytas funkcijas, kurias atlieka kartu su Valstybės sienos apsaugos tarnybos pareigūnais. ^s-89891ed04a0c45afae84c7d9
+1. Rėmėjai padeda Valstybės sienos apsaugos tarnybai vykdyti šio įstatymo [[#^s-5112e40c49fa31428d1ad2ea|23 straipsnio 1 dalies]] [[#^s-3dd4884b29fdf0adc2082d25|1]]–[[#^s-e1a0f61384d5359271acbeaf|5]] punktuose nustatytas funkcijas, kurias atlieka kartu su Valstybės sienos apsaugos tarnybos pareigūnais. ^s-89891ed04a0c45afae84c7d9
 
 
 2. Rėmėjai, atlikdami jiems pavestas funkcijas, turi teisę: ^s-d32c26472bdca0f092ec8b03
@@ -1668,7 +1668,7 @@ RĖMĖJŲ VEIKLOS TEISINIAI PAGRINDAI
 ### 35 straipsnis. Rėmėjų įgaliojimai ^s-212ae5d621a70cc23886bb0e
 
 
-1. Rėmėjai, atlikdami jiems pavestas funkcijas, vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais. ^s-5dfcd7e51bede4653df8be35
+1. Rėmėjai, atlikdami jiems pavestas funkcijas, vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais. ^s-5dfcd7e51bede4653df8be35
 
 
 2. Teisėti rėmėjų reikalavimai ir nurodymai asmenims yra privalomi. ^s-eff6ee4547d2d6b96e124ac5
@@ -1829,7 +1829,7 @@ priedas
 
 
 
-1. 2016 m. kovo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 2016/399 dėl taisyklių, reglamentuojančių asmenų judėjimą per sienas, Sąjungos kodekso (Šengeno sienų kodeksas) su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/1717. ^s-2ec43e56499f7a5967a67491
+1. 2016 m. kovo 9 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 2016/399](https://eur-lex.europa.eu/eli/reg/2016/399/oj) dėl taisyklių, reglamentuojančių asmenų judėjimą per sienas, Sąjungos kodekso (Šengeno sienų kodeksas) su paskutiniais pakeitimais, padarytais 2024 m. birželio 13 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/1717](https://eur-lex.europa.eu/eli/reg/2024/1717/oj). ^s-2ec43e56499f7a5967a67491
 
 Punkto pakeitimai:
 Nr. XV-250, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11020
@@ -1888,19 +1888,19 @@ Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 [
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-891, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00748
-Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 2, 22, 23, [[#^s-f3a1ed6c6ca5c216092a587e|26 straipsnių]] pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 [[#^s-ac26a2c963042123e43f2c80|2]], [[#^s-32410997bbbdb6428a6af914|22]], [[#^s-912d24f89fbc46d215909cd1|23]], [[#^s-f3a1ed6c6ca5c216092a587e|26]] straipsnių pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1891, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08044
-Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr.VIII-1666 1, 2, 4, 10, 11, 14, 15, 16, 18, 23, [[#^s-f3a1ed6c6ca5c216092a587e|26 straipsnių]] pakeitimo ir Įstatymo papildymo 23-1 straipsniu ir nauju IX skyriumi įstatymas
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr.VIII-1666 [[#^s-066ad144e77c2c087040ebcb|1]], [[#^s-ac26a2c963042123e43f2c80|2]], [[#^s-5f78302d0134fbe558f17456|4]], [[#^s-7d3192f42b5ca5affa07bd10|10]], [[#^s-829dd3930963839582830328|11]], [[#^s-3446cdeb38b77500bc9f803c|14]], [[#^s-164ef88f36cefb6c6bd2403a|15]], [[#^s-55f83fb92c6ab2d194b6a1f8|16]], [[#^s-2bb8332278f7e0ea0d5c8d15|18]], [[#^s-912d24f89fbc46d215909cd1|23]], [[#^s-f3a1ed6c6ca5c216092a587e|26]] straipsnių pakeitimo ir Įstatymo papildymo 23-1 straipsniu ir nauju IX skyriumi įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3134, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20373
-Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 2, 28 ir [[#^s-62747dcfed3793bc5d4fea5c|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 [[#^s-ac26a2c963042123e43f2c80|2]], [[#^s-0116eb7ac24d25ba34a2ae3e|28]] ir [[#^s-62747dcfed3793bc5d4fea5c|29]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-250, 2025-06-05, paskelbta TAR 2025-06-18, i. k. 2025-11020
-Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 2, [[#^s-5f78302d0134fbe558f17456|4 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos valstybės sienos ir jos apsaugos įstatymo Nr. VIII-1666 [[#^s-ac26a2c963042123e43f2c80|2]], [[#^s-5f78302d0134fbe558f17456|4]] straipsnių ir priedo pakeitimo įstatymas

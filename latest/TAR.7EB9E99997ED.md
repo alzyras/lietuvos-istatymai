@@ -36,7 +36,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-a438dd237403c2cee6c588b5
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. vasario 28 d. dekretą Nr. 1218, ratifikuoja Migruojančių laukinių gyvūnų rūšių išsaugojimo konvenciją, pasirašytą 1979 m. birželio 23 d. Bonoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. vasario 28 d. dekretą Nr. 1218](https://e-tar.lt/portal/lt/legalAct/TAR.79F350428A45), ratifikuoja Migruojančių laukinių gyvūnų rūšių išsaugojimo konvenciją, pasirašytą 1979 m. birželio 23 d. Bonoje.
 
 
 

@@ -73,7 +73,7 @@ Leidimuose importuoti alkoholio produktus įrašomos leidžiamų importuoti alko
 Įmonėms, kurios turi leidimus importuoti alkoholio produktus, draudžiama pagal sutartį perduoti kitiems ūkio subjektams teisę importuoti alkoholio produktus naudojant gabenimo dokumentuose įmonių, turinčių šią teisę, pavadinimus.
 
 
-Leidimų importuoti alkoholio produktus išdavimo, perregistravimo ir atšaukimo sąlygas bei tvarką, atsisakymo juos išduoti ir perregistruoti pagrindus, remdamasi šiuo bei Įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė. Leidimai importuoti alkoholio produktus neišduodami naujai įsteigtoms įmonėms, jeigu jų steigėjai (akcininkai) arba administracijos vadovai yra įmonių, kurioms buvo panaikintas leidimų galiojimas pagal šio įstatymo 44 straipsnio 10 ar 11 dalies nuostatas, steigėjai (akcininkai, kurių turimų akcijų nominali vertė didesnė kaip 1/10 įstatinio kapitalo).“
+Leidimų importuoti alkoholio produktus išdavimo, perregistravimo ir atšaukimo sąlygas bei tvarką, atsisakymo juos išduoti ir perregistruoti pagrindus, remdamasi šiuo bei [Įmonių įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B), nustato Lietuvos Respublikos Vyriausybė. Leidimai importuoti alkoholio produktus neišduodami naujai įsteigtoms įmonėms, jeigu jų steigėjai (akcininkai) arba administracijos vadovai yra įmonių, kurioms buvo panaikintas leidimų galiojimas pagal šio įstatymo 44 straipsnio 10 ar 11 dalies nuostatas, steigėjai (akcininkai, kurių turimų akcijų nominali vertė didesnė kaip 1/10 įstatinio kapitalo).“
 
 
 
@@ -101,7 +101,7 @@ Mažmeninės prekybos alkoholiniais gėrimais ir prekybos alkoholiniais gėrimai
 Mažmeninės prekybos alkoholiniais gėrimais prekybos ir viešojo maitinimo įmonėse leidimuose turi būti įrašyta leidžiamų realizuoti alkoholinių gėrimų rūšys, alkoholinių gėrimų grupės bei prekybos jais laikas ir vieta.
 
 
-Leidimų įmonėms užsiimti vidaus prekyba alkoholio produktais išdavimo, perregistravimo bei atšaukimo tvarką, atsisakymo juos išduoti ir perregistruoti pagrindus, remdamasi šiuo bei Įmonių įstatymu, taip pat prekybos alkoholio produktais tvarką nustato Lietuvos Respublikos Vyriausybė. Leidimai užsiimti vidaus prekyba alkoholio produktais neišduodami naujai įsteigtoms įmonėms, jeigu jų steigėjai yra įmonių, kurioms buvo panaikintas leidimų galiojimas pagal šio įstatymo 44 straipsnio 10 ar 11 dalies nuostatas, steigėjai.“
+Leidimų įmonėms užsiimti vidaus prekyba alkoholio produktais išdavimo, perregistravimo bei atšaukimo tvarką, atsisakymo juos išduoti ir perregistruoti pagrindus, remdamasi šiuo bei [Įmonių įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B), taip pat prekybos alkoholio produktais tvarką nustato Lietuvos Respublikos Vyriausybė. Leidimai užsiimti vidaus prekyba alkoholio produktais neišduodami naujai įsteigtoms įmonėms, jeigu jų steigėjai yra įmonių, kurioms buvo panaikintas leidimų galiojimas pagal šio įstatymo 44 straipsnio 10 ar 11 dalies nuostatas, steigėjai.“
 
 
 

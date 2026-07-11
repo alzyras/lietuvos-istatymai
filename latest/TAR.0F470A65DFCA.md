@@ -233,7 +233,7 @@ Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1472, 2018-09-11, paskelbta TAR 2018-09-19, i. k. 2018-14700
-Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 3 ir [[#^s-11b7fd7f86b62e01a9e8f9d0|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 [[#^s-387d36055bd140ba3f99c65b|3]] ir [[#^s-11b7fd7f86b62e01a9e8f9d0|4]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -243,7 +243,7 @@ Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025
 15.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
-Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/fad428d01ea411ebb0038a8cd8ff585f)
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas

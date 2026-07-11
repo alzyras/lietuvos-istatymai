@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolų ratifikavimas ^s-af2b37b96803cf5efded71df
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. birželio 18 d. dekretą Nr. 114, ratifikuoja Tarptautinės civilinės aviacijos konvencijos, sudarytos1944 m. gruodžio 7 d. Čikagoje, pakeitimų protokolus:
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. birželio 18 d. dekretą Nr. 114](https://e-tar.lt/portal/lt/legalAct/TAR.F4CC971DD32A), ratifikuoja Tarptautinės civilinės aviacijos konvencijos, sudarytos1944 m. gruodžio 7 d. Čikagoje, pakeitimų protokolus:
 
 
 Protokolą dėl Tarptautinės civilinės aviacijos konvencijos pakeitimo [93 bis straipsnis], pasirašytą 1947 m. gegužės 27 d. Monrealyje;

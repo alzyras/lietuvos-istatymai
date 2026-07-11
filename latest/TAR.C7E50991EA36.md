@@ -43,7 +43,7 @@ DĖL TARPTAUTINĖS KONVENCIJOS DĖL KOVOS SU TERORIZMO FINANSAVIMU RATIFIKAVIMO
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-b4aada77a1420af6ab541d64
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2002 m. lapkričio 7 d. dekretą Nr. 1969 „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinę konvenciją dėl kovos su terorizmo finansavimu“, ratifikuoja su pareiškimais 1999 m. gruodžio 9 d. priimtą Tarptautinę konvenciją dėl kovos su terorizmo finansavimu (toliau – Konvencija).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento [2002 m. lapkričio 7 d. dekretą Nr. 1969](https://e-tar.lt/portal/lt/legalAct/TAR.110A1B6790E6) [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinę konvenciją dėl kovos su terorizmo finansavimu“](https://e-tar.lt/portal/lt/legalAct/TAR.110A1B6790E6), ratifikuoja su pareiškimais 1999 m. gruodžio 9 d. priimtą Tarptautinę konvenciją dėl kovos su terorizmo finansavimu (toliau – Konvencija).
 
 
 
@@ -51,7 +51,7 @@ Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 6
 ### 2 straipsnis. Lietuvos Respublikos pareiškimai ^s-c381e2086cc0cbde5731eeb8
 
 
-1. Vadovaudamasis Konvencijos [[#^s-49f492a491188c30d7f8753e|2 straipsnio 2 dalies]] a punktu, Lietuvos Respublikos Seimas pareiškia, kad, taikant Konvenciją Lietuvos Respublikos atžvilgiu, laikoma, kad 1997 m. gruodžio 15 d. sudaryta Tarptautinė konvencija dėl kovos su teroristiniais sprogdinimais nėra įtraukta į Konvencijos [[#^s-4aa73fbdecf305ab7168db5b|2 straipsnio 1 dalies]] a punkte nurodytą priedą. ^s-4aa73fbdecf305ab7168db5b
+1. Vadovaudamasis Konvencijos [[#^s-49f492a491188c30d7f8753e|2 straipsnio 2 dalies]] a punktu, Lietuvos Respublikos Seimas pareiškia, kad, taikant Konvenciją Lietuvos Respublikos atžvilgiu, laikoma, kad 1997 m. gruodžio 15 d. sudaryta Tarptautinė konvencija dėl kovos su teroristiniais sprogdinimais nėra įtraukta į Konvencijos 2 straipsnio 1 dalies a punkte nurodytą priedą. ^s-4aa73fbdecf305ab7168db5b
 
 
 2. Vadovaudamasis Konvencijos 7 straipsnio 3 dalimi, Lietuvos Respublikos Seimas pareiškia, kad Lietuvos Respublika turi jurisdikciją dėl nusikaltimų, nurodytų Konvencijos [[#^s-c381e2086cc0cbde5731eeb8|2 straipsnyje]], visais Konvencijos 7 straipsnio 2 dalyje nurodytais atvejais. ^s-49f492a491188c30d7f8753e

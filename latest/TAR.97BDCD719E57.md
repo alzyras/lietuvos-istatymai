@@ -88,7 +88,7 @@ Nr. XV-430, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16541
 
 
 
-10. Valstybinė veterinarinė priežiūra – Valstybinės maisto ir veterinarijos tarnybos veikla, apimanti metodinės pagalbos valstybinės veterinarinės kontrolės subjektams teikimą, prižiūrėjimą, kaip šie subjektai laikosi veterinarijos sritį reglamentuojančiuose teisės aktuose, įskaitant Reglamentą (ES) 2017/625, nustatytų reikalavimų, kontroliavimą, ar tinkamai tuos reikalavimus vykdo, ir kitų priemonių, užtikrinančių tinkamą veterinarijos sritį reglamentuojančių teisės aktų reikalavimų laikymąsi, įgyvendinimą. ^s-596af70365bdc57b52388459
+10. Valstybinė veterinarinė priežiūra – Valstybinės maisto ir veterinarijos tarnybos veikla, apimanti metodinės pagalbos valstybinės veterinarinės kontrolės subjektams teikimą, prižiūrėjimą, kaip šie subjektai laikosi veterinarijos sritį reglamentuojančiuose teisės aktuose, įskaitant [Reglamentą (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj), nustatytų reikalavimų, kontroliavimą, ar tinkamai tuos reikalavimus vykdo, ir kitų priemonių, užtikrinančių tinkamą veterinarijos sritį reglamentuojančių teisės aktų reikalavimų laikymąsi, įgyvendinimą. ^s-596af70365bdc57b52388459
 
 
 11. Valstybinės veterinarinės kontrolės subjektas (toliau – veterinarinės kontrolės subjektas) – fizinis ar juridinis asmuo, kita organizacija ar jos filialas (filialai), tvarkantys gyvūninius produktus, pašarus ir jų priedus, šalutinius gyvūninius produktus ir jų gaminius, genetinės medžiagos produktus, naudojantys veterinarinius vaistus ir veterinarines priemones, laikantys, naudojantys, vežantys gyvūnus ar jais prekiaujantys arba vykdantys kitą veterinarijos reikalavimus reglamentuojančiuose teisės aktuose nustatytą veiklą, kurią pagal kompetenciją kontroliuoja Valstybinė maisto ir veterinarijos tarnyba. ^s-7831bc22923b888908a0c784
@@ -127,7 +127,7 @@ Nr. XIV-2858, 2024-06-27, paskelbta TAR 2024-07-08, i. k. 2024-12741
 17. Veterinarinės priemonės – veterinariniai biocidiniai produktai, veterinarinėje medicinoje naudojami įrankiai, medžiagos. ^s-c075d763f4691ed8c7524e82
 
 
-18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [[latest/TAR.8DDDD8D87491|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme]], [[latest/TAR.5B99A78DA6C7|Lietuvos Respublikos maisto įstatyme]], [[latest/TAR.5B55C0654B4A|Lietuvos Respublikos pašarų įstatyme]], [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]], [[latest/df9ce4f0dda011ec8d9390588bf2de65|Lietuvos Respublikos veterinarinių vaistų įstatyme]], Reglamente (ES) 2016/429, Reglamente (ES) 2017/625 ir Deleguotajame reglamente (ES) 2019/2035. ^s-bfc21ef447adcb4434c465b4
+18. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [[latest/TAR.8DDDD8D87491|Lietuvos Respublikos gyvūnų gerovės ir apsaugos įstatyme]], [[latest/TAR.5B99A78DA6C7|Lietuvos Respublikos maisto įstatyme]], [[latest/TAR.5B55C0654B4A|Lietuvos Respublikos pašarų įstatyme]], [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]], [[latest/df9ce4f0dda011ec8d9390588bf2de65|Lietuvos Respublikos veterinarinių vaistų įstatyme]], [Reglamente (ES) 2016/429](https://eur-lex.europa.eu/eli/reg/2016/429/oj), [Reglamente (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj) ir Deleguotajame [reglamente (ES) 2019/2035](https://eur-lex.europa.eu/eli/reg/2019/2035/oj). ^s-bfc21ef447adcb4434c465b4
 Straipsnio dalies pakeitimai:
 Nr. XIV-1090, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11327
 Nr. XV-430, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16541
@@ -246,7 +246,7 @@ Nr. XV-430, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16541
 
 
 
-13) taiko Reglamento (ES) 2017/625 138 straipsnio 2 dalyje nustatytas rinkos ribojimo ir kitas poveikio priemones, skiria Lietuvos Respublikos administracinių nusižengimų kodekse nustatytas administracines nuobaudas ir poveikio priemones veterinarinės kontrolės subjektams fiziniams asmenims ar juridinių asmenų vadovams ar kitiems atsakingiems asmenims, pažeidusiems veterinarijos veiklą reglamentuojančių teisės aktų reikalavimus; ^s-f8cf05650def45b95d4d68d2
+13) taiko [Reglamento (ES) 2017/625 138 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2017/625/art_138/par_2/oj) nustatytas rinkos ribojimo ir kitas poveikio priemones, skiria Lietuvos Respublikos administracinių nusižengimų kodekse nustatytas administracines nuobaudas ir poveikio priemones veterinarinės kontrolės subjektams fiziniams asmenims ar juridinių asmenų vadovams ar kitiems atsakingiems asmenims, pažeidusiems veterinarijos veiklą reglamentuojančių teisės aktų reikalavimus; ^s-f8cf05650def45b95d4d68d2
 
 
 14) pagal kompetenciją palaiko ryšius su užsienio valstybių atitinkamomis institucijomis ir tarptautinėmis organizacijomis, keičiasi informacija, atstovauja Lietuvos Respublikai užsienio valstybėse ar tarptautinėse organizacijose veterinarijos klausimais; ^s-819d00e7b3cdab01a8569007
@@ -276,7 +276,7 @@ Nr. XIV-2858, 2024-06-27, paskelbta TAR 2024-07-08, i. k. 2024-12741
 1. Valstybinės maisto ir veterinarijos tarnybos pareigūnai, vykdydami valstybinę veterinarinę priežiūrą, be teisių, nustatytų kituose įstatymuose ir teisės aktuose, pagal savo kompetenciją turi teisę: ^s-345c14b88eb4aeac66357666
 
 
-1) taikyti Reglamento (ES) 2017/625 [[#^s-7de4c6add27f4dc554f7694d|14 straipsnyje]] nustatytus oficialios kontrolės metodus ir priemones; ^s-818735abfb5087fe51f8786e
+1) taikyti [Reglamento (ES) 2017/625 14 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/625/art_14/oj) nustatytus oficialios kontrolės metodus ir priemones; ^s-818735abfb5087fe51f8786e
 
 
 2) nekliudomi patekti į veterinarinės kontrolės subjektų patalpas, transportą ar teritoriją, kurioje veterinarinės kontrolės subjektai vykdo Valstybinės maisto ir veterinarijos tarnybos kontroliuojamą veiklą, šių subjektų darbo valandomis; ^s-47255bbfda645e16504d1ef6
@@ -303,7 +303,7 @@ Nr. XIV-2858, 2024-06-27, paskelbta TAR 2024-07-08, i. k. 2024-12741
 9) nustačius užkrečiamąją ar įtarus labai pavojingą gyvūnų ligą, vadovaudamiesi šio įstatymo [[#^s-077d3f8f888b0387890d6641|15 straipsniu]], duoti privalomus nurodymus fiziniams ar juridiniams asmenims, kitoms organizacijoms ar jų filialams dėl gyvūnų skerdimo ar nužudymo ir sunaikinimo, transporto, teritorijos, patalpų ar įrangos kenksmingumo pašalinimo, pašarų ar pašarų priedų, gyvūninių produktų, šalutinių gyvūninių produktų ir jų gaminių, genetinės medžiagos produktų, veterinarinių vaistų ir veterinarinių priemonių kenksmingumo pašalinimo, perdirbimo arba sunaikinimo; ^s-d7319688074c9d206def6543
 
 
-10) atlikti šios dalies 3–[[#^s-37d43cb3070f3b1c45bbd708|7 punktuose]] nustatytus veiksmus su teismo leidimu, išduotu vadovaujantis [[#^s-1f375f089df061affdcdd982|šio straipsnio 2 dalimi]], jeigu veterinarinės kontrolės subjektas ar kitas asmuo trukdo atlikti veterinarinės kontrolės subjekto veiklos patikrinimą ar kitais būdais siekia išvengti veterinarinės kontrolės subjekto veiklos patikrinimo ir yra pagrindo manyti, kad jis pažeidžia šio įstatymo ir kitų veterinarijos veiklą reglamentuojančių teisės aktų reikalavimus. ^s-c1532a34984eaf09fd288c17
+10) atlikti šios dalies [[#^s-61834c6f8f23442e632ff744|3]]–[[#^s-37d43cb3070f3b1c45bbd708|7]] punktuose nustatytus veiksmus su teismo leidimu, išduotu vadovaujantis [[#^s-1f375f089df061affdcdd982|šio straipsnio 2 dalimi]], jeigu veterinarinės kontrolės subjektas ar kitas asmuo trukdo atlikti veterinarinės kontrolės subjekto veiklos patikrinimą ar kitais būdais siekia išvengti veterinarinės kontrolės subjekto veiklos patikrinimo ir yra pagrindo manyti, kad jis pažeidžia šio įstatymo ir kitų veterinarijos veiklą reglamentuojančių teisės aktų reikalavimus. ^s-c1532a34984eaf09fd288c17
 
 
 2. Prašymas išduoti leidimą, nustatytą [[#^s-c1532a34984eaf09fd288c17|šio straipsnio 1 dalies 10 punkte]], pateikiamas apygardos administraciniam teismui. Apygardos administracinis teismas išnagrinėja prašymą ir priima motyvuotą nutartį prašymą patenkinti arba atmesti ne vėliau kaip per 3 darbo dienas nuo prašymo pateikimo momento. Jeigu Valstybinė maisto ir veterinarijos tarnyba nesutinka su apygardos administracinio teismo sprendimu atmesti prašymą, ji turi teisę per 7 darbo dienas apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl apygardos administracinio teismo nutarties ne vėliau kaip per 7 darbo dienas. Valstybinės maisto ir veterinarijos tarnybos įgaliotas pareigūnas ir (arba) Valstybinės maisto ir veterinarijos tarnybos atstovas turi teisę dalyvauti Lietuvos vyriausiajame administraciniame teisme nagrinėjant skundą žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti atitinkamus veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. ^s-1f375f089df061affdcdd982
@@ -684,7 +684,7 @@ Nr. XIII-3206, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15399
 3. Ūkinių gyvūnų registro informacinės sistemos valdytoja ir duomenų, įskaitant asmens duomenis, valdytoja yra Žemės ūkio ministerija. ^s-4ecedfdd58b2a9c638cbd89f
 
 
-4. Ūkinių gyvūnų registro informacinės sistemos duomenys tvarkomi vykdant ūkinių gyvūnų laikymo vietų ir ūkinių gyvūnų bandų registravimo ir jose laikomų ūkinių gyvūnų ženklinimo, registravimo ir apskaitos reikalavimų laikymosi priežiūrą, laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų. ^s-b11ee5c7037a63c484a9c7b9
+4. Ūkinių gyvūnų registro informacinės sistemos duomenys tvarkomi vykdant ūkinių gyvūnų laikymo vietų ir ūkinių gyvūnų bandų registravimo ir jose laikomų ūkinių gyvūnų ženklinimo, registravimo ir apskaitos reikalavimų laikymosi priežiūrą, laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų. ^s-b11ee5c7037a63c484a9c7b9
 
 
 5. Ūkinių gyvūnų registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. ^s-be134dc08059dc2b5343da02
@@ -729,7 +729,7 @@ Medžioklės plotų naudotojai privalo užtikrinti tinkamą medžiojamųjų gyv�
 ### 19 straipsnis. Valstybinės veterinarinės priežiūros teisiniai pagrindai ^s-b63e147c55774f73eb29e19a
 
 
-1. Valstybinė veterinarinė priežiūra atliekama vadovaujantis Reglamentu (ES) 2017/625 ir [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymo]] nuostatomis tiek, kiek jos neprieštarauja Reglamentui (ES) 2017/625. ^s-1c1efe1f5bb59d7fc469055e
+1. Valstybinė veterinarinė priežiūra atliekama vadovaujantis [Reglamentu (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj) ir [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymo]] nuostatomis tiek, kiek jos neprieštarauja [Reglamentui (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj). ^s-1c1efe1f5bb59d7fc469055e
 
 
 2. Veterinarinės kontrolės subjektų, tvarkančių gyvūninius produktus, pašarus ir jų priedus, šalutinius gyvūninius produktus ir jų gaminius, genetinės medžiagos produktus, laikančių, naudojančių, vežančių gyvūnus ar jais prekiaujančių, valstybinei veterinarinei priežiūrai šio įstatymo nuostatos taikomos tiek, kiek jos neprieštarauja [[latest/TAR.5B55C0654B4A|Pašarų įstatymo]], [[latest/df9ce4f0dda011ec8d9390588bf2de65|Veterinarinių vaistų įstatymo]], [[latest/TAR.5B99A78DA6C7|Maisto įstatymo]], [[latest/TAR.8DDDD8D87491|Gyvūnų gerovės ir apsaugos įstatymo]] nuostatoms. ^s-b011cd12d692cbde4cad6691
@@ -778,7 +778,7 @@ BAIGIAMOSIOS NUOSTATOS
 4. Valstybinė maisto ir veterinarijos tarnyba, spręsdama klausimą, ar informaciją laikyti veterinarinės kontrolės subjektų ar kitų asmenų komercine paslaptimi, atsižvelgia į galimą riziką žmonių, gyvūnų ar augalų sveikatai ar aplinkai ir tokios rizikos pobūdį, rimtumą ir mastą. ^s-8989e28454fa187cac90225b
 
 
-5. Šio straipsnio nuostatos dėl komercinių paslapčių apsaugos taikomos ir pagal Reglamento (ES) 2017/625 37 straipsnį paskirtoms oficialiosioms laboratorijoms bei asmenims, turėjusiems darbo santykių su Valstybine maisto ir veterinarijos tarnyba arba pagal Reglamento (ES) 2017/625 37 straipsnį paskirtomis oficialiosiomis laboratorijomis, 3 metus po šių santykių pasibaigimo dienos. ^s-499591b1e82c7f76ae2778ad
+5. Šio straipsnio nuostatos dėl komercinių paslapčių apsaugos taikomos ir pagal [Reglamento (ES) 2017/625 37 straipsnį](https://eur-lex.europa.eu/eli/reg/2017/625/art_37/oj) paskirtoms oficialiosioms laboratorijoms bei asmenims, turėjusiems darbo santykių su Valstybine maisto ir veterinarijos tarnyba arba pagal [Reglamento (ES) 2017/625 37 straipsnį](https://eur-lex.europa.eu/eli/reg/2017/625/art_37/oj) paskirtomis oficialiosiomis laboratorijomis, 3 metus po šių santykių pasibaigimo dienos. ^s-499591b1e82c7f76ae2778ad
 
 
 6. Valstybinės maisto ir veterinarijos tarnybos ir jos pareigūnų veiksmai ir sprendimai gali būti skundžiami įstatymų nustatyta tvarka. ^s-9ad857874239ab2869413930
@@ -811,19 +811,19 @@ priedas
 
 
 
-1. 1996 m. balandžio 29 d. Tarybos direktyva 96/22/EB dėl draudimo vartoti gyvulininkystėje tam tikras medžiagas, turinčias hormoninį ar tirostatinį poveikį, bei beta agonistus ir dėl Direktyvų 81/602/EEB, 88/146/EEB ir 88/299/EEB panaikinimo su paskutiniais pakeitimais, padarytais 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva (ES) 2008/97/EB. ^s-34333baf84289f738f697e90
+1. 1996 m. balandžio 29 d. Tarybos direktyva 96/22/EB dėl draudimo vartoti gyvulininkystėje tam tikras medžiagas, turinčias hormoninį ar tirostatinį poveikį, bei beta agonistus ir dėl Direktyvų 81/602/EEB, 88/146/EEB ir 88/299/EEB panaikinimo su paskutiniais pakeitimais, padarytais 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos [direktyva (ES) 2008/97](https://eur-lex.europa.eu/eli/dir/2008/97/oj)/EB. ^s-34333baf84289f738f697e90
 
 
-2. 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 178/2002, nustatantis maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiantis Europos maisto saugos tarnybą ir nustatantis su maisto saugos klausimais susijusias procedūras, su paskutiniais pakeitimais, padarytais 2024 m. sausio 17 d. Komisijos deleguotuoju reglamentu (ES) 2024/908. ^s-ca990b3f8f658243304e41e5
+2. 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 178/2002, nustatantis maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiantis Europos maisto saugos tarnybą ir nustatantis su maisto saugos klausimais susijusias procedūras, su paskutiniais pakeitimais, padarytais 2024 m. sausio 17 d. Komisijos deleguotuoju [reglamentu (ES) 2024/908](https://eur-lex.europa.eu/eli/reg/2024/908/oj). ^s-ca990b3f8f658243304e41e5
 
 
-3. 2016 m. kovo 9 d. Europos Parlamento ir Tarybos reglamentas (ES) 2016/429 dėl užkrečiamųjų gyvūnų ligų, kuriuo iš dalies keičiami ir panaikinami tam tikri gyvūnų sveikatos srities aktai („Gyvūnų sveikatos teisės aktas“). ^s-edf0d8205036149c26d64a7d
+3. 2016 m. kovo 9 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2016/429](https://eur-lex.europa.eu/eli/reg/2016/429/oj) dėl užkrečiamųjų gyvūnų ligų, kuriuo iš dalies keičiami ir panaikinami tam tikri gyvūnų sveikatos srities aktai („Gyvūnų sveikatos teisės aktas“). ^s-edf0d8205036149c26d64a7d
 
 
-4. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (ES) 2017/625 dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas), su paskutiniais pakeitimais, padarytais 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/3115. ^s-19a638a72fa639a76f0a7411
+4. 2017 m. kovo 15 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2017/625](https://eur-lex.europa.eu/eli/reg/2017/625/oj) dėl oficialios kontrolės ir kitos oficialios veiklos, kuri vykdoma siekiant užtikrinti maisto ir pašarų srities teisės aktų bei gyvūnų sveikatos ir gerovės, augalų sveikatos ir augalų apsaugos produktų taisyklių taikymą, kuriuo iš dalies keičiami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 999/2001, (EB) Nr. 396/2005, (EB) Nr. 1069/2009, (EB) Nr. 1107/2009, (ES) Nr. 1151/2012, (ES) Nr. 652/2014, (ES) 2016/429 ir (ES) 2016/2031, Tarybos reglamentai (EB) Nr. 1/2005 ir (EB) Nr. 1099/2009 bei Tarybos direktyvos 98/58/EB, 1999/74/EB, 2007/43/EB, 2008/119/EB ir 2008/120/EB ir kuriuo panaikinami Europos Parlamento ir Tarybos reglamentai (EB) Nr. 854/2004 ir (EB) Nr. 882/2004, Tarybos direktyvos 89/608/EEB, 89/662/EEB, 90/425/EEB, 91/496/EEB, 96/23/EB, 96/93/EB ir 97/78/EB bei Tarybos sprendimas 92/438/EEB (Oficialios kontrolės reglamentas), su paskutiniais pakeitimais, padarytais 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/3115](https://eur-lex.europa.eu/eli/reg/2024/3115/oj). ^s-19a638a72fa639a76f0a7411
 
 
-5. 2019 m. birželio 28 d. Komisijos deleguotasis reglamentas (ES) 2019/2035, kuriuo dėl sausumos gyvūnus laikantiems ūkiams ir perykloms taikomų taisyklių, taip pat ir tam tikrų laikomų sausumos gyvūnų ir perinių kiaušinių atsekamumo papildomas Europos Parlamento ir Tarybos reglamentas (ES) 2016/429, su paskutiniais pakeitimais, padarytais 2023 m. sausio 12 d. Komisijos deleguotuoju reglamentu (ES) 2023/590. ^s-cdc2189d51542d89ce1a6875
+5. 2019 m. birželio 28 d. Komisijos deleguotasis [reglamentas (ES) 2019/2035](https://eur-lex.europa.eu/eli/reg/2019/2035/oj), kuriuo dėl sausumos gyvūnus laikantiems ūkiams ir perykloms taikomų taisyklių, taip pat ir tam tikrų laikomų sausumos gyvūnų ir perinių kiaušinių atsekamumo papildomas Europos Parlamento ir Tarybos [reglamentas (ES) 2016/429](https://eur-lex.europa.eu/eli/reg/2016/429/oj), su paskutiniais pakeitimais, padarytais 2023 m. sausio 12 d. Komisijos deleguotuoju [reglamentu (ES) 2023/590](https://eur-lex.europa.eu/eli/reg/2023/590/oj). ^s-cdc2189d51542d89ce1a6875
 
 
 ––––––––––––––––––––––––.
@@ -866,17 +866,17 @@ Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 [[#^s-caeb4bf9d038ce2051
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1611, 2018-11-08, paskelbta TAR 2018-11-15, i. k. 2018-18506
-Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 15, 16 ir [[#^s-dfd0539ed2e9c22cdd6994cf|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 [[#^s-077d3f8f888b0387890d6641|15]], [[#^s-017934c3d5d9916a8e976ae1|16]] ir [[#^s-dfd0539ed2e9c22cdd6994cf|17]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3206, 2020-06-29, paskelbta TAR 2020-07-09, i. k. 2020-15399
-Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 2, 6, 7, 14, 15, 16 ir [[#^s-b63e147c55774f73eb29e19a|19 straipsnių]], antrojo skirsnio pavadinimo, priedo pakeitimo, [[#^s-afaa1d0ba6eb831cafbcb0cc|4 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo [[#^s-2ff978d58a3574923359e500|21 straipsniu]] įstatymas
+Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 [[#^s-caeb4bf9d038ce2051f90af7|2]], [[#^s-45429b8eb82ae5b491257516|6]], [[#^s-10bee82c5a3977f9fc8e2b78|7]], [[#^s-7de4c6add27f4dc554f7694d|14]], [[#^s-077d3f8f888b0387890d6641|15]], [[#^s-017934c3d5d9916a8e976ae1|16]] ir [[#^s-b63e147c55774f73eb29e19a|19]] straipsnių, antrojo skirsnio pavadinimo, priedo pakeitimo, [[#^s-afaa1d0ba6eb831cafbcb0cc|4 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo [[#^s-2ff978d58a3574923359e500|21 straipsniu]] įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1090, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11327
-Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 2, [[#^s-dfd0539ed2e9c22cdd6994cf|17 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 [[#^s-caeb4bf9d038ce2051f90af7|2]], [[#^s-dfd0539ed2e9c22cdd6994cf|17]] straipsnių ir priedo pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -886,7 +886,7 @@ Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 [[#^s-441cd2ab50063c4267
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2858, 2024-06-27, paskelbta TAR 2024-07-08, i. k. 2024-12741
-Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 2, 6, 10, 13-1 ir [[#^s-b63e147c55774f73eb29e19a|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 [[#^s-caeb4bf9d038ce2051f90af7|2]], [[#^s-45429b8eb82ae5b491257516|6]], [[#^s-c0e087a9e1bd4a205824c843|10]], 13-1 ir [[#^s-b63e147c55774f73eb29e19a|19]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -896,4 +896,4 @@ Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 [[#^s-45429b8eb82ae5b491
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-430, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16541
-Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 2, 3, 6, [[#^s-017934c3d5d9916a8e976ae1|16 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos veterinarijos įstatymo Nr. I-2110 [[#^s-caeb4bf9d038ce2051f90af7|2]], [[#^s-491cef66a1531714b0c5b27e|3]], [[#^s-45429b8eb82ae5b491257516|6]], [[#^s-017934c3d5d9916a8e976ae1|16]] straipsnių ir priedo pakeitimo įstatymas

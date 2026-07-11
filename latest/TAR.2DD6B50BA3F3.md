@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Papildomo protokolo ratifikavimas ^s-a6ee9d969496977104cda91b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. kovo 23 d. dekretą Nr. 406, ratifikuoja 1998 m. sausio 14 d. Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutarties dėl investicijų skatinimo ir abipusės apsaugos papildomą protokolą, pasirašytą 2003 m. rugsėjo 22 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. kovo 23 d. dekretą Nr. 406](https://e-tar.lt/portal/lt/legalAct/TAR.748211601C6D), ratifikuoja 1998 m. sausio 14 d. Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės sutarties dėl investicijų skatinimo ir abipusės apsaugos papildomą protokolą, pasirašytą 2003 m. rugsėjo 22 d. Briuselyje.
 
 
 

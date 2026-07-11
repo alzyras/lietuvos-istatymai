@@ -42,7 +42,7 @@ Vilnius
 Papildyti 36 straipsnį 4 dalimi:
 
 
-„4. Iki Lietuvos Respublikai įsigalios Susitarimas dėl Šiaurės Atlanto Sutarties Organizacijos, valstybių atstovų ir tarptautinio personalo statuso, pasirašytas 1951 m. rugsėjo 20 d. Otavoje, bet ne ilgiau kaip iki 2004 m. gegužės 1 d., šio straipsnio nuostatos taikomos ir Šiaurės Atlanto Sutarties Organizacijos (NATO) saugumo investicijų programoms įgyvendinti skirtų prekių tiekimams Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“
+„4. Iki Lietuvos Respublikai įsigalios [Susitarimas dėl Šiaurės Atlanto Sutarties Organizacijos, valstybių atstovų ir tarptautinio personalo statuso](https://e-tar.lt/portal/lt/legalAct/TAR.DEA41E7032EA), pasirašytas 1951 m. rugsėjo 20 d. Otavoje, bet ne ilgiau kaip iki 2004 m. gegužės 1 d., šio straipsnio nuostatos taikomos ir Šiaurės Atlanto Sutarties Organizacijos (NATO) saugumo investicijų programoms įgyvendinti skirtų prekių tiekimams Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“
 
 
 
@@ -52,7 +52,7 @@ Papildyti 36 straipsnį 4 dalimi:
 Papildyti 47 straipsnį 6 dalimi:
 
 
-„6. Iki Lietuvos Respublikai įsigalios Susitarimas dėl Šiaurės Atlanto Sutarties Organizacijos, valstybių atstovų ir tarptautinio personalo statuso, pasirašytas 1951 m. rugsėjo 20 d. Otavoje, bet ne ilgiau kaip iki 2004 m. gegužės 1 d., šio straipsnio nuostatos taikomos ir Šiaurės Atlanto Sutarties Organizacijos (NATO) saugumo investicijų programoms įgyvendinti Lietuvos Respublikoje įsigyjamoms prekėms ir paslaugoms Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“
+„6. Iki Lietuvos Respublikai įsigalios [Susitarimas dėl Šiaurės Atlanto Sutarties Organizacijos, valstybių atstovų ir tarptautinio personalo statuso](https://e-tar.lt/portal/lt/legalAct/TAR.DEA41E7032EA), pasirašytas 1951 m. rugsėjo 20 d. Otavoje, bet ne ilgiau kaip iki 2004 m. gegužės 1 d., šio straipsnio nuostatos taikomos ir Šiaurės Atlanto Sutarties Organizacijos (NATO) saugumo investicijų programoms įgyvendinti Lietuvos Respublikoje įsigyjamoms prekėms ir paslaugoms Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.“
 
 
 

@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 17, 21 straipsni�
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.0120FD7BCFFC|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 2 citatos - Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymu
+- [[latest/TAR.0120FD7BCFFC|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymu
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - VIETOS SAVIVALDOS ĮSTATYMO 17, 21 STRAIPSNIŲ PAPILDYMO BEI ĮSTATYMO PAPILDYMO TRYLIKTUOJU SKIRSNIU ĮSTATYMAS
+- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - VIETOS SAVIVALDOS ĮSTATYMO 17, 21 STRAIPSNIŲ PAPILDYMO BEI ĮSTATYMO PAPILDYMO TRYLIKTUOJU SKIRSNIU ĮSTATYMAS

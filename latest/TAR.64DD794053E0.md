@@ -48,7 +48,7 @@ Vilnius
 2. 681 straipsnio 2 dalyje po žodžio „nuostatais“ įrašyti žodžius „Turto arešto aktų registro nuostatais“ ir šią dalį išdėstyti taip: ^s-f79708acfe8c816c1217ec1d
 
 
-„Hipotekos skyrius vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais Lietuvos Respublikos įstatymais, Vyriausybės nutarimais, Vyriausybės patvirtintais Hipotekos registro nuostatais, Turto arešto aktų registro nuostatais bei Teisingumo ministerijos teisės aktais.“
+„Hipotekos skyrius vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais Lietuvos Respublikos įstatymais, Vyriausybės nutarimais, Vyriausybės patvirtintais Hipotekos registro nuostatais, Turto arešto aktų registro nuostatais bei Teisingumo ministerijos teisės aktais.“
 
 
 

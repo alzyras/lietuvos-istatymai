@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-67b953033e052c4733ba3106
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. birželio 22 d. dekretą Nr. 113, ratifikuoja 1992 m. lapkričio 1 d. įsigaliojusią Konvenciją dėl Europos farmakopėjos rengimo, priimtą 1964 m. liepos 22 d. Strasbūre, pataisytą pagal Konvencijos dėl Europos farmakopėjos rengimo protokolą, priimtą 1989 m. lapkričio 16 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas [2004 m. birželio 22 d. dekretą Nr. 113](https://e-tar.lt/portal/lt/legalAct/TAR.16955E1C8D87), ratifikuoja 1992 m. lapkričio 1 d. įsigaliojusią Konvenciją dėl Europos farmakopėjos rengimo, priimtą 1964 m. liepos 22 d. Strasbūre, pataisytą pagal Konvencijos dėl Europos farmakopėjos rengimo protokolą, priimtą 1989 m. lapkričio 16 d. Strasbūre.
 
 
 

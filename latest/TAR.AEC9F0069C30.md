@@ -98,7 +98,7 @@ BENDROSIOS NUOSTATOS
 7. Grynieji aktyvai – atitinkamo pensijų fondo pensijų turto vertės ir ilgalaikių bei trumpalaikių finansinių įsipareigojimų (išskyrus įsipareigojimus pensijų fondo dalyviams) skirtumas. ^s-b55ffeabad2982394bb95b67
 
 
-8. Investicinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] 1–4 punktuose nustatytos finansinės priemonės, taip pat indėliai. ^s-449e417f64a6b167036f2f52
+8. Investicinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-058ef0e4834e6f1ad4368f73|1]]–[[latest/TAR.AB7AFE2F35B2#^s-71078f5c7f1fdabf0a7adbe6|4]] punktuose nustatytos finansinės priemonės, taip pat indėliai. ^s-449e417f64a6b167036f2f52
 
 
 9. Išvestinės finansinės priemonės – finansinės priemonės, kurių vertė priklauso nuo vienos ar kelių finansinių priemonių vertės. ^s-9f477089045d7da0ac120f33
@@ -149,7 +149,7 @@ BENDROSIOS NUOSTATOS
 2) obligacijos ir kitų formų ne nuosavybės vertybiniai popieriai; ^s-62d3b1a01a670fb6f5281873
 
 
-3) kiti perleidžiamieji vertybiniai popieriai, suteikiantys teisę pasirašymo ar keitimo būdu įsigyti šios dalies 1 ir [[#^s-62d3b1a01a670fb6f5281873|2 punktuose]] nurodytų perleidžiamųjų vertybinių popierių. ^s-8c7da7dacac1f442296c9505
+3) kiti perleidžiamieji vertybiniai popieriai, suteikiantys teisę pasirašymo ar keitimo būdu įsigyti šios dalies [[#^s-26d587472968833c84b3c782|1]] ir [[#^s-62d3b1a01a670fb6f5281873|2]] punktuose nurodytų perleidžiamųjų vertybinių popierių. ^s-8c7da7dacac1f442296c9505
 
 
 23. Pinigų rinkos priemonės – [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]] apibrėžtos pinigų rinkos priemonės, kurių vertę visada galima tiksliai nustatyti. ^s-7cc4484b7a812a568eaf3831
@@ -194,7 +194,7 @@ VALDYMO ĮMONĖS LICENCIJAVIMAS IR VEIKLA
 2) saugoti ir tvarkyti investicinių fondų investicinius vienetus ar investicinių kintamojo kapitalo bendrovių akcijas. ^s-7ea3a4da5ea2f861a5b106a9
 
 
-5. Šio straipsnio 1 ir [[#^s-3bcc7f5b6a9ab42ac792f421|2 dalyse]] nurodytos valdymo įmonės taip pat turi teisę valdyti [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatyme]] nustatytus valstybinio socialinio draudimo įmokos dalies kaupimo pensijų fondus, jeigu jos atitinka [[latest/TAR.1F58348F79F7|Lietuvos Respublikos pensijų kaupimo įstatymo]] nustatytus reikalavimus. ^s-130e995fa52d644649f6fa02
+5. Šio straipsnio [[#^s-ba28b47e877396c10ed0f4a0|1]] ir [[#^s-3bcc7f5b6a9ab42ac792f421|2]] dalyse nurodytos valdymo įmonės taip pat turi teisę valdyti [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatyme]] nustatytus valstybinio socialinio draudimo įmokos dalies kaupimo pensijų fondus, jeigu jos atitinka [[latest/TAR.1F58348F79F7|Lietuvos Respublikos pensijų kaupimo įstatymo]] nustatytus reikalavimus. ^s-130e995fa52d644649f6fa02
 
 
 6. [[#^s-ba28b47e877396c10ed0f4a0|Šio straipsnio 1 dalyje]] nurodytos valdymo įmonės negali verstis kita, šiame straipsnyje nenurodyta, veikla. ^s-8e4b2ab6e6b44b7af3c84cbe
@@ -300,7 +300,7 @@ Valdymo įmonė privalo:
 3. Turtiniai įnašai negali sudaryti daugiau kaip 20 procentų valdymo įmonės įstatinio kapitalo. Turtiniu įnašu gali būti tik nekilnojamasis turtas, būtinas tiesioginei valdymo įmonės veiklai. ^s-352a83c1e8f3952370b01f01
 
 
-4. Ne mažiau kaip 125 000 eurų valdymo įmonės nuosavo kapitalo turi būti investuota į diversifikuotą finansinių priemonių portfelį, kuriam taikomi šio įstatymo 46, 47 ir [[#^s-cd86d0846b21db88b69b6cdc|49 straipsniuose]] nustatyti reikalavimai. Likusią nuosavo kapitalo dalį valdymo įmonė valdo savo nuožiūra, laikydamasi įstatymų ir kitų teisės aktų nustatytos tvarkos. ^s-21240e4a03ce0ac3e02d879f
+4. Ne mažiau kaip 125 000 eurų valdymo įmonės nuosavo kapitalo turi būti investuota į diversifikuotą finansinių priemonių portfelį, kuriam taikomi šio įstatymo [[#^s-464904b78e2cb536d81914dc|46]], [[#^s-84acf872e3f5c825da0e2523|47]] ir [[#^s-cd86d0846b21db88b69b6cdc|49]] straipsniuose nustatyti reikalavimai. Likusią nuosavo kapitalo dalį valdymo įmonė valdo savo nuožiūra, laikydamasi įstatymų ir kitų teisės aktų nustatytos tvarkos. ^s-21240e4a03ce0ac3e02d879f
 
 
 5. Valdymo įmonė privalo laikytis priežiūros institucijos nustatytų kapitalo pakankamumo reikalavimų. ^s-d31a8987d10b75b46e25f4bc
@@ -313,7 +313,7 @@ Valdymo įmonė privalo:
 1. Tuo atveju, kai valdymo įmonė prisiima įsipareigojimus garantuoti pensijų fondo dalyviams tam tikrą pajamingumą, turi būti sudaromas garantijų rezervas. Šio rezervo sudarymo, investavimo ir naudojimo tvarka turi būti suderinta su priežiūros institucija. Priežiūros institucija turi teisę duoti nurodymus pakeisti ir (ar) papildyti garantijų rezervo sudarymo, investavimo ir naudojimo tvarką. ^s-222199a7e3c88b0ae14a5f89
 
 
-2. Garantijų rezervas investuojamas į diversifikuotą finansinių priemonių portfelį, kuriam taikomi šio įstatymo 46, 47 ir [[#^s-cd86d0846b21db88b69b6cdc|49 straipsniuose]] nustatyti reikalavimai. ^s-9e087bc2a9c5347ffc2f42fa
+2. Garantijų rezervas investuojamas į diversifikuotą finansinių priemonių portfelį, kuriam taikomi šio įstatymo [[#^s-464904b78e2cb536d81914dc|46]], [[#^s-84acf872e3f5c825da0e2523|47]] ir [[#^s-cd86d0846b21db88b69b6cdc|49]] straipsniuose nustatyti reikalavimai. ^s-9e087bc2a9c5347ffc2f42fa
 
 
 
@@ -531,7 +531,7 @@ Valdymo įmonės auditui taikomi Lietuvos Respublikos audito įstatymo ir [[late
 8) panaikinti licencijos teikti vieną, kelias ar visas paslaugas galiojimą. ^s-3a1a43a5db303d153933e6a6
 
 
-2. Priežiūros institucija turi teisę skirti Lietuvos Respublikos administracinių teisės pažeidimų kodekse numatytas nuobaudas valdymo įmonės vadovams ar darbuotojams. ^s-d08f0b0d601d239fb09de997
+2. Priežiūros institucija turi teisę skirti [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytas nuobaudas valdymo įmonės vadovams ar darbuotojams. ^s-d08f0b0d601d239fb09de997
 
 
 3. Priežiūros institucija turi teisę taikyti depozitoriumui [[#^s-9c4b55a0f93e500f2dd7a8e4|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytas poveikio priemones. ^s-3bed990dd9718003f9b02d0a
@@ -1231,13 +1231,13 @@ INVESTAVIMO TAISYKLĖS
 1) išleistos arba garantuotos valstybės narės vyriausybės, regioninės valdžios, savivaldybės ar centrinio banko, Europos centrinio banko, Europos Sąjungos ar Europos investicijų banko, ne valstybės narės ar vieno iš federacinę valstybę sudarančių subjektų ar tarptautinės organizacijos, kuriai priklauso bent viena valstybė narė, arba ^s-508234275a959a08328039fe
 
 
-2) išleistos subjekto, kurio vertybiniai popieriai įtraukti į prekybą [[#^s-5b3d84d6045d1142aee6d1bf|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytose reguliuojamose rinkose, arba ^s-512312e97ec31daff06ad8e2
+2) išleistos subjekto, kurio vertybiniai popieriai įtraukti į prekybą [[#^s-5b3d84d6045d1142aee6d1bf|šio straipsnio 1 dalies]] [[#^s-508234275a959a08328039fe|1]] ir 2 punktuose nurodytose reguliuojamose rinkose, arba ^s-512312e97ec31daff06ad8e2
 
 
 3) išleistos ar garantuotos subjekto, kurio veiklos rizika yra prižiūrima pagal Europos Sąjungos teisės reikalavimus ar tokius reikalavimus, kurie yra ne mažiau griežti už nustatytus Europos Sąjungoje, arba ^s-97fdc884474cffbf21b7aa37
 
 
-4) išleistos priežiūros institucijos patvirtintus kriterijus atitinkančios įmonės, kurios kapitalas ir rezervai sudaro mažiausiai 10 000 000 eurų, kuri rengia konsoliduotąsias finansines ataskaitas ir atlieka įmonių grupės finansavimo funkciją, kai bent vienos iš jos grupei priklausančių įmonių perleidžiamieji vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje, ar kuri naudojama banko paskolomis finansuojamiems vertybiniams popieriams išleisti, o investicijos į tokias pinigų rinkos priemones apsaugotos ne mažiau, kaip nurodyta šios dalies 1, 2, [[#^s-97fdc884474cffbf21b7aa37|3 punktuose]]. ^s-88f9e143d5e97fb624de8be6
+4) išleistos priežiūros institucijos patvirtintus kriterijus atitinkančios įmonės, kurios kapitalas ir rezervai sudaro mažiausiai 10 000 000 eurų, kuri rengia konsoliduotąsias finansines ataskaitas ir atlieka įmonių grupės finansavimo funkciją, kai bent vienos iš jos grupei priklausančių įmonių perleidžiamieji vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje, ar kuri naudojama banko paskolomis finansuojamiems vertybiniams popieriams išleisti, o investicijos į tokias pinigų rinkos priemones apsaugotos ne mažiau, kaip nurodyta šios dalies [[#^s-508234275a959a08328039fe|1]], [[#^s-512312e97ec31daff06ad8e2|2]], [[#^s-97fdc884474cffbf21b7aa37|3]] punktuose. ^s-88f9e143d5e97fb624de8be6
 
 
 3. Pensijų turtas negali būti investuotas į nekilnojamąjį turtą, tauriuosius metalus arba į suteikiančius į juos teises perleidžiamuosius vertybinius popierius. ^s-c6fcc2d5050ac9e2011e4a5c
@@ -1253,7 +1253,7 @@ INVESTAVIMO TAISYKLĖS
 ### 47 straipsnis. Finansinių priemonių portfelio diversifikavimas ^s-84acf872e3f5c825da0e2523
 
 
-1. Į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota ne daugiau kaip 5 procentai pensijų turtą sudarančių grynųjų aktyvų, išskyrus šio straipsnio 2, 5 ir [[#^s-aa2381d0f210e4865542cb77|6 dalyse]] numatytus atvejus. ^s-6dbba2969ab1628e32bf1fe1
+1. Į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota ne daugiau kaip 5 procentai pensijų turtą sudarančių grynųjų aktyvų, išskyrus šio straipsnio [[#^s-7da0d235ac648ea60691ec19|2]], [[#^s-4fd2f79a31d1c2f705075dfc|5]] ir [[#^s-aa2381d0f210e4865542cb77|6]] dalyse numatytus atvejus. ^s-6dbba2969ab1628e32bf1fe1
 
 
 2. Į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota daugiau kaip 5 procentai, bet ne daugiau kaip 10 procentų grynųjų aktyvų, su sąlyga, kad tokių investicijų bendra suma nebus didesnė kaip 40 procentų grynųjų aktyvų (šis apribojimas netaikomas indėliams). ^s-7da0d235ac648ea60691ec19
@@ -1271,7 +1271,7 @@ INVESTAVIMO TAISYKLĖS
 6. Investicijos į obligacijas, išleistas tokios valstybėje narėje registruotą buveinę turinčios kredito įstaigos, kuri, siekiant apsaugoti obligacijų savininkų interesus, yra tos valstybės specialiai prižiūrima pagal teisės aktus, o iš obligacijų leidimo gauta suma visam obligacijų galiojimo laikui investuojama į tokį turtą, kurio pakaktų patenkinti obligacijų savininkų reikalavimus ir iš kurio – emitento nemokumo atveju – obligacijų savininkų reikalavimai išmokėti pagrindinę sumą ir palūkanas būtų patenkinti pirmumo teise, negali būti didesnės kaip 25 procentai grynųjų aktyvų. Kai į tokias vieno emitento obligacijas investuojama daugiau kaip 5 procentai, bet ne daugiau kaip 25 procentai grynųjų aktyvų, bendra tokių investicijų suma negali būti didesnė kaip 80 procentų grynųjų aktyvų. ^s-aa2381d0f210e4865542cb77
 
 
-7. Šio straipsnio 5 ir [[#^s-aa2381d0f210e4865542cb77|6 dalyse]] numatyti perleidžiamieji vertybiniai popieriai ir pinigų rinkos priemonės nėra įskaitomi skaičiuojant investicijas, kurioms pagal [[#^s-7da0d235ac648ea60691ec19|šio straipsnio 2 dalį]] taikoma maksimali leistina 40 procentų riba. Šio straipsnio 1–[[#^s-aa2381d0f210e4865542cb77|6 dalyse]] numatytos ribos negali būti sudedamos, todėl investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius, pinigų rinkos priemones, indėlius suma negali būti didesnė kaip 35 procentai pensijų turtą sudarančių grynųjų aktyvų. ^s-bcb7adf7f65abdf3a01befe3
+7. Šio straipsnio [[#^s-4fd2f79a31d1c2f705075dfc|5]] ir [[#^s-aa2381d0f210e4865542cb77|6]] dalyse numatyti perleidžiamieji vertybiniai popieriai ir pinigų rinkos priemonės nėra įskaitomi skaičiuojant investicijas, kurioms pagal [[#^s-7da0d235ac648ea60691ec19|šio straipsnio 2 dalį]] taikoma maksimali leistina 40 procentų riba. Šio straipsnio [[#^s-6dbba2969ab1628e32bf1fe1|1]]–[[#^s-aa2381d0f210e4865542cb77|6]] dalyse numatytos ribos negali būti sudedamos, todėl investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius, pinigų rinkos priemones, indėlius suma negali būti didesnė kaip 35 procentai pensijų turtą sudarančių grynųjų aktyvų. ^s-bcb7adf7f65abdf3a01befe3
 
 
 8. Į įmonių, priklausančių grupei, kuri turi sudaryti konsoliduotąsias finansines ataskaitas, išleistus perleidžiamuosius vertybinius popierius ir pinigų rinkos priemones gali būti investuota ne daugiau kaip 20 procentų grynųjų aktyvų. ^s-209500f4be6308d96b6b1916
@@ -1340,7 +1340,7 @@ INVESTAVIMO TAISYKLĖS
 1. Pensijų fondas gali nesilaikyti šiame skirsnyje nustatytų investavimo apribojimų, jei jis pasinaudoja turimų perleidžiamųjų vertybinių popierių ar pinigų rinkos priemonių suteikiama pirmumo teise. Tokiu atveju, taip pat tada, kai investavimo taisyklių reikalavimai pažeidžiami dėl priežasčių, nepriklausančių nuo valdymo įmonės, neatitikimas turi būti pašalintas kuo greičiau – ne vėliau kaip per 6 mėnesius. ^s-e1c98e75ad6ea722c524dbae
 
 
-2. Naujai sukurto pensijų fondo finansinių priemonių portfelis 6 mėnesius nuo pensijų fondo taisyklių patvirtinimo gali neatitikti šio įstatymo 47, 48 ir [[#^s-cd86d0846b21db88b69b6cdc|49 straipsnių]] reikalavimų. ^s-8a0db8cadff4917be515dd0f
+2. Naujai sukurto pensijų fondo finansinių priemonių portfelis 6 mėnesius nuo pensijų fondo taisyklių patvirtinimo gali neatitikti šio įstatymo [[#^s-84acf872e3f5c825da0e2523|47]], [[#^s-0b9c4db2ec318cc9b3750676|48]] ir [[#^s-cd86d0846b21db88b69b6cdc|49]] straipsnių reikalavimų. ^s-8a0db8cadff4917be515dd0f
 
 
 
@@ -1472,7 +1472,7 @@ VALDYMO ĮMONIŲ IR DEPOZITORIUMŲ VEIKLOS VALSTYBINĖ PRIEŽIŪRA
 1. Priežiūros institucija, siekdama nustatyti, kaip laikomasi šio įstatymo ir jo pagrindu priimtų teisės aktų, turi teisę organizuoti ir atlikti patikrinimus. ^s-0855edf7016a2aec84d3b0b8
 
 
-2. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi Finansinių priemonių rinkų įstatymo 81 straipsnio 2 dalyje nustatytas teises. Šioms teisėms įgyvendinti priežiūros institucija gali pasitelkti policijos pareigūnus. ^s-833c9f63f0d3d90ec1b4cafa
+2. Atlikdami patikrinimą, priežiūros institucijos tarnautojai turi [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymo 81 straipsnio 2 dalyje]] nustatytas teises. Šioms teisėms įgyvendinti priežiūros institucija gali pasitelkti policijos pareigūnus. ^s-833c9f63f0d3d90ec1b4cafa
 
 
 3. Priežiūros institucija, turėdama pagrindą įtarti, kad valdymo įmonės, depozitoriumo ar kitų asmenų atliekami veiksmai pažeidžia šio įstatymo ar jo pagrindu priimtų priežiūros institucijos nutarimų nuostatas, ir siekdama išvengti esminės žalos ar nepataisomų pasekmių pensijų kaupimo dalyviams, turi teisę įpareigoti nutraukti tokią veiklą, kol bus atliktas tyrimas ir priimtas priežiūros institucijos sprendimas dėl įtariamo pažeidimo. Priežiūros institucijos sprendimas įpareigoti nutraukti veiklą gali būti priimtas tik gavus Vilniaus apygardos administracinio teismo leidimą. ^s-f73451fc53312bda666137e5

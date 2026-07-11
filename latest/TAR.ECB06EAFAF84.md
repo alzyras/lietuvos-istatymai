@@ -427,7 +427,7 @@ Pakeisti [[#^s-57f01c519b22e220de06fd93|23 straipsnį]] ir jį išdėstyti taip:
 2. Kai nėra generalinio prokuroro, šias pareigas eina generalinio prokuroro paskirtas generalinio prokuroro pavaduotojas, o jeigu generalinis prokuroras jį pavaduojančio asmens nepaskyrė, – didesnį tarnybos Generalinėje prokuratūroje stažą turintis generalinio prokuroro pavaduotojas. ^s-364128f037144d014f515961
 
 
-3. Generaliniam prokurorui ir jo pavaduotojams netaikomos šio Įstatymo [[#^s-72d79043c7fcd1adfaeed8b5|25 straipsnio 1 dalies]], [[#^s-dbcc2d41538102266771e640|26 straipsnio]], 30 straipsnio 3 dalies, 31–34, 36, 37 straipsnių, 39 straipsnio 3 dalies, 40–44 straipsnių, 45 straipsnio 1–6 dalių, 46, 48 straipsnių ir 53 straipsnio 2 dalies nuostatos. ^s-60ce479734ed8e78d8483155
+3. Generaliniam prokurorui ir jo pavaduotojams netaikomos šio Įstatymo [[#^s-72d79043c7fcd1adfaeed8b5|25 straipsnio 1 dalies]], [[#^s-dbcc2d41538102266771e640|26 straipsnio]], 30 straipsnio 3 dalies, [[#^s-0153e0e6579034273415c39e|31]]–34, 36, 37 straipsnių, 39 straipsnio 3 dalies, 40–44 straipsnių, 45 straipsnio 1–6 dalių, 46, 48 straipsnių ir 53 straipsnio 2 dalies nuostatos. ^s-60ce479734ed8e78d8483155
 
 
 4. Generalinio prokuroro ir jo pavaduotojų asmens ir jų šeimos narių ar turto apsauga užtikrinama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. ^s-624fcc673e49615925a83258
@@ -452,7 +452,7 @@ Pakeisti [[#^s-57f01c519b22e220de06fd93|23 straipsnį]] ir jį išdėstyti taip:
 „3. Prokuratūros personalo pareigybių sąrašą tvirtina ir jų pavaldumą nustato generalinis prokuroras.“
 
 
-3. Buvusias [[#^s-b0ed05a8df3630441e5cb1cd|24 straipsnio]] 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-6416b7971470281f3d486530
+3. Buvusias [[#^s-b0ed05a8df3630441e5cb1cd|24 straipsnio]] [[#^s-5400845809a3c0fbac5bd005|3]] ir [[#^s-3b45a6e2769aed466f783015|4]] dalis laikyti atitinkamai [[#^s-3b45a6e2769aed466f783015|4]] ir [[#^s-956b113fd71f12de5c5088a2|5]] dalimis. ^s-6416b7971470281f3d486530
 
 
 
@@ -557,7 +557,7 @@ Pakeisti 34 straipsnį ir jį išdėstyti taip:
 „34 straipsnis. Prokurorų karjera
 
 
-1. Asmuo, pageidaujantis būti paskirtas į šio straipsnio 5, 6, [[#^s-0011affb9060147d90aeee6b|7 dalyse]] nurodytas pareigas, pateikia prašymą įrašyti jį į Registrą ir dalyvauja atrankoje į šias pareigas šio Įstatymo [[#^s-dbcc2d41538102266771e640|26 straipsnyje]] nustatyta tvarka. ^s-9450d90e115cbcf901d9ed7e
+1. Asmuo, pageidaujantis būti paskirtas į šio straipsnio [[#^s-ebf49bc353d4964c2824ac99|5]], [[#^s-0f86ab37a20782b5f45a204b|6]], [[#^s-0011affb9060147d90aeee6b|7]] dalyse nurodytas pareigas, pateikia prašymą įrašyti jį į Registrą ir dalyvauja atrankoje į šias pareigas šio Įstatymo [[#^s-dbcc2d41538102266771e640|26 straipsnyje]] nustatyta tvarka. ^s-9450d90e115cbcf901d9ed7e
 
 
 2. Į vyriausiojo prokuroro (jo pavaduotojo) pareigas asmuo skiriamas penkeriems metams. ^s-937799e6f9a7fc65bb9ea7df
@@ -830,10 +830,10 @@ Pakeisti 52 straipsnio 10 dalį ir ją išdėstyti taip:
 3. Iki šio įstatymo įsigaliojimo į pareigas neterminuotai paskirtiems vyriausiesiems prokurorams (jų pavaduotojams) 5 metų skyrimo į pareigas laikotarpis skaičiuojamas nuo šio įstatymo įsigaliojimo dienos. ^s-97b93673524d782bbb74d70b
 
 
-4. Jeigu vyriausieji prokurorai paskirti į pareigas iki [[latest/TAR.3EB53577EFCA#^s-99ed360098ebdb5ae0d4bf6c|Lietuvos Respublikos prokuratūros įstatymo 5, 7, 14, 15, 19, 23, 25, 26, 29, 32, 33, 34, 36, 39, 44, 52 straipsnių]] pakeitimo ir papildymo ir Įstatymo papildymo 371 straipsniu įstatymo (Žin., 2008,Nr. 81-3173) įsigaliojimo šias pareigas prokuratūroje ėjo kadencijos trukmės ar ilgesnį laikotarpį, šis laikotarpis prilyginamas pirmajai jų kadencijai einant tas pačias pareigas. ^s-10511cf96cffc1eddc77e293
+4. Jeigu vyriausieji prokurorai paskirti į pareigas iki [[latest/TAR.3EB53577EFCA|Lietuvos Respublikos prokuratūros įstatymo]] [[latest/TAR.3EB53577EFCA#^s-cfb09db27acc003ecd5da2e7|5]], [[latest/TAR.3EB53577EFCA#^s-cc8973f3f564065d5bf7ba9f|7]], [[latest/TAR.3EB53577EFCA#^s-df491b3501f3273c726bcd5c|14]], [[latest/TAR.3EB53577EFCA#^s-4fb5f0ef361d91fb1682dbac|15]], [[latest/TAR.3EB53577EFCA#^s-7f702b2fc9fd2cb36809f97e|19]], [[latest/TAR.3EB53577EFCA#^s-4a11ad79b381fba7492866fd|23]], [[latest/TAR.3EB53577EFCA#^s-950e21e5ed1d16e6c9579cef|25]], [[latest/TAR.3EB53577EFCA#^s-da6678d2aa3a90e63df28beb|26]], [[latest/TAR.3EB53577EFCA#^s-edf1803f8515880477b51561|29]], [[latest/TAR.3EB53577EFCA#^s-c5ca79d61636288df13fd176|32]], [[latest/TAR.3EB53577EFCA#^s-3d1bcb5264ef8639ad6e477f|33]], [[latest/TAR.3EB53577EFCA#^s-bdf062fd3074865f73bd0a91|34]], [[latest/TAR.3EB53577EFCA#^s-4faa8b22d903bbbad68f5732|36]], [[latest/TAR.3EB53577EFCA#^s-9642ab31c84eb7c7a37984d3|39]], [[latest/TAR.3EB53577EFCA#^s-914310ade0fbd42eb17a4bdb|44]], [[latest/TAR.3EB53577EFCA#^s-99ed360098ebdb5ae0d4bf6c|52]] straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 371 straipsniu įstatymo (Žin., 2008,Nr. 81-3173) įsigaliojimo šias pareigas prokuratūroje ėjo kadencijos trukmės ar ilgesnį laikotarpį, šis laikotarpis prilyginamas pirmajai jų kadencijai einant tas pačias pareigas. ^s-10511cf96cffc1eddc77e293
 
 
-5. Jeigu vyriausieji prokurorai paskirti į pareigas po [[latest/TAR.3EB53577EFCA#^s-99ed360098ebdb5ae0d4bf6c|Lietuvos Respublikos prokuratūros įstatymo 5, 7, 14, 15, 19, 23, 25, 26, 29, 32, 33, 34, 36, 39, 44, 52 straipsnių]] pakeitimo ir papildymo ir Įstatymo papildymo 371 straipsniu įstatymo (Žin., 2008, Nr. 81-3173) įsigaliojimo šias pareigas prokuratūroje ėjo kadencijos trukmės ar ilgesnį laikotarpį, šis laikotarpis prilyginamas antrajai jų kadencijai einant tas pačias pareigas. ^s-c13d847687ec707151f68710
+5. Jeigu vyriausieji prokurorai paskirti į pareigas po [[latest/TAR.3EB53577EFCA|Lietuvos Respublikos prokuratūros įstatymo]] [[latest/TAR.3EB53577EFCA#^s-cfb09db27acc003ecd5da2e7|5]], [[latest/TAR.3EB53577EFCA#^s-cc8973f3f564065d5bf7ba9f|7]], [[latest/TAR.3EB53577EFCA#^s-df491b3501f3273c726bcd5c|14]], [[latest/TAR.3EB53577EFCA#^s-4fb5f0ef361d91fb1682dbac|15]], [[latest/TAR.3EB53577EFCA#^s-7f702b2fc9fd2cb36809f97e|19]], [[latest/TAR.3EB53577EFCA#^s-4a11ad79b381fba7492866fd|23]], [[latest/TAR.3EB53577EFCA#^s-950e21e5ed1d16e6c9579cef|25]], [[latest/TAR.3EB53577EFCA#^s-da6678d2aa3a90e63df28beb|26]], [[latest/TAR.3EB53577EFCA#^s-edf1803f8515880477b51561|29]], [[latest/TAR.3EB53577EFCA#^s-c5ca79d61636288df13fd176|32]], [[latest/TAR.3EB53577EFCA#^s-3d1bcb5264ef8639ad6e477f|33]], [[latest/TAR.3EB53577EFCA#^s-bdf062fd3074865f73bd0a91|34]], [[latest/TAR.3EB53577EFCA#^s-4faa8b22d903bbbad68f5732|36]], [[latest/TAR.3EB53577EFCA#^s-9642ab31c84eb7c7a37984d3|39]], [[latest/TAR.3EB53577EFCA#^s-914310ade0fbd42eb17a4bdb|44]], [[latest/TAR.3EB53577EFCA#^s-99ed360098ebdb5ae0d4bf6c|52]] straipsnių pakeitimo ir papildymo ir Įstatymo papildymo 371 straipsniu įstatymo (Žin., 2008, Nr. 81-3173) įsigaliojimo šias pareigas prokuratūroje ėjo kadencijos trukmės ar ilgesnį laikotarpį, šis laikotarpis prilyginamas antrajai jų kadencijai einant tas pačias pareigas. ^s-c13d847687ec707151f68710
 
 
 6. Iki šio įstatymo įsigaliojimo generalinis prokuroras parengia teisės aktus, įgyvendinančius šio įstatymo nuostatas, ir patvirtina šio įstatymo [[#^s-509bf2ffc6e2d0482192309b|8 straipsnyje]] nurodytų sudėčių komisijas. ^s-022d4ae4525da1664f8bdc28

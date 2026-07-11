@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-51e5ba0eedba69feece8d966
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. balandžio 14 d. dekretą Nr. 577, ratifikuoja su pareiškimu 1996 m. gegužės 3 d. Londone priimtą 1996 m. Tarptautinę konvenciją dėl atsakomybės ir kompensacijos už žalą, susijusią su pavojingų ir kenksmingų medžiagų vežimu jūra.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. balandžio 14 d. dekretą Nr. 577](https://e-tar.lt/portal/lt/legalAct/TAR.B072090F3975), ratifikuoja su pareiškimu 1996 m. gegužės 3 d. Londone priimtą 1996 m. Tarptautinę konvenciją dėl atsakomybės ir kompensacijos už žalą, susijusią su pavojingų ir kenksmingų medžiagų vežimu jūra.
 
 
 
@@ -58,7 +58,7 @@ Lietuvos Respublikos Vyriausybė iki 2007 m. rugsėjo 1 d. nustato šios konvenc
 ### 4 straipsnis. Įstatymo įsigaliojimas ^s-9340028ad0c8dbcbea007139
 
 
-Šio įstatymo 1 ir [[#^s-be555638127fd058a57ea5cf|2 straipsniai]] įsigalioja nuo 2007 m. rugsėjo 1 d.
+Šio įstatymo [[#^s-51e5ba0eedba69feece8d966|1]] ir [[#^s-be555638127fd058a57ea5cf|2]] straipsniai įsigalioja nuo 2007 m. rugsėjo 1 d.
 
 
 

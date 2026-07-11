@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos pašto įstatymo 3 straipsnio pakeitimo ir į
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Administracinių bylų teisenos įstatymo
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Administracinių bylų teisenos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9CD153214DD1#^s-b547e42e8cd19fd1be799427|Lietuvos Respublikos pašto įstatymas]] - 2 citatos - PAŠTO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 13, 14, 15, 16, 17 STRAIPSNIAIS ĮSTATYMAS
-- [[latest/TAR.9CD153214DD1#^s-fbc5276fc3a483be4256a17e|Lietuvos Respublikos pašto įstatymas]] - 2 citatos - PAŠTO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 13, 14, 15, 16, 17 STRAIPSNIAIS ĮSTATYMAS
+- [[latest/TAR.9CD153214DD1#^s-b547e42e8cd19fd1be799427|Lietuvos Respublikos pašto įstatymas]] - PAŠTO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 13, 14, 15, 16, 17 STRAIPSNIAIS ĮSTATYMAS

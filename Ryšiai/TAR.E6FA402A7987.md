@@ -13,16 +13,11 @@ pavadinimas: "Lietuvos Respublikos karo policijos įstatymo 10, 13, 14, 15, 17, 
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.23C5BC14E2B6#^s-2c2c1bb9d8f6b8f2a3ce3228|Lietuvos Respublikos karo policijos įstatymas]] - 1031010ISTA0IX-1434
-- [[latest/TAR.23C5BC14E2B6#^s-42a6e7c998124fb8451dffac|Lietuvos Respublikos karo policijos įstatymas]] - 1031010ISTA0IX-1434
-- [[latest/TAR.23C5BC14E2B6#^s-4c1850ed1bc4f89eef1b3588|Lietuvos Respublikos karo policijos įstatymas]] - 1031010ISTA0IX-1434
 - [[latest/TAR.23C5BC14E2B6#^s-5227502d9f3412d192028cb0|Lietuvos Respublikos karo policijos įstatymas]] - 1031010ISTA0IX-1434
 - [[latest/TAR.23C5BC14E2B6#^s-65f5dfe18c77d52ee40859a8|Lietuvos Respublikos karo policijos įstatymas]] - 1031010ISTA0IX-1434
 - [[latest/TAR.23C5BC14E2B6#^s-7bb6eea1bf034abd797932d5|Lietuvos Respublikos karo policijos įstatymas]] - 1031010ISTA0IX-1434
-- [[latest/TAR.23C5BC14E2B6#^s-88b3248f32b14b468e8ea913|Lietuvos Respublikos karo policijos įstatymas]] - 3 citatos - 1031010ISTA0IX-1434
 - [[latest/TAR.23C5BC14E2B6#^s-8f365c4b0aacf85a3cfca04d|Lietuvos Respublikos karo policijos įstatymas]] - 1031010ISTA0IX-1434
 - [[latest/TAR.23C5BC14E2B6#^s-da21c0f7b176833a1b5fba0d|Lietuvos Respublikos karo policijos įstatymas]] - 1031010ISTA0IX-1434
-- [[latest/TAR.23C5BC14E2B6#^s-e43b05e698f826e831c91be6|Lietuvos Respublikos karo policijos įstatymas]] - 3 citatos - 1031010ISTA0IX-1434
-- [[latest/TAR.23C5BC14E2B6#^s-e613c142ffb9eba8a030b130|Lietuvos Respublikos karo policijos įstatymas]] - 1031010ISTA0IX-1434
+- [[latest/TAR.23C5BC14E2B6#^s-e43b05e698f826e831c91be6|Lietuvos Respublikos karo policijos įstatymas]] - 2 citatos - 1031010ISTA0IX-1434
 - [[latest/TAR.23C5BC14E2B6#^s-f1b87ddc5b0cc2a67fe8810f|Lietuvos Respublikos karo policijos įstatymas]] - 1031010ISTA0IX-1434
 - [[latest/TAR.23C5BC14E2B6#^s-f88fd09caf62151307ee8bcb|Lietuvos Respublikos karo policijos įstatymas]] - 1031010ISTA0IX-1434

@@ -253,7 +253,7 @@ Vilnius
 4. Pakeisti [[#^s-8afffd5d4fc32b6eca5f154a|9 straipsnio 7 dalį]] ir ją išdėstyti taip: ^s-86e9e88396db3c6d76c52530
 
 
-„7. Atsakinga institucija turi teisę pareikalauti pakartotinai organizuoti visuomenės viešą supažindinimą su ataskaita, jeigu po viešo supažindinimo su ataskaita ji yra iš esmės keičiama, taisoma ar papildoma (pavyzdžiui, siūlomos naujos vietos, technologijų alternatyvos, poveikį švelninančios priemonės ir t. t.) dėl gautų poveikio aplinkai vertinimo subjektų motyvuotų išvadų ir atsakingos institucijos motyvuotų reikalavimų pataisyti ar papildyti ataskaitą. Kai po pakartotinio viešo supažindinimo arba atsakingos institucijos pateiktų pastabų ataskaita iš esmės pakeičiama, pataisoma ar papildoma, poveikio aplinkai vertinimo dokumentų rengėjas turi gauti pakartotines poveikio aplinkai vertinimo subjektų išvadas šio straipsnio 3, 4, 5 ir 6 dalyse nustatyta tvarka.“
+„7. Atsakinga institucija turi teisę pareikalauti pakartotinai organizuoti visuomenės viešą supažindinimą su ataskaita, jeigu po viešo supažindinimo su ataskaita ji yra iš esmės keičiama, taisoma ar papildoma (pavyzdžiui, siūlomos naujos vietos, technologijų alternatyvos, poveikį švelninančios priemonės ir t. t.) dėl gautų poveikio aplinkai vertinimo subjektų motyvuotų išvadų ir atsakingos institucijos motyvuotų reikalavimų pataisyti ar papildyti ataskaitą. Kai po pakartotinio viešo supažindinimo arba atsakingos institucijos pateiktų pastabų ataskaita iš esmės pakeičiama, pataisoma ar papildoma, poveikio aplinkai vertinimo dokumentų rengėjas turi gauti pakartotines poveikio aplinkai vertinimo subjektų išvadas šio straipsnio [[#^s-07e479382532ffbe85afff53|3]], 4, 5 ir 6 dalyse nustatyta tvarka.“
 
 
 
@@ -272,19 +272,19 @@ Vilnius
 2) priima sprendimą.“ ^s-a3f6eeb40c966c520b0c98dd
 
 
-2. Papildyti [[#^s-0603c8978771d777fc6ee54f|10 straipsnį]] nauja [[#^s-5ea15c8d12194b0eea32331c|2 dalimi]]: ^s-5ea15c8d12194b0eea32331c
+2. Papildyti [[#^s-0603c8978771d777fc6ee54f|10 straipsnį]] nauja 2 dalimi: ^s-5ea15c8d12194b0eea32331c
 
 
 „2. Kai vadovaudamasi šio įstatymo 6 straipsnio 1 dalies 3 punktu atsakinga institucija ataskaitai nagrinėti pasitelkia konsultantus, ši institucija motyvuotus reikalavimus ataskaitą pataisyti ar papildyti teikia arba priima sprendimą per 50 darbo dienų nuo ataskaitos gavimo dienos. Atsakinga institucija priima motyvuotą sprendimą pasitelkti konsultantus ir pateikia jį planuojamos ūkinės veiklos organizatoriui (užsakovui) ir poveikio aplinkai vertinimo dokumentų rengėjui per 5 darbo dienas po ataskaitos gavimo dienos. Šioje straipsnio dalyje nurodytas sprendimo priėmimo terminas vieną kartą gali būti pratęstas iki 30 dienų. Atsakinga institucija apie priimtą sprendimą pratęsti terminą privalo ne vėliau kaip likus 5 darbo dienoms iki termino pabaigos pranešti planuojamos ūkinės veiklos organizatoriui (užsakovui) ir poveikio aplinkai vertinimo dokumentų rengėjui ir nurodyti priežastis, dėl kurių terminas buvo pratęstas.“
 
 
-3. Papildyti [[#^s-0603c8978771d777fc6ee54f|10 straipsnį]] nauja [[#^s-1b45fdc9410b8972a72b28b1|3 dalimi]]: ^s-1b45fdc9410b8972a72b28b1
+3. Papildyti [[#^s-0603c8978771d777fc6ee54f|10 straipsnį]] nauja 3 dalimi: ^s-1b45fdc9410b8972a72b28b1
 
 
 „3. Kai atsakinga institucija pateikia motyvuotus reikalavimus ataskaitą pataisyti ar papildyti, poveikio aplinkai vertinimo dokumentų rengėjas turi papildyti ar pataisyti ataskaitą ir pakartotinai pateikti ją atsakingai institucijai. Ši ataskaitą išnagrinėja ir per [[#^s-a23674831b20e9210656018e|šio straipsnio 1 dalyje]] nurodytą terminą priima sprendimą arba dar kartą teikia motyvuotus reikalavimus ataskaitą pataisyti ar papildyti.“
 
 
-4. Buvusias [[#^s-0603c8978771d777fc6ee54f|10 straipsnio]] 2–[[#^s-223eca9e4ceda230fca2dffd|8 dalis]] laikyti atitinkamai 4–10 dalimis. ^s-a44fef829d98ff5cb128c136
+4. Buvusias [[#^s-0603c8978771d777fc6ee54f|10 straipsnio]] [[#^s-b10472a8f7fe7008e54b1bd9|2]]–8 dalis laikyti atitinkamai 4–10 dalimis. ^s-a44fef829d98ff5cb128c136
 
 
 5. 10 straipsnio 5 dalyje išbraukti žodžius „ir“, „ar“ ir šią dalį išdėstyti taip: ^s-17bbb31e918b5dbd0d2d9474
@@ -475,10 +475,10 @@ aplinkai vertinimo įstatymo
 ### 15 straipsnis. Įstatymo įsigaliojimas ^s-91b9be717dfcf4b107c74141
 
 
-1. Šio įstatymo [[#^s-e6b6571d6fa3766b83d3c18d|5 straipsnis]], [[#^s-92044bb8e16101de377dff38|6 straipsnio]] 4, 6 ir 8 dalys, [[#^s-4bec1815ef3d06e14c85c548|7 straipsnio 4 dalis]], [[#^s-07e479382532ffbe85afff53|8 straipsnio 3 dalis]], [[#^s-08cda6e1c695d422b9f4f978|9 straipsnio]] 1, 6, 7 ir 8 dalys įsigalioja po 3 mėnesių nuo šio įstatymo paskelbimo leidinyje „Valstybės žinios“ dienos. ^s-49c651c98bb1de039131a4a7
+1. Šio įstatymo [[#^s-e6b6571d6fa3766b83d3c18d|5 straipsnis]], [[#^s-92044bb8e16101de377dff38|6 straipsnio]] [[#^s-5e0c2ce8c9278adcc0ca8751|4]], [[#^s-7ca115291e0cce53b4af4b73|6]] ir [[#^s-c7a0c155757a786a89cbd6ae|8]] dalys, [[#^s-4bec1815ef3d06e14c85c548|7 straipsnio 4 dalis]], [[#^s-07e479382532ffbe85afff53|8 straipsnio 3 dalis]], [[#^s-08cda6e1c695d422b9f4f978|9 straipsnio]] [[#^s-a23674831b20e9210656018e|1]], [[#^s-c0c5f73955039cbbfd9b9d03|6]], [[#^s-8afffd5d4fc32b6eca5f154a|7]] ir [[#^s-223eca9e4ceda230fca2dffd|8]] dalys įsigalioja po 3 mėnesių nuo šio įstatymo paskelbimo leidinyje „Valstybės žinios“ dienos. ^s-49c651c98bb1de039131a4a7
 
 
-2. Šio įstatymo [[#^s-0c8284e663d3033f75c065a8|12 straipsnio]] 3, 6 ir 7 dalys ir [[#^s-3fba64c5a743a5e072ac46f5|13 straipsnio]] 4 ir 7 dalys įsigalioja [[latest/TAR.3BB20C9F088C|Lietuvos Respublikos anglies dioksido geologinio saugojimo įstatymo]] įsigaliojimo dieną. ^s-827759ae8a75b83531ca2c4b
+2. Šio įstatymo [[#^s-0c8284e663d3033f75c065a8|12 straipsnio]] [[#^s-832258dab37f48221d0bfe0b|3]], [[#^s-afee197b2f51f2cf79bf120f|6]] ir [[#^s-93a7abe9167ccd273ab8050c|7]] dalys ir [[#^s-3fba64c5a743a5e072ac46f5|13 straipsnio]] [[#^s-6132ed8907ee14fafd8adfa1|4]] ir [[#^s-7573004a15bed7d8d2f266a2|7]] dalys įsigalioja [[latest/TAR.3BB20C9F088C|Lietuvos Respublikos anglies dioksido geologinio saugojimo įstatymo]] įsigaliojimo dieną. ^s-827759ae8a75b83531ca2c4b
 
 
 

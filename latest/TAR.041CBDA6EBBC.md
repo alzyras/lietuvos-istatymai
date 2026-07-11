@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-d3bcd1ae10d8410817e9b5bf
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 24 d. dekretą Nr. 724, ratifikuoja su pareiškimu 2001 m. kovo 23 d. Londone priimtą 2001 m. Tarptautinę konvenciją dėl civilinės atsakomybės už laivų bunkeriuose vežamos naftos padarytą žalą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. rugpjūčio 24 d. dekretą Nr. 724](https://e-tar.lt/portal/lt/legalAct/TAR.5F15D20FBD6A), ratifikuoja su pareiškimu 2001 m. kovo 23 d. Londone priimtą 2001 m. Tarptautinę konvenciją dėl civilinės atsakomybės už laivų bunkeriuose vežamos naftos padarytą žalą.
 
 
 

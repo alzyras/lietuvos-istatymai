@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 6 straipsnio papildymas ^s-30be2d0b03045f3da6f372a1
 
 
-6 straipsnį papildyti 15, 16, 17 ir [[#^s-d5dae021cc45949aeff61959|18 punktais]]:
+6 straipsnį papildyti 15, 16, 17 ir 18 punktais:
 
 
 „15) vizų išdavimą asmenims, kurių teisės atkurtos pagal Lietuvos Respublikos įstatymą „Dėl asmenų, represuotų už pasipriešinimą okupaciniams režimams, teisių atstatymo“ (Žin., 1990, Nr. 14-386; 1995, Nr. 85-1915, Nr. 94-2086; 1996, Nr. 67-1603, Nr. 119-2273), pateikusiems atitinkamą pažymėjimą;

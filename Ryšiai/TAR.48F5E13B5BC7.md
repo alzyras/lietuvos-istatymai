@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos akcinės bendrovės Turto banko pertvarkymo �
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.29FB2C8807FE|Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymu
+- [[latest/TAR.29FB2C8807FE|Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymas]] - Lietuvos Respublikos valstybės ir savivaldybės įmonių įstatymu
 
 ## Šį įstatymą cituoja
 

@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-a52981664c89044cac816cbb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2013 m. gegužės 6 d. dekretą Nr. 1K-1450, ratifikuoja 1983 m. gegužės 24 d. Ženevoje priimtą Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) įkūrimo konvenciją.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2013 m. gegužės 6 d. dekretą Nr. 1K-1450](https://e-tar.lt/portal/lt/legalAct/TAR.6BF8B82D60E0), ratifikuoja 1983 m. gegužės 24 d. Ženevoje priimtą Europos meteorologinių palydovų eksploatacijos organizacijos (EUMETSAT) įkūrimo konvenciją.
 
 
 

@@ -122,7 +122,7 @@ BENDROSIOS NUOSTATOS
 20. Viešoji uosto žemės nuomos teisės suteikimo procedūra (toliau – viešoji procedūra) – uosto žemės nuomos teisės suteikimo procedūra, viešai organizuojama užtikrinant nediskriminavimo, proporcingumo, skaidrumo, objektyvumo, aiškumo ir nedviprasmiškumo principų laikymąsi. ^s-da6ca232e623cb42ec9578fa
 
 
-21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos 2017 m. vasario 15 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/352, kuriuo nustatoma uosto paslaugų teikimo sistema ir bendros finansinio uostų skaidrumo taisyklės, su visais pakeitimais, [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatyme]], [[latest/TAR.6EA8AC8A483B|Lietuvos Respublikos geležinkelių transporto kodekse]], [[latest/TAR.56935A08DD06|Lietuvos Respublikos jūros aplinkos apsaugos įstatyme]], [[latest/TAR.6A449FCC534B|Lietuvos Respublikos koncesijų įstatyme]], [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatyme]], [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme]], Lietuvos Respublikos pavojingųjų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų keliais įstatyme, [[latest/TAR.8FBB384266D1|Lietuvos Respublikos saugios laivybos įstatyme]], [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatyme]], [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatyme]], [[latest/TAR.FBE404535C5B|Lietuvos Respublikos transporto veiklos pagrindų įstatyme]] ir [[latest/TAR.DD80CF948782|Lietuvos Respublikos visuomenės sveikatos priežiūros įstatyme]]. ^s-467553379de738a22ead4f66
+21. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos 2017 m. vasario 15 d. Europos Parlamento ir Tarybos [reglamente (ES) 2017/352](https://eur-lex.europa.eu/eli/reg/2017/352/oj), kuriuo nustatoma uosto paslaugų teikimo sistema ir bendros finansinio uostų skaidrumo taisyklės, su visais pakeitimais, [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatyme]], [[latest/TAR.6EA8AC8A483B|Lietuvos Respublikos geležinkelių transporto kodekse]], [[latest/TAR.56935A08DD06|Lietuvos Respublikos jūros aplinkos apsaugos įstatyme]], [[latest/TAR.6A449FCC534B|Lietuvos Respublikos koncesijų įstatyme]], [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatyme]], [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme]], Lietuvos Respublikos pavojingųjų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų keliais įstatyme, [[latest/TAR.8FBB384266D1|Lietuvos Respublikos saugios laivybos įstatyme]], [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatyme]], [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatyme]], [[latest/TAR.FBE404535C5B|Lietuvos Respublikos transporto veiklos pagrindų įstatyme]] ir [[latest/TAR.DD80CF948782|Lietuvos Respublikos visuomenės sveikatos priežiūros įstatyme]]. ^s-467553379de738a22ead4f66
 
 
 
@@ -548,7 +548,7 @@ LAISVASIS UOSTAS
 7. Susisiekimo ministrui sustabdžius uosto žemės naudotojo teisę vykdyti veiklą laisvajame uoste, Susisiekimo ministerija kartu su pranešimu apie teisės vykdyti veiklą laisvajame uoste sustabdymą nurodo pašalinti pažeidimus ne vėliau kaip per 10 darbo dienų nuo šio pranešimo gavimo dienos. Pašalinęs visus pažeidimus, uosto žemės naudotojas ne vėliau kaip per 5 darbo dienas pateikia tai patvirtinančią informaciją Susisiekimo ministerijai. Susisiekimo ministras, gavęs šią informaciją ir nustatęs, kad pažeidimai pašalinti, per 5 darbo dienas priima sprendimą panaikinti uosto žemės naudotojo teisės vykdyti veiklą laisvajame uoste sustabdymą. Apie priimtą sprendimą Susisiekimo ministerija nedelsdama informuoja uosto žemės naudotoją. ^s-a3fb517ef98a92c1c1195e73
 
 
-8. Susisiekimo ministras per 3 darbo dienas nuo šios dalies 1–[[#^s-b66327963d64dd9c39152fbc|5 punktuose]] nurodytų atvejų nustatymo momento panaikina uosto žemės naudotojo teisę vykdyti veiklą laisvajame uoste ir apie tai tą pačią dieną, kai priimamas sprendimas, informuoja uosto žemės naudotoją, jeigu nustatoma, kad uosto žemės naudotojas, vykdantis veiklą laisvajame uoste: ^s-ab16ec99761610c30c835a4c
+8. Susisiekimo ministras per 3 darbo dienas nuo šios dalies [[#^s-8da3c3d2b82be95cd1d1c590|1]]–[[#^s-b66327963d64dd9c39152fbc|5]] punktuose nurodytų atvejų nustatymo momento panaikina uosto žemės naudotojo teisę vykdyti veiklą laisvajame uoste ir apie tai tą pačią dieną, kai priimamas sprendimas, informuoja uosto žemės naudotoją, jeigu nustatoma, kad uosto žemės naudotojas, vykdantis veiklą laisvajame uoste: ^s-ab16ec99761610c30c835a4c
 
 
 1) pateikė deklaraciją apie nutraukiamą veiklą laisvajame uoste; ^s-8da3c3d2b82be95cd1d1c590
@@ -563,7 +563,7 @@ LAISVASIS UOSTAS
 4) nevykdo veiklos laisvajame uoste ilgiau kaip 6 mėnesius; ^s-9c8f5156ece6c268f9ca9fef
 
 
-5) vykdo veiklą laisvajame uoste, kai jo teisė vykdyti veiklą laisvajame uoste buvo sustabdyta ir uosto žemės naudotojas apie tai buvo informuotas, arba vykdo veiklą, kurios nedeklaravo Susisiekimo ministerijai šio straipsnio 3 ir [[#^s-48d796bcfc37027092afb0ac|4 dalyse]] nustatyta tvarka. ^s-b66327963d64dd9c39152fbc
+5) vykdo veiklą laisvajame uoste, kai jo teisė vykdyti veiklą laisvajame uoste buvo sustabdyta ir uosto žemės naudotojas apie tai buvo informuotas, arba vykdo veiklą, kurios nedeklaravo Susisiekimo ministerijai šio straipsnio [[#^s-07b0aa3b9ef3b5ce16af9b06|3]] ir [[#^s-48d796bcfc37027092afb0ac|4]] dalyse nustatyta tvarka. ^s-b66327963d64dd9c39152fbc
 
 
 9. Panaikinus uosto žemės naudotojo teisę vykdyti veiklą laisvajame uoste [[#^s-ab16ec99761610c30c835a4c|šio straipsnio 8 dalyje]] nustatyta tvarka, uosto žemės naudotojas, pašalinęs aplinkybes, dėl kurių  ši teisė buvo panaikinta, gali deklaruoti Susisiekimo ministerijai savo atitiktį uosto žemės naudotojui keliamiems reikalavimams [[#^s-07b0aa3b9ef3b5ce16af9b06|šio straipsnio 3 dalyje]] nustatyta tvarka ir įgyti teisę vykdyti veiklą laisvajame uoste. Vyriausybės įgaliota institucija patikrina, ar uosto žemės naudotojas tinkamai pašalino aplinkybes, dėl kurių buvo panaikinta teisė vykdyti veiklą laisvajame uoste, ir pateikia išvadą Susisiekimo ministerijai. Jeigu teisė vykdyti veiklą laisvajame uoste buvo panaikinta trečią kartą per pastaruosius 24 mėnesius, uosto žemės naudotojas negali deklaruoti savo atitikties 6 mėnesius nuo šios teisės panaikinimo dienos, išskyrus atvejį, kai Vyriausybės įgaliota institucija iki šio termino pabaigos patikrina ir nustato, kad pažeidimai visiškai pašalinti. ^s-c10dd8d77219a546d7613369
@@ -772,7 +772,7 @@ UOSTO ŽEMĖS NUOMA
 1. Uoste keleiviai gali būti aptarnaujami, kroviniai, pašto siuntos ir siuntiniai perkraunami, laivai aprūpinami, transportavimo, ekspedicijos bei sandėliavimo operacijos atliekamos tik tam specialiai skirtose vietose. ^s-63d06a8d10e47bef70073347
 
 
-2. Linijiniams laivams uoste suteikiama pirmumo teisė gauti uosto paslaugas, kaip jos suprantamos pagal Reglamentą (ES) 2017/352. ^s-775fa330b724a78eab0fa9ea
+2. Linijiniams laivams uoste suteikiama pirmumo teisė gauti uosto paslaugas, kaip jos suprantamos pagal [Reglamentą (ES) 2017/352](https://eur-lex.europa.eu/eli/reg/2017/352/oj). ^s-775fa330b724a78eab0fa9ea
 
 
 3. Uosto valdytojas privalo užtikrinti laivuose susidarančių atliekų ir teršalų priėmimą ir tvarkymą. ^s-969b09250c6b6589bf32268d
@@ -938,7 +938,7 @@ UOSTO AKVATORIJOJE PASKENDĘS, PALIKTAS BE PRIEŽIŪROS ARBA APLEISTAS TURTAS IR
 4. Uosto valdytojas, gavęs pranešimą arba pastebėjęs taršą uosto akvatorijoje, nedelsdamas imasi skubių veiksmų taršai kenksmingomis medžiagomis, nafta, naftos produktais, nutekamaisiais vandenimis ar šiukšlėmis uosto akvatorijoje pašalinti. ^s-c7c8040aeac213cedd23339c
 
 
-5. Subjektas, kuris pagal šio straipsnio 3 ir [[#^s-c7c8040aeac213cedd23339c|4 dalis]] patyrė išlaidų, susijusių su taršos kenksmingomis medžiagomis, nafta, naftos produktais, nutekamaisiais vandenimis ar šiukšlėmis uoste likvidavimu, turi teisę reikalauti, kad teršėjas atlygintų visas pagrįstas išlaidas ir nuostolius dėl taršos. Tyrimus dėl taršos atlieka ir teršėją nustato valstybinę aplinkos apsaugos kontrolę vykdanti institucija. ^s-720edd18e298a454f714cbb1
+5. Subjektas, kuris pagal šio straipsnio [[#^s-9fb40592424ad76d266a4039|3]] ir [[#^s-c7c8040aeac213cedd23339c|4]] dalis patyrė išlaidų, susijusių su taršos kenksmingomis medžiagomis, nafta, naftos produktais, nutekamaisiais vandenimis ar šiukšlėmis uoste likvidavimu, turi teisę reikalauti, kad teršėjas atlygintų visas pagrįstas išlaidas ir nuostolius dėl taršos. Tyrimus dėl taršos atlieka ir teršėją nustato valstybinę aplinkos apsaugos kontrolę vykdanti institucija. ^s-720edd18e298a454f714cbb1
 
 
 
@@ -1015,13 +1015,13 @@ Nr. VIII-1538, 00.02.15, Žin., 2000, Nr.18-429 (00.02.29)
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1898, 00.08.29, Žin., 2000, Nr.75-2265 (00.09.07)
-KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 2, 3, 4, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 28, 30, 33, 34, 36, 37, 38, 39 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 6, 40, 41, 43 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS, ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU IR II SKYRIAUS TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
+KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO [[#^s-c5138831cbac96dc46333227|2]], [[#^s-1c65223be754811b29b4c36a|3]], [[#^s-a3cea03d8048d6783d9a61a8|4]], [[#^s-6629f169e8d01c5a186cb1d9|10]], [[#^s-c0a38653a17516e2b453ed54|11]], [[#^s-2d4b8726fd3b72f0f56c9457|13]], [[#^s-60625e7d7763998da0ab8563|14]], [[#^s-fc7ae92b1f8bcb4503d27e92|15]], [[#^s-ac882b032d9a2ed99b5f0fce|16]], [[#^s-152c3da5881f6c800a49ba02|17]], [[#^s-081d37b14680bf864241e9c2|18]], [[#^s-06bf12ff143e577851273343|19]], [[#^s-c515025dc2c24dd0a86f0ae3|20]], [[#^s-268adf51cc871bd942937264|21]], [[#^s-75bc9684c77edb3167392b48|22]], [[#^s-f63681dcf7f6dad6885c1f9f|23]], [[#^s-5320fcbb65a5335a679d2e72|24]], [[#^s-a28a806b28818f19d5713bf7|25]], [[#^s-dde680a01cddf82e7a1f7525|28]], [[#^s-2325757d1901f4807d9e0aa9|30]], [[latest/TAR.D66F6A760DE7|33]], [[latest/TAR.D66F6A760DE7|34]], [[latest/TAR.D66F6A760DE7|36]], [[latest/TAR.D66F6A760DE7|37]], [[latest/TAR.D66F6A760DE7|38]], [[latest/TAR.D66F6A760DE7|39]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, [[#^s-0ea462dec381901b707e020c|6]], 40, 41, 43 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS, ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU IR II SKYRIAUS TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMAS
 Įstatymo įsigaliojimas pakeistas :
 Šis įstatymas įsigalioja nuo 2000 m. spalio 1 d.
 Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-1962, 00.09.26, Žin., 2000, Nr.82-2479 (00.09.29)
-KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO 2, 3, 4, 10, 11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 28, 30, 33, 34, 36, 37, 38, 39 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, 6, 40, 41, 43 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS, ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU IR II SKYRIAUS TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMO 1, 6, 9, 10, 11, 13, 16, 17, 18, 19, 20, 21, 34 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO [[#^s-c5138831cbac96dc46333227|2]], [[#^s-1c65223be754811b29b4c36a|3]], [[#^s-a3cea03d8048d6783d9a61a8|4]], [[#^s-6629f169e8d01c5a186cb1d9|10]], [[#^s-c0a38653a17516e2b453ed54|11]], [[#^s-2d4b8726fd3b72f0f56c9457|13]], [[#^s-60625e7d7763998da0ab8563|14]], [[#^s-fc7ae92b1f8bcb4503d27e92|15]], [[#^s-ac882b032d9a2ed99b5f0fce|16]], [[#^s-152c3da5881f6c800a49ba02|17]], [[#^s-081d37b14680bf864241e9c2|18]], [[#^s-06bf12ff143e577851273343|19]], [[#^s-c515025dc2c24dd0a86f0ae3|20]], [[#^s-268adf51cc871bd942937264|21]], [[#^s-75bc9684c77edb3167392b48|22]], [[#^s-f63681dcf7f6dad6885c1f9f|23]], [[#^s-5320fcbb65a5335a679d2e72|24]], [[#^s-a28a806b28818f19d5713bf7|25]], [[#^s-dde680a01cddf82e7a1f7525|28]], [[#^s-2325757d1901f4807d9e0aa9|30]], [[latest/TAR.D66F6A760DE7|33]], [[latest/TAR.D66F6A760DE7|34]], [[latest/TAR.D66F6A760DE7|36]], [[latest/TAR.D66F6A760DE7|37]], [[latest/TAR.D66F6A760DE7|38]], [[latest/TAR.D66F6A760DE7|39]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, [[#^s-0ea462dec381901b707e020c|6]], 40, 41, 43 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS, ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU IR II SKYRIAUS TREČIOJO SKIRSNIO PAVADINIMO PAKEITIMO ĮSTATYMO [[#^s-02269c35e3b5862e06950e5d|1]], [[#^s-0ea462dec381901b707e020c|6]], [[#^s-7e4939ca96def5ab240374d2|9]], [[#^s-6629f169e8d01c5a186cb1d9|10]], [[#^s-c0a38653a17516e2b453ed54|11]], [[#^s-2d4b8726fd3b72f0f56c9457|13]], [[#^s-ac882b032d9a2ed99b5f0fce|16]], [[#^s-152c3da5881f6c800a49ba02|17]], [[#^s-081d37b14680bf864241e9c2|18]], [[#^s-06bf12ff143e577851273343|19]], [[#^s-c515025dc2c24dd0a86f0ae3|20]], [[#^s-268adf51cc871bd942937264|21]], 34 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1081,7 +1081,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1220, 2014-10-09, paskelbta TAR 2014-10-22, i. k. 2014-14528
-Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 2, 8 ir 12-1 straipsnių pakeitimo ir Įstatymo papildymo 31-1 straipsniu įstatymas
+Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 [[#^s-c5138831cbac96dc46333227|2]], [[#^s-aac5a0c5c41408ee26a3850e|8]] ir 12-1 straipsnių pakeitimo ir Įstatymo papildymo 31-1 straipsniu įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1091,12 +1091,12 @@ Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 [[
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2427, 2016-06-16, paskelbta TAR 2016-06-21, i. k. 2016-17349
-Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 1, 2, 23, [[#^s-a28a806b28818f19d5713bf7|25 straipsnių]] pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
+Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 [[#^s-02269c35e3b5862e06950e5d|1]], [[#^s-c5138831cbac96dc46333227|2]], [[#^s-f63681dcf7f6dad6885c1f9f|23]], [[#^s-a28a806b28818f19d5713bf7|25]] straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2540, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20661
-Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 2, 7, 10, 14, 17, 18, 21, 33 straipsnių pakeitimo, Įstatymo papildymo 31-2 straipsniu, priedu ir 13, 15, [[#^s-c515025dc2c24dd0a86f0ae3|20 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 [[#^s-c5138831cbac96dc46333227|2]], [[#^s-2391f047783d04c84676dc4f|7]], [[#^s-6629f169e8d01c5a186cb1d9|10]], [[#^s-60625e7d7763998da0ab8563|14]], [[#^s-152c3da5881f6c800a49ba02|17]], [[#^s-081d37b14680bf864241e9c2|18]], [[#^s-268adf51cc871bd942937264|21]], 33 straipsnių pakeitimo, Įstatymo papildymo 31-2 straipsniu, priedu ir [[#^s-2d4b8726fd3b72f0f56c9457|13]], [[#^s-fc7ae92b1f8bcb4503d27e92|15]], [[#^s-c515025dc2c24dd0a86f0ae3|20]] straipsnių pripažinimo netekusiais galios įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1121,7 +1121,7 @@ Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 [[
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-527, 2021-09-16, paskelbta TAR 2021-09-17, i. k. 2021-19621
-Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 2, 3, 5, 10, 11, 14, 17, 19, 22, 32, 33, 34 straipsnių pakeitimo ir [[#^s-2391f047783d04c84676dc4f|7 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo Nr. I-1340 [[#^s-c5138831cbac96dc46333227|2]], [[#^s-1c65223be754811b29b4c36a|3]], [[#^s-93058214a01dce06075ace5e|5]], [[#^s-6629f169e8d01c5a186cb1d9|10]], [[#^s-c0a38653a17516e2b453ed54|11]], [[#^s-60625e7d7763998da0ab8563|14]], [[#^s-152c3da5881f6c800a49ba02|17]], [[#^s-06bf12ff143e577851273343|19]], [[#^s-75bc9684c77edb3167392b48|22]], 32, 33, 34 straipsnių pakeitimo ir [[#^s-2391f047783d04c84676dc4f|7 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas

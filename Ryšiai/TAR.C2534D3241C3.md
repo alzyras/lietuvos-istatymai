@@ -14,5 +14,4 @@ _Nėra._
 ## Šį įstatymą cituoja
 
 - [[latest/TAR.4C6BD6562C91#^s-6e3448895d3af586682f398f|Lietuvos Respublikos valstybės gynimo tarybos įstatymas]] - 1001010ISTAIII-1779
-- [[latest/TAR.4C6BD6562C91#^s-aa9ecba93073213f5b95e5dc|Lietuvos Respublikos valstybės gynimo tarybos įstatymas]] - 1001010ISTAIII-1779
-- [[latest/TAR.4C6BD6562C91#^s-e59c2811ff566aafb4a86554|Lietuvos Respublikos valstybės gynimo tarybos įstatymas]] - 2 citatos - 1001010ISTAIII-1779
+- [[latest/TAR.4C6BD6562C91#^s-e59c2811ff566aafb4a86554|Lietuvos Respublikos valstybės gynimo tarybos įstatymas]] - 1001010ISTAIII-1779

@@ -9,7 +9,7 @@ pavadinimas: "Dėl Lietuvos Respublikos mokesčių administravimo įstatymo įsi
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - Lietuvos Respublikos mokesčių administravimo įstatymo
+- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 5 citatos - Lietuvos Respublikos mokesčių administravimo įstatymo
 - [[latest/TAR.3EB34933E485#^s-24475f0ccd64e8ebfeb1c6b9|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Lietuvos Respublikos mokesčių administravimo įstatymo VI, VII, VIII ir IX (išskyrus 51 straipsnį
 - [[latest/TAR.3EB34933E485#^s-82bc868e93982f2bd195baa9|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Lietuvos Respublikos mokesčių administravimo įstatymo 5 straipsnio
 

@@ -65,7 +65,7 @@ Pakeisti 17 straipsnio 10 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. 30 straipsnio papildymas ir pakeitimas ^s-7922521d35dcb7e8d037cb74
 
 
-Papildyti 30 straipsnio 1 dalį, straipsnį papildyti nauja [[#^s-64c42a6c4014a3502004e75a|2 dalimi]], buvusias 2, 3 ir [[#^s-402785895f67d0ff9303f095|4 dalis]] laikyti atitinkamai 3, 4 ir [[#^s-bc6e1b888fadd2d347091578|5 dalimis]], [[#^s-402785895f67d0ff9303f095|4 dalį]] pakeisti ir šį straipsnį išdėstyti taip:
+Papildyti 30 straipsnio 1 dalį, straipsnį papildyti nauja [[#^s-64c42a6c4014a3502004e75a|2 dalimi]], buvusias 2, 3 ir 4 dalis laikyti atitinkamai 3, 4 ir 5 dalimis, [[#^s-402785895f67d0ff9303f095|4 dalį]] pakeisti ir šį straipsnį išdėstyti taip:
 
 
 „30 straipsnis. Seniūnija ir seniūnas
@@ -183,13 +183,13 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 6) išduota leidimus laidoti; ^s-b476f975dddf7ac0ae3c7658
 
 
-7) nagrinėja Administracinių teisės pažeidimų kodekso priskirtas administracinių teisės pažeidimų bylas; ^s-bbeb370a2c8c92406823fea0
+7) nagrinėja [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) priskirtas administracinių teisės pažeidimų bylas; ^s-bbeb370a2c8c92406823fea0
 
 
 8) seniūnijos veiklos nuostatų nustatyta tvarka sudaro sutartis, rūpinasi jų vykdymu; ^s-c85903018b54772520c60cfa
 
 
-9) kontroliuoja, ar teikiant viešąsias paslaugas laikomasi teisės aktuose bei sutartyse nustatytų dėl jų teikimo reikalavimų, nagrinėja gyventojų prašymus bei skundus dėl viešųjų paslaugų teikimo ir šiais klausimais pagal savo kompetenciją priima sprendimus. Savivaldybės administracijai bei kitiems viešųjų paslaugų teikimą administruojantiems subjektams teikia pasiūlymus dėl viešųjų paslaugų teikimo gerinimo; ^s-8268444d1c44cb194f050bae
+9) kontroliuoja, ar teikiant viešąsias paslaugas laikomasi teisės aktuose bei sutartyse nustatytų dėl jų teikimo reikalavimų, nagrinėja gyventojų prašymus bei skundus [dėl viešųjų paslaugų teikimo](https://e-tar.lt/portal/lt/legalAct/2de2a1503d1a11e6bcc5c96b48152012) ir šiais klausimais pagal savo kompetenciją priima sprendimus. Savivaldybės administracijai bei kitiems viešųjų paslaugų teikimą administruojantiems subjektams teikia pasiūlymus [dėl viešųjų paslaugų teikimo](https://e-tar.lt/portal/lt/legalAct/2de2a1503d1a11e6bcc5c96b48152012) gerinimo; ^s-8268444d1c44cb194f050bae
 
 
 10) nustatyta tvarka prižiūri prekybą viešosiose vietose; ^s-f7f88f457864015ddbf68300

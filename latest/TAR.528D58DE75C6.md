@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-9deef61f3c74e0f898ec37d9
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. lapkričio 21 d. dekretą Nr. 287, ratifikuoja 1998 m. rugsėjo 10 d. Roterdame priimtą Roterdamo konvenciją dėl sutikimo, apie kurį pranešama iš anksto, procedūros, taikomos tam tikroms pavojingoms cheminėms medžiagoms ir pesticidams tarptautinėje prekyboje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. lapkričio 21 d. dekretą Nr. 287](https://e-tar.lt/portal/lt/legalAct/TAR.FBD3723AA16C), ratifikuoja 1998 m. rugsėjo 10 d. Roterdame priimtą Roterdamo konvenciją dėl sutikimo, apie kurį pranešama iš anksto, procedūros, taikomos tam tikroms pavojingoms cheminėms medžiagoms ir pesticidams tarptautinėje prekyboje.
 
 
 

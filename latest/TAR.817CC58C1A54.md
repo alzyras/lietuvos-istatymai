@@ -138,7 +138,7 @@ Nustatant nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio 
 ### 6 straipsnis. Viešosios informacijos nepriskyrimas neigiamą poveikį nepilnamečių vystymuisi darančios informacijos kategorijai ^s-7f4f29287a0e923beb2be8ef
 
 
-Viešoji informacija gali būti nepriskirta neigiamą poveikį nepilnamečių vystymuisi darančios informacijos kategorijai, jei ji atitinka šio Įstatymo [[#^s-ebf6b19fbe468b855b95854e|4 straipsnio 1 dalies]] 1–10 punktuose apibrėžtus kriterijus, tačiau:
+Viešoji informacija gali būti nepriskirta neigiamą poveikį nepilnamečių vystymuisi darančios informacijos kategorijai, jei ji atitinka šio Įstatymo [[#^s-ebf6b19fbe468b855b95854e|4 straipsnio 1 dalies]] [[#^s-2378a170800aa28517bcac8e|1]]–[[#^s-86363f8960e55fb0f7e098b2|10]] punktuose apibrėžtus kriterijus, tačiau:
 
 
 1) jos turinį sudaro tik informacija apie įvykius, politinius, socialinius, religinius įsitikinimus ar pasaulėžiūrą; ^s-94eb4f06d58f880d3cbc0ffe
@@ -157,10 +157,10 @@ Viešoji informacija gali būti nepriskirta neigiamą poveikį nepilnamečių vy
 ### 7 straipsnis. Draudimas ir ribojimas skelbti bei platinti neigiamą poveikį darančią informaciją ^s-08df531088cc80235d5c0a9c
 
 
-1. Šio Įstatymo [[#^s-ebf6b19fbe468b855b95854e|4 straipsnio 1 dalies]] 1–10 punktuose apibrėžtą informaciją draudžiama tiesiogiai skelbti ar platinti nepilnamečiams – jiems siūlyti, perleisti ar kitaip leisti asmeniškai ja naudotis. Tokia viešoji informacija gali būti skelbiama tik vietose, į kurias nepilnamečiai negali patekti, ir (arba) tokiu laiku, kuriuo nepilnamečiai negalėtų ja naudotis, arba kai naudojant technines priemones yra sudaromos sąlygos atsakingiems už vaikų auklėjimą ir priežiūrą asmenims užtikrinti galimybę riboti tokios viešosios informacijos pasiūlą nepilnamečiams. ^s-3f0815e14b16ca8d9c61484f
+1. Šio Įstatymo [[#^s-ebf6b19fbe468b855b95854e|4 straipsnio 1 dalies]] [[#^s-2378a170800aa28517bcac8e|1]]–[[#^s-86363f8960e55fb0f7e098b2|10]] punktuose apibrėžtą informaciją draudžiama tiesiogiai skelbti ar platinti nepilnamečiams – jiems siūlyti, perleisti ar kitaip leisti asmeniškai ja naudotis. Tokia viešoji informacija gali būti skelbiama tik vietose, į kurias nepilnamečiai negali patekti, ir (arba) tokiu laiku, kuriuo nepilnamečiai negalėtų ja naudotis, arba kai naudojant technines priemones yra sudaromos sąlygos atsakingiems už vaikų auklėjimą ir priežiūrą asmenims užtikrinti galimybę riboti tokios viešosios informacijos pasiūlą nepilnamečiams. ^s-3f0815e14b16ca8d9c61484f
 
 
-2. Programos ir laidos, atitinkančios šio Įstatymo [[#^s-ebf6b19fbe468b855b95854e|4 straipsnio 1 dalies]] 1–9 punktuose numatytus vieną ar kelis kriterijus ir priskirtos viešosios informacijos, kuri ribojama skelbti ar platinti, kategorijai, transliuojamos tik nuo 23 iki 6 valandos arba naudojamos techninės priemonės, sudarančios sąlygas atsakingiems už vaikų auklėjimą ir priežiūrą asmenims užtikrinti galimybę riboti tokių programų ir laidų pasiūlą nepilnamečiams. Jeigu tokios programos ir laidos transliuojamos nuo 23 iki 6 valandos nenaudojant minėtų techninių priemonių, apie jų transliavimą turi būti pranešinėjama garso ir (arba) vaizdo priemonėmis viso laidos transliavimo metu. ^s-3cc75b15a263ca524be5f376
+2. Programos ir laidos, atitinkančios šio Įstatymo [[#^s-ebf6b19fbe468b855b95854e|4 straipsnio 1 dalies]] [[#^s-2378a170800aa28517bcac8e|1]]–[[#^s-0137a1f392dd80261015826f|9]] punktuose numatytus vieną ar kelis kriterijus ir priskirtos viešosios informacijos, kuri ribojama skelbti ar platinti, kategorijai, transliuojamos tik nuo 23 iki 6 valandos arba naudojamos techninės priemonės, sudarančios sąlygas atsakingiems už vaikų auklėjimą ir priežiūrą asmenims užtikrinti galimybę riboti tokių programų ir laidų pasiūlą nepilnamečiams. Jeigu tokios programos ir laidos transliuojamos nuo 23 iki 6 valandos nenaudojant minėtų techninių priemonių, apie jų transliavimą turi būti pranešinėjama garso ir (arba) vaizdo priemonėmis viso laidos transliavimo metu. ^s-3cc75b15a263ca524be5f376
 
 
 3. Neigiamą poveikį nepilnamečių vystymuisi darančios informacijos, priskirtos viešosios informacijos, kuri ribojama skelbti ir platinti, kategorijai, skelbimo ir platinimo tvarką bei šiame straipsnyje numatytų garso ir vaizdo priemonių sistemą nustato Vyriausybė. ^s-cf3dd102374a53605d6aaf81
@@ -278,7 +278,7 @@ Už šio Įstatymo nuostatų pažeidimus atsakomybė taikoma įstatymų nustatyt
 Vyriausybė iki 2002 m. lapkričio 1 d.:
 
 
-1) parengia šiam Įstatymui įgyvendinti būtinus Administracinių teisės pažeidimų kodekso papildymus; ^s-5cdc1da47f4c73ed3068fa88
+1) parengia šiam Įstatymui įgyvendinti būtinus [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) papildymus; ^s-5cdc1da47f4c73ed3068fa88
 
 
 2) nustato neigiamą poveikį nepilnamečių vystymuisi darančios informacijos, priskirtos viešosios informacijos kategorijai, kuri ribojama skelbti ir platinti, skelbimo ir platinimo tvarką bei šio Įstatymo [[#^s-3cc75b15a263ca524be5f376|7 straipsnio 2 dalyje]] numatytų garso ir vaizdo priemonių sistemą; ^s-eacc8c9f63715c876fab76a6

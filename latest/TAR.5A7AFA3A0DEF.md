@@ -55,7 +55,7 @@ Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 1. [[#^s-57f12f68b08e4ac9af909ba1|2 straipsnio 11 dalį]] pripažinti netekusia galios. ^s-72887272017a90fe60ebb34a
 
 
-2. Buvusias [[#^s-7a91f945836e8f874b197327|2 straipsnio]] 12–42 dalis laikyti atitinkamai 11–41 dalimis. ^s-1ee182f0372fd68b3d6b8ffd
+2. Buvusias [[#^s-7a91f945836e8f874b197327|2 straipsnio]] 12–42 dalis laikyti atitinkamai [[#^s-57f12f68b08e4ac9af909ba1|11]]–41 dalimis. ^s-1ee182f0372fd68b3d6b8ffd
 
 
 3. Pakeisti [[#^s-57f12f68b08e4ac9af909ba1|2 straipsnio 11 dalį]] ir ją išdėstyti taip: ^s-0c2a03623232cd3b0866e72f
@@ -94,16 +94,16 @@ Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip:
 3) biudžetinės įstaigos; ^s-fd147ce86bceab922b4be49c
 
 
-4) šios dalies 1, 2, [[#^s-fd147ce86bceab922b4be49c|3 punktuose]] išvardytų subjektų kontroliuojamos sveikatos priežiūros viešosios įstaigos; ^s-6ae1f8da907acaf4fb566bec
+4) šios dalies [[#^s-7d8fd4f7b73f3e240f489be8|1]], [[#^s-5052d5054118526bb42281e8|2]], [[#^s-fd147ce86bceab922b4be49c|3]] punktuose išvardytų subjektų kontroliuojamos sveikatos priežiūros viešosios įstaigos; ^s-6ae1f8da907acaf4fb566bec
 
 
-5) šios dalies 1, 2, [[#^s-fd147ce86bceab922b4be49c|3 punktuose]] išvardytų subjektų kontroliuojamos aukštosios mokyklos ir mokslinių tyrimų institutai, kurių teisinė forma yra viešoji įstaiga; ^s-dcf56f0b2de427e4c4600e8f
+5) šios dalies [[#^s-7d8fd4f7b73f3e240f489be8|1]], [[#^s-5052d5054118526bb42281e8|2]], [[#^s-fd147ce86bceab922b4be49c|3]] punktuose išvardytų subjektų kontroliuojamos aukštosios mokyklos ir mokslinių tyrimų institutai, kurių teisinė forma yra viešoji įstaiga; ^s-dcf56f0b2de427e4c4600e8f
 
 
-6) šios dalies 1, 2, [[#^s-fd147ce86bceab922b4be49c|3 punktuose]] išvardytų subjektų kontroliuojamos bendrojo lavinimo mokyklos, profesinio mokymo įstaigos, kurių teisinė forma yra viešoji įstaiga; ^s-567da13d1e017320d3d0eeff
+6) šios dalies [[#^s-7d8fd4f7b73f3e240f489be8|1]], [[#^s-5052d5054118526bb42281e8|2]], [[#^s-fd147ce86bceab922b4be49c|3]] punktuose išvardytų subjektų kontroliuojamos bendrojo lavinimo mokyklos, profesinio mokymo įstaigos, kurių teisinė forma yra viešoji įstaiga; ^s-567da13d1e017320d3d0eeff
 
 
-7) šios dalies 1, 2, [[#^s-fd147ce86bceab922b4be49c|3 punktuose]] išvardytų subjektų kontroliuojamos socialinės globos įstaigos, kurių teisinė forma yra viešoji įstaiga; ^s-307ae9da19f780f79b64f4c5
+7) šios dalies [[#^s-7d8fd4f7b73f3e240f489be8|1]], [[#^s-5052d5054118526bb42281e8|2]], [[#^s-fd147ce86bceab922b4be49c|3]] punktuose išvardytų subjektų kontroliuojamos socialinės globos įstaigos, kurių teisinė forma yra viešoji įstaiga; ^s-307ae9da19f780f79b64f4c5
 
 
 8) išteklių fondai; ^s-12f53b7b1a8658a13d6db166

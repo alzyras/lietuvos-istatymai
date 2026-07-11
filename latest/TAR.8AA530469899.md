@@ -50,7 +50,7 @@ Vilnius
 1. Papildyti [[#^s-e5edbefbe141ee951e6a04a9|2 straipsnį]] nauja 4 dalimi: ^s-38f3ff8c02c80e4c5e93eed0
 
 
-„4. Baudų už administracinius teisės pažeidimus administravimas – mokesčių administratoriaus funkcijų, susijusių su nutarimų skirti baudas už administracinius teisės pažeidimus vykdymu, įgyvendinimas atliekant šių baudų apskaitą, įskaitymą, sumokėjimo atidėjimą ar išdėstymą ir priverstinio išieškojimo inicijavimą, ir priverstinio išieškojimo priežiūrą Administracinių teisės pažeidimų kodekso, šio Įstatymo ir kitų įstatymų nustatyta tvarka.“
+„4. Baudų už administracinius teisės pažeidimus administravimas – mokesčių administratoriaus funkcijų, susijusių su nutarimų skirti baudas už administracinius teisės pažeidimus vykdymu, įgyvendinimas atliekant šių baudų apskaitą, įskaitymą, sumokėjimo atidėjimą ar išdėstymą ir priverstinio išieškojimo inicijavimą, ir priverstinio išieškojimo priežiūrą [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), šio Įstatymo ir kitų įstatymų nustatyta tvarka.“
 
 
 2. Buvusias [[#^s-e5edbefbe141ee951e6a04a9|2 straipsnio]] 4–32 dalis laikyti atitinkamai 5–33 dalimis. ^s-67b6dc01c7fccd3d587e5abb
@@ -63,7 +63,7 @@ Vilnius
 Papildyti 14 straipsnį 7 dalimi:
 
 
-„7. Už administracinius teisės pažeidimus Administracinių teisės pažeidimų kodekso nustatyta tvarka paskirtų baudų administravimui ir išieškojimui tiesiogiai taikomi šio Įstatymo 26 straipsnio 1 dalies 12 punktas, 105 straipsnio 3 dalis, 106 straipsnio 2 dalis, 107 straipsnio 6 dalis, 113 straipsnio 2 ir 5 dalys ir mutatis mutandis yra taikytini šio Įstatymo 26 straipsnis (išskyrus 1 dalies 9 punktą), 84, 85 straipsniai, 87 straipsnio 1 ir 5 dalys, 88 straipsnio 1, 2 ir 7 dalys, 108–112 straipsniai, 113 straipsnio 3 ir 4 dalys, IX, X skyriai, o asmenims, kuriems paskirtos baudos už administracinius teisės pažeidimus, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams.“
+„7. Už administracinius teisės pažeidimus [Administracinių teisės pažeidimų kodekso nustatyta tvarka paskirtų baudų administravimui ir išieškojimui tiesiogiai taikomi šio Įstatymo 26 straipsnio 1 dalies 12 punktas](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), 105 straipsnio 3 dalis, 106 straipsnio 2 dalis, 107 straipsnio 6 dalis, 113 straipsnio 2 ir 5 dalys ir mutatis mutandis yra taikytini šio Įstatymo 26 straipsnis (išskyrus 1 dalies 9 punktą), 84, 85 straipsniai, 87 straipsnio 1 ir 5 dalys, 88 straipsnio 1, 2 ir 7 dalys, 108–112 straipsniai, 113 straipsnio 3 ir 4 dalys, IX, X skyriai, o asmenims, kuriems paskirtos baudos už administracinius teisės pažeidimus, šioje dalyje nurodytų šio Įstatymo straipsnių nuostatos taikomos taip pat kaip ir mokesčių mokėtojams.“
 
 
 
@@ -83,7 +83,7 @@ Papildyti 26 straipsnio 1 dalį 12 punktu:
 1. Papildyti 105 straipsnį nauja 3 dalimi: ^s-70570f4b671dff10341f068c
 
 
-„3. Teisę priverstinai išieškoti laiku nesumokėtą baudą už administracinį teisės pažeidimą mokesčių administratorius įgyja kitą dieną po to, kai pasibaigia Administracinių teisės pažeidimų kodekso 313 straipsnyje numatytas baudos sumokėjimo terminas. Tuo atveju, kai baudos už administracinį teisės pažeidimą mokėjimas buvo atidėtas ar išdėstytas šio Įstatymo ar Administracinių teisės pažeidimų kodekso nustatyta tvarka, teisę priverstinai išieškoti laiku nesumokėtą baudą už administracinį teisės pažeidimą mokesčių administratorius įgyja kitą dieną po to, kai nutraukiama mokestinės paskolos sutartis arba pasibaigia baudos už administracinį teisės pažeidimą mokėjimo, atidėjimo ar išdėstymo terminas.“
+„3. Teisę priverstinai išieškoti laiku nesumokėtą baudą už administracinį teisės pažeidimą mokesčių administratorius įgyja kitą dieną po to, kai pasibaigia [Administracinių teisės pažeidimų kodekso 313 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytas baudos sumokėjimo terminas. Tuo atveju, kai baudos už administracinį teisės pažeidimą mokėjimas buvo atidėtas ar išdėstytas šio Įstatymo ar [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka, teisę priverstinai išieškoti laiku nesumokėtą baudą už administracinį teisės pažeidimą mokesčių administratorius įgyja kitą dieną po to, kai nutraukiama mokestinės paskolos sutartis arba pasibaigia baudos už administracinį teisės pažeidimą mokėjimo, atidėjimo ar išdėstymo terminas.“
 
 
 2. Buvusią 105 straipsnio 3 dalį laikyti 4 dalimi. ^s-6b4b14e4593ffb2928546c7a
@@ -96,7 +96,7 @@ Papildyti 26 straipsnio 1 dalį 12 punktu:
 1. Papildyti 106 straipsnį nauja [[#^s-2661f78f40e062c2a32effad|2 dalimi]]: ^s-955f301d42f5b089daad0e7f
 
 
-„2. Administracinių teisės pažeidimų kodekso nustatyta tvarka priimtus nutarimus skirti baudas priverstine tvarka iš asmens turto ir (ar) lėšų (įskaitant pinigines lėšas asmens sąskaitose, esančiose kredito, mokėjimo ar elektroninių pinigų įstaigose) vykdo antstoliai pagal mokesčių administratoriaus sprendimą dėl priverstinio baudos išieškojimo Civilinio proceso kodekso nustatyta tvarka. Jeigu antstolis, vykdydamas priverstinį baudos už administracinį teisės pažeidimą išieškojimą, per vienerius metus nuo mokesčių administratoriaus sprendimo dėl priverstinio baudos išieškojimo pateikimo jam neranda asmens turto ir (ar) lėšų, iš kurių gali būti priverstinai išieškota bauda, antstolis mokesčių administratoriaus sprendimą dėl priverstinio baudos išieškojimo su žyma, kad išieškojimas negalimas, grąžina mokesčių administratoriui.“
+„2. [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka priimtus nutarimus skirti baudas priverstine tvarka iš asmens turto ir (ar) lėšų (įskaitant pinigines lėšas asmens sąskaitose, esančiose kredito, mokėjimo ar elektroninių pinigų įstaigose) vykdo antstoliai pagal mokesčių administratoriaus sprendimą dėl priverstinio baudos išieškojimo [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Jeigu antstolis, vykdydamas priverstinį baudos už administracinį teisės pažeidimą išieškojimą, per vienerius metus nuo mokesčių administratoriaus sprendimo dėl priverstinio baudos išieškojimo pateikimo jam neranda asmens turto ir (ar) lėšų, iš kurių gali būti priverstinai išieškota bauda, antstolis mokesčių administratoriaus sprendimą dėl priverstinio baudos išieškojimo su žyma, kad išieškojimas negalimas, grąžina mokesčių administratoriui.“
 
 
 2. Buvusias 106 straipsnio 2, 3 ir 4 dalis laikyti atitinkamai 3, 4 ir 5 dalimis. ^s-2661f78f40e062c2a32effad
@@ -179,4 +179,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1511, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21277
-Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 107, 113 straipsnių papildymo ir pakeitimo įstatymo Nr. XII-602 [[#^s-5d6411da03d894928c6d8922|8 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos mokesčių administravimo įstatymo [[#^s-e5edbefbe141ee951e6a04a9|2]], 14, 26, 105, 106, 107, 113 straipsnių papildymo ir pakeitimo įstatymo Nr. XII-602 [[#^s-5d6411da03d894928c6d8922|8 straipsnio]] pakeitimo įstatymas

@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos augalų sėklininkystės įstatymo pakeitimo 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A09C2B9A60F3|Lietuvos Respublikos augalų sėklininkystės įstatymas]] - 2 citatos - Lietuvos Respublikos augalų sėklininkystės įstatymo
+_Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A09C2B9A60F3#^s-3a501fa4616019c58568d541|Lietuvos Respublikos augalų sėklininkystės įstatymas]] - 2 citatos - 1041010ISTA0IX-2473
-- [[latest/TAR.A09C2B9A60F3#^s-ca96b1074d4e2cdb7c761145|Lietuvos Respublikos augalų sėklininkystės įstatymas]] - 2 citatos - 1041010ISTA0IX-2473
+- [[latest/TAR.A09C2B9A60F3#^s-3a501fa4616019c58568d541|Lietuvos Respublikos augalų sėklininkystės įstatymas]] - 1041010ISTA0IX-2473

@@ -208,7 +208,7 @@ SAVIVALDYBIŲ SOCIALINIO BŪSTO NUOMA
 ### 9 straipsnis. Socialinio būsto naudingojo ploto normatyvas ^s-5f852806eb568648c10ada40
 
 
-1. Savivaldybės socialinio būsto naudingasis plotas, tenkantis vienam šeimos nariui, neturi viršyti 14 kvadratinių metrų, išskyrus šio straipsnio 2 ir [[#^s-777399121f11d7b9e409cfd0|3 dalyse]] nustatytus atvejus. ^s-3ab47aec42d2a06f9923806f
+1. Savivaldybės socialinio būsto naudingasis plotas, tenkantis vienam šeimos nariui, neturi viršyti 14 kvadratinių metrų, išskyrus šio straipsnio [[#^s-f378fe945daec6841e6af17c|2]] ir [[#^s-777399121f11d7b9e409cfd0|3]] dalyse nustatytus atvejus. ^s-3ab47aec42d2a06f9923806f
 
 
 2. Išnuomojant socialinį būstą, atsižvelgiama į tai, kad būtų galimybė turėti atskirus kambarius I ir II grupės invalidams, vaikui invalidui, asmenims, sergantiems lėtinių ligų, įrašytų į Vyriausybės ar jos įgaliotos institucijos tvirtinamą sąrašą, sunkiomis formomis, taip pat skirtingų lyčių vaikams. Šiais atvejais savivaldybės vykdomosios institucijos sprendimu šeimai išnuomojamo būsto naudingasis plotas gali būti didesnis negu normatyvinis naudingasis plotas, apskaičiuotas pagal [[#^s-3ab47aec42d2a06f9923806f|šio straipsnio 1 dalį]]. Šeimai išnuomojamo socialinio būsto naudingasis plotas taip pat gali būti padidintas, jeigu savivaldybės socialinio būsto fonde nėra laisvų butų, atitinkančių [[#^s-3ab47aec42d2a06f9923806f|šio straipsnio 1 dalies]] sąlygas. ^s-f378fe945daec6841e6af17c
@@ -243,7 +243,7 @@ Socialinio būsto nuompinigių dydį nustato savivaldybės institucijos, vadovau
 3) neįgaliųjų asmenų (šeimų). Į šį sąrašą įrašomi I ar II grupės invalidai, taip pat šeimos, kuriose yra I ar II grupės invalidas arba vaikas invalidas, asmenys, sergantys lėtinių ligų, įrašytų į Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą, sunkiomis formomis, ir šeimos, kuriose yra tomis ligomis sergančių asmenų; ^s-242db7eabd3938f65451c8d7
 
 
-4) bendrasis. Į šį sąrašą įrašomi visi asmenys, nepatenkantys į 1, 2 ir [[#^s-242db7eabd3938f65451c8d7|3 punktuose]] nurodytus sąrašus; ^s-6f9508eb92f44484596d0856
+4) bendrasis. Į šį sąrašą įrašomi visi asmenys, nepatenkantys į [[#^s-225f6c561785fcfc95e27585|1]], [[#^s-01764efc06ba85810d3a7378|2]] ir [[#^s-242db7eabd3938f65451c8d7|3]] punktuose nurodytus sąrašus; ^s-6f9508eb92f44484596d0856
 
 
 5) socialinio būsto nuomininkų, turinčių teisę į būsto sąlygų pagerinimą. ^s-94bd49c8003627d2c22955b0
@@ -265,7 +265,7 @@ LENGVATINĖMIS SĄLYGOMIS
 ### 12 straipsnis.       Savivaldybės (valstybės) gyvenamųjų patalpų privatizavimas lengvatinėmis sąlygomis ^s-019c7d8b772ef69eab928af9
 
 
-1. Savivaldybės (valstybės) gyvenamosios patalpos gali būti privatizuojamos laikantis sąlygos, kad jų pardavimo kaina nebūtų didesnė negu kaina pinigais, kuri Butų privatizavimo įstatymo nustatyta tvarka galėjo būti apskaičiuota iki 1998 m. liepos 1 d. ir patikslinta atsižvelgiant į infliaciją šiais atvejais: ^s-b3dec053dafe4b03d0e98761
+1. Savivaldybės (valstybės) gyvenamosios patalpos gali būti privatizuojamos laikantis sąlygos, kad jų pardavimo kaina nebūtų didesnė negu kaina pinigais, kuri [Butų privatizavimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.6F32E17A217F) nustatyta tvarka galėjo būti apskaičiuota iki 1998 m. liepos 1 d. ir patikslinta atsižvelgiant į infliaciją šiais atvejais: ^s-b3dec053dafe4b03d0e98761
 
 
 1) kai privatizuoja nuomininkai, kuriems įstatymo nustatyta tvarka iki 1998 m. liepos 1 d. Seimo sudaryta butų privatizavimo komisija buvo išdavusi leidimus privatizuoti nuomojamas gyvenamąsias patalpas pagal Butų privatizavimo įstatymą; ^s-808d0d875f8247f9e1e950c3
@@ -314,16 +314,16 @@ LENGVATINĖMIS SĄLYGOMIS
 Įsigaliojus šiam Įstatymui, netenka galios:
 
 
-1) Lietuvos Respublikos Aukščiausiosios Tarybos 1992 m. balandžio 9 d. nutarimas Nr. I-2472 „Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo įsigaliojimo“ (Žin., 1992, Nr. 14-379); ^s-81a1c66af43ae94b2d4a3ab4
+1) Lietuvos Respublikos Aukščiausiosios Tarybos [1992 m. balandžio 9 d. nutarimas Nr. I-2472](https://e-tar.lt/portal/lt/legalAct/TAR.C76C79D5E0A2) [„Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo įsigaliojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.C76C79D5E0A2) (Žin., 1992, Nr. 14-379); ^s-81a1c66af43ae94b2d4a3ab4
 
 
-2) Lietuvos Respublikos Aukščiausiosios Tarybos 1992 m. spalio 7 d. nutarimas Nr. I-2941 „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo įsigaliojimo“ dalinio pakeitimo“ (Žin., 1992, Nr. 30-926); ^s-5b7520a7f1fdb33772578370
+2) Lietuvos Respublikos Aukščiausiosios Tarybos [1992 m. spalio 7 d. nutarimas Nr. I-2941](https://e-tar.lt/portal/lt/legalAct/TAR.2F55E318185E) „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo įsigaliojimo“ dalinio pakeitimo“ (Žin., 1992, Nr. 30-926); ^s-5b7520a7f1fdb33772578370
 
 
-3) Lietuvos Respublikos Seimo 1993 m. gruodžio 23 d. nutarimas Nr. I-359 „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo įsigaliojimo“ papildymo“ (Žin., 1994, Nr. 1-4); ^s-0829029c4b61913fb4959b08
+3) Lietuvos Respublikos Seimo [1993 m. gruodžio 23 d. nutarimas Nr. I-359](https://e-tar.lt/portal/lt/legalAct/TAR.9D5D3707ABAD) „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo įsigaliojimo“ papildymo“ (Žin., 1994, Nr. 1-4); ^s-0829029c4b61913fb4959b08
 
 
-4) Lietuvos Respublikos Seimo 1993 m. gruodžio 23 d. nutarimas Nr. I-360 „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo įsigaliojimo“ dalinio pakeitimo“ pakeitimo“ (Žin., 1994, Nr. 1-5). ^s-04cb107244e36c082cb6ecb2
+4) Lietuvos Respublikos Seimo [1993 m. gruodžio 23 d. nutarimas Nr. I-360](https://e-tar.lt/portal/lt/legalAct/TAR.083D7DC9E2C0) „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos nutarimo „Dėl Lietuvos Respublikos gyventojų apsirūpinimo gyvenamosiomis patalpomis įstatymo įsigaliojimo“ dalinio pakeitimo“ pakeitimo“ (Žin., 1994, Nr. 1-5). ^s-04cb107244e36c082cb6ecb2
 
 
 

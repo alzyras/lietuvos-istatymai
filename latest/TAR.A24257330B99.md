@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-e5516bb5c32d7d05be538d45
 
 
-[[latest/TAR.389CB90C666D#^s-330dc97f9c8e8f9218e0df92|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo 23 ir 31 straipsnių]] papildymo įstatymą pripažinti netekusiu galios.
+[[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymo]] [[latest/TAR.389CB90C666D#^s-10846adde1a216a7f7b6fcf3|23]] ir [[latest/TAR.389CB90C666D#^s-330dc97f9c8e8f9218e0df92|31]] straipsnių papildymo įstatymą pripažinti netekusiu galios.
 
 
 

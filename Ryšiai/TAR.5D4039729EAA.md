@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.065AB8483E1E#^s-8c5fd240e1a4daedec3dc6e5|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Įstatymas Nr. XI-1048
-- [[latest/TAR.065AB8483E1E#^s-ab71ed55152049872cec1e28|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Įstatymas Nr. XI-1048
+_Nėra._

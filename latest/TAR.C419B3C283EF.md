@@ -36,7 +36,7 @@ Vilnius
 ### 1 straipsnis. ^s-b15ed6dc05b0026ff1a0eded
 
 
-Lietuvos Respublikos Aukščiausiosios Tarybos deputatams bei jos sudarytos Vyriausybės nariams, kurių įgaliojimai nutrūko dėl Lietuvos Respublikos Laikinojo Pagrindinio Įstatymo 79 straipsnio antrosios dalies nuostatų įgyvendinimo ir kurie nėra Lietuvos Respublikos Seimo bei pirmosios po Seimo išrinkimo Lietuvos Respublikos Vyriausybės nariai, išmokama Lietuvos Respublikos darbo sutarties įstatymo 40 straipsnio pirmojoje dalyje nustatyta dviejų pareiginių atlyginimų dydžio išeitinė pašalpa.
+Lietuvos Respublikos Aukščiausiosios Tarybos deputatams bei jos sudarytos Vyriausybės nariams, kurių įgaliojimai nutrūko [[latest/TAR.DE63AAC4EF06|dėl Lietuvos Respublikos Laikinojo Pagrindinio Įstatymo 79 straipsnio]] antrosios dalies nuostatų įgyvendinimo ir kurie nėra Lietuvos Respublikos Seimo bei pirmosios po Seimo išrinkimo Lietuvos Respublikos Vyriausybės nariai, išmokama [Lietuvos Respublikos darbo sutarties įstatymo 40 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) pirmojoje dalyje nustatyta dviejų pareiginių atlyginimų dydžio išeitinė pašalpa.
 
 
 Aukščiausiosios Tarybos deputatams kompensacija už nepanaudotas atostogas išmokama už kiekvienų deputato darbo Aukščiausiojoje Taryboje metų vieną mėnesį.
@@ -63,7 +63,7 @@ Pareiškimai dėl vienkartinės pašalpos skyrimo priimami iki 1993 m. sausio 25
 ### 4 straipsnis. ^s-0d838641f6f427b5a376c4bb
 
 
-1992 m. lapkričio 19 d. Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputatų ir Vyriausybės narių socialinių garantijų“ ir Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo 1992 m. lapkričio 24 d. nutarimo Nr. I-3075 2 punktas netenka galios nuo šio įstatymo įsigaliojimo.
+1992 m. lapkričio 19 d. Lietuvos Respublikos įstatymas [„Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputatų ir Vyriausybės narių socialinių garantijų“](https://e-tar.lt/portal/lt/legalAct/TAR.8E57895322BA) ir Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo 1992 m. lapkričio 24 d. nutarimo Nr. I-3075 2 punktas netenka galios nuo šio įstatymo įsigaliojimo.
 
 
 

@@ -315,7 +315,7 @@ LEIDIMAS SAUGOTI CO2
 ### 6 straipsnis. Leidimas saugoti CO2 ^s-39e0d875c913e43005b17aac
 
 
-1. Saugyklas gali eksploatuoti veiklos vykdytojas, nustatyta tvarka gavęs Lietuvos geologijos tarnybos išduotą leidimą saugoti CO2. Leidimas saugoti CO2 išduodamas konkurso būdu, išskyrus šio straipsnio 2 ir [[#^s-939c2c5d5e15eafd7497c40e|5 dalyse]] nustatytas išimtis. Konkursą gauti leidimą saugoti CO2 Vyriausybės nustatyta tvarka inicijuoja asmenys, pageidaujantys gauti leidimą saugoti CO2, arba Lietuvos geologijos tarnyba. ^s-5ac026e22d7c65efe6a4ec76
+1. Saugyklas gali eksploatuoti veiklos vykdytojas, nustatyta tvarka gavęs Lietuvos geologijos tarnybos išduotą leidimą saugoti CO2. Leidimas saugoti CO2 išduodamas konkurso būdu, išskyrus šio straipsnio [[#^s-976fa354aa5009a4e875d83f|2]] ir [[#^s-939c2c5d5e15eafd7497c40e|5]] dalyse nustatytas išimtis. Konkursą gauti leidimą saugoti CO2 Vyriausybės nustatyta tvarka inicijuoja asmenys, pageidaujantys gauti leidimą saugoti CO2, arba Lietuvos geologijos tarnyba. ^s-5ac026e22d7c65efe6a4ec76
 
 
 2. Leidimas saugoti CO2 išduodamas be konkurso, jeigu Vyriausybės nustatyta tvarka paskelbtas konkursas gauti leidimą saugoti CO2 du kartus neįvyko, nes nebuvo gauta prašymų arba visi prašymus pateikę asmenys neatitiko [[#^s-4d4b3bfbef40addd6d6ae3fc|šio straipsnio 6 dalyje]] ir [[#^s-868a043d758828063e72d464|7 straipsnio 1 dalyje]] nustatytų reikalavimų. Asmuo, pageidaujantis gauti leidimą saugoti CO2, Vyriausybės nustatyta tvarka pateikia prašymą Lietuvos geologijos tarnybai. Lietuvos geologijos tarnyba, gavusi asmens, pageidaujančio gauti leidimą saugoti CO2, prašymą, apie tai paskelbia savo interneto svetainėje ir nurodo terminą, iki kada galima teikti prašymus dėl leidimo saugoti CO2 išdavimo. Terminas prašymams dėl leidimo saugoti CO2 išdavimo turi būti ne trumpesnis kaip 30 kalendorinių dienų nuo skelbimo Lietuvos geologijos tarnybos interneto svetainėje paskelbimo dienos. Jeigu Lietuvos geologijos tarnyba vienu metu gauna kelis prašymus dėl leidimo saugoti CO2 išdavimo, leidimas saugoti CO2 išduodamas konkurso būdu. Vienu metu gautais prašymais laikomi prašymai, kurie pateikiami per Lietuvos geologijos tarnybos nustatytą terminą, skaičiuojamą nuo paskelbimo apie pirmo prašymo gavimą dienos. ^s-976fa354aa5009a4e875d83f
@@ -470,7 +470,7 @@ LEIDIMAS SAUGOTI CO2
 5) peržiūrėjus leidimą saugoti CO2, nustatomas didelis pavojus arba didelių pažeidimų pavojus ir leidimo saugoti CO2 peržiūrėjimo rezultatai rodo, kad CO2 izoliuoti saugykloje negalima išvengiant neigiamo poveikio ir bet kokio pavojaus aplinkai ir žmonių sveikatai. ^s-8110cc8c28c37f38f152c1c7
 
 
-6. Panaikinus leidimą saugoti CO2 [[#^s-41f5d37e82a1b1429aa36913|šio straipsnio 5 dalies]] 1, 2, 3 ir [[#^s-fb0d84ca95c23ae766f04485|4 punktuose]] nustatytais atvejais, konkurso būdu išduodamas naujas leidimas saugoti CO2. Panaikinus leidimą saugoti CO2 [[#^s-8110cc8c28c37f38f152c1c7|šio straipsnio 5 dalies 5 punkte]] nustatytu atveju, Lietuvos geologijos tarnyba uždaro saugyklą pagal šio įstatymo [[#^s-789247388b1b72ed892e6c81|12 straipsnio 1 dalies 3 punktą]]. Laikotarpiu iki naujas leidimas saugoti CO2 neišduotas, Lietuvos geologijos tarnyba laikinai perima visus šiame įstatyme ir kituose teisės aktuose nustatytus įpareigojimus dėl: ^s-f6506fc383b3b2d6c8bcf9ec
+6. Panaikinus leidimą saugoti CO2 [[#^s-41f5d37e82a1b1429aa36913|šio straipsnio 5 dalies]] [[#^s-458fe011632058c311f65f8a|1]], [[#^s-360a6bc2e41e236b0e255032|2]], [[#^s-5b8798a98eeb70c1e4cb5bb5|3]] ir [[#^s-fb0d84ca95c23ae766f04485|4]] punktuose nustatytais atvejais, konkurso būdu išduodamas naujas leidimas saugoti CO2. Panaikinus leidimą saugoti CO2 [[#^s-8110cc8c28c37f38f152c1c7|šio straipsnio 5 dalies 5 punkte]] nustatytu atveju, Lietuvos geologijos tarnyba uždaro saugyklą pagal šio įstatymo [[#^s-789247388b1b72ed892e6c81|12 straipsnio 1 dalies 3 punktą]]. Laikotarpiu iki naujas leidimas saugoti CO2 neišduotas, Lietuvos geologijos tarnyba laikinai perima visus šiame įstatyme ir kituose teisės aktuose nustatytus įpareigojimus dėl: ^s-f6506fc383b3b2d6c8bcf9ec
 
 
 1) CO2 srautų priėmimo saugoti kriterijų, nustatytų šio įstatymo [[#^s-110471747ca427338aa52561|9 straipsnio 3 dalyje]], jeigu Lietuvos geologijos tarnyba nusprendžia tęsti CO2 suleidimą; ^s-458fe011632058c311f65f8a
@@ -512,7 +512,7 @@ LEIDIMAS SAUGOTI CO2
 3) pažeistų teisės aktų reikalavimus. ^s-59b08a65e27a725d0d29a2d9
 
 
-3. Veiklos vykdytojas CO2 srautus priima ir suleidžia tik tada, kai yra atlikta CO2 srautų sudėties analizė ir Vyriausybės nustatyta tvarka atliktas rizikos įvertinimas įrodo, kad taršos lygis atitinka šio straipsnio 1 ir [[#^s-5045f8311585a708b6d9c746|2 dalių]] reikalavimus. ^s-110471747ca427338aa52561
+3. Veiklos vykdytojas CO2 srautus priima ir suleidžia tik tada, kai yra atlikta CO2 srautų sudėties analizė ir Vyriausybės nustatyta tvarka atliktas rizikos įvertinimas įrodo, kad taršos lygis atitinka šio straipsnio [[#^s-236aa96277ac4c8aaccd6bda|1]] ir [[#^s-5045f8311585a708b6d9c746|2]] dalių reikalavimus. ^s-110471747ca427338aa52561
 
 
 4. Veiklos vykdytojas aplinkos ministro ar jo įgaliotos institucijos nustatyta tvarka privalo tvarkyti pristatytų ir suleistų CO2 srautų apskaitą, fiksuodamas šių srautų kiekį, savybes ir sudėtį. ^s-9714e9a50f88915e169e4421
@@ -569,7 +569,7 @@ LEIDIMAS SAUGOTI CO2
 3) pagal šio įstatymo [[#^s-41f5d37e82a1b1429aa36913|8 straipsnio 5 dalį]] panaikintas leidimas saugoti CO2. ^s-789247388b1b72ed892e6c81
 
 
-2. Jeigu saugykla uždaroma pagal [[#^s-68ca6aa72faf25cbcbc67046|šio straipsnio 1 dalies]] 1 ir [[#^s-c9d6e159ee848d656e7441f3|2 punktus]], veiklos vykdytojas tol, kol atsakomybė už saugyklą pagal šio įstatymo reikalavimus bus perduota Lietuvos geologijos tarnybai, ir toliau yra atsakingas už: ^s-c3ad9d6643468981e3f43e71
+2. Jeigu saugykla uždaroma pagal [[#^s-68ca6aa72faf25cbcbc67046|šio straipsnio 1 dalies]] [[#^s-d78f3ad88a7510728fd8e4be|1]] ir [[#^s-c9d6e159ee848d656e7441f3|2]] punktus, veiklos vykdytojas tol, kol atsakomybė už saugyklą pagal šio įstatymo reikalavimus bus perduota Lietuvos geologijos tarnybai, ir toliau yra atsakingas už: ^s-c3ad9d6643468981e3f43e71
 
 
 1) stebėseną; ^s-d78f3ad88a7510728fd8e4be
@@ -606,7 +606,7 @@ LEIDIMAS SAUGOTI CO2
 ### 13 straipsnis. Atsakomybės perdavimas ^s-411b62e8144bc126a0038ad0
 
 
-1. Jeigu saugykla uždaroma pagal šio įstatymo [[#^s-68ca6aa72faf25cbcbc67046|12 straipsnio 1 dalies]] 1 ir [[#^s-89919931eb7ffe6211f4bea0|2 punktus]], visi įsipareigojimai, nurodyti šio įstatymo [[#^s-c3ad9d6643468981e3f43e71|12 straipsnio 2 dalies]] 1, 3, 4 ir 5 punktuose, perduodami Lietuvos geologijos tarnybai jos pačios iniciatyva arba veiklos vykdytojo prašymu, jeigu įvykdomos šios sąlygos: ^s-7f80fac3f215669a533d93e5
+1. Jeigu saugykla uždaroma pagal šio įstatymo [[#^s-68ca6aa72faf25cbcbc67046|12 straipsnio 1 dalies]] [[#^s-fa2ce736b10743b5b3444743|1]] ir [[#^s-3011cb9fd57ce761b43de48c|2]] punktus, visi įsipareigojimai, nurodyti šio įstatymo [[#^s-c3ad9d6643468981e3f43e71|12 straipsnio 2 dalies]] [[#^s-d78f3ad88a7510728fd8e4be|1]], [[#^s-5ab826ad87178daa7b9766af|3]], [[#^s-6d97d1f538c1d8906dda8e2e|4]] ir [[#^s-93b5fc341da9602d3ec45dec|5]] punktuose, perduodami Lietuvos geologijos tarnybai jos pačios iniciatyva arba veiklos vykdytojo prašymu, jeigu įvykdomos šios sąlygos: ^s-7f80fac3f215669a533d93e5
 
 
 1) visi turimi duomenys rodo, kad saugomas CO2 srautas bus sandariai ir visam laikui izoliuotas; ^s-702cc5cbc3b5888f235fae2b
@@ -646,7 +646,7 @@ LEIDIMAS SAUGOTI CO2
 3. Finansinė garantija privalo galioti ir būti taikoma prieš CO2 suleidimo pradžią ir visą veiklos vykdymo laikotarpį, ir galioti: ^s-4cbc8b27cb4db6a3d9cce70f
 
 
-1) visą laikotarpį, jeigu saugykla uždaroma pagal šio įstatymo [[#^s-68ca6aa72faf25cbcbc67046|12 straipsnio 1 dalies]] 1 ar [[#^s-2b5094452960578fa2d0e945|2 punktą]], iki atsakomybė pagal šio įstatymo [[#^s-411b62e8144bc126a0038ad0|13 straipsnio]] nustatytus reikalavimus perduodama Lietuvos geologijos tarnybai; ^s-77d1540da36a7cc845b3a225
+1) visą laikotarpį, jeigu saugykla uždaroma pagal šio įstatymo [[#^s-68ca6aa72faf25cbcbc67046|12 straipsnio 1 dalies]] [[#^s-fa2ce736b10743b5b3444743|1]] ar [[#^s-3011cb9fd57ce761b43de48c|2]] punktą, iki atsakomybė pagal šio įstatymo [[#^s-411b62e8144bc126a0038ad0|13 straipsnio]] nustatytus reikalavimus perduodama Lietuvos geologijos tarnybai; ^s-77d1540da36a7cc845b3a225
 
 
 2) visą laikotarpį, jeigu leidimas saugoti CO2 panaikinamas pagal šio įstatymo [[#^s-41f5d37e82a1b1429aa36913|8 straipsnio 5 dalį]], iki bus išduotas naujas leidimas saugoti CO2, o jeigu saugykla uždaroma pagal šio įstatymo [[#^s-789247388b1b72ed892e6c81|12 straipsnio 1 dalies 3 punktą]], iki atsakomybė bus perduota pagal šio įstatymo [[#^s-1fbe81bc2fb2497bf320dc51|13 straipsnio 4 dalį]], jeigu buvo įvykdyti šio įstatymo [[#^s-83d1933b068726aa1995483b|15 straipsnyje]] nurodyti finansiniai įpareigojimai. ^s-2b5094452960578fa2d0e945
@@ -711,7 +711,7 @@ Kai CO2 transportuojamas per daugiau kaip vienos Europos Sąjungos valstybės na
 ### 20 straipsnis. Galimybė naudotis vamzdynu ir saugyklomis ^s-fb6256031475cc29f6d7eedd
 
 
-1. Atsižvelgiant į esamą ar potencialų CO2 saugojimo pajėgumą Lietuvos Respublikos teritorijoje, asmenims, pageidaujantiems saugoti CO2, galimybė naudotis Lietuvos Respublikos teritorijoje veikiančiomis saugyklomis ir vamzdynu suteikiama pagal šio straipsnio 2, 3 ir [[#^s-249612b89bbfc161a9ce9d8a|5 dalis]]. ^s-7f99ad3a4830d04d85161630
+1. Atsižvelgiant į esamą ar potencialų CO2 saugojimo pajėgumą Lietuvos Respublikos teritorijoje, asmenims, pageidaujantiems saugoti CO2, galimybė naudotis Lietuvos Respublikos teritorijoje veikiančiomis saugyklomis ir vamzdynu suteikiama pagal šio straipsnio [[#^s-addbb64cc8424792ebd3acac|2]], [[#^s-ba7a894d68ec633733b7cc0a|3]] ir [[#^s-249612b89bbfc161a9ce9d8a|5]] dalis. ^s-7f99ad3a4830d04d85161630
 
 
 2. [[#^s-7f99ad3a4830d04d85161630|Šio straipsnio 1 dalyje]] numatytą naudojimosi Lietuvos Respublikos teritorijoje veikiančiomis saugyklomis ir vamzdynu galimybę suteikia Vyriausybės įgaliota institucija Vyriausybės nustatyta tvarka konkurso būdu. [[#^s-7f99ad3a4830d04d85161630|Šio straipsnio 1 dalyje]] numatyta naudojimosi galimybė suteikiama įvertinus: ^s-addbb64cc8424792ebd3acac
@@ -770,7 +770,7 @@ priedas
 
 
 
-1. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB dėl anglies dioksido geologinio saugojimo, iš dalies keičianti Tarybos direktyvą 85/337/EEB, direktyvas 2000/60/EB, 2001/80/EB, 2004/35/EB, 2006/12/EB, 2008/1/EB ir Reglamentą (EB) Nr. 1013/2006 (OL 2009 L 140, p. 114). ^s-901595092d744d0142398cf0
+1. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB dėl anglies dioksido geologinio saugojimo, iš dalies keičianti Tarybos direktyvą 85/337/EEB, direktyvas 2000/60/EB, 2001/80/EB, 2004/35/EB, 2006/12/EB, 2008/1/EB ir [Reglamentą (EB) Nr. 1013/2006](https://eur-lex.europa.eu/eli/reg/1013/2006/oj) (OL 2009 L 140, p. 114). ^s-901595092d744d0142398cf0
 
 
 

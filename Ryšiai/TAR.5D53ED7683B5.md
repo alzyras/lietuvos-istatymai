@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos pridėtinės vertės mokesčio įstatymo 4, 4
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Mokesčių administravimo įstatymo
+- [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 3 citatos - 2
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.ED68997709F5#^s-008949054ab861703ff664c3|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - 2 citatos - PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 4, 4(1), 15, 17, 22, 27, 43, 56, 77, 80, 90, 91, 94, 96 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.ED68997709F5#^s-951ad7fe84aa679fdc57d085|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - 2 citatos - PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 4, 4(1), 15, 17, 22, 27, 43, 56, 77, 80, 90, 91, 94, 96 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.ED68997709F5#^s-008949054ab861703ff664c3|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 4, 4(1), 15, 17, 22, 27, 43, 56, 77, 80, 90, 91, 94, 96 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

@@ -215,7 +215,7 @@ Sudarant valstybinės žemės sklypų pirkimo-pardavimo, nuomos ir panaudos suta
 8) vietos savivaldybių poreikiams ir bendram (viešam) naudojimui, jeigu tai numatyta nustatyta tvarka patvirtintuose miestų, miestelių ir kaimų detaliuose planuose arba žemėtvarkos projektuose. ^s-212da00878a7416c1686d3a8
 
 
-Institucijos sprendimas paimti žemę visuomenės poreikiams skelbiamas vietinėje spaudoje du kartus su 15 dienų pertrauka. Lietuvos Respublikos Vyriausybės ar apskrities viršininko sprendimą dėl žemės sklypo paėmimo visuomenės poreikiams suinteresuotieji asmenys gali skųsti teismui per vieną mėnesį po jo antrojo paskelbimo spaudoje.“
+Institucijos sprendimas paimti žemę visuomenės poreikiams skelbiamas vietinėje spaudoje du kartus su 15 dienų pertrauka. Lietuvos Respublikos Vyriausybės ar apskrities viršininko sprendimą [dėl žemės sklypo paėmimo visuomenės poreikiams](https://e-tar.lt/portal/lt/legalAct/6a2b868047a911e483c6e89f9dba57fd) suinteresuotieji asmenys gali skųsti teismui per vieną mėnesį po jo antrojo paskelbimo spaudoje.“
 
 
 
@@ -278,7 +278,7 @@ Institucijos sprendimas paimti žemę visuomenės poreikiams skelbiamas vietinė
 ### 15 straipsnis. 55 straipsnio 4 ir 5 punktų pakeitimas ^s-8aa356547f27625e3b91aaf8
 
 
-55 straipsnio 4 ir [[#^s-6419242f250a681e787afcec|5 punktuose]] vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šiuos punktus išdėstyti taip:
+55 straipsnio 4 ir 5 punktuose vietoj žodžių „apskrities valdytojo“ įrašyti žodžius „apskrities viršininko“ ir šiuos punktus išdėstyti taip:
 
 
 „4) žemės savininkų bei valstybinės žemės naudotojų ir Lietuvos Respublikos Vyriausybės ar apskrities viršininko – dėl žemės sklypo paėmimo, atlyginimo būdo ir dydžio;

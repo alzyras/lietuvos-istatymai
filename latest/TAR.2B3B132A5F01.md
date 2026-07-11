@@ -202,7 +202,7 @@ Centrinis mokesčių administratorius priima šio įstatymo įgyvendinamuosius t
 ### 11 straipsnis. Įstatymo įsigaliojimas ^s-816f642da319db0aa7a2fddf
 
 
-Šio įstatymo 3, 4, 7, 8 ir [[#^s-e6c3736b083f819eb73d429e|9 straipsniai]] įsigalioja 2013 m. sausio 1 d.
+Šio įstatymo [[#^s-fe24553900f20bf893241e51|3]], [[#^s-6dc28bcb0f05b194ac964a8b|4]], [[#^s-219f3e7e8f9482f96c95ae4d|7]], [[#^s-e5316794291184982d9564d4|8]] ir [[#^s-e6c3736b083f819eb73d429e|9]] straipsniai įsigalioja 2013 m. sausio 1 d.
 
 
 

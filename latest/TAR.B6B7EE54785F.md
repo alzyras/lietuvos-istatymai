@@ -56,7 +56,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip:
 1. Papildyti [[#^s-452be4f0d534ef35f749a366|3 straipsnį]] nauja 5 dalimi: ^s-4ac9dafa0996b84eae836106
 
 
-„5. Šio įstatymo VI skyriaus nuostatos taikomos ir įgyvendinant 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinančio Reglamentą (EB) Nr. 2560/2001 (OL 2009 L 266, p. 11), 9, 10, 11, 12 ir 13 straipsnių nuostatas.“
+„5. Šio įstatymo VI skyriaus nuostatos taikomos ir įgyvendinant 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinančio [Reglamentą (EB) Nr. 2560/2001](https://eur-lex.europa.eu/eli/reg/2560/2001/oj) (OL 2009 L 266, p. 11), 9, 10, 11, 12 ir 13 straipsnių nuostatas.“
 
 
 2. Buvusias [[#^s-452be4f0d534ef35f749a366|3 straipsnio]] 5, 6 ir 7 dalis laikyti atitinkamai 6, 7 ir 8 dalimis. ^s-cffc52ab5d6666f8b59a5bdd
@@ -90,7 +90,7 @@ priedas
 1. 2007 m. lapkričio 13 d. Europos Parlamento ir Tarybos direktyva 2007/64/EB dėl mokėjimo paslaugų vidaus rinkoje, iš dalies keičianti direktyvas 97/7/EB, 2002/65/EB, 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 97/5/EB (OL 2007 L 319, p. 1), su paskutiniais pakeitimais, padarytais 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/111/EB (OL 2009 L 302, p. 97). ^s-6f3a53ba24c47e290aa8149d
 
 
-2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinantis Reglamentą (EB) Nr. 2560/2001 (OL 2009 L 266, p. 11).“ ^s-a59e59c43e2ef3a6284bddab
+2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinantis [Reglamentą (EB) Nr. 2560/2001](https://eur-lex.europa.eu/eli/reg/2560/2001/oj) (OL 2009 L 266, p. 11).“ ^s-a59e59c43e2ef3a6284bddab
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.

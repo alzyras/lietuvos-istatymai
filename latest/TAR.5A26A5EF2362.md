@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sprendimo ratifikavimas ^s-8f254564c32958d1031d3b9a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. lapkričio 14 d. dekretą Nr. 1552, ratifikuoja Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimą Nr.1/2000 „Dėl Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties A protokolo pakeitimų“, pasirašytą 2000 m. gruodžio 28 d.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. lapkričio 14 d. dekretą Nr. 1552](https://e-tar.lt/portal/lt/legalAct/TAR.BBA19B9C03C2), ratifikuoja Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimą Nr.1/2000 „Dėl Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos laisvosios prekybos sutarties A protokolo pakeitimų“, pasirašytą 2000 m. gruodžio 28 d.
 
 
 

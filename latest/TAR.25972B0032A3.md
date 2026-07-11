@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 4 straipsnio pakeitimas ir papildymas ^s-f378f0c8e3e067b18190f2cd
 
 
-[[#^s-14d05e99da6fe53e18df7234|4 straipsnio]] 1 ir [[#^s-b0f684812481343eb5363436|2 dalyse]] vietoj žodžių „Valstybinis veterinarijos departamentas“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“, [[#^s-06738241788c826a13600616|3 dalyje]] vietoj žodžių „Valstybinio veterinarijos departamento“ įrašyti žodžius „Valstybinės maisto ir veterinarijos tarnybos“, [[#^s-aeb9d6fc676dc0c9464d363e|4 dalyje]] vietoj žodžių „Valstybinis veterinarijos departamentas“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“, po žodžio „valstybines“ įrašyti žodžius „maisto ir“ ir šį straipsnį išdėstyti taip:
+[[#^s-14d05e99da6fe53e18df7234|4 straipsnio]] 1 ir 2 dalyse vietoj žodžių „Valstybinis veterinarijos departamentas“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“, [[#^s-06738241788c826a13600616|3 dalyje]] vietoj žodžių „Valstybinio veterinarijos departamento“ įrašyti žodžius „Valstybinės maisto ir veterinarijos tarnybos“, [[#^s-aeb9d6fc676dc0c9464d363e|4 dalyje]] vietoj žodžių „Valstybinis veterinarijos departamentas“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“, po žodžio „valstybines“ įrašyti žodžius „maisto ir“ ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-14d05e99da6fe53e18df7234|4 straipsnis]]. Veterinarijos valdymas
@@ -71,7 +71,7 @@ Vilnius
 ### 3 straipsnis. 8 straipsnio pakeitimas ir papildymas ^s-8289531982a31b29ba48ead9
 
 
-8 straipsnio 1 ir [[#^s-9498afbddb5a720f60da97ca|2 dalyse]] vietoj žodžių „Valstybinio veterinarijos departamento“ įrašyti žodžius „Valstybinės maisto ir veterinarijos tarnybos“, [[#^s-39d62091572a30964f4ff3d6|1 dalies]] trečiajame sakinyje vietoj žodžių „departamento specialistai“ įrašyti žodžius „tarnybos veterinarijos gydytojai“, [[#^s-9498afbddb5a720f60da97ca|2 dalyje]] po žodžio „valstybinių“ įrašyti žodžius „maisto ir“ ir visą straipsnį išdėstyti taip:
+8 straipsnio 1 ir 2 dalyse vietoj žodžių „Valstybinio veterinarijos departamento“ įrašyti žodžius „Valstybinės maisto ir veterinarijos tarnybos“, [[#^s-39d62091572a30964f4ff3d6|1 dalies]] trečiajame sakinyje vietoj žodžių „departamento specialistai“ įrašyti žodžius „tarnybos veterinarijos gydytojai“, [[#^s-9498afbddb5a720f60da97ca|2 dalyje]] po žodžio „valstybinių“ įrašyti žodžius „maisto ir“ ir visą straipsnį išdėstyti taip:
 
 
 „8 straipsnis. Valstybiniai veterinarijos inspektoriai
@@ -112,7 +112,7 @@ Vilnius
 „6. Prekiauti gyvuliais, kitais gyvūnais, gyvuliniais produktais ir žaliavomis gali tik fiziniai ir juridiniai asmenys bei įmonės, neturinčios juridinio asmens teisių, Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka.“
 
 
-3. 15 straipsnio 10 ir [[#^s-5a5d634923dda0c2b6a07229|12 dalyse]] vietoj žodžių „Valstybinis veterinarijos departamentas“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“, [[#^s-6e7286cf49bd16b4d3281aa5|11 dalyje]] vietoj žodžių „Valstybinio veterinarijos departamento“ įrašyti žodžius „Valstybinės maisto ir veterinarijos tarnybos“ ir šias dalis išdėstyti taip: ^s-0eab5fee957d042a16014c7c
+3. 15 straipsnio 10 ir 12 dalyse vietoj žodžių „Valstybinis veterinarijos departamentas“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“, [[#^s-6e7286cf49bd16b4d3281aa5|11 dalyje]] vietoj žodžių „Valstybinio veterinarijos departamento“ įrašyti žodžius „Valstybinės maisto ir veterinarijos tarnybos“ ir šias dalis išdėstyti taip: ^s-0eab5fee957d042a16014c7c
 
 
 „10. Sveikų gyvulių ir kitų gyvūnų skerdimo, turint tikslą parduoti skerdieną ir subproduktus, tvarką nustato Valstybinė maisto ir veterinarijos tarnyba.
@@ -128,7 +128,7 @@ Vilnius
 ### 6 straipsnis. 16 straipsnio 4, 5, 9 dalių pakeitimas ir papildymas ^s-7a6e3040dae99155cef902a4
 
 
-1. 16 straipsnio 4 ir [[#^s-a7519acac2a9cd0b2a8af5d4|5 dalyse]] vietoj žodžių „Valstybinis veterinarijos departamentas“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“, [[#^s-a7519acac2a9cd0b2a8af5d4|5 dalyje]] po žodžio „valstybinių“ įrašyti žodžius „maisto ir“ ir šias dalis išdėstyti taip: ^s-a3471a73a82d4f44260bb441
+1. 16 straipsnio 4 ir 5 dalyse vietoj žodžių „Valstybinis veterinarijos departamentas“ įrašyti žodžius „Valstybinė maisto ir veterinarijos tarnyba“, [[#^s-a7519acac2a9cd0b2a8af5d4|5 dalyje]] po žodžio „valstybinių“ įrašyti žodžius „maisto ir“ ir šias dalis išdėstyti taip: ^s-a3471a73a82d4f44260bb441
 
 
 „4. Valstybinė maisto ir veterinarijos tarnyba tvirtina gyvulių ir kitų gyvūnų užkrečiamųjų ligų, kuriomis susirgus nustatomos apsaugos ir stebėjimo zonos, sąrašą.

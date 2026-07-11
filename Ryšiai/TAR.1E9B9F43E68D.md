@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.8D38517814F1#^s-54ecf9e5e51b6fcab59a24d8|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - Įstatymas Nr. IX-1615
-- [[latest/TAR.8D38517814F1#^s-e5c1bcfcf77d73cebadbb434|Lietuvos Respublikos atliekų tvarkymo įstatymas]] - Įstatymas Nr. IX-1615
+_Nėra._

@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo paskirtis ^s-8b39e58eaaecbf3c38ab9917
 
 
-1. Šio įstatymo paskirtis – pritarti koncesijos suteikimui projekto įgyvendinimo bendrovei Visagino branduolinės (atominės) elektrinės projekte ir pritarti Lietuvos Respublikos, strateginio investuotojo ir projekto įgyvendinimo bendrovės sudaromos koncesijos sutarties (toliau – koncesijos sutartis) projektui, įskaitant koncesijos sutarties projekte nustatytus Lietuvos Respublikos esminius turtinius įsipareigojimus. ^s-4b915192a122a1a9fb98ad19
+1. Šio įstatymo paskirtis – pritarti koncesijos suteikimui projekto įgyvendinimo bendrovei Visagino [[latest/TAR.04F64676CE77|branduolinės (atominės]]) elektrinės projekte ir pritarti Lietuvos Respublikos, strateginio investuotojo ir projekto įgyvendinimo bendrovės sudaromos koncesijos sutarties (toliau – koncesijos sutartis) projektui, įskaitant koncesijos sutarties projekte nustatytus Lietuvos Respublikos esminius turtinius įsipareigojimus. ^s-4b915192a122a1a9fb98ad19
 
 
 2. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.6A449FCC534B|Lietuvos Respublikos koncesijų įstatyme]] (toliau – [[latest/TAR.6A449FCC534B|Koncesijų įstatymas]]) ir [[latest/TAR.04F64676CE77|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatyme]] (toliau – [[latest/TAR.04F64676CE77|Branduolinės (atominės) elektrinės įstatymas]]). ^s-b904087cad374bfe47bd5f00
@@ -56,10 +56,10 @@ Vilnius
 1. Lietuvos Respublikos Seimas pritaria: ^s-3b12bc92a4d3839ea0d34714
 
 
-1) koncesijos suteikimui projekto įgyvendinimo bendrovei Visagino branduolinės (atominės) elektrinės projekte; ^s-dafea6573977dc29e1625921
+1) koncesijos suteikimui projekto įgyvendinimo bendrovei Visagino [[latest/TAR.04F64676CE77|branduolinės (atominės]]) elektrinės projekte; ^s-dafea6573977dc29e1625921
 
 
-2) koncesijos sutarties projekte nurodyto strateginio investuotojo Visagino branduolinės (atominės) elektrinės projekte atrinkimui; ^s-b2318bc0b1b991b29c3c364f
+2) koncesijos sutarties projekte nurodyto strateginio investuotojo Visagino [[latest/TAR.04F64676CE77|branduolinės (atominės]]) elektrinės projekte atrinkimui; ^s-b2318bc0b1b991b29c3c364f
 
 
 3) koncesijos sutarties projekte nustatytų Lietuvos Respublikos esminių turtinių įsipareigojimų prisiėmimui; ^s-402ebf827ce165be45c434c9
@@ -78,10 +78,10 @@ Vilnius
 1. Valstybė įstatymu prisiima visus esminius turtinius įsipareigojimus pagal koncesijos sutartį, įskaitant, bet neapsiribojant: ^s-e5acc220360dc548e0ede541
 
 
-1) įgyvendinti Visagino branduolinės (atominės) elektrinės projekto pagrindinio privažiavimo kelio nuo Klaipėdos valstybinio jūrų uosto krantinės iki branduolinės (atominės) elektrinės sklypo ribos paruošimo projektą, kaip numatyta koncesijos sutarties projekte (įskaitant 7.1.[[#^s-ce9fc9700f6189430797f441|2 punktą]] ir 2 priedėlį); ^s-5cf275561045d5c3f2b77042
+1) įgyvendinti Visagino [[latest/TAR.04F64676CE77|branduolinės (atominės]]) elektrinės projekto pagrindinio privažiavimo kelio nuo Klaipėdos valstybinio jūrų uosto krantinės iki [[latest/TAR.04F64676CE77|branduolinės (atominės]]) elektrinės sklypo ribos paruošimo projektą, kaip numatyta koncesijos sutarties projekte (įskaitant 7.1.[[#^s-ce9fc9700f6189430797f441|2 punktą]] ir 2 priedėlį); ^s-5cf275561045d5c3f2b77042
 
 
-2) užtikrinti, kad projekto įgyvendinimo bendrovei būtų suteiktas žemės sklypas, reikalingas įgyvendinti Visagino branduolinės (atominės) elektrinės projektą, kaip numatyta koncesijos sutarties projekte (įskaitant 7.1.1 (A) punktą); ^s-ce9fc9700f6189430797f441
+2) užtikrinti, kad projekto įgyvendinimo bendrovei būtų suteiktas žemės sklypas, reikalingas įgyvendinti Visagino [[latest/TAR.04F64676CE77|branduolinės (atominės]]) elektrinės projektą, kaip numatyta koncesijos sutarties projekte (įskaitant 7.1.1 (A) punktą); ^s-ce9fc9700f6189430797f441
 
 
 3) išpirkti projekto įgyvendinimo bendrovės akcijas iš projekto įgyvendinimo bendrovės dalyvių, kai koncesijos sutartis nutraukiama, tais atvejais, kai nutraukimo rizika priskiriama Lietuvos Respublikai, ir kitais nustatytais atvejais, kaip numatyta koncesijos sutarties projekte (įskaitant 20.1, 20.3, 26, 32 punktus); ^s-13762d1c761469e96be57482
@@ -131,7 +131,7 @@ dėl koncesijos suteikimo ir
 Lietuvos Respublikos esminių
 turtinių įsipareigojimų
 prisiėmimo Visagino
-branduolinės (atominės)
+[[latest/TAR.04F64676CE77|branduolinės (atominės]])
 elektrinės projekte
 priedas
 
@@ -5930,7 +5930,7 @@ LR, jei PB to paprašo raštu, padeda PB, teikdama pagrįstą tokiomis aplinkyb�
 45.4     TIGSC arbitražas ^s-70694292cce028b7f4524f39
 
 
-45.4.1          Šalys šia Sutartimi sutinka kreiptis į Centrą dėl bet kurio Ginčo sprendimo arbitražo būdu, vadovaudamosi 1965 m. kovo 18 d. Vašingtono konvencija dėl valstybių ir kitų valstybių fizinių bei juridinių asmenų investicinių ginčų sprendimo (toliau – TIGSC konvencija). ^s-00afeaba92cbe060a70538a5
+45.4.1          Šalys šia Sutartimi sutinka kreiptis į Centrą dėl bet kurio Ginčo sprendimo arbitražo būdu, vadovaudamosi 1965 m. kovo 18 d. Vašingtono [konvencija dėl valstybių ir kitų valstybių fizinių bei juridinių asmenų investicinių ginčų sprendimo](https://e-tar.lt/portal/lt/legalAct/TAR.825CADE88311) (toliau – [TIGSC konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.825CADE88311)). ^s-00afeaba92cbe060a70538a5
 
 
 45.4.2          Šalys toliau susitaria, kad: ^s-05f03ea040929e3e7b0f716c
@@ -6121,7 +6121,7 @@ SĄVOKOS
 
 
  „Vienos konvencija su pakeitimais“
- 1963 m. Vienos konvencija dėl civilinės atsakomybės už branduolinę žalą, su pakeitimais, padarytais Vienos protokolu;
+ 1963 m. [Vienos konvencija dėl civilinės atsakomybės už branduolinę žalą](https://e-tar.lt/portal/lt/legalAct/TAR.98F8A33F322C), su pakeitimais, padarytais Vienos protokolu;
 
 
  „Amerikos bendrovė“
@@ -6485,7 +6485,7 @@ SĄVOKOS
 
 
  „Lietuvos Konstitucija“
- Lietuvos Respublikos piliečių 1992 m. spalio 25 d. referendume priimta Lietuvos Respublikos Konstitucija (su visais pakeitimais);
+ Lietuvos Respublikos piliečių 1992 m. spalio 25 d. referendume priimta [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) (su visais pakeitimais);
 
 
  „Lietuvos investuotojas“
@@ -6545,7 +6545,7 @@ SĄVOKOS
 
 
  „Neplatinimo sutartis“
- 1968 m. Sutartis dėl branduolinio ginklo neplatinimo;
+ 1968 m. [Sutartis dėl branduolinio ginklo neplatinimo](https://e-tar.lt/portal/lt/legalAct/TAR.C68F80638A1C);
 
 
  „Pranešimas apie ginčą“
@@ -6565,7 +6565,7 @@ SĄVOKOS
 
 
  „Branduolinės saugos sutartis“
- a) 1986 m. Konvencija dėl ankstyvo pranešimo apie branduolinę avariją; b) 1994 m. Branduolinės saugos konvencija; c) 1986 m. Konvencija dėl pagalbos įvykus branduolinei avarijai arba kilus radiologiniam pavojui; d) 1980 m. Branduolinių medžiagų fizinės saugos konvencija; arba e) 1997 m. Jungtinė panaudoto kuro tvarkymo saugos ir radioaktyviųjų atliekų tvarkymo saugos konvencija; sąvoka „Branduolinės saugos sutartys“ reiškia kurią nors vieną ar visas šias sutartis;
+ a) 1986 m. [Konvencija dėl ankstyvo pranešimo apie branduolinę avariją](https://e-tar.lt/portal/lt/legalAct/TAR.ACBE9A5617C0); b) 1994 m. [Branduolinės saugos konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.8D9A5053111E); c) 1986 m. [Konvencija dėl pagalbos įvykus branduolinei avarijai arba kilus radiologiniam pavojui](https://e-tar.lt/portal/lt/legalAct/TAR.2BC7E03D1D69); d) 1980 m. [Branduolinių medžiagų fizinės saugos konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.4EADEE7402CC); arba e) 1997 m. [Jungtinė panaudoto kuro tvarkymo saugos ir radioaktyviųjų atliekų tvarkymo saugos konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.2535EF4578D7); sąvoka „Branduolinės saugos sutartys“ reiškia kurią nors vieną ar visas šias sutartis;
 
 
  „O&M pagalbinių paslaugų sutartis“
@@ -6869,7 +6869,7 @@ SĄVOKOS
 
 
  „1963 m. Vienos konvencija“
- 1963 m. Vienos konvencija dėl civilinės atsakomybės už branduolinę žalą;
+ 1963 m. [Vienos konvencija dėl civilinės atsakomybės už branduolinę žalą](https://e-tar.lt/portal/lt/legalAct/TAR.98F8A33F322C);
 
 
  „Vienos protokolas“
@@ -7498,7 +7498,7 @@ Eksploatavimo nutraukimo ir atliekų tvarkymo principai
 • perdirbti panaudotą atominį kurą ir po to pašalinti perdirbtas atliekas arba perdirbimo šalutinius produktus nacionaliniame arba regioniniame (tarptautiniame) geologinio laidojimo įrenginyje; arba
 • keliais iš pirmiau išvardytų būdų.
 (15)     Šalys pripažįsta, kad jeigu LR ketina Lietuvoje pastatyti ir eksploatuoti geologinio laidojimo įrenginį, skirtą panaudotam atominiam kurui ir kitoms didelio radioaktyvumo atliekoms, atsirandančioms iš Ignalinos AE, laidoti („Bendras įrenginys“), PB savo nuožiūra gali nuspręsti su LR išnagrinėti galimybes naudoti Bendrą įrenginį panaudotam atominiam kurui ir kitoms didelio radioaktyvumo atliekoms, atsirandančioms iš Visagino naujos atominės elektrinės, laidoti. PB ir LR susitarus protingai naudoti Bendrą įrenginį panaudotam atominiam kurui ir kitoms didelio radioaktyvumo atliekoms, atsirandančioms iš Visagino naujos atominės elektrinės, laidoti, LR ir PB privalo teisingai pasidalinti išlaidas, susijusias su Bendro įrenginio vystymu ir to Bendro įrenginio naudojimu, ir atsižvelgti į visas sutaupytas lėšas bendrai laidojant panaudotą atominį kurą ir kitas didelio radioaktyvumo atliekas, atsirandančias iš Ignalinos AE ir Visagino naujos atominės elektrinės. PB įnašas dalijantis tokias išlaidas, kaip nurodyta šioje pastraipoje, turi būti proporcingas panaudoto kuro ir kitų laidotinų didelio radioaktyvumo atliekų kiekiui ir pobūdžiui bei plotui, kuris reikalingas panaudoto atominio kuro ir kitoms didelio radioaktyvumo atliekoms, atsirandančioms iš Visagino naujos atominės elektrinės, saugoti.
-(16)     PB gali savo nuožiūra sudaryti sutartį su Lietuvos valstybės paskirta institucija dėl atliekų tvarkymo ir (arba) šalinimo ir (arba) pastatyti atitinkamus įrenginius, kad galėtų savarankiškai tvarkyti ir šalinti atliekas.
+(16)     PB gali savo nuožiūra sudaryti sutartį su Lietuvos valstybės paskirta institucija [dėl atliekų tvarkymo](https://e-tar.lt/portal/lt/legalAct/SAV.494582) ir (arba) šalinimo ir (arba) pastatyti atitinkamus įrenginius, kad galėtų savarankiškai tvarkyti ir šalinti atliekas.
 (17)     Lietuvos valstybės iš NAE atsirandančioms radioaktyvioms atliekoms tvarkyti ir (arba) šalinti paskirtos institucijos (Radioaktyviųjų atliekų tvarkytojo) atliekų tvarkymo ir (arba) šalinimo įkainiai privalo būti paremti išlaidomis, į juos turi būti įskaičiuotos tvarkymo ir (arba) šalinimo įrenginio tyrimų ir plėtros, projektavimo, statybos, eksploatavimo, užbaigimo ir priežiūros išlaidos. Kaina nustatoma atitinkamoje sutartyje su Lietuvos valstybės paskirta institucija neįskaitant pelno (tačiau įskaitant netiesiogines ir pridėtines išlaidas, jeigu jas galima priskirti atitinkamai veiklai), ir ja negali būti dvigubai kompensuojamos bendrųjų ir (arba) anksčiau atliktų tyrimų ir plėtros arba projektavimo išlaidos.
 (18)     PB sudaro galutinę NAE eksploatavimo nutraukimo ir atliekų laidojimo išlaidų sąmatą vadovaudamasi Eksploatavimo nutraukimo ir atliekų tvarkymo susitarimais ne vėliau kaip likus 12 mėnesių iki numatyto NAE eksploatavimo termino (60 metų, jeigu nepratęsiama) pabaigos ir pateikia ją Priežiūros institucijai vertinti. PB nė vėliau kaip iki paskutinės NAE eksploatavimo termino dienos privalo įnešti pakankamą įnašą, kad Fondas visiškai įvykdytų galutinę sąmatą, diskontuotą tarpusavyje suderintais pagrindais, atsižvelgiant į numatytą eksploatavimo nutraukimo darbų grafiką ir numatomą fondo augimą per eksploatavimo nutraukimo laikotarpį.
 (19)     PB per vieną mėnesį po galutinių eksploatavimo nutraukimo išlaidų sąmatos sudarymo pagal 18 pastraipos reikalavimus dienos turi teisę savo nuožiūra nuspręsti, ar atlikti (arba patikėti rangovui (-ams) trečiajai (-osioms) šaliai (-ims) atlikti) su NAE eksploatavimo nutraukimu susijusias darbus, ar ne.

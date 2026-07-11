@@ -26,14 +26,14 @@ rysiai: "[[Ryšiai/TAR.7DE7243A23EF]]"
 
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
-DĖL LIETUVOS RESPUBLIKOS ĮSTATYMO „DĖL LIETUVOS RESPUBLIKOS REFERENDUMO ĮSTATYMO PAKEITIMO IR PAPILDYMO“ ĮGYVENDINIMO TVARKOS
+DĖL LIETUVOS RESPUBLIKOS ĮSTATYMO [„DĖL LIETUVOS RESPUBLIKOS REFERENDUMO ĮSTATYMO PAKEITIMO IR PAPILDYMO“](https://e-tar.lt/portal/lt/legalAct/TAR.4420CD3B5037) ĮGYVENDINIMO TVARKOS
 
 1994 m. liepos 4 d. Nr. I-526
 Vilnius
 
 
 
-Nustatyti, kad iki 1994 m. birželio 15 d. Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos referendumo įstatymo pakeitimo ir papildymo“ (Žin., 1994, Nr. 47-870) įsigaliojimo pradėtoms įgyvendinti piliečių iniciatyvoms paskelbti referendumus netaikomos šio įstatymo 9 straipsnio pirmosios, antrosios, trečiosios ir ketvirtosios dalių bei 11 straipsnio trečiosios dalies nuostatos.
+Nustatyti, kad iki 1994 m. birželio 15 d. Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos referendumo įstatymo pakeitimo ir papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.4420CD3B5037) (Žin., 1994, Nr. 47-870) įsigaliojimo pradėtoms įgyvendinti piliečių iniciatyvoms paskelbti referendumus netaikomos šio įstatymo 9 straipsnio pirmosios, antrosios, trečiosios ir ketvirtosios dalių bei 11 straipsnio trečiosios dalies nuostatos.
 
 
 

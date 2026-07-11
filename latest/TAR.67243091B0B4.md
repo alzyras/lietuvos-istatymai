@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-cb94b8e8947a48c8b84bfb62
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. rugsėjo 3 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Tarptautinio rekonstrukcijos ir plėtros banko sutartį dėl paskolos Energijos taupymo (Būsto) demonstraciniam projektui finansuoti“, ratifikuoja Lietuvos Respublikos ir Tarptautinio rekonstrukcijos ir plėtros banko sutartį dėl 10 mln. JAV dolerių paskolos Energijos taupymo (Būsto) demonstraciniam projektui finansuoti, pasirašytą 1996 m. rugpjūčio 6 d. Vašingtone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. rugsėjo 3 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Tarptautinio rekonstrukcijos ir plėtros banko sutartį dėl paskolos Energijos taupymo (Būsto) demonstraciniam projektui finansuoti“](https://e-tar.lt/portal/lt/legalAct/TAR.AFEAC1D23FF2), ratifikuoja Lietuvos Respublikos ir Tarptautinio rekonstrukcijos ir plėtros banko sutartį dėl 10 mln. JAV dolerių paskolos Energijos taupymo (Būsto) demonstraciniam projektui finansuoti, pasirašytą 1996 m. rugpjūčio 6 d. Vašingtone.
 
 
 

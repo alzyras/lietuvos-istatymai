@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A3C0EA6B2203#^s-3affc8d3fcf9ec22c3fe1213|Lietuvos Respublikos metrologijos įstatymas]] - 3 citatos - 1001010ISTAIII-1660
-- [[latest/TAR.A3C0EA6B2203#^s-cea984b149fe4ad6d2635216|Lietuvos Respublikos metrologijos įstatymas]] - 3 citatos - 1001010ISTAIII-1660
+- [[latest/TAR.A3C0EA6B2203#^s-3affc8d3fcf9ec22c3fe1213|Lietuvos Respublikos metrologijos įstatymas]] - 2 citatos - 1001010ISTAIII-1660

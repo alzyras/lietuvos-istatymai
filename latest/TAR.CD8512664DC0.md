@@ -49,7 +49,7 @@ Papildyti 1 straipsnį trečiąja dalimi:
 ### 2 straipsnis. 3 straipsnio pakeitimas ir papildymas ^s-02693562d686fee8186f9eca
 
 
-1. Pakeisti [[#^s-4cb35dfc9646523fc384e8a0|3 straipsnio 3 punktą]] ir jį išdėstyti taip: ^s-5569847b528e776f0aea74d8
+1. Pakeisti 3 straipsnio 3 punktą ir jį išdėstyti taip: ^s-5569847b528e776f0aea74d8
 
 
 „3) vizų išdavimą arba dokumentų vizai gauti priėmimą ir nagrinėjimą, jeigu viza nebuvo išduota (toliau – vizų išdavimą);“.
@@ -61,7 +61,7 @@ Papildyti 1 straipsnį trečiąja dalimi:
 „7) asmens be pilietybės kelionės dokumento galiojimo laiko pratęsimą;“.
 
 
-3. Buvusį [[#^s-3314fcff9acc0313dee9ac1c|3 straipsnio 7 punktą]] laikyti 8 punktu, jį pakeisti ir išdėstyti taip: ^s-b296fcf8134018467e4108d1
+3. Buvusį 3 straipsnio 7 punktą laikyti 8 punktu, jį pakeisti ir išdėstyti taip: ^s-b296fcf8134018467e4108d1
 
 
 „8) kitas konsulines paslaugas, nustatytas tarptautinėse sutartyse, Lietuvos Respublikos įstatymuose ir Lietuvos Respublikos Vyriausybės nutarimuose.“

@@ -192,7 +192,7 @@ Vilnius
 ### 13 straipsnis. Įstatymo taikymas ^s-d91fb193f0e98d5ad89ed0b0
 
 
-1. Šio įstatymo 2, [[#^s-96d73df4a0695af7370664af|3 straipsnių]], [[#^s-2084d34e92773f3c14ee47e4|4 straipsnio]] 2, 3 ir 4 dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2008 metų ir vėlesnių mokestinių laikotarpių pajamas. ^s-9aedbfc084395c149e0d3812
+1. Šio įstatymo [[#^s-80e13d2df05d65164736a2d6|2]], [[#^s-96d73df4a0695af7370664af|3]] straipsnių, [[#^s-2084d34e92773f3c14ee47e4|4 straipsnio]] [[#^s-3a1753e5b1c16cfa4218aca0|2]], [[#^s-a1f8960c77a1f642e5565d6c|3]] ir [[#^s-54dfd858127fa5c0857a11ce|4]] dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2008 metų ir vėlesnių mokestinių laikotarpių pajamas. ^s-9aedbfc084395c149e0d3812
 
 
 2. Šio įstatymo [[#^s-be2909beab8a8c12a63eab72|4 straipsnio 1 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2007 metų ir vėlesnių mokestinių laikotarpių pajamas. ^s-a5fd7c256cce7d7ad4a0cbf6

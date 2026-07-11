@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sprendimo ratifikavimas ^s-eba92418cb0d6f7bd57b754c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. rugsėjo 29 d. dekretą Nr. 1008, ratifikuoja Lietuvos ir Turkijos jungtinio komiteto sprendimą Nr. 99/1 „Dėl 2 protokolo A priedo pakeitimo“, pasirašytą 1999 m. lapkričio 19 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2000 m. rugsėjo 29 d. dekretą Nr. 1008](https://e-tar.lt/portal/lt/legalAct/TAR.B17FB13816FC), ratifikuoja Lietuvos ir Turkijos jungtinio komiteto sprendimą Nr. 99/1 „Dėl 2 protokolo A priedo pakeitimo“, pasirašytą 1999 m. lapkričio 19 d. Vilniuje.
 
 
 

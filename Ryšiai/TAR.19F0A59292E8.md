@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos saugios laivybos įstatymo pakeitimo įstatym
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Lietuvos Respublikos administracinių bylų teisenos įstatymo
-- [[latest/TAR.8FBB384266D1|Lietuvos Respublikos saugios laivybos įstatymas]] - 6 citatos - Saugios laivybos įstatymas
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Lietuvos Respublikos administracinių bylų teisenos įstatymo
+- [[latest/TAR.8FBB384266D1|Lietuvos Respublikos saugios laivybos įstatymas]] - 2 citatos - saugios laivybos įstatymo
 
 ## Šį įstatymą cituoja
 

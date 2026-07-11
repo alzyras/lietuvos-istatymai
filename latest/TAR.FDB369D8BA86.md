@@ -90,10 +90,10 @@ Valstybiniu socialiniu draudimu privalomai draudžiami šie asmenys:
 14) vienas iš visiškos negalios invalido tėvų arba asmuo, nustatyta tvarka pripažintas visiškos negalios invalido globėju arba rūpintoju, slaugantis namuose visiškos negalios invalidą. ^s-4f6ada900306184f9d2324df
 
 
-Asmenys, nurodyti šio įstatymo 4 straipsnio 1 dalies 1, [[#^s-fe33a2faf1d58d2d7c16aab0|2 punktuose]], privalomai draudžiami visų šio įstatymo [[#^s-c214cd13cb33636a77ffe5e6|3 straipsnyje]] nurodytų rūšių valstybiniu socialiniu draudimu, išskyrus draudimo nuo nelaimingų atsitikimų darbe atvejus, kai Lietuvos Respublikos teisės aktų nustatyta tvarka šie asmenys valstybės lėšomis yra apdrausti nelaimingų atsitikimų, susijusių su tarnyba, draudimu.
+Asmenys, nurodyti šio įstatymo 4 straipsnio 1 dalies 1, 2 punktuose, privalomai draudžiami visų šio įstatymo [[#^s-c214cd13cb33636a77ffe5e6|3 straipsnyje]] nurodytų rūšių valstybiniu socialiniu draudimu, išskyrus draudimo nuo nelaimingų atsitikimų darbe atvejus, kai Lietuvos Respublikos teisės aktų nustatyta tvarka šie asmenys valstybės lėšomis yra apdrausti nelaimingų atsitikimų, susijusių su tarnyba, draudimu.
 
 
-Šio įstatymo 4 straipsnio 1 dalies 3-14 punktuose nurodyti asmenys privalomai draudžiami valstybiniu socialiniu pensijų draudimu (7 ir [[#^s-d54d84919300c32edbc75ffe|8 punktuose]] nurodyti asmenys privalomai draudžiami bazinei pensijai). Asmenys, nurodyti 10-14 punktuose, valstybiniu socialiniu pensijų draudimu privalomai draudžiami valstybės lėšomis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
+Šio įstatymo 4 straipsnio 1 dalies 3-14 punktuose nurodyti asmenys privalomai draudžiami valstybiniu socialiniu pensijų draudimu (7 ir 8 punktuose nurodyti asmenys privalomai draudžiami bazinei pensijai). Asmenys, nurodyti 10-14 punktuose, valstybiniu socialiniu pensijų draudimu privalomai draudžiami valstybės lėšomis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka.
 
 
 Asmenų, draudžiamų privalomuoju sveikatos draudimu, įmokų dydžius, mokėjimo šaltinius bei tvarką nustato [[latest/TAR.94F6B680E8B8|Sveikatos draudimo įstatymas]].“

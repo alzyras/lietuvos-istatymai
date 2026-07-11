@@ -65,7 +65,7 @@ Specialiosios pagalbos priemonių teikimas finansuojamas iš valstybės ir saviv
 
 
 ### ANTRASIS SKIRSNIS ^s-c9e52594e02e2ab181bfcbe4
-[[latest/TAR.ED38F243563C#^s-4f5423281768c8939d76bcc2|VALSTYBINIŲ PENSIJŲ ĮSTATYMO 4, 5, 6, 7, 11, 12, 13, 14 STRAIPSNIŲ]] PAKEITIMAS IR PAPILDYMAS
+[[latest/TAR.ED38F243563C|VALSTYBINIŲ PENSIJŲ ĮSTATYMO]] [[latest/TAR.ED38F243563C#^s-0fddfedece4ce2edc47b143c|4]], [[latest/TAR.ED38F243563C#^s-c0b276808a10421dc240eb65|5]], [[latest/TAR.ED38F243563C#^s-4dc1d3a6182f487128e245db|6]], [[latest/TAR.ED38F243563C#^s-bdf8e795ab92de4e5f40e743|7]], [[latest/TAR.ED38F243563C#^s-6c848c5fc946744d1b95b113|11]], [[latest/TAR.ED38F243563C#^s-8217fb295cd6ffecb1e6c42e|12]], [[latest/TAR.ED38F243563C#^s-17739bc613d75963b434860d|13]], [[latest/TAR.ED38F243563C#^s-4f5423281768c8939d76bcc2|14]] STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 1994, Nr. 101-2018; 1995, Nr. 59-1476, Nr. 102-2282; 1996, Nr. 73-1750;
 1997, Nr. 30-708, Nr. 38-925, Nr. 104-2622, Nr. 115-2911; 1998, Nr. 56-1546, Nr. 98-2709, Nr. 114-3192, Nr. 115-3235; 1999, Nr. 48-1525, Nr. 57-1834, Nr. 99-2846; 2000, Nr. 52-1487, Nr. 111-3578; 2003, Nr. 14-538, Nr. 32-1314, Nr. 102-4587; 2004, Nr. 80-2835, Nr. 88 3209, Nr. 116-4330, Nr. 158-5759, Nr. 171-6299; 2005, Nr. 7-188)
@@ -228,7 +228,7 @@ Lietuvos Respublikos nepriklausomybės gynėjams, sužalotiems 1991 metų sausio
 „Jeigu šio straipsnio antrojoje dalyje nurodyti asmenys senatvės pensijos amžių sukako iki 2005 m. liepos 1 d. arba šį amžių sukanka po nurodytos datos nukentėjusiųjų asmenų valstybinės pensijos gavimo laikotarpiu, jiems paskirtos ir iki pat senatvės pensijos amžiaus sukakties mokėtos nukentėjusiųjų asmenų valstybinės pensijos mokamos iki gyvos galvos, išskyrus asmenis, kurie sukakę senatvės pensijos amžių įgijo teisę gauti didesnę nukentėjusiųjų asmenų valstybinę pensiją.“
 
 
-6. Buvusias 13 straipsnio 4 ir [[#^s-3109dc62558dd6a22b007b70|5 dalis]] laikyti atitinkamai 5 ir [[#^s-fa91a56cd669edfed3731722|6 dalimis]], pakeisti [[#^s-fa91a56cd669edfed3731722|6 dalį]] ir ją išdėstyti taip: ^s-fa91a56cd669edfed3731722
+6. Buvusias 13 straipsnio 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis, pakeisti 6 dalį ir ją išdėstyti taip: ^s-fa91a56cd669edfed3731722
 
 
 „Nukentėjusiųjų asmenų valstybinės pensijos taip pat skiriamos bei mokamos šio įstatymo 11 straipsnio antrosios dalies 2 ir 4 punktuose nurodytų asmenų tėvams, pripažintiems nedarbingais ar iš dalies darbingais, netekusiais 60 procentų ir daugiau darbingumo (iki 2005 m. liepos 1 d. - I ar II grupės invalidais) arba sukakusiems senatvės pensijos amžių, ir yra valstybinių pensijų bazės dydžio.“
@@ -277,7 +277,7 @@ Nukentėjusiųjų asmenų valstybinė našlių ir našlaičių pensija taip pat 
 4) asmeniui žuvus ar mirus būtinosios karinės tarnybos ar karinių mokymų sovietinėje armijoje (1945 07 22–1991 12 31) metu arba vėliau mirus dėl ligų, susijusių su karine tarnyba; ^s-6fb1dc1fd4cab6770f628b24
 
 
-5) mirus šio įstatymo 11 straipsnio pirmosios dalies 2, 3 ir [[#^s-e1184ec9414a34b4c6676bfc|5 punktuose]] nurodytiems asmenims ir 11 straipsnio pirmosios dalies 4 ir 7 punktuose nurodytiems asmenims, kurie nustatyta tvarka iki mirties buvo pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. - invalidais) arba kurie mirė nukentėjusiųjų asmenų valstybinės pensijos gavimo laikotarpiu. ^s-e1184ec9414a34b4c6676bfc
+5) mirus šio įstatymo 11 straipsnio pirmosios dalies 2, 3 ir 5 punktuose nurodytiems asmenims ir 11 straipsnio pirmosios dalies 4 ir 7 punktuose nurodytiems asmenims, kurie nustatyta tvarka iki mirties buvo pripažinti nedarbingais ar iš dalies darbingais (iki 2005 m. liepos 1 d. - invalidais) arba kurie mirė nukentėjusiųjų asmenų valstybinės pensijos gavimo laikotarpiu. ^s-e1184ec9414a34b4c6676bfc
 
 
 Šio straipsnio penktojoje dalyje nurodytų asmenų sutuoktiniams ir vaikams nukentėjusiųjų asmenų valstybinė našlių ir našlaičių pensija mokama tokiomis pačiomis sąlygomis ir gavėjui priklausiusios nukentėjusiųjų asmenų valstybinės pensijos dalimis, kaip nurodyta [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] straipsniuose, reglamentuojančiuose valstybines socialinio draudimo našlių ir našlaičių pensijas. Jei žuvusiam (mirusiam) asmeniui nebuvo paskirta nukentėjusiųjų asmenų valstybinė pensija, nustatant našlių ir našlaičių pensijos dydį laikoma, kad žuvusiam (mirusiam) asmeniui priklausė 1,5 valstybinių pensijų bazės.“
@@ -308,7 +308,7 @@ MOKSLININKŲ VALSTYBINIŲ PENSIJŲ LAIKINOJO ĮSTATYMO 3 STRAIPSNIO PAKEITIMAS
 
 
 ### KETVIRTASIS SKIRSNIS ^s-999c8fb47677ec8db68fb2e7
-Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo 3 IR [[#^s-fbea0f575f4448dbae92667c|8 STRAIPSNIŲ]] PAKEITIMAS
+[Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900) [3](https://e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900) IR [8](https://e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900) STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2003, Nr. 114-5116; 2004, Nr. 117-4373, Nr. 171-6299)
 
@@ -373,7 +373,7 @@ Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įsta
 
 
 ### ŠEŠTASIS SKIRSNIS ^s-ebbfed2a0a5d95a182f40450
-[[latest/TAR.1F58348F79F7#^s-b3d270ebed2c52f30e9fa90e|Pensijų kaupimo įstatymo 15 IR 25 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatymo]] [[latest/TAR.1F58348F79F7#^s-9f24260230df10c6691904ce|15]] IR [[latest/TAR.1F58348F79F7#^s-b3d270ebed2c52f30e9fa90e|25]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2003, Nr. 75-3472; 2004, Nr. 96-3521, Nr. 171-6301)
 
@@ -438,7 +438,7 @@ Vyriausybė iki 2005 m. liepos 1 d. parengia ir patvirtina šiam įstatymui įgy
 ### 3 straipsnis. Teisės akto pripažinimas netekusiu galios ^s-e901bd51b93e7b94bd141a02
 
 
-Įsigaliojus šiam įstatymui, netenka galios [[latest/TAR.ED38F243563C#^s-4f5423281768c8939d76bcc2|Lietuvos Respublikos valstybinių pensijų įstatymo 11, 12 ir 14 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 2005, Nr. 7-188).
+Įsigaliojus šiam įstatymui, netenka galios [Lietuvos Respublikos valstybinių pensijų įstatymo 11, 12 ir 14 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.026E5CEF98D7) (Žin., 2005, Nr. 7-188).
 
 
 

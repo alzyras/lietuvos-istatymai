@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A0BAB27D768C#^s-0478329cb645aeaca36557fe|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.A0BAB27D768C#^s-0478329cb645aeaca36557fe|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymas]] - LIETUVOS RESPUBLIKOS NACIONALINIO SAUGUMO PAGRINDŲ ĮSTATYMO PRIEDĖLIO PAPILDYMO ĮSTATYMAS

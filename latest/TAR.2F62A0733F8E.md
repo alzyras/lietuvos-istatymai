@@ -72,7 +72,7 @@ Lietuvos valstybė palaiko kooperatinį judėjimą, pripažįsta kooperatinių b
 2. Kooperatinė bendrovė – įstatymų nustatyta tvarka fizinių ir (arba) juridinių asmenų įsteigta įmonė, skirta narių ekonominiams, socialiniams bei kultūriniams poreikiams tenkinti. Jos nariai įneša lėšas kapitalui sudaryti, tarpusavyje pasiskirsto riziką bei naudą pagal narių prekių ir paslaugų apyvartą su šia bendrove ir aktyviai dalyvauja kooperatinės bendrovės valdyme. ^s-b2693e835bdc4ae8dbe21432
 
 
-3. Pajaus vardinis dokumentas – dokumentas, patvirtinantis asmens dalyvavimą sudarant kooperatinės bendrovės kapitalą ir šio Įstatymo nustatytus kooperatinės bendrovės įsipareigojimus kooperatinės bendrovės nariui. Kooperatinės bendrovės pajams Vertybinių popierių rinkos įstatymas netaikomas. ^s-914bb4647f803516e23ebb32
+3. Pajaus vardinis dokumentas – dokumentas, patvirtinantis asmens dalyvavimą sudarant kooperatinės bendrovės kapitalą ir šio Įstatymo nustatytus kooperatinės bendrovės įsipareigojimus kooperatinės bendrovės nariui. Kooperatinės bendrovės pajams [Vertybinių popierių rinkos įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) netaikomas. ^s-914bb4647f803516e23ebb32
 
 
 4. Pajinis įnašas – asmens piniginis arba nepiniginis turtinis įnašas į kooperatinę bendrovę. ^s-5e9a3b9a62ac76a8d2a44a81

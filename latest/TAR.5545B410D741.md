@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 8 straipsnio pakeitimas ir papildymas ^s-e7b6a95b526f8a9cbb1f0182
 
 
-8 straipsnį papildyti nauja [[#^s-d85b2d3a1ffc793cd9c7e05c|4 dalimi]], buvusias 4 ir [[#^s-f0cee3f7c9ed554d0800bc17|5 dalis]] laikyti atitinkamai 5 ir [[#^s-facbfbffc5dfae65b42abb40|6 dalimis]], straipsnį papildyti naujomis 7 ir [[#^s-1ec5a8ea6998f5fcf309affc|8 dalimis]], buvusias 6, 7, 8 ir [[#^s-72a8cefdc0f7d6c3f400026f|9 dalis]] laikyti atitinkamai 9, 10, 11 ir [[#^s-5656e9d098b5e4479617ccb6|12 dalimis]], [[#^s-72a8cefdc0f7d6c3f400026f|9 dalyje]] vietoj žodžių „šio įstatymo įsigaliojimo dienos“ įrašyti žodžius „Seimo Švietimo, mokslo ir kultūros komiteto kreipimosi dienos“, [[#^s-d1ffe9c7f5d566f6bf18935b|10 dalį]] papildyti ir šį straipsnį išdėstyti taip:
+8 straipsnį papildyti nauja [[#^s-d85b2d3a1ffc793cd9c7e05c|4 dalimi]], buvusias 4 ir 5 dalis laikyti atitinkamai 5 ir 6 dalimis, straipsnį papildyti naujomis 7 ir 8 dalimis, buvusias [[#^s-facbfbffc5dfae65b42abb40|6]], [[#^s-89df0b3a1aa60254ba1c5d1e|7]], [[#^s-1ec5a8ea6998f5fcf309affc|8]] ir [[#^s-72a8cefdc0f7d6c3f400026f|9]] dalis laikyti atitinkamai [[#^s-72a8cefdc0f7d6c3f400026f|9]], [[#^s-d1ffe9c7f5d566f6bf18935b|10]], [[#^s-aee5573355ef1b701309a4bb|11]] ir [[#^s-5656e9d098b5e4479617ccb6|12]] dalimis, [[#^s-72a8cefdc0f7d6c3f400026f|9 dalyje]] vietoj žodžių „šio įstatymo įsigaliojimo dienos“ įrašyti žodžius „Seimo Švietimo, mokslo ir kultūros komiteto kreipimosi dienos“, [[#^s-d1ffe9c7f5d566f6bf18935b|10 dalį]] papildyti ir šį straipsnį išdėstyti taip:
 
 
 „8 straipsnis. Lietuvos nacionalinio radijo ir televizijos tarybos sudarymo tvarka

@@ -79,7 +79,7 @@ Nr. XV-373, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12028
 
 
 
-5. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos Lietuvos Respublikos kelių transporto kodekse, [[latest/TAR.BF41D2C35D24|Lietuvos Respublikos kelių įstatyme]], [[latest/TAR.5DC1759E42CB|Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme]], Lietuvos Respublikos žemės ūkio, maisto ūkio, kaimo plėtros įstatyme, [[latest/b5c313d0986d11eb9fecb5ecd3bd711c|Lietuvos Respublikos alternatyviųjų degalų įstatyme]]. ^s-349eb5344dfa816ead51db37
+5. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžiamos [Lietuvos Respublikos kelių transporto kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C), [[latest/TAR.BF41D2C35D24|Lietuvos Respublikos kelių įstatyme]], [[latest/TAR.5DC1759E42CB|Lietuvos Respublikos saugaus eismo automobilių keliais įstatyme]], Lietuvos Respublikos žemės ūkio, maisto ūkio, kaimo plėtros įstatyme, [[latest/b5c313d0986d11eb9fecb5ecd3bd711c|Lietuvos Respublikos alternatyviųjų degalų įstatyme]]. ^s-349eb5344dfa816ead51db37
 Straipsnio dalies pakeitimai:
 Nr. XIV-1704, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27296
 
@@ -366,7 +366,7 @@ Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
 
 
 
-4. Programos finansavimo lėšos naudojamos pagal per vieną mėnesį nuo valstybės biudžeto patvirtinimo Vyriausybės patvirtintą 3 metų Programos finansavimo lėšų naudojimo sąmatą, kuri rengiama vadovaujantis Susisiekimo ministerijos strateginiu veiklos planu. Iki 3 metų Programos finansavimo lėšų naudojimo sąmatos laikotarpio pirmųjų metų pabaigos akcinė bendrovė „Via Lietuva“ ir savivaldybių institucijos gali pasirašyti sutarčių dėl antraisiais ir trečiaisiais metais planuojamo šio straipsnio 1 ir [[#^s-3ec9e7da969f0d87f6d2ecc9|2 dalyse]] numatytų veiklų finansavimo už ne didesnę kaip 80 procentų atitinkamų metų Programos finansavimo lėšų sumą. 3 metų Programos finansavimo lėšų naudojimo sąmata sudaroma ir vykdoma Vyriausybės nustatyta tvarka. ^s-75096ab903657001a6828e3c
+4. Programos finansavimo lėšos naudojamos pagal per vieną mėnesį nuo valstybės biudžeto patvirtinimo Vyriausybės patvirtintą 3 metų Programos finansavimo lėšų naudojimo sąmatą, kuri rengiama vadovaujantis Susisiekimo ministerijos strateginiu veiklos planu. Iki 3 metų Programos finansavimo lėšų naudojimo sąmatos laikotarpio pirmųjų metų pabaigos akcinė bendrovė „Via Lietuva“ ir savivaldybių institucijos gali pasirašyti sutarčių dėl antraisiais ir trečiaisiais metais planuojamo šio straipsnio [[#^s-c209ace09d91b70c24079a1f|1]] ir [[#^s-3ec9e7da969f0d87f6d2ecc9|2]] dalyse numatytų veiklų finansavimo už ne didesnę kaip 80 procentų atitinkamų metų Programos finansavimo lėšų sumą. 3 metų Programos finansavimo lėšų naudojimo sąmata sudaroma ir vykdoma Vyriausybės nustatyta tvarka. ^s-75096ab903657001a6828e3c
 Straipsnio dalies pakeitimai:
 Nr. XIV-663, 2021-11-18, paskelbta TAR 2021-12-02, i. k. 2021-25029
 Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
@@ -655,7 +655,7 @@ kelių priežiūros ir plėtros programos finansavimo įstatymo
 
 
 
-1999 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra infrastruktūra su paskutiniais pakeitimais, padarytais 2022 m. vasario 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/362.
+1999 m. birželio 17 d. Europos Parlamento ir Tarybos direktyva 1999/62/EB dėl sunkiasvorių krovininių transporto priemonių apmokestinimo už naudojimąsi tam tikra infrastruktūra su paskutiniais pakeitimais, padarytais 2022 m. vasario 24 d. Europos Parlamento ir Tarybos [direktyva (ES) 2022/362](https://eur-lex.europa.eu/eli/dir/2022/362/oj).
 
 
 ____________________
@@ -776,7 +776,7 @@ Nr. XI-109, 2008-12-23, Žin., 2008, Nr. 149-6031 (2008-12-30)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1292, 2011-03-22, Žin., 2011, Nr. 40-1916 (2011-04-05)
 [[latest/TAR.79C4B23283D3|KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 2, 3, 7, 9 IR 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-d5c0854840629e86874e1a44|šio straipsnio 2 dalį]], įsigalioja 2012 m. sausio 1 d.
+Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2012 m. sausio 1 d.
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -799,7 +799,7 @@ Pakeitimas:
 21.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1081, 2014-07-17, paskelbta TAR 2014-07-23, i. k. 2014-10450
-[[#^s-7502204d14a114c43341d13a|LIETUVOS RESPUBLIKOS KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO 10 STRAIPSNIO]] PAKEITIMO [[latest/0103f80089da11e397b5c02d3197f382|ĮSTATYMO NR. XII-696]] 1 IR [[#^s-185281392ea88d1adb070310|2 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS KELIŲ PRIEŽIŪROS IR PLĖTROS PROGRAMOS FINANSAVIMO ĮSTATYMO [[#^s-7502204d14a114c43341d13a|10 STRAIPSNIO]] PAKEITIMO [[latest/0103f80089da11e397b5c02d3197f382|ĮSTATYMO NR. XII-696]] [[#^s-72259942140e4e28adb84f9c|1]] IR [[#^s-185281392ea88d1adb070310|2]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -840,7 +840,7 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-812, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20006
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 1 ir [[#^s-fff9ac03b125ec596c551359|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-72259942140e4e28adb84f9c|1]] ir [[#^s-fff9ac03b125ec596c551359|4]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -850,17 +850,17 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2119, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08303
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 6 ir [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-45bc96c6f43d292547e4b825|6]] ir [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2242, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10367
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 3, 5, 6, 7, [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] ir 3 priedo pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-e44bb097e42beffeb0536f66|3]], [[#^s-c231e675925191be4ea5e4f0|5]], [[#^s-45bc96c6f43d292547e4b825|6]], [[#^s-417d1969b9534612965d9fc7|7]], [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių ir 3 priedo pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2120, 2019-05-16, paskelbta TAR 2019-05-24, i. k. 2019-08304
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 4 ir [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-fff9ac03b125ec596c551359|4]] ir [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -870,17 +870,17 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 12.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
-Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/fad428d01ea411ebb0038a8cd8ff585f)
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3420, 2020-11-10, paskelbta TAR 2020-11-18, i. k. 2020-24269
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] ir 2, 5 priedų pakeitimo ir įstatymo papildymo 6-1 straipsniu įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-185281392ea88d1adb070310|2]], [[#^s-45bc96c6f43d292547e4b825|6]], [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių ir 2, 5 priedų pakeitimo ir įstatymo papildymo 6-1 straipsniu įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-865, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27771
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 8, [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]], 3 priedo pakeitimo ir 3, [[#^s-fff9ac03b125ec596c551359|4 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-185281392ea88d1adb070310|2]], [[#^s-b17698d6adcd501861b647fe|8]], [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių, 3 priedo pakeitimo ir [[#^s-e44bb097e42beffeb0536f66|3]], [[#^s-fff9ac03b125ec596c551359|4]] straipsnių pripažinimo netekusiais galios įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -890,22 +890,22 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1702, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27285
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] ir 2, 5 priedų pakeitimo įstatymo Nr. XIII-3420 pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-185281392ea88d1adb070310|2]], [[#^s-45bc96c6f43d292547e4b825|6]], [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių ir 2, 5 priedų pakeitimo [įstatymo Nr. XIII-3420](https://e-tar.lt/portal/lt/legalAct/765194a029a611eb932eb1ed7f923910) pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1704, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27296
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2 ir [[#^s-45bc96c6f43d292547e4b825|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-185281392ea88d1adb070310|2]] ir [[#^s-45bc96c6f43d292547e4b825|6]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1674, 2022-12-13, paskelbta TAR 2022-12-29, i. k. 2022-27265
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 9 ir 9-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-fbea89efad57416ac4150a7e|9]] ir 9-1 straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2037, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12399
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 6, 8, [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] ir 2, 5 priedų pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-45bc96c6f43d292547e4b825|6]], [[#^s-b17698d6adcd501861b647fe|8]], [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių ir 2, 5 priedų pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -915,37 +915,37 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2312, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24180
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 [[#^s-417d1969b9534612965d9fc7|7 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-185281392ea88d1adb070310|2]], [[#^s-45bc96c6f43d292547e4b825|6]], [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu [įstatymo Nr. XIII-3420](https://e-tar.lt/portal/lt/legalAct/765194a029a611eb932eb1ed7f923910) [[#^s-417d1969b9534612965d9fc7|7 straipsnio]] pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2935, 2024-07-16, paskelbta TAR 2024-07-25, i. k. 2024-13608
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 [[#^s-417d1969b9534612965d9fc7|7 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-185281392ea88d1adb070310|2]], [[#^s-45bc96c6f43d292547e4b825|6]], [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu [įstatymo Nr. XIII-3420](https://e-tar.lt/portal/lt/legalAct/765194a029a611eb932eb1ed7f923910) [[#^s-417d1969b9534612965d9fc7|7 straipsnio]] pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-33, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22086
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 [[#^s-417d1969b9534612965d9fc7|7 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-185281392ea88d1adb070310|2]], [[#^s-45bc96c6f43d292547e4b825|6]], [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu [įstatymo Nr. XIII-3420](https://e-tar.lt/portal/lt/legalAct/765194a029a611eb932eb1ed7f923910) [[#^s-417d1969b9534612965d9fc7|7 straipsnio]] pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-111, 2025-01-14, paskelbta TAR 2025-01-21, i. k. 2025-00692
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 6, 7, 8 ir [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-45bc96c6f43d292547e4b825|6]], [[#^s-417d1969b9534612965d9fc7|7]], [[#^s-b17698d6adcd501861b647fe|8]] ir [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-374, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12029
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 6, 7, 8 ir [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] pakeitimo ir Įstatymo papildymo 7-1 straipsniu [[latest/038891e0d80611efa5ddd96c482819f5|įstatymo Nr. XV-111]] 2, 3, [[#^s-45bc96c6f43d292547e4b825|6 straipsnių]] pakeitimo ir [[#^s-72259942140e4e28adb84f9c|1 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-45bc96c6f43d292547e4b825|6]], [[#^s-417d1969b9534612965d9fc7|7]], [[#^s-b17698d6adcd501861b647fe|8]] ir [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu [[latest/038891e0d80611efa5ddd96c482819f5|įstatymo Nr. XV-111]] [[#^s-185281392ea88d1adb070310|2]], [[#^s-e44bb097e42beffeb0536f66|3]], [[#^s-45bc96c6f43d292547e4b825|6]] straipsnių pakeitimo ir [[#^s-72259942140e4e28adb84f9c|1 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-373, 2025-06-30, paskelbta TAR 2025-06-30, i. k. 2025-12028
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, 8, [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]], 5 priedo pakeitimo ir 5, 7, 7-1 straipsnių, 1, 3, 4 priedų pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-185281392ea88d1adb070310|2]], [[#^s-45bc96c6f43d292547e4b825|6]], [[#^s-b17698d6adcd501861b647fe|8]], [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių, 5 priedo pakeitimo ir [[#^s-c231e675925191be4ea5e4f0|5]], [[#^s-417d1969b9534612965d9fc7|7]], 7-1 straipsnių, 1, 3, 4 priedų pripažinimo netekusiais galios įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-634, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21467
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 [[#^s-417d1969b9534612965d9fc7|7 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-185281392ea88d1adb070310|2]], [[#^s-45bc96c6f43d292547e4b825|6]], [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu [įstatymo Nr. XIII-3420](https://e-tar.lt/portal/lt/legalAct/765194a029a611eb932eb1ed7f923910) [[#^s-417d1969b9534612965d9fc7|7 straipsnio]] pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -955,7 +955,7 @@ Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įsta
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-663, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22535
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 2 ir [[#^s-fff9ac03b125ec596c551359|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-185281392ea88d1adb070310|2]], [[#^s-45bc96c6f43d292547e4b825|6]], [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu [įstatymo Nr. XIII-3420](https://e-tar.lt/portal/lt/legalAct/765194a029a611eb932eb1ed7f923910) [[#^s-185281392ea88d1adb070310|2]] ir [[#^s-fff9ac03b125ec596c551359|4]] straipsnių pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -965,14 +965,14 @@ Lietuvos Respublikos Kelių priežiūros ir plėtros programos finansavimo įsta
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-662, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22534
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 6 ir [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-45bc96c6f43d292547e4b825|6]] ir [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių pakeitimo įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1097, 2026-06-30, paskelbta TAR 2026-06-30, i. k. 2026-11343
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 6, 8, [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] pakeitimo ir 2 priedo pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-45bc96c6f43d292547e4b825|6]], [[#^s-b17698d6adcd501861b647fe|8]], [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių pakeitimo ir 2 priedo pripažinimo netekusiu galios įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1096, 2026-06-30, paskelbta TAR 2026-06-30, i. k. 2026-11342
-Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 2, 6, [[#^s-fbea89efad57416ac4150a7e|9 straipsnių]] ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymo Nr. XIII-3420 [[#^s-185281392ea88d1adb070310|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos kelių priežiūros ir plėtros programos finansavimo įstatymo Nr. VIII-2032 [[#^s-185281392ea88d1adb070310|2]], [[#^s-45bc96c6f43d292547e4b825|6]], [[#^s-fbea89efad57416ac4150a7e|9]] straipsnių ir 2, 5 priedų pakeitimo ir Įstatymo papildymo 6-1 straipsniu [įstatymo Nr. XIII-3420](https://e-tar.lt/portal/lt/legalAct/765194a029a611eb932eb1ed7f923910) [[#^s-185281392ea88d1adb070310|2 straipsnio]] pakeitimo įstatymas

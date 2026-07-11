@@ -96,7 +96,7 @@ Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 
 
 2. Bendrai gyvenantys asmenys – sutuoktiniai ir jų vaikai (įvaikiai) iki 18 metų; susituokęs asmuo, su kuriuo teismo sprendimu dėl sutuoktinių gyvenimo skyrium yra likę gyventi jų nepilnamečiai vaikai (įvaikiai), arba vienas iš tėvų ir jo vaikai (įvaikiai) iki 18 metų; neįregistravę santuokos ir bendrą ūkį tvarkantys pilnamečiai ar veiksniais pripažinti nepilnamečiai vyras ir moteris ir jų vaikai (įvaikiai) iki 18 metų. Į bendrai gyvenančių asmenų sudėtį taip pat įskaitomi dirbantys (taip pat savarankiškai dirbantys), jeigu per mėnesį jų gaunamos pajamos yra mažesnės kaip 1 valstybės remiamų pajamų dydis, arba nedirbantys (taip pat savarankiškai nedirbantys) nesusituokę ir savo vaikų (įvaikių) neauginantys pilnamečiai vaikai (įvaikiai) iki 24 metų, kurie mokosi pagal bendrojo ugdymo programą ar pagal formaliojo profesinio mokymo programą arba studijuoja aukštojoje mokykloje (studentai), įskaitant akademinių atostogų dėl ligos ar nėštumo laikotarpį, taip pat pilnamečiai vaikai (įvaikiai) nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, o kai švietimo įstaigose nustatoma vėlesnė mokslo ar studijų metų pradžia negu rugsėjo 1 diena, pilnamečiai vaikai (įvaikiai), tais pačiais kalendoriniais metais baigę bendrojo ugdymo programą ir įstoję mokytis pagal formaliojo profesinio mokymo programą ar studijuoti į aukštąją mokyklą, į bendrai gyvenančių asmenų sudėtį įskaitomi ir laikotarpiu nuo rugsėjo 1 dienos iki dienos, kurią švietimo įstaigose prasideda mokslo ar studijų metai. ^s-b5d88129b0c34f9478e7ac1f
-TAR pastaba. [[#^s-b5d88129b0c34f9478e7ac1f|2 dalies]] nuostatos taikomos skiriant piniginę socialinę paramą nuo 2020 m. rugsėjo 1 d.
+TAR pastaba. 2 dalies nuostatos taikomos skiriant piniginę socialinę paramą nuo 2020 m. rugsėjo 1 d.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3375, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23942
 
@@ -296,7 +296,7 @@ Bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į socialin�
 1) bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio įstatymo [[#^s-9e7527b196827d43f9eed931|14 straipsnyje]], vertė neviršija turto vertės normatyvo. Jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio įstatymo [[#^s-9e7527b196827d43f9eed931|14 straipsnyje]], vertė viršija turto vertės normatyvą, nustatant teisę į socialinę pašalpą, kai kreiptasi pirmą kartą arba praėjus ne mažiau kaip 24 mėnesiams nuo paskutinio mėnesio, už kurį socialinė pašalpa buvo paskirta, šis reikalavimas 3 mėnesius netaikomas; ^s-99ceeb37c3417e927c50ac34
 
 
-2) vidutinės pajamos, nurodytos ir apskaičiuotos pagal šio įstatymo 17 ir [[#^s-d28e1a088e96f78833048d2a|18 straipsnius]], tenkančios vienam iš bendrai gyvenančių asmenų arba vienam gyvenančiam asmeniui per mėnesį, yra mažesnės kaip 1,1 valstybės remiamų pajamų dydžio; ^s-08bc8a8795665dac50170c56
+2) vidutinės pajamos, nurodytos ir apskaičiuotos pagal šio įstatymo [[#^s-2d00a5208f3ad1378d7f9909|17]] ir [[#^s-d28e1a088e96f78833048d2a|18]] straipsnius, tenkančios vienam iš bendrai gyvenančių asmenų arba vienam gyvenančiam asmeniui per mėnesį, yra mažesnės kaip 1,1 valstybės remiamų pajamų dydžio; ^s-08bc8a8795665dac50170c56
 
 
 3) kiekvienas vyresnis kaip 18 metų bendrai gyvenantis asmuo, vienas gyvenantis asmuo arba vaikas (įvaikis) nuo 16 iki 18 metų atitinka bent vieną iš šio įstatymo [[#^s-79691962a03e9a75361d79dd|8 straipsnyje]] nurodytų sąlygų, kurioms esant bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į piniginę socialinę paramą. ^s-cbe93995c01770f23fe2c28d
@@ -310,7 +310,7 @@ Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
 ### 7 straipsnis. Teisė į kompensacijas ^s-ed3747d13c3910463cc49d63
 
 
-1. Gyvenamąją vietą būste deklaravę arba būstą nuomojantys bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į kompensacijas, jeigu kreipimosi dėl kompensacijų metu atitinka visus šiuos reikalavimus: ^s-4c77b9eb08129116107108bc
+1. Gyvenamąją vietą būste deklaravę arba būstą nuomojantys bendrai gyvenantys asmenys arba vienas gyvenantis asmuo turi teisę į kompensacijas, jeigu kreipimosi [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) metu atitinka visus šiuos reikalavimus: ^s-4c77b9eb08129116107108bc
 
 
 1) bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio įstatymo [[#^s-9e7527b196827d43f9eed931|14 straipsnyje]], vertė neviršija turto vertės normatyvo. Jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens nuosavybės teise turimo turto, nurodyto šio įstatymo [[#^s-9e7527b196827d43f9eed931|14 straipsnyje]], vertė viršija turto vertės normatyvą, nustatant teisę į kompensacijas, kai kreiptasi pirmą kartą arba praėjus ne mažiau kaip 24 mėnesiams nuo paskutinio mėnesio, už kurį kompensacijos buvo paskirtos,  šis reikalavimas 3 mėnesius netaikomas; ^s-b6a593677510c068a3080871
@@ -587,10 +587,10 @@ Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 3. Darbingo amžiaus darbingiems, bet nedirbantiems (taip pat savarankiškai nedirbantiems) asmenims socialinės pašalpos dydis nemažinimas, jeigu yra bent vienas iš šių atvejų, kai jie: ^s-edd0960ac1fc353b9106ea94
 
 
-1) nedirba dėl priežasčių, nurodytų šio įstatymo [[#^s-1f5a204f040dfe124a63d574|8 straipsnio 1 dalies]] 2, 3, 5, 6, 7, 8, 9, 10 ir 11 punktuose; ^s-ba4a0453b43b7f9fb97c73ec
+1) nedirba dėl priežasčių, nurodytų šio įstatymo [[#^s-1f5a204f040dfe124a63d574|8 straipsnio 1 dalies]] [[#^s-dde625895b14ddbe724ec6a1|2]], [[#^s-24432db52580d800f191aa4c|3]], [[#^s-1f46ae0d457f15624246f8bf|5]], [[#^s-b3feeefa1aca21d0f393e8eb|6]], [[#^s-9ba96f4294ded5293c8219f5|7]], [[#^s-189058a6001056078b10dfbc|8]], [[#^s-276a46625ae6f2925d79aebb|9]], [[#^s-59d1b82c48f1c14fdac80a2c|10]] ir [[#^s-5f5c5636fc7f448e1ce419d3|11]] punktuose; ^s-ba4a0453b43b7f9fb97c73ec
 
 
-2) [[#^s-ee342018a974a3bd24ad86bf|šio straipsnio 2 dalies]] 1–5 punktuose nurodytu socialinės pašalpos teikimo laikotarpiu negavo Užimtumo tarnybos ar kitos valstybės valstybinės įdarbinimo tarnybos pasiūlymo dirbti arba dalyvauti aktyvios darbo rinkos politikos priemonėse; ^s-e6f8e0d7acd5e11dad260ce1
+2) [[#^s-ee342018a974a3bd24ad86bf|šio straipsnio 2 dalies]] [[#^s-ba4a0453b43b7f9fb97c73ec|1]]–5 punktuose nurodytu socialinės pašalpos teikimo laikotarpiu negavo Užimtumo tarnybos ar kitos valstybės valstybinės įdarbinimo tarnybos pasiūlymo dirbti arba dalyvauti aktyvios darbo rinkos politikos priemonėse; ^s-e6f8e0d7acd5e11dad260ce1
 
 
 3) Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka dalyvauja savivaldybės administracijos organizuojamoje visuomenei naudingoje veikloje ir (ar) savivaldybės administracijos parengtoje užimtumo didinimo programoje. ^s-f3112d299a3f17de0ff1ed29
@@ -951,7 +951,7 @@ Nr. XIV-160, 2021-01-12, paskelbta TAR 2021-01-19, i. k. 2021-00837
 
 
 
-2. Apskaičiuojant [[#^s-fd76c3a1431cb9674a62b6c4|šio straipsnio 1 dalyje]] nurodytas vidutines mėnesio pajamas, į bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamas neįskaitoma [[#^s-fd76c3a1431cb9674a62b6c4|šio straipsnio 1 dalies]] 1, 7, 71 ir 23 punktuose nurodytų pajamų dalis: ^s-2077993d955524afa3fafd09
+2. Apskaičiuojant [[#^s-fd76c3a1431cb9674a62b6c4|šio straipsnio 1 dalyje]] nurodytas vidutines mėnesio pajamas, į bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamas neįskaitoma [[#^s-fd76c3a1431cb9674a62b6c4|šio straipsnio 1 dalies]] [[#^s-13ed4e52119999ef7a0af2b9|1]], 7, 71 ir 23 punktuose nurodytų pajamų dalis: ^s-2077993d955524afa3fafd09
 
 
 1) 20 procentų – bendrai gyvenantiems asmenims, neauginantiems vaikų (įvaikių), arba vienam gyvenančiam asmeniui; ^s-13ed4e52119999ef7a0af2b9
@@ -1086,13 +1086,13 @@ Nr. XII-329, 2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
 2. [[#^s-1b10f11a23e05431e912bcac|Šio straipsnio 1 dalies 2 punkte]] nustatyta tvarka netaikoma, jeigu per 3 praėjusius mėnesius iki mėnesio, nuo kurio skiriama socialinė pašalpa, buvo gauta vienkartinė išmoka ar iš karto už 2 ir daugiau mėnesių išmokėtos kas mėnesį gaunamos pajamos. ^s-172e432d07445237d3aeb462
 
 
-3. Jeigu vienam iš bendrai gyvenančių asmenų socialinė pašalpa pagal šio įstatymo [[#^s-b183729b0c387dc0456738ca|8 straipsnio 5 dalies]] 2 ar 6 punktą neteikiama, apskaičiuojant bendrai gyvenančių asmenų vidutines mėnesio pajamas, jam tenkanti pajamų dalis iš bendrai gyvenančių asmenų pajamų atimama ir socialinė pašalpa skiriama likusiems bendrai gyvenantiems asmenims. ^s-bfa69cd57b921a372480ee23
+3. Jeigu vienam iš bendrai gyvenančių asmenų socialinė pašalpa pagal šio įstatymo [[#^s-b183729b0c387dc0456738ca|8 straipsnio 5 dalies]] [[#^s-c9e991478995f75050ce3170|2]] ar [[#^s-5ab9c4abe6650630f8d845bf|6]] punktą neteikiama, apskaičiuojant bendrai gyvenančių asmenų vidutines mėnesio pajamas, jam tenkanti pajamų dalis iš bendrai gyvenančių asmenų pajamų atimama ir socialinė pašalpa skiriama likusiems bendrai gyvenantiems asmenims. ^s-bfa69cd57b921a372480ee23
 Straipsnio dalies pakeitimai:
 Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 
 
 
-4. Jeigu vienam iš bendrai gyvenančių asmenų socialinė pašalpa pagal šio įstatymo [[#^s-b183729b0c387dc0456738ca|8 straipsnio 5 dalies]] 1, 3 ar 4 punktą neteikiama, apskaičiuojant bendrai gyvenančių asmenų vidutines mėnesio pajamas, šio asmens gaunamos pajamos į bendrai gyvenančių asmenų pajamas neįskaitomos ir jam tenkanti pajamų dalis nenustatoma, o socialinė pašalpa skiriama likusiems bendrai gyvenantiems asmenims. ^s-1551b49fe492d097888f1a51
+4. Jeigu vienam iš bendrai gyvenančių asmenų socialinė pašalpa pagal šio įstatymo [[#^s-b183729b0c387dc0456738ca|8 straipsnio 5 dalies]] [[#^s-b2f028f2e188ec1ce6ccd619|1]], [[#^s-c611480946c20e4223e06248|3]] ar [[#^s-ee625aaa3b2d6e0ca672c948|4]] punktą neteikiama, apskaičiuojant bendrai gyvenančių asmenų vidutines mėnesio pajamas, šio asmens gaunamos pajamos į bendrai gyvenančių asmenų pajamas neįskaitomos ir jam tenkanti pajamų dalis nenustatoma, o socialinė pašalpa skiriama likusiems bendrai gyvenantiems asmenims. ^s-1551b49fe492d097888f1a51
 
 
 
@@ -1102,7 +1102,7 @@ Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 1. Būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijos apskaičiuojamos pagal visų bendrai gyvenančių asmenų vidutinių mėnesio pajamų dalį, tenkančią būste gyvenamąją vietą deklaravusiems ar būstą nuomojantiems bendrai gyvenantiems asmenims, arba pagal gyvenamąją vietą deklaravusio ar būstą nuomojančio vieno gyvenančio asmens vidutines mėnesio pajamas. ^s-2e0712ea4e537256a7ad0cd2
 
 
-2. Bendrai gyvenančių asmenų arba vieno gyvenančio asmens mėnesio pajamos būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijoms gauti apskaičiuojamos šio įstatymo [[#^s-d28e1a088e96f78833048d2a|18 straipsnio]] 1 ir [[#^s-f6e422085318131f66991060|2 dalyse]] nustatyta tvarka. ^s-f6e422085318131f66991060
+2. Bendrai gyvenančių asmenų arba vieno gyvenančio asmens mėnesio pajamos būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijoms gauti apskaičiuojamos šio įstatymo [[#^s-d28e1a088e96f78833048d2a|18 straipsnio]] [[#^s-969c454d2215403f291c0061|1]] ir [[#^s-172e432d07445237d3aeb462|2]] dalyse nustatyta tvarka. ^s-f6e422085318131f66991060
 
 
 3. Socialinę pašalpą gaunantiems bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijos apskaičiuojamos pagal pajamas, kurios paskutinį kartą buvo nurodytos skiriant socialinę pašalpą, įskaitant pagal šias pajamas paskirtos socialinės pašalpos dydį, ir skiriamos paskirtos socialinės pašalpos laikotarpiui. ^s-18c7a83d3023330bec72b900
@@ -1114,13 +1114,13 @@ Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 5. Jeigu viename būste gyvenamąją vietą yra deklaravę ar būstą nuomojasi bendrai gyvenantys asmenys ir vienas gyvenantis asmuo ir (arba) dvi ar daugiau bendrai gyvenančių asmenų grupių, ir (arba) du ar daugiau vienų gyvenančių asmenų, kurie už komunalines paslaugas atsiskaito pagal vieną sąskaitą (atsiskaitomąją knygelę), visų būste gyvenamąją vietą deklaravusių ar būstą nuomojančių asmenų vidutinės mėnesio pajamos apskaičiuojamos sudedant kiekvienos bendrai gyvenančių asmenų grupės šiame būste gyvenamąją vietą deklaravusiems ar būstą nuomojantiems bendrai gyvenantiems asmenims tenkančią vidutinių mėnesio pajamų dalį ir (arba) vienų gyvenančių asmenų vidutines mėnesio pajamas, prieš tai atėmus jiems (jam) tenkančių valstybės remiamų pajamų dydį. ^s-a1956c6b0f2d28eca34f8af1
 
 
-6. Jeigu vienam iš bendrai gyvenančių asmenų būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijos pagal šio įstatymo [[#^s-b183729b0c387dc0456738ca|8 straipsnio 5 dalies]] 2 ar 6 punktą neteikiamos, apskaičiuojant bendrai gyvenančių asmenų vidutines mėnesio pajamas, jam tenkanti pajamų dalis iš bendrai gyvenančių asmenų pajamų atimama ir kompensacijos skiriamos likusiems bendrai gyvenantiems asmenims. ^s-9d03297cce8c0b3179a8c1b9
+6. Jeigu vienam iš bendrai gyvenančių asmenų būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijos pagal šio įstatymo [[#^s-b183729b0c387dc0456738ca|8 straipsnio 5 dalies]] [[#^s-c9e991478995f75050ce3170|2]] ar [[#^s-5ab9c4abe6650630f8d845bf|6]] punktą neteikiamos, apskaičiuojant bendrai gyvenančių asmenų vidutines mėnesio pajamas, jam tenkanti pajamų dalis iš bendrai gyvenančių asmenų pajamų atimama ir kompensacijos skiriamos likusiems bendrai gyvenantiems asmenims. ^s-9d03297cce8c0b3179a8c1b9
 Straipsnio dalies pakeitimai:
 Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 
 
 
-7. Jeigu vienam iš bendrai gyvenančių asmenų būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijos pagal šio įstatymo [[#^s-b183729b0c387dc0456738ca|8 straipsnio 5 dalies]] 1, 3 ar 4 punktą neteikiamos, apskaičiuojant bendrai gyvenančių asmenų vidutines mėnesio pajamas, šio asmens gaunamos pajamos į bendrai gyvenančių asmenų pajamas neįskaitomos ir jam tenkanti pajamų dalis nenustatoma, o kompensacijos skiriamos likusiems bendrai gyvenantiems asmenims. ^s-3390759e0edf3ee74b5c9fa7
+7. Jeigu vienam iš bendrai gyvenančių asmenų būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijos pagal šio įstatymo [[#^s-b183729b0c387dc0456738ca|8 straipsnio 5 dalies]] [[#^s-b2f028f2e188ec1ce6ccd619|1]], [[#^s-c611480946c20e4223e06248|3]] ar [[#^s-ee625aaa3b2d6e0ca672c948|4]] punktą neteikiamos, apskaičiuojant bendrai gyvenančių asmenų vidutines mėnesio pajamas, šio asmens gaunamos pajamos į bendrai gyvenančių asmenų pajamas neįskaitomos ir jam tenkanti pajamų dalis nenustatoma, o kompensacijos skiriamos likusiems bendrai gyvenantiems asmenims. ^s-3390759e0edf3ee74b5c9fa7
 
 
 8. Jeigu viename būste gyvenamąją vietą yra deklaravę ar būstą nuomojasi bendrai gyvenantys asmenys ir vienas gyvenantis asmuo ir (arba) dvi ar daugiau bendrai gyvenančių asmenų grupių, ir (arba) du ar daugiau vienų gyvenančių asmenų ir vienam gyvenančiam asmeniui būsto šildymo išlaidų, geriamojo vandens išlaidų ir karšto vandens išlaidų kompensacijos pagal šio įstatymo [[#^s-b183729b0c387dc0456738ca|8 straipsnio 5 dalį]] neteikiamos, jam vidutinės mėnesio pajamos nenustatomos, o kompensacijos skiriamos likusioms būste gyvenamąją vietą deklaravusioms ar būstą nuomojančioms bendrai gyvenančių asmenų grupėms ir (arba) vieniems gyvenantiems asmenims. ^s-0f5321f0bd3252b5fb86de97
@@ -1150,7 +1150,7 @@ Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 2) veiklos pobūdį; ^s-e78906dca11883224bea8436
 
 
-3) turimą turtą ir šio įstatymo [[#^s-4eefe1d1e7fba3accd14e0c8|14 straipsnio 1 dalies]] 6–11 punktuose ir [[#^s-aa4678fb2b5fe0d71011fa1e|2 dalyje]] nurodyto turto vertę; ^s-3a946ab814c616b7dbf2a2cf
+3) turimą turtą ir šio įstatymo [[#^s-4eefe1d1e7fba3accd14e0c8|14 straipsnio 1 dalies]] [[#^s-190722a439f0bea4c08a6a73|6]]–[[#^s-503d845cbcfebad66bf4af2a|11]] punktuose ir [[#^s-aa4678fb2b5fe0d71011fa1e|2 dalyje]] nurodyto turto vertę; ^s-3a946ab814c616b7dbf2a2cf
 
 
 4) gaunamas pajamas; ^s-ea7edec249b04ec731d9c5b3
@@ -1165,7 +1165,7 @@ Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 4. Prašymą-paraišką pateikęs asmuo pateikia duomenis apie mėnesio, einančio prieš prašymo-paraiškos pateikimo mėnesį, paskutinę dieną turimą turtą, nurodytą šio įstatymo [[#^s-9e7527b196827d43f9eed931|14 straipsnyje]], ir tai patvirtinančius dokumentus, išskyrus atvejus, kai savivaldybės administracija duomenis gauna iš valstybės ir žinybinių registrų bei valstybės informacinių sistemų. Šie duomenys, jeigu nėra pasikeitimų, pateikiami kas 12 mėnesių. Šiam terminui pasibaigus, socialinės paramos teikimo laikotarpiu iki paramos teikimo laikotarpio pabaigos naujų duomenų apie turimą turtą pateikti nereikia. ^s-35d41ce271aeec1fb2caeb6b
 
 
-5. Turto, nurodyto šio įstatymo [[#^s-4eefe1d1e7fba3accd14e0c8|14 straipsnio 1 dalies]] 1–5 punktuose, vertę nustato savivaldybės administracija, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos parengta metodika ir Vyriausybės ar jos įgaliotos institucijos patvirtintomis žemės ūkio produkcijos sąlyginėmis vertėmis. ^s-770aa158d9362bbc5dfc2610
+5. Turto, nurodyto šio įstatymo [[#^s-4eefe1d1e7fba3accd14e0c8|14 straipsnio 1 dalies]] [[#^s-d8633aaf9d0102e9788ce80b|1]]–[[#^s-5e21a0997b0893daa1e85f17|5]] punktuose, vertę nustato savivaldybės administracija, vadovaudamasi Vyriausybės ar jos įgaliotos institucijos parengta metodika ir Vyriausybės ar jos įgaliotos institucijos patvirtintomis žemės ūkio produkcijos sąlyginėmis vertėmis. ^s-770aa158d9362bbc5dfc2610
 
 
 6. Savivaldybės administracija gautą prašymą-paraišką piniginei socialinei paramai gauti užregistruoja prašymo-paraiškos pateikimo dieną ir prašymą-paraišką pateikusiam asmeniui įteikia informacinį lapelį. Jeigu pateikti ne visi reikiami dokumentai, informacija apie trūkstamus dokumentus įrašoma į informacinį lapelį. Piniginei socialinei paramai gauti trūkstami dokumentai pateikiami ne vėliau kaip per mėnesį nuo prašymo-paraiškos pateikimo dienos, išskyrus atvejus, kai pajamos piniginei socialinei paramai gauti apskaičiuojamos šio įstatymo [[#^s-1b10f11a23e05431e912bcac|18 straipsnio 1 dalies 2 punkte]] nustatyta tvarka. Kai pajamos piniginei socialinei paramai gauti apskaičiuojamos šio įstatymo [[#^s-1b10f11a23e05431e912bcac|18 straipsnio 1 dalies 2 punkte]] nustatyta tvarka, piniginei socialinei paramai gauti trūkstami dokumentai pateikiami ne vėliau kaip per 2 mėnesius nuo prašymo-paraiškos pateikimo dienos. Jeigu asmuo nustatytu laiku nepateikia trūkstamų dokumentų, savivaldybės administracija per 5 darbo dienas priima sprendimą neteikti piniginės socialinės paramos ir asmeniui grąžina jo pateiktus dokumentus. ^s-c74a539a50a501345a3ed3d9
@@ -1196,14 +1196,14 @@ Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 3. Jeigu pasibaigus paskirtos socialinės pašalpos teikimo laikotarpiui kreipiamasi vėliau kaip po 2 mėnesių nuo anksčiau paskirtos socialinės pašalpos teikimo laikotarpio pabaigos, socialinė pašalpa skiriama nuo prašymo-paraiškos pateikimo mėnesio pirmos dienos. ^s-366377e270dbf14a0fd289c4
 
 
-4. Kompensacijos skiriamos 3 mėnesiams nuo mėnesio, kurį bendrai gyvenantys asmenys arba vienas gyvenantis asmuo įgijo teisę į kompensacijas, pirmos dienos, tačiau ne daugiau kaip už 2 praėjusius mėnesius iki prašymo-paraiškos pateikimo mėnesio, o jeigu dėl kompensacijų kreipiamasi nuo kalendorinių metų rugsėjo 1 dienos, bet ne vėliau kaip iki einamojo šildymo sezono pabaigos, kompensacijos skiriamos visam šildymo sezono laikotarpiui, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo kreipimosi dėl kompensacijų ir sprendimo priėmimo metu, taip pat laikotarpiu, už kurį skiriamos kompensacijos, turi teisę gauti kompensacijas. ^s-c1452f79c926e02b57757fd2
+4. Kompensacijos skiriamos 3 mėnesiams nuo mėnesio, kurį bendrai gyvenantys asmenys arba vienas gyvenantis asmuo įgijo teisę į kompensacijas, pirmos dienos, tačiau ne daugiau kaip už 2 praėjusius mėnesius iki prašymo-paraiškos pateikimo mėnesio, o jeigu [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) kreipiamasi nuo kalendorinių metų rugsėjo 1 dienos, bet ne vėliau kaip iki einamojo šildymo sezono pabaigos, kompensacijos skiriamos visam šildymo sezono laikotarpiui, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo kreipimosi [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) ir sprendimo priėmimo metu, taip pat laikotarpiu, už kurį skiriamos kompensacijos, turi teisę gauti kompensacijas. ^s-c1452f79c926e02b57757fd2
 Straipsnio dalies pakeitimai:
 Nr. XIV-1428, 2022-09-27, paskelbta TAR 2022-09-29, i. k. 2022-19806
 Nr. XIV-2835, 2024-06-25, paskelbta TAR 2024-07-05, i. k. 2024-12630
 
 
 
-5. Jeigu pasibaigus paskirtos kompensacijos teikimo laikotarpiui dėl tolesnio jos skyrimo bendrai gyvenantys asmenys arba vienas gyvenantis asmuo per 3 mėnesius kreipiasi su prašymu-paraiška pateikdami naujus dokumentus ir duomenis apie bendrai gyvenančius asmenis arba vieną gyvenantį asmenį bei jų (jo) pajamas, kompensacijos skiriamos nuo prašymą-paraišką pateikusio asmens nurodyto vieno iš 3 mėnesių, einančių po kompensacijų gavimo laikotarpio pabaigos, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo kreipimosi dėl kompensacijų metu ir laikotarpiu, už kurį skiriamos kompensacijos, turi teisę jas gauti. ^s-429aa0513872a5b869f2a242
+5. Jeigu pasibaigus paskirtos kompensacijos teikimo laikotarpiui dėl tolesnio jos skyrimo bendrai gyvenantys asmenys arba vienas gyvenantis asmuo per 3 mėnesius kreipiasi su prašymu-paraiška pateikdami naujus dokumentus ir duomenis apie bendrai gyvenančius asmenis arba vieną gyvenantį asmenį bei jų (jo) pajamas, kompensacijos skiriamos nuo prašymą-paraišką pateikusio asmens nurodyto vieno iš 3 mėnesių, einančių po kompensacijų gavimo laikotarpio pabaigos, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo kreipimosi [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) metu ir laikotarpiu, už kurį skiriamos kompensacijos, turi teisę jas gauti. ^s-429aa0513872a5b869f2a242
 
 
 6. Jeigu pasibaigus paskirtos kompensacijos teikimo laikotarpiui kreipiamasi vėliau kaip po 3 mėnesių nuo anksčiau paskirtos kompensacijos teikimo laikotarpio pabaigos, kompensacija skiriama [[#^s-c1452f79c926e02b57757fd2|šio straipsnio 4 dalyje]] nustatyta tvarka. ^s-11c2f71c7dbd2d5ebc160ad1
@@ -1240,7 +1240,7 @@ Nr. XII-1366, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19552
 
 
 
-13. Piniginė socialinė parama šio įstatymo [[#^s-7ca2d22eff87cdcd49c50bfe|23 straipsnio 1 dalies]] 3 ir 4 punktuose ir [[#^s-1ec9fc25667029b183d8d4eb|23 straipsnio 2 dalies]] 2–11 punktuose nustatytais atvejais skiriama iš naujo nuo kito mėnesio, kai pasikeitė aplinkybės, o nutraukiama nuo informacijos iš atitinkamų institucijų gavimo mėnesio pirmos dienos. ^s-67a164d595e0909a973897e5
+13. Piniginė socialinė parama šio įstatymo [[#^s-7ca2d22eff87cdcd49c50bfe|23 straipsnio 1 dalies]] [[#^s-646328bf48ed20dfa02f3921|3]] ir [[#^s-1519adc6ac0e5f74c17bd971|4]] punktuose ir [[#^s-1ec9fc25667029b183d8d4eb|23 straipsnio 2 dalies]] [[#^s-df84914d02937bfd02e57bcc|2]]–[[#^s-faae6c0b63c85b5972d8c7ad|11]] punktuose nustatytais atvejais skiriama iš naujo nuo kito mėnesio, kai pasikeitė aplinkybės, o nutraukiama nuo informacijos iš atitinkamų institucijų gavimo mėnesio pirmos dienos. ^s-67a164d595e0909a973897e5
 
 
 14. Sprendimas dėl piniginės socialinės paramos skyrimo priimamas nurodant šio įstatymo [[#^s-1f5a204f040dfe124a63d574|8 straipsnio 1 dalies]] sąlygą (sąlygas), kuriai (kurioms) esant paskirta piniginė socialinė parama, ne vėliau kaip per mėnesį nuo prašymo-paraiškos ir visų reikalingų dokumentų gavimo dienos savivaldybės mero nustatyta tvarka. ^s-09e8c544995a457f06e91b01
@@ -1284,7 +1284,7 @@ Nr. XII-329, 2013-05-16, Žin., 2013, Nr. 57-2861 (2013-06-01)
 2) apskaičiuotų kompensacijų sumą pervedant į energiją, kurą, geriamąjį ir karštą vandenį tiekiančių įmonių ar fizinių asmenų atsiskaitomąsias sąskaitas bankuose savivaldybės tarybos nustatyta tvarka. ^s-a1244a2466626400f10b3f00
 
 
-3. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui piniginės socialinės paramos teikimo laikotarpiu pakeitus deklaruotą gyvenamąją vietą (jei gyvenamosios vietos neturi, – savivaldybę, kurios teritorijoje gyvena) arba nuomojamą būstą, ankstesnėje savivaldybėje piniginės socialinės paramos teikimas nutraukiamas išmokėjus už tą mėnesį, kurį buvo pakeista deklaruota gyvenamoji vieta (jei gyvenamosios vietos neturi, – savivaldybė, kurios teritorijoje gyveno) arba nuomojamas būstas. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui, kurie dėl piniginės socialinės paramos nustatyta tvarka kreipiasi į naujos deklaruotos gyvenamosios vietos savivaldybę (jei gyvenamosios vietos neturi, – į savivaldybę, kurios teritorijoje apsigyvena) arba savivaldybę, kurios teritorijoje nuomojamas būstas, ši parama teikiama vadovaujantis šio įstatymo [[#^s-5c576e39c1042e1b97a947b1|21 straipsnio]] 2 ir [[#^s-d7085c2f8d4b9c9c89ef312e|5 dalimis]]. ^s-840be3efea2ee42705072544
+3. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui piniginės socialinės paramos teikimo laikotarpiu pakeitus deklaruotą gyvenamąją vietą (jei gyvenamosios vietos neturi, – savivaldybę, kurios teritorijoje gyvena) arba nuomojamą būstą, ankstesnėje savivaldybėje piniginės socialinės paramos teikimas nutraukiamas išmokėjus už tą mėnesį, kurį buvo pakeista deklaruota gyvenamoji vieta (jei gyvenamosios vietos neturi, – savivaldybė, kurios teritorijoje gyveno) arba nuomojamas būstas. Bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui, kurie dėl piniginės socialinės paramos nustatyta tvarka kreipiasi į naujos deklaruotos gyvenamosios vietos savivaldybę (jei gyvenamosios vietos neturi, – į savivaldybę, kurios teritorijoje apsigyvena) arba savivaldybę, kurios teritorijoje nuomojamas būstas, ši parama teikiama vadovaujantis šio įstatymo [[#^s-5c576e39c1042e1b97a947b1|21 straipsnio]] [[#^s-1caba0a78fde99b30ebdd52e|2]] ir [[#^s-429aa0513872a5b869f2a242|5]] dalimis. ^s-840be3efea2ee42705072544
 
 
 4. Paskirta, bet laiku neatsiimta socialinė pašalpa ir (ar) kompensacijos išmokamos, jeigu dėl jų buvo kreiptasi ne vėliau kaip per 3 mėnesius nuo paskutinio mėnesio, už kurį socialinė pašalpa ir (ar) kompensacijos buvo paskirtos. ^s-09f270a68146f4c3782fa61d
@@ -1358,25 +1358,25 @@ Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 
 
 
-2) 3 mėnesius neteikti piniginės socialinės paramos arba 3 mėnesiams nutraukti jos teikimą bendrai gyvenantiems asmenims, jeigu bent vienas iš bendrai gyvenančių asmenų nevykdo šio įstatymo [[#^s-b36174e231d135871ae22a69|25 straipsnio 2 punkte]] nustatytos pareigos ir (ar) [[#^s-7f440611b0a2ecc7823f540a|25 straipsnio 3 punkte]] nustatytos pareigos, išskyrus atvejį, kai dėl šių punktų nuostatų nevykdymo nesusidarė piniginės socialinės paramos permoka – išmokėta ne didesnė, negu apskaičiuota, įvertinus atsiradusias aplinkybes, piniginė socialinė parama arba piniginės socialinės paramos permoka buvo grąžinta ar asmens raštu pateiktu sutikimu yra išskaičiuojama (grąžinama) dalimis daugiau kaip po 20 procentų mokėtinos sumos per mėnesį. Jeigu nėra šiame punkte nurodytų išimčių, socialinė pašalpa skiriama vaikams (įvaikiams), įskaitant pilnamečius vaikus (įvaikius), kai jie mokosi pagal bendrojo ugdymo programą ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos; ^s-df84914d02937bfd02e57bcc
+2) 3 mėnesius neteikti piniginės socialinės paramos arba 3 mėnesiams nutraukti jos teikimą bendrai gyvenantiems asmenims, jeigu bent vienas iš bendrai gyvenančių asmenų nevykdo šio įstatymo 25 straipsnio 2 punkte nustatytos pareigos ir (ar) 25 straipsnio 3 punkte nustatytos pareigos, išskyrus atvejį, kai dėl šių punktų nuostatų nevykdymo nesusidarė piniginės socialinės paramos permoka – išmokėta ne didesnė, negu apskaičiuota, įvertinus atsiradusias aplinkybes, piniginė socialinė parama arba piniginės socialinės paramos permoka buvo grąžinta ar asmens raštu pateiktu sutikimu yra išskaičiuojama (grąžinama) dalimis daugiau kaip po 20 procentų mokėtinos sumos per mėnesį. Jeigu nėra šiame punkte nurodytų išimčių, socialinė pašalpa skiriama vaikams (įvaikiams), įskaitant pilnamečius vaikus (įvaikius), kai jie mokosi pagal bendrojo ugdymo programą ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos; ^s-df84914d02937bfd02e57bcc
 Straipsnio punkto pakeitimai:
 Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 
 
 
-3) 3 mėnesius neteikti piniginės socialinės paramos arba 3 mėnesiams nutraukti jos teikimą vienam gyvenančiam asmeniui, jeigu jis nevykdo šio įstatymo [[#^s-b36174e231d135871ae22a69|25 straipsnio 2 punkte]] nustatytos pareigos ir (ar) [[#^s-7f440611b0a2ecc7823f540a|25 straipsnio 3 punkte]] nustatytos pareigos, išskyrus atvejį, kai dėl šių punktų nuostatų nevykdymo nesusidarė piniginės socialinės paramos permoka – išmokėta ne didesnė, negu apskaičiuota, įvertinus atsiradusias aplinkybes, piniginė socialinė parama arba piniginės socialinės paramos permoka buvo grąžinta ar asmens raštu pateiktu sutikimu yra išskaičiuojama (grąžinama) dalimis daugiau kaip po 20 procentų mokėtinos sumos per mėnesį; ^s-81a8b7e31f34155bbff3f095
+3) 3 mėnesius neteikti piniginės socialinės paramos arba 3 mėnesiams nutraukti jos teikimą vienam gyvenančiam asmeniui, jeigu jis nevykdo šio įstatymo 25 straipsnio 2 punkte nustatytos pareigos ir (ar) 25 straipsnio 3 punkte nustatytos pareigos, išskyrus atvejį, kai dėl šių punktų nuostatų nevykdymo nesusidarė piniginės socialinės paramos permoka – išmokėta ne didesnė, negu apskaičiuota, įvertinus atsiradusias aplinkybes, piniginė socialinė parama arba piniginės socialinės paramos permoka buvo grąžinta ar asmens raštu pateiktu sutikimu yra išskaičiuojama (grąžinama) dalimis daugiau kaip po 20 procentų mokėtinos sumos per mėnesį; ^s-81a8b7e31f34155bbff3f095
 Straipsnio punkto pakeitimai:
 Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
 
 
 
-4) jeigu bent vienas iš bendrai gyvenančių asmenų nevykdo šio įstatymo [[#^s-ff26c68c76270cd975a9032c|25 straipsnio]] 1, 4, 5 ir [[#^s-469d65718b8bee419d598776|6 punktuose]] nustatytų pareigų, socialinę pašalpą skirti tik vaikui (įvaikiui) ar vaikams (įvaikiams), įskaitant pilnamečius vaikus (įvaikius), kai jie mokosi pagal bendrojo ugdymo programą ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, pasirenkant ar derinant jos teikimo formą (formas) (pinigais ir (ar) nepinigine forma), o kompensacijų neteikti ar nutraukti jų teikimą, iki pareigos bus įvykdytos; ^s-012d3fcef4bca76edc95c7c0
+4) jeigu bent vienas iš bendrai gyvenančių asmenų nevykdo šio įstatymo [[#^s-ff26c68c76270cd975a9032c|25 straipsnio]] 1, 4, 5 ir 6 punktuose nustatytų pareigų, socialinę pašalpą skirti tik vaikui (įvaikiui) ar vaikams (įvaikiams), įskaitant pilnamečius vaikus (įvaikius), kai jie mokosi pagal bendrojo ugdymo programą ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, pasirenkant ar derinant jos teikimo formą (formas) (pinigais ir (ar) nepinigine forma), o kompensacijų neteikti ar nutraukti jų teikimą, iki pareigos bus įvykdytos; ^s-012d3fcef4bca76edc95c7c0
 
 
-5) jeigu vienas gyvenantis asmuo nevykdo šio įstatymo [[#^s-ff26c68c76270cd975a9032c|25 straipsnio]] 1, 4, 5 ir [[#^s-469d65718b8bee419d598776|6 punktuose]] nustatytų pareigų, socialinės pašalpos ir kompensacijų neteikti ar nutraukti jų teikimą, iki šios pareigos bus įvykdytos; ^s-9bbd92ed5abf3f84d4ab5e8f
+5) jeigu vienas gyvenantis asmuo nevykdo šio įstatymo [[#^s-ff26c68c76270cd975a9032c|25 straipsnio]] 1, 4, 5 ir 6 punktuose nustatytų pareigų, socialinės pašalpos ir kompensacijų neteikti ar nutraukti jų teikimą, iki šios pareigos bus įvykdytos; ^s-9bbd92ed5abf3f84d4ab5e8f
 
 
-6) 3 mėnesius neteikti piniginės socialinės paramos ar 3 mėnesiams nutraukti jos teikimą, jeigu bent vienas iš bendrai gyvenančių asmenų arba vienas gyvenantis asmuo nevykdo šio įstatymo [[#^s-d76bd3daf3edcc205a5060a6|25 straipsnio 7 punkte]] nustatytos pareigos. Šiuo atveju socialinė pašalpa skiriama vaikams (įvaikiams), įskaitant pilnamečius vaikus (įvaikius), kai jie mokosi pagal bendrojo ugdymo programą ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, pasirenkant ar derinant jos teikimo formą (formas) (pinigais ir (ar) nepinigine forma); ^s-469d65718b8bee419d598776
+6) 3 mėnesius neteikti piniginės socialinės paramos ar 3 mėnesiams nutraukti jos teikimą, jeigu bent vienas iš bendrai gyvenančių asmenų arba vienas gyvenantis asmuo nevykdo šio įstatymo 25 straipsnio 7 punkte nustatytos pareigos. Šiuo atveju socialinė pašalpa skiriama vaikams (įvaikiams), įskaitant pilnamečius vaikus (įvaikius), kai jie mokosi pagal bendrojo ugdymo programą ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, pasirenkant ar derinant jos teikimo formą (formas) (pinigais ir (ar) nepinigine forma); ^s-469d65718b8bee419d598776
 Papildyta straipsnio punktu:
 Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 
@@ -1388,7 +1388,7 @@ Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 
 
 
-8) 6 mėnesius neteikti piniginės socialinės paramos, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo per 6 mėnesius iki kreipimosi dėl piniginės socialinės paramos perleido nuosavybėn kitam asmeniui šio įstatymo [[#^s-4eefe1d1e7fba3accd14e0c8|14 straipsnio 1 dalies]] 1–8 punktuose nurodytą turtą ir kreipdamiesi (kreipdamasis) dėl piniginės socialinės paramos prašyme-paraiškoje nenurodė gautų piniginių lėšų ar už jas įsigyto naujo turto; ^s-888392a73a0d557cc0e04c8c
+8) 6 mėnesius neteikti piniginės socialinės paramos, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo per 6 mėnesius iki kreipimosi dėl piniginės socialinės paramos perleido nuosavybėn kitam asmeniui šio įstatymo [[#^s-4eefe1d1e7fba3accd14e0c8|14 straipsnio 1 dalies]] [[#^s-d8633aaf9d0102e9788ce80b|1]]–[[#^s-2589fd45dd3e90f09ffc496b|8]] punktuose nurodytą turtą ir kreipdamiesi (kreipdamasis) dėl piniginės socialinės paramos prašyme-paraiškoje nenurodė gautų piniginių lėšų ar už jas įsigyto naujo turto; ^s-888392a73a0d557cc0e04c8c
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 
@@ -1432,7 +1432,7 @@ Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 
 
 
-15) pasitelkti bendruomeninių organizacijų ir (ar) religinių bendruomenių, ir (ar) religinių bendrijų, ir (ar) kitų nevyriausybinių organizacijų atstovus ir (ar) gyvenamosios vietovės bendruomenės narius, ir (ar) seniūnaičius, ir (ar) kitus suinteresuotus asmenis dalyvauti svarstant klausimus dėl piniginės socialinės paramos skyrimo ir teikti socialines paslaugas [[#^s-d36253369e636673ec07c14b|šio straipsnio 1 dalies 1 punkte]], šios dalies 2, 3, 4, 5, [[#^s-469d65718b8bee419d598776|6 punktuose]] ir [[#^s-763a5e06c57e3a8fe872e1ee|3 dalyje]] numatytais atvejais. ^s-70cb166d45ad992952f6eccb
+15) pasitelkti bendruomeninių organizacijų ir (ar) religinių bendruomenių, ir (ar) religinių bendrijų, ir (ar) kitų nevyriausybinių organizacijų atstovus ir (ar) gyvenamosios vietovės bendruomenės narius, ir (ar) seniūnaičius, ir (ar) kitus suinteresuotus asmenis dalyvauti svarstant klausimus dėl piniginės socialinės paramos skyrimo ir teikti socialines paslaugas [[#^s-d36253369e636673ec07c14b|šio straipsnio 1 dalies 1 punkte]], šios dalies [[#^s-df84914d02937bfd02e57bcc|2]], [[#^s-81a8b7e31f34155bbff3f095|3]], [[#^s-012d3fcef4bca76edc95c7c0|4]], [[#^s-9bbd92ed5abf3f84d4ab5e8f|5]], [[#^s-469d65718b8bee419d598776|6]] punktuose ir [[#^s-763a5e06c57e3a8fe872e1ee|3 dalyje]] numatytais atvejais. ^s-70cb166d45ad992952f6eccb
 Straipsnio punkto pakeitimai:
 Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 
@@ -1441,13 +1441,13 @@ Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
 3. Patikrinus bendrai gyvenančių asmenų arba vieno gyvenančio asmens gyvenimo sąlygas ir surašius buities ir gyvenimo sąlygų patikrinimo aktą, savivaldybės administracijai suteikiama teisė savivaldybės tarybos nustatyta tvarka: ^s-763a5e06c57e3a8fe872e1ee
 
 
-1) skirti socialinę pašalpą, jeigu vieno iš bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra mažesnės kaip 1,1 valstybės remiamų pajamų dydžio, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo [[#^s-8584c617c070c3017ea04e2b|6 straipsnio]] 1 ar [[#^s-e588a8733e0619fb64e4ae3c|3 punkte]] nustatytų reikalavimų; ^s-8ca3961fe07810aa247fb526
+1) skirti socialinę pašalpą, jeigu vieno iš bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra mažesnės kaip 1,1 valstybės remiamų pajamų dydžio, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo [[#^s-8584c617c070c3017ea04e2b|6 straipsnio]] 1 ar 3 punkte nustatytų reikalavimų; ^s-8ca3961fe07810aa247fb526
 Straipsnio punkto pakeitimai:
 Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
 
 
 
-2) skirti kompensacijas, jeigu išlaidos už būsto šildymą, už faktinį geriamojo vandens ir (ar) karšto vandens kiekį atitinka šio įstatymo [[#^s-cfd72e2255ba56bedc839c78|11 straipsnyje]] nustatytus kompensuojamus dydžius, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo [[#^s-4c77b9eb08129116107108bc|7 straipsnio 1 dalies]] 1 ar 2 punkte nustatytų reikalavimų; ^s-62615ec6d04759635cc2095c
+2) skirti kompensacijas, jeigu išlaidos už būsto šildymą, už faktinį geriamojo vandens ir (ar) karšto vandens kiekį atitinka šio įstatymo [[#^s-cfd72e2255ba56bedc839c78|11 straipsnyje]] nustatytus kompensuojamus dydžius, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo [[#^s-4c77b9eb08129116107108bc|7 straipsnio 1 dalies]] [[#^s-b6a593677510c068a3080871|1]] ar [[#^s-acf2e57b040ec27f87c49b8b|2]] punkte nustatytų reikalavimų; ^s-62615ec6d04759635cc2095c
 Straipsnio punkto pakeitimai:
 Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
 
@@ -1465,7 +1465,7 @@ Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
 5) skirti socialinę pašalpą bendrai gyvenantiems asmenims atskirai, kai santuokos nutraukimo bylos nagrinėjimo metu yra ginčas; ^s-3da8399c7cc72a4e4ccffe35
 
 
-6) skirti socialinę pašalpą, jeigu vieno iš bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra lygios 1,1 valstybės remiamų pajamų dydžio arba bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį ne daugiau kaip 50 procentų viršija 1,1 valstybės remiamų pajamų dydžio, arba apskaičiuota socialinė pašalpa yra mažesnė už šio įstatymo [[#^s-9130e8d2c76f7e34bd0babac|22 straipsnio 9 dalyje]] nustatytą dydį ir bendrai gyvenantys asmenys arba vienas gyvenantis asmuo atitinka šio įstatymo [[#^s-8584c617c070c3017ea04e2b|6 straipsnio]] 1 ir [[#^s-e588a8733e0619fb64e4ae3c|3 punktuose]] nustatytus reikalavimus: vienam gyvenančiam asmeniui ir dviem bendrai gyvenantiems asmenims – 25 procentų valstybės remiamų pajamų dydžio; trims ir keturiems bendrai gyvenantiems asmenims – 50 procentų valstybės remiamų pajamų dydžio; penkiems ir daugiau bendrai gyvenančių asmenų – 70 procentų valstybės remiamų pajamų dydžio; ^s-952955466d941ccb89e7bc0a
+6) skirti socialinę pašalpą, jeigu vieno iš bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį yra lygios 1,1 valstybės remiamų pajamų dydžio arba bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį ne daugiau kaip 50 procentų viršija 1,1 valstybės remiamų pajamų dydžio, arba apskaičiuota socialinė pašalpa yra mažesnė už šio įstatymo [[#^s-9130e8d2c76f7e34bd0babac|22 straipsnio 9 dalyje]] nustatytą dydį ir bendrai gyvenantys asmenys arba vienas gyvenantis asmuo atitinka šio įstatymo [[#^s-8584c617c070c3017ea04e2b|6 straipsnio]] 1 ir 3 punktuose nustatytus reikalavimus: vienam gyvenančiam asmeniui ir dviem bendrai gyvenantiems asmenims – 25 procentų valstybės remiamų pajamų dydžio; trims ir keturiems bendrai gyvenantiems asmenims – 50 procentų valstybės remiamų pajamų dydžio; penkiems ir daugiau bendrai gyvenančių asmenų – 70 procentų valstybės remiamų pajamų dydžio; ^s-952955466d941ccb89e7bc0a
 Straipsnio punkto pakeitimai:
 Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
 
@@ -1578,7 +1578,7 @@ NETEISĖTAI GAUTOS PINIGINĖS SOCIALINĖS PARAMOS IŠIEŠKOJIMAS
 2. Negrąžinta neteisėtai gauta piniginė socialinė parama yra išskaičiuojama vadovaujantis savivaldybės administracijos priimtu sprendimu iš piniginę socialinę paramą gaunančiam asmeniui paskirtos piniginės socialinės paramos sumos išskaičiuojant ne daugiau kaip po 20 procentų mokėtinos sumos per mėnesį, jeigu nėra piniginę socialinę paramą gaunančio asmens raštu pateikto sutikimo išskaičiuoti didesnę mokėtinos sumos dalį per mėnesį ar visą mokėtiną sumą. ^s-0530b0b7bef6bd22398f3121
 
 
-3. Jeigu neteisėtai gauta piniginė socialinė parama negrąžinta arba neišskaičiuota, likusi skola išieškoma Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka, jeigu su išieškojimu susijusios administravimo išlaidos neviršija išieškotinos sumos. ^s-1119a270c12670ea686c86c2
+3. Jeigu neteisėtai gauta piniginė socialinė parama negrąžinta arba neišskaičiuota, likusi skola išieškoma [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka, jeigu su išieškojimu susijusios administravimo išlaidos neviršija išieškotinos sumos. ^s-1119a270c12670ea686c86c2
 
 
 
@@ -1637,7 +1637,7 @@ PINIGINĖS SOCIALINĖS PARAMOS TEIKIMAS VYKDANT SAVARANKIŠKĄJĄ SAVIVALDYBIŲ 
 2) priima sprendimus dėl lėšų piniginei socialinei paramai įgyvendinti skyrimo; ^s-446540bdc9f9f2884b5a6e05
 
 
-3) tvirtina piniginės socialinės paramos teikimo tvarkos aprašą, kuriame nustato: piniginės socialinės paramos skyrimo ir mokėjimo tvarką (prašymų-paraiškų priėmimo; trūkstamų dokumentų pateikimo; pajamų vertinimo laikotarpio ir pajamų apskaičiavimo; duomenų apie turtą pateikimo; piniginės socialinės paramos skyrimo ir mokėjimo; prašymus-paraiškas pateikusių asmenų informavimo dėl piniginės socialinės paramos skyrimo ar neskyrimo; neteisėtai gautos ar išmokėtos piniginės socialinės paramos išskaičiavimo; paskirtos, bet laiku neatsiimtos socialinės pašalpos ir (ar) kompensacijų, taip pat mirus asmeniui, kurio vardu bendrai gyvenantiems asmenims mokama socialinė pašalpa ir (ar) kompensacijos, arba mirus vienam gyvenančiam asmeniui, paskirtos ir iki kito mėnesio po jo mirties neišmokėtos socialinės pašalpos ir (ar) kompensacijų išmokėjimo procedūros); pagrindus, kuriems esant piniginė socialinė parama didinama, mažinama, sustabdomas, nutraukiamas ar atnaujinamas jos mokėjimas, piniginė socialinė parama skiriama ne visiems bendrai gyvenantiems asmenims arba ji skiriama kitais atvejais; socialinės pašalpos teikimo nepinigine forma būdus; nepasiturinčių gyventojų grupes (patyrę socialinę riziką, nevykdantys savivaldybės tarybos nustatytų pareigų ir pan.), kurioms piniginė socialinė parama teikiama šio įstatymo [[#^s-69b0b173003b87dca828a12a|22 straipsnio 1 dalies]] 2 ar 3 punkte arba 2 [[#^s-446540bdc9f9f2884b5a6e05|dalies 2 punkte]] nustatytais būdais; minimalius neišmokamos piniginės socialinės paramos dydžius; piniginę socialinę paramą gaunančių asmenų teises ir pareigas; savivaldybės administracijos ir bendruomeninių organizacijų ir (ar) religinių bendruomenių, ir (ar) religinių bendrijų, ir (ar) kitų nevyriausybinių organizacijų atstovų ir (ar) gyvenamosios vietovės bendruomenės narių, ir (ar) seniūnaičių, ir (ar) kitų suinteresuotų asmenų teises ir pareigas teikiant piniginę socialinę paramą. ^s-c771226d5878f111f1620121
+3) tvirtina piniginės socialinės paramos teikimo tvarkos aprašą, kuriame nustato: piniginės socialinės paramos skyrimo ir mokėjimo tvarką (prašymų-paraiškų priėmimo; trūkstamų dokumentų pateikimo; pajamų vertinimo laikotarpio ir pajamų apskaičiavimo; duomenų apie turtą pateikimo; piniginės socialinės paramos skyrimo ir mokėjimo; prašymus-paraiškas pateikusių asmenų informavimo dėl piniginės socialinės paramos skyrimo ar neskyrimo; neteisėtai gautos ar išmokėtos piniginės socialinės paramos išskaičiavimo; paskirtos, bet laiku neatsiimtos socialinės pašalpos ir (ar) kompensacijų, taip pat mirus asmeniui, kurio vardu bendrai gyvenantiems asmenims mokama socialinė pašalpa ir (ar) kompensacijos, arba mirus vienam gyvenančiam asmeniui, paskirtos ir iki kito mėnesio po jo mirties neišmokėtos socialinės pašalpos ir (ar) kompensacijų išmokėjimo procedūros); pagrindus, kuriems esant piniginė socialinė parama didinama, mažinama, sustabdomas, nutraukiamas ar atnaujinamas jos mokėjimas, piniginė socialinė parama skiriama ne visiems bendrai gyvenantiems asmenims arba ji skiriama kitais atvejais; socialinės pašalpos teikimo nepinigine forma būdus; nepasiturinčių gyventojų grupes (patyrę socialinę riziką, nevykdantys savivaldybės tarybos nustatytų pareigų ir pan.), kurioms piniginė socialinė parama teikiama šio įstatymo [[#^s-69b0b173003b87dca828a12a|22 straipsnio 1 dalies]] [[#^s-c7fba6d2ce3525ce5d830ec0|2]] ar [[#^s-30aaf4e7c456447d488d4f4c|3]] punkte arba 2 [[#^s-446540bdc9f9f2884b5a6e05|dalies 2 punkte]] nustatytais būdais; minimalius neišmokamos piniginės socialinės paramos dydžius; piniginę socialinę paramą gaunančių asmenų teises ir pareigas; savivaldybės administracijos ir bendruomeninių organizacijų ir (ar) religinių bendruomenių, ir (ar) religinių bendrijų, ir (ar) kitų nevyriausybinių organizacijų atstovų ir (ar) gyvenamosios vietovės bendruomenės narių, ir (ar) seniūnaičių, ir (ar) kitų suinteresuotų asmenų teises ir pareigas teikiant piniginę socialinę paramą. ^s-c771226d5878f111f1620121
 
 
 2. Savivaldybės administracija: ^s-5ab6474d95c6bef0dcec32f9
@@ -1689,7 +1689,7 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą (EEB) Nr. 1612/68 ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 19 skyrius, 5 tomas, p. 46). ^s-c66335bc01beb4e277f99a8b
+1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti [Reglamentą (EEB) Nr. 1612/68](https://eur-lex.europa.eu/eli/reg/1612/68/oj) ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 19 skyrius, 5 tomas, p. 46). ^s-c66335bc01beb4e277f99a8b
 
 
 2. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis (OL 2014 L 128, p. 8). ^s-21335925387691118ca7f450
@@ -1775,7 +1775,7 @@ Nr. XI-1230, 2010-12-14, Žin., 2010, Nr. 153-7797 (2010-12-28)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1502, 2011-06-22, Žin., 2011, Nr. 86-4144 (2011-07-13)
 [[latest/TAR.3E67354D7643|PINIGINĖS SOCIALINĖS PARAMOS NEPASITURINČIOMS ŠEIMOMS IR VIENIEMS GYVENANTIEMS ASMENIMS ĮSTATYMO 15, 22 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO]] ĮSTATYMAS
-Šio įstatymo [[#^s-1750f111e0ec0c5b8cd51f64|1 straipsnis]], išskyrus [[#^s-1750f111e0ec0c5b8cd51f64|1 straipsnio]] 2, 3 ir 4 dalis, įsigalioja 2012-01-01; [[#^s-0174f13fc7d147e5d27263dd|2 straipsnis]] galioja iki 2011-12-31.
+Šio įstatymo [[#^s-1750f111e0ec0c5b8cd51f64|1 straipsnis]], išskyrus [[#^s-1750f111e0ec0c5b8cd51f64|1 straipsnio]] [[#^s-1d36e30bb576cc8c143e7b5c|2]], [[#^s-6b7f75eb32bbc38b4a48d246|3]] ir 4 dalis, įsigalioja 2012-01-01; [[#^s-0174f13fc7d147e5d27263dd|2 straipsnis]] galioja iki 2011-12-31.
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1783,9 +1783,9 @@ Nr. XI-1772, 2011-12-01, Žin., 2011, Nr. 155-7353 (2011-12-20)
 [[latest/TAR.AFA734FB8321|PINIGINĖS SOCIALINĖS PARAMOS NEPASITURINČIOMS ŠEIMOMS IR VIENIEMS GYVENANTIEMS ASMENIMS ĮSTATYMO PAKEITIMO ĮSTATYMAS]]
 Nauja įstatymo redakcija
 Keistas įstatymo pavadinimas
-Šis įstatymas, išskyrus [[#^s-1750f111e0ec0c5b8cd51f64|1 straipsnyje]] išdėstyto Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 4 straipsnio 4 dalies 2 punktą ir šio įstatymo [[#^s-0174f13fc7d147e5d27263dd|2 straipsnio]] 2, 3, 4 dalis, ir šio straipsnio 2 dalį, įsigalioja 2012 m. sausio 1 d.
-Šio įstatymo [[#^s-1750f111e0ec0c5b8cd51f64|1 straipsnyje]] išdėstyto Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 4 straipsnio 4 dalies 1 punktas galioja iki 2012 m. gruodžio 31 d.
-Šio įstatymo [[#^s-1750f111e0ec0c5b8cd51f64|1 straipsnyje]] išdėstyto Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 4 straipsnio 4 dalies 2 punktas įsigalioja 2013 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-1750f111e0ec0c5b8cd51f64|1 straipsnyje]] išdėstyto [[#^s-0174f13fc7d147e5d27263dd|Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 4 straipsnio 4 dalies 2 punktą ir šio įstatymo 2 straipsnio]] [[#^s-b5d88129b0c34f9478e7ac1f|2]], [[#^s-8c05986d753ebc0e031e380d|3]], [[#^s-a8ee7d6613a75bd8a7804a3c|4]] dalis, ir šio straipsnio 2 dalį, įsigalioja 2012 m. sausio 1 d.
+Šio įstatymo [[#^s-1750f111e0ec0c5b8cd51f64|1 straipsnyje]] išdėstyto [[latest/TAR.3EEE59417F13|Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 4 straipsnio 4 dalies 1 punktas]] galioja iki 2012 m. gruodžio 31 d.
+Šio įstatymo [[#^s-1750f111e0ec0c5b8cd51f64|1 straipsnyje]] išdėstyto [[latest/TAR.3EEE59417F13|Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo 4 straipsnio 4 dalies 2 punktas]] įsigalioja 2013 m. sausio 1 d.
 Šio įstatymo [[#^s-1750f111e0ec0c5b8cd51f64|1 straipsnyje]] išdėstyto Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo devintasis skirsnis galioja iki 2014 m. gruodžio 31 d.
 
 15.
@@ -1828,12 +1828,12 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1145, 2014-09-23, paskelbta TAR 2014-10-03, i. k. 2014-13604
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 14, 17 ir [[#^s-234e9b98af5ea637f16328e1|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-9e7527b196827d43f9eed931|14]], [[#^s-2d00a5208f3ad1378d7f9909|17]] ir [[#^s-234e9b98af5ea637f16328e1|22]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1366, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19552
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 4, 8, 10, 12, 17, 21 ir [[#^s-d7b16522daf179d49809da18|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-5d2da3e3ad3f7230d1da63a5|4]], [[#^s-79691962a03e9a75361d79dd|8]], [[#^s-7eb1ba3c9ef756fa415023a9|10]], [[#^s-69a959d4b54eef775c91966b|12]], [[#^s-2d00a5208f3ad1378d7f9909|17]], [[#^s-5c576e39c1042e1b97a947b1|21]] ir [[#^s-d7b16522daf179d49809da18|23]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1843,7 +1843,7 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2611, 2016-09-20, paskelbta TAR 2016-09-29, i. k. 2016-24185
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 1, 2, 8, 10, 12, 17, 20, 23, [[#^s-ff26c68c76270cd975a9032c|25 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-1750f111e0ec0c5b8cd51f64|1]], [[#^s-0174f13fc7d147e5d27263dd|2]], [[#^s-79691962a03e9a75361d79dd|8]], [[#^s-7eb1ba3c9ef756fa415023a9|10]], [[#^s-69a959d4b54eef775c91966b|12]], [[#^s-2d00a5208f3ad1378d7f9909|17]], [[#^s-e2b36988d1625ee296324826|20]], [[#^s-d7b16522daf179d49809da18|23]], [[#^s-ff26c68c76270cd975a9032c|25]] straipsnių ir priedo pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1853,17 +1853,17 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2519, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20653
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 8, 10 ir [[#^s-2d00a5208f3ad1378d7f9909|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-79691962a03e9a75361d79dd|8]], [[#^s-7eb1ba3c9ef756fa415023a9|10]] ir [[#^s-2d00a5208f3ad1378d7f9909|17]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-145, 2016-12-20, paskelbta TAR 2016-12-28, i. k. 2016-29779
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 8, 10 ir [[#^s-2d00a5208f3ad1378d7f9909|17 straipsnių]] pakeitimo [[latest/f43061304a7111e6b5d09300a16a686c|įstatymo Nr. XII-2519]] 2, 3 ir [[#^s-5d2da3e3ad3f7230d1da63a5|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-79691962a03e9a75361d79dd|8]], [[#^s-7eb1ba3c9ef756fa415023a9|10]] ir [[#^s-2d00a5208f3ad1378d7f9909|17]] straipsnių pakeitimo [[latest/f43061304a7111e6b5d09300a16a686c|įstatymo Nr. XII-2519]] [[#^s-0174f13fc7d147e5d27263dd|2]], [[#^s-ae345d007f95fd9995ab2eda|3]] ir [[#^s-5d2da3e3ad3f7230d1da63a5|4]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-373, 2017-05-23, paskelbta TAR 2017-05-31, i. k. 2017-09277
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 7 ir [[#^s-cfd72e2255ba56bedc839c78|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-ed3747d13c3910463cc49d63|7]] ir [[#^s-cfd72e2255ba56bedc839c78|11]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1873,27 +1873,27 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-651, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16001
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 8, 17 ir [[#^s-ff26c68c76270cd975a9032c|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-79691962a03e9a75361d79dd|8]], [[#^s-2d00a5208f3ad1378d7f9909|17]] ir [[#^s-ff26c68c76270cd975a9032c|25]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-821, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20024
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 1, 4, 8, 10, 17, 20, 23 ir [[#^s-ff26c68c76270cd975a9032c|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-1750f111e0ec0c5b8cd51f64|1]], [[#^s-5d2da3e3ad3f7230d1da63a5|4]], [[#^s-79691962a03e9a75361d79dd|8]], [[#^s-7eb1ba3c9ef756fa415023a9|10]], [[#^s-2d00a5208f3ad1378d7f9909|17]], [[#^s-e2b36988d1625ee296324826|20]], [[#^s-d7b16522daf179d49809da18|23]] ir [[#^s-ff26c68c76270cd975a9032c|25]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-949, 2017-12-21, paskelbta TAR 2017-12-29, i. k. 2017-21657
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 8, 10, 17, 18, 19, 21, 23 ir [[#^s-ff26c68c76270cd975a9032c|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-79691962a03e9a75361d79dd|8]], [[#^s-7eb1ba3c9ef756fa415023a9|10]], [[#^s-2d00a5208f3ad1378d7f9909|17]], [[#^s-d28e1a088e96f78833048d2a|18]], [[#^s-5b1b78194d65806a61fda809|19]], [[#^s-5c576e39c1042e1b97a947b1|21]], [[#^s-d7b16522daf179d49809da18|23]] ir [[#^s-ff26c68c76270cd975a9032c|25]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1358, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11458
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 8 ir [[#^s-7eb1ba3c9ef756fa415023a9|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-79691962a03e9a75361d79dd|8]] ir [[#^s-7eb1ba3c9ef756fa415023a9|10]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1403, 2018-06-29, paskelbta TAR 2018-07-05, i. k. 2018-11464
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 8, 10 ir [[#^s-5c576e39c1042e1b97a947b1|21 straipsnių]] pakeitimo [[latest/1f47cc50ec7411e78a1adea6fe72f3c5|įstatymo Nr. XIII-949]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-79691962a03e9a75361d79dd|8]], [[#^s-7eb1ba3c9ef756fa415023a9|10]] ir [[#^s-5c576e39c1042e1b97a947b1|21]] straipsnių pakeitimo [[latest/1f47cc50ec7411e78a1adea6fe72f3c5|įstatymo Nr. XIII-949]] pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1913,7 +1913,7 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1973, 2019-02-14, paskelbta TAR 2019-02-26, i. k. 2019-03172
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 2, 11 ir [[#^s-69a959d4b54eef775c91966b|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-0174f13fc7d147e5d27263dd|2]], [[#^s-cfd72e2255ba56bedc839c78|11]] ir [[#^s-69a959d4b54eef775c91966b|12]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1928,7 +1928,7 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1960, 2019-02-12, paskelbta TAR 2019-02-20, i. k. 2019-02743
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 17 ir [[#^s-d7b16522daf179d49809da18|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-2d00a5208f3ad1378d7f9909|17]] ir [[#^s-d7b16522daf179d49809da18|23]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1938,17 +1938,17 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2345, 2019-07-16, paskelbta TAR 2019-07-29, i. k. 2019-12436
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 1 ir [[#^s-0174f13fc7d147e5d27263dd|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-1750f111e0ec0c5b8cd51f64|1]] ir [[#^s-0174f13fc7d147e5d27263dd|2]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2883, 2020-05-07, paskelbta TAR 2020-05-20, i. k. 2020-10665
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 3, 6, 7, 9, 10, 11, 15, 17, 21 ir [[#^s-d7b16522daf179d49809da18|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-ae345d007f95fd9995ab2eda|3]], [[#^s-8584c617c070c3017ea04e2b|6]], [[#^s-ed3747d13c3910463cc49d63|7]], [[#^s-3a11129d8a56d74dab03ce0e|9]], [[#^s-7eb1ba3c9ef756fa415023a9|10]], [[#^s-cfd72e2255ba56bedc839c78|11]], [[#^s-782cff5d12d771ae8108221f|15]], [[#^s-2d00a5208f3ad1378d7f9909|17]], [[#^s-5c576e39c1042e1b97a947b1|21]] ir [[#^s-d7b16522daf179d49809da18|23]] straipsnių pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3375, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23942
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 2 ir [[#^s-79691962a03e9a75361d79dd|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-0174f13fc7d147e5d27263dd|2]] ir [[#^s-79691962a03e9a75361d79dd|8]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1963,12 +1963,12 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-721, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25839
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 7 ir [[#^s-cfd72e2255ba56bedc839c78|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-ed3747d13c3910463cc49d63|7]] ir [[#^s-cfd72e2255ba56bedc839c78|11]] straipsnių pakeitimo įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1108, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11866
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 3, 6, 7, 9, 10, 11, 15, 17, 21 ir [[#^s-d7b16522daf179d49809da18|23 straipsnių]] pakeitimo [[latest/0ad2b1909a9b11ea9515f752ff221ec9|įstatymo Nr. XIII-2883]] [[#^s-cfd72e2255ba56bedc839c78|11 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-ae345d007f95fd9995ab2eda|3]], [[#^s-8584c617c070c3017ea04e2b|6]], [[#^s-ed3747d13c3910463cc49d63|7]], [[#^s-3a11129d8a56d74dab03ce0e|9]], [[#^s-7eb1ba3c9ef756fa415023a9|10]], [[#^s-cfd72e2255ba56bedc839c78|11]], [[#^s-782cff5d12d771ae8108221f|15]], [[#^s-2d00a5208f3ad1378d7f9909|17]], [[#^s-5c576e39c1042e1b97a947b1|21]] ir [[#^s-d7b16522daf179d49809da18|23]] straipsnių pakeitimo [[latest/0ad2b1909a9b11ea9515f752ff221ec9|įstatymo Nr. XIII-2883]] [[#^s-cfd72e2255ba56bedc839c78|11 straipsnio]] pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1978,12 +1978,12 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1844, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05744
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 21 ir [[#^s-f660ef14561564420c13896d|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-5c576e39c1042e1b97a947b1|21]] ir [[#^s-f660ef14561564420c13896d|27]] straipsnių pakeitimo įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2153, 2023-09-12, paskelbta TAR 2023-09-18, i. k. 2023-18278
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 3, 6, 7, 9, 10, 11, 15, 17, 21 ir [[#^s-d7b16522daf179d49809da18|23 straipsnių]] pakeitimo [[latest/0ad2b1909a9b11ea9515f752ff221ec9|įstatymo Nr. XIII-2883]] [[#^s-cfd72e2255ba56bedc839c78|11 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-ae345d007f95fd9995ab2eda|3]], [[#^s-8584c617c070c3017ea04e2b|6]], [[#^s-ed3747d13c3910463cc49d63|7]], [[#^s-3a11129d8a56d74dab03ce0e|9]], [[#^s-7eb1ba3c9ef756fa415023a9|10]], [[#^s-cfd72e2255ba56bedc839c78|11]], [[#^s-782cff5d12d771ae8108221f|15]], [[#^s-2d00a5208f3ad1378d7f9909|17]], [[#^s-5c576e39c1042e1b97a947b1|21]] ir [[#^s-d7b16522daf179d49809da18|23]] straipsnių pakeitimo [[latest/0ad2b1909a9b11ea9515f752ff221ec9|įstatymo Nr. XIII-2883]] [[#^s-cfd72e2255ba56bedc839c78|11 straipsnio]] pakeitimo įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1998,4 +1998,4 @@ Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams
 35.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-351, 2025-06-26, paskelbta TAR 2025-06-27, i. k. 2025-11770
-Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 14 ir [[#^s-2d00a5208f3ad1378d7f9909|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos piniginės socialinės paramos nepasiturintiems gyventojams įstatymo Nr. IX-1675 [[#^s-9e7527b196827d43f9eed931|14]] ir [[#^s-2d00a5208f3ad1378d7f9909|17]] straipsnių pakeitimo įstatymas

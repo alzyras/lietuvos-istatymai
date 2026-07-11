@@ -51,7 +51,7 @@ Gaminti alkoholio produktus leidžiama tik toms įmonėms, kurios turi Lietuvos 
 Licencijose turi būti įrašytos leidžiamų gaminti alkoholio produktų, įskaitant alkoholinius gėrimus, rūšys.
 
 
-Alkoholio produktų gamybos licencijavimo taisykles, remdamasi šiuo bei Įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė.“
+Alkoholio produktų gamybos licencijavimo taisykles, remdamasi šiuo bei [Įmonių įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B), nustato Lietuvos Respublikos Vyriausybė.“
 
 
 
@@ -99,7 +99,7 @@ Licencijose importuoti alkoholio produktus įrašomos leidžiamų importuoti alk
 Įmonėms, kurios turi licencijas importuoti alkoholio produktus, draudžiama pagal sutartį perduoti kitiems ūkio subjektams teisę importuoti alkoholio produktus naudojant gabenimo dokumentuose įmonių, turinčių šią teisę, pavadinimus.
 
 
-Alkoholio produktų importo licencijavimo taisykles, remdamasi šiuo bei Įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė. Licencijos importuoti alkoholio produktus neišduodamos naujai įsteigtoms įmonėms, jeigu jų steigėjai (akcininkai) arba administracijos vadovai yra įmonių, kurioms buvo panaikintas licencijų galiojimas pagal šio įstatymo 44 straipsnio 10 ar 11 dalies nuostatas, steigėjai (akcininkai, kurių turimų akcijų nominali vertė didesnė kaip 1/10 įstatinio kapitalo).“
+Alkoholio produktų importo licencijavimo taisykles, remdamasi šiuo bei [Įmonių įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B), nustato Lietuvos Respublikos Vyriausybė. Licencijos importuoti alkoholio produktus neišduodamos naujai įsteigtoms įmonėms, jeigu jų steigėjai (akcininkai) arba administracijos vadovai yra įmonių, kurioms buvo panaikintas licencijų galiojimas pagal šio įstatymo 44 straipsnio 10 ar 11 dalies nuostatas, steigėjai (akcininkai, kurių turimų akcijų nominali vertė didesnė kaip 1/10 įstatinio kapitalo).“
 
 
 
@@ -127,7 +127,7 @@ Mažmeninės prekybos alkoholiniais gėrimais ir prekybos alkoholiniais gėrimai
 Mažmeninės prekybos alkoholiniais gėrimais prekybos ir viešojo maitinimo įmonėse licencijose turi būti įrašyta leidžiamų realizuoti alkoholinių gėrimų rūšys, alkoholinių gėrimų grupės bei prekybos jais laikas ir vieta, taip pat alkoholinių gėrimų saugojimo (laikymo) vieta.
 
 
-Alkoholio produktų vidaus prekybos licencijavimo taisykles, remdamasi šiuo bei Įmonių įstatymu, nustato Lietuvos Respublikos Vyriausybė. Licencijos verstis vidaus prekyba alkoholio produktais neišduodamos naujai įsteigtoms įmonėms, jeigu jų steigėjai yra įmonių, kurioms buvo panaikintas licencijų galiojimas pagal šio įstatymo 44 straipsnio 10 ar 11 dalies nuostatas, steigėjai.“
+Alkoholio produktų vidaus prekybos licencijavimo taisykles, remdamasi šiuo bei [Įmonių įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B), nustato Lietuvos Respublikos Vyriausybė. Licencijos verstis vidaus prekyba alkoholio produktais neišduodamos naujai įsteigtoms įmonėms, jeigu jų steigėjai yra įmonių, kurioms buvo panaikintas licencijų galiojimas pagal šio įstatymo 44 straipsnio 10 ar 11 dalies nuostatas, steigėjai.“
 
 
 
@@ -206,7 +206,7 @@ Didmeninės prekybos įmonėms, turinčioms teisę parduoti alkoholinius gėrimu
 5. 44 straipsnio 12 dalyje vietoj žodžio „leidimų“ įrašyti žodį „licencijų“ ir šią dalį išdėstyti taip: ^s-92a0ceb74e94bd0ca295c19b
 
 
-„Įmonėms, kurioms panaikinamas licencijų galiojimas pagal šio straipsnio vienuoliktosios dalies reikalavimus, taip pat draudžiama verstis bet kokia prekybine veikla. Šis draudimas įgyvendinamas, vadovaujantis Prekybos įstatymo 7(1) straipsnio nustatyta tvarka.“
+„Įmonėms, kurioms panaikinamas licencijų galiojimas pagal šio straipsnio vienuoliktosios dalies reikalavimus, taip pat draudžiama verstis bet kokia prekybine veikla. Šis draudimas įgyvendinamas, vadovaujantis [Prekybos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.90F753E076E0) 7(1) straipsnio nustatyta tvarka.“
 
 
 6. 44 straipsnio 13 dalyje vietoj žodžio „leidimų“ įrašyti žodį „licencijų“ ir šią dalį išdėstyti taip: ^s-309264e4930364740bf9b91b

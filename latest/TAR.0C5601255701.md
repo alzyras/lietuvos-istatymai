@@ -42,7 +42,7 @@ Vilnius
 Papildyti 56 straipsnį 3 dalimi:
 
 
-„3. Kai tėvai (tėvas, motina) arba kitas teisėtas vaiko atstovas smurtaudamas arba kitaip sukeldamas pavojų vaikui piktnaudžiauja tėvų valdžia ir dėl to kyla reali grėsmė vaiko sveikatai ar gyvybei, valstybinė vaiko teisių apsaugos institucija arba valstybinė vaiko teisių apsaugos institucija kartu su policija nedelsdama paima vaiką iš tėvų arba kitų teisėtų vaiko atstovų ir perduoda jį globoti (rūpintis) Civilinio kodekso nustatyta tvarka. Šiuo atveju policijos pareigūnas turi teises, numatytas Lietuvos Respublikos policijos veiklos įstatymo 18 straipsnio 1 dalies 3 punkte. Paėmusi vaiką, valstybinė vaiko teisių apsaugos institucija apie tai nedelsdama praneša vaiko tėvams ar kitiems teisėtiems jo atstovams.“
+„3. Kai tėvai (tėvas, motina) arba kitas teisėtas vaiko atstovas smurtaudamas arba kitaip sukeldamas pavojų vaikui piktnaudžiauja tėvų valdžia ir dėl to kyla reali grėsmė vaiko sveikatai ar gyvybei, valstybinė vaiko teisių apsaugos institucija arba valstybinė vaiko teisių apsaugos institucija kartu su policija nedelsdama paima vaiką iš tėvų arba kitų teisėtų vaiko atstovų ir perduoda jį globoti (rūpintis) Civilinio kodekso nustatyta tvarka. Šiuo atveju policijos pareigūnas turi teises, numatytas [[latest/TAR.CA89372D00AA|Lietuvos Respublikos policijos veiklos įstatymo 18 straipsnio 1 dalies 3 punkte]]. Paėmusi vaiką, valstybinė vaiko teisių apsaugos institucija apie tai nedelsdama praneša vaiko tėvams ar kitiems teisėtiems jo atstovams.“
 
 
 

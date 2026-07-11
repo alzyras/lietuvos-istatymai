@@ -216,7 +216,7 @@ Vyriausybė ar jos įgaliota institucija per 6 mėnesius nuo šio įstatymo įsi
 ### 7 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-3f29c349c3c45750804bac06
 
 
-1. Šio įstatymo 2 ir [[#^s-7817d755b988cf9b91520062|4 straipsniai]] įsigalioja po 9 mėnesių nuo šio įstatymo įsigaliojimo. ^s-a0949f24ca1e3caf519d891e
+1. Šio įstatymo [[#^s-00298365ba7b7b1447ea9546|2]] ir [[#^s-7817d755b988cf9b91520062|4]] straipsniai įsigalioja po 9 mėnesių nuo šio įstatymo įsigaliojimo. ^s-a0949f24ca1e3caf519d891e
 
 
 2. Šio įstatymo [[#^s-89fd5087bb4a307802145f39|3 straipsnio 2 dalis]] įsigalioja nuo 2008 m. sausio 1 d. ^s-b0a960fcae3cdc29eb5b09d0

@@ -289,7 +289,7 @@ VEIKLOS RŪŠIŲ LICENCIJAVIMAS
 1. Licencijos verstis šio Įstatymo [[#^s-fe2d3645af655d2beee392e8|10 straipsnio 1 dalyje]] nurodytų rūšių veikla gali būti išduodamos Lietuvos Respublikoje įstatymų nustatyta tvarka įregistruotoms įmonėms ir užsienio juridinių asmenų, pagal užsienio valstybių įstatymus turinčių teisę verstis komercine ūkine veikla, filialams (toliau – įmonė), o licencija verstis tabako auginimu – ir Lietuvos Respublikoje ūkininko ūkius įregistravusiems ūkininkams (toliau – ūkininkas). ^s-236a05964004d1021e197f4f
 
 
-2. Įmonėms, kurių steigėjai ar administracijos vadovai buvo įmonių, kurioms buvo panaikintas licencijos galiojimas pagal šio Įstatymo [[#^s-da3dc9c59cb8edf06232aa29|26 straipsnio 5 dalį]], steigėjai, administracijos vadovai ar kiti darbuotojai (jeigu jie veikė įmonės vardu ar dėl jos interesų), licencijos verstis šio Įstatymo [[#^s-fe2d3645af655d2beee392e8|10 straipsnio 1 dalyje]] nurodytų rūšių veikla neišduodamos. Tais atvejais, kai licencijos galiojimas buvo panaikintas pagal šio Įstatymo [[#^s-c58b785d505acb66b58b9852|26 straipsnio]] 3 ar [[#^s-361f8c53a8810140c8c73b77|6 dalis]], licencijos neišduodamos penkerius metus nuo licencijos galiojimo panaikinimo. ^s-7775298401ca208808bb10c4
+2. Įmonėms, kurių steigėjai ar administracijos vadovai buvo įmonių, kurioms buvo panaikintas licencijos galiojimas pagal šio Įstatymo [[#^s-da3dc9c59cb8edf06232aa29|26 straipsnio 5 dalį]], steigėjai, administracijos vadovai ar kiti darbuotojai (jeigu jie veikė įmonės vardu ar dėl jos interesų), licencijos verstis šio Įstatymo [[#^s-fe2d3645af655d2beee392e8|10 straipsnio 1 dalyje]] nurodytų rūšių veikla neišduodamos. Tais atvejais, kai licencijos galiojimas buvo panaikintas pagal šio Įstatymo [[#^s-c58b785d505acb66b58b9852|26 straipsnio]] [[#^s-21f016d6186695824a62f56e|3]] ar [[#^s-e34ad0c2bdb04e4b70a36328|6]] dalis, licencijos neišduodamos penkerius metus nuo licencijos galiojimo panaikinimo. ^s-7775298401ca208808bb10c4
 
 
 3. Licencijas verstis tabako auginimu, tabako gaminių gamyba ir didmenine prekyba tabako gaminiais, vadovaudamasi Lietuvos Respublikos Vyriausybės patvirtintomis licencijavimo taisyklėmis, išduoda Valstybinė tabako ir alkoholio kontrolės tarnyba prie Lietuvos Respublikos Vyriausybės (toliau – Valstybinė tabako ir alkoholio kontrolės tarnyba). ^s-4374eb03b95699bca6c3f5f4
@@ -473,7 +473,7 @@ TABAKO GAMINIŲ REKLAMA, ĮSIGIJIMO IR (AR) VARTOJIMO SKATINIMAS, RĖMIMAS IR VA
 4. Prekybos tabako gaminiais vietose, išskyrus patalpas, kuriose vyksta didmeninė prekyba tabako gaminiais, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka taip pat privalo būti pateikta informacija (įspėjimai) apie kenksmingą tabako gaminių vartojimo poveikį sveikatai ir apie draudimą parduoti tabako gaminius asmenims iki 18 metų. ^s-11e4b7a558052be13262af8e
 
 
-5. [[#^s-cbe23ccf9c02f8a8e6157176|Šio straipsnio 3 dalyje]] nurodytą informaciją leidžiama pateikti tik kartu su išdėstytais tabako gaminiais. Ji negali būti pateikiama lankstinukuose, skrajutėse ir kitokiomis reklamos priemonėmis, skirtomis vartotojams išsinešti; be to, prekybos tabako gaminiais vietose draudžiama pateikti tabako gaminių ar jų pakuočių imitacijas ir atvaizdus. Prekybos tabako gaminiais vietose apie tabako gaminius negali būti pateikiama jokia kita šio straipsnio 3 ir [[#^s-11e4b7a558052be13262af8e|4 dalyse]] nenustatyta vaizdinė ar grafinė informacija. ^s-9f28da5b896c6bd20e817e2c
+5. [[#^s-cbe23ccf9c02f8a8e6157176|Šio straipsnio 3 dalyje]] nurodytą informaciją leidžiama pateikti tik kartu su išdėstytais tabako gaminiais. Ji negali būti pateikiama lankstinukuose, skrajutėse ir kitokiomis reklamos priemonėmis, skirtomis vartotojams išsinešti; be to, prekybos tabako gaminiais vietose draudžiama pateikti tabako gaminių ar jų pakuočių imitacijas ir atvaizdus. Prekybos tabako gaminiais vietose apie tabako gaminius negali būti pateikiama jokia kita šio straipsnio [[#^s-cbe23ccf9c02f8a8e6157176|3]] ir [[#^s-11e4b7a558052be13262af8e|4]] dalyse nenustatyta vaizdinė ar grafinė informacija. ^s-9f28da5b896c6bd20e817e2c
 
 
 
@@ -599,10 +599,10 @@ ATSAKOMYBĖ UŽ [[latest/TAR.F8090E375DA0|TABAKO KONTROLĖS ĮSTATYMO]] PAŽEIDI
 ### 25 straipsnis.       Administracinė atsakomybė už Tabako kontrolės įstatymo pažeidimus bei tabako gaminių konfiskavimas ir sunaikinimas ^s-2056c8df82d648f6ce22e301
 
 
-1. Fiziniai asmenys už šio Įstatymo pažeidimus atsako Lietuvos Respublikos administracinių teisės pažeidimų kodekse nustatyta tvarka. ^s-8e61b4e6fdbded47ff819056
+1. Fiziniai asmenys už šio Įstatymo pažeidimus atsako [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka. ^s-8e61b4e6fdbded47ff819056
 
 
-2. Lietuvos Respublikoje parduodami, laikomi, gabenami tabako gaminiai, kurie neatitinka šiame Įstatyme ir kituose teisės aktuose nustatytų reikalavimų, konfiskuojami vadovaujantis atitinkamai Lietuvos Respublikos administracinių teisės pažeidimų kodeksu ar Lietuvos Respublikos baudžiamuoju kodeksu. ^s-a71b12b8785c4aae788c2b83
+2. Lietuvos Respublikoje parduodami, laikomi, gabenami tabako gaminiai, kurie neatitinka šiame Įstatyme ir kituose teisės aktuose nustatytų reikalavimų, konfiskuojami vadovaujantis atitinkamai [Lietuvos Respublikos administracinių teisės pažeidimų kodeksu](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) ar Lietuvos Respublikos baudžiamuoju kodeksu. ^s-a71b12b8785c4aae788c2b83
 
 
 3. Konfiskuoti tabako gaminiai sunaikinami Lietuvos Respublikos Vyriausybės nustatyta tvarka. ^s-a1e9f77096ce16d2cc974c0b
@@ -618,19 +618,19 @@ ATSAKOMYBĖ UŽ [[latest/TAR.F8090E375DA0|TABAKO KONTROLĖS ĮSTATYMO]] PAŽEIDI
 2. Už tabako auginimą, tabako gaminių gamybą, laikymą ir prekybą jais pažeidžiant šio Įstatymo [[#^s-fe2d3645af655d2beee392e8|10 straipsnio 1 dalies]] arba [[#^s-aee3403b7067bfff00b261bb|14 straipsnio 1 dalies]] reikalavimus (neturint nustatyta tvarka išduotos licencijos) juridiniai asmenys, užsienio juridinių asmenų filialai ir ūkininkai baudžiami nuo dešimties tūkstančių iki trisdešimties tūkstančių litų bauda. ^s-a1ae96738d7778c96628b140
 
 
-3. Už šio Įstatymo [[#^s-b7b0a8e64b380bb83d5db97d|12 straipsnio 1 dalyje]] nustatyto draudimo įgalioti ar pagal sutartį perduoti kitiems asmenims teisę verstis turimose licencijose nurodyta veikla pažeidimą, už šio Įstatymo [[#^s-1c422306477bbb8e0f92e9c5|12 straipsnio]] 3, 4, 5 ar [[#^s-69c61f17fdd38ced9186bb6d|7 dalyje]] nustatytų tabako gaminių įsigijimo, tabako gaminių ar tabako pardavimo reikalavimų pažeidimą juridiniai asmenys, užsienio juridinių asmenų filialai ir ūkininkai baudžiami nuo trijų tūkstančių iki penkių tūkstančių litų bauda. Už šių draudimų ir reikalavimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys, užsienio juridinių asmenų filialai ir ūkininkai baudžiami nuo penkių tūkstančių iki dešimties tūkstančių litų bauda ir panaikinamas licencijos galiojimas. ^s-21f016d6186695824a62f56e
+3. Už šio Įstatymo [[#^s-b7b0a8e64b380bb83d5db97d|12 straipsnio 1 dalyje]] nustatyto draudimo įgalioti ar pagal sutartį perduoti kitiems asmenims teisę verstis turimose licencijose nurodyta veikla pažeidimą, už šio Įstatymo [[#^s-1c422306477bbb8e0f92e9c5|12 straipsnio]] [[#^s-14914718baa7e98140851e51|3]], [[#^s-04f32727bf0bc35f1276263d|4]], [[#^s-a0a15844782a510025cc299c|5]] ar [[#^s-99bd487b38126b83e900cb99|7]] dalyje nustatytų tabako gaminių įsigijimo, tabako gaminių ar tabako pardavimo reikalavimų pažeidimą juridiniai asmenys, užsienio juridinių asmenų filialai ir ūkininkai baudžiami nuo trijų tūkstančių iki penkių tūkstančių litų bauda. Už šių draudimų ir reikalavimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys, užsienio juridinių asmenų filialai ir ūkininkai baudžiami nuo penkių tūkstančių iki dešimties tūkstančių litų bauda ir panaikinamas licencijos galiojimas. ^s-21f016d6186695824a62f56e
 
 
 4. Už šio Įstatymo [[#^s-d0d05eae87facf7fade58ca5|13 straipsnyje]] nustatyto draudimo parduoti oraliniam vartojimui skirtą, taip pat uostomąjį tabaką pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo penkių tūkstančių iki dešimties tūkstančių litų bauda. ^s-6b15151365f381f0002d3e2f
 
 
-5. Už šio Įstatymo [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] 1, 2, 3 ar 4 punktuose nustatytų tabako gaminių pardavimo, laikymo ar gabenimo draudimų pažeidimą, jeigu tai neužtraukia baudžiamosios atsakomybės, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dešimties tūkstančių iki trisdešimties tūkstančių litų bauda ir panaikinamas licencijos galiojimas. ^s-da3dc9c59cb8edf06232aa29
+5. Už šio Įstatymo [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] [[#^s-dd25454493901fe4bf0f6948|1]], [[#^s-020ac55f17449c5b2438a78a|2]], [[#^s-afbd41efd505b9945c6979e8|3]] ar [[#^s-85ec235360d9a6e529a613c3|4]] punktuose nustatytų tabako gaminių pardavimo, laikymo ar gabenimo draudimų pažeidimą, jeigu tai neužtraukia baudžiamosios atsakomybės, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dešimties tūkstančių iki trisdešimties tūkstančių litų bauda ir panaikinamas licencijos galiojimas. ^s-da3dc9c59cb8edf06232aa29
 
 
 6. Už šio Įstatymo [[#^s-89c9dbe1cc61717c7b8a0787|14 straipsnio 3 dalies 5 punkte]] nustatyto tabako gaminių pardavimo, laikymo ar gabenimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo penkių tūkstančių iki dešimties tūkstančių litų bauda. Už šio draudimo pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dešimties tūkstančių iki dvidešimties tūkstančių litų bauda ir panaikinamas licencijos galiojimas. ^s-e34ad0c2bdb04e4b70a36328
 
 
-7. Už šio Įstatymo [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] 6 ar 7 punktuose nustatytų tabako gaminių pardavimo, laikymo ar gabenimo draudimų pažeidimą, [[#^s-d38b51ff97f6f20010dd11bd|14 straipsnio 5 dalies]] 1, 2 ar 3 punktuose nustatytų draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo trijų tūkstančių iki penkių tūkstančių litų bauda. Už šio Įstatymo [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] 6 ar 7 punktuose, [[#^s-d38b51ff97f6f20010dd11bd|14 straipsnio 5 dalies]] 1 ar 2 punktuose nustatytų draudimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo penkių tūkstančių iki dešimties tūkstančių litų bauda. Už šio Įstatymo [[#^s-8f319232b2e6652c6b7fa420|14 straipsnio 5 dalies 3 punkte]] nustatyto draudimo pažeidimą, padarytą toje pačioje prekybos vietoje pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo penkių tūkstančių iki dešimties tūkstančių litų bauda ir panaikinamas licencijos galiojimas toje prekybos vietoje, kurioje nustatytas pažeidimas. Nauja licencija neišduodama vienerius metus nuo licencijos galiojimo panaikinimo dienos. ^s-69c61f17fdd38ced9186bb6d
+7. Už šio Įstatymo [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] [[#^s-bd46ec93bd570a2efb8cfb1b|6]] ar [[#^s-b8bf561673d9bf891ac785cb|7]] punktuose nustatytų tabako gaminių pardavimo, laikymo ar gabenimo draudimų pažeidimą, [[#^s-d38b51ff97f6f20010dd11bd|14 straipsnio 5 dalies]] [[#^s-12840b4c9229529741f2841b|1]], [[#^s-6dba486a64829e027c9a289c|2]] ar [[#^s-8f319232b2e6652c6b7fa420|3]] punktuose nustatytų draudimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo trijų tūkstančių iki penkių tūkstančių litų bauda. Už šio Įstatymo [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] [[#^s-bd46ec93bd570a2efb8cfb1b|6]] ar [[#^s-b8bf561673d9bf891ac785cb|7]] punktuose, [[#^s-d38b51ff97f6f20010dd11bd|14 straipsnio 5 dalies]] [[#^s-12840b4c9229529741f2841b|1]] ar [[#^s-6dba486a64829e027c9a289c|2]] punktuose nustatytų draudimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo penkių tūkstančių iki dešimties tūkstančių litų bauda. Už šio Įstatymo [[#^s-8f319232b2e6652c6b7fa420|14 straipsnio 5 dalies 3 punkte]] nustatyto draudimo pažeidimą, padarytą toje pačioje prekybos vietoje pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo penkių tūkstančių iki dešimties tūkstančių litų bauda ir panaikinamas licencijos galiojimas toje prekybos vietoje, kurioje nustatytas pažeidimas. Nauja licencija neišduodama vienerius metus nuo licencijos galiojimo panaikinimo dienos. ^s-69c61f17fdd38ced9186bb6d
 
 
 8. Už šio Įstatymo [[#^s-655f718f1330b3d941975b12|15 straipsnyje]] nustatytų prekybos tabako gaminiais draudimų, [[#^s-a0ed8d7bf5a68ea519cb8cb4|16 straipsnyje]] nustatyto prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, pardavimo draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo trijų tūkstančių iki penkių tūkstančių litų bauda. Už šių draudimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo penkių tūkstančių iki dešimties tūkstančių litų bauda. ^s-19f8b0d10ab0a80cf28c1ed9
@@ -639,7 +639,7 @@ ATSAKOMYBĖ UŽ [[latest/TAR.F8090E375DA0|TABAKO KONTROLĖS ĮSTATYMO]] PAŽEIDI
 9. Už šio Įstatymo [[#^s-499d54a9facf5045eb4fcf46|17 straipsnio 1 dalyje]] nustatyto reklamos draudimo pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo penkių tūkstančių iki dešimties tūkstančių litų bauda. Už šio draudimo pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dešimties tūkstančių iki dvidešimties tūkstančių litų bauda. ^s-2ff6fd0a04269f9e08e57de1
 
 
-10. Už šio Įstatymo [[#^s-5bf07bc7d47a3dcb1d586d17|17 straipsnio]] 4 ar [[#^s-da3dc9c59cb8edf06232aa29|5 dalyse]] nustatytų informacijos pateikimo reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio iki trijų tūkstančių litų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo trijų tūkstančių iki penkių tūkstančių litų bauda. ^s-453264f659ec654cfda29751
+10. Už šio Įstatymo [[#^s-5bf07bc7d47a3dcb1d586d17|17 straipsnio]] [[#^s-11e4b7a558052be13262af8e|4]] ar [[#^s-9f28da5b896c6bd20e817e2c|5]] dalyse nustatytų informacijos pateikimo reikalavimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo vieno tūkstančio iki trijų tūkstančių litų bauda. Už šių reikalavimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo trijų tūkstančių iki penkių tūkstančių litų bauda. ^s-453264f659ec654cfda29751
 
 
 11. Už šio Įstatymo [[#^s-428fb5b559c3ac05ee1787d2|18 straipsnyje]] nustatytų tabako gaminių įsigijimo ir (ar) vartojimo skatinimo draudimų, asmenų pasitelkimo šiai veiklai draudimo ar rėmimo ribojimų pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo trijų tūkstančių iki penkių tūkstančių litų bauda. Už šių draudimų ir ribojimų pažeidimą, padarytą pakartotinai per vienerius metus nuo baudos paskyrimo, juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo aštuonių tūkstančių iki dešimties tūkstančių litų bauda. ^s-1f760a6c16929934f26776c1
@@ -654,25 +654,25 @@ ATSAKOMYBĖ UŽ [[latest/TAR.F8090E375DA0|TABAKO KONTROLĖS ĮSTATYMO]] PAŽEIDI
 1) Valstybinė visuomenės sveikatos priežiūros tarnyba prie Lietuvos Respublikos sveikatos apsaugos ministerijos – už [[#^s-3bbde626bf811a44a450de80|9 straipsnio 1 dalies]] pažeidimą; ^s-cb594a47377950f99a1a7296
 
 
-2) Valstybinė tabako ir alkoholio kontrolės tarnyba – už [[#^s-fe2d3645af655d2beee392e8|10 straipsnio 1 dalies]], [[#^s-1c422306477bbb8e0f92e9c5|12 straipsnio]] 1, 3, 4, 5 ir [[#^s-69c61f17fdd38ced9186bb6d|7 dalių]], [[#^s-d0d05eae87facf7fade58ca5|13 straipsnio]], [[#^s-aee3403b7067bfff00b261bb|14 straipsnio 1 dalies]], [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] 1, 2, 3, 4 ir [[#^s-d5c971c6f2b1b3ea84322270|6 punktų]], [[#^s-d38b51ff97f6f20010dd11bd|14 straipsnio 5 dalies]], 15, [[#^s-a0ed8d7bf5a68ea519cb8cb4|16 straipsnių]], [[#^s-499d54a9facf5045eb4fcf46|17 straipsnio 1 dalies]] (išskyrus pažeidimus visuomenės informavimo priemonėse), 4 ir [[#^s-da3dc9c59cb8edf06232aa29|5 dalių]], [[#^s-428fb5b559c3ac05ee1787d2|18 straipsnio]], [[#^s-47480f64deea0559ed2a5a1e|19 straipsnio 2 dalies]] nuostatų pažeidimus; ^s-c999c1db84c16587ed58f342
+2) Valstybinė tabako ir alkoholio kontrolės tarnyba – už [[#^s-fe2d3645af655d2beee392e8|10 straipsnio 1 dalies]], [[#^s-1c422306477bbb8e0f92e9c5|12 straipsnio]] [[#^s-b7b0a8e64b380bb83d5db97d|1]], [[#^s-14914718baa7e98140851e51|3]], [[#^s-04f32727bf0bc35f1276263d|4]], [[#^s-a0a15844782a510025cc299c|5]] ir [[#^s-99bd487b38126b83e900cb99|7]] dalių, [[#^s-d0d05eae87facf7fade58ca5|13 straipsnio]], [[#^s-aee3403b7067bfff00b261bb|14 straipsnio 1 dalies]], [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] [[#^s-dd25454493901fe4bf0f6948|1]], [[#^s-020ac55f17449c5b2438a78a|2]], [[#^s-afbd41efd505b9945c6979e8|3]], [[#^s-85ec235360d9a6e529a613c3|4]] ir [[#^s-bd46ec93bd570a2efb8cfb1b|6]] punktų, [[#^s-d38b51ff97f6f20010dd11bd|14 straipsnio 5 dalies]], [[#^s-655f718f1330b3d941975b12|15]], [[#^s-a0ed8d7bf5a68ea519cb8cb4|16]] straipsnių, [[#^s-499d54a9facf5045eb4fcf46|17 straipsnio 1 dalies]] (išskyrus pažeidimus visuomenės informavimo priemonėse), [[#^s-11e4b7a558052be13262af8e|4]] ir [[#^s-9f28da5b896c6bd20e817e2c|5]] dalių, [[#^s-428fb5b559c3ac05ee1787d2|18 straipsnio]], [[#^s-47480f64deea0559ed2a5a1e|19 straipsnio 2 dalies]] nuostatų pažeidimus; ^s-c999c1db84c16587ed58f342
 
 
 3) Nacionalinė vartotojų teisių apsaugos taryba prie Lietuvos Respublikos teisingumo ministerijos – už [[#^s-89c9dbe1cc61717c7b8a0787|14 straipsnio 3 dalies 5 punkto]] (kai Valstybinė ne maisto produktų inspekcija prie Lietuvos Respublikos ūkio ministerijos pateikia pažeidimo protokolą) ir už [[#^s-499d54a9facf5045eb4fcf46|17 straipsnio 1 dalies]] nuostatų pažeidimus visuomenės informavimo priemonėse; ^s-3758830b0adf411db4369666
 
 
-4) Valstybinė ne maisto produktų inspekcija prie Lietuvos Respublikos ūkio ministerijos – už [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] 6 ir [[#^s-6cb006e0b4bc067733e2e8b5|7 punktų]] nuostatų pažeidimus; ^s-add6bb1b2ce955b662cd57b7
+4) Valstybinė ne maisto produktų inspekcija prie Lietuvos Respublikos ūkio ministerijos – už [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] [[#^s-bd46ec93bd570a2efb8cfb1b|6]] ir [[#^s-b8bf561673d9bf891ac785cb|7]] punktų nuostatų pažeidimus; ^s-add6bb1b2ce955b662cd57b7
 
 
-5) valstybinė mokesčių inspekcija – už [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] 1 ir [[#^s-add6bb1b2ce955b662cd57b7|4 punktų]] nuostatų pažeidimus; ^s-6ef94f4446baa4353e212753
+5) valstybinė mokesčių inspekcija – už [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] [[#^s-dd25454493901fe4bf0f6948|1]] ir [[#^s-85ec235360d9a6e529a613c3|4]] punktų nuostatų pažeidimus; ^s-6ef94f4446baa4353e212753
 
 
-6) savivaldybių vykdomosios institucijos – už [[#^s-fe2d3645af655d2beee392e8|10 straipsnio 1 dalyje]] ir [[#^s-aee3403b7067bfff00b261bb|14 straipsnio 1 dalyje]] nustatytų reikalavimų pažeidimus mažmeninės prekybos įmonėse, taip pat už 15, [[#^s-a0ed8d7bf5a68ea519cb8cb4|16 straipsnių]], [[#^s-499d54a9facf5045eb4fcf46|17 straipsnio 1 dalies]] (išorinės reklamos priemonėse), 4 ir [[#^s-da3dc9c59cb8edf06232aa29|5 dalių]], [[#^s-9a9ab8abb1f52f7c9827ce87|18 straipsnio 1 dalies]] nuostatų pažeidimus; ^s-d5c971c6f2b1b3ea84322270
+6) savivaldybių vykdomosios institucijos – už [[#^s-fe2d3645af655d2beee392e8|10 straipsnio 1 dalyje]] ir [[#^s-aee3403b7067bfff00b261bb|14 straipsnio 1 dalyje]] nustatytų reikalavimų pažeidimus mažmeninės prekybos įmonėse, taip pat už [[#^s-655f718f1330b3d941975b12|15]], [[#^s-a0ed8d7bf5a68ea519cb8cb4|16]] straipsnių, [[#^s-499d54a9facf5045eb4fcf46|17 straipsnio 1 dalies]] (išorinės reklamos priemonėse), [[#^s-11e4b7a558052be13262af8e|4]] ir [[#^s-9f28da5b896c6bd20e817e2c|5]] dalių, [[#^s-9a9ab8abb1f52f7c9827ce87|18 straipsnio 1 dalies]] nuostatų pažeidimus; ^s-d5c971c6f2b1b3ea84322270
 
 
-7) policijos įstaigų vadovai ar jų įgalioti asmenys – už [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] 1, 2 ir [[#^s-3758830b0adf411db4369666|3 punktų]] nuostatų pažeidimus; ^s-6cb006e0b4bc067733e2e8b5
+7) policijos įstaigų vadovai ar jų įgalioti asmenys – už [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] [[#^s-dd25454493901fe4bf0f6948|1]], [[#^s-020ac55f17449c5b2438a78a|2]] ir [[#^s-afbd41efd505b9945c6979e8|3]] punktų nuostatų pažeidimus; ^s-6cb006e0b4bc067733e2e8b5
 
 
-8) Muitinės departamento prie Lietuvos Respublikos finansų ministerijos pareigūnai – už [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] 1 ir [[#^s-3758830b0adf411db4369666|3 punktų]] nuostatų pažeidimus. ^s-ef8157937414ba2e89945933
+8) Muitinės departamento prie Lietuvos Respublikos finansų ministerijos pareigūnai – už [[#^s-5faf40f229e37dba97929443|14 straipsnio 3 dalies]] [[#^s-dd25454493901fe4bf0f6948|1]] ir [[#^s-afbd41efd505b9945c6979e8|3]] punktų nuostatų pažeidimus. ^s-ef8157937414ba2e89945933
 
 
 14. [[#^s-6938214ad33d404b75ddd18a|Šio straipsnio 13 dalyje]] nurodytos institucijos, pagal kompetenciją skirdamos baudas už šio Įstatymo pažeidimus, konkretų baudos dydį nustato atsižvelgdamos į pažeidimo pobūdį ir atsakomybę lengvinančias ar sunkinančias aplinkybes. Jeigu yra atsakomybę lengvinančių aplinkybių, skiriamos baudos dydis neturi viršyti ekonominės sankcijos už padarytą pažeidimą vidurkio, o jeigu yra atsakomybę sunkinančių aplinkybių, skiriamos baudos dydis turi būti ne mažesnis kaip ekonominės sankcijos už padarytą pažeidimą vidurkis. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas institucijos, skiriančios baudą už šiame Įstatyme nustatytų reikalavimų pažeidimus, nutarime. ^s-1860e86bdd996b4b0107794a
@@ -681,7 +681,7 @@ ATSAKOMYBĖ UŽ [[latest/TAR.F8090E375DA0|TABAKO KONTROLĖS ĮSTATYMO]] PAŽEIDI
 15. Atsakomybę lengvinančiomis aplinkybėmis laikoma tai, kad juridiniai asmenys, užsienio juridinių asmenų filialai ar ūkininkai, padarę pažeidimą, savo noru užkirto kelią žalingiems pažeidimo padariniams, padėjo kompetentingoms institucijoms tyrimo metu, atlygino nuostolius ar pašalino padarytą žalą. Atsakomybę sunkinančiomis aplinkybėmis laikoma tai, kad juridiniai asmenys, užsienio juridinių asmenų filialai ar ūkininkai kliudė atlikti tyrimą, slėpė padarytą pažeidimą, tęsė pažeidimą nepaisydami kompetentingos institucijos nurodymo nutraukti neteisėtus veiksmus. Skirianti baudą institucija gali pripažinti atsakomybę lengvinančiomis ar sunkinančiomis aplinkybėmis ir kitas šioje dalyje nenurodytas aplinkybes. ^s-78909687f6264429f11a0b5c
 
 
-16. Įmonėms, kurių turimų licencijų galiojimas buvo panaikintas pagal šio straipsnio 3 ar [[#^s-e34ad0c2bdb04e4b70a36328|6 dalį]], naujos licencijos neišduodamos penkerius metus nuo licencijų galiojimo panaikinimo dienos. ^s-a0a73910b0a3e034dd57370a
+16. Įmonėms, kurių turimų licencijų galiojimas buvo panaikintas pagal šio straipsnio [[#^s-21f016d6186695824a62f56e|3]] ar [[#^s-e34ad0c2bdb04e4b70a36328|6]] dalį, naujos licencijos neišduodamos penkerius metus nuo licencijų galiojimo panaikinimo dienos. ^s-a0a73910b0a3e034dd57370a
 
 
 17. Įmonių turimų licencijų galiojimas panaikinamas, jeigu pačioms įmonėms, įmonių administracijos vadovams ar kitiems įmonių darbuotojams (veikusiems įmonės vardu ar dėl jos interesų) yra įsiteisėjęs apkaltinamasis teismo nuosprendis, įsiteisėjęs teismo nutarimas, sprendimas, įsiteisėjęs muitinės, mokesčių inspekcijos, policijos ar Valstybinės tabako ir alkoholio kontrolės tarnybos atitinkamas nutarimas dėl bausmės ar nuobaudos skyrimo už tabako ar tabako gaminių kontrabandą, falsifikuotų tabako gaminių pardavimą, laikymą ar gabenimą, tabako gaminių pardavimą, laikymą ar gabenimą be tabako gaminių įsigijimą patvirtinančių juridinę galią turinčių dokumentų, taip pat už tabako gaminių be specialių ženklų – banderolių neteisėtą laikymą, gabenimą ar pardavimą. Šioms įmonėms, taip pat įmonėms, kurių turimos licencijos galiojimas panaikinamas pagal [[#^s-da3dc9c59cb8edf06232aa29|šio straipsnio 5 dalį]], naujos licencijos neišduodamos. ^s-5182098611f787ef4894e9e3
@@ -694,7 +694,7 @@ ATSAKOMYBĖ UŽ [[latest/TAR.F8090E375DA0|TABAKO KONTROLĖS ĮSTATYMO]] PAŽEIDI
 ### 27 straipsnis. Įstatymo pažeidimų protokolas ir bylų nagrinėjimo terminai ^s-bccc9d6c55a0996255200ac3
 
 
-1. Šio Įstatymo [[#^s-6938214ad33d404b75ddd18a|26 straipsnio 13 dalyje]] nurodytų institucijų įgalioti darbuotojai (pareigūnai), nustatę šio Įstatymo nuostatų pažeidimą, surašo Lietuvos Respublikos administracinių teisės pažeidimų kodekse nustatyto turinio protokolą. ^s-6ba31eb9bb0abbe051c0f085
+1. Šio Įstatymo [[#^s-6938214ad33d404b75ddd18a|26 straipsnio 13 dalyje]] nurodytų institucijų įgalioti darbuotojai (pareigūnai), nustatę šio Įstatymo nuostatų pažeidimą, surašo [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyto turinio protokolą. ^s-6ba31eb9bb0abbe051c0f085
 
 
 2. Šio Įstatymo [[#^s-6938214ad33d404b75ddd18a|26 straipsnio 13 dalyje]] nurodytos institucijos bylas išnagrinėja ir ekonomines sankcijas paskiria ne vėliau kaip per mėnesį nuo pažeidimo nustatymo dienos. ^s-c0725863ab9fe8aae798f08e
@@ -804,7 +804,7 @@ Proceso šalims raštu pranešama apie nustatytus šio Įstatymo pažeidimus, by
 1. Paskirta bauda ne vėliau kaip per vieną mėnesį nuo dienos, kurią šio Įstatymo pažeidėjams įteiktas nutarimas paskirti baudą, turi būti sumokėta į valstybės biudžetą, o tuo atveju, kai baudą paskyrė savivaldybės vykdomoji institucija, – į tos savivaldybės biudžetą. ^s-f6f72c34e6a49db770b8cf23
 
 
-2. Nesumokėtas baudas išieško antstoliai vykdydami pateiktus šio Įstatymo [[#^s-6938214ad33d404b75ddd18a|26 straipsnio 13 dalyje]] nurodytų institucijų nutarimus Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Nutarimas gali būti pateiktas vykdyti ne vėliau kaip per trejus metus nuo nutarimo priėmimo dienos. ^s-f8820bf1adf30d45029d02af
+2. Nesumokėtas baudas išieško antstoliai vykdydami pateiktus šio Įstatymo [[#^s-6938214ad33d404b75ddd18a|26 straipsnio 13 dalyje]] nurodytų institucijų nutarimus [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Nutarimas gali būti pateiktas vykdyti ne vėliau kaip per trejus metus nuo nutarimo priėmimo dienos. ^s-f8820bf1adf30d45029d02af
 
 
 
@@ -844,7 +844,7 @@ priedas
 
 
 ### ANTRASIS SKIRSNIS ^s-995936cc2df9cbc748ca4469
-[[latest/TAR.F8090E375DA0|Lietuvos Respublikos tabako kontrolės įstatymo]] įgyvendinimo įstatymo pripažinimas netekusiu galios
+[Lietuvos Respublikos tabako kontrolės įstatymo įgyvendinimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.778E2B56764F) pripažinimas netekusiu galios
 
 
 
@@ -857,13 +857,13 @@ Pripažinti netekusiais galios:
 1) [[latest/TAR.F8090E375DA0|Lietuvos Respublikos tabako kontrolės įstatymo]] įgyvendinimo įstatymą (Žin., 1996, Nr. 11-282); ^s-d10904f2531a4bf6c3f027e6
 
 
-2) [[latest/TAR.F8090E375DA0#^s-0cf3abbe018cfb7fdeeae02f|Lietuvos Respublikos tabako kontrolės įstatymo įgyvendinimo įstatymo 1 straipsnio]] pakeitimo ir papildymo bei Įstatymo papildymo [[#^s-d71fb03098bd3470bcb2e88e|21 straipsniu]] įstatymą (Žin., 1999, Nr. 50-1605); ^s-6605f464809f2c7a7e0144c5
+2) [Lietuvos Respublikos tabako kontrolės įstatymo įgyvendinimo įstatymo 1 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.778E2B56764F) pakeitimo ir papildymo bei Įstatymo papildymo [[#^s-d71fb03098bd3470bcb2e88e|21 straipsniu]] įstatymą (Žin., 1999, Nr. 50-1605); ^s-6605f464809f2c7a7e0144c5
 
 
-3) [[latest/TAR.F8090E375DA0#^s-ad3a9139386f35fa06265db2|Lietuvos Respublikos tabako kontrolės įstatymo įgyvendinimo įstatymo 21 straipsnio]] pakeitimo įstatymą (Žin., 2000, Nr. 1-3); ^s-792a8244f104d1aae421b4b2
+3) [Lietuvos Respublikos tabako kontrolės įstatymo įgyvendinimo įstatymo 21 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.778E2B56764F) pakeitimo įstatymą (Žin., 2000, Nr. 1-3); ^s-792a8244f104d1aae421b4b2
 
 
-4) [[latest/TAR.F8090E375DA0#^s-0cf3abbe018cfb7fdeeae02f|Lietuvos Respublikos tabako kontrolės įstatymo įgyvendinimo įstatymo 1 straipsnio]] pakeitimo įstatymą (Žin., 2000, Nr. 61-1831). ^s-302041e0f6de09d2496409ab
+4) [Lietuvos Respublikos tabako kontrolės įstatymo įgyvendinimo įstatymo 1 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.778E2B56764F) pakeitimo įstatymą (Žin., 2000, Nr. 61-1831). ^s-302041e0f6de09d2496409ab
 
 
 
@@ -877,10 +877,10 @@ BAIGIAMOSIOS NUOSTATOS
 ### 1 straipsnis. Įstatymo įsigaliojimas ^s-82189c1396b84c49b48a856e
 
 
-1. Šis Įstatymas, išskyrus šio Įstatymo pirmajame skirsnyje išdėstyto Tabako kontrolės įstatymo 26 straipsnio 12 dalį ir šio skirsnio 2 straipsnį, įsigalioja nuo 2004 m. gegužės 1 d. ^s-fcc493d96206e2360b4760fb
+1. Šis Įstatymas, išskyrus šio Įstatymo pirmajame skirsnyje išdėstyto [[latest/TAR.F8090E375DA0|Tabako kontrolės įstatymo 26 straipsnio 12 dalį]] ir šio skirsnio 2 straipsnį, įsigalioja nuo 2004 m. gegužės 1 d. ^s-fcc493d96206e2360b4760fb
 
 
-2. Šio Įstatymo pirmajame skirsnyje išdėstyto Tabako kontrolės įstatymo 26 straipsnio 12 dalyje numatyta ekonominė sankcija juridiniams asmenims taikoma nuo 2006 m. gegužės 1 d. ^s-5662721ca85d3a67e6e69118
+2. Šio Įstatymo pirmajame skirsnyje išdėstyto [[latest/TAR.F8090E375DA0|Tabako kontrolės įstatymo 26 straipsnio 12 dalyje]] numatyta ekonominė sankcija juridiniams asmenims taikoma nuo 2006 m. gegužės 1 d. ^s-5662721ca85d3a67e6e69118
 
 
 

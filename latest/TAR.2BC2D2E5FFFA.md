@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-038e9f96b3cb522b7ad701dc
 
 
-Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugpjūčio 21 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos šalių susitarimą dėl kelių transporto priemonių ekipažų, važinėjančių tarptautiniais maršrutais, darbo (AETR)“, ratifikuoja Europos šalių susitarimą dėl kelių transporto priemonių ekipažų, važinėjančių tarptautiniais maršrutais, darbo (AETR), sudarytą 1970 m. liepos 1 d. Ženevoje.
+Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. rugpjūčio 21 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos šalių susitarimą dėl kelių transporto priemonių ekipažų, važinėjančių tarptautiniais maršrutais, darbo (AETR)“](https://e-tar.lt/portal/lt/legalAct/TAR.C713A9CE76E4), ratifikuoja Europos šalių susitarimą dėl kelių transporto priemonių ekipažų, važinėjančių tarptautiniais maršrutais, darbo (AETR), sudarytą 1970 m. liepos 1 d. Ženevoje.
 
 
 

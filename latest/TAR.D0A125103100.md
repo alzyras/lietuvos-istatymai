@@ -113,10 +113,10 @@ Pakeisti 53 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 7 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-cc193424489af13efd94443b
 
 
-1. Šio įstatymo 1 ir [[#^s-73f64075cc2a85a1877c8cd3|2 straipsniai]] įsigalioja 2014 m. sausio 1 d. ^s-c61ca82cf5397dccc65be4f3
+1. Šio įstatymo [[#^s-ff37650492b9aacfdd611042|1]] ir [[#^s-73f64075cc2a85a1877c8cd3|2]] straipsniai įsigalioja 2014 m. sausio 1 d. ^s-c61ca82cf5397dccc65be4f3
 
 
-2. Šio įstatymo 3, [[#^s-daaf82622fe1f49b77f50fc7|4 straipsnių]], [[#^s-eea6540a686fda9582fbc78a|5 straipsnio 1 dalies]] nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-cf263580b046d3e9e8a12d22
+2. Šio įstatymo [[#^s-f6f368d7ee52a0d858fa2b39|3]], [[#^s-daaf82622fe1f49b77f50fc7|4]] straipsnių, [[#^s-eea6540a686fda9582fbc78a|5 straipsnio 1 dalies]] nuostatos taikomos apskaičiuojant 2014 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-cf263580b046d3e9e8a12d22
 
 
 3. Šio įstatymo [[#^s-06ba2c6cd6418f5fbba84571|6 straipsnio]] nuostatos taikomos deklaruojant 2013 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-3947df704ba0ff12da181407

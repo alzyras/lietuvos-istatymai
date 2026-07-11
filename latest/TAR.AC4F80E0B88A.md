@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-17d5f34f093e774693726da6
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. rugpjūčio 10 d. dekretą Nr. 1K-74, ratifikuoja 1976 m. rugsėjo 8 d. Vienoje pasirašytą Konvenciją dėl išrašų iš civilinės būklės aktų įrašų išdavimo įvairiomis kalbomis.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. rugpjūčio 10 d. dekretą Nr. 1K-74](https://e-tar.lt/portal/lt/legalAct/TAR.85AC88D1F293), ratifikuoja 1976 m. rugsėjo 8 d. Vienoje pasirašytą Konvenciją dėl išrašų iš civilinės būklės aktų įrašų išdavimo įvairiomis kalbomis.
 
 
 

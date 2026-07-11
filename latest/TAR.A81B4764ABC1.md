@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-d5943a7613838bfae9ee105e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. spalio 5 d. dekretą Nr. 1K-1229, ratifikuoja Špicbergeno salyno sutartį, pasirašytą 1920 m. vasario 9 d. Paryžiuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. spalio 5 d. dekretą Nr. 1K-1229](https://e-tar.lt/portal/lt/legalAct/TAR.9AA1C8ECF99A), ratifikuoja Špicbergeno salyno sutartį, pasirašytą 1920 m. vasario 9 d. Paryžiuje.
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-fe6abaafb25408c99498dea0
 
 
-Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. kovo 12 d. dekretą Nr. 883, ratifikuoja Lietuvos Respublikos ir Baltarusijos Respublikos Sutartį dėl geros kaimynystės ir bendradarbiavimo, pasirašytą 1995 m. vasario 6 d. Vilniuje.
+Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento [1996 m. kovo 12 d. dekretą Nr. 883](https://e-tar.lt/portal/lt/legalAct/TAR.B9548EF7568B), ratifikuoja Lietuvos Respublikos ir Baltarusijos Respublikos Sutartį dėl geros kaimynystės ir bendradarbiavimo, pasirašytą 1995 m. vasario 6 d. Vilniuje.
 
 
 

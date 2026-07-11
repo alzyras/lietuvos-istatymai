@@ -497,7 +497,7 @@ Pakeisti 73 straipsnio 1 dalį ir ją išdėstyti taip:
 3. Iki valstybinių aukštųjų mokyklų tarybų sudarymo arba patvirtinimo šio įstatymo nustatyta tvarka senatas (akademinė taryba) atlieka: ^s-599413d40b0824e05fe8a157
 
 
-1) Mokslo ir studijų įstatymo 20 straipsnio 2 dalyje (išskyrus Mokslo ir studijų įstatymo 20 straipsnio 2 dalies 6 ir 7 punktus) nustatytas funkcijas; ^s-ed1592fd07350b920e0e1710
+1) [[latest/TAR.C595FF45F869|Mokslo ir studijų įstatymo 20 straipsnio 2 dalyje (išskyrus Mokslo ir studijų įstatymo 20 straipsnio 2 dalies]] [[latest/TAR.C595FF45F869|6]] ir [[latest/TAR.C595FF45F869|7]] punktus) nustatytas funkcijas; ^s-ed1592fd07350b920e0e1710
 
 
 2) skiria laikiną rektorių (direktorių), iki pagal šio įstatymo nuostatas sudaryta arba patvirtinta aukštosios mokyklos taryba paskirs rektorių (direktorių). Laikinasis rektorius (direktorius) skiriamas tik tuo atveju, jeigu baigėsi iki šio įstatymo įsigaliojimo paskirto rektoriaus (direktoriaus) kadencija. ^s-4bfb84d8f1c4bc5ddcb3b208

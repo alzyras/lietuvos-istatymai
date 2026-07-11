@@ -262,10 +262,10 @@ LAUKINĖS GYVŪNIJOS IŠTEKLIŲ NAUDOJIMAS IR APSAUGA
 2) įgyvendinti privalomas laukinės gyvūnijos apsaugos ir jos išteklių atkūrimo priemones; ^s-38239ac517778073da68b906
 
 
-3) šio įstatymo [[#^s-59d4f14e423dab71012df7fe|22 straipsnio]] 5 ir 12 dalyse nustatytais atvejais atlyginti žalą, atsiradusią dėl laukinės gyvūnijos išteklių naudojimo; ^s-6a25a649da3b26a72cad754a
+3) šio įstatymo [[#^s-59d4f14e423dab71012df7fe|22 straipsnio]] [[#^s-7d7e0e784501e05484dc1583|5]] ir [[#^s-249f4155554a513fbefd577d|12]] dalyse nustatytais atvejais atlyginti žalą, atsiradusią dėl laukinės gyvūnijos išteklių naudojimo; ^s-6a25a649da3b26a72cad754a
 
 
-4) nedelsdami pranešti policijai ir atitinkamam Aplinkos ministerijos regiono aplinkos apsaugos departamentui apie kiekvieną nelaisvėje laikytų ir į laisvę ištrūkusių laukinių gyvūnų pabėgimo atvejį ir savo lėšomis organizuoti šių gyvūnų sugavimą ar numarinimą, jeigu juos būtina sugauti ar numarinti pagal šio įstatymo [[#^s-d3dfa042914700aa1ef72ba1|9 straipsnio]] 2 ir 4 dalių reikalavimus. ^s-f8a1219c311abfcc9ae49715
+4) nedelsdami pranešti policijai ir atitinkamam Aplinkos ministerijos regiono aplinkos apsaugos departamentui apie kiekvieną nelaisvėje laikytų ir į laisvę ištrūkusių laukinių gyvūnų pabėgimo atvejį ir savo lėšomis organizuoti šių gyvūnų sugavimą ar numarinimą, jeigu juos būtina sugauti ar numarinti pagal šio įstatymo [[#^s-d3dfa042914700aa1ef72ba1|9 straipsnio]] [[#^s-1880f7bcf03db4f1e0be3c44|2]] ir [[#^s-b666830bd636d0a7a1028808|4]] dalių reikalavimus. ^s-f8a1219c311abfcc9ae49715
 
 
 
@@ -636,13 +636,13 @@ Fiziniai ir juridiniai asmenys, pažeidę šį įstatymą, atsako įstatymų nus
 3. [[#^s-b66cbc6b072e34b3760d5e01|Šio straipsnio 2 dalies 2 punkte]] nurodytos institucijos, apskaičiuodamos laisvėje gyvenančiai laukinei gyvūnijai ar jos buveinėms padarytą žalą, vadovaujasi Aplinkos ministerijos patvirtinta Laukinių gyvūnų rūšims ir jų buveinėms padarytos žalos apskaičiavimo metodika. ^s-00c88ba08d290a37f5b635c8
 
 
-4. Laisvėje gyvenančių laukinių gyvūnų, nuosavybės teise priklausančių valstybei, padaryta žala atlyginama šio straipsnio 5, 6 ir [[#^s-2ff264376fc69942aca59ec1|7 dalyse]] nurodytais atvejais. ^s-88983378e25693b48f69bc0c
+4. Laisvėje gyvenančių laukinių gyvūnų, nuosavybės teise priklausančių valstybei, padaryta žala atlyginama šio straipsnio [[#^s-7d7e0e784501e05484dc1583|5]], [[#^s-e745361eb6fbc14bab978e97|6]] ir [[#^s-2ff264376fc69942aca59ec1|7]] dalyse nurodytais atvejais. ^s-88983378e25693b48f69bc0c
 
 
 5. Medžiojamųjų gyvūnų padaryta žala žemės, miško ir vandens telkinių sklypų savininkams, valdytojams ir naudotojams dėl žemės ūkio pasėlių, miško ir hidrotechnikos įrenginių pakenkimo atlyginama [[latest/TAR.A92E17FDCD13|Medžioklės įstatymo]] nustatyta tvarka. ^s-7d7e0e784501e05484dc1583
 
 
-6. Valstybei nuosavybės teise priklausančių laukinių gyvūnų eismo įvykių metu padaryta žala atlyginama, jeigu įrodomi neteisėti valstybės veiksmai (neveikimas), kaltė ir priežastinis ryšys ir jeigu žala atsirado ne dėl nenugalimos jėgos, nukentėjusio asmens veiksmų arba kitų Civilinio kodekso 6.253 straipsnyje nurodytų veiksmų, ir išieškoma Civilinio proceso kodekso nustatyta tvarka. ^s-e745361eb6fbc14bab978e97
+6. Valstybei nuosavybės teise priklausančių laukinių gyvūnų eismo įvykių metu padaryta žala atlyginama, jeigu įrodomi neteisėti valstybės veiksmai (neveikimas), kaltė ir priežastinis ryšys ir jeigu žala atsirado ne dėl nenugalimos jėgos, nukentėjusio asmens veiksmų arba kitų Civilinio kodekso 6.253 straipsnyje nurodytų veiksmų, ir išieškoma [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-e745361eb6fbc14bab978e97
 
 
 7. Valstybei nuosavybės teise priklausančių laisvėje gyvenančių griežtai saugomų rūšių laukinių gyvūnų padarytą žalą žemės ūkio pasėliams, naminiams gyvūnams ar gyvuliams, miškui, hidrotechnikos įrenginiams ar kitiems objektams, žemės, miško ir vandens telkinių sklypų savininkams, valdytojams ir naudotojams atlygina valstybė, jeigu neįrodoma, kad žala atsirado dėl nenugalimos jėgos, nukentėjusio asmens tyčios arba kitų Civilinio kodekso 6.253 straipsnyje nurodytų veiksmų. ^s-2ff264376fc69942aca59ec1

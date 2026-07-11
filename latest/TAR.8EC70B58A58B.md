@@ -170,13 +170,13 @@ Pakeisti 80 straipsnio 1 dalį ir ją išdėstyti taip:
 1. Pakeisti 97 straipsnio 3 dalį ir ją išdėstyti taip: ^s-eb74f55a9f4760eef9afd317
 
 
-„3. Neįvykdyti teismo sprendimai dėl žalos atlyginimo, dėl priteistų sumų ir nesumokėtų baudų išieškojimo, taip pat neįvykdytos teismo patvirtintos taikos sutartys vykdomi Civilinio proceso kodekso nustatyta tvarka. Šiais atvejais vykdomieji dokumentai pareiškėjui išduodami teismo sprendimui įsiteisėjus.“
+„3. Neįvykdyti teismo sprendimai dėl žalos atlyginimo, dėl priteistų sumų ir nesumokėtų baudų išieškojimo, taip pat neįvykdytos teismo patvirtintos taikos sutartys vykdomi [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Šiais atvejais vykdomieji dokumentai pareiškėjui išduodami teismo sprendimui įsiteisėjus.“
 
 
 2. Papildyti 97 straipsnį 4 dalimi: ^s-b10d5303944b9d0961efdd17
 
 
-„4. Šio straipsnio 3 dalyje nurodytų teismo sprendimų ir taikos sutarčių vykdymo metu Civilinio proceso kodekso nustatyta tvarka gali būti sudaromos taikos sutartys. Sudarytos taikos sutartys perduodamos apygardos administraciniam teismui, kurio veiklos teritorijoje yra antstolio kontoros buveinė.“
+„4. Šio straipsnio 3 dalyje nurodytų teismo sprendimų ir taikos sutarčių vykdymo metu [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali būti sudaromos taikos sutartys. Sudarytos taikos sutartys perduodamos apygardos administraciniam teismui, kurio veiklos teritorijoje yra antstolio kontoros buveinė.“
 
 
 

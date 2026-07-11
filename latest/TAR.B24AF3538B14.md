@@ -209,7 +209,7 @@ Jeigu reikia patikrinti, ar deklaracijoje pateikti duomenys atitinka tikrovę, t
 1) šio įstatymo 6 straipsnio 1 dalies 1-5 punktuose nurodytus duomenis - institucijos vadovo ar Vyriausiosios tarnybinės etikos komisijos teikimu Valstybinė mokesčių inspekcija; ^s-4e2654ff0af22e3b1f0afeaf
 
 
-2) šio įstatymo [[#^s-3a9cfbd48660528e0c5d9088|6 straipsnio 1 dalies]] 6, 7 punktuose nurodytus duomenis - institucijos vadovas, jo įgaliotas atstovas arba Vyriausioji tarnybinės etikos komisija. ^s-83dfdba8bb48a026e2ef8184
+2) šio įstatymo [[#^s-3a9cfbd48660528e0c5d9088|6 straipsnio 1 dalies]] [[#^s-7469e2fc2d7b37beb974fc4c|6]], [[#^s-6fb2a75c8e30eb903d593fab|7]] punktuose nurodytus duomenis - institucijos vadovas, jo įgaliotas atstovas arba Vyriausioji tarnybinės etikos komisija. ^s-83dfdba8bb48a026e2ef8184
 
 
 
@@ -272,7 +272,7 @@ TARNYBOJE
 2. Asmuo, dirbantis valstybinėje tarnyboje, negali atstovauti privačioms grupėms ar asmenims ir ginti jų interesų valstybės ar savivaldybių institucijose, išskyrus atvejus, kai jie veikia kaip įstatyminiai atstovai. Skundų ir pareiškimų nagrinėjimas, tyrimas ir svarstymas nelaikomas atstovavimu privačioms grupėms ar asmenims. ^s-3c4941327668fe26b524a5ff
 
 
-3. Šio straipsnio 1 ir [[#^s-3c4941327668fe26b524a5ff|2 dalyse]] išvardytų apribojimų išimtis konkrečiu atveju gali nustatyti atitinkamos institucijos vadovas ar jo įgaliotas atstovas. Sprendimas apie išimties taikymą turi būti viešai paskelbtas. ^s-4714b84fc2d59851e144f74e
+3. Šio straipsnio [[#^s-70ec5783712aadef77ef7a02|1]] ir [[#^s-3c4941327668fe26b524a5ff|2]] dalyse išvardytų apribojimų išimtis konkrečiu atveju gali nustatyti atitinkamos institucijos vadovas ar jo įgaliotas atstovas. Sprendimas apie išimties taikymą turi būti viešai paskelbtas. ^s-4714b84fc2d59851e144f74e
 
 
 

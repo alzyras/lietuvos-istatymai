@@ -40,10 +40,10 @@ Nr. 48-1661, Nr. 49, Nr. 111-4026; 2002, Nr. 43-1606)
 ### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ir papildymas ^s-3ad710f305a55e5ed6c9c7c1
 
 
-2 straipsnio 3 dalies 5 ir [[#^s-73b9dd68a27ee302ad307109|6 punktus]] laikyti 4 ir [[#^s-3ca2ffc0be10f0e7fd2ddbbd|5 punktais]], dalį papildyti [[#^s-73b9dd68a27ee302ad307109|6 punktu]] ir ją išdėstyti taip:
+2 straipsnio 3 dalies 5 ir 6 punktus laikyti 4 ir 5 punktais, dalį papildyti [[#^s-73b9dd68a27ee302ad307109|6 punktu]] ir ją išdėstyti taip:
 
 
-„3. Šio įstatymo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taip pat taikomi tiems valstybės pareigūnams, kuriems netaikomas [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] (toliau – valstybės pareigūnai):
+„3. Šio įstatymo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taip pat taikomi tiems valstybės pareigūnams, kuriems netaikomas [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] (toliau – [[latest/TAR.D3ED3792F52B|valstybės pareigūnai]]):
 
 
 1) prokuratūros pareigūnams; ^s-dfbb9e456a560922232b6bd0

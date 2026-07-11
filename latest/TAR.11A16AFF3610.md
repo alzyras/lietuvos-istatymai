@@ -122,7 +122,7 @@ Pakeisti 17 straipsnio 3 punktą ir jį išdėstyti taip:
 ### 6 straipsnis. 19 straipsnio pakeitimas ir papildymas ^s-b754a7b3a437db9e9df485b9
 
 
-Pakeisti 19 straipsnio pavadinimą ir [[#^s-609549c62993c8179d499cd1|1 dalį]], straipsnį papildyti naujomis 2 ir [[#^s-0e0807f4ee9dabf197aa653b|3 dalimis]], buvusias 2 ir [[#^s-0e0807f4ee9dabf197aa653b|3 dalis]] laikyti atitinkamai 4 ir [[#^s-645a84f14b30a455474a43cd|5 dalimis]], jas pakeisti ir visą straipsnį išdėstyti taip:
+Pakeisti 19 straipsnio pavadinimą ir [[#^s-609549c62993c8179d499cd1|1 dalį]], straipsnį papildyti naujomis 2 ir 3 dalimis, buvusias 2 ir 3 dalis laikyti atitinkamai 4 ir 5 dalimis, jas pakeisti ir visą straipsnį išdėstyti taip:
 
 
 „19 straipsnis.     Karjeros valstybės tarnautojų perkėlimas į kitas pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, taip pat į pareigas tarptautinėse organizacijose ar institucijose, Europos Sąjungos institucijose ar įstaigose
@@ -134,7 +134,7 @@ Pakeisti 19 straipsnio pavadinimą ir [[#^s-609549c62993c8179d499cd1|1 dalį]], 
 2. Karjeros valstybės tarnautojas jo rašytiniu sutikimu gali būti laikinai perkeltas į pareigas tarptautinėje organizacijoje ar institucijoje, Europos Sąjungos institucijoje ar įstaigoje. Pretenduojantys būti laikinai perkelti į pareigas šiose institucijose, įstaigose ar organizacijose asmenys atrenkami Vyriausybės nustatyta tvarka. ^s-4762c22e4221ea0f5ce22247
 
 
-3. Paprastai pagal šio straipsnio 1 ar [[#^s-4762c22e4221ea0f5ce22247|2 dalį]] perkeltas karjeros valstybės tarnautojas kitas pareigas gali eiti ne ilgiau kaip trejus metus, jeigu tarptautinė sutartis ar Europos Sąjungos teisės aktai nenustato kitaip. ^s-0e0807f4ee9dabf197aa653b
+3. Paprastai pagal šio straipsnio [[#^s-609549c62993c8179d499cd1|1]] ar [[#^s-4762c22e4221ea0f5ce22247|2]] dalį perkeltas karjeros valstybės tarnautojas kitas pareigas gali eiti ne ilgiau kaip trejus metus, jeigu tarptautinė sutartis ar Europos Sąjungos teisės aktai nenustato kitaip. ^s-0e0807f4ee9dabf197aa653b
 
 
 4. Karjeros valstybės tarnautojas gali būti perkeltas į kitas pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose ir atstovybėse prie tarptautinių organizacijų, jeigu jis atitinka pareigybės, į kurią perkeliama, aprašyme nustatytus specialius reikalavimus. ^s-3e21ae06937169150fdb0ed2

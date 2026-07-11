@@ -57,7 +57,7 @@ I. Padaryti šiuos Lietuvos Respublikos Aukščiausiosios Tarybos Reglamento (Ž
 4. 37 straipsnio 8 ir 9 punktus išdėstyti taip:
 
 
-„8) teikti Aukščiausiajai Tarybai pasiūlymus panaikinti Vyriausybės nutarimus ir potvarkius, kitų Aukščiausiajai Tarybai atskaitingų institucijų sprendimus, rajonų ir miestų tarybų sprendimus, kai jie prieštarauja Lietuvos Respublikos įstatymams;
+„8) teikti [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC) pasiūlymus panaikinti Vyriausybės nutarimus ir potvarkius, kitų [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC) atskaitingų institucijų sprendimus, rajonų ir miestų tarybų sprendimus, kai jie prieštarauja Lietuvos Respublikos įstatymams;
 
 
 9) vykdant parlamentinę kontrolę, išklausyti ministerijų ir kitų valstybės organų informacijas ir pranešimus, kaip vykdomi Lietuvos Respublikos įstatymai ir Aukščiausiosios Tarybos nutarimai;“.
@@ -75,7 +75,7 @@ I. Padaryti šiuos Lietuvos Respublikos Aukščiausiosios Tarybos Reglamento (Ž
 „77 straipsnis.
 
 
-Kiekvienos savaitės paskutinę posėdžių dieną apsvarstoma ir tvirtinama kitos savaitės arba kitos posėdžių dienos darbotvarkė, kurios projektą parengia Aukščiausiosios Tarybos seniūnas. Darbotvarkėje turi būti nurodytas posėdžių laikas, svarstomi klausimai, pranešėjai bei papildomi pranešėjai. Kartu Aukščiausiajai Tarybai turi būti pranešta apie nepriimtus pasiūlymus.
+Kiekvienos savaitės paskutinę posėdžių dieną apsvarstoma ir tvirtinama kitos savaitės arba kitos posėdžių dienos darbotvarkė, kurios projektą parengia Aukščiausiosios Tarybos seniūnas. Darbotvarkėje turi būti nurodytas posėdžių laikas, svarstomi klausimai, pranešėjai bei papildomi pranešėjai. Kartu [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC) turi būti pranešta apie nepriimtus pasiūlymus.
 
 
 Į savaitės darbotvarkę įrašomi tik sesijos darbų programoje esantys klausimai, kuriems pagal Reglamento 21 skirsnyje numatytus reikalavimus yra tinkamai parengti įstatymų, nutarimų ar kitų aktų projektai, išskyrus projektų pristatymą ir kitus Reglamente numatytus atvejus.“
@@ -117,7 +117,7 @@ Buvusį 13 punktą laikyti 14.
 11. 92 straipsnio antrąją dalį išdėstyti taip:
 
 
-„Jeigu Vyriausybės nariai ir Aukščiausiajai Tarybai atskaitingų valstybės organų vadovai, po vieną Prezidiumo, nuolatinių komisijų, frakcijų ar laikinųjų deputatų grupių paskirtą atstovą apie savo pageidavimą kalbėti praneša posėdžių sekretoriatui iki diskusijų nutraukimo, jie išlaiko teisę pasisakyti, net jeigu nutariama diskusijas nutraukti.“
+„Jeigu Vyriausybės nariai ir [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC) atskaitingų valstybės organų vadovai, po vieną Prezidiumo, nuolatinių komisijų, frakcijų ar laikinųjų deputatų grupių paskirtą atstovą apie savo pageidavimą kalbėti praneša posėdžių sekretoriatui iki diskusijų nutraukimo, jie išlaiko teisę pasisakyti, net jeigu nutariama diskusijas nutraukti.“
 
 
 12. 96 straipsnį išdėstyti taip:

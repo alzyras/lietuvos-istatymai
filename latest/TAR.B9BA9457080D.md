@@ -290,7 +290,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 5) kai žemės ūkio paskirties žemėje numatoma nustatyta tvarka įveisti mišką; ^s-081d30dc8400df8c97643fad
 
 
-6) šio Įstatymo 21 straipsnio 2, 3 ir [[#^s-96fcb55b44194a74873712fb|4 dalyse]] nurodytais atvejais; ^s-8fecf31a92d75a721f2cc125
+6) šio Įstatymo 21 straipsnio 2, 3 ir 4 dalyse nurodytais atvejais; ^s-8fecf31a92d75a721f2cc125
 
 
 7) jeigu saugomose teritorijose sodybų (gyvenamojo namo su priklausiniais) statyba numatyta tvarkymo plane (planavimo schemoje) arba naujo statinio statyba vykdoma atstatant buvusį (sugriuvusį, sunaikintą, nugriautą) statinį; ^s-03f16ff329c9c0f9252f3e2a
@@ -420,7 +420,7 @@ Pakeisti 22 straipsnį ir jį išdėstyti taip:
 1. Pakeisti 31 straipsnio 1 dalį ir ją išdėstyti taip: ^s-a1228615363fa6d2fb87fa00
 
 
-„1. Teritorijų planavimo proceso parengiamojo etapo metu ministerijų, Vyriausybės įstaigų ir kitų valstybės valdymo institucijų sprendimai dėl teritorijų planavimo dokumentų rengimo pradžios ir planavimo tikslų, planavimo darbų programa skelbiami „Valstybės žiniose“ ir institucijų interneto tinklalapiuose. Aukštesniųjų administracinių vienetų valdymo institucijų sprendimai dėl teritorijų planavimo dokumentų rengimo pradžios ir planavimo tikslų, planavimo darbų programa skelbiami vietinėje spaudoje ir institucijų interneto tinklalapiuose. Savivaldybių ir jų vykdomųjų institucijų priimti sprendimai dėl teritorijų planavimo dokumentų rengimo, planavimo darbų programa skelbiami vietinėje spaudoje, savivaldybės interneto tinklalapyje ir seniūnijose, kuriose vyksta teritorijos planavimas. Tokia pat tvarka planavimo organizatorius skelbia informaciją apie teritorijų planavimo dokumento koncepcijos, jei ji rengiama, patvirtinimą. Detaliojo planavimo organizatorius apie žemės sklypo ar grupės žemės sklypų teritorijos planavimo dokumentų rengimo pradžią ir planavimo tikslus raštu informuoja kaimyninių žemės sklypų valdytojus ir naudotojus, taip pat detaliųjų planų rengimo taisyklėse nustatyta tvarka prie planuojamos teritorijos įrengia stendą su šia informacija.“
+„1. Teritorijų planavimo proceso parengiamojo etapo metu ministerijų, Vyriausybės įstaigų ir kitų valstybės valdymo institucijų sprendimai [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09) pradžios ir planavimo tikslų, planavimo darbų programa skelbiami „Valstybės žiniose“ ir institucijų interneto tinklalapiuose. Aukštesniųjų administracinių vienetų valdymo institucijų sprendimai [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09) pradžios ir planavimo tikslų, planavimo darbų programa skelbiami vietinėje spaudoje ir institucijų interneto tinklalapiuose. Savivaldybių ir jų vykdomųjų institucijų priimti sprendimai [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09), planavimo darbų programa skelbiami vietinėje spaudoje, savivaldybės interneto tinklalapyje ir seniūnijose, kuriose vyksta teritorijos planavimas. Tokia pat tvarka planavimo organizatorius skelbia informaciją apie teritorijų planavimo dokumento koncepcijos, jei ji rengiama, patvirtinimą. Detaliojo planavimo organizatorius apie žemės sklypo ar grupės žemės sklypų teritorijos planavimo dokumentų rengimo pradžią ir planavimo tikslus raštu informuoja kaimyninių žemės sklypų valdytojus ir naudotojus, taip pat detaliųjų planų rengimo taisyklėse nustatyta tvarka prie planuojamos teritorijos įrengia stendą su šia informacija.“
 
 
 2. Pakeisti 31 straipsnio 2 dalį ir ją išdėstyti taip: ^s-fe14a91cb83def0720148f32
@@ -447,7 +447,7 @@ Pakeisti 37 straipsnį ir jį išdėstyti taip:
 ### 13 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-f668313451574d0d415895f6
 
 
-1. Šis įstatymas, išskyrus 13 ir [[#^s-00cfa1d3337af9da5a7b76ff|14 straipsnius]], įsigalioja 2010 m. sausio 1 d. ^s-9a7897ab2d3d277fa43dbfdf
+1. Šis įstatymas, išskyrus [[#^s-f668313451574d0d415895f6|13]] ir [[#^s-00cfa1d3337af9da5a7b76ff|14]] straipsnius, įsigalioja 2010 m. sausio 1 d. ^s-9a7897ab2d3d277fa43dbfdf
 
 
 2. Iki 2010 m. sausio 1 d. pradėti rengti teritorijų planavimo dokumentai, dėl kurių yra išduotos planavimo sąlygos, sudarytos planavimo darbų sutartys ir pradėtos viešo svarstymo su visuomene procedūros, baigiami rengti ir tvirtinami pagal [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo]] nuostatas, galiojusias iki 2010 m. sausio 1 d., ir kitus teritorijų planavimą reglamentavusius teisės aktus. ^s-eadec128dab5460fb09ae153

@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos strateginių prekių kontrolės įstatymo pak
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.AB5C4F8C996B|Lietuvos Respublikos strateginių prekių kontrolės įstatymas]] - 3 citatos - Lietuvos Respublikos strateginių prekių kontrolės įstatymo
-- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo
+- [[latest/TAR.AB5C4F8C996B|Lietuvos Respublikos strateginių prekių kontrolės įstatymas]] - Lietuvos Respublikos strateginių prekių kontrolės įstatymo
+- [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymas]] - Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatymo
 
 ## Šį įstatymą cituoja
 

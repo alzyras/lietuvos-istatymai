@@ -291,7 +291,7 @@ Už statinio (jo patalpų) naudojimą pažeidžiant šiame ir kituose įstatymuo
 ### 13 straipsnis. Įstatymo įsigaliojimas ^s-fe3c5e66006f3ec2b35006da
 
 
-1. Šio įstatymo [[#^s-cd043083e00dad3d76a13d5b|2 straipsnis]], [[#^s-85778cea503e17b2a81f6086|5 straipsnio 2 dalis]], 6, 7, 8, 9, 10 ir [[#^s-7cd1549418d50346d4e089a5|11 straipsniai]] įsigalioja 2012 m. rugsėjo 1 d. ^s-b5226cd327c39e0499f9dc18
+1. Šio įstatymo [[#^s-cd043083e00dad3d76a13d5b|2 straipsnis]], [[#^s-85778cea503e17b2a81f6086|5 straipsnio 2 dalis]], [[#^s-82a0036b8768058193518ddb|6]], [[#^s-9e7de12b83e6f4bf4b006243|7]], [[#^s-f6113e717f52edc75f6e201c|8]], [[#^s-dc5cc72bbb01e22f1a239f03|9]], [[#^s-a9a12ab8e9224b6f80ff00d9|10]] ir [[#^s-7cd1549418d50346d4e089a5|11]] straipsniai įsigalioja 2012 m. rugsėjo 1 d. ^s-b5226cd327c39e0499f9dc18
 
 
 2. Šio įstatymo [[#^s-d27e787fc2ef93a1b962c145|12 straipsnio 2 dalis]] įsigalioja 2013 m. sausio 9 d. ^s-d969ddf7e231d72359f612df

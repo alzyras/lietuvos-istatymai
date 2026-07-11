@@ -95,7 +95,7 @@ Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 ### 3 straipsnis. 3 straipsnio 1, 4 ir 10 dalių papildymas ^s-3f200f60d00788a0758f5e76
 
 
-1. Papildyti [[#^s-8f7ed214f4117d4e8f6ee029|3 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-8f7ed214f4117d4e8f6ee029
+1. Papildyti 3 straipsnio 1 dalį ir ją išdėstyti taip: ^s-8f7ed214f4117d4e8f6ee029
 
 
 „1. Asmuo turi teisę kreiptis į Teisingumo ministeriją dėl žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimo (Lietuvos Respublikos civilinio kodekso 6.272 straipsnio 1 dalis) ne teismo tvarka ne vėliau kaip per 3 metus nuo to laiko, kai jis sužinojo arba turėjo sužinoti, kad įstatymų nustatyta tvarka nustatyta, jog nuteisimas, kardomasis kalinimas (suėmimas), sulaikymas, procesinių prievartos priemonių pritaikymas ar administracinės nuobaudos – arešto paskyrimas yra neteisėti. Asmuo, dėl kurio tarptautinė institucija yra priėmusi sprendimą dėl žalos atlyginimo (kompensacijos išmokėjimo), tačiau nėra nustačiusi piniginės kompensacijos dydžio, turi teisę kreiptis į Teisingumo ministeriją dėl žalos dydžio nustatymo ir žalos atlyginimo. Teisingumo ministerija turi teisę įvykdyti tarptautinių institucijų sprendimus dėl žalos atlyginimo (kompensacijos išmokėjimo) ir tuo atveju, kai nėra asmens prašymo.“

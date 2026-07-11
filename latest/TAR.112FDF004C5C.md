@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-b814909cf63e49afffcfce06
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. rugsėjo 26 d. dekretą Nr. 1913, ratifikuoja Lietuvos Respublikos ir Portugalijos Respublikos sutartį dėl pajamų dvigubo apmokestinimo išvengimo ir pajamų mokesčių slėpimo prevencijos ir jos protokolą, pasirašytus 2002 m. vasario 14 d. Lisabonoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. rugsėjo 26 d. dekretą Nr. 1913](https://e-tar.lt/portal/lt/legalAct/TAR.5D5A31D2E5CE), ratifikuoja Lietuvos Respublikos ir Portugalijos Respublikos sutartį dėl pajamų dvigubo apmokestinimo išvengimo ir pajamų mokesčių slėpimo prevencijos ir jos protokolą, pasirašytus 2002 m. vasario 14 d. Lisabonoje.
 
 
 

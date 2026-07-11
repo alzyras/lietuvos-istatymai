@@ -70,7 +70,7 @@ Pakeisti 21 straipsnį ir jį išdėstyti taip:
 „21 straipsnis. Specialios šio įstatymo taikymo nuostatos
 
 
-1. Piliečių prašymai atkurti nuosavybės teises, pateikti Lietuvos Respublikos įstatymo „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ nustatytais terminais ir neišnagrinėti iki [[latest/TAR.8A16A03D98D4|Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo]] įsigaliojimo, nagrinėjami ir sprendimai dėl jų priimami laikantis šio įstatymo nuostatų. ^s-f7bba4bafeb43dcdb2d7e73d
+1. Piliečių prašymai atkurti nuosavybės teises, pateikti Lietuvos Respublikos įstatymo [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) nustatytais terminais ir neišnagrinėti iki [[latest/TAR.8A16A03D98D4|Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo]] įsigaliojimo, nagrinėjami ir sprendimai dėl jų priimami laikantis šio įstatymo nuostatų. ^s-f7bba4bafeb43dcdb2d7e73d
 
 
 2. Piliečiai, pateikę prašymus atkurti nuosavybės teises į žemę, iki 1995 m. birželio 1 d. nustatyta tvarka priskirtą miestų teritorijoms, jeigu nepriimtas sprendimas dėl nuosavybės teisių atkūrimo, iki 2012 m. birželio 1 d. gali pakeisti valią dėl atlyginimo būdo ir prašyti už valstybės išperkamą žemę atlyginti pinigais. ^s-0b24c2a9513208a083b9f9f7

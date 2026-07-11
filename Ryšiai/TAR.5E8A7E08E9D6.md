@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų o
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.FA7CC8021E9D#^s-631397f2e33ea860bfd911fe|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas]] - 2 citatos - Asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas taikomas asmenims, kurie šio įstatymo 1 straipsnio 2 dalyje
+- [[latest/TAR.FA7CC8021E9D#^s-631397f2e33ea860bfd911fe|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas]] - Asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas taikomas asmenims, kurie šio įstatymo 1 straipsnio 2 dalyje
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.FA7CC8021E9D#^s-b84716109ce7eba6520c5aeb|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas]] - 3 citatos - 1001010ISTAIII-1522
-- [[latest/TAR.FA7CC8021E9D#^s-cd3d72bf2fa0ce24c84ed100|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas]] - 3 citatos - 1001010ISTAIII-1522
+- [[latest/TAR.FA7CC8021E9D#^s-b84716109ce7eba6520c5aeb|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas]] - 2 citatos - 1001010ISTAIII-1522

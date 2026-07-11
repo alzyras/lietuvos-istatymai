@@ -388,7 +388,7 @@ SAUGAUS EISMO UŽTIKRINIMO VALDYMAS
 1. Valstybinės eismo saugumo užtikrinimo politikos įgyvendinimą kontroliuoja nuolatinė Valstybinė eismo saugumo komisija (toliau – Komisija). ^s-be7599d420f681994a4422a7
 
 
-2. Komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Vyriausybės patvirtintais Komisijos veiklos nuostatais ir kitais teisės aktais. ^s-e3b3204c201637ca57c81e6a
+2. Komisija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Vyriausybės patvirtintais Komisijos veiklos nuostatais ir kitais teisės aktais. ^s-e3b3204c201637ca57c81e6a
 
 
 3. Komisiją sudaro Ministras Pirmininkas, susisiekimo ministras, vidaus reikalų ministras, Finansų ministerijos atstovas, Sveikatos apsaugos ministerijos atstovas, Švietimo ir mokslo ministerijos atstovas bei Lietuvos savivaldybių asociacijos prezidentas. Komisijos pirmininkas yra Ministras Pirmininkas. ^s-ee47475c87ee4eab779358e4
@@ -931,7 +931,7 @@ Nr. X-1594, 2008-06-10, Žin., 2008, Nr. 71-2719 (2008-06-21), i. k. [[latest/TA
 1. Transporto priemonės savininkas ar valdytojas rūpinasi ir atsako už jam nuosavybės ar kita teise priklausančią transporto priemonę. ^s-5de607eb50d26697e227d8f5
 
 
-2. Policijos pareigūnui pareikalavus teisės pažeidimo išaiškinimo tikslu, transporto priemonės savininkas (valdytojas) turi nurodyti šiam pareigūnui duomenis apie asmenį (vardą, pavardę ir gyvenamąją vietą), kuris tam tikru metu valdė ar naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto priemone. Transporto priemonės savininkas (valdytojas), nepateikęs šioje dalyje nurodytų duomenų, atsako už transporto priemonės savininko (valdytojo) pareigų neatlikimą Administracinių teisės pažeidimų kodekso nustatyta tvarka. Transporto priemonės savininkui (valdytojui) atsakomybė už pareigų neatlikimą netaikoma, jei jis prarado transporto priemonę prieš savo valią. ^s-5a42e32f1c069cdeb7f599e4
+2. Policijos pareigūnui pareikalavus teisės pažeidimo išaiškinimo tikslu, transporto priemonės savininkas (valdytojas) turi nurodyti šiam pareigūnui duomenis apie asmenį (vardą, pavardę ir gyvenamąją vietą), kuris tam tikru metu valdė ar naudojosi transporto priemonės savininkui (valdytojui) priklausančia transporto priemone. Transporto priemonės savininkas (valdytojas), nepateikęs šioje dalyje nurodytų duomenų, atsako už transporto priemonės savininko (valdytojo) pareigų neatlikimą [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka. Transporto priemonės savininkui (valdytojui) atsakomybė už pareigų neatlikimą netaikoma, jei jis prarado transporto priemonę prieš savo valią. ^s-5a42e32f1c069cdeb7f599e4
 
 
 3. Gavęs kvietimą, transporto priemonės savininkas (valdytojas) arba jo įgaliotas asmuo (jeigu savininkas – juridinis asmuo) privalo nurodytu laiku atvykti į policijos įstaigą ir turėti asmens tapatybę patvirtinantį dokumentą bei kitus kvietime nurodytus dokumentus. ^s-31b010a5ab8bf332da9eae51
@@ -1292,7 +1292,7 @@ priedas
 4) 2006 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 2006/126/EB dėl vairuotojo pažymėjimų (OL 2006 L 403, p. 18); ^s-c4d1cc6287b0587b527f748a
 
 
-5) Konvencija dėl eismo įvykiams taikytinos teisės, sudaryta 1971 m. gegužės 4 d. Hagoje.“ ^s-a66f68a4c973dd19fda019e6
+5) [Konvencija dėl eismo įvykiams taikytinos teisės](https://e-tar.lt/portal/lt/legalAct/TAR.6CE885E45531), sudaryta 1971 m. gegužės 4 d. Hagoje.“ ^s-a66f68a4c973dd19fda019e6
 
 
 
@@ -1319,16 +1319,16 @@ Vyriausybė ar jos įgaliotos institucijos iki 2008 m. liepos 1 d. parengia ir p
 Įsigaliojus šiam įstatymui, netenka galios:
 
 
-1) Bevariklio transporto įstatymas (Žin., 2000, Nr. 56-1642); ^s-41bb7007edb5d690baaadee0
+1) [Bevariklio transporto įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E7C48C398626) (Žin., 2000, Nr. 56-1642); ^s-41bb7007edb5d690baaadee0
 
 
-2) Bevariklio transporto įstatymo [[#^s-6c507d6a2c5736c9e2ae97b6|15 straipsnio]] pakeitimo įstatymas (Žin., 2002, Nr. 123-5549); ^s-281aa175352f7cbf5301bcea
+2) [Bevariklio transporto įstatymo 15 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.311A5AA3F978) (Žin., 2002, Nr. 123-5549); ^s-281aa175352f7cbf5301bcea
 
 
-3) Bevariklio transporto įstatymo [[#^s-1c3b8fbeb25f56935f42470b|14 straipsnio]] pakeitimo įstatymas (Žin., 2003, Nr. 61-2770); ^s-0ff7a965a39189ed4f366a45
+3) [Bevariklio transporto įstatymo 14 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.6ED438C827C7) (Žin., 2003, Nr. 61-2770); ^s-0ff7a965a39189ed4f366a45
 
 
-4) Bevariklio transporto įstatymo [[#^s-68e67a935f29e2c006ade8f4|8 straipsnio]] pakeitimo ir papildymo įstatymas (Žin., 2004, Nr. 152-5526). ^s-31fe020ed01eb8dc86635857
+4) [Bevariklio transporto įstatymo 8 straipsnio pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.D13DF2938CE5) (Žin., 2004, Nr. 152-5526). ^s-31fe020ed01eb8dc86635857
 
 
 

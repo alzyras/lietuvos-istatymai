@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-8b528d11870be540b5a0f321
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. gruodžio 2 d. dekretą Nr. 1K-1622, ratifikuoja 2005 m. gruodžio 1 d. Kijeve sudarytą Europos Bendrijos bei jos valstybių narių ir Ukrainos bendradarbiavimo susitarimą dėl civilinės pasaulinės palydovinės navigacijos sistemos (GNSS).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. gruodžio 2 d. dekretą Nr. 1K-1622](https://e-tar.lt/portal/lt/legalAct/TAR.CE2747060BF3), ratifikuoja 2005 m. gruodžio 1 d. Kijeve sudarytą Europos Bendrijos bei jos valstybių narių ir Ukrainos bendradarbiavimo susitarimą dėl civilinės pasaulinės palydovinės navigacijos sistemos (GNSS).
 
 
 

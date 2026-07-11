@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-c33e26fcbae044f60bfb0548
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu, [[latest/TAR.5BCEC9B41811#^s-5f833c89ad27630458eab49b|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 5 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2012 m. lapkričio 19 d. dekretą Nr. 1K-1281, ratifikuoja Susitarimą dėl tarptautinės organizacijos – Antikorupcijos akademijos – įsteigimo, priimtą 2010 m. rugsėjo 2 d. Vienoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu, [[latest/TAR.5BCEC9B41811#^s-5f833c89ad27630458eab49b|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 5 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2012 m. lapkričio 19 d. dekretą Nr. 1K-1281](https://e-tar.lt/portal/lt/legalAct/TAR.74A68B199CD8), ratifikuoja Susitarimą dėl tarptautinės organizacijos – Antikorupcijos akademijos – įsteigimo, priimtą 2010 m. rugsėjo 2 d. Vienoje.
 
 
 

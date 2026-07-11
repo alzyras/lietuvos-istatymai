@@ -162,7 +162,7 @@ Lietuvos Respublikos adresų registro informacinėje sistemoje tvarkomi duomenų
 Lietuvos Respublikos adresų registro objektai Lietuvos Respublikos adresų registro informacinėje sistemoje registruojami šios informacinės sistemos nuostatuose nustatyta tvarka.
 
 
-Lietuvos Respublikos adresų registro objektai gali būti registruojami, o sprendimai dėl duomenų teikimo ir atsisakymo juos teikti gali būti suformuojami automatizuotai Lietuvos Respublikos adresų registro informacinės sistemos nuostatuose nustatytais atvejais ir tvarka. Tokiuose sprendimuose nurodoma Lietuvos Respublikos viešojo administravimo įstatymo 10 straipsnio 5 dalies 1–7 punktuose nurodyta informacija ir informacija, kad sprendimas yra priimtas automatizuotai, sprendimai nepasirašomi.
+Lietuvos Respublikos adresų registro objektai gali būti registruojami, o sprendimai dėl duomenų teikimo ir atsisakymo juos teikti gali būti suformuojami automatizuotai Lietuvos Respublikos adresų registro informacinės sistemos nuostatuose nustatytais atvejais ir tvarka. Tokiuose sprendimuose nurodoma [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymo 10 straipsnio 5 dalies]] [[latest/TAR.0BDFFD850A66|1]]–[[latest/TAR.0BDFFD850A66|7]] punktuose nurodyta informacija ir informacija, kad sprendimas yra priimtas automatizuotai, sprendimai nepasirašomi.
 
 
 Duomenų tvarkymo Lietuvos Respublikos adresų registro informacinėje sistemoje tikslas – užtikrinti tinkamą duomenų, apibūdinančių Lietuvos Respublikos adresų registro objektus, kokybę, vientisumą, autentiškumą, unikalumą ir saugų tvarkymą, siekiant veiksmingo paslaugų teikimo ir tinkamos informacinių sistemų sąveikos.
@@ -512,10 +512,10 @@ BAIGIAMOSIOS NUOSTATOS
 ### 14 straipsnis. Įstatymo įgyvendinimas ^s-3aa5b4915e15809e74eb14ff
 
 
-Šis įstatymas įgyvendinamas pagal Lietuvos Respublikos Seimo nutarimą „Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo įgyvendinimo“.
+Šis įstatymas įgyvendinamas pagal Lietuvos Respublikos Seimo nutarimą [„Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo įgyvendinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.A2ACD355C58C).
 
 
-Šio įstatymo 4 straipsnio 2 dalyje nurodytos savivaldybės steigiamos ir 4 bei [[#^s-b4cae5283d6d8efa1b20598f|5 straipsnių]] nuostatos įgyvendinamos pagal [[latest/TAR.E2D9EFEC4ED0|Teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo]] įgyvendinimo įstatymą.
+Šio įstatymo 4 straipsnio 2 dalyje nurodytos savivaldybės steigiamos ir [[#^s-5d634a8d6e5cc0548d8501f8|4]] bei [[#^s-b4cae5283d6d8efa1b20598f|5]] straipsnių nuostatos įgyvendinamos pagal [[latest/TAR.E2D9EFEC4ED0|Teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo]] įgyvendinimo įstatymą.
 
 
 Straipsnio pakeitimai:
@@ -573,8 +573,8 @@ Nr. IX-299, 2001-04-26, Žin., 2001, Nr. 41-1420 (2001-05-16), i. k. [[latest/TA
 
 6.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
-2001-06-28, Žin., 2001, Nr. 56-1997 (2001-06-30), i. k. 1011000NUTARG011960
-Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir [[#^s-b4cae5283d6d8efa1b20598f|5 straipsnio]] pakeitimo įstatymo įgyvendinimo įstatymo atitikties Lietuvos Respublikos Konstitucijai, taip pat dėl Lietuvos Respublikos Vyriausybės 1999 m. lapkričio 29 d. nutarimo Nr. 1307 "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4 ir 5 straipsnių pakeitimo įstatymo įgyvendinimo įstatymo projektų" atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo (1999 m. gegužės 4 d. redakcija) 7 bei [[#^s-b016ebb5777c1f2a7095c3e3|13 straipsniams]] ir [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatymo]] (1998 m. lapkričio 17 d. redakcija) 15 straipsnio 30 punktui
+2001-06-28, Žin., 2001, Nr. 56-1997 (2001-06-30), i. k. [1011000NUTARG011960](https://e-tar.lt/portal/lt/legalAct/TAR.CC42DF610277)
+Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo [[#^s-5d634a8d6e5cc0548d8501f8|4]], [[#^s-3aa5b4915e15809e74eb14ff|14]] straipsnių papildymo ir [[#^s-b4cae5283d6d8efa1b20598f|5 straipsnio]] pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo [[#^s-5d634a8d6e5cc0548d8501f8|4]], [[#^s-3aa5b4915e15809e74eb14ff|14]] straipsnių papildymo ir [[#^s-b4cae5283d6d8efa1b20598f|5 straipsnio]] pakeitimo įstatymo įgyvendinimo įstatymo atitikties Lietuvos Respublikos Konstitucijai, taip pat dėl Lietuvos Respublikos Vyriausybės [1999 m. lapkričio 29 d. nutarimo Nr. 1307](https://e-tar.lt/portal/lt/legalAct/TAR.7F7BEE8A5A61) "Dėl Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo [[#^s-5d634a8d6e5cc0548d8501f8|4]] ir [[#^s-b4cae5283d6d8efa1b20598f|5]] straipsnių pakeitimo įstatymo ir Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo [[#^s-5d634a8d6e5cc0548d8501f8|4]] ir [[#^s-b4cae5283d6d8efa1b20598f|5]] straipsnių pakeitimo įstatymo įgyvendinimo įstatymo projektų" atitikties Lietuvos Respublikos Konstitucijai, Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo (1999 m. gegužės 4 d. redakcija) [[#^s-8a68748eeb42cd77dbe17018|7]] bei [[#^s-b016ebb5777c1f2a7095c3e3|13]] straipsniams ir Lietuvos Respublikos vietos savivaldos įstatymo (1998 m. lapkričio 17 d. redakcija) 15 straipsnio 30 punktui
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -614,7 +614,7 @@ Nr. XI-709, 2010-03-30, Žin., 2010, Nr. 41-1934 (2010-04-10), i. k. [[latest/TA
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1426, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20561
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 3, [[#^s-f77282f2fa143b98374ce6c2|9 straipsnių]] pakeitimo ir Įstatymo papildymo 7-2, 12-1 straipsniais įstatymas
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 [[#^s-bb5ddf3844a1b439506bdc4d|3]], [[#^s-f77282f2fa143b98374ce6c2|9]] straipsnių pakeitimo ir Įstatymo papildymo 7-2, 12-1 straipsniais įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -624,14 +624,14 @@ Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatym
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-924, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01290
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 1 ir [[#^s-bb5ddf3844a1b439506bdc4d|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 [[#^s-9eed80465ad5ba2d2ec9522f|1]] ir [[#^s-bb5ddf3844a1b439506bdc4d|3]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-966, 2026-05-19, paskelbta TAR 2026-05-22, i. k. 2026-08625
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 3-1, 7-1, 12-1 straipsnių pakeitimo ir 11, [[#^s-0ea5623e148c6cbeeb128eb0|12 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 3-1, 7-1, 12-1 straipsnių pakeitimo ir [[#^s-bc27e19fbb3499fa97d788d7|11]], [[#^s-0ea5623e148c6cbeeb128eb0|12]] straipsnių pripažinimo netekusiais galios įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1069, 2026-06-25, paskelbta TAR 2026-07-03, i. k. 2026-11523
-Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 7 ir 7-2 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo Nr. I-558 [[#^s-8a68748eeb42cd77dbe17018|7]] ir 7-2 straipsnių pakeitimo įstatymas

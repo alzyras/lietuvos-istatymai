@@ -46,7 +46,7 @@ Vilnius
 Pakeisti 3 straipsnio 5 dalį ir ją išdėstyti taip:
 
 
-„5. Šio įstatymo VI ir VII skyrių nuostatos taikomos ir įgyvendinant 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinančio Reglamentą (EB) Nr. 2560/2001, 9, 10, 11, 12 ir 13 straipsnių ir 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 260/2012, kuriuo nustatomi kredito pervedimų ir tiesioginio debeto operacijų eurais techniniai ir komerciniai reikalavimai ir iš dalies keičiamas Reglamentas (EB) Nr. 924/2009 (toliau – Reglamentas Nr. 260/2012), 10, 11, 12 ir 16 straipsnių nuostatas.“
+„5. Šio įstatymo VI ir VII skyrių nuostatos taikomos ir įgyvendinant 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 924/2009 dėl tarptautinių mokėjimų Bendrijoje, panaikinančio [Reglamentą (EB) Nr. 2560/2001](https://eur-lex.europa.eu/eli/reg/2560/2001/oj), 9, 10, 11, 12 ir 13 straipsnių ir 2012 m. kovo 14 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 260/2012, kuriuo nustatomi kredito pervedimų ir tiesioginio debeto operacijų eurais techniniai ir komerciniai reikalavimai ir iš dalies keičiamas Reglamentas (EB) Nr. 924/2009 (toliau – Reglamentas Nr. 260/2012), 10, 11, 12 ir 16 straipsnių nuostatas.“
 
 
 ### 2 straipsnis. 49 straipsnio pakeitimas ^s-3e2bdf2fa72f595f5093226f

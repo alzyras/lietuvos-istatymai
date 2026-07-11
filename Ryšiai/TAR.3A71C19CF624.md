@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos valstybės paramos būstui įsigyti ar išsin
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Statybos įstatymo
-- [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 2 citatos - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymu
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - Statybos įstatymo
+- [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymu
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9D04F98F7C14#^s-e0747e411ff1121a49e2a231|Lietuvos Respublikos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) įstatymas]] - Įstatymas Nr. X-1732
+_Nėra._

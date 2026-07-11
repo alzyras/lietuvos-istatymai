@@ -195,7 +195,7 @@ Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 34. Pinigų plovimas – kaip tai apibrėžta [[latest/TAR.C44837068B55|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme]]. ^s-f234f0ad28f1df7d3615bf8f
 
 
-35. Priežiūros institucija – Lietuvos bankas, Europos Centrinis Bankas, atsižvelgiant į 2013 m. spalio 15 d. Tarybos reglamente (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, (OL 2013 L 287, p. 63) nustatytas funkcijas, arba tokias pačias kaip Lietuvos bankas finansų rinkos priežiūros funkcijas atliekanti institucija valstybėje narėje ar trečiojoje valstybėje. ^s-b5de513f97cd543ceedb9c58
+35. Priežiūros institucija – Lietuvos bankas, Europos Centrinis Bankas, atsižvelgiant į 2013 m. spalio 15 d. Tarybos [reglamente (ES) Nr. 1024/2013](https://eur-lex.europa.eu/eli/reg/1024/2013/oj), kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, (OL 2013 L 287, p. 63) nustatytas funkcijas, arba tokias pačias kaip Lietuvos bankas finansų rinkos priežiūros funkcijas atliekanti institucija valstybėje narėje ar trečiojoje valstybėje. ^s-b5de513f97cd543ceedb9c58
 
 
 36. Priimančioji valstybė narė – kaip tai apibrėžta Reglamento (ES) Nr. 575/2013 4 straipsnio 1 dalies 44 punkte. ^s-6aef3284818db7e63fabc087
@@ -364,7 +364,7 @@ Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 7. Indėlių draudimo išmokos apskaičiuojamos ir mokamos pagal indėlių draudimo sistemos dalyvio indėlių draudžiamojo įvykio dienos duomenis apie indėlius ir indėlininkus. Indėlių draudimo išmokos sumą pagal indėlių draudimo sistemos dalyvio pateiktus duomenis apskaičiuoja ir indėlių draudimo išmokų išmokėjimą organizuoja draudimo įmonė. Už draudimo įmonei perduotų duomenų tikrumą ir pateikimą laiku atsako indėlių draudimo sistemos dalyvis. ^s-f93ad62529d1fa95d414459f
 
 
-8. Indėlių draudimo sistemos dalyviai privalo įdiegti priemones, leidžiančias iš karto identifikuoti kiekvienam indėlininkui priklausančią tinkamų drausti indėlių sumą, pagrindinių apdraustųjų indėlių sumą ir kitus indėlių draudimo išmokoms apskaičiuoti reikalingus duomenis, kuriuos draudimo įmonės prašymu indėlių draudimo sistemos dalyviai privalo pateikti draudimo įmonei nedelsdami, bet ne vėliau kaip per 2 darbo dienas nuo draudimo įmonės prašymo pateikimo dienos, išskyrus atvejus, numatytus šio straipsnio 3 ir [[#^s-5ea060598599422834187edc|5 dalyse]]. ^s-48588d55bb7e3747d9b5f754
+8. Indėlių draudimo sistemos dalyviai privalo įdiegti priemones, leidžiančias iš karto identifikuoti kiekvienam indėlininkui priklausančią tinkamų drausti indėlių sumą, pagrindinių apdraustųjų indėlių sumą ir kitus indėlių draudimo išmokoms apskaičiuoti reikalingus duomenis, kuriuos draudimo įmonės prašymu indėlių draudimo sistemos dalyviai privalo pateikti draudimo įmonei nedelsdami, bet ne vėliau kaip per 2 darbo dienas nuo draudimo įmonės prašymo pateikimo dienos, išskyrus atvejus, numatytus šio straipsnio [[#^s-d670ebdc3af57968d33b2637|3]] ir [[#^s-5ea060598599422834187edc|5]] dalyse. ^s-48588d55bb7e3747d9b5f754
 Straipsnio dalies pakeitimai:
 Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 
@@ -387,8 +387,8 @@ Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 2. Indėlių draudimo išmokos išmokamos, išskyrus [[#^s-fb715a077149478b70ded7fd|šio straipsnio 4 dalyje]] nustatytas išimtis, per 7 darbo dienas nuo indėlių draudžiamojo įvykio dienos. ^s-c7035d0ac0d893ed69b665e4
 
 
-3. Indėlininkas turi teisę į avansinę minimaliosios mėnesinės algos dydžio, bet ne didesnę negu indėlininko turima tinkamo drausti indėlio suma, indėlių draudimo išmokos dalį (toliau – avansinė indėlių draudimo išmoka), kuri indėlininko prašymu išmokama per 5 darbo dienas nuo jo prašymo gavimo draudimo įmonėje dienos, su sąlyga, kad draudimo įmonė neišmokės indėlių draudimo išmokos per 7 darbo dienas nuo indėlių draudžiamojo įvykio dienos. Išmokėta avansinė indėlių draudimo išmoka atimama iš bendros šiam indėlininkui apskaičiuotos indėlių draudimo išmokos sumos. Avansinės indėlių draudimo išmokos dydis apskaičiuojamas pagal šio įstatymo [[#^s-f93ad62529d1fa95d414459f|6 straipsnio 7 dalį]], o išmokėjimo tvarkai mutatis mutandis taikomos šio straipsnio 4, 5, 6 ir [[#^s-50964ffe23b7c955f502395f|7 dalių]] nuostatos. ^s-85876630ac6189025497918e
-TAR pastaba. [[#^s-85876630ac6189025497918e|7 straipsnio 3 dalis]] įsigalioja 2016 m. gegužės 31 d. [[#^s-85876630ac6189025497918e|7 straipsnio 3 dalis]] pripažįstama netekusia galios nuo 2024 m. sausio 1 d.
+3. Indėlininkas turi teisę į avansinę minimaliosios mėnesinės algos dydžio, bet ne didesnę negu indėlininko turima tinkamo drausti indėlio suma, indėlių draudimo išmokos dalį (toliau – avansinė indėlių draudimo išmoka), kuri indėlininko prašymu išmokama per 5 darbo dienas nuo jo prašymo gavimo draudimo įmonėje dienos, su sąlyga, kad draudimo įmonė neišmokės indėlių draudimo išmokos per 7 darbo dienas nuo indėlių draudžiamojo įvykio dienos. Išmokėta avansinė indėlių draudimo išmoka atimama iš bendros šiam indėlininkui apskaičiuotos indėlių draudimo išmokos sumos. Avansinės indėlių draudimo išmokos dydis apskaičiuojamas pagal šio įstatymo [[#^s-f93ad62529d1fa95d414459f|6 straipsnio 7 dalį]], o išmokėjimo tvarkai mutatis mutandis taikomos šio straipsnio [[#^s-3e084bf87c46277e90f8dc60|4]], [[#^s-5ea060598599422834187edc|5]], [[#^s-dcf2100b71c08ae333351647|6]] ir [[#^s-f93ad62529d1fa95d414459f|7]] dalių nuostatos. ^s-85876630ac6189025497918e
+TAR pastaba. 7 straipsnio 3 dalis įsigalioja 2016 m. gegužės 31 d. 7 straipsnio 3 dalis pripažįstama netekusia galios nuo 2024 m. sausio 1 d.
 
 
 4. Indėlių draudimo išmokos išmokėjimas atidedamas, kai: ^s-fb715a077149478b70ded7fd
@@ -448,7 +448,7 @@ Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 10. Draudimo įmonė priimančiosios valstybės narės indėlių draudimo sistemos administratoriui teikia informaciją, kaip indėlių draudimo sistemos dalyviai, įsteigę filialą valstybėje narėje, laikosi šio įstatymo nustatytų reikalavimų, apie jų testavimo nepalankiausiomis sąlygomis rezultatus ir visą informaciją, reikalingą pasirengti išmokėti indėlių draudimo išmokas filialo indėlininkams, įskaitant duomenis apie tinkamus drausti indėlius, laikydamasi duomenų apsaugos ir konfidencialumo reikalavimų. ^s-fe0f03ca263dffa01fde6a66
 
 
-11. Siekdama užtikrinti sklandų indėlių draudimo išmokų išmokėjimą filialų indėlininkams, tinkamą tarpusavio atsiskaitymą indėlių draudimo sistemos dalyvių perėjimo į kitą indėlių draudimo sistemą ar skolinimo atveju, draudimo įmonė bendradarbiauja ir keičiasi informacija su kitos valstybės narės indėlių draudimo sistemos administratoriumi ir sudaro su juo rašytines bendradarbiavimo sutartis. Tokiose sutartyse nustatomi indėlininkų duomenų apsaugos ir konfidencialumo reikalavimai. Draudimo įmonė apie tokias sutartis praneša Europos bankininkystės institucijai. Jeigu draudimo įmonė negali pasiekti susitarimo arba kyla ginčų dėl sutarties aiškinimo, draudimo įmonė gali perduoti klausimą svarstyti Europos bankininkystės institucijai. Tokių sutarčių nebuvimas neturi įtakos indėlininkų reikalavimams į indėlių draudimo išmoką arba kredito įstaigų reikalavimams pagal šio įstatymo [[#^s-409ecfeb7b768db0ebd6bbf1|11 straipsnio]] 4 ir [[#^s-aac0de3897d317720663f7b0|6 dalis]]. ^s-28ef9769410ce595288fe096
+11. Siekdama užtikrinti sklandų indėlių draudimo išmokų išmokėjimą filialų indėlininkams, tinkamą tarpusavio atsiskaitymą indėlių draudimo sistemos dalyvių perėjimo į kitą indėlių draudimo sistemą ar skolinimo atveju, draudimo įmonė bendradarbiauja ir keičiasi informacija su kitos valstybės narės indėlių draudimo sistemos administratoriumi ir sudaro su juo rašytines bendradarbiavimo sutartis. Tokiose sutartyse nustatomi indėlininkų duomenų apsaugos ir konfidencialumo reikalavimai. Draudimo įmonė apie tokias sutartis praneša Europos bankininkystės institucijai. Jeigu draudimo įmonė negali pasiekti susitarimo arba kyla ginčų dėl sutarties aiškinimo, draudimo įmonė gali perduoti klausimą svarstyti Europos bankininkystės institucijai. Tokių sutarčių nebuvimas neturi įtakos indėlininkų reikalavimams į indėlių draudimo išmoką arba kredito įstaigų reikalavimams pagal šio įstatymo [[#^s-409ecfeb7b768db0ebd6bbf1|11 straipsnio]] [[#^s-5b14c5f9244cd2cd3c0e685d|4]] ir [[#^s-0c1529a0288b7cb60e1ffe31|6]] dalis. ^s-28ef9769410ce595288fe096
 
 
 12. Indėlininko teisė į indėlių draudimo išmoką galioja 5 metus nuo indėlių draudžiamojo įvykio dienos. Ginčus dėl indėlininko teisės į indėlių draudimo išmoką sprendžia bendrosios kompetencijos teismai įstatymų nustatyta tvarka. ^s-4c875309059ece13d08a46c3
@@ -512,7 +512,7 @@ Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 
 
 4. Informacija indėlininkui perduodama indėlių draudimo sistemos dalyvio ir indėlininko sutartu būdu. Jeigu indėlininkas naudojasi internetinės bankininkystės paslaugomis, informacija indėlininkui gali būti perduodama elektroninėmis priemonėmis. Jeigu indėlių draudimo sistemos dalyvis ir indėlininkas nėra sutarę dėl informacijos pateikimo būdo ir indėlininkas nesinaudoja internetinės bankininkystės paslaugomis, informacija indėlininkui pateikiama elektroninėmis priemonėmis arba raštu. Kliento prašymu informacija indėlininkui pateikiama raštu popieriuje. ^s-e89ef906aa41fd2a74eabdae
-TAR pastaba. Indėlių draudimo sistemos dalyviai esamus indėlininkus privalo per 6 mėnesius nuo šio įstatymo įsigaliojimo dienos (2015-12-03) [[#^s-e89ef906aa41fd2a74eabdae|10 straipsnio 4 dalyje]] nustatyta tvarka informuoti apie indėlius, kurie, įsigaliojus šiam įstatymui, nebebus draudžiami.
+TAR pastaba. Indėlių draudimo sistemos dalyviai esamus indėlininkus privalo per 6 mėnesius nuo šio įstatymo įsigaliojimo dienos (2015-12-03) 10 straipsnio 4 dalyje nustatyta tvarka informuoti apie indėlius, kurie, įsigaliojus šiam įstatymui, nebebus draudžiami.
 
 
 5. Draudimo įmonė savo interneto svetainėje skelbia indėlininkams visą aktualią informaciją apie indėlių draudimo sąlygas, indėlių draudimo išmokų išmokėjimo tvarką, atvejus, kai indėliai nėra draudžiami ir kai yra taikomi indėlių draudimo išmokų mokėjimo apribojimai. ^s-eb797145150ad263c1b0c106
@@ -631,7 +631,7 @@ Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 1) Indėlių draudimo fondo turimus finansinius išteklius, įvertinus šio fondo turimus skolinius įsipareigojimus; ^s-2ad1e9cd14696d0bb7e8c9f8
 
 
-2) tikslą iki 2024 m. liepos 3 d. pasiekti mažiausiąjį tikslinį lygį ir iki 2038 m. liepos 3 d. pasiekti nacionalinį tikslinį lygį, išskyrus šio įstatymo [[#^s-48f3fbeef101f9aa727b9738|15 straipsnio]] 3 ir [[#^s-ff5aa48517099df12497cd63|4 dalyse]] nustatytas išimtis; ^s-a41c6abea012dba2f38400c3
+2) tikslą iki 2024 m. liepos 3 d. pasiekti mažiausiąjį tikslinį lygį ir iki 2038 m. liepos 3 d. pasiekti nacionalinį tikslinį lygį, išskyrus šio įstatymo [[#^s-48f3fbeef101f9aa727b9738|15 straipsnio]] [[#^s-b92bbec05cf86099d0d1585e|3]] ir [[#^s-3f0b9098e81a656528fe8e45|4]] dalyse nustatytas išimtis; ^s-a41c6abea012dba2f38400c3
 
 
 3) poreikį išlaikyti ir atkurti mažiausiąjį ir nacionalinį tikslinius lygius; ^s-69cb1ad807dfd65bdcaf742d
@@ -649,10 +649,10 @@ Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 7. Šio įstatymo [[#^s-c5f28bc984ad2b2237d44b62|11 straipsnio 1 dalyje]] nurodyti subjektai, įgiję teisę priimti indėlius, į draudimo įmonės nurodytą Indėlių draudimo fondo sąskaitą per 10 dienų nuo draudimo įmonės nurodymo gavimo dienos sumoka pirmąją (avansinę) draudimo įmoką: ^s-f98aba5452ebf3cb0ca995be
 
 
-1) šio įstatymo [[#^s-c5f28bc984ad2b2237d44b62|11 straipsnio 1 dalies]] 1 ir [[#^s-cbb80508e5dcc71461dda32b|2 punktuose]] nurodyti subjektai – 2 000 eurų; ^s-89da6607479499a2686c7049
+1) šio įstatymo [[#^s-c5f28bc984ad2b2237d44b62|11 straipsnio 1 dalies]] [[#^s-0f5dac6413a0b67184cd8e63|1]] ir [[#^s-eab50a2101d2b3af558fb86a|2]] punktuose nurodyti subjektai – 2 000 eurų; ^s-89da6607479499a2686c7049
 
 
-2) šio įstatymo [[#^s-c5f28bc984ad2b2237d44b62|11 straipsnio 1 dalies]] 3 ir 4 punktuose nurodyti subjektai – 200 eurų. ^s-cbb80508e5dcc71461dda32b
+2) šio įstatymo [[#^s-c5f28bc984ad2b2237d44b62|11 straipsnio 1 dalies]] [[#^s-7438adfe4bc2369188789479|3]] ir [[#^s-05059a412218f1794c987fb3|4]] punktuose nurodyti subjektai – 200 eurų. ^s-cbb80508e5dcc71461dda32b
 
 
 8. Sumokėta pirmoji (avansinė) įmoka įskaitoma į indėlių draudimo sistemos dalyvio mokėtinų vėlesnių periodinių (ex ante) indėlių draudimo įmokų sumą. ^s-b28715d7c14f9c372d318b75
@@ -950,7 +950,7 @@ Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 4) kita valstybė narė užtikrina, kad besiskolinančio šios valstybės narės indėlių draudimo sistemos administratoriaus renkamų įmokų pakaks paskolai grąžinti. ^s-966ea455f689d11a552d40e3
 
 
-12. Draudimo įmonė Indėlių draudimo fondo vardu mutatis mutandis turi teisę skolintis iš kitos valstybės narės indėlių draudimo sistemos šio straipsnio 10 ir [[#^s-f4c8e9aec203a98552aaae2f|11 dalyse]] nustatytomis sąlygomis ir tvarka. ^s-2f4f09aa78d02d6bf01e6700
+12. Draudimo įmonė Indėlių draudimo fondo vardu mutatis mutandis turi teisę skolintis iš kitos valstybės narės indėlių draudimo sistemos šio straipsnio [[#^s-5962ef223d8c93514c5c56e0|10]] ir [[#^s-f4c8e9aec203a98552aaae2f|11]] dalyse nustatytomis sąlygomis ir tvarka. ^s-2f4f09aa78d02d6bf01e6700
 
 
 13. Į Indėlių draudimo fondo lėšas negali būti nukreipti reikalavimai pagal draudimo įmonės prievoles. ^s-4fd466e32017402ce8db15ed
@@ -1559,7 +1559,7 @@ Nr. XIII-1254, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09922
 
 
 
-2. Pertvarkymo fondas finansuojamas [[latest/TAR.EBB4FD337ADE#^s-59c59abf267ef451faab9042|Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalies 3 punkte]] nurodytų subjektų, kurie nepatenka į 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010 (toliau – Reglamentas (ES) Nr. 806/2014), [[#^s-9e534127cd63e2f76e4e7971|2 straipsnyje]] nurodytą šio reglamento taikymo apimtį, ir trečiosiose valstybėse licencijuotų įstaigų filialų, įsteigtų Lietuvos Respublikoje, lėšomis (toliau – Pertvarkymo fondo dalyviai). Kiti [[latest/TAR.EBB4FD337ADE#^s-e0aece963a7f331f2220c74c|Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje]] nurodyti subjektai moka įmokas į Bendrą pertvarkymo fondą Reglamento (ES) Nr. 806/2014 ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. ^s-d63589019a45d1923ae5d998
+2. Pertvarkymo fondas finansuojamas [[latest/TAR.EBB4FD337ADE#^s-59c59abf267ef451faab9042|Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalies 3 punkte]] nurodytų subjektų, kurie nepatenka į 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) (toliau – Reglamentas (ES) Nr. 806/2014), [[#^s-9e534127cd63e2f76e4e7971|2 straipsnyje]] nurodytą šio reglamento taikymo apimtį, ir trečiosiose valstybėse licencijuotų įstaigų filialų, įsteigtų Lietuvos Respublikoje, lėšomis (toliau – Pertvarkymo fondo dalyviai). Kiti [[latest/TAR.EBB4FD337ADE#^s-e0aece963a7f331f2220c74c|Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje]] nurodyti subjektai moka įmokas į Bendrą pertvarkymo fondą Reglamento (ES) Nr. 806/2014 ir jo įgyvendinamųjų teisės aktų nustatyta tvarka. ^s-d63589019a45d1923ae5d998
 Straipsnio dalies pakeitimai:
 Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 
@@ -1574,13 +1574,13 @@ Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 5. Jeigu po to, kai pasiekiamas Pertvarkymo fondo tikslinis lygis, Pertvarkymo fonde turima finansavimo lėšų suma sumažėja žemiau negu šis lygis, Pertvarkymo institucija atnaujina periodinių (ex ante) įmokų rinkimą, iki vėl bus pasiektas Pertvarkymo fondo tikslinis lygis. Jeigu Pertvarkymo fonde turima suma sumažėja iki mažiau negu dviejų trečdalių Pertvarkymo fondo tikslinio lygio, įmokos nustatomos tokio dydžio, kad Pertvarkymo fondo tikslinį lygį būtų galima pasiekti ne ilgiau kaip per 6 metus. ^s-9358378cecc6e9b24b10bd8a
 
 
-6. Pertvarkymo institucija, nustatydama periodinių (ex ante) įmokų bendrą metinę normą pagal šio straipsnio 3 ir [[#^s-2e18f5cdf0f35bacfbcf3195|4 dalis]], kuo tolygiau paskirsto finansinę naštą per laikotarpį, iki bus pasiektas Pertvarkymo fondo tikslinis lygis, ir atsižvelgia į verslo ciklo stadiją ir galimą prociklinį įmokų poveikį įstaigų finansinei būklei. ^s-a94c90a5a384bee148bd9810
+6. Pertvarkymo institucija, nustatydama periodinių (ex ante) įmokų bendrą metinę normą pagal šio straipsnio [[#^s-b0d09ba83cf8e9205338197e|3]] ir [[#^s-2e18f5cdf0f35bacfbcf3195|4]] dalis, kuo tolygiau paskirsto finansinę naštą per laikotarpį, iki bus pasiektas Pertvarkymo fondo tikslinis lygis, ir atsižvelgia į verslo ciklo stadiją ir galimą prociklinį įmokų poveikį įstaigų finansinei būklei. ^s-a94c90a5a384bee148bd9810
 
 
 7. Pertvarkymo fondo dalyviai į Pertvarkymo fondą įmokas moka pinigais (eurais). Pertvarkymo institucija gali leisti įstaigoms dalį, bet ne daugiau kaip 30 procentų, periodinės (ex ante) įmokos padengti mokėjimo įsipareigojimais – trečiųjų asmenų teisėmis nesuvaržyto mažos rizikos turto užstatu (įkaitu), įkeistu pertvarkymo institucijos naudai. Bendra visų Pertvarkymo fondo dalyvių mokėjimo įsipareigojimų suma negali viršyti 30 procentų visos Pertvarkymo fonde surinktos periodinių (ex ante) įmokų ir mokėjimo įsipareigojimų sumos. Įmokų užtikrinimo mokėjimo įsipareigojimais tvarką nustato pertvarkymo institucija, pasikonsultavusi su draudimo įmone. ^s-fe3228a77cbe0d065e3ba23e
 
 
-8. Kai Pertvarkymo fonde esančių lėšų nepakanka reikiamiems pertvarkymo veiksmams finansuoti, trūkstamai sumai padengti pertvarkymo institucija nustato Pertvarkymo fondo dalyvių mokėtinas specialiąsias (ex post) įmokas. Kiekvienam Pertvarkymo fondo dalyviui priskirtina specialioji (ex post) įmoka apskaičiuojama vadovaujantis šio straipsnio 2 ir [[#^s-b0d09ba83cf8e9205338197e|3 dalių]] nuostatomis. Specialioji (ex post) įmoka negali daugiau negu 3 kartus viršyti tais kalendoriniais metais Pertvarkymo fondo dalyvio mokėtinos periodinės (ex ante) įmokos sumos. ^s-a34c0628b27b3b60e488f7c6
+8. Kai Pertvarkymo fonde esančių lėšų nepakanka reikiamiems pertvarkymo veiksmams finansuoti, trūkstamai sumai padengti pertvarkymo institucija nustato Pertvarkymo fondo dalyvių mokėtinas specialiąsias (ex post) įmokas. Kiekvienam Pertvarkymo fondo dalyviui priskirtina specialioji (ex post) įmoka apskaičiuojama vadovaujantis šio straipsnio [[#^s-d63589019a45d1923ae5d998|2]] ir [[#^s-b0d09ba83cf8e9205338197e|3]] dalių nuostatomis. Specialioji (ex post) įmoka negali daugiau negu 3 kartus viršyti tais kalendoriniais metais Pertvarkymo fondo dalyvio mokėtinos periodinės (ex ante) įmokos sumos. ^s-a34c0628b27b3b60e488f7c6
 
 
 9. Pertvarkymo institucija turi teisę visiškai ar iš dalies atidėti Pertvarkymo fondo dalyvio specialiosios (ex post) įmokos mokėjimą, jeigu tų įmokų mokėjimas keltų pavojų Pertvarkymo fondo dalyvio likvidumui ar mokumui. Toks atidėjimas suteikiamas ne ilgesniam kaip 6 mėnesių laikotarpiui, bet Pertvarkymo fondo dalyvio prašymu gali būti pratęstas. Atidėta įmoka sumokama, kai toks mokėjimas nebekelia pavojaus Pertvarkymo fondo dalyvio likvidumui ar mokumui. ^s-74e4aa4cd4a88f9d4fb33ec6
@@ -1624,7 +1624,7 @@ Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 ### 35 straipsnis. Pertvarkymo fondo administravimo finansavimas ^s-2de0532aebc7cf6aff4f0995
 
 
-1. Pertvarkymo fondo administravimas finansuojamas iš Pertvarkymo fondo dalyvių mokamų administravimo įmokų. Kiti [[latest/TAR.EBB4FD337ADE#^s-e0aece963a7f331f2220c74c|Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje]] nurodyti subjektai moka įmokas Bendros pertvarkymo valdybos administracinėms išlaidoms finansuoti Reglamento (ES) Nr. 806/2014 ir Reglamento (ES) Nr. 2017/2361 nustatyta tvarka. Lietuvos banko ir (arba) Bendros pertvarkymo valdybos pateiktus prašymus patikrinti Bendros pertvarkymo valdybos sprendimų dėl Lietuvos Respublikoje licencijuoto finansų sektoriaus subjekto atskirų mokėtinų sumų (toliau – Bendros pertvarkymo valdybos sprendimas) autentiškumą nagrinėja Lietuvos apeliacinis teismas mutatis mutandis taikydamas [[latest/TAR.68CC8934A031#^s-6cb301df77e35842320ab880|Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo 4 straipsnio]] 4, 5 ir 6 dalių nuostatas tiek, kiek šioje dalyje nenustatyta kitaip. Lietuvos apeliacinis teismas patikrina Bendros pertvarkymo valdybos sprendimo autentiškumą ne vėliau kaip per 20 darbo dienų nuo prašymo gavimo teisme dienos. Lietuvos apeliacinio teismo nutartis, kuria išsprendžiamas Bendros pertvarkymo valdybos sprendimo autentiškumo klausimas, kasacine tvarka neskundžiama. Bendros pertvarkymo valdybos sprendimas ir įsiteisėjusi Lietuvos apeliacinio teismo nutartis, kuria išspręstas Bendros pertvarkymo valdybos sprendimo autentiškumo klausimas, yra vykdomieji dokumentai. ^s-68d7441bf4aa43a1b750a31d
+1. Pertvarkymo fondo administravimas finansuojamas iš Pertvarkymo fondo dalyvių mokamų administravimo įmokų. Kiti [[latest/TAR.EBB4FD337ADE#^s-e0aece963a7f331f2220c74c|Lietuvos Respublikos finansinio tvarumo įstatymo 1 straipsnio 2 dalyje]] nurodyti subjektai moka įmokas Bendros pertvarkymo valdybos administracinėms išlaidoms finansuoti Reglamento (ES) Nr. 806/2014 ir [Reglamento (ES) Nr. 2017/2361](https://eur-lex.europa.eu/eli/reg/2017/2361/oj) nustatyta tvarka. Lietuvos banko ir (arba) Bendros pertvarkymo valdybos pateiktus prašymus patikrinti Bendros pertvarkymo valdybos sprendimų dėl Lietuvos Respublikoje licencijuoto finansų sektoriaus subjekto atskirų mokėtinų sumų (toliau – Bendros pertvarkymo valdybos sprendimas) autentiškumą nagrinėja Lietuvos apeliacinis teismas mutatis mutandis taikydamas [[latest/TAR.68CC8934A031#^s-6cb301df77e35842320ab880|Lietuvos Respublikos civilinį procesą reglamentuojančių Europos Sąjungos ir tarptautinės teisės aktų įgyvendinimo įstatymo 4 straipsnio]] [[latest/TAR.68CC8934A031#^s-cd00aff9eb2f27f78f861b8c|4]], [[latest/TAR.68CC8934A031#^s-d59526c44438253a1b40aa2e|5]] ir [[latest/TAR.68CC8934A031#^s-aca9aae8eded02123420f604|6]] dalių nuostatas tiek, kiek šioje dalyje nenustatyta kitaip. Lietuvos apeliacinis teismas patikrina Bendros pertvarkymo valdybos sprendimo autentiškumą ne vėliau kaip per 20 darbo dienų nuo prašymo gavimo teisme dienos. Lietuvos apeliacinio teismo nutartis, kuria išsprendžiamas Bendros pertvarkymo valdybos sprendimo autentiškumo klausimas, kasacine tvarka neskundžiama. Bendros pertvarkymo valdybos sprendimas ir įsiteisėjusi Lietuvos apeliacinio teismo nutartis, kuria išspręstas Bendros pertvarkymo valdybos sprendimo autentiškumo klausimas, yra vykdomieji dokumentai. ^s-68d7441bf4aa43a1b750a31d
 Straipsnio dalies pakeitimai:
 Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 
@@ -1799,7 +1799,7 @@ Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
 1. Informacija, kuri laikoma draudimo įmonės paslaptimi, gali būti teikiama tik įstatymų nustatytoms institucijoms įstatymų nustatyta tvarka. ^s-797051135c3908a05115ee6e
 
 
-2. Draudimo įmonė indėlininkų ir investuotojų duomenis Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo administravimo tikslais gauna ir tvarko vadovaudamasi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]]. ^s-954a354f3779f0362a09c42b
+2. Draudimo įmonė indėlininkų ir investuotojų duomenis Indėlių draudimo fondo ir Įsipareigojimų investuotojams draudimo fondo administravimo tikslais gauna ir tvarko vadovaudamasi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]]. ^s-954a354f3779f0362a09c42b
 Straipsnio dalies pakeitimai:
 Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
 Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
@@ -2062,10 +2062,10 @@ investuotojams [[latest/TAR.8447F63760E9|draudimo įstatymo]]
 2. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/49/ES dėl indėlių garantijų sistemų. ^s-5835a5345beecad6dd62ef4b
 
 
-3. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/2162. ^s-35377d1e012597186693bf57
+3. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų ir investicinių įmonių gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/2162](https://eur-lex.europa.eu/eli/dir/2019/2162/oj). ^s-35377d1e012597186693bf57
 
 
-4. 2017 m. rugsėjo 14 d. Komisijos deleguotasis reglamentas (ES) Nr. 2017/2361 dėl galutinės įnašų, skirtų Bendros pertvarkymo valdybos administracinėms išlaidoms padengti, sistemos. ^s-3fe841216d269bc4f196f79b
+4. 2017 m. rugsėjo 14 d. Komisijos deleguotasis [reglamentas (ES) Nr. 2017/2361](https://eur-lex.europa.eu/eli/reg/2017/2361/oj) dėl galutinės įnašų, skirtų Bendros pertvarkymo valdybos administracinėms išlaidoms padengti, sistemos. ^s-3fe841216d269bc4f196f79b
 
 
 Priedo pakeitimai:
@@ -2106,7 +2106,7 @@ Nr. XI-376, 2009-07-21, Žin., 2009, Nr. 93-3969 (2009-08-04)
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1712, 2011-11-17, Žin., 2011, Nr. 139-6552 (2011-11-18)
-[[#^s-29485aa41daa0aad09ecb9d9|INDĖLIŲ IR ĮSIPAREIGOJIMŲ INVESTUOTOJAMS DRAUDIMO ĮSTATYMO 20, 21, 25 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU ĮSTATYMAS
+INDĖLIŲ IR ĮSIPAREIGOJIMŲ INVESTUOTOJAMS DRAUDIMO ĮSTATYMO [[#^s-940d7ca58cbe56ed89442e4a|20]], [[#^s-d77b5da80ce686dfddedf9b5|21]], [[#^s-29485aa41daa0aad09ecb9d9|25]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU ĮSTATYMAS
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2128,7 +2128,7 @@ Nr. XI-2328, 2012-11-06, Žin., 2012, Nr. 132-6656 (2012-11-15)
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1048, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10741
-LIETUVOS RESPUBLIKOS INDĖLIŲ IR ĮSIPAREIGOJIMŲ INVESTUOTOJAMS DRAUDIMO ĮSTATYMO NR. IX-975 2, 6, 10, 12, 12-1, 14, 15, 20, 21 IR [[#^s-29485aa41daa0aad09ecb9d9|25 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS INDĖLIŲ IR ĮSIPAREIGOJIMŲ INVESTUOTOJAMS DRAUDIMO ĮSTATYMO NR. IX-975 [[#^s-9e534127cd63e2f76e4e7971|2]], [[#^s-53ca3fa1c1785eb1e329b70d|6]], [[#^s-a1043d17f7932014f2dfb550|10]], [[#^s-08ca27efc6b9de53121ad058|12]], 12-1, [[#^s-eca0161d0a3f959405883a37|14]], [[#^s-48f3fbeef101f9aa727b9738|15]], [[#^s-940d7ca58cbe56ed89442e4a|20]], [[#^s-d77b5da80ce686dfddedf9b5|21]] IR [[#^s-29485aa41daa0aad09ecb9d9|25]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 
 
@@ -2137,7 +2137,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1110, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13428
-Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 3, 5, 6, 7, 8, 9 ir [[#^s-a1043d17f7932014f2dfb550|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 [[#^s-9b4eda8ec1dfef8c582b6294|3]], [[#^s-9549760dcdda5d706d8a8f95|5]], [[#^s-53ca3fa1c1785eb1e329b70d|6]], [[#^s-c6956bf42435e60232216597|7]], [[#^s-5a5b9a65a32ae1badbace313|8]], [[#^s-2644bc0d599e5ca5b98361ea|9]] ir [[#^s-a1043d17f7932014f2dfb550|10]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2157,9 +2157,9 @@ Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įsta
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-107, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28954
-Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 3, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 23, 26, 28, 32, 33, 35, 40, 41, 42, [[#^s-d999c1053f2d4041b2634478|46 straipsnių]], šeštojo skirsnio pavadinimo ir 2 priedo pakeitimo ir 5, [[#^s-36375f62446dfc11bf2ac14c|47 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 [[#^s-9e534127cd63e2f76e4e7971|2]], [[#^s-9b4eda8ec1dfef8c582b6294|3]], [[#^s-53ca3fa1c1785eb1e329b70d|6]], [[#^s-c6956bf42435e60232216597|7]], [[#^s-5a5b9a65a32ae1badbace313|8]], [[#^s-a1043d17f7932014f2dfb550|10]], [[#^s-409ecfeb7b768db0ebd6bbf1|11]], [[#^s-08ca27efc6b9de53121ad058|12]], [[#^s-e21038cd416f5112b870d1b8|13]], [[#^s-eca0161d0a3f959405883a37|14]], [[#^s-48f3fbeef101f9aa727b9738|15]], [[#^s-35efa66d98c37e87eeb9831d|16]], [[#^s-af7b05c3819f2b75977247da|18]], [[#^s-09e962c4d44979d5fc6cc4c1|19]], [[#^s-940d7ca58cbe56ed89442e4a|20]], [[#^s-7fc4342f21d7ab068abcc65e|23]], [[#^s-971f714eda307c7467701a55|26]], [[#^s-d617cf5082e2a2de0626b8a4|28]], [[#^s-37b88f961c18b5c3e291a8f6|32]], [[#^s-ff0707474bcec327c80bd457|33]], [[#^s-2de0532aebc7cf6aff4f0995|35]], [[#^s-1238fb15effb977b283c3dc5|40]], [[#^s-c8ca140ece422e61e8a59bf3|41]], [[#^s-687265025d5b4c9aaa7429a5|42]], [[#^s-d999c1053f2d4041b2634478|46]] straipsnių, šeštojo skirsnio pavadinimo ir 2 priedo pakeitimo ir [[#^s-9549760dcdda5d706d8a8f95|5]], [[#^s-36375f62446dfc11bf2ac14c|47]] straipsnių pripažinimo netekusiais galios įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1691, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27546
-Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 2, 6, 7, 10, 11, 12, 13, 14, 16, 17, 18, 22, 23, 25, 26, 27, 28, 29, 30, 38, 39, 40, 42, 43, [[#^s-da9f09e1c3e764e4c7000866|45 straipsnių]], penktojo, šeštojo skirsnių pavadinimų ir 1 priedo pakeitimo, Įstatymo papildymo 16-1, [[#^s-b82e1112900f1f072ae18ebb|48 straipsniais]] ir 36, 37, [[#^s-c8ca140ece422e61e8a59bf3|41 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos indėlių ir įsipareigojimų investuotojams draudimo įstatymo Nr. IX-975 [[#^s-9e534127cd63e2f76e4e7971|2]], [[#^s-53ca3fa1c1785eb1e329b70d|6]], [[#^s-c6956bf42435e60232216597|7]], [[#^s-a1043d17f7932014f2dfb550|10]], [[#^s-409ecfeb7b768db0ebd6bbf1|11]], [[#^s-08ca27efc6b9de53121ad058|12]], [[#^s-e21038cd416f5112b870d1b8|13]], [[#^s-eca0161d0a3f959405883a37|14]], [[#^s-35efa66d98c37e87eeb9831d|16]], [[#^s-5ca50916638b124424924d52|17]], [[#^s-af7b05c3819f2b75977247da|18]], [[#^s-03ff606284296bb73a756eb0|22]], [[#^s-7fc4342f21d7ab068abcc65e|23]], [[#^s-29485aa41daa0aad09ecb9d9|25]], [[#^s-971f714eda307c7467701a55|26]], [[#^s-40e5ccc9e309de0f71390e87|27]], [[#^s-d617cf5082e2a2de0626b8a4|28]], [[#^s-8077991a19e6f5cb65e3a8ef|29]], [[#^s-aaff9e59c11f515610ad6a21|30]], [[#^s-b51014bb7bf5d5c981605652|38]], [[#^s-936d090f8549598fc252d684|39]], [[#^s-1238fb15effb977b283c3dc5|40]], [[#^s-687265025d5b4c9aaa7429a5|42]], [[#^s-2cf30655b27da5b1241fb389|43]], [[#^s-da9f09e1c3e764e4c7000866|45]] straipsnių, penktojo, šeštojo skirsnių pavadinimų ir 1 priedo pakeitimo, Įstatymo papildymo 16-1, [[#^s-b82e1112900f1f072ae18ebb|48]] straipsniais ir [[#^s-c1eb4978005aa35e030d6922|36]], [[#^s-7310aaa16e840ed6c81e693a|37]], [[#^s-c8ca140ece422e61e8a59bf3|41]] straipsnių pripažinimo netekusiais galios įstatymas

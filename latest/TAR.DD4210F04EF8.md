@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-4c16d733d08cc9c1fd7e7450
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. rugsėjo 12 d. dekretą Nr. 989, ratifikuoja 1981 m. sausio 28 d. Strasbūre sudarytą Konvenciją dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108) su pataisomis, priimtomis Europos Tarybos Ministrų Komiteto 1999 m. birželio 15 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2000 m. rugsėjo 12 d. dekretą Nr. 989](https://e-tar.lt/portal/lt/legalAct/TAR.1F569A418A63), ratifikuoja 1981 m. sausio 28 d. Strasbūre sudarytą Konvenciją dėl asmenų apsaugos ryšium su asmens duomenų automatizuotu tvarkymu (ETS Nr. 108) su pataisomis, priimtomis Europos Tarybos Ministrų Komiteto 1999 m. birželio 15 d. Strasbūre.
 
 
 

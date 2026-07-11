@@ -100,7 +100,7 @@ Pakeisti 35 straipsnio 4 dalies trečią sakinį ir šią dalį išdėstyti taip
 1. Papildyti 64 straipsnį nauja [[#^s-7d55bff67e14294934454310|2 dalimi]]: ^s-73eee9d3d4db4c3f89260aba
 
 
-„2. Akcinės bendrovės skaidymo atveju [[#^s-73eee9d3d4db4c3f89260aba|šio straipsnio 1 dalyje]] nurodyta ataskaita apie numatomą reorganizavimą nerengiama, jeigu visi kiekvienos skaidymo būdu reorganizuojamos ir reorganizavime dalyvaujančios akcinės bendrovės akcininkai, kuriems priklausančios akcijos suteikia balsavimo teisę, su tuo sutinka. Akcinės bendrovės akcininkų sutikimas išreiškiamas šio Įstatymo 63 straipsnio 5 dalyje nurodyta forma.“
+„2. Akcinės bendrovės skaidymo atveju šio straipsnio 1 dalyje nurodyta ataskaita apie numatomą reorganizavimą nerengiama, jeigu visi kiekvienos skaidymo būdu reorganizuojamos ir reorganizavime dalyvaujančios akcinės bendrovės akcininkai, kuriems priklausančios akcijos suteikia balsavimo teisę, su tuo sutinka. Akcinės bendrovės akcininkų sutikimas išreiškiamas šio Įstatymo 63 straipsnio 5 dalyje nurodyta forma.“
 
 
 2. Buvusią 64 straipsnio 2 dalį laikyti 3 dalimi. ^s-7d55bff67e14294934454310

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-698bd5277af0527363b26a0b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. lapkričio 3 d. dekretą Nr. 117, ratifikuoja 2003 m. spalio 17 d. Paryžiuje priimtą Nematerialaus kultūros paveldo apsaugos konvenciją.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. lapkričio 3 d. dekretą Nr. 117](https://e-tar.lt/portal/lt/legalAct/TAR.AA1443500835), ratifikuoja 2003 m. spalio 17 d. Paryžiuje priimtą Nematerialaus kultūros paveldo apsaugos konvenciją.
 
 
 

@@ -185,13 +185,13 @@ BENDROSIOS NUOSTATOS
 11) sąskaitos kreditavimo sutartims, kai kreditas turi būti grąžinamas per vieną mėnesį. ^s-395adda67f136d838da0a3a9
 
 
-3. Sudarant sąskaitos kreditavimo sutartis, kai vartojimo kreditas turi būti grąžinamas vartojimo kredito davėjui pareikalavus arba per tris mėnesius, taikomi tik šio įstatymo 1, 2, [[#^s-d523563973aff9fdcc9ed846|3 straipsniai]], [[#^s-867fd81d9057e2ba0913860c|4 straipsnio 1 dalies]] 1, 2 ir 3 punktai, 6, 7, 8, 9, [[#^s-30118369f849675c44d3056c|10 straipsniai]], [[#^s-28f9ee58b10f371334bd7ea4|11 straipsnio]] 1, 5, 6 ir 8 dalys, 13, 16, 21–[[#^s-cc9b857b5de53a42dab78642|38 straipsniai]] ir priežiūros institucijos nustatyta bendros vartojimo kredito kainos metinės normos apskaičiavimo tvarka. ^s-837734b05d06bdc2c0ef047d
+3. Sudarant sąskaitos kreditavimo sutartis, kai vartojimo kreditas turi būti grąžinamas vartojimo kredito davėjui pareikalavus arba per tris mėnesius, taikomi tik šio įstatymo 1, 2, [[#^s-d523563973aff9fdcc9ed846|3]] straipsniai, [[#^s-867fd81d9057e2ba0913860c|4 straipsnio 1 dalies]] [[#^s-d1b882daabe1aaf9ecf793a8|1]], [[#^s-051e64ff24154cd788bcf8d0|2]] ir [[#^s-05b4df920274392b4332725d|3]] punktai, [[#^s-c8b403680e567730cf5a9bd8|6]], [[#^s-e86176c2b3012bd82c7277ec|7]], [[#^s-47c475c3955ae440f3bc5714|8]], [[#^s-56e5220e101ada9a1cd07e22|9]], [[#^s-30118369f849675c44d3056c|10]] straipsniai, [[#^s-28f9ee58b10f371334bd7ea4|11 straipsnio]] [[#^s-433869743b4161e7d1b39c87|1]], [[#^s-a75bd1572976dea9089ac458|5]], [[#^s-af419b23fb2f493caa36b6b3|6]] ir [[#^s-39f1e9aee051010beb8437b4|8]] dalys, [[#^s-359131f9fc1c58afd3ae34ad|13]], [[#^s-2e10faea90cafad242546e1a|16]], [[#^s-f8ebd213a1650575225e1d82|21]]–[[#^s-cc9b857b5de53a42dab78642|38]] straipsniai ir priežiūros institucijos nustatyta bendros vartojimo kredito kainos metinės normos apskaičiavimo tvarka. ^s-837734b05d06bdc2c0ef047d
 
 
-4. Vartojimo kredito sutartims, pagal kurias suteikiama teisė viršyti vartojimo kreditą, taikomi tik šio įstatymo 1, 2, 3, [[#^s-30118369f849675c44d3056c|10 straipsniai]], [[#^s-39f1e9aee051010beb8437b4|11 straipsnio 8 dalis]], 18, 21, 22, 26–[[#^s-cc9b857b5de53a42dab78642|38 straipsniai]]. ^s-98510485a9d253ecc55cd461
+4. Vartojimo kredito sutartims, pagal kurias suteikiama teisė viršyti vartojimo kreditą, taikomi tik šio įstatymo 1, 2, [[#^s-d523563973aff9fdcc9ed846|3]], [[#^s-30118369f849675c44d3056c|10]] straipsniai, [[#^s-39f1e9aee051010beb8437b4|11 straipsnio 8 dalis]], [[#^s-d066726b250f4d3383fe176c|18]], [[#^s-f8ebd213a1650575225e1d82|21]], [[#^s-eb89d696c1605d3ea7c33f0b|22]], [[#^s-dd5b99f4e5796cf8f3a59871|26]]–[[#^s-cc9b857b5de53a42dab78642|38]] straipsniai. ^s-98510485a9d253ecc55cd461
 
 
-5. Vartojimo kredito sutartims taikomi tik šio įstatymo 1, 2, 3, 4, 6, 7, 9, [[#^s-30118369f849675c44d3056c|10 straipsniai]], [[#^s-433869743b4161e7d1b39c87|11 straipsnio 1 dalis]], [[#^s-d49c12d1fb2e9767d48a59aa|2 dalies]] 1–8, 11 punktai, 5 ir 8 dalys, 12, 14, 17–[[#^s-cc9b857b5de53a42dab78642|38 straipsniai]] ir priežiūros institucijos nustatyta bendros vartojimo kredito kainos metinės normos apskaičiavimo tvarka, kai jas sudaro asmuo, kuris: ^s-f5713629ee033b266e957d22
+5. Vartojimo kredito sutartims taikomi tik šio įstatymo 1, 2, [[#^s-d523563973aff9fdcc9ed846|3]], [[#^s-fc26c0cc232648a67735ad98|4]], [[#^s-c8b403680e567730cf5a9bd8|6]], [[#^s-e86176c2b3012bd82c7277ec|7]], [[#^s-56e5220e101ada9a1cd07e22|9]], [[#^s-30118369f849675c44d3056c|10]] straipsniai, [[#^s-433869743b4161e7d1b39c87|11 straipsnio 1 dalis]], [[#^s-d49c12d1fb2e9767d48a59aa|2 dalies]] 1–8, 11 punktai, [[#^s-a75bd1572976dea9089ac458|5]] ir [[#^s-39f1e9aee051010beb8437b4|8]] dalys, [[#^s-2c99a83666a4f025525caacd|12]], [[#^s-7002f7b6ea9aada0daf5c2d8|14]], [[#^s-dec6afd16ccfd7e1065f9615|17]]–[[#^s-cc9b857b5de53a42dab78642|38]] straipsniai ir priežiūros institucijos nustatyta bendros vartojimo kredito kainos metinės normos apskaičiavimo tvarka, kai jas sudaro asmuo, kuris: ^s-f5713629ee033b266e957d22
 
 
 1) įsteigtas siekiant jo narių tarpusavio naudos; ^s-a998dc7e32999f68c68f45bc
@@ -212,7 +212,7 @@ BENDROSIOS NUOSTATOS
 6) kurio nariai gali būti tik asmenys, gyvenantys arba dirbantys tam tikroje teritorijoje, arba konkretaus darbdavio darbuotojai ir į pensiją išėję darbuotojai, arba asmenys, atitinkantys teisės aktuose nustatytus reikalavimus, įrodančius narių tarpusavio ryšių buvimą. ^s-991bf3a3010e8110c128bec3
 
 
-6. Vartojimo kredito sutartims, kuriose numatoma galimybė vartojimo kredito davėjui ir vartojimo kredito gavėjui susitarti dėl atidėto mokėjimo arba keisti kredito grąžinimo metodą, kai vartojimo kredito gavėjas jau nevykdo savo įsipareigojimų pagal pradinę vartojimo kredito sutartį, išskyrus [[#^s-837734b05d06bdc2c0ef047d|šio straipsnio 3 dalyje]] nurodytas sutartis, taikomi tik šio įstatymo 1, 2, 3, 4, 6, 7, 9, [[#^s-30118369f849675c44d3056c|10 straipsniai]], [[#^s-433869743b4161e7d1b39c87|11 straipsnio 1 dalis]], [[#^s-d49c12d1fb2e9767d48a59aa|2 dalies]] 1–9, 11, 17 punktai, 5 ir 8 dalys, 12, 14, 17, 18–[[#^s-cc9b857b5de53a42dab78642|38 straipsniai]] ir priežiūros institucijos nustatyta bendros vartojimo kredito kainos metinės normos apskaičiavimo tvarka, jeigu: ^s-50c55b2be890a19656280377
+6. Vartojimo kredito sutartims, kuriose numatoma galimybė vartojimo kredito davėjui ir vartojimo kredito gavėjui susitarti dėl atidėto mokėjimo arba keisti kredito grąžinimo metodą, kai vartojimo kredito gavėjas jau nevykdo savo įsipareigojimų pagal pradinę vartojimo kredito sutartį, išskyrus [[#^s-837734b05d06bdc2c0ef047d|šio straipsnio 3 dalyje]] nurodytas sutartis, taikomi tik šio įstatymo 1, 2, [[#^s-d523563973aff9fdcc9ed846|3]], [[#^s-fc26c0cc232648a67735ad98|4]], [[#^s-c8b403680e567730cf5a9bd8|6]], [[#^s-e86176c2b3012bd82c7277ec|7]], [[#^s-56e5220e101ada9a1cd07e22|9]], [[#^s-30118369f849675c44d3056c|10]] straipsniai, [[#^s-433869743b4161e7d1b39c87|11 straipsnio 1 dalis]], [[#^s-d49c12d1fb2e9767d48a59aa|2 dalies]] 1–9, 11, 17 punktai, [[#^s-a75bd1572976dea9089ac458|5]] ir [[#^s-39f1e9aee051010beb8437b4|8]] dalys, [[#^s-2c99a83666a4f025525caacd|12]], [[#^s-7002f7b6ea9aada0daf5c2d8|14]], [[#^s-dec6afd16ccfd7e1065f9615|17]], [[#^s-d066726b250f4d3383fe176c|18]]–[[#^s-cc9b857b5de53a42dab78642|38]] straipsniai ir priežiūros institucijos nustatyta bendros vartojimo kredito kainos metinės normos apskaičiavimo tvarka, jeigu: ^s-50c55b2be890a19656280377
 
 
 1) tikėtina, kad toks susitarimas padės išvengti skolų išieškojimo dėl įsipareigojimų nevykdymo; ^s-0917464bdbfb30aa94888c53
@@ -349,7 +349,7 @@ INFORMAVIMAS PRIEŠ SUDARANT VARTOJIMO KREDITO SUTARTĮ
 ### 6 straipsnis. Informavimo pareiga sudarant tam tikras vartojimo kredito sutartis ^s-c8b403680e567730cf5a9bd8
 
 
-1. Per protingą terminą, pakankamą susipažinti su pateikiama informacija, iki vartojimo kredito sutarties, nurodytos šio įstatymo [[#^s-d523563973aff9fdcc9ed846|3 straipsnio]] 3, 5 ar [[#^s-2fe5e9af9376dcb4f5c82dbe|6 dalyje]], sudarymo vartojimo kredito davėjas ir, jei taikoma, vartojimo kredito tarpininkas, remdamiesi vartojimo kredito davėjo siūlomomis vartojimo kredito nuostatomis ir sąlygomis, atsižvelgdami į vartojimo kredito gavėjo nurodytus prioritetus ir pateiktą informaciją, pateikia vartojimo kredito gavėjui informaciją tam, kad šis galėtų palyginti skirtingus pasiūlymus, siekdamas priimti informacija pagrįstą sprendimą dėl vartojimo kredito sutarties sudarymo. ^s-2c5d0ab21a7562560bd7c658
+1. Per protingą terminą, pakankamą susipažinti su pateikiama informacija, iki vartojimo kredito sutarties, nurodytos šio įstatymo [[#^s-d523563973aff9fdcc9ed846|3 straipsnio]] [[#^s-837734b05d06bdc2c0ef047d|3]], [[#^s-f5713629ee033b266e957d22|5]] ar [[#^s-50c55b2be890a19656280377|6]] dalyje, sudarymo vartojimo kredito davėjas ir, jei taikoma, vartojimo kredito tarpininkas, remdamiesi vartojimo kredito davėjo siūlomomis vartojimo kredito nuostatomis ir sąlygomis, atsižvelgdami į vartojimo kredito gavėjo nurodytus prioritetus ir pateiktą informaciją, pateikia vartojimo kredito gavėjui informaciją tam, kad šis galėtų palyginti skirtingus pasiūlymus, siekdamas priimti informacija pagrįstą sprendimą dėl vartojimo kredito sutarties sudarymo. ^s-2c5d0ab21a7562560bd7c658
 
 
 2. Informacija turi būti vienodai matoma ir pateikiama raštu patvariojoje laikmenoje. Informacija gali būti pateikta šio įstatymo 2 priede nustatyta standartinės informacijos apie tam tikras vartojimo kredito sutartis forma. Joje turi būti nurodyta: ^s-b0118c68ab824f6da5389e30
@@ -391,7 +391,7 @@ INFORMAVIMAS PRIEŠ SUDARANT VARTOJIMO KREDITO SUTARTĮ
 12) laikotarpis, kuriuo vartojimo kredito davėjas įsipareigoja pagal ikisutartinę informaciją. ^s-b1a2f2079e48711732f99b95
 
 
-3. Kai sudaromos šio įstatymo [[#^s-d523563973aff9fdcc9ed846|3 straipsnio]] 5 ir [[#^s-2fe5e9af9376dcb4f5c82dbe|6 dalyse]] nurodytos vartojimo kredito sutartys, teikiant vartojimo kredito gavėjui informaciją pagal [[#^s-b0118c68ab824f6da5389e30|šio straipsnio 2 dalį]], taip pat nurodoma: ^s-4f645ad1649e08ad6f4ab2f8
+3. Kai sudaromos šio įstatymo [[#^s-d523563973aff9fdcc9ed846|3 straipsnio]] [[#^s-f5713629ee033b266e957d22|5]] ir [[#^s-50c55b2be890a19656280377|6]] dalyse nurodytos vartojimo kredito sutartys, teikiant vartojimo kredito gavėjui informaciją pagal [[#^s-b0118c68ab824f6da5389e30|šio straipsnio 2 dalį]], taip pat nurodoma: ^s-4f645ad1649e08ad6f4ab2f8
 
 
 1) įmokų dydis, jų mokėjimo skaičius ir periodiškumas, tam tikrais atvejais įmokų paskirstymo padengiant neapmokėtas sumas, kurioms taikoma skirtinga palūkanų norma, tvarka; ^s-8ce9421841e229e9e0f7dad6
@@ -406,17 +406,17 @@ INFORMAVIMAS PRIEŠ SUDARANT VARTOJIMO KREDITO SUTARTĮ
 5. Nepažeidžiant šio įstatymo [[#^s-395adda67f136d838da0a3a9|3 straipsnio 2 dalies 11 punkto]] nuostatos, sąskaitos kreditavimo sutartims, pagal kurias vartojimo kreditas turi būti grąžintas per vieną mėnesį, taikomi [[#^s-5ed73ba9fdacfea7c403cce6|šio straipsnio 4 dalyje]] nustatyti reikalavimai. ^s-cdb058e7e584de9eb14ae49d
 
 
-6. Vartojimo kredito gavėjo prašymu, be šio straipsnio 2, 3 ir [[#^s-5ed73ba9fdacfea7c403cce6|4 dalyse]] nurodytos informacijos, nemokamai pateikiama vartojimo kredito sutarties kopija. Ši nuostata netaikoma, jeigu vartojimo kredito davėjas, gavęs vartojimo kredito gavėjo prašymą, nenori sudaryti vartojimo kredito sutarties su vartojimo kredito gavėju. ^s-2fe5e9af9376dcb4f5c82dbe
+6. Vartojimo kredito gavėjo prašymu, be šio straipsnio [[#^s-b0118c68ab824f6da5389e30|2]], [[#^s-4f645ad1649e08ad6f4ab2f8|3]] ir [[#^s-5ed73ba9fdacfea7c403cce6|4]] dalyse nurodytos informacijos, nemokamai pateikiama vartojimo kredito sutarties kopija. Ši nuostata netaikoma, jeigu vartojimo kredito davėjas, gavęs vartojimo kredito gavėjo prašymą, nenori sudaryti vartojimo kredito sutarties su vartojimo kredito gavėju. ^s-2fe5e9af9376dcb4f5c82dbe
 
 
-7. Kai vartojimo kredito sutartis buvo sudaryta vartojimo kredito gavėjo pageidavimu naudojant nuotolinio ryšio priemones, kuriomis informacijos, nurodytos šio straipsnio 2 ir [[#^s-4f645ad1649e08ad6f4ab2f8|3 dalyse]], pateikti neįmanoma, įskaitant [[#^s-5ed73ba9fdacfea7c403cce6|šio straipsnio 4 dalyje]] nurodytus atvejus, vartojimo kredito davėjas iš karto po vartojimo kredito sutarties sudarymo, vykdydamas savo įsipareigojimą pagal šio straipsnio 2 ir [[#^s-4f645ad1649e08ad6f4ab2f8|3 dalis]], suteikia informaciją apie vartojimo kredito sutartį pagal šio įstatymo [[#^s-28f9ee58b10f371334bd7ea4|11 straipsnyje]] nustatytus reikalavimus. ^s-de330c3ff4b0a6ab247f739e
+7. Kai vartojimo kredito sutartis buvo sudaryta vartojimo kredito gavėjo pageidavimu naudojant nuotolinio ryšio priemones, kuriomis informacijos, nurodytos šio straipsnio [[#^s-b0118c68ab824f6da5389e30|2]] ir [[#^s-4f645ad1649e08ad6f4ab2f8|3]] dalyse, pateikti neįmanoma, įskaitant [[#^s-5ed73ba9fdacfea7c403cce6|šio straipsnio 4 dalyje]] nurodytus atvejus, vartojimo kredito davėjas iš karto po vartojimo kredito sutarties sudarymo, vykdydamas savo įsipareigojimą pagal šio straipsnio [[#^s-b0118c68ab824f6da5389e30|2]] ir [[#^s-4f645ad1649e08ad6f4ab2f8|3]] dalis, suteikia informaciją apie vartojimo kredito sutartį pagal šio įstatymo [[#^s-28f9ee58b10f371334bd7ea4|11 straipsnyje]] nustatytus reikalavimus. ^s-de330c3ff4b0a6ab247f739e
 
 
 
 ### 7 straipsnis. Išimtys dėl informacijos suteikimo prieš sudarant vartojimo kredito sutartis ^s-e86176c2b3012bd82c7277ec
 
 
-Šio įstatymo 5 ir [[#^s-c8b403680e567730cf5a9bd8|6 straipsniai]] netaikomi prekių tiekėjams arba paslaugų teikėjams, kurie vartojimo kredito tarpininko funkcijas atlieka kaip papildomas funkcijas. Ši nuostata nepanaikina vartojimo kredito davėjo pareigos užtikrinti, kad, prieš sudarydamas vartojimo kredito sutartį, vartojimo kredito gavėjas gautų šio įstatymo 5 ir [[#^s-c8b403680e567730cf5a9bd8|6 straipsniuose]] nurodytą informaciją.
+Šio įstatymo [[#^s-501b11956cdd6bdf9a6bcaaf|5]] ir [[#^s-c8b403680e567730cf5a9bd8|6]] straipsniai netaikomi prekių tiekėjams arba paslaugų teikėjams, kurie vartojimo kredito tarpininko funkcijas atlieka kaip papildomas funkcijas. Ši nuostata nepanaikina vartojimo kredito davėjo pareigos užtikrinti, kad, prieš sudarydamas vartojimo kredito sutartį, vartojimo kredito gavėjas gautų šio įstatymo [[#^s-501b11956cdd6bdf9a6bcaaf|5]] ir [[#^s-c8b403680e567730cf5a9bd8|6]] straipsniuose nurodytą informaciją.
 
 
 
@@ -681,7 +681,7 @@ KETVIRTASIS SKIRSNIS VARTOJIMO KREDITO SUTARTIS
 4. Nutraukus vartojimo kredito sutartį, pirkimo–pardavimo sutartis gali būti nutraukta kitų teisės aktų nustatyta tvarka. ^s-6de9a69513bc73f258e45970
 
 
-5. Tais atvejais, kai vartojimo kredito gavėjas atsisako vartojimo kredito sutarties pagal šio straipsnio 1, 2 ir [[#^s-5d030838d9b9c1234b58d80f|3 dalis]], netaikomos Lietuvos Respublikos civilinio kodekso nuostatos dėl pirkėjo teisės atsisakyti sutarties, sudarytos ne prekybai skirtose patalpose, ir [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos įstatymo]] nuostatos dėl vartotojų teisės atsisakyti finansinių paslaugų sutarties, sudarytos nuotolinio ryšio priemonėmis. ^s-f157cd4c7ae598fe7875b1c7
+5. Tais atvejais, kai vartojimo kredito gavėjas atsisako vartojimo kredito sutarties pagal šio straipsnio [[#^s-a098b760c992420aae8639c8|1]], [[#^s-f42784e328263653f64f74a3|2]] ir [[#^s-5d030838d9b9c1234b58d80f|3]] dalis, netaikomos Lietuvos Respublikos civilinio kodekso nuostatos dėl pirkėjo teisės atsisakyti sutarties, sudarytos ne prekybai skirtose patalpose, ir [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos įstatymo]] nuostatos dėl vartotojų teisės atsisakyti finansinių paslaugų sutarties, sudarytos nuotolinio ryšio priemonėmis. ^s-f157cd4c7ae598fe7875b1c7
 
 
 
@@ -1130,7 +1130,7 @@ Asmuo, dėl kurio pradėta šio įstatymo pažeidimo nagrinėjimo procedūra, pr
 1. Už šio įstatymo nuostatų pažeidimus priežiūros institucija gali skirti nuo vieno tūkstančio iki trisdešimties tūkstančių litų baudą. Pakartotinai per vienus metus padarius pažeidimą, už kurį jau buvo paskirta šio įstatymo nustatyta bauda, gali būti skiriama didesnė, iki šimto dvidešimties tūkstančių litų, bauda. Jeigu pažeidimas yra mažareikšmis, juo nepadaroma esminės žalos šio įstatymo saugomiems vartojimo kredito gavėjų interesams, priežiūros institucija, vadovaudamasi teisingumo ir protingumo kriterijais, gali taikyti nuobaudą – įspėjimą, neskirdama baudos. ^s-a5b8201fd75fd42ecf2994bd
 
 
-2. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio 3 ir [[#^s-7a8128cb5b9a29438cb6edba|4 dalyse]] nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Skiriamos baudos dydis nustatomas pagal baudos dydžio minimumo ir maksimumo vidurkį, atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidutinio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidutinio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas priežiūros institucijos nutarime. ^s-eda119b255bcdb13294ab6d1
+2. Skiriant konkrečią baudą, atsižvelgiama į šio straipsnio [[#^s-0af95681eae310c39c511753|3]] ir [[#^s-7a8128cb5b9a29438cb6edba|4]] dalyse nurodytas atsakomybę lengvinančias ar sunkinančias aplinkybes, pažeidimo pobūdį, pažeidimo trukmę ir mastą. Skiriamos baudos dydis nustatomas pagal baudos dydžio minimumo ir maksimumo vidurkį, atsižvelgiant į atsakomybę lengvinančias ar sunkinančias aplinkybes. Kai yra atsakomybę lengvinančių aplinkybių, bauda mažinama nuo jos vidutinio iki minimalaus dydžio, o kai yra atsakomybę sunkinančių aplinkybių, bauda didinama nuo jos vidutinio iki maksimalaus dydžio. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų kiekį ir reikšmingumą. Baudos mažinimas ar didinimas motyvuojamas priežiūros institucijos nutarime. ^s-eda119b255bcdb13294ab6d1
 
 
 3. Atsakomybę lengvinančiomis aplinkybėmis laikomos aplinkybės, kai padaręs pažeidimą asmuo savo noru užkirto kelią žalingoms pažeidimo pasekmėms atsirasti, nutraukė pažeidimą, bendradarbiavo su priežiūros institucija tyrimo metu, atlygino nuostolius ir (ar) pašalino padarytą žalą. Priežiūros institucija gali pripažinti atsakomybę lengvinančiomis aplinkybėmis ir kitas šioje dalyje nenurodytas aplinkybes. ^s-0af95681eae310c39c511753
@@ -1156,10 +1156,10 @@ Priežiūros institucija, šio įstatymo [[#^s-d16bfdc2bd1f5e35afb9500b|33 strai
 ### 36 straipsnis. Priežiūros institucijos nutarimo vykdymas ^s-c00fa061461ed6a4a9980512
 
 
-1. Priežiūros institucijos nutarimas turi būti įvykdytas ne vėliau kaip per 30 kalendorinių dienų nuo dienos, kurią šio įstatymo reikalavimus pažeidusiam asmeniui jis buvo įteiktas. Apskundus priežiūros institucijos nutarimą dėl baudos skyrimo, bauda turi būti sumokėta ne vėliau kaip per 30 kalendorinių dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. ^s-8500dd7d200be241c13eb161
+1. Priežiūros institucijos nutarimas turi būti įvykdytas ne vėliau kaip per 30 kalendorinių dienų nuo dienos, kurią šio įstatymo reikalavimus pažeidusiam asmeniui jis buvo įteiktas. Apskundus priežiūros institucijos nutarimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo, bauda turi būti sumokėta ne vėliau kaip per 30 kalendorinių dienų nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. ^s-8500dd7d200be241c13eb161
 
 
-2. Priežiūros institucijos nutarimas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Priežiūros institucijos nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo jo priėmimo dienos. ^s-fb3799b980b54302df4b1c86
+2. Priežiūros institucijos nutarimas yra vykdomasis dokumentas, vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Priežiūros institucijos nutarimas gali būti pateikiamas vykdyti ne vėliau kaip per trejus metus nuo jo priėmimo dienos. ^s-fb3799b980b54302df4b1c86
 
 
 
@@ -1169,7 +1169,7 @@ Priežiūros institucija, šio įstatymo [[#^s-d16bfdc2bd1f5e35afb9500b|33 strai
 1. Asmuo, nesutinkantis su priežiūros institucijos nutarimu, turi teisę per 30 kalendorinių dienų nuo nutarimo priėmimo dienos apskųsti jį teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-9767e9319442b870f608dd60
 
 
-2. Kreipimasis į teismą sustabdo priežiūros institucijos nutarimo dėl baudos skyrimo vykdymą. ^s-3f8a8662c19fb2d0e938f01a
+2. Kreipimasis į teismą sustabdo priežiūros institucijos nutarimo [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo vykdymą. ^s-3f8a8662c19fb2d0e938f01a
 
 
 
@@ -1203,7 +1203,7 @@ Aplinkybė, kad vartojimo kredito sutarties šalys susitarimu pasirinko vartojim
 1) tai, kad Lietuvos Respublikoje prašymus dėl šio įstatymo pažeidimų nagrinėja ir sankcijas už šio įstatymo pažeidimus taiko priežiūros institucija; ^s-e378600a218e7500439e9e93
 
 
-2) šio įstatymo [[#^s-d523563973aff9fdcc9ed846|3 straipsnio]] 5 ir 6 dalių, [[#^s-0ac277a97511336f4e7477f6|17 straipsnio 4 dalies]] nuostatas. ^s-25f2287b41fbb14b228b2881
+2) šio įstatymo [[#^s-d523563973aff9fdcc9ed846|3 straipsnio]] [[#^s-f5713629ee033b266e957d22|5]] ir [[#^s-50c55b2be890a19656280377|6]] dalių, [[#^s-0ac277a97511336f4e7477f6|17 straipsnio 4 dalies]] nuostatas. ^s-25f2287b41fbb14b228b2881
 
 
 2. Priežiūros institucija savo interneto svetainėje skelbia informaciją apie valstybių narių sprendimus pasinaudoti išimtimis, numatytomis 2008 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyvoje 2008/48/EB dėl vartojimo kredito sutarčių ir panaikinančioje Tarybos direktyvą 87/102/EEB. ^s-88b576bb5b97d1b8f5ae5e3a
@@ -1213,7 +1213,7 @@ Aplinkybė, kad vartojimo kredito sutarties šalys susitarimu pasirinko vartojim
 ### 41 straipsnis. Įstatymo įgyvendinimas ^s-11372851de16bef5398c0c5c
 
 
-Šio įstatymo nuostatos netaikomos vartojimo kredito sutartims, sudarytoms iki 2011 m. balandžio 1 d., išskyrus šio įstatymo 12, 13, [[#^s-7002f7b6ea9aada0daf5c2d8|14 straipsnių]] nuostatas, [[#^s-6685ae3e965e57d6a1a8296b|18 straipsnio 1 dalies]] nuostatą dėl vartojimo kredito gavėjui periodiškai teikiamos šio įstatymo [[#^s-cb90940fdaa878628c1581df|6 straipsnio 2 dalies 5 punkte]] nurodytos informacijos ir [[#^s-57c8342784ddf60f36715dd1|18 straipsnio 2 dalies]] nuostatas, kurios taikomos iki 2011 m. balandžio 1 d. sudarytoms neterminuotoms vartojimo kredito sutartims.
+Šio įstatymo nuostatos netaikomos vartojimo kredito sutartims, sudarytoms iki 2011 m. balandžio 1 d., išskyrus šio įstatymo [[#^s-2c99a83666a4f025525caacd|12]], [[#^s-359131f9fc1c58afd3ae34ad|13]], [[#^s-7002f7b6ea9aada0daf5c2d8|14]] straipsnių nuostatas, [[#^s-6685ae3e965e57d6a1a8296b|18 straipsnio 1 dalies]] nuostatą dėl vartojimo kredito gavėjui periodiškai teikiamos šio įstatymo [[#^s-cb90940fdaa878628c1581df|6 straipsnio 2 dalies 5 punkte]] nurodytos informacijos ir [[#^s-57c8342784ddf60f36715dd1|18 straipsnio 2 dalies]] nuostatas, kurios taikomos iki 2011 m. balandžio 1 d. sudarytoms neterminuotoms vartojimo kredito sutartims.
 
 
 

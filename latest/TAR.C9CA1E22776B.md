@@ -38,7 +38,7 @@ DĖL KAI KURIŲ LIETUVOS RESPUBLIKOS TEISINIŲ AKTŲ ŽEMĖS KLAUSIMAIS, KURIE, 
 1. Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos 1970 m. gruodžio 16 d. įstatymą Nr. VII-1076 „Dėl Lietuvos Tarybų Socialistinės Respublikos žemės kodekso patvirtinimo“ (Žin., 1970, Nr. 35-288);
+1) Lietuvos Respublikos 1970 m. gruodžio 16 d. įstatymą Nr. VII-1076 [„Dėl Lietuvos Tarybų Socialistinės Respublikos žemės kodekso patvirtinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.84BA2B767A52) (Žin., 1970, Nr. 35-288);
 
 
 2) Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo 1971 m. gegužės 26 d. įsaką Nr. VII-1404 „Dėl Lietuvos TSR žemės kodekso įsigaliojimo tvarkos“ (Žin., 1971, Nr. 15-107);
@@ -62,7 +62,7 @@ DĖL KAI KURIŲ LIETUVOS RESPUBLIKOS TEISINIŲ AKTŲ ŽEMĖS KLAUSIMAIS, KURIE, 
 8) Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo 1987 m. gruodžio 25 d. įsako Nr. XI-2086 „Padaryti pakeitimus ir papildymus kai kuriuose Lietuvos TSR kodeksuose“ (Žin., 1987, Nr. 36-429) 3 punktą;
 
 
-9) Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo 1988 m. sausio 27 d. įsaką Nr. XI-2145 „Padaryti pakeitimus Lietuvos TSR žemės kodekso 42 ir 88 straipsniuose“ (Žin., 1988, Nr. 4-31);
+9) Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo 1988 m. sausio 27 d. įsaką Nr. XI-2145 [„Padaryti pakeitimus Lietuvos TSR žemės kodekso 42 ir 88 straipsniuose“](https://e-tar.lt/portal/lt/legalAct/TAR.BFF8CE8B9763) (Žin., 1988, Nr. 4-31);
 
 
 10) Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo 1989 m. birželio 21 d. įsaką Nr. XI-3022 „Padaryti pakeitimus Lietuvos TSR žemės kodekso 14 ir 46 straipsniuose“ (Žin., 1989, Nr. 19-212);
@@ -71,10 +71,10 @@ DĖL KAI KURIŲ LIETUVOS RESPUBLIKOS TEISINIŲ AKTŲ ŽEMĖS KLAUSIMAIS, KURIE, 
 11) Lietuvos Respublikos 1990 m. vasario 12 d. įstatymą Nr. XI-3674 „Dėl Lietuvos TSR žemės kodekso pakeitimo“ (Žin., 1990, Nr. 7-168);
 
 
-12) Lietuvos Respublikos 1990 m. balandžio 5 d. įstatymą Nr. I-113 „Dėl Lietuvos Respublikos žemės kodekso papildymo“ (Žin., 1990, Nr. 1-353).
+12) Lietuvos Respublikos [1990 m. balandžio 5 d. įstatymą Nr. I-113](https://e-tar.lt/portal/lt/legalAct/TAR.B4F5D22C01A4) [„Dėl Lietuvos Respublikos žemės kodekso papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.B4F5D22C01A4) (Žin., 1990, Nr. 1-353).
 
 
-2. Nutraukti žemės suteikimą gyventojų asmeniniam ūkiui pagal Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. liepos 26 d. nutarimą Nr. I-411 „Dėl kaimo gyventojų sodybinių sklypų išplėtimo“ (Žin., 1990, Nr. 22-541).
+2. Nutraukti žemės suteikimą gyventojų asmeniniam ūkiui pagal Lietuvos Respublikos Aukščiausiosios Tarybos [1990 m. liepos 26 d. nutarimą Nr. I-411](https://e-tar.lt/portal/lt/legalAct/TAR.CB1DCDDB40A8) [„Dėl kaimo gyventojų sodybinių sklypų išplėtimo“](https://e-tar.lt/portal/lt/legalAct/TAR.CB1DCDDB40A8) (Žin., 1990, Nr. 22-541).
 
 
 

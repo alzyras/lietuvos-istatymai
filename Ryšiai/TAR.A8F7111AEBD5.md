@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.746227138BCB|Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymas]] - Lietuvos Respublikos moterų ir vyrų lygių galimybių įstatymo
+_Nėra._
 
 ## Šį įstatymą cituoja
 

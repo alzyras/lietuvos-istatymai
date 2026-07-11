@@ -1147,7 +1147,7 @@ BENDROJI AVARIJA
 1. Bendroji avarija dalijama proporcingai laivo, frachto ir krovinių vertei. Šiame skirsnyje frachtu taip pat laikomas užmokestis už keleivių ir jų bagažo vežimą. Bendroji avarija dalijama šioje dalyje nustatyta tvarka ir tuo atveju, kai pavojus, pareikalavęs nepaprastųjų išlaidų arba aukojimo, kilo dėl vežimo jūra sutarties dalyvio arba trečiojo asmens kaltės. Tačiau toks dalijimas neatima iš bendrosios avarijos dalyvių teisės išieškoti turėtus nuostolius iš kaltojo asmens. ^s-bc0e3a67097bf33add125021
 
 
-2. Šio įstatymo 47–[[#^s-08343a645fdb60384f1abe39|50 straipsniai]] taikomi, jei vežimo jūra sutarties šalių susitarimu nenustatyta kitaip. ^s-e043524496c1fe9915054710
+2. Šio įstatymo [[#^s-4c9a223a209a5445b0f6525a|47]]–[[#^s-08343a645fdb60384f1abe39|50]] straipsniai taikomi, jei vežimo jūra sutarties šalių susitarimu nenustatyta kitaip. ^s-e043524496c1fe9915054710
 
 
 
@@ -1200,13 +1200,13 @@ Jeigu yra požymiai, nurodyti šio įstatymo [[#^s-577bc40fecbd50cd0e662982|2 st
 4) krovinių saugojimo išlaidos, krovinių, kuro ir aprūpinimo reikmenų, kurie buvo iškrauti iš laivo dėl aplinkybių, išvardytų [[#^s-a2be3b2266aca6a89b4cb2f8|šios dalies 3 punkte]], sukrovimas į laivą ar perkėlimas į kitą vietą laive. Jeigu laivas pripažintas netinkamu plaukioti arba jeigu laivas nutraukė pradėtą reisą, krovinių saugojimo išlaidos, atsiradusios iki laivo pripažinimo netinkamu plaukioti dienos arba iki laivo pradėto reiso nutraukimo dienos, arba iki laivo iškrovimo darbų pabaigimo dienos, prilyginamos bendrajai avarijai; ^s-af6ffdfd52193ea9413dc86f
 
 
-5) laivo įgulos darbo užmokesčio ir aprūpinimo maistu bei apranga, kuru ir kitais reikmenimis išlaidos, atsiradusios dėl to, kad reisas buvo pratęstas laivui įplaukus į prieglobsčio vietą arba grįžus į išplaukimo uostą dėl aplinkybių, nurodytų šios dalies 1 ir [[#^s-a2be3b2266aca6a89b4cb2f8|3 punktuose]]. Jeigu laivas pripažintas netinkamu plaukioti arba jeigu laivas nutraukė pradėtą reisą, nurodytos išlaidos, atsiradusios iki laivo pripažinimo netinkamu plaukioti dienos arba iki laivo pradėto reiso nutraukimo dienos, arba iki laivo iškrovimo darbų pabaigimo dienos, prilyginamos bendrajai avarijai; ^s-9926a2bfe5309a9fe7c161c5
+5) laivo įgulos darbo užmokesčio ir aprūpinimo maistu bei apranga, kuru ir kitais reikmenimis išlaidos, atsiradusios dėl to, kad reisas buvo pratęstas laivui įplaukus į prieglobsčio vietą arba grįžus į išplaukimo uostą dėl aplinkybių, nurodytų šios dalies [[#^s-035e3a80fb81d1db95f223bb|1]] ir [[#^s-a2be3b2266aca6a89b4cb2f8|3]] punktuose. Jeigu laivas pripažintas netinkamu plaukioti arba jeigu laivas nutraukė pradėtą reisą, nurodytos išlaidos, atsiradusios iki laivo pripažinimo netinkamu plaukioti dienos arba iki laivo pradėto reiso nutraukimo dienos, arba iki laivo iškrovimo darbų pabaigimo dienos, prilyginamos bendrajai avarijai; ^s-9926a2bfe5309a9fe7c161c5
 
 
 6) laivo įgulos darbo užmokesčio ir jos išlaikymo išlaidos, atsiradusios dėl to, kad laivas buvo sulaikytas saugiai laivybai užtikrinti arba dėl nelaimingo atsitikimo, arba kitos nepaprastos aplinkybės, arba dėl to, kad reikėjo pašalinti tokių aplinkybių padarytus laivo pažeidimus, jeigu laivo remontas buvo būtinas norint garantuoti laivo pradėto reiso tęsimo saugumą. Išlaidos kurui, aprūpinimo reikmenimis ir uosto išlaidos, atsiradusios per laivo sulaikymo laiką, apmokamos dalijant bendrąją avariją, išskyrus laivo remonto, kuris nepriskirtas bendrajai avarijai, išlaidas; ^s-eab855dd5177f461285927d8
 
 
-7) šios dalies 1–[[#^s-eab855dd5177f461285927d8|6 punktuose]] numatytos išlaidos, kurių prireikė, kad laivas iš prieglobsčio vietos galėtų perplaukti į kitą vietą, jeigu atlikti laivo remonto prieglobsčio vietoje nebuvo galima, taip pat tokio perplaukimo išlaidos, tarp jų laivo buksyravimo ir laikino remonto išlaidos; ^s-ce30e7b532e27792a2541a41
+7) šios dalies [[#^s-035e3a80fb81d1db95f223bb|1]]–[[#^s-eab855dd5177f461285927d8|6]] punktuose numatytos išlaidos, kurių prireikė, kad laivas iš prieglobsčio vietos galėtų perplaukti į kitą vietą, jeigu atlikti laivo remonto prieglobsčio vietoje nebuvo galima, taip pat tokio perplaukimo išlaidos, tarp jų laivo buksyravimo ir laikino remonto išlaidos; ^s-ce30e7b532e27792a2541a41
 
 
 8) pakrovimo, užplaukimo ar prieglobsčio vietoje dėl saugios laivybos atlikto laivo laikino remonto išlaidos, taip pat laivo laikino remonto, kuris atliktas šalinant laivo sužalojimus, priskiriamus bendrajai avarijai, išlaidos. Atsitiktinių laivo sužalojimų laikinas pataisymas, kurio prireikė laivo reisui užbaigti, atlyginamas tiek, kiek tuo išvengta išlaidų, kurios būtų buvusios priskirtos bendrajai avarijai, jeigu toks laivo pataisymas nebūtų atliktas; ^s-b3a1a0c5f96776bfa3edec1e
@@ -1513,7 +1513,7 @@ LAIVO VALDYTOJO RIBOTOJI ATSAKOMYBĖ
 2) kai įvykis sudarė pagrindą reikalauti atlyginti žalą, padarytą asmeniui, – 50 litų už kiekvieną laivo talpumo toną; ^s-df5ef964c270fa5c611563de
 
 
-3) kai įvykis sudarė pagrindą kelti reikalavimus pagal šios dalies 1 ir [[#^s-df5ef964c270fa5c611563de|2 punktus]], – 50 litų už kiekvieną laivo talpumo toną, vieną dalį sumos (30 litų už kiekvieną laivo talpumo toną) skiriant reikalavimams atlyginti žalą, padarytą asmeniui, o kitą dalį sumos (20 litų už kiekvieną laivo talpumo toną) skiriant reikalavimams atlyginti žalą, padarytą turtui. ^s-6d98e021b5e3694cda8d687b
+3) kai įvykis sudarė pagrindą kelti reikalavimus pagal šios dalies [[#^s-e86ded9161c6f9e965489bbf|1]] ir [[#^s-df5ef964c270fa5c611563de|2]] punktus, – 50 litų už kiekvieną laivo talpumo toną, vieną dalį sumos (30 litų už kiekvieną laivo talpumo toną) skiriant reikalavimams atlyginti žalą, padarytą asmeniui, o kitą dalį sumos (20 litų už kiekvieną laivo talpumo toną) skiriant reikalavimams atlyginti žalą, padarytą turtui. ^s-6d98e021b5e3694cda8d687b
 
 
 2. Apskaičiuojant atlygintiną žalą, laivo su mechaniniu varikliu talpumas nustatomas prie grynosios laivo talpos pridedant laivo mašinų skyriaus talpą, o kitų laivų talpumas – pagal jų grynąją talpą. Laivas iki 300 tonų talpumo laikomas 300 tonų talpumo laivu. ^s-1efe7e9ae74ad5b567ffd771
@@ -1581,7 +1581,7 @@ PRIVILEGIJUOTI REIKALAVIMAI
 ### 63 straipsnis. Turtas ir piniginės lėšos, iš kurių tenkinami privilegijuoti reikalavimai ^s-65d16ab76f1ec01989dde86a
 
 
-1. Šio įstatymo [[#^s-33c0c0fdbbaf37a1c6c62cd0|62 straipsnio 2 dalies]] 1–6 punktuose nurodyti reikalavimai turi būti tenkinami pirmiausia iš: ^s-ae24a5cb98aaa90cd65eadf2
+1. Šio įstatymo [[#^s-33c0c0fdbbaf37a1c6c62cd0|62 straipsnio 2 dalies]] [[#^s-5aff02e400cb0152df2b6b41|1]]–[[#^s-c6bfeb8ac8e1cffbcf5061d2|6]] punktuose nurodyti reikalavimai turi būti tenkinami pirmiausia iš: ^s-ae24a5cb98aaa90cd65eadf2
 
 
 1) laivo vertės; ^s-7359e71d3aa2a67549642650
@@ -1599,7 +1599,7 @@ PRIVILEGIJUOTI REIKALAVIMAI
 5) atlyginimo, priklausančio laivo valdytojui už išgelbėjimą iki laivo reiso pabaigos, atskaičius sumas, kurias laivo valdytojas turi sumokėti įgulos nariams ir kitiems asmenims, dalyvavusiems gelbėjant. ^s-7e6b9d0417889d7401b5edce
 
 
-2. Šio įstatymo [[#^s-33c0c0fdbbaf37a1c6c62cd0|62 straipsnio 2 dalies]] 2, 3, 5 ir 7 punktuose nurodyti reikalavimai turi būti tenkinami pirmiausia iš: ^s-1a9983b00d5c9b9af8116fa8
+2. Šio įstatymo [[#^s-33c0c0fdbbaf37a1c6c62cd0|62 straipsnio 2 dalies]] [[#^s-ed0b4aff9b9f1edf8e0e7794|2]], [[#^s-2f6a1a6d051ae68ce37ab739|3]], [[#^s-bacc1a7c65d7951e55e4f81d|5]] ir [[#^s-b9216c934f906be302a7782c|7]] punktuose nurodyti reikalavimai turi būti tenkinami pirmiausia iš: ^s-1a9983b00d5c9b9af8116fa8
 
 
 1) krovinių gavėjui neatiduotų krovinių vertės; ^s-d662d208aa2a43e2d9b46de5
@@ -1804,7 +1804,7 @@ Vežėjas pareikštą pretenziją, kylančią iš vežimo kabotažu, privalo iš
 ### 75 straipsnis. Terminai pretenzijoms ir ieškiniams pareikšti dėl vežimo tarptautinio susisiekimo reisu ^s-e3323e8f8cb25f2a9f5ed2f5
 
 
-1. Reikalavimams, kylantiems iš krovinių ar bagažo, keleivių vežimo tarptautinio susisiekimo reisu, taikomi ieškininės senaties terminai, nustatyti šio straipsnio 5 ir [[#^s-6142b46fe0f9e86da5087569|6 dalyse]]. ^s-ff5655046ae7178209a37c1d
+1. Reikalavimams, kylantiems iš krovinių ar bagažo, keleivių vežimo tarptautinio susisiekimo reisu, taikomi ieškininės senaties terminai, nustatyti šio straipsnio [[#^s-5f6e7ddd134a61cd063d04fa|5]] ir [[#^s-6142b46fe0f9e86da5087569|6]] dalyse. ^s-ff5655046ae7178209a37c1d
 
 
 2. Pretenzijos vežėjui dėl [[#^s-ff5655046ae7178209a37c1d|1 dalyje]] nurodytų vežimų pateikiamos per pirmuosius 3 ieškininės senaties termino mėnesius. ^s-9ccc6f22f5dbf93a895c5691

@@ -43,10 +43,10 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio 1 ir 2 dalių pripažinimas netekusiomis galios ^s-0737566f4fecf790acc9c41e
 
 
-1. [[#^s-4830a5cd18cc0759d7713998|1 straipsnio 1 dalį]] pripažinti netekusia galios. ^s-4830a5cd18cc0759d7713998
+1. 1 straipsnio 1 dalį pripažinti netekusia galios. ^s-4830a5cd18cc0759d7713998
 
 
-2. [[#^s-4d6717fdb2523bfd60fe290d|1 straipsnio 2 dalį]] pripažinti netekusia galios. ^s-4d6717fdb2523bfd60fe290d
+2. 1 straipsnio 2 dalį pripažinti netekusia galios. ^s-4d6717fdb2523bfd60fe290d
 
 
 

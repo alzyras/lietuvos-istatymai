@@ -41,11 +41,11 @@ Vilnius
 ### 1 straipsnis. Lietuvos Respublikos biudžeto sandaros įstatymo 5, 7, 35, 36, 37 straipsnių pakeitimo įstatymo nauja redakcija ^s-ce793cae688808e697d6fd59
 
 
-Pakeisti Lietuvos Respublikos biudžeto sandaros įstatymo 5, 7, 35, 36, 37 straipsnių pakeitimo įstatymą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatymo]] [[latest/TAR.712BBBFA3D41#^s-ba8c11da7a813082562ac44f|5]], [[latest/TAR.712BBBFA3D41#^s-14067964cfe08ca90ac4dc86|7]], [[latest/TAR.712BBBFA3D41|35]], [[latest/TAR.712BBBFA3D41|36]], [[latest/TAR.712BBBFA3D41|37]] straipsnių pakeitimo įstatymą ir jį išdėstyti taip:
 
 
 
-„LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO 5, 7, 35, 36, 37 STRAIPSNIŲ PAKEITIMO
+„[[latest/TAR.712BBBFA3D41|LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO]] [[latest/TAR.712BBBFA3D41#^s-ba8c11da7a813082562ac44f|5]], [[latest/TAR.712BBBFA3D41#^s-14067964cfe08ca90ac4dc86|7]], [[latest/TAR.712BBBFA3D41|35]], [[latest/TAR.712BBBFA3D41|36]], [[latest/TAR.712BBBFA3D41|37]] STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
 
 

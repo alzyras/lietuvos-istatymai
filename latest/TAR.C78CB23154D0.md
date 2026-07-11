@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-3575df67e59b9d1a85b6aa21
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2000 m. birželio 9 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl pagalbos įvykus branduolinei avarijai arba kilus radiologiniam pavojui“, ratifikuoja 1986 m. rugsėjo 26 d. Vienoje sudarytą Konvenciją dėl pagalbos įvykus branduolinei avarijai arba kilus radiologiniam pavojui.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2000 m. birželio 9 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl pagalbos įvykus branduolinei avarijai arba kilus radiologiniam pavojui“](https://e-tar.lt/portal/lt/legalAct/TAR.692F0AE03C82), ratifikuoja 1986 m. rugsėjo 26 d. Vienoje sudarytą Konvenciją dėl pagalbos įvykus branduolinei avarijai arba kilus radiologiniam pavojui.
 
 
 

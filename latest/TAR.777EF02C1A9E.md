@@ -63,7 +63,7 @@ Vilnius
 2. Pardavus akcijas taip, kaip nurodyta [[#^s-e82e8f5bf6efd995eb97558c|šio straipsnio 1 dalyje]], valstybė turi išlaikyti nuosavybe akcinės bendrovės „Mažeikių nafta“ akcijų, kurių nominali vertė sudarytų ne mažiau kaip 10 procentų šio įstatymo įsigaliojimo metu, šios bendrovės įstatinio kapitalo paketą ir galimybę daryti įtaką esminiams valdymo sprendimams bendrovėje. ^s-091ffe60e9472a1ff6a877fc
 
 
-3. Šio įstatymo [[#^s-09a3504090f09dd6e53db892|2 straipsnio]] 1 ir [[#^s-091ffe60e9472a1ff6a877fc|2 dalyse]] bei [[#^s-e82e8f5bf6efd995eb97558c|3 straipsnio 1 dalyje]] nurodytų akcijų perleidimo sandorių dalyviams, kai jie įgyvendina šiuos sandorius, Lietuvos Respublikos vertybinių popierių rinkos įstatymo (Žin.,1996, Nr. 16-412; 2001, Nr. 112-4074) reikalavimai pateikti privalomą oficialų pasiūlymą bei vertybinių popierių pirkimo–pardavimo sandorius sudaryti vertybinių popierių biržoje netaikomi. ^s-928feaef02b62c060aee0651
+3. Šio įstatymo [[#^s-09a3504090f09dd6e53db892|2 straipsnio]] [[#^s-7a5021caef9c79da4c0baa5a|1]] ir [[#^s-8d55ce70c6011551c9fa04f8|2]] dalyse bei [[#^s-e82e8f5bf6efd995eb97558c|3 straipsnio 1 dalyje]] nurodytų akcijų perleidimo sandorių dalyviams, kai jie įgyvendina šiuos sandorius, [Lietuvos Respublikos vertybinių popierių rinkos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) (Žin.,1996, Nr. 16-412; 2001, Nr. 112-4074) reikalavimai pateikti privalomą oficialų pasiūlymą bei vertybinių popierių pirkimo–pardavimo sandorius sudaryti vertybinių popierių biržoje netaikomi. ^s-928feaef02b62c060aee0651
 
 
 

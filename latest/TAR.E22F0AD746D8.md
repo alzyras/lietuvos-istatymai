@@ -64,7 +64,7 @@ Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 3) nuo 2000 m. sausio 1 d. perkeltiems tarnauti į kitą vietovę šeimas turintiems kariams, kurie tarnybos vietoje aprūpinami tik viengungiams skirta tarnybine gyvenamąja patalpa, kai jų šeimos gyvena ne tarnybiniame bute kitoje vietovėje ir negali persikelti į kario tarnybos vietą, mokama Vyriausybės nustatyta butpinigių dalis; ^s-a99e10ab8d100d97d6a11143
 
 
-4) nuo 2001 m. sausio 1 d. šios dalies 1 ir [[#^s-3bec55d10e2da6518803d914|2 punktuose]] nurodytiems kariams mokami Vyriausybės nustatyto dydžio butpinigiai.“ ^s-cc4a2e16519747e6d3497f3e
+4) nuo 2001 m. sausio 1 d. šios dalies [[#^s-8b726ee87c18c551c40f1fb7|1]] ir [[#^s-3bec55d10e2da6518803d914|2]] punktuose nurodytiems kariams mokami Vyriausybės nustatyto dydžio butpinigiai.“ ^s-cc4a2e16519747e6d3497f3e
 
 
 

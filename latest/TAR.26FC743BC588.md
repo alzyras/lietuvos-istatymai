@@ -59,7 +59,7 @@ Pakeisti [[#^s-0b4e501af5f6b8a59e6396e9|1 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-0b4e501af5f6b8a59e6396e9|1 straipsnis]]. Įstatymo paskirtis
 
 
-Šis Įstatymas nustato Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatų 1990 metų kovo 11 dienos Akto „Dėl Lietuvos nepriklausomos valstybės atstatymo“ signatarų (toliau – Lietuvos Nepriklausomybės Akto signatarai) ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos, vienintelės teisėtos valdžios okupuotoje Lietuvoje, 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statusą ir socialines garantijas.“
+Šis Įstatymas nustato Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatų 1990 metų kovo 11 dienos Akto [„Dėl Lietuvos nepriklausomos valstybės atstatymo“](https://e-tar.lt/portal/lt/legalAct/TAR.12C754906DE4) signatarų (toliau – Lietuvos Nepriklausomybės Akto signatarai) ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos, vienintelės teisėtos valdžios okupuotoje Lietuvoje, 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statusą ir socialines garantijas.“
 
 
 

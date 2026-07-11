@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-7f43b948e6fd7a03e6f433ea
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. sausio 28 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Austrijos Respublikos sutartį dėl investicijų skatinimo ir apsaugos“, ratifikuoja Lietuvos Respublikos ir Austrijos Respublikos sutartį dėl investicijų skatinimo ir apsaugos, pasirašytą 1996 m. birželio 28 d. Vienoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. sausio 28 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Austrijos Respublikos sutartį dėl investicijų skatinimo ir apsaugos“](https://e-tar.lt/portal/lt/legalAct/TAR.F40593AEBDC7), ratifikuoja Lietuvos Respublikos ir Austrijos Respublikos sutartį dėl investicijų skatinimo ir apsaugos, pasirašytą 1996 m. birželio 28 d. Vienoje.
 
 
 

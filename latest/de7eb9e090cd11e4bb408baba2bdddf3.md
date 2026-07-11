@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. 47 straipsnio pakeitimas ^s-0eecb10485cdfd7c7cdb6f40
 
 
-Pakeisti 47 straipsnio 10 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.065AB8483E1E#^s-af0b77845159af8e2272bd30|47 straipsnio 10 dalį]] ir ją išdėstyti taip:
 
 
 „10. Komisijos pirmininką ir jo pavaduotoją bendru Seimo Švietimo, mokslo ir kultūros komiteto ir Seimo Informacinės visuomenės plėtros komiteto teikimu iš Komisijos narių ketverių metų laikotarpiui skiria ir atleidžia Seimas. Kol Komisijos pirmininkas nėra paskirtas, jo pareigas eina vyriausias pagal amžių Komisijos narys. Asmuo negali būti Komisijos pirmininku ilgiau kaip dvi kadencijas iš eilės.“

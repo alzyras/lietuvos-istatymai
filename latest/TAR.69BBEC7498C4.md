@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 4 straipsnio 1 dalies pakeitimas ^s-57c9fcf30c94202af0b077c3
 
 
-4 straipsnio 1 dalies 5 ir 7 punktus pripažinti netekusiais galios, buvusius 6 ir 8 punktus laikyti atitinkamai 5 ir [[#^s-c359821895df665c108280e4|6 punktais]] ir šią dalį išdėstyti taip:
+4 straipsnio 1 dalies 5 ir 7 punktus pripažinti netekusiais galios, buvusius 6 ir 8 punktus laikyti atitinkamai 5 ir 6 punktais ir šią dalį išdėstyti taip:
 
 
 „1. Lietuvos Respublikos Vyriausybė:

@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos žemės reformos įstatymo 15 straipsnio pake
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Administracinių bylų teisenos įstatymo
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Administracinių bylų teisenos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.075D49C59279#^s-f3d9ec0b6214bdca8f9da877|Lietuvos Respublikos žemės reformos įstatymas]] - 2 citatos - Įstatymas Nr. IX-2353
-- [[latest/TAR.075D49C59279#^s-fd93d558e29561f60c2cba71|Lietuvos Respublikos žemės reformos įstatymas]] - 2 citatos - Įstatymas Nr. IX-2353
+- [[latest/TAR.075D49C59279#^s-f3d9ec0b6214bdca8f9da877|Lietuvos Respublikos žemės reformos įstatymas]] - ŽEMĖS REFORMOS ĮSTATYMO 15 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS

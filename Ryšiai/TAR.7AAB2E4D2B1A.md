@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos prokuratūros įstatymo 30 straipsnio pakeiti
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.3EB53577EFCA#^s-fc3626243f097d169207104f|Lietuvos Respublikos prokuratūros įstatymas]] - LIETUVOS RESPUBLIKOS PROKURATŪROS ĮSTATYMO 30 STRAIPSNIO
+- [[latest/TAR.3EB53577EFCA#^s-fc3626243f097d169207104f|Lietuvos Respublikos prokuratūros įstatymas]] - PROKURATŪROS ĮSTATYMO 30 STRAIPSNIO
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.3EB53577EFCA#^s-d755605dce9449b3bb13103b|Lietuvos Respublikos prokuratūros įstatymas]] - 2 citatos - PROKURATŪROS ĮSTATYMO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.3EB53577EFCA#^s-f9df04e3cfb7f188918846f5|Lietuvos Respublikos prokuratūros įstatymas]] - 2 citatos - PROKURATŪROS ĮSTATYMO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.3EB53577EFCA#^s-f9df04e3cfb7f188918846f5|Lietuvos Respublikos prokuratūros įstatymas]] - PROKURATŪROS ĮSTATYMO 30 STRAIPSNIO PAKEITIMO ĮSTATYMAS

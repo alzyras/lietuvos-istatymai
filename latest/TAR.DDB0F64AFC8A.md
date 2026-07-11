@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-36ea3d9b46e2077cb36760f9
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 2002 m. spalio 17 d. dekretą Nr. 1947, ratifikuoja 1997 m. gruodžio 11 d. Kiote priimtą Jungtinių Tautų Bendrosios klimato kaitos konvencijos Kioto protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento [2002 m. spalio 17 d. dekretą Nr. 1947](https://e-tar.lt/portal/lt/legalAct/TAR.BB3AD35F1C83), ratifikuoja 1997 m. gruodžio 11 d. Kiote priimtą Jungtinių Tautų Bendrosios klimato kaitos konvencijos Kioto protokolą.
 
 
 

@@ -33,6 +33,7 @@ Indeksai/Pagal pavadinimą.md
 Indeksai/aktų-ryšiai.jsonl
 Indeksai/ryšiai/*.jsonl
 Indeksai/backlinks/*.jsonl
+Indeksai/išoriniai-ryšiai/*.jsonl
 Indeksai/unresolved/*.jsonl
 Indeksai/latest/{metai}.jsonl
 Indeksai/aktai-lite/{metai}.jsonl
@@ -63,11 +64,17 @@ Atidaryk repo šaknį kaip Obsidian vault. Papildomi bendruomenės pluginai nere
 
 ## Atnaujinimas
 
-Šis repo neatnaujinamas ranka. Naudok generatoriaus repo:
+Šis repo neatnaujinamas ranka. Pilnas procesas paleidžiamas privataus
+generatoriaus repo `Refresh laws` GitHub Actions workflow. Jis parsisiunčia
+šaltinį, perkuria tekstus, inline nuorodas ir Obsidian ryšius, validuoja korpusą
+bei Pages preflight ir tik tada pushina šį repo. Push automatiškai perrenderina
+GitHub Pages. Naudota generatoriaus versija fiksuojama `generator-version.txt`.
+
+Lokaliai tą patį procesą galima paleisti generatoriaus repo:
 
 ```bash
 cd ../lietuvos-istatymai-gen
-./scripts/update-latest-laws-text.sh
+./scripts/refresh-laws.sh
 ```
 
-Po generavimo komanda validuoja šį repo.
+Po generavimo komanda validuoja šį repo ir pastato laikiną Pages versiją.

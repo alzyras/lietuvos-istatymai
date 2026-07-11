@@ -80,7 +80,7 @@ Pakeisti [[#^s-4f79694d9eef70ee907f6b46|5 straipsnį]] ir jį išdėstyti taip:
 5) spalvos ar spalvų derinio, jų kompozicijos; ^s-d26ab6772b3dfd76672cbcc3
 
 
-6) bet kokio šio straipsnio 1–[[#^s-d26ab6772b3dfd76672cbcc3|5 punktuose]] nurodytų žymenų derinio.“ ^s-5115d4e285d4caeeab7a8148
+6) bet kokio šio straipsnio [[#^s-21f7fc5052ef8f9208eb41bd|1]]–[[#^s-d26ab6772b3dfd76672cbcc3|5]] punktuose nurodytų žymenų derinio.“ ^s-5115d4e285d4caeeab7a8148
 
 
 
@@ -130,7 +130,7 @@ Pakeisti 9 straipsnio 4 dalį ir ją išdėstyti taip:
 ### 6 straipsnis. 11 straipsnio pakeitimas ir papildymas ^s-7581af0a68f7290d83a726d7
 
 
-Pakeisti [[#^s-a15c5d5ee131479ba3b0e41c|11 straipsnio]] 1, 2, 4, 5 ir [[#^s-ad488b71f57d774562d22a28|6 dalis]], straipsnį papildyti [[#^s-c0b4cf040ae840653dc4a89a|7 dalimi]] ir jį išdėstyti taip:
+Pakeisti [[#^s-a15c5d5ee131479ba3b0e41c|11 straipsnio]] [[#^s-25b99ee0a1fb43c87db16d5c|1]], [[#^s-89fb251c14e79afedadbc6f4|2]], [[#^s-3e8d3f1167d9c63893e4fafb|4]], 5 ir 6 dalis, straipsnį papildyti [[#^s-c0b4cf040ae840653dc4a89a|7 dalimi]] ir jį išdėstyti taip:
 
 
 
@@ -313,7 +313,7 @@ Pakeisti ir papildyti [[#^s-99a3b148c78b63bff9be2eac|19 straipsnį]] ir jį išd
 2. Pakeisti 23 straipsnio 3 dalį ir ją išdėstyti taip: ^s-d74ed030743f378053d59991
 
 
-„3. Gavęs [[#^s-d74ed030743f378053d59991|šio straipsnio 2 dalyje]] nurodytus dokumentus, Valstybinis patentų biuras per Taisyklėse nustatytą terminą juos patikrina ir, jeigu dokumentai atitinka šio įstatymo ir Taisyklėse nustatytus reikalavimus, įrašo pakeitimą į paraišką ar Lietuvos Respublikos prekių ženklų registrą. Nustatęs, kad pateikti dokumentai neatitinka šio įstatymo ar Taisyklėse nustatytų reikalavimų, Valstybinis patentų biuras išsiunčia pareiškėjui ar jo atstovui pranešimą, kuriame nurodo trūkumus ir pasiūlymus, kaip juos ištaisyti. Jeigu per 1 mėnesį nuo šio pranešimo išsiuntimo dienos trūkumai neištaisomi, prašymas įrašyti pakeitimą paraiškoje ar Lietuvos Respublikos prekių ženklų registre laikomas nepaduotu.“
+„3. Gavęs šio straipsnio 2 dalyje nurodytus dokumentus, Valstybinis patentų biuras per Taisyklėse nustatytą terminą juos patikrina ir, jeigu dokumentai atitinka šio įstatymo ir Taisyklėse nustatytus reikalavimus, įrašo pakeitimą į paraišką ar Lietuvos Respublikos prekių ženklų registrą. Nustatęs, kad pateikti dokumentai neatitinka šio įstatymo ar Taisyklėse nustatytų reikalavimų, Valstybinis patentų biuras išsiunčia pareiškėjui ar jo atstovui pranešimą, kuriame nurodo trūkumus ir pasiūlymus, kaip juos ištaisyti. Jeigu per 1 mėnesį nuo šio pranešimo išsiuntimo dienos trūkumai neištaisomi, prašymas įrašyti pakeitimą paraiškoje ar Lietuvos Respublikos prekių ženklų registre laikomas nepaduotu.“
 
 
 
@@ -336,7 +336,7 @@ Papildyti Įstatymą 231 straipsniu:
 3. Už kiekvieną atskirtąją paraišką mokamas mokestis kaip už naujai paduotą paraišką su viena prekių ir (ar) paslaugų klase. ^s-76cf15dde9dd7d76579cc222
 
 
-4. Ženklo registracija gali būti padalijama, kol ženklo registracija galioja, išskyrus [[#^s-aaf6f4a48ea44740d53af061|šio straipsnio 5 dalyje]] nurodytas išimtis. Ženklo registracijos padalijimui mutatis mutandis taikomos šio straipsnio 1 ir [[#^s-b8ec44acbdff7c65ab70e33d|2 dalių]] nuostatos. ^s-7b6b68993b2f48b6f6f69174
+4. Ženklo registracija gali būti padalijama, kol ženklo registracija galioja, išskyrus [[#^s-aaf6f4a48ea44740d53af061|šio straipsnio 5 dalyje]] nurodytas išimtis. Ženklo registracijos padalijimui mutatis mutandis taikomos šio straipsnio [[#^s-9f36f5591792491247b7445e|1]] ir [[#^s-b8ec44acbdff7c65ab70e33d|2]] dalių nuostatos. ^s-7b6b68993b2f48b6f6f69174
 
 
 5. Ženklo registracija negali būti dalijama, jeigu nėra suėjęs šio įstatymo 18 straipsnio 1 dalyje nustatytas terminas, taip pat toms prekėms ir (ar) paslaugoms, dėl kurių paduotas protestas arba kurioms ženklo registraciją prašoma pripažinti negaliojančia arba panaikinti teisme, kol įsigalioja atitinkamas Apeliacinio skyriaus sprendimas arba įsiteisėja teismo sprendimas. ^s-aaf6f4a48ea44740d53af061
@@ -362,14 +362,14 @@ Papildyti Įstatymą 231 straipsniu:
 ### 15 straipsnis. 26 straipsnio pakeitimas ^s-429ff128abb3ec723bb784fb
 
 
-Pakeisti [[#^s-2c83a880eb4d0a60feaea581|26 straipsnio]] 1, 3 ir [[#^s-f8e70326eb971bd047f05d40|4 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-2c83a880eb4d0a60feaea581|26 straipsnio]] [[#^s-944ed83cec32602c910bb3fc|1]], [[#^s-f9e7a040338081b3da328124|3]] ir 4 dalis ir visą straipsnį išdėstyti taip:
 
 
 
 „[[#^s-2c83a880eb4d0a60feaea581|26 straipsnis]]. Terminai
 
 
-1. Pareiškėjui, ženklo ar tarptautinės registracijos savininkui arba jo atstovui pateikus rašytinį prašymą ir sumokėjus nustatytą mokestį, šio įstatymo [[#^s-2786e4c0a9625deec036b5da|13 straipsnio]] 4 ir [[#^s-5516ed10928e2f6f34c379eb|5 dalyse]], 14 straipsnio 3 dalyje, [[#^s-0ece6ceb1b1c7e870d03fd80|15 straipsnio 1 dalyje]], 17 straipsnio 1 dalyje, 25 straipsnio 1 dalyje, 34 straipsnio 1 ir [[#^s-195e3b2ad4b0dfecae166279|2 dalyse]] numatyti terminai gali būti pratęsti vieną kartą, bet ne ilgiau kaip 2 mėnesiams nuo pirmojo termino pasibaigimo dienos. ^s-0ece6ceb1b1c7e870d03fd80
+1. Pareiškėjui, ženklo ar tarptautinės registracijos savininkui arba jo atstovui pateikus rašytinį prašymą ir sumokėjus nustatytą mokestį, šio įstatymo [[#^s-2786e4c0a9625deec036b5da|13 straipsnio]] [[#^s-7b6b68993b2f48b6f6f69174|4]] ir [[#^s-aaf6f4a48ea44740d53af061|5]] dalyse, 14 straipsnio 3 dalyje, 15 straipsnio 1 dalyje, 17 straipsnio 1 dalyje, 25 straipsnio 1 dalyje, 34 straipsnio 1 ir 2 dalyse numatyti terminai gali būti pratęsti vieną kartą, bet ne ilgiau kaip 2 mėnesiams nuo pirmojo termino pasibaigimo dienos. ^s-0ece6ceb1b1c7e870d03fd80
 
 
 2. Pareiškėjas, ženklo ar tarptautinės registracijos savininkas arba jo atstovas ne vėliau kaip per 2 mėnesius nuo pirmojo termino pasibaigimo dienos gali pateikti prašymą pratęsti terminą. Terminas pratęsiamas Valstybinio patentų biuro sprendimu. ^s-195e3b2ad4b0dfecae166279
@@ -490,7 +490,7 @@ Pakeisti ir papildyti 43 straipsnį ir jį išdėstyti taip:
 7. Jeigu perdavus teisę į pareikštą registruoti ar įregistruotą ženklą šis ženklas galėtų suklaidinti visuomenę, kaip nustatyta šio įstatymo 6 straipsnio 1 dalies 5 punkte, arba jeigu teisės perėmėjas nėra gavęs leidimo ar sutikimo, kaip nustatyta šio įstatymo [[#^s-bd7b7d9c2fa147947c855d65|6 straipsnio 1 dalies]] 8 ar 9 punkte, Valstybinis patentų biuras priima sprendimą neįrašyti teisės į pareikštą įregistruoti ar įregistruotą ženklą perdavimo duomenų į Lietuvos Respublikos prekių ženklų registrą. Šis sprendimas ne vėliau kaip per 10 dienų nuo priėmimo išsiunčiamas teisės perdavimo sutarties šaliai, kuri pateikė prašymą įrašyti teisės perdavimą. ^s-91dfea9a93eeef5a8f8dba30
 
 
-8. [[#^s-91dfea9a93eeef5a8f8dba30|Šio straipsnio 7 dalyje]] nurodytam sprendimui mutatis mutandis taikomos šio įstatymo [[#^s-669a700239f40185eb47d149|14 straipsnio]] 3, 4 ir [[#^s-e83d18031f2a192dacf2e0b5|5 dalių]] ir [[#^s-429ff128abb3ec723bb784fb|15 straipsnio]] nuostatos.“ ^s-4a702538f7eb8785c483d913
+8. [[#^s-91dfea9a93eeef5a8f8dba30|Šio straipsnio 7 dalyje]] nurodytam sprendimui mutatis mutandis taikomos šio įstatymo [[#^s-669a700239f40185eb47d149|14 straipsnio]] 3, 4 ir 5 dalių ir [[#^s-429ff128abb3ec723bb784fb|15 straipsnio]] nuostatos.“ ^s-4a702538f7eb8785c483d913
 
 
 

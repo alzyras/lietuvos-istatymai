@@ -9,7 +9,8 @@ pavadinimas: "Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įsta
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.94DB985EB965|Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymas]] - KOOPERATINIŲ BENDROVIŲ (KOOPERATYVŲ) ĮSTATYMO PAPILDYMAS 31 STRAIPSNIU
+- [[latest/TAR.2F62A0733F8E|Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įstatymo pakeitimo įstatymas]] - LIETUVOS RESPUBLIKOS KOOPERATINIŲ BENDROVIŲ (KOOPERATYVŲ) ĮSTATYMO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO
 
 ## Šį įstatymą cituoja
 

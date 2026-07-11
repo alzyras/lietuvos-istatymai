@@ -57,7 +57,7 @@ Vilnius
 4) neįgaliųjų asmenų (šeimų). Į šį sąrašą įrašomi asmenys, kurie Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka yra pripažinti nedarbingais ar iš dalies darbingais arba kurie yra sukakę senatvės pensijos amžių ir jiems nustatyta specialiųjų poreikių tenkinimo reikmė, taip pat šeimos, kuriose yra asmuo, kuriam Lietuvos Respublikos neįgaliųjų socialinės integracijos įstatymo nustatyta tvarka yra nustatytas neįgalumo lygis arba kuris yra pripažintas nedarbingu ar iš dalies darbingu, arba kuris yra sukakęs senatvės pensijos amžių ir jam nustatyta specialiųjų poreikių tenkinimo reikmė, asmenys, sergantys lėtinių ligų, įrašytų į Vyriausybės ar jos įgaliotos institucijos patvirtintą sąrašą, sunkiomis formomis, ir šeimos, kuriose yra tomis ligomis sergančių asmenų; ^s-e01ec2f7c0b5cd511c83d125
 
 
-5) bendrasis. Į šį sąrašą įrašomi visi asmenys, nepatenkantys į 1, 2, 3 ir [[#^s-e01ec2f7c0b5cd511c83d125|4 punktuose]] nurodytus sąrašus; ^s-f6bd55b654dea1cbe0bc9c25
+5) bendrasis. Į šį sąrašą įrašomi visi asmenys, nepatenkantys į [[#^s-ea5c6ee051672c1b6e843928|1]], [[#^s-c5ddb806e2e67560a287f785|2]], [[#^s-4541ddbd702ee7edb8f7b4f2|3]] ir [[#^s-e01ec2f7c0b5cd511c83d125|4]] punktuose nurodytus sąrašus; ^s-f6bd55b654dea1cbe0bc9c25
 
 
 6) socialinio būsto nuomininkų, turinčių teisę į būsto sąlygų pagerinimą.“ ^s-4964564df6e4cd2d60c0b2e7
@@ -66,7 +66,7 @@ Vilnius
 2. Pakeisti 11 straipsnio 3 dalį ir ją išdėstyti taip: ^s-c8a543ab3ffc2f3e398b84a8
 
 
-„3. Savivaldybės socialinis būstas nuomojamas laikantis eiliškumo pagal [[#^s-c8a543ab3ffc2f3e398b84a8|šio straipsnio 2 dalyje]] nurodytus sąrašus. Sąrašų prioritetus nustato ir sprendimą išnuomoti socialinį būstą priima savivaldybės vykdomoji institucija. Savivaldybės socialinį būstą savivaldybės taryba gali išnuomoti ir neįrašytam į [[#^s-c8a543ab3ffc2f3e398b84a8|šio straipsnio 2 dalyje]] nurodytus sąrašus asmeniui (šeimai), netekusiam būsto dėl gaisro, potvynio, stiprių vėjų ar kitų nuo žmogaus valios nepriklausančių aplinkybių, ir apie suteiktas patalpas viešai paskelbti savivaldybės tinklalapyje. Gyvenamųjų patalpų nuomos sutartis sudaroma vadovaujantis Civiliniu kodeksu. Šalių susitarimu nuomos sutartyje gali būti numatytos sąlygos dėl nuomininko perkėlimo į mažesnio ploto būstą. Asmeniui (šeimai) nuosavybės teise įgijus būstą, socialinio būsto nuomos sutartis su juo nutraukiama nuomos sutartyje nustatyta tvarka.“
+„3. Savivaldybės socialinis būstas nuomojamas laikantis eiliškumo pagal šio straipsnio 2 dalyje nurodytus sąrašus. Sąrašų prioritetus nustato ir sprendimą išnuomoti socialinį būstą priima savivaldybės vykdomoji institucija. Savivaldybės socialinį būstą savivaldybės taryba gali išnuomoti ir neįrašytam į šio straipsnio 2 dalyje nurodytus sąrašus asmeniui (šeimai), netekusiam būsto dėl gaisro, potvynio, stiprių vėjų ar kitų nuo žmogaus valios nepriklausančių aplinkybių, ir apie suteiktas patalpas viešai paskelbti savivaldybės tinklalapyje. Gyvenamųjų patalpų nuomos sutartis sudaroma vadovaujantis Civiliniu kodeksu. Šalių susitarimu nuomos sutartyje gali būti numatytos sąlygos dėl nuomininko perkėlimo į mažesnio ploto būstą. Asmeniui (šeimai) nuosavybės teise įgijus būstą, socialinio būsto nuomos sutartis su juo nutraukiama nuomos sutartyje nustatyta tvarka.“
 
 
 

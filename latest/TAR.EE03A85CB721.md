@@ -171,7 +171,7 @@ TURTO DEKLARAVIMAS
 7) vertybinius popierius, jeigu jų bendra vertė viršija 2000 litų. ^s-1591d19337d76d49e5009df4
 
 
-2. Šio Įstatymo [[#^s-7590138ca4dfa3403afcc141|2 straipsnio 1 dalies]] 20 ir 21 punktuose nurodyti gyventojai deklaruoja taip pat ir gautas pajamas. ^s-a024719334be25b0761246ee
+2. Šio Įstatymo [[#^s-7590138ca4dfa3403afcc141|2 straipsnio 1 dalies]] [[#^s-9bf0e92823e83d30147303bf|20]] ir [[#^s-207c37498bd43134c6eabe66|21]] punktuose nurodyti gyventojai deklaruoja taip pat ir gautas pajamas. ^s-a024719334be25b0761246ee
 
 
 3. Deklaruojamas Lietuvos Respublikoje ir užsienio valstybėse esantis šiame straipsnyje nurodytas turtas. ^s-cfee69a21ffffa64b397710f
@@ -197,10 +197,10 @@ TURTO DEKLARAVIMAS
 ### 5 straipsnis. Turto deklaravimo tvarka ^s-5d44504c6f0e46be8e38b215
 
 
-1. Šio Įstatymo [[#^s-7590138ca4dfa3403afcc141|2 straipsnio 1 dalies]] 1–19 punktuose nurodyti gyventojai deklaruoja kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija (toliau – deklaracija), gruodžio 31 dieną turimą turtą pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui. ^s-f347895af425ce81e676b217
+1. Šio Įstatymo [[#^s-7590138ca4dfa3403afcc141|2 straipsnio 1 dalies]] [[#^s-283ec3980eb5a20dc59efe24|1]]–[[#^s-828538e26ce50264fbd525e9|19]] punktuose nurodyti gyventojai deklaruoja kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija (toliau – deklaracija), gruodžio 31 dieną turimą turtą pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui. ^s-f347895af425ce81e676b217
 
 
-2. Deklaracija pateikiama kasmet iki kalendorinių metų, einančių po kalendorinių metų, už kuriuos deklaruojamas turimas turtas, gegužės 1 dienos, išskyrus šio Įstatymo 6 ir [[#^s-694c33a6438af1469b9b7554|7 straipsniuose]] nustatytus atvejus. ^s-d12cfa8522693ef61bedea73
+2. Deklaracija pateikiama kasmet iki kalendorinių metų, einančių po kalendorinių metų, už kuriuos deklaruojamas turimas turtas, gegužės 1 dienos, išskyrus šio Įstatymo [[#^s-0d8c94d0be4993a4713ce275|6]] ir [[#^s-694c33a6438af1469b9b7554|7]] straipsniuose nustatytus atvejus. ^s-d12cfa8522693ef61bedea73
 
 
 3. Gali būti tikslinami penkerių praėjusių kalendorinių metų deklaracijų duomenys, pradedant skaičiuoti nuo kalendorinių metų, buvusių prieš tuos kalendorinius metus, kuriais tikslinama. ^s-c84ecd55f4caa9131952d54e
@@ -263,7 +263,7 @@ Mokesčio administratorius tikrina, ar deklaracijose nurodyti duomenys yra teisi
 ### 9 straipsnis. Atsakomybė už šio Įstatymo pažeidimą ^s-0265f9d8a0a4b933f6fd4346
 
 
-Šio Įstatymo [[#^s-7590138ca4dfa3403afcc141|2 straipsnio 1 dalies]] 1–19 punktuose nurodyti turtą deklaruoti privalantys gyventojai, vengiantys pateikti deklaracijas, taip pat laiku arba iš viso jų nepateikę, neteisingai nurodę duomenis, atsako administracine ar baudžiamąja tvarka.
+Šio Įstatymo [[#^s-7590138ca4dfa3403afcc141|2 straipsnio 1 dalies]] [[#^s-283ec3980eb5a20dc59efe24|1]]–[[#^s-828538e26ce50264fbd525e9|19]] punktuose nurodyti turtą deklaruoti privalantys gyventojai, vengiantys pateikti deklaracijas, taip pat laiku arba iš viso jų nepateikę, neteisingai nurodę duomenis, atsako administracine ar baudžiamąja tvarka.
 
 
 

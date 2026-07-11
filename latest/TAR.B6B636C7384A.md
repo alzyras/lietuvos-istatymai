@@ -73,13 +73,13 @@ Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
 2. Banko licencija (toliau – licencija) – šio Įstatymo nustatyta tvarka išduotas leidimas teikti licencines finansines paslaugas. ^s-5c2a17d4c2bfe0912dca362d
 
 
-3. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (su visais pakeitimais), įsteigta institucija. ^s-f33a5e06e79615215a43b8b3
+3. Europos bankininkystės institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB (su visais pakeitimais), įsteigta institucija. ^s-f33a5e06e79615215a43b8b3
 Straipsnio dalies pakeitimai:
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
 
 
 
-4. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo įsteigta institucija. ^s-1853635176148419ac30dbeb
+4. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj) dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo įsteigta institucija. ^s-1853635176148419ac30dbeb
 Straipsnio dalies pakeitimai:
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
 
@@ -118,7 +118,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 4) kitos finansinės paslaugos, kurių teikimu galima verstis tik turint pagal kitus Lietuvos Respublikos įstatymus išduotą licenciją. ^s-06e818af72c6c43f290c1cf1
 
 
-91. Mažmeninių ir draudimo principu pagrįstų investicinių produktų paketas – kaip tai apibrėžta Reglamente (ES) Nr. 1286/2014. ^s-d8be3a2700d6124a2f36f2bf
+91. Mažmeninių ir draudimo principu pagrįstų investicinių produktų paketas – kaip tai apibrėžta [Reglamente (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj). ^s-d8be3a2700d6124a2f36f2bf
 Papildyta straipsnio dalimi:
 Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 
@@ -157,7 +157,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 
 
 
-12. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos arba vartojamos 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų su visais pakeitimais, Reglamente (ES) Nr. 575/2013, Reglamente (ES) Nr. 2022/2554, [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatyme]], [[latest/TAR.EBB4FD337ADE|Lietuvos Respublikos finansinio tvarumo įstatyme]], [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatyme]], [[latest/TAR.779892D853B4|Finansų įstaigų įstatyme]], [[latest/TAR.2C94E75C224B|Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme]], [[latest/TAR.C44837068B55|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme]], [[latest/TAR.3DF892F52616|Lietuvos Respublikos vertybinių popierių įstatyme]]. ^s-496ab52d2a93eb0dd8ee03db
+12. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos arba vartojamos 2012 m. liepos 4 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 648/2012 dėl ne biržos išvestinių finansinių priemonių, pagrindinių sandorio šalių ir sandorių duomenų saugyklų su visais pakeitimais, Reglamente (ES) Nr. 575/2013, [Reglamente (ES) Nr. 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj), [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatyme]], [[latest/TAR.EBB4FD337ADE|Lietuvos Respublikos finansinio tvarumo įstatyme]], [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatyme]], [[latest/TAR.779892D853B4|Finansų įstaigų įstatyme]], [[latest/TAR.2C94E75C224B|Lietuvos Respublikos įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatyme]], [[latest/TAR.C44837068B55|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme]], [[latest/TAR.3DF892F52616|Lietuvos Respublikos vertybinių popierių įstatyme]]. ^s-496ab52d2a93eb0dd8ee03db
 Straipsnio dalies pakeitimai:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
@@ -177,7 +177,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 2) subjektus, paskirtus atsakingus už finansinei grupei taikomų riziką ribojančių reikalavimų konsoliduoto laikymosi užtikrinimą ir turinčius visas būtinas priemones ir įgaliojimus, kad reikalavimų būtų laikomasi, nurodytus [[latest/TAR.2C94E75C224B#^s-306a9c1d1fa0434e8f6506d9|Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 121 straipsnio 1 dalyje]], kontroliuojamus Europos Sąjungos patronuojančiosios finansų kontroliuojančiosios bendrovės, Europos Sąjungos patronuojančiosios mišrios veiklos finansų kontroliuojančiosios įmonės, patronuojančiosios finansų kontroliuojančiosios bendrovės Europos Sąjungos valstybėje narėje arba patronuojančiosios mišrios veiklos finansų kontroliuojančiosios įmonės Europos Sąjungos valstybėje narėje, tais atvejais, kai atitinkamam šiame punkte nurodytam patronuojančiajam subjektui netaikomas įrašymo į Finansų kontroliuojančiųjų bendrovių ir mišrios veiklos finansų kontroliuojančiųjų įmonių viešąjį sąrašą, nurodytą [[latest/TAR.2C94E75C224B#^s-306a9c1d1fa0434e8f6506d9|Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 121 straipsnio 1 dalyje]], reikalavimas, atsižvelgiant į [[latest/TAR.2C94E75C224B#^s-87a7bd60da52bbf2b431ff8c|Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 121 straipsnio 8 dalyje]] nurodytas sąlygas; ^s-f2ae9d2d18c9cfa7c1694771
 
 
-3) finansų kontroliuojančiąsias bendroves, mišrios veiklos finansų kontroliuojančiąsias įmones arba kredito įstaigas, paskirtas pagal Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 121 straipsnio 13 dalies 4 punktą. ^s-adb1353c19341923343c091c
+3) finansų kontroliuojančiąsias bendroves, mišrios veiklos finansų kontroliuojančiąsias įmones arba kredito įstaigas, paskirtas pagal [[latest/TAR.2C94E75C224B|Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 121 straipsnio 13 dalies 4 punktą]]. ^s-adb1353c19341923343c091c
 
 
 Papildyta straipsnio dalimi:
@@ -216,7 +216,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 4. Lietuvos Respublikos juridinių asmenų registre įregistruotos akcinės bendrovės ar uždarosios akcinės bendrovės, turinčios šio Įstatymo nustatyta tvarka išduotą licenciją, buveinė turi būti Lietuvos Respublikoje. ^s-10b57b5fbdff0e5a7786ec21
 
 
-5. Bankai savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Civiliniu kodeksu, šiuo Įstatymu, kitais Lietuvos Respublikos įstatymais, reglamentuojančiais finansinių paslaugų teikimą, Europos Sąjungos ir priežiūros institucijos teisės aktais, savo statutais (įstatais) (toliau – įstatai). Bankai taip pat vadovaujasi [[latest/TAR.779892D853B4|Finansų įstaigų įstatymu]], Akcinių bendrovių įstatymu ir kitais teisės aktais, jeigu šis Įstatymas nenustato kitaip. ^s-4f188a6267715b0b5c102d7a
+5. Bankai savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Civiliniu kodeksu, šiuo Įstatymu, kitais Lietuvos Respublikos įstatymais, reglamentuojančiais finansinių paslaugų teikimą, Europos Sąjungos ir priežiūros institucijos teisės aktais, savo statutais (įstatais) (toliau – įstatai). Bankai taip pat vadovaujasi [[latest/TAR.779892D853B4|Finansų įstaigų įstatymu]], Akcinių bendrovių įstatymu ir kitais teisės aktais, jeigu šis Įstatymas nenustato kitaip. ^s-4f188a6267715b0b5c102d7a
 Straipsnio dalies pakeitimai:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
@@ -248,7 +248,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 2. Bankas turi teisę teikti visas finansines paslaugas, tarp jų ir finansines paslaugas užsienio valiuta, jei ši teisė neapribota pagal šį ir kitus įstatymus. ^s-169218d1648d43df9a215d3a
 
 
-21. Bankas turi teisę siūlyti su turtu susietus žetonus, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 6 punkte, arba prašyti įtraukti juos į prekybą Reglamento (ES) 2023/1114 [[#^s-a576ec1aba948da03dc64b71|17 straipsnyje]] nustatyta tvarka ir leisti elektroninių pinigų žetonus, kaip jie apibrėžti 2023/1114 3 straipsnio 1 dalies 7 punkte, Reglamento (ES) 2023/1114 IV antraštinėje dalyje nustatyta apimtimi ir tvarka, taip pat teikti kriptoturto paslaugas, kaip jos apibrėžtos Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkte, Reglamento (ES) 2023/1114 [[#^s-1abc40224c28cc88698e1ecd|60 straipsnyje]] nustatyta apimtimi ir tvarka. ^s-ebe241e41a51198490c514db
+21. Bankas turi teisę siūlyti su turtu susietus žetonus, kaip jie apibrėžti 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamento (ES) 2023/1114](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) dėl kriptoturto rinkų, kuriuo iš dalies keičiami [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, [[#^s-6c1f035b00006587521604f2|3]] straipsnio 1 dalies 6 punkte, arba prašyti įtraukti juos į prekybą [Reglamento (ES) 2023/1114 17 straipsnyje](https://eur-lex.europa.eu/eli/reg/2023/1114/art_17/oj) nustatyta tvarka ir leisti elektroninių pinigų žetonus, kaip jie apibrėžti 2023/1114 3 straipsnio 1 dalies 7 punkte, [Reglamento (ES) 2023/1114](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) IV antraštinėje dalyje nustatyta apimtimi ir tvarka, taip pat teikti kriptoturto paslaugas, kaip jos apibrėžtos [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) 16 punkte, [Reglamento (ES) 2023/1114 60 straipsnyje](https://eur-lex.europa.eu/eli/reg/2023/1114/art_60/oj) nustatyta apimtimi ir tvarka. ^s-ebe241e41a51198490c514db
 Papildyta straipsnio dalimi:
 Nr. XIV-2881, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13489
 Straipsnio dalies pakeitimai:
@@ -413,7 +413,7 @@ Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
 1) vidutinė mėnesio viso turto vertė, apskaičiuojama per 12 iš eilės einančių mėnesių laikotarpį, yra lygi 30 milijardų eurų arba viršija šį vertės dydį arba ^s-a87ed9ecee066cbb7db4f639
 
 
-2) vidutinė mėnesio viso turto vertė, apskaičiuojama per 12 iš eilės einančių mėnesių laikotarpį, yra mažesnė negu 30 milijardų eurų, o įmonė priklauso finansinei grupei, kurios visų finansinės grupės įmonių, įsteigtų Europos Sąjungos valstybėse narėse, įskaitant užsienio valstybėse, ne Europos Sąjungos valstybėse narėse, įsteigtus filialus ir patronuojamąsias įmones, viso turto vertė individualiai yra mažesnė negu 30 milijardų eurų ir šios įmonės vykdo bet kurią iš [[latest/TAR.AB7AFE2F35B2#^s-dc1e5bba9e05d789f9907380|Finansinių priemonių rinkų įstatymo 3 straipsnio 26 dalies]] 3 ir 6 punktuose nurodytų veiklų, viso konsoliduoto turto vertė lygi 30 milijardų eurų arba viršija šį vertės dydį, abu šiuos vertės dydžius apskaičiuojant kaip 12 iš eilės einančių mėnesių laikotarpio turto vertės vidurkį. ^s-47d69c1899ccd61a6d47e12f
+2) vidutinė mėnesio viso turto vertė, apskaičiuojama per 12 iš eilės einančių mėnesių laikotarpį, yra mažesnė negu 30 milijardų eurų, o įmonė priklauso finansinei grupei, kurios visų finansinės grupės įmonių, įsteigtų Europos Sąjungos valstybėse narėse, įskaitant užsienio valstybėse, ne Europos Sąjungos valstybėse narėse, įsteigtus filialus ir patronuojamąsias įmones, viso turto vertė individualiai yra mažesnė negu 30 milijardų eurų ir šios įmonės vykdo bet kurią iš [[latest/TAR.AB7AFE2F35B2#^s-dc1e5bba9e05d789f9907380|Finansinių priemonių rinkų įstatymo 3 straipsnio 26 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-4a9bc3694aa777528669ae08|3]] ir [[latest/TAR.AB7AFE2F35B2#^s-341457c7985fb0cbeb6ef015|6]] punktuose nurodytų veiklų, viso konsoliduoto turto vertė lygi 30 milijardų eurų arba viršija šį vertės dydį, abu šiuos vertės dydžius apskaičiuojant kaip 12 iš eilės einančių mėnesių laikotarpio turto vertės vidurkį. ^s-47d69c1899ccd61a6d47e12f
 
 
 Straipsnio dalies pakeitimai:
@@ -421,7 +421,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 
 
 
-23. [[#^s-53552ae7e6e936a668d0eb8b|Šio straipsnio 22 dalyje]] nurodytos įmonės ir toliau gali vykdyti veiklą, nurodytą [[latest/TAR.AB7AFE2F35B2#^s-dc1e5bba9e05d789f9907380|Finansinių priemonių rinkų įstatymo 3 straipsnio 26 dalies]] 3 ir 6 punktuose, kol gauna banko licenciją pagal šį straipsnį. Priežiūros institucija pakartotinės licencijos išdavimo atveju užtikrina, kad būtų atsižvelgta į informaciją, kuri buvo pateikta esamai licencijai gauti. ^s-119b09beb576a3094860ce69
+23. [[#^s-53552ae7e6e936a668d0eb8b|Šio straipsnio 22 dalyje]] nurodytos įmonės ir toliau gali vykdyti veiklą, nurodytą [[latest/TAR.AB7AFE2F35B2#^s-dc1e5bba9e05d789f9907380|Finansinių priemonių rinkų įstatymo 3 straipsnio 26 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-4a9bc3694aa777528669ae08|3]] ir [[latest/TAR.AB7AFE2F35B2#^s-341457c7985fb0cbeb6ef015|6]] punktuose, kol gauna banko licenciją pagal šį straipsnį. Priežiūros institucija pakartotinės licencijos išdavimo atveju užtikrina, kad būtų atsižvelgta į informaciją, kuri buvo pateikta esamai licencijai gauti. ^s-119b09beb576a3094860ce69
 Papildyta straipsnio dalimi:
 Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
 Straipsnio dalies pakeitimai:
@@ -613,7 +613,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 3) bankas neįmoka pirmosios (avansinės) draudimo įmokos pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą, jei jis privalo ją mokėti ar jeigu draudimas nutraukiamas; ^s-9a5747ba535271cc64ef914d
 
 
-4) bankas savo licenciją naudoja tik [[latest/TAR.AB7AFE2F35B2#^s-dc1e5bba9e05d789f9907380|Finansinių priemonių rinkų įstatymo 3 straipsnio 26 dalies]] 3 ir 6 punktuose nurodytai veiklai vykdyti ir 5 metus iš eilės jo turto vertė nesiekė šio įstatymo [[#^s-53552ae7e6e936a668d0eb8b|9 straipsnio 22 dalyje]] nustatytų dydžių; ^s-05c7aa3e5028435141143159
+4) bankas savo licenciją naudoja tik [[latest/TAR.AB7AFE2F35B2#^s-dc1e5bba9e05d789f9907380|Finansinių priemonių rinkų įstatymo 3 straipsnio 26 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-4a9bc3694aa777528669ae08|3]] ir [[latest/TAR.AB7AFE2F35B2#^s-341457c7985fb0cbeb6ef015|6]] punktuose nurodytai veiklai vykdyti ir 5 metus iš eilės jo turto vertė nesiekė šio įstatymo [[#^s-53552ae7e6e936a668d0eb8b|9 straipsnio 22 dalyje]] nustatytų dydžių; ^s-05c7aa3e5028435141143159
 Papildyta straipsnio punktu:
 Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
 
@@ -622,7 +622,7 @@ Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
 5) bankas atitinka visas šias sąlygas: ^s-8efa42b39e10fd173d43063d
 
 
-a) nustatyta, kad jis žlunga arba galėtų žlugti pagal [[latest/TAR.EBB4FD337ADE#^s-469319ccfff52db8f23dd0db|Finansinio tvarumo įstatymo 42 straipsnio 2 dalies 1 punkte]] arba 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas Reglamentas (ES) Nr. 1093/2010, su visais pakeitimais 18 straipsnio 1 dalies a punkte išdėstytas sąlygas;
+a) nustatyta, kad jis žlunga arba galėtų žlugti pagal [[latest/TAR.EBB4FD337ADE#^s-469319ccfff52db8f23dd0db|Finansinio tvarumo įstatymo 42 straipsnio 2 dalies 1 punkte]] arba 2014 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 806/2014, kuriuo nustatomos kredito įstaigų ir tam tikrų investicinių įmonių pertvarkymo vienodos taisyklės ir vienoda procedūra, kiek tai susiję su bendru pertvarkymo mechanizmu ir Bendru pertvarkymo fondu, ir iš dalies keičiamas [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), su visais pakeitimais 18 straipsnio 1 dalies a punkte išdėstytas sąlygas;
 
 
 b) pertvarkymo institucijos argumentuota nuomone, bankas atitinka [[latest/TAR.EBB4FD337ADE#^s-4276f136d5763035bbddce8b|Finansinio tvarumo įstatymo 42 straipsnio 2 dalies 2 punkte]] arba Reglamento (ES) Nr. 806/2014 18 straipsnio 1 dalies b punkte išdėstytas sąlygas;
@@ -706,7 +706,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 4. Leidimui įsteigti filialą užsienio valstybėje išduoti pateikiamas prašymas ir priežiūros institucijos teisės aktų nustatyti dokumentai ir duomenys, taip pat dokumentai ir duomenys, patvirtinantys, kad filialas atitinka šio Įstatymo [[#^s-8d25ea9c5a19c2caebf3fe1b|11 straipsnio 1 dalyje]] nustatytus reikalavimus. ^s-e3f48bee4c50d022e9ec2fbe
 
 
-5. Priežiūros institucija, gavusi šio straipsnio 3 ar [[#^s-e3f48bee4c50d022e9ec2fbe|4 dalyse]] nurodytą prašymą, užklausia užsienio valstybės, kurioje steigiamas bankas ar kurios jurisdikcijai priklauso bankas, kurio įstatinio kapitalo ir (arba) balsavimo teisių dalis įsigyjama, arba kurioje steigiamas banko filialas, priežiūros institucijos informacijos apie bankų priežiūros atlikimo tvarką ir reikalavimus bankams toje valstybėje bei galimybes Lietuvos priežiūros institucijai atlikti priežiūros funkcijas ir gauti tam reikalingą informaciją, įskaitant informaciją, reikalingą jungtinei (konsoliduotai) priežiūrai atlikti. ^s-28748807b53729c260a01203
+5. Priežiūros institucija, gavusi šio straipsnio [[#^s-c7edb279046a0b9fc23fd7cb|3]] ar [[#^s-e3f48bee4c50d022e9ec2fbe|4]] dalyse nurodytą prašymą, užklausia užsienio valstybės, kurioje steigiamas bankas ar kurios jurisdikcijai priklauso bankas, kurio įstatinio kapitalo ir (arba) balsavimo teisių dalis įsigyjama, arba kurioje steigiamas banko filialas, priežiūros institucijos informacijos apie bankų priežiūros atlikimo tvarką ir reikalavimus bankams toje valstybėje bei galimybes Lietuvos priežiūros institucijai atlikti priežiūros funkcijas ir gauti tam reikalingą informaciją, įskaitant informaciją, reikalingą jungtinei (konsoliduotai) priežiūrai atlikti. ^s-28748807b53729c260a01203
 
 
 6. Priežiūros institucija privalo išnagrinėti pateiktus dokumentus ir priimti sprendimą dėl leidimo išdavimo ne vėliau kaip per 3 mėnesius nuo prašymo gavimo dienos. ^s-b5d115118262098e52c0836e
@@ -763,7 +763,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 
 
-6. Jeigu numatoma, kad keisis kartu su šio straipsnio 2 ar [[#^s-81c8afc13a26bc866d1384cb|5 dalyje]] nurodytu pranešimu priežiūros institucijai pateikta informacija, apie tai bankas turi pranešti priežiūros institucijai ir užsienio valstybės priežiūros institucijai iš anksto, ne vėliau kaip prieš vieną mėnesį iki pakeitimo. Priežiūros institucija informaciją apie planuojamus pasikeitimus per vieną mėnesį perduoda užsienio valstybės priežiūros institucijai arba atsisako perduoti, jei yra [[#^s-6e79eed0c2d3a515b2268a04|šio straipsnio 3 dalyje]] nurodyti pagrindai, ir apie tai praneša bankui. Priežiūros institucijai atsisakius informaciją apie planuojamus pasikeitimus perduoti užsienio valstybės priežiūros institucijai, bankas neturi teisės atlikti šių pakeitimų. Priežiūros institucija apie atsisakymą perduoti informaciją užsienio valstybės priežiūros institucijai praneša Europos Komisijai ir Europos bankininkystės institucijai. ^s-d62f50a8386bb9614b15c2b1
+6. Jeigu numatoma, kad keisis kartu su šio straipsnio [[#^s-6ac050e491b2f843c770587f|2]] ar [[#^s-81c8afc13a26bc866d1384cb|5]] dalyje nurodytu pranešimu priežiūros institucijai pateikta informacija, apie tai bankas turi pranešti priežiūros institucijai ir užsienio valstybės priežiūros institucijai iš anksto, ne vėliau kaip prieš vieną mėnesį iki pakeitimo. Priežiūros institucija informaciją apie planuojamus pasikeitimus per vieną mėnesį perduoda užsienio valstybės priežiūros institucijai arba atsisako perduoti, jei yra [[#^s-6e79eed0c2d3a515b2268a04|šio straipsnio 3 dalyje]] nurodyti pagrindai, ir apie tai praneša bankui. Priežiūros institucijai atsisakius informaciją apie planuojamus pasikeitimus perduoti užsienio valstybės priežiūros institucijai, bankas neturi teisės atlikti šių pakeitimų. Priežiūros institucija apie atsisakymą perduoti informaciją užsienio valstybės priežiūros institucijai praneša Europos Komisijai ir Europos bankininkystės institucijai. ^s-d62f50a8386bb9614b15c2b1
 Straipsnio dalies pakeitimai:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
@@ -805,7 +805,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 
 
-3. Finansų įmonė, dėl kurios šio straipsnio nustatyta tvarka buvo pateiktas pranešimas, privalo priežiūros institucijai teikti šios teisės aktų nustatytą informaciją, reikalingą prižiūrėti, kaip vykdomos šiame straipsnyje nustatytos sąlygos. Po to, kai yra pateiktas pranešimas, negali sumažėti tokios finansų įmonės kapitalas ir joje turi būti užtikrinama vykdomai veiklai tinkama valdymo ir organizacinė struktūra, apskaitos sistema, vidaus kontrolės sistema. Be to, priežiūros institucija turi teisę šio Įstatymo nustatyta tvarka atlikti tokios finansų įmonės patikrinimą ir taikyti šio Įstatymo [[#^s-fbf73495935d10e69fa4e51f|72 straipsnio 1 dalies]] 1, 2 ir 3 punktuose nustatytas poveikio priemones. Jeigu kontroliuojama finansų įmonė nebeatitinka nors vienos sąlygos, nustatytos [[#^s-cc30c62e4883f9976883479a|šio straipsnio 1 dalyje]], priežiūros institucija praneša apie tai užsienio valstybės priežiūros institucijai. ^s-5b3718e92af070e81346e30d
+3. Finansų įmonė, dėl kurios šio straipsnio nustatyta tvarka buvo pateiktas pranešimas, privalo priežiūros institucijai teikti šios teisės aktų nustatytą informaciją, reikalingą prižiūrėti, kaip vykdomos šiame straipsnyje nustatytos sąlygos. Po to, kai yra pateiktas pranešimas, negali sumažėti tokios finansų įmonės kapitalas ir joje turi būti užtikrinama vykdomai veiklai tinkama valdymo ir organizacinė struktūra, apskaitos sistema, vidaus kontrolės sistema. Be to, priežiūros institucija turi teisę šio Įstatymo nustatyta tvarka atlikti tokios finansų įmonės patikrinimą ir taikyti šio Įstatymo [[#^s-fbf73495935d10e69fa4e51f|72 straipsnio 1 dalies]] [[#^s-c72c51c737fac55ccc2fa0fd|1]], [[#^s-891ab26f6858745af383bf00|2]] ir [[#^s-e7e7f32ea45aab2b5507a4eb|3]] punktuose nustatytas poveikio priemones. Jeigu kontroliuojama finansų įmonė nebeatitinka nors vienos sąlygos, nustatytos [[#^s-cc30c62e4883f9976883479a|šio straipsnio 1 dalyje]], priežiūros institucija praneša apie tai užsienio valstybės priežiūros institucijai. ^s-5b3718e92af070e81346e30d
 Straipsnio dalies pakeitimai:
 Nr. XII-2449, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17717
 Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
@@ -856,7 +856,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 9. Reikalavimas įsteigti filialą ir turėti [[#^s-e64eb58d563f69525408dfda|šio straipsnio 2 dalyje]] nurodytą licenciją ir kiti šiame Įstatyme užsienio bankų, licencijuotų ne Europos Sąjungos valstybėse narėse, filialams nustatyti reikalavimai taikomi, kai vykdoma: ^s-d7a7a88dded1fe1c6ef79d90
 
 
-1) bet kokia [[latest/TAR.779892D853B4#^s-37de7635e8427abfc9be9b8d|Finansų įstaigų įstatymo 3 straipsnio 1 dalies]] 2 ir 6 punktuose nurodyta veikla, kurią vykdo užsienio valstybėje, ne Europos Sąjungos valstybėje narėje, įsteigta įmonė, kuri, jei ji būtų įsteigta Europos Sąjungoje, būtų laikoma kredito įstaiga arba atitiktų Reglamento (ES) Nr. 575/2013 [[#^s-8e1b386990c4a79b0e43494a|4 straipsnio 1 dalies 1 punkto]] b papunktyje nustatytus kriterijus; ^s-6032235d2b145a2d86793e55
+1) bet kokia [[latest/TAR.779892D853B4#^s-37de7635e8427abfc9be9b8d|Finansų įstaigų įstatymo 3 straipsnio 1 dalies]] [[latest/TAR.779892D853B4#^s-485cbe0394662b0a459ad409|2]] ir [[latest/TAR.779892D853B4#^s-aa014036ee36ade27f7bb496|6]] punktuose nurodyta veikla, kurią vykdo užsienio valstybėje, ne Europos Sąjungos valstybėje narėje, įsteigta įmonė, kuri, jei ji būtų įsteigta Europos Sąjungoje, būtų laikoma kredito įstaiga arba atitiktų Reglamento (ES) Nr. 575/2013 [[#^s-8e1b386990c4a79b0e43494a|4 straipsnio 1 dalies 1 punkto]] b papunktyje nustatytus kriterijus; ^s-6032235d2b145a2d86793e55
 
 
 2) [[latest/TAR.779892D853B4#^s-b70dca03aa0c183379e57774|Finansų įstaigų įstatymo 3 straipsnio 1 dalies 1 punkte]] nurodyta veikla, kurią vykdo užsienio valstybėje, ne Europos Sąjungos valstybėje narėje, įsteigta įmonė. ^s-d228b031d692abf9a8b5e938
@@ -931,7 +931,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 ### 19 straipsnis. Licencijos išdavimas užsienio banko filialui ^s-19354edf6a19d18606fb3b7e
 
 
-1. Užsienio banko filialui išduodamai licencijai mutatis mutandis taikomos šio Įstatymo [[#^s-e1cb05d8773d981202c21a54|9 straipsnio]] 1–[[#^s-20aecbc0f84dd09bb1a0b2ac|4 dalių]] nuostatos. ^s-106554cd898e0a3a5799293e
+1. Užsienio banko filialui išduodamai licencijai mutatis mutandis taikomos šio Įstatymo [[#^s-e1cb05d8773d981202c21a54|9 straipsnio]] [[#^s-8d1febb9e1fe578141cb6835|1]]–[[#^s-39d07caf6a57dae623ad3d42|4]] dalių nuostatos. ^s-106554cd898e0a3a5799293e
 
 
 2. Licenciją užsienio banko filialui išduoda priežiūros institucija įstatymuose ir jų įgyvendinamuosiuose priežiūros institucijos teisės aktuose nustatyta tvarka. ^s-cfd4bb01a8d83ca810511ad8
@@ -943,13 +943,13 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 1) filialo nuostatus; ^s-2b56038162a1c6b6767436a7
 
 
-2) filialo vadovų, kitų asmenų, kuriems rinkti ar skirti privalo būti gautas priežiūros institucijos leidimas, ir asmenų, turinčių užsienio banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, sąrašą ir dokumentus, reikalingus šių asmenų tinkamumui pagal šio Įstatymo 25 ir [[#^s-1da1553dfe8dcc899bb15a35|34 straipsnių]] nuostatas įvertinti; ^s-60a6bcae295c44fccb68c425
+2) filialo vadovų, kitų asmenų, kuriems rinkti ar skirti privalo būti gautas priežiūros institucijos leidimas, ir asmenų, turinčių užsienio banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį, sąrašą ir dokumentus, reikalingus šių asmenų tinkamumui pagal šio Įstatymo [[#^s-eb94e1ab9768b1b95813d633|25]] ir [[#^s-1da1553dfe8dcc899bb15a35|34]] straipsnių nuostatas įvertinti; ^s-60a6bcae295c44fccb68c425
 
 
 3) filialo veiklos pirmųjų trejų metų planą, kuriame pateikiama numatoma veikla, nurodoma, kokios finansinės paslaugos bus teikiamos, ir apibūdinama filialo organizacinė struktūra, rizikos valdymas; ^s-256c13fb1394fb06359e1a01
 
 
-4) šio Įstatymo [[#^s-f58557ed13597c6cf168cf84|9 straipsnio 6 dalies]] 11–14 punktuose nustatytus dokumentus ir duomenis apie filialą; ^s-77b55e8ce167be735cda9e1e
+4) šio Įstatymo [[#^s-f58557ed13597c6cf168cf84|9 straipsnio 6 dalies]] [[#^s-7cd6e623aafff6797b2fcbea|11]]–[[#^s-d89ffcacb447b4e75dbec04d|14]] punktuose nustatytus dokumentus ir duomenis apie filialą; ^s-77b55e8ce167be735cda9e1e
 
 
 5) užsienio banko steigimo dokumentus, registracijos pažymėjimą, licenciją ar kitus dokumentus, patvirtinančius teisę verstis kredito įstaigos veikla ir (ar) [[latest/TAR.779892D853B4#^s-aa014036ee36ade27f7bb496|Finansų įstaigų įstatymo 3 straipsnio 1 dalies 6 punkte]] nurodyta veikla, kuriai vykdyti užsienio bankas siekia gauti licenciją Lietuvos Respublikoje; ^s-2920bfad7a5416c3151f265e
@@ -967,7 +967,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 9) rašytinį patvirtinimą, kad užsienio valstybės, kurios jurisdikcijai priklauso užsienio bankas, priežiūros institucija neprieštarauja filialo steigimui arba veiklai Lietuvos Respublikoje, ir šios priežiūros institucijos informaciją apie užsienio bankų, įskaitant filialus užsienio valstybėse, priežiūros atlikimo tvarką toje valstybėje ir reikalavimus bankams bei įsipareigojimą atlikti Lietuvos Respublikoje įsteigto filialo priežiūrą ir teikti informaciją Lietuvos priežiūros institucijai. ^s-eec3514d2dd615079334e91d
 
 
-4. Gavusi prašymą išduoti licenciją užsienio banko, licencijuoto ne Europos Sąjungos valstybėje narėje, filialui, priežiūros institucija, be visų kitų šiuo Įstatymu nustatytų reikalavimų, taikomų užsienio banko filialams, įvertina jo atitiktį šio Įstatymo [[#^s-1b3dd5392149b3de46ce3b39|772 straipsnio 1 dalyje]] nustatytoms sąlygoms ir priskiria jį 1 arba 2 klasei, taip pat įvertina jo atitiktį šio Įstatymo [[#^s-a85adf45ba48df0d6b05748d|772 straipsnio 4 dalyje]] nustatytiems reikalavimams. Jeigu užsienio valstybė, kurios jurisdikcijai priklauso užsienio bankas, steigiantis filialą Lietuvos Respublikoje, nėra įtraukta į Europos bankininkystės institucijos skelbiamą šio Įstatymo [[#^s-a85adf45ba48df0d6b05748d|772 straipsnio 4 dalyje]] nustatytus reikalavimus atitinkančių užsienio valstybių ir užsienio valstybių priežiūros institucijų sąrašą ir užsienio banko filialas atitinka šio Įstatymo [[#^s-e40fccde89dbc1b005022c67|772 straipsnio 4 dalies 3 punkte]] nurodytą reikalavimą, priežiūros institucija prašo Europos Komisijos įvertinti šios užsienio valstybės bankų sektoriaus reguliavimo sistemą ir konfidencialumo reikalavimus. Europos Komisijos vertinimo išvados pagrindu priežiūros institucija įvertina užsienio banko, licencijuoto ne Europos Sąjungos valstybėje narėje, filialo atitiktį šio Įstatymo [[#^s-a85adf45ba48df0d6b05748d|772 straipsnio 4 dalies]] 1 ir 2 punktuose nustatytiems reikalavimams. Kol Europos Komisija neatlieka šio vertinimo ir nepriima sprendimo, priežiūros institucija užsienio banko, licencijuoto ne Europos Sąjungos valstybėje narėje, filialą privalo priskirti 1 klasei. ^s-20aecbc0f84dd09bb1a0b2ac
+4. Gavusi prašymą išduoti licenciją užsienio banko, licencijuoto ne Europos Sąjungos valstybėje narėje, filialui, priežiūros institucija, be visų kitų šiuo Įstatymu nustatytų reikalavimų, taikomų užsienio banko filialams, įvertina jo atitiktį šio Įstatymo [[#^s-1b3dd5392149b3de46ce3b39|772 straipsnio 1 dalyje]] nustatytoms sąlygoms ir priskiria jį 1 arba 2 klasei, taip pat įvertina jo atitiktį šio Įstatymo [[#^s-a85adf45ba48df0d6b05748d|772 straipsnio 4 dalyje]] nustatytiems reikalavimams. Jeigu užsienio valstybė, kurios jurisdikcijai priklauso užsienio bankas, steigiantis filialą Lietuvos Respublikoje, nėra įtraukta į Europos bankininkystės institucijos skelbiamą šio Įstatymo [[#^s-a85adf45ba48df0d6b05748d|772 straipsnio 4 dalyje]] nustatytus reikalavimus atitinkančių užsienio valstybių ir užsienio valstybių priežiūros institucijų sąrašą ir užsienio banko filialas atitinka šio Įstatymo [[#^s-e40fccde89dbc1b005022c67|772 straipsnio 4 dalies 3 punkte]] nurodytą reikalavimą, priežiūros institucija prašo Europos Komisijos įvertinti šios užsienio valstybės bankų sektoriaus reguliavimo sistemą ir konfidencialumo reikalavimus. Europos Komisijos vertinimo išvados pagrindu priežiūros institucija įvertina užsienio banko, licencijuoto ne Europos Sąjungos valstybėje narėje, filialo atitiktį šio Įstatymo [[#^s-a85adf45ba48df0d6b05748d|772 straipsnio 4 dalies]] [[#^s-b62e00de20aee026cd848b5b|1]] ir [[#^s-b26f3dde8ab41e7ce27b5e2b|2]] punktuose nustatytiems reikalavimams. Kol Europos Komisija neatlieka šio vertinimo ir nepriima sprendimo, priežiūros institucija užsienio banko, licencijuoto ne Europos Sąjungos valstybėje narėje, filialą privalo priskirti 1 klasei. ^s-20aecbc0f84dd09bb1a0b2ac
 
 
 5. Priežiūros institucija turi teisę patikrinti vietoje, ar filialas yra pasirengęs teikti finansines paslaugas. ^s-e113ab3c3fbd93aa217087cb
@@ -1089,7 +1089,7 @@ Nr. X-273, 2005-06-23, Žin., 2005, Nr. 84-3110 (2005-07-12)
 5) kontroliuojama finansų įmonė yra prižiūrima atliekant ją patronuojančio banko ar bankų jungtinę (konsoliduotą) priežiūrą. ^s-6854132e794581c03f43c319
 
 
-2. [[#^s-e5179c598bb64c3616db58e3|Šio straipsnio 1 dalyje]] nurodyta finansų įmonė gali steigti filialą ar teikti finansines paslaugas neįsteigusi filialo Lietuvos Respublikoje, jei užsienio valstybės priežiūros institucija, pateikdama pranešimą pagal šio Įstatymo [[#^s-3c6e05b0f1811623686b7d1d|20 straipsnio 2 dalies 1 punktą]], jame, be kita ko, nurodo, ar kontroliuojama finansų įmonė atitinka [[#^s-e5179c598bb64c3616db58e3|šio straipsnio 1 dalyje]] nustatytus reikalavimus, ir pateikia informaciją apie finansų įmonės nuosavų lėšų sumą ir struktūrą bei patronuojančio banko bendrą pagal riziką įvertintų pozicijų sumą, apskaičiuotą pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 ir [[#^s-d0819f8f90900945347150ff|4 dalis]]. ^s-fd8936f90fe68820600ad212
+2. [[#^s-e5179c598bb64c3616db58e3|Šio straipsnio 1 dalyje]] nurodyta finansų įmonė gali steigti filialą ar teikti finansines paslaugas neįsteigusi filialo Lietuvos Respublikoje, jei užsienio valstybės priežiūros institucija, pateikdama pranešimą pagal šio Įstatymo [[#^s-3c6e05b0f1811623686b7d1d|20 straipsnio 2 dalies 1 punktą]], jame, be kita ko, nurodo, ar kontroliuojama finansų įmonė atitinka [[#^s-e5179c598bb64c3616db58e3|šio straipsnio 1 dalyje]] nustatytus reikalavimus, ir pateikia informaciją apie finansų įmonės nuosavų lėšų sumą ir struktūrą bei patronuojančio banko bendrą pagal riziką įvertintų pozicijų sumą, apskaičiuotą pagal Reglamento (ES) Nr. 575/2013 92 straipsnio 3 ir 4 dalis. ^s-fd8936f90fe68820600ad212
 Straipsnio dalies pakeitimai:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
@@ -1197,7 +1197,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
 
 
-5. Bankas privalo [[latest/TAR.779892D853B4|Finansų įstaigų įstatymo]] nustatyta tvarka tvarkyti banko dalyvių (akcininkų) sąrašą. Bankas privalo ne vėliau kaip per 5 dienas priežiūros institucijai pranešti apie kiekvieną atvejį, kai sužino apie banko kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimą, padidinimą, perleidimą ar sumažinimą, dėl kurio yra peržengiamos šio Įstatymo [[#^s-252a32ae1a2810f697bb33da|24 straipsnio]] 1 ar [[#^s-05e4abf4b043e6b155916271|2 dalyje]] nustatytos ribos arba bankas tampa ar nustoja būti kontroliuojamas. Be to, banko dalyvių (akcininkų) sąrašo duomenis bankas privalo pateikti priežiūros institucijai per 10 dienų po eilinio visuotinio akcininkų susirinkimo ar priežiūros institucijos pareikalavimu kitais atvejais. ^s-2abc20cb8a63b48c97f6a93e
+5. Bankas privalo [[latest/TAR.779892D853B4|Finansų įstaigų įstatymo]] nustatyta tvarka tvarkyti banko dalyvių (akcininkų) sąrašą. Bankas privalo ne vėliau kaip per 5 dienas priežiūros institucijai pranešti apie kiekvieną atvejį, kai sužino apie banko kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimą, padidinimą, perleidimą ar sumažinimą, dėl kurio yra peržengiamos šio Įstatymo [[#^s-252a32ae1a2810f697bb33da|24 straipsnio]] [[#^s-14cfd28b1fe2a76c4ed4e8f7|1]] ar [[#^s-9ad5247a259f016233ec814c|2]] dalyje nustatytos ribos arba bankas tampa ar nustoja būti kontroliuojamas. Be to, banko dalyvių (akcininkų) sąrašo duomenis bankas privalo pateikti priežiūros institucijai per 10 dienų po eilinio visuotinio akcininkų susirinkimo ar priežiūros institucijos pareikalavimu kitais atvejais. ^s-2abc20cb8a63b48c97f6a93e
 Straipsnio dalies pakeitimai:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
@@ -1216,7 +1216,7 @@ Nr. XI-1714, 2011-11-17, Žin., 2011, Nr. 139-6554 (2011-11-18)
 ### 24 straipsnis. Banko kvalifikuotoji įstatinio kapitalo ir (arba) balsavimo teisių dalis ^s-252a32ae1a2810f697bb33da
 
 
-1. Asmuo arba kartu veikiantys asmenys (toliau – įsigyjantis asmuo), nusprendę įsigyti banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba ją padidinti tiek, kad turima banko įstatinio kapitalo ir (arba) balsavimo teisių dalis pasiektų arba viršytų 20 procentų, 30 procentų ar 50 procentų, arba tiek, kad bankas taptų kontroliuojamas (toliau – siūlomas įsigijimas), privalo apie tai raštu pranešti priežiūros institucijai ir nurodyti ketinamos įsigyti banko kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies dydį, taip pat pateikti dokumentus ir duomenis, nustatytus šio Įstatymo [[#^s-d2ff64cd2e652e37d5d4c222|25 straipsnio 2 dalyje]] nurodytame sąraše. Reikalavimo gauti priežiūros institucijos sprendimą neprieštarauti siūlomam įsigijimui nesilaikymas nedaro sandorio negaliojančio, tačiau dėl šio reikalavimo nesilaikymo atsiranda [[#^s-8644d94773610da0306fe83d|šio straipsnio 4 dalyje]] ir šio Įstatymo 72 ir [[#^s-4b7a383eec7c4f2389b14ac0|73 straipsniuose]] nustatytos pasekmės. ^s-14cfd28b1fe2a76c4ed4e8f7
+1. Asmuo arba kartu veikiantys asmenys (toliau – įsigyjantis asmuo), nusprendę įsigyti banko kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį arba ją padidinti tiek, kad turima banko įstatinio kapitalo ir (arba) balsavimo teisių dalis pasiektų arba viršytų 20 procentų, 30 procentų ar 50 procentų, arba tiek, kad bankas taptų kontroliuojamas (toliau – siūlomas įsigijimas), privalo apie tai raštu pranešti priežiūros institucijai ir nurodyti ketinamos įsigyti banko kvalifikuotosios įstatinio kapitalo ir (arba) balsavimo teisių dalies dydį, taip pat pateikti dokumentus ir duomenis, nustatytus šio Įstatymo [[#^s-d2ff64cd2e652e37d5d4c222|25 straipsnio 2 dalyje]] nurodytame sąraše. Reikalavimo gauti priežiūros institucijos sprendimą neprieštarauti siūlomam įsigijimui nesilaikymas nedaro sandorio negaliojančio, tačiau dėl šio reikalavimo nesilaikymo atsiranda [[#^s-8644d94773610da0306fe83d|šio straipsnio 4 dalyje]] ir šio Įstatymo [[#^s-7fdcbd7065b5bff92331cd84|72]] ir [[#^s-4b7a383eec7c4f2389b14ac0|73]] straipsniuose nustatytos pasekmės. ^s-14cfd28b1fe2a76c4ed4e8f7
 Straipsnio dalies pakeitimai:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
@@ -1279,7 +1279,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 8. Nagrinėdama pateiktą pranešimą apie siūlomą įsigijimą ir dokumentus bei duomenis, būtinus įsigyjančio asmens ir siūlomo įsigijimo vertinimui atlikti, taip pat gautus papildomus dokumentus ir duomenis, priežiūros institucija, siekdama užtikrinti patikimą ir riziką ribojantį banko, dėl kurio siūlomas įsigijimas, valdymą ir atsižvelgdama į galimą įsigyjančio asmens poveikį bankui, vertina įsigyjančio asmens tinkamumą ir siūlomo įsigijimo finansinį patikimumą pagal visus šiuos kriterijus: ^s-926d1acec8e1cb509031b80a
 
 
-1) įsigyjančio asmens  nepriekaištingą reputaciją (šio Įstatymo [[#^s-1da1553dfe8dcc899bb15a35|34 straipsnio]] 12 ir [[#^s-802712341a84796cd3afda81|13 dalys]]); ^s-7fc0f3e4776010c908df8589
+1) įsigyjančio asmens  nepriekaištingą reputaciją (šio Įstatymo [[#^s-1da1553dfe8dcc899bb15a35|34 straipsnio]] [[#^s-cbf0d3cfe40162e5179f51eb|12]] ir [[#^s-20a4b9e975c400d03726ecc9|13]] dalys); ^s-7fc0f3e4776010c908df8589
 
 
 2) asmens, kuris vadovaus bankui po siūlomo įsigijimo, nepriekaištingą reputaciją ir patirtį (šio Įstatymo [[#^s-5bb52810452ecf930af4b64b|34 straipsnio 2 dalis]]); ^s-9d2b8a649487f9f918574f77
@@ -1309,7 +1309,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 11. Priežiūros institucija, dėl to paties banko gavusi daugiau kaip vieną pranešimą apie siūlomą įsigijimą, visus gautus pranešimus nagrinėja tokia pat tvarka, nediskriminuodama įsigyjančių asmenų. ^s-92174d22ccd4bafdcfd7f2ac
 
 
-12. Jei priežiūros institucija priima sprendimą prieštarauti siūlomam įsigijimui, ji apie tai per 2 darbo dienas ir neviršydama vertinimo laikotarpio raštu praneša įsigyjančiam asmeniui, nurodydama sprendimo motyvus. Be to, sprendime nurodomos visos po konsultacijų pagal šio straipsnio 15 ir [[#^s-89a7fa189d718e30208c8287|16 dalis]] gautos kitų priežiūros institucijų nuomonės ar išlygos. Priežiūros institucija įsigyjančio asmens prašymu ar savo iniciatyva informaciją apie sprendimo prieštarauti siūlomam įsigijimui priėmimo motyvus turi teisę paskelbti viešai. ^s-a07d177d76fe63a91c604bd8
+12. Jei priežiūros institucija priima sprendimą prieštarauti siūlomam įsigijimui, ji apie tai per 2 darbo dienas ir neviršydama vertinimo laikotarpio raštu praneša įsigyjančiam asmeniui, nurodydama sprendimo motyvus. Be to, sprendime nurodomos visos po konsultacijų pagal šio straipsnio [[#^s-3bb233e6e7440a6fdb237234|15]] ir [[#^s-89a7fa189d718e30208c8287|16]] dalis gautos kitų priežiūros institucijų nuomonės ar išlygos. Priežiūros institucija įsigyjančio asmens prašymu ar savo iniciatyva informaciją apie sprendimo prieštarauti siūlomam įsigijimui priėmimo motyvus turi teisę paskelbti viešai. ^s-a07d177d76fe63a91c604bd8
 
 
 13. Jei priežiūros institucija per vertinimo laikotarpį raštu nepareiškia prieštaravimo siūlomam įsigijimui, laikoma, kad priežiūros institucija siūlomam įsigijimui neprieštarauja. Jei priežiūros institucija nepasibaigus vertinimo laikotarpiui priima sprendimą neprieštarauti siūlomam įsigijimui, ji apie tai per 2 darbo dienas privalo raštu pranešti įsigyjančiam asmeniui. ^s-802712341a84796cd3afda81
@@ -1484,7 +1484,7 @@ BANKO VALDYMAS
 3. Banko administracijos vadovai, nevykdantys teisės aktuose ar banko įstatuose nustatytų pareigų ar jas vykdantys netinkamai, atsako pagal įstatymus, banko įstatus, su banku sudarytas sutartis. ^s-107a01c4454200ef3319e29f
 
 
-4. Šio straipsnio 1 ir [[#^s-107a01c4454200ef3319e29f|3 dalių]] nuostatos taikomos ir užsienio banko filialui. ^s-d12bc983d6dcf537d905dea7
+4. Šio straipsnio [[#^s-e5518bf06ce292e1b2a35076|1]] ir [[#^s-107a01c4454200ef3319e29f|3]] dalių nuostatos taikomos ir užsienio banko filialui. ^s-d12bc983d6dcf537d905dea7
 
 
 
@@ -1511,7 +1511,7 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 
 
 
-2. Banko vadovai turi būti nepriekaištingos reputacijos, veikti sąžiningai, dorai, savarankiškai ir turėti kvalifikaciją ir patirtį, leidžiančią tinkamai eiti pareigas. Banko vadovų kvalifikacija ir patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Banko vadovų reputacija, kvalifikacija ir patirtis vertinami priežiūros institucijos teisės aktų nustatyta tvarka ir turi atitikti šio straipsnio 12 ir [[#^s-20a4b9e975c400d03726ecc9|13 dalyse]], taip pat Europos bankininkystės institucijos gairėse, priimamose pagal Direktyvos 2013/36/ES 91 straipsnio 11 dalį, nustatytus kriterijus ir reikalavimus. Banko vadovais negali būti asmenys, nesutinkantys, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų šiame Įstatyme numatytoms licencijoms, leidimams ir sutikimams išduoti reikalingus duomenis apie juos, tarp jų asmens duomenis ir informaciją apie asmens teistumą, sveikatą. Bankas, siekdamas patikrinti, ar jo vadovai yra nepriekaištingos reputacijos, turi teisę kreiptis į Įtariamųjų, kaltinamųjų ir nuteistųjų registro informacinės sistemos duomenų tvarkytoją ir asmens duomenų teisinę apsaugą reglamentuojančių teisės aktų nustatyta tvarka tvarkyti šių asmenų asmens duomenis, įskaitant duomenis apie asmens teistumą. ^s-5bb52810452ecf930af4b64b
+2. Banko vadovai turi būti nepriekaištingos reputacijos, veikti sąžiningai, dorai, savarankiškai ir turėti kvalifikaciją ir patirtį, leidžiančią tinkamai eiti pareigas. Banko vadovų kvalifikacija ir patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei į kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Banko vadovų reputacija, kvalifikacija ir patirtis vertinami priežiūros institucijos teisės aktų nustatyta tvarka ir turi atitikti šio straipsnio [[#^s-cbf0d3cfe40162e5179f51eb|12]] ir [[#^s-20a4b9e975c400d03726ecc9|13]] dalyse, taip pat Europos bankininkystės institucijos gairėse, priimamose pagal Direktyvos 2013/36/ES 91 straipsnio 11 dalį, nustatytus kriterijus ir reikalavimus. Banko vadovais negali būti asmenys, nesutinkantys, kad priežiūros institucija įstatymų ir kitų teisės aktų nustatytais atvejais ir tvarka tvarkytų šiame Įstatyme numatytoms licencijoms, leidimams ir sutikimams išduoti reikalingus duomenis apie juos, tarp jų asmens duomenis ir informaciją apie asmens teistumą, sveikatą. Bankas, siekdamas patikrinti, ar jo vadovai yra nepriekaištingos reputacijos, turi teisę kreiptis į Įtariamųjų, kaltinamųjų ir nuteistųjų registro informacinės sistemos duomenų tvarkytoją ir asmens duomenų teisinę apsaugą reglamentuojančių teisės aktų nustatyta tvarka tvarkyti šių asmenų asmens duomenis, įskaitant duomenis apie asmens teistumą. ^s-5bb52810452ecf930af4b64b
 Straipsnio dalies pakeitimai:
 Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
@@ -1547,7 +1547,7 @@ Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
 1) pateikti dokumentai neatitinka priežiūros institucijos teisės aktų nustatytų reikalavimų, pateikti ne visi teisės aktų nustatyti ar papildomai pareikalauti duomenys ar jie yra neteisingi; ^s-9699e2865004db214096cbfd
 
 
-2) priežiūros institucijos nuomone, banko vadovai neatitinka šio straipsnio 2 ar [[#^s-75991007c002d01962d35065|3 dalyje]] nustatytų reikalavimų arba yra kitų objektyvių aplinkybių, kurios leidžia pagrįstai abejoti asmens gebėjimu užtikrinti patikimą ir apdairų banko valdymą arba tinkamą kitų šiame Įstatyme nustatytų funkcijų atlikimą; ^s-134484ddf63628a5d2867dd3
+2) priežiūros institucijos nuomone, banko vadovai neatitinka šio straipsnio [[#^s-5bb52810452ecf930af4b64b|2]] ar [[#^s-75991007c002d01962d35065|3]] dalyje nustatytų reikalavimų arba yra kitų objektyvių aplinkybių, kurios leidžia pagrįstai abejoti asmens gebėjimu užtikrinti patikimą ir apdairų banko valdymą arba tinkamą kitų šiame Įstatyme nustatytų funkcijų atlikimą; ^s-134484ddf63628a5d2867dd3
 Straipsnio punkto pakeitimai:
 Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 
@@ -1580,7 +1580,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 
 
 
-11. Šio straipsnio nuostatos taip pat taikomos užsienio banko filialui ir atstovybei. Užsienio banko filialo ir atstovybės vadovai turi atitikti šio Įstatymo ir priežiūros institucijos teisės aktų nustatytus reikalavimus banko administracijos vadovams. Šio straipsnio 4–[[#^s-d1de4e4210da79f28eb9ce92|9 dalių]] nuostatos netaikomos Europos Sąjungos valstybėje narėje licencijuoto užsienio banko Lietuvos Respublikoje įsteigto filialo ir atstovybės vadovams. ^s-454144965e2f48cb9040ea34
+11. Šio straipsnio nuostatos taip pat taikomos užsienio banko filialui ir atstovybei. Užsienio banko filialo ir atstovybės vadovai turi atitikti šio Įstatymo ir priežiūros institucijos teisės aktų nustatytus reikalavimus banko administracijos vadovams. Šio straipsnio [[#^s-90b591de03e7ef1db5067a12|4]]–[[#^s-d1de4e4210da79f28eb9ce92|9]] dalių nuostatos netaikomos Europos Sąjungos valstybėje narėje licencijuoto užsienio banko Lietuvos Respublikoje įsteigto filialo ir atstovybės vadovams. ^s-454144965e2f48cb9040ea34
 
 
 12. Asmens reputacija vertinama atsižvelgiant į: ^s-cbf0d3cfe40162e5179f51eb
@@ -1607,7 +1607,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 7) tai, kaip asmuo vykdė ir vykdo pinigines ar kitas prievoles, įskaitant duomenis apie jo atžvilgiu vykdomus arba vykdytus restruktūrizavimo, bankroto procesus, pareikštus ieškinius civilinėse bylose; ^s-14518849ad57216c205d9a18
 
 
-8) šios dalies 1–[[#^s-14518849ad57216c205d9a18|7 punktuose]] nurodytus duomenis apie juridinį asmenį, kurio vadovu asmuo buvo ar yra arba kurio kvalifikuotąją įstatinio kapitalo ir (arba) įstatinio kapitalo dalį jis tiesiogiai ar netiesiogiai valdo arba valdė. ^s-9866143d2f37bf4c151dcf2d
+8) šios dalies [[#^s-024b4311378fabfc11380be4|1]]–[[#^s-14518849ad57216c205d9a18|7]] punktuose nurodytus duomenis apie juridinį asmenį, kurio vadovu asmuo buvo ar yra arba kurio kvalifikuotąją įstatinio kapitalo ir (arba) įstatinio kapitalo dalį jis tiesiogiai ar netiesiogiai valdo arba valdė. ^s-9866143d2f37bf4c151dcf2d
 
 
 Straipsnio dalies pakeitimai:
@@ -1644,7 +1644,7 @@ Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
 
 
 
-15. Įtariamųjų, kaltinamųjų ir nuteistųjų registro informacinės sistemos duomenų tvarkytojas bankui pateikia pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro informacinės sistemos duomenų apie šio straipsnio 1 ar [[#^s-a6cd285c5dfdc602eeed4183|10 dalyje]] nurodytus asmenis. ^s-d1a05e019694964bf3b69c1a
+15. Įtariamųjų, kaltinamųjų ir nuteistųjų registro informacinės sistemos duomenų tvarkytojas bankui pateikia pažymą dėl Įtariamųjų, kaltinamųjų ir nuteistųjų registro informacinės sistemos duomenų apie šio straipsnio [[#^s-6be415e6ceef49ac35e3eb81|1]] ar [[#^s-a6cd285c5dfdc602eeed4183|10]] dalyje nurodytus asmenis. ^s-d1a05e019694964bf3b69c1a
 Papildyta straipsnio dalimi:
 Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
 Straipsnio dalies pakeitimai:
@@ -1652,13 +1652,13 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 
 
 
-16. Į šio straipsnio 2 ir [[#^s-a6cd285c5dfdc602eeed4183|10 dalyse]] nurodytų banko vadovų ir darbuotojų pareigas asmenį skiriantis ar paskyręs bankas, užsienio banko filialas ar atstovybė šio straipsnio 2 ar [[#^s-a6cd285c5dfdc602eeed4183|10 dalyje]] nustatyta tvarka gautos informacijos apie asmenį negali perduoti tretiesiems asmenims, išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus. ^s-cff6cd09ad9c751b40c879e7
+16. Į šio straipsnio [[#^s-5bb52810452ecf930af4b64b|2]] ir [[#^s-a6cd285c5dfdc602eeed4183|10]] dalyse nurodytų banko vadovų ir darbuotojų pareigas asmenį skiriantis ar paskyręs bankas, užsienio banko filialas ar atstovybė šio straipsnio [[#^s-5bb52810452ecf930af4b64b|2]] ar [[#^s-a6cd285c5dfdc602eeed4183|10]] dalyje nustatyta tvarka gautos informacijos apie asmenį negali perduoti tretiesiems asmenims, išskyrus Lietuvos Respublikos įstatymų nustatytus atvejus. ^s-cff6cd09ad9c751b40c879e7
 Papildyta straipsnio dalimi:
 Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
 
 
 
-17. Banko darbuotojams, atsakingiems už veiksmingą banko vidaus kontrolės funkcijų – rizikos valdymo, atitikties užtikrinimo ir vidaus audito – kasdienio vykdymo valdymą ir banko finansinių išteklių valdymą, finansų planavimą ir finansinę atskaitomybę (angl. key function holders), jei jie nėra valdymo organo nariai, mutatis mutandis taikomi šio straipsnio 2, 4–9, 12, 13, 15 ir [[#^s-cff6cd09ad9c751b40c879e7|16 dalių]] reikalavimai ir Europos bankininkystės institucijos gairių, priimamų pagal Direktyvos 2013/36/ES 91a [[#^s-7be0e5f0df4d4d3c3cc323ab|straipsnio 8 dalį]], nuostatos. ^s-f730eaf45b1fd5ca0e75387a
+17. Banko darbuotojams, atsakingiems už veiksmingą banko vidaus kontrolės funkcijų – rizikos valdymo, atitikties užtikrinimo ir vidaus audito – kasdienio vykdymo valdymą ir banko finansinių išteklių valdymą, finansų planavimą ir finansinę atskaitomybę (angl. key function holders), jei jie nėra valdymo organo nariai, mutatis mutandis taikomi šio straipsnio [[#^s-5bb52810452ecf930af4b64b|2]], [[#^s-90b591de03e7ef1db5067a12|4]]–[[#^s-d1de4e4210da79f28eb9ce92|9]], [[#^s-cbf0d3cfe40162e5179f51eb|12]], [[#^s-20a4b9e975c400d03726ecc9|13]], [[#^s-d1a05e019694964bf3b69c1a|15]] ir [[#^s-cff6cd09ad9c751b40c879e7|16]] dalių reikalavimai ir Europos bankininkystės institucijos gairių, priimamų pagal Direktyvos 2013/36/ES 91a [[#^s-7be0e5f0df4d4d3c3cc323ab|straipsnio 8 dalį]], nuostatos. ^s-f730eaf45b1fd5ca0e75387a
 Papildyta straipsnio dalimi:
 Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 
@@ -1672,7 +1672,7 @@ Nr. XI-201, 2009-03-19, Žin., 2009, Nr. 38-1440 (2009-04-04)
 ### 35 straipsnis. Banko veiklos vidaus kontrolė ir pranešimas apie pažeidimus ^s-d44d3cea7a0af3e6ced96e94
 
 
-1. Bankas turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų banko darbuotojams specialiu, nepriklausomu ir autonomišku kanalu banko viduje pranešti apie padarytą ar galimą šio Įstatymo, jo įgyvendinamųjų teisės aktų, Reglamento (ES) Nr. 575/2013 ar Reglamento (ES) Nr. 1286/2014 nuostatų pažeidimą. Šioms priemonėms dėl pranešimų apie padarytus ar galimus pažeidimus įdiegti bankas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi [[latest/TAR.1B4D7B687895#^s-87dbd917e843670224f82dc0|Lietuvos banko įstatymo 437 straipsnio]] 2, 3 ir 4 punktuose nustatyti reikalavimai. ^s-ad6d56d7b701f45e914bc661
+1. Bankas turi užtikrinti, kad būtų įdiegtos priemonės, kurios leistų banko darbuotojams specialiu, nepriklausomu ir autonomišku kanalu banko viduje pranešti apie padarytą ar galimą šio Įstatymo, jo įgyvendinamųjų teisės aktų, Reglamento (ES) Nr. 575/2013 ar [Reglamento (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) nuostatų pažeidimą. Šioms priemonėms dėl pranešimų apie padarytus ar galimus pažeidimus įdiegti bankas gali pasitelkti trečiuosius asmenis. Šioms priemonėms taikomi [[latest/TAR.1B4D7B687895#^s-87dbd917e843670224f82dc0|Lietuvos banko įstatymo 437 straipsnio]] [[latest/TAR.1B4D7B687895|2]], [[latest/TAR.1B4D7B687895|3]] ir [[latest/TAR.1B4D7B687895|4]] punktuose nustatyti reikalavimai. ^s-ad6d56d7b701f45e914bc661
 Straipsnio dalies pakeitimai:
 Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 
@@ -1709,7 +1709,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 ### 361 straipsnis. Informavimo apie šaukiamą neeilinį visuotinį akcininkų susirinkimą ypatumai ^s-47755090cfa0459a44d0bd80
 
 
-1. Banko visuotinis akcininkų susirinkimas ne mažesne kaip 2/3 visų susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų dauguma gali nuspręsti, kad, jeigu pagal šio Įstatymo [[#^s-7a4c5da21b4bf7e7995ee8df|751 straipsnį]] bankui yra paskiriamas laikinasis administratorius arba, priežiūros institucijos vertinimu, yra tenkinamos šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] nurodytos sąlygos ir būtina padidinti įstatinį kapitalą, siekiant išvengti [[latest/TAR.EBB4FD337ADE#^s-f9d6a9e86d44d1d147753efa|Finansinio tvarumo įstatymo 42 straipsnyje]] nustatytų pertvarkymo sąlygų, apie šaukiamą neeilinį visuotinį akcininkų susirinkimą dėl įstatinio kapitalo didinimo gali būti pranešama per trumpesnį laikotarpį, negu nustatyta Akcinių bendrovių įstatymo 26 straipsnio 4, 5 ir 6 dalyse ar 261 straipsnio 3, 4 ir 5 dalyse, arba priimti sprendimą dėl įstatų keitimo, kuris numatytų tokio trumpesnio pranešimo laikotarpio galimybę. Tačiau bet kokiu atveju pranešimas apie šaukiamą neeilinį visuotinį akcininkų susirinkimą turi būti paskelbtas likus ne mažiau kaip 10 dienų iki susirinkimo. ^s-bc1496e5d190643f935cd2d4
+1. Banko visuotinis akcininkų susirinkimas ne mažesne kaip 2/3 visų susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų dauguma gali nuspręsti, kad, jeigu pagal šio Įstatymo [[#^s-7a4c5da21b4bf7e7995ee8df|751 straipsnį]] bankui yra paskiriamas laikinasis administratorius arba, priežiūros institucijos vertinimu, yra tenkinamos šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] nurodytos sąlygos ir būtina padidinti įstatinį kapitalą, siekiant išvengti [[latest/TAR.EBB4FD337ADE#^s-f9d6a9e86d44d1d147753efa|Finansinio tvarumo įstatymo 42 straipsnyje]] nustatytų pertvarkymo sąlygų, apie šaukiamą neeilinį visuotinį akcininkų susirinkimą [dėl įstatinio kapitalo didinimo gali būti pranešama per trumpesnį laikotarpį, negu nustatyta Akcinių bendrovių įstatymo 26 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) [4](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8), [5](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) ir [6](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) dalyse ar 261 straipsnio 3, 4 ir 5 dalyse, arba priimti sprendimą dėl įstatų keitimo, kuris numatytų tokio trumpesnio pranešimo laikotarpio galimybę. Tačiau bet kokiu atveju pranešimas apie šaukiamą neeilinį visuotinį akcininkų susirinkimą turi būti paskelbtas likus ne mažiau kaip 10 dienų iki susirinkimo. ^s-bc1496e5d190643f935cd2d4
 
 
 2. [[#^s-bc1496e5d190643f935cd2d4|Šio straipsnio 1 dalyje]] nurodytu atveju sutrumpintais terminais šaukiant visuotinį akcininkų susirinkimą netaikomos: Akcinių bendrovių įstatymo 21 straipsnio 1 dalies nuostatos dėl visuotinio akcininkų susirinkimo apskaitos dienos; Akcinių bendrovių įstatymo 25 straipsnio 3 dalyje nustatytas terminas pateikti siūlymams papildyti visuotinio akcininkų susirinkimo darbotvarkę ir [[#^s-52d4fb6095b52e0e52be849a|25 straipsnio 5 dalyje]] nustatyta pareiga ne vėliau kaip likus 10 dienų iki visuotinio akcininkų susirinkimo pranešti akcininkams apie visuotinio akcininkų susirinkimo darbotvarkės papildymus; Akcinių bendrovių įstatymo 26 straipsnio 7 dalyje nustatytas reikalavimas gauti visų akcininkų rašytinį sutikimą, norint sušaukti visuotinį akcininkų susirinkimą nesilaikant Akcinių bendrovių įstatymo 26 straipsnio 4, 5 ir 6 dalyse nustatytų terminų. ^s-630712d43589a068bda2891c
@@ -1798,7 +1798,7 @@ Nr. XI-1869, 2011-12-22, Žin., 2011, Nr. 163-7760 (2011-12-31)
 9. Bankas turi teisę įsigyti savo akcijų [[latest/TAR.779892D853B4|Finansų įstaigų įstatymo]] ir Akcinių bendrovių įstatymo nustatyta tvarka. ^s-a98e5172534bd08621f15aec
 
 
-TAR pastaba. Kai valstybė įsigyja banko akcijas ar jas paima visuomenės poreikiams, [[#^s-3bc9320bf2e9f99d9c281892|Bankų įstatymo 5 straipsnio]] 2–[[#^s-b82b0dc56eb6f8a495348935|8 dalių]], [[#^s-4eb839733cbab25e57da673e|23 straipsnio 1 dalies]], 24, [[#^s-eb94e1ab9768b1b95813d633|25 straipsnių]] ir [[#^s-c50ba02e259b767c7470884d|41 straipsnio]] 4 ir [[#^s-b82b0dc56eb6f8a495348935|8 dalių]] nuostatos netaikomos.
+TAR pastaba. Kai valstybė įsigyja banko akcijas ar jas paima visuomenės poreikiams, [[#^s-3bc9320bf2e9f99d9c281892|Bankų įstatymo 5 straipsnio]] [[#^s-12194c941b896f795b7613f5|2]]–[[#^s-8f0ded3f1986f244e1c5a498|8]] dalių, [[#^s-4eb839733cbab25e57da673e|23 straipsnio 1 dalies]], [[#^s-252a32ae1a2810f697bb33da|24]], [[#^s-eb94e1ab9768b1b95813d633|25]] straipsnių ir [[#^s-c50ba02e259b767c7470884d|41 straipsnio]] [[#^s-505837c585ca489aa6fa5e82|4]] ir [[#^s-b82b0dc56eb6f8a495348935|8]] dalių nuostatos netaikomos.
 Nr. XI-393, 2009-07-22, Žin., 2009, Nr. 93-3985 (2009-08-04) ([[#^s-c50ba02e259b767c7470884d|41 straipsnio]] 4 ir 8 taikymas)
 Straipsnio pakeitimai:
 Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
@@ -1952,7 +1952,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 ### 51 straipsnis. Skolinimas ^s-2caf3a9987d2607af50ce553
 
 
-1. Šio Įstatymo 52–[[#^s-5f1c64dd81a852452e7d02b0|54 straipsniuose]] skolinimu laikomas sandorių, iš kurių kyla banko piniginis reikalavimas ar neatšaukiamas banko piniginis įsipareigojimas, sudarymas. ^s-1dea08a6183612c495ff9ef9
+1. Šio Įstatymo [[#^s-400106ac2f2cd6788a351247|52]]–[[#^s-5f1c64dd81a852452e7d02b0|54]] straipsniuose skolinimu laikomas sandorių, iš kurių kyla banko piniginis reikalavimas ar neatšaukiamas banko piniginis įsipareigojimas, sudarymas. ^s-1dea08a6183612c495ff9ef9
 
 
 2. Taikomi šie banko skolinimo apribojimai: ^s-e84d23c46ca95357c6164472
@@ -1971,7 +1971,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 ### 52 straipsnis. Vidinio skolinimo apribojimai ^s-400106ac2f2cd6788a351247
 
 
-1. Skolinimas banko vadovams, su jais artimos giminystės, svainystės ryšiais susijusiems, partnerystę sudariusiems fiziniams asmenims ir juridiniams asmenims, kurių kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį turi banko vadovai, su jais artimos giminystės, svainystės ryšiais susiję, partnerystę sudarę asmenys arba kuriems šie asmenys gali daryti reikšmingą įtaką, kaip ji apibrėžta 2023 m. rugsėjo 13 d. Komisijos reglamento (ES) 2023/1803, kuriuo pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002 priimami tam tikri tarptautiniai apskaitos standartai, su visais pakeitimais priedo „28-asis Tarptautinis apskaitos standartas. Investicijos į asocijuotąsias įmones ir bendrąsias įmones“ 3 dalyje, arba kuriuose šie asmenys yra vyresnioji vadovybė ar vadovai, negali viršyti banko stebėtojų tarybos nustatytų dydžių. Tokio skolinimo sąlygas ir tvarką nustato banko stebėtojų taryba. ^s-0a4014080ae8ee525c0a7bd1
+1. Skolinimas banko vadovams, su jais artimos giminystės, svainystės ryšiais susijusiems, partnerystę sudariusiems fiziniams asmenims ir juridiniams asmenims, kurių kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį turi banko vadovai, su jais artimos giminystės, svainystės ryšiais susiję, partnerystę sudarę asmenys arba kuriems šie asmenys gali daryti reikšmingą įtaką, kaip ji apibrėžta 2023 m. rugsėjo 13 d. Komisijos [reglamento (ES) 2023/1803](https://eur-lex.europa.eu/eli/reg/2023/1803/oj), kuriuo pagal Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 1606/2002](https://eur-lex.europa.eu/eli/reg/1606/2002/oj) priimami tam tikri tarptautiniai apskaitos standartai, su visais pakeitimais priedo „28-asis Tarptautinis apskaitos standartas. Investicijos į asocijuotąsias įmones ir bendrąsias įmones“ 3 dalyje, arba kuriuose šie asmenys yra vyresnioji vadovybė ar vadovai, negali viršyti banko stebėtojų tarybos nustatytų dydžių. Tokio skolinimo sąlygas ir tvarką nustato banko stebėtojų taryba. ^s-0a4014080ae8ee525c0a7bd1
 Straipsnio dalies pakeitimai:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
@@ -1996,7 +1996,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 2) juridiniai asmenys, kurių kvalifikuotąją įstatinio kapitalo ir (arba) balsavimo teisių dalį turi bankas; ^s-85fe3cf90871e9ce946a0d77
 
 
-3) [[#^s-7416fdef308f66f519f063ca|šio straipsnio 1 dalies]] 1 ir [[#^s-85fe3cf90871e9ce946a0d77|2 punktuose]] nurodytų juridinių asmenų vadovai ir su jais artimos giminystės, svainystės ryšiais susiję, partnerystę sudarę asmenys; ^s-4c56b7471031e2e07459a6a9
+3) [[#^s-7416fdef308f66f519f063ca|šio straipsnio 1 dalies]] [[#^s-527fb73be33bd68cbdf6a23c|1]] ir [[#^s-85fe3cf90871e9ce946a0d77|2]] punktuose nurodytų juridinių asmenų vadovai ir su jais artimos giminystės, svainystės ryšiais susiję, partnerystę sudarę asmenys; ^s-4c56b7471031e2e07459a6a9
 Straipsnio punkto pakeitimai:
 Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 
@@ -2054,7 +2054,7 @@ Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
 3) banko kliento finansinę būklę ir turtą, veiklą, veiklos planus, skolinius įsipareigojimus kitiems asmenims ar sandorius su kitais asmenimis, kliento komercines (gamybines) ar profesines paslaptis. ^s-0cbdd6941839a23a887ca8ae
 
 
-2. Bankas, banko darbuotojai ir bet kurie kiti asmenys, kurie žino banko paslaptį sudarančią informaciją, privalo neribotą laiką neatskleisti tokios informacijos kitiems asmenims, išskyrus šio straipsnio 3–[[#^s-6d0ead56dc4f0d761f4feced|7 dalyse]], šio įstatymo [[#^s-0bac1f2b7b252a8cb2eda300|58 straipsnio 2 dalyje]], [[latest/TAR.C44837068B55|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme]], mokėjimo ir kitų finansinių paslaugų teikimą reguliuojančiuose įstatymuose, nustatytus atvejus. ^s-41c8b14f41ef311c26163641
+2. Bankas, banko darbuotojai ir bet kurie kiti asmenys, kurie žino banko paslaptį sudarančią informaciją, privalo neribotą laiką neatskleisti tokios informacijos kitiems asmenims, išskyrus šio straipsnio [[#^s-8e23447192d6d51ca6c1fa37|3]]–[[#^s-6d0ead56dc4f0d761f4feced|7]] dalyse, šio įstatymo [[#^s-0bac1f2b7b252a8cb2eda300|58 straipsnio 2 dalyje]], [[latest/TAR.C44837068B55|Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatyme]], mokėjimo ir kitų finansinių paslaugų teikimą reguliuojančiuose įstatymuose, nustatytus atvejus. ^s-41c8b14f41ef311c26163641
 Straipsnio dalies pakeitimai:
 Nr. XII-2570, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20323
 Nr. XIII-1429, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11735
@@ -2079,10 +2079,10 @@ Nr. XIII-1429, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11735
 2) notarams ir antstoliams, jeigu jos reikia įstatymų nustatytoms notarų ir antstolių funkcijoms atlikti. ^s-57207b591fa3f7d896f1c72b
 
 
-7. Kitais atvejais, negu nustatyta šio straipsnio 2–[[#^s-614705dec13c4a9049680f2b|6 dalyse]], banko paslaptį sudaranti informacija teikiama tik remiantis motyvuota teismo nutartimi, jeigu teismas nustato, kad tokios informacijos reikia dėl teisėto intereso, kurio siekia teismas arba banko paslaptį sudarančios informacijos prašantis asmuo, ir banko kliento interesai nėra svarbesni. ^s-6d0ead56dc4f0d761f4feced
+7. Kitais atvejais, negu nustatyta šio straipsnio [[#^s-41c8b14f41ef311c26163641|2]]–[[#^s-614705dec13c4a9049680f2b|6]] dalyse, banko paslaptį sudaranti informacija teikiama tik remiantis motyvuota teismo nutartimi, jeigu teismas nustato, kad tokios informacijos reikia dėl teisėto intereso, kurio siekia teismas arba banko paslaptį sudarančios informacijos prašantis asmuo, ir banko kliento interesai nėra svarbesni. ^s-6d0ead56dc4f0d761f4feced
 
 
-8. Jeigu įstatymuose arba su banku sudarytoje duomenų teikimo sutartyje nenustatyta kitaip, pagal šio straipsnio 4, 6 ir [[#^s-6d0ead56dc4f0d761f4feced|7 dalis]] informacija gali būti teikiama tik remiantis bankui pateiktu rašytiniu dokumentu, kuriame nurodyta: ^s-7dda5a9aa5f0fad9e96d2c1e
+8. Jeigu įstatymuose arba su banku sudarytoje duomenų teikimo sutartyje nenustatyta kitaip, pagal šio straipsnio [[#^s-d7f90c5e47b87af5e66c0a10|4]], [[#^s-614705dec13c4a9049680f2b|6]] ir [[#^s-6d0ead56dc4f0d761f4feced|7]] dalis informacija gali būti teikiama tik remiantis bankui pateiktu rašytiniu dokumentu, kuriame nurodyta: ^s-7dda5a9aa5f0fad9e96d2c1e
 
 
 1) informacijos siekiantį gauti asmenį identifikuojantys duomenys; ^s-d408675ce93385c1a04b28e6
@@ -2103,7 +2103,7 @@ Nr. XIII-1429, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11735
 10. Bankas turi pateikti prašomą informaciją ne vėliau kaip per 20 dienų arba motyvuotai atsisakyti ją pateikti ne vėliau kaip per 5 dienas nuo [[#^s-7dda5a9aa5f0fad9e96d2c1e|šio straipsnio 8 dalyje]] nurodyto dokumento gavimo dienos, išskyrus atvejus, kai įstatymai nustato kitą informacijos pateikimo terminą. ^s-2afca1b0c4adc000ab76d274
 
 
-11. Pagal šio straipsnio 4–[[#^s-6d0ead56dc4f0d761f4feced|7 dalis]] gauta banko paslaptį sudaranti informacija gali būti naudojama tik toms funkcijoms, kurioms atlikti gali būti gaunama banko paslaptį sudaranti informacija pagal šį straipsnį, atlikti, negali būti tvarkoma ilgiau negu to reikia tiems tikslams, dėl kurių ši informacija buvo surinkta ir tvarkoma, pasiekti, o tokios informacijos saugojimo laikotarpiu turi būti užtikrinamos tinkamos informacijos saugumo priemonės. ^s-f4b6a8c48c24c40aed9e7eb6
+11. Pagal šio straipsnio [[#^s-d7f90c5e47b87af5e66c0a10|4]]–[[#^s-6d0ead56dc4f0d761f4feced|7]] dalis gauta banko paslaptį sudaranti informacija gali būti naudojama tik toms funkcijoms, kurioms atlikti gali būti gaunama banko paslaptį sudaranti informacija pagal šį straipsnį, atlikti, negali būti tvarkoma ilgiau negu to reikia tiems tikslams, dėl kurių ši informacija buvo surinkta ir tvarkoma, pasiekti, o tokios informacijos saugojimo laikotarpiu turi būti užtikrinamos tinkamos informacijos saugumo priemonės. ^s-f4b6a8c48c24c40aed9e7eb6
 
 
 12. Šio straipsnio nuostatos taikomos tiek, kiek jos neprieštarauja institucijų, kurios atlieka [[#^s-572fc655de9dc9bef5f1c9d2|šio straipsnio 6 dalies 1 punkte]] nurodytas funkcijas, veiklą reglamentuojančių įstatymų normoms. Kitų įstatymų normos, reglamentuojančios banko paslaptį sudarančios informacijos teikimą, taikomos tiek, kiek neprieštarauja šio straipsnio nuostatoms. ^s-1ceb19c273624c815c0effec
@@ -2272,7 +2272,7 @@ reikšmingos įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimas 
 5. Jeigu ketinamo įsigijimo vertinimą turi atlikti priežiūros institucija, atsakinga už jungtinę (konsoliduotą) priežiūrą, o ji yra kita institucija nei priežiūros institucija Europos Sąjungos valstybėje narėje, kurioje yra įsisteigęs ketinantis įsigyti asmuo, abi institucijos bendradarbiauja visapusiškai konsultuodamosi. Priežiūros institucija, atsakinga už jungtinę (konsoliduotą) priežiūrą, parengia ketinamo įsigijimo vertinimo išvadą ir perduoda ją priežiūros institucijai Europos Sąjungos valstybėje narėje, kurioje yra įsisteigęs ketinantis įsigyti asmuo. Abi institucijos turi per 2 mėnesius nuo tos vertinimo išvados gavimo dienos priimti bendrą motyvuotą sprendimą raštu. Priežiūros institucija, atsakinga už jungtinę (konsoliduotą) priežiūrą, šį sprendimą perduoda ketinančiam įsigyti asmeniui. ^s-2a4e94009584a8423bdff27d
 
 
-6. Jeigu [[#^s-2a4e94009584a8423bdff27d|šio straipsnio 5 dalyje]] nurodytas bendras sprendimas per 2 mėnesius nuo ketinamo įsigijimo vertinimo išvados gavimo dienos nepriimamas, priežiūros institucija, atsakinga už jungtinę (konsoliduotą) priežiūrą, arba priežiūros institucija Europos Sąjungos valstybėje narėje, kurioje yra įsisteigęs ketinantis įsigyti asmuo, susilaiko nuo sprendimo priėmimo ir pagal Reglamento (ES) Nr. 1093/2010 [[#^s-19354edf6a19d18606fb3b7e|19 straipsnį]] perduoda klausimą nagrinėti Europos bankininkystės institucijai. Gavusios Europos bankininkystės institucijos sprendimą, [[#^s-2a4e94009584a8423bdff27d|šio straipsnio 5 dalyje]] nurodytos institucijos priima bendrą sprendimą, kuris atitinka Europos bankininkystės institucijos sprendimą. ^s-5a9133585402a1d510cb2d6c
+6. Jeigu [[#^s-2a4e94009584a8423bdff27d|šio straipsnio 5 dalyje]] nurodytas bendras sprendimas per 2 mėnesius nuo ketinamo įsigijimo vertinimo išvados gavimo dienos nepriimamas, priežiūros institucija, atsakinga už jungtinę (konsoliduotą) priežiūrą, arba priežiūros institucija Europos Sąjungos valstybėje narėje, kurioje yra įsisteigęs ketinantis įsigyti asmuo, susilaiko nuo sprendimo priėmimo ir pagal [Reglamento (ES) Nr. 1093/2010 19 straipsnį](https://eur-lex.europa.eu/eli/reg/1093/2010/art_19/oj) perduoda klausimą nagrinėti Europos bankininkystės institucijai. Gavusios Europos bankininkystės institucijos sprendimą, [[#^s-2a4e94009584a8423bdff27d|šio straipsnio 5 dalyje]] nurodytos institucijos priima bendrą sprendimą, kuris atitinka Europos bankininkystės institucijos sprendimą. ^s-5a9133585402a1d510cb2d6c
 
 
 7. Priežiūros institucija, gavusi prašymą arba savo iniciatyva, nedelsdama perduoda kitoms šiame straipsnyje nurodytoms priežiūros institucijoms ketinamo įsigijimo vertinimui atlikti svarbią informaciją. ^s-f7ecb874e9a89d1ad2d5ac4c
@@ -2365,7 +2365,7 @@ SEPTINTASIS3 SKIRSNIS
 2) skaidoma įmonė, pasibaigianti be likvidavimo procedūros, visą savo turtą ir įsipareigojimus perduoda daugiau kaip vienai naujai įsteigtai įmonei mainais už įsigyjančiųjų įmonių vertybinių popierių ar akcijų paskirstymą skaidomos įmonės dalyviams ir, kai taikytina, piniginę išmoką, neviršijančią 10 procentų tų vertybinių popierių ar akcijų nominaliosios vertės arba, jeigu nominaliosios vertės nėra, – jų finansinėse ataskaitose nurodytos vertės; ^s-a165b585a911e4f9de004d17
 
 
-3) atliekamas šios dalies 1 ir [[#^s-a165b585a911e4f9de004d17|2 punktuose]] nurodytų veiksmų derinys; ^s-0538f12bac98a92fadeb2ff7
+3) atliekamas šios dalies [[#^s-ecc7805b9d4fd53f5b63a914|1]] ir [[#^s-a165b585a911e4f9de004d17|2]] punktuose nurodytų veiksmų derinys; ^s-0538f12bac98a92fadeb2ff7
 
 
 4) skaidoma įmonė dalį savo turto ir (arba) įsipareigojimų perduoda vienai ar daugiau įsigyjančiųjų įmonių mainais už skaidomos įmonės dalyviams išleidžiamus įsigyjančiųjų įmonių, skaidomos įmonės arba ir įsigyjančiųjų įmonių, ir skaidomos įmonės vertybinius popierius ar akcijas ir, kai taikytina, piniginę išmoką, neviršijančią 10 procentų tų vertybinių popierių ar akcijų nominaliosios vertės, arba, jei nominaliosios vertės nėra, – jų finansinėse ataskaitose nurodytos vertės; ^s-595f8318a9b00a183b1e7947
@@ -2506,7 +2506,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 ### 58 straipsnis. Konsoliduotųjų finansinių ataskaitų rinkinių sudarymas priežiūros tikslais ^s-b98cfebb5ae0e6115e1a866d
 
 
-1. Bankas, kuris yra globojanti grupės įstaiga, ar finansinei grupei priklausantis bankas (jei globojanti grupės įstaiga yra finansų kontroliuojančioji bendrovė arba mišrios veiklos finansų kontroliuojančioji įmonė, kurioms netaikomas įrašymo į Finansų kontroliuojančiųjų bendrovių ir mišrios veiklos finansų kontroliuojančiųjų įmonių viešąjį sąrašą reikalavimas pagal [[latest/TAR.2C94E75C224B#^s-87a7bd60da52bbf2b431ff8c|Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 121 straipsnio 8 dalį]]) privalo parengti ir priežiūros institucijai pateikti visos finansinės grupės konsoliduotąsias finansines ir priežiūrai skirtas ataskaitas, vadovaudamasis 2024 m. lapkričio 29 d. Komisijos įgyvendinimo reglamentu (ES) 2024/3117, kuriuo nustatomi Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 taikymo įstaigų priežiūros ataskaitų teikimo srityje techniniai įgyvendinimo standartai ir panaikinamas Komisijos įgyvendinimo reglamentas (ES) 2021/451. Šios ataskaitos turi būti pateikiamos kas ketvirtį priežiūros institucijos nustatytais terminais. ^s-0862214188770b4ac5921f7e
+1. Bankas, kuris yra globojanti grupės įstaiga, ar finansinei grupei priklausantis bankas (jei globojanti grupės įstaiga yra finansų kontroliuojančioji bendrovė arba mišrios veiklos finansų kontroliuojančioji įmonė, kurioms netaikomas įrašymo į Finansų kontroliuojančiųjų bendrovių ir mišrios veiklos finansų kontroliuojančiųjų įmonių viešąjį sąrašą reikalavimas pagal [[latest/TAR.2C94E75C224B#^s-87a7bd60da52bbf2b431ff8c|Įmonių, priklausančių finansų konglomeratui, papildomos priežiūros įstatymo 121 straipsnio 8 dalį]]) privalo parengti ir priežiūros institucijai pateikti visos finansinės grupės konsoliduotąsias finansines ir priežiūrai skirtas ataskaitas, vadovaudamasis 2024 m. lapkričio 29 d. Komisijos įgyvendinimo [reglamentu (ES) 2024/3117](https://eur-lex.europa.eu/eli/reg/2024/3117/oj), kuriuo nustatomi Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 taikymo įstaigų priežiūros ataskaitų teikimo srityje techniniai įgyvendinimo standartai ir panaikinamas Komisijos įgyvendinimo [reglamentas (ES) 2021/451](https://eur-lex.europa.eu/eli/reg/2021/451/oj). Šios ataskaitos turi būti pateikiamos kas ketvirtį priežiūros institucijos nustatytais terminais. ^s-0862214188770b4ac5921f7e
 
 
 2. Įmonės, kurioms taikoma jungtinė (konsoliduota) priežiūra, mišrią veiklą vykdančios kontroliuojančiosios bendrovės ir jos kontroliuojamos įmonės, taip pat globojančios grupės įstaigos kontroliuojamos įmonės, kurioms netaikoma jungtinė (konsoliduota) priežiūra, privalo pateikti [[#^s-0862214188770b4ac5921f7e|šio straipsnio 1 dalyje]] nurodytam bankui ataskaitas, duomenis ir informaciją, būtiną sudarant konsoliduotųjų finansinių ataskaitų rinkinius ir atliekant jungtinę (konsoliduotą) priežiūrą. ^s-0bac1f2b7b252a8cb2eda300
@@ -2520,7 +2520,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 ### 59 straipsnis. Jungtinė (konsoliduota) priežiūra ^s-b42e0d05dcbaeb9af60a3efc
 
 
-1. Šio Įstatymo [[#^s-12d9949d50aa938bcc93dd30|64 straipsnyje]] nurodyta priežiūros institucija atlieka visos finansinės grupės jungtinę (konsoliduotą) priežiūrą, išskyrus šio straipsnio 2–[[#^s-7c4e64f86988f15d50f47c41|5 dalyse]] nustatytus atvejus. ^s-1b8a7270a86c07d1e479be0b
+1. Šio Įstatymo [[#^s-12d9949d50aa938bcc93dd30|64 straipsnyje]] nurodyta priežiūros institucija atlieka visos finansinės grupės jungtinę (konsoliduotą) priežiūrą, išskyrus šio straipsnio [[#^s-79f70e4e5464a68dd006d39d|2]]–[[#^s-7c4e64f86988f15d50f47c41|5]] dalyse nustatytus atvejus. ^s-1b8a7270a86c07d1e479be0b
 
 
 2. Jeigu priežiūros institucijos išduotą licenciją turintis bankas priklauso finansinei grupei, į kurią įeina bent vienas kitoje Europos Sąjungos valstybėje narėje licencijuotas užsienio bankas, visos finansinės grupės jungtinę (konsoliduotą) priežiūrą atliekanti institucija nustatoma su kitų Europos Sąjungos valstybių narių priežiūros institucijomis sudarytų susitarimų pagrindu arba vadovaujantis priežiūros institucijos teisės aktuose nustatytais kriterijais. ^s-79f70e4e5464a68dd006d39d
@@ -2529,7 +2529,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 3. Jeigu priežiūros institucijos išduotą licenciją turintis bankas priklauso finansinei grupei, kurioje globojanti grupės įstaiga priklauso valstybės, kuri nėra Europos Sąjungos valstybė narė, jurisdikcijai, šio Įstatymo [[#^s-12d9949d50aa938bcc93dd30|64 straipsnyje]] nurodyta priežiūros institucija jungtiniu (konsoliduotu) pagrindu prižiūri tik tą dalį finansinės grupės, kurioje išduotą licenciją turintis bankas yra globojanti grupės įstaiga. ^s-4917d03b9037c0a087cf3628
 
 
-4. Jeigu konsolidavimą reikia atlikti pagal Reglamento (ES) Nr. 575/2013 [[#^s-f51657c0395c40b79dacb59f|18 straipsnio]] 3 ar [[#^s-209f83782d9aa206bb4a8dd4|6 dalį]], jungtinę (konsoliduotą) priežiūrą atlieka banko, kurio bendras balansas yra didžiausias, priežiūros institucija. ^s-81b7ae5f08a47fbbb9c9af35
+4. Jeigu konsolidavimą reikia atlikti pagal Reglamento (ES) Nr. 575/2013 [[#^s-f51657c0395c40b79dacb59f|18 straipsnio]] 3 ar 6 dalį, jungtinę (konsoliduotą) priežiūrą atlieka banko, kurio bendras balansas yra didžiausias, priežiūros institucija. ^s-81b7ae5f08a47fbbb9c9af35
 
 
 5. Jeigu finansinei grupei priklauso daugiau negu vienas Europos Sąjungos valstybėse narėse licencijuotas bankas, jungtinės (konsoliduotos) priežiūros institucija yra ta Europos Sąjungos valstybės narės priežiūros institucija, kuri individualiai prižiūri vieną arba daugiau finansinės grupės bankų, kurių bendras balansas yra didesnis už bankų, kuriuos individualiai prižiūri kita priežiūros institucija, bendrą balansą. ^s-7c4e64f86988f15d50f47c41
@@ -2550,7 +2550,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 9. Jeigu banko patronuojančioji įmonė yra mišrios veiklos finansų kontroliuojančioji įmonė, priežiūros institucija turi teisę atlikti tarp banko ir mišrios veiklos finansų kontroliuojančiosios įmonės bei kitų šios įmonės patronuojamųjų įmonių sudaromų sandorių priežiūrą, įvertindama jų rizikos valdymą ir vidaus kontrolę. ^s-d33abe99a28031ed9e3df0dc
 
 
-10. Jeigu priežiūros institucijos išduotą licenciją turintis bankas priklauso finansinei grupei, kuriai taikoma jungtinė (konsoliduota) priežiūra, priežiūros institucija turi glaudžiai bendradarbiauti ir keistis priežiūros funkcijai atlikti reikalinga informacija su kitų Europos Sąjungos valstybių narių priežiūros institucijomis, atliekančiomis įmonių, kurioms taikoma jungtinė (konsoliduota) priežiūra, veiklos priežiūrą. Jeigu priežiūros institucija yra atsakinga už finansinės grupės, kuriai priklauso ir kitose Europos Sąjungos valstybėse narėse licencijuoti užsienio bankai, jungtinę (konsoliduotą) priežiūrą, ji sudaro priežiūros institucijų kolegiją, kurios paskirtis – užtikrinti bendradarbiavimą ir keitimąsi informacija tarp Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių priežiūros institucijų ir Europos bankininkystės institucijos, o prireikus ir tarp kitų užsienio valstybių priežiūros institucijų. Be to, Lietuvos Respublikoje susidarius kritinei situacijai, įskaitant Reglamento (ES) Nr. 1093/2010 [[#^s-f51657c0395c40b79dacb59f|18 straipsnyje]] nurodytą atvejį arba neigiamus pokyčius finansų rinkose, kuri kelia galimą grėsmę rinkos likvidumui ir finansų sistemos stabilumui bet kurioje kitoje Europos Sąjungos valstybėje narėje, kurioje yra licencijuoti finansinei grupei priklausantys subjektai arba kurioje yra įsteigti pagal šio Įstatymo [[#^s-5739e8b32dd0479bc1a63fcf|701 straipsnį]] svarbiais paskelbti filialai, priežiūros institucija, jeigu ji atlieka finansinės grupės jungtinę (konsoliduotą) priežiūrą, iš karto, kai tik praktiškai įmanoma tai padaryti, atsižvelgdama į [[latest/TAR.1B4D7B687895#^s-98b3b2f78e311f3719fb704c|Lietuvos Respublikos Lietuvos banko įstatymo 43 straipsnio]] nuostatas, įspėja Europos bankininkystės instituciją, Europos sisteminės rizikos valdybą, Europos centrinių bankų sistemos centrinius bankus, Lietuvos Respublikos finansų ministeriją ir kitos Europos Sąjungos valstybės narės centrinės valdžios institucijas, dalyvaujančias rengiant teisės aktus, susijusius su kredito įstaigų, finansų įstaigų, investicines ir draudimo paslaugas teikiančių bendrovių priežiūra, ir pateikia visą informaciją, kuri yra esminė jų funkcijoms atlikti. Bendradarbiavimą su kitų Europos Sąjungos valstybių narių priežiūros institucijomis, priežiūros institucijų kolegijų sudarymą ir veiklą bei kitas papildomas užduotis nustato priežiūros institucijos teisės aktai. ^s-a450fffefbfc42881701ae71
+10. Jeigu priežiūros institucijos išduotą licenciją turintis bankas priklauso finansinei grupei, kuriai taikoma jungtinė (konsoliduota) priežiūra, priežiūros institucija turi glaudžiai bendradarbiauti ir keistis priežiūros funkcijai atlikti reikalinga informacija su kitų Europos Sąjungos valstybių narių priežiūros institucijomis, atliekančiomis įmonių, kurioms taikoma jungtinė (konsoliduota) priežiūra, veiklos priežiūrą. Jeigu priežiūros institucija yra atsakinga už finansinės grupės, kuriai priklauso ir kitose Europos Sąjungos valstybėse narėse licencijuoti užsienio bankai, jungtinę (konsoliduotą) priežiūrą, ji sudaro priežiūros institucijų kolegiją, kurios paskirtis – užtikrinti bendradarbiavimą ir keitimąsi informacija tarp Lietuvos Respublikos ir kitų Europos Sąjungos valstybių narių priežiūros institucijų ir Europos bankininkystės institucijos, o prireikus ir tarp kitų užsienio valstybių priežiūros institucijų. Be to, Lietuvos Respublikoje susidarius kritinei situacijai, įskaitant [Reglamento (ES) Nr. 1093/2010 18 straipsnyje](https://eur-lex.europa.eu/eli/reg/1093/2010/art_18/oj) nurodytą atvejį arba neigiamus pokyčius finansų rinkose, kuri kelia galimą grėsmę rinkos likvidumui ir finansų sistemos stabilumui bet kurioje kitoje Europos Sąjungos valstybėje narėje, kurioje yra licencijuoti finansinei grupei priklausantys subjektai arba kurioje yra įsteigti pagal šio Įstatymo [[#^s-5739e8b32dd0479bc1a63fcf|701 straipsnį]] svarbiais paskelbti filialai, priežiūros institucija, jeigu ji atlieka finansinės grupės jungtinę (konsoliduotą) priežiūrą, iš karto, kai tik praktiškai įmanoma tai padaryti, atsižvelgdama į [[latest/TAR.1B4D7B687895#^s-98b3b2f78e311f3719fb704c|Lietuvos Respublikos Lietuvos banko įstatymo 43 straipsnio]] nuostatas, įspėja Europos bankininkystės instituciją, Europos sisteminės rizikos valdybą, Europos centrinių bankų sistemos centrinius bankus, Lietuvos Respublikos finansų ministeriją ir kitos Europos Sąjungos valstybės narės centrinės valdžios institucijas, dalyvaujančias rengiant teisės aktus, susijusius su kredito įstaigų, finansų įstaigų, investicines ir draudimo paslaugas teikiančių bendrovių priežiūra, ir pateikia visą informaciją, kuri yra esminė jų funkcijoms atlikti. Bendradarbiavimą su kitų Europos Sąjungos valstybių narių priežiūros institucijomis, priežiūros institucijų kolegijų sudarymą ir veiklą bei kitas papildomas užduotis nustato priežiūros institucijos teisės aktai. ^s-a450fffefbfc42881701ae71
 
 
 11. Jeigu priežiūros institucija yra atsakinga už kitoje Europos Sąjungos valstybėje narėje licencijuotos banko patronuojančiosios įmonės, finansų kontroliuojančiosios bendrovės patronuojančiąją įmonę arba mišrios veiklos finansų kontroliuojančiąją įmonę, patronuojančiosios įmonės jungtinę (konsoliduotą) priežiūrą, kai visų tarpvalstybinių patronuojamųjų įmonių pagrindinės buveinės yra užsienio valstybėse ir užsienio valstybių jungtinės (konsoliduotos) priežiūros institucijoms taikomi reikalavimai saugoti informaciją yra ne mažesni, negu nustatyta šiame Įstatyme, ji sudaro priežiūros institucijų kolegiją, kurios paskirtis – užtikrinti Lietuvos Respublikos ir kitų užsienio valstybių priežiūros institucijų bendradarbiavimą ir keitimąsi informacija. ^s-8f20d76e66b35a84023e659b
@@ -2752,13 +2752,13 @@ BANKŲ PRIEŽIŪRA
 ### 64 straipsnis. Priežiūros institucija ^s-12d9949d50aa938bcc93dd30
 
 
-1. Priežiūros institucija yra Europos centrinis bankas arba Lietuvos bankas, atitinkamai pagal Reglamente (ES) Nr. 1024/2013 nustatytą funkcijų paskirstymą. Lietuvos bankas šio Įstatymo priežiūros institucijai nustatytas funkcijas atlieka, suteiktomis teisėmis naudojasi tiek, kiek pagal Reglamento (ES) Nr. 1024/2013 nuostatas tai nepavesta Europos centriniam bankui. ^s-44e78a7a0d1247e64dbb0c18
+1. Priežiūros institucija yra Europos centrinis bankas arba Lietuvos bankas, atitinkamai pagal [Reglamente (ES) Nr. 1024/2013](https://eur-lex.europa.eu/eli/reg/1024/2013/oj) nustatytą funkcijų paskirstymą. Lietuvos bankas šio Įstatymo priežiūros institucijai nustatytas funkcijas atlieka, suteiktomis teisėmis naudojasi tiek, kiek pagal [Reglamento (ES) Nr. 1024/2013](https://eur-lex.europa.eu/eli/reg/1024/2013/oj) nuostatas tai nepavesta Europos centriniam bankui. ^s-44e78a7a0d1247e64dbb0c18
 Straipsnio dalies pakeitimai:
 Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
 
 
 
-2. Priežiūros institucija atlieka šio Įstatymo nustatyta tvarka išduotą licenciją turinčių bankų, įskaitant jų padalinius Lietuvos Respublikoje ir užsienio valstybėse, bei šio Įstatymo nustatyta tvarka išduotą licenciją turinčių užsienio bankų filialų priežiūrą. Jeigu šio Įstatymo nustatyta tvarka išduotą licenciją turintis bankas yra kontroliuojamas Europos Sąjungos valstybėje narėje licencijuoto užsienio banko, priežiūros institucija dvišalio susitarimo pagrindu, pagal Reglamento (ES) Nr. 1093/2010 [[#^s-92072f1bf3cc4055ab0d54c7|28 straipsnį]], turi teisę perduoti įgaliojimus atlikti tokio banko priežiūrą Europos Sąjungos valstybės narės priežiūros institucijai, kuri globojančiam (patronuojančiam) užsienio bankui yra išdavusi licenciją ir kuri atlieka globojančio (patronuojančio) užsienio banko priežiūrą tokiu būdu, kad yra prisiimama atsakomybė už šio Įstatymo nustatyta tvarka išduotą licenciją turinčio banko priežiūrą. ^s-5a4f52b51d5ba972a8de0aa4
+2. Priežiūros institucija atlieka šio Įstatymo nustatyta tvarka išduotą licenciją turinčių bankų, įskaitant jų padalinius Lietuvos Respublikoje ir užsienio valstybėse, bei šio Įstatymo nustatyta tvarka išduotą licenciją turinčių užsienio bankų filialų priežiūrą. Jeigu šio Įstatymo nustatyta tvarka išduotą licenciją turintis bankas yra kontroliuojamas Europos Sąjungos valstybėje narėje licencijuoto užsienio banko, priežiūros institucija dvišalio susitarimo pagrindu, pagal [Reglamento (ES) Nr. 1093/2010 28 straipsnį](https://eur-lex.europa.eu/eli/reg/1093/2010/art_28/oj), turi teisę perduoti įgaliojimus atlikti tokio banko priežiūrą Europos Sąjungos valstybės narės priežiūros institucijai, kuri globojančiam (patronuojančiam) užsienio bankui yra išdavusi licenciją ir kuri atlieka globojančio (patronuojančio) užsienio banko priežiūrą tokiu būdu, kad yra prisiimama atsakomybė už šio Įstatymo nustatyta tvarka išduotą licenciją turinčio banko priežiūrą. ^s-5a4f52b51d5ba972a8de0aa4
 Straipsnio dalies pakeitimai:
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 
@@ -2849,7 +2849,7 @@ Nr. XIV-108, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28961
 1) jeigu banko organų priimti sprendimai kelia pavojų banko veiklos stabilumui ir patikimumui, kreiptis į teismą, kad jie, kai yra įstatymuose nustatyti pagrindai, būtų pripažinti negaliojančiais; ^s-4930cf63f289d320e966cac9
 
 
-2) sudaryti sutartis su audito įmonėmis arba auditoriais, turto vertintojais ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl banko patikrinimo, kad būtų nustatyta banko turto vertė, banko finansinė būklė, įvertintos prisiimtos rizikos ar patikrintos kitos banko veiklos sritys. Šių asmenų darbą ir kitas su tuo susijusias jų išlaidas apmoka bankas. Pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys turi teises, nustatytas priežiūros institucijai šio Įstatymo [[#^s-64d3d4de5d6b75061f09049e|69 straipsnio 1 dalyje]], ir teises, nustatytas priežiūros institucijos tarnautojams [[latest/TAR.1B4D7B687895#^s-99181756e1f45dae235dc7c5|Lietuvos banko įstatymo 421 straipsnio 5 dalies]] 1, 3, 11 ir 12 punktuose; ^s-491daf5c5a53e07d04a9e07c
+2) sudaryti sutartis su audito įmonėmis arba auditoriais, turto vertintojais ar kitais tinkamą kvalifikaciją turinčiais asmenimis dėl banko patikrinimo, kad būtų nustatyta banko turto vertė, banko finansinė būklė, įvertintos prisiimtos rizikos ar patikrintos kitos banko veiklos sritys. Šių asmenų darbą ir kitas su tuo susijusias jų išlaidas apmoka bankas. Pagal sutartis su priežiūros institucija veikiantys šiame punkte nurodyti asmenys turi teises, nustatytas priežiūros institucijai šio Įstatymo [[#^s-64d3d4de5d6b75061f09049e|69 straipsnio 1 dalyje]], ir teises, nustatytas priežiūros institucijos tarnautojams [[latest/TAR.1B4D7B687895#^s-99181756e1f45dae235dc7c5|Lietuvos banko įstatymo 421 straipsnio 5 dalies]] [[latest/TAR.1B4D7B687895#^s-04f64a4ea0a54301a4b3fa71|1]], [[latest/TAR.1B4D7B687895#^s-e7cd86468a08917863237218|3]], [[latest/TAR.1B4D7B687895#^s-c0186fb22d1b6a39f4449e7b|11]] ir [[latest/TAR.1B4D7B687895#^s-07bf787f6bc850c937f35229|12]] punktuose; ^s-491daf5c5a53e07d04a9e07c
 Straipsnio punkto pakeitimai:
 Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 
@@ -2861,7 +2861,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 
 
 
-4) paskirti nuolatinį priežiūros institucijos atstovą banko veiklai prižiūrėti. Nuolatinis priežiūros institucijos atstovas mutatis mutandis turi teises, nustatytas priežiūros institucijai šio Įstatymo [[#^s-64d3d4de5d6b75061f09049e|69 straipsnio 1 dalyje]], ir teises, nustatytas priežiūros institucijos tarnautojams [[latest/TAR.1B4D7B687895#^s-99181756e1f45dae235dc7c5|Lietuvos banko įstatymo 421 straipsnio 5 dalies]] 1, 3, 11 ir 12 punktuose. Nuolatinis priežiūros institucijos atstovas stebi banko veiklą ir teikia informaciją priežiūros institucijai. ^s-06a720522cb2962e7aa2bc33
+4) paskirti nuolatinį priežiūros institucijos atstovą banko veiklai prižiūrėti. Nuolatinis priežiūros institucijos atstovas mutatis mutandis turi teises, nustatytas priežiūros institucijai šio Įstatymo [[#^s-64d3d4de5d6b75061f09049e|69 straipsnio 1 dalyje]], ir teises, nustatytas priežiūros institucijos tarnautojams [[latest/TAR.1B4D7B687895#^s-99181756e1f45dae235dc7c5|Lietuvos banko įstatymo 421 straipsnio 5 dalies]] [[latest/TAR.1B4D7B687895#^s-04f64a4ea0a54301a4b3fa71|1]], [[latest/TAR.1B4D7B687895#^s-e7cd86468a08917863237218|3]], [[latest/TAR.1B4D7B687895#^s-c0186fb22d1b6a39f4449e7b|11]] ir [[latest/TAR.1B4D7B687895#^s-07bf787f6bc850c937f35229|12]] punktuose. Nuolatinis priežiūros institucijos atstovas stebi banko veiklą ir teikia informaciją priežiūros institucijai. ^s-06a720522cb2962e7aa2bc33
 
 
 2. Priežiūros institucija [[latest/TAR.1B4D7B687895|Lietuvos banko įstatymo]] nustatyta tvarka duoda bankui šiuos privalomus nurodymus: ^s-08396a3e7230b13ca034d92a
@@ -2933,7 +2933,7 @@ Nr. XIV-2712, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11235
 19) sustabdyti arba nutraukti mažmeninių ir draudimo principu pagrįstų investicinių produktų paketo platinimą arba prekybą juo; ^s-37b75686187316d57b04f95b
 
 
-20) nutraukti Reglamente (ES) Nr. 1286/2014 nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą; ^s-df833d626bfed4eac33e849a
+20) nutraukti [Reglamente (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) nustatytų reikalavimų neatitinkančio pagrindinės informacijos investuotojams dokumento viešą skelbimą bei teikimą investuotojams ir paskelbti naują teisės aktų reikalavimus atitinkantį pagrindinės informacijos investuotojams dokumentą; ^s-df833d626bfed4eac33e849a
 
 
 21) vykdyti papildomus reikalavimus dėl banko veiklos rizikos ribojimo arba atlikti kitus veiksmus ar neatlikti tam tikrų veiksmų, kad būtų pašalinti teisės aktų pažeidimai ar banko veiklos trūkumai arba kad banko veikla būtų stabili ir patikima; ^s-0d8c79057e61d00b21a78663
@@ -2969,10 +2969,10 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 3) kyla grėsmė banko veiklos stabilumui ir patikimumui arba visuomenės ir (ar) banko klientų interesams. ^s-8da89e945338cc5a7145a12f
 
 
-4. Priežiūros institucija, nustačiusi, kad bankas pažeidžia šio Įstatymo, Reglamento (ES)  Nr. 575/2013, 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 600/2014 dėl finansinių priemonių rinkų, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2014 L 173, p. 84), 3, 4, 5, 6, 7, 14, 15, 16, 17, 24, 25 ir [[#^s-2fa66bdd22f2db0c4d50deeb|26 straipsnių]] reikalavimus, arba turėdama duomenų, kad artimiausiu metu dėl sparčiai blogėjančios finansinės būklės bankas juos pažeis, turi teisę bankui duoti [[#^s-08396a3e7230b13ca034d92a|šio straipsnio 2 dalies]] 14 ir 15 punktuose nustatytus ir šiuos privalomus nurodymus: ^s-6bcd32df0a176b0c856e0d56
+4. Priežiūros institucija, nustačiusi, kad bankas pažeidžia šio Įstatymo, Reglamento (ES)  Nr. 575/2013, 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 600/2014 dėl finansinių priemonių rinkų, kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012 (OL 2014 L 173, p. 84), [[#^s-6c1f035b00006587521604f2|3]], [[#^s-590c3f23eafd4338840501c4|4]], [[#^s-3bc9320bf2e9f99d9c281892|5]], [[#^s-a0ab3814e82ecb7aa41ef227|6]], [[#^s-1692184e597c5026daf7cee1|7]], [[#^s-b3ca387456c8e7b745f28780|14]], [[#^s-3a7e59e6db2bb15e22ce25cd|15]], [[#^s-45f66d3fdc99283c6e309273|16]], [[#^s-a576ec1aba948da03dc64b71|17]], [[#^s-252a32ae1a2810f697bb33da|24]], [[#^s-eb94e1ab9768b1b95813d633|25]] ir [[#^s-2fa66bdd22f2db0c4d50deeb|26]] straipsnių reikalavimus, arba turėdama duomenų, kad artimiausiu metu dėl sparčiai blogėjančios finansinės būklės bankas juos pažeis, turi teisę bankui duoti [[#^s-08396a3e7230b13ca034d92a|šio straipsnio 2 dalies]] 14 ir 15 punktuose nustatytus ir šiuos privalomus nurodymus: ^s-6bcd32df0a176b0c856e0d56
 
 
-1) įgyvendinti vieną ar daugiau gaivinimo plane, parengtame pagal [[latest/TAR.EBB4FD337ADE#^s-1d8698b74b10d559ff684b54|Finansinio tvarumo įstatymo 4–11 straipsnių]] nuostatas, nustatytų procedūrų ar priemonių arba atnaujinti gaivinimo planą, kai šioje dalyje nustatytų nurodymų taikymą paskatinusios aplinkybės skiriasi nuo galiojančiame gaivinimo plane nustatytų prielaidų, ir įgyvendinti vieną ar daugiau atnaujintame gaivinimo plane nustatytų procedūrų ar priemonių per priežiūros institucijos nustatytą laikotarpį, užtikrinant, kad būtų pašalintos šioje dalyje nustatytų priemonių taikymą paskatinusios aplinkybės; ^s-e6efc488e9bd2d99ca6aa02e
+1) įgyvendinti vieną ar daugiau gaivinimo plane, parengtame pagal [[latest/TAR.EBB4FD337ADE|Finansinio tvarumo įstatymo]] [[latest/TAR.EBB4FD337ADE#^s-e59f6a0a130a7fe121b48f96|4]]–[[latest/TAR.EBB4FD337ADE#^s-1d8698b74b10d559ff684b54|11]] straipsnių nuostatas, nustatytų procedūrų ar priemonių arba atnaujinti gaivinimo planą, kai šioje dalyje nustatytų nurodymų taikymą paskatinusios aplinkybės skiriasi nuo galiojančiame gaivinimo plane nustatytų prielaidų, ir įgyvendinti vieną ar daugiau atnaujintame gaivinimo plane nustatytų procedūrų ar priemonių per priežiūros institucijos nustatytą laikotarpį, užtikrinant, kad būtų pašalintos šioje dalyje nustatytų priemonių taikymą paskatinusios aplinkybės; ^s-e6efc488e9bd2d99ca6aa02e
 
 
 2) nušalinti arba pakeisti vieną ar daugiau banko stebėtojų tarybos narių, banko valdybos narių, banko administracijos vadovų ar asmenų, priklausančių banko vyresniajai vadovybei, jeigu nustatyta, kad tas asmuo (asmenys) neatitinka šio Įstatymo [[#^s-1da1553dfe8dcc899bb15a35|34 straipsnyje]] nustatytų reikalavimų; ^s-98be69113d235ba9250b497a
@@ -2990,7 +2990,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 5. [[#^s-08396a3e7230b13ca034d92a|Šio straipsnio 2 dalyje]] nustatyti nurodymai gali būti duodami kartu taikant ir poveikio priemones. [[#^s-6bcd32df0a176b0c856e0d56|Šio straipsnio 4 dalyje]] nustatyti nurodymai gali būti duodami kartu su [[#^s-08396a3e7230b13ca034d92a|šio straipsnio 2 dalyje]] nustatytais nurodymais ir (arba) taikant ir poveikio priemones. ^s-3b0e00cce191b3fdb278d107
 
 
-6. Bankas privalo įvykdyti šio straipsnio 2 ir [[#^s-6bcd32df0a176b0c856e0d56|4 dalyse]] nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamas, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. ^s-ac53f1a702852d55f57f341c
+6. Bankas privalo įvykdyti šio straipsnio [[#^s-08396a3e7230b13ca034d92a|2]] ir [[#^s-6bcd32df0a176b0c856e0d56|4]] dalyse nustatytus privalomus nurodymus priežiūros institucijos nustatytais terminais ir nedelsdamas, ne vėliau kaip kitą darbo dieną po nurodymo įvykdymo, apie tai raštu pranešti priežiūros institucijai. ^s-ac53f1a702852d55f57f341c
 
 
 7. Pagal [[#^s-08396a3e7230b13ca034d92a|šio straipsnio 2 dalies]] 2 ir 11 punktus nustatant tinkamą individualaus kapitalo reikalavimo dydį ar tinkamus kapitalo rezervų dydžius, taip pat specialius likvidumo reikalavimus, atsižvelgiama į kiekybinius ir kokybinius priežiūrinio tikrinimo ir vertinimo rezultatus, banko valdymo struktūrą, rizikos nustatymo, valdymo, vidaus kontrolės procesus. ^s-d247aff20d2dea400d67ed44
@@ -3102,10 +3102,10 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 4) Lietuvos Respublikoje įsteigtos mišrią veiklą vykdančios kontroliuojančiosios bendrovės; ^s-4e24826f3c5a55a36ba2891a
 
 
-5) šios dalies 1–[[#^s-4e24826f3c5a55a36ba2891a|4 punktuose]] nurodytų subjektų kontroliuojami asmenys; ^s-1005f1157bd2c0702a1a0c47
+5) šios dalies [[#^s-5c2e5c319bbadbccc467da82|1]]–[[#^s-4e24826f3c5a55a36ba2891a|4]] punktuose nurodytų subjektų kontroliuojami asmenys; ^s-1005f1157bd2c0702a1a0c47
 
 
-6) asmenys, su kuriais bankas yra sudaręs sandorius dėl banko veiklą papildančių paslaugų pirkimo, taip pat kiti asmenys, kuriems šios dalies 1, 2, 3 ir [[#^s-4e24826f3c5a55a36ba2891a|4 punktuose]] nurodyti subjektai yra perdavę funkcijų ar veiklos vykdymą, įskaitant informacinių ir ryšių technologijų paslaugas teikiančias trečiąsias šalis, nustatytas Reglamento (ES) 2022/2554 V skyriuje. ^s-58a0d3339ff39eabd7a58f27
+6) asmenys, su kuriais bankas yra sudaręs sandorius dėl banko veiklą papildančių paslaugų pirkimo, taip pat kiti asmenys, kuriems šios dalies [[#^s-5c2e5c319bbadbccc467da82|1]], [[#^s-6aace1ab562a63dd44949b80|2]], [[#^s-b47fd0437ede043b76282de9|3]] ir [[#^s-4e24826f3c5a55a36ba2891a|4]] punktuose nurodyti subjektai yra perdavę funkcijų ar veiklos vykdymą, įskaitant informacinių ir ryšių technologijų paslaugas teikiančias trečiąsias šalis, nustatytas [Reglamento (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) V skyriuje. ^s-58a0d3339ff39eabd7a58f27
 Straipsnio punkto pakeitimai:
 Nr. XV-295, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11964
 
@@ -3162,7 +3162,7 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 5. Jei, nepaisydamas užsienio valstybės priežiūros institucijos veiksmų, užsienio bankas ar užsienio banko Lietuvos Respublikoje įsteigtas filialas toliau nevykdo [[#^s-59a30a83bee71d961f1e2549|šio straipsnio 3 dalyje]] nurodytų Lietuvos Respublikos teisės aktų reikalavimų, priežiūros institucija, iš anksto apie tai informavusi užsienio valstybės priežiūros instituciją ir Europos bankininkystės instituciją, turi teisę taikyti šio Įstatymo nustatytas poveikio priemones. ^s-aae0d70779cc1b57aaacfd2b
 
 
-6. Neatidėliotinais atvejais, kai kyla rimta grėsmė kolektyviniams indėlininkų ir kitų kreditorių interesams, priežiūros institucija turi teisę taikyti poveikio priemones ir neatsižvelgdama į šio straipsnio 3–[[#^s-aae0d70779cc1b57aaacfd2b|5 dalių]] nuostatas. Šios poveikio priemonės turi būti proporcingos jų tikslui užtikrinti finansų sistemos stabilumą ir patikimumą. Apie šių poveikio priemonių taikymą priežiūros institucija nedelsdama praneša Europos Komisijai, Europos bankininkystės institucijai ir atitinkamai užsienio valstybės priežiūros institucijai. Priežiūros institucija nebetaiko poveikio priemonių, jei atitinkamų Europos Sąjungos valstybių narių institucijos pradeda taikyti priemones, nustatytas šio Įstatymo 88 straipsnio 1 dalyje. ^s-a235a119d208f30fb5e120b5
+6. Neatidėliotinais atvejais, kai kyla rimta grėsmė kolektyviniams indėlininkų ir kitų kreditorių interesams, priežiūros institucija turi teisę taikyti poveikio priemones ir neatsižvelgdama į šio straipsnio [[#^s-59a30a83bee71d961f1e2549|3]]–[[#^s-aae0d70779cc1b57aaacfd2b|5]] dalių nuostatas. Šios poveikio priemonės turi būti proporcingos jų tikslui užtikrinti finansų sistemos stabilumą ir patikimumą. Apie šių poveikio priemonių taikymą priežiūros institucija nedelsdama praneša Europos Komisijai, Europos bankininkystės institucijai ir atitinkamai užsienio valstybės priežiūros institucijai. Priežiūros institucija nebetaiko poveikio priemonių, jei atitinkamų Europos Sąjungos valstybių narių institucijos pradeda taikyti priemones, nustatytas šio Įstatymo 88 straipsnio 1 dalyje. ^s-a235a119d208f30fb5e120b5
 
 
 Straipsnio pakeitimai:
@@ -3191,7 +3191,7 @@ Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
 3. Jei per 2 mėnesius nuo prašymo pateikimo dienos bendras sprendimas pagal [[#^s-f7b58d6d6b8ef8d478651292|šio straipsnio 2 dalį]] nepriimamas, priežiūros institucija per papildomą 2 mėnesių laikotarpį priima galutinį sprendimą, ar Europos Sąjungos valstybėje narėje licencijuotą užsienio banko filialą pripažinti svarbiu. Priimdama šį sprendimą priežiūros institucija atsižvelgia į už finansinės grupės jungtinę (konsoliduotą) priežiūrą atsakingos priežiūros institucijos, jeigu Lietuvos Respublikoje filialą įsteigęs užsienio bankas priklauso tokiai finansinei grupei, arba Europos Sąjungos valstybės narės, kurioje licencijuotas Lietuvos Respublikoje filialą įsteigęs užsienio bankas, priežiūros institucijos nuomonę ir išlygas. Sprendimas dėl Europos Sąjungos valstybėje narėje licencijuoto užsienio banko filialo pripažinimo svarbiu turi būti motyvuotas. Apie priimtą sprendimą informuojamos atitinkamos suinteresuotos Europos Sąjungos valstybių narių priežiūros institucijos. ^s-2168201a921b9a4264e027ce
 
 
-4. Siekdama bendradarbiauti atliekant banko, kuris turi svarbių filialų kitose Europos Sąjungos valstybėse narėse, priežiūrą ir keistis informacija pagal šio straipsnio 5 ir [[#^s-f90b2b68f6d745920bb807eb|6 dalis]], priežiūros institucija sudaro priežiūros institucijų kolegiją (jeigu priežiūros institucijų kolegija pagal šio Įstatymo [[#^s-a450fffefbfc42881701ae71|59 straipsnio 10 dalį]] nėra sudaryta dėl visos finansinės grupės, kuriai priklauso svarbiu pripažintą filialą įsteigęs bankas). Priežiūros institucijų kolegija sudaroma vadovaujantis sutartimis, sudarytomis su Europos Sąjungos valstybių narių, kuriose įsteigti svarbiais pripažinti filialai, priežiūros institucijomis, ir veikia jomis vadovaudamasi. Priežiūros institucija sprendžia, kurios priežiūros institucijos dalyvauja kolegijos posėdžiuose arba konkrečioje kolegijos veikloje. Planuodama ir koordinuodama priežiūros institucijų kolegijos veiklą, priežiūros institucija atsižvelgia į priimamų sprendimų svarbą ir galimą jų poveikį priežiūros institucijų kolegijoje dalyvaujančioms priežiūros institucijoms, visų pirma į galimą poveikį kitų suinteresuotų Europos Sąjungos valstybių narių finansų sistemos stabilumui ir šio straipsnio 5 ir [[#^s-f90b2b68f6d745920bb807eb|6 dalyse]] nurodytoms pareigoms. Visi priežiūros institucijų kolegijos nariai iš anksto informuojami apie organizuojamus kolegijos posėdžius, pagrindinius klausimus ir veiklą, kuri bus aptariama posėdžio metu, o posėdžiui įvykus – apie visus veiksmus, kurių buvo imtasi posėdžio metu, arba apie visas įvykdytas priemones. ^s-40adb78be6bce565d4a664cf
+4. Siekdama bendradarbiauti atliekant banko, kuris turi svarbių filialų kitose Europos Sąjungos valstybėse narėse, priežiūrą ir keistis informacija pagal šio straipsnio [[#^s-4423973ac022563658e4c301|5]] ir [[#^s-f90b2b68f6d745920bb807eb|6]] dalis, priežiūros institucija sudaro priežiūros institucijų kolegiją (jeigu priežiūros institucijų kolegija pagal šio Įstatymo [[#^s-a450fffefbfc42881701ae71|59 straipsnio 10 dalį]] nėra sudaryta dėl visos finansinės grupės, kuriai priklauso svarbiu pripažintą filialą įsteigęs bankas). Priežiūros institucijų kolegija sudaroma vadovaujantis sutartimis, sudarytomis su Europos Sąjungos valstybių narių, kuriose įsteigti svarbiais pripažinti filialai, priežiūros institucijomis, ir veikia jomis vadovaudamasi. Priežiūros institucija sprendžia, kurios priežiūros institucijos dalyvauja kolegijos posėdžiuose arba konkrečioje kolegijos veikloje. Planuodama ir koordinuodama priežiūros institucijų kolegijos veiklą, priežiūros institucija atsižvelgia į priimamų sprendimų svarbą ir galimą jų poveikį priežiūros institucijų kolegijoje dalyvaujančioms priežiūros institucijoms, visų pirma į galimą poveikį kitų suinteresuotų Europos Sąjungos valstybių narių finansų sistemos stabilumui ir šio straipsnio [[#^s-4423973ac022563658e4c301|5]] ir [[#^s-f90b2b68f6d745920bb807eb|6]] dalyse nurodytoms pareigoms. Visi priežiūros institucijų kolegijos nariai iš anksto informuojami apie organizuojamus kolegijos posėdžius, pagrindinius klausimus ir veiklą, kuri bus aptariama posėdžio metu, o posėdžiui įvykus – apie visus veiksmus, kurių buvo imtasi posėdžio metu, arba apie visas įvykdytas priemones. ^s-40adb78be6bce565d4a664cf
 Straipsnio dalies pakeitimai:
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
 
@@ -3265,7 +3265,7 @@ Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 
 
 
-2. Priežiūros institucija pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją. ^s-d84ea331d31772bd0ad322c1
+2. Priežiūros institucija pagal [Reglamentą (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją. ^s-d84ea331d31772bd0ad322c1
 Straipsnio dalies pakeitimai:
 Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
 
@@ -3381,7 +3381,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 
 
 
-6. Bylose, kuriose nagrinėjami skundai (prašymai) dėl Lietuvos banko sprendimo taikyti [[#^s-fbf73495935d10e69fa4e51f|šio straipsnio 1 dalies]] 8–11 punktuose ir [[#^s-268d9d1098e4f363867f2590|3 dalies]] 2 ir 3 punktuose nustatytas poveikio priemones, negali būti taikomos reikalavimo užtikrinimo priemonės, numatytos [[latest/TAR.67B5099C5848#^s-d506d5b9ee14032afab637a4|Lietuvos Respublikos administracinių bylų teisenos įstatymo 70 straipsnio 3 dalies]] 1 ir 3 punktuose. ^s-4b8da973d97236267e23c715
+6. Bylose, kuriose nagrinėjami skundai (prašymai) dėl Lietuvos banko sprendimo taikyti [[#^s-fbf73495935d10e69fa4e51f|šio straipsnio 1 dalies]] 8–11 punktuose ir [[#^s-268d9d1098e4f363867f2590|3 dalies]] 2 ir 3 punktuose nustatytas poveikio priemones, negali būti taikomos reikalavimo užtikrinimo priemonės, numatytos [[latest/TAR.67B5099C5848#^s-d506d5b9ee14032afab637a4|Lietuvos Respublikos administracinių bylų teisenos įstatymo 70 straipsnio 3 dalies]] [[latest/TAR.67B5099C5848#^s-966c08a98004aa0d73a16595|1]] ir [[latest/TAR.67B5099C5848#^s-f8cef41e27422de3166a8d68|3]] punktuose. ^s-4b8da973d97236267e23c715
 Straipsnio dalies pakeitimai:
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
 
@@ -3442,7 +3442,7 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 
 
 
-44) jungimas ar skaidymas atliekamas nepranešus priežiūros institucijai pagal šio Įstatymo [[#^s-f52f2cfe483667055bdfd46c|568 straipsnio]] 1 ir [[#^s-624a52e8fa43891b26024ea9|3 dalis]] arba negavus priežiūros institucijos sprendimo pritarti jungimui ar skaidymui pagal šio Įstatymo [[#^s-a5ebfa851114e5639d252bf0|568 straipsnio 10 dalį]]; ^s-4cc6d1ecddc0dd1b7b55c427
+44) jungimas ar skaidymas atliekamas nepranešus priežiūros institucijai pagal šio Įstatymo [[#^s-f52f2cfe483667055bdfd46c|568 straipsnio]] [[#^s-1642a7f53fd2c9164997a9e2|1]] ir [[#^s-4c8fe1c57b4989ac48607028|3]] dalis arba negavus priežiūros institucijos sprendimo pritarti jungimui ar skaidymui pagal šio Įstatymo [[#^s-a5ebfa851114e5639d252bf0|568 straipsnio 10 dalį]]; ^s-4cc6d1ecddc0dd1b7b55c427
 Papildyta straipsnio punktu:
 Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 
@@ -3472,10 +3472,10 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 10) banko vadovais paskiriami arba banko vadovų pareigas eina vienas ar keli asmenys, neatitinkantys šio Įstatymo ir kitų teisės aktų nustatytų kvalifikacijos, reputacijos ir patirties reikalavimų tokioms pareigoms eiti; ^s-e08d6b8883d0ac13caa50bf9
 
 
-11) pažeidžiami Reglamente (EB) Nr. 1060/2009 nustatyti reikalavimai; ^s-e7b1db610f090ae07b4cdc49
+11) pažeidžiami [Reglamente (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) nustatyti reikalavimai; ^s-e7b1db610f090ae07b4cdc49
 
 
-12) pažeidžiami Reglamente (ES) Nr. 1286/2014 nustatyti reikalavimai; ^s-a2b3947873fab47e80668997
+12) pažeidžiami [Reglamente (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) nustatyti reikalavimai; ^s-a2b3947873fab47e80668997
 
 
 13) pažeidžiami Reglamente (ES) Nr. 575/2013 ir kituose susijusiuose Europos Sąjungos teisės aktuose, nustatančiuose riziką ribojančius reikalavimus kredito įstaigoms, nustatyti reikalavimai; ^s-8c028ad1e09ce1157f276f15
@@ -3484,13 +3484,13 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 
 
 
-131) pažeidžiami Reglamente (ES) 2022/2554 nustatyti reikalavimai; ^s-78f20ca79a13e928da50a114
+131) pažeidžiami [Reglamente (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) nustatyti reikalavimai; ^s-78f20ca79a13e928da50a114
 Papildyta straipsnio punktu:
 Nr. XV-295, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11964
 
 
 
-132) pažeidžiami Reglamento (ES) 2024/3005 [[#^s-5c2a17d4c2bfe0912dca362d|2 straipsnio 2 dalies]] c punkto antroje pastraipoje nustatyti reikalavimai; ^s-547af0590111e18f966e6603
+132) pažeidžiami [Reglamento (ES) 2024/3005 2 straipsnio 2 dalies c punkto](https://eur-lex.europa.eu/eli/reg/2024/3005/art_2/par_2/lit_c/oj) antroje pastraipoje nustatyti reikalavimai; ^s-547af0590111e18f966e6603
 Papildyta straipsnio punktu:
 Nr. XV-846, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06955
 
@@ -3499,7 +3499,7 @@ Nr. XV-846, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06955
 14) trukdoma priežiūros institucijai ar jos įgaliotiems asmenims atlikti patikrinimus; ^s-306cbb680730c52b5d9234a1
 
 
-15) vykdant bent vieną iš [[latest/TAR.AB7AFE2F35B2#^s-dc1e5bba9e05d789f9907380|Finansinių priemonių rinkų įstatymo 3 straipsnio 26 dalies]] 3 ir [[#^s-acede1d7b897c62ec358e697|6 punktuose]] nurodytų veiklų, pasiekiama šio Įstatymo [[#^s-53552ae7e6e936a668d0eb8b|9 straipsnio 22 dalyje]] nurodyta ribinė vertė ir neturima banko licencijos, išskyrus atvejus, kai banko licencijos neturima, nes šio Įstatymo [[#^s-53552ae7e6e936a668d0eb8b|9 straipsnio 22 dalyje]] nurodytos įmonės priežiūros institucijai šio Įstatymo [[#^s-69c856eb043f575763972070|9 straipsnio 24 dalyje]] nustatyta tvarka buvo pateikusios prašymą netaikyti joms reikalavimo gauti banko licenciją ir gavo priežiūros institucijos sprendimą pritarti šiam prašymui, vadovaujantis šio Įstatymo [[#^s-e1cb05d8773d981202c21a54|9 straipsnio]] 24–27 dalyse nustatyta tvarka; ^s-92b4113bb5515b5f661cf5aa
+15) vykdant bent vieną iš [[latest/TAR.AB7AFE2F35B2#^s-dc1e5bba9e05d789f9907380|Finansinių priemonių rinkų įstatymo 3 straipsnio 26 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-4a9bc3694aa777528669ae08|3]] ir [[latest/TAR.AB7AFE2F35B2#^s-341457c7985fb0cbeb6ef015|6]] punktuose nurodytų veiklų, pasiekiama šio Įstatymo [[#^s-53552ae7e6e936a668d0eb8b|9 straipsnio 22 dalyje]] nurodyta ribinė vertė ir neturima banko licencijos, išskyrus atvejus, kai banko licencijos neturima, nes šio Įstatymo [[#^s-53552ae7e6e936a668d0eb8b|9 straipsnio 22 dalyje]] nurodytos įmonės priežiūros institucijai šio Įstatymo [[#^s-69c856eb043f575763972070|9 straipsnio 24 dalyje]] nustatyta tvarka buvo pateikusios prašymą netaikyti joms reikalavimo gauti banko licenciją ir gavo priežiūros institucijos sprendimą pritarti šiam prašymui, vadovaujantis šio Įstatymo [[#^s-e1cb05d8773d981202c21a54|9 straipsnio]] [[#^s-69c856eb043f575763972070|24]]–[[#^s-1f8f5d3f7add4507362526fe|27]] dalyse nustatyta tvarka; ^s-92b4113bb5515b5f661cf5aa
 Papildyta straipsnio punktu:
 Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
 Straipsnio punkto pakeitimai:
@@ -3542,7 +3542,7 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 1. Priežiūros institucija skiria baudas: ^s-651d7b0ab06eee818ea32889
 
 
-1) juridiniams asmenims – iki 10 procentų bendrųjų metinių pajamų, apskaičiuojamų pagal šio straipsnio 6 ir [[#^s-df1cf9f7b3c791c9330fbc3e|8 dalis]]; ^s-9cec5416a3fe8aae14b20c31
+1) juridiniams asmenims – iki 10 procentų bendrųjų metinių pajamų, apskaičiuojamų pagal šio straipsnio [[#^s-38e7fd02ae6c2171a4c10c18|6]] ir [[#^s-df1cf9f7b3c791c9330fbc3e|8]] dalis; ^s-9cec5416a3fe8aae14b20c31
 
 
 2) juridinio asmens vadovams ir kitiems fiziniams asmenims – iki 5 milijonų eurų. ^s-9d7d45ca3310f688793b58a6
@@ -3563,10 +3563,10 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 4. Priežiūros institucija turi teisę taikyti periodines baudas už kiekvieną savaitę arba mėnesį. Didžiausia periodinių baudų, taikytinų už atitinkamą savaitės ar mėnesio laikotarpį, kai daromas pažeidimas, suma negali viršyti didžiausios periodinių baudų, kurios būtų taikomos už kiekvieną dieną atitinkamu laikotarpiu, sumos. ^s-1905c6a891aa516d8a6a10e4
 
 
-5. Už Reglamento (ES) Nr. 1286/2014 pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta Reglamento (ES) Nr. 1286/2014 [[#^s-252a32ae1a2810f697bb33da|24 straipsnyje]]. ^s-61aeb0ee6bf3cac2d5ef961d
+5. Už [Reglamento (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) pažeidimus priežiūros institucija skiria baudas, kurių maksimalus dydis yra toks, kaip nurodyta [Reglamento (ES) Nr. 1286/2014 24 straipsnyje](https://eur-lex.europa.eu/eli/reg/1286/2014/art_24/oj). ^s-61aeb0ee6bf3cac2d5ef961d
 
 
-6. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra toliau nurodytų punktų, nustatytų pagal Reglamento (ES) 2024/3117 I priedą, dydžių suma: ^s-38e7fd02ae6c2171a4c10c18
+6. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra toliau nurodytų punktų, nustatytų pagal [Reglamento (ES) 2024/3117](https://eur-lex.europa.eu/eli/reg/2024/3117/oj) I priedą, dydžių suma: ^s-38e7fd02ae6c2171a4c10c18
 
 
 1) palūkanų pajamų; ^s-6bc5dae021f55b312890668b
@@ -3608,7 +3608,7 @@ Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
 7. Juridinio asmens vidutinės dienos pajamos yra [[#^s-38e7fd02ae6c2171a4c10c18|šio straipsnio 6 dalyje]] nurodyta bendrųjų metinių pajamų suma, padalyta iš 365. ^s-472db7189eab83c61ea46081
 
 
-8. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis, pagal kuriuos šis rodiklis yra didesnis už nulį. Jeigu juridiniam asmeniui netaikomas Reglamentas (ES) 2024/3117, atitinkamos bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra bendrosios metinės pajamos pagal šiam juridiniam asmeniui taikomus apskaitos reikalavimus. Jeigu juridinis asmuo yra patronuojančioji įmonė arba priklauso patronuojančiajai įmonei, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose. ^s-df1cf9f7b3c791c9330fbc3e
+8. Juridinio asmens bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, nustatomos pagal paskutinių sudarytų (pasirašytų) metinių finansinių ataskaitų duomenis, pagal kuriuos šis rodiklis yra didesnis už nulį. Jeigu juridiniam asmeniui netaikomas [Reglamentas (ES) 2024/3117](https://eur-lex.europa.eu/eli/reg/2024/3117/oj), atitinkamos bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra bendrosios metinės pajamos pagal šiam juridiniam asmeniui taikomus apskaitos reikalavimus. Jeigu juridinis asmuo yra patronuojančioji įmonė arba priklauso patronuojančiajai įmonei, bendrosios metinės pajamos, pagal kurias nustatomas skiriamos baudos dydis, yra pajamos, nurodytos pagrindinės patronuojančiosios įmonės paskutinėse sudarytose (pasirašytose) metinėse konsoliduotosiose finansinėse ataskaitose. ^s-df1cf9f7b3c791c9330fbc3e
 
 
 9. Jeigu dėl šio Įstatymo [[#^s-c984b98c013fb4e0bbacdaad|73 straipsnio 1 dalyje]] nurodytų pažeidimų padarymo buvo neteisėtai gauta pajamų, kitokios turtinės naudos, išvengta nuostolių ar padaryta žalos ir tokių pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydis, jeigu jį įmanoma nustatyti, viršijo šio straipsnio 1, 5, 10 arba [[#^s-76f1b4485be7b3d6a1dbd592|11 dalyje]] nurodytą baudos dydį, priežiūros institucija skiria baudą iki dvigubo neteisėtai gautų pajamų, kitokios turtinės naudos, išvengtų nuostolių ar padarytos žalos dydžio. ^s-827757d80f07f20ac75eaa7a
@@ -3730,16 +3730,16 @@ Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
 3. Jeigu priežiūros institucija yra atsakinga už finansinės grupės jungtinę (konsoliduotą) priežiūrą ir iš kitos Europos Sąjungos valstybės narės priežiūros institucijos gauna pranešimą apie ketinimą finansinei grupei priklausančiam subjektui paskirti laikinąjį administratorių ar taikyti šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] nustatytoms priemonėms analogiškas tos valstybės teisės aktuose numatytas priemones, ji turi teisę įvertinti tikėtiną tokių priemonių taikymo poveikį tokiam subjektui, finansinei grupei ar grupės subjektams Lietuvoje ir kitose Europos Sąjungos valstybėse narėse ir per 3 dienas tokio įvertinimo rezultatus pateikti pranešimą pateikusiai kitos Europos Sąjungos valstybės narės priežiūros institucijai. ^s-f8e86e9a2d04e375758ca3b4
 
 
-4. Kai priežiūros institucija bankui, kuris yra Europos Sąjungos patronuojančioji įmonė arba Europos Sąjungos patronuojančiosios įmonės patronuojamoji įmonė, ketina taikyti šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] arba [[#^s-5096d8a7483198a1aa58bc93|72 straipsnio 1 dalies 8 punkte]] nustatytas priemones ir nors viena kita Europos Sąjungos valstybės narės priežiūros institucija ketina paskirti laikinąjį administratorių ar taikyti šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] nustatytoms priemonėms analogiškas tos valstybės teisės aktuose numatytas priemones dar nors vienam tai pačiai grupei priklausančiam subjektui, priežiūros institucija su kitomis atitinkamomis Europos Sąjungos valstybės narės priežiūros institucijomis įvertina, ar nebūtų tikslingiau paskirti tą patį laikinąjį administratorių visiems atitinkamiems subjektams arba koordinuoti bet kurios iš šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] nustatytoms priemonėms analogiškos priemonės taikymą daugiau negu vienam finansinei grupei priklausančiam subjektui, kad būtų galima lengviau įgyvendinti sprendimus siekiant atkurti atitinkamo subjekto finansinę būklę. Vertinimo rezultatai įforminami priimant už grupės jungtinę (konsoliduotą) priežiūrą atsakingos priežiūros institucijos ir kitų atitinkamų priežiūros institucijų motyvuotą bendrą sprendimą. Jeigu per 5 dienas nuo šio straipsnio 1 ar [[#^s-0401d2284f7c2495364e457c|2 dalyse]] nurodyto pranešimo pateikimo ar gavimo dienos bendras sprendimas nepriimamas, priežiūros institucija turi teisę priimti individualų sprendimą dėl šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] arba [[#^s-5096d8a7483198a1aa58bc93|72 straipsnio 1 dalies 8 punkte]] nustatytų priemonių taikymo bankui. Priežiūros institucija gali kreiptis į Europos bankininkystės instituciją, kad ji padėtų priežiūros institucijoms susitarti pagal Reglamento (ES) Nr. 1093/2010 [[#^s-396199178dfb82f20681984b|31 straipsnio]] nuostatas. ^s-1647317e9693c4037b83d1d8
+4. Kai priežiūros institucija bankui, kuris yra Europos Sąjungos patronuojančioji įmonė arba Europos Sąjungos patronuojančiosios įmonės patronuojamoji įmonė, ketina taikyti šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] arba [[#^s-5096d8a7483198a1aa58bc93|72 straipsnio 1 dalies 8 punkte]] nustatytas priemones ir nors viena kita Europos Sąjungos valstybės narės priežiūros institucija ketina paskirti laikinąjį administratorių ar taikyti šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] nustatytoms priemonėms analogiškas tos valstybės teisės aktuose numatytas priemones dar nors vienam tai pačiai grupei priklausančiam subjektui, priežiūros institucija su kitomis atitinkamomis Europos Sąjungos valstybės narės priežiūros institucijomis įvertina, ar nebūtų tikslingiau paskirti tą patį laikinąjį administratorių visiems atitinkamiems subjektams arba koordinuoti bet kurios iš šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] nustatytoms priemonėms analogiškos priemonės taikymą daugiau negu vienam finansinei grupei priklausančiam subjektui, kad būtų galima lengviau įgyvendinti sprendimus siekiant atkurti atitinkamo subjekto finansinę būklę. Vertinimo rezultatai įforminami priimant už grupės jungtinę (konsoliduotą) priežiūrą atsakingos priežiūros institucijos ir kitų atitinkamų priežiūros institucijų motyvuotą bendrą sprendimą. Jeigu per 5 dienas nuo šio straipsnio [[#^s-42ab6d97f1c7bcffcd7b6242|1]] ar [[#^s-0401d2284f7c2495364e457c|2]] dalyse nurodyto pranešimo pateikimo ar gavimo dienos bendras sprendimas nepriimamas, priežiūros institucija turi teisę priimti individualų sprendimą dėl šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] arba [[#^s-5096d8a7483198a1aa58bc93|72 straipsnio 1 dalies 8 punkte]] nustatytų priemonių taikymo bankui. Priežiūros institucija gali kreiptis į Europos bankininkystės instituciją, kad ji padėtų priežiūros institucijoms susitarti pagal [Reglamento (ES) Nr. 1093/2010 31 straipsnio](https://eur-lex.europa.eu/eli/reg/1093/2010/art_31/oj) nuostatas. ^s-1647317e9693c4037b83d1d8
 
 
-5. Jeigu priežiūros institucijai pranešama apie kitos Europos Sąjungos valstybės narės priežiūros institucijos sprendimą taikyti šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] nustatytoms priemonėms analogiškas tos valstybės teisės aktuose numatytas priemones Europos Sąjungos patronuojančiajai įmonei arba Europos Sąjungos patronuojančiosios įmonės patronuojamajai įmonei ir priežiūros institucija nesutinka su tokiu sprendimu, arba, jeigu, kaip numatyta [[#^s-1647317e9693c4037b83d1d8|šio straipsnio 4 dalyje]], nepriimamas bendras sprendimas, priežiūros institucija gali kreiptis į Europos bankininkystės instituciją, kad ji padėtų priežiūros institucijoms susitarti pagal Reglamento (ES) Nr. 1093/2010 [[#^s-49c61d6994a11888be6a6fca|19 straipsnio 3 dalies]] nuostatas. Tačiau toks kreipimasis galimas tik tada, jeigu ketinama taikyti vieną ar daugiau šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalies]] 1, 3 ar 5 punktuose nustatytoms priemonėms alternatyvias priemones, nustatytas atitinkamos Europos Sąjungos valstybės narės teisės aktuose. ^s-65b54a29900241ec19bef681
+5. Jeigu priežiūros institucijai pranešama apie kitos Europos Sąjungos valstybės narės priežiūros institucijos sprendimą taikyti šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] nustatytoms priemonėms analogiškas tos valstybės teisės aktuose numatytas priemones Europos Sąjungos patronuojančiajai įmonei arba Europos Sąjungos patronuojančiosios įmonės patronuojamajai įmonei ir priežiūros institucija nesutinka su tokiu sprendimu, arba, jeigu, kaip numatyta [[#^s-1647317e9693c4037b83d1d8|šio straipsnio 4 dalyje]], nepriimamas bendras sprendimas, priežiūros institucija gali kreiptis į Europos bankininkystės instituciją, kad ji padėtų priežiūros institucijoms susitarti pagal [Reglamento (ES) Nr. 1093/2010 19 straipsnio 3 dalies](https://eur-lex.europa.eu/eli/reg/1093/2010/art_19/par_3/oj) nuostatas. Tačiau toks kreipimasis galimas tik tada, jeigu ketinama taikyti vieną ar daugiau šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalies]] [[#^s-0a6d302b309d6905ffebdfb4|1]], [[#^s-8da89e945338cc5a7145a12f|3]] ar 5 punktuose nustatytoms priemonėms alternatyvias priemones, nustatytas atitinkamos Europos Sąjungos valstybės narės teisės aktuose. ^s-65b54a29900241ec19bef681
 
 
-6. Jeigu priežiūros institucija pagal [[#^s-65b54a29900241ec19bef681|šio straipsnio 5 dalies]] nuostatas kreipiasi į Europos bankininkystės instituciją arba dėl priežiūros institucijos sprendimo taikyti atitinkamas šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] nustatytas priemones į Europos bankininkystės instituciją kreipiasi kitos Europos Sąjungos valstybės narės priežiūros institucija ir dar nėra pasibaigęs 3 dienų priežiūros institucijų konsultavimosi laikotarpis arba nėra priimtas bendras sprendimas ir nėra pasibaigęs 5 dienų laikotarpis jam priimti, priežiūros institucija nepriima savo sprendimo iki tol, kol sprendimo pagal Reglamento (ES) Nr. 1093/2010 [[#^s-49c61d6994a11888be6a6fca|19 straipsnio 3 dalį]] nepriima Europos bankininkystės institucija. Europos bankininkystės institucijai per 3 dienas priėmus sprendimą, priežiūros institucija privalo juo vadovautis. ^s-764640ad7b8b6a0b7030e64b
+6. Jeigu priežiūros institucija pagal [[#^s-65b54a29900241ec19bef681|šio straipsnio 5 dalies]] nuostatas kreipiasi į Europos bankininkystės instituciją arba dėl priežiūros institucijos sprendimo taikyti atitinkamas šio Įstatymo [[#^s-b05bb57bff442d010d3c4c4a|67 straipsnio 3 dalyje]] nustatytas priemones į Europos bankininkystės instituciją kreipiasi kitos Europos Sąjungos valstybės narės priežiūros institucija ir dar nėra pasibaigęs 3 dienų priežiūros institucijų konsultavimosi laikotarpis arba nėra priimtas bendras sprendimas ir nėra pasibaigęs 5 dienų laikotarpis jam priimti, priežiūros institucija nepriima savo sprendimo iki tol, kol sprendimo pagal [Reglamento (ES) Nr. 1093/2010 19 straipsnio 3 dalį](https://eur-lex.europa.eu/eli/reg/1093/2010/art_19/par_3/oj) nepriima Europos bankininkystės institucija. Europos bankininkystės institucijai per 3 dienas priėmus sprendimą, priežiūros institucija privalo juo vadovautis. ^s-764640ad7b8b6a0b7030e64b
 
 
-7. Jeigu baigėsi [[#^s-1647317e9693c4037b83d1d8|šio straipsnio 4 dalyje]] nustatytas 5 dienų terminas arba buvo priimtas bendras sprendimas, priežiūros institucija negali kreiptis į Europos bankininkystės instituciją dėl to, kad ji padėtų priežiūros institucijoms susitarti pagal Reglamento (ES) Nr. 1093/2010 [[#^s-49c61d6994a11888be6a6fca|19 straipsnio 3 dalies]] nuostatas. ^s-1a49d95d80a752d4a55281c5
+7. Jeigu baigėsi [[#^s-1647317e9693c4037b83d1d8|šio straipsnio 4 dalyje]] nustatytas 5 dienų terminas arba buvo priimtas bendras sprendimas, priežiūros institucija negali kreiptis į Europos bankininkystės instituciją dėl to, kad ji padėtų priežiūros institucijoms susitarti pagal [Reglamento (ES) Nr. 1093/2010 19 straipsnio 3 dalies](https://eur-lex.europa.eu/eli/reg/1093/2010/art_19/par_3/oj) nuostatas. ^s-1a49d95d80a752d4a55281c5
 
 
 8. Šiame straipsnyje nurodyti priežiūros institucijos sprendimai turi būti motyvuoti. Juos priimant turi būti atsižvelgiama į pareikštas kitų Europos Sąjungos valstybių narių priežiūros institucijų nuomones ir išlygas, taip pat į galimą sprendimų poveikį kitų atitinkamų Europos Sąjungos valstybių narių finansiniam stabilumui. Jeigu priežiūros institucija yra atsakinga už grupės jungtinę (konsoliduotą) priežiūrą, ji dokumentą, kuriame išdėstytas bendras sprendimas dėl Europos Sąjungos patronuojančiosios įmonės, pateikia Europos Sąjungos patronuojančiajai įmonei. Taip pat priežiūros institucija Europos Sąjungos patronuojančiosios įmonės patronuojamajai įmonei, veikiančiai Lietuvos Respublikoje, pateikia dėl jos priimtą sprendimą. ^s-b980836cf0d4cba132038497
@@ -3858,7 +3858,7 @@ TAR pastaba. [[latest/7b9855a0beae11eba2bad9a0748ee64d|Įstatymo Nr. XIV-292]] n
 5. Norint gauti priežiūros institucijos sutikimą sudaryti [[#^s-5fb3751924bf864150fabc34|šio straipsnio 2 dalies 3 punkte]] nurodytą sandorį, priežiūros institucijai pateikiamas prašymas dėl sutikimo išdavimo, atsakingo organo sprendimas dėl sandorio ir kiti priežiūros institucijos teisės aktuose nustatyti dokumentai ir duomenys. ^s-babf323725babfe3eede2fef
 
 
-51. Kai [[#^s-c939dc19d437f85783783335|šio straipsnio 2 dalyje]] nurodytus sandorius siekiama sudaryti [[latest/TAR.EBB4FD337ADE|Finansinio tvarumo įstatyme]] nustatytais pertvarkymo ar turto, teisių ir įsipareigojimų perleidimo tikslais, atsižvelgiant į būtiną proceso skubą, gali būti nukrypstama nuo šio straipsnio 3, 4 ir [[#^s-babf323725babfe3eede2fef|5 dalyse]] nustatytų reikalavimų, jei pateiktos informacijos pakanka priežiūros institucijos sprendimui dėl sutikimo priimti. ^s-fa26bc8a59e1472e194c57ff
+51. Kai [[#^s-c939dc19d437f85783783335|šio straipsnio 2 dalyje]] nurodytus sandorius siekiama sudaryti [[latest/TAR.EBB4FD337ADE|Finansinio tvarumo įstatyme]] nustatytais pertvarkymo ar turto, teisių ir įsipareigojimų perleidimo tikslais, atsižvelgiant į būtiną proceso skubą, gali būti nukrypstama nuo šio straipsnio [[latest/TAR.EBB4FD337ADE|3]], [[latest/TAR.EBB4FD337ADE|4]] ir [[latest/TAR.EBB4FD337ADE|5]] dalyse nustatytų reikalavimų, jei pateiktos informacijos pakanka priežiūros institucijos sprendimui dėl sutikimo priimti. ^s-fa26bc8a59e1472e194c57ff
 Papildyta straipsnio dalimi:
 Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
 
@@ -3879,7 +3879,7 @@ Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
 4) svarbą paskolų, indėlių, mokėjimų ir kitose finansinių paslaugų rinkose, vertinant pagal fizinių, juridinių asmenų segmentus ir finansinių paslaugų tipus, įvertinant teikiamų finansinių paslaugų pakeičiamumą; ^s-1f3cea8dc9260f25c3e41da0
 
 
-5) šios dalies 2, 3 ir [[#^s-1f3cea8dc9260f25c3e41da0|4 punktuose]] išvardytų kriterijų reikšmių, turto ir kapitalo dydžių pokyčius sudarius sandorį. ^s-2073b5f664a66704d3d8eacd
+5) šios dalies [[#^s-4c279d3fcd8176b6707a82d2|2]], [[#^s-a6043c362541465151eb4380|3]] ir [[#^s-1f3cea8dc9260f25c3e41da0|4]] punktuose išvardytų kriterijų reikšmių, turto ir kapitalo dydžių pokyčius sudarius sandorį. ^s-2073b5f664a66704d3d8eacd
 
 
 61. Jeigu sandorį, galintį daryti neigiamą įtaką sisteminei rizikai, planuojama vykdyti, kai nustatoma, kad bankas atitinka sąlygas, pagal kurias gali būti pripažintas nemokiu, arba kai pagal [[latest/TAR.EBB4FD337ADE#^s-272bdb13c91c1ea2beb1c472|Finansinio tvarumo įstatymo 42 straipsnio 3 dalį]] nustatoma, kad bankas žlunga arba gali žlugti, priežiūros institucija taip pat įvertina sandorio nevykdymo galimas pasekmes Lietuvos finansų sistemos stabilumui ir viešajam interesui. ^s-9f571ba66965a1ee07e57eaa
@@ -3989,14 +3989,14 @@ PAPILDOMOS NUOSTATOS DĖL UŽSIENIO BANKŲ, LICENCIJUOTŲ NE EUROPOS SĄJUNGOS V
 3) bet kokia kita priemone, kuria užsienio banko filialas gali nevaržomai ir nedelsdamas pasinaudoti rizikai ar nuostoliams padengti, vos tik tai rizikai ar nuostoliams atsiradus. ^s-96695f1ce08952338e79b5ed
 
 
-3. Užsienio banko filialas privalo [[#^s-bf8f92ea495bf7b8c0c6c6fd|šio straipsnio 2 dalyje]] nurodytas neliečiamojo kapitalo priemones deponuoti sąlyginio deponavimo sąskaitoje (angl. escrow account), kaip ji apibrėžiama 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1303/2013, kuriuo nustatomos Europos regioninės plėtros fondui, Europos socialiniam fondui, Sanglaudos fondui, Europos žemės ūkio fondui kaimo plėtrai ir Europos jūros reikalų ir žuvininkystės fondui bendros nuostatos ir Europos regioninės plėtros fondui, Europos socialiniam fondui, Sanglaudos fondui ir Europos jūros reikalų ir žuvininkystės fondui taikytinos bendrosios nuostatos ir panaikinamas Tarybos reglamentas (EB) Nr. 1083/2006, su visais pakeitimais 2 straipsnio 26 dalyje, turimoje Lietuvos Respublikoje registruotoje kredito įstaigoje, kuri nėra jo pagrindinės įmonės finansinės grupės dalis. Sąlyginio deponavimo sąskaitoje deponuotos neliečiamojo kapitalo priemonės gali būti naudojamos [[latest/TAR.EBB4FD337ADE#^s-faf80383d9b084d984b4f113|Finansinio tvarumo įstatymo 113 straipsnyje]] nustatyta tvarka pertvarkant užsienio banko filialą ar jį likviduojant [[latest/TAR.EBB4FD337ADE|Finansinio tvarumo įstatymo]] VII skyriuje nustatyta tvarka. ^s-b17df6f7df3ec62e1b634e61
+3. Užsienio banko filialas privalo [[#^s-bf8f92ea495bf7b8c0c6c6fd|šio straipsnio 2 dalyje]] nurodytas neliečiamojo kapitalo priemones deponuoti sąlyginio deponavimo sąskaitoje (angl. escrow account), kaip ji apibrėžiama 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1303/2013](https://eur-lex.europa.eu/eli/reg/1303/2013/oj), kuriuo nustatomos Europos regioninės plėtros fondui, Europos socialiniam fondui, Sanglaudos fondui, Europos žemės ūkio fondui kaimo plėtrai ir Europos jūros reikalų ir žuvininkystės fondui bendros nuostatos ir Europos regioninės plėtros fondui, Europos socialiniam fondui, Sanglaudos fondui ir Europos jūros reikalų ir žuvininkystės fondui taikytinos bendrosios nuostatos ir panaikinamas Tarybos [reglamentas (EB) Nr. 1083/2006](https://eur-lex.europa.eu/eli/reg/1083/2006/oj), su visais pakeitimais 2 straipsnio 26 dalyje, turimoje Lietuvos Respublikoje registruotoje kredito įstaigoje, kuri nėra jo pagrindinės įmonės finansinės grupės dalis. Sąlyginio deponavimo sąskaitoje deponuotos neliečiamojo kapitalo priemonės gali būti naudojamos [[latest/TAR.EBB4FD337ADE#^s-faf80383d9b084d984b4f113|Finansinio tvarumo įstatymo 113 straipsnyje]] nustatyta tvarka pertvarkant užsienio banko filialą ar jį likviduojant [[latest/TAR.EBB4FD337ADE|Finansinio tvarumo įstatymo]] VII skyriuje nustatyta tvarka. ^s-b17df6f7df3ec62e1b634e61
 
 
 
 ### 774 straipsnis. Likvidumo reikalavimai ^s-622d4beb70911fcf3a6ef83e
 
 
-1. Užsienio banko filialas privalo likvidųjį turtą, kurį reikia turėti laikantis padengimo likvidžiuoju turtu reikalavimo, nustatyto Reglamento (ES) Nr. 575/2013 šeštos dalies I antraštinėje dalyje ir 2014 m. spalio 10 d. Komisijos deleguotajame reglamente (ES) 2015/61, kuriuo dėl kredito įstaigoms taikomo padengimo likvidžiuoju turtu reikalavimo papildomas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 575/2013, deponuoti sąskaitoje, turimoje Lietuvos Respublikoje registruotoje kredito įstaigoje, kuri nėra jo pagrindinės įmonės finansinės grupės dalis. Jeigu sąskaitoje lieka likvidžiojo turto, kai jis buvo naudojamas netenkamų pinigų srautams padengti pagal Reglamento (ES) Nr. 575/2013 šeštos dalies I antraštinę dalį ir Komisijos deleguotąjį reglamentą (ES) 2015/61, šis likęs likvidusis turtas gali būti naudojamas [[latest/TAR.EBB4FD337ADE#^s-faf80383d9b084d984b4f113|Finansinio tvarumo įstatymo 113 straipsnyje]] nustatyta tvarka pertvarkant užsienio banko filialą ar jį likviduojant [[latest/TAR.EBB4FD337ADE|Finansinio tvarumo įstatymo]] VII skyriuje nustatyta tvarka. ^s-e7f147b0a0b01d513f25a852
+1. Užsienio banko filialas privalo likvidųjį turtą, kurį reikia turėti laikantis padengimo likvidžiuoju turtu reikalavimo, nustatyto Reglamento (ES) Nr. 575/2013 šeštos dalies I antraštinėje dalyje ir 2014 m. spalio 10 d. Komisijos deleguotajame [reglamente (ES) 2015/61](https://eur-lex.europa.eu/eli/reg/2015/61/oj), kuriuo dėl kredito įstaigoms taikomo padengimo likvidžiuoju turtu reikalavimo papildomas Europos Parlamento ir Tarybos reglamentas (ES) Nr. 575/2013, deponuoti sąskaitoje, turimoje Lietuvos Respublikoje registruotoje kredito įstaigoje, kuri nėra jo pagrindinės įmonės finansinės grupės dalis. Jeigu sąskaitoje lieka likvidžiojo turto, kai jis buvo naudojamas netenkamų pinigų srautams padengti pagal Reglamento (ES) Nr. 575/2013 šeštos dalies I antraštinę dalį ir Komisijos deleguotąjį [reglamentą (ES) 2015/61](https://eur-lex.europa.eu/eli/reg/2015/61/oj), šis likęs likvidusis turtas gali būti naudojamas [[latest/TAR.EBB4FD337ADE#^s-faf80383d9b084d984b4f113|Finansinio tvarumo įstatymo 113 straipsnyje]] nustatyta tvarka pertvarkant užsienio banko filialą ar jį likviduojant [[latest/TAR.EBB4FD337ADE|Finansinio tvarumo įstatymo]] VII skyriuje nustatyta tvarka. ^s-e7f147b0a0b01d513f25a852
 
 
 2. Priežiūros institucija turi teisę nereikalauti užsienio bankų filialų, atitinkančių šio Įstatymo [[#^s-a85adf45ba48df0d6b05748d|772 straipsnio 4 dalyje]] nustatytas sąlygas, atitikties likvidumo reikalavimams. ^s-814779e7e09c702a0fde61b0
@@ -4157,7 +4157,7 @@ PAPILDOMOS NUOSTATOS DĖL UŽSIENIO BANKŲ, LICENCIJUOTŲ NE EUROPOS SĄJUNGOS V
 5. Priežiūros institucijų kolegija užtikrina veiklos koordinavimą ir bendradarbiavimą su atitinkamomis užsienio valstybių priežiūros institucijomis. ^s-05b5da93e8ffb1c54724805e
 
 
-6. Šio straipsnio 1–[[#^s-05b5da93e8ffb1c54724805e|5 dalyse]] išdėstytų nuostatų įgyvendinimui taikomas Komisijos deleguotasis reglamentas, priimamas pagal Direktyvos 2013/36/ES 48p straipsnio 7 dalį. ^s-ad3b9120a41f28b497c45227
+6. Šio straipsnio [[#^s-f502b76b3b9df6fd878d7369|1]]–[[#^s-05b5da93e8ffb1c54724805e|5]] dalyse išdėstytų nuostatų įgyvendinimui taikomas Komisijos deleguotasis reglamentas, priimamas pagal Direktyvos 2013/36/ES 48p straipsnio 7 dalį. ^s-ad3b9120a41f28b497c45227
 
 
 
@@ -4463,7 +4463,7 @@ Nr. XII-1052, 2014-07-17, paskelbta TAR 2014-08-01, i. k. 2014-10747
 3. Teismas paskiria pertvarkymo institucijos pasiūlytą administratorių banko administratoriumi, jeigu jis vadovaujantis [[latest/68f2cad098b711e9ae2e9d61b1f977b3|Juridinių asmenų nemokumo įstatymu]] gali būti paskirtas nemokumo administratoriumi ir teismui kartu su prašymu paskirti banko administratorių yra pateiktas sutikimas – deklaracija, kurio turiniui mutatis mutandis taikomi [[latest/68f2cad098b711e9ae2e9d61b1f977b3|Juridinių asmenų nemokumo įstatyme]] nustatyti reikalavimai. ^s-d56c12b4c42143916a9315cc
 
 
-4. Teismo nutartis paskirti banko administratorių gali būti skundžiama teismui Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-aa3b295b3f7b5a2afc58a35e
+4. Teismo nutartis paskirti banko administratorių gali būti skundžiama teismui [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-aa3b295b3f7b5a2afc58a35e
 
 
 5. Banko administratorius pirmajam kreditorių susirinkimui pateikia banko bankroto proceso planą, kuriame turi būti nurodyta: ^s-a50ac9f84d577b3ebcebb6d2
@@ -4552,7 +4552,7 @@ Nr. XIII-2228, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10342
 
 
 2. Antrąja eile tenkinami reikalavimai dėl apdraustųjų indėlių, Vyriausybės paskirto juridinio asmens, įgyvendinančio valstybės politiką indėlių ir įsipareigojimų investuotojams draudimo srityje, reikalavimai dėl išlaidų, susijusių su Indėlių draudimo fondo lėšų panaudojimu pagal Indėlių ir įsipareigojimų investuotojams draudimo įstatymą ir (arba) Finansinio tvarumo įstatymą, taip pat valstybės reikalavimai dėl pagal [[latest/TAR.EBB4FD337ADE|Finansinio tvarumo įstatymo]] VIII skyrių suteiktos valstybės pagalbos turto, teisių ir įsipareigojimų perleidimui finansuoti. ^s-45a51c8938434a5ef42263c3
-TAR pastaba. [[#^s-45a51c8938434a5ef42263c3|87 straipsnio 2 dalies]] nuostatos taikomos bankų pertvarkymo procedūroms, vykdomoms pagal Lietuvos Respublikos finansinio tvarumo įstatymą nuo 2024-01-01, ir bankroto procesams, pradėtiems nuo 2024-01-01.
+TAR pastaba. 87 straipsnio 2 dalies nuostatos taikomos bankų pertvarkymo procedūroms, vykdomoms pagal Lietuvos Respublikos finansinio tvarumo įstatymą nuo 2024-01-01, ir bankroto procesams, pradėtiems nuo 2024-01-01.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
 
@@ -4564,7 +4564,7 @@ Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
 4. Ketvirtąja eile tenkinami fizinių asmenų ir labai mažų, mažų ir vidutinių įmonių, kaip jos apibrėžtos [[latest/TAR.640D50DB8877|Smulkiojo ir vidutinio verslo plėtros įstatyme]], reikalavimai dėl indėlių dalies, viršijančios draudžiamą sumą, numatytą [[latest/TAR.3BAADED2C30B#^s-cbb7495c7a05b789f36798c7|Indėlių ir įsipareigojimų investuotojams draudimo įstatymo 4 straipsnyje]], ir fizinių asmenų ir labai mažų, mažų ir vidutinių įmonių reikalavimai dėl indėlių, kurie būtų laikomi reikalavimus atitinkančiais indėliais, jeigu būtų laikomi Lietuvos Respublikoje įsisteigusiuose bankuose, o ne jų filialuose, esančiuose trečiosiose valstybėse. ^s-74abddd9723b07d6b8d63ff6
 
 
-5. Penktąja eile tenkinami kiti banko kreditorių reikalavimai, išskyrus šio straipsnio 1, 2, 3, 4, 6, 7, 8 ir [[#^s-9b1dab4e54986df63f3f8643|9 dalyse]] nurodytus reikalavimus. ^s-f866b10c19ffb1ae834fbc2d
+5. Penktąja eile tenkinami kiti banko kreditorių reikalavimai, išskyrus šio straipsnio [[#^s-7d3b5494d486a7a88b0a5ba4|1]], [[#^s-45a51c8938434a5ef42263c3|2]], [[#^s-242532de181d3c3481eb1838|3]], [[#^s-74abddd9723b07d6b8d63ff6|4]], [[#^s-fa456dfc52acaec63badab65|6]], [[#^s-9b63457b6637eff8a4c6a587|7]], [[#^s-b65f5b9270740341b2ee7a1c|8]] ir [[#^s-9b1dab4e54986df63f3f8643|9]] dalyse nurodytus reikalavimus. ^s-f866b10c19ffb1ae834fbc2d
 
 
 6. Šeštąja eile tenkinami kreditorių reikalavimai dėl skolos priemonių – obligacijų ar kitų formų perduodamos skolos, finansinių priemonių, kuriomis sukuriama arba pripažįstama skola (toliau šiame straipsnyje bet kuri (kurios) iš jų atskirai ar visos kartu – skolos priemonės), – jeigu jos atitinka visas šias sąlygas: ^s-fa456dfc52acaec63badab65
@@ -4579,14 +4579,14 @@ Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
 3) sutartiniuose dokumentuose ir prospekte, susijusiame su emisija, kai jis rengiamas, nustatyta, kad skolos priemonės turėtojo reikalavimas bus tenkinamas šioje dalyje nustatyta šeštąja eile. ^s-63b38f763e8886647fe76483
 
 
-7. Septintąja eile tenkinami kreditorių reikalavimai dėl bankui suteiktų pasitikėtinių (subordinuotų) paskolų ir banko išleistų ne nuosavybės vertybinių popierių, kurie turi visus pasitikėtinės (subordinuotos) paskolos požymius, išskyrus šio straipsnio 8 ir [[#^s-9b1dab4e54986df63f3f8643|9 dalyse]] nurodytus reikalavimus. ^s-9b63457b6637eff8a4c6a587
+7. Septintąja eile tenkinami kreditorių reikalavimai dėl bankui suteiktų pasitikėtinių (subordinuotų) paskolų ir banko išleistų ne nuosavybės vertybinių popierių, kurie turi visus pasitikėtinės (subordinuotos) paskolos požymius, išskyrus šio straipsnio [[#^s-b65f5b9270740341b2ee7a1c|8]] ir [[#^s-9b1dab4e54986df63f3f8643|9]] dalyse nurodytus reikalavimus. ^s-9b63457b6637eff8a4c6a587
 
 
 8. Aštuntąja eile tenkinami kreditorių reikalavimai dėl kapitalo priemonių, atitinkančių Reglamento (ES) Nr. 575/2013 [[#^s-4a26706df4953c94700ee0a2|63 straipsnyje]] nustatytas sąlygas. Jeigu šioje dalyje nurodyta kapitalo priemonė tik iš dalies pripažįstama nuosavomis lėšomis, visi iš tokios priemonės kylantys reikalavimai tenkinami šioje dalyje nustatyta eile. ^s-b65f5b9270740341b2ee7a1c
 
 
 9. Devintąja eile tenkinami kreditorių reikalavimai dėl kapitalo priemonių, atitinkančių Reglamento (ES) Nr. 575/2013 [[#^s-0a4014080ae8ee525c0a7bd1|52 straipsnio 1 dalyje]] nustatytas sąlygas. Jeigu šioje dalyje nurodyta kapitalo priemonė tik iš dalies pripažįstama nuosavomis lėšomis, visi iš tokios priemonės kylantys reikalavimai tenkinami šioje dalyje nustatyta eile. ^s-9b1dab4e54986df63f3f8643
-TAR pastaba. [[#^s-cba352ba3e1c277b4491882b|87 straipsnio]] nuostatos dėl kreditorių reikalavimų tenkinimo eilės taikomos pertvarkymo procedūroms, vykdomoms pagal Lietuvos Respublikos finansinio tvarumo įstatymą, ir bankroto procesams, kurie pradėti po įstatymo XIV-763 įsigaliojimo dienos (2022-01-01), išskyrus Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, [[#^s-cba352ba3e1c277b4491882b|87 straipsnių]] ir priedo pakeitimo [[latest/e606ec5055d111e9975f9c35aedfe438|įstatymo Nr. XIII-2022]] [[#^s-169218d1648d43df9a215d3a|4 straipsnio 2 dalyje]], Lietuvos Respublikos finansinių priemonių rinkų [[latest/TAR.AB7AFE2F35B2|įstatymo Nr. X-1024]] 106 straipsnio ir priedo pakeitimo [[latest/7143c27055d211e9975f9c35aedfe438|įstatymo Nr. XIII-2024]] [[#^s-a62a9589a0d6505476008d8c|3 straipsnio 2 dalyje]] ir Lietuvos Respublikos finansinio tvarumo [[latest/TAR.EBB4FD337ADE|įstatymo Nr. XI-393]] 102 straipsnio ir priedo pakeitimo [[latest/8f7fe44055d111e9975f9c35aedfe438|įstatymo Nr. XIII-2021]] [[#^s-a62a9589a0d6505476008d8c|3 straipsnio 2 dalyje]] nustatytus atvejus.
+TAR pastaba. [[#^s-cba352ba3e1c277b4491882b|87 straipsnio]] nuostatos dėl kreditorių reikalavimų tenkinimo eilės taikomos pertvarkymo procedūroms, vykdomoms pagal Lietuvos Respublikos finansinio tvarumo įstatymą, ir bankroto procesams, kurie pradėti po įstatymo XIV-763 įsigaliojimo dienos (2022-01-01), išskyrus Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-42f85d8c4dfa1458db92a148|2]], [[#^s-cba352ba3e1c277b4491882b|87]] straipsnių ir priedo pakeitimo [[latest/e606ec5055d111e9975f9c35aedfe438|įstatymo Nr. XIII-2022]] [[#^s-169218d1648d43df9a215d3a|4 straipsnio 2 dalyje]], Lietuvos Respublikos finansinių priemonių rinkų [[latest/TAR.AB7AFE2F35B2|įstatymo Nr. X-1024]] 106 straipsnio ir priedo pakeitimo [[latest/7143c27055d211e9975f9c35aedfe438|įstatymo Nr. XIII-2024]] [[#^s-a62a9589a0d6505476008d8c|3 straipsnio 2 dalyje]] ir Lietuvos Respublikos finansinio tvarumo [[latest/TAR.EBB4FD337ADE|įstatymo Nr. XI-393]] 102 straipsnio ir priedo pakeitimo [[latest/8f7fe44055d111e9975f9c35aedfe438|įstatymo Nr. XIII-2021]] [[#^s-a62a9589a0d6505476008d8c|3 straipsnio 2 dalyje]] nustatytus atvejus.
 
 
 Straipsnio pakeitimai:
@@ -4623,7 +4623,7 @@ BAIGIAMOSIOS NUOSTATOS
 1. Jei šis Įstatymas nustato griežtesnius ar papildomus reikalavimus veikiantiems bankams ar užsienio bankų padaliniams, negu nustatė teisės aktai iki šio Įstatymo įsigaliojimo, ir remiantis šiais reikalavimais reikia pertvarkyti banko ar užsienio banko padalinio veiklą, šie reikalavimai privalo būti įvykdyti ne vėliau kaip per vienus metus nuo šio Įstatymo įsigaliojimo dienos. Kol banko veikla nėra pertvarkyta pagal visus šio Įstatymo reikalavimus, bankas neturi teisės šio Įstatymo nustatyta tvarka kitoje Europos Sąjungos valstybėje narėje steigti filialo ar teikti finansinių paslaugų neįsteigęs filialo. ^s-9fa57819bfed48a9472e193e
 
 
-2. Šio Įstatymo normos, reglamentuojančios bankų reorganizavimą, pertvarkymą, likvidavimą, bankrotą, taikomos procedūroms, pradėtoms įsigaliojus šiam Įstatymui. Iki šio Įstatymo įsigaliojimo galiojęs Komercinių bankų įstatymas taikomas bankų reorganizavimo, likvidavimo ir bankroto procedūroms, jei sprendimai dėl banko reorganizavimo, likvidavimo ar bankroto priimti iki šio Įstatymo įsigaliojimo. ^s-cbc3a2906e354eb390dd0369
+2. Šio Įstatymo normos, reglamentuojančios bankų reorganizavimą, pertvarkymą, likvidavimą, bankrotą, taikomos procedūroms, pradėtoms įsigaliojus šiam Įstatymui. Iki šio Įstatymo įsigaliojimo galiojęs [Komercinių bankų įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085) taikomas bankų reorganizavimo, likvidavimo ir bankroto procedūroms, jei sprendimai dėl banko reorganizavimo, likvidavimo ar bankroto priimti iki šio Įstatymo įsigaliojimo. ^s-cbc3a2906e354eb390dd0369
 
 
 3. Jei iki šio Įstatymo įsigaliojimo priežiūros institucijai yra paduoti prašymai išduoti leidimus, jie nagrinėjami ir sprendimai priimami prašymo padavimo metu galiojusių teisės aktų nustatyta tvarka. ^s-c69f96edab52076c5509b39e
@@ -4642,91 +4642,91 @@ BAIGIAMOSIOS NUOSTATOS
 Įsigaliojus šiam Įstatymui, netenka galios:
 
 
-1) Lietuvos Respublikos komercinių bankų įstatymas (Žin., 1995, Nr. 2-33); ^s-d5ff87d31f404c1d520de835
+1) [Lietuvos Respublikos komercinių bankų įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085) (Žin., 1995, Nr. 2-33); ^s-d5ff87d31f404c1d520de835
 
 
-2) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos komercinių bankų įstatymo papildymo“ (Žin., 1995, Nr. 107-2411); ^s-242645538a4d1ba067a6fd35
+2) Lietuvos Respublikos įstatymas [„Dėl Lietuvos Respublikos komercinių bankų įstatymo papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.57728B7E12C4) (Žin., 1995, Nr. 107-2411); ^s-242645538a4d1ba067a6fd35
 
 
-3) Lietuvos Respublikos komercinių [[#^s-1da1553dfe8dcc899bb15a35|bankų įstatymo 34 straipsnio]] pakeitimo ir papildymo įstatymas (Žin., 1996, Nr. 19-495); ^s-11f8d91e055045d42fb5f8ff
+3) [Lietuvos Respublikos komercinių bankų įstatymo 34 straipsnio pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.D230DD94D9F2) (Žin., 1996, Nr. 19-495); ^s-11f8d91e055045d42fb5f8ff
 
 
-4) Lietuvos Respublikos komercinių [[#^s-54559ab8b5c1603eb4ef8add|bankų įstatymo 40 ir 47 straipsnių]] pakeitimo įstatymas (Žin., 1996, Nr. 41-989); ^s-3e495e0dbc6a65dd705e1717
+4) Lietuvos Respublikos komercinių bankų įstatymo 40 ir 47 straipsnių pakeitimo įstatymas (Žin., 1996, Nr. 41-989); ^s-3e495e0dbc6a65dd705e1717
 
 
-5) Lietuvos Respublikos komercinių [[#^s-b3ca387456c8e7b745f28780|bankų įstatymo 2, 6, 7, 10, 11, 14 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 1996, Nr. 57-1337); ^s-7bfccc37ef02f1e83f4296fb
+5) [Lietuvos Respublikos komercinių bankų įstatymo 2, 6, 7, 10, 11, 14 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.2B9A9CE3BEF3) (Žin., 1996, Nr. 57-1337); ^s-7bfccc37ef02f1e83f4296fb
 
 
-6) Lietuvos Respublikos komercinių [[#^s-13b8a2bf7294c2450f68df13|bankų įstatymo 34 ir 40 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 1996, Nr. 65-1535); ^s-9b0a45e793ad2ccee0d0893a
+6) [Lietuvos Respublikos komercinių bankų įstatymo 34 ir 40 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.6FCF3254AC7D) (Žin., 1996, Nr. 65-1535); ^s-9b0a45e793ad2ccee0d0893a
 
 
-7) Lietuvos Respublikos komercinių [[#^s-e81698b022e7b5576eb0cb28|bankų įstatymo 37 straipsnio]] papildymo įstatymas (Žin., 1996, Nr. 105-2397); ^s-646a2ab6530aed752a1571cc
+7) [Lietuvos Respublikos komercinių bankų įstatymo 37 straipsnio papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.7A211772AA5D) (Žin., 1996, Nr. 105-2397); ^s-646a2ab6530aed752a1571cc
 
 
-8) Lietuvos Respublikos komercinių [[#^s-72ec04be32d50973d50a1656|bankų įstatymo 30 straipsnio]] papildymo įstatymas (Žin., 1997, Nr. 33-811); ^s-ad723469f83338e3f6ba7a16
+8) [Lietuvos Respublikos komercinių bankų įstatymo 30 straipsnio papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.21B520B02FA5) (Žin., 1997, Nr. 33-811); ^s-ad723469f83338e3f6ba7a16
 
 
-9) Lietuvos Respublikos komercinių [[#^s-396199178dfb82f20681984b|bankų įstatymo 31 straipsnio]] pakeitimo įstatymas (Žin., 1997, Nr. 64-1504); ^s-ef753d01db832257207da634
+9) [Lietuvos Respublikos komercinių bankų įstatymo 31 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.BD186D8327EF) (Žin., 1997, Nr. 64-1504); ^s-ef753d01db832257207da634
 
 
-10) Lietuvos Respublikos komercinių [[#^s-5f1c64dd81a852452e7d02b0|bankų įstatymo papildymo 53(1) straipsniu ir 17, 37, 39, 40, 53, 54 straipsnių]] pakeitimo įstatymas (Žin., 1997, Nr. 66-1595); ^s-f7df107ebe143f5ca94b40c8
+10) [Lietuvos Respublikos komercinių bankų įstatymo papildymo 53(1) straipsniu ir 17, 37, 39, 40, 53, 54 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.CBA1D7AC5320) (Žin., 1997, Nr. 66-1595); ^s-f7df107ebe143f5ca94b40c8
 
 
-11) Lietuvos Respublikos komercinių [[#^s-a0ab3814e82ecb7aa41ef227|bankų įstatymo 6 straipsnio]] pakeitimo įstatymas (Žin., 1997, Nr. 84-2092); ^s-11d8cf77e463156143dde049
+11) Lietuvos Respublikos komercinių bankų įstatymo 6 straipsnio pakeitimo įstatymas (Žin., 1997, Nr. 84-2092); ^s-11d8cf77e463156143dde049
 
 
-12) Lietuvos Respublikos komercinių [[#^s-92072f1bf3cc4055ab0d54c7|bankų įstatymo 28 straipsnio]] pakeitimo įstatymas (Žin., 1997, Nr. 117-3004); ^s-cbee0db9723114b87af62bc8
+12) [Lietuvos Respublikos komercinių bankų įstatymo 28 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.3A182E2FDEA3) (Žin., 1997, Nr. 117-3004); ^s-cbee0db9723114b87af62bc8
 
 
-13) Lietuvos Respublikos komercinių [[#^s-5f1c64dd81a852452e7d02b0|bankų įstatymo 6, 53, 54 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 1999, Nr. 66-2119); ^s-24a5d13f4897fc049310f044
+13) [Lietuvos Respublikos komercinių bankų įstatymo 6, 53, 54 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.7834AFFC5F23) (Žin., 1999, Nr. 66-2119); ^s-24a5d13f4897fc049310f044
 
 
-14) Lietuvos Respublikos komercinių [[#^s-a0ab3814e82ecb7aa41ef227|bankų įstatymo 6 straipsnio]] pakeitimo įstatymas (Žin., 2000, Nr. 28-768); ^s-94e09a395cae2c18cbd6334d
+14) Lietuvos Respublikos komercinių bankų įstatymo 6 straipsnio pakeitimo įstatymas (Žin., 2000, Nr. 28-768); ^s-94e09a395cae2c18cbd6334d
 
 
-15) Lietuvos Respublikos komercinių [[#^s-2fa66bdd22f2db0c4d50deeb|bankų įstatymo 6, 26 straipsnių]] papildymo įstatymas (Žin., 2000, Nr. 29-804); ^s-5b2e43a0035afce8d0206b88
+15) [Lietuvos Respublikos komercinių bankų įstatymo 6, 26 straipsnių papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.CC93A1383303) (Žin., 2000, Nr. 29-804); ^s-5b2e43a0035afce8d0206b88
 
 
-16) Lietuvos Respublikos komercinių [[#^s-1da1553dfe8dcc899bb15a35|bankų įstatymo 6, 7, 8 ir 34 straipsnių]] pakeitimo įstatymas (Žin., 2000, Nr. 61-1836); ^s-790437824446593768f088f2
+16) [Lietuvos Respublikos komercinių bankų įstatymo 6, 7, 8 ir 34 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.C14401E24F97) (Žin., 2000, Nr. 61-1836); ^s-790437824446593768f088f2
 
 
-17) Lietuvos Respublikos komercinių [[#^s-1da1553dfe8dcc899bb15a35|bankų įstatymo 2, 6, 7, 14, 18, 24, 27, 33, 34 straipsnių]] pakeitimo įstatymas (Žin., 2001, Nr. 16-492); ^s-d7425c0f499624ebfc371d52
+17) [Lietuvos Respublikos komercinių bankų įstatymo 2, 6, 7, 14, 18, 24, 27, 33, 34 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.6B34014A6347) (Žin., 2001, Nr. 16-492); ^s-d7425c0f499624ebfc371d52
 
 
-18) Lietuvos Respublikos komercinių [[#^s-54559ab8b5c1603eb4ef8add|bankų įstatymo 40 ir 47 straipsnių]] pakeitimo įstatymas (Žin., 2001, Nr. 21-695); ^s-198b5f9fd6a8fb60841e93d0
+18) Lietuvos Respublikos komercinių bankų įstatymo 40 ir 47 straipsnių pakeitimo įstatymas (Žin., 2001, Nr. 21-695); ^s-198b5f9fd6a8fb60841e93d0
 
 
-19) Lietuvos Respublikos komercinių [[#^s-d4503b708c31e746222b0d60|bankų įstatymo 53 straipsnio]] pakeitimo įstatymas (Žin., 2001, Nr. 23-761); ^s-d54aff1756a8b1cd5f97aa1d
+19) Lietuvos Respublikos komercinių bankų įstatymo 53 straipsnio pakeitimo įstatymas (Žin., 2001, Nr. 23-761); ^s-d54aff1756a8b1cd5f97aa1d
 
 
-20) Lietuvos Respublikos komercinių [[#^s-3f332316ada2f26c94961fcb|bankų įstatymo 6 ir 8 straipsnių]] pakeitimo įstatymas (Žin., 2001, Nr. 28-896); ^s-88d824fc47ed1705a3285460
+20) [Lietuvos Respublikos komercinių bankų įstatymo 6 ir 8 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.3CA8EB15A081) (Žin., 2001, Nr. 28-896); ^s-88d824fc47ed1705a3285460
 
 
-21) Lietuvos Respublikos komercinių [[#^s-5dc07602ca34d921f8286374|bankų įstatymo 10 ir 11 straipsnių]] pakeitimo įstatymas (Žin., 2001, Nr. 39-1354); ^s-97dfaa8b379393cf926ce82d
+21) [Lietuvos Respublikos komercinių bankų įstatymo 10 ir 11 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.6A6EBC7DA3DA) (Žin., 2001, Nr. 39-1354); ^s-97dfaa8b379393cf926ce82d
 
 
-22) Lietuvos Respublikos komercinių [[#^s-400106ac2f2cd6788a351247|bankų įstatymo 44, 46, 47, 53, 53(1) straipsnių pakeitimo ir 50, 51, 52 straipsnių]] pripažinimo netekusiais galios įstatymas (Žin., 2001,  Nr. 60-2140); ^s-122776b137a1252999ec713f
+22) [Lietuvos Respublikos komercinių bankų įstatymo 44, 46, 47, 53, 53(1) straipsnių pakeitimo ir 50, 51, 52 straipsnių pripažinimo netekusiais galios įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.9B5108AD89D2) (Žin., 2001,  Nr. 60-2140); ^s-122776b137a1252999ec713f
 
 
-23) Lietuvos Respublikos komercinių [[#^s-5f1c64dd81a852452e7d02b0|bankų įstatymo 54 straipsnio]] pakeitimo įstatymas (Žin., 2002, Nr. 13-476); ^s-eaa182ef2e48d5e66ebd817e
+23) [Lietuvos Respublikos komercinių bankų įstatymo 54 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.954B78349826) (Žin., 2002, Nr. 13-476); ^s-eaa182ef2e48d5e66ebd817e
 
 
-24) Lietuvos Respublikos komercinių [[#^s-396199178dfb82f20681984b|bankų įstatymo 31 straipsnio]] pakeitimo įstatymas (Žin., 2002, Nr. 33-1253); ^s-79456378d2134e177acd60aa
+24) [Lietuvos Respublikos komercinių bankų įstatymo 31 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.BD186D8327EF) (Žin., 2002, Nr. 33-1253); ^s-79456378d2134e177acd60aa
 
 
-25) Lietuvos Respublikos komercinių [[#^s-5f1c64dd81a852452e7d02b0|bankų įstatymo 54 straipsnio]] pakeitimo įstatymo [[#^s-68c0af30843eabaca439f236|1 straipsnio]] pakeitimo įstatymas (Žin., 2002, Nr. 65-2637); ^s-9db09db991c60bbccaddc510
+25) [Lietuvos Respublikos komercinių bankų įstatymo 54 straipsnio pakeitimo įstatymo 1 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.771376A85221) (Žin., 2002, Nr. 65-2637); ^s-9db09db991c60bbccaddc510
 
 
-26) Lietuvos Respublikos komercinių [[#^s-d4503b708c31e746222b0d60|bankų įstatymo 53 straipsnio]] pakeitimo įstatymas (Žin., 2002, Nr. 65-2638); ^s-b601b667e3230251b80a6fa9
+26) Lietuvos Respublikos komercinių bankų įstatymo 53 straipsnio pakeitimo įstatymas (Žin., 2002, Nr. 65-2638); ^s-b601b667e3230251b80a6fa9
 
 
-27) Lietuvos Respublikos komercinių [[#^s-b3ca387456c8e7b745f28780|bankų įstatymo 14 straipsnio]] pakeitimo įstatymas (Žin., 2003, Nr. 38-1691); ^s-653ba7b96c707113e8e7e68e
+27) [Lietuvos Respublikos komercinių bankų įstatymo 14 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.07E9887600D6) (Žin., 2003, Nr. 38-1691); ^s-653ba7b96c707113e8e7e68e
 
 
-28) Lietuvos Respublikos komercinių [[#^s-04c3d29e25937e52714e4fd6|bankų įstatymo 46 straipsnio]] papildymo įstatymas (Žin., 2003, Nr. 61-2756); ^s-b60a573ff2d849270fe561f3
+28) [Lietuvos Respublikos komercinių bankų įstatymo 46 straipsnio papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.FFEA07D125CE) (Žin., 2003, Nr. 61-2756); ^s-b60a573ff2d849270fe561f3
 
 
-29) Lietuvos Respublikos komercinių [[#^s-1da1553dfe8dcc899bb15a35|bankų įstatymo 34 straipsnio]] pakeitimo įstatymas (Žin., 2004, Nr. 4-50). ^s-c5339c93b28a42bb179c0072
+29) [Lietuvos Respublikos komercinių bankų įstatymo 34 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.0B117ABDEF54) (Žin., 2004, Nr. 4-50). ^s-c5339c93b28a42bb179c0072
 
 
 
@@ -4759,10 +4759,10 @@ Nr. XIV-2881, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13489
 3. 2001 m. balandžio 4 d. Europos Parlamento ir Tarybos direktyva 2001/24/EB dėl kredito įstaigų reorganizavimo ir likvidavimo su paskutiniais pakeitimais, padarytais 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES. ^s-df1fb13910030ed29d6b16ee
 
 
-4. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) 462/2013. ^s-99ce20fbbee2becfb64ce252
+4. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamentu (ES) 462/2013. ^s-99ce20fbbee2becfb64ce252
 
 
-5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2024 m. gegužės 31 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1619. ^s-ba28ee9539f0b40d44916d6e
+5. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB, su paskutiniais pakeitimais, padarytais 2024 m. gegužės 31 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1619](https://eur-lex.europa.eu/eli/dir/2024/1619/oj). ^s-ba28ee9539f0b40d44916d6e
 Punkto pakeitimai:
 Nr. XIV-2881, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13489
 Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
@@ -4772,29 +4772,29 @@ Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
 6. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/49/ES dėl indėlių garantijų sistemų. ^s-8e03310297ac8027ede12f0e
 
 
-7. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų̨ ir investicinių įmonių̨ gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1174. ^s-47244c28a263aa1daeffe3d9
+7. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/59/ES, kuria nustatoma kredito įstaigų̨ ir investicinių įmonių̨ gaivinimo ir pertvarkymo sistema ir iš dalies keičiamos Tarybos direktyva 82/891/EEB, direktyvos 2001/24/EB, 2002/47/EB, 2004/25/EB, 2005/56/EB, 2007/36/EB, 2011/35/ES, 2012/30/ES bei 2013/36/ES ir Europos Parlamento ir Tarybos [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bei (ES) Nr. 648/2012, su paskutiniais pakeitimais, padarytais 2024 m. balandžio 11 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1174](https://eur-lex.europa.eu/eli/dir/2024/1174/oj). ^s-47244c28a263aa1daeffe3d9
 Punkto pakeitimai:
 Nr. XIV-2881, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13489
 Nr. XV-846, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06955
 
 
 
-8. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1286/2014 dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1156. ^s-8eb0c2850bb94bb5aa557573
+8. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1286/2014](https://eur-lex.europa.eu/eli/reg/1286/2014/oj) dėl mažmeninių investicinių produktų paketų ir draudimo principu pagrįstų investicinių produktų (MIPP ir DIP) pagrindinės informacijos dokumentų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/1156](https://eur-lex.europa.eu/eli/reg/2019/1156/oj). ^s-8eb0c2850bb94bb5aa557573
 
 
-9. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo. ^s-388e3128aeafd26ab482ed9a
+9. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2022/2556](https://eur-lex.europa.eu/eli/dir/2022/2556/oj), kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo. ^s-388e3128aeafd26ab482ed9a
 Papildyta punktu:
 Nr. XV-295, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11964
 
 
 
-10. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011. ^s-1408e84fb90303a3199ad980
+10. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami [reglamentai (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj), (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011. ^s-1408e84fb90303a3199ad980
 Papildyta punktu:
 Nr. XV-295, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11964
 
 
 
-11. 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/3005 dėl reitingavimo pagal aplinkos, socialinius ir valdymo (ASV) kriterijus veiklos skaidrumo ir sąžiningumo, kuriuo iš dalies keičiami reglamentai (ES) 2019/2088 ir (ES) 2023/2859. ^s-650d132f7e9b8280c076cfdb
+11. 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2024/3005](https://eur-lex.europa.eu/eli/reg/2024/3005/oj) dėl reitingavimo pagal aplinkos, socialinius ir valdymo (ASV) kriterijus veiklos skaidrumo ir sąžiningumo, kuriuo iš dalies keičiami [reglamentai (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) ir (ES) 2023/2859. ^s-650d132f7e9b8280c076cfdb
 Papildyta straipsnio dalimi:
 Nr. XV-846, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06955
 
@@ -4848,7 +4848,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-393, 2009-07-22, Žin., 2009, Nr. 93-3985 (2009-08-04)
 [[latest/TAR.EBB4FD337ADE|FINANSINIO TVARUMO ĮSTATYMAS]]
 Bankų įstatymo taikymo nusakymas
-Kai valstybė įsigyja banko akcijas ar jas paima visuomenės poreikiams, [[#^s-3bc9320bf2e9f99d9c281892|Bankų įstatymo 5 straipsnio]] 2–[[#^s-8eb0c2850bb94bb5aa557573|8 dalių]], [[#^s-4eb839733cbab25e57da673e|23 straipsnio 1 dalies]], 24, [[#^s-eb94e1ab9768b1b95813d633|25 straipsnių]] ir [[#^s-c50ba02e259b767c7470884d|41 straipsnio]] 4 ir [[#^s-8eb0c2850bb94bb5aa557573|8 dalių]] nuostatos netaikomos.
+Kai valstybė įsigyja banko akcijas ar jas paima visuomenės poreikiams, [[#^s-3bc9320bf2e9f99d9c281892|Bankų įstatymo 5 straipsnio]] [[#^s-12194c941b896f795b7613f5|2]]–[[#^s-8f0ded3f1986f244e1c5a498|8]] dalių, [[#^s-4eb839733cbab25e57da673e|23 straipsnio 1 dalies]], [[#^s-252a32ae1a2810f697bb33da|24]], [[#^s-eb94e1ab9768b1b95813d633|25]] straipsnių ir [[#^s-c50ba02e259b767c7470884d|41 straipsnio]] [[#^s-505837c585ca489aa6fa5e82|4]] ir [[#^s-b82b0dc56eb6f8a495348935|8]] dalių nuostatos netaikomos.
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4869,7 +4869,7 @@ Nr. XI-608, 2009-12-22, Žin., 2010, Nr. 1-19 (2010-01-05)
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1337, 2011-04-21, Žin., 2011, Nr. 52-2512 (2011-05-03)
-[[#^s-cba352ba3e1c277b4491882b|BANKŲ ĮSTATYMO 38, 39, 40, 41, 44, 48, 54, 56, 58, 59, 60, 61, 64, 65, 67, 87 STRAIPSNIŲ]], DEVINTOJO SKIRSNIO PAVADINIMO, ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 70(1) STRAIPSNIU ĮSTATYMAS
+BANKŲ ĮSTATYMO [[#^s-0012f595b40fc45cead6d46d|38]], [[#^s-b6e3dcd7f86b46ffb1dd4983|39]], [[#^s-13b8a2bf7294c2450f68df13|40]], [[#^s-c50ba02e259b767c7470884d|41]], [[#^s-7829c449fcaa0dc8b4b624fd|44]], [[#^s-bc676b8ce9c322305283d115|48]], [[#^s-5f1c64dd81a852452e7d02b0|54]], [[#^s-154df61cc07e75a19678e5f9|56]], [[#^s-b98cfebb5ae0e6115e1a866d|58]], [[#^s-b42e0d05dcbaeb9af60a3efc|59]], [[#^s-1abc40224c28cc88698e1ecd|60]], [[#^s-44f830757be286fc2863e5b5|61]], [[#^s-12d9949d50aa938bcc93dd30|64]], [[#^s-f8b4491577818839d66a9c2d|65]], [[#^s-02db70e49d2be18c326e6385|67]], [[#^s-cba352ba3e1c277b4491882b|87]] STRAIPSNIŲ, DEVINTOJO SKIRSNIO PAVADINIMO, ĮSTATYMO PRIEDO PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 70(1) STRAIPSNIU ĮSTATYMAS
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4879,7 +4879,7 @@ Nr. XI-1598, 2011-09-22, Žin., 2011, Nr. 119-5616 (2011-10-01)
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1714, 2011-11-17, Žin., 2011, Nr. 139-6554 (2011-11-18)
-[[#^s-b8cfd9c18acfd730c4449979|BANKŲ ĮSTATYMO 10, 23, 72, 76, 85 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 76(1) STRAIPSNIU IR 28, [[#^s-8900a2c16ee7c40437c162da|29 STRAIPSNIŲ]] PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+BANKŲ ĮSTATYMO [[#^s-f7beced414307bddedbee19f|10]], [[#^s-dedeb68e728392b8b480d6bf|23]], [[#^s-7fdcbd7065b5bff92331cd84|72]], [[#^s-f785f28b18cce86fa7dfd6fe|76]], [[#^s-b8cfd9c18acfd730c4449979|85]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 76(1) STRAIPSNIU IR [[#^s-92072f1bf3cc4055ab0d54c7|28]], [[#^s-8900a2c16ee7c40437c162da|29]] STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4926,12 +4926,12 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-36682f970559c7ad08842e91
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1545, 2015-03-19, paskelbta TAR 2015-03-31, i. k. 2015-04828
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 3, 4, 5, 9, 10, 11, 12, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23, 24, 34, 35, 36, 40, 44, 48, 52, 53, 57, 59, 61, 64, 65, 67, 69, 70, 70-1, 71, 72, 73, 74, 75, 76, 78, 81, 82, [[#^s-20928e1e32f7404e7be6abf7|86 straipsnių]] ir priedo pakeitimo, Įstatymo papildymo 65-1, 68-1 ir 70-2 straipsniais ir 6, 7, 8, 18, 26, 37, 38, 39, 43, 49, [[#^s-972e927d898e7d04d7481216|50 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-42f85d8c4dfa1458db92a148|2]], [[#^s-6c1f035b00006587521604f2|3]], [[#^s-590c3f23eafd4338840501c4|4]], [[#^s-3bc9320bf2e9f99d9c281892|5]], [[#^s-e1cb05d8773d981202c21a54|9]], [[#^s-f7beced414307bddedbee19f|10]], [[#^s-5dc07602ca34d921f8286374|11]], [[#^s-f3b89ff6a3b51f0e6f245889|12]], [[#^s-080099adb028675fc3ef5226|13]], [[#^s-b3ca387456c8e7b745f28780|14]], [[#^s-3a7e59e6db2bb15e22ce25cd|15]], [[#^s-45f66d3fdc99283c6e309273|16]], [[#^s-a576ec1aba948da03dc64b71|17]], [[#^s-19354edf6a19d18606fb3b7e|19]], [[#^s-131fde5df4a777581f6984a2|20]], [[#^s-e0618a24c209ea233a9b6a68|21]], [[#^s-f39354bdeaba97bca27d019a|22]], [[#^s-dedeb68e728392b8b480d6bf|23]], [[#^s-252a32ae1a2810f697bb33da|24]], [[#^s-1da1553dfe8dcc899bb15a35|34]], [[#^s-d44d3cea7a0af3e6ced96e94|35]], [[#^s-98adf18023998bc37401eff0|36]], [[#^s-13b8a2bf7294c2450f68df13|40]], [[#^s-7829c449fcaa0dc8b4b624fd|44]], [[#^s-bc676b8ce9c322305283d115|48]], [[#^s-400106ac2f2cd6788a351247|52]], [[#^s-d4503b708c31e746222b0d60|53]], [[#^s-2ec541c138863990b7935be4|57]], [[#^s-b42e0d05dcbaeb9af60a3efc|59]], [[#^s-44f830757be286fc2863e5b5|61]], [[#^s-12d9949d50aa938bcc93dd30|64]], [[#^s-f8b4491577818839d66a9c2d|65]], [[#^s-02db70e49d2be18c326e6385|67]], [[#^s-0d3992aa29eeb13f5d52e14d|69]], [[#^s-7c30a69de8c7dcdbdece73e3|70]], 70-1, [[#^s-25488f3b2f88546c57e17c1a|71]], [[#^s-7fdcbd7065b5bff92331cd84|72]], [[#^s-4b7a383eec7c4f2389b14ac0|73]], [[#^s-36682f970559c7ad08842e91|74]], [[#^s-3ea38a8f19445d1c936b3f6d|75]], [[#^s-f785f28b18cce86fa7dfd6fe|76]], [[#^s-2bfe732b9213e0434a79f85b|78]], [[#^s-ac648458edf015c78b7a8a31|81]], [[#^s-1bfa753fb2251e3dcc1484db|82]], [[#^s-20928e1e32f7404e7be6abf7|86]] straipsnių ir priedo pakeitimo, Įstatymo papildymo 65-1, 68-1 ir 70-2 straipsniais ir [[#^s-a0ab3814e82ecb7aa41ef227|6]], [[#^s-1692184e597c5026daf7cee1|7]], [[#^s-3f332316ada2f26c94961fcb|8]], [[#^s-f51657c0395c40b79dacb59f|18]], [[#^s-2fa66bdd22f2db0c4d50deeb|26]], [[#^s-e81698b022e7b5576eb0cb28|37]], [[#^s-0012f595b40fc45cead6d46d|38]], [[#^s-b6e3dcd7f86b46ffb1dd4983|39]], [[#^s-54c63a8d4f4837b870e17355|43]], [[#^s-6215a365e019d604a7e3cd28|49]], [[#^s-972e927d898e7d04d7481216|50]] straipsnių pripažinimo netekusiais galios įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1692, 2015-05-14, paskelbta TAR 2015-05-20, i. k. 2015-07668
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 1, 9, 23, 34, 64, 66 ir [[#^s-25488f3b2f88546c57e17c1a|71 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-68c0af30843eabaca439f236|1]], [[#^s-e1cb05d8773d981202c21a54|9]], [[#^s-dedeb68e728392b8b480d6bf|23]], [[#^s-1da1553dfe8dcc899bb15a35|34]], [[#^s-12d9949d50aa938bcc93dd30|64]], [[#^s-6cd0140f18a841379e55f0e7|66]] ir [[#^s-25488f3b2f88546c57e17c1a|71]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4941,7 +4941,7 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-2895dd36bbcf3bc11d8f0da6
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2055, 2015-11-19, paskelbta TAR 2015-12-02, i. k. 2015-19165
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 10, 61, 62, 67, 71, 72, 73, 75, 76, 77, 83, 84, 85, [[#^s-cba352ba3e1c277b4491882b|87 straipsnių]], priedo pakeitimo, Įstatymo papildymo 36-1, 75-1, 75-2 straipsniais, 76-1 straipsnio ir tryliktojo skirsnio pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-42f85d8c4dfa1458db92a148|2]], [[#^s-f7beced414307bddedbee19f|10]], [[#^s-44f830757be286fc2863e5b5|61]], [[#^s-85fb80ec3e5eff8555eed43b|62]], [[#^s-02db70e49d2be18c326e6385|67]], [[#^s-25488f3b2f88546c57e17c1a|71]], [[#^s-7fdcbd7065b5bff92331cd84|72]], [[#^s-4b7a383eec7c4f2389b14ac0|73]], [[#^s-3ea38a8f19445d1c936b3f6d|75]], [[#^s-f785f28b18cce86fa7dfd6fe|76]], [[#^s-ab0201f2fa57971d342d3087|77]], [[#^s-9c39e990c756720460531dae|83]], [[#^s-dfb0e1e4cec9f10924bf83f7|84]], [[#^s-b8cfd9c18acfd730c4449979|85]], [[#^s-cba352ba3e1c277b4491882b|87]] straipsnių, priedo pakeitimo, Įstatymo papildymo 36-1, 75-1, 75-2 straipsniais, 76-1 straipsnio ir tryliktojo skirsnio pripažinimo netekusiais galios įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4951,7 +4951,7 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-252a32ae1a2810f697bb33da
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2570, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20323
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 55, [[#^s-12d9949d50aa938bcc93dd30|64 straipsnių]] pakeitimo ir Įstatymo papildymo 56-1 straipsniu įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-2895dd36bbcf3bc11d8f0da6|55]], [[#^s-12d9949d50aa938bcc93dd30|64]] straipsnių pakeitimo ir Įstatymo papildymo 56-1 straipsniu įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4961,12 +4961,12 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-3a7e59e6db2bb15e22ce25cd
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2568, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20322
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 4, 9 ir [[#^s-13b8a2bf7294c2450f68df13|40 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-42f85d8c4dfa1458db92a148|2]], [[#^s-590c3f23eafd4338840501c4|4]], [[#^s-e1cb05d8773d981202c21a54|9]] ir [[#^s-13b8a2bf7294c2450f68df13|40]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-97, 2016-12-15, paskelbta TAR 2016-12-23, i. k. 2016-29409
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 36, 62 ir [[#^s-4a26706df4953c94700ee0a2|63 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-98adf18023998bc37401eff0|36]], [[#^s-85fb80ec3e5eff8555eed43b|62]] ir [[#^s-4a26706df4953c94700ee0a2|63]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4976,22 +4976,22 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-4b7a383eec7c4f2389b14ac0
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-729, 2017-11-16, paskelbta TAR 2017-11-28, i. k. 2017-18796
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 16 ir [[#^s-1da1553dfe8dcc899bb15a35|34 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-45f66d3fdc99283c6e309273|16]] ir [[#^s-1da1553dfe8dcc899bb15a35|34]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1098, 2018-04-17, paskelbta TAR 2018-04-27, i. k. 2018-06739
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 56, 72 ir [[#^s-ab0201f2fa57971d342d3087|77 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-154df61cc07e75a19678e5f9|56]], [[#^s-7fdcbd7065b5bff92331cd84|72]] ir [[#^s-ab0201f2fa57971d342d3087|77]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1232, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09840
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 9, 15, 34, 35, 59, 62, 64, 65, 67, 69, 70-1, 72, 73, 74, 75-1 straipsnių, priedo pakeitimo ir 65-1, 66, 68, 68-1 straipsnių pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-42f85d8c4dfa1458db92a148|2]], [[#^s-e1cb05d8773d981202c21a54|9]], [[#^s-3a7e59e6db2bb15e22ce25cd|15]], [[#^s-1da1553dfe8dcc899bb15a35|34]], [[#^s-d44d3cea7a0af3e6ced96e94|35]], [[#^s-b42e0d05dcbaeb9af60a3efc|59]], [[#^s-85fb80ec3e5eff8555eed43b|62]], [[#^s-12d9949d50aa938bcc93dd30|64]], [[#^s-f8b4491577818839d66a9c2d|65]], [[#^s-02db70e49d2be18c326e6385|67]], [[#^s-0d3992aa29eeb13f5d52e14d|69]], 70-1, [[#^s-7fdcbd7065b5bff92331cd84|72]], [[#^s-4b7a383eec7c4f2389b14ac0|73]], [[#^s-36682f970559c7ad08842e91|74]], 75-1 straipsnių, priedo pakeitimo ir 65-1, [[#^s-6cd0140f18a841379e55f0e7|66]], [[#^s-889b7ea554d08c92a1da8a37|68]], 68-1 straipsnių pripažinimo netekusiais galios įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1305, 2018-06-27, paskelbta TAR 2018-07-04, i. k. 2018-11310
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 56, 72 ir [[#^s-ab0201f2fa57971d342d3087|77 straipsnių]] pakeitimo [[latest/136143c049e511e8ade598b2394a491d|įstatymo Nr. XIII-1098]] 1 ir [[#^s-42f85d8c4dfa1458db92a148|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-154df61cc07e75a19678e5f9|56]], [[#^s-7fdcbd7065b5bff92331cd84|72]] ir [[#^s-ab0201f2fa57971d342d3087|77]] straipsnių pakeitimo [[latest/136143c049e511e8ade598b2394a491d|įstatymo Nr. XIII-1098]] [[#^s-68c0af30843eabaca439f236|1]] ir [[#^s-42f85d8c4dfa1458db92a148|2]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5001,52 +5001,52 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-2895dd36bbcf3bc11d8f0da6
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2022, 2019-03-26, paskelbta TAR 2019-04-03, i. k. 2019-05392
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, [[#^s-cba352ba3e1c277b4491882b|87 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-42f85d8c4dfa1458db92a148|2]], [[#^s-cba352ba3e1c277b4491882b|87]] straipsnių ir priedo pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2228, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10342
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 83, 85, 86, [[#^s-cba352ba3e1c277b4491882b|87 straipsnių]] pakeitimo ir Įstatymo papildymo 85-1 straipsniu įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-9c39e990c756720460531dae|83]], [[#^s-b8cfd9c18acfd730c4449979|85]], [[#^s-20928e1e32f7404e7be6abf7|86]], [[#^s-cba352ba3e1c277b4491882b|87]] straipsnių pakeitimo ir Įstatymo papildymo 85-1 straipsniu įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2959, 2020-05-21, paskelbta TAR 2020-05-28, i. k. 2020-11331
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 9, 10, 19 ir [[#^s-f39354bdeaba97bca27d019a|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-e1cb05d8773d981202c21a54|9]], [[#^s-f7beced414307bddedbee19f|10]], [[#^s-19354edf6a19d18606fb3b7e|19]] ir [[#^s-f39354bdeaba97bca27d019a|22]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-108, 2020-12-22, paskelbta TAR 2020-12-29, i. k. 2020-28961
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 67 ir [[#^s-4b7a383eec7c4f2389b14ac0|73 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-02db70e49d2be18c326e6385|67]] ir [[#^s-4b7a383eec7c4f2389b14ac0|73]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-292, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11760
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 papildymo dešimtuoju-1 skirsniu ir 79, [[#^s-ac648458edf015c78b7a8a31|81 straipsnių]] pakeitimo, [[#^s-2c1a2f80f5b681826269960c|80 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 papildymo dešimtuoju-1 skirsniu ir [[#^s-6582e3ba4a96b655e0c87b12|79]], [[#^s-ac648458edf015c78b7a8a31|81]] straipsnių pakeitimo, [[#^s-2c1a2f80f5b681826269960c|80 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-763, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26892
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 9, 16, 48, 52, 57, 59, 67, 70-1, 72, [[#^s-cba352ba3e1c277b4491882b|87 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 70-3 straipsniu įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-42f85d8c4dfa1458db92a148|2]], [[#^s-e1cb05d8773d981202c21a54|9]], [[#^s-45f66d3fdc99283c6e309273|16]], [[#^s-bc676b8ce9c322305283d115|48]], [[#^s-400106ac2f2cd6788a351247|52]], [[#^s-2ec541c138863990b7935be4|57]], [[#^s-b42e0d05dcbaeb9af60a3efc|59]], [[#^s-02db70e49d2be18c326e6385|67]], 70-1, [[#^s-7fdcbd7065b5bff92331cd84|72]], [[#^s-cba352ba3e1c277b4491882b|87]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 70-3 straipsniu įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-824, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27715
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 9, 10 ir [[#^s-4b7a383eec7c4f2389b14ac0|73 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-e1cb05d8773d981202c21a54|9]], [[#^s-f7beced414307bddedbee19f|10]] ir [[#^s-4b7a383eec7c4f2389b14ac0|73]] straipsnių pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1334, 2022-06-30, paskelbta TAR 2022-07-13, i. k. 2022-15399
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 78 ir [[#^s-9c39e990c756720460531dae|83 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-2bfe732b9213e0434a79f85b|78]] ir [[#^s-9c39e990c756720460531dae|83]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1695, 2022-12-20, paskelbta TAR 2022-12-30, i. k. 2022-27552
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 10, 34, 77-1, 84, 85 ir [[#^s-cba352ba3e1c277b4491882b|87 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-f7beced414307bddedbee19f|10]], [[#^s-1da1553dfe8dcc899bb15a35|34]], 77-1, [[#^s-dfb0e1e4cec9f10924bf83f7|84]], [[#^s-b8cfd9c18acfd730c4449979|85]] ir [[#^s-cba352ba3e1c277b4491882b|87]] straipsnių pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2712, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11235
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 16, 52, 58 ir [[#^s-02db70e49d2be18c326e6385|67 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-45f66d3fdc99283c6e309273|16]], [[#^s-400106ac2f2cd6788a351247|52]], [[#^s-b98cfebb5ae0e6115e1a866d|58]] ir [[#^s-02db70e49d2be18c326e6385|67]] straipsnių pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5056,14 +5056,14 @@ Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-590c3f23eafd4338840501c4
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-295, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11964
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 60, 63, 69, [[#^s-4b7a383eec7c4f2389b14ac0|73 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-42f85d8c4dfa1458db92a148|2]], [[#^s-1abc40224c28cc88698e1ecd|60]], [[#^s-4a26706df4953c94700ee0a2|63]], [[#^s-0d3992aa29eeb13f5d52e14d|69]], [[#^s-4b7a383eec7c4f2389b14ac0|73]] straipsnių ir priedo pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-938, 2026-05-14, paskelbta TAR 2026-05-25, i. k. 2026-08791
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 2, 9, 10, 16, 19, 25, 34, 48, 52, 53, 57, 58, 59, 61, 62, 67, 69, 72, 73, 74, [[#^s-ac648458edf015c78b7a8a31|81 straipsnių]], priedo pakeitimo ir Įstatymo papildymo septintuoju-1–septintuoju-3 ir dešimtuoju-2 skirsniais įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-42f85d8c4dfa1458db92a148|2]], [[#^s-e1cb05d8773d981202c21a54|9]], [[#^s-f7beced414307bddedbee19f|10]], [[#^s-45f66d3fdc99283c6e309273|16]], [[#^s-19354edf6a19d18606fb3b7e|19]], [[#^s-eb94e1ab9768b1b95813d633|25]], [[#^s-1da1553dfe8dcc899bb15a35|34]], [[#^s-bc676b8ce9c322305283d115|48]], [[#^s-400106ac2f2cd6788a351247|52]], [[#^s-d4503b708c31e746222b0d60|53]], [[#^s-2ec541c138863990b7935be4|57]], [[#^s-b98cfebb5ae0e6115e1a866d|58]], [[#^s-b42e0d05dcbaeb9af60a3efc|59]], [[#^s-44f830757be286fc2863e5b5|61]], [[#^s-85fb80ec3e5eff8555eed43b|62]], [[#^s-02db70e49d2be18c326e6385|67]], [[#^s-0d3992aa29eeb13f5d52e14d|69]], [[#^s-7fdcbd7065b5bff92331cd84|72]], [[#^s-4b7a383eec7c4f2389b14ac0|73]], [[#^s-36682f970559c7ad08842e91|74]], [[#^s-ac648458edf015c78b7a8a31|81]] straipsnių, priedo pakeitimo ir Įstatymo papildymo septintuoju-1–septintuoju-3 ir dešimtuoju-2 skirsniais įstatymas
 
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-846, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06955
-Lietuvos Respublikos bankų įstatymo Nr. IX-2085 73, 75-1 straipsnių ir priedo pakeitimo įstatymas
+Lietuvos Respublikos bankų įstatymo Nr. IX-2085 [[#^s-4b7a383eec7c4f2389b14ac0|73]], 75-1 straipsnių ir priedo pakeitimo įstatymas

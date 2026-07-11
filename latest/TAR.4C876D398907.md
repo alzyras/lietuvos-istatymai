@@ -199,16 +199,16 @@ Vaikui gali būti taikoma šių formų priežiūra:
 5) įpareigojimas dalyvauti socialinio ugdymo, reabilitacijos, integracijos, prevencijos, edukacinėse ir kitose programose; ^s-dfb4060d78f792f4a29191ea
 
 
-6) įpareigojimas būti namuose nustatytu laiku, kai yra šio įstatymo [[#^s-351fb973eae4e9a41a2663ee|8 straipsnio 1 dalies]] 1 ir [[#^s-a09e719b0dc3c0427058546a|2 punktuose]] nustatyti vaiko minimalios priežiūros priemonės skyrimo pagrindai; ^s-c7d2ef08fff8dd7406c1cc7e
+6) įpareigojimas būti namuose nustatytu laiku, kai yra šio įstatymo [[#^s-351fb973eae4e9a41a2663ee|8 straipsnio 1 dalies]] [[#^s-80c1fdb350fc02cc671ed17e|1]] ir [[#^s-ecea128d500dc66fc5e96ec6|2]] punktuose nustatyti vaiko minimalios priežiūros priemonės skyrimo pagrindai; ^s-c7d2ef08fff8dd7406c1cc7e
 
 
-7) įpareigojimas nesilankyti vietose, kuriose daroma neigiama įtaka vaiko elgesiui, arba nebendrauti su žmonėmis, darančiais jam neigiamą įtaką, kai yra šio įstatymo [[#^s-351fb973eae4e9a41a2663ee|8 straipsnio 1 dalies]] 1 ir [[#^s-a09e719b0dc3c0427058546a|2 punktuose]] nustatyti vaiko minimalios priežiūros priemonės skyrimo pagrindai; ^s-364afcb83d8ff15b6deebae5
+7) įpareigojimas nesilankyti vietose, kuriose daroma neigiama įtaka vaiko elgesiui, arba nebendrauti su žmonėmis, darančiais jam neigiamą įtaką, kai yra šio įstatymo [[#^s-351fb973eae4e9a41a2663ee|8 straipsnio 1 dalies]] [[#^s-80c1fdb350fc02cc671ed17e|1]] ir [[#^s-ecea128d500dc66fc5e96ec6|2]] punktuose nustatyti vaiko minimalios priežiūros priemonės skyrimo pagrindai; ^s-364afcb83d8ff15b6deebae5
 
 
-8) įpareigojimas dirbti auklėjamojo pobūdžio darbus, jeigu vaikas sutinka, kai yra šio įstatymo [[#^s-351fb973eae4e9a41a2663ee|8 straipsnio 1 dalies]] 1 ir [[#^s-a09e719b0dc3c0427058546a|2 punktuose]] nustatyti vaiko minimalios priežiūros priemonės skyrimo pagrindai. ^s-76c24afbef3927eacd8bfcd4
+8) įpareigojimas dirbti auklėjamojo pobūdžio darbus, jeigu vaikas sutinka, kai yra šio įstatymo [[#^s-351fb973eae4e9a41a2663ee|8 straipsnio 1 dalies]] [[#^s-80c1fdb350fc02cc671ed17e|1]] ir [[#^s-ecea128d500dc66fc5e96ec6|2]] punktuose nustatyti vaiko minimalios priežiūros priemonės skyrimo pagrindai. ^s-76c24afbef3927eacd8bfcd4
 
 
-2. Vaikui minimalios priežiūros priemonės, nurodytos šio straipsnio 1 dalies 1–[[#^s-dfb4060d78f792f4a29191ea|5 punktuose]], gali būti skiriamos nuo 3 mėnesių iki vienų metų, minimalios priežiūros priemonės, nurodytos šio straipsnio 1 dalies 6 ir [[#^s-364afcb83d8ff15b6deebae5|7 punktuose]], – iki 1 mėnesio, minimalios priežiūros priemonė, nurodyta šio straipsnio 1 dalies 8 punkte, – iki 20 valandų. Minimalios priežiūros priemonės skiriamos ne ilgiau iki vaikui sukaks 18 metų. ^s-d7680dea12212b16d9af1fdc
+2. Vaikui minimalios priežiūros priemonės, nurodytos šio straipsnio 1 dalies 1–5 punktuose, gali būti skiriamos nuo 3 mėnesių iki vienų metų, minimalios priežiūros priemonės, nurodytos šio straipsnio 1 dalies 6 ir 7 punktuose, – iki 1 mėnesio, minimalios priežiūros priemonė, nurodyta šio straipsnio 1 dalies 8 punkte, – iki 20 valandų. Minimalios priežiūros priemonės skiriamos ne ilgiau iki vaikui sukaks 18 metų. ^s-d7680dea12212b16d9af1fdc
 
 
 3. Vaikui gali būti paskirta viena arba kelios tarpusavyje suderintos vaiko minimalios priežiūros priemonės. ^s-e2ce6e47c4f9cebb81d82705
@@ -239,10 +239,10 @@ VAIKO MINIMALIOS IR VIDUTINĖS priežiūros priemonių SKYRIMAS, PRATĘSIMAS, PA
 1) kuris padarė nusikaltimo ar baudžiamojo nusižengimo požymių turinčią veiką, tačiau šios veikos padarymo metu nebuvo sukakęs Lietuvos Respublikos baudžiamajame kodekse nustatyto amžiaus, nuo kurio pagal Lietuvos Respublikos baudžiamuosius įstatymus galima baudžiamoji atsakomybė už jo padarytą veiką; ^s-80c1fdb350fc02cc671ed17e
 
 
-2) kuris padarė administracinių teisės pažeidimų požymių turinčią veiką, tačiau šios veikos padarymo metu nebuvo sukakęs Lietuvos Respublikos administracinių teisės pažeidimų kodekse nustatyto amžiaus, nuo kurio atsiranda administracinė atsakomybė; ^s-ecea128d500dc66fc5e96ec6
+2) kuris padarė administracinių teisės pažeidimų požymių turinčią veiką, tačiau šios veikos padarymo metu nebuvo sukakęs [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyto amžiaus, nuo kurio atsiranda administracinė atsakomybė; ^s-ecea128d500dc66fc5e96ec6
 
 
-3) kuris padarė administracinį teisės pažeidimą, tačiau jam, vadovaujantis Lietuvos Respublikos administracinių teisės pažeidimų kodekso nuostatomis, nebuvo paskirta administracinė nuobauda; ^s-ca152a60ea291fcab8d8f0a0
+3) kuris padarė administracinį teisės pažeidimą, tačiau jam, vadovaujantis [Lietuvos Respublikos administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nuostatomis, nebuvo paskirta administracinė nuobauda; ^s-ca152a60ea291fcab8d8f0a0
 
 
 4) kurio elgesys daro žalą ar kelia pavojų jam pačiam ar aplinkiniams, o vaiko atstovų pagal įstatymą, vietos bendruomenės pastangų nepakanka teigiamiems jo elgesio pokyčiams pasiekti; ^s-4b73ec0d5c299c3e05cd4520
@@ -260,7 +260,7 @@ VAIKO MINIMALIOS IR VIDUTINĖS priežiūros priemonių SKYRIMAS, PRATĘSIMAS, PA
 1) kuris padarė nusikaltimo ar baudžiamojo nusižengimo požymių turinčią veiką, tačiau šios veikos padarymo metu nebuvo sukakęs Lietuvos Respublikos baudžiamajame kodekse nustatyto amžiaus, nuo kurio pagal Lietuvos Respublikos baudžiamuosius įstatymus galima baudžiamoji atsakomybė už jo padarytą veiką; ^s-d15938132e6de26ad06d862c
 
 
-2) kuris per vienų metų laikotarpį 3 ir daugiau kartų padarė administracinių teisės pažeidimų požymių turinčią veiką, tačiau šios veikos padarymo metu jis nebuvo sukakęs Lietuvos Respublikos administracinių teisės pažeidimų kodekse nustatyto amžiaus, nuo kurio atsiranda administracinė atsakomybė; ^s-fa6494234a91ff8f753e39b5
+2) kuris per vienų metų laikotarpį 3 ir daugiau kartų padarė administracinių teisės pažeidimų požymių turinčią veiką, tačiau šios veikos padarymo metu jis nebuvo sukakęs [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyto amžiaus, nuo kurio atsiranda administracinė atsakomybė; ^s-fa6494234a91ff8f753e39b5
 
 
 3) kuriam pritaikius minimalios priežiūros priemones nebuvo pasiekta teigiamų jo elgesio pokyčių. ^s-f8c97c087a95c63df7986b22

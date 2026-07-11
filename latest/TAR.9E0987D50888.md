@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties denonsavimas ^s-49523b242f73378a9ebf990d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. balandžio 21 d. dekretą Nr. 25, denonsuoja Sutartį dėl Baltijos valstybių bendrosios tranzito procedūros, pasirašytą 1998 m. liepos 10 d. Siguldoje, ratifikuotą Lietuvos Respublikos [[latest/TAR.1BDD319E7FA4|1998 m. gruodžio 1 d. įstatymu Nr. VIII-945]] (Žin., 1999, Nr. 17-441), kartu su visais vėlesniais jos pakeitimais bei papildymais.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas [2004 m. balandžio 21 d. dekretą Nr. 25](https://e-tar.lt/portal/lt/legalAct/TAR.4B657AB3300A), denonsuoja Sutartį dėl Baltijos valstybių bendrosios tranzito procedūros, pasirašytą 1998 m. liepos 10 d. Siguldoje, ratifikuotą Lietuvos Respublikos [[latest/TAR.1BDD319E7FA4|1998 m. gruodžio 1 d. įstatymu Nr. VIII-945]] (Žin., 1999, Nr. 17-441), kartu su visais vėlesniais jos pakeitimais bei papildymais.
 
 
 

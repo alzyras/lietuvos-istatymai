@@ -70,7 +70,7 @@ Vilnius
 2. Papildyti 18 straipsnį 4 dalimi: ^s-a105e684ad9f873c47809f97
 
 
-„4. [[#^s-a105e684ad9f873c47809f97|Šio straipsnio 2 dalyje]] nurodyti asmenys, įgiję kitos valstybės pilietybę ar gavę kitos valstybės piliečio pasą arba kitą tos valstybės pilietybę patvirtinantį dokumentą iki 2002 m. gruodžio 31 d., laikomi netekusiais Lietuvos Respublikos pilietybės nuo kitos valstybės pilietybės įgijimo dienos ar tos valstybės piliečio paso ar kito tos valstybės pilietybę patvirtinančio dokumento išdavimo dienos.“
+„4. Šio straipsnio 2 dalyje nurodyti asmenys, įgiję kitos valstybės pilietybę ar gavę kitos valstybės piliečio pasą arba kitą tos valstybės pilietybę patvirtinantį dokumentą iki 2002 m. gruodžio 31 d., laikomi netekusiais Lietuvos Respublikos pilietybės nuo kitos valstybės pilietybės įgijimo dienos ar tos valstybės piliečio paso ar kito tos valstybės pilietybę patvirtinančio dokumento išdavimo dienos.“
 
 
 
@@ -83,10 +83,10 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 „20 straipsnis. Lietuvos Respublikos pilietybės grąžinimas
 
 
-1. Asmeniui, netekusiam Lietuvos Respublikos pilietybės iki šio Įstatymo įsigaliojimo dienos, taip pat šio Įstatymo 18 straipsnio 1,3 ar 4 dalyje, Pilietybės įstatymo įgyvendinimo įstatymo 4 straipsnio 7 dalyje numatytais pagrindais, pagal jo prašymą gali būti grąžinta Lietuvos Respublikos pilietybė, jei šis asmuo nėra kitos valstybės pilietis ir atitinka šio Įstatymo 12 straipsnio 1 dalies 2 ir 4 punktuose nustatytas sąlygas ir jei nėra aplinkybių, nurodytų šio Įstatymo 13 straipsnyje. ^s-7b7bba66324dc41bed87ef0f
+1. Asmeniui, netekusiam Lietuvos Respublikos pilietybės iki šio Įstatymo įsigaliojimo dienos, taip pat šio Įstatymo 18 straipsnio 1,3 ar 4 dalyje, [Pilietybės įstatymo įgyvendinimo įstatymo 4 straipsnio 7 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.D8764BEC562D) numatytais pagrindais, pagal jo prašymą gali būti grąžinta Lietuvos Respublikos pilietybė, jei šis asmuo nėra kitos valstybės pilietis ir atitinka šio Įstatymo 12 straipsnio 1 dalies 2 ir 4 punktuose nustatytas sąlygas ir jei nėra aplinkybių, nurodytų šio Įstatymo 13 straipsnyje. ^s-7b7bba66324dc41bed87ef0f
 
 
-2. Asmeniui, netekusiam Lietuvos Respublikos pilietybės iki šio Įstatymo įsigaliojimo dienos, taip pat šio Įstatymo 18 straipsnio 1, 3 ar 4 dalyje, Pilietybės įstatymo įgyvendinimo įstatymo 4 straipsnio 7 dalyje numatytais pagrindais ir atitinkančiam šio Įstatymo [[#^s-37efcafa9c109b78acf639ae|1 straipsnio 1 dalies]] 1,2 ar 3 punkto sąlygas, Lietuvos Respublikos pilietybė gali būti grąžinta pagal tokio asmens prašymą, netaikant jam šio Įstatymo 12 straipsnyje nustatytų sąlygų. ^s-3cbad6f168dfa6ccf70d5c4d
+2. Asmeniui, netekusiam Lietuvos Respublikos pilietybės iki šio Įstatymo įsigaliojimo dienos, taip pat šio Įstatymo 18 straipsnio 1, 3 ar 4 dalyje, [Pilietybės įstatymo įgyvendinimo įstatymo 4 straipsnio 7 dalyje numatytais pagrindais ir atitinkančiam šio Įstatymo 1 straipsnio 1 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.D8764BEC562D) [1](https://e-tar.lt/portal/lt/legalAct/TAR.D8764BEC562D),[2](https://e-tar.lt/portal/lt/legalAct/TAR.D8764BEC562D) ar [3](https://e-tar.lt/portal/lt/legalAct/TAR.D8764BEC562D) punkto sąlygas, Lietuvos Respublikos pilietybė gali būti grąžinta pagal tokio asmens prašymą, netaikant jam šio Įstatymo 12 straipsnyje nustatytų sąlygų. ^s-3cbad6f168dfa6ccf70d5c4d
 
 
 3. Asmeniui, netekusiam Lietuvos Respublikos pilietybės šio Įstatymo 18 straipsnyje nustatytais pagrindais, šio Įstatymo 16 straipsnio nuostatos netaikomos.“ ^s-833fb425655367a12590e7a8
@@ -129,7 +129,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 9. 18 metų neturinčių asmenų prašymus suteikti Lietuvos Respublikos pilietybę, įgyvendinti teisę į Lietuvos Respublikos pilietybę, atsisakyti Lietuvos Respublikos pilietybės ar ją grąžinti paduoda jų teisėti atstovai. ^s-7245515961ac0c3373fc2e8b
 
 
-10. Dėl asmens pripažinimo netekusiu Lietuvos Respublikos pilietybės pagal šio Įstatymo 18 straipsnio 3 dalį, dėl Lietuvos Respublikos pilietybės suteikimo akto pripažinimo negaliojančiu pagal šio Įstatymo 21 straipsnio 1 ir [[#^s-79149d96de5b29aebed66ca8|2 dalis]] sprendimą priima Vilniaus apygardos administracinis teismas. Kreiptis į teismą šiame straipsnyje nurodytais atvejais turi teisę vidaus reikalų ministras ar jo įgaliota institucija, taip pat užsienio reikalų ministras ar jo įgaliota institucija. Teismas, priėmęs sprendimą pripažinti asmenį netekusiu Lietuvos Respublikos pilietybės ar Lietuvos Respublikos pilietybės suteikimo aktą pripažinti negaliojančiu, privalo paskelbti informaciją „Valstybės žinių“ priede „Informaciniai pranešimai“. ^s-0012895fb64880db44335af1
+10. Dėl asmens pripažinimo netekusiu Lietuvos Respublikos pilietybės pagal šio Įstatymo 18 straipsnio 3 dalį, dėl Lietuvos Respublikos pilietybės suteikimo akto pripažinimo negaliojančiu pagal šio Įstatymo 21 straipsnio 1 ir 2 dalis sprendimą priima Vilniaus apygardos administracinis teismas. Kreiptis į teismą šiame straipsnyje nurodytais atvejais turi teisę vidaus reikalų ministras ar jo įgaliota institucija, taip pat užsienio reikalų ministras ar jo įgaliota institucija. Teismas, priėmęs sprendimą pripažinti asmenį netekusiu Lietuvos Respublikos pilietybės ar [Lietuvos Respublikos pilietybės suteikimo](https://e-tar.lt/portal/lt/legalAct/8b65c1c0355a11e78397ae072f58c508) aktą pripažinti negaliojančiu, privalo paskelbti informaciją „Valstybės žinių“ priede „Informaciniai pranešimai“. ^s-0012895fb64880db44335af1
 
 
 11. Prašymai suteikti Lietuvos Respublikos pilietybę ar ją grąžinti pagal šio Įstatymo 20 straipsnio 1 dalį, taip pat prašymai suteikti Lietuvos Respublikos pilietybę išimties tvarka paduodami Respublikos Prezidentui. Prašymus suteikti Lietuvos Respublikos pilietybę ar ją grąžinti asmenys pateikia per migracijos tarnybą, o prašymus suteikti Lietuvos Respublikos pilietybę išimties tvarka – Respublikos Prezidentui tiesiogiai. ^s-da5a4eba12efaec5a0d10b3c

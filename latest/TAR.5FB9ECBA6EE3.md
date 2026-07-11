@@ -144,7 +144,7 @@ Papildyti 6 straipsnio 5 dalį ir ją išdėstyti taip:
 „3. Kai atsiskaitymo už žemės ūkio produkciją laikotarpis ilgesnis kaip mėnuo, komercinio kredito palūkanas žemės ūkio produkcijos pirkėjas apskaičiuoja kiekvienam mėnesio laikotarpiui po produkcijos įkainojimo dienos atskirai ir mokėjimo pavedimą bankui pateikia ne vėliau kaip iki tarpusavio sutartyje numatyto laikotarpio pabaigos.“
 
 
-3. Buvusią [[#^s-365d62b195386cf14a95e4ed|7 straipsnio 3 dalį]] laikyti 4 dalimi. ^s-365d62b195386cf14a95e4ed
+3. Buvusią 7 straipsnio 3 dalį laikyti 4 dalimi. ^s-365d62b195386cf14a95e4ed
 
 
 

@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.5DC1759E42CB#^s-fc34dbcf350053c5bc456719|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - 20 straipsnį 7 dalimi
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.5DC1759E42CB#^s-4a953a5b6197cc8294d32a7e|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Įstatymas Nr. XIV-267
-- [[latest/TAR.5DC1759E42CB#^s-c9f9c53881688574db9b7a9e|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Įstatymas Nr. XIV-267
+_Nėra._

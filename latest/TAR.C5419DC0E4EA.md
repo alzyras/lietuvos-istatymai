@@ -52,7 +52,7 @@ Vilnius
 1. 69 straipsnio 1 dalyje vietoj datos „2002 m. sausio 1 d.“ įrašyti datą „2002 m. liepos 1 d.“ ir šią dalį išdėstyti taip: ^s-6203768ec2a27396afb28833
 
 
-„1. Šio įstatymo šeštajame skirsnyje nustatyta darbo apmokėjimo sistema pradedama įgyvendinti pagal šio straipsnio 2, 3 ir [[#^s-0f218bebddbcbd89816abd3d|4 dalių]] nuostatas nuo 2001 m. spalio 1 d., išskyrus paslaugų valstybės tarnautojus, kuriems ši darbo apmokėjimo sistema taikoma nuo 2002 m. liepos 1 d.“
+„1. Šio įstatymo šeštajame skirsnyje nustatyta darbo apmokėjimo sistema pradedama įgyvendinti pagal šio straipsnio [[#^s-3a5a0ead66f08e6781ba35ab|2]], [[#^s-776d200a69cfe7483cf12173|3]] ir [[#^s-0f218bebddbcbd89816abd3d|4]] dalių nuostatas nuo 2001 m. spalio 1 d., išskyrus paslaugų valstybės tarnautojus, kuriems ši darbo apmokėjimo sistema taikoma nuo 2002 m. liepos 1 d.“
 
 
 2. Pakeisti 69 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^s-3a5a0ead66f08e6781ba35ab
@@ -144,7 +144,7 @@ D – valstybės tarnautojo darbo užmokesčio perskaičiavimo koeficientas, nuo
 
 
 4. 69 straipsnio 4 dalyje vietoj datos „2006 m. sausio 1 d.“ įrašyti datą „2007 m. sausio 1 d.“ ir šią dalį išdėstyti taip: ^s-0f218bebddbcbd89816abd3d
-„4. [[#^s-776d200a69cfe7483cf12173|Šio straipsnio 3 dalies]] nuostatos turi būti įgyvendintos ne vėliau kaip iki 2007 m. sausio 1 d. Šiuo pereinamuoju laikotarpiu į valstybės tarnautojo pareigas paskirtiems asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio 2 ir [[#^s-776d200a69cfe7483cf12173|3 dalių]] nuostatas ir nurodytas formules, kuriose dydis C – tai naujai priimto valstybės tarnautojo darbo užmokesčio (tarnybinis atlyginimas (pareiginė alga) kartu su priedais ir priemokomis), apskaičiuoto pagal iki [[#^s-6203768ec2a27396afb28833|šio straipsnio 1 dalyje]] nurodytos datos galiojusias darbo apmokėjimo sąlygas, dydis. Jeigu pareigybei teisės aktais buvo nustatyti tarnybinio atlyginimo (pareiginės algos) minimalūs ir maksimalūs dydžiai, įstaigos vadovas, laikydamasis šių dydžių ribų, nustato konkretų tarnybinio atlyginimo (pareiginės algos) dydį, neviršijantį šio įstatymo nustatytos pareiginės algos. Stažuotojams ir asmenims, paskirtiems bandomajam laikotarpiui, mokamas darbo užmokestis, kurį sudaro 70 procentų šios sumos.“
+„4. [[#^s-776d200a69cfe7483cf12173|Šio straipsnio 3 dalies]] nuostatos turi būti įgyvendintos ne vėliau kaip iki 2007 m. sausio 1 d. Šiuo pereinamuoju laikotarpiu į valstybės tarnautojo pareigas paskirtiems asmenims darbo užmokestis nustatomas ir apskaičiuojamas pagal šio straipsnio [[#^s-3a5a0ead66f08e6781ba35ab|2]] ir [[#^s-776d200a69cfe7483cf12173|3]] dalių nuostatas ir nurodytas formules, kuriose dydis C – tai naujai priimto valstybės tarnautojo darbo užmokesčio (tarnybinis atlyginimas (pareiginė alga) kartu su priedais ir priemokomis), apskaičiuoto pagal iki [[#^s-6203768ec2a27396afb28833|šio straipsnio 1 dalyje]] nurodytos datos galiojusias darbo apmokėjimo sąlygas, dydis. Jeigu pareigybei teisės aktais buvo nustatyti tarnybinio atlyginimo (pareiginės algos) minimalūs ir maksimalūs dydžiai, įstaigos vadovas, laikydamasis šių dydžių ribų, nustato konkretų tarnybinio atlyginimo (pareiginės algos) dydį, neviršijantį šio įstatymo nustatytos pareiginės algos. Stažuotojams ir asmenims, paskirtiems bandomajam laikotarpiui, mokamas darbo užmokestis, kurį sudaro 70 procentų šios sumos.“
 
 
 

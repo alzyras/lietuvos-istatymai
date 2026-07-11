@@ -65,10 +65,10 @@ Nr. XIV-2908, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13543
 
 
 
-4. Šio įstatymo 4–9, 15, 18–29, 36–42, 44 ir [[#^s-a895c5ed41788f48ada1c331|45 straipsnių]] nuostatos mutatis mutandis taikomos valstybės informaciniams ištekliams, kurie kuriami, valdomi ir (ar) tvarkomi savivaldybių institucijų ir įstaigų teisės aktų nustatytoms funkcijoms atlikti, arba jeigu šiuos valstybės informacinius išteklius sudarantiems duomenims tvarkyti yra numatomas sąveikos su [[#^s-08aebd43a12a550a8350627c|šio straipsnio 2 dalyje]] nurodytus valstybės informacinius išteklius sudarančiomis informacinėmis sistemomis poreikis. ^s-da2af202bc9db7379adfdde4
+4. Šio įstatymo [[#^s-a03f4c932b9e224de0f6b985|4]]–[[#^s-a283d5cb36a4ddfdd91edca0|9]], [[#^s-967d9b6e281ee09b02c95b93|15]], [[#^s-7d7d8d505b0443279d539d4f|18]]–[[#^s-0d83d64abad4fc0ff0eb3a6e|29]], [[#^s-ff3f971788842f65c468de65|36]]–[[#^s-fde7551a81e55aef936acf12|42]], [[#^s-b3dbf2bd8f98db33a0fc6c82|44]] ir [[#^s-a895c5ed41788f48ada1c331|45]] straipsnių nuostatos mutatis mutandis taikomos valstybės informaciniams ištekliams, kurie kuriami, valdomi ir (ar) tvarkomi savivaldybių institucijų ir įstaigų teisės aktų nustatytoms funkcijoms atlikti, arba jeigu šiuos valstybės informacinius išteklius sudarantiems duomenims tvarkyti yra numatomas sąveikos su [[#^s-08aebd43a12a550a8350627c|šio straipsnio 2 dalyje]] nurodytus valstybės informacinius išteklius sudarančiomis informacinėmis sistemomis poreikis. ^s-da2af202bc9db7379adfdde4
 
 
-5. Šio įstatymo 44 ir [[#^s-a895c5ed41788f48ada1c331|45 straipsnių]] nuostatos netaikomos valstybės informaciniams ištekliams, tvarkomiems korupcinių nusikaltimų ikiteisminių tyrimų, korupcijos rizikos ir jos prevencijos vertinimo, analitinės antikorupcinės žvalgybos, korupcijai atsparios aplinkos kūrimo, teisėsaugos ir viešojo saugumo užtikrinimo tikslais. ^s-7901af02ba0e55cc7837126e
+5. Šio įstatymo [[#^s-b3dbf2bd8f98db33a0fc6c82|44]] ir [[#^s-a895c5ed41788f48ada1c331|45]] straipsnių nuostatos netaikomos valstybės informaciniams ištekliams, tvarkomiems korupcinių nusikaltimų ikiteisminių tyrimų, korupcijos rizikos ir jos prevencijos vertinimo, analitinės antikorupcinės žvalgybos, korupcijai atsparios aplinkos kūrimo, teisėsaugos ir viešojo saugumo užtikrinimo tikslais. ^s-7901af02ba0e55cc7837126e
 
 
 6. Šis įstatymas netaikomas valstybės informaciniams ištekliams, tvarkomiems nacionalinio saugumo ir (ar) gynybos tikslais, taip pat tvarkant įslaptintą informaciją. ^s-de012d36851479888e0c8743
@@ -210,7 +210,7 @@ Nr. XIV-2908, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13543
 44. Šiame įstatyme sąvoka „duomenų centras“ vartojama, kai atitinkamos įstatymo nuostatos taikomos ir valstybiniams, ir privatiems duomenų centrams, esantiems ir Lietuvos Respublikoje, ir kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (ar) Šiaurės Atlanto sutarties organizacijos (NATO) valstybėse narėse. ^s-46e40c49efc8432549fcd9b6
 
 
-45. Šiame įstatyme apibrėžiamos sąvokos suprantamos kitaip negu sąvokos, apibrėžiamos 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente) ir [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatyme]] (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas). ^s-b9156e6178c21dc7bcf64d0a
+45. Šiame įstatyme apibrėžiamos sąvokos suprantamos kitaip negu sąvokos, apibrėžiamos 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente) ir [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatyme]] (toliau – [[latest/TAR.299D835159BE|Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas]]). ^s-b9156e6178c21dc7bcf64d0a
 
 
 46. Taikant šį įstatymą, valstybės ir savivaldybių institucijos ir įstaigos (toliau – institucijos), kiti viešojo administravimo subjektai, viešosios įstaigos ir valstybės valdomos įmonės, kurie yra [[#^s-6984a52316d07bf41321e652|šio straipsnio 2 dalyje]] nurodytų valstybės informacinius išteklius sudarančių duomenų (toliau – duomenys) ir valstybės informacinius išteklius sudarančių informacinių sistemų (toliau – informacinės sistemos) valdytojai ir (ar) tvarkytojai, toliau šiame įstatyme kartu vadinami subjektais. ^s-fe7d53dfc605bf8d9b8730a2
@@ -220,7 +220,7 @@ Nr. XIV-2908, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13543
 ### 3 straipsnis. Asmens duomenų apsaugos ir kibernetinio saugumo taikymas valdant ir tvarkant valstybės informacinius išteklius ^s-c445e1764ba48d79ca90269f
 
 
-1. Valstybės informacinius išteklius sudarantys asmens duomenys yra valdomi ir tvarkomi vadovaujantis Reglamentu (ES) 2016/679, [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymu ir kitais teisės aktais, nustatančiais asmens duomenų tvarkymo reikalavimus, (toliau kartu – asmens duomenų apsaugos reikalavimai). ^s-2fc6f83868e0052e4d81ff41
+1. Valstybės informacinius išteklius sudarantys asmens duomenys yra valdomi ir tvarkomi vadovaujantis [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymu ir kitais teisės aktais, nustatančiais asmens duomenų tvarkymo reikalavimus, (toliau kartu – asmens duomenų apsaugos reikalavimai). ^s-2fc6f83868e0052e4d81ff41
 
 
 2. Informacinėms sistemoms, duomenims, šių informacinių sistemų, duomenų valdytojams ir (ar) tvarkytojams, IT platformoms ir IT priemonėms yra bendrai taikomi [[latest/5468a25089ef11e4a98a9f2247652cf4|Kibernetinio saugumo įstatymo]] nustatyti kibernetinio saugumo reikalavimai (toliau – kibernetinio saugumo reikalavimai) ir kitų teisės aktų, nustatančių kibernetinio saugumo subjektų veiklą, sąlygos. ^s-33672fda8ae755888b98c86a
@@ -282,7 +282,7 @@ Nr. XIV-2908, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13543
 8) atvirumo principu – subjektai šio įstatymo nustatyta tvarka privalo teikti duomenis ar suteikti prie jų prieigą, išskyrus šio įstatymo [[#^s-85d41ebad3bdbbe94c5b5746|28 straipsnio 11 dalyje]] nurodytus atvejus, taip pat jeigu kiti Lietuvos Respublikos įstatymuose, tiesiogiai taikomuose Europos Sąjungos teisės aktuose ar Lietuvos Respublikos tarptautinėse sutartyse nenustatyta kitaip; ^s-aaec2ad7a589cbe3f378c37d
 
 
-9) duomenų vietos neribojimo principu – Lietuvos Respublikos įstatymuose ar kituose teisės aktuose draudžiama nustatyti bet kokį reikalavimą, pagal kurį duomenys turi būti tvarkomi Lietuvos Respublikos teritorijoje arba kuris trukdo duomenis tvarkyti bet kurioje kitoje Europos Sąjungos valstybėje narėje ir (ar) Europos ekonominės erdvės valstybėje. Nustatytas duomenų vietos neribojimo principas netaikomas tik laikantis šio įstatymo 44 ir [[#^s-a895c5ed41788f48ada1c331|45 straipsniuose]] nustatytos tvarkos ir tik tais atvejais, kai tai pateisinama valstybės saugumo, gynybos ar visuomenės saugumo tikslais, laikantis 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2018/1807 dėl laisvo ne asmens duomenų judėjimo Europos Sąjungoje pagrindų įtvirtinto proporcingumo principo; ^s-6707af3097fc3c56bcc24cd4
+9) duomenų vietos neribojimo principu – Lietuvos Respublikos įstatymuose ar kituose teisės aktuose draudžiama nustatyti bet kokį reikalavimą, pagal kurį duomenys turi būti tvarkomi Lietuvos Respublikos teritorijoje arba kuris trukdo duomenis tvarkyti bet kurioje kitoje Europos Sąjungos valstybėje narėje ir (ar) Europos ekonominės erdvės valstybėje. Nustatytas duomenų vietos neribojimo principas netaikomas tik laikantis šio įstatymo [[#^s-b3dbf2bd8f98db33a0fc6c82|44]] ir [[#^s-a895c5ed41788f48ada1c331|45]] straipsniuose nustatytos tvarkos ir tik tais atvejais, kai tai pateisinama valstybės saugumo, gynybos ar visuomenės saugumo tikslais, laikantis 2018 m. lapkričio 14 d. Europos Parlamento ir Tarybos [reglamente (ES) 2018/1807](https://eur-lex.europa.eu/eli/reg/2018/1807/oj) dėl laisvo ne asmens duomenų judėjimo Europos Sąjungoje pagrindų įtvirtinto proporcingumo principo; ^s-6707af3097fc3c56bcc24cd4
 
 
 10) saugojimo laikotarpio apribojimo principu – informacinėje sistemoje tvarkomi duomenys turi būti saugomi ne ilgiau, negu būtina subjektui atliekant teisės aktų nustatytas funkcijas. Duomenis galima saugoti ilgesnį laikotarpį, jeigu jie tvarkomi siekiant juos archyvuoti dėl viešojo intereso, istorinių, statistinių ir kitų tyrimų bei reikšmingo valstybės dokumentinio paveldo išsaugojimo tikslais. ^s-a62c0e96bdde8c5ea32145ad
@@ -408,7 +408,7 @@ Nr. XIV-2908, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13543
 3. IT priemonės ir IT platformos pagal svarbą neskirstomos. Subjektams šias IT priemones ir (ar) IT platformas naudojant duomenims tvarkyti ir informacinių sistemų veikimui užtikrinti, jos turi atitikti tam tikrai valstybės informacinių išteklių rūšiai šio įstatymo [[#^s-c445e1764ba48d79ca90269f|3 straipsnyje]] nurodytų teisės aktų reikalavimus ir (ar) sąlygas. ^s-7a096a9b6f4710ce16e15ec2
 
 
-4. Vyriausybės tvirtinamame valstybės informacinių išteklių svarbos vertinimo tvarkos apraše nurodytiems už valstybės informacinių išteklių svarbos vertinimą atsakingiems asmenims mutatis mutandis taikomi [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-75167fef93f03357f846ddc0|Kibernetinio saugumo įstatymo 15 straipsnio 5 dalies]] 1 ir 2 punktuose nustatyti reikalavimai už kibernetinį saugumą atsakingiems asmenims. ^s-f76c8ec771cf44e57ed81f47
+4. Vyriausybės tvirtinamame valstybės informacinių išteklių svarbos vertinimo tvarkos apraše nurodytiems už valstybės informacinių išteklių svarbos vertinimą atsakingiems asmenims mutatis mutandis taikomi [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-75167fef93f03357f846ddc0|Kibernetinio saugumo įstatymo 15 straipsnio 5 dalies]] [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-f7e38d2af1038bd5c128814f|1]] ir [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-af46efdf15998554a491b82f|2]] punktuose nustatyti reikalavimai už kibernetinį saugumą atsakingiems asmenims. ^s-f76c8ec771cf44e57ed81f47
 Straipsnio dalies pakeitimai:
 Nr. XIV-2908, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13543
 
@@ -467,13 +467,13 @@ Vyriausybė:
 4) nustato centralizuotai teikiamų IT paslaugų, susijusių su IT priemonių technine priežiūra, administravimu, valdymu, naudojimo priežiūra, kontrole ir stebėsena, grupes ir priima sprendimus dėl šių grupių paslaugų gavėjų; ^s-69f2e6c3d3150e51ce9c9a5f
 
 
-5) vadovaudamasi [[latest/TAR.0BDFFD850A66#^s-4abf605ed12f339195435a7b|Viešojo administravimo įstatymo 5 straipsnio]] 1 ir 2 dalimis, skiria valstybės IT paslaugų teikėją ar teikėjus ir paveda jam ar jiems centralizuotai teikti nustatytų grupių IT paslaugas; ^s-82b3fa14ffb6b0c2324f29df
+5) vadovaudamasi [[latest/TAR.0BDFFD850A66#^s-4abf605ed12f339195435a7b|Viešojo administravimo įstatymo 5 straipsnio]] [[latest/TAR.0BDFFD850A66|1]] ir [[latest/TAR.0BDFFD850A66|2]] dalimis, skiria valstybės IT paslaugų teikėją ar teikėjus ir paveda jam ar jiems centralizuotai teikti nustatytų grupių IT paslaugas; ^s-82b3fa14ffb6b0c2324f29df
 
 
 6) suteikia įgaliojimus IT paslaugų teikėjui ar teikėjams sudaryti sutartis dėl centralizuotai teikiamomis IT paslaugomis besinaudojančių subjektų valdomų valstybės informacinių išteklių laikymo kitose Europos Sąjungos valstybėse narėse, Europos ekonominės erdvės valstybėse ir (ar) Šiaurės Atlanto sutarties organizacijos (NATO) valstybėse narėse esančiuose duomenų centruose; ^s-7d891998b0f6f6eae8ad36b1
 
 
-7) tvirtina šio įstatymo [[#^s-a895c5ed41788f48ada1c331|45 straipsnio]] 2 ir 3 dalyse nurodytų informacinių sistemų ir jose tvarkomų duomenų kopijų laikymo tvarkos aprašą; ^s-a7e53ba3ddf871b5ae631b64
+7) tvirtina šio įstatymo [[#^s-a895c5ed41788f48ada1c331|45 straipsnio]] [[#^s-6ab0abad21902a4314c54e01|2]] ir [[#^s-1ae497579265da0f1bd65606|3]] dalyse nurodytų informacinių sistemų ir jose tvarkomų duomenų kopijų laikymo tvarkos aprašą; ^s-a7e53ba3ddf871b5ae631b64
 
 
 8) tvirtina informacinių sistemų steigimo, kūrimo, atnaujinimo, pertvarkymo ir likvidavimo tvarkos aprašą; ^s-f51c7940202a48f4ac6a276e
@@ -583,7 +583,7 @@ Vyriausybė:
 1) ministro įgaliota institucija; ^s-ed83eb1d3263bbd24e03cdb0
 
 
-2) Reglamento (ES) 2016/679 taikymo priežiūrą atliekanti institucija; ^s-749b6a3bd89b6e60a5a68313
+2) [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) taikymo priežiūrą atliekanti institucija; ^s-749b6a3bd89b6e60a5a68313
 
 
 3) 2009 m. kovo 11 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 223/2009 dėl Europos statistikos, panaikinančio Europos Parlamento ir Tarybos reglamentą (EB, Euratomas) Nr. 1101/2008 dėl konfidencialių statistinių duomenų perdavimo Europos Bendrijų statistikos tarnybai, Tarybos reglamentą (EB) Nr. 322/97 dėl Bendrijos statistikos ir Tarybos sprendimą 89/382/EEB, Euratomas, įsteigiantį Europos Bendrijų statistikos programų komitetą, įgyvendinimą atliekanti institucija; ^s-073d1308a7b4ceb11babb267
@@ -625,7 +625,7 @@ Vyriausybė:
 10) rengia ir teikia ministrui tvirtinti IT platformų priemonėmis sukurtų ir per IT platformas teikiamų IT paslaugų sąrašą; ^s-539a146fa08720d2ffc1401a
 
 
-11) kuria bendrojo naudojimo valstybės informacinius išteklius, nurodytus šio įstatymo [[#^s-f93b63cb5a5f382c3e2ffe46|9 straipsnio 2 punkte]], 36 ir [[#^s-31be8179ae72c5834ed29303|37 straipsniuose]]; ^s-7d2a988f232ffefbc01576b4
+11) kuria bendrojo naudojimo valstybės informacinius išteklius, nurodytus šio įstatymo 9 straipsnio 2 punkte, [[#^s-ff3f971788842f65c468de65|36]] ir [[#^s-31be8179ae72c5834ed29303|37]] straipsniuose; ^s-7d2a988f232ffefbc01576b4
 
 
 12) rengia ir teikia ministrui informacinių sistemų steigimo, kūrimo, atnaujinimo, pertvarkymo ir likvidavimo tvarkos aprašą; ^s-d2645b3c2620454ff333fb9f
@@ -652,7 +652,7 @@ Vyriausybė:
 19) atlieka kitų teisės aktų, reglamentuojančių valstybės informacinius išteklius ir (ar) su jais susijusią veiklą, nustatytas funkcijas. ^s-c0aff62a17979714dca724b6
 
 
-3. Reglamento (ES) 2016/679 taikymo priežiūrą atliekanti institucija atlieka asmens duomenų apsaugos reikalavimų laikymosi priežiūrą ir pagal kompetenciją: ^s-c3325abc55591b853b04578e
+3. [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) taikymo priežiūrą atliekanti institucija atlieka asmens duomenų apsaugos reikalavimų laikymosi priežiūrą ir pagal kompetenciją: ^s-c3325abc55591b853b04578e
 
 
 1) derina registrų, kurių objektams apibūdinti naudojami asmens duomenys, kūrimą, pertvarkymą ir likvidavimą nustatančių įstatymų projektus; ^s-c770822593893256a9e38297
@@ -661,10 +661,10 @@ Vyriausybė:
 2) derina informacinių sistemų, kuriose tvarkomi asmens duomenys, nuostatų projektus, išskyrus atvejus, kai šiose informacinėse sistemose asmens duomenys tvarkomi nacionalinio saugumo ir (ar) gynybos tikslais; ^s-96b5d0ef2e23f087d39f5b0c
 
 
-3) teikia Reglamente (ES) 2016/679, [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatyme]] ir Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatyme nustatytas konsultacijas duomenų, informacinių sistemų valdytojams, tvarkytojams, kitiems subjektams; ^s-8cecd4b41d115dd9623cef4f
+3) teikia [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatyme]] ir Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatyme nustatytas konsultacijas duomenų, informacinių sistemų valdytojams, tvarkytojams, kitiems subjektams; ^s-8cecd4b41d115dd9623cef4f
 
 
-4) atlieka kitas Reglamento (ES) 2016/679, Lietuvos Respublikos įstatymų ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, nustatytas funkcijas, susijusias su valstybės informacinių išteklių valdymo ir tvarkymo priežiūra. ^s-45fae5e6899b22b5482a5cfa
+4) atlieka kitas [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), Lietuvos Respublikos įstatymų ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, nustatytas funkcijas, susijusias su valstybės informacinių išteklių valdymo ir tvarkymo priežiūra. ^s-45fae5e6899b22b5482a5cfa
 
 
 4. Reglamento (EB) Nr. 223/2009 įgyvendinimą atliekanti institucija dalyvauja formuojant valstybės politiką ministrui pavestoje valstybės duomenų valdysenos srityje pagal kompetenciją: ^s-66f63e6c9f32154165ffd393
@@ -802,7 +802,7 @@ Nr. XIV-2908, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13543
 7) atlieka kitų teisės aktų, reglamentuojančių duomenų valdymą ir (ar) tvarkymą ar su tuo susijusią veiklą, nustatytas funkcijas. ^s-086f6bccb0d9ab4994ec7457
 
 
-3. Duomenų valdymo įgaliotiniui mutatis mutandis taikomi [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-75167fef93f03357f846ddc0|Kibernetinio saugumo įstatymo 15 straipsnio 5 dalies]] 1 ir 2 punktuose nustatyti reikalavimai už kibernetinį saugumą atsakingiems asmenims. ^s-78a83b00d9df9eaf80f5def6
+3. Duomenų valdymo įgaliotiniui mutatis mutandis taikomi [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-75167fef93f03357f846ddc0|Kibernetinio saugumo įstatymo 15 straipsnio 5 dalies]] [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-f7e38d2af1038bd5c128814f|1]] ir [[latest/5468a25089ef11e4a98a9f2247652cf4#^s-af46efdf15998554a491b82f|2]] punktuose nustatyti reikalavimai už kibernetinį saugumą atsakingiems asmenims. ^s-78a83b00d9df9eaf80f5def6
 Straipsnio dalies pakeitimai:
 Nr. XIV-2908, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13543
 
@@ -873,13 +873,13 @@ Nr. XIV-2908, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13543
 4) aktualių duomenų (išskyrus asmens duomenis) tvarkymo informacinėse sistemose klausimų, problemų ir jų sprendimo; ^s-0ea140a6bacd2b3b8af27888
 
 
-5) aktualių Reglamento (ES) 2016/679 taikymo, tvarkant asmens duomenis, priežiūros klausimų, problemų ir jų sprendimo; ^s-912ae6eaa9355c0130a6634f
+5) aktualių [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) taikymo, tvarkant asmens duomenis, priežiūros klausimų, problemų ir jų sprendimo; ^s-912ae6eaa9355c0130a6634f
 
 
 6) kitų su duomenų valdymu, tvarkymu ir naudojimu susijusių klausimų. ^s-6c7400f04e8b138e23927bdc
 
 
-3. Komitetą sudaro [[latest/TAR.026F44E06A27|Oficialiosios statistikos ir valstybės duomenų valdysenos įstatyme]] nurodytos Valstybės duomenų valdymo kolegijos nariai, Reglamento (ES) 2016/679 taikymo priežiūrą atliekančios institucijos vadovas arba jo pavaduotojas ir duomenų valdymo įgaliotiniai. ^s-a359da4cbd82ff31a7be989a
+3. Komitetą sudaro [[latest/TAR.026F44E06A27|Oficialiosios statistikos ir valstybės duomenų valdysenos įstatyme]] nurodytos Valstybės duomenų valdymo kolegijos nariai, [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) taikymo priežiūrą atliekančios institucijos vadovas arba jo pavaduotojas ir duomenų valdymo įgaliotiniai. ^s-a359da4cbd82ff31a7be989a
 
 
 4. Komiteto personalinę sudėtį ir jo darbo reglamentą tvirtina ministras. ^s-c7fffe9a8f1cd308b1a944c6
@@ -1077,7 +1077,7 @@ DUOMENŲ ir informacinių sistemų VALDYMAS IR TVARKYMAS
 5. Sukūrus informacinę sistemą, ji turi būti įteisinta (pasirašytas jos perdavimo eksploatacijai aktas) iki nustatytos informacinės sistemos veikimo pradžios pagal Vyriausybės nustatytą informacinių sistemų steigimo, kūrimo, atnaujinimo, pertvarkymo ir likvidavimo tvarką. ^s-d0e2eb91d94c4d0290caa73e
 
 
-6. Informacinė sistema gali būti kuriama ir įteisinama dalimis (posistemiais). Kai informacinė sistema kuriama dalimis (posistemiais), šių dalių (posistemių) kūrimui ir įteisinimui taikomos šio straipsnio 4, 5 ir [[#^s-c4dcf90b4cf61e920e447685|7 dalių]] nuostatos. ^s-1e4f7292b8184ae79240199b
+6. Informacinė sistema gali būti kuriama ir įteisinama dalimis (posistemiais). Kai informacinė sistema kuriama dalimis (posistemiais), šių dalių (posistemių) kūrimui ir įteisinimui taikomos šio straipsnio [[#^s-9ef1835e2d47e382c045f56b|4]], [[#^s-d0e2eb91d94c4d0290caa73e|5]] ir [[#^s-c4dcf90b4cf61e920e447685|7]] dalių nuostatos. ^s-1e4f7292b8184ae79240199b
 
 
 7. Naudojama tik įteisinta ir Vyriausybės nustatyta informacinių sistemų steigimo, kūrimo, atnaujinimo, pertvarkymo ir likvidavimo tvarka akredituota informacinė sistema arba jos dalis (posistemis). ^s-c4dcf90b4cf61e920e447685
@@ -1266,7 +1266,7 @@ Nr. XIV-2908, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13543
 
 
 
-6. Kai tvarkomi asmens duomenys, duomenų valdytojas ir tvarkytojas turi jiems nustatytas Reglamente (ES) 2016/679 ir (ar) Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatyme nustatytas teises ir pareigas. ^s-b178eabb82ea077c26ab5236
+6. Kai tvarkomi asmens duomenys, duomenų valdytojas ir tvarkytojas turi jiems nustatytas [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) ir (ar) Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatyme nustatytas teises ir pareigas. ^s-b178eabb82ea077c26ab5236
 
 
 
@@ -1584,7 +1584,7 @@ Kiti su duomenų tvarkymu informacinėje sistemoje susiję veiksmai atliekami at
 4. Atlyginimo dydžiai turi būti pagrįsti informacinės sistemos tvarkytojo ir duomenų tvarkytojo ar tvarkytojų sąnaudomis ir diferencijuoti, atsižvelgiant į teikiamų duomenų kiekį ir naudojamą duomenų teikimo būdą. ^s-3dfa698ada98cb257cf8219b
 
 
-5. Jeigu informacinės sistemos tvarkytojas ir duomenų tvarkytojas ar tvarkytojai pagal savo teisinę formą gali siekti pelno, atlyginimo dydžiai neturi viršyti šio straipsnio 3 ir [[#^s-3dfa698ada98cb257cf8219b|4 dalyse]] nurodytų jų patiriamų sąnaudų kartu su leistinu pelnu, jeigu kituose Lietuvos Respublikos įstatymuose, tiesiogiai taikomuose Europos Sąjungos teisės aktuose ar Lietuvos Respublikos tarptautinėse sutartyse nenustatyta kitaip. ^s-bd85dae9940ae4b93d18cfef
+5. Jeigu informacinės sistemos tvarkytojas ir duomenų tvarkytojas ar tvarkytojai pagal savo teisinę formą gali siekti pelno, atlyginimo dydžiai neturi viršyti šio straipsnio [[#^s-58d59e61798595515af14ca0|3]] ir [[#^s-3dfa698ada98cb257cf8219b|4]] dalyse nurodytų jų patiriamų sąnaudų kartu su leistinu pelnu, jeigu kituose Lietuvos Respublikos įstatymuose, tiesiogiai taikomuose Europos Sąjungos teisės aktuose ar Lietuvos Respublikos tarptautinėse sutartyse nenustatyta kitaip. ^s-bd85dae9940ae4b93d18cfef
 
 
 6. Nepriklausomas auditorius ar audito įmonė įvertina, ar atlyginimo dydžiai yra apskaičiuoti laikantis Vyriausybės nustatytos atlyginimo apskaičiavimo tvarkos, ir pateikia išvadą informacinės sistemos tvarkytojui ir valdytojui. ^s-351e46f39e8cc18b2d0eee3c
@@ -1597,7 +1597,7 @@ Kiti su duomenų tvarkymu informacinėje sistemoje susiję veiksmai atliekami at
 ### 34 straipsnis. Neatlygintino objektų registravimo registrų informacinėse sistemose, informacinėse sistemose tvarkomų duomenų teikimo ir (ar) kitų su duomenų tvarkymu susijusių veiksmų finansavimo tvarka ^s-0096a526bc0432afa06dfa24
 
 
-1. Informacinės sistemos tvarkytojo sąnaudos kartu su duomenų tvarkytojo ar tvarkytojų sąnaudomis, kurias jie patyrė dėl šio įstatymo [[#^s-6a5a8447ec35a61e7d3c6933|30 straipsnio 2 dalyje]], [[#^s-d3355a34314bf061585baa0c|31 straipsnio]] 1, 3 ir 4 dalyse ir [[#^s-93fcd285ce00c0e092717c9a|32 straipsnyje]] ar kituose Lietuvos Respublikos įstatymuose, tiesiogiai taikomuose Europos Sąjungos teisės aktuose ar Lietuvos Respublikos tarptautinėse sutartyse nurodyto neatlygintino objektų registravimo registrų informacinėse sistemose, registrų informacinėse sistemose tvarkomų duomenų teikimo, įskaitant ir pakartotinai naudojamus duomenis, naudojantis Valstybės duomenų valdysenos informacinės sistemos funkcionalumu ar Lietuvos atvirų duomenų portalo priemonėmis, ir (ar) kitų su duomenų tvarkymu susijusių veiksmų atlikimo, taip pat lengvatų taikymo Lietuvos Respublikos įstatymuose nurodytoms tikslinėms asmenų grupėms, atlyginamos iš valstybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar Privalomojo sveikatos draudimo fondo biudžeto lėšų, kitų valstybės pinigų fondų ir (ar) Lietuvos Respublikos teisės aktuose nustatytų finansavimo šaltinių ir (ar) sumažinant šias sąnaudas mokėtina jų pelno įmokos suma, kai informacinės sistemos tvarkytojas ar duomenų tvarkytojas ar tvarkytojai pagal savo teisinę formą gali siekti pelno, Vyriausybės nustatyta atlyginimo apskaičiavimo tvarka. ^s-54aaf9f9515d627d21b8e162
+1. Informacinės sistemos tvarkytojo sąnaudos kartu su duomenų tvarkytojo ar tvarkytojų sąnaudomis, kurias jie patyrė dėl šio įstatymo [[#^s-6a5a8447ec35a61e7d3c6933|30 straipsnio 2 dalyje]], [[#^s-d3355a34314bf061585baa0c|31 straipsnio]] [[#^s-9860468a2c9ff8b2d16f151f|1]], [[#^s-b72554018160c95ab36eadde|3]] ir [[#^s-b8afd0876e497fab9bd16885|4]] dalyse ir [[#^s-93fcd285ce00c0e092717c9a|32 straipsnyje]] ar kituose Lietuvos Respublikos įstatymuose, tiesiogiai taikomuose Europos Sąjungos teisės aktuose ar Lietuvos Respublikos tarptautinėse sutartyse nurodyto neatlygintino objektų registravimo registrų informacinėse sistemose, registrų informacinėse sistemose tvarkomų duomenų teikimo, įskaitant ir pakartotinai naudojamus duomenis, naudojantis Valstybės duomenų valdysenos informacinės sistemos funkcionalumu ar Lietuvos atvirų duomenų portalo priemonėmis, ir (ar) kitų su duomenų tvarkymu susijusių veiksmų atlikimo, taip pat lengvatų taikymo Lietuvos Respublikos įstatymuose nurodytoms tikslinėms asmenų grupėms, atlyginamos iš valstybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar Privalomojo sveikatos draudimo fondo biudžeto lėšų, kitų valstybės pinigų fondų ir (ar) Lietuvos Respublikos teisės aktuose nustatytų finansavimo šaltinių ir (ar) sumažinant šias sąnaudas mokėtina jų pelno įmokos suma, kai informacinės sistemos tvarkytojas ar duomenų tvarkytojas ar tvarkytojai pagal savo teisinę formą gali siekti pelno, Vyriausybės nustatyta atlyginimo apskaičiavimo tvarka. ^s-54aaf9f9515d627d21b8e162
 
 
 2. Jeigu informacinės sistemos tvarkytojas ir duomenų tvarkytojas ar tvarkytojai yra skirtingi subjektai, surinktas atlyginimas jiems yra paskirstomas proporcingai ir patirtos sąnaudos atlyginamos proporcingai Vyriausybės nustatyta atlyginimo apskaičiavimo tvarka, įvertinus kiekvieno iš jų patirtas sąnaudas. ^s-d337be9a82572b981233801d
@@ -1736,7 +1736,7 @@ IT PASLAUGŲ TEIKIMAS
 3) ir (ar) techninės priežiūros paslaugų teikėjas, kurį IT paslaugų gavėjas parenka [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatymo]] nustatyta tvarka tik techninės priežiūros paslaugoms teikti. Šių paslaugų pirkimo techninė specifikacija turi būti suderinta su duomenų valdytoju ir informacinės sistemos tvarkytoju, jeigu IT paslaugas įsigyja informacinės sistemos valdytojas, arba su informacinės sistemos valdytoju ir duomenų valdytoju, jeigu IT paslaugas įsigyja informacinės sistemos tvarkytojas. ^s-92a5a427ab000653e36b9ac8
 
 
-3. Informacinės sistemos valdytojas, pradėjęs naudotis techninės priežiūros paslaugų teikėjo teikiamomis IT paslaugomis, negali jam perduoti šio įstatymo [[#^s-7772162176321cb35de84584|27 straipsnio 1 dalyje]] nustatytų teisių ir [[#^s-a6ed605e2735df412f71a609|2 dalyje]] nustatytų pareigų, o informacinės sistemos tvarkytojas negali perduoti šio įstatymo [[#^s-03d81963fb69ee9bd304c8ad|27 straipsnio 3 dalyje]] nustatytų teisių ir 4 ir 5 dalyse nustatytų pareigų. IT paslaugų gavėjas privalo užtikrinti techninės priežiūros paslaugų teikėjo teikiamų paslaugų valdymą ir jų atitikties nustatytiems reikalavimams kontrolę. ^s-7044b3811a5734ee52ad8c50
+3. Informacinės sistemos valdytojas, pradėjęs naudotis techninės priežiūros paslaugų teikėjo teikiamomis IT paslaugomis, negali jam perduoti šio įstatymo [[#^s-7772162176321cb35de84584|27 straipsnio 1 dalyje]] nustatytų teisių ir [[#^s-a6ed605e2735df412f71a609|2 dalyje]] nustatytų pareigų, o informacinės sistemos tvarkytojas negali perduoti šio įstatymo [[#^s-03d81963fb69ee9bd304c8ad|27 straipsnio 3 dalyje]] nustatytų teisių ir [[#^s-15a3ad28a1a972e07fe9b92c|4]] ir [[#^s-79bcac101bd1441e7e997554|5]] dalyse nustatytų pareigų. IT paslaugų gavėjas privalo užtikrinti techninės priežiūros paslaugų teikėjo teikiamų paslaugų valdymą ir jų atitikties nustatytiems reikalavimams kontrolę. ^s-7044b3811a5734ee52ad8c50
 
 
 
@@ -1782,7 +1782,7 @@ Nr. XIV-2908, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13543
 2. Sprendimą dėl centralizuotai teikiamų IT paslaugų grupių, IT paslaugų teikėjų ir gavėjų priima Vyriausybė. ^s-834eede03b10fad7069b3bd1
 
 
-3. IT paslaugas centralizuotai teikia valstybės IT paslaugų teikėjas (ta apimtimi, kiek tai neprieštarauja [[latest/TAR.0BDFFD850A66#^s-4abf605ed12f339195435a7b|Viešojo administravimo įstatymo 5 straipsnio]] 1 ir [[#^s-834eede03b10fad7069b3bd1|2 dalių]] nuostatoms dėl viešojo administravimo įgaliojimų suteikimo masto). ^s-b8655d3d105f869993a2b058
+3. IT paslaugas centralizuotai teikia valstybės IT paslaugų teikėjas (ta apimtimi, kiek tai neprieštarauja [[latest/TAR.0BDFFD850A66#^s-4abf605ed12f339195435a7b|Viešojo administravimo įstatymo 5 straipsnio]] [[latest/TAR.0BDFFD850A66|1]] ir [[latest/TAR.0BDFFD850A66|2]] dalių nuostatoms dėl viešojo administravimo įgaliojimų suteikimo masto). ^s-b8655d3d105f869993a2b058
 
 
 4. Valstybės IT paslaugų teikėjas ar teikėjai užtikrina centralizuotą ministro tvirtinamame IT paslaugų kataloge nurodytų IT paslaugų teikimą. ^s-a451507e662eb10a6a1c8f30
@@ -1928,57 +1928,57 @@ Nr. XII-165, 2013-01-17, Žin., 2013, Nr. 11-509 (2013-01-30), i. k. [[latest/TA
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1429, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20554
-Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 5, 11, 18, 30, 34, [[#^s-f053631d21ec154c9a155a0b|43 straipsnių]] pakeitimo ir Įstatymo papildymo 43-1 straipsniu įstatymas
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 [[#^s-6da8e3f3d68a23e3522a985d|5]], [[#^s-e7151f9c7c687df4ea5018e6|11]], [[#^s-7d7d8d505b0443279d539d4f|18]], [[#^s-6cf99186f9926f49b57b0170|30]], [[#^s-0096a526bc0432afa06dfa24|34]], [[#^s-f053631d21ec154c9a155a0b|43]] straipsnių pakeitimo ir Įstatymo papildymo 43-1 straipsniu įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1302, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17032
-Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 2, 5 ir [[#^s-f053631d21ec154c9a155a0b|43 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 [[#^s-7010b081e88378c3cf7f6554|2]], [[#^s-6da8e3f3d68a23e3522a985d|5]] ir [[#^s-f053631d21ec154c9a155a0b|43]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2668, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25264
-Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 5, 6, 27 ir [[#^s-f053631d21ec154c9a155a0b|43 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 [[#^s-6da8e3f3d68a23e3522a985d|5]], [[#^s-6b341178d6cd17b684470683|6]], [[#^s-ede4df57cd7bf8d1aea03e88|27]] ir [[#^s-f053631d21ec154c9a155a0b|43]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2667, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25263
-Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 1, 2, 10, 11, 18, 26, 27, 28, 29, 30, 35, 36, 38, [[#^s-08cf504b20e0684706cdd406|39 straipsnių]] pakeitimo, [[#^s-31be8179ae72c5834ed29303|37 straipsnio]] ir priedo pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 [[#^s-cdc8fa08e363025f10df340d|1]], [[#^s-7010b081e88378c3cf7f6554|2]], [[#^s-73d3d25e70e0616ae3dfbda3|10]], [[#^s-e7151f9c7c687df4ea5018e6|11]], [[#^s-7d7d8d505b0443279d539d4f|18]], [[#^s-50a5b6f1b043e64c1d2e6228|26]], [[#^s-ede4df57cd7bf8d1aea03e88|27]], [[#^s-8b00457e1316e227e8bb25df|28]], [[#^s-0d83d64abad4fc0ff0eb3a6e|29]], [[#^s-6cf99186f9926f49b57b0170|30]], [[#^s-39ca41f7d71c2f92ec06f3d3|35]], [[#^s-ff3f971788842f65c468de65|36]], [[#^s-95b9a616c4f38d8548421cc2|38]], [[#^s-08cf504b20e0684706cdd406|39]] straipsnių pakeitimo, [[#^s-31be8179ae72c5834ed29303|37 straipsnio]] ir priedo pripažinimo netekusiais galios įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-797, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18852
-Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 5, 6, 43 ir 43-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 [[#^s-6da8e3f3d68a23e3522a985d|5]], [[#^s-6b341178d6cd17b684470683|6]], [[#^s-f053631d21ec154c9a155a0b|43]] ir 43-1 straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-848, 2017-12-07, paskelbta TAR 2017-12-18, i. k. 2017-20329
-Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 25, 27, 29, 35 ir [[#^s-95b9a616c4f38d8548421cc2|38 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 [[#^s-b26ce27e2b76662a0cdfcdc0|25]], [[#^s-ede4df57cd7bf8d1aea03e88|27]], [[#^s-0d83d64abad4fc0ff0eb3a6e|29]], [[#^s-39ca41f7d71c2f92ec06f3d3|35]] ir [[#^s-95b9a616c4f38d8548421cc2|38]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1363, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11183
-Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 2, 5, 6, 22 ir [[#^s-08cf504b20e0684706cdd406|39 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 [[#^s-7010b081e88378c3cf7f6554|2]], [[#^s-6da8e3f3d68a23e3522a985d|5]], [[#^s-6b341178d6cd17b684470683|6]], [[#^s-75c60807335b19b515d4585f|22]] ir [[#^s-08cf504b20e0684706cdd406|39]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1871, 2018-12-20, paskelbta TAR 2019-01-03, i. k. 2019-00094
-Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 1, 2, 5, 6, [[#^s-f053631d21ec154c9a155a0b|43 straipsnių]] pakeitimo ir Įstatymo papildymo 43-2, 43-3 straipsniais įstatymas
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 [[#^s-cdc8fa08e363025f10df340d|1]], [[#^s-7010b081e88378c3cf7f6554|2]], [[#^s-6da8e3f3d68a23e3522a985d|5]], [[#^s-6b341178d6cd17b684470683|6]], [[#^s-f053631d21ec154c9a155a0b|43]] straipsnių pakeitimo ir Įstatymo papildymo 43-2, 43-3 straipsniais įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2280, 2019-07-09, paskelbta TAR 2019-07-24, i. k. 2019-12171
-Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 2 ir [[#^s-0d83d64abad4fc0ff0eb3a6e|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 [[#^s-7010b081e88378c3cf7f6554|2]] ir [[#^s-0d83d64abad4fc0ff0eb3a6e|29]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2538, 2019-11-26, paskelbta TAR 2019-11-28, i. k. 2019-19037
-Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 2 ir 43-3 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 [[#^s-7010b081e88378c3cf7f6554|2]] ir 43-3 straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2539, 2019-11-26, paskelbta TAR 2019-12-06, i. k. 2019-19760
-Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 19, 31 ir [[#^s-f053631d21ec154c9a155a0b|43 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 [[#^s-2b41d0b50ff6299d37866dd7|19]], [[#^s-d3355a34314bf061585baa0c|31]] ir [[#^s-f053631d21ec154c9a155a0b|43]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1993,7 +1993,7 @@ Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. X
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1077, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11312
-Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 1, 3, 4, 5, 6, 18, 22, 30, 39, 43-2, 43-3 straipsnių pakeitimo ir [[#^s-ac2bcbca379ac73b495cc3d9|7 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 [[#^s-cdc8fa08e363025f10df340d|1]], [[#^s-c445e1764ba48d79ca90269f|3]], [[#^s-a03f4c932b9e224de0f6b985|4]], [[#^s-6da8e3f3d68a23e3522a985d|5]], [[#^s-6b341178d6cd17b684470683|6]], [[#^s-7d7d8d505b0443279d539d4f|18]], [[#^s-75c60807335b19b515d4585f|22]], [[#^s-6cf99186f9926f49b57b0170|30]], [[#^s-08cf504b20e0684706cdd406|39]], 43-2, 43-3 straipsnių pakeitimo ir [[#^s-ac2bcbca379ac73b495cc3d9|7 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2003,4 +2003,4 @@ Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. X
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2908, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13543
-Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 1, 3, 4, 5, 7, 14, 15, 26, 27, 39, 41, 42, 43 ir [[#^s-5053aaaccb18f0659d17f6f4|46 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo Nr. XI-1807 [[#^s-cdc8fa08e363025f10df340d|1]], [[#^s-c445e1764ba48d79ca90269f|3]], [[#^s-a03f4c932b9e224de0f6b985|4]], [[#^s-6da8e3f3d68a23e3522a985d|5]], [[#^s-ac2bcbca379ac73b495cc3d9|7]], [[#^s-6ca43de4a46f9ec667788f7a|14]], [[#^s-967d9b6e281ee09b02c95b93|15]], [[#^s-50a5b6f1b043e64c1d2e6228|26]], [[#^s-ede4df57cd7bf8d1aea03e88|27]], [[#^s-08cf504b20e0684706cdd406|39]], [[#^s-5ca184da7af39b1bc5b9c527|41]], [[#^s-fde7551a81e55aef936acf12|42]], [[#^s-f053631d21ec154c9a155a0b|43]] ir [[#^s-5053aaaccb18f0659d17f6f4|46]] straipsnių pakeitimo įstatymas

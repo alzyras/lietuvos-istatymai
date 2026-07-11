@@ -9,11 +9,8 @@ pavadinimas: "Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.8AA530469899#^s-bc2a70d68c2fd2d5a26f9ceb|Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 107, 113 straipsnių papildymo ir pakeitimo įstatymas]] - 8 straipsnio 1 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.3EB34933E485#^s-165a514f5b02ec3454d3a4c4|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Įstatymas Nr. XII-1511
-- [[latest/TAR.3EB34933E485#^s-471ad9654ded2e34c0e8a829|Lietuvos Respublikos mokesčių administravimo įstatymas]] - Įstatymas Nr. XII-1511
-- [[latest/TAR.8AA530469899#^s-5d6411da03d894928c6d8922|Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 107, 113 straipsnių papildymo ir pakeitimo įstatymas]] - Įstatymas Nr. XII-1511
-- [[latest/TAR.8AA530469899#^s-76370b224ad4a6cead3ffbce|Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 107, 113 straipsnių papildymo ir pakeitimo įstatymas]] - Įstatymas Nr. XII-1511
+_Nėra._

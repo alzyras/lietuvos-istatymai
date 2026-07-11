@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 22 straipsnio pakeitimas ^s-82062041d9965ed1adb38d5e
 
 
-Pakeisti 22 straipsnio 1 dalies 3 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/ea8fee50ac9311e6b844f0f29024f5ac#^s-87d7cac57a2de7081f0d2e75|22 straipsnio 1 dalies 3 punktą]] ir jį išdėstyti taip:
 
 
 „3) kredito gavėjas ar jo sutuoktinis tampa bedarbiu arba netenka ne mažiau kaip trečdalio pajamų;“.

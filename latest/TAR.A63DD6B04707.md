@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-fd40a3ffa29b14cc54e4db04
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2009 m. gruodžio 7 d. dekretą Nr. 1K-224, ratifikuoja 2009 m. birželio 22 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimą dėl bendradarbiavimo mokslo ir technologijų srityje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2009 m. gruodžio 7 d. dekretą Nr. 1K-224](https://e-tar.lt/portal/lt/legalAct/TAR.D944F986A97F), ratifikuoja 2009 m. birželio 22 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimą dėl bendradarbiavimo mokslo ir technologijų srityje.
 
 
 

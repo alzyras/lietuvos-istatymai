@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos valstybinių socialinio draudimo pensijų įs
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - Valstybinių socialinio draudimo pensijų įstatymo 29 straipsnio 3 dalies 2 punkto
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A7F77DF94F5D#^s-e40f8e7af5afea6c1a51aa58|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 2 citatos - VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 18, 55 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.A7F77DF94F5D#^s-e40f8e7af5afea6c1a51aa58|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 18, 55 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

@@ -9,7 +9,7 @@ pavadinimas: "Dėl Lietuvos Respublikos Aukščiausiosios Tarybos deputatų ir j
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.DE63AAC4EF06|Dėl Lietuvos Respublikos Laikinojo Pagrindinio Įstatymo]] - dėl Lietuvos Respublikos Laikinojo Pagrindinio Įstatymo 79 straipsnio
 
 ## Šį įstatymą cituoja
 

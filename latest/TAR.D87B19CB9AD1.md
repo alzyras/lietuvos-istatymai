@@ -75,7 +75,7 @@ Vilnius
 4. Papildyti straipsnį 6 dalimi: ^s-874ee4e15de0d82a609e6990
 
 
-„6. Šio straipsnio 1, 2, 3 ir [[#^s-874ee4e15de0d82a609e6990|4 dalys]] taikomos:
+„6. Šio straipsnio [[#^s-e01dedbab5b0302cacc49b0b|1]], [[#^s-76bf7eac43cb00d5a9d50a55|2]], [[#^s-e3abcca63d20ab4265fa5fe8|3]] ir 4 dalys taikomos:
 
 
 1) patikrinimo prie išorinės sienos metu; ^s-8d08ee70f962a3a11b3dd84d
@@ -133,7 +133,7 @@ Pripažinti [[#^s-89af69fa824fdc4b73c11b62|6 straipsnį]] netekusiu galios.
 26 straipsnio 1 dalyje po žodžių „kitais įstatymais“ įrašyti žodžius „Europos Sąjungos teisės aktais“ ir šią dalį išdėstyti taip:
 
 
-„1. Valstybės sienos apsauga yra sudėtinė Lietuvos Respublikos nacionalinio saugumo užtikrinimo sistemos dalis. Ji atliekama vadovaujantis Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais įstatymais, Europos Sąjungos teisės aktais, Vyriausybės nutarimais bei kitais teisės aktais.“
+„1. Valstybės sienos apsauga yra sudėtinė Lietuvos Respublikos nacionalinio saugumo užtikrinimo sistemos dalis. Ji atliekama vadovaujantis [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais įstatymais, Europos Sąjungos teisės aktais, Vyriausybės nutarimais bei kitais teisės aktais.“
 
 
 ### 9 straipsnis. Įstatymo papildymas priedu ^s-324575dde37aff93cd587b47
@@ -154,7 +154,7 @@ apsaugos įstatymo priedas
 ### 10 straipsnis. Baigiamosios nuostatos ^s-40bfa72536a8ae5dd692a6de
 
 
-1. Šio įstatymo 2 ir [[#^s-89af69fa824fdc4b73c11b62|6 straipsniai]] įsigalioja nuo Europos Sąjungos Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo. ^s-a8cb6e8a44e63e040f14d65e
+1. Šio įstatymo [[#^s-4214739b73e26abb928c8bb0|2]] ir [[#^s-89af69fa824fdc4b73c11b62|6]] straipsniai įsigalioja nuo Europos Sąjungos Tarybos sprendimo, patikrinus pagal taikomas Šengeno vertinimo procedūras, ar būtinos sąlygos dėl viso atitinkamo acquis taikymo yra įvykdytos Lietuvos Respublikoje, priėmimo. ^s-a8cb6e8a44e63e040f14d65e
 
 
 2. Vyriausybė arba jos įgaliotos institucijos iki [[#^s-a8cb6e8a44e63e040f14d65e|šio straipsnio 1 dalyje]] nurodyto sprendimo priima teisės aktus, reguliuojančius patikrinimo prie išorės sienos atlikimo tvarką bei patikrinimo prie vidaus sienos laikino atnaujinimo tvarką, peržiūri teisės aktus, nustatančius pasienio ruožo ribas, ir parengia atitinkamų teisės aktų pakeitimus dėl pasienio teisinio režimo sušvelninimo. ^s-cc8470fde02e974365411cdf

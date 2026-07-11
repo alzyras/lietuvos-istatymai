@@ -95,7 +95,7 @@ Nr. XV-832, 2026-04-21, paskelbta TAR 2026-04-28, i. k. 2026-06947
 6) civilinės būklės aktų įrašus liudijančių išrašų išdavimą; ^s-ec2baf751cefd52d60d2c1d1
 
 
-7) daugiakalbės standartinės formos pagal 2016 m. liepos 6 d. Europos Parlamento ir Tarybos reglamentą (ES) 2016/1191, kuriuo skatinamas laisvas piliečių judėjimas supaprastinant tam tikrų viešųjų dokumentų pateikimo Europos Sąjungoje reikalavimus ir iš dalies keičiamas Reglamentas (ES) Nr. 1024/2012, išdavimą; ^s-08f8b40d15d78536232632a9
+7) daugiakalbės standartinės formos pagal 2016 m. liepos 6 d. Europos Parlamento ir Tarybos [reglamentą (ES) 2016/1191](https://eur-lex.europa.eu/eli/reg/2016/1191/oj), kuriuo skatinamas laisvas piliečių judėjimas supaprastinant tam tikrų viešųjų dokumentų pateikimo Europos Sąjungoje reikalavimus ir iš dalies keičiamas [Reglamentas (ES) Nr. 1024/2012](https://eur-lex.europa.eu/eli/reg/1024/2012/oj), išdavimą; ^s-08f8b40d15d78536232632a9
 
 
 8) dokumentų pareikalavimą iš Lietuvos Respublikos ar užsienio valstybių institucijų; ^s-1e2a653c7bd9e87464827b6f
@@ -254,7 +254,7 @@ Nr. XIV-1282, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15428
 
 
 13) prašymų išduoti Šengeno vizas Vizų kodekso 16 straipsnio 5 dalyje numatytais atvejais, kai prašymus pateikia užsieniečiai, kurių pilietybės valstybės netaiko vizų režimo Lietuvos Respublikos piliečiams arba kurių pilietybės valstybė Lietuvos Respublikos piliečiams taiko ne mažiau palankias sąlygas, negu numatyta Vizų kodekso 16 straipsnio 5 dalyje, nagrinėjimą; ^s-8418d5de082636ec1fc74374
-TAR pastaba. [[#^s-8418d5de082636ec1fc74374|6 straipsnio 1 dalies 13 punktas]]  įsigalioja 2020-06-05.
+TAR pastaba. 6 straipsnio 1 dalies 13 punktas  įsigalioja 2020-06-05.
 
 
 14) prašymų išduoti Šengeno vizas Vizų kodekso 16 straipsnio 6 dalyje numatytais atvejais nagrinėjimą konsulinės įstaigos vadovo ar konsulinio pareigūno sprendimu (kai sprendimą atleisti nuo konsulinio mokesčio priima konsulinis pareigūnas, turi būti gautas Lietuvos valstybės institucijų patvirtinimas, kad užsieniečiai vyksta į Lietuvos Respubliką dalyvauti susitikimuose ar renginiuose, skirtuose skatinti kultūrinius ar sportinius interesus, interesus užsienio politikos ar vystomojo bendradarbiavimo politikos srityse ir kitose esminių visuomeninės svarbos interesų srityse); ^s-9c83be58ba304350889a34c2
@@ -340,10 +340,10 @@ priedas
 1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą Nr. 1612/68/EEB ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB. ^s-d1c98b00617e03b081a8aa2c
 
 
-2. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas), su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1155. ^s-3cbca4e7ef2ca86260a1d5e6
+2. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 810/2009, nustatantis Bendrijos vizų kodeksą (Vizų kodeksas), su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/1155](https://eur-lex.europa.eu/eli/reg/2019/1155/oj). ^s-3cbca4e7ef2ca86260a1d5e6
 
 
-3. 2019 m. birželio 18 d. Tarybos direktyva (ES) 2019/997, kuria nustatomas ES laikinasis kelionės dokumentas ir panaikinamas Sprendimas 96/409/BUSP. ^s-aedc2931b7a7c34b79801aa7
+3. 2019 m. birželio 18 d. Tarybos [direktyva (ES) 2019/997](https://eur-lex.europa.eu/eli/dir/2019/997/oj), kuria nustatomas ES laikinasis kelionės dokumentas ir panaikinamas Sprendimas 96/409/BUSP. ^s-aedc2931b7a7c34b79801aa7
 Papildyta punktu:
 Nr. XIV-2931, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13518
 
@@ -355,7 +355,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1316, 96.04.30, Žin., 1996, Nr. 46-1111 (96.05.17)
-[[#^s-be520cd843daaaf965d26df2|LIETUVOS RESPUBLIKOS KONSULINIO MOKESČIO ĮSTATYMO 8 IR 9 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS KONSULINIO MOKESČIO ĮSTATYMO [[#^s-935ace62efe8303474414c5c|8]] IR [[#^s-be520cd843daaaf965d26df2|9]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 1996 metų liepos 1 dienos.
 
 2.
@@ -425,12 +425,12 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1522, 2014-12-23, paskelbta TAR 2014-12-31, i. k. 2014-21284
-Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 3, [[#^s-5626daeacb88055d4ba70a15|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 [[#^s-189d776edecdacea990c8bf3|3]], [[#^s-5626daeacb88055d4ba70a15|6]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2118, 2015-12-03, paskelbta TAR 2015-12-14, i. k. 2015-19707
-Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 3 ir [[#^s-5626daeacb88055d4ba70a15|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 [[#^s-189d776edecdacea990c8bf3|3]] ir [[#^s-5626daeacb88055d4ba70a15|6]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -445,14 +445,14 @@ Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 pakeitimo įstatym
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1282, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15428
-Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 3, 5 ir [[#^s-5626daeacb88055d4ba70a15|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 [[#^s-189d776edecdacea990c8bf3|3]], [[#^s-a1ede3fae17ea89a9546a41b|5]] ir [[#^s-5626daeacb88055d4ba70a15|6]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2931, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13518
-Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 3, [[#^s-5626daeacb88055d4ba70a15|6 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 [[#^s-189d776edecdacea990c8bf3|3]], [[#^s-5626daeacb88055d4ba70a15|6]] straipsnių ir priedo pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-832, 2026-04-21, paskelbta TAR 2026-04-28, i. k. 2026-06947
-Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 3, 6 ir [[#^s-a28ecdd1a514354eedbdad1f|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos konsulinio mokesčio įstatymo Nr. I-509 [[#^s-189d776edecdacea990c8bf3|3]], [[#^s-5626daeacb88055d4ba70a15|6]] ir [[#^s-a28ecdd1a514354eedbdad1f|7]] straipsnių pakeitimo įstatymas

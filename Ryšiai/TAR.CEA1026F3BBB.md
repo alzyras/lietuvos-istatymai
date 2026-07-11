@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos specialios paskirties akcinės bendrovės \"L
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.5C23DECF6210|Lietuvos Respublikos valstybės skolos įstatymas]] - 2 citatos - Valstybės skolos įstatymu
+- [[latest/TAR.5C23DECF6210|Lietuvos Respublikos valstybės skolos įstatymas]] - Valstybės skolos įstatymu
 
 ## Šį įstatymą cituoja
 

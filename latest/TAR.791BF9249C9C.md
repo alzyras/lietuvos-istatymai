@@ -220,7 +220,7 @@ Sporto sistema apima šias sritis:
 2. Statistinius fizinio aktyvumo ir aukšto meistriškumo sporto tyrimus atlieka švietimo, mokslo ir sporto ministro įgaliota institucija, vadovaudamasi [[latest/TAR.026F44E06A27|Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymu]]. ^s-90f39d01363c805575f52b93
 
 
-3. Sporto registro informacinės sistemos valdytoja yra Švietimo, mokslo ir sporto ministerija, duomenų valdytoja – švietimo, mokslo ir sporto ministro įgaliota institucija. Įstaigos, ugdančios ir (ar) rengiančios sportininkus, sporto organizacijos, sporto bazių valdytojai, juridiniai asmenys, gaunantys valstybės biudžeto lėšų šio įstatymo [[#^s-f65ffef46fdb594243c607d9|20 straipsnio 1 dalies 1 punkte]] ir [[#^s-3c8be27eb396969279bd62a4|21 straipsnio 3 dalyje]] nurodytoms programoms ir šio įstatymo [[#^s-fed68695f60d33ea215ff578|20 straipsnio 1 dalies]] 2, 3 punktuose ir [[#^s-5249ff21f4ba9e63f38b0caa|21 straipsnio 9 dalyje]] nurodytiems projektams, savivaldybių administracijos, nacionalinė antidopingo organizacija, Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos duomenis Sporto registro informacinei sistemai privalo teikti Sporto registro informacinės sistemos nuostatuose nustatyta tvarka. Sporto registro informacinėje sistemoje registruojami duomenys apie sporto organizacijas, sportininkus, aukšto meistriškumo sporto trenerius, fizinio aktyvumo trenerius, aukšto meistriškumo sporto instruktorius, fizinio aktyvumo instruktorius, teisėjus ir sporto bazes. ^s-08700212750c24d0abbf5af7
+3. Sporto registro informacinės sistemos valdytoja yra Švietimo, mokslo ir sporto ministerija, duomenų valdytoja – švietimo, mokslo ir sporto ministro įgaliota institucija. Įstaigos, ugdančios ir (ar) rengiančios sportininkus, sporto organizacijos, sporto bazių valdytojai, juridiniai asmenys, gaunantys valstybės biudžeto lėšų šio įstatymo [[#^s-f65ffef46fdb594243c607d9|20 straipsnio 1 dalies 1 punkte]] ir [[#^s-3c8be27eb396969279bd62a4|21 straipsnio 3 dalyje]] nurodytoms programoms ir šio įstatymo [[#^s-fed68695f60d33ea215ff578|20 straipsnio 1 dalies]] [[#^s-321e9c3086b68a5bfb283ec4|2]], [[#^s-b1f3d3493196d02e1768a9a1|3]] punktuose ir [[#^s-5249ff21f4ba9e63f38b0caa|21 straipsnio 9 dalyje]] nurodytiems projektams, savivaldybių administracijos, nacionalinė antidopingo organizacija, Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos duomenis Sporto registro informacinei sistemai privalo teikti Sporto registro informacinės sistemos nuostatuose nustatyta tvarka. Sporto registro informacinėje sistemoje registruojami duomenys apie sporto organizacijas, sportininkus, aukšto meistriškumo sporto trenerius, fizinio aktyvumo trenerius, aukšto meistriškumo sporto instruktorius, fizinio aktyvumo instruktorius, teisėjus ir sporto bazes. ^s-08700212750c24d0abbf5af7
 
 
 
@@ -282,7 +282,7 @@ Sporto sistema apima šias sritis:
 1) sporto politikos strateginių tikslų ir (arba) pažangos uždavinių; ^s-e347c2792470b03a827930ab
 
 
-2) šio įstatymo [[#^s-fed68695f60d33ea215ff578|20 straipsnio 1 dalies]] 2 ir [[#^s-6f6eb36285bd92132b304b72|3 punktuose]] nurodytų projektų finansavimo valstybės biudžeto lėšomis prioritetų; ^s-3e9bbdf82dc6dc8062b7e30b
+2) šio įstatymo [[#^s-fed68695f60d33ea215ff578|20 straipsnio 1 dalies]] [[#^s-321e9c3086b68a5bfb283ec4|2]] ir [[#^s-b1f3d3493196d02e1768a9a1|3]] punktuose nurodytų projektų finansavimo valstybės biudžeto lėšomis prioritetų; ^s-3e9bbdf82dc6dc8062b7e30b
 
 
 3) šio įstatymo [[#^s-5e6ef14cb3d88609cb82af60|21 straipsnio 4 dalyje]] nurodytų bendrųjų vertinimo kriterijų detalizavimo; ^s-6f6eb36285bd92132b304b72
@@ -380,7 +380,7 @@ Sporto sistema apima šias sritis:
 7) bendradarbiauja su tarptautinėmis organizacijomis bei nacionalinėmis kovos su manipuliavimu aukšto meistriškumo sporto varžybomis platformomis, kaip jos suprantamos Europos Tarybos konvencijoje dėl manipuliavimo sporto varžybomis; ^s-35c578d1f9d33ec0fa9ccbcd
 
 
-8) savo interneto svetainėje skelbia šiuos einamųjų kalendorinių metų duomenis: priemones, kuriomis įgyvendinama Europos Tarybos konvencija dėl manipuliavimo sporto varžybomis, jų terminus ir joms skirtas valstybės biudžeto lėšas, šių priemonių įgyvendinimą. ^s-c704c2d56a1bc89a247ee259
+8) savo interneto svetainėje skelbia šiuos einamųjų kalendorinių metų duomenis: priemones, kuriomis įgyvendinama [Europos Tarybos konvencija dėl manipuliavimo sporto varžybomis](https://e-tar.lt/portal/lt/legalAct/5ef899d0435011efbdaea558de59136c), jų terminus ir joms skirtas valstybės biudžeto lėšas, šių priemonių įgyvendinimą. ^s-c704c2d56a1bc89a247ee259
 
 
 3. [[#^s-a0928fdfe8cb0917c2790f63|Šio straipsnio 2 dalyje]] nurodytų kovos su manipuliavimu aukšto meistriškumo sporto varžybomis koordinatoriaus funkcijų atlikimas yra finansuojamas iš Švietimo, mokslo ir sporto ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų. ^s-68f1f2681a1e94154260e5ea
@@ -513,7 +513,7 @@ FIZINIO AKTYVUMO IR AUKŠTO MEISTRIŠKUMO SPORTO TRENERIAI, FIZINIO AKTYVUMO IR 
 ### 14 straipsnis. Teisė vykdyti fizinio aktyvumo pratybas ar sporto pratybas ^s-454633fae0346421fa09fd50
 
 
-1. Fizinio aktyvumo ir sporto pratybas, išskyrus fizinio aktyvumo pratybas pagal ikimokyklinio ugdymo, priešmokyklinio ugdymo, bendrojo ugdymo programas, gali vykdyti fizinio aktyvumo ar aukšto meistriškumo sporto treneriai ir fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriai, vadovaujami fizinio aktyvumo ar aukšto meistriškumo sporto trenerių, atitinkantys šio straipsnio 2 ir [[#^s-cb19c947e2b1667d630e09b6|3 dalyse]] nurodytus reikalavimus, arba asmenys, kurių kitose valstybėse įgyta fizinio aktyvumo ar aukšto meistriškumo sporto trenerio ir fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriaus profesinė kvalifikacija yra pripažinta pagal Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymą. ^s-ea94bbb3c8db3dc731304bd4
+1. Fizinio aktyvumo ir sporto pratybas, išskyrus fizinio aktyvumo pratybas pagal ikimokyklinio ugdymo, priešmokyklinio ugdymo, bendrojo ugdymo programas, gali vykdyti fizinio aktyvumo ar aukšto meistriškumo sporto treneriai ir fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriai, vadovaujami fizinio aktyvumo ar aukšto meistriškumo sporto trenerių, atitinkantys šio straipsnio [[#^s-ea05de54819d7d4ee717ad73|2]] ir [[#^s-cb19c947e2b1667d630e09b6|3]] dalyse nurodytus reikalavimus, arba asmenys, kurių kitose valstybėse įgyta fizinio aktyvumo ar aukšto meistriškumo sporto trenerio ir fizinio aktyvumo ar aukšto meistriškumo sporto instruktoriaus profesinė kvalifikacija yra pripažinta pagal Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymą. ^s-ea94bbb3c8db3dc731304bd4
 
 
 2. Teisę dirbti fizinio aktyvumo ar aukšto meistriškumo sporto treneriu arba teikti fizinio aktyvumo ar aukšto meistriškumo sporto trenerio paslaugas turi: ^s-ea05de54819d7d4ee717ad73
@@ -582,7 +582,7 @@ FIZINIO AKTYVUMO IR AUKŠTO MEISTRIŠKUMO SPORTO TRENERIAI, FIZINIO AKTYVUMO IR 
 10. Aukšto meistriškumo sporto trenerių, dirbančių valstybės ar savivaldybių biudžetinėse įstaigose, kvalifikacinių kategorijų suteikimo tvarką nustato švietimo, mokslo ir sporto ministras. ^s-d311d393ae24371e8b1fc02b
 
 
-11. Fizinio aktyvumo ir aukšto meistriškumo sporto trenerių, fizinio aktyvumo ir aukšto meistriškumo sporto instruktorių veiklos teisėtumo priežiūrą, tikrindama šią veiklą vykdančių asmenų atitiktį šio straipsnio 1–3 ir [[#^s-58a211b142a06e908edb8e42|7 dalyse]] nustatytiems reikalavimams, vykdo švietimo, mokslo ir sporto ministro įgaliota institucija. ^s-c270098d71407c074e899dc8
+11. Fizinio aktyvumo ir aukšto meistriškumo sporto trenerių, fizinio aktyvumo ir aukšto meistriškumo sporto instruktorių veiklos teisėtumo priežiūrą, tikrindama šią veiklą vykdančių asmenų atitiktį šio straipsnio [[#^s-ea94bbb3c8db3dc731304bd4|1]]–[[#^s-cb19c947e2b1667d630e09b6|3]] ir [[#^s-58a211b142a06e908edb8e42|7]] dalyse nustatytiems reikalavimams, vykdo švietimo, mokslo ir sporto ministro įgaliota institucija. ^s-c270098d71407c074e899dc8
 
 
 
@@ -769,7 +769,7 @@ Sporto finansavimą sudaro:
 4) projekto valdymo efektyvumo. ^s-5845c170655a3ad53e0a1ea3
 
 
-7. Švietimo, mokslo ir sporto ministro įgaliota institucija, administruodama [[#^s-fed68695f60d33ea215ff578|šio straipsnio 1 dalies]] 1–[[#^s-a7d922960c2434a69ea37b7f|3 punktuose]] nurodytas programas ir projektus švietimo, mokslo ir sporto ministro nustatyta tvarka: ^s-f6c5fb8855dfcf889c0259cd
+7. Švietimo, mokslo ir sporto ministro įgaliota institucija, administruodama [[#^s-fed68695f60d33ea215ff578|šio straipsnio 1 dalies]] [[#^s-27ffb378b54056cb99605d01|1]]–[[#^s-a7d922960c2434a69ea37b7f|3]] punktuose nurodytas programas ir projektus švietimo, mokslo ir sporto ministro nustatyta tvarka: ^s-f6c5fb8855dfcf889c0259cd
 
 
 1) organizuoja ir atlieka projektų atranką (vertina administracinę atitiktį ir turinio bei išlaidų pagrįstumą), priima sprendimus dėl projektų atitikties švietimo, mokslo ir sporto ministro nustatytiems administracinės atitikties kriterijams, rengia išvadas dėl projektų tinkamumo finansuoti vertinimo ir teikia jas komisijai; ^s-27ffb378b54056cb99605d01
@@ -993,7 +993,7 @@ TAR pastaba.  22 str. [[#^s-d403d9d803c9c7de1f9b3b7e|1 dalies]] 10 punto redakci
 ### 23 straipsnis. Finansavimo valstybės biudžeto lėšomis neskyrimo pagrindai ir išmokėtų lėšų grąžinimas ^s-6d335dec78e899ff0b5e7fe6
 
 
-1. Valstybės biudžeto lėšos šio įstatymo [[#^s-f65ffef46fdb594243c607d9|20 straipsnio 1 dalies 1 punkte]] ir [[#^s-3c8be27eb396969279bd62a4|21 straipsnio 3 dalyje]] nurodytoms programoms (toliau – programos) ir šio įstatymo [[#^s-fed68695f60d33ea215ff578|20 straipsnio 1 dalies]] 2 ir [[#^s-3b971354b24f46fa0d294e91|3 punktuose]] ir [[#^s-5249ff21f4ba9e63f38b0caa|21 straipsnio 9 dalyje]] nurodytiems projektams (toliau – projektai) įgyvendinti negali būti skiriamos, jeigu: ^s-473e1fa04295a44190d8d2f1
+1. Valstybės biudžeto lėšos šio įstatymo [[#^s-f65ffef46fdb594243c607d9|20 straipsnio 1 dalies 1 punkte]] ir [[#^s-3c8be27eb396969279bd62a4|21 straipsnio 3 dalyje]] nurodytoms programoms (toliau – programos) ir šio įstatymo [[#^s-fed68695f60d33ea215ff578|20 straipsnio 1 dalies]] [[#^s-321e9c3086b68a5bfb283ec4|2]] ir [[#^s-b1f3d3493196d02e1768a9a1|3]] punktuose ir [[#^s-5249ff21f4ba9e63f38b0caa|21 straipsnio 9 dalyje]] nurodytiems projektams (toliau – projektai) įgyvendinti negali būti skiriamos, jeigu: ^s-473e1fa04295a44190d8d2f1
 
 
 1) juridinio asmens veikla sustabdyta ar apribota įstatymų nustatytais pagrindais; ^s-174d7e30039834d00773ff3e
@@ -1021,7 +1021,7 @@ TAR pastaba.  22 str. [[#^s-d403d9d803c9c7de1f9b3b7e|1 dalies]] 10 punto redakci
 
 
 a) yra teistas už sunkų ir (ar) labai sunkų nusikaltimą, neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas, arba teistas už nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, už korupcinio pobūdžio nusikaltimą arba nusikaltimą, susijusį su neteisėtu disponavimu dopingo medžiagomis, jų platinimu ar lenkimu (įtraukimu) jas vartoti, – jeigu teistumas neišnykęs ar nepanaikintas;
-TAR pastaba. [[#^s-41ea55963b386447e3bc05e6|23 straipsnio 1 dalies 8 punkto]] a papunkčio nuostata „neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas“ prieštarauja Lietuvos Respublikos Konstitucijos 35 straipsnio 1, 3 dalims, konstituciniam teisinės valstybės principui.
+TAR pastaba. 23 straipsnio 1 dalies 8 punkto a papunkčio nuostata „neatsižvelgiant į tai, ar teistumas yra išnykęs, ar panaikintas“ prieštarauja Lietuvos Respublikos Konstitucijos 35 straipsnio 1, 3 dalims, konstituciniam teisinės valstybės principui.
 Papunkčio pakeitimai:
 Nr.  KT25-N6/2025, 2025-05-21, paskelbta TAR 2025-05-21, i. k. 2025-09007
 
@@ -1168,13 +1168,13 @@ Valstybė užtikrina lygiateisiškumo principo įgyvendinimą ir skatina sportin
 3. Jeigu yra kelios [[#^s-21100325a68fe1bc8434a8ab|šio straipsnio 1 dalyje]] nurodytos sąlygos, sportininkas turi teisę vienu metu gauti tik vieną valstybės stipendiją savo pasirinkimu. ^s-98316cf4f7d3a41a729cec06
 
 
-4. Sportininkas, tapęs olimpinių žaidynių 1–16 vietos, paralimpinių, kurčiųjų žaidynių ar pasaulio čempionatų 1–6 vietos, Europos čempionatų, Europos žaidynių (jeigu tam tikros sporto šakos Europos čempionatai neorganizuojami) 1–3 vietos, pasaulio asmenų su negalia čempionatų 1 vietos laimėtoju, turi teisę valstybės stipendiją gauti 4 metus nuo tam tikro laimėjimo pasiekimo dienos, jeigu dėl valstybės stipendijos skyrimo į švietimo, mokslo ir sporto ministro įgaliotą instituciją jis kreipėsi ne vėliau kaip per 3 mėnesius nuo šio laimėjimo pasiekimo dienos. Jeigu sportininkas dėl valstybės stipendijos skyrimo į švietimo, mokslo ir sporto ministro įgaliotą instituciją kreipėsi vėliau kaip per 3 mėnesius nuo tam tikro laimėjimo pasiekimo dienos, jam valstybės stipendija skiriama tik nuo šio kreipimosi dienos iki dienos, kai sueina 4 metų terminas, skaičiuojant nuo šio laimėjimo pasiekimo dienos. ^s-1e4a99691bb8a42cf9b0b025
+4. Sportininkas, tapęs olimpinių žaidynių 1–16 vietos, paralimpinių, kurčiųjų žaidynių ar pasaulio čempionatų 1–6 vietos, Europos čempionatų, Europos žaidynių (jeigu tam tikros sporto šakos Europos čempionatai neorganizuojami) 1–3 vietos, pasaulio asmenų su negalia čempionatų 1 vietos laimėtoju, turi teisę valstybės stipendiją gauti 4 metus nuo tam tikro laimėjimo pasiekimo dienos, jeigu [dėl valstybės stipendijos skyrimo](https://e-tar.lt/portal/lt/legalAct/TAR.9185CE4854E7) į švietimo, mokslo ir sporto ministro įgaliotą instituciją jis kreipėsi ne vėliau kaip per 3 mėnesius nuo šio laimėjimo pasiekimo dienos. Jeigu sportininkas [dėl valstybės stipendijos skyrimo](https://e-tar.lt/portal/lt/legalAct/TAR.9185CE4854E7) į švietimo, mokslo ir sporto ministro įgaliotą instituciją kreipėsi vėliau kaip per 3 mėnesius nuo tam tikro laimėjimo pasiekimo dienos, jam valstybės stipendija skiriama tik nuo šio kreipimosi dienos iki dienos, kai sueina 4 metų terminas, skaičiuojant nuo šio laimėjimo pasiekimo dienos. ^s-1e4a99691bb8a42cf9b0b025
 
 
-5. Sportininkas, tapęs olimpinių žaidynių 17–24 vietos, pasaulio čempionatų 7–16 vietos, Europos čempionatų, Europos žaidynių (jeigu tam tikros sporto šakos Europos čempionatai neorganizuojami) 4–8 vietos, paralimpinių ar kurčiųjų žaidynių 7, 8 vietos, pasaulio asmenų su negalia čempionatų 2–6 vietos, Europos asmenų su negalia čempionatų 1–3 vietos, pasaulio jaunimo čempionatų, jaunimo olimpinių žaidynių, Europos jaunimo čempionatų 1–6 vietos, pasaulio jaunimo asmenų su negalia ar Europos jaunimo asmenų su negalia čempionatų 1–3 vietos laimėtoju, turi teisę valstybės stipendiją gauti iki kitų tos pačios kategorijos tarptautinių aukšto meistriškumo sporto varžybų, kurios vyksta po tų tarptautinių aukšto meistriškumo sporto varžybų, kuriose buvo pasiektas tam tikras laimėjimas, paskutinės dienos, bet ne ilgiau kaip 2 metus, jeigu dėl valstybės stipendijos skyrimo į švietimo, mokslo ir sporto ministro įgaliotą instituciją jis kreipėsi ne vėliau kaip per 3 mėnesius nuo tam tikro laimėjimo pasiekimo dienos. Jeigu sportininkas dėl valstybės stipendijos skyrimo į švietimo, mokslo ir sporto ministro įgaliotą instituciją kreipėsi vėliau kaip per 3 mėnesius nuo tam tikro laimėjimo pasiekimo dienos, jam valstybės stipendija skiriama tik nuo jo kreipimosi dienos iki kitų tos pačios kategorijos tarptautinių aukšto meistriškumo sporto varžybų, kurios vyksta po tų tarptautinių aukšto meistriškumo sporto varžybų, kuriose buvo pasiektas tam tikras laimėjimas, paskutinės dienos, bet ne ilgiau kaip 2 metams (skaičiuojant nuo tam tikro laimėjimo pasiekimo dienos). ^s-03c9619ffe9f2e251ad9c122
+5. Sportininkas, tapęs olimpinių žaidynių 17–24 vietos, pasaulio čempionatų 7–16 vietos, Europos čempionatų, Europos žaidynių (jeigu tam tikros sporto šakos Europos čempionatai neorganizuojami) 4–8 vietos, paralimpinių ar kurčiųjų žaidynių 7, 8 vietos, pasaulio asmenų su negalia čempionatų 2–6 vietos, Europos asmenų su negalia čempionatų 1–3 vietos, pasaulio jaunimo čempionatų, jaunimo olimpinių žaidynių, Europos jaunimo čempionatų 1–6 vietos, pasaulio jaunimo asmenų su negalia ar Europos jaunimo asmenų su negalia čempionatų 1–3 vietos laimėtoju, turi teisę valstybės stipendiją gauti iki kitų tos pačios kategorijos tarptautinių aukšto meistriškumo sporto varžybų, kurios vyksta po tų tarptautinių aukšto meistriškumo sporto varžybų, kuriose buvo pasiektas tam tikras laimėjimas, paskutinės dienos, bet ne ilgiau kaip 2 metus, jeigu [dėl valstybės stipendijos skyrimo](https://e-tar.lt/portal/lt/legalAct/TAR.9185CE4854E7) į švietimo, mokslo ir sporto ministro įgaliotą instituciją jis kreipėsi ne vėliau kaip per 3 mėnesius nuo tam tikro laimėjimo pasiekimo dienos. Jeigu sportininkas [dėl valstybės stipendijos skyrimo](https://e-tar.lt/portal/lt/legalAct/TAR.9185CE4854E7) į švietimo, mokslo ir sporto ministro įgaliotą instituciją kreipėsi vėliau kaip per 3 mėnesius nuo tam tikro laimėjimo pasiekimo dienos, jam valstybės stipendija skiriama tik nuo jo kreipimosi dienos iki kitų tos pačios kategorijos tarptautinių aukšto meistriškumo sporto varžybų, kurios vyksta po tų tarptautinių aukšto meistriškumo sporto varžybų, kuriose buvo pasiektas tam tikras laimėjimas, paskutinės dienos, bet ne ilgiau kaip 2 metams (skaičiuojant nuo tam tikro laimėjimo pasiekimo dienos). ^s-03c9619ffe9f2e251ad9c122
 
 
-6. Jeigu paskutiniais valstybės stipendijos, paskirtos vadovaujantis šio straipsnio 4 ar [[#^s-03c9619ffe9f2e251ad9c122|5 dalimi]], mokėjimo metais turėjusios vykti [[#^s-21100325a68fe1bc8434a8ab|šio straipsnio 1 dalyje]] nurodytos tarptautinės aukšto meistriškumo sporto varžybos, kuriose turėtų galimybę dalyvauti valstybės stipendiją gaunantis sportininkas, nukeliamos dėl priežasčių, nepriklausančių nuo šias tarptautines aukšto meistriškumo sporto varžybas organizuojančių subjektų valios, valstybės stipendijos mokėjimas pratęsiamas iki kitų tos pačios kategorijos tarptautinių aukšto meistriškumo sporto varžybų, kuriose pasiekto laimėjimo pagrindu sportininkui mokama valstybės stipendija, paskutinės dienos, bet ne ilgiau kaip 2 metams (skaičiuojant nuo paskutinės valstybės stipendijos, paskirtos pagal šio straipsnio 4 ar [[#^s-03c9619ffe9f2e251ad9c122|5 dalį]], mokėjimo dienos). Jeigu sportininkas pratęstos valstybės stipendijos gavimo laikotarpiu nedalyvauja bent vienose iš [[#^s-21100325a68fe1bc8434a8ab|šio straipsnio 1 dalyje]] nurodytų tarptautinių aukšto meistriškumo sporto varžybų, kuriose jis turėjo galimybę dalyvauti, sportininkas išmokėtą pratęstą valstybės stipendiją grąžina švietimo, mokslo ir sporto ministro įgaliotai institucijai, o jos negrąžinus, valstybės stipendijos suma išieškoma iš valstybės stipendijos gavėjo įstatymų nustatyta tvarka. Išmokėta pratęsta valstybės stipendija nėra grąžinama, jeigu [[#^s-21100325a68fe1bc8434a8ab|šio straipsnio 1 dalyje]] nurodytose tarptautinėse aukšto meistriškumo sporto varžybose nedalyvaujama dėl aplinkybių, kurių sąrašą nustato švietimo, mokslo ir sporto ministras. ^s-bc8c8b00276050dc1e989396
+6. Jeigu paskutiniais valstybės stipendijos, paskirtos vadovaujantis šio straipsnio [[#^s-1e4a99691bb8a42cf9b0b025|4]] ar [[#^s-03c9619ffe9f2e251ad9c122|5]] dalimi, mokėjimo metais turėjusios vykti [[#^s-21100325a68fe1bc8434a8ab|šio straipsnio 1 dalyje]] nurodytos tarptautinės aukšto meistriškumo sporto varžybos, kuriose turėtų galimybę dalyvauti valstybės stipendiją gaunantis sportininkas, nukeliamos dėl priežasčių, nepriklausančių nuo šias tarptautines aukšto meistriškumo sporto varžybas organizuojančių subjektų valios, valstybės stipendijos mokėjimas pratęsiamas iki kitų tos pačios kategorijos tarptautinių aukšto meistriškumo sporto varžybų, kuriose pasiekto laimėjimo pagrindu sportininkui mokama valstybės stipendija, paskutinės dienos, bet ne ilgiau kaip 2 metams (skaičiuojant nuo paskutinės valstybės stipendijos, paskirtos pagal šio straipsnio [[#^s-1e4a99691bb8a42cf9b0b025|4]] ar [[#^s-03c9619ffe9f2e251ad9c122|5]] dalį, mokėjimo dienos). Jeigu sportininkas pratęstos valstybės stipendijos gavimo laikotarpiu nedalyvauja bent vienose iš [[#^s-21100325a68fe1bc8434a8ab|šio straipsnio 1 dalyje]] nurodytų tarptautinių aukšto meistriškumo sporto varžybų, kuriose jis turėjo galimybę dalyvauti, sportininkas išmokėtą pratęstą valstybės stipendiją grąžina švietimo, mokslo ir sporto ministro įgaliotai institucijai, o jos negrąžinus, valstybės stipendijos suma išieškoma iš valstybės stipendijos gavėjo įstatymų nustatyta tvarka. Išmokėta pratęsta valstybės stipendija nėra grąžinama, jeigu [[#^s-21100325a68fe1bc8434a8ab|šio straipsnio 1 dalyje]] nurodytose tarptautinėse aukšto meistriškumo sporto varžybose nedalyvaujama dėl aplinkybių, kurių sąrašą nustato švietimo, mokslo ir sporto ministras. ^s-bc8c8b00276050dc1e989396
 
 
 7. Sportininkui [[#^s-21100325a68fe1bc8434a8ab|šio straipsnio 1 dalyje]] nurodyta valstybės stipendija neskiriama, o paskirtoji nemokama, kai atsiranda bent viena iš šių aplinkybių: ^s-a0526f715dfd61b63a1e9501
@@ -1359,7 +1359,7 @@ Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 41 straipsni
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2591, 2016-06-30, paskelbta TAR 2016-07-15, i. k. 2016-20668
-Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 2, 3, 15, 30, 41 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
+Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 [[#^s-6249c04e5538f6de89fe1821|2]], [[#^s-50ebadcc11752392ba03d304|3]], [[#^s-0a2848acb7aca01e462725cf|15]], 30, 41 straipsnių pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1369,7 +1369,7 @@ Lietuvos Respublikos kūno kultūros ir sporto įstatymo Nr. I-1151 pakeitimo į
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2668, 2019-12-12, paskelbta TAR 2019-12-27, i. k. 2019-21308
-Lietuvos Respublikos sporto įstatymo Nr. I-1151 11, 17, 18, 19, 20, 24 ir [[#^s-ffda0ce8ee60a797a67ac2e5|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sporto įstatymo Nr. I-1151 [[#^s-b5e1b50a655b8f2a170d8f59|11]], [[#^s-0fa95c56882f11d134cb9b03|17]], [[#^s-bd8c100ad404535273555d0a|18]], [[#^s-09a48823d9bf348798bf667b|19]], [[#^s-b915434443bc9302c07b8d1b|20]], [[#^s-5643b7d2350dbab2146ccab8|24]] ir [[#^s-ffda0ce8ee60a797a67ac2e5|25]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1384,12 +1384,12 @@ Lietuvos Respublikos sporto įstatymo Nr. I-1151 [[#^s-5643b7d2350dbab2146ccab8|
 16.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
-Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/fad428d01ea411ebb0038a8cd8ff585f)
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3099, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15303
-Lietuvos Respublikos sporto įstatymo Nr. I-1151 6, 7 ir [[#^s-b58e14c89f474d3fd8bc3b57|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sporto įstatymo Nr. I-1151 [[#^s-4919dd759409d4ba9f204975|6]], [[#^s-a94e4861b85e748931a9bdae|7]] ir [[#^s-b58e14c89f474d3fd8bc3b57|8]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1399,7 +1399,7 @@ Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1173, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13889
-Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo [[latest/1098afc0800011ec993ff5ca6e8ba60c|įstatymo Nr. XIV-908]] 1 ir [[#^s-6249c04e5538f6de89fe1821|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo [[latest/1098afc0800011ec993ff5ca6e8ba60c|įstatymo Nr. XIV-908]] [[#^s-193f68fc899093b793919750|1]] ir [[#^s-6249c04e5538f6de89fe1821|2]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1419,4 +1419,4 @@ Lietuvos Respublikos sporto įstatymo Nr. I-1151 pakeitimo įstatymas
 23.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr.  KT25-N6/2025, 2025-05-21, paskelbta TAR 2025-05-21, i. k. 2025-09007
-Dėl Lietuvos Respublikos sporto įstatymo kai kurių nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos sporto įstatymo kai kurių nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/06223c51363c11f08fdabd4950271e2c)

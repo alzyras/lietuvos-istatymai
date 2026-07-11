@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-ef9bbe3809d50e5f36233369
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. sausio 16 d. dekretą Nr. 2024, ratifikuoja Lietuvos Respublikos ir Islandijos Respublikos susitarimą dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 2002 m. rugpjūčio 20 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. sausio 16 d. dekretą Nr. 2024](https://e-tar.lt/portal/lt/legalAct/TAR.2649F180A449), ratifikuoja Lietuvos Respublikos ir Islandijos Respublikos susitarimą dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 2002 m. rugpjūčio 20 d. Vilniuje.
 
 
 

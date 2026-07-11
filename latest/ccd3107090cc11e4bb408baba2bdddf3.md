@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-64f92e9e1b6f2a4fcf60a22e
 
 
-Pakeisti 2 straipsnio 41 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.A5ACBDA529A9|2 straipsnio 41 dalį]] ir ją išdėstyti taip:
 
 
 „41. Kitos šiame Įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] (toliau – [[latest/TAR.3EB34933E485|Mokesčių administravimo įstatymas]]), Lietuvos Respublikos civiliniame kodekse (toliau – [[latest/TAR.8A39C83848CB|Civilinis kodeksas]]), Lietuvos Respublikos baudžiamajame kodekse (toliau – [[latest/TAR.2B866DFF7D43|Baudžiamasis kodeksas]]) ir [[latest/TAR.C828E20E430B|Lietuvos Respublikos kino įstatyme]], kiek tai neprieštarauja šiam Įstatymui (išskyrus Civilinio kodekso įsakmiai nurodytus atvejus).“
@@ -49,7 +49,7 @@ Pakeisti 2 straipsnio 41 dalį ir ją išdėstyti taip:
 ### 2 straipsnis. 31 straipsnio pakeitimas ^s-ad1a3dff22240b9523fb269b
 
 
-Papildyti 31 straipsnio 1 dalį 20 punktu:
+Papildyti [[latest/TAR.A5ACBDA529A9#^s-98b9bc0bf0ef6c6e44d84fab|31 straipsnio 1 dalį 20 punktu]]:
 
 
 „20) sąnaudos, patirtos darant Baudžiamojo kodekso uždraustą veiką, įskaitant kyšius.“

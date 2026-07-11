@@ -73,7 +73,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją dalį išdėstyti taip:
 1. [[#^s-1dcbc7152961e5948705ca2d|3 straipsnio 4 dalyje]] vietoj žodžių „atitinkamos kompetentingos institucijos“ įrašyti žodžius „kompetentinga institucija“ ir šią dalį išdėstyti taip: ^s-81fa96b8bf80e4a9e104a504
 
 
-„4. Grupės veikla finansų sektoriuje laikoma reikšminga ir tuo atveju, jeigu grupės mažiausio finansų sektoriaus turtas yra didesnis negu 6 milijardai eurų. Jeigu grupė nesiekia [[#^s-4a39bcb601af71bc563fb373|šio straipsnio 2 dalyje]] nustatyto santykio, Lietuvos Respublikos kompetentinga institucija turi teisę bendrai su kitomis atitinkamomis kompetentingomis institucijomis nuspręsti nelaikyti grupės finansų konglomeratu arba netaikyti šio įstatymo 8, 9 ar [[#^s-4d0d01e73124f4150318ffce|10 straipsnių]] nuostatų, jeigu, jų nuomone, minėtos grupės nereikia įtraukti į šio įstatymo taikymo sritį arba tokių nuostatų taikymas būtų netinkamas ar klaidinantis. Priimant tokius sprendimus, atsižvelgiama į papildomos priežiūros tikslus ir į tai, kad:
+„4. Grupės veikla finansų sektoriuje laikoma reikšminga ir tuo atveju, jeigu grupės mažiausio finansų sektoriaus turtas yra didesnis negu 6 milijardai eurų. Jeigu grupė nesiekia [[#^s-4a39bcb601af71bc563fb373|šio straipsnio 2 dalyje]] nustatyto santykio, Lietuvos Respublikos kompetentinga institucija turi teisę bendrai su kitomis atitinkamomis kompetentingomis institucijomis nuspręsti nelaikyti grupės finansų konglomeratu arba netaikyti šio įstatymo [[#^s-41266f79b0419b35b59e78c4|8]], [[#^s-fb70c79b164dc6d66c89ede8|9]] ar [[#^s-4d0d01e73124f4150318ffce|10]] straipsnių nuostatų, jeigu, jų nuomone, minėtos grupės nereikia įtraukti į šio įstatymo taikymo sritį arba tokių nuostatų taikymas būtų netinkamas ar klaidinantis. Priimant tokius sprendimus, atsižvelgiama į papildomos priežiūros tikslus ir į tai, kad:
 
 
 1) finansų konglomerato mažiausio finansų sektoriaus dydis, nustatomas pagal [[#^s-4a39bcb601af71bc563fb373|šio straipsnio 2 dalyje]] nurodytą vidurkį arba turto ar mokumo (kapitalo pakankamumo) reikalavimus, yra ne didesnis kaip 5 procentai arba ^s-69116d739de6244443cfdb67
@@ -91,19 +91,19 @@ Pakeisti 1 straipsnio 2 dalį ir ją dalį išdėstyti taip:
 3. Pakeisti 3 straipsnio 6 dalį ir ją išdėstyti taip: ^s-4bd2a69da8bd4da8eeb41dcc
 
 
-„6. Taikydama šio straipsnio 1–[[#^s-1dcbc7152961e5948705ca2d|4 dalis]], Lietuvos Respublikos kompetentinga institucija turi teisę bendrai su kitomis atitinkamomis kompetentingomis institucijomis:
+„6. Taikydama šio straipsnio [[#^s-81fa96b8bf80e4a9e104a504|1]]–[[#^s-1dcbc7152961e5948705ca2d|4]] dalis, Lietuvos Respublikos kompetentinga institucija turi teisę bendrai su kitomis atitinkamomis kompetentingomis institucijomis:
 
 
-1) nuspręsti šio įstatymo 7 straipsnio 6 dalyje nurodytais atvejais neįtraukti tam tikros įmonės, skaičiuodama šio straipsnio 1–[[#^s-1dcbc7152961e5948705ca2d|4 dalyse]] nustatytus santykius; ^s-9d9ad1ce57d3661dafea028c
+1) nuspręsti šio įstatymo 7 straipsnio 6 dalyje nurodytais atvejais neįtraukti tam tikros įmonės, skaičiuodama šio straipsnio 1–4 dalyse nustatytus santykius; ^s-9d9ad1ce57d3661dafea028c
 
 
-2) siekdama išvengti staigių papildomos priežiūros pasikeitimų įtakos, atsižvelgti į santykio, nustatyto šio straipsnio 1, 2, [[#^s-4bd2a69da8bd4da8eeb41dcc|3 dalyse]], atitikimą trejus metus iš eilės ir neatsižvelgti į šį neatitikimą labai pasikeitus grupės struktūrai.“ ^s-992771614aad264ebe1c14e6
+2) siekdama išvengti staigių papildomos priežiūros pasikeitimų įtakos, atsižvelgti į santykio, nustatyto šio straipsnio [[#^s-81fa96b8bf80e4a9e104a504|1]], [[#^s-4a39bcb601af71bc563fb373|2]], [[#^s-4bd2a69da8bd4da8eeb41dcc|3]] dalyse, atitikimą trejus metus iš eilės ir neatsižvelgti į šį neatitikimą labai pasikeitus grupės struktūrai.“ ^s-992771614aad264ebe1c14e6
 
 
 4. Pakeisti 3 straipsnio 8 dalį ir ją išdėstyti taip: ^s-1dcbc7152961e5948705ca2d
 
 
-„8. Taikydama šio straipsnio 1, 2, [[#^s-4bd2a69da8bd4da8eeb41dcc|3 dalis]], Lietuvos Respublikos kompetentinga institucija turi teisę kartu su kitomis atitinkamomis kompetentingomis institucijomis išimtiniais atvejais nuspręsti turto rodiklį pakeisti pajamų struktūros ar nebalansinių įsipareigojimų rodikliu ar jais abiem arba pridėti vieną ar abu nurodytuosius rodiklius, jeigu minėti rodikliai yra svarbūs atliekant šiame įstatyme nustatytą papildomą priežiūrą.“
+„8. Taikydama šio straipsnio [[#^s-81fa96b8bf80e4a9e104a504|1]], [[#^s-4a39bcb601af71bc563fb373|2]], [[#^s-4bd2a69da8bd4da8eeb41dcc|3]] dalis, Lietuvos Respublikos kompetentinga institucija turi teisę kartu su kitomis atitinkamomis kompetentingomis institucijomis išimtiniais atvejais nuspręsti turto rodiklį pakeisti pajamų struktūros ar nebalansinių įsipareigojimų rodikliu ar jais abiem arba pridėti vieną ar abu nurodytuosius rodiklius, jeigu minėti rodikliai yra svarbūs atliekant šiame įstatyme nustatytą papildomą priežiūrą.“
 
 
 
@@ -113,7 +113,7 @@ Pakeisti 1 straipsnio 2 dalį ir ją dalį išdėstyti taip:
 Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Prižiūrimoms įmonėms licencijas išdavusi Lietuvos Respublikos kompetentinga institucija dalyvauja pagal šio įstatymo 2, 3 ir [[#^s-1350b58f88a2ec3b94185722|5 straipsnius]] nustatant kiekvieną grupę, kurioje yra šios prižiūrimos įmonės ir kuriai turėtų būti taikoma papildoma priežiūra. Šiuo tikslu kompetentinga institucija:
+„1. Prižiūrimoms įmonėms licencijas išdavusi Lietuvos Respublikos kompetentinga institucija dalyvauja pagal šio įstatymo [[#^s-d9ff23f953b8e6a6c5f8c2b4|2]], [[#^s-39014f75a47cd580a2bf0180|3]] ir [[#^s-1350b58f88a2ec3b94185722|5]] straipsnius nustatant kiekvieną grupę, kurioje yra šios prižiūrimos įmonės ir kuriai turėtų būti taikoma papildoma priežiūra. Šiuo tikslu kompetentinga institucija:
 
 
 1) jeigu reikalinga, glaudžiai bendradarbiauja su kitų Europos Sąjungos valstybių narių kompetentingomis institucijomis; ^s-f54d6a7ef8f402bf44317de8
@@ -133,10 +133,10 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 „5 straipsnis. Papildomos priežiūros taikymo objektas
 
 
-1. Papildoma priežiūra taikoma šio straipsnio 2–[[#^s-7061af059831c8cb7945487f|5 dalyse]] nurodytoms prižiūrimoms įmonėms šiose dalyse nustatyta tvarka, nepažeidžiant sektoriaus taisyklių. ^s-ca4121a2f58ad62f36e7aad4
+1. Papildoma priežiūra taikoma šio straipsnio [[#^s-5d75b50ff01e1149fbb95674|2]]–[[#^s-7061af059831c8cb7945487f|5]] dalyse nurodytoms prižiūrimoms įmonėms šiose dalyse nustatyta tvarka, nepažeidžiant sektoriaus taisyklių. ^s-ca4121a2f58ad62f36e7aad4
 
 
-2. Papildoma priežiūra, nurodyta šio įstatymo 7–18 straipsniuose, finansų konglomerato lygiu taikoma prižiūrimoms įmonėms: ^s-5d75b50ff01e1149fbb95674
+2. Papildoma priežiūra, nurodyta šio įstatymo [[#^s-337cc757c740750fdac78b02|7]]–18 straipsniuose, finansų konglomerato lygiu taikoma prižiūrimoms įmonėms: ^s-5d75b50ff01e1149fbb95674
 
 
 1) kurios vadovauja finansų konglomeratui; ^s-5c76782e3f46cef0010f5c9c
@@ -148,13 +148,13 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 3) kurios, nors ir nesusijusios šio įstatymo [[#^s-d9ff23f953b8e6a6c5f8c2b4|2 straipsnio]] 6 ir 19 dalyse nustatytais ryšiais su kita ar kitomis finansų sektoriaus įmonėmis, tačiau valdomos bendrai remiantis su šiomis įmonėmis sudarytomis sutartimis ar steigimo dokumentų nuostatomis, arba jos ir kitos ar kitų finansų sektoriaus įmonių dauguma administracijos, valdymo ar priežiūros organų narių per finansinius metus iki konsoliduotos finansinės atskaitomybės sudarymo yra tie patys asmenys. ^s-07a299e7add2891238cf3a9e
 
 
-3. Jeigu dalyvaujant Lietuvos Respublikos kompetentingai institucijai nustatytas finansų konglomeratas, kuriam priklausančioms prižiūrimoms įmonėms taikoma papildoma priežiūra, kaip numatyta [[#^s-5d75b50ff01e1149fbb95674|šio straipsnio 2 dalyje]], yra pogrupis kito finansų konglomerato, šio įstatymo 6–18 straipsnių nuostatos gali būti taikomos tik pastarajai grupei priklausančioms prižiūrimoms įmonėms ir bet kokia šio įstatymo nuoroda į grupės ir finansų konglomerato sąvokas suprantama kaip nuoroda į pastarąją grupę. ^s-02f31ddde979cd23b57a43f0
+3. Jeigu dalyvaujant Lietuvos Respublikos kompetentingai institucijai nustatytas finansų konglomeratas, kuriam priklausančioms prižiūrimoms įmonėms taikoma papildoma priežiūra, kaip numatyta [[#^s-5d75b50ff01e1149fbb95674|šio straipsnio 2 dalyje]], yra pogrupis kito finansų konglomerato, šio įstatymo [[#^s-81bbc813099005c61358724e|6]]–18 straipsnių nuostatos gali būti taikomos tik pastarajai grupei priklausančioms prižiūrimoms įmonėms ir bet kokia šio įstatymo nuoroda į grupės ir finansų konglomerato sąvokas suprantama kaip nuoroda į pastarąją grupę. ^s-02f31ddde979cd23b57a43f0
 
 
-4. Kiekvienai prižiūrimai įmonei, kuriai netaikoma papildoma priežiūra pagal šio straipsnio 2 ir [[#^s-02f31ddde979cd23b57a43f0|3 dalis]] ir kurios patronuojanti įmonė yra prižiūrima įmonė arba mišrios veiklos finansų kontroliuojančioji (holdingo) įmonė, kurios turi buveinę užsienio valstybėje, taikoma papildoma priežiūra finansų konglomerato lygiu šio įstatymo 19 straipsnyje nustatyta tvarka. ^s-3f2ff25f9f50a5eead5d4fe2
+4. Kiekvienai prižiūrimai įmonei, kuriai netaikoma papildoma priežiūra pagal šio straipsnio [[#^s-5d75b50ff01e1149fbb95674|2]] ir [[#^s-02f31ddde979cd23b57a43f0|3]] dalis ir kurios patronuojanti įmonė yra prižiūrima įmonė arba mišrios veiklos finansų kontroliuojančioji (holdingo) įmonė, kurios turi buveinę užsienio valstybėje, taikoma papildoma priežiūra finansų konglomerato lygiu šio įstatymo 19 straipsnyje nustatyta tvarka. ^s-3f2ff25f9f50a5eead5d4fe2
 
 
-5. Kitais negu šio straipsnio 2, 3, [[#^s-3f2ff25f9f50a5eead5d4fe2|4 dalyse]] nurodytais atvejais, jeigu asmenys dalyvauja vienoje ar keliose prižiūrimose įmonėse arba turi jų kapitalo, arba daro minėtoms įmonėms didelę įtaką, nedalyvaudami jose ar neturėdami jų kapitalo, Lietuvos Respublikos kompetentinga institucija turi teisę, atsižvelgdama į papildomos priežiūros tikslus, su kitomis atitinkamomis kompetentingomis institucijomis susitarti ir nuspręsti, ar prižiūrimoms įmonėms reikia taikyti papildomą priežiūrą, taikomą finansų konglomerato įmonėms, ir koks privalo būti priežiūros mastas. Norint taikyti papildomą priežiūrą, bent viena iš įmonių privalo būti prižiūrima ir tenkinti šio įstatymo 2 straipsnio 9 dalies 4 ir 5 punktų reikalavimus. ^s-7061af059831c8cb7945487f
+5. Kitais negu šio straipsnio [[#^s-5d75b50ff01e1149fbb95674|2]], [[#^s-02f31ddde979cd23b57a43f0|3]], [[#^s-3f2ff25f9f50a5eead5d4fe2|4]] dalyse nurodytais atvejais, jeigu asmenys dalyvauja vienoje ar keliose prižiūrimose įmonėse arba turi jų kapitalo, arba daro minėtoms įmonėms didelę įtaką, nedalyvaudami jose ar neturėdami jų kapitalo, Lietuvos Respublikos kompetentinga institucija turi teisę, atsižvelgdama į papildomos priežiūros tikslus, su kitomis atitinkamomis kompetentingomis institucijomis susitarti ir nuspręsti, ar prižiūrimoms įmonėms reikia taikyti papildomą priežiūrą, taikomą finansų konglomerato įmonėms, ir koks privalo būti priežiūros mastas. Norint taikyti papildomą priežiūrą, bent viena iš įmonių privalo būti prižiūrima ir tenkinti šio įstatymo 2 straipsnio 9 dalies 4 ir 5 punktų reikalavimus. ^s-7061af059831c8cb7945487f
 
 
 6. Taikant [[#^s-7061af059831c8cb7945487f|šio straipsnio 5 dalį]], asmenų daromą įtaką prižiūrimoms įmonėms nustato Lietuvos Respublikos kompetentinga institucija, atsižvelgdama į grupių, kurioms priklauso šios prižiūrimos įmonės, finansinius įsipareigojimus kitoms finansų įmonėms. ^s-8b4746e4e11f67415cdea0d8

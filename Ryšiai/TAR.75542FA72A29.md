@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos geležinkelių transporto kodekso patvirtinim
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.6EA8AC8A483B|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - 2 citatos - Geležinkelių transporto kodeksas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.6EA8AC8A483B#^s-2ad26f551bfb8937ba83309e|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - 2 citatos - GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO ĮSTATYMO 2 IR 4 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.6EA8AC8A483B#^s-6fccec5f442f9d25ef4f6b26|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - 2 citatos - GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO ĮSTATYMO 2 IR 4 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.6EA8AC8A483B#^s-2ad26f551bfb8937ba83309e|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO ĮSTATYMO 2 IR 4 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

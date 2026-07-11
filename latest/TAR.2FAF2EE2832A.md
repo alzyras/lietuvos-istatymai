@@ -92,7 +92,7 @@ Vaiko teisių apsaugos kontrolierius savo veikloje vadovaujasi šiais principais
 4) atskaitingumo. Vaiko teisių apsaugos kontrolierius už savo veiklą yra atskaitingas Lietuvos Respublikos Seimui; ^s-92b097842a35e7135a185843
 
 
-5) teisėtumo, teisingumo ir nešališkumo. Vaiko teisių apsaugos kontrolierius savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, tarptautinėmis sutartimis ir susitarimais, šiuo ir kitais įstatymais bei teisės aktais, teisės principais. Vaiko teisių apsaugos kontrolierius vienodai (lygiai teisingai) gina visus vaikus ir savo veikloje yra objektyvus; ^s-e01d2a5a009143523ca068b8
+5) teisėtumo, teisingumo ir nešališkumo. Vaiko teisių apsaugos kontrolierius savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), tarptautinėmis sutartimis ir susitarimais, šiuo ir kitais įstatymais bei teisės aktais, teisės principais. Vaiko teisių apsaugos kontrolierius vienodai (lygiai teisingai) gina visus vaikus ir savo veikloje yra objektyvus; ^s-e01d2a5a009143523ca068b8
 
 
 6) viešumo. Vaiko teisių apsaugos kontrolierius viešai teikia informaciją visuomenei apie savo veiklą bei vaiko teisių ir jo teisėtų interesų apsaugą Lietuvos Respublikoje, išskyrus informaciją, dėl kurios gali būti pažeistos vaiko teisės ar jo teisėti interesai arba kuri Lietuvos Respublikos įstatymų nustatyta tvarka yra neskelbtina. ^s-bc766ddc04e8ac15325ccf3a
@@ -575,7 +575,7 @@ VAIKO TEISIŲ APSAUGOS KONTROLIERIAUS ĮSTAIGA
 5) suteikia Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojams ir darbuotojams atostogas, siunčia juos į komandiruotes; ^s-0a9acd115b674299d5539ce3
 
 
-6) priima sprendimus dėl Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojų ir kitų darbuotojų kvalifikacijos tobulinimo; ^s-b2a76b3bcacdccdf516e23e0
+6) priima sprendimus [dėl Vaiko teisių apsaugos kontrolieriaus įstaigos](https://e-tar.lt/portal/lt/legalAct/TAR.D4AD2979F383) valstybės tarnautojų ir kitų darbuotojų kvalifikacijos tobulinimo; ^s-b2a76b3bcacdccdf516e23e0
 
 
 7) skatina Vaiko teisių apsaugos kontrolieriaus įstaigos valstybės tarnautojus ir darbuotojus bei skiria jiems tarnybines (drausmines) nuobaudas. ^s-dfac86617e09fc298a38197b

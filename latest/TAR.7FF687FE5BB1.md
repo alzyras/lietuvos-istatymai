@@ -64,7 +64,7 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 „25 straipsnis. Orlaivių nuoma
 
 
-1. 1991 m. gruodžio 16 d. Tarybos reglamento (EEB) Nr. 3922/91 dėl techninių reikalavimų ir administracinės tvarkos suderinimo civilinės aviacijos srityje su paskutiniais pakeitimais, padarytais 2008 m. rugpjūčio 20 d. Komisijos reglamentu (EB) Nr. 859/2008, ir 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių nustatytais atvejais orlaivių nuomos be įgulos ir nuomos su įgula sutartys turi būti patvirtintos Susisiekimo ministerijos ir (arba) CAA pagal susisiekimo ministro nustatytas sąlygas ir tvarką. ^s-35232be204db876b4fac7320
+1. 1991 m. gruodžio 16 d. Tarybos [reglamento (EEB) Nr. 3922/91](https://eur-lex.europa.eu/eli/reg/3922/91/oj) dėl techninių reikalavimų ir administracinės tvarkos suderinimo civilinės aviacijos srityje su paskutiniais pakeitimais, padarytais 2008 m. rugpjūčio 20 d. Komisijos reglamentu (EB) Nr. 859/2008, ir 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1008/2008](https://eur-lex.europa.eu/eli/reg/1008/2008/oj) dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių nustatytais atvejais orlaivių nuomos be įgulos ir nuomos su įgula sutartys turi būti patvirtintos Susisiekimo ministerijos ir (arba) CAA pagal susisiekimo ministro nustatytas sąlygas ir tvarką. ^s-35232be204db876b4fac7320
 
 
 2. Protokolo dėl Tarptautinės civilinės aviacijos konvencijos pakeitimo (83 bis straipsnis), pasirašyto 1980 m. spalio 6 d. Monrealyje, nustatytais atvejais CAA turi teisę sudaryti sutartis su atitinkama kitos valstybės įgaliota institucija dėl funkcijų ir pareigų, susijusių su orlaiviu, perdavimo.“ ^s-0969f40218945896fb94e610
@@ -76,7 +76,7 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 Pakeisti 36 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. CAA nustato civilinių orlaivių ir jų įrangos (komponentų) gamybos ir techninės priežiūros reikalavimus. Lietuvos Respublikoje įmonės gali gaminti civilinius orlaivius ar jų įrangą (komponentus), taip pat atlikti civilinių orlaivių techninės priežiūros darbus tik turėdamos atitinkamą CAA išduotą pažymėjimą ir laikydamosi šiame pažymėjime nurodytų reikalavimų. Vadovaujantis 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančiu Europos aviacijos saugos agentūrą, panaikinančiu Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB, Lietuvos Respublikoje gaminami civiliniai orlaiviai sertifikuojami Europos aviacijos saugos agentūros (EASA) nustatyta tvarka ir sąlygomis.“
+„1. CAA nustato civilinių orlaivių ir jų įrangos (komponentų) gamybos ir techninės priežiūros reikalavimus. Lietuvos Respublikoje įmonės gali gaminti civilinius orlaivius ar jų įrangą (komponentus), taip pat atlikti civilinių orlaivių techninės priežiūros darbus tik turėdamos atitinkamą CAA išduotą pažymėjimą ir laikydamosi šiame pažymėjime nurodytų reikalavimų. Vadovaujantis 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančiu Europos aviacijos saugos agentūrą, panaikinančiu Tarybos direktyvą 91/670/EEB, [Reglamentą (EB) Nr. 1592/2002](https://eur-lex.europa.eu/eli/reg/1592/2002/oj) ir Direktyvą 2004/36/EB, Lietuvos Respublikoje gaminami civiliniai orlaiviai sertifikuojami Europos aviacijos saugos agentūros (EASA) nustatyta tvarka ir sąlygomis.“
 
 
 ### 5 straipsnis. 45 straipsnio pakeitimas ^s-94ae47132b3b5c625514a4ee
@@ -95,7 +95,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 2. Susisiekimo ministro nustatyta tvarka CAA akredituoja ir išduoda atitinkamus pažymėjimus: ^s-825900fa7a1244c40bdb0ab7
 
 
-1) mokymo įstaigoms, rengiančioms ir perkvalifikuojančioms orlaivių techninės priežiūros specialistus ir atitinkančioms 2003 m. lapkričio 20 d. Komisijos reglamento (EB) Nr. 2042/2003 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo IV priedo reikalavimus; ^s-606020b8d3a2c83860b96f8c
+1) mokymo įstaigoms, rengiančioms ir perkvalifikuojančioms orlaivių techninės priežiūros specialistus ir atitinkančioms 2003 m. lapkričio 20 d. Komisijos [reglamento (EB) Nr. 2042/2003](https://eur-lex.europa.eu/eli/reg/2042/2003/oj) dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo IV priedo reikalavimus; ^s-606020b8d3a2c83860b96f8c
 
 
 2) mokymo įstaigoms, rengiančioms ir perkvalifikuojančioms orlaivių įgulų narius bei skrydžių vadovus ir atitinkančioms CAA nustatytus reikalavimus. ^s-5b0b8efad062c5c5beacaeab
@@ -137,7 +137,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 2. Pakeisti 46 straipsnio 4 dalį ir ją išdėstyti taip: ^s-6ca6549f3cce72ae2981b0df
 
 
-„4. Užsienio valstybėje išduotų specialisto licencijų pripažinimo sąlygas ir tvarką nustato CAA, vadovaudamasi 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančio Europos aviacijos saugos agentūrą, panaikinančio Tarybos direktyvą 91/670/EEB, Reglamentą (EB) Nr. 1592/2002 ir Direktyvą 2004/36/EB, nuostatomis.“
+„4. Užsienio valstybėje išduotų specialisto licencijų pripažinimo sąlygas ir tvarką nustato CAA, vadovaudamasi 2008 m. vasario 20 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 216/2008 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančio Europos aviacijos saugos agentūrą, panaikinančio Tarybos direktyvą 91/670/EEB, [Reglamentą (EB) Nr. 1592/2002](https://eur-lex.europa.eu/eli/reg/1592/2002/oj) ir Direktyvą 2004/36/EB, nuostatomis.“
 
 
 ### 7 straipsnis. 56 straipsnio 3 dalies pakeitimas ^s-ef52b9d4acdfd21661849abb
@@ -146,7 +146,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 Pakeisti 56 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
-„3. Šio straipsnio 1 dalyje nurodyta licencija vežėjui išduodama pagal 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių nuostatas.“
+„3. Šio straipsnio 1 dalyje nurodyta licencija vežėjui išduodama pagal 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1008/2008](https://eur-lex.europa.eu/eli/reg/1008/2008/oj) dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių nuostatas.“
 
 
 ### 8 straipsnis. 57 straipsnio 2 dalies pripažinimas netekusia galios ^s-2d05a60eb0b8fceba05d4a98
@@ -205,7 +205,7 @@ Pakeisti ir papildyti 66 straipsnį ir jį išdėstyti taip:
 5) per paskutinius vienus metus buvo skirtos administracinės nuobaudos už aviacijos saugumo reikalavimų pažeidimus; ^s-a6be5a5759f8a2c7f401f99f
 
 
-6) yra įrašytas į operatyvinę įskaitą arba jam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai; ^s-54179c47edb9b17da64ceb93
+6) yra įrašytas į operatyvinę įskaitą arba jam [Organizuoto nusikalstamumo užkardymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.67E8ECAA4910) nustatyta tvarka taikomi teismo įpareigojimai; ^s-54179c47edb9b17da64ceb93
 
 
 7) nesutinka būti tikrinamas ir (arba) atsisako pildyti ar pateikti reikiamus dokumentus, ir (arba) nesutinka, kad būtų renkama tikrinimui būtina informacija. ^s-256ddc05caafabce55cabae8
@@ -226,7 +226,7 @@ Pakeisti ir papildyti 66 straipsnį ir jį išdėstyti taip:
 Pakeisti 671 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Oro susisiekimas tarp Lietuvos Respublikos ir Europos bendrijos bei Europos ekonominės erdvės valstybių vykdomas vadovaujantis 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių ir atitinkamų tarptautinių sutarčių nuostatomis tiek, kiek jos neprieštarauja šiam reglamentui.“
+„1. Oro susisiekimas tarp Lietuvos Respublikos ir Europos bendrijos bei Europos ekonominės erdvės valstybių vykdomas vadovaujantis 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1008/2008](https://eur-lex.europa.eu/eli/reg/1008/2008/oj) dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių ir atitinkamų tarptautinių sutarčių nuostatomis tiek, kiek jos neprieštarauja šiam reglamentui.“
 
 
 ### 11 straipsnis. 68 straipsnio pakeitimas ir papildymas ^s-ffea1ec1c0cadb84859ec0b1
@@ -245,7 +245,7 @@ Pakeisti ir papildyti 68 straipsnį ir jį išdėstyti taip:
 2. Keleivių, krovinių, bagažo vežimo tarifus ir jų taikymo tvarką nustato vežėjas. ^s-915c5ac1b296e1a55f9bb4ce
 
 
-3. Informavimo apie oro susisiekimo paslaugų kainas ir tarifus bei jų taikymo sąlygas nustato 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių.“ ^s-285b588222e104ec198f4835
+3. Informavimo apie oro susisiekimo paslaugų kainas ir tarifus bei jų taikymo sąlygas nustato 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1008/2008](https://eur-lex.europa.eu/eli/reg/1008/2008/oj) dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių.“ ^s-285b588222e104ec198f4835
 
 
 ### 12 straipsnis. 71 straipsnio pakeitimas ^s-083163a83cd58c55db10ede7
@@ -258,7 +258,7 @@ Pakeisti 71 straipsnį ir jį išdėstyti taip:
 „71 straipsnis. Kompiuterinės rezervavimo sistemos
 
 
-Kompiuterinių rezervavimo sistemų reikalavimus, jų naudojimo sąlygas ir tvarką nustato 2009 m. sausio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 80/2009 dėl Elgesio su kompiuterinėmis rezervavimo sistemomis kodekso ir panaikinantis Tarybos reglamentą (EEB) Nr. 2299/89.“
+Kompiuterinių rezervavimo sistemų reikalavimus, jų naudojimo sąlygas ir tvarką nustato 2009 m. sausio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 80/2009 dėl Elgesio su kompiuterinėmis rezervavimo sistemomis kodekso ir panaikinantis Tarybos [reglamentą (EEB) Nr. 2299/89](https://eur-lex.europa.eu/eli/reg/2299/89/oj).“
 
 
 ### 13 straipsnis. Įstatymo priedo 1, 3 punktų pakeitimas ir priedo papildymas 15, 16, 17, 18 punktais ^s-328910871c08eb8752f1c2d3
@@ -267,25 +267,25 @@ Kompiuterinių rezervavimo sistemų reikalavimus, jų naudojimo sąlygas ir tvar
 1. Pakeisti Įstatymo priedo 1 punktą ir jį išdėstyti taip: ^s-0831944343329ed31e168e0e
 
 
-„1. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 80/2009 dėl Elgesio su kompiuterinėmis rezervavimo sistemomis kodekso ir panaikinantis Tarybos reglamentą (EEB) Nr. 2299/89 (OL 2009 L 35, p. 47).“
+„1. 2009 m. sausio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 80/2009 dėl Elgesio su kompiuterinėmis rezervavimo sistemomis kodekso ir panaikinantis Tarybos [reglamentą (EEB) Nr. 2299/89](https://eur-lex.europa.eu/eli/reg/2299/89/oj) (OL 2009 L 35, p. 47).“
 
 
 2. Pakeisti Įstatymo priedo 3 punktą ir jį išdėstyti taip: ^s-dee9716231d8220112ef36eb
 
 
-„3. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1008/2008 dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 3).“
+„3. 2008 m. rugsėjo 24 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1008/2008](https://eur-lex.europa.eu/eli/reg/1008/2008/oj) dėl oro susisiekimo paslaugų teikimo Bendrijoje bendrųjų taisyklių (OL 2008 L 293, p. 3).“
 
 
 3. Papildyti Įstatymo priedą 15 punktu: ^s-756ce4eb805e4155d6801998
 
 
-„15. 1991 m. gruodžio 16 d. Tarybos reglamento (EEB) Nr. 3922/91 dėl techninių reikalavimų ir administracinės tvarkos suderinimo civilinės aviacijos srityje (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 348) su paskutiniais pakeitimais, padarytais 2008 m. rugpjūčio 20 d. Komisijos reglamentu (EB) Nr. 859/2008 (OL 2008 L 254, p. 1).“
+„15. 1991 m. gruodžio 16 d. Tarybos [reglamento (EEB) Nr. 3922/91](https://eur-lex.europa.eu/eli/reg/3922/91/oj) dėl techninių reikalavimų ir administracinės tvarkos suderinimo civilinės aviacijos srityje (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 348) su paskutiniais pakeitimais, padarytais 2008 m. rugpjūčio 20 d. Komisijos reglamentu (EB) Nr. 859/2008 (OL 2008 L 254, p. 1).“
 
 
 4. Papildyti Įstatymo priedą 16 punktu: ^s-7ebf51fa0ab03078b30f7f63
 
 
-„16. 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 300/2008 dėl civilinės aviacijos saugumo bendrųjų taisyklių ir panaikinantis Reglamentą (EB) Nr. 2320/2002 (OL 2008 L 97, p. 72) su paskutiniais pakeitimais, padarytais 2010 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 18/2010 (OL 2010 L 7, p. 3).“
+„16. 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 300/2008 dėl civilinės aviacijos saugumo bendrųjų taisyklių ir panaikinantis [Reglamentą (EB) Nr. 2320/2002](https://eur-lex.europa.eu/eli/reg/2320/2002/oj) (OL 2008 L 97, p. 72) su paskutiniais pakeitimais, padarytais 2010 m. sausio 8 d. Komisijos reglamentu (ES) Nr. 18/2010 (OL 2010 L 7, p. 3).“
 
 
 5. Papildyti Įstatymo priedą 17 punktu: ^s-e7cb35da61f5e8e477542037

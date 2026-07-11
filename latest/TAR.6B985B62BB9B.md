@@ -43,7 +43,7 @@ Vilnius
 148 straipsnio 6 dalyje išbraukti žodį „teisėjų“ ir šią dalį išdėstyti taip:
 
 
-„6. Komisijos narių darbas Komisijoje laikytinas darbu pagrindinėje darbovietėje ir apmokamas Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka. Komisijos narys pareigas gali eiti tik Komisijoje, taip pat dirbti mokslinį arba pedagoginį darbą.“
+„6. Komisijos narių darbas Komisijoje laikytinas darbu pagrindinėje darbovietėje ir apmokamas Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka. Komisijos narys pareigas gali eiti tik Komisijoje, taip pat dirbti mokslinį arba pedagoginį darbą.“
 
 
 

@@ -39,38 +39,38 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-8f627d377b76f9b97dabb3f5
 
 
-1. Pakeisti 2 straipsnio 5 dalį ir ją išdėstyti taip: ^s-a0163e451b7555e358cf10cf
+1. Pakeisti [[latest/TAR.0C5C33AA865C#^s-254d778a05bec46204c9dea7|2 straipsnio 5 dalį]] ir ją išdėstyti taip: ^s-a0163e451b7555e358cf10cf
 
 
 „5. Gamtinių dujų birža – prekybos gamtinėmis dujomis sistema, organizuojama rinkos operatoriaus ir (arba) energijos išteklių biržos operatoriaus, kaip tai numatyta [[latest/TAR.A516DE6B7EC2|Lietuvos Respublikos energijos išteklių rinkos įstatyme]], Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka ir sąlygomis.“
 
 
-2. Pakeisti 2 straipsnio 32 dalį ir ją išdėstyti taip: ^s-fd5e03fd757bdc82f44b232f
+2. Pakeisti [[latest/TAR.0C5C33AA865C#^s-a89de325f3263a8554c4a80b|2 straipsnio 32 dalį]] ir ją išdėstyti taip: ^s-fd5e03fd757bdc82f44b232f
 
 
 „32. Gamtinių dujų tiekimas (toliau – tiekimas) – gamtinių dujų pardavimas ir (ar) perpardavimas gamtinių dujų vartotojams.“
 
 
-3. Papildyti [[#^s-adb96d0e56cbc9c9bfbf0470|2 straipsnį]] nauja 49 dalimi: ^s-2735e6eca49e49b4848262c7
+3. Papildyti [[#^s-adb96d0e56cbc9c9bfbf0470|2 straipsnį]] nauja [[latest/TAR.0C5C33AA865C|49 dalimi]]: ^s-2735e6eca49e49b4848262c7
 
 
 „49. Prekyba gamtinėmis dujomis gamtinių dujų biržoje (toliau – prekyba gamtinių dujų biržoje) – gamtinių dujų įsigijimas ir (arba) pardavimas gamtinių dujų biržoje.“
 
 
-4. Buvusias [[#^s-adb96d0e56cbc9c9bfbf0470|2 straipsnio]] 49–57 dalis laikyti atitinkamai 50–58 dalimis. ^s-75068c288a105922f875a924
+4. Buvusias [[#^s-adb96d0e56cbc9c9bfbf0470|2 straipsnio]] [[latest/TAR.0C5C33AA865C#^s-5f906217455a9c451740fea9|49]]–[[latest/TAR.0C5C33AA865C#^s-3eaf8f58730c205cfae8538b|57]] dalis laikyti atitinkamai [[latest/TAR.0C5C33AA865C#^s-564b368be69aa1fd235287e9|50]]–[[latest/TAR.0C5C33AA865C#^s-f46ed384d534c837a1864794|58]] dalimis. ^s-75068c288a105922f875a924
 
 
 
 ### 2 straipsnis. 20 straipsnio pakeitimas ^s-adb96d0e56cbc9c9bfbf0470
 
 
-1. Pakeisti 20 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip: ^s-4fb5c1f8091b2538aa58674a
+1. Pakeisti [[latest/TAR.0C5C33AA865C#^s-90ccb7ba6db47d3de488bfbc|20 straipsnio 1 dalies 5 punktą]] ir jį išdėstyti taip: ^s-4fb5c1f8091b2538aa58674a
 
 
 „5) tiekimo, išskyrus prekybą gamtinių dujų biržoje;“.
 
 
-2. Pakeisti 20 straipsnio 5 dalį ir ją išdėstyti taip: ^s-76508522eda4bae49e5ea6a3
+2. Pakeisti [[latest/TAR.0C5C33AA865C#^s-ee0dfde92eb72815202439bb|20 straipsnio 5 dalį]] ir ją išdėstyti taip: ^s-76508522eda4bae49e5ea6a3
 
 
 „5. Perdavimo, skirstymo, laikymo ir skystinimo licencijos išduodamos Lietuvos Respublikoje įsteigtam juridiniam asmeniui arba kitos valstybės narės juridinio asmens ar kitos organizacijos padaliniui, įsteigtam Lietuvos Respublikoje. Licencijos išduodamos asmenims, turintiems pakankamus technologinius, finansinius ir vadybinius pajėgumus, leidžiančius tinkamai vykdyti licencijuojamos veiklos sąlygas. Asmenų technologinius, finansinius ir vadybinius pajėgumus ir jų įvertinimo tvarką nustato Komisija, atsižvelgdama į šiuos kriterijus:
@@ -101,13 +101,13 @@ Vilnius
 ### 3 straipsnis. 23 straipsnio pakeitimas ^s-1a2ccd35a5f0418f1458c9c6
 
 
-1. Pakeisti 23 straipsnio 3 dalį ir ją išdėstyti taip: ^s-5b4ffe220d70fbeafb935230
+1. Pakeisti [[latest/TAR.0C5C33AA865C#^s-4ad60ba2efc1a8d8b3f55220|23 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-5b4ffe220d70fbeafb935230
 
 
 „3. Tiekimo įmonė tiekia gamtines dujas gamtinių dujų vartotojams pagal dvišales sutartis ir (ar) kitais būdais Vyriausybės ar jos įgaliotos institucijos patvirtintose Prekybos gamtinėmis dujomis taisyklėse nustatyta tvarka ir sąlygomis.“
 
 
-2. Pakeisti 23 straipsnio 5 dalį ir ją išdėstyti taip: ^s-7995be9e621688f1579c804e
+2. Pakeisti [[latest/TAR.0C5C33AA865C#^s-ca57172249f1c0fb551b6ac7|23 straipsnio 5 dalį]] ir ją išdėstyti taip: ^s-7995be9e621688f1579c804e
 
 
 „5. Perdavimo sistemos naudotojai yra atsakingi perdavimo sistemos operatoriui už pristatomų į perdavimo sistemą ir paimamų iš perdavimo sistemos gamtinių dujų kiekių subalansavimą pagal perdavimo sistemos operatoriaus parengtas ir su Komisija suderintas balansavimo taisykles.“
@@ -117,7 +117,7 @@ Vilnius
 ### 4 straipsnis. 33 straipsnio pakeitimas ^s-99c1e5960b4557a76acae8e6
 
 
-Pakeisti 33 straipsnio 6 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.0C5C33AA865C#^s-2f54245eacfe91dd4aa68e21|33 straipsnio 6 punktą]] ir jį išdėstyti taip:
 
 
 „6) reikalauti iš sistemos naudotojų pateikti pakankamą prievolių įvykdymo užtikrinimą, kuriuo būtų užtikrintos būsimos ir (ar) esamos sistemos naudotojo prievolės pagal perdavimo sistemos operatoriaus parengtas ir su Komisija suderintas balansavimo taisykles už paimtų iš perdavimo sistemos, tačiau į perdavimo sistemą nepristatytų gamtinių dujų nupirkimą iš perdavimo sistemos operatoriaus ir dėl to susidariusių nuostolių atlyginimą;“.
@@ -127,13 +127,13 @@ Pakeisti 33 straipsnio 6 punktą ir jį išdėstyti taip:
 ### 5 straipsnis. 38 straipsnio pakeitimas ^s-cdfa661c4e3224e40c380d62
 
 
-1. Pakeisti 38 straipsnio pavadinimą ir jį išdėstyti taip: ^s-8b1db3a39348eecd1f24a89a
+1. Pakeisti [[latest/TAR.0C5C33AA865C#^s-b370f6e628acb7db073238ad|38 straipsnio]] pavadinimą ir jį išdėstyti taip: ^s-8b1db3a39348eecd1f24a89a
 
 
 „38 straipsnis. Rinkos operatoriaus ir energijos išteklių biržos operatoriaus užduotys ir veikla“.
 
 
-2. Papildyti 38 straipsnį 5 dalimi: ^s-19a5dd558ebb142ba99c8d59
+2. Papildyti [[latest/TAR.0C5C33AA865C#^s-d32ac28c3bb0e3462319774b|38 straipsnį 5 dalimi]]: ^s-19a5dd558ebb142ba99c8d59
 
 
 „5. Rinkos operatorius ir energijos išteklių biržos operatorius yra atsakingi, kad gamtinių dujų biržoje sudarytų sandorių pagrindu parduotas ir įsigytas gamtinių dujų kiekis sutaptų, o už gamtinių dujų biržoje parduotų gamtinių dujų kiekių patiekimą į perdavimo sistemą ir nupirktų gamtinių dujų kiekių paėmimą iš perdavimo sistemos yra atsakingi gamtinių dujų rinkos dalyvis ir energijos išteklių biržos dalyvis.“

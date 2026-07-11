@@ -71,7 +71,7 @@ TAR pastaba. [[#^s-49b48a9067fc2cf68b78c830|2 straipsnio]] nuostatos dėl Ignali
 
 
 2. Ignalinos atominę elektrinę eksploatuojančios organizacijos patikėjimo teise valdomi energetikos įrenginiai ir jų dalys, teisės aktų nustatyta tvarka pripažinti nereikalingais arba netinkamais (negalimais) naudoti, kurių nepavyko parduoti viešojo prekių aukciono būdu ir kurie negali būti panaudoti kitais [[latest/TAR.D5496D69DF98#^s-b1e1ed60e8442079d6543596|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 27 straipsnio 1 dalyje]] nurodytais būdais, gali būti parduoti Vyriausybės nustatytu būdu ir tvarka netaikant [[latest/TAR.D5496D69DF98#^s-40b819c403d76b0e1b35c7cc|Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 27 straipsnio 2 dalies]] nuostatų. ^s-71224583cfc2be502f9b4fa3
-TAR pastaba. [[#^s-71224583cfc2be502f9b4fa3|3 straipsnio 2 dalis]] įsigalioja 2014-10-01.
+TAR pastaba. 3 straipsnio 2 dalis įsigalioja 2014-10-01.
 
 
 3. Ignalinos atominės elektrinės ir su jos eksploatavimo nutraukimu susijusių kitų branduolinės energetikos objektų, radioaktyviųjų medžiagų ir radioaktyviųjų atliekų tvarkymo branduolinės ir radiacinės saugos užtikrinimo priemonės, tarp jų ir fizinė sauga, taip pat avarinės parengties priemonės Ignalinos atominės elektrinės sanitarinėje apsaugos ir stebėjimo zonose įgyvendinamos [[latest/TAR.6286F15970B3|Lietuvos Respublikos branduolinės energijos įstatymo]], [[latest/TAR.424F7C72601E|Lietuvos Respublikos branduolinės saugos įstatymo]], [[latest/TAR.7083DB116A2E|Lietuvos Respublikos radiacinės saugos įstatymo]], [[latest/TAR.951DF53F837F|Lietuvos Respublikos radioaktyviųjų atliekų tvarkymo įstatymo]] nustatyta tvarka. ^s-6386504b4e5bf787ed018a30

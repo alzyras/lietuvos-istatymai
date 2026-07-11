@@ -80,7 +80,7 @@ Tikslinant asmeninio ūkio žemės sklypų išdėstymą arba ženklinant šiuos 
 3. 19 straipsnį išdėstyti taip:
 
 
-„19 straipsnis. Skundų dėl žemės reformos vykdytojų sprendimų pateikimo ir nagrinėjimo tvarka
+„19 straipsnis. Skundų [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) vykdytojų sprendimų pateikimo ir nagrinėjimo tvarka
 
 
 1. Fiziniai ir juridiniai asmenys apylinkių agrarinės reformos tarnybų sprendimus dėl prašymų gauti žemę tenkinimo gali apskųsti rajono valdybai per mėnesį nuo šių sprendimų gavimo. Rajono valdyba gautą skundą per mėnesį išnagrinėja ir priima sprendimą.

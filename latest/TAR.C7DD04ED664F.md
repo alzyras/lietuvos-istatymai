@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-b0e6aedf06fbc1b9de03f182
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-4bc8872820546bc80e813288|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 2 dalimi]] bei atsižvelgdamas į Respublikos Prezidento 2002 m. spalio 4 d. dekretą Nr. 1926, ratifikuoja Lietuvos Respublikos ir Kinijos Liaudies Respublikos ekstradicijos sutartį, pasirašytą 2002 m. birželio 17 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-4bc8872820546bc80e813288|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 2 dalimi]] bei atsižvelgdamas į Respublikos Prezidento [2002 m. spalio 4 d. dekretą Nr. 1926](https://e-tar.lt/portal/lt/legalAct/TAR.09482E754BE5), ratifikuoja Lietuvos Respublikos ir Kinijos Liaudies Respublikos ekstradicijos sutartį, pasirašytą 2002 m. birželio 17 d. Vilniuje.
 
 
 

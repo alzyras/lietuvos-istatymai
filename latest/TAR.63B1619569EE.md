@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimų ratifikavimas ^s-1f00ff232e8467695bc4c4b5
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. gegužės 20 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos socialinės apsaugos laikinuosius susitarimus ETS 12 ir ETS 13 bei jų protokolus ETS 12A ir ETS 13A“, ratifikuoja 1997 m. lapkričio 19 d. Strasbūre Lietuvos Respublikos vardu pasirašytus susitarimus:
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. gegužės 20 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos socialinės apsaugos laikinuosius susitarimus ETS 12 ir ETS 13 bei jų protokolus ETS 12A ir ETS 13A“](https://e-tar.lt/portal/lt/legalAct/TAR.C0B77D04B185), ratifikuoja 1997 m. lapkričio 19 d. Strasbūre Lietuvos Respublikos vardu pasirašytus susitarimus:
 
 
 1) Europos laikinąjį susitarimą dėl senatvės, invalidumo ir maitintojo netekimo socialinės apsaugos sistemų (ETS 12); ^s-126e780b0f27f1268efbfacb

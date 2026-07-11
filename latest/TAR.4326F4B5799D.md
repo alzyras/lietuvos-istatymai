@@ -119,13 +119,13 @@ Finansų ministerija:
 ### 5 straipsnis. Baigiamosios nuostatos ^s-0a86ce2153272cc4f705a71d
 
 
-1. Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 5 straipsnio 4 punkto, 6 straipsnio 2 dalies, 11 straipsnio 2 dalies ir 27 straipsnio 7 punkto nuostatos įsigalioja, kai Lietuvos Respublika prisijungia prie tarptautinės transporto priemonių civilinės atsakomybės privalomojo draudimo sistemos. ^s-1b1bcd13e159aa7a2338ba55
+1. [[latest/TAR.4961DA7FA79F|Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 5 straipsnio 4 punkto]], 6 straipsnio 2 dalies, 11 straipsnio 2 dalies ir 27 straipsnio 7 punkto nuostatos įsigalioja, kai Lietuvos Respublika prisijungia prie tarptautinės transporto priemonių civilinės atsakomybės privalomojo draudimo sistemos. ^s-1b1bcd13e159aa7a2338ba55
 
 
-2. Biuro pareiga atlyginti žalą pagal [[latest/TAR.4961DA7FA79F#^s-41e75ec74221c512e617f717|Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 20 straipsnio]] 2 ir [[#^s-4b346004a0ed6d66724b6d11|3 dalių]] nuostatas atsiranda nuo 2002 m. balandžio 1 d. Iki 2002 m. balandžio 1 d. padarytos žalos Biuras neatlygina. ^s-37b5ef2b62ceb237f42b2e88
+2. Biuro pareiga atlyginti žalą pagal [[latest/TAR.4961DA7FA79F#^s-41e75ec74221c512e617f717|Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 20 straipsnio]] [[latest/TAR.4961DA7FA79F#^s-f50664a156d452e795cfe7c4|2]] ir [[latest/TAR.4961DA7FA79F#^s-702eaedcf833035a0c161656|3]] dalių nuostatas atsiranda nuo 2002 m. balandžio 1 d. Iki 2002 m. balandžio 1 d. padarytos žalos Biuras neatlygina. ^s-37b5ef2b62ceb237f42b2e88
 
 
-3. Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 43 straipsnio nuostatos įsigalioja nuo 2002 m. balandžio 1 d. ^s-4b346004a0ed6d66724b6d11
+3. [[latest/TAR.4961DA7FA79F|Transporto priemonių savininkų ir valdytojų civilinės atsakomybės privalomojo draudimo įstatymo 43 straipsnio]] nuostatos įsigalioja nuo 2002 m. balandžio 1 d. ^s-4b346004a0ed6d66724b6d11
 
 
 

@@ -96,7 +96,7 @@ Nuosprendį vykdyti pateikiantis teismas, jeigu tai nebuvo padaryta anksčiau, p
 1. Papildyti 362 straipsnį nauja 3 dalimi: ^s-21f459425f404276c3061661
 
 
-„3. Klausimus dėl baudos, turtinės žalos atlyginimo ar pašalinimo, įmokos į Nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimo, išplėstinio turto konfiskavimo vykdymo ar proceso išlaidų išieškojimo perdavimo vykdyti Europos Sąjungos valstybės narės kompetentingai institucijai pagal šio Kodekso 342 straipsnį nagrinėja ir nutartimi išsprendžia nuosprendį priėmęs teismas.“
+„3. Klausimus [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E), turtinės žalos atlyginimo ar pašalinimo, įmokos į Nukentėjusių nuo nusikaltimų asmenų fondą, turto konfiskavimo, išplėstinio turto konfiskavimo vykdymo ar proceso išlaidų išieškojimo perdavimo vykdyti Europos Sąjungos valstybės narės kompetentingai institucijai pagal šio Kodekso 342 straipsnį nagrinėja ir nutartimi išsprendžia nuosprendį priėmęs teismas.“
 
 
 2. Buvusias 362 straipsnio 3, 4, 5 dalis laikyti atitinkamai 4, 5, 6 dalimis. ^s-ee615783301bc5382825776d
@@ -138,7 +138,7 @@ Pakeisti ir papildyti 365 straipsnį ir jį išdėstyti taip:
 3. Užsienio valstybės teismo nuosprendžiu paskirtą laisvės atėmimo bausmę su Lietuvos Respublikos baudžiamųjų ir bausmių vykdymo įstatymų reikalavimais Lietuvos Respublikos tarptautinėje sutartyje numatytais atvejais ir sąlygomis suderina ir pataisos įstaigos rūšį nustato apylinkės teismas, kurio veiklos teritorijoje yra iš užsienio valstybės perimto nuteistojo laisvės atėmimo vieta, šią laisvės atėmimo bausmę vykdančios pataisos įstaigos administracijos teikimu. Tuo atveju, kai nuteistasis yra Lietuvos Respublikos teritorijoje ir jo laisvė nėra apribota, laisvės atėmimo bausmės suderinimo klausimą sprendžia nuteistojo gyvenamosios vietos apylinkės teismas, gavęs Lietuvos Respublikos teisingumo ministerijos prašymą. ^s-1fcf581ca85c3c504b8fda7a
 
 
-4. Teismas šio straipsnio 2 ir [[#^s-1fcf581ca85c3c504b8fda7a|3 dalyse]] nurodytus klausimus išsprendžia nutartimi šio Kodekso 362 straipsnyje nustatyta tvarka. Teismo nutartį nuteistasis, jo gynėjas, prokuroras gali skųsti šio Kodekso 364 straipsnyje nustatyta tvarka. ^s-42ea7bda0bfc798a59215e98
+4. Teismas šio straipsnio [[#^s-9d1bfdf1ad3d43ff4367b479|2]] ir [[#^s-1fcf581ca85c3c504b8fda7a|3]] dalyse nurodytus klausimus išsprendžia nutartimi šio Kodekso 362 straipsnyje nustatyta tvarka. Teismo nutartį nuteistasis, jo gynėjas, prokuroras gali skųsti šio Kodekso 364 straipsnyje nustatyta tvarka. ^s-42ea7bda0bfc798a59215e98
 
 
 5. Užsienio valstybės teismo pritaikytą priverčiamąją medicinos priemonę su Lietuvos Respublikos įstatymais suderina šios priemonės taikymo vietos apylinkės teismas, gavęs Lietuvos Respublikos teisingumo ministerijos prašymą. Teismo nutartis šiuo klausimu priimama ir gali būti skundžiama šio Kodekso 405 straipsnyje nustatyta tvarka.“ ^s-719b27025262aa42e10595db
@@ -274,7 +274,7 @@ Papildyti Kodekso priedą 5 punktu:
 ### 12 straipsnis. Įstatymo įsigaliojimas ^s-ea3587b63e44a81c494ddd09
 
 
-Šis įstatymas, išskyrus 4 ir [[#^s-aae464b6b4a3569c69c84a7d|13 straipsnius]], įsigalioja 2013 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-f268c5902d69ecb8f5fcfed0|4]] ir [[#^s-aae464b6b4a3569c69c84a7d|13]] straipsnius, įsigalioja 2013 m. sausio 1 d.
 
 
 

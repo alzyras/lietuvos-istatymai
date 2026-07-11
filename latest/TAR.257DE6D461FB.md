@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-46f36dc59124b8a107febc6e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2007 m. vasario 15 d. dekretą Nr. 1K-879, ratifikuoja 2006 m. birželio 1 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo geležinkelių transporto srityje pakeitimo protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2007 m. vasario 15 d. dekretą Nr. 1K-879](https://e-tar.lt/portal/lt/legalAct/TAR.3B6F37B0D0D7), ratifikuoja 2006 m. birželio 1 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimo dėl bendradarbiavimo geležinkelių transporto srityje pakeitimo protokolą.
 
 
 

@@ -9,11 +9,14 @@ pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo 14, 28, 30, 35 s
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.94F6B680E8B8#^s-fe50d40f20bbdcfaf765d402|Lietuvos Respublikos sveikatos draudimo įstatymas]] - Lietuvos Respublikos sveikatos draudimo įstatymo 14, 28, 30, 35 straipsnių
-- [[latest/TAR.4997EB612974|Lietuvos Respublikos sveikatos draudimo įstatymo 14, 28, 30, 35 straipsnių pakeitimo ir įstatymo papildymo 131 straipsniu įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS SVEIKATOS DRAUDIMO ĮSTATYMO 14, 28, 30, 35 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 131 STRAIPSNIU ĮSTATYMAS
+- [[latest/TAR.94F6B680E8B8|Lietuvos Respublikos sveikatos draudimo įstatymas]] - Lietuvos Respublikos sveikatos draudimo įstatymo
+- [[latest/TAR.94F6B680E8B8#^s-2daa59384e6c32cedc91b8eb|Lietuvos Respublikos sveikatos draudimo įstatymas]] - 30
+- [[latest/TAR.94F6B680E8B8#^s-d259a217b89d63c67029a8a3|Lietuvos Respublikos sveikatos draudimo įstatymas]] - 28
+- [[latest/TAR.94F6B680E8B8#^s-e86af72cdd8bf7ef8a8ceace|Lietuvos Respublikos sveikatos draudimo įstatymas]] - 14
+- [[latest/TAR.94F6B680E8B8#^s-fe50d40f20bbdcfaf765d402|Lietuvos Respublikos sveikatos draudimo įstatymas]] - 35
+- [[latest/TAR.4997EB612974|Lietuvos Respublikos sveikatos draudimo įstatymo 14, 28, 30, 35 straipsnių pakeitimo ir įstatymo papildymo 131 straipsniu įstatymas]] - SVEIKATOS DRAUDIMO ĮSTATYMO 14, 28, 30, 35 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 131 STRAIPSNIU ĮSTATYMAS
 - [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatymas]] - Viešojo sektoriaus atskaitomybės įstatymas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.94F6B680E8B8#^s-ace4b7623413558e1b7c59f0|Lietuvos Respublikos sveikatos draudimo įstatymas]] - Įstatymas Nr. X-1828
-- [[latest/TAR.94F6B680E8B8#^s-f504e151ac45e93c8cd51e6d|Lietuvos Respublikos sveikatos draudimo įstatymas]] - Įstatymas Nr. X-1828
+_Nėra._

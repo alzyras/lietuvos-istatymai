@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-0d7f90c1d8cb6dc2b674bf0a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. sausio 20 d. dekretą Nr. 2030, ratifikuoja Konvenciją dėl priešpėstinių minų naudojimo, kaupimo, gamybos ir perdavimo uždraudimo ir dėl jų sunaikinimo, sudarytą 1997 m. rugsėjo 18 d. Osle.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. sausio 20 d. dekretą Nr. 2030](https://e-tar.lt/portal/lt/legalAct/TAR.E7AE9CD0B738), ratifikuoja Konvenciją dėl priešpėstinių minų naudojimo, kaupimo, gamybos ir perdavimo uždraudimo ir dėl jų sunaikinimo, sudarytą 1997 m. rugsėjo 18 d. Osle.
 
 
 

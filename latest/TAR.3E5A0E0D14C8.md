@@ -102,7 +102,7 @@ BENDROSIOS NUOSTATOS
 12. Priežiūros institucija – Lietuvos bankas, šio ir kitų finansų rinką reglamentuojančių įstatymų nustatyta tvarka vykdantis vartojimo kredito davėjų, vartojimo kredito tarpininkų ir tarpusavio skolinimo platformos operatorių veiklos priežiūros funkcijas. ^s-74340de138e7a7211cb3a4ea
 
 
-13. Profiliavimas – kaip apibrėžiama 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) 4 straipsnio 4 punkte. ^s-e2328dc9b23708f535368a1d
+13. Profiliavimas – kaip apibrėžiama 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) 4 straipsnio 4 punkte. ^s-e2328dc9b23708f535368a1d
 
 
 14. Sąskaitos kreditavimo sutartis – aiškiai išreikšta vartojimo kredito sutartis, pagal kurią vartojimo kredito davėjas vartojimo kredito forma suteikia vartojimo kredito gavėjui galimybę disponuoti lėšomis viršijant esamą vartojimo kredito gavėjo mokėjimo sąskaitos likutį. ^s-93543427912309c50d6c5866
@@ -259,10 +259,10 @@ b) mokėjimas turi būti visiškai įvykdomas ne vėliau kaip per 14 dienų nuo 
 c) pristatytų prekių ar suteiktų paslaugų kainai netaikomos palūkanos ir kitos išlaidos, išskyrus šio įstatymo [[#^s-9dd6663f5da0a38f513d398d|19 straipsnio 8 dalyje]] nustatytas netesybas, taikomas vartojimo kredito gavėjui už pavėluotus mokėjimus.
 
 
-3. Vartojimo kredito sutartims, pagal kurias suteikiama teisė viršyti vartojimo kreditą, taikomi tik šio įstatymo 1–3, 15, [[#^s-057bb6d34dab12b4242188a2|17 straipsniai]], [[#^s-9dd6663f5da0a38f513d398d|19 straipsnio 8 dalis]], 21, 23, 24, 29, 30–32, 34, 39–41, 56–[[#^s-f4f3eb746e5360c3e05f0d5d|62 straipsniai]]. ^s-2ed17be03ef943eefeb2df88
+3. Vartojimo kredito sutartims, pagal kurias suteikiama teisė viršyti vartojimo kreditą, taikomi tik šio įstatymo [[#^s-7a919d46c0dca9bd8519e093|1]]–[[#^s-7af9db919a510d2c996b76bb|3]], [[#^s-0f9d4fbbb1fcf54650b40215|15]], [[#^s-057bb6d34dab12b4242188a2|17]] straipsniai, [[#^s-9dd6663f5da0a38f513d398d|19 straipsnio 8 dalis]], [[#^s-c50f01ced3b20178bc8c3726|21]], [[#^s-ea2a9008bc53f127aa8c5770|23]], [[#^s-533fa5c2803c5f39baebd3b3|24]], [[#^s-2f4e66bf3ad9289e7ab3e97d|29]], [[#^s-f89ef2c00af19acdba4e9ae4|30]]–[[#^s-0a4198234acac36138d2d81c|32]], [[#^s-8f62596e1ebf1a1e5cddc018|34]], [[#^s-4c3f177a8df5914a82ae4206|39]]–[[#^s-c3d5d5c0b38cfb008b2fe24c|41]], [[#^s-596c7827cc4aa086f0ff0b78|56]]–[[#^s-f4f3eb746e5360c3e05f0d5d|62]] straipsniai. ^s-2ed17be03ef943eefeb2df88
 
 
-4. Vartojimo kredito sutartims taikomi tik šio įstatymo 1–3, 5, 8, 9, 17, [[#^s-7e84604ebfd7f523bd0053f7|18 straipsniai]], [[#^s-8dba3e795d749b1738570aaa|19 straipsnio 1 dalis]], [[#^s-ffaffe07da63c29fa3852a1b|2 dalies]] 1–8 ir 12 punktai, 6 ir 8 dalys, 20, 21, 23, 24 ir 28–[[#^s-f4f3eb746e5360c3e05f0d5d|62 straipsniai]] ir priežiūros institucijos nustatyta bendros vartojimo kredito kainos metinės normos apskaičiavimo tvarka, kai šias sutartis sudaro asmuo, kuris atitinka visas šias sąlygas: ^s-dc53d27f60ad629c7ca10608
+4. Vartojimo kredito sutartims taikomi tik šio įstatymo [[#^s-7a919d46c0dca9bd8519e093|1]]–[[#^s-7af9db919a510d2c996b76bb|3]], [[#^s-45ac749bafe2902dbe01268c|5]], [[#^s-31d4a91ce21d58d7e23d2dd3|8]], [[#^s-f1e5ce93c3026ed51432724f|9]], [[#^s-057bb6d34dab12b4242188a2|17]], [[#^s-7e84604ebfd7f523bd0053f7|18]] straipsniai, [[#^s-8dba3e795d749b1738570aaa|19 straipsnio 1 dalis]], [[#^s-ffaffe07da63c29fa3852a1b|2 dalies]] 1–8 ir 12 punktai, [[#^s-c24efb910d62eeb799f66fbc|6]] ir [[#^s-9dd6663f5da0a38f513d398d|8]] dalys, [[#^s-20c44b72f6d1b8ff3787116b|20]], [[#^s-c50f01ced3b20178bc8c3726|21]], [[#^s-ea2a9008bc53f127aa8c5770|23]], [[#^s-533fa5c2803c5f39baebd3b3|24]] ir [[#^s-57da5aa63b04ddb93e286de8|28]]–[[#^s-f4f3eb746e5360c3e05f0d5d|62]] straipsniai ir priežiūros institucijos nustatyta bendros vartojimo kredito kainos metinės normos apskaičiavimo tvarka, kai šias sutartis sudaro asmuo, kuris atitinka visas šias sąlygas: ^s-dc53d27f60ad629c7ca10608
 
 
 1) įsteigtas siekiant jo narių tarpusavio naudos; ^s-1717be1595f92e7c5a568194
@@ -283,7 +283,7 @@ c) pristatytų prekių ar suteiktų paslaugų kainai netaikomos palūkanos ir ki
 6) jo nariai gali būti tik asmenys, gyvenantys arba dirbantys tam tikroje teritorijoje, arba konkretaus darbdavio darbuotojai ir į pensiją išėję darbuotojai, arba asmenys, atitinkantys teisės aktuose nustatytus reikalavimus, įrodančius narių tarpusavio ryšių buvimą. ^s-90250250d07c0f00d96cf87e
 
 
-5. Vartojimo kredito sutartims, kuriose numatoma galimybė vartojimo kredito davėjui, paskolos davėjui ir vartojimo kredito gavėjui susitarti dėl atidėto įmokų mokėjimo arba keisti kredito grąžinimo metodą, kai vartojimo kredito gavėjas jau nevykdo savo įsipareigojimų arba, tikėtina, kad jų neįvykdys, pagal pradinę vartojimo kredito sutartį, taikomi tik šio įstatymo 1–3, 5, 8, 9, 17, [[#^s-7e84604ebfd7f523bd0053f7|18 straipsniai]], [[#^s-8dba3e795d749b1738570aaa|19 straipsnio 1 dalis]], [[#^s-ffaffe07da63c29fa3852a1b|2 dalies]] 1–8 ir 12 punktai, 6 ir 8 dalys, 20, 21, 23, 24 ir 28–[[#^s-f4f3eb746e5360c3e05f0d5d|62 straipsniai]] ir priežiūros institucijos nustatyta bendros vartojimo kredito kainos metinės normos apskaičiavimo tvarka, jeigu: ^s-0295dab8c4c65d77b7f69d1d
+5. Vartojimo kredito sutartims, kuriose numatoma galimybė vartojimo kredito davėjui, paskolos davėjui ir vartojimo kredito gavėjui susitarti dėl atidėto įmokų mokėjimo arba keisti kredito grąžinimo metodą, kai vartojimo kredito gavėjas jau nevykdo savo įsipareigojimų arba, tikėtina, kad jų neįvykdys, pagal pradinę vartojimo kredito sutartį, taikomi tik šio įstatymo [[#^s-7a919d46c0dca9bd8519e093|1]]–[[#^s-7af9db919a510d2c996b76bb|3]], [[#^s-45ac749bafe2902dbe01268c|5]], [[#^s-31d4a91ce21d58d7e23d2dd3|8]], [[#^s-f1e5ce93c3026ed51432724f|9]], [[#^s-057bb6d34dab12b4242188a2|17]], [[#^s-7e84604ebfd7f523bd0053f7|18]] straipsniai, [[#^s-8dba3e795d749b1738570aaa|19 straipsnio 1 dalis]], [[#^s-ffaffe07da63c29fa3852a1b|2 dalies]] 1–8 ir 12 punktai, [[#^s-c24efb910d62eeb799f66fbc|6]] ir [[#^s-9dd6663f5da0a38f513d398d|8]] dalys, [[#^s-20c44b72f6d1b8ff3787116b|20]], [[#^s-c50f01ced3b20178bc8c3726|21]], [[#^s-ea2a9008bc53f127aa8c5770|23]], [[#^s-533fa5c2803c5f39baebd3b3|24]] ir [[#^s-57da5aa63b04ddb93e286de8|28]]–[[#^s-f4f3eb746e5360c3e05f0d5d|62]] straipsniai ir priežiūros institucijos nustatyta bendros vartojimo kredito kainos metinės normos apskaičiavimo tvarka, jeigu: ^s-0295dab8c4c65d77b7f69d1d
 
 
 1) tikėtina, kad toks susitarimas padėtų išvengti skolų išieškojimo dėl įsipareigojimų nevykdymo; ^s-f80a8835a62775f31580170b
@@ -433,7 +433,7 @@ INFORMAVIMAS PRIEŠ SUDARANT VARTOJIMO KREDITO SUTARTĮ
 ### 7 straipsnis. Informavimo pareiga prieš sudarant vartojimo kredito sutartį ^s-cc6bed9c1164df592c722939
 
 
-1. Vartojimo kredito davėjas ir, jeigu taikoma, vartojimo kredito tarpininkas iš anksto, iki vartojimo kredito sutarties sudarymo, įskaitant atvejus, kai vartojimo kredito sutarčiai sudaryti naudojamos ryšio priemonės, kaip jos apibrėžiamos [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos įstatyme]], (toliau – ryšio priemonės), atsižvelgdami į vartojimo kredito gavėjo nurodytus prioritetus ir remdamiesi vartojimo kredito davėjo siūlomomis vartojimo kredito teikimo sąlygomis, vartojimo kredito gavėjui pateikia aiškią ir suprantamą ikisutartinę informaciją, kad šis galėtų palyginti skirtingus pasiūlymus ir priimti informacija pagrįstą sprendimą dėl vartojimo kredito sutarties sudarymo, išskyrus šiame įstatyme nustatytas išimtis. ^s-bd227325225438a1181448b7
+1. Vartojimo kredito davėjas ir, jeigu taikoma, vartojimo kredito tarpininkas iš anksto, iki vartojimo kredito sutarties sudarymo, įskaitant atvejus, kai vartojimo kredito sutarčiai sudaryti naudojamos [[latest/TAR.D790096B17EE|ryšio priemonės]], kaip jos apibrėžiamos [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos įstatyme]], (toliau – [[latest/TAR.D790096B17EE|ryšio priemonės]]), atsižvelgdami į vartojimo kredito gavėjo nurodytus prioritetus ir remdamiesi vartojimo kredito davėjo siūlomomis vartojimo kredito teikimo sąlygomis, vartojimo kredito gavėjui pateikia aiškią ir suprantamą ikisutartinę informaciją, kad šis galėtų palyginti skirtingus pasiūlymus ir priimti informacija pagrįstą sprendimą dėl vartojimo kredito sutarties sudarymo, išskyrus šiame įstatyme nustatytas išimtis. ^s-bd227325225438a1181448b7
 
 
 2. Kai vartojimo kredito davėjas ikisutartinę informaciją apie vartojimo kreditą vartojimo kredito gavėjui pateikia likus mažiau kaip 1 dienai iki vartojimo kredito sutarties sudarymo, vartojimo kredito davėjas ir, jeigu taikoma, vartojimo kredito tarpininkas pateikia vartojimo kredito gavėjui informaciją apie galimybę atsisakyti vartojimo kredito sutarties ir atsisakymo tvarką pagal šio įstatymo [[#^s-ce83591d7a5c928404b873e5|26 straipsnį]]. Informacija apie galimybę atsisakyti vartojimo kredito sutarties vartojimo kredito gavėjui pateikiama raštu popieriuje arba naudojant kitą jo pasirinktą ir vartojimo kredito sutartyje nurodytą patvariąją laikmeną ne anksčiau kaip per 1 ir ne vėliau kaip per 7 dienas nuo vartojimo kredito sutarties sudarymo dienos. ^s-13b60bc6041e6135517f637b
@@ -541,7 +541,7 @@ INFORMAVIMAS PRIEŠ SUDARANT VARTOJIMO KREDITO SUTARTĮ
 7. Kai, siekiant gauti vartojimo kreditą skelbiamomis sąlygomis, privaloma sudaryti su vartojimo kredito sutartimi susijusią papildomų paslaugų teikimo sutartį, vartojimo kredito sutartyje aiškiai nurodomos vartojimo kredito gavėjui taikomos su papildomų paslaugų teikimu susijusios išlaidos. ^s-9e7c2877618a56de815e4226
 
 
-8. Kai sudaroma vartojimo kredito sutartis susieta su lyginamuoju indeksu, kaip jis apibrėžiamas 2016 m. birželio 8 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/1011 dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014, su visais pakeitimais 3 straipsnio 1 dalies 3 punkte, vartojimo kredito davėjas arba, jeigu taikoma, vartojimo kredito tarpininkas, vartojimo kredito gavėjui atskirame dokumente, kuris gali būti pridėtas prie šio įstatymo 1 priede nustatytos standartinės informacijos apie vartojimo kreditą formos, pateikia lyginamojo indekso ir jo administratoriaus pavadinimą ir nurodo galimą poveikį vartojimo kredito gavėjui. ^s-48be02ed2c2093af8901c649
+8. Kai sudaroma vartojimo kredito sutartis susieta su lyginamuoju indeksu, kaip jis apibrėžiamas 2016 m. birželio 8 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/1011](https://eur-lex.europa.eu/eli/reg/2016/1011/oj) dėl indeksų, kurie kaip lyginamieji indeksai naudojami finansinėse priemonėse ir finansinėse sutartyse arba siekiant įvertinti investicinių fondų veiklos rezultatus, kuriuo iš dalies keičiami direktyvos 2008/48/EB ir 2014/17/ES bei Reglamentas (ES) Nr. 596/2014, su visais pakeitimais 3 straipsnio 1 dalies 3 punkte, vartojimo kredito davėjas arba, jeigu taikoma, vartojimo kredito tarpininkas, vartojimo kredito gavėjui atskirame dokumente, kuris gali būti pridėtas prie šio įstatymo 1 priede nustatytos standartinės informacijos apie vartojimo kreditą formos, pateikia lyginamojo indekso ir jo administratoriaus pavadinimą ir nurodo galimą poveikį vartojimo kredito gavėjui. ^s-48be02ed2c2093af8901c649
 
 
 9. Šio įstatymo 1 priede nustatytoje standartinės informacijos apie vartojimo kreditą formoje pateikiama informacija turi būti nuosekli ir lengvai įskaitoma. Pateikiant šią informaciją turi būti atsižvelgiama į priemonių, kuriomis ji rodoma, techninius apribojimus. Informacija turi būti rodoma aiškiai ir laikantis šiame įstatyme nustatytų reikalavimų įvairiais kanalais, atsižvelgiant į jų sąveikumą. ^s-ed5d1ceff1aa61a8a3d8336b
@@ -562,14 +562,14 @@ INFORMAVIMAS PRIEŠ SUDARANT VARTOJIMO KREDITO SUTARTĮ
 14. Kai sudaroma vartojimo kredito sutartis, pagal kurią vartojimo kredito gavėjo mokamomis įmokomis nereikia nedelsiant dengti bendros vartojimo kredito sumos ar jos dalies ir šios įmokos kaupiamos vartojimo kredito sutartyje arba papildomoje sutartyje numatytais laikotarpiais ir sąlygomis, vartojimo kredito davėjas ir, jeigu taikoma, vartojimo kredito tarpininkas, pateikdami [[#^s-97c74362523b5ee57b1019c5|šio straipsnio 4 dalyje]] nurodytą ikisutartinę informaciją, aiškiai ir glaustai nurodo, ar suteikiama visos išmokėtos vartojimo kredito lėšų sumos grąžinimo garantija. ^s-8edcc55264ae707728017fd5
 
 
-15. Kilus ginčui dėl to, ar vartojimo kredito davėjas ir, jeigu taikoma, vartojimo kredito tarpininkas suteikė pakankamai informacijos vartojimo kredito gavėjui, kad šis galėtų įvertinti, ar siūloma vartojimo kredito sutartis atitinka jo poreikius ir jo finansinę būklę, įrodinėjimo pareiga tenka vartojimo kredito davėjui ir, jeigu taikoma, vartojimo kredito tarpininkui. Vartojimo kredito gavėjo prašymu vartojimo kredito davėjas ir, jeigu taikoma, vartojimo kredito tarpininkas turi paaiškinti informaciją, nurodytą šio straipsnio 4 ir [[#^s-7f56bcbbb2490c4ec27c1bde|6 dalyse]], siūlomo vartojimo kredito pagrindines ypatybes ir galimą jo konkretų poveikį vartojimo kredito gavėjui, taip pat pasekmes, jeigu vartojimo kredito gavėjas nevykdytų įsipareigojimų dėl mokėjimų. ^s-793ee1813f6b5b63a746f0e7
+15. Kilus ginčui dėl to, ar vartojimo kredito davėjas ir, jeigu taikoma, vartojimo kredito tarpininkas suteikė pakankamai informacijos vartojimo kredito gavėjui, kad šis galėtų įvertinti, ar siūloma vartojimo kredito sutartis atitinka jo poreikius ir jo finansinę būklę, įrodinėjimo pareiga tenka vartojimo kredito davėjui ir, jeigu taikoma, vartojimo kredito tarpininkui. Vartojimo kredito gavėjo prašymu vartojimo kredito davėjas ir, jeigu taikoma, vartojimo kredito tarpininkas turi paaiškinti informaciją, nurodytą šio straipsnio [[#^s-97c74362523b5ee57b1019c5|4]] ir [[#^s-7f56bcbbb2490c4ec27c1bde|6]] dalyse, siūlomo vartojimo kredito pagrindines ypatybes ir galimą jo konkretų poveikį vartojimo kredito gavėjui, taip pat pasekmes, jeigu vartojimo kredito gavėjas nevykdytų įsipareigojimų dėl mokėjimų. ^s-793ee1813f6b5b63a746f0e7
 
 
 
 ### 8 straipsnis. Informavimo pareiga prieš sudarant tam tikras vartojimo kredito sutartis ^s-31d4a91ce21d58d7e23d2dd3
 
 
-1. Kai sudaromos šio įstatymo [[#^s-7af9db919a510d2c996b76bb|3 straipsnio]] 4 ir [[#^s-d2292d4869974ace2b218f33|5 dalyse]] nurodytos vartojimo kredito sutartys, kiek tai susiję su šio įstatymo [[#^s-bd227325225438a1181448b7|7 straipsnio 1 dalimi]], ikisutartinė informacija turi būti aiški ir suprantama ir pateikiama gerai matomai šio įstatymo 2 priede nustatytoje standartinės informacijos apie tam tikras vartojimo kredito sutartis formoje raštu popieriuje arba kitoje vartojimo kredito gavėjo pasirinktoje patvariojoje laikmenoje. Laikoma, kad vartojimo kredito davėjas yra įvykdęs šioje dalyje ir [[latest/TAR.D790096B17EE#^s-bae534f72448564f7f20582d|Vartotojų teisių apsaugos įstatymo 37 straipsnyje]] nustatytus informacijos pateikimo reikalavimus, jeigu jis vartojimo kredito gavėjui yra pateikęs užpildytą šio įstatymo 2 priede nustatytą standartinės informacijos apie tam tikras vartojimo kredito sutartis formą. ^s-751772db1d01c5402c201271
+1. Kai sudaromos šio įstatymo [[#^s-7af9db919a510d2c996b76bb|3 straipsnio]] [[#^s-dc53d27f60ad629c7ca10608|4]] ir [[#^s-0295dab8c4c65d77b7f69d1d|5]] dalyse nurodytos vartojimo kredito sutartys, kiek tai susiję su šio įstatymo [[#^s-bd227325225438a1181448b7|7 straipsnio 1 dalimi]], ikisutartinė informacija turi būti aiški ir suprantama ir pateikiama gerai matomai šio įstatymo 2 priede nustatytoje standartinės informacijos apie tam tikras vartojimo kredito sutartis formoje raštu popieriuje arba kitoje vartojimo kredito gavėjo pasirinktoje patvariojoje laikmenoje. Laikoma, kad vartojimo kredito davėjas yra įvykdęs šioje dalyje ir [[latest/TAR.D790096B17EE#^s-bae534f72448564f7f20582d|Vartotojų teisių apsaugos įstatymo 37 straipsnyje]] nustatytus informacijos pateikimo reikalavimus, jeigu jis vartojimo kredito gavėjui yra pateikęs užpildytą šio įstatymo 2 priede nustatytą standartinės informacijos apie tam tikras vartojimo kredito sutartis formą. ^s-751772db1d01c5402c201271
 
 
 2. Šio įstatymo 2 priede nustatytos standartinės informacijos apie tam tikras vartojimo kredito sutartis formos pirmoje dalyje pirmame puslapyje gerai matomai turi būti nurodoma: ^s-377f52a0ed1ce79b25acdc23
@@ -666,7 +666,7 @@ INFORMAVIMAS PRIEŠ SUDARANT VARTOJIMO KREDITO SUTARTĮ
 ### 9 straipsnis. Išimtys dėl informacijos suteikimo prieš sudarant vartojimo kredito sutartis ^s-f1e5ce93c3026ed51432724f
 
 
-Šio įstatymo 7 ir [[#^s-31d4a91ce21d58d7e23d2dd3|8 straipsniai]] netaikomi prekių tiekėjams arba paslaugų teikėjams, kurie vartojimo kredito tarpininko funkcijas atlieka kaip papildomas funkcijas. Ši nuostata nepanaikina vartojimo kredito davėjo arba, jeigu taikoma, vartojimo kredito tarpininko pareigos užtikrinti, kad, prieš sudarydamas vartojimo kredito sutartį, vartojimo kredito gavėjas gautų šio įstatymo 7 ir [[#^s-31d4a91ce21d58d7e23d2dd3|8 straipsniuose]] nurodytą informaciją.
+Šio įstatymo [[#^s-cc6bed9c1164df592c722939|7]] ir [[#^s-31d4a91ce21d58d7e23d2dd3|8]] straipsniai netaikomi prekių tiekėjams arba paslaugų teikėjams, kurie vartojimo kredito tarpininko funkcijas atlieka kaip papildomas funkcijas. Ši nuostata nepanaikina vartojimo kredito davėjo arba, jeigu taikoma, vartojimo kredito tarpininko pareigos užtikrinti, kad, prieš sudarydamas vartojimo kredito sutartį, vartojimo kredito gavėjas gautų šio įstatymo [[#^s-cc6bed9c1164df592c722939|7]] ir [[#^s-31d4a91ce21d58d7e23d2dd3|8]] straipsniuose nurodytą informaciją.
 
 
 
@@ -676,7 +676,7 @@ INFORMAVIMAS PRIEŠ SUDARANT VARTOJIMO KREDITO SUTARTĮ
 Vartojimo kredito davėjas ir, jeigu taikoma, vartojimo kredito tarpininkas privalo vartojimo kredito gavėjui pateikti tinkamus paaiškinimus apie siūlomas vartojimo kredito sutarties sąlygas ir papildomas paslaugas, kad vartojimo kredito gavėjas galėtų įvertinti, ar siūloma vartojimo kredito sutartis ir papildomos paslaugos atitinka jo poreikius ir galimybes prisiimti konkretų finansinį įsipareigojimą. Tokie paaiškinimai turi būti pateikiami nemokamai prieš sudarant vartojimo kredito sutartį ir turi apimti:
 
 
-1) informacijos, nurodytos šio įstatymo [[#^s-cc6bed9c1164df592c722939|7 straipsnio]] 1–14 dalyse, 8 ir [[#^s-ccc281d21f2dd961bd23e0ac|47 straipsniuose]], turinio paaiškinimus; ^s-d284ce8fce3915e4a7756fdf
+1) informacijos, nurodytos šio įstatymo [[#^s-cc6bed9c1164df592c722939|7 straipsnio]] [[#^s-bd227325225438a1181448b7|1]]–[[#^s-8edcc55264ae707728017fd5|14]] dalyse, [[#^s-31d4a91ce21d58d7e23d2dd3|8]] ir [[#^s-ccc281d21f2dd961bd23e0ac|47]] straipsniuose, turinio paaiškinimus; ^s-d284ce8fce3915e4a7756fdf
 
 
 2) siūlomų vartojimo kredito sutarčių arba papildomų paslaugų esminių savybių paaiškinimus; ^s-b3bb2bee7ea420917bd8a6da
@@ -692,7 +692,7 @@ Vartojimo kredito davėjas ir, jeigu taikoma, vartojimo kredito tarpininkas priv
 ### 11 straipsnis. Remiantis automatizuotu asmens duomenų tvarkymu asmeniškai pritaikyti pasiūlymai ^s-e399cd2d7be658a2fc17627a
 
 
-Vartojimo kredito davėjai ir vartojimo kredito tarpininkai, nepažeisdami Reglamento (ES) 2016/679 nuostatų, privalo aiškiai ir suprantamai informuoti vartojimo kredito gavėjus, kai šiems pateikiami asmeniškai pritaikyti pasiūlymai, parengti remiantis automatizuotu asmens duomenų tvarkymu.
+Vartojimo kredito davėjai ir vartojimo kredito tarpininkai, nepažeisdami [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nuostatų, privalo aiškiai ir suprantamai informuoti vartojimo kredito gavėjus, kai šiems pateikiami asmeniškai pritaikyti pasiūlymai, parengti remiantis automatizuotu asmens duomenų tvarkymu.
 
 
 
@@ -710,10 +710,10 @@ SIEJIMAS IR GRUPAVIMAS, NUMANOMAS SUTIKIMAS, KONSULTACINĖS PASLAUGOS IR NEPAGEI
 1. Vartojimo kredito davėjas turi teisę taikyti grupavimą. ^s-6ce9894762577d613e7bfb2e
 
 
-2. Siejimas yra draudžiamas, išskyrus šio straipsnio 3 ir [[#^s-f5d919da8ef5afa68c05501b|4 dalyse]] nustatytas išimtis. ^s-36cdd454cac457ed3d338cb1
+2. Siejimas yra draudžiamas, išskyrus šio straipsnio [[#^s-75987124e7a7fd6088523e9c|3]] ir [[#^s-f5d919da8ef5afa68c05501b|4]] dalyse nustatytas išimtis. ^s-36cdd454cac457ed3d338cb1
 
 
-3. Vartojimo kredito davėjas turi teisę reikalauti, kad vartojimo kredito gavėjas, sudarydamas vartojimo kredito sutartį, turėtų riboto naudojimo mokėjimo sąskaitą, skirtą tik grąžinamoms vartojimo kredito lėšoms kaupti ir (arba) vartojimo kreditui administruoti. Tokia mokėjimo sąskaita atidaroma, tvarkoma, uždaroma ir su ja susijusios paslaugos, skirtos grąžinamoms vartojimo kredito lėšoms kaupti arba vartojimo kreditui administruoti, turi būti teikiamos nemokamai. ^s-75987124e7a7fd6088523e9c
+3. Vartojimo kredito davėjas turi teisę reikalauti, kad vartojimo kredito gavėjas, sudarydamas vartojimo kredito sutartį, turėtų [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7) mokėjimo sąskaitą, skirtą tik grąžinamoms vartojimo kredito lėšoms kaupti ir (arba) vartojimo kreditui administruoti. Tokia mokėjimo sąskaita atidaroma, tvarkoma, uždaroma ir su ja susijusios paslaugos, skirtos grąžinamoms vartojimo kredito lėšoms kaupti arba vartojimo kreditui administruoti, turi būti teikiamos nemokamai. ^s-75987124e7a7fd6088523e9c
 
 
 4. Vartojimo kredito davėjas, vadovaudamasis proporcingumo principu, turi teisę reikalauti, kad vartojimo kredito gavėjas, sudarydamas vartojimo kredito sutartį, sudarytų draudimo sutartį, susijusią su vartojimo kredito gavėjo įsipareigojimų pagal vartojimo kredito sutartį įvykdymo užtikrinimu, arba kilnojamojo turto (daikto), susijusio su vartojimo kredito sutartimi, draudimo sutartį (toliau kartu – su vartojimo kredito sutartimi susijusi draudimo sutartis). Šiuo atveju vartojimo kredito gavėjas turi teisę sudaryti draudimo sutartį su kita negu vartojimo kredito davėjo pasiūlyta draudimo įmone, jeigu ta draudimo sutartimi suteikiama apsauga yra lygiavertė draudimo apsaugai, kurią, nekeičiant vartojimo kredito gavėjui siūlomos vartojimo kredito sutarties sąlygų, suteiktų vartojimo kredito davėjo pasiūlytos draudimo įmonės draudimo sutartis. ^s-f5d919da8ef5afa68c05501b
@@ -766,7 +766,7 @@ SIEJIMAS IR GRUPAVIMAS, NUMANOMAS SUTIKIMAS, KONSULTACINĖS PASLAUGOS IR NEPAGEI
 3) išanalizuoti pakankamai savo siūlomų vartojimo kredito produktų sutarčių ir rekomenduoti tinkamą vieną ar kelias vartojimo kredito sutartis atsižvelgdamas į vartojimo kredito gavėjo finansinę padėtį, pageidavimus ir tikslus; ^s-b3e8a3862d3ea65a48d852ee
 
 
-4) rinkdamas informaciją apie vartojimo kredito gavėjo finansinę padėtį, pageidavimus ir tikslus ir rekomenduodamas tinkamas vartojimo kredito sutartis pagal šios dalies 1–[[#^s-b3e8a3862d3ea65a48d852ee|3 punktus]], turi veikti geriausiais vartojimo kredito gavėjo interesais; ^s-9e44c719b88b1ebaa8bb9368
+4) rinkdamas informaciją apie vartojimo kredito gavėjo finansinę padėtį, pageidavimus ir tikslus ir rekomenduodamas tinkamas vartojimo kredito sutartis pagal šios dalies [[#^s-dc1acac27104f5986de0b3a0|1]]–[[#^s-b3e8a3862d3ea65a48d852ee|3]] punktus, turi veikti geriausiais vartojimo kredito gavėjo interesais; ^s-9e44c719b88b1ebaa8bb9368
 
 
 5) pateikti asmeninę rekomendaciją vartojimo kredito gavėjui raštu popieriuje arba kitoje vartojimo kredito gavėjo pasirinktoje ir konsultacinių paslaugų teikimo sutartyje nurodytoje patvariojoje laikmenoje. ^s-05d048129a85d78045b8b590
@@ -827,7 +827,7 @@ VARTOJIMO KREDITO GAVĖJO KREDITINGUMO VERTINIMAS
 4) vartojimo kredito gavėjo kreditingumo vertinimas, remiantis tuo metu turima informacija, turi būti pagrįstas prielaida, kad vartojimo kredito gavėjas galės vykdyti prisiimtus finansinius įsipareigojimus visą vartojimo kredito sutarties laikotarpį. ^s-4bfca5f75cc61fb688e19827
 
 
-3. Vartojimo kredito gavėjo kreditingumas vertinamas remiantis pakankama, aktualia, tikslia informacija apie vartojimo kredito gavėjo pajamas, išlaidas ir kitas finansines bei ekonomines aplinkybes, kuri yra būtina ir proporcinga atsižvelgiant į vartojimo kredito rūšį, vartojimo kredito sutarties galiojimo laikotarpį, bendrą vartojimo kredito sumą ir vartojimo kredito gavėjui kylančią kredito riziką. Vartojimo kredito davėjas vartojimo kredito gavėjo kreditingumui įvertinti būtiną informaciją turi surinkti iš registrų ir informacinių sistemų, kitų šaltinių, įskaitant vartojimo kredito gavėją. Vartojimo kredito davėjas privalo patikrinti vartojimo kredito gavėjo pateiktą informaciją, atlikdamas patikrinimą registruose ir informacinėse sistemose arba remdamasis pateiktą informaciją pagrindžiančiais dokumentais ar kitais įrodymais. Vartojimo kredito gavėjo kreditingumo vertinimo tikslais nerenkami ir nevertinami Reglamento (ES) 2016/679 9 straipsnio 1 dalyje nurodyti specialių kategorijų asmens duomenys ir socialiniuose tinkluose pateikiama informacija apie vartojimo kredito gavėją. ^s-0b97c2bef9de24f1ad6e69e0
+3. Vartojimo kredito gavėjo kreditingumas vertinamas remiantis pakankama, aktualia, tikslia informacija apie vartojimo kredito gavėjo pajamas, išlaidas ir kitas finansines bei ekonomines aplinkybes, kuri yra būtina ir proporcinga atsižvelgiant į vartojimo kredito rūšį, vartojimo kredito sutarties galiojimo laikotarpį, bendrą vartojimo kredito sumą ir vartojimo kredito gavėjui kylančią kredito riziką. Vartojimo kredito davėjas vartojimo kredito gavėjo kreditingumui įvertinti būtiną informaciją turi surinkti iš registrų ir informacinių sistemų, kitų šaltinių, įskaitant vartojimo kredito gavėją. Vartojimo kredito davėjas privalo patikrinti vartojimo kredito gavėjo pateiktą informaciją, atlikdamas patikrinimą registruose ir informacinėse sistemose arba remdamasis pateiktą informaciją pagrindžiančiais dokumentais ar kitais įrodymais. Vartojimo kredito gavėjo kreditingumo vertinimo tikslais nerenkami ir nevertinami [Reglamento (ES) 2016/679 9 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_9/par_1/oj) nurodyti specialių kategorijų asmens duomenys ir socialiniuose tinkluose pateikiama informacija apie vartojimo kredito gavėją. ^s-0b97c2bef9de24f1ad6e69e0
 
 
 4. Vartojimo kredito gavėjas privalo pateikti vartojimo kredito davėjo prašomą teisingą ir išsamią informaciją, būtiną vartojimo kredito gavėjo kreditingumui įvertinti. ^s-74d466c809ca79319c310487
@@ -836,7 +836,7 @@ VARTOJIMO KREDITO GAVĖJO KREDITINGUMO VERTINIMAS
 5. Vartojimo kredito tarpininkas vartojimo kredito davėjui pateikia iš vartojimo kredito gavėjo gautą informaciją, būtiną vartojimo kredito gavėjo kreditingumui įvertinti. ^s-36bb36a86350435d4d1ffee2
 
 
-6. Vartojimo kredito gavėjo asmens duomenys kreditingumo vertinimo tikslais tvarkomi vadovaujantis Reglamentu (ES) 2016/679, [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir kitais teisės aktais, reglamentuojančiais asmens duomenų tvarkymą. ^s-62c6de452f1dca5906a1336b
+6. Vartojimo kredito gavėjo asmens duomenys kreditingumo vertinimo tikslais tvarkomi vadovaujantis [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir kitais teisės aktais, reglamentuojančiais asmens duomenų tvarkymą. ^s-62c6de452f1dca5906a1336b
 
 
 7. Vartojimo kredito davėjas, vadovaudamasis atsakingojo skolinimo principais ir pagal [[#^s-95d81b8a057b73be9b3795da|šio straipsnio 17 dalį]] priimtu priežiūros institucijos teisės aktu, privalo patvirtinti vartojimo kredito gavėjų kreditingumo vertinimo ir atsakingojo skolinimo taisykles, kuriose būtų nustatytos vartojimo kredito gavėjų kreditingumo vertinimo procedūros ir nurodyta informacija, kuria remiantis vertinamas kreditingumas, ir jų laikytis vykdydamas vartojimo kreditų teikimo veiklą. ^s-8077ceb0c5f8d3848ac121b5
@@ -894,7 +894,7 @@ VARTOJIMO KREDITO GAVĖJO KREDITINGUMO VERTINIMAS
 3. [[#^s-57cc5fd357e55f154e17f76f|Šio straipsnio 1 dalyje]] nurodytuose registruose ir informacinėse sistemose, kuriuose laikoma informacija apie vartojimo kredito sutartis, turi būti saugomi duomenys apie vartojimo kredito gavėjų pradelstus mokėjimus, kredito rūšį ir vartojimo kredito davėjo tapatybę – vartojimo kredito davėjo pavadinimą ir juridinio asmens kodą. ^s-66714291f986e356c9449a19
 
 
-4. Vartojimo kredito davėjai ir vartojimo kredito tarpininkai netvarko Reglamento (ES) 2016/679 9 straipsnio 1 dalyje nurodytų specialių kategorijų asmens duomenų ir socialiniuose tinkluose pateikiamų asmens duomenų, kurie gali būti laikomi [[#^s-57cc5fd357e55f154e17f76f|šio straipsnio 1 dalyje]] nurodytuose registruose ir informacinėse sistemose. ^s-1dad9ce4a65e5f45dfcdb5e4
+4. Vartojimo kredito davėjai ir vartojimo kredito tarpininkai netvarko [Reglamento (ES) 2016/679 9 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_9/par_1/oj) nurodytų specialių kategorijų asmens duomenų ir socialiniuose tinkluose pateikiamų asmens duomenų, kurie gali būti laikomi [[#^s-57cc5fd357e55f154e17f76f|šio straipsnio 1 dalyje]] nurodytuose registruose ir informacinėse sistemose. ^s-1dad9ce4a65e5f45dfcdb5e4
 
 
 5. Registrų ir informacinių sistemų valdytojai turi įdiegti procesus, kuriais užtikrinamas registruose ir informacinėse sistemose esančios informacijos apie vartojimo kredito sutartis tikslumas ir atnaujinimas. ^s-567cfb6ca1c7761c674fbe47
@@ -906,10 +906,10 @@ VARTOJIMO KREDITO GAVĖJO KREDITINGUMO VERTINIMAS
 1) bet kokių vartojimo kredito pradelstų įmokų mokėjimų įregistravimą registruose ir informacinėse sistemose, išskyrus [[#^s-d4c5f725a9fb8093e57932d5|šio straipsnio 7 dalyje]] nurodytą atvejį, kai pradelstų įmokų mokėjimai įregistruojami Lietuvos banko tvarkomoje Paskolų rizikos duomenų bazėje, per 30 dienų nuo jų įregistravimo dienos; ^s-2e3ec61bd0e0c08d92136b3a
 
 
-2) jų teises pagal Reglamentą (ES) 2016/679. ^s-7adf61eb8a8d2893a73a2462
+2) jų teises pagal [Reglamentą (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj). ^s-7adf61eb8a8d2893a73a2462
 
 
-7. Vartojimo kredito davėjai privalo informuoti per [[#^s-2e3ec61bd0e0c08d92136b3a|šio straipsnio 6 dalies 1 punkte]] nustatytą terminą vartojimo kredito gavėjus apie Lietuvos banko tvarkomoje Paskolų rizikos duomenų bazėje įregistruotus vartojimo kredito pradelstų įmokų mokėjimus, kai mokėjimai pradelsti ilgiau kaip 30 kalendorinių dienų, ir jų teises pagal Reglamentą (ES) 2016/679. ^s-d4c5f725a9fb8093e57932d5
+7. Vartojimo kredito davėjai privalo informuoti per [[#^s-2e3ec61bd0e0c08d92136b3a|šio straipsnio 6 dalies 1 punkte]] nustatytą terminą vartojimo kredito gavėjus apie Lietuvos banko tvarkomoje Paskolų rizikos duomenų bazėje įregistruotus vartojimo kredito pradelstų įmokų mokėjimus, kai mokėjimai pradelsti ilgiau kaip 30 kalendorinių dienų, ir jų teises pagal [Reglamentą (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj). ^s-d4c5f725a9fb8093e57932d5
 
 
 
@@ -997,10 +997,10 @@ b) su vartojimo kredito sutarties sąlygų pakeitimais susijusią informaciją p
 c) su vartojimo kredito palūkanų normos pokyčiu susijusią informaciją pagal šio įstatymo [[#^s-2621e5122ec6d1ead3a9367e|21 straipsnio 1 dalį]];
 
 
-d) šio įstatymo [[#^s-ea2a9008bc53f127aa8c5770|23 straipsnio]] 1–[[#^s-b4cd7bf7b5a0f6eabc1459e9|3 dalyse]] nurodytą informaciją;
+d) šio įstatymo [[#^s-ea2a9008bc53f127aa8c5770|23 straipsnio]] [[#^s-cdb9482650f02b2a356de88f|1]]–[[#^s-29946ef010ad87527f50e871|3]] dalyse nurodytą informaciją;
 
 
-e) su teise nutraukti neterminuotą vartojimo kredito sutartį susijusią informaciją pagal šio įstatymo [[#^s-533fa5c2803c5f39baebd3b3|24 straipsnio]] 2 ir [[#^s-b4cd7bf7b5a0f6eabc1459e9|3 dalis]];
+e) su teise nutraukti neterminuotą vartojimo kredito sutartį susijusią informaciją pagal šio įstatymo [[#^s-533fa5c2803c5f39baebd3b3|24 straipsnio]] [[#^s-45fef0a8bff07e7e6364e7f4|2]] ir [[#^s-09a2764d192a9d2c7e3f7d2c|3]] dalis;
 
 
 18) šio įstatymo [[#^s-283a01a80ce134c5034fa695|27 straipsnyje]] nustatytos teisės ir naudojimosi tomis teisėmis sąlygos; ^s-f60dea018a911c692ea4ebea
@@ -1191,7 +1191,7 @@ Vartojimo kredito davėjų, vartojimo kredito tarpininkų ir tarpusavio skolinim
 6. Jeigu vartojimo kredito gavėjas pagal šį straipsnį pasinaudoja teise atsisakyti vartojimo kredito sutarties, be jokių papildomų įsipareigojimų nutrūksta ir su vartojimo kredito sutartimi susijusi papildomų paslaugų, kurias teikia vartojimo kredito davėjas arba papildomos paslaugos teikėjas pagal savo ir vartojimo kredito davėjo sutartį, teikimo sutartis. ^s-e22c1beca3fd6aac7fe40c32
 
 
-7. Kai vartojimo kredito gavėjas atsisako vartojimo kredito sutarties pagal šio straipsnio 1, 2, 5 ir [[#^s-e22c1beca3fd6aac7fe40c32|6 dalis]], netaikomos [[latest/TAR.D790096B17EE|Vartotojų teisių apsaugos įstatymo]] nuostatos dėl vartotojo teisės atsisakyti nuotolinės finansinių paslaugų sutarties. ^s-28f735a0e992d60d8cf39c68
+7. Kai vartojimo kredito gavėjas atsisako vartojimo kredito sutarties pagal šio straipsnio [[#^s-998742912f916c25bc8bee5f|1]], [[#^s-0cb217b3f5c1148b879723a9|2]], [[#^s-ef47ed85f031551921ca06b5|5]] ir [[#^s-e22c1beca3fd6aac7fe40c32|6]] dalis, netaikomos [[latest/TAR.D790096B17EE|Vartotojų teisių apsaugos įstatymo]] nuostatos dėl vartotojo teisės atsisakyti nuotolinės finansinių paslaugų sutarties. ^s-28f735a0e992d60d8cf39c68
 
 
 8. Atsisakius vartojimo kredito sutarties, prekių pirkimo–pardavimo sutartis gali būti nutraukiama kitų teisės aktų, reglamentuojančių prekių pirkimo–pardavimo sutarčių sąlygas, nustatyta tvarka. ^s-afda758cd7fd4f63ffeb55cc
@@ -1425,7 +1425,7 @@ Vartojimo kredito davėjų, vartojimo kredito tarpininkų ir tarpusavio skolinim
 4. Asmeniui, įrašytam į Sąrašą, neleidžiama sudaryti vartojimo kredito sutarčių jo prašyme nurodytą laikotarpį. Jeigu asmens prašyme neleisti jam sudaryti vartojimo kredito sutarčių nenurodytas terminas, per kurį jam nebūtų leidžiama sudaryti minėtų sutarčių, laikoma, kad šis terminas yra 2 metai nuo asmens įrašymo į Sąrašą dienos. ^s-85a58fe02f3d667b3d2acbd2
 
 
-5. Asmeniui, piktnaudžiaujančiam teise sudaryti vartojimo kredito sutartis, teismas įstatymų nustatyta tvarka gali uždrausti sudaryti vartojimo kredito sutartis. Prašymą uždrausti asmeniui sudaryti vartojimo kredito sutartis arba prašymą panaikinti draudimą sudaryti vartojimo kredito sutartis turi teisę teismui pateikti asmens sutuoktinis, tėvai, pilnamečiai vaikai, globos (rūpybos) institucija arba prokuroras. Kreiptis į teismą dėl draudimo sudaryti vartojimo kredito sutartis panaikinimo turi teisę taip pat ir asmuo, kuriam buvo uždrausta sudaryti vartojimo kredito sutartis. Prašymai uždrausti asmeniui, piktnaudžiaujančiam šia teise, sudaryti vartojimo kredito sutartis arba prašymai panaikinti draudimą sudaryti vartojimo kredito sutartis mutatis mutandis nagrinėjami Lietuvos Respublikos civilinio proceso kodekso V dalies XXVIII skyriuje nustatyta tvarka. Teismas per 3 darbo dienas nuo teismo sprendimo uždrausti asmeniui, piktnaudžiaujančiam šia teise, sudaryti vartojimo kredito sutartis arba panaikinti draudimą sudaryti vartojimo kredito sutartis įsiteisėjimo dienos privalo išsiųsti sprendimo kopiją priežiūros institucijai. Priežiūros institucija gauto teismo sprendimo pagrindu asmenis įrašo į Sąrašą teismo sprendime nurodytam laikotarpiui arba išbraukia iš jo. ^s-af02cabed3bc9e1634d881b7
+5. Asmeniui, piktnaudžiaujančiam teise sudaryti vartojimo kredito sutartis, teismas įstatymų nustatyta tvarka gali uždrausti sudaryti vartojimo kredito sutartis. Prašymą uždrausti asmeniui sudaryti vartojimo kredito sutartis arba prašymą panaikinti draudimą sudaryti vartojimo kredito sutartis turi teisę teismui pateikti asmens sutuoktinis, tėvai, pilnamečiai vaikai, globos (rūpybos) institucija arba prokuroras. Kreiptis į teismą dėl draudimo sudaryti vartojimo kredito sutartis panaikinimo turi teisę taip pat ir asmuo, kuriam buvo uždrausta sudaryti vartojimo kredito sutartis. Prašymai uždrausti asmeniui, piktnaudžiaujančiam šia teise, sudaryti vartojimo kredito sutartis arba prašymai panaikinti draudimą sudaryti vartojimo kredito sutartis mutatis mutandis nagrinėjami [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) V dalies XXVIII skyriuje nustatyta tvarka. Teismas per 3 darbo dienas nuo teismo sprendimo uždrausti asmeniui, piktnaudžiaujančiam šia teise, sudaryti vartojimo kredito sutartis arba panaikinti draudimą sudaryti vartojimo kredito sutartis įsiteisėjimo dienos privalo išsiųsti sprendimo kopiją priežiūros institucijai. Priežiūros institucija gauto teismo sprendimo pagrindu asmenis įrašo į Sąrašą teismo sprendime nurodytam laikotarpiui arba išbraukia iš jo. ^s-af02cabed3bc9e1634d881b7
 
 
 6. Vartojimo kredito davėjams ir vartojimo kredito tarpininkams draudžiama sudaryti vartojimo kredito sutartį su įrašytu į Sąrašą asmeniu. Patikra, ar asmuo yra įrašytas į Sąrašą, atliekama sprendimo dėl vartojimo kredito suteikimo priėmimo momentu. Vartojimo kredito sutartis, sudaryta su į Sąrašą įrašytu asmeniu, laikoma negaliojančia. ^s-3346e42ab8df445cb62392c4
@@ -1502,7 +1502,7 @@ VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIM
 1. Teisę verstis vartojimo kreditų teikimo veikla asmuo turi tik tada, kai priežiūros institucija įrašo jį į viešąjį vartojimo kredito davėjų sąrašą. ^s-24ef7a35f081477f6df09fb7
 
 
-2. Asmuo, išskyrus šio straipsnio 6–[[#^s-6039ab31ffca2271802de054|8 dalyse]] nurodytus asmenis, gali būti įrašomas į viešąjį vartojimo kredito davėjų sąrašą, jeigu jis atitinka šiame įstatyme nustatytus vartojimo kredito davėjams taikomus reikalavimus ir priežiūros institucijai pateikia šioje dalyje nurodytus dokumentus, duomenis ir (arba) informaciją: ^s-3bf2d647261f9e7d96d5b837
+2. Asmuo, išskyrus šio straipsnio [[#^s-8328868984f21974e7176f19|6]]–[[#^s-6039ab31ffca2271802de054|8]] dalyse nurodytus asmenis, gali būti įrašomas į viešąjį vartojimo kredito davėjų sąrašą, jeigu jis atitinka šiame įstatyme nustatytus vartojimo kredito davėjams taikomus reikalavimus ir priežiūros institucijai pateikia šioje dalyje nurodytus dokumentus, duomenis ir (arba) informaciją: ^s-3bf2d647261f9e7d96d5b837
 
 
 1) prašymą įrašyti jį į viešąjį vartojimo kredito davėjų sąrašą; ^s-68b092d4ceea078e501f769d
@@ -1511,7 +1511,7 @@ VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIM
 2) informaciją apie registrą, kuriame priežiūros institucija gali patikrinti asmens pagrindinius duomenis (juridinio asmens pavadinimą, juridinio asmens kodą, teisinę formą, teisinį statusą, buveinės adresą, įregistravimo datą, vadovų tapatybės duomenis (vardą ir pavardę)). Priežiūros institucija prireikus turi teisę prašyti pateikti išplėstinį registro išrašą; ^s-3d8abe7f9e9177fb844fe4c7
 
 
-3) informaciją apie šio įstatymo [[#^s-c3d5d5c0b38cfb008b2fe24c|41 straipsnio]] 1 ir [[#^s-7a48e15bc93af2089e0c35ca|4 dalyse]] nurodytus asmenis, dokumentus ir duomenis, kuriais patvirtinama, kad šie asmenys atitinka šio įstatymo [[#^s-c3d5d5c0b38cfb008b2fe24c|41 straipsnio]] 1, 4 ir [[#^s-8328868984f21974e7176f19|6 dalyse]] nurodytus reikalavimus; ^s-f3e015c96a07f484d397eb63
+3) informaciją apie šio įstatymo [[#^s-c3d5d5c0b38cfb008b2fe24c|41 straipsnio]] [[#^s-5de764ab4a8d5b09d9f2e458|1]] ir [[#^s-dcbb933e682c2277296f774e|4]] dalyse nurodytus asmenis, dokumentus ir duomenis, kuriais patvirtinama, kad šie asmenys atitinka šio įstatymo [[#^s-c3d5d5c0b38cfb008b2fe24c|41 straipsnio]] [[#^s-5de764ab4a8d5b09d9f2e458|1]], [[#^s-dcbb933e682c2277296f774e|4]] ir [[#^s-cda47195c793e2ccfb61c75c|6]] dalyse nurodytus reikalavimus; ^s-f3e015c96a07f484d397eb63
 
 
 4) savo patvirtintas vartojimo kredito gavėjų kreditingumo vertinimo ir atsakingojo skolinimo taisykles pagal šio įstatymo [[#^s-61dfeb0208dee1092199c029|16 straipsnį]]. ^s-3233d46929f58f73c164ba0f
@@ -1566,10 +1566,10 @@ VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIM
 3) jeigu vartojimo kredito davėjui yra iškelta bankroto byla arba pradėtas bankroto procesas ne teismo tvarka, jis likviduojamas ar pasibaigia kitais įstatymų nustatytais pagrindais; ^s-38d49979f0ffb5e1dfa164d0
 
 
-4) jeigu vartojimo kredito davėjui taikoma šio įstatymo [[#^s-ab9a59d10242a3cd04dbe09f|59 straipsnio 5 punkte]] nustatyta poveikio priemonė; ^s-da8845d965a005f6493ca5e4
+4) jeigu vartojimo kredito davėjui taikoma šio įstatymo 59 straipsnio 5 punkte nustatyta poveikio priemonė; ^s-da8845d965a005f6493ca5e4
 
 
-5) šio straipsnio 6–[[#^s-e305180519c3a2c63696be21|8 dalyse]] nurodytais atvejais. ^s-a5c77eeee174942b98f0ab86
+5) šio straipsnio [[#^s-260bb808e0f6ca77226734f2|6]]–[[#^s-e305180519c3a2c63696be21|8]] dalyse nurodytais atvejais. ^s-a5c77eeee174942b98f0ab86
 
 
 2. Vartojimo kredito davėjas turi teisę kreiptis į priežiūros instituciją dėl jo išbraukimo iš viešojo vartojimo kredito davėjų sąrašo ir privalo pateikti: ^s-d8da442f0e93bb3d8dc32a93
@@ -1624,7 +1624,7 @@ VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIM
 2. Taikant [[#^s-5de764ab4a8d5b09d9f2e458|šio straipsnio 1 dalies]] nuostatas, šiurkščiu įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, reikalavimo pažeidimu laikomi veiksmai, kuriais pažeidžiamos įstatymo ar kito teisės akto, reglamentuojančio finansinių paslaugų teikimą arba finansų įstaigų veiklą, nuostatos ir dėl kurių už pažeidimą atsakingas asmuo savo ar kitų asmenų naudai išvengė didelės turtinės žalos arba gavo didelę turtinę naudą, arba padarė didelę turtinę žalą kitiems asmenims, arba kilo grėsmė finansų rinkos stabilumui ir patikimumui. Turtinė žala ir turtinė nauda yra didelė, kai kiekvienos jų vertė viršija 250 Lietuvos Respublikos Vyriausybės tvirtinamų bazinių bausmių ir nuobaudų dydžių sumą. ^s-9c031f8e87ac0774ab0d6ed7
 
 
-3. Šio straipsnio 1 ir [[#^s-70839bcfd274a0e9fc23d036|5 dalyse]] nurodytais kartu veikiančiais asmenimis laikomi 2 arba daugiau asmenų, kurie, remdamiesi aiškiai sudarytu ar numanomu žodiniu arba rašytiniu susitarimu, įgyvendina arba siekia įgyvendinti savo teises, turimas pagal šio straipsnio 1 ir [[#^s-70839bcfd274a0e9fc23d036|5 dalyse]] nurodytą vartojimo kredito davėjo įstatinio kapitalo ir (arba) balsavimo teisių dalį. ^s-75502676e969e9bf921577b1
+3. Šio straipsnio [[#^s-5de764ab4a8d5b09d9f2e458|1]] ir [[#^s-70839bcfd274a0e9fc23d036|5]] dalyse nurodytais kartu veikiančiais asmenimis laikomi 2 arba daugiau asmenų, kurie, remdamiesi aiškiai sudarytu ar numanomu žodiniu arba rašytiniu susitarimu, įgyvendina arba siekia įgyvendinti savo teises, turimas pagal šio straipsnio [[#^s-5de764ab4a8d5b09d9f2e458|1]] ir [[#^s-70839bcfd274a0e9fc23d036|5]] dalyse nurodytą vartojimo kredito davėjo įstatinio kapitalo ir (arba) balsavimo teisių dalį. ^s-75502676e969e9bf921577b1
 
 
 4. Jeigu vartojimo kredito davėjo įstatinio kapitalo ir (arba) balsavimo teisių dalį, lygią 20 procentų arba juos viršijančią, arba dalį, leidžiančią daryti tiesioginį ir (arba) netiesioginį lemiamą poveikį vartojimo kredito davėjo veiklai, turi juridinis asmuo, šio juridinio asmens organų, išskyrus dalyvių susirinkimą, nariu negali būti asmuo, atitinkantis bent vieną iš [[#^s-5de764ab4a8d5b09d9f2e458|šio straipsnio 1 dalyje]] nurodytų sąlygų. ^s-dcbb933e682c2277296f774e
@@ -1636,10 +1636,10 @@ VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIM
 6. Naujai paskirtas arba išrinktas vartojimo kredito davėjo ir vartojimo kredito tarpininko vadovas turi turėti kvalifikaciją ir patirtį, užtikrinančias šiame įstatyme nustatytų pareigų vykdymą. Vartojimo kredito davėjo ir vartojimo kredito tarpininko vadovo kvalifikacija ir patirtis vertinamos atsižvelgiant į asmens išsilavinimo lygį ir pobūdį, kvalifikacijos tobulinimą, profesinės veiklos ar darbo patirties pobūdį ir trukmę bei kitus veiksnius, kurie gali turėti įtakos asmens kvalifikacijai ir patirčiai. Vartojimo kredito davėjo ir vartojimo kredito tarpininko vadovo kvalifikacijos ir patirties reikalavimai vertinami priežiūros institucijos teisės aktų nustatyta tvarka. ^s-cda47195c793e2ccfb61c75c
 
 
-7. Vartojimo kredito davėjo vardu veikiančio vartojimo kredito tarpininko vadovas gali pradėti eiti pareigas, jeigu atitinka šio straipsnio 1 ir [[#^s-cda47195c793e2ccfb61c75c|6 dalyse]] nustatytus reikalavimus. ^s-f9e10abc4ab7a589b0ac0ef2
+7. Vartojimo kredito davėjo vardu veikiančio vartojimo kredito tarpininko vadovas gali pradėti eiti pareigas, jeigu atitinka šio straipsnio [[#^s-5de764ab4a8d5b09d9f2e458|1]] ir [[#^s-cda47195c793e2ccfb61c75c|6]] dalyse nustatytus reikalavimus. ^s-f9e10abc4ab7a589b0ac0ef2
 
 
-8. Naujai paskirtas arba išrinktas vartojimo kredito davėjo ar nepriklausomo vartojimo kredito tarpininko vadovas gali pradėti eiti pareigas, jeigu atitinka šio straipsnio 1 ir [[#^s-cda47195c793e2ccfb61c75c|6 dalyse]] nustatytus reikalavimus ir tik kai priežiūros institucija pritaria jo kandidatūrai. ^s-ec6371c452f841bde412668e
+8. Naujai paskirtas arba išrinktas vartojimo kredito davėjo ar nepriklausomo vartojimo kredito tarpininko vadovas gali pradėti eiti pareigas, jeigu atitinka šio straipsnio [[#^s-5de764ab4a8d5b09d9f2e458|1]] ir [[#^s-cda47195c793e2ccfb61c75c|6]] dalyse nustatytus reikalavimus ir tik kai priežiūros institucija pritaria jo kandidatūrai. ^s-ec6371c452f841bde412668e
 
 
 9. Priežiūros institucija privalo priimti sprendimą pritarti arba atsisakyti pritarti vartojimo kredito davėjo arba nepriklausomo vartojimo kredito tarpininko vadovo kandidatūrai arba vartojimo kredito davėjo įstatinio kapitalo ir (arba) balsavimo teisių dalies įsigijimo sandoriui per 30 darbo dienų nuo informacijos pateikimo ir visų reikalingų dokumentų, duomenų ir (arba) informacijos gavimo dienos. Jeigu pateikti ne visi sprendimui priimti reikalingi dokumentai, duomenys ir (arba) informacija ar pateikti dokumentai, duomenys ir (arba) informacija yra neišsamūs ir netikslūs, priežiūros institucija paprašo per jos nustatytą terminą pateikti trūkstamus ar patikslintus dokumentus, duomenis ir (arba) informaciją, reikalingus sprendimui priimti. Tokiu atveju priežiūros institucija sprendimą pritarti arba atsisakyti pritarti vartojimo kredito davėjo ar nepriklausomo vartojimo kredito tarpininko vadovo kandidatūrai arba įsigijimo sandoriui priima ne vėliau kaip per 30 darbo dienų nuo trūkstamų ar patikslintų dokumentų, duomenų ir (arba) informacijos gavimo dienos. ^s-3d6abb9af4a20d8c55559bb5
@@ -1648,19 +1648,19 @@ VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIM
 10. Priežiūros institucija atsisako pritarti vartojimo kredito davėjo vadovo kandidatūrai arba įsigijimo sandoriui ar nepriklausomo vartojimo kredito tarpininko vadovo kandidatūrai, jeigu asmuo: ^s-08f3dcf264f726de5d97d6f3
 
 
-1) neatitinka [[#^s-5de764ab4a8d5b09d9f2e458|šio straipsnio 1 dalyje]] ir, jeigu taikoma, 4 ar [[#^s-cda47195c793e2ccfb61c75c|6 dalyje]] nustatytų reikalavimų; ^s-ace556d7de079b3303e5f223
+1) neatitinka [[#^s-5de764ab4a8d5b09d9f2e458|šio straipsnio 1 dalyje]] ir, jeigu taikoma, [[#^s-dcbb933e682c2277296f774e|4]] ar [[#^s-cda47195c793e2ccfb61c75c|6]] dalyje nustatytų reikalavimų; ^s-ace556d7de079b3303e5f223
 
 
 2) priežiūros institucijai paprašius pateikti trūkstamus ar patikslintus dokumentus, duomenis ir (arba) informaciją, reikalingus sprendimui priimti, per jos nustatytą terminą jų nepateikia ar pateikia neteisingus dokumentus, duomenis ir (arba) informaciją. ^s-15c647d27c4f150a40c422b4
 
 
-11. Vartojimo kredito davėjas ir nepriklausomas vartojimo kredito tarpininkas privalo priežiūros institucijai pranešti apie būsimą vadovo pasikeitimą, išskyrus [[#^s-b1711a04677a5c5054cc9307|šio straipsnio 12 dalyje]] nurodytus atvejus, kai pranešimas nėra reikalingas, ir pateikti informaciją, reikalingą įvertinti, ar naujai skiriamas arba planuojamas rinkti vadovas atitinka šio straipsnio 1 ir [[#^s-cda47195c793e2ccfb61c75c|6 dalyse]] nustatytus reikalavimus. ^s-968196ea49e37e7c5fd3ea8b
+11. Vartojimo kredito davėjas ir nepriklausomas vartojimo kredito tarpininkas privalo priežiūros institucijai pranešti apie būsimą vadovo pasikeitimą, išskyrus [[#^s-b1711a04677a5c5054cc9307|šio straipsnio 12 dalyje]] nurodytus atvejus, kai pranešimas nėra reikalingas, ir pateikti informaciją, reikalingą įvertinti, ar naujai skiriamas arba planuojamas rinkti vadovas atitinka šio straipsnio [[#^s-5de764ab4a8d5b09d9f2e458|1]] ir [[#^s-cda47195c793e2ccfb61c75c|6]] dalyse nustatytus reikalavimus. ^s-968196ea49e37e7c5fd3ea8b
 
 
 12. Laikoma, kad priežiūros institucija pritaria naujai skiriamo arba planuojamo rinkti vartojimo kredito davėjo ir nepriklausomo vartojimo kredito tarpininko vadovo kandidatūrai, jeigu: ^s-b1711a04677a5c5054cc9307
 
 
-1) asmuo skiriamas arba renkamas į naujas pareigas tame pačiame vartojimo kredito davėjuje ar nepriklausomame vartojimo kredito tarpininke, kuriame jo kandidatūra jau buvo įvertinta priežiūros institucijos ir jai pritarta, arba pakartotinai skiriamas arba renkamas į tas pačias pareigas tame pačiame vartojimo kredito davėjuje ar nepriklausomame vartojimo kredito tarpininke ir paskyrimo arba išrinkimo į naujas ar tas pačias pareigas metu atitinka šio straipsnio 1 ir [[#^s-cda47195c793e2ccfb61c75c|6 dalyse]] nustatytus reikalavimus; ^s-5bb4e838395006f33ce447e9
+1) asmuo skiriamas arba renkamas į naujas pareigas tame pačiame vartojimo kredito davėjuje ar nepriklausomame vartojimo kredito tarpininke, kuriame jo kandidatūra jau buvo įvertinta priežiūros institucijos ir jai pritarta, arba pakartotinai skiriamas arba renkamas į tas pačias pareigas tame pačiame vartojimo kredito davėjuje ar nepriklausomame vartojimo kredito tarpininke ir paskyrimo arba išrinkimo į naujas ar tas pačias pareigas metu atitinka šio straipsnio [[#^s-5de764ab4a8d5b09d9f2e458|1]] ir [[#^s-cda47195c793e2ccfb61c75c|6]] dalyse nustatytus reikalavimus; ^s-5bb4e838395006f33ce447e9
 
 
 2) asmuo skiriamas arba renkamas tuo atveju, kai saugiai ir patikimai vartojimo kredito davėjo ar nepriklausomo vartojimo kredito tarpininko veiklai užtikrinti būtina nedelsiant paskirti arba išrinkti jo vadovą ir dėl to vartojimo kredito davėjas ar nepriklausomas vartojimo kredito tarpininkas negali iš anksto pranešti priežiūros institucijai apie numatomą vadovo pasikeitimą. ^s-79022926fbccb74269ac1f28
@@ -1669,16 +1669,16 @@ VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIM
 13. Vartojimo kredito davėjas ir nepriklausomas vartojimo kredito tarpininkas, [[#^s-b1711a04677a5c5054cc9307|šio straipsnio 12 dalyje]] nurodytais atvejais paskyręs arba išrinkęs vadovą, apie tai turi pranešti priežiūros institucijai jos nustatyta tvarka ir terminais. ^s-5ab4bc9000d02b4ecbb42d1b
 
 
-14. Šio straipsnio nuostatos netaikomos vartojimo kredito davėjų, turinčių priežiūros institucijos arba kitos valstybės narės priežiūros institucijos išduotą kredito įstaigos, mokėjimo įstaigos ar elektroninių pinigų įstaigos, kaip nurodyta šio įstatymo [[#^s-4c3f177a8df5914a82ae4206|39 straipsnio]] 6–[[#^s-ec6371c452f841bde412668e|8 dalyse]], veiklos licenciją, vadovams ir dalyviams. ^s-a240f421bb783a370d4d33c7
+14. Šio straipsnio nuostatos netaikomos vartojimo kredito davėjų, turinčių priežiūros institucijos arba kitos valstybės narės priežiūros institucijos išduotą kredito įstaigos, mokėjimo įstaigos ar elektroninių pinigų įstaigos, kaip nurodyta šio įstatymo [[#^s-4c3f177a8df5914a82ae4206|39 straipsnio]] [[#^s-8328868984f21974e7176f19|6]]–[[#^s-6039ab31ffca2271802de054|8]] dalyse, veiklos licenciją, vadovams ir dalyviams. ^s-a240f421bb783a370d4d33c7
 
 
 15. Šio straipsnio nuostatos mutatis mutandis taikomos fiziniams asmenims, vykdantiems vartojimo kredito tarpininko veiklą. ^s-4b98f898343b4880cc0d70f8
 
 
-16. Šio straipsnio 1 ir [[#^s-cda47195c793e2ccfb61c75c|6 dalyse]] nustatyti reikalavimai netaikomi prekių tiekėjams arba paslaugų teikėjams, kurie vartojimo kredito tarpininko funkcijas atlieka kaip papildomas funkcijas. ^s-7d096e519e173da468f6b5e7
+16. Šio straipsnio [[#^s-5de764ab4a8d5b09d9f2e458|1]] ir [[#^s-cda47195c793e2ccfb61c75c|6]] dalyse nustatyti reikalavimai netaikomi prekių tiekėjams arba paslaugų teikėjams, kurie vartojimo kredito tarpininko funkcijas atlieka kaip papildomas funkcijas. ^s-7d096e519e173da468f6b5e7
 
 
-17. Priežiūros institucija teisės aktuose, reglamentuojančiuose asmens duomenų apsaugą, nustatyta tvarka tvarko vadovų ir dalyvių asmens duomenis, įskaitant specialių kategorijų asmens duomenis, šio straipsnio 1, 4 ir [[#^s-cda47195c793e2ccfb61c75c|6 dalyse]] nurodytų reikalavimų atitikčiai įvertinti. ^s-05a3a616e9872cd88734f478
+17. Priežiūros institucija teisės aktuose, reglamentuojančiuose asmens duomenų apsaugą, nustatyta tvarka tvarko vadovų ir dalyvių asmens duomenis, įskaitant specialių kategorijų asmens duomenis, šio straipsnio [[#^s-5de764ab4a8d5b09d9f2e458|1]], [[#^s-dcbb933e682c2277296f774e|4]] ir [[#^s-cda47195c793e2ccfb61c75c|6]] dalyse nurodytų reikalavimų atitikčiai įvertinti. ^s-05a3a616e9872cd88734f478
 
 
 18. Priežiūros institucija nustato šiame straipsnyje nustatytų reikalavimų vadovams ir dalyviams vertinimo ir pritarimo šių asmenų kandidatūroms ir įsigijimo sandoriams įgyvendinimo tvarką. ^s-d5c2a4de02f37f3d1372d2fb
@@ -1688,10 +1688,10 @@ VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIM
 ### 42 straipsnis. Teisių ir pareigų pagal vartojimo kredito sutartis perleidimas ^s-a7b960424f68a93699e7b1e2
 
 
-1. Vartojimo kredito davėjas turi teisę perleisti teises ir pareigas pagal galiojančias vartojimo kredito sutartis tik į viešąjį vartojimo kredito davėjų sąrašą įrašytam asmeniui, išskyrus šio straipsnio 4 ir [[#^s-ba41ed236db894a0139cbf9f|5 dalyse]] nustatytus atvejus ir kai [[latest/461b0ed049a311efbdaea558de59136c|Kredito administratorių ir kredito pirkėjų įstatymo]] nustatyta tvarka yra perleidžiamos kreditoriaus teisės ir pareigos pagal galiojančias neveiksnias vartojimo kredito sutartis. ^s-1425019e5e053274d63e105d
+1. Vartojimo kredito davėjas turi teisę perleisti teises ir pareigas pagal galiojančias vartojimo kredito sutartis tik į viešąjį vartojimo kredito davėjų sąrašą įrašytam asmeniui, išskyrus šio straipsnio [[#^s-2d88a95a8681c73007d36d88|4]] ir [[#^s-ba41ed236db894a0139cbf9f|5]] dalyse nustatytus atvejus ir kai [[latest/461b0ed049a311efbdaea558de59136c|Kredito administratorių ir kredito pirkėjų įstatymo]] nustatyta tvarka yra perleidžiamos kreditoriaus teisės ir pareigos pagal galiojančias neveiksnias vartojimo kredito sutartis. ^s-1425019e5e053274d63e105d
 
 
-2. Priežiūros institucija, priimdama sprendimą vadovaujantis šio įstatymo [[#^s-ab9a59d10242a3cd04dbe09f|59 straipsnio 5 punktu]] išbraukti vartojimo kredito davėją iš viešojo vartojimo kredito davėjų sąrašo, įpareigoja vartojimo kredito davėją perleisti teises ir pareigas pagal galiojančias vartojimo kredito sutartis kitam į viešąjį vartojimo kredito davėjų sąrašą įrašytam asmeniui. ^s-5be0931936483c3f8c5218e9
+2. Priežiūros institucija, priimdama sprendimą vadovaujantis šio įstatymo 59 straipsnio 5 punktu išbraukti vartojimo kredito davėją iš viešojo vartojimo kredito davėjų sąrašo, įpareigoja vartojimo kredito davėją perleisti teises ir pareigas pagal galiojančias vartojimo kredito sutartis kitam į viešąjį vartojimo kredito davėjų sąrašą įrašytam asmeniui. ^s-5be0931936483c3f8c5218e9
 
 
 3. Teisių ir pareigų pagal vartojimo kredito sutartis perleidimo tvarką nustato priežiūros institucija. ^s-074212b4e590cafbb37ca609
@@ -1743,7 +1743,7 @@ VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIM
 2) informaciją apie registrą, kuriame priežiūros institucija gali patikrinti asmens pagrindinius duomenis – juridinio asmens pavadinimą, juridinio asmens kodą, teisinę formą, teisinį statusą, buveinės adresą, įregistravimo datą, vadovų tapatybės duomenis (vardą ir pavardę). Priežiūros institucija prireikus turi teisę prašyti pateikti išplėstinį registro išrašą; ^s-4301cbb57e9028c70cc19a2d
 
 
-3) dokumentus, patvirtinančius, kad nepriklausomo vartojimo kredito tarpininko vadovas atitinka šio įstatymo [[#^s-c3d5d5c0b38cfb008b2fe24c|41 straipsnio]] 1 ir [[#^s-36d951562c984689ba8e57ec|6 dalyse]] nustatytus reikalavimus, išskyrus šio įstatymo [[#^s-7d096e519e173da468f6b5e7|41 straipsnio 16 dalyje]] nustatytus atvejus. ^s-3c21dfa03c5364a0181edb1c
+3) dokumentus, patvirtinančius, kad nepriklausomo vartojimo kredito tarpininko vadovas atitinka šio įstatymo [[#^s-c3d5d5c0b38cfb008b2fe24c|41 straipsnio]] [[#^s-5de764ab4a8d5b09d9f2e458|1]] ir [[#^s-cda47195c793e2ccfb61c75c|6]] dalyse nustatytus reikalavimus, išskyrus šio įstatymo [[#^s-7d096e519e173da468f6b5e7|41 straipsnio 16 dalyje]] nustatytus atvejus. ^s-3c21dfa03c5364a0181edb1c
 
 
 3. Priežiūros institucija, išnagrinėjusi asmens prašymą įrašyti jį į viešąjį nepriklausomų vartojimo kredito tarpininkų sąrašą ir pateiktus dokumentus, duomenis ir (arba) informaciją, ne vėliau kaip per 30 darbo dienų nuo prašymo ir visų reikalingų dokumentų, duomenų ir (arba) informacijos gavimo dienos priima sprendimą įrašyti arba atsisakyti įrašyti asmenį į viešąjį nepriklausomų vartojimo kredito tarpininkų sąrašą ir apie tai raštu praneša pareiškėjui. Jeigu pateikti ne visi dokumentai, duomenys ir (arba) informacija ar pateikti dokumentai, duomenys ir (arba) informacija yra neišsamūs ir netikslūs, priežiūros institucija per jos nustatytą terminą paprašo pateikti trūkstamus ar patikslintus dokumentus, duomenis ir (arba) informaciją, reikalingus sprendimui priimti. Sprendimą įrašyti arba atsisakyti įrašyti asmenį į viešąjį nepriklausomų vartojimo kredito tarpininkų sąrašą priežiūros institucija priima ne vėliau kaip per 30 darbo dienų nuo trūkstamų ar patikslintų dokumentų, duomenų ir (arba) informacijos gavimo dienos. Asmuo įrašomas į viešąjį nepriklausomų vartojimo kredito tarpininkų sąrašą ne vėliau kaip per 2 darbo dienas nuo priežiūros institucijos sprendimo priėmimo dienos. ^s-e4ca77299b53d037e2ec8795
@@ -1773,7 +1773,7 @@ VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIM
 3) jeigu nepriklausomam vartojimo kredito tarpininkui yra iškelta bankroto byla arba bankroto procesas pradėtas ne teismo tvarka, jis likviduojamas ar pasibaigia kitais įstatymų nustatytais pagrindais; ^s-8ead6ee1898ed84507d79a59
 
 
-4) jeigu nepriklausomam vartojimo kredito tarpininkui taikoma šio įstatymo [[#^s-ab9a59d10242a3cd04dbe09f|59 straipsnio 5 punkte]] nustatyta poveikio priemonė. ^s-0d0e9ebcb4e3cf6518b5ad77
+4) jeigu nepriklausomam vartojimo kredito tarpininkui taikoma šio įstatymo 59 straipsnio 5 punkte nustatyta poveikio priemonė. ^s-0d0e9ebcb4e3cf6518b5ad77
 
 
 7. Nepriklausomas vartojimo kredito tarpininkas, priežiūros institucijos sprendimu išbrauktas iš viešojo nepriklausomų vartojimo kredito tarpininkų sąrašo [[#^s-8d994eb731e10f4ed71337ce|šio straipsnio 6 dalies 1 punkte]] nurodytu atveju, gali būti vėl įrašytas į šį sąrašą šiame straipsnyje nustatyta tvarka. Nepriklausomas vartojimo kredito tarpininkas, priežiūros institucijos sprendimu išbrauktas iš viešojo nepriklausomų vartojimo kredito tarpininkų sąrašo [[#^s-8748334e8f7bc9b704ebfd15|šio straipsnio 6 dalies 2 punkte]] nurodytu atveju, gali būti vėl įrašytas į šį sąrašą ne anksčiau kaip po 1 metų nuo sprendimo išbraukti jį iš viešojo nepriklausomų vartojimo kredito tarpininkų sąrašo priėmimo dienos. Nepriklausomas vartojimo kredito tarpininkas, priežiūros institucijos sprendimu išbrauktas iš viešojo nepriklausomų vartojimo kredito tarpininkų sąrašo [[#^s-0d0e9ebcb4e3cf6518b5ad77|šio straipsnio 6 dalies 4 punkte]] nurodytu atveju, gali būti vėl įrašytas į šį sąrašą ne anksčiau kaip po 3 metų nuo sprendimo išbraukti jį iš viešojo nepriklausomų vartojimo kredito tarpininkų sąrašo priėmimo dienos. ^s-6b48677dc30ff54bf99351e4
@@ -1795,7 +1795,7 @@ VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIM
 1. Asmuo turi teisę verstis vartojimo kredito tarpininko veikla, veikdamas vieno arba kelių vartojimo kredito davėjų vardu, t. y. kaip priklausomas tarpininkas, tik tada, kai vartojimo kredito davėjas jį įrašo į viešąjį vartojimo kredito davėjo vardu veikiančių vartojimo kredito tarpininkų sąrašą. ^s-8c401947606c7f1bbb74e29e
 
 
-2. Vartojimo kredito davėjas asmenį įrašo į viešąjį vartojimo kredito davėjo vardu veikiančių vartojimo kredito tarpininkų sąrašą nustatęs, kad šis asmuo, kai jis yra fizinis asmuo, arba šio asmens vadovai atitinka šio įstatymo [[#^s-c3d5d5c0b38cfb008b2fe24c|41 straipsnio]] 1 ir 6 dalyse nustatytus reikalavimus, išskyrus šio įstatymo [[#^s-7d096e519e173da468f6b5e7|41 straipsnio 16 dalyje]] nustatytus atvejus. ^s-b5343a2bebf4e7113291cf20
+2. Vartojimo kredito davėjas asmenį įrašo į viešąjį vartojimo kredito davėjo vardu veikiančių vartojimo kredito tarpininkų sąrašą nustatęs, kad šis asmuo, kai jis yra fizinis asmuo, arba šio asmens vadovai atitinka šio įstatymo [[#^s-c3d5d5c0b38cfb008b2fe24c|41 straipsnio]] [[#^s-5de764ab4a8d5b09d9f2e458|1]] ir [[#^s-cda47195c793e2ccfb61c75c|6]] dalyse nustatytus reikalavimus, išskyrus šio įstatymo [[#^s-7d096e519e173da468f6b5e7|41 straipsnio 16 dalyje]] nustatytus atvejus. ^s-b5343a2bebf4e7113291cf20
 
 
 3. Kiekvienas vartojimo kredito davėjas privalo tvarkyti viešąjį jo vardu veikiančių vartojimo kredito tarpininkų sąrašą ir užtikrinti, kad jo vardu veiktų tik tokie asmenys, kurie [[#^s-b5343a2bebf4e7113291cf20|šio straipsnio 2 dalyje]] nustatyta tvarka buvo įrašyti į jo tvarkomą viešąjį vartojimo kredito davėjo vardu veikiančių vartojimo kredito tarpininkų sąrašą. ^s-c10fe72cdc31a82dd09a91a8
@@ -1836,7 +1836,7 @@ VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIM
 2) informaciją apie registrą, kuriame priežiūros institucija gali patikrinti asmens pagrindinius duomenis – juridinio asmens pavadinimą, juridinio asmens kodą, teisinę formą, teisinį statusą, buveinės adresą, įregistravimo datą, vadovų tapatybės duomenis (vardą ir pavardę). Priežiūros institucija prireikus turi teisę prašyti pateikti išplėstinį registro išrašą; ^s-5adb1159e3d2b65175cc6181
 
 
-3) informaciją apie šio įstatymo [[#^s-c3d5d5c0b38cfb008b2fe24c|41 straipsnio]] 1 ir [[#^s-9df28d1e76c3ec0da7bcced8|4 dalyse]] nurodytus asmenis, dokumentus ir duomenis, patvirtinančius, kad jie atitinka šio įstatymo [[#^s-c3d5d5c0b38cfb008b2fe24c|41 straipsnio]] 1, 4 ir [[#^s-cfe7be4048bae780598495e5|6 dalyse]] nustatytus reikalavimus; ^s-8146b276ea6edf9aaf33b354
+3) informaciją apie šio įstatymo [[#^s-c3d5d5c0b38cfb008b2fe24c|41 straipsnio]] [[#^s-5de764ab4a8d5b09d9f2e458|1]] ir [[#^s-dcbb933e682c2277296f774e|4]] dalyse nurodytus asmenis, dokumentus ir duomenis, patvirtinančius, kad jie atitinka šio įstatymo [[#^s-c3d5d5c0b38cfb008b2fe24c|41 straipsnio]] [[#^s-5de764ab4a8d5b09d9f2e458|1]], [[#^s-dcbb933e682c2277296f774e|4]] ir [[#^s-cda47195c793e2ccfb61c75c|6]] dalyse nustatytus reikalavimus; ^s-8146b276ea6edf9aaf33b354
 
 
 4) informaciją apie nuosavo kapitalo reikalavimų, nustatytų šio įstatymo [[#^s-d35ded34820bf0dc8c96cdf6|53 straipsnyje]], atitiktį; ^s-46be9659629149963923b084
@@ -1845,7 +1845,7 @@ VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIM
 5) tarpusavio skolinimo platformos operatoriaus veiklos modelio aprašymą; ^s-f84b40710e0308da6586b12f
 
 
-6) veiklos tęstinumo planą, nurodytą šio įstatymo [[#^s-a6bafab844c0bad86917c08b|52 straipsnio 6 punkte]]; ^s-b187368c5144e411bd4b3853
+6) veiklos tęstinumo planą, nurodytą šio įstatymo 52 straipsnio 6 punkte; ^s-b187368c5144e411bd4b3853
 
 
 7) vartojimo kredito gavėjų kreditingumo vertinimo ir atsakingojo skolinimo taisykles. ^s-e0c07989b85a9fd22f5c99e8
@@ -1891,7 +1891,7 @@ VARTOJIMO KREDITO DAVĖJŲ, VARTOJIMO KREDITO TARPININKŲ IR TARPUSAVIO SKOLINIM
 3) tarpusavio skolinimo platformos operatoriui yra iškelta bankroto byla arba bankroto procesas pradėtas ne teismo tvarka, jis likviduojamas ar pasibaigia kitais įstatymų, reglamentuojančių juridinių asmenų veiklą, nustatytais pagrindais; ^s-4065eedc60cdca34a8b7c286
 
 
-4) tarpusavio skolinimo platformos operatoriui taikoma šio įstatymo [[#^s-ab9a59d10242a3cd04dbe09f|59 straipsnio 5 punkte]] nustatyta poveikio priemonė. ^s-c3aa395e9fa904b1fead822a
+4) tarpusavio skolinimo platformos operatoriui taikoma šio įstatymo 59 straipsnio 5 punkte nustatyta poveikio priemonė. ^s-c3aa395e9fa904b1fead822a
 
 
 2. Tarpusavio skolinimo platformos operatorius turi teisę kreiptis į priežiūros instituciją dėl jo išbraukimo iš viešojo tarpusavio skolinimo platformos operatorių sąrašo ir privalo pateikti: ^s-ca4e85124798dbe2b18b7d23
@@ -1934,7 +1934,7 @@ TARPUSAVIO SKOLINIMAS
 ### 51 straipsnis. Reikalavimai tarpusavio skolinimo platformos operatoriui ^s-33fdf515ad8c9bf00025981c
 
 
-1. Tarpusavio skolinimo platformos operatoriui mutatis mutandis taikomos šio įstatymo nuostatos, kurios taikomos vartojimo kredito davėjui, išskyrus šio įstatymo 39 ir [[#^s-0d7a20e241c6d2ec353f7cea|40 straipsnių]] nuostatas. ^s-a2e102548d9b8b2344123872
+1. Tarpusavio skolinimo platformos operatoriui mutatis mutandis taikomos šio įstatymo nuostatos, kurios taikomos vartojimo kredito davėjui, išskyrus šio įstatymo [[#^s-4c3f177a8df5914a82ae4206|39]] ir [[#^s-0d7a20e241c6d2ec353f7cea|40]] straipsnių nuostatas. ^s-a2e102548d9b8b2344123872
 
 
 2. Tarpusavio skolinimo platformos operatoriaus vadovui ir dalyviui mutatis mutandis taikomos šio įstatymo [[#^s-c3d5d5c0b38cfb008b2fe24c|41 straipsnio]] nuostatos, taikomos vartojimo kredito davėjo vadovui ir dalyviui. ^s-3c3afc7892b464d7243e34fd
@@ -2545,10 +2545,10 @@ STANDARTINĖ INFORMACIJA APIE TAM TIKRAS VARTOJIMO KREDITO SUTARTIS
 
 
 
-1. Kai vartojimo kredito sutartys sudaromos vadovaujantis [[#^s-7af9db919a510d2c996b76bb|Lietuvos Respublikos vartojimo kredito įstatymo 3 straipsnio]] 4 ir 5 dalimis, standartinės informacijos apie tam tikras vartojimo kredito sutartis formos laukuose su nuoroda „jeigu taikoma“ vartojimo kredito davėjas privalo įrašyti konkrečią informaciją apie vartojimo kreditą, o kai informacija su nuoroda „jeigu taikoma“ siūlomam vartojimo kreditui netinka, ją išbraukti (dalį ar visą). Kursyvu pateikti paaiškinimai skirti padėti vartojimo kredito gavėjui geriau suprasti pateikiamus skaičius. Laužtiniuose skliaustuose vartojimo kredito davėjui arba vartojimo kredito tarpininkui pateikiami paaiškinimai, kokią informaciją reikia pateikti tame formos lauke. Ženklu * pažymėtos informacijos vartojimo kredito davėjas neprivalo teikti. ^s-c022296f4f628dca42f84a9b
+1. Kai vartojimo kredito sutartys sudaromos vadovaujantis [[#^s-7af9db919a510d2c996b76bb|Lietuvos Respublikos vartojimo kredito įstatymo 3 straipsnio]] [[#^s-dc53d27f60ad629c7ca10608|4]] ir [[#^s-0295dab8c4c65d77b7f69d1d|5]] dalimis, standartinės informacijos apie tam tikras vartojimo kredito sutartis formos laukuose su nuoroda „jeigu taikoma“ vartojimo kredito davėjas privalo įrašyti konkrečią informaciją apie vartojimo kreditą, o kai informacija su nuoroda „jeigu taikoma“ siūlomam vartojimo kreditui netinka, ją išbraukti (dalį ar visą). Kursyvu pateikti paaiškinimai skirti padėti vartojimo kredito gavėjui geriau suprasti pateikiamus skaičius. Laužtiniuose skliaustuose vartojimo kredito davėjui arba vartojimo kredito tarpininkui pateikiami paaiškinimai, kokią informaciją reikia pateikti tame formos lauke. Ženklu * pažymėtos informacijos vartojimo kredito davėjas neprivalo teikti. ^s-c022296f4f628dca42f84a9b
 
 
-2. Kai vartojimo kredito sutartys sudaromos vadovaujantis [[#^s-7af9db919a510d2c996b76bb|Vartojimo kredito įstatymo 3 straipsnio]] 4 ir 5 dalimis, standartinės informacijos apie tam tikras vartojimo kredito sutartis formos pirmame puslapyje nurodoma: ^s-c0dcc063d8f830e15a4f703d
+2. Kai vartojimo kredito sutartys sudaromos vadovaujantis [[#^s-7af9db919a510d2c996b76bb|Vartojimo kredito įstatymo 3 straipsnio]] [[#^s-dc53d27f60ad629c7ca10608|4]] ir [[#^s-0295dab8c4c65d77b7f69d1d|5]] dalimis, standartinės informacijos apie tam tikras vartojimo kredito sutartis formos pirmame puslapyje nurodoma: ^s-c0dcc063d8f830e15a4f703d
 
 
 2.1. vartojimo kredito davėjo ir (ar) vartojimo kredito tarpininko (juridinio asmens) pavadinimas; kai vartojimo kredito tarpininkas yra fizinis asmuo, – jo vardas, pavardė, bendra vartojimo kredito suma, vartojimo kredito sutarties galiojimo laikotarpis ir vartojimo kredito grąžinimo terminas, kai jie nesutampa, vartojimo kredito palūkanų norma arba visos vartojimo kredito palūkanų normos, jeigu skirtingomis aplinkybėmis taikomos skirtingos vartojimo kredito palūkanų normos, bendros vartojimo kredito kainos metinė norma ir bendra vartojimo kredito gavėjo mokama suma, jeigu vartojimo kreditas yra suteikiamas atidedant įmokų už konkrečias prekes arba paslaugas mokėjimą arba yra susietas su konkrečių prekių tiekimu ar paslaugų teikimu, prekės arba paslaugos pavadinimas ir jų kaina, už pavėluotą įmokų mokėjimą mokamos netesybos ar palūkanos ir jų apskaičiavimo tvarka: ^s-90d44b14dd2d0122d0a6245f
@@ -2759,10 +2759,10 @@ vartojimo kredito įstatymo
 
 
 
-1. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos direktyva 2014/17/ES dėl vartojimo kredito sutarčių dėl gyvenamosios paskirties nekilnojamojo turto, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2013/36/ES bei Reglamentas (ES) Nr. 1093/2010, su paskutiniais pakeitimais, padarytais 2021 m. lapkričio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/2167. ^s-79936f4e90a25dec122c9a30
+1. 2014 m. vasario 4 d. Europos Parlamento ir Tarybos direktyva 2014/17/ES dėl vartojimo kredito sutarčių dėl gyvenamosios paskirties nekilnojamojo turto, kuria iš dalies keičiamos direktyvos 2008/48/EB ir 2013/36/ES bei [Reglamentas (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), su paskutiniais pakeitimais, padarytais 2021 m. lapkričio 24 d. Europos Parlamento ir Tarybos [direktyva (ES) 2021/2167](https://eur-lex.europa.eu/eli/dir/2021/2167/oj). ^s-79936f4e90a25dec122c9a30
 
 
-2. 2023 m. spalio 18 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2225 dėl vartojimo kredito sutarčių, kuria panaikinama Direktyva 2008/48/EB. ^s-f4cac624de92c5d9b99ea4ee
+2. 2023 m. spalio 18 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/2225](https://eur-lex.europa.eu/eli/dir/2023/2225/oj) dėl vartojimo kredito sutarčių, kuria panaikinama Direktyva 2008/48/EB. ^s-f4cac624de92c5d9b99ea4ee
 
 
 _________________
@@ -2785,22 +2785,22 @@ Nr. XI-1684, 2011-11-17, Žin., 2011, Nr. 146-6830 (2011-12-01), i. k. [[latest/
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1503, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21153
-Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 3, 17 ir [[#^s-8f62596e1ebf1a1e5cddc018|34 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 [[#^s-7af9db919a510d2c996b76bb|3]], [[#^s-057bb6d34dab12b4242188a2|17]] ir [[#^s-8f62596e1ebf1a1e5cddc018|34]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1989, 2015-11-05, paskelbta TAR 2015-11-18, i. k. 2015-18269
-Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 1, 2, 3, 4, 5, 6, 8, 9, 11, 15, 16, 17, 20, 21, 22, 23, 24, 27, 28, 29, 31, 33, 34, 35, 36, 37, 38, [[#^s-0d7a20e241c6d2ec353f7cea|40 straipsnių]], trečiojo ir penktojo skirsnių pavadinimų ir 1, 2 priedų pakeitimo ir Įstatymo papildymo 11-1, 14-1, 21-1, 22-1, 22-2, 23-1, 25-1 straipsniais ir penktuoju-1 skirsniu įstatymas
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 [[#^s-7a919d46c0dca9bd8519e093|1]], [[#^s-1b983825aaea69de89d582bf|2]], [[#^s-7af9db919a510d2c996b76bb|3]], [[#^s-1f178acc20c453de627f0c5d|4]], [[#^s-45ac749bafe2902dbe01268c|5]], [[#^s-1a2671ae28107758a98baf0c|6]], [[#^s-31d4a91ce21d58d7e23d2dd3|8]], [[#^s-f1e5ce93c3026ed51432724f|9]], [[#^s-e399cd2d7be658a2fc17627a|11]], [[#^s-0f9d4fbbb1fcf54650b40215|15]], [[#^s-61dfeb0208dee1092199c029|16]], [[#^s-057bb6d34dab12b4242188a2|17]], [[#^s-20c44b72f6d1b8ff3787116b|20]], [[#^s-c50f01ced3b20178bc8c3726|21]], [[#^s-edd3fdd308dc2f789c944a67|22]], [[#^s-ea2a9008bc53f127aa8c5770|23]], [[#^s-533fa5c2803c5f39baebd3b3|24]], [[#^s-283a01a80ce134c5034fa695|27]], [[#^s-57da5aa63b04ddb93e286de8|28]], [[#^s-2f4e66bf3ad9289e7ab3e97d|29]], [[#^s-4a8b72adc66aff4e80cd43d0|31]], [[#^s-c89960d7c83f4621f89265c8|33]], [[#^s-8f62596e1ebf1a1e5cddc018|34]], [[#^s-6cc8143c1ef30461cfb2454f|35]], [[#^s-43386f1bb2ba90d2f3acaa6f|36]], [[#^s-063835f1083efdd260154608|37]], [[#^s-a71e765fce45bc5609516663|38]], [[#^s-0d7a20e241c6d2ec353f7cea|40]] straipsnių, trečiojo ir penktojo skirsnių pavadinimų ir 1, 2 priedų pakeitimo ir Įstatymo papildymo 11-1, 14-1, 21-1, 22-1, 22-2, 23-1, 25-1 straipsniais ir penktuoju-1 skirsniu įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2770, 2016-11-10, paskelbta TAR 2016-11-17, i. k. 2016-26969
-Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 3, 5, 11-1, 22, 25-2, [[#^s-8f62596e1ebf1a1e5cddc018|34 straipsnių]] ir 3 priedo pakeitimo įstatymas
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 [[#^s-7af9db919a510d2c996b76bb|3]], [[#^s-45ac749bafe2902dbe01268c|5]], 11-1, [[#^s-edd3fdd308dc2f789c944a67|22]], 25-2, [[#^s-8f62596e1ebf1a1e5cddc018|34]] straipsnių ir 3 priedo pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1241, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09853
-Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 22, 22-1, 25-1, 25-2, 25-3, 28, 34, [[#^s-a71e765fce45bc5609516663|38 straipsnių]] pakeitimo, Įstatymo papildymo 21-2, 28-1, 28-2, 33-1, 33-2 straipsniais ir 22-2, 26, 27, 29, 30, 31, 32, 33, 35, 36, [[#^s-063835f1083efdd260154608|37 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 [[#^s-edd3fdd308dc2f789c944a67|22]], 22-1, 25-1, 25-2, 25-3, [[#^s-57da5aa63b04ddb93e286de8|28]], [[#^s-8f62596e1ebf1a1e5cddc018|34]], [[#^s-a71e765fce45bc5609516663|38]] straipsnių pakeitimo, Įstatymo papildymo 21-2, 28-1, 28-2, 33-1, 33-2 straipsniais ir 22-2, [[#^s-ce83591d7a5c928404b873e5|26]], [[#^s-283a01a80ce134c5034fa695|27]], [[#^s-2f4e66bf3ad9289e7ab3e97d|29]], [[#^s-f89ef2c00af19acdba4e9ae4|30]], [[#^s-4a8b72adc66aff4e80cd43d0|31]], [[#^s-0a4198234acac36138d2d81c|32]], [[#^s-c89960d7c83f4621f89265c8|33]], [[#^s-6cc8143c1ef30461cfb2454f|35]], [[#^s-43386f1bb2ba90d2f3acaa6f|36]], [[#^s-063835f1083efdd260154608|37]] straipsnių pripažinimo netekusiais galios įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2825,7 +2825,7 @@ Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 22-1 straipsnio ir 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1477, 2022-11-03, paskelbta TAR 2022-11-16, i. k. 2022-23022
-Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 22, 22-1, 23-1 ir 25-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 [[#^s-edd3fdd308dc2f789c944a67|22]], 22-1, 23-1 ir 25-1 straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2835,7 +2835,7 @@ Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 18-1 straipsnio pak
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2896, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13505
-Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 2, 19, 22-1 straipsnių, 3 priedo pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
+Lietuvos Respublikos vartojimo kredito įstatymo Nr. XI-1253 [[#^s-1b983825aaea69de89d582bf|2]], [[#^s-c20f30a4ac3f6a1727c94c1d|19]], 22-1 straipsnių, 3 priedo pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas

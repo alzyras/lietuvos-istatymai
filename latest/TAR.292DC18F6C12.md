@@ -124,7 +124,7 @@ Narkotikų, tabako ir alkoholio kontrolės departamento kompetenciją nustato [[
 2. 34 straipsnio 11 dalyje vietoj žodžio „Tarnyba“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė maisto ir veterinarijos tarnyba“ ir šią dalį išdėstyti taip: ^s-7086a3a3103faa77fd9a7b9c
 
 
-„11. Baudas už šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7–12 punktuose, [[#^s-7086a3a3103faa77fd9a7b9c|2 dalies]] 2, 3, 6–11 punktuose, 5–11 ir 13 dalyse, 18 straipsnio 1, 3, 4 ir 9 dalyse, 22 straipsnio 3 dalyje nustatytų reikalavimų nesilaikymą, taip pat už savivaldybių tarybų nustatytų prekybos alkoholiniais gėrimais švenčių ir masinių renginių dienomis ribojimų ar draudimų pažeidimą skiria Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė maisto ir veterinarijos tarnyba ir policija. Policijos vardu skirti baudas turi teisę policijos įstaigų vadovai ar jų įgalioti asmenys.“
+„11. Baudas už šio Įstatymo 17 straipsnio 1 dalies 2, 3, 7–12 punktuose, 2 dalies 2, 3, 6–11 punktuose, 5–11 ir 13 dalyse, 18 straipsnio 1, 3, 4 ir 9 dalyse, 22 straipsnio 3 dalyje nustatytų reikalavimų nesilaikymą, taip pat už savivaldybių tarybų nustatytų prekybos alkoholiniais gėrimais švenčių ir masinių renginių dienomis ribojimų ar draudimų pažeidimą skiria Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė maisto ir veterinarijos tarnyba ir policija. Policijos vardu skirti baudas turi teisę policijos įstaigų vadovai ar jų įgalioti asmenys.“
 
 
 3. 34 straipsnio 13 dalyje vietoj žodžio „Tarnyba“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas ir Valstybinė maisto ir veterinarijos tarnyba“ ir šią dalį išdėstyti taip: ^s-6e11b7b384d441bd4565304f

@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-ac56962be28f1e8849c73552
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67straipsnio 16punktu, 138straipsnio 1dalies 2punktu ir atsižvelgdamas į Respublikos Prezidento 2010m. kovo 29 d. dekretą Nr. 1K-320, ratifikuoja 2009m. lapkričio 30d. Vilniuje pasirašytą Protokolą, kuriuo iš dalies keičiamas ir pratęsiamas Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimas dėl bendradarbiavimo masinio naikinimo ginklų platinimo prevencijos srityje ir dėl gynybos bei karinių santykių plėtojimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67straipsnio 16punktu, 138straipsnio 1dalies 2punktu ir atsižvelgdamas į Respublikos Prezidento [2010m. kovo 29 d. dekretą Nr. 1K-320](https://e-tar.lt/portal/lt/legalAct/TAR.02AE33F8186B), ratifikuoja 2009m. lapkričio 30d. Vilniuje pasirašytą Protokolą, kuriuo iš dalies keičiamas ir pratęsiamas [Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimas dėl bendradarbiavimo masinio naikinimo ginklų platinimo prevencijos srityje ir dėl gynybos bei karinių santykių plėtojimo](https://e-tar.lt/portal/lt/legalAct/TAR.7A08F1C0AE17).
 
 
 

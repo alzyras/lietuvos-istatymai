@@ -195,7 +195,7 @@ Pakeisti 44 straipsnį ir jį išdėstyti taip:
 4) stebi, kaip verčiami Buhalterių profesionalų etikos kodeksas, tarptautiniai audito standartai ir Tarptautinis kokybės kontrolės standartas į lietuvių kalbą, ir prireikus imasi veiksmų, kad būtų garantuotas jų tinkamos kokybės vertimas laiku; ^s-731fb5bd32760a7368ec1f1d
 
 
-5) kartu su Auditorių rūmais įgyvendina auditorių ir audito įmonių atlikto audito kokybės užtikrinimą, atlieka tyrimus, skiria šio įstatymo 39 straipsnio 1 ir [[#^s-61b20178addfe7c9297c78aa|2 dalyse]] nustatytas nuobaudas ir duoda šio įstatymo 38 straipsnyje nustatytus nurodymus, įvertina Auditorių rūmų siūlomus sprendimus dėl šių nuobaudų ar nurodymų skyrimo arba neskyrimo šio įstatymo 37 straipsnio 3 dalyje nustatyta tvarka; ^s-665540572cf1ea135dc4aa00
+5) kartu su Auditorių rūmais įgyvendina auditorių ir audito įmonių atlikto audito kokybės užtikrinimą, atlieka tyrimus, skiria šio įstatymo 39 straipsnio 1 ir 2 dalyse nustatytas nuobaudas ir duoda šio įstatymo 38 straipsnyje nustatytus nurodymus, įvertina Auditorių rūmų siūlomus sprendimus dėl šių nuobaudų ar nurodymų skyrimo arba neskyrimo šio įstatymo 37 straipsnio 3 dalyje nustatyta tvarka; ^s-665540572cf1ea135dc4aa00
 
 
 6) nedelsdama perduoda Lietuvos bankui, Finansų ministerijai, valstybių narių ir valstybių ne narių kompetentingoms institucijoms informaciją, taip pat konfidencialią, reikalingą jų priežiūros funkcijoms atlikti. Iš valstybių narių ir valstybių ne narių atitinkamų institucijų gautą informaciją, taip pat konfidencialią, naudoja tik audito viešajai priežiūrai atlikti; ^s-86a3ff819bc26241400af588

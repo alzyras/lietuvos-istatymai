@@ -87,7 +87,7 @@ Vilnius
 „3. Turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė, atitinkančio kapitalo dydį sudaro turto, kuris pagal įstatymus gali būti tik valstybės nuosavybė, teisės aktų nustatyta tvarka perduoto įmonei patikėjimo teise valdyti, naudoti ir juo disponuoti, vertė.“
 
 
-6. Buvusias 12 straipsnio 3, 4 ir [[#^s-5499124234fb359e7445d0cc|5 dalis]] laikyti atitinkamai 4, 5 ir [[#^s-0a5fe442995171a45304a6f0|6 dalimis]]. ^s-0a5fe442995171a45304a6f0
+6. Buvusias 12 straipsnio 3, 4 ir 5 dalis laikyti atitinkamai 4, 5 ir 6 dalimis. ^s-0a5fe442995171a45304a6f0
 
 
 7. 12 straipsnio 4 dalies pirmame sakinyje išbraukti žodžius „ir“ bei „kuris naudojamas tik įmonės nuostoliams dengti“, ketvirtame sakinyje vietoj žodžio „nuosavo“ įrašyti žodį „savininko“, papildyti dalį nauju priešpaskutiniu sakiniu, paskutiniame sakinyje vietoj žodžių „Privalomasis rezervas, panaudotas įmonės nuostoliams dengti, turi būti sudaromas iš naujo“ įrašyti žodžius „Padengus nuostolius, privalomojo rezervo dydis turi būti atkuriamas“ ir šią dalį išdėstyti taip: ^s-94bac975afa5b028ff6f4eee
@@ -118,7 +118,7 @@ Vilnius
 „3. Sprendime įmonei perduoti įmonės savininko turtą patikėjimo teise turi būti nurodyta, kurioje nuosavo kapitalo dalyje – įmonės savininko kapitalo ar turtą, kuris pagal įstatymus gali būti tik valstybės nuosavybė, atitinkančio kapitalo – turi būti registruojamas įmonės turto vertės padidėjimas. Ši nuostata netaikoma, kai įmonei perduodamas turtas yra dotacija.“
 
 
-2. Buvusias 13 straipsnio 3 ir [[#^s-255f5fa8952806513c9c00a6|4 dalis]] laikyti atitinkamai 4 ir 5 dalimis. ^s-5b86c0cce2197d122487c61e
+2. Buvusias 13 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-5b86c0cce2197d122487c61e
 
 
 3. Pakeisti 13 straipsnio 4 dalį ir ją išdėstyti taip: ^s-cb196c12c55e3c19b4bf2b4b

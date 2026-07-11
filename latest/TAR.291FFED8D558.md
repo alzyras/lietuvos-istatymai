@@ -192,7 +192,7 @@ Nr. XIV-769, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26898
 2. Užstato davėju ir užstato gavėju ar užskaitos susitarimo šalimis turi būti vienas iš šių subjektų: ^s-ea60fe21ed245943dcf0ae78
 
 
-1) valstybės valdžios institucija (išskyrus įmones, už kurias garantuoja valstybė, nebent šios įmonės yra šios dalies 2–[[#^s-3363a94c0680ae871b8ac7c2|6 punktuose]] nurodyti asmenys), įskaitant kitų valstybių narių valstybės valdžios institucijas, įpareigotas dalyvauti ar dalyvaujančias valdant valstybės skolą ar įgaliotas tvarkyti klientų sąskaitas; ^s-547dc8ccd8fa05653d626769
+1) valstybės valdžios institucija (išskyrus įmones, už kurias garantuoja valstybė, nebent šios įmonės yra šios dalies [[#^s-3eed6bb4b07d8b32cc810ee7|2]]–[[#^s-3363a94c0680ae871b8ac7c2|6]] punktuose nurodyti asmenys), įskaitant kitų valstybių narių valstybės valdžios institucijas, įpareigotas dalyvauti ar dalyvaujančias valdant valstybės skolą ar įgaliotas tvarkyti klientų sąskaitas; ^s-547dc8ccd8fa05653d626769
 
 
 2) Lietuvos bankas, valstybės narės centrinis bankas, Europos centrinis bankas, Tarptautinių atsiskaitymų bankas, Tarptautinis rekonstrukcijos ir plėtros bankas, Tarptautinė finansų korporacija, Amerikos plėtros bankas, Azijos plėtros bankas, Afrikos plėtros bankas, Europos Tarybos plėtros bankas, Šiaurės šalių investicijų bankas, Karibų jūros baseino plėtros bankas, Europos rekonstrukcijos ir plėtros bankas, Europos investicijų fondas, Daugiašalė investicijų garantijų agentūra, Tarptautinė imunizacijos finansavimo institucija, Islamo plėtros bankas, Tarptautinis valiutos fondas, Europos investicijų bankas; ^s-3eed6bb4b07d8b32cc810ee7
@@ -204,10 +204,10 @@ Nr. XIV-769, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26898
 4) pagrindinė sutarties šalis, atsiskaitymų tarpininkas ar tarpuskaitos namai, tarp jų panašia veikla užsiimančios įstaigos, kurių veiklą reglamentuoja Lietuvos Respublikos teisės aktai ir kurios veikia ateities, pasirinkimo sandorių ir kitų išvestinių finansinių priemonių rinkose tiek, kiek to nereglamentuoja [[latest/TAR.D38B48DC3EF0|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas]]; ^s-38dd23d85e07fab0698e379b
 
 
-5) asmuo (išskyrus fizinius asmenis), veikiantis kaip šios dalies 1–[[#^s-38dd23d85e07fab0698e379b|4 punktuose]] nurodytų vieno ar daugiau asmenų arba institucijų, turinčių obligacijų ar kitų skolos vertybinių popierių, įgaliotinis, patikėtinis ar atstovas; ^s-a4e8955fe154173b3d26df5a
+5) asmuo (išskyrus fizinius asmenis), veikiantis kaip šios dalies [[#^s-547dc8ccd8fa05653d626769|1]]–[[#^s-38dd23d85e07fab0698e379b|4]] punktuose nurodytų vieno ar daugiau asmenų arba institucijų, turinčių obligacijų ar kitų skolos vertybinių popierių, įgaliotinis, patikėtinis ar atstovas; ^s-a4e8955fe154173b3d26df5a
 
 
-6) asmuo (išskyrus fizinius asmenis), jeigu kita susitarimo šalis yra subjektas, nurodytas šios dalies 1–[[#^s-a4e8955fe154173b3d26df5a|5 punktuose]]. ^s-3363a94c0680ae871b8ac7c2
+6) asmuo (išskyrus fizinius asmenis), jeigu kita susitarimo šalis yra subjektas, nurodytas šios dalies [[#^s-547dc8ccd8fa05653d626769|1]]–[[#^s-a4e8955fe154173b3d26df5a|5]] punktuose. ^s-3363a94c0680ae871b8ac7c2
 
 
 3. Šis įstatymas netaikomas teisėms, kurias asmuo gali turėti į turtą, pateiktą kaip finansinis užstatas, ir kurios atsiranda pagal kitus negu finansinio užtikrinimo susitarimus ar teisės aktų nuostatas, nesusijusias su likvidavimo procedūra arba reorganizavimo priemonėmis. ^s-794cda56cf10bba29e3a16ee
@@ -477,7 +477,7 @@ Ieškiniams dėl vienašalio finansinio užstato realizavimo priverstinio vykdym
 2. Jeigu finansiniu užstatu pateikiami nematerialieji vertybiniai popieriai (įskaitant teises į nematerialiuosius vertybinius popierius) ir teisės į šiuos nematerialiuosius vertybinius popierius įstatymų nustatyta tvarka yra įregistruotos nematerialiųjų vertybinių popierių sąskaitoje ar registre, esančiuose Lietuvos Respublikoje, tai asmenų, kaip užstato gavėjų, teises į šiuos nematerialiuosius vertybinius popierius nustato Lietuvos Respublikos teisės aktai. ^s-7296b87db1f4abecb88f9dbf
 
 
-3. Šio straipsnio 1 ir [[#^s-7296b87db1f4abecb88f9dbf|2 dalys]] taikomos nustatant: ^s-58bf21382e7eb6ba5572a745
+3. Šio straipsnio 1 ir [[#^s-7296b87db1f4abecb88f9dbf|2]] dalys taikomos nustatant: ^s-58bf21382e7eb6ba5572a745
 
 
 1) nematerialiųjų vertybinių popierių rūšį ir nuosavybės teisę į šiuos vertybinius popierius; ^s-7a149a1eacdcdbf2580d854b
@@ -553,7 +553,7 @@ Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 [
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-769, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26898
-Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 2, [[#^s-70e77de881d320b735b29d53|9 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymo Nr. IX-2127 [[#^s-b2e036c8a91c6c7e79448eda|2]], [[#^s-70e77de881d320b735b29d53|9]] straipsnių ir priedo pakeitimo įstatymas
 
 
 part_d385bc25ff604860886c7e9ca4cb4c50_end

@@ -92,7 +92,7 @@ Pakeisti [[#^s-4a4a681c41b807f099c83df8|11 straipsnį]] ir jį išdėstyti taip:
 1. Socialinės apsaugos ir darbo ministerija įgyvendina valstybės socialinių paslaugų politiką: ^s-4df25967050a170a0a7a3b86
 
 
-1) pagal savo kompetenciją teikia Vyriausybei siūlymus dėl valstybės socialinių paslaugų sistemos ir socialinio darbo vystymo krypčių ir rengia teisės aktų projektus dėl asmens (šeimos) socialinių paslaugų poreikio nustatymo, socialinių paslaugų skyrimo, teikimo, finansavimo, mokėjimo už socialines paslaugas, socialinės globos normų, socialinės globos įstaigų licencijavimo, socialinių darbuotojų, socialinių darbuotojų padėjėjų profesinės kvalifikacijos kėlimo ir veiklos reglamentavimo ir kt.; ^s-e99fe5d681954ace08847fe0
+1) pagal savo kompetenciją teikia Vyriausybei siūlymus dėl valstybės socialinių paslaugų sistemos ir socialinio darbo vystymo krypčių ir rengia teisės aktų projektus [dėl asmens (šeimos) socialinių paslaugų poreikio nustatymo](https://e-tar.lt/portal/lt/legalAct/b61c8830d17911e68d79c2033f194657), socialinių paslaugų skyrimo, teikimo, finansavimo, mokėjimo už socialines paslaugas, socialinės globos normų, socialinės globos įstaigų licencijavimo, socialinių darbuotojų, socialinių darbuotojų padėjėjų profesinės kvalifikacijos kėlimo ir veiklos reglamentavimo ir kt.; ^s-e99fe5d681954ace08847fe0
 
 
 2) analizuoja ir vertina socialinių paslaugų būklę šalyje ir teikia siūlymus savivaldybėms dėl socialinių paslaugų planavimo, organizavimo; ^s-fd9f8bfd33465c4c43c7320d
@@ -294,7 +294,7 @@ Pakeisti [[#^s-4a4a681c41b807f099c83df8|11 straipsnį]] ir jį išdėstyti taip:
 ### 14 straipsnis. Baigiamosios nuostatos ^s-a7754fa3f5bcd15237476ac9
 
 
-1. Šio įstatymo 3, 4, 5, 8, [[#^s-3a27839be7efa8de2a72b63f|9 straipsniai]] ir [[#^s-9c1a4eeac67912a811de8cb1|12 straipsnio 1 dalis]] įsigalioja 2010 m. liepos 1 d. ^s-1d324196e92afd060deef8f1
+1. Šio įstatymo [[#^s-b0b59eb0b6f0dc7e1379a604|3]], [[#^s-959e90ffcf88dc70b2d001e7|4]], [[#^s-c7368bf516653f4f34d13339|5]], [[#^s-ee82c732b4c7ea039dfc36be|8]], [[#^s-3a27839be7efa8de2a72b63f|9]] straipsniai ir [[#^s-9c1a4eeac67912a811de8cb1|12 straipsnio 1 dalis]] įsigalioja 2010 m. liepos 1 d. ^s-1d324196e92afd060deef8f1
 
 
 2. Šio įstatymo [[#^s-44de3ddfa22ffb5059047d69|7 straipsnio 3 dalis]] įsigalioja 2015 m. sausio 1 d. ^s-28cdd8b224ea1d8fb8724949

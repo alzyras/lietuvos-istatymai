@@ -143,13 +143,13 @@ Nr. XV-355, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12016
 
 
 
-11. Nurodymas diskriminuoti asmenį lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu laikomas diskriminacija, apibrėžtas šio straipsnio 5 ir [[#^s-be21686065502d0cd7bb2767|9 dalyse]]. ^s-a3f2d7e5dc5b2b476ec3218d
+11. Nurodymas diskriminuoti asmenį lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu laikomas diskriminacija, apibrėžtas šio straipsnio [[#^s-6c671680569695f1371f5460|5]] ir [[#^s-be21686065502d0cd7bb2767|9]] dalyse. ^s-a3f2d7e5dc5b2b476ec3218d
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XV-355, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12016
 
 
 
-12. Tinkamo sąlygų pritaikymo neužtikrinimas yra laikomas šio straipsnio 5 ir [[#^s-be21686065502d0cd7bb2767|9 dalyse]] apibrėžta diskriminacija negalios pagrindu. ^s-29cc7fbfea60016ec6731d9b
+12. Tinkamo sąlygų pritaikymo neužtikrinimas yra laikomas šio straipsnio [[#^s-6c671680569695f1371f5460|5]] ir [[#^s-be21686065502d0cd7bb2767|9]] dalyse apibrėžta diskriminacija negalios pagrindu. ^s-29cc7fbfea60016ec6731d9b
 Papildyta straipsnio dalimi:
 Nr. XV-355, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12016
 
@@ -243,7 +243,7 @@ LYGIŲ GALIMYBIŲ ĮGYVENDINIMAS
 2) vadovautis prieinamumo principais, laikytis prieinamumo reikalavimų ir standartų, juos taikyti praktikoje ir užtikrinti prieinamumą, kad asmenys su negalia galėtų įsigyti prekes ir gauti viešąsias ir administracines paslaugas; ^s-10aec6b11296a8c0387b56f2
 
 
-3) imtis priemonių, kad asmenims su negalia būtų užtikrintas tinkamas sąlygų pritaikymas, kurio reikia konkrečiu atveju asmenims su negalia siekiant gauti administracines ir (ar) viešąsias paslaugas, kai šios dalies 1 ir [[#^s-10aec6b11296a8c0387b56f2|2 punktuose]] nurodytų sąlygų nepakanka. ^s-def396b7cd169f036f8efc37
+3) imtis priemonių, kad asmenims su negalia būtų užtikrintas tinkamas sąlygų pritaikymas, kurio reikia konkrečiu atveju asmenims su negalia siekiant gauti administracines ir (ar) viešąsias paslaugas, kai šios dalies [[#^s-90f158bdffdf2f116b957692|1]] ir [[#^s-10aec6b11296a8c0387b56f2|2]] punktuose nurodytų sąlygų nepakanka. ^s-def396b7cd169f036f8efc37
 
 
 3. Valstybės institucijos priemones lygioms galimybėms užtikrinti numato strateginio planavimo dokumentuose. Savivaldybių institucijos priemones lygioms galimybėms užtikrinti numato savivaldybės strateginiame plėtros plane ir (ar) savivaldybės strateginiame veiklos plane. ^s-8383960f59e43e14d1d3f175
@@ -306,7 +306,7 @@ Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
 Įgyvendindamas lygias galimybes, darbdavys, neatsižvelgdamas į lytį, rasę, tautybę, pilietybę, kalbą, kilmę, socialinę padėtį, tikėjimą, įsitikinimus ar pažiūras, amžių, lytinę orientaciją, negalią, etninę priklausomybę, religiją, privalo:
 
 
-1) priimdamas į darbą, į valstybės tarnybą, taikyti vienodus atrankos kriterijus ir sąlygas, išskyrus šio įstatymo [[#^s-be21686065502d0cd7bb2767|2 straipsnio 9 dalies]] 4 ir [[#^s-06b29bba17f669b999e6ef5f|7 punktuose]] nustatytus atvejus; ^s-4637c8e8a10c0a8773451280
+1) priimdamas į darbą, į valstybės tarnybą, taikyti vienodus atrankos kriterijus ir sąlygas, išskyrus šio įstatymo [[#^s-be21686065502d0cd7bb2767|2 straipsnio 9 dalies]] [[#^s-c5b67349bfc3ffd9f0e3f65a|4]] ir [[#^s-bfe2c75cca2b510ccbfab3f5|7]] punktuose nustatytus atvejus; ^s-4637c8e8a10c0a8773451280
 
 
 2) sudaryti vienodas darbo, valstybės tarnybos sąlygas, galimybes kelti kvalifikaciją, siekti profesinio mokymo, persikvalifikuoti, įgyti praktinio darbo patirties, taip pat teikti vienodas lengvatas; ^s-63955510e11f83fcd5206905
@@ -431,7 +431,7 @@ Lygių galimybių pažeidimu laikomas šiame įstatyme nustatytų pareigų nevyk
 ### 11 straipsnis. Diskriminaciniai skelbimai ^s-29cf896fc7e328980f8118a8
 
 
-Skelbimuose priimti į darbą, valstybės tarnybą arba mokytis draudžiama nurodyti reikalavimus, suteikiančius pirmenybę lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu, išskyrus šio įstatymo [[#^s-be21686065502d0cd7bb2767|2 straipsnio 9 dalies]] 4 ir 7 punktuose nustatytus atvejus.
+Skelbimuose priimti į darbą, valstybės tarnybą arba mokytis draudžiama nurodyti reikalavimus, suteikiančius pirmenybę lyties, rasės, tautybės, pilietybės, kalbos, kilmės, socialinės padėties, tikėjimo, įsitikinimų ar pažiūrų, amžiaus, lytinės orientacijos, negalios, etninės priklausomybės, religijos pagrindu, išskyrus šio įstatymo [[#^s-be21686065502d0cd7bb2767|2 straipsnio 9 dalies]] [[#^s-c5b67349bfc3ffd9f0e3f65a|4]] ir [[#^s-bfe2c75cca2b510ccbfab3f5|7]] punktuose nustatytus atvejus.
 
 
 Straipsnio pakeitimai:
@@ -1003,7 +1003,7 @@ priedas
 5. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/54/ES dėl priemonių, kad darbuotojai galėtų lengviau naudotis laisvo darbuotojų judėjimo teisėmis. ^s-b41b91df119cc4cfed1f2733
 
 
-6. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1158 dėl tėvų ir prižiūrinčiųjų asmenų profesinio ir asmeninio gyvenimo pusiausvyros, kuria panaikinama Tarybos direktyva 2010/18/ES. ^s-cef9baeb6415d08ca117e956
+6. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/1158](https://eur-lex.europa.eu/eli/dir/2019/1158/oj) dėl tėvų ir prižiūrinčiųjų asmenų profesinio ir asmeninio gyvenimo pusiausvyros, kuria panaikinama Tarybos direktyva 2010/18/ES. ^s-cef9baeb6415d08ca117e956
 Papildyta punktu:
 Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
 
@@ -1044,44 +1044,44 @@ Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 [[#^s-d4e7e01c54612
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-618, 2017-07-11, paskelbta TAR 2017-07-24, i. k. 2017-12573
-Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 2, 3, 4, 5, 6, 7, 8, 9, 11, [[#^s-ad23c3e69cc6c7b8cda9678f|13 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 [[#^s-84aea5b9272a6721f373acf3|2]], [[#^s-c8931a36aa391dab4bd0ff55|3]], [[#^s-0e3711bd7c08385de9ac07a1|4]], [[#^s-c4a73deef758a12ee9babd63|5]], [[#^s-2e0ce06b58ddd74e899cf801|6]], [[#^s-f9da87a071a0ae4b3117fab8|7]], [[#^s-410a1e25a211a89805e728d2|8]], [[#^s-ba9fe9186458ed625584be11|9]], [[#^s-29cf896fc7e328980f8118a8|11]], [[#^s-ad23c3e69cc6c7b8cda9678f|13]] straipsnių ir priedo pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1760, 2018-12-11, paskelbta TAR 2018-12-18, i. k. 2018-20741
-Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 1, 16 ir [[#^s-a9687d1a8f9f3059272db9b0|17 straipsnių]] pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 [[#^s-6fb7b95fbbe31e9c90402312|1]], [[#^s-8dac98f3ce44751790851f3c|16]] ir [[#^s-a9687d1a8f9f3059272db9b0|17]] straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2105, 2019-05-07, paskelbta TAR 2019-05-13, i. k. 2019-07642
-Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 1, 16 ir [[#^s-a9687d1a8f9f3059272db9b0|17 straipsnių]] pakeitimo ir Įstatymo papildymo 15-1 straipsniu [[latest/b52da81002c211e9a5eaf2cd290f1944|įstatymo Nr. XIII-1760]] [[#^s-6fb7b95fbbe31e9c90402312|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 [[#^s-6fb7b95fbbe31e9c90402312|1]], [[#^s-8dac98f3ce44751790851f3c|16]] ir [[#^s-a9687d1a8f9f3059272db9b0|17]] straipsnių pakeitimo ir Įstatymo papildymo 15-1 straipsniu [[latest/b52da81002c211e9a5eaf2cd290f1944|įstatymo Nr. XIII-1760]] [[#^s-6fb7b95fbbe31e9c90402312|1 straipsnio]] pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-425, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14588
-Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 24, 27 ir [[#^s-6ce14c8c3b5faf27da2f1957|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 [[#^s-b97b87eadfc03026169cae29|24]], [[#^s-372d969e308196cf53bffb04|27]] ir [[#^s-6ce14c8c3b5faf27da2f1957|29]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1109, 2022-05-19, paskelbta TAR 2022-06-01, i. k. 2022-11867
-Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 2, 4, 6, 7, 8, [[#^s-ba9fe9186458ed625584be11|9 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 [[#^s-84aea5b9272a6721f373acf3|2]], [[#^s-0e3711bd7c08385de9ac07a1|4]], [[#^s-2e0ce06b58ddd74e899cf801|6]], [[#^s-f9da87a071a0ae4b3117fab8|7]], [[#^s-410a1e25a211a89805e728d2|8]], [[#^s-ba9fe9186458ed625584be11|9]] straipsnių ir priedo pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1192, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15183
-Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 2, [[#^s-f9da87a071a0ae4b3117fab8|7 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 [[#^s-84aea5b9272a6721f373acf3|2]], [[#^s-f9da87a071a0ae4b3117fab8|7]] straipsnių ir priedo pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1725, 2022-12-20, paskelbta TAR 2023-01-04, i. k. 2023-00138
-Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 2, 5, 7 ir 15-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 [[#^s-84aea5b9272a6721f373acf3|2]], [[#^s-c4a73deef758a12ee9babd63|5]], [[#^s-f9da87a071a0ae4b3117fab8|7]] ir 15-1 straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1992, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11562
-Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 16, 18, 20, 21 ir [[#^s-6ce14c8c3b5faf27da2f1957|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 [[#^s-8dac98f3ce44751790851f3c|16]], [[#^s-824500f8f10779cf6398d4d6|18]], [[#^s-d5f17477a97c0de9db31bafb|20]], [[#^s-689d5e57c366260747ebe429|21]] ir [[#^s-6ce14c8c3b5faf27da2f1957|29]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-355, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12016
-Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 2, 5, 6, 7, 8, 9 ir 15-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos lygių galimybių įstatymo Nr. IX-1826 [[#^s-84aea5b9272a6721f373acf3|2]], [[#^s-c4a73deef758a12ee9babd63|5]], [[#^s-2e0ce06b58ddd74e899cf801|6]], [[#^s-f9da87a071a0ae4b3117fab8|7]], [[#^s-410a1e25a211a89805e728d2|8]], [[#^s-ba9fe9186458ed625584be11|9]] ir 15-1 straipsnių pakeitimo įstatymas

@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.FA7CC8021E9D#^s-b84716109ce7eba6520c5aeb|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas]] - 3 citatos - 1071010ISTA00X-1234
-- [[latest/TAR.FA7CC8021E9D#^s-cd3d72bf2fa0ce24c84ed100|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas]] - 3 citatos - 1071010ISTA00X-1234
+- [[latest/TAR.FA7CC8021E9D#^s-b84716109ce7eba6520c5aeb|Lietuvos Respublikos asmenų, nukentėjusių nuo 1939-1990 metų okupacijų, teisinio statuso įstatymas]] - 2 citatos - 1071010ISTA00X-1234

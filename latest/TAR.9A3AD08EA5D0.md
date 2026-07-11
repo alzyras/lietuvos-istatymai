@@ -403,7 +403,7 @@ Nr. XII-398, 2013-06-20, Žin., 2013, Nr. 73-3655 (2013-07-09)
 2. Ugdymo turinys kuriamas šio įstatymo [[#^s-5fd967ebbbac7776b0028c4e|3 straipsnyje]] nurodytiems švietimo tikslams įgyvendinti. Konkretus ugdymo turinys kuriamas ir sistemingai atnaujinamas atsižvelgiant į atitinkamos grupės ar tipo mokyklai keliamus ugdymo, mokymo ir studijų tikslus, besikeičiančios socialinės ir kultūrinės aplinkos lemiamus Lietuvos visuomenės poreikius, vietos ir mokyklos bendruomenės reikmes, taip pat mokinių ir studentų turimą patirtį, ugdymosi poreikius ir interesus. ^s-a4fcbb9ed0d879e48534ab15
 
 
-3. Šio straipsnio 1 ir [[#^s-a4fcbb9ed0d879e48534ab15|2 dalyse]] nurodytų reikalavimų laikomasi rengiant ikimokykliniam, priešmokykliniam ugdymui, bendrajam ugdymui, profesiniam mokymui, studijoms aukštosiose mokyklose skirtas švietimo programas ar jų modulius, ugdymo planus ar studijų krypčių reglamentus, mokymosi pasiekimų patikrinimų programas, vadovėlius, virtualiąsias mokymo(si) priemones, kitas mokymo priemones, papildomą ugdymo medžiagą. ^s-84733c98b59e930e08a2e4fd
+3. Šio straipsnio [[#^s-80abe4da1f053baa0f86c2f3|1]] ir [[#^s-a4fcbb9ed0d879e48534ab15|2]] dalyse nurodytų reikalavimų laikomasi rengiant ikimokykliniam, priešmokykliniam ugdymui, bendrajam ugdymui, profesiniam mokymui, studijoms aukštosiose mokyklose skirtas švietimo programas ar jų modulius, ugdymo planus ar studijų krypčių reglamentus, mokymosi pasiekimų patikrinimų programas, vadovėlius, virtualiąsias mokymo(si) priemones, kitas mokymo priemones, papildomą ugdymo medžiagą. ^s-84733c98b59e930e08a2e4fd
 Straipsnio dalies pakeitimai:
 Nr. XIV-2462, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-26033
 
@@ -1096,7 +1096,7 @@ Nr. XV-842, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06951
 2) kitą negu [[#^s-b3cabca6fc21d28488d218aa|šios dalies 1 punkte]] nurodytą viešąją informaciją, kuri pagal Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymą priskirtina neigiamą poveikį nepilnamečiams darančiai informacijai. ^s-47200705b3dd1e7130f0777c
 
 
-3. Ryšių reguliavimo tarnyba, gavusi šio straipsnio 1 ar [[#^s-1f1e9bd46862a713f5f5c346|2 dalyje]] nurodytą pranešimą, pagal kompetenciją įvertina pranešime pateiktą informaciją ir: ^s-3629db85e3ffb8e0ec9ff497
+3. Ryšių reguliavimo tarnyba, gavusi šio straipsnio [[#^s-a139e4d99c5e5e1d812a05e0|1]] ar [[#^s-1f1e9bd46862a713f5f5c346|2]] dalyje nurodytą pranešimą, pagal kompetenciją įvertina pranešime pateiktą informaciją ir: ^s-3629db85e3ffb8e0ec9ff497
 
 
 1) jeigu pranešimas yra susijęs su [[#^s-a139e4d99c5e5e1d812a05e0|šio straipsnio 1 dalyje]] ir (ar) 2 dalies 1 punkte nurodyta informacija, jeigu reikia, apie tai informuoja kompetentingas institucijas (pavyzdžiui, žurnalistų etikos inspektorių, policiją, Vaiko teisių apsaugos kontrolieriaus įstaigą) ir, bendradarbiaudama su jomis ir (ar) kitose valstybėse veikiančiomis nelegalaus ar žalingo turinio internete priežiūrą vykdančiomis kompetentingomis institucijomis ir su pranešimą apie viešą patyčių kibernetinėje erdvėje panaudojus vaizdinę informaciją atvejį pateikusiu asmeniu, siekia, kad [[#^s-a139e4d99c5e5e1d812a05e0|šio straipsnio 1 dalyje]] ir (ar) 2 dalies 1 punkte nurodyta informacija būtų kuo greičiau pašalinta ar būtų panaikinta galimybė ją pasiekti; šiame punkte nurodyti Ryšių reguliavimo tarnybos veiksmai nepaneigia kompetentingų institucijų pareigos pagal kompetenciją išnagrinėti pranešimą teisės aktų nustatyta tvarka; ^s-721ea217629f7b745c782f20
@@ -1120,7 +1120,7 @@ Nr. XV-842, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06951
 5. [[latest/TAR.065AB8483E1E|Visuomenės informavimo įstatymo]] nustatyta tvarka viešosios informacijos rengėjai ir skleidėjai, siekdami prisidėti prie visuomenės švietimo, turi teisę dėti informacinius skydelius, skleisti šviečiamojo turinio informaciją ir socialinę reklamą apie patyčių kibernetinėje erdvėje ir kitos draudžiamos ar ribojamos skleisti informacijos prevenciją, įskaitant ir kreipimosi į Ryšių reguliavimo tarnybą tvarką. ^s-a02681ed931591ad7179bb96
 
 
-6. Už šio straipsnio 1 ar [[#^s-6df00b1da3a49ef124f3e1cd|4 dalyje]] nurodytų reikalavimų nesilaikymą taikomos administracinio poveikio priemonės, numatytos Lietuvos Respublikos administracinių nusižengimų kodekse ir kituose teisės aktuose. ^s-f3929e07ec97906bdf14af84
+6. Už šio straipsnio [[#^s-a139e4d99c5e5e1d812a05e0|1]] ar [[#^s-6df00b1da3a49ef124f3e1cd|4]] dalyje nurodytų reikalavimų nesilaikymą taikomos administracinio poveikio priemonės, numatytos Lietuvos Respublikos administracinių nusižengimų kodekse ir kituose teisės aktuose. ^s-f3929e07ec97906bdf14af84
 
 
 Papildyta straipsniu:
@@ -1240,7 +1240,7 @@ Nr. XV-842, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06951
 ### 27 straipsnis. Galimybė pasirinkti švietimo programas ^s-f5262d1da08bb86de20c728f
 
 
-1. Asmuo, rinkdamasis švietimo programas, laikosi šio įstatymo 7–[[#^s-c56054229ffc4d533cf86b2a|13 straipsniuose]] nustatyto programų nuoseklumo. ^s-288220482fec55c1bb7f5aed
+1. Asmuo, rinkdamasis švietimo programas, laikosi šio įstatymo [[#^s-8ec89d54db65ceab0e3941ac|7]]–[[#^s-c56054229ffc4d533cf86b2a|13]] straipsniuose nustatyto programų nuoseklumo. ^s-288220482fec55c1bb7f5aed
 
 
 2. Mokiniui suteikiama galimybė pagal gebėjimus ir polinkius rinktis švietimo programas, skirtingus jų variantus, švietimo programų modulius, dalykų kursų programas. Mokinys taip pat renkasi švietimo programą vykdančią mokyklą, kitą švietimo teikėją, mokymosi formą. Mokymosi pagal formaliojo švietimo programas (išskyrus aukštojo mokslo studijų programas) formas ir mokymo organizavimo pagal mokymosi formas tvarkos aprašus tvirtina švietimo, mokslo ir sporto ministras. ^s-793eab66f961a089b808fb9e
@@ -1300,7 +1300,7 @@ Nr. XIV-2847, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12156
 7. Vietovėse, kuriose tradiciškai gausiai gyvena tautinė mažuma, jeigu bendruomenė prašo, savivaldybė laiduoja mokymąsi tautinės mažumos kalba arba tautinės mažumos kalbos. ^s-53a2ad09c42e1dc19e0014a5
 
 
-8. Mokyklų (išskyrus aukštąsias mokyklas ir profesinio mokymo įstaigas), vykdančių formaliojo švietimo programas, tinklas kuriamas vadovaujantis šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] 8–14 dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis ir mokyklų bendruomenių nutarimais, jeigu šie neprieštarauja šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] 8–14 dalyse nustatytiems kriterijams ir šioms taisyklėms. Nustatę mokyklų (išskyrus aukštąsias mokyklas ir profesinio mokymo įstaigas), vykdančių formaliojo švietimo programas, tinklo pertvarkos strateginį tikslą, uždavinius, prioritetus ir pagrindinių rezultatų rodiklius, susietus su socialinės atskirties mažinimu, ugdymo kokybe ir (ar) mokinių ugdymosi pasiekimų ir pažangos gerinimu, mokyklų veiklos rezultatais, efektyvesniu lėšų panaudojimu ir kitais kriterijais, vadovaudamiesi šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] 8–14 dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, švietimo, mokslo ir sporto ministras tvirtina ir įgyvendina valstybinių mokyklų, savivaldybės taryba – savivaldybių mokyklų tinklo pertvarkos bendruosius planus. Profesinio mokymo įstaigų tinklas vystomas [[latest/TAR.44FA08A7226F|Profesinio mokymo įstatymo]] nustatyta tvarka. ^s-d799f762b31697fb910db9fa
+8. Mokyklų (išskyrus aukštąsias mokyklas ir profesinio mokymo įstaigas), vykdančių formaliojo švietimo programas, tinklas kuriamas vadovaujantis šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] [[#^s-02c3a7efc75adb4dc531553a|8]]–[[#^s-62f2ca42bd32366f0ee29c04|14]] dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis ir mokyklų bendruomenių nutarimais, jeigu šie neprieštarauja šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] [[#^s-02c3a7efc75adb4dc531553a|8]]–[[#^s-62f2ca42bd32366f0ee29c04|14]] dalyse nustatytiems kriterijams ir šioms taisyklėms. Nustatę mokyklų (išskyrus aukštąsias mokyklas ir profesinio mokymo įstaigas), vykdančių formaliojo švietimo programas, tinklo pertvarkos strateginį tikslą, uždavinius, prioritetus ir pagrindinių rezultatų rodiklius, susietus su socialinės atskirties mažinimu, ugdymo kokybe ir (ar) mokinių ugdymosi pasiekimų ir pažangos gerinimu, mokyklų veiklos rezultatais, efektyvesniu lėšų panaudojimu ir kitais kriterijais, vadovaudamiesi šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] [[#^s-02c3a7efc75adb4dc531553a|8]]–[[#^s-62f2ca42bd32366f0ee29c04|14]] dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, švietimo, mokslo ir sporto ministras tvirtina ir įgyvendina valstybinių mokyklų, savivaldybės taryba – savivaldybių mokyklų tinklo pertvarkos bendruosius planus. Profesinio mokymo įstaigų tinklas vystomas [[latest/TAR.44FA08A7226F|Profesinio mokymo įstatymo]] nustatyta tvarka. ^s-d799f762b31697fb910db9fa
 Straipsnio dalies pakeitimai:
 Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
@@ -1327,7 +1327,7 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 
 
 21. Prašymų dėl priėmimo į valstybines ir savivaldybių mokyklas, vykdančias ikimokyklinio, priešmokyklinio, pradinio, pagrindinio, vidurinio ugdymo programas, pateikimas, mokinių eilės sudarymas, priimtų mokinių sąrašų patvirtinimas, informacijos apie priėmimą į mokyklą pateikimas, kvietimas pasirašyti mokymo sutartį ir jos pasirašymas, mokinių duomenų tvarkymas vykdomi centralizuotai, švietimo, mokslo ir sporto ministro nustatyta tvarka. ^s-78ab1beb67792b9be7ffae71
-TAR pastaba. Straipsnio papildymas [[#^s-78ab1beb67792b9be7ffae71|21  dalimi]] įsigalioja 2026-01-01.
+TAR pastaba. Straipsnio papildymas 21  dalimi įsigalioja 2026-01-01.
 Papildyta straipsnio dalimi:
 Nr. XIII-2894, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10796
 
@@ -1470,7 +1470,7 @@ Nr. XV-842, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06951
 5. Tikybos mokyti pagal formaliojo švietimo programas (išskyrus aukštojo mokslo studijų programas) gali asmuo, įgijęs aukštąjį arba aukštesnįjį išsilavinimą ir pedagogo kvalifikaciją arba turintis tam reikalingą specialųjį pasirengimą. Toks asmuo privalo turėti tradicinės religinės bendruomenės ar bendrijos vadovybės nustatyta tvarka išduotą leidimą (siuntimą) mokyti tikybos. ^s-54c3a0f9b9d2b6f0989facdd
 
 
-6. Mokykla, negalinti užtikrinti mokinių ar jų tėvų (globėjų, rūpintojų) pageidaujamos tradicinės religinės bendruomenės ar bendrijos tikybos mokymo, įskaito mokiniui tikybos mokymą sekmadieninėje mokykloje ar kitoje tikybos mokymo grupėje pagal šio straipsnio 4 ir [[#^s-54c3a0f9b9d2b6f0989facdd|5 dalyse]] nustatytus reikalavimus. ^s-0a376021a85d5f43e2603fe0
+6. Mokykla, negalinti užtikrinti mokinių ar jų tėvų (globėjų, rūpintojų) pageidaujamos tradicinės religinės bendruomenės ar bendrijos tikybos mokymo, įskaito mokiniui tikybos mokymą sekmadieninėje mokykloje ar kitoje tikybos mokymo grupėje pagal šio straipsnio [[#^s-db063e296c2d827430e56892|4]] ir [[#^s-54c3a0f9b9d2b6f0989facdd|5]] dalyse nustatytus reikalavimus. ^s-0a376021a85d5f43e2603fe0
 
 
 7. Tikybai mokyti ir tikybos programą papildantiems bei mokinių saviraiškos poreikius tenkinantiems šios programos moduliams vykdyti sudaromos tokios pačios sąlygos kaip ir kitiems mokomiesiems pasirenkamiesiems dalykams mokyti bei jų programas papildantiems ir mokinių saviraiškos poreikius tenkinantiems šių programų moduliams vykdyti. ^s-312f743a8b144929503c038a
@@ -1577,7 +1577,7 @@ Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
 
 
 3. Studentai, profesinio mokymo įstaigų mokiniai, kurie mokosi pagal pirminio profesinio mokymo programas, ir neformaliojo vaikų švietimo mokyklų mokiniai į mokyklą vežami vietinio (miesto) ir (ar) tolimojo susisiekimo transportu. Kelionės į mokyklą ir atgal lengvatos jiems suteikiamos ir išlaidos kompensuojamos [[latest/TAR.033D686E8F1B|Transporto lengvatų įstatymo]] nustatyta tvarka ir atvejais. ^s-e96008cf3deee634e3198819
-TAR pastaba. [[#^s-e96008cf3deee634e3198819|3 dalis]] netenka galios 2024-09-01.
+TAR pastaba. 3 dalis netenka galios 2024-09-01.
 Straipsnio dalies pakeitimai:
 Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
 
@@ -1908,13 +1908,13 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 1) Seimas – valstybinį universitetą Vyriausybės teikimu; ^s-d0c1869e89a26203f02b5bec
 
 
-2) Vyriausybė – Švietimo, mokslo ir sporto ministerijos teikimu – valstybinę kolegiją, profesinio mokymo įstaigą, neformaliojo švietimo mokyklą, pagalbos įstaigą, prireikus, vadovaudamasi šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] 8–14 dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, – bendrojo ugdymo mokyklą, Krašto apsaugos ministerijos teikimu, vadovaudamasi šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] 8, 10 ir 13 dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, – valstybinę kadetų ugdymo mokyklą, Vyriausybės įstaigų, įstaigų prie ministerijų teikimu – neformaliojo suaugusiųjų švietimo mokyklą; ^s-31b5cb1478659044cb167ae6
+2) Vyriausybė – Švietimo, mokslo ir sporto ministerijos teikimu – valstybinę kolegiją, profesinio mokymo įstaigą, neformaliojo švietimo mokyklą, pagalbos įstaigą, prireikus, vadovaudamasi šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] [[#^s-02c3a7efc75adb4dc531553a|8]]–[[#^s-62f2ca42bd32366f0ee29c04|14]] dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, – bendrojo ugdymo mokyklą, Krašto apsaugos ministerijos teikimu, vadovaudamasi šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] [[#^s-02c3a7efc75adb4dc531553a|8]], [[#^s-05e4b73fb7a2a7b17000164c|10]] ir [[#^s-a36f82ec00da631fa3624ffb|13]] dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, – valstybinę kadetų ugdymo mokyklą, Vyriausybės įstaigų, įstaigų prie ministerijų teikimu – neformaliojo suaugusiųjų švietimo mokyklą; ^s-31b5cb1478659044cb167ae6
 Straipsnio punkto pakeitimai:
 Nr. XIV-2678, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10552
 
 
 
-3) savivaldybės taryba – neformaliojo švietimo mokyklas, pagalbos įstaigas – savarankiškai, bendrojo ugdymo mokyklas – vadovaudamasi [[latest/TAR.D0CD0966D67F#^s-51433a43beba5812c4887c25|Vietos savivaldos įstatymu, šio įstatymo 43 straipsnio]] 8–14 dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, profesinio mokymo įstaigas, kurių teisinė forma – viešoji įstaiga; ^s-43c9ffd0566bb84d00efcfa6
+3) savivaldybės taryba – neformaliojo švietimo mokyklas, pagalbos įstaigas – savarankiškai, bendrojo ugdymo mokyklas – vadovaudamasi [[latest/TAR.D0CD0966D67F#^s-51433a43beba5812c4887c25|Vietos savivaldos įstatymu, šio įstatymo 43 straipsnio]] [[latest/TAR.D0CD0966D67F|8]]–[[latest/TAR.D0CD0966D67F|14]] dalyse nustatytais kriterijais ir Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, profesinio mokymo įstaigas, kurių teisinė forma – viešoji įstaiga; ^s-43c9ffd0566bb84d00efcfa6
 
 
 4) kiti Lietuvos Respublikoje įsteigti juridiniai asmenys, taip pat valstybės narės juridiniai asmenys ar kitos organizacijos, fiziniai asmenys, kitų valstybių juridiniai ir fiziniai asmenys – bendrojo ugdymo, neformaliojo švietimo mokyklas, profesinio mokymo įstaigas, aukštąsias mokyklas, pagalbos įstaigas. ^s-bf529b04aa8e9e49ced29a9e
@@ -2102,7 +2102,7 @@ Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 
 
 
-13. Šio straipsnio 9, 10 ir [[#^s-f29f4874360e6e76a27e8857|12 dalyse]] nurodytos mokyklos, jeigu jos yra skirtos šalies (regiono) mokiniams, turi atitikti šiuos papildomus kriterijus: ^s-a36f82ec00da631fa3624ffb
+13. Šio straipsnio [[#^s-3ac3799c0615f074ef62a580|9]], [[#^s-05e4b73fb7a2a7b17000164c|10]] ir [[#^s-f29f4874360e6e76a27e8857|12]] dalyse nurodytos mokyklos, jeigu jos yra skirtos šalies (regiono) mokiniams, turi atitikti šiuos papildomus kriterijus: ^s-a36f82ec00da631fa3624ffb
 
 
 1) priima mokinius iš šalies (regiono) teritorijos; ^s-ac008edddd4efab224f5d83a
@@ -2111,7 +2111,7 @@ Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 2) turi mokyklos bendrabutį arba turi galimybę mokinius apgyvendinti bendrabutyje, arba užtikrina jų vežimą į mokyklą ir atgal; ^s-22b11b32d6fa1b413b82478f
 
 
-3) šio straipsnio 9 ir [[#^s-f29f4874360e6e76a27e8857|12 dalyse]] nurodytų mokyklų steigimo, reorganizavimo, likvidavimo, pertvarkymo ir struktūros pertvarkos plano projektas suderintas su švietimo, mokslo ir sporto ministru, o [[#^s-05e4b73fb7a2a7b17000164c|šio straipsnio 10 dalyje]] nurodytų savivaldybės kadetų ugdymo mokyklų – su švietimo, mokslo ir sporto ministru ir su krašto apsaugos ministru. ^s-e01f2a6c7cc47bf5cd62ef81
+3) šio straipsnio [[#^s-3ac3799c0615f074ef62a580|9]] ir [[#^s-f29f4874360e6e76a27e8857|12]] dalyse nurodytų mokyklų steigimo, reorganizavimo, likvidavimo, pertvarkymo ir struktūros pertvarkos plano projektas suderintas su švietimo, mokslo ir sporto ministru, o [[#^s-05e4b73fb7a2a7b17000164c|šio straipsnio 10 dalyje]] nurodytų savivaldybės kadetų ugdymo mokyklų – su švietimo, mokslo ir sporto ministru ir su krašto apsaugos ministru. ^s-e01f2a6c7cc47bf5cd62ef81
 Straipsnio punkto pakeitimai:
 Nr. XIV-2678, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10552
 
@@ -2130,7 +2130,7 @@ Nr. XV-842, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06951
 
 
 
-15. Šio straipsnio 8–[[#^s-62f2ca42bd32366f0ee29c04|14 dalyse]] nurodytų kriterijų kiekybinės ir kokybinės reikšmės nustatomos Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse. Jeigu mokykla, vykdanti bendrojo ugdymo programas, neatitinka bent vieno [[#^s-02c3a7efc75adb4dc531553a|šio straipsnio 8 dalies]] 1–6 punktuose ir 9–[[#^s-62f2ca42bd32366f0ee29c04|14 dalyse]] nustatytų kriterijų ir per švietimo, mokslo ir sporto ministro įgaliotos institucijos nustatytą, atsižvelgiant į pažeidimų pobūdį, terminą nepašalina neatitikties nustatytiems kriterijams, Vyriausybės nustatyta tvarka stabdomas bendrojo ugdymo programos ar jos dalies vykdymas šioje mokykloje. Jeigu mokykla, vykdanti bendrojo ugdymo programas, neatitinka bent vieno [[#^s-02c3a7efc75adb4dc531553a|šio straipsnio 8 dalies]] 7 ir 8 punktuose nustatytų kriterijų, mokymo lėšos iš valstybės biudžeto jai neskiriamos arba mažinamos, vadovaujantis šio įstatymo [[#^s-7f364aae80415888ca814e95|67 straipsnio]] 11 ir [[#^s-f29f4874360e6e76a27e8857|12 dalimis]]. ^s-b2bc94223dae8c786b54308c
+15. Šio straipsnio [[#^s-02c3a7efc75adb4dc531553a|8]]–[[#^s-62f2ca42bd32366f0ee29c04|14]] dalyse nurodytų kriterijų kiekybinės ir kokybinės reikšmės nustatomos Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse. Jeigu mokykla, vykdanti bendrojo ugdymo programas, neatitinka bent vieno [[#^s-02c3a7efc75adb4dc531553a|šio straipsnio 8 dalies]] 1–6 punktuose ir [[#^s-3ac3799c0615f074ef62a580|9]]–[[#^s-62f2ca42bd32366f0ee29c04|14]] dalyse nustatytų kriterijų ir per švietimo, mokslo ir sporto ministro įgaliotos institucijos nustatytą, atsižvelgiant į pažeidimų pobūdį, terminą nepašalina neatitikties nustatytiems kriterijams, Vyriausybės nustatyta tvarka stabdomas bendrojo ugdymo programos ar jos dalies vykdymas šioje mokykloje. Jeigu mokykla, vykdanti bendrojo ugdymo programas, neatitinka bent vieno [[#^s-02c3a7efc75adb4dc531553a|šio straipsnio 8 dalies]] 7 ir 8 punktuose nustatytų kriterijų, mokymo lėšos iš valstybės biudžeto jai neskiriamos arba mažinamos, vadovaujantis šio įstatymo [[#^s-7f364aae80415888ca814e95|67 straipsnio]] 11 ir 12 dalimis. ^s-b2bc94223dae8c786b54308c
 Papildyta straipsnio dalimi:
 Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 
@@ -2250,13 +2250,13 @@ Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 ### 44 straipsnis. Mokyklos, pagalbos įstaigos pabaiga ir pertvarkymas ^s-9ecd0ad3e5f74a4323794296
 
 
-1. Valstybinės profesinio mokymo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) mokyklą reorganizuoja, likviduoja ar pertvarko [[latest/TAR.44FA08A7226F|Profesinio mokymo įstatymo]] nustatyta tvarka, bendrojo ugdymo mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) mokyklą reorganizuoja, likviduoja ar pertvarko vadovaudamasi šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] 8–14 dalyse nustatytais kriterijais, Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis. Valstybines neformaliojo švietimo mokyklas, pagalbos įstaigas reorganizuoja, likviduoja, pertvarko jų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas). ^s-5682072104743f21683364f9
+1. Valstybinės profesinio mokymo įstaigos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) mokyklą reorganizuoja, likviduoja ar pertvarko [[latest/TAR.44FA08A7226F|Profesinio mokymo įstatymo]] nustatyta tvarka, bendrojo ugdymo mokyklos savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas) mokyklą reorganizuoja, likviduoja ar pertvarko vadovaudamasi šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] [[#^s-02c3a7efc75adb4dc531553a|8]]–[[#^s-62f2ca42bd32366f0ee29c04|14]] dalyse nustatytais kriterijais, Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis. Valstybines neformaliojo švietimo mokyklas, pagalbos įstaigas reorganizuoja, likviduoja, pertvarko jų savininko teises ir pareigas įgyvendinanti institucija (dalyvių susirinkimas). ^s-5682072104743f21683364f9
 Straipsnio dalies pakeitimai:
 Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 
 
 
-2. Savivaldybės taryba neformaliojo švietimo mokyklas (biudžetines įstaigas), pagalbos įstaigas (biudžetines įstaigas) reorganizuoja, likviduoja ar pertvarko savarankiškai, bendrojo ugdymo mokyklas (biudžetines įstaigas) – vadovaudamasi šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] 8–14 dalyse nustatytais kriterijais, Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis. Savivaldybės neformaliojo švietimo mokyklos (viešosios įstaigos), pagalbos įstaigos (viešosios įstaigos) reorganizuojamos, likviduojamos ar pertvarkomos jų savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, bendrojo ugdymo mokyklos (viešosios įstaigos) – jų savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, vadovaujantis šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] 8–14 dalyse nustatytais kriterijais, Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, profesinio mokymo įstaigos (viešosios įstaigos) – jų savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, vadovaujantis [[latest/TAR.44FA08A7226F|Profesinio mokymo įstatymu]]. Kai savivaldybės tarybos ar dalyvių susirinkimo sprendimų projektai dėl bendrojo ugdymo mokyklų reorganizavimo, likvidavimo ir pertvarkymo prieštarauja mokyklos bendruomenės sprendimams, siūlymus dėl tokios mokyklos reorganizavimo, likvidavimo ir pertvarkymo pateikia švietimo, mokslo ir sporto ministro įgaliota institucija. Mokyklos bendruomenės sprendimų priėmimo tvarką nustato švietimo, mokslo ir sporto ministras. ^s-b9fa7f66f14957d94ab779d8
+2. Savivaldybės taryba neformaliojo švietimo mokyklas (biudžetines įstaigas), pagalbos įstaigas (biudžetines įstaigas) reorganizuoja, likviduoja ar pertvarko savarankiškai, bendrojo ugdymo mokyklas (biudžetines įstaigas) – vadovaudamasi šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] [[#^s-02c3a7efc75adb4dc531553a|8]]–[[#^s-62f2ca42bd32366f0ee29c04|14]] dalyse nustatytais kriterijais, Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis. Savivaldybės neformaliojo švietimo mokyklos (viešosios įstaigos), pagalbos įstaigos (viešosios įstaigos) reorganizuojamos, likviduojamos ar pertvarkomos jų savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, bendrojo ugdymo mokyklos (viešosios įstaigos) – jų savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, vadovaujantis šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] [[#^s-02c3a7efc75adb4dc531553a|8]]–[[#^s-62f2ca42bd32366f0ee29c04|14]] dalyse nustatytais kriterijais, Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis, profesinio mokymo įstaigos (viešosios įstaigos) – jų savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo) sprendimu, vadovaujantis [[latest/TAR.44FA08A7226F|Profesinio mokymo įstatymu]]. Kai savivaldybės tarybos ar dalyvių susirinkimo sprendimų projektai dėl bendrojo ugdymo mokyklų reorganizavimo, likvidavimo ir pertvarkymo prieštarauja mokyklos bendruomenės sprendimams, siūlymus dėl tokios mokyklos reorganizavimo, likvidavimo ir pertvarkymo pateikia švietimo, mokslo ir sporto ministro įgaliota institucija. Mokyklos bendruomenės sprendimų priėmimo tvarką nustato švietimo, mokslo ir sporto ministras. ^s-b9fa7f66f14957d94ab779d8
 Straipsnio dalies pakeitimai:
 Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
@@ -2267,7 +2267,7 @@ Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 3. Nevalstybinė mokykla, nevalstybinė pagalbos įstaiga reorganizuojama, likviduojama ar pertvarkoma savininko (dalyvių susirinkimo) sprendimu ar kitais įstatymų nustatytais atvejais. ^s-c29450bc24cb5969956c009e
 
 
-4. Mokyklos (išskyrus aukštąsias mokyklas) struktūros pertvarka – mokyklos grupės ar tipo pakeitimas arba vykdomos organizacinės veiklos pakeitimai (klasių, grupių, skyrių, filialų steigimas ar likvidavimas, mokymo valstybine kalba ar tautinės mažumos kalba įvedimas ar pabaiga mokykloje, mokyklos paskirties keitimas) – vykdoma valstybinės ar savivaldybės mokyklos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo), kitų mokyklų – jų savininko (dalyvių susirinkimo) sprendimu, jeigu įstatymai, nustatantys juridinių asmenų teisines formas, nenustato kitaip. Mokyklų (išskyrus aukštąsias mokyklas), vykdančių formaliojo švietimo programas, struktūros pertvarka vykdoma vadovaujantis šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] 8–14 dalyse nustatytais kriterijais, Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis. Valstybinės mokyklos (išskyrus profesinio mokymo įstaigas) grupės ar tipo pakeitimas atliekamas gavus švietimo, mokslo ir sporto ministro rašytinį sutikimą. ^s-0abfff39d69685c92caa560a
+4. Mokyklos (išskyrus aukštąsias mokyklas) struktūros pertvarka – mokyklos grupės ar tipo pakeitimas arba vykdomos organizacinės veiklos pakeitimai (klasių, grupių, skyrių, filialų steigimas ar likvidavimas, mokymo valstybine kalba ar tautinės mažumos kalba įvedimas ar pabaiga mokykloje, mokyklos paskirties keitimas) – vykdoma valstybinės ar savivaldybės mokyklos savininko teises ir pareigas įgyvendinančios institucijos (dalyvių susirinkimo), kitų mokyklų – jų savininko (dalyvių susirinkimo) sprendimu, jeigu įstatymai, nustatantys juridinių asmenų teisines formas, nenustato kitaip. Mokyklų (išskyrus aukštąsias mokyklas), vykdančių formaliojo švietimo programas, struktūros pertvarka vykdoma vadovaujantis šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] [[#^s-02c3a7efc75adb4dc531553a|8]]–[[#^s-62f2ca42bd32366f0ee29c04|14]] dalyse nustatytais kriterijais, Vyriausybės patvirtintomis Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėmis. Valstybinės mokyklos (išskyrus profesinio mokymo įstaigas) grupės ar tipo pakeitimas atliekamas gavus švietimo, mokslo ir sporto ministro rašytinį sutikimą. ^s-0abfff39d69685c92caa560a
 Straipsnio dalies pakeitimai:
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
@@ -2573,13 +2573,13 @@ Nr. XV-842, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06951
 
 
 
-4. Asmuo, kuris yra įgijęs kvalifikaciją valstybėje narėje arba Šveicarijos Konfederacijoje, kuriam [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo]] nustatyta tvarka pripažinta atitinkama kvalifikacija ir kuris atitinka šio straipsnio 1 ir [[#^s-2da08769958f5d7fd6fa999e|3 dalyse]] nustatytus reikalavimus, gali dirbti mokytoju Lietuvoje. ^s-a91f48c120e3b5b9fc6e32bc
+4. Asmuo, kuris yra įgijęs kvalifikaciją valstybėje narėje arba Šveicarijos Konfederacijoje, kuriam [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo]] nustatyta tvarka pripažinta atitinkama kvalifikacija ir kuris atitinka šio straipsnio [[latest/TAR.074B2F6259F9|1]] ir [[latest/TAR.074B2F6259F9|3]] dalyse nustatytus reikalavimus, gali dirbti mokytoju Lietuvoje. ^s-a91f48c120e3b5b9fc6e32bc
 
 
-5. Asmuo, kuris yra įgijęs kvalifikaciją užsienio valstybėje, išskyrus kvalifikaciją, įgytą valstybėje narėje arba Šveicarijos Konfederacijoje, kuriam Vyriausybės nustatyta tvarka pripažinta atitinkama kvalifikacija ir kuris atitinka šio straipsnio 1 ir [[#^s-2da08769958f5d7fd6fa999e|3 dalyse]] nustatytus reikalavimus, gali dirbti mokytoju Lietuvoje. ^s-2b755175fa7c9f902fb4bb82
+5. Asmuo, kuris yra įgijęs kvalifikaciją užsienio valstybėje, išskyrus kvalifikaciją, įgytą valstybėje narėje arba Šveicarijos Konfederacijoje, kuriam Vyriausybės nustatyta tvarka pripažinta atitinkama kvalifikacija ir kuris atitinka šio straipsnio [[#^s-5792f25d4d537c70c1e333d1|1]] ir [[#^s-2da08769958f5d7fd6fa999e|3]] dalyse nustatytus reikalavimus, gali dirbti mokytoju Lietuvoje. ^s-2b755175fa7c9f902fb4bb82
 
 
-6. Jeigu kiti įstatymai mokytojams nustato kitokius reikalavimus, negu numatyti šio straipsnio 1 ir [[#^s-2da08769958f5d7fd6fa999e|3 dalyse]], taikomi kituose įstatymuose nustatyti reikalavimai. ^s-50fef77d3e92c28683912bbb
+6. Jeigu kiti įstatymai mokytojams nustato kitokius reikalavimus, negu numatyti šio straipsnio [[#^s-5792f25d4d537c70c1e333d1|1]] ir [[#^s-2da08769958f5d7fd6fa999e|3]] dalyse, taikomi kituose įstatymuose nustatyti reikalavimai. ^s-50fef77d3e92c28683912bbb
 
 
 7. Mokykloje Lietuvos Respublikos teisės aktų ir tarptautinių sutarčių nustatyta tvarka gali dirbti užsienio valstybės pilietis ar asmuo be pilietybės. ^s-600ba59ccf895dbc6f78c5ec
@@ -2588,7 +2588,7 @@ Nr. XV-842, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06951
 8. Mokytoju negali dirbti asmuo: ^s-b5d541f5e29690dcd174ec9d
 
 
-1) neatitinkantis šio straipsnio 1, 3, 4, 5 ir [[#^s-50fef77d3e92c28683912bbb|6 dalyse]] nustatytų reikalavimų; ^s-033c8066e800421eb25f6dec
+1) neatitinkantis šio straipsnio [[#^s-5792f25d4d537c70c1e333d1|1]], [[#^s-2da08769958f5d7fd6fa999e|3]], [[#^s-a91f48c120e3b5b9fc6e32bc|4]], [[#^s-2b755175fa7c9f902fb4bb82|5]] ir [[#^s-50fef77d3e92c28683912bbb|6]] dalyse nustatytų reikalavimų; ^s-033c8066e800421eb25f6dec
 
 
 2) kuris pagal šio įstatymo 51 straipsnį negali būti laikomas nepriekaištingos reputacijos; ^s-a3332da112c30cfcfba6b941
@@ -2976,7 +2976,7 @@ Nr. XV-606, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20818
 2. Švietimo, mokslo ir sporto ministras: ^s-09da5cb014b7329c82ce8457
 
 
-1) tvirtina tvarkos aprašą, kuriuo nustatoma mokyklų, siekiančių pradėti vykdyti vidurinio ugdymo programą, atitikties nustatymo šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] 8–14 dalyse nustatytiems kriterijams tvarka; nustato prevencinių programų kriterijus ir atitikties jiems vertinimo tvarką; kas dveji metai atnaujina ir iki einamųjų metų kovo 1 dienos tvirtina bendruosius ugdymo planus; ^s-b14d614c1eab5efb85fff14d
+1) tvirtina tvarkos aprašą, kuriuo nustatoma mokyklų, siekiančių pradėti vykdyti vidurinio ugdymo programą, atitikties nustatymo šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] [[#^s-02c3a7efc75adb4dc531553a|8]]–[[#^s-62f2ca42bd32366f0ee29c04|14]] dalyse nustatytiems kriterijams tvarka; nustato prevencinių programų kriterijus ir atitikties jiems vertinimo tvarką; kas dveji metai atnaujina ir iki einamųjų metų kovo 1 dienos tvirtina bendruosius ugdymo planus; ^s-b14d614c1eab5efb85fff14d
 Straipsnio punkto pakeitimai:
 Nr. XV-842, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06951
 
@@ -3091,7 +3091,7 @@ Nr. XIII-3266, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15540
 4) atlieka valstybinę švietimo teikėjų (išskyrus aukštąsias mokyklas) veiklos priežiūrą; ^s-35d448a85d8b891f56bc2c49
 
 
-5) vykdo mokyklų, siekiančių vykdyti vidurinio ugdymo programą, atitikties šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] 8–14 dalyse nustatytiems kriterijams nustatymą; ^s-862ae8b5df2781f5ba3b750d
+5) vykdo mokyklų, siekiančių vykdyti vidurinio ugdymo programą, atitikties šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] [[#^s-02c3a7efc75adb4dc531553a|8]]–[[#^s-62f2ca42bd32366f0ee29c04|14]] dalyse nustatytiems kriterijams nustatymą; ^s-862ae8b5df2781f5ba3b750d
 Straipsnio punkto pakeitimai:
 Nr. XV-842, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06951
 
@@ -3183,7 +3183,7 @@ Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
 2) organizuoja ikimokyklinį ugdymą, priešmokyklinį ugdymą, bendrąjį ugdymą, profesinį mokymą ir profesinį orientavimą, kitą vaikų neformalųjį švietimą, suaugusiųjų neformalųjį švietimą; ^s-379f513dcc0b6f0385878764
 
 
-3) organizuoja ir koordinuoja švietimo pagalbos teikimą mokiniui, mokytojui, šeimai, mokyklai, vaiko minimalios priežiūros priemonių vykdymą, užtikrina prevencinių programų mokyklose įgyvendinimą, sudaro sutartis su psichologinės pagalbos teikėjais, teikiančiais švietimo pagalbą šio įstatymo [[#^s-f98964db4a85b65d49d4e559|231 straipsnio]] 6 ir 7 dalyse nurodytais atvejais; ^s-886afc6f6dc04894b34ca861
+3) organizuoja ir koordinuoja švietimo pagalbos teikimą mokiniui, mokytojui, šeimai, mokyklai, vaiko minimalios priežiūros priemonių vykdymą, užtikrina prevencinių programų mokyklose įgyvendinimą, sudaro sutartis su psichologinės pagalbos teikėjais, teikiančiais švietimo pagalbą šio įstatymo [[#^s-f98964db4a85b65d49d4e559|231 straipsnio]] [[#^s-614a9dbc759ba6b76f5dacb6|6]] ir [[#^s-bf78f8866119cfee3994535e|7]] dalyse nurodytais atvejais; ^s-886afc6f6dc04894b34ca861
 Straipsnio punkto pakeitimai:
 Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
 Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
@@ -3217,7 +3217,7 @@ Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 8) organizuoja savivaldybės teritorijoje esančių mokyklų mokinių mokymosi pasiekimų patikrinimus; ^s-f48e91ac2fac281c426d1ee2
 
 
-9) įstatymų nustatyta tvarka atsako, kad kiekvienas jos teritorijoje gyvenantis mokinys būtų vežamas į mokyklą ir atgal, pagal šio įstatymo [[#^s-adfc16bed5f65fee02eff16a|36 straipsnio]] 1 ir [[#^s-00619f3cfbfc8abe70fbb2e9|2 dalis]] organizuoja nemokamą mokinių vežimą į mokyklas; ^s-e4b82de766bbc63c48721cd9
+9) įstatymų nustatyta tvarka atsako, kad kiekvienas jos teritorijoje gyvenantis mokinys būtų vežamas į mokyklą ir atgal, pagal šio įstatymo [[#^s-adfc16bed5f65fee02eff16a|36 straipsnio]] [[#^s-b230ac13272a1fc46f6693d8|1]] ir [[#^s-11ff23ed68e628aaa98ac8a0|2]] dalis organizuoja nemokamą mokinių vežimą į mokyklas; ^s-e4b82de766bbc63c48721cd9
 
 
 10) teikia informaciją Švietimo, mokslo ir sporto ministerijai ir visuomenei apie švietimo būklę savivaldybėje. ^s-d7242d6592f0c7cfa3233d58
@@ -3537,7 +3537,7 @@ Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
 2) valstybinėms ar savivaldybių mokykloms, vykdančioms bendrojo ugdymo programas, kuriose mokinių skaičius neatitinka šio įstatymo [[#^s-df81d38889c1683ae8b3bf29|43 straipsnio 8 dalies 8 punkte]] nurodyto leidžiamo mažiausio mokinių skaičiaus mokykloje kriterijaus; ^s-8d1c66c18a7b81808ab24e31
 
 
-3) mokyklų klasėms, kuriose ugdoma pagal bendrojo ugdymo programas ir kuriose šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] 15 ir 16 dalyse nurodytais atvejais yra sustabdytas bendrojo ugdymo programos ar jos dalies vykdymas. ^s-9b107b5cf95fcb7ce4b1de15
+3) mokyklų klasėms, kuriose ugdoma pagal bendrojo ugdymo programas ir kuriose šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] [[#^s-b2bc94223dae8c786b54308c|15]] ir [[#^s-5d25c259ee21f229e1cb6a8a|16]] dalyse nurodytais atvejais yra sustabdytas bendrojo ugdymo programos ar jos dalies vykdymas. ^s-9b107b5cf95fcb7ce4b1de15
 Straipsnio punkto pakeitimai:
 Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 
@@ -3580,7 +3580,7 @@ Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
 4. Ūkio lėšos mokykloms (išskyrus aukštąsias mokyklas) skiriamos: ^s-f542d656e8d835ceb77214e1
 
 
-1) savivaldybių mokykloms (klasėms arba grupėms), skirtoms šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, savivaldybių kadetų ugdymo mokykloms, skirtoms šalies (regiono) mokiniams ir atitinkančioms Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytą paskirtį ir šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] 8, 9, 10, 12 ir 13 dalyse nustatytus kriterijus, taip pat savivaldybių mokykloms (klasėms arba grupėms), skirtoms šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, ir vykdančioms ikimokyklinio ir priešmokyklinio ugdymo programas, skiriamos iš Lietuvos Respublikos atitinkamų metų valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams pagal Vyriausybės patvirtintą metodiką ir iš savivaldybių biudžetų asignavimų; ^s-6f7376e9f38587ddfc40523f
+1) savivaldybių mokykloms (klasėms arba grupėms), skirtoms šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, savivaldybių kadetų ugdymo mokykloms, skirtoms šalies (regiono) mokiniams ir atitinkančioms Vyriausybės patvirtintose Mokyklų, vykdančių formaliojo švietimo programas, tinklo kūrimo taisyklėse nustatytą paskirtį ir šio įstatymo [[#^s-8630e394e42e39259369167c|43 straipsnio]] [[#^s-02c3a7efc75adb4dc531553a|8]], [[#^s-3ac3799c0615f074ef62a580|9]], [[#^s-05e4b73fb7a2a7b17000164c|10]], [[#^s-f29f4874360e6e76a27e8857|12]] ir [[#^s-a36f82ec00da631fa3624ffb|13]] dalyse nustatytus kriterijus, taip pat savivaldybių mokykloms (klasėms arba grupėms), skirtoms šalies (regiono) mokiniams, turintiems specialiųjų ugdymosi poreikių, ir vykdančioms ikimokyklinio ir priešmokyklinio ugdymo programas, skiriamos iš Lietuvos Respublikos atitinkamų metų valstybės biudžeto specialiųjų tikslinių dotacijų savivaldybių biudžetams pagal Vyriausybės patvirtintą metodiką ir iš savivaldybių biudžetų asignavimų; ^s-6f7376e9f38587ddfc40523f
 Straipsnio punkto pakeitimai:
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
 Nr. XIV-2310, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24178
@@ -3811,7 +3811,7 @@ INFORMACINĖS SISTEMOS IR REGISTRAI
 ### 74 straipsnis. Bendrosios informacinių sistemų duomenų tvarkymo sąlygos ^s-6ae257f5797c907b3e0d8a77
 
 
-1. Studijų, mokymo programų ir kvalifikacijų registro, Mokinių registro, Studentų registro, Pedagogų registro, Švietimo ir mokslo institucijų registro, Išsilavinimo pažymėjimų blankų registro, Diplomų, atestatų ir kvalifikacijos pažymėjimų registro, Neformaliojo švietimo programų registro, Licencijų registro, Sporto registro informacinių sistemų ir Švietimo valdymo informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. Šių informacinių sistemų duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) [[#^s-148363a96efee5669bf73623|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-ee5e3e1fc4d7fa78037f6eb8|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų, atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-4c4f5823d86f92ecfbc39bdb
+1. Studijų, mokymo programų ir kvalifikacijų registro, Mokinių registro, Studentų registro, Pedagogų registro, Švietimo ir mokslo institucijų registro, Išsilavinimo pažymėjimų blankų registro, Diplomų, atestatų ir kvalifikacijos pažymėjimų registro, Neformaliojo švietimo programų registro, Licencijų registro, Sporto registro informacinių sistemų ir Švietimo valdymo informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. Šių informacinių sistemų duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) [[#^s-148363a96efee5669bf73623|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-ee5e3e1fc4d7fa78037f6eb8|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų, atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-4c4f5823d86f92ecfbc39bdb
 
 
 2. Studijų, mokymo programų ir kvalifikacijų registro, Mokinių registro, Studentų registro, Pedagogų registro, Švietimo ir mokslo institucijų registro, Išsilavinimo pažymėjimų blankų registro, Diplomų, atestatų ir kvalifikacijos pažymėjimų registro, Neformaliojo švietimo programų registro, Licencijų registro, Sporto registro informacinių sistemų ir Švietimo valdymo informacinės sistemos duomenys, išskyrus asmens duomenis, įskaitant specialiųjų kategorijų asmens duomenis, duomenis, susijusius su valstybės ar tarnybos paslaptimi, galimybe identifikuoti asmenis, taip pat duomenis, sudarančius juridinio asmens konfidencialią informaciją ar galinčius atskleisti jo komercinę (verslo) paslaptį, yra atveriami pakartotinai naudoti. ^s-663b4a7e0d33b4c940df1b35
@@ -4052,8 +4052,8 @@ Nr. X-1210, 2007-06-26, Žin., 2007, Nr. 77-3045 (2007-07-12)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1266, 2007-07-04, Žin., 2007, Nr. 81-3324 (2007-07-21)
 [[latest/TAR.BC49291ED2F0|ŠVIETIMO ĮSTATYMO 41, 47 IR 49 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-Šio įstatymo [[#^s-88a82be9e49d64268e736976|1 straipsnio]] 1 ir 5 dalys įsigalioja 2007 m. rugpjūčio 1 d.
-Šio įstatymo [[#^s-88a82be9e49d64268e736976|1 straipsnio]] 2, 3, 4 dalys ir 2, [[#^s-5fd967ebbbac7776b0028c4e|3 straipsniai]] įsigalioja 2008 m. sausio 1 d.
+Šio įstatymo [[#^s-88a82be9e49d64268e736976|1 straipsnio]] [[#^s-5915916d920a827f2b1e0674|1]] ir 5 dalys įsigalioja 2007 m. rugpjūčio 1 d.
+Šio įstatymo [[#^s-88a82be9e49d64268e736976|1 straipsnio]] [[#^s-4ac0217280021d35b39bde52|2]], 3, 4 dalys ir [[#^s-b88977ae0ca374060ef0dcba|2]], [[#^s-5fd967ebbbac7776b0028c4e|3]] straipsniai įsigalioja 2008 m. sausio 1 d.
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4062,8 +4062,8 @@ Nr. XI-346, 2009-07-15, Žin., 2009, Nr. 89-3802 (2009-07-28)
 Šis įstatymas įsigalioja 2009 m. rugsėjo 1 d.
 Mokytojai, šio įstatymo įsigaliojimo metu ugdantys pagal ikimokyklinio ugdymo, priešmokyklinio ugdymo ir bendrojo lavinimo programas, turintys aukštąjį arba aukštesnįjį (specialųjį vidurinį, įgytą iki 1995 metų) išsilavinimą ir neturintys pedagogo kvalifikacijos, ją privalo įgyti per 2 metus nuo šio įstatymo įsigaliojimo.
 Mokytojai, ugdantys pagal ikimokyklinio ugdymo, priešmokyklinio ugdymo ir bendrojo lavinimo programas ir studijuojantys aukštojoje mokykloje, aukštąjį išsilavinimą ir pedagogo kvalifikaciją privalo įgyti per 2 metus nuo šio įstatymo įsigaliojimo.
-Mokytojai per šio straipsnio 2 ir [[#^s-4af266a875c0362b4cfb3aea|3 dalyse]] nustatytą laikotarpį neįgiję pedagogo kvalifikacijos ir aukštojo išsilavinimo, atleidžiami [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] nustatyta tvarka.
-Šio straipsnio 2–4 dalių reikalavimai netaikomi mokytojams, kuriems šio įstatymo įsigaliojimo dieną iki teisės gauti visą senatvės pensiją yra likę ne daugiau kaip 5 metai.
+Mokytojai per šio straipsnio [[#^s-4fc789554b47df8190f5fb39|2]] ir 3 dalyse nustatytą laikotarpį neįgiję pedagogo kvalifikacijos ir aukštojo išsilavinimo, atleidžiami [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] nustatyta tvarka.
+Šio straipsnio [[#^s-4fc789554b47df8190f5fb39|2]]–4 dalių reikalavimai netaikomi mokytojams, kuriems šio įstatymo įsigaliojimo dieną iki teisės gauti visą senatvės pensiją yra likę ne daugiau kaip 5 metai.
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4082,7 +4082,7 @@ Nr. XI-1281, 2011-03-17, Žin., 2011, Nr. 38-1804 (2011-03-31)
 Nauja įstatymo redakcija
 Šis įstatymas, išskyrus [[#^s-c32dbd2dd3720ed90e085f67|2 straipsnio 1 dalį]], įsigalioja 2011 m. liepos 1 d.
 Šio įstatymo [[#^s-88a82be9e49d64268e736976|1 straipsnyje]] išdėstyto [[#^s-b084b3cd6a8c2f62156a785b|Švietimo įstatymo 41 straipsnio 6 dalis]] pripažįstama netekusia galios 2015 m. rugsėjo 1 d.
-Šio įstatymo [[#^s-88a82be9e49d64268e736976|1 straipsnyje]] išdėstyto Švietimo įstatymo 48 straipsnio 1 dalies 6 punktas pripažįstamas netekusiu galios 2011 m. rugsėjo 1 d.
+Šio įstatymo [[#^s-88a82be9e49d64268e736976|1 straipsnyje]] išdėstyto [[latest/TAR.9A3AD08EA5D0|Švietimo įstatymo 48 straipsnio 1 dalies 6 punktas]] pripažįstamas netekusiu galios 2011 m. rugsėjo 1 d.
 Švietimo teikėjai, vykdantys užsienio valstybių ir tarptautinių organizacijų švietimo programas (išskyrus aukštojo mokslo studijų programas) Lietuvos Respublikoje ir neturintys švietimo ir mokslo ministro rašytinio sutikimo, jį privalo gauti per vienus metus nuo šio įstatymo įsigaliojimo.
 Mokytojai, šio įstatymo įsigaliojimo metu ugdantys pagal ikimokyklinio ugdymo, priešmokyklinio ugdymo ir bendrojo ugdymo programas, turintys aukštąjį (aukštesnįjį, įgytą iki 2009 metų, ar specialųjį vidurinį, įgytą iki 1995 metų) išsilavinimą ir neturintys pedagogo kvalifikacijos, ją privalo įgyti iki 2011 m. rugpjūčio 31 d. Šiems asmenims [[#^s-18f2206654ec804a4552bf09|Švietimo įstatymo 48 straipsnyje]] nustatyti kvalifikacijos reikalavimai iki 2011 m. rugpjūčio 31 d. netaikomi.
 Mokytojai, šio įstatymo įsigaliojimo metu neturintys [[#^s-18f2206654ec804a4552bf09|Švietimo įstatymo 48 straipsnyje]] nustatyto išsilavinimo ir ugdantys pagal ikimokyklinio ugdymo, priešmokyklinio ugdymo ir bendrojo ugdymo programas bei studijuojantys aukštojoje mokykloje, aukštąjį išsilavinimą ir pedagogo kvalifikaciją privalo įgyti iki 2011 m. rugpjūčio 31 d. Šiems asmenims [[#^s-18f2206654ec804a4552bf09|Švietimo įstatymo 48 straipsnyje]] nustatyti išsilavinimo ir kvalifikacijos reikalavimai iki 2011 m. rugpjūčio 31 d. netaikomi.
@@ -4111,7 +4111,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2000 06 13, Žin., 2000, Nr. 49-1424 (2000 06 16)
-DĖL LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO 1 STRAIPSNIO 5 PUNKTO, [[#^s-6722012559ea82fb0bac21e1|10 STRAIPSNIO]] 3 IR 4 DALIŲ, [[#^s-ac8a97dacb56c982ff4b1052|15 STRAIPSNIO 1 DALIES]], [[#^s-ececda4f8cd9647bdde20045|20 STRAIPSNIO]], 21 STRAIPSNIO 2 PUNKTO, [[#^s-545453d8daaa2ef8bcca7aba|32 STRAIPSNIO 2 DALIES]], [[#^s-2f5d0211c6c15d52708cac36|34 STRAIPSNIO]] 2, 3 IR 4 DALIŲ, [[#^s-b9c5994fbd2f66a73fe1dacd|35 STRAIPSNIO]] 2 IR 5 PUNKTŲ, 37 STRAIPSNIO 2 PUNKTO IR [[#^s-2828806b21deda633890a36a|38 STRAIPSNIO]] 2 IR 3 PUNKTŲ ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS ŠVIETIMO ĮSTATYMO 1 STRAIPSNIO 5 PUNKTO, 10 STRAIPSNIO 3 IR 4 DALIŲ, 15 STRAIPSNIO 1 DALIES, 20 STRAIPSNIO, 21 STRAIPSNIO 2 PUNKTO, 32 STRAIPSNIO 2 DALIES, 34 STRAIPSNIO 2, 3 IR 4 DALIŲ, 35 STRAIPSNIO 2 IR 5 PUNKTŲ, 37 STRAIPSNIO 2 PUNKTO IR 38 STRAIPSNIO 2 IR 3 PUNKTŲ ATITIKIMO LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.788117AB3551)
 
 
 
@@ -4121,12 +4121,12 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1614, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06359
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 22 ir [[#^s-7f364aae80415888ca814e95|67 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-70402cb656adc40cd5b3b622|22]] ir [[#^s-7f364aae80415888ca814e95|67]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1613, 2015-04-16, paskelbta TAR 2015-04-27, i. k. 2015-06357
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 53, [[#^s-9f821d2df8bb770342827177|56 straipsnių]] pakeitimo ir Įstatymo papildymo 56-1, 56-2 straipsniais įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-3c088605d1c4f5a37c12dc39|53]], [[#^s-9f821d2df8bb770342827177|56]] straipsnių pakeitimo ir Įstatymo papildymo 56-1, 56-2 straipsniais įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4141,12 +4141,12 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-f3473164c925275ce0fed3
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2213, 2015-12-22, paskelbta TAR 2016-01-06, i. k. 2016-00366
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 7, 8, 9, 24, 27, 36, 37, 43, 46 ir [[#^s-0293e2fc69de4cc10f950a5c|47 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-b88977ae0ca374060ef0dcba|2]], [[#^s-8ec89d54db65ceab0e3941ac|7]], [[#^s-6dd82dc0e4967c2d557712eb|8]], [[#^s-dfb26a9a6ab466e0f7b8fca6|9]], [[#^s-1f7de4e03609701aa4416769|24]], [[#^s-f5262d1da08bb86de20c728f|27]], [[#^s-adfc16bed5f65fee02eff16a|36]], [[#^s-2034e6b12cd0baa898aab07a|37]], [[#^s-8630e394e42e39259369167c|43]], [[#^s-a7f7ba418641f7b1e707b8e2|46]] ir [[#^s-0293e2fc69de4cc10f950a5c|47]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2290, 2016-04-07, paskelbta TAR 2016-04-18, i. k. 2016-09857
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2 ir [[#^s-5fe80ff4e224f96634a97159|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-b88977ae0ca374060ef0dcba|2]] ir [[#^s-5fe80ff4e224f96634a97159|18]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4156,32 +4156,32 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-b9c5994fbd2f66a73fe1da
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2536, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20657
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 12, 14, 20, 21, 23 ir [[#^s-f7eabe33efa9e0450593f914|58 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-8ec89d54db65ceab0e3941ac|7]], [[#^s-6dd82dc0e4967c2d557712eb|8]], [[#^s-dfb26a9a6ab466e0f7b8fca6|9]], [[#^s-6722012559ea82fb0bac21e1|10]], [[#^s-f38539f3b38ce9dd3d8b3765|11]], [[#^s-f8567d6eb0f23427cd0c6a7b|12]], [[#^s-0a4ca860664a8aaa3c93daec|14]], [[#^s-ececda4f8cd9647bdde20045|20]], [[#^s-569c897b7f194b7585a5fa18|21]], [[#^s-2a7b803d1cb193b1d69e46b9|23]] ir [[#^s-f7eabe33efa9e0450593f914|58]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2685, 2016-10-18, paskelbta TAR 2016-10-28, i. k. 2016-25852
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 1, 2, 19, 23, 43, 46, 47, 49, 56, 58, [[#^s-e6461a47989b40dca5ff72b6|59 straipsnių]] pakeitimo ir Įstatymo papildymo 23-1, 23-2 straipsniais įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-88a82be9e49d64268e736976|1]], [[#^s-b88977ae0ca374060ef0dcba|2]], [[#^s-c1d5ccbc5cf92959e6e82a1c|19]], [[#^s-2a7b803d1cb193b1d69e46b9|23]], [[#^s-8630e394e42e39259369167c|43]], [[#^s-a7f7ba418641f7b1e707b8e2|46]], [[#^s-0293e2fc69de4cc10f950a5c|47]], [[#^s-ad849cc18705e93d5e376f39|49]], [[#^s-9f821d2df8bb770342827177|56]], [[#^s-f7eabe33efa9e0450593f914|58]], [[#^s-e6461a47989b40dca5ff72b6|59]] straipsnių pakeitimo ir Įstatymo papildymo 23-1, 23-2 straipsniais įstatymas
 
 10.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT26-N15/2015, 2015-09-29, paskelbta TAR 2017-01-02, i. k. 2017-00001
-Dėl [[#^s-860b0e5fae3285805cef5fa8|Lietuvos Respublikos švietimo įstatymo 68  straipsnio 3 dalies]] ir Lietuvos Respublikos Vyriausybės 1993 m. liepos 8 d. nutarimo Nr. 511 „Dėl biudžetinių įstaigų ir organizacijų darbuotojų darbo apmokėjimo tvarkos tobulinimo“ atitikties Lietuvos Respublikos Konstitucijai
+Dėl Lietuvos Respublikos švietimo įstatymo [[#^s-860b0e5fae3285805cef5fa8|68  straipsnio 3 dalies]] ir Lietuvos Respublikos Vyriausybės [1993 m. liepos 8 d. nutarimo Nr. 511](https://e-tar.lt/portal/lt/legalAct/TAR.35316D588106) [„Dėl biudžetinių įstaigų ir organizacijų darbuotojų darbo apmokėjimo tvarkos tobulinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.35316D588106) atitikties Lietuvos Respublikos Konstitucijai
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-592, 2017-06-30, paskelbta TAR 2017-07-12, i. k. 2017-12081
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 37, 43, 47, 48, 53, 56, 57, 58, 59, 60, 64, [[#^s-29798fb0e28f15772bc42243|68 straipsnių]] pakeitimo ir Įstatymo papildymo 5-1, 56-3 straipsniais įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-2034e6b12cd0baa898aab07a|37]], [[#^s-8630e394e42e39259369167c|43]], [[#^s-0293e2fc69de4cc10f950a5c|47]], [[#^s-18f2206654ec804a4552bf09|48]], [[#^s-3c088605d1c4f5a37c12dc39|53]], [[#^s-9f821d2df8bb770342827177|56]], [[#^s-022dfa1d3d87415891a0a762|57]], [[#^s-f7eabe33efa9e0450593f914|58]], [[#^s-e6461a47989b40dca5ff72b6|59]], [[#^s-47895df4c5407f8330e68e24|60]], [[#^s-5d4841db436a863b58f9a58f|64]], [[#^s-29798fb0e28f15772bc42243|68]] straipsnių pakeitimo ir Įstatymo papildymo 5-1, 56-3 straipsniais įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-889, 2017-12-14, paskelbta TAR 2017-12-27, i. k. 2017-21312
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 12, 18, 28, 37, 38, 41, 42, 43, 44, 56, 56-1, 62, [[#^s-cb26ec228482e20bd6c2bc8e|69 straipsnių]] pakeitimo ir Įstatymo papildymo 39-1 straipsniu įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-f8567d6eb0f23427cd0c6a7b|12]], [[#^s-5fe80ff4e224f96634a97159|18]], [[#^s-1ed961aae24153722c8ff4d3|28]], [[#^s-2034e6b12cd0baa898aab07a|37]], [[#^s-2828806b21deda633890a36a|38]], [[#^s-5bf530e1d326cd102270214e|41]], [[#^s-647fdedc61e57c524addc7a8|42]], [[#^s-8630e394e42e39259369167c|43]], [[#^s-9ecd0ad3e5f74a4323794296|44]], [[#^s-9f821d2df8bb770342827177|56]], 56-1, [[#^s-6b5393badab427e3a996d664|62]], [[#^s-cb26ec228482e20bd6c2bc8e|69]] straipsnių pakeitimo ir Įstatymo papildymo 39-1 straipsniu įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-926, 2017-12-19, paskelbta TAR 2017-12-29, i. k. 2017-21598
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 8, 9 ir [[#^s-0293e2fc69de4cc10f950a5c|47 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-6dd82dc0e4967c2d557712eb|8]], [[#^s-dfb26a9a6ab466e0f7b8fca6|9]] ir [[#^s-0293e2fc69de4cc10f950a5c|47]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4196,7 +4196,7 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-29798fb0e28f15772bc422
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1397, 2018-06-29, paskelbta TAR 2018-07-04, i. k. 2018-11325
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 23, 58, 66 ir [[#^s-7f364aae80415888ca814e95|67 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-2a7b803d1cb193b1d69e46b9|23]], [[#^s-f7eabe33efa9e0450593f914|58]], [[#^s-f9bad7d3b085453ca6fb977c|66]] ir [[#^s-7f364aae80415888ca814e95|67]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4216,7 +4216,7 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-5bf530e1d326cd10227021
 20.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT25-N11/2019, 2019-09-19, paskelbta TAR 2019-09-19, i. k. 2019-14836
-Dėl Lietuvos Respublikos švietimo įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos švietimo įstatymo nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/01032b10dac811e99681cd81dcdca52c)
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4231,7 +4231,7 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 papildymo 31-1 straipsniu į
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3266, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15540
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5-1, 37, 53, 56-3, 59 ir [[#^s-cb26ec228482e20bd6c2bc8e|69 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5-1, [[#^s-2034e6b12cd0baa898aab07a|37]], [[#^s-3c088605d1c4f5a37c12dc39|53]], 56-3, [[#^s-e6461a47989b40dca5ff72b6|59]] ir [[#^s-cb26ec228482e20bd6c2bc8e|69]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4241,12 +4241,12 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-47895df4c5407f8330e68e
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3101, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15306
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 54, 55, 56, 58, 61 ir [[#^s-f9bad7d3b085453ca6fb977c|66 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-b88977ae0ca374060ef0dcba|2]], [[#^s-813cb9e671d6e561d4f012d3|54]], [[#^s-f5a1f01cb75a59de7dfea576|55]], [[#^s-9f821d2df8bb770342827177|56]], [[#^s-f7eabe33efa9e0450593f914|58]], [[#^s-bc4c25f4d43352233b3f4790|61]] ir [[#^s-f9bad7d3b085453ca6fb977c|66]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3268, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15543
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir [[#^s-adfc16bed5f65fee02eff16a|36 straipsnių]] pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-148363a96efee5669bf73623|5]], [[#^s-0a4ca860664a8aaa3c93daec|14]], [[#^s-569c897b7f194b7585a5fa18|21]], [[#^s-94f22af4e7902f40cae293b3|29]], [[#^s-be9633fc55d33b24ba26c53a|30]], [[#^s-2f5d0211c6c15d52708cac36|34]] ir [[#^s-adfc16bed5f65fee02eff16a|36]] straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4256,12 +4256,12 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-be9633fc55d33b24ba26c5
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3416, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24587
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 7, 8, 24, 36, 47 ir [[#^s-7f364aae80415888ca814e95|67 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-b88977ae0ca374060ef0dcba|2]], [[#^s-8ec89d54db65ceab0e3941ac|7]], [[#^s-6dd82dc0e4967c2d557712eb|8]], [[#^s-1f7de4e03609701aa4416769|24]], [[#^s-adfc16bed5f65fee02eff16a|36]], [[#^s-0293e2fc69de4cc10f950a5c|47]] ir [[#^s-7f364aae80415888ca814e95|67]] straipsnių pakeitimo įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-484, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15863
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 14, 21 ir [[#^s-2a7b803d1cb193b1d69e46b9|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-0a4ca860664a8aaa3c93daec|14]], [[#^s-569c897b7f194b7585a5fa18|21]] ir [[#^s-2a7b803d1cb193b1d69e46b9|23]] straipsnių pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4291,12 +4291,12 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-f3473164c925275ce0fed3
 35.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-895, 2022-01-11, paskelbta TAR 2022-01-19, i. k. 2022-00752
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 23 ir [[#^s-ad849cc18705e93d5e376f39|49 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-2a7b803d1cb193b1d69e46b9|23]] ir [[#^s-ad849cc18705e93d5e376f39|49]] straipsnių pakeitimo įstatymas
 
 36.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1261, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15488
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 24, 38 ir [[#^s-0293e2fc69de4cc10f950a5c|47 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-1f7de4e03609701aa4416769|24]], [[#^s-2828806b21deda633890a36a|38]] ir [[#^s-0293e2fc69de4cc10f950a5c|47]] straipsnių pakeitimo įstatymas
 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4311,12 +4311,12 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-b9c5994fbd2f66a73fe1da
 39.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1726, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00140
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, [[#^s-5dbbfa506647acb94a88d608|70 straipsnių]] pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-8ec89d54db65ceab0e3941ac|7]], [[#^s-6dd82dc0e4967c2d557712eb|8]], [[#^s-dfb26a9a6ab466e0f7b8fca6|9]], [[#^s-6722012559ea82fb0bac21e1|10]], [[#^s-f38539f3b38ce9dd3d8b3765|11]], [[#^s-0a4ca860664a8aaa3c93daec|14]], [[#^s-7605c5382446734b973f3dfa|16]], [[#^s-c1d5ccbc5cf92959e6e82a1c|19]], [[#^s-ececda4f8cd9647bdde20045|20]], [[#^s-569c897b7f194b7585a5fa18|21]], [[#^s-2a7b803d1cb193b1d69e46b9|23]], [[#^s-94f22af4e7902f40cae293b3|29]], [[#^s-adfc16bed5f65fee02eff16a|36]], [[#^s-2828806b21deda633890a36a|38]], [[#^s-ac4886f0772e13a83b6c0b62|39]], [[#^s-5bf530e1d326cd102270214e|41]], [[#^s-8630e394e42e39259369167c|43]], [[#^s-9ecd0ad3e5f74a4323794296|44]], [[#^s-a7f7ba418641f7b1e707b8e2|46]], [[#^s-ad849cc18705e93d5e376f39|49]], [[#^s-39e9b27f11eb87c72c947c14|52]], [[#^s-3c088605d1c4f5a37c12dc39|53]], [[#^s-9f821d2df8bb770342827177|56]], [[#^s-022dfa1d3d87415891a0a762|57]], [[#^s-f7eabe33efa9e0450593f914|58]], [[#^s-e6461a47989b40dca5ff72b6|59]], [[#^s-6b5393badab427e3a996d664|62]], [[#^s-00888b69fe126afa98feb6f3|63]], [[#^s-5d4841db436a863b58f9a58f|64]], [[#^s-7f364aae80415888ca814e95|67]], [[#^s-cb26ec228482e20bd6c2bc8e|69]], [[#^s-5dbbfa506647acb94a88d608|70]] straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu įstatymas
 
 40.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2097, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13995
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 16, 29, 46, 47 ir [[#^s-ad849cc18705e93d5e376f39|49 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-7605c5382446734b973f3dfa|16]], [[#^s-94f22af4e7902f40cae293b3|29]], [[#^s-a7f7ba418641f7b1e707b8e2|46]], [[#^s-0293e2fc69de4cc10f950a5c|47]] ir [[#^s-ad849cc18705e93d5e376f39|49]] straipsnių pakeitimo įstatymas
 
 41.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4326,12 +4326,12 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-f8567d6eb0f23427cd0c6a
 42.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2093, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13990
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, [[#^s-5dbbfa506647acb94a88d608|70 straipsnių]] pakeitimo ir Įstatymo papildymo 56-4 straipsniu [[latest/2fa8f9a08c0d11ed8df094f359a60216|įstatymo Nr. XIV-1726]] [[#^s-79d5002b3733d1e8d8034bd2|17 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-8ec89d54db65ceab0e3941ac|7]], [[#^s-6dd82dc0e4967c2d557712eb|8]], [[#^s-dfb26a9a6ab466e0f7b8fca6|9]], [[#^s-6722012559ea82fb0bac21e1|10]], [[#^s-f38539f3b38ce9dd3d8b3765|11]], [[#^s-0a4ca860664a8aaa3c93daec|14]], [[#^s-7605c5382446734b973f3dfa|16]], [[#^s-c1d5ccbc5cf92959e6e82a1c|19]], [[#^s-ececda4f8cd9647bdde20045|20]], [[#^s-569c897b7f194b7585a5fa18|21]], [[#^s-2a7b803d1cb193b1d69e46b9|23]], [[#^s-94f22af4e7902f40cae293b3|29]], [[#^s-adfc16bed5f65fee02eff16a|36]], [[#^s-2828806b21deda633890a36a|38]], [[#^s-ac4886f0772e13a83b6c0b62|39]], [[#^s-5bf530e1d326cd102270214e|41]], [[#^s-8630e394e42e39259369167c|43]], [[#^s-9ecd0ad3e5f74a4323794296|44]], [[#^s-a7f7ba418641f7b1e707b8e2|46]], [[#^s-ad849cc18705e93d5e376f39|49]], [[#^s-39e9b27f11eb87c72c947c14|52]], [[#^s-3c088605d1c4f5a37c12dc39|53]], [[#^s-9f821d2df8bb770342827177|56]], [[#^s-022dfa1d3d87415891a0a762|57]], [[#^s-f7eabe33efa9e0450593f914|58]], [[#^s-e6461a47989b40dca5ff72b6|59]], [[#^s-6b5393badab427e3a996d664|62]], [[#^s-00888b69fe126afa98feb6f3|63]], [[#^s-5d4841db436a863b58f9a58f|64]], [[#^s-7f364aae80415888ca814e95|67]], [[#^s-cb26ec228482e20bd6c2bc8e|69]], [[#^s-5dbbfa506647acb94a88d608|70]] straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu [[latest/2fa8f9a08c0d11ed8df094f359a60216|įstatymo Nr. XIV-1726]] [[#^s-79d5002b3733d1e8d8034bd2|17 straipsnio]] pakeitimo įstatymas
 
 43.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2096, 2023-06-27, paskelbta TAR 2023-07-05, i. k. 2023-13993
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 29 ir [[#^s-9f821d2df8bb770342827177|56 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-94f22af4e7902f40cae293b3|29]] ir [[#^s-9f821d2df8bb770342827177|56]] straipsnių pakeitimo įstatymas
 
 44.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4341,27 +4341,27 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-94f22af4e7902f40cae293
 45.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2180, 2023-09-26, paskelbta TAR 2023-10-03, i. k. 2023-19449
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 28, 37, 42, 43, 44, 66 ir [[#^s-7f364aae80415888ca814e95|67 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-1ed961aae24153722c8ff4d3|28]], [[#^s-2034e6b12cd0baa898aab07a|37]], [[#^s-647fdedc61e57c524addc7a8|42]], [[#^s-8630e394e42e39259369167c|43]], [[#^s-9ecd0ad3e5f74a4323794296|44]], [[#^s-f9bad7d3b085453ca6fb977c|66]] ir [[#^s-7f364aae80415888ca814e95|67]] straipsnių pakeitimo įstatymas
 
 46.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-485, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15864
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir [[#^s-adfc16bed5f65fee02eff16a|36 straipsnių]] pakeitimo ir Įstatymo papildymo 45-1 straipsniu [[latest/5dfa6ee0c2a411ea9815f635b9c0dcef|įstatymo Nr. XIII-3268]] [[#^s-5fd967ebbbac7776b0028c4e|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-148363a96efee5669bf73623|5]], [[#^s-0a4ca860664a8aaa3c93daec|14]], [[#^s-569c897b7f194b7585a5fa18|21]], [[#^s-94f22af4e7902f40cae293b3|29]], [[#^s-be9633fc55d33b24ba26c53a|30]], [[#^s-2f5d0211c6c15d52708cac36|34]] ir [[#^s-adfc16bed5f65fee02eff16a|36]] straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu [[latest/5dfa6ee0c2a411ea9815f635b9c0dcef|įstatymo Nr. XIII-3268]] [[#^s-5fd967ebbbac7776b0028c4e|3 straipsnio]] pakeitimo įstatymas
 
 47.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1263, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15494
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-f38539f3b38ce9dd3d8b3765|11 straipsnio]] pakeitimo [[latest/e61448c0537911ec862fdcbc8b3e3e05|įstatymo Nr. XIV-655]] 1 ir [[#^s-b88977ae0ca374060ef0dcba|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-f38539f3b38ce9dd3d8b3765|11 straipsnio]] pakeitimo [[latest/e61448c0537911ec862fdcbc8b3e3e05|įstatymo Nr. XIV-655]] [[#^s-88a82be9e49d64268e736976|1]] ir [[#^s-b88977ae0ca374060ef0dcba|2]] straipsnių pakeitimo įstatymas
 
 48.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1727, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00141
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir [[#^s-adfc16bed5f65fee02eff16a|36 straipsnių]] pakeitimo ir Įstatymo papildymo 45-1 straipsniu [[latest/5dfa6ee0c2a411ea9815f635b9c0dcef|įstatymo Nr. XIII-3268]] 3 ir [[#^s-8ec89d54db65ceab0e3941ac|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-148363a96efee5669bf73623|5]], [[#^s-0a4ca860664a8aaa3c93daec|14]], [[#^s-569c897b7f194b7585a5fa18|21]], [[#^s-94f22af4e7902f40cae293b3|29]], [[#^s-be9633fc55d33b24ba26c53a|30]], [[#^s-2f5d0211c6c15d52708cac36|34]] ir [[#^s-adfc16bed5f65fee02eff16a|36]] straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu [[latest/5dfa6ee0c2a411ea9815f635b9c0dcef|įstatymo Nr. XIII-3268]] [[#^s-5fd967ebbbac7776b0028c4e|3]] ir [[#^s-8ec89d54db65ceab0e3941ac|7]] straipsnių pakeitimo įstatymas
 
 49.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1728, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00143
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 24, 38 ir [[#^s-0293e2fc69de4cc10f950a5c|47 straipsnių]] pakeitimo [[latest/61046100037411edb32c9f9d8ba206f8|įstatymo Nr. XIV-1261]] [[#^s-5fd967ebbbac7776b0028c4e|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-1f7de4e03609701aa4416769|24]], [[#^s-2828806b21deda633890a36a|38]] ir [[#^s-0293e2fc69de4cc10f950a5c|47]] straipsnių pakeitimo [[latest/61046100037411edb32c9f9d8ba206f8|įstatymo Nr. XIV-1261]] [[#^s-5fd967ebbbac7776b0028c4e|3 straipsnio]] pakeitimo įstatymas
 
 50.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4371,7 +4371,7 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-f38539f3b38ce9dd3d8b37
 51.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2310, 2023-12-05, paskelbta TAR 2023-12-14, i. k. 2023-24178
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 41 ir [[#^s-7f364aae80415888ca814e95|67 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-5bf530e1d326cd102270214e|41]] ir [[#^s-7f364aae80415888ca814e95|67]] straipsnių pakeitimo įstatymas
 
 52.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4391,17 +4391,17 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-94f22af4e7902f40cae293
 55.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2462, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-26033
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 4, 40 ir [[#^s-5dbbfa506647acb94a88d608|70 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-b88977ae0ca374060ef0dcba|2]], [[#^s-49ebb2046324d99a2ecaa4b1|4]], [[#^s-d7b39521cb08d05cfc7f3afc|40]] ir [[#^s-5dbbfa506647acb94a88d608|70]] straipsnių pakeitimo įstatymas
 
 56.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2555, 2024-04-18, paskelbta TAR 2024-04-24, i. k. 2024-07453
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5-1 ir [[#^s-e6461a47989b40dca5ff72b6|59 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5-1 ir [[#^s-e6461a47989b40dca5ff72b6|59]] straipsnių pakeitimo įstatymas
 
 57.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2619, 2024-05-09, paskelbta TAR 2024-05-15, i. k. 2024-08911
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2 ir [[#^s-47895df4c5407f8330e68e24|60 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-b88977ae0ca374060ef0dcba|2]] ir [[#^s-47895df4c5407f8330e68e24|60]] straipsnių pakeitimo įstatymas
 
 58.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4411,17 +4411,17 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-ac4886f0772e13a83b6c0b
 59.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2678, 2024-06-06, paskelbta TAR 2024-06-07, i. k. 2024-10552
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 41, 42 ir [[#^s-8630e394e42e39259369167c|43 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-5bf530e1d326cd102270214e|41]], [[#^s-647fdedc61e57c524addc7a8|42]] ir [[#^s-8630e394e42e39259369167c|43]] straipsnių pakeitimo įstatymas
 
 60.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2846, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12740
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir [[#^s-adfc16bed5f65fee02eff16a|36 straipsnių]] pakeitimo ir Įstatymo papildymo 45-1 straipsniu [[latest/5dfa6ee0c2a411ea9815f635b9c0dcef|įstatymo Nr. XIII-3268]] 3 ir [[#^s-dfb26a9a6ab466e0f7b8fca6|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-148363a96efee5669bf73623|5]], [[#^s-0a4ca860664a8aaa3c93daec|14]], [[#^s-569c897b7f194b7585a5fa18|21]], [[#^s-94f22af4e7902f40cae293b3|29]], [[#^s-be9633fc55d33b24ba26c53a|30]], [[#^s-2f5d0211c6c15d52708cac36|34]] ir [[#^s-adfc16bed5f65fee02eff16a|36]] straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu [[latest/5dfa6ee0c2a411ea9815f635b9c0dcef|įstatymo Nr. XIII-3268]] [[#^s-5fd967ebbbac7776b0028c4e|3]] ir [[#^s-dfb26a9a6ab466e0f7b8fca6|9]] straipsnių pakeitimo įstatymas
 
 61.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2847, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12156
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 28 ir [[#^s-94f22af4e7902f40cae293b3|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-1ed961aae24153722c8ff4d3|28]] ir [[#^s-94f22af4e7902f40cae293b3|29]] straipsnių pakeitimo įstatymas
 
 62.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4431,12 +4431,12 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-29798fb0e28f15772bc422
 63.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2933, 2024-07-16, paskelbta TAR 2024-07-24, i. k. 2024-13520
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 7, 8, 9, 10, 11, 14, 16, 19, 20, 21, 23, 29, 36, 38, 39, 41, 43, 44, 46, 49, 52, 53, 56, 57, 58, 59, 62, 63, 64, 67, 69, [[#^s-5dbbfa506647acb94a88d608|70 straipsnių]] pakeitimo ir Įstatymo papildymo 56-4 straipsniu [[latest/2fa8f9a08c0d11ed8df094f359a60216|įstatymo Nr. XIV-1726]] [[#^s-adfc16bed5f65fee02eff16a|36 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-8ec89d54db65ceab0e3941ac|7]], [[#^s-6dd82dc0e4967c2d557712eb|8]], [[#^s-dfb26a9a6ab466e0f7b8fca6|9]], [[#^s-6722012559ea82fb0bac21e1|10]], [[#^s-f38539f3b38ce9dd3d8b3765|11]], [[#^s-0a4ca860664a8aaa3c93daec|14]], [[#^s-7605c5382446734b973f3dfa|16]], [[#^s-c1d5ccbc5cf92959e6e82a1c|19]], [[#^s-ececda4f8cd9647bdde20045|20]], [[#^s-569c897b7f194b7585a5fa18|21]], [[#^s-2a7b803d1cb193b1d69e46b9|23]], [[#^s-94f22af4e7902f40cae293b3|29]], [[#^s-adfc16bed5f65fee02eff16a|36]], [[#^s-2828806b21deda633890a36a|38]], [[#^s-ac4886f0772e13a83b6c0b62|39]], [[#^s-5bf530e1d326cd102270214e|41]], [[#^s-8630e394e42e39259369167c|43]], [[#^s-9ecd0ad3e5f74a4323794296|44]], [[#^s-a7f7ba418641f7b1e707b8e2|46]], [[#^s-ad849cc18705e93d5e376f39|49]], [[#^s-39e9b27f11eb87c72c947c14|52]], [[#^s-3c088605d1c4f5a37c12dc39|53]], [[#^s-9f821d2df8bb770342827177|56]], [[#^s-022dfa1d3d87415891a0a762|57]], [[#^s-f7eabe33efa9e0450593f914|58]], [[#^s-e6461a47989b40dca5ff72b6|59]], [[#^s-6b5393badab427e3a996d664|62]], [[#^s-00888b69fe126afa98feb6f3|63]], [[#^s-5d4841db436a863b58f9a58f|64]], [[#^s-7f364aae80415888ca814e95|67]], [[#^s-cb26ec228482e20bd6c2bc8e|69]], [[#^s-5dbbfa506647acb94a88d608|70]] straipsnių pakeitimo ir Įstatymo papildymo 56-4 straipsniu [[latest/2fa8f9a08c0d11ed8df094f359a60216|įstatymo Nr. XIV-1726]] [[#^s-adfc16bed5f65fee02eff16a|36 straipsnio]] pakeitimo įstatymas
 
 64.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2950, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13617
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 5, 14, 21, 29, 30, 34 ir [[#^s-adfc16bed5f65fee02eff16a|36 straipsnių]] pakeitimo ir Įstatymo papildymo 45-1 straipsniu [[latest/5dfa6ee0c2a411ea9815f635b9c0dcef|įstatymo Nr. XIII-3268]] 2 ir [[#^s-dfb26a9a6ab466e0f7b8fca6|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-148363a96efee5669bf73623|5]], [[#^s-0a4ca860664a8aaa3c93daec|14]], [[#^s-569c897b7f194b7585a5fa18|21]], [[#^s-94f22af4e7902f40cae293b3|29]], [[#^s-be9633fc55d33b24ba26c53a|30]], [[#^s-2f5d0211c6c15d52708cac36|34]] ir [[#^s-adfc16bed5f65fee02eff16a|36]] straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu [[latest/5dfa6ee0c2a411ea9815f635b9c0dcef|įstatymo Nr. XIII-3268]] [[#^s-b88977ae0ca374060ef0dcba|2]] ir [[#^s-dfb26a9a6ab466e0f7b8fca6|9]] straipsnių pakeitimo įstatymas
 
 65.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4446,7 +4446,7 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-8630e394e42e3925936916
 66.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-606, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20818
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 25, 33, 43, 53, [[#^s-9f821d2df8bb770342827177|56 straipsnių]] pakeitimo, 56-1 ir 56-2 straipsnių pripažinimo netekusiais galios ir Įstatymo papildymo devintuoju skirsniu įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-f3473164c925275ce0fed30b|25]], [[#^s-e6917be9e49c0340ca90a0fb|33]], [[#^s-8630e394e42e39259369167c|43]], [[#^s-3c088605d1c4f5a37c12dc39|53]], [[#^s-9f821d2df8bb770342827177|56]] straipsnių pakeitimo, 56-1 ir 56-2 straipsnių pripažinimo netekusiais galios ir Įstatymo papildymo devintuoju skirsniu įstatymas
 
 67.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4456,12 +4456,12 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-94f22af4e7902f40cae293
 68.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-842, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06951
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 10, 12, 15, 17, 18, 22, 23-1, 23-2, 24, 26, 27, 30, 31, 35, 36, 37, 38, 39-1, 40, 41, 43, 48, 55, 56, 56-4, 68 ir [[#^s-0624cbabb32e6341f627eaa7|72 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-b88977ae0ca374060ef0dcba|2]], [[#^s-6722012559ea82fb0bac21e1|10]], [[#^s-f8567d6eb0f23427cd0c6a7b|12]], [[#^s-402cd5c9f17fe063fdae971f|15]], [[#^s-79d5002b3733d1e8d8034bd2|17]], [[#^s-5fe80ff4e224f96634a97159|18]], [[#^s-70402cb656adc40cd5b3b622|22]], 23-1, 23-2, [[#^s-1f7de4e03609701aa4416769|24]], [[#^s-f2e9bb0e9a6e9e1dc3f452a8|26]], [[#^s-f5262d1da08bb86de20c728f|27]], [[#^s-be9633fc55d33b24ba26c53a|30]], [[#^s-59c4004d828f374b94ea3784|31]], [[#^s-b9c5994fbd2f66a73fe1dacd|35]], [[#^s-adfc16bed5f65fee02eff16a|36]], [[#^s-2034e6b12cd0baa898aab07a|37]], [[#^s-2828806b21deda633890a36a|38]], 39-1, [[#^s-d7b39521cb08d05cfc7f3afc|40]], [[#^s-5bf530e1d326cd102270214e|41]], [[#^s-8630e394e42e39259369167c|43]], [[#^s-18f2206654ec804a4552bf09|48]], [[#^s-f5a1f01cb75a59de7dfea576|55]], [[#^s-9f821d2df8bb770342827177|56]], 56-4, [[#^s-29798fb0e28f15772bc42243|68]] ir [[#^s-0624cbabb32e6341f627eaa7|72]] straipsnių pakeitimo įstatymas
 
 69.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-953, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08454
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 2, 24, 28 ir [[#^s-be9633fc55d33b24ba26c53a|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-b88977ae0ca374060ef0dcba|2]], [[#^s-1f7de4e03609701aa4416769|24]], [[#^s-1ed961aae24153722c8ff4d3|28]] ir [[#^s-be9633fc55d33b24ba26c53a|30]] straipsnių pakeitimo įstatymas
 
 70.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4471,4 +4471,4 @@ Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-9f821d2df8bb7703428271
 71.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1014, 2026-06-11, paskelbta TAR 2026-06-16, i. k. 2026-10397
-Lietuvos Respublikos švietimo įstatymo Nr. I-1489 40, 43, 46 ir [[#^s-18f2206654ec804a4552bf09|48 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos švietimo įstatymo Nr. I-1489 [[#^s-d7b39521cb08d05cfc7f3afc|40]], [[#^s-8630e394e42e39259369167c|43]], [[#^s-a7f7ba418641f7b1e707b8e2|46]] ir [[#^s-18f2206654ec804a4552bf09|48]] straipsnių pakeitimo įstatymas

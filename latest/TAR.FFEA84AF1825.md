@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-b8b38f05155dc9949c0f7b75
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. spalio 23 d. dekretą Nr. 1956, ratifikuoja su pareiškimu 1989 metų Jungtinių Tautų vaiko teisių konvencijos 2000 metų fakultatyvinį protokolą dėl vaikų dalyvavimo ginkluotuose konfliktuose.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. spalio 23 d. dekretą Nr. 1956](https://e-tar.lt/portal/lt/legalAct/TAR.A8F74F3FBDD1), ratifikuoja su pareiškimu 1989 metų Jungtinių Tautų vaiko teisių konvencijos 2000 metų fakultatyvinį protokolą dėl vaikų dalyvavimo ginkluotuose konfliktuose.
 
 
 

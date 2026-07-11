@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos prekybinės laivybos įstatymo 1, 2, 3, 4, 8,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.38B0127A21E8|Lietuvos Respublikos prekybinės laivybos įstatymas]] - 1996 m. rugsėjo 12 d. įstatymo Nr. I-1513
+_Nėra._
 
 ## Šį įstatymą cituoja
 

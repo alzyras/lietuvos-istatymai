@@ -219,10 +219,10 @@ INFORMACIJOS TEIKIMO PAKARTOTINIAM PANAUDOJIMUI SĄLYGOS
 1. Įstaigoms draudžiama su trečiosiomis šalimis sudaryti susitarimus dėl išimtinių teisių suteikimo teikti informaciją. ^s-2dfdd34e6717bf8ea87f662b
 
 
-2. Susitarimas dėl informacijos teikimo su pareiškėju nesuteikia jam išimtinių teisių net ir tuo atveju, kai pareiškėjas gautos informacijos pagrindu sukurtu produktu teikia informaciją trečiosioms šalims. ^s-5b03528d5cd806840ae549b6
+2. Susitarimas [dėl informacijos teikimo](https://e-tar.lt/portal/lt/legalAct/dffb9e80727911eabee4a336e7e6fdab) su pareiškėju nesuteikia jam išimtinių teisių net ir tuo atveju, kai pareiškėjas gautos informacijos pagrindu sukurtu produktu teikia informaciją trečiosioms šalims. ^s-5b03528d5cd806840ae549b6
 
 
-3. Išimtinė teisė gali būti suteikta, kai yra būtina dėl viešųjų paslaugų teikimo. Išimtinės teisės suteikimas turi būti periodiškai peržiūrimas ne rečiau kaip kas treji metai. Susitarimai dėl išimtinių teisių suteikimo turi būti skaidrūs ir viešai skelbiami. ^s-ae29cb96d8d27df9aa77bf9f
+3. Išimtinė teisė gali būti suteikta, kai yra būtina [dėl viešųjų paslaugų teikimo](https://e-tar.lt/portal/lt/legalAct/2de2a1503d1a11e6bcc5c96b48152012). Išimtinės teisės suteikimas turi būti periodiškai peržiūrimas ne rečiau kaip kas treji metai. Susitarimai dėl išimtinių teisių suteikimo turi būti skaidrūs ir viešai skelbiami. ^s-ae29cb96d8d27df9aa77bf9f
 
 
 
@@ -296,7 +296,7 @@ Informacija pareiškėjui turi būti pateikiama ne vėliau kaip per 20 darbo die
 ### 15 straipsnis. Informacijos pateikimo reikalavimai ^s-6026bf447e4dc7b9bfcf81c8
 
 
-1. Jei pareiškėjas prašo informacijos, kurios tam tikra dalis priklauso informacijai, nustatytai šio įstatymo [[#^s-3b58d2246c65c731990d5a47|1 straipsnio 3 dalies]] 1–8 punktuose, teikiama tik ta informacijos dalis, kuri nėra nustatyta šio įstatymo [[#^s-3b58d2246c65c731990d5a47|1 straipsnio 3 dalies]] 1–8 punktuose. ^s-72271310a865e393517e571e
+1. Jei pareiškėjas prašo informacijos, kurios tam tikra dalis priklauso informacijai, nustatytai šio įstatymo [[#^s-3b58d2246c65c731990d5a47|1 straipsnio 3 dalies]] [[#^s-9e8fc124048abf04829137cf|1]]–[[#^s-0e3fc72ca2c023877e43c15f|8]] punktuose, teikiama tik ta informacijos dalis, kuri nėra nustatyta šio įstatymo [[#^s-3b58d2246c65c731990d5a47|1 straipsnio 3 dalies]] [[#^s-9e8fc124048abf04829137cf|1]]–[[#^s-0e3fc72ca2c023877e43c15f|8]] punktuose. ^s-72271310a865e393517e571e
 
 
 2. Jeigu įstaiga tam tikros informacijos rinkimą ir tvarkymą nutraukia dėl to, kad pasikeitė įstaigos funkcijos, ji neprivalo ir toliau teikti tokios informacijos pareiškėjui. ^s-a48992fcc83a343fc2e273fa

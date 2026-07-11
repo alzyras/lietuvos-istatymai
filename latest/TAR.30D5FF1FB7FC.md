@@ -58,7 +58,7 @@ Vilnius
 1. 80 straipsnio 2 dalyje po žodžių „kurie nėra apmokestinamieji asmenys“ įrašyti žodžius „ir kai tiekiamos PVM neapmokestinamos prekės ir teikiamos PVM neapmokestinamos paslaugos, kurių sąrašą tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija ir kurios nurodytos šio Įstatymo IV skyriuje“ ir šią dalį išdėstyti taip: ^s-cfbb52b42a0051ef6ebb3fb7
 
 
-„2. Kai pagal šio Įstatymo nuostatas PVM sąskaitomis-faktūromis privaloma įforminti prekių tiekimą ar paslaugų teikimą fiziniams asmenims, kurie nėra apmokestinamieji asmenys, ir kai tiekiamos PVM neapmokestinamos prekės ir teikiamos PVM neapmokestinamos paslaugos, kurių sąrašą tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija ir kurios nurodytos šio Įstatymo IV skyriuje, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka kai kurie iš [[#^s-cfbb52b42a0051ef6ebb3fb7|šio straipsnio 1 dalyje]] išvardytų rekvizitų gali būti nenurodomi.“
+„2. Kai pagal šio Įstatymo nuostatas PVM sąskaitomis-faktūromis privaloma įforminti prekių tiekimą ar paslaugų teikimą fiziniams asmenims, kurie nėra apmokestinamieji asmenys, ir kai tiekiamos PVM neapmokestinamos prekės ir teikiamos PVM neapmokestinamos paslaugos, kurių sąrašą tvirtina Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija ir kurios nurodytos šio Įstatymo IV skyriuje, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka kai kurie iš šio straipsnio 1 dalyje išvardytų rekvizitų gali būti nenurodomi.“
 
 
 2. Papildyti 80 straipsnį 7 dalimi: ^s-5cee080bb763c4db3bc4738f

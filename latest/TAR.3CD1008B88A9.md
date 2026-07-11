@@ -277,7 +277,7 @@ Nr. XIV-1537, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24187
 4) rengia Krašto apsaugos ministerijos ir jai, kaip civilinei mobilizacijos institucijai, pavaldžių subjektų, išskyrus Lietuvos kariuomenę ir Antrąjį operatyvinių tarnybų departamentą prie Lietuvos Respublikos krašto apsaugos ministerijos, mobilizacijos planą; ^s-7693933653ddfd00cf871a43
 
 
-5) rengia ir, suderinusi su Lietuvos Respublikos aplinkos ministerija, teikia Vyriausybei tvirtinti karinės infrastruktūros, reikalingos priimančiosios šalies paramai užtikrinti, sąrašą kartu su motyvuotu karinės infrastruktūros ir jai pritaikyti ir (ar) sukurti reikalingos teritorijos pagrindimu, kuriame detaliai aprašomas šio įstatymo [[#^s-f6eeb560f7195bdfe7d03092|6 straipsnio 10 punkte]] nurodytų kriterijų įvertinimas; ^s-d999ed4a78e956d0ed125915
+5) rengia ir, suderinusi su Lietuvos Respublikos aplinkos ministerija, teikia Vyriausybei tvirtinti karinės infrastruktūros, reikalingos priimančiosios šalies paramai užtikrinti, sąrašą kartu su motyvuotu karinės infrastruktūros ir jai pritaikyti ir (ar) sukurti reikalingos teritorijos pagrindimu, kuriame detaliai aprašomas šio įstatymo 6 straipsnio 10 punkte nurodytų kriterijų įvertinimas; ^s-d999ed4a78e956d0ed125915
 Papildyta straipsnio punktu:
 Nr. XIV-1537, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24187
 Straipsnio punkto pakeitimai:
@@ -535,7 +535,7 @@ Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
 3) sudaro sąlygas Institucijos, dalyvaujančios formuojant mobilizacijos politiką, taip pat kitų mobilizacinio užsakymo ir (ar) priimančiosios šalies paramos teikimo sutartis su juo sudariusių mobilizacijos sistemos subjektų vadovų įgaliotiems asmenims patikrinti, ar yra tinkamai pasirengęs vykdyti jam nustatytus sutartinius įsipareigojimus; ^s-17e43cc286a6b341fa4d54ba
 
 
-4) užtikrina mobilizacinio ūkio subjekto darbuotojų dalyvavimą šio įstatymo [[#^s-9ec018521e69ef092cc648ba|18 straipsnio]] 2, 3 ir 5 dalyse nurodytuose mokymuose; ^s-f8068de60cb2c3b4a0aef063
+4) užtikrina mobilizacinio ūkio subjekto darbuotojų dalyvavimą šio įstatymo [[#^s-9ec018521e69ef092cc648ba|18 straipsnio]] [[#^s-8623e686a4c3339ec4f0d17c|2]], [[#^s-7590b9b4020975de42b8769d|3]] ir [[#^s-d47c635e6afc67f8fa343324|5]] dalyse nurodytuose mokymuose; ^s-f8068de60cb2c3b4a0aef063
 Straipsnio punkto pakeitimai:
 Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
 
@@ -662,7 +662,7 @@ Nr. XV-272, 2025-06-12, paskelbta TAR 2025-06-18, i. k. 2025-11026
 7. Mobilizacijos sistemos subjektai, karo prievolę administruojanti krašto apsaugos sistemos institucija, Valstybinio socialinio draudimo fondo valdyba ir kitos Vyriausybės ar jos įgaliotos institucijos nustatytos institucijos turi teisę gauti iš visų valstybės ir savivaldybių institucijų ir įstaigų, kitų fizinių ir juridinių asmenų bei jų padalinių, taip pat registrų informacinių sistemų, valstybės informacinių sistemų informaciją, dokumentus, duomenis, įskaitant asmens duomenis, reikalingus [[#^s-f3f93fa85522cb4cfff0efc3|šio straipsnio 2 dalyje]] nurodytų asmenų apskaitai tvarkyti, o šioje dalyje nurodyti asmenys, išskyrus Valstybės saugumo departamentą, privalo mobilizacijos sistemos subjekto, karo prievolę administruojančios krašto apsaugos sistemos institucijos ir kitų Vyriausybės ar jos įgaliotos institucijos nustatytų institucijų prašymu tokią informaciją, dokumentus, duomenis, įskaitant asmens duomenis, jiems pateikti. ^s-8655a62fe51b84ea546d5a65
 
 
-8. Mobilizacijos sistemos subjektui, karo prievolę administruojančiai krašto apsaugos sistemos institucijai, Valstybinio socialinio draudimo fondo valdybai ir kitoms Vyriausybės ar jos įgaliotos institucijos nustatytoms institucijoms, išskyrus privačius juridinius asmenis, tvarkant [[#^s-f3f93fa85522cb4cfff0efc3|šio straipsnio 2 dalyje]] nurodytų asmenų asmens duomenis [[#^s-2b52159e576542136595aebb|šio straipsnio 6 dalyje]] nurodytais tikslais, taikomas [[latest/TAR.299D835159BE#^s-c6ea9201c375bbd7fc77da79|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymas, kurio 11 straipsnio 2 dalyje]], [[#^s-5fdaf5ef5e8232484687b44d|14 straipsnio 5 dalyje]] ir 30 straipsnio 1 dalyje nurodyta informacija duomenų subjektams neteikiama ir [[#^s-3dc529cf33742ee74742030c|12 straipsnyje]] nustatyta duomenų subjektų teisė susipažinti su asmens duomenimis visiškai apribojama, siekiant užtikrinti visuomenės saugumą, nacionalinį saugumą bei apsaugoti kitų asmenų teises ir laisves,  paskelbus mobilizaciją, iki bus paskelbta demobilizacija. Privatūs juridiniai asmenys savo į civilinio mobilizacinio personalo rezervą įrašytų darbuotojų asmens duomenis tvarko vadovaudamiesi  šiuo įstatymu ir jo įgyvendinamaisiais teisės aktais, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]]. ^s-f0823ccef39da98072e13a70
+8. Mobilizacijos sistemos subjektui, karo prievolę administruojančiai krašto apsaugos sistemos institucijai, Valstybinio socialinio draudimo fondo valdybai ir kitoms Vyriausybės ar jos įgaliotos institucijos nustatytoms institucijoms, išskyrus privačius juridinius asmenis, tvarkant [[#^s-f3f93fa85522cb4cfff0efc3|šio straipsnio 2 dalyje]] nurodytų asmenų asmens duomenis [[#^s-2b52159e576542136595aebb|šio straipsnio 6 dalyje]] nurodytais tikslais, taikomas [[latest/TAR.299D835159BE#^s-c6ea9201c375bbd7fc77da79|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymas, kurio 11 straipsnio 2 dalyje]], [[#^s-5fdaf5ef5e8232484687b44d|14 straipsnio 5 dalyje]] ir 30 straipsnio 1 dalyje nurodyta informacija duomenų subjektams neteikiama ir [[#^s-3dc529cf33742ee74742030c|12 straipsnyje]] nustatyta duomenų subjektų teisė susipažinti su asmens duomenimis visiškai apribojama, siekiant užtikrinti visuomenės saugumą, nacionalinį saugumą bei apsaugoti kitų asmenų teises ir laisves,  paskelbus mobilizaciją, iki bus paskelbta demobilizacija. Privatūs juridiniai asmenys savo į civilinio mobilizacinio personalo rezervą įrašytų darbuotojų asmens duomenis tvarko vadovaudamiesi  šiuo įstatymu ir jo įgyvendinamaisiais teisės aktais, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu) ir [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]]. ^s-f0823ccef39da98072e13a70
 
 
 Straipsnio pakeitimai:
@@ -804,7 +804,7 @@ MOBILIZACIJOS IR DEMOBILIZACIJOS SKELBIMAS, VYKDYMAS IR MOBILIZACIJOS VALDYMAS
 2. Ginkluoto užpuolimo atveju, kai kyla grėsmė valstybės suverenumui ar teritorijos vientisumui, Respublikos Prezidentas skelbia mobilizaciją ir teikia šį sprendimą tvirtinti artimiausiame Seimo posėdyje, o tarp Seimo sesijų – nedelsdamas šaukia neeilinę Seimo sesiją. Respublikos Prezidentas gali skelbti visuotinę arba dalinę mobilizaciją. Seimas patvirtina arba panaikina Respublikos Prezidento sprendimą. ^s-ee6f54a75e722b6a7efeaeee
 
 
-3. Seimo nutarime arba Respublikos Prezidento dekrete dėl visuotinės mobilizacijos skelbimo turi būti nurodyta, kad skelbiama visuotinė mobilizacija, jos skelbimo pagrindas ir ar taikoma šio įstatymo [[#^s-db1d3596d0bce13ed12ae753|22 straipsnio 6 punkte]] nurodyta priemonė. ^s-54f1976172bbba6a8d694da0
+3. Seimo nutarime arba Respublikos Prezidento dekrete dėl visuotinės mobilizacijos skelbimo turi būti nurodyta, kad skelbiama visuotinė mobilizacija, jos skelbimo pagrindas ir ar taikoma šio įstatymo 22 straipsnio 6 punkte nurodyta priemonė. ^s-54f1976172bbba6a8d694da0
 
 
 4. Seimui paskelbus dalinę mobilizaciją ar Respublikos Prezidentui priėmus sprendimą dėl dalinės mobilizacijos skelbimo, Seimo nutarime arba Respublikos Prezidento dekrete turi būti nurodoma: dalinės mobilizacijos skelbimo pagrindas, kurioje valstybės teritorijos dalyje mobilizacija skelbiama, kokie mobilizacijos sistemos subjektai dalyvauja ir kokios priemonės, nurodytos šio įstatymo [[#^s-8c74ad8bdfe93fc14b89f12f|22 straipsnyje]], turi būti vykdomos. ^s-3049cbbd9d6e893c27f330a5
@@ -1079,7 +1079,7 @@ Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1766, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20877
-Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 2, 8, 10 ir [[#^s-511524845c469919e9b86f2c|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 [[#^s-db098cf9f6bc0b34df59d9d4|2]], [[#^s-609b5e3b7375105e394de362|8]], [[#^s-0ae1f3a96a067278a7f01c2b|10]] ir [[#^s-511524845c469919e9b86f2c|15]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1089,12 +1089,12 @@ Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1537, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24187
-Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 6 ir [[#^s-2a411c2f474147eb259b79e1|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 [[#^s-ab5b9d2a42728d60599432cf|6]] ir [[#^s-2a411c2f474147eb259b79e1|7]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1931, 2023-05-09, paskelbta TAR 2023-05-19, i. k. 2023-09519
-Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 6 ir [[#^s-2a411c2f474147eb259b79e1|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 [[#^s-ab5b9d2a42728d60599432cf|6]] ir [[#^s-2a411c2f474147eb259b79e1|7]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1104,14 +1104,14 @@ Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2731, 2024-06-13, paskelbta TAR 2024-06-26, i. k. 2024-11568
-Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 2, 18 ir [[#^s-8c74ad8bdfe93fc14b89f12f|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 [[#^s-db098cf9f6bc0b34df59d9d4|2]], [[#^s-9ec018521e69ef092cc648ba|18]] ir [[#^s-8c74ad8bdfe93fc14b89f12f|22]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2947, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13612
-Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 2, 10, 11, 12, 14, 17, 18, 20, [[#^s-5a2baad6c52c2d9f450426db|26 straipsnių]] pakeitimo ir Įstatymo papildymo 17-1, 18-1 straipsniais įstatymas
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 [[#^s-db098cf9f6bc0b34df59d9d4|2]], [[#^s-0ae1f3a96a067278a7f01c2b|10]], [[#^s-f1a5d487684261019e32abad|11]], [[#^s-3dc529cf33742ee74742030c|12]], [[#^s-8a66f1828a13faf0acc33af1|14]], [[#^s-60061337440615f5a45d587e|17]], [[#^s-9ec018521e69ef092cc648ba|18]], [[#^s-f69bba843b02d5c711b639e0|20]], [[#^s-5a2baad6c52c2d9f450426db|26]] straipsnių pakeitimo ir Įstatymo papildymo 17-1, 18-1 straipsniais įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-272, 2025-06-12, paskelbta TAR 2025-06-18, i. k. 2025-11026
-Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 8, 10 ir [[#^s-8a66f1828a13faf0acc33af1|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymo Nr. I-1623 [[#^s-609b5e3b7375105e394de362|8]], [[#^s-0ae1f3a96a067278a7f01c2b|10]] ir [[#^s-8a66f1828a13faf0acc33af1|14]] straipsnių pakeitimo įstatymas

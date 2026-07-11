@@ -144,7 +144,7 @@ VALSTYBĖS SOCIALINIŲ FONDŲ BIUDŽETŲ PAJAMOS IR SĄNAUDOS
 1. VSDF biudžeto pajamas sudaro: ^s-8e658fc825c5650d3a38bf07
 
 
-1) valstybinio socialinio draudimo (toliau – socialinis draudimas) įmokos, kurias draudėjai, apdraustieji, savarankiškai dirbantys asmenys ir savanoriškai socialiniu draudimu besidraudžiantys asmenys privalo sumokėti į VSDF pagal [[latest/TAR.0F9036415DBD#^s-bfa41525bf86aaeefe10fbcc|Valstybinio socialinio draudimo įstatymo 4, 5 ir 6 straipsnius]]; ^s-5334fca9929ecca81a4e8b1d
+1) valstybinio socialinio draudimo (toliau – socialinis draudimas) įmokos, kurias draudėjai, apdraustieji, savarankiškai dirbantys asmenys ir savanoriškai socialiniu draudimu besidraudžiantys asmenys privalo sumokėti į VSDF pagal [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo]] [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|4]], [[latest/TAR.0F9036415DBD#^s-8ee2840c34c94160c2f6d690|5]] ir [[latest/TAR.0F9036415DBD#^s-bfa41525bf86aaeefe10fbcc|6]] straipsnius; ^s-5334fca9929ecca81a4e8b1d
 
 
 2) iš valstybės biudžeto ir (ar) kitų valstybės piniginių išteklių gautos lėšos, nurodytos [[#^s-87ee32e6c4000b743587a0c1|šio straipsnio 3 dalyje]]; ^s-45eeb0a351763eace03bf5b3
@@ -159,7 +159,7 @@ VALSTYBĖS SOCIALINIŲ FONDŲ BIUDŽETŲ PAJAMOS IR SĄNAUDOS
 5) kitos teisėtai gautinos lėšos. ^s-e1c647ddecddde1740da54c0
 
 
-2. VSDF biudžeto pajamas sudarančios socialinio draudimo įmokos skirstomos pagal socialinio draudimo rūšis, nurodytas [[latest/TAR.0F9036415DBD#^s-f35e227fd3a8e6d7596fde8a|Valstybinio socialinio draudimo įstatymo 3 straipsnio 1 dalies]] 1–5 punktuose. ^s-f9c0f0d4563ac291ba6912d5
+2. VSDF biudžeto pajamas sudarančios socialinio draudimo įmokos skirstomos pagal socialinio draudimo rūšis, nurodytas [[latest/TAR.0F9036415DBD#^s-f35e227fd3a8e6d7596fde8a|Valstybinio socialinio draudimo įstatymo 3 straipsnio 1 dalies]] [[latest/TAR.0F9036415DBD#^s-d5b619d853a125428c18fabb|1]]–[[latest/TAR.0F9036415DBD#^s-7791c7e8e8992cb156f36271|5]] punktuose. ^s-f9c0f0d4563ac291ba6912d5
 
 
 3. VSDF biudžeto pajamoms priskiriamos iš valstybės biudžeto [[latest/TAR.0F9036415DBD#^s-a75bf3054ee6c3d4ee1311ce|Valstybinio socialinio draudimo įstatymo 14 straipsnio 3 dalyje]] ir 23 straipsnio 1 dalyje nurodytais atvejais gaunamos lėšos. Lėšų VSDF biudžetui iš valstybės biudžeto skiriama atsižvelgiant ir į VSDF finansinę padėtį, kai dėl Seimo ar Lietuvos Respublikos Vyriausybės priimtų teisės aktų padidėja VSDF sąnaudos arba sumažėja jo pajamos, o atskirų socialinio draudimo rūšių įmokų tarifai nekeičiami arba keičiami nepakankamai. Sprendimą dėl šių lėšų iš valstybės biudžeto skyrimo priima Seimas, priimdamas Lietuvos Respublikos atitinkamų metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymą ir tvirtindamas atitinkamų biudžetinių metų VSDF biudžetą. ^s-87ee32e6c4000b743587a0c1
@@ -172,7 +172,7 @@ VALSTYBĖS SOCIALINIŲ FONDŲ BIUDŽETŲ PAJAMOS IR SĄNAUDOS
 1. VSDF biudžeto sąnaudas sudaro: ^s-649b70ae14b34e56ded06920
 
 
-1) [[latest/TAR.0F9036415DBD#^s-f35e227fd3a8e6d7596fde8a|Valstybinio socialinio draudimo įstatymo 3 straipsnio 1 dalies]] 1–5 punktuose nurodytų socialinio draudimo rūšių išmokų sąnaudos; ^s-aa142706730440bc614fc512
+1) [[latest/TAR.0F9036415DBD#^s-f35e227fd3a8e6d7596fde8a|Valstybinio socialinio draudimo įstatymo 3 straipsnio 1 dalies]] [[latest/TAR.0F9036415DBD#^s-d5b619d853a125428c18fabb|1]]–[[latest/TAR.0F9036415DBD#^s-7791c7e8e8992cb156f36271|5]] punktuose nurodytų socialinio draudimo rūšių išmokų sąnaudos; ^s-aa142706730440bc614fc512
 
 
 2) VSDF veiklos sąnaudos – VSDF administravimo įstaigų, atliekančių joms pavestas funkcijas, finansavimo sąnaudos, kurių klasifikaciją tvirtina VSDF valdybos direktorius, ilgalaikio turto nuvertėjimo, nusidėvėjimo ir amortizacijos sąnaudos, taip pat kitos VSDF veiklos sąnaudos; ^s-fab85f19f195f5f86b4da742
@@ -219,7 +219,7 @@ GF biudžeto pajamas sudaro:
 GF biudžeto sąnaudas sudaro:
 
 
-1) socialinės išmokos, skirtos [[latest/613244607e7011e6b969d7ae07280e89#^s-d1e4267cce9b0b07ef2f64aa|Garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo 3 straipsnio 1 dalyje]] nurodytų darbdavių darbuotojams nesumokėtoms su darbo santykiais susijusių [[latest/TAR.0F9036415DBD#^s-606c33ca7a00243851b5151e|Valstybinio socialinio draudimo įstatymo 10 straipsnio 1 dalies]] 1–6 punktuose nurodytų pajamų, nuo kurių atskaičiuoti mokėtini mokesčiai ir pensijų kaupimo įmokos pagal Lietuvos Respublikos pensijų kaupimo įstatymą, sumoms mokėti; ^s-959bacce8ef4422835294399
+1) socialinės išmokos, skirtos [[latest/613244607e7011e6b969d7ae07280e89#^s-d1e4267cce9b0b07ef2f64aa|Garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo 3 straipsnio 1 dalyje]] nurodytų darbdavių darbuotojams nesumokėtoms su darbo santykiais susijusių [[latest/TAR.0F9036415DBD#^s-606c33ca7a00243851b5151e|Valstybinio socialinio draudimo įstatymo 10 straipsnio 1 dalies]] [[latest/TAR.0F9036415DBD#^s-b760fc7fde9779812a13423e|1]]–[[latest/TAR.0F9036415DBD#^s-867f8d76303593a732598d21|6]] punktuose nurodytų pajamų, nuo kurių atskaičiuoti mokėtini mokesčiai ir pensijų kaupimo įmokos pagal Lietuvos Respublikos pensijų kaupimo įstatymą, sumoms mokėti; ^s-959bacce8ef4422835294399
 
 
 2) mokesčiai, nurodyti [[latest/TAR.3EB34933E485#^s-250b7a0b4550f7c3de89d5d9|Lietuvos Respublikos mokesčių administravimo įstatymo 13 straipsnyje]] (išskyrus gyventojų pajamų mokestį) ir kurie skaičiuojami nuo darbuotojams priskaičiuotų pajamų, nurodytų šio straipsnio [[#^s-959bacce8ef4422835294399|1 punkte]], mokami Garantinio fondo nuostatuose nustatyta tvarka; ^s-510dd2bc17b1b04002857df3
@@ -291,7 +291,7 @@ VALSTYBĖS SOCIALINIŲ FONDŲ BIUDŽETŲ PROJEKTŲ RENGIMAS IR TVIRTINIMAS
 1. Valstybės socialinių fondų biudžetų projektus kartu su Valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymo projektu, vadovaudamasi šio įstatymo, [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo]], [[latest/613244607e7011e6b969d7ae07280e89|Garantijų darbuotojams jų darbdaviui tapus nemokiam ir ilgalaikio darbo išmokų įstatymo]] nuostatomis bei socialinės apsaugos ir darbo ministro tvirtinamomis valstybės socialinių fondų biudžetų sudarymo ir vykdymo taisyklėmis, atsižvelgdama į naujausią Finansų ministerijos parengtą ir paskelbtą ekonominės raidos scenarijų, valstybės biudžeto ir savivaldybių biudžetų preliminarius pagrindinius rodiklius, rengia ir su Lietuvos Respublikos socialinės apsaugos ir darbo ministerija suderina VSDF valdyba. Kartu su Valstybės socialinių fondų biudžetų rodiklių patvirtinimo įstatymo projektu parengiamas valstybės socialinių fondų biudžetų projektų aiškinamasis raštas, kitų dvejų biudžetinių metų numatomų valstybės socialinių fondų biudžetų rodiklių prognozė ir kita informacija. ^s-8d1de5ada45e75830ade3836
 
 
-2. Valstybės socialinių fondų biudžetų projektų aiškinamajame rašte ir kitoje informacijoje pateikiama informacija apie numatomus [[latest/TAR.0F9036415DBD#^s-f35e227fd3a8e6d7596fde8a|Valstybinio socialinio draudimo įstatymo 3 straipsnio 1 dalies]] 1–5 punktuose nurodytų atskirų socialinio draudimo rūšių rezultatus, kitų biudžetinių metų valstybės socialinių fondų įplaukas ir išlaidas, taip pat pateikiami lydimieji dokumentai ir pagrindimai. ^s-5e7d13105af4af7e65b094f6
+2. Valstybės socialinių fondų biudžetų projektų aiškinamajame rašte ir kitoje informacijoje pateikiama informacija apie numatomus [[latest/TAR.0F9036415DBD#^s-f35e227fd3a8e6d7596fde8a|Valstybinio socialinio draudimo įstatymo 3 straipsnio 1 dalies]] [[latest/TAR.0F9036415DBD#^s-d5b619d853a125428c18fabb|1]]–[[latest/TAR.0F9036415DBD#^s-7791c7e8e8992cb156f36271|5]] punktuose nurodytų atskirų socialinio draudimo rūšių rezultatus, kitų biudžetinių metų valstybės socialinių fondų įplaukas ir išlaidas, taip pat pateikiami lydimieji dokumentai ir pagrindimai. ^s-5e7d13105af4af7e65b094f6
 
 
 3. VSDF biudžetas planuojamas, tvirtinamas, keičiamas ir vykdomas taip, kad atitiktų Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme VSDF biudžetui nustatytą biudžeto taisyklę. ^s-e47b6fc753cb9464d668c23c
@@ -461,7 +461,7 @@ Nr. IX-1748, 2003-10-07, Žin., 2003, Nr. 101-4535 (2003-10-29)
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
-[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]], ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, [[latest/TAR.94F6B680E8B8|SVEIKATOS DRAUDIMO ĮSTATYMO]], [[latest/TAR.FDF42614DE52|NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO]], [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]], VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34, 36, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, [[latest/TAR.A7F77DF94F5D#^s-737ad56397e2a7b754e12bc0|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO]], [[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]], ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, [[latest/TAR.94F6B680E8B8|SVEIKATOS DRAUDIMO ĮSTATYMO]], [[latest/TAR.FDF42614DE52|NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO]], [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]], VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO [[latest/TAR.A7F77DF94F5D#^s-f47bd8a85e88a1ed5fdb4426|33]], [[latest/TAR.A7F77DF94F5D#^s-5588e0dd4927669d9163f666|34]], [[latest/TAR.A7F77DF94F5D#^s-3c50246512d269ab920f3de0|36]], [[latest/TAR.A7F77DF94F5D#^s-f3e4bd0c130420115fe58c82|45]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]] [[latest/TAR.9347C8C7E0A3|9]], [[latest/TAR.9347C8C7E0A3|16]], [[latest/TAR.9347C8C7E0A3|28]], [[latest/TAR.9347C8C7E0A3|35]], [[latest/TAR.9347C8C7E0A3|36]], [[latest/TAR.9347C8C7E0A3|40]], [[latest/TAR.9347C8C7E0A3|43]], [[latest/TAR.9347C8C7E0A3|45]], [[latest/TAR.9347C8C7E0A3|49]], [[latest/TAR.9347C8C7E0A3|50]], [[latest/TAR.9347C8C7E0A3|54]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO]], [[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 
 5.
@@ -524,7 +524,7 @@ Nr. XI-2275, 2012-10-16, Žin., 2012, Nr. 127-6384 (2012-11-03)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2304, 2012-10-17, Žin., 2012, Nr. 127-6393 (2012-11-03)
 [[latest/TAR.4C3633469181|VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 3, 4, 5, 6, 7, 9, 11, 13, 14, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-f4fe276027833860453dfed1|3 straipsnio 2 dalį]], [[#^s-208ef37fdccad2a043f88bd7|7 straipsnio]] 1 ir [[#^s-8841cb391efb66e98e0695a8|3 dalis]] ir šio straipsnio 5 dalį, įsigalioja 2013 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-f4fe276027833860453dfed1|3 straipsnio 2 dalį]], [[#^s-208ef37fdccad2a043f88bd7|7 straipsnio]] 1 ir 3 dalis ir šio straipsnio 5 dalį, įsigalioja 2013 m. sausio 1 d.
 Šio įstatymo [[#^s-f4fe276027833860453dfed1|3 straipsnio 2 dalis]], 7 straipsnio 1 dalis įsigalioja 2015 m. sausio 1 d.
 Šio įstatymo [[#^s-b05edeb1dc7c40dceb75594e|3 straipsnio 3 dalis]], 7 straipsnio 2 dalis galioja iki 2014 m. gruodžio 31 d.
 Šio įstatymo 7 straipsnio 3 dalies normos taikomos nustatant paskolų, suteiktų po 2014 m. sausio 1 d., palūkanų dengimą iš Lietuvos Respublikos valstybės biudžeto lėšų.
@@ -556,37 +556,37 @@ Nr. XII-667, 2013-12-12, Žin., 2013, Nr. 140-7049 (2013-12-30); paskelbta TAR 2
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1345, 2014-11-20, paskelbta TAR 2014-11-26, i. k. 2014-17994
-Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 1, 2, 9, 11, [[#^s-c5bcb0536e3ab86111a43935|15 straipsnių]] pakeitimo ir Įstatymo papildymo 16 straipsniu ir priedu įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 [[#^s-91e39b210d3f6955b708445e|1]], [[#^s-cafe8051621a1389a6a05653|2]], [[#^s-444ea7f27fda239ceccd3a52|9]], [[#^s-4bd9e8c9f3e0a6cf3fbd2772|11]], [[#^s-c5bcb0536e3ab86111a43935|15]] straipsnių pakeitimo ir Įstatymo papildymo 16 straipsniu ir priedu įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2511, 2016-06-29, paskelbta TAR 2016-07-15, i. k. 2016-20648
-Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 2, 4, 5, 6, 11 ir [[#^s-76b2fe6dbe956a7365216dde|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 [[#^s-cafe8051621a1389a6a05653|2]], [[#^s-27281b4b1ada709431d0a1a1|4]], [[#^s-cbfd7577dfe0fe9ef9895dfa|5]], [[#^s-f45f207bad433ef23963112d|6]], [[#^s-4bd9e8c9f3e0a6cf3fbd2772|11]] ir [[#^s-76b2fe6dbe956a7365216dde|14]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-131, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29835
-Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 2, 4, 5, 6, 11 ir [[#^s-76b2fe6dbe956a7365216dde|14 straipsnių]] pakeitimo [[latest/6f9531e04a7011e6b5d09300a16a686c|įstatymo Nr. XII-2511]] [[#^s-cbfd7577dfe0fe9ef9895dfa|5 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 [[#^s-cafe8051621a1389a6a05653|2]], [[#^s-27281b4b1ada709431d0a1a1|4]], [[#^s-cbfd7577dfe0fe9ef9895dfa|5]], [[#^s-f45f207bad433ef23963112d|6]], [[#^s-4bd9e8c9f3e0a6cf3fbd2772|11]] ir [[#^s-76b2fe6dbe956a7365216dde|14]] straipsnių pakeitimo [[latest/6f9531e04a7011e6b5d09300a16a686c|įstatymo Nr. XII-2511]] [[#^s-cbfd7577dfe0fe9ef9895dfa|5 straipsnio]] pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-825, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20049
-Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 2, 4, 5, 7 ir [[#^s-4bd9e8c9f3e0a6cf3fbd2772|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 [[#^s-cafe8051621a1389a6a05653|2]], [[#^s-27281b4b1ada709431d0a1a1|4]], [[#^s-cbfd7577dfe0fe9ef9895dfa|5]], [[#^s-208ef37fdccad2a043f88bd7|7]] ir [[#^s-4bd9e8c9f3e0a6cf3fbd2772|11]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1337, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11430
-Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 4, 5, 6, 7 ir [[#^s-4bd9e8c9f3e0a6cf3fbd2772|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 [[#^s-27281b4b1ada709431d0a1a1|4]], [[#^s-cbfd7577dfe0fe9ef9895dfa|5]], [[#^s-f45f207bad433ef23963112d|6]], [[#^s-208ef37fdccad2a043f88bd7|7]] ir [[#^s-4bd9e8c9f3e0a6cf3fbd2772|11]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3314, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21252
-Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 1, 2, 5, 13, [[#^s-c5bcb0536e3ab86111a43935|15 straipsnių]], antrojo ir trečiojo skirsnių pavadinimo pakeitimo ir [[#^s-4097165208f1c180a35199ff|8 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 [[#^s-91e39b210d3f6955b708445e|1]], [[#^s-cafe8051621a1389a6a05653|2]], [[#^s-cbfd7577dfe0fe9ef9895dfa|5]], [[#^s-01b449fcb3a6ee6efceb1e80|13]], [[#^s-c5bcb0536e3ab86111a43935|15]] straipsnių, antrojo ir trečiojo skirsnių pavadinimo pakeitimo ir [[#^s-4097165208f1c180a35199ff|8 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-848, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27748
-Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 1, 2, 5, 13, [[#^s-c5bcb0536e3ab86111a43935|15 straipsnių]], antrojo ir trečiojo skirsnių pavadinimo pakeitimo ir [[#^s-4097165208f1c180a35199ff|8 straipsnio]] pripažinimo netekusiu galios [[latest/bcbd73e00d4111ebb74de75171d26d52|įstatymo Nr. XIII-3314]] [[#^s-444ea7f27fda239ceccd3a52|9 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo fondo biudžeto sandaros įstatymo Nr. IX-547 [[#^s-91e39b210d3f6955b708445e|1]], [[#^s-cafe8051621a1389a6a05653|2]], [[#^s-cbfd7577dfe0fe9ef9895dfa|5]], [[#^s-01b449fcb3a6ee6efceb1e80|13]], [[#^s-c5bcb0536e3ab86111a43935|15]] straipsnių, antrojo ir trečiojo skirsnių pavadinimo pakeitimo ir [[#^s-4097165208f1c180a35199ff|8 straipsnio]] pripažinimo netekusiu galios [[latest/bcbd73e00d4111ebb74de75171d26d52|įstatymo Nr. XIII-3314]] [[#^s-444ea7f27fda239ceccd3a52|9 straipsnio]] pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas

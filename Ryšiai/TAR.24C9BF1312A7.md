@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo 37 straipsnio pakeitim
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymas]] - 2 citatos - Lietuvos Respublikos Vyriausybės įstatymo
+- [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymas]] - Lietuvos Respublikos Vyriausybės įstatymo 411 straipsnio 1 dalis
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.96A68BFC9E82#^s-6441e2315f1f73a9da2d6c3d|Lietuvos Respublikos Vyriausybės įstatymas]] - 2 citatos - VYRIAUSYBĖS ĮSTATYMO 37 STRAIPSNIO PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 41(1) STRAIPSNIU BEI VIENUOLIKTUOJU SKIRSNIU ĮSTATYMAS
-- [[latest/TAR.96A68BFC9E82#^s-94ff0f6ce570b86058afcfb6|Lietuvos Respublikos Vyriausybės įstatymas]] - 2 citatos - VYRIAUSYBĖS ĮSTATYMO 37 STRAIPSNIO PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 41(1) STRAIPSNIU BEI VIENUOLIKTUOJU SKIRSNIU ĮSTATYMAS
+- [[latest/TAR.96A68BFC9E82#^s-6441e2315f1f73a9da2d6c3d|Lietuvos Respublikos Vyriausybės įstatymas]] - VYRIAUSYBĖS ĮSTATYMO 37 STRAIPSNIO PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 41(1) STRAIPSNIU BEI VIENUOLIKTUOJU SKIRSNIU ĮSTATYMAS

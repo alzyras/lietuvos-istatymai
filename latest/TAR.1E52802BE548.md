@@ -490,7 +490,7 @@ Vilnius
 4. Likviduotos viešosios įstaigos dokumentai saugomi [[latest/TAR.1FEF229DA7C6|Archyvų įstatymo]] nustatyta tvarka. ^s-1fc08559ef20068b596f8a6b
 
 
-5. Likviduojant viešąją įstaigą, jos darbuotojai atleidžiami ir su jais atsiskaitoma Darbo sutarties įstatymo nustatyta tvarka. ^s-85cc23bffee9a139d7787939
+5. Likviduojant viešąją įstaigą, jos darbuotojai atleidžiami ir su jais atsiskaitoma [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) nustatyta tvarka. ^s-85cc23bffee9a139d7787939
 
 
 6. Apie viešosios įstaigos likvidavimą viešai skelbiama du kartus ne rečiau kaip kas mėnesį arba kiekvienam kreditoriui pranešama raštu. ^s-1f1c73ccd30b2eff8c2ba02a

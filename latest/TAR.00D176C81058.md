@@ -73,7 +73,7 @@ BENDROSIOS NUOSTATOS
 2. Šeimynos veiklos paskirtis – užtikrinti vaikų globą (rūpybą), priežiūrą pagal vaikų globą (rūpybą) bei laikiną apgyvendinimą reglamentuojančius teisės aktus ir teikti socialinę globą pagal socialinę globą reglamentuojančius teisės aktus, užtikrinti reikiamą pagalbą ir paslaugas pagal individualius vaikų poreikius, įskaitant specialiuosius vaikų su negalia ir specialiųjų ugdymosi poreikių turinčių vaikų poreikius, lemiamus jų amžiaus, brandos, įgimtų ar įgytų savybių arba kitų ypatumų, bei jų integraciją į visuomenę teisės aktų nustatyta tvarka. ^s-a2e437b3a63e47bd6955abd4
 
 
-3. Šeimyna savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Civiliniu kodeksu, [[latest/TAR.91609F53E29E|Socialinių paslaugų įstatymu]], [[latest/TAR.C8205E261830|Vaiko teisių apsaugos pagrindų įstatymu]], šiuo įstatymu, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos tvirtinamais šeimynų nuostatais (toliau – Šeimynų nuostatai), kitais teisės aktais, reglamentuojančiais vaiko laikiną apgyvendinimą, jo globą (rūpybą) ir (ar) šeimynos veiklą, ir šeimynos įstatais. ^s-4aa100dabf2d2d731c27814b
+3. Šeimyna savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Civiliniu kodeksu, [[latest/TAR.91609F53E29E|Socialinių paslaugų įstatymu]], [[latest/TAR.C8205E261830|Vaiko teisių apsaugos pagrindų įstatymu]], šiuo įstatymu, Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos tvirtinamais šeimynų nuostatais (toliau – Šeimynų nuostatai), kitais teisės aktais, reglamentuojančiais vaiko laikiną apgyvendinimą, jo globą (rūpybą) ir (ar) šeimynos veiklą, ir šeimynos įstatais. ^s-4aa100dabf2d2d731c27814b
 
 
 4. Šeimynoje globojami (rūpinami) ar laikinai apgyvendinami tos savivaldybės teritorijoje, kurioje įsteigta šeimyna, likę be tėvų globos vaikai. Savivaldybių merų ar jų įgaliotų savivaldybės administracijos direktorių rašytiniu tarpusavio sutarimu dėl likusių be tėvų globos vaikų apgyvendinimo ir jų globos (rūpybos) šeimynoje finansavimo užtikrinimo bei finansinės ir materialinės pagalbos šeimynos veiklai užtikrinimo šeimynoje gali būti globojami (rūpinami) ar laikinai apgyvendinami ir kitos savivaldybės teritorijoje likę be tėvų globos vaikai. Kitos savivaldybės teritorijoje įsteigtoje šeimynoje vaikai apgyvendinami be savivaldybių merų ar jų įgaliotų savivaldybės administracijos direktorių rašytinio tarpusavio sutarimo dėl likusių be tėvų globos vaikų apgyvendinimo ir jų globos (rūpybos) šeimynoje finansavimo užtikrinimo bei finansinės ir materialinės pagalbos šeimynos veiklai užtikrinimo, jeigu neišskiriami broliai ir seserys. ^s-8fe908546b42b0b170251395
@@ -578,7 +578,7 @@ Nr. XV-669, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22545
 2. Jeigu, sumažėjus šio įstatymo nustatytam šeimynoje globojamų (rūpinamų) ir (ar) laikinai apgyvendintų vaikų skaičiui, į šią šeimyną dėl objektyvių aplinkybių (dėl šeimynos dalyvių amžiaus ar jų ligos) negali būti priimami kiti likę be tėvų globos vaikai, šeimyna tęsia veiklą tol, kol visi jos globojami (rūpinami) vaikai sulaukia pilnametystės. ^s-83aa4b2a25112d5e3d0d5681
 
 
-3. Jeigu šeimynoje globojamų (rūpinamų) ir (ar) laikinai apgyvendintų vaikų skaičius sumažėja iki 6 ar mažesnio skaičiaus, bet jis nėra mažesnis negu šio įstatymo [[#^s-7dc097f23a68ad409a1537cb|2 straipsnio 1 dalyje]] nustatytas šeimynoje globojamų (rūpinamų) ir (ar) laikinai apgyvendintų vaikų skaičius, šeimyna turi [[#^s-9cbd12da4b9059bc679d5164|3 dalyvius]] ir Vaiko globos organizavimo nuostatuose nustatyta tvarka atsisako globoti (rūpinti) ar prižiūrėti daugiau jai pasiūlytų likusių be tėvų globos vaikų, ji bendru sutarimu per 3 darbo dienas nuo atsisakymo globoti (rūpinti) ar prižiūrėti daugiau jai pasiūlytų likusių be tėvų globos vaikų pateikimo Vaiko globos organizavimo nuostatuose nustatyta tvarka dienos turi sumažinti šeimynos dalyvių skaičių iki vieno ar [[#^s-83aa4b2a25112d5e3d0d5681|2 dalyvių]] ir šio skaičiaus pokytį įregistruoti Juridinių asmenų registre. ^s-9cbd12da4b9059bc679d5164
+3. Jeigu šeimynoje globojamų (rūpinamų) ir (ar) laikinai apgyvendintų vaikų skaičius sumažėja iki 6 ar mažesnio skaičiaus, bet jis nėra mažesnis negu šio įstatymo [[#^s-7dc097f23a68ad409a1537cb|2 straipsnio 1 dalyje]] nustatytas šeimynoje globojamų (rūpinamų) ir (ar) laikinai apgyvendintų vaikų skaičius, šeimyna turi 3 dalyvius ir Vaiko globos organizavimo nuostatuose nustatyta tvarka atsisako globoti (rūpinti) ar prižiūrėti daugiau jai pasiūlytų likusių be tėvų globos vaikų, ji bendru sutarimu per 3 darbo dienas nuo atsisakymo globoti (rūpinti) ar prižiūrėti daugiau jai pasiūlytų likusių be tėvų globos vaikų pateikimo Vaiko globos organizavimo nuostatuose nustatyta tvarka dienos turi sumažinti šeimynos dalyvių skaičių iki vieno ar [[#^s-83aa4b2a25112d5e3d0d5681|2 dalyvių]] ir šio skaičiaus pokytį įregistruoti Juridinių asmenų registre. ^s-9cbd12da4b9059bc679d5164
 
 
 
@@ -600,10 +600,10 @@ BAIGIAMOSIOS NUOSTATOS
 ### 22 straipsnis. Asmens duomenų tvarkymas ir dokumentų saugojimas ^s-fb455022bc05bf2e27248a80
 
 
-1. Įgyvendindami šį įstatymą, duomenų valdytojai užtikrina, kad jų atliekamas asmens duomenų tvarkymas atitiktų 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentą (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, nuostatas. ^s-a436abe594d06e278030a233
+1. Įgyvendindami šį įstatymą, duomenų valdytojai užtikrina, kad jų atliekamas asmens duomenų tvarkymas atitiktų 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentą (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] ir kitų teisės aktų, reglamentuojančių asmens duomenų apsaugą, nuostatas. ^s-a436abe594d06e278030a233
 
 
-2. Šeimynos veiklos dokumentai (įskaitant dokumentus, kuriuose yra asmens duomenų) saugomi [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymo]] nustatyta tvarka Lietuvos vyriausiojo archyvaro nustatytais terminais. Duomenų subjektų teisės įgyvendinamos duomenų valdytojo, į kurį kreipiamasi dėl duomenų subjekto teisių įgyvendinimo, nustatyta tvarka, vadovaujantis Reglamentu (ES) 2016/679. ^s-b91d4cf3831cab280d5632b9
+2. Šeimynos veiklos dokumentai (įskaitant dokumentus, kuriuose yra asmens duomenų) saugomi [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymo]] nustatyta tvarka Lietuvos vyriausiojo archyvaro nustatytais terminais. Duomenų subjektų teisės įgyvendinamos duomenų valdytojo, į kurį kreipiamasi dėl duomenų subjekto teisių įgyvendinimo, nustatyta tvarka, vadovaujantis [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj). ^s-b91d4cf3831cab280d5632b9
 
 
 
@@ -633,12 +633,12 @@ Nr. XII-507, 2013-07-02, Žin., 2013, Nr. 75-3778 (2013-07-13), i. k. [[latest/T
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2192, 2015-12-15, paskelbta TAR 2015-12-22, i. k. 2015-20219
-Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 7, 10, 12, 14 ir [[#^s-1b9ed811ad9c160b9fa550ee|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 [[#^s-b206189df5500dcd8611f8f3|7]], [[#^s-c4105a4fe5b103b1518ae9c4|10]], [[#^s-d064396adc61d66a2ececf83|12]], [[#^s-1a055f8139e11c1b00acd749|14]] ir [[#^s-1b9ed811ad9c160b9fa550ee|15]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-648, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16083
-Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 2, 4, 5, 9, 12, 18, 19, 20, 21 ir [[#^s-fb455022bc05bf2e27248a80|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 [[#^s-24d1617327d20548b0d025be|2]], [[#^s-bd5365aa553914eb7597261f|4]], [[#^s-4f6c04e2e50ad40dc2970454|5]], [[#^s-44f967954c103cb59bc274ac|9]], [[#^s-d064396adc61d66a2ececf83|12]], [[#^s-62e6229d63d87e904755244c|18]], [[#^s-f5ee7eddb8b9760685dc7272|19]], [[#^s-49076a5a72a9f3be601fc977|20]], [[#^s-6b633d633eacc13bd8a2fee8|21]] ir [[#^s-fb455022bc05bf2e27248a80|22]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -653,9 +653,9 @@ Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 pakeitimo įstatymas
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1853, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05758
-Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 3, 4, 5, 8, 15 ir [[#^s-5fc601f327643a62621f84b9|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 [[#^s-f4f3ce4201956dadc71b623a|3]], [[#^s-bd5365aa553914eb7597261f|4]], [[#^s-4f6c04e2e50ad40dc2970454|5]], [[#^s-ec5417ab87aa9b3985138c51|8]], [[#^s-1b9ed811ad9c160b9fa550ee|15]] ir [[#^s-5fc601f327643a62621f84b9|17]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-669, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22545
-Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 4, 5 ir [[#^s-5fc601f327643a62621f84b9|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos šeimynų įstatymo Nr. XI-681 [[#^s-bd5365aa553914eb7597261f|4]], [[#^s-4f6c04e2e50ad40dc2970454|5]] ir [[#^s-5fc601f327643a62621f84b9|17]] straipsnių pakeitimo įstatymas

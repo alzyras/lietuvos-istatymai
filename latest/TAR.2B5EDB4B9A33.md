@@ -153,7 +153,7 @@ Pakeisti 75 straipsnį ir jį išdėstyti taip:
 3. Teismas asmeniui jo ar kitų baudžiamojo proceso dalyvių prašymu, taip pat savo nuožiūra gali paskirti kitas baudžiamajame įstatyme nenumatytas pareigas, kurios, teismo nuomone, turėtų teigiamos įtakos nuteistojo elgesiui. ^s-b7bcc3bd3624ab7306b0347c
 
 
-4. Skirdamas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) šio straipsnio 2 ir [[#^s-b7bcc3bd3624ab7306b0347c|3 dalyse]] numatytas pareigas, teismas nustato laiką, per kurį nuteistasis privalo jas įvykdyti. ^s-097afa9c83d5c470c7dddfbb
+4. Skirdamas šio kodekso IX skyriuje numatytas baudžiamojo poveikio priemones ir (ar) šio straipsnio [[#^s-b7aaba10e5fb3d0e3975c387|2]] ir [[#^s-b7bcc3bd3624ab7306b0347c|3]] dalyse numatytas pareigas, teismas nustato laiką, per kurį nuteistasis privalo jas įvykdyti. ^s-097afa9c83d5c470c7dddfbb
 
 
 5. Bausmės vykdymo atidėjimo vykdymo tvarką ir sąlygas nustato [[latest/TAR.58398896D322|Lietuvos Respublikos probacijos įstatymas]].“ ^s-baab36fb2fbf7f205f6bf745

@@ -53,7 +53,7 @@ LAIVO ĮKEITIMAS
 1. Laivai, įregistruoti Lietuvos Respublikos laivų registre ar laivų knygoje, įkeičiami vadovaujantis Lietuvos Respublikos hipotekos bei šio įstatymo nustatyta tvarka. ^s-fff0159df30841554b45954a
 
 
-2. Jeigu šiame įstatyme numatytos kitokios normos negu Lietuvos Respublikos hipotekos įstatyme, taikomos šio įstatymo nuostatos. ^s-a34e97f8d0f5292e1e2c90cf
+2. Jeigu šiame įstatyme numatytos kitokios normos negu [Lietuvos Respublikos hipotekos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B), taikomos šio įstatymo nuostatos. ^s-a34e97f8d0f5292e1e2c90cf
 
 
 
@@ -100,7 +100,7 @@ Prašymas įregistruoti, pakeisti ar baigti laivo hipoteką pateikiamas Klaipėd
 ### 83 straipsnis. Priverstinis įkeisto laivo pardavimas ^s-9bce0a18bd749c069618bff9
 
 
-1. Sprendimas priverstinai parduoti Lietuvos Respublikoje įkeistą laivą priimamas Lietuvos Respublikos hipotekos įstatymo nustatyta tvarka. ^s-e4b76dc4e500cbdbd9897895
+1. Sprendimas priverstinai parduoti Lietuvos Respublikoje įkeistą laivą priimamas [Lietuvos Respublikos hipotekos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B) nustatyta tvarka. ^s-e4b76dc4e500cbdbd9897895
 
 
 2. Priverstinis įkeisto laivo pardavimas išlaisvina jį nuo visų hipotekų ar apsunkinimų tik tuo atveju, jei pardavimo metu įkeistas laivas buvo Lietuvos Respublikos teritorijoje.“ ^s-cd5f7798463e5894abb45f76

@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo akto ratifikavimas ^s-12b6043524a05da259cea897
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. spalio 3 d. dekretą Nr. 1K-1124, ratifikuoja su pareiškimu 1999 m. liepos 2 d. Ženevoje priimtą Hagos susitarimo dėl pramoninio dizaino tarptautinės registracijos Ženevos aktą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. spalio 3 d. dekretą Nr. 1K-1124](https://e-tar.lt/portal/lt/legalAct/TAR.9CB0BAE15680), ratifikuoja su pareiškimu 1999 m. liepos 2 d. Ženevoje priimtą Hagos susitarimo dėl pramoninio dizaino tarptautinės registracijos Ženevos aktą.
 
 
 

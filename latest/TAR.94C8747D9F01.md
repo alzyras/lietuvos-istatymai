@@ -98,7 +98,7 @@ Vilnius
 1. [[#^s-c377f496333b592e90ab49c1|5 straipsnio 2 dalį]] pripažinti netekusia galios. ^s-a00305f6c6964b76845d3084
 
 
-2. [[#^s-38f208177939ed95419b261c|5 straipsnio]] 3 ir 4 dalis laikyti atitinkamai 2 ir 3 dalimis. ^s-4bd19b4aec92cfe9248b141c
+2. [[#^s-38f208177939ed95419b261c|5 straipsnio]] [[#^s-98d3fffd5bd135813b5a718d|3]] ir 4 dalis laikyti atitinkamai [[#^s-c377f496333b592e90ab49c1|2]] ir [[#^s-98d3fffd5bd135813b5a718d|3]] dalimis. ^s-4bd19b4aec92cfe9248b141c
 
 
 
@@ -251,7 +251,7 @@ Pakeisti [[#^s-659eea6858b69c98330b4530|21 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-659eea6858b69c98330b4530|21 straipsnis]]. Privalomi sveikatos patikrinimai
 
 
-1. Privalomi darbuotojų sveikatos patikrinimai atliekami darbuotojams, nurodytiems Darbo kodekso 265 straipsnyje. Darbdavys tvirtina darbuotojų, kuriems privaloma pasitikrinti sveikatą, sąrašą ir sveikatos tikrinimo grafiką, kontroliuoja, kaip laikomasi šio grafiko. Tuo atveju, kai darbuotojo sveikata nepatikrinama grafike nustatytu laiku dėl ne nuo darbuotojo priklausančių priežasčių, darbuotojas turi teisę atsisakyti dirbti dėl galimo pavojaus savo sveikatai. ^s-709d63a916ea901cdd74790d
+1. Privalomi darbuotojų sveikatos patikrinimai atliekami darbuotojams, nurodytiems [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso 265 straipsnyje]]. Darbdavys tvirtina darbuotojų, kuriems privaloma pasitikrinti sveikatą, sąrašą ir sveikatos tikrinimo grafiką, kontroliuoja, kaip laikomasi šio grafiko. Tuo atveju, kai darbuotojo sveikata nepatikrinama grafike nustatytu laiku dėl ne nuo darbuotojo priklausančių priežasčių, darbuotojas turi teisę atsisakyti dirbti dėl galimo pavojaus savo sveikatai. ^s-709d63a916ea901cdd74790d
 
 
 2. Darbuotojai, pajutę neigiamą darbo ar darbo aplinkos poveikį sveikatai, turi teisę pasitikrinti sveikatą kitu laiku, negu nustatytas privalomo sveikatos tikrinimo grafike. Darbdavys privalo suteikti darbuotojui pakankamai laiko pasitikrinti sveikatą. Vidutinį darbo užmokestį darbuotojui už laiką, kurio metu jis tikrinosi sveikatą savo iniciatyva, moka darbdavys tais atvejais, kai sveikatos priežiūros įstaigos išvadoje nurodyta, kad darbas ir (ar) darbo aplinka pakenkė darbuotojo sveikatai. ^s-cf2a4de0c13286f09d821483
@@ -290,7 +290,7 @@ Pakeisti [[#^s-659eea6858b69c98330b4530|21 straipsnį]] ir jį išdėstyti taip:
 ### 12 straipsnis. 29 straipsnio 3 dalies pakeitimas ^s-6c5e6cedc8de9584c387af7f
 
 
-29 straipsnio 3 dalyje išbraukti žodžius „Profesinės sveikatos priežiūros įstatyme“ ir šią dalį išdėstyti taip:
+29 straipsnio 3 dalyje išbraukti žodžius [„Profesinės sveikatos priežiūros įstatyme“](https://e-tar.lt/portal/lt/legalAct/TAR.021322AE3753) ir šią dalį išdėstyti taip:
 
 
 „3. Įmonių darbuotojų saugos ir sveikatos tarnybos, įmonių darbo medicinos punktai atlieka sveikatos priežiūros funkcijas, numatytas Įmonių darbuotojų saugos ir sveikatos tarnybų pavyzdiniuose nuostatuose. Įmonės kolektyvinėje sutartyje gali būti numatyta teikti įmonės darbuotojams ir kitas sveikatos priežiūros paslaugas.“
@@ -384,14 +384,14 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-1989 m. birželio 12 d. Tarybos direktyva 89/391/EEB dėl priemonių darbuotojų saugai ir sveikatos apsaugai darbe gerinti nustatymo (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 349) su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 29 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1882/2003 (OL 2004 specialusis leidimas, 1 skyrius, 4 tomas, p. 47).“
+1989 m. birželio 12 d. Tarybos direktyva 89/391/EEB dėl priemonių darbuotojų saugai ir sveikatos apsaugai darbe gerinti nustatymo (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 349) su paskutiniais pakeitimais, padarytais 2003 m. rugsėjo 29 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1882/2003](https://eur-lex.europa.eu/eli/reg/1882/2003/oj) (OL 2004 specialusis leidimas, 1 skyrius, 4 tomas, p. 47).“
 
 
 
 ### 20 straipsnis. Įstatymo įsigaliojimas ^s-ab86bac1d2406cf9e2e77eea
 
 
-Šio įstatymo [[#^s-4f27768a356a60368cd4c363|5 straipsnio 1 dalis]], 6 ir [[#^s-ff3b66770c4096828daca47a|16 straipsniai]] įsigalioja nuo 2008 m. liepos 1 d.
+Šio įstatymo [[#^s-4f27768a356a60368cd4c363|5 straipsnio 1 dalis]], [[#^s-368ff7d61856b9368ac965b2|6]] ir [[#^s-ff3b66770c4096828daca47a|16]] straipsniai įsigalioja nuo 2008 m. liepos 1 d.
 
 
 

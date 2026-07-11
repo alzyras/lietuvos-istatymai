@@ -66,10 +66,10 @@ Vilnius
 ### 3 straipsnis. Teismo priimto sprendimo apskundimas ^s-72c95250aa3ddc2a19904a05
 
 
-1. Prokuroras, asmuo, dėl kurio priimta nutartis, ar jo gynėjas gali paduoti skundą dėl šio Įstatymo [[#^s-040cdbc59c87f0d678350f59|2 straipsnyje]] nurodytų sprendimų Baudžiamojo proceso kodekso 4151 straipsnio 3 dalyje nustatyta tvarka. ^s-370c231f1e99556fa4687d43
+1. Prokuroras, asmuo, dėl kurio priimta nutartis, ar jo gynėjas gali paduoti skundą dėl šio Įstatymo [[#^s-040cdbc59c87f0d678350f59|2 straipsnyje]] nurodytų sprendimų [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso 4151 straipsnio 3 dalyje]] nustatyta tvarka. ^s-370c231f1e99556fa4687d43
 
 
-2. Teismas, išnagrinėjęs skundą, turi priimti vieną iš Baudžiamojo proceso kodekso 4151 straipsnio 8 dalyje nurodytų sprendimų. Nutartis įsigalioja nuo jos priėmimo dienos ir yra neskundžiama. ^s-2774b45a9f939333e4c18844
+2. Teismas, išnagrinėjęs skundą, turi priimti vieną iš [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso 4151 straipsnio 8 dalyje]] nurodytų sprendimų. Nutartis įsigalioja nuo jos priėmimo dienos ir yra neskundžiama. ^s-2774b45a9f939333e4c18844
 
 
 

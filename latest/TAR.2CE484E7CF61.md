@@ -42,7 +42,7 @@ Vilnius
 1. Pakeisti 20 straipsnio 2 dalį ir ją išdėstyti taip: ^s-ef50e1e0bc0a191292947a4c
 
 
-„2. Šiems nuolatiniams Lietuvos gyventojams taikomi individualūs neapmokestinamieji pajamų dydžiai (jeigu gyventojas atitinka ne vieną iš 1–[[#^s-56aa213cd6ad81823cc34c41|5 punktuose]] nustatytų kriterijų, taikomas didžiausias individualus NPD):
+„2. Šiems nuolatiniams Lietuvos gyventojams taikomi individualūs neapmokestinamieji pajamų dydžiai (jeigu gyventojas atitinka ne vieną iš [[#^s-fa3305cbd5ea909c758a2128|1]]–[[#^s-56aa213cd6ad81823cc34c41|5]] punktuose nustatytų kriterijų, taikomas didžiausias individualus NPD):
 
 
 1) I grupės invalidams – 430 litų per mėnesį; ^s-fa3305cbd5ea909c758a2128

@@ -42,7 +42,7 @@ Vilnius
 1. 13 straipsnio 1 dalį pripažinti netekusia galios. ^s-528f065daa4612706a6578d6
 
 
-2. Buvusias 13 straipsnio 2, 3 ir [[#^s-dbe61ca366eb1da0d258f645|4 dalis]] laikyti atitinkamai 1, 2 ir [[#^s-7b8c69aa294d0a38d5cd3cd4|3 dalimis]]. ^s-df87e5fc5198089d3d92a535
+2. Buvusias 13 straipsnio 2, 3 ir 4 dalis laikyti atitinkamai 1, 2 ir 3 dalimis. ^s-df87e5fc5198089d3d92a535
 
 
 3. Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip: ^s-7b8c69aa294d0a38d5cd3cd4

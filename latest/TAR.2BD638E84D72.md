@@ -110,7 +110,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 17. Viešoji transporto infrastruktūra – transporto infrastruktūra, nuosavybės teise priklausanti valstybei ar savivaldybėms ir skirta keleiviams, bagažui ir (arba) kroviniams vežti. ^s-ef1646afff20df4f88b531c6
 
 
-18. Visuomenės aptarnavimo įsipareigojimai – įsipareigojimai organizuoti darbą, vežti ir laikytis nustatytų tarifų, kurių vežėjas, atsižvelgdamas į komercinius interesus, neprisiimtų arba neprisiimtų tokiu mastu ar tokiomis pačiomis sąlygomis; įsipareigojimas organizuoti darbą – įsipareigojimas, nustatytas vežėjui, kuris turi teisę dirbti pagal licenciją ar leidimą bet kokio maršruto ar įrangos atžvilgiu, kad būtų užtikrintas transporto paslaugų teikimo nenutrūkstamumas, reguliarumas ir atitinkamas mastas; įpareigojimas vežti – įpareigojimas, nustatytas vežėjui priimti ir vežti keleivius ar krovinius, taikant konkrečius tarifus ir pagal nustatytas sąlygas; įsipareigojimas dėl tarifų – įpareigojimas, nustatytas vežėjui, kad jis tam tikroms keleivių kategorijoms, tam tikros kategorijos kroviniams arba atitinkamiems maršrutams taikytų valstybės ar savivaldybių institucijų patvirtintus tarifus, kurie neatitinka vežėjo komercinių interesų.“ ^s-965f221efb7f4dec64f392ec
+18. Visuomenės aptarnavimo įsipareigojimai – įsipareigojimai organizuoti darbą, vežti ir laikytis nustatytų tarifų, kurių vežėjas, atsižvelgdamas į komercinius interesus, neprisiimtų arba neprisiimtų tokiu mastu ar tokiomis pačiomis sąlygomis; įsipareigojimas organizuoti darbą – įsipareigojimas, nustatytas vežėjui, kuris turi teisę dirbti pagal licenciją ar leidimą bet kokio maršruto ar įrangos atžvilgiu, kad būtų užtikrintas transporto paslaugų teikimo nenutrūkstamumas, reguliarumas ir atitinkamas mastas; įpareigojimas vežti – įpareigojimas, nustatytas vežėjui priimti ir vežti keleivius ar krovinius, taikant konkrečius tarifus ir pagal nustatytas sąlygas; įsipareigojimas [dėl tarifų](https://e-tar.lt/portal/lt/legalAct/SAV.511075) – įpareigojimas, nustatytas vežėjui, kad jis tam tikroms keleivių kategorijoms, tam tikros kategorijos kroviniams arba atitinkamiems maršrutams taikytų valstybės ar savivaldybių institucijų patvirtintus tarifus, kurie neatitinka vežėjo komercinių interesų.“ ^s-965f221efb7f4dec64f392ec
 
 
 
@@ -178,7 +178,7 @@ Pakeisti ir papildyti [[#^s-277c1ff6d831120620e72a0e|11 straipsnį]] ir jį išd
 3. Asmens duomenys intelektinių transporto sistemų srityje tvarkomi vadovaujantis [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]] ir [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymo]] nuostatomis. Tais atvejais, kai nėra būtini asmens tapatybę nustatantys duomenys, intelektinių transporto sistemų srityje tvarkomi tokie duomenys, iš kurių negalima nustatyti asmens tapatybės. ^s-026f53d4b0a8fdd6c0da710d
 
 
-4. Atsakomybę už intelektinių transporto sistemų prietaikų ir paslaugų saugos ir kokybės pažeidimus reglamentuoja [[latest/TAR.A845E65C32A2|Lietuvos Respublikos produktų saugos įstatymas]] ir Lietuvos Respublikos administracinių teisės pažeidimų kodeksas. ^s-f75a845c3b79204610ae6fb9
+4. Atsakomybę už intelektinių transporto sistemų prietaikų ir paslaugų saugos ir kokybės pažeidimus reglamentuoja [[latest/TAR.A845E65C32A2|Lietuvos Respublikos produktų saugos įstatymas]] ir [Lietuvos Respublikos administracinių teisės pažeidimų kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492). ^s-f75a845c3b79204610ae6fb9
 
 
 5. Žala, atsiradusi dėl netinkamų intelektinių transporto sistemų prietaikų ir paslaugų, atlyginama vadovaujantis Lietuvos Respublikos civilinio kodekso nuostatomis.“ ^s-76e4d3594e349deaefccac1d
@@ -255,10 +255,10 @@ priedas
 ### 11 straipsnis. Įstatymo įsigaliojimas ^s-277c1ff6d831120620e72a0e
 
 
-1. Šis įstatymas, išskyrus 6, 8, 10 ir [[#^s-f8d36b449686205af110a977|12 straipsnius]], įsigalioja 2012 m. sausio 1 d. ^s-857da6655c77d07cbd0a8b53
+1. Šis įstatymas, išskyrus [[#^s-3f9011fdc9171f649d5d376b|6]], [[#^s-f84c0b8074580b02b1a49047|8]], [[#^s-7ae00cfd062647bd6fc844b9|10]] ir [[#^s-f8d36b449686205af110a977|12]] straipsnius, įsigalioja 2012 m. sausio 1 d. ^s-857da6655c77d07cbd0a8b53
 
 
-2. Šio įstatymo 6, 8 ir [[#^s-7ae00cfd062647bd6fc844b9|10 straipsniai]] įsigalioja 2012 m. vasario 27 d. ^s-e6f9a17391218976379bb27a
+2. Šio įstatymo [[#^s-3f9011fdc9171f649d5d376b|6]], [[#^s-f84c0b8074580b02b1a49047|8]] ir [[#^s-7ae00cfd062647bd6fc844b9|10]] straipsniai įsigalioja 2012 m. vasario 27 d. ^s-e6f9a17391218976379bb27a
 
 
 

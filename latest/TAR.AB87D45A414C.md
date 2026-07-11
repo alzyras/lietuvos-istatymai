@@ -40,7 +40,7 @@ Vilnius
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos įstatymą „Dėl įmonių, kurių sunki finansinė būklė, bet yra galimybių stabilizuoti ir plėtoti gamybą, atsiskaitymų su biudžetu“ (Žin., 1995, Nr. 32-744); ^s-f7247b803b0f8dbe9eb69700
+1) Lietuvos Respublikos įstatymą [„Dėl įmonių, kurių sunki finansinė būklė, bet yra galimybių stabilizuoti ir plėtoti gamybą, atsiskaitymų su biudžetu“](https://e-tar.lt/portal/lt/legalAct/TAR.16416D6D2B61) (Žin., 1995, Nr. 32-744); ^s-f7247b803b0f8dbe9eb69700
 
 
 2) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos įstatymo „Dėl įmonių, kurių sunki finansinė būklė, bet yra galimybių stabilizuoti ir plėtoti gamybą, atsiskaitymų su biudžetu“ pakeitimo“ (Žin., 1995, Nr. 89-1989). ^s-4a208c137a773d2095d26ff0

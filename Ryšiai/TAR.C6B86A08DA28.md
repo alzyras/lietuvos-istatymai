@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos klimato kaitos valdymo finansinių instrument
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos aplinkos apsaugos įstatymas
+- [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - Lietuvos Respublikos aplinkos apsaugos įstatymas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.B77E00EAEBEB#^s-36c3653f4659a7761065e3db|Lietuvos Respublikos klimato kaitos valdymo įstatymas]] - 3 citatos - 1131010ISTA0XII-291
-- [[latest/TAR.B77E00EAEBEB#^s-74f974522b7aff740b454fe9|Lietuvos Respublikos klimato kaitos valdymo įstatymas]] - 3 citatos - 1131010ISTA0XII-291
+- [[latest/TAR.B77E00EAEBEB#^s-36c3653f4659a7761065e3db|Lietuvos Respublikos klimato kaitos valdymo įstatymas]] - 2 citatos - 1131010ISTA0XII-291

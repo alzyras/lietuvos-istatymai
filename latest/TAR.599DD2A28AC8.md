@@ -127,7 +127,7 @@ Pakeisti 342 straipsnio 4 dalį ir ją išdėstyti taip:
 1) dėl viešųjų darbų bausmės – probacijos tarnyboms; ^s-1c1b362a120b7dec536c6d13
 
 
-2) dėl baudos priverstinio išieškojimo – antstoliams; ^s-bef19ccc940beb39420a36a0
+2) [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) priverstinio išieškojimo – antstoliams; ^s-bef19ccc940beb39420a36a0
 
 
 3) dėl laisvės apribojimo bausmės – probacijos tarnyboms; ^s-212cc6017f2cca36801749e9
@@ -232,7 +232,7 @@ Pakeisti 360 straipsnį ir jį išdėstyti taip:
 2. Kai nagrinėjamas klausimas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo taikyti nuteistajam lygtinį paleidimą iš pataisos įstaigos, teismas apie paskirtą šio klausimo nagrinėjimo datą praneša nuteistajam ir prokurorui. Prokuroras privalo pateikti atsiliepimą į Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimą likus ne mažiau kaip penkioms dienoms iki klausimo nagrinėjimo. ^s-ad746b944078ca4e2bc3e98f
 
 
-3. Kai nagrinėjamas nuteistojo skundas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo netaikyti nuteistajam lygtinio paleidimo iš pataisos įstaigos, teismas apie paskirtą šio klausimo nagrinėjimo datą praneša nuteistajam, Lygtinio paleidimo iš pataisos įstaigos komisijai, bausmę vykdančiai institucijai ir prokurorui. Bausmę vykdanti institucija privalo pateikti teismui nuteistojo asmens bylą, Lygtinio paleidimo iš pataisos įstaigos komisija – nurodyti nuteistajam galimas nustatyti auklėjamojo poveikio ar baudžiamojo poveikio priemones ir (ar) Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 ar [[#^s-896c115c3a4ae400613dd7ca|3 dalyje]] numatytas pareigas ir laiką, per kurį nuteistasis privalėtų įvykdyti paskirtas auklėjamojo poveikio ar baudžiamojo poveikio priemones ir (ar) pareigas, jeigu būtų priimta nutartis tenkinti nuteistojo skundą ir taikyti jam lygtinį paleidimą iš pataisos įstaigos, prokuroras – pateikti atsiliepimą į nuteistojo skundą. Šie dokumentai turi būti pateikti likus ne mažiau kaip penkioms dienoms iki klausimo nagrinėjimo teisme. ^s-896c115c3a4ae400613dd7ca
+3. Kai nagrinėjamas nuteistojo skundas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo netaikyti nuteistajam lygtinio paleidimo iš pataisos įstaigos, teismas apie paskirtą šio klausimo nagrinėjimo datą praneša nuteistajam, Lygtinio paleidimo iš pataisos įstaigos komisijai, bausmę vykdančiai institucijai ir prokurorui. Bausmę vykdanti institucija privalo pateikti teismui nuteistojo asmens bylą, Lygtinio paleidimo iš pataisos įstaigos komisija – nurodyti nuteistajam galimas nustatyti auklėjamojo poveikio ar baudžiamojo poveikio priemones ir (ar) Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 ar 3 dalyje numatytas pareigas ir laiką, per kurį nuteistasis privalėtų įvykdyti paskirtas auklėjamojo poveikio ar baudžiamojo poveikio priemones ir (ar) pareigas, jeigu būtų priimta nutartis tenkinti nuteistojo skundą ir taikyti jam lygtinį paleidimą iš pataisos įstaigos, prokuroras – pateikti atsiliepimą į nuteistojo skundą. Šie dokumentai turi būti pateikti likus ne mažiau kaip penkioms dienoms iki klausimo nagrinėjimo teisme. ^s-896c115c3a4ae400613dd7ca
 
 
 4. [[#^s-896c115c3a4ae400613dd7ca|Šio straipsnio 3 dalyje]] nurodytas pranešimas Lygtinio paleidimo iš pataisos įstaigos komisijai nesiunčiamas, kai nagrinėjamas nuteistojo, sutikusio, kad jam būtų taikoma intensyvi priežiūra, skundas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo netaikyti nuteistajam lygtinio paleidimo iš pataisos įstaigos. ^s-f0e1849238ba68468ed9f241
@@ -253,7 +253,7 @@ Pakeisti 360 straipsnį ir jį išdėstyti taip:
 4) patenkinti nuteistojo skundą ir taikyti jam lygtinį paleidimą iš pataisos įstaigos, kai nagrinėjamas klausimas dėl Lygtinio paleidimo iš pataisos įstaigos komisijos nutarimo netaikyti nuteistajam lygtinio paleidimo iš pataisos įstaigos. ^s-b9d27ef44aaaabc254d2538a
 
 
-6. Priėmęs vieną iš [[#^s-e724bbbfdb6e9abfd1adc14f|šio straipsnio 5 dalies]] 1 ir 4 punktuose nurodytų nutarčių, teismas kartu nustato nuteistajam Lygtinio paleidimo iš pataisos įstaigų komisijos siūlomas jam nustatyti auklėjamojo poveikio ar baudžiamojo poveikio priemones ir (ar) Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 ar [[#^s-896c115c3a4ae400613dd7ca|3 dalyje]] numatytas pareigas ir laiką, per kurį nuteistasis privalo įvykdyti paskirtas auklėjamojo poveikio ar baudžiamojo poveikio priemones ir (ar) pareigas, arba paskiria intensyvią priežiūrą. Šios nutarties nuorašai nedelsiant, ne vėliau kaip kitą darbo dieną, išsiunčiami prokurorui ir nuteistajam. ^s-a0c29067748e0586faea6853
+6. Priėmęs vieną iš [[#^s-e724bbbfdb6e9abfd1adc14f|šio straipsnio 5 dalies]] 1 ir 4 punktuose nurodytų nutarčių, teismas kartu nustato nuteistajam Lygtinio paleidimo iš pataisos įstaigų komisijos siūlomas jam nustatyti auklėjamojo poveikio ar baudžiamojo poveikio priemones ir (ar) Lietuvos Respublikos baudžiamojo kodekso 75 straipsnio 2 ar 3 dalyje numatytas pareigas ir laiką, per kurį nuteistasis privalo įvykdyti paskirtas auklėjamojo poveikio ar baudžiamojo poveikio priemones ir (ar) pareigas, arba paskiria intensyvią priežiūrą. Šios nutarties nuorašai nedelsiant, ne vėliau kaip kitą darbo dieną, išsiunčiami prokurorui ir nuteistajam. ^s-a0c29067748e0586faea6853
 
 
 7. [[#^s-e724bbbfdb6e9abfd1adc14f|Šio straipsnio 5 dalyje]] nurodytos teismo nutartys skundžiamos ir skundai nagrinėjami šio Kodekso 364 straipsnyje nustatyta tvarka. ^s-909077da64b21b5d62a0d8fa
@@ -269,7 +269,7 @@ Pakeisti 360 straipsnį ir jį išdėstyti taip:
 Pakeisti 362 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Klausimus dėl baudos nuteistajam pakeitimo kita bausme pagal šio Kodekso 352 straipsnį nagrinėja ir nutartimi išsprendžia nuosprendį priėmęs teismas. Klausimus dėl nuteistojo lygtinio paleidimo iš pataisos įstaigos pagal šio Kodekso 360 straipsnio 8 dalį nagrinėja ir nutartimi išsprendžia bausmės atlikimo vietos apylinkės teismas. Teismo posėdyje dalyvauja bausmę vykdančios institucijos atstovas. Į posėdį teismas šaukia nuteistąjį, prokurorą ir gynėją, tačiau šių asmenų neatvykimas klausimo sprendimo nesustabdo.“
+„2. Klausimus [dėl baudos nuteistajam pakeitimo kita bausme pagal šio Kodekso 352 straipsnį](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) nagrinėja ir nutartimi išsprendžia nuosprendį priėmęs teismas. Klausimus dėl nuteistojo lygtinio paleidimo iš pataisos įstaigos pagal šio Kodekso 360 straipsnio 8 dalį nagrinėja ir nutartimi išsprendžia bausmės atlikimo vietos apylinkės teismas. Teismo posėdyje dalyvauja bausmę vykdančios institucijos atstovas. Į posėdį teismas šaukia nuteistąjį, prokurorą ir gynėją, tačiau šių asmenų neatvykimas klausimo sprendimo nesustabdo.“
 
 
 

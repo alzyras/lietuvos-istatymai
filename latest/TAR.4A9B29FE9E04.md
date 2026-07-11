@@ -318,7 +318,7 @@ Nr. XI-607, 2009-12-22, Žin., 2010, Nr. 1-18 (2010-01-05), i. k. [[latest/TAR.0
 ### 11 straipsnis. Bendrovės registravimas ^s-20b49c26ce8dd94ad48ccf64
 
 
-1. Ne vėliau kaip per mėnesį nuo steigiamojo susirinkimo nutarimo įsteigti bendrovę priėmimo dienos bendrovės steigėjai (įgaliotiniai) vietos savivaldybei įteikia paraišką įregistruoti bendrovę Įmonių rejestro įstatymo nustatyta tvarka, o pradėjus veikti juridinių asmenų registrui, – Civilinio kodekso nustatyta tvarka. ^s-4cccc73199d8a5b0818e91bd
+1. Ne vėliau kaip per mėnesį nuo steigiamojo susirinkimo nutarimo įsteigti bendrovę priėmimo dienos bendrovės steigėjai (įgaliotiniai) vietos savivaldybei įteikia paraišką įregistruoti bendrovę [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka, o pradėjus veikti juridinių asmenų registrui, – Civilinio kodekso nustatyta tvarka. ^s-4cccc73199d8a5b0818e91bd
 
 
 2. Prie paraiškos pridedami šio įstatymo [[#^s-3bebd60baf8936f8d42265ff|6 straipsnyje]] nurodyti bendrovės steigimo dokumentai ir pažyma, kad sumokėtas registracijos mokestis. ^s-282266bc6889a0b4cc18e14b
@@ -440,7 +440,7 @@ Bendrovės pagrindinis kapitalas sumažinamas:
 3. Minimalų bendrovės narių pajinio įnašo dydį keičia narių susirinkimas. Minimalus pajinis įnašas yra neskaidomas. ^s-01acc52fe3ec217b36eea4c9
 
 
-4. Metams pasibaigus ir patvirtinus bendrovės metinę apyskaitą, bendrovės pajininkams proporcingai pajų vertei paskirstomas šio įstatymo 13 ir [[#^s-f746319a13d675578c03b2c9|14 straipsniuose]] numatytais atvejais padidintas arba sumažintas pagrindinis kapitalas. Proporcingai pajų vertei paskirstomi ir atsiradę dėl turto perkainojimo padidėję (sumažėję) pajai. Turtui perkainoti bendrovės narių susirinkimas išrenka komisiją ir patvirtina turto įvertinimo tvarką. Ūkiniams metams baigiantis turtas turi būti inventorizuotas, įvertintas ir jo kaina patvirtinta bendrovės susirinkime. ^s-6128f0d3dcdbbf548389700e
+4. Metams pasibaigus ir patvirtinus bendrovės metinę apyskaitą, bendrovės pajininkams proporcingai pajų vertei paskirstomas šio įstatymo [[#^s-00456f5fb8396df96e39d5bc|13]] ir [[#^s-f746319a13d675578c03b2c9|14]] straipsniuose numatytais atvejais padidintas arba sumažintas pagrindinis kapitalas. Proporcingai pajų vertei paskirstomi ir atsiradę dėl turto perkainojimo padidėję (sumažėję) pajai. Turtui perkainoti bendrovės narių susirinkimas išrenka komisiją ir patvirtina turto įvertinimo tvarką. Ūkiniams metams baigiantis turtas turi būti inventorizuotas, įvertintas ir jo kaina patvirtinta bendrovės susirinkime. ^s-6128f0d3dcdbbf548389700e
 
 
 5. Pajai ir jų metinis padidėjimas (sumažėjimas) kiekvienais metais registruojami pajininkų turto apskaitos dokumentuose. Bendrovė privalo ne vėliau kaip per 2 mėnesius nuo metinės apyskaitos patvirtinimo datos kiekvienam pajininkui į pajaus apskaitos dokumentus ir pajininkų knygeles įrašyti visus per metus buvusius pajaus pasikeitimus. ^s-8017b371be167dfb5cf077a9
@@ -859,7 +859,7 @@ BENDROVĖS REORGANIZAVIMAS, PERTVARKYMAS IR LIKVIDAVIMAS
 4. Apie numatomą reorganizavimą bendrovės valdyba (administracija) privalo viešai paskelbti bendrovės buveinėje ir spaudoje bei raštu informuoti kiekvieną pajininką ir kreditorių ne vėliau kaip prieš 15 dienų iki narių susirinkimo, kurio darbotvarkėje numatyta svarstyti bendrovės reorganizavimą. Kiekvienas pajininkas turi teisę susipažinti su bendrovės reorganizavimo projektu ir kitais su reorganizavimu susijusiais dokumentais, taip pat šiuos dokumentus kopijuoti ir nusirašyti. ^s-6833760cb9dfd6b2fdac2653
 
 
-5. Bendrovė gali būti restruktūrizuojama Įmonių restruktūrizavimo įstatymo nustatyta tvarka ir sąlygomis. ^s-494684efb46250242a80b134
+5. Bendrovė gali būti restruktūrizuojama [Įmonių restruktūrizavimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.C69847B389DF) nustatyta tvarka ir sąlygomis. ^s-494684efb46250242a80b134
 
 
 6. Bendrovės teisinė forma keičiama ją pertvarkant pagal Civilinio kodekso reikalavimus. ^s-ec8430f10254fadb51231891
@@ -1166,4 +1166,4 @@ Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 11-1 straipsn
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2821, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12143
-Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 21, [[#^s-b01c16bccd61efb826c13f30|26 straipsnių]] ir septintojo skirsnio pavadinimo pakeitimo įstatymas
+Lietuvos Respublikos žemės ūkio bendrovių įstatymo Nr. I-1222 [[#^s-0da703a316b1f2cc6d01bc20|21]], [[#^s-b01c16bccd61efb826c13f30|26]] straipsnių ir septintojo skirsnio pavadinimo pakeitimo įstatymas

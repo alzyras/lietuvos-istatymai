@@ -42,12 +42,12 @@ Vilnius
 ### 1 straipsnis. Įstatymo pavadinimo pakeitimas ^s-dd5ae1fe020ce9889b08c701
 
 
-Pakeisti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo pavadinimą ir jį išdėstyti taip:
+Pakeisti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) pavadinimą ir jį išdėstyti taip:
 
 
 
 „LIETUVOS RESPUBLIKOS
-VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMAS“.
+VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ [DARBO APMOKĖJIMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3)“.
 
 
 
@@ -121,7 +121,7 @@ VALSTYBĖS POLITIKŲ IR VALSTYBĖS PAREIGŪNŲ DARBO APMOKĖJIMO ĮSTATYMAS“.
 1. [[#^s-7c0256e226dc0a9e64b41c62|5 straipsnio 1 dalyje]] išbraukti žodžius „teisėjams“ ir šią dalį išdėstyti taip: ^s-83c8b71867c8c0ae745174b4
 
 
-„1. Valstybės politikams ir valstybės pareigūnams mokamas priedas už ištarnautus Lietuvos valstybei metus nuo 1990 m. kovo 11 d., einant pareigas, nurodytas [[latest/TAR.D3ED3792F52B#^s-1b3fc60d66ac757df64527ed|Valstybės tarnybos įstatymo 4 straipsnio]] 1–4 dalyse ir 5 dalies 1–4 punktuose (išskyrus savivaldybės tarybos narius, kurie nebuvo merais ir mero pavaduotojais). Į ištarnautus metus įskaitomi laikotarpiai, nurodyti minėto įstatymo 42 straipsnio 1 dalyje.“
+„1. Valstybės politikams ir valstybės pareigūnams mokamas priedas už ištarnautus Lietuvos valstybei metus nuo 1990 m. kovo 11 d., einant pareigas, nurodytas [[latest/TAR.D3ED3792F52B#^s-1b3fc60d66ac757df64527ed|Valstybės tarnybos įstatymo 4 straipsnio]] [[latest/TAR.D3ED3792F52B#^s-0e9df0b0d53cd0af846127e5|1]]–[[latest/TAR.D3ED3792F52B|4]] dalyse ir 5 dalies 1–4 punktuose (išskyrus savivaldybės tarybos narius, kurie nebuvo merais ir mero pavaduotojais). Į ištarnautus metus įskaitomi laikotarpiai, nurodyti minėto įstatymo 42 straipsnio 1 dalyje.“
 
 
 2. 5 straipsnio 3 dalyje išbraukti žodžius „teisėjo“ ir šią dalį išdėstyti taip: ^s-1e01715336f127d292188a68

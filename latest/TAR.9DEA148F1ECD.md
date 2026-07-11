@@ -167,16 +167,16 @@ Turto arešto aktas (jo pakeitimas) išregistruojamas iš Turto arešto aktų re
 1) remiantis turto arešto aktą priėmusios institucijos, teismo sprendimo (nutarties) arba kitos institucijos ar pareigūno, turinčių teisę panaikinti turto areštą, sprendimo duomenimis; ^s-2643bb529987688751e34fbe
 
 
-2) remiantis turto pardavimo (perdavimo išieškotojui) akto duomenimis, kai turtas parduotas (perduotas išieškotojui) Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka; ^s-f0e92221eec9e7abad46c536
+2) remiantis turto pardavimo (perdavimo išieškotojui) akto duomenimis, kai turtas parduotas (perduotas išieškotojui) [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka; ^s-f0e92221eec9e7abad46c536
 
 
-3) remiantis Lietuvos Respublikos civilinio proceso kodekso 150 straipsnio 3 dalyje numatytu antstolio pranešimu apie laikinųjų apsaugos priemonių taikymo pabaigą; ^s-739b7a576aa6ad891243e38d
+3) remiantis [Lietuvos Respublikos civilinio proceso kodekso 150 straipsnio 3 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) numatytu antstolio pranešimu apie laikinųjų apsaugos priemonių taikymo pabaigą; ^s-739b7a576aa6ad891243e38d
 
 
 4) pasibaigus turto arešto terminui; ^s-02b0afc096a8ed1446a712c2
 
 
-5) Lietuvos Respublikos civilinio proceso kodekso 147 straipsnio 6 dalyje nustatytais atvejais. ^s-5c0f3c920975f751cf60eab6
+5) [Lietuvos Respublikos civilinio proceso kodekso 147 straipsnio 6 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytais atvejais. ^s-5c0f3c920975f751cf60eab6
 
 
 
@@ -218,7 +218,7 @@ Pranešimas apie turto arešto akto įregistravimą, pakeitimą ir išregistravi
 1. Turto arešto aktų registro duomenų perdavimo tvarka nustatyta Turto arešto aktų registro nuostatuose. ^s-f18e169a968dfb0035c01b1a
 
 
-2. Turto arešto aktų registro duomenys teikiami už atlyginimą, kurio dydis nustatomas Lietuvos Respublikos Vyriausybės nustatyta tvarka. Neatlygintinai turto arešto aktų registro duomenys teikiami Lietuvos Respublikos valstybės registrų įstatyme ir Turto arešto aktų registro nuostatuose nustatytais atvejais, taip pat viešojo administravimo subjektams – jų tiesioginėms funkcijoms atlikti. ^s-9cdf193ad01ff964c37641be
+2. Turto arešto aktų registro duomenys teikiami už atlyginimą, kurio dydis nustatomas Lietuvos Respublikos Vyriausybės nustatyta tvarka. Neatlygintinai turto arešto aktų registro duomenys teikiami [Lietuvos Respublikos valstybės registrų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296) ir Turto arešto aktų registro nuostatuose nustatytais atvejais, taip pat viešojo administravimo subjektams – jų tiesioginėms funkcijoms atlikti. ^s-9cdf193ad01ff964c37641be
 
 
 
@@ -233,7 +233,7 @@ Turto arešto aktų registro finansavimo šaltiniai yra Lietuvos Respublikos val
 ### 15 straipsnis. Turto arešto aktų registro likvidavimo (reorganizavimo) tvarka ^s-013b7bbf9d5fabdb2b3698f1
 
 
-Turto arešto aktų registras likviduojamas (reorganizuojamas) Lietuvos Respublikos valstybės registrų įstatymo nustatytais atvejais ir tvarka.
+Turto arešto aktų registras likviduojamas (reorganizuojamas) [Lietuvos Respublikos valstybės registrų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296) nustatytais atvejais ir tvarka.
 
 
 

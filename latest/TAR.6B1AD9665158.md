@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ir Protokolo ratifikavimas ^s-ef2f7247a5d334fb01f2c63f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. vasario 21 d. dekretą Nr. 533, ratifikuoja Susitarimą tarp Europos Sąjungos ir Jungtinių Amerikos Valstijų dėl ekstradicijos, sudarytą 2003 m. birželio 25 d. Vašingtone, ir Protokolą dėl Susitarimo tarp Europos Sąjungos ir Jungtinių Amerikos Valstijų dėl ekstradicijos taikymo Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės ekstradicijos sutarčiai, sudarytą 2005 m. birželio 15 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. vasario 21 d. dekretą Nr. 533](https://e-tar.lt/portal/lt/legalAct/TAR.10D24A4A340A), ratifikuoja Susitarimą tarp Europos Sąjungos ir Jungtinių Amerikos Valstijų dėl ekstradicijos, sudarytą 2003 m. birželio 25 d. Vašingtone, ir Protokolą dėl Susitarimo tarp Europos Sąjungos ir Jungtinių Amerikos Valstijų dėl ekstradicijos taikymo Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės ekstradicijos sutarčiai, sudarytą 2005 m. birželio 15 d. Briuselyje.
 
 
 

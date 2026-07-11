@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-8d6d2a71a20b27ae2d6a08f3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. gegužės 31 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Baltarusijos Respublikos sutartį dėl socialinės apsaugos“, ratifikuoja 1999 m. vasario 4 d. Minske pasirašytą Lietuvos Respublikos ir Baltarusijos Respublikos sutartį dėl socialinės apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. gegužės 31 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Baltarusijos Respublikos sutartį dėl socialinės apsaugos“](https://e-tar.lt/portal/lt/legalAct/TAR.3B587CF330D1), ratifikuoja 1999 m. vasario 4 d. Minske pasirašytą Lietuvos Respublikos ir Baltarusijos Respublikos sutartį dėl socialinės apsaugos.
 
 
 

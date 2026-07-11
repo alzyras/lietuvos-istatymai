@@ -62,7 +62,7 @@ Pakeisti 2 straipsnio 1 dalies 10 punktą ir jį išdėstyti taip:
 1. 8 straipsnio 2 dalies 2 punkte po žodžių „(įskaitant darbdavio mokamas ligos dienomis), motinystės“ įrašyti žodį „tėvystės“ ir šį punktą išdėstyti taip: ^s-a844d0d4977546a66b0a778d
 
 
-„2) laikas, per kurį šie asmenys gauna ligos (įskaitant darbdavio mokamas ligos dienomis), motinystės, tėvystės, motinystės (tėvystės) arba profesinės reabilitacijos pašalpas, mokamas pagal Ligos ir motinystės socialinio draudimo įstatymą, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos pašalpas, mokamas pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą, ir nedarbo socialinio draudimo išmokas, mokamas pagal Nedarbo socialinio draudimo įstatymą. Į valstybinio socialinio pensijų draudimo stažą taip pat įskaitomas bedarbio pašalpų, mokėtų draustiems nuo nedarbo asmenims pagal Bedarbių rėmimo įstatymo nuostatas, galiojusias iki 2005 m. sausio 1 d., gavimo laikas. Šiame punkte išvardytos pašalpos bei išmoka toliau šiame įstatyme vadinamos valstybinio socialinio draudimo pašalpomis ir nedarbo socialinio draudimo išmokomis. Šių pašalpų ir išmokų gavimo laikas įskaitomas tik įstatymų nustatyta tvarka privalomai draustiems ligos ir motinystės socialiniu draudimu, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu bei nedarbo socialiniu draudimu (iki 2005 m. sausio 1 d. – socialiniu draudimu nuo nedarbo) asmenims.“
+„2) laikas, per kurį šie asmenys gauna ligos (įskaitant darbdavio mokamas ligos dienomis), motinystės, tėvystės, motinystės (tėvystės) arba profesinės reabilitacijos pašalpas, mokamas pagal Ligos ir motinystės socialinio draudimo įstatymą, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos pašalpas, mokamas pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą, ir nedarbo socialinio draudimo išmokas, mokamas pagal Nedarbo socialinio draudimo įstatymą. Į valstybinio socialinio pensijų draudimo stažą taip pat įskaitomas bedarbio pašalpų, mokėtų draustiems nuo nedarbo asmenims pagal [Bedarbių rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.0B3E8942C5C4) nuostatas, galiojusias iki 2005 m. sausio 1 d., gavimo laikas. Šiame punkte išvardytos pašalpos bei išmoka toliau šiame įstatyme vadinamos valstybinio socialinio draudimo pašalpomis ir nedarbo socialinio draudimo išmokomis. Šių pašalpų ir išmokų gavimo laikas įskaitomas tik įstatymų nustatyta tvarka privalomai draustiems ligos ir motinystės socialiniu draudimu, nelaimingų atsitikimų darbe ir profesinių ligų socialiniu draudimu bei nedarbo socialiniu draudimu (iki 2005 m. sausio 1 d. – socialiniu draudimu nuo nedarbo) asmenims.“
 
 
 2. Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip: ^s-0733dd3113d9978cc7e86058
@@ -97,7 +97,7 @@ Asmenų, išvardytų 2 straipsnio 1 dalies 1–5 punktuose, draudžiamosiomis pa
 1. Šio įstatymo [[#^s-a844d0d4977546a66b0a778d|3 straipsnio 1 dalis]] įsigalioja nuo 2006 m. liepos 1 d. ^s-4c8c980426a29881eb17a9bc
 
 
-2. Šio įstatymo 1, [[#^s-3dc2c49124fce53400985fad|2 straipsniai]], [[#^s-444383b57de242ca89f44635|3 straipsnio]] 2 ir 3 dalys ir [[#^s-13fca459a0051bd5935bf1b3|4 straipsnis]] įsigalioja nuo 2008 m. sausio 1 d. ^s-21e57beafca1269f93a06018
+2. Šio įstatymo [[#^s-b669a10726e29474ace5a7fd|1]], [[#^s-3dc2c49124fce53400985fad|2]] straipsniai, [[#^s-444383b57de242ca89f44635|3 straipsnio]] [[#^s-0733dd3113d9978cc7e86058|2]] ir [[#^s-de524360090d53e1f7b3853a|3]] dalys ir [[#^s-13fca459a0051bd5935bf1b3|4 straipsnis]] įsigalioja nuo 2008 m. sausio 1 d. ^s-21e57beafca1269f93a06018
 
 
 

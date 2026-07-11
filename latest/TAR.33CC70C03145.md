@@ -45,7 +45,7 @@ Pakeisti [[#^s-aa4c4f9b9d93e1c59792210a|3 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-aa4c4f9b9d93e1c59792210a|3 straipsnis]]. Vyriausybės veiklos teisiniai pagrindai
 
 
-Vyriausybė savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, įstatymais, Vyriausybės programa, Vyriausybės ilgalaikiu strateginiu veiklos planu ir kitais teisės aktais.“
+Vyriausybė savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, įstatymais, Vyriausybės programa, Vyriausybės ilgalaikiu strateginiu veiklos planu ir kitais teisės aktais.“
 
 
 
@@ -138,7 +138,7 @@ Pakeisti ir papildyti [[#^s-0ff86338ab4e4ac62f8ba3f9|13 straipsnį]] ir jį išd
 „[[#^s-0ff86338ab4e4ac62f8ba3f9|13 straipsnis]]. Vyriausybės narių socialinės garantijos
 
 
-1. Vyriausybės narių atlyginimo už darbą dydį nustato Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymas. ^s-0f13341cb9fbb96c86fa9cd8
+1. Vyriausybės narių atlyginimo už darbą dydį nustato Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3). ^s-0f13341cb9fbb96c86fa9cd8
 
 
 2. Atlyginimą Vyriausybės nariams moka Vyriausybės kanceliarija. Vyriausybės nariai draudžiami valstybiniu socialiniu draudimu [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo]] nustatyta tvarka. ^s-457dcc3194270d58466ae87d
@@ -153,7 +153,7 @@ Pakeisti ir papildyti [[#^s-0ff86338ab4e4ac62f8ba3f9|13 straipsnį]] ir jį išd
 5. Ministras Pirmininkas gali turėti rezidenciją, išlaikomą iš Vyriausybės kanceliarijai valstybės biudžete numatytų lėšų. ^s-5cb36d9696b940b7bd5544ae
 
 
-6. Pasibaigus Vyriausybės nario įgaliojimams šio įstatymo 9 straipsnio 1 dalies 4 punkte numatytu atveju, Vyriausybės nariui išmokama dviejų Vyriausybės nario vidutinių mėnesinių darbo užmokesčių dydžio kompensacija, o pasibaigus Vyriausybės nario įgaliojimams šio įstatymo 9 straipsnio 1 dalies 1, 2, 3 ir 5 punktuose, 10 ir [[#^s-5f22936f6efe8cbd03c9c0de|11 straipsniuose]] numatytais atvejais – vieno vidutinio mėnesinio darbo užmokesčio dydžio kompensacija. ^s-4cdb1270e08acdb071114a8b
+6. Pasibaigus Vyriausybės nario įgaliojimams šio įstatymo 9 straipsnio 1 dalies 4 punkte numatytu atveju, Vyriausybės nariui išmokama dviejų Vyriausybės nario vidutinių mėnesinių darbo užmokesčių dydžio kompensacija, o pasibaigus Vyriausybės nario įgaliojimams šio įstatymo 9 straipsnio 1 dalies 1, 2, 3 ir 5 punktuose, [[#^s-e688b636d326c1c974230d50|10]] ir [[#^s-5f22936f6efe8cbd03c9c0de|11]] straipsniuose numatytais atvejais – vieno vidutinio mėnesinio darbo užmokesčio dydžio kompensacija. ^s-4cdb1270e08acdb071114a8b
 
 
 7. [[#^s-4cdb1270e08acdb071114a8b|Šio straipsnio 6 dalyje]] numatytos kompensacijos nemokamos Vyriausybės nariams, kai jie paskiriami Ministru Pirmininku ar ministrais naujai sudarytoje Vyriausybėje. ^s-e539f815e3380e59f6f1cb76
@@ -220,7 +220,7 @@ Pakeisti ir papildyti [[#^s-8ea6b4e265000ff119316bf9|22 straipsnio]] 2, 3, 4, 5,
 ### 9 straipsnis. 24 straipsnio 2 dalies pakeitimas ^s-b4aff27559149153d5f96174
 
 
-Pakeisti [[#^s-f2986b890fcd45ee26233647|24 straipsnio 2 dalies]] 3, 5 punktus, 6, 11 ir 13 punktus pripažinti netekusiais galios, buvusius 7, 8, 9, 10, 12, 14, 15, 16, 17, 18 ir 19 punktus laikyti atitinkamai 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 ir 16 punktais, pakeisti 6, 10 punktus ir 3, 5, 6, 10 punktus išdėstyti taip:
+Pakeisti [[#^s-f2986b890fcd45ee26233647|24 straipsnio 2 dalies]] 3, 5 punktus, 6, 11 ir 13 punktus pripažinti netekusiais galios, buvusius 7, 8, 9, 10, 12, 14, 15, 16, 17, 18 ir 19 punktus laikyti atitinkamai [[#^s-05deb848111ac84cb0d6e704|6]], 7, 8, 9, 10, 11, 12, 13, 14, 15 ir 16 punktais, pakeisti [[#^s-05deb848111ac84cb0d6e704|6]], 10 punktus ir 3, 5, [[#^s-05deb848111ac84cb0d6e704|6]], 10 punktus išdėstyti taip:
 
 
 „3) skiria ir atleidžia iš pareigų Vyriausybės kanclerį, jo pavaduotojus, kitus Ministro Pirmininko aparato valstybės tarnautojus;“
@@ -255,7 +255,7 @@ Pakeisti [[#^s-f2986b890fcd45ee26233647|24 straipsnio 2 dalies]] 3, 5 punktus, 6
 „2. Ministrą gali laikinai pavaduoti tik Ministro Pirmininko paskirtas kitas Vyriausybės narys. Pavaduojantis ministras nevykdo funkcijų, numatytų šio straipsnio 3 dalies 9, 11 ir 12 punktuose.“
 
 
-2. 26 straipsnio 3 dalies 7 ir 13 punktus pripažinti netekusiais galios, buvusius 8, 9, 10, 11, 12 ir 14 punktus laikyti atitinkamai 7, 8, 9, 10, 11 ir 12 punktais, pakeisti 7, 9, [[#^s-877bb514a6b40ddf2bdf3ff6|10 punktus]] ir juos išdėstyti taip: ^s-f873fdc41393341752a1b9ba
+2. 26 straipsnio 3 dalies 7 ir 13 punktus pripažinti netekusiais galios, buvusius 8, 9, 10, 11, 12 ir 14 punktus laikyti atitinkamai 7, 8, 9, 10, 11 ir 12 punktais, pakeisti 7, 9, [[#^s-877bb514a6b40ddf2bdf3ff6|10]] punktus ir juos išdėstyti taip: ^s-f873fdc41393341752a1b9ba
 
 
 „7) teikia Vyriausybei tvirtinti įstaigų prie ministerijos nuostatų projektus. Vyriausybei pavedus, tvirtina įstaigų prie ministerijos nuostatus;“
@@ -303,7 +303,7 @@ Pakeisti 30 straipsnio pavadinimą, [[#^s-60a200a057360134cefe6554|1 dalyje]] po
 ### 14 straipsnis. 31 straipsnio pakeitimas ^s-d64f2bbc533d6a06a70fa386
 
 
-Pakeisti 31 straipsnio 1, 2 ir [[#^s-79b80f564508dc6aa1a5f2de|4 dalis]], [[#^s-f5cedb92ef00de991dd3401e|5 dalį]] pripažinti netekusia galios, buvusią 6 dalį laikyti [[#^s-f5cedb92ef00de991dd3401e|5 dalimi]], pakeisti [[#^s-f5cedb92ef00de991dd3401e|5 dalį]] ir visą straipsnį išdėstyti taip:
+Pakeisti 31 straipsnio 1, 2 ir 4 dalis, [[#^s-f5cedb92ef00de991dd3401e|5 dalį]] pripažinti netekusia galios, buvusią 6 dalį laikyti [[#^s-f5cedb92ef00de991dd3401e|5 dalimi]], pakeisti [[#^s-f5cedb92ef00de991dd3401e|5 dalį]] ir visą straipsnį išdėstyti taip:
 
 
 „31 straipsnis. Viceministrai ir ministerijų sekretoriai

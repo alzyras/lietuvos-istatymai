@@ -35,7 +35,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-e005d07f1f364004ac7de95b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. kovo 23 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl teisminių ir neteisminių dokumentų civilinėse ar komercinėse bylose įteikimo užsienyje“, ratifikuoja su pareiškimais 1965 m. lapkričio 15 d. sudarytą Konvenciją dėl teisminių ir neteisminių dokumentų civilinėse ar komercinėse bylose įteikimo užsienyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. kovo 23 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Konvenciją dėl teisminių ir neteisminių dokumentų civilinėse ar komercinėse bylose įteikimo užsienyje“](https://e-tar.lt/portal/lt/legalAct/TAR.204997CD7C44), ratifikuoja su pareiškimais 1965 m. lapkričio 15 d. sudarytą Konvenciją dėl teisminių ir neteisminių dokumentų civilinėse ar komercinėse bylose įteikimo užsienyje.
 
 
 

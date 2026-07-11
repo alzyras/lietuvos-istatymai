@@ -82,7 +82,7 @@ Pakeisti 17 straipsnio 1 dalies 23 punktą ir jį išdėstyti taip:
 
 
 3. 20 straipsnio 4 dalies pirmajame sakinyje po žodžių ir skaičiaus „šio straipsnio 2“ įrašyti žodžius ir skaičių „ar [[#^s-64b57aae97241dd64c1d7170|6 dalies]]“ ir šią dalį išdėstyti taip: ^s-55485f2c5efabc3a62d059f1
-„4. NPD mokestiniu laikotarpiu taikomas tik nuolatiniam Lietuvos gyventojui, kai jis pagal šio straipsnio 2 ar [[#^s-64b57aae97241dd64c1d7170|6 dalies]] nuostatas turėdamas teisę į NPD pateikia laisvos formos prašymą vienoje pajamų, susijusių su darbo santykiais arba jų esmę atitinkančiais santykiais, gavimo vietoje. Taikant [[#^s-ed98afcd8412af599db94990|šio straipsnio 2 dalies]] nuostatas mokestiniu laikotarpiu turi būti atsižvelgiama tik į visas kas mėnesį mokamas išmokas (pagrindinį darbo užmokestį, priedus ir priemokas), susijusias su darbo santykiais arba jų esmę atitinkančiais santykiais.“
+„4. NPD mokestiniu laikotarpiu taikomas tik nuolatiniam Lietuvos gyventojui, kai jis pagal šio straipsnio [[#^s-ed98afcd8412af599db94990|2]] ar [[#^s-64b57aae97241dd64c1d7170|6]] dalies nuostatas turėdamas teisę į NPD pateikia laisvos formos prašymą vienoje pajamų, susijusių su darbo santykiais arba jų esmę atitinkančiais santykiais, gavimo vietoje. Taikant [[#^s-ed98afcd8412af599db94990|šio straipsnio 2 dalies]] nuostatas mokestiniu laikotarpiu turi būti atsižvelgiama tik į visas kas mėnesį mokamas išmokas (pagrindinį darbo užmokestį, priedus ir priemokas), susijusias su darbo santykiais arba jų esmę atitinkančiais santykiais.“
 
 
 4. 20 straipsnio 5 dalyje po santrumpos „NPD“ įrašyti žodžius „ar jo dalies“, po žodžių ir skaičiaus „šio straipsnio 2“ įrašyti žodį ir skaičių „ar 6“ ir šią dalį išdėstyti taip: ^s-f5ab14e2f78d768b0b5af805

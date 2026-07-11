@@ -52,7 +52,7 @@ Pakeisti ir papildyti [[#^s-a4b2b459d63e1bf274527ea9|2 straipsnį]] ir jį išd�
 1. Pakeisti 33 straipsnį ir jį išdėstyti taip: ^s-79f03c6d586fed2fedb2ccb0
 
 „33 straipsnis. Lietuvos darbo biržos funkcijos socialinio draudimo sistemoje
-Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos disponuoja įstatymų ir socialinės apsaugos ir darbo ministro nustatyta tvarka iš Fondo gautomis lėšomis, skirsto jas teritorinėms darbo biržoms Užimtumo rėmimo įstatymo nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti ir vykdo jų panaudojimo kontrolę.“
+Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos disponuoja įstatymų ir socialinės apsaugos ir darbo ministro nustatyta tvarka iš Fondo gautomis lėšomis, skirsto jas teritorinėms darbo biržoms [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytoms aktyvios darbo rinkos politikos priemonėms įgyvendinti ir vykdo jų panaudojimo kontrolę.“
 
 
 2. Pakeisti 33 straipsnį ir jį išdėstyti taip: ^s-898bfa724a1d58fa650d1608
@@ -62,7 +62,7 @@ Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos disponuoja
 „33 straipsnis. Lietuvos darbo biržos funkcijos socialinio draudimo sistemoje
 
 
-Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos disponuoja įstatymų ir socialinės apsaugos ir darbo ministro nustatyta tvarka iš Fondo gautomis lėšomis, skirsto jas teritorinėms darbo biržoms Užimtumo rėmimo įstatymo nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti ir vykdo jų panaudojimo kontrolę.“
+Lietuvos darbo birža prie Socialinės apsaugos ir darbo ministerijos disponuoja įstatymų ir socialinės apsaugos ir darbo ministro nustatyta tvarka iš Fondo gautomis lėšomis, skirsto jas teritorinėms darbo biržoms [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatytoms užimtumo rėmimo priemonėms įgyvendinti, darbo rinkos paslaugoms teikti ir užimtumo rėmimo politiką įgyvendinančioms įstaigoms išlaikyti ir vykdo jų panaudojimo kontrolę.“
 
 
 
@@ -79,7 +79,7 @@ Pakeisti ir papildyti 3 straipsnį ir jį išdėstyti taip:
 1. Šio įstatymo [[#^s-7da7ce2ad5ec8cf32e84b56e|1 straipsnis]] įsigalioja 2009 m. rugpjūčio 1 d. ^s-cf9031d880f2a36bc5d8aac4
 
 
-2. Šio įstatymo [[#^s-781eaedb9c1e01e40fe8ef92|2 straipsnio 2 dalis]] įsigalioja 2013 m. sausio 1 d. ir galioja iki 2013 m. gruodžio 31 d. ^s-781eaedb9c1e01e40fe8ef92
+2. Šio įstatymo 2 straipsnio 2 dalis įsigalioja 2013 m. sausio 1 d. ir galioja iki 2013 m. gruodžio 31 d. ^s-781eaedb9c1e01e40fe8ef92
 
 
 3. Šio įstatymo [[#^s-cf9031d880f2a36bc5d8aac4|2 straipsnio 1 dalis]] įsigalioja 2014 m. sausio 1 d.“ ^s-3b3fe13c601737334d717712

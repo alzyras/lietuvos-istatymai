@@ -224,7 +224,7 @@ Valstybės biudžeto ir savivaldybių biudžetų asignavimų valdytojai įstatym
 ### 8 straipsnis.         Valstybės biudžeto ir savivaldybių biudžetų sudarymo ir vykdymo teisinis pagrindas ^s-a0ebf4340476b18d24101686
 
 
-1. Valstybės biudžeto ir savivaldybių biudžetų sudarymo ir vykdymo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, šis įstatymas, Vyriausybės patvirtinta biudžetų sudarymo ir vykdymo tvarka, atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas ir kiti biudžeto pajamų gavimą ir išlaidų finansavimą reglamentuojantys teisės aktai. ^s-8a2a4d7a5a42707ad81ea979
+1. Valstybės biudžeto ir savivaldybių biudžetų sudarymo ir vykdymo teisinis pagrindas yra [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis įstatymas, Vyriausybės patvirtinta biudžetų sudarymo ir vykdymo tvarka, atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas ir kiti biudžeto pajamų gavimą ir išlaidų finansavimą reglamentuojantys teisės aktai. ^s-8a2a4d7a5a42707ad81ea979
 
 
 2. Savivaldybių biudžetų teisinis pagrindas yra atitinkamų savivaldybių tarybų priimti sprendimai dėl atitinkamų biudžetinių metų savivaldybių biudžetų patvirtinimo. ^s-402f8898b3fa6830dbb668c6
@@ -710,7 +710,7 @@ Seimui priėmus įstatymus arba Vyriausybei priėmus nutarimus vykdant įstatymu
 1. Vyriausybė gautą valstybės biudžeto įvykdymo apyskaitą išnagrinėja, priima atitinkamus sprendimus ir pateikia Seimui tvirtinti Seimo statute nustatyta tvarka ir terminais. ^s-4d30b309e1f10d74e1030389
 
 
-2. Valstybės biudžeto įvykdymo apyskaita tvirtinama pagal šio įstatymo [[#^s-d991aa59e1b6ffffe6a50628|18 straipsnio 2 dalies]] 1–9 punktuose nurodytus rodiklius. ^s-98dcedda0b0641d685dc85c0
+2. Valstybės biudžeto įvykdymo apyskaita tvirtinama pagal šio įstatymo [[#^s-d991aa59e1b6ffffe6a50628|18 straipsnio 2 dalies]] [[#^s-23ea672c05c4035242bc3368|1]]–[[#^s-938e83ff30dfc79aa67ca3fd|9]] punktuose nurodytus rodiklius. ^s-98dcedda0b0641d685dc85c0
 
 
 3. Savivaldybės biudžeto įvykdymo apyskaitą tvirtina savivaldybės taryba pagal rodiklius, nurodytus šio įstatymo [[#^s-7c2acdebd83271223e5cbd6c|26 straipsnio 4 dalyje]]. ^s-30cc135cb6326d2fcabaa357
@@ -760,7 +760,7 @@ BIUDŽETŲ VYKDYMO KONTROLĖ IR BIUDŽETŲ VYKDYMO VERTINIMAS
 4. Valstybės ir savivaldybių biudžetinių įstaigų pajamos už teikiamas paslaugas į valstybės ir savivaldybių biudžetus įskaitomos nuo 2002 m. sausio 1 d. (išskyrus valstybės institucijų ir kontroliuojančių organizacijų specialiųjų lėšų įmokas). ^s-fc1d96350bc7b738c2374499
 
 
-5. Įstatymo [[#^s-cba438777bd571f05df718d3|19 straipsnio 6 punkto]] nuostatos dėl Kelių fondo galioja iki 2002 m. sausio 1 d. ^s-ffd5b9c3a3e49e87c1062220
+5. Įstatymo 19 straipsnio 6 punkto nuostatos dėl Kelių fondo galioja iki 2002 m. sausio 1 d. ^s-ffd5b9c3a3e49e87c1062220
 
 
 

@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-33a036063358212c82648c83
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento 1996 m. sausio 2 d. dekretą Nr. 805, ratifikuoja 1977 m. sausio 27 d. Europos sutartį dėl teisinės pagalbos prašymų perdavimo, pasirašytą 1994 metų balandžio 14 dieną (pridedama).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsniu ir atsižvelgdamas į Respublikos Prezidento [1996 m. sausio 2 d. dekretą Nr. 805](https://e-tar.lt/portal/lt/legalAct/TAR.398537B605BA), ratifikuoja 1977 m. sausio 27 d. Europos sutartį dėl teisinės pagalbos prašymų perdavimo, pasirašytą 1994 metų balandžio 14 dieną (pridedama).
 
 
 
@@ -72,7 +72,7 @@ Lietuvos Respublikos
 1996 m. vasario 13 d. įstatymo Nr. I-1201
 priedėlis
 
-Europos sutartis dėl teisinės pagalbos prašymų perdavimo
+[Europos sutartis dėl teisinės pagalbos prašymų perdavimo](https://e-tar.lt/portal/lt/legalAct/TAR.2A2504A221D4)
 
 
 

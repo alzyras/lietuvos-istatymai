@@ -42,7 +42,7 @@ Vilnius
 1. Papildyti 16 straipsnį nauja [[#^s-a745a2bfd5acf2cdf8d8a9ad|2 dalimi]]: ^s-81f77a9ff346bdcddb070622
 
 
-„Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatytą darbo apmokėjimo sistemą, Konstitucinio Teismo pirmininkui ir Konstitucinio Teismo teisėjams taikomos tame įstatyme nustatytos darbo apmokėjimo sąlygos.“
+„Pradėjus įgyvendinti Lietuvos Respublikos valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatytą darbo apmokėjimo sistemą, Konstitucinio Teismo pirmininkui ir Konstitucinio Teismo teisėjams taikomos tame įstatyme nustatytos darbo apmokėjimo sąlygos.“
 
 
 2. Buvusias 16 straipsnio 2, 3, 4 ir 5 dalis laikyti atitinkamai 3, 4, 5 ir 6 dalimis. ^s-a745a2bfd5acf2cdf8d8a9ad

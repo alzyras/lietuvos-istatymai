@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.ED68997709F5#^s-008949054ab861703ff664c3|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - 2 citatos - PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 40 STRAIPSNIO PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.ED68997709F5#^s-951ad7fe84aa679fdc57d085|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - 2 citatos - PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 40 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.ED68997709F5#^s-008949054ab861703ff664c3|Lietuvos Respublikos pridėtinės vertės mokesčio įstatymas]] - PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 40 STRAIPSNIO PAPILDYMO ĮSTATYMAS

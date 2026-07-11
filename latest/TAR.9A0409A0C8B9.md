@@ -112,7 +112,7 @@ Papildyti Įstatymą 141 straipsniu:
 1. Oro navigacijos paslaugas gali teikti tik juridiniai asmenys, turintys atitinkamą oro navigacijos paslaugų teikėjo pažymėjimą. ^s-ce62510d52d6889f60af2140
 
 
-2. Oro navigacijos paslaugų teikėjai, norintys gauti oro navigacijos paslaugų arba atskiros rūšies oro navigacijos paslaugos teikėjo pažymėjimą, turi atitikti 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 549/2004, nustatančio bendro Europos dangaus sukūrimo pagrindą (Pagrindų reglamentas), 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (Paslaugų teikimo reglamentas), 2005 m. gruodžio 20 d. Europos Komisijos reglamento (EB) Nr. 2096/2005, nustatančio bendruosius oro navigacijos paslaugų teikimo reikalavimus, įgyvendinimo taisyklių, kurias Europos Komisija priima įgyvendindama Pagrindų reglamento [[#^s-7bbaad0ad2e6b0ca2b900456|3 straipsnyje]] nurodytas priemones, taip pat kitų teisės aktų reikalavimus. ^s-ba6cbeadc88faf3501c2348c
+2. Oro navigacijos paslaugų teikėjai, norintys gauti oro navigacijos paslaugų arba atskiros rūšies oro navigacijos paslaugos teikėjo pažymėjimą, turi atitikti 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 549/2004, nustatančio bendro Europos dangaus sukūrimo pagrindą (Pagrindų reglamentas), 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 550/2004 dėl oro navigacijos paslaugų teikimo bendrame Europos danguje (Paslaugų teikimo reglamentas), 2005 m. gruodžio 20 d. Europos Komisijos [reglamento (EB) Nr. 2096/2005](https://eur-lex.europa.eu/eli/reg/2096/2005/oj), nustatančio bendruosius oro navigacijos paslaugų teikimo reikalavimus, įgyvendinimo taisyklių, kurias Europos Komisija priima įgyvendindama Pagrindų reglamento [[#^s-7bbaad0ad2e6b0ca2b900456|3 straipsnyje]] nurodytas priemones, taip pat kitų teisės aktų reikalavimus. ^s-ba6cbeadc88faf3501c2348c
 
 
 3. Oro navigacijos paslaugų teikėjų pažymėjimų išdavimo tvarką nustato, juos išduoda arba kitose Europos Bendrijos valstybėse išduotą pažymėjimą pripažįsta CAA. ^s-9a7a6825a06c990a0fc23a5d
@@ -243,7 +243,7 @@ Papildyti Įstatymo III skyriaus dešimtą skirsnį 671 straipsniu:
 „671 straipsnis. Oro susisiekimo vykdymas ir skrydžių teisių paskyrimas
 
 
-1. Oro susisiekimas tarp Lietuvos Respublikos ir Europos Bendrijos bei Europos ekonominės erdvės susitarimo valstybių vykdomas vadovaujantis 1992 m. liepos 23 d. Tarybos reglamento (EEB) Nr. 2408/92 dėl Bendrijos oro vežėjų patekimo į Bendrijos vidaus oro maršrutus ir atitinkamų tarptautinių sutarčių nuostatomis tiek, kiek jos neprieštarauja minėtam reglamentui. ^s-ff4406bb7253be1d77b1ffb1
+1. Oro susisiekimas tarp Lietuvos Respublikos ir Europos Bendrijos bei Europos ekonominės erdvės susitarimo valstybių vykdomas vadovaujantis 1992 m. liepos 23 d. Tarybos [reglamento (EEB) Nr. 2408/92](https://eur-lex.europa.eu/eli/reg/2408/92/oj) dėl Bendrijos oro vežėjų patekimo į Bendrijos vidaus oro maršrutus ir atitinkamų tarptautinių sutarčių nuostatomis tiek, kiek jos neprieštarauja minėtam reglamentui. ^s-ff4406bb7253be1d77b1ffb1
 
 
 2. Oro susisiekimas tarp Lietuvos Respublikos ir Europos Bendrijos bei Europos ekonominei erdvei nepriklausančių valstybių vykdomas pagal atitinkamos tarptautinės sutarties nuostatas, gavus paskyrimą. Kol tokios sutarties nėra, leidimą oro susisiekimui vykdyti išduoda Susisiekimo ministerija arba jos įgaliota CAA. ^s-cb4af7af0cb3feedca97cc2d
@@ -268,7 +268,7 @@ Papildyti Įstatymą 701 straipsniu:
 „701 straipsnis.   Neįgalių asmenų ir ribotos judėsenos asmenų teisės keliaujant oro transportu
 
 
-1. Neįgalių asmenų ir ribotos judėsenos asmenų, keliaujančių oro transportu, teises, apsaugos ir pagalbos jiems teikimo taisykles nustato 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru. ^s-e90dbbd02f7cc438d60c0887
+1. Neįgalių asmenų ir ribotos judėsenos asmenų, keliaujančių oro transportu, teises, apsaugos ir pagalbos jiems teikimo taisykles nustato 2006 m. liepos 5 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1107/2006](https://eur-lex.europa.eu/eli/reg/1107/2006/oj) dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru. ^s-e90dbbd02f7cc438d60c0887
 
 
 2. CAA kontroliuoja, kaip laikomasi [[#^s-e90dbbd02f7cc438d60c0887|šio straipsnio 1 dalyje]] nurodyto reglamento nuostatų skrydžiuose iš Lietuvos Respublikos teritorijoje esančių oro uostų ir į juos.“ ^s-52ba9b35278a454a0538e830
@@ -305,26 +305,26 @@ priedas
 
 
 
-1. 1989 m. liepos 24 d. Tarybos reglamentas (EEB) Nr. 2299/89 dėl elgesio su kompiuterinėmis rezervavimo sistemomis kodekso (su paskutiniais pakeitimais, padarytais 1999 m. vasario 8 d. Tarybos reglamentu (EB) Nr. 323/1999) (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 277; OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p. 251). ^s-752ffb226501d8f5870ffdf3
+1. 1989 m. liepos 24 d. Tarybos [reglamentas (EEB) Nr. 2299/89](https://eur-lex.europa.eu/eli/reg/2299/89/oj) dėl elgesio su kompiuterinėmis rezervavimo sistemomis kodekso (su paskutiniais pakeitimais, padarytais 1999 m. vasario 8 d. Tarybos reglamentu (EB) Nr. 323/1999) (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 277; OL 2004 m. specialusis leidimas, 7 skyrius, 4 tomas, p. 251). ^s-752ffb226501d8f5870ffdf3
 
 
 2. 1991 m. vasario 4 d. Tarybos reglamentas (EEB) Nr. 295/91, nustatantis bendras kompensavimo už atsisakymą vežti reguliaraus oro transportu taisykles (OL 2004 m. specialusis leidimas, 7 skyrius, 1 tomas, p. 306 (su paskutiniais pakeitimais, padarytais 2004 m. vasario 11 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 261/2004 (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 10). ^s-359da7439f4c212b604c8d38
 
 
-3. 1992 m. liepos 23 d. Tarybos reglamentas (EEB) Nr. 2407/92 dėl oro vežėjų licencijavimo (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 3). ^s-1de8bec6e67f0f52dc51b6b0
+3. 1992 m. liepos 23 d. Tarybos [reglamentas (EEB) Nr. 2407/92](https://eur-lex.europa.eu/eli/reg/2407/92/oj) dėl oro vežėjų licencijavimo (OL 2004 m. specialusis leidimas, 6 skyrius, 2 tomas, p. 3). ^s-1de8bec6e67f0f52dc51b6b0
 
 
 4. 1993 m. sausio 18 d. Tarybos reglamentas (EEB) Nr. 95/93 dėl laiko tarpsnių paskirstymo Bendrijos oro uostuose bendrųjų taisyklių (OL 2004 m. specialusis leidimas, 7 skyrius 2 tomas, p. 3 (su paskutiniais pakeitimais, padarytais 2004 m. balandžio 21 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 793/2004 (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 171). ^s-4a9314a9b67a0aef7f3ab8e3
 
 
-5. 2002 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1592/2002 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiantis Europos aviacijos saugos agentūrą (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 30). ^s-9789477942cd8bd39f4cf3a4
+5. 2002 m. liepos 15 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1592/2002](https://eur-lex.europa.eu/eli/reg/1592/2002/oj) dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiantis Europos aviacijos saugos agentūrą (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 30). ^s-9789477942cd8bd39f4cf3a4
 
 
-6. 2003 m. rugsėjo 24 d. Komisijos reglamentas (EB) Nr. 1702/2003, nustatantis orlaivio tinkamumo skraidyti ir orlaivio bei susijusių jo gaminių, dalių ir prietaisų tinkamumo naudoti aplinkos atžvilgiu pažymėjimų išdavimą bei projektavimo ir gamybinių organizacijų sertifikavimą įgyvendinančias taisykles (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 456). ^s-ced1121bcd4a51779a3d23ed
+6. 2003 m. rugsėjo 24 d. Komisijos [reglamentas (EB) Nr. 1702/2003](https://eur-lex.europa.eu/eli/reg/1702/2003/oj), nustatantis orlaivio tinkamumo skraidyti ir orlaivio bei susijusių jo gaminių, dalių ir prietaisų tinkamumo naudoti aplinkos atžvilgiu pažymėjimų išdavimą bei projektavimo ir gamybinių organizacijų sertifikavimą įgyvendinančias taisykles (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 456). ^s-ced1121bcd4a51779a3d23ed
 
 
 
-7. 2003 m. lapkričio 20 d. Komisijos reglamentas (EB) Nr. 2042/2003 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 541). ^s-54a14424e4d3eb847a28110f
+7. 2003 m. lapkričio 20 d. Komisijos [reglamentas (EB) Nr. 2042/2003](https://eur-lex.europa.eu/eli/reg/2042/2003/oj) dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo (OL 2004 m. specialusis leidimas, 7 skyrius, 7 tomas, p. 541). ^s-54a14424e4d3eb847a28110f
 
 
 8. 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 549/2004, nustatantis bendro Europos dangaus sukūrimo pagrindą (Pagrindų reglamentas) (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 23). ^s-522f754a8a6372f26d086450
@@ -339,17 +339,17 @@ priedas
 11. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 847/2004 dėl derybų dėl valstybių narių ir trečiųjų šalių susitarimų dėl oro susisiekimo ir jų įgyvendinimo (OL 2004 m. specialusis leidimas, 7 skyrius, 8 tomas, p. 193). ^s-5923711bed15226c518d6a9e
 
 
-12. 2005 m. gruodžio 20 d. Europos Komisijos reglamentas (EB) Nr. 2096/2005, nustatantis bendruosius oro navigacijos paslaugų teikimo reikalavimus (OL 2005 L 335, p. 13). ^s-c0b13abfb38f8116d38bb536
+12. 2005 m. gruodžio 20 d. Europos Komisijos [reglamentas (EB) Nr. 2096/2005](https://eur-lex.europa.eu/eli/reg/2096/2005/oj), nustatantis bendruosius oro navigacijos paslaugų teikimo reikalavimus (OL 2005 L 335, p. 13). ^s-c0b13abfb38f8116d38bb536
 
 
-13. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1107/2006 dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru (OL 2006 L 204, p. 1).“ ^s-45e305a45465ce029ab13495
+13. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1107/2006](https://eur-lex.europa.eu/eli/reg/1107/2006/oj) dėl neįgalių asmenų ir ribotos judėsenos asmenų teisių keliaujant oru (OL 2006 L 204, p. 1).“ ^s-45e305a45465ce029ab13495
 
 
 
 ### 18 straipsnis. Įstatymo įsigaliojimas ^s-d809a76d8fc04007280d1e76
 
 
-Šio įstatymo [[#^s-a379a9102b28bfb19823225e|7 straipsnyje]] išdėstyto Aviacijos įstatymo 15 straipsnio 2 dalis, [[#^s-02c49be5a03294d3ed213e46|8 straipsnyje]] išdėstyto [[latest/TAR.9D2F66B96EBC#^s-7f6b9b1e9208f0bd263c4737|Aviacijos įstatymo 16 straipsnio 1 dalis]], [[#^s-d765260f1711c3fb5502d750|9 straipsnyje]] išdėstyto [[latest/TAR.9D2F66B96EBC#^s-1dfc84bcf7acb905416a28e9|Aviacijos įstatymo 17 straipsnio 1 dalis]], [[#^s-fd4547ae846c18dec1c4742c|10 straipsnyje]] išdėstyto [[latest/TAR.9D2F66B96EBC#^s-2d62185b5d70969f302673c3|Aviacijos įstatymo 18 straipsnio 2 dalis]], [[#^s-5a9028bdbbd5b319c40f4294|14 straipsnyje]] išdėstyto Aviacijos įstatymo 671 straipsnio 4 dalis įsigalioja po 3 mėnesių nuo šio įstatymo paskelbimo „Valstybės žiniose“.
+Šio įstatymo [[#^s-a379a9102b28bfb19823225e|7 straipsnyje]] išdėstyto [[latest/TAR.9D2F66B96EBC|Aviacijos įstatymo 15 straipsnio 2 dalis]], [[#^s-02c49be5a03294d3ed213e46|8 straipsnyje]] išdėstyto [[latest/TAR.9D2F66B96EBC#^s-7f6b9b1e9208f0bd263c4737|Aviacijos įstatymo 16 straipsnio 1 dalis]], [[#^s-d765260f1711c3fb5502d750|9 straipsnyje]] išdėstyto [[latest/TAR.9D2F66B96EBC#^s-1dfc84bcf7acb905416a28e9|Aviacijos įstatymo 17 straipsnio 1 dalis]], [[#^s-fd4547ae846c18dec1c4742c|10 straipsnyje]] išdėstyto [[latest/TAR.9D2F66B96EBC#^s-2d62185b5d70969f302673c3|Aviacijos įstatymo 18 straipsnio 2 dalis]], [[#^s-5a9028bdbbd5b319c40f4294|14 straipsnyje]] išdėstyto [[latest/TAR.9D2F66B96EBC|Aviacijos įstatymo 671 straipsnio 4 dalis]] įsigalioja po 3 mėnesių nuo šio įstatymo paskelbimo „Valstybės žiniose“.
 
 
 

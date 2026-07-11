@@ -44,7 +44,7 @@ Vilnius
 1. Pakeisti 26 straipsnio 2 dalį ir ją išdėstyti taip: ^s-11a167969e6dcbedbd1336db
 
 
-„2. [[#^s-11a167969e6dcbedbd1336db|Šio straipsnio 1 dalies]] 2–5 punktuose nustatytos sąlygos netaikomos užsieniečiui, kuriam yra nustatyta globa (rūpyba), užsieniečiui, kuriam leista pasilikti gyventi Lietuvos Respublikoje, kadangi jis yra ar buvo prekybos žmonėmis arba nelegalaus darbo auka ir bendradarbiauja su ikiteisminio tyrimo įstaiga arba teismu kovojant su prekyba žmonėmis ar su nusikaltimais, susijusiais su prekyba žmonėmis arba su nelegaliu darbu, kai dirbta ypatingai išnaudojamo darbo sąlygomis arba kai dirbo nepilnametis, arba dėl valstybės saugumo interesų, taip pat užsieniečiui, kuris pagal Lietuvos Respublikos pilietybės įstatymą turi teisę atkurti Lietuvos Respublikos pilietybę arba yra lietuvių kilmės asmuo.“
+„2. Šio straipsnio 1 dalies 2–5 punktuose nustatytos sąlygos netaikomos užsieniečiui, kuriam yra nustatyta globa (rūpyba), užsieniečiui, kuriam leista pasilikti gyventi Lietuvos Respublikoje, kadangi jis yra ar buvo prekybos žmonėmis arba nelegalaus darbo auka ir bendradarbiauja su ikiteisminio tyrimo įstaiga arba teismu kovojant su prekyba žmonėmis ar su nusikaltimais, susijusiais su prekyba žmonėmis arba su nelegaliu darbu, kai dirbta ypatingai išnaudojamo darbo sąlygomis arba kai dirbo nepilnametis, arba dėl valstybės saugumo interesų, taip pat užsieniečiui, kuris pagal Lietuvos Respublikos pilietybės įstatymą turi teisę atkurti Lietuvos Respublikos pilietybę arba yra lietuvių kilmės asmuo.“
 
 
 2. Pakeisti 26 straipsnio 3 dalį ir ją išdėstyti taip: ^s-2a4dc0242cf2d6b6ad210ca4
@@ -180,7 +180,7 @@ Papildyti 125 straipsnio 1 dalį 7 punktu:
 ### 10 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-eca82a202d259159a2e0f583
 
 
-1. Šis įstatymas, išskyrus 3, 4, 5, 6, 8, [[#^s-e013822601f63cdd022fa1c9|9 straipsnius]] ir [[#^s-d5f3fcf15e645e657b554aee|šio straipsnio 2 dalį]], įsigalioja 2014 m. sausio 1 d. ^s-eda304ae3662a0a037f7b4a3
+1. Šis įstatymas, išskyrus [[#^s-0dc5ceabef57d81d0292d1ff|3]], [[#^s-f264d6525a080d49d2b97e6c|4]], [[#^s-ec48a78e16a7436413c042d2|5]], [[#^s-c7a9aa04ad5236afc06f31c2|6]], [[#^s-5b1ae6437a13008ba4cc5243|8]], [[#^s-e013822601f63cdd022fa1c9|9]] straipsnius ir [[#^s-d5f3fcf15e645e657b554aee|šio straipsnio 2 dalį]], įsigalioja 2014 m. sausio 1 d. ^s-eda304ae3662a0a037f7b4a3
 
 
 2. Lietuvos Respublikos Vyriausybė ir vidaus reikalų ministras priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-d5f3fcf15e645e657b554aee

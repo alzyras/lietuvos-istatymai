@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-39a027194026a5e8dcc2982b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. lapkričio 21 d. dekretą Nr. 1K-1594, ratifikuoja 2008 m. birželio 10 d. Bratislavoje pasirašytą Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės susitarimą dėl įslaptintos informacijos abipusės apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. lapkričio 21 d. dekretą Nr. 1K-1594](https://e-tar.lt/portal/lt/legalAct/TAR.2EFA956C37D7), ratifikuoja 2008 m. birželio 10 d. Bratislavoje pasirašytą Lietuvos Respublikos Vyriausybės ir Slovakijos Respublikos Vyriausybės susitarimą dėl įslaptintos informacijos abipusės apsaugos.
 
 
 

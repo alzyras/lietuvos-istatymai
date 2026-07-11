@@ -38,13 +38,13 @@ Vilnius
 ### 1 straipsnis. 60 straipsnio pakeitimas ^s-c7eafc13bd94b41b67e76418
 
 
-1. Papildyti 60 straipsnio 2 dalį nauju 12 punktu: ^s-948616d59e3ae538833f7941
+1. Papildyti [[latest/TAR.9F4371AB03A3#^s-0e2b1df2fa19e0cafebc5118|60 straipsnio 2 dalį]] nauju [[latest/TAR.9F4371AB03A3|12 punktu]]: ^s-948616d59e3ae538833f7941
 
 
 „12) atlieka kompetentingos institucijos funkcijas dėl advokatų padėjėjų profesinės praktikos pripažinimo pagal Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 57 straipsnį;“.
 
 
-2. Buvusius 60 straipsnio 2 dalies 12–20 punktus laikyti atitinkamai 13–21 punktais. ^s-8600fcf5a9a88f2cb3bce568
+2. Buvusius [[latest/TAR.9F4371AB03A3#^s-0e2b1df2fa19e0cafebc5118|60 straipsnio 2 dalies]] [[latest/TAR.9F4371AB03A3#^s-26d94dceb0ba0971cbc737b9|12]]–[[latest/TAR.9F4371AB03A3#^s-616182d6e7927c35e2cb7296|20]] punktus laikyti atitinkamai [[latest/TAR.9F4371AB03A3#^s-85e9c9c2b85037ad2bee0c9e|13]]–[[latest/TAR.9F4371AB03A3#^s-74b16b222368d39778b0665c|21]] punktais. ^s-8600fcf5a9a88f2cb3bce568
 
 
 

@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Sutarčių ratifikavimas ^s-99ab9f64caaa1ec64de9ad8d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. liepos 3 d. dekretą Nr. 1K-1116, ratifikuoja šias Jungtinių Tautų tarptautines sutartis kosminės erdvės naudojimo srityje:
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. liepos 3 d. dekretą Nr. 1K-1116](https://e-tar.lt/portal/lt/legalAct/TAR.E0A61C028447), ratifikuoja šias Jungtinių Tautų tarptautines sutartis kosminės erdvės naudojimo srityje:
 
 
 1) Sutartį dėl valstybių veiklos, tyrinėjant ir naudojant kosminę erdvę, įskaitant Mėnulį ir kitus dangaus kūnus, reguliavimo principų, pateiktą pasirašyti 1967 m. sausio 27 d. Londone, Maskvoje ir Vašingtone; ^s-8a7aeb1bd8f6c7d078cfbd24

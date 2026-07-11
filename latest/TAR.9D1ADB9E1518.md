@@ -411,16 +411,16 @@ Nr. XIV-287, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09689
 
 
 
-2. Gamintojai ir importuotojai (arba jiems atstovaujančios organizacijos), patys ar kolektyviai organizuojantys pakuočių, įskaitant pakuotes, kurioms taikomas užstatas pagal šio įstatymo [[#^s-a89868092f972193ed64e36c|11 straipsnio]] 1 ar [[#^s-219814c534de91bb0842c0e9|2 dalį]], atliekų tvarkymą, be šio straipsnio 1, 3 ir [[#^s-cedc9858a87d3293acd5fb88|4 dalyse]] nurodyto ženklinimo, papildomai gali savo gaminių pakuotes žymėti kitais jų pačių pasirinktais ženklais, nurodančiais dalyvavimą atitinkamoje organizacijoje ar pakuočių atliekų tvarkymo sistemoje. ^s-219814c534de91bb0842c0e9
+2. Gamintojai ir importuotojai (arba jiems atstovaujančios organizacijos), patys ar kolektyviai organizuojantys pakuočių, įskaitant pakuotes, kurioms taikomas užstatas pagal šio įstatymo [[#^s-a89868092f972193ed64e36c|11 straipsnio]] [[#^s-b2814b6d9f70d5a8d5f09623|1]] ar [[#^s-1daca156e8a9d856e1931384|2]] dalį, atliekų tvarkymą, be šio straipsnio [[#^s-b2814b6d9f70d5a8d5f09623|1]], [[#^s-c36762138501c4aaae3006ef|3]] ir [[#^s-2f99792ab663d521b99b1184|4]] dalyse nurodyto ženklinimo, papildomai gali savo gaminių pakuotes žymėti kitais jų pačių pasirinktais ženklais, nurodančiais dalyvavimą atitinkamoje organizacijoje ar pakuočių atliekų tvarkymo sistemoje. ^s-219814c534de91bb0842c0e9
 Straipsnio dalies pakeitimai:
 Nr. XIV-287, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09689
 
 
 
-3. Gamintojai ir importuotojai, tiekdami Lietuvos Respublikos vidaus rinkai gaminius, už kurių pakuotę nustatytas užstatas pagal šio įstatymo [[#^s-a89868092f972193ed64e36c|11 straipsnio]] 1 ar [[#^s-219814c534de91bb0842c0e9|2 dalį]], privalo pakuotę pažymėti pakuotės gamintoją ar importuotoją identifikuojančiu brūkšniniu kodu ir atitinkamos užstato sistemos taikymą nurodančiu ženklu. Ženklas turi būti visuotinis Lietuvos Respublikos teritorijoje. Atitinkamos užstato sistemos taikymo pakuotei ženklo formą atitinkamos užstato sistemos administratoriaus (administratorių) teikimu ir pakuotės ženklinimo tokiu ženklu tvarką nustato aplinkos ministras. ^s-3de453b43238bbd053fdae3b
+3. Gamintojai ir importuotojai, tiekdami Lietuvos Respublikos vidaus rinkai gaminius, už kurių pakuotę nustatytas užstatas pagal šio įstatymo [[#^s-a89868092f972193ed64e36c|11 straipsnio]] [[#^s-b2814b6d9f70d5a8d5f09623|1]] ar [[#^s-1daca156e8a9d856e1931384|2]] dalį, privalo pakuotę pažymėti pakuotės gamintoją ar importuotoją identifikuojančiu brūkšniniu kodu ir atitinkamos užstato sistemos taikymą nurodančiu ženklu. Ženklas turi būti visuotinis Lietuvos Respublikos teritorijoje. Atitinkamos užstato sistemos taikymo pakuotei ženklo formą atitinkamos užstato sistemos administratoriaus (administratorių) teikimu ir pakuotės ženklinimo tokiu ženklu tvarką nustato aplinkos ministras. ^s-3de453b43238bbd053fdae3b
 
 
-4. Pateikiamų Lietuvos Respublikos rinkai vienkartinių plastikinių gaminių (higieninių paketų (įklotų), tamponų, tamponų aplikatorių, drėgnųjų servetėlių, tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) pakuotės ir vienkartiniams plastikiniams gaminiams priskiriami gėrimų indeliai turi būti paženklinti pagal Komisijos įgyvendinimo reglamento (ES) 2020/2151 reikalavimus. ^s-cedc9858a87d3293acd5fb88
+4. Pateikiamų Lietuvos Respublikos rinkai vienkartinių plastikinių gaminių (higieninių paketų (įklotų), tamponų, tamponų aplikatorių, drėgnųjų servetėlių, tabako gaminių su filtrais, filtrų, parduodamų naudoti kartu su tabako gaminiais) pakuotės ir vienkartiniams plastikiniams gaminiams priskiriami gėrimų indeliai turi būti paženklinti pagal Komisijos įgyvendinimo [reglamento (ES) 2020/2151](https://eur-lex.europa.eu/eli/reg/2020/2151/oj) reikalavimus. ^s-cedc9858a87d3293acd5fb88
 Papildyta straipsnio dalimi:
 Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
 
@@ -550,7 +550,7 @@ Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
 1. Gamintojai ir importuotojai, per ataskaitinį laikotarpį Lietuvos Respublikos vidaus rinkai tiekiantys ne daugiau kaip 0,5 tonos pakuočių (neįskaitant vienkartinių pakuočių, kurioms pagal šio įstatymo [[#^s-1daca156e8a9d856e1931384|11 straipsnio 2 dalį]] taikoma užstato sistema, ir visų daugkartinių pakuočių), atleidžiami nuo šio įstatymo [[#^s-01c15acc7afac99205d4dba6|7 straipsnio 3 dalyje]] nustatytos pareigos mokėti mokestį už aplinkos teršimą pakuočių atliekomis. ^s-53efd1c642f431cc1dbc1aeb
 
 
-2. Nuo šio įstatymo 6 ir [[#^s-4ca474eb25d14852e0a505b9|7 straipsniuose]] nustatytos pareigos tvarkyti apskaitą bei atsiskaityti ir nuo šio įstatymo [[#^s-54f58721590507e6aa6dbd4d|7 straipsnio 1 dalyje]] nustatytos pareigos registruotis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atleidžiama: ^s-a5cd2cec3fff7e955f229784
+2. Nuo šio įstatymo [[#^s-4dca8454ea0b0a1df99951b8|6]] ir [[#^s-4ca474eb25d14852e0a505b9|7]] straipsniuose nustatytos pareigos tvarkyti apskaitą bei atsiskaityti ir nuo šio įstatymo [[#^s-54f58721590507e6aa6dbd4d|7 straipsnio 1 dalyje]] nustatytos pareigos registruotis Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka atleidžiama: ^s-a5cd2cec3fff7e955f229784
 
 
 1) jeigu įmonė pagal Lietuvos Respublikos pridėtinės vertės mokesčio įstatymą neprivalo būti registruota pridėtinės vertės mokesčio (toliau – PVM) mokėtoja (netaikoma gamintojams ir importuotojams, kurie Lietuvos Respublikos vidaus rinkai tiekia gaminius, supakuotus į pakuotę, kuriai pagal šio įstatymo [[#^s-a89868092f972193ed64e36c|11 straipsnio]] 1 ir (ar) [[#^s-a5cd2cec3fff7e955f229784|2 dalį]] taikoma užstato sistema); ^s-48e9406028615378379b2db7
@@ -587,7 +587,7 @@ Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
 3) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų prevencijos ir tvarkymo klausimais: apie esamus daugkartinius alternatyvius gaminius ir jų naudojimo galimybes, pakartotinio naudojimo sistemas, atliekų tvarkymo galimybes, taip pat geriausią tinkamo šių atliekų tvarkymo praktiką, taikomą pagal [[latest/TAR.8D38517814F1#^s-dd1ffddd71ad88c813f3eb47|Atliekų tvarkymo įstatymo 41 straipsnį]], taršos šiukšlėmis ir kitokio netinkamo šių atliekų šalinimo poveikį aplinkai, visų pirma jūros aplinkai, ir nuotekų kanalizacijos tinklui; ^s-ccfa19874b81988f6c19b43c
 
 
-4) apmokėti šios dalies 1 ir [[#^s-7d5b8bdf47416d1a4f0ddaed|2 punktuose]] nurodyto vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo, surinkimo, vežimo, apdorojimo išlaidas, įskaitant išlaidas, patirtas nustatant [[#^s-53dd63218272fb800c70f300|šio straipsnio 9 dalyje]] ir šio įstatymo [[#^s-e1c74cc985e2e4ceeb095009|10 straipsnio 54 dalyje]] nurodytus referencinius skaičius, taip pat [[#^s-ccfa19874b81988f6c19b43c|šios dalies 3 punkte]] nurodyto visuomenės švietimo ir informavimo organizavimo ir vykdymo išlaidas, neviršijant šioms paslaugoms ekonomiškai efektyviai teikti būtinų išlaidų. ^s-38134687d56f28a14851167a
+4) apmokėti šios dalies [[#^s-94e2d57bb14e443e39dafd02|1]] ir [[#^s-7d5b8bdf47416d1a4f0ddaed|2]] punktuose nurodyto vienkartinių plastikinių gaminių, nurodytų šio įstatymo 11 priede, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo, surinkimo, vežimo, apdorojimo išlaidas, įskaitant išlaidas, patirtas nustatant [[#^s-53dd63218272fb800c70f300|šio straipsnio 9 dalyje]] ir šio įstatymo [[#^s-e1c74cc985e2e4ceeb095009|10 straipsnio 54 dalyje]] nurodytus referencinius skaičius, taip pat [[#^s-ccfa19874b81988f6c19b43c|šios dalies 3 punkte]] nurodyto visuomenės švietimo ir informavimo organizavimo ir vykdymo išlaidas, neviršijant šioms paslaugoms ekonomiškai efektyviai teikti būtinų išlaidų. ^s-38134687d56f28a14851167a
 Straipsnio punkto pakeitimai:
 Nr. XV-445, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16797
 
@@ -667,7 +667,7 @@ Nr. XIII-681, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16709
 3. Daugkartinių pakuočių pardavėjai, nurodyti [[#^s-58abddab86c4b5510e8fab66|šio straipsnio 1 dalyje]], privalo priimti visas pakuotes, už kurias pagal šio įstatymo [[#^s-b2814b6d9f70d5a8d5f09623|11 straipsnio 1 dalį]] nustatytas užstatas, ir grąžinti užstatą, nepaisant to, ar parduoda gaminius, supakuotus į tapačią pakuotę, ar ne. Vienkartinių pakuočių pardavėjai, nurodyti [[#^s-a5c8d34adadd260155d96861|šio straipsnio 2 dalyje]], privalo priimti visas pakuočių, už kurias pagal šio įstatymo [[#^s-1daca156e8a9d856e1931384|11 straipsnio 2 dalį]] nustatytas užstatas, atliekas ir grąžinti užstatą, nepaisant to, ar parduoda gaminius, supakuotus į tapačią pakuotę, ar ne. ^s-2e07f09021c5dc82a6a8d331
 
 
-4. Šio straipsnio 1 ir [[#^s-a5c8d34adadd260155d96861|2 dalyse]] nurodyti pakuočių pardavėjai turi organizuoti daugkartinių pakuočių ir (ar) vienkartinių pakuočių atliekų priėmimą ir užstato grąžinimą prekybos vietose ar teritorijose arba arti jų, tačiau ne didesniu kaip 150 m atstumu nuo prekybos vietų, užtikrindami tokias pačias kaip prekybos vietų darbo valandas. ^s-93fd7be94f73f29783472ca4
+4. Šio straipsnio [[#^s-58abddab86c4b5510e8fab66|1]] ir [[#^s-a5c8d34adadd260155d96861|2]] dalyse nurodyti pakuočių pardavėjai turi organizuoti daugkartinių pakuočių ir (ar) vienkartinių pakuočių atliekų priėmimą ir užstato grąžinimą prekybos vietose ar teritorijose arba arti jų, tačiau ne didesniu kaip 150 m atstumu nuo prekybos vietų, užtikrindami tokias pačias kaip prekybos vietų darbo valandas. ^s-93fd7be94f73f29783472ca4
 
 
 5. Pakuočių pardavėjai už visų užstato sistemoje dalyvaujančių gaminių pakuotes pakuočių vartotojams turi grąžinti užstatą grynaisiais pinigais arba pakuočių vartotojų pageidavimu jiems suteikti teisę įsigyti pakuočių pardavėjo parduodamų prekių ar paslaugų už sumą, lygią užstato dydžiui. ^s-4a29a3c4b6a5ef3a18e0d62e
@@ -736,7 +736,7 @@ Nr. XIV-1563, 2022-11-24, paskelbta TAR 2022-12-02, i. k. 2022-24643
 2. Viešojo maitinimo vietose (patalpose ar lauko sąlygomis ne didesniu kaip 40 metrų atstumu nuo viešojo maitinimo vietos įrengtose aptarnavimo vietose (zonose)) kaip alternatyva [[#^s-9ebfd98761b25f09056fc748|šio straipsnio 1 dalyje]] nurodytiems vienkartiniams plastikiniams gaminiams turi būti pateikiamos daugkartinės pakuotės arba vienkartinės pakuotės, kurių sudėtyje nėra plastiko, arba stalo indai.  Alternatyvos pateikimas nėra privalomas vadovaujantis [[latest/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatymo]] reikalavimais Lietuvos Respublikoje laikinai paslaugas teikiantiems kitų valstybių narių paslaugų teikėjams. ^s-1de0144a14a5ed95be95af48
 
 
-3. Viešojo maitinimo paslaugas teikiantys fiziniai ir juridiniai asmenys, suteikdami galimybę pripildyti maisto produktų ar gėrimų vartotojo atsineštą pakuotę viešojo maitinimo vietose, privalo vartotojui pateikti informaciją apie sąlygas, kuriomis leidžiama įsigyti maisto produktų ar gėrimų vartotojo atsineštoje pakuotėje, kad būtų užtikrinti 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 852/2004 dėl maisto produktų higienos ir 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1935/2004 dėl žaliavų ir gaminių, skirtų liestis su maistu, ir panaikinančiame Direktyvas 80/590/EEB ir 89/109/EEB nurodyti saugos ir higienos reikalavimai. ^s-7ea3ee7285f5856319df3065
+3. Viešojo maitinimo paslaugas teikiantys fiziniai ir juridiniai asmenys, suteikdami galimybę pripildyti maisto produktų ar gėrimų vartotojo atsineštą pakuotę viešojo maitinimo vietose, privalo vartotojui pateikti informaciją apie sąlygas, kuriomis leidžiama įsigyti maisto produktų ar gėrimų vartotojo atsineštoje pakuotėje, kad būtų užtikrinti 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 852/2004 dėl maisto produktų higienos ir 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1935/2004](https://eur-lex.europa.eu/eli/reg/1935/2004/oj) dėl žaliavų ir gaminių, skirtų liestis su maistu, ir panaikinančiame Direktyvas 80/590/EEB ir 89/109/EEB nurodyti saugos ir higienos reikalavimai. ^s-7ea3ee7285f5856319df3065
 
 
 4. Viešojo maitinimo paslaugas teikiantiems fiziniams ir juridiniams asmenims draudžiama masiniuose renginiuose ir paplūdimiuose įrengtose viešojo maitinimo vietose vartotojams neatlygintinai dalyti ir (ar) parduoti šio įstatymo 11 priedo 1 ir 4 punktuose nurodytus vienkartinius plastikinius gaminius, kurie teikiant viešojo maitinimo paslaugą pripildomi maisto produktų ar gėrimų. Draudimas netaikomas, kai viešojo maitinimo paslaugas teikiantys fiziniai ir juridiniai asmenys, pripildydami maisto produktų ar gėrimų šio įstatymo 11 priedo 1 ir 4 punktuose nurodytus vienkartinius plastikinius gaminius, už juos taiko užstatą, kuris turi atitikti šio įstatymo [[#^s-3a6dc2897f8bb7ddbf0d4709|11 straipsnio 10 dalyje]] nustatytą reikalavimą. ^s-540ff6fa4aa18e09aeb1426d
@@ -764,10 +764,10 @@ Nr. XI-1893, 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
 ### 10 straipsnis. Kolektyvaus pakuočių atliekų tvarkymo organizavimo reikalavimai ^s-9f37e8db1074880a64783125
 
 
-1. Siekdami kolektyviai organizuoti pakuočių atliekų tvarkymą, gamintojai ir importuotojai gali steigti gamintojų ir importuotojų organizaciją (toliau – organizacija) ir (ar) tapti įsteigtos organizacijos dalyviais, jai pavesti organizuoti pakuočių atliekų tvarkymą ir vykdyti šio įstatymo [[#^s-54f58721590507e6aa6dbd4d|7 straipsnio 1 dalies]] 2, 3, [[#^s-a6b7c6ce356e7bb1b1a303f7|4 punktuose]] ir [[#^s-792d07056c7f26d488684467|2 dalyje]] nustatytas pareigas arba organizacijai pavesti organizuoti pakuočių atliekų tvarkymą ir vykdyti šio įstatymo [[#^s-54f58721590507e6aa6dbd4d|7 straipsnio 1 dalies]] 2, 3, [[#^s-a6b7c6ce356e7bb1b1a303f7|4 punktuose]] ir [[#^s-792d07056c7f26d488684467|2 dalyje]] nustatytas pareigas netapdami organizacijos dalyviais. Pavedant organizacijai vykdyti šias pareigas, privaloma laikytis šių reikalavimų: ^s-abf9b1efb91ce0eccf686048
+1. Siekdami kolektyviai organizuoti pakuočių atliekų tvarkymą, gamintojai ir importuotojai gali steigti gamintojų ir importuotojų organizaciją (toliau – organizacija) ir (ar) tapti įsteigtos organizacijos dalyviais, jai pavesti organizuoti pakuočių atliekų tvarkymą ir vykdyti šio įstatymo [[#^s-54f58721590507e6aa6dbd4d|7 straipsnio 1 dalies]] [[#^s-9d8017ae4f599be859b47113|2]], [[#^s-c3532d99009ee0da1d3ecef4|3]], [[#^s-00654a12d2e3e88c7109a84f|4]] punktuose ir [[#^s-792d07056c7f26d488684467|2 dalyje]] nustatytas pareigas arba organizacijai pavesti organizuoti pakuočių atliekų tvarkymą ir vykdyti šio įstatymo [[#^s-54f58721590507e6aa6dbd4d|7 straipsnio 1 dalies]] [[#^s-9d8017ae4f599be859b47113|2]], [[#^s-c3532d99009ee0da1d3ecef4|3]], [[#^s-00654a12d2e3e88c7109a84f|4]] punktuose ir [[#^s-792d07056c7f26d488684467|2 dalyje]] nustatytas pareigas netapdami organizacijos dalyviais. Pavedant organizacijai vykdyti šias pareigas, privaloma laikytis šių reikalavimų: ^s-abf9b1efb91ce0eccf686048
 
 
-1) siekdami kolektyviai organizuoti pakuočių atliekų tvarkymą ir vykdyti šio įstatymo [[#^s-54f58721590507e6aa6dbd4d|7 straipsnio 1 dalies]] 2, 3, [[#^s-a6b7c6ce356e7bb1b1a303f7|4 punktuose]] ir [[#^s-792d07056c7f26d488684467|2 dalyje]] nustatytas pareigas, gamintojai ir (ar) importuotojai pirmą kartą pavesti organizacijai vykdyti šias pareigas arba pakeisti organizaciją, kuri jų pavedimu ateinančiais kalendoriniais metais vykdys šias pareigas, gali ne vėliau kaip iki einamųjų metų gruodžio 1 dienos, išskyrus atvejus, kai gamintojas ir (ar) importuotojas pakuočių tiekimą Lietuvos Respublikos vidaus rinkai pradeda vykdyti po gruodžio 1 dienos; ^s-214aff6206b8616c4f184b46
+1) siekdami kolektyviai organizuoti pakuočių atliekų tvarkymą ir vykdyti šio įstatymo [[#^s-54f58721590507e6aa6dbd4d|7 straipsnio 1 dalies]] [[#^s-9d8017ae4f599be859b47113|2]], [[#^s-c3532d99009ee0da1d3ecef4|3]], [[#^s-00654a12d2e3e88c7109a84f|4]] punktuose ir [[#^s-792d07056c7f26d488684467|2 dalyje]] nustatytas pareigas, gamintojai ir (ar) importuotojai pirmą kartą pavesti organizacijai vykdyti šias pareigas arba pakeisti organizaciją, kuri jų pavedimu ateinančiais kalendoriniais metais vykdys šias pareigas, gali ne vėliau kaip iki einamųjų metų gruodžio 1 dienos, išskyrus atvejus, kai gamintojas ir (ar) importuotojas pakuočių tiekimą Lietuvos Respublikos vidaus rinkai pradeda vykdyti po gruodžio 1 dienos; ^s-214aff6206b8616c4f184b46
 
 
 2) gamintojai ir importuotojai, kurie pakuočių tiekimą Lietuvos Respublikos vidaus rinkai pradeda vykdyti po gruodžio 1 dienos, vykdyti šioje dalyje nurodytas pareigas organizacijai gali pavesti per vieną mėnesį nuo šių gamintojų ir importuotojų užsiregistravimo aplinkos ministro nustatyta tvarka Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje dienos; ^s-c45168dbbd765f10ccb87c31
@@ -779,7 +779,7 @@ Nr. XI-1893, 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
 4) sustabdžius ar panaikinus organizacijai išduotos licencijos galiojimą, per vieną mėnesį gamintojai ir (ar) importuotojai gali pavesti kitai organizacijai einamaisiais metais vykdyti gamintojams ir (ar) importuotojams šioje dalyje nustatytas pareigas; ^s-a6b7c6ce356e7bb1b1a303f7
 
 
-5) visiems gamintojams ir (ar) importuotojams, kurie šios dalies 2 ir [[#^s-a6b7c6ce356e7bb1b1a303f7|4 punktuose]] nurodytais atvejais paveda organizacijai einamaisiais metais vykdyti šioje dalyje nurodytas pareigas po einamųjų kalendorinių metų I ketvirčio pabaigos, turi būti taikomos vienodos pareigų vykdymo sąlygos, tai yra vienodi pakuočių atliekų tvarkymo įkainiai, įsipareigojimas dėl Vyriausybės ar jos įgaliotos institucijos nustatytų pakuočių atliekų tvarkymo užduočių įvykdymo lygio, nuostolių kompensavimo tvarka, jeigu, organizacijai neįvykdžius įsipareigojimo įvykdyti Vyriausybės ar jos įgaliotos institucijos nustatytas pakuočių atliekų tvarkymo užduotis, gamintojams ir (ar) importuotojams reikėtų sumokėti mokestį už aplinkos teršimą pakuočių atliekomis, bet šiuo likusiu einamųjų metų laikotarpiu šios sąlygos gali skirtis nuo pareigų vykdymo sąlygų, kurios nuo šių einamųjų metų pradžios taikomos anksčiau šioje dalyje nustatytų pareigų vykdymą organizacijai pavedusiems gamintojams ir (ar) importuotojams. ^s-90a7e0514aac41b5cc17477e
+5) visiems gamintojams ir (ar) importuotojams, kurie šios dalies [[#^s-c45168dbbd765f10ccb87c31|2]] ir [[#^s-a6b7c6ce356e7bb1b1a303f7|4]] punktuose nurodytais atvejais paveda organizacijai einamaisiais metais vykdyti šioje dalyje nurodytas pareigas po einamųjų kalendorinių metų I ketvirčio pabaigos, turi būti taikomos vienodos pareigų vykdymo sąlygos, tai yra vienodi pakuočių atliekų tvarkymo įkainiai, įsipareigojimas dėl Vyriausybės ar jos įgaliotos institucijos nustatytų pakuočių atliekų tvarkymo užduočių įvykdymo lygio, nuostolių kompensavimo tvarka, jeigu, organizacijai neįvykdžius įsipareigojimo įvykdyti Vyriausybės ar jos įgaliotos institucijos nustatytas pakuočių atliekų tvarkymo užduotis, gamintojams ir (ar) importuotojams reikėtų sumokėti mokestį už aplinkos teršimą pakuočių atliekomis, bet šiuo likusiu einamųjų metų laikotarpiu šios sąlygos gali skirtis nuo pareigų vykdymo sąlygų, kurios nuo šių einamųjų metų pradžios taikomos anksčiau šioje dalyje nustatytų pareigų vykdymą organizacijai pavedusiems gamintojams ir (ar) importuotojams. ^s-90a7e0514aac41b5cc17477e
 
 
 Straipsnio dalies pakeitimai:
@@ -793,7 +793,7 @@ Nr. XV-445, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16797
 2. Organizacija steigiama ir veikia, gamintojai ir importuotojai jos veikloje dalyvauja [[latest/TAR.8D38517814F1|Atliekų tvarkymo įstatymo]] nustatyta tvarka. ^s-792d07056c7f26d488684467
 
 
-3. Pakuočių atliekų tvarkymo organizavimo licencija gali būti išduodama tik tai organizacijai, kuriai organizuoti pakuočių atliekų tvarkymą kaip jos dalyviai pavedė ne mažiau kaip 5 procentus visų Lietuvos Respublikos vidaus rinkai tiekiamų vienkartinių pakuočių tiekiantys gamintojai ir importuotojai. Organizacija, gavusi licenciją ir sudariusi visas [[#^s-8ffdeadf7f17164a41f110f9|šio straipsnio 4 dalies]] 1 ir 2 punktuose numatytas sutartis, gamintojų ir importuotojų pareigas, nurodytas šio įstatymo [[#^s-54f58721590507e6aa6dbd4d|7 straipsnio 1 dalies]] 2, 3 ir 4 punktuose, gali pradėti vykdyti nuo kalendorinių metų sausio 1 dienos. ^s-8deaabae8cffe9bd0ef53d95
+3. Pakuočių atliekų tvarkymo organizavimo licencija gali būti išduodama tik tai organizacijai, kuriai organizuoti pakuočių atliekų tvarkymą kaip jos dalyviai pavedė ne mažiau kaip 5 procentus visų Lietuvos Respublikos vidaus rinkai tiekiamų vienkartinių pakuočių tiekiantys gamintojai ir importuotojai. Organizacija, gavusi licenciją ir sudariusi visas [[#^s-8ffdeadf7f17164a41f110f9|šio straipsnio 4 dalies]] 1 ir 2 punktuose numatytas sutartis, gamintojų ir importuotojų pareigas, nurodytas šio įstatymo [[#^s-54f58721590507e6aa6dbd4d|7 straipsnio 1 dalies]] [[#^s-9d8017ae4f599be859b47113|2]], [[#^s-c3532d99009ee0da1d3ecef4|3]] ir [[#^s-00654a12d2e3e88c7109a84f|4]] punktuose, gali pradėti vykdyti nuo kalendorinių metų sausio 1 dienos. ^s-8deaabae8cffe9bd0ef53d95
 Straipsnio dalies pakeitimai:
 Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
 
@@ -917,7 +917,7 @@ Nr. XV-445, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16797
 
 
 
-6) dokumentai ir informacija, kuriuos kontrolės taryba turi teisę gauti iš šios dalies 1 ir [[#^s-c7e63e7e10d3993124fa7091|2 punktuose]] nurodytų subjektų atlikdama sutartinių įsipareigojimų vykdymo kontrolę. ^s-134522824f5f5b4df3a61921
+6) dokumentai ir informacija, kuriuos kontrolės taryba turi teisę gauti iš šios dalies [[#^s-d7d8feb9c0cfdf46e169fedf|1]] ir [[#^s-c7e63e7e10d3993124fa7091|2]] punktuose nurodytų subjektų atlikdama sutartinių įsipareigojimų vykdymo kontrolę. ^s-134522824f5f5b4df3a61921
 Papildyta straipsnio punktu:
 Nr. XV-445, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16797
 
@@ -947,7 +947,7 @@ Nr. XV-445, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16797
 
 
 
-13. Jeigu kontrolės tarybai atliekant [[#^s-c65062c240c6a516e297a3a5|šio straipsnio 7 dalies]] 1 ir [[#^s-5ac6fe35e2310d7f737923a3|2 punktuose]] nurodytų sutartinių įsipareigojimų vykdymo kontrolę kyla įtarimų, kad subjektai, nurodyti [[#^s-c65062c240c6a516e297a3a5|šio straipsnio 7 dalies]] 1 ir [[#^s-5ac6fe35e2310d7f737923a3|2 punktuose]], galimai pažeidžia pakuočių atliekų tvarkymą reglamentuojančių teisės aktų reikalavimus, kontrolės taryba privalo apie įtariamus pažeidimus ne vėliau kaip per 2 darbo dienas nuo dienos, kai kilo šie įtarimai vykdant sutartinių įsipareigojimų vykdymo kontrolę, raštu informuoti, pateikdama duomenis, informaciją ir (ar) dokumentus, kurie patvirtina šių įtariamų pažeidimų faktą: ^s-5a1e28d2a855c85fd72eb739
+13. Jeigu kontrolės tarybai atliekant [[#^s-c65062c240c6a516e297a3a5|šio straipsnio 7 dalies]] [[#^s-2946d0b8a97507eb3fe2c674|1]] ir [[#^s-5ac6fe35e2310d7f737923a3|2]] punktuose nurodytų sutartinių įsipareigojimų vykdymo kontrolę kyla įtarimų, kad subjektai, nurodyti [[#^s-c65062c240c6a516e297a3a5|šio straipsnio 7 dalies]] [[#^s-2946d0b8a97507eb3fe2c674|1]] ir [[#^s-5ac6fe35e2310d7f737923a3|2]] punktuose, galimai pažeidžia pakuočių atliekų tvarkymą reglamentuojančių teisės aktų reikalavimus, kontrolės taryba privalo apie įtariamus pažeidimus ne vėliau kaip per 2 darbo dienas nuo dienos, kai kilo šie įtarimai vykdant sutartinių įsipareigojimų vykdymo kontrolę, raštu informuoti, pateikdama duomenis, informaciją ir (ar) dokumentus, kurie patvirtina šių įtariamų pažeidimų faktą: ^s-5a1e28d2a855c85fd72eb739
 
 
 1) licencijuojamos veiklos priežiūrą vykdančią instituciją ir licencijas išduodančią instituciją, jeigu kyla įtarimų, kad pakuočių atliekų tvarkymą reglamentuojančių teisės aktų reikalavimus galimai pažeidžia organizacija; ^s-2946d0b8a97507eb3fe2c674
@@ -983,7 +983,7 @@ Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
 ### 101 straipsnis. Augalų apsaugos produktų pripildytas prekines pakuotes Lietuvos Respublikos vidaus rinkai tiekiančių gamintojų ir importuotojų teisės ir pareigos, reikalavimai augalų apsaugos produktų pakuočių atliekų tvarkymą organizuojančiai gamintojų ir importuotojų organizacijai ^s-9fc6634393a239a6b3b6703c
 
 
-1. Augalų apsaugos produktų pripildytas prekines pakuotes Lietuvos Respublikos vidaus rinkai tiekiantys gamintojai ir importuotojai, vykdydami šio įstatymo [[#^s-54f58721590507e6aa6dbd4d|7 straipsnio 1 dalies]]  2–4 punktuose nustatytas pareigas, privalo: ^s-c701e123e866030ba4e01add
+1. Augalų apsaugos produktų pripildytas prekines pakuotes Lietuvos Respublikos vidaus rinkai tiekiantys gamintojai ir importuotojai, vykdydami šio įstatymo [[#^s-54f58721590507e6aa6dbd4d|7 straipsnio 1 dalies]]  [[#^s-9d8017ae4f599be859b47113|2]]–[[#^s-00654a12d2e3e88c7109a84f|4]] punktuose nustatytas pareigas, privalo: ^s-c701e123e866030ba4e01add
 
 
 1) organizuoti rūšiuojamąjį surinkimą, vežimą, paruošimą naudoti, įskaitant pradinį apdorojimą, naudojimą prekinių pakuočių atliekų, kurios susidarė panaudojus gamintojų ir importuotojų Lietuvos Respublikos vidaus rinkai tiektus prekinėje pakuotėje supakuotus augalų apsaugos produktus; ^s-e37dd66d0cb46644ca243f64
@@ -1065,7 +1065,7 @@ Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
 1) [[#^s-1daca156e8a9d856e1931384|šio straipsnio 2 dalyje]] nurodytus gaminius parduoda oro, vandens, kelių, geležinkelių transporto priemonių, priklausančių Lietuvos Respublikos jurisdikcijai ir vežančių keleivius tarptautiniais maršrutais, valdytojams ar naudotojams ir šie gėrimai yra skirti parduoti ir (arba) vartoti nurodytų transporto priemonių keleiviams; ^s-b18a1ef6e09513d7b63dab68
 
 
-2) patys arba per trečiuosius asmenis iš Lietuvos Respublikos teritorijos išveža arba eksportuoja gaminius, kurių pakuotėms taikoma užstato sistema pagal šio straipsnio 1 ar [[#^s-1daca156e8a9d856e1931384|2 dalį]]; ^s-d5dccad4baec5dff16a4b507
+2) patys arba per trečiuosius asmenis iš Lietuvos Respublikos teritorijos išveža arba eksportuoja gaminius, kurių pakuotėms taikoma užstato sistema pagal šio straipsnio [[#^s-b2814b6d9f70d5a8d5f09623|1]] ar [[#^s-1daca156e8a9d856e1931384|2]] dalį; ^s-d5dccad4baec5dff16a4b507
 
 
 3) vienkartinės pakuotės talpa mažesnė negu viena dešimtoji litro arba didesnė negu trys litrai; ^s-49fc4cafaf7529cf5649a058
@@ -1119,7 +1119,7 @@ Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
 11. Gamintojai ir importuotojai ne trumpiau kaip vienus metus nuo Vyriausybės nustatyta tvarka aplinkos ministro atsižvelgiant į gamintojo ar importuotojo pageidavimą priimto sprendimo dėl užstato sistemos netaikymo atitinkamoms daugkartinėms pakuotėms įsigaliojimo privalo priimti iš pakuočių pardavėjų, taip pat pakuočių pardavėjai – iš pakuočių vartotojų tuščias tokias daugkartines pakuotes ir grąžinti užstatą atsižvelgdami į [[#^s-5ec24e123551acb8ca67b9f6|šio straipsnio 6 dalies]] nuostatas. ^s-3fe1875f1a8dd4fe6194e155
 
 
-12. Gaminių, supakuotų į pakuotes, kurioms taikoma užstato sistema pagal šio straipsnio 1 ar [[#^s-1daca156e8a9d856e1931384|2 dalį]], gamintojas ir (ar) importuotojas ne trumpiau kaip vienus metus nuo tiekimo Lietuvos Respublikos vidaus rinkai nutraukimo privalo priimti iš pakuočių pardavėjų, taip pat pakuočių pardavėjai – iš pakuočių vartotojų tuščias tokias daugkartines pakuotes ar vienkartinių pakuočių atliekas ir grąžinti užstatą atsižvelgdami į šio straipsnio 6 ar [[#^s-08bcd66ea2fe2c4ca3741e1e|7 dalies]] nuostatas. Išimtis taikoma tam gamintojui ir (ar) importuotojui, kuris įrodo, kad priėmė iš pardavėjų tokį šių nebenaudojamų pakuočių kiekį, kokį buvo išleidęs į apyvartą, ir grąžino pardavėjams užstatą. ^s-7f05db68fee5b66309d8f7b6
+12. Gaminių, supakuotų į pakuotes, kurioms taikoma užstato sistema pagal šio straipsnio [[#^s-b2814b6d9f70d5a8d5f09623|1]] ar [[#^s-1daca156e8a9d856e1931384|2]] dalį, gamintojas ir (ar) importuotojas ne trumpiau kaip vienus metus nuo tiekimo Lietuvos Respublikos vidaus rinkai nutraukimo privalo priimti iš pakuočių pardavėjų, taip pat pakuočių pardavėjai – iš pakuočių vartotojų tuščias tokias daugkartines pakuotes ar vienkartinių pakuočių atliekas ir grąžinti užstatą atsižvelgdami į šio straipsnio [[#^s-5ec24e123551acb8ca67b9f6|6]] ar [[#^s-08bcd66ea2fe2c4ca3741e1e|7]] dalies nuostatas. Išimtis taikoma tam gamintojui ir (ar) importuotojui, kuris įrodo, kad priėmė iš pardavėjų tokį šių nebenaudojamų pakuočių kiekį, kokį buvo išleidęs į apyvartą, ir grąžino pardavėjams užstatą. ^s-7f05db68fee5b66309d8f7b6
 
 
 Straipsnio pakeitimai:
@@ -1290,9 +1290,9 @@ Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
 ### 131 straipsnis. Naudojimasis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema ^s-cfdb0946d78a677ee3e2b0be
 
 
-1. Šio įstatymo 6, 7 ir [[#^s-3360ed00e223c98c68d568f6|112 straipsniuose]] nurodytos procedūros, susijusios su registravimusi, apskaitos vykdymu ir ataskaitų teikimu (atsiskaitymu pagal apskaitos duomenis), vykdomos naudojantis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema. ^s-589d5b617db8a94b9e339455
+1. Šio įstatymo [[#^s-4dca8454ea0b0a1df99951b8|6]], [[#^s-4ca474eb25d14852e0a505b9|7]] ir [[#^s-3360ed00e223c98c68d568f6|112]] straipsniuose nurodytos procedūros, susijusios su registravimusi, apskaitos vykdymu ir ataskaitų teikimu (atsiskaitymu pagal apskaitos duomenis), vykdomos naudojantis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema. ^s-589d5b617db8a94b9e339455
 
-TAR pastaba. 2017 metų ataskaitos, nurodytos [[#^s-589d5b617db8a94b9e339455|131 straipsnio 1 dalyje]], teikiamos iki [[latest/1fbc3200004911e88bcec397524184ce|įstatymo Nr. XIII-1017]] įsigaliojimo (2018-01-24) nustatyta tvarka.
+TAR pastaba. 2017 metų ataskaitos, nurodytos 131 straipsnio 1 dalyje, teikiamos iki [[latest/1fbc3200004911e88bcec397524184ce|įstatymo Nr. XIII-1017]] įsigaliojimo (2018-01-24) nustatyta tvarka.
 
 
 2. Jeigu nėra techninių galimybių naudotis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema, [[#^s-589d5b617db8a94b9e339455|šio straipsnio 1 dalyje]] nurodytos procedūros vykdomos aplinkos ministro nustatyta tvarka. ^s-9dfd2ec96c8bf641f8aa08e2
@@ -1327,7 +1327,7 @@ tvarkymo įstatymo
 1 priedas
 
 LIETUVOS RESPUBLIKOS
-PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO  2 STRAIPSNIO 21 DALYJE NURODYTIEMS PAKUOČIŲ KRITERIJAMS PAAIŠKINTI SKIRTI PAVYZDŽIAI
+[[latest/TAR.9D1ADB9E1518|PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO  2 STRAIPSNIO 21 DALYJE]] NURODYTIEMS PAKUOČIŲ KRITERIJAMS PAAIŠKINTI SKIRTI PAVYZDŽIAI
 
 
 
@@ -1539,25 +1539,25 @@ tvarkymo įstatymo
 
 
 
-1. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/852. ^s-33fee8c35c0e9306e7d61a5f
+1. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos [direktyva (ES) 2018/852](https://eur-lex.europa.eu/eli/dir/2018/852/oj). ^s-33fee8c35c0e9306e7d61a5f
 
 
-2. 2005 m. kovo 22 d. Komisijos sprendimas 2005/270/EB, nustatantis duomenų bazės sistemos formas pagal Europos Parlamento ir Tarybos direktyvą 94/62/EB dėl pakuočių ir pakuočių atliekų, su paskutiniais pakeitimais, padarytais 2019 m. balandžio 17 d. Komisijos įgyvendinimo sprendimu (ES) 2019/665. ^s-e1983d147b79cc5c7726da4c
+2. 2005 m. kovo 22 d. Komisijos sprendimas 2005/270/EB, nustatantis duomenų bazės sistemos formas pagal Europos Parlamento ir Tarybos direktyvą 94/62/EB dėl pakuočių ir pakuočių atliekų, su paskutiniais pakeitimais, padarytais 2019 m. balandžio 17 d. Komisijos įgyvendinimo [sprendimu (ES) 2019/665](https://eur-lex.europa.eu/eli/dec/2019/665/oj). ^s-e1983d147b79cc5c7726da4c
 
 
-3. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/98/EB dėl atliekų ir panaikinanti kai kurias direktyvas su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/851. ^s-74812a76be408be16757a635
+3. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/98/EB dėl atliekų ir panaikinanti kai kurias direktyvas su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos [direktyva (ES) 2018/851](https://eur-lex.europa.eu/eli/dir/2018/851/oj). ^s-74812a76be408be16757a635
 
 
-4. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/720, kuria dėl lengvųjų plastikinių pirkinių maišelių sunaudojimo mažinimo iš dalies keičiama Direktyva 94/62/EB. ^s-985900b9ba452f8c7541701b
+4. 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/720](https://eur-lex.europa.eu/eli/dir/2015/720/oj), kuria dėl lengvųjų plastikinių pirkinių maišelių sunaudojimo mažinimo iš dalies keičiama Direktyva 94/62/EB. ^s-985900b9ba452f8c7541701b
 
 
-5. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo. ^s-8bf61af5345372ab20a2ff0f
+5. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/904](https://eur-lex.europa.eu/eli/dir/2019/904/oj) dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo. ^s-8bf61af5345372ab20a2ff0f
 Papildyta punktu:
 Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
 
 
 
-6. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės. ^s-dfc92c95ffac9e15fc231e6f
+6. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo [reglamentas (ES) 2020/2151](https://eur-lex.europa.eu/eli/reg/2020/2151/oj), kuriuo nustatomos Europos Parlamento ir Tarybos [direktyvos (ES) 2019/904](https://eur-lex.europa.eu/eli/dir/2019/904/oj) dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės. ^s-dfc92c95ffac9e15fc231e6f
 Papildyta punktu:
 Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
 
@@ -1587,14 +1587,14 @@ Nr. X-1565, 2008-06-03, Žin., 2008, Nr. 71-2699 (2008-06-21)
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1627, 2011-11-03, Žin., 2011, Nr. 138-6526 (2011-11-17)
-[[#^s-d9f6d32ed39bb4f29802010e|PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 1, 2, 3, 4, 6, 8 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 4(1), 4(2), 8(1) STRAIPSNIAIS ĮSTATYMAS
+PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO [[#^s-d0713fdaa5766d47fb43ed1d|1]], [[#^s-cb9801d61724718aca693087|2]], [[#^s-4ce5352e658a0ba5b31e8ee3|3]], [[#^s-021de0a40b520a3359f6fec7|4]], [[#^s-4dca8454ea0b0a1df99951b8|6]], [[#^s-d9f6d32ed39bb4f29802010e|8]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 4(1), 4(2), 8(1) STRAIPSNIAIS ĮSTATYMAS
 Šio įstatymo [[#^s-3d4d3fb815acdd40716dd8d1|9 straipsnis]] įsigalioja 2012 m. sausio 1 d.
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1893, 2011-12-22, Žin., 2012, Nr. 6-191 (2012-01-10)
-[[#^s-9f37e8db1074880a64783125|PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO 2, 6, 7, 8, 9, 10 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 7(1) STRAIPSNIU ĮSTATYMAS
-Šio įstatymo 3 ir [[#^s-4ca474eb25d14852e0a505b9|7 straipsniai]] įsigalioja 2013 m. sausio 1 d.
+PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO [[#^s-cb9801d61724718aca693087|2]], [[#^s-4dca8454ea0b0a1df99951b8|6]], [[#^s-4ca474eb25d14852e0a505b9|7]], [[#^s-d9f6d32ed39bb4f29802010e|8]], [[#^s-3d4d3fb815acdd40716dd8d1|9]], [[#^s-9f37e8db1074880a64783125|10]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 7(1) STRAIPSNIU ĮSTATYMAS
+Šio įstatymo [[#^s-4ce5352e658a0ba5b31e8ee3|3]] ir [[#^s-4ca474eb25d14852e0a505b9|7]] straipsniai įsigalioja 2013 m. sausio 1 d.
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1609,8 +1609,8 @@ Nr. XII-714, 2013-12-19, paskelbta TAR 2014-01-06, i. k. 2014-00038
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-864, 2014-05-08, paskelbta TAR 2014-01-21, i. k. 2014-05579
-LIETUVOS RESPUBLIKOS PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO NR. IX-517 2, 4-1, 5, 7, 8, 10, 11, 12, [[#^s-c11943c6f87db2337cf228a4|13 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 11-1, 11-2, 12-1, 12-2, 12-3 STRAIPSNIAIS ĮSTATYMAS
-Šis įstatymas, išskyrus šio straipsnio 2, 3, 4, 5, [[#^s-dfc92c95ffac9e15fc231e6f|6 dalis]] ir šio įstatymo [[#^s-4dca8454ea0b0a1df99951b8|6 straipsnį]], įsigalioja 2016 m. vasario 1 d.
+LIETUVOS RESPUBLIKOS PAKUOČIŲ IR PAKUOČIŲ ATLIEKŲ TVARKYMO ĮSTATYMO NR. IX-517 [[#^s-cb9801d61724718aca693087|2]], 4-1, [[#^s-aec87f734e590ad2538892c2|5]], [[#^s-4ca474eb25d14852e0a505b9|7]], [[#^s-d9f6d32ed39bb4f29802010e|8]], [[#^s-9f37e8db1074880a64783125|10]], [[#^s-a89868092f972193ed64e36c|11]], [[#^s-e2e51d6005be9cf744891510|12]], [[#^s-c11943c6f87db2337cf228a4|13]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 11-1, 11-2, 12-1, 12-2, 12-3 STRAIPSNIAIS ĮSTATYMAS
+Šis įstatymas, išskyrus šio straipsnio 2, 3, 4, 5, 6 dalis ir šio įstatymo [[#^s-4dca8454ea0b0a1df99951b8|6 straipsnį]], įsigalioja 2016 m. vasario 1 d.
 Šio įstatymo [[#^s-4ce5352e658a0ba5b31e8ee3|3 straipsnis]] įsigalioja 2015 m. vasario 1 d.
 Šio įstatymo [[#^s-3d4d3fb815acdd40716dd8d1|9 straipsnis]] įsigalioja 2014 m. spalio 1 d.
 Asmuo, norintis užsiimti užstato už vienkartines pakuotes sistemos administratoriaus veikla, iki 2015 m. sausio 1 d. pateikia ir su Aplinkos ministerija ar jos įgaliota institucija suderina dokumentus, nurodytus šio įstatymo [[#^s-3d4d3fb815acdd40716dd8d1|9 straipsnyje]] išdėstyto [[#^s-15b6a141b142db088b272f8f|Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo 112 straipsnio 4 dalyje]].
@@ -1624,7 +1624,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2242, 2015-12-23, paskelbta TAR 2016-01-05, i. k. 2016-00088
-Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 4-1, 5, 7, 8, 10, 11, 12, [[#^s-c11943c6f87db2337cf228a4|13 straipsnių]] pakeitimo ir Įstatymo papildymo 11-1, 11-2, 12-1, 12-2, 12-3 straipsniais [[latest/8095e490e0e011e388bee944977d73d2|įstatymo Nr. XII-864]] 5 ir [[#^s-4ca474eb25d14852e0a505b9|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 [[#^s-cb9801d61724718aca693087|2]], 4-1, [[#^s-aec87f734e590ad2538892c2|5]], [[#^s-4ca474eb25d14852e0a505b9|7]], [[#^s-d9f6d32ed39bb4f29802010e|8]], [[#^s-9f37e8db1074880a64783125|10]], [[#^s-a89868092f972193ed64e36c|11]], [[#^s-e2e51d6005be9cf744891510|12]], [[#^s-c11943c6f87db2337cf228a4|13]] straipsnių pakeitimo ir Įstatymo papildymo 11-1, 11-2, 12-1, 12-2, 12-3 straipsniais [[latest/8095e490e0e011e388bee944977d73d2|įstatymo Nr. XII-864]] [[#^s-aec87f734e590ad2538892c2|5]] ir [[#^s-4ca474eb25d14852e0a505b9|7]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1634,7 +1634,7 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2306, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10413
-Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 4, [[#^s-e2e51d6005be9cf744891510|12 straipsnių]] pakeitimo ir 12-1, 12-2, 12-3 straipsnių pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 [[#^s-cb9801d61724718aca693087|2]], [[#^s-021de0a40b520a3359f6fec7|4]], [[#^s-e2e51d6005be9cf744891510|12]] straipsnių pakeitimo ir 12-1, 12-2, 12-3 straipsnių pripažinimo netekusiais galios įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1644,7 +1644,7 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1017, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01030
-Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 6, 7, 7-1, [[#^s-9f37e8db1074880a64783125|10 straipsnių]] pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 [[#^s-4dca8454ea0b0a1df99951b8|6]], [[#^s-4ca474eb25d14852e0a505b9|7]], 7-1, [[#^s-9f37e8db1074880a64783125|10]] straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1659,12 +1659,12 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-408, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14791
-Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 4, 4-2, 7, 10, 11-2 straipsnių ir 2 priedo pakeitimo įstatymas
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 [[#^s-cb9801d61724718aca693087|2]], [[#^s-021de0a40b520a3359f6fec7|4]], 4-2, [[#^s-4ca474eb25d14852e0a505b9|7]], [[#^s-9f37e8db1074880a64783125|10]], 11-2 straipsnių ir 2 priedo pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-596, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23516
-Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 5, 8, 10, [[#^s-a89868092f972193ed64e36c|11 straipsnių]] ir 2 priedo pakeitimo ir Įstatymo papildymo 7-2 straipsniu ir 1-1 priedu įstatymas
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 [[#^s-cb9801d61724718aca693087|2]], [[#^s-aec87f734e590ad2538892c2|5]], [[#^s-d9f6d32ed39bb4f29802010e|8]], [[#^s-9f37e8db1074880a64783125|10]], [[#^s-a89868092f972193ed64e36c|11]] straipsnių ir 2 priedo pakeitimo ir Įstatymo papildymo 7-2 straipsniu ir 1-1 priedu įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1684,9 +1684,9 @@ Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-445, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16797
-Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 6, 7, 7-1, 7-2, 10, 11-2 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 [[#^s-cb9801d61724718aca693087|2]], [[#^s-4dca8454ea0b0a1df99951b8|6]], [[#^s-4ca474eb25d14852e0a505b9|7]], 7-1, 7-2, [[#^s-9f37e8db1074880a64783125|10]], 11-2 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-648, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21482
-Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 2, 6, 7, 7-1, 7-2, 10, 11-2 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu [[latest/0d799a52a27211f0a34db2fbd35a03b2|įstatymo Nr. XV-445]] [[#^s-9f37e8db1074880a64783125|10 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos pakuočių ir pakuočių atliekų tvarkymo įstatymo Nr. IX-517 [[#^s-cb9801d61724718aca693087|2]], [[#^s-4dca8454ea0b0a1df99951b8|6]], [[#^s-4ca474eb25d14852e0a505b9|7]], 7-1, 7-2, [[#^s-9f37e8db1074880a64783125|10]], 11-2 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu [[latest/0d799a52a27211f0a34db2fbd35a03b2|įstatymo Nr. XV-445]] [[#^s-9f37e8db1074880a64783125|10 straipsnio]] pakeitimo įstatymas

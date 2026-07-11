@@ -54,7 +54,7 @@ Papildyti 16 straipsnį 11 punktu:
 „1. Leidimą statyti ar rekonstruoti branduolinės energetikos objektą išduoda Vyriausybė ar jos įgaliota institucija.“
 
 
-2. Papildyti 32 straipsnį naujomis 2, 3, 4, 5, 6 ir [[#^s-5977a8ce43b5efc3e6193f6f|7 dalimis]]: ^s-bcda5e12973eaadc917d5e2f
+2. Papildyti 32 straipsnį naujomis 2, 3, 4, 5, 6 ir 7 dalimis: ^s-bcda5e12973eaadc917d5e2f
 
 
 „2. Statytojas (užsakovas), norėdamas gauti leidimą statyti ar rekonstruoti branduolinės energetikos objektą, turi pateikti Vyriausybei ar jos įgaliotai institucijai:

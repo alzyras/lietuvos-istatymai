@@ -43,7 +43,7 @@ Pakeisti [[latest/TAR.C81BD50A27C6|Sveikatos priežiūros įstaigų įstatymo]] 
 
 
 
-„[[latest/TAR.C81BD50A27C6|SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO]] ĮGYVENDINIMO ĮSTATYMAS
+„[SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ ĮSTATYMO ĮGYVENDINIMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.CB64F0F13B35)
 
 
 
@@ -59,7 +59,7 @@ Pakeisti [[latest/TAR.C81BD50A27C6|Sveikatos priežiūros įstaigų įstatymo]] 
 2) [[latest/TAR.E2B2957B9182|Sveikatos sistemos įstatymo]] papildymų ir pakeitimų įstatymo projektą; ^s-582e6b00cc230b017e3d9c42
 
 
-3) įstatymo „Dėl laikinosios atskaitymų į savivaldybių biudžetus normatyvų ir dotacijų nustatymo metodikos“ papildymo ir pakeitimo projektą, kuriame būtų numatytas asignavimų savivaldybių remiamai (nemokamai) asmens sveikatos priežiūrai, savivaldybių privalomosioms sveikatos programoms, savivaldybių sveikatos priežiūros įstaigų nepaprastosioms išlaidoms ir pirminei visuomenės sveikatos priežiūrai nustatymas valstybės biudžeto projekte ir šių išlaidų normatyvų apskaičiavimas; ^s-b1ecec3ddf0bd29247f3b943
+3) įstatymo [„Dėl laikinosios atskaitymų į savivaldybių biudžetus normatyvų ir dotacijų nustatymo metodikos“](https://e-tar.lt/portal/lt/legalAct/TAR.84E443E04C0C) papildymo ir pakeitimo projektą, kuriame būtų numatytas asignavimų savivaldybių remiamai (nemokamai) asmens sveikatos priežiūrai, savivaldybių privalomosioms sveikatos programoms, savivaldybių sveikatos priežiūros įstaigų nepaprastosioms išlaidoms ir pirminei visuomenės sveikatos priežiūrai nustatymas valstybės biudžeto projekte ir šių išlaidų normatyvų apskaičiavimas; ^s-b1ecec3ddf0bd29247f3b943
 
 
 4) [[latest/TAR.712BBBFA3D41|Biudžetinės sandaros įstatymo]] papildymų ir pakeitimų projektą, kuriame patikslinti sveikatos priežiūros paslaugų teikimo ir valstybės privalomųjų bei savivaldybių privalomųjų sveikatos programų finansavimo, Valstybinio sveikatos fondo lėšų šaltinių formavimo iš akcizų už alkoholinius gėrimus ir tabako gaminius atskaitymų, valstybės ir savivaldybių sveikatos priežiūros įstaigų nepaprastųjų išlaidų atlyginimo tvarką; ^s-611f71a3dcb1f36d579f0c4b

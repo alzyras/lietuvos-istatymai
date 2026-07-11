@@ -279,7 +279,7 @@ Pakeisti 10 straipsnio 5 dalį ir ją išdėstyti taip:
 2. Pakeisti 22 straipsnio 7 dalį ir ją išdėstyti taip: ^s-914f97ff60567e70fbed6140
 
 
-„7. Informacija, kuri turi būti nurodyta skelbimuose, skelbimų standartinės formos ir skelbimų reikalavimai nustatyti 2011 m. rugpjūčio 19 d. Komisijos įgyvendinimo reglamente (ES) Nr. 842/2011, kuriuo nustatomos standartinės formos, naudojamos skelbiant su viešaisiais pirkimais susijusius pranešimus, ir panaikinamas Reglamentas (EB) Nr. 1564/2005.“
+„7. Informacija, kuri turi būti nurodyta skelbimuose, skelbimų standartinės formos ir skelbimų reikalavimai nustatyti 2011 m. rugpjūčio 19 d. Komisijos įgyvendinimo reglamente (ES) Nr. 842/2011, kuriuo nustatomos standartinės formos, naudojamos skelbiant su viešaisiais pirkimais susijusius pranešimus, ir panaikinamas [Reglamentas (EB) Nr. 1564/2005](https://eur-lex.europa.eu/eli/reg/1564/2005/oj).“
 
 
 
@@ -333,14 +333,14 @@ Pakeisti 74 straipsnio 11 dalį ir ją išdėstyti taip:
 2. Įstatymo priedą papildyti 13 punktu: ^s-15b01c652d5394003809561f
 
 
-„13. 2011 m. rugpjūčio 19 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 842/2011, kuriuo nustatomos standartinės formos, naudojamos skelbiant su viešaisiais pirkimais susijusius pranešimus, ir panaikinamas Reglamentas (EB) Nr. 1564/2005 (OL 2011 L 222, p. 1).“
+„13. 2011 m. rugpjūčio 19 d. Komisijos įgyvendinimo reglamentas (ES) Nr. 842/2011, kuriuo nustatomos standartinės formos, naudojamos skelbiant su viešaisiais pirkimais susijusius pranešimus, ir panaikinamas [Reglamentas (EB) Nr. 1564/2005](https://eur-lex.europa.eu/eli/reg/1564/2005/oj) (OL 2011 L 222, p. 1).“
 
 
 
 ### 12 straipsnis. Baigiamosios nuostatos ^s-64786c2dac31ee6fc95ffbc0
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-491cd91f8f5c87bb5d3dc362|3 dalis]], įsigalioja 2012 m. sausio 1 d. ^s-1f9a8dec2b3bfaf7c6aff120
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-fecbf8e63c79026f202b194d|2]] ir [[#^s-491cd91f8f5c87bb5d3dc362|3]] dalis, įsigalioja 2012 m. sausio 1 d. ^s-1f9a8dec2b3bfaf7c6aff120
 
 
 2. Lietuvos Respublikos Vyriausybė ir kitos valstybės institucijos iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-fecbf8e63c79026f202b194d

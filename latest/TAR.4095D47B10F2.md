@@ -74,7 +74,7 @@ BENDROSIOS NUOSTATOS
 3. Šis Įstatymas taikomas gydytojams, dirbantiems Lietuvos Respublikoje. ^s-353d18d18fd5b3dd91c84a98
 
 
-4. Šiuo Įstatymu įgyvendinami šio Įstatymo priede nurodyti Europos Sąjungos teisės aktai dėl gydytojų rengimo, diplomų, pažymėjimų ir kitų oficialią gydytojo kvalifikaciją patvirtinančių dokumentų abipusio pripažinimo ir gydytojo praktikos sąlygų. ^s-30e8cf136866ebbdc6634eb3
+4. Šiuo Įstatymu įgyvendinami šio Įstatymo priede nurodyti Europos Sąjungos teisės aktai [dėl gydytojų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.F1D2EF137C18), diplomų, pažymėjimų ir kitų oficialią gydytojo kvalifikaciją patvirtinančių dokumentų abipusio pripažinimo ir gydytojo praktikos sąlygų. ^s-30e8cf136866ebbdc6634eb3
 
 
 
@@ -240,7 +240,7 @@ MEDICINOS PRAKTIKA
 1) gydytojas pateikė suklastotus dokumentus licencijai gauti; ^s-b1c1d19fa795370853b3edfc
 
 
-2) gydytojas per vienus metus neįvykdė licencijas išduodančios institucijos reikalavimų, kai licencijos galiojimas buvo sustabdytas šio Įstatymo [[#^s-0d8d77b877ee272231d9f29a|8 straipsnio 1 dalies]] 1, 3 ar [[#^s-18ba840d7a4b43bf7da01d33|4 punkto]] pagrindu; ^s-909ee635be198e540cbdc698
+2) gydytojas per vienus metus neįvykdė licencijas išduodančios institucijos reikalavimų, kai licencijos galiojimas buvo sustabdytas šio Įstatymo [[#^s-0d8d77b877ee272231d9f29a|8 straipsnio 1 dalies]] [[#^s-d7e10f181796c977abb5b003|1]], [[#^s-5ec10d35c7d9a1c93206faf4|3]] ar [[#^s-8f238d9904ddddc37c522396|4]] punkto pagrindu; ^s-909ee635be198e540cbdc698
 
 
 3) gydytojas padarė grubią medicinos praktikos klaidą; ^s-bea7e0fee92b719cb3a1d8b4
@@ -271,10 +271,10 @@ MEDICINOS PRAKTIKA
 ### 7 straipsnis.         Licencijos išdavimo sąlygos gydytojui, kuriam anksčiau buvo panaikintas licencijos galiojimas ^s-208951700ecf86ae870c8f73
 
 
-1. Gydytojas, kurio licencijos galiojimas buvo panaikintas remiantis šio Įstatymo [[#^s-030c898d57254c028a9f0e00|6 straipsnio 1 dalies]] 1, 2, 3 ar 4 punktu, Medicinos praktikos licencijavimo taisyklių nustatyta tvarka gali kreiptis dėl naujos licencijos išdavimo įvykdęs teisės aktuose nustatytus reikalavimus, susijusius su medicinos praktikos licencijavimo sąlygų laikymusi. ^s-d97732e160d0705a770468ab
+1. Gydytojas, kurio licencijos galiojimas buvo panaikintas remiantis šio Įstatymo [[#^s-030c898d57254c028a9f0e00|6 straipsnio 1 dalies]] [[#^s-b1c1d19fa795370853b3edfc|1]], [[#^s-909ee635be198e540cbdc698|2]], [[#^s-bea7e0fee92b719cb3a1d8b4|3]] ar [[#^s-18ba840d7a4b43bf7da01d33|4]] punktu, Medicinos praktikos licencijavimo taisyklių nustatyta tvarka gali kreiptis dėl naujos licencijos išdavimo įvykdęs teisės aktuose nustatytus reikalavimus, susijusius su medicinos praktikos licencijavimo sąlygų laikymusi. ^s-d97732e160d0705a770468ab
 
 
-2. Gydytojas, kurio licencijos galiojimas buvo panaikintas remiantis šio Įstatymo [[#^s-030c898d57254c028a9f0e00|6 straipsnio 1 dalies]] 5 ar 6 punktu, gali kreiptis dėl naujos licencijos išdavimo Medicinos praktikos licencijavimo taisyklių nustatyta tvarka, kai išnyksta licencijos galiojimo panaikinimo pagrindas ir yra įvykdyti teisės aktuose nustatyti reikalavimai, susiję su medicinos praktikos licencijavimo sąlygų laikymusi. ^s-52b5a95458e1ef7c6fdba74a
+2. Gydytojas, kurio licencijos galiojimas buvo panaikintas remiantis šio Įstatymo [[#^s-030c898d57254c028a9f0e00|6 straipsnio 1 dalies]] [[#^s-bc1c7aa9228dc9c7f3634179|5]] ar [[#^s-3bf851823743b9413a3ff814|6]] punktu, gali kreiptis dėl naujos licencijos išdavimo Medicinos praktikos licencijavimo taisyklių nustatyta tvarka, kai išnyksta licencijos galiojimo panaikinimo pagrindas ir yra įvykdyti teisės aktuose nustatyti reikalavimai, susiję su medicinos praktikos licencijavimo sąlygų laikymusi. ^s-52b5a95458e1ef7c6fdba74a
 
 
 
@@ -290,7 +290,7 @@ MEDICINOS PRAKTIKA
 2) gydytojas dėl sveikatos būklės negali atlikti profesinių pareigų; ^s-ba3429e985f26614c2310181
 
 
-3) gydytojas nevykdė vienos iš šio Įstatymo [[#^s-a82ea42e847725d1bf21f34c|10 straipsnio]] 1 ar [[#^s-ba3429e985f26614c2310181|2 punktuose]] nustatytų profesinių pareigų; ^s-5ec10d35c7d9a1c93206faf4
+3) gydytojas nevykdė vienos iš šio Įstatymo [[#^s-a82ea42e847725d1bf21f34c|10 straipsnio]] 1 ar 2 punktuose nustatytų profesinių pareigų; ^s-5ec10d35c7d9a1c93206faf4
 
 
 4) gydytojo profesinės kompetencijos vertinimo komisija nustatė, kad gydytojas padarė dvi ar daugiau medicinos praktikos klaidų. ^s-8f238d9904ddddc37c522396

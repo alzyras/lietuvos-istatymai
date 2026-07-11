@@ -13,10 +13,9 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.DBF4203C51A1#^s-1d675fd2757cc047fc99a9c4|Lietuvos Respublikos nacionalinės teismų administracijos įstatymas]] - 1131010ISTA0XII-296
 - [[latest/TAR.DBF4203C51A1#^s-1e6bb084e6e2beeacd32d1fd|Lietuvos Respublikos nacionalinės teismų administracijos įstatymas]] - 1131010ISTA0XII-296
 - [[latest/TAR.DBF4203C51A1#^s-4d3b32caab0a6e5ad265a3a2|Lietuvos Respublikos nacionalinės teismų administracijos įstatymas]] - 1131010ISTA0XII-296
-- [[latest/TAR.DBF4203C51A1#^s-54a8efa3d94e13774ce4dbba|Lietuvos Respublikos nacionalinės teismų administracijos įstatymas]] - 3 citatos - 1131010ISTA0XII-296
+- [[latest/TAR.DBF4203C51A1#^s-54a8efa3d94e13774ce4dbba|Lietuvos Respublikos nacionalinės teismų administracijos įstatymas]] - 2 citatos - 1131010ISTA0XII-296
 - [[latest/TAR.DBF4203C51A1#^s-56a8dea8e62d260523983b1b|Lietuvos Respublikos nacionalinės teismų administracijos įstatymas]] - 1131010ISTA0XII-296
 - [[latest/TAR.DBF4203C51A1#^s-608b62bcf5dc4c5de5feb74e|Lietuvos Respublikos nacionalinės teismų administracijos įstatymas]] - 1131010ISTA0XII-296
 - [[latest/TAR.DBF4203C51A1#^s-61da4072f1370a7832010b5d|Lietuvos Respublikos nacionalinės teismų administracijos įstatymas]] - 1131010ISTA0XII-296

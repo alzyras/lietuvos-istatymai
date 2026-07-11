@@ -207,7 +207,7 @@ Pakeisti ir papildyti [[#^s-d751801c591c732f8e595f86|10 straipsnį]] ir jį išd
 3. Buvusią 16 straipsnio 5 dalį laikyti 6 dalimi, ją pakeisti ir išdėstyti taip: ^s-cfe6d69c72b55a5a6adf9e53
 
 
-„6. Turto vertės normatyvas bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui apskaičiuojamas sudedant nekilnojamojo turto vertės normatyvą, nurodytą [[#^s-cfe6d69c72b55a5a6adf9e53|šio straipsnio 3 dalyje]], kilnojamojo turto, vertybinių popierių ir pajų vertės normatyvą, nurodytą šio straipsnio 4 dalyje, ir piniginių lėšų normatyvą, nurodytą šio straipsnio 5 dalyje.“
+„6. Turto vertės normatyvas bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui apskaičiuojamas sudedant nekilnojamojo turto vertės normatyvą, nurodytą šio straipsnio 3 dalyje, kilnojamojo turto, vertybinių popierių ir pajų vertės normatyvą, nurodytą šio straipsnio 4 dalyje, ir piniginių lėšų normatyvą, nurodytą šio straipsnio 5 dalyje.“
 
 
 
@@ -281,7 +281,7 @@ Pakeisti ir papildyti [[#^s-d751801c591c732f8e595f86|10 straipsnį]] ir jį išd
 4. Pakeisti 21 straipsnio 4 dalį ir ją išdėstyti taip: ^s-39d1386d9c2c835a96cec311
 
 
-„4. Kompensacijos skiriamos 3 mėnesiams nuo mėnesio, kurį bendrai gyvenantys asmenys arba vienas gyvenantis asmuo įgijo teisę į kompensacijas, pirmos dienos, tačiau ne daugiau kaip už 2 praėjusius mėnesius iki prašymo-paraiškos pateikimo mėnesio, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo kreipimosi dėl kompensacijų ir sprendimo priėmimo metu, taip pat laikotarpiu, už kurį skiriamos kompensacijos, turi teisę gauti kompensacijas.“
+„4. Kompensacijos skiriamos 3 mėnesiams nuo mėnesio, kurį bendrai gyvenantys asmenys arba vienas gyvenantis asmuo įgijo teisę į kompensacijas, pirmos dienos, tačiau ne daugiau kaip už 2 praėjusius mėnesius iki prašymo-paraiškos pateikimo mėnesio, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo kreipimosi [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) ir sprendimo priėmimo metu, taip pat laikotarpiu, už kurį skiriamos kompensacijos, turi teisę gauti kompensacijas.“
 
 
 5. Papildyti 21 straipsnį nauja 11 dalimi: ^s-12b4fba98bc6fa3b69efda35
@@ -354,16 +354,16 @@ Pakeisti ir papildyti [[#^s-d751801c591c732f8e595f86|10 straipsnį]] ir jį išd
 3) 3 mėnesius neteikti piniginės socialinės paramos ar 3 mėnesiams nutraukti jos teikimą vienam gyvenančiam asmeniui, jeigu jis nevykdo šio įstatymo 25 straipsnio 2 punkte nustatytos pareigos ir (ar) nevykdo 25 straipsnio 3 punkte nustatytos pareigos, išskyrus atvejį, kai dėl šio punkto nuostatos nevykdymo nesusidarė piniginės socialinės paramos permoka – išmokėta ne didesnė negu apskaičiuota, įvertinus atsiradusias aplinkybes, piniginė socialinė parama; ^s-ed7ca4ea3f266222e41f90ea
 
 
-4) jeigu bent vienas iš bendrai gyvenančių asmenų nevykdo šio įstatymo 25 straipsnio 1, 4, 5 ir [[#^s-e1f07240a1504af7a849012f|6 punktuose]] nustatytų pareigų, socialinę pašalpą skirti tik vaikui (įvaikiui) ar vaikams (įvaikiams), įskaitant pilnamečius vaikus (įvaikius), kai jie mokosi pagal bendrojo ugdymo programą ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, pasirenkant ar derinant jos teikimo formą (formas) (pinigais ir (ar) nepinigine forma), o kompensacijų neteikti ar nutraukti jų teikimą, iki pareigos bus įvykdytos; ^s-cc4fc8829ae8d3d28a974c53
+4) jeigu bent vienas iš bendrai gyvenančių asmenų nevykdo šio įstatymo 25 straipsnio 1, 4, 5 ir 6 punktuose nustatytų pareigų, socialinę pašalpą skirti tik vaikui (įvaikiui) ar vaikams (įvaikiams), įskaitant pilnamečius vaikus (įvaikius), kai jie mokosi pagal bendrojo ugdymo programą ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos, pasirenkant ar derinant jos teikimo formą (formas) (pinigais ir (ar) nepinigine forma), o kompensacijų neteikti ar nutraukti jų teikimą, iki pareigos bus įvykdytos; ^s-cc4fc8829ae8d3d28a974c53
 
 
-5) jeigu vienas gyvenantis asmuo nevykdo šio įstatymo 25 straipsnio 1, 4, 5 ir [[#^s-e1f07240a1504af7a849012f|6 punktuose]] nustatytų pareigų, socialinės pašalpos ir kompensacijų neteikti ar nutraukti jų teikimą, iki pareigos bus įvykdytos; ^s-d957d3436e2b2390826a2e95
+5) jeigu vienas gyvenantis asmuo nevykdo šio įstatymo 25 straipsnio 1, 4, 5 ir 6 punktuose nustatytų pareigų, socialinės pašalpos ir kompensacijų neteikti ar nutraukti jų teikimą, iki pareigos bus įvykdytos; ^s-d957d3436e2b2390826a2e95
 
 
 6) 6 mėnesius neteikti piniginės socialinės paramos, jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens turimų piniginių lėšų dydis viršija šio įstatymo 16 straipsnio 5 dalyje nustatytą piniginių lėšų normatyvą; ^s-e1f07240a1504af7a849012f
 
 
-7) 6 mėnesius neteikti piniginės socialinės paramos, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo per 6 mėnesius iki kreipimosi dėl piniginės socialinės paramos perleido nuosavybėn kitam asmeniui šio įstatymo 14 straipsnio 1 dalies 1–[[#^s-f1258ee8751fafa18d3f3f53|8 punktuose]] nurodytą turtą ir kreipdamiesi (kreipdamasis) dėl piniginės socialinės paramos prašyme-paraiškoje nenurodė gautų piniginių lėšų ar už jas įsigyto naujo turto; ^s-5d0ad2beaf985baf56273518
+7) 6 mėnesius neteikti piniginės socialinės paramos, jeigu bendrai gyvenantys asmenys arba vienas gyvenantis asmuo per 6 mėnesius iki kreipimosi dėl piniginės socialinės paramos perleido nuosavybėn kitam asmeniui šio įstatymo 14 straipsnio 1 dalies 1–8 punktuose nurodytą turtą ir kreipdamiesi (kreipdamasis) dėl piniginės socialinės paramos prašyme-paraiškoje nenurodė gautų piniginių lėšų ar už jas įsigyto naujo turto; ^s-5d0ad2beaf985baf56273518
 
 
 8) 6 mėnesius neteikti piniginės socialinės paramos ar 6 mėnesiams nutraukti jos teikimą vienam gyvenančiam asmeniui arba bendrai gyvenantiems asmenims, vykdantiems individualią veiklą ir (ar) nekilnojamųjų daiktų pardavimo ir (ar) nuomos veiklą, kuriems ilgiau kaip 6 mėnesius buvo teikiama piniginė socialinė parama, jeigu jie prašyme-paraiškoje nurodo, kad šiuo laikotarpiu iš vykdomos veiklos gavo mažesnes kaip minimalioji mėnesinė alga vidutines pajamas per mėnesį. Šiuo atveju socialinė pašalpa gali būti skiriama vaikams, įskaitant pilnamečius vaikus (įvaikius), kai jie mokosi pagal bendrojo ugdymo programą ir laikotarpiu nuo bendrojo ugdymo programos baigimo dienos iki tų pačių metų rugsėjo 1 dienos; ^s-f1258ee8751fafa18d3f3f53
@@ -384,7 +384,7 @@ Pakeisti ir papildyti [[#^s-d751801c591c732f8e595f86|10 straipsnį]] ir jį išd
 13) nereikalauti iš piniginę socialinę paramą gaunančių bendrai gyvenančių asmenų arba vieno gyvenančio asmens iš naujo pateikti tų duomenų, kurie iki pakartotinio kreipimosi yra nepasikeitę; ^s-602958bfb40a4735763337ad
 
 
-14) pasitelkti bendruomeninių organizacijų ir (ar) religinių bendruomenių, ir (ar) religinių bendrijų, ir (ar) kitų nevyriausybinių organizacijų atstovus ir (ar) gyvenamosios vietovės bendruomenės narius, ir (ar) seniūnaičius, ir (ar) kitus suinteresuotus asmenis dalyvauti svarstant klausimus dėl piniginės socialinės paramos skyrimo ir teikti socialines paslaugas [[#^s-0aac3cb866ac757e5d8ab695|šio straipsnio 1 dalies 1 punkte]], [[#^s-cd7c6f782028b8168e75bb01|2 dalies]] 3, [[#^s-d957d3436e2b2390826a2e95|5 punktuose]] ir [[#^s-0b0bd3d897a005b19afbe5cd|3 dalyje]] numatytais atvejais.“ ^s-afcf5856141cf947a974cff9
+14) pasitelkti bendruomeninių organizacijų ir (ar) religinių bendruomenių, ir (ar) religinių bendrijų, ir (ar) kitų nevyriausybinių organizacijų atstovus ir (ar) gyvenamosios vietovės bendruomenės narius, ir (ar) seniūnaičius, ir (ar) kitus suinteresuotus asmenis dalyvauti svarstant klausimus dėl piniginės socialinės paramos skyrimo ir teikti socialines paslaugas [[#^s-0aac3cb866ac757e5d8ab695|šio straipsnio 1 dalies 1 punkte]], [[#^s-cd7c6f782028b8168e75bb01|2 dalies]] [[#^s-ed7ca4ea3f266222e41f90ea|3]], [[#^s-d957d3436e2b2390826a2e95|5]] punktuose ir [[#^s-0b0bd3d897a005b19afbe5cd|3 dalyje]] numatytais atvejais.“ ^s-afcf5856141cf947a974cff9
 
 
 3. Papildyti 23 straipsnio 3 dalį 6 punktu: ^s-0b0bd3d897a005b19afbe5cd
@@ -414,7 +414,7 @@ Pakeisti ir papildyti [[#^s-d751801c591c732f8e595f86|10 straipsnį]] ir jį išd
 7. Papildyti 23 straipsnio 3 dalį 10 punktu: ^s-ea21b3f55ea45f23cc194176
 
 
-„10) nemažinti socialinės pašalpos dydžio, kaip nustatyta šio įstatymo [[#^s-cd7c6f782028b8168e75bb01|10 straipsnio 2 dalies]] 1–5 punktuose, jeigu Lietuvos teritorinė darbo birža ar kitos valstybės valstybinė įdarbinimo tarnyba socialinės pašalpos teikimo laikotarpiu nepasiūlė darbo arba nepasiūlė dalyvauti aktyvios darbo rinkos politikos priemonėse.“
+„10) nemažinti socialinės pašalpos dydžio, kaip nustatyta šio įstatymo [[#^s-cd7c6f782028b8168e75bb01|10 straipsnio 2 dalies]] [[#^s-11a358f664770f5aa7de7682|1]]–[[#^s-d957d3436e2b2390826a2e95|5]] punktuose, jeigu Lietuvos teritorinė darbo birža ar kitos valstybės valstybinė įdarbinimo tarnyba socialinės pašalpos teikimo laikotarpiu nepasiūlė darbo arba nepasiūlė dalyvauti aktyvios darbo rinkos politikos priemonėse.“
 
 
 
@@ -455,7 +455,7 @@ Pakeisti ir papildyti [[#^s-d751801c591c732f8e595f86|10 straipsnį]] ir jį išd
 3. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija iki 2013 m. gegužės 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-489aabf9faccafc0bc770aed
 
 
-4. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-489aabf9faccafc0bc770aed|3 dalis]], įsigalioja 2013 m. birželio 1 d. ^s-3dd40913e69f10b6b3042863
+4. Šis įstatymas, išskyrus šio straipsnio [[#^s-a5ef2705957c218c5f32d231|2]] ir [[#^s-489aabf9faccafc0bc770aed|3]] dalis, įsigalioja 2013 m. birželio 1 d. ^s-3dd40913e69f10b6b3042863
 
 
 

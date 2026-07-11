@@ -49,7 +49,7 @@ Vilnius
 ### 2 straipsnis. 12 straipsnio pakeitimas ^s-bb633764ce610185265dadad
 
 
-12 straipsnio 2 dalies 3 punktą išbraukti, o buvusius 4, 5, 6, 7, 8, 9 punktus laikyti atitinkamai 3, 4, 5, 6, 7, [[#^s-02a0691ddbf2fdf61c025395|8 punktais]], 3 ir 4 dalis išbraukti, buvusioje 5 dalyje vietoj skaičiaus „6“ įrašyti skaičių „5“, buvusioje 6 dalyje vietoj skaičiaus „8“ įrašyti skaičių „7“, buvusioje 7 dalyje vietoj skaičiaus „9“ įrašyti skaičių „8“ ir visą straipsnį išdėstyti taip:
+12 straipsnio 2 dalies 3 punktą išbraukti, o buvusius 4, 5, 6, 7, 8, 9 punktus laikyti atitinkamai 3, 4, 5, 6, 7, 8 punktais, 3 ir 4 dalis išbraukti, buvusioje 5 dalyje vietoj skaičiaus „6“ įrašyti skaičių „5“, buvusioje 6 dalyje vietoj skaičiaus „8“ įrašyti skaičių „7“, buvusioje 7 dalyje vietoj skaičiaus „9“ įrašyti skaičių „8“ ir visą straipsnį išdėstyti taip:
 
 
 „12 straipsnis.     Lietuvos Respublikos valstybės biudžeto pajamas sudaro Lietuvos Respublikos įstatymų nustatyti mokesčiai ir kitos įmokos į biudžetą.
@@ -82,13 +82,13 @@ Lietuvos Respublikos valstybės biudžetui priskiriama:
 8) kitos įmokos. ^s-02a0691ddbf2fdf61c025395
 
 
-[[#^s-8f4fe13f9f2cbc535237162f|5 punkte]] nurodytas mokestis į valstybės biudžetą įskaitomas Lietuvos Respublikos žyminio mokesčio įstatyme nustatyta tvarka.
+[[#^s-8f4fe13f9f2cbc535237162f|5 punkte]] nurodytas mokestis į valstybės biudžetą įskaitomas Lietuvos Respublikos [žyminio mokesčio įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.6DF39F2BB769) nustatyta tvarka.
 
 
 [[#^s-ed32e4666d6a8cfef7208d87|7 punkte]] nurodytų pajamų į Lietuvos Respublikos valstybės biudžetą įskaitoma ta dalis, kuri gaunama už eksploatuojamą valstybės turtą.
 
 
-[[#^s-02a0691ddbf2fdf61c025395|8 punkte]] nurodytos kitos įmokos Lietuvos Respublikos valstybės ar savivaldybių biudžetams priskiriamos vadovaujantis įstatymų nustatyta jų ėmimo tvarka, o jos nesant – Lietuvos Respublikos Vyriausybės nutarimais.“
+8 punkte nurodytos kitos įmokos Lietuvos Respublikos valstybės ar savivaldybių biudžetams priskiriamos vadovaujantis įstatymų nustatyta jų ėmimo tvarka, o jos nesant – Lietuvos Respublikos Vyriausybės nutarimais.“
 
 
 
@@ -138,7 +138,7 @@ Papildyti Įstatymą 281 straipsniu:
 4) įmonių ir organizacijų nekilnojamojo turto mokestis; ^s-92e29ed63501089a698091cd
 
 
-5) žyminis mokestis, nustatytas Lietuvos Respublikos žyminio mokesčio įstatyme; ^s-88698b7b0e20bc0bef49ddb7
+5) žyminis mokestis, nustatytas Lietuvos Respublikos [žyminio mokesčio įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.6DF39F2BB769); ^s-88698b7b0e20bc0bef49ddb7
 
 
 6) prekyviečių mokestis; ^s-7d6a74b2e11ca80b196e19d0

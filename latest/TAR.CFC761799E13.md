@@ -45,13 +45,13 @@ Vilnius
 „1. Ūkio ministerija rengia nacionalinį šilumos ūkio plėtros planą, koordinuoja savivaldybių šilumos ūkio plėtros strategines kryptis, teikia savivaldybėms metodinę paramą.“
 
 
-2. 5 straipsnį papildyti nauja [[#^s-7930d674443355e71093bc54|2 dalimi]]: ^s-7930d674443355e71093bc54
+2. 5 straipsnį papildyti nauja 2 dalimi: ^s-7930d674443355e71093bc54
 
 
 „2. Savivaldybė tarybos nustatyta tvarka sutarčių projektus dėl šilumos ūkio valdymo perdavimo trečiajai šaliai (privatizavimo, nuomos, koncensinių sutarčių ar kitu būdu) rengia viešai, apie tai skelbdama spaudoje.“
 
 
-3. Buvusias 2, 3, 4, 5 dalis laikyti atitinkamai 3, 4, 5, 6 dalimis. ^s-54bbf495acf79ac6f7aa5138
+3. Buvusias [[#^s-7930d674443355e71093bc54|2]], 3, 4, 5 dalis laikyti atitinkamai 3, 4, 5, 6 dalimis. ^s-54bbf495acf79ac6f7aa5138
 
 
 

@@ -111,7 +111,7 @@ Pakeisti 5 straipsnio 3 dalį ir ją išdėstyti taip:
 ### 4 straipsnis. Įstatymo įsigaliojimas ^s-9a75f12cc2e2898f2cab76d8
 
 
-Šio Įstatymo [[#^s-cae81dfe2497d62d6dac69ee|3 straipsnis]] įsigalioja nuo 2004 m. sausio 1 d., 1 ir [[#^s-e6d012e3aa2bb8faeca45754|2 straipsniai]] įsigalioja nuo 2004 m. gegužės 1 d.
+Šio Įstatymo [[#^s-cae81dfe2497d62d6dac69ee|3 straipsnis]] įsigalioja nuo 2004 m. sausio 1 d., [[#^s-5f5f03cdaaa2f5d1b03a237a|1]] ir [[#^s-e6d012e3aa2bb8faeca45754|2]] straipsniai įsigalioja nuo 2004 m. gegužės 1 d.
 
 
 

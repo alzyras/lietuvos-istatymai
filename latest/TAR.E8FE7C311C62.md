@@ -40,7 +40,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-ce62eea0799aee7ccc0bb0c4
-[[latest/TAR.4325B0C38B2F#^s-eebe9210810288962d2ffc57|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3, 9 IR 32 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]] [[latest/TAR.4325B0C38B2F#^s-8370cb83f05bea06e1bc463b|3]], [[latest/TAR.4325B0C38B2F#^s-57403ed828c9f39df43da173|9]] IR [[latest/TAR.4325B0C38B2F#^s-eebe9210810288962d2ffc57|32]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1999, Nr. 110-3207; 2003, Nr. 114-5114; 2004, Nr. 98-3624)
 
@@ -97,7 +97,7 @@ Nelaimingų atsitikimų darbe socialinį draudimą vykdo Valstybinio socialinio 
 
 
 ### TREČIASIS SKIRSNIS ^s-7296b290952b95f1f774cb37
-[[latest/TAR.94F6B680E8B8#^s-272f0feb11e5753995653a55|SVEIKATOS DRAUDIMO ĮSTATYMO 8, 18, 19, 31 IR 34 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.94F6B680E8B8|SVEIKATOS DRAUDIMO ĮSTATYMO]] [[latest/TAR.94F6B680E8B8#^s-26859784af87ce5e32723293|8]], [[latest/TAR.94F6B680E8B8#^s-07bb2dcb3acbdd0ecb8a0b99|18]], [[latest/TAR.94F6B680E8B8#^s-931f5a1629c199165a4a6bcb|19]], [[latest/TAR.94F6B680E8B8|31]] IR [[latest/TAR.94F6B680E8B8#^s-272f0feb11e5753995653a55|34]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1996, Nr. 55-1287; 2002, Nr. 123-5512; 2003, Nr. 113-5058)
 
@@ -160,7 +160,7 @@ Nelaimingų atsitikimų darbe socialinį draudimą vykdo Valstybinio socialinio 
 
 
 ### KETVIRTASIS SKIRSNIS ^s-d9717dddb06753e97a6ec8a2
-NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO 4, 17, 19 IR 23 STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
+[[latest/TAR.FDF42614DE52|NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO]] [[latest/TAR.FDF42614DE52#^s-954f6375ab203d75ab97ee66|4]], [[latest/TAR.FDF42614DE52#^s-42d45c506c01b2d5f862e97b|17]], [[latest/TAR.FDF42614DE52#^s-a99449edddfea8ded72f17d0|19]] IR [[latest/TAR.FDF42614DE52|23]] STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 2004, Nr. 4-26)
 
@@ -199,7 +199,7 @@ Nr. X-65, 2004-12-22, Žin. 2004, Nr. 188-6997 (2004-12-31), i. k. [[latest/TAR.
 
 
 ### PENKTASIS SKIRSNIS ^s-437e02b499e72c9f924bb0ad
-[[latest/TAR.A7F77DF94F5D#^s-25d50eb1a425d919493b9a12|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 8, 13, 14, 26, 29 IR 43 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]] [[latest/TAR.A7F77DF94F5D#^s-3d450f17d3ebd38c4ee6c12f|2]], [[latest/TAR.A7F77DF94F5D#^s-a5722f3dde8191b8e7a00745|8]], [[latest/TAR.A7F77DF94F5D#^s-015f93aa50a137208a902a1e|13]], [[latest/TAR.A7F77DF94F5D#^s-2510fc738aeaf0c40f5792a2|14]], [[latest/TAR.A7F77DF94F5D#^s-7ca89b8ddefa9f4b1b337c61|26]], [[latest/TAR.A7F77DF94F5D#^s-51d5cf73500e68622d992650|29]] IR [[latest/TAR.A7F77DF94F5D#^s-25d50eb1a425d919493b9a12|43]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1994, Nr. 59-1153, Nr. 101-2017; 1995, Nr. 59-1475, Nr. 84-1901, 1998, Nr. 98-2707, Nr. 115-3274; 1999, Nr. 66-2115, Nr. 113-3283; 2000, Nr. 41-1165, Nr. 58-1715, Nr. 92-2862; 2001, Nr. 103-3658; 2002, Nr. 123-5535, Nr. 124-5620; 2003, Nr. 91(1)-4107, Nr. 101-4536, Nr. 114-5117; 2004, Nr. 32-1008, Nr. 117-4373)
 
@@ -220,7 +220,7 @@ Valstybiniu socialiniu pensijų draudimu privalomai draudžiami:
 1) asmenys, dirbantys pagal darbo sutartis pas juridinius ar fizinius asmenis, kandidatai į notarus (asesoriai), asmenys, gaunantys darbo užmokestį ir einantys narystės pagrindu renkamąsias pareigas renkamose organizacijose, taip pat asmenys, gaunantys darbo užmokestį ir skiriami į apygardų, miestų, rajonų, apylinkių rinkimų ir referendumo komisijas; ^s-68db1e74b85e0d1a41d54e86
 
 
-2) Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šios dalies 3 ir [[#^s-28bd2feef68ee9bbf9123bb4|5 punktuose]]), taip pat gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys; ^s-61c4567e1fe75471b8830f83
+2) Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]] nurodyti valstybės politikai, teisėjai, valstybės pareigūnai, valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šios dalies [[latest/TAR.D3ED3792F52B|3]] ir [[latest/TAR.D3ED3792F52B|5]] punktuose), taip pat gaunantys darbo užmokestį Seimo, Seimo Pirmininko, Respublikos Prezidento ar Ministro Pirmininko skiriami į pareigas asmenys; ^s-61c4567e1fe75471b8830f83
 
 
 3) vidaus tarnybos sistemos pareigūnai, Specialiųjų tyrimų tarnybos ir Kalėjimų departamento prie Lietuvos Respublikos teisingumo ministerijos bei jam pavaldžių įstaigų ir įmonių pareigūnai; ^s-ed5a6b59d2747516e8c6a84b
@@ -253,7 +253,7 @@ Valstybiniu socialiniu pensijų draudimu privalomai draudžiami:
 13) nesukakę senatvės pensijos amžiaus vienas iš visiškos negalios invalido tėvų (įtėvių) arba asmuo, nustatyta tvarka paskirtas visiškos negalios invalido globėju arba rūpintoju, slaugantis namuose visiškos negalios invalidą. ^s-845bbc4222493fce4aad7b34
 
 
-Šio straipsnio pirmosios [[#^s-f080a3c5310953f200dbae38|dalies 7 punkte]], taip pat 10–[[#^s-845bbc4222493fce4aad7b34|13 punktuose]] nurodyti asmenys valstybiniu socialiniu pensijų draudimu privalomai draudžiami valstybės lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Asmenys, nurodyti šio straipsnio pirmosios [[#^s-845bbc4222493fce4aad7b34|dalies 13 punkte]], privalomai draudžiami valstybės lėšomis tik tuo atveju, kai negauna jiems patiems priklausančios valstybinės socialinio draudimo pensijos, valstybinės pensijos, šalpos pensijos, socialinės pensijos arba šalpos pensijos už invalidų slaugą namuose.
+Šio straipsnio pirmosios [[#^s-f080a3c5310953f200dbae38|dalies 7 punkte]], taip pat [[#^s-e313f11b4d744a6daa2a499e|10]]–13 punktuose nurodyti asmenys valstybiniu socialiniu pensijų draudimu privalomai draudžiami valstybės lėšomis Lietuvos Respublikos Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. Asmenys, nurodyti šio straipsnio pirmosios dalies 13 punkte, privalomai draudžiami valstybės lėšomis tik tuo atveju, kai negauna jiems patiems priklausančios valstybinės socialinio draudimo pensijos, valstybinės pensijos, šalpos pensijos, socialinės pensijos arba šalpos pensijos už invalidų slaugą namuose.
 
 
 Kiti asmenys gali savanoriškai draustis valstybiniu socialiniu pensijų draudimu valstybinėse socialinio draudimo fondo administravimo įstaigose, vykdančiose šį draudimą Lietuvos Respublikos Vyriausybės nustatyta tvarka.“
@@ -266,7 +266,7 @@ Kiti asmenys gali savanoriškai draustis valstybiniu socialiniu pensijų draudim
 8 straipsnio 2 dalyje išbraukti žodį „privalomos“, vietoj žodžių „bedarbio pašalpas“ įrašyti žodžius „nedarbo socialinio draudimo išmokas“, vietoj žodžių „Bedarbių rėmimo“ įrašyti žodžius „Nedarbo socialinio draudimo“, išbraukti žodžius „ir bedarbio“, po žodžio „pašalpos“ įrašyti žodžius „bei išmoka“, po žodžio „pašalpomis“ įrašyti žodžius „ir nedarbo socialinio draudimo išmokomis“, po žodžio „pašalpų“ įrašyti žodžius „ir išmokų“, vietoj žodžių „socialiniu draudimu nuo nedarbo“ įrašyti žodžius „nedarbo socialiniu draudimu“ ir šią dalį išdėstyti taip:
 
 
-„Valstybinio socialinio pensijų draudimo stažą, dirbdami pagal darbo sutartį, narystės ar tarnybos pagrindu, įgyja asmenys, išvardyti 2 straipsnio pirmosios dalies 1–5 punktuose. Šį stažą sudaro:
+„Valstybinio socialinio pensijų draudimo stažą, dirbdami pagal darbo sutartį, narystės ar tarnybos pagrindu, įgyja asmenys, išvardyti 2 straipsnio pirmosios dalies [[#^s-bd0f4d30972f6aa89281657e|1]]–5 punktuose. Šį stažą sudaro:
 
 
 1) laikas, per kurį šie asmenys patys moka arba už juos yra mokamos ar turi būti mokamos įstatymo jiems nustatytos valstybinio socialinio pensijų draudimo įmokos; ^s-bd0f4d30972f6aa89281657e
@@ -285,7 +285,7 @@ Kiti asmenys gali savanoriškai draustis valstybiniu socialiniu pensijų draudim
 „13 straipsnis. Asmens draudžiamosios pajamos
 
 
-Asmenų, išvardytų 2 straipsnio pirmosios dalies 1–5 punktuose, draudžiamosiomis pajamomis laikomos visos jų pajamos, nuo kurių buvo įmokėtos ar turėjo būti įmokėtos privalomos valstybinio socialinio pensijų draudimo įmokos, taip pat gautos valstybinio socialinio draudimo ligos, motinystės, motinystės (tėvystės) pašalpos ir nedarbo socialinio draudimo išmokos. Asmenų, nurodytų 2 straipsnio pirmosios dalies 6 ir 7 punktuose, draudžiamosiomis pajamomis jų draudimo valstybiniu socialiniu pensijų draudimu abiem pensijos dalims gauti laikotarpiu laikomos sumos, nuo kurių už šiuos asmenis buvo įmokėtos ar turėjo būti įmokėtos privalomos valstybinio socialinio pensijų draudimo įmokos į Valstybinio socialinio draudimo fondo biudžetą abiem pensijos dalims gauti. Asmenų, nurodytų 2 straipsnio pirmosios dalies 8 punkte, draudžiamosiomis pajamomis jų privalomojo draudimosi valstybiniu socialiniu pensijų draudimu papildomai pensijos daliai gauti laikotarpiu laikomos sumos, nuo kurių šie asmenys įmokėjo valstybinio socialinio pensijų draudimo įmokas į Valstybinio socialinio draudimo fondo biudžetą papildomai pensijos daliai gauti.“
+Asmenų, išvardytų 2 straipsnio pirmosios dalies [[#^s-bd0f4d30972f6aa89281657e|1]]–5 punktuose, draudžiamosiomis pajamomis laikomos visos jų pajamos, nuo kurių buvo įmokėtos ar turėjo būti įmokėtos privalomos valstybinio socialinio pensijų draudimo įmokos, taip pat gautos valstybinio socialinio draudimo ligos, motinystės, motinystės (tėvystės) pašalpos ir nedarbo socialinio draudimo išmokos. Asmenų, nurodytų 2 straipsnio pirmosios dalies 6 ir 7 punktuose, draudžiamosiomis pajamomis jų draudimo valstybiniu socialiniu pensijų draudimu abiem pensijos dalims gauti laikotarpiu laikomos sumos, nuo kurių už šiuos asmenis buvo įmokėtos ar turėjo būti įmokėtos privalomos valstybinio socialinio pensijų draudimo įmokos į Valstybinio socialinio draudimo fondo biudžetą abiem pensijos dalims gauti. Asmenų, nurodytų 2 straipsnio pirmosios dalies 8 punkte, draudžiamosiomis pajamomis jų privalomojo draudimosi valstybiniu socialiniu pensijų draudimu papildomai pensijos daliai gauti laikotarpiu laikomos sumos, nuo kurių šie asmenys įmokėjo valstybinio socialinio pensijų draudimo įmokas į Valstybinio socialinio draudimo fondo biudžetą papildomai pensijos daliai gauti.“
 
 
 
@@ -336,7 +336,7 @@ Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darb
 
 
 ### ŠEŠTASIS SKIRSNIS ^s-ee16aa8aebae4dd2177b228c
-[[latest/TAR.CA0F08EF687E#^s-690d06a76cc7e60317f1828b|VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO 2, 3, 5, 10 IR 12 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.CA0F08EF687E|VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO]] [[latest/TAR.CA0F08EF687E#^s-cafe8051621a1389a6a05653|2]], [[latest/TAR.CA0F08EF687E#^s-ffea323b48f0a29473d055f4|3]], [[latest/TAR.CA0F08EF687E#^s-cbfd7577dfe0fe9ef9895dfa|5]], [[latest/TAR.CA0F08EF687E#^s-9870da44cc3f75de0c266af7|10]] IR [[latest/TAR.CA0F08EF687E#^s-690d06a76cc7e60317f1828b|12]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2001, Nr. 91-3190; 2002, Nr. 52-1984, Nr. 123-5551; 2003, Nr. 101-4535)
 
@@ -439,7 +439,7 @@ Nustatant invalidumą, gali dalyvauti su patariamojo balso teise asmenį gydanti
 
 
 ### AŠTUNTASIS SKIRSNIS ^s-c34d08c10e8863a764a31b5a
-[[latest/TAR.A7F77DF94F5D#^s-f3e4bd0c130420115fe58c82|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34, 36, 45 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO 451 STRAIPSNIU ĮSTATYMO [[#^s-5420dd1f6f9240dda37a6963|6 STRAIPSNIO]] PAKEITIMAS
+[[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]] [[latest/TAR.A7F77DF94F5D#^s-f47bd8a85e88a1ed5fdb4426|33]], [[latest/TAR.A7F77DF94F5D#^s-5588e0dd4927669d9163f666|34]], [[latest/TAR.A7F77DF94F5D#^s-3c50246512d269ab920f3de0|36]], [[latest/TAR.A7F77DF94F5D#^s-f3e4bd0c130420115fe58c82|45]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 451 STRAIPSNIU ĮSTATYMO [[#^s-5420dd1f6f9240dda37a6963|6 STRAIPSNIO]] PAKEITIMAS
 
 (Žin., 1997, Nr. 38-924)
 
@@ -456,7 +456,7 @@ Nustatant invalidumą, gali dalyvauti su patariamojo balso teise asmenį gydanti
 
 
 ### DEVINTASIS SKIRSNIS ^s-02ad0e54cb91dcc8aa44b451
-[[latest/TAR.A7F77DF94F5D#^s-737ad56397e2a7b754e12bc0|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 556 STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO 15 STRAIPSNIO PAKEITIMAS
+[[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]] [[latest/TAR.A7F77DF94F5D#^s-737927b27fa553571c09dfb5|9]], [[latest/TAR.A7F77DF94F5D#^s-bb146404374b0a6898de4e49|16]], [[latest/TAR.A7F77DF94F5D#^s-7a17f97b972c8791937a7320|28]], [[latest/TAR.A7F77DF94F5D#^s-37fa706f93454b00e769633c|35]], [[latest/TAR.A7F77DF94F5D#^s-3c50246512d269ab920f3de0|36]], [[latest/TAR.A7F77DF94F5D#^s-a51329faf117bbee049a6755|40]], [[latest/TAR.A7F77DF94F5D#^s-25d50eb1a425d919493b9a12|43]], [[latest/TAR.A7F77DF94F5D#^s-f3e4bd0c130420115fe58c82|45]], [[latest/TAR.A7F77DF94F5D#^s-6528c69727c34727f1673fa9|49]], [[latest/TAR.A7F77DF94F5D#^s-92afdfd83f0344a49587e917|50]], [[latest/TAR.A7F77DF94F5D#^s-737ad56397e2a7b754e12bc0|54]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 556 STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO 15 STRAIPSNIO PAKEITIMAS
 
 (Žin., 2004, Nr. 32-1008)
 
@@ -468,12 +468,12 @@ Nustatant invalidumą, gali dalyvauti su patariamojo balso teise asmenį gydanti
 15 straipsnio 3 dalyje po žodžio „valdybai“ įrašyti žodžius „prie Socialinės apsaugos ir darbo ministerijos“ ir šią dalį išdėstyti taip:
 
 
-„3. Institucijos, skiriančios ir mokančios Lietuvos Respublikos valstybines pensijas bei pensijų išmokas, privalo teikti Valstybinio socialinio draudimo fondo valdybai prie Socialinės apsaugos ir darbo ministerijos pagal šios valdybos paklausimus [[latest/TAR.A7F77DF94F5D#^s-790a50f88567ba78bf394672|Valstybinių socialinio draudimo pensijų įstatymo 57–60 straipsnių]] nuostatoms įgyvendinti reikalingas žinias apie asmenims mokamas valstybines pensijas ir pensijų išmokas.“
+„3. Institucijos, skiriančios ir mokančios Lietuvos Respublikos valstybines pensijas bei pensijų išmokas, privalo teikti Valstybinio socialinio draudimo fondo valdybai prie Socialinės apsaugos ir darbo ministerijos pagal šios valdybos paklausimus [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo]] [[latest/TAR.A7F77DF94F5D#^s-fc985bb611f600b0a82e42a8|57]]–[[latest/TAR.A7F77DF94F5D#^s-790a50f88567ba78bf394672|60]] straipsnių nuostatoms įgyvendinti reikalingas žinias apie asmenims mokamas valstybines pensijas ir pensijų išmokas.“
 
 
 
 ### DEŠIMTASIS SKIRSNIS ^s-91aa457c23bf669f5548e019
-[[latest/TAR.A7F77DF94F5D#^s-0fce87d1af83d5ba74c7873c|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 551, 552, 553, 554, 555 STRAIPSNIAIS ĮSTATYMO 19 IR 20 STRAIPSNIŲ PAKEITIMAS
+[[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]] [[latest/TAR.A7F77DF94F5D#^s-3d450f17d3ebd38c4ee6c12f|2]], [[latest/TAR.A7F77DF94F5D#^s-98d2ea531035e506ef900a47|10]], [[latest/TAR.A7F77DF94F5D#^s-7a17f97b972c8791937a7320|28]], [[latest/TAR.A7F77DF94F5D#^s-51d5cf73500e68622d992650|29]], [[latest/TAR.A7F77DF94F5D#^s-5588e0dd4927669d9163f666|34]], [[latest/TAR.A7F77DF94F5D#^s-37fa706f93454b00e769633c|35]], [[latest/TAR.A7F77DF94F5D#^s-a0ac7559fb5815c4a6351bb9|38]], [[latest/TAR.A7F77DF94F5D#^s-ce359f209917eb9c09c3c9d6|39]], [[latest/TAR.A7F77DF94F5D#^s-a51329faf117bbee049a6755|40]], [[latest/TAR.A7F77DF94F5D#^s-f3e4bd0c130420115fe58c82|45]], [[latest/TAR.A7F77DF94F5D#^s-6528c69727c34727f1673fa9|49]], [[latest/TAR.A7F77DF94F5D#^s-737ad56397e2a7b754e12bc0|54]], [[latest/TAR.A7F77DF94F5D#^s-0fce87d1af83d5ba74c7873c|56]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 551, 552, 553, 554, 555 STRAIPSNIAIS ĮSTATYMO 19 IR 20 STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2002, Nr. 124-5620)
 
@@ -488,10 +488,10 @@ Pakeisti 19 straipsnį ir jį išdėstyti taip:
 „19 straipsnis. Įstatymo įsigaliojimas
 
 
-1. Šis Įstatymas, išskyrus [[#^s-37c8e6e12ead1b19cc3af2ab|1 straipsnio 4 dalies]] nuostatas dėl Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 12 punkto pakeitimo, įsigalioja nuo 2003 m. sausio 1 d. ^s-923bcd932df8f5fa25b0c123
+1. Šis Įstatymas, išskyrus [[#^s-37c8e6e12ead1b19cc3af2ab|1 straipsnio 4 dalies]] nuostatas dėl [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 12 punkto]] pakeitimo, įsigalioja nuo 2003 m. sausio 1 d. ^s-923bcd932df8f5fa25b0c123
 
 
-2. Šio Įstatymo [[#^s-37c8e6e12ead1b19cc3af2ab|1 straipsnio 4 dalies]] nuostatos dėl Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 12 punkto pakeitimo įsigalioja nuo 2004 m. sausio 1 d. ^s-e8c2da8ae03e8898fa5db2e7
+2. Šio Įstatymo [[#^s-37c8e6e12ead1b19cc3af2ab|1 straipsnio 4 dalies]] nuostatos dėl [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 12 punkto]] pakeitimo įsigalioja nuo 2004 m. sausio 1 d. ^s-e8c2da8ae03e8898fa5db2e7
 
 
 3. Valstybinio socialinio draudimo fondo valdybos prie Socialinės apsaugos ir darbo ministerijos teritoriniai skyriai privalo pradėti mokėti padidintas pensijas ne vėliau kaip praėjus 3 mėnesiams nuo šio Įstatymo įsigaliojimo. Paskirtų ir padidintų pensijų dydžių skirtumas pensininkui kompensuojamas nuo šio Įstatymo įsigaliojimo dienos. ^s-88fb3d2251bcb22565f0605f
@@ -518,7 +518,7 @@ Pasiūlyti Vyriausybei įgalioti Valstybinio socialinio draudimo fondo valdybą 
 
 
 VIENUOLIKTASIS SKIRSNIS
-[[latest/TAR.068516AF734B#^s-ec6726c241fb9f9ded79e1cd|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO  3 IR 24 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]]  [[latest/TAR.068516AF734B#^s-51fd289c361281809cf1fba3|3]] IR [[latest/TAR.068516AF734B#^s-ec6726c241fb9f9ded79e1cd|24]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2000, Nr. 111-3574; 2002, Nr. 123-5535)
 

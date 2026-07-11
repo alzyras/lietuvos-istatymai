@@ -408,7 +408,7 @@ Pašto ir pasiuntinių veikla reguliuojama vadovaujantis sąžiningos konkurenci
 4. Universaliųjų pašto paslaugų teikėjas turi teisę: ^s-19e9a8669984c3484ed3a01e
 
 
-1) sudaryti su klientais individualias sutartis dėl universaliųjų pašto paslaugų tarifų; ^s-f30dd3b4f1abd175cc5a3d69
+1) sudaryti su klientais individualias sutartis [dėl universaliųjų pašto paslaugų tarifų](https://e-tar.lt/portal/lt/legalAct/TAR.860F31B2E277); ^s-f30dd3b4f1abd175cc5a3d69
 
 
 2) bendradarbiauti su kitų šalių universaliųjų pašto paslaugų teikėjais, pagal kompetenciją dalyvauti tarptautinių pašto organizacijų veikloje. ^s-6f8be4d8695e39a48ffdc47a

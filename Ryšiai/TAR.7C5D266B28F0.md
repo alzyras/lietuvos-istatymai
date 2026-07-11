@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos visuomenės informavimo įstatymo 14 straipsn
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.065AB8483E1E#^s-8c5fd240e1a4daedec3dc6e5|Lietuvos Respublikos visuomenės informavimo įstatymas]] - 2 citatos - VISUOMENĖS INFORMAVIMO ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.065AB8483E1E#^s-ab71ed55152049872cec1e28|Lietuvos Respublikos visuomenės informavimo įstatymas]] - 2 citatos - VISUOMENĖS INFORMAVIMO ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.065AB8483E1E#^s-ab71ed55152049872cec1e28|Lietuvos Respublikos visuomenės informavimo įstatymas]] - VISUOMENĖS INFORMAVIMO ĮSTATYMO 14 STRAIPSNIO PAKEITIMO ĮSTATYMAS

@@ -195,7 +195,7 @@ Pakeisti 15 straipsnio 1 dalies 2 punktą ir jį išdėstyti taip:
 2. 20 straipsnio 3 dalyje vietoj žodžio „komisijai“ įrašyti žodį „tarnybai“ ir šią dalį išdėstyti taip: ^s-43e63e7809a67bd1e635490d
 
 
-„3. Lošimų organizatorius dokumentus ir informaciją apie šio straipsnio 1 ir [[#^s-43e63e7809a67bd1e635490d|2 dalyse]] nurodytus asmenis privalo saugoti 10 metų ir privalo pateikti tik Priežiūros tarnybai ir ikiteisminio tyrimo pareigūnams, prokurorams arba teismui įstatymų nustatyta tvarka.“
+„3. Lošimų organizatorius dokumentus ir informaciją apie šio straipsnio [[#^s-6c7bf0be0576d1c6c80129d8|1]] ir 2 dalyse nurodytus asmenis privalo saugoti 10 metų ir privalo pateikti tik Priežiūros tarnybai ir ikiteisminio tyrimo pareigūnams, prokurorams arba teismui įstatymų nustatyta tvarka.“
 
 
 

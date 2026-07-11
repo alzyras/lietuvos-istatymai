@@ -65,7 +65,7 @@ Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 ### 3 straipsnis. 3 straipsnio papildymas 11 ir 12 punktais ^s-41e3d2e00f4f52fd06ef5642
 
 
-Papildyti 3 straipsnį 11 ir [[#^s-010c910c0372aec26c3f9869|12 punktais]]:
+Papildyti 3 straipsnį 11 ir [[#^s-010c910c0372aec26c3f9869|12]] punktais:
 
 
 „11) kontroliuoja, ar cheminės medžiagos ir preparatai (išskyrus tiekiamas rinkai chemines medžiagas ir preparatus, skirtus vartotojų asmeniniams ir namų ūkio poreikiams tenkinti) klasifikuojami, ženklinami, pakuojami, saugomi, laikomi, įtraukiami į apskaitą ir jų apskaita vykdoma pagal teisės aktų reikalavimus, teisėtai valdomi, naudojami, jais disponuojama; nepažeidžiami pranešimų apie naujas chemines medžiagas, duomenų, ataskaitų dėl cheminių medžiagų ir preparatų teikimo reikalavimai; taip pat pagal kompetenciją kontroliuoja, ar nepažeidžiami cheminių medžiagų ir preparatų importo (įvežimo) į Lietuvos Respublikos teritoriją, eksporto (išvežimo) iš Lietuvos Respublikos teritorijos reikalavimai;

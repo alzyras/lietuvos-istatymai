@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos mokėjimų įstatymo 3 ir 49 straipsnių pa
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C6C5599DD9A1#^s-27ee327ec2e7cfcacf4e9376|Lietuvos Respublikos mokėjimų įstatymas]] - 3 citatos - 1131010ISTA0XII-303
-- [[latest/TAR.C6C5599DD9A1#^s-5e1b8fe029130703f8ff50d2|Lietuvos Respublikos mokėjimų įstatymas]] - 3 citatos - 1131010ISTA0XII-303
+- [[latest/TAR.C6C5599DD9A1#^s-27ee327ec2e7cfcacf4e9376|Lietuvos Respublikos mokėjimų įstatymas]] - 2 citatos - 1131010ISTA0XII-303

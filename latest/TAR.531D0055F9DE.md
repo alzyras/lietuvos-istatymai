@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-29fddddff9a440d08d06b6d3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. spalio 5 d. dekretą Nr. 764, ratifikuoja 1998 m. birželio 2 d. Briuselyje sudarytą Protokolą, pakeičiantį Šiaurės Atlanto Sutarties Šalių susitarimo dėl bendradarbiavimo, susijusio su atomine informacija, Saugumo priedą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. spalio 5 d. dekretą Nr. 764](https://e-tar.lt/portal/lt/legalAct/TAR.0819AC717EBD), ratifikuoja 1998 m. birželio 2 d. Briuselyje sudarytą Protokolą, pakeičiantį Šiaurės Atlanto Sutarties Šalių susitarimo dėl bendradarbiavimo, susijusio su atomine informacija, Saugumo priedą.
 
 
 

@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos sodininkų bendrijų įstatymo 2, 6, 7, 8, 12
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 2 citatos - Civilinis kodeksas
-- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Statybos įstatymo
-- [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - 2 citatos - Žemės įstatymo
+- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - Civilinis kodeksas
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - Statybos įstatymo
+- [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - Žemės įstatymo
 
 ## Šį įstatymą cituoja
 

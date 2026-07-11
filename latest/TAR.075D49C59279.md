@@ -283,7 +283,7 @@ Nr. XV-213, 2025-05-15, paskelbta TAR 2025-05-28, i. k. 2025-09428
 5) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems (padidinti iki 30 procentų) žemės sklypai toje pačioje kadastro vietovėje piliečiams, kurių norima susigrąžinti žemė patenka į asmeniniam ūkiui ar valstiečio ūkiui skirtą teritoriją; ^s-27ece6db6f4f14950aa14ebf
 
 
-6) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems naudojami žemės sklypai Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio 13 dalyje nurodytiems asmenims; ^s-3599862a7724a1950f7f0061
+6) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems naudojami žemės sklypai [[latest/TAR.8A16A03D98D4|Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio 13 dalyje]] nurodytiems asmenims; ^s-3599862a7724a1950f7f0061
 
 
 7) perduodami nuosavybėn neatlygintinai, parduodami arba nuomojami įstatymų nustatyta tvarka suteikti asmeniniam ūkiui žemės sklypai šiuos žemės sklypus naudojantiems asmenims; ^s-f4662004037e5de7b7c4bcfc
@@ -292,10 +292,10 @@ Nr. XV-213, 2025-05-15, paskelbta TAR 2025-05-28, i. k. 2025-09428
 8) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai piliečiams, gyvenantiems savivaldybės seniūnijos, kurioje yra perduodamas sklypas, teritorijoje, jeigu jų turėti žemė, miškas, vandens telkiniai priskirti valstybės išperkamiems pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą arba jeigu jų turėtas miškas ar vandens telkiniai neišliko, taip pat perduodami nuosavybėn neatlygintinai žemės sklypai piliečiams, kurių šeimos po 1939 metų buvo įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių Lenkijos ir Vokietijos tuometinėse teritorijose ir gyvenantiems savivaldybės seniūnijos, kurioje yra perduodamas žemės sklypas, teritorijoje, jeigu jų žemės sklypai, į kuriuos šios šeimos buvo įkeldintos, priskirti valstybės išperkamai žemei; ^s-93a3f22e549b84ed4585b3c9
 
 
-9) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai kitiems [[#^s-93a3f22e549b84ed4585b3c9|šio straipsnio 1 dalies 8 punkte]] nenurodytiems piliečiams, kurių turėti žemė, miškas, vandens telkiniai pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą priskirti valstybės išperkamiems arba kurių turėtas miškas ar vandens telkiniai neišliko; perduodami nuosavybėn neatlygintinai piliečiams, kurių šeimos po 1939 metų buvo įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių Lenkijos ir Vokietijos tuometinėse teritorijose, – tokio paties ploto žemės sklypai, kokius nuosavybės teise jie turėjo Lenkijos ir Vokietijos tuometinėse teritorijose, išskaičius tą žemės sklypo plotą, kurį jie gavo pagal [[#^s-a384ce21030ecd1a282676f1|šio straipsnio 1 dalies]] 2 ir [[#^s-93a3f22e549b84ed4585b3c9|8 punktus]], taip pat perduodami nuosavybėn neatlygintinai padidinti iki 100 procentų žemės sklypai piliečiams, kurie yra 1918–1920 m. nepriklausomybės kovų kariai savanoriai, pasipriešinimo (rezistencijos) dalyviai, politiniai kaliniai, tremtiniai, Vyčio Kryžiaus ordinu apdovanoti asmenys, taip pat jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), jeigu jų norima natūra susigrąžinti žemė yra kitos apskrities teritorijoje ir užimta asmeninio ūkio ar valstiečio ūkio; ^s-6c4126771ed04267a5338384
+9) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai kitiems [[#^s-93a3f22e549b84ed4585b3c9|šio straipsnio 1 dalies 8 punkte]] nenurodytiems piliečiams, kurių turėti žemė, miškas, vandens telkiniai pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą priskirti valstybės išperkamiems arba kurių turėtas miškas ar vandens telkiniai neišliko; perduodami nuosavybėn neatlygintinai piliečiams, kurių šeimos po 1939 metų buvo įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių Lenkijos ir Vokietijos tuometinėse teritorijose, – tokio paties ploto žemės sklypai, kokius nuosavybės teise jie turėjo Lenkijos ir Vokietijos tuometinėse teritorijose, išskaičius tą žemės sklypo plotą, kurį jie gavo pagal [[#^s-a384ce21030ecd1a282676f1|šio straipsnio 1 dalies]] [[#^s-b59845f61faf61d6eaab44e4|2]] ir [[#^s-93a3f22e549b84ed4585b3c9|8]] punktus, taip pat perduodami nuosavybėn neatlygintinai padidinti iki 100 procentų žemės sklypai piliečiams, kurie yra 1918–1920 m. nepriklausomybės kovų kariai savanoriai, pasipriešinimo (rezistencijos) dalyviai, politiniai kaliniai, tremtiniai, Vyčio Kryžiaus ordinu apdovanoti asmenys, taip pat jų sutuoktiniams, tėvams (įtėviams), vaikams (įvaikiams), jeigu jų norima natūra susigrąžinti žemė yra kitos apskrities teritorijoje ir užimta asmeninio ūkio ar valstiečio ūkio; ^s-6c4126771ed04267a5338384
 
 
-10) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai kitiems [[#^s-a384ce21030ecd1a282676f1|šio straipsnio 1 dalies]] 8 ir [[#^s-6c4126771ed04267a5338384|9 punktuose]] nenurodytiems piliečiams; ^s-c95b4e11b16bac2f2d331cc9
+10) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai kitiems [[#^s-a384ce21030ecd1a282676f1|šio straipsnio 1 dalies]] [[#^s-93a3f22e549b84ed4585b3c9|8]] ir [[#^s-6c4126771ed04267a5338384|9]] punktuose nenurodytiems piliečiams; ^s-c95b4e11b16bac2f2d331cc9
 
 
 11) parduodami, nuomojami, perduodami neatlygintinai naudotis ar patikėjimo teise statiniams ar įrenginiams eksploatuoti reikalingi žemės sklypai; ^s-e93a9664e70b1c6e844b5d20
@@ -510,7 +510,7 @@ Nr. XIV-2339, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25319
 
 
 11. Piliečiams, kurie neturi teisės į nuosavybės teisių atkūrimą pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą arba kurie turi teisę atkurti nuosavybės teisę į mažesnį, negu naudoja asmeninam ūkiui, žemės sklypą, taip pat kitiems fiziniams asmenims naudojami, bet neįsigyti asmeninio ūkio žemės sklypai parduodami Vyriausybės nustatyta tvarka iki 2023 rugsėjo 30 d. Nuo 2023 m. spalio 1 d. šie žemės sklypai, jeigu už juos nebuvo įmokėtos įmokos valstybės vienkartinėmis išmokomis ar pinigais arba jie nėra išnuomoti, arba juose nėra pastatytų ar statomų statinių, nekeičiant jų naudojimo paskirties, priskiriami laisvos žemės fondo žemei. Piliečiams, kurie pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą turi teisę atkurti nuosavybės teises į ne mažesnį kaip asmeniniam ūkiui suteiktos žemės sklypą, tačiau pageidauja kitos kompensacijos arba savo teisę susigrąžinti žemę perleidžia kitiems piliečiams, arba atsisako šios teisės kitų piliečių naudai, asmeninio ūkio žemė neparduodama, o žemės sklypai išnuomojami iš laisvos žemės fondo. ^s-afb1de4e3e5589a421b0344c
-TAR pastaba. [[#^s-afb1de4e3e5589a421b0344c|15 straipsnio 11 dalies]] nuostatos netaikomos asmeninio ūkio žemės sklypų pardavimo procedūroms, kurios buvo pradėtos pagal iki [[latest/fd3b2cb0875f11ed8df094f359a60216|įstatymo Nr. XIV-1711]] įsigaliojimo dienos (2023-03-01) galiojusias Žemės reformos įstatymo 15 straipsnio nuostatas, užbaigti. Pardavimo procedūra laikoma pradėta, jeigu asmuo iki 2023 m. rugsėjo 30 d. raštu kreipiasi į sprendimus parduoti valstybinę žemę priimančias valstybės institucijas dėl valstybinės žemės sklypo pirkimo–pardavimo sutarties sudarymo ir (ar) už šį žemės sklypą Vyriausybės nustatyta tvarka buvo įmokėtos įmokos (dalis įmokų, jeigu žemės sklypas perkamas išsimokėtinai) valstybės vienkartinėmis išmokomis ar pinigais.
+TAR pastaba. 15 straipsnio 11 dalies nuostatos netaikomos asmeninio ūkio žemės sklypų pardavimo procedūroms, kurios buvo pradėtos pagal iki [[latest/fd3b2cb0875f11ed8df094f359a60216|įstatymo Nr. XIV-1711]] įsigaliojimo dienos (2023-03-01) galiojusias Žemės reformos įstatymo 15 straipsnio nuostatas, užbaigti. Pardavimo procedūra laikoma pradėta, jeigu asmuo iki 2023 m. rugsėjo 30 d. raštu kreipiasi į sprendimus parduoti valstybinę žemę priimančias valstybės institucijas dėl valstybinės žemės sklypo pirkimo–pardavimo sutarties sudarymo ir (ar) už šį žemės sklypą Vyriausybės nustatyta tvarka buvo įmokėtos įmokos (dalis įmokų, jeigu žemės sklypas perkamas išsimokėtinai) valstybės vienkartinėmis išmokomis ar pinigais.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1711, 2022-12-20, paskelbta TAR 2022-12-29, i. k. 2022-27301
 
@@ -576,7 +576,7 @@ Nr. XIV-2125, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14313
 9. Už kvalifikacijos pažymėjimų žemės reformos žemėtvarkos projektams rengti ar jų dublikatų išdavimą, kvalifikacijos pažymėjimų patikslinimą imama valstybės rinkliava [[latest/TAR.41CD8BF53D8D|Rinkliavų įstatymo]] nustatyta tvarka. ^s-2f02281129bd30226e29b338
 
 
-10. Konkursus dėl žemės reformos žemėtvarkos projektų rengimo ir įgyvendinimo organizuoja ir vykdo savivaldybės administracijos direktorius [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatyme]] nustatyta tvarka. ^s-c2fbae8fcf11d564f9a86df6
+10. Konkursus [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) žemėtvarkos projektų rengimo ir įgyvendinimo organizuoja ir vykdo savivaldybės administracijos direktorius [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatyme]] nustatyta tvarka. ^s-c2fbae8fcf11d564f9a86df6
 Straipsnio dalies pakeitimai:
 Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
 Nr. XV-705, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23004
@@ -615,7 +615,7 @@ Nr. XIV-2125, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14313
 1. Sprendimus dėl valstybinės žemės įsigijimo, nuomos ar perdavimo neatlygintinai naudotis asmenys gali skųsti teismui. ^s-5dd5dbb74a768789849a8d6f
 
 
-2. Skundus dėl žemės reformos metu suformuotų žemės sklypų tinkamumo, žemės privatizavimui, nuomai ir perdavimui neatlygintinai naudotis parengtų dokumentų neatitikties įstatymų ir kitų teisės aktų reikalavimams iki sprendimo dėl valstybinės žemės įsigijimo, nuomos ar perdavimo neatlygintinai naudotis priėmimo nagrinėja Nacionalinė žemės tarnyba dėl savo patikėjimo teise valdomų valstybinės žemės sklypų – šiame straipsnyje nustatyta tvarka, savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius dėl savivaldybės patikėjimo teise valdomų valstybinių žemės sklypų – [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatyme]] nustatyta tvarka. ^s-d865f1096223e183bb28a79e
+2. Skundus [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) metu suformuotų žemės sklypų tinkamumo, žemės privatizavimui, nuomai ir perdavimui neatlygintinai naudotis parengtų dokumentų neatitikties įstatymų ir kitų teisės aktų reikalavimams iki sprendimo dėl valstybinės žemės įsigijimo, nuomos ar perdavimo neatlygintinai naudotis priėmimo nagrinėja Nacionalinė žemės tarnyba dėl savo patikėjimo teise valdomų valstybinės žemės sklypų – šiame straipsnyje nustatyta tvarka, savivaldybės meras ar jo įgaliotas savivaldybės administracijos direktorius dėl savivaldybės patikėjimo teise valdomų valstybinių žemės sklypų – [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatyme]] nustatyta tvarka. ^s-d865f1096223e183bb28a79e
 Straipsnio dalies pakeitimai:
 Nr. XIV-2125, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14313
 Nr. XV-705, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23004
@@ -686,7 +686,7 @@ Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
 ### 19 straipsnis. Žemės reformos žemėtvarkos projektų sudarymas ir žemės servitutų nustatymas ^s-9d9a1b236ef26c7a507f1eff
 
 
-1. Žemės reformai reikalingi žemės reformos žemėtvarkos projektai rengiami ir tvirtinami Vyriausybės nustatyta tvarka pagal aplinkos ministro tvirtinamą metodiką. Kai priėmus sprendimą dėl žemės reformos žemėtvarkos projektui rengti parinktos teritorijos ribų patvirtinimo pateikta iki 20 prašymų atkurti nuosavybės teises į žemę, mišką ir vandens telkinius, suteikti nuosavybėn neatlygintinai, parduoti, išnuomoti, perduoti neatlygintinai naudotis ar patikėjimo teise valstybinę žemę, aplinkos ministro nustatyta tvarka pagal šio įstatymo [[#^s-811d4357f950b6ad0d2d4037|10 straipsnyje]] nustatytą eiliškumą rengiami žemės sklypų planai, kurie prilyginami žemės reformos žemėtvarkos projektams. Žemės reformos žemėtvarkos projektų rengimo darbai yra šie: sprendimo dėl žemės reformos žemėtvarkos projektų organizavimo priėmimas, reikalavimų žemės reformos žemėtvarkos projektams rengti išdavimas, žemės reformos žemėtvarkos projektų sprendinių viešinimas, derinimas, tikrinimas ir žemės reformos žemėtvarkos projektų tvirtinimas. Patvirtinus žemės reformos žemėtvarkos projektus, atliekami projektų įgyvendinimo darbai: vietovėje paženklinamas žemės sklypas, nustatant jo ribų posūkio taškų ir riboženklių koordinates valstybinėje koordinačių sistemoje, parengiama nekilnojamojo daikto kadastro duomenų byla ir nustatyti kadastro duomenys [[latest/TAR.72C31F8DD98E|Lietuvos Respublikos nekilnojamojo turto kadastro įstatyme]] nustatyta tvarka įrašomi į Nekilnojamojo turto registro informacinę sistemą. ^s-cc54f574d4cd368c88adaab3
+1. Žemės reformai reikalingi žemės reformos žemėtvarkos projektai rengiami ir tvirtinami Vyriausybės nustatyta tvarka pagal aplinkos ministro tvirtinamą metodiką. Kai priėmus sprendimą [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) žemėtvarkos projektui rengti parinktos teritorijos ribų patvirtinimo pateikta iki 20 prašymų atkurti nuosavybės teises į žemę, mišką ir vandens telkinius, suteikti nuosavybėn neatlygintinai, parduoti, išnuomoti, perduoti neatlygintinai naudotis ar patikėjimo teise valstybinę žemę, aplinkos ministro nustatyta tvarka pagal šio įstatymo [[#^s-811d4357f950b6ad0d2d4037|10 straipsnyje]] nustatytą eiliškumą rengiami žemės sklypų planai, kurie prilyginami žemės reformos žemėtvarkos projektams. Žemės reformos žemėtvarkos projektų rengimo darbai yra šie: sprendimo [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) žemėtvarkos projektų organizavimo priėmimas, reikalavimų žemės reformos žemėtvarkos projektams rengti išdavimas, žemės reformos žemėtvarkos projektų sprendinių viešinimas, derinimas, tikrinimas ir žemės reformos žemėtvarkos projektų tvirtinimas. Patvirtinus žemės reformos žemėtvarkos projektus, atliekami projektų įgyvendinimo darbai: vietovėje paženklinamas žemės sklypas, nustatant jo ribų posūkio taškų ir riboženklių koordinates valstybinėje koordinačių sistemoje, parengiama nekilnojamojo daikto kadastro duomenų byla ir nustatyti kadastro duomenys [[latest/TAR.72C31F8DD98E|Lietuvos Respublikos nekilnojamojo turto kadastro įstatyme]] nustatyta tvarka įrašomi į Nekilnojamojo turto registro informacinę sistemą. ^s-cc54f574d4cd368c88adaab3
 Straipsnio dalies pakeitimai:
 Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
 Nr. XIV-2125, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14313
@@ -736,7 +736,7 @@ Nr. XV-705, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23004
 8. Neteko galios. ^s-a26d339cadad7e7f23e7a697
 
 
-9. Sprendimuose dėl žemės grąžinimo, perdavimo arba suteikimo neatlygintinai, pardavimo ir nuomos nurodomi žemės servitutai ir jų naudojimo sąlygos. ^s-ac7dcb6d1216e7ddfc02b8f9
+9. Sprendimuose [dėl žemės grąžinimo](https://e-tar.lt/portal/lt/legalAct/TAR.58B85D001B03), perdavimo arba suteikimo neatlygintinai, pardavimo ir nuomos nurodomi žemės servitutai ir jų naudojimo sąlygos. ^s-ac7dcb6d1216e7ddfc02b8f9
 
 
 10. Neteko galios. ^s-b7510d5400bd7f1772ac8a0d
@@ -764,7 +764,7 @@ Nr. XII-414, 2013-06-27, Žin., 2013, Nr. 76-3831 (2013-07-16)
 1) nustačius žemės reformos žemėtvarkos projekto sprendinių techninių klaidų – skaičiavimo, faktinių duomenų neatitikties šio projekto sprendiniams ar kitų klaidų, kurias galima ištaisyti laikantis teisės aktų reikalavimų ir nesuvaržant trečiųjų asmenų teisių ir teisėtų interesų, arba gavus trečiųjų asmenų rašytinius pritarimus (susitarimus) dėl šio projekto sprendinių koregavimo; ^s-2b0b1da7d720a9ea5bb382c9
 
 
-2) kai formuojant žemės sklypą [[latest/TAR.CC10C5274343#^s-dc3ae996dd6170257f379fe8|Žemės įstatymo 22 straipsnio 2 dalies 8 punkte]] nurodytais atvejais žemės reformos žemėtvarkos projekte nebuvo nustatyti servitutai. Nustatant servitutus šiame punkte nurodytais atvejais, žemės sklypo, kuriame nustatomas servitutas, savininko arba valstybinės ar savivaldybės žemės patikėtinio sutikimas dėl žemės reformos žemėtvarkos projekto sprendinių ir jų įgyvendinimo neprivalomas. ^s-2038ade61fc62eeb17dc4078
+2) kai formuojant žemės sklypą [[latest/TAR.CC10C5274343#^s-dc3ae996dd6170257f379fe8|Žemės įstatymo 22 straipsnio 2 dalies 8 punkte]] nurodytais atvejais žemės reformos žemėtvarkos projekte nebuvo nustatyti servitutai. Nustatant servitutus šiame punkte nurodytais atvejais, žemės sklypo, kuriame nustatomas servitutas, savininko arba valstybinės ar savivaldybės žemės patikėtinio sutikimas [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) žemėtvarkos projekto sprendinių ir jų įgyvendinimo neprivalomas. ^s-2038ade61fc62eeb17dc4078
 
 
 Straipsnio pakeitimai:
@@ -996,7 +996,7 @@ Nr. XII-414, 2013-06-27, Žin., 2013, Nr. 76-3831 (2013-07-16)
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-856, 2014-04-24, paskelbta TAR 2014-04-29, i. k. 2014-04857
-LIETUVOS RESPUBLIKOS ŽEMĖS REFORMOS ĮSTATYMO NR. I-1607 8, 9 IR [[#^s-811d4357f950b6ad0d2d4037|10 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ŽEMĖS REFORMOS ĮSTATYMO NR. I-1607 [[#^s-d24a0fb638754ed80e0a0309|8]], [[#^s-2248a8232a13651b2ae7a856|9]] IR [[#^s-811d4357f950b6ad0d2d4037|10]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2014 m. gegužės 1 d.
 Iki šio įstatymo įsigaliojimo žemės reformos žemėtvarkos projekte ar jam prilyginamame žemės sklypo plane, ar kitame žemės valdos projekte, ar teritorijų planavimo dokumente suprojektuoti žemės sklypai parduodami pagal iki šio įstatymo įsigaliojimo galiojusias įstatymo nuostatas. Jeigu asmuo iki šio įstatymo įsigaliojimo teisės aktų, reglamentuojančių žemės reformos žemėtvarkos projektų ir jiems prilyginamų žemės sklypų planų rengimą ir įgyvendinimą, nustatyta tvarka pretendentų susirinkimo metu pasirinko žemės sklypą tai patvirtindamas parašu žemėtvarkos projekto svarstymo su pretendentais gauti žemės žiniaraštyje arba pretendentų susirinkimo protokole (kai rengiamas žemės reformos žemėtvarkos projektui prilyginamas žemės sklypo planas), laikoma, kad toks žemės sklypas suprojektuotas žemės reformos žemėtvarkos projekte ar jam prilyginamame žemės sklypo plane. Jeigu žemės sklypui iki šio įstatymo įsigaliojimo nustatyta tvarka išduotos planavimo sąlygos, laikoma, kad toks žemės sklypas suprojektuotas teritorijų planavimo dokumente. Jeigu žemės sklypui iki šio įstatymo įsigaliojimo nustatyta tvarka pateikti žemės valdos projekto (išskyrus žemės reformos žemėtvarkos projekto) rengimo reikalavimai, laikoma, kad toks žemės sklypas suprojektuotas žemės valdos projekte.
 
@@ -1004,7 +1004,7 @@ Iki šio įstatymo įsigaliojimo žemės reformos žemėtvarkos projekte ar jam 
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1084, 2014-07-17, paskelbta TAR 2014-07-30, i. k. 2014-10698
 LIETUVOS RESPUBLIKOS ŽEMĖS REFORMOS ĮSTATYMO NR. I-1607 [[#^s-d36c7c3337d7376e6913c7df|13 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
-Šis įstatymas, išskyrus [[#^s-f3d9ec0b6214bdca8f9da877|šio straipsnio 2 dalį]], įsigalioja 2015 m. sausio 1 d.
+Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
 
 
 Konstitucinio Teismo nutarimai:
@@ -1012,7 +1012,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2006-05-12, Žin., 2006, Nr. 54-1965 (2006-05-16)
-DĖL [[latest/TAR.101222871FF8#^s-2a6e3227c0528f5b2668b619|LIETUVOS RESPUBLIKOS ŽEMĖS REFORMOS ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO]] IR LIETUVOS RESPUBLIKOS ŽEMĖS REFORMOS ĮSTATYMO 7 STRAIPSNIO (2002 M. LAPKRIČIO 5 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS ŽEMĖS REFORMOS ĮSTATYMO 7 STRAIPSNIO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO IR LIETUVOS RESPUBLIKOS ŽEMĖS REFORMOS ĮSTATYMO 7 STRAIPSNIO (2002 M. LAPKRIČIO 5 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.245C98425703)
 
 
 
@@ -1027,7 +1027,7 @@ Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 [[#^s-73d47fbe9868e21
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1810, 2015-06-18, paskelbta TAR 2015-07-01, i. k. 2015-10573
-Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8 ir [[#^s-d36c7c3337d7376e6913c7df|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 [[#^s-d24a0fb638754ed80e0a0309|8]] ir [[#^s-d36c7c3337d7376e6913c7df|13]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1047,7 +1047,7 @@ Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 [[#^s-811d4357f950b6a
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1312, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15639
-Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 9, 10, 15, 16, 17, 18, 19 ir [[#^s-4faeed9ce2f079cc2f3bef63|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 [[#^s-2248a8232a13651b2ae7a856|9]], [[#^s-811d4357f950b6ad0d2d4037|10]], [[#^s-192a10c293a0b8b7c1276770|15]], [[#^s-fba79f9af62e4091bd0e147e|16]], [[#^s-6d8e3a3bab831f67f0a99757|17]], [[#^s-a2d8d6197230051753c41e75|18]], [[#^s-9d9a1b236ef26c7a507f1eff|19]] ir [[#^s-4faeed9ce2f079cc2f3bef63|20]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1062,17 +1062,17 @@ Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 [[#^s-9d9a1b236ef26c7
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2125, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14313
-Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8, 9, 15, 16, 17, 18, 19 ir [[#^s-4faeed9ce2f079cc2f3bef63|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 [[#^s-d24a0fb638754ed80e0a0309|8]], [[#^s-2248a8232a13651b2ae7a856|9]], [[#^s-192a10c293a0b8b7c1276770|15]], [[#^s-fba79f9af62e4091bd0e147e|16]], [[#^s-6d8e3a3bab831f67f0a99757|17]], [[#^s-a2d8d6197230051753c41e75|18]], [[#^s-9d9a1b236ef26c7a507f1eff|19]] ir [[#^s-4faeed9ce2f079cc2f3bef63|20]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2339, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25319
-Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8, 9, 15, 16, 17, 18, 19 ir [[#^s-4faeed9ce2f079cc2f3bef63|20 straipsnių]] pakeitimo [[latest/10fd3db01fa911eeb233e8b04dc9bb3d|įstatymo Nr. XIV-2125]] 2, 3, 4, 6, 7 ir [[#^s-d24a0fb638754ed80e0a0309|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 [[#^s-d24a0fb638754ed80e0a0309|8]], [[#^s-2248a8232a13651b2ae7a856|9]], [[#^s-192a10c293a0b8b7c1276770|15]], [[#^s-fba79f9af62e4091bd0e147e|16]], [[#^s-6d8e3a3bab831f67f0a99757|17]], [[#^s-a2d8d6197230051753c41e75|18]], [[#^s-9d9a1b236ef26c7a507f1eff|19]] ir [[#^s-4faeed9ce2f079cc2f3bef63|20]] straipsnių pakeitimo [[latest/10fd3db01fa911eeb233e8b04dc9bb3d|įstatymo Nr. XIV-2125]] [[#^s-d95374de4cbe7f8816f1d0bc|2]], [[#^s-ccf36e254d2339220e41994d|3]], [[#^s-e206bdff53e5c5a7e421c994|4]], [[#^s-de86e7c3023bfb890ff1de6b|6]], [[#^s-09a8985c2f4bf80c11ee5953|7]] ir [[#^s-d24a0fb638754ed80e0a0309|8]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-213, 2025-05-15, paskelbta TAR 2025-05-28, i. k. 2025-09428
-Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8, 9, 10, 13 ir [[#^s-9d9a1b236ef26c7a507f1eff|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 [[#^s-d24a0fb638754ed80e0a0309|8]], [[#^s-2248a8232a13651b2ae7a856|9]], [[#^s-811d4357f950b6ad0d2d4037|10]], [[#^s-d36c7c3337d7376e6913c7df|13]] ir [[#^s-9d9a1b236ef26c7a507f1eff|19]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1082,9 +1082,9 @@ Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 [[#^s-d36c7c3337d7376
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-705, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23004
-Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 4, 8, 10, 16, 18, 19, 20 ir [[#^s-ac6843c5f66fe2d1b4116b1b|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 [[#^s-e206bdff53e5c5a7e421c994|4]], [[#^s-d24a0fb638754ed80e0a0309|8]], [[#^s-811d4357f950b6ad0d2d4037|10]], [[#^s-fba79f9af62e4091bd0e147e|16]], [[#^s-a2d8d6197230051753c41e75|18]], [[#^s-9d9a1b236ef26c7a507f1eff|19]], [[#^s-4faeed9ce2f079cc2f3bef63|20]] ir [[#^s-ac6843c5f66fe2d1b4116b1b|21]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1068, 2026-06-25, paskelbta TAR 2026-07-03, i. k. 2026-11543
-Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8, 15, 16, 17, 19, [[#^s-ac6843c5f66fe2d1b4116b1b|21 straipsnių]] pakeitimo ir Įstatymo papildymo 16-1, 16-2, 16-3 ir 16-4 straipsniais įstatymas
+Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 [[#^s-d24a0fb638754ed80e0a0309|8]], [[#^s-192a10c293a0b8b7c1276770|15]], [[#^s-fba79f9af62e4091bd0e147e|16]], [[#^s-6d8e3a3bab831f67f0a99757|17]], [[#^s-9d9a1b236ef26c7a507f1eff|19]], [[#^s-ac6843c5f66fe2d1b4116b1b|21]] straipsnių pakeitimo ir Įstatymo papildymo 16-1, 16-2, 16-3 ir 16-4 straipsniais įstatymas

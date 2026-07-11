@@ -65,7 +65,7 @@ Būtinas valdymo organas yra administracija. Steigėjo sprendimu įmonėje gali 
 1. Papildyti 10 straipsnio 5 dalį antruoju sakiniu ir šią dalį išdėstyti taip: ^s-72a21f0578a59bc537d2560a
 
 
-„5. Darbo sutartis su administracijos vadovu, vyriausiuoju finansininku (buhalteriu) ir darbuotojais kitų pareigybių, į kurias skirti darbuotojus steigėjo teisė nustatyta įmonės įstatuose, sudaro steigėjas įmonės vardu Lietuvos Respublikos darbo sutarties įstatymo nustatyta tvarka. Jei įmonė dirba nuostolingai, steigėjas privalo svarstyti, ar administracijos vadovas yra tinkamas toliau eiti pareigas.“
+„5. Darbo sutartis su administracijos vadovu, vyriausiuoju finansininku (buhalteriu) ir darbuotojais kitų pareigybių, į kurias skirti darbuotojus steigėjo teisė nustatyta įmonės įstatuose, sudaro steigėjas įmonės vardu [Lietuvos Respublikos darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) nustatyta tvarka. Jei įmonė dirba nuostolingai, steigėjas privalo svarstyti, ar administracijos vadovas yra tinkamas toliau eiti pareigas.“
 
 
 2. Pakeisti 10 straipsnio 9 dalies antrąjį sakinį ir šią dalį išdėstyti taip: ^s-58b2115be58883b2fc7053d4

@@ -10,9 +10,8 @@ pavadinimas: "Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymas]] - Asmens duomenų, tvarkomų vykdant policijos ir teisminį bendradarbiavimą baudžiamosiose bylose, teisinės apsaugos įstatymu
-- [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymas]] - 2 citatos - Vyriausybės įstatymo
+- [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymas]] - Vyriausybės įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.5368B592234C#^s-2ad45a0fa0b1105a8993c2a4|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - 3 citatos - 1111010ISTA0XI-1372
-- [[latest/TAR.5368B592234C#^s-dccb864d3211ae6835ddd39d|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - 3 citatos - 1111010ISTA0XI-1372
+- [[latest/TAR.5368B592234C#^s-2ad45a0fa0b1105a8993c2a4|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - 2 citatos - 1111010ISTA0XI-1372

@@ -45,7 +45,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-69b17158f899a4d9aa97f66d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 2004 m. sausio 7 d. dekretą Nr. 330, ratifikuoja 2001 m. lapkričio 8 d. Strasbūre priimtą Europos konvencijos dėl savitarpio pagalbos baudžiamosiose bylose antrąjį papildomą protokolą (toliau – Protokolas) su pareiškimais ir išlygomis.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio pirmosios dalies 6 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento [2004 m. sausio 7 d. dekretą Nr. 330](https://e-tar.lt/portal/lt/legalAct/TAR.087778E6D6DF), ratifikuoja 2001 m. lapkričio 8 d. Strasbūre priimtą Europos konvencijos dėl savitarpio pagalbos baudžiamosiose bylose antrąjį papildomą protokolą (toliau – Protokolas) su pareiškimais ir išlygomis.
 
 
 
@@ -84,13 +84,13 @@ Vadovaudamasis Protokolo 33 straipsnio 2 dalimi, Lietuvos Respublikos Seimas par
 ### 4 straipsnis. Lietuvos Respublikos pareiškimai, susiję su Europos prokuratūros kompetencija ^s-026c585f3bd3f98ba09d1d09
 
 
-1. Lietuvos Respublikos Seimas, atsižvelgdamas į 2017 m. spalio 12 d. Tarybos reglamento (ES) 2017/1939, kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje, 104 straipsnį ir vadovaudamasis Konvencijos 24 straipsniu, pakeistu Protokolo 6 straipsniu, pareiškia, kad: ^s-19fb07a07b919d285678c452
+1. Lietuvos Respublikos Seimas, atsižvelgdamas į 2017 m. spalio 12 d. Tarybos [reglamento (ES) 2017/1939](https://eur-lex.europa.eu/eli/reg/2017/1939/oj), kuriuo įgyvendinamas tvirtesnis bendradarbiavimas Europos prokuratūros įsteigimo srityje, 104 straipsnį ir vadovaudamasis Konvencijos 24 straipsniu, pakeistu Protokolo 6 straipsniu, pareiškia, kad: ^s-19fb07a07b919d285678c452
 
 
-1) Europos prokuratūra, kai veikia pagal savo kompetenciją, kaip nustatyta Reglamento (ES) Nr. 2017/1939 22, 23 ir 25 straipsniuose, laikoma teismine institucija savitarpio pagalbos prašymų pagal Konvenciją ir jos protokolus išdavimo, taip pat informacijos arba įrodymų, kuriuos Europos prokuratūra jau gavo ar gali gauti inicijavusi tyrimą jos kompetencijai priklausančioje srityje, pateikimo kitos susitariančiosios šalies prašymu tikslais; ^s-916ff5abd89f3ced490a2efc
+1) Europos prokuratūra, kai veikia pagal savo kompetenciją, kaip nustatyta [Reglamento (ES) Nr. 2017/1939](https://eur-lex.europa.eu/eli/reg/2017/1939/oj) 22, 23 ir 25 straipsniuose, laikoma teismine institucija savitarpio pagalbos prašymų pagal Konvenciją ir jos protokolus išdavimo, taip pat informacijos arba įrodymų, kuriuos Europos prokuratūra jau gavo ar gali gauti inicijavusi tyrimą jos kompetencijai priklausančioje srityje, pateikimo kitos susitariančiosios šalies prašymu tikslais; ^s-916ff5abd89f3ced490a2efc
 
 
-2) Europos prokuratūra taip pat laikoma teismine institucija informacijos apie jos kompetencijai, kaip nustatyta Reglamento (ES) Nr. 2017/1939 22, 23 ir 25 straipsniuose, priklausančias nusikalstamas veikas gavimo pagal Konvencijos 21 straipsnį tikslu. ^s-aa1ede41deeded913c7a00e3
+2) Europos prokuratūra taip pat laikoma teismine institucija informacijos apie jos kompetencijai, kaip nustatyta [Reglamento (ES) Nr. 2017/1939](https://eur-lex.europa.eu/eli/reg/2017/1939/oj) 22, 23 ir 25 straipsniuose, priklausančias nusikalstamas veikas gavimo pagal Konvencijos 21 straipsnį tikslu. ^s-aa1ede41deeded913c7a00e3
 
 
 2. Lietuvos Respublikos Seimas, vadovaudamasis Konvencijos 15 straipsniu, pakeistu Protokolo [[#^s-026c585f3bd3f98ba09d1d09|4 straipsniu]], pareiškia, kad prašymai Europos prokuratūrai dėl savitarpio pagalbos, taip pat susitariančiosios šalies pagal Konvencijos 21 straipsnį pateikta informacija adresuojami tiesiogiai Europos prokuratūrai. Prašymai dėl savitarpio pagalbos siunčiami Europos prokuratūros centriniam biurui arba tos valstybės narės Europos deleguotojo (deleguotųjų) prokuroro (prokurorų) biurui (biurams). Europos prokuratūra, kai tikslinga, prašymą dėl savitarpio pagalbos perduoda kompetentingoms nacionalinėms institucijoms, jei Europos prokuratūra konkrečiu atveju neturi kompetencijos arba ja nesinaudoja. ^s-1011abe25103dc9634a79b57
@@ -99,7 +99,7 @@ Vadovaudamasis Protokolo 33 straipsnio 2 dalimi, Lietuvos Respublikos Seimas par
 3. Lietuvos Respublikos Seimas, vadovaudamasis Konvencijos 15 straipsniu, pakeistu Protokolo [[#^s-026c585f3bd3f98ba09d1d09|4 straipsniu]], taip pat pareiškia, kad prašymus pagal Konvencijos 11 straipsnį su pakeitimais, padarytais Protokolo [[#^s-a6718976808a1b86729e25bf|3 straipsniu]], ir pagal Protokolo 13 ir 14 straipsnius, kai juose yra nuoroda į Konvencijos 11 straipsnį, inicijuotus vieno iš Lietuvos Respublikoje esančių Europos deleguotųjų prokurorų, perduoda Lietuvos Respublikos generalinė prokuratūra. ^s-0f9e28dd8557afa62b8bee65
 
 
-4. Lietuvos Respublikos Seimas, vadovaudamasis Protokolo 33 straipsnio 2 dalimi, pareiškia, kad tais atvejais, kai Protokolo 20 straipsnyje nurodyta jungtinė tyrimo grupė ketina veikti Lietuvos Respublikos teritorijoje, Europos prokuratūra gali veikti kaip kompetentinga institucija pagal Protokolo 20 straipsnį, tik gavusi išankstinį Lietuvos Respublikos generalinės prokuratūros sutikimą ir laikydamasi Reglamento (ES) Nr. 2017/1939 bei taikytinos nacionalinės teisės. ^s-015cb7ae033ad9a35b832459
+4. Lietuvos Respublikos Seimas, vadovaudamasis Protokolo 33 straipsnio 2 dalimi, pareiškia, kad tais atvejais, kai Protokolo 20 straipsnyje nurodyta jungtinė tyrimo grupė ketina veikti Lietuvos Respublikos teritorijoje, Europos prokuratūra gali veikti kaip kompetentinga institucija pagal Protokolo 20 straipsnį, tik gavusi išankstinį Lietuvos Respublikos generalinės prokuratūros sutikimą ir laikydamasi [Reglamento (ES) Nr. 2017/1939](https://eur-lex.europa.eu/eli/reg/2017/1939/oj) bei taikytinos nacionalinės teisės. ^s-015cb7ae033ad9a35b832459
 
 
 Papildyta straipsniu:
@@ -113,19 +113,19 @@ Nr. XIV-444, 2021-06-22, paskelbta TAR 2021-07-02, i. k. 2021-15173
 Lietuvos Respublika naudojasi galimybe pareiškimo pagal Konvencijos 24 straipsnį, pakeistą Protokolo 6 straipsniu, teisines pasekmes aiškinti taip:
 
 
-1) Konvencijos arba jos protokolų nuoroda į prašančiąją šalį arba prašomąją šalį, kai yra Europos prokuratūros išduoti arba jai adresuoti prašymai, aiškinama kaip nuoroda į kompetentingo Europos deleguotojo prokuroro, kurio įgaliojimai ir funkcijos nurodyti Reglamento (ES) Nr. 2017/1939 13 straipsnyje, Europos Sąjungos valstybę narę; ^s-f59a07b06bbcba7e1f5e9273
+1) Konvencijos arba jos protokolų nuoroda į prašančiąją šalį arba prašomąją šalį, kai yra Europos prokuratūros išduoti arba jai adresuoti prašymai, aiškinama kaip nuoroda į kompetentingo Europos deleguotojo prokuroro, kurio įgaliojimai ir funkcijos nurodyti [Reglamento (ES) Nr. 2017/1939 13 straipsnyje](https://eur-lex.europa.eu/eli/reg/2017/1939/art_13/oj), Europos Sąjungos valstybę narę; ^s-f59a07b06bbcba7e1f5e9273
 
 
-2) Konvencijos arba jos protokolų nuoroda į prašančiosios arba prašomosios šalies teisę, kai yra Europos prokuratūros išduoti arba jai adresuoti prašymai, aiškinama kaip nuoroda į Europos Sąjungos teisę, pirmiausia į Reglamentą (ES) Nr. 2017/1939, taip pat į kompetentingo Europos deleguotojo prokuroro Europos Sąjungos valstybės narės nacionalinę teisę tiek, kiek ji taikytina pagal Reglamento (ES) Nr. 2017/1939 5 straipsnio 3 dalį; ^s-398732f17c49eb0c2c852f31
+2) Konvencijos arba jos protokolų nuoroda į prašančiosios arba prašomosios šalies teisę, kai yra Europos prokuratūros išduoti arba jai adresuoti prašymai, aiškinama kaip nuoroda į Europos Sąjungos teisę, pirmiausia į [Reglamentą (ES) Nr. 2017/1939](https://eur-lex.europa.eu/eli/reg/2017/1939/oj), taip pat į kompetentingo Europos deleguotojo prokuroro Europos Sąjungos valstybės narės nacionalinę teisę tiek, kiek ji taikytina pagal [Reglamento (ES) Nr. 2017/1939 5 straipsnio 3 dalį](https://eur-lex.europa.eu/eli/reg/2017/1939/art_5/par_3/oj); ^s-398732f17c49eb0c2c852f31
 
 
-3) tais atvejais, kai Konvencijoje arba jos protokoluose numatyta galimybė šaliai daryti pareiškimus arba išlygas, visi tokie Lietuvos Respublikos pareiškimai ir išlygos laikomi taikytinais prašymams, kuriuos kita šalis pateikė Europos prokuratūrai, ir Lietuvos Respublikoje įsikūręs Europos deleguotasis prokuroras yra kompetentingas pagal Reglamento (ES) Nr. 2017/1939 13 straipsnio 1 dalį; ^s-363ebfedaecf26923f3c7b86
+3) tais atvejais, kai Konvencijoje arba jos protokoluose numatyta galimybė šaliai daryti pareiškimus arba išlygas, visi tokie Lietuvos Respublikos pareiškimai ir išlygos laikomi taikytinais prašymams, kuriuos kita šalis pateikė Europos prokuratūrai, ir Lietuvos Respublikoje įsikūręs Europos deleguotasis prokuroras yra kompetentingas pagal [Reglamento (ES) Nr. 2017/1939 13 straipsnio 1 dalį](https://eur-lex.europa.eu/eli/reg/2017/1939/art_13/par_1/oj); ^s-363ebfedaecf26923f3c7b86
 
 
 4) Europos prokuratūra, kaip teisminė prašančioji institucija pagal Konvencijos 24 straipsnį su pakeitimais, padarytais Protokolo 6 straipsniu, laikosi visų gautos informacijos ir įrodymų naudojimo sąlygų ar apribojimų, kuriuos gali nustatyti prašomoji šalis, remdamasi Konvencija ir jos protokolais; ^s-de39fcdc97b9195680ac3f84
 
 
-5) Konvencijos 11 straipsnyje su pakeitimais, padarytais Protokolo [[#^s-a6718976808a1b86729e25bf|3 straipsniu]], ir Protokolo 13, 14 ir 23 straipsniuose prašančiajai šaliai nustatytos pareigos taip pat yra privalomos Europos deleguotojo prokuroro, kompetentingo pagal Reglamento (ES) Nr. 2017/1939 13 straipsnio 1 dalį, Europos Sąjungos valstybės narės teisminėms institucijoms. ^s-796f048b6adac7650d6b736b
+5) Konvencijos 11 straipsnyje su pakeitimais, padarytais Protokolo [[#^s-a6718976808a1b86729e25bf|3 straipsniu]], ir Protokolo 13, 14 ir 23 straipsniuose prašančiajai šaliai nustatytos pareigos taip pat yra privalomos Europos deleguotojo prokuroro, kompetentingo pagal [Reglamento (ES) Nr. 2017/1939 13 straipsnio 1 dalį](https://eur-lex.europa.eu/eli/reg/2017/1939/art_13/par_1/oj), Europos Sąjungos valstybės narės teisminėms institucijoms. ^s-796f048b6adac7650d6b736b
 
 
 Papildyta straipsniu:
@@ -153,4 +153,4 @@ Lietuvos Respublikos įstatymo „Dėl Europos konvencijos dėl savitarpio pagal
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-444, 2021-06-22, paskelbta TAR 2021-07-02, i. k. 2021-15173
-Lietuvos Respublikos įstatymo „Dėl Europos konvencijos dėl savitarpio pagalbos baudžiamosiose bylose antrojo papildomo protokolo ratifikavimo“ Nr. IX-1997 papildymo 4 ir [[#^s-3785e508778906af844d5933|5 straipsniais]] įstatymas
+Lietuvos Respublikos įstatymo „Dėl Europos konvencijos dėl savitarpio pagalbos baudžiamosiose bylose antrojo papildomo protokolo ratifikavimo“ Nr. IX-1997 papildymo [[#^s-026c585f3bd3f98ba09d1d09|4]] ir [[#^s-3785e508778906af844d5933|5]] straipsniais įstatymas

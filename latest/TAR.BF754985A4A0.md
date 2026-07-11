@@ -89,7 +89,7 @@ Lietuvos Respublikos Seimas, vadovaudamasis humanizmo principais, priima šį da
 ### 4 straipsnis. Nuteistieji, kuriems netaikoma amnestija ^s-5e45d43708fe72c6ccf49885
 
 
-1. Amnestija pagal šio įstatymo 1 ir [[#^s-30931b491b0107e393ff8f9e|2 straipsnius]] netaikoma: ^s-bd3af9c343354c194a741118
+1. Amnestija pagal šio įstatymo [[#^s-ddc957027f38a34dc7d6f8cb|1]] ir [[#^s-30931b491b0107e393ff8f9e|2]] straipsnius netaikoma: ^s-bd3af9c343354c194a741118
 
 
 1) asmenims, kuriems paskirtas laisvės atėmimas iki gyvos galvos arba mirties bausmė pakeista laisvės atėmimu iki gyvos galvos; ^s-042a4acf840f0ab7c1fb6693
@@ -130,7 +130,7 @@ Lietuvos Respublikos Seimas, vadovaudamasis humanizmo principais, priima šį da
 ### 6 straipsnis.         Amnestija ir asmenys, pažeidžiantys laisvės atėmimo bausmės atlikimo režimą ^s-7ee5c65f1584fccea206a4ec
 
 
-Šio įstatymo 1, 2 ir [[#^s-e28396f57b2e06c63feeac8f|3 straipsniuose]] nurodytiems asmenims, pažeidinėjantiems laisvės atėmimo bausmės atlikimo režimą, amnestijos komisijos sprendimu amnestija gali būti netaikoma.
+Šio įstatymo [[#^s-ddc957027f38a34dc7d6f8cb|1]], [[#^s-30931b491b0107e393ff8f9e|2]] ir [[#^s-e28396f57b2e06c63feeac8f|3]] straipsniuose nurodytiems asmenims, pažeidinėjantiems laisvės atėmimo bausmės atlikimo režimą, amnestijos komisijos sprendimu amnestija gali būti netaikoma.
 
 
 
@@ -177,7 +177,7 @@ Amnestijos pritaikymas nepanaikina teistumo.
 1) teismai – šio įstatymo [[#^s-7b88162c5b7e0f1dd6d17166|7 straipsnyje]] numatytais atvejais; ^s-6787528900482649d8023d6e
 
 
-2) Amnestijos komisijos – šio įstatymo 1, 2 ir [[#^s-e28396f57b2e06c63feeac8f|3 straipsniuose]] numatytais atvejais. ^s-a0156dbaaef7ef6a17e1a332
+2) Amnestijos komisijos – šio įstatymo [[#^s-ddc957027f38a34dc7d6f8cb|1]], [[#^s-30931b491b0107e393ff8f9e|2]] ir [[#^s-e28396f57b2e06c63feeac8f|3]] straipsniuose numatytais atvejais. ^s-a0156dbaaef7ef6a17e1a332
 
 
 

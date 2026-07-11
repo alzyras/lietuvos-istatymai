@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-a0513a25fe3366f529c6baf3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. kovo 13 d. dekretą Nr. 1K-1723, ratifikuoja 2008 m. spalio 29 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimą dėl glaudesnio bendradarbiavimo nusikaltimų prevencijos ir kovos su jais srityje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. kovo 13 d. dekretą Nr. 1K-1723](https://e-tar.lt/portal/lt/legalAct/TAR.BE3D68E04739), ratifikuoja 2008 m. spalio 29 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Jungtinių Amerikos Valstijų Vyriausybės susitarimą dėl glaudesnio bendradarbiavimo nusikaltimų prevencijos ir kovos su jais srityje.
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-1e98840da22f044e6cb19db9
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. balandžio 16 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Suomijos Respublikos Vyriausybės susitarimą dėl grąžinimo asmenų, kurie atvyko į valstybę ar gyvena joje be leidimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Suomijos Respublikos Vyriausybės susitarimą dėl grąžinimo asmenų, kurie atvyko į valstybę ar gyvena joje be leidimo, pasirašytą 1997 m. kovo 18 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. balandžio 16 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Suomijos Respublikos Vyriausybės susitarimą dėl grąžinimo asmenų, kurie atvyko į valstybę ar gyvena joje be leidimo“](https://e-tar.lt/portal/lt/legalAct/TAR.F02C3B06FF8A), ratifikuoja Lietuvos Respublikos Vyriausybės ir Suomijos Respublikos Vyriausybės susitarimą dėl grąžinimo asmenų, kurie atvyko į valstybę ar gyvena joje be leidimo, pasirašytą 1997 m. kovo 18 d. Vilniuje.
 
 
 

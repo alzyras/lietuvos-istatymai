@@ -209,7 +209,7 @@ Biudžeto asignavimų valdytojai ir jiems pavaldžių biudžetinių įstaigų ir
 ### 8 straipsnis. Biudžeto sudarymo ir vykdymo teisinis pagrindas ^s-6e3ec8e79a45febd672749d8
 
 
-1. Biudžeto sudarymo ir vykdymo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, šis Įstatymas, Seimo statutas, [[latest/TAR.F960F4CF3005|Savivaldybių biudžetų pajamų nustatymo metodikos įstatymas]], atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas, Vyriausybės patvirtintos biudžetų sudarymo ir vykdymo taisyklės ir kiti biudžeto pajamų gavimą ir programų finansavimą reglamentuojantys teisės aktai. ^s-00e2aadeb3f5e455e7fe8417
+1. Biudžeto sudarymo ir vykdymo teisinis pagrindas yra [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis Įstatymas, Seimo statutas, [[latest/TAR.F960F4CF3005|Savivaldybių biudžetų pajamų nustatymo metodikos įstatymas]], atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas, Vyriausybės patvirtintos biudžetų sudarymo ir vykdymo taisyklės ir kiti biudžeto pajamų gavimą ir programų finansavimą reglamentuojantys teisės aktai. ^s-00e2aadeb3f5e455e7fe8417
 
 
 2. Savivaldybių biudžetų teisinis pagrindas yra atitinkamų savivaldybių tarybų priimti sprendimai dėl atitinkamų biudžetinių metų savivaldybių biudžetų patvirtinimo. ^s-c199f6543bcc87e046542b26
@@ -702,7 +702,7 @@ Seimui priėmus įstatymus arba Vyriausybei priėmus nutarimus vykdant įstatymu
 1. Vyriausybė gautą valstybės biudžeto įvykdymo ataskaitą išnagrinėja, priima atitinkamus sprendimus ir Seimo statute nustatyta tvarka bei terminais pateikia Seimui tvirtinti. ^s-6a6b2c2032e1b9f3f20e78a8
 
 
-2. Valstybės biudžeto įvykdymo ataskaita tvirtinama pagal šio Įstatymo [[#^s-83cbc2aa7b76be55f4f69e0c|18 straipsnio 2 dalies]] 1–6 punktuose nurodytus rodiklius atsižvelgiant į valstybės aukštųjų mokyklų, valstybės mokslinio tyrimo įstaigų ataskaitas, sudaromas pagal visus ekonominės klasifikacijos straipsnius. ^s-011090c21a22a93b8e745f65
+2. Valstybės biudžeto įvykdymo ataskaita tvirtinama pagal šio Įstatymo [[#^s-83cbc2aa7b76be55f4f69e0c|18 straipsnio 2 dalies]] [[#^s-0ba91a8595d95722d3de8430|1]]–[[#^s-f04136fe605bbb6c7b915036|6]] punktuose nurodytus rodiklius atsižvelgiant į valstybės aukštųjų mokyklų, valstybės mokslinio tyrimo įstaigų ataskaitas, sudaromas pagal visus ekonominės klasifikacijos straipsnius. ^s-011090c21a22a93b8e745f65
 
 
 3. Savivaldybės biudžeto įvykdymo ataskaitą tvirtina savivaldybės taryba pagal rodiklius, nurodytus šio Įstatymo [[#^s-a896901508c6b00c3b49028f|26 straipsnio 4 dalyje]]. ^s-8191e396b2aa189734ea6fa4

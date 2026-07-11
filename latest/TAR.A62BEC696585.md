@@ -37,14 +37,14 @@ Vilnius
 ### 1 straipsnis. Notarų vykdomųjų įrašų, padarytų iki 1998 m. balandžio 1 d., vykdymas ^s-fc8100ea6c6c0cca36770726
 
 
-Notarų vykdomieji įrašai, padaryti iki 1998 m. balandžio 1d., yra vykdomieji dokumentai ir vykdomi pagal Civilinio proceso kodekso penktajame skyriuje išdėstytas taisykles.
+Notarų vykdomieji įrašai, padaryti iki 1998 m. balandžio 1d., yra vykdomieji dokumentai ir vykdomi pagal [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) penktajame skyriuje išdėstytas taisykles.
 
 
 
 ### 2 straipsnis.         Įkeitimu užtikrintų reikalavimų, kai išieškojimas į įkeistą turtą buvo nukreiptas iki 1998 m. balandžio 1 d., tenkinimo eiliškumas ^s-4cfc64622f33ff9041168856
 
 
-Tais atvejais, kai išieškojimas į įkeistą turtą buvo nukreiptas iki 1998 m. balandžio 1 d., įkeitimu užtikrinti kreditorių reikalavimai išieškoti iš įkeisto turto vertės tenkinami ta pačia eilės tvarka, kaip ir kreditorių, kurių reikalavimų įvykdymas užtikrintas hipotekos registre įregistruotu turto įkeitimu, reikalavimai (Civilinio proceso kodekso 4261 straipsnis).
+Tais atvejais, kai išieškojimas į įkeistą turtą buvo nukreiptas iki 1998 m. balandžio 1 d., įkeitimu užtikrinti kreditorių reikalavimai išieškoti iš įkeisto turto vertės tenkinami ta pačia eilės tvarka, kaip ir kreditorių, kurių reikalavimų įvykdymas užtikrintas hipotekos registre įregistruotu turto įkeitimu, reikalavimai ([Civilinio proceso kodekso 4261 straipsnis](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F)).
 
 
 

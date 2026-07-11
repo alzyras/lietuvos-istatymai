@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos vietos savivaldos įstatymo 6, 7, 13, 16, 19,
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - VIETOS SAVIVALDOS ĮSTATYMO 6, 7, 13, 16, 19, 20, 26, 30, 31, 32, 34, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - VIETOS SAVIVALDOS ĮSTATYMO 6, 7, 13, 16, 19, 20, 26, 30, 31, 32, 34, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

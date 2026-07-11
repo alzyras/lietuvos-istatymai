@@ -64,7 +64,7 @@ Papildyti 1 straipsnį 4 dalimi:
 3. Pakeisti 2 straipsnio 16 dalį ir ją išdėstyti taip: ^s-f9953b2578e06f8d2c31a3ac
 
 
-„16. Tarptautiniai apskaitos standartai – kaip jie apibrėžti 2002 m. liepos 19 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1606/2002 dėl Tarptautinių apskaitos standartų taikymo.“
+„16. Tarptautiniai apskaitos standartai – kaip jie apibrėžti 2002 m. liepos 19 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1606/2002](https://eur-lex.europa.eu/eli/reg/1606/2002/oj) dėl Tarptautinių apskaitos standartų taikymo.“
 
 
 4. Papildyti [[#^s-194a93572451142be3f12080|2 straipsnį]] nauja 17 dalimi: ^s-61698ec98577180d312e7a26
@@ -104,7 +104,7 @@ Pakeisti bei papildyti 3 straipsnį ir jį išdėstyti taip:
 3. Ūkio subjektai, kurių vertybiniais popieriais prekiaujama reguliuojamose rinkose, apskaitą tvarko pagal Tarptautinius apskaitos standartus. ^s-0e759ffa46a1e9c72b47039b
 
 
-4. Ribotos civilinės atsakomybės juridiniai asmenys, savo veikla siekiantys pelno, tvarkydami apskaitą vadovaujasi Verslo apskaitos standartais. Šiuos standartus parengia, patvirtina ir „Valstybės žiniose“ paskelbia Lietuvos Respublikos apskaitos institutas. Verslo apskaitos standartai turi būti parengti remiantis Europos Sąjungos teise ir Tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės juridiniai asmenys tvarkydami apskaitą vadovaujasi Verslo apskaitos standartais tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansinę atskaitomybę arba Įmonių finansinės atskaitomybės įstatymas įpareigoja ją sudaryti. ^s-51cd87bee941649b3f11e958
+4. Ribotos civilinės atsakomybės juridiniai asmenys, savo veikla siekiantys pelno, tvarkydami apskaitą vadovaujasi Verslo apskaitos standartais. Šiuos standartus parengia, patvirtina ir „Valstybės žiniose“ paskelbia Lietuvos Respublikos apskaitos institutas. Verslo apskaitos standartai turi būti parengti remiantis Europos Sąjungos teise ir Tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės juridiniai asmenys tvarkydami apskaitą vadovaujasi Verslo apskaitos standartais tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansinę atskaitomybę arba [Įmonių finansinės atskaitomybės įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C) įpareigoja ją sudaryti. ^s-51cd87bee941649b3f11e958
 
 
 5. Biudžetinės įstaigos, tvarkydamos apskaitą, vadovaujasi Biudžetinių įstaigų apskaitos standartais. Šiuos standartus patvirtina Finansų ministerija. Biudžetinių įstaigų apskaitos standartai turi būti parengti pagal Tarptautinius viešojo sektoriaus apskaitos standartus ir kitą Tarptautinės apskaitininkų federacijos Viešojo sektoriaus komiteto rengiamą metodiką (nurodymus, studijas). ^s-8f15151355d511f331185820
@@ -215,10 +215,10 @@ priedas
 1. 1978 m. liepos 25 d. Ketvirtoji Tarybos direktyva 78/660/ EEB, grindžiama Europos ekonominės bendrijos steigimo sutarties 54 straipsnio 3 dalies g punktu, dėl tam tikrų tipų bendrovių metinių atskaitomybių. ^s-1536c6134a5a21c03d294e12
 
 
-2. 2002 m. liepos 19 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1606/2002 dėl Tarptautinių apskaitos standartų taikymo. ^s-8fde65dc2647af9e8eeee223
+2. 2002 m. liepos 19 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1606/2002](https://eur-lex.europa.eu/eli/reg/1606/2002/oj) dėl Tarptautinių apskaitos standartų taikymo. ^s-8fde65dc2647af9e8eeee223
 
 
-3. 2003 m. rugsėjo 29 d. Europos Komisijos reglamentas (EB) Nr. 1725/2003 dėl pagal 2002 m. liepos 19 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1606/2002 priimtų Tarptautinių apskaitos standartų.“ ^s-674bbe60ed3fad9ae31bfe09
+3. 2003 m. rugsėjo 29 d. Europos Komisijos [reglamentas (EB) Nr. 1725/2003](https://eur-lex.europa.eu/eli/reg/1725/2003/oj) dėl pagal 2002 m. liepos 19 d. Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 1606/2002](https://eur-lex.europa.eu/eli/reg/1606/2002/oj) priimtų Tarptautinių apskaitos standartų.“ ^s-674bbe60ed3fad9ae31bfe09
 
 
 

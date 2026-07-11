@@ -130,7 +130,7 @@ patento panaikinimo.“
 2. Papildyti 40 straipsnį 2 dalimi: ^s-2a988cebee74719564159bde
 
 
-„Ginčai dėl Lietuvos Respublikos Vyriausybės nutarimo dėl leidimo naudoti patentuotą išradimą suteikimo, patentuoto išradimo naudojimo su Vyriausybės leidimu sąlygų pakeitimo, atlyginimo patentuoto išradimo savininkui už tokio patento naudojimą dydžio nustatymo bei leidimo panaikinimo sprendžiami įstatymų nustatyta tvarka.“
+„Ginčai [dėl Lietuvos Respublikos Vyriausybės](https://e-tar.lt/portal/lt/legalAct/TAR.7B11B97BAFCE) nutarimo dėl leidimo naudoti patentuotą išradimą suteikimo, patentuoto išradimo naudojimo su Vyriausybės leidimu sąlygų pakeitimo, atlyginimo patentuoto išradimo savininkui už tokio patento naudojimą dydžio nustatymo bei leidimo panaikinimo sprendžiami įstatymų nustatyta tvarka.“
 
 
 

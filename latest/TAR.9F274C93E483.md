@@ -79,13 +79,13 @@ Specialiosios programos finansavimo šaltiniai:
 1. Specialiosios programos lėšos naudojamos: ^s-123dc599f8f3a6282ddee6bd
 
 
-1) priemonėms, kuriomis kompensuojama aplinkai padaryta žala, gamtosaugos objektams projektuoti, statyti, rekonstruoti, remontuoti, eksploatuoti, aplinkos teršimo šaltiniams pašalinti (ne mažiau kaip 70 procentų Specialiosios programos lėšų, neįskaitant įplaukų pagal [[#^s-34b74723fcec92bd033f5a52|3 straipsnio 2 punktą]]); ^s-3fcd5a5b2e12214ac404ad8a
+1) priemonėms, kuriomis kompensuojama aplinkai padaryta žala, gamtosaugos objektams projektuoti, statyti, rekonstruoti, remontuoti, eksploatuoti, aplinkos teršimo šaltiniams pašalinti (ne mažiau kaip 70 procentų Specialiosios programos lėšų, neįskaitant įplaukų pagal 3 straipsnio 2 punktą); ^s-3fcd5a5b2e12214ac404ad8a
 
 
-2) gyventojų sveikatos apsaugai (20 procentų Specialiosios programos lėšų, neįskaitant įplaukų pagal [[#^s-34b74723fcec92bd033f5a52|3 straipsnio 2 punktą]]); ^s-75b25ead7e3758fe48ad8d93
+2) gyventojų sveikatos apsaugai (20 procentų Specialiosios programos lėšų, neįskaitant įplaukų pagal 3 straipsnio 2 punktą); ^s-75b25ead7e3758fe48ad8d93
 
 
-3) finansiškai remti miško sklypų, kuriuose medžioklė nėra uždrausta, savininkus, valdytojus ir naudotojus, įgyvendinančius žalos prevencijos priemones, kuriomis jie siekia išvengti medžiojamųjų gyvūnų daromos žalos miškui (želdinių apdorojimas repelentais, aptvėrimas tvoromis ar apsauginėmis juostomis, želdinių, gerinančių laukinių gyvūnų natūralias mitybos sąlygas, veisimas ir kitos priemonės), įsigyti kartografinę ir kitą medžiagą, reikalingą pagal Medžioklės įstatymo reikalavimus rengiamiems medžioklės plotų vienetų sudarymo ar jų ribų pakeitimo projektams parengti – įplaukos pagal 3 straipsnio 2 punktą; ^s-81409ff4bcf475ddc9d09fde
+3) finansiškai remti miško sklypų, kuriuose medžioklė nėra uždrausta, savininkus, valdytojus ir naudotojus, įgyvendinančius žalos prevencijos priemones, kuriomis jie siekia išvengti medžiojamųjų gyvūnų daromos žalos miškui (želdinių apdorojimas repelentais, aptvėrimas tvoromis ar apsauginėmis juostomis, želdinių, gerinančių laukinių gyvūnų natūralias mitybos sąlygas, veisimas ir kitos priemonės), įsigyti kartografinę ir kitą medžiagą, reikalingą pagal [[latest/TAR.A92E17FDCD13|Medžioklės įstatymo reikalavimus rengiamiems medžioklės plotų vienetų sudarymo ar jų ribų pakeitimo projektams parengti – įplaukos pagal 3 straipsnio 2 punktą]]; ^s-81409ff4bcf475ddc9d09fde
 
 
 4) kitoms aplinkos apsaugos priemonėms; ^s-65775caad078aa880fb07450
@@ -117,10 +117,10 @@ Specialiosios programos finansavimo šaltiniai:
 Įsigaliojus šiam Įstatymui, netenka galios:
 
 
-1) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas „Dėl savivaldybės gamtos apsaugos fondo nuostatų“ (Žin., 1991, Nr. 31-829; 2000, Nr. 88-2691; 2002, Nr. 93-3961); ^s-f6ce0e66ab9c58d53e4af66d
+1) Lietuvos Respublikos Aukščiausiosios Tarybos nutarimas [„Dėl savivaldybės gamtos apsaugos fondo nuostatų“](https://e-tar.lt/portal/lt/legalAct/TAR.7E1849062856) (Žin., 1991, Nr. 31-829; 2000, Nr. 88-2691; 2002, Nr. 93-3961); ^s-f6ce0e66ab9c58d53e4af66d
 
 
-2) Lietuvos Respublikos Seimo nutarimas „Dėl savivaldybių sveikatos fondų tipinių nuostatų patvirtinimo“ (Žin., 1997, Nr. 60-1405; 2001, Nr. 85-2973). ^s-adf64bc2a31fed2f8ff1efb8
+2) Lietuvos Respublikos Seimo nutarimas [„Dėl savivaldybių sveikatos fondų tipinių nuostatų patvirtinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.0A21B8767507) (Žin., 1997, Nr. 60-1405; 2001, Nr. 85-2973). ^s-adf64bc2a31fed2f8ff1efb8
 
 
 

@@ -45,7 +45,7 @@ Pakeisti ir papildyti 59 straipsnį ir jį išdėstyti taip:
 „59 straipsnis. Valstybės institucijos ir vaiko teisių apsauga
 
 
-1. Pagal savo kompetenciją, kurią nustato Lietuvos Respublikos Konstitucija, šis ir kiti įstatymai bei teisės aktai, Lietuvos Respublikos Seimas, Vyriausybė, ministerijos, prokuratūra, kitos valstybės institucijos rengia ir įgyvendina priemones vaiko teisių apsaugos ir jų gynimo srityje. ^s-4b4ba8b4064d12c7a441d313
+1. Pagal savo kompetenciją, kurią nustato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis ir kiti įstatymai bei teisės aktai, Lietuvos Respublikos Seimas, Vyriausybė, ministerijos, prokuratūra, kitos valstybės institucijos rengia ir įgyvendina priemones vaiko teisių apsaugos ir jų gynimo srityje. ^s-4b4ba8b4064d12c7a441d313
 
 
 2. Lietuvos Respublikos Vyriausybė vaiko teisių apsaugos ir jų gynimo srityje: ^s-9ed872d97b654dfc1c617165

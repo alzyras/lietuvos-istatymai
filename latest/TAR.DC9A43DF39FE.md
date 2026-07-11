@@ -56,13 +56,13 @@ Vilnius
 3) Vyriausybės nutarimu, priimtu vadovaujantis tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, nustatančiais Europos Sąjungos ar atskirų valstybių finansinės paramos Lietuvai teikimo mastą, principus ar bendrąsias taisykles, ir laikantis [[#^s-b845b4cf41da43130aa524c5|šio straipsnio 2 dalies]] nuostatų.“ ^s-2c345e8c9406d6e3bda7fd39
 
 
-2. Papildyti 41 straipsnį nauja [[#^s-b845b4cf41da43130aa524c5|2 dalimi]]: ^s-b845b4cf41da43130aa524c5
+2. Papildyti 41 straipsnį nauja 2 dalimi: ^s-b845b4cf41da43130aa524c5
 
 
 „2. Viešosioms įstaigoms, kurių savininkė ar dalininkė yra valstybė ar savivaldybė, viešojo administravimo įgaliojimai gali būti suteikiami tik įstatymais, tiesiogiai taikomu Europos Sąjungos teisės aktu, ratifikuota Lietuvos Respublikos tarptautine sutartimi, kai tame teisės akte nurodoma konkreti veikianti ar numatoma steigti viešoji įstaiga (jos pavadinimas, prireikus santykiai su kitais viešojo administravimo subjektais ir kt.) ir nustatomas baigtinis konkrečių tokiai viešajai įstaigai suteikiamų viešojo administravimo įgaliojimų sąrašas.“
 
 
-3. Buvusias 41 straipsnio 2 ir [[#^s-101350809ff17fb12fe914d5|3 dalis]] laikyti atitinkamai 3 ir 4 dalimis. ^s-101350809ff17fb12fe914d5
+3. Buvusias 41 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis. ^s-101350809ff17fb12fe914d5
 
 
 

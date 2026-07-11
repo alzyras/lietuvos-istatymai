@@ -58,7 +58,7 @@ Papildyti [[#^s-24f790baecec34b707649557|1 straipsnį 2 dalimi]] ir visą straip
 ### 2 straipsnis. 6 straipsnio pakeitimas ir papildymas ^s-c78439cfcb7e63dee40408e8
 
 
-Pakeisti 6 straipsnio 5, 6, 7, 10, 11, 12, 13, [[#^s-9abf405184be0e09ec273a59|14 punktus]], straipsnį papildyti 25, 26, 27, [[#^s-48e7f53c4626c7132607db6e|28 punktais]] ir jį išdėstyti taip:
+Pakeisti 6 straipsnio 5, 6, 7, 10, 11, 12, 13, 14 punktus, straipsnį papildyti 25, 26, 27, 28 punktais ir jį išdėstyti taip:
 
 
 

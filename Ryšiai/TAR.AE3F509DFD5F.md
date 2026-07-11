@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos smulkaus ir vidutinio verslo plėtros įstaty
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.640D50DB8877|Lietuvos Respublikos smulkiojo ir vidutinio verslo plėtros įstatymas]] - Lietuvos Respublikos smulkaus ir vidutinio verslo plėtros įstatymo
+_Nėra._
 
 ## Šį įstatymą cituoja
 

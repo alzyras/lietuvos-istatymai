@@ -40,10 +40,10 @@ Vilnius
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos įstatymą „Dėl notarinių veiksmų atlikimo kaimo vietovėse“ (Žin., 1995, Nr. 53-1301); ^s-e3d46f9f87e8637af922ee54
+1) Lietuvos Respublikos įstatymą [„Dėl notarinių veiksmų atlikimo kaimo vietovėse“](https://e-tar.lt/portal/lt/legalAct/TAR.6941238EE8DF) (Žin., 1995, Nr. 53-1301); ^s-e3d46f9f87e8637af922ee54
 
 
-2) Lietuvos Respublikos įstatymo „Dėl notarinių veiksmų atlikimo kaimo vietovėse“ pakeitimo įstatymą  (Žin., 1997, Nr. 33-815). ^s-aea505890fcc551e9bc5b19d
+2) Lietuvos Respublikos įstatymo [„Dėl notarinių veiksmų atlikimo kaimo vietovėse“](https://e-tar.lt/portal/lt/legalAct/TAR.6941238EE8DF) pakeitimo įstatymą  (Žin., 1997, Nr. 33-815). ^s-aea505890fcc551e9bc5b19d
 
 
 

@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-a8d5c4d10663b52d193cd999
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2010 m. gruodžio 20 d. dekretą Nr. 1K-559, ratifikuoja 2008 m. spalio 15 d. Bridžtaune priimtą CARIFORUM valstybių ir Europos bendrijos bei jos valstybių narių ekonominės partnerystės susitarimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2010 m. gruodžio 20 d. dekretą Nr. 1K-559](https://e-tar.lt/portal/lt/legalAct/TAR.04B3FD0417EC), ratifikuoja 2008 m. spalio 15 d. Bridžtaune priimtą CARIFORUM valstybių ir Europos bendrijos bei jos valstybių narių ekonominės partnerystės susitarimą.
 
 
 

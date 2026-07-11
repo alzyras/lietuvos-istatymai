@@ -263,7 +263,7 @@ Su atliekų tvarkymu susiję dokumentai turi būti saugomi Vyriausybės ar jos �
 3) atliekų saugojimo, naudojimo ar šalinimo įrenginių priežiūros po uždarymo priemonės, trukmė ir išlaidos; ^s-67f7570a1f838f907211635d
 
 
-4) šios dalies 1–[[#^s-67f7570a1f838f907211635d|3 punktuose]] numatytoms priemonėms įgyvendinti būtinų lėšų kaupimo sistema. ^s-6a23120cdeb7e79615310b65
+4) šios dalies [[#^s-7a3b898196084bb12602af32|1]]–[[#^s-67f7570a1f838f907211635d|3]] punktuose numatytoms priemonėms įgyvendinti būtinų lėšų kaupimo sistema. ^s-6a23120cdeb7e79615310b65
 
 
 3. Įmonė turi turėti draudimo kompanijos ar banko garantą, užtikrinantį atliekų tvarkymo veiklos nutraukimo plane numatytų priemonių finansavimą įmonės bankroto ar kitu atveju, kai įmonė privalo nutraukti atliekų saugojimo, naudojimo ar šalinimo veiklą ir neturi sukaupusi tam reikalingų lėšų. Dokumentai, patvirtinantys garanto suteikimą, yra neatsiejama atliekų tvarkymo veiklos nutraukimo plano dalis. ^s-c104cc968d81db247f613b59
@@ -670,7 +670,7 @@ Vyriausybė ar jos įgaliota institucija:
 ### 2 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-fdb4582880de4fed8fdb93b6
 
 
-Lietuvos Respublikos atliekų tvarkymo įstatymo 32, 33, 34 straipsnių pakeitimo ir papildymo įstatymą (Žin., 2002, Nr. 13-475) pripažinti netekusiu galios.
+[[latest/TAR.8D38517814F1|Lietuvos Respublikos atliekų tvarkymo įstatymo]] [[latest/TAR.8D38517814F1|32]], [[latest/TAR.8D38517814F1|33]], [[latest/TAR.8D38517814F1|34]] straipsnių pakeitimo ir papildymo įstatymą (Žin., 2002, Nr. 13-475) pripažinti netekusiu galios.
 
 
 

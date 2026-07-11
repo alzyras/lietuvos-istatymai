@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-70d28bafc6c83808eebe3924
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. lapkričio 7 d. dekretą Nr. 1075, ratifikuoja Sutartį dėl vienodų techninių nurodymų ratinėms transporto priemonėms, įrangai ir dalims, kurios gali būti sumontuotos ir (arba) naudojamos ratinėse transporto priemonėse, priėmimo ir pagal šiuos nurodymus išduotų patvirtinimų abipusio pripažinimo sąlygų.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2000 m. lapkričio 7 d. dekretą Nr. 1075](https://e-tar.lt/portal/lt/legalAct/TAR.3AA4538636FF), ratifikuoja Sutartį dėl vienodų techninių nurodymų ratinėms transporto priemonėms, įrangai ir dalims, kurios gali būti sumontuotos ir (arba) naudojamos ratinėse transporto priemonėse, priėmimo ir pagal šiuos nurodymus išduotų patvirtinimų abipusio pripažinimo sąlygų.
 
 
 

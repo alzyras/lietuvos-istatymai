@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.CB9B34EA4BA1#^s-5698c101decbd35912fce749|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas]] - 3 citatos - 0981010ISTAVIII-943
-- [[latest/TAR.CB9B34EA4BA1#^s-8a7e7c000662b90f3fa806b1|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas]] - 3 citatos - 0981010ISTAVIII-943
+- [[latest/TAR.CB9B34EA4BA1#^s-8a7e7c000662b90f3fa806b1|Lietuvos Respublikos meno kūrėjo ir meno kūrėjų organizacijų statuso įstatymas]] - 2 citatos - 0981010ISTAVIII-943

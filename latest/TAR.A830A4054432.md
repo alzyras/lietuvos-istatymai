@@ -41,13 +41,13 @@ Vilnius
 ### 1 straipsnis. Saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnyje išdėstyto Saugaus eismo automobilių keliais įstatymo 17 straipsnio 2 dalies ir 19 straipsnio 2 dalies pakeitimas ^s-d7ccdd018c82fe0866139f06
 
 
-1. Pakeisti Saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnyje išdėstyto [[latest/TAR.5DC1759E42CB#^s-ad2d3c41fd5b53a4817fdb8c|Saugaus eismo automobilių keliais įstatymo 17 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-ec5610df1d3205446fc5e173
+1. Pakeisti [[latest/TAR.8D97CD7E1857|Saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnyje]] išdėstyto [[latest/TAR.5DC1759E42CB#^s-ad2d3c41fd5b53a4817fdb8c|Saugaus eismo automobilių keliais įstatymo 17 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-ec5610df1d3205446fc5e173
 
 
 „2. Dviračio vairuotojui leidžiama važiuoti keliu tik tvarkingą stabdį ir garso signalą turinčiu dviračiu. Dviračio gale turi būti raudonas šviesos atšvaitas, iš abiejų šonų – oranžiniai šviesos atšvaitai arba kiti šviesą atspindintys elementai, pritvirtinti prie ratų stipinų. Važiuojant keliu tamsiuoju paros metu arba esant blogam matomumui, priekyje turi degti baltos šviesos žibintas, o gale – raudonos šviesos žibintas, dviračio vairuotojas privalo dėvėti šviesą atspindinčią liemenę arba būti prie drabužių kitiems eismo dalyviams matomoje vietoje prisisegęs šviesą atspindinčius elementus. Dviračio vairuotojai (keleiviai) iki 18 metų, važiuodami (vežami) keliu, privalo būti užsidėję ir užsisegę šalmą. Kitiems vyresniems kaip 18 metų asmenims, dviračiu važiuojantiems keliu, rekomenduojama būti užsidėjus ir užsisegus šalmą.“
 
 
-2. Pakeisti Saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnyje išdėstyto [[latest/TAR.5DC1759E42CB#^s-f0c73ea99c184fd5227529c0|Saugaus eismo automobilių keliais įstatymo 19 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-4c340490b7b4db597a76f322
+2. Pakeisti [[latest/TAR.8D97CD7E1857|Saugaus eismo automobilių keliais įstatymo pakeitimo įstatymo 1 straipsnyje]] išdėstyto [[latest/TAR.5DC1759E42CB#^s-f0c73ea99c184fd5227529c0|Saugaus eismo automobilių keliais įstatymo 19 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-4c340490b7b4db597a76f322
 
 
 „2. Specialiųjų transporto priemonių (policijos, greitosios medicinos pagalbos ir priešgaisrinės apsaugos ir gelbėjimo tarnybų, dujų įmonių avarinių tarnybų), taip pat specialiomis spalvomis nudažytų ir nenudažytų vidaus reikalų statutinių įstaigų, prokuratūros, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos, Karo policijos, muitinės, Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos transporto priemonių vairuotojai, važiuodami kelyje su įjungtais mėlynais ir (ar) raudonais (arba tik mėlynais) žybčiojančiais švyturėliais ir (ar) specialiaisiais garso signalais, gali pasinaudoti pirmenybe tik jei tai nepakenks eismo saugumui ir tik tuo atveju, kai įsitikina, kad jiems duodamas kelias.“

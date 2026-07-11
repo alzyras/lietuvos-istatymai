@@ -38,31 +38,31 @@ PROFESINIO MOKYMO ĮSTATYMO NR. VIII-450 121 STRAIPSNIO PAKEITIMO
 ### 1 straipsnis. 121 straipsnio pakeitimas ^s-c5418c6ee7fe984d7b841925
 
 
-1. Pakeisti 121 straipsnio 1 dalį ir ją išdėstyti taip: ^s-da27c8568df8d11a9616e226
+1. Pakeisti [[latest/TAR.44FA08A7226F|121 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-da27c8568df8d11a9616e226
 
 
 „1. Formalųjį profesinį mokymą gali vykdyti juridiniai asmenys, kitos juridinio asmens statuso neturinčios Lietuvos ar kitos valstybės narės organizacijos ir jų padaliniai, įsteigti Lietuvos Respublikoje, arba fiziniai asmenys, kurie naudojasi Europos Sąjungos teisės aktuose jiems suteiktomis judėjimo valstybėse narėse teisėmis, turintys formaliojo profesinio mokymo licenciją (toliau – licencija), kuri suteikia teisę vykdyti Licencijų registre juridiniam ar fiziniam asmeniui įrašytas formaliojo profesinio mokymo programas.“
 
 
-2. Pakeisti 121 straipsnio 8 dalies 4 punktą ir jį išdėstyti taip: ^s-e52f9a1f482c67b40553adf9
+2. Pakeisti [[latest/TAR.44FA08A7226F|121 straipsnio 8 dalies 4 punktą]] ir jį išdėstyti taip: ^s-e52f9a1f482c67b40553adf9
 
 
 „4) jeigu nustatoma, kad juridinis asmuo, kita juridinio asmens statuso neturinti Lietuvos ar kitos valstybės narės organizacija ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, nesilaiko Formaliojo profesinio mokymo licencijavimo taisyklėse nustatytų licencijuojamos veiklos sąlygų.“
 
 
-3. Pakeisti 121 straipsnio 10 dalies 1 punktą ir jį išdėstyti taip: ^s-f9bbcab54a2c241d987ddf74
+3. Pakeisti [[latest/TAR.44FA08A7226F|121 straipsnio 10 dalies 1 punktą]] ir jį išdėstyti taip: ^s-f9bbcab54a2c241d987ddf74
 
 
 „1) juridinio asmens, kitos juridinio asmens statuso neturinčios Lietuvos ar kitos valstybės narės organizacijos ir jos padalinio, įsteigto Lietuvos Respublikoje, arba fizinio asmens, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, prašymu;“.
 
 
-4. Pakeisti 121 straipsnio 10 dalies 3 punktą ir jį išdėstyti taip: ^s-bc703a1dc88210c5f494ba85
+4. Pakeisti [[latest/TAR.44FA08A7226F|121 straipsnio 10 dalies 3 punktą]] ir jį išdėstyti taip: ^s-bc703a1dc88210c5f494ba85
 
 
 „3) kai paaiškėja, kad juridinis asmuo, kita juridinio asmens statuso neturinti Lietuvos ar kitos valstybės narės organizacija ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, licencijai gauti pateiktuose dokumentuose nurodė klaidingus duomenis;“.
 
 
-5. Pakeisti 121 straipsnio 10 dalies 4 punktą ir jį išdėstyti taip: ^s-fef0430749987823bd3e814a
+5. Pakeisti [[latest/TAR.44FA08A7226F|121 straipsnio 10 dalies 4 punktą]] ir jį išdėstyti taip: ^s-fef0430749987823bd3e814a
 
 
 „4) kai juridinis asmuo, kita juridinio asmens statuso neturinti Lietuvos ar kitos valstybės narės organizacija ir jos padalinys, įsteigtas Lietuvos Respublikoje, arba fizinis asmuo, kuris naudojasi Europos Sąjungos teisės aktuose jam suteiktomis judėjimo valstybėse narėse teisėmis, kuriam licencijos galiojimas buvo sustabdytas, per nustatytą terminą nepašalina pažeidimų, dėl kurių licencijos galiojimas buvo sustabdytas;“.

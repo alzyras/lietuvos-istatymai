@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-a4028cf5e5f824a641e728e0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. vasario 21 d. dekretą Nr. 535, ratifikuoja 2005 m. lapkričio 21 d. Sofijoje pasirašytą Lietuvos Respublikos Vyriausybės ir Bulgarijos Respublikos Vyriausybės susitarimą dėl investicijų skatinimo ir apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. vasario 21 d. dekretą Nr. 535](https://e-tar.lt/portal/lt/legalAct/TAR.DAAEBBF063A6), ratifikuoja 2005 m. lapkričio 21 d. Sofijoje pasirašytą Lietuvos Respublikos Vyriausybės ir Bulgarijos Respublikos Vyriausybės susitarimą dėl investicijų skatinimo ir apsaugos.
 
 
 

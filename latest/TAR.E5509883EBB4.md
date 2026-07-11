@@ -450,7 +450,7 @@ Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
 5) dokumentai ir informacija apie bendrovės akcininkų lėšų, naudotų bendrovės vardinėms akcijoms įsigyti, kilmę (pinigų gavimo šaltinius); ^s-aa4fe66958614821b13b8352
 
 
-6) rašytinis patvirtinimas, kad bendrovė atitinka šio įstatymo [[#^s-1b5345c252275f80be0fa33b|10 straipsnio]] 4 ir 14 dalyse ir [[#^s-bec1c8cf046e78c477a90b59|14 straipsnyje]] nustatytus reikalavimus; ^s-0d7bce31ebca982ae72edfe1
+6) rašytinis patvirtinimas, kad bendrovė atitinka šio įstatymo [[#^s-1b5345c252275f80be0fa33b|10 straipsnio]] [[#^s-84d5da1b9f2f1ad9e941676b|4]] ir [[#^s-a64dfa3686c8fcec66918594|14]] dalyse ir [[#^s-bec1c8cf046e78c477a90b59|14 straipsnyje]] nustatytus reikalavimus; ^s-0d7bce31ebca982ae72edfe1
 
 
 7) paskutinių ir einamųjų metų finansinių ataskaitų rinkiniai kartu su auditoriaus išvadomis (jeigu lošimų veikla numato verstis veikianti bendrovė) ar bendrovės balansas (jeigu lošimų veikla ketina verstis įsteigta nauja ir veiklos nevykdžiusi bendrovė). Paskutinių metų finansinių ataskaitų rinkinys kartu su auditoriaus išvada pateikiamas tik tuo atveju, jeigu Akcinių bendrovių įstatyme nustatyta tvarka bendrovė šios informacijos nėra pateikusi Juridinių asmenų registro duomenų tvarkytojui. ^s-577f6eb06d415249fd176bf6
@@ -477,19 +477,19 @@ Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
 
 
 
-3. Priežiūros tarnyba, gavusi šio straipsnio 1 ir [[#^s-ab998b80034b15e65ce99d66|2 dalyse]] nurodytus dokumentus ir duomenis, ne vėliau kaip per 3 darbo dienas nuo prašymo išduoti licenciją gavimo dienos kreipiasi į Juridinių asmenų registro duomenų tvarkytoją, kad šis pateiktų bendrovės steigimo ir finansinės atskaitomybės dokumentus, bendrovės paskutinių metų finansinių ataskaitų rinkinį kartu su auditoriaus išvada, ir Juridinių asmenų dalyvių informacinės sistemos duomenų tvarkytoją, kad šis pateiktų bendrovės (jeigu lošimų veikla numato verstis uždaroji akcinė bendrovė) akcininkų, stebėtojų tarybos, valdybos narių, bendrovę kontroliuojančių asmenų sąrašą. ^s-63994d44c89c75fdd7bc1e0e
+3. Priežiūros tarnyba, gavusi šio straipsnio [[#^s-6adff284e7174e70c3ca203e|1]] ir [[#^s-ab998b80034b15e65ce99d66|2]] dalyse nurodytus dokumentus ir duomenis, ne vėliau kaip per 3 darbo dienas nuo prašymo išduoti licenciją gavimo dienos kreipiasi į Juridinių asmenų registro duomenų tvarkytoją, kad šis pateiktų bendrovės steigimo ir finansinės atskaitomybės dokumentus, bendrovės paskutinių metų finansinių ataskaitų rinkinį kartu su auditoriaus išvada, ir Juridinių asmenų dalyvių informacinės sistemos duomenų tvarkytoją, kad šis pateiktų bendrovės (jeigu lošimų veikla numato verstis uždaroji akcinė bendrovė) akcininkų, stebėtojų tarybos, valdybos narių, bendrovę kontroliuojančių asmenų sąrašą. ^s-63994d44c89c75fdd7bc1e0e
 Straipsnio dalies pakeitimai:
 Nr. XV-517, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19754
 
 
 
-4. Priežiūros tarnyba, gavusi šio straipsnio 1, 2 ir [[#^s-63994d44c89c75fdd7bc1e0e|3 dalyse]] nurodytus dokumentus ir duomenis, ne vėliau kaip per 7 darbo dienas nuo prašymo išduoti licenciją gavimo dienos juos įvertina ir, įsitikinusi, kad pateikti visi tinkamai užpildyti privalomi pateikti dokumentai ir duomenys, prašančiai išduoti licenciją bendrovei išsiunčia šių dokumentų ir duomenų gavimą patvirtinantį dokumentą bei nurodo [[#^s-43a9ae86ff5fa8109d3b9743|šio straipsnio 7 dalyje]] nurodytą licencijos išdavimo terminą. Jeigu prašyme išduoti licenciją ar su juo pateiktuose dokumentuose nurodyti neteisingi duomenys ar pateikti ne visi privalomi pateikti dokumentai ir informacija, ne vėliau kaip per 7 darbo dienas nuo prašymo išduoti licenciją gavimo dienos bendrovei pranešama apie nustatytus trūkumus, nurodomas ne trumpesnis kaip 10 darbo dienų terminas jiems pašalinti ir nurodomas [[#^s-43a9ae86ff5fa8109d3b9743|šio straipsnio 7 dalyje]] nurodytas licencijos išdavimo terminas. ^s-730225da7e36c0f10e704b8c
+4. Priežiūros tarnyba, gavusi šio straipsnio [[#^s-6adff284e7174e70c3ca203e|1]], [[#^s-ab998b80034b15e65ce99d66|2]] ir [[#^s-63994d44c89c75fdd7bc1e0e|3]] dalyse nurodytus dokumentus ir duomenis, ne vėliau kaip per 7 darbo dienas nuo prašymo išduoti licenciją gavimo dienos juos įvertina ir, įsitikinusi, kad pateikti visi tinkamai užpildyti privalomi pateikti dokumentai ir duomenys, prašančiai išduoti licenciją bendrovei išsiunčia šių dokumentų ir duomenų gavimą patvirtinantį dokumentą bei nurodo [[#^s-43a9ae86ff5fa8109d3b9743|šio straipsnio 7 dalyje]] nurodytą licencijos išdavimo terminą. Jeigu prašyme išduoti licenciją ar su juo pateiktuose dokumentuose nurodyti neteisingi duomenys ar pateikti ne visi privalomi pateikti dokumentai ir informacija, ne vėliau kaip per 7 darbo dienas nuo prašymo išduoti licenciją gavimo dienos bendrovei pranešama apie nustatytus trūkumus, nurodomas ne trumpesnis kaip 10 darbo dienų terminas jiems pašalinti ir nurodomas [[#^s-43a9ae86ff5fa8109d3b9743|šio straipsnio 7 dalyje]] nurodytas licencijos išdavimo terminas. ^s-730225da7e36c0f10e704b8c
 
 
-5. Priežiūros tarnyba per 7 darbo dienas nuo visų šio straipsnio 1, 2 ir [[#^s-63994d44c89c75fdd7bc1e0e|3 dalyse]] nurodytų tinkamų dokumentų ir informacijos gavimo dienos turi: ^s-f6117291ee3fae6ef2ca1322
+5. Priežiūros tarnyba per 7 darbo dienas nuo visų šio straipsnio [[#^s-6adff284e7174e70c3ca203e|1]], [[#^s-ab998b80034b15e65ce99d66|2]] ir [[#^s-63994d44c89c75fdd7bc1e0e|3]] dalyse nurodytų tinkamų dokumentų ir informacijos gavimo dienos turi: ^s-f6117291ee3fae6ef2ca1322
 
 
-1) kreiptis į Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų tvarkytoją, siekdama patikrinti, ar bendrovė arba [[#^s-6adff284e7174e70c3ca203e|šio straipsnio 1 dalies]] 2, 3, 31 ir 32 punktuose ir 2 [[#^s-75decde7551161f7c85837e4|dalies 3 punkte]] nurodyti asmenys atitinka šio įstatymo [[#^s-6fc041fe72adc8a10ad3dfa4|11 straipsnio]] 1 ir [[#^s-ab998b80034b15e65ce99d66|2 dalyse]] nustatytus nepriekaištingos reputacijos reikalavimus; ^s-94e0358e69c5a134db154806
+1) kreiptis į Įtariamųjų, kaltinamųjų ir nuteistųjų registro duomenų tvarkytoją, siekdama patikrinti, ar bendrovė arba [[#^s-6adff284e7174e70c3ca203e|šio straipsnio 1 dalies]] [[#^s-a5491c4b3789dd85ce7fdd13|2]], [[#^s-75decde7551161f7c85837e4|3]], 31 ir 32 punktuose ir 2 [[#^s-75decde7551161f7c85837e4|dalies 3 punkte]] nurodyti asmenys atitinka šio įstatymo [[#^s-6fc041fe72adc8a10ad3dfa4|11 straipsnio]] [[#^s-5148a8e2ed5a188396446259|1]] ir [[#^s-03bfc3c01c8fc33a09fe0ac0|2]] dalyse nustatytus nepriekaištingos reputacijos reikalavimus; ^s-94e0358e69c5a134db154806
 Straipsnio punkto pakeitimai:
 Nr. XV-517, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19754
 
@@ -501,7 +501,7 @@ Nr. XV-517, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19754
 
 
 
-3) kreiptis į Finansinių nusikaltimų tyrimo tarnybą prie Vidaus reikalų ministerijos dėl turimos neigiamos informacijos apie bendrovę ir [[#^s-6adff284e7174e70c3ca203e|šio straipsnio 1 dalies]] 2, 3, 31 ir 32 punktuose ir 2 dalies 3 punkte nurodytus asmenis pateikimo; ^s-75decde7551161f7c85837e4
+3) kreiptis į Finansinių nusikaltimų tyrimo tarnybą prie Vidaus reikalų ministerijos dėl turimos neigiamos informacijos apie bendrovę ir [[#^s-6adff284e7174e70c3ca203e|šio straipsnio 1 dalies]] [[#^s-a5491c4b3789dd85ce7fdd13|2]], 3, 31 ir 32 punktuose ir 2 dalies 3 punkte nurodytus asmenis pateikimo; ^s-75decde7551161f7c85837e4
 
 
 4) patikrinti, ar bendrovė neturi mokestinių nepriemokų Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams ar fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija, ar neturi skolos Valstybinio socialinio draudimo fondo biudžetui (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas) (toliau – mokestinė nepriemoka). ^s-d6484ebd91ffbec537200d30
@@ -568,10 +568,10 @@ Lošimų licencijavimo taisykles tvirtina Vyriausybė.
 1) bendrovė per Priežiūros tarnybos nustatytą terminą nepašalina prašymo išduoti licenciją ir (ar) kartu su juo teikiamų dokumentų trūkumų; ^s-35cee3d3fa5fd91ae76d5168
 
 
-2) bendrovė dokumentų licencijai gauti pateikimo metu neatitinka šio įstatymo [[#^s-1b5345c252275f80be0fa33b|10 straipsnio]] 4 ir 14 dalyse ir [[#^s-bec1c8cf046e78c477a90b59|14 straipsnyje]] nustatytų reikalavimų; ^s-05f4b353647e78571e143603
+2) bendrovė dokumentų licencijai gauti pateikimo metu neatitinka šio įstatymo [[#^s-1b5345c252275f80be0fa33b|10 straipsnio]] [[#^s-84d5da1b9f2f1ad9e941676b|4]] ir [[#^s-a64dfa3686c8fcec66918594|14]] dalyse ir [[#^s-bec1c8cf046e78c477a90b59|14 straipsnyje]] nustatytų reikalavimų; ^s-05f4b353647e78571e143603
 
 
-3) bendrovė neatitinka šio įstatymo [[#^s-6fc041fe72adc8a10ad3dfa4|11 straipsnyje]] nurodyto nepriekaištingos reputacijos reikalavimo arba šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] 2, 3, 31 ir 32 punktuose ir 2 dalies 3 punkte nurodyti asmenys neatitinka šio įstatymo [[#^s-6fc041fe72adc8a10ad3dfa4|11 straipsnyje]] nurodyto nepriekaištingos reputacijos reikalavimo; ^s-96dc5e8c66a4f05f58a754ab
+3) bendrovė neatitinka šio įstatymo [[#^s-6fc041fe72adc8a10ad3dfa4|11 straipsnyje]] nurodyto nepriekaištingos reputacijos reikalavimo arba šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] [[#^s-7de0982e62f97970f272d3da|2]], [[#^s-dc1f7f4ad546173cb49e9fcd|3]], [[#^s-788c1e82b1aabdf07f930290|31]] ir [[#^s-62813af8a608fb95308ab38c|32]] punktuose ir 2 dalies 3 punkte nurodyti asmenys neatitinka šio įstatymo [[#^s-6fc041fe72adc8a10ad3dfa4|11 straipsnyje]] nurodyto nepriekaištingos reputacijos reikalavimo; ^s-96dc5e8c66a4f05f58a754ab
 Straipsnio punkto pakeitimai:
 Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
 
@@ -592,7 +592,7 @@ Nr. XV-517, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19754
 7) bendrovė turi mokestinę nepriemoką; ^s-989ebe0c227454a71572c357
 
 
-8) dėl naujos licencijos išdavimo buvo kreiptasi nepraėjus 5 metams po to, kai bendrovė neteko teisės organizuoti lošimus pagal šio įstatymo [[#^s-73f4f6f5c8ded1b2097cb87b|72 straipsnio 8 dalies]] 1, 4, 5 ir [[#^s-07f9a1bb6d810271b9fcad4e|6 punktus]]. ^s-868a1ea8b54b9da41ddaada5
+8) dėl naujos licencijos išdavimo buvo kreiptasi nepraėjus 5 metams po to, kai bendrovė neteko teisės organizuoti lošimus pagal šio įstatymo [[#^s-73f4f6f5c8ded1b2097cb87b|72 straipsnio 8 dalies]] [[#^s-c46c6ad9cababf4a03ac6b80|1]], [[#^s-24ce596146fe3d9f0c744841|4]], [[#^s-7d5aeed8bb9efc5a87d2d86b|5]] ir [[#^s-fb36a888d6849fe314f87e7a|6]] punktus. ^s-868a1ea8b54b9da41ddaada5
 
 
 2. Priežiūros tarnyba sprendimo atsisakyti išduoti licenciją organizuoti lošimus priėmimo dieną sprendimą pateikia bendrovei, dėl kurios jis priimtas, ir nurodo tokio sprendimo priėmimo motyvus, pagrindus ir sprendimo apskundimo tvarką. ^s-67f15373bc758aa14aa4de00
@@ -609,7 +609,7 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 1. Už šio įstatymo pažeidimus, išskyrus [[#^s-936afadc651eb01bead9440b|šio straipsnio 4 dalies 2 punkte]] nurodytus pažeidimus, Priežiūros tarnyba, atlikusi patikrinimą, ne vėliau kaip per 3 darbo dienas nuo pažeidimo nustatymo dienos priima sprendimą įspėti bendrovę apie galimą licencijos organizuoti lošimus galiojimo sustabdymą (toliau – licencijos galiojimo sustabdymas), jeigu sprendimo įspėti bendrovę apie galimą licencijos galiojimo sustabdymą priėmimo dieną pažeidimas yra tęsiamas. ^s-ab22b70f1e6d5d7e266c46b7
 
 
-11. Priežiūros tarnyba, savo iniciatyva surinkusi arba gavusi duomenis ir informaciją, kad šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] 31 ir 32 punktuose nurodyti asmenys nebeatitinka šio įstatymo [[#^s-5eb4664df8dbc494bac0cca9|11 straipsnio 4 dalyje]] nustatyto nepriekaištingos reputacijos reikalavimo, ne vėliau kaip per 3 darbo dienas nuo duomenų ir informacijos gavimo dienos priima sprendimą įspėti bendrovę apie galimą licencijos galiojimo sustabdymą. ^s-26e434a5967d5e8ff5009c8f
+11. Priežiūros tarnyba, savo iniciatyva surinkusi arba gavusi duomenis ir informaciją, kad šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] [[#^s-788c1e82b1aabdf07f930290|31]] ir [[#^s-62813af8a608fb95308ab38c|32]] punktuose nurodyti asmenys nebeatitinka šio įstatymo [[#^s-5eb4664df8dbc494bac0cca9|11 straipsnio 4 dalyje]] nustatyto nepriekaištingos reputacijos reikalavimo, ne vėliau kaip per 3 darbo dienas nuo duomenų ir informacijos gavimo dienos priima sprendimą įspėti bendrovę apie galimą licencijos galiojimo sustabdymą. ^s-26e434a5967d5e8ff5009c8f
 Papildyta straipsnio dalimi:
 Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
 
@@ -627,7 +627,7 @@ Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
 1) bendrovė, kuri buvo įspėta apie galimą licencijos galiojimo sustabdymą, per [[#^s-4e38fc562337ca91da3f22c3|šio straipsnio 2 dalyje]] Priežiūros tarnybos nustatytą terminą nenutraukia nurodytų pažeidimų arba nepraneša apie pažeidimų nutraukimą Priežiūros tarnybai; ^s-d49be7cb823dc7fc5e9934bc
 
 
-2) Priežiūros tarnyba savo iniciatyva surenka arba gauna duomenis ir informaciją, kad šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] 2 ir 3 punktuose ir 2 dalies 3 punkte nurodyti asmenys nebeatitinka nepriekaištingos reputacijos reikalavimo arba bendrovė nebeatitinka nepriekaištingos reputacijos reikalavimo ir (ar) bendrovei keliamų reikalavimų, nustatytų šio įstatymo [[#^s-1b5345c252275f80be0fa33b|10 straipsnio]] 4 ir 14 dalyse ir [[#^s-bec1c8cf046e78c477a90b59|14 straipsnyje]], ir (ar) neturi apmokėto įstatuose nurodyto dydžio įstatinio ir (ar) nuosavo kapitalo, atitinkančio šio įstatymo [[#^s-69622e95e1c58f4776ef8b97|13 straipsnyje]] nustatytus reikalavimus. ^s-936afadc651eb01bead9440b
+2) Priežiūros tarnyba savo iniciatyva surenka arba gauna duomenis ir informaciją, kad šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] [[#^s-7de0982e62f97970f272d3da|2]] ir [[#^s-dc1f7f4ad546173cb49e9fcd|3]] punktuose ir 2 dalies 3 punkte nurodyti asmenys nebeatitinka nepriekaištingos reputacijos reikalavimo arba bendrovė nebeatitinka nepriekaištingos reputacijos reikalavimo ir (ar) bendrovei keliamų reikalavimų, nustatytų šio įstatymo [[#^s-1b5345c252275f80be0fa33b|10 straipsnio]] [[#^s-84d5da1b9f2f1ad9e941676b|4]] ir [[#^s-a64dfa3686c8fcec66918594|14]] dalyse ir [[#^s-bec1c8cf046e78c477a90b59|14 straipsnyje]], ir (ar) neturi apmokėto įstatuose nurodyto dydžio įstatinio ir (ar) nuosavo kapitalo, atitinkančio šio įstatymo [[#^s-69622e95e1c58f4776ef8b97|13 straipsnyje]] nustatytus reikalavimus. ^s-936afadc651eb01bead9440b
 Straipsnio punkto pakeitimai:
 Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
 
@@ -678,7 +678,7 @@ Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
 2) privalo išmokėti lošėjams, lošusiems iki licencijos organizuoti lošimus galiojimo panaikinimo (toliau – licencijos galiojimo panaikinimas) dienos, priklausančius laimėjimus, jeigu jie nebuvo išmokėti iki licencijos galiojimo panaikinimo dienos; ^s-457b728e3eaaf6f649c935b6
 
 
-3) 5 metus neturi teisės teikti prašymo išduoti licenciją, išskyrus atvejus, kai licencijos galiojimas panaikinamas [[#^s-73f4f6f5c8ded1b2097cb87b|šio straipsnio 8 dalies]] 2 ir 7 punktuose nurodytais atvejais. ^s-ecbdbd2e1f94ebf6183b9c8c
+3) 5 metus neturi teisės teikti prašymo išduoti licenciją, išskyrus atvejus, kai licencijos galiojimas panaikinamas [[#^s-73f4f6f5c8ded1b2097cb87b|šio straipsnio 8 dalies]] [[#^s-457b728e3eaaf6f649c935b6|2]] ir 7 punktuose nurodytais atvejais. ^s-ecbdbd2e1f94ebf6183b9c8c
 
 
 11. Priežiūros tarnyba, priėmusi sprendimą panaikinti licencijos organizuoti lošimus galiojimą, sprendimo priėmimo dieną praneša apie tai bendrovei ir nurodo sprendimo priėmimo  motyvus, pagrindus ir sprendimo apskundimo tvarką. ^s-bec103a60bc0a51918b2517c
@@ -743,13 +743,13 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 2. Priežiūros tarnyba, gavusi [[#^s-db048b04f9e28cfd7bf23e25|šio straipsnio 1 dalyje]] nurodytus dokumentus ir informaciją, ne vėliau kaip per 3 darbo dienas nuo dokumentų ir informacijos gavimo dienos juos įvertina ir nustačiusi, kad pateiktuose dokumentuose nurodyti neteisingi duomenys ar pateikti ne visi privalomi pateikti dokumentai ir informacija, lošimų organizatoriui praneša apie nustatytus trūkumus bei nurodo ne trumpesnį kaip 5 darbo dienų nuo pranešimo gavimo dienos terminą trūkumams pašalinti. ^s-3d6a255765c79eb8ba530c75
 
 
-3. Priežiūros tarnyba per 3 darbo dienas nuo visų tinkamų dokumentų ir informacijos iš lošimų organizatoriaus gavimo dienos turi kreiptis į šio įstatymo [[#^s-f6117291ee3fae6ef2ca1322|6 straipsnio 5 dalies]]  1–3 punktuose nurodytas institucijas dėl išvadų ir informacijos apie asmenis, ketinančius tapti šio įstatymo [[#^s-dc1f7f4ad546173cb49e9fcd|6 straipsnio 1 dalies 3 punkte]] ir 2 dalies 3 punkte nurodytais asmenimis, gavimo. Šio įstatymo [[#^s-f6117291ee3fae6ef2ca1322|6 straipsnio 5 dalies]] 1–3 punktuose nurodytos institucijos pagal kompetenciją išvadas ir informaciją Priežiūros tarnybai turi pateikti ne vėliau kaip per 20 darbo dienų nuo kreipimosi pateikimo institucijoms dienos. ^s-2a6bfede1003cb0a5e4e2899
+3. Priežiūros tarnyba per 3 darbo dienas nuo visų tinkamų dokumentų ir informacijos iš lošimų organizatoriaus gavimo dienos turi kreiptis į šio įstatymo [[#^s-f6117291ee3fae6ef2ca1322|6 straipsnio 5 dalies]]  [[#^s-94e0358e69c5a134db154806|1]]–[[#^s-75decde7551161f7c85837e4|3]] punktuose nurodytas institucijas dėl išvadų ir informacijos apie asmenis, ketinančius tapti šio įstatymo [[#^s-dc1f7f4ad546173cb49e9fcd|6 straipsnio 1 dalies 3 punkte]] ir 2 dalies 3 punkte nurodytais asmenimis, gavimo. Šio įstatymo [[#^s-f6117291ee3fae6ef2ca1322|6 straipsnio 5 dalies]] [[#^s-94e0358e69c5a134db154806|1]]–[[#^s-75decde7551161f7c85837e4|3]] punktuose nurodytos institucijos pagal kompetenciją išvadas ir informaciją Priežiūros tarnybai turi pateikti ne vėliau kaip per 20 darbo dienų nuo kreipimosi pateikimo institucijoms dienos. ^s-2a6bfede1003cb0a5e4e2899
 
 
-4. Priežiūros tarnybos sprendimas leisti ar atsisakyti leisti lošimų organizatoriui atlikti asmenų pakeitimus priimamas per 3 darbo dienas nuo visų šio įstatymo [[#^s-f6117291ee3fae6ef2ca1322|6 straipsnio 5 dalies]]  1–3 punktuose nurodytų institucijų išvadų ir informacijos gavimo dienos. ^s-6452a72d225568b3f46d0058
+4. Priežiūros tarnybos sprendimas leisti ar atsisakyti leisti lošimų organizatoriui atlikti asmenų pakeitimus priimamas per 3 darbo dienas nuo visų šio įstatymo [[#^s-f6117291ee3fae6ef2ca1322|6 straipsnio 5 dalies]]  [[#^s-94e0358e69c5a134db154806|1]]–[[#^s-75decde7551161f7c85837e4|3]] punktuose nurodytų institucijų išvadų ir informacijos gavimo dienos. ^s-6452a72d225568b3f46d0058
 
 
-5. Atsisakymas leisti atlikti asmenų pakeitimus priimamas, kai yra šio įstatymo [[#^s-6362bbf8368a53ffeeccb44d|71 straipsnio 1 dalies]] 3, 5 ir 6 punktuose nustatyti pagrindai. Atsisakymas leisti atlikti asmenų pakeitimus priimamas ir tuo atveju, kai lošimų organizatorius per [[#^s-3d6a255765c79eb8ba530c75|šio straipsnio 2 dalyje]] nustatytą terminą nepateikia visų dokumentų, duomenų ir (ar) informacijos, reikalingų sprendimui leisti lošimų organizatoriui atlikti asmenų pakeitimus priimti. ^s-31316ae669fe6f6433049472
+5. Atsisakymas leisti atlikti asmenų pakeitimus priimamas, kai yra šio įstatymo [[#^s-6362bbf8368a53ffeeccb44d|71 straipsnio 1 dalies]] [[#^s-96dc5e8c66a4f05f58a754ab|3]], [[#^s-1167909136090301852b2c79|5]] ir [[#^s-07f9a1bb6d810271b9fcad4e|6]] punktuose nustatyti pagrindai. Atsisakymas leisti atlikti asmenų pakeitimus priimamas ir tuo atveju, kai lošimų organizatorius per [[#^s-3d6a255765c79eb8ba530c75|šio straipsnio 2 dalyje]] nustatytą terminą nepateikia visų dokumentų, duomenų ir (ar) informacijos, reikalingų sprendimui leisti lošimų organizatoriui atlikti asmenų pakeitimus priimti. ^s-31316ae669fe6f6433049472
 
 
 6. Priežiūros tarnyba sprendimo leisti ar atsisakyti leisti atlikti asmenų pakeitimus priėmimo dieną šį sprendimą pateikia lošimų organizatoriui, dėl kurio jis priimtas, ir nurodo tokio sprendimo priėmimo motyvus, pagrindus ir sprendimo apskundimo tvarką. ^s-f692e38f77bbf0ccb6300e60
@@ -764,7 +764,7 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 9. [[#^s-ba109a6b0f8d40872e8ba52f|Šio straipsnio 8 dalies]] nuostatos mutatis mutandis taikomos filialo vadovo nušalinimui nuo pareigų. ^s-83afa8149fd1bc2781c34a5a
 
 
-10. Lošimų organizatorius privalo Priežiūros tarnybai jos nustatyta tvarka pranešti apie šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] 2, 31 ir 32 punktuose nurodytų asmenų pasikeitimą ne vėliau kaip per 20 darbo dienų nuo duomenų pasikeitimo dienos ir pateikti šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] 2, 31 ir 32 punktuose nurodytus dokumentus ir duomenis. Priežiūros tarnyba, gavusi lošimų organizatoriaus pateiktus dokumentus ir duomenis, ne vėliau kaip per 3 darbo dienas nuo dokumentų ir duomenų gavimo dienos juos įvertina ir nustačiusi, kad pateiktuose dokumentuose nurodyti neteisingi duomenys ar pateikti ne visi privalomi pateikti dokumentai ir duomenys, lošimų organizatoriui praneša apie nustatytus trūkumus bei nurodo ne trumpesnį kaip 5 darbo dienų nuo pranešimo gavimo dienos terminą trūkumams pašalinti. Priežiūros tarnyba per 3 darbo dienas nuo visų tinkamų dokumentų ir duomenų gavimo iš lošimų organizatoriaus dienos turi kreiptis į šio įstatymo [[#^s-f6117291ee3fae6ef2ca1322|6 straipsnio 5 dalies]] 1–3 punktuose nurodytas institucijas dėl išvadų ir informacijos apie šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] 2, 31 ir 32 punktuose nurodytus asmenis gavimo. Šio įstatymo [[#^s-f6117291ee3fae6ef2ca1322|6 straipsnio 5 dalies]] 1–3 punktuose nurodytos institucijos pagal kompetenciją išvadas ir informaciją Priežiūros tarnybai turi pateikti ne vėliau kaip per 20 darbo dienų nuo kreipimosi pateikimo institucijoms dienos. ^s-b66fd874f107ec7001bdae4b
+10. Lošimų organizatorius privalo Priežiūros tarnybai jos nustatyta tvarka pranešti apie šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] [[#^s-7de0982e62f97970f272d3da|2]], [[#^s-788c1e82b1aabdf07f930290|31]] ir [[#^s-62813af8a608fb95308ab38c|32]] punktuose nurodytų asmenų pasikeitimą ne vėliau kaip per 20 darbo dienų nuo duomenų pasikeitimo dienos ir pateikti šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] [[#^s-7de0982e62f97970f272d3da|2]], [[#^s-788c1e82b1aabdf07f930290|31]] ir [[#^s-62813af8a608fb95308ab38c|32]] punktuose nurodytus dokumentus ir duomenis. Priežiūros tarnyba, gavusi lošimų organizatoriaus pateiktus dokumentus ir duomenis, ne vėliau kaip per 3 darbo dienas nuo dokumentų ir duomenų gavimo dienos juos įvertina ir nustačiusi, kad pateiktuose dokumentuose nurodyti neteisingi duomenys ar pateikti ne visi privalomi pateikti dokumentai ir duomenys, lošimų organizatoriui praneša apie nustatytus trūkumus bei nurodo ne trumpesnį kaip 5 darbo dienų nuo pranešimo gavimo dienos terminą trūkumams pašalinti. Priežiūros tarnyba per 3 darbo dienas nuo visų tinkamų dokumentų ir duomenų gavimo iš lošimų organizatoriaus dienos turi kreiptis į šio įstatymo [[#^s-f6117291ee3fae6ef2ca1322|6 straipsnio 5 dalies]] [[#^s-94e0358e69c5a134db154806|1]]–[[#^s-75decde7551161f7c85837e4|3]] punktuose nurodytas institucijas dėl išvadų ir informacijos apie šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] [[#^s-7de0982e62f97970f272d3da|2]], [[#^s-788c1e82b1aabdf07f930290|31]] ir [[#^s-62813af8a608fb95308ab38c|32]] punktuose nurodytus asmenis gavimo. Šio įstatymo [[#^s-f6117291ee3fae6ef2ca1322|6 straipsnio 5 dalies]] [[#^s-94e0358e69c5a134db154806|1]]–[[#^s-75decde7551161f7c85837e4|3]] punktuose nurodytos institucijos pagal kompetenciją išvadas ir informaciją Priežiūros tarnybai turi pateikti ne vėliau kaip per 20 darbo dienų nuo kreipimosi pateikimo institucijoms dienos. ^s-b66fd874f107ec7001bdae4b
 
 
 Papildyta straipsniu:
@@ -852,7 +852,7 @@ Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
 7. Apribojusių savo galimybę lošti asmenų registro informacinėje sistemoje tvarkomi duomenys yra nevieši. Apibendrinti, susisteminti ar kitaip apdoroti duomenys, iš kurių neįmanoma tiesiogiai ar netiesiogiai nustatyti duomenų subjekto tapatybės, skelbiami Priežiūros tarnybos interneto svetainėje. ^s-1ed94f771a5c4b5c5545a43f
 
 
-8. Apribojusių savo galimybę lošti asmenų registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) [[#^s-c20758f7a0be85565b598a6b|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-58883dbf1439eca98853c3f5|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-60f15bb292d95aef51038fe3
+8. Apribojusių savo galimybę lošti asmenų registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) [[#^s-c20758f7a0be85565b598a6b|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-58883dbf1439eca98853c3f5|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-60f15bb292d95aef51038fe3
 
 
 9. Apribojusių savo galimybę lošti asmenų registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, įskaitant specialių kategorijų asmens duomenis, yra atveriami pakartotinai naudoti. ^s-83a1040d0bcded9e5cde2699
@@ -1012,7 +1012,7 @@ Nr. XIII-2147, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09400
 
 
 
-92. Skelbiant [[#^s-e91cf1328fbe516a7aca6a90|šio straipsnio 9 dalyje]] nurodytą reklamą turi būti pateikti šio įstatymo [[#^s-4a0122677aa8e66df6b6b286|104 straipsnio 2 punkte]] nurodyti informaciniai pranešimai. Informacinių pranešimų turinį ir jų pateikimo reklamoje taisykles nustato Priežiūros tarnyba. ^s-2219ca279002fbaea54e6d9e
+92. Skelbiant [[#^s-e91cf1328fbe516a7aca6a90|šio straipsnio 9 dalyje]] nurodytą reklamą turi būti pateikti šio įstatymo 104 straipsnio 2 punkte nurodyti informaciniai pranešimai. Informacinių pranešimų turinį ir jų pateikimo reklamoje taisykles nustato Priežiūros tarnyba. ^s-2219ca279002fbaea54e6d9e
 Papildyta straipsnio dalimi:
 Nr. XIII-2871, 2020-04-28, paskelbta TAR 2020-05-06, i. k. 2020-09590
 Straipsnio dalies pakeitimai:
@@ -1090,13 +1090,13 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 17. Draudžiama B kategorijos automatus jungti į „kaupiamojo fondo“ sistemą. ^s-67d3043cc7e4af6046dc535c
 
 
-18. Šio straipsnio 4, 11 ir [[#^s-a64dfa3686c8fcec66918594|14 dalių]] apribojimai taikomi ir bendrovėms, pateikusioms prašymą išduoti licenciją organizuoti azartinius lošimus. ^s-31e9d112418891a2110b6939
+18. Šio straipsnio [[#^s-84d5da1b9f2f1ad9e941676b|4]], [[#^s-67000ee21d411cdc71720a6c|11]] ir [[#^s-a64dfa3686c8fcec66918594|14]] dalių apribojimai taikomi ir bendrovėms, pateikusioms prašymą išduoti licenciją organizuoti azartinius lošimus. ^s-31e9d112418891a2110b6939
 
 
 19. Lietuvos Respublikoje draudžiama skatinti dalyvauti lošimuose – bet kuria forma ir bet kokiomis priemonėmis skleisti informaciją ar atlikti įtikinėjimo veiksmus, skatinančius dalyvauti lošimuose ar nuotoliniuose lošimuose. Skatinimu dalyvauti lošimuose nėra laikoma: ^s-a3716ede29dce0a9bc276d98
 
 
-1) reklamos, atitinkančios šio straipsnio 9, 91 ir [[#^s-2219ca279002fbaea54e6d9e|92 dalyse]] nustatytus reikalavimus, skelbimas; ^s-6fe98eca33ac7df07190b9d3
+1) reklamos, atitinkančios šio straipsnio [[#^s-e91cf1328fbe516a7aca6a90|9]], [[#^s-072a0627d873888a5d2a7cc6|91]] ir [[#^s-2219ca279002fbaea54e6d9e|92]] dalyse nustatytus reikalavimus, skelbimas; ^s-6fe98eca33ac7df07190b9d3
 
 
 2) informacijos apie rėmimą, atitinkančios šio straipsnio 93 dalyje nustatytus reikalavimus, skelbimas; ^s-745f00f444b21c447865b57c
@@ -1105,7 +1105,7 @@ TAR pastaba. 10 straipsnio 19 dalies 2 punkto redakcija nuo 2028-01-01:
 2) netenka galios 2028-01-01. ^s-15dd8bdd51d263e50cc92c6b
 
 
-3) lošimų organizavimo reglamento, organizuojamų nuotolinių lošimų pasiūlos be papildomos rašytinės, vaizdinės ar garsinės informacijos skelbimas, [[#^s-4e7ca3cb8a247bb88c200313|šio straipsnio 20 dalyje]], šio įstatymo [[#^s-c5ae047b03e439c6e6a57d01|201 straipsnio 3 dalyje]], [[#^s-d2cd938ab8a6afe74a4ca75f|203 straipsnio]] 2, 4, [[#^s-496e6ef194dd21af5f5af405|5 dalyse]], [[#^s-e9c62854920fdf596e3a312e|206 straipsnyje]] nurodytos informacijos skelbimas, kai ši informacija pateikiama interneto svetainėse, kuriose organizuojami nuotoliniai lošimai; ^s-97f166eb169fcaa305b43a0a
+3) lošimų organizavimo reglamento, organizuojamų nuotolinių lošimų pasiūlos be papildomos rašytinės, vaizdinės ar garsinės informacijos skelbimas, [[#^s-4e7ca3cb8a247bb88c200313|šio straipsnio 20 dalyje]], šio įstatymo [[#^s-c5ae047b03e439c6e6a57d01|201 straipsnio 3 dalyje]], [[#^s-d2cd938ab8a6afe74a4ca75f|203 straipsnio]] [[#^s-17a5d2357ed6c0e04ecedae1|2]], [[#^s-003da6f4c507d83f912bb1ee|4]], [[#^s-41926270638126f75fc7d47e|5]] dalyse, [[#^s-e9c62854920fdf596e3a312e|206 straipsnyje]] nurodytos informacijos skelbimas, kai ši informacija pateikiama interneto svetainėse, kuriose organizuojami nuotoliniai lošimai; ^s-97f166eb169fcaa305b43a0a
 
 
 4) lošimų organizavimo reglamento, šio įstatymo [[#^s-cb1bcfa8e0585b04d4b5df8c|19 straipsnio 2 dalyje]] nurodytos informacijos skelbimas ir organizuojamų lažybų pasiūlos be papildomos rašytinės, vaizdinės ar garsinės informacijos skelbimas lošimų organizavimo vietose. ^s-d638ca4d63269653a46d4571
@@ -1255,10 +1255,10 @@ Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 1. Ketinanti gauti licenciją organizuoti lošimus bendrovė (dokumentų licencijai gauti pateikimo metu) ir tokią licenciją turinti bendrovė privalo būti nepriekaištingos reputacijos. ^s-5148a8e2ed5a188396446259
 
 
-2. Šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] 2, 3, 31 ir 32 punktuose ir 2 dalies 3 punkte nurodyti asmenys, lošimo namų (kazino), bingo, automatų salonų, totalizatoriaus ir lažybų punktų, nuotolinių lošimų organizavimo vadovai, jų pavaduotojai, lošėjus aptarnaujančio personalo darbuotojai turi būti nepriekaištingos reputacijos. ^s-03bfc3c01c8fc33a09fe0ac0
+2. Šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] [[#^s-7de0982e62f97970f272d3da|2]], [[#^s-dc1f7f4ad546173cb49e9fcd|3]], [[#^s-788c1e82b1aabdf07f930290|31]] ir [[#^s-62813af8a608fb95308ab38c|32]] punktuose ir 2 dalies 3 punkte nurodyti asmenys, lošimo namų (kazino), bingo, automatų salonų, totalizatoriaus ir lažybų punktų, nuotolinių lošimų organizavimo vadovai, jų pavaduotojai, lošėjus aptarnaujančio personalo darbuotojai turi būti nepriekaištingos reputacijos. ^s-03bfc3c01c8fc33a09fe0ac0
 
 
-3. Fizinis asmuo, išskyrus šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] 31 ir 32 punktuose nurodytus asmenis, laikomas nepriekaištingos reputacijos, išskyrus atvejus, kai: ^s-c80aeab683e0692980176778
+3. Fizinis asmuo, išskyrus šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] [[#^s-788c1e82b1aabdf07f930290|31]] ir [[#^s-62813af8a608fb95308ab38c|32]] punktuose nurodytus asmenis, laikomas nepriekaištingos reputacijos, išskyrus atvejus, kai: ^s-c80aeab683e0692980176778
 
 
 1) jis yra pripažintas kaltu padaręs Lietuvos Respublikos baudžiamajame kodekse numatytą sunkų arba labai sunkų nusikaltimą ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 8 metai; ^s-2fe934baff46f53eeb28f889
@@ -1267,13 +1267,13 @@ Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 2) jis yra pripažintas kaltu padaręs Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, teisingumui, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 5 metai; ^s-c07e3631185139c79603d7ae
 
 
-3) jis yra pripažintas kaltu padaręs kitą, negu nurodyta šios dalies 1 ir [[#^s-c07e3631185139c79603d7ae|2 punktuose]], Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai; ^s-3263167c792b8f3e7082311f
+3) jis yra pripažintas kaltu padaręs kitą, negu nurodyta šios dalies [[#^s-2fe934baff46f53eeb28f889|1]] ir [[#^s-c07e3631185139c79603d7ae|2]] punktuose, Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai; ^s-3263167c792b8f3e7082311f
 
 
 4) jis yra uždraustos organizacijos narys ar kelia grėsmę valstybės saugumui. ^s-ba43ff8f1b3f34881da3603f
 
 
-4. Šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] 31 ir 32 punktuose nurodyti asmenys laikomi nepriekaištingos reputacijos, išskyrus atvejus, kai jie yra pripažinti kaltais dėl Baudžiamajame kodekse numatyto sunkaus, labai sunkaus arba tyčinio nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, teisingumui, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančių nusikalstamų veikų pagal kitų valstybių baudžiamuosius įstatymus ir turi neišnykusį ar nepanaikintą teistumą, yra uždraustos organizacijos nariai ar kelia grėsmę valstybės saugumui. ^s-5eb4664df8dbc494bac0cca9
+4. Šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] [[#^s-788c1e82b1aabdf07f930290|31]] ir [[#^s-62813af8a608fb95308ab38c|32]] punktuose nurodyti asmenys laikomi nepriekaištingos reputacijos, išskyrus atvejus, kai jie yra pripažinti kaltais dėl Baudžiamajame kodekse numatyto sunkaus, labai sunkaus arba tyčinio nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, teisingumui, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančių nusikalstamų veikų pagal kitų valstybių baudžiamuosius įstatymus ir turi neišnykusį ar nepanaikintą teistumą, yra uždraustos organizacijos nariai ar kelia grėsmę valstybės saugumui. ^s-5eb4664df8dbc494bac0cca9
 
 
 5. Bendrovė laikoma nepriekaištingos reputacijos, išskyrus atvejus, kai: ^s-7131ab75c8170fc476f1799f
@@ -1282,19 +1282,19 @@ Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 1) ji yra pripažinta kalta dėl Baudžiamajame kodekse numatyto sunkaus arba labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, teisingumui, visuomenės saugumui, valdymo tvarkai ar dėl juos atitinkančių nusikalstamų veikų padarymo pagal kitų valstybių baudžiamuosius įstatymus ir nuo teistumo išnykimo ar panaikinimo dienos nepraėjo 8 metai; ^s-be3342c329b328d65a0d927c
 
 
-2) šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] 2, [[#^s-8da06a6b35d2337c8464ec56|3 punktuose]] ir 2 [[#^s-8da06a6b35d2337c8464ec56|dalies 3 punkte]] nurodyti asmenys yra pripažinti kaltais padarę Baudžiamajame kodekse numatytą sunkų arba labai sunkų nusikaltimą ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir nuo asmens teistumo išnykimo ar panaikinimo dienos nepraėjo 8 metai ar šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] 2, [[#^s-8da06a6b35d2337c8464ec56|3 punktuose]] ir 2 [[#^s-8da06a6b35d2337c8464ec56|dalies 3 punkte]] nurodyti asmenys yra uždraustos organizacijos nariai; ^s-b394502f32b6e59144edc212
+2) šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] [[#^s-7de0982e62f97970f272d3da|2]], [[#^s-dc1f7f4ad546173cb49e9fcd|3]] punktuose ir 2 [[#^s-8da06a6b35d2337c8464ec56|dalies 3 punkte]] nurodyti asmenys yra pripažinti kaltais padarę Baudžiamajame kodekse numatytą sunkų arba labai sunkų nusikaltimą ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir nuo asmens teistumo išnykimo ar panaikinimo dienos nepraėjo 8 metai ar šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] [[#^s-7de0982e62f97970f272d3da|2]], [[#^s-dc1f7f4ad546173cb49e9fcd|3]] punktuose ir 2 [[#^s-8da06a6b35d2337c8464ec56|dalies 3 punkte]] nurodyti asmenys yra uždraustos organizacijos nariai; ^s-b394502f32b6e59144edc212
 
 
-3) šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] 2, 3 punktuose ir 2 dalies 3 punkte nurodyti asmenys yra pripažinti kaltais padarę Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, teisingumui, visuomenės saugumui ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 5 metai; ^s-8da06a6b35d2337c8464ec56
+3) šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] [[#^s-7de0982e62f97970f272d3da|2]], [[#^s-dc1f7f4ad546173cb49e9fcd|3]] punktuose ir 2 dalies 3 punkte nurodyti asmenys yra pripažinti kaltais padarę Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, teisingumui, visuomenės saugumui ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 5 metai; ^s-8da06a6b35d2337c8464ec56
 
 
-4) šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] 2, [[#^s-8da06a6b35d2337c8464ec56|3 punktuose]] ir 2 [[#^s-8da06a6b35d2337c8464ec56|dalies 3 punkte]] nurodyti asmenys yra pripažinti kaltais padarę kitą, negu nurodyta šios dalies 2 ir [[#^s-8da06a6b35d2337c8464ec56|3 punktuose]], Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai; ^s-99064d76333579d1dfa504f2
+4) šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] [[#^s-7de0982e62f97970f272d3da|2]], [[#^s-dc1f7f4ad546173cb49e9fcd|3]] punktuose ir 2 [[#^s-8da06a6b35d2337c8464ec56|dalies 3 punkte]] nurodyti asmenys yra pripažinti kaltais padarę kitą, negu nurodyta šios dalies [[#^s-7de0982e62f97970f272d3da|2]] ir [[#^s-dc1f7f4ad546173cb49e9fcd|3]] punktuose, Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai; ^s-99064d76333579d1dfa504f2
 
 
-5) šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] 31 ir 32 punktuose nurodyti asmenys yra pripažinti kaltais dėl Baudžiamajame kodekse numatyto sunkaus, labai sunkaus nusikaltimo arba tyčinio nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, teisingumui, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančių nusikalstamų veikų pagal kitų valstybių baudžiamuosius įstatymus ir turi neišnykusį ar nepanaikintą teistumą, yra uždraustos organizacijos nariai ar kelia grėsmę valstybės saugumui; ^s-5c49a9759a9149b2c8da121f
+5) šio įstatymo [[#^s-6adff284e7174e70c3ca203e|6 straipsnio 1 dalies]] [[#^s-788c1e82b1aabdf07f930290|31]] ir [[#^s-62813af8a608fb95308ab38c|32]] punktuose nurodyti asmenys yra pripažinti kaltais dėl Baudžiamajame kodekse numatyto sunkaus, labai sunkaus nusikaltimo arba tyčinio nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, teisingumui, visuomenės saugumui, valstybės tarnybai ir viešiesiems interesams ar juos atitinkančių nusikalstamų veikų pagal kitų valstybių baudžiamuosius įstatymus ir turi neišnykusį ar nepanaikintą teistumą, yra uždraustos organizacijos nariai ar kelia grėsmę valstybės saugumui; ^s-5c49a9759a9149b2c8da121f
 
 
-6) šios bendrovės akcininkas (juridinis asmuo) yra bendrovė, kuriai licencijos organizuoti lošimus galiojimas panaikintas pagal šio įstatymo [[#^s-73f4f6f5c8ded1b2097cb87b|72 straipsnio 8 dalies]] 1, 4, 5 ir 6 punktus ir nuo licencijos galiojimo panaikinimo nepraėjo 5 metai. ^s-f5273a5165a5b6ce3d9b81ed
+6) šios bendrovės akcininkas (juridinis asmuo) yra bendrovė, kuriai licencijos organizuoti lošimus galiojimas panaikintas pagal šio įstatymo [[#^s-73f4f6f5c8ded1b2097cb87b|72 straipsnio 8 dalies]] [[#^s-c46c6ad9cababf4a03ac6b80|1]], [[#^s-24ce596146fe3d9f0c744841|4]], [[#^s-7d5aeed8bb9efc5a87d2d86b|5]] ir [[#^s-fb36a888d6849fe314f87e7a|6]] punktus ir nuo licencijos galiojimo panaikinimo nepraėjo 5 metai. ^s-f5273a5165a5b6ce3d9b81ed
 Straipsnio pakeitimai:
 Nr. IX-1418, 2003-04-03, Žin., 2003, Nr. 38-1663 (2003-04-24)
 Nr. IX-1698, 2003-07-04, Žin., 2003, Nr. 74-3419 (2003-07-25)
@@ -1385,7 +1385,7 @@ Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
 3. Bendrovės, kuri verčiasi kelių rūšių lošimų organizavimu, apmokėtas ir įstatuose nurodytas įstatinis kapitalas turi būti ne mažesnis už didžiausią įstatinį kapitalą, nustatytą atitinkamai lošimo rūšiai. ^s-12abb72ec83d1073a51e99de
 
 
-4. Šio straipsnio 1, 2, 21, 22, 23 ir [[#^s-12abb72ec83d1073a51e99de|3 dalyse]] išvardytų bendrovių dokumentų licencijai gauti pateikimo metu nuosavas kapitalas turi atitikti Akcinių bendrovių įstatymo 38 straipsnio 3 dalyje nustatytus reikalavimus. ^s-772f8d9dbd5975969c646653
+4. Šio straipsnio [[#^s-30091c769cfd9afd49638d57|1]], [[#^s-f56c0bb0a005b5d30a76a036|2]], [[#^s-c5904d6d4dcd924b633d9c1e|21]], [[#^s-76583448f87076b35a0017aa|22]], [[#^s-57d3c4a421e971de92529974|23]] ir [[#^s-12abb72ec83d1073a51e99de|3]] dalyse išvardytų bendrovių dokumentų licencijai gauti pateikimo metu nuosavas kapitalas turi atitikti Akcinių bendrovių įstatymo 38 straipsnio 3 dalyje nustatytus reikalavimus. ^s-772f8d9dbd5975969c646653
 Straipsnio dalies pakeitimai:
 Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
 
@@ -1506,7 +1506,7 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 3) prie lošimo stalų įmokėtų sumų ir žetonų inventorizacijos rezultatų duomenys; ^s-83e43fb52991cc0e6794bb42
 
 
-4) platformų duomenys, nurodyti šio įstatymo [[#^s-f1173325dfe60d6e8ce15aed|16 straipsnio 9 dalies]] 1, 4, 7, 8, 9 ir 10 punktuose. ^s-4f4e75924f5e164bd543dbc1
+4) platformų duomenys, nurodyti šio įstatymo [[#^s-f1173325dfe60d6e8ce15aed|16 straipsnio 9 dalies]] [[#^s-7245ca31b89a676a2cc6760c|1]], [[#^s-a1c818863f66188b09200abb|4]], [[#^s-3891673c28731ba700e32ecc|7]], [[#^s-b2f57b5e31e03cd980882a43|8]], [[#^s-0b7914516fc5d0642a05882d|9]] ir [[#^s-cdd6a4e59712213ac05252ff|10]] punktuose. ^s-4f4e75924f5e164bd543dbc1
 
 
 4. LAKIS saugomi lošėjų asmens duomenys laikomi konfidencialiais ir gali būti atskleisti kitiems asmenims, jeigu teisė gauti šią informaciją nustatyta įstatymuose ar jų įgyvendinamuosiuose teisės aktuose. ^s-a92db1d903d8681d1a484b34
@@ -1546,7 +1546,7 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 3. Duomenų tvarkymo Lietuvos lošimo įrenginių registro informacinėje sistemoje tikslas – kaupti, tvarkyti ir teikti duomenis apie lošimo įrenginius, taip pat lošimus organizuojančias bendroves, eksploatuojančias ar ketinančias eksploatuoti lošimo įrenginius, siekiant apsaugoti lošėjų interesus. ^s-2c2d65a59b463818b5f4dae7
 
 
-4. Lietuvos lošimo įrenginių registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra vieši. Lietuvos lošimo įrenginių registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, Reglamento (ES) 2016/679 [[#^s-c20758f7a0be85565b598a6b|5 straipsnyje]] apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-58883dbf1439eca98853c3f5|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-6a61ebfca6fb264b52496f10
+4. Lietuvos lošimo įrenginių registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra vieši. Lietuvos lošimo įrenginių registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, [Reglamento (ES) 2016/679 5 straipsnyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_5/oj) apibrėžtų asmens duomenų tvarkymo principų ir [[#^s-58883dbf1439eca98853c3f5|6 straipsnyje]] nustatytų asmens duomenų teisėto tvarkymo sąlygų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus. ^s-6a61ebfca6fb264b52496f10
 
 
 5. Lietuvos lošimo įrenginių registro informacinės sistemos valdytoja ir duomenų, įskaitant asmens duomenis, valdytoja – Priežiūros tarnyba. ^s-5a4873eb5b51008b75379d82
@@ -1614,7 +1614,7 @@ Nr. XV-517, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19754
 6) lošėjo nurodytos mokėjimo sąskaitos, į jas išmokėtų laimėjimų dydžiai bei sumos, kuriomis buvo pildoma lošėjo lošimų sąskaita; ^s-a4ca2c898b0b37847a47c9ee
 
 
-7) lošėjui taikomi (nusistatyti) apribojimai, limitai, nurodyti šio įstatymo [[#^s-69493e39feef2ae86794c020|104 straipsnio 3 punkte]]; ^s-3891673c28731ba700e32ecc
+7) lošėjui taikomi (nusistatyti) apribojimai, limitai, nurodyti šio įstatymo 104 straipsnio 3 punkte; ^s-3891673c28731ba700e32ecc
 
 
 8) komunikacija su lošėju, atsakingo lošimo užtikrinimo kontrolės sistemos analizės rezultatai; ^s-b2f57b5e31e03cd980882a43
@@ -1629,7 +1629,7 @@ Nr. XV-517, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19754
 11) finansinė ataskaita iš platformoje esamų duomenų pagal nustatytą laikotarpį, nuotolinio lošimo rūšį, už dalyvavimą lošime įmokėtas sumas, išmokėtus laimėjimus, veiklos rezultatą (iš sumų, įmokėtų už dalyvavimą lošime, išmokėjus laimėjimus, gaunamas veiklos rezultatas). ^s-a25fb5ddd190bd359254ec39
 
 
-10. Bendrovė gali keisti arba pradėti naudoti naujus lošimų įrenginius, nuotolinio lošimo įrenginius ir platformas tik įvykdžiusi šio straipsnio 5, 6, 7 ir [[#^s-f1173325dfe60d6e8ce15aed|9 dalyse]] nustatytus reikalavimus ir gavusi Priežiūros tarnybos leidimą šio įstatymo nustatyta tvarka. ^s-197d51ab2408efaa7117c4cb
+10. Bendrovė gali keisti arba pradėti naudoti naujus lošimų įrenginius, nuotolinio lošimo įrenginius ir platformas tik įvykdžiusi šio straipsnio [[#^s-006958803f9c331503b190cb|5]], [[#^s-a2a4758c6295502545bba299|6]], [[#^s-a6344af4201630917ecbaa13|7]] ir [[#^s-f1173325dfe60d6e8ce15aed|9]] dalyse nustatytus reikalavimus ir gavusi Priežiūros tarnybos leidimą šio įstatymo nustatyta tvarka. ^s-197d51ab2408efaa7117c4cb
 
 
 11. Lošimus organizuojanti bendrovė privalo automatus laidinėmis, radijo, optinėmis ar kitomis elektromagnetinėmis priemonėmis sujungti į elektroninę automatų duomenų valdymo sistemą. ^s-c030e3f5242d278ab4bdfe58
@@ -1664,7 +1664,7 @@ Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 ### 161 straipsnis. Platformos prijungimas prie LAKIS ^s-8f6d31570622d5c732be791f
 
 
-Platforma prie LAKIS turi būti prijungta Priežiūros tarnybos nustatyta tvarka. Platforma turi fiksuoti ir ne rečiau kaip kas 30 dienų perduoti į LAKIS duomenis, nurodytus šio įstatymo [[#^s-f1173325dfe60d6e8ce15aed|16 straipsnio 9 dalies]] 1, 4, 7, 8, 9 ir 10 punktuose.
+Platforma prie LAKIS turi būti prijungta Priežiūros tarnybos nustatyta tvarka. Platforma turi fiksuoti ir ne rečiau kaip kas 30 dienų perduoti į LAKIS duomenis, nurodytus šio įstatymo [[#^s-f1173325dfe60d6e8ce15aed|16 straipsnio 9 dalies]] [[#^s-7245ca31b89a676a2cc6760c|1]], [[#^s-a1c818863f66188b09200abb|4]], [[#^s-3891673c28731ba700e32ecc|7]], [[#^s-b2f57b5e31e03cd980882a43|8]], [[#^s-0b7914516fc5d0642a05882d|9]] ir [[#^s-cdd6a4e59712213ac05252ff|10]] punktuose.
 
 
 Papildyta straipsniu:
@@ -1879,7 +1879,7 @@ Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 1. Fizinis asmuo, norintis dalyvauti nuotoliniuose lošimuose, prieš dalyvavimą juose privalo sudaryti su lošimų organizatoriumi nuotolinio lošimo sutartį pagal Priežiūros tarnybos patvirtintą formą. ^s-87e0f331de2aec5aacd2ffe1
 
 
-2. Nuotolinio lošimo sutartys gali būti sudaromos tik su fiziniais asmenimis. Fizinis asmuo nuotolinio lošimo sutarties negali sudaryti per atstovą. Lošimų organizatorius, prieš sudarydamas nuotolinio lošimo sutartį, privalo pareikalauti, kad fizinis asmuo, norintis sudaryti nuotolinio lošimo sutartį, pateiktų duomenis, reikalingus jo tapatybei nustatyti, ir patikrinti, ar jis atitinka šio įstatymo [[#^s-1b5345c252275f80be0fa33b|10 straipsnio]] 3 ir 10 dalyse nustatytus reikalavimus ir ar jam pagal šį bei kitus įstatymus nėra draudžiama dalyvauti lošimuose. ^s-4659482707e98485c5e12253
+2. Nuotolinio lošimo sutartys gali būti sudaromos tik su fiziniais asmenimis. Fizinis asmuo nuotolinio lošimo sutarties negali sudaryti per atstovą. Lošimų organizatorius, prieš sudarydamas nuotolinio lošimo sutartį, privalo pareikalauti, kad fizinis asmuo, norintis sudaryti nuotolinio lošimo sutartį, pateiktų duomenis, reikalingus jo tapatybei nustatyti, ir patikrinti, ar jis atitinka šio įstatymo [[#^s-1b5345c252275f80be0fa33b|10 straipsnio]] [[#^s-a3016efad838b332f3e177fd|3]] ir [[#^s-e5b913e5db8685756ab776db|10]] dalyse nustatytus reikalavimus ir ar jam pagal šį bei kitus įstatymus nėra draudžiama dalyvauti lošimuose. ^s-4659482707e98485c5e12253
 
 
 3. Dalyvauti nuotoliniuose lošimuose leidžiama tik asmeniui, su kuriuo sudaryta nuotolinio lošimo sutartis yra galiojanti. Asmuo, su kuriuo sudaryta nuotolinio lošimo sutartis, atsako už tai, kad jam suteiktu kodu ir (ar) slaptažodžiu nepasinaudotų tretieji asmenys. Šiam asmeniui draudžiama perduoti jam suteiktą kodą ir (ar) slaptažodį kitiems asmenims arba kitaip sudaryti kitiems asmenims galimybę dalyvauti nuotoliniuose lošimuose jo vardu. Su asmenimis, pažeidusiais šį reikalavimą, lošimų organizatorius privalo nutraukti nuotolinio lošimo sutartį. Nauja nuotolinio lošimo sutartis su tokiais asmenimis sudaroma ne anksčiau kaip po vienų metų nuo sutarties nutraukimo. ^s-a70f228d6448cf6e3489877d
@@ -1907,13 +1907,13 @@ Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 2) lošimų organizatoriaus nuotolinių lošimų organizavimo reglamentą arba pateikti aktyvią nuorodą į interneto svetainę, kurioje skelbiamas visas nuotolinių lošimų organizavimo reglamento aktualios redakcijos tekstas; ^s-8d3b8040ae9aa3cf63eca678
 
 
-3) informaciją apie apribojimus dalyvauti lošime, kurie taikomi lošėjams pagal šio įstatymo [[#^s-1b5345c252275f80be0fa33b|10 straipsnio]] 3 ir [[#^s-41e09e5f2075d8d09bef7b91|10 dalių]] nuostatas; ^s-8caa7f3b117aea2413b4e9c8
+3) informaciją apie apribojimus dalyvauti lošime, kurie taikomi lošėjams pagal šio įstatymo [[#^s-1b5345c252275f80be0fa33b|10 straipsnio]] [[#^s-a3016efad838b332f3e177fd|3]] ir [[#^s-e5b913e5db8685756ab776db|10]] dalių nuostatas; ^s-8caa7f3b117aea2413b4e9c8
 
 
 4) informaciją apie draudimą sudaryti galimybę lošime dalyvauti tretiesiems asmenims, pasinaudojant lošėjui suteiktais identifikaciniu kodu ir (ar) slaptažodžiu; ^s-79a67f2924440f03af87a30d
 
 
-5) informacinius pranešimus, nurodytus šio įstatymo [[#^s-4a0122677aa8e66df6b6b286|104 straipsnio 2 punkte]]; ^s-cd0ee49528f23f00cff1ea62
+5) informacinius pranešimus, nurodytus šio įstatymo 104 straipsnio 2 punkte; ^s-cd0ee49528f23f00cff1ea62
 Straipsnio punkto pakeitimai:
 Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 
@@ -1993,7 +1993,7 @@ Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 4. Mokėjimo paslaugų teikėjas privalo vykdyti tik su į Sąrašą įtrauktais subjektais mokėjimo kortele inicijuojamas mokėjimo operacijas ir (ar) mokėjimo kortele inicijuojamas nuotolines mokėjimo operacijas, skirtas statomoms sumoms priimti ir (ar) laimėjimams išmokėti. Ši nuostata netaikoma, kai Lietuvos Respublikoje veikiantis mokėjimo paslaugų teikėjas vykdo kitose negu Lietuvos Respublikos jurisdikciją turinčiose teritorijose mokėjimo kortele inicijuotas mokėjimo operacijas ir (ar) mokėjimo kortele inicijuotas nuotolines mokėjimo operacijas, skirtas statomoms sumoms priimti ir (ar) laimėjimams išmokėti. ^s-d237e9f83bb0ceff45fad2a4
 
 
-5. Subjektas į Sąrašą įtraukiamas licencijos (leidimo) organizuoti nuotolinius lošimus išdavimo jam dieną, o iš Sąrašo išbraukiamas licencijos (leidimo) organizuoti nuotolinius lošimus panaikinimo dieną. Sąrašą, kuriame nurodomas juridinio asmens pavadinimas, kodas, sąskaitos numeris, mokėjimo kortelių schemose, kaip jos apibrėžiamos 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 2015/751 dėl tarpbankinių mokesčių už kortelėmis grindžiamas mokėjimo operacijas, priskirtas unikalus prekybininko identifikavimo numeris, savo interneto svetainėje skelbia Priežiūros tarnyba. Priežiūros tarnyba atnaujina Sąrašą tą pačią dieną, kurią subjektui išduodama arba panaikinama licencija (leidimas) organizuoti nuotolinius lošimus. ^s-155d24d62210aef1986145f5
+5. Subjektas į Sąrašą įtraukiamas licencijos (leidimo) organizuoti nuotolinius lošimus išdavimo jam dieną, o iš Sąrašo išbraukiamas licencijos (leidimo) organizuoti nuotolinius lošimus panaikinimo dieną. Sąrašą, kuriame nurodomas juridinio asmens pavadinimas, kodas, sąskaitos numeris, mokėjimo kortelių schemose, kaip jos apibrėžiamos 2015 m. balandžio 29 d. Europos Parlamento ir Tarybos [reglamente (ES) Nr. 2015/751](https://eur-lex.europa.eu/eli/reg/2015/751/oj) dėl tarpbankinių mokesčių už kortelėmis grindžiamas mokėjimo operacijas, priskirtas unikalus prekybininko identifikavimo numeris, savo interneto svetainėje skelbia Priežiūros tarnyba. Priežiūros tarnyba atnaujina Sąrašą tą pačią dieną, kurią subjektui išduodama arba panaikinama licencija (leidimas) organizuoti nuotolinius lošimus. ^s-155d24d62210aef1986145f5
 
 
 6. Atsiskaitymų už dalyvavimą nelegalios lošimų veiklos vykdytojų organizuojamuose nuotoliniuose lošimuose per Lietuvos Respublikoje veikiančius mokėjimo paslaugų teikėjus ribojimo tvarką detalizuoja Priežiūros tarnyba, suderinusi šią tvarką su Lietuvos banku. ^s-1e92c50f4d93cb505365fea3
@@ -2303,7 +2303,7 @@ Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
 4. Priežiūros tarnyba ne vėliau kaip per 9 darbo dienas nuo prašymo pratęsti leidimo galiojimo terminą gavimo dienos išnagrinėjusi bendrovės prašymą priima sprendimą pratęsti leidimo galiojimo terminą arba sprendimą atsisakyti pratęsti leidimo galiojimo terminą ir ne vėliau kaip per vieną darbo dieną po sprendimo priėmimo bendrovei praneša apie priimtą sprendimą. ^s-10e947b3be268899d975bc2a
 
 
-5. Sprendimas atsisakyti išduoti leidimą priimamas, jeigu bendrovė su prašymu nepateikia savivaldybės tarybos sutikimo dėl lošimų organizavimo prašyme nurodytoje vietoje. Sprendimas  atsisakyti pratęsti leidimo galiojimo terminą priimamas, jeigu bendrovė su prašymu nepateikia atnaujinto savivaldybės tarybos sutikimo dėl lošimų organizavimo prašyme nurodytoje vietoje. ^s-cd3f508214f82bfe57e39753
+5. Sprendimas atsisakyti išduoti leidimą priimamas, jeigu bendrovė su prašymu nepateikia savivaldybės tarybos sutikimo [dėl lošimų organizavimo](https://e-tar.lt/portal/lt/legalAct/TAR.8E12C4FE0E9B) prašyme nurodytoje vietoje. Sprendimas  atsisakyti pratęsti leidimo galiojimo terminą priimamas, jeigu bendrovė su prašymu nepateikia atnaujinto savivaldybės tarybos sutikimo [dėl lošimų organizavimo](https://e-tar.lt/portal/lt/legalAct/TAR.8E12C4FE0E9B) prašyme nurodytoje vietoje. ^s-cd3f508214f82bfe57e39753
 
 
 6. Leidimai organizuoti nuotolinius lošimus galioja neterminuotai. ^s-798dd4e1ffa21856ea7d6fbb
@@ -2685,7 +2685,7 @@ Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
 3) sustabdo licencijos organizuoti lošimus galiojimą, jeigu yra šio įstatymo [[#^s-ca43f7112d00d8b420d0334a|72 straipsnio 4 dalyje]] nustatyti pagrindai; ^s-618df08ef8fa2d7081c09e47
 
 
-4) panaikina licencijos organizuoti lošimus galiojimą, jeigu yra šio įstatymo [[#^s-73f4f6f5c8ded1b2097cb87b|72 straipsnio 8 dalies]] 1, 5 ir 6 punktuose nustatyti pagrindai. ^s-222006e7a60780d85179768b
+4) panaikina licencijos organizuoti lošimus galiojimą, jeigu yra šio įstatymo [[#^s-73f4f6f5c8ded1b2097cb87b|72 straipsnio 8 dalies]] [[#^s-c46c6ad9cababf4a03ac6b80|1]], [[#^s-7d5aeed8bb9efc5a87d2d86b|5]] ir [[#^s-fb36a888d6849fe314f87e7a|6]] punktuose nustatyti pagrindai. ^s-222006e7a60780d85179768b
 
 
 2. Sprendimą taikyti bendrovei konkrečią poveikio priemonę priima Priežiūros tarnybos direktorius. ^s-4a2087fd96f6be540f11236a
@@ -2766,34 +2766,34 @@ Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
 ### 292 straipsnis. Baudos ir jų skyrimo tvarka ^s-1512ebfc34c61805520112d9
 
 
-1. Bendrovei už šio įstatymo [[#^s-2d860c0248a0fafca746b903|74 straipsnio]] 1 ir [[#^s-dde1d792e3bfdd0a2cbe5b8b|10 dalių]], [[#^s-1b5345c252275f80be0fa33b|10 straipsnio]] 9, 91, 92, 93, 10, 19 ir 21 dalių, 104, 11, 13 ir [[#^s-ea9feda7d2e9ffdd493fa437|208 straipsnių]] pažeidimus Priežiūros tarnyba skiria baudą nuo 3 iki 5 procentų praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą). ^s-b2dd287c9f070c561caf2012
+1. Bendrovei už šio įstatymo [[#^s-2d860c0248a0fafca746b903|74 straipsnio]] [[#^s-db048b04f9e28cfd7bf23e25|1]] ir [[#^s-b66fd874f107ec7001bdae4b|10]] dalių, [[#^s-1b5345c252275f80be0fa33b|10 straipsnio]] [[#^s-e91cf1328fbe516a7aca6a90|9]], [[#^s-072a0627d873888a5d2a7cc6|91]], [[#^s-2219ca279002fbaea54e6d9e|92]], 93, [[#^s-e5b913e5db8685756ab776db|10]], [[#^s-a3716ede29dce0a9bc276d98|19]] ir [[#^s-261094b186591a932b73d558|21]] dalių, [[#^s-cbc2f88e705a21e51faf45a5|104]], [[#^s-6fc041fe72adc8a10ad3dfa4|11]], [[#^s-69622e95e1c58f4776ef8b97|13]] ir [[#^s-ea9feda7d2e9ffdd493fa437|208]] straipsnių pažeidimus Priežiūros tarnyba skiria baudą nuo 3 iki 5 procentų praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą). ^s-b2dd287c9f070c561caf2012
 
 
 2. Bendrovei, per vienus metus nuo sprendimo taikyti [[#^s-b2dd287c9f070c561caf2012|šio straipsnio 1 dalyje]] nustatytą poveikio priemonę įsiteisėjimo dienos padariusiai [[#^s-b2dd287c9f070c561caf2012|šio straipsnio 1 dalyje]] nurodytą šio įstatymo pažeidimą, Priežiūros tarnyba skiria baudą nuo 8 iki 10 procentų praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą). ^s-06770d306e3c580fe31afeac
 
 
-3. Už šio įstatymo [[#^s-1b5345c252275f80be0fa33b|10 straipsnio]] 3, 5, 6, 8, 101, 11, 13, 15 ir 17 dalių, [[#^s-cd85e90db08fb3f96630bf29|101 straipsnio 1 dalies]], [[#^s-40ad4a9ecf75b54ef9391f53|102 straipsnio 3 dalies]], [[#^s-df0b1a2c0b195bab11061996|103 straipsnio]] 1 ir [[#^s-3879cbab729cc6620580e2de|3 dalių]], [[#^s-c14137598daa8df8ec652a1e|12 straipsnio]] 2, 3, 4 ir [[#^s-802c1d5c21d9c501aa4c3d99|5 dalių]], 15–[[#^s-854fa821da4190345b3e9bad|20 straipsnių]], [[#^s-d6a58bc68f8df3694012d318|201 straipsnio]] 1 ir [[#^s-06770d306e3c580fe31afeac|2 dalių]], [[#^s-33cfc3c7bfd2648c652fc4c5|202 straipsnio]], [[#^s-d2cd938ab8a6afe74a4ca75f|203 straipsnio]] 3, 4, 5, 8 ir [[#^s-49cff923efdd08df21ca375f|9 dalių]], [[#^s-11726ccb9ad77b88f9158540|205 straipsnio]] 1, 2 ir [[#^s-3879cbab729cc6620580e2de|3 dalių]] ir [[#^s-229d56b21fd1c760e48d754f|25 straipsnio 1 dalies]] pažeidimus Priežiūros tarnyba bendrovei skiria baudą nuo 2 iki 4 procentų praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą). ^s-3879cbab729cc6620580e2de
+3. Už šio įstatymo [[#^s-1b5345c252275f80be0fa33b|10 straipsnio]] [[#^s-a3016efad838b332f3e177fd|3]], [[#^s-496e6ef194dd21af5f5af405|5]], [[#^s-d8f1279ed4839c618c3bbe44|6]], [[#^s-8e9f175fd26635ab4b9e55d1|8]], [[#^s-e97bd9a7b7eee1c969216b1b|101]], [[#^s-67000ee21d411cdc71720a6c|11]], [[#^s-16a24d3af2a94a14cd3c59c9|13]], [[#^s-3b1863b120b9ceca45058389|15]] ir [[#^s-67d3043cc7e4af6046dc535c|17]] dalių, [[#^s-cd85e90db08fb3f96630bf29|101 straipsnio 1 dalies]], [[#^s-40ad4a9ecf75b54ef9391f53|102 straipsnio 3 dalies]], [[#^s-df0b1a2c0b195bab11061996|103 straipsnio]] [[#^s-97f810f355fc34b5e0431d36|1]] ir [[#^s-86a67ddef53140d9dab86d95|3]] dalių, [[#^s-c14137598daa8df8ec652a1e|12 straipsnio]] [[#^s-550eb2dce0d21e776402d2e7|2]], [[#^s-4279b28085ff550f19f01245|3]], [[#^s-60ba18cb80edf43a07f6648b|4]] ir [[#^s-5ebab11c77e9848c3dfbcfd5|5]] dalių, [[#^s-61e6af0543d801018e84f3d7|15]]–[[#^s-854fa821da4190345b3e9bad|20]] straipsnių, [[#^s-d6a58bc68f8df3694012d318|201 straipsnio]] [[#^s-c40726924508552837c864b7|1]] ir [[#^s-80d098c26c7551f587237792|2]] dalių, [[#^s-33cfc3c7bfd2648c652fc4c5|202 straipsnio]], [[#^s-d2cd938ab8a6afe74a4ca75f|203 straipsnio]] [[#^s-0702739607ce51498b593977|3]], [[#^s-003da6f4c507d83f912bb1ee|4]], [[#^s-41926270638126f75fc7d47e|5]], [[#^s-9745cf8d37c36044c0f310e6|8]] ir [[#^s-349c31331e1bdecf629d6c5a|9]] dalių, [[#^s-11726ccb9ad77b88f9158540|205 straipsnio]] [[#^s-2874a64b045e118195d26e52|1]], [[#^s-91f171143b310055fb92eef3|2]] ir [[#^s-b4c6d5cb60111cceec45b71e|3]] dalių ir [[#^s-229d56b21fd1c760e48d754f|25 straipsnio 1 dalies]] pažeidimus Priežiūros tarnyba bendrovei skiria baudą nuo 2 iki 4 procentų praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą). ^s-3879cbab729cc6620580e2de
 
 
 4. Bendrovei, per vienus metus nuo sprendimo taikyti [[#^s-3879cbab729cc6620580e2de|šio straipsnio 3 dalyje]] nustatytą poveikio priemonę įsiteisėjimo dienos padariusiai [[#^s-3879cbab729cc6620580e2de|šio straipsnio 3 dalyje]] nurodytą šio įstatymo pažeidimą, Priežiūros tarnyba skiria baudą nuo 6 iki 8 procentų praėjusių kalendorinių metų bendrųjų metinių pajamų (nuo sumos, gautos iš lošėjų statomų sumų atėmus lošėjams faktiškai išmokėtų laimėjimų sumą). ^s-c836c8a0ab911d634ae9ea75
 
 
-5. Pagal šio straipsnio 1–[[#^s-c836c8a0ab911d634ae9ea75|4 dalyse]] nurodytus dydžius nustatomas bazinis baudos dydis, kuris apskaičiuojamas pagal šiose dalyse nustatytą minimalios ir maksimalios baudų vidurkį. Kai yra atsakomybę lengvinančių aplinkybių, už kiekvieną atsakomybę lengvinančią aplinkybę baudos dydis mažinamas suma, kuri lygi 0,15 procento praėjusių kalendorinių metų bendrųjų metinių pajamų, o kai yra atsakomybę sunkinančių aplinkybių, už kiekvieną atsakomybę sunkinančią aplinkybę baudos dydis didinamas suma, kuri lygi 0,15 procento praėjusių kalendorinių metų bendrųjų metinių pajamų. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų skaičių. ^s-802c1d5c21d9c501aa4c3d99
+5. Pagal šio straipsnio [[#^s-b2dd287c9f070c561caf2012|1]]–[[#^s-c836c8a0ab911d634ae9ea75|4]] dalyse nurodytus dydžius nustatomas bazinis baudos dydis, kuris apskaičiuojamas pagal šiose dalyse nustatytą minimalios ir maksimalios baudų vidurkį. Kai yra atsakomybę lengvinančių aplinkybių, už kiekvieną atsakomybę lengvinančią aplinkybę baudos dydis mažinamas suma, kuri lygi 0,15 procento praėjusių kalendorinių metų bendrųjų metinių pajamų, o kai yra atsakomybę sunkinančių aplinkybių, už kiekvieną atsakomybę sunkinančią aplinkybę baudos dydis didinamas suma, kuri lygi 0,15 procento praėjusių kalendorinių metų bendrųjų metinių pajamų. Kai yra atsakomybę lengvinančių ir sunkinančių aplinkybių, bauda skiriama atsižvelgiant į jų skaičių. ^s-802c1d5c21d9c501aa4c3d99
 
 
-6. Priežiūros tarnybos direktorius, skirdamas baudą, įvertina sudarytos patariamosios komisijos (toliau – komisija) siūlymus. Komisijos sudarymo, klausimo dėl baudos skyrimo ir jos dydžio nustatymo svarstymo komisijos posėdyje ir komisijos sprendimų priėmimo tvarką nustato Priežiūros tarnyba. ^s-846185794bd18b4b994efd15
+6. Priežiūros tarnybos direktorius, skirdamas baudą, įvertina sudarytos patariamosios komisijos (toliau – komisija) siūlymus. Komisijos sudarymo, klausimo [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo ir jos dydžio nustatymo svarstymo komisijos posėdyje ir komisijos sprendimų priėmimo tvarką nustato Priežiūros tarnyba. ^s-846185794bd18b4b994efd15
 
 
 7. Apie komisijos posėdį, iki jo likus ne mažiau kaip 10 darbo dienų, informuojama bendrovė, kuriai ketinama skirti baudą. Bendrovė, kuriai ketinama skirti baudą, turi teisę pateikti visus įrodymus, patvirtinančius, kad nėra šio įstatymo pažeidimo sudėties, nurodyti atsakomybę lengvinančias aplinkybes ar pateikti kitus baudos skyrimui ir jos dydžio nustatymui reikšmingus įrodymus iki komisijos posėdžio pradžios. ^s-f2b8ef6bb101dfb76450d685
 
 
-8. Prireikus komisijos posėdyje kviečiami dalyvauti ir savo paaiškinimus pateikti bendrovės, kuriai ketinama skirti baudą, atstovai, kiti suinteresuoti subjektai, taip pat asmenys, kurių dalyvavimas reikalingas klausimui dėl baudos skyrimo ir jos dydžio nustatymo tinkamai išnagrinėti, (liudytojai, ekspertai, specialistai ar kiti asmenys). Bendrovės, kuriai ketinama skirti baudą, atstovų ar kitų suinteresuotų subjektų neatvykimas, jeigu jiems apie posėdį buvo tinkamai pranešta, nekliudo surengti komisijos posėdžio ir svarstyti klausimo dėl baudos skyrimo ir paskirtos baudos dydžio nustatymo. ^s-8f7808e99cd097cf37f3be26
+8. Prireikus komisijos posėdyje kviečiami dalyvauti ir savo paaiškinimus pateikti bendrovės, kuriai ketinama skirti baudą, atstovai, kiti suinteresuoti subjektai, taip pat asmenys, kurių dalyvavimas reikalingas klausimui [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo ir jos dydžio nustatymo tinkamai išnagrinėti, (liudytojai, ekspertai, specialistai ar kiti asmenys). Bendrovės, kuriai ketinama skirti baudą, atstovų ar kitų suinteresuotų subjektų neatvykimas, jeigu jiems apie posėdį buvo tinkamai pranešta, nekliudo surengti komisijos posėdžio ir svarstyti klausimo [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo ir paskirtos baudos dydžio nustatymo. ^s-8f7808e99cd097cf37f3be26
 
 
 9. Bendrovė, kuriai ketinama skirti baudą ar ji paskirta, ir kiti suinteresuoti subjektai turi teisę susipažinti su Priežiūros tarnybos surinkta medžiaga, kuria grindžiamas baudos skyrimas ir jos dydžio nustatymas, išskyrus informaciją, kuri yra valstybės, tarnybos ar komercinė kitų ūkio subjektų paslaptis arba kurią atskleidus būtų pažeista fizinio asmens teisė į privataus gyvenimo neliečiamumą. ^s-49cff923efdd08df21ca375f
 
 
-10. Pasibaigus posėdžiui komisija per 5 darbo dienas savo siūlymus dėl baudos skyrimo pateikia svarstyti Priežiūros tarnybos direktoriui, o šis ne vėliau kaip per 5 darbo dienas po komisijos pasiūlymų gavimo dienos priima galutinį sprendimą dėl baudos skyrimo ir paskirtos baudos dydžio. Priežiūros tarnybos direktoriaus sprendimas dėl baudos skyrimo ir paskirtos baudos dydžio, kuriame nurodomi sprendimo priėmimo motyvai, pagrindai ir sprendimo apskundimo tvarka, per 3 darbo dienas pateikiamas bendrovei, dėl kurios jis priimtas. ^s-dde1d792e3bfdd0a2cbe5b8b
+10. Pasibaigus posėdžiui komisija per 5 darbo dienas savo siūlymus [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo pateikia svarstyti Priežiūros tarnybos direktoriui, o šis ne vėliau kaip per 5 darbo dienas po komisijos pasiūlymų gavimo dienos priima galutinį sprendimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo ir paskirtos baudos dydžio. Priežiūros tarnybos direktoriaus sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo ir paskirtos baudos dydžio, kuriame nurodomi sprendimo priėmimo motyvai, pagrindai ir sprendimo apskundimo tvarka, per 3 darbo dienas pateikiamas bendrovei, dėl kurios jis priimtas. ^s-dde1d792e3bfdd0a2cbe5b8b
 
 
 Straipsnio pakeitimai:
@@ -2810,7 +2810,7 @@ Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
 2. Kai yra motyvuotas bendrovės prašymas, Priežiūros tarnybos sprendimu baudos ar jos dalies mokėjimas gali būti atidedamas iki 6 mėnesių. ^s-0fbf780447530153049362c0
 
 
-3. Priežiūros tarnybos direktoriaus sprendimas skirti baudą yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka. ^s-ece789fd75f070e1bfa32190
+3. Priežiūros tarnybos direktoriaus sprendimas skirti baudą yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir [Lietuvos Respublikos civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-ece789fd75f070e1bfa32190
 Straipsnio dalies pakeitimai:
 Nr. XV-908, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08241
 
@@ -2905,7 +2905,7 @@ Bendrovės, gavusios licencijas ir leidimus atidaryti automatų ir bingo salonus
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1193, 2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
-AZARTINIŲ LOŠIMŲ ĮSTATYMO, DARBO SUTARTIES ĮSTATYMO, ĮSTATYMO „DĖL LIETUVOS RESPUBLIKOS GYVENTOJŲ PAJAMŲ BRANGIAM TURTUI ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI PERLEIDŽIAMŲ LĖŠŲ DEKLARAVIMO“, GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+AZARTINIŲ LOŠIMŲ ĮSTATYMO, DARBO SUTARTIES ĮSTATYMO, ĮSTATYMO [„DĖL LIETUVOS RESPUBLIKOS GYVENTOJŲ PAJAMŲ BRANGIAM TURTUI ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI PERLEIDŽIAMŲ LĖŠŲ DEKLARAVIMO“](https://e-tar.lt/portal/lt/legalAct/TAR.1273CA6042BD), GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2939,7 +2939,7 @@ Nr. IX-1948, 2003-12-23, Žin., 2004, Nr. 4-49 (2004-01-07)
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-800, 2006-07-19, Žin., 2006, Nr. 87-3410 (2006-08-08)
-[[#^s-3930cf19e6bac7c4efbb3484|AZARTINIŲ LOŠIMŲ ĮSTATYMO 2 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+[AZARTINIŲ LOŠIMŲ ĮSTATYMO 2 STRAIPSNIO PAKEITIMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.759BD7586C2A)
 Šio įstatymo [[#^s-f9609b367ae73f17b1f89008|1 straipsnio]] nuostata dėl euro įsigalioja nuo euro įvedimo Lietuvos Respublikoje dienos (2015-01-01).
 
 10.
@@ -2974,12 +2974,12 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1166, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13586
-Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 13, 19 ir [[#^s-854fa821da4190345b3e9bad|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-3930cf19e6bac7c4efbb3484|2]], [[#^s-69622e95e1c58f4776ef8b97|13]], [[#^s-e1a3d2d2de83d91154cccfd9|19]] ir [[#^s-854fa821da4190345b3e9bad|20]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1734, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08980
-Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 3, 4, 8, 10, 12, 14, 16, 17, 19, 21, 22, 23, 24, [[#^s-b4a1349b9a4cc3f4e2f2eb1f|28 straipsnių]] pakeitimo, Įstatymo papildymo 8-1, 10-1, 10-2, 10-3 straipsniais ir antruoju-1 skirsniu įstatymas
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-3930cf19e6bac7c4efbb3484|2]], [[#^s-49a3f18a34a4a3775e957927|3]], [[#^s-a8967414fb478d1aea34d65e|4]], [[#^s-a82f4e88278af8047d4a075c|8]], [[#^s-1b5345c252275f80be0fa33b|10]], [[#^s-c14137598daa8df8ec652a1e|12]], [[#^s-bec1c8cf046e78c477a90b59|14]], [[#^s-08fe42ddf14836556285e6c3|16]], [[#^s-5b618bde532adc1faa857392|17]], [[#^s-e1a3d2d2de83d91154cccfd9|19]], 21, [[#^s-819f820ff31a729b4191bd3d|22]], [[#^s-04edcdd02c00fad79b3bea37|23]], [[#^s-30e9cdd9c70d9d4452154df7|24]], [[#^s-b4a1349b9a4cc3f4e2f2eb1f|28]] straipsnių pakeitimo, Įstatymo papildymo 8-1, 10-1, 10-2, 10-3 straipsniais ir antruoju-1 skirsniu įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2989,7 +2989,7 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 10-2 straipsnio pa
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2588, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20336
-Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 10, 20-6 ir [[#^s-b4a1349b9a4cc3f4e2f2eb1f|28 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-1b5345c252275f80be0fa33b|10]], 20-6 ir [[#^s-b4a1349b9a4cc3f4e2f2eb1f|28]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2999,17 +2999,17 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-854fa821da41
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1886, 2018-12-20, paskelbta TAR 2019-01-02, i. k. 2019-00021
-Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 1, 2, 10, 26, 28, [[#^s-c484d05e4693c15690ceb391|29 straipsnių]] pakeitimo ir Įstatymo papildymo trečiuoju-1 skirsniu įstatymas
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-f9609b367ae73f17b1f89008|1]], [[#^s-3930cf19e6bac7c4efbb3484|2]], [[#^s-1b5345c252275f80be0fa33b|10]], [[#^s-24ce467bc234d8d89659974b|26]], [[#^s-b4a1349b9a4cc3f4e2f2eb1f|28]], [[#^s-c484d05e4693c15690ceb391|29]] straipsnių pakeitimo ir Įstatymo papildymo trečiuoju-1 skirsniu įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2147, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09400
-Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 10 ir [[#^s-854fa821da4190345b3e9bad|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-1b5345c252275f80be0fa33b|10]] ir [[#^s-854fa821da4190345b3e9bad|20]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-771, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18823
-Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 10, 15, 16, [[#^s-c484d05e4693c15690ceb391|29 straipsnių]] pakeitimo ir Įstatymo papildymo 15-1, 16-1 straipsniais įstatymas
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-3930cf19e6bac7c4efbb3484|2]], [[#^s-1b5345c252275f80be0fa33b|10]], [[#^s-61e6af0543d801018e84f3d7|15]], [[#^s-08fe42ddf14836556285e6c3|16]], [[#^s-c484d05e4693c15690ceb391|29]] straipsnių pakeitimo ir Įstatymo papildymo 15-1, 16-1 straipsniais įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3029,7 +3029,7 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 trečiojo skirsnio
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2743, 2019-12-19, paskelbta TAR 2019-12-30, i. k. 2019-21597
-Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 4, 6, 10, 10-2, 11, 12, 21, 22, 23, [[#^s-b4a1349b9a4cc3f4e2f2eb1f|28 straipsnių]] pakeitimo, Įstatymo papildymo 7-1, 7-2, 7-3, 29-1, 29-2, 29-3 straipsniais ir [[#^s-78072bbdeb0cb50b054243ab|32 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-a8967414fb478d1aea34d65e|4]], [[#^s-58883dbf1439eca98853c3f5|6]], [[#^s-1b5345c252275f80be0fa33b|10]], 10-2, [[#^s-6fc041fe72adc8a10ad3dfa4|11]], [[#^s-c14137598daa8df8ec652a1e|12]], 21, [[#^s-819f820ff31a729b4191bd3d|22]], [[#^s-04edcdd02c00fad79b3bea37|23]], [[#^s-b4a1349b9a4cc3f4e2f2eb1f|28]] straipsnių pakeitimo, Įstatymo papildymo 7-1, 7-2, 7-3, 29-1, 29-2, 29-3 straipsniais ir [[#^s-78072bbdeb0cb50b054243ab|32 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3044,7 +3044,7 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-1b5345c25227
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-580, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21919
-Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 5, 8, 8-1, 9, 13, 21 straipsnių pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-c20758f7a0be85565b598a6b|5]], [[#^s-a82f4e88278af8047d4a075c|8]], 8-1, [[#^s-f1f53e49ceef3d47402094c9|9]], [[#^s-69622e95e1c58f4776ef8b97|13]], 21 straipsnių pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3064,22 +3064,22 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 20-7 straipsnio pa
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2544, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07538
-Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 6, 7-1, 7-2, 7-3, 11, 22, 29-2 straipsnių pakeitimo ir Įstatymo papildymo 7-4 straipsniu įstatymas
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-3930cf19e6bac7c4efbb3484|2]], [[#^s-58883dbf1439eca98853c3f5|6]], 7-1, 7-2, 7-3, [[#^s-6fc041fe72adc8a10ad3dfa4|11]], [[#^s-819f820ff31a729b4191bd3d|22]], 29-2 straipsnių pakeitimo ir Įstatymo papildymo 7-4 straipsniu įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3080, 2024-11-07, paskelbta TAR 2024-11-19, i. k. 2024-20109
-Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 1, 2, 7-3, 10, 10-1, 16, 20, 20-1, 20-3, 21, 22, 23, 26, 28, 29-1, 29-2 straipsnių ir trečiojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 2-1, 10-4, 15-1, 16-1 straipsniais ir 20-4, 20-6 straipsnių pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-f9609b367ae73f17b1f89008|1]], [[#^s-3930cf19e6bac7c4efbb3484|2]], 7-3, [[#^s-1b5345c252275f80be0fa33b|10]], 10-1, [[#^s-08fe42ddf14836556285e6c3|16]], [[#^s-854fa821da4190345b3e9bad|20]], 20-1, 20-3, 21, [[#^s-819f820ff31a729b4191bd3d|22]], [[#^s-04edcdd02c00fad79b3bea37|23]], [[#^s-24ce467bc234d8d89659974b|26]], [[#^s-b4a1349b9a4cc3f4e2f2eb1f|28]], 29-1, 29-2 straipsnių ir trečiojo skirsnio pavadinimo pakeitimo, Įstatymo papildymo 2-1, 10-4, 15-1, 16-1 straipsniais ir 20-4, 20-6 straipsnių pripažinimo netekusiais galios įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-107, 2025-01-14, paskelbta TAR 2025-01-22, i. k. 2025-00717
-Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 20-7 ir [[#^s-c484d05e4693c15690ceb391|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-3930cf19e6bac7c4efbb3484|2]], 20-7 ir [[#^s-c484d05e4693c15690ceb391|29]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3132, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20371
-Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 2, 10, 10-3, 21 ir 29-2 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-3930cf19e6bac7c4efbb3484|2]], [[#^s-1b5345c252275f80be0fa33b|10]], 10-3, 21 ir 29-2 straipsnių pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3089,4 +3089,4 @@ Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 29-3 straipsnio pa
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-517, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19754
-Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 6, 7-1, 7-3, 10, 10-4, 16, [[#^s-b4a1349b9a4cc3f4e2f2eb1f|28 straipsnių]] pakeitimo ir Įstatymo papildymo 9-1, 15-3 straipsniais įstatymas
+Lietuvos Respublikos azartinių lošimų įstatymo Nr. IX-325 [[#^s-58883dbf1439eca98853c3f5|6]], 7-1, 7-3, [[#^s-1b5345c252275f80be0fa33b|10]], 10-4, [[#^s-08fe42ddf14836556285e6c3|16]], [[#^s-b4a1349b9a4cc3f4e2f2eb1f|28]] straipsnių pakeitimo ir Įstatymo papildymo 9-1, 15-3 straipsniais įstatymas

@@ -47,7 +47,7 @@ Pakeisti 3 straipsnį ir jį išdėstyti taip:
 „3 straipsnis. Įstatymo įsigaliojimas
 
 
-Šis įstatymas įsigalioja 2011 m. sausio 1 d., o šio įstatymo 1 straipsniu keičiamo ir papildomo Valstybinės darbo inspekcijos įstatymo 6 straipsnio 24 punkto nuostatos dėl duomenų apie darbo priemonių, darbo sąlygų neatitiktį darbuotojų saugos ir sveikatos teisės aktų nustatytiems reikalavimams teikimo įsigalioja 2012 m. sausio 1 d.“
+Šis įstatymas įsigalioja 2011 m. sausio 1 d., o šio įstatymo 1 straipsniu keičiamo ir papildomo [[latest/TAR.1FD5C3A4D10A|Valstybinės darbo inspekcijos įstatymo 6 straipsnio 24 punkto]] nuostatos dėl duomenų apie darbo priemonių, darbo sąlygų neatitiktį darbuotojų saugos ir sveikatos teisės aktų nustatytiems reikalavimams teikimo įsigalioja 2012 m. sausio 1 d.“
 
 
 

@@ -94,7 +94,7 @@ Nr. XIII-3233, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15867
 ### 3 straipsnis. Ginkluotos gynybos ir pasipriešinimo agresijai teisiniai pagrindai ^s-345251a23b196dd134e3c622
 
 
-Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai teisinius pagrindus nustato Lietuvos Respublikos Konstitucija, Nacionalinio saugumo pagrindų, šis ir kiti įstatymai, taip pat Lietuvos Respublikos tarptautinės sutartys ir visuotinai pripažintos tarptautinės teisės normos, įtvirtinančios neatimamą kiekvienos valstybės teisę į individualią ar kolektyvinę savigyną nuo ginkluoto užpuolimo.
+Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai teisinius pagrindus nustato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Nacionalinio saugumo pagrindų, šis ir kiti įstatymai, taip pat Lietuvos Respublikos tarptautinės sutartys ir visuotinai pripažintos tarptautinės teisės normos, įtvirtinančios neatimamą kiekvienos valstybės teisę į individualią ar kolektyvinę savigyną nuo ginkluoto užpuolimo.
 
 
 
@@ -135,7 +135,7 @@ Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai teisinius p
 6) užsienio valstybės veiksmai, leidžiantys trečiajai valstybei naudotis savo teritorija agresijos aktui prieš Lietuvos Respubliką vykdyti; ^s-f90430db7f1bb9e2c90c66ca
 
 
-7) užsienio valstybės veiksmai – rėmimas, siuntimas ar leidimas siųsti ginkluotas gaujas, grupes ir nereguliarias pajėgas arba samdinius, kurie vykdo ginkluotas operacijas prieš Lietuvos Respubliką, jeigu šios operacijos yra pakankamai rimto pobūdžio, kad prilygtų [[#^s-294d2f7cf91be9e2ce11d9f0|šio straipsnio 2 dalies]] 1–[[#^s-f90430db7f1bb9e2c90c66ca|6 punktuose]] išvardytiems agresijos aktams, – taip pat užsienio valstybės dalyvavimas šiose operacijose. ^s-ec8d72dcd278597c5efe2a14
+7) užsienio valstybės veiksmai – rėmimas, siuntimas ar leidimas siųsti ginkluotas gaujas, grupes ir nereguliarias pajėgas arba samdinius, kurie vykdo ginkluotas operacijas prieš Lietuvos Respubliką, jeigu šios operacijos yra pakankamai rimto pobūdžio, kad prilygtų [[#^s-294d2f7cf91be9e2ce11d9f0|šio straipsnio 2 dalies]] [[#^s-27c98f90013b553b5486c53d|1]]–[[#^s-f90430db7f1bb9e2c90c66ca|6]] punktuose išvardytiems agresijos aktams, – taip pat užsienio valstybės dalyvavimas šiose operacijose. ^s-ec8d72dcd278597c5efe2a14
 
 
 3. Agresijos aktais taip pat laikomi [[#^s-294d2f7cf91be9e2ce11d9f0|šio straipsnio 2 dalyje]] neišvardyti užsienio valstybių veiksmai, keliantys rimtą grėsmę Lietuvos Respublikos suverenitetui, teritorijos vientisumui ar politinei nepriklausomybei, taip pat aktai, kuriuos Jungtinių Tautų Organizacijos Saugumo Taryba pripažino agresija pagal Jungtinių Tautų Organizacijos Įstatus. ^s-931bd524773d925c97166e5f
@@ -197,7 +197,7 @@ Pagal Jungtinių Tautų Organizacijos Įstatų 51 straipsnį Lietuvos Respublika
 ### 10 straipsnis. Valdžia priešo okupuotoje teritorijoje ^s-aa2d57559d5d621a2f351073
 
 
-1. Priešo okupuotoje Lietuvos Respublikos teritorijoje galioja tik Lietuvos Respublikos Konstitucija ir įstatymai, taip pat Lietuvos Respublikos tarptautinės sutartys. Okupavusios valstybės įstatymai negalioja ir neprivalomi vykdyti. ^s-158e79c6456f8390bd654773
+1. Priešo okupuotoje Lietuvos Respublikos teritorijoje galioja tik [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) ir įstatymai, taip pat Lietuvos Respublikos tarptautinės sutartys. Okupavusios valstybės įstatymai negalioja ir neprivalomi vykdyti. ^s-158e79c6456f8390bd654773
 
 
 2. Priešo okupuotoje Lietuvos Respublikos teritorijoje okupavusios valstybės valdžia ir okupacinė administracija yra neteisėtos. Okupacinės administracijos teisės aktai ir įsakymai Lietuvos Respublikos piliečių ir gyventojų neįpareigoja. ^s-4a11e2a8e5411e72b4619d66
@@ -311,4 +311,4 @@ Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo N
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3233, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15867
-Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 2 ir [[#^s-aa2d57559d5d621a2f351073|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymo Nr. VIII-1856 [[#^s-a7a9893befc11ab93c34b92a|2]] ir [[#^s-aa2d57559d5d621a2f351073|10]] straipsnių pakeitimo įstatymas

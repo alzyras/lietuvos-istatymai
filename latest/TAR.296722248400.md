@@ -86,7 +86,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 9. Indėlių ir (ar) įsipareigojimų investuotojams draudimo suma (toliau – draudimo suma) – draudžiamo indėlio ar įsipareigojimų investuotojams suma, apskaičiuojama šio Įstatymo nustatyta tvarka. ^s-ea2b4b2ed5c20fef3d2a09cf
 
 
-10. Investicinės paslaugos – investicinės ir papildomos paslaugos, nurodytos [[latest/TAR.AB7AFE2F35B2#^s-af37e89e5229341944f6a883|Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio]] 13 ir 22 dalyse. ^s-9c5b84e343bb196ec095a07c
+10. Investicinės paslaugos – investicinės ir papildomos paslaugos, nurodytos [[latest/TAR.AB7AFE2F35B2#^s-af37e89e5229341944f6a883|Lietuvos Respublikos finansinių priemonių rinkų įstatymo 3 straipsnio]] [[latest/TAR.AB7AFE2F35B2#^s-43f30a4e06475ab97bb6b968|13]] ir [[latest/TAR.AB7AFE2F35B2#^s-55a70ac24d74a6601f1bb142|22]] dalyse. ^s-9c5b84e343bb196ec095a07c
 
 
 11. Investuotojas – fizinis arba juridinis asmuo, perdavęs draudėjui pinigus arba vertybinius popierius norėdamas pasinaudoti draudėjo teikiamomis investicinėmis paslaugomis. Jeigu reikalavimo teises į pinigus ir (arba) vertybinius popierius pagal sutartis turėjo asmenų grupė, kiekvienas jos asmuo laikomas investuotoju ir vertybiniai popieriai bei pinigai padalijami kiekvienam iš jų lygiomis dalimis, jei sutartyse, iš kurių atsiranda reikalavimo teisės, ar teismų sprendimuose nenustatyta kitaip. Jeigu pinigus ar vertybinius popierius perdavęs asmuo (išskyrus valdymo įmonę, kai ji valdo kolektyvinio investavimo subjektus ir pensijų fondus) veikė kaip patikėtinis, investuotoju laikomas patikėtojas. ^s-fdcf9b7ad3105eeca2df5dba
@@ -126,13 +126,13 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 ### 3 straipsnis. 3 straipsnio pakeitimas ir papildymas ^s-034a0e6554430984b184c73f
 
 
-1. [[#^s-51485e5b1eef133704ea1d53|3 straipsnio 1 dalyje]] po žodžio „narių“ įrašyti žodžius „ir Europos ekonominės erdvės valstybių (toliau – Europos valstybių)“ ir šią dalį išdėstyti taip: ^s-51485e5b1eef133704ea1d53
+1. 3 straipsnio 1 dalyje po žodžio „narių“ įrašyti žodžius „ir Europos ekonominės erdvės valstybių (toliau – Europos valstybių)“ ir šią dalį išdėstyti taip: ^s-51485e5b1eef133704ea1d53
 
 
 „1. Indėlių draudimo objektas yra indėlininkų indėliai litais ir užsienio valiuta – Jungtinių Amerikos Valstijų doleriais, eurais ir Europos Sąjungos valstybių narių ir Europos ekonominės erdvės valstybių (toliau – Europos valstybių) nacionalinėmis valiutomis (toliau – užsienio valiuta).“
 
 
-2. [[#^s-9a7288c2cc63a9370e42eca4|3 straipsnio 2 dalyje]] išbraukti žodžius „Jungtinių Amerikos Valstijų doleriais, eurais ir Europos Sąjungos valstybių narių nacionalinėmis valiutomis“ ir šią dalį išdėstyti taip: ^s-9a7288c2cc63a9370e42eca4
+2. 3 straipsnio 2 dalyje išbraukti žodžius „Jungtinių Amerikos Valstijų doleriais, eurais ir Europos Sąjungos valstybių narių nacionalinėmis valiutomis“ ir šią dalį išdėstyti taip: ^s-9a7288c2cc63a9370e42eca4
 
 
 „2. Įsipareigojimų investuotojams draudimo objektas yra įsipareigojimai grąžinti investuotojams vertybinius popierius, nesvarbu, kokia valiuta jie yra išreikšti, arba pinigus litais ar užsienio valiuta.“
@@ -185,7 +185,7 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 ### 5 straipsnis. 5 straipsnio 1 ir 3 dalių pakeitimas ^s-38270c4e850b438158d33758
 
 
-1. [[#^s-a37e60d2a89b0140c9db457c|5 straipsnio 1 dalyje]] vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“, [[#^s-743fa2dac70f911166899705|4 punkte]] vietoj skaičiaus „20 000“ įrašyti skaičių „22 000“ ir šią dalį išdėstyti taip: ^s-a37e60d2a89b0140c9db457c
+1. 5 straipsnio 1 dalyje vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“, [[#^s-743fa2dac70f911166899705|4 punkte]] vietoj skaičiaus „20 000“ įrašyti skaičių „22 000“ ir šią dalį išdėstyti taip: ^s-a37e60d2a89b0140c9db457c
 
 
 „1. Indėlių draudimo suma yra lygi indėlininko indėliui, buvusiam banke, banko filiale arba kredito unijoje draudžiamojo įvykio dieną, tačiau ji negali būti didesnė kaip:
@@ -252,7 +252,7 @@ Pakeisti [[#^s-5baa91ced125634a0c03ecd5|7 straipsnį]] ir jį išdėstyti taip:
 ### 8 straipsnis. 9 straipsnio pakeitimas ^s-d037597ddb824112e14fa873
 
 
-[[#^s-270aae841993762391479a73|9 straipsnio 1 dalyje]] vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“, 3 dalies 5 punkte vietoj skaičiaus „20 000“ įrašyti skaičių „22 000“, 4 ir [[#^s-e949580af4821db5d7f22546|5 dalyse]] vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“ ir visą straipsnį išdėstyti taip:
+[[#^s-270aae841993762391479a73|9 straipsnio 1 dalyje]] vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“, 3 dalies 5 punkte vietoj skaičiaus „20 000“ įrašyti skaičių „22 000“, [[#^s-a04a5ed4036094d82b1052d4|4]] ir [[#^s-e949580af4821db5d7f22546|5]] dalyse vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“ ir visą straipsnį išdėstyti taip:
 
 
 
@@ -293,7 +293,7 @@ Pakeisti [[#^s-5baa91ced125634a0c03ecd5|7 straipsnį]] ir jį išdėstyti taip:
 ### 9 straipsnis. 10 straipsnio pakeitimas ^s-45b26155466f9795824e6440
 
 
-[[#^s-5503c461e5e2bd2df9334225|10 straipsnio]] 1, 2 ir [[#^s-74bf3aa2d74b820bf58fbf75|3 dalyse]] vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“ ir visą straipsnį išdėstyti taip:
+[[#^s-5503c461e5e2bd2df9334225|10 straipsnio]] 1, 2 ir 3 dalyse vietoj žodžio „draudiminio“ įrašyti žodį „draudžiamojo“ ir visą straipsnį išdėstyti taip:
 
 
 

@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio papildymas ir pakeitimas ^s-7d6a0fb9581d4afb458f7fa6
 
 
-Papildyti 1 straipsnį naujais 3, 8, 9, 18, 35, [[#^s-410600633b480d317f1033c0|39 punktais]], atitinkamai pakeisti kitų punktų numeraciją ir visą straipsnį išdėstyti taip:
+Papildyti 1 straipsnį naujais [[#^s-3d0dd51a74ba85c7351d369a|3]], [[#^s-de86b175a7a0f4c2ca6c7735|8]], [[#^s-d367da1a5551db3b78f632ce|9]], [[#^s-98d32eea2660cc6366b5223e|18]], [[#^s-29fb50581877572c55d6c486|35]], [[#^s-410600633b480d317f1033c0|39]] punktais, atitinkamai pakeisti kitų punktų numeraciją ir visą straipsnį išdėstyti taip:
 
 
 „1 straipsnis. Atmintinos dienos

@@ -89,7 +89,7 @@ Pakeisti 48 straipsnį ir jį išdėstyti taip:
 4. Asmuo, kuris yra įgijęs kvalifikaciją užsienio valstybėje, išskyrus Europos Sąjungos valstybėje narėje arba Europos ekonominės erdvės valstybėje, arba Šveicarijos Konfederacijoje ir kuriam Vyriausybės nustatyta tvarka pripažinta atitinkama kvalifikacija, gali dirbti mokytoju Lietuvoje. ^s-71b3ab3552cb8d78a098dbca
 
 
-5. Jei kiti įstatymai mokytojams nustato kitokius reikalavimus, negu numatyti šio straipsnio 1 ir [[#^s-1924a90c70e6d5a916559cae|2 dalyse]], taikomi kituose įstatymuose nustatyti reikalavimai. ^s-fdc6f93d28de87902d54f0d8
+5. Jei kiti įstatymai mokytojams nustato kitokius reikalavimus, negu numatyti šio straipsnio [[#^s-6c337d402bfeec2da6472a03|1]] ir [[#^s-1924a90c70e6d5a916559cae|2]] dalyse, taikomi kituose įstatymuose nustatyti reikalavimai. ^s-fdc6f93d28de87902d54f0d8
 
 
 6. Mokykloje Lietuvos Respublikos teisės aktų ir Lietuvos Respublikos tarptautinių sutarčių nustatyta tvarka gali dirbti užsienio šalies pilietis ar asmuo be pilietybės. ^s-da3ac825468d8a0f4f735dc8
@@ -98,7 +98,7 @@ Pakeisti 48 straipsnį ir jį išdėstyti taip:
 7. Mokytoju negali dirbti asmuo: ^s-ba85ec09ab79d85131d53fdb
 
 
-1) neatitinkantis šio straipsnio 1–[[#^s-fdc6f93d28de87902d54f0d8|5 dalyse]] nustatytų reikalavimų; ^s-d7221099e61e613a460e0590
+1) neatitinkantis šio straipsnio [[#^s-6c337d402bfeec2da6472a03|1]]–[[#^s-fdc6f93d28de87902d54f0d8|5]] dalyse nustatytų reikalavimų; ^s-d7221099e61e613a460e0590
 
 
 2) nuteistas už tyčinę nusikalstamą veiką; ^s-45988d05ecd3c467769163ad

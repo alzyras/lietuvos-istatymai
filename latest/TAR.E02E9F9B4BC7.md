@@ -46,7 +46,7 @@ Vilnius
 1. 2 straipsnio 2 dalyje vietoj žodžio „Bendrijos“ įrašyti žodį „Sąjungos“ ir šią dalį išdėstyti taip: ^s-8b9d06ea2ad2c174bc832041
 
 
-„2. Bendrasis viešųjų pirkimų žodynas (toliau – CPV) – viešuosiuose pirkimuose taikoma klasifikacijos sistema, priimta Reglamentu (EB) Nr. 2195/2002 ir užtikrinanti, kad ji atitinka kitus galiojančius klasifikatorius. Jeigu dėl šio įstatymo 1 ir 2 priedėliuose nurodytų CPV ir atitinkamai Ekonominės veiklos rūšių klasifikatoriaus, nacionalinės Statistinio Europos Sąjungos ekonominės veiklos rūšių klasifikatoriaus (NACE 1 red.) versijos (toliau – EVRK) ar Laikinojo svarbiausio produktų klasifikatoriaus (toliau – CPC) kodų apibrėžimų nesutapimo galimas skirtingas šio įstatymo taikymo aiškinimas, viršenybė teikiama EVRK ir CPC klasifikatoriams.“
+„2. Bendrasis viešųjų pirkimų žodynas (toliau – CPV) – viešuosiuose pirkimuose taikoma klasifikacijos sistema, priimta [Reglamentu (EB) Nr. 2195/2002](https://eur-lex.europa.eu/eli/reg/2195/2002/oj) ir užtikrinanti, kad ji atitinka kitus galiojančius klasifikatorius. Jeigu dėl šio įstatymo 1 ir 2 priedėliuose nurodytų CPV ir atitinkamai Ekonominės veiklos rūšių klasifikatoriaus, nacionalinės Statistinio Europos Sąjungos ekonominės veiklos rūšių klasifikatoriaus (NACE 1 red.) versijos (toliau – EVRK) ar Laikinojo svarbiausio produktų klasifikatoriaus (toliau – CPC) kodų apibrėžimų nesutapimo galimas skirtingas šio įstatymo taikymo aiškinimas, viršenybė teikiama EVRK ir CPC klasifikatoriams.“
 
 
 2. Pakeisti 2 straipsnio 15 dalį ir ją išdėstyti taip: ^s-2b63ed10d4aa0706ad4f58a2
@@ -473,7 +473,7 @@ Papildyti 57 straipsnį 3 dalimi:
 1. 71 straipsnio 2 dalyje vietoj žodžių „Europos Bendrijos steigimo sutarties“ įrašyti žodžius „Sutarties dėl Europos Sąjungos veikimo“ ir šią dalį išdėstyti taip: ^s-212a503eb6db8ad7fd18bbc4
 
 
-„2. Taikant [[#^s-212a503eb6db8ad7fd18bbc4|šio straipsnio 1 dalį]], sprendžiama, ar veiklą tiesiogiai veikia konkurencija. Vadovaujamasi kriterijais, kurie atitinka Sutarties dėl Europos Sąjungos veikimo nuostatas dėl konkurencijos, tokiais kaip atitinkamų prekių arba paslaugų savybės, alternatyvių prekių arba paslaugų buvimas, kainos ir esamas ar galimas daugiau kaip vieno atitinkamų prekių ar paslaugų tiekėjo buvimas.“
+„2. Taikant šio straipsnio 1 dalį, sprendžiama, ar veiklą tiesiogiai veikia konkurencija. Vadovaujamasi kriterijais, kurie atitinka Sutarties dėl Europos Sąjungos veikimo nuostatas dėl konkurencijos, tokiais kaip atitinkamų prekių arba paslaugų savybės, alternatyvių prekių arba paslaugų buvimas, kainos ir esamas ar galimas daugiau kaip vieno atitinkamų prekių ar paslaugų tiekėjo buvimas.“
 
 
 2. 71 straipsnio 3 dalyje vietoj žodžio „Bendrijos“ įrašyti žodį „Sąjungos“ ir šią dalį išdėstyti taip: ^s-faaf98dd7c5bb7414b9b60a8
@@ -547,7 +547,7 @@ Papildyti 57 straipsnį 3 dalimi:
 Pakeisti 85 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Perkančioji organizacija, išskyrus šio straipsnio 5 dalyje nurodytas organizacijas, atlikdama supaprastintus pirkimus, privalo vadovautis šio įstatymo I skyriaus, [[#^s-f3b4b9485e04cfdf068764a3|24 straipsnio 2 dalies]] 5, 9, 23 punktų, 3 ir 5 dalių (išskyrus neskelbiamą pirkimą, kai pateikti pasiūlymą kviečiamas tik vienas tiekėjas, jeigu perkančioji organizacija mano, kad tokia informacija yra nereikalinga), [[#^s-6cbe4878482f428355dd38c2|27 straipsnio 1 dalies]], [[#^s-b9d1479d8fde0a580f1d6fa8|40 straipsnio]], 41 straipsnio 1 dalies, IV ir V skyrių reikalavimais (atlikdama mažos vertės pirkimus, neprivalo vadovautis šio įstatymo [[#^s-22f53a0001b51b736ae026af|17 straipsnio]] 1, 2, 5, 7, 8 dalių, [[#^s-106171b481b91a710a8ab0c5|18 straipsnio]] 1, 2, 3, 6 dalių, [[#^s-f3b4b9485e04cfdf068764a3|24 straipsnio 2 dalies]] 5, 9, 23 punktų, 3 ir 5 dalių, [[#^s-6cbe4878482f428355dd38c2|27 straipsnio 1 dalies]] reikalavimais).“
+„1. Perkančioji organizacija, išskyrus šio straipsnio 5 dalyje nurodytas organizacijas, atlikdama supaprastintus pirkimus, privalo vadovautis šio įstatymo I skyriaus, [[#^s-f3b4b9485e04cfdf068764a3|24 straipsnio 2 dalies]] 5, 9, 23 punktų, 3 ir 5 dalių (išskyrus neskelbiamą pirkimą, kai pateikti pasiūlymą kviečiamas tik vienas tiekėjas, jeigu perkančioji organizacija mano, kad tokia informacija yra nereikalinga), [[#^s-6cbe4878482f428355dd38c2|27 straipsnio 1 dalies]], [[#^s-b9d1479d8fde0a580f1d6fa8|40 straipsnio]], 41 straipsnio 1 dalies, IV ir V skyrių reikalavimais (atlikdama mažos vertės pirkimus, neprivalo vadovautis šio įstatymo [[#^s-22f53a0001b51b736ae026af|17 straipsnio]] 1, [[#^s-579be3a9b5fba903006c3665|2]], 5, 7, 8 dalių, [[#^s-106171b481b91a710a8ab0c5|18 straipsnio]] 1, 2, 3, 6 dalių, [[#^s-f3b4b9485e04cfdf068764a3|24 straipsnio 2 dalies]] 5, 9, 23 punktų, 3 ir 5 dalių, [[#^s-6cbe4878482f428355dd38c2|27 straipsnio 1 dalies]] reikalavimais).“
 
 
 
@@ -578,7 +578,7 @@ Pakeisti 85 straipsnio 1 dalį ir ją išdėstyti taip:
 „3. Perkančioji organizacija gali paskelbti pranešimą dėl savanoriško ex ante skaidrumo, kai vykdomas šio įstatymo 2 priedėlio B paslaugų sąraše nurodytų paslaugų pirkimas, kai pirkimo vertė yra ne mažesnė, negu yra nustatyta tarptautinio pirkimo vertės riba. Tokiu atveju perkančioji organizacija neprivalo skelbti informacinio pranešimo, kaip nurodyta šio įstatymo 92 straipsnio 2 dalyje.“
 
 
-5. Buvusias 86 straipsnio 3 ir [[#^s-09623c82cb287ec4b701995c|4 dalis]] laikyti atitinkamai 4 ir [[#^s-4baa7fcd3c50bf3f1a857d91|5 dalimis]]. ^s-4baa7fcd3c50bf3f1a857d91
+5. Buvusias 86 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-4baa7fcd3c50bf3f1a857d91
 
 
 

@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-d442f7777d77fee37876370c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. rugsėjo 11 d. dekretą Nr. 1K-105, ratifikuoja 2009 m. kovo 10 d. Briuselyje pasirašytą Konvenciją dėl nacionalinių surinkimo išlaidų, kurios pasiliekamos, kai tradiciniai nuosavi ištekliai pervedami į ES biudžetą, paskirstymo, susijusio su centralizuotu muitiniu įforminimu.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. rugsėjo 11 d. dekretą Nr. 1K-105](https://e-tar.lt/portal/lt/legalAct/TAR.CF67255198E5), ratifikuoja 2009 m. kovo 10 d. Briuselyje pasirašytą Konvenciją dėl nacionalinių surinkimo išlaidų, kurios pasiliekamos, kai tradiciniai nuosavi ištekliai pervedami į ES biudžetą, paskirstymo, susijusio su centralizuotu muitiniu įforminimu.
 
 
 

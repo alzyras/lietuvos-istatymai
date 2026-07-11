@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir jos pataisų protokolo ratifikavimas ^s-34095874a6164f9423505caf
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2000 m. sausio 13 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos konvenciją dėl televizijos be sienų bei šios konvencijos pataisų protokolą“, ratifikuoja 1989 m. Europos konvenciją dėl televizijos be sienų, Lietuvos Respublikos pasirašytą 1996 m. vasario 20 d., bei 1998 m. priimtą šios konvencijos pataisų protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2000 m. sausio 13 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Europos konvenciją dėl televizijos be sienų bei šios konvencijos pataisų protokolą“](https://e-tar.lt/portal/lt/legalAct/TAR.E8E0F6DE7CF4), ratifikuoja 1989 m. Europos konvenciją dėl televizijos be sienų, Lietuvos Respublikos pasirašytą 1996 m. vasario 20 d., bei 1998 m. priimtą šios konvencijos pataisų protokolą.
 
 
 

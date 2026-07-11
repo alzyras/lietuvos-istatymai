@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. 22 straipsnio papildymas ir pakeitimas ^s-0309669506cb602785154a5c
 
 
-Papildyti 22 straipsnį nauja [[#^s-3f44d9dea33764201ea470aa|6 dalimi]], buvusias 6, [[#^s-b9b6db1c1eb9f213c2034094|7 dalis]] laikyti atitinkamai 7, [[#^s-dff2d351d32987586b7e1fb4|8 dalimis]] ir visą straipsnį išdėstyti taip:
+Papildyti 22 straipsnį nauja [[#^s-3f44d9dea33764201ea470aa|6 dalimi]], buvusias 6, 7 dalis laikyti atitinkamai 7, 8 dalimis ir visą straipsnį išdėstyti taip:
 
 
 

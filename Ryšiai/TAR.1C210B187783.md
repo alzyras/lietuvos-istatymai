@@ -14,6 +14,5 @@ _Nėra._
 ## Šį įstatymą cituoja
 
 - [[latest/TAR.8EB86FBF111C#^s-127d5c0dcb3e9aa4d31e657d|Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas]] - 1101010ISTA00XI-823
-- [[latest/TAR.8EB86FBF111C#^s-99db7e9c195e55fb1f9640c1|Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas]] - 3 citatos - 1101010ISTA00XI-823
-- [[latest/TAR.8EB86FBF111C#^s-a7a9893befc11ab93c34b92a|Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas]] - 1101010ISTA00XI-823
+- [[latest/TAR.8EB86FBF111C#^s-99db7e9c195e55fb1f9640c1|Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas]] - 2 citatos - 1101010ISTA00XI-823
 - [[latest/TAR.8EB86FBF111C#^s-d61fca660de7eac7f95477ce|Lietuvos Respublikos ginkluotos gynybos ir pasipriešinimo agresijai įstatymas]] - 1101010ISTA00XI-823

@@ -94,7 +94,7 @@ SAVIVALDYBIŲ ADMINISTRACINĖS PRIEŽIŪROS
 2) atlikdamas savivaldybių administracinę priežiūrą, paduoti administraciniam teismui pareiškimus dėl savivaldybės institucijų ir savivaldybės pareigūnų teisės aktų, neatitinkančių Konstitucijos ir įstatymų, dėl įstatymų ir Vyriausybės sprendimų ar kitų teisės aktų (kuriais įgyvendinamos valstybinės (perduotos savivaldybėms) funkcijos) nevykdymo, dėl savivaldybės viešojo administravimo subjektų aktų ir veiksmų (neveikimo), pažeidžiančių viešąjį interesą ar gyventojų ir organizacijų teises, teisėtumo. ^s-d2aad52c2d774e9a51caefa8
 
 
-2. Nustatęs, kad savivaldybės teisės akto, neatitinkančio Konstitucijos ir įstatymų, pagrindu yra sudarytas sandoris, jeigu sandoris patvirtintas Konstitucijos ir įstatymų neatitinkančiu teisės aktu, taip pat kai yra kitų įstatymų numatytų sandorių negaliojimo pagrindų, Vyriausybės atstovas Civilinio proceso kodekso nustatyta tvarka turi bendrosios kompetencijos teismui pareikšti ieškinį dėl šio sandorio pripažinimo negaliojančiu. ^s-b0d712ae513b092f47c0f83d
+2. Nustatęs, kad savivaldybės teisės akto, neatitinkančio Konstitucijos ir įstatymų, pagrindu yra sudarytas sandoris, jeigu sandoris patvirtintas Konstitucijos ir įstatymų neatitinkančiu teisės aktu, taip pat kai yra kitų įstatymų numatytų sandorių negaliojimo pagrindų, Vyriausybės atstovas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka turi bendrosios kompetencijos teismui pareikšti ieškinį dėl šio sandorio pripažinimo negaliojančiu. ^s-b0d712ae513b092f47c0f83d
 
 
 

@@ -9,7 +9,8 @@ pavadinimas: "Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį 
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.8A16A03D98D4|Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymas]] - 4 straipsnio 13 dalį
+- [[latest/TAR.7A932101FADA|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas]] - Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo 2 straipsnio 1 dalies 1 punkte
 
 ## Šį įstatymą cituoja
 

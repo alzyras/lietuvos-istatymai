@@ -50,7 +50,7 @@ Vilnius
 2. Papildyti 585 straipsnį nauja [[#^s-9eae42abd5efc28b580b25b8|3 dalimi]]: ^s-7e8a14ab243d297804371b4b
 
 
-„3. Jeigu antstolio reikalavimo nevykdo ar kitaip antstoliui vykdyti vykdomuosius dokumentus kliudo juridinis asmuo, [[#^s-7e8a14ab243d297804371b4b|šio straipsnio 2 dalyje]] numatytą baudą teismas gali skirti juridinio asmens vadovui arba kitam už sprendimo įvykdymą atsakingam asmeniui.“
+„3. Jeigu antstolio reikalavimo nevykdo ar kitaip antstoliui vykdyti vykdomuosius dokumentus kliudo juridinis asmuo, šio straipsnio 2 dalyje numatytą baudą teismas gali skirti juridinio asmens vadovui arba kitam už sprendimo įvykdymą atsakingam asmeniui.“
 
 
 3. Buvusią 585 straipsnio 3 dalį laikyti 4 dalimi. ^s-9eae42abd5efc28b580b25b8

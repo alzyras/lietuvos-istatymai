@@ -40,10 +40,10 @@ Vilnius
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos sanatorinių-kurortinių įstaigų ir poilsio namų, valdytų buvusių Lietuvos TSR valstybinių profesinių sąjungų, nuosavybės nustatymo“ (Žin., 1995, Nr. 51-1248); ^s-13fa892958c0a4c97de58e79
+1) Lietuvos Respublikos įstatymą [„Dėl Lietuvos Respublikos sanatorinių-kurortinių įstaigų ir poilsio namų, valdytų buvusių Lietuvos TSR valstybinių profesinių sąjungų, nuosavybės nustatymo“](https://e-tar.lt/portal/lt/legalAct/TAR.7A868DD47825) (Žin., 1995, Nr. 51-1248); ^s-13fa892958c0a4c97de58e79
 
 
-2) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos sanatorinių-kurortinių įstaigų ir poilsio namų, valdytų buvusių Lietuvos TSR valstybinių profesinių sąjungų, nuosavybės nustatymo“ 4 straipsnio pakeitimo įstatymą (Žin., 2000, Nr. 67-2020). ^s-cb56b1b6eb5f523fc353738c
+2) Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos sanatorinių-kurortinių įstaigų ir poilsio namų, valdytų buvusių Lietuvos TSR valstybinių profesinių sąjungų, nuosavybės nustatymo“](https://e-tar.lt/portal/lt/legalAct/TAR.7A868DD47825) 4 straipsnio pakeitimo įstatymą (Žin., 2000, Nr. 67-2020). ^s-cb56b1b6eb5f523fc353738c
 
 
 

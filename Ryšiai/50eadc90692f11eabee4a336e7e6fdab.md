@@ -9,9 +9,11 @@ pavadinimas: "Lietuvos Respublikos Vyriausybės įstatymo Nr. I-464 37, 38 ir 42
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymas]] - 2 citatos - šio straipsnio 1 dalies
+- [[latest/TAR.96A68BFC9E82#^s-2a18495609dae7f3605ce57a|Lietuvos Respublikos Vyriausybės įstatymas]] - 42 straipsnį 3 dalimi
+- [[latest/TAR.96A68BFC9E82#^s-8b57c4994b288107b5be3a68|Lietuvos Respublikos Vyriausybės įstatymas]] - 38 straipsnio 2 dalį
+- [[latest/TAR.96A68BFC9E82#^s-c9edf67ee4b4bf1da77c24db|Lietuvos Respublikos Vyriausybės įstatymas]] - 2 citatos - 37 straipsnio 6 dalyje
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.96A68BFC9E82#^s-6441e2315f1f73a9da2d6c3d|Lietuvos Respublikos Vyriausybės įstatymas]] - Įstatymas Nr. XIII-2817
-- [[latest/TAR.96A68BFC9E82#^s-94ff0f6ce570b86058afcfb6|Lietuvos Respublikos Vyriausybės įstatymas]] - Įstatymas Nr. XIII-2817
+_Nėra._

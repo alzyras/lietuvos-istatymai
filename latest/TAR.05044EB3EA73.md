@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos pakeitimų ratifikavimas ^s-6edcc3ae0390efe26b3fadbb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. rugsėjo 3 d. dekretą Nr. 51, ratifikuoja 1948 metų Tarptautinės jūrų organizacijos konvencijos pakeitimus (Veiklos skatinimo komiteto oficialų įtvirtinimą), priimtus 1991 m. lapkričio 7 d. Londone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. rugsėjo 3 d. dekretą Nr. 51](https://e-tar.lt/portal/lt/legalAct/TAR.1CA91C4577B7), ratifikuoja 1948 metų Tarptautinės jūrų organizacijos konvencijos pakeitimus (Veiklos skatinimo komiteto oficialų įtvirtinimą), priimtus 1991 m. lapkričio 7 d. Londone.
 
 
 

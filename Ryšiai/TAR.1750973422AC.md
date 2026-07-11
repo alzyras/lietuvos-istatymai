@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.5C23DECF6210#^s-86ae68ae2377c87201301f0f|Lietuvos Respublikos valstybės skolos įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMO 4 IR 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.5C23DECF6210#^s-86ae68ae2377c87201301f0f|Lietuvos Respublikos valstybės skolos įstatymas]] - LIETUVOS RESPUBLIKOS VALSTYBĖS SKOLOS ĮSTATYMO 4 IR 5 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

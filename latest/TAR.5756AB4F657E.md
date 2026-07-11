@@ -186,7 +186,7 @@ TERITORIJŲ PLANAVIMO VALSTYBINĖ PRIEŽIŪRA
 2) teikia viešojo administravimo subjektams, kurių priimti su teritorijų planavimo procesu susiję administraciniai sprendimai prieštarauja teritorijų planavimą reglamentuojantiems teisės aktams, privalomuosius nurodymus per juose nurodytus ne ilgesnius kaip vienas mėnuo, terminus panaikinti arba pakeisti šiuos administracinius sprendimus. Inspekcija, iki privalomojo nurodymo įvykdymo termino pabaigos gavusi viešojo administravimo subjekto, kuriam pateiktas privalomasis nurodymas, rašytinį motyvuotą prašymą, kai dėl nuo privalomąjį nurodymą gavusio subjekto nepriklausančių priežasčių šis nurodymas negali būti įvykdytas per nustatytą terminą, privalomojo nurodymo įvykdymo terminą gali pratęsti vieną kartą, tačiau ne ilgesniam terminui, negu nustatytas pradiniame privalomajame nurodyme. Kai pažeidimą padaręs asmuo yra planavimo organizatorius, teikiamas vienas privalomasis nurodymas nevykdyti teritorijų planavimo proceso ir panaikinti arba pakeisti neteisėtai priimtą administracinį sprendimą; ^s-71fa9dbfb6b4be5065420d4a
 
 
-3) [[#^s-9f4b7900535a025c1134bc9c|šio straipsnio 1 dalies 1 punkte]] nurodytam patikrinimą inicijavusiam asmeniui atsako raštu apie skundo nagrinėjimo rezultatus ir pateikia šios dalies 1 ir [[#^s-71fa9dbfb6b4be5065420d4a|2 punktuose]] nurodytų privalomųjų nurodymų patvirtintas kopijas. ^s-bb9006916d225c533c54967a
+3) [[#^s-9f4b7900535a025c1134bc9c|šio straipsnio 1 dalies 1 punkte]] nurodytam patikrinimą inicijavusiam asmeniui atsako raštu apie skundo nagrinėjimo rezultatus ir pateikia šios dalies [[#^s-c1c694c72df5c394f59864c8|1]] ir [[#^s-71fa9dbfb6b4be5065420d4a|2]] punktuose nurodytų privalomųjų nurodymų patvirtintas kopijas. ^s-bb9006916d225c533c54967a
 
 
 5. Pasibaigus [[#^s-71fa9dbfb6b4be5065420d4a|šio straipsnio 4 dalies 2 punkte]] nurodyto privalomojo nurodymo įvykdymo terminui arba iki šio termino pabaigos gavusi subjekto, kuriam pateiktas privalomasis nurodymas, raštą ir patvirtinančius dokumentus, kad šis nurodymas įvykdytas, Inspekcija patikrina, ar šis nurodymas įvykdytas: ^s-c0772ab3ef4edca1b1e277ac
@@ -211,7 +211,7 @@ TERITORIJŲ PLANAVIMO VALSTYBINĖ PRIEŽIŪRA
 1. Teritorijų planavimo proceso baigiamojo etapo teritorijų planavimo dokumento sprendinių viešinimo ir derinimo stadijų metu Inspekcija pagal kompetenciją valstybinę priežiūrą atlieka: ^s-6a3b8c9cf5dd8b3c6f809731
 
 
-1) kai Inspekcijai skundą dėl šiuo etapu atliekamų teritorijų planavimo proceso procedūrų ir priimtų sprendimų, nurodytų šio straipsnio 2 ir [[#^s-7f8a582c0edd134d16397692|3 dalyse]], atitikties teritorijų planavimą reglamentuojantiems teisės aktams teikia viešojo administravimo subjektai, fiziniai asmenys, juridiniai asmenys ir jų padaliniai, kitos juridinio asmens statuso neturinčios organizacijos ir jų padaliniai; ^s-69eac150568e0373f2a05a04
+1) kai Inspekcijai skundą dėl šiuo etapu atliekamų teritorijų planavimo proceso procedūrų ir priimtų sprendimų, nurodytų šio straipsnio [[#^s-76c49f9ce3d6a42fc74623cc|2]] ir [[#^s-7f8a582c0edd134d16397692|3]] dalyse, atitikties teritorijų planavimą reglamentuojantiems teisės aktams teikia viešojo administravimo subjektai, fiziniai asmenys, juridiniai asmenys ir jų padaliniai, kitos juridinio asmens statuso neturinčios organizacijos ir jų padaliniai; ^s-69eac150568e0373f2a05a04
 
 
 2) pasirinktinai dėl šiuo etapu atliekamų teritorijų planavimo proceso procedūrų ir priimtų sprendimų atitikties teritorijų planavimą reglamentuojantiems teisės aktams – atliekant Inspekcijos tvirtinamuose patikrinimų planuose pagal rizikos vertinimo modelius numatytus patikrinimus; ^s-791fd435de3235916c18f44c
@@ -274,7 +274,7 @@ TERITORIJŲ PLANAVIMO VALSTYBINĖ PRIEŽIŪRA
 5. Inspekcija, teritorijų planavimo dokumento tikrinimo stadijos metu gavusi planavimo organizatoriaus prašymą patikrinti parengtą teritorijų planavimo dokumentą, pagal kompetenciją tikrina, ar: ^s-a1d8da32ee6f91579bd8e210
 
 
-1) šio įstatymo [[#^s-03defb1362f81b2e108bea75|4 straipsnio 2 dalyje]], šio straipsnio 2 ir [[#^s-7f8a582c0edd134d16397692|3 dalyse]] nurodytos teritorijų planavimo proceso parengiamojo, rengimo ir baigiamojo etapo procedūros ir priimti administraciniai sprendimai atitinka teritorijų planavimą reglamentuojančius teisės aktus; ^s-d55be44d5848c237efde0e54
+1) šio įstatymo [[#^s-03defb1362f81b2e108bea75|4 straipsnio 2 dalyje]], šio straipsnio [[#^s-03defb1362f81b2e108bea75|2]] ir [[#^s-43b01744f98a631823a7d0f8|3]] dalyse nurodytos teritorijų planavimo proceso parengiamojo, rengimo ir baigiamojo etapo procedūros ir priimti administraciniai sprendimai atitinka teritorijų planavimą reglamentuojančius teisės aktus; ^s-d55be44d5848c237efde0e54
 
 
 2) teritorijų planavimo dokumento sudėtis atitinka [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo]] ir jo įgyvendinamųjų teisės aktų reikalavimus; ^s-3e263f5090217c48a94e3b85
@@ -316,7 +316,7 @@ TERITORIJŲ PLANAVIMO VALSTYBINĖ PRIEŽIŪRA
 9. Sprendimas dėl teritorijų planavimo dokumento patikrinimo sustabdymo, nutraukimo ir patikrinimo aktas gali būti skundžiami šiame įstatyme, [[latest/TAR.26B563184529|Teritorijų planavimo įstatyme]] ir jo įgyvendinamuosiuose teisės aktuose nustatyta tvarka. ^s-7aae3883059264a10be95818
 
 
-10. Teritorijų planavimo dokumento tvirtinimo stadijos metu iki teritorijų planavimo dokumento patvirtinimo Inspekcija nagrinėja viešojo administravimo subjektų, fizinių asmenų, juridinių asmenų ir jų padalinių, kitų juridinio asmens statuso neturinčių organizacijų ir jų padalinių skundus dėl šio įstatymo 4 ir [[#^s-78fa40076f5bfd3045ac6c46|5 straipsniuose]] nurodytų teritorijų planavimo proceso metu atliktų procedūrų ir priimtų sprendimų atitikties teritorijų planavimą reglamentuojantiems teisės aktams, teritorijų planavimo dokumento galimo prieštaravimo aukštesnio ar to paties lygmens teritorijų planavimo dokumentams, išskyrus [[latest/TAR.26B563184529|Teritorijų planavimo įstatyme]] nustatytas išimtis. ^s-fc64216db71ced6bb7ccd71f
+10. Teritorijų planavimo dokumento tvirtinimo stadijos metu iki teritorijų planavimo dokumento patvirtinimo Inspekcija nagrinėja viešojo administravimo subjektų, fizinių asmenų, juridinių asmenų ir jų padalinių, kitų juridinio asmens statuso neturinčių organizacijų ir jų padalinių skundus dėl šio įstatymo [[#^s-2f5f878b116276585c92b08e|4]] ir [[#^s-78fa40076f5bfd3045ac6c46|5]] straipsniuose nurodytų teritorijų planavimo proceso metu atliktų procedūrų ir priimtų sprendimų atitikties teritorijų planavimą reglamentuojantiems teisės aktams, teritorijų planavimo dokumento galimo prieštaravimo aukštesnio ar to paties lygmens teritorijų planavimo dokumentams, išskyrus [[latest/TAR.26B563184529|Teritorijų planavimo įstatyme]] nustatytas išimtis. ^s-fc64216db71ced6bb7ccd71f
 
 
 11. Po teritorijų planavimo dokumento patvirtinimo gavusi skundą arba kai Inspekcijai pagal turimą informaciją kyla pagrįstų įtarimų, kad teritorijų planavimo dokumentas parengtas ir (ar) patvirtintas pažeidžiant [[latest/TAR.26B563184529|Teritorijų planavimo įstatymo]] ir jo įgyvendinamųjų teisės aktų reikalavimus, arba kai skundžiamas planavimo organizatoriaus atsakymas į visuomenės pasiūlymus (jeigu skundas pateiktas laikantis [[latest/TAR.26B563184529|Teritorijų planavimo įstatyme]] nustatytų terminų arba atsakymas pateiktas po teritorijų planavimo dokumento patvirtinimo), Inspekcija pagal kompetenciją tikrina, ar teritorijų planavimo dokumentas parengtas ir (ar) patvirtintas teisėtai. Inspekcija patikrinimus atlieka per 20 darbo dienų nuo visų privalomų pateikti dokumentų ir informacijos gavimo dienos. Kai dėl objektyvių priežasčių per šį terminą patikrinimo atlikti negalima, Inspekcija gali šiuos terminus pratęsti ne ilgiau kaip 20 darbo dienų, apie tai ne vėliau kaip per 2 darbo dienas nuo termino pratęsimo dienos raštu informuodama skundą pateikusį (patikrinimą inicijavusį) asmenį ir tikrinamus subjektus, nurodydama patikrinimo termino pratęsimo priežastis. Baigusi patikrinimą, Inspekcija atlieka šiuos veiksmus: ^s-0fc119eea908ea001bef4496
@@ -334,7 +334,7 @@ TERITORIJŲ PLANAVIMO VALSTYBINĖ PRIEŽIŪRA
 12. Inspekcija, priėmusi sprendimą atlikti šiame straipsnyje nurodytus patikrinimus, prireikus teikia planavimo organizatoriui, viešojo administravimo ir kitiems teritorijų planavimo procese dalyvaujantiems subjektams privalomuosius nurodymus per 10 darbo dienų pateikti visus Inspekcijos prašomus patikrinimui atlikti reikalingus dokumentus ir informaciją. Gavusi teritorijų planavimo procese dalyvaujančio subjekto rašytinį motyvuotą prašymą iki privalomojo nurodymo įvykdymo termino pabaigos, šį terminą Inspekcija gali pratęsti vieną kartą ir ne ilgiau kaip 10 darbo dienų, kai dėl nuo privalomąjį nurodymą gavusio subjekto nepriklausančių priežasčių šis nurodymas negali būti įvykdytas per nustatytą terminą. ^s-6282713c3a3a0b51cdad001b
 
 
-13. Šiame straipsnyje nurodytų patikrinimų metu nustačiusi teritorijų planavimą reglamentuojančių teisės aktų pažeidimų, Inspekcija atlieka šio įstatymo [[#^s-2f5f878b116276585c92b08e|4 straipsnio]] 4 ir [[#^s-a1d8da32ee6f91579bd8e210|5 dalyse]] nurodytus veiksmus, išskyrus [[#^s-0fc119eea908ea001bef4496|šio straipsnio 11 dalyje]] numatytus atvejus. Jeigu teisės aktų pažeidimų nenustatoma arba nustatomi mažareikšmiai trūkumai, Inspekcija apie tai per 5 darbo dienas baigusi patikrinimą informuoja skundą pateikusį (patikrinimą inicijavusį) asmenį ir patikrintus subjektus. ^s-bbe949254a297d1e4fd16c43
+13. Šiame straipsnyje nurodytų patikrinimų metu nustačiusi teritorijų planavimą reglamentuojančių teisės aktų pažeidimų, Inspekcija atlieka šio įstatymo [[#^s-2f5f878b116276585c92b08e|4 straipsnio]] [[#^s-c3998e5165d5f317078569b8|4]] ir [[#^s-c0772ab3ef4edca1b1e277ac|5]] dalyse nurodytus veiksmus, išskyrus [[#^s-0fc119eea908ea001bef4496|šio straipsnio 11 dalyje]] numatytus atvejus. Jeigu teisės aktų pažeidimų nenustatoma arba nustatomi mažareikšmiai trūkumai, Inspekcija apie tai per 5 darbo dienas baigusi patikrinimą informuoja skundą pateikusį (patikrinimą inicijavusį) asmenį ir patikrintus subjektus. ^s-bbe949254a297d1e4fd16c43
 
 
 
@@ -493,7 +493,7 @@ Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 2) viešojo administravimo subjektų, fizinių asmenų, juridinių asmenų ir jų padalinių, kitų juridinio asmens statuso neturinčių organizacijų ir jų padalinių pateiktų skundų pagrindu; ^s-90b38ed776be54ea07d0a2c1
 
 
-3) Statybos įstatymo 27 straipsnio 31 dalyje nurodytais atvejais; ^s-8bdf4f0fd5f2fbccd06bb084
+3) [[latest/TAR.F31E79DEC55D|Statybos įstatymo 27 straipsnio 31 dalyje]] nurodytais atvejais; ^s-8bdf4f0fd5f2fbccd06bb084
 
 
 4)  savo iniciatyva, kai pagal turimą informaciją kyla įtarimų dėl statybą leidžiančių dokumentų išdavimo teisėtumo. ^s-64000a915c90ee5e897f54e9
@@ -575,7 +575,7 @@ Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 2) jeigu nustatyta, kad išduodant statybą leidžiantį dokumentą nesumokėta [[latest/TAR.F31E79DEC55D|Statybos įstatymo]] 1 priede nustatyta įmoka (ar jos dalis) už savavališkos statybos įteisinimą, kai [[latest/TAR.F31E79DEC55D|Statybos įstatymo]] ir jo įgyvendinamųjų teisės aktų nustatyta tvarka ši įmoka privaloma, – pateikti [[latest/TAR.F31E79DEC55D|Statybos įstatymo]] 1 priedo 10 punkte nurodytiems asmenims, dėl kurių kaltės buvo sumokėta per maža įmoka arba ji iš viso nesumokėta, privalomąjį nurodymą per jame nurodytą ne ilgesnį kaip 4 mėnesių terminą sumokėti įmoką (ar trūkstamą jos dalį); neįvykdžius privalomojo nurodymo, Inspekcija kreipiasi į teismą dėl įpareigojimo jį įvykdyti; ^s-921e75bbc87eb3f61eab0f38
 
 
-3) šios dalies 1 ir [[#^s-921e75bbc87eb3f61eab0f38|2 punktuose]] nenurodytais atvejais, kai statybą leidžiantis dokumentas išduotas neteisėtai: ^s-ad9f005a30acfbf4e34f6a3c
+3) šios dalies [[#^s-130082de3bc5ec885fd10206|1]] ir [[#^s-921e75bbc87eb3f61eab0f38|2]] punktuose nenurodytais atvejais, kai statybą leidžiantis dokumentas išduotas neteisėtai: ^s-ad9f005a30acfbf4e34f6a3c
 
 
 a) asmenys turi teisę per 3 mėnesių terminą, skaičiuojamą nuo patikrinimo akto pasirašymo dienos, pašalinti nustatytus pažeidimus (išskyrus atvejus, kai pagal imperatyvias teisės normas pažeidimų pašalinti negalima). Apie šiame įstatyme nustatytą terminą pažeidimams pašalinti arba galimybę sudaryti taikos sutartį, jeigu pažeidimų negalima pašalinti per 3 mėnesius, per 10 darbo dienų nuo patikrinimo akto pasirašymo dienos asmenis raštu informuoja Inspekcija. Jeigu per 3 mėnesių terminą dėl objektyvių aplinkybių pažeidimų negalima pašalinti, tačiau už jų šalinimą atsakingi asmenys sutinka ir siūlo juos šalinti geranoriškai, Inspekcija ir atsakingi asmenys gali sudaryti taikos sutartį dėl pažeidimų šalinimo, kuri teikiama tvirtinti teismui. Jeigu pažeidimai per 3 mėnesių terminą nepašalinami, Inspekcija per vieną mėnesį pasibaigus 3 mėnesių terminui kreipiasi į teismą dėl statybą leidžiančio dokumento galiojimo panaikinimo, išskyrus atvejus, kai yra įsigaliojusi teismo nutartis dėl taikos sutarties dėl pažeidimų šalinimo patvirtinimo;
@@ -593,7 +593,7 @@ Nr. XV-1070, 2026-06-25, paskelbta TAR 2026-06-29, i. k. 2026-11237
 9. Statybą leidžiančių dokumentų išdavimo teisėtumo patikrinimo tvarką, tikrintinų statybą leidžiančių dokumentų įtraukimo į Inspekcijos tvirtinamus patikrinimų planus tvarką nustato, statybą leidžiančių dokumentų išdavimo teisėtumui patikrinti pateiktinų dokumentų sąrašą ir surašomų dokumentų formas tvirtina Inspekcijos vadovas. ^s-0ca952a13257218df74dcfbe
 
 
-10. Statybos įstatymo 27 straipsnio 31 dalyje nurodytais atvejais Inspekcija statybą leidžiančių dokumentų teisėtumo patikrinimą pradeda per 5 darbo dienas nuo statybą leidžiančio dokumento išdavimo dienos. ^s-9e2d791be8c59dd62616fdfc
+10. [[latest/TAR.F31E79DEC55D|Statybos įstatymo 27 straipsnio 31 dalyje]] nurodytais atvejais Inspekcija statybą leidžiančių dokumentų teisėtumo patikrinimą pradeda per 5 darbo dienas nuo statybą leidžiančio dokumento išdavimo dienos. ^s-9e2d791be8c59dd62616fdfc
 Papildyta straipsnio dalimi:
 Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
@@ -719,7 +719,7 @@ Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 9. Kai Inspekcija raštu gauna informacijos apie [[#^s-9bca7f2483aeb89023fcf388|šio straipsnio 6 dalyje]] nurodyto privalomojo nurodymo įvykdymą iki jo įvykdymo termino pabaigos arba pasibaigus [[#^s-9bca7f2483aeb89023fcf388|šio straipsnio 6 dalyje]] nurodyto privalomojo nurodymo įvykdymo terminui, ji ne vėliau kaip per 10 darbo dienų nuo šios informacijos gavimo dienos arba nuo privalomajame nurodyme nustatyto termino pabaigos patikrina, ar privalomasis nurodymas įvykdytas tinkamai. Jeigu privalomasis nurodymas įvykdytas tinkamai, Inspekcijos vadovo nustatyta tvarka tai pažymima informacinėje sistemoje, kurioje užregistruotas privalomasis nurodymas. Jeigu privalomasis nurodymas neįvykdytas, įvykdytas iš dalies, įvykdytas netinkamai (toliau – privalomasis nurodymas neįvykdytas), suėjus privalomojo nurodymo įvykdymo terminui Inspekcija jos vadovo nustatyta tvarka perduoda privalomąjį nurodymą priverstinai vykdyti antstoliui, išskyrus atvejus, kai iškelta byla dėl privalomojo nurodymo teisėtumo arba privalomojo nurodymo įvykdymo termino pratęsimo. Tokiais atvejais privalomasis nurodymas, jeigu buvo skundžiamas jo teisėtumas arba kreiptasi į teismą dėl privalomojo nurodymo įvykdymo termino pratęsimo, Inspekcijos vadovo nustatyta tvarka perduodamas vykdyti antstoliui po teismo sprendimo nepanaikinti privalomojo nurodymo įsiteisėjimo arba kai sueina teismo nustatyti papildomi privalomojo nurodymo įvykdymo terminai ar įsiteisėja teismo sprendimas dėl privalomojo nurodymo termino nepratęsimo. ^s-13f46567a8ddddc5badb5de6
 
 
-10. [[#^s-9bca7f2483aeb89023fcf388|Šio straipsnio 6 dalyje]] nurodytas privalomasis nurodymas yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-54dfd916c297e0c12b6a45e4
+10. [[#^s-9bca7f2483aeb89023fcf388|Šio straipsnio 6 dalyje]] nurodytas privalomasis nurodymas yra vykdomasis dokumentas, vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-54dfd916c297e0c12b6a45e4
 
 
 11. Statybos patikrinimo metu nustačius, kad statyba vykdoma savavališkai, atliekami šio įstatymo [[#^s-49304f8cf6030caee26d851e|14 straipsnyje]] nurodyti su savavališkos statybos padarinių šalinimu susiję veiksmai. ^s-676a1245fb45870e784f3abe
@@ -787,7 +787,7 @@ Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 5. Ne savavališkos statybos atveju surašomas privalomasis nurodymas nevykdyti jokių statinio ar jo dalies statybos darbų, išskyrus nustatytiems pažeidimams pašalinti būtinus darbus. Šiame nurodyme taip pat nurodoma statytojo pareiga atlikti būtinus darbus statybvietei ir aplinkai apsaugoti. Jeigu privalomasis nurodymas neįvykdytas, Inspekcija jos vadovo nustatyta tvarka perduoda privalomąjį nurodymą priverstinai vykdyti antstoliui, išskyrus atvejus, kai iškelta byla dėl privalomojo nurodymo panaikinimo. Tokiais atvejais privalomasis nurodymas, jeigu buvo skundžiamas jo teisėtumas, Inspekcijos vadovo nustatyta tvarka perduodamas vykdyti antstoliui įsiteisėjus teismo sprendimui nepanaikinti privalomojo nurodymo. ^s-680e718895a0f5813db3e672
 
 
-6. Šio straipsnio 4 ir [[#^s-680e718895a0f5813db3e672|5 dalyse]] nurodyti privalomieji nurodymai yra vykdomieji dokumentai, vykdomi Civilinio proceso kodekso nustatyta tvarka. ^s-627de42850e262d76924ed3b
+6. Šio straipsnio [[#^s-24864dad906a9c96d853a719|4]] ir [[#^s-680e718895a0f5813db3e672|5]] dalyse nurodyti privalomieji nurodymai yra vykdomieji dokumentai, vykdomi [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-627de42850e262d76924ed3b
 
 
 7. Statytojas turi teisę tęsti statinio (jo dalies) statybą tik pašalinęs statybos sustabdymo priežastis ir gavęs Inspekcijos leidimą tęsti sustabdytą statybą. Leidimas tęsti sustabdytą statybą išduodamas per 10 darbo dienų nuo statytojo prašymo ir dokumentų, įrodančių, kad pašalintos statybos sustabdymo priežastys, gavimo dienos. ^s-7ed8afc4dea26c13016b54b4
@@ -893,13 +893,13 @@ Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
 
 
-8. [[#^s-d6d60013747b02fe30a70cd0|Šio straipsnio 2 dalyje]] nurodytas privalomasis nurodymas yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka. ^s-17ebf55543a7c99cd7a2ca4f
+8. [[#^s-d6d60013747b02fe30a70cd0|Šio straipsnio 2 dalyje]] nurodytas privalomasis nurodymas yra vykdomasis dokumentas, vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-17ebf55543a7c99cd7a2ca4f
 
 
 9. Jeigu į teismą dėl savavališkos statybos padarinių šalinimo kreipėsi kitas viešojo administravimo subjektas ar prokuratūra, teismas savo sprendimu gali įpareigoti atsakovą savo lėšomis per nustatytą terminą: ^s-27ac00e57166c1376687d735
 
 
-1) leisti [[latest/TAR.F31E79DEC55D|Statybos įstatymo]] ir jo įgyvendinamųjų teisės aktų nustatyta tvarka parengti projektinę dokumentaciją, sumokėti [[latest/TAR.F31E79DEC55D|Statybos įstatymo]] 1 priede nustatytą įmoką už savavališkos statybos įteisinimą, gauti statybą leidžiantį dokumentą, šalinantį savavališkos statybos padarinius, ir (ar) pranešti apie statybos pradžią tais atvejais, kai žemės sklype (teritorijoje), kuriame (-ioje) nustatyta savavališka statyba, tokios paskirties naujo statinio statyba yra galima arba tokie šio statinio rekonstravimo, remonto ar griovimo darbai yra galimi pagal galiojančius detaliuosius planus ar žemės valdos projektus (jeigu jie privalomi), taip pat pagal bendruosius planus ar specialiojo teritorijų planavimo dokumentus ir tokia statyba neprieštarauja imperatyviems aplinkos apsaugos, paveldosaugos, saugomų teritorijų apsaugos teisės aktų reikalavimams; šių veiksmų per nustatytą terminą neatlikus, – vykdyti šios dalies 2–[[#^s-e95c70effef7e45ea6b9be2d|5 punktuose]] nurodytus reikalavimus; ^s-57dd94a5d88633bcad6a4982
+1) leisti [[latest/TAR.F31E79DEC55D|Statybos įstatymo]] ir jo įgyvendinamųjų teisės aktų nustatyta tvarka parengti projektinę dokumentaciją, sumokėti [[latest/TAR.F31E79DEC55D|Statybos įstatymo]] 1 priede nustatytą įmoką už savavališkos statybos įteisinimą, gauti statybą leidžiantį dokumentą, šalinantį savavališkos statybos padarinius, ir (ar) pranešti apie statybos pradžią tais atvejais, kai žemės sklype (teritorijoje), kuriame (-ioje) nustatyta savavališka statyba, tokios paskirties naujo statinio statyba yra galima arba tokie šio statinio rekonstravimo, remonto ar griovimo darbai yra galimi pagal galiojančius detaliuosius planus ar žemės valdos projektus (jeigu jie privalomi), taip pat pagal bendruosius planus ar specialiojo teritorijų planavimo dokumentus ir tokia statyba neprieštarauja imperatyviems aplinkos apsaugos, paveldosaugos, saugomų teritorijų apsaugos teisės aktų reikalavimams; šių veiksmų per nustatytą terminą neatlikus, – vykdyti šios dalies [[#^s-dd6d942e94b08ec9e78e8469|2]]–[[#^s-e95c70effef7e45ea6b9be2d|5]] punktuose nurodytus reikalavimus; ^s-57dd94a5d88633bcad6a4982
 Straipsnio punkto pakeitimai:
 Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 
@@ -1348,7 +1348,7 @@ Nr. XV-1070, 2026-06-25, paskelbta TAR 2026-06-29, i. k. 2026-11237
 7. Žemės naudojimo patikrinimo rezultatai įforminami Inspekcijos vadovo nustatytos formos patikrinimo aktu. ^s-9cab785fdf646a65bb433188
 
 
-8. Planinio ar neplaninio žemės naudojimo patikrinimų metu, atlikus [[#^s-2ddbfe935972f2be01da945d|šio straipsnio 3 dalies]] 1–4 punktuose nurodytus patikrinimus ir nustačius žemės naudojimo tvarkos pažeidimų, Inspekcija atlieka šiuos veiksmus: ^s-305f85a465fed106e52ee3f6
+8. Planinio ar neplaninio žemės naudojimo patikrinimų metu, atlikus [[#^s-2ddbfe935972f2be01da945d|šio straipsnio 3 dalies]] [[#^s-a7f59388a01ca7546df309f0|1]]–4 punktuose nurodytus patikrinimus ir nustačius žemės naudojimo tvarkos pažeidimų, Inspekcija atlieka šiuos veiksmus: ^s-305f85a465fed106e52ee3f6
 Straipsnio dalies pakeitimai:
 Nr. XV-1070, 2026-06-25, paskelbta TAR 2026-06-29, i. k. 2026-11237
 
@@ -1365,7 +1365,7 @@ Nr. XV-1070, 2026-06-25, paskelbta TAR 2026-06-29, i. k. 2026-11237
 10. Jeigu privalomasis nurodymas neįvykdytas, suėjus privalomojo nurodymo įvykdymo terminui Inspekcija privalomąjį nurodymą jos vadovo nustatyta tvarka perduoda priverstinai vykdyti antstoliui, išskyrus atvejus, kai iškelta byla dėl privalomojo nurodymo teisėtumo arba privalomojo nurodymo įvykdymo termino pratęsimo. Tokiais atvejais privalomasis nurodymas, jeigu buvo skundžiamas jo teisėtumas arba kreiptasi į teismą dėl privalomojo nurodymo įvykdymo termino pratęsimo, Inspekcijos vadovo nustatyta tvarka perduodamas vykdyti antstoliui įsiteisėjus teismo sprendimui nepanaikinti privalomojo nurodymo arba kai sueina teismo nustatyti papildomi privalomojo nurodymo įvykdymo terminai ar įsiteisėja teismo sprendimas dėl privalomojo nurodymo termino nepratęsimo. ^s-683959ac2108998b69be4803
 
 
-11. [[#^s-5bbfdf07a79b602ebfc7616f|Šio straipsnio 8 dalies 2 punkte]] nurodytas privalomasis nurodymas yra vykdomasis dokumentas, vykdomas Civilinio proceso kodekso nustatyta tvarka. ^s-9adb8eb3aa4733987d571383
+11. [[#^s-5bbfdf07a79b602ebfc7616f|Šio straipsnio 8 dalies 2 punkte]] nurodytas privalomasis nurodymas yra vykdomasis dokumentas, vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-9adb8eb3aa4733987d571383
 
 
 
@@ -1490,7 +1490,7 @@ Inspekcijos teisės TERITORIJŲ PLANAVIMO, STATYBOS ir Žemės naudojimo VALSTYB
 16) organizuoti statinių griovimo ir statybviečių sutvarkymo darbus pagal šiame įstatyme nurodytus privalomuosius nurodymus arba įsiteisėjusius teismų sprendimus bylose, kuriose ieškovai yra Inspekcija, kiti viešojo administravimo subjektai ar prokuratūra; ^s-8a066335c3071bc3e7221775
 
 
-17) kreiptis į teismą dėl įpareigojimo vykdyti šiame įstatyme nurodytus privalomuosius nurodymus, išskyrus šio įstatymo [[#^s-9bca7f2483aeb89023fcf388|11 straipsnio 6 dalyje]], [[#^s-5e1081c6bce054ac82843be6|13 straipsnio]] 4 ir 5 dalyse, [[#^s-d6d60013747b02fe30a70cd0|14 straipsnio 2 dalyje]] nurodytus privalomuosius nurodymus, jeigu jie neįvykdomi. ^s-96d51ad94efd0fffb17d4ee0
+17) kreiptis į teismą dėl įpareigojimo vykdyti šiame įstatyme nurodytus privalomuosius nurodymus, išskyrus šio įstatymo [[#^s-9bca7f2483aeb89023fcf388|11 straipsnio 6 dalyje]], [[#^s-5e1081c6bce054ac82843be6|13 straipsnio]] [[#^s-24864dad906a9c96d853a719|4]] ir [[#^s-680e718895a0f5813db3e672|5]] dalyse, [[#^s-d6d60013747b02fe30a70cd0|14 straipsnio 2 dalyje]] nurodytus privalomuosius nurodymus, jeigu jie neįvykdomi. ^s-96d51ad94efd0fffb17d4ee0
 
 
 2. Jeigu Inspekcija, atlikdama statybos valstybinę priežiūrą, negali netrukdomai patekti į tikrintinus statinius, jų patalpas, ji pateikia Regionų administraciniam teismui pagal statinio ir (ar) patalpų buvimo vietą prašymą dėl teismo leidimo įeiti į tikrintinus statinius ir (ar) patalpas. Šiame prašyme turi būti nurodytas tikrintino statinio ir (ar) patalpų savininko ir (ar) naudotojo vardas, pavardė, jeigu tai juridinis asmuo, – pavadinimas, statinio ir (ar) patalpų adresas, įtariamų pažeidimų pobūdis. Prašymą išnagrinėja Regionų administracinio teismo teisėjas ir priima motyvuotą nutartį prašymą patenkinti, patenkinti iš dalies arba atmesti. Prašymas dėl teismo leidimo įeiti į tikrintinus statinius ir (ar) patalpas turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo priėmimo momento. Jeigu Inspekcija nesutinka su Regionų administracinio teismo teisėjo nutartimi atmesti prašymą arba patenkinti prašymą iš dalies, ji turi teisę per 7 dienas nuo šios nutarties priėmimo ją apskųsti Lietuvos vyriausiajam administraciniam teismui per nutartį priėmusį Regionų administracinį teismą. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti Inspekcijos atskirąjį skundą dėl Regionų administracinio teismo teisėjo nutarties ne vėliau kaip per 7 dienas nuo atskirojo skundo priėmimo. ^s-955b8d2dc1bacbc0e03e83b5
@@ -1558,7 +1558,7 @@ Asmenų prašymai išduoti šiame įstatyme, [[latest/TAR.F31E79DEC55D|Statybos 
 2. Dėl objektyvių priežasčių [[#^s-5fb7a3d8b20c0aa6b7688137|šio straipsnio 1 dalyje]] nustatytas terminas Inspekcijos vadovo ar jo įgalioto asmens sprendimu gali būti pratęsiamas iki 20 darbo dienų, apie tai per 5 darbo dienas nuo termino pratęsimo raštu informuojant skundą pateikusį asmenį ir nurodant termino pratęsimo priežastis, jeigu šiame įstatyme nenustatyta kitaip. ^s-4451ab9dac679747c48e13f2
 
 
-3. Skundą patikslinus jo nagrinėjimo metu, šio straipsnio 1 ir [[#^s-4451ab9dac679747c48e13f2|2 dalyse]] nustatyti terminai skaičiuojami nuo skundo patikslinimo dienos. ^s-d642cdb6e8cb9828c33cbc09
+3. Skundą patikslinus jo nagrinėjimo metu, šio straipsnio [[#^s-5fb7a3d8b20c0aa6b7688137|1]] ir [[#^s-4451ab9dac679747c48e13f2|2]] dalyse nustatyti terminai skaičiuojami nuo skundo patikslinimo dienos. ^s-d642cdb6e8cb9828c33cbc09
 
 
 4. Skundai, kiek to nereglamentuoja šis ar kiti specialieji įstatymai, nagrinėjami [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nustatyta tvarka. ^s-37d668621a77a777db0b0a25
@@ -1661,7 +1661,7 @@ Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
 3) teritorijų planavimo, statybos ar žemės naudojimo valstybinės priežiūros srityje priimti administraciniai sprendimai, kai skunde pateikiami įrodymai, kad priimant skundžiamą sprendimą galimai padaryta nusikalstama veika. ^s-2c5216d1db30de293e0d975b
 
 
-4. Šio straipsnio 2 ir [[#^s-5d654c22829c6c17d5b57037|3 dalyse]] nenurodyti Inspekcijos administraciniai sprendimai, priimti teritorijų planavimo, statybos ar žemės naudojimo valstybinės priežiūros srityse, gali būti skundžiami išankstinio ginčų nagrinėjimo ne teismo tvarka institucijai arba teismui, jeigu specialiuosiuose įstatymuose nenustatyta kitokia jų apskundimo tvarka. ^s-2149b3cb1dd353a0832dd1a6
+4. Šio straipsnio [[#^s-c1e8c356d5cf17850f0796f8|2]] ir [[#^s-5d654c22829c6c17d5b57037|3]] dalyse nenurodyti Inspekcijos administraciniai sprendimai, priimti teritorijų planavimo, statybos ar žemės naudojimo valstybinės priežiūros srityse, gali būti skundžiami išankstinio ginčų nagrinėjimo ne teismo tvarka institucijai arba teismui, jeigu specialiuosiuose įstatymuose nenustatyta kitokia jų apskundimo tvarka. ^s-2149b3cb1dd353a0832dd1a6
 
 
 
@@ -1683,7 +1683,7 @@ BAIGIAMOSIOS NUOSTATOS
 ### 34 straipsnis. Terminai, per kuriuos privalomieji nurodymai pateikiami vykdyti ^s-6cad91f6632810cfd26a1c02
 
 
-1. Šio įstatymo [[#^s-9bca7f2483aeb89023fcf388|11 straipsnio 6 dalyje]], [[#^s-5e1081c6bce054ac82843be6|13 straipsnio]] 4 ir 5 dalyse, [[#^s-d6d60013747b02fe30a70cd0|14 straipsnio 2 dalyje]], [[#^s-5bbfdf07a79b602ebfc7616f|24 straipsnio 8 dalies 2 punkte]] nurodyti privalomieji nurodymai gali būti pateikiami vykdyti per 5 metus pasibaigus privalomojo nurodymo įvykdymo terminui. ^s-bdcd7e6dc45d174dd3a8d024
+1. Šio įstatymo [[#^s-9bca7f2483aeb89023fcf388|11 straipsnio 6 dalyje]], [[#^s-5e1081c6bce054ac82843be6|13 straipsnio]] [[#^s-24864dad906a9c96d853a719|4]] ir [[#^s-680e718895a0f5813db3e672|5]] dalyse, [[#^s-d6d60013747b02fe30a70cd0|14 straipsnio 2 dalyje]], [[#^s-5bbfdf07a79b602ebfc7616f|24 straipsnio 8 dalies 2 punkte]] nurodyti privalomieji nurodymai gali būti pateikiami vykdyti per 5 metus pasibaigus privalomojo nurodymo įvykdymo terminui. ^s-bdcd7e6dc45d174dd3a8d024
 
 
 2. [[#^s-bdcd7e6dc45d174dd3a8d024|Šio straipsnio 1 dalyje]] nurodytas privalomojo nurodymo pateikimo vykdyti terminas sustabdomas, iki teisme bus išnagrinėta byla dėl privalomojo nurodymo teisėtumo arba privalomojo nurodymo įvykdymo termino pratęsimo. ^s-d76f224e5527b3070ebf82ac
@@ -1728,12 +1728,12 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2577, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20326
-Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 2, 3, 9, 10, 11, [[#^s-2dedff9e75a1c7ea9b48b815|25 straipsnių]] pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
+Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 [[#^s-4562159c1c99bf5fc4654f8d|2]], [[#^s-7e91e49abc842916fa14ae38|3]], [[#^s-20175c6f92aed9d944a33da8|9]], [[#^s-e071467449381acc9f49754e|10]], [[#^s-e6591860afc91ef48d152778|11]], [[#^s-2dedff9e75a1c7ea9b48b815|25]] straipsnių pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2578, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20328
-Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 6, 10, 11, 13, 14, 15, 16, 17, 22, [[#^s-4d7478cb3131af676cc0ff4a|23 straipsnių]] pakeitimo ir Įstatymo papildymo 26-1 straipsniu įstatymas
+Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 [[#^s-dde4a4defbf64b380105484f|6]], [[#^s-e071467449381acc9f49754e|10]], [[#^s-e6591860afc91ef48d152778|11]], [[#^s-5e1081c6bce054ac82843be6|13]], [[#^s-49304f8cf6030caee26d851e|14]], [[#^s-3ece2d77e0a5a6c5baab0283|15]], [[#^s-1a7a1b0242848e2ae0d24de8|16]], [[#^s-00db4d7d88e3e92e909dde57|17]], [[#^s-7fe67a6c3436ddaf0a533fcf|22]], [[#^s-4d7478cb3131af676cc0ff4a|23]] straipsnių pakeitimo ir Įstatymo papildymo 26-1 straipsniu įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1743,22 +1743,22 @@ Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-341, 2021-05-20, paskelbta TAR 2021-06-04, i. k. 2021-12950
-Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 4, 6, 8, 9, 10, [[#^s-4d7478cb3131af676cc0ff4a|23 straipsnių]] pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas
+Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 [[#^s-2f5f878b116276585c92b08e|4]], [[#^s-dde4a4defbf64b380105484f|6]], [[#^s-b03bf0dedc4ed79bca4c4187|8]], [[#^s-20175c6f92aed9d944a33da8|9]], [[#^s-e071467449381acc9f49754e|10]], [[#^s-4d7478cb3131af676cc0ff4a|23]] straipsnių pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-704, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25133
-Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 3, 4, 5, 6, 6-1, 8, 9, 10, 11, 16, 17, [[#^s-2dedff9e75a1c7ea9b48b815|25 straipsnių]] ir penktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 11-1, 25-1 ir 25-2 straipsniais įstatymas
+Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 [[#^s-7e91e49abc842916fa14ae38|3]], [[#^s-2f5f878b116276585c92b08e|4]], [[#^s-78fa40076f5bfd3045ac6c46|5]], [[#^s-dde4a4defbf64b380105484f|6]], 6-1, [[#^s-b03bf0dedc4ed79bca4c4187|8]], [[#^s-20175c6f92aed9d944a33da8|9]], [[#^s-e071467449381acc9f49754e|10]], [[#^s-e6591860afc91ef48d152778|11]], [[#^s-1a7a1b0242848e2ae0d24de8|16]], [[#^s-00db4d7d88e3e92e909dde57|17]], [[#^s-2dedff9e75a1c7ea9b48b815|25]] straipsnių ir penktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 11-1, 25-1 ir 25-2 straipsniais įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1315, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15643
-Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 2, [[#^s-7e91e49abc842916fa14ae38|3 straipsnių]] pakeitimo ir [[#^s-8f321e88e743c69205944410|28 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 [[#^s-4562159c1c99bf5fc4654f8d|2]], [[#^s-7e91e49abc842916fa14ae38|3]] straipsnių pakeitimo ir [[#^s-8f321e88e743c69205944410|28 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1755, 2022-12-22, paskelbta TAR 2022-12-30, i. k. 2022-27573
-Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 10, 11, 16 ir 26-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 [[#^s-e071467449381acc9f49754e|10]], [[#^s-e6591860afc91ef48d152778|11]], [[#^s-1a7a1b0242848e2ae0d24de8|16]] ir 26-1 straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1768,19 +1768,19 @@ Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2414, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25635
-Lietuvos Respublikos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatymo Nr. XII-459 7, 10, 11, 13, 14, 17, 18, 24, [[#^s-61b3c4c6ae6dc4473b525b5f|31 straipsnių]] pakeitimo, Įstatymo papildymo 10-1, 34-1 straipsniais ir [[#^s-b03bf0dedc4ed79bca4c4187|8 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatymo Nr. XII-459 [[#^s-017610dbc4764f1567049721|7]], [[#^s-e071467449381acc9f49754e|10]], [[#^s-e6591860afc91ef48d152778|11]], [[#^s-5e1081c6bce054ac82843be6|13]], [[#^s-49304f8cf6030caee26d851e|14]], [[#^s-00db4d7d88e3e92e909dde57|17]], [[#^s-d02f875f834c2c4298f03297|18]], [[#^s-2b614592f91a24bcde2f7f77|24]], [[#^s-61b3c4c6ae6dc4473b525b5f|31]] straipsnių pakeitimo, Įstatymo papildymo 10-1, 34-1 straipsniais ir [[#^s-b03bf0dedc4ed79bca4c4187|8 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2524, 2024-03-28, paskelbta TAR 2024-04-03, i. k. 2024-06311
-Lietuvos Respublikos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatymo Nr. XII-459 7, 10, 11, 13, 14, 17, 18, 24, [[#^s-61b3c4c6ae6dc4473b525b5f|31 straipsnių]] pakeitimo, Įstatymo papildymo 10-1, 34-1 straipsniais ir [[#^s-b03bf0dedc4ed79bca4c4187|8 straipsnio]] pripažinimo netekusiu galios [[latest/ff90f200a55011eea5a28c81c82193a8|įstatymo Nr. XIV-2414]] [[#^s-5e1081c6bce054ac82843be6|13 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatymo Nr. XII-459 [[#^s-017610dbc4764f1567049721|7]], [[#^s-e071467449381acc9f49754e|10]], [[#^s-e6591860afc91ef48d152778|11]], [[#^s-5e1081c6bce054ac82843be6|13]], [[#^s-49304f8cf6030caee26d851e|14]], [[#^s-00db4d7d88e3e92e909dde57|17]], [[#^s-d02f875f834c2c4298f03297|18]], [[#^s-2b614592f91a24bcde2f7f77|24]], [[#^s-61b3c4c6ae6dc4473b525b5f|31]] straipsnių pakeitimo, Įstatymo papildymo 10-1, 34-1 straipsniais ir [[#^s-b03bf0dedc4ed79bca4c4187|8 straipsnio]] pripažinimo netekusiu galios [[latest/ff90f200a55011eea5a28c81c82193a8|įstatymo Nr. XIV-2414]] [[#^s-5e1081c6bce054ac82843be6|13 straipsnio]] pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1070, 2026-06-25, paskelbta TAR 2026-06-29, i. k. 2026-11237
-Lietuvos Respublikos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatymo Nr. XII-459 10, 11, 14, 17, 18 ir [[#^s-2b614592f91a24bcde2f7f77|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatymo Nr. XII-459 [[#^s-e071467449381acc9f49754e|10]], [[#^s-e6591860afc91ef48d152778|11]], [[#^s-49304f8cf6030caee26d851e|14]], [[#^s-00db4d7d88e3e92e909dde57|17]], [[#^s-d02f875f834c2c4298f03297|18]] ir [[#^s-2b614592f91a24bcde2f7f77|24]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-677, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22567
-Lietuvos Respublikos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatymo Nr. XII-459 24 ir [[#^s-61b3c4c6ae6dc4473b525b5f|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teritorijų planavimo, statybos ir žemės naudojimo valstybinės priežiūros įstatymo Nr. XII-459 [[#^s-2b614592f91a24bcde2f7f77|24]] ir [[#^s-61b3c4c6ae6dc4473b525b5f|31]] straipsnių pakeitimo įstatymas

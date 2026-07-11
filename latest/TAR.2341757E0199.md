@@ -39,19 +39,19 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio 1, 2 ir 3 dalių pakeitimas ^s-83e5f232b9e83b3b15205f9a
 
 
-1. Pakeisti [[#^s-97eb96d3f5d8be3c212ca9c7|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-97eb96d3f5d8be3c212ca9c7
+1. Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip: ^s-97eb96d3f5d8be3c212ca9c7
 
 
 „1. Šis Įstatymas nustato ribotos ir neribotos civilinės atsakomybės juridinių asmenų, ūkininkų ūkių, gyventojų, kurie verčiasi individualia veikla (nuolatinių Lietuvos gyventojų, kurie verčiasi individualia veikla, ir nenuolatinių Lietuvos gyventojų, veikiančių per nuolatinę bazę Lietuvos Respublikoje), užsienio juridinių asmenų filialų ir atstovybių, esančių Lietuvos Respublikoje, (toliau – ūkio subjektai) turto, nuosavo kapitalo, finansavimo sumų, įsipareigojimų buhalterinę apskaitą, jos organizavimą ir tvarkymą.“
 
 
-2. Pakeisti [[#^s-219addd08e548e07f6f3d10c|1 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-219addd08e548e07f6f3d10c
+2. Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip: ^s-219addd08e548e07f6f3d10c
 
 
 „2. Ūkininkų ūkių, gyventojų, kurie verčiasi individualia veikla, pelno nesiekiančių ribotos civilinės atsakomybės juridinių asmenų buhalterinės apskaitos tvarką nustato Vyriausybė arba jos įgaliota institucija tiek, kiek šis Įstatymas nenustato kitaip.“
 
 
-3. Pakeisti [[#^s-d350205f9943ea761dfae13d|1 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-d350205f9943ea761dfae13d
+3. Pakeisti 1 straipsnio 3 dalį ir ją išdėstyti taip: ^s-d350205f9943ea761dfae13d
 
 
 „3. Lietuvos banko, kitų kredito įstaigų, finansų maklerio įmonių, investicinių kintamojo kapitalo bendrovių ir jų valdymo įmonių, pensijų fondų ir jų valdymo įmonių, investicinių fondų valdymo įmonių, draudimo įmonių buhalterinės apskaitos tvarkymą ir organizavimą nustato šis Įstatymas, jei kiti Lietuvos Respublikos įstatymai nenustato kitaip.“
@@ -122,7 +122,7 @@ Vilnius
 1. Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip: ^s-55dbb05c75c1c3ad899a7e4c
 
 
-„4. Ribotos civilinės atsakomybės juridiniai asmenys, savo veikla siekiantys pelno, išskyrus [[#^s-012975df97912aaaf25ba0f5|šio straipsnio 3 dalyje]] nurodytus ūkio subjektus, tvarkydami apskaitą, vadovaujasi Verslo apskaitos standartais arba Tarptautiniais apskaitos standartais. Pasirinkus tvarkyti apskaitą pagal Verslo apskaitos standartus arba Tarptautinius apskaitos standartus, toks pasirinkimas negali būti keičiamas anksčiau negu po 5 metų (išskyrus atvejį, kai ribotos civilinės atsakomybės juridinis asmuo, savo veikla siekiantis pelno, tampa įmonių grupės įmone). Verslo apskaitos standartus parengia, patvirtina ir „Valstybės žiniose“ paskelbia Lietuvos Respublikos apskaitos institutas. Verslo apskaitos standartai turi būti parengti remiantis Europos Sąjungos teise ir Tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės juridiniai asmenys, tvarkydami apskaitą, vadovaujasi Verslo apskaitos standartais tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansinę atskaitomybę arba kai Įmonių finansinės atskaitomybės įstatymas įpareigoja ją sudaryti.“
+„4. Ribotos civilinės atsakomybės juridiniai asmenys, savo veikla siekiantys pelno, išskyrus [[#^s-012975df97912aaaf25ba0f5|šio straipsnio 3 dalyje]] nurodytus ūkio subjektus, tvarkydami apskaitą, vadovaujasi Verslo apskaitos standartais arba Tarptautiniais apskaitos standartais. Pasirinkus tvarkyti apskaitą pagal Verslo apskaitos standartus arba Tarptautinius apskaitos standartus, toks pasirinkimas negali būti keičiamas anksčiau negu po 5 metų (išskyrus atvejį, kai ribotos civilinės atsakomybės juridinis asmuo, savo veikla siekiantis pelno, tampa įmonių grupės įmone). Verslo apskaitos standartus parengia, patvirtina ir „Valstybės žiniose“ paskelbia Lietuvos Respublikos apskaitos institutas. Verslo apskaitos standartai turi būti parengti remiantis Europos Sąjungos teise ir Tarptautiniais apskaitos standartais. Neribotos civilinės atsakomybės juridiniai asmenys, tvarkydami apskaitą, vadovaujasi Verslo apskaitos standartais tuo atveju, kai savo nuožiūra nusprendžia sudaryti finansinę atskaitomybę arba kai [Įmonių finansinės atskaitomybės įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C) įpareigoja ją sudaryti.“
 
 
 2. Pakeisti 3 straipsnio 5 dalį ir ją išdėstyti taip: ^s-7235cb099b998d5200f89998
@@ -163,13 +163,13 @@ Vilnius
 „1. Ribotos civilinės atsakomybės juridiniams asmenims, savo veikla siekiantiems pelno, pavyzdinį sąskaitų planą parengia, patvirtina ir „Valstybės žiniose“ paskelbia Lietuvos Respublikos apskaitos institutas.“
 
 
-2. Papildyti [[#^s-beec8e28727bbd03d93bddb4|7 straipsnį]] nauja [[#^s-43c0b1f19c5551f9db1fa07e|2 dalimi]]: ^s-43c0b1f19c5551f9db1fa07e
+2. Papildyti [[#^s-beec8e28727bbd03d93bddb4|7 straipsnį]] nauja 2 dalimi: ^s-43c0b1f19c5551f9db1fa07e
 
 
 „2. Biudžetinėms įstaigoms, pelno nesiekiantiems ribotos civilinės atsakomybės juridiniams asmenims pavyzdinius sąskaitų planus parengia, patvirtina ir „Valstybės žiniose“ paskelbia Finansų ministerija.“
 
 
-3. Buvusią [[#^s-55645bd81d4757ad8b273711|7 straipsnio 2 dalį]] laikyti [[#^s-1150b6c8cff494b117af3061|3 dalimi]]. ^s-1150b6c8cff494b117af3061
+3. Buvusią [[#^s-55645bd81d4757ad8b273711|7 straipsnio 2 dalį]] laikyti 3 dalimi. ^s-1150b6c8cff494b117af3061
 
 
 
@@ -251,7 +251,7 @@ Vilnius
 14 straipsnio 1 dalyje po žodžių „apskaitos paslaugas teikianti įmonė“ įrašyti žodžius „arba centralizuotai tvarkanti apskaitą biudžetinė įstaiga“ ir šią dalį išdėstyti taip:
 
 
-„1. Ūkio subjekto vadovas patvirtina asmenų, kurie turi teisę surašyti ir pasirašyti arba tik pasirašyti apskaitos dokumentus, sąrašą ir jų parašų pavyzdžius. Apskaitos dokumentai pasirašomi asmeniškai arba Elektroninio parašo įstatymo nustatyta tvarka. Kai pagal sutartį apskaitą tvarko apskaitos paslaugas teikianti įmonė arba centralizuotai tvarkanti apskaitą biudžetinė įstaiga, dokumentų pasirašymo tvarka nustatoma sutartyje, sudarytoje su užsakovu.“
+„1. Ūkio subjekto vadovas patvirtina asmenų, kurie turi teisę surašyti ir pasirašyti arba tik pasirašyti apskaitos dokumentus, sąrašą ir jų parašų pavyzdžius. Apskaitos dokumentai pasirašomi asmeniškai arba [Elektroninio parašo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.382345294FBF) nustatyta tvarka. Kai pagal sutartį apskaitą tvarko apskaitos paslaugas teikianti įmonė arba centralizuotai tvarkanti apskaitą biudžetinė įstaiga, dokumentų pasirašymo tvarka nustatoma sutartyje, sudarytoje su užsakovu.“
 
 
 
@@ -264,7 +264,7 @@ Vilnius
 „17 straipsnis. Finansinė atskaitomybė
 
 
-Finansinė atskaitomybė sudaroma pagal sąskaitų duomenis Įmonių finansinės atskaitomybės įstatymo ir kitų teisės aktų nustatyta tvarka.“
+Finansinė atskaitomybė sudaroma pagal sąskaitų duomenis [Įmonių finansinės atskaitomybės įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.132D0D75309C) ir kitų teisės aktų nustatyta tvarka.“
 
 
 

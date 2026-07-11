@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl užsieniečių teisinės pad
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.F628061443C6|Lietuvos Respublikos pilietybės įstatymas]] - 3 citatos - Lietuvos Respublikos pilietybės įstatymo
+- [[latest/TAR.F628061443C6|Lietuvos Respublikos pilietybės įstatymas]] - 2 citatos - Lietuvos Respublikos pilietybės įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.42837E5A79DD#^s-b7fcdfdba0ef5139f8112d96|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - Įstatymas Nr. XII-548
-- [[latest/TAR.42837E5A79DD#^s-d380d2d641411ba21387bb73|Lietuvos Respublikos įstatymas dėl užsieniečių teisinės padėties]] - Įstatymas Nr. XII-548
+_Nėra._

@@ -43,7 +43,7 @@ Papildyti [[#^s-a771e60d4ccc13ad8b90fc25|2 straipsnio 2 dalies]] pirmąjį sakin
 „2. Privatizavimo objektai privačios nuosavybės teise gali būti perleisti pagal šį įstatymą ir [[#^s-c9a20875fe6785b9e71d3dba|šio straipsnio 3 dalyje]] nurodytu atveju pagal Lietuvos Respublikos vertybinių popierių viešosios apyvartos įstatymą. Valstybei ar savivaldybei nuosavybės teise priklausančios akcijos ir kitas turtas kitų asmenų nuosavybėn gali būti perleistas pagal šį įstatymą, jei kituose įstatymuose nenustatyta kitaip.
 
 
-3. Valstybei ar savivaldybei nuosavybės teise priklausančius akcijų paketus, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, privatizavimo institucijos gali parduoti Lietuvos Respublikos vertybinių popierių viešosios apyvartos įstatymo nustatyta tvarka, kai yra pateiktas oficialus privalomas pasiūlymas.“ ^s-c9a20875fe6785b9e71d3dba
+3. Valstybei ar savivaldybei nuosavybės teise priklausančius akcijų paketus, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, privatizavimo institucijos gali parduoti [Lietuvos Respublikos vertybinių popierių viešosios apyvartos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nustatyta tvarka, kai yra pateiktas oficialus privalomas pasiūlymas.“ ^s-c9a20875fe6785b9e71d3dba
 
 
 ### 2 straipsnis. 5 straipsnio 4 dalies 2, 5 punktų pakeitimas ir papildymas ^s-d5a129f29ed6789ec0ddd1b8
@@ -58,7 +58,7 @@ Papildyti [[#^s-a771e60d4ccc13ad8b90fc25|2 straipsnio 2 dalies]] pirmąjį sakin
 2. 5 straipsnio 4 dalį papildyti 5 punktu: ^s-a771e60d4ccc13ad8b90fc25
 
 
-„5) pritarti ar nepritarti valstybei, taip pat savivaldybei nuosavybės teise priklausančių akcijų paketų pagal sutartį perduotų privatizuoti valstybės įmonei Valstybės turto fondas, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, pardavimui, kai Lietuvos Respublikos vertybinių popierių viešosios apyvartos įstatymo nustatyta tvarka yra pateiktas oficialus privalomas pasiūlymas pirkti šį akcijų paketą.“
+„5) pritarti ar nepritarti valstybei, taip pat savivaldybei nuosavybės teise priklausančių akcijų paketų pagal sutartį perduotų privatizuoti valstybės įmonei Valstybės turto fondas, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, pardavimui, kai [Lietuvos Respublikos vertybinių popierių viešosios apyvartos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nustatyta tvarka yra pateiktas oficialus privalomas pasiūlymas pirkti šį akcijų paketą.“
 
 
 ### 3 straipsnis. 6 straipsnio 2 dalies papildymas ^s-6daa8eff6d7feb78c2ba7181
@@ -142,7 +142,7 @@ Pakeisti 17 straipsnio 2 dalį ir išdėstyti taip:
 ### 9 straipsnis. 20 straipsnio 1, 2 dalių pakeitimas ir 3 dalies pripažinimas netekusia galios ^s-fdf8755a10debd59079c6529
 
 
-1. Pakeisti 20 straipsnio 1 ir [[#^s-fcb3c764252e136569fc0528|2 dalis]], 3 dalį pripažinti netekusia galios ir šį straipsnį išdėstyti taip: ^s-20c7dafa8a00ae5b4e98fe6a
+1. Pakeisti 20 straipsnio 1 ir 2 dalis, 3 dalį pripažinti netekusia galios ir šį straipsnį išdėstyti taip: ^s-20c7dafa8a00ae5b4e98fe6a
 
 
 „20 straipsnis. Apmokėjimas už privatizavimo objektą
@@ -151,7 +151,7 @@ Pakeisti 17 straipsnio 2 dalį ir išdėstyti taip:
 1. Apmokėti už įsigyjamą privatizavimo objektą potencialus pirkėjas, mokantis Lietuvoje, moka Lietuvos Respublikos pinigais arba kitais Lietuvos Respublikos įstatymų nustatytais mokėjimo dokumentais, o potencialus pirkėjas, įregistruotas ir mokantis užsienyje, moka ir (ar) privatizavimo sandoryje nustatyta užsienio valiuta arba kitais Lietuvos Respublikos įstatymų nustatytais mokėjimo dokumentais. ^s-66ace1804510ea2863cbbd42
 
 
-2. Privatizavimo objekto pirkimo tvarka ir terminai nustatomi privatizavimo sandoryje. Privatizavimo objektą (akcijas) pirkti galima ir dalimis, tačiau pirmąja dalimi turi būti perkama ne mažiau kaip 51 procentas parduodamų akcijų, o apmokėjimas už paskutiniąją akcijų dalį negali būti atidėtas ilgiau kaip 5 metams. Pirmoji parduodamų akcijų dalis, kai mokėjimas atidedamas, arba ne mažiau kaip 60 procentų pardavimo kainos, kai mokama iš karto, turi būti apmokama litais, jei už privatizavimo objektą potencialus pirkėjas moka Lietuvoje, arba privatizavimo sandoryje nustatyta užsienio valiuta, jei potencialus pirkėjas yra įregistruotas ir moka užsienyje. Už atidėtus mokėjimus pirkėjas turi mokėti palūkanas, kurios apskaičiuojamos, vadovaujantis vidutine komercinių bankų palūkanų norma, nuo nesumokėtos visos akcijų paketo sumos. Jei už privatizavimo objektą moka Lietuvos gyventojas ar jų grupė, pagal Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“ turi būti pateikta Valstybinės mokesčių inspekcijos pažyma.“ ^s-fcb3c764252e136569fc0528
+2. Privatizavimo objekto pirkimo tvarka ir terminai nustatomi privatizavimo sandoryje. Privatizavimo objektą (akcijas) pirkti galima ir dalimis, tačiau pirmąja dalimi turi būti perkama ne mažiau kaip 51 procentas parduodamų akcijų, o apmokėjimas už paskutiniąją akcijų dalį negali būti atidėtas ilgiau kaip 5 metams. Pirmoji parduodamų akcijų dalis, kai mokėjimas atidedamas, arba ne mažiau kaip 60 procentų pardavimo kainos, kai mokama iš karto, turi būti apmokama litais, jei už privatizavimo objektą potencialus pirkėjas moka Lietuvoje, arba privatizavimo sandoryje nustatyta užsienio valiuta, jei potencialus pirkėjas yra įregistruotas ir moka užsienyje. Už atidėtus mokėjimus pirkėjas turi mokėti palūkanas, kurios apskaičiuojamos, vadovaujantis vidutine komercinių bankų palūkanų norma, nuo nesumokėtos visos akcijų paketo sumos. Jei už privatizavimo objektą moka Lietuvos gyventojas ar jų grupė, pagal Lietuvos Respublikos įstatymą [„Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“](https://e-tar.lt/portal/lt/legalAct/TAR.1273CA6042BD) turi būti pateikta Valstybinės mokesčių inspekcijos pažyma.“ ^s-fcb3c764252e136569fc0528
 
 
 ### 10 straipsnis. 21 straipsnio pakeitimas ^s-99143480df2685418cd583b6

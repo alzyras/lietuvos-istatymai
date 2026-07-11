@@ -123,7 +123,7 @@ Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
 
 
 
-6. Neturintys darbo ar tarnybos santykių asmenys – asmenys, nurodyti [[latest/TAR.0F9036415DBD#^s-8ee2840c34c94160c2f6d690|Valstybinio socialinio draudimo įstatymo 5 straipsnio]] 1 ir [[#^s-c18cdef236fe2568230d6247|2 dalyse]], [[#^s-ecd6e9170a7188c767fba5f1|6 straipsnio]] 1, 7 ir 11 dalyse. ^s-3b599528db1a5794de2aca90
+6. Neturintys darbo ar tarnybos santykių asmenys – asmenys, nurodyti [[latest/TAR.0F9036415DBD#^s-8ee2840c34c94160c2f6d690|Valstybinio socialinio draudimo įstatymo 5 straipsnio]] [[latest/TAR.0F9036415DBD#^s-71a8c88b4cda92085058e7e2|1]] ir [[latest/TAR.0F9036415DBD#^s-ba43019c058e9fc78beca4d5|2]] dalyse, [[#^s-ecd6e9170a7188c767fba5f1|6 straipsnio]] [[#^s-d2fe8e72d74ed5db8198c496|1]], 7 ir 11 dalyse. ^s-3b599528db1a5794de2aca90
 Straipsnio dalies pakeitimai:
 Nr. XIV-1176, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13892
 
@@ -138,7 +138,7 @@ Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
 8. Šeimos narys – sutuoktinis, vaikas (įvaikis), motina (tėvas), įmotė (įtėvis). ^s-522bbdbe43ac8d19e6055787
 
 
-9. Turintys darbo ar tarnybos santykius asmenys – asmenys, nurodyti [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Valstybinio socialinio draudimo įstatymo 4 straipsnio]] 1–[[#^s-d7495bce74ce3c01cfc280bd|4 dalyse]] ir [[#^s-574b335d2079e458ce818bf5|6 straipsnio 4 dalyje]]. ^s-d0ac5dabb0e0a3b04cc15cf5
+9. Turintys darbo ar tarnybos santykius asmenys – asmenys, nurodyti [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Valstybinio socialinio draudimo įstatymo 4 straipsnio]] [[latest/TAR.0F9036415DBD#^s-93a3ee30cc77f6b9a09f2c88|1]]–[[latest/TAR.0F9036415DBD#^s-7a469a5208f6b36019a05ee3|4]] dalyse ir [[#^s-574b335d2079e458ce818bf5|6 straipsnio 4 dalyje]]. ^s-d0ac5dabb0e0a3b04cc15cf5
 
 
 
@@ -163,7 +163,7 @@ Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
 2) [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatyme]] nustatyta tvarka ir terminais iki pirmosios laikinojo nedarbingumo ar profesinės reabilitacijos programos dienos arba iki jų prilyginimo pagal šio įstatymo [[#^s-8123edbd105ea07e2d42877f|5 straipsnio 4 dalį]] asmenims, kuriems suteiktos nėštumo ir gimdymo, tėvystės ar vaiko priežiūros atostogos, yra sumokėję ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokas už einamąjį kalendorinį mėnesį, jeigu jų teisė į ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmoką atsirado veiklos vykdymo pradžios kalendorinį mėnesį ar ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokos už praėjusį mėnesį nebuvo mokėtos dėl to, kad šie asmenys praėjusį mėnesį buvo laikinai nedarbingi arba gavo šio įstatymo nustatytas ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokas; ^s-3bedcf738beb862081d5162c
 
 
-3) teisę į naują ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmoką įgyja ankstesnės ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokos mokėjimo laikotarpiu arba be pertraukos kitą dieną po ankstesnės ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokos mokėjimo pabaigos, o ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokas anksčiau paskirtai ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokai gauti yra sumokėję šios dalies 1 ar [[#^s-3bedcf738beb862081d5162c|2 punkte]] nustatyta tvarka. ^s-e2426730e375db4962461868
+3) teisę į naują ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmoką įgyja ankstesnės ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokos mokėjimo laikotarpiu arba be pertraukos kitą dieną po ankstesnės ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokos mokėjimo pabaigos, o ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokas anksčiau paskirtai ligos, profesinės reabilitacijos, motinystės, tėvystės ar vaiko priežiūros išmokai gauti yra sumokėję šios dalies [[#^s-b5659e0e7ce426e77f8edfa7|1]] ar [[#^s-3bedcf738beb862081d5162c|2]] punkte nustatyta tvarka. ^s-e2426730e375db4962461868
 Straipsnio punkto pakeitimai:
 Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
 Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
@@ -177,7 +177,7 @@ Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
 
 
 
-5. [[latest/TAR.0F9036415DBD#^s-bfa41525bf86aaeefe10fbcc|Valstybinio socialinio draudimo įstatymo 6 straipsnio]] 1, 4, 7 ir 11 dalyse nurodyti asmenys laikomi apdraustaisiais, jeigu už juos mokamos ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokos. ^s-7cf9feeec1f663926313b840
+5. [[latest/TAR.0F9036415DBD#^s-bfa41525bf86aaeefe10fbcc|Valstybinio socialinio draudimo įstatymo 6 straipsnio]] [[latest/TAR.0F9036415DBD#^s-18ee958e732a25eeb556f77b|1]], [[latest/TAR.0F9036415DBD#^s-a4c77db2988a2a09766521b3|4]], [[latest/TAR.0F9036415DBD#^s-ad55aa7e0ba4600ded689627|7]] ir [[latest/TAR.0F9036415DBD#^s-2cb7c76b3b26dad0734d3980|11]] dalyse nurodyti asmenys laikomi apdraustaisiais, jeigu už juos mokamos ligos socialinio draudimo ir (ar) motinystės socialinio draudimo įmokos. ^s-7cf9feeec1f663926313b840
 Papildyta straipsnio dalimi:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 Straipsnio dalies pakeitimai:
@@ -194,7 +194,7 @@ Nr. XIV-1176, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13892
 2. Ligos išmokos skiriamos turintiems teisę jas gauti asmenims šiais atvejais: ^s-a31de155080392dc0a81638e
 
 
-1) apdraustiesiems asmenims, tapusiems laikinai nedarbingiems dėl ligos arba traumos ir dėl to praradusiems darbo pajamų, išskyrus šio įstatymo [[#^s-3a512c6af722ea21e8b3912c|14 straipsnio]] 6 ir 7 dalyse nurodytus atvejus bei [[latest/TAR.4325B0C38B2F|Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo]] numatytus ligos išmokos skyrimo ir mokėjimo atvejus; ^s-0203c104a8469fe3e8db8174
+1) apdraustiesiems asmenims, tapusiems laikinai nedarbingiems dėl ligos arba traumos ir dėl to praradusiems darbo pajamų, išskyrus šio įstatymo [[#^s-3a512c6af722ea21e8b3912c|14 straipsnio]] [[#^s-a7be8e61fbff3cd05929bd73|6]] ir [[#^s-aeb0718e47aa2ca2180e19a7|7]] dalyse nurodytus atvejus bei [[latest/TAR.4325B0C38B2F|Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo]] numatytus ligos išmokos skyrimo ir mokėjimo atvejus; ^s-0203c104a8469fe3e8db8174
 Straipsnio punkto pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
@@ -206,7 +206,7 @@ Nr. XIV-2193, 2023-10-10, paskelbta TAR 2023-10-25, i. k. 2023-20773
 
 
 
-3) apdraustiesiems asmenims, nušalintiems nuo darbo dėl užkrečiamųjų ligų protrūkių arba epidemijų, ir šio įstatymo [[#^s-250f0853a51aaff57e1c78ba|111 straipsnio]] 2 ir 6 dalyse nurodytiems apdraustiesiems asmenims; ^s-0c0b25fbe4b2b3511c4123c7
+3) apdraustiesiems asmenims, nušalintiems nuo darbo dėl užkrečiamųjų ligų protrūkių arba epidemijų, ir šio įstatymo [[#^s-250f0853a51aaff57e1c78ba|111 straipsnio]] [[#^s-38322be7f5446ee932daf74a|2]] ir [[#^s-99590e16c49e82dd8da32f85|6]] dalyse nurodytiems apdraustiesiems asmenims; ^s-0c0b25fbe4b2b3511c4123c7
 Straipsnio punkto pakeitimai:
 Nr. XIII-3305, 2020-09-29, paskelbta TAR 2020-10-09, i. k. 2020-21152
 Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
@@ -216,7 +216,7 @@ Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
 4) apdraustiesiems asmenims, kurie gydosi sveikatos priežiūros įstaigoje, teikiančioje ortopedines ir (ar) protezavimo paslaugas. Ši išmoka skiriama apdraustiesiems asmenims už visą gydymosi tokioje įstaigoje laiką, taip pat vykimo į ją ir grįžimo iš jos laiką; ^s-80f1ed88d96f56f4c1b248f3
 
 
-5) šio įstatymo [[#^s-f14b136ff0e4343c7a2a515a|11 straipsnio 4 dalyje]] ir [[#^s-b94a3644c5aba822ba9e58bf|111 straipsnio 8 dalyje]] nurodytų vaikų ir asmenų su negalia priežiūrai, jeigu švietimo įstaigoje (įstaigose) nustatytas infekcijų plitimą ribojantis režimas, bei šio įstatymo [[#^s-250f0853a51aaff57e1c78ba|111 straipsnio]] 3 ir 7 dalyse nurodytų vaikų ir asmenų su negalia priežiūrai; ^s-832af3fd139ad1b558cb3341
+5) šio įstatymo [[#^s-f14b136ff0e4343c7a2a515a|11 straipsnio 4 dalyje]] ir [[#^s-b94a3644c5aba822ba9e58bf|111 straipsnio 8 dalyje]] nurodytų vaikų ir asmenų su negalia priežiūrai, jeigu švietimo įstaigoje (įstaigose) nustatytas infekcijų plitimą ribojantis režimas, bei šio įstatymo [[#^s-250f0853a51aaff57e1c78ba|111 straipsnio]] [[#^s-ab6185b78a81932a8ae512dc|3]] ir [[#^s-946caa349dde9da3a9a38061|7]] dalyse nurodytų vaikų ir asmenų su negalia priežiūrai; ^s-832af3fd139ad1b558cb3341
 Straipsnio punkto pakeitimai:
 Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
 Nr. XIII-3305, 2020-09-29, paskelbta TAR 2020-10-09, i. k. 2020-21152
@@ -234,7 +234,7 @@ Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 7) apdraustiesiems asmenims, tapusiems laikinai nedarbingiems dėl audinių, ląstelių ar organų paėmimo transplantacijai donorystės tikslu; ^s-306c6773170712a64757d4c3
 
 
-8) šio įstatymo [[#^s-250f0853a51aaff57e1c78ba|111 straipsnio]] 4 ir [[#^s-75c510669308bc885ed3b92b|5 dalyse]] nurodytų asmenų priežiūrai, jeigu sustabdoma nestacionarių socialinių paslaugų įstaigos (dienos centro) veikla. ^s-e2075d6adf4f6ea9d26ad89a
+8) šio įstatymo [[#^s-250f0853a51aaff57e1c78ba|111 straipsnio]] [[#^s-e9b486be103e21d2b2ade395|4]] ir [[#^s-7de3afbcc5e46027b9432221|5]] dalyse nurodytų asmenų priežiūrai, jeigu sustabdoma nestacionarių socialinių paslaugų įstaigos (dienos centro) veikla. ^s-e2075d6adf4f6ea9d26ad89a
 Papildyta straipsnio punktu:
 Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
 
@@ -336,7 +336,7 @@ Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 2. Jeigu visą [[#^s-bdf2dc0aa7b4dd5d3a7635c7|šio straipsnio 1 dalies 2 punkte]] nurodytą laikotarpį ar jo dalį asmeniui, vadovaujantis [[latest/f6d686707e7011e6b969d7ae07280e89#^s-de7b7e3d001365c96b67b4b1|Darbo kodekso 47 straipsnio 1 dalies 2 punktu]], dėl Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino dėl COVID-19 ligos (koronaviruso infekcijos) ir (ar) jos plitimo grėsmės taikytų ūkinės veiklos apribojimų buvo paskelbta prastova, šioje dalyje nurodyto asmens kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokos dydis, apskaičiuojamas pagal jo nuo 2019 m. vasario 1 d. iki 2020 m. sausio 31 d. turėtas draudžiamąsias pajamas. ^s-68ba0e29b130de52a861f732
 
 
-3. Jeigu, apskaičiuojant asmens, kuris [[latest/TAR.0F9036415DBD#^s-8ee2840c34c94160c2f6d690|Valstybinio socialinio draudimo įstatymo 5 straipsnio]] 1 ar [[#^s-68ba0e29b130de52a861f732|2 dalyje]] nurodytas kaip savarankiškai dirbantis asmuo ir kuris turi teisę gauti motinystės, tėvystės ir (ar) vaiko priežiūros išmokas, kompensuojamąjį uždarbį, visas kompensuojamojo uždarbio skaičiavimo laikotarpis ar jo dalis patenka į visą [[#^s-bdf2dc0aa7b4dd5d3a7635c7|šio straipsnio 1 dalies 2 punkte]] nurodytą laikotarpį ar jo dalį, kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokos dydis, apskaičiuojamas: ^s-b487310553067ab2b072da90
+3. Jeigu, apskaičiuojant asmens, kuris [[latest/TAR.0F9036415DBD#^s-8ee2840c34c94160c2f6d690|Valstybinio socialinio draudimo įstatymo 5 straipsnio]] [[latest/TAR.0F9036415DBD#^s-71a8c88b4cda92085058e7e2|1]] ar [[latest/TAR.0F9036415DBD#^s-ba43019c058e9fc78beca4d5|2]] dalyje nurodytas kaip savarankiškai dirbantis asmuo ir kuris turi teisę gauti motinystės, tėvystės ir (ar) vaiko priežiūros išmokas, kompensuojamąjį uždarbį, visas kompensuojamojo uždarbio skaičiavimo laikotarpis ar jo dalis patenka į visą [[#^s-bdf2dc0aa7b4dd5d3a7635c7|šio straipsnio 1 dalies 2 punkte]] nurodytą laikotarpį ar jo dalį, kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokos dydis, apskaičiuojamas: ^s-b487310553067ab2b072da90
 
 
 1) pagal asmens nuo 2019 m. vasario 1 d. iki 2020 m. sausio 31 d. turėtas draudžiamąsias pajamas iš sporto, atlikėjo veiklos, pagal autorines sutartis ir individualios veiklos, kai visą [[#^s-bdf2dc0aa7b4dd5d3a7635c7|šio straipsnio 1 dalies 2 punkte]] nurodytą laikotarpį ar jo dalį jis buvo savarankiškai dirbantis asmuo, nurodytas [[latest/TAR.0F9036415DBD#^s-71a8c88b4cda92085058e7e2|Valstybinio socialinio draudimo įstatymo 5 straipsnio 1 dalyje]], ir (ar) ^s-778c6d79dcf4d3280409bca0
@@ -348,13 +348,13 @@ Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 4. Jeigu asmuo, kurio kompensuojamasis uždarbis apskaičiuojamas vadovaujantis [[#^s-b487310553067ab2b072da90|šio straipsnio 3 dalimi]], neturi reikiamo motinystės socialinio draudimo stažo, nes į stažo skaičiavimo laikotarpį patenka visas [[#^s-bdf2dc0aa7b4dd5d3a7635c7|šio straipsnio 1 dalies 2 punkte]] nurodytas laikotarpis ar jo dalis, jo motinystės socialinio draudimo stažas apskaičiuojamas pagal Lietuvos Respublikos apdraustųjų valstybiniu socialiniu draudimu ir valstybinio socialinio draudimo išmokų gavėjų registro ir (ar) asmens pateiktus duomenis apie jo turėtas draudžiamąsias pajamas 2020 m. kovo 1 d. ^s-108d5d65f458f5886644c225
 
 
-5. Jeigu asmens kompensuojamasis uždarbis gali būti apskaičiuojamas vadovaujantis šio straipsnio 2 ir [[#^s-b487310553067ab2b072da90|3 dalimis]], jo kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokos dydis, apskaičiuojamas pagal asmens nuo 2019 m. vasario 1 d. iki 2020 m. sausio 31 d. turėtas draudžiamąsias pajamas iš sporto, atlikėjo veiklos, pagal autorines sutartis, individualios veiklos ir nuo 2019 m. vasario 1 d. iki 2020 m. sausio 31 d. turėtas su darbo santykiais susijusias draudžiamąsias pajamas. ^s-04ba5005615cffcf7144acaa
+5. Jeigu asmens kompensuojamasis uždarbis gali būti apskaičiuojamas vadovaujantis šio straipsnio [[#^s-68ba0e29b130de52a861f732|2]] ir [[#^s-b487310553067ab2b072da90|3]] dalimis, jo kompensuojamasis uždarbis, pagal kurį nustatomas motinystės, tėvystės ir vaiko priežiūros išmokos dydis, apskaičiuojamas pagal asmens nuo 2019 m. vasario 1 d. iki 2020 m. sausio 31 d. turėtas draudžiamąsias pajamas iš sporto, atlikėjo veiklos, pagal autorines sutartis, individualios veiklos ir nuo 2019 m. vasario 1 d. iki 2020 m. sausio 31 d. turėtas su darbo santykiais susijusias draudžiamąsias pajamas. ^s-04ba5005615cffcf7144acaa
 
 
-6. Jeigu pagal šio straipsnio 2, 3 ar [[#^s-04ba5005615cffcf7144acaa|5 dalį]] apskaičiuotas asmens kompensuojamasis uždarbis yra mažesnis už kompensuojamąjį uždarbį, apskaičiuotą pagal šio įstatymo [[#^s-c0205440e39d031efeb6aef8|6 straipsnio 2 dalį]], apskaičiuojant asmeniui skiriamos motinystės, tėvystės ar vaiko priežiūros išmokos dydį, taikomas didesnis kompensuojamojo uždarbio dydis. Pagal šio straipsnio 2, 3 ar [[#^s-04ba5005615cffcf7144acaa|5 dalį]] apskaičiuotas kompensuojamojo uždarbio dydis, apskaičiuojant asmeniui skiriamos tėvystės ar vaiko priežiūros išmokos dydį, negali viršyti šio įstatymo [[#^s-be9d4a425cd5015d9a8cf51b|6 straipsnio 5 dalyje]] nurodyto maksimalaus kompensuojamojo uždarbio dydžio. ^s-6c59968f823e0b2fce732d62
+6. Jeigu pagal šio straipsnio [[#^s-68ba0e29b130de52a861f732|2]], [[#^s-b487310553067ab2b072da90|3]] ar [[#^s-04ba5005615cffcf7144acaa|5]] dalį apskaičiuotas asmens kompensuojamasis uždarbis yra mažesnis už kompensuojamąjį uždarbį, apskaičiuotą pagal šio įstatymo [[#^s-c0205440e39d031efeb6aef8|6 straipsnio 2 dalį]], apskaičiuojant asmeniui skiriamos motinystės, tėvystės ar vaiko priežiūros išmokos dydį, taikomas didesnis kompensuojamojo uždarbio dydis. Pagal šio straipsnio [[#^s-68ba0e29b130de52a861f732|2]], [[#^s-b487310553067ab2b072da90|3]] ar [[#^s-04ba5005615cffcf7144acaa|5]] dalį apskaičiuotas kompensuojamojo uždarbio dydis, apskaičiuojant asmeniui skiriamos tėvystės ar vaiko priežiūros išmokos dydį, negali viršyti šio įstatymo [[#^s-be9d4a425cd5015d9a8cf51b|6 straipsnio 5 dalyje]] nurodyto maksimalaus kompensuojamojo uždarbio dydžio. ^s-6c59968f823e0b2fce732d62
 
 
-7. Motinystės, tėvystės ir vaiko priežiūros išmokoms, jeigu asmens kompensuojamasis uždarbis apskaičiuotas pagal šio straipsnio 2, 3 ar [[#^s-04ba5005615cffcf7144acaa|5 dalį]], mokėti skirtų motinystės socialinio draudimo sąnaudų dalis, apskaičiuota iš motinystės, tėvystės ir vaiko priežiūros išmokų, kurioms apskaičiuoti naudotas kompensuojamasis uždarbis, apskaičiuotas pagal šio straipsnio 2, 3 ar [[#^s-04ba5005615cffcf7144acaa|5 dalį]], sumos atėmus motinystės, tėvystės ir vaiko priežiūros išmokų, jeigu joms apskaičiuoti būtų naudotas kompensuojamasis uždarbis, apskaičiuotas pagal šio įstatymo [[#^s-c0205440e39d031efeb6aef8|6 straipsnio 2 dalį]], sumą, mokama iš valstybės biudžeto. ^s-26fefc81766e443de0da6f26
+7. Motinystės, tėvystės ir vaiko priežiūros išmokoms, jeigu asmens kompensuojamasis uždarbis apskaičiuotas pagal šio straipsnio [[#^s-68ba0e29b130de52a861f732|2]], [[#^s-b487310553067ab2b072da90|3]] ar [[#^s-04ba5005615cffcf7144acaa|5]] dalį, mokėti skirtų motinystės socialinio draudimo sąnaudų dalis, apskaičiuota iš motinystės, tėvystės ir vaiko priežiūros išmokų, kurioms apskaičiuoti naudotas kompensuojamasis uždarbis, apskaičiuotas pagal šio straipsnio [[#^s-68ba0e29b130de52a861f732|2]], [[#^s-b487310553067ab2b072da90|3]] ar [[#^s-04ba5005615cffcf7144acaa|5]] dalį, sumos atėmus motinystės, tėvystės ir vaiko priežiūros išmokų, jeigu joms apskaičiuoti būtų naudotas kompensuojamasis uždarbis, apskaičiuotas pagal šio įstatymo [[#^s-c0205440e39d031efeb6aef8|6 straipsnio 2 dalį]], sumą, mokama iš valstybės biudžeto. ^s-26fefc81766e443de0da6f26
 Straipsnio dalies pakeitimai:
 Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
 
@@ -386,13 +386,13 @@ LIGOS IŠMOKA
 1) yra apdrausti ligos socialiniu draudimu; ^s-febb31b411ea57823135c8ee
 
 
-2) tampa laikinai nedarbingi ir dėl to praranda darbo pajamų (išskyrus šio įstatymo [[#^s-3a512c6af722ea21e8b3912c|14 straipsnio]] 6 ir [[#^s-8951f79f9376e0ba55b3b1e8|7 dalyse]] nurodytus atvejus), taip pat jeigu tuo laikotarpiu jie negauna ligos išmokos pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą; ^s-063fd8beaf7ee180fb3cc906
+2) tampa laikinai nedarbingi ir dėl to praranda darbo pajamų (išskyrus šio įstatymo [[#^s-3a512c6af722ea21e8b3912c|14 straipsnio]] [[#^s-a7be8e61fbff3cd05929bd73|6]] ir [[#^s-aeb0718e47aa2ca2180e19a7|7]] dalyse nurodytus atvejus), taip pat jeigu tuo laikotarpiu jie negauna ligos išmokos pagal Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymą; ^s-063fd8beaf7ee180fb3cc906
 Straipsnio punkto pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-3) iki laikinojo nedarbingumo pradžios dienos turi ne trumpesnį kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį kaip 6 mėnesių per paskutinius 24 mėnesius ligos socialinio draudimo stažą, išskyrus atvejus, numatytus šio straipsnio 2, 3 ir [[#^s-919c7759e32d9fdb371ec0da|4 dalyse]]. Ligos išmokoms, darbdavio mokamoms dvi pirmąsias ligos dienas, ligos socialinio draudimo stažo reikalavimas netaikomas. ^s-d943afd9a70d333d39edd6b3
+3) iki laikinojo nedarbingumo pradžios dienos turi ne trumpesnį kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį kaip 6 mėnesių per paskutinius 24 mėnesius ligos socialinio draudimo stažą, išskyrus atvejus, numatytus šio straipsnio [[#^s-778bfd987da00d7500a47c55|2]], [[#^s-61bd94695f9294db7df9bb58|3]] ir [[#^s-919c7759e32d9fdb371ec0da|4]] dalyse. Ligos išmokoms, darbdavio mokamoms dvi pirmąsias ligos dienas, ligos socialinio draudimo stažo reikalavimas netaikomas. ^s-d943afd9a70d333d39edd6b3
 Straipsnio punkto pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
@@ -442,7 +442,7 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 ### 9 straipsnis. Ligos išmokos dėl apdraustojo asmens ligos arba traumos mokėjimo trukmė ^s-8e2b38a5313e0bbaffd24037
 
 
-1. Turintiems darbo ar tarnybos santykius apdraustiesiems asmenims, tapusiems laikinai nedarbingiems šio įstatymo [[#^s-a31de155080392dc0a81638e|5 straipsnio 2 dalies]] 1, 3 ir 4 punktuose nurodytais atvejais, ligos išmoką dvi pirmąsias kalendorines nedarbingumo dienas, sutampančias su darbuotojo darbo ar tarnybos grafiku, moka kiekvienas darbdavys, neatsižvelgdamas į apdraustojo asmens turimą ligos socialinio draudimo stažą. Ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnyje]] nustatytas sąlygas atitinkantiems asmenims pradedama mokėti trečiąją nedarbingumo dieną ir mokama iki darbingumo atgavimo dienos ar dalyvumo lygio nustatymo dienos. Kai Asmens su negalia teisių apsaugos agentūra asmenims nustato profesinės reabilitacijos paslaugų poreikį, ligos išmoka jiems mokama iki pirmosios dalyvavimo profesinės reabilitacijos programoje dienos. Šio įstatymo [[#^s-a31de155080392dc0a81638e|5 straipsnio 2 dalies]] 1, 3 ir 4 punktuose nurodytais atvejais ligos išmoka po atleidimo iš darbo ar tarnybos dėl tos ligos ar traumos, dėl kurios asmuo tapo nedarbingas iki atleidimo iš darbo ar tarnybos, mokama ne ilgiau kaip 5 kalendorines ligos dienas, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos. ^s-5f1f165a95e644d6bc6a8dcd
+1. Turintiems darbo ar tarnybos santykius apdraustiesiems asmenims, tapusiems laikinai nedarbingiems šio įstatymo [[#^s-a31de155080392dc0a81638e|5 straipsnio 2 dalies]] [[#^s-0203c104a8469fe3e8db8174|1]], [[#^s-0c0b25fbe4b2b3511c4123c7|3]] ir [[#^s-80f1ed88d96f56f4c1b248f3|4]] punktuose nurodytais atvejais, ligos išmoką dvi pirmąsias kalendorines nedarbingumo dienas, sutampančias su darbuotojo darbo ar tarnybos grafiku, moka kiekvienas darbdavys, neatsižvelgdamas į apdraustojo asmens turimą ligos socialinio draudimo stažą. Ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnyje]] nustatytas sąlygas atitinkantiems asmenims pradedama mokėti trečiąją nedarbingumo dieną ir mokama iki darbingumo atgavimo dienos ar dalyvumo lygio nustatymo dienos. Kai Asmens su negalia teisių apsaugos agentūra asmenims nustato profesinės reabilitacijos paslaugų poreikį, ligos išmoka jiems mokama iki pirmosios dalyvavimo profesinės reabilitacijos programoje dienos. Šio įstatymo [[#^s-a31de155080392dc0a81638e|5 straipsnio 2 dalies]] [[#^s-0203c104a8469fe3e8db8174|1]], [[#^s-0c0b25fbe4b2b3511c4123c7|3]] ir [[#^s-80f1ed88d96f56f4c1b248f3|4]] punktuose nurodytais atvejais ligos išmoka po atleidimo iš darbo ar tarnybos dėl tos ligos ar traumos, dėl kurios asmuo tapo nedarbingas iki atleidimo iš darbo ar tarnybos, mokama ne ilgiau kaip 5 kalendorines ligos dienas, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos. ^s-5f1f165a95e644d6bc6a8dcd
 
 
 2. Apdraustiesiems asmenims, gaunantiems socialinio draudimo negalios ar netekto darbingumo (invalidumo) pensiją, ligos išmoka šio įstatymo [[#^s-0203c104a8469fe3e8db8174|5 straipsnio 2 dalies 1 punkte]] numatytais atvejais iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti [[#^s-5f1f165a95e644d6bc6a8dcd|šio straipsnio 1 dalyje]] nustatyta tvarka ir mokama ne ilgiau kaip 90 kalendorinių dienų per kalendorinius metus. ^s-3fb071567f0d33d8b10ee520
@@ -454,7 +454,7 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 4. Apdraustiesiems asmenims, tapusiems laikinai nedarbingiems dėl audinių, ląstelių ar organų paėmimo transplantacijai donorystės tikslu, ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų pradedama mokėti pirmąją nedarbingumo dieną ir mokama iki darbingumo atgavimo dienos, pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar dalyvumo lygio nustatymo dienos. Ligos išmoka po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui dėl audinių, ląstelių ar organų paėmimo transplantacijai donorystės tikslu, kai dėl to asmuo tapo nedarbingas iki atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos, mokama, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos. ^s-5956d06af17aa38fdcd8dda7
 
 
-5. Neturintiems darbo ar tarnybos santykių apdraustiesiems asmenims, įgijusiems teisę gauti ligos išmoką šio įstatymo [[#^s-a31de155080392dc0a81638e|5 straipsnio 2 dalies]] 1, 3 ir 4 punktuose nurodytais atvejais, ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų mokama nuo trečiosios laikinojo nedarbingumo dienos iki darbingumo atgavimo dienos, pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar dalyvumo lygio nustatymo dienos. Šio įstatymo [[#^s-a31de155080392dc0a81638e|5 straipsnio 2 dalies]] 1, 3 ir 4 punktuose nurodytais atvejais ligos išmoka pasibaigus draudimo laikotarpiui dėl ligos ar traumos, dėl kurių asmuo tapo nedarbingas iki draudimo laikotarpio pabaigos, mokama ne ilgiau kaip 5 kalendorines ligos dienas, einančias po laikotarpio, kurį šie asmenys buvo laikomi apdraustaisiais asmenimis, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po draudimo laikotarpio pabaigos. ^s-6e042b598b875107a4356f6d
+5. Neturintiems darbo ar tarnybos santykių apdraustiesiems asmenims, įgijusiems teisę gauti ligos išmoką šio įstatymo [[#^s-a31de155080392dc0a81638e|5 straipsnio 2 dalies]] [[#^s-0203c104a8469fe3e8db8174|1]], [[#^s-0c0b25fbe4b2b3511c4123c7|3]] ir [[#^s-80f1ed88d96f56f4c1b248f3|4]] punktuose nurodytais atvejais, ligos išmoka iš Valstybinio socialinio draudimo fondo lėšų mokama nuo trečiosios laikinojo nedarbingumo dienos iki darbingumo atgavimo dienos, pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar dalyvumo lygio nustatymo dienos. Šio įstatymo [[#^s-a31de155080392dc0a81638e|5 straipsnio 2 dalies]] [[#^s-0203c104a8469fe3e8db8174|1]], [[#^s-0c0b25fbe4b2b3511c4123c7|3]] ir [[#^s-80f1ed88d96f56f4c1b248f3|4]] punktuose nurodytais atvejais ligos išmoka pasibaigus draudimo laikotarpiui dėl ligos ar traumos, dėl kurių asmuo tapo nedarbingas iki draudimo laikotarpio pabaigos, mokama ne ilgiau kaip 5 kalendorines ligos dienas, einančias po laikotarpio, kurį šie asmenys buvo laikomi apdraustaisiais asmenimis, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po draudimo laikotarpio pabaigos. ^s-6e042b598b875107a4356f6d
 
 
 Straipsnio pakeitimai:
@@ -494,7 +494,7 @@ Nr. XIV-2358, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25607
 6. Šiame straipsnyje nurodytais atvejais, kai apdraustojo asmens laikinasis nedarbingumas dėl šeimos nario slaugos ar vaiko priežiūros, prasidėjęs draudimo laikotarpiu, tęsiasi po atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui, ligos išmoka mokama tik dėl tos ligos ar traumos, dėl kurių slaugomas jo šeimos narys ar prižiūrimas vaikas, iki apdraustojo asmens atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos ir ne ilgiau negu šiame straipsnyje nurodytą laikotarpį. ^s-a1249259b0378d06da99a370
 
 
-7. Šio straipsnio 2, 4 ir [[#^s-3b39a644246f27e8434f1b0e|5 dalyse]] nustatytais atvejais ligos išmoka mokama, jeigu slaugomas vaikas, kurio priežiūrai kitam asmeniui (motinai (tėvui), įmotei (įtėviui) ar globėjui, ar senelei (seneliui)) nesuteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos, išskyrus atvejus, kai kitas asmuo (motina (tėvas), įmotė (įtėvis) ar globėjas, ar senelė (senelis)), kuriam šio vaiko priežiūrai suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos, dėl savo ar kito vaiko (globojamo vaiko), kurio priežiūrai jam suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos, ligos ar traumos negali šio vaiko slaugyti. Šio straipsnio 2, 4 ir [[#^s-3b39a644246f27e8434f1b0e|5 dalyse]] nustatytais atvejais budinčiam globotojui, nuolatiniam globotojui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis laikinai apgyvendintas pas fizinius asmenis, slaugančiam sergantį vaiką, ligos išmoka mokama neatsižvelgiant į tai, ar jo priežiūrai kitam asmeniui suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos. ^s-2156bca17fe868baddc11d2c
+7. Šio straipsnio [[#^s-ae81c8feeb69c0e00df32b94|2]], [[#^s-a91c88811e0a0d4b42a67b9b|4]] ir [[#^s-3b39a644246f27e8434f1b0e|5]] dalyse nustatytais atvejais ligos išmoka mokama, jeigu slaugomas vaikas, kurio priežiūrai kitam asmeniui (motinai (tėvui), įmotei (įtėviui) ar globėjui, ar senelei (seneliui)) nesuteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos, išskyrus atvejus, kai kitas asmuo (motina (tėvas), įmotė (įtėvis) ar globėjas, ar senelė (senelis)), kuriam šio vaiko priežiūrai suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos, dėl savo ar kito vaiko (globojamo vaiko), kurio priežiūrai jam suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos, ligos ar traumos negali šio vaiko slaugyti. Šio straipsnio [[#^s-ae81c8feeb69c0e00df32b94|2]], [[#^s-a91c88811e0a0d4b42a67b9b|4]] ir [[#^s-3b39a644246f27e8434f1b0e|5]] dalyse nustatytais atvejais budinčiam globotojui, nuolatiniam globotojui ar vaiką laikinai prižiūrinčiam asmeniui, kai vaikui nustatyta laikinoji priežiūra pas fizinius asmenis ar jis laikinai apgyvendintas pas fizinius asmenis, slaugančiam sergantį vaiką, ligos išmoka mokama neatsižvelgiant į tai, ar jo priežiūrai kitam asmeniui suteiktos nėštumo ir gimdymo ar vaiko priežiūros atostogos. ^s-2156bca17fe868baddc11d2c
 Straipsnio dalies pakeitimai:
 Nr. XIV-2358, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25607
 
@@ -509,7 +509,7 @@ Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 ### 11 straipsnis. Ligos išmokos užkrečiamųjų ligų protrūkių arba jų epidemijų metu mokėjimo trukmė ^s-3daf4994538abe8e6a6c69bd
 
 
-1. Kai teisės aktų nustatyta tvarka ypač pavojingų arba nežinomos kilmės užkrečiamųjų ligų protrūkių arba epidemijų židiniuose nustatomas karantino režimas, ligos išmoka dėl šios priežasties nušalintiems nuo darbo apdraustiesiems asmenims mokama šio įstatymo [[#^s-8e2b38a5313e0bbaffd24037|9 straipsnio]] 1 ir 5 dalyse nustatyta tvarka visą nušalinimo nuo darbo laikotarpį iki karantino atšaukimo. ^s-374ddba4fd9419b087c4fefa
+1. Kai teisės aktų nustatyta tvarka ypač pavojingų arba nežinomos kilmės užkrečiamųjų ligų protrūkių arba epidemijų židiniuose nustatomas karantino režimas, ligos išmoka dėl šios priežasties nušalintiems nuo darbo apdraustiesiems asmenims mokama šio įstatymo [[#^s-8e2b38a5313e0bbaffd24037|9 straipsnio]] [[#^s-5f1f165a95e644d6bc6a8dcd|1]] ir [[#^s-6e042b598b875107a4356f6d|5]] dalyse nustatyta tvarka visą nušalinimo nuo darbo laikotarpį iki karantino atšaukimo. ^s-374ddba4fd9419b087c4fefa
 Straipsnio dalies pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
@@ -521,7 +521,7 @@ Nr. XIV-2366, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25619
 
 
 
-3. Užkrečiamųjų ligų protrūkių arba epidemijų metu, kai apdraustasis asmuo nuo darbo laikinai nušalinamas kaip užkrečiamosios ligos sukėlėjo nešiotojas ir negalima jo perkelti į kitą darbą, ligos išmoka apskaičiuojama pagal kompensuojamąjį uždarbį, gautą tik toje darbovietėje, kurioje apdraustasis asmuo nušalintas nuo darbo, ir mokama šio įstatymo [[#^s-8e2b38a5313e0bbaffd24037|9 straipsnio]] 1 ir 5 dalyse nustatyta tvarka. ^s-96068b957a2efcbc7b6035f4
+3. Užkrečiamųjų ligų protrūkių arba epidemijų metu, kai apdraustasis asmuo nuo darbo laikinai nušalinamas kaip užkrečiamosios ligos sukėlėjo nešiotojas ir negalima jo perkelti į kitą darbą, ligos išmoka apskaičiuojama pagal kompensuojamąjį uždarbį, gautą tik toje darbovietėje, kurioje apdraustasis asmuo nušalintas nuo darbo, ir mokama šio įstatymo [[#^s-8e2b38a5313e0bbaffd24037|9 straipsnio]] [[#^s-5f1f165a95e644d6bc6a8dcd|1]] ir [[#^s-6e042b598b875107a4356f6d|5]] dalyse nustatyta tvarka. ^s-96068b957a2efcbc7b6035f4
 Straipsnio dalies pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
@@ -574,13 +574,13 @@ Nr. XIV-2358, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25607
 
 
 
-9. [[#^s-e4a43f181533804d2bdb750c|Šio straipsnio 1 dalyje]] nustatytu atveju asmeniui, turinčiam teisę gauti ligos išmoką pagal šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnį]], ligos išmoka skiriama ne anksčiau kaip nuo Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino paskelbimo dienos ir mokama iki jo darbingumo atgavimo dienos, pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar dalyvumo lygio nustatymo dienos. Ligos išmokos šio straipsnio 2 ir [[#^s-ab6185b78a81932a8ae512dc|3 dalyse]] nustatytas sąlygas atitinkantiems asmenims, turintiems teisę jas gauti pagal šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnį]], skiriamos ne anksčiau kaip nuo Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino paskelbimo dienos ir mokamos ne ilgiau kaip iki dienos, kurią Vyriausybė atšaukia ekstremaliąją situaciją ar karantiną arba sueina bent vieno iš jų paskelbimo terminas. Ligos išmokos šio straipsnio 4–[[#^s-b94a3644c5aba822ba9e58bf|8 dalyse]] nustatytas sąlygas atitinkantiems asmenims, turintiems teisę jas gauti pagal šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnį]], skiriamos ne anksčiau kaip nuo Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino paskelbimo dienos ir mokamos ne ilgiau kaip iki dienos, kurią Vyriausybė atšaukia ekstremaliąją situaciją ir karantiną. ^s-61eaff4af20a8c1bbdafd564
+9. [[#^s-e4a43f181533804d2bdb750c|Šio straipsnio 1 dalyje]] nustatytu atveju asmeniui, turinčiam teisę gauti ligos išmoką pagal šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnį]], ligos išmoka skiriama ne anksčiau kaip nuo Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino paskelbimo dienos ir mokama iki jo darbingumo atgavimo dienos, pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar dalyvumo lygio nustatymo dienos. Ligos išmokos šio straipsnio [[#^s-38322be7f5446ee932daf74a|2]] ir [[#^s-ab6185b78a81932a8ae512dc|3]] dalyse nustatytas sąlygas atitinkantiems asmenims, turintiems teisę jas gauti pagal šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnį]], skiriamos ne anksčiau kaip nuo Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino paskelbimo dienos ir mokamos ne ilgiau kaip iki dienos, kurią Vyriausybė atšaukia ekstremaliąją situaciją ar karantiną arba sueina bent vieno iš jų paskelbimo terminas. Ligos išmokos šio straipsnio [[#^s-e9b486be103e21d2b2ade395|4]]–[[#^s-b94a3644c5aba822ba9e58bf|8]] dalyse nustatytas sąlygas atitinkantiems asmenims, turintiems teisę jas gauti pagal šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnį]], skiriamos ne anksčiau kaip nuo Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino paskelbimo dienos ir mokamos ne ilgiau kaip iki dienos, kurią Vyriausybė atšaukia ekstremaliąją situaciją ir karantiną. ^s-61eaff4af20a8c1bbdafd564
 
 
-10. [[#^s-e4a43f181533804d2bdb750c|Šio straipsnio 1 dalyje]] nustatytu atveju ligos išmoka po asmens, turinčio teisę ją gauti pagal šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnį]], atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui mokama iki jo darbingumo atgavimo dienos, pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar dalyvumo lygio nustatymo dienos. Ligos išmokos šio straipsnio 2–[[#^s-b94a3644c5aba822ba9e58bf|8 dalyse]] nustatytas sąlygas atitinkantiems asmenims, turintiems teisę jas gauti pagal šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnį]], po jų atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui mokamos ne ilgiau kaip 5 kalendorines dienas, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po jo atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos. ^s-4ee2d56b910053e3b445855e
+10. [[#^s-e4a43f181533804d2bdb750c|Šio straipsnio 1 dalyje]] nustatytu atveju ligos išmoka po asmens, turinčio teisę ją gauti pagal šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnį]], atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui mokama iki jo darbingumo atgavimo dienos, pirmosios dalyvavimo profesinės reabilitacijos programoje dienos ar dalyvumo lygio nustatymo dienos. Ligos išmokos šio straipsnio [[#^s-38322be7f5446ee932daf74a|2]]–[[#^s-b94a3644c5aba822ba9e58bf|8]] dalyse nustatytas sąlygas atitinkantiems asmenims, turintiems teisę jas gauti pagal šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnį]], po jų atleidimo iš darbo ar tarnybos arba pasibaigus draudimo laikotarpiui mokamos ne ilgiau kaip 5 kalendorines dienas, jeigu apdraustojo asmens laikinasis nedarbingumas, prasidėjęs draudimo laikotarpiu, tęsiasi po jo atleidimo iš darbo ar tarnybos arba draudimo laikotarpio pabaigos. ^s-4ee2d56b910053e3b445855e
 
 
-11. Asmenims, turintiems teisę gauti ligos išmoką pagal šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnį]] ir gaunantiems socialinio draudimo negalios ar netekto darbingumo (invalidumo) pensiją, Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpiu ligos išmoka šio įstatymo [[#^s-0203c104a8469fe3e8db8174|5 straipsnio 2 dalies 1 punkte]] ir [[#^s-38322be7f5446ee932daf74a|111 straipsnio 2 dalyje]] nustatytais atvejais mokama netaikant šio įstatymo [[#^s-3fb071567f0d33d8b10ee520|9 straipsnio 2 dalyje]] nustatytų apribojimų. Asmenims, turintiems teisę gauti ligos išmoką pagal šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnį]] ir gaunantiems socialinio draudimo negalios ar netekto darbingumo (invalidumo) pensiją, Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino laikotarpiu ligos išmoka šio įstatymo [[#^s-250f0853a51aaff57e1c78ba|111 straipsnio]] 1 ir [[#^s-99590e16c49e82dd8da32f85|6 dalyse]] nustatytais atvejais mokama netaikant šio įstatymo [[#^s-3fb071567f0d33d8b10ee520|9 straipsnio 2 dalyje]] nustatytų apribojimų. ^s-3949614c99ebcc5e428ea696
+11. Asmenims, turintiems teisę gauti ligos išmoką pagal šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnį]] ir gaunantiems socialinio draudimo negalios ar netekto darbingumo (invalidumo) pensiją, Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpiu ligos išmoka šio įstatymo [[#^s-0203c104a8469fe3e8db8174|5 straipsnio 2 dalies 1 punkte]] ir [[#^s-38322be7f5446ee932daf74a|111 straipsnio 2 dalyje]] nustatytais atvejais mokama netaikant šio įstatymo [[#^s-3fb071567f0d33d8b10ee520|9 straipsnio 2 dalyje]] nustatytų apribojimų. Asmenims, turintiems teisę gauti ligos išmoką pagal šio įstatymo [[#^s-5d65b63b82fdb238863a9e59|8 straipsnį]] ir gaunantiems socialinio draudimo negalios ar netekto darbingumo (invalidumo) pensiją, Vyriausybės paskelbtos ekstremaliosios situacijos ir (ar) karantino laikotarpiu ligos išmoka šio įstatymo [[#^s-250f0853a51aaff57e1c78ba|111 straipsnio]] [[#^s-e4a43f181533804d2bdb750c|1]] ir [[#^s-99590e16c49e82dd8da32f85|6]] dalyse nustatytais atvejais mokama netaikant šio įstatymo [[#^s-3fb071567f0d33d8b10ee520|9 straipsnio 2 dalyje]] nustatytų apribojimų. ^s-3949614c99ebcc5e428ea696
 
 
 Straipsnio pakeitimai:
@@ -595,7 +595,7 @@ Nr. XIV-2367, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25620
 ### 12 straipsnis. Ligos išmokos asmenims, kurie gydosi sveikatos priežiūros įstaigose, teikiančiose ortopedines ir (ar) protezavimo paslaugas, mokėjimo trukmė ^s-f28f80e80aa899d84914c225
 
 
-1. Apdraustajam asmeniui, kuris gydosi sveikatos priežiūros įstaigoje, teikiančioje ortopedines ir (ar) protezavimo paslaugas, išmoka mokama šio įstatymo [[#^s-8e2b38a5313e0bbaffd24037|9 straipsnio]] 1 ir 5 dalyse nustatyta tvarka už visą gydymosi joje laiką, taip pat vykimo į šią įstaigą ir grįžimo iš jos laiką. ^s-c9bce2ceb64c30360769031c
+1. Apdraustajam asmeniui, kuris gydosi sveikatos priežiūros įstaigoje, teikiančioje ortopedines ir (ar) protezavimo paslaugas, išmoka mokama šio įstatymo [[#^s-8e2b38a5313e0bbaffd24037|9 straipsnio]] [[#^s-5f1f165a95e644d6bc6a8dcd|1]] ir [[#^s-6e042b598b875107a4356f6d|5]] dalyse nustatyta tvarka už visą gydymosi joje laiką, taip pat vykimo į šią įstaigą ir grįžimo iš jos laiką. ^s-c9bce2ceb64c30360769031c
 Straipsnio dalies pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
@@ -610,10 +610,10 @@ Nr. XIV-2366, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25619
 ### 13 straipsnis. Ligos išmokos mokėjimas atostogų metu ^s-0ac0a3fa0106145230f11b44
 
 
-1. Jeigu apdraustojo asmens laikinasis nedarbingumas dėl ligos arba traumos atsirado to asmens mokamų kasmetinių atostogų metu arba šių atostogų metu apdraustasis asmuo gydosi sveikatos priežiūros įstaigoje, teikiančioje ortopedines ir (ar) protezavimo paslaugas, ligos išmoka mokama šio įstatymo 9 ir [[#^s-f28f80e80aa899d84914c225|12 straipsniuose]] nustatyta tvarka. ^s-6580f28df7576b2ebff1b018
+1. Jeigu apdraustojo asmens laikinasis nedarbingumas dėl ligos arba traumos atsirado to asmens mokamų kasmetinių atostogų metu arba šių atostogų metu apdraustasis asmuo gydosi sveikatos priežiūros įstaigoje, teikiančioje ortopedines ir (ar) protezavimo paslaugas, ligos išmoka mokama šio įstatymo [[#^s-8e2b38a5313e0bbaffd24037|9]] ir [[#^s-f28f80e80aa899d84914c225|12]] straipsniuose nustatyta tvarka. ^s-6580f28df7576b2ebff1b018
 
 
-2. Jeigu apdraustojo asmens laikinasis nedarbingumas dėl šio įstatymo [[#^s-a31de155080392dc0a81638e|5 straipsnio 2 dalyje]] nurodytų priežasčių atsirado to asmens nemokamų atostogų metu arba jeigu apdraustasis asmuo nušalintas nuo darbo be teisės gauti darbo užmokestį (išskyrus atvejus, kai asmuo nušalinamas nuo darbo dėl ypač pavojingų arba nežinomos kilmės užkrečiamųjų ligų protrūkių arba epidemijų židiniuose nustatyto karantino režimo), ligos išmoka pradedama mokėti šio įstatymo 9–[[#^s-f28f80e80aa899d84914c225|12 straipsniuose]] nustatyta tvarka nuo tos dienos, kurią apdraustasis asmuo turėjo pradėti dirbti. Tokia pačia tvarka išmoka mokama, jeigu apdraustasis asmuo nušalinamas nuo darbo ligos metu. ^s-79d3ac28ddedd8df69298ffc
+2. Jeigu apdraustojo asmens laikinasis nedarbingumas dėl šio įstatymo [[#^s-a31de155080392dc0a81638e|5 straipsnio 2 dalyje]] nurodytų priežasčių atsirado to asmens nemokamų atostogų metu arba jeigu apdraustasis asmuo nušalintas nuo darbo be teisės gauti darbo užmokestį (išskyrus atvejus, kai asmuo nušalinamas nuo darbo dėl ypač pavojingų arba nežinomos kilmės užkrečiamųjų ligų protrūkių arba epidemijų židiniuose nustatyto karantino režimo), ligos išmoka pradedama mokėti šio įstatymo [[#^s-8e2b38a5313e0bbaffd24037|9]]–[[#^s-f28f80e80aa899d84914c225|12]] straipsniuose nustatyta tvarka nuo tos dienos, kurią apdraustasis asmuo turėjo pradėti dirbti. Tokia pačia tvarka išmoka mokama, jeigu apdraustasis asmuo nušalinamas nuo darbo ligos metu. ^s-79d3ac28ddedd8df69298ffc
 Straipsnio dalies pakeitimai:
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
@@ -736,7 +736,7 @@ Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
 
 
 
-41. Įmotėms, kurioms darbdavys suteikė 30 kalendorinių dienų atostogas pagal [[latest/f6d686707e7011e6b969d7ae07280e89#^s-1c0c945e01bf0f1d4cc15b82|Darbo kodekso 132 straipsnio 2 dalį]], motinystės išmoka skiriama mutatis mutandis taikant šio įstatymo 19 ir [[#^s-58f48a1dd03a727d1b4a4f8a|21 straipsnių]] nuostatas. Šios dalies nuostatos mutatis mutandis taikomos neturinčioms darbo ar tarnybos santykių įmotėms. ^s-7a824759117eb5d67684e005
+41. Įmotėms, kurioms darbdavys suteikė 30 kalendorinių dienų atostogas pagal [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] 132 straipsnio 2 dalį, motinystės išmoka skiriama mutatis mutandis taikant šio įstatymo [[latest/f6d686707e7011e6b969d7ae07280e89#^s-67e150f38b249e9a695a2efb|19]] ir [[latest/f6d686707e7011e6b969d7ae07280e89#^s-0d77c6433d09ce1c84329898|21]] straipsnių nuostatas. Šios dalies nuostatos mutatis mutandis taikomos neturinčioms darbo ar tarnybos santykių įmotėms. ^s-7a824759117eb5d67684e005
 Papildyta straipsnio dalimi:
 Nr. XIV-2229, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22374
 
@@ -913,10 +913,10 @@ Straipsnio dalies pakeitimai:
 Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 
 
-1) yra apdraustas motinystės socialiniu draudimu, išskyrus atvejus, numatytus šio straipsnio 10, 11 ir [[#^s-a31637d657410a54149b7d0e|12 dalyse]]; ^s-85563a78a5fa7a3f8276d96d
+1) yra apdraustas motinystės socialiniu draudimu, išskyrus atvejus, numatytus šio straipsnio [[#^s-4d793858db09495b173d4893|10]], [[#^s-89a0d1204d6a981217c4ec02|11]] ir [[#^s-a31637d657410a54149b7d0e|12]] dalyse; ^s-85563a78a5fa7a3f8276d96d
 
 
-2) įstatymų nustatyta tvarka išėjęs jam suteiktų vaiko priežiūros atostogų arba vaiko priežiūros laikotarpiu, išskyrus atvejus, kai vaiko priežiūros atostogos nutraukiamos dėl grįžimo į darbą ar tarnybą, ir atvejus, numatytus šio straipsnio 10 ir [[#^s-89a0d1204d6a981217c4ec02|11 dalyse]]; ^s-122aacaac84f86feb69119c0
+2) įstatymų nustatyta tvarka išėjęs jam suteiktų vaiko priežiūros atostogų arba vaiko priežiūros laikotarpiu, išskyrus atvejus, kai vaiko priežiūros atostogos nutraukiamos dėl grįžimo į darbą ar tarnybą, ir atvejus, numatytus šio straipsnio [[#^s-4d793858db09495b173d4893|10]] ir [[#^s-89a0d1204d6a981217c4ec02|11]] dalyse; ^s-122aacaac84f86feb69119c0
 
 
 3) iki pirmosios vaiko priežiūros atostogų dienos turi ne trumpesnį kaip 12 mėnesių per paskutinius 24 mėnesius motinystės socialinio draudimo stažą, išskyrus atvejį, numatytą [[#^s-a602505dc5817c0601d78662|šio straipsnio 7 dalyje]]. ^s-977f2ea23393e30cd1315be8
@@ -961,7 +961,7 @@ Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 9) kitas iš vaiko tėvų (įtėvių) ar globėjų atlieka laisvės atėmimo bausmę įkalinimo įstaigoje ir dėl to negali prižiūrėti vaiko. ^s-ace4fb2ee1c513f8756b429e
 
 
-6. Vienas iš vaiko senelių ar buvęs vienas iš vaiko tėvų nuolatinių globėjų (rūpintojų) turi teisę gauti vaiko priežiūros išmoką, išskyrus vaiko priežiūros išmoką, skiriamą ir mokamą vadovaujantis šio straipsnio 2 ir [[#^s-46b4d2ebe44a7fe30619ed1f|3 dalimis]], jeigu jis (ji) atitinka visas šias sąlygas: ^s-910670cab5904559d8750bda
+6. Vienas iš vaiko senelių ar buvęs vienas iš vaiko tėvų nuolatinių globėjų (rūpintojų) turi teisę gauti vaiko priežiūros išmoką, išskyrus vaiko priežiūros išmoką, skiriamą ir mokamą vadovaujantis šio straipsnio [[#^s-b320b36667c11ef3d091a1b4|2]] ir [[#^s-46b4d2ebe44a7fe30619ed1f|3]] dalimis, jeigu jis (ji) atitinka visas šias sąlygas: ^s-910670cab5904559d8750bda
 Straipsnio dalies pakeitimai:
 Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 
@@ -984,21 +984,21 @@ Nr. XV-643, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21473
 
 
 
-10. Vaiko priežiūros išmoką gaunančiam vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, ar buvusiam vienam iš vaiko tėvų nuolatinių globėjų (rūpintojų), tapusiam neapdraustu asmeniu (pasibaigus darbo sutarčiai, jį atleidus iš tarnybos, jam nutraukus individualią ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį, taip pat [[latest/TAR.0F9036415DBD#^s-ba43019c058e9fc78beca4d5|Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalies]] antrajame sakinyje nurodytiems asmenims sustabdžius veiklą ir apie tai informavus mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka ar įgijus likviduojamo ar bankrutuojančio asmens statusą), vaiko priežiūros išmoka mokama šio įstatymo 23 ir [[#^s-ec6726c241fb9f9ded79e1cd|24 straipsniuose]] nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu. ^s-4d793858db09495b173d4893
+10. Vaiko priežiūros išmoką gaunančiam vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, ar buvusiam vienam iš vaiko tėvų nuolatinių globėjų (rūpintojų), tapusiam neapdraustu asmeniu (pasibaigus darbo sutarčiai, jį atleidus iš tarnybos, jam nutraukus individualią ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį, taip pat [[latest/TAR.0F9036415DBD#^s-ba43019c058e9fc78beca4d5|Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalies]] antrajame sakinyje nurodytiems asmenims sustabdžius veiklą ir apie tai informavus mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka ar įgijus likviduojamo ar bankrutuojančio asmens statusą), vaiko priežiūros išmoka mokama šio įstatymo [[#^s-a4c8ffeb0bb6b188a158d645|23]] ir [[#^s-ec6726c241fb9f9ded79e1cd|24]] straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu. ^s-4d793858db09495b173d4893
 Straipsnio dalies pakeitimai:
 Nr. XIV-2230, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22375
 Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 
 
 
-11. [[#^s-977f2ea23393e30cd1315be8|Šio straipsnio 1 dalies 3 punkte]] nurodytą motinystės socialinio draudimo stažą turinčiam vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, ar buvusiam vienam iš vaiko tėvų nuolatinių globėjų (rūpintojų), per 24 mėnesius iki pirmosios vaiko priežiūros atostogų dienos tapusiam neapdraustu asmeniu (pasibaigus darbo sutarčiai, jį atleidus iš tarnybos, jam nutraukus individualią veiklą ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį, taip pat [[latest/TAR.0F9036415DBD#^s-ba43019c058e9fc78beca4d5|Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalies]] antrajame sakinyje nurodytiems asmenims sustabdžius veiklą ir apie tai informavus mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka ar įgijus likviduojamo ar bankrutuojančio asmens statusą) ir dėl to negavusiam vaiko priežiūros atostogų, vaiko priežiūros išmoka mokama šio įstatymo 23 ir [[#^s-ec6726c241fb9f9ded79e1cd|24 straipsniuose]] nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu. ^s-89a0d1204d6a981217c4ec02
+11. [[#^s-977f2ea23393e30cd1315be8|Šio straipsnio 1 dalies 3 punkte]] nurodytą motinystės socialinio draudimo stažą turinčiam vienam iš tėvų (įtėvių) ar globėjui, ar vienam iš senelių, ar buvusiam vienam iš vaiko tėvų nuolatinių globėjų (rūpintojų), per 24 mėnesius iki pirmosios vaiko priežiūros atostogų dienos tapusiam neapdraustu asmeniu (pasibaigus darbo sutarčiai, jį atleidus iš tarnybos, jam nutraukus individualią veiklą ar kitą veiklą, sporto, atlikėjo veiklą arba pasibaigus draudimui pagal autorinę sutartį, taip pat [[latest/TAR.0F9036415DBD#^s-ba43019c058e9fc78beca4d5|Valstybinio socialinio draudimo įstatymo 5 straipsnio 2 dalies]] antrajame sakinyje nurodytiems asmenims sustabdžius veiklą ir apie tai informavus mokesčių administratorių centrinio mokesčių administratoriaus nustatyta tvarka ar įgijus likviduojamo ar bankrutuojančio asmens statusą) ir dėl to negavusiam vaiko priežiūros atostogų, vaiko priežiūros išmoka mokama šio įstatymo [[#^s-a4c8ffeb0bb6b188a158d645|23]] ir [[#^s-ec6726c241fb9f9ded79e1cd|24]] straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma skiriant vaiko priežiūros išmoką, jeigu teisė ją gauti atsirado prieš tai gimusio, globojamo ar įvaikinto vaiko auginimo iki 3 metų laikotarpiu. ^s-89a0d1204d6a981217c4ec02
 Straipsnio dalies pakeitimai:
 Nr. XIV-2230, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22375
 Nr. XIV-2629, 2024-05-14, paskelbta TAR 2024-05-21, i. k. 2024-09145
 
 
 
-12. Vienam iš tėvų (įtėvių) ar globėjų, gaunančiam pajamas iš sporto ar atlikėjo veiklos arba pagal autorines sutartis, kuris nėra apdraustas motinystės socialiniu draudimu, vaiko priežiūros išmoka mokama šio įstatymo 23 ir [[#^s-ec6726c241fb9f9ded79e1cd|24 straipsniuose]] nustatyta tvarka, jeigu jam buvo mokėta motinystės ar tėvystės išmoka ir jis turi [[#^s-977f2ea23393e30cd1315be8|šio straipsnio 1 dalies 3 punkte]] nustatytą motinystės socialinio draudimo stažą. ^s-a31637d657410a54149b7d0e
+12. Vienam iš tėvų (įtėvių) ar globėjų, gaunančiam pajamas iš sporto ar atlikėjo veiklos arba pagal autorines sutartis, kuris nėra apdraustas motinystės socialiniu draudimu, vaiko priežiūros išmoka mokama šio įstatymo [[#^s-a4c8ffeb0bb6b188a158d645|23]] ir [[#^s-ec6726c241fb9f9ded79e1cd|24]] straipsniuose nustatyta tvarka, jeigu jam buvo mokėta motinystės ar tėvystės išmoka ir jis turi [[#^s-977f2ea23393e30cd1315be8|šio straipsnio 1 dalies 3 punkte]] nustatytą motinystės socialinio draudimo stažą. ^s-a31637d657410a54149b7d0e
 
 
 Straipsnio pakeitimai:
@@ -1055,16 +1055,16 @@ Nr. XV-1061, 2026-06-25, paskelbta TAR 2026-06-29, i. k. 2026-11235
 ### 24 straipsnis. Vaiko priežiūros išmokos dydis ^s-ec6726c241fb9f9ded79e1cd
 
 
-1. Jeigu apdraustasis asmuo pasirenka gauti vaiko priežiūros išmoką, kol vaikui sueis 18 mėnesių, vaiko priežiūros išmoka jam skiriama ir mokama, iki vaikui sueis 18 mėnesių, išskyrus atvejį, numatytą šio įstatymo [[#^s-46b4d2ebe44a7fe30619ed1f|22 straipsnio 3 dalyje]], iš kurių šio įstatymo [[#^s-c7306bc6822026a88b0469b1|22 straipsnio]] 2 ir [[#^s-dd88ff922c9b6ee08449565d|4 dalyse]] nustatytais laikotarpiais jam skiriamos ir mokamos vaiko priežiūros išmokos dydis yra 78 procentai šios išmokos gavėjo kompensuojamojo uždarbio dydžio, o likusius mėnesius, iki vaikui sueis 18 mėnesių, – 60 procentų šios išmokos gavėjo kompensuojamojo uždarbio dydžio. ^s-7d49164a43a2c68d1a2df9b0
+1. Jeigu apdraustasis asmuo pasirenka gauti vaiko priežiūros išmoką, kol vaikui sueis 18 mėnesių, vaiko priežiūros išmoka jam skiriama ir mokama, iki vaikui sueis 18 mėnesių, išskyrus atvejį, numatytą šio įstatymo [[#^s-46b4d2ebe44a7fe30619ed1f|22 straipsnio 3 dalyje]], iš kurių šio įstatymo [[#^s-c7306bc6822026a88b0469b1|22 straipsnio]] [[#^s-b320b36667c11ef3d091a1b4|2]] ir [[#^s-a9ad1b075728706e34512cab|4]] dalyse nustatytais laikotarpiais jam skiriamos ir mokamos vaiko priežiūros išmokos dydis yra 78 procentai šios išmokos gavėjo kompensuojamojo uždarbio dydžio, o likusius mėnesius, iki vaikui sueis 18 mėnesių, – 60 procentų šios išmokos gavėjo kompensuojamojo uždarbio dydžio. ^s-7d49164a43a2c68d1a2df9b0
 
 
-2. Jeigu apdraustasis asmuo pasirenka gauti vaiko priežiūros išmoką, kol vaikui sueis 24 mėnesiai, vaiko priežiūros išmoka jam skiriama ir mokama, iki vaikui sueis 24 mėnesiai, išskyrus atvejį, numatytą šio įstatymo [[#^s-46b4d2ebe44a7fe30619ed1f|22 straipsnio 3 dalyje]], iš kurių šio įstatymo [[#^s-c7306bc6822026a88b0469b1|22 straipsnio]] 2 ir [[#^s-dd88ff922c9b6ee08449565d|4 dalyse]] nustatytais laikotarpiais jam skiriamos ir mokamos vaiko priežiūros išmokos dydis yra 78 procentai šios išmokos gavėjo kompensuojamojo uždarbio dydžio, likusius mėnesius, iki vaikui sueis 12 mėnesių, – 45 procentai, o nuo 12 mėnesių, iki vaikui sueis 24 mėnesiai, – 30 procentų šios išmokos gavėjo kompensuojamojo uždarbio dydžio. ^s-9be1acefd434e45e28e83482
+2. Jeigu apdraustasis asmuo pasirenka gauti vaiko priežiūros išmoką, kol vaikui sueis 24 mėnesiai, vaiko priežiūros išmoka jam skiriama ir mokama, iki vaikui sueis 24 mėnesiai, išskyrus atvejį, numatytą šio įstatymo [[#^s-46b4d2ebe44a7fe30619ed1f|22 straipsnio 3 dalyje]], iš kurių šio įstatymo [[#^s-c7306bc6822026a88b0469b1|22 straipsnio]] [[#^s-b320b36667c11ef3d091a1b4|2]] ir [[#^s-a9ad1b075728706e34512cab|4]] dalyse nustatytais laikotarpiais jam skiriamos ir mokamos vaiko priežiūros išmokos dydis yra 78 procentai šios išmokos gavėjo kompensuojamojo uždarbio dydžio, likusius mėnesius, iki vaikui sueis 12 mėnesių, – 45 procentai, o nuo 12 mėnesių, iki vaikui sueis 24 mėnesiai, – 30 procentų šios išmokos gavėjo kompensuojamojo uždarbio dydžio. ^s-9be1acefd434e45e28e83482
 
 
-3. Jeigu apdraustajam asmeniui vaiko priežiūros atostogos suteikiamos pagal [[latest/f6d686707e7011e6b969d7ae07280e89#^s-fed6375ff9d1d3bcc5ec5bab|Darbo kodekso 134 straipsnio 2 dalį]], išskyrus atvejus, nustatytus šio įstatymo [[#^s-122aacaac84f86feb69119c0|22 straipsnio 1 dalies 2 punkte]], ir jis pasirenka gauti vaiko priežiūros išmoką 18 mėnesių, vaiko priežiūros išmoka jam skiriama ir mokama 18 mėnesių, išskyrus atvejį, numatytą šio įstatymo [[#^s-46b4d2ebe44a7fe30619ed1f|22 straipsnio 3 dalyje]], iš kurių šio įstatymo [[#^s-c7306bc6822026a88b0469b1|22 straipsnio]] 2 ir [[#^s-dd88ff922c9b6ee08449565d|4 dalyse]] nustatytais laikotarpiais jam skiriamos ir mokamos vaiko priežiūros išmokos dydis yra 78 procentai šios išmokos gavėjo kompensuojamojo uždarbio dydžio, o likusius mėnesius – 60 procentų šios išmokos gavėjo kompensuojamojo uždarbio dydžio. ^s-8398648837449a0e6c04f402
+3. Jeigu apdraustajam asmeniui vaiko priežiūros atostogos suteikiamos pagal [[latest/f6d686707e7011e6b969d7ae07280e89#^s-fed6375ff9d1d3bcc5ec5bab|Darbo kodekso 134 straipsnio 2 dalį]], išskyrus atvejus, nustatytus šio įstatymo [[#^s-122aacaac84f86feb69119c0|22 straipsnio 1 dalies 2 punkte]], ir jis pasirenka gauti vaiko priežiūros išmoką 18 mėnesių, vaiko priežiūros išmoka jam skiriama ir mokama 18 mėnesių, išskyrus atvejį, numatytą šio įstatymo [[#^s-46b4d2ebe44a7fe30619ed1f|22 straipsnio 3 dalyje]], iš kurių šio įstatymo [[#^s-c7306bc6822026a88b0469b1|22 straipsnio]] [[#^s-b320b36667c11ef3d091a1b4|2]] ir [[#^s-a9ad1b075728706e34512cab|4]] dalyse nustatytais laikotarpiais jam skiriamos ir mokamos vaiko priežiūros išmokos dydis yra 78 procentai šios išmokos gavėjo kompensuojamojo uždarbio dydžio, o likusius mėnesius – 60 procentų šios išmokos gavėjo kompensuojamojo uždarbio dydžio. ^s-8398648837449a0e6c04f402
 
 
-4. Jeigu apdraustajam asmeniui vaiko priežiūros atostogos suteikiamos pagal [[latest/f6d686707e7011e6b969d7ae07280e89#^s-fed6375ff9d1d3bcc5ec5bab|Darbo kodekso 134 straipsnio 2 dalį]], išskyrus atvejus, nustatytus šio įstatymo [[#^s-122aacaac84f86feb69119c0|22 straipsnio 1 dalies 2 punkte]], ir jis pasirenka gauti vaiko priežiūros išmoką 24 mėnesius, vaiko priežiūros išmoka jam skiriama ir mokama 24 mėnesius, išskyrus atvejį, numatytą šio įstatymo [[#^s-46b4d2ebe44a7fe30619ed1f|22 straipsnio 3 dalyje]], iš kurių šio įstatymo [[#^s-c7306bc6822026a88b0469b1|22 straipsnio]] 2 ir [[#^s-dd88ff922c9b6ee08449565d|4 dalyse]] nustatytais laikotarpiais jam skiriamos ir mokamos vaiko priežiūros išmokos dydis yra 78 procentai šios išmokos gavėjo kompensuojamojo uždarbio dydžio, likusius pirmųjų įvaikinto vaiko auginimo metų mėnesius – 45 procentai, o antraisiais įvaikinto vaiko auginimo metais – 30 procentų šios išmokos gavėjo kompensuojamojo uždarbio dydžio. ^s-dd88ff922c9b6ee08449565d
+4. Jeigu apdraustajam asmeniui vaiko priežiūros atostogos suteikiamos pagal [[latest/f6d686707e7011e6b969d7ae07280e89#^s-fed6375ff9d1d3bcc5ec5bab|Darbo kodekso 134 straipsnio 2 dalį]], išskyrus atvejus, nustatytus šio įstatymo [[#^s-122aacaac84f86feb69119c0|22 straipsnio 1 dalies 2 punkte]], ir jis pasirenka gauti vaiko priežiūros išmoką 24 mėnesius, vaiko priežiūros išmoka jam skiriama ir mokama 24 mėnesius, išskyrus atvejį, numatytą šio įstatymo [[#^s-46b4d2ebe44a7fe30619ed1f|22 straipsnio 3 dalyje]], iš kurių šio įstatymo [[#^s-c7306bc6822026a88b0469b1|22 straipsnio]] [[#^s-b320b36667c11ef3d091a1b4|2]] ir [[#^s-a9ad1b075728706e34512cab|4]] dalyse nustatytais laikotarpiais jam skiriamos ir mokamos vaiko priežiūros išmokos dydis yra 78 procentai šios išmokos gavėjo kompensuojamojo uždarbio dydžio, likusius pirmųjų įvaikinto vaiko auginimo metų mėnesius – 45 procentai, o antraisiais įvaikinto vaiko auginimo metais – 30 procentų šios išmokos gavėjo kompensuojamojo uždarbio dydžio. ^s-dd88ff922c9b6ee08449565d
 
 
 5. Vaiko priežiūros išmoka per mėnesį negali būti mažesnė už 8 bazinės socialinės išmokos, kurios dydį Socialinės paramos išmokų atskaitos rodiklių ir bazinio bausmių ir nuobaudų dydžio nustatymo įstatymo nustatyta tvarka tvirtina Vyriausybė, dydžius, galiojusius praeitą mėnesį iki teisės gauti vaiko priežiūros išmoką atsiradimo dienos. ^s-1ea5821128b277f06ef04537
@@ -1073,10 +1073,10 @@ Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 
 
 
-6. Jeigu apdraustajam asmeniui gimsta du ir daugiau vaikų ar apdraustasis asmuo įvaikina arba globoja du ir daugiau vaikų ir jam yra suteiktos šių vaikų priežiūros atostogos arba pasirinktas vaiko priežiūros laikotarpis, išskyrus atvejus, numatytus šio įstatymo [[#^s-122aacaac84f86feb69119c0|22 straipsnio 1 dalies 2 punkte]], vaiko priežiūros išmoka (šio straipsnio 1–[[#^s-1ea5821128b277f06ef04537|5 dalyse]] nurodytais atvejais) didinama atsižvelgiant į vienu metu gimusių ar įvaikintų arba globojamų vaikų skaičių, tačiau mokama bendra išmokų suma negali būti didesnė kaip 78 procentai išmokos gavėjo kompensuojamojo uždarbio dydžio. ^s-77f3cb24ef9022ac8633efb8
+6. Jeigu apdraustajam asmeniui gimsta du ir daugiau vaikų ar apdraustasis asmuo įvaikina arba globoja du ir daugiau vaikų ir jam yra suteiktos šių vaikų priežiūros atostogos arba pasirinktas vaiko priežiūros laikotarpis, išskyrus atvejus, numatytus šio įstatymo [[#^s-122aacaac84f86feb69119c0|22 straipsnio 1 dalies 2 punkte]], vaiko priežiūros išmoka (šio straipsnio [[#^s-9eb64be99f6be1167d91df29|1]]–[[#^s-c47a02d76eb360978c90cd0b|5]] dalyse nurodytais atvejais) didinama atsižvelgiant į vienu metu gimusių ar įvaikintų arba globojamų vaikų skaičių, tačiau mokama bendra išmokų suma negali būti didesnė kaip 78 procentai išmokos gavėjo kompensuojamojo uždarbio dydžio. ^s-77f3cb24ef9022ac8633efb8
 
 
-7. Jeigu apdraustasis asmuo, kuriam paskirta vaiko priežiūros išmoka, išskyrus vaiko priežiūros išmoką, skiriamą ir mokamą vadovaujantis šio įstatymo [[#^s-c7306bc6822026a88b0469b1|22 straipsnio]] 2 ir [[#^s-dd88ff922c9b6ee08449565d|4 dalimis]], vaiko priežiūros išmokos gavimo metu turi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, ar iš tuo metu vykdytos darbinės veiklos gautų pajamų, kurios pagal šį įstatymą nėra laikomos draudžiamosiomis pajamomis, arba gauna šio įstatymo nustatytas ligos (įskaitant išmokas, darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokas, mokamas vadovaujantis [[latest/TAR.4325B0C38B2F|Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu]] (toliau kartu šiame straipsnyje – pajamos ir (ar) išmokos), ir jam paskirtos vaiko priežiūros išmokos (bendros šių išmokų sumos) ir atitinkamą mėnesį apskaičiuotų pajamų ir (ar) išmokų suma neviršija jo vidutinio mėnesinio kompensuojamojo uždarbio, apriboto šio įstatymo [[#^s-855bd3c0b60050c97b79904d|6 straipsnio 51 dalyje]] nurodytu minimaliu ir maksimaliu kompensuojamojo uždarbio dydžiu, dydžio arba yra jam lygi, jam mokama viso dydžio paskirta vaiko priežiūros išmoka. Jeigu apdraustajam asmeniui paskirtos vaiko priežiūros išmokos (bendros šių išmokų sumos) ir atitinkamą mėnesį apskaičiuotų pajamų ir (ar) išmokų suma viršija jo vidutinio mėnesinio kompensuojamojo uždarbio, apriboto šio įstatymo [[#^s-855bd3c0b60050c97b79904d|6 straipsnio 51 dalyje]] nurodytu minimaliu ir maksimaliu kompensuojamojo uždarbio dydžiu, dydį, jam mokamas jo vidutinio mėnesinio kompensuojamojo uždarbio, apriboto šio įstatymo [[#^s-855bd3c0b60050c97b79904d|6 straipsnio 51 dalyje]] nurodytu minimaliu ir maksimaliu kompensuojamojo uždarbio dydžiu, ir apskaičiuotų pajamų ir (ar) išmokų skirtumas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. ^s-cf2f8357fb6b4ba182569fec
+7. Jeigu apdraustasis asmuo, kuriam paskirta vaiko priežiūros išmoka, išskyrus vaiko priežiūros išmoką, skiriamą ir mokamą vadovaujantis šio įstatymo [[#^s-c7306bc6822026a88b0469b1|22 straipsnio]] [[#^s-b320b36667c11ef3d091a1b4|2]] ir [[#^s-a9ad1b075728706e34512cab|4]] dalimis, vaiko priežiūros išmokos gavimo metu turi pajamų, nuo kurių skaičiuojamos motinystės socialinio draudimo įmokos, ar iš tuo metu vykdytos darbinės veiklos gautų pajamų, kurios pagal šį įstatymą nėra laikomos draudžiamosiomis pajamomis, arba gauna šio įstatymo nustatytas ligos (įskaitant išmokas, darbdavio mokamas dvi pirmąsias ligos dienas) ar profesinės reabilitacijos išmokas, ligos dėl nelaimingo atsitikimo darbe arba profesinės ligos išmokas, mokamas vadovaujantis [[latest/TAR.4325B0C38B2F|Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymu]] (toliau kartu šiame straipsnyje – pajamos ir (ar) išmokos), ir jam paskirtos vaiko priežiūros išmokos (bendros šių išmokų sumos) ir atitinkamą mėnesį apskaičiuotų pajamų ir (ar) išmokų suma neviršija jo vidutinio mėnesinio kompensuojamojo uždarbio, apriboto šio įstatymo [[#^s-855bd3c0b60050c97b79904d|6 straipsnio 51 dalyje]] nurodytu minimaliu ir maksimaliu kompensuojamojo uždarbio dydžiu, dydžio arba yra jam lygi, jam mokama viso dydžio paskirta vaiko priežiūros išmoka. Jeigu apdraustajam asmeniui paskirtos vaiko priežiūros išmokos (bendros šių išmokų sumos) ir atitinkamą mėnesį apskaičiuotų pajamų ir (ar) išmokų suma viršija jo vidutinio mėnesinio kompensuojamojo uždarbio, apriboto šio įstatymo [[#^s-855bd3c0b60050c97b79904d|6 straipsnio 51 dalyje]] nurodytu minimaliu ir maksimaliu kompensuojamojo uždarbio dydžiu, dydį, jam mokamas jo vidutinio mėnesinio kompensuojamojo uždarbio, apriboto šio įstatymo [[#^s-855bd3c0b60050c97b79904d|6 straipsnio 51 dalyje]] nurodytu minimaliu ir maksimaliu kompensuojamojo uždarbio dydžiu, ir apskaičiuotų pajamų ir (ar) išmokų skirtumas Ligos ir motinystės socialinio draudimo išmokų nuostatuose nustatyta tvarka. ^s-cf2f8357fb6b4ba182569fec
 Straipsnio dalies pakeitimai:
 Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
 
@@ -1310,7 +1310,7 @@ priedas
 
 
 
-1. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1158 dėl tėvų ir prižiūrinčiųjų asmenų profesinio ir asmeninio gyvenimo pusiausvyros, kuria panaikinama Tarybos direktyva 2010/18/ES. ^s-436f77e02002fa6659c940b5
+1. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/1158](https://eur-lex.europa.eu/eli/dir/2019/1158/oj) dėl tėvų ir prižiūrinčiųjų asmenų profesinio ir asmeninio gyvenimo pusiausvyros, kuria panaikinama Tarybos direktyva 2010/18/ES. ^s-436f77e02002fa6659c940b5
 
 
 Papildyta priedu:
@@ -1368,7 +1368,7 @@ LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 16 IR 19 STRAIPSNIŲ PAKEITIM
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
-[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]], ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, [[latest/TAR.94F6B680E8B8|SVEIKATOS DRAUDIMO ĮSTATYMO]], [[latest/TAR.FDF42614DE52|NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO]], [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]], VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34, 36, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, [[latest/TAR.A7F77DF94F5D#^s-737ad56397e2a7b754e12bc0|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO]], LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]], ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, [[latest/TAR.94F6B680E8B8|SVEIKATOS DRAUDIMO ĮSTATYMO]], [[latest/TAR.FDF42614DE52|NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO]], [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]], [[latest/TAR.CA0F08EF687E|VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO]], INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO [[latest/TAR.A7F77DF94F5D#^s-f47bd8a85e88a1ed5fdb4426|33]], [[latest/TAR.A7F77DF94F5D#^s-5588e0dd4927669d9163f666|34]], [[latest/TAR.A7F77DF94F5D#^s-3c50246512d269ab920f3de0|36]], [[latest/TAR.A7F77DF94F5D#^s-f3e4bd0c130420115fe58c82|45]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]] [[latest/TAR.9347C8C7E0A3|9]], [[latest/TAR.9347C8C7E0A3|16]], [[latest/TAR.9347C8C7E0A3|28]], [[latest/TAR.9347C8C7E0A3|35]], [[latest/TAR.9347C8C7E0A3|36]], [[latest/TAR.9347C8C7E0A3|40]], [[latest/TAR.9347C8C7E0A3|43]], [[latest/TAR.9347C8C7E0A3|45]], [[latest/TAR.9347C8C7E0A3|49]], [[latest/TAR.9347C8C7E0A3|50]], [[latest/TAR.9347C8C7E0A3|54]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO]], LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis Įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 
 9.
@@ -1386,7 +1386,7 @@ Nr. X-659, 2006-06-08, Žin., 2006, Nr. 72-2676 (2006-06-28)
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1205, 2007-06-26, Žin., 2007, Nr. 77-3042 (2007-07-12)
-[[#^s-58f48a1dd03a727d1b4a4f8a|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 5, 6, 19, 20, 21 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 5, 6, 19, 20, 21 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.AE97D7E8C192)
 Šis įstatymas įsigalioja nuo 2008 m. sausio 1 d.
 Šis įstatymas pripažintas negaliojančiu nuo 2007 m. gruodžio 15 d.:
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1396,12 +1396,12 @@ Nr. X-1339, 2007-12-04, Žin., 2007, Nr. 132-5347 (2007-12-15)
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1338, 2007-12-04, Žin., 2007, Nr. 132-5346 (2007-12-15)
-[[#^s-58f48a1dd03a727d1b4a4f8a|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 3, 5, 6, 8, 10, 15, 16, 17, 18, 181, 183, 19, 20, 21 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO [[#^s-51fd289c361281809cf1fba3|3]], [[#^s-2a1673d78143c79e930e4282|5]], [[#^s-ecd6e9170a7188c767fba5f1|6]], [[#^s-5d65b63b82fdb238863a9e59|8]], [[#^s-00d0ae4115581edd53d1bec4|10]], [[#^s-1cf8a0e0396b344e0f4af2f1|15]], [[#^s-22057a25430ac2c17798f464|16]], [[#^s-fcfce72d7a862af54e16df51|17]], [[#^s-92da6251dc63fc1eea734c8e|18]], [[latest/TAR.068516AF734B|181]], [[latest/TAR.068516AF734B|183]], [[#^s-313d22c88b5777a5c3f5e671|19]], [[#^s-4eb1059168532ec66249acae|20]], [[#^s-58f48a1dd03a727d1b4a4f8a|21]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-1cf8a0e0396b344e0f4af2f1|15 straipsnį]], įsigalioja 2008 m. sausio 1 d.
 Įsigaliojus šiam įstatymui, iki tol paskirtos ir pradėtos mokėti motinystės (tėvystės) socialinio draudimo pašalpos, vadovaujantis šio įstatymo nuostatomis, atitinkamai perskaičiuojamos, padidinamos ir (ar) pratęsiamas jų mokėjimo laikotarpis.
-Vaiko priežiūros atostogose esantiems apdraustiesiems asmenims (nepaisant to, ar vaiko priežiūros atostogos tęsiamos, ar suteikiamos iš naujo) ir nurodytiems [[#^s-313d22c88b5777a5c3f5e671|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 19 straipsnio]] 6 ir 7 dalyse asmenims, kuriems motinystės (tėvystės) socialinio draudimo pašalpų mokėjimo laikas buvo pasibaigęs, nes vaikui (vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. šių pašalpų mokėjimas tęsiamas, jeigu vaikui (vaikams) dar nėra suėję dveji metai.
-Šio įstatymo [[#^s-22057a25430ac2c17798f464|16 straipsnio]] 1 ir 2 dalyse numatytais atvejais apdraustojo asmens kompensuojamasis uždarbis iš naujo neperskaičiuojamas.
-Apdraustiesiems asmenims, atitinkantiems [[#^s-5d65b63b82fdb238863a9e59|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 8 straipsnio]] 2 ir 3 dalių, [[#^s-22057a25430ac2c17798f464|16 straipsnio]] 2 ir 3 dalių, 181 straipsnio 2 ir 3 dalių, [[#^s-313d22c88b5777a5c3f5e671|19 straipsnio]] 2 ir 3 dalių reikalavimus, ligos, motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpos skiriamos ir mokamos nuo šio įstatymo įsigaliojimo dienos, jeigu jie yra laikinai nedarbingi, išleisti nėštumo ir gimdymo ar tėvystės atostogų arba vaiko priežiūros atostogų ir atitinka kitas sąlygas, nustatytas šioms pašalpoms gauti.
+Vaiko priežiūros atostogose esantiems apdraustiesiems asmenims (nepaisant to, ar vaiko priežiūros atostogos tęsiamos, ar suteikiamos iš naujo) ir nurodytiems [[#^s-313d22c88b5777a5c3f5e671|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 19 straipsnio]] [[latest/TAR.068516AF734B|6]] ir [[latest/TAR.068516AF734B|7]] dalyse asmenims, kuriems motinystės (tėvystės) socialinio draudimo pašalpų mokėjimo laikas buvo pasibaigęs, nes vaikui (vaikams) suėjo vieni metai, nuo 2008 m. sausio 1 d. šių pašalpų mokėjimas tęsiamas, jeigu vaikui (vaikams) dar nėra suėję dveji metai.
+Šio įstatymo [[#^s-22057a25430ac2c17798f464|16 straipsnio]] [[#^s-ff48f88152a345857f20d5b8|1]] ir [[#^s-4137e84006bb0aaa8c6761bd|2]] dalyse numatytais atvejais apdraustojo asmens kompensuojamasis uždarbis iš naujo neperskaičiuojamas.
+Apdraustiesiems asmenims, atitinkantiems [[#^s-5d65b63b82fdb238863a9e59|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 8 straipsnio]] [[#^s-778bfd987da00d7500a47c55|2]] ir [[#^s-61bd94695f9294db7df9bb58|3]] dalių, [[#^s-22057a25430ac2c17798f464|16 straipsnio]] [[#^s-4137e84006bb0aaa8c6761bd|2]] ir [[#^s-b5430257e2086db62038947c|3]] dalių, 181 straipsnio 2 ir 3 dalių, [[#^s-313d22c88b5777a5c3f5e671|19 straipsnio]] [[#^s-0aa436aafcc05222b5f5cce8|2]] ir [[#^s-709bec94700e64edc4a2fe6a|3]] dalių reikalavimus, ligos, motinystės, tėvystės, motinystės (tėvystės) socialinio draudimo pašalpos skiriamos ir mokamos nuo šio įstatymo įsigaliojimo dienos, jeigu jie yra laikinai nedarbingi, išleisti nėštumo ir gimdymo ar tėvystės atostogų arba vaiko priežiūros atostogų ir atitinka kitas sąlygas, nustatytas šioms pašalpoms gauti.
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1493,7 +1493,7 @@ Nr. XI-1245, 2010-12-22, Žin., 2010, Nr. 157-7977 (2010-12-31)
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1244, 2010-12-22, Žin., 2010, Nr. 157-7976 (2010-12-31)
-[[#^s-58f48a1dd03a727d1b4a4f8a|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 5, 8, 16, 18, 18(1), 18(3), 19 IR 21 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 5, 8, 16, 18, 18(1), 18(3), [[#^s-313d22c88b5777a5c3f5e671|19]] IR [[#^s-58f48a1dd03a727d1b4a4f8a|21]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2011 m. sausio 1 d.
 
 24.
@@ -1511,14 +1511,14 @@ Nr. XI-2048, 2012-06-05, Žin., 2012, Nr. 69-3528 (2012-06-21)
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-284, 2013-05-09, Žin., 2013, Nr. 54-2689 (2013-05-25)
-[[#^s-ec6726c241fb9f9ded79e1cd|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 5, 6, 8, 9, 11, 15, 16, 18, 18(1), 18(3), 19, 20, 21, 24 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 24(1) STRAIPSNIU ĮSTATYMAS
+LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO 5, 6, 8, 9, 11, 15, 16, 18, 18(1), 18(3), [[#^s-313d22c88b5777a5c3f5e671|19]], [[#^s-4eb1059168532ec66249acae|20]], [[#^s-58f48a1dd03a727d1b4a4f8a|21]], [[#^s-ec6726c241fb9f9ded79e1cd|24]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 24(1) STRAIPSNIU ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2 dalį ir [[#^s-fcfce72d7a862af54e16df51|17 straipsnį]], įsigalioja 2013 m. liepos 1 d.
 Šio įstatymo nuostatos taikomos nuo 2013 m. liepos 1 d. naujai skiriamoms socialinio draudimo pašalpoms.
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-850, 2014-04-24, paskelbta TAR 2014-05-02, i. k. 2014-04999
-LIETUVOS RESPUBLIKOS LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO NR. IX-110 5, 19, 20 IR [[#^s-58f48a1dd03a727d1b4a4f8a|21 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO NR. IX-110 [[#^s-2a1673d78143c79e930e4282|5]], [[#^s-313d22c88b5777a5c3f5e671|19]], [[#^s-4eb1059168532ec66249acae|20]] IR [[#^s-58f48a1dd03a727d1b4a4f8a|21]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2014 m. birželio 1 d.
 Šio įstatymo nuostatos taikomos nuo 2014 m. birželio 1 d. naujai skiriamoms socialinio draudimo pašalpoms.
 
@@ -1528,7 +1528,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2012-02-27, Žin., 2012, Nr. 26-1200 (2012-02-29)
-DĖL LIETUVOS RESPUBLIKOS LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS MUITINĖJE STATUTO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2001 M. SAUSIO 25 D. NUTARIMU NR. 86 PATVIRTINTŲ LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO PAŠALPŲ NUOSTATŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+DĖL LIETUVOS RESPUBLIKOS LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO, TARNYBOS LIETUVOS RESPUBLIKOS MUITINĖJE STATUTO, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS [2001 M. SAUSIO 25 D. NUTARIMU NR. 86](https://e-tar.lt/portal/lt/legalAct/TAR.4707C1616570) PATVIRTINTŲ LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO PAŠALPŲ NUOSTATŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 
 Pakeitimai:
@@ -1541,22 +1541,22 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1395, 2014-12-09, paskelbta TAR 2014-12-18, i. k. 2014-19922
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 8, 16, 18-1 ir [[#^s-313d22c88b5777a5c3f5e671|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-5d65b63b82fdb238863a9e59|8]], [[#^s-22057a25430ac2c17798f464|16]], 18-1 ir [[#^s-313d22c88b5777a5c3f5e671|19]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1930, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11185
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 8, 16, 18-1 ir [[#^s-313d22c88b5777a5c3f5e671|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-5d65b63b82fdb238863a9e59|8]], [[#^s-22057a25430ac2c17798f464|16]], 18-1 ir [[#^s-313d22c88b5777a5c3f5e671|19]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1993, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18261
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 16, 19 ir 24-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-22057a25430ac2c17798f464|16]], [[#^s-313d22c88b5777a5c3f5e671|19]] ir 24-1 straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2142, 2015-12-08, paskelbta TAR 2015-12-21, i. k. 2015-20133
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 8, 16, 18-1 ir [[#^s-313d22c88b5777a5c3f5e671|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-5d65b63b82fdb238863a9e59|8]], [[#^s-22057a25430ac2c17798f464|16]], 18-1 ir [[#^s-313d22c88b5777a5c3f5e671|19]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1566,17 +1566,17 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-138, 2016-12-20, paskelbta TAR 2016-12-29, i. k. 2016-29842
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 pakeitimo [[latest/6b0a3d704a6e11e6b5d09300a16a686c|įstatymo Nr. XII-2501]] 1 ir [[#^s-43adb4ba3437d0d2d5f88914|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 pakeitimo [[latest/6b0a3d704a6e11e6b5d09300a16a686c|įstatymo Nr. XII-2501]] [[#^s-02f4eacece861e8bf43fc4b5|1]] ir [[#^s-43adb4ba3437d0d2d5f88914|2]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-299, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06976
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 6 ir [[#^s-00d0ae4115581edd53d1bec4|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-ecd6e9170a7188c767fba5f1|6]] ir [[#^s-00d0ae4115581edd53d1bec4|10]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-245, 2017-03-30, paskelbta TAR 2017-04-07, i. k. 2017-05916
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 5, 20, 22, 23 ir [[#^s-ec6726c241fb9f9ded79e1cd|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-2a1673d78143c79e930e4282|5]], [[#^s-4eb1059168532ec66249acae|20]], [[#^s-c7306bc6822026a88b0469b1|22]], [[#^s-a4c8ffeb0bb6b188a158d645|23]] ir [[#^s-ec6726c241fb9f9ded79e1cd|24]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1586,32 +1586,32 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-717, 2017-11-09, paskelbta TAR 2017-11-16, i. k. 2017-18149
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-00d0ae4115581edd53d1bec4|10 straipsnio]] pakeitimo [[latest/174a8cd02a8811e78397ae072f58c508|įstatymo Nr. XIII-300]] 1 ir [[#^s-43adb4ba3437d0d2d5f88914|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-00d0ae4115581edd53d1bec4|10 straipsnio]] pakeitimo [[latest/174a8cd02a8811e78397ae072f58c508|įstatymo Nr. XIII-300]] [[#^s-02f4eacece861e8bf43fc4b5|1]] ir [[#^s-43adb4ba3437d0d2d5f88914|2]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-831, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20050
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 4, 5, 6, 8, 9, 10, 11, 12, 13, 14, 16, 18, 19, 21, 23, 24, 25, 27 ir [[#^s-e2902ae8554caf254ddd475c|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-4da7929808132472d50c22b0|4]], [[#^s-2a1673d78143c79e930e4282|5]], [[#^s-ecd6e9170a7188c767fba5f1|6]], [[#^s-5d65b63b82fdb238863a9e59|8]], [[#^s-8e2b38a5313e0bbaffd24037|9]], [[#^s-00d0ae4115581edd53d1bec4|10]], [[#^s-3daf4994538abe8e6a6c69bd|11]], [[#^s-f28f80e80aa899d84914c225|12]], [[#^s-0ac0a3fa0106145230f11b44|13]], [[#^s-3a512c6af722ea21e8b3912c|14]], [[#^s-22057a25430ac2c17798f464|16]], [[#^s-92da6251dc63fc1eea734c8e|18]], [[#^s-313d22c88b5777a5c3f5e671|19]], [[#^s-58f48a1dd03a727d1b4a4f8a|21]], [[#^s-a4c8ffeb0bb6b188a158d645|23]], [[#^s-ec6726c241fb9f9ded79e1cd|24]], [[#^s-97d3bb0de974d1d4ec56aef1|25]], [[#^s-6ea4014e5233909de025b377|27]] ir [[#^s-e2902ae8554caf254ddd475c|33]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-832, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20051
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 5, 20, 22, 23 ir [[#^s-ec6726c241fb9f9ded79e1cd|24 straipsnių]] pakeitimo [[latest/3f0856801ac511e79800e8266c1e5d1b|įstatymo Nr. XIII-245]] 3 ir [[#^s-2a1673d78143c79e930e4282|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-2a1673d78143c79e930e4282|5]], [[#^s-4eb1059168532ec66249acae|20]], [[#^s-c7306bc6822026a88b0469b1|22]], [[#^s-a4c8ffeb0bb6b188a158d645|23]] ir [[#^s-ec6726c241fb9f9ded79e1cd|24]] straipsnių pakeitimo [[latest/3f0856801ac511e79800e8266c1e5d1b|įstatymo Nr. XIII-245]] [[#^s-51fd289c361281809cf1fba3|3]] ir [[#^s-2a1673d78143c79e930e4282|5]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-987, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00962
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 10 ir [[#^s-c7306bc6822026a88b0469b1|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-00d0ae4115581edd53d1bec4|10]] ir [[#^s-c7306bc6822026a88b0469b1|22]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1338, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11433
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 6, 14, 18, 21, 22, 24 ir [[#^s-6ea4014e5233909de025b377|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-ecd6e9170a7188c767fba5f1|6]], [[#^s-3a512c6af722ea21e8b3912c|14]], [[#^s-92da6251dc63fc1eea734c8e|18]], [[#^s-58f48a1dd03a727d1b4a4f8a|21]], [[#^s-c7306bc6822026a88b0469b1|22]], [[#^s-ec6726c241fb9f9ded79e1cd|24]] ir [[#^s-6ea4014e5233909de025b377|27]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT23-N13/2018, 2018-12-19, paskelbta TAR 2018-12-19, i. k. 2018-20843
-Dėl [[#^s-22057a25430ac2c17798f464|Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 16 straipsnio]] nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo 16 straipsnio nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/a603d960038311e9a5eaf2cd290f1944)
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1621,12 +1621,12 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2323, 2019-07-11, paskelbta TAR 2019-07-23, i. k. 2019-12116
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 5, 22, 23 ir [[#^s-ec6726c241fb9f9ded79e1cd|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-2a1673d78143c79e930e4282|5]], [[#^s-c7306bc6822026a88b0469b1|22]], [[#^s-a4c8ffeb0bb6b188a158d645|23]] ir [[#^s-ec6726c241fb9f9ded79e1cd|24]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2489, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17216
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 5, 9, 10, 11 ir [[#^s-22057a25430ac2c17798f464|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-43adb4ba3437d0d2d5f88914|2]], [[#^s-2a1673d78143c79e930e4282|5]], [[#^s-8e2b38a5313e0bbaffd24037|9]], [[#^s-00d0ae4115581edd53d1bec4|10]], [[#^s-3daf4994538abe8e6a6c69bd|11]] ir [[#^s-22057a25430ac2c17798f464|16]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1651,52 +1651,52 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3305, 2020-09-29, paskelbta TAR 2020-10-09, i. k. 2020-21152
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 3, 5 ir 11-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-51fd289c361281809cf1fba3|3]], [[#^s-2a1673d78143c79e930e4282|5]] ir 11-1 straipsnių pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-125, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28981
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 5, 11-1, 14, 18, 21 ir [[#^s-ec6726c241fb9f9ded79e1cd|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-43adb4ba3437d0d2d5f88914|2]], [[#^s-4da7929808132472d50c22b0|4]], [[#^s-2a1673d78143c79e930e4282|5]], 11-1, [[#^s-3a512c6af722ea21e8b3912c|14]], [[#^s-92da6251dc63fc1eea734c8e|18]], [[#^s-58f48a1dd03a727d1b4a4f8a|21]] ir [[#^s-ec6726c241fb9f9ded79e1cd|24]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-375, 2021-06-08, paskelbta TAR 2021-06-15, i. k. 2021-13640
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 11-1, 14, 18, 21, 24, [[#^s-e2902ae8554caf254ddd475c|33 straipsnių]] pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 11-1, [[#^s-3a512c6af722ea21e8b3912c|14]], [[#^s-92da6251dc63fc1eea734c8e|18]], [[#^s-58f48a1dd03a727d1b4a4f8a|21]], [[#^s-ec6726c241fb9f9ded79e1cd|24]], [[#^s-e2902ae8554caf254ddd475c|33]] straipsnių pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-752, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26584
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 6, 8, 9, 10, 11, 11-1, 14, 16, 23 ir [[#^s-51e78c02a73681b6cd353522|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-43adb4ba3437d0d2d5f88914|2]], [[#^s-4da7929808132472d50c22b0|4]], [[#^s-ecd6e9170a7188c767fba5f1|6]], [[#^s-5d65b63b82fdb238863a9e59|8]], [[#^s-8e2b38a5313e0bbaffd24037|9]], [[#^s-00d0ae4115581edd53d1bec4|10]], [[#^s-3daf4994538abe8e6a6c69bd|11]], 11-1, [[#^s-3a512c6af722ea21e8b3912c|14]], [[#^s-22057a25430ac2c17798f464|16]], [[#^s-a4c8ffeb0bb6b188a158d645|23]] ir [[#^s-51e78c02a73681b6cd353522|30]] straipsnių pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1176, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13892
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 3 ir [[#^s-4da7929808132472d50c22b0|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-51fd289c361281809cf1fba3|3]] ir [[#^s-4da7929808132472d50c22b0|4]] straipsnių pakeitimo įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1191, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15182
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 6, 8, 9, 10, 11, 11-1, 14, 16, 22, 23 ir [[#^s-51e78c02a73681b6cd353522|30 straipsnių]] pakeitimo [[latest/d797e360632811eca9ac839120d251c4|įstatymo Nr. XIV-752]] pavadinimo, [[#^s-3a512c6af722ea21e8b3912c|14 straipsnio]] pakeitimo ir [[#^s-3daf4994538abe8e6a6c69bd|11 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-43adb4ba3437d0d2d5f88914|2]], [[#^s-4da7929808132472d50c22b0|4]], [[#^s-ecd6e9170a7188c767fba5f1|6]], [[#^s-5d65b63b82fdb238863a9e59|8]], [[#^s-8e2b38a5313e0bbaffd24037|9]], [[#^s-00d0ae4115581edd53d1bec4|10]], [[#^s-3daf4994538abe8e6a6c69bd|11]], 11-1, [[#^s-3a512c6af722ea21e8b3912c|14]], [[#^s-22057a25430ac2c17798f464|16]], [[#^s-c7306bc6822026a88b0469b1|22]], [[#^s-a4c8ffeb0bb6b188a158d645|23]] ir [[#^s-51e78c02a73681b6cd353522|30]] straipsnių pakeitimo [[latest/d797e360632811eca9ac839120d251c4|įstatymo Nr. XIV-752]] pavadinimo, [[#^s-3a512c6af722ea21e8b3912c|14 straipsnio]] pakeitimo ir [[#^s-3daf4994538abe8e6a6c69bd|11 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1444, 2022-10-10, paskelbta TAR 2022-10-18, i. k. 2022-21090
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 11 ir 11-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-43adb4ba3437d0d2d5f88914|2]], [[#^s-3daf4994538abe8e6a6c69bd|11]] ir 11-1 straipsnių pakeitimo įstatymas
 
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1190, 2022-06-28, paskelbta TAR 2022-07-11, i. k. 2022-15179
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 1, 5, 11-1, 16, 19, 20, 22, 23, [[#^s-ec6726c241fb9f9ded79e1cd|24 straipsnių]] pakeitimo ir Įstatymo papildymo priedu įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-02f4eacece861e8bf43fc4b5|1]], [[#^s-2a1673d78143c79e930e4282|5]], 11-1, [[#^s-22057a25430ac2c17798f464|16]], [[#^s-313d22c88b5777a5c3f5e671|19]], [[#^s-4eb1059168532ec66249acae|20]], [[#^s-c7306bc6822026a88b0469b1|22]], [[#^s-a4c8ffeb0bb6b188a158d645|23]], [[#^s-ec6726c241fb9f9ded79e1cd|24]] straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1971, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10364
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 3, 6-1, 30 ir [[#^s-31a690867cd189e9de134607|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-51fd289c361281809cf1fba3|3]], 6-1, [[#^s-51e78c02a73681b6cd353522|30]] ir [[#^s-31a690867cd189e9de134607|31]] straipsnių pakeitimo įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2054, 2023-06-13, paskelbta TAR 2023-06-23, i. k. 2023-12583
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 5, 6, 8, 9, 10, 11, 11-1, 16, 18, 19, 21, 24 ir [[#^s-97d3bb0de974d1d4ec56aef1|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-43adb4ba3437d0d2d5f88914|2]], [[#^s-4da7929808132472d50c22b0|4]], [[#^s-2a1673d78143c79e930e4282|5]], [[#^s-ecd6e9170a7188c767fba5f1|6]], [[#^s-5d65b63b82fdb238863a9e59|8]], [[#^s-8e2b38a5313e0bbaffd24037|9]], [[#^s-00d0ae4115581edd53d1bec4|10]], [[#^s-3daf4994538abe8e6a6c69bd|11]], 11-1, [[#^s-22057a25430ac2c17798f464|16]], [[#^s-92da6251dc63fc1eea734c8e|18]], [[#^s-313d22c88b5777a5c3f5e671|19]], [[#^s-58f48a1dd03a727d1b4a4f8a|21]], [[#^s-ec6726c241fb9f9ded79e1cd|24]] ir [[#^s-97d3bb0de974d1d4ec56aef1|25]] straipsnių pakeitimo įstatymas
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1706,27 +1706,27 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 35.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2230, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22375
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 16 ir [[#^s-c7306bc6822026a88b0469b1|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-22057a25430ac2c17798f464|16]] ir [[#^s-c7306bc6822026a88b0469b1|22]] straipsnių pakeitimo įstatymas
 
 36.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2229, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22374
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 5, 16 ir [[#^s-fcfce72d7a862af54e16df51|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-2a1673d78143c79e930e4282|5]], [[#^s-22057a25430ac2c17798f464|16]] ir [[#^s-fcfce72d7a862af54e16df51|17]] straipsnių pakeitimo įstatymas
 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2366, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25619
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 11, 12 ir [[#^s-e2902ae8554caf254ddd475c|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-3daf4994538abe8e6a6c69bd|11]], [[#^s-f28f80e80aa899d84914c225|12]] ir [[#^s-e2902ae8554caf254ddd475c|33]] straipsnių pakeitimo įstatymas
 
 38.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2367, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25620
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 4, 5, 6, 8, 9, 10, 11, 11-1, 16, 18, 19, 21, 24 ir [[#^s-97d3bb0de974d1d4ec56aef1|25 straipsnių]] pakeitimo [[latest/018c0690119411ee9f7ec2ffce8b47bc|įstatymo Nr. XIV-2054]] 6 ir [[#^s-8e2b38a5313e0bbaffd24037|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-43adb4ba3437d0d2d5f88914|2]], [[#^s-4da7929808132472d50c22b0|4]], [[#^s-2a1673d78143c79e930e4282|5]], [[#^s-ecd6e9170a7188c767fba5f1|6]], [[#^s-5d65b63b82fdb238863a9e59|8]], [[#^s-8e2b38a5313e0bbaffd24037|9]], [[#^s-00d0ae4115581edd53d1bec4|10]], [[#^s-3daf4994538abe8e6a6c69bd|11]], 11-1, [[#^s-22057a25430ac2c17798f464|16]], [[#^s-92da6251dc63fc1eea734c8e|18]], [[#^s-313d22c88b5777a5c3f5e671|19]], [[#^s-58f48a1dd03a727d1b4a4f8a|21]], [[#^s-ec6726c241fb9f9ded79e1cd|24]] ir [[#^s-97d3bb0de974d1d4ec56aef1|25]] straipsnių pakeitimo [[latest/018c0690119411ee9f7ec2ffce8b47bc|įstatymo Nr. XIV-2054]] [[#^s-ecd6e9170a7188c767fba5f1|6]] ir [[#^s-8e2b38a5313e0bbaffd24037|9]] straipsnių pakeitimo įstatymas
 
 39.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2358, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25607
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 2, 10, 11 ir 11-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-43adb4ba3437d0d2d5f88914|2]], [[#^s-00d0ae4115581edd53d1bec4|10]], [[#^s-3daf4994538abe8e6a6c69bd|11]] ir 11-1 straipsnių pakeitimo įstatymas
 
 40.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1741,4 +1741,4 @@ Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-1
 42.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1061, 2026-06-25, paskelbta TAR 2026-06-29, i. k. 2026-11235
-Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 5 ir [[#^s-a4c8ffeb0bb6b188a158d645|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymo Nr. IX-110 [[#^s-2a1673d78143c79e930e4282|5]] ir [[#^s-a4c8ffeb0bb6b188a158d645|23]] straipsnių pakeitimo įstatymas

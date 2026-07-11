@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4 s
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 2 citatos - Valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalies 12 punkto
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.0F9036415DBD#^s-a83e11a675b5b0f534df111f|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - Įstatymas Nr. IX-1246
-- [[latest/TAR.0F9036415DBD#^s-d485869b7be6aa8fca3ca79f|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - Įstatymas Nr. IX-1246
+_Nėra._

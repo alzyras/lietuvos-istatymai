@@ -81,19 +81,19 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 1) nuotekoms; ^s-9a92ecd30cff4d4e554e6bf3
 
 
-2) šalutiniams gyvūniniams produktams ir jų gaminiams, kuriems taikomas 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1069/2009, kuriuo nustatomos žmonėms vartoti neskirtų šalutinių gyvūninių produktų ir jų gaminių sveikumo taisyklės ir panaikinamas Reglamentas (EB) Nr. 1774/2002 (Šalutinių gyvūninių produktų reglamentas), su visais pakeitimais, išskyrus šalutinius gyvūninius produktus ir jų gaminius, kurie skirti sudeginti, pašalinti sąvartyne arba panaudoti biologinių dujų ar komposto gamybos įmonėje; ^s-0d05c1ca42d487ed2570f88d
+2) šalutiniams gyvūniniams produktams ir jų gaminiams, kuriems taikomas 2009 m. spalio 21 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1069/2009](https://eur-lex.europa.eu/eli/reg/1069/2009/oj), kuriuo nustatomos žmonėms vartoti neskirtų šalutinių gyvūninių produktų ir jų gaminių sveikumo taisyklės ir panaikinamas [Reglamentas (EB) Nr. 1774/2002](https://eur-lex.europa.eu/eli/reg/1774/2002/oj) (Šalutinių gyvūninių produktų reglamentas), su visais pakeitimais, išskyrus šalutinius gyvūninius produktus ir jų gaminius, kurie skirti sudeginti, pašalinti sąvartyne arba panaudoti biologinių dujų ar komposto gamybos įmonėje; ^s-0d05c1ca42d487ed2570f88d
 Straipsnio punkto pakeitimai:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
-3) nepaskerstų gyvūnų gaišenoms (įskaitant gyvūnus, nužudytus siekiant likviduoti epizootines ligas), kurios tvarkomos pagal Reglamente (EB) Nr. 1069/2009 nustatytus reikalavimus; ^s-d84e797b5f9365c43e88f264
+3) nepaskerstų gyvūnų gaišenoms (įskaitant gyvūnus, nužudytus siekiant likviduoti epizootines ligas), kurios tvarkomos pagal [Reglamente (EB) Nr. 1069/2009](https://eur-lex.europa.eu/eli/reg/1069/2009/oj) nustatytus reikalavimus; ^s-d84e797b5f9365c43e88f264
 
 
 4) atliekoms, susidarančioms žvalgant, išgaunant, apdorojant ir saugant mineralinius išteklius, ir karjerų eksploatavimo atliekoms; ^s-12a1d9b42da53e8d96d5ee11
 
 
-5) medžiagoms, skirtoms naudoti kaip pašarines žaliavas, apibrėžtoms 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 767/2009 dėl pašarų tiekimo rinkai ir naudojimo, iš dalies keičiančio Reglamentą (EB) Nr. 1831/2003 ir panaikinančio Direktyvas 79/373/EEB, 80/511/EEB, 82/471/EEB, 83/228/EEB, 93/74/EEB, 93/113/EB, 96/25/EB bei Sprendimą 2004/217/EB, su visais pakeitimais, [[#^s-cdfd79f4a775674b72d25b38|3 straipsnio 2 dalies]] g punkte, jeigu tos medžiagos pagamintos ne iš šalutinių gyvūninių produktų ir jų nėra šiose medžiagose. ^s-94d0be6325b7df3f4cf72525
+5) medžiagoms, skirtoms naudoti kaip pašarines žaliavas, apibrėžtoms 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 767/2009 dėl pašarų tiekimo rinkai ir naudojimo, iš dalies keičiančio [Reglamentą (EB) Nr. 1831/2003](https://eur-lex.europa.eu/eli/reg/1831/2003/oj) ir panaikinančio Direktyvas 79/373/EEB, 80/511/EEB, 82/471/EEB, 83/228/EEB, 93/74/EEB, 93/113/EB, 96/25/EB bei Sprendimą 2004/217/EB, su visais pakeitimais, [[#^s-cdfd79f4a775674b72d25b38|3 straipsnio 2 dalies]] g punkte, jeigu tos medžiagos pagamintos ne iš šalutinių gyvūninių produktų ir jų nėra šiose medžiagose. ^s-94d0be6325b7df3f4cf72525
 Papildyta straipsnio punktu:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
@@ -279,7 +279,7 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 26. Buitinės elektros ir elektroninės įrangos atliekos – buityje susidarančios, taip pat komerciniuose ir pramonės ūkio objektuose, institucijose ir kituose šaltiniuose susidarančios elektros ir elektroninės įrangos atliekos, savo pobūdžiu ar sudėtimi ir kiekiu panašios į buityje susidarančias elektros ir elektroninės įrangos atliekas. Elektros ir elektroninės įrangos, kuri gali būti naudojama tiek buityje, tiek ne buityje, atliekos laikomos buitinėmis elektros ir elektroninės įrangos atliekomis. ^s-7a4e9bfae649d41a5e94904c
 
 
-261. Darnusis standartas – darnusis standartas, kaip apibrėžta 2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1025/2012 dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB, 2 straipsnio 1 punkto c papunktyje. ^s-2e3f6c277b207e38d8729448
+261. Darnusis standartas – darnusis standartas, kaip apibrėžta 2012 m. spalio 25 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1025/2012](https://eur-lex.europa.eu/eli/reg/1025/2012/oj) dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB, 2 straipsnio 1 punkto c papunktyje. ^s-2e3f6c277b207e38d8729448
 Papildyta straipsnio dalimi:
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
@@ -297,7 +297,7 @@ Nr. XIV-2508, 2024-03-21, paskelbta TAR 2024-03-27, i. k. 2024-05469
 28. Elektros ir elektroninės įrangos atliekos – elektros arba elektroninė įranga pagal [[#^s-3d9bdfcbd95692182aae26d3|šio straipsnio 6 dalį]] laikoma atliekomis, įskaitant visas jos sudedamąsias dalis ir komplektavimo gaminius, kurie yra ardomos elektros ir elektroninės įrangos dalis. ^s-7abce52d19241d8a1b333ab4
 
 
-281. Europos standartas – kaip apibrėžta 2012 m. spalio 25 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1025/2012 dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB, su visais pakeitimais [[#^s-e0f2e4a1f4a43dffdee1d463|2 straipsnyje]]. ^s-35989a326fe0b1e6f70723e0
+281. Europos standartas – kaip apibrėžta 2012 m. spalio 25 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1025/2012](https://eur-lex.europa.eu/eli/reg/1025/2012/oj) dėl Europos standartizacijos, kuriuo iš dalies keičiamos Tarybos direktyvos 89/686/EEB ir 93/15/EEB ir Europos Parlamento ir Tarybos direktyvos 94/9/EB, 94/25/EB, 95/16/EB, 97/23/EB, 98/34/EB, 2004/22/EB, 2007/23/EB, 2009/23/EB ir 2009/105/EB ir panaikinamas Tarybos sprendimas 87/95/EEB ir Europos Parlamento ir Tarybos sprendimas Nr. 1673/2006/EB, su visais pakeitimais [[#^s-e0f2e4a1f4a43dffdee1d463|2 straipsnyje]]. ^s-35989a326fe0b1e6f70723e0
 Papildyta straipsnio dalimi:
 Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 
@@ -358,7 +358,7 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 5) Lietuvos Respublikos teritorijoje gamina ir tiekia Lietuvos Respublikos vidaus rinkai verslo tikslais transporto priemones, arba ^s-2a15bf5b2fc9ca002b327b4f
 
 
-6) yra įsisteigęs Lietuvos Respublikoje ir, nepaisant naudojamo pardavimo būdo, be kita ko, pagal nuotolines sutartis, kaip apibrėžta Lietuvos Respublikos civiliniame kodekse, vykdydamas profesinę veiklą gamina, užpildo, parduoda ir pateikia Lietuvos Respublikos rinkai vienkartinius plastikinius gaminius, užpildytus vienkartinius plastikinius gaminius ar žvejybos įrankius, kurių sudėtyje yra plastiko, išskyrus asmenis, vykdančius žvejybos veiklą, kaip ji apibrėžta 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1380/2013 dėl bendros žuvininkystės politikos, kuriuo iš dalies keičiami Tarybos reglamentai (EB) Nr. 1954/2003 ir (EB) Nr. 1224/2009 bei panaikinami Tarybos reglamentai (EB) Nr. 2371/2002 ir (EB) Nr. 639/2004 bei Tarybos sprendimas 2004/585/EB, 4 straipsnio 1 dalies 28 punkte. ^s-49db85ba4a1b423ef1e2e187
+6) yra įsisteigęs Lietuvos Respublikoje ir, nepaisant naudojamo pardavimo būdo, be kita ko, pagal nuotolines sutartis, kaip apibrėžta Lietuvos Respublikos civiliniame kodekse, vykdydamas profesinę veiklą gamina, užpildo, parduoda ir pateikia Lietuvos Respublikos rinkai vienkartinius plastikinius gaminius, užpildytus vienkartinius plastikinius gaminius ar žvejybos įrankius, kurių sudėtyje yra plastiko, išskyrus asmenis, vykdančius žvejybos veiklą, kaip ji apibrėžta 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1380/2013](https://eur-lex.europa.eu/eli/reg/1380/2013/oj) dėl bendros žuvininkystės politikos, kuriuo iš dalies keičiami Tarybos [reglamentai (EB) Nr. 1954/2003](https://eur-lex.europa.eu/eli/reg/1954/2003/oj) ir (EB) Nr. 1224/2009 bei panaikinami Tarybos [reglamentai (EB) Nr. 2371/2002](https://eur-lex.europa.eu/eli/reg/2371/2002/oj) ir (EB) Nr. 639/2004 bei Tarybos sprendimas 2004/585/EB, 4 straipsnio 1 dalies 28 punkte. ^s-49db85ba4a1b423ef1e2e187
 
 
 Straipsnio dalies pakeitimai:
@@ -408,13 +408,13 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 6) iš kitos valstybės narės ar trečiosios šalies įveža ir tiekia Lietuvos Respublikos vidaus rinkai verslo tikslais transporto priemones, arba ^s-6e2172ed6020ccc21af06a72
 
 
-7) yra įsisteigęs Lietuvos Respublikoje ir, nepaisant naudojamo pardavimo būdo, be kita ko, pagal nuotolines sutartis, kaip apibrėžta Civiliniame kodekse, vykdydamas profesinę veiklą iš kitos valstybės narės ar trečiosios šalies įveža ir pateikia Lietuvos Respublikos rinkai vienkartinius plastikinius gaminius, užpildytus vienkartinius plastikinius gaminius ar žvejybos įrankius, kurių sudėtyje yra plastiko, išskyrus asmenis, vykdančius žvejybos veiklą, kaip apibrėžta Reglamento (ES) Nr. 1380/2013 4 straipsnio 1 dalies 28 punkte, arba ^s-fc5e338ffe4966790ec43385
+7) yra įsisteigęs Lietuvos Respublikoje ir, nepaisant naudojamo pardavimo būdo, be kita ko, pagal nuotolines sutartis, kaip apibrėžta Civiliniame kodekse, vykdydamas profesinę veiklą iš kitos valstybės narės ar trečiosios šalies įveža ir pateikia Lietuvos Respublikos rinkai vienkartinius plastikinius gaminius, užpildytus vienkartinius plastikinius gaminius ar žvejybos įrankius, kurių sudėtyje yra plastiko, išskyrus asmenis, vykdančius žvejybos veiklą, kaip apibrėžta [Reglamento (ES) Nr. 1380/2013 4 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/1380/2013/art_4/par_1/oj) 28 punkte, arba ^s-fc5e338ffe4966790ec43385
 
 
-8) yra įsisteigęs valstybėje narėje ar trečiojoje šalyje ir nuotolinio ryšio priemonėmis, be kita ko, pagal nuotolines sutartis, kaip apibrėžta Civiliniame kodekse, vykdydamas profesinę veiklą vartotojams, įskaitant tuos, kurie nėra privatūs namų ūkiai, kitoje valstybėje narėje tiesiogiai parduoda vienkartinius plastikinius gaminius, užpildytus vienkartinius plastikinius gaminius ar žvejybos įrankius, kurių sudėtyje yra plastiko, išskyrus asmenis, vykdančius žvejybos veiklą, kaip apibrėžta Reglamento (ES) Nr. 1380/2013 4 straipsnio 1 dalies 28 punkte, arba ^s-e01101ed25c7e1505db1f3fa
+8) yra įsisteigęs valstybėje narėje ar trečiojoje šalyje ir nuotolinio ryšio priemonėmis, be kita ko, pagal nuotolines sutartis, kaip apibrėžta Civiliniame kodekse, vykdydamas profesinę veiklą vartotojams, įskaitant tuos, kurie nėra privatūs namų ūkiai, kitoje valstybėje narėje tiesiogiai parduoda vienkartinius plastikinius gaminius, užpildytus vienkartinius plastikinius gaminius ar žvejybos įrankius, kurių sudėtyje yra plastiko, išskyrus asmenis, vykdančius žvejybos veiklą, kaip apibrėžta [Reglamento (ES) Nr. 1380/2013 4 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/1380/2013/art_4/par_1/oj) 28 punkte, arba ^s-e01101ed25c7e1505db1f3fa
 
 
-9) iš lizingo (finansinės nuomos) paslaugas teikiančios finansų įstaigos lizingo (finansinės nuomos) būdu įsigyja į Lietuvos Respublikos teritoriją importuotus ir (ar) įvežtus šios dalies 1–[[#^s-e01101ed25c7e1505db1f3fa|8 punktuose]] išvardytus gaminius ir (ar) gaminių ar produktų pripildytas pakuotes. Jeigu lizingo (finansinės nuomos) sutartis nutraukiama, šiame Įstatyme importuotojui nustatytas pareigas, atsiradusias po sutarties nutraukimo ir turto susigrąžinimo iš buvusio lizingo (finansinės nuomos) gavėjo, perima lizingo (finansinės nuomos) paslaugas teikianti finansų įstaiga. ^s-48d87abcd1ba88b049f58de4
+9) iš lizingo (finansinės nuomos) paslaugas teikiančios finansų įstaigos lizingo (finansinės nuomos) būdu įsigyja į Lietuvos Respublikos teritoriją importuotus ir (ar) įvežtus šios dalies [[#^s-6ea86ae8a36b38a7e1cc62a7|1]]–[[#^s-e01101ed25c7e1505db1f3fa|8]] punktuose išvardytus gaminius ir (ar) gaminių ar produktų pripildytas pakuotes. Jeigu lizingo (finansinės nuomos) sutartis nutraukiama, šiame Įstatyme importuotojui nustatytas pareigas, atsiradusias po sutarties nutraukimo ir turto susigrąžinimo iš buvusio lizingo (finansinės nuomos) gavėjo, perima lizingo (finansinės nuomos) paslaugas teikianti finansų įstaiga. ^s-48d87abcd1ba88b049f58de4
 
 
 Straipsnio dalies pakeitimai:
@@ -544,14 +544,14 @@ Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
 
 
-54. Pavojingosios atliekos – atliekos, kurios pasižymi viena ar keliomis pavojingomis savybėmis, nurodytomis 2014 m. gruodžio 18 d. Komisijos reglamento (ES) Nr. 1357/2014, kuriuo pakeičiamas Europos Parlamento ir Tarybos direktyvos 2008/98/EB dėl atliekų ir panaikinančios kai kurias direktyvas III priedas, priede ir 2017 m. birželio 8 d. Tarybos reglamento (ES) 2017/997, kuriuo iš dalies keičiamos Europos Parlamento ir Tarybos direktyvos 2008/98/EB III priedo nuostatos dėl pavojingos savybės HP 14 „ekotoksiškumas“, priede. ^s-fa816e6c0de3567b0b4995df
+54. Pavojingosios atliekos – atliekos, kurios pasižymi viena ar keliomis pavojingomis savybėmis, nurodytomis 2014 m. gruodžio 18 d. Komisijos [reglamento (ES) Nr. 1357/2014](https://eur-lex.europa.eu/eli/reg/1357/2014/oj), kuriuo pakeičiamas Europos Parlamento ir Tarybos direktyvos 2008/98/EB dėl atliekų ir panaikinančios kai kurias direktyvas III priedas, priede ir 2017 m. birželio 8 d. Tarybos [reglamento (ES) 2017/997](https://eur-lex.europa.eu/eli/reg/2017/997/oj), kuriuo iš dalies keičiamos Europos Parlamento ir Tarybos direktyvos 2008/98/EB III priedo nuostatos dėl pavojingos savybės HP 14 „ekotoksiškumas“, priede. ^s-fa816e6c0de3567b0b4995df
 Straipsnio dalies pakeitimai:
 Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
 
 
-541. Plastikas – medžiaga, kurią sudaro polimeras, kaip jis apibrėžtas 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1907/2006 dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos reglamentą (EB) Nr. 1488/94, Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, 3 straipsnio 5 punkte, ir į kurią gali būti pridėta priedų ar kitų medžiagų bei kuri gali būti galutinių produktų pagrindinė struktūrinė sudedamoji dalis, išskyrus chemiškai nemodifikuotus gamtinius polimerus. ^s-2861d0aaea4355d783d1f6ae
+541. Plastikas – medžiaga, kurią sudaro polimeras, kaip jis apibrėžtas 2006 m. gruodžio 18 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) dėl cheminių medžiagų registracijos, įvertinimo, autorizacijos ir apribojimų (REACH), įsteigiančio Europos cheminių medžiagų agentūrą, iš dalies keičiančio Direktyvą 1999/45/EB bei panaikinančio Tarybos reglamentą (EEB) Nr. 793/93, Komisijos [reglamentą (EB) Nr. 1488/94](https://eur-lex.europa.eu/eli/reg/1488/94/oj), Tarybos direktyvą 76/769/EEB ir Komisijos direktyvas 91/155/EEB, 93/67/EEB, 93/105/EB bei 2000/21/EB, 3 straipsnio 5 punkte, ir į kurią gali būti pridėta priedų ar kitų medžiagų bei kuri gali būti galutinių produktų pagrindinė struktūrinė sudedamoji dalis, išskyrus chemiškai nemodifikuotus gamtinius polimerus. ^s-2861d0aaea4355d783d1f6ae
 Papildyta straipsnio dalimi:
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
@@ -990,7 +990,7 @@ Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 5) medžiagos ar daikto atitiktį patvirtinančių dokumentų išdavimo, laikymo ir saugojimo reikalavimus. ^s-4041d890c84eb8fad2e10a5c
 
 
-4. Jeigu, vadovaujantis šio straipsnio 1 ir [[#^s-4b9422656c61c1711d35e3b4|3 dalyse]] nustatytais reikalavimais, nėra Europos Sąjungos ir (ar) Lietuvos Respublikos teisės aktais nustatytų konkrečių atliekų nebelaikymo atliekomis kriterijų atskiriems atliekų srautams, aplinkos ministro įgaliota institucija gali priimti sprendimą dėl konkrečių atliekų nebelaikymo atliekomis atvejų arba taikyti priemones, norėdama patikrinti, ar tam tikros atliekos nebelaikomos atliekomis, atsižvelgdama į šio straipsnio 1 dalyje nustatytas sąlygas ir prireikus į [[#^s-4b9422656c61c1711d35e3b4|šio straipsnio 3 dalyje]] nustatytus reikalavimus, taip pat į teršalų ribines vertes. ^s-c0c9c13d3a86be6454b3f1b6
+4. Jeigu, vadovaujantis šio straipsnio 1 ir [[#^s-4b9422656c61c1711d35e3b4|3]] dalyse nustatytais reikalavimais, nėra Europos Sąjungos ir (ar) Lietuvos Respublikos teisės aktais nustatytų konkrečių atliekų nebelaikymo atliekomis kriterijų atskiriems atliekų srautams, aplinkos ministro įgaliota institucija gali priimti sprendimą dėl konkrečių atliekų nebelaikymo atliekomis atvejų arba taikyti priemones, norėdama patikrinti, ar tam tikros atliekos nebelaikomos atliekomis, atsižvelgdama į šio straipsnio 1 dalyje nustatytas sąlygas ir prireikus į [[#^s-4b9422656c61c1711d35e3b4|šio straipsnio 3 dalyje]] nustatytus reikalavimus, taip pat į teršalų ribines vertes. ^s-c0c9c13d3a86be6454b3f1b6
 
 
 5. Kai medžiagos ar daiktai nebelaikomi atliekomis, jie turi atitikti cheminėms medžiagoms ir produktams teisės aktuose nustatytus reikalavimus. Fizinis arba juridinis asmuo, kuris pirmą kartą panaudoja medžiagą ar daiktą, kuris nebelaikomas atliekomis ir kuris nebuvo patiektas rinkai, arba kuris patiekia rinkai medžiagą ar daiktą, kuris nebelaikomas atliekomis, pirmą kartą, turi užtikrinti, kad ši medžiaga ar daiktas atitiktų teisės aktų, taikomų cheminėms medžiagoms ir produktams, reikalavimus. ^s-ce72cdfc040da7b60f52d7ff
@@ -1010,13 +1010,13 @@ PAREIGA TEIKTI INFORMACIJĄ APIE GAMINIUOSE ESANČIAS CHEMINES MEDŽIAGAS
 ### 33 straipsnis. Informacijos apie gaminiuose esančias chemines medžiagas teikimo tvarka ^s-ee7cda7547481b7dd26db5db
 
 
-1. Kiekvienas gaminio tiekėjas, kaip apibrėžta Reglamento (EB) Nr. 1907/2006 3 straipsnio 33 punkte, naudodamasis Europos cheminių medžiagų agentūros suteiktomis duomenų teikimo priemonėmis ir formatu, turi teikti informaciją Europos cheminių medžiagų agentūrai pagal Reglamento (EB) Nr. 1907/2006 [[#^s-59280eb5db16bedaa185c694|33 straipsnio 1 dalį]]. Informacija teikiama: ^s-59280eb5db16bedaa185c694
+1. Kiekvienas gaminio tiekėjas, kaip apibrėžta [Reglamento (EB) Nr. 1907/2006 3 straipsnio](https://eur-lex.europa.eu/eli/reg/1907/2006/art_3/oj) 33 punkte, naudodamasis Europos cheminių medžiagų agentūros suteiktomis duomenų teikimo priemonėmis ir formatu, turi teikti informaciją Europos cheminių medžiagų agentūrai pagal [Reglamento (EB) Nr. 1907/2006 33 straipsnio 1 dalį](https://eur-lex.europa.eu/eli/reg/1907/2006/art_33/par_1/oj). Informacija teikiama: ^s-59280eb5db16bedaa185c694
 
 
 1) pirmą kartą gaminį tiekiant rinkai; ^s-9b0914e7368c96ad87d4ce17
 
 
-2) pirmą kartą gaminį tiekiant rinkai, po to kai gaminio sudėtyje esanti cheminė medžiaga įtraukiama į Kandidatinį autorizuotinų cheminių medžiagų sąrašą, sudarytą pagal Reglamento (EB) Nr. 1907/2006 59 straipsnio 1 dalį; ^s-426d748f001ea4baf0c36be6
+2) pirmą kartą gaminį tiekiant rinkai, po to kai gaminio sudėtyje esanti cheminė medžiaga įtraukiama į Kandidatinį autorizuotinų cheminių medžiagų sąrašą, sudarytą pagal [Reglamento (EB) Nr. 1907/2006 59 straipsnio 1 dalį](https://eur-lex.europa.eu/eli/reg/1907/2006/art_59/par_1/oj); ^s-426d748f001ea4baf0c36be6
 
 
 3) pasikeitus gaminio cheminei sudėčiai, kai ji lemia saugaus gaminio naudojimo ir (ar) atliekų tvarkymo reikalavimų ir (ar) priemonių pasikeitimus. ^s-034e8e48e4b695e934e3bc9e
@@ -1076,16 +1076,16 @@ DRAUDIMAS PATEIKTI RINKAI TAM TIKRUS PLASTIKINIUS GAMINIUS
 9) iš polistireninio putplasčio, gaunamo išputintus polistireno rutuliukus sulydant karštais vandens garais veikiant slėgiui, pagamintą maisto tarą, t. y. talpyklas, pavyzdžiui, dėžutes su dangteliais arba be jų, kuriose laikomas maistas, skirtas nedelsiant suvartoti vietoje arba išsinešti, paprastai suvartojamas iš talpyklos ir paruoštas suvartoti be papildomo paruošimo, pavyzdžiui, be kepimo, virimo ar pašildymo, įskaitant maisto tarą, naudojamą greitam maistui arba kitam nedelsiant suvartoti skirtam maistui; ^s-4891a72d92b8aa996277521d
 
 
-10) pagal Komisijos įgyvendinimo reglamento (ES) 2020/2151 reikalavimus nepaženklintus higieninius paketus (įklotus), tamponus ir tamponų aplikatorius; ^s-c2dbc23560863209049bd786
+10) pagal Komisijos įgyvendinimo [reglamento (ES) 2020/2151](https://eur-lex.europa.eu/eli/reg/2020/2151/oj) reikalavimus nepaženklintus higieninius paketus (įklotus), tamponus ir tamponų aplikatorius; ^s-c2dbc23560863209049bd786
 
 
-11) pagal Komisijos įgyvendinimo reglamento (ES) 2020/2151 reikalavimus nepaženklintas drėgnąsias servetėles, t. y. sudrėkintas asmens higienai skirtas servetėles ir buitines šluostes; ^s-ff6dc9ce563a984036af7a2b
+11) pagal Komisijos įgyvendinimo [reglamento (ES) 2020/2151](https://eur-lex.europa.eu/eli/reg/2020/2151/oj) reikalavimus nepaženklintas drėgnąsias servetėles, t. y. sudrėkintas asmens higienai skirtas servetėles ir buitines šluostes; ^s-ff6dc9ce563a984036af7a2b
 
 
-12) pagal Komisijos įgyvendinimo reglamento (ES) 2020/2151 reikalavimus nepaženklintus tabako gaminius su filtrais ir filtrus, parduodamus naudoti kartu su tabako gaminiais; ^s-738205621a5ffacafe368e49
+12) pagal Komisijos įgyvendinimo [reglamento (ES) 2020/2151](https://eur-lex.europa.eu/eli/reg/2020/2151/oj) reikalavimus nepaženklintus tabako gaminius su filtrais ir filtrus, parduodamus naudoti kartu su tabako gaminiais; ^s-738205621a5ffacafe368e49
 
 
-13) pagal Komisijos įgyvendinimo reglamento (ES) 2020/2151 reikalavimus nepaženklintus gėrimų indelius; ^s-fd76dec0c5f78931a427f8c9
+13) pagal Komisijos įgyvendinimo [reglamento (ES) 2020/2151](https://eur-lex.europa.eu/eli/reg/2020/2151/oj) reikalavimus nepaženklintus gėrimų indelius; ^s-fd76dec0c5f78931a427f8c9
 
 
 14) trijų litrų ir mažesnės talpos gėrimų tarą su iš plastiko pagamintais kamšteliais ir dangteliais, jeigu jie nelieka pritvirtinti prie taros per visą numatytą gaminių naudojimo trukmę. ^s-82b35c7c4c30cbcb39ef834f
@@ -1104,7 +1104,7 @@ TAR pastaba. 3-4 straipsnio 2 dalies 14 punktas įsigalioja 2024-07-03.
 2) gėrimų tarai su metaliniais kamšteliais ir dangteliais su plastikiniu sandarinimo sluoksniu; ^s-808a9212b1dd3c99fa242831
 
 
-3) gėrimų tarai, skirtai ir naudojamai specialiosios medicininės paskirties skystiems maisto produktams, kaip apibrėžta 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 609/2013 dėl kūdikiams ir mažiems vaikams skirtų maisto produktų, specialiosios medicininės paskirties maisto produktų ir viso paros raciono pakaitalų svoriui kontroliuoti ir kuriuo panaikinami Tarybos direktyva 92/52/EEB, Komisijos direktyvos 96/8/EB, 1999/21/EB, 2006/125/EB ir 2006/141/EB, Europos Parlamento ir Tarybos direktyva 2009/39/EB ir Komisijos reglamentai (EB) Nr. 41/2009 ir (EB) Nr. 953/2009, [[#^s-f07f5f87f86c84a830fb888b|2 straipsnio 2 dalies]] g punkte. ^s-f01709a758730f3e3a4e8692
+3) gėrimų tarai, skirtai ir naudojamai specialiosios medicininės paskirties skystiems maisto produktams, kaip apibrėžta 2013 m. birželio 12 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 609/2013 dėl kūdikiams ir mažiems vaikams skirtų maisto produktų, specialiosios medicininės paskirties maisto produktų ir viso paros raciono pakaitalų svoriui kontroliuoti ir kuriuo panaikinami Tarybos direktyva 92/52/EEB, Komisijos direktyvos 96/8/EB, 1999/21/EB, 2006/125/EB ir 2006/141/EB, Europos Parlamento ir Tarybos direktyva 2009/39/EB ir Komisijos reglamentai (EB) Nr. 41/2009 ir (EB) Nr. 953/2009, [[#^s-e0f2e4a1f4a43dffdee1d463|2]] straipsnio 2 dalies g punkte. ^s-f01709a758730f3e3a4e8692
 TAR pastaba. 3-4 straipsnio 4 dalis įsigalioja 2024-07-03.
 
 
@@ -1163,7 +1163,7 @@ Nr. XIII-3157, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15135
 
 
 
-5. Atliekų vežimą tranzitu, išvežimą iš Lietuvos Respublikos ir įvežimą į Lietuvos Respubliką reglamentuoja Lietuvos Respublikos, Europos Sąjungos teisės aktai ir tarptautinės sutartys. Aplinkos ministro įgaliota institucija pagal kompetenciją kontroliuoja atliekų vežimo tranzitu, išvežimo iš Lietuvos Respublikos ir įvežimo į Lietuvos Respubliką reikalavimų vykdymą pagal 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1013/2006 dėl atliekų vežimo su paskutiniais pakeitimais, padarytais 2010 m. gegužės 12 d. Komisijos reglamentu (ES) Nr. 413/2010, ir kitų Lietuvos Respublikos, Europos Sąjungos teisės aktų ir tarptautinių sutarčių nuostatas. ^s-a404b8f7383c2dc44e03b99b
+5. Atliekų vežimą tranzitu, išvežimą iš Lietuvos Respublikos ir įvežimą į Lietuvos Respubliką reglamentuoja Lietuvos Respublikos, Europos Sąjungos teisės aktai ir tarptautinės sutartys. Aplinkos ministro įgaliota institucija pagal kompetenciją kontroliuoja atliekų vežimo tranzitu, išvežimo iš Lietuvos Respublikos ir įvežimo į Lietuvos Respubliką reikalavimų vykdymą pagal 2006 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 1013/2006](https://eur-lex.europa.eu/eli/reg/1013/2006/oj) dėl atliekų vežimo su paskutiniais pakeitimais, padarytais 2010 m. gegužės 12 d. Komisijos reglamentu (ES) Nr. 413/2010, ir kitų Lietuvos Respublikos, Europos Sąjungos teisės aktų ir tarptautinių sutarčių nuostatas. ^s-a404b8f7383c2dc44e03b99b
 Straipsnio dalies pakeitimai:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
@@ -1349,7 +1349,7 @@ Nr. XII-289, 2013-05-09, Žin., 2013, Nr. 55-2729 (2013-05-28)
 6) apdorotų nepavojingųjų atliekų panaudojimą statant statinius ar gaminant statybos produktus; ^s-8018750c02528cc2137e5c15
 
 
-7) šios dalies 1–3 ir [[#^s-8018750c02528cc2137e5c15|6 punktuose]] nurodytoms veikloms skirtų atliekų laikymą. ^s-4868a0f295ec7712c072c99d
+7) šios dalies [[#^s-8dc5fee8dc8a40fc01f6d7e1|1]]–[[#^s-cd5e5c1b0c00c1f659bd7aad|3]] ir [[#^s-8018750c02528cc2137e5c15|6]] punktuose nurodytoms veikloms skirtų atliekų laikymą. ^s-4868a0f295ec7712c072c99d
 
 
 3. Įmonės, apdorojančios atliekas, turi laikytis aplinkos ministro [[#^s-cdf619f3d8fe22dc0a968cb0|šio straipsnio 2 dalies]] 1–6 punktuose išvardytoms atliekų apdorojimo veikloms nustatytų reikalavimų, įskaitant reikalavimus dėl pavojingųjų medžiagų kiekio atliekose ir išmetamųjų teršalų ribinių verčių. ^s-4d61929a00ca8df78c220e91
@@ -1495,7 +1495,7 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 
 
 2. Atliekas naudojančių ar šalinančių įmonių, kurios privalo turėti leidimą pagal šio Įstatymo [[#^s-b5e886a0515aa0b666f76ba6|6 straipsnyje]] nustatytus reikalavimus, išskyrus nuotekų dumblo apdorojimą vykdančias savivaldybės valdomas įmones, [[#^s-5039fb227761fd7038f0376c|šio straipsnio 1 dalyje]] nustatytų prievolių įvykdymas užtikrinamas galiojančia laidavimo draudimo sutartimi ir (arba) banko garantija, ir (arba) maksimaliąja hipoteka (toliau – prievolių įvykdymo užtikrinimo dokumentas). ^s-102d139a81ca6a1372eb6172
-TAR pastaba. [[#^s-102d139a81ca6a1372eb6172|11 straipsnio 2 dalyje]] nurodytas prievolių įvykdymo užtikrinimo dokumentas, pateiktas aplinkos ministro įgaliotai institucijai iki [[latest/64676d00e46d11eb9f09e7df20500045|įstatymo Nr. XIV-488]] įsigaliojimo dienos (2022-05-01), galioja iki jame nurodyto termino pabaigos. Jeigu prievolių įvykdymo užtikrinimo dokumentas galioja ilgiau kaip dvejus metus nuo šio įstatymo įsigaliojimo dienos, [[#^s-5039fb227761fd7038f0376c|Atliekų tvarkymo įstatymo 11 straipsnio 1 dalyje]] nustatytų prievolių įvykdymo užtikrinimo sumos dydis nuo 2024 m. gegužės 1 d. turi būti ne mažesnis, negu apskaičiuotas vadovaujantis [[#^s-d35865dbb24a781fa55d89f1|11 straipsnio 5 dalyje]] nurodyta prievolių įvykdymo užtikrinimo sumos apskaičiavimo tvarka.
+TAR pastaba. 11 straipsnio 2 dalyje nurodytas prievolių įvykdymo užtikrinimo dokumentas, pateiktas aplinkos ministro įgaliotai institucijai iki [[latest/64676d00e46d11eb9f09e7df20500045|įstatymo Nr. XIV-488]] įsigaliojimo dienos (2022-05-01), galioja iki jame nurodyto termino pabaigos. Jeigu prievolių įvykdymo užtikrinimo dokumentas galioja ilgiau kaip dvejus metus nuo šio įstatymo įsigaliojimo dienos, [[#^s-5039fb227761fd7038f0376c|Atliekų tvarkymo įstatymo 11 straipsnio 1 dalyje]] nustatytų prievolių įvykdymo užtikrinimo sumos dydis nuo 2024 m. gegužės 1 d. turi būti ne mažesnis, negu apskaičiuotas vadovaujantis [[#^s-d35865dbb24a781fa55d89f1|11 straipsnio 5 dalyje]] nurodyta prievolių įvykdymo užtikrinimo sumos apskaičiavimo tvarka.
 
 
 3. [[#^s-102d139a81ca6a1372eb6172|Šio straipsnio 2 dalyje]] nurodytos įmonės privalo pateikti aplinkos ministro įgaliotai institucijai prievolių įvykdymo užtikrinimo dokumentą vadovaudamosi [[#^s-d35865dbb24a781fa55d89f1|šio straipsnio 5 dalyje]] nurodyta atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimo tvarka. Prievolių įvykdymo užtikrinimo suma turi būti apskaičiuota vadovaujantis [[#^s-d35865dbb24a781fa55d89f1|šio straipsnio 5 dalyje]] nurodyta prievolių įvykdymo užtikrinimo sumos apskaičiavimo, atsižvelgiant į numatomų naudoti ar šalinti pavojingųjų ar nepavojingųjų atliekų rūšis, kiekį ir tvarkymo būdus, tvarka. Prievolių įvykdymo užtikrinimas turi būti taikomas nuo atliekų tvarkymo veiklos pradžios iki tol, kol bus panaikintas šio Įstatymo [[#^s-b5e886a0515aa0b666f76ba6|6 straipsnyje]] nurodyto leidimo galiojimas ir įgyvendintos šio Įstatymo [[#^s-a3886d478f676fc4cc4af7f3|10 straipsnyje]] nurodytame atliekų naudojimo ar šalinimo techniniame reglamente išdėstytame atliekų naudojimo ar šalinimo veiklos nutraukimo plane nurodytos priemonės. Pažeidę [[#^s-102d139a81ca6a1372eb6172|šio straipsnio 2 dalyje]] nustatytus reikalavimus ar [[#^s-d35865dbb24a781fa55d89f1|šio straipsnio 5 dalyje]] nurodytą atliekas naudojančių ar šalinančių įmonių prievolių įvykdymo užtikrinimo tvarką, įmonė, įmonės vadovas ar kiti atsakingi asmenys atsako pagal [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymo]] ir Lietuvos Respublikos administracinių nusižengimų kodekso nuostatas. ^s-77dfe6c2e4ef77013904fc08
@@ -1525,7 +1525,7 @@ Nr. XIV-488, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15869
 1. Aplinkos apsaugos valstybinės kontrolės ir kitų įgaliotų institucijų pareigūnai teisės aktų nustatyta tvarka atlieka atliekas apdorojančių, surenkančių ar vežančių įmonių, tarpininkų, prekiautojų atliekomis ir atliekų darytojų priežiūrą, įskaitant šių įmonių patikrinimus. ^s-541a33035bd91f5b94933cec
 
 
-2. Nustatant [[#^s-541a33035bd91f5b94933cec|šio straipsnio 1 dalyje]] nurodytų įmonių patikrinimų dažnumą, atsižvelgiama į aplinkos apsaugos vadybos sistemos (ISO 14001 standarto) ir Europos Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) įdiegimą gamyboje vadovaujantis 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1221/2009 dėl organizacijų savanoriško Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) taikymo, panaikinančiu Reglamentą (EB) Nr. 761/2001 ir Komisijos sprendimus 2001/681/EB bei 2006/193/EB, su visais pakeitimais. ^s-b393bb3e0e9d45a4b040bb5d
+2. Nustatant [[#^s-541a33035bd91f5b94933cec|šio straipsnio 1 dalyje]] nurodytų įmonių patikrinimų dažnumą, atsižvelgiama į aplinkos apsaugos vadybos sistemos (ISO 14001 standarto) ir Europos Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) įdiegimą gamyboje vadovaujantis 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1221/2009](https://eur-lex.europa.eu/eli/reg/1221/2009/oj) dėl organizacijų savanoriško Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) taikymo, panaikinančiu Reglamentą (EB) Nr. 761/2001 ir Komisijos sprendimus 2001/681/EB bei 2006/193/EB, su visais pakeitimais. ^s-b393bb3e0e9d45a4b040bb5d
 Straipsnio dalies pakeitimai:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
@@ -1680,13 +1680,13 @@ Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
 ### 121 straipsnis. Alyvos atliekos ^s-6a4a0f2c620c9fa79003613b
 
 
-1. Vadovaujantis šio Įstatymo 14, 15 ir [[#^s-39798594bc0a56f21acaa05d|17 straipsniais]], būtina: ^s-12af88760ab3234e02854854
+1. Vadovaujantis šio Įstatymo [[#^s-208ff3350f62e7730a19888b|14]], [[#^s-8fa0a3854e529b1268dc1048|15]] ir [[#^s-39798594bc0a56f21acaa05d|17]] straipsniais, būtina: ^s-12af88760ab3234e02854854
 
 
 1) alyvos atliekas rūšiuoti jų susidarymo vietoje ir, jeigu yra techninės galimybės, surinkti atskirai; ^s-b17ed8069093957ec72742ef
 
 
-2) alyvos atliekas apdoroti pagal šio Įstatymo 3 ir [[#^s-dd1ffddd71ad88c813f3eb47|41 straipsnių]] reikalavimus. Apdorojant alyvos atliekas, pirmenybę teikti alyvos regeneravimui arba kitoms perdirbimo veikloms, kurios, vertinant alyvos atliekų geriausiai prieinamus gamybos būdus, yra lygiavertės alyvos atliekų regeneracijai; ^s-21b48ba9c6ef85f19a85195b
+2) alyvos atliekas apdoroti pagal šio Įstatymo [[#^s-9aa1282f06a1b03a7258fe31|3]] ir [[#^s-dd1ffddd71ad88c813f3eb47|41]] straipsnių reikalavimus. Apdorojant alyvos atliekas, pirmenybę teikti alyvos regeneravimui arba kitoms perdirbimo veikloms, kurios, vertinant alyvos atliekų geriausiai prieinamus gamybos būdus, yra lygiavertės alyvos atliekų regeneracijai; ^s-21b48ba9c6ef85f19a85195b
 Straipsnio punkto pakeitimai:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
@@ -1784,10 +1784,10 @@ Nr. XIII-1018, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01031
 ### 181 straipsnis. Buityje susidarančios pavojingosios atliekos ^s-4c45eebb9d270f1a97625dad
 
 
-1. Buityje susidarančioms mišrioms atliekoms netaikomi šio Įstatymo 7, 9, 13, 14, 15 ir [[#^s-39798594bc0a56f21acaa05d|17 straipsnių]] reikalavimai. ^s-e3ef52e2348966230f13f290
+1. Buityje susidarančioms mišrioms atliekoms netaikomi šio Įstatymo [[#^s-9e710202f0caba702e24a997|7]], [[#^s-2ccab1fd386c16be98ad2b7c|9]], [[#^s-db81f67aacc15fe9d6f0c40c|13]], [[#^s-208ff3350f62e7730a19888b|14]], [[#^s-8fa0a3854e529b1268dc1048|15]] ir [[#^s-39798594bc0a56f21acaa05d|17]] straipsnių reikalavimai. ^s-e3ef52e2348966230f13f290
 
 
-2. Buityje susidarančioms pavojingosioms atliekoms šio Įstatymo 7, 9, 15 ir [[#^s-39798594bc0a56f21acaa05d|17 straipsnių]] reikalavimai netaikomi tol, kol jas priima atliekas surenkanti, šalinanti arba naudojanti įmonė, kuri turi leidimą ir (ar) yra registruota Atliekų tvarkytojų registro informacinėje sistemoje. ^s-7234f83c77a560aa0411c435
+2. Buityje susidarančioms pavojingosioms atliekoms šio Įstatymo [[#^s-9e710202f0caba702e24a997|7]], [[#^s-2ccab1fd386c16be98ad2b7c|9]], [[#^s-8fa0a3854e529b1268dc1048|15]] ir [[#^s-39798594bc0a56f21acaa05d|17]] straipsnių reikalavimai netaikomi tol, kol jas priima atliekas surenkanti, šalinanti arba naudojanti įmonė, kuri turi leidimą ir (ar) yra registruota Atliekų tvarkytojų registro informacinėje sistemoje. ^s-7234f83c77a560aa0411c435
 Straipsnio dalies pakeitimai:
 Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 
@@ -1801,7 +1801,7 @@ Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
 ### 182 straipsnis. Laivų perdirbimas ir pavojingųjų medžiagų kontrolė laivuose ^s-dac6a279547833890adebf63
 
 
-1. Laivų perdirbimas vykdomas pagal Lietuvos Respublikos teisės aktuose, 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1257/2013 dėl laivų perdirbimo, kuriuo iš dalies keičiami Reglamentas (EB) Nr. 1013/2006 ir Direktyva 2009/16/EB, ir tarptautinėse sutartyse nustatytus reikalavimus. ^s-eb7126ebef4567e94246c6c3
+1. Laivų perdirbimas vykdomas pagal Lietuvos Respublikos teisės aktuose, 2013 m. lapkričio 20 d. Europos Parlamento ir Tarybos [reglamente (ES) Nr. 1257/2013](https://eur-lex.europa.eu/eli/reg/1257/2013/oj) dėl laivų perdirbimo, kuriuo iš dalies keičiami [Reglamentas (EB) Nr. 1013/2006](https://eur-lex.europa.eu/eli/reg/1013/2006/oj) ir Direktyva 2009/16/EB, ir tarptautinėse sutartyse nustatytus reikalavimus. ^s-eb7126ebef4567e94246c6c3
 Straipsnio dalies pakeitimai:
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
 
@@ -2416,7 +2416,7 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 16. Organizuodamos komunalinių atliekų sraute susidarančių elektros ir elektroninės įrangos, motociklų ir lengvųjų automobilių padangų ir pakuočių atliekų tvarkymą, savivaldybės (arba savivaldybių pavedimu – komunalinių atliekų tvarkymo sistemos administratoriai, arba savivaldybių įsteigtas juridinis asmuo, kuriam savivaldybės paveda valdyti komunalinių atliekų tvarkymo sistemai priklausančias didelių gabaritų atliekų surinkimo aikšteles) privalo su gamintojais ir importuotojais, jų įsteigtomis organizacijomis sudaryti šias sutartis: ^s-084c5ce39fbe93a36ab30455
 
 
-1) šio Įstatymo 342 ir [[#^s-96af02630eb7ab6ecdbc0dd7|343 straipsniuose]] nurodytas gaminių atliekų vežimo iš komunalinių atliekų tvarkymo sistemai priklausančių didelių gabaritų atliekų surinkimo aikštelių, jų panaudojimo organizavimo ir šių aikštelių eksploatavimo išlaidų, susijusių su šio Įstatymo 342 ir [[#^s-96af02630eb7ab6ecdbc0dd7|343 straipsniuose]] nurodytų gaminių atliekų neimant papildomo mokesčio surinkimu, finansavimo proporcingai gamintojo ir (ar) importuotojo ar jų organizacijos buitinės elektros ir elektroninės įrangos užimamai rinkos daliai sutartis; ^s-23bf3afd63c320fcae43ca8c
+1) šio Įstatymo [[#^s-81f031c5140d5b53a7fda5ba|342]] ir [[#^s-96af02630eb7ab6ecdbc0dd7|343]] straipsniuose nurodytas gaminių atliekų vežimo iš komunalinių atliekų tvarkymo sistemai priklausančių didelių gabaritų atliekų surinkimo aikštelių, jų panaudojimo organizavimo ir šių aikštelių eksploatavimo išlaidų, susijusių su šio Įstatymo [[#^s-81f031c5140d5b53a7fda5ba|342]] ir [[#^s-96af02630eb7ab6ecdbc0dd7|343]] straipsniuose nurodytų gaminių atliekų neimant papildomo mokesčio surinkimu, finansavimo proporcingai gamintojo ir (ar) importuotojo ar jų organizacijos buitinės elektros ir elektroninės įrangos užimamai rinkos daliai sutartis; ^s-23bf3afd63c320fcae43ca8c
 
 
 2) [[latest/TAR.9D1ADB9E1518#^s-9f37e8db1074880a64783125|Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnyje]] nurodytas bendradarbiavimo sutartis ir pakuočių atliekų tvarkymo organizavimo ir finansavimo sutartis, kaip numatyta [[#^s-884725b3638d39f045fa16a7|šio straipsnio 162 dalyje]]; ^s-cc2a1bed76ba9c79b1c02c74
@@ -2498,7 +2498,7 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 
 
 
-19. Siekdamos komunalinių atliekų tvarkymo paslaugų kainodaroje vadovautis atliekų tvarkymo srityje taikomu principu „teršėjas moka“, savivaldybės (arba savivaldybių įsteigti juridiniai asmenys, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) privalo su gamintojais ir importuotojais, jų įsteigtomis organizacijomis kiekvienais kalendoriniais metais iki vasario 1 dienos sudaryti [[latest/TAR.9D1ADB9E1518#^s-9f37e8db1074880a64783125|Pakuočių ir pakuočių atliekų tvarkymo įstatymo 72 ir 10 straipsniuose]] nurodytas vienkartinių plastikinių gaminių atliekų ir šiukšlių išrinkimo ir tvarkymo finansavimo sutartis. Komunalinių atliekų sraute susidarančių vienkartinių plastikinių gaminių atliekų ir šiukšlių surinkėjus, vežėjus, apdorotojus savivaldybės turi išrinkti Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka. Aplinkos ministras tvirtina šių atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų rekomendacijas. ^s-38dd3e067494d57d720ade5a
+19. Siekdamos komunalinių atliekų tvarkymo paslaugų kainodaroje vadovautis atliekų tvarkymo srityje taikomu principu „teršėjas moka“, savivaldybės (arba savivaldybių įsteigti juridiniai asmenys, kuriems pavesta administruoti komunalinių atliekų tvarkymo sistemą) privalo su gamintojais ir importuotojais, jų įsteigtomis organizacijomis kiekvienais kalendoriniais metais iki vasario 1 dienos sudaryti [[latest/TAR.9D1ADB9E1518|Pakuočių ir pakuočių atliekų tvarkymo įstatymo]] [[latest/TAR.9D1ADB9E1518#^s-65d717329b532bf3da0cac8a|72]] ir [[latest/TAR.9D1ADB9E1518#^s-9f37e8db1074880a64783125|10]] straipsniuose nurodytas vienkartinių plastikinių gaminių atliekų ir šiukšlių išrinkimo ir tvarkymo finansavimo sutartis. Komunalinių atliekų sraute susidarančių vienkartinių plastikinių gaminių atliekų ir šiukšlių surinkėjus, vežėjus, apdorotojus savivaldybės turi išrinkti Lietuvos Respublikos įstatymų ir kitų teisės aktų nustatyta tvarka. Aplinkos ministras tvirtina šių atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo, surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų rekomendacijas. ^s-38dd3e067494d57d720ade5a
 Papildyta straipsnio dalimi:
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 Straipsnio dalies pakeitimai:
@@ -2640,7 +2640,7 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 9. Savivaldybių skaičiuojamos rinkliavos ar įmokos dalies būtinosioms sąnaudoms priskiriamos savivaldybės komunalinių atliekų tvarkymo sistemos administravimo, komunalinių atliekų tvarkymo lėšų administravimo sąnaudos, komunalinių atliekų ir kitų buityje susidarančių atliekų surinkimo ir vežimo iš atliekų turėtojų paslaugų sąnaudos, komunalinių atliekų ir kitų buityje susidarančių atliekų surinkimo infrastruktūros (išskyrus didelių gabaritų atliekų surinkimo aikštelių ir (ar) kompostavimo aikštelių, kurias savivaldybių pavedimu valdo regioninis atliekų tvarkymo centras, šio Įstatymo [[#^s-4d7f0c282b4e268308f475b3|30 straipsnio 10 dalies 3 punkte]] nurodytų priemonių) įrengimo, priežiūros, atnaujinimo ir plėtros sąnaudos, savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose surinktų komunalinių atliekų ir kitų buityje susidarančių atliekų apdorojimo sąnaudos, patiriamos vykdant veiklą, nepriskiriamą reguliuojamajai veiklai, atliekų prevencijai skirtų priemonių, numatytų Vyriausybės tvirtinamame valstybiniame atliekų prevencijos ir tvarkymo plane, regioniniuose atliekų prevencijos ir tvarkymo planuose, savivaldybių atliekų prevencijos ir tvarkymo planuose, įgyvendinimo sąnaudos, patiriamos vykdant veiklą, nepriskiriamą reguliuojamajai veiklai, gaminių, pakuočių, kurių gamintojams ir (ar) importuotojams taikomas gamintojo atsakomybės principas, atliekų tvarkymo ne regioninių atliekų tvarkymo centrų valdomose didelių gabaritų atliekų surinkimo aikštelėse ir (ar) kompostavimo aikštelėse sąnaudos tokia apimtimi, kiek jų neįpareigoti finansuoti gamintojai ir (ar) importuotojai, ir (arba) jų organizacijos pagal šio Įstatymo aštuntąjį1–aštuntąjį6 ir aštuntąjį11 skirsnius ir (ar) Pakuočių ir pakuočių atliekų tvarkymo įstatymą, (toliau – savivaldybių skaičiuojamos rinkliavos ar įmokos dalies būtinosios sąnaudos). ^s-c8a60073c9448dd339222cca
 
 
-10. Savivaldybių tarybos, vadovaudamosi [[#^s-699a413486aac6c9c6728442|šio straipsnio 1 dalyje]] nustatytais principais ir [[#^s-e1980cba6d08d9c1694fbb38|šio straipsnio 2 dalyje]] nustatytais reikalavimais, taikydamos Tarybos nustatytas regionines kainas, vadovaudamosi Vyriausybės tvirtinamomis rinkliavos ar įmokos dydžio nustatymo taisyklėmis ir savivaldybių rinkliavos ar įmokos dydžio nustatymo teisės aktais, pridėdamos savivaldybių skaičiuojamos rinkliavos ar įmokos dalies būtinąsias sąnaudas, ne vėliau kaip per 7 mėnesius nuo pirmą kartą nustatytų regioninių kainų nustatymo dienos apskaičiuoja ir patvirtina naujus rinkliavos ar įmokos dydžius arba ne vėliau kaip per 5 mėnesius nuo perskaičiuotų arba vėlesnių metų naujų regioninių kainų nustatymo dienos apskaičiuoja ir patvirtina naujus arba patvirtina esamus rinkliavos ar įmokos dydžius. Sprendimą dėl patvirtintų naujų rinkliavos ar įmokos dydžių taikymo pradžios ir trukmės priima savivaldybės taryba, atsižvelgdama į Tarybos nustatytos regioninės kainos likusį galiojimo laikotarpį, naujo rinkliavos ar įmokos dydžio, perskaičiuoto dėl šio straipsnio 7 ir [[#^s-4503b1bbc0f67d22bda8b59c|11 dalyse]] ir (ar) [[latest/TAR.41CD8BF53D8D#^s-d6d0d80465e76bf420af79a3|Lietuvos Respublikos rinkliavų įstatymo 13 straipsnio 3 dalyje]] nurodytų priežasčių, patvirtinimo datą. Jeigu savivaldybės taryba per šioje dalyje nurodytą terminą nepatvirtina naujų arba esamų rinkliavos ar įmokos dydžių, taikomi rinkliavos ar įmokos dydžiai, galioję iki naujų apskaičiuotų regioninių kainų dydžių (toliau – seni rinkliavos ar įmokos dydžiai). Jeigu pasibaigus šioje dalyje nustatytam terminui patvirtinti nauji rinkliavos ar įmokos dydžiai yra didesni už senus rinkliavos ar įmokos dydžius, savivaldybei ar komunalinių atliekų tvarkymo sistemos administratoriui apskaičiuojant sumas, mokėtinas atliekų turėtojų už komunalinių atliekų tvarkymo paslaugą per laikotarpį nuo šioje dalyje nurodyto naujų rinkliavos ar įmokos dydžių patvirtinimo termino pabaigos iki faktinio naujų rinkliavos ar įmokos dydžių įsigaliojimo dienos, taikomi seni rinkliavos ar įmokos dydžiai. Dėl šioje dalyje nustatyto termino nesilaikymo susidariusį sumų, mokėtinų už komunalinių atliekų tvarkymo paslaugą, skirtumą savivaldybės kompensuoja iš savivaldybių biudžetų lėšų. Jeigu pasibaigus šioje dalyje nustatytam terminui patvirtinti nauji rinkliavos ar įmokos dydžiai yra mažesni už senus rinkliavos ar įmokos dydžius, savivaldybė arba savivaldybės pavedimu komunalinių atliekų tvarkymo sistemos administratorius perskaičiuoja sumas, mokėtinas atliekų turėtojų už komunalinių atliekų tvarkymo paslaugą per laikotarpį nuo šioje dalyje nurodyto naujų rinkliavos ar įmokos dydžių patvirtinimo termino pabaigos iki faktinio naujų rinkliavos ar įmokos dydžių įsigaliojimo dienos, ir grąžina atliekų turėtojams permokėtas sumas arba užskaito šias sumas kaip dalį būsimų rinkliavos ar įmokos mokėjimų už komunalinių atliekų tvarkymo paslaugą. ^s-1ff08a44943ee086380afc03
+10. Savivaldybių tarybos, vadovaudamosi [[#^s-699a413486aac6c9c6728442|šio straipsnio 1 dalyje]] nustatytais principais ir [[#^s-e1980cba6d08d9c1694fbb38|šio straipsnio 2 dalyje]] nustatytais reikalavimais, taikydamos Tarybos nustatytas regionines kainas, vadovaudamosi Vyriausybės tvirtinamomis rinkliavos ar įmokos dydžio nustatymo taisyklėmis ir savivaldybių rinkliavos ar įmokos dydžio nustatymo teisės aktais, pridėdamos savivaldybių skaičiuojamos rinkliavos ar įmokos dalies būtinąsias sąnaudas, ne vėliau kaip per 7 mėnesius nuo pirmą kartą nustatytų regioninių kainų nustatymo dienos apskaičiuoja ir patvirtina naujus rinkliavos ar įmokos dydžius arba ne vėliau kaip per 5 mėnesius nuo perskaičiuotų arba vėlesnių metų naujų regioninių kainų nustatymo dienos apskaičiuoja ir patvirtina naujus arba patvirtina esamus rinkliavos ar įmokos dydžius. Sprendimą dėl patvirtintų naujų rinkliavos ar įmokos dydžių taikymo pradžios ir trukmės priima savivaldybės taryba, atsižvelgdama į Tarybos nustatytos regioninės kainos likusį galiojimo laikotarpį, naujo rinkliavos ar įmokos dydžio, perskaičiuoto dėl šio straipsnio [[#^s-e6dad8393065e4e4621cdd62|7]] ir [[#^s-4503b1bbc0f67d22bda8b59c|11]] dalyse ir (ar) [[latest/TAR.41CD8BF53D8D#^s-d6d0d80465e76bf420af79a3|Lietuvos Respublikos rinkliavų įstatymo 13 straipsnio 3 dalyje]] nurodytų priežasčių, patvirtinimo datą. Jeigu savivaldybės taryba per šioje dalyje nurodytą terminą nepatvirtina naujų arba esamų rinkliavos ar įmokos dydžių, taikomi rinkliavos ar įmokos dydžiai, galioję iki naujų apskaičiuotų regioninių kainų dydžių (toliau – seni rinkliavos ar įmokos dydžiai). Jeigu pasibaigus šioje dalyje nustatytam terminui patvirtinti nauji rinkliavos ar įmokos dydžiai yra didesni už senus rinkliavos ar įmokos dydžius, savivaldybei ar komunalinių atliekų tvarkymo sistemos administratoriui apskaičiuojant sumas, mokėtinas atliekų turėtojų už komunalinių atliekų tvarkymo paslaugą per laikotarpį nuo šioje dalyje nurodyto naujų rinkliavos ar įmokos dydžių patvirtinimo termino pabaigos iki faktinio naujų rinkliavos ar įmokos dydžių įsigaliojimo dienos, taikomi seni rinkliavos ar įmokos dydžiai. Dėl šioje dalyje nustatyto termino nesilaikymo susidariusį sumų, mokėtinų už komunalinių atliekų tvarkymo paslaugą, skirtumą savivaldybės kompensuoja iš savivaldybių biudžetų lėšų. Jeigu pasibaigus šioje dalyje nustatytam terminui patvirtinti nauji rinkliavos ar įmokos dydžiai yra mažesni už senus rinkliavos ar įmokos dydžius, savivaldybė arba savivaldybės pavedimu komunalinių atliekų tvarkymo sistemos administratorius perskaičiuoja sumas, mokėtinas atliekų turėtojų už komunalinių atliekų tvarkymo paslaugą per laikotarpį nuo šioje dalyje nurodyto naujų rinkliavos ar įmokos dydžių patvirtinimo termino pabaigos iki faktinio naujų rinkliavos ar įmokos dydžių įsigaliojimo dienos, ir grąžina atliekų turėtojams permokėtas sumas arba užskaito šias sumas kaip dalį būsimų rinkliavos ar įmokos mokėjimų už komunalinių atliekų tvarkymo paslaugą. ^s-1ff08a44943ee086380afc03
 
 
 11. Taikant rinkliavą ar įmoką savivaldybėje, savivaldybė ar jos pavedimu komunalinių atliekų tvarkymo sistemos administratorius turi užtikrinti savivaldybėje faktiškai patiriamų komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo ir atliekų prevencijos priemonių įgyvendinimo sąnaudų, kurios [[#^s-1ff08a44943ee086380afc03|šio straipsnio 10 dalyje]] nustatyta tvarka turi būti įskaičiuotos į rinkliavos ar įmokos dydį, apmokėjimą regioniniam atliekų tvarkymo centrui ir atliekų tvarkytojams. Jeigu savivaldybėje faktiškai patiriamos komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo ir atliekų prevencijos priemonių įgyvendinimo sąnaudos viršija atliekų turėtojų per kalendorinius metus sumokėtą rinkliavos ar įmokos lėšų sumą arba yra už ją mažesnės, savivaldybės turi iš naujo įvertinti savivaldybių skaičiuojamos rinkliavos ar įmokos dalies būtinąsias sąnaudas ir (arba) inicijuoti regioninės kainos koregavimą [[#^s-e6dad8393065e4e4621cdd62|šio straipsnio 7 dalyje]] nustatyta tvarka, perskaičiuoti ir nustatyti tokį rinkliavos ar įmokos dydį, kuris leistų užtikrinti savivaldybėje faktiškai patiriamų komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo ir atliekų prevencijos priemonių įgyvendinimo sąnaudų, kurios [[#^s-1ff08a44943ee086380afc03|šio straipsnio 10 dalyje]] nustatyta tvarka turi būti įskaičiuotos į rinkliavos ar įmokos dydį, apmokėjimą regioniniam atliekų tvarkymo centrui ir atliekų tvarkytojams. Savivaldybės taryba gali teikti lengvatas atliekų turėtojams savivaldybės biudžeto sąskaita. Lengvatos atliekų turėtojams teikiamos savivaldybės tarybos nustatyta tvarka. ^s-4503b1bbc0f67d22bda8b59c
@@ -2783,7 +2783,7 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 7) rinkliavos ar įmokos permokų grąžinimo ir nepriemokų išieškojimo administravimą; ^s-0c2ff1eeb185a6a3b0d08378
 
 
-8) savivaldybės vykdomosios institucijos [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatymo]] nustatyta tvarka įgalioto asmens sprendimų dėl lengvatų suteikimo atliekų turėtojams, mokantiems rinkliavą ar įmoką, projektų parengimą savivaldybės tarybos nustatyta tvarka. ^s-8a92494e1a7e9ccd3bd31e30
+8) savivaldybės vykdomosios institucijos [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatymo]] nustatyta tvarka įgalioto asmens sprendimų [dėl lengvatų suteikimo](https://e-tar.lt/portal/lt/legalAct/c115c970e16011e7b3f0a470b0373cb2) atliekų turėtojams, mokantiems rinkliavą ar įmoką, projektų parengimą savivaldybės tarybos nustatyta tvarka. ^s-8a92494e1a7e9ccd3bd31e30
 
 
 2. Komunalinių atliekų tvarkymo lėšų administravimo sąnaudomis laikomos juridinio asmens, savivaldybės pavedimu atliekančio komunalinių atliekų tvarkymo lėšų administravimo funkcijas, sąnaudos, patirtos apskaičiuojant ir surenkant rinkliavą ar įmokas, išrašant sąskaitas už komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymą savivaldybių organizuojamose komunalinių atliekų tvarkymo sistemose, darbuotojų atlyginimų ir biuro eksploatavimo sąnaudos, susijusios su komunalinių atliekų tvarkymo lėšų administravimo funkcijomis. ^s-a97e7da544d086c4c62379e2
@@ -2898,7 +2898,7 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 3) patikrinimo metu naudoti technines priemones; ^s-8039ec353cbe494f3adcb3c6
 
 
-4) pasitelkti [[#^s-de794abfadca5a0440125ab3|šio straipsnio 1 dalies]] 5 ir [[#^s-44d0733af53f17124165fb42|6 punktuose]] nurodytus asmenis patikrinimo veiksmams atlikti; ^s-8b46dead498503e10b54a70d
+4) pasitelkti [[#^s-de794abfadca5a0440125ab3|šio straipsnio 1 dalies]] [[#^s-ec7c2e152adc9a0945f0ec53|5]] ir [[#^s-44d0733af53f17124165fb42|6]] punktuose nurodytus asmenis patikrinimo veiksmams atlikti; ^s-8b46dead498503e10b54a70d
 
 
 5) tikrinti asmenų tapatybę patvirtinančius dokumentus; ^s-ec7c2e152adc9a0945f0ec53
@@ -2984,7 +2984,7 @@ Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
 2) už Tarybos teisės aktų nustatytų reguliuojamosios veiklos sąlygų pažeidimą arba jų nevykdymą, už Tarybos įpareigojimų (nurodymų) nevykdymą arba vykdymą ne laiku – iki 10 procentų regioninio atliekų tvarkymo centro ar bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo metinių pajamų, gautų praėjusiais finansiniais metais iš konkrečios reguliuojamosios veiklos, kurią vykdant padarytas pažeidimas; ^s-ad6c83e65c29e5cf976d2ed5
 
 
-3) regioniniam atliekų tvarkymo centrui, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui už Tarybos, jos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, ar asmenų, nurodytų šio Įstatymo [[#^s-de794abfadca5a0440125ab3|308 straipsnio 1 dalies]] 5 ir 6 punktuose, reikalavimų, duotų atliekant šio Įstatymo [[#^s-b8feb15ce1ffbc6bd2cb7ead|308 straipsnyje]] nurodytus veiksmus, nevykdymą – iki 0,5 procento regioninio atliekų tvarkymo centro, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo metinių pajamų, gautų praėjusiais finansiniais metais. Kitiems juridiniams asmenims už šioje dalyje nurodytus pažeidimus Taryba skiria baudą iki 6 000 eurų. ^s-553702468a37609d1c7b9202
+3) regioniniam atliekų tvarkymo centrui, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui už Tarybos, jos įgaliotų Tarybos administracijos valstybės tarnautojų ir darbuotojų, dirbančių pagal darbo sutartis, ar asmenų, nurodytų šio Įstatymo [[#^s-de794abfadca5a0440125ab3|308 straipsnio 1 dalies]] [[#^s-c72f84f61efc2ac4caff1417|5]] ir [[#^s-e5438a00a8f58748a9518bc9|6]] punktuose, reikalavimų, duotų atliekant šio Įstatymo [[#^s-b8feb15ce1ffbc6bd2cb7ead|308 straipsnyje]] nurodytus veiksmus, nevykdymą – iki 0,5 procento regioninio atliekų tvarkymo centro, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo metinių pajamų, gautų praėjusiais finansiniais metais. Kitiems juridiniams asmenims už šioje dalyje nurodytus pažeidimus Taryba skiria baudą iki 6 000 eurų. ^s-553702468a37609d1c7b9202
 
 
 2. Kai nesąžiningos konkurencijos veiksmus ar vartotojų nediskriminavimo principų pažeidimą komunalinių atliekų ar komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo sektoriuje pagal kompetenciją tiria Konkurencijos taryba, šių veiksmų tyrimas atliekamas, privalomi nurodymai regioniniam atliekų tvarkymo centrui, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojui duodami ir atsakomybė už pažeidimus nustatoma [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymo]] nustatyta tvarka ir sąlygomis. Šiuo tikslu Taryba ir Konkurencijos taryba bendradarbiauja tarpusavyje, siekdamos efektyviai nustatyti nesąžiningos konkurencijos veiksmų ar vartotojų nediskriminavimo principų pažeidimų komunalinių atliekų ar komunalinių atliekų ir kitų buityje susidarančių atliekų tvarkymo sektoriuje mastą ir poveikį komunalinių atliekų tvarkymo paslaugos vartotojams ir (ar) kitiems regioniniams atliekų tvarkymo centrams, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojams. Regioniniai atliekų tvarkymo centrai, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojai už tuos pačius pažeidimus atsako tik pagal šį įstatymą arba pagal Konkurencijos įstatymą, atsižvelgiant į nustatytą Tarybos ar Konkurencijos tarybos kompetenciją. ^s-efc7dfa867c9333761c3025f
@@ -3056,10 +3056,10 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 13. Tarybos sprendimas dėl sankcijos skyrimo per 30 kalendorinių dienų nuo jo priėmimo dienos gali būti skundžiamas teismui [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-e165059bf8a6516bcb98c0b1
 
 
-14. Tarybos sprendimas dėl baudos skyrimo įsigalioja po 30 kalendorinių dienų nuo jo priėmimo dienos, jeigu per šį laiką įstatymų nustatyta tvarka sprendimas nebuvo apskųstas teismui. Tuo atveju, jeigu Taryba sprendimu ne tik skiria sankciją, bet ir nustato įpareigojimus, Tarybos sprendimo dalis dėl įpareigojimų nustatymo įsigalioja sprendimo priėmimo dieną, jeigu pačiame sprendime nenustatyta vėlesnė jo įsigaliojimo data. Tarybos sprendimo dėl įpareigojimų nustatymo apskundimas teismui įpareigojimų vykdymo nesustabdo, jeigu teismas nenusprendžia kitaip. ^s-202214a6c3e8bd0c4dd15e51
+14. Tarybos sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo įsigalioja po 30 kalendorinių dienų nuo jo priėmimo dienos, jeigu per šį laiką įstatymų nustatyta tvarka sprendimas nebuvo apskųstas teismui. Tuo atveju, jeigu Taryba sprendimu ne tik skiria sankciją, bet ir nustato įpareigojimus, Tarybos sprendimo dalis dėl įpareigojimų nustatymo įsigalioja sprendimo priėmimo dieną, jeigu pačiame sprendime nenustatyta vėlesnė jo įsigaliojimo data. Tarybos sprendimo dėl įpareigojimų nustatymo apskundimas teismui įpareigojimų vykdymo nesustabdo, jeigu teismas nenusprendžia kitaip. ^s-202214a6c3e8bd0c4dd15e51
 
 
-15. Tarybos sprendimas dėl sankcijos skyrimo yra vykdomasis dokumentas. Regioninio atliekų tvarkymo centro, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų nesumokėta bauda ir palūkanos išieškomos į valstybės biudžetą. Tarybos sprendimas pateikiamas vykdyti antstoliui Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka ne vėliau kaip per vienus metus nuo Tarybos nutarimo, kuriuo ūkio subjektui ar viešojo administravimo subjektui skirta bauda, priėmimo dienos. Šis terminas pratęsiamas tiek laiko, kiek buvo atidėtas baudos mokėjimas ir sustabdytas baudos ir palūkanų priverstinis išieškojimas. ^s-978626ff6450552d5aaad033
+15. Tarybos sprendimas dėl sankcijos skyrimo yra vykdomasis dokumentas. Regioninio atliekų tvarkymo centro, bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojų nesumokėta bauda ir palūkanos išieškomos į valstybės biudžetą. Tarybos sprendimas pateikiamas vykdyti antstoliui [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka ne vėliau kaip per vienus metus nuo Tarybos nutarimo, kuriuo ūkio subjektui ar viešojo administravimo subjektui skirta bauda, priėmimo dienos. Šis terminas pratęsiamas tiek laiko, kiek buvo atidėtas baudos mokėjimas ir sustabdytas baudos ir palūkanų priverstinis išieškojimas. ^s-978626ff6450552d5aaad033
 
 
 16. Tarybos sprendimo dėl sankcijos skyrimo ir įpareigojimų nustatymo nuorašas asmeniui išsiunčiamas ne vėliau kaip per 3 darbo dienas nuo jo priėmimo. ^s-bc3ddaec6a502f3380377115
@@ -3137,7 +3137,7 @@ IŠANKSTINĖ GINČŲ SPRENDIMO IR SKUNDŲ NAGRINĖJIMO TVARKA
 1. Atliekų turėtojų skundus dėl jiems nustatytos (apskaičiuotos) rinkliavos ar įmokos, rinkliavos ar įmokos lengvatų pritaikymo [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatyme]] ir savivaldybės tarybos patvirtintose ginčų ir skundų nagrinėjimo taisyklėse nustatyta tvarka savivaldybės pavedimu pirmiausia nagrinėja komunalinių atliekų tvarkymo sistemos administratorius arba juridinis asmuo, savivaldybės pavedimu atliekantis komunalinių atliekų tvarkymo lėšų administravimo funkcijas, arba savivaldybės vykdomoji institucija. Nagrinėjami tik skundai ir ginčai, dėl kurių kreipiamasi raštu. Nesutinkant su komunalinių atliekų tvarkymo sistemos administratoriaus arba juridinio asmens, savivaldybės pavedimu atliekančio komunalinių atliekų tvarkymo lėšų administravimo funkcijas, priimtu sprendimu arba kai sprendimas per nustatytus terminus nepriimamas, gali būti kreipiamasi į savivaldybės vykdomąją instituciją arba savivaldybės vykdomosios institucijos [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatyme]] nustatyta tvarka įgaliotą asmenį. Nesutinkant su savivaldybės vykdomosios institucijos arba savivaldybės vykdomosios institucijos [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatyme]] nustatyta tvarka įgalioto asmens priimtu sprendimu arba kai sprendimas per nustatytus terminus nepriimamas, savivaldybės vykdomosios institucijos arba savivaldybės vykdomosios institucijos [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatyme]] nustatyta tvarka įgalioto asmens sprendimas arba neveikimas gali būti skundžiamas [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatyme]] nustatyta tvarka išankstinio ginčų nagrinėjimo ne teismo tvarka institucijai (Lietuvos administracinių ginčų komisijai vadovaujantis [[latest/TAR.594F129CE9AD|Lietuvos Respublikos ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatyme]] nustatyta tvarka) arba administraciniam teismui. ^s-4a7934eb5abbdd012825c6fc
 
 
-2. Taryba ne teismo tvarka nagrinėja bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo ir regioninio atliekų tvarkymo centro ginčus dėl bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo taikomų komunalinių atliekų deginimo vienos tonos įkainių. Šie ginčai nagrinėjami Tarybos patvirtintose ginčų nagrinėjimo taisyklėse nustatyta tvarka. Tarybos sprendimas dėl šioje dalyje nurodytų ginčų yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas, jis gali būti priverstinai vykdomas Civilinio proceso kodekse nustatyta tvarka. Tarybos sprendimus privaloma vykdyti, jeigu nė viena šalis per 30 kalendorinių dienų nuo Tarybos sprendimo dėl ginčo esmės priėmimo nepareiškia ieškinio bendrosios kompetencijos teisme Civilinio proceso kodekse nustatyta tvarka, prašydama nagrinėti ginčą iš esmės. ^s-764117a58a34e0889cf90cd8
+2. Taryba ne teismo tvarka nagrinėja bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo ir regioninio atliekų tvarkymo centro ginčus dėl bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo taikomų komunalinių atliekų deginimo vienos tonos įkainių. Šie ginčai nagrinėjami Tarybos patvirtintose ginčų nagrinėjimo taisyklėse nustatyta tvarka. Tarybos sprendimas dėl šioje dalyje nurodytų ginčų yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas, jis gali būti priverstinai vykdomas [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Tarybos sprendimus privaloma vykdyti, jeigu nė viena šalis per 30 kalendorinių dienų nuo Tarybos sprendimo dėl ginčo esmės priėmimo nepareiškia ieškinio bendrosios kompetencijos teisme [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka, prašydama nagrinėti ginčą iš esmės. ^s-764117a58a34e0889cf90cd8
 
 
 3. Tarybos procedūriniai sprendimai, priimti nagrinėjant regioninio atliekų tvarkymo centro ir bendro atliekų deginimo įrenginio ir (ar) atliekų deginimo įrenginio valdytojo ginčą, įskaitant sprendimus atsisakyti nagrinėti ginčą, sustabdyti ar nutraukti ginčo nagrinėjimą, ir kiti sprendimai, užkertantys kelią nagrinėti ginčą, per 7 kalendorines dienas nuo sprendimo įteikimo suinteresuotam asmeniui dienos gali būti skundžiami bendrosios kompetencijos teismui. Teismo nutartys dėl šioje dalyje nurodytų sprendimų neskundžiamos. ^s-bc75fc89bee7fc2c1f252f72
@@ -3393,7 +3393,7 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 11. [[#^s-465afda7da3b88998c6eeb51|Šio straipsnio 10 dalyje]] nenurodytų ne buitinių elektros ir elektroninės įrangos atliekų tvarkymą turi užtikrinti šių atliekų turėtojai – perduoti tokias atliekas turinčiam teisę tvarkyti atliekų tvarkytojui. ^s-317577c8effa294eae6813c2
 
 
-12. Gamintojai ir importuotojai gali susitarti su atliekų turėtojais ir ne buitinių elektros ir elektroninės įrangos atliekų tvarkymą finansuoti kitaip, negu nurodyta šio straipsnio 10 ir [[#^s-317577c8effa294eae6813c2|11 dalyse]]. Tokie susitarimai turi užtikrinti, kad elektros ir elektroninės įrangos atliekos bus surinktos ir sutvarkytos laikantis šio Įstatymo ir kitų teisės aktų reikalavimų. ^s-3e2dcdc17c72c30c316b1e3f
+12. Gamintojai ir importuotojai gali susitarti su atliekų turėtojais ir ne buitinių elektros ir elektroninės įrangos atliekų tvarkymą finansuoti kitaip, negu nurodyta šio straipsnio [[#^s-465afda7da3b88998c6eeb51|10]] ir [[#^s-317577c8effa294eae6813c2|11]] dalyse. Tokie susitarimai turi užtikrinti, kad elektros ir elektroninės įrangos atliekos bus surinktos ir sutvarkytos laikantis šio Įstatymo ir kitų teisės aktų reikalavimų. ^s-3e2dcdc17c72c30c316b1e3f
 
 
 13. Elektros ir elektroninės įrangos gamintojai ir importuotojai, parduodami elektros ir elektroninę įrangą, pardavimo dokumentuose vartotojams gali atskirai nurodyti šios įrangos atliekų tvarkymo, tai yra surinkimo, apdorojimo ir aplinkai tinkamo šalinimo, išlaidas. Šios išlaidos negali viršyti realių elektros ir elektroninės įrangos atliekų tvarkymo išlaidų. ^s-5aeca9c6c6085c53fb36067b
@@ -3411,7 +3411,7 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 17. Be pareigos, nurodytos [[#^s-4e817cf1018eea28badf269d|šio straipsnio 16 dalyje]], platintojai privalo nemokamai priimti vartotojo atiduodamas smulkios elektros ir elektroninės įrangos atliekas, kurių išoriniai matmenys ne didesni kaip 25 cm, mažmeninės prekybos parduotuvėse, kurių prekybinis plotas užima bent 400 m2, joms priklausančiose teritorijose arba šalia parduotuvių, tačiau ne didesniu kaip 150 metrų atstumu nuo jų, ir tuo atveju, jeigu vartotojo atiduodamos elektros ir elektroninės įrangos atliekos nėra tos pačios paskirties kaip platintojo parduodama elektros ir elektroninė įranga. ^s-b0db87801ebf817eacea13e9
 
 
-18. Platintojai gali nesilaikyti šio straipsnio 16 ir [[#^s-b0db87801ebf817eacea13e9|17 dalyse]] nustatytų reikalavimų ir nemokamai nepriimti vartotojo atiduodamų elektros ir elektroninės įrangos atliekų, jeigu šias atliekas sudaro elektros ir elektroninė įranga be pagrindinių tokios įrangos dalių ar jose yra atliekų, nepriskiriamų elektros ir elektroninės įrangos atliekoms, ir (ar) atliekos dėl užterštumo kelia pavojų darbuotojų saugumui ir sveikatai. Elektros ir elektroninės įrangos atliekų, kai jos dėl užterštumo kelia pavojų darbuotojų saugumui ir sveikatai, priėmimo tvarką nustato Aplinkos ministerija. ^s-7a81d867a6efa0ccdd27fc93
+18. Platintojai gali nesilaikyti šio straipsnio [[#^s-4e817cf1018eea28badf269d|16]] ir [[#^s-b0db87801ebf817eacea13e9|17]] dalyse nustatytų reikalavimų ir nemokamai nepriimti vartotojo atiduodamų elektros ir elektroninės įrangos atliekų, jeigu šias atliekas sudaro elektros ir elektroninė įranga be pagrindinių tokios įrangos dalių ar jose yra atliekų, nepriskiriamų elektros ir elektroninės įrangos atliekoms, ir (ar) atliekos dėl užterštumo kelia pavojų darbuotojų saugumui ir sveikatai. Elektros ir elektroninės įrangos atliekų, kai jos dėl užterštumo kelia pavojų darbuotojų saugumui ir sveikatai, priėmimo tvarką nustato Aplinkos ministerija. ^s-7a81d867a6efa0ccdd27fc93
 
 
 19. Iš vartotojų priimtas buitines elektros ir elektroninės įrangos atliekas platintojai gali nemokamai (pasirinktinai): ^s-a53a0fe2b1126fa4cb1102b3
@@ -3429,7 +3429,7 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 21. Gamintojo ir importuotojo pageidavimu platintojas turi vartotojui nurodyti elektros ir elektroninės įrangos atliekų tvarkymo išlaidas. ^s-d57eb8178b8c938b44abcbb5
 
 
-22. Šio straipsnio 15, 16, 18, 19, 20 ir [[#^s-d57eb8178b8c938b44abcbb5|21 dalių]] reikalavimai taip pat taikomi platintojams, kurie Lietuvos Respublikos vidaus rinkai verslo tikslais tiekdami elektros ir elektroninę įrangą naudojasi nuotolinio ryšio priemonėmis. Šiuo atveju vartotojams turi būti sudarytos sąlygos atiduoti elektros ir elektroninės įrangos atliekas elektros ir elektroninės įrangos atsiėmimo vietoje. Informacija, kurioje aiškiai nurodoma, kam ir kokiais būdais vartotojas gali atiduoti elektros ir elektroninės įrangos atliekas, turi būti paskelbta gerai matomoje vietoje platintojo naudojamoje interneto parduotuvės svetainėje. ^s-96d647028a36e56c9246f71d
+22. Šio straipsnio [[#^s-5adf873b44281ef0a6f47406|15]], [[#^s-4e817cf1018eea28badf269d|16]], [[#^s-7a81d867a6efa0ccdd27fc93|18]], [[#^s-a53a0fe2b1126fa4cb1102b3|19]], [[#^s-4e51c2ab2a2b579875b97ee5|20]] ir [[#^s-d57eb8178b8c938b44abcbb5|21]] dalių reikalavimai taip pat taikomi platintojams, kurie Lietuvos Respublikos vidaus rinkai verslo tikslais tiekdami elektros ir elektroninę įrangą naudojasi nuotolinio ryšio priemonėmis. Šiuo atveju vartotojams turi būti sudarytos sąlygos atiduoti elektros ir elektroninės įrangos atliekas elektros ir elektroninės įrangos atsiėmimo vietoje. Informacija, kurioje aiškiai nurodoma, kam ir kokiais būdais vartotojas gali atiduoti elektros ir elektroninės įrangos atliekas, turi būti paskelbta gerai matomoje vietoje platintojo naudojamoje interneto parduotuvės svetainėje. ^s-96d647028a36e56c9246f71d
 
 
 23. Atliekų turėtojas privalo atskirti elektros ir elektroninės įrangos atliekas nuo kitų atliekų, nemaišyti jų su kitomis atliekomis ar medžiagomis, jų neardyti. ^s-5a92633724f1b51de0f4145b
@@ -3473,10 +3473,10 @@ Nr. XII-832, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04870
 ### 342 straipsnis. Papildomi kolektyvaus elektros ir elektroninės įrangos atliekų tvarkymo organizavimo reikalavimai ^s-81f031c5140d5b53a7fda5ba
 
 
-1. Siekdami kolektyviai organizuoti elektros ir elektroninės įrangos atliekų tvarkymą, gamintojai ir importuotojai gali steigti šio Įstatymo [[#^s-ab5b7994e88289a8b5ee9b6c|3422 straipsnyje]] nurodytą gamintojų ir importuotojų organizaciją (toliau – Organizacija) ir (ar) tapti įsteigtos Organizacijos dalyviais, jai pavesti organizuoti elektros ir elektroninės įrangos atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-57986cd6a7613f333dc1762e|341 straipsnio 1 dalies]] 2, 3, 4, 6 punktuose ir 9, 10 dalyse nustatytas pareigas ar Organizacijai sutartiniais pagrindais pavesti organizuoti elektros ir elektroninės įrangos atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-57986cd6a7613f333dc1762e|341 straipsnio 1 dalies]] 2, 3, 4, 6 punktuose ir 9, 10 dalyse nustatytas pareigas netapdami Organizacijos dalyviais. Pavedant pareigas vykdyti Organizacijai, privaloma laikytis šių reikalavimų: ^s-5bfbf0d58000aba4fd68fa1d
+1. Siekdami kolektyviai organizuoti elektros ir elektroninės įrangos atliekų tvarkymą, gamintojai ir importuotojai gali steigti šio Įstatymo [[#^s-ab5b7994e88289a8b5ee9b6c|3422 straipsnyje]] nurodytą gamintojų ir importuotojų organizaciją (toliau – Organizacija) ir (ar) tapti įsteigtos Organizacijos dalyviais, jai pavesti organizuoti elektros ir elektroninės įrangos atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-57986cd6a7613f333dc1762e|341 straipsnio 1 dalies]] [[#^s-10d75c532a79a8bd3423320d|2]], [[#^s-28ff185c41e7eb72e6fbfd48|3]], [[#^s-9d57bb54cc650d6d02c21626|4]], [[#^s-3c8da7749efd1bb6b604132a|6]] punktuose ir [[#^s-56b2e060a39f48a5b3b330ec|9]], [[#^s-465afda7da3b88998c6eeb51|10]] dalyse nustatytas pareigas ar Organizacijai sutartiniais pagrindais pavesti organizuoti elektros ir elektroninės įrangos atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-57986cd6a7613f333dc1762e|341 straipsnio 1 dalies]] [[#^s-10d75c532a79a8bd3423320d|2]], [[#^s-28ff185c41e7eb72e6fbfd48|3]], [[#^s-9d57bb54cc650d6d02c21626|4]], [[#^s-3c8da7749efd1bb6b604132a|6]] punktuose ir [[#^s-56b2e060a39f48a5b3b330ec|9]], [[#^s-465afda7da3b88998c6eeb51|10]] dalyse nustatytas pareigas netapdami Organizacijos dalyviais. Pavedant pareigas vykdyti Organizacijai, privaloma laikytis šių reikalavimų: ^s-5bfbf0d58000aba4fd68fa1d
 
 
-1) Norėdami kolektyviai organizuoti elektros ir elektroninės įrangos atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-57986cd6a7613f333dc1762e|341 straipsnio 1 dalies]] 2, 3, 4, 6 punktuose ir 9, 10 dalyse nustatytas pareigas, gamintojai ir (ar) importuotojai pirmą kartą pavesti Organizacijai vykdyti šias pareigas arba pakeisti Organizaciją, kuri jų pavedimu ateinančiais kalendoriniais metais vykdys šias pareigas, gali ne vėliau kaip iki einamųjų metų gruodžio 1 dienos, išskyrus atvejus, kai gamintojai ir (ar) importuotojai elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais pradeda po gruodžio 1 dienos. ^s-0602da38c4a3f25b3aca524f
+1) Norėdami kolektyviai organizuoti elektros ir elektroninės įrangos atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-57986cd6a7613f333dc1762e|341 straipsnio 1 dalies]] [[#^s-10d75c532a79a8bd3423320d|2]], [[#^s-28ff185c41e7eb72e6fbfd48|3]], [[#^s-9d57bb54cc650d6d02c21626|4]], [[#^s-3c8da7749efd1bb6b604132a|6]] punktuose ir [[#^s-56b2e060a39f48a5b3b330ec|9]], [[#^s-465afda7da3b88998c6eeb51|10]] dalyse nustatytas pareigas, gamintojai ir (ar) importuotojai pirmą kartą pavesti Organizacijai vykdyti šias pareigas arba pakeisti Organizaciją, kuri jų pavedimu ateinančiais kalendoriniais metais vykdys šias pareigas, gali ne vėliau kaip iki einamųjų metų gruodžio 1 dienos, išskyrus atvejus, kai gamintojai ir (ar) importuotojai elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais pradeda po gruodžio 1 dienos. ^s-0602da38c4a3f25b3aca524f
 
 
 2) Gamintojai ir (ar) importuotojai, kurie elektros ir elektroninės įrangos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais pradeda po gruodžio 1 dienos, vykdyti [[#^s-0602da38c4a3f25b3aca524f|šios dalies 1 punkte]] nurodytas pareigas Organizacijai gali pavesti per vieną mėnesį nuo užsiregistravimo aplinkos ministro nustatyta tvarka Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje dienos. ^s-1c1f57b311ccd27557cd8909
@@ -3488,7 +3488,7 @@ Nr. XII-832, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04870
 4) Sustabdžius ar panaikinus Organizacijai licencijos galiojimą, per vieną mėnesį gamintojai ir (ar) importuotojai gali kitai Organizacijai pavesti einamaisiais metais vykdyti gamintojams ir (ar) importuotojams nustatytas pareigas. ^s-f0ec95b9e6aebf5a1d3a62cf
 
 
-5) Visiems gamintojams ir (ar) importuotojams, kurie šios dalies 2 ir [[#^s-f0ec95b9e6aebf5a1d3a62cf|4 punktuose]] nurodytais atvejais Organizacijai vykdyti pareigas einamaisiais metais paveda po einamųjų kalendorinių metų I ketvirčio pabaigos, turi būti taikomos vienodos pareigų vykdymo sąlygos, tai yra vienodi elektros ir elektroninės įrangos atliekų tvarkymo įkainiai, įsipareigojimas dėl Vyriausybės ar jos įgaliotos institucijos nustatytų elektros ir elektroninės įrangos atliekų tvarkymo užduočių įvykdymo lygio, bet šiuo likusiu einamųjų metų laikotarpiu jos gali skirtis nuo pareigų vykdymo sąlygų, kurios nuo šių einamųjų metų pradžios taikomos anksčiau pareigų vykdymą Organizacijai pavedusiems gamintojams ir (ar) importuotojams. ^s-ffc3b544068b9a5d584a9a13
+5) Visiems gamintojams ir (ar) importuotojams, kurie šios dalies [[#^s-1c1f57b311ccd27557cd8909|2]] ir [[#^s-f0ec95b9e6aebf5a1d3a62cf|4]] punktuose nurodytais atvejais Organizacijai vykdyti pareigas einamaisiais metais paveda po einamųjų kalendorinių metų I ketvirčio pabaigos, turi būti taikomos vienodos pareigų vykdymo sąlygos, tai yra vienodi elektros ir elektroninės įrangos atliekų tvarkymo įkainiai, įsipareigojimas dėl Vyriausybės ar jos įgaliotos institucijos nustatytų elektros ir elektroninės įrangos atliekų tvarkymo užduočių įvykdymo lygio, bet šiuo likusiu einamųjų metų laikotarpiu jos gali skirtis nuo pareigų vykdymo sąlygų, kurios nuo šių einamųjų metų pradžios taikomos anksčiau pareigų vykdymą Organizacijai pavedusiems gamintojams ir (ar) importuotojams. ^s-ffc3b544068b9a5d584a9a13
 
 
 Straipsnio dalies pakeitimai:
@@ -3573,7 +3573,7 @@ Nr. XII-832, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04870
 2) aplinkos ministro nustatyta tvarka kiekvienais metais pateikti elektros ir elektroninės įrangos atliekų tvarkymo organizavimo veiklos ataskaitą. ^s-61f76981af8cdecdc0ca0bac
 
 
-3. Šio straipsnio 1 ir [[#^s-57b9df3ca8df7bd19f633b83|2 dalių]] nuostatos netaikomos elektros ir elektroninę įrangą savoms reikmėms naudojantiems gamintojams ir (ar) importuotojams. Tokie gamintojai ir (ar) importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotos elektros ir elektroninės įrangos atliekas tvarkyti patys arba perduoti šias atliekas tokių atliekų tvarkytojui. ^s-dac9e8ac1b49efc174631c92
+3. Šio straipsnio [[#^s-924176bcb41c473e3190e36f|1]] ir [[#^s-57b9df3ca8df7bd19f633b83|2]] dalių nuostatos netaikomos elektros ir elektroninę įrangą savoms reikmėms naudojantiems gamintojams ir (ar) importuotojams. Tokie gamintojai ir (ar) importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotos elektros ir elektroninės įrangos atliekas tvarkyti patys arba perduoti šias atliekas tokių atliekų tvarkytojui. ^s-dac9e8ac1b49efc174631c92
 
 
 4. Individualiai elektros ir elektroninės įrangos atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai [[#^s-924176bcb41c473e3190e36f|šio straipsnio 1 dalies]] 2 ir 3 punktuose, 2 dalies 1 punkte nurodytas sutartis dėl elektros ir elektroninės įrangos atliekų tvarkymo sudaro su atliekų tvarkytojais, kurie pagal šio Įstatymo [[#^s-a8c71c42ffe16f8683d4d03a|3431 straipsnio 1 dalį]] turi teisę išrašyti elektros ir elektroninės įrangos atliekų sutvarkymą įrodančius dokumentus. ^s-be6f5205c752bddf65b2aa49
@@ -3733,10 +3733,10 @@ Nr. XII-832, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04870
 ### 345 straipsnis. Papildomi kolektyvaus eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo reikalavimai ^s-96e74b0bbf53f098529f32af
 
 
-1. Siekdami kolektyviai organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą, gamintojai ir (ar) importuotojai gali steigti Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais, jai pavesti organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą ir vykdyti šio Įstatymo [[#^s-50f573a5d2a2750de0873e59|344 straipsnio 1 dalies]] 2, 3, 4, 5, 7 punktuose ir [[#^s-cdf7dd8c6977af1e41b337a9|3 dalyje]] nustatytas pareigas arba Organizacijai sutartiniais pagrindais pavesti organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą ir vykdyti šio Įstatymo [[#^s-50f573a5d2a2750de0873e59|344 straipsnio 1 dalies]] 2, 3, 4, 5, 7 punktuose ir [[#^s-cdf7dd8c6977af1e41b337a9|3 dalyje]] nustatytas pareigas netapdami Organizacijos dalyviais. Pavedant pareigas vykdyti Organizacijai, privaloma laikytis šių reikalavimų: ^s-254f81e4e7c6d08c9bea1093
+1. Siekdami kolektyviai organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą, gamintojai ir (ar) importuotojai gali steigti Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais, jai pavesti organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą ir vykdyti šio Įstatymo [[#^s-50f573a5d2a2750de0873e59|344 straipsnio 1 dalies]] [[#^s-b52da2736a75c063ecc8c1b6|2]], [[#^s-3287af6cb37b9c36b3992b89|3]], [[#^s-c726c7dbd40d62d2c1ef9941|4]], [[#^s-54a00c043475775356870d7b|5]], [[#^s-a288c4519b36b9f563a080db|7]] punktuose ir [[#^s-cdf7dd8c6977af1e41b337a9|3 dalyje]] nustatytas pareigas arba Organizacijai sutartiniais pagrindais pavesti organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą ir vykdyti šio Įstatymo [[#^s-50f573a5d2a2750de0873e59|344 straipsnio 1 dalies]] [[#^s-b52da2736a75c063ecc8c1b6|2]], [[#^s-3287af6cb37b9c36b3992b89|3]], [[#^s-c726c7dbd40d62d2c1ef9941|4]], [[#^s-54a00c043475775356870d7b|5]], [[#^s-a288c4519b36b9f563a080db|7]] punktuose ir [[#^s-cdf7dd8c6977af1e41b337a9|3 dalyje]] nustatytas pareigas netapdami Organizacijos dalyviais. Pavedant pareigas vykdyti Organizacijai, privaloma laikytis šių reikalavimų: ^s-254f81e4e7c6d08c9bea1093
 
 
-1) Norėdami kolektyviai organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą ir vykdyti šio Įstatymo [[#^s-50f573a5d2a2750de0873e59|344 straipsnio 1 dalies]] 2, 3, 4, 5, 7 punktuose ir [[#^s-cdf7dd8c6977af1e41b337a9|3 dalyje]] nustatytas pareigas, gamintojai ir (ar) importuotojai pirmą kartą pavesti Organizacijai vykdyti šias pareigas arba pakeisti Organizaciją, kuri jų pavedimu ateinančiais kalendoriniais metais vykdys nurodytas pareigas, gali ne vėliau kaip iki einamųjų metų gruodžio 1 dienos, išskyrus atvejus, kai gamintojai ir (ar) importuotojai transporto priemonių tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais pradeda po gruodžio 1 dienos. ^s-7600ae2745a7e7468a8a574d
+1) Norėdami kolektyviai organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą ir vykdyti šio Įstatymo [[#^s-50f573a5d2a2750de0873e59|344 straipsnio 1 dalies]] [[#^s-b52da2736a75c063ecc8c1b6|2]], [[#^s-3287af6cb37b9c36b3992b89|3]], [[#^s-c726c7dbd40d62d2c1ef9941|4]], [[#^s-54a00c043475775356870d7b|5]], [[#^s-a288c4519b36b9f563a080db|7]] punktuose ir [[#^s-cdf7dd8c6977af1e41b337a9|3 dalyje]] nustatytas pareigas, gamintojai ir (ar) importuotojai pirmą kartą pavesti Organizacijai vykdyti šias pareigas arba pakeisti Organizaciją, kuri jų pavedimu ateinančiais kalendoriniais metais vykdys nurodytas pareigas, gali ne vėliau kaip iki einamųjų metų gruodžio 1 dienos, išskyrus atvejus, kai gamintojai ir (ar) importuotojai transporto priemonių tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais pradeda po gruodžio 1 dienos. ^s-7600ae2745a7e7468a8a574d
 
 
 2) Gamintojai ir (ar) importuotojai, kurie transporto priemonių tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais pradeda po gruodžio 1 dienos, vykdyti [[#^s-7600ae2745a7e7468a8a574d|šios dalies 1 punkte]] nurodytas pareigas Organizacijai gali pavesti per vieną mėnesį nuo užsiregistravimo aplinkos ministro nustatyta tvarka Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje dienos. ^s-036ebfcc4b2f3ce4a457a491
@@ -3748,7 +3748,7 @@ Nr. XII-832, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04870
 4) Sustabdžius ar panaikinus Organizacijai licencijos galiojimą, per vieną mėnesį gamintojai ir (ar) importuotojai gali kitai Organizacijai pavesti einamaisiais metais vykdyti gamintojams ir (ar) importuotojams nustatytas pareigas. ^s-074d35ab9e74f01f9779f8aa
 
 
-5) Visiems gamintojams ir (ar) importuotojams, kurie šios dalies 2 ir [[#^s-074d35ab9e74f01f9779f8aa|4 punktuose]] nurodytais atvejais Organizacijai vykdyti pareigas einamaisiais metais paveda po einamųjų kalendorinių metų I ketvirčio pabaigos, turi būti taikomos vienodos pareigų vykdymo sąlygos, tai yra vienodi eksploatuoti netinkamų transporto priemonių tvarkymo įkainiai, įsipareigojimas dėl Vyriausybės ar jos įgaliotos institucijos nustatytų eksploatuoti netinkamų transporto priemonių tvarkymo užduočių įvykdymo lygio, bet šiuo likusiu einamųjų metų laikotarpiu jos gali skirtis nuo pareigų vykdymo sąlygų, kurios nuo šių einamųjų metų pradžios taikomos anksčiau pareigų vykdymą Organizacijai pavedusiems gamintojams ir (ar) importuotojams. ^s-f4745a76e8bdeb35d3f1891a
+5) Visiems gamintojams ir (ar) importuotojams, kurie šios dalies [[#^s-036ebfcc4b2f3ce4a457a491|2]] ir [[#^s-074d35ab9e74f01f9779f8aa|4]] punktuose nurodytais atvejais Organizacijai vykdyti pareigas einamaisiais metais paveda po einamųjų kalendorinių metų I ketvirčio pabaigos, turi būti taikomos vienodos pareigų vykdymo sąlygos, tai yra vienodi eksploatuoti netinkamų transporto priemonių tvarkymo įkainiai, įsipareigojimas dėl Vyriausybės ar jos įgaliotos institucijos nustatytų eksploatuoti netinkamų transporto priemonių tvarkymo užduočių įvykdymo lygio, bet šiuo likusiu einamųjų metų laikotarpiu jos gali skirtis nuo pareigų vykdymo sąlygų, kurios nuo šių einamųjų metų pradžios taikomos anksčiau pareigų vykdymą Organizacijai pavedusiems gamintojams ir (ar) importuotojams. ^s-f4745a76e8bdeb35d3f1891a
 
 
 2. Eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo licencija gali būti išduodama Organizacijai, kuriai organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą kaip jos dalyviai ar sutartiniais pagrindais pavedė Lietuvos Respublikos vidaus rinkai verslo tikslais tiekiantys transporto priemones gamintojai ir (ar) importuotojai, kurių bendra užimama transporto priemonių rinkos dalis, aplinkos ministro nustatyta tvarka apskaičiuojama pagal transporto priemonių gamintojų ir importuotojų, pavedusių Organizacijai vykdyti [[#^s-254f81e4e7c6d08c9bea1093|šio straipsnio 1 dalyje]] nustatytas pareigas, deklaruotą ataskaitiniu laikotarpiu Lietuvos Respublikos vidaus rinkai verslo tikslais tiektų transporto priemonių skaičių, yra ne mažesnė kaip 10 procentų. ^s-69dbf41255531ab905feead5
@@ -3757,7 +3757,7 @@ Nr. XII-832, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04870
 3. Siekdama gauti eksploatuoti netinkamų transporto priemonių tvarkymo organizavimo licenciją ir vykdydama veiklą pagal išduotą licenciją, Organizacija su šio Įstatymo [[#^s-f332b399cddafa2d9b58600e|3425 straipsnio 1 dalyje]] ir [[#^s-73809ef3b18717bbe277bd86|3426 straipsnyje]] nurodytais dokumentais turi turėti banko garantiją ir (ar) laidavimo draudimo sutartį, įrodančią, kad visų eksploatuoti netinkamų transporto priemonių, kurios gali susikaupti per 3 mėnesius naudojant jos dalyvių ir jai organizuoti eksploatuoti netinkamų transporto priemonių tvarkymą pavedusių gamintojų ir (ar) importuotojų tiektas Lietuvos Respublikos vidaus rinkai verslo tikslais transporto priemones, tvarkymas bus finansuojamas. Tokių dokumentų sudarymo, pateikimo ir jų reikalavimų vykdymo tvarką, banko garantijos ir (ar) laidavimo draudimo sutarties sumos apskaičiavimo atsižvelgiant į eksploatuoti netinkamų transporto priemonių kiekį (vienetais) ir aplinkos ministro nustatyta tvarka apskaičiuotas eksploatuoti netinkamos transporto priemonės neigiamą rinkos vertę turinčių atliekų ir (ar) rinkos vertės neturinčių atliekų paruošimo naudoti ir (ar) šalinti, vežimo ir naudojimo vidutines sąnaudas tvarką, lėšų, gautų pagal šiuos dokumentus, kaupimo, naudojimo ir grąžinimo tvarką nustato aplinkos ministras. ^s-cdf7dd8c6977af1e41b337a9
 
 
-4. Siekdama įvykdyti šio Įstatymo [[#^s-50f573a5d2a2750de0873e59|344 straipsnio 1 dalies]] 2, 3 ir 7 punktuose transporto priemonių gamintojams ir (ar) importuotojams nustatytas pareigas, Organizacija: ^s-e0b554fcfd88f52bba687fb6
+4. Siekdama įvykdyti šio Įstatymo [[#^s-50f573a5d2a2750de0873e59|344 straipsnio 1 dalies]] [[#^s-b52da2736a75c063ecc8c1b6|2]], [[#^s-3287af6cb37b9c36b3992b89|3]] ir [[#^s-a288c4519b36b9f563a080db|7]] punktuose transporto priemonių gamintojams ir (ar) importuotojams nustatytas pareigas, Organizacija: ^s-e0b554fcfd88f52bba687fb6
 
 
 1) privalo sudaryti sutartis su Organizacijos aplinkos ministro nustatyta tvarka išrinktais eksploatuoti netinkamų transporto priemonių surinkėjais dėl eksploatuoti netinkamų transporto priemonių surinkimo ir vežimo. Sutartyse turi būti numatyta apmokėjimo už eksploatuoti netinkamų transporto priemonių surinkimą ir vežimą tvarka, šalių teisės, pareigos ir atsakomybė už sutartinių įsipareigojimų nevykdymą, sutartinių įsipareigojimų vykdymo kontrolės tvarka, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka; ^s-1d68e04cdb42bd8e55498871
@@ -3930,10 +3930,10 @@ Alyvos ir alyvos produktų platintojai alyvos ir alyvos produktų platinimo (par
 ### 3412 straipsnis. Papildomi kolektyvaus alyvos atliekų tvarkymo organizavimo reikalavimai ^s-6a1100089695df671748476f
 
 
-1. Siekdami kolektyviai vykdyti šio Įstatymo [[#^s-7f8d12a7c5c0a8d995d1ceef|347 straipsnio 1 dalies]] 3 ir [[#^s-016605d7939ee237042af6d7|4 punktuose]] nustatytas pareigas, alyvos gamintojai ir (ar) importuotojai gali steigti Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais, jai pavesti vykdyti šio Įstatymo [[#^s-7f8d12a7c5c0a8d995d1ceef|347 straipsnio 1 dalies]] 3 ir [[#^s-016605d7939ee237042af6d7|4 punktuose]] nustatytas pareigas arba Organizacijai sutartiniais pagrindais pavesti vykdyti šio Įstatymo [[#^s-7f8d12a7c5c0a8d995d1ceef|347 straipsnio 1 dalies]] 3 ir [[#^s-016605d7939ee237042af6d7|4 punktuose]] nustatytas pareigas netapdami Organizacijos dalyviais. Pavedant pareigas vykdyti Organizacijai, privaloma laikytis šių reikalavimų: ^s-6dc09504c52e16bcde64c867
+1. Siekdami kolektyviai vykdyti šio Įstatymo [[#^s-7f8d12a7c5c0a8d995d1ceef|347 straipsnio 1 dalies]] [[#^s-c39e40de824100b424085adb|3]] ir [[#^s-4ea9628836ed4075f5afb2c7|4]] punktuose nustatytas pareigas, alyvos gamintojai ir (ar) importuotojai gali steigti Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais, jai pavesti vykdyti šio Įstatymo [[#^s-7f8d12a7c5c0a8d995d1ceef|347 straipsnio 1 dalies]] [[#^s-c39e40de824100b424085adb|3]] ir [[#^s-4ea9628836ed4075f5afb2c7|4]] punktuose nustatytas pareigas arba Organizacijai sutartiniais pagrindais pavesti vykdyti šio Įstatymo [[#^s-7f8d12a7c5c0a8d995d1ceef|347 straipsnio 1 dalies]] [[#^s-c39e40de824100b424085adb|3]] ir [[#^s-4ea9628836ed4075f5afb2c7|4]] punktuose nustatytas pareigas netapdami Organizacijos dalyviais. Pavedant pareigas vykdyti Organizacijai, privaloma laikytis šių reikalavimų: ^s-6dc09504c52e16bcde64c867
 
 
-1) Norėdami kolektyviai organizuoti alyvos atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-7f8d12a7c5c0a8d995d1ceef|347 straipsnio 1 dalies]] 3 ir [[#^s-016605d7939ee237042af6d7|4 punktuose]] nustatytas pareigas, gamintojai ir (ar) importuotojai pirmą kartą pavesti Organizacijai vykdyti šias pareigas arba pakeisti Organizaciją, kuri jų pavedimu ateinančiais kalendoriniais metais vykdys šias pareigas, gali ne vėliau kaip iki einamųjų metų gruodžio 1 dienos, išskyrus atvejus, kai gamintojai ir (ar) importuotojai alyvos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais pradeda po gruodžio 1 dienos. ^s-cb59670ce56b3d7bce6209f4
+1) Norėdami kolektyviai organizuoti alyvos atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-7f8d12a7c5c0a8d995d1ceef|347 straipsnio 1 dalies]] [[#^s-c39e40de824100b424085adb|3]] ir [[#^s-4ea9628836ed4075f5afb2c7|4]] punktuose nustatytas pareigas, gamintojai ir (ar) importuotojai pirmą kartą pavesti Organizacijai vykdyti šias pareigas arba pakeisti Organizaciją, kuri jų pavedimu ateinančiais kalendoriniais metais vykdys šias pareigas, gali ne vėliau kaip iki einamųjų metų gruodžio 1 dienos, išskyrus atvejus, kai gamintojai ir (ar) importuotojai alyvos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais pradeda po gruodžio 1 dienos. ^s-cb59670ce56b3d7bce6209f4
 
 
 2) Gamintojai ir (ar) importuotojai, kurie alyvos tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais pradeda po gruodžio 1 dienos, vykdyti [[#^s-cb59670ce56b3d7bce6209f4|šios dalies 1 punkte]] nurodytas pareigas Organizacijai gali pavesti per vieną mėnesį nuo užsiregistravimo aplinkos ministro nustatyta tvarka Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje dienos. ^s-18d7232e8eed2762abf782fb
@@ -3945,7 +3945,7 @@ Alyvos ir alyvos produktų platintojai alyvos ir alyvos produktų platinimo (par
 4) Sustabdžius ar panaikinus Organizacijai licencijos galiojimą, per vieną mėnesį gamintojai ir (ar) importuotojai gali kitai Organizacijai pavesti einamaisiais metais vykdyti gamintojams ir (ar) importuotojams nustatytas pareigas. ^s-016605d7939ee237042af6d7
 
 
-5) Visiems gamintojams ir (ar) importuotojams, kurie šios dalies 2 ir [[#^s-016605d7939ee237042af6d7|4 punktuose]] nurodytais atvejais Organizacijai vykdyti pareigas einamaisiais metais paveda po einamųjų kalendorinių metų I ketvirčio pabaigos, turi būti taikomos vienodos pareigų vykdymo sąlygos, tai yra vienodi alyvos atliekų tvarkymo įkainiai, bet šiuo likusiu einamųjų metų laikotarpiu jos gali skirtis nuo pareigų vykdymo sąlygų, kurios nuo šių einamųjų metų pradžios taikomos anksčiau pareigų vykdymą Organizacijai pavedusiems gamintojams ir (ar) importuotojams. ^s-4be2741242b2ed11d8b3e3f8
+5) Visiems gamintojams ir (ar) importuotojams, kurie šios dalies [[#^s-18d7232e8eed2762abf782fb|2]] ir [[#^s-016605d7939ee237042af6d7|4]] punktuose nurodytais atvejais Organizacijai vykdyti pareigas einamaisiais metais paveda po einamųjų kalendorinių metų I ketvirčio pabaigos, turi būti taikomos vienodos pareigų vykdymo sąlygos, tai yra vienodi alyvos atliekų tvarkymo įkainiai, bet šiuo likusiu einamųjų metų laikotarpiu jos gali skirtis nuo pareigų vykdymo sąlygų, kurios nuo šių einamųjų metų pradžios taikomos anksčiau pareigų vykdymą Organizacijai pavedusiems gamintojams ir (ar) importuotojams. ^s-4be2741242b2ed11d8b3e3f8
 
 
 Straipsnio dalies pakeitimai:
@@ -3981,10 +3981,10 @@ Nr. XII-832, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04870
 1. Vykdydami šio Įstatymo [[#^s-4ea9628836ed4075f5afb2c7|347 straipsnio 1 dalies 4 punkte]] nustatytą pareigą, aplinkos ministro nustatyta tvarka užsiregistravę individualiai alyvos atliekų tvarkymą organizuojantys alyvos gamintojas ir (ar) importuotojas (jeigu nėra užsiregistravęs alyvos atliekų tvarkytoju) privalo sudaryti dėl alyvos atliekų surinkimo iš transporto priemonių techninės priežiūros ir remonto paslaugas teikiančių įmonių ir vežimo išlaidų kompensavimo sutartį su alyvos atliekų tvarkytoju (tvarkytojais), kuris (kurie) į jį dėl to kreipėsi (jeigu alyvos atliekos neturi vertės rinkoje arba jų vertė yra neigiama). ^s-fb0f9ece28383e293ce1675b
 
 
-2. Individualiai alyvos atliekų tvarkymą organizuojantys alyvos gamintojas ir (ar) importuotojas privalo aplinkos ministro nustatyta tvarka kiekvienais metais pateikti alyvos atliekų tvarkymo organizavimo veiklos ataskaitą dėl šio Įstatymo [[#^s-7f8d12a7c5c0a8d995d1ceef|347 straipsnio 1 dalies]] 3 ir 4 punktuose nustatytų pareigų vykdymo. ^s-8c9bfe3a07a1aade140c569a
+2. Individualiai alyvos atliekų tvarkymą organizuojantys alyvos gamintojas ir (ar) importuotojas privalo aplinkos ministro nustatyta tvarka kiekvienais metais pateikti alyvos atliekų tvarkymo organizavimo veiklos ataskaitą dėl šio Įstatymo [[#^s-7f8d12a7c5c0a8d995d1ceef|347 straipsnio 1 dalies]] [[#^s-c39e40de824100b424085adb|3]] ir [[#^s-4ea9628836ed4075f5afb2c7|4]] punktuose nustatytų pareigų vykdymo. ^s-8c9bfe3a07a1aade140c569a
 
 
-3. Šio straipsnio 1 ir [[#^s-8c9bfe3a07a1aade140c569a|2 dalių]] nuostatos netaikomos alyvas savoms reikmėms naudojantiems alyvos gamintojams ir importuotojams. Tokie alyvos gamintojai ir importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotos alyvos atliekas tvarkyti patys arba perduoti šias atliekas tokių atliekų tvarkytojui. ^s-4d7f9e65cca8e17cfac230d8
+3. Šio straipsnio [[#^s-fb0f9ece28383e293ce1675b|1]] ir [[#^s-8c9bfe3a07a1aade140c569a|2]] dalių nuostatos netaikomos alyvas savoms reikmėms naudojantiems alyvos gamintojams ir importuotojams. Tokie alyvos gamintojai ir importuotojai šio Įstatymo ir kitų teisės aktų nustatyta tvarka privalo savoms reikmėms naudotos alyvos atliekas tvarkyti patys arba perduoti šias atliekas tokių atliekų tvarkytojui. ^s-4d7f9e65cca8e17cfac230d8
 
 
 4. Individualiai alyvos atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai [[#^s-fb0f9ece28383e293ce1675b|šio straipsnio 1 dalyje]] nurodytas sutartis dėl alyvos atliekų tvarkymo sudaro su atliekų tvarkytojais, kurie pagal šio Įstatymo [[#^s-a8c71c42ffe16f8683d4d03a|3431 straipsnio 1 dalį]] turi teisę išrašyti alyvos atliekų sutvarkymą įrodančius dokumentus. ^s-2439b0195d85da78c4842143
@@ -3996,7 +3996,7 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 ### 3414 straipsnis. Šio Įstatymo 347 straipsnio 1 dalies 3, 4 punktų ir 348–3413 straipsnių nuostatų taikymo išimtys ^s-00b6bb64bcc992a8eb412491
 
 
-1. Šio Įstatymo [[#^s-7f8d12a7c5c0a8d995d1ceef|347 straipsnio 1 dalies]] 3, 4 punktų ir 348–[[#^s-9997295748c9cf4b015abbfc|3413 straipsnių]] nuostatos netaikomos naudojimo procese sudegančias alyvas (dvitakčių variklių alyvas) arba savaime suyrančias alyvas (biologiškai suyrančias alyvas, pagamintas augalinio aliejaus pagrindu) tiekiantiems Lietuvos Respublikos vidaus rinkai alyvos gamintojams ir importuotojams, taip pat alyvos atliekų turėtojams, kurie turi ar naudoja tokias alyvas. ^s-6a979bba6a2093f7a23238c2
+1. Šio Įstatymo [[#^s-7f8d12a7c5c0a8d995d1ceef|347 straipsnio 1 dalies]] [[#^s-c39e40de824100b424085adb|3]], [[#^s-4ea9628836ed4075f5afb2c7|4]] punktų ir [[#^s-de225389ec26606e76fed361|348]]–[[#^s-9997295748c9cf4b015abbfc|3413]] straipsnių nuostatos netaikomos naudojimo procese sudegančias alyvas (dvitakčių variklių alyvas) arba savaime suyrančias alyvas (biologiškai suyrančias alyvas, pagamintas augalinio aliejaus pagrindu) tiekiantiems Lietuvos Respublikos vidaus rinkai alyvos gamintojams ir importuotojams, taip pat alyvos atliekų turėtojams, kurie turi ar naudoja tokias alyvas. ^s-6a979bba6a2093f7a23238c2
 
 
 2. Aplinkos apsaugos valstybinę kontrolę atliekančių institucijų reikalavimu [[#^s-6a979bba6a2093f7a23238c2|šio straipsnio 1 dalyje]] nurodytos alyvos gamintojai, importuotojai, platintojai, tokių alyvų atliekų turėtojai privalo pateikti šios alyvos techninius aprašymus ar kitus dokumentus, patvirtinančius, kad jų pagamintos, importuotos, naudojamos, platinamos alyvos atitinka [[#^s-6a979bba6a2093f7a23238c2|šio straipsnio 1 dalyje]] nurodytą paskirtį ir (ar) cheminę sudėtį, ir (ar) fizikines savybes. ^s-e576f65c14e5d1ad25133b12
@@ -4135,7 +4135,7 @@ Nr. XII-832, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04870
 ### 3416 straipsnis. Papildomi kolektyvaus baterijų ir akumuliatorių atliekų tvarkymo organizavimo reikalavimai ^s-dbe8f070f2c631bee54a93a9
 
 
-1. Siekdami kolektyviai organizuoti baterijų ir akumuliatorių atliekų tvarkymą, gamintojai ir importuotojai gali steigti šio Įstatymo [[#^s-ab5b7994e88289a8b5ee9b6c|3422 straipsnyje]] nurodytą Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais ir jai pavesti organizuoti baterijų ir akumuliatorių atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-b0be07b4b0026aa56ac63de1|3415 straipsnio 1 dalies]] 2, 3, 4, 5, 6 punktuose ir 7, 8, 9 dalyse nustatytas pareigas arba Organizacijai sutartiniais pagrindais pavesti organizuoti baterijų ir akumuliatorių atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-b0be07b4b0026aa56ac63de1|3415 straipsnio 1 dalies]] 2, 3, 4, 5, 6 punktuose ir 7, 8, 9 dalyse nustatytas pareigas netapdami Organizacijos dalyviais. ^s-1adcaddba0be62b3e2a9807e
+1. Siekdami kolektyviai organizuoti baterijų ir akumuliatorių atliekų tvarkymą, gamintojai ir importuotojai gali steigti šio Įstatymo [[#^s-ab5b7994e88289a8b5ee9b6c|3422 straipsnyje]] nurodytą Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais ir jai pavesti organizuoti baterijų ir akumuliatorių atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-b0be07b4b0026aa56ac63de1|3415 straipsnio 1 dalies]] [[#^s-f5bc5d501e344623e703f677|2]], [[#^s-320d5a95bbde55e590ad4f03|3]], [[#^s-304e02d248fc4276b099ef00|4]], [[#^s-0448861feddbcb1b5e161c4f|5]], [[#^s-ce611948050263ae807c9b7b|6]] punktuose ir [[#^s-7f6c33216a62e0256b6d586b|7]], [[#^s-e210f690cd7beb9c702b2773|8]], [[#^s-5d9926d65ed5a0d2276870e7|9]] dalyse nustatytas pareigas arba Organizacijai sutartiniais pagrindais pavesti organizuoti baterijų ir akumuliatorių atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-b0be07b4b0026aa56ac63de1|3415 straipsnio 1 dalies]] [[#^s-f5bc5d501e344623e703f677|2]], [[#^s-320d5a95bbde55e590ad4f03|3]], [[#^s-304e02d248fc4276b099ef00|4]], [[#^s-0448861feddbcb1b5e161c4f|5]], [[#^s-ce611948050263ae807c9b7b|6]] punktuose ir [[#^s-7f6c33216a62e0256b6d586b|7]], [[#^s-e210f690cd7beb9c702b2773|8]], [[#^s-5d9926d65ed5a0d2276870e7|9]] dalyse nustatytas pareigas netapdami Organizacijos dalyviais. ^s-1adcaddba0be62b3e2a9807e
 Straipsnio dalies pakeitimai:
 Nr. XIII-1018, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01031
 
@@ -4147,7 +4147,7 @@ Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
 
 
 
-3. Siekdama atlikti šio Įstatymo [[#^s-f5bc5d501e344623e703f677|3415 straipsnio 1 dalies 2 punkte]] ir 7, 8, 9 dalyse baterijų ir akumuliatorių gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo sudaryti sutartis su baterijų ir akumuliatorių platintojais ir pagal aplinkos ministro nustatytą tvarką Organizacijos išrinktais baterijų ir akumuliatorių atliekų surinkėjais dėl baterijų ir akumuliatorių atliekų surinkimo iš platintojų, šių surinktų atliekų vežimo, paruošimo naudoti ir naudojimo (perdirbimo) (arba sutartis dėl baterijų ir akumuliatorių atliekų surinkimo iš baterijų ir akumuliatorių platintojų, tokių surinktų atliekų vežimo, paruošimo naudoti su baterijų ir akumuliatorių atliekų surinkėjais ir su baterijų ir akumuliatorių atliekų naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų ir paruoštų naudoti baterijų ir akumuliatorių atliekų panaudojimo). Šiose sutartyse turi būti numatyta apmokėjimo už baterijų ir akumuliatorių atliekų surinkimą iš baterijų ir akumuliatorių platintojų, tokių surinktų atliekų vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka. ^s-89dca4ff104c64fa8b3607d3
+3. Siekdama atlikti šio Įstatymo [[#^s-f5bc5d501e344623e703f677|3415 straipsnio 1 dalies 2 punkte]] ir [[#^s-7f6c33216a62e0256b6d586b|7]], [[#^s-e210f690cd7beb9c702b2773|8]], [[#^s-5d9926d65ed5a0d2276870e7|9]] dalyse baterijų ir akumuliatorių gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo sudaryti sutartis su baterijų ir akumuliatorių platintojais ir pagal aplinkos ministro nustatytą tvarką Organizacijos išrinktais baterijų ir akumuliatorių atliekų surinkėjais dėl baterijų ir akumuliatorių atliekų surinkimo iš platintojų, šių surinktų atliekų vežimo, paruošimo naudoti ir naudojimo (perdirbimo) (arba sutartis dėl baterijų ir akumuliatorių atliekų surinkimo iš baterijų ir akumuliatorių platintojų, tokių surinktų atliekų vežimo, paruošimo naudoti su baterijų ir akumuliatorių atliekų surinkėjais ir su baterijų ir akumuliatorių atliekų naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų ir paruoštų naudoti baterijų ir akumuliatorių atliekų panaudojimo). Šiose sutartyse turi būti numatyta apmokėjimo už baterijų ir akumuliatorių atliekų surinkimą iš baterijų ir akumuliatorių platintojų, tokių surinktų atliekų vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka. ^s-89dca4ff104c64fa8b3607d3
 
 
 Straipsnio pakeitimai:
@@ -4158,7 +4158,7 @@ Nr. XII-832, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04870
 ### 3417 straipsnis. Individualus baterijų ir akumuliatorių atliekų tvarkymo organizavimas ^s-2cd772caa919bd446b2da1ae
 
 
-1. Vykdydami šio Įstatymo [[#^s-f5bc5d501e344623e703f677|3415 straipsnio 1 dalies 2 punkte]] ir 7, 8, 9 dalyse nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai baterijų ir akumuliatorių atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo: ^s-cedb1898ec0eba34c3e4e9dc
+1. Vykdydami šio Įstatymo [[#^s-f5bc5d501e344623e703f677|3415 straipsnio 1 dalies 2 punkte]] ir [[#^s-7f6c33216a62e0256b6d586b|7]], [[#^s-e210f690cd7beb9c702b2773|8]], [[#^s-5d9926d65ed5a0d2276870e7|9]] dalyse nustatytas pareigas, aplinkos ministro nustatyta tvarka užsiregistravę individualiai baterijų ir akumuliatorių atliekų tvarkymą organizuojantys gamintojai ir (ar) importuotojai privalo: ^s-cedb1898ec0eba34c3e4e9dc
 
 
 1) sudaryti sutartis su baterijų ir akumuliatorių platintojais ir baterijų ir akumuliatorių atliekų surinkėjais dėl baterijų ir akumuliatorių atliekų surinkimo iš platintojų, šių surinktų atliekų vežimo, paruošimo naudoti ir naudojimo (perdirbimo) (arba sutartis dėl baterijų ir akumuliatorių atliekų surinkimo iš baterijų ir akumuliatorių platintojų, tokių surinktų atliekų vežimo, paruošimo naudoti su baterijų ir akumuliatorių atliekų surinkėjais ir su baterijų ir akumuliatorių atliekų naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų ir paruoštų naudoti baterijų ir akumuliatorių atliekų panaudojimo). Šiose sutartyse turi būti numatyta apmokėjimo už baterijų ir akumuliatorių atliekų surinkimą iš baterijų ir akumuliatorių platintojų, tokių surinktų atliekų vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka; ^s-4489f799e447a6d71dfca279
@@ -4300,7 +4300,7 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 
 
 
-14. Apmokestinamųjų gaminių importuotojas, įregistravęs savo veiklą trečiojoje šalyje, privalo paskirti Lietuvos Respublikoje savo veiklą įregistravusį juridinį ar fizinį asmenį įgaliotu atstovu, atsakingu už šio straipsnio 1, 5–[[#^s-d18bd98647910f64fa09db29|7 dalyse]] nustatytų pareigų vykdymą Lietuvos Respublikoje. Apmokestinamųjų gaminių importuotojas ir įgaliotas atstovas sudaro pavedimo sutartį. ^s-761259c924eb1e7145cf27ae
+14. Apmokestinamųjų gaminių importuotojas, įregistravęs savo veiklą trečiojoje šalyje, privalo paskirti Lietuvos Respublikoje savo veiklą įregistravusį juridinį ar fizinį asmenį įgaliotu atstovu, atsakingu už šio straipsnio [[#^s-618da40b70f30d48901eea78|1]], [[#^s-820b7ba8f4727c237e60de74|5]]–[[#^s-d18bd98647910f64fa09db29|7]] dalyse nustatytų pareigų vykdymą Lietuvos Respublikoje. Apmokestinamųjų gaminių importuotojas ir įgaliotas atstovas sudaro pavedimo sutartį. ^s-761259c924eb1e7145cf27ae
 Papildyta straipsnio dalimi:
 Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 
@@ -4329,10 +4329,10 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 ### 3419 straipsnis. Papildomi kolektyvaus apmokestinamųjų gaminių atliekų tvarkymo organizavimo reikalavimai ^s-b5e36115ee2c0de2aa9b2fc7
 
 
-1. Siekdami kolektyviai organizuoti apmokestinamųjų gaminių atliekų tvarkymą, gamintojai ir (ar) importuotojai gali steigti Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais, jai pavesti organizuoti apmokestinamųjų gaminių atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-618da40b70f30d48901eea78|3418 straipsnio 1 dalies]] 2, 3, [[#^s-62987356b6cb7e79ea917e42|4 punktuose]] ir 5, 6 dalyse nustatytas pareigas arba Organizacijai sutartiniais pagrindais pavesti organizuoti apmokestinamųjų gaminių atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-618da40b70f30d48901eea78|3418 straipsnio 1 dalies]] 2, 3, [[#^s-62987356b6cb7e79ea917e42|4 punktuose]] ir 5, 6 dalyse nustatytas pareigas netapdami Organizacijos dalyviais. Pavedant pareigas vykdyti Organizacijai, privaloma laikytis šių reikalavimų: ^s-81ba86107ef64e72b8e0640a
+1. Siekdami kolektyviai organizuoti apmokestinamųjų gaminių atliekų tvarkymą, gamintojai ir (ar) importuotojai gali steigti Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais, jai pavesti organizuoti apmokestinamųjų gaminių atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-618da40b70f30d48901eea78|3418 straipsnio 1 dalies]] [[#^s-96690574f14c64b828fe2fc7|2]], [[#^s-d20e992d26950158580737b1|3]], [[#^s-e332ff84e57a2fe74d7d86a2|4]] punktuose ir [[#^s-820b7ba8f4727c237e60de74|5]], [[#^s-d36bd6b5c3b9f2722c8374ba|6]] dalyse nustatytas pareigas arba Organizacijai sutartiniais pagrindais pavesti organizuoti apmokestinamųjų gaminių atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-618da40b70f30d48901eea78|3418 straipsnio 1 dalies]] [[#^s-96690574f14c64b828fe2fc7|2]], [[#^s-d20e992d26950158580737b1|3]], [[#^s-e332ff84e57a2fe74d7d86a2|4]] punktuose ir [[#^s-820b7ba8f4727c237e60de74|5]], [[#^s-d36bd6b5c3b9f2722c8374ba|6]] dalyse nustatytas pareigas netapdami Organizacijos dalyviais. Pavedant pareigas vykdyti Organizacijai, privaloma laikytis šių reikalavimų: ^s-81ba86107ef64e72b8e0640a
 
 
-1) Norėdami kolektyviai organizuoti apmokestinamųjų gaminių atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-618da40b70f30d48901eea78|3418 straipsnio 1 dalies]] 2, 3, [[#^s-62987356b6cb7e79ea917e42|4 punktuose]] ir 5, 6 dalyse nustatytas pareigas, gamintojai ir (ar) importuotojai pirmą kartą pavesti Organizacijai vykdyti šias pareigas arba pakeisti Organizaciją, kuri jų pavedimu ateinančiais kalendoriniais metais vykdys šias pareigas, gali ne vėliau kaip iki einamųjų metų gruodžio 1 dienos, išskyrus atvejus, kai gamintojai ir (ar) importuotojai apmokestinamųjų gaminių tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais pradeda po gruodžio 1 dienos. ^s-070fd36b74eac307fe563fe8
+1) Norėdami kolektyviai organizuoti apmokestinamųjų gaminių atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-618da40b70f30d48901eea78|3418 straipsnio 1 dalies]] [[#^s-96690574f14c64b828fe2fc7|2]], [[#^s-d20e992d26950158580737b1|3]], [[#^s-e332ff84e57a2fe74d7d86a2|4]] punktuose ir [[#^s-820b7ba8f4727c237e60de74|5]], [[#^s-d36bd6b5c3b9f2722c8374ba|6]] dalyse nustatytas pareigas, gamintojai ir (ar) importuotojai pirmą kartą pavesti Organizacijai vykdyti šias pareigas arba pakeisti Organizaciją, kuri jų pavedimu ateinančiais kalendoriniais metais vykdys šias pareigas, gali ne vėliau kaip iki einamųjų metų gruodžio 1 dienos, išskyrus atvejus, kai gamintojai ir (ar) importuotojai apmokestinamųjų gaminių tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais pradeda po gruodžio 1 dienos. ^s-070fd36b74eac307fe563fe8
 
 
 2) Gamintojai ir (ar) importuotojai, kurie apmokestinamųjų gaminių tiekimą Lietuvos Respublikos vidaus rinkai verslo tikslais pradeda po gruodžio 1 dienos, vykdyti [[#^s-070fd36b74eac307fe563fe8|šios dalies 1 punkte]] nurodytas pareigas Organizacijai gali pavesti per vieną mėnesį nuo užsiregistravimo aplinkos ministro nustatyta tvarka Vieningoje gaminių, pakuočių ir atliekų apskaitos informacinėje sistemoje dienos. ^s-51cccf5357996ea66dd8272c
@@ -4344,13 +4344,13 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 4) Sustabdžius ar panaikinus Organizacijai licencijos galiojimą, per vieną mėnesį gamintojai ir (ar) importuotojai gali kitai Organizacijai pavesti einamaisiais metais vykdyti gamintojams ir (ar) importuotojams nustatytas pareigas. ^s-62987356b6cb7e79ea917e42
 
 
-5) Visiems gamintojams ir (ar) importuotojams, kurie šios dalies 2 ir [[#^s-62987356b6cb7e79ea917e42|4 punktuose]] nurodytais atvejais Organizacijai vykdyti pareigas einamaisiais metais paveda po einamųjų kalendorinių metų I ketvirčio pabaigos, turi būti taikomos vienodos pareigų vykdymo sąlygos, tai yra vienodi apmokestinamųjų gaminių atliekų tvarkymo įkainiai, įsipareigojimas dėl Vyriausybės ar jos įgaliotos institucijos nustatytų apmokestinamųjų gaminių atliekų tvarkymo užduočių įvykdymo lygio, nuostolių kompensavimo tvarka, jei, Organizacijai neįvykdžius įsipareigojimo įvykdyti Vyriausybės ar jos įgaliotos institucijos nustatytas apmokestinamųjų gaminių atliekų tvarkymo užduotis, gamintojams ir (ar) importuotojams reikėtų sumokėti mokestį už aplinkos teršimą gaminių atliekomis, bet šiuo likusiu einamųjų metų laikotarpiu jos gali skirtis nuo pareigų vykdymo sąlygų, kurios nuo šių einamųjų metų pradžios taikomos anksčiau pareigų vykdymą Organizacijai pavedusiems gamintojams ir (ar) importuotojams. ^s-923b7962decfcf59797b5ad5
+5) Visiems gamintojams ir (ar) importuotojams, kurie šios dalies [[#^s-51cccf5357996ea66dd8272c|2]] ir [[#^s-62987356b6cb7e79ea917e42|4]] punktuose nurodytais atvejais Organizacijai vykdyti pareigas einamaisiais metais paveda po einamųjų kalendorinių metų I ketvirčio pabaigos, turi būti taikomos vienodos pareigų vykdymo sąlygos, tai yra vienodi apmokestinamųjų gaminių atliekų tvarkymo įkainiai, įsipareigojimas dėl Vyriausybės ar jos įgaliotos institucijos nustatytų apmokestinamųjų gaminių atliekų tvarkymo užduočių įvykdymo lygio, nuostolių kompensavimo tvarka, jei, Organizacijai neįvykdžius įsipareigojimo įvykdyti Vyriausybės ar jos įgaliotos institucijos nustatytas apmokestinamųjų gaminių atliekų tvarkymo užduotis, gamintojams ir (ar) importuotojams reikėtų sumokėti mokestį už aplinkos teršimą gaminių atliekomis, bet šiuo likusiu einamųjų metų laikotarpiu jos gali skirtis nuo pareigų vykdymo sąlygų, kurios nuo šių einamųjų metų pradžios taikomos anksčiau pareigų vykdymą Organizacijai pavedusiems gamintojams ir (ar) importuotojams. ^s-923b7962decfcf59797b5ad5
 
 
 2. Apmokestinamųjų gaminių (visų arba dalies) atliekų tvarkymo organizavimo licencija gali būti išduodama Organizacijai, kuriai organizuoti apmokestinamųjų gaminių (visų arba dalies) atliekų tvarkymą kaip jos dalyviai ar sutartiniais pagrindais pavedė tiekiantys Lietuvos Respublikos vidaus rinkai verslo tikslais atitinkamus apmokestinamuosius gaminius gamintojai ir (ar) importuotojai, kurių bendra užimama rinkos dalis, kuri aplinkos ministro nustatyta tvarka apskaičiuojama pagal šių gamintojų, importuotojų ir dalyvių deklaruotą ataskaitiniu laikotarpiu tiektų Lietuvos Respublikos vidaus rinkai verslo tikslais padangų kiekį, yra ne mažesnė kaip 10 procentų. ^s-77d85f1adae686c56bee1431
 
 
-3. Siekdama įvykdyti šio Įstatymo [[#^s-618da40b70f30d48901eea78|3418 straipsnio 1 dalies]] 2 ir 4 punktuose apmokestinamųjų gaminių gamintojams ir (ar) importuotojams nustatytas pareigas, Organizacija privalo: ^s-93e0c6645144aceda10679fe
+3. Siekdama įvykdyti šio Įstatymo [[#^s-618da40b70f30d48901eea78|3418 straipsnio 1 dalies]] [[#^s-96690574f14c64b828fe2fc7|2]] ir [[#^s-e332ff84e57a2fe74d7d86a2|4]] punktuose apmokestinamųjų gaminių gamintojams ir (ar) importuotojams nustatytas pareigas, Organizacija privalo: ^s-93e0c6645144aceda10679fe
 
 
 1) sudaryti sutartis su Organizacijos aplinkos ministro nustatyta tvarka išrinktais apmokestinamųjų gaminių atliekų surinkėjais dėl apmokestinamųjų gaminių atliekų surinkimo, vežimo, paruošimo naudoti ir Organizacijos aplinkos ministro nustatyta tvarka išrinktais apmokestinamųjų gaminių atliekų naudotojais (perdirbėjais) ir (ar) eksportuotojais dėl surinktų apmokestinamųjų gaminių atliekų panaudojimo. Šiose sutartyse turi būti numatyta apmokėjimo už apmokestinamųjų gaminių atliekų surinkimą, vežimą, paruošimą naudoti, naudojimą (perdirbimą) tvarka ir sutartinių įsipareigojimų vykdymo kontrolės tvarka; ^s-604c9a9eed4c054dc88dd85d
@@ -4590,7 +4590,7 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 ### 3425 straipsnis. Gaminių ir pakuočių atliekų tvarkymo organizavimo licencijų išdavimo sąlygos ^s-330ad0da1bd4c90d51162169
 
 
-1. Gaminių ar pakuočių atliekų tvarkymo organizavimo licencija (toliau – licencija) išduodama atitinkamų gaminių ar pakuočių atliekų tvarkymo organizavimo veiklai, vykdomai pagal šio Įstatymo 342, 345, 3412, 3416, 3419, 3422, [[#^s-eaed08de51edcdcf1ccd72ea|3439 straipsniuose]] ir [[latest/TAR.9D1ADB9E1518#^s-9f37e8db1074880a64783125|Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnyje]] nustatytus kolektyvaus gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo reikalavimus, ir licencijas išduodančiai institucijai pateikus: ^s-f332b399cddafa2d9b58600e
+1. Gaminių ar pakuočių atliekų tvarkymo organizavimo licencija (toliau – licencija) išduodama atitinkamų gaminių ar pakuočių atliekų tvarkymo organizavimo veiklai, vykdomai pagal šio Įstatymo [[#^s-81f031c5140d5b53a7fda5ba|342]], [[#^s-96e74b0bbf53f098529f32af|345]], [[#^s-6a1100089695df671748476f|3412]], [[#^s-dbe8f070f2c631bee54a93a9|3416]], [[#^s-b5e36115ee2c0de2aa9b2fc7|3419]], [[#^s-ab5b7994e88289a8b5ee9b6c|3422]], [[#^s-eaed08de51edcdcf1ccd72ea|3439]] straipsniuose ir [[latest/TAR.9D1ADB9E1518#^s-9f37e8db1074880a64783125|Pakuočių ir pakuočių atliekų tvarkymo įstatymo 10 straipsnyje]] nustatytus kolektyvaus gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo reikalavimus, ir licencijas išduodančiai institucijai pateikus: ^s-f332b399cddafa2d9b58600e
 
 
 Straipsnio dalies pakeitimai:
@@ -4626,16 +4626,16 @@ Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
 
 
-2. Tam pačiam licencijos turėtojui gali būti išduodama tik viena iš šio Įstatymo [[#^s-7f435b38081ddb64e276d667|3424 straipsnyje]] nurodytų licencijų, išskyrus šio straipsnio 3 ir [[#^s-95287283060064f5d4f20723|4 dalyse]] numatytas išimtis. ^s-a31736b2f99f21ebddcdd3e9
+2. Tam pačiam licencijos turėtojui gali būti išduodama tik viena iš šio Įstatymo [[#^s-7f435b38081ddb64e276d667|3424 straipsnyje]] nurodytų licencijų, išskyrus šio straipsnio 3 ir 4 dalyse numatytas išimtis. ^s-a31736b2f99f21ebddcdd3e9
 
 
-3. Licencijos turėtojui, kurio nariai Lietuvos Respublikos vidaus rinkai verslo tikslais tiekia ne tik transporto priemones, bet ir apmokestinamuosius gaminius ir (ar) alyvą, su šio Įstatymo [[#^s-0704aebaf519233af30ea642|3424 straipsnio 9 punkte]] nurodyta licencija gali būti išduodamos šio Įstatymo [[#^s-7f435b38081ddb64e276d667|3424 straipsnio]] 1, 2 ir (ar) 3 punktuose nurodytos licencijos. ^s-516ee9a60348cdc1a32a604d
+3. Licencijos turėtojui, kurio nariai Lietuvos Respublikos vidaus rinkai verslo tikslais tiekia ne tik transporto priemones, bet ir apmokestinamuosius gaminius ir (ar) alyvą, su šio Įstatymo 3424 straipsnio 9 punkte nurodyta licencija gali būti išduodamos šio Įstatymo [[#^s-7f435b38081ddb64e276d667|3424 straipsnio]] 1, 2 ir (ar) 3 punktuose nurodytos licencijos. ^s-516ee9a60348cdc1a32a604d
 Straipsnio dalies pakeitimai:
 Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 
 
 
-4. Licencijos turėtojui, kurio nariai Lietuvos Respublikos vidaus rinkai verslo tikslais tiekia ne tik elektros ir elektroninę įrangą, bet ir baterijas, ir akumuliatorius, kartu su šio Įstatymo [[#^s-2804b9cf05b12a56045cc9b3|3424 straipsnio 5 punkte]] nurodyta licencija gali būti išduodama šio Įstatymo [[#^s-709bedee5a5ece1b8458ff42|3424 straipsnio 3 punkte]] nurodyta licencija. ^s-95287283060064f5d4f20723
+4. Licencijos turėtojui, kurio nariai Lietuvos Respublikos vidaus rinkai verslo tikslais tiekia ne tik elektros ir elektroninę įrangą, bet ir baterijas, ir akumuliatorius, kartu su šio Įstatymo 3424 straipsnio 5 punkte nurodyta licencija gali būti išduodama šio Įstatymo 3424 straipsnio 3 punkte nurodyta licencija. ^s-95287283060064f5d4f20723
 
 
 5. Licencijas išduodanti institucija išduoda licenciją ar motyvuotai atsisako išduoti licenciją, praneša asmeniui, kuris kreipėsi dėl licencijos išdavimo, kad jo pateiktas prašymas ir kiti licencijai gauti reikalingi dokumentai gauti arba kad būtina pateikti trūkstamus dokumentus ar informaciją, arba kad jo pateiktas prašymas atmestas [[latest/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatyme]] nustatyta tvarka ir terminais. ^s-88404dff09d689ecfd674e31
@@ -4668,7 +4668,7 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 5) licenciją gauti pageidaujantis asmuo yra skolingas Valstybinio socialinio draudimo fondui, nevykdo įsipareigojimų muitinei arba turi mokestinę nepriemoką Lietuvos Respublikos valstybės biudžetui, savivaldybių biudžetams, fondams, į kuriuos mokamus mokesčius administruoja Valstybinė mokesčių inspekcija (išskyrus atvejus, kai mokesčių, delspinigių, baudų mokėjimas atidėtas Lietuvos Respublikos teisės aktų nustatyta tvarka arba dėl šių mokesčių, delspinigių, baudų vyksta mokestinis ginčas); ^s-cf987338681d247ce4a22573
 
 
-6) licenciją gauti pageidaujantis asmuo neatitinka kolektyviai gaminių ar pakuočių atliekų tvarkymą organizuojančioms gamintojų ir importuotojų organizacijoms nustatytų reikalavimų, nurodytų šio Įstatymo [[#^s-ab5b7994e88289a8b5ee9b6c|3422 straipsnio]] 2, 3 ir [[#^s-62b9a81db252532f4922621e|7 dalyse]]. ^s-c9928cda7a43b69366fad99c
+6) licenciją gauti pageidaujantis asmuo neatitinka kolektyviai gaminių ar pakuočių atliekų tvarkymą organizuojančioms gamintojų ir importuotojų organizacijoms nustatytų reikalavimų, nurodytų šio Įstatymo [[#^s-ab5b7994e88289a8b5ee9b6c|3422 straipsnio]] [[#^s-4d883c792818a38d3947e3d9|2]], [[#^s-8d5b66f6b035b661140ca4a9|3]] ir [[#^s-de3f10751db4b8d1b098467c|7]] dalyse. ^s-c9928cda7a43b69366fad99c
 
 
 
@@ -4729,7 +4729,7 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 11) praėjusių finansinių metų turto, nuosavo kapitalo, finansavimo sumų ir įsipareigojimų balansas turi būti teigiamas; ^s-20499fbaa6681af5b6aadff4
 
 
-12) sudaryti šio Įstatymo [[#^s-96e74b0bbf53f098529f32af|345 straipsnio]] 4 ir 5 dalyse, [[#^s-dbe8f070f2c631bee54a93a9|3416 straipsnio]] 3 ir 4 dalyse, [[#^s-b5e36115ee2c0de2aa9b2fc7|3419 straipsnio]] 3 ir 4 dalyse nurodytas sutartis ir šiose sutartyse nustatyta tvarka finansuoti eksploatuoti netinkamų transporto priemonių, baterijų ir akumuliatorių, apmokestinamųjų gaminių (išskyrus baterijas ir akumuliatorius) atliekų tvarkymą; ^s-3641e1239d7eadac8bce055c
+12) sudaryti šio Įstatymo [[#^s-96e74b0bbf53f098529f32af|345 straipsnio]] [[#^s-e0b554fcfd88f52bba687fb6|4]] ir [[#^s-18387ea876b8faae048e8bd9|5]] dalyse, [[#^s-dbe8f070f2c631bee54a93a9|3416 straipsnio]] [[#^s-89dca4ff104c64fa8b3607d3|3]] ir 4 dalyse, [[#^s-b5e36115ee2c0de2aa9b2fc7|3419 straipsnio]] [[#^s-93e0c6645144aceda10679fe|3]] ir [[#^s-3c62e33c58b2f16d482ae8a9|4]] dalyse nurodytas sutartis ir šiose sutartyse nustatyta tvarka finansuoti eksploatuoti netinkamų transporto priemonių, baterijų ir akumuliatorių, apmokestinamųjų gaminių (išskyrus baterijas ir akumuliatorius) atliekų tvarkymą; ^s-3641e1239d7eadac8bce055c
 Papildyta straipsnio punktu:
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 Straipsnio punkto pakeitimai:
@@ -4981,7 +4981,7 @@ Nr. XIII-615, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12339
 
 
 
-1. Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turi teisę išrašyti į Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turinčių teisę išrašyti atliekų tvarkytojų sąrašą (toliau šiame straipsnyje – Atliekų tvarkytojų sąrašas) aplinkos ministro nustatyta tvarka įrašyti elektros ir elektroninės įrangos atliekų tvarkytojai, kurie, atsižvelgiant į vykdomą elektros ir elektroninės įrangos atliekų tvarkymo veiklą ir tvarkomos elektros ir elektroninės įrangos rūšis, atitinka ir taiko atitinkamus Europos standartus, ir tie gaminių ir (ar) pakuočių atliekų naudotojai, eksportuotojai, surinkėjai ir (ar) atliekų tvarkytojai, kurie apdoroja surinktas mišrias komunalines atliekas, atskirdami gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, ir kurie atitinka šio straipsnio 4, 5, 6, [[#^s-fd8dd099cbfccfdb7ed4b078|7 dalyse]] nustatytus reikalavimus. Į Atliekų tvarkytojų sąrašą įrašyti elektros ir elektroninės įrangos atliekų tvarkytojai ir gaminių ir (ar) pakuočių atliekų naudotojai, eksportuotojai, surinkėjai ir (ar) atliekų tvarkytojai, kurie apdoroja surinktas mišrias komunalines atliekas, atskirdami gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, išrašo gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus vadovaudamiesi aplinkos ministro nustatyta tvarka. Draudžiamas neteisėtas gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančių dokumentų išrašymas. ^s-a8c71c42ffe16f8683d4d03a
+1. Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turi teisę išrašyti į Gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus turinčių teisę išrašyti atliekų tvarkytojų sąrašą (toliau šiame straipsnyje – Atliekų tvarkytojų sąrašas) aplinkos ministro nustatyta tvarka įrašyti elektros ir elektroninės įrangos atliekų tvarkytojai, kurie, atsižvelgiant į vykdomą elektros ir elektroninės įrangos atliekų tvarkymo veiklą ir tvarkomos elektros ir elektroninės įrangos rūšis, atitinka ir taiko atitinkamus Europos standartus, ir tie gaminių ir (ar) pakuočių atliekų naudotojai, eksportuotojai, surinkėjai ir (ar) atliekų tvarkytojai, kurie apdoroja surinktas mišrias komunalines atliekas, atskirdami gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, ir kurie atitinka šio straipsnio [[#^s-e5ee1a47cf9ddd2af875232f|4]], [[#^s-632012dcfa6592dc096ca09a|5]], [[#^s-aeb4e4435549404d329b5f72|6]], [[#^s-fd8dd099cbfccfdb7ed4b078|7]] dalyse nustatytus reikalavimus. Į Atliekų tvarkytojų sąrašą įrašyti elektros ir elektroninės įrangos atliekų tvarkytojai ir gaminių ir (ar) pakuočių atliekų naudotojai, eksportuotojai, surinkėjai ir (ar) atliekų tvarkytojai, kurie apdoroja surinktas mišrias komunalines atliekas, atskirdami gaminių ir (ar) pakuočių atliekas su tikslu jas perdirbti ir (arba) kitaip panaudoti, išrašo gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančius dokumentus vadovaudamiesi aplinkos ministro nustatyta tvarka. Draudžiamas neteisėtas gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančių dokumentų išrašymas. ^s-a8c71c42ffe16f8683d4d03a
 Straipsnio dalies pakeitimai:
 Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 
@@ -5064,7 +5064,7 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 2) jei atliekų tvarkytojas į kitas valstybes nares išveža kitų gaminių nei elektros ir elektroninė įranga atliekas ir (ar) pakuočių atliekas – atitinka šiuos reikalavimus: ^s-8529fa44405ea746a78ad83c
 
 
-a) pagal 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1013/2006 dėl atliekų vežimo su visais pakeitimais nustatytus reikalavimus turi teisę išvežti gaminių ir (ar) pakuočių atliekas;
+a) pagal 2006 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1013/2006](https://eur-lex.europa.eu/eli/reg/1013/2006/oj) dėl atliekų vežimo su visais pakeitimais nustatytus reikalavimus turi teisę išvežti gaminių ir (ar) pakuočių atliekas;
 
 
 b) atlieka pradinį gaminių atliekų apdorojimą ir į kitas valstybes nares išveža perdirbti jų sudedamąsias medžiagas ar dalis ar į kitas valstybes nares išveža panaudoti energijai gauti netinkamas perdirbti gaminių atliekų sudedamąsias medžiagas ar dalis arba į kitas valstybes nares išveža perdirbti neapdorotas gaminių atliekas, arba į kitas valstybes nares išveža perdirbti pakuočių atliekas, arba į kitas valstybes nares išveža panaudoti energijai gauti netinkamas perdirbti alyvos, padangų ir (ar) pakuočių atliekas;
@@ -5233,7 +5233,7 @@ sudėtyje yra plastiko, ATLIEKŲ ir šiukšlių TVARKYMO YPATUMAI
 4) aplinkos ministro nustatyta tvarka šviesti ir informuoti visuomenę tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų prevencijos ir tvarkymo klausimais: apie esamus daugkartinius alternatyvius gaminius ir jų naudojimo galimybes, pakartotinio naudojimo sistemas, atliekų tvarkymo galimybes, taip pat geriausią tinkamo šių atliekų tvarkymo praktiką, taikomą pagal šio Įstatymo [[#^s-dd1ffddd71ad88c813f3eb47|41 straipsnį]], taršos šiukšlėmis ir kitokio netinkamo šių atliekų šalinimo poveikį aplinkai, visų pirma jūros aplinkai, ir nuotekų kanalizacijos tinklui; ^s-edaf8158c651a2dca0fca379
 
 
-5) apmokėti šios dalies 2 ir [[#^s-bb5f0d0516b6d5b3412d844e|3 punktuose]] nurodyto tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo, surinkimo, vežimo, apdorojimo išlaidas, įskaitant išlaidas nustatant [[#^s-4a1b6a469e80c8985be5fd3d|šio straipsnio 6 dalyje]] nurodytus referencinius skaičius, taip pat [[#^s-edaf8158c651a2dca0fca379|šios dalies 4 punkte]] nurodyto visuomenės švietimo ir informavimo organizavimo ir vykdymo išlaidas; ^s-73fe19f83492217f7c1f858b
+5) apmokėti šios dalies [[#^s-360abe39d51f0ef2eae74a9f|2]] ir [[#^s-bb5f0d0516b6d5b3412d844e|3]] punktuose nurodyto tabako gaminių su filtrais ir (ar) filtrų, parduodamų naudoti kartu su tabako gaminiais, atliekų, išmestų į viešas surinkimo sistemas, ir šiukšlių išrinkimo, surinkimo, vežimo, apdorojimo išlaidas, įskaitant išlaidas nustatant [[#^s-4a1b6a469e80c8985be5fd3d|šio straipsnio 6 dalyje]] nurodytus referencinius skaičius, taip pat [[#^s-edaf8158c651a2dca0fca379|šios dalies 4 punkte]] nurodyto visuomenės švietimo ir informavimo organizavimo ir vykdymo išlaidas; ^s-73fe19f83492217f7c1f858b
 Straipsnio punkto pakeitimai:
 Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 
@@ -5411,7 +5411,7 @@ Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 ### 3439 straipsnis. Papildomi kolektyvaus žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymo organizavimo reikalavimai ^s-eaed08de51edcdcf1ccd72ea
 
 
-1. Siekdami kolektyviai organizuoti žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymą, gamintojai ir importuotojai gali steigti šio Įstatymo [[#^s-ab5b7994e88289a8b5ee9b6c|3422 straipsnyje]] nurodytą Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais ir jai pavesti organizuoti žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-2fecc82dd409ef038614c301|3438 straipsnio 1 dalies]] 2, 3, 4 punktuose nustatytas pareigas ar Organizacijai sutartiniais pagrindais pavesti organizuoti žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-2fecc82dd409ef038614c301|3438 straipsnio 1 dalies]] 2, 3, 4 punktuose nustatytas pareigas netapdami Organizacijos dalyviais. ^s-19b8bac38ab3a03fb58d2bfa
+1. Siekdami kolektyviai organizuoti žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymą, gamintojai ir importuotojai gali steigti šio Įstatymo [[#^s-ab5b7994e88289a8b5ee9b6c|3422 straipsnyje]] nurodytą Organizaciją ir (ar) tapti įsteigtos Organizacijos dalyviais ir jai pavesti organizuoti žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-2fecc82dd409ef038614c301|3438 straipsnio 1 dalies]] [[#^s-b033f81c401159372b9792d7|2]], [[#^s-d7b7b30dbf44828b806162d9|3]], [[#^s-bc2e26121f51cde5cfbb4641|4]] punktuose nustatytas pareigas ar Organizacijai sutartiniais pagrindais pavesti organizuoti žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų tvarkymą ir vykdyti šio Įstatymo [[#^s-2fecc82dd409ef038614c301|3438 straipsnio 1 dalies]] [[#^s-b033f81c401159372b9792d7|2]], [[#^s-d7b7b30dbf44828b806162d9|3]], [[#^s-bc2e26121f51cde5cfbb4641|4]] punktuose nustatytas pareigas netapdami Organizacijos dalyviais. ^s-19b8bac38ab3a03fb58d2bfa
 
 
 2. Siekdama įvykdyti šio Įstatymo [[#^s-a63a9aefd5b0edf9bc26237f|3438 straipsnyje]] žvejybos įrankių, kurių sudėtyje yra plastiko, gamintojams ir importuotojams nustatytas pareigas, Organizacija privalo kiekvienais kalendoriniais metais iki vasario 1 dienos sudaryti sutartis su visomis Lietuvos jūrų uostų administracijomis dėl žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų atskiro surinkimo uostų priėmimo įrenginiuose arba kitose lygiavertėse surinkimo sistemose, vežimo ir apdorojimo finansavimo. Aplinkos ministras tvirtina rekomendacijas dėl šių atliekų surinkimo, vežimo ir apdorojimo finansavimo kriterijų ir tokio finansavimo sutarčių sudarymo pagrindinių sąlygų. Šiose sutartyse turi būti numatyta žvejybos įrankių, kurių sudėtyje yra plastiko, atliekų, pristatytų į uostų priėmimo įrenginius arba į kitas lygiavertes surinkimo sistemas, atskiro surinkimo, vežimo ir apdorojimo išlaidų finansavimo tvarka, sutarčių sudarymo, įsigaliojimo ir nutraukimo tvarka, uostų priėmimo įrenginių arba kitų lygiaverčių surinkimo sistemų infrastruktūros plėtros ir naudojimo sąlygos, paslaugų teikimo tvarka ir sąlygos, atsiskaitymo tvarka, šalių teisės, pareigos ir atsakomybė už įsipareigojimų nevykdymą, pretenzijų pateikimo, nagrinėjimo ir ginčų sprendimo tvarka, sutarties galiojimo terminas, jos keitimo ar nutraukimo sąlygos ir tvarka. ^s-656a197862170618cf2a4810
@@ -5482,7 +5482,7 @@ INFORMACINĖ SISTEMA
 ### 351 straipsnis. Naudojimasis informacine sistema ^s-7c2aa9e009c4a17ddfee007b
 
 
-1. Šio Įstatymo 7, 341, 342, 343, 344, 345, 347, 348, 349, 3412, 3413, 3415, 3416, 3417, 3418, 3419, 3423, 3425, 3427, 3428, 3429, 3431, 3432, 3435, 3438, 3439 ir [[#^s-2b157c4d56e9631d99e57969|3440 straipsniuose]] nurodytos procedūros, susijusios su registravimusi, apskaitos vykdymu, ataskaitų teikimu, gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančių dokumentų išrašymu, banko garantijos ir (ar) laidavimo draudimo sutarties pateikimu, gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo licencijavimu, vykdomos naudojantis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema. ^s-0e491876068832d651c3ecb8
+1. Šio Įstatymo [[#^s-9e710202f0caba702e24a997|7]], [[#^s-c003e74acbe3e8fc740c3ca3|341]], [[#^s-81f031c5140d5b53a7fda5ba|342]], [[#^s-96af02630eb7ab6ecdbc0dd7|343]], [[#^s-370569c64bae0f2ee80a2172|344]], [[#^s-96e74b0bbf53f098529f32af|345]], [[#^s-40fb7c2ee526fc4ca561aa70|347]], [[#^s-de225389ec26606e76fed361|348]], [[#^s-9f588e4ff0cb51a957595969|349]], [[#^s-6a1100089695df671748476f|3412]], [[#^s-9997295748c9cf4b015abbfc|3413]], [[#^s-310c19532d51710f434aadc2|3415]], [[#^s-dbe8f070f2c631bee54a93a9|3416]], [[#^s-2cd772caa919bd446b2da1ae|3417]], [[#^s-9683ae5ce7c8cb86774833d9|3418]], [[#^s-b5e36115ee2c0de2aa9b2fc7|3419]], [[#^s-c14f0820fb5c3860caa4e1bd|3423]], [[#^s-330ad0da1bd4c90d51162169|3425]], [[#^s-7fa348427b53644637ae5d01|3427]], [[#^s-6fe35ee096bfbccdcd005ea4|3428]], [[#^s-10aa7a296e45c5be64c2b6e7|3429]], [[#^s-89802af7ad07f25156041808|3431]], [[#^s-20f65d25e94f0f92be3786b7|3432]], [[#^s-9dc4d0b6e6e88052b0884916|3435]], [[#^s-a63a9aefd5b0edf9bc26237f|3438]], [[#^s-eaed08de51edcdcf1ccd72ea|3439]] ir [[#^s-2b157c4d56e9631d99e57969|3440]] straipsniuose nurodytos procedūros, susijusios su registravimusi, apskaitos vykdymu, ataskaitų teikimu, gaminių ir (ar) pakuočių atliekų sutvarkymą įrodančių dokumentų išrašymu, banko garantijos ir (ar) laidavimo draudimo sutarties pateikimu, gaminių ir (ar) pakuočių atliekų tvarkymo organizavimo licencijavimu, vykdomos naudojantis Vieninga gaminių, pakuočių ir atliekų apskaitos informacine sistema. ^s-0e491876068832d651c3ecb8
 Straipsnio dalies pakeitimai:
 Nr. XV-444, 2025-09-25, paskelbta TAR 2025-10-06, i. k. 2025-16796
 
@@ -5593,43 +5593,43 @@ atliekų tvarkymo įstatymo
 
 
 
-1. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/852. ^s-ec6c4f2ac66c7508a320df9a
+1. 1994 m. gruodžio 20 d. Europos Parlamento ir Tarybos direktyva 94/62/EB dėl pakuočių ir pakuočių atliekų su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos [direktyva (ES) 2018/852](https://eur-lex.europa.eu/eli/dir/2018/852/oj). ^s-ec6c4f2ac66c7508a320df9a
 
 
 2. 1996 m. rugsėjo 24 d. Tarybos direktyva 96/61/EB dėl taršos integruotos prevencijos ir kontrolės su paskutiniais pakeitimais, padarytais 2006 m. sausio 18 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 166/2006. ^s-965a38bf9cfce584a0b777fc
 
 
-3. 1999 m. balandžio 26 d. Tarybos direktyva 1999/31/EB dėl atliekų sąvartynų su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/850. ^s-d9a3232c7fd35ce0a665a46c
+3. 1999 m. balandžio 26 d. Tarybos direktyva 1999/31/EB dėl atliekų sąvartynų su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos [direktyva (ES) 2018/850](https://eur-lex.europa.eu/eli/dir/2018/850/oj). ^s-d9a3232c7fd35ce0a665a46c
 
 
-4. 2000 m. rugsėjo 18 d. Europos Parlamento ir Tarybos direktyva 2000/53/EB dėl eksploatuoti netinkamų transporto priemonių su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/849. ^s-3376c84593793af97b425f41
+4. 2000 m. rugsėjo 18 d. Europos Parlamento ir Tarybos direktyva 2000/53/EB dėl eksploatuoti netinkamų transporto priemonių su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos [direktyva (ES) 2018/849](https://eur-lex.europa.eu/eli/dir/2018/849/oj). ^s-3376c84593793af97b425f41
 
 
-5. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1013/2006 dėl atliekų vežimo su visais pakeitimais. ^s-19237e2594f118ba20e93963
+5. 2006 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1013/2006](https://eur-lex.europa.eu/eli/reg/1013/2006/oj) dėl atliekų vežimo su visais pakeitimais. ^s-19237e2594f118ba20e93963
 
 
-6. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/66/EB dėl baterijų ir akumuliatorių bei baterijų ir akumuliatorių atliekų ir Direktyvos 91/157/EEB panaikinimo su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/849. ^s-1e5f4cd0a5e3da54d743ff53
+6. 2006 m. rugsėjo 6 d. Europos Parlamento ir Tarybos direktyva 2006/66/EB dėl baterijų ir akumuliatorių bei baterijų ir akumuliatorių atliekų ir Direktyvos 91/157/EEB panaikinimo su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos [direktyva (ES) 2018/849](https://eur-lex.europa.eu/eli/dir/2018/849/oj). ^s-1e5f4cd0a5e3da54d743ff53
 
 
-7. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/98/EB dėl atliekų ir panaikinanti kai kurias direktyvas su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/851. ^s-857ebf230e7ee1910bedec1c
+7. 2008 m. lapkričio 19 d. Europos Parlamento ir Tarybos direktyva 2008/98/EB dėl atliekų ir panaikinanti kai kurias direktyvas su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos [direktyva (ES) 2018/851](https://eur-lex.europa.eu/eli/dir/2018/851/oj). ^s-857ebf230e7ee1910bedec1c
 
 
-8. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB dėl anglies dioksido geologinio saugojimo, iš dalies keičianti Tarybos direktyvą 85/337/EEB, direktyvas 2000/60/EB, 2001/80/EB, 2004/35/EB, 2006/12/EB, 2008/1/EB ir Reglamentą (EB) Nr. 1013/2006. ^s-38dc66a924afa07fc54b964f
+8. 2009 m. balandžio 23 d. Europos Parlamento ir Tarybos direktyva 2009/31/EB dėl anglies dioksido geologinio saugojimo, iš dalies keičianti Tarybos direktyvą 85/337/EEB, direktyvas 2000/60/EB, 2001/80/EB, 2004/35/EB, 2006/12/EB, 2008/1/EB ir [Reglamentą (EB) Nr. 1013/2006](https://eur-lex.europa.eu/eli/reg/1013/2006/oj). ^s-38dc66a924afa07fc54b964f
 
 
-9. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/19/ES dėl elektros ir elektroninės įrangos atliekų su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/849. ^s-ff56df336c72ce97892af256
+9. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/19/ES dėl elektros ir elektroninės įrangos atliekų su paskutiniais pakeitimais, padarytais 2018 m. gegužės 30 d. Europos Parlamento ir Tarybos [direktyva (ES) 2018/849](https://eur-lex.europa.eu/eli/dir/2018/849/oj). ^s-ff56df336c72ce97892af256
 
 
-10. 2014 m. gruodžio 18 d. Komisijos reglamentas (ES) Nr. 1357/2014, kuriuo pakeičiamas Europos Parlamento ir Tarybos direktyvos 2008/98/EB dėl atliekų ir panaikinančios kai kurias direktyvas III priedas. ^s-93c5747e8304d46dee286d59
+10. 2014 m. gruodžio 18 d. Komisijos [reglamentas (ES) Nr. 1357/2014](https://eur-lex.europa.eu/eli/reg/1357/2014/oj), kuriuo pakeičiamas Europos Parlamento ir Tarybos direktyvos 2008/98/EB dėl atliekų ir panaikinančios kai kurias direktyvas III priedas. ^s-93c5747e8304d46dee286d59
 
 
-11. 2019 m. gegužės 3 d. Komisijos deleguotasis sprendimas (ES) 2019/1597, kuriuo, siekiant vienodo maisto atliekų kiekio matavimo, Europos Parlamento ir Tarybos direktyva 2008/98/EB papildoma nuostatomis dėl bendros metodikos ir būtiniausiųjų kokybės reikalavimų. ^s-39caa3e24236f2e042827878
+11. 2019 m. gegužės 3 d. Komisijos deleguotasis [sprendimas (ES) 2019/1597](https://eur-lex.europa.eu/eli/dec/2019/1597/oj), kuriuo, siekiant vienodo maisto atliekų kiekio matavimo, Europos Parlamento ir Tarybos direktyva 2008/98/EB papildoma nuostatomis dėl bendros metodikos ir būtiniausiųjų kokybės reikalavimų. ^s-39caa3e24236f2e042827878
 
 
-12. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo. ^s-6a09826c8695c9f2d871d456
+12. 2019 m. birželio 5 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/904](https://eur-lex.europa.eu/eli/dir/2019/904/oj) dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo. ^s-6a09826c8695c9f2d871d456
 
 
-13. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo reglamentas (ES) 2020/2151, kuriuo nustatomos Europos Parlamento ir Tarybos direktyvos (ES) 2019/904 dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės. ^s-54ecf9e5e51b6fcab59a24d8
+13. 2020 m. gruodžio 17 d. Komisijos įgyvendinimo [reglamentas (ES) 2020/2151](https://eur-lex.europa.eu/eli/reg/2020/2151/oj), kuriuo nustatomos Europos Parlamento ir Tarybos [direktyvos (ES) 2019/904](https://eur-lex.europa.eu/eli/dir/2019/904/oj) dėl tam tikrų plastikinių gaminių poveikio aplinkai mažinimo priedo D dalyje išvardytų vienkartinių plastikinių gaminių suderintų ženklinimo specifikacijų taisyklės. ^s-54ecf9e5e51b6fcab59a24d8
 Papildyta punktu:
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
 
@@ -5652,7 +5652,7 @@ ATLIEKŲ TVARKYMO ĮSTATYMO 33 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-721, 2002-01-22, Žin., 2002, Nr. 13-475 (2002-02-06)
-ATLIEKŲ TVARKYMO ĮSTATYMO 32, 33, 34 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[ATLIEKŲ TVARKYMO ĮSTATYMO 32, 33, 34 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.EC8908C2BEE5)
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d.
 Šis įstatymas neteko galios:
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5680,13 +5680,13 @@ Nr. IX-2214, 2004-04-29, Žin., 2004, Nr. 73-2544 (2004-04-30)
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-279, 2005-06-28, Žin., 2005, Nr. 84-3111 (2005-07-12)
-ATLIEKŲ TVARKYMO ĮSTATYMO 2, 30, 34 STRAIPSNIŲ IR AŠTUNTOJO(1) SKIRSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ATLIEKŲ TVARKYMO ĮSTATYMO [[#^s-e0f2e4a1f4a43dffdee1d463|2]], [[#^s-17dd154ccf2f7b65c087b1ca|30]], [[latest/TAR.8D38517814F1|34]] STRAIPSNIŲ IR AŠTUNTOJO(1) SKIRSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1605, 2008-06-17, Žin., 2008, Nr. 76-2999 (2008-07-05)
 [[latest/TAR.DBE45E39FB46|ATLIEKŲ TVARKYMO ĮSTATYMO 2, 30, 34 STRAIPSNIŲ, 5 PRIEDO PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 34(8), 34(9), 34(10), 34(11) STRAIPSNIAIS ĮSTATYMAS]]
-Šio įstatymo 4, 5, [[#^s-b5e886a0515aa0b666f76ba6|6 straipsniai]] įsigalioja 2008 m. rugsėjo 26 d.
+Šio įstatymo [[#^s-b0592857e1f4d450725bf9bd|4]], [[#^s-6ab8c7c544ac2942f2a1a776|5]], [[#^s-b5e886a0515aa0b666f76ba6|6]] straipsniai įsigalioja 2008 m. rugsėjo 26 d.
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5708,8 +5708,8 @@ Nr. XI-782, 2010-04-27, Žin., 2010, Nr. 54-2645 (2010-05-11)
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1324, 2011-04-19, Žin., 2011, Nr. 52-2501 (2011-05-03)
-[[#^s-a1521295728953f362114523|ATLIEKŲ TVARKYMO ĮSTATYMO 1, 2, 4, 6, 7, 8, 9, 10, 11, 13, 14, 15, 17, 26, 27, 28, 30, 32, 36 STRAIPSNIŲ]], ANTROJO SKIRSNIO, ŠEŠTOJO SKIRSNIO PAVADINIMO IR 4, 5 PRIEDŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO ANTRUOJU(1) SKIRSNIU IR 4(1), 6(1), 7(1), 11(1), 11(2), 12(1), 18(1), 29(1) STRAIPSNIAIS, 29 STRAIPSNIO IR 1, 2, 3 PRIEDŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
-Šio įstatymo 8 ir [[#^s-6fd9ac772388f358a1431e2a|16 straipsniai]] ir šio įstatymo [[#^s-b0592857e1f4d450725bf9bd|4 straipsnyje]] išdėstytas Atliekų tvarkymo įstatymo 31 straipsnis įsigalioja 2011 m. gruodžio 12 d.
+ATLIEKŲ TVARKYMO ĮSTATYMO [[#^s-51773d9f7acfec69f9605697|1]], [[#^s-e0f2e4a1f4a43dffdee1d463|2]], [[#^s-b0592857e1f4d450725bf9bd|4]], [[#^s-b5e886a0515aa0b666f76ba6|6]], [[#^s-9e710202f0caba702e24a997|7]], [[#^s-fd773383de942a39cd499980|8]], [[#^s-2ccab1fd386c16be98ad2b7c|9]], [[#^s-a3886d478f676fc4cc4af7f3|10]], [[#^s-b79370013291c01e84ccd8f9|11]], [[#^s-db81f67aacc15fe9d6f0c40c|13]], [[#^s-208ff3350f62e7730a19888b|14]], [[#^s-8fa0a3854e529b1268dc1048|15]], [[#^s-39798594bc0a56f21acaa05d|17]], [[#^s-04261de530cf9d1032ca6d1b|26]], [[#^s-592c118fa5e0863b414c1acb|27]], [[#^s-aaa2ec8e62df9978cf448cc6|28]], [[#^s-17dd154ccf2f7b65c087b1ca|30]], [[latest/TAR.8D38517814F1|32]], [[#^s-a1521295728953f362114523|36]] STRAIPSNIŲ, ANTROJO SKIRSNIO, ŠEŠTOJO SKIRSNIO PAVADINIMO IR 4, 5 PRIEDŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO ANTRUOJU(1) SKIRSNIU IR 4(1), 6(1), 7(1), 11(1), 11(2), 12(1), 18(1), 29(1) STRAIPSNIAIS, 29 STRAIPSNIO IR 1, 2, 3 PRIEDŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS
+Šio įstatymo [[#^s-fd773383de942a39cd499980|8]] ir [[#^s-6fd9ac772388f358a1431e2a|16]] straipsniai ir šio įstatymo [[#^s-b0592857e1f4d450725bf9bd|4 straipsnyje]] išdėstytas [[latest/TAR.8D38517814F1|Atliekų tvarkymo įstatymo 31 straipsnis]] įsigalioja 2011 m. gruodžio 12 d.
 Šio įstatymo [[#^s-aaa2ec8e62df9978cf448cc6|28 straipsnis]] įsigalioja 2013 m. gruodžio 12 d.
 
 12.
@@ -5727,18 +5727,18 @@ Nr. XI-2139, 2012-06-28, Žin., 2012, Nr. 77-3983 (2012-07-01)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1892, 2011-12-22, Žin., 2012, Nr. 6-190 (2012-01-10)
 ATLIEKŲ TVARKYMO ĮSTATYMO 2, 12, 30, 34, 34(3) STRAIPSNIŲ, AŠTUNTOJO(1) SKIRSNIO PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO AŠTUNTUOJU(2), AŠTUNTUOJU(3), AŠTUNTUOJU(4), AŠTUNTUOJU(5), AŠTUNTUOJU(6), AŠTUNTUOJU(7), AŠTUNTUOJU(8), AŠTUNTUOJU(9), AŠTUNTUOJU(10) SKIRSNIAIS IR [[#^s-6fd9ac772388f358a1431e2a|16 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
-Šio įstatymo [[#^s-b0592857e1f4d450725bf9bd|4 straipsnio]] 5 ir [[#^s-857ebf230e7ee1910bedec1c|7 dalys]], 5, [[#^s-9e710202f0caba702e24a997|7 straipsniai]], [[#^s-fe38bcd03ff508418f0d86fa|8 straipsnio 2 dalis]], 9, 10, 11, 12, 13, 14, 15 ir [[#^s-6fd9ac772388f358a1431e2a|16 straipsniai]] įsigalioja 2013 m. sausio 1 d.
+Šio įstatymo [[#^s-b0592857e1f4d450725bf9bd|4 straipsnio]] [[#^s-a404b8f7383c2dc44e03b99b|5]] ir [[#^s-864f844838a9c51b24398407|7]] dalys, [[#^s-6ab8c7c544ac2942f2a1a776|5]], [[#^s-9e710202f0caba702e24a997|7]] straipsniai, [[#^s-fe38bcd03ff508418f0d86fa|8 straipsnio 2 dalis]], [[#^s-2ccab1fd386c16be98ad2b7c|9]], [[#^s-a3886d478f676fc4cc4af7f3|10]], [[#^s-b79370013291c01e84ccd8f9|11]], [[#^s-576b80b29dd6fe2423fd3488|12]], [[#^s-db81f67aacc15fe9d6f0c40c|13]], [[#^s-208ff3350f62e7730a19888b|14]], [[#^s-8fa0a3854e529b1268dc1048|15]] ir [[#^s-6fd9ac772388f358a1431e2a|16]] straipsniai įsigalioja 2013 m. sausio 1 d.
 Šio įstatymo [[#^s-b5e886a0515aa0b666f76ba6|6 straipsnis]] ir [[#^s-9e85187043c4b5f01087ca2b|8 straipsnio 1 dalis]] galioja iki 2012 m. gruodžio 31 d.
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1981, 2012-04-19, Žin., 2012, Nr. 50-2445 (2012-04-28)
-[[#^s-1f6bf2a645f0c2b3939d0095|ATLIEKŲ TVARKYMO ĮSTATYMO 2, 4, 25, 27, 28, 30, 31, 35 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 30(1), 30(2) STRAIPSNIAIS ĮSTATYMAS
-Šio įstatymo [[#^s-98a503c4a73454920b58473b|4 straipsnio 3 dalis]], 5 straipsnio 3 dalis, [[#^s-b5e886a0515aa0b666f76ba6|6 straipsnyje]] išdėstyto [[#^s-17dd154ccf2f7b65c087b1ca|Atliekų tvarkymo įstatymo 30 straipsnio]] 8 ir 14 dalys įsigalioja 2012 m. spalio 1 d., šio įstatymo [[#^s-b5e886a0515aa0b666f76ba6|6 straipsnyje]] išdėstyto [[#^s-17dd154ccf2f7b65c087b1ca|Atliekų tvarkymo įstatymo 30 straipsnio]] 16 ir 18 dalys įsigalioja 2013 m. sausio 1 d., šio įstatymo 7 ir [[#^s-fd773383de942a39cd499980|8 straipsniai]] – 2013 m. liepos 1 d.
+ATLIEKŲ TVARKYMO ĮSTATYMO [[#^s-e0f2e4a1f4a43dffdee1d463|2]], [[#^s-b0592857e1f4d450725bf9bd|4]], [[#^s-eb75869b9c8731ea08b2c933|25]], [[#^s-592c118fa5e0863b414c1acb|27]], [[#^s-aaa2ec8e62df9978cf448cc6|28]], [[#^s-17dd154ccf2f7b65c087b1ca|30]], [[latest/TAR.8D38517814F1|31]], [[#^s-1f6bf2a645f0c2b3939d0095|35]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 30(1), 30(2) STRAIPSNIAIS ĮSTATYMAS
+Šio įstatymo [[#^s-98a503c4a73454920b58473b|4 straipsnio 3 dalis]], 5 straipsnio 3 dalis, [[#^s-b5e886a0515aa0b666f76ba6|6 straipsnyje]] išdėstyto [[#^s-17dd154ccf2f7b65c087b1ca|Atliekų tvarkymo įstatymo 30 straipsnio]] [[#^s-9df0de428f47c245cec2c6ec|8]] ir [[#^s-3a59628e69ae1e7cd2962b75|14]] dalys įsigalioja 2012 m. spalio 1 d., šio įstatymo [[#^s-b5e886a0515aa0b666f76ba6|6 straipsnyje]] išdėstyto [[#^s-17dd154ccf2f7b65c087b1ca|Atliekų tvarkymo įstatymo 30 straipsnio]] [[#^s-084c5ce39fbe93a36ab30455|16]] ir [[#^s-5c235684919fb08f42613d9b|18]] dalys įsigalioja 2013 m. sausio 1 d., šio įstatymo [[#^s-9e710202f0caba702e24a997|7]] ir [[#^s-fd773383de942a39cd499980|8]] straipsniai – 2013 m. liepos 1 d.
 Šio įstatymo galiojimas keistas:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-137, 2012-12-20, Žin., 2012, Nr. 155-8003 (2012-12-31)
-[[#^s-1f6bf2a645f0c2b3939d0095|ATLIEKŲ TVARKYMO ĮSTATYMO 2, 4, 25, 27, 28, 30, 31, 35 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 30(1), 30(2) STRAIPSNIAIS ĮSTATYMO [[#^s-b79370013291c01e84ccd8f9|11 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+ATLIEKŲ TVARKYMO ĮSTATYMO [[#^s-e0f2e4a1f4a43dffdee1d463|2]], [[#^s-b0592857e1f4d450725bf9bd|4]], [[#^s-eb75869b9c8731ea08b2c933|25]], [[#^s-592c118fa5e0863b414c1acb|27]], [[#^s-aaa2ec8e62df9978cf448cc6|28]], [[#^s-17dd154ccf2f7b65c087b1ca|30]], [[latest/TAR.8D38517814F1|31]], [[#^s-1f6bf2a645f0c2b3939d0095|35]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 30(1), 30(2) STRAIPSNIAIS ĮSTATYMO [[#^s-b79370013291c01e84ccd8f9|11 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5755,8 +5755,8 @@ LIETUVOS RESPUBLIKOS ATLIEKŲ TVARKYMO ĮSTATYMO NR. VIII-787 [[#^s-b0592857e1f4
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-832, 2014-04-17, paskelbta TAR 2014-04-29, i. k. 2014-04870
-LIETUVOS RESPUBLIKOS ATLIEKŲ TVARKYMO ĮSTATYMO NR. VIII-787 2, 34-1, 34-2, 34-3, 34-4, 34-5, 34-12, 34-15, 34-16, 34-24 STRAIPSNIŲ IR 5 PRIEDO PAKEITIMO ĮSTATYMAS
-Šio įstatymo [[#^s-51773d9f7acfec69f9605697|1 straipsnio]] 2, 6, 7, 8, 9, 10, [[#^s-39caa3e24236f2e042827878|11 dalys]] ir [[#^s-564b839e94d5c65fb64048ec|10 straipsnio 2 dalis]] įsigalioja 2018 m. rugpjūčio 15 d.
+LIETUVOS RESPUBLIKOS ATLIEKŲ TVARKYMO ĮSTATYMO NR. VIII-787 [[#^s-e0f2e4a1f4a43dffdee1d463|2]], 34-1, 34-2, 34-3, 34-4, 34-5, 34-12, 34-15, 34-16, 34-24 STRAIPSNIŲ IR 5 PRIEDO PAKEITIMO ĮSTATYMAS
+Šio įstatymo [[#^s-51773d9f7acfec69f9605697|1 straipsnio]] [[#^s-d57c60b9f195d396e34748f8|2]], [[#^s-6f8d673d81dbf0427e372f72|6]], 7, 8, 9, 10, 11 dalys ir [[#^s-564b839e94d5c65fb64048ec|10 straipsnio 2 dalis]] įsigalioja 2018 m. rugpjūčio 15 d.
 
 
 
@@ -5765,7 +5765,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1214, 2014-10-09, paskelbta TAR 2014-10-20, i. k. 2014-14329
-Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 1, 2, 3-1, 4-1, 6, 12-1 straipsnių ir 4 priedo pakeitimo, [[#^s-a725d743ed168398170eb0c6|19 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo 18-2 straipsniu įstatymas
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-51773d9f7acfec69f9605697|1]], [[#^s-e0f2e4a1f4a43dffdee1d463|2]], 3-1, 4-1, [[#^s-b5e886a0515aa0b666f76ba6|6]], 12-1 straipsnių ir 4 priedo pakeitimo, [[#^s-a725d743ed168398170eb0c6|19 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo 18-2 straipsniu įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5785,7 +5785,7 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 33 ir 34 straipsni
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2301, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10405
-Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4 ir 34-15 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-b0592857e1f4d450725bf9bd|4]] ir 34-15 straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5800,7 +5800,7 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-9e710202f0ca
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1018, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01031
-Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4, 7, 17, 34-1, 34-2, 34-4, 34-5, 34-7, 34-12, 34-15, 34-16, 34-18, 34-19, 34-22, 34-23 straipsnių pakeitimo, [[#^s-b7dc5c22ca1587b02b996bbc|18 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo devintuoju-1 skirsniu įstatymas
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-b0592857e1f4d450725bf9bd|4]], [[#^s-9e710202f0caba702e24a997|7]], [[#^s-39798594bc0a56f21acaa05d|17]], 34-1, 34-2, 34-4, 34-5, 34-7, 34-12, 34-15, 34-16, 34-18, 34-19, 34-22, 34-23 straipsnių pakeitimo, [[#^s-b7dc5c22ca1587b02b996bbc|18 straipsnio]] pripažinimo netekusiu galios ir Įstatymo papildymo devintuoju-1 skirsniu įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5810,7 +5810,7 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-aaa2ec8e62df
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1794, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21123
-Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2, 3-2, 4, 30, 31, 34-15, 34-19, 34-20 straipsnių, šeštojo skirsnio ir 5 priedo pakeitimo įstatymas
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-e0f2e4a1f4a43dffdee1d463|2]], 3-2, [[#^s-b0592857e1f4d450725bf9bd|4]], [[#^s-17dd154ccf2f7b65c087b1ca|30]], 31, 34-15, 34-19, 34-20 straipsnių, šeštojo skirsnio ir 5 priedo pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5830,7 +5830,7 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 pakeitimo [[latest
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1571, 2018-10-25, paskelbta TAR 2018-10-29, i. k. 2018-17068
-Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 ir [[#^s-b0592857e1f4d450725bf9bd|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-e0f2e4a1f4a43dffdee1d463|2]] ir [[#^s-b0592857e1f4d450725bf9bd|4]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5845,7 +5845,7 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 30-1 straipsnio pa
 17.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT31-N3/2020, 2020-02-18, paskelbta TAR 2020-02-18, i. k. 2020-03538
-Dėl Lietuvos Respublikos atliekų tvarkymo įstatymo, Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 ir [[#^s-b0592857e1f4d450725bf9bd|4 straipsnių]] pakeitimo įstatymo, Lietuvos Respublikos Vyriausybės 2000 m. vasario 2 d. nutarimu Nr. 113 patvirtinto Valstybinės reikšmės atliekų tvarkymo objektų steigimo ir pripažinimo tvarkos aprašo (2014 m. vasario 19 d. redakcija) nuostatų atitikties Lietuvos Respublikos Konstitucijai
+Dėl Lietuvos Respublikos atliekų tvarkymo įstatymo, Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-e0f2e4a1f4a43dffdee1d463|2]] ir [[#^s-b0592857e1f4d450725bf9bd|4]] straipsnių pakeitimo įstatymo, Lietuvos Respublikos Vyriausybės [2000 m. vasario 2 d. nutarimu Nr. 113](https://e-tar.lt/portal/lt/legalAct/TAR.03B3E736D27D) patvirtinto Valstybinės reikšmės atliekų tvarkymo objektų steigimo ir pripažinimo tvarkos aprašo (2014 m. vasario 19 d. redakcija) nuostatų atitikties Lietuvos Respublikos Konstitucijai
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5855,32 +5855,32 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-b0592857e1f4
 19.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT187-N15/2020, 2020-11-03, paskelbta TAR 2020-11-04, i. k. 2020-23045
-Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos įstatymų, kuriais reguliuojamas tam tikrų programų, fondų arba institucijų finansavimas, nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/fad428d01ea411ebb0038a8cd8ff585f)
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-407, 2021-06-17, paskelbta TAR 2021-06-30, i. k. 2021-14808
-Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 1, 2, 3, 3-1, 3-2, 4, 7, 11-1, 12-1, 18-2, 22, 30, 32, 33, 34, 34-1, 34-2, 34-3, 34-4, 34-7, 34-8, 34-15, 34-18, 34-23, 34-25, 34-26, 34-28, 34-31 straipsnių, šeštojo skirsnio, 5 priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu ir antruoju-2 skirsniu įstatymas
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-51773d9f7acfec69f9605697|1]], [[#^s-e0f2e4a1f4a43dffdee1d463|2]], [[#^s-9aa1282f06a1b03a7258fe31|3]], 3-1, 3-2, [[#^s-b0592857e1f4d450725bf9bd|4]], [[#^s-9e710202f0caba702e24a997|7]], 11-1, 12-1, 18-2, [[#^s-8cee5691787a17a96374b801|22]], [[#^s-17dd154ccf2f7b65c087b1ca|30]], 32, 33, 34, 34-1, 34-2, 34-3, 34-4, 34-7, 34-8, 34-15, 34-18, 34-23, 34-25, 34-26, 34-28, 34-31 straipsnių, šeštojo skirsnio, 5 priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu ir antruoju-2 skirsniu įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-286, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09688
-Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 ir 34-4 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-e0f2e4a1f4a43dffdee1d463|2]] ir 34-4 straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-595, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23515
-Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 1, 2, 3-3, 25, 28, 30, 32-1, 34-24, 34-25, 34-26, [[#^s-1f6bf2a645f0c2b3939d0095|35 straipsnių]] ir 5 priedo pakeitimo ir Įstatymo papildymo antruoju-3 ir aštuntuoju-11 skirsniais įstatymas
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-51773d9f7acfec69f9605697|1]], [[#^s-e0f2e4a1f4a43dffdee1d463|2]], 3-3, [[#^s-eb75869b9c8731ea08b2c933|25]], [[#^s-aaa2ec8e62df9978cf448cc6|28]], [[#^s-17dd154ccf2f7b65c087b1ca|30]], 32-1, 34-24, 34-25, 34-26, [[#^s-1f6bf2a645f0c2b3939d0095|35]] straipsnių ir 5 priedo pakeitimo ir Įstatymo papildymo antruoju-3 ir aštuntuoju-11 skirsniais įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-488, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15869
-Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4, 10 ir [[#^s-b79370013291c01e84ccd8f9|11 straipsnių]] pakeitimo ir Įstatymo papildymo 4-2 straipsniu įstatymas
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-b0592857e1f4d450725bf9bd|4]], [[#^s-a3886d478f676fc4cc4af7f3|10]] ir [[#^s-b79370013291c01e84ccd8f9|11]] straipsnių pakeitimo ir Įstatymo papildymo 4-2 straipsniu įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-875, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00190
-Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2, 11-2, 12, 28, 30, 30-1, 30-2, 35-1 straipsnių pakeitimo ir Įstatymo papildymo 25-1, 30-3, 30-4, 30-5, 30-6, 30-7, 30-8, 30-9 straipsniais, septintuoju-1 ir septintuoju-2 skirsniais įstatymas
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-e0f2e4a1f4a43dffdee1d463|2]], 11-2, [[#^s-576b80b29dd6fe2423fd3488|12]], [[#^s-aaa2ec8e62df9978cf448cc6|28]], [[#^s-17dd154ccf2f7b65c087b1ca|30]], 30-1, 30-2, 35-1 straipsnių pakeitimo ir Įstatymo papildymo 25-1, 30-3, 30-4, 30-5, 30-6, 30-7, 30-8, 30-9 straipsniais, septintuoju-1 ir septintuoju-2 skirsniais įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5890,7 +5890,7 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 4-2 straipsnio pak
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1092, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11330
-Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2 ir [[#^s-b0592857e1f4d450725bf9bd|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-e0f2e4a1f4a43dffdee1d463|2]] ir [[#^s-b0592857e1f4d450725bf9bd|4]] straipsnių pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -5905,7 +5905,7 @@ Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-e0f2e4a1f4a4
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2961, 2024-07-18, paskelbta TAR 2024-07-25, i. k. 2024-13622
-Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 2, 4, 25, 28, 30, 30-2, 30-5, 31 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos atliekų tvarkymo įstatymo Nr. VIII-787 [[#^s-e0f2e4a1f4a43dffdee1d463|2]], [[#^s-b0592857e1f4d450725bf9bd|4]], [[#^s-eb75869b9c8731ea08b2c933|25]], [[#^s-aaa2ec8e62df9978cf448cc6|28]], [[#^s-17dd154ccf2f7b65c087b1ca|30]], 30-2, 30-5, 31 straipsnių pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas

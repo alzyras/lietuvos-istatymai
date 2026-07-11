@@ -9,9 +9,12 @@ pavadinimas: "Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybi
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D38B48DC3EF0|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas]] - Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo
+- [[latest/TAR.D38B48DC3EF0|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas]] - 2 citatos - atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymo
+- [[latest/TAR.D38B48DC3EF0#^s-74d68b63bb15586e4f15ed71|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas]] - 4
+- [[latest/TAR.D38B48DC3EF0#^s-79c0d7b34df2b02765830126|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas]] - 2 citatos - 3
+- [[latest/TAR.D38B48DC3EF0#^s-c6e7e78ed134146e0fa89089|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas]] - 2
+- [[latest/TAR.D38B48DC3EF0#^s-dae54ca7d5e52ad610c81892|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas]] - 2 citatos - 9 straipsnį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D38B48DC3EF0#^s-4eafffeb07c371169a51e1da|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas]] - Įstatymas Nr. XII-1479
-- [[latest/TAR.D38B48DC3EF0#^s-db9e7cbf35cb9c27e719d17b|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas]] - Įstatymas Nr. XII-1479
+_Nėra._

@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-97d48f365a550d322b69655c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento 1998 m. sausio 27 d. dekretą Nr. 1513 „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1988 metų Jungtinių Tautų Konvenciją dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta“, ratifikuoja su išlyga ir pareiškimais 1988 metų Jungtinių Tautų Konvenciją dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta (toliau – Konvencija).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Lietuvos Respublikos Prezidento [1998 m. sausio 27 d. dekretą Nr. 1513](https://e-tar.lt/portal/lt/legalAct/TAR.5ABF84EFC906) [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1988 metų Jungtinių Tautų Konvenciją dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta“](https://e-tar.lt/portal/lt/legalAct/TAR.5ABF84EFC906), ratifikuoja su išlyga ir pareiškimais 1988 metų Jungtinių Tautų Konvenciją dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta (toliau – Konvencija).
 
 
 Straipsnio pakeitimai:
@@ -104,4 +104,4 @@ Nr. VIII-2002, 2000-10-10, Žin., 2000, Nr. 92-2854 (2000-10-31), i. k. [[latest
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3102, 2024-11-12, paskelbta TAR 2024-11-19, i. k. 2024-20122
-Lietuvos Respublikos 1988 metų Jungtinių Tautų Konvencijos dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta ratifikavimo įstatymo Nr. VIII-660 1 ir [[#^s-2c2a63a9d1bd7e1413690854|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos 1988 metų Jungtinių Tautų Konvencijos dėl kovos su neteisėta narkotinių ir psichotropinių medžiagų apyvarta ratifikavimo įstatymo Nr. VIII-660 [[#^s-97d48f365a550d322b69655c|1]] ir [[#^s-2c2a63a9d1bd7e1413690854|3]] straipsnių pakeitimo įstatymas

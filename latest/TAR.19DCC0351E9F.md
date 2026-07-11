@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-f5d7921f43f355d38a5d6426
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. liepos 19 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinę konvenciją dėl tarpusavio administracinės pagalbos užkertant kelią muitinės įstatymų pažeidimams, vykdant šių pažeidimų tyrimą ir su jais kovojant (Nairobio konvenciją) ir jos I, II, III, IX, X priedus“, ratifikuoja 1977 m. birželio 9 d. pasirašyta Nairobyje Tarptautinę konvenciją dėl tarpusavio administracinės pagalbos užkertant kelią muitinės įstatymų pažeidimams, vykdant šių pažeidimų tyrimą ir su jais kovojant ir šiuos jos priedus:
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. liepos 19 d. dekretą „[Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinę konvenciją dėl tarpusavio administracinės pagalbos užkertant kelią muitinės įstatymų pažeidimams, vykdant šių pažeidimų tyrimą ir su jais kovojant (Nairobio konvenciją) ir jos I, II, III, IX, X priedus](https://e-tar.lt/portal/lt/legalAct/TAR.7805202B5578)“, ratifikuoja 1977 m. birželio 9 d. pasirašyta Nairobyje Tarptautinę konvenciją dėl tarpusavio administracinės pagalbos užkertant kelią muitinės įstatymų pažeidimams, vykdant šių pažeidimų tyrimą ir su jais kovojant ir šiuos jos priedus:
 
 
 1) I priedą „Muitinės administracijos iniciatyva teikiama pagalba“; ^s-da295ed3d2865d8feff07704

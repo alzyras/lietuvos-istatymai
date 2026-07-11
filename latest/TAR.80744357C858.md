@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-7bff45acef26c8af461f8d62
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 4 punktu, [[latest/TAR.5BCEC9B41811#^s-2a3445d10e28acf45915286f|Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 7 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2004 m. sausio 14 d. dekretą Nr. 344, ratifikuoja 2003 m. spalio 29 d. Kopenhagoje pasirašytą Valstybių, dalyvaujančių Daugianacionalinėje nuolatinės parengties greitojo reagavimo brigadoje Jungtinių Tautų operacijoms, susitarimą dėl jų pajėgų statuso.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 4 punktu, [[latest/TAR.5BCEC9B41811#^s-2a3445d10e28acf45915286f|Tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 7 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2004 m. sausio 14 d. dekretą Nr. 344](https://e-tar.lt/portal/lt/legalAct/TAR.79C7687647CB), ratifikuoja 2003 m. spalio 29 d. Kopenhagoje pasirašytą Valstybių, dalyvaujančių Daugianacionalinėje nuolatinės parengties greitojo reagavimo brigadoje Jungtinių Tautų operacijoms, susitarimą dėl jų pajėgų statuso.
 
 
 

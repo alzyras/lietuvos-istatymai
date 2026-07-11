@@ -323,7 +323,7 @@ Nr. IX-954, 2002-06-13, Žin., 2002, Nr. 68-2760 (2002-07-03), i. k. [[latest/TA
 
 
 Įsigaliojus šiam įstatymui, pripažįstami netekusiais galios:
-1989 m. sausio 25 d. Lietuvos TSR Aukščiausiosios Tarybos Prezidiumo įsakas „Dėl Lietuvos TSR valstybinės kalbos vartojimo“ (Žin., 1989, Nr. 4-11);
+1989 m. sausio 25 d. Lietuvos TSR Aukščiausiosios Tarybos Prezidiumo įsakas [„Dėl Lietuvos TSR valstybinės kalbos vartojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.D7352A06509D) (Žin., 1989, Nr. 4-11);
 1989 m. vasario 20 d. Lietuvos TSR Ministrų Tarybos nutarimas „Dėl priemonių Lietuvos TSR valstybinės kalbos vartojimui užtikrinti“ (Žin., 1989, Nr. 7-51).
 
 
@@ -356,4 +356,4 @@ Nr. IX-954, 2002-06-13, Žin., 2002, Nr. 68-2760 (2002-07-03), i. k. [[latest/TA
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3007, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17771
-Lietuvos Respublikos valstybinės kalbos įstatymo Nr. I-779 17 ir [[#^s-ded2da2419adadad6dff7ee6|24 straipsnių]] pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas
+Lietuvos Respublikos valstybinės kalbos įstatymo Nr. I-779 [[#^s-836af00a99e9112bc3adb84c|17]] ir [[#^s-ded2da2419adadad6dff7ee6|24]] straipsnių pakeitimo ir Įstatymo papildymo 7-1 straipsniu įstatymas

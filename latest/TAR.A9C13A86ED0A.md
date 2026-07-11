@@ -146,10 +146,10 @@ Nr. XIV-59, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27615
 ### 31 straipsnis. Asmens duomenų tvarkymas ^s-a44f0debaffa1a04dddfdcf2
 
 
-1. Įgyvendindamos šį įstatymą, krašto apsaugos sistemos institucijos Lietuvos Respublikos karių ir civilių krašto apsaugos sistemos tarnautojų asmens duomenis, susijusius su tarptautinių operacijų, pratybų ir kitų renginių planavimu, organizavimu ir dalyvavimu juose, taip pat krašto apsaugos sistemos ir kitos institucijos užsienio valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų bei rangovų (fizinių asmenų, rangovų darbuotojų) asmens duomenis, susijusius su tarptautinių operacijų, pratybų ir kitų renginių planavimu, organizavimu ir dalyvavimu juose, taip pat išlaikytinių asmens duomenis, susijusius su išlaikytinių teisių įgyvendinimu pagal Lietuvos Respublikos tarptautines sutartis dėl karinių pajėgų statuso, tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu]] (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) ir šiuo įstatymu. Šiais tikslais krašto apsaugos sistemos ir kitos institucijos turi teisę tvarkyti ir specialių kategorijų asmens duomenis. ^s-c82eee5a9e2153d56772ba93
+1. Įgyvendindamos šį įstatymą, krašto apsaugos sistemos institucijos Lietuvos Respublikos karių ir civilių krašto apsaugos sistemos tarnautojų asmens duomenis, susijusius su tarptautinių operacijų, pratybų ir kitų renginių planavimu, organizavimu ir dalyvavimu juose, taip pat krašto apsaugos sistemos ir kitos institucijos užsienio valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų bei rangovų (fizinių asmenų, rangovų darbuotojų) asmens duomenis, susijusius su tarptautinių operacijų, pratybų ir kitų renginių planavimu, organizavimu ir dalyvavimu juose, taip pat išlaikytinių asmens duomenis, susijusius su išlaikytinių teisių įgyvendinimu pagal Lietuvos Respublikos tarptautines sutartis dėl karinių pajėgų statuso, tvarko nacionalinio saugumo ir gynybos tikslais, vadovaudamosi [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu]] (toliau – [[latest/TAR.299D835159BE|Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas]]) ir šiuo įstatymu. Šiais tikslais krašto apsaugos sistemos ir kitos institucijos turi teisę tvarkyti ir specialių kategorijų asmens duomenis. ^s-c82eee5a9e2153d56772ba93
 
 
-2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-f6628e0d9b64223462fbfbe4|11 straipsnio 2 dalyje]], [[#^s-848873e8241e7437f6f78599|14 straipsnio 5 dalyje]], 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (Lietuvos Respublikos kariams ir civiliams krašto apsaugos sistemos tarnautojams, taip pat užsienio valstybių kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams bei rangovams (fiziniams asmenims, rangovų darbuotojams), taip pat išlaikytiniams) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-04034bd3c9947f2c8d67f48f|12 straipsnyje]], [[#^s-17c4771e5b41ebc4cb803bf9|14 straipsnio]] 1, 2 ir 3 dalyse nustatytos duomenų subjektų (Lietuvos Respublikos karių ir civilių krašto apsaugos sistemos tarnautojų, taip pat užsienio valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų bei rangovų (fizinių asmenų, rangovų darbuotojų), taip pat išlaikytinių) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (arba) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma arba gali būti sukliudyta planuoti, organizuoti ir (arba) vykdyti tarptautines operacijas, pratybas ir kitus renginius. Krašto apsaugos sistemos institucija krašto apsaugos ministro ar jo įgalioto asmens, o kita institucija – šios institucijos vadovo ar jo įgalioto asmens nustatyta tvarka turi kiekvienu konkrečiu atveju įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu. ^s-e56f802ce6748fc35ec3c9b4
+2. Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-f6628e0d9b64223462fbfbe4|11 straipsnio 2 dalyje]], [[#^s-848873e8241e7437f6f78599|14 straipsnio 5 dalyje]], 30 straipsnio 1 dalyje nurodytos informacijos teikimas duomenų subjektams (Lietuvos Respublikos kariams ir civiliams krašto apsaugos sistemos tarnautojams, taip pat užsienio valstybių kariams ir karinėms pajėgoms priskirtiems civiliams tarnautojams bei rangovams (fiziniams asmenims, rangovų darbuotojams), taip pat išlaikytiniams) gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-04034bd3c9947f2c8d67f48f|12 straipsnyje]], [[#^s-17c4771e5b41ebc4cb803bf9|14 straipsnio]] [[#^s-c7bf82d084ae3d8731b6250a|1]], [[#^s-fc5ee3c0650a35e912f90244|2]] ir [[#^s-40415f592df5bd2974212944|3]] dalyse nustatytos duomenų subjektų (Lietuvos Respublikos karių ir civilių krašto apsaugos sistemos tarnautojų, taip pat užsienio valstybių karių ir karinėms pajėgoms priskirtų civilių tarnautojų bei rangovų (fizinių asmenų, rangovų darbuotojų), taip pat išlaikytinių) teisės susipažinti su savo asmens duomenimis, reikalauti ištaisyti, ištrinti asmens duomenis ar apriboti jų tvarkymą gali būti apribotos visiškai arba iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ir (arba) įgyvendinus šioje dalyje nurodytą duomenų subjekto teisę gali tapti neįmanoma arba gali būti sukliudyta planuoti, organizuoti ir (arba) vykdyti tarptautines operacijas, pratybas ir kitus renginius. Krašto apsaugos sistemos institucija krašto apsaugos ministro ar jo įgalioto asmens, o kita institucija – šios institucijos vadovo ar jo įgalioto asmens nustatyta tvarka turi kiekvienu konkrečiu atveju įvertinti, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai arba iš dalies apribotos, taip pat fiksuoti raštu, įskaitant elektroninę formą, faktines arba teisines priežastis, kuriomis pagrįstas sprendimas apriboti šias teises, ir prireikus šią informaciją pateikti subjektams, nagrinėjantiems skundus dėl žmogaus teisių ir laisvių pažeidimų, jų prašymu. ^s-e56f802ce6748fc35ec3c9b4
 
 
 Straipsnio pakeitimai:
@@ -219,7 +219,7 @@ Nr. XII-1931, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11104
 
 
 
-10. Lietuvos Respublikos karinių vienetų, dalyvaujančių tarptautinėse operacijose užsienyje, užduotims atlikti gali būti pasitelkti kalbos, religijos ar socialinio gyvenimo žinovai. Tokių asmenų paslaugų teikimo, atlyginimo už jas, jų aprūpinimo ir sutarties su jais sąlygas nustato Lietuvos Respublikos Vyriausybė. Vyriausybės nustatyta tvarka tokiems asmenims gali būti taikomos su užduočių padedant Lietuvos Respublikos kariniams vienetams atlikimu susijusios socialinės garantijos, kurios negali būti didesnės negu [[latest/TAR.15C705E93776#^s-b067cc00b81507ef2bac924f|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 77² straipsnyje, 67 straipsnio]] 6, 7, 8, 9, 10, 11, 12, 13 ir 14 dalyse nustatytos mutatis mutandis taikytinos garantijos. ^s-b9257a0cd94a9691a9f6653a
+10. Lietuvos Respublikos karinių vienetų, dalyvaujančių tarptautinėse operacijose užsienyje, užduotims atlikti gali būti pasitelkti kalbos, religijos ar socialinio gyvenimo žinovai. Tokių asmenų paslaugų teikimo, atlyginimo už jas, jų aprūpinimo ir sutarties su jais sąlygas nustato Lietuvos Respublikos Vyriausybė. Vyriausybės nustatyta tvarka tokiems asmenims gali būti taikomos su užduočių padedant Lietuvos Respublikos kariniams vienetams atlikimu susijusios socialinės garantijos, kurios negali būti didesnės negu [[latest/TAR.15C705E93776#^s-b067cc00b81507ef2bac924f|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymo 77² straipsnyje, 67 straipsnio]] [[latest/TAR.15C705E93776#^s-f6984ec676951cd0a7d51093|6]], [[latest/TAR.15C705E93776#^s-119c3d52825c709ce0f22bbc|7]], [[latest/TAR.15C705E93776#^s-0054c41c92e2904e479e2feb|8]], [[latest/TAR.15C705E93776#^s-a93a9891206ad542e958dd17|9]], [[latest/TAR.15C705E93776#^s-d892384da8d4ebc66ab9936e|10]], [[latest/TAR.15C705E93776#^s-ee597fdf2bc67887de709501|11]], [[latest/TAR.15C705E93776#^s-c2c6529e9f1dabb4d71137c5|12]], [[latest/TAR.15C705E93776#^s-c3aef9364878a5c5f7522f1b|13]] ir [[latest/TAR.15C705E93776#^s-d2ee70fb0ff38d2a259bbbac|14]] dalyse nustatytos mutatis mutandis taikytinos garantijos. ^s-b9257a0cd94a9691a9f6653a
 Straipsnio dalies pakeitimai:
 Nr. XIII-1813, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21829
 Straipsnio dalies numeracijos pakeitimas:
@@ -514,7 +514,7 @@ Jeigu Lietuvos Respublikos tarptautinės sutartys dėl karinių pajėgų statuso
 ### 16 straipsnis. Įstatymo 5 straipsnio įsigaliojimas ^s-d9eea1ace7e5f03bebc13fe6
 
 
-Šio Įstatymo [[#^s-efcb79a485b662968e70f857|5 straipsnis]] įsigalios tą pačią dieną, kai Lietuvos Respublikai įsigalios Šiaurės Atlanto sutartis.
+Šio Įstatymo [[#^s-efcb79a485b662968e70f857|5 straipsnis]] įsigalios tą pačią dieną, kai Lietuvos Respublikai įsigalios [Šiaurės Atlanto sutartis](https://e-tar.lt/portal/lt/legalAct/TAR.7FCEE85BF1FD).
 
 
 
@@ -597,7 +597,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2011-03-15, Žin., 2011, Nr. 32-1503 (2011-03-17)
-DĖL LIETUVOS RESPUBLIKOS TARPTAUTINIŲ OPERACIJŲ, PRATYBŲ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO (2002 M. SAUSIO 15 D. REDAKCIJA) [[#^s-efcb79a485b662968e70f857|5 STRAIPSNIO]] 1, 2, 3, 4 DALIŲ, [[#^s-46bf62cbeb8d8afa95b42298|6 STRAIPSNIO]] 2, 3, 4 DALIŲ, [[#^s-6992aabc1f8f7fad0fc9b8dd|10 STRAIPSNIO]] (2005 M. GEGUŽĖS 12 D. REDAKCIJA) 1, 2, 3 DALIŲ, [[#^s-17c4771e5b41ebc4cb803bf9|14 STRAIPSNIO]] 2, 3, 5 DALIŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS TARPTAUTINIŲ OPERACIJŲ, PRATYBŲ IR KITŲ KARINIO BENDRADARBIAVIMO RENGINIŲ ĮSTATYMO (2002 M. SAUSIO 15 D. REDAKCIJA) 5 STRAIPSNIO 1, 2, 3, 4 DALIŲ, 6 STRAIPSNIO 2, 3, 4 DALIŲ, 10 STRAIPSNIO (2005 M. GEGUŽĖS 12 D. REDAKCIJA) 1, 2, 3 DALIŲ, 14 STRAIPSNIO 2, 3, 5 DALIŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.25D2FC1EA809)
 
 
 Pakeitimai:
@@ -605,7 +605,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1931, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11104
-Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 4, 8 ir [[#^s-e4e8c20b898751cb8adbb95a|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 [[#^s-7659600a615260b9d8cfa777|4]], [[#^s-e1f9e737496376ece6399cca|8]] ir [[#^s-e4e8c20b898751cb8adbb95a|9]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -620,12 +620,12 @@ Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendrad
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1599, 2018-11-06, paskelbta TAR 2018-11-12, i. k. 2018-18210
-Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 2 ir [[#^s-f03f9c6b42951ca32d28859b|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 [[#^s-3ac0359b718ddf8168225cc1|2]] ir [[#^s-f03f9c6b42951ca32d28859b|3]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1813, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21829
-Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 1 ir [[#^s-7659600a615260b9d8cfa777|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 [[#^s-a4c98214ea5668381a513af8|1]] ir [[#^s-7659600a615260b9d8cfa777|4]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -640,9 +640,9 @@ Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendrad
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-59, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27615
-Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 1, 2, 3, 3-1, 8, 9 ir [[#^s-04034bd3c9947f2c8d67f48f|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 [[#^s-a4c98214ea5668381a513af8|1]], [[#^s-3ac0359b718ddf8168225cc1|2]], [[#^s-f03f9c6b42951ca32d28859b|3]], 3-1, [[#^s-e1f9e737496376ece6399cca|8]], [[#^s-e4e8c20b898751cb8adbb95a|9]] ir [[#^s-04034bd3c9947f2c8d67f48f|12]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1735, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00149
-Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 2, 4, 5 ir [[#^s-46bf62cbeb8d8afa95b42298|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatymo Nr. I-555 [[#^s-3ac0359b718ddf8168225cc1|2]], [[#^s-7659600a615260b9d8cfa777|4]], [[#^s-efcb79a485b662968e70f857|5]] ir [[#^s-46bf62cbeb8d8afa95b42298|6]] straipsnių pakeitimo įstatymas

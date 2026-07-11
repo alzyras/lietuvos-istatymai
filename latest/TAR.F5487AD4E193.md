@@ -224,7 +224,7 @@ Pakeisti 16 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 „3. Statinio projektas rengiamas vadovaujantis teritorijų planavimo dokumentais, žemės sklypo (teritorijos) ir statinio statybinių tyrinėjimų (jeigu juos atlikti privaloma) dokumentais, kultūros paveldo vertybės tyrimų medžiaga, galiojančiais teisės aktais, prisijungimo sąlygomis ir:
 
 
-1) savivaldybės administracijos išduotais specialiaisiais architektūros reikalavimais, kurie neprieštarauja šios dalies 2 ir [[#^s-c1b849f95cbfadbca33e2865|3 punktuose]] nurodytiems reikalavimams; ^s-6cb8b0f1708f40e754258d44
+1) savivaldybės administracijos išduotais specialiaisiais architektūros reikalavimais, kurie neprieštarauja šios dalies [[#^s-97d76374ba59dd434d35a76a|2]] ir [[#^s-c1b849f95cbfadbca33e2865|3]] punktuose nurodytiems reikalavimams; ^s-6cb8b0f1708f40e754258d44
 
 
 2) Kultūros paveldo departamento prie Kultūros ministerijos išduotais specialiaisiais paveldosaugos reikalavimais, taikomais kultūros paveldo vertybei ar jos teritorijai, konkrečiam kultūros paveldo statiniui, statiniui, esančiam kultūros paveldo objekto teritorijoje arba kultūros paveldo vietovėje ar jų apsaugos zonose; ^s-97d76374ba59dd434d35a76a
@@ -236,7 +236,7 @@ Pakeisti 16 straipsnio 2 dalies 3 punktą ir jį išdėstyti taip:
 8. Pakeisti 20 straipsnio 8 dalį ir ją išdėstyti taip: ^s-dc151b32320bc92c969f29bc
 
 
-„8. Inžinerinių tinklų ir susisiekimo komunikacijų savininkas ar naudotojas, taip pat [[#^s-47ff4694baa17a32666b5dd0|šio straipsnio 3 dalies]] 1, 2 ir 3 punktuose nurodyti viešojo administravimo subjektai išduoda prisijungimo sąlygas ar specialiuosius reikalavimus per 15 darbo dienų nuo statytojo (užsakovo) prašymo išduoti šias sąlygas ar specialiuosius reikalavimus gavimo dienos. Jeigu specialieji reikalavimai ar prisijungimo sąlygos per nustatytą terminą neišduodami, statytojas (užsakovas) turi teisę kreiptis į Valstybinę teritorijų planavimo ir statybos inspekciją prie Aplinkos ministerijos, kuri Administracinių teisės pažeidimų kodekso nustatyta tvarka atsakingiems už šių sąlygų ar specialiųjų reikalavimų išdavimą asmenims arba šių sąlygų ar specialiųjų reikalavimų per nustatytą terminą neišdavusiems juridiniams asmenims pagal šio Įstatymo 541 straipsnį surašo administracinių teisės pažeidimų protokolus ir išsiunčia šiuos protokolus teismui. Išduotų prisijungimo sąlygų ir specialiųjų reikalavimų neteisėtumą arba atsisakymą išduoti šias sąlygas ir specialiuosius reikalavimus statytojas (užsakovas) teisės aktų nustatyta tvarka gali apskųsti Valstybinei teritorijų planavimo ir statybos inspekcijai prie Aplinkos ministerijos arba teismui.“
+„8. Inžinerinių tinklų ir susisiekimo komunikacijų savininkas ar naudotojas, taip pat [[#^s-47ff4694baa17a32666b5dd0|šio straipsnio 3 dalies]] 1, 2 ir 3 punktuose nurodyti viešojo administravimo subjektai išduoda prisijungimo sąlygas ar specialiuosius reikalavimus per 15 darbo dienų nuo statytojo (užsakovo) prašymo išduoti šias sąlygas ar specialiuosius reikalavimus gavimo dienos. Jeigu specialieji reikalavimai ar prisijungimo sąlygos per nustatytą terminą neišduodami, statytojas (užsakovas) turi teisę kreiptis į Valstybinę teritorijų planavimo ir statybos inspekciją prie Aplinkos ministerijos, kuri [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka atsakingiems už šių sąlygų ar specialiųjų reikalavimų išdavimą asmenims arba šių sąlygų ar specialiųjų reikalavimų per nustatytą terminą neišdavusiems juridiniams asmenims pagal šio Įstatymo 541 straipsnį surašo administracinių teisės pažeidimų protokolus ir išsiunčia šiuos protokolus teismui. Išduotų prisijungimo sąlygų ir specialiųjų reikalavimų neteisėtumą arba atsisakymą išduoti šias sąlygas ir specialiuosius reikalavimus statytojas (užsakovas) teisės aktų nustatyta tvarka gali apskųsti Valstybinei teritorijų planavimo ir statybos inspekcijai prie Aplinkos ministerijos arba teismui.“
 
 
 9. Papildyti 20 straipsnį 13 dalimi: ^s-af6ca815da3e9297244d874c
@@ -382,7 +382,7 @@ Pakeisti [[#^s-5eed1f946652a5c1eb1ae3dd|22 straipsnio 1 dalį]] ir ją išdėsty
 2) 20 darbo dienų – neypatingo statinio statybos ar rekonstravimo projektui, ypatingo statinio kapitalinio remonto projektui patikrinti; ^s-6747915446f07ec1fe22242d
 
 
-3) 10 darbo dienų – kitais, negu šios dalies 1 ir [[#^s-6747915446f07ec1fe22242d|2 punktuose]] nurodytais, atvejais.“ ^s-51259ec9f9a270612c813740
+3) 10 darbo dienų – kitais, negu šios dalies [[#^s-eb9bc475b221fe99e9e67cb9|1]] ir [[#^s-6747915446f07ec1fe22242d|2]] punktuose nurodytais, atvejais.“ ^s-51259ec9f9a270612c813740
 
 
 14. 23 straipsnio 19 dalį pripažinti netekusia galios. ^s-6db1e3206492b4e6d167896e
@@ -406,7 +406,7 @@ Pakeisti [[#^s-5eed1f946652a5c1eb1ae3dd|22 straipsnio 1 dalį]] ir ją išdėsty
 2) 30 darbo dienų – leidimas statyti naują ar rekonstruoti neypatingą statinį, rašytinis pritarimas ypatingo statinio kapitalinio remonto projektui; ^s-cd26f7a0964200441136edc7
 
 
-3) 15 darbo dienų – kitais, negu šios dalies 1, 2 ir [[#^s-c162ebfeffe73ad9f393098a|4 punktuose]] nurodytais, atvejais; ^s-c101958d239833e55f06b59f
+3) 15 darbo dienų – kitais, negu šios dalies [[#^s-6a863aaaf82763b69670d2b5|1]], [[#^s-cd26f7a0964200441136edc7|2]] ir [[#^s-c162ebfeffe73ad9f393098a|4]] punktuose nurodytais, atvejais; ^s-c101958d239833e55f06b59f
 
 
 4) 10 darbo dienų – leidimas tęsti sustabdytą statybą.“ ^s-c162ebfeffe73ad9f393098a
@@ -415,7 +415,7 @@ Pakeisti [[#^s-5eed1f946652a5c1eb1ae3dd|22 straipsnio 1 dalį]] ir ją išdėsty
 17. Pakeisti 23 straipsnio 24 dalį ir ją išdėstyti taip: ^s-ab6ac0c9dbb3b39fb313c2a8
 
 
-„24. Jeigu [[#^s-1c5c81251630a70bb88ee8fe|šio straipsnio 1 dalies]] 1, 2, 3 ar 4 punkte nurodytas statybą leidžiantis dokumentas per nustatytą terminą neišduotas ir apie neišdavimo priežastis statytojui (užsakovui) per 5 darbo dienas nuo statybą leidžiančio dokumento išdavimo termino pabaigos nepranešta, statytojas (užsakovas) ne vėliau kaip per 20 darbo dienų nuo statybą leidžiančio dokumento išdavimo termino pabaigos turi teisę šiame straipsnyje nustatyta tvarka teikti prašymą išduoti statybą leidžiantį dokumentą Valstybinei teritorijų planavimo ir statybos inspekcijai prie Aplinkos ministerijos, kuri atlieka šiame straipsnyje nurodytas statybą leidžiančio dokumento išdavimo procedūras, taip pat Administracinių teisės pažeidimų kodekso nustatyta tvarka atsakingiems už statybą leidžiančio dokumento išdavimą asmenims surašo administracinių teisės pažeidimų protokolus ir siunčia šiuos protokolus teismui.“
+„24. Jeigu [[#^s-1c5c81251630a70bb88ee8fe|šio straipsnio 1 dalies]] 1, 2, 3 ar 4 punkte nurodytas statybą leidžiantis dokumentas per nustatytą terminą neišduotas ir apie neišdavimo priežastis statytojui (užsakovui) per 5 darbo dienas nuo statybą leidžiančio dokumento išdavimo termino pabaigos nepranešta, statytojas (užsakovas) ne vėliau kaip per 20 darbo dienų nuo statybą leidžiančio dokumento išdavimo termino pabaigos turi teisę šiame straipsnyje nustatyta tvarka teikti prašymą išduoti statybą leidžiantį dokumentą Valstybinei teritorijų planavimo ir statybos inspekcijai prie Aplinkos ministerijos, kuri atlieka šiame straipsnyje nurodytas statybą leidžiančio dokumento išdavimo procedūras, taip pat [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatyta tvarka atsakingiems už statybą leidžiančio dokumento išdavimą asmenims surašo administracinių teisės pažeidimų protokolus ir siunčia šiuos protokolus teismui.“
 
 
 18. Pakeisti 23 straipsnio 25 dalį ir ją išdėstyti taip: ^s-2b38fdaa13701b4d2ceccf0b
@@ -439,7 +439,7 @@ Pakeisti [[#^s-5eed1f946652a5c1eb1ae3dd|22 straipsnio 1 dalį]] ir ją išdėsty
 1) teismo sprendimu, jeigu [[#^s-1c5c81251630a70bb88ee8fe|šio straipsnio 1 dalies]] 1–4 punktuose nurodyti statybą leidžiantys dokumentai išduoti neteisėtai; ^s-a74a2bb2e7020306d5dbcaa7
 
 
-2) viešojo administravimo subjekto, išdavusio [[#^s-1c5c81251630a70bb88ee8fe|šio straipsnio 1 dalies]] 1–4 punktuose nurodytus statybą leidžiančius dokumentus, sprendimu: jeigu pakeitus esminius statinio projekto sprendinius šis subjektas išdavė naują statybą leidžiantį dokumentą; pasikeitus statytojui, kai vietoj buvusio statybą leidžiančio dokumento pagal tą patį statinio projektą neatliekant statinio projekto patikrinimo procedūrų išduodamas naujas statybą leidžiantis dokumentas kito statytojo vardu; asmens, kurio vardu išduotas statybą leidžiantis dokumentas, prašymu; ^s-0938ad69b8c7baed8cacf60c
+2) viešojo administravimo subjekto, išdavusio [[#^s-1c5c81251630a70bb88ee8fe|šio straipsnio 1 dalies]] [[#^s-a74a2bb2e7020306d5dbcaa7|1]]–4 punktuose nurodytus statybą leidžiančius dokumentus, sprendimu: jeigu pakeitus esminius statinio projekto sprendinius šis subjektas išdavė naują statybą leidžiantį dokumentą; pasikeitus statytojui, kai vietoj buvusio statybą leidžiančio dokumento pagal tą patį statinio projektą neatliekant statinio projekto patikrinimo procedūrų išduodamas naujas statybą leidžiantis dokumentas kito statytojo vardu; asmens, kurio vardu išduotas statybą leidžiantis dokumentas, prašymu; ^s-0938ad69b8c7baed8cacf60c
 
 
 3) Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos sprendimu – šio straipsnio 1 dalies 6 punkte nurodyto statybą leidžiančio dokumento, jeigu statinio statyba po šio statybą leidžiančio dokumento išdavimo yra pakartotinai sustabdyta.“ ^s-c14e3dfd00d9cf2d6dd4c338
@@ -454,7 +454,7 @@ Pakeisti [[#^s-5eed1f946652a5c1eb1ae3dd|22 straipsnio 1 dalį]] ir ją išdėsty
 22. Pakeisti 23 straipsnio 31 dalį ir ją išdėstyti taip: ^s-36a604bcc0e6d76a59fe2c1a
 
 
-„31. Statytojai (užsakovai) turi teisę pateikti prašymus išduoti [[#^s-1c5c81251630a70bb88ee8fe|šio straipsnio 1 dalies]] 1, 2, 3, 4 ir 6 punktuose nurodytus statybą leidžiančius dokumentus naudodamiesi Lietuvos Respublikos statybos leidimų ir valstybinės priežiūros informacine sistema „Infostatyba“. Kartu su prašymu pateikiamų šio straipsnio 7, 8, 9 ir [[#^s-e46729bfb717d94a5b748e4f|10 dalyse]] nurodytų dokumentų (išskyrus atitinkamą statinio projektą) tikrumas turi būti patvirtintas statytojo (užsakovo) arba jo įgalioto asmens elektroniniu parašu. Statybą leidžiantis dokumentas laikomas galiojančiu, jeigu jo duomenys paskelbti šioje sistemoje. Paskelbus šiuos duomenis, tik statytojo (užsakovo) ar jo įgalioto asmens prašymu išduodamas įgalioto valstybės tarnautojo pasirašytas statybą leidžiantis dokumentas ar įgalioto valstybės tarnautojo elektroniniu parašu nuotoliniu būdu pasirašytas statybą leidžiantis dokumentas.“
+„31. Statytojai (užsakovai) turi teisę pateikti prašymus išduoti [[#^s-1c5c81251630a70bb88ee8fe|šio straipsnio 1 dalies]] 1, 2, 3, 4 ir 6 punktuose nurodytus statybą leidžiančius dokumentus naudodamiesi Lietuvos Respublikos statybos leidimų ir valstybinės priežiūros informacine sistema „Infostatyba“. Kartu su prašymu pateikiamų šio straipsnio [[#^s-9e928b554f20a9f9320b8d09|7]], [[#^s-1581afb9483fa7185831fb69|8]], [[#^s-c030ba3feff6eb95483f2d03|9]] ir [[#^s-e46729bfb717d94a5b748e4f|10]] dalyse nurodytų dokumentų (išskyrus atitinkamą statinio projektą) tikrumas turi būti patvirtintas statytojo (užsakovo) arba jo įgalioto asmens elektroniniu parašu. Statybą leidžiantis dokumentas laikomas galiojančiu, jeigu jo duomenys paskelbti šioje sistemoje. Paskelbus šiuos duomenis, tik statytojo (užsakovo) ar jo įgalioto asmens prašymu išduodamas įgalioto valstybės tarnautojo pasirašytas statybą leidžiantis dokumentas ar įgalioto valstybės tarnautojo elektroniniu parašu nuotoliniu būdu pasirašytas statybą leidžiantis dokumentas.“
 
 
 23. Pakeisti 23 straipsnio 36 dalį ir ją išdėstyti taip: ^s-43efe6d0a8d6b824c5b0344f
@@ -575,7 +575,7 @@ Savavališkos statybos padariniai šalinami [[latest/TAR.5756AB4F657E|Teritorij�
 2) įpareigoja statytoją (užsakovą) ar kitą [[#^s-08669d04aaaa89047c27613f|šios dalies 1 punkte]] nurodytą asmenį per nustatytą terminą teismo pripažintų kaltais asmenų lėšomis išardyti perstatytas ar pertvarkytas statinio dalis ar atstatyti (atkurti) kultūros paveldo statinį (jo dalį) arba statinį (jo dalį), kurį (kurią) nugriovus (išardžius) buvo pažeistas viešasis interesas; ^s-da9381192930a4598cad5e3f
 
 
-3) leidžia [[#^s-08669d04aaaa89047c27613f|šios dalies 1 punkte]] nurodytam asmeniui per nustatytą terminą pagal reikiamai pertvarkytą projektinę dokumentaciją gavus naują statybą leidžiantį dokumentą perstatyti ar pertvarkyti statinį ar jo dalį, jeigu toks statinio perstatymas ar pertvarkymas yra galimas pagal galiojančius detaliuosius planus ar žemės valdos projektus (jeigu jie privalomi), taip pat bendruosius planus ar specialiojo teritorijų planavimo dokumentus ir tokia statyba neprieštarauja imperatyviems aplinkos apsaugos, paveldosaugos, saugomų teritorijų apsaugos teisės aktų reikalavimams; šių veiksmų per nustatytą terminą neatlikus, – vykdyti šios dalies 1 ar [[#^s-da9381192930a4598cad5e3f|2 punkte]] nurodytus reikalavimus; ^s-7b0e80a063d0797aa70adfe9
+3) leidžia [[#^s-08669d04aaaa89047c27613f|šios dalies 1 punkte]] nurodytam asmeniui per nustatytą terminą pagal reikiamai pertvarkytą projektinę dokumentaciją gavus naują statybą leidžiantį dokumentą perstatyti ar pertvarkyti statinį ar jo dalį, jeigu toks statinio perstatymas ar pertvarkymas yra galimas pagal galiojančius detaliuosius planus ar žemės valdos projektus (jeigu jie privalomi), taip pat bendruosius planus ar specialiojo teritorijų planavimo dokumentus ir tokia statyba neprieštarauja imperatyviems aplinkos apsaugos, paveldosaugos, saugomų teritorijų apsaugos teisės aktų reikalavimams; šių veiksmų per nustatytą terminą neatlikus, – vykdyti šios dalies [[#^s-08669d04aaaa89047c27613f|1]] ar [[#^s-da9381192930a4598cad5e3f|2]] punkte nurodytus reikalavimus; ^s-7b0e80a063d0797aa70adfe9
 
 
 4) įpareigoja kompetentingas institucijas per nustatytą terminą pagal statytojo (užsakovo) ar kito [[#^s-08669d04aaaa89047c27613f|šios dalies 1 punkte]] nurodyto asmens tinkamai pertvarkytą projektinę dokumentaciją (jeigu tai būtina), jeigu statinio statyba nepažeidžia galiojančių detaliųjų planų ar žemės valdos projektų (jeigu jie privalomi), taip pat bendrųjų planų ar specialiojo teritorijų planavimo dokumentų sprendinių ir tokia statyba neprieštarauja imperatyviems aplinkos apsaugos, paveldosaugos, saugomų teritorijų apsaugos teisės aktų reikalavimams, išduoti naują statybą leidžiantį dokumentą tuo atveju, kai statybą leidžiantis dokumentas buvo išduotas neteisėtai dėl kompetentingų institucijų neteisėtai atliktų procedūrų.“ ^s-532b18738d18338b5a08519e
@@ -766,10 +766,10 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 „45 straipsnis. Naudojimasis informacinėmis sistemomis
 
 
-1. Šio įstatymo 20, 23 ir 34 straipsniuose nurodytas procedūras viešojo administravimo subjektai atlieka naudodamiesi Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacine sistema „Infostatyba“ šios sistemos nuostatuose, kuriuos tvirtina aplinkos ministras, nustatyta tvarka arba kita Aplinkos ministerijos nustatyta tvarka. ^s-5eed1f946652a5c1eb1ae3dd
+1. Šio įstatymo [[#^s-8c5805b09fd3de08463449c5|20]], [[#^s-b970d933c67c6b5d94efbc5e|23]] ir 34 straipsniuose nurodytas procedūras viešojo administravimo subjektai atlieka naudodamiesi Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacine sistema „Infostatyba“ šios sistemos nuostatuose, kuriuos tvirtina aplinkos ministras, nustatyta tvarka arba kita Aplinkos ministerijos nustatyta tvarka. ^s-5eed1f946652a5c1eb1ae3dd
 
 
-2. Su šio įstatymo 20, 23 ir 34 straipsniuose nurodytomis procedūromis susiję rašytinių dokumentų duomenys turi atitikti Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ paskelbtus šių dokumentų duomenis. ^s-175394ce841e96366951d89a
+2. Su šio įstatymo [[#^s-8c5805b09fd3de08463449c5|20]], [[#^s-b970d933c67c6b5d94efbc5e|23]] ir 34 straipsniuose nurodytomis procedūromis susiję rašytinių dokumentų duomenys turi atitikti Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ paskelbtus šių dokumentų duomenis. ^s-175394ce841e96366951d89a
 
 
 3. Jeigu randama neatitikimų ar prieštaravimų, viršenybė teikiama Lietuvos Respublikos statybos leidimų ir statybos valstybinės priežiūros informacinėje sistemoje „Infostatyba“ paskelbtų dokumentų duomenims.“ ^s-63048dd3f5cf0729bb36c44a
@@ -799,7 +799,7 @@ Pakeisti 55 straipsnį ir jį išdėstyti taip:
 „55 straipsnis. Šio Įstatymo 46, 47, 48, 49, 50, 51, 52, 53, 54 ir 541 straipsniuose nurodytų pažeidimų taikymo ir nagrinėjimo tvarka
 
 
-Šio Įstatymo 46, 47, 48, 49, 50, 51, 52, 53, 54 ir 541 straipsniuose nurodyti pažeidimai taikomi ir juridinių asmenų filialams, taip pat kitoms užsienio organizacijoms; nurodyti pažeidimai tiriami, nagrinėjami, nutarimai skundžiami ir vykdomi tokia pačia tvarka kaip atitinkamuose Administracinių teisės pažeidimų kodekso straipsniuose nurodyti pažeidimai.“
+Šio Įstatymo 46, 47, 48, 49, 50, 51, 52, 53, 54 ir 541 straipsniuose nurodyti pažeidimai taikomi ir juridinių asmenų filialams, taip pat kitoms užsienio organizacijoms; nurodyti pažeidimai tiriami, nagrinėjami, nutarimai skundžiami ir vykdomi tokia pačia tvarka kaip atitinkamuose [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) straipsniuose nurodyti pažeidimai.“
 
 
 
@@ -813,7 +813,7 @@ Lietuvos Respublikos Vyriausybė arba jos įgaliota institucija ir Lietuvos Resp
 ### 26 straipsnis. Įstatymo įsigaliojimas ^s-8d40a8571bd69830fadbc799
 
 
-Šis įstatymas, išskyrus 22 ir [[#^s-7c5381d9e1f749a89135dbfd|25 straipsnius]], įsigalioja 2014 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-ed3d129f2cdbc507136f4e72|22]] ir [[#^s-7c5381d9e1f749a89135dbfd|25]] straipsnius, įsigalioja 2014 m. sausio 1 d.
 
 
 

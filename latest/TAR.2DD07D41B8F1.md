@@ -57,7 +57,7 @@ FISKALINĖS VALDYSENOS
 2. Šiame įstatyme nustatoma fiskalinė valdysena, kad būtų užtikrintas Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme ir Europos Sąjungos teisės aktuose, nurodytuose šio įstatymo priede, nustatytų fiskalinės drausmės taisyklių (toliau šiame įstatyme – fiskalinės drausmės taisyklės) laikymasis. ^s-187fd9ceac8e4fbf3635a56f
 
 
-3. Šiuo įstatymu įgyvendinamas Fiskalinės sutarties įgyvendinimo konstitucinis įstatymas. ^s-db8a55ee427c047d50497314
+3. Šiuo įstatymu įgyvendinamas [Fiskalinės sutarties įgyvendinimo konstitucinis įstatymas](https://e-tar.lt/portal/lt/legalAct/34cc90406ef211e484b9c12b550436a3). ^s-db8a55ee427c047d50497314
 
 
 4. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktais, nurodytais šio įstatymo priede. ^s-4edfb1e45395a2662bf4e765
@@ -76,7 +76,7 @@ FISKALINĖS VALDYSENOS
 3. Fiskalinė valdysena – fiskalinės drausmės taisyklių, jų laikymąsi užtikrinančių subjektų ir procedūrų visuma. ^s-e17997965931ab50c25c115f
 
 
-4. Nepriklausoma fiskalinė institucija – institucija, atsakinga už fiskalinės drausmės taisyklių laikymosi stebėseną, išvadų, nustatytų šiame įstatyme, Reglamento (ES) 2024/1263 [[#^s-61526ed04beb824cee0620de|11 straipsnio 2 dalyje]], 15 straipsnio 3 dalyje ir 23 straipsnyje, 1997 m. liepos 7 d. Tarybos reglamento (EB) Nr. 1467/97 dėl perviršinio deficito procedūros įgyvendinimo paspartinimo ir paaiškinimo su visais pakeitimais [[#^s-c7b798230b5dae96816ba89a|3 straipsnio 5 dalyje]] ir 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 473/2013 dėl euro zonos valstybių narių biudžeto planų projektų stebėsenos bei vertinimo ir perviršinio deficito padėties ištaisymo užtikrinimo bendrųjų nuostatų [[#^s-0c78a49f670d80ee7dd0ac82|5 straipsnyje]], rengimą, skelbimą ir teikimą Lietuvos Respublikos Seimui. ^s-0e133bb40b6c479ed184a383
+4. Nepriklausoma fiskalinė institucija – institucija, atsakinga už fiskalinės drausmės taisyklių laikymosi stebėseną, išvadų, nustatytų šiame įstatyme, [Reglamento (ES) 2024/1263 11 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/2024/1263/art_11/par_2/oj), 15 straipsnio 3 dalyje ir 23 straipsnyje, 1997 m. liepos 7 d. Tarybos [reglamento (EB) Nr. 1467/97](https://eur-lex.europa.eu/eli/reg/1467/97/oj) dėl perviršinio deficito procedūros įgyvendinimo paspartinimo ir paaiškinimo su visais pakeitimais [[#^s-c7b798230b5dae96816ba89a|3 straipsnio 5 dalyje]] ir 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 473/2013 dėl euro zonos valstybių narių biudžeto planų projektų stebėsenos bei vertinimo ir perviršinio deficito padėties ištaisymo užtikrinimo bendrųjų nuostatų [[#^s-0c78a49f670d80ee7dd0ac82|5 straipsnyje]], rengimą, skelbimą ir teikimą Lietuvos Respublikos Seimui. ^s-0e133bb40b6c479ed184a383
 
 
 5. Produkcijos atotrūkis nuo potencialo – tam tikrų metų realiojo ir potencialiojo bendrojo vidaus produkto lygių skirtumas, išreiškiamas potencialiojo bendrojo vidaus produkto lygio procentine išraiška. ^s-0a3c8658a8907a04087cab04
@@ -88,7 +88,7 @@ FISKALINĖS VALDYSENOS
 7. Vidutinis laikotarpis – būsimų 3 iš eilės einančių kalendorinių metų laikotarpis. ^s-7236de924aa79fcc37d0987e
 
 
-8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos arba vartojamos Europos Sąjungos sutarties ir Sutarties dėl Europos Sąjungos veikimo protokole Nr. 12 dėl perviršinio deficito procedūros, Reglamente (EB) Nr. 1467/97, 2009 m. gegužės 25 d. Tarybos reglamente (EB) Nr. 479/2009 dėl Europos bendrijos steigimo sutarties priede pateikto Protokolo dėl perviršinio deficito procedūros taikymo su visais pakeitimais, 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1176/2011 dėl makroekonominių disbalansų prevencijos ir naikinimo, 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 549/2013 dėl Europos nacionalinių ir regioninių sąskaitų sistemos Europos Sąjungoje (A priede) su visais pakeitimas, 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 473/2013 dėl euro zonos valstybių narių biudžeto planų projektų stebėsenos bei vertinimo ir perviršinio deficito padėties ištaisymo užtikrinimo bendrųjų nuostatų, Reglamente (ES) 2024/1263, [[latest/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatyme]], Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, [[latest/TAR.026F44E06A27|Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatyme]] ir [[latest/TAR.5C23DECF6210|Lietuvos Respublikos valstybės skolos įstatyme]]. ^s-f49f650ce0c303d84b2c9939
+8. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos arba vartojamos Europos Sąjungos sutarties ir Sutarties dėl Europos Sąjungos veikimo protokole Nr. 12 dėl perviršinio deficito procedūros, [Reglamente (EB) Nr. 1467/97](https://eur-lex.europa.eu/eli/reg/1467/97/oj), 2009 m. gegužės 25 d. Tarybos reglamente (EB) Nr. 479/2009 dėl Europos bendrijos steigimo sutarties priede pateikto Protokolo dėl perviršinio deficito procedūros taikymo su visais pakeitimais, 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos [reglamente (ES) Nr. 1176/2011](https://eur-lex.europa.eu/eli/reg/1176/2011/oj) dėl makroekonominių disbalansų prevencijos ir naikinimo, 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 549/2013 dėl Europos nacionalinių ir regioninių sąskaitų sistemos Europos Sąjungoje (A priede) su visais pakeitimas, 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 473/2013 dėl euro zonos valstybių narių biudžeto planų projektų stebėsenos bei vertinimo ir perviršinio deficito padėties ištaisymo užtikrinimo bendrųjų nuostatų, [Reglamente (ES) 2024/1263](https://eur-lex.europa.eu/eli/reg/2024/1263/oj), [[latest/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatyme]], Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, [[latest/TAR.026F44E06A27|Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatyme]] ir [[latest/TAR.5C23DECF6210|Lietuvos Respublikos valstybės skolos įstatyme]]. ^s-f49f650ce0c303d84b2c9939
 
 
 
@@ -124,7 +124,7 @@ FISKALINĖS VALDYSENOS
 2) spalio mėnesį – atsižvelgiama į faktinius duomenis, ekonominės raidos scenarijų, Lietuvos Respublikos tam tikrų metų biudžeto patvirtinimo įstatymo projektą (toliau – biudžeto patvirtinimo įstatymo projektas), valdžios sektoriui priskiriamų biudžetų rodiklių ir kitų valdžios sektoriaus finansų duomenų projekcijas. ^s-490b58c27d086a037cb2f278
 
 
-2. Valdžios sektoriaus finansų projekcija naudojama rengiant biudžeto patvirtinimo įstatymo projektą, Lietuvos biudžeto projektą, rengiamą pagal Reglamentą (ES) Nr. 473/2013, (toliau – Lietuvos biudžeto projektas), metinę pažangos ataskaitą, rengiamą pagal Reglamentą (ES) 2024/1263, (toliau – metinė pažangos ataskaita). ^s-91e5173618a6c2ab0572fd39
+2. Valdžios sektoriaus finansų projekcija naudojama rengiant biudžeto patvirtinimo įstatymo projektą, Lietuvos biudžeto projektą, rengiamą pagal Reglamentą (ES) Nr. 473/2013, (toliau – Lietuvos biudžeto projektas), metinę pažangos ataskaitą, rengiamą pagal [Reglamentą (ES) 2024/1263](https://eur-lex.europa.eu/eli/reg/2024/1263/oj), (toliau – metinė pažangos ataskaita). ^s-91e5173618a6c2ab0572fd39
 
 
 
@@ -163,25 +163,25 @@ FISKALINĖS VALDYSENOS
 1) kuriais fiskalinio struktūrinio plano metais turėtų būti naudojamasi Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo [[#^s-c7b798230b5dae96816ba89a|3 straipsnio 5 dalyje]] nurodytu valdžios sektoriaus fiskalinės drausmės taisyklės lankstumu; ^s-d1317e1fecdea9e62a8f56cd
 
 
-2) ar turėtų būti naudojamasi Reglamente (ES) 2024/1263 numatyta koregavimo laikotarpio pratęsimo galimybe. ^s-e26639cb586180444ec97fad
+2) ar turėtų būti naudojamasi [Reglamente (ES) 2024/1263](https://eur-lex.europa.eu/eli/reg/2024/1263/oj) numatyta koregavimo laikotarpio pratęsimo galimybe. ^s-e26639cb586180444ec97fad
 
 
-3. Pasibaigus Vyriausybės arba jos įgaliotos institucijos ir Europos Komisijos techniniam dialogui dėl rengiamo fiskalinio struktūrinio plano atitikties Reglamento (ES) 2024/1263 nuostatoms, Vyriausybė Seimui ne vėliau kaip per 15 darbo dienų teikia Seimo nutarimo dėl grynųjų išlaidų augimo ribų nustatymo projektą. Seimo nustatytos grynųjų išlaidų augimo ribos nurodomos Vyriausybės nutarimu tvirtinamame fiskaliniame struktūriniame plane. ^s-28790567f6620ae0360065fa
+3. Pasibaigus Vyriausybės arba jos įgaliotos institucijos ir Europos Komisijos techniniam dialogui dėl rengiamo fiskalinio struktūrinio plano atitikties [Reglamento (ES) 2024/1263](https://eur-lex.europa.eu/eli/reg/2024/1263/oj) nuostatoms, Vyriausybė Seimui ne vėliau kaip per 15 darbo dienų teikia Seimo nutarimo dėl grynųjų išlaidų augimo ribų nustatymo projektą. Seimo nustatytos grynųjų išlaidų augimo ribos nurodomos Vyriausybės nutarimu tvirtinamame fiskaliniame struktūriniame plane. ^s-28790567f6620ae0360065fa
 
 
-4. Vyriausybės patvirtintas fiskalinis struktūrinis planas teikiamas Europos Komisijai ir Europos Sąjungos Tarybai iki balandžio 30 dienos arba kitais terminais, vadovaujantis Reglamentu (ES) 2024/1263. ^s-2c2008e01de3575ac2af5ebf
+4. Vyriausybės patvirtintas fiskalinis struktūrinis planas teikiamas Europos Komisijai ir Europos Sąjungos Tarybai iki balandžio 30 dienos arba kitais terminais, vadovaujantis [Reglamentu (ES) 2024/1263](https://eur-lex.europa.eu/eli/reg/2024/1263/oj). ^s-2c2008e01de3575ac2af5ebf
 
 
-5. Jeigu, Europos Komisijos vertinimu, fiskalinis struktūrinis planas neatitinka Reglamento (ES) 2024/1263 nuostatų ir dėl to turi būti keičiamos grynųjų išlaidų augimo ribos, Vyriausybė per 10 darbo dienų nuo Europos Komisijos išvados paskelbimo dienos pakartotinai Seimui teikia Seimo nutarimo dėl grynųjų išlaidų augimo ribų nustatymo projektą ir informaciją apie gautą neigiamą Europos Komisijos vertinimo išvadą. Grynųjų išlaidų augimo ribos patvirtinamos per Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo [[#^s-bae9ff7f249d28cd587fd4f3|3 straipsnio 3 dalyje]] nurodytą terminą. ^s-5c9b2fa7e22ffed0a6cbe39f
+5. Jeigu, Europos Komisijos vertinimu, fiskalinis struktūrinis planas neatitinka [Reglamento (ES) 2024/1263](https://eur-lex.europa.eu/eli/reg/2024/1263/oj) nuostatų ir dėl to turi būti keičiamos grynųjų išlaidų augimo ribos, Vyriausybė per 10 darbo dienų nuo Europos Komisijos išvados paskelbimo dienos pakartotinai Seimui teikia Seimo nutarimo dėl grynųjų išlaidų augimo ribų nustatymo projektą ir informaciją apie gautą neigiamą Europos Komisijos vertinimo išvadą. Grynųjų išlaidų augimo ribos patvirtinamos per Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo [[#^s-bae9ff7f249d28cd587fd4f3|3 straipsnio 3 dalyje]] nurodytą terminą. ^s-5c9b2fa7e22ffed0a6cbe39f
 
 
-6. Vyriausybė nutarimu patvirtina patikslintą fiskalinį struktūrinį planą, jame nurodydama naujausias Seimo nustatytas grynųjų išlaidų augimo ribas, ir, vadovaudamasi Reglamentu (ES) 2024/1263, jį pateikia Europos Komisijai ir Europos Sąjungos Tarybai. ^s-021ff1fb6259e68559f07a42
+6. Vyriausybė nutarimu patvirtina patikslintą fiskalinį struktūrinį planą, jame nurodydama naujausias Seimo nustatytas grynųjų išlaidų augimo ribas, ir, vadovaudamasi [Reglamentu (ES) 2024/1263](https://eur-lex.europa.eu/eli/reg/2024/1263/oj), jį pateikia Europos Komisijai ir Europos Sąjungos Tarybai. ^s-021ff1fb6259e68559f07a42
 
 
 7. Nepriklausoma fiskalinė institucija paskelbia fiskalinio struktūrinio plano projekte pateiktų makroekonominių projekcijų ir prielaidų, reikalingų grynųjų išlaidų augimo riboms apskaičiuoti, tinkamumo vertinimo išvadą. ^s-fa7a90f4f2aa2526b1fad1c2
 
 
-8. Fiskalinis struktūrinis planas keičiamas vadovaujantis Reglamento (ES) 2024/1263 ir šio straipsnio nuostatomis. ^s-10ddcb9dbda3266a552d2b0e
+8. Fiskalinis struktūrinis planas keičiamas vadovaujantis [Reglamento (ES) 2024/1263](https://eur-lex.europa.eu/eli/reg/2024/1263/oj) ir šio straipsnio nuostatomis. ^s-10ddcb9dbda3266a552d2b0e
 
 
 
@@ -200,7 +200,7 @@ FISKALINĖS VALDYSENOS
 4. Jeigu planuojamiems metams taikoma Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo 3 straipsnio 8 dalis, planuojamos grynosios išlaidos turi atitikti Europos Sąjungos Tarybos rekomendacijas Lietuvai. ^s-76b7aa21081486bfe154e13a
 
 
-5. Nepriklausoma fiskalinė institucija skelbia išvadą dėl biudžeto patvirtinimo įstatymo ar jo pakeitimo įstatymo projekte vidutiniam laikotarpiui planuojamo grynųjų išlaidų augimo atitikties valdžios sektoriaus fiskalinės drausmės taisyklei. ^s-c8cd223531890c9b992fe73d
+5. Nepriklausoma fiskalinė institucija skelbia išvadą [dėl biudžeto](https://e-tar.lt/portal/lt/legalAct/SAV.494628) patvirtinimo įstatymo ar jo pakeitimo įstatymo projekte vidutiniam laikotarpiui planuojamo grynųjų išlaidų augimo atitikties valdžios sektoriaus fiskalinės drausmės taisyklei. ^s-c8cd223531890c9b992fe73d
 
 
 6. Jeigu tam tikrais metais Lietuvai taikoma perviršinio deficito procedūra, Vyriausybė biudžeto patvirtinimo įstatymo arba jo pakeitimo įstatymo projekte ir (arba) kartu su juo teikiamuose teisės aktų projektuose planuoja Europos Sąjungos Tarybos rekomendacijai pagal Sutarties dėl Europos Sąjungos veikimo (toliau – SESV) 126 straipsnį įgyvendinti reikalingas priemones (toliau – rekomendacijos įgyvendinimo priemonės) ir ne vėliau kaip per 6 mėnesius nuo Europos Sąjungos Tarybos rekomendacijos pagal SESV 126 straipsnį patvirtinimo dienos pateikia informaciją apie šias priemones Europos Komisijai, nurodydama valdžios sektoriaus išlaidų, pajamų tikslines reikšmes, pateikdama jau priimtų ir biudžeto patvirtinimo įstatymo arba jo pakeitimo įstatymo projekte ir (arba) kartu su juo teikiamuose teisės aktų projektuose planuojamų pajamų ir (arba) išlaidų diskrecinių priemonių sąrašą, jų poveikio biudžeto pajamoms ir (arba) išlaidoms kiekybinį vertinimą. ^s-b821621ce862a84f1607476b
@@ -353,10 +353,10 @@ priedas
 
 
 
-1. 2011 m. lapkričio 8 d. Tarybos direktyva 2011/85/ES dėl reikalavimų valstybių narių biudžeto sistemoms su pakeitimais, padarytais 2024 m. balandžio 29 d. Tarybos direktyva (ES) 2024/1265. ^s-782b6a3cbea6cd17d6278c05
+1. 2011 m. lapkričio 8 d. Tarybos direktyva 2011/85/ES dėl reikalavimų valstybių narių biudžeto sistemoms su pakeitimais, padarytais 2024 m. balandžio 29 d. Tarybos [direktyva (ES) 2024/1265](https://eur-lex.europa.eu/eli/dir/2024/1265/oj). ^s-782b6a3cbea6cd17d6278c05
 
 
-2. 2024 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1263 dėl veiksmingo ekonominės politikos koordinavimo ir daugiašalės biudžeto priežiūros, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1466/97. ^s-6657c52f7ad406b102e04684
+2. 2024 m. balandžio 29 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2024/1263](https://eur-lex.europa.eu/eli/reg/2024/1263/oj) dėl veiksmingo ekonominės politikos koordinavimo ir daugiašalės biudžeto priežiūros, kuriuo panaikinamas Tarybos [reglamentas (EB) Nr. 1466/97](https://eur-lex.europa.eu/eli/reg/1466/97/oj). ^s-6657c52f7ad406b102e04684
 
 
 _______________
@@ -379,17 +379,17 @@ Nr. XI-2276, 2012-10-16, Žin., 2012, Nr. 126-6324 (2012-10-31), i. k. [[latest/
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1378, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19661
-Lietuvos Respublikos fiskalinės drausmės įstatymo Nr. X-1316 2 ir [[#^s-703fd37b33047de1ed8b7b22|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos fiskalinės drausmės įstatymo Nr. X-1316 [[#^s-2a50843676cae855b570c8b5|2]] ir [[#^s-703fd37b33047de1ed8b7b22|3]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1290, 2014-11-06, paskelbta TAR 2014-11-18, i. k. 2014-17029
-Lietuvos Respublikos fiskalinės drausmės įstatymo Nr. X-1316 2, [[#^s-703fd37b33047de1ed8b7b22|3 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos fiskalinės drausmės įstatymo Nr. X-1316 [[#^s-2a50843676cae855b570c8b5|2]], [[#^s-703fd37b33047de1ed8b7b22|3]] straipsnių ir priedo pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1377, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19660
-Lietuvos Respublikos fiskalinės drausmės įstatymo Nr. X-1316 2, [[#^s-703fd37b33047de1ed8b7b22|3 straipsnių]] ir priedo pakeitimo [[latest/8c5b44506ef211e484b9c12b550436a3|įstatymo Nr. XII-1290]] [[#^s-2a50843676cae855b570c8b5|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos fiskalinės drausmės įstatymo Nr. X-1316 [[#^s-2a50843676cae855b570c8b5|2]], [[#^s-703fd37b33047de1ed8b7b22|3]] straipsnių ir priedo pakeitimo [[latest/8c5b44506ef211e484b9c12b550436a3|įstatymo Nr. XII-1290]] [[#^s-2a50843676cae855b570c8b5|2 straipsnio]] pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas

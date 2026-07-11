@@ -136,7 +136,7 @@ Pakeisti 53 straipsnio 1 dalį ir ją išdėstyti taip:
 2. Šio įstatymo [[#^s-ea9f0a111f697e290a6993b4|2 straipsnis]] įsigalioja 2011 m. sausio 1 d. ^s-43f54169d90201fa947d4403
 
 
-3. Lietuvos Respublikos Vyriausybė iki 2009 m. gruodžio 31 d. parengia ir priima šio įstatymo 1, 3, 4, 5, 6, 7 ir [[#^s-85d5c3e1bcf25cce9c839944|8 straipsniuose]] išdėstytoms nuostatoms įgyvendinti reikalingus teisės aktus. ^s-ba332bbd8d7e74f0d29dfa58
+3. Lietuvos Respublikos Vyriausybė iki 2009 m. gruodžio 31 d. parengia ir priima šio įstatymo [[#^s-2349659f530a7279898866cb|1]], [[#^s-b3c90c46256f3e0270f5a9e6|3]], [[#^s-777b8ae7aec85e9ca1122136|4]], [[#^s-1a7406bf9d7c71796a697589|5]], [[#^s-3350a9512f467fbdf8cb4d6b|6]], [[#^s-c11c5704b07767dc379ecdff|7]] ir [[#^s-85d5c3e1bcf25cce9c839944|8]] straipsniuose išdėstytoms nuostatoms įgyvendinti reikalingus teisės aktus. ^s-ba332bbd8d7e74f0d29dfa58
 
 
 

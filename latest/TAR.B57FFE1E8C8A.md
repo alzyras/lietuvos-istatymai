@@ -70,7 +70,7 @@ Vilnius
 ### 3 straipsnis. Baigiamosios nuostatos ^s-eb06da2e636ac9091d5ecf90
 
 
-1. Jeigu iki šio įstatymo įsigaliojimo priimtas sprendimas dėl žemės reformos žemėtvarkos projektui rengti parinktos teritorijos ribų patvirtinimo, nuosavybės teisių atkūrimo procedūros asmenims perduodant nuosavybėn neatlygintinai lygiaverčius žemės sklypus yra baigiamos pagal iki šio įstatymo įsigaliojimo galiojusias nuostatas. ^s-b8dfb722416ac13ee2d0b6d6
+1. Jeigu iki šio įstatymo įsigaliojimo priimtas sprendimas [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) žemėtvarkos projektui rengti parinktos teritorijos ribų patvirtinimo, nuosavybės teisių atkūrimo procedūros asmenims perduodant nuosavybėn neatlygintinai lygiaverčius žemės sklypus yra baigiamos pagal iki šio įstatymo įsigaliojimo galiojusias nuostatas. ^s-b8dfb722416ac13ee2d0b6d6
 
 
 2. Jeigu sprendimas, kurio pagrindu išlikęs nekilnojamasis turtas nebepriskirtinas valstybės išperkamam turtui, įsigaliojo iki šio įstatymo įsigaliojimo dienos, pilietis, kurio išlikęs nekilnojamasis turtas buvo priskirtas valstybės išperkamam ir sprendimas atkurti nuosavybės teises į šį turtą nepriimtas, per 3 mėnesius nuo įstatymo įsigaliojimo dienos turi teisę pakeisti pareikštą valią dėl būdo, kuriuo atkuriamos nuosavybės teisės į nekilnojamąjį turtą, ir prašyti, kad šis nekilnojamasis turtas būtų grąžintas natūra, apie tai raštu pranešdamas jo prašymą atkurti nuosavybės teises į išlikusį nekilnojamąjį turtą nagrinėjančiai institucijai. ^s-952349ef79b4ee5460d8d90c

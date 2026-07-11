@@ -112,7 +112,7 @@ Pakeisti ir papildyti 2 straipsnį ir jį išdėstyti taip:
 18. Planavimo organizatoriai – Vyriausybė arba jos įgalioti viešojo administravimo subjektai, apskrities viršininkas, savivaldybės administracijos direktorius, juridiniai ir fiziniai asmenys, organizuojantys teritorijų planavimo dokumentų rengimą, derinimą, konsultavimąsi ar viešą svarstymą ir teikimą tvirtinti. ^s-dfac1fb989152da216392723
 
 
-19. Planavimo sąlygos – planuojamai teritorijai taikomi specialiųjų žemės naudojimo sąlygų ir teritorijų planavimo normų reikalavimai ir galiojančių teritorijų planavimo dokumentų sprendiniai, taip pat ūkio šakų plėtros programų ir strateginių dokumentų nuostatos, sąlygas išduodančių institucijų reikalavimai dėl teritorijų planavimo dokumentų rengimo. ^s-e029cdc998129fcda2e2b2aa
+19. Planavimo sąlygos – planuojamai teritorijai taikomi specialiųjų žemės naudojimo sąlygų ir teritorijų planavimo normų reikalavimai ir galiojančių teritorijų planavimo dokumentų sprendiniai, taip pat ūkio šakų plėtros programų ir strateginių dokumentų nuostatos, sąlygas išduodančių institucijų reikalavimai [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09). ^s-e029cdc998129fcda2e2b2aa
 
 
 20. Planavimo sąlygų sąvadas – savivaldybės administracijos valstybės tarnautojo savivaldybės vyriausiojo architekto patvirtintas teritorijų planavimo dokumentui rengti išduodamų planavimo sąlygų sąrašas ir planavimo sąlygos. ^s-825ed8dbd88418bdbc161165
@@ -334,7 +334,7 @@ Pakeisti [[#^s-a6278a9e3e9c495f051ea937|18 straipsnį]] ir jį išdėstyti taip:
 8. Patvirtintas specialusis planas įsigalioja kitą dieną po to, kai Seimo, Vyriausybės, ministerijų ar Vyriausybės įstaigų ir kitų valstybės institucijų sprendimas dėl specialiojo plano patvirtinimo paskelbiamas „Valstybės žiniose“, aukštesnių administracinių vienetų valdymo institucijų, savivaldybių sprendimas dėl specialiojo plano patvirtinimo paskelbiamas vietinėje spaudoje, jei pačiuose sprendimuose nenustatyta vėlesnė jų įsigaliojimo data. Patvirtinti specialieji planai galioja neterminuotai. ^s-0c9544e19adab51cdcf0c489
 
 
-9. Specialiųjų planų keitimai rengiami, svarstomi, derinami, tikrinami, tvirtinami ta pačia tvarka kaip ir specialusis planas. Specialusis planas keičiamas tik tais atvejais, kai keičiama veiklos koncepcija, veiklos kryptys, tvarkymo prioritetai ir jo sprendiniai. Sprendimą dėl specialiojo plano keitimo būtinumo planavimo organizatoriaus motyvuotu siūlymu priima specialųjį planą tvirtinusi institucija.“ ^s-6fe27a612b645002cd5bf0a5
+9. Specialiųjų planų keitimai rengiami, svarstomi, derinami, tikrinami, tvirtinami ta pačia tvarka kaip ir specialusis planas. Specialusis planas keičiamas tik tais atvejais, kai keičiama veiklos koncepcija, veiklos kryptys, tvarkymo prioritetai ir jo sprendiniai. Sprendimą [dėl specialiojo plano keitimo](https://e-tar.lt/portal/lt/legalAct/SAV.518919) būtinumo planavimo organizatoriaus motyvuotu siūlymu priima specialųjį planą tvirtinusi institucija.“ ^s-6fe27a612b645002cd5bf0a5
 
 
 
@@ -466,7 +466,7 @@ Pakeisti [[#^s-a6278a9e3e9c495f051ea937|18 straipsnį]] ir jį išdėstyti taip:
 „4. Savivaldybės lygmens teritorijų planavimo dokumentų derinimo procedūra atliekama savivaldybės Nuolatinėje statybos komisijoje kompleksiškai ir turi būti baigta per 15 darbo dienų nuo planavimo organizatoriaus prašymo derinti teritorijų planavimo dokumentą pateikimo dienos. Komisija sudaroma iš planavimo sąlygas rengiančių institucijų atstovų, turinčių įgaliojimus priimti sprendimus. Komisijos pirmininkas ir komisijos nariai už savo pagal kompetenciją priimtų sprendimų teisėtumą atsako įstatymų nustatyta tvarka. Derinimo procedūroje turi dalyvauti planavimo organizatorius ar jo įgaliotas atstovas. Derinimo procedūros rezultatai įforminami protokolu. Teritorijų planavimo dokumentas yra suderintas, jei tam pritarė visi posėdyje dalyvavę ar raštu savo pritarimą pateikę savivaldybės Nuolatinės komisijos nariai. Jeigu bent vienas komisijos narys nepritaria teritorijų planavimo dokumento derinimui, laikoma, kad komisija priėmė sprendimą nederinti teritorijų planavimo dokumentą. Nepritarimo derinti teritorijų planavimo dokumentą motyvai išdėstomi derinimo procedūros protokole.“
 
 
-3. Papildyti 27 straipsnį naujomis 5 ir [[#^s-0d9165ae5948af5aba948ca2|6 dalimis]]: ^s-86b0c488caa5c6a19ba5de9d
+3. Papildyti 27 straipsnį naujomis 5 ir 6 dalimis: ^s-86b0c488caa5c6a19ba5de9d
 
 
 „5. Nacionalinio lygmens teritorijų planavimo dokumentų derinimo procedūra tai atliekančioje institucijoje turi būti baigta per 25 darbo dienas, regiono lygmens teritorijų planavimo dokumentų – per 20 darbo dienų, o rajono ir vietovės lygmens teritorijų planavimo dokumentų – per 15 darbo dienų nuo pareiškimo gavimo dienos.
@@ -508,7 +508,7 @@ Papildyti 29 straipsnį 5 dalimi:
 1. 31 straipsnio 1 dalyje vietoj žodžių „greta planuojamos teritorijos esančių nekilnojamųjų daiktų savininkus“ įrašyti žodžius „kaimyninių žemės sklypų valdytojus“ ir šią dalį išdėstyti taip: ^s-81f347d5958abf706dfac1ef
 
 
-„1. Ministerijų, Vyriausybės įstaigų ir kitų valstybės valdymo institucijų sprendimai dėl teritorijų planavimo dokumentų rengimo pradžios ir planavimo tikslų skelbiami „Valstybės žiniose“ bei institucijų interneto tinklalapiuose. Aukštesniųjų administracinių vienetų valdymo institucijų sprendimai dėl teritorijų planavimo dokumentų rengimo pradžios ir planavimo tikslų skelbiami vietinėje spaudoje bei institucijų interneto tinklalapiuose. Savivaldybių ir jų vykdomųjų institucijų priimti sprendimai dėl teritorijų planavimo dokumentų rengimo skelbiami vietinėje spaudoje, savivaldybės interneto tinklalapyje ir seniūnijose, kuriose vyksta teritorijos planavimas. Detaliojo planavimo organizatorius apie žemės sklypo ar grupės žemės sklypų teritorijos planavimo dokumentų rengimo pradžią bei planavimo tikslus raštu informuoja kaimyninių žemės sklypų valdytojus ir naudotojus, taip pat detaliųjų planų rengimo taisyklėse nustatyta tvarka prie planuojamos teritorijos įrengia stendą su šia informacija.“
+„1. Ministerijų, Vyriausybės įstaigų ir kitų valstybės valdymo institucijų sprendimai dėl teritorijų planavimo dokumentų rengimo pradžios ir planavimo tikslų skelbiami „Valstybės žiniose“ bei institucijų interneto tinklalapiuose. Aukštesniųjų administracinių vienetų valdymo institucijų sprendimai [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09) pradžios ir planavimo tikslų skelbiami vietinėje spaudoje bei institucijų interneto tinklalapiuose. Savivaldybių ir jų vykdomųjų institucijų priimti sprendimai [dėl teritorijų planavimo dokumentų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.A9092CC6FB09) skelbiami vietinėje spaudoje, savivaldybės interneto tinklalapyje ir seniūnijose, kuriose vyksta teritorijos planavimas. Detaliojo planavimo organizatorius apie žemės sklypo ar grupės žemės sklypų teritorijos planavimo dokumentų rengimo pradžią bei planavimo tikslus raštu informuoja kaimyninių žemės sklypų valdytojus ir naudotojus, taip pat detaliųjų planų rengimo taisyklėse nustatyta tvarka prie planuojamos teritorijos įrengia stendą su šia informacija.“
 
 
 2. Pakeisti 31 straipsnio 4 dalį ir ją išdėstyti taip: ^s-147c7935a15609a474a89a80
@@ -542,7 +542,7 @@ Pakeisti ir papildyti 32 straipsnį ir jį išdėstyti taip:
 5. [[#^s-ef2ed6bcc306e9e2f47e8d68|Šio straipsnio 4 dalyje]] nurodyti asmenys, nesutikdami su apskrities viršininko administracijos sprendimu dėl jų kreipimosi, gali paduoti skundą pagal nustatytą kompetenciją Vyriausybės ar Aplinkos ministerijos įgaliotai institucijai. Vyriausybės ar Aplinkos ministerijos įgaliota institucija [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nustatyta tvarka išnagrinėja asmens kreipimąsi ir, nustačiusi visuomenės ar valstybės teisių ar teisėtų interesų pažeidimą, inicijuoja atitinkamų teritorijų planavimo dokumentų sprendinių panaikinimą administracine tvarka, o nesant galimybės teritorijų planavimo dokumentų sprendinius panaikinti administracine tvarka, kreipiasi į teismą. ^s-50e87dcf668eca463c61972d
 
 
-6. Šio straipsnio 4 ir [[#^s-50e87dcf668eca463c61972d|5 dalyse]] nurodyti asmenys, nesutikdami su Vyriausybės ar Aplinkos ministerijos įgaliotos institucijos sprendimu, turi teisę dėl viešojo intereso gynimo kreiptis į teismą.“ ^s-76ab1fa4265f94d8c26dd0f3
+6. Šio straipsnio [[#^s-ef2ed6bcc306e9e2f47e8d68|4]] ir [[#^s-50e87dcf668eca463c61972d|5]] dalyse nurodyti asmenys, nesutikdami su Vyriausybės ar Aplinkos ministerijos įgaliotos institucijos sprendimu, turi teisę dėl viešojo intereso gynimo kreiptis į teismą.“ ^s-76ab1fa4265f94d8c26dd0f3
 
 
 

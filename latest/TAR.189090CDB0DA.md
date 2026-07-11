@@ -64,7 +64,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 ### 2 straipsnis. 2 straipsnio 1 ir 9 dalių pakeitimas ^s-49554800f8749c57f984e5cd
 
 
-1. Pakeisti [[#^s-135f935b54132f5784a53bf4|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-135f935b54132f5784a53bf4
+1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^s-135f935b54132f5784a53bf4
 
 
 „1. Energijos išteklių birža – centralizuota prekybos energijos ištekliais sistema, kurioje centralizuotai prekiaujama biokuru, gamtinėmis dujomis ir pagalbiniais apsaugos nuo energijos kainų svyravimo instrumentais.“

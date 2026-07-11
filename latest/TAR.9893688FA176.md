@@ -72,7 +72,7 @@ BENDROSIOS NUOSTATOS
 3) maisto tvarkymo subjektams, apsirūpinantiems geriamuoju vandeniu iš požeminio vandens telkinių nuosavybės teise ar kitaip valdomais ir (arba) naudojamais įrenginiais, kiek tai susiję su konkretiems maisto verslo tikslams naudojamu vandeniu, jeigu Valstybinė maisto ir veterinarijos tarnyba (toliau – Tarnyba), šių maisto tvarkymo subjektų prašymu atlikusi vertinimą, patvirtina, kad laikantis tų maisto tvarkymo subjektų rizikos veiksnių analizės ir valdymo sistemoje nustatytų principų ir taisomųjų veiksmų tokio vandens sauga ir kokybė negali turėti poveikio galutinių maisto produktų saugai. ^s-1df1106bce0a5b697a7f88ee
 
 
-4. Ūkio subjektams, kurie iš požeminių vandens telkinių nuosavybės teise ar kitaip valdomais ir (arba) naudojamais įrenginiais vidutiniškai per parą išgauna mažiau kaip 10 m3 geriamojo vandens arba šiuo vandeniu aprūpina mažiau kaip 50 fizinių asmenų, o išgautą geriamąjį vandenį naudoja ūkinėje veikloje, taikomi šio įstatymo 1–5, 7 ir [[#^s-2ead618d65657d682cea9f82|8 straipsniai]]. ^s-1a2b2c01500d01d39d99c33b
+4. Ūkio subjektams, kurie iš požeminių vandens telkinių nuosavybės teise ar kitaip valdomais ir (arba) naudojamais įrenginiais vidutiniškai per parą išgauna mažiau kaip 10 m3 geriamojo vandens arba šiuo vandeniu aprūpina mažiau kaip 50 fizinių asmenų, o išgautą geriamąjį vandenį naudoja ūkinėje veikloje, taikomi šio įstatymo [[#^s-8a328b86cba7cece6c0529d4|1]]–[[#^s-7ea6178c40c10e79fe79a7c9|5]], [[#^s-94a141ee140f2528e08ccea6|7]] ir [[#^s-2ead618d65657d682cea9f82|8]] straipsniai. ^s-1a2b2c01500d01d39d99c33b
 
 
 5. Šio įstatymo nuostatos suderintos su Europos Sąjungos teisės aktu, nurodytu šio įstatymo priede. ^s-4119645c96ef0afe223803a3
@@ -184,7 +184,7 @@ GERIAMOJO VANDENS SAUGOS IR KOKYBĖS PRIEŽIŪRA
 4. Tarnyba, nustačiusi, kad geriamasis vanduo kelia pavojų žmonių sveikatai, privalo: ^s-c64260a60c63c0df3c33a6ff
 
 
-1) Tarnybos direktoriaus nustatyta tvarka, vadovaudamasi šio straipsnio 6 ir [[#^s-b665141549d3ceb160ebbcf3|7 dalyse]] nurodytais kriterijais, per 3 darbo dienas, kai didelė nagrinėjamos medžiagos apimtis – ne vėliau kaip per 5 darbo dienas nuo aplinkybių paaiškėjimo dienos, apriboti tokio vandens vartojimą ar uždrausti jo tiekimą; ^s-8ce416b2f0f6db2386a31bc6
+1) Tarnybos direktoriaus nustatyta tvarka, vadovaudamasi šio straipsnio [[#^s-53966fadd5d8b09fd5a79961|6]] ir [[#^s-b665141549d3ceb160ebbcf3|7]] dalyse nurodytais kriterijais, per 3 darbo dienas, kai didelė nagrinėjamos medžiagos apimtis – ne vėliau kaip per 5 darbo dienas nuo aplinkybių paaiškėjimo dienos, apriboti tokio vandens vartojimą ar uždrausti jo tiekimą; ^s-8ce416b2f0f6db2386a31bc6
 
 
 2) apie geriamojo vandens vartojimo apribojimą ar tiekimo uždraudimą nedelsdama, bet ne vėliau kaip per 3 darbo dienas nuo sprendimo apie šį apribojimą ar uždraudimą priėmimo dienos informuoti Nacionalinį visuomenės sveikatos centrą prie Sveikatos apsaugos ministerijos (toliau – Nacionalinis visuomenės sveikatos centras), savivaldybės, kurioje dėl geriamojo vandens rodiklių ribinių verčių viršijimo kyla pavojus žmonių sveikatai, vykdomąją instituciją; ^s-7759a7c38df322d8ba32d81d
@@ -312,7 +312,7 @@ GERIAMOJO VANDENS SAUGOS IR KOKYBĖS PRIEŽIŪRA
 5. Tiekėjas, siekdamas gauti leidimą taikyti išlygą antrą kartą, pateikia Nacionaliniam visuomenės sveikatos centrui prašymą ir sveikatos apsaugos ministro tvirtinamame išlygų taikymo tvarkos apraše nustatytą informaciją ir dokumentus, būtinus pavojui žmonių sveikatai dėl šios išlygos taikymo, taisomųjų veiksmų plano, gyventojų informavimo plano (išlygos taikymo laikotarpiu) ir pirmosios išlygos taikymo laikotarpiu įgyvendintų priemonių ir jų pagrindimo tinkamumui įvertinti ir sprendimui išduoti arba atsisakyti išduoti leidimą taikyti išlygą antrą kartą priimti. ^s-be66ff623eb58d28e9462a39
 
 
-6. Nacionalinis visuomenės sveikatos centras, gavęs šio straipsnio 2 ir [[#^s-be66ff623eb58d28e9462a39|5 dalyse]] nurodytus prašymus, dokumentus ir informaciją, vadovaudamasis sveikatos apsaugos ministro tvirtinamu išlygų taikymo tvarkos aprašu, ne vėliau kaip per 20 darbo dienų išduoda arba atsisako išduoti leidimą taikyti išlygą. Dėl svarbių priežasčių, kai priimti sprendimui išduoti arba atsisakyti išduoti leidimą taikyti išlygą reikia atlikti epidemiologinių tyrimų duomenų analizę, Nacionalinis visuomenės sveikatos centras gali pratęsti šio sprendimo priėmimo terminą, bet ne ilgiau kaip 10 darbo dienų. Leidime taikyti išlygą nurodoma šios išlygos taikymo motyvai, jos taikymo rodiklio pavadinimas, atitinkami ankstesnės stebėsenos rezultatai ir didžiausia leidžiamoji šio rodiklio vertė, išlygos taikymo teritorija, kasdien tiekiamo taikant išlygą geriamojo vandens kiekis, vartotojai ir (arba) abonentai, kuriems bus tiekiamas geriamasis vanduo taikant išlygą ir poveikio kiekvienam atitinkamam maisto tvarkymo subjektui tikimybė, išlygos taikymo stebėsenos planas, prireikus numatant dažnesnį stebėsenos atlikimą, būtinų taisomųjų veiksmų plano santrauka, įskaitant darbų tvarkaraštį, išlaidų sąmatą ir prireikus peržiūrėtinas minėtų dokumentų nuostatas, taip pat išlygos taikymo trukmė. ^s-7bffb98f0630f206f8655c61
+6. Nacionalinis visuomenės sveikatos centras, gavęs šio straipsnio [[#^s-8fb6a3f8b1aa91356d663f5d|2]] ir [[#^s-be66ff623eb58d28e9462a39|5]] dalyse nurodytus prašymus, dokumentus ir informaciją, vadovaudamasis sveikatos apsaugos ministro tvirtinamu išlygų taikymo tvarkos aprašu, ne vėliau kaip per 20 darbo dienų išduoda arba atsisako išduoti leidimą taikyti išlygą. Dėl svarbių priežasčių, kai priimti sprendimui išduoti arba atsisakyti išduoti leidimą taikyti išlygą reikia atlikti epidemiologinių tyrimų duomenų analizę, Nacionalinis visuomenės sveikatos centras gali pratęsti šio sprendimo priėmimo terminą, bet ne ilgiau kaip 10 darbo dienų. Leidime taikyti išlygą nurodoma šios išlygos taikymo motyvai, jos taikymo rodiklio pavadinimas, atitinkami ankstesnės stebėsenos rezultatai ir didžiausia leidžiamoji šio rodiklio vertė, išlygos taikymo teritorija, kasdien tiekiamo taikant išlygą geriamojo vandens kiekis, vartotojai ir (arba) abonentai, kuriems bus tiekiamas geriamasis vanduo taikant išlygą ir poveikio kiekvienam atitinkamam maisto tvarkymo subjektui tikimybė, išlygos taikymo stebėsenos planas, prireikus numatant dažnesnį stebėsenos atlikimą, būtinų taisomųjų veiksmų plano santrauka, įskaitant darbų tvarkaraštį, išlaidų sąmatą ir prireikus peržiūrėtinas minėtų dokumentų nuostatas, taip pat išlygos taikymo trukmė. ^s-7bffb98f0630f206f8655c61
 
 
 7. Nacionalinis visuomenės sveikatos centras, išdavęs leidimą taikyti išlygą antrą kartą, perduoda Europos Komisijai prašymo išduoti leidimą taikyti išlygą antrą kartą vertinimo išvadas, nurodydamas savo sprendimo motyvus. ^s-4a49c2ce75f02d45fcbac346
@@ -348,7 +348,7 @@ GERIAMOJO VANDENS SAUGOS IR KOKYBĖS PRIEŽIŪRA
 1) informuoti vartotojus ir (arba) abonentus apie geriamojo vandens tiekimą taikant išlygą ir jos taikymo sąlygas ir prireikus teikti rekomendacijas gyventojų grupėms, kurioms šios išlygos taikymas gali kelti riziką, o jeigu rekomenduojama tiekiamo taikant išlygą geriamojo vandens nevartoti maistui, – užtikrinti alternatyvų geriamojo vandens, skirto maistui, tiekimą tokioms gyventojų grupėms; ^s-d664803dc8f8b668e9bbf440
 
 
-2) informuoti Nacionalinį visuomenės sveikatos centrą apie šio straipsnio 2 ir [[#^s-be66ff623eb58d28e9462a39|5 dalyse]] nurodytų taisomųjų veiksmų plano ir gyventojų informavimo plano (išlygos taikymo laikotarpiu) vykdymo eigą. ^s-10b7efd4a691047e4a7ac68e
+2) informuoti Nacionalinį visuomenės sveikatos centrą apie šio straipsnio [[#^s-8fb6a3f8b1aa91356d663f5d|2]] ir [[#^s-be66ff623eb58d28e9462a39|5]] dalyse nurodytų taisomųjų veiksmų plano ir gyventojų informavimo plano (išlygos taikymo laikotarpiu) vykdymo eigą. ^s-10b7efd4a691047e4a7ac68e
 
 
 12. Konstatavęs, kad išlygos taikymo rodiklių ribinių verčių viršijimas yra nereikšmingas ir taisomųjų veiksmų, kurių yra ėmęsi tiekėjai, pakanka susidariusiai padėčiai ištaisyti per 30 kalendorinių dienų, Nacionalinis visuomenės sveikatos centras išduoda leidimą taikyti trumpalaikę išlygą, jame nurodydamas tik didžiausią leidžiamąją rodiklio ribinę vertę ir laikotarpį, reikalingą rodiklio ribinei vertei atkurti, taip pat, vadovaudamasis sveikatos apsaugos ministro tvirtinamu išlygų taikymo tvarkos aprašu, nurodo tiekėjams taikyti [[#^s-d664803dc8f8b668e9bbf440|šio straipsnio 11 dalies 1 punkto]] nuostatas. ^s-1827344df9d3e35bedf711b0
@@ -418,7 +418,7 @@ GERIAMOJO VANDENS SAUGOS IR KOKYBĖS PRIEŽIŪRA
 8) atlikdami pavestas funkcijas, pasitelkti į pagalbą kitų valstybės ir savivaldybės institucijų ir įstaigų pareigūnus; ^s-29cfd9a4f3b77738ebd03d54
 
 
-9) atlikti šios dalies 2, 4–[[#^s-62d77269051edfaacfbe4efc|7 punktuose]] nustatytus veiksmus su teismo leidimu, išduotu vadovaujantis [[#^s-4ffb664597c2e1d898238973|šio straipsnio 5 dalimi]], jeigu tiekėjas ar kitas asmuo trukdo atlikti tiekėjo geriamojo vandens tiekimo veiklos patikrinimą ar kitais būdais siekia išvengti tiekėjo geriamojo vandens tiekimo veiklos patikrinimo ir yra pagrindo manyti, kad jis pažeidžia šio įstatymo ir kitų geriamojo vandens saugą ir kokybę reglamentuojančių teisės aktų reikalavimus. ^s-53ab06622b6d24acbb272d1c
+9) atlikti šios dalies [[#^s-a50735e0ac99f3129a7d4546|2]], [[#^s-09235d5d5d1d9dce2f331f91|4]]–[[#^s-62d77269051edfaacfbe4efc|7]] punktuose nustatytus veiksmus su teismo leidimu, išduotu vadovaujantis [[#^s-4ffb664597c2e1d898238973|šio straipsnio 5 dalimi]], jeigu tiekėjas ar kitas asmuo trukdo atlikti tiekėjo geriamojo vandens tiekimo veiklos patikrinimą ar kitais būdais siekia išvengti tiekėjo geriamojo vandens tiekimo veiklos patikrinimo ir yra pagrindo manyti, kad jis pažeidžia šio įstatymo ir kitų geriamojo vandens saugą ir kokybę reglamentuojančių teisės aktų reikalavimus. ^s-53ab06622b6d24acbb272d1c
 
 
 5. Prašymas išduoti leidimą, nustatytą [[#^s-53ab06622b6d24acbb272d1c|šio straipsnio 4 dalies 9 punkte]], pateikiamas apygardos administraciniam teismui. Apygardos administracinis teismas išnagrinėja šį prašymą ir priima motyvuotą nutartį prašymą patenkinti arba atmesti ne vėliau kaip per 3 darbo dienas nuo šio prašymo pateikimo momento. Jeigu Tarnyba nesutinka su apygardos administracinio teismo sprendimu atmesti prašymą, ji turi teisę per 7 darbo dienas apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl apygardos administracinio teismo nutarties ne vėliau kaip per 7 darbo dienas. Tarnybos įgaliotas pareigūnas ir (arba) Tarnybos atstovas turi teisę dalyvauti Lietuvos vyriausiajame administraciniame teisme nagrinėjant skundą žodinio proceso tvarka. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo atlikti reikiamus veiksmus išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. ^s-4ffb664597c2e1d898238973
@@ -427,7 +427,7 @@ GERIAMOJO VANDENS SAUGOS IR KOKYBĖS PRIEŽIŪRA
 6. Neatidėliotinais atvejais, kai tiekėjai, ar jų atstovai trukdo atlikti Tarnybos pareigūnų atliekamą geriamo vandens tiekimo veiklos patikrinimą ar kitais būdais siekia išvengti Tarnybos pareigūnų atliekamo geriamojo vandens tiekimo veiklos patikrinimo ir yra pagrįstų įtarimų, kad pažeidžiami šio įstatymo ir kitų geriamojo vandens saugą ir kokybę reglamentuojančių teisės aktų reikalavimai ir dėl tokio pažeidimo gresia pavojus žmonių sveikatai ar gyvybei, [[#^s-053b873f760e50595b413ebd|šio straipsnio 4 dalies]] 2, 4–7 punktuose nurodyti Tarnybos pareigūnų veiksmai gali būti atliekami Tarnybos direktoriaus sprendimu. Šiuo atveju prašymas pateikiamas apygardos administraciniam teismui [[#^s-4ffb664597c2e1d898238973|šio straipsnio 5 dalyje]] nustatyta tvarka ne vėliau kaip per 2 darbo dienas priėmus tokį sprendimą. Apygardos administracinis teismas [[#^s-4ffb664597c2e1d898238973|šio straipsnio 5 dalyje]] nustatyta tvarka priima nutartį patvirtinti taikytų veiksmų teisėtumą arba atsisako patvirtinti jų teisėtumą. Tarnyba užtikrina informacijos, gautos atliekant neatidėliotinus veiksmus, slaptumą, iki įsiteisės teismo nutartis. Jeigu apygardos administracinis teismas atsisako patvirtinti taikytų veiksmų teisėtumą, Tarnyba turi teisę apskųsti jo nutartį [[#^s-4ffb664597c2e1d898238973|šio straipsnio 5 dalyje]] nustatyta tvarka. Įsiteisėjus teismo nutarčiai, kuria atsisakoma patvirtinti taikytų veiksmų teisėtumą, Tarnybos veiksmai nutraukiami, o juos atliekant gauta informacija sunaikinama. ^s-6158bfd0f8e75adcb1384134
 
 
-7. Vykdydami [[#^s-053b873f760e50595b413ebd|šio straipsnio 4 dalyje]] nurodytas funkcijas, Tarnybos pareigūnai, nustatę šio įstatymo ir kitų geriamojo vandens saugą ir kokybę reglamentuojančių teisės aktų reikalavimų pažeidimus, vadovaudamiesi šio įstatymo [[#^s-52fdbf7b6415b5f456e25646|3 straipsnio 5 dalies]] nuostatomis, taip pat šio įstatymo [[#^s-7b4370b53e7d769133adfc70|3 straipsnio]] 6 ir (arba) [[#^s-79c29315dea5417d3d7292b3|7 dalyse]] nustatytais atvejais privalo priimti sprendimą dėl geriamojo vandens vartojimo apribojimo arba tiekimo uždraudimo. ^s-79c29315dea5417d3d7292b3
+7. Vykdydami [[#^s-053b873f760e50595b413ebd|šio straipsnio 4 dalyje]] nurodytas funkcijas, Tarnybos pareigūnai, nustatę šio įstatymo ir kitų geriamojo vandens saugą ir kokybę reglamentuojančių teisės aktų reikalavimų pažeidimus, vadovaudamiesi šio įstatymo [[#^s-52fdbf7b6415b5f456e25646|3 straipsnio 5 dalies]] nuostatomis, taip pat šio įstatymo [[#^s-7b4370b53e7d769133adfc70|3 straipsnio]] 6 ir (arba) 7 dalyse nustatytais atvejais privalo priimti sprendimą dėl geriamojo vandens vartojimo apribojimo arba tiekimo uždraudimo. ^s-79c29315dea5417d3d7292b3
 
 
 8. Tarnyba parengia ir kasmet atnaujina geriamojo vandens saugos ir kokybės duomenų rinkinius ir pateikia juos Europos Komisijai. ^s-973a0360134d014a94851e7f
@@ -452,7 +452,7 @@ GERIAMOJO VANDENS SAUGOS IR KOKYBĖS PRIEŽIŪRA
 4) į geriamąjį vandenį išplauti daugiau teršalų, negu leidžiama pagal geriamojo vandens saugą reglamentuojančius teisės aktus, atsižvelgiant į numatytą medžiagos paskirtį. ^s-5d48bb2332d68fa743866198
 
 
-2. Iš [[#^s-e707a4d1ed8b2b2086f4fff9|šio straipsnio 1 dalyje]] nurodytų medžiagų pagamintiems gaminiams, kuriuos numatoma naudoti naujuose arba, jeigu atliekami remonto ar rekonstrukcijos darbai, esamuose geriamojo vandens gavybos, ruošimo, laikymo ar paskirstymo įrenginiuose, taikomas 2019 m. birželio 20 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/1020 dėl rinkos priežiūros ir gaminių atitikties, kuriuo iš dalies keičiama direktyva 2004/42/EB ir reglamentai (EB) Nr. 765/2008 ir (ES) Nr. 305/2011. ^s-2ec6539351b86fa4da7efc18
+2. Iš [[#^s-e707a4d1ed8b2b2086f4fff9|šio straipsnio 1 dalyje]] nurodytų medžiagų pagamintiems gaminiams, kuriuos numatoma naudoti naujuose arba, jeigu atliekami remonto ar rekonstrukcijos darbai, esamuose geriamojo vandens gavybos, ruošimo, laikymo ar paskirstymo įrenginiuose, taikomas 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2019/1020](https://eur-lex.europa.eu/eli/reg/2019/1020/oj) dėl rinkos priežiūros ir gaminių atitikties, kuriuo iš dalies keičiama direktyva 2004/42/EB ir reglamentai (EB) Nr. 765/2008 ir (ES) Nr. 305/2011. ^s-2ec6539351b86fa4da7efc18
 
 
 3. Besiliečiančios su geriamuoju vandeniu Lietuvos Respublikos rinkai tiekiamos ir Lietuvos Respublikoje naudojamos geriamajam vandeniui ruošti skirtos cheminės medžiagos ir filtravimo priemonės (toliau – geriamojo vandens ruošimo gaminiai) turi atitikti šiuos reikalavimus: ^s-194107911de618b24d1122e6
@@ -491,7 +491,7 @@ BAIGIAMOSIOS NUOSTATOS
 ### 8 straipsnis. Atsakomybė už šio įstatymo pažeidimus ^s-2ead618d65657d682cea9f82
 
 
-1. Asmenys, pažeidę šio įstatymo 3–[[#^s-7ea6178c40c10e79fe79a7c9|5 straipsniuose]] ir [[#^s-94a141ee140f2528e08ccea6|7 straipsnio]] 1 ir 5 dalyse nustatytus reikalavimus, atsako Lietuvos Respublikos administracinių nusižengimų kodekso 45 straipsnyje nustatyta tvarka. ^s-e71868dc935cc2b1fe954a6d
+1. Asmenys, pažeidę šio įstatymo [[#^s-7b4370b53e7d769133adfc70|3]]–[[#^s-7ea6178c40c10e79fe79a7c9|5]] straipsniuose ir [[#^s-94a141ee140f2528e08ccea6|7 straipsnio]] [[#^s-e707a4d1ed8b2b2086f4fff9|1]] ir [[#^s-af6afb9666f978719b8ad424|5]] dalyse nustatytus reikalavimus, atsako Lietuvos Respublikos administracinių nusižengimų kodekso 45 straipsnyje nustatyta tvarka. ^s-e71868dc935cc2b1fe954a6d
 
 
 2. Asmenys, pažeidę šio įstatymo [[#^s-94a141ee140f2528e08ccea6|7 straipsnyje]] nustatytus reikalavimus, susijusius su pateikiamų Lietuvos Respublikos rinkai šio įstatymo [[#^s-2ec6539351b86fa4da7efc18|7 straipsnio 2 dalyje]] nurodytų gaminių ir to paties straipsnio 3 dalyje nurodytų geriamojo vandens ruošimo gaminių, skirtų liestis su geriamuoju vandeniu, sauga, kokybe, ženklinimu, atsako [[latest/TAR.A845E65C32A2#^s-15303023c804944c8f17d471|Lietuvos Respublikos produktų saugos įstatymo 19 straipsnyje]] nustatyta tvarka. ^s-458f49fea5d375a57f76be1d
@@ -517,7 +517,7 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos direktyva (ES) 2020/2184 dėl žmonėms vartoti skirto vandens kokybės (nauja redakcija).
+2020 m. gruodžio 16 d. Europos Parlamento ir Tarybos [direktyva (ES) 2020/2184](https://eur-lex.europa.eu/eli/dir/2020/2184/oj) dėl žmonėms vartoti skirto vandens kokybės (nauja redakcija).
 –––––––––––––––––––––––
 
 
@@ -531,12 +531,12 @@ Nr. XI-1190, 2010-11-30, Žin., 2010, Nr. 148-7564 (2010-12-18), i. k. [[latest/
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1783, 2015-06-11, paskelbta TAR 2015-06-19, i. k. 2015-09798
-Lietuvos Respublikos geriamojo vandens įstatymo Nr. IX-433 2, 4, 6, 11, 12 ir 13 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos geriamojo vandens įstatymo Nr. IX-433 [[#^s-eb9bc8c510ac712e82f62cb2|2]], [[#^s-418687e2b7411bc384fdc27b|4]], [[#^s-a0e91836ede6655d781dc72f|6]], 11, 12 ir 13 straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2178, 2019-06-06, paskelbta TAR 2019-06-20, i. k. 2019-09957
-Lietuvos Respublikos geriamojo vandens įstatymo Nr. IX-433 2, 11, 12 straipsnių pakeitimo ir 13 straipsnio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos geriamojo vandens įstatymo Nr. IX-433 [[#^s-eb9bc8c510ac712e82f62cb2|2]], 11, 12 straipsnių pakeitimo ir 13 straipsnio pripažinimo netekusiu galios įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas

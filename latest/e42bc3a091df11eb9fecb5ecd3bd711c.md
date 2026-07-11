@@ -38,32 +38,32 @@ Vilnius
 ### 1 straipsnis. 28 straipsnio pakeitimas ^s-16df02f7713a3f2c5c5f54d0
 
 
-1. Papildyti 28 straipsnį nauja 3 dalimi: ^s-7f6299dbe8a3b7a0b118350b
+1. Papildyti [[latest/TAR.BE3136A78E80#^s-cbc85d385e5728762478b608|28 straipsnį]] nauja [[latest/TAR.BE3136A78E80|3 dalimi]]: ^s-7f6299dbe8a3b7a0b118350b
 
 
 „Notaro nuotoliniu būdu, naudojant informacinių technologijų priemones (toliau – nuotolinis būdas), atliekamų notarinių veiksmų atlikimo vieta yra laikoma notaro biuro buvimo vieta. Notaras nuotoliniu būdu gali atlikti notarinius veiksmus ir asmenims, esantiems užsienyje.“
 
 
-2. Buvusias 28 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-d90d32d78a6caeea6030df11
+2. Buvusias [[latest/TAR.BE3136A78E80#^s-cbc85d385e5728762478b608|28 straipsnio]] [[latest/TAR.BE3136A78E80|3]] ir [[latest/TAR.BE3136A78E80|4]] dalis laikyti atitinkamai [[latest/TAR.BE3136A78E80|4]] ir [[latest/TAR.BE3136A78E80|5]] dalimis. ^s-d90d32d78a6caeea6030df11
 
 
 
 ### 2 straipsnis. Įstatymo papildymas 281 straipsniu ^s-20121148d163046a86ef05d8
 
 
-Papildyti Įstatymą 281 straipsniu:
+Papildyti Įstatymą [[latest/TAR.BE3136A78E80|281 straipsniu]]:
 
 
-„281 straipsnis. Notarų nuotoliniu būdu atliekami notariniai veiksmai
+„[[latest/TAR.BE3136A78E80|281 straipsnis]]. Notarų nuotoliniu būdu atliekami notariniai veiksmai
 
 
-Notarai nuotoliniu būdu gali atlikti notarinius veiksmus, išskyrus testamentų tvirtinimą ir šio įstatymo 26 straipsnio 1 dalies 7 ir 8 punktuose nurodytus notarinius veiksmus.
+Notarai nuotoliniu būdu gali atlikti notarinius veiksmus, išskyrus testamentų tvirtinimą ir šio įstatymo [[latest/TAR.BE3136A78E80|26 straipsnio 1 dalies]] [[latest/TAR.BE3136A78E80|7]] ir [[latest/TAR.BE3136A78E80|8]] punktuose nurodytus notarinius veiksmus.
 
 
-Notarai nuotoliniu būdu atlieka notarinius veiksmus vadovaudamiesi tomis pačiomis notarų veiklą reglamentuojančiomis nuostatomis, kaip ir juos atlikdami šio įstatymo 28 straipsnio 2 dalyje nustatyta tvarka.
+Notarai nuotoliniu būdu atlieka notarinius veiksmus vadovaudamiesi tomis pačiomis notarų veiklą reglamentuojančiomis nuostatomis, kaip ir juos atlikdami šio įstatymo [[latest/TAR.BE3136A78E80|28 straipsnio 2 dalyje]] nustatyta tvarka.
 
 
-Asmeniui paprašius atlikti notarinį veiksmą nuotoliniu būdu, dėl notarinio veiksmo atlikimo būdo sprendžia notaras. Siekdamas užtikrinti asmens teisėtų interesų apsaugą ar notarinių veiksmų atlikimą reglamentuojančių nuostatų įgyvendinimą, notaras gali neatlikti notarinio veiksmo nuotoliniu būdu, nors ir turi galimybę užtikrinti šio straipsnio 4 ir 5 dalyse nurodytas sąlygas. Šiuo atveju notaras informuoja asmenį, kad jo prašomas notarinis veiksmas gali būti atliktas šio įstatymo 28 straipsnio 2 dalyje nustatyta tvarka. Atsisakymas atlikti notarinį veiksmą nuotoliniu būdu neskundžiamas.
+Asmeniui paprašius atlikti notarinį veiksmą nuotoliniu būdu, dėl notarinio veiksmo atlikimo būdo sprendžia notaras. Siekdamas užtikrinti asmens teisėtų interesų apsaugą ar notarinių veiksmų atlikimą reglamentuojančių nuostatų įgyvendinimą, notaras gali neatlikti notarinio veiksmo nuotoliniu būdu, nors ir turi galimybę užtikrinti šio straipsnio [[latest/TAR.BE3136A78E80|4]] ir [[latest/TAR.BE3136A78E80|5]] dalyse nurodytas sąlygas. Šiuo atveju notaras informuoja asmenį, kad jo prašomas notarinis veiksmas gali būti atliktas šio įstatymo [[latest/TAR.BE3136A78E80|28 straipsnio 2 dalyje]] nustatyta tvarka. Atsisakymas atlikti notarinį veiksmą nuotoliniu būdu neskundžiamas.
 
 
 Notarai gali nuotoliniu būdu atlikti notarinius veiksmus, jeigu užtikrina, kad bus laikomasi teisės aktų, reglamentuojančių asmens tapatybės nustatymą, reikalavimų nustatant asmens tapatybę, gali nuotoliniu būdu išaiškinti notarinių veiksmų prasmę ir pasekmes ir įsitikinti asmens valia, kuri patvirtinama kvalifikuotu elektroniniu parašu.
@@ -75,10 +75,10 @@ Notarai imasi priemonių, kad būtų užtikrinta notaro tvarkomos elektroninės 
 ### 3 straipsnis. 36 straipsnio pakeitimas ^s-29df6ed46414aaee4bd881b1
 
 
-Pakeisti 36 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.BE3136A78E80#^s-497c81276f70b9b67df38fb0|36 straipsnį]] ir jį išdėstyti taip:
 
 
-„36 straipsnis. Tvirtinamasis įrašas ir notarinis liudijimas
+„[[latest/TAR.BE3136A78E80#^s-497c81276f70b9b67df38fb0|36 straipsnis]]. Tvirtinamasis įrašas ir notarinis liudijimas
 
 
 Notaro tvirtinamuose popieriniuose dokumentuose notaras parašo tvirtinamąjį įrašą, pasirašo ir uždeda savo antspaudą.
@@ -105,7 +105,7 @@ Notaro byloje saugomų dokumentų, kuriais remiantis atlikti notariniai veiksmai
 ### 4 straipsnis. 50 straipsnio pakeitimas ^s-43c1efa633402dc132a1607d
 
 
-Papildyti 50 straipsnį 2 dalimi:
+Papildyti [[latest/TAR.BE3136A78E80|50 straipsnį 2 dalimi]]:
 
 
 „Atliekant notarinius veiksmus nuotoliniu būdu, šio straipsnio 1 dalies nuostatos netaikomos.“

@@ -13,7 +13,7 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.0120FD7BCFFC#^s-7c048a7c9c6b3ac6cfeb2b86|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 3 citatos - 1051010ISTA000X-307
+- [[latest/TAR.0120FD7BCFFC#^s-7c048a7c9c6b3ac6cfeb2b86|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 2 citatos - 1051010ISTA000X-307
 - [[latest/TAR.0120FD7BCFFC#^s-8b3102702bf28805c1ae4f86|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 1051010ISTA000X-307
 - [[latest/TAR.0120FD7BCFFC#^s-9eed80465ad5ba2d2ec9522f|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 1051010ISTA000X-307
 - [[latest/TAR.0120FD7BCFFC#^s-b016ebb5777c1f2a7095c3e3|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 1051010ISTA000X-307

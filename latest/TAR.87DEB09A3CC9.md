@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-9930b44c4f0e07df26b47664
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir atsižvelgdamas į Respublikos Prezidento 2012 m. liepos 3 d. dekretą Nr. 1K-1117, ratifikuoja Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimą dėl tilto per Nemuną tarp Panemunės ir Sovetsko bei jo prieigų statybos, pasirašytą 2011 m. spalio 4 d. Klaipėdoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir atsižvelgdamas į Respublikos Prezidento [2012 m. liepos 3 d. dekretą Nr. 1K-1117](https://e-tar.lt/portal/lt/legalAct/TAR.F86CEF04920A), ratifikuoja Lietuvos Respublikos Vyriausybės ir Rusijos Federacijos Vyriausybės susitarimą dėl tilto per Nemuną tarp Panemunės ir Sovetsko bei jo prieigų statybos, pasirašytą 2011 m. spalio 4 d. Klaipėdoje.
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-dafbf741c854b0c326a27369
 
 
-Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1996 m. birželio 17 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Hagos konvenciją „Dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo“, ratifikuoja 1961 m. spalio 5 d. Hagos konvenciją „Dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo“.
+Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1996 m. birželio 17 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Hagos konvenciją „Dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.87A1A16A3D32), ratifikuoja 1961 m. spalio 5 d. Hagos konvenciją „Dėl užsienio valstybėse išduotų dokumentų legalizavimo panaikinimo“.
 
 
 

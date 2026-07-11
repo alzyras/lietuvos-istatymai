@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos bausmių vykdymo kodekso 18, 19, 66, 90, 91, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.58398896D322|Lietuvos Respublikos probacijos įstatymas]] - 2 citatos - Lietuvos Respublikos probacijos įstatymas
+- [[latest/TAR.58398896D322|Lietuvos Respublikos probacijos įstatymas]] - Lietuvos Respublikos probacijos įstatymas
 
 ## Šį įstatymą cituoja
 

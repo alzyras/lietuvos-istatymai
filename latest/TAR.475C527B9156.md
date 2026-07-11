@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-2ac61e4ad06e4573dd994b1e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 29 d. dekretą Nr. 730, ratifikuoja 2006 m. balandžio 25 d. Jerevane pasirašytą Lietuvos Respublikos Vyriausybės ir Armėnijos Respublikos Vyriausybės susitarimą dėl investicijų skatinimo ir abipusės apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. rugpjūčio 29 d. dekretą Nr. 730](https://e-tar.lt/portal/lt/legalAct/TAR.81A96399DED1), ratifikuoja 2006 m. balandžio 25 d. Jerevane pasirašytą Lietuvos Respublikos Vyriausybės ir Armėnijos Respublikos Vyriausybės susitarimą dėl investicijų skatinimo ir abipusės apsaugos.
 
 
 

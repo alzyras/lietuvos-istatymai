@@ -234,16 +234,16 @@ BAIGIAMOSIOS NUOSTATOS
 2. Nuo 2003 m. sausio 1 d. pripažįstami netekusiais galios: ^s-c5f1d997a0878469b6c6974a
 
 
-1) Lietuvos Respublikos paveldimo ar dovanojamo turto mokesčio įstatymas (Žin., 1995, Nr. 52-1277); ^s-7bfbf15d5a95eab3f5329641
+1) [Lietuvos Respublikos paveldimo ar dovanojamo turto mokesčio įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.5D30795710C9) (Žin., 1995, Nr. 52-1277); ^s-7bfbf15d5a95eab3f5329641
 
 
-2) Lietuvos Respublikos paveldimo ar dovanojamo turto mokesčio įstatymo [[#^s-99bea03234148bf38680fa22|8 straipsnio]] pakeitimo įstatymas (Žin., 1996, Nr. 46-1115); ^s-6a092ab0e6e9be47e99ef871
+2) [Lietuvos Respublikos paveldimo ar dovanojamo turto mokesčio įstatymo 8 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.67532D5343BB) (Žin., 1996, Nr. 46-1115); ^s-6a092ab0e6e9be47e99ef871
 
 
-3) Lietuvos Respublikos paveldimo ar dovanojamo turto mokesčio įstatymo [[#^s-a454532291956398489dc9fa|11 straipsnio]] pakeitimo įstatymas (Žin., 1996, Nr. 62-1462); ^s-15984d4183208bb756d85d78
+3) [Lietuvos Respublikos paveldimo ar dovanojamo turto mokesčio įstatymo 11 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.3B666F0873EF) (Žin., 1996, Nr. 62-1462); ^s-15984d4183208bb756d85d78
 
 
-4) Lietuvos Respublikos paveldimo ar dovanojamo turto mokesčio įstatymo 6, 7, [[#^s-99bea03234148bf38680fa22|8 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 1997, Nr. 94-2357). ^s-3ffe7bdde45b0f5c40a448e7
+4) [Lietuvos Respublikos paveldimo ar dovanojamo turto mokesčio įstatymo 6, 7, 8 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.10DF5AF1316F) (Žin., 1997, Nr. 94-2357). ^s-3ffe7bdde45b0f5c40a448e7
 
 
 
@@ -263,4 +263,4 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1132, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13468
-Lietuvos Respublikos paveldimo turto mokesčio įstatymo Nr. IX-1239 6 ir [[#^s-8e223a197c0557f566a7e18e|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos paveldimo turto mokesčio įstatymo Nr. IX-1239 [[#^s-bf741732002e165f0529af08|6]] ir [[#^s-8e223a197c0557f566a7e18e|7]] straipsnių pakeitimo įstatymas

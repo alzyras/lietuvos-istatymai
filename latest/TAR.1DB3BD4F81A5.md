@@ -109,11 +109,11 @@ LIETUVOS RESPUBLIKOS TEISINIAI AKTAI, KURIE, ĮSIGALIOJUS LIETUVOS RESPUBLIKOS P
 1. [[latest/TAR.3EB53577EFCA|Lietuvos Respublikos prokuratūros įstatymas]] (Žin., 1990, Nr. 23-557). ^s-bf390d1ea5ececd923451c8a
 
 
-2. Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. liepos 27 d. nutarimas Nr. I-421 „Dėl Lietuvos Respublikos prokuratūros įstatymo įsigaliojimo“ (Lietuvos Respublikos Aukščiausiosios Tarybos ir Aukščiausiosios Tarybos Prezidiumo dokumentų rinkinys. 1 tomas, 248 psl.). ^s-516195147867af6aac71f7f6
+2. Lietuvos Respublikos Aukščiausiosios Tarybos [1990 m. liepos 27 d. nutarimas Nr. I-421](https://e-tar.lt/portal/lt/legalAct/TAR.A483E274C7D1) [„Dėl Lietuvos Respublikos prokuratūros įstatymo įsigaliojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.A483E274C7D1) (Lietuvos Respublikos Aukščiausiosios Tarybos ir Aukščiausiosios Tarybos Prezidiumo dokumentų rinkinys. 1 tomas, 248 psl.). ^s-516195147867af6aac71f7f6
 
 
-3. Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos prokuratūros įstatymo pakeitimo ir papildymo“ (Žin., 1991, Nr.). ^s-9efc68b0bade020c5ae08b01
+3. Lietuvos Respublikos įstatymas [„Dėl Lietuvos Respublikos prokuratūros įstatymo pakeitimo ir papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.9C22B6A57E86) (Žin., 1991, Nr.). ^s-9efc68b0bade020c5ae08b01
 
 
-4. Lietuvos Respublikos Aukščiausiosios Tarybos 1990 m. balandžio 3 d. nutarimas Nr. I-103 „Dėl Lietuvos Respublikos prokuroro pavaduotojų ir Lietuvos Respublikos prokuratūros kolegijos“ (Žin., 1990, Nr. 11-343). ^s-2ba4474218e83ef0f8ef6a45
+4. Lietuvos Respublikos Aukščiausiosios Tarybos [1990 m. balandžio 3 d. nutarimas Nr. I-103](https://e-tar.lt/portal/lt/legalAct/TAR.246199ED6678) [„Dėl Lietuvos Respublikos prokuroro pavaduotojų ir Lietuvos Respublikos prokuratūros kolegijos“](https://e-tar.lt/portal/lt/legalAct/TAR.246199ED6678) (Žin., 1990, Nr. 11-343). ^s-2ba4474218e83ef0f8ef6a45
 ______________

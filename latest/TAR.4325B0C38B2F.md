@@ -166,7 +166,7 @@ Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
 ### 4 straipsnis. Asmenys, draudžiami nelaimingų atsitikimų darbe socialiniu draudimu ^s-737e8edd028db0830bb7bcb8
 
 
-Nelaimingų atsitikimų darbe socialiniu draudimu privalomai draudžiami asmenys, nurodyti [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo (toliau – Valstybinio socialinio draudimo įstatymas) 4 straipsnio]] 1–4 dalyse ir [[#^s-9f40cdf85da0dd4aa0149728|6 straipsnio]] 4, 5, 8, 10 dalyse.
+Nelaimingų atsitikimų darbe socialiniu draudimu privalomai draudžiami asmenys, nurodyti [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo (toliau – Valstybinio socialinio draudimo įstatymas) 4 straipsnio]] [[latest/TAR.0F9036415DBD#^s-93a3ee30cc77f6b9a09f2c88|1]]–[[latest/TAR.0F9036415DBD#^s-7a469a5208f6b36019a05ee3|4]] dalyse ir [[#^s-9f40cdf85da0dd4aa0149728|6 straipsnio]] [[#^s-f3064e05428039a92e0bac2e|4]], [[#^s-df9e6b11d1558bd8c200f7db|5]], 8, 10 dalyse.
 
 
 Straipsnio pakeitimai:
@@ -217,7 +217,7 @@ Nr. XIV-1222, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15587
 ### 6 straipsnis. Draudžiamieji įvykiai ^s-9f40cdf85da0dd4aa0149728
 
 
-1. Draudžiamaisiais įvykiais pripažįstami nelaimingų atsitikimų darbe socialiniu draudimu apdraustiems asmenims, nurodytiems [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Valstybinio socialinio draudimo įstatymo 4 straipsnio]] 1–[[#^s-f3064e05428039a92e0bac2e|4 dalyse]], įvykę nelaimingi atsitikimai darbe arba nustatytos profesinės ligos, kuriuos ištyrus nustatoma, kad jie įvyko esant visoms šioms sąlygoms: ^s-dadfda622ebea331ecb13ab8
+1. Draudžiamaisiais įvykiais pripažįstami nelaimingų atsitikimų darbe socialiniu draudimu apdraustiems asmenims, nurodytiems [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Valstybinio socialinio draudimo įstatymo 4 straipsnio]] [[latest/TAR.0F9036415DBD#^s-93a3ee30cc77f6b9a09f2c88|1]]–[[latest/TAR.0F9036415DBD#^s-7a469a5208f6b36019a05ee3|4]] dalyse, įvykę nelaimingi atsitikimai darbe arba nustatytos profesinės ligos, kuriuos ištyrus nustatoma, kad jie įvyko esant visoms šioms sąlygoms: ^s-dadfda622ebea331ecb13ab8
 
 
 1) dirbant draudėjo nustatytu darbo laiku, taip pat atskiru draudėjo nurodymu paskirtu dirbti laiku bei dirbant tarnybinių komandiruočių laiku; ^s-474f9435cb5ee4315c74090e
@@ -229,7 +229,7 @@ Nr. XIV-1222, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15587
 3) dirbant darbą, už kurį mokamas darbo užmokestis, nuo kurio mokamos arba turi būti mokamos nelaimingų atsitikimų darbe socialinio draudimo įmokos. ^s-8e98e89d18279e37213f0550
 
 
-2. Draudžiamaisiais įvykiais pripažįstami apdraustiesiems asmenims, nurodytiems [[latest/TAR.0F9036415DBD#^s-bfa41525bf86aaeefe10fbcc|Valstybinio socialinio draudimo įstatymo 6 straipsnio]] 4, 5, 8 ir 10 dalyse (išskyrus bausmių vykdymo sistemos įstaigose pagal profesinio mokymo programas besimokančius asmenis (kursantus), vidaus reikalų profesinio mokymo įstaigoje, muitinės pareigūnų profesinio mokymo įstaigoje ar vidaus reikalų profesinio mokymo įstaigos įvadinio mokymo kursuose besimokančius asmenis (kursantus), kurie yra pasirašę stojimo į vidaus tarnybą sutartį, bei atliekančius karo tarnybą studijuojant karo mokymo įstaigoje asmenis (kariūnus)), įvykę nelaimingi atsitikimai darbe arba nustatytos profesinės ligos, kuriuos ištyrus nustatoma, kad jie įvyko esant visoms šioms sąlygoms: ^s-75b20ebc1efb747d0c74aa11
+2. Draudžiamaisiais įvykiais pripažįstami apdraustiesiems asmenims, nurodytiems [[latest/TAR.0F9036415DBD#^s-bfa41525bf86aaeefe10fbcc|Valstybinio socialinio draudimo įstatymo 6 straipsnio]] [[latest/TAR.0F9036415DBD#^s-a4c77db2988a2a09766521b3|4]], [[latest/TAR.0F9036415DBD#^s-7d7c64a8b1ec7a69bd8ff3e1|5]], [[latest/TAR.0F9036415DBD#^s-b50caaa71e6ab3cd88c3bca5|8]] ir [[latest/TAR.0F9036415DBD#^s-89109e6e129941ef35e3aa4c|10]] dalyse (išskyrus bausmių vykdymo sistemos įstaigose pagal profesinio mokymo programas besimokančius asmenis (kursantus), vidaus reikalų profesinio mokymo įstaigoje, muitinės pareigūnų profesinio mokymo įstaigoje ar vidaus reikalų profesinio mokymo įstaigos įvadinio mokymo kursuose besimokančius asmenis (kursantus), kurie yra pasirašę stojimo į vidaus tarnybą sutartį, bei atliekančius karo tarnybą studijuojant karo mokymo įstaigoje asmenis (kariūnus)), įvykę nelaimingi atsitikimai darbe arba nustatytos profesinės ligos, kuriuos ištyrus nustatoma, kad jie įvyko esant visoms šioms sąlygoms: ^s-75b20ebc1efb747d0c74aa11
 Straipsnio dalies pakeitimai:
 Nr. XIV-1222, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15587
 Nr. XIV-2363, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25616
@@ -411,7 +411,7 @@ Nr. XIII-3027, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13465
 ### 12 straipsnis. Ligos išmoka ^s-fb2bd7dcffba3dc55bd9e61d
 
 
-1. Ligos išmoka skiriama [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Valstybinio socialinio draudimo įstatymo 4 straipsnio]] 1–4 dalyse ir [[#^s-9f40cdf85da0dd4aa0149728|6 straipsnio]] 4, 5, 10 dalyse nurodytiems asmenims, tapusiems laikinai nedarbingiems dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos, pripažintų draudžiamaisiais įvykiais. ^s-dcfc9fea10ff00832217cd65
+1. Ligos išmoka skiriama [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Valstybinio socialinio draudimo įstatymo 4 straipsnio]] [[latest/TAR.0F9036415DBD#^s-93a3ee30cc77f6b9a09f2c88|1]]–[[latest/TAR.0F9036415DBD#^s-7a469a5208f6b36019a05ee3|4]] dalyse ir [[#^s-9f40cdf85da0dd4aa0149728|6 straipsnio]] [[#^s-f3064e05428039a92e0bac2e|4]], [[#^s-df9e6b11d1558bd8c200f7db|5]], 10 dalyse nurodytiems asmenims, tapusiems laikinai nedarbingiems dėl nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos, pripažintų draudžiamaisiais įvykiais. ^s-dcfc9fea10ff00832217cd65
 
 
 2. Ligos išmoka skiriama, jeigu teisė ją gauti atsirado draudimo laikotarpiu. ^s-e4ebe762651ab7b44ce12667
@@ -461,7 +461,7 @@ Nr. XIV-2363, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25616
 
 
 2. Kol nelaimingas atsitikimas darbe ar profesinė liga bus pripažinti draudžiamaisiais įvykiais, ligos išmoka nuo trečios laikinojo nedarbingumo dienos mokama [[latest/TAR.068516AF734B|Ligos ir motinystės socialinio draudimo įstatyme]] nustatyta tvarka. Pripažinus įvykį draudžiamuoju, ligos išmoka už laikinojo nedarbingumo laikotarpį nuo atitinkamai nelaimingo atsitikimo darbe dienos arba nuo profesinės ligos nustatymo dienos perskaičiuojama šiame įstatyme nustatyta tvarka ir išmokamas mokėtinos pagal šį įstatymą ir išmokėtosios ligos išmokų skirtumas, tačiau tais atvejais, kai pagal Ligos ir motinystės socialinio draudimo įstatymą išmokėta ligos išmoka yra didesnė negu pagal šį įstatymą apskaičiuota ligos išmoka (ar jai lygi), išmokėtoji ligos išmoka neperskaičiuojama. ^s-a1e700540cc77c046c60422a
-TAR pastaba: [[#^s-a1e700540cc77c046c60422a|15 straipsnio 2 dalies]] nuostatos taikomos ir asmenims, iki [[latest/c4f0ea70a54a11eea5a28c81c82193a8|įstatymo Nr. XIV-2363]] įsigaliojimo (2024-01-01 tapusiems laikinai nedarbingiems dėl profesinės ligos, kuri draudžiamuoju įvykiu pripažįstama po [[latest/c4f0ea70a54a11eea5a28c81c82193a8|įstatymo Nr. XIV-2363]] įsigaliojimo (2024-01-01).
+TAR pastaba: 15 straipsnio 2 dalies nuostatos taikomos ir asmenims, iki [[latest/c4f0ea70a54a11eea5a28c81c82193a8|įstatymo Nr. XIV-2363]] įsigaliojimo (2024-01-01 tapusiems laikinai nedarbingiems dėl profesinės ligos, kuri draudžiamuoju įvykiu pripažįstama po [[latest/c4f0ea70a54a11eea5a28c81c82193a8|įstatymo Nr. XIV-2363]] įsigaliojimo (2024-01-01).
 Straipsnio dalies pakeitimai:
 Nr. XIV-2363, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25616
 
@@ -506,7 +506,7 @@ Išmokų sumos, kurios priklausė nukentėjusiajam asmeniui ir kurių jis dėl m
 2. Jeigu nukentėjusysis dėl draudžiamojo įvykio terminuotai netenka daugiau kaip 20, bet mažiau kaip 30 procentų dalyvumo, jam išmokama netekto dalyvumo vienkartinė kompensacija, kurios dydis yra 15,52 procento jo 24 mėnesių kompensuojamojo uždarbio, taikomo vienkartinei kompensacijai apskaičiuoti. ^s-63b5db18931bd13be67386da
 
 
-3. Jeigu nukentėjusiajam nustatytas neterminuotas netektas dalyvumas, nurodytas šio straipsnio 1 ar [[#^s-63b5db18931bd13be67386da|2 dalyje]], netekto dalyvumo vienkartinė kompensacija išmokama trigubai didesnė, negu nurodyta atitinkamai šio straipsnio 1 ar [[#^s-63b5db18931bd13be67386da|2 dalyje]]. ^s-2533b58d32f3ac987b1a8457
+3. Jeigu nukentėjusiajam nustatytas neterminuotas netektas dalyvumas, nurodytas šio straipsnio [[#^s-7d7fc2b93ee76b11680ee90a|1]] ar [[#^s-63b5db18931bd13be67386da|2]] dalyje, netekto dalyvumo vienkartinė kompensacija išmokama trigubai didesnė, negu nurodyta atitinkamai šio straipsnio [[#^s-7d7fc2b93ee76b11680ee90a|1]] ar [[#^s-63b5db18931bd13be67386da|2]] dalyje. ^s-2533b58d32f3ac987b1a8457
 
 
 4. Kompensuojamasis uždarbis netekto dalyvumo vienkartinei kompensacijai apskaičiuojamas Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo išmokų nuostatuose nustatyta tvarka pagal nukentėjusiojo draudžiamąsias pajamas, turėtas per paeiliui einančius 12 kalendorinių mėnesių, buvusių iki praeito kalendorinio mėnesio prieš nelaimingo atsitikimo darbe, pakeliui į darbą ar iš darbo arba profesinės ligos nustatymo mėnesį. ^s-05e2c17ddcbdc528cfde761d
@@ -538,7 +538,7 @@ Nr. XIV-2363, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25616
 2) jeigu gavėjui dėl to paties draudžiamojo įvykio mokama socialinio draudimo netekto darbingumo (invalidumo) ar negalios pensija yra mažesnė už apskaičiuotą netekto dalyvumo periodinę kompensaciją. Šiuo atveju gavėjui mokama netekto dalyvumo periodinė kompensacija, kurios dydis yra nustatomas kaip šiame punkte nurodytų išmokų skirtumas. ^s-6ec9a3bf4916bfc9759d9c75
 
 
-2. Netekto dalyvumo periodinė kompensacija nukentėjusiajam mokama kas mėnesį už praėjusį mėnesį. Ji apskaičiuojama kaip netekto dalyvumo koeficiento (d) (šio įstatymo [[#^s-96ae4ec8f665d4eddd25cfff|3 straipsnio 112 dalis]]), kompensavimo koeficiento (k) (šio įstatymo [[#^s-8370cb83f05bea06e1bc463b|3 straipsnio]] 7, 8, 9 dalys) ir 77,58 procento vidutinio šalies darbo užmokesčio (D), galiojančio mėnesį, už kurį mokama kompensacija, sandaugos pusė, tai yra pagal formulę 0,5 × d × k × 0,7758 × D. ^s-9156293fbd1357634fb683d1
+2. Netekto dalyvumo periodinė kompensacija nukentėjusiajam mokama kas mėnesį už praėjusį mėnesį. Ji apskaičiuojama kaip netekto dalyvumo koeficiento (d) (šio įstatymo [[#^s-96ae4ec8f665d4eddd25cfff|3 straipsnio 112 dalis]]), kompensavimo koeficiento (k) (šio įstatymo [[#^s-8370cb83f05bea06e1bc463b|3 straipsnio]] [[#^s-06d41c8c0dfeabcdb1f1b9c3|7]], [[#^s-fdc4c3b6ec692d5614e3602f|8]], [[#^s-bec26f1701274cb88e2c86e2|9]] dalys) ir 77,58 procento vidutinio šalies darbo užmokesčio (D), galiojančio mėnesį, už kurį mokama kompensacija, sandaugos pusė, tai yra pagal formulę 0,5 × d × k × 0,7758 × D. ^s-9156293fbd1357634fb683d1
 
 
 Straipsnio pakeitimai:
@@ -622,7 +622,7 @@ Nr. XIV-2363, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25616
 
 
 31. Netekto dalyvumo periodinės kompensacijos mokėjimas apdraustojo asmens prašymu Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo išmokų nuostatuose nustatyta tvarka gali būti stabdomas, o sustabdytas – atnaujinamas, jeigu teisė gauti netekto dalyvumo periodinę kompensaciją jos gavėjui buvo išlikusi laikotarpiu, kuriuo jos mokėjimas buvo sustabdytas. Netekto dalyvumo periodinės kompensacijos mokėjimas atnaujinamas nuo apdraustojo asmens prašyme atnaujinti netekto dalyvumo periodinės kompensacijos mokėjimą nurodytos dienos, bet ne anksčiau negu nuo šios kompensacijos mokėjimo sustabdymo dienos, jeigu dėl netekto dalyvumo periodinės kompensacijos mokėjimo atnaujinimo kreipiamasi per 3 metus nuo šios kompensacijos mokėjimo sustabdymo dienos. Jeigu apdraustasis asmuo dėl netekto dalyvumo periodinės kompensacijos mokėjimo atnaujinimo kreipiasi praėjus 3 ir daugiau metų nuo šios kompensacijos mokėjimo sustabdymo dienos, jos mokėjimas atnaujinamas ir nurodyta kompensacija išmokama už praėjusį, bet ne ilgesnį kaip už 12 mėnesių, laikotarpį, skaičiuojant atgal nuo kreipimosi atnaujinti netekto dalyvumo periodinės kompensacijos mokėjimą dienos. Šioje dalyje nustatyta tvarka atnaujinus netekto dalyvumo periodinės kompensacijos mokėjimą, laikotarpiu, kai nurodytos kompensacijos gavėjui vadovaujantis [[latest/TAR.A7F77DF94F5D#^s-947fdb89b14f2115a1ec8f1f|Socialinio draudimo pensijų įstatymo 20 straipsniu]] asmeniui paskirta ir mokama išankstinė senatvės pensija, jam netekto dalyvumo periodinė kompensacija nėra skiriama ir mokama ir jos ar iki 2023 m. gruodžio 31 d. paskirtos netekto darbingumo periodinės kompensacijos mokėjimo terminas nepratęsiamas išankstinės pensijos gavimo laikotarpiu. ^s-906bc1fcc68c8f61ce1dfa16
-TAR pastaba: [[#^s-906bc1fcc68c8f61ce1dfa16|25 straipsnio 31 dalis]] taikoma ir asmenims, iki [[latest/c4f0ea70a54a11eea5a28c81c82193a8|įstatymo Nr. XIV-2363]] įsigaliojimo (2024-01-01) įgijusiems teisę į netekto darbingumo periodinę kompensaciją, kuri, įsigaliojus šiam įstatymui, nėra baigta mokėti.
+TAR pastaba: 25 straipsnio 31 dalis taikoma ir asmenims, iki [[latest/c4f0ea70a54a11eea5a28c81c82193a8|įstatymo Nr. XIV-2363]] įsigaliojimo (2024-01-01) įgijusiems teisę į netekto darbingumo periodinę kompensaciją, kuri, įsigaliojus šiam įstatymui, nėra baigta mokėti.
 Papildyta straipsnio dalimi:
 Nr. XIV-2363, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25616
 
@@ -643,7 +643,7 @@ Nr. XIV-2363, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25616
 
 
 7. Periodinės draudimo išmokos apdraustajam asmeniui mirus mokėjimas stabdomas, jeigu asmuo neatitinka šio įstatymo [[#^s-eae0a6217cff06ff657fd676|26 straipsnio 1 dalies 1 punkte]] nustatytų sąlygų. Išmokų mokėjimas atnaujinamas atsiradus šio įstatymo [[#^s-eae0a6217cff06ff657fd676|26 straipsnio 1 dalies 1 punkte]] nurodytoms išmokų mokėjimo sąlygoms Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo išmokų nuostatuose nustatytais terminais ir tvarka nuo teisės į šios išmokos mokėjimo atnaujinimą atsiradimo dienos. ^s-bdf667e1562e995d3bf205dd
-TAR pastaba. [[#^s-bdf667e1562e995d3bf205dd|25 straipsnio 7 dalyje]] nustatyti periodinės draudimo išmokos apdraustajam asmeniui mirus sustabdymas ir atnaujinimas taikomi ir tiems asmenims, kuriems šios išmokos buvo paskirtos, sustabdytos ar atnaujintos iki [[latest/0fd096a0632911eca9ac839120d251c4|įstatymo Nr. XIV-753]] įsigaliojimo (2022-01-01).
+TAR pastaba. 25 straipsnio 7 dalyje nustatyti periodinės draudimo išmokos apdraustajam asmeniui mirus sustabdymas ir atnaujinimas taikomi ir tiems asmenims, kuriems šios išmokos buvo paskirtos, sustabdytos ar atnaujintos iki [[latest/0fd096a0632911eca9ac839120d251c4|įstatymo Nr. XIV-753]] įsigaliojimo (2022-01-01).
 Papildyta straipsnio dalimi:
 Nr. XIV-753, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26585
 
@@ -697,7 +697,7 @@ Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
 
 
 4. Periodinės draudimo išmokos apdraustajam asmeniui mirus mokėjimas nutraukiamas mirusiojo sutuoktiniui (sutuoktinei) sudarius kitą santuoką. ^s-e363fb30ef4f20519128c5c4
-TAR pastaba. [[#^s-e363fb30ef4f20519128c5c4|26 straipsnio 4 dalies]] nuostatos taikomos ir tiems asmenims, kuriems periodinės draudimo išmokos apdraustajam asmeniui mirus buvo paskirtos iki [[latest/0fd096a0632911eca9ac839120d251c4|įstatymo  Nr. XIV-753]] įsigaliojimo (2022-01-01).
+TAR pastaba. 26 straipsnio 4 dalies nuostatos taikomos ir tiems asmenims, kuriems periodinės draudimo išmokos apdraustajam asmeniui mirus buvo paskirtos iki [[latest/0fd096a0632911eca9ac839120d251c4|įstatymo  Nr. XIV-753]] įsigaliojimo (2022-01-01).
 Papildyta straipsnio dalimi:
 Nr. XIV-753, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26585
 
@@ -890,7 +890,7 @@ Nr. IX-2262, 2004-06-08, Žin., 2004, Nr. 98-3624 (2004-06-24)
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
-NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO, ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, [[latest/TAR.94F6B680E8B8|SVEIKATOS DRAUDIMO ĮSTATYMO]], [[latest/TAR.FDF42614DE52|NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO]], [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]], VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34, 36, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, [[latest/TAR.A7F77DF94F5D#^s-737ad56397e2a7b754e12bc0|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO]], [[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO, ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, [[latest/TAR.94F6B680E8B8|SVEIKATOS DRAUDIMO ĮSTATYMO]], [[latest/TAR.FDF42614DE52|NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO]], [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]], [[latest/TAR.CA0F08EF687E|VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO]], INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO [[latest/TAR.A7F77DF94F5D#^s-f47bd8a85e88a1ed5fdb4426|33]], [[latest/TAR.A7F77DF94F5D#^s-5588e0dd4927669d9163f666|34]], [[latest/TAR.A7F77DF94F5D#^s-3c50246512d269ab920f3de0|36]], [[latest/TAR.A7F77DF94F5D#^s-f3e4bd0c130420115fe58c82|45]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]] [[latest/TAR.9347C8C7E0A3|9]], [[latest/TAR.9347C8C7E0A3|16]], [[latest/TAR.9347C8C7E0A3|28]], [[latest/TAR.9347C8C7E0A3|35]], [[latest/TAR.9347C8C7E0A3|36]], [[latest/TAR.9347C8C7E0A3|40]], [[latest/TAR.9347C8C7E0A3|43]], [[latest/TAR.9347C8C7E0A3|45]], [[latest/TAR.9347C8C7E0A3|49]], [[latest/TAR.9347C8C7E0A3|50]], [[latest/TAR.9347C8C7E0A3|54]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO]], [[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 
 12.
@@ -927,7 +927,7 @@ Nr. X-1401, 2007-12-20, Žin., 2007, Nr. 138-5656 (2007-12-29)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1840, 2008-11-14, Žin., 2008, Nr. 137-5384 (2008-11-29)
 [[latest/TAR.79C2ECB5355C|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 1, 15, 19, 28, 29 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo 1, 2, 3 ir [[#^s-737e8edd028db0830bb7bcb8|4 straipsniai]] įsigalioja 2009 m. sausio 1 d.
+Šio įstatymo [[#^s-bb4fe280dc90fd09f842dc02|1]], [[#^s-7c917c9f8d94037c0ff90883|2]], [[#^s-8370cb83f05bea06e1bc463b|3]] ir [[#^s-737e8edd028db0830bb7bcb8|4]] straipsniai įsigalioja 2009 m. sausio 1 d.
 Šio įstatymo [[#^s-cdcc31efdf4238c4f9c94d25|5 straipsnis]] įsigalioja 2011 m. sausio 1 d.
 Šio įstatymo [[#^s-cdcc31efdf4238c4f9c94d25|5 straipsniu]] keičiamo [[#^s-995c6b659e02e9c987478759|Nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo 29 straipsnio 1 dalies 1 punkto]] nuostatos pradedamos taikyti 2012 m. sausio 1 d.
 Įstatymo įsigaliojimo ir taikymo pakeitimai:
@@ -979,7 +979,7 @@ LIETUVOS RESPUBLIKOS NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALIN
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1003, 2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10430
-LIETUVOS RESPUBLIKOS NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO NR. VIII-1509 3, 4, 5 IR [[#^s-4784c833a44530ea1e8c9ac5|30 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO NR. VIII-1509 [[#^s-8370cb83f05bea06e1bc463b|3]], [[#^s-737e8edd028db0830bb7bcb8|4]], [[#^s-cdcc31efdf4238c4f9c94d25|5]] IR [[#^s-4784c833a44530ea1e8c9ac5|30]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. sausio 1 d.
 
 ***
@@ -988,12 +988,12 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2008-04-29, Žin., 2008, Nr. 51-1904 (2008-04-30)
-DĖL [[#^s-1f4e23f6f49a8361879b30ee|LIETUVOS RESPUBLIKOS NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 7 STRAIPSNIO 2 DALIES]] (2005 M. GEGUŽĖS 19 D. REDAKCIJA) NUOSTATOS IR DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2004 M. KOVO 22 D. NUTARIMU NR. 309 "DĖL NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO IŠMOKŲ NUOSTATŲ PATVIRTINIMO" PATVIRTINTŲ NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO IŠMOKŲ NUOSTATŲ 13 PUNKTO (2004 M. KOVO 22 D. REDAKCIJA) NUOSTATOS ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+DĖL LIETUVOS RESPUBLIKOS NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO [[#^s-1f4e23f6f49a8361879b30ee|7 STRAIPSNIO 2 DALIES]] (2005 M. GEGUŽĖS 19 D. REDAKCIJA) NUOSTATOS IR DĖL LIETUVOS RESPUBLIKOS VYRIAUSYBĖS [2004 M. KOVO 22 D. NUTARIMU NR. 309](https://e-tar.lt/portal/lt/legalAct/TAR.818206FCA97A) "DĖL NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO IŠMOKŲ NUOSTATŲ PATVIRTINIMO" PATVIRTINTŲ NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO IŠMOKŲ NUOSTATŲ 13 PUNKTO (2004 M. KOVO 22 D. REDAKCIJA) NUOSTATOS ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
 
 2.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2013-12-11, Žin., 2013, Nr. 128-6529 (2013-12-14)
-NUTARIMAS DĖL LIETUVOS RESPUBLIKOS NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO (2003 M. LAPKRIČIO 11 D. REDAKCIJA) [[#^s-c8ea9079b5793784017af401|25 STRAIPSNIO 5 DALIES]] ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS 2004 M. KOVO 22 D. NUTARIMU NR. 309 PATVIRTINTŲ NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO IŠMOKŲ NUOSTATŲ 103.5 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO (2003 M. LAPKRIČIO 11 D. REDAKCIJA) [[#^s-2d65c7fd585084ab797cf635|27 STRAIPSNIO 1 DALIAI]]
+NUTARIMAS DĖL LIETUVOS RESPUBLIKOS NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO (2003 M. LAPKRIČIO 11 D. REDAKCIJA) [[#^s-c8ea9079b5793784017af401|25 STRAIPSNIO 5 DALIES]] ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS VYRIAUSYBĖS [2004 M. KOVO 22 D. NUTARIMU NR. 309](https://e-tar.lt/portal/lt/legalAct/TAR.818206FCA97A) PATVIRTINTŲ NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO IŠMOKŲ NUOSTATŲ 103.5 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI, LIETUVOS RESPUBLIKOS NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO (2003 M. LAPKRIČIO 11 D. REDAKCIJA) [[#^s-2d65c7fd585084ab797cf635|27 STRAIPSNIO 1 DALIAI]]
 
 
 Pakeitimai:
@@ -1006,12 +1006,12 @@ Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialin
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1991, 2015-11-05, paskelbta TAR 2015-11-17, i. k. 2015-18258
-Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 2, 3, 4, 5, 6, 7, 8 ir [[#^s-4784c833a44530ea1e8c9ac5|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 [[#^s-7c917c9f8d94037c0ff90883|2]], [[#^s-8370cb83f05bea06e1bc463b|3]], [[#^s-737e8edd028db0830bb7bcb8|4]], [[#^s-cdcc31efdf4238c4f9c94d25|5]], [[#^s-9f40cdf85da0dd4aa0149728|6]], [[#^s-3d587db23fc0092c748ee41a|7]], [[#^s-19ed40f2d057a82287194084|8]] ir [[#^s-4784c833a44530ea1e8c9ac5|30]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2281, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06432
-Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 2, 3, 4, 5, 6, 7, 8 ir [[#^s-4784c833a44530ea1e8c9ac5|30 straipsnių]] pakeitimo [[latest/830a4f008d2711e58711b884b80daa4f|įstatymo Nr. XII-1991]] [[#^s-57403ed828c9f39df43da173|9 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 [[#^s-7c917c9f8d94037c0ff90883|2]], [[#^s-8370cb83f05bea06e1bc463b|3]], [[#^s-737e8edd028db0830bb7bcb8|4]], [[#^s-cdcc31efdf4238c4f9c94d25|5]], [[#^s-9f40cdf85da0dd4aa0149728|6]], [[#^s-3d587db23fc0092c748ee41a|7]], [[#^s-19ed40f2d057a82287194084|8]] ir [[#^s-4784c833a44530ea1e8c9ac5|30]] straipsnių pakeitimo [[latest/830a4f008d2711e58711b884b80daa4f|įstatymo Nr. XII-1991]] [[#^s-57403ed828c9f39df43da173|9 straipsnio]] pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1021,7 +1021,7 @@ Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialin
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-827, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20025
-Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 3, 13, 15, 19, 20, 27 ir [[#^s-42591506a9a4ccedb5ed3ffc|28 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 [[#^s-8370cb83f05bea06e1bc463b|3]], [[#^s-0249f3302972559d346a6c5f|13]], [[#^s-cb34f731322005c046c54384|15]], [[#^s-96a1e067a6686320f527f081|19]], [[#^s-07f0779dc062e4523a35b408|20]], [[#^s-3710424e002449d304e90983|27]] ir [[#^s-42591506a9a4ccedb5ed3ffc|28]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1036,7 +1036,7 @@ Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialin
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1339, 2018-06-28, paskelbta TAR 2018-07-05, i. k. 2018-11434
-Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 3, 15, 19, 26 ir [[#^s-3710424e002449d304e90983|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 [[#^s-8370cb83f05bea06e1bc463b|3]], [[#^s-cb34f731322005c046c54384|15]], [[#^s-96a1e067a6686320f527f081|19]], [[#^s-4ed366a19004b17befad1592|26]] ir [[#^s-3710424e002449d304e90983|27]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1051,39 +1051,39 @@ Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialin
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2890, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10791
-Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 3, 6, 8, 9, 17, 23, 31 ir [[#^s-eebe9210810288962d2ffc57|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 [[#^s-8370cb83f05bea06e1bc463b|3]], [[#^s-9f40cdf85da0dd4aa0149728|6]], [[#^s-19ed40f2d057a82287194084|8]], [[#^s-57403ed828c9f39df43da173|9]], [[#^s-da25b86b1ca22865116e0d86|17]], [[#^s-116cedc5dc2d7566cb91146f|23]], [[#^s-811cc2917d670b6f3c2855d2|31]] ir [[#^s-eebe9210810288962d2ffc57|32]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3027, 2020-06-04, paskelbta TAR 2020-06-19, i. k. 2020-13465
-Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 4, 5, 6 ir [[#^s-0466c68305f7417ec895d658|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 [[#^s-737e8edd028db0830bb7bcb8|4]], [[#^s-cdcc31efdf4238c4f9c94d25|5]], [[#^s-9f40cdf85da0dd4aa0149728|6]] ir [[#^s-0466c68305f7417ec895d658|11]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-753, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26585
-Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 2, 25, 26, 28 ir [[#^s-811cc2917d670b6f3c2855d2|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 [[#^s-7c917c9f8d94037c0ff90883|2]], [[#^s-c97516f982c7ad1c52515a02|25]], [[#^s-4ed366a19004b17befad1592|26]], [[#^s-42591506a9a4ccedb5ed3ffc|28]] ir [[#^s-811cc2917d670b6f3c2855d2|31]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1222, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15587
-Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 5 ir [[#^s-9f40cdf85da0dd4aa0149728|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 [[#^s-cdcc31efdf4238c4f9c94d25|5]] ir [[#^s-9f40cdf85da0dd4aa0149728|6]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1969, 2023-05-23, paskelbta TAR 2023-05-30, i. k. 2023-10362
-Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 3 ir [[#^s-4bd296a4011e92e5dc04d5b8|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 [[#^s-8370cb83f05bea06e1bc463b|3]] ir [[#^s-4bd296a4011e92e5dc04d5b8|29]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2363, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25616
-Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 3, 6, 11, 14, 15, 19, 20, 21, 22, 23, 24, 25, 26 ir [[#^s-3710424e002449d304e90983|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 [[#^s-8370cb83f05bea06e1bc463b|3]], [[#^s-9f40cdf85da0dd4aa0149728|6]], [[#^s-0466c68305f7417ec895d658|11]], [[#^s-57e48c0e1e7b9cc0148b136e|14]], [[#^s-cb34f731322005c046c54384|15]], [[#^s-96a1e067a6686320f527f081|19]], [[#^s-07f0779dc062e4523a35b408|20]], [[#^s-f30a629aef4b3e92066827fd|21]], [[#^s-9a928cde0031ba200f634be1|22]], [[#^s-116cedc5dc2d7566cb91146f|23]], [[#^s-8f35167110a33b1269395128|24]], [[#^s-c97516f982c7ad1c52515a02|25]], [[#^s-4ed366a19004b17befad1592|26]] ir [[#^s-3710424e002449d304e90983|27]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT15-N2/2024, 2024-02-13, paskelbta TAR 2024-02-13, i. k. 2024-02701
-Dėl Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo (2016 m. birželio 21 d. redakcija) [[#^s-a8039d803ebb96e682c14867|7 straipsnio 3 dalies]] nuostatos atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo (2016 m. birželio 21 d. redakcija) 7 straipsnio 3 dalies nuostatos atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/d6830840ca7511eea5a28c81c82193a8)
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2708, 2024-06-13, paskelbta TAR 2024-06-20, i. k. 2024-11232
-Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 7 ir [[#^s-4bd296a4011e92e5dc04d5b8|29 straipsnių]] pakeitimo ir Įstatymo papildymo 29-1 straipsniu įstatymas
+Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymo Nr. VIII-1509 [[#^s-3d587db23fc0092c748ee41a|7]] ir [[#^s-4bd296a4011e92e5dc04d5b8|29]] straipsnių pakeitimo ir Įstatymo papildymo 29-1 straipsniu įstatymas

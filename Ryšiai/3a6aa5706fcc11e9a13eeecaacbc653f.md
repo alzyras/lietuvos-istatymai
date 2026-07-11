@@ -9,7 +9,8 @@ pavadinimas: "Lietuvos Respublikos prekybinės laivybos įstatymo Nr. I-1513 4-2
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu
+- [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu
+- [[latest/TAR.38B0127A21E8|Lietuvos Respublikos prekybinės laivybos įstatymas]] - Lietuvos Respublikos prekybinės laivybos įstatymo 42 straipsnio 4 dalies 3 punkto
 
 ## Šį įstatymą cituoja
 

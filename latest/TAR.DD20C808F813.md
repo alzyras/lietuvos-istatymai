@@ -204,7 +204,7 @@ Pakeisti [[#^s-b074c7f47a9ae95795b8c520|15 straipsnį]] ir jį išdėstyti taip:
 3. Žinių patikrinimo egzaminai nustatyta tvarka laikomi valstybine kalba iš sričių, nurodytų šio įstatymo 11 straipsnio 8 dalies 2 ir 8 punktuose ir 9 dalies 1–4 punktuose. ^s-a5938e53f63acdba7e13a9db
 
 
-4. Auditoriaus pažymėjimo galiojimas valstybės narės auditoriui sustabdomas arba auditoriaus vardas atimamas ir auditoriaus pažymėjimo galiojimas panaikinamas tais pačiais pagrindais ir ta pačia tvarka, kuri nustatyta šio įstatymo 13 ir [[#^s-091ce46ef7f7c4b1a047ff3e|14 straipsniuose]], taip pat tuo atveju, jeigu valstybė (valstybės) narė (narės), kurios (kurių) kompetentinga (kompetentingos) institucija (institucijos) suteikė teisę atlikti auditą, sustabdo arba panaikina šią teisę. Sprendimus dėl auditoriaus vardo sustabdymo ir panaikinimo priima Įstaiga.“ ^s-7b61ece68470cfe425fdbcdb
+4. Auditoriaus pažymėjimo galiojimas valstybės narės auditoriui sustabdomas arba auditoriaus vardas atimamas ir auditoriaus pažymėjimo galiojimas panaikinamas tais pačiais pagrindais ir ta pačia tvarka, kuri nustatyta šio įstatymo [[#^s-5d82d2b3f8ab5f6bc6f9a14a|13]] ir [[#^s-091ce46ef7f7c4b1a047ff3e|14]] straipsniuose, taip pat tuo atveju, jeigu valstybė (valstybės) narė (narės), kurios (kurių) kompetentinga (kompetentingos) institucija (institucijos) suteikė teisę atlikti auditą, sustabdo arba panaikina šią teisę. Sprendimus dėl auditoriaus vardo sustabdymo ir panaikinimo priima Įstaiga.“ ^s-7b61ece68470cfe425fdbcdb
 
 
 
@@ -218,10 +218,10 @@ Pakeisti [[#^s-44f4d42ac229f36364e1939a|16 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-44f4d42ac229f36364e1939a|16 straipsnis]]. Auditoriaus vardo suteikimas valstybių ne narių auditoriams, auditoriaus pažymėjimo galiojimo sustabdymas, auditoriaus vardo netekimas ir auditoriaus pažymėjimo galiojimo panaikinimas
 
 
-1. Įstaiga nustato auditoriaus vardo suteikimo tvarką valstybių ne narių auditoriams. Valstybės ne narės auditoriui, kuriam teisė atlikti auditą suteikta valstybėje ne narėje, kuriai Europos Komisijos sprendimu suteiktas pereinamasis laikotarpis, ir kuris siekia auditoriaus vardo, taikomas reikalavimas būti išlaikiusiam žinių patikrinimo egzaminą, atitinkantį šio įstatymo 15 straipsnio 3 dalyje nustatytus reikalavimus, taip pat reikalavimas įrodyti, kad jis atitinka šio įstatymo [[#^s-ebac4df4bc97ddbe39b15f48|8 straipsnio]] 1, 2, 3 punktų ir [[#^s-442f88084018b76c626563c5|9 straipsnio]] reikalavimus. Valstybės ne narės auditoriui, kuriam teisė atlikti auditą suteikta valstybėje ne narėje, kuriai Europos Komisijos sprendimu pereinamasis laikotarpis nėra suteiktas, ir kuris siekia auditoriaus vardo Lietuvos Respublikoje, auditoriaus vardas suteikiamas, jeigu jis atitinka šio įstatymo 8, 9 ir [[#^s-ad76f3f68fd76b6a00116a5f|11 straipsnių]] reikalavimus. ^s-744e9a9dac15725c170788a2
+1. Įstaiga nustato auditoriaus vardo suteikimo tvarką valstybių ne narių auditoriams. Valstybės ne narės auditoriui, kuriam teisė atlikti auditą suteikta valstybėje ne narėje, kuriai Europos Komisijos sprendimu suteiktas pereinamasis laikotarpis, ir kuris siekia auditoriaus vardo, taikomas reikalavimas būti išlaikiusiam žinių patikrinimo egzaminą, atitinkantį šio įstatymo 15 straipsnio 3 dalyje nustatytus reikalavimus, taip pat reikalavimas įrodyti, kad jis atitinka šio įstatymo [[#^s-ebac4df4bc97ddbe39b15f48|8 straipsnio]] 1, 2, 3 punktų ir [[#^s-442f88084018b76c626563c5|9 straipsnio]] reikalavimus. Valstybės ne narės auditoriui, kuriam teisė atlikti auditą suteikta valstybėje ne narėje, kuriai Europos Komisijos sprendimu pereinamasis laikotarpis nėra suteiktas, ir kuris siekia auditoriaus vardo Lietuvos Respublikoje, auditoriaus vardas suteikiamas, jeigu jis atitinka šio įstatymo [[#^s-ebac4df4bc97ddbe39b15f48|8]], [[#^s-442f88084018b76c626563c5|9]] ir [[#^s-ad76f3f68fd76b6a00116a5f|11]] straipsnių reikalavimus. ^s-744e9a9dac15725c170788a2
 
 
-2. Auditoriaus pažymėjimo galiojimas valstybių ne narių, nurodytų [[#^s-744e9a9dac15725c170788a2|šio straipsnio 1 dalyje]], auditoriams sustabdomas arba auditoriaus vardas atimamas ir auditoriaus pažymėjimo galiojimas panaikinamas tais pačiais pagrindais ir ta pačia tvarka, kuri nustatyta šio įstatymo 13 ir [[#^s-091ce46ef7f7c4b1a047ff3e|14 straipsniuose]], taip pat kai valstybės ne narės, kuriai Europos Komisijos sprendimu suteiktas pereinamasis laikotarpis, kompetentinga institucija, kuri suteikė teisę atlikti auditą, sustabdo arba panaikina šią teisę. Sprendimus dėl auditoriaus vardo sustabdymo ir panaikinimo priima Įstaiga.“ ^s-eb65aa90d3c76b9cbab8e861
+2. Auditoriaus pažymėjimo galiojimas valstybių ne narių, nurodytų [[#^s-744e9a9dac15725c170788a2|šio straipsnio 1 dalyje]], auditoriams sustabdomas arba auditoriaus vardas atimamas ir auditoriaus pažymėjimo galiojimas panaikinamas tais pačiais pagrindais ir ta pačia tvarka, kuri nustatyta šio įstatymo [[#^s-5d82d2b3f8ab5f6bc6f9a14a|13]] ir [[#^s-091ce46ef7f7c4b1a047ff3e|14]] straipsniuose, taip pat kai valstybės ne narės, kuriai Europos Komisijos sprendimu suteiktas pereinamasis laikotarpis, kompetentinga institucija, kuri suteikė teisę atlikti auditą, sustabdo arba panaikina šią teisę. Sprendimus dėl auditoriaus vardo sustabdymo ir panaikinimo priima Įstaiga.“ ^s-eb65aa90d3c76b9cbab8e861
 
 
 
@@ -231,7 +231,7 @@ Pakeisti [[#^s-44f4d42ac229f36364e1939a|16 straipsnį]] ir jį išdėstyti taip:
 Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
-„3. Auditorių rūmai, gavę visus dokumentus, nurodytus šio straipsnio 2 dalyje, Juridinių asmenų registre patikrina įmonės įregistravimą ir kitus duomenis ir, įsitikinę, kad įmonė atitinka šio įstatymo 18, 19 ir [[#^s-97577b96f6a4a8c0bb0978ad|20 straipsnių]] reikalavimus, sprendimą dėl audito įmonės įrašymo į audito įmonių sąrašą priima per 20 darbo dienų nuo dokumentų, nurodytų šio straipsnio 2 dalyje, pateikimo dienos. Auditorių rūmai išsiunčia įmonei, siekiančiai būti įrašytai į audito įmonių sąrašą, priimto sprendimo kopiją ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos. Auditorių rūmai apie priimtą sprendimą informuoja Įstaigą su ja raštu suderinta tvarka.“
+„3. Auditorių rūmai, gavę visus dokumentus, nurodytus šio straipsnio 2 dalyje, Juridinių asmenų registre patikrina įmonės įregistravimą ir kitus duomenis ir, įsitikinę, kad įmonė atitinka šio įstatymo [[#^s-ea648ca4e199f44b25a5eb51|18]], [[#^s-a7b11ec260337356ba2b9658|19]] ir [[#^s-97577b96f6a4a8c0bb0978ad|20]] straipsnių reikalavimus, sprendimą [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) įmonės įrašymo į audito įmonių sąrašą priima per 20 darbo dienų nuo dokumentų, nurodytų šio straipsnio 2 dalyje, pateikimo dienos. Auditorių rūmai išsiunčia įmonei, siekiančiai būti įrašytai į audito įmonių sąrašą, priimto sprendimo kopiją ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos. Auditorių rūmai apie priimtą sprendimą informuoja Įstaigą su ja raštu suderinta tvarka.“
 
 
 
@@ -251,7 +251,7 @@ Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 1. 21 straipsnio 2 dalyje vietoj žodžių „Audito ir apskaitos tarnyba“ įrašyti žodį „Įstaiga“ ir šią dalį išdėstyti taip: ^s-f28223f6551ea82a495b9733
 
 
-„2. Auditorių rūmai, sustabdę audito įmonės pažymėjimo galiojimą kuriuo nors iš [[#^s-f28223f6551ea82a495b9733|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytu pagrindu, nustato terminą, per kurį audito įmonė privalo pateikti reikalingus ir (arba) teisingus duomenis, sumokėti atskaitymus arba sudaryti sąlygas atlikto audito kokybės peržiūroms arba atlikto audito tyrimams atlikti. Šio straipsnio 1 dalies 3 punkte nurodytu atveju nustatytas terminas suderinamas su Įstaiga.“
+„2. Auditorių rūmai, sustabdę audito įmonės pažymėjimo galiojimą kuriuo nors iš šio straipsnio 1 dalies 1, 2 ir 3 punktuose nurodytu pagrindu, nustato terminą, per kurį audito įmonė privalo pateikti reikalingus ir (arba) teisingus duomenis, sumokėti atskaitymus arba sudaryti sąlygas atlikto audito kokybės peržiūroms arba atlikto audito tyrimams atlikti. Šio straipsnio 1 dalies 3 punkte nurodytu atveju nustatytas terminas suderinamas su Įstaiga.“
 
 
 2. 21 straipsnio 5 dalyje vietoj žodžių „Audito ir apskaitos tarnybą“ įrašyti žodį „Įstaigą“ ir šią dalį išdėstyti taip: ^s-4625035878cec3cf3ae0f283
@@ -267,7 +267,7 @@ Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 1. 22 straipsnio 2 dalyje vietoj žodžių „Audito ir apskaitos tarnybą“ įrašyti žodį „Įstaigą“ ir šią dalį išdėstyti taip: ^s-a4730b44c0874d6112920f83
 
 
-„2. Audito įmonė išbraukiama iš audito įmonių sąrašo kitą dieną po [[#^s-a4730b44c0874d6112920f83|šio straipsnio 1 dalyje]] nustatyto sprendimo priėmimo dienos. Iš audito įmonių sąrašo išbraukta audito įmonė netenka audito įmonės pažymėjimo. Apie Auditorių rūmų sprendimą panaikinti audito įmonės pažymėjimo galiojimą ir išbraukimą iš audito įmonių sąrašo audito įmonė informuojama raštu arba per atstumą, elektroninėmis priemonėmis per kontaktinį centrą ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos. Auditorių rūmai apie panaikintą audito įmonės pažymėjimo galiojimą ir išbraukimą iš audito įmonių sąrašo informuoja Įstaigą su ja raštu suderinta tvarka.“
+„2. Audito įmonė išbraukiama iš audito įmonių sąrašo kitą dieną po šio straipsnio 1 dalyje nustatyto sprendimo priėmimo dienos. Iš audito įmonių sąrašo išbraukta audito įmonė netenka audito įmonės pažymėjimo. Apie Auditorių rūmų sprendimą panaikinti audito įmonės pažymėjimo galiojimą ir išbraukimą iš audito įmonių sąrašo audito įmonė informuojama raštu arba per atstumą, elektroninėmis priemonėmis per kontaktinį centrą ne vėliau kaip per 5 darbo dienas nuo sprendimo priėmimo dienos. Auditorių rūmai apie panaikintą audito įmonės pažymėjimo galiojimą ir išbraukimą iš audito įmonių sąrašo informuoja Įstaigą su ja raštu suderinta tvarka.“
 
 
 2. 22 straipsnio 5 dalyje vietoj žodžių „Audito ir apskaitos tarnyba“ įrašyti žodį „Įstaiga“ ir šią dalį išdėstyti taip: ^s-9d920bb266e2c3a61b2d3723
@@ -331,7 +331,7 @@ Pakeisti 17 straipsnio 3 dalį ir ją išdėstyti taip:
 2. Pakeisti [[#^s-0d9a63d51d7aaa4d0c452ceb|28 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-e2f2b64f26d748a779ce75ca
 
 
-„3. Įstaiga prižiūri, kaip laikomasi [[#^s-ea4b5be24c6606a548a59f31|šio straipsnio 1 dalyje]] nustatytų reikalavimų. Auditorius, profesinę kvalifikaciją kėlęs ne Auditorių rūmų organizuojamuose kursuose arba išėjęs lygiavertį profesinės kvalifikacijos tobulinimo kursą, kreipiasi į Auditorių rūmus, kad šie kursai, jeigu jie atitinka [[#^s-e2f2b64f26d748a779ce75ca|šio straipsnio 2 dalyje]] nurodytas programas, būtų įskaityti į [[#^s-ea4b5be24c6606a548a59f31|šio straipsnio 1 dalyje]] nustatytų kursų valandų skaičių. Jeigu Auditorių rūmai priima neigiamą sprendimą, auditorius turi teisę pateikti skundą Įstaigai, kurios priimtas sprendimas yra privalomas Auditorių rūmams.“
+„3. Įstaiga prižiūri, kaip laikomasi [[#^s-ea4b5be24c6606a548a59f31|šio straipsnio 1 dalyje]] nustatytų reikalavimų. Auditorius, profesinę kvalifikaciją kėlęs ne Auditorių rūmų organizuojamuose kursuose arba išėjęs lygiavertį profesinės kvalifikacijos tobulinimo kursą, kreipiasi į Auditorių rūmus, kad šie kursai, jeigu jie atitinka šio straipsnio 2 dalyje nurodytas programas, būtų įskaityti į [[#^s-ea4b5be24c6606a548a59f31|šio straipsnio 1 dalyje]] nustatytų kursų valandų skaičių. Jeigu Auditorių rūmai priima neigiamą sprendimą, auditorius turi teisę pateikti skundą Įstaigai, kurios priimtas sprendimas yra privalomas Auditorių rūmams.“
 
 
 
@@ -607,7 +607,7 @@ Pakeisti [[#^s-ae7b7725ae32740053a2af3a|37 straipsnį]] ir jį išdėstyti taip:
 4) nepritarti Auditorių rūmų siūlomam sprendimui ir atlikti audito tyrimą. ^s-f304fe2353be58c85cf59e74
 
 
-4. Galioja tik tie Auditorių rūmų sprendimai dėl audito kokybės peržiūros ataskaitų, kuriose nustatyti atlikto audito kokybės trūkumai, kuriems Įstaiga pateikė savo įvertinimą.“ ^s-efa5079acabdd03d7b018257
+4. Galioja tik tie Auditorių rūmų sprendimai [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) kokybės peržiūros ataskaitų, kuriose nustatyti atlikto audito kokybės trūkumai, kuriems Įstaiga pateikė savo įvertinimą.“ ^s-efa5079acabdd03d7b018257
 
 
 
@@ -796,7 +796,7 @@ Pakeisti [[#^s-f1372551f7752cc67c2f2b6b|44 straipsnį]] ir jį išdėstyti taip:
 4) stebi, kaip verčiami Buhalterių profesionalų etikos kodeksas, tarptautiniai audito standartai ir Tarptautinis kokybės kontrolės standartas į lietuvių kalbą, ir prireikus imasi veiksmų, kad būtų garantuotas jų tinkamos kokybės vertimas laiku; ^s-dc00c79498ced446feaa3a93
 
 
-5) kartu su Auditorių rūmais įgyvendina auditorių ir audito įmonių atlikto audito kokybės užtikrinimą, atlieka tyrimus, skiria šio įstatymo [[#^s-6cc9d5caadcd60eaf6b99583|39 straipsnio]] 1 ir [[#^s-6ef1be593e1459d1585239d8|2 dalyse]] nustatytas nuobaudas ir duoda šio įstatymo [[#^s-58cd9eb44bb49efa7d5963ee|38 straipsnyje]] nustatytus nurodymus, įvertina Auditorių rūmų siūlomus sprendimus dėl šių nuobaudų ar nurodymų skyrimo arba neskyrimo šio įstatymo 37 straipsnio 3 dalyje nustatyta tvarka; ^s-faf37fed7e5027637a73f753
+5) kartu su Auditorių rūmais įgyvendina auditorių ir audito įmonių atlikto audito kokybės užtikrinimą, atlieka tyrimus, skiria šio įstatymo [[#^s-6cc9d5caadcd60eaf6b99583|39 straipsnio]] [[#^s-704b25781f213669fc05209a|1]] ir [[#^s-dadffb1ea7784405ebf11d4c|2]] dalyse nustatytas nuobaudas ir duoda šio įstatymo [[#^s-58cd9eb44bb49efa7d5963ee|38 straipsnyje]] nustatytus nurodymus, įvertina Auditorių rūmų siūlomus sprendimus dėl šių nuobaudų ar nurodymų skyrimo arba neskyrimo šio įstatymo 37 straipsnio 3 dalyje nustatyta tvarka; ^s-faf37fed7e5027637a73f753
 
 
 6) nedelsdama perduoda priežiūros institucijoms, Finansų ministerijai, valstybių narių ir valstybių ne narių kompetentingoms institucijoms informaciją, taip pat konfidencialią, reikalingą jų priežiūros funkcijoms atlikti. Iš valstybių narių ir valstybių ne narių atitinkamų institucijų gautą informaciją, taip pat konfidencialią, naudoja tik audito viešajai priežiūrai atlikti; ^s-6b8df8223b489404fd63ebd4
@@ -949,7 +949,7 @@ Pakeisti devintojo skirsnio pavadinimą ir jį išdėstyti taip:
 4. Pakeisti 48 straipsnio 5 dalį ir ją išdėstyti taip: ^s-e38ebead6b4deb52b932c329
 
 
-„5. Jeigu [[#^s-e38ebead6b4deb52b932c329|šio straipsnio 4 dalyje]] nustatytu atveju Įstaigai tokį sprendimą praneša kitos valstybės narės kompetentinga institucija, Įstaiga turi imtis atitinkamų veiksmų ir apie tai informuoti pranešusią kitos valstybės narės kompetentingą instituciją.“
+„5. Jeigu šio straipsnio 4 dalyje nustatytu atveju Įstaigai tokį sprendimą praneša kitos valstybės narės kompetentinga institucija, Įstaiga turi imtis atitinkamų veiksmų ir apie tai informuoti pranešusią kitos valstybės narės kompetentingą instituciją.“
 
 
 

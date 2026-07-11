@@ -115,7 +115,7 @@ Bendrovės steigimo sutartis yra viešas dokumentas.
 4. Bendrovės steigimo sutartis arba aktas, sudaryti šio įstatymo nustatyta tvarka, suteikia teisę atidaryti kaupimo sąskaitą Lietuvos Respublikoje įregistruotame banke. ^s-5cfa20a9bc81e6e7cb977302
 
 
-5. Bendrovės steigėjai, sudarę steigimo sutartį, parengia bendrovės įstatus ir išplatina akcijas. Akcinės bendrovės steigėjai turi teisę platinti akcijas tik įregistravę įstatus Lietuvos Respublikos įmonių rejestro įstatymo nustatyta tvarka ir akcijų emisiją Vertybinių popierių komisijoje. ^s-a523b160036edb8c55e1dc19
+5. Bendrovės steigėjai, sudarę steigimo sutartį, parengia bendrovės įstatus ir išplatina akcijas. Akcinės bendrovės steigėjai turi teisę platinti akcijas tik įregistravę įstatus [Lietuvos Respublikos įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka ir akcijų emisiją Vertybinių popierių komisijoje. ^s-a523b160036edb8c55e1dc19
 
 
 6. Iki steigiamojo akcininkų susirinkimo bet kuris steigėjų, taip pat steigimo sutartyje nurodyti asmenys turi teisę sudaryti steigiamos bendrovės vardu sandorius. Šie sandoriai bendrovei sukuria prievoles po to, kai steigiamasis akcininkų susirinkimas juos patvirtina. Jeigu susirinkimas šių sandorių nepatvirtina, tai už prievoles, pagrįstas šiais sandoriais, steigėjai atsako solidariai, o kiti steigimo sutartyje nurodyti asmenys – individualiai. Steigėjui pasiūlius, akcininkų susirinkimas gali perkelti bendrovei prievoles, sukurtas sandoriais, kuriuos steigėjas sudarė savo vardu. ^s-428a3a089f269e3ec3a5693f
@@ -290,7 +290,7 @@ BENDROVĖS STEIGIMAS, REORGANIZAVIMAS IR LIKVIDAVIMAS
 ### 8 straipsnis. Įstatų ir bendrovės registravimas ^s-7f05b9baf2cdc20ba68ccd51
 
 
-1. Akcinės bendrovės iki akcijų platinimo turi įregistruoti įstatus Įmonių rejestro įstatymo nustatyta tvarka. ^s-539c57c57ec44d5023b9ac42
+1. Akcinės bendrovės iki akcijų platinimo turi įregistruoti įstatus [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka. ^s-539c57c57ec44d5023b9ac42
 
 
 2. Jeigu visuotinis akcininkų susirinkimas pakeičia ar papildo bendrovės įstatus, šie įstatų pakeitimai turi būti įregistruoti. Įstatų pakeitimai galioja tik juos įregistravus. ^s-e4ffe86a88445f94fefa4df3
@@ -300,7 +300,7 @@ BENDROVĖS STEIGIMAS, REORGANIZAVIMAS IR LIKVIDAVIMAS
 Jei bendrovė nebuvo įregistruota dėl priežasčių, nesusijusių su bendrovės steigėjų ar akcininkų veikla, įmonių rejestro tvarkytojo veiksmai gali būti bendrovės steigėjų apskųsti teismui.
 
 
-4. Bendrovė įregistruojama Įmonių rejestro įstatymo nustatyta tvarka po to, kai pasirašytos akcijos, surinkti pradiniai įnašai ir įvyko steigiamasis akcininkų susirinkimas. Surinktų pradinių įnašų suma turi būti ne mažesnė už šio įstatymo [[#^s-08d7c6921f7c5459d78fdd68|2 straipsnyje]] nustatytą minimalų įstatinį kapitalą, tarp jų pinigais – ne mažesnė kaip 1/4 šio dydžio dalis. ^s-a1e510f4d3d443e5790df0e4
+4. Bendrovė įregistruojama [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka po to, kai pasirašytos akcijos, surinkti pradiniai įnašai ir įvyko steigiamasis akcininkų susirinkimas. Surinktų pradinių įnašų suma turi būti ne mažesnė už šio įstatymo [[#^s-08d7c6921f7c5459d78fdd68|2 straipsnyje]] nustatytą minimalų įstatinį kapitalą, tarp jų pinigais – ne mažesnė kaip 1/4 šio dydžio dalis. ^s-a1e510f4d3d443e5790df0e4
 
 
 5. Nuo įregistravimo dienos bendrovė įgyja juridinio asmens teises. ^s-57068736537e1b51ad178f7d
@@ -319,7 +319,7 @@ Jei bendrovė nebuvo įregistruota dėl priežasčių, nesusijusių su bendrovė
 3. Bendrovės filialo turtas apskaitomas bendrovės balanse ir atskirame filialo balanse. ^s-694ee41312315cc1cc4de36c
 
 
-4. Bendrovės filialai registruojami Įmonių rejestro įstatymo nustatyta tvarka. ^s-3f7e82caeff9022fcf70c606
+4. Bendrovės filialai registruojami [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka. ^s-3f7e82caeff9022fcf70c606
 
 
 
@@ -410,7 +410,7 @@ Jei bendrovė nebuvo įregistruota dėl priežasčių, nesusijusių su bendrovė
 Kartu su reorganizavimo projektu turi būti parengti kiekvienos po reorganizavimo veiksiančios bendrovės įstatai.
 
 
-8. Kiekvienos reorganizuojamos bendrovės valdyba parašo išsamų reorganizavimo projekto vertinimą, taip pat skiria vieną ar daugiau ekspertų reorganizavimo projektų ekspertizei. Ekspertai turi teisę gauti iš reorganizuojamų bendrovių bet kokią su tuo susijusią informaciją. Ekspertizės aktą, kuriame privalo būti išvados dėl turto įvertinimo, kreditavimo sąlygų ir akcijų kainos pasikeitimo, ekspertai pateikia valdybai raštu iki visuotinio akcininkų susirinkimo paskelbimo. ^s-7f371811854c7163e0dc904e
+8. Kiekvienos reorganizuojamos bendrovės valdyba parašo išsamų reorganizavimo projekto vertinimą, taip pat skiria vieną ar daugiau ekspertų reorganizavimo projektų ekspertizei. Ekspertai turi teisę gauti iš reorganizuojamų bendrovių bet kokią su tuo susijusią informaciją. Ekspertizės aktą, kuriame privalo būti išvados [dėl turto įvertinimo](https://e-tar.lt/portal/lt/legalAct/TAR.ACFFF8505A58), kreditavimo sąlygų ir akcijų kainos pasikeitimo, ekspertai pateikia valdybai raštu iki visuotinio akcininkų susirinkimo paskelbimo. ^s-7f371811854c7163e0dc904e
 
 
 9. Apie numatomą reorganizavimą kiekviena bendrovė privalo viešai paskelbti ne vėliau kaip prieš 30 dienų iki visuotinio akcininkų susirinkimo, kurio darbotvarkėje numatyta svarstyti jos reorganizavimą. Kiekvienas akcininkas turi teisę per tą laikotarpį susipažinti su reorganizavimo projektu, jo vertinimais, reorganizuojamų įmonių veiklos rodikliais ir ekspertizės aktais bei kopijuoti šiuos dokumentus. ^s-2f078ca1fdafee9d3b4e7a83
@@ -425,7 +425,7 @@ Kartu su reorganizavimo projektu turi būti parengti kiekvienos po reorganizavim
 12. Apie bendrovės reorganizavimą viešai skelbiama tris kartus su ne mažesniu kaip 2 mėnesių intervalu arba kiekvienam akcininkui ir kreditoriui pranešama raštu. ^s-0cd7ff57f2c7735af9c3c1cb
 
 
-13. Po reorganizavimo veikiančių bendrovių įstatai registruojami po pirmojo visuotinio akcininkų susirinkimo. Reorganizuojamų įmonių registravimą reglamentuoja Įmonių rejestro įstatymas. ^s-1118d350f8975dcff5f0b19e
+13. Po reorganizavimo veikiančių bendrovių įstatai registruojami po pirmojo visuotinio akcininkų susirinkimo. Reorganizuojamų įmonių registravimą reglamentuoja [Įmonių rejestro įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14). ^s-1118d350f8975dcff5f0b19e
 
 
 
@@ -450,7 +450,7 @@ Kartu su reorganizavimo projektu turi būti parengti kiekvienos po reorganizavim
 2. Institucija, nutarusi likviduoti bendrovę, skiria likvidatorių (likviduojamos bendrovės administratorių). Nuo likvidatoriaus paskyrimo dienos bendrovės valdymo organai netenka įgaliojimų valdyti bendrovę, jų funkcijas atlieka likvidatorius. ^s-14b673ec20d144ec791c43f7
 
 
-3. Likvidatorius Įmonių rejestro įstatymo nustatyta tvarka praneša bendrovę registravusiam rejestro tvarkytojui apie bendrovės statuso pasikeitimą ir duomenis apie likvidatorių. Bendrovei įgijus likviduojamos įmonės statusą, prieš jos pavadinimą rašomas žodis „likviduojama“. ^s-13bdb7fdeb704d614024733f
+3. Likvidatorius [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka praneša bendrovę registravusiam rejestro tvarkytojui apie bendrovės statuso pasikeitimą ir duomenis apie likvidatorių. Bendrovei įgijus likviduojamos įmonės statusą, prieš jos pavadinimą rašomas žodis „likviduojama“. ^s-13bdb7fdeb704d614024733f
 
 
 4. Likviduojama bendrovė gali sudaryti tik tuos sandorius, kurie susiję su jos likvidavimu, taip pat kitus, kurie numatyti likvidavimo nutarime. ^s-9a4bb3a48d8380cc38c7fa35
@@ -462,7 +462,7 @@ Kartu su reorganizavimo projektu turi būti parengti kiekvienos po reorganizavim
 6. Bendrovės turtas gali būti dalijamas akcininkams tik praėjus 2 mėnesiams nuo tos dienos, kai trečią kartą buvo viešai paskelbta apie bendrovės likvidavimą arba pranešta visiems akcininkams ir kreditoriams. ^s-4fcc8950a76d1a2b1c5ddeec
 
 
-7. Jeigu kyla ginčų dėl bendrovės skolų mokėjimo, bendrovės turtas negali būti dalijamas akcininkams, kol teismas neišspręs šio ginčo ir nebus atsiskaityta su kreditoriais. Ginčai dėl bendrovės užstatyto turto nagrinėjami Lietuvos Respublikos hipotekos įstatymo nustatyta tvarka. ^s-8722f30a85c31ec1d7e55519
+7. Jeigu kyla ginčų dėl bendrovės skolų mokėjimo, bendrovės turtas negali būti dalijamas akcininkams, kol teismas neišspręs šio ginčo ir nebus atsiskaityta su kreditoriais. Ginčai dėl bendrovės užstatyto turto nagrinėjami [Lietuvos Respublikos hipotekos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4E9EEE15278B) nustatyta tvarka. ^s-8722f30a85c31ec1d7e55519
 
 
 8. Sumokėjus mokesčius į biudžetą, atsiskaičius su kreditoriais ir darbuotojais, likęs likviduotos bendrovės turtas akcininkams padalijamas proporcingai jiems nuosavybės teise priklausančių akcijų nominaliai vertei. Analogiškai dalijamas ir vėliau išaiškėjęs bendrovės turtas. Jei bendrovės akcijos suteikia skirtingas teises, tai turto dalybose į tas teises turi būti atsižvelgta. ^s-60c29c40e97742a13a0d9540
@@ -493,7 +493,7 @@ Kartu su reorganizavimo projektu turi būti parengti kiekvienos po reorganizavim
 5) sudaro bendrovės likvidavimo aktą; ^s-15932b430f78a66c87b68d2e
 
 
-6) likviduotą bendrovę išregistruoja Įmonių rejestro įstatymo nustatyta tvarka. ^s-9aa8017b8b498e100a792fb5
+6) likviduotą bendrovę išregistruoja [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka. ^s-9aa8017b8b498e100a792fb5
 
 
 3. Jei bendrovės likvidavimas trunka keletą metų, po kiekvienų ūkinių metų pabaigos per 3 mėnesius likvidatorius sudaro metinę finansinę atskaitomybę ir likvidavimo ataskaitą. Su šiais dokumentais turi teisę susipažinti visi akcininkai ir tiesiogiai suinteresuoti tretieji asmenys. ^s-944f7e7a2a586baa7f70d7c5
@@ -776,7 +776,7 @@ BENDROVĖS VALDYMAS
 2) į teismą kreipėsi visuotinio akcininkų susirinkimo iniciatoriai, negavę teigiamo valdybos sprendimo šio straipsnio ketvirtoje dalyje nurodyta tvarka; ^s-3b477e91167fa5cf3b217a11
 
 
-3) į teismą kreipėsi bendrovės kreditoriai dėl to, kad neeilinis akcininkų susirinkimas nebuvo sušauktas šio straipsnio trečiosios dalies 1 ir 3 punktuose nurodytais atvejais. ^s-20a981789d60622c1e75d9b2
+3) į teismą kreipėsi bendrovės kreditoriai dėl to, kad neeilinis akcininkų susirinkimas nebuvo sušauktas šio straipsnio trečiosios dalies [[#^s-578654ad3070fbd1845973bb|1]] ir 3 punktuose nurodytais atvejais. ^s-20a981789d60622c1e75d9b2
 
 
 6. Apie šaukiamą visuotinį akcininkų susirinkimą valdyba privalo paskelbti įstatuose numatyta tvarka ne vėliau kaip prieš 30 dienų iki susirinkimo dienos. Jeigu šaukiamas pakartotinis susirinkimas, akcininkai turi būti informuoti ne vėliau kaip prieš 10 dienų iki jo. Visuotinis akcininkų susirinkimas gali būti šaukiamas nesilaikant šių terminų, jeigu visi akcininkai, turintys balsavimo teisę, arba jų atstovai su tuo sutinka. ^s-c5ebe7f1af646db9538f759d
@@ -826,7 +826,7 @@ BENDROVĖS VALDYMAS
 2) įstatymų numatytais atvejais ir terminais susirinkimo nutarimas nebuvo įregistruotas Lietuvos Respublikos įmonių rejestre; ^s-f0489a3f7f2b3c933ca9790f
 
 
-3) buvo pažeista susirinkimo sušaukimo arba darbotvarkės priėmimo tvarka, nustatyta šio įstatymo 21 ir [[#^s-9d630aeffbf537d3a2e980c4|22 straipsniuose]]; ^s-4ad541096a4920318e71a3db
+3) buvo pažeista susirinkimo sušaukimo arba darbotvarkės priėmimo tvarka, nustatyta šio įstatymo [[#^s-1272389053394aee1eff721d|21]] ir [[#^s-9d630aeffbf537d3a2e980c4|22]] straipsniuose; ^s-4ad541096a4920318e71a3db
 
 
 4) sprendimas prieštarauja bendrovės įstatams, šiam arba kitiems Lietuvos Respublikos įstatymams. ^s-14051e774d67980da3e22e2e
@@ -1078,7 +1078,7 @@ BENDROVĖS VALDYMAS
 7. Administracijos vadovu negali būti skiriamas asmuo, kuris pagal Lietuvos Respublikos įstatymus neturi teisės eiti tokių pareigų. Administracijos vadovas negali būti kitos įmonės vadovu bei revizoriumi. Jeigu jis tokiu buvo, tai per vieną mėnesį po paskyrimo privalo iš tų pareigų atsistatydinti. ^s-12a105ae623717b73e0a2b9e
 
 
-8. Bendrovės valdyba gali nutraukti darbo sutartį su administracijos vadovu Lietuvos Respublikos darbo sutarties įstatymo nustatyta tvarka, o iki sutarties nutraukimo gali apriboti jo įgaliojimus. ^s-bd23ec0c7cea870af3a87ff5
+8. Bendrovės valdyba gali nutraukti darbo sutartį su administracijos vadovu [Lietuvos Respublikos darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) nustatyta tvarka, o iki sutarties nutraukimo gali apriboti jo įgaliojimus. ^s-bd23ec0c7cea870af3a87ff5
 
 
 9. Vyriausiąjį finansininką (buhalterį) skiria, nustato jo pareiginį atlyginimą ir sudaro darbo sutartį bendrovės valdyba. Kitus administracijos darbuotojus priima į darbą ir sudaro su jais darbo sutartis administracijos vadovas. ^s-16a79d76fb4af553ac579734
@@ -1232,7 +1232,7 @@ Informaciją, kuri turi būti pateikta apie nematerialias akcijas vertybinių po
 1. Materialios vardinės akcijos savininkas (akcininkas) yra tas fizinis ar juridinis asmuo, kuris yra nurodytas akcijoje ir įrašytas į bendrovės akcininkų registracijos knygą. Akcininkų registracijos knygoje turi būti įrašyti tokie duomenys apie akcininką: vardas ir pavardė (pavadinimas), adresas (buveinė), turimų akcijų skaičius. ^s-229d1830210e3211a90a474f
 
 
-2. Materialios vardinės akcijos perleidžiamos kitiems asmenims padarant atitinkamą įrašą akcijoje (sertifikate) – indosamentą. Indosamento formai ir vardinių akcijų savininko identifikavimui taikomos Lietuvos Respublikos vekselių įstatymo 12, 13 ir [[#^s-4e2f6ad959c4e9ddfaf3dcc2|16 straipsnių]] nuostatos. ^s-f1b55d98fbbc799c7ca2754b
+2. Materialios vardinės akcijos perleidžiamos kitiems asmenims padarant atitinkamą įrašą akcijoje (sertifikate) – indosamentą. Indosamento formai ir vardinių akcijų savininko identifikavimui taikomos Lietuvos Respublikos vekselių įstatymo [[#^s-2ae0560495aa12474229a92c|12]], [[#^s-286147a7f5671ade3b56e1c4|13]] ir [[#^s-4e2f6ad959c4e9ddfaf3dcc2|16]] straipsnių nuostatos. ^s-f1b55d98fbbc799c7ca2754b
 
 
 3. Nematerialios vardinės akcijos savininkas yra fizinis ar juridinis asmuo, kurio vardu atidaryta vertybinių popierių sąskaita. Šioje sąskaitoje įrašytos fizinio ar juridinio asmens turimos vardinės akcijos. ^s-7d2c9e6c709cf0d8a8a8303f
@@ -1404,7 +1404,7 @@ savininkų teisę šio įstatymo nustatyta tvarka parduoti ar kitaip perleisti a
 10) pasirašomų akcijų skaičius pagal klases. ^s-349a1966f2f45c6038606128
 
 
-Akcijų pasirašymo sutarties projektą rengia, skelbia ir už duomenų teisingumą atsako steigėjas, o kai bendrovė įregistruota – valdyba. Jeigu asmuo, pasirašęs akciją, nurodė netikslius ar ne visus 9 ir 10 punktuose nurodytus duomenis, akcinė bendrovė gali vienašališkai nutraukti akcijų pasirašymo sutartį ir grąžinti įnašus.
+Akcijų pasirašymo sutarties projektą rengia, skelbia ir už duomenų teisingumą atsako steigėjas, o kai bendrovė įregistruota – valdyba. Jeigu asmuo, pasirašęs akciją, nurodė netikslius ar ne visus [[#^s-9c175645ce65e3682fcd11e2|9]] ir 10 punktuose nurodytus duomenis, akcinė bendrovė gali vienašališkai nutraukti akcijų pasirašymo sutartį ir grąžinti įnašus.
 
 
 3. Kai akciją pasirašęs asmuo reikalauja, bendrovė (kai bendrovė steigiama – jos steigėjai) per 15 dienų nuo raštiško pareikalavimo dienos privalo sugrąžinti jo įnašus be jokių atskaitymų, jeigu: ^s-eb7e7967d1424313eefd2ca7
@@ -1416,7 +1416,7 @@ Akcijų pasirašymo sutarties projektą rengia, skelbia ir už duomenų teisingu
 2) įstatinis kapitalas padidintas pažeidžiant šį įstatymą; ^s-89fab2841aae024e9816006a
 
 
-3) akcijų pasirašymo sutartyje buvo pateikti neteisingi ar ne visi duomenys, nustatyti šio straipsnio antrosios dalies 1–8 punktuose. ^s-866608113499057bfb68f873
+3) akcijų pasirašymo sutartyje buvo pateikti neteisingi ar ne visi duomenys, nustatyti šio straipsnio antrosios dalies [[#^s-60b649b46bf06bf7c1f12099|1]]–8 punktuose. ^s-866608113499057bfb68f873
 
 
 4. Asmuo, pasirašęs akciją, negali atsisakyti savo mokestinių įsipareigojimų bendrovei, o bendrovė negali asmens pasirašymą akcijoms skelbti negaliojančiu po to, kai bendrovė buvo įregistruota arba padidino įstatinį kapitalą. ^s-8238afca008821ad5c38defa
@@ -1458,7 +1458,7 @@ Jeigu pradiniai įnašai nemokami pinigais, tai tada visa akcijų kaina turtinia
 1. Bendrovės įstatinis kapitalas didinamas, jeigu visuotinis akcininkų susirinkimas ne mažiau kaip 2/3 balsų nutaria išleisti naujas akcijas arba padidinti išleistų akcijų nominalią vertę ir atitinkamai pakeisti įstatus. Išleisti naujas akcijas arba didinti akcijų nominalią vertę bendrovė gali tik tuomet, kai visiškai apmokėtas jos įstatinis kapitalas (paskutinės laidos akcijų emisijos kaina). ^s-7dcc4cbd091a1956609d5983
 
 
-2. Bendrovės įstatų pakeitimai dėl įstatinio kapitalo padidinimo registruojami Įmonių rejestro įstatymo nustatyta tvarka po to, kai pasirašytos akcijos ir surinkti pradiniai įnašai. ^s-5fe1e7d3f8457a304f7f993a
+2. Bendrovės įstatų pakeitimai dėl įstatinio kapitalo padidinimo registruojami [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka po to, kai pasirašytos akcijos ir surinkti pradiniai įnašai. ^s-5fe1e7d3f8457a304f7f993a
 
 
 3. Įstatinis kapitalas laikomas padidintu tik įregistravus bendrovės įstatų pakeitimus Lietuvos Respublikos įmonių rejestre. ^s-9bb2349cec654b9b7b823f8f
@@ -1496,7 +1496,7 @@ Jeigu pradiniai įnašai nemokami pinigais, tai tada visa akcijų kaina turtinia
 3. Iš kapitalo rezervo ir pelno rezervo fondų draudžiama didinti bendrovės įstatinį kapitalą, kol nepadengti finansinėje atskaitomybėje apskaityti bendrovės nuostoliai. ^s-82a40db5841a6146f38cf922
 
 
-4. Padidinus įstatinį kapitalą iš bendrovės lėšų, bendrovės įstatų pakeitimai registruojami Įmonių rejestro įstatymo nustatyta tvarka. Kartu su kitais dokumentais įmonių rejestro tvarkytojui pateikiama ir bendrovės finansinė atskaitomybė (balansas). ^s-14ca71b8aaa37a3b41ea043a
+4. Padidinus įstatinį kapitalą iš bendrovės lėšų, bendrovės įstatų pakeitimai registruojami [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka. Kartu su kitais dokumentais įmonių rejestro tvarkytojui pateikiama ir bendrovės finansinė atskaitomybė (balansas). ^s-14ca71b8aaa37a3b41ea043a
 
 
 5. Kai bendrovė iš kapitalo rezervo ir pelno rezervo fondų didina įstatinį kapitalą, akcininkai turi teisę nemokamai gauti naujų akcijų, kurių skaičius būtų proporcingas jų turimų akcijų nominaliai vertei, išskyrus šio įstatymo [[#^s-53b279d8dafdc55a5da825cf|35 straipsnio]] antrojoje dalyje numatytus atvejus. ^s-e155c49ffac24607bbccc8c6
@@ -1542,7 +1542,7 @@ Bendrovė, mažindama įstatinį kapitalą, pirmiausia turi anuliuoti turimas sa
 5. Mažindama įstatinį kapitalą, bendrovė privalo suteikti papildomas savo prievolių įvykdymo garantijas kiekvienam to pareikalavusiam savo kreditoriui. ^s-68e7c56e664b361b2f72b0bf
 
 
-6. Dėl įstatinio kapitalo sumažinimo bendrovės įstatų pakeitimai registruojami Įmonių rejestro įstatymo nustatyta tvarka: ne anksčiau kaip praėjus 6 mėnesiams po pirmojo ir 30 dienų po trečiojo viešo paskelbimo arba 3 mėnesiams po to, kai buvo pranešta visiems akcininkams ir kreditoriams bei buvo suteiktos papildomos garantijos jų pareikalavusiems kreditoriams. Šios taisyklės netaikomos, jei įstatinis kapitalas mažinamas anuliuojant bendrovės akcijas, kurias bendrovė supirko iš grynojo pelno ar pelno rezervo fondo arba įsigijo nemokamai. Įstatinis kapitalas laikomas sumažintu tik įstatų pakeitimus įregistravus Lietuvos Respublikos įmonių rejestre. ^s-3c009bb29e7bc7d10087e9a8
+6. Dėl įstatinio kapitalo sumažinimo bendrovės įstatų pakeitimai registruojami [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka: ne anksčiau kaip praėjus 6 mėnesiams po pirmojo ir 30 dienų po trečiojo viešo paskelbimo arba 3 mėnesiams po to, kai buvo pranešta visiems akcininkams ir kreditoriams bei buvo suteiktos papildomos garantijos jų pareikalavusiems kreditoriams. Šios taisyklės netaikomos, jei įstatinis kapitalas mažinamas anuliuojant bendrovės akcijas, kurias bendrovė supirko iš grynojo pelno ar pelno rezervo fondo arba įsigijo nemokamai. Įstatinis kapitalas laikomas sumažintu tik įstatų pakeitimus įregistravus Lietuvos Respublikos įmonių rejestre. ^s-3c009bb29e7bc7d10087e9a8
 
 
 7. Jeigu akcininkai nustatytu laiku nepristato bendrovės valdybai akcijų išimti iš apyvartos ir anuliuoti, tai bendrovės valdyba viešai paskelbia jas negaliojančiomis. ^s-6daa33b9408aceb6c2613fd1
@@ -1674,13 +1674,13 @@ BAIGIAMOSIOS NUOSTATOS
 50 straipsnis
 
 
-1. Akcinės bendrovės ir uždarosios akcinės bendrovės turi pataisyti savo įstatus pagal šį įstatymą ir įregistruoti juos per 9 mėnesius nuo šio įstatymo įsigaliojimo Įmonių rejestro įstatymo nustatyta tvarka. Per šį laiką neperregistravusios įstatų bendrovės likviduojamos Lietuvos Respublikos Vyriausybės nustatyta tvarka. ^s-54a5afe6f4ddc624942d742c
+1. Akcinės bendrovės ir uždarosios akcinės bendrovės turi pataisyti savo įstatus pagal šį įstatymą ir įregistruoti juos per 9 mėnesius nuo šio įstatymo įsigaliojimo [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka. Per šį laiką neperregistravusios įstatų bendrovės likviduojamos Lietuvos Respublikos Vyriausybės nustatyta tvarka. ^s-54a5afe6f4ddc624942d742c
 
 
 2. Akcinės bendrovės ir uždarosios akcinės bendrovės, kurių įstatinis kapitalas mažesnis už šio įstatymo nustatytą minimalų dydį, per 2 metus nuo įstatymo paskelbimo turi atitinkamai padidinti bendrovės įstatinį kapitalą. Bendrovės, neįvykdžiusios šio reikalavimo, turi būti reorganizuotos arba likviduotos Lietuvos Respublikos įstatymų nustatyta tvarka. ^s-fa2ab027e72630733d9c3db9
 
 
-3. Valstybinės ir valstybinės akcinės įmonės, išskyrus valstybines įmones, kurių Lietuvos Respublikos Vyriausybė nenumato iki 2000 metų nei akcionuoti, nei privatizuoti, taip pat individualios (personalinės) įmonės, kurioms suteiktos juridinio asmens teisės, turi būti reorganizuotos į bendroves Lietuvos Respublikos Vyriausybės nustatyta tvarka ir per 9 mėnesius nuo šio įstatymo įsigaliojimo įregistruotos Lietuvos Respublikos įmonių rejestre. Nurodytas laikas įmonėms, tęsiančioms privatizavimą pagal Valstybinio turto pirminio privatizavimo įstatymą, skaičiuojamas nuo jų privatizavimo termino pabaigos. Lietuvos Respublikos Vyriausybė turi parengti ir iki 1994 m. lapkričio 1 d. pateikti Seimui tvirtinti tokių įmonių sąrašą (nurodydama įstatinį kapitalą) ir Lietuvos Respublikos valstybės ir savivaldybių įmonių įstatymo projektą. ^s-51416450f8cdccc2f2be556f
+3. Valstybinės ir valstybinės akcinės įmonės, išskyrus valstybines įmones, kurių Lietuvos Respublikos Vyriausybė nenumato iki 2000 metų nei akcionuoti, nei privatizuoti, taip pat individualios (personalinės) įmonės, kurioms suteiktos juridinio asmens teisės, turi būti reorganizuotos į bendroves Lietuvos Respublikos Vyriausybės nustatyta tvarka ir per 9 mėnesius nuo šio įstatymo įsigaliojimo įregistruotos Lietuvos Respublikos įmonių rejestre. Nurodytas laikas įmonėms, tęsiančioms privatizavimą pagal Valstybinio turto pirminio privatizavimo įstatymą, skaičiuojamas nuo jų privatizavimo termino pabaigos. Lietuvos Respublikos Vyriausybė turi parengti ir iki 1994 m. lapkričio 1 d. pateikti Seimui tvirtinti tokių įmonių sąrašą (nurodydama įstatinį kapitalą) ir Lietuvos Respublikos valstybės ir savivaldybių [įmonių įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B) projektą. ^s-51416450f8cdccc2f2be556f
 
 
 4. Lietuvos Respublikoje įregistruoto komercinio (akcinio) banko akcijų bendra vertė kitose bendrovėse, išskyrus komercinius (akcinius) bankus ir tiesiogiai bankus aptarnaujančias bendroves, negali būti didesnė kaip 10 procentų banko pagrindinio kapitalo, įregistruoto Lietuvos banke. ^s-d66890409ec66facbef78791
@@ -1689,7 +1689,7 @@ BAIGIAMOSIOS NUOSTATOS
 5. Lietuvos Respublikos akcinių bendrovių įstatymą (Žin., 1990, Nr. 24-594; 1993, Nr. 52-996, Nr. 62-1169) pripažinti netekusiu galios. ^s-8f17836da2e94893cc8013be
 
 
-6. Lietuvos Respublikos valstybinių įmonių įstatymas (Žin., 1990, Nr. 30-709; 1991, Nr. 4-107; 1992, Nr. 30-914; 1993, Nr. 31-710, Nr. 32-730, Nr. 49-963, Nr. 52-995, Nr. 62-1169) galioja tik valstybinėms įmonėms, kurios įrašytos šio straipsnio trečiojoje dalyje nustatytame įmonių sąraše. ^s-0e4ce3f45f1e7aa35a25b956
+6. [Lietuvos Respublikos valstybinių įmonių įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.2FDA07C253CC) (Žin., 1990, Nr. 30-709; 1991, Nr. 4-107; 1992, Nr. 30-914; 1993, Nr. 31-710, Nr. 32-730, Nr. 49-963, Nr. 52-995, Nr. 62-1169) galioja tik valstybinėms įmonėms, kurios įrašytos šio straipsnio trečiojoje dalyje nustatytame įmonių sąraše. ^s-0e4ce3f45f1e7aa35a25b956
 
 
 

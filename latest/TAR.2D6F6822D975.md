@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-44067977d50b2efa3db5b8a0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. spalio 3 d. dekretą Nr. 1K-1123, ratifikuoja 2006 m. rugsėjo 9 d. Helsinkyje pasirašytą Europos Bendrijos bei jos valstybių narių ir Korėjos Respublikos bendradarbiavimo susitarimą dėl civilinės pasaulinės navigacijos palydovinės sistemos (GNSS).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. spalio 3 d. dekretą Nr. 1K-1123](https://e-tar.lt/portal/lt/legalAct/TAR.D15F810E1951), ratifikuoja 2006 m. rugsėjo 9 d. Helsinkyje pasirašytą Europos Bendrijos bei jos valstybių narių ir Korėjos Respublikos bendradarbiavimo susitarimą dėl civilinės pasaulinės navigacijos palydovinės sistemos (GNSS).
 
 
 

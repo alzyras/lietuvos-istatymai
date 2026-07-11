@@ -85,7 +85,7 @@ Pakeisti 21 straipsnio 2 dalį, [[#^s-a9450c1925524b397c53372f|3 dalyje]] po žo
 ### 5 straipsnis. 36 straipsnio 5, 6, 8, 9, 11 dalių pakeitimas ir papildymas ^s-9795dbb4a35b17e10ff27552
 
 
-1. Pakeisti 36 straipsnio 5 ir [[#^s-0fc54d51a4ce489271683874|6 dalis]] ir jas išdėstyti taip: ^s-74153e904e14b684176c025f
+1. Pakeisti 36 straipsnio 5 ir 6 dalis ir jas išdėstyti taip: ^s-74153e904e14b684176c025f
 
 
 „5. Karys negali eiti politinio (asmeninio) pasitikėjimo valstybės tarnautojo pareigų.
@@ -178,7 +178,7 @@ Pakeisti ir papildyti 39 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 8 straipsnis. 40 straipsnio 1, 2 ir 3 dalių papildymas ^s-2956916573e15ed27006d53b
 
 
-Papildyti 40 straipsnio 1, 2 ir [[#^s-1998ae4a8005ec89dfd0fd17|3 dalis]] ir jas išdėstyti taip:
+Papildyti 40 straipsnio 1, 2 ir 3 dalis ir jas išdėstyti taip:
 
 
 „1. Kai profesinės karo tarnybos sutartis nutraukiama vadovybės iniciatyva arba valia ne dėl kario kaltės (šio įstatymo 38 straipsnio 2 dalies 1, 2, 5, 6, 12, 13 punktai), kai profesinės karo tarnybos kariui sukanka šio įstatymo nustatytas išleidimo į atsargą amžius (šio įstatymo 38 straipsnio 1 dalies 7 punktas), taip pat kai baigiasi terminuota profesinės karo tarnybos sutartis, o išleidžiamas į atsargą karys neturi teisės į kario valstybinę pensiją, jam išmokama išeitinė pašalpa. Išeitinės pašalpos dydis priklauso nuo kario tarnybos krašto apsaugos sistemoje stažo:
@@ -222,7 +222,7 @@ Papildyti 42 straipsnio 8 dalį ir ją išdėstyti taip:
 „4. Profesinės karo tarnybos kariai, kurie patys, jų sutuoktinis, vaikai ir įvaikiai toje tarnybos vietovėje neturi nuosavybės teise techninius ir sanitarinius reikalavimus atitinkančio buto, namo ar jo dalies ir pastaruosius 5 metus nėra jo perleidę (išskyrus perleidimą dėl santuokos nutraukimo), iš Krašto apsaugos ministerijos atitinkamoje vietovėje turimo tarnybinių butų fondo aprūpinami pagal tos gyvenamosios vietovės sąlygas įrengtais techninius ir sanitarinius reikalavimus atitinkančiais ir suremontuotais tarnybiniais butais (viengungiai arba kariai, kurių šeimos negali persikelti į kario tarnybos vietą – atskira tarnybine gyvenamąja patalpa). Profesinės karo tarnybos kariai – eiliniai ir grandiniai aprūpinami gyvenamąja patalpa kareivinėse. Už suteiktą tarnybinį butą (gyvenamąsias patalpas) kariai gyvenamosios patalpos nuomos sutarties taisyklėmis reglamentuoto nuomos mokesčio nemoka, išskyrus mokestį už plotą, viršijantį Vyriausybės arba jos įgaliotos institucijos nustatytas nemokamai kariui suteikiamų tarnybinių butų ploto normas. Kariai patys moka už energijos, ryšių ir visus komunalinius patarnavimus pagal toje vietovėje galiojančius tarifus.“
 
 
-2. Pakeisti ir papildyti 63 straipsnio 11, 12, [[#^s-a55381298704ed672fcb0724|13 dalis]] ir jas išdėstyti taip: ^s-b616151951c24ba8fc928824
+2. Pakeisti ir papildyti 63 straipsnio 11, 12, 13 dalis ir jas išdėstyti taip: ^s-b616151951c24ba8fc928824
 
 
 „11. Privalomosios pradinės karo tarnybos kariai aprūpinami maistu pagal Vyriausybės arba jos įgaliotos institucijos nustatytas fiziologines mitybos normas. Tais atvejais, kai privalomosios pradinės karo tarnybos kariai dalinio vado sprendimu atleidžiami nuo tarnybos su teise išvykti iš dalinio daugiau negu vienai parai, už laisvas nuo tarnybos dienas jiems mokama profesinės karo tarnybos kariams nustatyto dydžio maitinimosi išlaidų piniginė kompensacija.
@@ -321,7 +321,7 @@ Pakeisti 73 straipsnį, papildyti jį [[#^s-a2b2f597a7b486c9abbbc291|6 dalimi]] 
 5. Jeigu valstybės tarnautojas nutraukia sutartį pažeisdamas [[#^s-2ebaaf3d0cb50d62f77115b4|šio straipsnio 2 dalyje]] nurodytus įsipareigojimus, kai nėra [[#^s-cf740324c6f121864bee14be|šio straipsnio 4 dalyje]] nurodytų priežasčių, arba jei sutartis nutraukiama darbdavio iniciatyva dėl tarnautojo kaltės, asmuo privalo atlyginti valstybei krašto apsaugos sistemos išlaidas, tiesiogiai susijusias su jo mokymu, profesiniu parengimu ar kvalifikacijos kėlimu, įskaitant ir mokymosi užsienio mokyklose bei kursuose išlaidas, kurias kaip pagalbą krašto apsaugos sistemai padengė užsienio valstybės. Jeigu asmuo nevykdo šios pareigos, išlaidos iš jo išieškomos įstatymų nustatyta tvarka. ^s-10cfd74ed8496a2cf26bf4d2
 
 
-6. Krašto apsaugos sistemos statutiniams valstybės tarnautojams draudžiama užsiimti [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] apibrėžta su valstybės tarnyba nesuderinama veikla. Jų tarnybai taip pat taikomi šio įstatymo 36 straipsnio 1 dalies 3 punkte ir 7, 8, 9, 10 bei 12 dalyse numatyti karių tarnybai taikomi apribojimai. Tarnautojų, atliekančių civilinę krašto apsaugos tarnybą krašto apsaugos sistemos operatyvinėse tarnybose, tarnybai, be šių apribojimų, dar taikomi karių tarnybai galiojantys apribojimai, nustatyti šio įstatymo 36 straipsnio 1 dalies 2 ir 3 punktuose bei 2 ir [[#^s-329fc6556e439a22e6c89a66|3 dalyse]].“ ^s-a2b2f597a7b486c9abbbc291
+6. Krašto apsaugos sistemos statutiniams valstybės tarnautojams draudžiama užsiimti [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] apibrėžta su valstybės tarnyba nesuderinama veikla. Jų tarnybai taip pat taikomi šio įstatymo 36 straipsnio 1 dalies 3 punkte ir 7, 8, 9, 10 bei 12 dalyse numatyti karių tarnybai taikomi apribojimai. Tarnautojų, atliekančių civilinę krašto apsaugos tarnybą krašto apsaugos sistemos operatyvinėse tarnybose, tarnybai, be šių apribojimų, dar taikomi karių tarnybai galiojantys apribojimai, nustatyti šio įstatymo 36 straipsnio 1 dalies 2 ir 3 punktuose bei 2 ir 3 dalyse.“ ^s-a2b2f597a7b486c9abbbc291
 
 
 

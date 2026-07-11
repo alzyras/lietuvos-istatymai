@@ -162,7 +162,7 @@ VIZOS
 3. Užsienietis, turintis galiojančią Šengeno vizą, turi teisę atvykti į Lietuvos Respubliką ir būti joje vizoje nurodytą laiką, bet ne ilgiau kaip 3 mėnesius per pusę metų, skaičiuojant nuo pirmosios atvykimo į Lietuvos Respubliką ar kitą Šengeno valstybę dienos. ^s-6ef98e38424e4cbf4283d8ce
 
 
-4. Europos Sąjungos valstybės narės piliečio šeimos narys, kuris nėra Europos Sąjungos valstybės narės pilietis, bet turi 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyvoje 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičiančioje Reglamentą (EEB) Nr. 1612/68 ir naikinančioje Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB, nurodytą leidimą gyventi, turi teisę atvykti į Lietuvos Respubliką ir būti joje iki 3 mėnesių per pusę metų be vizos. ^s-07cd6809075969138b070699
+4. Europos Sąjungos valstybės narės piliečio šeimos narys, kuris nėra Europos Sąjungos valstybės narės pilietis, bet turi 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyvoje 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičiančioje [Reglamentą (EEB) Nr. 1612/68](https://eur-lex.europa.eu/eli/reg/1612/68/oj) ir naikinančioje Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB, nurodytą leidimą gyventi, turi teisę atvykti į Lietuvos Respubliką ir būti joje iki 3 mėnesių per pusę metų be vizos. ^s-07cd6809075969138b070699
 
 
 5. Užsienietis, kuris nenurodytas [[#^s-07cd6809075969138b070699|šio straipsnio 4 dalyje]], bet turi kitos Šengeno valstybės išduotą leidimą gyventi, leidimo gyventi galiojimo metu turi teisę atvykti į Lietuvos Respubliką ir būti joje iki 3 mėnesių per pusę metų be vizos, skaičiuojant nuo pirmosios atvykimo į Lietuvos Respubliką arba į kitą ne minėtą leidimą gyventi išdavusią Šengeno valstybę dienos. ^s-236081b9ad0399cfa0fb321d
@@ -268,7 +268,7 @@ Užsienietis, turintis trumpalaikę vizą, gali atvykti į Lietuvos Respubliką 
 3) yra skubus atvejis (dėl humanitarinių priežasčių, nacionalinių interesų arba tarptautinių įsipareigojimų) ir nesikonsultuojama su kita (kitomis) Šengeno valstybe (valstybėmis) arba kai konsultacijos dėl vizos išdavimo neduoda rezultatų; ^s-214c6373b0aa7de08259618f
 
 
-4) užsienietis per pusės metų laikotarpį jau naudojosi viza, galiojusia 3 mėnesius. Šiuo atveju tam pačiam pusmečiui viza išduodama tik šio Įstatymo 18 straipsnio 1 dalies 1–4 punktuose nurodytais atvejais. ^s-f3d513e6af69d3ba64e62ed3
+4) užsienietis per pusės metų laikotarpį jau naudojosi viza, galiojusia 3 mėnesius. Šiuo atveju tam pačiam pusmečiui viza išduodama tik šio Įstatymo 18 straipsnio 1 dalies [[#^s-c780f86676a8802197b8ec4a|1]]–[[#^s-ab3e18b14689adfcc4496a55|4]] punktuose nurodytais atvejais. ^s-f3d513e6af69d3ba64e62ed3
 
 
 
@@ -440,7 +440,7 @@ Viza yra negaliojanti:
 Užsieniečio buvimas Lietuvos Respublikoje laikomas neteisėtu, jeigu užsienietis:
 
 
-1) yra Lietuvos Respublikoje laikotarpį, viršijantį šio Įstatymo 11 straipsnio 2, 4, 5 dalyse užsieniečiams nustatytą buvimo be vizos laiką; ^s-2cb8bf362745346578dc8472
+1) yra Lietuvos Respublikoje laikotarpį, viršijantį šio Įstatymo 11 straipsnio [[#^s-52999edfa6afb4f54fea2250|2]], [[#^s-07cd6809075969138b070699|4]], [[#^s-236081b9ad0399cfa0fb321d|5]] dalyse užsieniečiams nustatytą buvimo be vizos laiką; ^s-2cb8bf362745346578dc8472
 
 
 2) yra Lietuvos Respublikoje pasibaigus vizos galiojimo laikui; ^s-cf8fb9d00aa3118f6ef1f645
@@ -486,13 +486,13 @@ Užsieniečio buvimas Lietuvos Respublikoje laikomas neteisėtu, jeigu užsienie
 „3. [[#^s-0590c6fea3ccc99e8ba7815b|Šio straipsnio 1 dalies]] 2–5 punktuose nustatytos sąlygos teisės aktų nustatyta tvarka gali būti netaikomos užsieniečiui, kuriam suteiktas pabėgėlio statusas Lietuvos Respublikoje, papildoma apsauga arba laikina apsauga Lietuvos Respublikoje. [[#^s-0590c6fea3ccc99e8ba7815b|Šio straipsnio 1 dalies]] 2–5 punktuose nustatytos sąlygos netaikomos užsieniečio, kuriam suteiktas pabėgėlio statusas Lietuvos Respublikoje, šeimos nariams, kurie kreipėsi dėl leidimo gyventi išdavimo šeimos susijungimo atveju per 3 mėnesius nuo pabėgėlio statuso Lietuvos Respublikoje suteikimo.“
 
 
-4. Papildyti [[#^s-4f560a0cd49cac7dbe376558|26 straipsnį]] nauja [[#^s-d5e477bf200d106999e77e3d|4 dalimi]]: ^s-d5e477bf200d106999e77e3d
+4. Papildyti [[#^s-4f560a0cd49cac7dbe376558|26 straipsnį]] nauja 4 dalimi: ^s-d5e477bf200d106999e77e3d
 
 
 „4. Nuostatos, ar užsienietis atitinka Šengeno sienų kodekso 5 straipsnio 1 dalies e papunktyje numatytą atvykimo sąlygą, t. y. ar užsienietis nelaikomas keliančiu grėsmę nė vienos iš valstybių narių viešajai tvarkai, vidaus saugumui, visuomenės sveikatai ar tarptautiniams santykiams, netaikomos leidimo laikinai gyventi keitimo atveju.“
 
 
-5. Buvusią 26 straipsnio 4 dalį laikyti [[#^s-9a32b496a103bfe20a4691c8|5 dalimi]], ją pakeisti ir išdėstyti taip: ^s-9a32b496a103bfe20a4691c8
+5. Buvusią 26 straipsnio 4 dalį laikyti 5 dalimi, ją pakeisti ir išdėstyti taip: ^s-9a32b496a103bfe20a4691c8
 
 
 „5. Šio straipsnio 1 dalies nuostatos, išskyrus šio Įstatymo 6 straipsnio 1 dalyje numatytą pareigą užsieniečiui turėti galiojantį kelionės dokumentą, netaikomos leidimo nuolat gyventi keitimo atveju.“
@@ -727,7 +727,7 @@ Pakeisti 113 straipsnio 5 punktą ir jį išdėstyti taip:
 Pakeisti 124 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Užsienietis privalo išvykti iš Lietuvos Respublikos iki šio Įstatymo 11 straipsnio 2, 4, [[#^s-da44245439221ed5b47549d6|5 dalyse]] užsieniečiams nustatyto buvimo be vizos laiko pabaigos, išskyrus atvejus, kai jis gauna dokumentą, patvirtinantį jo teisę būti arba gyventi Lietuvos Respublikoje.“
+„2. Užsienietis privalo išvykti iš Lietuvos Respublikos iki šio Įstatymo 11 straipsnio [[#^s-52999edfa6afb4f54fea2250|2]], [[#^s-07cd6809075969138b070699|4]], [[#^s-236081b9ad0399cfa0fb321d|5]] dalyse užsieniečiams nustatyto buvimo be vizos laiko pabaigos, išskyrus atvejus, kai jis gauna dokumentą, patvirtinantį jo teisę būti arba gyventi Lietuvos Respublikoje.“
 
 
 
@@ -744,7 +744,7 @@ Pakeisti 125 straipsnio 6 punktą ir jį išdėstyti taip:
 ### 23 straipsnis. 126 straipsnio papildymas ir pakeitimas ^s-a3301f651740b4eefa281dac
 
 
-1. 126 straipsnio 1 dalį papildyti [[#^s-534d4f0405131db3087eca0a|4 punktu]]: ^s-f3e37d2939e0f17c89547296
+1. 126 straipsnio 1 dalį papildyti 4 punktu: ^s-f3e37d2939e0f17c89547296
 
 
 „4) priimtas sprendimas jį išsiųsti iš kitos valstybės, kuriai taikoma 2001 m. gegužės 28 d. Tarybos direktyva 2001/ 40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo.“
@@ -892,7 +892,7 @@ priedas
 17. 1997 m. gruodžio 4 d. Tarybos rezoliucija dėl priemonių, kurių reikia imtis kovai su santuokomis iš išskaičiavimo. ^s-4cbd9272385ea33f19f93fba
 
 
-18. 2000 m. gruodžio 11 d. Tarybos reglamentas (EB) Nr. 2725/2000 dėl „Eurodac“ sistemos sukūrimo pirštų atspaudams lyginti siekiant veiksmingiau taikyti Dublino konvenciją (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 26). ^s-0e9a1b141d6500158112fb78
+18. 2000 m. gruodžio 11 d. Tarybos [reglamentas (EB) Nr. 2725/2000](https://eur-lex.europa.eu/eli/reg/2725/2000/oj) dėl „Eurodac“ sistemos sukūrimo pirštų atspaudams lyginti siekiant veiksmingiau taikyti Dublino konvenciją (OL 2004 m. specialusis leidimas, 19 skyrius, 4 tomas, p. 26). ^s-0e9a1b141d6500158112fb78
 
 
 19. 2001 m. kovo 15 d. Tarybos reglamentas (EB) Nr. 539/2001, nustatantis trečiųjų šalių, kurių piliečiai, kirsdami išorines sienas, privalo turėti vizas, ir trečiųjų šalių, kurių piliečiams toks reikalavimas netaikomas, sąrašus (OL 2004 m specialusis leidimas, 19 skyrius, 4 tomas, p. 65). ^s-0dfffe75d973b9ff10dcfe8e
@@ -925,7 +925,7 @@ priedas
 28. 2004 m. vasario 23 d. Tarybos sprendimas 2004/191/EB, nustatantis finansinių skirtumų, atsirandančių dėl Direktyvos 2001/40/EB dėl abipusio sprendimų dėl trečiųjų šalių piliečių išsiuntimo pripažinimo taikymo, kompensavimo kriterijus ir praktines priemones (OL 2004 m. specialusis leidimas, 1 skyrius, 5 tomas, p. 25). ^s-f9b3fcd26c0186603320ede1
 
 
-29. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą (EEB) Nr. 1612/68 ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/ 365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 19 skyrius, 5 tomas, p. 46). ^s-7083a1870887a051454edda8
+29. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti [Reglamentą (EEB) Nr. 1612/68](https://eur-lex.europa.eu/eli/reg/1612/68/oj) ir naikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/ 365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 19 skyrius, 5 tomas, p. 46). ^s-7083a1870887a051454edda8
 
 
 30. 2004 m. balandžio 29 d. Tarybos direktyva 2004/8 l/EB dėl leidimo gyventi šalyje išdavimo trečiųjų šalių piliečiams, kurie yra prekybos žmonėmis aukos arba kurie dalyvavo vykdant nelegalios imigracijos skatinimo veiksmus, bendradarbiaujantiems su kompetentingomis institucijomis (OL 2004 m. specialusis leidimas, 19 skyrius, 7 tomas, p. 69). ^s-bebca4f1e0aa3224243399b9
@@ -953,7 +953,7 @@ priedas
 ### 29 straipsnis. Įstatymo įsigaliojimas ^s-1544ce735af9db02130f439e
 
 
-1. Šio įstatymo [[#^s-124977021fa412faf85bfe81|1 straipsnio]] 4–7 dalys, 2–6 ir 21–[[#^s-9c8c7bb0e1873d707af31260|27 straipsniai]] įsigalioja nuo visiško 1990 m. birželio 19 d. Konvencijos dėl 1985 m. birželio 14 d. Šengeno susitarimo, sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo įsigaliojimo Lietuvos Respublikai dienos. ^s-1227836ca150204634e61986
+1. Šio įstatymo [[#^s-124977021fa412faf85bfe81|1 straipsnio]] [[#^s-4dde5ce30f8bee354b7466d1|4]]–[[#^s-75b8f4ec52dd48227ef7af00|7]] dalys, [[#^s-1dfad5e27aaa70aadddbc214|2]]–[[#^s-be3cdab6a2ab61dd22112fe1|6]] ir 21–[[#^s-9c8c7bb0e1873d707af31260|27]] straipsniai įsigalioja nuo visiško 1990 m. birželio 19 d. Konvencijos dėl 1985 m. birželio 14 d. Šengeno susitarimo, sudaryto tarp Beniliukso ekonominės sąjungos valstybių, Vokietijos Federacinės Respublikos ir Prancūzijos Respublikos Vyriausybių, dėl laipsniško jų bendrų sienų kontrolės panaikinimo įgyvendinimo įsigaliojimo Lietuvos Respublikai dienos. ^s-1227836ca150204634e61986
 
 
 2. Lietuvos Respublikos Vyriausybė, kitos valstybės institucijos ir įstaigos iki [[#^s-1227836ca150204634e61986|šio straipsnio 1 dalyje]] nurodytos Konvencijos visiško įsigaliojimo priima teisės aktus, reikalingus šiam įstatymui įgyvendinti. ^s-9c405f40b19a16317697a706

@@ -45,7 +45,7 @@ Vilnius
 „3 straipsnis. Vyriausybės veiklos teisiniai pagrindai
 
 
-Vyriausybė savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais Seimo priimtais teisės aktais, Vyriausybės programa, Respublikos Prezidento dekretais, šiuo įstatymu ir kitais teisės aktais.“
+Vyriausybė savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais Seimo priimtais teisės aktais, Vyriausybės programa, Respublikos Prezidento dekretais, šiuo įstatymu ir kitais teisės aktais.“
 
 
 

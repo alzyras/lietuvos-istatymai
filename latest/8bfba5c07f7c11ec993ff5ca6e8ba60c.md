@@ -40,13 +40,13 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-d736ac39bf1bd0ebdb56cf55
 
 
-1. Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip: ^s-612b8a2b6d66fc4b00f03a38
+1. Pakeisti [[latest/d1e6be90747611e3b675ad30753d4b1b#^s-55da013d3b1537221a078cf6|2 straipsnio 6 dalį]] ir ją išdėstyti taip: ^s-612b8a2b6d66fc4b00f03a38
 
 
 „6. Viešosios naudos nevyriausybinė organizacija – nevyriausybinė organizacija, kurios veikla teikia naudą ne tik jos dalyviams, bet ir visuomenei ir kuri pripažinta atitinkančia šio įstatymo 8 straipsnio 2 dalyje nustatytus reikalavimus.“
 
 
-2. Pakeisti 2 straipsnio 7 dalį ir ją išdėstyti taip: ^s-ef13c3242b245622677e47f5
+2. Pakeisti [[latest/d1e6be90747611e3b675ad30753d4b1b#^s-4e6cb57b3c493ee47f42ee28|2 straipsnio 7 dalį]] ir ją išdėstyti taip: ^s-ef13c3242b245622677e47f5
 
 
 „7. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Lietuvos Respublikos civiliniame kodekse, [[latest/TAR.D0CD0966D67F|Lietuvos Respublikos vietos savivaldos įstatyme]], [[latest/3e57edc0047711e9a5eaf2cd290f1944|Lietuvos Respublikos bendruomeninių organizacijų plėtros įstatyme]], [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]], [[latest/TAR.712BBBFA3D41|Lietuvos Respublikos biudžeto sandaros įstatyme]].“
@@ -56,7 +56,7 @@ Vilnius
 ### 2 straipsnis. 5 straipsnio pakeitimas ^s-8446e7c16fc8e993cd97790c
 
 
-Pakeisti 5 straipsnio 4 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/d1e6be90747611e3b675ad30753d4b1b#^s-dd9d4eff1c00e04d501eb28e|5 straipsnio 4 dalį]] ir ją išdėstyti taip:
 
 
 „4. Nevyriausybinių organizacijų tarybos pirmininką ir pirmininko pavaduotoją dvejų metų kadencijai iš Nevyriausybinių organizacijų tarybos narių visų jos narių balsų dauguma slaptu balsavimu renka Nevyriausybinių organizacijų taryba Tarybos nuostatuose nustatyta tvarka. Nevyriausybinių organizacijų tarybos pirmininku renkamas nevyriausybinių organizacijų atstovas, o pirmininko pavaduotoju – valstybės institucijos ar įstaigos atstovas arba Lietuvos savivaldybių asociacijos atstovas.“
@@ -72,10 +72,10 @@ Pakeisti 5 straipsnio 4 dalį ir ją išdėstyti taip:
 „4. Savivaldybės nevyriausybinių organizacijų tarybos pirmininką ir pirmininko pavaduotoją dvejų metų kadencijai iš savivaldybės nevyriausybinių organizacijų tarybos narių visų jos narių balsų dauguma slaptu balsavimu renka savivaldybės nevyriausybinių organizacijų taryba savivaldybės nevyriausybinių organizacijų tarybos nuostatuose nustatyta tvarka. Savivaldybės nevyriausybinių organizacijų tarybos pirmininku renkamas nevyriausybinių organizacijų atstovas, o pirmininko pavaduotoju – savivaldybės institucijos ar įstaigos atstovas.“
 
 
-2. Pakeisti 6 straipsnio 6 dalį ir ją išdėstyti taip: ^s-c72e52cfbc72e6cac3f2d8a5
+2. Pakeisti [[latest/d1e6be90747611e3b675ad30753d4b1b#^s-721ebb938d246e769c465723|6 straipsnio 6 dalį]] ir ją išdėstyti taip: ^s-c72e52cfbc72e6cac3f2d8a5
 
 
-„6. Savivaldybės, kurios teritorijoje yra iki 100 000 gyventojų, tarybos sprendimu savivaldybės nevyriausybinių organizacijų tarybai gali būti Bendruomeninių organizacijų plėtros įstatymo 8 straipsnio 6 dalyje nustatyta tvarka pavesta atlikti ir savivaldybės bendruomeninių organizacijų tarybos funkcijas.“
+„6. Savivaldybės, kurios teritorijoje yra iki 100 000 gyventojų, tarybos sprendimu savivaldybės nevyriausybinių organizacijų tarybai gali būti [[latest/3e57edc0047711e9a5eaf2cd290f1944|Bendruomeninių organizacijų plėtros įstatymo 8 straipsnio 6 dalyje]] nustatyta tvarka pavesta atlikti ir savivaldybės bendruomeninių organizacijų tarybos funkcijas.“
 
 
 
@@ -88,7 +88,7 @@ Pakeisti 5 straipsnio 4 dalį ir ją išdėstyti taip:
 „2. Nevyriausybinėms organizacijoms finansavimą pagal įgyvendinamas programas ir priemones skiria asignavimų valdytojai. Asignavimų valdytojai, įgyvendinantys socialinės srities, nevyriausybinių organizacijų plėtros, žmogaus teisių apsaugos arba švietimo politikos srities programas bei priemones, gali įgalioti viešąją įstaigą Europos socialinio fondo agentūrą administruoti tas programas ir priemones, pagal kurias skiriamas finansavimas nevyriausybinėms organizacijoms.“
 
 
-2. Papildyti 7 straipsnį 21 dalimi: ^s-0151033ceb7005c717fe54bd
+2. Papildyti [[latest/d1e6be90747611e3b675ad30753d4b1b#^s-8258cd3cb9d21d7f710e6a58|7 straipsnį 21 dalimi]]: ^s-0151033ceb7005c717fe54bd
 
 
 „21. Viešosios įstaigos Europos socialinio fondo agentūros veikla atliekant šio straipsnio 2 dalyje nurodytas funkcijas finansuojama iš asignavimų valdytojams skirtų valstybės biudžeto asignavimų ir (arba) kitų lėšų.“
@@ -98,10 +98,10 @@ Pakeisti 5 straipsnio 4 dalį ir ją išdėstyti taip:
 ### 5 straipsnis. 8 straipsnio pakeitimas ^s-559891162f84af1b5c5d5bc5
 
 
-Pakeisti 8 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/d1e6be90747611e3b675ad30753d4b1b#^s-35be6a2df48ac75ac64e27cf|8 straipsnį]] ir jį išdėstyti taip:
 
 
-„8 straipsnis. Viešosios naudos nevyriausybinių organizacijų finansavimas ir nevyriausybinių organizacijų pripažinimas viešosios naudos nevyriausybinėmis organizacijomis
+„[[latest/d1e6be90747611e3b675ad30753d4b1b#^s-35be6a2df48ac75ac64e27cf|8 straipsnis]]. Viešosios naudos nevyriausybinių organizacijų finansavimas ir nevyriausybinių organizacijų pripažinimas viešosios naudos nevyriausybinėmis organizacijomis
 
 
 1. Asignavimų valdytojai, skirstydami nevyriausybinių organizacijų veiklos finansavimo lėšas, gali numatyti, kad viešosios naudos nevyriausybinėms organizacijoms teikiamas prioritetas. Nevyriausybinės organizacijos pripažįstamos viešosios naudos nevyriausybinėmis organizacijomis Vyriausybės įgaliotos institucijos nustatyta tvarka. ^s-26687580162d5711a6331b25
@@ -132,10 +132,10 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 ### 6 straipsnis. 9 straipsnio pakeitimas ^s-0fb5f9a8331e20a5a099d351
 
 
-Pakeisti 9 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/d1e6be90747611e3b675ad30753d4b1b#^s-3d884579288d4d26a57d5560|9 straipsnį]] ir jį išdėstyti taip:
 
 
-„9 straipsnis. Nevyriausybinių organizacijų fondas
+„[[latest/d1e6be90747611e3b675ad30753d4b1b#^s-3d884579288d4d26a57d5560|9 straipsnis]]. Nevyriausybinių organizacijų fondas
 
 
 1. Nevyriausybinių organizacijų fondas (toliau – Fondas) sudaromas siekiant paskirstyti lėšas nevyriausybinėms organizacijoms, taip pat nevyriausybinių organizacijų plėtros valstybės politikai formuoti ir įgyvendinti. Nevyriausybinių organizacijų plėtros valstybės politikai formuoti ir įgyvendinti gali būti skiriama ne daugiau kaip 20 procentų Fondo lėšų. Fondo lėšos konkurso būdu gali būti skiriamos: ^s-08b753640d5f23ff8e475e41
@@ -160,10 +160,10 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 ### 7 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas ^s-a0f6ff537572d6f1e34201de
 
 
-1. Šis įstatymas, išskyrus 1 ir [[#^s-559891162f84af1b5c5d5bc5|5 straipsnius]] ir šio straipsnio 3 ir [[#^s-71ef95b97639d705d94f29a9|4 dalis]], įsigalioja 2022 m. vasario 1 d. ^s-cf24a4dd37d3eeb4a825b9a7
+1. Šis įstatymas, išskyrus [[#^s-d736ac39bf1bd0ebdb56cf55|1]] ir [[#^s-559891162f84af1b5c5d5bc5|5]] straipsnius ir šio straipsnio [[#^s-d9f5f5dde88efc25b47843b6|3]] ir [[latest/d1e6be90747611e3b675ad30753d4b1b#^s-dd9d4eff1c00e04d501eb28e|4]] dalis, įsigalioja 2022 m. vasario 1 d. ^s-cf24a4dd37d3eeb4a825b9a7
 
 
-2. Šio įstatymo 1 ir [[#^s-559891162f84af1b5c5d5bc5|5 straipsniai]] įsigalioja 2022 m. gegužės 1 d. ^s-01c2579ddf4318278f4aa925
+2. Šio įstatymo [[#^s-d736ac39bf1bd0ebdb56cf55|1]] ir [[#^s-559891162f84af1b5c5d5bc5|5]] straipsniai įsigalioja 2022 m. gegužės 1 d. ^s-01c2579ddf4318278f4aa925
 
 
 3. Lietuvos Respublikos Vyriausybė iki 2022 m. sausio 31 d. priima šio įstatymo, išskyrus [[#^s-559891162f84af1b5c5d5bc5|5 straipsnį]], įgyvendinamuosius teisės aktus. ^s-4a40ed448022da7a8b7bb629

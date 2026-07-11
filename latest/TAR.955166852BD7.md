@@ -115,7 +115,7 @@ Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
 6. Politinė veikla – valstybės politiko veiksmai, elgesys ir dalyvavimas atstovaujamųjų bei vykdomųjų institucijų veikloje jo įgaliojimų laikotarpiu. ^s-6452dcc2403b8ad0bfdf8462
 
 
-7. Viešieji interesai – visuomenės suinteresuotumas, kad politikas viešajame gyvenime elgtųsi vadovaudamasis Lietuvos Respublikos Konstitucija ir teise, priimtų sprendimus tik valstybės, savivaldybės ir visuomenės labui. ^s-a06d4a001c7045c233488765
+7. Viešieji interesai – visuomenės suinteresuotumas, kad politikas viešajame gyvenime elgtųsi vadovaudamasis [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) ir teise, priimtų sprendimus tik valstybės, savivaldybės ir visuomenės labui. ^s-a06d4a001c7045c233488765
 
 
 8. Viešasis gyvenimas – valstybės politiko politinė veikla, taip pat valstybės politiko elgesys, nesusiję su jo privačiu gyvenimu. ^s-326e32c7c82d73018357592d
@@ -147,7 +147,7 @@ Nr. XI-900, 2010-06-15, Žin., 2010, Nr. 76-3866 (2010-06-30), i. k. [[latest/TA
 Valstybės politikas viešajame gyvenime vadovaujasi šiais elgesio principais:
 
 
-1) pagarba žmogui ir valstybei – laikosi žmogaus teisių ir laisvių ir jas užtikrina, vadovaujasi Lietuvos Respublikos Konstitucija ir teise, didina pasitikėjimą valstybe ir jos institucijomis; ^s-07250743d3406a543f67e2b6
+1) pagarba žmogui ir valstybei – laikosi žmogaus teisių ir laisvių ir jas užtikrina, vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) ir teise, didina pasitikėjimą valstybe ir jos institucijomis; ^s-07250743d3406a543f67e2b6
 
 
 2) teisingumas – vienodai tarnauja visiems žmonėms nepaisydamas jų tautybės, rasės, lyties, kalbos, kilmės, socialinės padėties, išsilavinimo, religinių įsitikinimų, politinių pažiūrų, amžiaus ar kitų skirtumų; ^s-50cc83d3fb9752d746b5693b
@@ -248,7 +248,7 @@ Nr. XIII-2276, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11197
 4. Atlikdami tyrimą, Komisijos nariai privalo: ^s-d3b34dc4696db28ff2ab0978
 
 
-1) vadovautis Lietuvos Respublikos Konstitucija, įstatymais, kitais teisės aktais; ^s-5fd54154639140eb629f3ebb
+1) vadovautis [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymais, kitais teisės aktais; ^s-5fd54154639140eb629f3ebb
 
 
 2) laikyti paslaptyje duomenis ar žinias, kuriuos jie sužinojo vykdydami tyrimą, jeigu tokie duomenys ar žinios sudaro valstybės, komercinę, banko, tarnybos arba kitą įstatymų saugomą paslaptį; ^s-1febcbea0f21660880c9bdb4
@@ -370,7 +370,7 @@ Nr. XII-2183, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20886
 1. Šio kodekso [[#^s-c6af11cfc813831d789eb496|6 straipsnio 1 dalies 2 punkte]] nurodytų komisijų priimti sprendimai gali būti skundžiami Vyriausiajai tarnybinės etikos komisijai per vieną mėnesį nuo sprendimo paskelbimo arba jo įteikimo valstybės politikui, dėl kurio yra priimtas sprendimas, dienos. ^s-edfb536860ca516b36d9fe48
 
 
-2. Šio kodekso [[#^s-679de20cbf498ae0f22b5028|6 straipsnio 1 dalies 1 punkte]] ir [[#^s-0d586050f809352f06f9ceb2|2 dalyje]] nurodytų komisijų priimti sprendimai gali būti skundžiami [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka per vieną mėnesį nuo sprendimo paskelbimo arba jo įteikimo valstybės politikui, dėl kurio yra priimtas sprendimas, dienos. ^s-0d586050f809352f06f9ceb2
+2. Šio kodekso [[#^s-679de20cbf498ae0f22b5028|6 straipsnio 1 dalies 1 punkte]] ir 2 dalyje nurodytų komisijų priimti sprendimai gali būti skundžiami [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka per vieną mėnesį nuo sprendimo paskelbimo arba jo įteikimo valstybės politikui, dėl kurio yra priimtas sprendimas, dienos. ^s-0d586050f809352f06f9ceb2
 
 
 Straipsnio pakeitimai:

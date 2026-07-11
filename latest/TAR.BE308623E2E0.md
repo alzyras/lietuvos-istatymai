@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-3b436be55fa12edf1f48de43
-PENSIJŲ SISTEMOS REFORMOS ĮSTATYMO 2, 3, 4, 5, 6, 7, 8 STRAIPSNIŲ PAKEITIMAS
+[PENSIJŲ SISTEMOS REFORMOS ĮSTATYMO](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8) [2](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8), [3](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8), [4](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8), [5](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8), [6](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8), [7](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8), [8](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8) STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2002, Nr. 123-5511)
 
@@ -170,7 +170,7 @@ Pakeisti 6 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
 ### ANTRASIS SKIRSNIS ^s-cc31d08768384ee2d4b9b56f
-VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO  15 IR 551 STRAIPSNIŲ PAPILDYMAS
+[[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]]  [[latest/TAR.A7F77DF94F5D#^s-a14eda7fa46c1ae045ab3466|15]] IR [[latest/TAR.A7F77DF94F5D|551]] STRAIPSNIŲ PAPILDYMAS
 
 (Žin., 1994, Nr. 59-1153; 1996, Nr. 68-1636; 2001, Nr. 103-3658; 2002, Nr. 123-5535, Nr. 124-5620)
 
@@ -199,7 +199,7 @@ Papildyti 551 straipsnio 3 punktą trečiuoju sakiniu ir šį punktą išdėstyt
 
 
 ### TREČIASIS SKIRSNIS ^s-0155fcda89d63fb732397d96
-[[latest/TAR.8447F63760E9#^s-4dc16c9eb1df1b56f5080fd6|Draudimo įstatymo 1, 2, 5, 24, 63, 64 straipsnių]]  pakeitimAS ir papildymAS
+[[latest/TAR.8447F63760E9|Draudimo įstatymo]] [[latest/TAR.8447F63760E9#^s-6911df00216f5695b6defdd9|1]], [[latest/TAR.8447F63760E9#^s-a188a6837ca914c0e9f5b389|2]], [[latest/TAR.8447F63760E9#^s-2ea906a25fc715ec5b901729|5]], [[latest/TAR.8447F63760E9#^s-00bdaffd6a5cc5c2e75e1953|24]], [[latest/TAR.8447F63760E9#^s-89e68362da60a367ff849bb6|63]], [[latest/TAR.8447F63760E9#^s-4dc16c9eb1df1b56f5080fd6|64]] straipsnių  pakeitimAS ir papildymAS
 
 (Žin., 1996, Nr. 73-1742; 1997, Nr. 67-1652, Nr. 104-2623; 2000, Nr. 29-803; 2001, Nr. 48-1657; 2002, Nr. 60-2411)
 
@@ -211,7 +211,7 @@ Papildyti 551 straipsnio 3 punktą trečiuoju sakiniu ir šį punktą išdėstyt
 Pakeisti [[#^s-f0a33638f6e158828d60a91d|1 straipsnio 6 dalį]] ir ją išdėstyti taip:
 
 
-„6. Šis įstatymas nereguliuoja valstybinio socialinio draudimo santykių, išskyrus valstybinio socialinio draudimo įmokos dalies kaupimą (toliau – pensijų kaupimas) draudimo įmonėse, numatytą Pensijų sistemos reformos įstatyme. Draudimo įmonių, vykdančių pensijų kaupimą, steigimo, licencijavimo, veiklos, pabaigos, pertvarkymo, bankroto ir veiklos valstybinės priežiūros ypatumus nustato [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatymas]].“
+„6. Šis įstatymas nereguliuoja valstybinio socialinio draudimo santykių, išskyrus valstybinio socialinio draudimo įmokos dalies kaupimą (toliau – pensijų kaupimas) draudimo įmonėse, numatytą [Pensijų sistemos reformos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8). Draudimo įmonių, vykdančių pensijų kaupimą, steigimo, licencijavimo, veiklos, pabaigos, pertvarkymo, bankroto ir veiklos valstybinės priežiūros ypatumus nustato [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatymas]].“
 
 
 
@@ -380,7 +380,7 @@ Papildyti 64 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 
 ### KETVIRTASIS SKIRSNIS ^s-0da2bc8fad176b6eaf80c534
-[[latest/TAR.ED68997709F5#^s-bfe2356687cf0f7d73a71477|PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO 13 IR 28 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.ED68997709F5|PRIDĖTINĖS VERTĖS MOKESČIO ĮSTATYMO]] [[latest/TAR.ED68997709F5#^s-48faeed2d850aa70b7801ab9|13]] IR [[latest/TAR.ED68997709F5#^s-bfe2356687cf0f7d73a71477|28]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2002, Nr. 35-1271, Nr. 117-5243)
 
@@ -407,7 +407,7 @@ Papildyti 64 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 
 
 ### PENKTASIS SKIRSNIS ^s-85575430ea730f162c46b305
-[[latest/TAR.C677663D2202#^s-f966aabfb0d034fea682709a|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO 6, 17 IR 21 STRAIPSNIŲ]] PAKEITIMAS IR PAPILDYMAS
+[[latest/TAR.C677663D2202|GYVENTOJŲ PAJAMŲ MOKESČIO ĮSTATYMO]] [[latest/TAR.C677663D2202#^s-e57908498c93820d43dbb5b1|6]], [[latest/TAR.C677663D2202#^s-5cd91d7584aea70ef315639a|17]] IR [[latest/TAR.C677663D2202#^s-f966aabfb0d034fea682709a|21]] STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 2002, Nr. 73-3085, Nr. 123-5539; 2003, Nr. 42-1925)
 

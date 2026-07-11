@@ -335,7 +335,7 @@ VALSTYBĖS GARANTUOJAMOS TEISINĖS PAGALBOS TEIKIMO SĄLYGOS
 3) kiti Lietuvos Respublikos tarptautinėse sutartyse nurodyti asmenys. ^s-9f37660b6c425e09ca2e16eb
 
 
-3. Kitų Europos Sąjungos valstybių narių piliečiai, taip pat kitose Europos Sąjungos valstybėse narėse teisėtai gyvenantys fiziniai asmenys šio straipsnio 1 ir [[#^s-30b810cfff4a7a686780cbdd|2 dalyse]] nustatytais atvejais valstybės garantuojamą teisinę pagalbą pagal šį įstatymą turi teisę gauti tik tarptautinio ginčo atveju. ^s-190079605e09b62f65967a87
+3. Kitų Europos Sąjungos valstybių narių piliečiai, taip pat kitose Europos Sąjungos valstybėse narėse teisėtai gyvenantys fiziniai asmenys šio straipsnio [[#^s-404a65cf68ac125101fe31d8|1]] ir [[#^s-30b810cfff4a7a686780cbdd|2]] dalyse nustatytais atvejais valstybės garantuojamą teisinę pagalbą pagal šį įstatymą turi teisę gauti tik tarptautinio ginčo atveju. ^s-190079605e09b62f65967a87
 
 
 4. Pirminė teisinė pagalba neteikiama, jeigu: ^s-69f3c12ddc740a94f8479418
@@ -377,7 +377,7 @@ VALSTYBĖS GARANTUOJAMOS TEISINĖS PAGALBOS TEIKIMO SĄLYGOS
 6. Tarnyba turi teisę atsisakyti suteikti antrinę teisinę pagalbą, jeigu iš esmės išnagrinėjusi reikalavimą nustato, kad galimos antrinės teisinės pagalbos išlaidos gerokai viršytų pareiškėjo turtinių reikalavimų (turtinių interesų) dydį arba kad pareiškėjo neturtinio pobūdžio reikalavimas yra mažareikšmis, arba kad pats pareiškėjas savarankiškai be advokato pagalbos gali įgyvendinti arba apginti savo teises ar įstatymų saugomus interesus. ^s-9d0b79de9534b71f5ca3c709
 
 
-7. Šio straipsnio 5 ir [[#^s-9d0b79de9534b71f5ca3c709|6 dalys]] netaikomos antrinės teisinės pagalbos teikimui baudžiamosiose ir administracinių teisės pažeidimų bylose. Jeigu šio įstatymo [[#^s-e5c7a03a90919ff7e8442a8c|12 straipsnio]] 3 ir 4 punktuose nurodyti asmenys nori gauti tik šio įstatymo [[#^s-6815f3af622c75dc11f9f2c9|20 straipsnyje]] nurodytą valstybės garantuojamą teisinę pagalbą, šio straipsnio 5 ir [[#^s-9d0b79de9534b71f5ca3c709|6 dalys]] netaikomos. ^s-ba82c0c18267337fe80d72e5
+7. Šio straipsnio [[#^s-12668212505a3c4018a750c1|5]] ir [[#^s-9d0b79de9534b71f5ca3c709|6]] dalys netaikomos antrinės teisinės pagalbos teikimui baudžiamosiose ir administracinių teisės pažeidimų bylose. Jeigu šio įstatymo [[#^s-e5c7a03a90919ff7e8442a8c|12 straipsnio]] 3 ir 4 punktuose nurodyti asmenys nori gauti tik šio įstatymo [[#^s-6815f3af622c75dc11f9f2c9|20 straipsnyje]] nurodytą valstybės garantuojamą teisinę pagalbą, šio straipsnio 5 ir 6 dalys netaikomos. ^s-ba82c0c18267337fe80d72e5
 
 
 8. Valstybės garantuojama teisinė pagalba neteikiama asmenims, turintiems teisę į bylinėjimosi išlaidų (išlaidų, susijusių su bylos nagrinėjimu) draudimo išmoką, jeigu ši išmoka pagal draudimo sutarties sąlygas išmokama prieš patiriant bylinėjimosi išlaidas (išlaidas, susijusias su bylos nagrinėjimu) ir jeigu draudimo išmoka apima visas išlaidas, kurias apimtų pagal šį įstatymą teikiama valstybės garantuojama teisinė pagalba. Pareiškėjas privalo nurodyti, ar yra sudaręs bylinėjimosi išlaidų (išlaidų, susijusių su bylos nagrinėjimu) draudimo sutartį, ir jei šią sutartį yra sudaręs, – kokias išlaidas apimtų draudimo išmoka. ^s-8a210b8ef371601758ff9cc1
@@ -421,28 +421,28 @@ Teisę gauti antrinę teisinę pagalbą, neatsižvelgiant į Lietuvos Respubliko
 1. Šio įstatymo [[#^s-6f9d2f44cda0803655dad25e|11 straipsnio 2 dalies 1 punkte]] nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo gyventojo turto deklaracija su vietos mokesčio administratoriaus žyma, jog deklaracija pateikta. ^s-e4310c9b2c60fafcd31847a9
 
 
-2. Šio įstatymo [[#^s-58a852a61e00a89ff71bdb45|12 straipsnio 1 punkte]] nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo ikiteisminio tyrimo pareigūno, prokuroro ar teismo priimti sprendimai. ^s-7d9c629abff0d54f0399bd05
+2. Šio įstatymo 12 straipsnio 1 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo ikiteisminio tyrimo pareigūno, prokuroro ar teismo priimti sprendimai. ^s-7d9c629abff0d54f0399bd05
 
 
-3. Šio įstatymo [[#^s-fd065795e1ef23822a573f82|12 straipsnio 2 punkte]] nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo ikiteisminio tyrimo pareigūno, prokuroro nutarimas ar teismo nutartis, kuriais asmuo pripažįstamas nukentėjusiuoju, ir (ar) teismo nuosprendis. ^s-100617b89e43d3de361d6575
+3. Šio įstatymo 12 straipsnio 2 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo ikiteisminio tyrimo pareigūno, prokuroro nutarimas ar teismo nutartis, kuriais asmuo pripažįstamas nukentėjusiuoju, ir (ar) teismo nuosprendis. ^s-100617b89e43d3de361d6575
 
 
-4. Šio įstatymo [[#^s-0da56c90a546fae2cd4d5caf|12 straipsnio 3 punkte]] nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo asmens deklaruotos gyvenamosios vietos savivaldybės arba, jei asmuo neturi gyvenamosios vietos, savivaldybės, kurioje asmuo gyvena, išduota pažyma, patvirtinanti, kad asmuo yra socialinės pašalpos gavėjas. ^s-c03dcb5ddd757e9626719866
+4. Šio įstatymo 12 straipsnio 3 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo asmens deklaruotos gyvenamosios vietos savivaldybės arba, jei asmuo neturi gyvenamosios vietos, savivaldybės, kurioje asmuo gyvena, išduota pažyma, patvirtinanti, kad asmuo yra socialinės pašalpos gavėjas. ^s-c03dcb5ddd757e9626719866
 
 
-5. Šio įstatymo [[#^s-3575d5012b96b559de17b1ec|12 straipsnio 4 punkte]] nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo stacionarios globos įstaigos vadovo arba jo įgalioto asmens išduota pažyma, patvirtinanti, kad šis asmuo yra valstybės išlaikomas stacionarioje globos įstaigoje. ^s-675bd30bdc44edb06265c42c
+5. Šio įstatymo 12 straipsnio 4 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo stacionarios globos įstaigos vadovo arba jo įgalioto asmens išduota pažyma, patvirtinanti, kad šis asmuo yra valstybės išlaikomas stacionarioje globos įstaigoje. ^s-675bd30bdc44edb06265c42c
 
 
-6. Šio įstatymo [[#^s-66e9950cbdee9b36c9066619|12 straipsnio 5 punkte]] nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos išduotas dokumentas, patvirtinantis nustatytą asmeniui neįgalumo lygį arba darbingumo lygį. ^s-f41e68f1b7f7d982f770eaa0
+6. Šio įstatymo 12 straipsnio 5 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo Neįgalumo ir darbingumo nustatymo tarnybos prie Socialinės apsaugos ir darbo ministerijos išduotas dokumentas, patvirtinantis nustatytą asmeniui neįgalumo lygį arba darbingumo lygį. ^s-f41e68f1b7f7d982f770eaa0
 
 
-7. Šio įstatymo [[#^s-5737437ac9b3e5ea62a8b273|12 straipsnio 6 punkte]] nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo turto arešto aktas ir (ar) kiti dokumentai, patvirtinantys objektyvias priežastis, dėl kurių asmuo negali disponuoti savo turtu ir lėšomis, bei vietos mokesčio administratoriui pateiktos gyventojo turto deklaracijos kopija. ^s-7599bf32eab5b781ea86dfa7
+7. Šio įstatymo 12 straipsnio 6 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo turto arešto aktas ir (ar) kiti dokumentai, patvirtinantys objektyvias priežastis, dėl kurių asmuo negali disponuoti savo turtu ir lėšomis, bei vietos mokesčio administratoriui pateiktos gyventojo turto deklaracijos kopija. ^s-7599bf32eab5b781ea86dfa7
 
 
-8. Šio įstatymo [[#^s-e674234afccb10548647a3d2|12 straipsnio 7 punkte]] nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo sveikatos priežiūros įstaigos pažyma, patvirtinanti, kad asmuo serga sunkia psichikos liga. ^s-7ee3af019ee580c56d9aa421
+8. Šio įstatymo 12 straipsnio 7 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo sveikatos priežiūros įstaigos pažyma, patvirtinanti, kad asmuo serga sunkia psichikos liga. ^s-7ee3af019ee580c56d9aa421
 
 
-9. Šio įstatymo [[#^s-2a53081a1fc048bbd088357a|12 straipsnio 8 punkte]] nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, nurodyti Lietuvos Respublikos tarptautinėse sutartyse. ^s-5755f61b94f7be4b57e5aa4f
+9. Šio įstatymo 12 straipsnio 8 punkte nurodytų asmenų teisę gauti antrinę teisinę pagalbą įrodo dokumentai, nurodyti Lietuvos Respublikos tarptautinėse sutartyse. ^s-5755f61b94f7be4b57e5aa4f
 
 
 
@@ -467,7 +467,7 @@ Teisę gauti antrinę teisinę pagalbą, neatsižvelgiant į Lietuvos Respubliko
 2) 50 procentų, – jeigu nustatomas antrasis asmens turto ir pajamų lygis. ^s-6015ef2030c2b4fde7364540
 
 
-5. Šio įstatymo [[#^s-e5c7a03a90919ff7e8442a8c|12 straipsnyje]] nurodytiems asmenims, neatsižvelgiant į asmens turtą ir pajamas, valstybė garantuoja ir apmoka 100 procentų antrinės teisinės pagalbos išlaidų, išskyrus šio įstatymo [[#^s-5737437ac9b3e5ea62a8b273|12 straipsnio 6 punkte]] nurodytus asmenis, jeigu jų turtas ir pajamos, kuriais jie gali laisvai disponuoti, yra antrojo asmens turto ir pajamų lygio. Šio įstatymo [[#^s-5737437ac9b3e5ea62a8b273|12 straipsnio 6 punkte]] nurodytiems asmenims, jeigu jų turtas ir pajamos, kuriais jie gali laisvai disponuoti, yra antrojo asmens turto ir pajamų lygio, valstybė garantuoja ir apmoka 50 procentų antrinės teisinės pagalbos išlaidų. ^s-d164afdd5922ea8011077c76
+5. Šio įstatymo [[#^s-e5c7a03a90919ff7e8442a8c|12 straipsnyje]] nurodytiems asmenims, neatsižvelgiant į asmens turtą ir pajamas, valstybė garantuoja ir apmoka 100 procentų antrinės teisinės pagalbos išlaidų, išskyrus šio įstatymo 12 straipsnio 6 punkte nurodytus asmenis, jeigu jų turtas ir pajamos, kuriais jie gali laisvai disponuoti, yra antrojo asmens turto ir pajamų lygio. Šio įstatymo 12 straipsnio 6 punkte nurodytiems asmenims, jeigu jų turtas ir pajamos, kuriais jie gali laisvai disponuoti, yra antrojo asmens turto ir pajamų lygio, valstybė garantuoja ir apmoka 50 procentų antrinės teisinės pagalbos išlaidų. ^s-d164afdd5922ea8011077c76
 
 
 6. Valstybės garantuojamos teisinės pagalbos išlaidos taip pat apima advokato ir pareiškėjo bendravimo vertimo išlaidas, jeigu Lietuvos Respublikos tarptautinių sutarčių nustatytais atvejais neįmanoma užtikrinti, kad valstybės garantuojamą teisinę pagalbą teikiantis asmuo bendrautų su pareiškėju šiam suprantama kalba. ^s-919cb7c610a73b5ba3508b68
@@ -586,7 +586,7 @@ ANTRINĖS TEISINĖS PAGALBOS TEIKIMAS
 6) antrinės teisinės pagalbos suteikimo arba atsisakymo ją teikti pagrindai; ^s-e85dd5eef4395e02ef2513ed
 
 
-7) nustatytas pareiškėjo turto ir pajamų lygis, kai antrinė teisinė pagalba pareiškėjui teikiama šio įstatymo [[#^s-6f9d2f44cda0803655dad25e|11 straipsnio 2 dalies 1 punkte]] ir [[#^s-5737437ac9b3e5ea62a8b273|12 straipsnio 6 punkte]] nurodytiems pareiškėjams; ^s-1b0105aaa439b8fb2c8bb9c0
+7) nustatytas pareiškėjo turto ir pajamų lygis, kai antrinė teisinė pagalba pareiškėjui teikiama šio įstatymo [[#^s-6f9d2f44cda0803655dad25e|11 straipsnio 2 dalies 1 punkte]] ir 12 straipsnio 6 punkte nurodytiems pareiškėjams; ^s-1b0105aaa439b8fb2c8bb9c0
 
 
 8) valstybės garantuojama ir apmokama antrinės teisinės pagalbos išlaidų dalis; ^s-01027386d98b9d70f692573d
@@ -622,7 +622,7 @@ ANTRINĖS TEISINĖS PAGALBOS TEIKIMAS
 10. Jeigu pasikeičia pareiškėjo turto ir pajamų lygis, tarnyba nustato kitą valstybės garantuojamos ir apmokamos antrinės teisinės pagalbos išlaidų dalį. ^s-75e92779f3b9c9edeccf701a
 
 
-11. Jeigu pasikeičia šio įstatymo [[#^s-5737437ac9b3e5ea62a8b273|12 straipsnio 6 punkte]] nurodyto pareiškėjo turtinė padėtis taip, kad jo turimas turtas ir pajamos arba turtas ir pajamos, kuriais šis gali laisvai disponuoti, neatitinka anksčiau nustatyto asmens turto ir pajamų lygio, bet atitinka kitą asmens turto ir pajamų lygį, toks pareiškėjas nedelsdamas turi apie tai pranešti tarnybai pateikdamas naują gyventojo turto deklaraciją su vietos mokesčio administratoriaus žyma, kad deklaracija pateikta. Šiuo atveju tarnyba nustato kitą valstybės garantuojamos ir apmokamos antrinės teisinės pagalbos išlaidų dalį. ^s-c2d5b2afe3841354f1d4f1dd
+11. Jeigu pasikeičia šio įstatymo 12 straipsnio 6 punkte nurodyto pareiškėjo turtinė padėtis taip, kad jo turimas turtas ir pajamos arba turtas ir pajamos, kuriais šis gali laisvai disponuoti, neatitinka anksčiau nustatyto asmens turto ir pajamų lygio, bet atitinka kitą asmens turto ir pajamų lygį, toks pareiškėjas nedelsdamas turi apie tai pranešti tarnybai pateikdamas naują gyventojo turto deklaraciją su vietos mokesčio administratoriaus žyma, kad deklaracija pateikta. Šiuo atveju tarnyba nustato kitą valstybės garantuojamos ir apmokamos antrinės teisinės pagalbos išlaidų dalį. ^s-c2d5b2afe3841354f1d4f1dd
 
 
 
@@ -645,7 +645,7 @@ ANTRINĖS TEISINĖS PAGALBOS TEIKIMAS
 ### 20 straipsnis.       Atleidimas nuo žyminio mokesčio ir kitų bylinėjimosi išlaidų (išlaidų, susijusių su bylos nagrinėjimu, ir proceso išlaidų) mokėjimo bei jų apmokėjimas ^s-6815f3af622c75dc11f9f2c9
 
 
-1. Turintys teisę gauti antrinę teisinę pagalbą asmenys, nagrinėjant civilines ir administracines bylas, taip pat baudžiamosiose bylose pareikštus civilinius ieškinius, atleidžiami nuo žyminio mokesčio ir kitų bylinėjimosi išlaidų (išskyrus Civilinio proceso kodekso 88 straipsnio 1 dalies 6–8 punktuose nurodytas bylinėjimosi išlaidas), su bylos nagrinėjimu susijusių išlaidų ir proceso išlaidų [[latest/TAR.EC588C321777#^s-4f994a64e82b0c258f79f347|Baudžiamojo proceso kodekso 104 straipsnio 2 dalyje]] nurodytu atveju mokėjimo atsižvelgiant į šio įstatymo [[#^s-77977b774456598959bf180e|14 straipsnio 4 dalį]]. ^s-d27e9455c2e12c619859fcc2
+1. Turintys teisę gauti antrinę teisinę pagalbą asmenys, nagrinėjant civilines ir administracines bylas, taip pat baudžiamosiose bylose pareikštus civilinius ieškinius, atleidžiami nuo žyminio mokesčio ir kitų bylinėjimosi išlaidų (išskyrus [Civilinio proceso kodekso 88 straipsnio 1 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) [6](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F)–[8](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) punktuose nurodytas bylinėjimosi išlaidas), su bylos nagrinėjimu susijusių išlaidų ir proceso išlaidų [[latest/TAR.EC588C321777#^s-4f994a64e82b0c258f79f347|Baudžiamojo proceso kodekso 104 straipsnio 2 dalyje]] nurodytu atveju mokėjimo atsižvelgiant į šio įstatymo [[#^s-77977b774456598959bf180e|14 straipsnio 4 dalį]]. ^s-d27e9455c2e12c619859fcc2
 
 
 2. Kelionės išlaidas, kurias turi apmokėti pareiškėjas tais atvejais, kai įstatymai nustato arba teismas pripažįsta, kad pareiškėjo dalyvavimas būtinas, apmoka tarnybos iš tam skirtų valstybės biudžeto lėšų. ^s-8d7c5b657d8d8debafb4bd6a
@@ -711,7 +711,7 @@ ANTRINĖS TEISINĖS PAGALBOS TEIKIMAS
 3) pasikeičia aplinkybės, kurių pagrindu asmuo buvo priskirtas šio įstatymo [[#^s-30b810cfff4a7a686780cbdd|11 straipsnio 2 dalyje]] nurodytiems asmenims; ^s-ada7a042b1ba894047b19043
 
 
-4) pasikeičia asmens turto ir pajamų lygis ir asmuo netenka teisės gauti antrinę teisinę pagalbą pagal šį įstatymą, įskaitant šio įstatymo [[#^s-5737437ac9b3e5ea62a8b273|12 straipsnio 6 punkte]] nurodytą atvejį; ^s-79edc4dcdeebeb50fc68d043
+4) pasikeičia asmens turto ir pajamų lygis ir asmuo netenka teisės gauti antrinę teisinę pagalbą pagal šį įstatymą, įskaitant šio įstatymo 12 straipsnio 6 punkte nurodytą atvejį; ^s-79edc4dcdeebeb50fc68d043
 
 
 5) pareiškėjas iki šio įstatymo nustatyto termino nepateikia gyventojo turto deklaracijos su vietos mokesčio administratoriaus žyma, kad deklaracija pateikta, kai antrinė teisinė pagalba teikiama ilgiau kaip metus; ^s-1edd0c5dde32449eb751e032
@@ -739,13 +739,13 @@ ANTRINĖS TEISINĖS PAGALBOS TEIKIMAS
 ### 24 straipsnis. Antrinės teisinės pagalbos išlaidų išieškojimas ir grąžinimas ^s-9b29f8f3e5f6626317dc23e9
 
 
-1. Jeigu antrinės teisinės pagalbos teikimas buvo nutrauktas dėl šio įstatymo [[#^s-db28da91ff882d1e3cb71436|23 straipsnio 1 dalies]] 1, 2 ir 6 punktuose nurodytų priežasčių, šios teisinės pagalbos išlaidos įstatymų nustatyta tvarka išieškomos iš asmens, kuriam ji buvo teikiama. ^s-ad35b409feb45ab1c341f75c
+1. Jeigu antrinės teisinės pagalbos teikimas buvo nutrauktas dėl šio įstatymo [[#^s-db28da91ff882d1e3cb71436|23 straipsnio 1 dalies]] [[#^s-c0602732fa9e411221606504|1]], [[#^s-8bcf0b11fd83aa3ac6f29b38|2]] ir [[#^s-09b36841f9cd4b7e7342292e|6]] punktuose nurodytų priežasčių, šios teisinės pagalbos išlaidos įstatymų nustatyta tvarka išieškomos iš asmens, kuriam ji buvo teikiama. ^s-ad35b409feb45ab1c341f75c
 
 
 2. Jeigu antrinė teisinė pagalba teikiama asmenims, turintiems teisę į bylinėjimosi išlaidų (su bylos nagrinėjimu susijusių išlaidų) draudimo išmokas, kurios pagal draudimo sutartį išmokamos po to, kai išlaidos buvo patirtos, suteiktos antrinės teisinės pagalbos išlaidos teisingumo ministro nustatyta tvarka turi būti grąžintos į valstybės biudžetą ne vėliau kaip per mėnesį nuo draudimo išmokos sumokėjimo. Jeigu asmuo negrąžina šių išlaidų, jos išieškomos įstatymų nustatyta tvarka. ^s-4bef21621776d7f70859442c
 
 
-3. Jeigu antrinė teisinė pagalba buvo teikiama šio įstatymo [[#^s-5737437ac9b3e5ea62a8b273|12 straipsnio 6 punkte]] nurodytam asmeniui ir pasikeičia aplinkybės, dėl kurių jis buvo priskirtas tame punkte nurodytiems asmenims, tačiau šis asmuo negali būti priskirtas šio įstatymo [[#^s-6f9d2f44cda0803655dad25e|11 straipsnio 2 dalies 1 punkte]] nurodytiems asmenims, toks asmuo privalo per tarnybos nustatytą terminą grąžinti suteiktos antrinės teisinės pagalbos išlaidas į valstybės biudžetą. Jeigu asmuo šių išlaidų negrąžina, jos išieškomos įstatymų nustatyta tvarka. ^s-63621260af66098abbdd9a1b
+3. Jeigu antrinė teisinė pagalba buvo teikiama šio įstatymo 12 straipsnio 6 punkte nurodytam asmeniui ir pasikeičia aplinkybės, dėl kurių jis buvo priskirtas tame punkte nurodytiems asmenims, tačiau šis asmuo negali būti priskirtas šio įstatymo [[#^s-6f9d2f44cda0803655dad25e|11 straipsnio 2 dalies 1 punkte]] nurodytiems asmenims, toks asmuo privalo per tarnybos nustatytą terminą grąžinti suteiktos antrinės teisinės pagalbos išlaidas į valstybės biudžetą. Jeigu asmuo šių išlaidų negrąžina, jos išieškomos įstatymų nustatyta tvarka. ^s-63621260af66098abbdd9a1b
 
 
 4. Jeigu apmokama 50 procentų antrinės teisinės pagalbos išlaidų ir pareiškėjas neatlieka pareigos laikantis proceso įstatymų nustatytų terminų ir tvarkos apmokėti 50 procentų bylinėjimosi išlaidų civilinio proceso atveju arba 50 procentų išlaidų, susijusių su administracinės bylos nagrinėjimu, ir dėl to civilinė arba administracinė byla pasibaigia nepriėmus teismo sprendimo dėl bylos esmės, pareiškėjas privalo per tarnybos nustatytą terminą grąžinti suteiktos antrinės teisinės pagalbos išlaidas į valstybės biudžetą. ^s-a9c5e88f8e5e0b6f40b67a86
@@ -831,7 +831,7 @@ Jeigu kitų Europos Sąjungos valstybių narių piliečių, taip pat kitose Euro
 ### 30 straipsnis. Prašymų formos ^s-f84312e335dbf0139925aaf9
 
 
-Šio įstatymo 28 ir [[#^s-b2efd4e639030142fca695ad|29 straipsniuose]] nurodyti prašymai pateikiami ir persiunčiami laikantis Europos Bendrijų Komisijos nustatytos formos.
+Šio įstatymo [[#^s-3c3c2332fa8ec0eb88461afc|28]] ir [[#^s-b2efd4e639030142fca695ad|29]] straipsniuose nurodyti prašymai pateikiami ir persiunčiami laikantis Europos Bendrijų Komisijos nustatytos formos.
 
 
 

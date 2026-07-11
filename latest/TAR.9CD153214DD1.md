@@ -150,7 +150,7 @@ BENDROSIOS NUOSTATOS
 30. Valstybė narė – Europos Sąjungos valstybė narė ar Europos ekonominės erdvės valstybė. ^s-d996dc9241f0563269b87214
 
 
-31. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos 2003 m. gegužės 26 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1059/2003 dėl bendro teritorinių statistinių vienetų klasifikatoriaus (NUTS) nustatymo su visais pakeitimais, Pasaulinės pašto sąjungos Pasaulinėje pašto konvencijoje, Pašto korespondencijos reglamente, Pašto siuntinių reglamente, [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatyme]], [[latest/TAR.065AB8483E1E|Lietuvos Respublikos visuomenės informavimo įstatyme]], [[latest/TAR.0120FD7BCFFC|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme]], [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos įstatyme]], [[latest/TAR.303FC0152D04|Lietuvos Respublikos reklamos įstatyme]] ir Lietuvos Respublikos finansinių ataskaitų audito įstatyme. ^s-b8f4d39239ee5173293898f2
+31. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos 2003 m. gegužės 26 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1059/2003](https://eur-lex.europa.eu/eli/reg/1059/2003/oj) dėl bendro teritorinių statistinių vienetų klasifikatoriaus (NUTS) nustatymo su visais pakeitimais, Pasaulinės pašto sąjungos Pasaulinėje pašto konvencijoje, Pašto korespondencijos reglamente, Pašto siuntinių reglamente, [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatyme]], [[latest/TAR.065AB8483E1E|Lietuvos Respublikos visuomenės informavimo įstatyme]], [[latest/TAR.0120FD7BCFFC|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatyme]], [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos įstatyme]], [[latest/TAR.303FC0152D04|Lietuvos Respublikos reklamos įstatyme]] ir Lietuvos Respublikos finansinių ataskaitų audito įstatyme. ^s-b8f4d39239ee5173293898f2
 
 
 
@@ -220,7 +220,7 @@ PAŠTO SRITIES POLITIKOS FORMAVIMO IR PAŠTO PASLAUGOS TEIKIMO VEIKLOS REGULIAVI
 2) įgyvendina šio įstatymo ir jo įgyvendinamųjų teisės aktų nuostatas; ^s-e0305c3f533e29aa67995c0d
 
 
-3) yra atsakinga už Reglamento (ES) 2018/644 nuostatų vykdymo priežiūrą; ^s-a9d2b203a6e1cd422d3097d2
+3) yra atsakinga už [Reglamento (ES) 2018/644](https://eur-lex.europa.eu/eli/reg/2018/644/oj) nuostatų vykdymo priežiūrą; ^s-a9d2b203a6e1cd422d3097d2
 
 
 4) pagal kompetenciją teikia informaciją Europos Komisijos prašymu; ^s-a35a9c231b12b43ba110d2ac
@@ -265,7 +265,7 @@ PAŠTO SRITIES POLITIKOS FORMAVIMO IR PAŠTO PASLAUGOS TEIKIMO VEIKLOS REGULIAVI
 17) tvirtina universaliosios pašto paslaugos nuostolių apskaičiavimo taisykles; ^s-dfe54c8a3c326491412de83b
 
 
-18) pagal kompetenciją tiria ir nagrinėja Reglamento (ES) 2018/644 ir šio įstatymo pažeidimus ir taiko sankcijas pažeidėjams; ^s-29f0b1e00407c1e3a029d415
+18) pagal kompetenciją tiria ir nagrinėja [Reglamento (ES) 2018/644](https://eur-lex.europa.eu/eli/reg/2018/644/oj) ir šio įstatymo pažeidimus ir taiko sankcijas pažeidėjams; ^s-29f0b1e00407c1e3a029d415
 
 
 19) atlieka universaliosios pašto paslaugos tarifų taikymo priežiūrą; ^s-415fe844d40689c7cef304c4
@@ -854,10 +854,10 @@ LAIKYMOSI PRIEŽIŪRA
 ### 21 straipsnis. Įstatymo laikymosi priežiūra ^s-45993447ecf2d80734cfe5e4
 
 
-1. Ryšių reguliavimo tarnyba atlieka Reglamento (ES) 2018/644, šio įstatymo nuostatų laikymosi priežiūrą vadovaudamasi [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nuostatomis, susijusiomis su ūkio subjektų veiklos priežiūros teisiniu reguliavimu. ^s-c2536ee441f50bd39f7da9fd
+1. Ryšių reguliavimo tarnyba atlieka [Reglamento (ES) 2018/644](https://eur-lex.europa.eu/eli/reg/2018/644/oj), šio įstatymo nuostatų laikymosi priežiūrą vadovaudamasi [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo]] nuostatomis, susijusiomis su ūkio subjektų veiklos priežiūros teisiniu reguliavimu. ^s-c2536ee441f50bd39f7da9fd
 
 
-2. Ryšių reguliavimo tarnybos įgaliotieji pareigūnai, atlikdami Reglamento (ES) 2018/644, šio įstatymo nuostatų laikymosi priežiūrą, pateikia tarnybinį pažymėjimą ir Ryšių reguliavimo tarnybos išduotą dokumentą, patvirtinantį jų įgaliojimus ir atliekamas funkcijas. Ryšių reguliavimo tarnybos įgaliotieji pareigūnai turi teisę: ^s-128f764a68f844abf1d330f3
+2. Ryšių reguliavimo tarnybos įgaliotieji pareigūnai, atlikdami [Reglamento (ES) 2018/644](https://eur-lex.europa.eu/eli/reg/2018/644/oj), šio įstatymo nuostatų laikymosi priežiūrą, pateikia tarnybinį pažymėjimą ir Ryšių reguliavimo tarnybos išduotą dokumentą, patvirtinantį jų įgaliojimus ir atliekamas funkcijas. Ryšių reguliavimo tarnybos įgaliotieji pareigūnai turi teisę: ^s-128f764a68f844abf1d330f3
 
 
 1) pagal šio, kitų įstatymų ir kitų teisės aktų nustatytas sąlygas ir procedūras iš valstybės ir savivaldybių institucijų ir įstaigų, pašto paslaugos teikėjų ir naudotojų gauti jiems reikalingą informaciją; ^s-5190d061df672fd7a8c0b4ea
@@ -896,7 +896,7 @@ EKONOMINĖS SANKCIJOS
 ### 22 straipsnis. Ryšių reguliavimo tarnybos veiksmai nustačius pažeidimą ^s-c0fe2183573c4ea399dee28e
 
 
-1. Ryšių reguliavimo tarnyba, nustačiusi, kad pašto paslaugos teikėjas nesilaikė ar nesilaiko Reglamento (ES) 2018/644, šio įstatymo, Ryšių reguliavimo tarnybos tarybos tvirtinamų pašto paslaugos teikimo taisyklių ar kitų šio įstatymo įgyvendinamųjų teisės aktų reikalavimų, raštu praneša pašto paslaugos teikėjui apie nustatytus pažeidimus ir suteikia jam galimybę pareikšti savo nuomonę per ne trumpesnį kaip 10 darbo dienų terminą nuo pranešimo gavimo dienos. ^s-e84e501cf915f6f1d6ad6c90
+1. Ryšių reguliavimo tarnyba, nustačiusi, kad pašto paslaugos teikėjas nesilaikė ar nesilaiko [Reglamento (ES) 2018/644](https://eur-lex.europa.eu/eli/reg/2018/644/oj), šio įstatymo, Ryšių reguliavimo tarnybos tarybos tvirtinamų pašto paslaugos teikimo taisyklių ar kitų šio įstatymo įgyvendinamųjų teisės aktų reikalavimų, raštu praneša pašto paslaugos teikėjui apie nustatytus pažeidimus ir suteikia jam galimybę pareikšti savo nuomonę per ne trumpesnį kaip 10 darbo dienų terminą nuo pranešimo gavimo dienos. ^s-e84e501cf915f6f1d6ad6c90
 
 
 2. Ryšių reguliavimo tarnyba turi teisę reikalauti, kad [[#^s-e84e501cf915f6f1d6ad6c90|šio straipsnio 1 dalyje]] nurodytas pažeidimas būtų nutrauktas nedelsiant ar per Ryšių reguliavimo tarnybos nustatytą ne ilgesnį kaip vieno mėnesio terminą. Ryšių reguliavimo tarnyba turi teisę paskirti efektyvias, proporcingas ir atgrasančias ekonomines sankcijas ar įspėjimą net ir tuo atveju, jeigu pažeidimas buvo nutrauktas. ^s-6f51564d2c88ca88f8443373
@@ -906,7 +906,7 @@ EKONOMINĖS SANKCIJOS
 ### 23 straipsnis. Pažeidimo nagrinėjimo procesas ^s-81f047e244ef2c65e1615914
 
 
-Pažeidimo nagrinėjimo procesas inicijuojamas, apie pažeidimo nagrinėjimą pašto paslaugos teikėjui pranešama, teisė susipažinti su pažeidimo nagrinėjimo proceso medžiaga įgyvendinama, pažeidimas nagrinėjamas, sprendimas dėl ekonominės sankcijos ar įspėjimo skyrimo priimamas, sprendimas skirti ekonominę sankciją ar įspėjimą skundžiamas mutatis mutandis taikant [[latest/TAR.82D8168D3049#^s-7238c3cf723f3ff5d01f529b|Elektroninių ryšių įstatymo 85 straipsnio]] 2 ir 3 dalių, 86, 88, 89, 92, 93 ir 94 straipsnių nuostatas.
+Pažeidimo nagrinėjimo procesas inicijuojamas, apie pažeidimo nagrinėjimą pašto paslaugos teikėjui pranešama, teisė susipažinti su pažeidimo nagrinėjimo proceso medžiaga įgyvendinama, pažeidimas nagrinėjamas, sprendimas dėl ekonominės sankcijos ar įspėjimo skyrimo priimamas, sprendimas skirti ekonominę sankciją ar įspėjimą skundžiamas mutatis mutandis taikant [[latest/TAR.82D8168D3049#^s-7238c3cf723f3ff5d01f529b|Elektroninių ryšių įstatymo 85 straipsnio]] [[latest/TAR.82D8168D3049#^s-33d40376ef34630f2329d8d7|2]] ir [[latest/TAR.82D8168D3049#^s-060150c4f6ce50e57fcd3872|3]] dalių, 86, 88, 89, 92, 93 ir 94 straipsnių nuostatas.
 
 
 
@@ -923,7 +923,7 @@ Pažeidimo nagrinėjimo procesas inicijuojamas, apie pažeidimo nagrinėjimą pa
 ### 25 straipsnis. Ekonominės sankcijos ir įspėjimas ^s-430d5d1dc09d4dbef97cb24e
 
 
-1. Pašto paslaugos teikėjui, kuris nesilaikė ar nesilaiko Reglamento (ES) 2018/644, šio įstatymo, Ryšių reguliavimo tarnybos tarybos tvirtinamų pašto paslaugos teikimo taisyklių ar kitų šio įstatymo įgyvendinamųjų teisės aktų reikalavimų, Ryšių reguliavimo tarnyba skiria, išskyrus [[#^s-d9244a10063784826f0abed4|šio straipsnio 4 dalyje]] nurodytą atvejį, baudą iki 3 procentų bendrųjų metinių pajamų iš pašto paslaugos teikimo veiklos, o jeigu tokios veiklos mastą apskaičiuoti sunku arba neįmanoma, – iki 100 000 eurų. ^s-bb7ad99c2ab024bc01aeeebf
+1. Pašto paslaugos teikėjui, kuris nesilaikė ar nesilaiko [Reglamento (ES) 2018/644](https://eur-lex.europa.eu/eli/reg/2018/644/oj), šio įstatymo, Ryšių reguliavimo tarnybos tarybos tvirtinamų pašto paslaugos teikimo taisyklių ar kitų šio įstatymo įgyvendinamųjų teisės aktų reikalavimų, Ryšių reguliavimo tarnyba skiria, išskyrus [[#^s-d9244a10063784826f0abed4|šio straipsnio 4 dalyje]] nurodytą atvejį, baudą iki 3 procentų bendrųjų metinių pajamų iš pašto paslaugos teikimo veiklos, o jeigu tokios veiklos mastą apskaičiuoti sunku arba neįmanoma, – iki 100 000 eurų. ^s-bb7ad99c2ab024bc01aeeebf
 
 
 2. Pašto paslaugos teikėjui, per metus nuo ekonominės sankcijos paskyrimo dienos padariusiam tą patį [[#^s-bb7ad99c2ab024bc01aeeebf|šio straipsnio 1 dalyje]] numatytą pažeidimą, Ryšių reguliavimo tarnyba skiria, išskyrus [[#^s-d9244a10063784826f0abed4|šio straipsnio 4 dalyje]] nurodytą atvejį, baudą iki 5 procentų bendrųjų metinių pajamų iš pašto paslaugos teikimo veiklos, o jeigu tokios veiklos mastą apskaičiuoti sunku arba neįmanoma, – iki 150 000 eurų. ^s-7f1b224a2c766c9122f30d24
@@ -960,10 +960,10 @@ Pažeidimo nagrinėjimo procesas inicijuojamas, apie pažeidimo nagrinėjimą pa
 6) kiekvieno pašto paslaugos teikėjo įtaką pažeidimo padarymui, kai pažeidimą padaro keli pašto paslaugos teikėjai. ^s-24a74a1b22ac3b3dfa04c74a
 
 
-2. Konkretus ekonominės sankcijos dydis nustatomas pagal šio įstatymo [[#^s-430d5d1dc09d4dbef97cb24e|25 straipsnio]] 1 ir [[#^s-9d143b686b286655777db7a2|2 dalyse]] nustatytus ekonominės sankcijos dydžius, įvertinus aplinkybes, nurodytas [[#^s-e667581f06125af9cd75f5ab|šio straipsnio 1 dalyje]]. Kai taikoma poveikio priemonė yra bauda, konkretus skiriamos baudos dydis nustatomas pirmiausia apskaičiuojant bazinį baudos dydį, kuris lygus 50 procentų šio įstatymo [[#^s-430d5d1dc09d4dbef97cb24e|25 straipsnyje]] nurodytos maksimalios už pažeidimą galimos skirti baudos dydžio. Jeigu yra nustatoma vien tik atsakomybę lengvinančių aplinkybių, bazinis baudos dydis mažinamas, o jeigu yra nustatoma vien tik atsakomybę sunkinančių aplinkybių, bazinis baudos dydis didinamas. Jeigu yra nustatoma ir atsakomybę lengvinančių, ir atsakomybę sunkinančių aplinkybių, ekonominės sankcijos dydis nustatomas atsižvelgiant į jų kiekį ir reikšmingumą. ^s-9d143b686b286655777db7a2
+2. Konkretus ekonominės sankcijos dydis nustatomas pagal šio įstatymo [[#^s-430d5d1dc09d4dbef97cb24e|25 straipsnio]] [[#^s-bb7ad99c2ab024bc01aeeebf|1]] ir [[#^s-7f1b224a2c766c9122f30d24|2]] dalyse nustatytus ekonominės sankcijos dydžius, įvertinus aplinkybes, nurodytas [[#^s-e667581f06125af9cd75f5ab|šio straipsnio 1 dalyje]]. Kai taikoma poveikio priemonė yra bauda, konkretus skiriamos baudos dydis nustatomas pirmiausia apskaičiuojant bazinį baudos dydį, kuris lygus 50 procentų šio įstatymo [[#^s-430d5d1dc09d4dbef97cb24e|25 straipsnyje]] nurodytos maksimalios už pažeidimą galimos skirti baudos dydžio. Jeigu yra nustatoma vien tik atsakomybę lengvinančių aplinkybių, bazinis baudos dydis mažinamas, o jeigu yra nustatoma vien tik atsakomybę sunkinančių aplinkybių, bazinis baudos dydis didinamas. Jeigu yra nustatoma ir atsakomybę lengvinančių, ir atsakomybę sunkinančių aplinkybių, ekonominės sankcijos dydis nustatomas atsižvelgiant į jų kiekį ir reikšmingumą. ^s-9d143b686b286655777db7a2
 
 
-3. Bendrosios metinės pajamos, nurodytos šio įstatymo [[#^s-430d5d1dc09d4dbef97cb24e|25 straipsnio]] 1 ir [[#^s-9d143b686b286655777db7a2|2 dalyse]], nustatomos pagal pašto paslaugos teikėjo, kuriam skiriama ekonominė sankcija, bendrąsias metines pajamas, gautas per praėjusius ataskaitinius metus iš pašto paslaugos teikimo veiklos. Jeigu nėra galimybės apskaičiuoti bendrųjų metinių pajamų, gautų praėjusiais ataskaitiniais metais (pašto paslaugos teikėjas neteikė pašto paslaugos praėjusiais ataskaitiniais metais ir panašiai), skaičiuojamos einamaisiais metais iš pašto paslaugos teikimo veiklos gautos pajamos. Skaičiuojant einamaisiais metais iš pašto paslaugos teikimo veiklos gautas pajamas, skaičiuojamos visos pašto paslaugos teikėjo, kuriam skiriama ekonominė sankcija, einamaisiais metais iš pašto paslaugos teikimo veiklos iki sprendimo dėl ekonominės sankcijos skyrimo šiam pašto paslaugos teikėjui priėmimo dienos gautos pajamos. ^s-07b246afe461bc25e970b2f7
+3. Bendrosios metinės pajamos, nurodytos šio įstatymo [[#^s-430d5d1dc09d4dbef97cb24e|25 straipsnio]] [[#^s-bb7ad99c2ab024bc01aeeebf|1]] ir [[#^s-7f1b224a2c766c9122f30d24|2]] dalyse, nustatomos pagal pašto paslaugos teikėjo, kuriam skiriama ekonominė sankcija, bendrąsias metines pajamas, gautas per praėjusius ataskaitinius metus iš pašto paslaugos teikimo veiklos. Jeigu nėra galimybės apskaičiuoti bendrųjų metinių pajamų, gautų praėjusiais ataskaitiniais metais (pašto paslaugos teikėjas neteikė pašto paslaugos praėjusiais ataskaitiniais metais ir panašiai), skaičiuojamos einamaisiais metais iš pašto paslaugos teikimo veiklos gautos pajamos. Skaičiuojant einamaisiais metais iš pašto paslaugos teikimo veiklos gautas pajamas, skaičiuojamos visos pašto paslaugos teikėjo, kuriam skiriama ekonominė sankcija, einamaisiais metais iš pašto paslaugos teikimo veiklos iki sprendimo dėl ekonominės sankcijos skyrimo šiam pašto paslaugos teikėjui priėmimo dienos gautos pajamos. ^s-07b246afe461bc25e970b2f7
 
 
 4. Nustatant pažeidimu pašto paslaugos teikėjams, naudotojams ir (ar) kitiems asmenims padarytos žalos dydį, atsižvelgiama į pažeidimo sukeltas pasekmes (kai tai įmanoma nustatyti), turto netekimą arba sugadinimą, patirtas išlaidas (tiesioginius nuostolius), taip pat negautas pajamas, kurios galėjo būti gautos, jeigu nebūtų buvę pažeidimo, ir išlaidas, skirtas žalos prevencijai ar žalai sumažinti. ^s-7fe30ebaebf9243f96bed503
@@ -998,7 +998,7 @@ Informacija apie uždraudimą pašto paslaugos teikėjui teikti pašto paslaugą
 2. Kai yra motyvuotas pašto paslaugos teikėjo prašymas, Ryšių reguliavimo tarnyba, atsižvelgusi į pašto paslaugos teikėjo turtinę padėtį, kitas reikšmingas aplinkybes, turi teisę baudos ar jos dalies mokėjimą atidėti iki 6 mėnesių. ^s-184844f151d72e063b855e24
 
 
-3. Ryšių reguliavimo tarnybos sprendimas dėl ekonominės sankcijos skyrimo yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas per nustatytą terminą, jis pateikiamas vykdyti antstoliams Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Sprendimas turi būti pateikiamas vykdyti ne vėliau kaip per 9 mėnesius nuo šio straipsnio 1 ar 2 dalyje nustatyto termino pabaigos ^s-353d7a75118797cb98400028
+3. Ryšių reguliavimo tarnybos sprendimas dėl ekonominės sankcijos skyrimo yra vykdomasis dokumentas. Jeigu šis sprendimas neįvykdomas per nustatytą terminą, jis pateikiamas vykdyti antstoliams [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Sprendimas turi būti pateikiamas vykdyti ne vėliau kaip per 9 mėnesius nuo šio straipsnio 1 ar 2 dalyje nustatyto termino pabaigos ^s-353d7a75118797cb98400028
 
 
 
@@ -1025,7 +1025,7 @@ priedas
 1. 1997 m. gruodžio 15 d. Europos Parlamento ir Tarybos direktyva 97/67/EB dėl Bendrijos pašto paslaugų vidaus rinkos plėtros bendrųjų taisyklių ir paslaugų kokybės gerinimo su paskutiniais pakeitimais, padarytais 2008 m. vasario 20 d. Europos Parlamento ir Tarybos direktyva 2008/6/EB. ^s-09639f361d71fd8081eaf090
 
 
-2. 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/644 dėl tarptautinių siuntinių pristatymo paslaugų. ^s-b547e42e8cd19fd1be799427
+2. 2018 m. balandžio 18 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2018/644](https://eur-lex.europa.eu/eli/reg/2018/644/oj) dėl tarptautinių siuntinių pristatymo paslaugų. ^s-b547e42e8cd19fd1be799427
 ________________
 
 
@@ -1097,27 +1097,27 @@ Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 [[#^s-001e6f45fc7727b174c0ea
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2087, 2015-11-26, paskelbta TAR 2015-12-07, i. k. 2015-19365
-Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 3, 6, 10 ir [[#^s-100e030f9c36e37f3f84683c|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 [[#^s-67b30ed69f023b0b607bb317|3]], [[#^s-58f2b8ad8044cfbf6e0bd2ac|6]], [[#^s-efb5a3304d20a0886ff21eca|10]] ir [[#^s-100e030f9c36e37f3f84683c|13]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2213, 2019-06-13, paskelbta TAR 2019-06-19, i. k. 2019-09830
-Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 1, 19, 20, 23, 26, [[#^s-147c8d4ff27c9556964efe1d|27 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 [[#^s-142ac20a5152c26b78c6287f|1]], [[#^s-2a38a1fd8ce4c2ec4d8de488|19]], [[#^s-d4c971cd45fce7372474bdd0|20]], [[#^s-81f047e244ef2c65e1615914|23]], [[#^s-001e6f45fc7727b174c0eab0|26]], [[#^s-147c8d4ff27c9556964efe1d|27]] straipsnių ir priedo pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-422, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14579
-Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 7 ir [[#^s-efb5a3304d20a0886ff21eca|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 [[#^s-9336a624d7352c818fb56c69|7]] ir [[#^s-efb5a3304d20a0886ff21eca|10]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-641, 2021-11-11, paskelbta TAR 2021-11-25, i. k. 2021-24252
-Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 19, 21, 22, 24, 25, 29, 30, 32 ir 33 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 [[#^s-2a38a1fd8ce4c2ec4d8de488|19]], [[#^s-45993447ecf2d80734cfe5e4|21]], [[#^s-c0fe2183573c4ea399dee28e|22]], [[#^s-280961d1b7df7f0f9f5320d0|24]], [[#^s-430d5d1dc09d4dbef97cb24e|25]], 29, 30, 32 ir 33 straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1682, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26107
-Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 3, 5, 6 ir [[#^s-36d0ceb92fd3f08dafef9fd5|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pašto įstatymo Nr. VIII-1141 [[#^s-67b30ed69f023b0b607bb317|3]], [[#^s-b987029b578f41e127e2bf70|5]], [[#^s-58f2b8ad8044cfbf6e0bd2ac|6]] ir [[#^s-36d0ceb92fd3f08dafef9fd5|17]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas

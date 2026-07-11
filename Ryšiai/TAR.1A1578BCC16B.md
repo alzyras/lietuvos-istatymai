@@ -13,6 +13,5 @@ pavadinimas: "Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įst
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9390A9F9A815#^s-8bb46dae13223e137bd7e869|Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas]] - 1031010ISTA0IX-1460
 - [[latest/TAR.9390A9F9A815#^s-fe17cf0da865c88f90a8cdd4|Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas]] - 1031010ISTA0IX-1460
-- [[latest/TAR.9390A9F9A815#^s-ff6822728ec3656e6829109b|Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas]] - 3 citatos - 1031010ISTA0IX-1460
+- [[latest/TAR.9390A9F9A815#^s-ff6822728ec3656e6829109b|Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymas]] - 2 citatos - 1031010ISTA0IX-1460

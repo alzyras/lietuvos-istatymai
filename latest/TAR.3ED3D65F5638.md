@@ -166,7 +166,7 @@ Nr. XIV-1651, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26608
 
 
 
-7. Valstybės rezervą gali sudaryti ir kitos šio straipsnio 2–[[#^s-d681b370471326d5651e7c72|6 dalyse]] nenurodytos materialinių išteklių atsargos, reikalingos šio įstatymo [[#^s-02f7934c1d2d961ed3bf8d84|2 straipsnio 1 dalyje]] nurodytiems tikslams. ^s-323373e9779e3f85402e46cb
+7. Valstybės rezervą gali sudaryti ir kitos šio straipsnio [[#^s-03e4e7ac38a369c9daa5d9d4|2]]–[[#^s-d681b370471326d5651e7c72|6]] dalyse nenurodytos materialinių išteklių atsargos, reikalingos šio įstatymo [[#^s-02f7934c1d2d961ed3bf8d84|2 straipsnio 1 dalyje]] nurodytiems tikslams. ^s-323373e9779e3f85402e46cb
 
 
 Straipsnio pakeitimai:
@@ -392,7 +392,7 @@ Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
 ### 111 straipsnis. Valstybės rezervo paslaugų preliminariųjų sutarčių keitimas arba nutraukimas ^s-e2fd2e8ee873da8cce0ce4ce
 
 
-1. Valstybės rezervo paslaugų preliminariąsias sutartis keičia arba jas nutraukia valstybės rezervo tvarkytojai. Valstybės rezervo paslaugų preliminariosios sutartys keičiamos arba nutraukiamos šio straipsnio 2 ir [[#^s-c4a230d2cc9da4ed0683a98b|3 dalyse]] ir šio įstatymo [[#^s-b332dd25d094fc06902a0e7a|181 straipsnyje]] nustatytais atvejais, taip pat kai valstybės rezervo paslaugos neatitinka pasikeitusių Lietuvos Respublikoje nustatytų privalomųjų jų teikimo reikalavimų ir analogiškų rinkoje esančių paslaugų kokybės standartų ar techninio lygio. ^s-7fa89b8f1e0adf9a835451b0
+1. Valstybės rezervo paslaugų preliminariąsias sutartis keičia arba jas nutraukia valstybės rezervo tvarkytojai. Valstybės rezervo paslaugų preliminariosios sutartys keičiamos arba nutraukiamos šio straipsnio [[#^s-b109552138e5a353b81e654f|2]] ir [[#^s-c4a230d2cc9da4ed0683a98b|3]] dalyse ir šio įstatymo [[#^s-b332dd25d094fc06902a0e7a|181 straipsnyje]] nustatytais atvejais, taip pat kai valstybės rezervo paslaugos neatitinka pasikeitusių Lietuvos Respublikoje nustatytų privalomųjų jų teikimo reikalavimų ir analogiškų rinkoje esančių paslaugų kokybės standartų ar techninio lygio. ^s-7fa89b8f1e0adf9a835451b0
 
 
 2. Kai Vyriausybės sprendimu mažinamas valstybės rezervo paslaugų kiekis, valstybės rezervo paslaugų preliminariųjų sutarčių sąlygos keičiamos arba šios sutartys nutraukiamos laikantis [[latest/TAR.C54AFFAA7622|Viešųjų pirkimų įstatyme]] arba [[latest/TAR.E838D0C06065|Viešųjų pirkimų, atliekamų gynybos ir saugumo srityje, įstatyme]] nustatytos preliminariųjų sutarčių keitimo tvarkos. ^s-b109552138e5a353b81e654f
@@ -608,7 +608,7 @@ Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
 1. Valstybės rezervo atsakingasis saugotojas: ^s-623da0f4ae2cff60ded1fd29
 
 
-1) Finansinės apskaitos įstatymo nustatyta tvarka traukia į apskaitą saugomas šio įstatymo 2 straipsnio 1 dalies 2 punkte nurodytas valstybės rezervo materialinių išteklių atsargas; ^s-60092fc5a33d31bd83b0c73b
+1) [[latest/TAR.43178AA9832E|Finansinės apskaitos įstatymo nustatyta tvarka traukia į apskaitą saugomas šio įstatymo 2 straipsnio 1 dalies 2 punkte]] nurodytas valstybės rezervo materialinių išteklių atsargas; ^s-60092fc5a33d31bd83b0c73b
 Straipsnio punkto pakeitimai:
 Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
 
@@ -713,32 +713,32 @@ Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 [[#^s-f249ca89b6
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2258, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10928
-Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 4 ir [[#^s-f834d895b78d9d0074eb1618|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 [[#^s-f249ca89b6a5a18a2da1c373|2]], [[#^s-18e12abce376361ad75a7529|4]] ir [[#^s-f834d895b78d9d0074eb1618|13]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2497, 2019-10-17, paskelbta TAR 2019-10-31, i. k. 2019-17362
-Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 4, 8, 9, 10, 11, 12, 13, 17, [[#^s-b95ba5c238cb3eb11e8305a7|18 straipsnių]] pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
+Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 [[#^s-f249ca89b6a5a18a2da1c373|2]], [[#^s-18e12abce376361ad75a7529|4]], [[#^s-1cea0adf164fa98687eab804|8]], [[#^s-46947c0e15f879229f809943|9]], [[#^s-8dc5c7d087364339c6fa104a|10]], [[#^s-cb7172fb46cd2c6f6608a1eb|11]], [[#^s-0b7aa6317ec8446b8e7d2dcf|12]], [[#^s-f834d895b78d9d0074eb1618|13]], [[#^s-aa76db6d7cb4320bbc2074cb|17]], [[#^s-b95ba5c238cb3eb11e8305a7|18]] straipsnių pakeitimo ir Įstatymo papildymo 18-1 straipsniu įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-933, 2022-03-10, paskelbta TAR 2022-03-16, i. k. 2022-04821
-Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 8, 10, 13, 17 ir 18-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 [[#^s-f249ca89b6a5a18a2da1c373|2]], [[#^s-1cea0adf164fa98687eab804|8]], [[#^s-8dc5c7d087364339c6fa104a|10]], [[#^s-f834d895b78d9d0074eb1618|13]], [[#^s-aa76db6d7cb4320bbc2074cb|17]] ir 18-1 straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1651, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26608
-Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 3, 4 ir [[#^s-f834d895b78d9d0074eb1618|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 [[#^s-f249ca89b6a5a18a2da1c373|2]], [[#^s-2f26c4d9b4d5ac4a73dbf687|3]], [[#^s-18e12abce376361ad75a7529|4]] ir [[#^s-f834d895b78d9d0074eb1618|13]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2679, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11162
-Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 6, 9, 10, 11, 12, 17, 18 ir 18-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 [[#^s-3b4eff3bed5591794e341b75|6]], [[#^s-46947c0e15f879229f809943|9]], [[#^s-8dc5c7d087364339c6fa104a|10]], [[#^s-cb7172fb46cd2c6f6608a1eb|11]], [[#^s-0b7aa6317ec8446b8e7d2dcf|12]], [[#^s-aa76db6d7cb4320bbc2074cb|17]], [[#^s-b95ba5c238cb3eb11e8305a7|18]] ir 18-1 straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-876, 2026-05-07, paskelbta TAR 2026-05-12, i. k. 2026-07969
-Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 2, 4, 6, 8, 9, 10, 11, 13, 16, 17, 18-1 ir [[#^s-9ca281230e47938502152dda|19 straipsnių]] pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
+Lietuvos Respublikos valstybės rezervo įstatymo Nr. VIII-1908 [[#^s-f249ca89b6a5a18a2da1c373|2]], [[#^s-18e12abce376361ad75a7529|4]], [[#^s-3b4eff3bed5591794e341b75|6]], [[#^s-1cea0adf164fa98687eab804|8]], [[#^s-46947c0e15f879229f809943|9]], [[#^s-8dc5c7d087364339c6fa104a|10]], [[#^s-cb7172fb46cd2c6f6608a1eb|11]], [[#^s-f834d895b78d9d0074eb1618|13]], [[#^s-03a815427e0f376d9cf9faed|16]], [[#^s-aa76db6d7cb4320bbc2074cb|17]], 18-1 ir [[#^s-9ca281230e47938502152dda|19]] straipsnių pakeitimo ir Įstatymo papildymo 11-1 straipsniu įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas

@@ -46,7 +46,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-6eb4f4238b8270f8e66b8589
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. sausio 22 d. dekretą Nr. 1K-1241, ratifikuoja su pareiškimais 2006 m. birželio 28 d. Vienoje pasirašytą Europos Sąjungos ir Islandijos Respublikos bei Norvegijos Karalystės susitarimą dėl perdavimo tvarkos tarp Europos Sąjungos valstybių narių ir Islandijos bei Norvegijos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. sausio 22 d. dekretą Nr. 1K-1241](https://e-tar.lt/portal/lt/legalAct/TAR.EE1A9217ECC8), ratifikuoja su pareiškimais 2006 m. birželio 28 d. Vienoje pasirašytą Europos Sąjungos ir Islandijos Respublikos bei Norvegijos Karalystės susitarimą dėl perdavimo tvarkos tarp Europos Sąjungos valstybių narių ir Islandijos bei Norvegijos.
 
 
 

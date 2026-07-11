@@ -115,7 +115,7 @@ Pakeisti 810 straipsnio 6 dalį ir ją išdėstyti taip:
 ### 7 straipsnis. 811 straipsnio pakeitimas ir papildymas ^s-9199ba84aa488d19ff96224b
 
 
-811 straipsnio 1 ir [[#^s-a2af76c438371b451d177f9f|2 dalyse]] išbraukti žodžius „(arbitražo)“, straipsnį papildyti nauja [[#^s-9265a832db7c01a0f18961a3|3 dalimi]], buvusią [[#^s-9265a832db7c01a0f18961a3|3 dalį]] laikyti [[#^s-00e657453c31a14883d01c93|4 dalimi]] ir visą straipsnį išdėstyti taip:
+811 straipsnio 1 ir 2 dalyse išbraukti žodžius „(arbitražo)“, straipsnį papildyti nauja [[#^s-9265a832db7c01a0f18961a3|3 dalimi]], buvusią [[#^s-9265a832db7c01a0f18961a3|3 dalį]] laikyti [[#^s-00e657453c31a14883d01c93|4 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 
@@ -158,7 +158,7 @@ Papildyti Kodeksą 8111 straipsniu:
 ### 9 straipsnis. 812 straipsnio pakeitimas ^s-eabd5ee39e2f575213ba1c80
 
 
-812 straipsnio pavadinime po žodžio „bylos“ įrašyti žodžius „dėl užsienio teismo sprendimo pripažinimo“, 1, 2, 3, 4, 5 ir [[#^s-ec1f106a1baf28341cca51ab|6 dalyse]] išbraukti žodžius „(arbitražų)“, „(arbitražo)“ ir visą straipsnį išdėstyti taip:
+812 straipsnio pavadinime po žodžio „bylos“ įrašyti žodžius „dėl užsienio teismo sprendimo pripažinimo“, 1, 2, 3, 4, 5 ir 6 dalyse išbraukti žodžius „(arbitražų)“, „(arbitražo)“ ir visą straipsnį išdėstyti taip:
 
 
 

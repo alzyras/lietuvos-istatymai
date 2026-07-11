@@ -80,7 +80,7 @@ Pakeisti 8 straipsnio 8 dalies 2 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-8fe8f2d73d23ba99bd005fc7
 
 
-1. Šio įstatymo [[#^s-9ed0c7a6ee190053e4cbf08a|1 straipsnis]] ir [[#^s-93b5d5feeed68b03ed5f1537|2 straipsnio]] 1 ir [[#^s-af32667de36452e17bb2f094|2 dalys]] įsigalioja 2017 m. sausio 1 d. ^s-002537df43e163d7c2370417
+1. Šio įstatymo [[#^s-9ed0c7a6ee190053e4cbf08a|1 straipsnis]] ir [[#^s-93b5d5feeed68b03ed5f1537|2 straipsnio]] [[#^s-b510161e59363d1d0bfe40f1|1]] ir [[#^s-4286677f97522826cf4bf2d9|2]] dalys įsigalioja 2017 m. sausio 1 d. ^s-002537df43e163d7c2370417
 Straipsnio dalies pakeitimai:
 Nr. XI-588, 2009-12-21, Žin., 2009, Nr. 154-6958 (2009-12-28), i. k. [[latest/TAR.1D20C57A7A46|1091010ISTA00XI-588]]
 Nr. XI-1755, 2011-12-01, Žin., 2011, Nr. 150-7054 (2011-12-08), i. k. [[latest/TAR.DAC134256C62|1111010ISTA0XI-1755]]
@@ -88,7 +88,7 @@ Nr. XII-1496, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20797
 
 
 
-2. Šio įstatymo [[#^s-93b5d5feeed68b03ed5f1537|2 straipsnio]] 3 ir 4 dalys įsigalioja 2009 m. vasario 1 d. ^s-af32667de36452e17bb2f094
+2. Šio įstatymo [[#^s-93b5d5feeed68b03ed5f1537|2 straipsnio]] [[#^s-66b6cec1f17bec1f0094b259|3]] ir [[#^s-2c1f8ff68f156f9bc7f425f2|4]] dalys įsigalioja 2009 m. vasario 1 d. ^s-af32667de36452e17bb2f094
 
 
 3. Iki šio įstatymo įsigaliojimo paskirtas Nacionalinės teismų administracijos direktorius eina pareigas iki kadencijos, kuriai jis buvo paskirtas, pabaigos. Pasibaigus iki šio įstatymo įsigaliojimo paskirto Nacionalinės teismų administracijos direktoriaus kadencijai, naujas Nacionalinės teismų administracijos direktorius priimamas į pareigas [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymo]] ir kitų įstatymų nustatyta tvarka. ^s-2fddbaa451a23e181e083642

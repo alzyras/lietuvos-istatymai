@@ -36,7 +36,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-b775db23d5b3b388eb57a5ae
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1999 m. gegužės 11 d. dekretą Nr.435, ratifikuoja Tarpvalstybinių vandentakių ir tarptautinių ežerų apsaugos ir naudojimo konvenciją, pasirašytą 1992 m. kovo 17 d. Helsinkyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [1999 m. gegužės 11 d. dekretą Nr.435](https://e-tar.lt/portal/lt/legalAct/TAR.131551ACDF67), ratifikuoja Tarpvalstybinių vandentakių ir tarptautinių ežerų apsaugos ir naudojimo konvenciją, pasirašytą 1992 m. kovo 17 d. Helsinkyje.
 
 
 

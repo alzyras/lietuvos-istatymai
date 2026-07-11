@@ -100,7 +100,7 @@ BENDROSIOS NUOSTATOS
 3. Lobistu neturi teisės būti juridinis asmuo, kuris įstatymų nustatyta tvarka yra pripažintas kaltu dėl korupcinio pobūdžio nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą arba yra pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo padarymo ir turi neišnykusį ar nepanaikintą teistumą, arba įstatymų nustatyta tvarka yra pripažintas kaltu dėl korupcinio pobūdžio baudžiamojo nusižengimo padarymo ir nuo apkaltinamojo nuosprendžio įsiteisėjimo dienos nepraėjo treji metai, arba teismo sprendimu yra pripažintas padariusiu korupcinio pobūdžio nusikalstamą veiką, bet nuo baudžiamosios atsakomybės atleistas ir nuo teismo sprendimo įsiteisėjimo dienos nepraėjo šeši mėnesiai, taip pat juridinis asmuo, kuriam buvo paskirta bauda už šio įstatymo pažeidimą ir nuo baudos sumokėjimo dienos nepraėjo trys mėnesiai. ^s-ffcad50a0a77907a30b62431
 
 
-4. Asmuo, išbrauktas iš lobistų sąrašo šio įstatymo [[#^s-a6dce7909f66e9baa953d3cf|9 straipsnio 4 dalies]] 2 ir 3 punktuose nurodytais atvejais, negali būti vėl įrašytas į lobistų sąrašą, jeigu nuo sprendimo išbraukti asmenį iš lobistų sąrašo priėmimo dienos praėjo mažiau negu trys mėnesiai. ^s-157bce1bcdda1d9f4ae9188e
+4. Asmuo, išbrauktas iš lobistų sąrašo šio įstatymo [[#^s-a6dce7909f66e9baa953d3cf|9 straipsnio 4 dalies]] [[#^s-6268f53e67c086e1db54c044|2]] ir [[#^s-f15bffae947710911b816e34|3]] punktuose nurodytais atvejais, negali būti vėl įrašytas į lobistų sąrašą, jeigu nuo sprendimo išbraukti asmenį iš lobistų sąrašo priėmimo dienos praėjo mažiau negu trys mėnesiai. ^s-157bce1bcdda1d9f4ae9188e
 
 
 
@@ -203,7 +203,7 @@ Lobistine veikla nelaikoma:
 1) viešosios informacijos rengėjų, skleidėjų, jų dalyvių, žurnalistų veikla įstatymų nustatyta tvarka renkant, rengiant, skelbiant ir skleidžiant viešąją informaciją; ^s-538b3446ef3881b3bc223d7f
 
 
-2) asmenų veikla, kai jie valstybės ir savivaldybių institucijų ar įstaigų iniciatyva ir kvietimu atlygintinai ar neatlygintinai kaip ekspertai ar specialistai dalyvauja susitikimuose, posėdžiuose, pasitarimuose dėl teisės aktų projektų rengimo pagal Lietuvos Respublikos teisėkūros pagrindų įstatymą; ^s-84958bf24fadf60646561a24
+2) asmenų veikla, kai jie valstybės ir savivaldybių institucijų ar įstaigų iniciatyva ir kvietimu atlygintinai ar neatlygintinai kaip ekspertai ar specialistai dalyvauja susitikimuose, posėdžiuose, pasitarimuose [dėl teisės aktų projektų rengimo](https://e-tar.lt/portal/lt/legalAct/TAR.58C0D5293287) pagal Lietuvos Respublikos teisėkūros pagrindų įstatymą; ^s-84958bf24fadf60646561a24
 
 
 3) valstybės politikų, valstybės pareigūnų ar valstybės tarnautojų veiksmai inicijuojant, rengiant, svarstant teisės aktų projektus ir priimant teisės aktus, atliekami pagal teisės aktų nustatyta tvarka jiems suteiktas pareigines funkcijas, ir kitų asmenų, kurie pagal teisės aktų nustatyta tvarka jiems suteiktas pareigines funkcijas dalyvauja rengiant, svarstant teisės aktų projektus ir priimant teisės aktus, veikla; ^s-a1ba87eca73960cc682c2850
@@ -567,7 +567,7 @@ ATSAKOMYBĖ
 ### 17 straipsnis. Vyriausiosios tarnybinės etikos komisijos nutarimų apskundimo tvarka ^s-4e5cc8f31bdaf02d53830869
 
 
-1. Vyriausiosios tarnybinės etikos komisijos nutarimą dėl baudos skyrimo juridinis asmuo, dėl kurio priimtas šis nutarimas, ar asmuo, kuriam lobistine veikla siekiama daryti įtaką, gali apskųsti teismui įstatymų nustatyta tvarka. ^s-fddae2d0a0d1b914ff2d1357
+1. Vyriausiosios tarnybinės etikos komisijos nutarimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo juridinis asmuo, dėl kurio priimtas šis nutarimas, ar asmuo, kuriam lobistine veikla siekiama daryti įtaką, gali apskųsti teismui įstatymų nustatyta tvarka. ^s-fddae2d0a0d1b914ff2d1357
 
 
 2. Skundo dėl priimto Vyriausiosios tarnybinės etikos komisijos nutarimo pažeidimo byloje padavimas teismui sustabdo nutarimo vykdymą. ^s-d5737944c574df54774c02c8
@@ -580,7 +580,7 @@ ATSAKOMYBĖ
 1. Paskirtos baudos, nurodytos šio įstatymo [[#^s-77ff25c7b870f67aeb23398b|14 straipsnio 1 dalyje]], į valstybės biudžetą sumokamos ne vėliau kaip per trisdešimt dienų nuo nutarimo skirti baudą įteikimo juridiniam asmeniui dienos, o kai toks nutarimas apskundžiamas ir teismas skundo nepatenkina, – ne vėliau kaip per dvidešimt darbo dienų nuo teismo sprendimo įsiteisėjimo dienos. ^s-93ca3ee407b5c1accae0c6a8
 
 
-2. Vyriausiosios tarnybinės etikos komisijos nutarimas skirti baudą yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir Civilinio proceso kodekse nustatyta tvarka. ^s-55810c2db9d0e1ad45ec58c7
+2. Vyriausiosios tarnybinės etikos komisijos nutarimas skirti baudą yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-55810c2db9d0e1ad45ec58c7
 
 
 Straipsnio pakeitimai:

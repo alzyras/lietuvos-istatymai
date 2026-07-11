@@ -40,12 +40,12 @@ Vilnius
 ### 1 straipsnis. Lietuvos Respublikos valstybės kontrolės įstatymo 2 ir 9 straipsnių pakeitimo įstatymo nauja redakcija ^s-8acc1910dd47944c2790fbbd
 
 
-Pakeisti [[latest/TAR.61BB05227699#^s-44b2c1a4fca48fa297da951b|Lietuvos Respublikos valstybės kontrolės įstatymo 2 ir 9 straipsnių]] pakeitimo įstatymą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.61BB05227699|Lietuvos Respublikos valstybės kontrolės įstatymo]] [[latest/TAR.61BB05227699#^s-dcd0e1c7a41bf2931bf3efaa|2]] ir [[latest/TAR.61BB05227699#^s-44b2c1a4fca48fa297da951b|9]] straipsnių pakeitimo įstatymą ir jį išdėstyti taip:
 
 
 
 „LIETUVOS RESPUBLIKOS
-[[latest/TAR.61BB05227699#^s-44b2c1a4fca48fa297da951b|VALSTYBĖS KONTROLĖS ĮSTATYMO 2 IR 9 STRAIPSNIŲ]] PAKEITIMO
+[[latest/TAR.61BB05227699|VALSTYBĖS KONTROLĖS ĮSTATYMO]] [[latest/TAR.61BB05227699#^s-dcd0e1c7a41bf2931bf3efaa|2]] IR [[latest/TAR.61BB05227699#^s-44b2c1a4fca48fa297da951b|9]] STRAIPSNIŲ PAKEITIMO
 ĮSTATYMAS
 
 

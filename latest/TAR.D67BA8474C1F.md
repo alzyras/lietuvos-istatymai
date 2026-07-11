@@ -154,7 +154,7 @@ Pakeisti [[#^s-0749f035ca138136b85d79d5|17 straipsnį]] ir jį išdėstyti taip:
 5. Autoriai ar jų teisių paveldėtojai gali perduoti jiems priklausiančią perpardavimo teisę įgyvendinti autorių teisių kolektyvinio administravimo asociacijai. Pirkėjai, pardavėjai arba tarpininkai autoriams arba jiems atstovaujančiai autorių teisių kolektyvinio administravimo asociacijai turi suteikti perpardavimo teisei įgyvendinti reikalingą informaciją. Šios informacijos galima reikalauti trejus metus po perpardavimo. ^s-51e58249bbca37a96a1a0a81
 
 
-6. Perpardavimo teisės galiojimo terminams mutatis mutandis taikomos šio Įstatymo 34 straipsnio 1 dalies, 35 straipsnio 1 ir [[#^s-5314cb31fd681be428bd7d11|2 dalių]] ir 37 straipsnio 1 dalies nuostatos. ^s-26a5dd7def93d251be0233d5
+6. Perpardavimo teisės galiojimo terminams mutatis mutandis taikomos šio Įstatymo 34 straipsnio 1 dalies, 35 straipsnio 1 ir 2 dalių ir 37 straipsnio 1 dalies nuostatos. ^s-26a5dd7def93d251be0233d5
 
 
 7. [[#^s-519700eee47f91ebe5b43b21|Šio straipsnio 1 dalyje]] numatyta perpardavimo teisė trečiųjų šalių autoriams ar jų teisių paveldėtojams Lietuvos Respublikoje taikoma tik tuo atveju, jeigu trečiosios šalies, kuriai priklauso autorius ar jo teisių paveldėtojas, įstatymai numato perpardavimo teisę Lietuvos Respublikos ir kitų Europos Bendrijos narių autoriams ir jų teisių paveldėtojams.“ ^s-ad8feefe3a5e4e5fd506b564
@@ -425,10 +425,10 @@ Autorių teisių, gretutinių teisių ar sui generis teisių pažeidimu laikomi 
 2) paslaugų, susijusių su techninių apsaugos priemonių šalinimu ar vengimu, teikimas. ^s-8fabfe9e8d49ba75b25bc13c
 
 
-5. Šio straipsnio 3 ir [[#^s-06bf84865180619c4214f700|4 dalys]] netaikomos tobulinant ar naudojant bet kokius techninių apsaugos priemonių šalinimo ar vengimo būdus, būtinus šio Įstatymo 30 straipsnio 2 dalyje ir 31 straipsnyje nurodytiems veiksmams atlikti. ^s-992a7e1b247affe73cca8b2a
+5. Šio straipsnio [[#^s-e308f3e174279b03db6263e9|3]] ir [[#^s-06bf84865180619c4214f700|4]] dalys netaikomos tobulinant ar naudojant bet kokius techninių apsaugos priemonių šalinimo ar vengimo būdus, būtinus šio Įstatymo 30 straipsnio 2 dalyje ir 31 straipsnyje nurodytiems veiksmams atlikti. ^s-992a7e1b247affe73cca8b2a
 
 
-6. Šio straipsnio 3 ir [[#^s-06bf84865180619c4214f700|4 dalys]] taip pat taikomos techninėms apsaugos priemonėms, kurios skirtos užtikrinti naudotojų teisę pasinaudoti šio Įstatymo [[#^s-5a4ea73b6a945c6704641da1|75 straipsnio 1 dalyje]] nurodytais teisių apribojimais ir kurias savanoriškai taiko autorių teisių, gretutinių teisių ir sui generis teisių subjektai. ^s-531ec1fe17b20f2d0e34606f
+6. Šio straipsnio [[#^s-e308f3e174279b03db6263e9|3]] ir [[#^s-06bf84865180619c4214f700|4]] dalys taip pat taikomos techninėms apsaugos priemonėms, kurios skirtos užtikrinti naudotojų teisę pasinaudoti šio Įstatymo [[#^s-5a4ea73b6a945c6704641da1|75 straipsnio 1 dalyje]] nurodytais teisių apribojimais ir kurias savanoriškai taiko autorių teisių, gretutinių teisių ir sui generis teisių subjektai. ^s-531ec1fe17b20f2d0e34606f
 
 
 
@@ -524,17 +524,17 @@ Informacijos apie teisių valdymą pažeidimu laikoma bet kokios informacijos ap
 ### 80 straipsnis. Įrodymai ^s-a943cc507b3187e75deb732d
 
 
-1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu Civilinio proceso kodekso nustatyta tvarka gali iš priešingos šalies išreikalauti šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio Įstatymo nustatytų teisių pažeidimas. ^s-540ec21f07325e4e99a8b58f
+1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali iš priešingos šalies išreikalauti šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo šio Įstatymo nustatytų teisių pažeidimas. ^s-540ec21f07325e4e99a8b58f
 
 
-2. Jeigu šio Įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-540ec21f07325e4e99a8b58f|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas Civilinio proceso kodekso nustatyta tvarka iš priešingos šalies gali išreikalauti ir banko, finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-331dd6901b9a17db46a6126e
+2. Jeigu šio Įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra [[#^s-540ec21f07325e4e99a8b58f|šio straipsnio 1 dalyje]] nurodytos sąlygos, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka iš priešingos šalies gali išreikalauti ir banko, finansinius ar komercinius dokumentus, jei garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-331dd6901b9a17db46a6126e
 
 
 
 ### 81 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės ^s-92e5689d55419c29fa046a4e
 
 
-1. Kai yra pakankamas pagrindas įtarti, kad buvo padarytas autorių teisių, gretutinių teisių ar sui generis teisių pažeidimas, teismas Civilinio proceso kodekso nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra: ^s-b6687c140d3080c6f6406c68
+1. Kai yra pakankamas pagrindas įtarti, kad buvo padarytas autorių teisių, gretutinių teisių ar sui generis teisių pažeidimas, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra: ^s-b6687c140d3080c6f6406c68
 
 
 1) uždrausti asmenims daryti gresiantį pagal šį Įstatymą saugomų teisių pažeidimą; ^s-dea8a3cda9a4743f6bae75c2
@@ -552,7 +552,7 @@ Informacijos apie teisių valdymą pažeidimu laikoma bet kokios informacijos ap
 5) areštuoti pagal šį Įstatymą saugomų teisių pažeidimu įtariamų asmenų turtą, kurį turi jie arba tretieji asmenys, įskaitant banko sąskaitas, ypač priemones ir įrangą, kurios, kaip įtariama, daugiausia naudojamos pagal šį Įstatymą saugomas teises pažeidžiančioms kūrinių, kitų saugomų teisių objektų kopijoms, prekėms sukurti ar gaminti; ^s-f17d2f349155a5c5b43fc9c5
 
 
-6) taikyti kitas Civilinio proceso kodekso nustatytas priemones. ^s-3073f00e654a64dfff81aa4d
+6) taikyti kitas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytas priemones. ^s-3073f00e654a64dfff81aa4d
 
 
 2. Jeigu pritaikytos [[#^s-b6687c140d3080c6f6406c68|šio straipsnio 1 dalies]] 1 ir 2 punktuose numatytos laikinosios apsaugos priemonės pažeidžiamos ar šis pažeidimas tęsiamas, teismas gali įpareigoti pažeidimo padarymu įtariamus asmenis pateikti tinkamą žalos kompensavimo užtikrinimą asmeniui, prašiusiam taikyti laikinąsias apsaugos priemones. ^s-26d5923000d27cad81e393d5
@@ -573,16 +573,16 @@ Informacijos apie teisių valdymą pažeidimu laikoma bet kokios informacijos ap
 2) areštuoti ir paimti pagal šį Įstatymą saugomas teises pažeidžiančias kūrinių ir kitų saugomų teisių objektų kopijas, prekes, o prireikus – medžiagas ir priemones, kurios naudojamos jų gamybai ir (arba) platinimui bei su jomis susijusius dokumentus ^s-438c0d2ea9f1b1b354ce7efa
 
 
-3) taikyti kitas laikinąsias priemones, numatytas Civilinio proceso kodekse. ^s-df55e01bb8c598a2a27c22b4
+3) taikyti kitas laikinąsias priemones, numatytas [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). ^s-df55e01bb8c598a2a27c22b4
 
 
-6. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač tais atvejais, kai delsimas galėtų padaryti nepataisomą žalą pareiškėjui arba kai yra įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kai tokios priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, tai yra iš karto tas priemones pritaikius. Atsakovo prašymu, įskaitant jo prašymą būti išklausytam, teismas pritaikytas laikinąsias apsaugos ir įrodymų užtikrinimo priemones gali panaikinti ar pakeisti kitomis Civilinio proceso kodekso nustatyta tvarka. ^s-f0e01b8286e27e65c0a119fc
+6. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač tais atvejais, kai delsimas galėtų padaryti nepataisomą žalą pareiškėjui arba kai yra įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kai tokios priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, tai yra iš karto tas priemones pritaikius. Atsakovo prašymu, įskaitant jo prašymą būti išklausytam, teismas pritaikytas laikinąsias apsaugos ir įrodymų užtikrinimo priemones gali panaikinti ar pakeisti kitomis [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-f0e01b8286e27e65c0a119fc
 
 
 7. Jeigu teismas taikytas laikinąsias apsaugos ar įrodymų užtikrinimo priemones panaikina arba jos tampa nepagrįstomis dėl asmens, kuris kreipėsi dėl tų priemonių taikymo, veikimo ar neveikimo, arba įsiteisėja teismo sprendimas, nustatantis, kad pagal šį Įstatymą saugomų teisių pažeidimo ar pažeidimo grėsmės nebuvo, arba asmuo, kuris kreipėsi dėl laikinųjų apsaugos ar įrodymų užtikrinimo priemonių taikymo, per teismo nustatytą terminą nepareiškia ieškinio, atsakovas turi teisę reikalauti atlyginti žalą, atsiradusią dėl tokių priemonių taikymo. ^s-1e4182e55ac30e7f92f6b495
 
 
-8. Visais kitais su laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymu susijusiais klausimais, kurie nereglamentuoti šiame straipsnyje, taikomos Civilinio proceso kodekso normos. ^s-7d33bba1b27ddd08d87249c8
+8. Visais kitais su laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymu susijusiais klausimais, kurie nereglamentuoti šiame straipsnyje, taikomos [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) normos. ^s-7d33bba1b27ddd08d87249c8
 
 
 
@@ -627,7 +627,7 @@ Informacijos apie teisių valdymą pažeidimu laikoma bet kokios informacijos ap
 ### 84 straipsnis. Neturtinės žalos atlyginimas ^s-ec5b7b8f73053f47fda416d6
 
 
-Šio Įstatymo 14 ir 52 straipsniuose nurodytas autorių ar atlikėjų asmenines neturtines teises pažeidęs asmuo privalo atlyginti neturtinę žalą. Šios žalos dydį pinigais nustato teismas vadovaudamasis Civilinio kodekso normomis, reglamentuojančiomis neturtinės žalos atlyginimą.
+Šio Įstatymo [[#^s-16725b85bab80c18b910487c|14]] ir 52 straipsniuose nurodytas autorių ar atlikėjų asmenines neturtines teises pažeidęs asmuo privalo atlyginti neturtinę žalą. Šios žalos dydį pinigais nustato teismas vadovaudamasis Civilinio kodekso normomis, reglamentuojančiomis neturtinės žalos atlyginimą.
 
 
 
@@ -657,7 +657,7 @@ Sprendimą dėl šio Įstatymo saugomų teisių pažeidimo priimantis teismas š
 ### 87 straipsnis. Administracinė ir baudžiamoji atsakomybė ^s-4bb477ebeb61e7b973150c0e
 
 
-Administracinę ir baudžiamąją atsakomybę už autorių teisių, gretutinių teisių ir sui generis teisių pažeidimus nustato atitinkamai Administracinių teisės pažeidimų kodeksas ir [[latest/TAR.2B866DFF7D43|Baudžiamasis kodeksas]].
+Administracinę ir baudžiamąją atsakomybę už autorių teisių, gretutinių teisių ir sui generis teisių pažeidimus nustato atitinkamai [Administracinių teisės pažeidimų kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) ir [[latest/TAR.2B866DFF7D43|Baudžiamasis kodeksas]].
 
 
 

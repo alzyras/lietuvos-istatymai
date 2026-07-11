@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-85cd476e3831a7912cfe5490
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. kovo 10 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Gruzijos Vyriausybės susitarimą dėl tarptautinio susisiekimo automobiliais“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Gruzijos Vyriausybės susitarimą dėl tarptautinio susisiekimo automobiliais.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. kovo 10 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Gruzijos Vyriausybės susitarimą dėl tarptautinio susisiekimo automobiliais“](https://e-tar.lt/portal/lt/legalAct/TAR.EE82976B6A8D), ratifikuoja Lietuvos Respublikos Vyriausybės ir Gruzijos Vyriausybės susitarimą dėl tarptautinio susisiekimo automobiliais.
 
 
 

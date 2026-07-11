@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.712BBBFA3D41#^s-01e0389549414ba0e1d70457|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 12 IR 28(2) STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.712BBBFA3D41#^s-673373647a7f57dbf0f2f530|Lietuvos Respublikos biudžeto sandaros įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 12 IR 28(2) STRAIPSNIŲ PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.712BBBFA3D41#^s-01e0389549414ba0e1d70457|Lietuvos Respublikos biudžeto sandaros įstatymas]] - LIETUVOS RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 12 IR 28(2) STRAIPSNIŲ PAPILDYMO ĮSTATYMAS

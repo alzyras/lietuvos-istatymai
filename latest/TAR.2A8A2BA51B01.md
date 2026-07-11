@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Tarnybos tęstinumas ^s-9e93c77054e726ce37807694
 
 
-1. Pareigūnai, iki [[latest/TAR.4FC026AC03AE|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo]] (toliau – Statuto patvirtinimo įstatymas) įsigaliojimo tarnavę vidaus reikalų sistemoje arba Lietuvos teisės universiteto (toliau – Universitetas) policijos fakultetuose, Tarnybos vidaus reikalų sistemoje statuto (Žin., 1991, Nr. 25-679; 1992, Nr. 7-205, Nr. 25-738; 1993, Nr. 56-1102; 1998, Nr. 44-1207; 1999, Nr. 21-592; 2000, Nr. 14-363) nustatyta tvarka laikomi vidaus tarnybos sistemos pareigūnais, tarnaujančiais Statuto patvirtinimo įstatymo nustatyta tvarka. ^s-798b2209073d517d6d4d3dfe
+1. Pareigūnai, iki [[latest/TAR.4FC026AC03AE|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo]] (toliau – [[latest/TAR.4FC026AC03AE|Statuto patvirtinimo įstatymas]]) įsigaliojimo tarnavę vidaus reikalų sistemoje arba Lietuvos teisės universiteto (toliau – Universitetas) policijos fakultetuose, Tarnybos vidaus reikalų sistemoje statuto (Žin., 1991, Nr. 25-679; 1992, Nr. 7-205, Nr. 25-738; 1993, Nr. 56-1102; 1998, Nr. 44-1207; 1999, Nr. 21-592; 2000, Nr. 14-363) nustatyta tvarka laikomi vidaus tarnybos sistemos pareigūnais, tarnaujančiais Statuto patvirtinimo įstatymo nustatyta tvarka. ^s-798b2209073d517d6d4d3dfe
 
 
 2. Pareigūnai, kurie įsigaliojus Statuto patvirtinimo įstatymui eina pareigas vidaus reikalų sistemoje neturėdami reikiamo išsilavinimo, negali dalyvauti atrankoje aukštesnėms pareigoms eiti. ^s-81c93fa1835a5f6ed57e2cd7
@@ -54,7 +54,7 @@ Vilnius
 4. Pareigūnai, kurie per [[#^s-d53e34edb4968c5248fa1d26|šio straipsnio 3 dalyje]] nurodytą laiką neįgijo reikiamo išsilavinimo, skiriami į pareigas, atitinkančias jų turimą išsilavinimą, o jei su tuo nesutinka, atleidžiami iš vidaus tarnybos. Ši nuostata netaikoma pareigūnams, kurie įstojo į atitinkamas mokymo įstaigas ir jose mokosi (studijuoja), tačiau dėl pateisinamų priežasčių negali iki nurodyto laiko įgyti reikiamo išsilavinimo. ^s-41192c856923b9556812d498
 
 
-5. Šio straipsnio 3 ir [[#^s-41192c856923b9556812d498|4 dalių]] reikalavimai netaikomi pareigūnams, kurie iki Statuto patvirtinimo įstatymo įsigaliojimo turi ne mažesnį kaip 10 metų vidaus tarnybos stažą. ^s-b716885fdbe9f82e1ac79025
+5. Šio straipsnio [[#^s-d53e34edb4968c5248fa1d26|3]] ir [[#^s-41192c856923b9556812d498|4]] dalių reikalavimai netaikomi pareigūnams, kurie iki Statuto patvirtinimo įstatymo įsigaliojimo turi ne mažesnį kaip 10 metų vidaus tarnybos stažą. ^s-b716885fdbe9f82e1ac79025
 Straipsnio dalies pakeitimai:
 Nr. X-804, 2006-07-19, Žin., 2006, Nr. 87-3412 (2006-08-08), i. k. [[latest/TAR.43029F53D340|1061010ISTA000X-804]]
 

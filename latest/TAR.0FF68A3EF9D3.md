@@ -46,7 +46,7 @@ Vilnius
 1. Papildyti 145 straipsnį nauja 3 dalimi: ^s-3bad2bd9d6fda33671c7e115
 
 
-„3. Teismas dalyvaujančių byloje ar kitų suinteresuotų asmenų prašymu ar savo iniciatyva negali taikyti [[#^s-3bad2bd9d6fda33671c7e115|šio straipsnio 1 dalies]] 6, 7, 12 ir 13 punktuose nustatytų laikinųjų apsaugos priemonių, jei tai yra numatyta kituose įstatymuose, reglamentuojančiuose poveikio priemonių arba finansinio stabilumo ir patikimumo stiprinimo priemonių taikymą bankams.“
+„3. Teismas dalyvaujančių byloje ar kitų suinteresuotų asmenų prašymu ar savo iniciatyva negali taikyti šio straipsnio 1 dalies 6, 7, 12 ir 13 punktuose nustatytų laikinųjų apsaugos priemonių, jei tai yra numatyta kituose įstatymuose, reglamentuojančiuose poveikio priemonių arba finansinio stabilumo ir patikimumo stiprinimo priemonių taikymą bankams.“
 
 
 2. Buvusias 145 straipsnio 3, 4, 5, 6, 7, 8 dalis laikyti atitinkamai 4, 5 , 6, 7, 8, 9 dalimis. ^s-f5816c14e22dfb293625dc17

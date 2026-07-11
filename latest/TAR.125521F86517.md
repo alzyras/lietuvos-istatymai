@@ -55,10 +55,10 @@ Pakeisti 41 straipsnį ir jį išdėstyti taip:
 2. Vežti krovinius krovininiais vidaus vandenų laivais, kurių dedveitas didesnis kaip 200 tonų esant didžiausiajai grimzlei, Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais turi teisę kitos Europos Sąjungos valstybės narės ar Pasaulio prekybos organizacijos valstybės narės fiziniai ir juridiniai asmenys, taip pat kitos Europos Sąjungos valstybės narės ar Pasaulio prekybos organizacijos valstybės narės juridinių asmenų ar kitų organizacijų padaliniai, turintys šios valstybės narės kompetentingų institucijų išduotą dokumentą, suteikiantį teisę vežti krovinius krovininiais vidaus vandenų laivais tarptautiniais vidaus vandenų keliais (toliau – vežėjo dokumentas). ^s-3b0db31c3beb0871237847b8
 
 
-3. Šio straipsnio 1 ir [[#^s-3b0db31c3beb0871237847b8|2 dalių]] reikalavimai netaikomi vežant krovinius keleiviniais ir krovininiais keltais Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais. ^s-339544c621e30b7170bf7cc0
+3. Šio straipsnio [[#^s-98a1b99c0f8327d1fe0ebf8d|1]] ir [[#^s-3b0db31c3beb0871237847b8|2]] dalių reikalavimai netaikomi vežant krovinius keleiviniais ir krovininiais keltais Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais. ^s-339544c621e30b7170bf7cc0
 
 
-4. Šio straipsnio 1 ir [[#^s-3b0db31c3beb0871237847b8|2 dalyse]] nurodyti subjektai, siekiantys verstis krovinių vežimu krovininiais vidaus vandenų laivais Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais, privalo atitikti šiuos reikalavimus: ^s-5dbbcd161d3040a3c4181323
+4. Šio straipsnio [[#^s-98a1b99c0f8327d1fe0ebf8d|1]] ir [[#^s-3b0db31c3beb0871237847b8|2]] dalyse nurodyti subjektai, siekiantys verstis krovinių vežimu krovininiais vidaus vandenų laivais Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais, privalo atitikti šiuos reikalavimus: ^s-5dbbcd161d3040a3c4181323
 
 
 1) užtikrinti, kad laivai, kuriais ketinama vežti krovinius, atitiktų Lietuvos Respublikos ir tarptautinių teisės aktų nustatytus reikalavimus, ir turėti tai patvirtinančius dokumentus; ^s-309a8bc5166d2dd551bcf863
@@ -174,7 +174,7 @@ Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 1. Šis įstatymas įsigalioja 2012 m. liepos 1 d. ^s-c7261723e9623d90b9c0ae00
 
 
-2. Asmenys, iki šio įstatymo įsigaliojimo gavę licenciją verstis krovinių vežimu laivais Lietuvos Respublikoje arba vidaus vandenimis tarptautiniais maršrutais, gali ir toliau vykdyti šią veiklą. Asmens prašymu Lietuvos saugios laivybos administracija turimą licenciją pakeičia šiuo įstatymu keičiamo Lietuvos Respublikos vidaus vandenų transporto kodekso 41 straipsnyje nurodytu leidimu verstis krovinių vežimu krovininiais vidaus vandenų laivais Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais. ^s-9e805f9d53fdfee8502bd78a
+2. Asmenys, iki šio įstatymo įsigaliojimo gavę licenciją verstis krovinių vežimu laivais Lietuvos Respublikoje arba vidaus vandenimis tarptautiniais maršrutais, gali ir toliau vykdyti šią veiklą. Asmens prašymu Lietuvos saugios laivybos administracija turimą licenciją pakeičia šiuo įstatymu keičiamo [Lietuvos Respublikos vidaus vandenų transporto kodekso 41 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F) nurodytu leidimu verstis krovinių vežimu krovininiais vidaus vandenų laivais Lietuvos Respublikos ir tarptautiniais vidaus vandenų keliais. ^s-9e805f9d53fdfee8502bd78a
 
 
 

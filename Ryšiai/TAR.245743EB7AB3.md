@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos sveikatos draudimo įstatymo įgyvendinimo į
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.94F6B680E8B8|Lietuvos Respublikos sveikatos draudimo įstatymas]] - 2 citatos - Sveikatos draudimo įstatymas
+- [[latest/TAR.94F6B680E8B8|Lietuvos Respublikos sveikatos draudimo įstatymas]] - 3 citatos - Sveikatos draudimo įstatymas
 
 ## Šį įstatymą cituoja
 

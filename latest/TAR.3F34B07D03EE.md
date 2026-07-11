@@ -57,7 +57,7 @@ Vilnius
 ### 3 straipsnis. 70 straipsnio pakeitimas ^s-c7b0cc5635103d63fa623f03
 
 
-70 straipsnio pavadinimą pakeisti, [[#^s-654d3a4eb3044fdca877cd7a|1 dalyje]] po žodžio „skiriamas“ įrašyti žodžius „ir atleidžiamas“, [[#^s-f6a22521650aaed400b0f5ce|3 dalyje]] vietoj žodžių „Į darbą, susijusį su branduolinių įrenginių valdymu ar branduolinių ir radioaktyviųjų medžiagų tvarkymu, negali būti priimami“ įrašyti žodžius „Branduolinės energetikos objektuose negali dirbti“, dalį papildyti 5 punktu, [[#^s-d674b23de9203bdef68e89f9|4 dalį]] pripažinti netekusia galios, buvusias 5 ir 6 dalis laikyti atitinkamai 4 ir [[#^s-facc6512f9e7ecdabb01a20d|5 dalimis]], [[#^s-facc6512f9e7ecdabb01a20d|5 dalį]] pakeisti ir šį straipsnį išdėstyti taip:
+70 straipsnio pavadinimą pakeisti, [[#^s-654d3a4eb3044fdca877cd7a|1 dalyje]] po žodžio „skiriamas“ įrašyti žodžius „ir atleidžiamas“, [[#^s-f6a22521650aaed400b0f5ce|3 dalyje]] vietoj žodžių „Į darbą, susijusį su branduolinių įrenginių valdymu ar branduolinių ir radioaktyviųjų medžiagų tvarkymu, negali būti priimami“ įrašyti žodžius „Branduolinės energetikos objektuose negali dirbti“, dalį papildyti 5 punktu, [[#^s-d674b23de9203bdef68e89f9|4 dalį]] pripažinti netekusia galios, buvusias [[#^s-facc6512f9e7ecdabb01a20d|5]] ir 6 dalis laikyti atitinkamai [[#^s-d674b23de9203bdef68e89f9|4]] ir [[#^s-facc6512f9e7ecdabb01a20d|5]] dalimis, [[#^s-facc6512f9e7ecdabb01a20d|5 dalį]] pakeisti ir šį straipsnį išdėstyti taip:
 
 
 „70 straipsnis. Darbo sutarties apribojimai
@@ -90,7 +90,7 @@ Vilnius
 4. Į darbą branduolinės energetikos objektuose asmenys priimami tik suderinus jų kandidatūras su Valstybės saugumo departamentu. ^s-d674b23de9203bdef68e89f9
 
 
-5. Asmenys, kurių darbas susijęs su Lietuvos Respublikos valstybės paslaptį sudarančių žinių naudojimu ir apsauga, negali dirbti branduolinės energetikos objektuose, jeigu neturi Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymo nustatyta tvarka išduoto leidimo dirbti su valstybės paslaptį sudarančiomis žiniomis. Jeigu toks leidimas Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymo nustatyta tvarka anuliuojamas, asmuo atleidžiamas iš darbo (tarnybos).“ ^s-facc6512f9e7ecdabb01a20d
+5. Asmenys, kurių darbas susijęs su Lietuvos Respublikos valstybės paslaptį sudarančių žinių naudojimu ir apsauga, negali dirbti branduolinės energetikos objektuose, jeigu neturi [Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A91A47D46C52) nustatyta tvarka išduoto leidimo dirbti su valstybės paslaptį sudarančiomis žiniomis. Jeigu toks leidimas [Lietuvos Respublikos valstybės paslapčių ir jų apsaugos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A91A47D46C52) nustatyta tvarka anuliuojamas, asmuo atleidžiamas iš darbo (tarnybos).“ ^s-facc6512f9e7ecdabb01a20d
 
 
 Skelbiu šį Lietuvos Respublikos Seimo priimtą įstatymą.

@@ -386,7 +386,7 @@ PROFESINIO MOKYMO ORGANIZAVIMAS IR KOKYBĖ
 1. Profesinio mokymo teikėjai, išskyrus vidaus reikalų profesinio mokymo teikėjus, profesinio mokymo teikėjus, vykdančius asmenų, kuriems taikomi Užimtumo rėmimo ir Neįgaliųjų socialinės integracijos įstatymai, atsižvelgę į darbo rinkos poreikius, paraiškas dėl priėmimo į valstybės finansuojamas profesinio mokymo programas pirmajai kvalifikacijai įgyti teikia apskrities viršininkui. ^s-7675631826b6731ede623104
 
 
-2. Asmenų, išskyrus asmenis, kuriems taikomas Užimtumo rėmimo įstatymas, Neįgaliųjų socialinės integracijos įstatymas ar [[latest/TAR.4FC026AC03AE|Vidaus tarnybos statuto patvirtinimo įstatymas]], pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas profesinio mokymo programas planą tvirtina švietimo ir mokslo ministras, gavęs su apskrities profesinio mokymo taryba suderintą apskrities viršininko paraišką, o į vidaus reikalų profesinio mokymo įstaigų vykdomas programas – vidaus reikalų ministras. ^s-eaaceec79c9ab232f62b1236
+2. Asmenų, išskyrus asmenis, kuriems taikomas [Užimtumo rėmimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5), Neįgaliųjų socialinės integracijos įstatymas ar [[latest/TAR.4FC026AC03AE|Vidaus tarnybos statuto patvirtinimo įstatymas]], pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas profesinio mokymo programas planą tvirtina švietimo ir mokslo ministras, gavęs su apskrities profesinio mokymo taryba suderintą apskrities viršininko paraišką, o į vidaus reikalų profesinio mokymo įstaigų vykdomas programas – vidaus reikalų ministras. ^s-eaaceec79c9ab232f62b1236
 
 
 3. Asmenų, pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į valstybinę ar savivaldybės profesinę mokyklą – biudžetinę įstaigą – tvarką nustato mokyklos steigėjas, į valstybinę ar savivaldybės profesinę mokyklą – viešąją įstaigą – visuotinis dalininkų susirinkimas (savininkas), vadovaudamasis švietimo ir mokslo ministro patvirtintais bendraisiais priėmimo kriterijais. ^s-86047da27bb8a0a9eb96cb64
@@ -599,7 +599,7 @@ PROFESINIO MOKYMO VALDYMAS. SAVIVALDA
 5) skelbia informaciją apie profesinio mokymo įstaigų vykdomas formaliojo profesinio mokymo programas, jas vykdančius ir turinčius licencijas jas vykdyti profesinio mokymo teikėjus; ^s-7fdcb2eca78dcb162c8fb13a
 
 
-6) tvirtina asmenų, išskyrus asmenis, kuriems taikomas Užimtumo rėmimo įstatymas, Neįgaliųjų socialinės integracijos įstatymas ar [[latest/TAR.4FC026AC03AE|Vidaus tarnybos statuto patvirtinimo įstatymas]], pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas profesinio mokymo programas planą; ^s-9d58adfa23a4e76e4efee970
+6) tvirtina asmenų, išskyrus asmenis, kuriems taikomas [Užimtumo rėmimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5), Neįgaliųjų socialinės integracijos įstatymas ar [[latest/TAR.4FC026AC03AE|Vidaus tarnybos statuto patvirtinimo įstatymas]], pageidaujančių įgyti pirmąją kvalifikaciją, priėmimo į valstybės finansuojamas profesinio mokymo programas planą; ^s-9d58adfa23a4e76e4efee970
 
 
 7) tvirtina asmenų priėmimo į valstybines ir savivaldybių profesines mokyklas bendruosius kriterijus; ^s-8b012f485154c8632f702f80
@@ -926,7 +926,7 @@ Profesinis mokymas finansuojamas iš:
 5. Įmonės, įstaigos, ūkininko ūkio darbuotojų tęstinis profesinis mokymas vykdomas įmonės, įstaigos, ūkininko ūkio arba besimokančiųjų lėšomis. Teisės aktų nustatyta tvarka įmonės, įstaigos ar ūkininko ūkio darbuotojų mokymui gali būti skiriama ir valstybės biudžeto lėšų. ^s-78df2d5595b257d121fbf4be
 
 
-6. Bedarbių ir įspėtų apie atleidimą iš darbo asmenų profesinis mokymas finansuojamas Užimtumo rėmimo įstatymo nustatyta tvarka. ^s-0e5cd0ecd9ea4d528b9e0875
+6. Bedarbių ir įspėtų apie atleidimą iš darbo asmenų profesinis mokymas finansuojamas [Užimtumo rėmimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4C18D17F9BA5) nustatyta tvarka. ^s-0e5cd0ecd9ea4d528b9e0875
 
 
 7. Asmens kompetencijoms vertinti lėšų skiriama taikant Vyriausybės patvirtintą lėšų skaičiavimo vienam asmeniui metodiką. Lėšos skirstomos vadovaujantis Socialinės apsaugos ir darbo ministerijos nustatyta ir su Švietimo ir mokslo ministerija suderinta lėšų paskirstymo tvarka. ^s-0ceb03392118825929ec845f

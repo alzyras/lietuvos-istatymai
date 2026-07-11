@@ -38,32 +38,32 @@ Vilnius
 ### 1 straipsnis. 40 straipsnio pakeitimas ^s-69fb0d7d33f8fb492aa10ae0
 
 
-1. Papildyti 40 straipsnį nauju 13 punktu: ^s-2060a2eb66ec4b20041ef72d
+1. Papildyti [[latest/TAR.3EB34933E485#^s-e339c32b332114febd333a54|40 straipsnį]] nauju [[latest/TAR.3EB34933E485|13 punktu]]: ^s-2060a2eb66ec4b20041ef72d
 
 
 „13) Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatytais atvejais, būdais ir tvarka fiksuoti atsiskaitymų už parduodamas prekes (kai prekės superkamos, – superkamas prekes) ir teikiamas paslaugas duomenis;“.
 
 
-2. Buvusį 40 straipsnio 13 punktą laikyti 14 punktu. ^s-00535d866d31fd9416cf9586
+2. Buvusį [[latest/TAR.3EB34933E485#^s-9e55ca184ae309dc4afc3975|40 straipsnio 13 punktą]] laikyti [[latest/TAR.3EB34933E485|14 punktu]]. ^s-00535d866d31fd9416cf9586
 
 
-3. Papildyti 40 straipsnį nauju 14 punktu: ^s-365ff86679499edc018a7cfc
+3. Papildyti [[latest/TAR.3EB34933E485#^s-e339c32b332114febd333a54|40 straipsnį]] nauju [[latest/TAR.3EB34933E485|14 punktu]]: ^s-365ff86679499edc018a7cfc
 
 
 „14) šio Įstatymo 424 straipsnyje nustatyta tvarka teikti Valstybinei mokesčių inspekcijai šio straipsnio 13 punkte nurodytus duomenis;“.
 
 
-4. Buvusį 40 straipsnio 14 punktą laikyti 15 punktu. ^s-cb1707f4ed1c9c9fdc6c94bf
+4. Buvusį [[latest/TAR.3EB34933E485#^s-53ab6cb0a86ddbbec119c302|40 straipsnio 14 punktą]] laikyti [[latest/TAR.3EB34933E485|15 punktu]]. ^s-cb1707f4ed1c9c9fdc6c94bf
 
 
 
 ### 2 straipsnis. Įstatymo papildymas 424 straipsniu ^s-0e31c1c73499485ff560c776
 
 
-Papildyti Įstatymą 424 straipsniu:
+Papildyti Įstatymą [[latest/TAR.3EB34933E485#^s-52f179892f505aa5cafa4348|424 straipsniu]]:
 
 
-„424 straipsnis. Atsiskaitymų už parduodamas prekes (kai prekės superkamos, – superkamas prekes) ir teikiamas paslaugas duomenų teikimas
+„[[latest/TAR.3EB34933E485#^s-52f179892f505aa5cafa4348|424 straipsnis]]. Atsiskaitymų už parduodamas prekes (kai prekės superkamos, – superkamas prekes) ir teikiamas paslaugas duomenų teikimas
 
 
 1. Mokesčių mokėtojai privalo teikti Valstybinei mokesčių inspekcijai atsiskaitymų už parduodamas prekes (kai prekės superkamos, – superkamas prekes) ir teikiamas paslaugas duomenis. ^s-29b833224d490b764ee07c1a
@@ -76,7 +76,7 @@ Papildyti Įstatymą 424 straipsniu:
 ### 3 straipsnis. Įstatymo įsigaliojimas, įgyvendinimas ir taikymas ^s-b8115a4071c93e153ce179b2
 
 
-1. Šis įstatymas, išskyrus [[#^s-69fb0d7d33f8fb492aa10ae0|1 straipsnio]] 1 ir [[#^s-15b7bb346d3b956ac1dfdf3e|2 dalis]] ir [[#^s-15b7bb346d3b956ac1dfdf3e|šio straipsnio 2 dalį]], įsigalioja 2023 m. sausio 1 d. ^s-6c0d33d47e848e1881eb27f7
+1. Šis įstatymas, išskyrus [[#^s-69fb0d7d33f8fb492aa10ae0|1 straipsnio]] [[#^s-2060a2eb66ec4b20041ef72d|1]] ir [[#^s-00535d866d31fd9416cf9586|2]] dalis ir [[#^s-15b7bb346d3b956ac1dfdf3e|šio straipsnio 2 dalį]], įsigalioja 2023 m. sausio 1 d. ^s-6c0d33d47e848e1881eb27f7
 
 
 2. Centrinis mokesčių administratorius iki 2022 m. lapkričio 1 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-15b7bb346d3b956ac1dfdf3e
@@ -88,10 +88,10 @@ Papildyti Įstatymą 424 straipsniu:
 4. Pridėtinės vertės mokesčio mokėtojai, kurių 2021 metų pajamos, kaip tai suprantama pagal Pelno mokesčio įstatymą, viršija 300 000 eurų (išskyrus [[#^s-987a7981e440af962d3d72f3|šio straipsnio 3 dalyje]] nurodytus mokesčių mokėtojus), Valstybinei mokesčių inspekcijai šio įstatymo [[#^s-0e31c1c73499485ff560c776|2 straipsnyje]] išdėstyto [[latest/TAR.3EB34933E485#^s-11ace49eed22990baa0cf29f|Mokesčių administravimo įstatymo 424 straipsnio 1 dalyje]] nurodytus duomenis pradeda teikti 2023 m. lapkričio 1 d. ^s-1b8fe81212c54ab8d1b76f9c
 
 
-5. Mokesčių mokėtojai, kurie naudoja iki 2019 m. balandžio 30 d. išbrauktus iš Lietuvos Respublikoje leidžiamų naudoti kasos aparatų ir prekybos (paslaugų teikimo) automatų modelių sąrašo, patvirtinto Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko 2003 m. balandžio 16 d. įsakymu Nr. V-137 „Dėl Lietuvos Respublikoje leidžiamų naudoti kasos aparatų ir prekybos (paslaugų teikimo) automatų modelių sąrašo bei Kasos aparatų ir prekybos (paslaugų teikimo) automatų modelių įtraukimo į šį sąrašą taisyklių patvirtinimo“, modelių kasos aparatus (išskyrus šio straipsnio 3 ir [[#^s-1b8fe81212c54ab8d1b76f9c|4 dalyse]] nurodytus mokesčių mokėtojus), Valstybinei mokesčių inspekcijai šio įstatymo [[#^s-0e31c1c73499485ff560c776|2 straipsnyje]] išdėstyto [[latest/TAR.3EB34933E485#^s-11ace49eed22990baa0cf29f|Mokesčių administravimo įstatymo 424 straipsnio 1 dalyje]] nurodytus duomenis pradeda teikti 2024 m. gegužės 1 d. ^s-d098d59db7b749fff17a6f4f
+5. Mokesčių mokėtojai, kurie naudoja iki 2019 m. balandžio 30 d. išbrauktus iš Lietuvos Respublikoje leidžiamų naudoti kasos aparatų ir prekybos (paslaugų teikimo) automatų modelių sąrašo, patvirtinto Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos viršininko [2003 m. balandžio 16 d. įsakymu Nr. V-137](https://e-tar.lt/portal/lt/legalAct/TAR.ECCB98F18EFC) [„Dėl Lietuvos Respublikoje leidžiamų naudoti kasos aparatų ir prekybos (paslaugų teikimo) automatų modelių sąrašo bei Kasos aparatų ir prekybos (paslaugų teikimo) automatų modelių įtraukimo į šį sąrašą taisyklių patvirtinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.ECCB98F18EFC), modelių kasos aparatus (išskyrus šio straipsnio [3](https://e-tar.lt/portal/lt/legalAct/TAR.ECCB98F18EFC) ir [4](https://e-tar.lt/portal/lt/legalAct/TAR.ECCB98F18EFC) dalyse nurodytus mokesčių mokėtojus), Valstybinei mokesčių inspekcijai šio įstatymo [[#^s-0e31c1c73499485ff560c776|2 straipsnyje]] išdėstyto [[latest/TAR.3EB34933E485#^s-11ace49eed22990baa0cf29f|Mokesčių administravimo įstatymo 424 straipsnio 1 dalyje]] nurodytus duomenis pradeda teikti 2024 m. gegužės 1 d. ^s-d098d59db7b749fff17a6f4f
 
 
-6. Kiti mokesčių mokėtojai (išskyrus šio straipsnio 3, 4 ir [[#^s-d098d59db7b749fff17a6f4f|5 dalyse]] nurodytus mokesčių mokėtojus) Valstybinei mokesčių inspekcijai šio įstatymo [[#^s-0e31c1c73499485ff560c776|2 straipsnyje]] išdėstyto [[latest/TAR.3EB34933E485#^s-11ace49eed22990baa0cf29f|Mokesčių administravimo įstatymo 424 straipsnio 1 dalyje]] nurodytus duomenis pradeda teikti 2025 m. gegužės 1 d. ^s-865c7aa5817c2188db4332d8
+6. Kiti mokesčių mokėtojai (išskyrus šio straipsnio [[#^s-987a7981e440af962d3d72f3|3]], [[#^s-1b8fe81212c54ab8d1b76f9c|4]] ir [[#^s-d098d59db7b749fff17a6f4f|5]] dalyse nurodytus mokesčių mokėtojus) Valstybinei mokesčių inspekcijai šio įstatymo [[#^s-0e31c1c73499485ff560c776|2 straipsnyje]] išdėstyto [[latest/TAR.3EB34933E485#^s-11ace49eed22990baa0cf29f|Mokesčių administravimo įstatymo 424 straipsnio 1 dalyje]] nurodytus duomenis pradeda teikti 2025 m. gegužės 1 d. ^s-865c7aa5817c2188db4332d8
 
 
 

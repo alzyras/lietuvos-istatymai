@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos visuomenės informavimo įstatymo 2, 5, 19, 2
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.065AB8483E1E|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Visuomenės informavimo įstatymo 401 straipsnio 2 dalies 4 punktas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.065AB8483E1E#^s-8c5fd240e1a4daedec3dc6e5|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Įstatymas Nr. XI-1453
-- [[latest/TAR.065AB8483E1E#^s-ab71ed55152049872cec1e28|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Įstatymas Nr. XI-1453
+_Nėra._

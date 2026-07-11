@@ -9,10 +9,10 @@ pavadinimas: "Lietuvos Respublikos dokumentų ir archyvų įstatymo 1, 2, 4, 5, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - Lietuvos Respublikos dokumentų ir archyvų įstatymo
-- [[latest/TAR.41CD8BF53D8D|Lietuvos Respublikos rinkliavų įstatymas]] - 2 citatos - Lietuvos Respublikos rinkliavų įstatymo
-- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Statybos įstatymo
-- [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymas]] - 2 citatos - Vyriausybės įstatymo
+- [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - archyvų įstatymo
+- [[latest/TAR.41CD8BF53D8D|Lietuvos Respublikos rinkliavų įstatymas]] - Lietuvos Respublikos rinkliavų įstatymo
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - Statybos įstatymo
+- [[latest/TAR.96A68BFC9E82|Lietuvos Respublikos Vyriausybės įstatymas]] - Vyriausybės įstatymo
 
 ## Šį įstatymą cituoja
 
@@ -24,26 +24,15 @@ pavadinimas: "Lietuvos Respublikos dokumentų ir archyvų įstatymo 1, 2, 4, 5, 
 - [[latest/TAR.1FEF229DA7C6#^s-3161f1ba6ed1676ac008ae0c|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-377c1d5fb03e43f99435db6f|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-37c6e780e9e2eb4f7a3884e7|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-395844668e56e98f2019fdcb|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-46fb2aa7f46b887e7b15665e|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-4a2a1f4eaeeb609253470949|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 3 citatos - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-526d11291cd596e336b5fe0e|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-5d8d2638d80a1d116b70e260|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-619d33c99173feb3744c9ce8|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-654a50db388f2619c376253d|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-65a026717ec16c7dd8161e42|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-6641196a5ee42314572b3f25|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-6a5fdccb74efcb59616e68d3|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-70f17b6cb5c505f56ba83255|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-75cf224231941fd12b9e5d40|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-767cc18ec242e9699c126fca|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-7922d3631498745083d40ce1|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-7a86e0d40ccddbac7ba7d63e|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-7ba62874762606807a014479|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-7e5e589464d15da8acfe0834|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-83e10325694d04073967277b|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-878a69eee787fbbf106c6519|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-8a171d9aa05ab3aec4876a1d|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-8a54c9d9af3520018afc6689|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-8aa4ba97f1eefcf39c0f2e9b|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-8bc914e9a62c10a3da2e604b|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
@@ -55,11 +44,8 @@ pavadinimas: "Lietuvos Respublikos dokumentų ir archyvų įstatymo 1, 2, 4, 5, 
 - [[latest/TAR.1FEF229DA7C6#^s-beca79397c1ebdb19b7b518a|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-cfd7a936bb5f60c053b8a2a6|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-d15536ccfd2fd715a2dfdbf8|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-d48ae2aae46430a27c58a0ae|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-dcecb33852df228524172003|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-dfedc1557c9303fb8ab5a091|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-f2ed8eaf4a9a00f55e8de959|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-fb9bc0cb4f3267de7026545b|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-fbf5f8ca8344d2227be5ab6f|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 3 citatos - 1101010ISTA00XI-917
-- [[latest/TAR.1FEF229DA7C6#^s-fd3fccff1e59bf59b5174885|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917
+- [[latest/TAR.1FEF229DA7C6#^s-fbf5f8ca8344d2227be5ab6f|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 2 citatos - 1101010ISTA00XI-917
 - [[latest/TAR.1FEF229DA7C6#^s-fd70fb48fde8b5a37b09362b|Lietuvos Respublikos dokumentų ir archyvų įstatymas]] - 1101010ISTA00XI-917

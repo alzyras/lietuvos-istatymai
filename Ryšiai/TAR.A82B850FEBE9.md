@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos viešųjų įstaigų įstatymo 2, 4, 5, 7, 9,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.3A756D83A99B|Lietuvos Respublikos biudžetinių įstaigų įstatymas]] - 2 citatos - Biudžetinių įstaigų įstatymo
+- [[latest/TAR.3A756D83A99B|Lietuvos Respublikos biudžetinių įstaigų įstatymas]] - Biudžetinių įstaigų įstatymo
 
 ## Šį įstatymą cituoja
 

@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.72C31F8DD98E#^s-ab7f6160773453845af7b8e9|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - 2 citatos - NEKILNOJAMOJO TURTO KADASTRO ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.72C31F8DD98E#^s-ab7f6160773453845af7b8e9|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - NEKILNOJAMOJO TURTO KADASTRO ĮSTATYMO 8 STRAIPSNIO PAKEITIMO ĮSTATYMAS

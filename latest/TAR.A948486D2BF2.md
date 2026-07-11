@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-a0b9f4a8ed21a043ffded94b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2001 m. liepos 3 d. dekretą Nr. 1403, ratifikuoja Lietuvos Respublikos ir Vengrijos Respublikos sutartį dėl bendradarbiavimo ir abipusės pagalbos katastrofų ir didelių avarijų atvejais, pasirašytą 2001 m. gegužės 4 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2001 m. liepos 3 d. dekretą Nr. 1403](https://e-tar.lt/portal/lt/legalAct/TAR.CAAECFD5C050), ratifikuoja Lietuvos Respublikos ir Vengrijos Respublikos sutartį dėl bendradarbiavimo ir abipusės pagalbos katastrofų ir didelių avarijų atvejais, pasirašytą 2001 m. gegužės 4 d. Vilniuje.
 
 
 

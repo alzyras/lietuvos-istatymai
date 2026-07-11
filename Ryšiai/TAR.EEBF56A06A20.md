@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.075D49C59279#^s-f3d9ec0b6214bdca8f9da877|Lietuvos Respublikos žemės reformos įstatymas]] - 2 citatos - Įstatymas Nr. XI-2408
-- [[latest/TAR.075D49C59279#^s-fd93d558e29561f60c2cba71|Lietuvos Respublikos žemės reformos įstatymas]] - 2 citatos - Įstatymas Nr. XI-2408
+- [[latest/TAR.075D49C59279#^s-f3d9ec0b6214bdca8f9da877|Lietuvos Respublikos žemės reformos įstatymas]] - ŽEMĖS REFORMOS ĮSTATYMO 8 IR 21 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

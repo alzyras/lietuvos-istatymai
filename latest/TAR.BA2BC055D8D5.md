@@ -81,13 +81,13 @@ Vilnius
 6. 3 straipsnio 27 dalies 2 punkte po žodžio „liekanos“ įrašyti žodžius „(tabako lapų liekanos ir šalutiniai produktai, gauti apdorojant tabaką ir gaminant tabako produktus)“ ir šį punktą išdėstyti taip: ^s-d20ddf83f252b339ed7f6a14
 
 
-„2) mažmeninei prekybai skirtos tabako liekanos (tabako lapų liekanos ir šalutiniai produktai, gauti apdorojant tabaką ir gaminant tabako produktus), nepriskirtinos prie šio straipsnio 10 ir 11 dalyse nurodytų produktų, jeigu jos gali būti rūkomos.“
+„2) mažmeninei prekybai skirtos tabako liekanos (tabako lapų liekanos ir šalutiniai produktai, gauti apdorojant tabaką ir gaminant tabako produktus), nepriskirtinos prie šio straipsnio [[#^s-f4bd840a45cd1c1eda1413ee|10]] ir 11 dalyse nurodytų produktų, jeigu jos gali būti rūkomos.“
 
 
 7. 3 straipsnio 28 dalyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šią dalį išdėstyti taip: ^s-c1064b52f887c41059a6b1d8
 
 
-„28. Sąlyginio neapmokestinimo muitinės procedūra arba priemonė – viena iš Bendrijos muitinės kodekse nustatytų specialiųjų muitinės vykdomos priežiūros procedūrų, kuri taikoma ne Europos Sąjungos prekėms, įvežamoms į Europos Sąjungos muitų teritoriją, laikino saugojimo vietą, laisvąsias zonas ar laisvuosius sandėlius, taip pat bet kuri iš Bendrijos muitinės kodekso 84 straipsnio 1 dalies a punkte nurodytų muitinės priemonių.“
+„28. Sąlyginio neapmokestinimo muitinės procedūra arba priemonė – viena iš Bendrijos [muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nustatytų specialiųjų muitinės vykdomos priežiūros procedūrų, kuri taikoma ne Europos Sąjungos prekėms, įvežamoms į Europos Sąjungos muitų teritoriją, laikino saugojimo vietą, laisvąsias zonas ar laisvuosius sandėlius, taip pat bet kuri iš Bendrijos [muitinės kodekso 84 straipsnio 1 dalies](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) a punkte nurodytų muitinės priemonių.“
 
 
 8. 3 straipsnio 31 dalyje vietoj žodžio „Bendrijų“ įrašyti žodį „Sąjungos“ ir šią dalį išdėstyti taip: ^s-bd32ce6e9d7a9f377b8d39b1
@@ -115,7 +115,7 @@ Vilnius
 1. [[#^s-38cb29e0cb89378a846f1566|9 straipsnio 2 dalyje]] vietoj žodžių „Bendrijos“ įrašyti žodžius „Europos Sąjungos“, vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šią dalį išdėstyti taip: ^s-8565ebaa88db51046b573edc
 
 
-„2. Be [[#^s-8565ebaa88db51046b573edc|šio straipsnio 1 dalyje]] nurodytų atvejų, prievolė mokėti akcizus atsiranda už Lietuvos Respublikoje importuojamas (įskaitant neteisėto importo atvejus) akcizais apmokestinamas prekes, išskyrus importuojamas akcizais apmokestinamas prekes, registruoto siuntėjo išgabentas į bet kurią šio įstatymo [[#^s-700c8d213f72e5e7773d7bf3|14 straipsnio 1 dalyje]] ir [[#^s-6df600fc5773a12dbfc2240a|15 straipsnio 1 dalyje]] nurodytą paskirties vietą, taip pat importuojamas akcizais apmokestinamas prekes, nugabenamas į akcizais apmokestinamų prekių sandėlį. Importuotų akcizais apmokestinamų prekių, registruoto siuntėjo išgabentų į šio įstatymo [[#^s-700c8d213f72e5e7773d7bf3|14 straipsnio 1 dalyje]] ir [[#^s-6df600fc5773a12dbfc2240a|15 straipsnio 1 dalyje]] nurodytas paskirties vietas, taip pat importuotų akcizais apmokestinamų prekių nugabenimo į akcizais apmokestinamų prekių sandėlį tvarką nustato Vyriausybė ar jos įgaliota institucija. Laikoma, kad akcizais apmokestinamos prekės importuojamos Lietuvos Respublikoje, kai:
+„2. Be šio straipsnio 1 dalyje nurodytų atvejų, prievolė mokėti akcizus atsiranda už Lietuvos Respublikoje importuojamas (įskaitant neteisėto importo atvejus) akcizais apmokestinamas prekes, išskyrus importuojamas akcizais apmokestinamas prekes, registruoto siuntėjo išgabentas į bet kurią šio įstatymo [[#^s-700c8d213f72e5e7773d7bf3|14 straipsnio 1 dalyje]] ir [[#^s-6df600fc5773a12dbfc2240a|15 straipsnio 1 dalyje]] nurodytą paskirties vietą, taip pat importuojamas akcizais apmokestinamas prekes, nugabenamas į akcizais apmokestinamų prekių sandėlį. Importuotų akcizais apmokestinamų prekių, registruoto siuntėjo išgabentų į šio įstatymo [[#^s-700c8d213f72e5e7773d7bf3|14 straipsnio 1 dalyje]] ir [[#^s-6df600fc5773a12dbfc2240a|15 straipsnio 1 dalyje]] nurodytas paskirties vietas, taip pat importuotų akcizais apmokestinamų prekių nugabenimo į akcizais apmokestinamų prekių sandėlį tvarką nustato Vyriausybė ar jos įgaliota institucija. Laikoma, kad akcizais apmokestinamos prekės importuojamos Lietuvos Respublikoje, kai:
 
 
 1) ne Europos Sąjungos prekės yra Lietuvos Respublikos teritorijoje tuo metu, kai jos įvežamos į Europos Sąjungos teritoriją. Jeigu į Europos Sąjungos teritoriją įvežtos ne Europos Sąjungos prekės ne išleidžiamos į laisvą apyvartą, o joms pradedama taikyti sąlyginio neapmokestinimo procedūra arba priemonė, laikoma, kad ne Europos Sąjungos prekės yra importuotos Lietuvos Respublikos teritorijoje tuo atveju, jeigu, nustojus taikyti šias procedūras arba priemones, prekės yra Lietuvos Respublikos teritorijoje; ^s-91578f223ab66f5d6ce5fb8d
@@ -127,7 +127,7 @@ Vilnius
 2. [[#^s-c81dfd6088570d3546f5d27a|9 straipsnio 3 dalyje]] vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šią dalį išdėstyti taip: ^s-d737816ab9c4f95147c5260c
 
 
-„3. Prievolė mokėti akcizus už [[#^s-8565ebaa88db51046b573edc|šio straipsnio 1 dalyje]] nurodytas prekes atsiranda tuo metu, kai susidaro [[#^s-8565ebaa88db51046b573edc|šio straipsnio 1 dalyje]] nurodytos aplinkybės. Prievolė mokėti akcizus už [[#^s-d737816ab9c4f95147c5260c|šio straipsnio 2 dalyje]] nurodytas prekes, kurioms pagal Europos Sąjungos atitinkamus teisės aktus yra taikomi importo muitai, žemės ūkio ar kitos rinkliavos, nustatytos Europos Sąjungos mastu, atsiranda tuo metu, kai pagal atitinkamus teisės aktus atsiranda prievolė už jas apskaičiuoti importo muitus, žemės ūkio ar kitas rinkliavas. Jeigu [[#^s-d737816ab9c4f95147c5260c|šio straipsnio 2 dalyje]] nurodytoms prekėms netaikomi jokie importo muitai, žemės ūkio ar kitos rinkliavos, prievolė mokėti akcizus už jas atsiranda tada, jeigu pagal atitinkamas Bendrijos muitinės kodekso nuostatas atsirastų importo skola muitinei ir jeigu šioms prekėms šie muitai ar rinkliavos būtų nustatyti.“
+„3. Prievolė mokėti akcizus už [[#^s-8565ebaa88db51046b573edc|šio straipsnio 1 dalyje]] nurodytas prekes atsiranda tuo metu, kai susidaro [[#^s-8565ebaa88db51046b573edc|šio straipsnio 1 dalyje]] nurodytos aplinkybės. Prievolė mokėti akcizus už šio straipsnio 2 dalyje nurodytas prekes, kurioms pagal Europos Sąjungos atitinkamus teisės aktus yra taikomi importo muitai, žemės ūkio ar kitos rinkliavos, nustatytos Europos Sąjungos mastu, atsiranda tuo metu, kai pagal atitinkamus teisės aktus atsiranda prievolė už jas apskaičiuoti importo muitus, žemės ūkio ar kitas rinkliavas. Jeigu šio straipsnio 2 dalyje nurodytoms prekėms netaikomi jokie importo muitai, žemės ūkio ar kitos rinkliavos, prievolė mokėti akcizus už jas atsiranda tada, jeigu pagal atitinkamas Bendrijos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nuostatas atsirastų importo skola muitinei ir jeigu šioms prekėms šie muitai ar rinkliavos būtų nustatyti.“
 
 
 
@@ -153,7 +153,7 @@ Vilnius
 1. [[#^s-db86195249b204e72fb0fe5f|15 straipsnio 3 dalyje]] vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šią dalį išdėstyti taip: ^s-7537d21c642ce6d8784936b0
 
 
-„3. Tuo atveju, kai akcizais apmokestinamos prekės eksportuojamos per vieną ar per kelias kitas valstybes nares, vietos mokesčių administratoriaus įgalioti asmenys parengtą elektroninį vežimo dokumentą turi išsiųsti valstybės narės, kurioje pateikta eksporto deklaracija taikant Bendrijos muitinės kodekso nuostatas, kompetentingoms institucijoms. Iš valstybės narės, iš kurios akcizais apmokestinamos prekės išgabenamos iš Europos Sąjungos teritorijos, kompetentingų institucijų gautą pranešimą, kuriuo patvirtinamas akcizais apmokestinamų prekių išgabenimo iš Europos Sąjungos teritorijos faktas (toliau – pranešimas apie eksportą), vietos mokesčių administratoriaus įgalioti asmenys centrinio mokesčių administratoriaus nustatyta tvarka turi persiųsti šių prekių siuntėjui.“
+„3. Tuo atveju, kai akcizais apmokestinamos prekės eksportuojamos per vieną ar per kelias kitas valstybes nares, vietos mokesčių administratoriaus įgalioti asmenys parengtą elektroninį vežimo dokumentą turi išsiųsti valstybės narės, kurioje pateikta eksporto deklaracija taikant Bendrijos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) nuostatas, kompetentingoms institucijoms. Iš valstybės narės, iš kurios akcizais apmokestinamos prekės išgabenamos iš Europos Sąjungos teritorijos, kompetentingų institucijų gautą pranešimą, kuriuo patvirtinamas akcizais apmokestinamų prekių išgabenimo iš Europos Sąjungos teritorijos faktas (toliau – pranešimas apie eksportą), vietos mokesčių administratoriaus įgalioti asmenys centrinio mokesčių administratoriaus nustatyta tvarka turi persiųsti šių prekių siuntėjui.“
 
 
 2. 15 straipsnio 8 dalyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šią dalį išdėstyti taip: ^s-9b9b6b53d56847b853824678
@@ -223,7 +223,7 @@ Vilnius
 2. Pakeisti 21 straipsnio 5 dalį ir ją išdėstyti taip: ^s-7693ed032d7bcec64cf3caf7
 
 
-„5. Europos Sąjungos prekių įvežimui iš Prancūzijos užjūrio departamentų, Kanarų, Alandų ir Normandijos salų į Europos Sąjungos teritoriją taikomi tokie patys muitinės formalumai, kokie yra taikomi į Europos Sąjungos muitų teritoriją įvežamoms ne Europos Sąjungos prekėms. Tuo atveju, kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, kurios skirtos nugabenti į kitą valstybę narę negu ta, į kurią jos buvo įvežtos iš trečiųjų teritorijų, šios prekės gali būti pateiktos vidinio tranzito procedūrai, numatytai Bendrijos muitinės kodekse, įforminti. Kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, kurioms, jeigu jos būtų įvežtos iš trečiųjų valstybių, galėtų būti taikoma sąlyginio neapmokestinimo muitinės procedūra arba priemonė, tai joms taikomos tos pačios sąlygos, kurios būtų taikomos atlikus minėtus muitinės sankcionuotus veiksmus ar įforminus atitinkamas procedūras.“
+„5. Europos Sąjungos prekių įvežimui iš Prancūzijos užjūrio departamentų, Kanarų, Alandų ir Normandijos salų į Europos Sąjungos teritoriją taikomi tokie patys muitinės formalumai, kokie yra taikomi į Europos Sąjungos muitų teritoriją įvežamoms ne Europos Sąjungos prekėms. Tuo atveju, kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, kurios skirtos nugabenti į kitą valstybę narę negu ta, į kurią jos buvo įvežtos iš trečiųjų teritorijų, šios prekės gali būti pateiktos vidinio tranzito procedūrai, numatytai Bendrijos [muitinės kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), įforminti. Kai į Europos Sąjungos teritoriją iš trečiųjų teritorijų įvežamos prekės, kurioms, jeigu jos būtų įvežtos iš trečiųjų valstybių, galėtų būti taikoma sąlyginio neapmokestinimo muitinės procedūra arba priemonė, tai joms taikomos tos pačios sąlygos, kurios būtų taikomos atlikus minėtus muitinės sankcionuotus veiksmus ar įforminus atitinkamas procedūras.“
 
 
 3. 21 straipsnio 6 dalyje vietoj žodžių „Bendrijų“ įrašyti žodžius „Sąjungos“ ir šią dalį išdėstyti taip: ^s-df45892b1c5540ce54c6f614
@@ -236,7 +236,7 @@ Vilnius
 ### 9 straipsnis. 30 straipsnio pakeitimas ir papildymas ^s-99307be155f1e87fb84d9413
 
 
-Papildyti 30 straipsnį nauja [[#^s-c81dfd6088570d3546f5d27a|3 dalimi]], buvusias 3 ir [[#^s-07d1a6c8ae312247b448c611|4 dalis]] laikyti atitinkamai 4 ir [[#^s-2b6415c41763306c55ac6362|5 dalimis]], jas pakeisti ir visą straipsnį išdėstyti taip:
+Papildyti 30 straipsnį nauja [[#^s-c81dfd6088570d3546f5d27a|3 dalimi]], buvusias 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis, jas pakeisti ir visą straipsnį išdėstyti taip:
 
 
 
@@ -370,7 +370,7 @@ Papildyti Įstatymą 581 straipsniu:
 ### 15 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-537cc9348374f56952a7ab14
 
 
-1. Šio įstatymo [[#^s-b2166e4cb65668eecfe5aa68|1 straipsnio]] 3, 6 ir 10 dalys, [[#^s-99307be155f1e87fb84d9413|9 straipsnis]], [[#^s-7ef28b5d28bcd5e18bd6778f|10 straipsnio]] 1 ir [[#^s-88c88b86b2406f7c7e37a0ce|2 dalys]], 11, 13 ir [[#^s-2ee193db3bcae8b749f42e06|14 straipsniai]] įsigalioja 2011 m. sausio 1 d. ^s-6df600fc5773a12dbfc2240a
+1. Šio įstatymo [[#^s-b2166e4cb65668eecfe5aa68|1 straipsnio]] [[#^s-1bccf259b2e85935cb07e963|3]], [[#^s-d20ddf83f252b339ed7f6a14|6]] ir [[#^s-f4bd840a45cd1c1eda1413ee|10]] dalys, [[#^s-99307be155f1e87fb84d9413|9 straipsnis]], [[#^s-7ef28b5d28bcd5e18bd6778f|10 straipsnio]] [[#^s-c5c1b0315123027f8498bcc3|1]] ir [[#^s-d61630e8fa83dc5e4eb6d23a|2]] dalys, [[#^s-2b782a0dc868a7fabe053b11|11]], [[#^s-cca531a133dc7a44b989c584|13]] ir [[#^s-2ee193db3bcae8b749f42e06|14]] straipsniai įsigalioja 2011 m. sausio 1 d. ^s-6df600fc5773a12dbfc2240a
 
 
 2. Šio įstatymo [[#^s-04ee6b04e32eea09b36652f1|10 straipsnio 3 dalis]] įsigalioja 2013 m. sausio 1 d. ^s-88c88b86b2406f7c7e37a0ce

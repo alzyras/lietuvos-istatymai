@@ -67,7 +67,7 @@ BENDROSIOS NUOSTATOS
 ### 3 straipsnis. Valstybės gynimo tarybos veiklos teisiniai pagrindai ^s-63126a9e657209b7973630b4
 
 
-Valstybės gynimo taryba vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos įstatymais, taip pat Lietuvos Respublikos tarptautinėmis sutartimis bei susitarimais, kuriuose numatyti Lietuvos valstybės tarptautiniai įsipareigojimai.
+Valstybės gynimo taryba vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos įstatymais, taip pat Lietuvos Respublikos tarptautinėmis sutartimis bei susitarimais, kuriuose numatyti Lietuvos valstybės tarptautiniai įsipareigojimai.
 
 
 
@@ -296,7 +296,7 @@ BAIGIAMOSIOS NUOSTATOS
 ### 12 straipsnis. Teisės aktų pripažinimas netekusiais galios ^s-e59c2811ff566aafb4a86554
 
 
-Įsigaliojus šiam įstatymui, Laikinąjį valstybės gynimo tarybos įstatymą (Žin., 1993, Nr. 20-493) ir Seimo nutarimą „Dėl Lietuvos Respublikos laikinojo valstybės gynimo tarybos įstatymo įgyvendinimo“ (Žin., 1993, Nr. 20-494) pripažinti netekusiais galios.
+Įsigaliojus šiam įstatymui, Laikinąjį valstybės gynimo tarybos įstatymą (Žin., 1993, Nr. 20-493) ir Seimo nutarimą [„Dėl Lietuvos Respublikos laikinojo valstybės gynimo tarybos įstatymo įgyvendinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.439587777F3D) (Žin., 1993, Nr. 20-494) pripažinti netekusiais galios.
 
 
 

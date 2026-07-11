@@ -42,7 +42,7 @@ Vilnius
 1. Pakeisti [[#^s-301bb88cb7761e2b0b7353b6|1 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-c9079358d4c5e1884d636d5f
 
 
-„2. Lietuvos Respublikos diplomatinės tarnybos teisinį pagrindą sudaro Lietuvos Respublikos Konstitucija, [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]], šis įstatymas, [[latest/TAR.F617B8D97E05|Lietuvos Respublikos konsulinis statutas]] ir kiti Lietuvos Respublikos įstatymai, Lietuvos Respublikos tarptautinės sutartys, tarp jų 1961 m. Vienos konvencija dėl diplomatinių santykių, kiti teisės aktai. Darbo santykius ir socialines garantijas nustatantys įstatymai bei kiti teisės aktai diplomatams taikomi tiek, kiek jų statuso ir socialinių garantijų nenustato šis įstatymas.“
+„2. Lietuvos Respublikos diplomatinės tarnybos teisinį pagrindą sudaro [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]], šis įstatymas, [[latest/TAR.F617B8D97E05|Lietuvos Respublikos konsulinis statutas]] ir kiti Lietuvos Respublikos įstatymai, Lietuvos Respublikos tarptautinės sutartys, tarp jų 1961 m. [Vienos konvencija dėl diplomatinių santykių](https://e-tar.lt/portal/lt/legalAct/TAR.5D291695A584), kiti teisės aktai. Darbo santykius ir socialines garantijas nustatantys įstatymai bei kiti teisės aktai diplomatams taikomi tiek, kiek jų statuso ir socialinių garantijų nenustato šis įstatymas.“
 
 
 2. Papildyti 1 straipsnį 4 dalimi: ^s-301bb88cb7761e2b0b7353b6
@@ -75,7 +75,7 @@ Vilnius
 ### 4 straipsnis. 47 straipsnio 1 dalies papildymas 13 ir 14 punktais ^s-0bdf2ab7e1267047d38d2d8b
 
 
-Papildyti 47 straipsnio 1 dalį 13 ir [[#^s-32c1022876283a3f2f016ebc|14 punktais]]:
+Papildyti 47 straipsnio 1 dalį 13 ir 14 punktais:
 
 
 „13) kariniam atstovui ir jo pavaduotojams;

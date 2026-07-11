@@ -58,7 +58,7 @@ Pakeisti [[#^s-233d875981332b2514353a0d|3 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-233d875981332b2514353a0d|3 straipsnis]]. Deklaruojamas turtas
 
 
-1. Šio Įstatymo [[#^s-ac0faa1c02baf63123e03fac|2 straipsnio 1 dalies]] 1–21 punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą: ^s-ac0faa1c02baf63123e03fac
+1. Šio Įstatymo 2 straipsnio 1 dalies [[#^s-16d167a1d4a19d7393130618|1]]–21 punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą: ^s-ac0faa1c02baf63123e03fac
 
 
 1) nekilnojamąjį daiktą, įskaitant nebaigtą statyti statinį; ^s-16d167a1d4a19d7393130618
@@ -97,7 +97,7 @@ Pakeisti [[#^s-233d875981332b2514353a0d|3 straipsnį]] ir jį išdėstyti taip:
 4) [[#^s-ac0faa1c02baf63123e03fac|šio straipsnio 1 dalies]] 4, 5 ir 7 punktuose nurodytą turtą. ^s-5349eab8ec9e63b1379b22d0
 
 
-3. Deklaruojamas Lietuvos Respublikoje ir užsienio valstybėse esantis šio straipsnio 1 ir [[#^s-3cb37a02d3d5e9454108cbcc|2 dalyse]] nurodytas turtas. ^s-950fd9aeeea5e8a1178149d3
+3. Deklaruojamas Lietuvos Respublikoje ir užsienio valstybėse esantis šio straipsnio [[#^s-ac0faa1c02baf63123e03fac|1]] ir [[#^s-3cb37a02d3d5e9454108cbcc|2]] dalyse nurodytas turtas. ^s-950fd9aeeea5e8a1178149d3
 
 
 4. Turtas, gautas už suteiktą pagalbą slaptai bendradarbiaujant su operatyvinės veiklos subjektais ir kitais įstatymų nustatytais atvejais, nedeklaruojamas. ^s-c8d273bbedf27c0702ec3c7d
@@ -133,7 +133,7 @@ Papildyti Įstatymą 71 straipsniu:
 2. Jeigu [[#^s-8185898e74a3ad9642624030|šio straipsnio 1 dalyje]] nurodyti asmenys neturi šio Įstatymo 3 straipsnio 2 dalyje nurodyto turto, atskaitinę deklaraciją pateikti neprivaloma ir laikoma, kad šie asmenys nustatyta tvarka deklaravo, kad neturi šio Įstatymo 3 straipsnio 2 dalyje nurodyto turto. ^s-d6359ba7fea307ad83f2cc72
 
 
-3. Atskaitinė deklaracija neteikiama, jeigu asmuo turtą deklaruoti privalo remdamasis šio Įstatymo [[#^s-ac0faa1c02baf63123e03fac|2 straipsnio 1 dalies]] 1–19 punktais.“ ^s-8c9eaf850849e9127792c5bb
+3. Atskaitinė deklaracija neteikiama, jeigu asmuo turtą deklaruoti privalo remdamasis šio Įstatymo [[#^s-ac0faa1c02baf63123e03fac|2 straipsnio 1 dalies]] [[#^s-16d167a1d4a19d7393130618|1]]–19 punktais.“ ^s-8c9eaf850849e9127792c5bb
 
 
 
@@ -147,7 +147,7 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 „9 straipsnis. Atsakomybė už šio Įstatymo pažeidimą
 
 
-1. Šio Įstatymo [[#^s-ac0faa1c02baf63123e03fac|2 straipsnio 1 dalies]] 1–19, 22 punktuose nurodyti turtą deklaruoti privalantys gyventojai, vengiantys pateikti deklaracijas, taip pat laiku arba iš viso jų nepateikę, neteisingai nurodę duomenis, atsako administracine ar baudžiamąja tvarka. ^s-23f01c251e603468aeb7d469
+1. Šio Įstatymo [[#^s-ac0faa1c02baf63123e03fac|2 straipsnio 1 dalies]] [[#^s-16d167a1d4a19d7393130618|1]]–19, 22 punktuose nurodyti turtą deklaruoti privalantys gyventojai, vengiantys pateikti deklaracijas, taip pat laiku arba iš viso jų nepateikę, neteisingai nurodę duomenis, atsako administracine ar baudžiamąja tvarka. ^s-23f01c251e603468aeb7d469
 
 
 2. Jeigu gyventojas šio Įstatymo nustatyta tvarka turto nedeklaravo, tokiu turtu negali būti pagrindžiami kito turto įsigijimo šaltiniai. Jeigu dėl [[#^s-23f01c251e603468aeb7d469|šio straipsnio 1 dalyje]] nurodytų asmenų kompetentinga valstybės institucija yra pradėjusi mokestinį patikrinimą arba kitą [[#^s-23f01c251e603468aeb7d469|šio straipsnio 1 dalyje]] nurodyto teisės pažeidimo tyrimą, šie asmenys netenka galimybės savanoriškai pateikti arba patikslinti atitinkamo laikotarpio turto deklaracijas. Jeigu deklaracija ir būtų pateikta, kompetentinga valstybės institucija į ją neatsižvelgtų ir jos nevertintų.“ ^s-3e1230786b3da37422b837a9

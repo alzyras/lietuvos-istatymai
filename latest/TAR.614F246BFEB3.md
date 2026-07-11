@@ -83,7 +83,7 @@ Vilnius
 Pakeisti 8 straipsnio 8 dalį ir ją išdėstyti taip:
 
 
-„8. Privalomojo sveikatos draudimo fondas disponuoja valstybės biudžeto lėšomis, skirtomis šio įstatymo [[#^s-4992409d5e4fbd6a770b1ec4|5 straipsnio]] 4 ir 5 dalyse nurodytų asmenų privalomajam sveikatos draudimui ir asmenų, nurodytų šio įstatymo [[#^s-bc6a46ab932ed62961335322|5 straipsnio 5 dalyje]], sveikatos priežiūros paslaugoms apmokėti, išskyrus, kai šios paslaugos teikiamos Krašto apsaugos ir Vidaus reikalų ministerijų biudžetinėse sveikatos priežiūros įstaigose.“
+„8. Privalomojo sveikatos draudimo fondas disponuoja valstybės biudžeto lėšomis, skirtomis šio įstatymo [[#^s-4992409d5e4fbd6a770b1ec4|5 straipsnio]] [[#^s-567738cce80211bcd972b249|4]] ir [[#^s-bc6a46ab932ed62961335322|5]] dalyse nurodytų asmenų privalomajam sveikatos draudimui ir asmenų, nurodytų šio įstatymo [[#^s-bc6a46ab932ed62961335322|5 straipsnio 5 dalyje]], sveikatos priežiūros paslaugoms apmokėti, išskyrus, kai šios paslaugos teikiamos Krašto apsaugos ir Vidaus reikalų ministerijų biudžetinėse sveikatos priežiūros įstaigose.“
 
 
 
@@ -185,7 +185,7 @@ Papildyti 14 straipsnio 1 dalį 7 punktu:
 „1. Įmonės, įstaigos ir organizacijos moka 3 procentų darbo užmokesčio dydžio privalomojo sveikatos draudimo įmokas už asmenis, dirbančius pagal darbo sutartis ar teikiančius vadovavimo paslaugas vadovavimo sutarties pagrindu akcinėse ir uždarosiose akcinėse bendrovėse, taip pat už asmenis, dirbančius narystės pagrindu institucijose ir gaunančius atlyginimą už darbą.“
 
 
-2. Pakeisti [[#^s-af1e95139c20d1acae78577a|16 straipsnio]] 3, 4, [[#^s-04bd36894052ceb496cd3c12|5 dalis]] ir jas išdėstyti taip: ^s-95d6ae68ef8e6f699008b8e8
+2. Pakeisti [[#^s-af1e95139c20d1acae78577a|16 straipsnio]] 3, 4, 5 dalis ir jas išdėstyti taip: ^s-95d6ae68ef8e6f699008b8e8
 
 
 „3. Ūkinės bendrijos už ūkinės bendrijos narius bei individualios (personalinės) įmonės už individualios (personalinės) įmonės savininkus moka privalomojo sveikatos draudimo įmokas, kurios sudaro 30 procentų apskaičiuotos fizinių asmenų pajamų ar patento tam tikrai veiklos rūšiai savivaldybės patvirtinto mokesčio sumos, bet ne mažiau negu po 10 procentų minimalios mėnesinės algos. Ši nuostata taikoma neatsižvelgiant į tai, ar įstatymų nustatyta tvarka yra sumažintas fizinių asmenų pajamų mokestis, patento mokestis arba konkreti įmonė nuo šių mokesčių atleista.
@@ -222,10 +222,10 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 1. Privalomojo sveikatos draudimo įmokų mokėjimo terminus ir tvarką nustato Vyriausybė. ^s-c94e35972ece8930df88d8f3
 
 
-2. Asmenys, išvardyti šio įstatymo [[#^s-af1e95139c20d1acae78577a|16 straipsnio]] 5 ir [[#^s-7bc8471a4ce4879d2f0846bd|6 dalyse]], privalomojo sveikatos draudimo įmokų dydį apskaičiuoja patys ir perveda į VLK privalomojo sveikatos draudimo fondo biudžeto sąskaitą. ^s-6824afdb3ccd4243394004a8
+2. Asmenys, išvardyti šio įstatymo [[#^s-af1e95139c20d1acae78577a|16 straipsnio]] 5 ir 6 dalyse, privalomojo sveikatos draudimo įmokų dydį apskaičiuoja patys ir perveda į VLK privalomojo sveikatos draudimo fondo biudžeto sąskaitą. ^s-6824afdb3ccd4243394004a8
 
 
-3. Šio įstatymo [[#^s-af1e95139c20d1acae78577a|16 straipsnio]] 2, 3 ir [[#^s-6c30c9f27c5836dc233142c3|4 dalyse]] numatytas įmokas administruoja ir per tris dienas į VLK privalomojo sveikatos draudimo fondo biudžeto sąskaitą perveda valstybinės mokesčių inspekcijos. Privalomojo sveikatos draudimo įmokų kontrolės ir administravimo tvarką nustato Valstybinė mokesčių inspekcija prie Finansų ministerijos kartu su VLK. ^s-fae856ac8f9a40a65960314a
+3. Šio įstatymo [[#^s-af1e95139c20d1acae78577a|16 straipsnio]] 2, 3 ir 4 dalyse numatytas įmokas administruoja ir per tris dienas į VLK privalomojo sveikatos draudimo fondo biudžeto sąskaitą perveda valstybinės mokesčių inspekcijos. Privalomojo sveikatos draudimo įmokų kontrolės ir administravimo tvarką nustato Valstybinė mokesčių inspekcija prie Finansų ministerijos kartu su VLK. ^s-fae856ac8f9a40a65960314a
 
 
 4. Tuo atveju, kai įmonių, išvardytų šio įstatymo 16 straipsnio 3 dalyje, 30 procentų nuo apskaičiuoto fizinių asmenų pajamų ar patento tam tikrai veiklos rūšiai mokesčio sudaro mažiau nei po 10 procentų minimalios mėnesinės algos už kiekvieną ūkinės bendrijos narį ar įmonės savininką, skirtumą tarp faktiškai įmokėtos ir minimalios privalomojo sveikatos draudimo įmokos ūkinės bendrijos ir individualios (personalinės) įmonės perveda į valstybinės mokesčių inspekcijos sąskaitą, nurodydamos tikslinę paskirtį. ^s-6c30c9f27c5836dc233142c3
@@ -251,7 +251,7 @@ Pakeisti 17 straipsnį ir jį išdėstyti taip:
 ### 12 straipsnis. 20 straipsnio 1 dalies pakeitimas ^s-2d7f4d71f90b8d150fb2f028
 
 
-20 straipsnio 1 dalies 2 ir [[#^s-cd5597fdf0ee0b495b71468a|3 punktuose]] vietoj žodžio „draudžiamiesiems“ įrašyti žodį „apdraustiesiems“, [[#^s-cd5597fdf0ee0b495b71468a|3 punkte]] vietoj žodžių „sanatorinio-kurortinio gydymo“ įrašyti žodžius „medicininės reabilitacijos ir sanatorinio gydymo“, pakeisti [[#^s-424c7576fa5aef1c9f097706|4 punktą]] ir šiuos punktus išdėstyti taip:
+20 straipsnio 1 dalies 2 ir 3 punktuose vietoj žodžio „draudžiamiesiems“ įrašyti žodį „apdraustiesiems“, [[#^s-cd5597fdf0ee0b495b71468a|3 punkte]] vietoj žodžių „sanatorinio-kurortinio gydymo“ įrašyti žodžius „medicininės reabilitacijos ir sanatorinio gydymo“, pakeisti [[#^s-424c7576fa5aef1c9f097706|4 punktą]] ir šiuos punktus išdėstyti taip:
 
 
 „2) išlaidų vaistams ir medicinos pagalbos priemonėms įsigyti šio įstatymo nustatyta tvarka kompensavimas apdraustiesiems;

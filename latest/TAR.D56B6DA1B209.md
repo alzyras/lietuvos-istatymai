@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-fe13a7d6136f844eb1a119db
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. spalio 5 d. dekretą Nr. 765, ratifikuoja 2006 m. gegužės 11 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. spalio 5 d. dekretą Nr. 765](https://e-tar.lt/portal/lt/legalAct/TAR.7F77429F7D37), ratifikuoja 2006 m. gegužės 11 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Izraelio Valstybės Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
 
 
 

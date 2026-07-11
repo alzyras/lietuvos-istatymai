@@ -53,7 +53,7 @@ baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba are�
 baudžiamas viešaisiais darbais arba bauda, arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki dvejų metų.
 
 
-3. Tas, kas padarė šio straipsnio 1 ir [[#^s-17b62c633a5de63a89237761|2 dalyse]] numatytas veikas, panaudodamas smurtą ar kitokią prievartą, ^s-e99b20b86f8096c4c652e50a
+3. Tas, kas padarė šio straipsnio 1 ir [[#^s-17b62c633a5de63a89237761|2]] dalyse numatytas veikas, panaudodamas smurtą ar kitokią prievartą, ^s-e99b20b86f8096c4c652e50a
 baudžiamas areštu arba laisvės atėmimu iki ketverių metų.“
 
 

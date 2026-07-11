@@ -183,7 +183,7 @@ Nr. XV-642, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21497
 
 
 6) vaiko priežiūros kompensacinė išmoka; ^s-4ce294c2f5a41a1a6d6ce5bf
-TAR pastaba: jeigu vaiko tėvai (įtėviai) ar globėjai ir fizinis asmuo, vykdantis vaikų dienos priežiūrą Lietuvos Respublikoje pagal individualios veiklos vykdymo pažymą ar darbo sutartį, vaiko priežiūros sutartį pasirašė ir vaikas buvo prižiūrimas pagal šią sutartį iki [[latest/19f2e800a62e11eea5a28c81c82193a8|įstatymo Nr. XIV-2448]] įsigaliojimo dienos (2025-01-01), įstatymo [[#^s-4ce294c2f5a41a1a6d6ce5bf|3 straipsnio 6 punkte]] nurodyta vaiko priežiūros kompensacinė išmoka skiriama ir mokama nuo [[latest/19f2e800a62e11eea5a28c81c82193a8|įstatymo  Nr. XIV-2448]] įsigaliojimo dienos (2025-01-01), jeigu vaikas, vaiko tėvai (įtėviai) ar globėjai ir vaiko priežiūros veiklą vykdantis fizinis asmuo atitinka [[#^s-8f7f3a7b1750e79336b4b248|Išmokų vaikams įstatymo 91 straipsnyje]] nustatytus reikalavimus.
+TAR pastaba: jeigu vaiko tėvai (įtėviai) ar globėjai ir fizinis asmuo, vykdantis vaikų dienos priežiūrą Lietuvos Respublikoje pagal individualios veiklos vykdymo pažymą ar darbo sutartį, vaiko priežiūros sutartį pasirašė ir vaikas buvo prižiūrimas pagal šią sutartį iki [[latest/19f2e800a62e11eea5a28c81c82193a8|įstatymo Nr. XIV-2448]] įsigaliojimo dienos (2025-01-01), įstatymo 3 straipsnio 6 punkte nurodyta vaiko priežiūros kompensacinė išmoka skiriama ir mokama nuo [[latest/19f2e800a62e11eea5a28c81c82193a8|įstatymo  Nr. XIV-2448]] įsigaliojimo dienos (2025-01-01), jeigu vaikas, vaiko tėvai (įtėviai) ar globėjai ir vaiko priežiūros veiklą vykdantis fizinis asmuo atitinka [[#^s-8f7f3a7b1750e79336b4b248|Išmokų vaikams įstatymo 91 straipsnyje]] nustatytus reikalavimus.
 Papildyta straipsnio punktu:
 Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
 
@@ -277,7 +277,7 @@ Nr. XV-645, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21475
 
 
 
-4. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas, kai vaiko globa nustatyta šeimoje, ir vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2, 7, 9 ar 10 punkto nuostatas, kai vaiko globa nustatyta šeimynoje, – jeigu vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2, 7, 9 ar 10 punkto nuostatas. Ši išmoka mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar globėjui. ^s-dcc218ec0d455b0b58688a78
+4. Vienkartinė išmoka vaikui skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas, kai vaiko globa nustatyta šeimoje, ir vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]], [[#^s-0e82c16053907fb602daf42f|7]], [[#^s-9cb3dc8858ad5c8a70474335|9]] ar [[#^s-09ddb53d059c515b011b2329|10]] punkto nuostatas, kai vaiko globa nustatyta šeimynoje, – jeigu vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]], [[#^s-0e82c16053907fb602daf42f|7]], [[#^s-9cb3dc8858ad5c8a70474335|9]] ar [[#^s-09ddb53d059c515b011b2329|10]] punkto nuostatas. Ši išmoka mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar globėjui. ^s-dcc218ec0d455b0b58688a78
 Straipsnio dalies pakeitimai:
 Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
 
@@ -328,17 +328,17 @@ Nr. XV-642, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21497
 
 
 
-3. Išmoka vaikui, kai vaikas auginamas ir (ar) globojamas šeimoje, skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2, 7, 9 ar 10 punkto nuostatas arba jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 4, 5 ar 8 punkto nuostatas, o vaikui (asmeniui) yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo [[#^s-334cc5627f25fd0741981797|1 straipsnio 2 dalies 6 punkto]] nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje, ar Jungtinėje Karalystėje. Kai vaikui globa (rūpyba) nustatyta šeimynoje ar vaikų globos institucijoje ar kai vaiko globėjo (rūpintojo) teises ir pareigas įgyvendina globos centras, išmoka vaikui skiriama, jeigu vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2, 7, 9 ar 10 punkto nuostatas. Ši išmoka mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių), bendrai gyvenančių asmenų, globėjui (rūpintojui), emancipuotam ar susituokusiam nepilnamečiam vaikui, vaikui nuo 14 iki 18 metų, turinčiam tėvų ar rūpintojų sutikimą, ar pilnamečiam asmeniui, kuriam ši išmoka paskirta. ^s-338ff85bc7dea07c60dd42bd
+3. Išmoka vaikui, kai vaikas auginamas ir (ar) globojamas šeimoje, skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]], [[#^s-0e82c16053907fb602daf42f|7]], [[#^s-9cb3dc8858ad5c8a70474335|9]] ar [[#^s-09ddb53d059c515b011b2329|10]] punkto nuostatas arba jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-e3273fc47bed2b31a67e656d|4]], [[#^s-1d28e410d2ab8bf4587709d6|5]] ar [[#^s-f3e3a70a704b2a9ec49dcc48|8]] punkto nuostatas, o vaikui (asmeniui) yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo [[#^s-334cc5627f25fd0741981797|1 straipsnio 2 dalies 6 punkto]] nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje, ar Jungtinėje Karalystėje. Kai vaikui globa (rūpyba) nustatyta šeimynoje ar vaikų globos institucijoje ar kai vaiko globėjo (rūpintojo) teises ir pareigas įgyvendina globos centras, išmoka vaikui skiriama, jeigu vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]], [[#^s-0e82c16053907fb602daf42f|7]], [[#^s-9cb3dc8858ad5c8a70474335|9]] ar [[#^s-09ddb53d059c515b011b2329|10]] punkto nuostatas. Ši išmoka mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių), bendrai gyvenančių asmenų, globėjui (rūpintojui), emancipuotam ar susituokusiam nepilnamečiam vaikui, vaikui nuo 14 iki 18 metų, turinčiam tėvų ar rūpintojų sutikimą, ar pilnamečiam asmeniui, kuriam ši išmoka paskirta. ^s-338ff85bc7dea07c60dd42bd
 Straipsnio dalies pakeitimai:
 Nr. XIII-3381, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24526
 
 
 
-4. Jeigu vaikas (asmuo) mokosi užsienio valstybės mokymo įstaigoje pagal mokymo programas, atitinkančias [[#^s-0da8b2243295573d04261067|šio straipsnio 1 dalyje]] nustatytas mokymo programas, išmoka vaikui skiriama, jeigu nors vienas iš vaiko (asmens) tėvų (įtėvių) (ar turimas vienintelis iš tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2, 7, 9 ar 10 punkto nuostatas, o kitas iš vaiko (asmens) tėvų (įtėvių) ar globėjas (rūpintojas) gyvena Lietuvos Respublikoje, arba jeigu nors vienas iš vaiko (asmens) tėvų (įtėvių) (ar turimas vienintelis iš tėvų (įtėvių) ar globėjas (rūpintojas) atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 4, 5 ar 8 punkto nuostatas ir vaikui (asmeniui) yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, o kitas iš vaiko (asmens) tėvų (įtėvių) ar globėjas (rūpintojas) gyvena Lietuvos Respublikoje. Jeigu vaikas (asmuo) mokosi valstybėje, kurioje jam taikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos, išmoka vaikui skiriama ir mokama pagal Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas dėl išmokų šeimai mokėjimo. Savivaldybių administracijos užsienio valstybės mokymo įstaigų mokymo programų atitiktį [[#^s-0da8b2243295573d04261067|šio straipsnio 1 dalyje]] nurodytoms mokymo programoms nustato Vyriausybės tvirtinamuose Išmokų vaikams skyrimo ir mokėjimo nuostatuose nustatyta tvarka. ^s-edf88316b2542cf707fac224
+4. Jeigu vaikas (asmuo) mokosi užsienio valstybės mokymo įstaigoje pagal mokymo programas, atitinkančias [[#^s-0da8b2243295573d04261067|šio straipsnio 1 dalyje]] nustatytas mokymo programas, išmoka vaikui skiriama, jeigu nors vienas iš vaiko (asmens) tėvų (įtėvių) (ar turimas vienintelis iš tėvų (įtėvių) ar globėjas (rūpintojas) ir vaikas (asmuo) atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]], [[#^s-0e82c16053907fb602daf42f|7]], [[#^s-9cb3dc8858ad5c8a70474335|9]] ar [[#^s-09ddb53d059c515b011b2329|10]] punkto nuostatas, o kitas iš vaiko (asmens) tėvų (įtėvių) ar globėjas (rūpintojas) gyvena Lietuvos Respublikoje, arba jeigu nors vienas iš vaiko (asmens) tėvų (įtėvių) (ar turimas vienintelis iš tėvų (įtėvių) ar globėjas (rūpintojas) atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-e3273fc47bed2b31a67e656d|4]], [[#^s-1d28e410d2ab8bf4587709d6|5]] ar [[#^s-f3e3a70a704b2a9ec49dcc48|8]] punkto nuostatas ir vaikui (asmeniui) yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, o kitas iš vaiko (asmens) tėvų (įtėvių) ar globėjas (rūpintojas) gyvena Lietuvos Respublikoje. Jeigu vaikas (asmuo) mokosi valstybėje, kurioje jam taikomos Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatos, išmoka vaikui skiriama ir mokama pagal Lietuvos Respublikos tarptautinių sutarčių ar Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentų nuostatas dėl išmokų šeimai mokėjimo. Savivaldybių administracijos užsienio valstybės mokymo įstaigų mokymo programų atitiktį [[#^s-0da8b2243295573d04261067|šio straipsnio 1 dalyje]] nurodytoms mokymo programoms nustato Vyriausybės tvirtinamuose Išmokų vaikams skyrimo ir mokėjimo nuostatuose nustatyta tvarka. ^s-edf88316b2542cf707fac224
 
 
 5. Išmoka vaikui neskiriama arba jos mokėjimas nutraukiamas, jeigu vaikas (asmuo) yra suimtas, atlieka su laisvės atėmimu susijusią bausmę, jam [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso]] nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, paskelbta jo paieška arba jis teismo pripažintas nežinia kur esančiu, – kol neišnyksta šios aplinkybės. ^s-a73f7cf49eb950f395093cae
-TAR pastaba. Jeigu išmoka vaikui paskirta iki [[latest/41c36f802ad111eabe008ea93139d588|įstatymo Nr. XIII-2693]] įsigaliojimo (2020-01-01) ir jos mokėjimo laikotarpis nepasibaigęs, įsigaliojus šiam įstatymui, išmokos vaikui mokėjimas tęsiamas, mokant šio įstatymo [[#^s-3361e415729fbe9e7c3795af|2 straipsnio 1 dalyje]] išdėstyto [[#^s-0da8b2243295573d04261067|Lietuvos Respublikos išmokų vaikams įstatymo 6 straipsnio 1 dalies]] ir [[#^s-02a5ba64bb9d8e0c9fb04c77|2 dalies]] 1 ir 2 punktuose nustatyto dydžio išmoką vaikui. Jeigu išmoka vaikui, nustatyta [[#^s-0da8b2243295573d04261067|Išmokų vaikams įstatymo 6 straipsnio 1 dalyje]], paskirta iki šio įstatymo įsigaliojimo neįgaliems vaikams iki 18 metų, išskyrus neįgalius vaikus, kuriems iki šio įstatymo įsigaliojimo dienos buvo papildomai paskirta išmoka vaikui, nustatyta [[#^s-02a5ba64bb9d8e0c9fb04c77|Išmokų vaikams įstatymo 6 straipsnio 2 dalies]] 1 ir 2 punktuose, ir jos mokėjimo laikotarpis nepasibaigęs, įsigaliojus šiam įstatymui, be išmokos gavėjo prašymo jiems paskiriama šio įstatymo [[#^s-3361e415729fbe9e7c3795af|2 straipsnio 1 dalyje]] išdėstyto [[#^s-2527e5870b88889206c4c2fc|Išmokų vaikams įstatymo 6 straipsnio 2 dalies 3 punkte]] nustatyta išmoka ir mokama iki nustatyto neįgalumo lygio termino pabaigos.
+TAR pastaba. Jeigu išmoka vaikui paskirta iki [[latest/41c36f802ad111eabe008ea93139d588|įstatymo Nr. XIII-2693]] įsigaliojimo (2020-01-01) ir jos mokėjimo laikotarpis nepasibaigęs, įsigaliojus šiam įstatymui, išmokos vaikui mokėjimas tęsiamas, mokant šio įstatymo [[#^s-3361e415729fbe9e7c3795af|2 straipsnio 1 dalyje]] išdėstyto [[#^s-0da8b2243295573d04261067|Lietuvos Respublikos išmokų vaikams įstatymo 6 straipsnio 1 dalies]] ir [[#^s-02a5ba64bb9d8e0c9fb04c77|2 dalies]] [[latest/TAR.1DEDD43B92AE|1]] ir [[latest/TAR.1DEDD43B92AE|2]] punktuose nustatyto dydžio išmoką vaikui. Jeigu išmoka vaikui, nustatyta [[#^s-0da8b2243295573d04261067|Išmokų vaikams įstatymo 6 straipsnio 1 dalyje]], paskirta iki šio įstatymo įsigaliojimo neįgaliems vaikams iki 18 metų, išskyrus neįgalius vaikus, kuriems iki šio įstatymo įsigaliojimo dienos buvo papildomai paskirta išmoka vaikui, nustatyta [[#^s-02a5ba64bb9d8e0c9fb04c77|Išmokų vaikams įstatymo 6 straipsnio 2 dalies]] [[#^s-523703ae4272127e70918690|1]] ir [[#^s-da1dc0f620a961bfa3d90d04|2]] punktuose, ir jos mokėjimo laikotarpis nepasibaigęs, įsigaliojus šiam įstatymui, be išmokos gavėjo prašymo jiems paskiriama šio įstatymo [[#^s-3361e415729fbe9e7c3795af|2 straipsnio 1 dalyje]] išdėstyto [[#^s-2527e5870b88889206c4c2fc|Išmokų vaikams įstatymo 6 straipsnio 2 dalies 3 punkte]] nustatyta išmoka ir mokama iki nustatyto neįgalumo lygio termino pabaigos.
 
 
 Straipsnio pakeitimai:
@@ -356,7 +356,7 @@ Nr. XIII-2693, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21548
 2. Kai vienu metu gimsta du vaikai, skiriama 4 bazinių socialinių išmokų dydžio išmoka per mėnesį. Kai vienu metu gimsta daugiau kaip du vaikai, išmokos dydis didinamas 4 bazinių socialinių išmokų dydžiu už kiekvieną paskesnį vaiką. ^s-6162d503e541090eea9c23c9
 
 
-3. Išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama, jeigu nors vienas iš vaikų tėvų ir vaikai atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2, 7, 9 ar 10 punkto nuostatas arba jeigu nors vienas iš vaikų tėvų atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 4, 5 ar 8 punkto nuostatas, o vaikams yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo [[#^s-334cc5627f25fd0741981797|1 straipsnio 2 dalies 6 punkto]] nuostatą atitinka nors vienas iš vaikų tėvų ir vaikai gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje, ar Jungtinėje Karalystėje, ir mokama vienam iš vaikus auginančių tėvų (ar turimam vieninteliam iš tėvų). ^s-41dd85826b25a1adbbd39fc4
+3. Išmoka gimus vienu metu daugiau kaip vienam vaikui skiriama, jeigu nors vienas iš vaikų tėvų ir vaikai atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]], [[#^s-0e82c16053907fb602daf42f|7]], [[#^s-9cb3dc8858ad5c8a70474335|9]] ar [[#^s-09ddb53d059c515b011b2329|10]] punkto nuostatas arba jeigu nors vienas iš vaikų tėvų atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-e3273fc47bed2b31a67e656d|4]], [[#^s-1d28e410d2ab8bf4587709d6|5]] ar [[#^s-f3e3a70a704b2a9ec49dcc48|8]] punkto nuostatas, o vaikams yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo [[#^s-334cc5627f25fd0741981797|1 straipsnio 2 dalies 6 punkto]] nuostatą atitinka nors vienas iš vaikų tėvų ir vaikai gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje, ar Jungtinėje Karalystėje, ir mokama vienam iš vaikus auginančių tėvų (ar turimam vieninteliam iš tėvų). ^s-41dd85826b25a1adbbd39fc4
 Straipsnio dalies pakeitimai:
 Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
@@ -396,7 +396,7 @@ Nr. XIII-3381, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24526
 1. Auginančiam vaiką vienam iš vaiko tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar vaiko globėjui, pagal Lietuvos Respublikos ligos ir motinystės socialinio draudimo įstatymą neturinčiam teisės gauti vaiko priežiūros išmokos, skiriama 6 bazinių socialinių išmokų dydžio išmoka vaiko priežiūrai per mėnesį ir mokama nuo vaiko gimimo dienos, iki vaikui sukaks 2 metai. ^s-4354f46e62c1585d5e7a270b
 
 
-2. Išmoka vaiko priežiūrai skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2, 7, 9 ar 10 punkto nuostatas arba jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 4, 5 ar 8 punkto nuostatas, o vaikui yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo [[#^s-334cc5627f25fd0741981797|1 straipsnio 2 dalies 6 punkto]] nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje, ar Jungtinėje Karalystėje, ir mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar globėjui. ^s-55e63e3d7da5cc852a329fff
+2. Išmoka vaiko priežiūrai skiriama, jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]], [[#^s-0e82c16053907fb602daf42f|7]], [[#^s-9cb3dc8858ad5c8a70474335|9]] ar [[#^s-09ddb53d059c515b011b2329|10]] punkto nuostatas arba jeigu nors vienas iš vaiko tėvų (įtėvių) ar globėjas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-e3273fc47bed2b31a67e656d|4]], [[#^s-1d28e410d2ab8bf4587709d6|5]] ar [[#^s-f3e3a70a704b2a9ec49dcc48|8]] punkto nuostatas, o vaikui yra išduoti dokumentai, patvirtinantys teisę gyventi Lietuvos Respublikoje, arba jeigu šio įstatymo [[#^s-334cc5627f25fd0741981797|1 straipsnio 2 dalies 6 punkto]] nuostatą atitinka nors vienas iš vaiko tėvų (įtėvių) ar globėjas ir vaikas gyvena Europos Sąjungos valstybėje narėje ar Europos ekonominės erdvės valstybėje, ar Šveicarijos Konfederacijoje, ar Jungtinėje Karalystėje, ir mokama vienam iš vaiką auginančių tėvų (ar turimam vieninteliam iš tėvų) (įtėvių) ar globėjui. ^s-55e63e3d7da5cc852a329fff
 
 
 3. Išmoka vaiko priežiūrai neskiriama arba jos mokėjimas nutraukiamas, jeigu: ^s-a0c18a15c039b45f53f19dc8
@@ -469,7 +469,7 @@ Nr. XIII-2693, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21548
 
 
 
-2. Vienkartinė išmoka nėščiai moteriai skiriama ir mokama moterims, atitinkančioms šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2, 7, 9 ar 10 punkto nuostatas. ^s-a87abbed49f061e266c0a395
+2. Vienkartinė išmoka nėščiai moteriai skiriama ir mokama moterims, atitinkančioms šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]], [[#^s-0e82c16053907fb602daf42f|7]], [[#^s-9cb3dc8858ad5c8a70474335|9]] ar [[#^s-09ddb53d059c515b011b2329|10]] punkto nuostatas. ^s-a87abbed49f061e266c0a395
 Straipsnio dalies pakeitimai:
 Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
 
@@ -513,17 +513,17 @@ Nr. XV-642, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21497
 
 
 
-3. Kai šio straipsnio 1 ir [[#^s-fc06667e9894274d44446bb7|2 dalyse]] nurodytas vaikas (asmuo), besimokantis pagal bendrojo ugdymo ir (ar) pagal formaliojo profesinio mokymo programas ar studijuojantis aukštojoje mokykloje pagal nuolatinės studijų formos programą, yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) bendrojo ugdymo mokyklos, profesinio mokymo teikėjo ar aukštosios mokyklos bendrabutyje arba vaikų socializacijos centre, mokslo metais vaikui iki 6 metų skiriama ir mokama 2,6 bazinės socialinės išmokos dydžio išmoka per mėnesį, vaikui nuo 6 iki 12 metų – 3 bazinių socialinių išmokų dydžio išmoka per mėnesį, vaikui nuo 12 iki 18 metų arba iki nepilnametis pripažįstamas emancipuotu ar sudaro santuoką, vaikui, kuriam nustatytas neįgalumo lygis, neatsižvelgiant į jo amžių, ir asmeniui, nurodytam [[#^s-fc06667e9894274d44446bb7|šio straipsnio 2 dalyje]], – 3,25 bazinės socialinės išmokos dydžio išmoka per mėnesį. Tais atvejais, kai vasaros atostogų metu vaikas (asmuo) nėra išlaikomas (nemokamai negauna nakvynės, maisto ir kitų paslaugų) bendrojo ugdymo mokyklos, profesinio mokymo teikėjo ar aukštosios mokyklos bendrabutyje arba vaikų socializacijos centre, šio straipsnio 1 ar [[#^s-fc06667e9894274d44446bb7|2 dalyje]] nustatytomis sąlygomis jam skiriama ir mokama šio straipsnio 1 ar [[#^s-fc06667e9894274d44446bb7|2 dalyje]] nustatyto dydžio išmoka. ^s-ee8cd7aa7ef3e355046975e3
+3. Kai šio straipsnio [[#^s-32fd7e9e211197f3dbf93aa3|1]] ir [[#^s-fc06667e9894274d44446bb7|2]] dalyse nurodytas vaikas (asmuo), besimokantis pagal bendrojo ugdymo ir (ar) pagal formaliojo profesinio mokymo programas ar studijuojantis aukštojoje mokykloje pagal nuolatinės studijų formos programą, yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) bendrojo ugdymo mokyklos, profesinio mokymo teikėjo ar aukštosios mokyklos bendrabutyje arba vaikų socializacijos centre, mokslo metais vaikui iki 6 metų skiriama ir mokama 2,6 bazinės socialinės išmokos dydžio išmoka per mėnesį, vaikui nuo 6 iki 12 metų – 3 bazinių socialinių išmokų dydžio išmoka per mėnesį, vaikui nuo 12 iki 18 metų arba iki nepilnametis pripažįstamas emancipuotu ar sudaro santuoką, vaikui, kuriam nustatytas neįgalumo lygis, neatsižvelgiant į jo amžių, ir asmeniui, nurodytam [[#^s-fc06667e9894274d44446bb7|šio straipsnio 2 dalyje]], – 3,25 bazinės socialinės išmokos dydžio išmoka per mėnesį. Tais atvejais, kai vasaros atostogų metu vaikas (asmuo) nėra išlaikomas (nemokamai negauna nakvynės, maisto ir kitų paslaugų) bendrojo ugdymo mokyklos, profesinio mokymo teikėjo ar aukštosios mokyklos bendrabutyje arba vaikų socializacijos centre, šio straipsnio [[#^s-32fd7e9e211197f3dbf93aa3|1]] ar [[#^s-fc06667e9894274d44446bb7|2]] dalyje nustatytomis sąlygomis jam skiriama ir mokama šio straipsnio [[#^s-32fd7e9e211197f3dbf93aa3|1]] ar [[#^s-fc06667e9894274d44446bb7|2]] dalyje nustatyto dydžio išmoka. ^s-ee8cd7aa7ef3e355046975e3
 Straipsnio dalies pakeitimai:
 Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
 
 
 
-4. Globos (rūpybos) išmoka, kai vaiko globa (rūpyba) nustatyta šeimoje, skiriama, jeigu vaiko globėjas (rūpintojas) ir globojamas vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2 ar 3 punkto nuostatas, kai vaiko globa (rūpyba) nustatyta šeimynoje ar vaikų globos institucijoje ar kai vaiko globėjo (rūpintojo) teises ir pareigas įgyvendina globos centras, – jeigu globojamas vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2 ar 3 punkto nuostatas, o [[#^s-fc06667e9894274d44446bb7|šio straipsnio 2 dalyje]] nustatytais atvejais, – jeigu asmuo atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2 ar 3 punkto nuostatas. Ši išmoka mokama vaiko globėjui (rūpintojui), o [[#^s-fc06667e9894274d44446bb7|šio straipsnio 2 dalyje]] nustatytais atvejais – pačiam asmeniui, išskyrus šio įstatymo [[#^s-5e1582939caf374cb2bf0a5f|17 straipsnio 6 dalyje]] nustatytą atvejį. ^s-97b35c8182f58267a0871198
+4. Globos (rūpybos) išmoka, kai vaiko globa (rūpyba) nustatyta šeimoje, skiriama, jeigu vaiko globėjas (rūpintojas) ir globojamas vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]] ar [[#^s-f91222873c06cc5d7fe7a6da|3]] punkto nuostatas, kai vaiko globa (rūpyba) nustatyta šeimynoje ar vaikų globos institucijoje ar kai vaiko globėjo (rūpintojo) teises ir pareigas įgyvendina globos centras, – jeigu globojamas vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]] ar [[#^s-f91222873c06cc5d7fe7a6da|3]] punkto nuostatas, o [[#^s-fc06667e9894274d44446bb7|šio straipsnio 2 dalyje]] nustatytais atvejais, – jeigu asmuo atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]] ar [[#^s-f91222873c06cc5d7fe7a6da|3]] punkto nuostatas. Ši išmoka mokama vaiko globėjui (rūpintojui), o [[#^s-fc06667e9894274d44446bb7|šio straipsnio 2 dalyje]] nustatytais atvejais – pačiam asmeniui, išskyrus šio įstatymo [[#^s-5e1582939caf374cb2bf0a5f|17 straipsnio 6 dalyje]] nustatytą atvejį. ^s-97b35c8182f58267a0871198
 
 
-5. Tais atvejais, kai šio straipsnio 1 ir [[#^s-fc06667e9894274d44446bb7|2 dalyse]] nurodytam vaikui (asmeniui) kas mėnesį mokama našlaičių pensija ir (ar) vaikui išlaikyti skirta periodinė išmoka, globos (rūpybos) išmokos dydis yra lygus skirtumui tarp nustatyto globos (rūpybos) išmokos dydžio ir gaunamos našlaičių pensijos bei (ar) vaikui išlaikyti kas mėnesį mokamos periodinės išmokos dydžio. ^s-1ae4ef4d3b733b0bff4d15aa
+5. Tais atvejais, kai šio straipsnio [[#^s-32fd7e9e211197f3dbf93aa3|1]] ir [[#^s-fc06667e9894274d44446bb7|2]] dalyse nurodytam vaikui (asmeniui) kas mėnesį mokama našlaičių pensija ir (ar) vaikui išlaikyti skirta periodinė išmoka, globos (rūpybos) išmokos dydis yra lygus skirtumui tarp nustatyto globos (rūpybos) išmokos dydžio ir gaunamos našlaičių pensijos bei (ar) vaikui išlaikyti kas mėnesį mokamos periodinės išmokos dydžio. ^s-1ae4ef4d3b733b0bff4d15aa
 
 
 6. Globos (rūpybos) išmoka neskiriama arba jos mokėjimas nutraukiamas, jeigu: ^s-1568c5ffd94835a38e0d3495
@@ -557,7 +557,7 @@ Nr. XV-642, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21497
 
 
 
-5. Globos (rūpybos) išmokos tikslinis priedas už vaiką, kuriam globa (rūpyba) nustatyta šeimoje, skiriamas ir mokamas vaiko globėjui (rūpintojui), jeigu globėjas (rūpintojas) ir globojamas vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2 ar 3 punkto nuostatas, o kai vaiko globa (rūpyba) nustatyta šeimynoje ar vaiko globėjo (rūpintojo) teises ir pareigas įgyvendina globos centras, – jeigu globojamas vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2 ar 3 punkto nuostatas. Globos (rūpybos) išmokos tikslinis priedas [[#^s-a860b5c7949e51f5a1c6fa4b|šio straipsnio 4 dalyje]] nustatytu atveju už asmenį, kuriam globa (rūpyba) buvo nustatyta šeimoje, skiriamas ir mokamas buvusiam vaiko globėjui (rūpintojui), jeigu buvęs vaiko globėjas (rūpintojas) ir asmuo atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2 ar 3 punkto nuostatas, o kai vaiko globa (rūpyba) buvo nustatyta šeimynoje ar vaiko globėjo (rūpintojo) teises ir pareigas įgyvendino globos centras, – jeigu asmuo atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2 ar 3 punkto nuostatas. ^s-d5546225c4f9fe5aaba6ff45
+5. Globos (rūpybos) išmokos tikslinis priedas už vaiką, kuriam globa (rūpyba) nustatyta šeimoje, skiriamas ir mokamas vaiko globėjui (rūpintojui), jeigu globėjas (rūpintojas) ir globojamas vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]] ar [[#^s-f91222873c06cc5d7fe7a6da|3]] punkto nuostatas, o kai vaiko globa (rūpyba) nustatyta šeimynoje ar vaiko globėjo (rūpintojo) teises ir pareigas įgyvendina globos centras, – jeigu globojamas vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]] ar [[#^s-f91222873c06cc5d7fe7a6da|3]] punkto nuostatas. Globos (rūpybos) išmokos tikslinis priedas [[#^s-a860b5c7949e51f5a1c6fa4b|šio straipsnio 4 dalyje]] nustatytu atveju už asmenį, kuriam globa (rūpyba) buvo nustatyta šeimoje, skiriamas ir mokamas buvusiam vaiko globėjui (rūpintojui), jeigu buvęs vaiko globėjas (rūpintojas) ir asmuo atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]] ar [[#^s-f91222873c06cc5d7fe7a6da|3]] punkto nuostatas, o kai vaiko globa (rūpyba) buvo nustatyta šeimynoje ar vaiko globėjo (rūpintojo) teises ir pareigas įgyvendino globos centras, – jeigu asmuo atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]] ar [[#^s-f91222873c06cc5d7fe7a6da|3]] punkto nuostatas. ^s-d5546225c4f9fe5aaba6ff45
 
 
 6. Globos (rūpybos) išmokos tikslinis priedas neskiriamas arba jo mokėjimas nutraukiamas, jeigu: ^s-c98ba7236a5a2754f7503620
@@ -597,7 +597,7 @@ Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
 1. Asmenims, kuriems buvo nustatyta vaiko globa (rūpyba), pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos sudarymo, skiriama 75 bazinių socialinių išmokų dydžio vienkartinė išmoka įsikurti. ^s-9a5b22f55e9555267cbaf8ea
 
 
-2. Vienkartinė išmoka įsikurti skiriama ir mokama asmenims, atitinkantiems šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1, 2 ar 3 punkto nuostatas. ^s-46c259c8ac1815d9aa9d554f
+2. Vienkartinė išmoka įsikurti skiriama ir mokama asmenims, atitinkantiems šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]], [[#^s-eddc419b7a0b8ae7c36495af|2]] ar [[#^s-f91222873c06cc5d7fe7a6da|3]] punkto nuostatas. ^s-46c259c8ac1815d9aa9d554f
 
 
 3. Vienkartinė išmoka įsikurti gali būti panaudota: ^s-b82a9b90bc91217136f7581e
@@ -666,7 +666,7 @@ Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 2. Jeigu vaiko įtėvis (įmotė) neturi teisės gauti vaiko priežiūros išmokos pagal Ligos ir motinystės socialinio draudimo įstatymą arba vaiko įtėvis (įmotė), turintis (turinti) teisę gauti vaiko priežiūros išmoką pagal Ligos ir motinystės socialinio draudimo įstatymą, pasirenka gauti [[#^s-aed53cfb5864c72721c3bda2|šio straipsnio 1 dalyje]] nustatytą išmoką įvaikinus vaiką, jam (jai) skiriama ir mokama viso dydžio [[#^s-aed53cfb5864c72721c3bda2|šio straipsnio 1 dalyje]] nustatyta išmoka įvaikinus vaiką. Jeigu vaiko priežiūros išmokos, skiriamos pagal Ligos ir motinystės socialinio draudimo įstatymą, dydis yra mažesnis už [[#^s-aed53cfb5864c72721c3bda2|šio straipsnio 1 dalyje]] nurodytą išmokos dydį, vaiko įtėviui (įmotei) skiriamos išmokos įvaikinus vaiką dydis yra lygus [[#^s-aed53cfb5864c72721c3bda2|šio straipsnio 1 dalyje]] nurodytos išmokos įvaikinus vaiką dydžio ir pagal Ligos ir motinystės socialinio draudimo įstatymą jam (jai) paskirtos vaiko priežiūros išmokos dydžio skirtumui. ^s-b4489a81ee8a7ba5d23a211a
 
 
-3. Išmoka įvaikinus vaiką skiriama ir mokama vienam iš vaiko įtėvių, jeigu nors vienas iš vaiko įtėvių ir vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] 1 ar 2 punkto nuostatas. ^s-c869908d35238dae6e49fea4
+3. Išmoka įvaikinus vaiką skiriama ir mokama vienam iš vaiko įtėvių, jeigu nors vienas iš vaiko įtėvių ir vaikas atitinka šio įstatymo [[#^s-e85c142362b7cef602ea5a28|1 straipsnio 2 dalies]] [[#^s-944125bb6158c373b7491e5b|1]] ar [[#^s-eddc419b7a0b8ae7c36495af|2]] punkto nuostatas. ^s-c869908d35238dae6e49fea4
 
 
 4. Jeigu vaiko priežiūros išmoka pagal Ligos ir motinystės socialinio draudimo įstatymą vaiko įtėviui (įmotei) paskirta už trumpesnį negu 24 mėnesių laikotarpį, viso dydžio išmoka įvaikinus vaiką mokama už likusį laikotarpį iki [[#^s-aed53cfb5864c72721c3bda2|šio straipsnio 1 dalyje]] nurodyto termino pabaigos. ^s-31ae252826e89fe53dbdd89b
@@ -808,7 +808,7 @@ Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
 
 
 
-5. Išmokos gavimo būdą pasirenka išmokos gavėjas, išskyrus atvejus, nurodytus šio įstatymo [[#^s-228b9c974850c5312ab31555|19 straipsnyje]] ir [[#^s-0c829e521bf465b46f56f263|24 straipsnio 3 punkte]]. ^s-949a3cfc89f635ad1407cd75
+5. Išmokos gavimo būdą pasirenka išmokos gavėjas, išskyrus atvejus, nurodytus šio įstatymo [[#^s-228b9c974850c5312ab31555|19 straipsnyje]] ir 24 straipsnio 3 punkte. ^s-949a3cfc89f635ad1407cd75
 
 
 6. Kai besimokantis vyresnis kaip 18 metų asmuo lieka gyventi ir yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) šeimynoje, globos centre ar socialinės globos įstaigoje, kuriose iki pilnametystės jam buvo nustatyta globa (rūpyba), globos (rūpybos) išmoka mokama šeimynai, globos centrui ar socialinės globos įstaigai. ^s-5e1582939caf374cb2bf0a5f
@@ -830,7 +830,7 @@ Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 9. Asmeniui, kuriam paskirta ar mokama išmoka, išskyrus globos (rūpybos) išmoką ir vienkartinę išmoką įsikurti, mirus, iki mirties dienos neišmokėta priklausiusi išmokos suma išmokama kitam pilnamečiam mirusio asmens bendrai gyvenančiam asmeniui, jeigu jo nėra, – pervedama į vaiko (vaikų) vardu atidarytą sąskaitą banke. Mirus globėjui (rūpintojui), paskirta ar mokama globos (rūpybos) išmoka pervedama į globojamo vaiko (vaikų) vardu atidarytą sąskaitą banke. Nepanaudota vienkartinės išmokos įsikurti suma išmokama piniginėmis lėšomis kitam pilnamečiam mirusio asmens bendrai gyvenančiam asmeniui, jeigu jo nėra, – pervedama į jo vaiko (vaikų) vardu atidarytą sąskaitą banke. Mirus vienam gyvenančiam asmeniui, iki mirties dienos neišmokėta jam priklausiusi išmokos suma neišmokama. ^s-a57bb37df9699386026be78f
 
 
-10. Jeigu [[latest/TAR.C8205E261830|Vaiko teisių apsaugos pagrindų įstatymo]] nustatyta tvarka pas fizinius ar juridinius asmenis laikinai apgyvendintas vaikas grąžinamas tėvams ar kitiems vaiko atstovams pagal įstatymą, neišmokėta priklausiusi pagal šį įstatymą vaiko tėvams ar kitiems vaiko atstovams pagal įstatymą, ar vaikui paskirtų ir sustabdytų išmokų suma išmokama vaiko tėvams ar kitiems vaiko atstovams pagal įstatymą ir jų mokėjimas tęsiamas nuo vaiko grąžinimo tėvams ar kitiems vaiko atstovams pagal įstatymą dienos. Jeigu vaiko laikino apgyvendinimo metu įsiteisėja teismo nutartis, leidžianti paimti vaiką iš vaiko atstovų pagal įstatymą, arba įsiteisėja teismo nutartis ar priimamas Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba) sprendimas atleisti globėją (rūpintoją) iš globėjo (rūpintojo) pareigų arba nušalinti nuo jų, neišmokėta priklausiusi pagal šį įstatymą vaikui paskirtų ir sustabdytų šio įstatymo 6 ir [[#^s-ec23e45173999ffb1ecbaa4a|11 straipsniuose]] nustatytų išmokų suma už laikotarpį nuo vaiko laikino apgyvendinimo dienos iki vaiko globos (rūpybos) nustatymo arba kito globėjo (rūpintojo) paskyrimo dienos išmokama paskirtam vaiko globėjui (rūpintojui), kitų pagal šį įstatymą vaikui ar vaiko atstovams pagal įstatymą paskirtų ir sustabdytų išmokų mokėjimas nutraukiamas nuo vaiko laikino apgyvendinimo nustatymo pirmos dienos. ^s-0e48840ef9b708d2fe974c4e
+10. Jeigu [[latest/TAR.C8205E261830|Vaiko teisių apsaugos pagrindų įstatymo]] nustatyta tvarka pas fizinius ar juridinius asmenis laikinai apgyvendintas vaikas grąžinamas tėvams ar kitiems vaiko atstovams pagal įstatymą, neišmokėta priklausiusi pagal šį įstatymą vaiko tėvams ar kitiems vaiko atstovams pagal įstatymą, ar vaikui paskirtų ir sustabdytų išmokų suma išmokama vaiko tėvams ar kitiems vaiko atstovams pagal įstatymą ir jų mokėjimas tęsiamas nuo vaiko grąžinimo tėvams ar kitiems vaiko atstovams pagal įstatymą dienos. Jeigu vaiko laikino apgyvendinimo metu įsiteisėja teismo nutartis, leidžianti paimti vaiką iš vaiko atstovų pagal įstatymą, arba įsiteisėja teismo nutartis ar priimamas Valstybės vaiko teisių apsaugos ir įvaikinimo tarnybos prie Socialinės apsaugos ir darbo ministerijos (toliau – Valstybės vaiko teisių apsaugos ir įvaikinimo tarnyba) sprendimas atleisti globėją (rūpintoją) iš globėjo (rūpintojo) pareigų arba nušalinti nuo jų, neišmokėta priklausiusi pagal šį įstatymą vaikui paskirtų ir sustabdytų šio įstatymo [[#^s-1cfba082369464ffa642461c|6]] ir [[#^s-ec23e45173999ffb1ecbaa4a|11]] straipsniuose nustatytų išmokų suma už laikotarpį nuo vaiko laikino apgyvendinimo dienos iki vaiko globos (rūpybos) nustatymo arba kito globėjo (rūpintojo) paskyrimo dienos išmokama paskirtam vaiko globėjui (rūpintojui), kitų pagal šį įstatymą vaikui ar vaiko atstovams pagal įstatymą paskirtų ir sustabdytų išmokų mokėjimas nutraukiamas nuo vaiko laikino apgyvendinimo nustatymo pirmos dienos. ^s-0e48840ef9b708d2fe974c4e
 Papildyta straipsnio dalimi:
 Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
 Straipsnio dalies pakeitimai:
@@ -879,7 +879,7 @@ Nr. XV-642, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21497
 8. Globos (rūpybos) išmoka emancipuotam ar susituokusiam nepilnamečiam vaikui arba vyresniam kaip 18 metų asmeniui, kuris mokosi pagal bendrojo ugdymo programą, baigiamaisiais mokymosi metais mokama iki tų metų rugsėjo 1 dienos, o asmeniui, kuris mokosi pagal formaliojo profesinio mokymo programą (įskaitant asmenis, kurių mokymą pagal bendrojo ugdymo programą kartu su profesinio mokymo programa vykdo profesinio mokymo teikėjai) ar studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą, – iki mokymosi ar studijų pagal šias programas baigimo dienos, bet ne ilgiau, iki jam sukaks 24 metai. ^s-b80a3416cf5468cd925154a2
 
 
-9. Globos (rūpybos) išmokos tikslinis priedas, nustatytas šio įstatymo [[#^s-4980c101fc9798295f586e12|12 straipsnio]]  1–[[#^s-8a90c6ca58e1035a7ee74c8d|3 dalyse]], vaiko globėjui (rūpintojui) skiriamas ir mokamas vaiko globos (rūpybos) laikotarpiu, bet ne ilgiau, iki globojamam (rūpinamam) vaikui sukaks 18 metų arba iki nepilnametis vaikas pripažįstamas emancipuotu ar sudaro santuoką. Jeigu pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos sudarymo asmuo, nurodytas šio įstatymo [[#^s-a860b5c7949e51f5a1c6fa4b|12 straipsnio 4 dalyje]], lieka gyventi ir yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) šeimoje, šeimynoje ar globos centre, kuriuose iki pilnametystės, emancipacijos ar santuokos sudarymo jam buvo nustatyta globa (rūpyba), ir mokosi pagal bendrojo ugdymo programą (įskaitant asmenis, kurių mokymą pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa vykdo profesinio mokymo teikėjai, iki šie asmenys baigs bendrojo ugdymo programą, taip pat asmenis akademinių atostogų, suteiktų dėl ligos arba nėštumo ir gimdymo ar atostogų vaikui prižiūrėti, laikotarpiu), dėl tolesnio globos (rūpybos) išmokos tikslinio priedo skyrimo buvęs vaiko globėjas (rūpintojas) – šeima, šeimyna ar globos centras – turi teisę kreiptis ir pateikti būtinus dokumentus išmokai gauti ir laisvos formos rašytinį asmens patvirtinimą, kad jis yra likęs gyventi pas buvusį globėją (rūpintoją) ir yra jo išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas), iki asmuo baigs bendrojo ugdymo programą (įskaitant asmenis, kurių mokymą pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa vykdo profesinio mokymo teikėjai, taip pat asmenis akademinių atostogų, suteiktų dėl ligos arba nėštumo ir gimdymo ar atostogų vaikui prižiūrėti, laikotarpiu), bet ne ilgiau, iki jam sukaks 23 metai. ^s-cecc3e7b1db9dd42927d967c
+9. Globos (rūpybos) išmokos tikslinis priedas, nustatytas šio įstatymo [[#^s-4980c101fc9798295f586e12|12 straipsnio]]  [[#^s-e9aaa40f9e1ab5a3eb54796d|1]]–[[#^s-b06a9c2564b3415dc5232a86|3]] dalyse, vaiko globėjui (rūpintojui) skiriamas ir mokamas vaiko globos (rūpybos) laikotarpiu, bet ne ilgiau, iki globojamam (rūpinamam) vaikui sukaks 18 metų arba iki nepilnametis vaikas pripažįstamas emancipuotu ar sudaro santuoką. Jeigu pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos sudarymo asmuo, nurodytas šio įstatymo [[#^s-a860b5c7949e51f5a1c6fa4b|12 straipsnio 4 dalyje]], lieka gyventi ir yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) šeimoje, šeimynoje ar globos centre, kuriuose iki pilnametystės, emancipacijos ar santuokos sudarymo jam buvo nustatyta globa (rūpyba), ir mokosi pagal bendrojo ugdymo programą (įskaitant asmenis, kurių mokymą pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa vykdo profesinio mokymo teikėjai, iki šie asmenys baigs bendrojo ugdymo programą, taip pat asmenis akademinių atostogų, suteiktų dėl ligos arba nėštumo ir gimdymo ar atostogų vaikui prižiūrėti, laikotarpiu), dėl tolesnio globos (rūpybos) išmokos tikslinio priedo skyrimo buvęs vaiko globėjas (rūpintojas) – šeima, šeimyna ar globos centras – turi teisę kreiptis ir pateikti būtinus dokumentus išmokai gauti ir laisvos formos rašytinį asmens patvirtinimą, kad jis yra likęs gyventi pas buvusį globėją (rūpintoją) ir yra jo išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas), iki asmuo baigs bendrojo ugdymo programą (įskaitant asmenis, kurių mokymą pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa vykdo profesinio mokymo teikėjai, taip pat asmenis akademinių atostogų, suteiktų dėl ligos arba nėštumo ir gimdymo ar atostogų vaikui prižiūrėti, laikotarpiu), bet ne ilgiau, iki jam sukaks 23 metai. ^s-cecc3e7b1db9dd42927d967c
 
 
 10. Globos (rūpybos) išmokos tikslinis priedas buvusiam vaiko globėjui (rūpintojui) – šeimai, šeimynai ar globos centrui, kai asmuo, nurodytas šio įstatymo [[#^s-a860b5c7949e51f5a1c6fa4b|12 straipsnio 4 dalyje]], pasibaigus vaiko globai (rūpybai) dėl pilnametystės, emancipacijos ar santuokos sudarymo lieka gyventi pas buvusį globėją (rūpintoją) ir yra jo išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas), ir mokosi pagal bendrojo ugdymo programą (įskaitant asmenis, kurių mokymą pagal bendrojo ugdymo programą ir pagal bendrojo ugdymo programą kartu su profesinio mokymo programa vykdo profesinio mokymo teikėjai, iki šie asmenys baigs bendrojo ugdymo programą, taip pat asmenis akademinių atostogų, suteiktų dėl ligos arba nėštumo ir gimdymo ar atostogų vaikui prižiūrėti, laikotarpiu), baigiamaisiais mokymosi metais mokamas iki tų metų rugsėjo 1 dienos, bet ne ilgiau, iki jam sukaks 23 metai. ^s-4ae0c1a5ed9b1327204672f0
@@ -935,7 +935,7 @@ Nr. XIII-2983, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12611
 1. Savivaldybės administracija, priėmusi sprendimą skirti išmoką, privalo informuoti išmokos gavėją apie jo pareigas ir aplinkybes, turinčias įtakos išmokos dydžiui ar mokėjimui. ^s-e979ab48d74e799dfe67b3e5
 
 
-2. Išmokos gavėjas privalo pranešti savivaldybės administracijai apie šio įstatymo [[#^s-a574e38dd8a0b7cc5b6d8e0e|21 straipsnio]] 1 ir [[#^s-da23911db82f172171f7d7ba|2 dalyse]] nurodytas aplinkybes, turinčias įtakos išmokų dydžiui ar mokėjimui, ne vėliau kaip per mėnesį nuo dienos, kurią sužinojo ar turėjo sužinoti apie šių aplinkybių atsiradimą. ^s-da23911db82f172171f7d7ba
+2. Išmokos gavėjas privalo pranešti savivaldybės administracijai apie šio įstatymo [[#^s-a574e38dd8a0b7cc5b6d8e0e|21 straipsnio]] [[#^s-2931ca9ade4504b345f25dc0|1]] ir [[#^s-a2959b4a05e2e4cc5f78c924|2]] dalyse nurodytas aplinkybes, turinčias įtakos išmokų dydžiui ar mokėjimui, ne vėliau kaip per mėnesį nuo dienos, kurią sužinojo ar turėjo sužinoti apie šių aplinkybių atsiradimą. ^s-da23911db82f172171f7d7ba
 Straipsnio dalies pakeitimai:
 Nr. XIII-2693, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21548
 
@@ -987,7 +987,7 @@ Nr. XV-672, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22562
 
 
 
-7) vaikas (asmuo), kuriam paskirtos šio įstatymo 8 ar [[#^s-ff51c9cbfa36f2e9a7e9b4ab|13 straipsnyje]] nustatytos išmokos, yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) valstybės ar savivaldybės finansuojamoje įstaigoje – nuo faktinių aplinkybių atsiradimo dienos; ^s-d48cf303d0e92c51e6495f60
+7) vaikas (asmuo), kuriam paskirtos šio įstatymo [[#^s-d165689969f1e0dc871d0b6d|8]] ar [[#^s-ff51c9cbfa36f2e9a7e9b4ab|13]] straipsnyje nustatytos išmokos, yra išlaikomas (nemokamai gauna nakvynę, maistą ir kitas paslaugas) valstybės ar savivaldybės finansuojamoje įstaigoje – nuo faktinių aplinkybių atsiradimo dienos; ^s-d48cf303d0e92c51e6495f60
 
 
 8) asmuo, kuriam paskirta šio įstatymo [[#^s-710d15ac1ecb6f5a4bb5d4a5|9 straipsnyje]] nustatyta išmoka, įgyja teisę gauti vaiko priežiūros išmoką pagal Ligos ir motinystės socialinio draudimo įstatymą ar jam už tą patį vaiką ir laikotarpį paskirta ir (ar) buvo išmokėta motinystės ar tėvystės išmoka pagal Ligos ir motinystės socialinio draudimo įstatymą – nuo teisės gauti vaiko priežiūros išmoką pagal Ligos ir motinystės socialinio draudimo įstatymą atsiradimo dienos ar nuo motinystės ar tėvystės išmokos pagal Ligos ir motinystės socialinio draudimo įstatymą skyrimo dienos, bet ne anksčiau kaip nuo teisės gauti šio įstatymo [[#^s-710d15ac1ecb6f5a4bb5d4a5|9 straipsnyje]] nustatytą išmoką atsiradimo dienos; ^s-daafa4912e9a2d84cd0da4ff
@@ -1026,7 +1026,7 @@ Nr. XV-672, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22562
 14) globojamas vaikas įvaikinamas – nuo teismo sprendimo įvaikinti įsiteisėjimo dienos arba teismo sprendime nurodytos datos; ^s-e45535fd4f3af7d1150cd012
 
 
-15) vaikas (asmuo), kuriam paskirtos šio įstatymo 6, 11 ar [[#^s-ff51c9cbfa36f2e9a7e9b4ab|13 straipsnyje]] nustatytos išmokos, ir (ar) globojamas vaikas, už kurį globėjui (rūpintojui) paskirta šio įstatymo [[#^s-4980c101fc9798295f586e12|12 straipsnyje]] nustatyta išmoka, ar asmuo, už kurį buvusiam vaiko globėjui (rūpintojui) paskirta šio įstatymo [[#^s-4980c101fc9798295f586e12|12 straipsnyje]] nustatyta išmoka, ar įvaikintas vaikas, kurio vienam iš įtėvių paskirta šio įstatymo [[#^s-8b97553db8a13fb0ef52a44d|14 straipsnyje]] nustatyta išmoka, yra suimtas, atlieka su laisvės atėmimu susijusią bausmę, jam [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, paskelbta jo paieška – nuo suėmimo, teismo apkaltinamojo nuosprendžio įsigaliojimo, pradėto priverstinio gydymo, vaiko (asmens) paieškos paskelbimo dienos; ^s-cd3a1ed80735d68214429a16
+15) vaikas (asmuo), kuriam paskirtos šio įstatymo [[#^s-1cfba082369464ffa642461c|6]], [[#^s-ec23e45173999ffb1ecbaa4a|11]] ar [[#^s-ff51c9cbfa36f2e9a7e9b4ab|13]] straipsnyje nustatytos išmokos, ir (ar) globojamas vaikas, už kurį globėjui (rūpintojui) paskirta šio įstatymo [[#^s-4980c101fc9798295f586e12|12 straipsnyje]] nustatyta išmoka, ar asmuo, už kurį buvusiam vaiko globėjui (rūpintojui) paskirta šio įstatymo [[#^s-4980c101fc9798295f586e12|12 straipsnyje]] nustatyta išmoka, ar įvaikintas vaikas, kurio vienam iš įtėvių paskirta šio įstatymo [[#^s-8b97553db8a13fb0ef52a44d|14 straipsnyje]] nustatyta išmoka, yra suimtas, atlieka su laisvės atėmimu susijusią bausmę, jam [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] nustatyta tvarka paskirtos priverčiamosios stacionarinio stebėjimo specializuotose psichikos sveikatos priežiūros įstaigose medicinos priemonės, paskelbta jo paieška – nuo suėmimo, teismo apkaltinamojo nuosprendžio įsigaliojimo, pradėto priverstinio gydymo, vaiko (asmens) paieškos paskelbimo dienos; ^s-cd3a1ed80735d68214429a16
 Straipsnio punkto pakeitimai:
 Nr. XV-642, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21497
 
@@ -1089,7 +1089,7 @@ Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
 
 
 
-3. Sprendimas nutraukti ar sustabdyti išmokų mokėjimą priimamas ne vėliau kaip per 10 darbo dienų nuo dokumentų ar duomenų, patvirtinančių šio straipsnio 1 ar [[#^s-a2959b4a05e2e4cc5f78c924|2 dalyje]] nurodytas aplinkybes, gavimo dienos. ^s-dfd565ef6b80371c6d086481
+3. Sprendimas nutraukti ar sustabdyti išmokų mokėjimą priimamas ne vėliau kaip per 10 darbo dienų nuo dokumentų ar duomenų, patvirtinančių šio straipsnio [[#^s-2931ca9ade4504b345f25dc0|1]] ar [[#^s-a2959b4a05e2e4cc5f78c924|2]] dalyje nurodytas aplinkybes, gavimo dienos. ^s-dfd565ef6b80371c6d086481
 
 
 4. Išmokų gavėjas apie priimtą sprendimą nutraukti ar sustabdyti išmokų mokėjimą informuojamas Išmokų vaikams skyrimo ir mokėjimo nuostatuose nustatyta tvarka. ^s-e814968b88b8fa065588556b
@@ -1147,7 +1147,7 @@ Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05738
 
 
 
-4) jeigu yra pagrįstų įtarimų dėl vienkartinės išmokos įsikurti panaudojimo tikslingumo, apklausti besikreipiančius dėl išmokos asmenis, tikrinti jų gyvenimo sąlygas ir, surašius socialinės apsaugos ir darbo ministro įsakymu patvirtintą buities ir gyvenimo sąlygų patikrinimo aktą bei gavus socialinio darbuotojo rekomendaciją dėl vienkartinės išmokos įsikurti panaudojimo būdų, nustatytų šio įstatymo [[#^s-b82a9b90bc91217136f7581e|13 straipsnio 3 dalyje]], priimti sprendimą dėl tikslingo vienkartinės išmokos įsikurti panaudojimo. ^s-50cab7f8f942270815f85b58
+4) jeigu yra pagrįstų įtarimų dėl vienkartinės išmokos įsikurti panaudojimo tikslingumo, apklausti besikreipiančius dėl išmokos asmenis, tikrinti jų gyvenimo sąlygas ir, surašius socialinės apsaugos ir darbo ministro įsakymu patvirtintą buities ir gyvenimo sąlygų patikrinimo aktą bei gavus socialinio darbuotojo rekomendaciją dėl vienkartinės išmokos įsikurti panaudojimo būdų, nustatytų šio įstatymo 13 straipsnio 3 dalyje, priimti sprendimą dėl tikslingo vienkartinės išmokos įsikurti panaudojimo. ^s-50cab7f8f942270815f85b58
 Straipsnio punkto pakeitimai:
 Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
 
@@ -1198,10 +1198,10 @@ Nr. XV-642, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21497
 4. 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyva 2014/66/ES dėl bendrovės viduje perkeliamų trečiųjų šalių piliečių atvykimo ir apsigyvenimo sąlygų. ^s-2a8307141a817f4fdede23bf
 
 
-5. 2021 m. spalio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2021/1883 dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo siekiant dirbti aukštos kvalifikacijos darbą sąlygų, kuria panaikinama Tarybos direktyva 2009/50/EB. ^s-9e2bf0b4c8305ae10a4030ea
+5. 2021 m. spalio 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2021/1883](https://eur-lex.europa.eu/eli/dir/2021/1883/oj) dėl trečiųjų šalių piliečių atvykimo ir apsigyvenimo siekiant dirbti aukštos kvalifikacijos darbą sąlygų, kuria panaikinama Tarybos direktyva 2009/50/EB. ^s-9e2bf0b4c8305ae10a4030ea
 
 
-6. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1233 dėl vienos prašymų išduoti vieną leidimą trečiųjų valstybių piliečiams gyventi ir dirbti valstybės narės teritorijoje teikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų valstybių darbuotojų bendrų teisių. ^s-903eeb6f3862314a6374b1eb
+6. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1233](https://eur-lex.europa.eu/eli/dir/2024/1233/oj) dėl vienos prašymų išduoti vieną leidimą trečiųjų valstybių piliečiams gyventi ir dirbti valstybės narės teritorijoje teikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų valstybių darbuotojų bendrų teisių. ^s-903eeb6f3862314a6374b1eb
 
 
 Priedo pakeitimai:
@@ -1217,7 +1217,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-478, 97.10.23, Žin., 1997, Nr.99-2506 (97.10.31)
-[[#^s-ec23e45173999ffb1ecbaa4a|LIETUVOS RESPUBLIKOS VALSTYBINIŲ PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO PAPILDYMO 4(1) STRAIPSNIU IR 9 BEI 11 STRAIPSNIŲ]] PAPILDYMO
+LIETUVOS RESPUBLIKOS VALSTYBINIŲ PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO PAPILDYMO 4(1) STRAIPSNIU IR [[#^s-710d15ac1ecb6f5a4bb5d4a5|9]] BEI [[#^s-ec23e45173999ffb1ecbaa4a|11]] STRAIPSNIŲ PAPILDYMO
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1229,7 +1229,7 @@ Nr. VIII-676, 98.03.24, Žin., 1998, Nr.35-934 (98.04.15)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-985, 98.12.21, Žin., 1998, Nr.115-3240 (98.12.31)
 [[latest/TAR.62F5567CB5FC|LIETUVOS RESPUBLIKOS VALSTYBINIŲ PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO 5, 7, 8, 9 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-Šio įstatymo 1, 2, [[#^s-ed3fa09a72e48cb0e22b0b0d|4 straipsniai]] įsigalioja nuo 1999 m. sausio 1 d., o [[#^s-004324053c46e00d5273febc|3 straipsnis]] - nuo 2000 m. sausio 1 d.
+Šio įstatymo [[#^s-45042dca32e9ed7f0bb08fcc|1]], [[#^s-3afdd9d5c12473e9f5e1d7b1|2]], [[#^s-ed3fa09a72e48cb0e22b0b0d|4]] straipsniai įsigalioja nuo 1999 m. sausio 1 d., o [[#^s-004324053c46e00d5273febc|3 straipsnis]] - nuo 2000 m. sausio 1 d.
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1241,7 +1241,7 @@ Nr. VIII-1497, 99.12.23, Žin., 2000, Nr.1-5 (00.01.05)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-168, 2001 01 25, Žin., 2001, Nr. 16-495 (2001 02 21)
 [[latest/TAR.8C4A000A4D04|VALSTYBINIŲ PAŠALPŲ ŠEIMOMS, AUGINANČIOMS VAIKUS, ĮSTATYMO 1, 2, 3, 4, 4(1) STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d., išskyrus šio įstatymo [[#^s-004324053c46e00d5273febc|3 straipsnį]] ir [[#^s-ed3fa09a72e48cb0e22b0b0d|4 straipsnyje]] išdėstyto [[#^s-ed3fa09a72e48cb0e22b0b0d|4 straipsnio]] 1 ir 2 dalis.
+Šis įstatymas įsigalioja nuo 2001 m. liepos 1 d., išskyrus šio įstatymo [[#^s-004324053c46e00d5273febc|3 straipsnį]] ir [[#^s-ed3fa09a72e48cb0e22b0b0d|4 straipsnyje]] išdėstyto [[#^s-ed3fa09a72e48cb0e22b0b0d|4 straipsnio]] [[#^s-91a3b2ee88ca12ed0713c3d1|1]] ir [[#^s-3ba183550e6a75da6c1a4c58|2]] dalis.
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1301,8 +1301,8 @@ Lietuvos Respublikoje gyvenantiems vaikams užsieniečiams, kuriems įstatymų n
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-90, 2008-12-19, Žin., 2008, Nr. 149-6016 (2008-12-30)
 [[latest/TAR.9665F2D6C990|IŠMOKŲ VAIKAMS ĮSTATYMO 6, 8, 12, 13, 20 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR 22 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS]]
-Šis įstatymas, išskyrus Įstatymo [[#^s-45042dca32e9ed7f0bb08fcc|1 straipsnio]] 1 ir 2 dalis, [[#^s-004324053c46e00d5273febc|3 straipsnio]] 3 ir [[#^s-2a8307141a817f4fdede23bf|4 dalis]], 4, 5 ir [[#^s-1cfba082369464ffa642461c|6 straipsnį]], įsigalioja 2009 m. sausio 1 d.
-Šio įstatymo [[#^s-45042dca32e9ed7f0bb08fcc|1 straipsnio]] 1 ir 2 dalys, [[#^s-004324053c46e00d5273febc|3 straipsnio]] 3 ir [[#^s-2a8307141a817f4fdede23bf|4 dalys]], 4, 5 ir [[#^s-1cfba082369464ffa642461c|6 straipsniai]] įsigalioja 2009 m. kovo 1 d.
+Šis įstatymas, išskyrus Įstatymo [[#^s-45042dca32e9ed7f0bb08fcc|1 straipsnio]] [[#^s-6f3d973a5cee9f4efc9b7cdc|1]] ir [[#^s-e85c142362b7cef602ea5a28|2]] dalis, [[#^s-004324053c46e00d5273febc|3 straipsnio]] 3 ir 4 dalis, [[#^s-ed3fa09a72e48cb0e22b0b0d|4]], [[#^s-a18062bb8246ad4a928a4e3d|5]] ir [[#^s-1cfba082369464ffa642461c|6]] straipsnį, įsigalioja 2009 m. sausio 1 d.
+Šio įstatymo [[#^s-45042dca32e9ed7f0bb08fcc|1 straipsnio]] [[#^s-6f3d973a5cee9f4efc9b7cdc|1]] ir [[#^s-e85c142362b7cef602ea5a28|2]] dalys, [[#^s-004324053c46e00d5273febc|3 straipsnio]] 3 ir 4 dalys, [[#^s-ed3fa09a72e48cb0e22b0b0d|4]], [[#^s-a18062bb8246ad4a928a4e3d|5]] ir [[#^s-1cfba082369464ffa642461c|6]] straipsniai įsigalioja 2009 m. kovo 1 d.
 Šio įstatymo 3 straipsnio 3 dalį pripažinti netekusia galios nuo 2011 m. gruodžio 31 d., o 3 straipsnio 4 dalį – nuo 2010 m. gruodžio 31 d.
 Įstatymo pakeitimai:
 14.1.
@@ -1341,14 +1341,14 @@ Nr. XI-1434, 2011-06-09, Žin., 2011, Nr. 77-3721 (2011-06-28)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1756, 2011-12-01, Žin., 2011, Nr. 155-7350 (2011-12-20)
 [[latest/TAR.248C7408E018|IŠMOKŲ VAIKAMS ĮSTATYMO 2, 3, 4, 6, 8, 9, 12, 13, 14, 15, 17, 18 STRAIPSNIŲ, TREČIOJO, ŠEŠTOJO SKIRSNIŲ PAVADINIMŲ PAKEITIMO IR PAPILDYMO IR 21 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-b68db28b5b5e3b7b1be178d4|16 straipsnio]] 2 ir [[#^s-7e2464d1c208ffa483f4ccd5|3 dalis]], įsigalioja 2012 m. sausio 1 d.
+Šis įstatymas, išskyrus [[#^s-b68db28b5b5e3b7b1be178d4|16 straipsnio]] [[#^s-df45747af45fe9c717f5c5e7|2]] ir [[#^s-5413569e7141811e4b620507|3]] dalis, įsigalioja 2012 m. sausio 1 d.
 Išmoka vaikui, paskirta iki šio įstatymo įsigaliojimo vaikams iki 2 metų, nuo 2012 m. sausio 1 d. iš naujo skiriama ir mokama pagal šio įstatymo nuostatas.
 Išmoka vaikui, paskirta iki šio įstatymo įsigaliojimo vyresniems kaip 2 metų vaikams, mokama iki paskirtos išmokos nustatyto mokėjimo laikotarpio pabaigos.
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-865, 2014-05-08, paskelbta TAR 2014-05-16, i. k. 2014-05472
-LIETUVOS RESPUBLIKOS IŠMOKŲ VAIKAMS ĮSTATYMO NR. I-621 1, 3, 7, 12, [[#^s-ff51c9cbfa36f2e9a7e9b4ab|13 STRAIPSNIŲ]], ANTROJO SKIRSNIO PAVADINIMO IR PRIEDO PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS IŠMOKŲ VAIKAMS ĮSTATYMO NR. I-621 [[#^s-45042dca32e9ed7f0bb08fcc|1]], [[#^s-004324053c46e00d5273febc|3]], [[#^s-2c9d2324a64f6eb32ea5a379|7]], [[#^s-4980c101fc9798295f586e12|12]], [[#^s-ff51c9cbfa36f2e9a7e9b4ab|13]] STRAIPSNIŲ, ANTROJO SKIRSNIO PAVADINIMO IR PRIEDO PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-7e2464d1c208ffa483f4ccd5|šio straipsnio 3 dalį]] ir šio įstatymo [[#^s-45042dca32e9ed7f0bb08fcc|1 straipsnį]], įsigalioja 2014 m. liepos 1 d.
 Jeigu privalomąją pradinę karo tarnybą atliekančiai vaiko motinai teisė gauti išmoką privalomosios pradinės karo tarnybos kario vaikui atsirado iki šio įstatymo įsigaliojimo, skiriant išmoką privalomosios pradinės karo tarnybos kario vaikui taikomos iki šio įstatymo įsigaliojimo galiojusios Lietuvos Respublikos išmokų vaikams įstatymo nuostatos.
 
@@ -1364,17 +1364,17 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-d165689969f1e0dc
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2500, 2016-06-28, paskelbta TAR 2016-07-15, i. k. 2016-20640
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 3, 10, 12, [[#^s-ff51c9cbfa36f2e9a7e9b4ab|13 straipsnių]], ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-45042dca32e9ed7f0bb08fcc|1]], [[#^s-004324053c46e00d5273febc|3]], [[#^s-3dbba49915a119fe34f6bffa|10]], [[#^s-4980c101fc9798295f586e12|12]], [[#^s-ff51c9cbfa36f2e9a7e9b4ab|13]] straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2627, 2016-09-21, paskelbta TAR 2016-09-28, i. k. 2016-24161
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 2, 5, 6, 8, 12, [[#^s-05ca8c1c22351a6908e9dd7d|20 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-45042dca32e9ed7f0bb08fcc|1]], [[#^s-3afdd9d5c12473e9f5e1d7b1|2]], [[#^s-a18062bb8246ad4a928a4e3d|5]], [[#^s-1cfba082369464ffa642461c|6]], [[#^s-d165689969f1e0dc871d0b6d|8]], [[#^s-4980c101fc9798295f586e12|12]], [[#^s-05ca8c1c22351a6908e9dd7d|20]] straipsnių ir priedo pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-180, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29868
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 3, 10, 12, [[#^s-ff51c9cbfa36f2e9a7e9b4ab|13 straipsnių]], ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais [[latest/250ebe404a6e11e6b5d09300a16a686c|įstatymo Nr. XII-2500]] [[#^s-a18062bb8246ad4a928a4e3d|5 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-45042dca32e9ed7f0bb08fcc|1]], [[#^s-004324053c46e00d5273febc|3]], [[#^s-3dbba49915a119fe34f6bffa|10]], [[#^s-4980c101fc9798295f586e12|12]], [[#^s-ff51c9cbfa36f2e9a7e9b4ab|13]] straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 10-1 ir 10-2 straipsniais [[latest/250ebe404a6e11e6b5d09300a16a686c|įstatymo Nr. XII-2500]] [[#^s-a18062bb8246ad4a928a4e3d|5 straipsnio]] pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1384,12 +1384,12 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 10-2 straipsnio pakeit
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-303, 2017-04-20, paskelbta TAR 2017-04-26, i. k. 2017-06979
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, [[#^s-3afdd9d5c12473e9f5e1d7b1|2 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-45042dca32e9ed7f0bb08fcc|1]], [[#^s-3afdd9d5c12473e9f5e1d7b1|2]] straipsnių ir priedo pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-446, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10809
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1 ir [[#^s-ed3fa09a72e48cb0e22b0b0d|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-45042dca32e9ed7f0bb08fcc|1]] ir [[#^s-ed3fa09a72e48cb0e22b0b0d|4]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1404,17 +1404,17 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-45042dca32e9ed7f
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1699, 2018-12-06, paskelbta TAR 2018-12-20, i. k. 2018-20940
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 6, 7, 9, 11, 13, 14, 15, 17, 18, 21 ir [[#^s-4b93d30a287d0a6a3d10973a|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-45042dca32e9ed7f0bb08fcc|1]], [[#^s-1cfba082369464ffa642461c|6]], [[#^s-2c9d2324a64f6eb32ea5a379|7]], [[#^s-710d15ac1ecb6f5a4bb5d4a5|9]], [[#^s-ec23e45173999ffb1ecbaa4a|11]], [[#^s-ff51c9cbfa36f2e9a7e9b4ab|13]], [[#^s-8b97553db8a13fb0ef52a44d|14]], [[#^s-3c4f7ce3f533547fb5d8f998|15]], [[#^s-8d0aadc13fcb6fb8d8b75556|17]], [[#^s-267055970ae067f02c2bd7fc|18]], [[#^s-a574e38dd8a0b7cc5b6d8e0e|21]] ir [[#^s-4b93d30a287d0a6a3d10973a|24]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2091, 2019-04-26, paskelbta TAR 2019-05-07, i. k. 2019-07400
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 3, 16, 17, 19, [[#^s-a574e38dd8a0b7cc5b6d8e0e|21 straipsnių]], trečiojo skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-004324053c46e00d5273febc|3]], [[#^s-b68db28b5b5e3b7b1be178d4|16]], [[#^s-8d0aadc13fcb6fb8d8b75556|17]], [[#^s-228b9c974850c5312ab31555|19]], [[#^s-a574e38dd8a0b7cc5b6d8e0e|21]] straipsnių, trečiojo skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 12-1 straipsniu įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2342, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12407
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 2, 5, 6, 7, 9 ir [[#^s-3dbba49915a119fe34f6bffa|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-45042dca32e9ed7f0bb08fcc|1]], [[#^s-3afdd9d5c12473e9f5e1d7b1|2]], [[#^s-a18062bb8246ad4a928a4e3d|5]], [[#^s-1cfba082369464ffa642461c|6]], [[#^s-2c9d2324a64f6eb32ea5a379|7]], [[#^s-710d15ac1ecb6f5a4bb5d4a5|9]] ir [[#^s-3dbba49915a119fe34f6bffa|10]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1424,27 +1424,27 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-710d15ac1ecb6f5a
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2693, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21548
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 2, 6, 10, 15, 17, 18, 20 ir [[#^s-a574e38dd8a0b7cc5b6d8e0e|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-3afdd9d5c12473e9f5e1d7b1|2]], [[#^s-1cfba082369464ffa642461c|6]], [[#^s-3dbba49915a119fe34f6bffa|10]], [[#^s-3c4f7ce3f533547fb5d8f998|15]], [[#^s-8d0aadc13fcb6fb8d8b75556|17]], [[#^s-267055970ae067f02c2bd7fc|18]], [[#^s-05ca8c1c22351a6908e9dd7d|20]] ir [[#^s-a574e38dd8a0b7cc5b6d8e0e|21]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2884, 2020-05-07, paskelbta TAR 2020-05-21, i. k. 2020-10785
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 17 ir [[#^s-267055970ae067f02c2bd7fc|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-8d0aadc13fcb6fb8d8b75556|17]] ir [[#^s-267055970ae067f02c2bd7fc|18]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2983, 2020-05-28, paskelbta TAR 2020-06-09, i. k. 2020-12611
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 15 ir [[#^s-228b9c974850c5312ab31555|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-3c4f7ce3f533547fb5d8f998|15]] ir [[#^s-228b9c974850c5312ab31555|19]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3376, 2020-11-05, paskelbta TAR 2020-11-13, i. k. 2020-23943
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 17 ir [[#^s-267055970ae067f02c2bd7fc|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-8d0aadc13fcb6fb8d8b75556|17]] ir [[#^s-267055970ae067f02c2bd7fc|18]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3381, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24526
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 1, 6, 7, 8 ir [[#^s-710d15ac1ecb6f5a4bb5d4a5|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-45042dca32e9ed7f0bb08fcc|1]], [[#^s-1cfba082369464ffa642461c|6]], [[#^s-2c9d2324a64f6eb32ea5a379|7]], [[#^s-d165689969f1e0dc871d0b6d|8]] ir [[#^s-710d15ac1ecb6f5a4bb5d4a5|9]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1454,12 +1454,12 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-710d15ac1ecb6f5a
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-129, 2020-12-23, paskelbta TAR 2020-12-29, i. k. 2020-28985
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 2, 6, 10, 15, 17, 18, 20 ir [[#^s-a574e38dd8a0b7cc5b6d8e0e|21 straipsnių]] pakeitimo [[latest/41c36f802ad111eabe008ea93139d588|įstatymo Nr. XIII-2693]] [[#^s-3afdd9d5c12473e9f5e1d7b1|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-3afdd9d5c12473e9f5e1d7b1|2]], [[#^s-1cfba082369464ffa642461c|6]], [[#^s-3dbba49915a119fe34f6bffa|10]], [[#^s-3c4f7ce3f533547fb5d8f998|15]], [[#^s-8d0aadc13fcb6fb8d8b75556|17]], [[#^s-267055970ae067f02c2bd7fc|18]], [[#^s-05ca8c1c22351a6908e9dd7d|20]] ir [[#^s-a574e38dd8a0b7cc5b6d8e0e|21]] straipsnių pakeitimo [[latest/41c36f802ad111eabe008ea93139d588|įstatymo Nr. XIII-2693]] [[#^s-3afdd9d5c12473e9f5e1d7b1|2 straipsnio]] pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-720, 2021-12-07, paskelbta TAR 2021-12-15, i. k. 2021-25838
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 6, 9, 11, 12, 13, 14, 15, 17, 18, 19, [[#^s-a574e38dd8a0b7cc5b6d8e0e|21 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-1cfba082369464ffa642461c|6]], [[#^s-710d15ac1ecb6f5a4bb5d4a5|9]], [[#^s-ec23e45173999ffb1ecbaa4a|11]], [[#^s-4980c101fc9798295f586e12|12]], [[#^s-ff51c9cbfa36f2e9a7e9b4ab|13]], [[#^s-8b97553db8a13fb0ef52a44d|14]], [[#^s-3c4f7ce3f533547fb5d8f998|15]], [[#^s-8d0aadc13fcb6fb8d8b75556|17]], [[#^s-267055970ae067f02c2bd7fc|18]], [[#^s-228b9c974850c5312ab31555|19]], [[#^s-a574e38dd8a0b7cc5b6d8e0e|21]] straipsnių ir priedo pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1469,17 +1469,17 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-45042dca32e9ed7f
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1842, 2023-03-28, paskelbta TAR 2023-03-30, i. k. 2023-05738
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 17, 20, 21 ir [[#^s-4b93d30a287d0a6a3d10973a|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-8d0aadc13fcb6fb8d8b75556|17]], [[#^s-05ca8c1c22351a6908e9dd7d|20]], [[#^s-a574e38dd8a0b7cc5b6d8e0e|21]] ir [[#^s-4b93d30a287d0a6a3d10973a|24]] straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2448, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25941
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 3, 16, 17, 18, [[#^s-a574e38dd8a0b7cc5b6d8e0e|21 straipsnių]], II skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-004324053c46e00d5273febc|3]], [[#^s-b68db28b5b5e3b7b1be178d4|16]], [[#^s-8d0aadc13fcb6fb8d8b75556|17]], [[#^s-267055970ae067f02c2bd7fc|18]], [[#^s-a574e38dd8a0b7cc5b6d8e0e|21]] straipsnių, II skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-642, 2025-12-09, paskelbta TAR 2025-12-15, i. k. 2025-21497
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 2, 3, 4, 6, 9, 11, 12, 14, 16, 17, 18, [[#^s-a574e38dd8a0b7cc5b6d8e0e|21 straipsnių]], II skyriaus pavadinimo ir priedo pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-3afdd9d5c12473e9f5e1d7b1|2]], [[#^s-004324053c46e00d5273febc|3]], [[#^s-ed3fa09a72e48cb0e22b0b0d|4]], [[#^s-1cfba082369464ffa642461c|6]], [[#^s-710d15ac1ecb6f5a4bb5d4a5|9]], [[#^s-ec23e45173999ffb1ecbaa4a|11]], [[#^s-4980c101fc9798295f586e12|12]], [[#^s-8b97553db8a13fb0ef52a44d|14]], [[#^s-b68db28b5b5e3b7b1be178d4|16]], [[#^s-8d0aadc13fcb6fb8d8b75556|17]], [[#^s-267055970ae067f02c2bd7fc|18]], [[#^s-a574e38dd8a0b7cc5b6d8e0e|21]] straipsnių, II skyriaus pavadinimo ir priedo pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1489,7 +1489,7 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-a18062bb8246ad4a
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-672, 2025-12-11, paskelbta TAR 2025-12-23, i. k. 2025-22562
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 17 ir [[#^s-a574e38dd8a0b7cc5b6d8e0e|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-8d0aadc13fcb6fb8d8b75556|17]] ir [[#^s-a574e38dd8a0b7cc5b6d8e0e|21]] straipsnių pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1499,4 +1499,4 @@ Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 [[#^s-45042dca32e9ed7f
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-696, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-22989
-Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 9-1 ir [[#^s-a574e38dd8a0b7cc5b6d8e0e|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos išmokų vaikams įstatymo Nr. I-621 9-1 ir [[#^s-a574e38dd8a0b7cc5b6d8e0e|21]] straipsnių pakeitimo įstatymas

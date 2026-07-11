@@ -97,13 +97,13 @@ Vilnius
 ### 2 straipsnis. 3 straipsnio papildymas ir pakeitimas ^s-f9021a4c711d660f79345eb7
 
 
-[[#^s-c18463893bdd391a05fa3d0f|3 straipsnį]] papildyti naujomis 3 ir [[#^s-12e0768675405ff206cebcb2|4 dalimis]], buvusią [[#^s-f94ea21c18ec4ee7fcd03d33|3 dalį]] laikyti [[#^s-7edfe61321d7fc6acf65257f|5 dalimi]] ir šį straipsnį išdėstyti taip:
+[[#^s-c18463893bdd391a05fa3d0f|3 straipsnį]] papildyti naujomis 3 ir [[#^s-91d422b98818faf6e7e95ed6|4]] dalimis, buvusią [[#^s-f94ea21c18ec4ee7fcd03d33|3 dalį]] laikyti [[#^s-7edfe61321d7fc6acf65257f|5 dalimi]] ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-c18463893bdd391a05fa3d0f|3 straipsnis]]. VVP išleidimas
 
 
-1. Vyriausybė [[#^s-df21cf169dc4a2934aa12572|2 straipsnio 1 dalies]] 2 ir 3 punktuose nustatytoms prievolėms įvykdyti išleidžia iki 400 mln. litų dešimties metų trukmės vieno lito nominalios vertės ilgalaikius VVP. ^s-df21cf169dc4a2934aa12572
+1. Vyriausybė 2 straipsnio 1 dalies 2 ir 3 punktuose nustatytoms prievolėms įvykdyti išleidžia iki 400 mln. litų dešimties metų trukmės vieno lito nominalios vertės ilgalaikius VVP. ^s-df21cf169dc4a2934aa12572
 
 
 2. [[#^s-df21cf169dc4a2934aa12572|Šio straipsnio 1 dalyje]] nustatytų išleidžiamų VVP antrinė apyvarta draudžiama. ^s-33b0085b8b6b97e645b6dc46
@@ -122,7 +122,7 @@ Vilnius
 ### 3 straipsnis. 4 straipsnio 3 ir 4 dalių pakeitimas ^s-c18463893bdd391a05fa3d0f
 
 
-[[#^s-715167c73b25c9a478344029|4 straipsnio]] 3 ir [[#^s-91d422b98818faf6e7e95ed6|4 dalis]] pakeisti ir išdėstyti taip:
+[[#^s-715167c73b25c9a478344029|4 straipsnio]] [[#^s-81881d03e5119dff87346055|3]] ir 4 dalis pakeisti ir išdėstyti taip:
 
 
 „3. Pasibaigus šio įstatymo 2 straipsnio 1 dalies 1 ir 4 punktuose nurodytose sąskaitose esančių lėšų išmokėjimui, taip pat šios dalies 2 ir 3 punktuose nurodytų VVP išpirkimui, Vyriausybė paskelbia apie tai „Valstybės žiniose“ ir pakviečia valstybės garantijas turinčius kreditorius atsiimti jiems priklausančių lėšų. Jeigu pasibaigus lėšų išmokėjimo ir VVP išpirkimo terminui valstybės garantijas turinčių kreditorių buvimo vieta nežinoma, jiems priklausančios lėšos saugomos Finansų ministerijos specialiosiose sąskaitose. Jeigu valstybės garantijas turintys kreditoriai per 3 metus nuo paskelbimo „Valstybės žiniose“ neatsiėmė jiems priklausančių lėšų, jie praranda į jas teises ir šios lėšos pervedamos į valstybės biudžetą Vyriausybės nustatyta tvarka.

@@ -56,7 +56,7 @@ Vilnius
 3. Pakeisti 2 straipsnio 14 dalies 1 punktą ir jį išdėstyti taip: ^s-d62392da4aadccdcc27061d1
 
 
-„1) dėl įstatinio kapitalo didinimo akcininkams proporcingai jų turimų akcijų skaičiui nemokamai išduotas akcijas arba anksčiau išleistų akcijų nominalios vertės padidinimo sumą, taip pat pajaus vertės ar dalies padidinimo sumą dėl pagrindinio kapitalo didinimo pajininkams ir nariams proporcingai jų turimai pajų vertei ar daliai, taip pat mažinant vieneto įstatinį kapitalą gaunamas lėšas (jų dalį) ir (arba) turtą (jo dalį), tenkančius įstatinio kapitalo, sudaryto iš vieneto dalyvių įnašų, sumažinimo daliai;“.
+„1) [dėl įstatinio kapitalo didinimo](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) akcininkams proporcingai jų turimų akcijų skaičiui nemokamai išduotas akcijas arba anksčiau išleistų akcijų nominalios vertės padidinimo sumą, taip pat pajaus vertės ar dalies padidinimo sumą dėl pagrindinio kapitalo didinimo pajininkams ir nariams proporcingai jų turimai pajų vertei ar daliai, taip pat mažinant vieneto įstatinį kapitalą gaunamas lėšas (jų dalį) ir (arba) turtą (jo dalį), tenkančius įstatinio kapitalo, sudaryto iš vieneto dalyvių įnašų, sumažinimo daliai;“.
 
 
 4. 2 straipsnio 22 dalyje po žodžių „verčiantis individualia veikla“ įrašyti žodžius „ir (arba) nekilnojamojo pagal prigimtį daikto nuomos veikla, jeigu šios veiklos įtrauktos“ ir šią dalį išdėstyti taip: ^s-53d08357138bd620d2c4dfbe
@@ -96,7 +96,7 @@ Vilnius
 3. Papildyti [[#^s-86b097add2af5160c7f0b382|6 straipsnį 5 dalimi]]: ^s-452f761d7116f71bfd9dfd77
 
 
-„5. Gyventojas gali pasirinkti mokėti fiksuoto dydžio pajamų mokestį nuo individualios veiklos pajamų, jeigu jis neprivalo registruotis ir nėra įregistruotas pridėtinės vertės mokesčio mokėtoju. Šių sąlygų neatitinkančio verslo liudijimą įsigijusio gyventojo individualios veiklos pajamos apmokestinamos taikant [[#^s-452f761d7116f71bfd9dfd77|šio straipsnio 3 dalyje]] nustatytą pajamų mokesčio tarifą, kuris pradedamas taikyti gyventojo individualios veiklos pajamoms, uždirbtoms mėnesį, einantį po mėnesio, kurį gyventojas neteko teisės pasirinkti mokėti fiksuoto dydžio pajamų mokestį. Už mokestinį laikotarpį (ar jo dalį) sumokėto fiksuoto dydžio pajamų mokesčio dalis, proporcingai tenkanti tai mokestinio laikotarpio daliai, kai gyventojo individualios veiklos pajamos apmokestinamos taikant [[#^s-452f761d7116f71bfd9dfd77|šio straipsnio 3 dalyje]] nustatytą pajamų mokesčio tarifą, įskaitoma į gyventojo nuo tų pajamų mokėtino pajamų mokesčio sumą.“
+„5. Gyventojas gali pasirinkti mokėti fiksuoto dydžio pajamų mokestį nuo individualios veiklos pajamų, jeigu jis neprivalo registruotis ir nėra įregistruotas pridėtinės vertės mokesčio mokėtoju. Šių sąlygų neatitinkančio verslo liudijimą įsigijusio gyventojo individualios veiklos pajamos apmokestinamos taikant šio straipsnio 3 dalyje nustatytą pajamų mokesčio tarifą, kuris pradedamas taikyti gyventojo individualios veiklos pajamoms, uždirbtoms mėnesį, einantį po mėnesio, kurį gyventojas neteko teisės pasirinkti mokėti fiksuoto dydžio pajamų mokestį. Už mokestinį laikotarpį (ar jo dalį) sumokėto fiksuoto dydžio pajamų mokesčio dalis, proporcingai tenkanti tai mokestinio laikotarpio daliai, kai gyventojo individualios veiklos pajamos apmokestinamos taikant šio straipsnio 3 dalyje nustatytą pajamų mokesčio tarifą, įskaitoma į gyventojo nuo tų pajamų mokėtino pajamų mokesčio sumą.“
 
 
 4. Papildyti 6 straipsnį 6 dalimi: ^s-93f21b984a4404b9ee0916b3
@@ -276,10 +276,10 @@ Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 12 straipsnis. Įstatymo taikymas ^s-aab62cbb0df3fbdb1358db87
 
 
-1. Šio įstatymo 1, 3, 4, 5, 7, 8, 9, 10, [[#^s-d9ef115ac71bb55a4e735c50|11 straipsnių]], [[#^s-6e7a8f0dfbb44fbe9b72199e|2 straipsnio]] 1 ir [[#^s-819f85261caf7b035494a633|2 dalių]] ir [[#^s-bd00d22a07ac91a45d960038|6 straipsnio]] 2, 4, 5 dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių metų mokestinių laikotarpių pajamas. ^s-91607c22e95f6d56175998e3
+1. Šio įstatymo [[#^s-e3f01669bea1bea22ddab2a4|1]], [[#^s-ab31cb3f73316e5ec1e1e4d5|3]], [[#^s-53fd95c43332e3e0acbd73c2|4]], [[#^s-15babb6815387136322a8733|5]], [[#^s-daf7f76551e2e9706a3e001a|7]], [[#^s-d8b59bbf979e330ebac8720a|8]], [[#^s-bcca6f1540c42a0b9a87c779|9]], [[#^s-57be757358193d5f9b6c78d1|10]], [[#^s-d9ef115ac71bb55a4e735c50|11]] straipsnių, [[#^s-6e7a8f0dfbb44fbe9b72199e|2 straipsnio]] [[#^s-f8bc6905f1f0772138e37760|1]] ir [[#^s-2edbebba2ab3376f2d9a0af5|2]] dalių ir [[#^s-bd00d22a07ac91a45d960038|6 straipsnio]] [[#^s-6c640440ae683c6354edbbae|2]], [[#^s-cd5ec948091f8418f1ca0acf|4]], [[#^s-86b097add2af5160c7f0b382|5]] dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2010 metų ir vėlesnių metų mokestinių laikotarpių pajamas. ^s-91607c22e95f6d56175998e3
 
 
-2. Šio įstatymo [[#^s-6e7a8f0dfbb44fbe9b72199e|2 straipsnio]] 3 ir [[#^s-6c174f4398159bd659b4a58f|4 dalių]] nuostatos taikomos apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių metų mokestinių laikotarpių pajamas. ^s-819f85261caf7b035494a633
+2. Šio įstatymo [[#^s-6e7a8f0dfbb44fbe9b72199e|2 straipsnio]] [[#^s-452f761d7116f71bfd9dfd77|3]] ir [[#^s-93f21b984a4404b9ee0916b3|4]] dalių nuostatos taikomos apskaičiuojant ir deklaruojant 2012 metų ir vėlesnių metų mokestinių laikotarpių pajamas. ^s-819f85261caf7b035494a633
 
 
 3. Šio įstatymo [[#^s-d603c56fe55d698afa96c1d3|6 straipsnio 1 dalies]] nuostatos taikomos apskaičiuojant ir deklaruojant 2011 metų ir vėlesnių metų mokestinių laikotarpių pajamas. Apskaičiuojant ir deklaruojant pridėtinės vertės mokesčio mokėtojais savanoriškai įsiregistravusių gyventojų 2011 metų apmokestinamąsias pajamas, šio įstatymo [[#^s-d603c56fe55d698afa96c1d3|6 straipsnio 1 dalyje]] išdėstytame [[latest/TAR.C677663D2202#^s-e213f3c06734bc315dde2663|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio 1 dalies 23 punkte]] nustatyta lengvata taikoma, jeigu tas gyventojas 2011 m. gruodžio 31 d. nėra įregistruotas pridėtinės vertės mokesčio mokėtoju. ^s-72142c10bc0dfed3a49fbd41

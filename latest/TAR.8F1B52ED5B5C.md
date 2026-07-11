@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-ac839c3fd188661862f80d8d
-LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO PASKIRTIES ŽEMĖS ĮSIGIJIMO LAIKINOJO ĮSTATYMO 1, 2, 3, 4, [[#^s-147aad85bbd063c50ba0b3f0|5 STRAIPSNIŲ]] PAKEITIMAS IR ĮSTATYMO PAPILDYMAS 41 STRAIPSNIU IR PRIEDU
+LIETUVOS RESPUBLIKOS ŽEMĖS ŪKIO PASKIRTIES ŽEMĖS ĮSIGIJIMO LAIKINOJO ĮSTATYMO 1, [[#^s-759272a883636f24400c6f1f|2]], [[#^s-a61ffd7cbdfd897cd6548ea9|3]], [[#^s-420b09c4cdafd6a9745efccc|4]], [[#^s-147aad85bbd063c50ba0b3f0|5]] STRAIPSNIŲ PAKEITIMAS IR ĮSTATYMO PAPILDYMAS 41 STRAIPSNIU IR PRIEDU
 
 (Žin., 2003, Nr. 15-600; 2004, Nr. 124-4490)
 
@@ -125,7 +125,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 2. Asmenys gali įsigyti tiek žemės, kad bendras vienam asmeniui priklausantis iš valstybės ir kitų asmenų įgytos žemės ūkio paskirties žemės plotas būtų ne didesnis kaip 500 ha. ^s-3073f75828ffed6cb0155aec
 
 
-3. Šio straipsnio 1 ir [[#^s-3073f75828ffed6cb0155aec|2 dalių]] nuostatos netaikomos, kai žemė įgyjama paveldėjimo ir nuosavybės teisės atkūrimo būdais.“ ^s-b6a918d078cf6dbff12e7e77
+3. Šio straipsnio [[#^s-29d7a569037ba203649fdd48|1]] ir [[#^s-3073f75828ffed6cb0155aec|2]] dalių nuostatos netaikomos, kai žemė įgyjama paveldėjimo ir nuosavybės teisės atkūrimo būdais.“ ^s-b6a918d078cf6dbff12e7e77
 
 
 
@@ -177,7 +177,7 @@ priedas
 1. 1997 m. liepos 10 d. Komisijos komunikatas dėl valstybės pagalbos elementų valdžios institucijoms parduodant žemę ir pastatus (97/C209/03) (Tekstas svarbus EEE) (OL 2004 m. specialusis leidimas, 8 skyrius, 1 tomas, p. 143). ^s-6b4394b76a23a247e1771a2f
 
 
-2. 1999 m. gegužės 17 d. Tarybos reglamentas (EB) Nr. 1257/1999 dėl Europos žemės ūkio orientavimo ir garantijų fondo (EŽŪOGF) paramos plėtrai ir iš dalies pakeičiantis bei panaikinantis tam tikrus reglamentus (OL 2004 m. specialusis leidimas, 3 skyrius, 25 tomas, p. 391) (su paskutiniais pakeitimais, padarytais 2004 m. gruodžio 22 d. Tarybos reglamentu (EB) Nr. 2223/2004 (OL 2004 L 379, p. 1). ^s-e3fe8615a6a1707151e89f28
+2. 1999 m. gegužės 17 d. Tarybos [reglamentas (EB) Nr. 1257/1999](https://eur-lex.europa.eu/eli/reg/1257/1999/oj) dėl Europos žemės ūkio orientavimo ir garantijų fondo (EŽŪOGF) paramos plėtrai ir iš dalies pakeičiantis bei panaikinantis tam tikrus reglamentus (OL 2004 m. specialusis leidimas, 3 skyrius, 25 tomas, p. 391) (su paskutiniais pakeitimais, padarytais 2004 m. gruodžio 22 d. Tarybos [reglamentu (EB) Nr. 2223/2004](https://eur-lex.europa.eu/eli/reg/2223/2004/oj) (OL 2004 L 379, p. 1). ^s-e3fe8615a6a1707151e89f28
 
 
 3. 2000 m. vasario 1 d. Komisijos rekomendacijos dėl valstybės pagalbos teikimo žemės ūkio sektoriui (2000/C28/02).“ ^s-d4c9754078c26a50f4a437d3

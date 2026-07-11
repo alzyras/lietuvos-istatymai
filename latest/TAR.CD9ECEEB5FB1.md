@@ -132,7 +132,7 @@ priima šį įstatymą.
 6. Lietuvos Aukščiausiojo Teismo pirmininko, generalinio prokuroro ar vidaus reikalų ministro sprendimą išduoti pažymėjimą ar atsisakyti jį išduoti šio įstatymo [[#^s-e6203a9d79f484de3899848f|1 straipsnio 3 dalyje]] nurodyti asmenys, jų giminaičiai (sutuoktiniai, vaikai, įvaikiai, taip pat broliai ir seserys) per 2 mėnesius nuo šio sprendimo gavimo dienos turi teisę apskųsti Lietuvos Aukščiausiajam Teismui. Šis skundas nagrinėjamas šio įstatymo [[#^s-d0809b91ceeabb34fb83a0f4|6 straipsnyje]] nustatyta tvarka. ^s-7b2251c4e38b31b51d9d955a
 
 
-7. Praleistas šio straipsnio 5 ar [[#^s-7b2251c4e38b31b51d9d955a|6 dalyje]] nustatytas skundo padavimo terminas gali būti atnaujintas atitinkamai Lietuvos Aukščiausiojo Teismo pirmininko paskirto teisėjo arba teisėjų kolegijos nutartimi, generalinio prokuroro sprendimu ar vidaus reikalų ministro sprendimu, jeigu yra pagrindas šio termino praleidimo priežastis pripažinti objektyviomis ir pateisinamomis. ^s-aeee98d5a469286b55b9094e
+7. Praleistas šio straipsnio [[#^s-9d14a0b7b7ef62c28490dbf9|5]] ar [[#^s-7b2251c4e38b31b51d9d955a|6]] dalyje nustatytas skundo padavimo terminas gali būti atnaujintas atitinkamai Lietuvos Aukščiausiojo Teismo pirmininko paskirto teisėjo arba teisėjų kolegijos nutartimi, generalinio prokuroro sprendimu ar vidaus reikalų ministro sprendimu, jeigu yra pagrindas šio termino praleidimo priežastis pripažinti objektyviomis ir pateisinamomis. ^s-aeee98d5a469286b55b9094e
 
 
 8. [[#^s-aeee98d5a469286b55b9094e|Šio straipsnio 7 dalyje]] numatytas generalinio prokuroro ar vidaus reikalų ministro sprendimas dėl skundo padavimo termino atnaujinimo gali būti apskųstas Lietuvos Aukščiausiajam Teismui. ^s-5dc31e426c3cadf35ea6d57a
@@ -175,7 +175,7 @@ priima šį įstatymą.
 8. [[#^s-72dd1d296f198023fd31b072|Šio straipsnio 7 dalyje]] nurodytas sprendimas, jei yra Lietuvos Aukščiausiojo Teismo pirmininko, generalinio prokuroro ar vidaus reikalų ministro teikimas arba asmens, nurodyto šio įstatymo [[#^s-7b2251c4e38b31b51d9d955a|4 straipsnio 6 dalyje]] skundas, taip pat jei kyla abejonių dėl nutarties teisėtumo ir pagrįstumo, Lietuvos Aukščiausiojo Teismo pirmininko teikimu gali būti kartu su medžiaga perduotas nagrinėti Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus septynių teisėjų kolegijai. Išnagrinėjusi byloje surinktą ir papildomai pateiktą medžiagą, ši kolegija gali priimti sprendimą panaikinti ar pakeisti [[#^s-72dd1d296f198023fd31b072|šio straipsnio 7 dalyje]] nurodytą sprendimą arba atmesti teikimą. ^s-b8e005e76f08f268688ab445
 
 
-9. Septynių teisėjų kolegijos sudarymui ir tolesniam skundo nagrinėjimo procesui mutatis mutandis taikomos šio straipsnio 1–[[#^s-ea38faf64560a185555abc0c|6 dalių]] nuostatos. ^s-2ecd1bcf2bdeee953312ab70
+9. Septynių teisėjų kolegijos sudarymui ir tolesniam skundo nagrinėjimo procesui mutatis mutandis taikomos šio straipsnio [[#^s-b30c545c91974a98653aca11|1]]–[[#^s-ea38faf64560a185555abc0c|6]] dalių nuostatos. ^s-2ecd1bcf2bdeee953312ab70
 
 
 10. Septynių teisėjų kolegijos sprendimas yra galutinis. ^s-7f0acf899a11eb243d544a62
@@ -218,7 +218,7 @@ priima šį įstatymą.
 3) Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus plenarinei sesijai, jeigu sprendimą pagal šio įstatymo [[#^s-8dfa959afe0058d88bc7c8c5|5 straipsnio]] nuostatas priėmė Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus septynių teisėjų kolegija. ^s-4203900c84b7f470c1ca5b54
 
 
-5. Teismo posėdis vyksta pagal šio įstatymo [[#^s-8dfa959afe0058d88bc7c8c5|5 straipsnio]] 3, 4, 5 ir [[#^s-730730bc3aac4e24c5b535fb|6 dalių]] nuostatas. ^s-632bf71f7776ed01f1a92706
+5. Teismo posėdis vyksta pagal šio įstatymo [[#^s-8dfa959afe0058d88bc7c8c5|5 straipsnio]] [[#^s-aab6d8c88e8cd622a59fecf1|3]], [[#^s-d9ba534cda4169983eb8b347|4]], [[#^s-3018174734924fba257eed10|5]] ir [[#^s-ea38faf64560a185555abc0c|6]] dalių nuostatas. ^s-632bf71f7776ed01f1a92706
 
 
 6. Lietuvos Aukščiausiojo Teismo Baudžiamųjų bylų skyriaus trijų ar septynių teisėjų kolegija arba šio skyriaus plenarinė sesija priima vieną iš šių nutarčių: ^s-730730bc3aac4e24c5b535fb

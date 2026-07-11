@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKirsnis ^s-ba032f069f6302ace9bae887
-[[latest/TAR.065AB8483E1E#^s-638854ea16115d050683733b|Visuomenės informavimo įstatymo 2, 4, 18, 26, 28, 37, 38, 39, 49 straipsnių]] pakeitimas ir papildymas
+[[latest/TAR.065AB8483E1E|Visuomenės informavimo įstatymo]] [[latest/TAR.065AB8483E1E#^s-52f0f4f872b7e979e4258773|2]], [[latest/TAR.065AB8483E1E#^s-bc5b8b269a1748ba4b2a7d14|4]], [[latest/TAR.065AB8483E1E#^s-6efa2d05ec1cee5a71fa6693|18]], [[latest/TAR.065AB8483E1E#^s-5d4d968ce611760cc788bb05|26]], [[latest/TAR.065AB8483E1E#^s-b26328dfdaac1bb37c251d37|28]], [[latest/TAR.065AB8483E1E#^s-5447684f3d4cf5c8775744de|37]], [[latest/TAR.065AB8483E1E#^s-71173341a529f158f473d125|38]], [[latest/TAR.065AB8483E1E#^s-f48b47a9a38175043e47ce50|39]], [[latest/TAR.065AB8483E1E#^s-638854ea16115d050683733b|49]] straipsnių pakeitimas ir papildymas
 
 (Žin., 1996, Nr. 71-1706; 2000, Nr. 75-2272)
 
@@ -79,7 +79,7 @@ Vilnius
 3. Pakeisti 18 straipsnio 4 dalį ir ją išdėstyti taip: ^s-df86c4c6270feef2dd6d15f8
 
 
-„4. [[#^s-df86c4c6270feef2dd6d15f8|Šio straipsnio 3 dalies]] nuostata taip pat taikoma ir kitoms programoms ar laidoms, kurios galėtų pakenkti nepilnamečių fiziniam, protiniam ar doroviniam vystymuisi, išskyrus tuos atvejus, kai parenkant transliavimo laiką arba naudojant techninės priemones užtikrinama, kad šių transliacijų priėmimo zonoje nepilnamečiai tokių programų ar laidų neklausytų ir nežiūrėtų.“
+„4. Šio straipsnio 3 dalies nuostata taip pat taikoma ir kitoms programoms ar laidoms, kurios galėtų pakenkti nepilnamečių fiziniam, protiniam ar doroviniam vystymuisi, išskyrus tuos atvejus, kai parenkant transliavimo laiką arba naudojant techninės priemones užtikrinama, kad šių transliacijų priėmimo zonoje nepilnamečiai tokių programų ar laidų neklausytų ir nežiūrėtų.“
 
 
 4. Papildyti 18 straipsnį nauja [[#^s-d1383ca0c4413f3a13c5d0aa|5 dalimi]]: ^s-c25fe7a25c2d7d057270c41e
@@ -88,7 +88,7 @@ Vilnius
 „5. Šio straipsnio 4 dalyje nurodytos programos ar laidos transliuojamos tik nuo 23 iki 6 valandos.“
 
 
-5. Buvusią [[#^s-d1383ca0c4413f3a13c5d0aa|5 dalį]] laikyti 6 dalimi. ^s-d1383ca0c4413f3a13c5d0aa
+5. Buvusią 5 dalį laikyti 6 dalimi. ^s-d1383ca0c4413f3a13c5d0aa
 
 
 
@@ -122,7 +122,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 6) pagrindinė transliuotojo buveinė yra Lietuvoje, bet redakciniai sprendimai dėl transliuojamų programų priimami kitoje valstybėje ne Europos Sąjungos narėje arba atvirkščiai, ir didesnioji dalis transliuotojo darbuotojų, kurie verčiasi transliavimo veikla, dirba Lietuvoje. ^s-bad539eecb6fdfe6514ea974
 
 
-2. Transliuotojas, kuriam negali būti taikomos [[#^s-092cc4b30d01b57e55d16b77|šio straipsnio 1 dalies]] 1, 2, 3, 4, 5, 6 punktų nuostatos ir kuris nepriklauso valstybės Europos Sąjungos narės arba kitos Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusios šalies jurisdikcijai, priklauso Lietuvos Respublikos jurisdikcijai, jei atitinka šias sąlygas: ^s-3aef3f1d255cd4eb3b211193
+2. Transliuotojas, kuriam negali būti taikomos [[#^s-092cc4b30d01b57e55d16b77|šio straipsnio 1 dalies]] [[#^s-fce178e40fb1b06bd228e788|1]], [[#^s-709a76dbffd1ed9402f381ff|2]], [[#^s-c2eebd5c38c0071081991d24|3]], 4, 5, 6 punktų nuostatos ir kuris nepriklauso valstybės Europos Sąjungos narės arba kitos Europos Tarybos konvenciją dėl televizijos be sienų ratifikavusios šalies jurisdikcijai, priklauso Lietuvos Respublikos jurisdikcijai, jei atitinka šias sąlygas: ^s-3aef3f1d255cd4eb3b211193
 
 
 1) transliuotojas naudojasi Lietuvos valstybei priklausančiu kanalu (radijo dažniu); ^s-fce178e40fb1b06bd228e788
@@ -172,13 +172,13 @@ c) minėtose valstybėse įsisteigusių kūrėjų įnašas į šių kūrinių be
 2) sukurti trečiosiose Europos valstybėse, tai yra ne valstybėse Europos Sąjungos narėse ar valstybėse, kuriose įsigaliojusi Europos Tarybos konvencija dėl televizijos be sienų, jeigu jie sukurti vienoje ar keliose trečiosiose Europos valstybėse įsisteigusių kūrėjų arba šiems kūrėjams bendradarbiaujant su kūrėjais, įsisteigusiais vienoje ar keliose valstybėse Europos Sąjungos narėse arba Lietuvos Respublikoje, tuo atveju, jei Europos Sąjunga arba Lietuvos Respublika yra sudariusi su šiomis trečiosiomis Europos valstybėmis sutartis dėl bendradarbiavimo audiovizualinėje srityje ir jeigu šie kūriniai yra iš esmės sukurti autorių ir kūrėjų, gyvenančių vienoje ar keliose Europos valstybėse.“ ^s-16c1b43ffd3af2c089dced05
 
 
-2. Papildyti 37 straipsnį nauja [[#^s-57745054fb4cf7b070cbdeed|2 dalimi]]: ^s-57745054fb4cf7b070cbdeed
+2. Papildyti 37 straipsnį nauja 2 dalimi: ^s-57745054fb4cf7b070cbdeed
 
 
 „2. [[#^s-a4c1f4acb3c14769000c0965|Šio straipsnio 1 dalies]] 1 ir 2 punktai taikomi tuo atveju, jei kūriniams, sukurtiems Lietuvos Respublikoje ar valstybėse Europos Sąjungos narėse, diskriminacinės priemonės [[#^s-a4c1f4acb3c14769000c0965|šio straipsnio 1 dalies]] 1 ir 2 punktuose numatytose šalyse netaikomos.“
 
 
-3. Buvusias 37 straipsnio 2 ir [[#^s-5d6d578458adb3b18f6dde6a|3 dalis]] laikyti atitinkamai 3 ir 4 dalimis. ^s-5d6d578458adb3b18f6dde6a
+3. Buvusias 37 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis. ^s-5d6d578458adb3b18f6dde6a
 
 
 
@@ -285,7 +285,7 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 9) kai dėl reklamos pertraukiamos kitokio pobūdžio laidos, negu nurodytos [[#^s-dd476298d4c6c4257d81fc8c|šios dalies 7 punkte]], po kiekvieno eilinio reklamos intarpo toje programoje turi praeiti ne mažiau kaip 20 minučių; ^s-aef6541cfbdb8572135c4957
 
 
-10) šios dalies 3, 4, 5, 6, [[#^s-984a581c7802100d7a06cb69|8 punktų]] nuostatos netaikomos toms televizijos laidoms, kurios yra skirtos transliuoti tik nacionalinei teritorijai, taip pat toms laidoms, kurių tiesiogiai ar netiesiogiai negali priimti kitų valstybių Europos Sąjungos narių gyventojai. ^s-9955b88b661e2f30e85f6712
+10) šios dalies [[#^s-1c23daa58225b7abc67a4009|3]], [[#^s-7899ab0af5281fa1844d02c4|4]], [[#^s-b81fdf984400536984d405df|5]], [[#^s-abd3f40f8e43959baf710063|6]], [[#^s-984a581c7802100d7a06cb69|8]] punktų nuostatos netaikomos toms televizijos laidoms, kurios yra skirtos transliuoti tik nacionalinei teritorijai, taip pat toms laidoms, kurių tiesiogiai ar netiesiogiai negali priimti kitų valstybių Europos Sąjungos narių gyventojai. ^s-9955b88b661e2f30e85f6712
 
 
 11. Kaip laikomasi šiame ir kituose įstatymuose nustatytų reikalavimų reklamai, kontroliuoja Nacionalinė vartotojų teisių apsaugos taryba ir Konkurencijos taryba, bendradarbiaudamos su viešosios informacijos rengėjų ir (ar) platintojų veiklos reglamentavimo institucijomis bei reklamos savitvarkos institucijomis. ^s-63247f8a25e66283ae8624f4
@@ -307,7 +307,7 @@ Pakeisti 39 straipsnį ir jį išdėstyti taip:
 1. 49 straipsnio 1 dalies 4 punkte po žodžio „nuobaudas“ įrašyti žodžius „įspėjimus, Lietuvos Respublikos administracinių teisės pažeidimų kodekse numatytas“ ir šį punktą išdėstyti taip: ^s-9f513873e9fdd1268870598a
 
 
-„4) transliuotojams, pažeidusiems šio įstatymo reikalavimus ar nevykdantiems Komisijos priimtų sprendimų, įstatymų nustatyta tvarka gali taikyti šias nuobaudas: įspėjimus, Lietuvos Respublikos administracinių teisės pažeidimų kodekse numatytas pinigines baudas, ne ilgiau kaip 3 mėnesiams sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą;“.
+„4) transliuotojams, pažeidusiems šio įstatymo reikalavimus ar nevykdantiems Komisijos priimtų sprendimų, įstatymų nustatyta tvarka gali taikyti šias nuobaudas: įspėjimus, [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytas pinigines baudas, ne ilgiau kaip 3 mėnesiams sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą;“.
 
 
 2. Pakeisti 49 straipsnio 1 dalies 8 punktą ir jį išdėstyti taip: ^s-4633bdad2191d5c2251076f3
@@ -332,7 +332,7 @@ Visuomenės informavimo įstatymo pakeitimo įstatymo  3 STRAIPSNIO pakeitimas i
 Pakeisti [[#^s-8cb916cb8aef96c2001ad2dc|3 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
-„1. Televizijos transliuotojai, išskyrus vietinius, įsipareigoję savo žiūrovams transliuoti informacinio, švietimo, kultūrinio ar pramoginio pobūdžio programas, privalo įgyvendinti [[latest/TAR.065AB8483E1E#^s-71173341a529f158f473d125|Visuomenės informavimo įstatymo 38 straipsnio]] 3 ir 4 dalių nuostatas. Šių nuostatų reikalavimai įgyvendinami nuosekliai, kiek tai praktiškai įmanoma, tačiau įstatymo įsigaliojimo metu pasiekti Europos kūrinių ir nepriklausomų kūrėjų produkcijos transliavimo mastai negali būti sumažinti. Transliuotojai (išskyrus LRT) kas 2 metai pateikia Radijo ir televizijos komisijai ataskaitą dėl [[latest/TAR.065AB8483E1E#^s-71173341a529f158f473d125|Visuomenės informavimo įstatymo 38 straipsnio]] 3 ir 4 dalių nuostatų įgyvendinimo. Ataskaitoje turi būti nurodytos priežastys, kurios trukdo šias nuostatas įgyvendinti bei kokių priemonių imtasi ar numatoma imtis trūkumams pašalinti. Taikant [[latest/TAR.065AB8483E1E#^s-71173341a529f158f473d125|Visuomenės informavimo įstatymo 38 straipsnio]] 3 ir 4 dalių nuostatas, atsižvelgiama į tai, kad teminiams kanalams nėra tinkamų Europos kūrinių, taip pat į tai, kad televizijos transliuotojas dar tik pradeda savo veiklą.“
+„1. Televizijos transliuotojai, išskyrus vietinius, įsipareigoję savo žiūrovams transliuoti informacinio, švietimo, kultūrinio ar pramoginio pobūdžio programas, privalo įgyvendinti [[latest/TAR.065AB8483E1E#^s-71173341a529f158f473d125|Visuomenės informavimo įstatymo 38 straipsnio]] [[latest/TAR.065AB8483E1E#^s-ee63391aff5540d869c388bf|3]] ir [[latest/TAR.065AB8483E1E#^s-452c8c62a537552942ed3327|4]] dalių nuostatas. Šių nuostatų reikalavimai įgyvendinami nuosekliai, kiek tai praktiškai įmanoma, tačiau įstatymo įsigaliojimo metu pasiekti Europos kūrinių ir nepriklausomų kūrėjų produkcijos transliavimo mastai negali būti sumažinti. Transliuotojai (išskyrus LRT) kas 2 metai pateikia Radijo ir televizijos komisijai ataskaitą dėl [[latest/TAR.065AB8483E1E#^s-71173341a529f158f473d125|Visuomenės informavimo įstatymo 38 straipsnio]] [[latest/TAR.065AB8483E1E#^s-ee63391aff5540d869c388bf|3]] ir [[latest/TAR.065AB8483E1E#^s-452c8c62a537552942ed3327|4]] dalių nuostatų įgyvendinimo. Ataskaitoje turi būti nurodytos priežastys, kurios trukdo šias nuostatas įgyvendinti bei kokių priemonių imtasi ar numatoma imtis trūkumams pašalinti. Taikant [[latest/TAR.065AB8483E1E#^s-71173341a529f158f473d125|Visuomenės informavimo įstatymo 38 straipsnio]] [[latest/TAR.065AB8483E1E#^s-ee63391aff5540d869c388bf|3]] ir [[latest/TAR.065AB8483E1E#^s-452c8c62a537552942ed3327|4]] dalių nuostatas, atsižvelgiama į tai, kad teminiams kanalams nėra tinkamų Europos kūrinių, taip pat į tai, kad televizijos transliuotojas dar tik pradeda savo veiklą.“
 
 
 

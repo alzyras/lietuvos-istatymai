@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-0c603ecf50ccd048e1e98b25
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. balandžio 6 d. dekretą Nr. 254, ratifikuoja 2004 m. gegužės 13 d. Strasbūre priimtą Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolą Nr. 14, pakeičiantį Konvencijos kontrolės sistemą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. balandžio 6 d. dekretą Nr. 254](https://e-tar.lt/portal/lt/legalAct/TAR.C1B99F1D90DE), ratifikuoja 2004 m. gegužės 13 d. Strasbūre priimtą Žmogaus teisių ir pagrindinių laisvių apsaugos konvencijos protokolą Nr. 14, pakeičiantį Konvencijos kontrolės sistemą.
 
 
 

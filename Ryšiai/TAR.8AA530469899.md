@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26
 
 ## Šis įstatymas cituoja
 
-- [[latest/a4f70ce090d711e4bb408baba2bdddf3|Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 107, 113 straipsnių papildymo ir pakeitimo įstatymo Nr. XII-602 8 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1511
+_Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.3EB34933E485#^s-165a514f5b02ec3454d3a4c4|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 14, 26, 105, 106, 107, 113 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.3EB34933E485#^s-471ad9654ded2e34c0e8a829|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 2 citatos - MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 14, 26, 105, 106, 107, 113 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.3EB34933E485#^s-165a514f5b02ec3454d3a4c4|Lietuvos Respublikos mokesčių administravimo įstatymas]] - 3 citatos - MOKESČIŲ ADMINISTRAVIMO ĮSTATYMO 2, 14, 26, 105, 106, 107, 113 STRAIPSNIŲ PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+- [[latest/a4f70ce090d711e4bb408baba2bdddf3#^s-ed990144cfc33556ebba12e8|Lietuvos Respublikos mokesčių administravimo įstatymo 2, 14, 26, 105, 106, 107, 113 straipsnių papildymo ir pakeitimo įstatymo Nr. XII-602 8 straipsnio pakeitimo įstatymas]] - 8 straipsnio 1 dalį

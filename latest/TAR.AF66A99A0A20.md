@@ -131,13 +131,13 @@ Išimtinės teisės įgalina leisti ar uždrausti šiuos veiksmus:
 2) topografija atgaminama analizės, įvertinimo ar mokymo tikslams; ^s-a336a2778f91fdbdb6d2e970
 
 
-3) komerciniams tikslams naudojama nauja topografija, kuri yra sukurta analizuojant ar vertinant saugomą topografiją ir atitinka šio įstatymo [[#^s-192d3d7f3cca754f3247fb96|3 straipsnio]] 1 ir [[#^s-102958b9bd7f1d9a7706a6fc|2 dalių]] reikalavimus. ^s-d2c64cf2d5c64689422ab68f
+3) komerciniams tikslams naudojama nauja topografija, kuri yra sukurta analizuojant ar vertinant saugomą topografiją ir atitinka šio įstatymo [[#^s-192d3d7f3cca754f3247fb96|3 straipsnio]] [[#^s-04f9bab18962e7533158e00e|1]] ir [[#^s-6733321cecde5b456c59d039|2]] dalių reikalavimus. ^s-d2c64cf2d5c64689422ab68f
 
 
 2. Asmeniui, kuris įsigyja topografiją ar puslaidininkinį gaminį nežinodamas ir negalėdamas žinoti, kad šie yra saugomi išimtinių teisių, negali būti trukdoma juos naudoti komerciniams tikslams. Jeigu veiksmai atliekami po to, kai asmuo sužino ar turėjo sužinoti apie tokią topografijos ar puslaidininkinio gaminio apsaugą, teisių savininko reikalavimu naudotojas turi sumokėti atitinkamą atlyginimą. ^s-102958b9bd7f1d9a7706a6fc
 
 
-3. Kai topografijos ar puslaidininkinio gaminio, kuriame panaudota topografija, originalą ar kopiją parduoda topografijos savininkas arba originalas ar kopija parduodama jo sutikimu, išimtinės teisės, apibūdintos [[#^s-c1ab61fa414fdbd285b89236|5 straipsnio 2 punkte]], ją įsigijusiam asmeniui netaikomos. ^s-a605bbfb2918c2412fc8ef3f
+3. Kai topografijos ar puslaidininkinio gaminio, kuriame panaudota topografija, originalą ar kopiją parduoda topografijos savininkas arba originalas ar kopija parduodama jo sutikimu, išimtinės teisės, apibūdintos 5 straipsnio 2 punkte, ją įsigijusiam asmeniui netaikomos. ^s-a605bbfb2918c2412fc8ef3f
 
 
 
@@ -472,20 +472,20 @@ Ginčus dėl topografijos registravimo ir naudojimo nagrinėja šios institucijo
 ### 212 straipsnis. Įrodymai ^s-4801b3c99dd6aa405f06c8a7
 
 
-1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu Civilinio proceso kodekso nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo pažeistos šio įstatymo nustatytos teisės. ^s-ed6678f3623a43b80ee0f349
+1. Teismas šalies, kuri pateikė visus pagrįstai turimus ir jos reikalavimus pakankamai pagrindžiančius įrodymus ir kuri nurodė priešingos šalies turimus ir jos reikalavimus pagrindžiančius įrodymus, prašymu [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali išreikalauti iš priešingos šalies šios turimus prašomus įrodymus, jeigu garantuojama konfidencialios informacijos apsauga. Teismas pakankamą gaminių skaičiaus atrankinę dalį laiko įtikinamu įrodymu, kad buvo pažeistos šio įstatymo nustatytos teisės. ^s-ed6678f3623a43b80ee0f349
 
 
-2. Jeigu šio įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra šio straipsnio pirmojoje dalyje nurodytos sąlygos, teismas Civilinio proceso kodekso nustatyta tvarka iš priešingos šalies gali išreikalauti banko, finansinius ar komercinius dokumentus, jeigu garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-88b37a6ebed8604e9c37b695
+2. Jeigu šio įstatymo nustatytų teisių pažeidimas padarytas komerciniais tikslais ir yra šio straipsnio pirmojoje dalyje nurodytos sąlygos, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka iš priešingos šalies gali išreikalauti banko, finansinius ar komercinius dokumentus, jeigu garantuojama konfidencialios informacijos apsauga. Jeigu tokie įrodymai per teismo nustatytą terminą nepateikiami be svarbių priežasčių arba atsisakoma leisti jais pasinaudoti, teismas turi teisę priimti sprendimą remdamasis jam pateiktais įrodymais. ^s-88b37a6ebed8604e9c37b695
 
 
 
 ### 213 straipsnis. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės ^s-7289c5ef7f531e23a130c0fd
 
 
-1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja Civilinio proceso kodeksas ir šis įstatymas. ^s-467120721572302732db8dd7
+1. Laikinųjų apsaugos ir įrodymų užtikrinimo priemonių taikymą reglamentuoja [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir šis įstatymas. ^s-467120721572302732db8dd7
 
 
-2. Kai yra pakankamas pagrindas įtarti, kad buvo pažeistos šio įstatymo nustatytos teisės, teismas Civilinio proceso kodekso nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra: ^s-59f2b324339b87eb5b195dd4
+2. Kai yra pakankamas pagrindas įtarti, kad buvo pažeistos šio įstatymo nustatytos teisės, teismas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka gali taikyti laikinąsias apsaugos priemones, būtinas užkirsti kelią gresiantiems neteisėtiems veiksmams, neteisėtiems veiksmams skubiai nutraukti ir teismo galutiniam sprendimui įvykdyti, tai yra: ^s-59f2b324339b87eb5b195dd4
 
 
 1) uždrausti asmenims daryti gresiantį šio įstatymo nustatytų teisių pažeidimą; ^s-f2849455ef43355b56abdc64
@@ -503,7 +503,7 @@ Ginčus dėl topografijos registravimo ir naudojimo nagrinėja šios institucijo
 5) areštuoti šio įstatymo nustatytų teisių pažeidimu įtariamų asmenų turtą, kurį turi jie arba tretieji asmenys, įskaitant banko ir kitų kredito įstaigų sąskaitas; taip pat reikalauti pateikti banko, finansinius ar komercinius dokumentus ar sudaryti galimybę susipažinti su šiais dokumentais, jeigu pažeidimas padarytas komerciniu tikslu; ^s-c47b365a870d2ec1fc78f529
 
 
-6) taikyti kitas Civilinio proceso kodekso nustatytas priemones. ^s-8bb7b5a4cc4b5aa37e775968
+6) taikyti kitas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytas priemones. ^s-8bb7b5a4cc4b5aa37e775968
 
 
 3. Jeigu pritaikytos [[#^s-59f2b324339b87eb5b195dd4|šio straipsnio 2 dalies]] 1 ir 2 punktuose nurodytos laikinosios apsaugos priemonės yra pažeidžiamos ir šis pažeidimas tęsiamas, teismas gali įpareigoti pažeidimo darymu įtariamus asmenis pateikti tinkamą galimos žalos kompensavimo užtikrinimą asmeniui, prašiusiam taikyti laikinąsias apsaugos priemones. ^s-db40bb957483e975f5718820
@@ -521,7 +521,7 @@ Ginčus dėl topografijos registravimo ir naudojimo nagrinėja šios institucijo
 2) areštuoti šio įstatymo nustatytas teises pažeidžiančius gaminius (prekes), prireikus – medžiagas bei priemones, kurios yra naudojamos jų gamybai ir (arba) platinimui, bei su jomis susijusius dokumentus ir juos paimti; ^s-fbff0e131eb42307a0cd6ef0
 
 
-3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas Civilinio proceso kodekse. ^s-2b3d6e5f7aab98b97fdd1f62
+3) taikyti kitas skubias ir veiksmingas laikinąsias priemones, numatytas [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F). ^s-2b3d6e5f7aab98b97fdd1f62
 
 
 6. Laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti taikomos nepranešus atsakovui ir jo neišklausius, ypač kai delsimas galėtų padaryti nepataisomą žalą pareiškėjui arba kai yra įrodoma grėsmė, kad įrodymai gali būti sunaikinti. Kad laikinosios apsaugos ir įrodymų užtikrinimo priemonės taikomos nepranešus atsakovui ir jo neišklausius, atsakovui turi būti pranešta nedelsiant, t. y. iš karto tas priemones pritaikius. Šalių prašymu, įskaitant teisę būti išklausytam, laikinosios apsaugos ir įrodymų užtikrinimo priemonės gali būti peržiūrėtos siekiant per protingą terminą po pranešimo apie priemones nuspręsti, ar šios priemonės turi būti pakeistos, panaikintos ar patvirtintos. ^s-31a795bfff321c9b930bd525
@@ -654,4 +654,4 @@ Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-495, 2025-10-16, paskelbta TAR 2025-10-21, i. k. 2025-17510
-Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymo Nr. VIII-791 13, 16 ir [[#^s-4db881c2bae3ab150f975b6a|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos puslaidininkinių gaminių topografijų teisinės apsaugos įstatymo Nr. VIII-791 [[#^s-3042117f4da08f7356e042e5|13]], [[#^s-81ea8f5a6e5012b360328c96|16]] ir [[#^s-4db881c2bae3ab150f975b6a|17]] straipsnių pakeitimo įstatymas

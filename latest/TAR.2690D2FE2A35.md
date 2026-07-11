@@ -96,7 +96,7 @@ Lietuvos kariuomenės (toliau – kariuomenė) drausmės statuto (toliau – Sta
 3. Už baudžiamajame įstatyme apibrėžtą veiką karys traukiamas baudžiamojon atsakomybėn Lietuvos Respublikos baudžiamojo kodekso ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekso]] nustatyta tvarka. ^s-44305dabeff519bdc563365b
 
 
-4. Karys, padaręs Lietuvos Respublikos administracinių teisės pažeidimų kodekse apibrėžtą veiką, traukiamas administracinėn atsakomybėn bendrais pagrindais. ^s-f12825e5ede4e61ce8fc31bb
+4. Karys, padaręs [Lietuvos Respublikos administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) apibrėžtą veiką, traukiamas administracinėn atsakomybėn bendrais pagrindais. ^s-f12825e5ede4e61ce8fc31bb
 
 
 
@@ -678,7 +678,7 @@ Tarnybinio patikrinimo metu nustatomos šios aplinkybės:
 4. Kario, įtariamo drausmės pažeidimo padarymu, liga nėra pagrindas sustabdyti tarnybinį patikrinimą. Kai karys, įtariamas drausmės pažeidimo padarymu, dėl sveikatos būklės negali pateikti paaiškinimo ir yra tai patvirtinanti gydančio gydytojo pažyma, tarnybinis patikrinimas sustabdomas, iki išnyks jo sustabdymo priežastis. ^s-623814f8e9d88a1dc3f5419a
 
 
-5. Kai paaiškėja, kad drausmės pažeidimas turi nusikalstamos veikos požymių, pažeidimo tyrimas sustabdomas ir tarnybinio patikrinimo medžiaga perduodama ikiteisminio tyrimo įstaigai. Jeigu ikiteisminis tyrimas nutraukiamas, asmuo atleidžiamas nuo baudžiamosios atsakomybės arba priimamas išteisinamasis ar apkaltinamasis nuosprendis ir yra pasibaigęs baudžiamasis procesas, tai nuo prokuroro ar teismo atitinkamų sprendimų priėmimo dienos drausmės pažeidimo tyrimas atnaujinamas ir nustatomas naujas terminas laikantis šio straipsnio 1 ir [[#^s-6b091e48bbbb14aa5508ed1d|2 dalyse]] nustatytų terminų. ^s-cd7164977ccf2bfbfa51a73d
+5. Kai paaiškėja, kad drausmės pažeidimas turi nusikalstamos veikos požymių, pažeidimo tyrimas sustabdomas ir tarnybinio patikrinimo medžiaga perduodama ikiteisminio tyrimo įstaigai. Jeigu ikiteisminis tyrimas nutraukiamas, asmuo atleidžiamas nuo baudžiamosios atsakomybės arba priimamas išteisinamasis ar apkaltinamasis nuosprendis ir yra pasibaigęs baudžiamasis procesas, tai nuo prokuroro ar teismo atitinkamų sprendimų priėmimo dienos drausmės pažeidimo tyrimas atnaujinamas ir nustatomas naujas terminas laikantis šio straipsnio [[#^s-c3d59195deebf750e05f13d5|1]] ir [[#^s-6b091e48bbbb14aa5508ed1d|2]] dalyse nustatytų terminų. ^s-cd7164977ccf2bfbfa51a73d
 
 
 6. Jeigu tarnybinis patikrinimas buvo pradėtas dėl kario skundo, apie tarnybinio patikrinimo sustabdymą, atnaujinimą ar pratęsimą kariui pranešama raštu. ^s-7ce06630496343b27b0a5878
@@ -1231,7 +1231,7 @@ IŠANKSTINĖ KARO TARNYBOS GINČŲ NAGRINĖJIMO NE TEISME TVARKA KRAŠTO APSAUGO
 ### 57 straipsnis. Karo tarnybos ginčai ^s-6ccb5d2bee65a6f17c696eb2
 
 
-Ginčai dėl nušalinimo nuo pareigų, perkėlimo į kitas pareigas, dėl karių laipsnių, drausminių nuobaudų, kario tarnybos sutarties pratęsimo ir kiti karo tarnybos ginčai pradedami nagrinėti padavus skundą šiame skyriuje nustatyta tvarka.
+Ginčai [dėl nušalinimo nuo pareigų](https://e-tar.lt/portal/lt/legalAct/61ab2c2069ad11edbc04912defe897d1), perkėlimo į kitas pareigas, dėl karių laipsnių, drausminių nuobaudų, kario tarnybos sutarties pratęsimo ir kiti karo tarnybos ginčai pradedami nagrinėti padavus skundą šiame skyriuje nustatyta tvarka.
 
 
 
@@ -1668,7 +1668,7 @@ Už tarnybos ar ne tarnybos metu kario vardą žeminančią veiką, kuria akivai
 ### 92 straipsnis. Drausmės pažeidimas tarptautinės operacijos metu ^s-267b5b521ec92af234b9083b
 
 
-1. Už šiame skyriuje nurodytus drausmės pažeidimus, padarytus tarptautinėse operacijose, išskyrus pažeidimus, numatytus šio statuto 66 ir [[#^s-27cca9bd7f35a5baed9ee1d7|67 straipsniuose]], profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas ar pažeminamas kario laipsnis arba karys atleidžiamas iš tarnybos. ^s-2793a570fd1ddca5755cf5d7
+1. Už šiame skyriuje nurodytus drausmės pažeidimus, padarytus tarptautinėse operacijose, išskyrus pažeidimus, numatytus šio statuto [[#^s-1991b6e86106e4a350f61b19|66]] ir [[#^s-27cca9bd7f35a5baed9ee1d7|67]] straipsniuose, profesinės karo tarnybos kariui sumažinamas tarnybinis atlyginimas ar pažeminamas kario laipsnis arba karys atleidžiamas iš tarnybos. ^s-2793a570fd1ddca5755cf5d7
 
 
 2. Už drausmės pažeidimus, padarytus sunkinančiomis aplinkybėmis, profesinės karo tarnybos karys atleidžiamas iš tarnybos. ^s-9b32e4692fff8e7d6a5fe973

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-b3fe8c0f8c925691ba47a724
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. rugsėjo 16 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1965 metų Tarptautinę konvenciją dėl visų formų rasinės diskriminacijos panaikinimo“, ratifikuoja 1965 metų Tarptautinę konvenciją dėl visų formų rasinės diskriminacijos panaikinimo, pasirašytą 1998 m. birželio 8 d. Niujorke.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. rugsėjo 16 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1965 metų Tarptautinę konvenciją dėl visų formų rasinės diskriminacijos panaikinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.2AE18C1EC422), ratifikuoja 1965 metų Tarptautinę konvenciją dėl visų formų rasinės diskriminacijos panaikinimo, pasirašytą 1998 m. birželio 8 d. Niujorke.
 
 
 

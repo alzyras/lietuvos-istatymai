@@ -46,7 +46,7 @@ Pakeisti [[#^s-b626e76cab7bffbb599c59a0|3 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-b626e76cab7bffbb599c59a0|3 straipsnis]]. Vyriausybės veiklos teisiniai pagrindai
 
 
-Vyriausybė savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, įstatymais, Vyriausybės programa, kitais teisės aktais ir savo veiklą derina su Valstybės ilgalaikės raidos strategija.“
+Vyriausybė savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, įstatymais, Vyriausybės programa, kitais teisės aktais ir savo veiklą derina su Valstybės ilgalaikės raidos strategija.“
 
 
 
@@ -85,7 +85,7 @@ Pakeisti 22 straipsnio 3 punktą ir jį išdėstyti taip:
 „2. Ministrą gali laikinai pavaduoti tik Ministro Pirmininko paskirtas kitas Vyriausybės narys. Pavaduojantis ministras nevykdo funkcijų, numatytų šio straipsnio 3 dalies 8, 11 ir 12 punktuose.“
 
 
-2. Pakeisti 26 straipsnio 3 dalies 8 ir [[#^s-03867ccad530a65d9daabebe|9 punktus]] ir juos išdėstyti taip: ^s-474388135d4f6aa2b2f1ec57
+2. Pakeisti 26 straipsnio 3 dalies 8 ir 9 punktus ir juos išdėstyti taip: ^s-474388135d4f6aa2b2f1ec57
 
 
 „8) tvirtina ministerijos administracijos struktūrą ir pareigybių sąrašą, neviršydamas darbo užmokesčiui nustatytų lėšų;
@@ -103,7 +103,7 @@ Pakeisti 22 straipsnio 3 punktą ir jį išdėstyti taip:
 4. Buvusius 26 straipsnio 3 dalies 10, 11 ir 12 punktus laikyti atitinkamai 11, 12 ir 13 punktais. ^s-7c9306b18db62f95926f8da6
 
 
-5. Pakeisti 26 straipsnio 3 dalies 11 ir [[#^s-984827cec00145223b3af36d|12 punktus]] ir juos išdėstyti taip: ^s-24d97cecc1f6556af7b16420
+5. Pakeisti 26 straipsnio 3 dalies 11 ir 12 punktus ir juos išdėstyti taip: ^s-24d97cecc1f6556af7b16420
 
 
 „11) [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nustatyta tvarka skiria į pareigas ir atleidžia iš jų ministerijos valstybės tarnautojus, įstaigų prie ministerijos vadovus;
@@ -279,10 +279,10 @@ Pakeisti 37 straipsnio 4 dalį ir ją išdėstyti taip:
 „2. Vyriausybės kancleris teikia Ministrui Pirmininkui siūlymus dėl Vyriausybės posėdžio darbotvarkės sudarymo.“
 
 
-2. 40 straipsnio 3 ir [[#^s-0af35f4896c93dfdb187a9ea|4 dalis]] pripažinti netekusiomis galios. ^s-676585dd04ff3c1f614a55e1
+2. 40 straipsnio 3 ir 4 dalis pripažinti netekusiomis galios. ^s-676585dd04ff3c1f614a55e1
 
 
-3. Buvusias 40 straipsnio 5 ir 6 dalis laikyti atitinkamai 3 ir [[#^s-0af35f4896c93dfdb187a9ea|4 dalimis]]. ^s-b3964a710f941ebd99ae69bf
+3. Buvusias 40 straipsnio 5 ir 6 dalis laikyti atitinkamai 3 ir 4 dalimis. ^s-b3964a710f941ebd99ae69bf
 
 
 4. Pakeisti 40 straipsnio 3 dalį ir ją išdėstyti taip: ^s-0af35f4896c93dfdb187a9ea

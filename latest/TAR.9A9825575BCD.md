@@ -220,13 +220,13 @@ Pakeisti 22 straipsnio 4 dalį ir ją išdėstyti taip:
 „1. Viešojo sektoriaus subjektų grupių sudėtį finansinėms ataskaitoms konsoliduoti ir atsakingus už konsoliduotųjų finansinių ataskaitų rinkinių rengimą viešojo sektoriaus subjektus nustato Vyriausybė arba jos įgaliotos institucijos.“
 
 
-2. Papildyti 23 straipsnį nauja [[#^s-01dcf2f9ee3a47af2811ce4b|2 dalimi]]: ^s-01dcf2f9ee3a47af2811ce4b
+2. Papildyti 23 straipsnį nauja 2 dalimi: ^s-01dcf2f9ee3a47af2811ce4b
 
 
 „2. Viešojo sektoriaus subjektų grupę konsoliduotųjų biudžeto vykdymo ataskaitų rinkiniui rengti sudaro viešojo sektorius subjektas, kurio vadovas yra asignavimų valdytojas, ir viešojo sektoriaus subjektai, kuriems jis perdavė gautus asignavimus.“
 
 
-3. Buvusias 23 straipsnio 2, 3, 4 ir [[#^s-c69b7f14ab1355fa72be7ea8|5 dalis]] laikyti atitinkamai 3, 4, 5 ir [[#^s-e30a4f8fd74ec70e4301da07|6 dalimis]]. ^s-9c71c1dd0fd74015f55fb755
+3. Buvusias 23 straipsnio 2, 3, 4 ir 5 dalis laikyti atitinkamai 3, 4, 5 ir 6 dalimis. ^s-9c71c1dd0fd74015f55fb755
 
 
 4. 23 straipsnio 3 dalyje vietoj žodžio „sudaro“ įrašyti žodį „rengia“ ir šią dalį išdėstyti taip: ^s-20118745e58b332c15e7eda7

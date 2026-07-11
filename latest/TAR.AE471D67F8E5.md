@@ -406,7 +406,7 @@ Pakeisti [[#^s-658cd525daf4f9d29196c8f1|13 straipsnį]] ir jį išdėstyti taip:
 „3. Apie parengtas reorganizavimo sąlygas turi būti paskelbta visų reorganizavime dalyvaujančių viešųjų įstaigų įstatuose nurodytuose šaltiniuose tris kartus ne mažesniais kaip trisdešimties dienų intervalais arba paskelbta vieną kartą ne vėliau kaip prieš trisdešimt dienų iki visuotinio dalininkų susirinkimo, kurio darbotvarkėje numatyta priimti sprendimą dėl reorganizavimo, ir pranešta raštu visiems viešosios įstaigos kreditoriams. Pranešime turi būti nurodyta:
 
 
-1) [[#^s-7ec10d70cc99f590abba61f0|šio straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodyta informacija; ^s-5a20d5edde910daf09fe290a
+1) [[#^s-7ec10d70cc99f590abba61f0|šio straipsnio 2 dalies]] 1, [[#^s-7f4e1bfd04f7704b4b4d78ae|2]] ir 4 punktuose nurodyta informacija; ^s-5a20d5edde910daf09fe290a
 
 
 2) kur ir nuo kada galima susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių viešųjų įstaigų įstatų projektais ir reorganizavime dalyvaujančių viešųjų įstaigų praėjusių trejų finansinių metų metinių finansinių ataskaitų rinkiniais.“ ^s-7f4e1bfd04f7704b4b4d78ae

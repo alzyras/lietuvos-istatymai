@@ -55,7 +55,7 @@ Pakeisti 1 straipsnį ir jį išdėstyti taip:
 ### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-108944a8ec57dac93bbc2a5b
 
 
-1. Pakeisti [[#^s-90773a2bcd47c39fbad96440|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-90773a2bcd47c39fbad96440
+1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^s-90773a2bcd47c39fbad96440
 
 
 „1. Hipnozė – laikina psichinė būsena – sąmonės pakitimas ir stiprus susitelkimas į įtaigos ir (ar) savitaigos turinį, kurios metu pakinta žmogaus elgesys, savikontrolė ir savimonė.“
@@ -105,13 +105,13 @@ Pagrindiniai nepilnamečių interesų visuomenės informavimo srityje apsaugos i
 ### 4 straipsnis. 4 straipsnio pakeitimas ir papildymas ^s-9b894b7696ad07fac0d487d6
 
 
-1. Papildyti [[#^s-9b894b7696ad07fac0d487d6|4 straipsnį]] nauja [[#^s-710770894026c329827da998|1 dalimi]]: ^s-710770894026c329827da998
+1. Papildyti [[#^s-9b894b7696ad07fac0d487d6|4 straipsnį]] nauja 1 dalimi: ^s-710770894026c329827da998
 
 
 „1. Neigiamą poveikį nepilnamečiams darančia informacija laikoma tokia viešoji informacija, kuri gali būti žalinga nepilnamečių psichinei ar fizinei sveikatai, fiziniam, protiniam, dvasiniam ar doroviniam vystymuisi.“
 
 
-2. Buvusią [[#^s-710770894026c329827da998|4 straipsnio 1 dalį]] laikyti [[#^s-47ab1400b6d5cfada2bb6ef8|2 dalimi]], ją pakeisti ir išdėstyti taip: ^s-47ab1400b6d5cfada2bb6ef8
+2. Buvusią [[#^s-710770894026c329827da998|4 straipsnio 1 dalį]] laikyti 2 dalimi, ją pakeisti ir išdėstyti taip: ^s-47ab1400b6d5cfada2bb6ef8
 
 
 „2. Neigiamą poveikį nepilnamečiams darančiai informacijai priskiriama ši viešoji informacija:
@@ -180,13 +180,13 @@ Pagrindiniai nepilnamečių interesų visuomenės informavimo srityje apsaugos i
 21) kuri apibrėžta šio įstatymo [[#^s-a7b4afc5e50233ae8cef184f|6 straipsnyje]].“ ^s-a288f18619baecb0f994aa3b
 
 
-3. Buvusią [[#^s-47ab1400b6d5cfada2bb6ef8|4 straipsnio 2 dalį]] laikyti [[#^s-2111afbabf7dbe69e6976748|3 dalimi]], ją pakeisti ir išdėstyti taip: ^s-2111afbabf7dbe69e6976748
+3. Buvusią [[#^s-47ab1400b6d5cfada2bb6ef8|4 straipsnio 2 dalį]] laikyti 3 dalimi, ją pakeisti ir išdėstyti taip: ^s-2111afbabf7dbe69e6976748
 
 
 „3. Neigiamą poveikį nepilnamečiams darančios informacijos skleidimas draudžiamas arba ribojamas šio įstatymo nustatyta tvarka.“
 
 
-4. Buvusią [[#^s-2111afbabf7dbe69e6976748|4 straipsnio 3 dalį]] laikyti [[#^s-00b14525bba8fade41d2b827|4 dalimi]], ją pakeisti ir išdėstyti taip: ^s-00b14525bba8fade41d2b827
+4. Buvusią [[#^s-2111afbabf7dbe69e6976748|4 straipsnio 3 dalį]] laikyti 4 dalimi, ją pakeisti ir išdėstyti taip: ^s-00b14525bba8fade41d2b827
 
 
 „4. Draudžiama skleisti informaciją, atitinkančią [[#^s-eac5bb652d99acc69d59f195|šio straipsnio 2 dalies 12 punktą]], ir kitais įstatymais uždraustą viešąją, ypač pornografinio turinio, informaciją, taip pat nepilnamečių seksualinę prievartą ir jų išnaudojimą skatinančią ir (ar) savitikslį smurtą pateikiančią informaciją.“

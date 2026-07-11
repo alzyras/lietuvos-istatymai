@@ -103,7 +103,7 @@ Vardiniai priesaikos lapai perduodami valstybės pareigūnui, kuris priiminėjo 
 7 straipsnis
 
 
-Šis įstatymas įsigalioja kartu su Lietuvos Respublikos Konstitucija.
+Šis įstatymas įsigalioja kartu su [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA).
 
 
 

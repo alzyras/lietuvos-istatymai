@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-9ed93592907224e16387ad71
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. kovo 17 d. dekretą Nr. 551, ratifikuoja 2004 m. spalio 11 d. Liuksemburge pasirašytą Partnerystės ir bendradarbiavimo susitarimą, nustatantį Europos Bendrijų bei jų valstybių narių ir Tadžikistano Respublikos partnerystę.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. kovo 17 d. dekretą Nr. 551](https://e-tar.lt/portal/lt/legalAct/TAR.FD5AC1753571), ratifikuoja 2004 m. spalio 11 d. Liuksemburge pasirašytą Partnerystės ir bendradarbiavimo susitarimą, nustatantį Europos Bendrijų bei jų valstybių narių ir Tadžikistano Respublikos partnerystę.
 
 
 

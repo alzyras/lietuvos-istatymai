@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-f06c23974e7f55b406eb3c31
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2001 m. kovo 16 d. dekretą Nr. 1246, ratifikuoja Lietuvos Respublikos Vyriausybės ir Turkijos Respublikos Vyriausybės susitarimą dėl tarpusavio pagalbos muitinių veiklos srityje, sudarytą 2000 m. lapkričio 15 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2001 m. kovo 16 d. dekretą Nr. 1246](https://e-tar.lt/portal/lt/legalAct/TAR.7EA09CD1D404), ratifikuoja Lietuvos Respublikos Vyriausybės ir Turkijos Respublikos Vyriausybės susitarimą dėl tarpusavio pagalbos muitinių veiklos srityje, sudarytą 2000 m. lapkričio 15 d. Vilniuje.
 
 
 

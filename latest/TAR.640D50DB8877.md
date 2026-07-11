@@ -97,7 +97,7 @@ Smulkaus ir vidutinio verslo subjektai gali naudotis šiomis paramos formomis:
 5) verslo inkubatorių, technologinių parkų paslaugomis; ^s-0a5c18e0e7a06cad19d1a2ad
 
 
-6) pagal Valstybės skolos įstatymo 7 ir 7-1 straipsnius Vyriausybės įsteigtų garantijų institucijų ir (arba) draudimo įmonių bei kitų verslo plėtrą skatinančių institucijų parama; ^s-90bf03000346cc4992c09dac
+6) pagal [[latest/TAR.5C23DECF6210|Valstybės skolos įstatymo]] [[latest/TAR.5C23DECF6210#^s-c3db3bb6936dd1c141681d59|7]] ir [[latest/TAR.5C23DECF6210|7-1]] straipsnius Vyriausybės įsteigtų garantijų institucijų ir (arba) draudimo įmonių bei kitų verslo plėtrą skatinančių institucijų parama; ^s-90bf03000346cc4992c09dac
 
 
 7) kvalifikacijos kėlimo paslaugomis lengvatinėmis sąlygomis pagal verslo plėtojimo ir užimtumo programas; ^s-e950ca69e0ad0cedf78f8740
@@ -119,7 +119,7 @@ Smulkaus ir vidutinio verslo subjektai gali naudotis šiomis paramos formomis:
 ### 5 straipsnis. Baigiamosios nuostatos ^s-b3e29b030cfb688a79639abb
 
 
-1. Šio įstatymo 3 ir [[#^s-4fb65c005d7e466f093d6667|4 straipsniai]] netaikomi (jei kituose įstatymuose nenumatyta kitaip) šiems smulkaus ir vidutinio verslo subjektams: ^s-b9c62bdfc195b0f14975e218
+1. Šio įstatymo [[#^s-d303a28643a2e30b51818f99|3]] ir [[#^s-4fb65c005d7e466f093d6667|4]] straipsniai netaikomi (jei kituose įstatymuose nenumatyta kitaip) šiems smulkaus ir vidutinio verslo subjektams: ^s-b9c62bdfc195b0f14975e218
 
 
 1) valstybės ir savivaldybių įmonėms; ^s-fe959fb6bffcc7611bbac16d

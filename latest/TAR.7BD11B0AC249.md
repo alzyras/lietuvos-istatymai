@@ -51,7 +51,7 @@ Vilnius
 „6) naudojimąsi savivaldybių tarybos nustatytomis vietomis automobiliams statyti (išskyrus vietas automobiliams statyti prie valstybinės reikšmės kelių, 5–15 m pažymėtoje atkarpoje prie valstybės įstaigų, institucijų ir tarnybų, taip pat vietas, kurias nustato Vyriausybė, atsižvelgdama į saugumą, tarptautinį protokolą ar kitus viešuosius interesus užtikrinančius reikalavimus);“.
 
 
-3. Papildyti 11 straipsnio 1 dalį 10 ir [[#^s-252b71d41ddff2b93778a522|11 punktais]]: ^s-de850605bc850f26066038e6
+3. Papildyti 11 straipsnio 1 dalį 10 ir 11 punktais: ^s-de850605bc850f26066038e6
 
 
 „10) leidimo pardavinėti I, II ir TO klasės civilines pirotechnikos priemones išdavimą;

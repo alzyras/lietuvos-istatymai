@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-c809c9feac274449f05bda3b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gegužės 8 d. dekretą Nr. 932, ratifikuoja Lietuvos Respublikos Vyriausybės ir Vietnamo Socialistinės Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1995 m. rugsėjo 27 d. Hanojuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [1996 m. gegužės 8 d. dekretą Nr. 932](https://e-tar.lt/portal/lt/legalAct/TAR.DC99A393697C), ratifikuoja Lietuvos Respublikos Vyriausybės ir Vietnamo Socialistinės Respublikos Vyriausybės sutartį dėl investicijų skatinimo ir abipusės apsaugos, pasirašytą 1995 m. rugsėjo 27 d. Hanojuje.
 
 
 

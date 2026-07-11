@@ -206,7 +206,7 @@ Pakeisti Įstatymo priedo 3 punktą ir jį išdėstyti taip:
 ### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-467ec7abf0510550b59285c5
 
 
-1. Šio įstatymo 1, 2, 4, 6, 7 ir [[#^s-52f29f3b753a9fe5d76dde35|8 straipsniai]] įsigalioja po 6 mėnesių nuo šio įstatymo paskelbimo leidinyje „Valstybės žinios“. ^s-829abfef586522c3510fc467
+1. Šio įstatymo [[#^s-08835f3dd0d5542b6aa8ccbc|1]], [[#^s-55e031ad5614030456fb228d|2]], [[#^s-36a32630a04737466a7da49c|4]], [[#^s-4311fc64ad9ff1cfddb0b1d2|6]], [[#^s-15152f9bd3b3297e8d1cee6c|7]] ir [[#^s-52f29f3b753a9fe5d76dde35|8]] straipsniai įsigalioja po 6 mėnesių nuo šio įstatymo paskelbimo leidinyje „Valstybės žinios“. ^s-829abfef586522c3510fc467
 
 
 2. Iki šio įstatymo įsigaliojimo išduoti medicininės paskirties produktų registracijos pažymėjimai galioja iki termino, kuriam jie išduoti, pabaigos arba kol jų galiojimas nustatyta tvarka panaikinamas, bet ne ilgiau kaip 6 mėnesius nuo šio įstatymo paskelbimo leidinyje „Valstybės žinios“. ^s-cfaea6ee57935d726ec8707f

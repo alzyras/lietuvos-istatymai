@@ -42,7 +42,7 @@ Vilnius
 1. [[#^s-535f2bda2f1021139d8ccb0b|1 straipsnio 2 dalies]] pirmame sakinyje po žodžių [[latest/TAR.D3ED3792F52B|„valstybės tarnybos įstatymas“]] įrašyti žodžius „(toliau – Valstybės tarnybos įstatymas)“, antrame sakinyje prieš žodį „darbo“ įrašyti žodžius [[latest/TAR.D3ED3792F52B|„Valstybės tarnybos įstatymas“]] ir šią dalį išdėstyti taip: ^s-3e6ce9660c92e0f37e7a5660
 
 
-„2. Lietuvos Respublikos diplomatinės tarnybos teisinį pagrindą sudaro Lietuvos Respublikos Konstitucija, [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] (toliau – [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymas]]), šis įstatymas, [[latest/TAR.F617B8D97E05|Lietuvos Respublikos konsulinis statutas]] ir kiti Lietuvos Respublikos įstatymai, Lietuvos Respublikos tarptautinės sutartys, tarp jų 1961 m. Vienos konvencija dėl diplomatinių santykių, kiti teisės aktai. [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymas]], darbo santykius ir socialines garantijas nustatantys įstatymai bei kiti teisės aktai diplomatams taikomi tiek, kiek jų statuso ir socialinių garantijų nenustato šis įstatymas.“
+„2. Lietuvos Respublikos diplomatinės tarnybos teisinį pagrindą sudaro [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] (toliau – [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymas]]), šis įstatymas, [[latest/TAR.F617B8D97E05|Lietuvos Respublikos konsulinis statutas]] ir kiti Lietuvos Respublikos įstatymai, Lietuvos Respublikos tarptautinės sutartys, tarp jų 1961 m. [Vienos konvencija dėl diplomatinių santykių](https://e-tar.lt/portal/lt/legalAct/TAR.5D291695A584), kiti teisės aktai. [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymas]], darbo santykius ir socialines garantijas nustatantys įstatymai bei kiti teisės aktai diplomatams taikomi tiek, kiek jų statuso ir socialinių garantijų nenustato šis įstatymas.“
 
 
 2. [[#^s-a1c4a006495327f1fd8db5d1|1 straipsnio]] 3 ir 4 dalis pripažinti netekusiomis galios. ^s-535f2bda2f1021139d8ccb0b
@@ -52,13 +52,13 @@ Vilnius
 ### 2 straipsnis. 2 straipsnio 1 ir 2 dalių pakeitimas ^s-7fab49d07562c8afe5fc6e4a
 
 
-1. [[#^s-7799b8079054b16ecbbf5810|2 straipsnio 1 dalyje]] vietoj žodžio „Seimo“ įrašyti žodžius „Lietuvos Respublikos Seimo (toliau – Seimas)“, vietoj žodžio „Vyriausybės“ įrašyti žodžius „Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė)“ ir šią dalį išdėstyti taip: ^s-7799b8079054b16ecbbf5810
+1. 2 straipsnio 1 dalyje vietoj žodžio „Seimo“ įrašyti žodžius „Lietuvos Respublikos Seimo (toliau – Seimas)“, vietoj žodžio „Vyriausybės“ įrašyti žodžius „Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė)“ ir šią dalį išdėstyti taip: ^s-7799b8079054b16ecbbf5810
 
 
 „1. Lietuvos Respublikos diplomatinė tarnyba yra valstybės tarnybos dalis, kuri per Lietuvos Respublikos diplomatinės tarnybos institucijas įgyvendina ir vykdo Respublikos Prezidento, Lietuvos Respublikos Seimo (toliau – Seimas) ir Lietuvos Respublikos Vyriausybės (toliau – Vyriausybė) nustatytą užsienio politiką.“
 
 
-2. [[#^s-a5521425c5bcf5a167d4457f|2 straipsnio 2 dalies]] antrame sakinyje vietoj žodžių „Prezidentūroje, Seime, Vyriausybėje, kitose ministerijose ar Vyriausybės įstaigose“ įrašyti žodžius „Respublikos Prezidento kanceliarijoje, Seimo kanceliarijoje, Vyriausybės kanceliarijoje, ministerijose, kitose valstybės institucijose ar įstaigose“ ir šią dalį išdėstyti taip: ^s-a5521425c5bcf5a167d4457f
+2. 2 straipsnio 2 dalies antrame sakinyje vietoj žodžių „Prezidentūroje, Seime, Vyriausybėje, kitose ministerijose ar Vyriausybės įstaigose“ įrašyti žodžius „Respublikos Prezidento kanceliarijoje, Seimo kanceliarijoje, Vyriausybės kanceliarijoje, ministerijose, kitose valstybės institucijose ar įstaigose“ ir šią dalį išdėstyti taip: ^s-a5521425c5bcf5a167d4457f
 
 
 „2. Lietuvos Respublikos diplomatinė tarnyba yra vientisa. Ją sudaro Užsienio reikalų ministerijoje bei Užsienio reikalų ministerijai atskaitingose Lietuvos Respublikos diplomatinėse atstovybėse užsienio valstybėse, Lietuvos Respublikos atstovybėse prie tarptautinių organizacijų, konsulinėse įstaigose, specialiosiose misijose, Respublikos Prezidento kanceliarijoje, Seimo kanceliarijoje, Vyriausybės kanceliarijoje, ministerijose, kitose valstybės institucijose ar įstaigose bei derybų grupėse ir derybų delegacijose dirbantys diplomatai.“
@@ -110,7 +110,7 @@ Pakeisti [[#^s-ba18c0cf196227dcca093a65|6 straipsnį]] ir jį išdėstyti taip:
 „2. Su Lietuvos Respublikos diplomatinės atstovybės ar konsulinės įstaigos darbuotojais, kurie nėra valstybės tarnautojai ar kariai, Užsienio reikalų ministerija ar jos įgaliotos Lietuvos Respublikos diplomatinės atstovybės užsienio valstybėse, Lietuvos Respublikos atstovybės prie tarptautinių organizacijų, konsulinės įstaigos, specialiosios misijos sudaro terminuotas darbo sutartis.“
 
 
-2. [[#^s-013f7333d717d2aa229df11b|14 straipsnį]] papildyti 3 ir [[#^s-57e376a62a64dabc6c5a6446|4 dalimis]]: ^s-25b722cf85cf477443b75192
+2. [[#^s-013f7333d717d2aa229df11b|14 straipsnį]] papildyti 3 ir 4 dalimis: ^s-25b722cf85cf477443b75192
 
 
 „3. Lietuvos Respublikos specialiųjų atašė, tarp jų ir Lietuvos Respublikos gynybos atašė, skyrimą ir veiklą reglamentuoja Vyriausybės patvirtinti Lietuvos Respublikos specialiųjų atašė nuostatai.
@@ -126,7 +126,7 @@ Pakeisti [[#^s-ba18c0cf196227dcca093a65|6 straipsnį]] ir jį išdėstyti taip:
 1. [[#^s-149359af70f3bbdfb50edb1b|18 straipsnio 1 dalyje]] vietoj skaičiaus ir žodžio „3 dalyje“ įrašyti skaičius ir žodžius „2 ir 3 dalyse“, išbraukti žodį „viešo“ ir šią dalį išdėstyti taip: ^s-e01b1ec68e2f0624c2e339a0
 
 
-„1. Asmenys, išskyrus Lietuvos Respublikos diplomatinius atstovus bei asmenis, nurodytus šio įstatymo [[#^s-4afceadec6d4b8d758302714|23 straipsnio]] 2 ir 3 dalyse, į Lietuvos Respublikos diplomatinę tarnybą priimami konkurso būdu. Konkurso nuostatus tvirtina užsienio reikalų ministras.“
+„1. Asmenys, išskyrus Lietuvos Respublikos diplomatinius atstovus bei asmenis, nurodytus šio įstatymo [[#^s-4afceadec6d4b8d758302714|23 straipsnio]] [[#^s-55a959ed07275cdc71ce28ce|2]] ir 3 dalyse, į Lietuvos Respublikos diplomatinę tarnybą priimami konkurso būdu. Konkurso nuostatus tvirtina užsienio reikalų ministras.“
 
 
 2. Pakeisti [[#^s-ab448b403c6b829df3ccea01|18 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-5f0e8acbf4337216360283b6
@@ -296,7 +296,7 @@ Pakeisti 43 straipsnio 1 dalį ir ją išdėstyti taip:
 3. Pakeisti 47 straipsnio 4 dalį ir ją išdėstyti taip: ^s-bf355c590e7859ba6ce00896
 
 
-„4. Diplomatinius pasus turi teisę turėti kadenciją baigę Respublikos Prezidentai, buvę Seimo pirmininkai, ministrai pirmininkai, užsienio reikalų ministrai, jei Seimo pirmininko Seimo nario mandatas nebuvo panaikintas apkaltos proceso tvarka ir jei ministras pirmininkas ir užsienio reikalų ministras nebuvo pašalinti iš pareigų apkaltos proceso tvarka, taip pat asmenys, turintys Respublikos Prezidento suteiktus diplomatinius rangus, kai jų diplomato tarnybos sutartys ar terminuotos diplomato tarnybos sutartys nutraukiamos remiantis šio įstatymo 58 straipsnio 1 dalies 5 punktu ar 2 dalies 2 punktu arba kai jie atleidžiami iš valstybės tarnautojo pareigų remiantis Valstybės tarnybos įstatymo 44 straipsnio 1 dalies 6 ar 13 punktu.“
+„4. Diplomatinius pasus turi teisę turėti kadenciją baigę Respublikos Prezidentai, buvę Seimo pirmininkai, ministrai pirmininkai, užsienio reikalų ministrai, jei Seimo pirmininko Seimo nario mandatas nebuvo panaikintas apkaltos proceso tvarka ir jei ministras pirmininkas ir užsienio reikalų ministras nebuvo pašalinti iš pareigų apkaltos proceso tvarka, taip pat asmenys, turintys Respublikos Prezidento suteiktus diplomatinius rangus, kai jų diplomato tarnybos sutartys ar terminuotos diplomato tarnybos sutartys nutraukiamos remiantis šio įstatymo 58 straipsnio 1 dalies 5 punktu ar 2 dalies 2 punktu arba kai jie atleidžiami iš valstybės tarnautojo pareigų remiantis [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo 44 straipsnio 1 dalies]] [[latest/TAR.D3ED3792F52B|6]] ar [[latest/TAR.D3ED3792F52B|13]] punktu.“
 
 
 
@@ -456,7 +456,7 @@ Diplomatui, dirbančiam Lietuvos Respublikos diplomatinėje atstovybėje ar kons
 „4) įsiteisėja teismo nuosprendis, kuriuo jam paskirta bausmė už sunkų ar labai sunkų nusikaltimą, nusikalstamą veiką valstybės tarnybai ir viešiesiems interesams ar korupcinio pobūdžio nusikalstamą veiką arba bausmė už nusikaltimo padarymą tyčia, arba kuriuo diplomatui skiriama bausmė, dėl kurios negalima tęsti tarnybos;“.
 
 
-3. Papildyti 58 straipsnio 1 dalį 6 ir [[#^s-5ee4632d558b540a618a6a0a|7 punktais]]: ^s-bbbbb3cfec6edee4b08687aa
+3. Papildyti 58 straipsnio 1 dalį 6 ir 7 punktais: ^s-bbbbb3cfec6edee4b08687aa
 
 
 „6) paskirta tarnybinė nuobauda – diplomato tarnybos sutarties ar terminuotos diplomato tarnybos sutarties nutraukimas;
@@ -477,7 +477,7 @@ Diplomatui, dirbančiam Lietuvos Respublikos diplomatinėje atstovybėje ar kons
 „9) Diplomatų atestavimo komisija du kartus iš eilės diplomatą įvertino nepatenkinamai ir siūlo atleisti iš pareigų;“.
 
 
-6. Papildyti 58 straipsnio 2 dalį 10 ir [[#^s-771a76e83216a679af097d83|11 punktais]]: ^s-956e2d9b24bc0af56992418f
+6. Papildyti 58 straipsnio 2 dalį 10 ir 11 punktais: ^s-956e2d9b24bc0af56992418f
 
 
 „10) diplomatas, atleistas iš privalomosios pradinės karo tarnybos arba alternatyviosios krašto apsaugos tarnybos, per ilgesnį negu 2 mėnesių terminą negrįžta į eitas pareigas;

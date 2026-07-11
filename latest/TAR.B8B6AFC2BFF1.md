@@ -93,13 +93,13 @@ Nr. XIV-2110, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14001
 1. Atitinkama rinka – tam tikros prekės rinka tam tikroje geografinėje teritorijoje. ^s-b7f9d91e15e7c28fbc5be484
 
 
-11. Atleidimas nuo baudų – baudų, kurios įprastai būtų skiriamos draudžiamo konkurentų susitarimo, nurodyto šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] 1–4 punktuose, arba kito konkurentų susitarimo, kuriuo siekiama riboti konkurenciją ir kuriuo pažeidžiamos šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] ar Sutarties dėl Europos Sąjungos veikimo 101 straipsnio 1 dalies nuostatos, dalyviui arba draudžiamo ne konkurentų susitarimo dėl tiesioginio ar netiesioginio kainų nustatymo (fiksavimo), nurodyto šio įstatymo [[#^s-5c365835496bea513bb4ee21|5 straipsnio 1 dalies 1 punkte]], dalyviui, netaikymas siekiant jiems atlyginti už bendradarbiavimą su Konkurencijos taryba pagal šio įstatymo [[#^s-ad051368769b0d03357189a7|38 straipsnio 1 dalį]]. ^s-65a1a176f70f0d028933f38d
+11. Atleidimas nuo baudų – baudų, kurios įprastai būtų skiriamos draudžiamo konkurentų susitarimo, nurodyto šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] [[#^s-5c365835496bea513bb4ee21|1]]–[[#^s-5c8bffd23d7d2e68aefa6c42|4]] punktuose, arba kito konkurentų susitarimo, kuriuo siekiama riboti konkurenciją ir kuriuo pažeidžiamos šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] ar Sutarties dėl Europos Sąjungos veikimo 101 straipsnio 1 dalies nuostatos, dalyviui arba draudžiamo ne konkurentų susitarimo dėl tiesioginio ar netiesioginio kainų nustatymo (fiksavimo), nurodyto šio įstatymo [[#^s-5c365835496bea513bb4ee21|5 straipsnio 1 dalies 1 punkte]], dalyviui, netaikymas siekiant jiems atlyginti už bendradarbiavimą su Konkurencijos taryba pagal šio įstatymo [[#^s-ad051368769b0d03357189a7|38 straipsnio 1 dalį]]. ^s-65a1a176f70f0d028933f38d
 Papildyta straipsnio dalimi:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 
-12. Baudų sumažinimas – baudų, kurios įprastai būtų skiriamos draudžiamo konkurentų susitarimo, nurodyto šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] 1–4 punktuose, arba kito konkurentų susitarimo, kuriuo siekiama riboti konkurenciją ir kuriuo pažeidžiamos šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] ar Sutarties dėl Europos Sąjungos veikimo 101 straipsnio 1 dalies nuostatos, dalyviui arba draudžiamo ne konkurentų susitarimo dėl tiesioginio ar netiesioginio kainų nustatymo (fiksavimo), nurodyto šio įstatymo [[#^s-5c365835496bea513bb4ee21|5 straipsnio 1 dalies 1 punkte]], dalyviui, dydžio sumažinimas siekiant jiems atlyginti už bendradarbiavimą su Konkurencijos taryba pagal šio įstatymo [[#^s-be71c6f3f8a04744f7fdf7a6|38 straipsnio 2 dalį]]. ^s-6c7aecd7885893058ee82857
+12. Baudų sumažinimas – baudų, kurios įprastai būtų skiriamos draudžiamo konkurentų susitarimo, nurodyto šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] [[#^s-5c365835496bea513bb4ee21|1]]–[[#^s-5c8bffd23d7d2e68aefa6c42|4]] punktuose, arba kito konkurentų susitarimo, kuriuo siekiama riboti konkurenciją ir kuriuo pažeidžiamos šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] ar Sutarties dėl Europos Sąjungos veikimo 101 straipsnio 1 dalies nuostatos, dalyviui arba draudžiamo ne konkurentų susitarimo dėl tiesioginio ar netiesioginio kainų nustatymo (fiksavimo), nurodyto šio įstatymo [[#^s-5c365835496bea513bb4ee21|5 straipsnio 1 dalies 1 punkte]], dalyviui, dydžio sumažinimas siekiant jiems atlyginti už bendradarbiavimą su Konkurencijos taryba pagal šio įstatymo [[#^s-be71c6f3f8a04744f7fdf7a6|38 straipsnio 2 dalį]]. ^s-6c7aecd7885893058ee82857
 Papildyta straipsnio dalimi:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
@@ -108,7 +108,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 2. Dominuojanti padėtis – vieno ar daugiau ūkio subjektų padėtis atitinkamoje rinkoje, kai tiesiogiai nesusiduriama su konkurencija arba kuri sudaro galimybę daryti vienpusę lemiamą įtaką atitinkamoje rinkoje veiksmingai ribojant konkurenciją. Jeigu neįrodoma priešingai, laikoma, kad ūkio subjektas (išskyrus mažmenine prekyba besiverčiantį ūkio subjektą) užima dominuojančią padėtį atitinkamoje rinkoje, jeigu jo rinkos dalis sudaro ne mažiau kaip 40 procentų. Jeigu neįrodoma priešingai, laikoma, kad kiekvienas iš trijų ar mažesnio skaičiaus ūkio subjektų (išskyrus mažmenine prekyba besiverčiančius ūkio subjektus), kuriems tenka didžiausios atitinkamos rinkos dalys, kartu sudarančios 70 procentų ar didesnę atitinkamos rinkos dalį, užima dominuojančią padėtį. Jeigu neįrodoma priešingai, laikoma, kad mažmenine prekyba besiverčiantis ūkio subjektas užima dominuojančią padėtį atitinkamoje rinkoje, jeigu jo rinkos dalis sudaro ne mažiau kaip 30 procentų. Jeigu neįrodoma priešingai, laikoma, kad kiekvienas iš trijų ar mažesnio skaičiaus mažmenine prekyba besiverčiančių ūkio subjektų, kuriems tenka didžiausios atitinkamos rinkos dalys, kartu sudarančios 55 procentus ar didesnę atitinkamos rinkos dalį, užima dominuojančią padėtį. ^s-c3d9684d4a22ddfbd1b9fe9d
 
 
-21. Galutinis Konkurencijos tarybos nutarimas – Konkurencijos tarybos nutarimas, nurodytas šio įstatymo [[#^s-ade5ca4e008256a436177f76|12 straipsnio 1 dalyje]], [[#^s-6b5b486c50056af2b438eb7e|24 straipsnio 4 dalyje]], [[#^s-5df022b3ec56f9ec7e6e4b29|28 straipsnio]] 3 ar [[#^s-57a853c0b12ba3ad9a15c4b6|4 dalyje]] arba [[#^s-12fb99848deaeca2d788ba05|30 straipsnio 1 dalies]] 1, 2 ir [[#^s-58269757247bbab04444cec8|3 punktuose]]. ^s-4cba6ac3b443bfb9bcdbc092
+21. Galutinis Konkurencijos tarybos nutarimas – Konkurencijos tarybos nutarimas, nurodytas šio įstatymo [[#^s-ade5ca4e008256a436177f76|12 straipsnio 1 dalyje]], [[#^s-6b5b486c50056af2b438eb7e|24 straipsnio 4 dalyje]], [[#^s-5df022b3ec56f9ec7e6e4b29|28 straipsnio]] [[#^s-655d27ee8516a6914b34f8ff|3]] ar [[#^s-3899e375c146e1a2baa80b40|4]] dalyje arba [[#^s-12fb99848deaeca2d788ba05|30 straipsnio 1 dalies]] [[#^s-0d5ae2d2381c730a7398019a|1]], [[#^s-a5ef33fbbbe381a2160e5e62|2]] ir [[#^s-43d271d914c17eba740e686c|3]] punktuose. ^s-4cba6ac3b443bfb9bcdbc092
 Papildyta straipsnio dalimi:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
@@ -153,10 +153,10 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 11. Lemiama įtaka – padėtis, kai kontroliuojantis asmuo įgyvendina ar turi galimybę įgyvendinti savo sprendimus dėl kontroliuojamo ūkio subjekto ūkinės veiklos, organų sprendimų ar personalo sudėties. ^s-e6736d1a537ca76f3a50012b
 
 
-12. Netiesioginis pirkėjas – fizinis arba juridinis asmuo, kuris iš tiesioginio pirkėjo arba tolesnio pirkėjo, bet ne iš šio įstatymo 5 ar [[#^s-2a8624f795fa22672b35abef|7 straipsnio]] arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimą padariusio ūkio subjekto įsigijo šio pažeidimo objektu tapusių prekių ar prekių, pagamintų iš tokio pažeidimo objektu tapusių prekių, arba prekių, kurios komplektuojamos su tokio pažeidimo objektu tapusiomis prekėmis. ^s-6c9e40e489bb7eebc5f86334
+12. Netiesioginis pirkėjas – fizinis arba juridinis asmuo, kuris iš tiesioginio pirkėjo arba tolesnio pirkėjo, bet ne iš šio įstatymo [[#^s-4eb2cb549a516aa5fbb4d033|5]] ar [[#^s-2a8624f795fa22672b35abef|7]] straipsnio arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimą padariusio ūkio subjekto įsigijo šio pažeidimo objektu tapusių prekių ar prekių, pagamintų iš tokio pažeidimo objektu tapusių prekių, arba prekių, kurios komplektuojamos su tokio pažeidimo objektu tapusiomis prekėmis. ^s-6c9e40e489bb7eebc5f86334
 
 
-13. Nukentėjęs asmuo – fizinis arba juridinis asmuo, patyręs žalą dėl šio įstatymo 5 ar [[#^s-2a8624f795fa22672b35abef|7 straipsnio]] arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimo. ^s-63608911cfaa81fa30047318
+13. Nukentėjęs asmuo – fizinis arba juridinis asmuo, patyręs žalą dėl šio įstatymo [[#^s-4eb2cb549a516aa5fbb4d033|5]] ar [[#^s-2a8624f795fa22672b35abef|7]] straipsnio arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimo. ^s-63608911cfaa81fa30047318
 
 
 14. Pagalbos teikėjas – valstybės valdymo ar savivaldybės institucija arba kitas juridinis asmuo, teikiantis valstybės pagalbą arba nereikšmingą (de minimis) pagalbą. ^s-2b162cbcfa8098ce651c42d8
@@ -181,7 +181,7 @@ Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
 
 
-17. Permoka – skirtumas tarp faktiškai sumokėtos prekės kainos ir kainos, kuri būtų, jei nebūtų šio įstatymo 5 ar [[#^s-2a8624f795fa22672b35abef|7 straipsnio]] arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimo. ^s-34d8ec5ac467b7c41f1d8efb
+17. Permoka – skirtumas tarp faktiškai sumokėtos prekės kainos ir kainos, kuri būtų, jei nebūtų šio įstatymo [[#^s-4eb2cb549a516aa5fbb4d033|5]] ar [[#^s-2a8624f795fa22672b35abef|7]] straipsnio arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimo. ^s-34d8ec5ac467b7c41f1d8efb
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
@@ -226,7 +226,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 4) ūkio subjektai, kuriuose [[#^s-58269757247bbab04444cec8|šios dalies 3 punkte]] nurodyti ūkio subjektai arba kiti nagrinėjamą ūkio subjektą kontroliuojantys asmenys turi [[#^s-7fe35ecbae1440f3740c7b3d|šios dalies 2 punkte]] išvardytas teises; ^s-be1f8a1dbd02f27ef8dbf5ae
 
 
-5) ūkio subjektai, kuriuose šios dalies 1–[[#^s-be1f8a1dbd02f27ef8dbf5ae|4 punktuose]] nurodyti du arba daugiau ūkio subjektų bendrai turi [[#^s-7fe35ecbae1440f3740c7b3d|šios dalies 2 punkte]] išvardytas teises. ^s-b2f9ba5070add7ded183e5ef
+5) ūkio subjektai, kuriuose šios dalies [[#^s-bd7de0171ea620f3045672fd|1]]–[[#^s-be1f8a1dbd02f27ef8dbf5ae|4]] punktuose nurodyti du arba daugiau ūkio subjektų bendrai turi [[#^s-7fe35ecbae1440f3740c7b3d|šios dalies 2 punkte]] išvardytas teises. ^s-b2f9ba5070add7ded183e5ef
 
 
 Straipsnio dalies pakeitimai:
@@ -242,7 +242,7 @@ Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
 
 
-23. Tiesioginis pirkėjas – fizinis arba juridinis asmuo, kuris tiesiogiai iš šio įstatymo 5 ar [[#^s-2a8624f795fa22672b35abef|7 straipsnio]] arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimą padariusio ūkio subjekto įsigijo šio pažeidimo objektu tapusių prekių. ^s-fd958fe854f566c4092611f4
+23. Tiesioginis pirkėjas – fizinis arba juridinis asmuo, kuris tiesiogiai iš šio įstatymo [[#^s-4eb2cb549a516aa5fbb4d033|5]] ar [[#^s-2a8624f795fa22672b35abef|7]] straipsnio arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimą padariusio ūkio subjekto įsigijo šio pažeidimo objektu tapusių prekių. ^s-fd958fe854f566c4092611f4
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
@@ -278,7 +278,7 @@ Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
 
 
-29. Šiame įstatyme vartojama sąvoka „valstybės pagalba“ suprantama taip, kaip apibrėžiama Sutarties dėl Europos Sąjungos veikimo 107 straipsnio 1 dalyje. Šiame įstatyme vartojama sąvoka „nereikšminga (de minimis) pagalba“ suprantama taip, kaip apibrėžiama 2023 m. gruodžio 13 d. Komisijos reglamente (ES) 2023/2831 dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai su visais pakeitimais, 2013 m. gruodžio 18 d. Komisijos reglamente (ES) Nr. 1408/2013 dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai žemės ūkio sektoriuje su visais pakeitimais, 2014 m. birželio 27 d. Komisijos reglamente (ES) Nr. 717/2014 dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai žuvininkystės ir akvakultūros sektoriuje su visais pakeitimais ir 2023 m. gruodžio 13 d. Komisijos reglamente (ES) 2023/2832 dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai, skiriamai visuotinės ekonominės svarbos paslaugas teikiančioms įmonėms, su visais pakeitimais. ^s-ab8ac1a8d19b1f0615703986
+29. Šiame įstatyme vartojama sąvoka „valstybės pagalba“ suprantama taip, kaip apibrėžiama Sutarties dėl Europos Sąjungos veikimo 107 straipsnio 1 dalyje. Šiame įstatyme vartojama sąvoka „nereikšminga (de minimis) pagalba“ suprantama taip, kaip apibrėžiama 2023 m. gruodžio 13 d. Komisijos [reglamente (ES) 2023/2831](https://eur-lex.europa.eu/eli/reg/2023/2831/oj) dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai su visais pakeitimais, 2013 m. gruodžio 18 d. Komisijos [reglamente (ES) Nr. 1408/2013](https://eur-lex.europa.eu/eli/reg/1408/2013/oj) dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai žemės ūkio sektoriuje su visais pakeitimais, 2014 m. birželio 27 d. Komisijos reglamente (ES) Nr. 717/2014 dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai žuvininkystės ir akvakultūros sektoriuje su visais pakeitimais ir 2023 m. gruodžio 13 d. Komisijos [reglamente (ES) 2023/2832](https://eur-lex.europa.eu/eli/reg/2023/2832/oj) dėl Sutarties dėl Europos Sąjungos veikimo 107 ir 108 straipsnių taikymo de minimis pagalbai, skiriamai visuotinės ekonominės svarbos paslaugas teikiančioms įmonėms, su visais pakeitimais. ^s-ab8ac1a8d19b1f0615703986
 Papildyta straipsnio dalimi:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 Straipsnio dalies pakeitimai:
@@ -509,7 +509,7 @@ Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
 
 
 6. Du arba daugiau sandorių, kurie per dvejų metų laikotarpį yra sudaromi tarp tų pačių asmenų arba ūkio subjektų, laikomi viena koncentracija, kuri atsiranda paskutinio sandorio sudarymo metu. ^s-0e1df41effd89a993a1fbe8c
-TAR pastaba. [[#^s-0e1df41effd89a993a1fbe8c|8 straipsnio 6 dalis]] taikoma tik po [[latest/b89d8aa0ebe511e7acd7ea182930b17f|įstatymo Nr. XIII-909]] įsigaliojimo (2018-01-01) sudaromiems sandoriams.
+TAR pastaba. 8 straipsnio 6 dalis taikoma tik po [[latest/b89d8aa0ebe511e7acd7ea182930b17f|įstatymo Nr. XIII-909]] įsigaliojimo (2018-01-01) sudaromiems sandoriams.
 Papildyta straipsnio dalimi:
 Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
 
@@ -575,7 +575,7 @@ Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
 ### 10 straipsnis. Koncentracijos sustabdymas ^s-a358722ec977fa8d2b80f6cc
 
 
-1. Koncentracijoje, apie kurią privaloma pranešti, dalyvaujantys ūkio subjektai ar kontroliuojantys asmenys neturi teisės įgyvendinti koncentracijos tol, kol bus priimtas Konkurencijos tarybos nutarimas pagal šio įstatymo [[#^s-ade5ca4e008256a436177f76|12 straipsnio 1 dalies]] 1 ar 2 punktą, išskyrus šio straipsnio 3 ir [[#^s-abbe33bff15f73228c5c7c97|4 dalyse]] numatytus atvejus. ^s-2b9882195e3cf672edea0af7
+1. Koncentracijoje, apie kurią privaloma pranešti, dalyvaujantys ūkio subjektai ar kontroliuojantys asmenys neturi teisės įgyvendinti koncentracijos tol, kol bus priimtas Konkurencijos tarybos nutarimas pagal šio įstatymo [[#^s-ade5ca4e008256a436177f76|12 straipsnio 1 dalies]] [[#^s-1f1ee09d29641444f3b65d7a|1]] ar [[#^s-e9b8a2164766af90d0defb02|2]] punktą, išskyrus šio straipsnio [[#^s-cc07558849c87c6828bc57e6|3]] ir [[#^s-7b1148555b526fa34593da57|4]] dalyse numatytus atvejus. ^s-2b9882195e3cf672edea0af7
 
 
 2. Visi ūkio subjektų ir kontroliuojančių asmenų sandoriai ir veiksmai, susiję su koncentracijos, dėl kurios yra priimtas šio įstatymo [[#^s-99752dad5f4c124478d23d85|12 straipsnio 1 dalies 3 punkte]] nurodytas nutarimas, įgyvendinimu, laikomi negaliojančiais ir nesukuriančiais teisinių pasekmių. ^s-2b28932d295eeb5506c3e468
@@ -594,10 +594,10 @@ Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
 1. Konkurencijos taryba, gavusi pranešimą apie koncentraciją, apie tai paskelbia Konkurencijos tarybos interneto svetainėje ir nurodo koncentracijos pobūdį ir koncentracijoje dalyvaujančias šalis. Koncentracijų priežiūros ar visuomenės informavimo tikslais dvejus metus nuo pranešimo apie koncentraciją priėmimo Konkurencijos tarybos interneto svetainėje skelbiami kontroliuojančių ir kontrolę įgyjančių asmenų vardas ir pavardė, informacija apie jų tiesiogiai ir netiesiogiai kontroliuojamus ūkio subjektus, ūkio subjektus, kurių kontrolė įgyjama, kontrolę lemiančias teises, įskaitant turimų ir (ar) įgyjamų akcijų skaičių, kontrolės įgijimo būdą, vykdomas ūkines veiklas. ^s-aa7910761eafe6f6b11aead8
 
 
-2. Konkurencijos taryba išnagrinėja pagal Konkurencijos tarybos nustatytus reikalavimus pateiktus pranešimus apie koncentraciją ir priima šio įstatymo [[#^s-ade5ca4e008256a436177f76|12 straipsnio 1 dalyje]] nurodytus nutarimus ne vėliau kaip per keturis mėnesius, išskyrus atvejus, kai šis terminas sustabdomas pagal [[#^s-aabe5c06c5a790fb5d63fd81|šio straipsnio 6 dalį]] ar pratęsiamas pagal [[#^s-c85f203a829dbafe605329e0|šio straipsnio 7 dalį]]. Šis laikotarpis prasideda kitą dieną po Konkurencijos tarybos nustatytus reikalavimus atitinkančio pranešimo apie koncentraciją gavimo. Jeigu pranešimas apie koncentraciją neatitinka Konkurencijos tarybos nustatytų reikalavimų, Konkurencijos taryba nedelsdama apie tai raštu informuoja pranešimą pateikusius asmenis. Konkurencijos taryba pradeda pranešimo apie koncentraciją nagrinėjimo procedūrą tik gavusi nustatytus reikalavimus atitinkantį pranešimą apie koncentraciją. ^s-bb5df021931147822b9b8bfb
+2. Konkurencijos taryba išnagrinėja pagal Konkurencijos tarybos nustatytus reikalavimus pateiktus pranešimus apie koncentraciją ir priima šio įstatymo 12 straipsnio 1 dalyje nurodytus nutarimus ne vėliau kaip per keturis mėnesius, išskyrus atvejus, kai šis terminas sustabdomas pagal [[#^s-aabe5c06c5a790fb5d63fd81|šio straipsnio 6 dalį]] ar pratęsiamas pagal [[#^s-c85f203a829dbafe605329e0|šio straipsnio 7 dalį]]. Šis laikotarpis prasideda kitą dieną po Konkurencijos tarybos nustatytus reikalavimus atitinkančio pranešimo apie koncentraciją gavimo. Jeigu pranešimas apie koncentraciją neatitinka Konkurencijos tarybos nustatytų reikalavimų, Konkurencijos taryba nedelsdama apie tai raštu informuoja pranešimą pateikusius asmenis. Konkurencijos taryba pradeda pranešimo apie koncentraciją nagrinėjimo procedūrą tik gavusi nustatytus reikalavimus atitinkantį pranešimą apie koncentraciją. ^s-bb5df021931147822b9b8bfb
 
 
-3. Per vieną mėnesį nuo Konkurencijos tarybos nustatytus reikalavimus atitinkančio pranešimo apie koncentraciją gavimo Konkurencijos taryba turi priimti nutarimą pagal šio įstatymo [[#^s-ade5ca4e008256a436177f76|12 straipsnio 1 dalies]] 1 ar 2 punktą arba priimti nutarimą toliau nagrinėti pranešimą apie koncentraciją. ^s-5c5969b2f94fe0fc4f73ceb1
+3. Per vieną mėnesį nuo Konkurencijos tarybos nustatytus reikalavimus atitinkančio pranešimo apie koncentraciją gavimo Konkurencijos taryba turi priimti nutarimą pagal šio įstatymo 12 straipsnio 1 dalies 1 ar 2 punktą arba priimti nutarimą toliau nagrinėti pranešimą apie koncentraciją. ^s-5c5969b2f94fe0fc4f73ceb1
 
 
 4. Konkurencijos taryba, ketindama priimti nutarimą pagal šio įstatymo [[#^s-e9b8a2164766af90d0defb02|12 straipsnio 1 dalies 2 punktą]], pranešimą apie koncentraciją pateikusio ūkio subjekto motyvuotu prašymu [[#^s-bb5df021931147822b9b8bfb|šio straipsnio 2 dalyje]] nurodytą pranešimo apie koncentraciją nagrinėjimo terminą gali pratęsti vienam mėnesiui. ^s-684d370a87bcb76654d6f00e
@@ -612,7 +612,7 @@ Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
 7. Konkurencijos taryba gali priimti sprendimą pratęsti [[#^s-bb5df021931147822b9b8bfb|šio straipsnio 2 dalyje]] nurodytą terminą, jeigu yra gautas pranešimą apie koncentraciją pateikusių ūkio subjektų sutikimas dėl šio termino pratęsimo arba jeigu likus mažiau negu 20 dienų iki šio termino pabaigos ūkio subjektai, kontroliuojantys asmenys ar viešojo administravimo subjektai pateikia papildomą informaciją, reikalingą šio įstatymo [[#^s-ade5ca4e008256a436177f76|12 straipsnio 1 dalyje]] nurodytiems nutarimams priimti, ir jeigu dėl objektyvių priežasčių per [[#^s-bb5df021931147822b9b8bfb|šio straipsnio 2 dalyje]] nurodytą terminą nėra galimybės išnagrinėti pranešimo apie koncentraciją. Koncentracijoje dalyvaujantiems ūkio subjektams apie priimtą sprendimą per 2 darbo dienas nuo sprendimo priėmimo dienos pranešama raštu ir nurodomos termino pratęsimo priežastys. Bendra termino pratęsimo trukmė pagal šią dalį negali būti ilgesnė negu vienas mėnuo. ^s-c85f203a829dbafe605329e0
 
 
-8. Pranešimą apie koncentraciją pateikę asmenys privalo nedelsdami raštu informuoti Konkurencijos tarybą apie nagrinėjant pranešimą apie koncentraciją atsiradusius tame pranešime nurodytų faktų pasikeitimus arba pateikti bet kokią šio įstatymo [[#^s-a01a482fecefcfb93c7a19b0|9 straipsnio 3 dalyje]] nurodytą informaciją, kuri nebuvo pateikta pranešime apie koncentraciją. Jeigu nagrinėjant pranešimą apie koncentraciją paaiškėja naujos koncentracijos poveikio vertinimui reikšmingos pagal šio įstatymo [[#^s-a01a482fecefcfb93c7a19b0|9 straipsnio 3 dalį]] reikalaujamos pateikti informacijos, apie kurią pranešimą pateikę asmenys žino arba turėtų žinoti, Konkurencijos taryba turi teisę pranešimą apie koncentraciją laikyti gautu Konkurencijos taryboje tą dieną, kurią Konkurencijos taryba gauna atitinkamą informaciją. Konkurencijos taryba nedelsdama apie tai raštu informuoja pranešimą pateikusius asmenis. ^s-515f7d01e9b1608e2c095143
+8. Pranešimą apie koncentraciją pateikę asmenys privalo nedelsdami raštu informuoti Konkurencijos tarybą apie nagrinėjant pranešimą apie koncentraciją atsiradusius tame pranešime nurodytų faktų pasikeitimus arba pateikti bet kokią šio įstatymo 9 straipsnio 3 dalyje nurodytą informaciją, kuri nebuvo pateikta pranešime apie koncentraciją. Jeigu nagrinėjant pranešimą apie koncentraciją paaiškėja naujos koncentracijos poveikio vertinimui reikšmingos pagal šio įstatymo 9 straipsnio 3 dalį reikalaujamos pateikti informacijos, apie kurią pranešimą pateikę asmenys žino arba turėtų žinoti, Konkurencijos taryba turi teisę pranešimą apie koncentraciją laikyti gautu Konkurencijos taryboje tą dieną, kurią Konkurencijos taryba gauna atitinkamą informaciją. Konkurencijos taryba nedelsdama apie tai raštu informuoja pranešimą pateikusius asmenis. ^s-515f7d01e9b1608e2c095143
 
 
 Straipsnio pakeitimai:
@@ -681,7 +681,7 @@ Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
 3. Jeigu įsiteisėjusiu teismo sprendimu panaikinamas visas ar dalis šio įstatymo [[#^s-ade5ca4e008256a436177f76|12 straipsnio 1 dalyje]] numatyto Konkurencijos tarybos nutarimo, ūkio subjektai turi Konkurencijos tarybai pateikti pagal esamą padėtį rinkoje patikslintą pranešimą apie koncentraciją. Jeigu ūkio subjektai neatlieka šių veiksmų, mutatis mutandis kyla šio įstatymo [[#^s-2b28932d295eeb5506c3e468|10 straipsnio 2 dalyje]] numatytos pasekmės, kiek jos neprieštarauja įsiteisėjusiam teismo sprendimui. ^s-de51ff8706892e176aa14104
 
 
-4. [[#^s-de51ff8706892e176aa14104|Šio straipsnio 3 dalyje]] nurodytas patikslintas pranešimas Konkurencijos tarybai turi būti pateiktas ne vėliau kaip per vieną mėnesį nuo teismo sprendimo įsiteisėjimo dienos. Konkurencijos taryba išnagrinėja patikslintą pranešimą apie koncentraciją ir priima vieną iš šio įstatymo [[#^s-ade5ca4e008256a436177f76|12 straipsnio 1 dalyje]] numatytų nutarimų. Tokiu atveju šio įstatymo [[#^s-bb5df021931147822b9b8bfb|11 straipsnio 2 dalyje]] nurodytas terminas pradedamas skaičiuoti nuo dienos, kai ūkio subjektai pateikia patikslintą pranešimą apie koncentraciją. ^s-ccdf11753b13ad36bdd01567
+4. [[#^s-de51ff8706892e176aa14104|Šio straipsnio 3 dalyje]] nurodytas patikslintas pranešimas Konkurencijos tarybai turi būti pateiktas ne vėliau kaip per vieną mėnesį nuo teismo sprendimo įsiteisėjimo dienos. Konkurencijos taryba išnagrinėja patikslintą pranešimą apie koncentraciją ir priima vieną iš šio įstatymo 12 straipsnio 1 dalyje numatytų nutarimų. Tokiu atveju šio įstatymo [[#^s-bb5df021931147822b9b8bfb|11 straipsnio 2 dalyje]] nurodytas terminas pradedamas skaičiuoti nuo dienos, kai ūkio subjektai pateikia patikslintą pranešimą apie koncentraciją. ^s-ccdf11753b13ad36bdd01567
 
 
 
@@ -871,7 +871,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 
-2) stebėti, kad ūkio subjektai ar viešojo administravimo subjektai veiksmingai vykdytų jiems pagal šio įstatymo [[#^s-ce9a3b452a091641624e2c38|35 straipsnio]] 1 ir [[#^s-a94b2d7da731a6eb6042503a|2 dalių]] nuostatas privalomus įpareigojimus ar pagal šio įstatymo [[#^s-3899e375c146e1a2baa80b40|28 straipsnio 4 dalies]] nuostatas prisiimtus įsipareigojimus; ^s-f88e60e735595b15286eeb8c
+2) stebėti, kad ūkio subjektai ar viešojo administravimo subjektai veiksmingai vykdytų jiems pagal šio įstatymo [[#^s-ce9a3b452a091641624e2c38|35 straipsnio]] [[#^s-cbe9ff700cf90f1907a407f7|1]] ir [[#^s-eeaa9401fd95b0dd03703bd8|2]] dalių nuostatas privalomus įpareigojimus ar pagal šio įstatymo [[#^s-3899e375c146e1a2baa80b40|28 straipsnio 4 dalies]] nuostatas prisiimtus įsipareigojimus; ^s-f88e60e735595b15286eeb8c
 Papildyta straipsnio punktu:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
@@ -985,7 +985,7 @@ Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 
 
 11. Konkurencijos tarybos pirmininkas ir nariai, Konkurencijos tarybos administracijos darbuotojai, nustoję eiti pareigas Konkurencijos taryboje, septynerius metus po tarnybos Konkurencijos taryboje pabaigos turi pareigą nusišalinti nuo atstovavimo kitam asmeniui ar veikimo kito asmens vardu ar interesais dėl tų pažeidimų tyrimo ar koncentracijų priežiūros procedūrų, kuriuos asmuo nagrinėjo Konkurencijos taryboje, dalyvavo priimant dėl jų sprendimus ar kitaip prisidėjo prie jų vertinimo. ^s-dcb1907e3d2d0fdf475d59f9
-TAR pastaba. [[#^s-dcb1907e3d2d0fdf475d59f9|19 straipsnio 11 dalis]] taikoma asmenims, nustojusiems eiti pareigas Konkurencijos taryboje po [[latest/dc5ea8a0c04c11ea9815f635b9c0dcef|įstatymo Nr. XIII-3142]] įsigaliojimo (2020-11-01).
+TAR pastaba. 19 straipsnio 11 dalis taikoma asmenims, nustojusiems eiti pareigas Konkurencijos taryboje po [[latest/dc5ea8a0c04c11ea9815f635b9c0dcef|įstatymo Nr. XIII-3142]] įsigaliojimo (2020-11-01).
 Papildyta straipsnio dalimi:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
@@ -1064,31 +1064,31 @@ Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 8. Konkurencijos tarybos atliekant jai pavestas funkcijas parengti dokumentai, kuriuose yra pareikštos Konkurencijos tarybos vidaus darbo reikmėms skirtos nuomonės, taip pat dokumentai, susiję su klausimais, dėl kurių nėra priimtas galutinis Konkurencijos tarybos nutarimas ar kitoks sprendimas, ir tik Konkurencijos tarybos vidaus darbo tvarkos organizavimui skirti dokumentai yra tarnybinio naudojimo dokumentai, jie neteikiami susipažinti tretiesiems asmenims ir nesegami į tyrimų bylas, su kuriomis turi teisę susipažinti tretieji asmenys. Tokie Konkurencijos tarybos tarnybinio naudojimo dokumentai gali būti teikiami tik teisėsaugos institucijoms įstatymų, reglamentuojančių teisėsaugos institucijų veiklą, joms priskirtoms funkcijoms atlikti. ^s-d12bc587f4bfd5f7c4e50b40
 
 
-9. Konkurencijos taryba neatskleidžia Europos Komisijos, kitų Europos Sąjungos valstybių narių konkurencijos institucijų vidaus dokumentų, tarpusavio komunikacijos dokumentų. Konkurencijos taryba turi teisę atskleisti ir naudoti šią informaciją, jeigu to reikia šio įstatymo 5 ar [[#^s-2a8624f795fa22672b35abef|7 straipsnyje]] nurodytiems pažeidimams įrodyti. ^s-27094e06fc79966ecc4799e6
+9. Konkurencijos taryba neatskleidžia Europos Komisijos, kitų Europos Sąjungos valstybių narių konkurencijos institucijų vidaus dokumentų, tarpusavio komunikacijos dokumentų. Konkurencijos taryba turi teisę atskleisti ir naudoti šią informaciją, jeigu to reikia šio įstatymo [[#^s-4eb2cb549a516aa5fbb4d033|5]] ar [[#^s-2a8624f795fa22672b35abef|7]] straipsnyje nurodytiems pažeidimams įrodyti. ^s-27094e06fc79966ecc4799e6
 
 
-10. Konkurencijos taryba neatskleidžia jai pateiktų prašymų atleisti nuo baudos ar baudą sumažinti šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] 1 ar [[#^s-91718532850ebab0f00c4eeb|2 dalies]] pagrindu už šio įstatymo [[#^s-87d0f7bd1afc8c32ed67244a|44 straipsnio 3 dalyje]] nurodytą slaptą konkurentų susitarimą ir šio įstatymo [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punkte]] nurodytų tyrimo metu pateiktų rašytinių pripažinimo pareiškimų dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, įskaitant šių prašymų ir pareiškimų citatas. Šiuos prašymus ir pareiškimus Konkurencijos taryba atskleidžia tik: ^s-9c6cf80706abb4f1efb9c7b8
+10. Konkurencijos taryba neatskleidžia jai pateiktų prašymų atleisti nuo baudos ar baudą sumažinti šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] [[#^s-ad051368769b0d03357189a7|1]] ar [[#^s-be71c6f3f8a04744f7fdf7a6|2]] dalies pagrindu už šio įstatymo [[#^s-87d0f7bd1afc8c32ed67244a|44 straipsnio 3 dalyje]] nurodytą slaptą konkurentų susitarimą ir šio įstatymo [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punkte]] nurodytų tyrimo metu pateiktų rašytinių pripažinimo pareiškimų dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, įskaitant šių prašymų ir pareiškimų citatas. Šiuos prašymus ir pareiškimus Konkurencijos taryba atskleidžia tik: ^s-9c6cf80706abb4f1efb9c7b8
 
 
 1) ūkio subjektams, įtariamiems ar Konkurencijos tarybos nutarimu pripažintiems dalyvavusiais tame pačiame pažeidime kaip ir prašymą atleisti nuo baudos ar baudą sumažinti ar pripažinimo pareiškimą pateikęs ūkio subjektas, šio įstatymo [[#^s-591da181ad7e33b5e7ef2eb5|29 straipsnio 2 dalyje]] numatytos teisės į gynybą įgyvendinimo tvarka ir tikslais, taip pat teismui, kai Konkurencijos tarybos nutarimas apskundžiamas šio įstatymo [[#^s-8c6aa584c58b3f8d9250dadf|33 straipsnio 1 dalies]] pagrindu; ^s-bb94ecbb63432009f6bc317c
 
 
-2) teismui, kai jam būtina įsitikinti, kad prašymai atleisti nuo baudos ar baudą sumažinti yra pateikti šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] 1 ar [[#^s-91718532850ebab0f00c4eeb|2 dalies]] pagrindu, o pripažinimo pareiškimai pateikti šio įstatymo [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punkto]] pagrindu. Teismas jokiais atvejais nesudaro galimybės kitiems asmenims susipažinti su šiais prašymais ir pareiškimais. ^s-d3b3675785b7077548e305f3
+2) teismui, kai jam būtina įsitikinti, kad prašymai atleisti nuo baudos ar baudą sumažinti yra pateikti šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] [[#^s-ad051368769b0d03357189a7|1]] ar [[#^s-be71c6f3f8a04744f7fdf7a6|2]] dalies pagrindu, o pripažinimo pareiškimai pateikti šio įstatymo [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punkto]] pagrindu. Teismas jokiais atvejais nesudaro galimybės kitiems asmenims susipažinti su šiais prašymais ir pareiškimais. ^s-d3b3675785b7077548e305f3
 
 
-11. Konkurencijos taryba neatskleidžia jai pateiktų prašymų atleisti nuo baudos ar baudą sumažinti šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] 1 ar [[#^s-91718532850ebab0f00c4eeb|2 dalies]] pagrindu ir šio įstatymo [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punkte]] nurodytų tyrimo metu pateiktų rašytinių pripažinimo pareiškimų dėl kitų, negu [[#^s-9c6cf80706abb4f1efb9c7b8|šio straipsnio 10 dalyje]] nurodyti, pažeidimų. Šiuos prašymus ir pareiškimus Konkurencijos taryba atskleidžia tik: ^s-32dbc97a4c3e142dc3dadf26
+11. Konkurencijos taryba neatskleidžia jai pateiktų prašymų atleisti nuo baudos ar baudą sumažinti šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] [[#^s-ad051368769b0d03357189a7|1]] ar [[#^s-be71c6f3f8a04744f7fdf7a6|2]] dalies pagrindu ir šio įstatymo [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punkte]] nurodytų tyrimo metu pateiktų rašytinių pripažinimo pareiškimų dėl kitų, negu [[#^s-9c6cf80706abb4f1efb9c7b8|šio straipsnio 10 dalyje]] nurodyti, pažeidimų. Šiuos prašymus ir pareiškimus Konkurencijos taryba atskleidžia tik: ^s-32dbc97a4c3e142dc3dadf26
 
 
 1) ūkio subjektams, įtariamiems ar Konkurencijos tarybos nutarimu pripažintiems dalyvavusiais tame pačiame pažeidime kaip ir prašymą atleisti nuo baudos ar baudą sumažinti ar pripažinimo pareiškimą pateikęs ūkio subjektas, šio įstatymo [[#^s-591da181ad7e33b5e7ef2eb5|29 straipsnio 2 dalyje]] numatytos teisės į gynybą įgyvendinimo tvarka ir tikslais, taip pat teismui, kai Konkurencijos tarybos nutarimas apskundžiamas šio įstatymo [[#^s-8c6aa584c58b3f8d9250dadf|33 straipsnio 1 dalies]] pagrindu; ^s-6eae3ed15894724990e1f588
 
 
-2) teismui, kuris, įvertinęs šio įstatymo [[#^s-a5e27aad8a5967100b2f1669|53 straipsnio]] 1 ir [[#^s-91718532850ebab0f00c4eeb|2 dalyse]] numatytas aplinkybes, nusprendžia išreikalauti šiuos dokumentus žalos atlyginimo bylose. ^s-518c7149cfdbe4564607ba7f
+2) teismui, kuris, įvertinęs šio įstatymo [[#^s-a5e27aad8a5967100b2f1669|53 straipsnio]] [[#^s-f2e4bfdddebc3ed6be841907|1]] ir [[#^s-55284c23bba42f007801d27f|2]] dalyse numatytas aplinkybes, nusprendžia išreikalauti šiuos dokumentus žalos atlyginimo bylose. ^s-518c7149cfdbe4564607ba7f
 
 
-12. Šio straipsnio 10 ir [[#^s-32dbc97a4c3e142dc3dadf26|11 dalyse]] nustatyti ribojimai taikomi tik šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] 1 ar [[#^s-91718532850ebab0f00c4eeb|2 dalies]] pagrindu pateiktiems prašymams atleisti nuo baudos ar baudą sumažinti ir šio įstatymo [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punkte]] nurodytiems tyrimo metu pateiktiems rašytiniams pripažinimo pareiškimams, bet ne kartu su šiais dokumentais teikiamiems įrodymams. ^s-7c9e9c398a0c10fa5f9822c2
+12. Šio straipsnio [[#^s-9c6cf80706abb4f1efb9c7b8|10]] ir [[#^s-32dbc97a4c3e142dc3dadf26|11]] dalyse nustatyti ribojimai taikomi tik šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] [[#^s-ad051368769b0d03357189a7|1]] ar [[#^s-be71c6f3f8a04744f7fdf7a6|2]] dalies pagrindu pateiktiems prašymams atleisti nuo baudos ar baudą sumažinti ir šio įstatymo [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punkte]] nurodytiems tyrimo metu pateiktiems rašytiniams pripažinimo pareiškimams, bet ne kartu su šiais dokumentais teikiamiems įrodymams. ^s-7c9e9c398a0c10fa5f9822c2
 
 
-13. Konkurencijos taryba nedaro šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] 1 ar [[#^s-91718532850ebab0f00c4eeb|2 dalies]] pagrindu pateiktų prašymų atleisti nuo baudos ar baudą sumažinti ir šio įstatymo [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punkte]] nurodytų tyrimo metu pateiktų rašytinių pripažinimo pareiškimų kopijų, išskyrus kopijų darymą teismui šio straipsnio 10 ir [[#^s-32dbc97a4c3e142dc3dadf26|11 dalyse]] numatytais atvejais. ^s-110164a06d8c090972e906cf
+13. Konkurencijos taryba nedaro šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] [[#^s-ad051368769b0d03357189a7|1]] ar [[#^s-be71c6f3f8a04744f7fdf7a6|2]] dalies pagrindu pateiktų prašymų atleisti nuo baudos ar baudą sumažinti ir šio įstatymo [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punkte]] nurodytų tyrimo metu pateiktų rašytinių pripažinimo pareiškimų kopijų, išskyrus kopijų darymą teismui šio straipsnio [[#^s-cac7806c22ac710beff91e50|10]] ir [[#^s-d902dd4b484e1446c975fd92|11]] dalyse numatytais atvejais. ^s-110164a06d8c090972e906cf
 
 
 14. Asmenys teisę susipažinti su Konkurencijos tarybos turimais dokumentais ir kita informacija įgyja ne anksčiau, negu priimamas galutinis Konkurencijos tarybos nutarimas ar kitoks sprendimas dėl nagrinėjamo klausimo. Ši teisė neapima dokumentų ir kitos informacijos, su kuria asmenys neturi teisės susipažinti remiantis šiuo ir kitais įstatymais ar kitais teisės aktais, reglamentuojančiais atskirų rūšių dokumentų ir kitos informacijos apsaugą. Prašymai pateikti visus su galutiniu Konkurencijos tarybos nutarimu ar kitokiu sprendimu dėl nagrinėjamo klausimo susijusius dokumentus ir kitą informaciją, tiksliai neįvardijus prašomų dokumentų ir kitos informacijos, nėra tenkinami. ^s-8cccfec63b0770f3fa642230
@@ -1100,7 +1100,7 @@ Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
 
 
-16. Konkurencijos taryba turi teisę visiškai ar iš dalies apriboti šias 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) įtvirtintas su šio įstatymo ir kitų įstatymų, kurių priežiūrą vykdo Konkurencijos taryba, pažeidimų tyrimų ar koncentracijos priežiūros procedūra susijusių duomenų subjektų teises: ^s-e70085baee42eb8e9a7d2e74
+16. Konkurencijos taryba turi teisę visiškai ar iš dalies apriboti šias 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) įtvirtintas su šio įstatymo ir kitų įstatymų, kurių priežiūrą vykdo Konkurencijos taryba, pažeidimų tyrimų ar koncentracijos priežiūros procedūra susijusių duomenų subjektų teises: ^s-e70085baee42eb8e9a7d2e74
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
@@ -1180,7 +1180,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 
-6) pažeidimus, kai nurodymai pateikti tyrimui atlikti ar koncentracijai nagrinėti reikalingą informaciją pagal šio įstatymo [[#^s-e55d09c027c33ca741be7926|11 straipsnio 5 dalį]] ir [[#^s-32573d640eff1895ff54baaf|25 straipsnio 1 dalies 6 punktą]] nevykdomi ar vykdomi ne laiku, pateikiama neteisinga, klaidinanti ar ne visa informacija, nurodymai pateikti atsakymus į klausimus, užduotus asmenims, susijusiems su tiriamųjų ūkio subjektų veikla dėl faktų ir dokumentų pagal šio įstatymo [[#^s-a89d28066f802e3eb5a9da01|25 straipsnio 1 dalies 5 punktą]], nevykdomi arba pateikti atsakymai į klausimus yra neteisingi, klaidinantys ar neišsamūs, kliudoma Konkurencijos tarybos pareigūnams atlikti šio įstatymo [[#^s-619167d5b8b4287ebdd38f32|25 straipsnio 1 dalyje]] nurodytus veiksmus arba nevykdomi reikalavimai, pareikšti įgyvendinant šio įstatymo [[#^s-619167d5b8b4287ebdd38f32|25 straipsnio 1 dalyje]] nurodytas teises, pažeidžiamas ar nuplėšiamas antspaudas, uždėtas pagal šio įstatymo [[#^s-e093abd1998b970fc111a712|25 straipsnio 1 dalies 4 punktą]], arba nevykdomos Konkurencijos tarybos nutarimais paskirtos šio įstatymo [[#^s-cbe9ff700cf90f1907a407f7|35 straipsnio 1 dalies]] 1, 2 ir [[#^s-ed204710111bce9ac62f35fe|3 punktuose]] nurodytos sankcijos, laikinosios priemonės ar ūkinės veiklos apribojimai, taip pat ūkio subjektų prisiimti įsipareigojimai pagal šio įstatymo [[#^s-3899e375c146e1a2baa80b40|28 straipsnio 4 dalį]]. ^s-2deadd02c192111f87fda12c
+6) pažeidimus, kai nurodymai pateikti tyrimui atlikti ar koncentracijai nagrinėti reikalingą informaciją pagal šio įstatymo [[#^s-e55d09c027c33ca741be7926|11 straipsnio 5 dalį]] ir [[#^s-32573d640eff1895ff54baaf|25 straipsnio 1 dalies 6 punktą]] nevykdomi ar vykdomi ne laiku, pateikiama neteisinga, klaidinanti ar ne visa informacija, nurodymai pateikti atsakymus į klausimus, užduotus asmenims, susijusiems su tiriamųjų ūkio subjektų veikla dėl faktų ir dokumentų pagal šio įstatymo [[#^s-a89d28066f802e3eb5a9da01|25 straipsnio 1 dalies 5 punktą]], nevykdomi arba pateikti atsakymai į klausimus yra neteisingi, klaidinantys ar neišsamūs, kliudoma Konkurencijos tarybos pareigūnams atlikti šio įstatymo [[#^s-619167d5b8b4287ebdd38f32|25 straipsnio 1 dalyje]] nurodytus veiksmus arba nevykdomi reikalavimai, pareikšti įgyvendinant šio įstatymo [[#^s-619167d5b8b4287ebdd38f32|25 straipsnio 1 dalyje]] nurodytas teises, pažeidžiamas ar nuplėšiamas antspaudas, uždėtas pagal šio įstatymo [[#^s-e093abd1998b970fc111a712|25 straipsnio 1 dalies 4 punktą]], arba nevykdomos Konkurencijos tarybos nutarimais paskirtos šio įstatymo [[#^s-cbe9ff700cf90f1907a407f7|35 straipsnio 1 dalies]] [[#^s-eab901c944f7ed02e303aea3|1]], [[#^s-9dcb2295dd26b4c63cab9d8e|2]] ir [[#^s-c0d5f516d548de236d41c630|3]] punktuose nurodytos sankcijos, laikinosios priemonės ar ūkinės veiklos apribojimai, taip pat ūkio subjektų prisiimti įsipareigojimai pagal šio įstatymo [[#^s-3899e375c146e1a2baa80b40|28 straipsnio 4 dalį]]. ^s-2deadd02c192111f87fda12c
 Straipsnio punkto pakeitimai:
 Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
 
@@ -1192,7 +1192,7 @@ Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
 3. Apie šiame skyriuje nurodytus Konkurencijos tarybos priimtus nutarimus dėl šio įstatymo pažeidimų tyrimo pranešama pareiškėjams ir pažeidimu įtariamiems subjektams per Konkurencijos tarybos darbo reglamente nustatytus terminus. ^s-680f1b3904f2850a9a9cef44
 
 
-4. Konkurencijos tarybos nutarimai dėl šio įstatymo pažeidimų tyrimo Konkurencijos tarybos nutarimu gali būti laikomi konfidencialiais tol, kol išnyksta grėsmė tyrimo eigai, bet ne ilgiau, kaip iki bus atliktas bet kuris iš šio įstatymo [[#^s-619167d5b8b4287ebdd38f32|25 straipsnio 1 dalies]] 1, 2, 3, 4, 5, 7 ar 8 punkte numatytų veiksmų dėl šio įstatymo pažeidimu įtariamų ūkio subjektų. ^s-fb3593757b07d475248ea4ad
+4. Konkurencijos tarybos nutarimai dėl šio įstatymo pažeidimų tyrimo Konkurencijos tarybos nutarimu gali būti laikomi konfidencialiais tol, kol išnyksta grėsmė tyrimo eigai, bet ne ilgiau, kaip iki bus atliktas bet kuris iš šio įstatymo [[#^s-619167d5b8b4287ebdd38f32|25 straipsnio 1 dalies]] [[#^s-0d784dad632810bf3b70a9a9|1]], [[#^s-4dece00717a8a12cfe5aeaca|2]], [[#^s-faad2133382a54da63f71a15|3]], [[#^s-e093abd1998b970fc111a712|4]], [[#^s-a89d28066f802e3eb5a9da01|5]], [[#^s-be77d3859c3dcd1bda07d7a6|7]] ar [[#^s-b9e80cbae04eb7ac703d56ae|8]] punkte numatytų veiksmų dėl šio įstatymo pažeidimu įtariamų ūkio subjektų. ^s-fb3593757b07d475248ea4ad
 
 
 5. Konkurencijos taryba turi teisę nustatyti skirtingą jos kompetencijai priskirtų tirti ir nagrinėti šio įstatymo, [[latest/TAR.2E0162CE3FB9|Mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo]] ir kitų įstatymų, kurių laikymosi priežiūrą vykdo Konkurencijos taryba, atskirų rūšių pažeidimų tyrimo ir nagrinėjimo tvarką, kiek tai neprieštarauja šių įstatymų nuostatoms. ^s-84bad7d0f6d101fa2bd9e99c
@@ -1278,7 +1278,7 @@ Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 1) įeiti ir atlikti patikrinimą ūkio subjekto naudojamose patalpose, teritorijoje ir transporto priemonėse, užantspauduoti ūkio subjekto naudojamas patalpas tokiam laikotarpiui ir tokiu mastu, koks būtinas patikrinimui; ^s-0d784dad632810bf3b70a9a9
 
 
-2) įeiti ir atlikti patikrinimą kitose patalpose, teritorijose ir transporto priemonėse, įskaitant ūkio subjekto vadovų ir darbuotojų gyvenamąsias ir kitokias patalpas, jeigu kyla pagrįstas įtarimas, kad tokiose patalpose, teritorijose ar transporto priemonėse yra laikomi dokumentai ar bet kokia kita informacija, galinti turėti reikšmės įrodant šio įstatymo 5 ar [[#^s-2a8624f795fa22672b35abef|7 straipsnio]] arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimą; ^s-4dece00717a8a12cfe5aeaca
+2) įeiti ir atlikti patikrinimą kitose patalpose, teritorijose ir transporto priemonėse, įskaitant ūkio subjekto vadovų ir darbuotojų gyvenamąsias ir kitokias patalpas, jeigu kyla pagrįstas įtarimas, kad tokiose patalpose, teritorijose ar transporto priemonėse yra laikomi dokumentai ar bet kokia kita informacija, galinti turėti reikšmės įrodant šio įstatymo [[#^s-4eb2cb549a516aa5fbb4d033|5]] ar [[#^s-2a8624f795fa22672b35abef|7]] straipsnio arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimą; ^s-4dece00717a8a12cfe5aeaca
 
 
 3) peržiūrėti tyrimui reikalingus dokumentus (neatsižvelgiant į tai, kokioje laikmenoje jie saugomi), gauti jų kopijas ir išrašus, susipažinti su ūkio subjekto darbuotojų užrašais, susijusiais su darbo veikla, taip pat juos bei kompiuteriuose ir bet kokiose laikmenose, saugyklose ir duomenų bazėse esančią informaciją, kuri yra prieinama tikrinamam subjektui, kopijuoti. Kai yra tikslinga, tęsti šiame punkte nurodytų dokumentų, darbuotojų užrašų ir informacijos peržiūrą Konkurencijos tarybos ar kitose patalpose; ^s-faad2133382a54da63f71a15
@@ -1335,13 +1335,13 @@ Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
 8. Tyrimą atliekantys Konkurencijos tarybos įgalioti pareigūnai raštu įspėja paaiškinimus duodančius asmenis apie atsakomybę už melagingos informacijos suteikimą arba už atsisakymą suteikti informaciją Konkurencijos tarybai. ^s-04d001c6034ed6c4136901d4
 
 
-9. Konkurencijos tarybos įgalioti pareigūnai turi teisę kitos Europos Sąjungos valstybės narės konkurencijos institucijos vardu atlikti [[#^s-619167d5b8b4287ebdd38f32|šio straipsnio 1 dalyje]] nurodytus tyrimo veiksmus, kad būtų nustatyta, ar ūkio subjektas nepažeidė kitos Europos Sąjungos valstybės narės konkurencijos institucijos reikalavimų tyrimo metu ir sprendimų, įtvirtintų kitos Europos Sąjungos valstybės narės nacionaliniuose teisės aktuose, kuriais perkeliamos Direktyvos (ES) 2019/1 6, 8–[[#^s-2c6330729edc6a0a6f11cb87|12 straipsnių]] nuostatos. Surinktą informaciją Konkurencijos taryba turi teisę perduoti kitos Europos Sąjungos valstybės narės konkurencijos institucijai. ^s-5b7de32ec757cbeabcf3bbb7
+9. Konkurencijos tarybos įgalioti pareigūnai turi teisę kitos Europos Sąjungos valstybės narės konkurencijos institucijos vardu atlikti [[#^s-619167d5b8b4287ebdd38f32|šio straipsnio 1 dalyje]] nurodytus tyrimo veiksmus, kad būtų nustatyta, ar ūkio subjektas nepažeidė kitos Europos Sąjungos valstybės narės konkurencijos institucijos reikalavimų tyrimo metu ir sprendimų, įtvirtintų kitos Europos Sąjungos valstybės narės nacionaliniuose teisės aktuose, kuriais perkeliamos [Direktyvos (ES) 2019/1](https://eur-lex.europa.eu/eli/dir/2019/1/oj) [[#^s-d21e5216619f18efa813cd1f|6]], [[#^s-ef46aa35fb426f1e7136c47b|8]]–[[#^s-2c6330729edc6a0a6f11cb87|12]] straipsnių nuostatos. Surinktą informaciją Konkurencijos taryba turi teisę perduoti kitos Europos Sąjungos valstybės narės konkurencijos institucijai. ^s-5b7de32ec757cbeabcf3bbb7
 
 
 10. Kai [[#^s-619167d5b8b4287ebdd38f32|šio straipsnio 1 dalyje]] nurodytus tyrimo veiksmus Konkurencijos tarybos įgalioti pareigūnai atlieka kitos Europos Sąjungos valstybės narės konkurencijos institucijos vardu pagal Reglamento (EB) Nr. 1/2003 [[#^s-4f2c06ca50d9092808829114|22 straipsnį]], kitos Europos Sąjungos valstybės narės konkurencijos institucijos įgalioti ar kiti juos lydintys asmenys turi teisę prisidėti prie tyrimo veiksmų atlikimo. ^s-73d98ba613251607611f5bbe
 
 
-11. Konkurencijos taryba turi teisę kitos Europos Sąjungos valstybės narės konkurencijos institucijos prašyti atlikti kitos Europos Sąjungos valstybės narės nacionaliniuose teisės aktuose, kuriais yra perkeliamos Direktyvos (ES) 2019/1 6–[[#^s-9780d8e5b455426409a7f47d|9 straipsnių]] nuostatos, numatytus tyrimo veiksmus, kad būtų nustatyta, ar ūkio subjektas nepažeidė [[#^s-619167d5b8b4287ebdd38f32|šio straipsnio 1 dalyje]] įtvirtintų Konkurencijos tarybos įgaliotų pareigūnų teisių, Konkurencijos tarybos pagal šio įstatymo [[#^s-366f7c6279023b9cb9ab4a18|26 straipsnį]], [[#^s-3899e375c146e1a2baa80b40|28 straipsnio 4 dalį]], [[#^s-cbe9ff700cf90f1907a407f7|35 straipsnio 1 dalies]] 1 ir 2 punktus nustatytų reikalavimų. Konkurencijos taryba turi teisę kaip įrodymą naudoti kitos Europos Sąjungos valstybės narės konkurencijos institucijos surinktą ir Konkurencijos tarybai perduotą informaciją tik taikydama jai Reglamento (EB) Nr. 1/2003 [[#^s-2c6330729edc6a0a6f11cb87|12 straipsnyje]] nustatytus apribojimus ir apsaugos priemones. Kai tyrimo veiksmus Konkurencijos tarybos vardu atlieka kitos Europos Sąjungos valstybės narės konkurencijos institucija pagal Reglamento (EB) Nr. 1/2003 [[#^s-4f2c06ca50d9092808829114|22 straipsnį]], Konkurencijos tarybos įgalioti pareigūnai turi teisę prisidėti prie tyrimo veiksmų atlikimo tiek, kiek tai leidžiama pagal tos Europos Sąjungos valstybės narės teisę. ^s-29e3fa5e6768cb91e529d714
+11. Konkurencijos taryba turi teisę kitos Europos Sąjungos valstybės narės konkurencijos institucijos prašyti atlikti kitos Europos Sąjungos valstybės narės nacionaliniuose teisės aktuose, kuriais yra perkeliamos [Direktyvos (ES) 2019/1](https://eur-lex.europa.eu/eli/dir/2019/1/oj) [[#^s-d21e5216619f18efa813cd1f|6]]–[[#^s-9780d8e5b455426409a7f47d|9]] straipsnių nuostatos, numatytus tyrimo veiksmus, kad būtų nustatyta, ar ūkio subjektas nepažeidė [[#^s-619167d5b8b4287ebdd38f32|šio straipsnio 1 dalyje]] įtvirtintų Konkurencijos tarybos įgaliotų pareigūnų teisių, Konkurencijos tarybos pagal šio įstatymo [[#^s-366f7c6279023b9cb9ab4a18|26 straipsnį]], [[#^s-3899e375c146e1a2baa80b40|28 straipsnio 4 dalį]], [[#^s-cbe9ff700cf90f1907a407f7|35 straipsnio 1 dalies]] [[#^s-eab901c944f7ed02e303aea3|1]] ir [[#^s-9dcb2295dd26b4c63cab9d8e|2]] punktus nustatytų reikalavimų. Konkurencijos taryba turi teisę kaip įrodymą naudoti kitos Europos Sąjungos valstybės narės konkurencijos institucijos surinktą ir Konkurencijos tarybai perduotą informaciją tik taikydama jai Reglamento (EB) Nr. 1/2003 [[#^s-2c6330729edc6a0a6f11cb87|12 straipsnyje]] nustatytus apribojimus ir apsaugos priemones. Kai tyrimo veiksmus Konkurencijos tarybos vardu atlieka kitos Europos Sąjungos valstybės narės konkurencijos institucija pagal Reglamento (EB) Nr. 1/2003 [[#^s-4f2c06ca50d9092808829114|22 straipsnį]], Konkurencijos tarybos įgalioti pareigūnai turi teisę prisidėti prie tyrimo veiksmų atlikimo tiek, kiek tai leidžiama pagal tos Europos Sąjungos valstybės narės teisę. ^s-29e3fa5e6768cb91e529d714
 
 
 Straipsnio pakeitimai:
@@ -1471,10 +1471,10 @@ PROCEDŪROS DALYVIŲ IŠKLAUSYMAS KONKURENCIJOS TARYBOJE IR KONKURENCIJOS TARYBO
 1. Baigus tyrimą, pareiškėjui, pažeidimu įtariamam subjektui (toliau – procedūros dalyviai), Konkurencijos tarybos sprendimu ir kitiems suinteresuotiems ūkio subjektams ar viešojo administravimo subjektams (toliau – kiti suinteresuoti asmenys) raštu pateikiamos tyrimo išvados ir pasiūloma per Konkurencijos tarybos nustatytą protingą terminą raštu pateikti savo paaiškinimus dėl jų. ^s-bf66e30c2a22e142be25bdd8
 
 
-2. Baigus tyrimą, procedūros dalyviams taip pat sudaroma galimybė susipažinti su tyrimo bylos medžiaga, išskyrus dokumentus, kuriuose yra valstybės ar tarnybos paslapčių arba kito ūkio subjekto komercinių ar profesinių paslapčių. Norint susipažinti su dokumentais, kuriuose yra kito ūkio subjekto komercinių ar profesinių paslapčių, būtina gauti ūkio subjekto, su kurio komercines ar profesines paslaptis sudarančiais dokumentais norima susipažinti, sutikimą. Susipažinimui su informacija, kurią Konkurencijos tarybai pateikė ūkio subjektas šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] 1 ar [[#^s-591da181ad7e33b5e7ef2eb5|2 dalies]] pagrindu, ar šio įstatymo [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punkte]] nurodytu tyrimo metu pateiktu rašytiniu pripažinimo pareiškimu taikomi šio įstatymo [[#^s-65dfdaedbf9b6dc48169a162|21 straipsnio]] 10–13 dalyse numatyti apribojimai. Susipažinimui su informacija apie fizinį asmenį, pateikusį įrodymus, kuriais remdamasi Konkurencijos taryba nustato konkurentų susitarimą, nurodytą šio įstatymo [[#^s-08473b7df67bf57252dc9941|5 straipsnio 2 dalyje]], arba ne konkurentų susitarimą dėl tiesioginio ar netiesioginio kainų nustatymo (fiksavimo), nurodytą šio įstatymo [[#^s-5c365835496bea513bb4ee21|5 straipsnio 1 dalies 1 punkte]], taikomi šio įstatymo [[#^s-f4c9e3e9f8eb7da16f9ea536|381 straipsnio 6 dalyje]] numatyti apribojimai. ^s-591da181ad7e33b5e7ef2eb5
+2. Baigus tyrimą, procedūros dalyviams taip pat sudaroma galimybė susipažinti su tyrimo bylos medžiaga, išskyrus dokumentus, kuriuose yra valstybės ar tarnybos paslapčių arba kito ūkio subjekto komercinių ar profesinių paslapčių. Norint susipažinti su dokumentais, kuriuose yra kito ūkio subjekto komercinių ar profesinių paslapčių, būtina gauti ūkio subjekto, su kurio komercines ar profesines paslaptis sudarančiais dokumentais norima susipažinti, sutikimą. Susipažinimui su informacija, kurią Konkurencijos tarybai pateikė ūkio subjektas šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] [[#^s-ad051368769b0d03357189a7|1]] ar [[#^s-be71c6f3f8a04744f7fdf7a6|2]] dalies pagrindu, ar šio įstatymo [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punkte]] nurodytu tyrimo metu pateiktu rašytiniu pripažinimo pareiškimu taikomi šio įstatymo [[#^s-65dfdaedbf9b6dc48169a162|21 straipsnio]] [[#^s-9c6cf80706abb4f1efb9c7b8|10]]–[[#^s-110164a06d8c090972e906cf|13]] dalyse numatyti apribojimai. Susipažinimui su informacija apie fizinį asmenį, pateikusį įrodymus, kuriais remdamasi Konkurencijos taryba nustato konkurentų susitarimą, nurodytą šio įstatymo [[#^s-08473b7df67bf57252dc9941|5 straipsnio 2 dalyje]], arba ne konkurentų susitarimą dėl tiesioginio ar netiesioginio kainų nustatymo (fiksavimo), nurodytą šio įstatymo [[#^s-5c365835496bea513bb4ee21|5 straipsnio 1 dalies 1 punkte]], taikomi šio įstatymo [[#^s-f4c9e3e9f8eb7da16f9ea536|381 straipsnio 6 dalyje]] numatyti apribojimai. ^s-591da181ad7e33b5e7ef2eb5
 
 
-3. Kol Konkurencijos taryba nepriėmė vieno iš šio įstatymo [[#^s-5df022b3ec56f9ec7e6e4b29|28 straipsnio]] 3 ir [[#^s-06fa65ec66e04ee987f3738a|4 dalyse]] arba [[#^s-12fb99848deaeca2d788ba05|30 straipsnio 1 dalies]] 1, 2 ir [[#^s-7a83417ad387e21450ec7d48|3 punktuose]] nurodytų nutarimų dėl visų įtariamų ūkio subjektų, procedūros dalyviai teisminiuose procesuose negali naudoti toliau nurodytos informacijos, kurią jie gavo Konkurencijos tarybos procedūros dėl šio įstatymo pažeidimo tyrimo metu: ^s-cb6ad468adfa4f5a058258da
+3. Kol Konkurencijos taryba nepriėmė vieno iš šio įstatymo [[#^s-5df022b3ec56f9ec7e6e4b29|28 straipsnio]] [[#^s-655d27ee8516a6914b34f8ff|3]] ir [[#^s-3899e375c146e1a2baa80b40|4]] dalyse arba [[#^s-12fb99848deaeca2d788ba05|30 straipsnio 1 dalies]] [[#^s-0d5ae2d2381c730a7398019a|1]], [[#^s-a5ef33fbbbe381a2160e5e62|2]] ir [[#^s-43d271d914c17eba740e686c|3]] punktuose nurodytų nutarimų dėl visų įtariamų ūkio subjektų, procedūros dalyviai teisminiuose procesuose negali naudoti toliau nurodytos informacijos, kurią jie gavo Konkurencijos tarybos procedūros dėl šio įstatymo pažeidimo tyrimo metu: ^s-cb6ad468adfa4f5a058258da
 
 
 1) informacijos, kurią parengė kiti fiziniai ar juridiniai asmenys Konkurencijos tarybos procedūros dėl šio įstatymo pažeidimo tyrimo tikslais; ^s-e15db511b80e822e3a298809
@@ -1486,7 +1486,7 @@ PROCEDŪROS DALYVIŲ IŠKLAUSYMAS KONKURENCIJOS TARYBOJE IR KONKURENCIJOS TARYBO
 3) pagal šio įstatymo [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punktą]] pateiktų rašytinių pripažinimo pareiškimų, kurie buvo atsiimti. ^s-7a83417ad387e21450ec7d48
 
 
-4. Prieš Konkurencijos tarybai priimant nutarimą dėl šio įstatymo pažeidimo, procedūros dalyviai ir kiti suinteresuoti asmenys turi teisę duoti paaiškinimus ir būti išklausyti per Konkurencijos tarybos posėdį. Apie posėdžio vietą ir laiką jiems turi būti iš anksto pranešta Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. Apie numatomą posėdį Konkurencijos taryba turi teisę pranešti per visuomenės informavimo priemones ar savo interneto svetainėje. ^s-06fa65ec66e04ee987f3738a
+4. Prieš Konkurencijos tarybai priimant nutarimą dėl šio įstatymo pažeidimo, procedūros dalyviai ir kiti suinteresuoti asmenys turi teisę duoti paaiškinimus ir būti išklausyti per Konkurencijos tarybos posėdį. Apie posėdžio vietą ir laiką jiems turi būti iš anksto pranešta [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. Apie numatomą posėdį Konkurencijos taryba turi teisę pranešti per visuomenės informavimo priemones ar savo interneto svetainėje. ^s-06fa65ec66e04ee987f3738a
 
 
 5. Konkurencijos tarybos posėdžiai, kurių metu išklausomi procedūros dalyviai ir kiti suinteresuoti asmenys, yra vieši. Konkurencijos taryba savo iniciatyva, procedūros dalyvių arba kitų suinteresuotų asmenų prašymu gali paskelbti posėdį uždarą, jeigu tai būtina siekiant apsaugoti valstybės ar tarnybos paslaptis arba ūkio subjektų komercines ar profesines paslaptis. ^s-1107645bb89acf63abbb26d6
@@ -1650,7 +1650,7 @@ Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
 4. [[#^s-086b998fb1e3fadba435a8ab|Šio straipsnio 3 dalyje]] nurodytas sankcijų taikymo terminas yra sustabdomas, kai: ^s-86066dae07f313eaca6a8516
 
 
-1) Konkurencijos taryba atlieka šio įstatymo V skyriaus pirmajame ir antrajame skirsniuose nurodytą šio įstatymo pažeidimų tyrimo procedūrą. Sankcijų taikymo terminas šiuo atveju sustabdomas nuo bent vieno ūkio subjekto ar viešojo administravimo subjekto, dėl kurių Konkurencijos taryba yra pradėjusi pažeidimo tyrimo procedūrą, informavimo apie jiems pradėtą šio įstatymo pažeidimų tyrimo procedūrą iki Konkurencijos tarybos nutarimo tyrimą nutraukti ar šio įstatymo [[#^s-12fb99848deaeca2d788ba05|30 straipsnio 1 dalies]] 1, 2 ir [[#^s-d5f7a1d9977833b34be7650b|3 punktuose]] nurodyto nutarimo priėmimo dienos. Toks termino sustabdymas taikomas visiems ūkio subjektams ar viešojo administravimo subjektams, dalyvavusiems darant pažeidimą, dėl kurio Konkurencijos taryba yra pradėjusi pažeidimo tyrimo procedūrą; ^s-f3c9be962950e000b53e7dc5
+1) Konkurencijos taryba atlieka šio įstatymo V skyriaus pirmajame ir antrajame skirsniuose nurodytą šio įstatymo pažeidimų tyrimo procedūrą. Sankcijų taikymo terminas šiuo atveju sustabdomas nuo bent vieno ūkio subjekto ar viešojo administravimo subjekto, dėl kurių Konkurencijos taryba yra pradėjusi pažeidimo tyrimo procedūrą, informavimo apie jiems pradėtą šio įstatymo pažeidimų tyrimo procedūrą iki Konkurencijos tarybos nutarimo tyrimą nutraukti ar šio įstatymo [[#^s-12fb99848deaeca2d788ba05|30 straipsnio 1 dalies]] [[#^s-0d5ae2d2381c730a7398019a|1]], [[#^s-a5ef33fbbbe381a2160e5e62|2]] ir [[#^s-43d271d914c17eba740e686c|3]] punktuose nurodyto nutarimo priėmimo dienos. Toks termino sustabdymas taikomas visiems ūkio subjektams ar viešojo administravimo subjektams, dalyvavusiems darant pažeidimą, dėl kurio Konkurencijos taryba yra pradėjusi pažeidimo tyrimo procedūrą; ^s-f3c9be962950e000b53e7dc5
 
 
 2) teismo sprendimu sustabdomas Konkurencijos tarybos atliekamas tyrimas. Sankcijų skyrimo terminas šiuo atveju sustabdomas tol, kol yra sustabdytas Konkurencijos tarybos tyrimas; ^s-91c3fd6559f244aee0957f5a
@@ -1679,19 +1679,19 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 ### 36 straipsnis. Baudos ^s-d719d81c8bc3f56ab3ef18e5
 
 
-1. Už draudžiamus susitarimus, piktnaudžiavimą dominuojančia padėtimi, koncentracijos, apie kurią buvo privaloma pranešti, įgyvendinimą be Konkurencijos tarybos leidimo, koncentracijos tęsimą jos sustabdymo laikotarpiu, Konkurencijos tarybos nustatytų koncentracijos vykdymo sąlygų ar privalomų įpareigojimų pažeidimą, už šio įstatymo [[#^s-cbe9ff700cf90f1907a407f7|35 straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytų įpareigojimų nevykdymą, už laikinųjų priemonių, ūkinės veiklos apribojimų ar už šio įstatymo [[#^s-3899e375c146e1a2baa80b40|28 straipsnio 4 dalyje]] prisiimtų įsipareigojimų nesilaikymą ūkio subjektams skiriama piniginė bauda iki 10 procentų bendrųjų metinių pasaulinių pajamų praėjusiais finansiniais metais. Bendrosios pasaulinės pajamos – visos ūkio subjekto gautos pajamos visose pasaulio valstybėse. ^s-d9538491a2bbec47a43436d8
+1. Už draudžiamus susitarimus, piktnaudžiavimą dominuojančia padėtimi, koncentracijos, apie kurią buvo privaloma pranešti, įgyvendinimą be Konkurencijos tarybos leidimo, koncentracijos tęsimą jos sustabdymo laikotarpiu, Konkurencijos tarybos nustatytų koncentracijos vykdymo sąlygų ar privalomų įpareigojimų pažeidimą, už šio įstatymo [[#^s-cbe9ff700cf90f1907a407f7|35 straipsnio 1 dalies]] [[#^s-eab901c944f7ed02e303aea3|1]], [[#^s-9dcb2295dd26b4c63cab9d8e|2]] ir [[#^s-c0d5f516d548de236d41c630|3]] punktuose nurodytų įpareigojimų nevykdymą, už laikinųjų priemonių, ūkinės veiklos apribojimų ar už šio įstatymo [[#^s-3899e375c146e1a2baa80b40|28 straipsnio 4 dalyje]] prisiimtų įsipareigojimų nesilaikymą ūkio subjektams skiriama piniginė bauda iki 10 procentų bendrųjų metinių pasaulinių pajamų praėjusiais finansiniais metais. Bendrosios pasaulinės pajamos – visos ūkio subjekto gautos pajamos visose pasaulio valstybėse. ^s-d9538491a2bbec47a43436d8
 Straipsnio dalies pakeitimai:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
 
 
-2. Kai ūkio subjektų junginio padarytas šio įstatymo 5 ar [[#^s-2a8624f795fa22672b35abef|7 straipsnyje]] nurodytas pažeidimas yra susijęs su tokiam ūkio subjektų junginiui priklausančių ūkio subjektų veikla, Konkurencijos taryba turi teisę pasirinkti skirti baudą pagal [[#^s-d9538491a2bbec47a43436d8|šio straipsnio 1 dalį]] arba procedūros dėl šio įstatymo pažeidimo tyrimo efektyvumo tikslais skirti baudą pagal šią dalį. Konkurencijos taryba už šio įstatymo 5 ar [[#^s-2a8624f795fa22672b35abef|7 straipsnio]] pažeidimą turi teisę skirti piniginę baudą ūkio subjektų junginiui iki 10 procentų sumos, kuri gaunama sudėjus kiekvieno ūkio subjektų junginiui priklausančio ūkio subjekto, vykdančio veiklą rinkoje, kuriai ūkio subjektų junginio padarytas pažeidimas daro poveikį, bendrąsias metines pasaulines pajamas praėjusiais finansiniais metais. Tokiu atveju kiekvieno ūkio subjektų junginiui priklausančio ūkio subjekto finansinė atsakomybė, susijusi su ūkio subjektų junginiui paskirtos baudos sumokėjimu, neturi viršyti 10 procentų ūkio subjektų junginiui priklausančio ūkio subjekto bendrųjų metinių pasaulinių pajamų praėjusiais finansiniais metais. ^s-1fe87b8e18e5704c5598b446
+2. Kai ūkio subjektų junginio padarytas šio įstatymo [[#^s-4eb2cb549a516aa5fbb4d033|5]] ar [[#^s-2a8624f795fa22672b35abef|7]] straipsnyje nurodytas pažeidimas yra susijęs su tokiam ūkio subjektų junginiui priklausančių ūkio subjektų veikla, Konkurencijos taryba turi teisę pasirinkti skirti baudą pagal [[#^s-d9538491a2bbec47a43436d8|šio straipsnio 1 dalį]] arba procedūros dėl šio įstatymo pažeidimo tyrimo efektyvumo tikslais skirti baudą pagal šią dalį. Konkurencijos taryba už šio įstatymo [[#^s-4eb2cb549a516aa5fbb4d033|5]] ar [[#^s-2a8624f795fa22672b35abef|7]] straipsnio pažeidimą turi teisę skirti piniginę baudą ūkio subjektų junginiui iki 10 procentų sumos, kuri gaunama sudėjus kiekvieno ūkio subjektų junginiui priklausančio ūkio subjekto, vykdančio veiklą rinkoje, kuriai ūkio subjektų junginio padarytas pažeidimas daro poveikį, bendrąsias metines pasaulines pajamas praėjusiais finansiniais metais. Tokiu atveju kiekvieno ūkio subjektų junginiui priklausančio ūkio subjekto finansinė atsakomybė, susijusi su ūkio subjektų junginiui paskirtos baudos sumokėjimu, neturi viršyti 10 procentų ūkio subjektų junginiui priklausančio ūkio subjekto bendrųjų metinių pasaulinių pajamų praėjusiais finansiniais metais. ^s-1fe87b8e18e5704c5598b446
 Straipsnio dalies pakeitimai:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
 
 
-3. Už informacijos, reikalingos tyrimui atlikti ar koncentracijai nagrinėti, nepateikimą ar pateikimą ne laiku, taip pat neteisingos, klaidinančios ar ne visos informacijos pagal šio įstatymo [[#^s-e55d09c027c33ca741be7926|11 straipsnio 5 dalį]] ir [[#^s-32573d640eff1895ff54baaf|25 straipsnio 1 dalies 6 punktą]] pateikimą, nurodymų pateikti atsakymus į klausimus, užduotus asmenims, susijusiesiems su tiriamųjų ūkio subjektų veikla dėl faktų ir dokumentų pagal šio įstatymo [[#^s-a89d28066f802e3eb5a9da01|25 straipsnio 1 dalies 5 punktą]], nevykdymą arba neteisingų, klaidinančių ar neišsamių atsakymų į klausimus pateikimą, už reikalavimų, pareikštų įgyvendinant šio įstatymo [[#^s-619167d5b8b4287ebdd38f32|25 straipsnio 1 dalyje]] nurodytas teises, nevykdymą, kliudymą atlikti šio įstatymo [[#^s-619167d5b8b4287ebdd38f32|25 straipsnio 1 dalyje]] nurodytus veiksmus, pažeistą ar nuplėštą antspaudą, uždėtą pagal šio įstatymo [[#^s-619167d5b8b4287ebdd38f32|25 straipsnio 1 dalies]] 1 ar 4 punktą, ūkio subjektams skiriama piniginė bauda iki 1 procento bendrųjų metinių pasaulinių pajamų praėjusiais finansiniais metais. ^s-098b300937b37eed667fae5c
+3. Už informacijos, reikalingos tyrimui atlikti ar koncentracijai nagrinėti, nepateikimą ar pateikimą ne laiku, taip pat neteisingos, klaidinančios ar ne visos informacijos pagal šio įstatymo [[#^s-e55d09c027c33ca741be7926|11 straipsnio 5 dalį]] ir [[#^s-32573d640eff1895ff54baaf|25 straipsnio 1 dalies 6 punktą]] pateikimą, nurodymų pateikti atsakymus į klausimus, užduotus asmenims, susijusiesiems su tiriamųjų ūkio subjektų veikla dėl faktų ir dokumentų pagal šio įstatymo [[#^s-a89d28066f802e3eb5a9da01|25 straipsnio 1 dalies 5 punktą]], nevykdymą arba neteisingų, klaidinančių ar neišsamių atsakymų į klausimus pateikimą, už reikalavimų, pareikštų įgyvendinant šio įstatymo [[#^s-619167d5b8b4287ebdd38f32|25 straipsnio 1 dalyje]] nurodytas teises, nevykdymą, kliudymą atlikti šio įstatymo [[#^s-619167d5b8b4287ebdd38f32|25 straipsnio 1 dalyje]] nurodytus veiksmus, pažeistą ar nuplėštą antspaudą, uždėtą pagal šio įstatymo [[#^s-619167d5b8b4287ebdd38f32|25 straipsnio 1 dalies]] [[#^s-0d784dad632810bf3b70a9a9|1]] ar [[#^s-e093abd1998b970fc111a712|4]] punktą, ūkio subjektams skiriama piniginė bauda iki 1 procento bendrųjų metinių pasaulinių pajamų praėjusiais finansiniais metais. ^s-098b300937b37eed667fae5c
 Straipsnio dalies pakeitimai:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
@@ -1713,7 +1713,7 @@ Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 7. Už šio įstatymo [[#^s-2c021cd4b1f024ea8866db2d|4 straipsnio]] pažeidimus viešojo administravimo subjektams skiriama piniginė bauda iki 0,5 procento viešojo administravimo subjekto metinio biudžeto einamaisiais metais ir kitų praėjusiais metais gautų bendrųjų metinių pajamų, bet ne daugiau kaip šešiasdešimt tūkstančių eurų. ^s-83f59b7a6fbee358693b23b1
 
 
-8. Šio straipsnio 1, 2 ir [[#^s-098b300937b37eed667fae5c|3 dalyse]] nurodytos baudos skiriamos už laikotarpį, kuris baigiasi ne vėliau kaip Konkurencijos tarybos nutarimo skirti baudą priėmimo dieną. ^s-5e5cc8f5e758d1e5cf9ade79
+8. Šio straipsnio [[#^s-d9538491a2bbec47a43436d8|1]], [[#^s-1fe87b8e18e5704c5598b446|2]] ir [[#^s-098b300937b37eed667fae5c|3]] dalyse nurodytos baudos skiriamos už laikotarpį, kuris baigiasi ne vėliau kaip Konkurencijos tarybos nutarimo skirti baudą priėmimo dieną. ^s-5e5cc8f5e758d1e5cf9ade79
 
 
 9. [[#^s-2809a822a9569c792f93fe76|Šio straipsnio 4 dalyje]] nurodytos baudos skiriamos už laikotarpį, kuris prasideda nuo Konkurencijos tarybos nutarimo skirti baudą priėmimo dienos ir baigiasi tą dieną, kai baigiasi atitinkamo pažeidimo vykdymas (tęsimas). ^s-13e19e5040566d21ceb6d896
@@ -1803,13 +1803,13 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 4. Konkretus ūkio subjektams skiriamos baudos dydis nustatomas etapais: ^s-f2a7d7b9942ca88942b301e2
 
 
-1) Pirmuoju etapu nustatomas bazinis baudos dydis. Bazinis baudos dydis apskaičiuojamas nustatant ūkio subjekto pardavimo vertę ir šią pardavimo vertę padauginant iš pažeidimo pavojingumo koeficiento ir pažeidimo trukmės koeficiento. Nustatytas bazinis baudos dydis negali viršyti 50 procentų maksimalaus už tokį pažeidimą galimo skirti baudos dydžio, numatyto šio įstatymo [[#^s-d719d81c8bc3f56ab3ef18e5|36 straipsnio]] 1–[[#^s-f2a7d7b9942ca88942b301e2|4 dalyse]]. ^s-74c334ab6edb9a0160781b4d
+1) Pirmuoju etapu nustatomas bazinis baudos dydis. Bazinis baudos dydis apskaičiuojamas nustatant ūkio subjekto pardavimo vertę ir šią pardavimo vertę padauginant iš pažeidimo pavojingumo koeficiento ir pažeidimo trukmės koeficiento. Nustatytas bazinis baudos dydis negali viršyti 50 procentų maksimalaus už tokį pažeidimą galimo skirti baudos dydžio, numatyto šio įstatymo [[#^s-d719d81c8bc3f56ab3ef18e5|36 straipsnio]] [[#^s-d9538491a2bbec47a43436d8|1]]–[[#^s-2809a822a9569c792f93fe76|4]] dalyse. ^s-74c334ab6edb9a0160781b4d
 
 
 2) Antruoju etapu bazinis baudos dydis mažinamas arba didinamas [[#^s-a632afa04a4143e48d7f1f86|šio straipsnio 8 dalyje]] nustatyta tvarka. ^s-11b60c59ce3aa6aabffc0204
 
 
-3) Trečiuoju etapu nustatytas baudos dydis didinamas [[#^s-2ccabc71b664c61d16e302a0|šio straipsnio 9 dalyje]] nustatyta tvarka. Jeigu po trečiojo etapo apskaičiuotas baudos dydis viršija šio įstatymo [[#^s-d719d81c8bc3f56ab3ef18e5|36 straipsnio]] 1–[[#^s-f2a7d7b9942ca88942b301e2|4 dalyse]] numatytą galimą maksimalų baudos dydį, apskaičiuotas baudos dydis yra mažinamas iki atitinkamo galimo maksimalaus baudos dydžio. ^s-79b7f7f5dada21b2c3a7c16f
+3) Trečiuoju etapu nustatytas baudos dydis didinamas [[#^s-2ccabc71b664c61d16e302a0|šio straipsnio 9 dalyje]] nustatyta tvarka. Jeigu po trečiojo etapo apskaičiuotas baudos dydis viršija šio įstatymo [[#^s-d719d81c8bc3f56ab3ef18e5|36 straipsnio]] [[#^s-d9538491a2bbec47a43436d8|1]]–[[#^s-2809a822a9569c792f93fe76|4]] dalyse numatytą galimą maksimalų baudos dydį, apskaičiuotas baudos dydis yra mažinamas iki atitinkamo galimo maksimalaus baudos dydžio. ^s-79b7f7f5dada21b2c3a7c16f
 
 
 4) Ketvirtuoju etapu apskaičiuotas baudos dydis mažinamas [[#^s-cac7806c22ac710beff91e50|šio straipsnio 10 dalyje]] nustatyta tvarka. ^s-4f437740516c2661ce9fe545
@@ -1827,16 +1827,16 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 8. Nustačius [[#^s-841f0dd700e9e1f00e93736a|šio straipsnio 2 dalies]] 1–5 ir 8–10 punktuose numatytas atsakomybę lengvinančias ir [[#^s-17c59c9caf701c2ccd276447|šio straipsnio 3 dalyje]] numatytas atsakomybę sunkinančias aplinkybes, antruoju etapu bazinis baudos dydis, apskaičiuotas pirmuoju etapu, atitinkamai mažinamas arba didinamas. Bazinio baudos dydžio mažinimas arba didinimas atitinkamai atsižvelgiant į nurodytas atsakomybę lengvinančias arba atsakomybę sunkinančias aplinkybes negali viršyti 40 procentų pirmuoju etapu nustatyto bazinio baudos dydžio, išskyrus [[#^s-17c59c9caf701c2ccd276447|šio straipsnio 3 dalies]] 4 ir 6 punktuose numatytus atvejus. Pastaraisiais atvejais bazinis baudos dydis papildomai didinamas iki 100 procentų už kiekvieną ankstesnį pažeidimą. ^s-a632afa04a4143e48d7f1f86
 
 
-9. Siekiant atgrasyti ūkio subjektus nuo draudžiamų konkurentų susitarimų, nurodytų šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] 1–4 punktuose, trečiuoju etapu šių pažeidimų atveju prie baudos sumos, apskaičiuotos pagal šio straipsnio 4–[[#^s-a632afa04a4143e48d7f1f86|8 dalis]], pridedama suma, kuri yra lygi nuo 15 iki 25 procentų pardavimo vertės, nustatytos pagal [[#^s-17e777402bcbfe7b0c3fc8bd|šio straipsnio 5 dalį]]. Toks baudos sumos dydžio padidinimas gali būti taikomas ir kitų konkurentų susitarimų, pažeidžiančių šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalį]], bei [[#^s-2a8624f795fa22672b35abef|7 straipsnio]] pažeidimų atvejais. Bauda ūkio subjektams už šio įstatymo [[#^s-d9538491a2bbec47a43436d8|36 straipsnio 1 dalyje]] nurodytus pažeidimus taip pat gali būti didinama iki 100 procentų, jeigu baziniam baudos dydžiui apskaičiuoti naudota pardavimo vertė praėjusiais finansiniais metais nesiekė 5 procentų ūkio subjekto bendrųjų pasaulinių pajamų. ^s-2ccabc71b664c61d16e302a0
+9. Siekiant atgrasyti ūkio subjektus nuo draudžiamų konkurentų susitarimų, nurodytų šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] [[#^s-5c365835496bea513bb4ee21|1]]–[[#^s-5c8bffd23d7d2e68aefa6c42|4]] punktuose, trečiuoju etapu šių pažeidimų atveju prie baudos sumos, apskaičiuotos pagal šio straipsnio 4–8 dalis, pridedama suma, kuri yra lygi nuo 15 iki 25 procentų pardavimo vertės, nustatytos pagal [[#^s-17e777402bcbfe7b0c3fc8bd|šio straipsnio 5 dalį]]. Toks baudos sumos dydžio padidinimas gali būti taikomas ir kitų konkurentų susitarimų, pažeidžiančių šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalį]], bei [[#^s-2a8624f795fa22672b35abef|7 straipsnio]] pažeidimų atvejais. Bauda ūkio subjektams už šio įstatymo [[#^s-d9538491a2bbec47a43436d8|36 straipsnio 1 dalyje]] nurodytus pažeidimus taip pat gali būti didinama iki 100 procentų, jeigu baziniam baudos dydžiui apskaičiuoti naudota pardavimo vertė praėjusiais finansiniais metais nesiekė 5 procentų ūkio subjekto bendrųjų pasaulinių pajamų. ^s-2ccabc71b664c61d16e302a0
 
 
-10. Jeigu taikomos [[#^s-841f0dd700e9e1f00e93736a|šio straipsnio 2 dalies]] 6 ar 7 punkte numatytos atsakomybę lengvinančios aplinkybės, apskaičiuotas baudos dydis pagal šio straipsnio 4–[[#^s-2ccabc71b664c61d16e302a0|9 dalis]] ketvirtuoju etapu yra atitinkamai mažinamas 15 arba 10 procentų, tam pačiam ūkio subjektui dėl to paties padaryto pažeidimo taikant tik vieną iš nurodytų atsakomybę lengvinančių aplinkybių. ^s-cac7806c22ac710beff91e50
+10. Jeigu taikomos [[#^s-841f0dd700e9e1f00e93736a|šio straipsnio 2 dalies]] 6 ar 7 punkte numatytos atsakomybę lengvinančios aplinkybės, apskaičiuotas baudos dydis pagal šio straipsnio [[#^s-f2a7d7b9942ca88942b301e2|4]]–[[#^s-2ccabc71b664c61d16e302a0|9]] dalis ketvirtuoju etapu yra atitinkamai mažinamas 15 arba 10 procentų, tam pačiam ūkio subjektui dėl to paties padaryto pažeidimo taikant tik vieną iš nurodytų atsakomybę lengvinančių aplinkybių. ^s-cac7806c22ac710beff91e50
 
 
-11. Už šio įstatymo [[#^s-2c021cd4b1f024ea8866db2d|4 straipsnio]] pažeidimą, taip pat šio įstatymo [[#^s-d719d81c8bc3f56ab3ef18e5|36 straipsnio]] 5–[[#^s-0928e6741257ae7562315563|6 dalyse]] nurodytų pažeidimų atveju viešojo administravimo subjektui skiriamas baudos dydis apskaičiuojamas etapais: ^s-d902dd4b484e1446c975fd92
+11. Už šio įstatymo [[#^s-2c021cd4b1f024ea8866db2d|4 straipsnio]] pažeidimą, taip pat šio įstatymo [[#^s-d719d81c8bc3f56ab3ef18e5|36 straipsnio]] [[#^s-c0856ba4f61eb412983e148e|5]]–[[#^s-cf1e116e758c70ab1e976026|6]] dalyse nurodytų pažeidimų atveju viešojo administravimo subjektui skiriamas baudos dydis apskaičiuojamas etapais: ^s-d902dd4b484e1446c975fd92
 
 
-1) Pirmuoju etapu apskaičiuojamas bazinis baudos dydis atsižvelgiant į pažeidimo pavojingumą ir pažeidimo trukmę. Jeigu pirmuoju etapu apskaičiuotas bazinis baudos dydis viršija šio įstatymo [[#^s-d719d81c8bc3f56ab3ef18e5|36 straipsnio]] 5–[[#^s-46484688e3018a15e041748b|7 dalyse]] nurodytas ribas, bazinis baudos dydis sumažinamas iki šio įstatymo [[#^s-d719d81c8bc3f56ab3ef18e5|36 straipsnio]] 5–[[#^s-46484688e3018a15e041748b|7 dalyse]] nurodytų ribų. ^s-d4cbbfe037d2b9faf20003c5
+1) Pirmuoju etapu apskaičiuojamas bazinis baudos dydis atsižvelgiant į pažeidimo pavojingumą ir pažeidimo trukmę. Jeigu pirmuoju etapu apskaičiuotas bazinis baudos dydis viršija šio įstatymo [[#^s-d719d81c8bc3f56ab3ef18e5|36 straipsnio]] [[#^s-c0856ba4f61eb412983e148e|5]]–[[#^s-83f59b7a6fbee358693b23b1|7]] dalyse nurodytas ribas, bazinis baudos dydis sumažinamas iki šio įstatymo [[#^s-d719d81c8bc3f56ab3ef18e5|36 straipsnio]] [[#^s-c0856ba4f61eb412983e148e|5]]–[[#^s-83f59b7a6fbee358693b23b1|7]] dalyse nurodytų ribų. ^s-d4cbbfe037d2b9faf20003c5
 
 
 2) Antruoju etapu bazinis baudos dydis didinamas arba mažinamas atsižvelgiant į atsakomybę lengvinančias ir sunkinančias aplinkybes, mutatis mutandis taikant [[#^s-a632afa04a4143e48d7f1f86|šio straipsnio 8 dalyje]] nustatytas taisykles, išskyrus [[#^s-841f0dd700e9e1f00e93736a|šio straipsnio 2 dalies]] 6 ir 7 punktuose numatytas atsakomybę lengvinančias aplinkybes. Jeigu antruoju etapu apskaičiuotas bazinis baudos dydis viršija šio įstatymo [[#^s-83f59b7a6fbee358693b23b1|36 straipsnio 7 dalyje]] nurodytas ribas, bazinis baudos dydis sumažinamas iki šio įstatymo [[#^s-83f59b7a6fbee358693b23b1|36 straipsnio 7 dalyje]] nurodytų ribų. ^s-a2c13842f345ae00548d69bb
@@ -1866,7 +1866,7 @@ Nr. XV-736, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00069
 ### 38 straipsnis. Atleidimas nuo baudų ir jų sumažinimas ^s-dd2ebd0a5985833f9be692a5
 
 
-1. Ūkio subjektas, kuris yra draudžiamo konkurentų susitarimo, nurodyto šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] 1–[[#^s-5e810b57f427386de87512d3|4 punktuose]], arba kito konkurentų susitarimo, kuriuo siekiama riboti konkurenciją ir kuriuo pažeidžiamos šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] ar Sutarties dėl Europos Sąjungos veikimo 101 straipsnio 1 dalies nuostatos, dalyvis arba yra draudžiamo ne konkurentų susitarimo dėl tiesioginio ar netiesioginio kainų nustatymo (fiksavimo), nurodyto šio įstatymo [[#^s-5c365835496bea513bb4ee21|5 straipsnio 1 dalies 1 punkte]], dalyvis, prašyme atleisti nuo baudos pateikęs Konkurencijos tarybai visą informaciją apie tokį susitarimą, atleidžiamas nuo baudos, numatytos už šį pažeidimą, jeigu yra visos šios sąlygos: ^s-ad051368769b0d03357189a7
+1. Ūkio subjektas, kuris yra draudžiamo konkurentų susitarimo, nurodyto šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] [[#^s-5c365835496bea513bb4ee21|1]]–[[#^s-5c8bffd23d7d2e68aefa6c42|4]] punktuose, arba kito konkurentų susitarimo, kuriuo siekiama riboti konkurenciją ir kuriuo pažeidžiamos šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] ar Sutarties dėl Europos Sąjungos veikimo 101 straipsnio 1 dalies nuostatos, dalyvis arba yra draudžiamo ne konkurentų susitarimo dėl tiesioginio ar netiesioginio kainų nustatymo (fiksavimo), nurodyto šio įstatymo [[#^s-5c365835496bea513bb4ee21|5 straipsnio 1 dalies 1 punkte]], dalyvis, prašyme atleisti nuo baudos pateikęs Konkurencijos tarybai visą informaciją apie tokį susitarimą, atleidžiamas nuo baudos, numatytos už šį pažeidimą, jeigu yra visos šios sąlygos: ^s-ad051368769b0d03357189a7
 
 
 1) ūkio subjektas Konkurencijos tarybai atskleidė savo dalyvavimą draudžiamame susitarime; ^s-4945bf0d7f9994f7ab125071
@@ -1887,7 +1887,7 @@ Nr. XV-736, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00069
 6) ūkio subjektas nesiėmė veiksmų, kad priverstų kitus ūkio subjektus, panaudodamas spaudimą, prisijungti prie draudžiamo susitarimo arba tęsti dalyvavimą jame. ^s-e7f0d25eadb3b65848d014e3
 
 
-2. Draudžiamo konkurentų susitarimo, nurodyto šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] 1–[[#^s-fc2482bbc9aa92708e8b1167|4 punktuose]], arba kito konkurentų susitarimo, kuriuo siekiama riboti konkurenciją ir kuriuo pažeidžiamos šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] ar Sutarties dėl Europos Sąjungos veikimo 101 straipsnio 1 dalies nuostatos, dalyviui ar draudžiamo ne konkurentų susitarimo dėl tiesioginio ar netiesioginio kainų nustatymo (fiksavimo), nurodyto šio įstatymo [[#^s-5c365835496bea513bb4ee21|5 straipsnio 1 dalies 1 punkte]], dalyviui, kuris negali būti atleistas nuo baudos pagal [[#^s-ad051368769b0d03357189a7|šio straipsnio 1 dalį]], bauda gali būti sumažinama pagal Vyriausybės patvirtintą baudų dydžio nustatymo tvarkos aprašą, jeigu yra visos šios sąlygos: ^s-be71c6f3f8a04744f7fdf7a6
+2. Draudžiamo konkurentų susitarimo, nurodyto šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] [[#^s-5c365835496bea513bb4ee21|1]]–[[#^s-5c8bffd23d7d2e68aefa6c42|4]] punktuose, arba kito konkurentų susitarimo, kuriuo siekiama riboti konkurenciją ir kuriuo pažeidžiamos šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] ar Sutarties dėl Europos Sąjungos veikimo 101 straipsnio 1 dalies nuostatos, dalyviui ar draudžiamo ne konkurentų susitarimo dėl tiesioginio ar netiesioginio kainų nustatymo (fiksavimo), nurodyto šio įstatymo [[#^s-5c365835496bea513bb4ee21|5 straipsnio 1 dalies 1 punkte]], dalyviui, kuris negali būti atleistas nuo baudos pagal [[#^s-ad051368769b0d03357189a7|šio straipsnio 1 dalį]], bauda gali būti sumažinama pagal Vyriausybės patvirtintą baudų dydžio nustatymo tvarkos aprašą, jeigu yra visos šios sąlygos: ^s-be71c6f3f8a04744f7fdf7a6
 
 
 1) ūkio subjektas Konkurencijos tarybai atskleidė savo dalyvavimą draudžiamame susitarime; ^s-d52849e1cae6c997302df225
@@ -1902,22 +1902,22 @@ Nr. XV-736, 2025-12-23, paskelbta TAR 2026-01-06, i. k. 2026-00069
 4) ūkio subjektas bendradarbiauja su Konkurencijos taryba; ^s-fc2482bbc9aa92708e8b1167
 
 
-5) ūkio subjektas nenaikino, neklastojo ir nenuslėpė draudžiamo susitarimo įrodymų arba neatskleidė ketinimo kreiptis į Konkurencijos tarybą dėl baudos sumažinimo ar tokio kreipimosi turinio, išskyrus Europos Komisiją ir kitas valstybių narių konkurencijos institucijas ar trečiųjų valstybių konkurencijos institucijas. ^s-1a0c4df77386146f8af9c7fb
+5) ūkio subjektas nenaikino, neklastojo ir nenuslėpė draudžiamo susitarimo įrodymų arba neatskleidė ketinimo kreiptis į Konkurencijos tarybą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) sumažinimo ar tokio kreipimosi turinio, išskyrus Europos Komisiją ir kitas valstybių narių konkurencijos institucijas ar trečiųjų valstybių konkurencijos institucijas. ^s-1a0c4df77386146f8af9c7fb
 
 
-3. Ūkio subjektas, siekiantis būti atleistas nuo baudos pagal [[#^s-ad051368769b0d03357189a7|šio straipsnio 1 dalį]] ar kad jam skiriama bauda būtų sumažinta pagal [[#^s-be71c6f3f8a04744f7fdf7a6|šio straipsnio 2 dalį]], turi pateikti Konkurencijos tarybai prašymą atleisti nuo baudos arba baudą sumažinti. Reikalavimus, taikomus prašymams, supaprastintiems prašymams atleisti nuo baudos arba baudą sumažinti, kai yra šio straipsnio 1 ar [[#^s-be71c6f3f8a04744f7fdf7a6|2 dalyje]] nurodytos sąlygos, jų pateikimo ir nagrinėjimo tvarką nustato Konkurencijos taryba. ^s-7fd5faf2d6183ad2e9168550
+3. Ūkio subjektas, siekiantis būti atleistas nuo baudos pagal [[#^s-ad051368769b0d03357189a7|šio straipsnio 1 dalį]] ar kad jam skiriama bauda būtų sumažinta pagal [[#^s-be71c6f3f8a04744f7fdf7a6|šio straipsnio 2 dalį]], turi pateikti Konkurencijos tarybai prašymą atleisti nuo baudos arba baudą sumažinti. Reikalavimus, taikomus prašymams, supaprastintiems prašymams atleisti nuo baudos arba baudą sumažinti, kai yra šio straipsnio [[#^s-ad051368769b0d03357189a7|1]] ar [[#^s-be71c6f3f8a04744f7fdf7a6|2]] dalyje nurodytos sąlygos, jų pateikimo ir nagrinėjimo tvarką nustato Konkurencijos taryba. ^s-7fd5faf2d6183ad2e9168550
 
 
 4. Ūkio subjektas turi teisę pateikti Konkurencijos tarybai supaprastintą prašymą atleisti nuo baudos ar baudą sumažinti, jeigu tas prašymas apima daugiau negu tris Europos Sąjungos valstybes nares kaip teritorijas, kurioms daromas poveikis įtariamu draudžiamu susitarimu, ir jeigu ūkio subjektas jau yra kreipęsis į Europos Komisiją su išsamiu prašymu atleisti nuo baudos arba baudą sumažinti arba yra pateikęs Europos Komisijai prašymą suteikti vietą eilėje dėl atleidimo nuo baudos ar baudos sumažinimo iki tol, kol oficialiai pateiks prašymą atleisti nuo baudos arba baudą sumažinti dėl to paties įtariamo draudžiamo susitarimo. ^s-6e6a6617805e5f00d30bacbd
 
 
-5. Konkurencijos taryba, priimdama šio įstatymo [[#^s-12fb99848deaeca2d788ba05|30 straipsnio 1 dalies]] 1 ar 2 punkte nurodytą nutarimą, sprendžia, ar buvo laikomasi šio straipsnio 1 ar [[#^s-be71c6f3f8a04744f7fdf7a6|2 dalyje]] nurodytų sąlygų, kad būtų galima atleisti ūkio subjektą nuo baudos arba baudą sumažinti. ^s-e578ba1ba5df8af8d0bcb6dc
+5. Konkurencijos taryba, priimdama šio įstatymo [[#^s-12fb99848deaeca2d788ba05|30 straipsnio 1 dalies]] [[#^s-0d5ae2d2381c730a7398019a|1]] ar [[#^s-a5ef33fbbbe381a2160e5e62|2]] punkte nurodytą nutarimą, sprendžia, ar buvo laikomasi šio straipsnio [[#^s-12fb99848deaeca2d788ba05|1]] ar [[#^s-000ba159108cd4007a381e06|2]] dalyje nurodytų sąlygų, kad būtų galima atleisti ūkio subjektą nuo baudos arba baudą sumažinti. ^s-e578ba1ba5df8af8d0bcb6dc
 
 
-6. Šio straipsnio 1 ir [[#^s-be71c6f3f8a04744f7fdf7a6|2 dalyse]] nustatytų įrodymų pateikimas Konkurencijos tarybai nelaikomas komercinės ar profesinės paslapties ir kitos konfidencialios informacijos atskleidimu ir ūkio subjektui dėl tokių įrodymų pateikimo Konkurencijos tarybai neatsiranda sutartinė ar deliktinė atsakomybė. ^s-6f1f1b789ce5218ae3cd6870
+6. Šio straipsnio [[#^s-ad051368769b0d03357189a7|1]] ir [[#^s-be71c6f3f8a04744f7fdf7a6|2]] dalyse nustatytų įrodymų pateikimas Konkurencijos tarybai nelaikomas komercinės ar profesinės paslapties ir kitos konfidencialios informacijos atskleidimu ir ūkio subjektui dėl tokių įrodymų pateikimo Konkurencijos tarybai neatsiranda sutartinė ar deliktinė atsakomybė. ^s-6f1f1b789ce5218ae3cd6870
 
 
-7. Šio straipsnio 3 ir [[#^s-6e6a6617805e5f00d30bacbd|4 dalyse]] nurodytus prašymus atleisti nuo baudos arba baudą sumažinti Konkurencijos taryba turi teisę perduoti kitos Europos Sąjungos valstybės narės konkurencijos institucijai, vadovaudamasi Reglamento (EB) Nr. 1/2003 [[#^s-2c6330729edc6a0a6f11cb87|12 straipsniu]], tik turėdama prašymą pateikusio ūkio subjekto sutikimą arba kai kitos Europos Sąjungos valstybės narės konkurencijos institucija iš to paties ūkio subjekto jau yra gavusi su tuo pačiu Sutarties dėl Europos Sąjungos veikimo 101 straipsnio pažeidimu susijusį prašymą atleisti nuo baudos arba baudą sumažinti ir tokį prašymą pateikęs ūkio subjektas negali atšaukti kitos Europos Sąjungos valstybės narės konkurencijos institucijai pateiktos informacijos. ^s-4263952b696ef17335281c2d
+7. Šio straipsnio [[#^s-7fd5faf2d6183ad2e9168550|3]] ir [[#^s-6e6a6617805e5f00d30bacbd|4]] dalyse nurodytus prašymus atleisti nuo baudos arba baudą sumažinti Konkurencijos taryba turi teisę perduoti kitos Europos Sąjungos valstybės narės konkurencijos institucijai, vadovaudamasi Reglamento (EB) Nr. 1/2003 [[#^s-2c6330729edc6a0a6f11cb87|12 straipsniu]], tik turėdama prašymą pateikusio ūkio subjekto sutikimą arba kai kitos Europos Sąjungos valstybės narės konkurencijos institucija iš to paties ūkio subjekto jau yra gavusi su tuo pačiu Sutarties dėl Europos Sąjungos veikimo 101 straipsnio pažeidimu susijusį prašymą atleisti nuo baudos arba baudą sumažinti ir tokį prašymą pateikęs ūkio subjektas negali atšaukti kitos Europos Sąjungos valstybės narės konkurencijos institucijai pateiktos informacijos. ^s-4263952b696ef17335281c2d
 
 
 Straipsnio pakeitimai:
@@ -2000,7 +2000,7 @@ Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
 1. Ūkio subjektas ar viešojo administravimo subjektas Konkurencijos tarybos paskirtą baudą privalo sumokėti į valstybės biudžetą ne vėliau kaip per tris mėnesius nuo nutarimo paskelbimo Konkurencijos tarybos interneto svetainėje dienos. ^s-d1e2279c699f1300226b39ca
 
 
-2. Ūkio subjektui ar viešojo administravimo subjektui nesumokėjus baudos per [[#^s-d1e2279c699f1300226b39ca|šio straipsnio 1 dalyje]] nustatytą terminą, skaičiuojamos Civilinio kodekso 6.210 straipsnio 2 dalyje nustatyto dydžio palūkanos. Palūkanos pradedamos skaičiuoti nuo kitos dienos po to, kai sueina [[#^s-d1e2279c699f1300226b39ca|šio straipsnio 1 dalyje]] nustatytas terminas. Palūkanos yra skaičiuojamos kiekvieną dieną ir baigiamos skaičiuoti tą dieną, kai bauda sumokama į valstybės biudžetą, bet ne ilgiau kaip 180 dienų. Palūkanos neskaičiuojamos [[#^s-9372c11af1cd7cef5b82b072|šio straipsnio 4 dalyje]] nustatytu baudos ar jos dalies mokėjimo atidėjimo laikotarpiu ir [[#^s-1fbeeb7b9704a853587f62ec|šio straipsnio 7 dalyje]] nustatytu atveju, kai Konkurencijos taryba priima sprendimą nesikreipti į antstolį dėl baudos priverstinio išieškojimo. ^s-0c6707e5cef273930fa8e3cc
+2. Ūkio subjektui ar viešojo administravimo subjektui nesumokėjus baudos per [[#^s-d1e2279c699f1300226b39ca|šio straipsnio 1 dalyje]] nustatytą terminą, skaičiuojamos Civilinio kodekso 6.210 straipsnio 2 dalyje nustatyto dydžio palūkanos. Palūkanos pradedamos skaičiuoti nuo kitos dienos po to, kai sueina [[#^s-d1e2279c699f1300226b39ca|šio straipsnio 1 dalyje]] nustatytas terminas. Palūkanos yra skaičiuojamos kiekvieną dieną ir baigiamos skaičiuoti tą dieną, kai bauda sumokama į valstybės biudžetą, bet ne ilgiau kaip 180 dienų. Palūkanos neskaičiuojamos [[#^s-9372c11af1cd7cef5b82b072|šio straipsnio 4 dalyje]] nustatytu baudos ar jos dalies mokėjimo atidėjimo laikotarpiu ir [[#^s-1fbeeb7b9704a853587f62ec|šio straipsnio 7 dalyje]] nustatytu atveju, kai Konkurencijos taryba priima sprendimą nesikreipti į antstolį [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) priverstinio išieškojimo. ^s-0c6707e5cef273930fa8e3cc
 Straipsnio dalies pakeitimai:
 Nr. XIII-2219, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10161
 
@@ -2015,7 +2015,7 @@ Nr. XIII-2219, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10161
 5. Ūkio subjektas ar viešojo administravimo subjektas privalo įvykdyti jam pagal šio įstatymo [[#^s-cbe9ff700cf90f1907a407f7|35 straipsnio 1 dalį]] skirtus Konkurencijos tarybos nutarime numatytus įpareigojimus nustatytomis sąlygomis ir terminais. Motyvuotu ūkio subjekto ar viešojo administravimo subjekto prašymu Konkurencijos taryba turi teisę įpareigojimų įvykdymo terminą atidėti iki dvigubai ilgesnio termino, negu buvo numatytas nutarime, jeigu įvykdyti nustatytų įpareigojimų laiku ūkio subjektas ar viešojo administravimo subjektas negali dėl objektyvių priežasčių. ^s-e9038f252569a9c2a87db7c9
 
 
-6. Ūkio subjekto ar viešojo administravimo subjekto nesumokėta bauda ir palūkanos išieškomi į valstybės biudžetą. Konkurencijos tarybos sprendimas dėl priverstinio baudos ir palūkanų išieškojimo yra vykdomasis dokumentas, pateikiamas vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka ne vėliau kaip per vienus metus nuo Konkurencijos tarybos nutarimo, kuriuo ūkio subjektui ar viešojo administravimo subjektui skirta bauda, priėmimo dienos. Šis terminas pratęsiamas bylinėjimosi teisme laikotarpiui, jeigu baudos ir palūkanų priverstinis išieškojimas buvo sustabdytas, vadovaujantis [[#^s-1fbeeb7b9704a853587f62ec|šio straipsnio 7 dalimi]], arba teismui laikinai sustabdžius Konkurencijos tarybos nutarimo vykdymą. ^s-ade4e0d6040cbcaebcbbe56a
+6. Ūkio subjekto ar viešojo administravimo subjekto nesumokėta bauda ir palūkanos išieškomi į valstybės biudžetą. Konkurencijos tarybos sprendimas dėl priverstinio baudos ir palūkanų išieškojimo yra vykdomasis dokumentas, pateikiamas vykdyti antstoliui [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka ne vėliau kaip per vienus metus nuo Konkurencijos tarybos nutarimo, kuriuo ūkio subjektui ar viešojo administravimo subjektui skirta bauda, priėmimo dienos. Šis terminas pratęsiamas bylinėjimosi teisme laikotarpiui, jeigu baudos ir palūkanų priverstinis išieškojimas buvo sustabdytas, vadovaujantis [[#^s-1fbeeb7b9704a853587f62ec|šio straipsnio 7 dalimi]], arba teismui laikinai sustabdžius Konkurencijos tarybos nutarimo vykdymą. ^s-ade4e0d6040cbcaebcbbe56a
 Straipsnio dalies pakeitimai:
 Nr. XIII-2219, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10161
 
@@ -2074,13 +2074,13 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 3. [[#^s-070981fb1983e6b146ffb0c2|Šio straipsnio 1 dalyje]] nurodytos sankcijos negali būti skiriamos: ^s-ef9e6fcb5cebdbe0ae36630d
 
 
-1) ūkio subjekto, kuris yra pateikęs Konkurencijos tarybai prašymą atleisti nuo baudos pagal šio įstatymo [[#^s-ad051368769b0d03357189a7|38 straipsnio 1 dalį]], vadovui, jeigu ūkio subjekto pateiktas prašymas atleisti nuo baudos atitinka šio įstatymo [[#^s-ad051368769b0d03357189a7|38 straipsnio 1 dalies]] 1 ir [[#^s-af48d3e009e308f75ad66147|2 punktuose]] nustatytus reikalavimus ir ūkio subjekto vadovas bendradarbiauja su Konkurencijos taryba; ^s-50abe4d0429fabd088ef933c
+1) ūkio subjekto, kuris yra pateikęs Konkurencijos tarybai prašymą atleisti nuo baudos pagal šio įstatymo [[#^s-ad051368769b0d03357189a7|38 straipsnio 1 dalį]], vadovui, jeigu ūkio subjekto pateiktas prašymas atleisti nuo baudos atitinka šio įstatymo [[#^s-ad051368769b0d03357189a7|38 straipsnio 1 dalies]] [[#^s-4945bf0d7f9994f7ab125071|1]] ir [[#^s-2c4e895903322fa83d4496f9|2]] punktuose nustatytus reikalavimus ir ūkio subjekto vadovas bendradarbiauja su Konkurencijos taryba; ^s-50abe4d0429fabd088ef933c
 
 
-2) ūkio subjekto, kuris yra pateikęs Konkurencijos tarybai prašymą sumažinti baudą pagal šio įstatymo [[#^s-be71c6f3f8a04744f7fdf7a6|38 straipsnio 2 dalį]], vadovui, jeigu ūkio subjekto pateiktas prašymas sumažinti baudą atitinka šio įstatymo [[#^s-be71c6f3f8a04744f7fdf7a6|38 straipsnio 2 dalies]] 1 ir 2 punktuose nustatytus reikalavimus ir ūkio subjekto vadovas bendradarbiauja su Konkurencijos taryba; ^s-af48d3e009e308f75ad66147
+2) ūkio subjekto, kuris yra pateikęs Konkurencijos tarybai prašymą sumažinti baudą pagal šio įstatymo [[#^s-be71c6f3f8a04744f7fdf7a6|38 straipsnio 2 dalį]], vadovui, jeigu ūkio subjekto pateiktas prašymas sumažinti baudą atitinka šio įstatymo [[#^s-be71c6f3f8a04744f7fdf7a6|38 straipsnio 2 dalies]] [[#^s-d52849e1cae6c997302df225|1]] ir [[#^s-b3adc6cf7c9f3b8fb740d1b9|2]] punktuose nustatytus reikalavimus ir ūkio subjekto vadovas bendradarbiauja su Konkurencijos taryba; ^s-af48d3e009e308f75ad66147
 
 
-3) ūkio subjekto vadovui, kuris Konkurencijos tarybai pateikė šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] 1 ir [[#^s-0d9e3f5da45b6efe2a33c2b6|2 dalyse]] nustatytas sąlygas mutatis mutandis atitinkančią informaciją apie ūkio subjekto, su kuriuo darbo santykiai yra pasibaigę informacijos pateikimo Konkurencijos tarybai metu, padarytus pažeidimus. ^s-8b0e4404f6d6c12b7a23b133
+3) ūkio subjekto vadovui, kuris Konkurencijos tarybai pateikė šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] [[#^s-ad051368769b0d03357189a7|1]] ir [[#^s-be71c6f3f8a04744f7fdf7a6|2]] dalyse nustatytas sąlygas mutatis mutandis atitinkančią informaciją apie ūkio subjekto, su kuriuo darbo santykiai yra pasibaigę informacijos pateikimo Konkurencijos tarybai metu, padarytus pažeidimus. ^s-8b0e4404f6d6c12b7a23b133
 
 
 Straipsnio dalies pakeitimai:
@@ -2097,14 +2097,14 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 
-6. Skiriant ūkio subjekto vadovui [[#^s-070981fb1983e6b146ffb0c2|šio straipsnio 1 dalyje]] nustatytas sankcijas, mutatis mutandis taikomos šio įstatymo [[#^s-ce9a3b452a091641624e2c38|35 straipsnio]] 3 ir [[#^s-85d29de0dab9e1fc1bb6a29e|4 dalys]]. ^s-84c927d4e2f3d185bd0933df
+6. Skiriant ūkio subjekto vadovui [[#^s-070981fb1983e6b146ffb0c2|šio straipsnio 1 dalyje]] nustatytas sankcijas, mutatis mutandis taikomos šio įstatymo [[#^s-ce9a3b452a091641624e2c38|35 straipsnio]] [[#^s-086b998fb1e3fadba435a8ab|3]] ir [[#^s-86066dae07f313eaca6a8516|4]] dalys. ^s-84c927d4e2f3d185bd0933df
 
 
 
 ### 41 straipsnis. Prašymo dėl sankcijų ūkio subjektų vadovams skyrimo pateikimas teismui ir nagrinėjimas teisme ^s-b537d81ef6554d30c5b0b870
 
 
-1. Konkurencijos taryba, nustačiusi, kad yra šio įstatymo [[#^s-963bc7fca6d79a255c25c92e|40 straipsnio]] 1 ir 2 dalyse nurodytos aplinkybės, priima nutarimą kreiptis į pirmosios instancijos administracinį teismą su prašymu taikyti šio įstatymo [[#^s-070981fb1983e6b146ffb0c2|40 straipsnio 1 dalyje]] nustatytas sankcijas. ^s-eea0b6f627a7f401c5f7e697
+1. Konkurencijos taryba, nustačiusi, kad yra šio įstatymo [[#^s-963bc7fca6d79a255c25c92e|40 straipsnio]] [[#^s-070981fb1983e6b146ffb0c2|1]] ir [[#^s-0d9e3f5da45b6efe2a33c2b6|2]] dalyse nurodytos aplinkybės, priima nutarimą kreiptis į pirmosios instancijos administracinį teismą su prašymu taikyti šio įstatymo [[#^s-070981fb1983e6b146ffb0c2|40 straipsnio 1 dalyje]] nustatytas sankcijas. ^s-eea0b6f627a7f401c5f7e697
 Straipsnio dalies pakeitimai:
 Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
 
@@ -2156,7 +2156,7 @@ Nr. XV-773, 2026-03-19, paskelbta TAR 2026-03-25, i. k. 2026-04633
 
 
 
-7. Konkurencijos taryba, nustačiusi, kad nevykdomas įsiteisėjęs teismo sprendimas, kuriuo paskirtos šio įstatymo [[#^s-070981fb1983e6b146ffb0c2|40 straipsnio 1 dalyje]] nustatytos sankcijos, pateikia teismo sprendimą vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka. ^s-71b892a06f0b2793e6831456
+7. Konkurencijos taryba, nustačiusi, kad nevykdomas įsiteisėjęs teismo sprendimas, kuriuo paskirtos šio įstatymo [[#^s-070981fb1983e6b146ffb0c2|40 straipsnio 1 dalyje]] nustatytos sankcijos, pateikia teismo sprendimą vykdyti antstoliui [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-71b892a06f0b2793e6831456
 
 
 
@@ -2175,7 +2175,7 @@ CIVILINĖS ATSAKOMYBĖS YPATUMAI
 ### 43 straipsnis. Žalos atlyginimui taikytinos taisyklės ^s-9c0539902ed341e3dc3fab89
 
 
-Šiame skirsnyje nustatomi šio įstatymo 5 ar [[#^s-2a8624f795fa22672b35abef|7 straipsnio]] arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimu padarytos žalos atlyginimo ypatumai.
+Šiame skirsnyje nustatomi šio įstatymo [[#^s-4eb2cb549a516aa5fbb4d033|5]] ar [[#^s-2a8624f795fa22672b35abef|7]] straipsnio arba Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimu padarytos žalos atlyginimo ypatumai.
 
 
 
@@ -2188,7 +2188,7 @@ CIVILINĖS ATSAKOMYBĖS YPATUMAI
 2. Visiškas žalos atlyginimas reiškia, kad nukentėjęs asmuo, kuriam atlyginama žala, turi atsidurti tokioje padėtyje, kurioje jis būtų, jeigu nebūtų padarytas šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodytas pažeidimas, tačiau nukentėjusiam asmeniui negali būti leidžiama nepagrįstai praturtėti. Visiškas žalos atlyginimas apima tiesioginius nuostolius, negautas pajamas ir palūkanas, skaičiuojamas nuo žalos atsiradimo momento. ^s-a1cfe55854de40aa5180dab6
 
 
-3. Jeigu neįrodoma priešingai, laikoma, kad šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] 1–4 punktuose nurodytais konkurentų susitarimais arba kitais konkurentų susitarimais, kuriais siekiama riboti konkurenciją ir kuriais pažeidžiamos šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] ar Sutarties dėl Europos Sąjungos veikimo 101 straipsnio 1 dalies nuostatos, yra padaroma žala. ^s-87d0f7bd1afc8c32ed67244a
+3. Jeigu neįrodoma priešingai, laikoma, kad šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] [[#^s-5c365835496bea513bb4ee21|1]]–[[#^s-5c8bffd23d7d2e68aefa6c42|4]] punktuose nurodytais konkurentų susitarimais arba kitais konkurentų susitarimais, kuriais siekiama riboti konkurenciją ir kuriais pažeidžiamos šio įstatymo [[#^s-8f4c01165e328b281723d487|5 straipsnio 1 dalies]] ar Sutarties dėl Europos Sąjungos veikimo 101 straipsnio 1 dalies nuostatos, yra padaroma žala. ^s-87d0f7bd1afc8c32ed67244a
 
 
 4. Kai šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo atvejais teismas, remdamasis byloje esančiais įrodymais, negali nustatyti tikslaus žalos dydžio ar jam tai padaryti pernelyg sunku, teismas informuoja šalis, kad, nesant galimybės nustatyti tikslaus žalos dydžio, byloje bus nustatomas apytikris žalos dydis. Teismas, išnagrinėjęs bylą, nustato apytikrį žalos dydį, atsižvelgdamas į Europos Komisijos metodinio pobūdžio dokumentus dėl žalos apskaičiavimo ir kitas aplinkybes, turinčias reikšmės įgyvendinant visiško žalos atlyginimo principą. ^s-b0351a112cdccb759a09a6eb
@@ -2252,7 +2252,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 3. Jeigu šio įstatymo [[#^s-87d0f7bd1afc8c32ed67244a|44 straipsnio 3 dalyje]] nurodytu pažeidimu žala padaroma kitiems nukentėjusiems asmenims negu bendrai pažeidimą padariusių ūkio subjektų tiesioginiai ir netiesioginiai pirkėjai arba tiekėjai, iš ūkio subjekto, atleisto nuo baudos šio įstatymo [[#^s-ad051368769b0d03357189a7|38 straipsnio 1 dalies]] pagrindu už šio įstatymo [[#^s-87d0f7bd1afc8c32ed67244a|44 straipsnio 3 dalyje]] nurodytą slaptą konkurentų susitarimą, regreso tvarka gali būti išreikalaujama atlygintos žalos kitiems nukentėjusiems asmenims dalis, apskaičiuota vadovaujantis [[#^s-01435dc4e130ae8b3750e43c|šio straipsnio 1 dalimi]]. Tokiu atveju [[#^s-bf09a87b2cccb0a5ef476cde|šio straipsnio 2 dalyje]] nurodyta išimtis netaikoma. ^s-7f013f453334493a0221dc96
 
 
-4. Šio straipsnio 2 ir [[#^s-7f013f453334493a0221dc96|3 dalys]] mutatis mutandis taikomos ūkio subjektams, kuriuos nuo baudos atleidžia Europos Komisija ar kitos Europos Sąjungos valstybės narės konkurencijos institucija. ^s-78fa4fb738b83f22d593cb69
+4. Šio straipsnio [[#^s-bf09a87b2cccb0a5ef476cde|2]] ir [[#^s-7f013f453334493a0221dc96|3]] dalys mutatis mutandis taikomos ūkio subjektams, kuriuos nuo baudos atleidžia Europos Komisija ar kitos Europos Sąjungos valstybės narės konkurencijos institucija. ^s-78fa4fb738b83f22d593cb69
 
 
 
@@ -2324,7 +2324,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 3. [[#^s-f69f9f314341d5f9ba709b99|Šio straipsnio 2 dalyje]] nurodytas ieškinio senaties terminas sustabdomas: ^s-c49ea5ddbecabd3c0781486c
 
 
-1) kai Konkurencijos taryba priima nutarimą pradėti tyrimą dėl pažeidimo, su kuriuo susijęs ieškinys dėl žalos atlyginimo. Ieškinio senaties termino sustabdymas pasibaigia praėjus vieniems metams po to, kai Konkurencijos tarybos šio įstatymo [[#^s-5df022b3ec56f9ec7e6e4b29|28 straipsnio]] 3 ir 4 dalyse arba [[#^s-12fb99848deaeca2d788ba05|30 straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytu pagrindu priimtas nutarimas nebegali būti skundžiamas arba įsiteisėja teismo priimtas sprendimas dėl pažeidimo. Kai pažeidimą nagrinėja Europos Komisija ar kitos Europos Sąjungos valstybės narės konkurencijos institucija ar teismas, mutatis mutandis taikomos šiame punkte nurodytos ieškinio senaties termino sustabdymo taisyklės; ^s-7e09696101a00a7954d9142f
+1) kai Konkurencijos taryba priima nutarimą pradėti tyrimą dėl pažeidimo, su kuriuo susijęs ieškinys dėl žalos atlyginimo. Ieškinio senaties termino sustabdymas pasibaigia praėjus vieniems metams po to, kai Konkurencijos tarybos šio įstatymo [[#^s-5df022b3ec56f9ec7e6e4b29|28 straipsnio]] [[#^s-655d27ee8516a6914b34f8ff|3]] ir [[#^s-3899e375c146e1a2baa80b40|4]] dalyse arba [[#^s-12fb99848deaeca2d788ba05|30 straipsnio 1 dalies]] [[#^s-0d5ae2d2381c730a7398019a|1]], [[#^s-a5ef33fbbbe381a2160e5e62|2]] ir [[#^s-43d271d914c17eba740e686c|3]] punktuose nurodytu pagrindu priimtas nutarimas nebegali būti skundžiamas arba įsiteisėja teismo priimtas sprendimas dėl pažeidimo. Kai pažeidimą nagrinėja Europos Komisija ar kitos Europos Sąjungos valstybės narės konkurencijos institucija ar teismas, mutatis mutandis taikomos šiame punkte nurodytos ieškinio senaties termino sustabdymo taisyklės; ^s-7e09696101a00a7954d9142f
 Straipsnio punkto pakeitimai:
 Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
 
@@ -2344,7 +2344,7 @@ Teismas, nagrinėjantis bylą dėl žalos, padarytos dėl šio įstatymo [[#^s-9
 ### 51 straipsnis. Bylų nagrinėjimas teisme ^s-87a072f9532935850683cc6c
 
 
-1. Bylos dėl žalos, padarytos dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, atlyginimo, nagrinėjamos laikantis Civilinio proceso kodekso taisyklių, kiek šiame įstatyme nenustatyta kitaip. ^s-a2ab1b35b626af7ae40b6be2
+1. Bylos dėl žalos, padarytos dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, atlyginimo, nagrinėjamos laikantis [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) taisyklių, kiek šiame įstatyme nenustatyta kitaip. ^s-a2ab1b35b626af7ae40b6be2
 
 
 2. Vilniaus apygardos teismas turi išimtinę kompetenciją nagrinėti šias bylas: ^s-9f7c37628b21b69ee9ecec2b
@@ -2368,13 +2368,13 @@ Teismas, nagrinėjantis bylą dėl žalos, padarytos dėl šio įstatymo [[#^s-9
 6. Jeigu byloje dėl žalos, padarytos dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, atlyginimo iki teismo sprendimo priėmimo paaiškėja, kad tam pačiam atsakovui (atsakovams) ieškinius dėl žalos, padarytos dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, atlyginimo yra pareiškę ir kiti ieškovai, teismas, siekdamas, kad būtų tinkamai nustatytas tiek visos žalos, tiek ir kiekvienam ieškovui padarytos žalos dydis, visas bylas sujungia į vieną bylą. ^s-5384121796bc1a49aaccbdd1
 
 
-7. Asmenys, manantys, kad dėl neteisėtų atsakovo (atsakovų) veiksmų jie taip pat yra patyrę žalos dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, turi teisę įstoti į bylą Civilinio proceso kodekso [[#^s-df6a47e13e6c5187b1d8a082|46 straipsnyje]] nustatyta tvarka. ^s-2911c69b2c5dda82b5b218cb
+7. Asmenys, manantys, kad dėl neteisėtų atsakovo (atsakovų) veiksmų jie taip pat yra patyrę žalos dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, turi teisę įstoti į bylą [Civilinio proceso kodekso 46 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-2911c69b2c5dda82b5b218cb
 
 
 8. Teismui nagrinėjant bylą dėl žalos, padarytos dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, atlyginimo, ir jam paprašius, Konkurencijos taryba turi teisę pateikti išvadą dėl žalos dydžio nustatymo. ^s-eaeef372839a603d0f7ea112
 
 
-9. Teismas, nagrinėdamas bylą dėl žalos, padarytos dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, atlyginimo ir vertindamas, ar įvykdyta šio įstatymo [[#^s-d4e8cb36169348ecb534cd3b|47 straipsnio]] 2–[[#^s-63be94859497c4b2c3c5bb8c|5 dalyse]] nurodyta įrodinėjimo pareiga, atsižvelgia į kitus teismo ar, jeigu yra galimybių, kitos Europos Sąjungos valstybės narės teismo jau priimtus sprendimus bylose dėl žalos atlyginimo, kurios yra susijusios su tuo pačiu pažeidimu, tačiau kuriose ieškinius pareiškia kitų tiekimo grandinės lygių ieškovai. ^s-eada0ba09dd11437ec578af7
+9. Teismas, nagrinėdamas bylą dėl žalos, padarytos dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, atlyginimo ir vertindamas, ar įvykdyta šio įstatymo [[#^s-d4e8cb36169348ecb534cd3b|47 straipsnio]] [[#^s-5cccd5634f88a3c94aba4c16|2]]–[[#^s-591b5a80c4e2379e060f5ff7|5]] dalyse nurodyta įrodinėjimo pareiga, atsižvelgia į kitus teismo ar, jeigu yra galimybių, kitos Europos Sąjungos valstybės narės teismo jau priimtus sprendimus bylose dėl žalos atlyginimo, kurios yra susijusios su tuo pačiu pažeidimu, tačiau kuriose ieškinius pareiškia kitų tiekimo grandinės lygių ieškovai. ^s-eada0ba09dd11437ec578af7
 
 
 
@@ -2426,7 +2426,7 @@ Teismas, nagrinėjantis bylą dėl žalos, padarytos dėl šio įstatymo [[#^s-9
 7. Prieš išreikalaudamas įrodymus, teismas asmeniui, kurio prašoma pateikti įrodymus, ir dalyvaujantiems byloje asmenims suteikia ne trumpesnį kaip 7 dienų terminą pateikti nuomonę dėl prašymo išreikalauti įrodymus. Tai nekliudo teismui imtis įrodymų užtikrinimo priemonių, kol sprendžiamas klausimas dėl įrodymų išreikalavimo, tačiau įrodymų pateikimas į bylą vykdomas ir jų prijungimo klausimas sprendžiamas tik po to, kai teismas nutaria išreikalauti atitinkamus įrodymus. ^s-8ce7b0542e217251037b85fd
 
 
-8. Jeigu per nustatytą terminą teismo reikalavimas pateikti įrodymą neįvykdytas, tokio reikalavimo neįvykdžiusiems asmenims teismas gali skirti Civilinio proceso kodekso 199 straipsnio 6 dalyje nurodytą baudą. ^s-0c663ce99aad3f03466e3642
+8. Jeigu per nustatytą terminą teismo reikalavimas pateikti įrodymą neįvykdytas, tokio reikalavimo neįvykdžiusiems asmenims teismas gali skirti [Civilinio proceso kodekso 199 straipsnio 6 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nurodytą baudą. ^s-0c663ce99aad3f03466e3642
 
 
 9. Asmenims, kurie sunaikina bylai dėl žalos, padarytos dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, atlyginimo reikšmingus įrodymus arba kurie nevykdo teismo nustatytų įpareigojimų dėl konfidencialios informacijos apsaugos arba atsisako juos vykdyti, arba kurie nepaiso šiame straipsnyje ir šio įstatymo [[#^s-a5e27aad8a5967100b2f1669|53 straipsnyje]] nustatytų įrodymų naudojimo apribojimų, teismas gali skirti baudą iki dešimt tūkstančių eurų. Baudos paskyrimas neatleidžia atitinkamų asmenų nuo neįvykdytų arba netinkamai įvykdytų pareigų vykdymo ir nuo civilinės atsakomybės už tokiais neteisėtais veiksmais padarytą žalą. ^s-b127b09ad2a98dc326820ede
@@ -2442,7 +2442,7 @@ Teismas, nagrinėjantis bylą dėl žalos, padarytos dėl šio įstatymo [[#^s-9
 1. Teismas Konkurencijos tarybos byloje esančius įrodymus, kurie nėra Konkurencijos tarybos parengti dokumentai, šiame straipsnyje nustatyta tvarka išreikalauja tik tuo atveju, jeigu jų dėl objektyvių priežasčių neįmanoma gauti iš kitų asmenų. ^s-f2e4bfdddebc3ed6be841907
 
 
-2. Spręsdamas dėl Konkurencijos tarybos byloje esančių įrodymų išreikalavimo proporcingumo, teismas papildomai kartu su šio įstatymo [[#^s-054a5c5e6e030fde22e801f3|52 straipsnyje]] nurodytomis aplinkybėmis taip pat įvertina visas šias aplinkybes: ^s-55284c23bba42f007801d27f
+2. Spręsdamas dėl Konkurencijos tarybos byloje esančių įrodymų išreikalavimo proporcingumo, teismas papildomai kartu su šio įstatymo 52 straipsnyje nurodytomis aplinkybėmis taip pat įvertina visas šias aplinkybes: ^s-55284c23bba42f007801d27f
 
 
 1) ar prašymas išreikalauti įrodymus suformuluotas konkrečiai atsižvelgiant į Konkurencijos tarybai pateiktos ar Konkurencijos tarybos byloje esančios medžiagos pobūdį, dalyką ar turinį; ^s-367e05c7c17658eb728c73d1
@@ -2451,13 +2451,13 @@ Teismas, nagrinėjantis bylą dėl žalos, padarytos dėl šio įstatymo [[#^s-9
 2) ar išreikalauti įrodymus prašanti šalis to prašo dėl teisme nagrinėjamo ieškinio dėl žalos, padarytos dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, atlyginimo; ^s-ebc4f4456f25c8c35f35278b
 
 
-3) ar nebus pakenkta Konkurencijos tarybos veiklos efektyvumui šio straipsnio 1 ir [[#^s-45073b624474293ccf65921a|4 dalyse]] numatytais atvejais ar Konkurencijos tarybai pateikus nuomonę teismui pagal [[#^s-17972aa3ae668ba4402a14f9|šio straipsnio 7 dalį]]. ^s-4c97546c354431f00c9e802b
+3) ar nebus pakenkta Konkurencijos tarybos veiklos efektyvumui šio straipsnio [[#^s-f2e4bfdddebc3ed6be841907|1]] ir [[#^s-45073b624474293ccf65921a|4]] dalyse numatytais atvejais ar Konkurencijos tarybai pateikus nuomonę teismui pagal [[#^s-17972aa3ae668ba4402a14f9|šio straipsnio 7 dalį]]. ^s-4c97546c354431f00c9e802b
 
 
 3. Prašymas išreikalauti visą Konkurencijos tarybos byloje esančią medžiagą, tiksliai neįvardijus įrodymų arba su byla susijusių įrodymų kategorijų, nėra tenkinamas. ^s-99b34e773f8d2a5ba38ef451
 
 
-4. Kol Konkurencijos taryba nepriėmė vieno iš šio įstatymo [[#^s-5df022b3ec56f9ec7e6e4b29|28 straipsnio]] 3 ir [[#^s-45073b624474293ccf65921a|4 dalyse]] arba [[#^s-12fb99848deaeca2d788ba05|30 straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytų nutarimų, teismas negali išreikalauti ir naudoti: ^s-45073b624474293ccf65921a
+4. Kol Konkurencijos taryba nepriėmė vieno iš šio įstatymo [[#^s-5df022b3ec56f9ec7e6e4b29|28 straipsnio]] [[#^s-655d27ee8516a6914b34f8ff|3]] ir [[#^s-3899e375c146e1a2baa80b40|4]] dalyse arba [[#^s-12fb99848deaeca2d788ba05|30 straipsnio 1 dalies]] [[#^s-0d5ae2d2381c730a7398019a|1]], [[#^s-a5ef33fbbbe381a2160e5e62|2]] ir [[#^s-43d271d914c17eba740e686c|3]] punktuose nurodytų nutarimų, teismas negali išreikalauti ir naudoti: ^s-45073b624474293ccf65921a
 Straipsnio dalies pakeitimai:
 Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
 
@@ -2468,19 +2468,19 @@ Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
 2) informacijos, kurią Konkurencijos taryba parengė ir išsiuntė asmenims pažeidimų tyrimo procedūros tikslais. ^s-d53a59754fd884eb27e9623b
 
 
-5. Šio įstatymo [[#^s-9c6cf80706abb4f1efb9c7b8|21 straipsnio 10 dalyje]] nurodyti prašymai atleisti nuo baudos arba baudą sumažinti ir pripažinimo pareiškimai negali būti įrodymai civilinėje byloje. Ieškovas gali pateikti pagrįstą prašymą, kad bylą nagrinėjantis teismas susipažintų su šio įstatymo [[#^s-9c6cf80706abb4f1efb9c7b8|21 straipsnio 10 dalyje]] nurodytais Konkurencijos tarybos turimais dokumentais, siekdamas įsitikinti, kad jie Konkurencijos tarybai yra pateikti šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] 1 ar [[#^s-55284c23bba42f007801d27f|2 dalies]] arba [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punkto]] pagrindu. Atlikdamas tokį vertinimą, teismas gali tik Konkurencijos tarybos prašyti pateikti šio įstatymo [[#^s-9c6cf80706abb4f1efb9c7b8|21 straipsnio 10 dalyje]] nurodytų prašymų atleisti nuo baudos arba baudą sumažinti ir pripažinimo pareiškimų kopijas ir išvadą dėl tokio vertinimo. Teismas taip pat turi teisę išklausyti asmenis, Konkurencijos tarybai pateikusius atitinkamus prašymus atleisti nuo baudos arba baudą sumažinti ar pripažinimo pareiškimus. Teismas jokiais atvejais nesudaro galimybės kitiems asmenims, išskyrus atitinkamus prašymus atleisti nuo baudos arba baudą sumažinti ar pripažinimo pareiškimus Konkurencijos tarybai pateikusius asmenis, susipažinti su šiais dokumentais. Šios dalies nuostatos netaikomos kartu su prašymais atleisti nuo baudos arba baudą sumažinti ar pripažinimo pareiškimais pateikiamiems įrodymams. ^s-6b2be407f931b2536e687629
+5. Šio įstatymo [[#^s-9c6cf80706abb4f1efb9c7b8|21 straipsnio 10 dalyje]] nurodyti prašymai atleisti nuo baudos arba baudą sumažinti ir pripažinimo pareiškimai negali būti įrodymai civilinėje byloje. Ieškovas gali pateikti pagrįstą prašymą, kad bylą nagrinėjantis teismas susipažintų su šio įstatymo [[#^s-9c6cf80706abb4f1efb9c7b8|21 straipsnio 10 dalyje]] nurodytais Konkurencijos tarybos turimais dokumentais, siekdamas įsitikinti, kad jie Konkurencijos tarybai yra pateikti šio įstatymo [[#^s-dd2ebd0a5985833f9be692a5|38 straipsnio]] [[#^s-ad051368769b0d03357189a7|1]] ar [[#^s-be71c6f3f8a04744f7fdf7a6|2]] dalies arba [[#^s-2b0f75210d8c1d72ae5fff62|37 straipsnio 2 dalies 6 punkto]] pagrindu. Atlikdamas tokį vertinimą, teismas gali tik Konkurencijos tarybos prašyti pateikti šio įstatymo [[#^s-9c6cf80706abb4f1efb9c7b8|21 straipsnio 10 dalyje]] nurodytų prašymų atleisti nuo baudos arba baudą sumažinti ir pripažinimo pareiškimų kopijas ir išvadą dėl tokio vertinimo. Teismas taip pat turi teisę išklausyti asmenis, Konkurencijos tarybai pateikusius atitinkamus prašymus atleisti nuo baudos arba baudą sumažinti ar pripažinimo pareiškimus. Teismas jokiais atvejais nesudaro galimybės kitiems asmenims, išskyrus atitinkamus prašymus atleisti nuo baudos arba baudą sumažinti ar pripažinimo pareiškimus Konkurencijos tarybai pateikusius asmenis, susipažinti su šiais dokumentais. Šios dalies nuostatos netaikomos kartu su prašymais atleisti nuo baudos arba baudą sumažinti ar pripažinimo pareiškimais pateikiamiems įrodymams. ^s-6b2be407f931b2536e687629
 Straipsnio dalies pakeitimai:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 
-6. Konkurencijos tarybos byloje esantys įrodymai, kurie nėra nurodyti šio straipsnio 4 ar [[#^s-6b2be407f931b2536e687629|5 dalyse]], gali būti bet kuriuo metu išreikalauti, nagrinėjant bylą dėl žalos, padarytos dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, atlyginimo, laikantis Civilinio proceso kodekso ir [[#^s-f2e4bfdddebc3ed6be841907|šio straipsnio 1 dalies]] nuostatų. ^s-73935e21dd7c8f29d8ae5faa
+6. Konkurencijos tarybos byloje esantys įrodymai, kurie nėra nurodyti šio straipsnio [[#^s-45073b624474293ccf65921a|4]] ar [[#^s-6b2be407f931b2536e687629|5]] dalyse, gali būti bet kuriuo metu išreikalauti, nagrinėjant bylą dėl žalos, padarytos dėl šio įstatymo [[#^s-9c0539902ed341e3dc3fab89|43 straipsnyje]] nurodyto pažeidimo, atlyginimo, laikantis [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir [[#^s-f2e4bfdddebc3ed6be841907|šio straipsnio 1 dalies]] nuostatų. ^s-73935e21dd7c8f29d8ae5faa
 
 
 7. Konkurencijos taryba turi teisę savo iniciatyva arba šio įstatymo [[#^s-8ce7b0542e217251037b85fd|52 straipsnio 7 dalies]] pirmajame sakinyje nurodytu atveju teismui pareikšti nuomonę dėl prašymo išreikalauti iš jos įrodymus proporcingumo. ^s-17972aa3ae668ba4402a14f9
 
 
-8. Įrodymais, gautais šio įstatymo [[#^s-591da181ad7e33b5e7ef2eb5|29 straipsnio 2 dalies]] pagrindu ir nenumatytais šio straipsnio 4 ar [[#^s-6b2be407f931b2536e687629|5 dalyje]], turi teisę remtis tik juos gavęs asmuo ar jo teisių perėmėjas. ^s-f11a3c8818083effadef7474
+8. Įrodymais, gautais šio įstatymo [[#^s-591da181ad7e33b5e7ef2eb5|29 straipsnio 2 dalies]] pagrindu ir nenumatytais šio straipsnio [[#^s-06fa65ec66e04ee987f3738a|4]] ar [[#^s-1107645bb89acf63abbb26d6|5]] dalyje, turi teisę remtis tik juos gavęs asmuo ar jo teisių perėmėjas. ^s-f11a3c8818083effadef7474
 
 
 9. Šio straipsnio nuostatos dėl įrodymų išreikalavimo mutatis mutandis taikomos ir teismui išreikalaujant įrodymus, esančius Europos Komisijos ar kitos Europos Sąjungos valstybės narės konkurencijos institucijos byloje. Europos Komisijos ar kitos Europos Sąjungos valstybės narės konkurencijos institucijos byloje esantys dokumentai, atitinkantys šio įstatymo [[#^s-9c6cf80706abb4f1efb9c7b8|21 straipsnio 10 dalyje]] nurodytus prašymus atleisti nuo baudos arba baudą sumažinti dėl Sutarties dėl Europos Sąjungos veikimo 101 straipsnio pažeidimų ir pripažinimo pareiškimus dėl Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimų, negali būti įrodymai civilinėje byloje. Šios dalies nuostatos netaikomos kartu su šiais prašymais atleisti nuo baudos arba baudą sumažinti ar pripažinimo pareiškimais pateikiamiems įrodymams. [[#^s-45073b624474293ccf65921a|Šio straipsnio 4 dalies]] nuostatos mutatis mutandis taikomos ir Europos Komisijai ar kitos Europos Sąjungos valstybės narės konkurencijos institucijai pateiktiems ir vėliau atsiimtiems pripažinimo pareiškimams dėl Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio pažeidimų, kai šių pripažinimo pareiškimų atsiėmimo galimybę numato Europos Sąjungos ar kitų Europos Sąjungos valstybių narių teisės aktai. ^s-011b22836a7b5458e42c76ae
@@ -2490,7 +2490,7 @@ Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 ## VII SKYRIUS ^s-de048cf9483ed2b66f548f71
-EUROPOS SĄJUNGOS KONKURENCIJOS TAISYKLIŲ, REGLAMENTO (ES) 2022/1925 IR REGLAMENTO (ES) 2022/2560 TAIKYMAS
+EUROPOS SĄJUNGOS KONKURENCIJOS TAISYKLIŲ, [REGLAMENTO (ES) 2022/1925](https://eur-lex.europa.eu/eli/reg/2022/1925/oj) IR [REGLAMENTO (ES) 2022/2560](https://eur-lex.europa.eu/eli/reg/2022/2560/oj) TAIKYMAS
 
 Pakeistas skyriaus pavadinimas:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
@@ -2503,10 +2503,10 @@ Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 1. Konkurencijos taryba yra institucija, įgaliota taikyti Europos Sąjungos konkurencijos taisykles, kurių laikymosi priežiūra pagal Europos Sąjungos konkurencijos teisę pavedama nacionalinei konkurencijos institucijai. ^s-cdadc12710b62ef6a204d765
 
 
-2. Konkurencijos taryba laikoma kompetentinga institucija, užtikrinančia Reglamento (ES) 2022/1925 1 straipsnio 6 dalyje nurodytų taisyklių vykdymą ir įgyvendinančia Reglamento (ES) 2022/2560 [[#^s-6203447861987347b88d13ee|14 straipsnio]] 5–7 dalyse nurodytas su patikrinimais Europos Sąjungoje susijusias funkcijas. ^s-2c96f15508f73491c574962e
+2. Konkurencijos taryba laikoma kompetentinga institucija, užtikrinančia [Reglamento (ES) 2022/1925 1 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/reg/2022/1925/art_1/par_6/oj) nurodytų taisyklių vykdymą ir įgyvendinančia [Reglamento (ES) 2022/2560 14 straipsnio](https://eur-lex.europa.eu/eli/reg/2022/2560/art_14/oj) 5–7 dalyse nurodytas su patikrinimais Europos Sąjungoje susijusias funkcijas. ^s-2c96f15508f73491c574962e
 
 
-3. Konkurencijos taryba, atlikdama savo funkcijas, suteiktas pagal šio straipsnio 1 ir [[#^s-2c96f15508f73491c574962e|2 dalis]], veikia šio įstatymo nustatyta tvarka tiek, kiek jos, kaip įgaliotos ir (arba) kompetentingos institucijos, atitinkamų funkcijų nenustato Europos Sąjungos konkurencijos taisyklės ir (arba) Reglamentas (ES) 2022/1925 ar Reglamentas (ES) 2022/2560. ^s-e57a14350f0c83c4512d1fea
+3. Konkurencijos taryba, atlikdama savo funkcijas, suteiktas pagal šio straipsnio [[#^s-cdadc12710b62ef6a204d765|1]] ir [[#^s-2c96f15508f73491c574962e|2]] dalis, veikia šio įstatymo nustatyta tvarka tiek, kiek jos, kaip įgaliotos ir (arba) kompetentingos institucijos, atitinkamų funkcijų nenustato Europos Sąjungos konkurencijos taisyklės ir (arba) [Reglamentas (ES) 2022/1925](https://eur-lex.europa.eu/eli/reg/2022/1925/oj) ar [Reglamentas (ES) 2022/2560](https://eur-lex.europa.eu/eli/reg/2022/2560/oj). ^s-e57a14350f0c83c4512d1fea
 
 
 Straipsnio pakeitimai:
@@ -2548,22 +2548,22 @@ Nr. XV-773, 2026-03-19, paskelbta TAR 2026-03-25, i. k. 2026-04633
 ### 551 straipsnis. Neteisėtos ir nesuderinamos pagalbos grąžinimas (išieškojimas ne ginčo tvarka) ^s-6966e8c5f1320e72629d5938
 
 
-1. Jeigu pagalbos teikėjas nustato, kad teikdamas pagalbą pažeidė Europos Sąjungos pagalbos taisykles ir suteikė neteisėtą pagalbą, nedelsdamas, bet ne vėliau kaip per 10 darbo dienų nuo minėtos aplinkybės nustatymo dienos jis priima sprendimą, kuriuo pripažįsta tokią pagalbą suteikta neteisėtai ir grąžintina į valstybės biudžetą (toliau – sprendimas dėl neteisėtos pagalbos grąžinimo), bei kreipdamasis į pagalbos gavėją informuoja, kad neteisėtos pagalbos grąžinimas (išieškojimas) vykdomas ne ginčo tvarka, ir siūlo, kad pagalbos gavėjas neteisėtos pagalbos grąžintiną sumą savanoriškai sumokėtų į valstybės biudžetą per 10 darbo dienų nuo sprendimo dėl neteisėtos pagalbos grąžinimo gavimo dienos. Jeigu pagalbos gavėjas grąžintinos sumos nesumoka per 10 darbo dienų, pagalbos teikėjas ne vėliau kaip per 3 darbo dienas nuo savanoriško neteisėtos pagalbos grąžinimo termino suėjimo dienos kreipiasi į Valstybinę mokesčių inspekciją prie Lietuvos Respublikos finansų ministerijos (toliau – VMI), išskyrus [[#^s-111694d88ae0b993bac1ffd1|šio straipsnio 4 dalyje]] nurodytą atvejį, kad ji šiame įstatyme ir Europos Sąjungos teisės aktuose nustatytais terminais pradėtų neteisėtos pagalbos sumos grąžinimo (išieškojimo) į valstybės biudžetą procesą, ir pateikia reikiamą sprendimą dėl neteisėtos pagalbos grąžinimo. VMI ne vėliau kaip per 45 darbo dienas perduoda minėtą pagalbos teikėjo sprendimą dėl neteisėtos pagalbos grąžinimo vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka. ^s-bb365e5c4c0fd652dcf693b2
+1. Jeigu pagalbos teikėjas nustato, kad teikdamas pagalbą pažeidė Europos Sąjungos pagalbos taisykles ir suteikė neteisėtą pagalbą, nedelsdamas, bet ne vėliau kaip per 10 darbo dienų nuo minėtos aplinkybės nustatymo dienos jis priima sprendimą, kuriuo pripažįsta tokią pagalbą suteikta neteisėtai ir grąžintina į valstybės biudžetą (toliau – sprendimas dėl neteisėtos pagalbos grąžinimo), bei kreipdamasis į pagalbos gavėją informuoja, kad neteisėtos pagalbos grąžinimas (išieškojimas) vykdomas ne ginčo tvarka, ir siūlo, kad pagalbos gavėjas neteisėtos pagalbos grąžintiną sumą savanoriškai sumokėtų į valstybės biudžetą per 10 darbo dienų nuo sprendimo dėl neteisėtos pagalbos grąžinimo gavimo dienos. Jeigu pagalbos gavėjas grąžintinos sumos nesumoka per 10 darbo dienų, pagalbos teikėjas ne vėliau kaip per 3 darbo dienas nuo savanoriško neteisėtos pagalbos grąžinimo termino suėjimo dienos kreipiasi į Valstybinę mokesčių inspekciją prie Lietuvos Respublikos finansų ministerijos (toliau – VMI), išskyrus [[#^s-111694d88ae0b993bac1ffd1|šio straipsnio 4 dalyje]] nurodytą atvejį, kad ji šiame įstatyme ir Europos Sąjungos teisės aktuose nustatytais terminais pradėtų neteisėtos pagalbos sumos grąžinimo (išieškojimo) į valstybės biudžetą procesą, ir pateikia reikiamą sprendimą dėl neteisėtos pagalbos grąžinimo. VMI ne vėliau kaip per 45 darbo dienas perduoda minėtą pagalbos teikėjo sprendimą dėl neteisėtos pagalbos grąžinimo vykdyti antstoliui [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-bb365e5c4c0fd652dcf693b2
 
 
-2. Europos Komisijai pripažinus pagalbos teikėjo suteiktą pagalbą nesuderinama pagalba, ją suteikęs pagalbos teikėjas nedelsdamas, bet ne vėliau kaip per 10 darbo dienų nuo Europos Komisijos sprendimo priėmimo dienos priima sprendimą, kuriuo pripažįsta pagalbą grąžintina į valstybės biudžetą (toliau – sprendimas dėl nesuderinamos pagalbos grąžinimo), bei kreipdamasis į pagalbos gavėją informuoja, kad nesuderinamos pagalbos grąžinimas (išieškojimas) vykdomas ne ginčo tvarka, ir siūlo, kad pagalbos gavėjas grąžintiną nesuderinamos pagalbos sumą savanoriškai sumokėtų į valstybės biudžetą per 10 darbo dienų nuo sprendimo dėl nesuderinamos pagalbos grąžinimo gavimo dienos. Jeigu pagalbos gavėjas grąžintinos sumos nesumoka per 10 darbo dienų, pagalbos teikėjas ne vėliau kaip per 3 darbo dienas nuo savanoriško nesuderinamos pagalbos grąžinimo termino suėjimo dienos kreipiasi į VMI, išskyrus [[#^s-111694d88ae0b993bac1ffd1|šio straipsnio 4 dalyje]] nurodytą atvejį, kad ji šiame įstatyme ir Europos Sąjungos teisės aktuose nustatytais terminais pradėtų nesuderinamos pagalbos sumos grąžinimo (išieškojimo) į valstybės biudžetą procesą, ir pateikia reikiamą Europos Komisijos sprendimą bei sprendimą dėl nesuderinamos pagalbos grąžinimo. VMI ne vėliau kaip per 45 darbo dienas perduoda minėtą pagalbos teikėjo sprendimą dėl nesuderinamos pagalbos grąžinimo vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka. ^s-df181accaf1cfd643c532506
+2. Europos Komisijai pripažinus pagalbos teikėjo suteiktą pagalbą nesuderinama pagalba, ją suteikęs pagalbos teikėjas nedelsdamas, bet ne vėliau kaip per 10 darbo dienų nuo Europos Komisijos sprendimo priėmimo dienos priima sprendimą, kuriuo pripažįsta pagalbą grąžintina į valstybės biudžetą (toliau – sprendimas dėl nesuderinamos pagalbos grąžinimo), bei kreipdamasis į pagalbos gavėją informuoja, kad nesuderinamos pagalbos grąžinimas (išieškojimas) vykdomas ne ginčo tvarka, ir siūlo, kad pagalbos gavėjas grąžintiną nesuderinamos pagalbos sumą savanoriškai sumokėtų į valstybės biudžetą per 10 darbo dienų nuo sprendimo dėl nesuderinamos pagalbos grąžinimo gavimo dienos. Jeigu pagalbos gavėjas grąžintinos sumos nesumoka per 10 darbo dienų, pagalbos teikėjas ne vėliau kaip per 3 darbo dienas nuo savanoriško nesuderinamos pagalbos grąžinimo termino suėjimo dienos kreipiasi į VMI, išskyrus [[#^s-111694d88ae0b993bac1ffd1|šio straipsnio 4 dalyje]] nurodytą atvejį, kad ji šiame įstatyme ir Europos Sąjungos teisės aktuose nustatytais terminais pradėtų nesuderinamos pagalbos sumos grąžinimo (išieškojimo) į valstybės biudžetą procesą, ir pateikia reikiamą Europos Komisijos sprendimą bei sprendimą dėl nesuderinamos pagalbos grąžinimo. VMI ne vėliau kaip per 45 darbo dienas perduoda minėtą pagalbos teikėjo sprendimą dėl nesuderinamos pagalbos grąžinimo vykdyti antstoliui [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-df181accaf1cfd643c532506
 
 
 3. Jeigu pagalbos gavėjui yra iškelta nemokumo byla, pagalbos teikėjas, šio straipsnio 1 arba [[#^s-df181accaf1cfd643c532506|2 dalyje]] numatyta tvarka priėmęs sprendimą dėl neteisėtos pagalbos grąžinimo arba sprendimą dėl nesuderinamos pagalbos grąžinimo, ne vėliau kaip per 3 darbo dienas nuo teismo nutarties pagalbos gavėjui iškelti nemokumo bylą paskelbimo priežiūros institucijos interneto svetainėje dienos perleidžia VMI reikalavimo teises į pagalbos gavėjo neteisėtos pagalbos ar nesuderinamos pagalbos grąžintiną sumą. ^s-848675e561ede3d401af83e3
 
 
-4. Jeigu pagalbos teikėja yra VMI, ji, šio straipsnio 1 arba [[#^s-df181accaf1cfd643c532506|2 dalyje]] numatyta tvarka priėmusi sprendimą dėl neteisėtos pagalbos grąžinimo arba sprendimą dėl nesuderinamos pagalbos grąžinimo, nedelsdama kreipiasi į pagalbos gavėją ir informuoja, kad neteisėtos pagalbos ar nesuderinamos pagalbos grąžinimas vykdomas ne ginčo tvarka, bei siūlo grąžintiną neteisėtos pagalbos ar nesuderinamos pagalbos sumą savanoriškai sumokėti į valstybės biudžetą per 10 darbo dienų nuo atitinkamo sprendimo gavimo dienos. Jeigu pagalbos gavėjas nesumoka grąžintinos sumos per 10 darbo dienų, VMI šiame įstatyme ir Europos Sąjungos teisės aktuose nustatytais terminais pradeda neteisėtos pagalbos arba nesuderinamos pagalbos sumos grąžinimo (išieškojimo) į valstybės biudžetą procesą ir ne vėliau kaip per 45 darbo dienas nuo savanoriško neteisėtos pagalbos ar nesuderinamos pagalbos grąžinimo termino suėjimo dienos perduoda atitinkamą sprendimą vykdyti antstoliui Civilinio proceso kodekso nustatyta tvarka. ^s-111694d88ae0b993bac1ffd1
+4. Jeigu pagalbos teikėja yra VMI, ji, šio straipsnio 1 arba [[#^s-df181accaf1cfd643c532506|2 dalyje]] numatyta tvarka priėmusi sprendimą dėl neteisėtos pagalbos grąžinimo arba sprendimą dėl nesuderinamos pagalbos grąžinimo, nedelsdama kreipiasi į pagalbos gavėją ir informuoja, kad neteisėtos pagalbos ar nesuderinamos pagalbos grąžinimas vykdomas ne ginčo tvarka, bei siūlo grąžintiną neteisėtos pagalbos ar nesuderinamos pagalbos sumą savanoriškai sumokėti į valstybės biudžetą per 10 darbo dienų nuo atitinkamo sprendimo gavimo dienos. Jeigu pagalbos gavėjas nesumoka grąžintinos sumos per 10 darbo dienų, VMI šiame įstatyme ir Europos Sąjungos teisės aktuose nustatytais terminais pradeda neteisėtos pagalbos arba nesuderinamos pagalbos sumos grąžinimo (išieškojimo) į valstybės biudžetą procesą ir ne vėliau kaip per 45 darbo dienas nuo savanoriško neteisėtos pagalbos ar nesuderinamos pagalbos grąžinimo termino suėjimo dienos perduoda atitinkamą sprendimą vykdyti antstoliui [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-111694d88ae0b993bac1ffd1
 
 
-5. Pagalbos teikėjo sprendimas dėl neteisėtos pagalbos grąžinimo arba sprendimas dėl nesuderinamos pagalbos grąžinimo yra vykdomasis dokumentas. Jis vykdomas Civilinio proceso kodekso nustatyta tvarka. ^s-3a9a02e4af60b70a15b491c8
+5. Pagalbos teikėjo sprendimas dėl neteisėtos pagalbos grąžinimo arba sprendimas dėl nesuderinamos pagalbos grąžinimo yra vykdomasis dokumentas. Jis vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-3a9a02e4af60b70a15b491c8
 
 
-6. Pagalbos teikėjo sprendime dėl neteisėtos pagalbos grąžinimo arba sprendime dėl nesuderinamos pagalbos grąžinimo nurodoma pagalbos išmokėjimo data (datos) ir kiekvieno pagalbos gavėjo grąžintina suma, įskaitant palūkanas, kurios apskaičiuojamos Reglamento (ES) 2015/1589 ir jo įgyvendinamųjų Europos Sąjungos teisės aktų nustatyta tvarka. Vyriausybė patvirtina sprendimo dėl neteisėtos pagalbos grąžinimo bei sprendimo dėl nesuderinamos pagalbos grąžinimo standartines formas ir pagalbos grąžinimo procedūros aprašą. ^s-199e571f9357d6e0cdbad80c
+6. Pagalbos teikėjo sprendime dėl neteisėtos pagalbos grąžinimo arba sprendime dėl nesuderinamos pagalbos grąžinimo nurodoma pagalbos išmokėjimo data (datos) ir kiekvieno pagalbos gavėjo grąžintina suma, įskaitant palūkanas, kurios apskaičiuojamos [Reglamento (ES) 2015/1589](https://eur-lex.europa.eu/eli/reg/2015/1589/oj) ir jo įgyvendinamųjų Europos Sąjungos teisės aktų nustatyta tvarka. Vyriausybė patvirtina sprendimo dėl neteisėtos pagalbos grąžinimo bei sprendimo dėl nesuderinamos pagalbos grąžinimo standartines formas ir pagalbos grąžinimo procedūros aprašą. ^s-199e571f9357d6e0cdbad80c
 
 
 7. Šio straipsnio nuostatos netaikomos, jeigu neteisėta pagalba ar nesuderinama pagalba buvo suteikta iš Europos Sąjungos fondų paramos ir bendrojo finansavimo lėšų. Tokia privaloma grąžinti pagalba grąžinama Vyriausybės nustatyta tvarka. ^s-e505c6e35a5361bcdb8574c1
@@ -2578,10 +2578,10 @@ Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 ### 56 straipsnis. Policijos pagalba ir teismo leidimų dėl tyrimo veiksmų išdavimas ^s-e88ca34f9825814186ffd9e1
 
 
-1. Tyrimą pagal Europos Sąjungos konkurencijos taisykles, Reglamento (ES) 2022/1925 ar Reglamento (ES) 2022/2560 nuostatas atliekantys Europos Komisijos įgalioti asmenys ar šiems asmenims atlikti patikrinimą padedantys Konkurencijos tarybos įgalioti pareigūnai viešajai tvarkai palaikyti ir galimam prievartos panaudojimui gali pasitelkti policijos pareigūnus. ^s-2a32fdd79334eb48626b39f8
+1. Tyrimą pagal Europos Sąjungos konkurencijos taisykles, [Reglamento (ES) 2022/1925](https://eur-lex.europa.eu/eli/reg/2022/1925/oj) ar [Reglamento (ES) 2022/2560](https://eur-lex.europa.eu/eli/reg/2022/2560/oj) nuostatas atliekantys Europos Komisijos įgalioti asmenys ar šiems asmenims atlikti patikrinimą padedantys Konkurencijos tarybos įgalioti pareigūnai viešajai tvarkai palaikyti ir galimam prievartos panaudojimui gali pasitelkti policijos pareigūnus. ^s-2a32fdd79334eb48626b39f8
 
 
-2. Pirmosios instancijos administracinis teismas išduoda teismo leidimus dėl galimo prievartos priemonių panaudojimo Reglamento (EB) Nr. 1/2003 [[#^s-fc6138a7bce262a04394612b|20 straipsnyje]], Reglamento (ES) 2022/1925 23 straipsnio 8 dalyje ar Reglamento (ES) 2022/2560 14 straipsnio 6 dalyje nurodytais atvejais. ^s-008d13cf9e43647b7f09a14b
+2. Pirmosios instancijos administracinis teismas išduoda teismo leidimus dėl galimo prievartos priemonių panaudojimo Reglamento (EB) Nr. 1/2003 [[#^s-fc6138a7bce262a04394612b|20 straipsnyje]], [Reglamento (ES) 2022/1925 23 straipsnio 8 dalyje](https://eur-lex.europa.eu/eli/reg/2022/1925/art_23/par_8/oj) ar [Reglamento (ES) 2022/2560 14 straipsnio 6 dalyje](https://eur-lex.europa.eu/eli/reg/2022/2560/art_14/par_6/oj) nurodytais atvejais. ^s-008d13cf9e43647b7f09a14b
 
 
 3. Pirmosios instancijos administracinis teismas išduoda teismo leidimus dėl Europos Komisijos atliekamų patikrinimų ir galimo prievartos priemonių panaudojimo Reglamento (EB) Nr. 1/2003 [[#^s-65dfdaedbf9b6dc48169a162|21 straipsnyje]] nurodytu atveju. ^s-a432754d3d94d26e3f8bbd5f
@@ -2601,26 +2601,26 @@ Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
 
 
-1. Teismas, gavęs ieškinį, susijusį su Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio taikymu, apie tai informuoja Konkurencijos tarybą. Tokiu atveju Konkurencijos taryba turi Civilinio proceso kodekso 50 straipsnio 2 dalyje numatytas teises. ^s-2fc368890e0d1993d0e58359
+1. Teismas, gavęs ieškinį, susijusį su Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio taikymu, apie tai informuoja Konkurencijos tarybą. Tokiu atveju Konkurencijos taryba turi [Civilinio proceso kodekso 50 straipsnio 2 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) numatytas teises. ^s-2fc368890e0d1993d0e58359
 Straipsnio dalies pakeitimai:
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
 
 
 
-2. Sprendimo (nutarties), priimto (priimtos) byloje, kurioje buvo taikomas Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnis arba Reglamento (ES) 2022/1925 nuostatos, nuorašas nedelsiant, paskelbus tokį sprendimą (tokią nutartį), išsiunčiamas Europos Komisijai ir Konkurencijos tarybai. Sprendimo (nutarties), priimto (priimtos) byloje, kurioje buvo taikomas šio įstatymo 4, 5, 6 ar [[#^s-2a8624f795fa22672b35abef|7 straipsnis]], nuorašas nedelsiant, paskelbus tokį sprendimą (tokią nutartį), išsiunčiamas Konkurencijos tarybai. ^s-08872ce6e4dfb0350b00d345
-TAR pastaba: [[#^s-08872ce6e4dfb0350b00d345|57 straipsnio 2 dalies]] nuostatos taikomos po [[latest/29f73dc010b811ee9f7ec2ffce8b47bc|įstatymo Nr. XIV-2035]] įsigaliojimo dienos (2023-06-23) priimtiems teismo sprendimams (priimtoms teismo nutartims) bylose, kuriose buvo taikomas [[#^s-2a8624f795fa22672b35abef|Konkurencijos įstatymo 4, 5, 6 ar 7 straipsnis]].
+2. Sprendimo (nutarties), priimto (priimtos) byloje, kurioje buvo taikomas Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnis arba [Reglamento (ES) 2022/1925](https://eur-lex.europa.eu/eli/reg/2022/1925/oj) nuostatos, nuorašas nedelsiant, paskelbus tokį sprendimą (tokią nutartį), išsiunčiamas Europos Komisijai ir Konkurencijos tarybai. Sprendimo (nutarties), priimto (priimtos) byloje, kurioje buvo taikomas šio įstatymo [[#^s-2c021cd4b1f024ea8866db2d|4]], [[#^s-4eb2cb549a516aa5fbb4d033|5]], [[#^s-d21e5216619f18efa813cd1f|6]] ar [[#^s-2a8624f795fa22672b35abef|7]] straipsnis, nuorašas nedelsiant, paskelbus tokį sprendimą (tokią nutartį), išsiunčiamas Konkurencijos tarybai. ^s-08872ce6e4dfb0350b00d345
+TAR pastaba: 57 straipsnio 2 dalies nuostatos taikomos po [[latest/29f73dc010b811ee9f7ec2ffce8b47bc|įstatymo Nr. XIV-2035]] įsigaliojimo dienos (2023-06-23) priimtiems teismo sprendimams (priimtoms teismo nutartims) bylose, kuriose buvo taikomas Konkurencijos įstatymo [[#^s-2c021cd4b1f024ea8866db2d|4]], [[#^s-4eb2cb549a516aa5fbb4d033|5]], [[#^s-d21e5216619f18efa813cd1f|6]] ar [[#^s-2a8624f795fa22672b35abef|7]] straipsnis.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
 
 
-3. Procesas gali būti atnaujinamas, kai paaiškėja, kad priėmus teismo sprendimą (nutartį), kuriame (kurioje) susitarimams, sprendimams ar veiklai buvo taikomas Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnis arba Reglamento (ES) 2022/1925 nuostatos, priimamas Europos Komisijos sprendimas dėl šių straipsnių arba Reglamento (ES) 2022/1925 nuostatų taikymo tiems patiems susitarimams, sprendimams ar veiklai ir tas taikymo rezultatas iš esmės skiriasi. ^s-b99d668120c039d11e14975c
+3. Procesas gali būti atnaujinamas, kai paaiškėja, kad priėmus teismo sprendimą (nutartį), kuriame (kurioje) susitarimams, sprendimams ar veiklai buvo taikomas Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnis arba [Reglamento (ES) 2022/1925](https://eur-lex.europa.eu/eli/reg/2022/1925/oj) nuostatos, priimamas Europos Komisijos sprendimas dėl šių straipsnių arba [Reglamento (ES) 2022/1925](https://eur-lex.europa.eu/eli/reg/2022/1925/oj) nuostatų taikymo tiems patiems susitarimams, sprendimams ar veiklai ir tas taikymo rezultatas iš esmės skiriasi. ^s-b99d668120c039d11e14975c
 Straipsnio dalies pakeitimai:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
 
 
-4. Kai byla nagrinėjama pirmosios instancijos administraciniame teisme, mutatis mutandis taikomos šio straipsnio 1, 2 ir [[#^s-b99d668120c039d11e14975c|3 dalių]] nuostatos. ^s-a5ed0f7badbe51d74a7f883e
+4. Kai byla nagrinėjama pirmosios instancijos administraciniame teisme, mutatis mutandis taikomos šio straipsnio [[#^s-2fc368890e0d1993d0e58359|1]], [[#^s-08872ce6e4dfb0350b00d345|2]] ir [[#^s-b99d668120c039d11e14975c|3]] dalių nuostatos. ^s-a5ed0f7badbe51d74a7f883e
 Straipsnio dalies pakeitimai:
 Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
 
@@ -2637,16 +2637,16 @@ BENDRADARBIAVIMAS SU KITŲ EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ INSTITUCIJOMIS
 1. Konkurencijos taryba kitos Europos Sąjungos valstybės narės konkurencijos institucijos prašymu šios institucijos vardu informuoja atitinkamus asmenis apie jos tyrimo išvadas, sprendimus, procedūrinius sprendimus, apie kuriuos asmenys turi būti informuojami, ar apie bet kokius kitus su Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio taikymu susijusius dokumentus, įskaitant ir tuos, kuriais turi būti užtikrintas priverstinis baudos ir palūkanų išieškojimas. ^s-03531f8052c604f4e48b8314
 
 
-2. Konkurencijos taryba, gavusi [[#^s-1c72814b28323fd3d658fcc9|šio straipsnio 11 dalyje]] Konkurencijos tarybos nustatytus reikalavimus atitinkantį kitos Europos Sąjungos valstybės narės konkurencijos institucijos prašymą dėl priverstinio baudos ir palūkanų išieškojimo Lietuvos Respublikoje, prie kurio pridedamas kitos Europos Sąjungos valstybės narės konkurencijos institucijos sprendimas, kuriuo paskirta bauda už Sutarties dėl Europos Sąjungos veikimo 101 ir 102 straipsnių nuostatų pažeidimą arba pažeidimą, už kurį numatytos baudos pagal nacionalinius teisės aktus, perkeliančius Direktyvos (ES) 2019/1 13 ir [[#^s-c04724530b7412d15c950554|16 straipsnių]] nuostatas, kuris nebuvo apskųstas per jo apskundimo terminą, ar įsiteisėjus teismo sprendimui dėl atitinkamos institucijos sprendimo, kuriuo paskirta bauda (toliau – sprendimas, kuriuo paskirta bauda), pateikia atitinkamą kitos Europos Sąjungos valstybės narės institucijos sprendimą, kuriuo paskirta bauda, vykdyti antstoliui šios institucijos vardu. ^s-1cb546cbef7870f62b9f42aa
+2. Konkurencijos taryba, gavusi [[#^s-1c72814b28323fd3d658fcc9|šio straipsnio 11 dalyje]] Konkurencijos tarybos nustatytus reikalavimus atitinkantį kitos Europos Sąjungos valstybės narės konkurencijos institucijos prašymą dėl priverstinio baudos ir palūkanų išieškojimo Lietuvos Respublikoje, prie kurio pridedamas kitos Europos Sąjungos valstybės narės konkurencijos institucijos sprendimas, kuriuo paskirta bauda už Sutarties dėl Europos Sąjungos veikimo 101 ir 102 straipsnių nuostatų pažeidimą arba pažeidimą, už kurį numatytos baudos pagal nacionalinius teisės aktus, perkeliančius [Direktyvos (ES) 2019/1](https://eur-lex.europa.eu/eli/dir/2019/1/oj) [[#^s-0c3884a5044f41104ea0dc81|13]] ir [[#^s-c04724530b7412d15c950554|16]] straipsnių nuostatas, kuris nebuvo apskųstas per jo apskundimo terminą, ar įsiteisėjus teismo sprendimui dėl atitinkamos institucijos sprendimo, kuriuo paskirta bauda (toliau – sprendimas, kuriuo paskirta bauda), pateikia atitinkamą kitos Europos Sąjungos valstybės narės institucijos sprendimą, kuriuo paskirta bauda, vykdyti antstoliui šios institucijos vardu. ^s-1cb546cbef7870f62b9f42aa
 
 
-3. Iš kitos Europos Sąjungos valstybės narės konkurencijos institucijos gauti prašymai pagal šio straipsnio 1 ir [[#^s-1cb546cbef7870f62b9f42aa|2 dalis]] Konkurencijos tarybai yra privalomi. ^s-93844da3089aaf3fb9bc35be
+3. Iš kitos Europos Sąjungos valstybės narės konkurencijos institucijos gauti prašymai pagal šio straipsnio [[#^s-03531f8052c604f4e48b8314|1]] ir [[#^s-1cb546cbef7870f62b9f42aa|2]] dalis Konkurencijos tarybai yra privalomi. ^s-93844da3089aaf3fb9bc35be
 
 
 4. Konkurencijos taryba turi teisę antstoliui pateikti vykdyti iš kitos Europos Sąjungos valstybės narės konkurencijos institucijos gautą sprendimą, kuriuo paskirta bauda kitais, negu nurodyti [[#^s-1cb546cbef7870f62b9f42aa|šio straipsnio 2 dalyje]], atvejais, įskaitant atvejus, kai ūkio subjektas, iš kurio bauda ir palūkanos turi būti priverstinai išieškotos, nėra įsisteigęs prašymą Konkurencijos tarybai pateikusios kitos Europos Sąjungos valstybės narės konkurencijos institucijos valstybės teritorijoje. ^s-4308ab1d3a0bb8f28ced5600
 
 
-5. Konkurencijos taryba ar antstolis pagal šio straipsnio 1 ir [[#^s-1cb546cbef7870f62b9f42aa|2 dalis]] gautų prašymų gali netenkinti ar sprendimų, kuriais paskirtos baudos, gali nevykdyti tik tokiais atvejais, jeigu: ^s-2885ad64f78f214500ce9502
+5. Konkurencijos taryba ar antstolis pagal šio straipsnio [[#^s-03531f8052c604f4e48b8314|1]] ir [[#^s-1cb546cbef7870f62b9f42aa|2]] dalis gautų prašymų gali netenkinti ar sprendimų, kuriais paskirtos baudos, gali nevykdyti tik tokiais atvejais, jeigu: ^s-2885ad64f78f214500ce9502
 
 
 1) prašymai neatitinka [[#^s-1c72814b28323fd3d658fcc9|šio straipsnio 11 dalyje]] nurodytų Konkurencijos tarybos jiems keliamų reikalavimų; ^s-858bf0e93440ff1c98f7dcb0
@@ -2655,22 +2655,22 @@ BENDRADARBIAVIMAS SU KITŲ EUROPOS SĄJUNGOS VALSTYBIŲ NARIŲ INSTITUCIJOMIS
 2) prašymų ar sprendimų įgyvendinimas ar vykdymas akivaizdžiai prieštarautų Lietuvos Respublikos viešajai tvarkai. ^s-d2486637f11265862c7dab8c
 
 
-6. Kitos Europos Sąjungos valstybės narės konkurencijos institucijos sprendimas, kuriuo paskirta bauda ir kuris turi būti vykdomas pagal šio straipsnio 2 ar [[#^s-4308ab1d3a0bb8f28ced5600|4 dalį]], yra vykdomasis dokumentas. Konkurencijos taryba šiame vykdymo procese turi Civilinio proceso kodekse numatytas išieškotojo teises ir pareigas, išskyrus teisę atsisakyti išieškojimo ir teisę sudaryti taikos sutartį. ^s-89cf4ebd636a58d73e9aa82a
+6. Kitos Europos Sąjungos valstybės narės konkurencijos institucijos sprendimas, kuriuo paskirta bauda ir kuris turi būti vykdomas pagal šio straipsnio [[#^s-1cb546cbef7870f62b9f42aa|2]] ar [[#^s-4308ab1d3a0bb8f28ced5600|4]] dalį, yra vykdomasis dokumentas. Konkurencijos taryba šiame vykdymo procese turi [Civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) numatytas išieškotojo teises ir pareigas, išskyrus teisę atsisakyti išieškojimo ir teisę sudaryti taikos sutartį. ^s-89cf4ebd636a58d73e9aa82a
 
 
 7. Baudos ir palūkanų priverstinio išieškojimo senaties terminus, per kuriuos paskirta bauda gali būti priverstinai išieškota pagal Konkurencijos tarybos gautą prašymą dėl priverstinio baudos ir palūkanų išieškojimo, taip pat terminus, per kuriuos turi būti kreipiamasi į antstolį dėl priverstinio baudos ir palūkanų išieškojimo, nustato tos Europos Sąjungos valstybės narės teisė, kurios konkurencijos institucija pateikė prašymą Konkurencijos tarybai. ^s-351736846d10213593d0acea
 
 
-8. Konkurencijos taryba turi teisę kitos Europos Sąjungos valstybės narės konkurencijos ar kitos kompetentingos institucijos prašyti Konkurencijos tarybos vardu informuoti atitinkamus asmenis apie tyrimo išvadas, Konkurencijos tarybos nutarimus, procedūrinius sprendimus, apie kuriuos asmenys turi būti informuojami, ar apie bet kokius kitus su Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio taikymu susijusius dokumentus, įskaitant ir tuos, kuriais turi būti užtikrintas priverstinis baudos ir palūkanų išieškojimas, ar prašyti priverstinai išieškoti tyrimo metu Konkurencijos tarybos paskirtą baudą ir šio įstatymo [[#^s-0c6707e5cef273930fa8e3cc|39 straipsnio 2 dalyje]] nurodytas palūkanas už Sutarties dėl Europos Sąjungos veikimo 101 ir 102 straipsniuose, šio įstatymo [[#^s-619167d5b8b4287ebdd38f32|25 straipsnio 1 dalyje]], [[#^s-366f7c6279023b9cb9ab4a18|26 straipsnyje]], [[#^s-3899e375c146e1a2baa80b40|28 straipsnio 4 dalyje]], [[#^s-cbe9ff700cf90f1907a407f7|35 straipsnio 1 dalies]] 1 ir 2 punktuose įtvirtintų Konkurencijos tarybos reikalavimų ir priimtų sprendimų pažeidimą. ^s-9846ec57181228105dca4a01
+8. Konkurencijos taryba turi teisę kitos Europos Sąjungos valstybės narės konkurencijos ar kitos kompetentingos institucijos prašyti Konkurencijos tarybos vardu informuoti atitinkamus asmenis apie tyrimo išvadas, Konkurencijos tarybos nutarimus, procedūrinius sprendimus, apie kuriuos asmenys turi būti informuojami, ar apie bet kokius kitus su Sutarties dėl Europos Sąjungos veikimo 101 ar 102 straipsnio taikymu susijusius dokumentus, įskaitant ir tuos, kuriais turi būti užtikrintas priverstinis baudos ir palūkanų išieškojimas, ar prašyti priverstinai išieškoti tyrimo metu Konkurencijos tarybos paskirtą baudą ir šio įstatymo [[#^s-0c6707e5cef273930fa8e3cc|39 straipsnio 2 dalyje]] nurodytas palūkanas už Sutarties dėl Europos Sąjungos veikimo 101 ir 102 straipsniuose, šio įstatymo [[#^s-619167d5b8b4287ebdd38f32|25 straipsnio 1 dalyje]], [[#^s-366f7c6279023b9cb9ab4a18|26 straipsnyje]], [[#^s-3899e375c146e1a2baa80b40|28 straipsnio 4 dalyje]], [[#^s-cbe9ff700cf90f1907a407f7|35 straipsnio 1 dalies]] [[#^s-eab901c944f7ed02e303aea3|1]] ir [[#^s-9dcb2295dd26b4c63cab9d8e|2]] punktuose įtvirtintų Konkurencijos tarybos reikalavimų ir priimtų sprendimų pažeidimą. ^s-9846ec57181228105dca4a01
 
 
-9. Konkurencijos taryba turi teisę kreiptis į kitos Europos Sąjungos valstybės narės konkurencijos instituciją su prašymu atlyginti Konkurencijos tarybos išlaidas, patirtas atliekant šio straipsnio 1, 2 ir [[#^s-4308ab1d3a0bb8f28ced5600|4 dalyse]], šio įstatymo [[#^s-84e719f3ef3065bc857a1c94|25 straipsnio]] 9 ir [[#^s-e0644f99469bb30a9d97ed63|10 dalyse]] nurodytus veiksmus. Vykdymo išlaidų, patiriamų priverstinai išieškant kitos Europos Sąjungos valstybės narės konkurencijos institucijos paskirtą baudą ir palūkanas, apskaičiavimo ir apmokėjimo tvarką nustato Civilinio proceso kodeksas ir kiti antstolių veiklą reglamentuojantys norminiai teisės aktai. ^s-74e66c04aeb16890f3f884cd
+9. Konkurencijos taryba turi teisę kreiptis į kitos Europos Sąjungos valstybės narės konkurencijos instituciją su prašymu atlyginti Konkurencijos tarybos išlaidas, patirtas atliekant šio straipsnio [[#^s-03531f8052c604f4e48b8314|1]], [[#^s-1cb546cbef7870f62b9f42aa|2]] ir [[#^s-4308ab1d3a0bb8f28ced5600|4]] dalyse, šio įstatymo [[#^s-84e719f3ef3065bc857a1c94|25 straipsnio]] [[#^s-5b7de32ec757cbeabcf3bbb7|9]] ir [[#^s-73d98ba613251607611f5bbe|10]] dalyse nurodytus veiksmus. Vykdymo išlaidų, patiriamų priverstinai išieškant kitos Europos Sąjungos valstybės narės konkurencijos institucijos paskirtą baudą ir palūkanas, apskaičiavimo ir apmokėjimo tvarką nustato [Civilinio proceso kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir kiti antstolių veiklą reglamentuojantys norminiai teisės aktai. ^s-74e66c04aeb16890f3f884cd
 
 
 10. Kitos Europos Sąjungos valstybės narės konkurencijos ar kitos kompetentingos institucijos prašymu Konkurencijos taryba atlygina kitos Europos Sąjungos valstybės narės konkurencijos ar kitos kompetentingos institucijos išlaidas, patirtas šioms institucijoms atliekant veiksmus pagal [[#^s-9846ec57181228105dca4a01|šio straipsnio 8 dalį]] ir pagal šio įstatymo [[#^s-29e3fa5e6768cb91e529d714|25 straipsnio 11 dalį]]. ^s-e0644f99469bb30a9d97ed63
 
 
-11. Reikalavimus, keliamus šiame straipsnyje numatytiems prašymams, jų įgyvendinimo, su bendradarbiavimu susijusių Konkurencijos tarybos ir kitų Europos Sąjungos valstybių narių konkurencijos ar kitų kompetentingų institucijų patirtų išlaidų, įskaitant išlaidas, patirtas atliekant šio įstatymo [[#^s-84e719f3ef3065bc857a1c94|25 straipsnio]] 9, 10 ir [[#^s-1c72814b28323fd3d658fcc9|11 dalyse]] nurodytus veiksmus, atlyginimo tvarką nustato Konkurencijos taryba. ^s-1c72814b28323fd3d658fcc9
+11. Reikalavimus, keliamus šiame straipsnyje numatytiems prašymams, jų įgyvendinimo, su bendradarbiavimu susijusių Konkurencijos tarybos ir kitų Europos Sąjungos valstybių narių konkurencijos ar kitų kompetentingų institucijų patirtų išlaidų, įskaitant išlaidas, patirtas atliekant šio įstatymo [[#^s-84e719f3ef3065bc857a1c94|25 straipsnio]] [[#^s-5b7de32ec757cbeabcf3bbb7|9]], [[#^s-73d98ba613251607611f5bbe|10]] ir [[#^s-29e3fa5e6768cb91e529d714|11]] dalyse nurodytus veiksmus, atlyginimo tvarką nustato Konkurencijos taryba. ^s-1c72814b28323fd3d658fcc9
 
 
 
@@ -2723,31 +2723,31 @@ priedas
 2. 2014 m. lapkričio 26 d. Europos Parlamento ir Tarybos direktyva 2014/104/ES dėl tam tikrų taisyklių, kuriomis reglamentuojami pagal nacionalinę teisę nagrinėjami ieškiniai dėl žalos, patirtos dėl valstybių narių ir Europos Sąjungos konkurencijos teisės nuostatų pažeidimo, atlyginimo. ^s-8d8ec0495bdaebe95cfab241
 
 
-3. 2015 m. liepos 13 d. Tarybos reglamentas (ES) 2015/1589, nustatantis išsamias Sutarties dėl Europos Sąjungos veikimo 108 straipsnio taikymo taisykles (kodifikuota redakcija). ^s-64c01e7c390326553dd780ef
+3. 2015 m. liepos 13 d. Tarybos [reglamentas (ES) 2015/1589](https://eur-lex.europa.eu/eli/reg/2015/1589/oj), nustatantis išsamias Sutarties dėl Europos Sąjungos veikimo 108 straipsnio taikymo taisykles (kodifikuota redakcija). ^s-64c01e7c390326553dd780ef
 Papildyta punktu:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
 
 
-4. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1151. ^s-84506edd57b8ecc420cad93c
+4. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2017/1132](https://eur-lex.europa.eu/eli/dir/2017/1132/oj) dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/1151](https://eur-lex.europa.eu/eli/dir/2019/1151/oj). ^s-84506edd57b8ecc420cad93c
 Punkto numeracijos pakeitimas:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
 
 
-5. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1, kuria siekiama įgalinti valstybių narių konkurencijos institucijas, kad jos būtų veiksmingesnės vykdymo užtikrintojos, ir kuria užtikrinamas tinkamas vidaus rinkos veikimas. ^s-9af9ec265f7d8a325108c991
+5. 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/1](https://eur-lex.europa.eu/eli/dir/2019/1/oj), kuria siekiama įgalinti valstybių narių konkurencijos institucijas, kad jos būtų veiksmingesnės vykdymo užtikrintojos, ir kuria užtikrinamas tinkamas vidaus rinkos veikimas. ^s-9af9ec265f7d8a325108c991
 Punkto numeracijos pakeitimas:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
 
 
-6. 2022 m. rugsėjo 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/1925 dėl atvirų konkurencijai ir sąžiningų skaitmeninio sektoriaus rinkų, kuriuo iš dalies keičiamos direktyvos (ES) 2019/1937 ir (ES) 2020/1828 (Skaitmeninių rinkų aktas). ^s-258c6a1b63e7216d20040c69
+6. 2022 m. rugsėjo 14 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2022/1925](https://eur-lex.europa.eu/eli/reg/2022/1925/oj) dėl atvirų konkurencijai ir sąžiningų skaitmeninio sektoriaus rinkų, kuriuo iš dalies keičiamos [direktyvos (ES) 2019/1937](https://eur-lex.europa.eu/eli/dir/2019/1937/oj) ir (ES) 2020/1828 (Skaitmeninių rinkų aktas). ^s-258c6a1b63e7216d20040c69
 Papildyta punktu:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
 
 
-7. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2560 dėl vidaus rinką iškraipančių užsienio subsidijų. ^s-744a9d8c0bbe193f6c0f5458
+7. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2022/2560](https://eur-lex.europa.eu/eli/reg/2022/2560/oj) dėl vidaus rinką iškraipančių užsienio subsidijų. ^s-744a9d8c0bbe193f6c0f5458
 Papildyta punktu:
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
 
@@ -2814,12 +2814,12 @@ Nr. XII-743, 2013-12-23, paskelbta TAR 2014-01-07, i. k. 2014-00064
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1178, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13567
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 8 ir [[#^s-963bc7fca6d79a255c25c92e|40 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 [[#^s-ef46aa35fb426f1e7136c47b|8]] ir [[#^s-963bc7fca6d79a255c25c92e|40]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2743, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26864
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 18, 22, 26, 27, 30, 33, 35, 36, 37 ir [[#^s-6ae91101f931cb4bf9829281|39 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 [[#^s-50f4eb2204231dccb4772fdb|18]], [[#^s-4f2c06ca50d9092808829114|22]], [[#^s-366f7c6279023b9cb9ab4a18|26]], [[#^s-a2c64ded3b37f34adcbeb848|27]], [[#^s-7d100d5c194303d3806a25f7|30]], [[#^s-d18ec5e838c59ef49eac393a|33]], [[#^s-ce9a3b452a091641624e2c38|35]], [[#^s-d719d81c8bc3f56ab3ef18e5|36]], [[#^s-dc05f81fe283389e943ccd37|37]] ir [[#^s-6ae91101f931cb4bf9829281|39]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2829,42 +2829,42 @@ Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 pakeitimo įstatymas
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-909, 2017-12-19, paskelbta TAR 2017-12-28, i. k. 2017-21501
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 3, 8, 9, 11 ir [[#^s-2c6330729edc6a0a6f11cb87|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 [[#^s-08301057f5a187a520ebfa35|3]], [[#^s-ef46aa35fb426f1e7136c47b|8]], [[#^s-9780d8e5b455426409a7f47d|9]], [[#^s-6bcb96c948175171d6f509b2|11]] ir [[#^s-2c6330729edc6a0a6f11cb87|12]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2011, 2019-03-21, paskelbta TAR 2019-04-02, i. k. 2019-05343
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 15, 16, 18, 19, 22 ir [[#^s-29ae2959d4887bd95010addb|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 [[#^s-45ef4be929ccd5d6f92f478a|15]], [[#^s-c04724530b7412d15c950554|16]], [[#^s-50f4eb2204231dccb4772fdb|18]], [[#^s-a0bf415c42dfef53d9fa2b07|19]], [[#^s-4f2c06ca50d9092808829114|22]] ir [[#^s-29ae2959d4887bd95010addb|32]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1989, 2019-03-14, paskelbta TAR 2019-03-21, i. k. 2019-04394
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 18, 22, 25, 28, 29, 35, 36, 39, 49, [[#^s-a5e27aad8a5967100b2f1669|53 straipsnių]] pakeitimo ir Įstatymo papildymo 38-1 straipsniu įstatymas
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 [[#^s-50f4eb2204231dccb4772fdb|18]], [[#^s-4f2c06ca50d9092808829114|22]], [[#^s-84e719f3ef3065bc857a1c94|25]], [[#^s-5df022b3ec56f9ec7e6e4b29|28]], [[#^s-61874ea5e48e15938bb2dd0d|29]], [[#^s-ce9a3b452a091641624e2c38|35]], [[#^s-d719d81c8bc3f56ab3ef18e5|36]], [[#^s-6ae91101f931cb4bf9829281|39]], [[#^s-3a260b3d7eb8ce93772e0062|49]], [[#^s-a5e27aad8a5967100b2f1669|53]] straipsnių pakeitimo ir Įstatymo papildymo 38-1 straipsniu įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2219, 2019-06-13, paskelbta TAR 2019-06-25, i. k. 2019-10161
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 33, [[#^s-6ae91101f931cb4bf9829281|39 straipsnių]] pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 [[#^s-d18ec5e838c59ef49eac393a|33]], [[#^s-6ae91101f931cb4bf9829281|39]] straipsnių pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3142, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15130
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 1, 3, 11, 16, 17, 18, 19, 21, 22, 25, 26, 27, 29, 32, 33, 35, 36, 37, 38, 38-1, 40, 45, 53, 55, [[#^s-b0368a24b706522aeb606da6|57 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 39-1 straipsniu, VIII skyriumi įstatymas
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 [[#^s-ed9350f1bb34dc3934a8adf7|1]], [[#^s-08301057f5a187a520ebfa35|3]], [[#^s-6bcb96c948175171d6f509b2|11]], [[#^s-c04724530b7412d15c950554|16]], [[#^s-05a0dd4f23681cee0ff7a4a1|17]], [[#^s-50f4eb2204231dccb4772fdb|18]], [[#^s-a0bf415c42dfef53d9fa2b07|19]], [[#^s-65dfdaedbf9b6dc48169a162|21]], [[#^s-4f2c06ca50d9092808829114|22]], [[#^s-84e719f3ef3065bc857a1c94|25]], [[#^s-366f7c6279023b9cb9ab4a18|26]], [[#^s-a2c64ded3b37f34adcbeb848|27]], [[#^s-61874ea5e48e15938bb2dd0d|29]], [[#^s-29ae2959d4887bd95010addb|32]], [[#^s-d18ec5e838c59ef49eac393a|33]], [[#^s-ce9a3b452a091641624e2c38|35]], [[#^s-d719d81c8bc3f56ab3ef18e5|36]], [[#^s-dc05f81fe283389e943ccd37|37]], [[#^s-dd2ebd0a5985833f9be692a5|38]], 38-1, [[#^s-963bc7fca6d79a255c25c92e|40]], [[#^s-d3dc2330df9d19ca7e673cef|45]], [[#^s-a5e27aad8a5967100b2f1669|53]], [[#^s-24e3b9bcb07d38daffc1d8d7|55]], [[#^s-b0368a24b706522aeb606da6|57]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 39-1 straipsniu, VIII skyriumi įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-279, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09681
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 20, 41 straipsnių ir priedo pakeitimo įstatymas
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 [[#^s-fc6138a7bce262a04394612b|20]], 41 straipsnių ir priedo pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1596, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25170
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 26, 27, 32, 33, 35, 39, 41, 56, 57 ir [[#^s-051eab7b7a5b38444df37a15|59 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 [[#^s-366f7c6279023b9cb9ab4a18|26]], [[#^s-a2c64ded3b37f34adcbeb848|27]], [[#^s-29ae2959d4887bd95010addb|32]], [[#^s-d18ec5e838c59ef49eac393a|33]], [[#^s-ce9a3b452a091641624e2c38|35]], [[#^s-6ae91101f931cb4bf9829281|39]], 41, [[#^s-e88ca34f9825814186ffd9e1|56]], [[#^s-b0368a24b706522aeb606da6|57]] ir [[#^s-051eab7b7a5b38444df37a15|59]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2035, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12397
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 3, 8, 20, 21, 36, 54, 55, 56, [[#^s-b0368a24b706522aeb606da6|57 straipsnių]], VII skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 [[#^s-08301057f5a187a520ebfa35|3]], [[#^s-ef46aa35fb426f1e7136c47b|8]], [[#^s-fc6138a7bce262a04394612b|20]], [[#^s-65dfdaedbf9b6dc48169a162|21]], [[#^s-d719d81c8bc3f56ab3ef18e5|36]], [[#^s-ceb504f4a7676f73774dc4f6|54]], [[#^s-24e3b9bcb07d38daffc1d8d7|55]], [[#^s-e88ca34f9825814186ffd9e1|56]], [[#^s-b0368a24b706522aeb606da6|57]] straipsnių, VII skyriaus pavadinimo, priedo pakeitimo ir Įstatymo papildymo 55-1 straipsniu įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2874,7 +2874,7 @@ Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 [[#^s-44985c6b7c28749
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2036, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12398
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 26, 27, 32, 33, 35, 39, 41, 56, 57 ir [[#^s-051eab7b7a5b38444df37a15|59 straipsnių]] pakeitimo [[latest/cc21c520778e11edbc04912defe897d1|įstatymo Nr. XIV-1596]] [[#^s-ef46aa35fb426f1e7136c47b|8 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 [[#^s-366f7c6279023b9cb9ab4a18|26]], [[#^s-a2c64ded3b37f34adcbeb848|27]], [[#^s-29ae2959d4887bd95010addb|32]], [[#^s-d18ec5e838c59ef49eac393a|33]], [[#^s-ce9a3b452a091641624e2c38|35]], [[#^s-6ae91101f931cb4bf9829281|39]], 41, [[#^s-e88ca34f9825814186ffd9e1|56]], [[#^s-b0368a24b706522aeb606da6|57]] ir [[#^s-051eab7b7a5b38444df37a15|59]] straipsnių pakeitimo [[latest/cc21c520778e11edbc04912defe897d1|įstatymo Nr. XIV-1596]] [[#^s-ef46aa35fb426f1e7136c47b|8 straipsnio]] pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2884,12 +2884,12 @@ Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 38-1 straipsnio pakei
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-216, 2025-05-15, paskelbta TAR 2025-05-22, i. k. 2025-09087
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 18 ir [[#^s-d18ec5e838c59ef49eac393a|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 [[#^s-50f4eb2204231dccb4772fdb|18]] ir [[#^s-d18ec5e838c59ef49eac393a|33]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-773, 2026-03-19, paskelbta TAR 2026-03-25, i. k. 2026-04633
-Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 3, 41 ir [[#^s-24e3b9bcb07d38daffc1d8d7|55 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos konkurencijos įstatymo Nr. VIII-1099 [[#^s-08301057f5a187a520ebfa35|3]], 41 ir [[#^s-24e3b9bcb07d38daffc1d8d7|55]] straipsnių pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas

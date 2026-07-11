@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos saugaus eismo automobilių keliais įstatymo 
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.5DC1759E42CB#^s-12205e715418553eb6bc7f49|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - 22 straipsnį 12 dalimi
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.5DC1759E42CB#^s-4a953a5b6197cc8294d32a7e|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Įstatymas Nr. XIV-288
-- [[latest/TAR.5DC1759E42CB#^s-c9f9c53881688574db9b7a9e|Lietuvos Respublikos saugaus eismo automobilių keliais įstatymas]] - Įstatymas Nr. XIV-288
+_Nėra._

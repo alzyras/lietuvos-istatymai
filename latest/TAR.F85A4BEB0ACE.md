@@ -129,7 +129,7 @@ Pakeisti 8 straipsnį ir jį išdėstyti taip:
 6) išleidžia monetas, laikydamasis Sutarties dėl Europos Sąjungos veikimo reikalavimų, ir vykdo kitą su tuo susijusią veiklą. ^s-865c19e255a0e66b6e571f7e
 
 
-3. Lietuvos bankas vykdo veiklą, reikalingą šio straipsnio 1 ir [[#^s-2c74d476b391bc81460f6890|2 dalyse]] numatytoms funkcijoms įgyvendinti ir tam reikalingai infrastruktūrai sukurti bei palaikyti. ^s-b3e91a51cb94c6f584a140b8
+3. Lietuvos bankas vykdo veiklą, reikalingą šio straipsnio [[#^s-a0495f07613af41ec9604d91|1]] ir [[#^s-2c74d476b391bc81460f6890|2]] dalyse numatytoms funkcijoms įgyvendinti ir tam reikalingai infrastruktūrai sukurti bei palaikyti. ^s-b3e91a51cb94c6f584a140b8
 
 
 4. Lietuvos bankas, vykdydamas savo funkcijas ir veiklą, dalyvauja palaikant visos finansų sistemos stabilumą ir patikimumą ir pagal savo kompetenciją imasi atitinkamų priemonių.“ ^s-7aece659a73335a67ef0207c

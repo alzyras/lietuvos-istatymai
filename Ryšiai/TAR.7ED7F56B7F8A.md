@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9845F775C518#^s-7ffb13922979cd9bc1d94777|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - Įstatymas Nr. XI-1707
-- [[latest/TAR.9845F775C518#^s-fe27ca7c6e452a26d5d439d3|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymas]] - Įstatymas Nr. XI-1707
+_Nėra._

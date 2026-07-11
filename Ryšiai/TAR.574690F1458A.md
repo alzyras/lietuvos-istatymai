@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D5496D69DF98#^s-96b6c331d00aa138b840e3cc|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - Įstatymas Nr. XI-1701
-- [[latest/TAR.D5496D69DF98#^s-e9e2aec5bba3abafcff3a61c|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - Įstatymas Nr. XI-1701
+_Nėra._

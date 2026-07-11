@@ -44,7 +44,7 @@ Vilnius
 ### 1 straipsnis. 9 straipsnio 1 dalies papildymas 8 ir 9 punktais ^s-f618abf76767095550dce38e
 
 
-Papildyti 9 straipsnio 1 dalį 8 ir [[#^s-002d0ad40534729dd6148042|9 punktais]]:
+Papildyti 9 straipsnio 1 dalį 8 ir 9 punktais:
 
 
 „8) pirkimams pagal kitas procedūrines taisykles, vadovaujantis tarptautiniu susitarimu, sudarytu dėl prekių, darbų, paslaugų, skirtų bendram susitarimą pasirašiusių šalių projektui įgyvendinti ar naudoti;

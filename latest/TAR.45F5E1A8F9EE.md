@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-4edcbad564ea18cccc0dae4a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 2001 m. sausio 24 d. dekretą Nr. 1194, ratifikuoja Lietuvos Respublikos Vyriausybės ir Tuniso Respublikos Vyriausybės sutartį dėl reguliaraus oro susisiekimo, pasirašytą 1997 m. balandžio 29 d. Maskvoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento [2001 m. sausio 24 d. dekretą Nr. 1194](https://e-tar.lt/portal/lt/legalAct/TAR.34856AD98B8A), ratifikuoja Lietuvos Respublikos Vyriausybės ir Tuniso Respublikos Vyriausybės sutartį dėl reguliaraus oro susisiekimo, pasirašytą 1997 m. balandžio 29 d. Maskvoje.
 
 
 

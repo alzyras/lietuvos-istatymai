@@ -114,7 +114,7 @@ Vilnius
 8. Jei Teisingumo ministerijai prašymą atlyginti žalą ne teismo tvarka pateikęs asmuo kreipiasi į teismą dėl žalos, atsiradusios dėl tų pačių neteisėtų veiksmų, atlyginimo, Teisingumo ministerija sustabdo asmens prašymo atlyginti žalą ne teismo tvarka nagrinėjimą iki teismo sprendimo dėl žalos atlyginimo įsiteisėjimo, bylos nutraukimo arba pareiškimo palikimo nenagrinėto. ^s-cf8067583f9f3e6ab253265e
 
 
-9. Asmuo, kuris nesutiko su Teisingumo ministerijos siūlymu dėl žalos atlyginimo ne teismo tvarka, atsisakė žalos atlyginimo ne teismo tvarka ar [[#^s-cbfad389dd9ded18747630c2|šio straipsnio 6 dalyje]] nustatytu laiku neatvyko pasirašyti taikos sutarties, turi teisę kreiptis į teismą dėl žalos atlyginimo Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-36527ecd4bc528034f170fe1
+9. Asmuo, kuris nesutiko su Teisingumo ministerijos siūlymu dėl žalos atlyginimo ne teismo tvarka, atsisakė žalos atlyginimo ne teismo tvarka ar [[#^s-cbfad389dd9ded18747630c2|šio straipsnio 6 dalyje]] nustatytu laiku neatvyko pasirašyti taikos sutarties, turi teisę kreiptis į teismą dėl žalos atlyginimo [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-36527ecd4bc528034f170fe1
 
 
 10. Ne vėliau kaip per 3 dienas nuo ieškinio dėl žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimo priėmimo teismas išsiunčia Teisingumo ministerijai gauto ieškinio nuorašą. Teismas ne vėliau kaip per 3 dienas nuo sprendimo dėl žalos, atsiradusios dėl neteisėto nuteisimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo, neteisėto procesinių prievartos priemonių pritaikymo, neteisėto administracinės nuobaudos – arešto paskyrimo, atlyginimo priėmimo ar taikos sutarties patvirtinimo šių dokumentų nuorašus išsiunčia Teisingumo ministerijai. ^s-ae3ff7b7c31a41058096d2ce
@@ -142,13 +142,13 @@ Vilnius
 6. Valstybės tarnautojams, valstybės politikams, teisėjams ir valstybės pareigūnams žalos dydis už neteisėto kalinimo, neteisėto kardomojo kalinimo (suėmimo), neteisėto sulaikymo ar neteisėtos administracinės nuobaudos – arešto laiką apskaičiuojamas pagal vidutinį darbo užmokestį, kuris apskaičiuojamas Lietuvos Respublikos Vyriausybės nustatyta tvarka. ^s-37c511364d61c1be5f30d07a
 
 
-7. Jeigu konfiskuoto turto neįmanoma grąžinti natūra, žala dėl turto konfiskavimo apskaičiuojama pagal teismo nuosprendžio priėmimo dieną buvusią konfiskuoto turto rinkos vertę, apskaičiuotą Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo nustatyta tvarka. ^s-19411160e15f3fbbb22e4019
+7. Jeigu konfiskuoto turto neįmanoma grąžinti natūra, žala dėl turto konfiskavimo apskaičiuojama pagal teismo nuosprendžio priėmimo dieną buvusią konfiskuoto turto rinkos vertę, apskaičiuotą [Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nustatyta tvarka. ^s-19411160e15f3fbbb22e4019
 
 
 8. Asmeniui, kuriam buvo paskirti pataisos darbai, atlyginama žala, atsiradusi dėl jo darbo užmokesčio dalies atskaitymo į valstybės pajamas. ^s-c9dfc8a85d51332e41b670c5
 
 
-9. Žala, atsiradusi dėl baudos paskyrimo, atlyginama atsižvelgiant į asmens pinigais į valstybės pajamas sumokėtą sumą ir į iš asmens pajamų bei turto, iš kurio buvo bauda išieškota, į valstybės pajamas išieškotas sumas. ^s-2b89632cd7b1dd95e9e41670
+9. Žala, atsiradusi [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) paskyrimo, atlyginama atsižvelgiant į asmens pinigais į valstybės pajamas sumokėtą sumą ir į iš asmens pajamų bei turto, iš kurio buvo bauda išieškota, į valstybės pajamas išieškotas sumas. ^s-2b89632cd7b1dd95e9e41670
 
 
 10. Išlaidų advokato teisinei pagalbai baudžiamojoje ar administracinio teisės pažeidimo byloje apmokėti, išskyrus atvejus, kai baudžiamojoje byloje gynėjo dalyvavimas buvo būtinas ir kai teikiama valstybės garantuojama teisinė pagalba, dydis nustatomas pagal teisinės pagalbos sutartį, tačiau ši suma negali viršyti teisingumo ministro kartu su Lietuvos advokatų tarybos pirmininku patvirtintose rekomendacijose dėl užmokesčio už advokato teikiamą teisinę pagalbą nustatyto dydžio. ^s-cc5b57917ed22d1ff81bb3cc
@@ -190,10 +190,10 @@ Kol Lietuvos Respublikos valstybės biudžete nėra numatyta lėšų žalai, ats
 Įsigaliojus šiam Įstatymui, netenka galios:
 
 
-1) Lietuvos Respublikos žalos, padarytos neteisėtais kvotos, tardymo, prokuratūros ir teismo veiksmais, atlyginimo įstatymas (Žin., 1997, Nr. 104-2618). ^s-dfe617e73f2ce8312bd1bd4b
+1) [Lietuvos Respublikos žalos, padarytos neteisėtais kvotos, tardymo, prokuratūros ir teismo veiksmais, atlyginimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A762D57F3ADE) (Žin., 1997, Nr. 104-2618). ^s-dfe617e73f2ce8312bd1bd4b
 
 
-2) Lietuvos Respublikos žalos, padarytos neteisėtais kovotos, tardymo, prokuratūros ir teismo veiksmais, atlyginimo įstatymo 3, 4, 5, 6, [[#^s-5d4735c5c31f6a283e1d1718|7 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 2001, Nr. 28-895). ^s-28af68b2301d104f6370c709
+2) Lietuvos Respublikos žalos, padarytos neteisėtais kovotos, tardymo, prokuratūros ir teismo veiksmais, atlyginimo įstatymo [[#^s-e5a39500060a0095fd6095a8|3]], [[#^s-17a826ba56b9dc93ee86ba25|4]], [[#^s-a10c34ba2169c4725aaff0a0|5]], [[#^s-8eb427110d2074e98eda2662|6]], [[#^s-5d4735c5c31f6a283e1d1718|7]] straipsnių pakeitimo ir papildymo įstatymas (Žin., 2001, Nr. 28-895). ^s-28af68b2301d104f6370c709
 
 
 

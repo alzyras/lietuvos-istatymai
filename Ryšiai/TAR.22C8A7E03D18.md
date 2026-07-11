@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos prekių ženklų įstatymo 2, 5, 7, 8, 9, 11,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.B494EC0B78B0|Lietuvos Respublikos prekių ženklų įstatymas]] - Lietuvos Respublikos prekių ženklų įstatymo
+- [[latest/TAR.B494EC0B78B0|Lietuvos Respublikos prekių ženklų įstatymas]] - prekių ženklų įstatymo
 
 ## Šį įstatymą cituoja
 
 - [[latest/TAR.B494EC0B78B0#^s-33a66a5e38750e70312032fd|Lietuvos Respublikos prekių ženklų įstatymas]] - 3 citatos - 1121010ISTA0XI-2396
-- [[latest/TAR.B494EC0B78B0#^s-aea1f9077e7d496c8766d205|Lietuvos Respublikos prekių ženklų įstatymas]] - 3 citatos - 1121010ISTA0XI-2396

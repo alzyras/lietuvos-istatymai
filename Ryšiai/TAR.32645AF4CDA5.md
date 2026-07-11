@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos žemės įstatymo pakeitimo ir papildymo įst
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.CC10C5274343#^s-661a3638c526e781fc44ac25|Lietuvos Respublikos žemės įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS ŽEMĖS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.CC10C5274343#^s-edac287afcc583521e2a64d9|Lietuvos Respublikos žemės įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS ŽEMĖS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.CC10C5274343#^s-661a3638c526e781fc44ac25|Lietuvos Respublikos žemės įstatymas]] - LIETUVOS RESPUBLIKOS ŽEMĖS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS

@@ -172,7 +172,7 @@ Skelbimuose priimti į darbą, valstybės tarnybą arba mokytis draudžiama nuro
 „5) nutraukti tyrimą, jeigu pareiškėjas skundą atsiima arba kai trūksta objektyvių duomenų apie padarytą pažeidimą;“.
 
 
-2. Papildyti 24 straipsnį 6 ir [[#^s-3838b0b1e4fd0aeca4f9188e|7 punktais]]: ^s-3cdc22654c852911ad4a05a8
+2. Papildyti 24 straipsnį 6 ir 7 punktais: ^s-3cdc22654c852911ad4a05a8
 
 
 „6) įspėti dėl padaryto pažeidimo;

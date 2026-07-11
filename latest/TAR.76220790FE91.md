@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-aa2cf43201952cd48ba38d0a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos srityje“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos srityje, pasirašytą 1999 m. kovo 27 d. Venecijoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos srityje“](https://e-tar.lt/portal/lt/legalAct/TAR.6AB5D91D7FCB), ratifikuoja Lietuvos Respublikos Vyriausybės ir Italijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos srityje, pasirašytą 1999 m. kovo 27 d. Venecijoje.
 
 
 

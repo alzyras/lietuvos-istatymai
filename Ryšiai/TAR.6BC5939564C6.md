@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos įstatymo \"Dėl SSRS valstybės saugumo komi
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 3 citatos - Administracinių bylų teisenos įstatymas
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Administracinių bylų teisenos įstatymas
 
 ## Šį įstatymą cituoja
 

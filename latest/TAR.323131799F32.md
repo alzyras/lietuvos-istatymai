@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-b2909176bcf11e7d3f75a4c2
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2002 m. birželio 20 d. dekretą Nr. 1814, ratifikuoja Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimą dėl valstybės sienos įgaliotinių veiklos, pasirašytą 2002 m. kovo 1 d. Nidoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2002 m. birželio 20 d. dekretą Nr. 1814](https://e-tar.lt/portal/lt/legalAct/TAR.26587EA4C6BD), ratifikuoja Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimą dėl valstybės sienos įgaliotinių veiklos, pasirašytą 2002 m. kovo 1 d. Nidoje.
 
 
 

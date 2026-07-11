@@ -36,7 +36,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-2eaa0da5e911885fbfc97ce1
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2001 m. birželio 14 d. dekretą Nr. 1361, ratifikuoja Sutartį dėl šikšnosparnių apsaugos Europoje, priimtą 1991 m. gruodžio 4 d. Londone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2001 m. birželio 14 d. dekretą Nr. 1361](https://e-tar.lt/portal/lt/legalAct/TAR.C83366E88AF7), ratifikuoja Sutartį dėl šikšnosparnių apsaugos Europoje, priimtą 1991 m. gruodžio 4 d. Londone.
 
 
 

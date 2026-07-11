@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 721 straipsnio pakeitimas ^s-e4e5ba2211eea2c5b78a3593
 
 
-Pakeisti 721 straipsnio 5 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.C595FF45F869#^s-5995a12c78f9ea93e5bf5b3c|721 straipsnio 5 dalį]] ir ją išdėstyti taip:
 
 
 „5. Pareiginės algos koeficientai yra šie:

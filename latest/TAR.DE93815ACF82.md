@@ -59,7 +59,7 @@ Vilnius
 3) rinkliavomis ir kitomis įmokomis, numatytomis atsižvelgiant į bendro cukraus sektoriaus rinkos organizavimo principus; ^s-cd07e1a859f5437f1d773728
 
 
-4) administracinėmis baudomis, nuobaudomis, papildomomis įmokomis ir rinkliavomis, kurios susijusios su šios dalies 1, 2, [[#^s-cd07e1a859f5437f1d773728|3 punktuose]] išvardytais reikalavimais ir kurias nustato administracinės institucijos, kompetentingos taikyti atitinkamus mokesčius ar muitus arba vykdyti su jais susijusius administracinius tyrimus, arba kurias patvirtina administracinės ar teisminės institucijos tų administracinių institucijų prašymu; ^s-1073b80f88468316d8b6c701
+4) administracinėmis baudomis, nuobaudomis, papildomomis įmokomis ir rinkliavomis, kurios susijusios su šios dalies [[#^s-6f3fea58ec67042c22c4130e|1]], [[#^s-5a9834acc584321f01d267b1|2]], [[#^s-cd07e1a859f5437f1d773728|3]] punktuose išvardytais reikalavimais ir kurias nustato administracinės institucijos, kompetentingos taikyti atitinkamus mokesčius ar muitus arba vykdyti su jais susijusius administracinius tyrimus, arba kurias patvirtina administracinės ar teisminės institucijos tų administracinių institucijų prašymu; ^s-1073b80f88468316d8b6c701
 
 
 5) rinkliavomis už sertifikatus ir panašius dokumentus, išduodamus vykdant administracines procedūras, susijusias su mokesčiais ir muitais; ^s-bbd47fc8ac41db66c6824ca7
@@ -288,7 +288,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 1. Lietuvos Respublikos institucija, gavusi prašančiosios institucijos pranešimą apie prašymo vykdyti išieškojimą pakeitimą arba jo atsiėmimą su nurodytais motyvais, savo sprendimu sustabdo išieškojimą arba jį nutraukia. ^s-5054285a25b4b5de532595f4
 
 
-2. Lietuvos Respublikos institucija atnaujina išieškojimą, kai gauna prašymą vykdyti išieškojimą ir pataisytą suvienodintą dokumentą. Kai prašymas vykdyti išieškojimą buvo pakeistas dėl prašančiosios institucijos valstybės narės įstaigos, kuri prašančiojoje valstybėje narėje nagrinėja ginčus dėl prašančiosios institucijos reikalavimo, dokumento, kuriuo leidžiama vykdyti išieškojimą prašančiojoje valstybėje narėje, suvienodinto dokumento, pagalbos prašymo, prašančioji institucija perduoda šį sprendimą kartu su pataisytu suvienodintu dokumentu. Pataisytam suvienodintam dokumentui taip pat taikomi šio įstatymo 10 ir [[#^s-f3521f565850260826b7ec16|15 straipsnių]] reikalavimai. ^s-fa4c089cde26738a61d2fa15
+2. Lietuvos Respublikos institucija atnaujina išieškojimą, kai gauna prašymą vykdyti išieškojimą ir pataisytą suvienodintą dokumentą. Kai prašymas vykdyti išieškojimą buvo pakeistas dėl prašančiosios institucijos valstybės narės įstaigos, kuri prašančiojoje valstybėje narėje nagrinėja ginčus dėl prašančiosios institucijos reikalavimo, dokumento, kuriuo leidžiama vykdyti išieškojimą prašančiojoje valstybėje narėje, suvienodinto dokumento, pagalbos prašymo, prašančioji institucija perduoda šį sprendimą kartu su pataisytu suvienodintu dokumentu. Pataisytam suvienodintam dokumentui taip pat taikomi šio įstatymo [[#^s-b0ab08d7f08b7fa3f34ba88d|10]] ir [[#^s-f3521f565850260826b7ec16|15]] straipsnių reikalavimai. ^s-fa4c089cde26738a61d2fa15
 
 
 3. Lietuvos Respublikos institucija taip pat sustabdo arba nutraukia išieškojimą, jeigu prašančioji institucija arba Lietuvos Respublikos institucija pradeda susitarimo procedūrą su skolininku, kai toks susitarimas gali turėti įtakos pagalbos prašymui, išskyrus atvejus, jeigu tai yra ypatingos skubos atvejis, susijęs su sukčiavimu arba nemokumu. ^s-6cdf6b5c9de94e4c4ec06e72
@@ -355,7 +355,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 ### 16 straipsnis. Pagalbos neteikimas ^s-2c0e179006617de62d93f660
 
 
-1. Lietuvos Respublikos institucija atsisako teikti šio įstatymo 10–[[#^s-384cb9bea58e0744adfd8c1a|14 straipsniuose]] nurodytą pagalbą, jeigu priverstinai išieškoti netikslinga socialiniu ir (arba) ekonominiu požiūriu; šiuo atveju atsisakymas turi būti pagrįstas tokiomis pat Lietuvos Respublikos teisės aktuose nurodytomis aplinkybėmis, kurioms esant neišieškomi tiesioginiai asmenų įsiskolinimai. ^s-86d6351a829ddd262dfe0886
+1. Lietuvos Respublikos institucija atsisako teikti šio įstatymo [[#^s-b0ab08d7f08b7fa3f34ba88d|10]]–[[#^s-384cb9bea58e0744adfd8c1a|14]] straipsniuose nurodytą pagalbą, jeigu priverstinai išieškoti netikslinga socialiniu ir (arba) ekonominiu požiūriu; šiuo atveju atsisakymas turi būti pagrįstas tokiomis pat Lietuvos Respublikos teisės aktuose nurodytomis aplinkybėmis, kurioms esant neišieškomi tiesioginiai asmenų įsiskolinimai. ^s-86d6351a829ddd262dfe0886
 
 
 2. Lietuvos Respublikos institucija atsisako teikti pagalbą (išskyrus keitimąsi informacija be išankstinio prašymo), jeigu: ^s-35ed547fcde087b19811cc34
@@ -437,7 +437,7 @@ Kai mokesčių, išskyrus pridėtinės vertės mokestį, grąžinamoji permoka y
 2. Su reikalavimais susiję dokumentai, apie kuriuos prašančioji institucija prašo pateikti skolininkui pranešimą, Lietuvos Respublikos institucijai gali būti siunčiami prašančiosios institucijos valstybės narės valstybine kalba. ^s-5a02dd6b0de06d4fb9da66a9
 
 
-3. Lietuvos Respublikos institucija gali paprašyti prašančiosios institucijos kitus negu šio straipsnio 1 ir [[#^s-5a02dd6b0de06d4fb9da66a9|2 dalyse]] nurodytus pridedamus dokumentus pateikti išverstus į lietuvių kalbą arba kalbą, dėl kurios buvo susitarta. ^s-d2d6beb12337a25c6d2de615
+3. Lietuvos Respublikos institucija gali paprašyti prašančiosios institucijos kitus negu šio straipsnio [[#^s-db407704a11d25e4ca28f456|1]] ir [[#^s-5a02dd6b0de06d4fb9da66a9|2]] dalyse nurodytus pridedamus dokumentus pateikti išverstus į lietuvių kalbą arba kalbą, dėl kurios buvo susitarta. ^s-d2d6beb12337a25c6d2de615
 
 
 
@@ -504,7 +504,7 @@ Lietuvos Respublikos institucija prireikus pagal savo kompetenciją priima šio 
 ### 27 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-064aa8d466cc30d28f3f48f8
 
 
-Įsigaliojus šiam įstatymui, netenka galios Lietuvos Respublikos pagalbos Europos Sąjungos valstybių narių institucijoms išieškant reikalaujamas skolas, susijusias su rinkliavomis, muitais, mokesčiais ir kitomis pinigų sumomis, teikimo ir naudojimosi kitų Europos Sąjungos valstybių narių institucijų teikiama pagalba išieškant minėtas pinigų sumas įstatymas (Žin., 2003, Nr. 104-4650).
+Įsigaliojus šiam įstatymui, netenka galios [Lietuvos Respublikos pagalbos Europos Sąjungos valstybių narių institucijoms išieškant reikalaujamas skolas, susijusias su rinkliavomis, muitais, mokesčiais ir kitomis pinigų sumomis, teikimo ir naudojimosi kitų Europos Sąjungos valstybių narių institucijų teikiama pagalba išieškant minėtas pinigų sumas įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.BEBC57B143B8) (Žin., 2003, Nr. 104-4650).
 
 
 

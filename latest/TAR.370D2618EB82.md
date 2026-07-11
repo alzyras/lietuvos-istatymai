@@ -119,7 +119,7 @@ Jeigu laikinasis nedarbingumas prasidėjo iki šio įstatymo įsigaliojimo dieno
 1. Šis įstatymas įsigalioja 2009 m. gegužės 1 d. ^s-54f0db66e5eb1c1abd5582ab
 
 
-2. Šis įstatymas, išskyrus 2, 4 ir [[#^s-0ed1b1122f795ecc94e17a52|5 straipsnius]], galioja iki 2010 m. gruodžio 31 d. ^s-b957088b4568041faacd0578
+2. Šis įstatymas, išskyrus [[#^s-bd31c931f97d860919470dc9|2]], [[#^s-380ed835f8a46c7f16f02703|4]] ir [[#^s-0ed1b1122f795ecc94e17a52|5]] straipsnius, galioja iki 2010 m. gruodžio 31 d. ^s-b957088b4568041faacd0578
 
 
 

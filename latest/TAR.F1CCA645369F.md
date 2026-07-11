@@ -242,7 +242,7 @@ Pakeisti 6 straipsnio 2 punktą ir jį išdėstyti taip:
 ### 6 straipsnis. 7 straipsnio pakeitimas ir papildymas ^s-d3f1e22ab69fa15ae02f7cf2
 
 
-Pakeisti [[#^s-a7441a9a8d1f63cccda794fa|7 straipsnio]] 1, 2, [[#^s-68dbb3f5267509ea75775cd2|3 dalis]], straipsnį papildyti 4, 5, [[#^s-d57b5033c9c32bc44e632ea6|6 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-a7441a9a8d1f63cccda794fa|7 straipsnio]] 1, 2, 3 dalis, straipsnį papildyti 4, 5, 6 dalimis ir visą straipsnį išdėstyti taip:
 
 
 
@@ -285,7 +285,7 @@ Mėgėjų žvejyba leidžiama žuvininkystės vandens telkiniuose [[latest/TAR.1
 ### 8 straipsnis. 9 straipsnio pakeitimas ir papildymas ^s-d49d3d20c1c51fd38021de9a
 
 
-Pakeisti [[#^s-5b28b5b1f651707d2f8d5ab4|9 straipsnio]] 1, [[#^s-2b2664cf36f5df9987654a0c|2 dalis]], straipsnį papildyti 3 ir [[#^s-92c542a7c2c53a386093d9f8|4 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-5b28b5b1f651707d2f8d5ab4|9 straipsnio]] [[#^s-3caa68833c1fad47ca658ded|1]], [[#^s-bbe4aee52f143e4d767874ea|2]] dalis, straipsnį papildyti [[#^s-7ce5774de8e3c3016ccad1b9|3]] ir 4 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-5b28b5b1f651707d2f8d5ab4|9 straipsnis]]. Specialioji žvejyba
@@ -435,7 +435,7 @@ Pakeisti 14 straipsnio 3 punktą ir jį išdėstyti taip:
 ### 13 straipsnis. 19 straipsnio pakeitimas ir papildymas ^s-a9a2d2c9bf2c5fd963beb950
 
 
-Pakeisti 19 straipsnio 1 ir [[#^s-cc83515c224f1e4888ce7b3d|2 dalis]], papildyti straipsnį [[#^s-a62a9fc23d761020d7a85053|3 dalimi]] ir visą straipsnį išdėstyti taip:
+Pakeisti 19 straipsnio 1 ir 2 dalis, papildyti straipsnį [[#^s-a62a9fc23d761020d7a85053|3 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 

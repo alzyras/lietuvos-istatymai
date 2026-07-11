@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-f15cd977d50de7881799a9c3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2002 m. birželio 20 d. dekretą Nr. 1815, ratifikuoja Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimo dėl tikrinimo jungtiniuose valstybės sienos perėjimo punktuose pakeitimo ir papildymo protokolą, pasirašytą 2002 m. balandžio 5 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2002 m. birželio 20 d. dekretą Nr. 1815](https://e-tar.lt/portal/lt/legalAct/TAR.6CEBC33E7566), ratifikuoja Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės susitarimo dėl tikrinimo jungtiniuose valstybės sienos perėjimo punktuose pakeitimo ir papildymo protokolą, pasirašytą 2002 m. balandžio 5 d. Vilniuje.
 
 
 

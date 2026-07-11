@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. 8 straipsnio pakeitimas ^s-83778c96617c42a86ca097d3
 
 
-Pakeisti 8 straipsnio 3 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.2716576D8D0C#^s-27a72893044896e86d5af663|8 straipsnio 3 dalį]] ir ją išdėstyti taip:
 
 
 „3. Mokestinio laikotarpio angliavandenilių išteklių mokesčio deklaracija privalo būti pateikta ir mokestis sumokamas ne vėliau kaip iki kito kalendorinio ketvirčio antrojo mėnesio 15 dienos.“

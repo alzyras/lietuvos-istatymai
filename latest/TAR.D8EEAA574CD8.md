@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos pakeitimų ratifikavimas ^s-14aa34eb66efde3ba58ac66d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2005 m. gegužės 18 d. dekretą Nr. 306, ratifikuoja 1992 m. Helsinkio konvencijos dėl Baltijos jūros baseino jūrinės aplinkos apsaugos IV priedo „Taršos iš laivų prevencija“ pakeitimus, priimtus rekomendacija 21/2 2000 m. kovo 20 d. Helsinkyje ir rekomendacija 24/8 2003 m. birželio 25 d. Bremene.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2005 m. gegužės 18 d. dekretą Nr. 306](https://e-tar.lt/portal/lt/legalAct/TAR.561E0036E81C), ratifikuoja 1992 m. Helsinkio konvencijos dėl Baltijos jūros baseino jūrinės aplinkos apsaugos IV priedo „Taršos iš laivų prevencija“ pakeitimus, priimtus rekomendacija 21/2 2000 m. kovo 20 d. Helsinkyje ir rekomendacija 24/8 2003 m. birželio 25 d. Bremene.
 
 
 

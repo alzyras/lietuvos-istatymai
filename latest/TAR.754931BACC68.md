@@ -45,13 +45,13 @@ Vilnius
 „1. Asmuo, nustojęs eiti pareigas valstybinėje tarnyboje, vienerius metus negali atstovauti fiziniams ar juridiniams asmenims toje institucijoje, kurioje jis paskutinius metus dirbo.“
 
 
-2. Papildyti 20 straipsnį nauja [[#^s-d522e6fe9a4146a8927711bf|2 dalimi]]: ^s-d522e6fe9a4146a8927711bf
+2. Papildyti 20 straipsnį nauja 2 dalimi: ^s-d522e6fe9a4146a8927711bf
 
 
 „2. Asmuo, nustojęs eiti pareigas valstybinėje tarnyboje, vienerius metus negali atstovauti fiziniams ar juridiniams asmenims kitose valstybės ar savivaldybių institucijose tais klausimais, kurie buvo priskirti jo tarnybinėms funkcijoms.“
 
 
-3. Buvusią 20 straipsnio 2 dalį laikyti [[#^s-e8e23fdc4f47de70be3bf745|3 dalimi]]. ^s-e8e23fdc4f47de70be3bf745
+3. Buvusią 20 straipsnio 2 dalį laikyti 3 dalimi. ^s-e8e23fdc4f47de70be3bf745
 
 
 

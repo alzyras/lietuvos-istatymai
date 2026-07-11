@@ -75,7 +75,7 @@ Vilnius
 ### 4 straipsnis. Įstatymo įsigaliojimas ^s-02e89106af7ea562d2eb42df
 
 
-1. Šis Įstatymas, išskyrus 1 ir [[#^s-913f4efca0f3f37c898cfb55|3 straipsnius]], įsigalioja nuo 2003 m. sausio 1 d. ^s-e6f1e916c85b52342931abc9
+1. Šis Įstatymas, išskyrus [[#^s-49fbb8f16c2ced0608d9bb73|1]] ir [[#^s-913f4efca0f3f37c898cfb55|3]] straipsnius, įsigalioja nuo 2003 m. sausio 1 d. ^s-e6f1e916c85b52342931abc9
 
 
 2. Šio Įstatymo [[#^s-49fbb8f16c2ced0608d9bb73|1 straipsnis]] įsigalioja nuo 2003 m. kovo 1 d. ^s-6de03495ae413666ccad3940

@@ -10,9 +10,10 @@ pavadinimas: "Lietuvos Respublikos žmonių palaikų laidojimo įstatymo 1, 2, 6
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.38E82AA2664C|Lietuvos Respublikos nekilnojamojo turto registro įstatymas]] - Lietuvos Respublikos nekilnojamojo turto registro įstatymo
-- [[latest/TAR.12977CB93B03|Lietuvos Respublikos paramos mirties atveju įstatymas]] - 2 citatos - „Dėl paramos mirties atveju“
-- [[latest/TAR.DD80CF948782|Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas]] - 8 citatos - Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo
+- [[latest/TAR.12977CB93B03|Lietuvos Respublikos paramos mirties atveju įstatymas]] - „Dėl paramos mirties atveju“
+- [[latest/TAR.DD80CF948782|Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymas]] - 5 citatos - Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo
+- [[latest/TAR.C51D9C259EFE|Lietuvos Respublikos žmonių palaikų laidojimo įstatymas]] - Lietuvos Respublikos žmonių palaikų laidojimo įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C51D9C259EFE#^s-39756cc4fb9ef153fc48535e|Lietuvos Respublikos žmonių palaikų laidojimo įstatymas]] - Įstatymas Nr. XI-1044
+_Nėra._

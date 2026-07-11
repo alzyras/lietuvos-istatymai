@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-e9262c4c4b1ae1631d7accd6
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. rugpjūčio 19 d. dekretą Nr. 1867, ratifikuoja Lietuvos Respublikos Vyriausybės ir Vengrijos Respublikos Vyriausybės sutartį dėl bendradarbiavimo kovojant su terorizmu, neteisėta narkotikų apyvarta, organizuotu nusikalstamumu ir kitais sunkiais nusikaltimais, pasirašytą 1997 m. kovo 4 d. Vilniuje, su pataisymais, suderintais Lietuvos Respublikos užsienio reikalų ministerijos 2002 m. kovo 23 d. nota Nr. 164/2002 ir Vengrijos Respublikos užsienio reikalų ministerijos 2002 m. kovo 30 d. nota Nr. 1026/jogi/2002.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. rugpjūčio 19 d. dekretą Nr. 1867](https://e-tar.lt/portal/lt/legalAct/TAR.D192702C3EE3), ratifikuoja Lietuvos Respublikos Vyriausybės ir Vengrijos Respublikos Vyriausybės sutartį dėl bendradarbiavimo kovojant su terorizmu, neteisėta narkotikų apyvarta, organizuotu nusikalstamumu ir kitais sunkiais nusikaltimais, pasirašytą 1997 m. kovo 4 d. Vilniuje, su pataisymais, suderintais Lietuvos Respublikos užsienio reikalų ministerijos 2002 m. kovo 23 d. nota Nr. 164/2002 ir Vengrijos Respublikos užsienio reikalų ministerijos 2002 m. kovo 30 d. nota Nr. 1026/jogi/2002.
 
 
 

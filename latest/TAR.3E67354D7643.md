@@ -85,7 +85,7 @@ Papildyti 22 straipsnio 3 dalį 5 punktu:
 ### 3 straipsnis. Baigiamosios nuostatos ^s-643529081b355432639b641b
 
 
-1. Šio įstatymo [[#^s-5cd8039279cba14163d46b79|1 straipsnis]], išskyrus [[#^s-5cd8039279cba14163d46b79|1 straipsnio]] 2, 3 ir 4 dalis, įsigalioja 2012 m. sausio 1 d. ^s-e5b01bd94ab5dbda913f25ae
+1. Šio įstatymo [[#^s-5cd8039279cba14163d46b79|1 straipsnis]], išskyrus [[#^s-5cd8039279cba14163d46b79|1 straipsnio]] [[#^s-cb0f2b66603ea14f49ad8057|2]], [[#^s-5952bf802c411100b4ce9db4|3]] ir [[#^s-6ac59f61efb1ba35b9cb61d7|4]] dalis, įsigalioja 2012 m. sausio 1 d. ^s-e5b01bd94ab5dbda913f25ae
 
 
 2. Šio įstatymo [[#^s-a971d9b34e1a9558e65f7888|2 straipsnis]] galioja iki 2011 m. gruodžio 31 d. ^s-13a627f38f2f6fec46585be7

@@ -86,7 +86,7 @@ Vilnius
 ### 3 straipsnis.         3 straipsnio 1 dalies 5, 7, 10, 11 punktų pakeitimas ir 1 dalies papildymas 12, 13, l4 punktais ^s-c4cc53ed73353ed6f86c25c9
 
 
-1. [[#^s-62bb885ba4375b6c6664b7d5|3 straipsnio 1 dalyje]] išbraukti žodžius „kilnojamosios kultūros“, po žodžio „yra“ įrašyti žodį „meno“ ir šią dalį išdėstyti taip: ^s-62bb885ba4375b6c6664b7d5
+1. 3 straipsnio 1 dalyje išbraukti žodžius „kilnojamosios kultūros“, po žodžio „yra“ įrašyti žodį „meno“ ir šią dalį išdėstyti taip: ^s-62bb885ba4375b6c6664b7d5
 
 
 „1. Šio įstatymo objektai yra meno vertybės ir antikvariniai daiktai.“

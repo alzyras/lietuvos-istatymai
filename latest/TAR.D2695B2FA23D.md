@@ -1046,7 +1046,7 @@ Lietuvos Respublikos valstybinės valdžios, valdymo ir teisėtvarkos organų i�
  Iš jų nepaprastosios išlaidos
 
 
- I. Valstybinės valdžios ir valdymo organų, atskaitingų Aukščiausiajai Tarybai, centrinis aparatas
+ I. Valstybinės valdžios ir valdymo organų, atskaitingų [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC), centrinis aparatas
 
 
 

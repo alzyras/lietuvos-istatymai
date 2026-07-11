@@ -53,7 +53,7 @@ Pakeisti Lietuvos Respublikos Valstybinės lietuvių kalbos komisijos statuso į
 1. Valstybinė lietuvių kalbos komisija (toliau – Kalbos komisija) yra valstybės įstaiga. Ją steigia, reorganizuoja ir naikina Seimas. Kalbos komisija atsiskaito Seimui. ^s-f9a83ffc19c76799e068b983
 
 
-2. Kalbos komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, [[latest/TAR.0B0253BB424C|Valstybinės kalbos įstatymu]], šiuo ir kitais įstatymais bei teisės norminiais aktais. ^s-de1b06b347cbdd35791a9a32
+2. Kalbos komisija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), [[latest/TAR.0B0253BB424C|Valstybinės kalbos įstatymu]], šiuo ir kitais įstatymais bei teisės norminiais aktais. ^s-de1b06b347cbdd35791a9a32
 
 
 3. Kalbos komisija yra juridinis asmuo, turi savo antspaudą su Lietuvos valstybės herbu bei savo pavadinimu ir sąskaitų bankuose. ^s-c0b997587f1cbdaafd228a4c
@@ -289,10 +289,10 @@ Kalbos komisijos pirmininkas:
 Pripažinti netekusiais galios:
 
 
-1) Seimo 1994 m. birželio 28 d. nutarimą Nr. I-515 „Dėl Valstybinės lietuvių kalbos komisijos nuostatų patvirtinimo“ (Žin., 1994, Nr. 51-955); ^s-d479e9430002e5684f085a1e
+1) Seimo [1994 m. birželio 28 d. nutarimą Nr. I-515](https://e-tar.lt/portal/lt/legalAct/TAR.E4A5A28A45BE) „Dėl Valstybinės lietuvių kalbos komisijos nuostatų patvirtinimo“ (Žin., 1994, Nr. 51-955); ^s-d479e9430002e5684f085a1e
 
 
-2) Seimo 1995 m. sausio 12 d. nutarimą Nr. I-745 „Dėl Valstybinės lietuvių kalbos komisijos nuostatų pakeitimo ir papildymo“ (Žin., 1995, Nr. 8-157). ^s-d9f99940fddb33287002c3dd
+2) Seimo [1995 m. sausio 12 d. nutarimą Nr. I-745](https://e-tar.lt/portal/lt/legalAct/TAR.70E5BE05B261) [„Dėl Valstybinės lietuvių kalbos komisijos nuostatų pakeitimo ir papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.70E5BE05B261) (Žin., 1995, Nr. 8-157). ^s-d9f99940fddb33287002c3dd
 
 
 

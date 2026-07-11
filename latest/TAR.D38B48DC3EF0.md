@@ -81,10 +81,10 @@ BENDROSIOS NUOSTATOS
 6. Dukterinė įmonė – Lietuvos Respublikos įmonių grupių konsoliduotosios finansinės atskaitomybės įstatyme apibūdinta įmonė. ^s-49ef5e9de8791a1b354aca56
 
 
-7. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB, (OL 2010 L 331, p. 84) (toliau – Reglamentas (ES) 1095/2010) įsteigta Europos Sąjungos institucija. ^s-6727ba77abad3a62696d7384
+7. Europos vertybinių popierių ir rinkų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB, (OL 2010 L 331, p. 84) (toliau – [Reglamentas (ES) 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj)) įsteigta Europos Sąjungos institucija. ^s-6727ba77abad3a62696d7384
 
 
-8. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1092/2010 dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) (toliau – Reglamentas (ES) Nr. 1092/2010) įsteigta Europos Sąjungos institucija. ^s-dd87864144bd721c7f220663
+8. Europos sisteminės rizikos valdyba – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj) dėl Europos Sąjungos finansų sistemos makrolygio rizikos ribojimo priežiūros ir Europos sisteminės rizikos valdybos įsteigimo (OL 2010 L 331, p. 1) (toliau – [Reglamentas (ES) Nr. 1092/2010](https://eur-lex.europa.eu/eli/reg/1092/2010/oj)) įsteigta Europos Sąjungos institucija. ^s-dd87864144bd721c7f220663
 
 
 9. Finansinis įkaitas (toliau – įkaitas) – įkeistas finansinis turtas (įskaitant pinigus), taip pat pagal atpirkimo arba panašų sandorį perleistas finansinis turtas teisėms ir įsipareigojimams, galintiems atsirasti naudojantis sistema, užtikrinti arba pateiktas Lietuvos bankui, kitų valstybių narių centriniams bankams ar Europos centriniam bankui kaip prievolės šiems bankams įvykdymo užtikrinimo priemonė. Įkaitu pagal šį įstatymą laikomas ir finansinis užstatas pagal Lietuvos Respublikos finansinio užtikrinimo susitarimų įstatymą. ^s-825e6834cd599d3dfc5d49b5
@@ -184,7 +184,7 @@ Nr. XIV-764, 2021-12-14, paskelbta TAR 2021-12-23, i. k. 2021-26893
 2) Lietuvos Respublikoje registruotiems dalyviams, dalyvaujantiems sistemoje, kurios dalyvių teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, taikoma kitos valstybės narės teisė. ^s-b660135e7a139501e6889ed2
 
 
-2. Sistemoms, kurių operatorius yra Lietuvos bankas, šio įstatymo 5 ir [[#^s-398ea2d34fcb1a7749a687fe|6 straipsniai]] netaikomi. ^s-e96594f32e3a5f0db7281c35
+2. Sistemoms, kurių operatorius yra Lietuvos bankas, šio įstatymo [[#^s-7cc6240bbd7d1a345237a09b|5]] ir [[#^s-398ea2d34fcb1a7749a687fe|6]] straipsniai netaikomi. ^s-e96594f32e3a5f0db7281c35
 
 
 
@@ -337,7 +337,7 @@ OPERACIJŲ SUSTABDYMO IR BANKROTO PROCESO PADARINIŲ APRIBOJIMAS
 2. Pareigą informuoti Lietuvos banką, kaip nurodyta [[#^s-14fd749c4d7a471cf6781dad|šio straipsnio 1 dalyje]], taip pat turi teismas arba kita institucija, priėmusi sprendimą dėl Lietuvos Respublikoje registruoto sistemos dalyvio operacijų sustabdymo. ^s-321274bc1d44f14528a85521
 
 
-3. Lietuvos bankas, gavęs šio straipsnio 1 ar [[#^s-321274bc1d44f14528a85521|2 dalyje]] nurodytą pranešimą, nedelsdamas privalo pranešti: ^s-bda10799268a3850474dea21
+3. Lietuvos bankas, gavęs šio straipsnio [[#^s-14fd749c4d7a471cf6781dad|1]] ar [[#^s-321274bc1d44f14528a85521|2]] dalyje nurodytą pranešimą, nedelsdamas privalo pranešti: ^s-bda10799268a3850474dea21
 
 
 1) tos sistemos, kurios dalyviai teisėms ir įsipareigojimams, atsirandantiems dėl dalyvavimo sistemoje, pasirinko Lietuvos Respublikos teisę, operatoriui; ^s-c8fe17513ec154a9987fb953
@@ -406,10 +406,10 @@ Nr. XI-1428, 2011-06-07, Žin., 2011, Nr. 74-3539 (2011-06-18), i. k. [[latest/T
 
 
 
-2. Šio įstatymo tikslais Lietuvos bankas bendradarbiauja su Europos vertybinių popierių ir rinkų institucija pagal Reglamentą (ES) 1095/2010. ^s-e76ffb13c5d64d84fd2821bd
+2. Šio įstatymo tikslais Lietuvos bankas bendradarbiauja su Europos vertybinių popierių ir rinkų institucija pagal [Reglamentą (ES) 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj). ^s-e76ffb13c5d64d84fd2821bd
 
 
-3. Lietuvos bankas pagal Reglamento (ES) 1095/2010 35 straipsnį nedelsdamas suteikia Europos vertybinių popierių ir rinkų institucijai visą informaciją, būtiną jos užduotims vykdyti. ^s-8efeb76e72245e8ed1bfd523
+3. Lietuvos bankas pagal [Reglamento (ES) 1095/2010 35 straipsnį](https://eur-lex.europa.eu/eli/reg/1095/2010/art_35/oj) nedelsdamas suteikia Europos vertybinių popierių ir rinkų institucijai visą informaciją, būtiną jos užduotims vykdyti. ^s-8efeb76e72245e8ed1bfd523
 
 
 
@@ -436,7 +436,7 @@ priedas
 
 
 
-1. 1998 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 98/26/EB dėl atsiskaitymų baigtinumo mokėjimų ir vertybinių popierių atsiskaitymų sistemose su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/879. ^s-4eafffeb07c371169a51e1da
+1. 1998 m. gegužės 19 d. Europos Parlamento ir Tarybos direktyva 98/26/EB dėl atsiskaitymų baigtinumo mokėjimų ir vertybinių popierių atsiskaitymų sistemose su paskutiniais pakeitimais, padarytais 2019 m. gegužės 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/879](https://eur-lex.europa.eu/eli/dir/2019/879/oj). ^s-4eafffeb07c371169a51e1da
 
 
 Priedo pakeitimai:

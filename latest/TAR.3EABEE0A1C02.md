@@ -42,7 +42,7 @@ Vilnius
 8 straipsnio 1 dalyje po žodžių „šis įstatymas“ įrašyti žodžius „Seimo statutas“ ir šią dalį išdėstyti taip:
 
 
-„1. Valstybės biudžeto ir savivaldybių biudžetų sudarymo ir vykdymo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, šis įstatymas, Seimo statutas, Vyriausybės patvirtinta biudžetų sudarymo ir vykdymo tvarka, atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas ir kiti biudžeto pajamų gavimą ir išlaidų finansavimą reglamentuojantys teisės aktai.“
+„1. Valstybės biudžeto ir savivaldybių biudžetų sudarymo ir vykdymo teisinis pagrindas yra [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis įstatymas, Seimo statutas, Vyriausybės patvirtinta biudžetų sudarymo ir vykdymo tvarka, atitinkamų metų Valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas ir kiti biudžeto pajamų gavimą ir išlaidų finansavimą reglamentuojantys teisės aktai.“
 
 
 

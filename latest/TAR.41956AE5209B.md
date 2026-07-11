@@ -78,7 +78,7 @@ Pakeisti [[#^s-1185ac655cabcd1e1aacc3f9|2 straipsnį]] ir jį išdėstyti taip:
 ### 3 straipsnis. 10 straipsnio 1 ir 2 dalių pakeitimas ^s-4243c0d4ac5658935d77c75c
 
 
-Pakeisti 10 straipsnio 1 ir [[#^s-61d7f6eb58c82fbd686963ac|2 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 10 straipsnio 1 ir 2 dalis ir visą straipsnį išdėstyti taip:
 
 
 „10 straipsnis. Specialiųjų tyrimų tarnybos personalas
@@ -96,7 +96,7 @@ Pakeisti 10 straipsnio 1 ir [[#^s-61d7f6eb58c82fbd686963ac|2 dalis]] ir visą st
 ### 4 straipsnis. 12 straipsnio 1 ir 2 dalių pakeitimas ^s-d423c13f715b0f73c9aa14ae
 
 
-Pakeisti 12 straipsnio 1 ir [[#^s-cd5a771b2ba37ae4eedc0b54|2 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 12 straipsnio 1 ir 2 dalis ir visą straipsnį išdėstyti taip:
 
 
 „12 straipsnis. Specialiųjų tyrimų tarnybos direktoriaus ir jo pavaduotojų atleidimo iš pareigų pagrindai
@@ -231,7 +231,7 @@ Papildyti 20 straipsnį 3 dalimi:
 ### 8 straipsnis. 22 straipsnio pakeitimas ir papildymas ^s-96cb784e637a18a47fe54428
 
 
-Papildyti 22 straipsnį nauja [[#^s-68f4fdde9621c21e444965e9|1 dalimi]], buvusias 1 ir [[#^s-58bd3ef3c4bd30c0feb18433|2 dalis]] laikyti atitinkamai 2 ir [[#^s-d77f18582a596b98f173ed59|3 dalimis]], pakeisti [[#^s-58bd3ef3c4bd30c0feb18433|2 dalį]] ir visą straipsnį išdėstyti taip:
+Papildyti 22 straipsnį nauja [[#^s-68f4fdde9621c21e444965e9|1 dalimi]], buvusias 1 ir 2 dalis laikyti atitinkamai 2 ir 3 dalimis, pakeisti [[#^s-58bd3ef3c4bd30c0feb18433|2 dalį]] ir visą straipsnį išdėstyti taip:
 
 
 „22 straipsnis. Specialiųjų tyrimų tarnybos veiklos kontrolė

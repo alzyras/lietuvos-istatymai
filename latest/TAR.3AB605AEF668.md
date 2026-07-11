@@ -78,7 +78,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 1) lėšos, nustatyta tvarka išieškotos už žuvų ištekliams padarytą žalą pažeidus verslinę žvejybą jūrų vandenyse reglamentuojančius įstatymus ar kitus teisės aktus; ^s-ddbde1d22626d708b3313275
 
 
-2) lėšos iš sumokėtų Administracinių teisės pažeidimų kodekso 872 straipsnyje, 873 straipsnio trečiojoje ir ketvirtojoje dalyse, 874 straipsnyje (kai pažeidimai padaryti jūrų vandenyse), 875 straipsnyje, 876 straipsnyje (kai pažeidimai padaryti parduodant ar superkant jūrų vandenų žuvininkystės produktus), 877 straipsnyje (kai pažeidimai padaryti jūrų vandenyse) nustatytų baudų už įstatymų ar kitų žuvininkystę reglamentuojančių teisės aktų pažeidimus; ^s-9cb44a8184f99df7f3dbb967
+2) lėšos iš sumokėtų [Administracinių teisės pažeidimų kodekso 872 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492), 873 straipsnio trečiojoje ir ketvirtojoje dalyse, 874 straipsnyje (kai pažeidimai padaryti jūrų vandenyse), 875 straipsnyje, 876 straipsnyje (kai pažeidimai padaryti parduodant ar superkant jūrų vandenų žuvininkystės produktus), 877 straipsnyje (kai pažeidimai padaryti jūrų vandenyse) nustatytų baudų už įstatymų ar kitų žuvininkystę reglamentuojančių teisės aktų pažeidimus; ^s-9cb44a8184f99df7f3dbb967
 
 
 3) lėšos, gautos Lietuvos Respublikos teisės aktų nustatyta tvarka realizavus konfiskuotus žvejybos jūrų vandenyse įrankius, priemones ir neteisėtai įgytas žuvis; ^s-eec71b281a45ffdf5623d020

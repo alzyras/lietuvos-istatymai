@@ -78,7 +78,7 @@ Pakeisti 8 straipsnio 2 dalį ir ją išdėstyti taip:
 „3. Kito šio įstatymo 9 straipsnio 2 dalies 1 ir 2 punktuose nurodyto nekilnojamojo turto mokestine verte 2006 metų mokestiniu laikotarpiu laikoma 0,5, o 2007 metų mokestiniu laikotarpiu – 0,8 šio įstatymo 8 straipsnio 1 dalyje nurodytos šio nekilnojamojo turto mokestinės vertės.“
 
 
-3. Buvusias 15 straipsnio 2 ir [[#^s-9d5e0d0e23af8bae11696610|3 dalis]] laikyti atitinkamai 4 ir 5 dalimis. ^s-9d5e0d0e23af8bae11696610
+3. Buvusias 15 straipsnio 2 ir 3 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-9d5e0d0e23af8bae11696610
 
 
 

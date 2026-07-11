@@ -98,7 +98,7 @@ Pakeisti 42 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 6 straipsnis. Įstatymo įsigaliojimas ^s-a04aa4707fc2802f9bda1b79
 
 
-Šio įstatymo 3 ir [[#^s-c85833de549c03f5c233f438|4 straipsniai]] įsigalioja nuo 2006 m. liepos 1 d., [[#^s-14962f79f258faea9648c738|5 straipsnio 1 dalis]] įsigalioja nuo 2006 m. spalio 1 d.
+Šio įstatymo [[#^s-1884e14ca2069296c3eef2f1|3]] ir [[#^s-c85833de549c03f5c233f438|4]] straipsniai įsigalioja nuo 2006 m. liepos 1 d., [[#^s-14962f79f258faea9648c738|5 straipsnio 1 dalis]] įsigalioja nuo 2006 m. spalio 1 d.
 
 
 
@@ -108,7 +108,7 @@ Pakeisti 42 straipsnio 1 dalį ir ją išdėstyti taip:
 1. Vyriausybė ir (ar) jos įgaliota institucija iki 2006 m. spalio 1 d. priima šio įstatymo [[#^s-14962f79f258faea9648c738|5 straipsnio 1 daliai]] įgyvendinti reikalingus teisės aktus. ^s-f6c9e11dfe72a5168cb1eace
 
 
-2. Vyriausybė iki 2006 m. spalio 1 d. pateikia Lietuvos Respublikos Seimui įstatymo, reglamentuojančio asmenų, nurodytų Vyriausybės 1991 m. gruodžio 5 d. nutarimu Nr. 530 patvirtintų Asmenų draudimo valstybės lėšomis ir kompensacijų mokėjimo juos sužeidus ar jiems žuvus ryšium su tarnyba sąlygų 1 punkte, draudimą valstybės lėšomis ir kompensacijų juos sužeidus arba jiems žuvus dėl priežasčių, susijusių su tarnyba, mokėjimą, projektą. ^s-5874c3c49398a5f862cbdb51
+2. Vyriausybė iki 2006 m. spalio 1 d. pateikia Lietuvos Respublikos Seimui įstatymo, reglamentuojančio asmenų, nurodytų Vyriausybės [1991 m. gruodžio 5 d. nutarimu Nr. 530](https://e-tar.lt/portal/lt/legalAct/TAR.45037F687598) patvirtintų Asmenų draudimo valstybės lėšomis ir kompensacijų mokėjimo juos sužeidus ar jiems žuvus ryšium su tarnyba sąlygų 1 punkte, draudimą valstybės lėšomis ir kompensacijų juos sužeidus arba jiems žuvus dėl priežasčių, susijusių su tarnyba, mokėjimą, projektą. ^s-5874c3c49398a5f862cbdb51
 
 
 

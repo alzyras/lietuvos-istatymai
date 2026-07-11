@@ -125,7 +125,7 @@ VIDAUS KONTROLĖ
 3) paskesnioji finansų kontrolė – kontrolė po viešojo juridinio asmens sprendimų dėl valstybės ir savivaldybės turto panaudojimo ir įsipareigojimų tretiesiems asmenims vykdymo, kurios metu tikrinama, kaip yra atlikti veiksmai. Jos paskirtis – patikrinti, ar teisėtai ir pagal paskirtį naudojamos materialiosios, nematerialiosios ir finansinės vertybės, ar nebuvo teisės aktų, vadovų nurodymų pažeidimų bei piktnaudžiavimų. Paskesnioji finansų kontrolė numato priemones jos metu nustatytiems trūkumams pašalinti. Šios kontrolės negali atlikti valstybės tarnautojas ar darbuotojas, atsakingas už išankstinę finansų kontrolę. ^s-51345cd89954545a7988836d
 
 
-5. Už išankstinę, einamąją ir paskesniąją finansų kontrolę yra atsakingi viešojo juridinio asmens vadovo paskirti valstybės tarnautojai arba darbuotojai. Kai viešojo juridinio asmens apskaitą tvarko apskaitos paslaugas teikianti įmonė, viešojo juridinio asmens vadovas paskiria darbuotoją atsakyti už [[#^s-0cd09d2ae8872403b92a1179|šio straipsnio 6 dalyje]] nurodytą kontrolę bei atlikti veiksmus, nurodytus šio straipsnio 7 ir [[#^s-a1fe000377aab88dea30046b|8 dalyse]]. ^s-5a273c4b950f6f558429a334
+5. Už išankstinę, einamąją ir paskesniąją finansų kontrolę yra atsakingi viešojo juridinio asmens vadovo paskirti valstybės tarnautojai arba darbuotojai. Kai viešojo juridinio asmens apskaitą tvarko apskaitos paslaugas teikianti įmonė, viešojo juridinio asmens vadovas paskiria darbuotoją atsakyti už [[#^s-0cd09d2ae8872403b92a1179|šio straipsnio 6 dalyje]] nurodytą kontrolę bei atlikti veiksmus, nurodytus šio straipsnio [[#^s-63e1b235ef0aecd5bf29ad32|7]] ir [[#^s-a1fe000377aab88dea30046b|8]] dalyse. ^s-5a273c4b950f6f558429a334
 
 
 6. Viešojo juridinio asmens vyriausiasis buhalteris (buhalteris) arba apskaitos tarnybos vadovas atsako už: ^s-0cd09d2ae8872403b92a1179
@@ -408,13 +408,13 @@ BAIGIAMOSIOS NUOSTATOS
 3. Įstatymo įsigaliojimas ir taikymas: ^s-5bb180cd89759adf98bc0e75
 
 
-1) šis Įstatymas, išskyrus [[#^s-206928e0383466665511dd5f|8 straipsnio 1 dalies 2 punktą]], [[#^s-e7d20168621cb2a5e55937d6|10 straipsnio 8 punktą]] ir [[#^s-d02611b2ab94fccfa303bf04|11 straipsnio 4 dalį]], įsigalioja nuo 2003 m. sausio 1 d.; ^s-028e047c84aa87b55c707888
+1) šis Įstatymas, išskyrus [[#^s-206928e0383466665511dd5f|8 straipsnio 1 dalies 2 punktą]], 10 straipsnio 8 punktą ir [[#^s-d02611b2ab94fccfa303bf04|11 straipsnio 4 dalį]], įsigalioja nuo 2003 m. sausio 1 d.; ^s-028e047c84aa87b55c707888
 
 
-2) šio Įstatymo [[#^s-206928e0383466665511dd5f|8 straipsnio 1 dalies 2 punktas]] ir [[#^s-e7d20168621cb2a5e55937d6|10 straipsnio 8 punktas]] įsigalioja nuo 2004 m. sausio 1 d.; ^s-05cd0c9819a03eea59c302dc
+2) šio Įstatymo [[#^s-206928e0383466665511dd5f|8 straipsnio 1 dalies 2 punktas]] ir 10 straipsnio 8 punktas įsigalioja nuo 2004 m. sausio 1 d.; ^s-05cd0c9819a03eea59c302dc
 
 
-3) šio Įstatymo [[#^s-0f2465276fac69cfdc0fe6c0|6 straipsnio]] 1, 2 ir [[#^s-d02611b2ab94fccfa303bf04|4 dalių]] nuostatos dėl vidaus audito tarnybos įsteigimo savivaldybių administracijose, joms pavaldžiuose ir jų valdymo sričiai priskirtuose viešuosiuose juridiniuose asmenyse ir [[#^s-e921767c0a84a354000f3ae1|10 straipsnio 7 punkto]] nuostata dėl savivaldybių administracijos vadovo atsakomybės už vidaus audito tarnybos įsteigimą viešajame juridiniame asmenyje ir jos veikimą taikomos nuo 2004 m. sausio 1 d.; ^s-f7c528623963e02cb458d676
+3) šio Įstatymo [[#^s-0f2465276fac69cfdc0fe6c0|6 straipsnio]] [[#^s-85c9694bda3b12740cda0919|1]], [[#^s-045dc6fc949230f463066177|2]] ir [[#^s-e40bef16ca14034f151a1aba|4]] dalių nuostatos dėl vidaus audito tarnybos įsteigimo savivaldybių administracijose, joms pavaldžiuose ir jų valdymo sričiai priskirtuose viešuosiuose juridiniuose asmenyse ir 10 straipsnio 7 punkto nuostata dėl savivaldybių administracijos vadovo atsakomybės už vidaus audito tarnybos įsteigimą viešajame juridiniame asmenyje ir jos veikimą taikomos nuo 2004 m. sausio 1 d.; ^s-f7c528623963e02cb458d676
 
 
 4) šis Įstatymas be išlygų taikomas visiems viešiesiems juridiniams asmenims, išskyrus Lietuvos banką. ^s-317fb077d7e45578c47a65c2

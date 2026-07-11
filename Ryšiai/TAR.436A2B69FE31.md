@@ -14,4 +14,4 @@ _Nėra._
 ## Šį įstatymą cituoja
 
 - [[latest/TAR.B4DBBD7C388A#^s-8440b83ca286d364b555f340|Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymas]] - 0971010ISTAVIII-394
-- [[latest/TAR.B4DBBD7C388A#^s-da6684e0fdf0964814dc23f2|Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymas]] - 3 citatos - 0971010ISTAVIII-394
+- [[latest/TAR.B4DBBD7C388A#^s-da6684e0fdf0964814dc23f2|Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymas]] - 2 citatos - 0971010ISTAVIII-394

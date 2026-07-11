@@ -89,13 +89,13 @@ Vilnius
 4. Pakeisti 4 straipsnio 11 dalį ir ją išdėstyti taip: ^s-5e5e4468878f30329af90ab0
 
 
-„11. Kaimo vietovėje žemė, kuri naudojama arba nuomojama fiziniams ir juridiniams asmenims, personalinėms įmonėms nuosavybės teise turimų pastatų ir statinių (statomų ar pastatytų), taip pat poilsiaviečių pastatų ir statinių (statomų ar pastatytų) eksploatacijai ir kuri pagal šio įstatymo 12 straipsnį nepriskirta valstybės išperkamai žemei, grąžinama natūra, nutraukiant žemės nuomos sutartis pagal Žemės nuomos įstatymą. Fiziniai ir juridiniai asmenys (pastatų ir statinių savininkai) šią žemę nuomoja ir už šią žemę savininkui moka Žemės nuomos įstatymo nustatyta tvarka valstybinės žemės nuomos mokesčio dydžio žemės nuomos mokestį. Šių žemės sklypų plotai ir ribos nustatomi žemės reformos žemėtvarkos projektuose.“
+„11. Kaimo vietovėje žemė, kuri naudojama arba nuomojama fiziniams ir juridiniams asmenims, personalinėms įmonėms nuosavybės teise turimų pastatų ir statinių (statomų ar pastatytų), taip pat poilsiaviečių pastatų ir statinių (statomų ar pastatytų) eksploatacijai ir kuri pagal šio įstatymo 12 straipsnį nepriskirta valstybės išperkamai žemei, grąžinama natūra, nutraukiant žemės nuomos sutartis pagal Žemės nuomos įstatymą. Fiziniai ir juridiniai asmenys (pastatų ir statinių savininkai) šią žemę nuomoja ir už šią žemę savininkui moka [Žemės nuomos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC) nustatyta tvarka valstybinės žemės nuomos mokesčio dydžio žemės nuomos mokestį. Šių žemės sklypų plotai ir ribos nustatomi žemės reformos žemėtvarkos projektuose.“
 
 
 5. Papildyti 4 straipsnį 12 dalimi: ^s-f446aa9e0e26b9d4b45b5994
 
 
-„12. Žemė, pertvarkyta į tvenkinius, grąžinama natūra piliečiams ribotam tiksliniam naudojimui (išskyrus tvenkinio užtvankos įrenginius, jeigu jie priskirti pavojingiems įrenginiams). Žemė, kurioje įrengti pramoniniai žuvininkystės tvenkiniai, grąžinama natūra piliečiams ribotam tiksliniam naudojimui, jeigu šios žemės savininkai sutinka sudaryti žemės nuomos sutartį su žuvininkystės tvenkinių naudotojais ne mažiau kaip 5 metams. Žuvininkystės tvenkinių naudotojai šiuos tvenkinius nuomoja ir už juos savininkui moka Žemės nuomos įstatymo nustatyta tvarka valstybinės žemės nuomos dydžio žemės nuomos mokestį. Jeigu pilietis atsisako imti pertvarkytą į tvenkinį žemės sklypą arba nesutinka sudaryti šios žemės nuomos sutarties su žuvininkystės tvenkinių naudotojais, ši žemė valstybės išperkama ir už ją atlyginama pagal šio įstatymo 16 straipsnį. Pramoninių žuvininkystės tvenkinių sąrašą ir plotus tvirtina Vyriausybė.“
+„12. Žemė, pertvarkyta į tvenkinius, grąžinama natūra piliečiams ribotam tiksliniam naudojimui (išskyrus tvenkinio užtvankos įrenginius, jeigu jie priskirti pavojingiems įrenginiams). Žemė, kurioje įrengti pramoniniai žuvininkystės tvenkiniai, grąžinama natūra piliečiams ribotam tiksliniam naudojimui, jeigu šios žemės savininkai sutinka sudaryti žemės nuomos sutartį su žuvininkystės tvenkinių naudotojais ne mažiau kaip 5 metams. Žuvininkystės tvenkinių naudotojai šiuos tvenkinius nuomoja ir už juos savininkui moka [Žemės nuomos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.19039F7CAEEC) nustatyta tvarka valstybinės žemės nuomos dydžio žemės nuomos mokestį. Jeigu pilietis atsisako imti pertvarkytą į tvenkinį žemės sklypą arba nesutinka sudaryti šios žemės nuomos sutarties su žuvininkystės tvenkinių naudotojais, ši žemė valstybės išperkama ir už ją atlyginama pagal šio įstatymo 16 straipsnį. Pramoninių žuvininkystės tvenkinių sąrašą ir plotus tvirtina Vyriausybė.“
 
 
 
@@ -121,7 +121,7 @@ Pakeisti ir papildyti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 1. Pakeisti ir papildyti [[#^s-03402bef9fd07eddcdc7888b|10 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-7c848e07a3b993b96caa6190
 
 
-„2. Piliečiai, neturėję teisės į nuosavybės teisių atkūrimą pagal Lietuvos Respublikos įstatymą „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ ir įgiję šią teisę pagal Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą, taip pat piliečiai, praleidę nustatytus terminus prašymams susigrąžinti nekilnojamąjį turtą paduoti, prašymus atkurti nuosavybės teises į nekilnojamąjį turtą pateikia Vyriausybės įgaliotai institucijai. Šių piliečių nuosavybės teisės į išlikusį nekilnojamąjį turtą atkuriamos, jeigu nuosavybės teisės į šį turtą neatkurtos kitiems šio įstatymo [[#^s-541f99ee571856c103fc18a2|2 straipsnyje]] nurodytiems asmenims [[#^s-7c848e07a3b993b96caa6190|šio straipsnio 1 dalyje]] nurodytais būdais, o nuosavybės teisės į žemę, mišką ir vandens telkinius natūra atkuriamos tik tuo atveju, kai patvirtintuose žemės reformos žemėtvarkos projektuose ši žemė, miškas ir vandens telkinys yra priskirti laisvos žemės fondui.“
+„2. Piliečiai, neturėję teisės į nuosavybės teisių atkūrimą pagal Lietuvos Respublikos įstatymą „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ ir įgiję šią teisę pagal Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą, taip pat piliečiai, praleidę nustatytus terminus prašymams susigrąžinti nekilnojamąjį turtą paduoti, prašymus atkurti nuosavybės teises į nekilnojamąjį turtą pateikia Vyriausybės įgaliotai institucijai. Šių piliečių nuosavybės teisės į išlikusį nekilnojamąjį turtą atkuriamos, jeigu nuosavybės teisės į šį turtą neatkurtos kitiems šio įstatymo [[#^s-541f99ee571856c103fc18a2|2 straipsnyje]] nurodytiems asmenims šio straipsnio 1 dalyje nurodytais būdais, o nuosavybės teisės į žemę, mišką ir vandens telkinius natūra atkuriamos tik tuo atveju, kai patvirtintuose žemės reformos žemėtvarkos projektuose ši žemė, miškas ir vandens telkinys yra priskirti laisvos žemės fondui.“
 
 
 2. Iš [[#^s-2d84792eddfac2ec4b4c8179|10 straipsnio 3 dalies]] išbraukti paskutinį sakinį ir šią dalį išdėstyti taip: ^s-53dea58ec22cbb8059ae0aab
@@ -137,7 +137,7 @@ Pakeisti ir papildyti 5 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 5 straipsnis. 12 straipsnio pakeitimas bei papildymas ^s-d3a5d16a1dc4ca0fa7544ca4
 
 
-Pakeisti 12 straipsnio 2 punktą, 7 punktą pripažinti netekusiu galios, buvusius 8 ir [[#^s-35ab7f7cbf5a82a651aa935f|9 punktus]] laikyti atitinkamai 7 ir [[#^s-ce94622b71e9727ea48fb276|8 punktais]], pakeisti [[#^s-ce94622b71e9727ea48fb276|8 punktą]], papildyti straipsnį naujais 9 ir [[#^s-21a8a4d936e5d9e7c9be9492|10 punktais]] ir visus šiuos punktus išdėstyti taip:
+Pakeisti 12 straipsnio 2 punktą, 7 punktą pripažinti netekusiu galios, buvusius 8 ir 9 punktus laikyti atitinkamai 7 ir 8 punktais, pakeisti [[#^s-ce94622b71e9727ea48fb276|8 punktą]], papildyti straipsnį naujais [[#^s-35ab7f7cbf5a82a651aa935f|9]] ir [[#^s-21a8a4d936e5d9e7c9be9492|10]] punktais ir visus šiuos punktus išdėstyti taip:
 
 
 „2) kaimo vietovėje ir po 1995 m. birželio 1 d. miestams priskirtoje teritorijoje pagal įstatymus yra užimta: namų valdų (sodybų) sklypų; valstybinių įstaigų ir organizacijų bei visuomeninės paskirties pastatams ir įrenginiams (statomiems arba pastatytiems) eksploatuoti reikalingų sklypų, išskyrus poilsiaviečių pastatų ir statinių užimtus žemės sklypus; kitų visuomenės poreikiams naudojamų teritorijų (gatvių, aikščių, skverų, kapinių, vandenviečių, paplūdimių ir kt.); yra suteikta individualių gyvenamųjų namų statybai. Šių žemės sklypų (teritorijų) plotai ir ribos nustatomi žemėtvarkos projektuose;“
@@ -176,7 +176,7 @@ Pakeisti 12 straipsnio 2 punktą, 7 punktą pripažinti netekusiu galios, buvusi
 ### 8 straipsnis. 16 straipsnio 5–10 dalių pakeitimas ir papildymas ^s-7b28e5c55bec53e87ec4f780
 
 
-1. Pakeisti ir papildyti 16 straipsnio 5 dalį, ją išskirti į šias 5 ir [[#^s-0d8126c223f051486bb4e2c5|6 dalis]]: ^s-7db5b8f76477f97a4cf41658
+1. Pakeisti ir papildyti 16 straipsnio 5 dalį, ją išskirti į šias 5 ir 6 dalis: ^s-7db5b8f76477f97a4cf41658
 
 
 „5. Žemė, kurios susigrąžinti natūra turėtoje vietoje piliečiai nepageidauja, jiems gali būti grąžinama perduodant nuosavybėn lygiavertį turėtajam žemės sklypą iš laisvos žemės fondo pagal Žemės reformos įstatyme piliečiams nustatytą žemės plotų įsigijimo eiliškumą, taip pat perduodamas nuosavybėn neatlygintinai jo naudojamas lygiavertis žemės sklypas prie nuosavybės teise turimų pastatų.
@@ -229,7 +229,7 @@ Pakeisti 12 straipsnio 2 punktą, 7 punktą pripažinti netekusiu galios, buvusi
 ### 10 straipsnis. 20 straipsnio pakeitimas ir papildymas ^s-19cf25d7a6acc0ad3803585b
 
 
-20 straipsnio pavadinimo pirmajame sakinyje po žodžio „nuomininkams“ įrašyti žodžius „ir savininkams“, [[#^s-85f69d7a663ec14ec12b7c2d|1 dalyje]] vietoj žodžių „nuomininkui suteiks kitą gyvenamąją patalpą arba kitaip su juo atsiskaitys šiame įstatyme nurodytais būdais“ įrašyti žodžius „įvykdys jiems suteiktas garantijas“, pakeisti 3 ir [[#^s-4e100bffc9f0a5ab1a66f329|4 dalis]], papildyti straipsnį nauja [[#^s-cd98c0a10ccf3e7b47fd2f63|5 dalimi]], [[#^s-86a46fad0ac823ef6a0c52db|6 dalį]] pripažinti netekusia galios, buvusią [[#^s-cd98c0a10ccf3e7b47fd2f63|5 dalį]] laikyti [[#^s-86a46fad0ac823ef6a0c52db|6 dalimi]] ir visą straipsnį išdėstyti taip:
+20 straipsnio pavadinimo pirmajame sakinyje po žodžio „nuomininkams“ įrašyti žodžius „ir savininkams“, [[#^s-85f69d7a663ec14ec12b7c2d|1 dalyje]] vietoj žodžių „nuomininkui suteiks kitą gyvenamąją patalpą arba kitaip su juo atsiskaitys šiame įstatyme nurodytais būdais“ įrašyti žodžius „įvykdys jiems suteiktas garantijas“, pakeisti [[#^s-2d84792eddfac2ec4b4c8179|3]] ir [[#^s-4e100bffc9f0a5ab1a66f329|4]] dalis, papildyti straipsnį nauja [[#^s-cd98c0a10ccf3e7b47fd2f63|5 dalimi]], [[#^s-86a46fad0ac823ef6a0c52db|6 dalį]] pripažinti netekusia galios, buvusią [[#^s-cd98c0a10ccf3e7b47fd2f63|5 dalį]] laikyti [[#^s-86a46fad0ac823ef6a0c52db|6 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 „20 straipsnis.     Valstybės garantijos gyvenamųjų namų, jų dalių, butų nuomininkams ir savininkams. Nuomininkų ir savininkų teisės ir pareigos
@@ -244,7 +244,7 @@ Pakeisti 12 straipsnio 2 punktą, 7 punktą pripažinti netekusiu galios, buvusi
 3. Institucija, priimanti sprendimą grąžinti piliečiui natūra gyvenamąjį namą, jo dalį, butą, privalo juose gyvenantiems nuomininkams išduoti valstybės garantinį dokumentą. Toks garantinis dokumentas išduodamas ir grąžinamo namo, jo dalies, buto savininkui. Valstybės garantijas, jų įvykdymą, garantijų turėtojų teises ir pareigas nustato [[latest/TAR.542D2FA3CA61|Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymas]]. ^s-2d84792eddfac2ec4b4c8179
 
 
-4. Nuomininkai, gyvenantys piliečiui natūra grąžinamame gyvenamajame name, jo dalyje ar bute, per 3 mėnesius nuo institucijos, nurodytos šio įstatymo 17 straipsnio 2 dalyje, pranešimo gavimo dienos privalo raštiškai pareikšti savo valią dėl [[latest/TAR.542D2FA3CA61|Kompensacijų už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme, įstatymo]] numatytos valstybės garantijos. Nuomininkams, per šį laiką nepareiškusiems savo valios dėl nurodytame įstatyme numatytos valstybės garantijos, ją savo nuožiūra nustato šio įstatymo 17 straipsnio 2 dalyje nurodyta institucija. ^s-4e100bffc9f0a5ab1a66f329
+4. Nuomininkai, gyvenantys piliečiui natūra grąžinamame gyvenamajame name, jo dalyje ar bute, per 3 mėnesius nuo institucijos, nurodytos šio įstatymo 17 straipsnio 2 dalyje, pranešimo gavimo dienos privalo raštiškai pareikšti savo valią [dėl Kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) už valstybės išperkamą nekilnojamąjį turtą dydžio, šaltinių, mokėjimo terminų bei tvarkos, taip pat garantijų ir lengvatų, numatytų [[latest/TAR.8A16A03D98D4|Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatyme]], įstatymo numatytos valstybės garantijos. Nuomininkams, per šį laiką nepareiškusiems savo valios dėl nurodytame įstatyme numatytos valstybės garantijos, ją savo nuožiūra nustato šio įstatymo 17 straipsnio 2 dalyje nurodyta institucija. ^s-4e100bffc9f0a5ab1a66f329
 
 
 5. Jeigu gyvenamojo namo savininkas parduoda sugrąžintą gyvenamąjį namą, jo dalį, butą, nuomininkai turi pirmenybės teisę jį pirkti Civilinio kodekso 125 straipsnyje nustatyta tvarka ir sąlygomis. ^s-cd98c0a10ccf3e7b47fd2f63
@@ -253,7 +253,7 @@ Pakeisti 12 straipsnio 2 punktą, 7 punktą pripažinti netekusiu galios, buvusi
 6. Nuomininkai, likę gyventi gyvenamuosiuose namuose, jų dalyse, butuose, kurių savininkai nenori susigrąžinti, įgyja teisę išsipirkti šias patalpas Vyriausybės nustatyta tvarka per šešis mėnesius nuo sprendimo dėl gyvenamojo namo, jo dalies, buto teisinės registracijos valstybės ar savivaldybės vardu įregistravimo Nekilnojamojo turto registre. ^s-86a46fad0ac823ef6a0c52db
 
 
-7. Šio straipsnio 1 ir [[#^s-03402bef9fd07eddcdc7888b|2 dalių]] nuostatos galioja ir pasikeitus namo, namo dalies, buto savininkui.“ ^s-0be5b67bd4d0f3d47a5e841a
+7. Šio straipsnio [[#^s-85f69d7a663ec14ec12b7c2d|1]] ir [[#^s-03402bef9fd07eddcdc7888b|2]] dalių nuostatos galioja ir pasikeitus namo, namo dalies, buto savininkui.“ ^s-0be5b67bd4d0f3d47a5e841a
 
 
 

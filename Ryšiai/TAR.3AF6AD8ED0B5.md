@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.4325B0C38B2F#^s-0f293cf075915aa864230fb7|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas]] - 2 citatos - NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 6, 26 IR 27 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.4325B0C38B2F#^s-0f293cf075915aa864230fb7|Lietuvos Respublikos nelaimingų atsitikimų darbe ir profesinių ligų socialinio draudimo įstatymas]] - NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 6, 26 IR 27 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

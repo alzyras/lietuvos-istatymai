@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-1e469b389ef0039bd0744b81
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. gruodžio 24 d. dekretą Nr. 1151, ratifikuoja Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutartį, pasirašytą 1996 m. lapkričio 27 d. Bratislavoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [1996 m. gruodžio 24 d. dekretą Nr. 1151](https://e-tar.lt/portal/lt/legalAct/TAR.EBEA20766D5D), ratifikuoja Lietuvos Respublikos ir Slovakijos Respublikos laisvosios prekybos sutartį, pasirašytą 1996 m. lapkričio 27 d. Bratislavoje.
 
 
 

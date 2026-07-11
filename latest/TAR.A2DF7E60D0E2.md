@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos pakeitimo ratifikavimas ^s-e2b6be80fa1a6f9bfa16ef5c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio l dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. gruodžio 10 d. dekretą Nr. 1K-1195, ratifikuoja 2005 m. liepos 8 d. Vienoje priimtą Branduolinių medžiagų fizinės saugos konvencijos pakeitimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio l dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. gruodžio 10 d. dekretą Nr. 1K-1195](https://e-tar.lt/portal/lt/legalAct/TAR.CE8343666027), ratifikuoja 2005 m. liepos 8 d. Vienoje priimtą Branduolinių medžiagų fizinės saugos konvencijos pakeitimą.
 
 
 

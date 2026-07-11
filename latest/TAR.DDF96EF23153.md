@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-979b2e348af09ee0b28d0ade
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. liepos 25 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Tarptautinio rekonstrukcijos ir plėtros banko sutartį dėl 6,2 mln. JAV dolerių paskolos Šiaulių aplinkosaugos projektui finansuoti“, ratifikuoja Lietuvos Respublikos ir Tarptautinio rekonstrukcijos ir plėtros banko sutartį dėl 6,2 mln. JAV dolerių paskolos Šiaulių aplinkosaugos projektui finansuoti.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. liepos 25 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Tarptautinio rekonstrukcijos ir plėtros banko sutartį dėl 6,2 mln. JAV dolerių paskolos Šiaulių aplinkosaugos projektui finansuoti“](https://e-tar.lt/portal/lt/legalAct/TAR.EB6D234D642E), ratifikuoja Lietuvos Respublikos ir Tarptautinio rekonstrukcijos ir plėtros banko sutartį dėl 6,2 mln. JAV dolerių paskolos Šiaulių aplinkosaugos projektui finansuoti.
 
 
 

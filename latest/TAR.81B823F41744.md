@@ -198,7 +198,7 @@ Pakeisti bei papildyti 9 straipsnį ir jį išdėstyti taip:
 ### 4 straipsnis. 23 straipsnio papildymas ir pakeitimas ^s-4fa1d1d0d4c3a9e08406061d
 
 
-1. Papildyti 23 straipsnį nauja [[#^s-278c2fcf90376d8af8dbddfd|1 dalimi]]: ^s-278c2fcf90376d8af8dbddfd
+1. Papildyti 23 straipsnį nauja 1 dalimi: ^s-278c2fcf90376d8af8dbddfd
 
 
 „1. Prekiauti antikvariniais daiktais galima tik gavus Kultūros vertybių apsaugos departamento išduotą licenciją (leidimą). Licencijų (leidimų) išdavimo tvarką nustato Vyriausybė arba jos įgaliota institucija.“

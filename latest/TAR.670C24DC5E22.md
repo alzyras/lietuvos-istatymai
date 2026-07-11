@@ -57,7 +57,7 @@ Vilnius
 3. Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip: ^s-b6fcfd43f0c2abb07f5db772
 
 
-„8. Veiklos vietos registracijos pažymėjimas (registracijos pažymėjimas) – Narkotikų, tabako ir alkoholio kontrolės departamento išduotas dokumentas, suteikiantis teisę jį turinčiam subjektui vykdyti veiklą nurodytu (nurodytais) adresu (adresais), susijusią su antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir Reglamento (EB) Nr. 1277/2005 nustatytais atvejais.“
+„8. Veiklos vietos registracijos pažymėjimas (registracijos pažymėjimas) – Narkotikų, tabako ir alkoholio kontrolės departamento išduotas dokumentas, suteikiantis teisę jį turinčiam subjektui vykdyti veiklą nurodytu (nurodytais) adresu (adresais), susijusią su antros ir (arba) trečios kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais) Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir [Reglamento (EB) Nr. 1277/2005](https://eur-lex.europa.eu/eli/reg/1277/2005/oj) nustatytais atvejais.“
 
 
 
@@ -71,7 +71,7 @@ Pakeisti [[#^s-b7520e3448fbb2d1656624da|3 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-b7520e3448fbb2d1656624da|3 straipsnis]]. Veiklos, susijusios su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), licencijavimas
 
 
-1. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 ir Lietuvos Respublikos Vyriausybės nustatytais pagrindais ir tvarka veiklai, susijusiai su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), išduoda licencijas ir specialiąsias licencijas, sustabdo jų galiojimą, tikslina specialiąsias licencijas, panaikina licencijų ir specialiųjų licencijų galiojimo sustabdymą ir jų galiojimą. ^s-0100b4148fde59be690e38a9
+1. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, [Reglamento (EB) Nr. 1277/2005](https://eur-lex.europa.eu/eli/reg/1277/2005/oj) ir Lietuvos Respublikos Vyriausybės nustatytais pagrindais ir tvarka veiklai, susijusiai su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), išduoda licencijas ir specialiąsias licencijas, sustabdo jų galiojimą, tikslina specialiąsias licencijas, panaikina licencijų ir specialiųjų licencijų galiojimo sustabdymą ir jų galiojimą. ^s-0100b4148fde59be690e38a9
 
 
 2. Prieš priimdami sprendimą išduoti licenciją ar specialiąją licenciją, Narkotikų, tabako ir alkoholio kontrolės departamento valstybės tarnautojai, atliekantys kontrolės veiksmus, turi nuvykti į subjekto veiklos vietą ir patikrinti, ar subjektas teisės aktų nustatyta tvarka yra pasirengęs vykdyti veiklą, susijusią su pirmos kategorijos narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais). ^s-bc3edc4bc0c5a02fd8ff629d
@@ -87,7 +87,7 @@ Pakeisti [[#^s-b7520e3448fbb2d1656624da|3 straipsnį]] ir jį išdėstyti taip:
 1. 4 straipsnio 2 dalyje vietoj žodžių „Narkotikų kontrolės departamentas“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas“ ir šią dalį išdėstyti taip: ^s-d173f04049b000f949e6b02f
 
 
-„2. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 ir Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda veiklos vietos registracijos pažymėjimus, tikslina, sustabdo jų galiojimą, panaikina registracijos pažymėjimų galiojimo sustabdymą ir jų galiojimą.“
+„2. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005, [Reglamento (EB) Nr. 1277/2005](https://eur-lex.europa.eu/eli/reg/1277/2005/oj) ir Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda veiklos vietos registracijos pažymėjimus, tikslina, sustabdo jų galiojimą, panaikina registracijos pažymėjimų galiojimo sustabdymą ir jų galiojimą.“
 
 
 2. 4 straipsnio 3 dalyje vietoj žodžių „Narkotikų kontrolės departamento“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamento“ ir šią dalį išdėstyti taip: ^s-6b0aaa1278776404d8c89eda
@@ -103,7 +103,7 @@ Pakeisti [[#^s-b7520e3448fbb2d1656624da|3 straipsnį]] ir jį išdėstyti taip:
 [[#^s-49470199f8eb67098b7273cc|5 straipsnio 2 dalyje]] vietoj žodžių „Narkotikų kontrolės departamentas“ įrašyti žodžius „Narkotikų, tabako ir alkoholio kontrolės departamentas“ ir šią dalį išdėstyti taip:
 
 
-„2. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 111/2005, Reglamento (EB) Nr. 1277/2005 ir Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda importo arba eksporto leidimus, sustabdo jų galiojimą, panaikina importo arba eksporto leidimų galiojimo sustabdymą, pratęsia ir panaikina jų galiojimą.“
+„2. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 111/2005, [Reglamento (EB) Nr. 1277/2005](https://eur-lex.europa.eu/eli/reg/1277/2005/oj) ir Lietuvos Respublikos Vyriausybės nustatyta tvarka išduoda importo arba eksporto leidimus, sustabdo jų galiojimą, panaikina importo arba eksporto leidimų galiojimo sustabdymą, pratęsia ir panaikina jų galiojimą.“
 
 
 
@@ -164,7 +164,7 @@ Pakeisti [[#^s-d26d9fe0afc9ceb9e22716df|7 straipsnį]] ir jį išdėstyti taip:
 1. Narkotikų, tabako ir alkoholio kontrolės departamentas teisės aktų nustatyta tvarka vykdo veiklos, susijusios su narkotinių ir psichotropinių medžiagų pirmtakais (prekursoriais), stebėseną ir teikia su šia veikla susijusius duomenis (informaciją). ^s-9682f66c634df99d1d22d8aa
 
 
-2. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir Reglamento (EB) Nr. 1277/2005 nustatytais atvejais teikia informaciją Europos Komisijai. ^s-bc5f54e1a5db814688870a41
+2. Narkotikų, tabako ir alkoholio kontrolės departamentas Reglamento (EB) Nr. 273/2004, Reglamento (EB) Nr. 111/2005 ir [Reglamento (EB) Nr. 1277/2005](https://eur-lex.europa.eu/eli/reg/1277/2005/oj) nustatytais atvejais teikia informaciją Europos Komisijai. ^s-bc5f54e1a5db814688870a41
 
 
 3. Aplinkos, Ūkio, Socialinės apsaugos ir darbo, Vidaus reikalų, Sveikatos apsaugos ministerijos ar jų įgaliotos institucijos, Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos ar jo įgaliotos muitinės įstaigos pagal kompetenciją teisės aktų nustatyta tvarka teikia Narkotikų, tabako ir alkoholio kontrolės departamentui informaciją, reikalingą narkotinių ir psichotropinių medžiagų pirmtakų (prekursorių) kontrolei ir stebėsenai vykdyti.“ ^s-d924bb081d708c7f40237b89

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-214daa336066c4ed81339627
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Turkijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo karinio mokymo srityje“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Turkijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo karinio mokymo srityje, pasirašytą 1999 m. kovo 19 d. Ankaroje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. spalio 8 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Turkijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo karinio mokymo srityje“](https://e-tar.lt/portal/lt/legalAct/TAR.938D2DF9E282), ratifikuoja Lietuvos Respublikos Vyriausybės ir Turkijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo karinio mokymo srityje, pasirašytą 1999 m. kovo 19 d. Ankaroje.
 
 
 

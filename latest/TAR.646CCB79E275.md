@@ -100,7 +100,7 @@ Mobilizacija gali būti visuotinė arba dalinė. Visuotinė mobilizacija aprėpi
 7) užtikrina kariuomenės mobilizacinių atsargų kaupimą, paskirstymą, išdėstymą, saugojimą ir aptarnavimą;“. ^s-c2ebc9fd42e7ea106c8d31d4
 
 
-3. Pakeisti 6 straipsnio 6 dalies 1 punktą, iš 3 ir [[#^s-643b97b5e2031e8745ec0af2|4 punktų]] išbraukti žodžius „ir iš jos į atsargą išėjusių“, iš 7 punkto išbraukti žodžius „ir ją realizuoja“ ir šiuos punktus išdėstyti taip: ^s-3e0f7da4dd4f20ef7abf657b
+3. Pakeisti 6 straipsnio 6 dalies 1 punktą, iš 3 ir 4 punktų išbraukti žodžius „ir iš jos į atsargą išėjusių“, iš 7 punkto išbraukti žodžius „ir ją realizuoja“ ir šiuos punktus išdėstyti taip: ^s-3e0f7da4dd4f20ef7abf657b
 
 
 „1) tvarko vidaus reikalų sistemoje dirbančių, taip pat mobilizacinio plano priemonėms įgyvendinti pasirinktų karo prievolininkų apskaitą;“

@@ -88,7 +88,7 @@ Vilnius
 9. Pakeisti 2 straipsnio 63 dalį ir ją išdėstyti taip: ^s-e7438d2497f81963ce7fc27e
 
 
-„63. Vaistinio preparato rinkodaros pažymėjimo sąlygų keitimas (toliau – rinkodaros pažymėjimo sąlygų keitimas) – keitimas, kaip nurodyta 2008 m. lapkričio 24 d. Europos Komisijos reglamento (EB) Nr. 1234/2008 dėl žmonėms skirtų vaistų ir veterinarinių vaistų rinkodaros pažymėjimų sąlygų keitimo nagrinėjimo su paskutiniais pakeitimais (toliau – Reglamentas (EB) Nr. 1234/2008) [[#^s-26a5525974b6898b97987bf8|2 straipsnio 1 dalyje]] (toliau – reglamentinis rinkodaros pažymėjimo sąlygų keitimas, reglamentinis keitimas), arba prie šio keitimo nepriskiriamas rinkodaros pažymėjimo sąlygų keitimas, nustatytas sveikatos apsaugos ministro.“
+„63. Vaistinio preparato rinkodaros pažymėjimo sąlygų keitimas (toliau – rinkodaros pažymėjimo sąlygų keitimas) – keitimas, kaip nurodyta 2008 m. lapkričio 24 d. Europos Komisijos [reglamento (EB) Nr. 1234/2008](https://eur-lex.europa.eu/eli/reg/1234/2008/oj) dėl žmonėms skirtų vaistų ir veterinarinių vaistų rinkodaros pažymėjimų sąlygų keitimo nagrinėjimo su paskutiniais pakeitimais (toliau – [Reglamentas (EB) Nr. 1234/2008](https://eur-lex.europa.eu/eli/reg/1234/2008/oj)) [[#^s-26a5525974b6898b97987bf8|2 straipsnio 1 dalyje]] (toliau – reglamentinis rinkodaros pažymėjimo sąlygų keitimas, reglamentinis keitimas), arba prie šio keitimo nepriskiriamas rinkodaros pažymėjimo sąlygų keitimas, nustatytas sveikatos apsaugos ministro.“
 
 
 10. Papildyti 2 straipsnį 691 dalimi: ^s-ae0031dc832e6e24dbc858f8
@@ -134,7 +134,7 @@ Vilnius
 2. Pakeisti 8 straipsnio 14 dalį ir ją išdėstyti taip: ^s-5fda62083b8a578b9f8608b0
 
 
-„14. Lietuvos Respublikos muitinės įstaigos, vadovaudamosi Europos Sąjungos teisės aktais, turi imtis priemonių, kad dėl muitinės prižiūrimų vaistinių preparatų, kurie įvežti į Europos Sąjungą, bet neskirti jos rinkai, nebūtų forminami 1992 m. spalio 12 d. Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą (OL 2004 m., specialusis leidimas, 2 skyrius, 4 tomas, p. 307), (su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20 d. Tarybos reglamentu (EB) Nr. 1791/2006) 4 straipsnio 15 dalies c punkte ir (ar) 16 dalies b punkte nurodyti muitinės sankcionuoti veiksmai ir (ar) muitinės procedūros, jeigu yra pakankamas pagrindas manyti, kad šie vaistiniai preparatai yra falsifikuoti. Valstybinė vaistų kontrolės tarnyba pagal kompetenciją Lietuvos Respublikos muitinei turi suteikti ekspertinę pagalbą dėl įtariamų falsifikuotų vaistinių preparatų nustatymo.“
+„14. Lietuvos Respublikos muitinės įstaigos, vadovaudamosi Europos Sąjungos teisės aktais, turi imtis priemonių, kad dėl muitinės prižiūrimų vaistinių preparatų, kurie įvežti į Europos Sąjungą, bet neskirti jos rinkai, nebūtų forminami 1992 m. spalio 12 d. Tarybos [reglamento (EEB) Nr. 2913/92](https://eur-lex.europa.eu/eli/reg/2913/92/oj), nustatančio Bendrijos muitinės kodeksą (OL 2004 m., specialusis leidimas, 2 skyrius, 4 tomas, p. 307), (su paskutiniais pakeitimais, padarytais 2006 m. lapkričio 20 d. Tarybos [reglamentu (EB) Nr. 1791/2006](https://eur-lex.europa.eu/eli/reg/1791/2006/oj)) 4 straipsnio 15 dalies c punkte ir (ar) 16 dalies b punkte nurodyti muitinės sankcionuoti veiksmai ir (ar) muitinės procedūros, jeigu yra pakankamas pagrindas manyti, kad šie vaistiniai preparatai yra falsifikuoti. Valstybinė vaistų kontrolės tarnyba pagal kompetenciją Lietuvos Respublikos muitinei turi suteikti ekspertinę pagalbą dėl įtariamų falsifikuotų vaistinių preparatų nustatymo.“
 
 
 3. Papildyti 8 straipsnio 15 dalį 3 punktu: ^s-ce5ab253bac1562bb22d2ff2
@@ -445,7 +445,7 @@ DIDMENINIS VAISTINIŲ PREPARATŲ PLATINIMAS IR VAISTINIŲ PREPARATŲ PREKYBOS TA
 ### 17 straipsnis. 33 straipsnio pakeitimas ir papildymas ^s-5ec17e6afc486da0c6a182cd
 
 
-Pakeisti ir papildyti 33 straipsnio 1 dalį, straipsnį papildyti 2, 3 ir [[#^s-b4cd6ae29b3604bb12f727d4|4 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti ir papildyti 33 straipsnio 1 dalį, straipsnį papildyti 2, 3 ir 4 dalimis ir visą straipsnį išdėstyti taip:
 
 
 
@@ -476,7 +476,7 @@ Pakeisti ir papildyti 33 straipsnio 1 dalį, straipsnį papildyti 2, 3 ir [[#^s-
 7) platinti tik tokius vaistinius preparatus ar jų grupes, kurie laikomi patalpose, atitinkančiose licencijoje ir jos dokumentuose nurodytas laikymo sąlygas; ^s-ccab802414eb5b9efdb45880
 
 
-8) tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus ir šio įstatymo [[#^s-bcd39254528819e737a4de1d|8 straipsnio]] 3, 5 dalyse nustatytais atvejais neregistruotus vaistinius preparatus; ^s-50b1e19015687d0b9390a79e
+8) tiekti Lietuvos Respublikos rinkai registruotus vaistinius preparatus ir šio įstatymo [[#^s-bcd39254528819e737a4de1d|8 straipsnio]] [[#^s-a9ce9e5daba8f39c42543c9c|3]], [[#^s-f454afa51803da40eeadec46|5]] dalyse nustatytais atvejais neregistruotus vaistinius preparatus; ^s-50b1e19015687d0b9390a79e
 
 
 9) tiekti vaistinius preparatus tik asmenims, kurie turi didmeninio platinimo, vaistinės veiklos ir (ar) asmens sveikatos priežiūros veiklos licencijas, arba kitos EEE valstybės asmenims pagal tos valstybės teisės aktus; ^s-73b2c4daeddcbbd0e0ec2575
@@ -698,7 +698,7 @@ VALSTYBINĖ VEIKLOS SU FARMACIJOS PRODUKTAIS PRIEŽIŪRA
 ### 61 straipsnis. Valstybinės veiklos su farmacijos produktais priežiūros vykdomasis subjektas ir reguliavimas ^s-372653c5a3e89f1e09f27d78
 
 
-1. Šiuo įstatymu nustatytos veiklos su farmacijos produktais valstybinę priežiūrą vykdo Valstybinė vaistų kontrolės tarnyba, kuri taip pat atlieka Reglamento (EB) Nr. 726/2004 18 ir [[#^s-93debc1c5d4e404e590232e9|19 straipsniuose]] nustatytas žmonėms skirtų vaistų priežiūros institucijos pareigas. ^s-c4008ec20fe42d86268eda21
+1. Šiuo įstatymu nustatytos veiklos su farmacijos produktais valstybinę priežiūrą vykdo Valstybinė vaistų kontrolės tarnyba, kuri taip pat atlieka Reglamento (EB) Nr. 726/2004 [[#^s-d69b85d3abdd9960cb10d870|18]] ir [[#^s-93debc1c5d4e404e590232e9|19]] straipsniuose nustatytas žmonėms skirtų vaistų priežiūros institucijos pareigas. ^s-c4008ec20fe42d86268eda21
 
 
 2. Veiklos su farmacijos produktais valstybinė priežiūra turi būti vykdoma vadovaujantis šiuo įstatymu, jo įgyvendinamaisiais teisės aktais ir Europos Sąjungos teisės aktais taip, kad būtų laikomasi Europos Sąjungos farmacijos produktų srityje taikomų suderintų priežiūros principų ir patikrinimų rezultatai būtų pripažįstami kitose EEE valstybėse. ^s-a9110360d0b315e7c75d4ad8
@@ -716,7 +716,7 @@ VALSTYBINĖ VEIKLOS SU FARMACIJOS PRODUKTAIS PRIEŽIŪRA
 6. Valstybinė vaistų kontrolės tarnyba turi užtikrinti, kad patikrinimus atliekantys inspektoriai būtų sistemingai mokomi, kad turėtų reikiamų žinių ir praktinio darbo patirties numatytiems patikrinimams tinkamai atlikti. Jiems turi būti sudarytos sąlygos reguliariai kelti savo kvalifikaciją, atsižvelgiant į pavestą tikrinti veiklos su farmacijos produktais sritį. ^s-4752d2af92aac665258d3b3b
 
 
-7. Geros gamybos praktikos inspektorių, atliekančių šio įstatymo [[#^s-e02726a5720f25291b7ee9f9|62 straipsnio 3 dalies]] 3, 4 punktuose ir [[#^s-a883d986d3f5ed1d71bf62d7|4 dalies]] 1, 2, 4, 7 punktuose nurodytus patikrinimus trečiosiose šalyse, komandiruočių išlaidas (kelionės į užsienio šalį ir iš jos išlaidas, kelionės draudimo ir medicinines išlaidas, vizas, apgyvendinimo išlaidas, dienpinigius), vadovaujantis šalių (tikrinamo subjekto ir Valstybinės vaistų kontrolės tarnybos) sudarytais susitarimais, atlygina tikrinami subjektai, kai patikrinimai atliekami gavus jų prašymus. ^s-34aafcda5abf7bd8ff5de122
+7. Geros gamybos praktikos inspektorių, atliekančių šio įstatymo [[#^s-e02726a5720f25291b7ee9f9|62 straipsnio 3 dalies]] [[#^s-7136b6134def6d6dd5b913d1|3]], [[#^s-819694016119660ea4718303|4]] punktuose ir [[#^s-a883d986d3f5ed1d71bf62d7|4 dalies]] [[#^s-68478a7c51720185cc6b9d62|1]], [[#^s-8d8785cff2d2accc7f6d45ce|2]], [[#^s-819694016119660ea4718303|4]], [[#^s-9341577c4f0656329ed6c49e|7]] punktuose nurodytus patikrinimus trečiosiose šalyse, komandiruočių išlaidas (kelionės į užsienio šalį ir iš jos išlaidas, kelionės draudimo ir medicinines išlaidas, vizas, apgyvendinimo išlaidas, dienpinigius), vadovaujantis šalių (tikrinamo subjekto ir Valstybinės vaistų kontrolės tarnybos) sudarytais susitarimais, atlygina tikrinami subjektai, kai patikrinimai atliekami gavus jų prašymus. ^s-34aafcda5abf7bd8ff5de122
 
 
 8. Jeigu Valstybinė vaistų kontrolės tarnyba neturi reikiamos kvalifikacijos geros gamybos praktikos, geros platinimo praktikos, geros klinikinės praktikos ar geros farmakologinio budrumo praktikos inspektorių atitinkamiems patikrinimams atlikti, gali būti pasitelkiami atitinkami kitų EEE valstybių žmonėms skirtų vaistų priežiūros institucijų inspektoriai pagal sutartis su tomis institucijomis. ^s-fc9fb0f8fcf0caceaf5f574d
@@ -850,7 +850,7 @@ VALSTYBINĖ VEIKLOS SU FARMACIJOS PRODUKTAIS PRIEŽIŪRA
 3. Patikrinimo metu inspektoriai turi įvertinti nustatomų trūkumų ir pažeidimų poveikį ir grėsmę visuomenės sveikatai ir, jeigu reikia, sveikatos apsaugos ministro nustatyta tvarka nedelsdami imtis atitinkamų veiksmų ar atlikti kitus būtinus veiksmus. Nustatę, kad yra nusikalstamos veikos ar kitų teisės aktų pažeidimų, kurių tyrimas nepriklauso jų kompetencijai, požymių, apie juos privalo informuoti teisėsaugos arba atitinkamas kontroliuojančias įstaigas ar institucijas. ^s-c23f22ea80d9f3eb2c591f5d
 
 
-4. Kitiems Valstybinės vaistų kontrolės tarnybos darbuotojams, įgaliotiems vykdyti priežiūrą, mutatis mutandis taikomos šio straipsnio 1, 2 ir [[#^s-c23f22ea80d9f3eb2c591f5d|3 dalių]] nuostatos. ^s-69cae4a84ed417e188576a06
+4. Kitiems Valstybinės vaistų kontrolės tarnybos darbuotojams, įgaliotiems vykdyti priežiūrą, mutatis mutandis taikomos šio straipsnio [[#^s-4a7d8fe996cd7c58d38b3a39|1]], [[#^s-7c0af4d285672cacc40bd782|2]] ir [[#^s-c23f22ea80d9f3eb2c591f5d|3]] dalių nuostatos. ^s-69cae4a84ed417e188576a06
 
 
 5. Draudžiama daryti finansinę ar kitokią įtaką inspektoriams ir kitiems Valstybinės vaistų kontrolės tarnybos darbuotojams, įgaliotiems vykdyti priežiūrą, dėl jų daromų patikrinimų išvadų ir (ar) [[#^s-c23f22ea80d9f3eb2c591f5d|šio straipsnio 3 dalyje]] numatytų veiksmų taikymo. Asmenys, pažeidę šias nuostatas, atsako teisės aktų nustatyta tvarka. ^s-f65d5bba8cc2caab47af0636
@@ -957,7 +957,7 @@ Papildyti 73 straipsnį 20 dalimi:
 2. Pakeisti Įstatymo priedo 9 punktą ir jį išdėstyti taip: ^s-162fdbfd02f5dbae5e69b8ea
 
 
-„9. 2008 m. lapkričio 24 d. Europos Komisijos reglamentas (EB) Nr. 1234/2008 dėl žmonėms skirtų vaistų ir veterinarinių vaistų rinkodaros pažymėjimų sąlygų keitimo nagrinėjimo (tekstas svarbus EEE) (OL 2008 L 334, p. 7) su paskutiniais pakeitimais.“
+„9. 2008 m. lapkričio 24 d. Europos Komisijos [reglamentas (EB) Nr. 1234/2008](https://eur-lex.europa.eu/eli/reg/1234/2008/oj) dėl žmonėms skirtų vaistų ir veterinarinių vaistų rinkodaros pažymėjimų sąlygų keitimo nagrinėjimo (tekstas svarbus EEE) (OL 2008 L 334, p. 7) su paskutiniais pakeitimais.“
 
 
 
@@ -967,31 +967,31 @@ Papildyti 73 straipsnį 20 dalimi:
 1. Šis įstatymas, išskyrus [[#^s-176f3a59593ec0c7114f674e|šio straipsnio 11 dalį]], įsigalioja 2013 m. liepos 1 d. ^s-7cf824f887c0ecba3f5c7c7d
 
 
-2. Šio įstatymo [[#^s-26a5525974b6898b97987bf8|2 straipsnio 1 dalyje]] išdėstytos Lietuvos Respublikos farmacijos įstatymo (toliau – Farmacijos įstatymas) 8 straipsnio 81 dalies, [[#^s-6385f081ac7131c30f6d8728|12 straipsnyje]] išdėstytos Farmacijos įstatymo 29 straipsnio 1 dalies 6 punkto, [[#^s-5ec17e6afc486da0c6a182cd|17 straipsnyje]] išdėstytos Farmacijos įstatymo 33 straipsnio 1 dalies 6 punkto ir [[#^s-082f7c51df7b5a1d6e3cc939|22 straipsnio 2 dalyje]] išdėstytos Farmacijos įstatymo 39 straipsnio 10 punkto nuostatos dėl vaistinių preparatų pakuočių apsaugos priemonių taikymo ir [[#^s-9acac81891d1301c2ee186ab|5 straipsnio]] 5 ir [[#^s-94f55294973fc48ec86f264b|6 dalyse]] išdėstytos [[latest/TAR.FF33B3BF23DD#^s-f8dff1ac8be854bae1c819c3|Farmacijos įstatymo 24 straipsnio]] 7 ir [[#^s-f646290835f497c219fc0363|8 dalių]] nuostatos taikomos po 3 metų nuo Europos Komisijos deleguotojo akto, nurodyto 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyvos 2011/62/ES, kuria iš dalies keičiamos Direktyvos 2001/83/EB dėl Bendrijos kodekso, reglamentuojančio žmonėms skirtus vaistus, nuostatos dėl falsifikuotų vaistų patekimo į teisėtą tiekimo tinklą prevencijos (toliau – Direktyva 2011/62/ES), 1 straipsnio 12 punkte, paskelbimo. ^s-19f6497ddbbe926924d1f23f
+2. Šio įstatymo [[#^s-26a5525974b6898b97987bf8|2 straipsnio 1 dalyje]] išdėstytos [[latest/TAR.FF33B3BF23DD|Lietuvos Respublikos farmacijos įstatymo (toliau – Farmacijos įstatymas) 8 straipsnio 81 dalies]], [[#^s-6385f081ac7131c30f6d8728|12 straipsnyje]] išdėstytos [[latest/TAR.FF33B3BF23DD|Farmacijos įstatymo 29 straipsnio 1 dalies 6 punkto]], [[#^s-5ec17e6afc486da0c6a182cd|17 straipsnyje]] išdėstytos [[latest/TAR.FF33B3BF23DD|Farmacijos įstatymo 33 straipsnio 1 dalies 6 punkto]] ir [[#^s-082f7c51df7b5a1d6e3cc939|22 straipsnio 2 dalyje]] išdėstytos [[latest/TAR.FF33B3BF23DD#^s-8b4df0a5acee63d31a14567d|Farmacijos įstatymo 39 straipsnio 10 punkto nuostatos dėl vaistinių preparatų pakuočių apsaugos priemonių taikymo ir 5 straipsnio]] [[latest/TAR.FF33B3BF23DD#^s-05224bf4862f33401fa71473|5]] ir [[latest/TAR.FF33B3BF23DD#^s-b97ef1123538b2af4c1afcc9|6]] dalyse išdėstytos [[latest/TAR.FF33B3BF23DD#^s-f8dff1ac8be854bae1c819c3|Farmacijos įstatymo 24 straipsnio]] [[latest/TAR.FF33B3BF23DD#^s-237dabe85eed0d84a6132b2d|7]] ir [[latest/TAR.FF33B3BF23DD#^s-d403617d60041109663ff323|8]] dalių nuostatos taikomos po 3 metų nuo Europos Komisijos deleguotojo akto, nurodyto 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyvos 2011/62/ES, kuria iš dalies keičiamos Direktyvos 2001/83/EB dėl Bendrijos kodekso, reglamentuojančio žmonėms skirtus vaistus, nuostatos dėl falsifikuotų vaistų patekimo į teisėtą tiekimo tinklą prevencijos (toliau – Direktyva 2011/62/ES), 1 straipsnio 12 punkte, paskelbimo. ^s-19f6497ddbbe926924d1f23f
 
 
 3. Lietuvos Respublikoje įsisteigę asmenys, kurie vykdė veikliųjų medžiagų gamybą, platinimą ar importą iš trečiųjų šalių iki šio įstatymo įsigaliojimo, turi pateikti prašymus įrašyti juos į Veikliųjų medžiagų gamintojų sąrašą iki 2013 m. rugsėjo 1 d. Šio įstatymo [[#^s-02abc43b5c39884b6a19f407|11 straipsnio 4 dalyje]] išdėstytos [[latest/TAR.FF33B3BF23DD#^s-a019264955bc250174de9048|Farmacijos įstatymo 27 straipsnio 11 punkto]] ir [[#^s-c2b7ca145fe29acba72d4a6f|22 straipsnio 1 dalyje]] išdėstytos [[latest/TAR.FF33B3BF23DD#^s-fd0ff1ed5c8e32d60ba7df6c|Farmacijos įstatymo 39 straipsnio 2 punkto]] nuostatos, susijusios su reikalavimu, kad veikliųjų medžiagų gamintojai, platintojai ir importuotojai iš trečiųjų šalių būtų įregistravę savo veiklą, taikomos atsižvelgiant į šį pereinamąjį laikotarpį. ^s-850534630639a0f66091074b
 
 
-4. Šio įstatymo [[#^s-bde1c3451d12b0f0eb5b6adc|6 straipsnyje]] išdėstytos Farmacijos įstatymo 241 straipsnio 4, 5, [[#^s-94f55294973fc48ec86f264b|6 dalių]] nuostatos ir [[#^s-02abc43b5c39884b6a19f407|11 straipsnio 4 dalyje]] išdėstytos [[latest/TAR.FF33B3BF23DD#^s-a019264955bc250174de9048|Farmacijos įstatymo 27 straipsnio 11 punkto]] nuostatos, susijusios su reikalavimu, kad su veikliųjų medžiagų, importuojamų iš trečiųjų šalių, siunta būtų pateiktas rašytinis patvirtinimas, taikomos nuo 2013 m. liepos 2 d. ^s-306ed2cf4dad9c5d82c3a441
+4. Šio įstatymo [[#^s-bde1c3451d12b0f0eb5b6adc|6 straipsnyje]] išdėstytos [[latest/TAR.FF33B3BF23DD|Farmacijos įstatymo 241 straipsnio]] [[latest/TAR.FF33B3BF23DD|4]], [[latest/TAR.FF33B3BF23DD|5]], [[latest/TAR.FF33B3BF23DD|6]] dalių nuostatos ir [[#^s-02abc43b5c39884b6a19f407|11 straipsnio 4 dalyje]] išdėstytos [[latest/TAR.FF33B3BF23DD#^s-a019264955bc250174de9048|Farmacijos įstatymo 27 straipsnio 11 punkto]] nuostatos, susijusios su reikalavimu, kad su veikliųjų medžiagų, importuojamų iš trečiųjų šalių, siunta būtų pateiktas rašytinis patvirtinimas, taikomos nuo 2013 m. liepos 2 d. ^s-306ed2cf4dad9c5d82c3a441
 
 
 5. Šio įstatymo [[#^s-288a866ed22c4188ab7d29ef|14 straipsnio 2 dalyje]] išdėstytas [[latest/TAR.FF33B3BF23DD#^s-69ce1370bd9ac7f92a53f136|Farmacijos įstatymo 30 straipsnio 1 dalies]] reikalavimas asmenims, kurie turi muitinės prižiūrimų prekių saugojimo vietas, kuriose laikomi ar numatomi laikyti vaistiniai preparatai, turėti didmeninio platinimo licenciją, taikomas nuo 2014 m. sausio 1 d. ^s-c0919ae4bac27611bda552ec
 
 
-6. Lietuvos Respublikoje veiklos vietą ir kontaktinius duomenis turintys asmenys, kurie vykdė vaistinių preparatų prekybos tarpininkavimo veiklą iki šio įstatymo įsigaliojimo, turi pateikti prašymus įrašyti juos į Lietuvos Respublikoje registruotų vaistinių preparatų prekybos tarpininkų sąrašą (toliau – Tarpininkų sąrašas) iki 2013 m. rugsėjo 1 d. Šio įstatymo [[#^s-5ec17e6afc486da0c6a182cd|17 straipsnyje]] išdėstytos Farmacijos įstatymo 33 straipsnio 1 dalies 19 punkto nuostatos, susijusios su reikalavimu naudotis tik tų vaistinių preparatų prekybos tarpininkų paslaugomis, kurie įrašyti į Tarpininkų sąrašą arba kurie įsiregistravę kitos Europos ekonominės erdvės valstybės įgaliotoje institucijoje, taikomos atsižvelgiant į šį pereinamąjį laikotarpį. ^s-94f55294973fc48ec86f264b
+6. Lietuvos Respublikoje veiklos vietą ir kontaktinius duomenis turintys asmenys, kurie vykdė vaistinių preparatų prekybos tarpininkavimo veiklą iki šio įstatymo įsigaliojimo, turi pateikti prašymus įrašyti juos į Lietuvos Respublikoje registruotų vaistinių preparatų prekybos tarpininkų sąrašą (toliau – Tarpininkų sąrašas) iki 2013 m. rugsėjo 1 d. Šio įstatymo [[#^s-5ec17e6afc486da0c6a182cd|17 straipsnyje]] išdėstytos [[latest/TAR.FF33B3BF23DD|Farmacijos įstatymo 33 straipsnio 1 dalies 19 punkto]] nuostatos, susijusios su reikalavimu naudotis tik tų vaistinių preparatų prekybos tarpininkų paslaugomis, kurie įrašyti į Tarpininkų sąrašą arba kurie įsiregistravę kitos Europos ekonominės erdvės valstybės įgaliotoje institucijoje, taikomos atsižvelgiant į šį pereinamąjį laikotarpį. ^s-94f55294973fc48ec86f264b
 
 
-7. Šio įstatymo [[#^s-e5a8db307a7b5eab613daee8|21 straipsnyje]] išdėstytos Farmacijos įstatymo 351 straipsnio nuostatos taikomos po vienų metų nuo Europos Komisijos įgyvendinamojo akto, nurodyto Direktyvos 2011/62/ES 1 straipsnio 20 punkte, paskelbimo. ^s-596e152de65ea9bba20a3b2f
+7. Šio įstatymo [[#^s-e5a8db307a7b5eab613daee8|21 straipsnyje]] išdėstytos [[latest/TAR.FF33B3BF23DD|Farmacijos įstatymo 351 straipsnio]] nuostatos taikomos po vienų metų nuo Europos Komisijos įgyvendinamojo akto, nurodyto Direktyvos 2011/62/ES 1 straipsnio 20 punkte, paskelbimo. ^s-596e152de65ea9bba20a3b2f
 
 
-8. Valstybinė vaistų kontrolės tarnyba prie Lietuvos Respublikos sveikatos apsaugos ministerijos iki 2013 m. liepos 22 d. praneša Europos Komisijai informaciją apie šio įstatymo [[#^s-645643f8feb18ab5a7943de7|26 straipsnyje]] išdėstytoje Farmacijos įstatymo 681 straipsnio 1 dalyje nurodytą sistemą. ^s-f646290835f497c219fc0363
+8. Valstybinė vaistų kontrolės tarnyba prie Lietuvos Respublikos sveikatos apsaugos ministerijos iki 2013 m. liepos 22 d. praneša Europos Komisijai informaciją apie šio įstatymo [[#^s-645643f8feb18ab5a7943de7|26 straipsnyje]] išdėstytoje [[latest/TAR.FF33B3BF23DD|Farmacijos įstatymo 681 straipsnio 1 dalyje]] nurodytą sistemą. ^s-f646290835f497c219fc0363
 
 
 9. Sveikatos apsaugos ministras ne vėliau kaip per 3 metus nuo [[#^s-19f6497ddbbe926924d1f23f|šio straipsnio 2 dalyje]] nurodyto Europos Komisijos deleguotojo akto paskelbimo parengia ir patvirtina teisės aktą, nurodytą šio įstatymo [[#^s-71cf6cd4505eed64197a4601|5 straipsnio 5 dalyje]] išdėstytoje [[latest/TAR.FF33B3BF23DD#^s-237dabe85eed0d84a6132b2d|Farmacijos įstatymo 24 straipsnio 7 dalyje]]. ^s-5b322d0cf10dc14997e2fab7
 
 
-10. Sveikatos apsaugos ministras ne vėliau kaip per vienus metus nuo [[#^s-596e152de65ea9bba20a3b2f|šio straipsnio 7 dalyje]] nurodyto Europos Komisijos įgyvendinamojo akto paskelbimo parengia ir patvirtina teisės aktą, nurodytą šio įstatymo [[#^s-e5a8db307a7b5eab613daee8|21 straipsnyje]] išdėstytoje Farmacijos įstatymo 351 straipsnio 6 dalyje. ^s-925450ce32e21be6671c9d06
+10. Sveikatos apsaugos ministras ne vėliau kaip per vienus metus nuo [[#^s-596e152de65ea9bba20a3b2f|šio straipsnio 7 dalyje]] nurodyto Europos Komisijos įgyvendinamojo akto paskelbimo parengia ir patvirtina teisės aktą, nurodytą šio įstatymo [[#^s-e5a8db307a7b5eab613daee8|21 straipsnyje]] išdėstytoje [[latest/TAR.FF33B3BF23DD|Farmacijos įstatymo 351 straipsnio 6 dalyje]]. ^s-925450ce32e21be6671c9d06
 
 
 11. Sveikatos apsaugos ministras iki šio įstatymo įsigaliojimo priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-176f3a59593ec0c7114f674e

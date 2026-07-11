@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-428b328b703ef73114b1426b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-4bc8872820546bc80e813288|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 2 dalimi]] bei atsižvelgdamas į Respublikos Prezidento 2001 m. lapkričio 29 d. dekretą Nr. 1587, ratifikuoja Lietuvos Respublikos ir Rusijos Federacijos sutartį dėl asmenų, kuriems paskirtas laisvės atėmimas, perdavimo bausmei atlikti, pasirašytą 2001 m. birželio 25 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-4bc8872820546bc80e813288|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 2 dalimi]] bei atsižvelgdamas į Respublikos Prezidento [2001 m. lapkričio 29 d. dekretą Nr. 1587](https://e-tar.lt/portal/lt/legalAct/TAR.119D9267BEC6), ratifikuoja Lietuvos Respublikos ir Rusijos Federacijos sutartį dėl asmenų, kuriems paskirtas laisvės atėmimas, perdavimo bausmei atlikti, pasirašytą 2001 m. birželio 25 d. Vilniuje.
 
 
 

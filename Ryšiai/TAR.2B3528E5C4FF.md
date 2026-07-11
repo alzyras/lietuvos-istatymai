@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.94F5702CA0F1#^s-207764e608e7f6f0857c1a52|Lietuvos Respublikos antstolių įstatymas]] - 3 citatos - 1111010ISTA0XI-1483
+- [[latest/TAR.94F5702CA0F1#^s-207764e608e7f6f0857c1a52|Lietuvos Respublikos antstolių įstatymas]] - 2 citatos - 1111010ISTA0XI-1483

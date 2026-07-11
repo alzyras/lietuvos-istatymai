@@ -55,7 +55,7 @@ Pakeisti [[#^s-e673dfe73b7080b41a064365|3 straipsnio 1 dalį]] ir ją išdėstyt
 Pakeisti 7 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Vežėjas – įmonė, įregistruota įstatymų nustatyta tvarka ir turinti teisę vežti keleivius ir krovinius. Įmonė suprantama taip, kaip ji apibrėžta Reglamento (EB) Nr. 1071/2009 2 straipsnyje.“
+„2. Vežėjas – įmonė, įregistruota įstatymų nustatyta tvarka ir turinti teisę vežti keleivius ir krovinius. Įmonė suprantama taip, kaip ji apibrėžta [Reglamento (EB) Nr. 1071/2009 2 straipsnyje](https://eur-lex.europa.eu/eli/reg/1071/2009/art_2/oj).“
 
 
 ### 3 straipsnis. 8 straipsnio pakeitimas ^s-3e3ad04ece49fc71c7b2aa29
@@ -104,10 +104,10 @@ Pakeisti [[#^s-6985f664fe7c1a6b92596974|8 straipsnį]] ir jį išdėstyti taip:
 4. Vežėjo, turinčio [[#^s-12f9c7c24f2e91f65e2713be|šio straipsnio 2 dalyje]] nurodytą licenciją, keleiviams ar kroviniams vežti naudojamai transporto priemonei išduodama licenciją atitinkanti licencijos kopija. Transporto priemonė turi būti valdoma ar naudojama nuosavybės, patikėjimo teise ar nuomojama, neteikiant vairavimo ir techninės priežiūros paslaugų, ir neterminuotai arba laikinai, kai transporto priemonės valdymą patvirtinančiame dokumente nustatytas ribotas jos valdymo terminas, įregistruota Lietuvos Respublikoje ir turėti transporto priemonės bendrojo naudojimo valstybinio numerio ženklus. ^s-e6c13501d11fdad477822484
 
 
-5. Licencijas, nurodytas [[#^s-12f9c7c24f2e91f65e2713be|šio straipsnio 2 dalies]] 1, 2, 3 ir 5 punktuose, ir jų kopijas išduoda, licencijos (licencijos kopijos) galiojimą sustabdo, licencijos (licencijos kopijos) galiojimo sustabdymą ar licencijos (licencijos kopijos) galiojimą naikina, pripažįsta fizinį asmenį, einantį transporto vadybininko pareigas, netinkamu vadovauti įmonės transporto veiklai, tikrina, ar vežėjai atitinka Reglamento (EB) Nr. 1071/2009 [[#^s-3e3ad04ece49fc71c7b2aa29|3 straipsnyje]] nurodytus reikalavimus, Valstybinė kelių transporto inspekcija prie Susisiekimo ministerijos (toliau – Valstybinė kelių transporto inspekcija), vadovaudamasi Reglamentu (EB) Nr. 1071/2009, Reglamentu (EB) Nr. 1072/2009, Reglamentu (EB) Nr. 1073/2009 ir Kelių transporto veiklos licencijavimo taisyklėmis, kurias tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė). ^s-d183335db65cedcdea3e9873
+5. Licencijas, nurodytas [[#^s-12f9c7c24f2e91f65e2713be|šio straipsnio 2 dalies]] 1, 2, 3 ir 5 punktuose, ir jų kopijas išduoda, licencijos (licencijos kopijos) galiojimą sustabdo, licencijos (licencijos kopijos) galiojimo sustabdymą ar licencijos (licencijos kopijos) galiojimą naikina, pripažįsta fizinį asmenį, einantį transporto vadybininko pareigas, netinkamu vadovauti įmonės transporto veiklai, tikrina, ar vežėjai atitinka [Reglamento (EB) Nr. 1071/2009 3 straipsnyje](https://eur-lex.europa.eu/eli/reg/1071/2009/art_3/oj) nurodytus reikalavimus, Valstybinė kelių transporto inspekcija prie Susisiekimo ministerijos (toliau – Valstybinė kelių transporto inspekcija), vadovaudamasi [Reglamentu (EB) Nr. 1071/2009](https://eur-lex.europa.eu/eli/reg/1071/2009/oj), [Reglamentu (EB) Nr. 1072/2009](https://eur-lex.europa.eu/eli/reg/1072/2009/oj), [Reglamentu (EB) Nr. 1073/2009](https://eur-lex.europa.eu/eli/reg/1073/2009/oj) ir Kelių transporto veiklos licencijavimo taisyklėmis, kurias tvirtina Lietuvos Respublikos Vyriausybė (toliau – Vyriausybė). ^s-d183335db65cedcdea3e9873
 
 
-6. Licencijas, nurodytas [[#^s-25c0b807c118622777b8fb81|šio straipsnio 2 dalies 4 punkte]], ir jų kopijas išduoda, licencijos (licencijos kopijos) galiojimą sustabdo, licencijos (licencijos kopijos) galiojimo sustabdymą ar licencijos (licencijos kopijos) galiojimą naikina, pripažįsta fizinį asmenį, einantį transporto vadybininko pareigas, netinkamu vadovauti įmonės transporto veiklai, tikrina, ar vežėjai atitinka Reglamento (EB) Nr. 1071/2009 [[#^s-3e3ad04ece49fc71c7b2aa29|3 straipsnyje]] nurodytus reikalavimus, savivaldybės vykdomosios institucijos, vadovaudamosi Reglamentu (EB) Nr. 1071/2009 ir Kelių transporto veiklos licencijavimo taisyklėmis, kurias tvirtina Vyriausybė. ^s-56ffee8475ede48bb574ce1f
+6. Licencijas, nurodytas [[#^s-25c0b807c118622777b8fb81|šio straipsnio 2 dalies 4 punkte]], ir jų kopijas išduoda, licencijos (licencijos kopijos) galiojimą sustabdo, licencijos (licencijos kopijos) galiojimo sustabdymą ar licencijos (licencijos kopijos) galiojimą naikina, pripažįsta fizinį asmenį, einantį transporto vadybininko pareigas, netinkamu vadovauti įmonės transporto veiklai, tikrina, ar vežėjai atitinka [Reglamento (EB) Nr. 1071/2009 3 straipsnyje](https://eur-lex.europa.eu/eli/reg/1071/2009/art_3/oj) nurodytus reikalavimus, savivaldybės vykdomosios institucijos, vadovaudamosi [Reglamentu (EB) Nr. 1071/2009](https://eur-lex.europa.eu/eli/reg/1071/2009/oj) ir Kelių transporto veiklos licencijavimo taisyklėmis, kurias tvirtina Vyriausybė. ^s-56ffee8475ede48bb574ce1f
 
 
 7. Licencijos ir jų kopijos išduodamos (pratęsiamas galiojimas) arba atsisakoma (nurodžius priežastis raštu) jas išduoti (pratęsti galiojimą) per 30 dienų nuo prašymo ir dokumentų, reikalingų joms gauti, gavimo licencijas išduodančioje institucijoje dienos. ^s-73b2aa1701b354acb76928d8
@@ -116,16 +116,16 @@ Pakeisti [[#^s-6985f664fe7c1a6b92596974|8 straipsnį]] ir jį išdėstyti taip:
 8. Licencijos išduodamos dešimties metų laikotarpiui. ^s-5a15c997513ab4a74d0564ad
 
 
-9. Vežėjas, pageidaujantis gauti licenciją, nurodytą [[#^s-12f9c7c24f2e91f65e2713be|šio straipsnio 2 dalyje]], visą laikotarpį, kol šią licenciją turi, privalo atitikti Reglamento (EB) Nr. 1071/2009 [[#^s-3e3ad04ece49fc71c7b2aa29|3 straipsnyje]] nurodytus reikalavimus. ^s-20a4454b83928c1915f8fe25
+9. Vežėjas, pageidaujantis gauti licenciją, nurodytą [[#^s-12f9c7c24f2e91f65e2713be|šio straipsnio 2 dalyje]], visą laikotarpį, kol šią licenciją turi, privalo atitikti [Reglamento (EB) Nr. 1071/2009 3 straipsnyje](https://eur-lex.europa.eu/eli/reg/1071/2009/art_3/oj) nurodytus reikalavimus. ^s-20a4454b83928c1915f8fe25
 
 
 10. Transporto vadybininkas gali vadovauti ne daugiau kaip dviejų skirtingų vežėjų transporto veiklai, vykdomai naudojant iš viso ne daugiau kaip 30 transporto priemonių, turinčių licencijos kopijas. Vadovaujant vieno vežėjo transporto veiklai, transporto priemonių, turinčių licencijos kopijas, skaičius neribojamas. ^s-2cde3b4c31b2e6379f26c2c6
 
 
-11. Vežėjas, vežėjo vadovas ir transporto vadybininkas privalo atitikti nepriekaištingos reputacijos reikalavimą, nurodytą Reglamento (EB) Nr. 1071/2009 [[#^s-e673dfe73b7080b41a064365|3 straipsnio 1 dalies]] b punkte. Vežėjas, vežėjo vadovas ir transporto vadybininkas yra nepriekaištingos reputacijos, jeigu jiems nebuvo paskirta administracinė nuobauda ir jie neturi teistumo už pažeidimus, nurodytus Reglamento (EB) Nr. 1071/2009 [[#^s-7c810950f522de2b5e71ad00|6 straipsnio 1 dalyje]]. ^s-f77ef97189b48e8e9f7800a7
+11. Vežėjas, vežėjo vadovas ir transporto vadybininkas privalo atitikti nepriekaištingos reputacijos reikalavimą, nurodytą [Reglamento (EB) Nr. 1071/2009 3 straipsnio 1 dalies b punkte](https://eur-lex.europa.eu/eli/reg/1071/2009/art_3/par_1/lit_b/oj). Vežėjas, vežėjo vadovas ir transporto vadybininkas yra nepriekaištingos reputacijos, jeigu jiems nebuvo paskirta administracinė nuobauda ir jie neturi teistumo už pažeidimus, nurodytus [Reglamento (EB) Nr. 1071/2009 6 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/1071/2009/art_6/par_1/oj). ^s-f77ef97189b48e8e9f7800a7
 
 
-12. Transporto vadybininkas privalo atitikti profesinės kompetencijos reikalavimą, nurodytą Reglamento (EB) Nr. 1071/2009 [[#^s-e673dfe73b7080b41a064365|3 straipsnio 1 dalies]] d punkte. Profesinė kompetencija nustatoma išlaikius profesinės kompetencijos egzaminą Susisiekimo ministerijos nustatyta tvarka. ^s-b3c4c976f769b371cab728d9
+12. Transporto vadybininkas privalo atitikti profesinės kompetencijos reikalavimą, nurodytą [Reglamento (EB) Nr. 1071/2009 3 straipsnio 1 dalies d punkte](https://eur-lex.europa.eu/eli/reg/1071/2009/art_3/par_1/lit_d/oj). Profesinė kompetencija nustatoma išlaikius profesinės kompetencijos egzaminą Susisiekimo ministerijos nustatyta tvarka. ^s-b3c4c976f769b371cab728d9
 
 
 13. Licencijos (licencijų kopijos) neišduodamos, jeigu: ^s-259a830f1fb8a4629f6151ac
@@ -137,16 +137,16 @@ Pakeisti [[#^s-6985f664fe7c1a6b92596974|8 straipsnį]] ir jį išdėstyti taip:
 2) dokumentuose pateikti klaidingi duomenys ir vežėjas neįvykdo licencijas išduodančios institucijos reikalavimo pašalinti šiuos trūkumus; ^s-2db36e5e2a6dfbed6fdeda4d
 
 
-3) vežėjas neatitinka Reglamento (EB) Nr. 1071/2009 [[#^s-3e3ad04ece49fc71c7b2aa29|3 straipsnyje]] nurodytų reikalavimų; ^s-7d1772e3dda2ec815849c3d8
+3) vežėjas neatitinka [Reglamento (EB) Nr. 1071/2009 3 straipsnyje](https://eur-lex.europa.eu/eli/reg/1071/2009/art_3/oj) nurodytų reikalavimų; ^s-7d1772e3dda2ec815849c3d8
 
 
-4) vežėjui buvo panaikintas licencijos galiojimas pagal [[#^s-867f4b3a8fc1748ed9eb2f38|šio straipsnio 16 dalies]] 4 ar [[#^s-38b5f857be2858a103d427cd|5 punktą]]. Licencija neišduodama vienus metus nuo turėtos licencijos galiojimo panaikinimo dienos; ^s-a99f6fb6fef86b0f889a267e
+4) vežėjui buvo panaikintas licencijos galiojimas pagal [[#^s-867f4b3a8fc1748ed9eb2f38|šio straipsnio 16 dalies]] 4 ar [[#^s-38b5f857be2858a103d427cd|5]] punktą. Licencija neišduodama vienus metus nuo turėtos licencijos galiojimo panaikinimo dienos; ^s-a99f6fb6fef86b0f889a267e
 
 
 5) sustabdytas bent vienos licencijos kopijos galiojimas. ^s-38b5f857be2858a103d427cd
 
 
-14. Vežėjai įspėjami apie galimą licencijos galiojimo sustabdymą ar panaikinimą už licencijuojamos veiklos sąlygų pažeidimus, taip pat licencijos galiojimas sustabdomas arba panaikinamas Reglamento (EB) Nr. 1071/2009 13 straipsnyje, Reglamento (EB) Nr. 1072/2009 7 straipsnio 2 dalyje ir 12 straipsnyje, Reglamento (EB) Nr. 1073/2009 21 ir 22 straipsniuose nurodytais atvejais Kelių transporto veiklos licencijavimo taisyklėse nustatyta tvarka. ^s-6d17fb812c450cc058102efc
+14. Vežėjai įspėjami apie galimą licencijos galiojimo sustabdymą ar panaikinimą už licencijuojamos veiklos sąlygų pažeidimus, taip pat licencijos galiojimas sustabdomas arba panaikinamas [Reglamento (EB) Nr. 1071/2009 13 straipsnyje](https://eur-lex.europa.eu/eli/reg/1071/2009/art_13/oj), [Reglamento (EB) Nr. 1072/2009 7 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/1072/2009/art_7/par_2/oj) ir 12 straipsnyje, [Reglamento (EB) Nr. 1073/2009](https://eur-lex.europa.eu/eli/reg/1073/2009/oj) 21 ir 22 straipsniuose nurodytais atvejais Kelių transporto veiklos licencijavimo taisyklėse nustatyta tvarka. ^s-6d17fb812c450cc058102efc
 
 
 15. Licencijos galiojimas sustabdomas, jeigu vežėjas Kelių transporto veiklos licencijavimo taisyklėse nustatyta tvarka: ^s-2750a44a179c9d0807d3bb24
@@ -179,7 +179,7 @@ Pakeisti [[#^s-6985f664fe7c1a6b92596974|8 straipsnį]] ir jį išdėstyti taip:
 5) paaiškėja, kad dokumentuose licencijai gauti buvo pateikti klaidingi duomenys. ^s-c4f589ea306b71a11f8d653b
 
 
-17. Licencijas išduodančios institucijos gali sustabdyti licencijos kopijų galiojimą, kai yra pažeidimų, nurodytų Reglamento (EB) Nr. 1071/2009 IV priede, ar kai kartojasi kiti pažeidimai arba jeigu vežėjas Kelių transporto veiklos licencijavimo taisyklėse nustatyta tvarka negrąžino licencijos kopijos pasikeitus joje įrašytiems duomenims. ^s-66384e95d9449fdb8afee7d4
+17. Licencijas išduodančios institucijos gali sustabdyti licencijos kopijų galiojimą, kai yra pažeidimų, nurodytų [Reglamento (EB) Nr. 1071/2009](https://eur-lex.europa.eu/eli/reg/1071/2009/oj) IV priede, ar kai kartojasi kiti pažeidimai arba jeigu vežėjas Kelių transporto veiklos licencijavimo taisyklėse nustatyta tvarka negrąžino licencijos kopijos pasikeitus joje įrašytiems duomenims. ^s-66384e95d9449fdb8afee7d4
 
 
 18. Licencijos kopijos galiojimas panaikinamas, jeigu: ^s-ca320caf083a9a2edad41160
@@ -210,10 +210,10 @@ Papildyti Kodeksą 81 straipsniu:
 „81 straipsnis. Lietuvos vežėjų informacinė sistema
 
 
-1. Duomenys, nurodyti Reglamento (EB) Nr. 1071/2009 16 straipsnio 2 dalyje, kaupiami Lietuvos vežėjų informacinėje sistemoje. ^s-679aeac733b584ade960d7dc
+1. Duomenys, nurodyti [Reglamento (EB) Nr. 1071/2009 16 straipsnio 2 dalyje](https://eur-lex.europa.eu/eli/reg/1071/2009/art_16/par_2/oj), kaupiami Lietuvos vežėjų informacinėje sistemoje. ^s-679aeac733b584ade960d7dc
 
 
-2. Už Lietuvos vežėjų informacinėje sistemoje kaupiamų duomenų tvarkymą, keitimąsi informacija su kitomis Europos Sąjungos valstybėmis narėmis ir ataskaitų, nurodytų Reglamento (EB) Nr. 1071/2009 26 straipsnyje, Reglamento (EB) Nr. 1072/2009 17 straipsnyje ir Reglamento (EB) Nr. 1073/2009 28 straipsnyje, teikimą Europos Komisijai atsakinga Valstybinė kelių transporto inspekcija. ^s-63b19c50b0e059df85a7025b
+2. Už Lietuvos vežėjų informacinėje sistemoje kaupiamų duomenų tvarkymą, keitimąsi informacija su kitomis Europos Sąjungos valstybėmis narėmis ir ataskaitų, nurodytų [Reglamento (EB) Nr. 1071/2009 26 straipsnyje](https://eur-lex.europa.eu/eli/reg/1071/2009/art_26/oj), [Reglamento (EB) Nr. 1072/2009 17 straipsnyje](https://eur-lex.europa.eu/eli/reg/1072/2009/art_17/oj) ir [Reglamento (EB) Nr. 1073/2009 28 straipsnyje](https://eur-lex.europa.eu/eli/reg/1073/2009/art_28/oj), teikimą Europos Komisijai atsakinga Valstybinė kelių transporto inspekcija. ^s-63b19c50b0e059df85a7025b
 
 
 3. Savivaldybės vykdomosios institucijos teikia duomenis Lietuvos vežėjų informacinei sistemai Valstybinės kelių transporto inspekcijos prie Susisiekimo ministerijos nustatyta tvarka.“ ^s-f70130f18002492671037817
@@ -279,19 +279,19 @@ priedas
 
 
 
-1. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo ir iš dalies keičiantis Tarybos reglamentus (EEB) Nr. 3821/85 ir (EB) Nr. 2135/98 bei panaikinantis Tarybos reglamentą (EEB) Nr. 3820/85 (OL 2006 L 102, p. 1). ^s-1ee254b71ec16d1768847e14
+1. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 561/2006 dėl tam tikrų su kelių transportu susijusių socialinių teisės aktų suderinimo ir iš dalies keičiantis Tarybos [reglamentus (EEB) Nr. 3821/85](https://eur-lex.europa.eu/eli/reg/3821/85/oj) ir (EB) Nr. 2135/98 bei panaikinantis Tarybos [reglamentą (EEB) Nr. 3820/85](https://eur-lex.europa.eu/eli/reg/3820/85/oj) (OL 2006 L 102, p. 1). ^s-1ee254b71ec16d1768847e14
 
 
-2. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos reglamentus (EEB) Nr. 1191/69 ir (EEB) Nr. 1107/70 (OL 2007 L 315, p. 1). ^s-3157454a71b5199b9f412fe4
+2. 2007 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinantis Tarybos [reglamentus (EEB) Nr. 1191/69](https://eur-lex.europa.eu/eli/reg/1191/69/oj) ir (EEB) Nr. 1107/70 (OL 2007 L 315, p. 1). ^s-3157454a71b5199b9f412fe4
 
 
-3. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1071/2009, nustatantis bendrąsias profesinės vežimo kelių transportu veiklos sąlygų taisykles ir panaikinantis Tarybos direktyvą 96/26/EB (OL 2009 L 300, p. 51). ^s-1ae233c559e3a53095d84c16
+3. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1071/2009](https://eur-lex.europa.eu/eli/reg/1071/2009/oj), nustatantis bendrąsias profesinės vežimo kelių transportu veiklos sąlygų taisykles ir panaikinantis Tarybos direktyvą 96/26/EB (OL 2009 L 300, p. 51). ^s-1ae233c559e3a53095d84c16
 
 
-4. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1072/2009 dėl bendrųjų patekimo į tarptautinio krovinių vežimo kelių transportu rinką taisyklių (OL 2009 L 300, p. 72). ^s-e0774eeecf4c85bbe40d923e
+4. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1072/2009](https://eur-lex.europa.eu/eli/reg/1072/2009/oj) dėl bendrųjų patekimo į tarptautinio krovinių vežimo kelių transportu rinką taisyklių (OL 2009 L 300, p. 72). ^s-e0774eeecf4c85bbe40d923e
 
 
-5. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1073/2009 dėl bendrųjų patekimo į tarptautinę keleivių vežimo tolimojo susisiekimo ir miesto autobusais rinką taisyklių ir iš dalies keičiantis Reglamentą (EB) Nr. 561/2006 (OL 2009 L 300, p. 88).“ ^s-1024dd827dbebfd83226b251
+5. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1073/2009](https://eur-lex.europa.eu/eli/reg/1073/2009/oj) dėl bendrųjų patekimo į tarptautinę keleivių vežimo tolimojo susisiekimo ir miesto autobusais rinką taisyklių ir iš dalies keičiantis Reglamentą (EB) Nr. 561/2006 (OL 2009 L 300, p. 88).“ ^s-1024dd827dbebfd83226b251
 
 
 ### 9 straipsnis. Įstatymo įgyvendinimas ^s-06460ff0cc2c02b1e28fe2e6
@@ -300,10 +300,10 @@ priedas
 1. Lietuvos Respublikos Vyriausybė ir kitos valstybės institucijos iki 2011 m. gruodžio 4 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-5e757355dc7dd599a294a4f0
 
 
-2. Įsigaliojus šiam įstatymui, įmonėms, turinčioms nustatyta tvarka išduotas kelių transporto veiklos licencijas, išskyrus [[#^s-bbb919875acde1d30f8845e5|šio straipsnio 3 dalyje]] nurodytas licencijas, leidžiama verstis veikla iki licencijoje nurodytos datos, bet ne ilgiau kaip iki 2016 m. gruodžio 3 d., jeigu įmonė atitinka reikalavimus, nurodytus Reglamento (EB) Nr. 1071/2009 [[#^s-3e3ad04ece49fc71c7b2aa29|3 straipsnyje]]. ^s-9daa422a2ac5fa3587a3c445
+2. Įsigaliojus šiam įstatymui, įmonėms, turinčioms nustatyta tvarka išduotas kelių transporto veiklos licencijas, išskyrus [[#^s-bbb919875acde1d30f8845e5|šio straipsnio 3 dalyje]] nurodytas licencijas, leidžiama verstis veikla iki licencijoje nurodytos datos, bet ne ilgiau kaip iki 2016 m. gruodžio 3 d., jeigu įmonė atitinka reikalavimus, nurodytus [Reglamento (EB) Nr. 1071/2009 3 straipsnyje](https://eur-lex.europa.eu/eli/reg/1071/2009/art_3/oj). ^s-9daa422a2ac5fa3587a3c445
 
 
-3. Iki šio įstatymo įsigaliojimo išduotos licencijų vežti keleivius lengvaisiais automobiliais taksi kortelės, galiojusios šio įstatymo įsigaliojimo dieną, prilyginamos leidimams vežti keleivius lengvaisiais automobiliais taksi ir galioja, neatsižvelgiant į jose nurodytą terminą, tol, kol galiojimas nebus panaikintas Kelių transporto kodekso 18 straipsnio 12 dalyje nustatyta tvarka. ^s-bbb919875acde1d30f8845e5
+3. Iki šio įstatymo įsigaliojimo išduotos licencijų vežti keleivius lengvaisiais automobiliais taksi kortelės, galiojusios šio įstatymo įsigaliojimo dieną, prilyginamos leidimams vežti keleivius lengvaisiais automobiliais taksi ir galioja, neatsižvelgiant į jose nurodytą terminą, tol, kol galiojimas nebus panaikintas [Kelių transporto kodekso 18 straipsnio 12 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.65AD818F5F9C) nustatyta tvarka. ^s-bbb919875acde1d30f8845e5
 
 
 

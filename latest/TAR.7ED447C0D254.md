@@ -273,7 +273,7 @@ Valstybinė žemė
 ### 7 straipsnis.         Valstybinės žemės valdymas, naudojimas ir disponavimas ja patikėjimo teise ^s-d3acab0cc15df6aaf483fbe2
 
 
-1. Valstybinės žemės patikėjimo teisės subjektai (patikėtiniai) yra apskričių viršininkai, valstybės turto privatizavimo institucijos, kiti įstatymų nustatyti subjektai bei šio straipsnio 2 ir [[#^s-14365afdfb51ca64d4cb90fb|3 dalyse]] nurodyti subjektai. Apskrities viršininkas yra apskrities teritorijoje esančios valstybinės žemės patikėtinis, išskyrus žemę, kuri patikėjimo teise perduota kitiems įstatymų nustatytiems subjektams bei Vyriausybės nutarimais – šio straipsnio 2 ir [[#^s-14365afdfb51ca64d4cb90fb|3 dalyse]] nurodytiems patikėtiniams, taip pat privatizuojamiems statiniams ir įrenginiams priskirtą valstybinę žemę, kurią patikėjimo teise valdo, naudoja ir ja disponuoja valstybės turto privatizavimo institucijos. ^s-f74bcb8da9ef5a8b83bcaf4e
+1. Valstybinės žemės patikėjimo teisės subjektai (patikėtiniai) yra apskričių viršininkai, valstybės turto privatizavimo institucijos, kiti įstatymų nustatyti subjektai bei šio straipsnio [[#^s-4dfd5a42d8eb995c2ef35de3|2]] ir [[#^s-14365afdfb51ca64d4cb90fb|3]] dalyse nurodyti subjektai. Apskrities viršininkas yra apskrities teritorijoje esančios valstybinės žemės patikėtinis, išskyrus žemę, kuri patikėjimo teise perduota kitiems įstatymų nustatytiems subjektams bei Vyriausybės nutarimais – šio straipsnio [[#^s-4dfd5a42d8eb995c2ef35de3|2]] ir [[#^s-14365afdfb51ca64d4cb90fb|3]] dalyse nurodytiems patikėtiniams, taip pat privatizuojamiems statiniams ir įrenginiams priskirtą valstybinę žemę, kurią patikėjimo teise valdo, naudoja ir ja disponuoja valstybės turto privatizavimo institucijos. ^s-f74bcb8da9ef5a8b83bcaf4e
 
 
 2. Valstybinės žemės sklypai perduodami savivaldybėms patikėjimo teise Vyriausybės nutarimais ir jos nustatyta tvarka šioms reikmėms: ^s-4dfd5a42d8eb995c2ef35de3
@@ -303,7 +303,7 @@ Valstybinė žemė
 4. [[#^s-14365afdfb51ca64d4cb90fb|Šio straipsnio 3 dalyje]] nurodyti patikėtiniai negali perduotų miško žemės sklypų ar kitų valstybinės žemės sklypų parduoti ar kitaip perleisti, išnuomoti, perduoti panaudos pagrindais ar perduoti juos naudotis kitu būdu, jų įkeisti ar kitaip suvaržyti daiktines teises į juos, jais garantuoti, laiduoti ar kitu būdu užtikrinti savo ir kitų asmenų prievolių įvykdymą. Vyriausybės nutarime gali būti nustatyta ir kitų apribojimų valdyti bei naudoti perduotus miško žemės sklypus ar kitus žemės sklypus. ^s-2621c83a098fbd9892fd2250
 
 
-5. Valstybinės žemės sklypo, perduodamo patikėjimo teise šio straipsnio 2 ir [[#^s-14365afdfb51ca64d4cb90fb|3 dalyse]] nurodytiems subjektams, perdavimo-priėmimo aktą pasirašo Vyriausybės įgaliotas asmuo. Valstybinės žemės patikėtiniui per 3 mėnesius nuo perdavimo-priėmimo akto pasirašymo neįregistravus patikėjimo teisės Nekilnojamojo turto registre, Vyriausybė priima nutarimą dėl šio patikėtinio patikėjimo teisės pasibaigimo ir nuo šio Vyriausybės nutarimo įsigaliojimo žemės sklypo patikėtiniu laikomas apskrities viršininkas. ^s-2e23b14d32ad70f5251aca8f
+5. Valstybinės žemės sklypo, perduodamo patikėjimo teise šio straipsnio [[#^s-4dfd5a42d8eb995c2ef35de3|2]] ir [[#^s-14365afdfb51ca64d4cb90fb|3]] dalyse nurodytiems subjektams, perdavimo-priėmimo aktą pasirašo Vyriausybės įgaliotas asmuo. Valstybinės žemės patikėtiniui per 3 mėnesius nuo perdavimo-priėmimo akto pasirašymo neįregistravus patikėjimo teisės Nekilnojamojo turto registre, Vyriausybė priima nutarimą dėl šio patikėtinio patikėjimo teisės pasibaigimo ir nuo šio Vyriausybės nutarimo įsigaliojimo žemės sklypo patikėtiniu laikomas apskrities viršininkas. ^s-2e23b14d32ad70f5251aca8f
 
 
 6. Valstybinės žemės patikėtiniai valdo, naudoja jiems patikėjimo teise perduotą žemę bei ja disponuoja šio ir kitų įstatymų nustatyta tvarka ir sąlygomis visuomeninei naudai. ^s-a34eb4ee44f290bd5f8c2edd
@@ -359,7 +359,7 @@ Valstybinė žemė
 4. Valstybinės žemės nuomos sutartyje nustatytas žemės nuomos terminas gali būti pratęsiamas Vyriausybės nustatytais atvejais. ^s-addba96aa70ae9e66ab18ff8
 
 
-5. Valstybinė žemė, išskyrus šio straipsnio 6–[[#^s-f68a1c9d1a950019fd1a7574|9 dalyse]] nustatytus atvejus, išnuomojama aukciono būdu asmeniui, kuris pasiūlo didžiausią nuomos mokestį. Valstybinės žemės išnuomojimo aukcione ir be aukciono tvarkas nustato Vyriausybė. ^s-117e83131262c66521b447c6
+5. Valstybinė žemė, išskyrus šio straipsnio [[#^s-51934f175248bc18ac8e812d|6]]–[[#^s-f68a1c9d1a950019fd1a7574|9]] dalyse nustatytus atvejus, išnuomojama aukciono būdu asmeniui, kuris pasiūlo didžiausią nuomos mokestį. Valstybinės žemės išnuomojimo aukcione ir be aukciono tvarkas nustato Vyriausybė. ^s-117e83131262c66521b447c6
 
 
 6. Valstybinė žemė išnuomojama be aukciono, jeigu: ^s-51934f175248bc18ac8e812d
@@ -413,7 +413,7 @@ Valstybinė žemė
 15. Jeigu išnuomota valstybinė žemė paimama naudoti visuomenės poreikiams, valstybinės žemės nuomos sutartis nutraukiama prieš terminą, žemės sklype esančių statinių bei sodinių vertė ir dėl sutarties nutraukimo patirti nuostoliai valstybinės žemės nuomininkams atlyginami pagal šio Įstatymo [[#^s-a12fe0d533c350bc22cabbb2|47 straipsnį]]. Valstybinės žemės nuomos sutartis nutraukiama tik šio Įstatymo [[#^s-a12fe0d533c350bc22cabbb2|47 straipsnio]] nustatyta tvarka atsiskaičius su nuomininkais. ^s-bdd230fed64ff645ddfdacf9
 
 
-16. Valstybinės žemės sklypų nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarką bei sąlygas nustato Žemės sklypų perleidimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymas. ^s-650282d99b5075d5065e317e
+16. Valstybinės žemės sklypų nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarką bei sąlygas nustato [Žemės sklypų perleidimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.CDBE4C20D83B). ^s-650282d99b5075d5065e317e
 
 
 
@@ -465,7 +465,7 @@ Valstybinė žemė
 10. Vandens telkiniai, išskyrus priskirtus valstybinės reikšmės paviršiniams vandens telkiniams, šio Įstatymo ir Žemės reformos įstatymo nustatyta tvarka ir sąlygomis gali būti perleidžiami fizinių ir juridinių asmenų nuosavybėn. ^s-a3957ad15d2b57d5a1d5cf35
 
 
-11. Valstybinės žemės sklypų perleidimo užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarką bei sąlygas nustato Žemės sklypų perleidimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymas. ^s-36fcb95649a468f6489d02ad
+11. Valstybinės žemės sklypų perleidimo užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarką bei sąlygas nustato [Žemės sklypų perleidimo ir nuomos užsienio valstybių diplomatinėms atstovybėms ir konsulinėms įstaigoms tvarkos bei sąlygų įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.CDBE4C20D83B). ^s-36fcb95649a468f6489d02ad
 
 
 
@@ -490,7 +490,7 @@ Valstybinė žemė
 3. Valstybinės žemės ir privačios žemės ar kito nekilnojamojo daikto mainų sutarties sudarymo tvarką nustato Vyriausybė. ^s-6a6e64637dd6a9aabe28c9d6
 
 
-4. Mainomas valstybinės žemės sklypas ir kitos mainų sutarties šalies žemės sklypas ar kitas nekilnojamasis daiktas įvertinami taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytus turto vertinimo metodus. Abiejų šalių mainomas turtas turi būti vertinamas tuo pačiu metodu. Mainomų žemės sklypų ar valstybinės žemės sklypo ir kito nekilnojamojo daikto vertės skirtumas turi būti atlyginamas pinigais mainų sutartyje nustatyta tvarka. ^s-58c6925069581c2efc672e13
+4. Mainomas valstybinės žemės sklypas ir kitos mainų sutarties šalies žemės sklypas ar kitas nekilnojamasis daiktas įvertinami taikant [Turto ir verslo vertinimo pagrindų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nustatytus turto vertinimo metodus. Abiejų šalių mainomas turtas turi būti vertinamas tuo pačiu metodu. Mainomų žemės sklypų ar valstybinės žemės sklypo ir kito nekilnojamojo daikto vertės skirtumas turi būti atlyginamas pinigais mainų sutartyje nustatyta tvarka. ^s-58c6925069581c2efc672e13
 
 
 
@@ -547,7 +547,7 @@ Savivaldybių žemė
 1. Savivaldybės nuosavybėn neatlygintinai perduodami valstybinės žemės sklypai: ^s-2b9de59cb056d9234eb7cc44
 
 
-1) kuriuose yra statiniai ir įrenginiai, savivaldybių įsigyti (įsigyjami) nuosavybėn pagal Valstybės turto perdavimo savivaldybių nuosavybėn įstatymą ir įstatymą „Dėl dalies valstybės turto priskyrimo ir perdavimo savivaldybių nuosavybėn“; ^s-7a9211cc5f1d16615cb773d8
+1) kuriuose yra statiniai ir įrenginiai, savivaldybių įsigyti (įsigyjami) nuosavybėn pagal Valstybės turto perdavimo savivaldybių nuosavybėn įstatymą ir įstatymą [„Dėl dalies valstybės turto priskyrimo ir perdavimo savivaldybių nuosavybėn“](https://e-tar.lt/portal/lt/legalAct/TAR.0E186523A727); ^s-7a9211cc5f1d16615cb773d8
 
 
 2) kurie pagal teritorijų planavimo dokumentus numatyti statiniams ir įrenginiams, reikalingiems savivaldybių funkcijoms atlikti, statyti bei eksploatuoti; ^s-1c493afa14310519f6386cec
@@ -638,7 +638,7 @@ Savivaldybių žemė
 2) privačios žemės sklypo ar jo dalies arba kito nekilnojamojo daikto reikia savivaldybių funkcijoms atlikti. ^s-1c8ff98dc1be50e29fcecfe6
 
 
-6. Mainomas savivaldybės žemės sklypas ir kitos mainų sutarties šalies žemės sklypas ar kitas nekilnojamasis daiktas įvertinami taikant Turto ir verslo vertinimo pagrindų įstatyme nustatytus turto vertinimo metodus. Abiejų šalių mainomas turtas turi būti vertinamas tuo pačiu metodu. Mainomų žemės sklypų ar savivaldybės žemės sklypo ir kito nekilnojamojo daikto vertės skirtumas turi būti atlyginamas pinigais mainų sutartyje nustatyta tvarka. ^s-e651378065d9088517c4814c
+6. Mainomas savivaldybės žemės sklypas ir kitos mainų sutarties šalies žemės sklypas ar kitas nekilnojamasis daiktas įvertinami taikant [Turto ir verslo vertinimo pagrindų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nustatytus turto vertinimo metodus. Abiejų šalių mainomas turtas turi būti vertinamas tuo pačiu metodu. Mainomų žemės sklypų ar savivaldybės žemės sklypo ir kito nekilnojamojo daikto vertės skirtumas turi būti atlyginamas pinigais mainų sutartyje nustatyta tvarka. ^s-e651378065d9088517c4814c
 
 
 
@@ -733,7 +733,7 @@ Bendroji dalinė savivaldybių ir valstybės arba fizinių ar juridinių asmenų
 8. Žemės savininkai ir naudotojai, nesilaikantys nustatytų specialiųjų žemės naudojimo sąlygų, įstatymų nustatyta tvarka traukiami atsakomybėn ir privalo atlyginti kitiems asmenims, savivaldybėms ar valstybei padarytą žalą. Šiose bylose valstybei atstovauja apskrities viršininkas, jeigu kiti įstatymai nenustato kitaip. ^s-ead4c91910905e6947267441
 
 
-9. Žemės savininkas ar kitas naudotojas dėl nuostolių, patiriamų dėl Nekilnojamojo turto registre įregistruoto žemės sklypo papildomų specialiųjų žemės naudojimo sąlygų nustatymo, atlyginimo turi teisę kreiptis į teritorijų planavimo dokumento rengimo ar patikslinimo organizatorių arba tiesiogiai į teismą dėl nuostolių atlyginimo teismo tvarka. Žemės savininkas ar kitas naudotojas į teritorijų planavimo dokumento rengimo ar patikslinimo organizatorių dėl nuostolių atlyginimo gali kreiptis ne vėliau kaip per vienus metus nuo pranešimo apie papildomų specialiųjų sąlygų žemės sklypui nustatymą gavimo dienos. Žemės savininko ar kito naudotojo patirtų nuostolių dydis ir atlyginimo terminai nustatomi teritorijų planavimo dokumento rengimo ar patikslinimo organizatoriaus ir žemės sklypo savininko ar kito naudotojo susitarimu. Šalims nesusitarus, ginčus dėl nuostolių atlyginimo Civilinio proceso kodekso nustatyta tvarka sprendžia teismas. ^s-2333c285159546d6142637df
+9. Žemės savininkas ar kitas naudotojas dėl nuostolių, patiriamų dėl Nekilnojamojo turto registre įregistruoto žemės sklypo papildomų specialiųjų žemės naudojimo sąlygų nustatymo, atlyginimo turi teisę kreiptis į teritorijų planavimo dokumento rengimo ar patikslinimo organizatorių arba tiesiogiai į teismą dėl nuostolių atlyginimo teismo tvarka. Žemės savininkas ar kitas naudotojas į teritorijų planavimo dokumento rengimo ar patikslinimo organizatorių dėl nuostolių atlyginimo gali kreiptis ne vėliau kaip per vienus metus nuo pranešimo apie papildomų specialiųjų sąlygų žemės sklypui nustatymą gavimo dienos. Žemės savininko ar kito naudotojo patirtų nuostolių dydis ir atlyginimo terminai nustatomi teritorijų planavimo dokumento rengimo ar patikslinimo organizatoriaus ir žemės sklypo savininko ar kito naudotojo susitarimu. Šalims nesusitarus, ginčus dėl nuostolių atlyginimo [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka sprendžia teismas. ^s-2333c285159546d6142637df
 
 
 10. Kompensacijos už realiai sumažintą gaunamą naudą arba anksčiau vykdytos veiklos uždraudimą dėl [[latest/TAR.FF1083B528B7|Saugomų teritorijų įstatymo]] nustatytų specialiųjų žemės naudojimo sąlygų taikymo išmokamos Vyriausybės nustatyta tvarka. ^s-ccbd339bbc857ab74c238ef2
@@ -776,7 +776,7 @@ Bendroji dalinė savivaldybių ir valstybės arba fizinių ar juridinių asmenų
 7. Žemės savininkams ir valstybinės žemės patikėtiniams nuostoliai dėl nustatytų servitutų (išskyrus nuostolius žemės savininkams dėl servitutų, nustatytų sandoriais, kai nuostoliai atlyginami šalių susitarimu) turi būti atlyginami viešpataujančiuoju tampančio daikto savininko lėšomis. ^s-6a3e43f6a997ec54a6dfd83b
 
 
-8. Žemės savininkas ar valstybinės žemės patikėtinis dėl nuostolių, patiriamų dėl Nekilnojamojo turto registre įregistruoto servituto, atlyginimo turi teisę kreiptis į viešpataujančiojo daikto savininką, o kai nustatytas servitutas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą – į valstybės ar savivaldybės instituciją, atsakingą už šių kompleksų ir objektų apsaugą. Nuostolių dydis ir atlyginimo terminai nustatomi viešpataujančiojo ir tarnaujančiojo daiktų savininkų ar valstybinės žemės patikėtinių susitarimu, o tais atvejais, kai servitutas nustatytas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą – valstybės ar savivaldybės institucijos, atsakingos už tokių kompleksų ir objektų apsaugą, ir tarnaujančiojo daikto savininko ar valstybinės žemės patikėtinio susitarimu. Šalims nesusitarus, ginčus dėl nuostolių dydžio ir atlyginimo Civilinio proceso kodekso nustatyta tvarka sprendžia teismas. Kai servitutas nustatomas administraciniu aktu, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui atlyginama sunaikintų sodinių, pasėlių, iškirsto miško rinkos vertė bei nuostoliai, atsiradę dėl galimybės naudoti žemės sklypą ar jo dalį pagal pagrindinę tikslinę žemės naudojimo paskirtį, naudojimo būdą ir pobūdį praradimo. Vienkartinės ar periodinės kompensacijos, mokamos už naudojimąsi administraciniu aktu nustatytu servitutu, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui apskaičiavimo metodiką tvirtina Vyriausybė. ^s-b6c6ba6aec4c081f2e623808
+8. Žemės savininkas ar valstybinės žemės patikėtinis dėl nuostolių, patiriamų dėl Nekilnojamojo turto registre įregistruoto servituto, atlyginimo turi teisę kreiptis į viešpataujančiojo daikto savininką, o kai nustatytas servitutas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą – į valstybės ar savivaldybės instituciją, atsakingą už šių kompleksų ir objektų apsaugą. Nuostolių dydis ir atlyginimo terminai nustatomi viešpataujančiojo ir tarnaujančiojo daiktų savininkų ar valstybinės žemės patikėtinių susitarimu, o tais atvejais, kai servitutas nustatytas prieiti ar privažiuoti prie gamtos ir kultūros paveldo teritorinių kompleksų ir objektų, įrašytų į Vyriausybės įgaliotos institucijos patvirtintą sąrašą – valstybės ar savivaldybės institucijos, atsakingos už tokių kompleksų ir objektų apsaugą, ir tarnaujančiojo daikto savininko ar valstybinės žemės patikėtinio susitarimu. Šalims nesusitarus, ginčus dėl nuostolių dydžio ir atlyginimo [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka sprendžia teismas. Kai servitutas nustatomas administraciniu aktu, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui atlyginama sunaikintų sodinių, pasėlių, iškirsto miško rinkos vertė bei nuostoliai, atsiradę dėl galimybės naudoti žemės sklypą ar jo dalį pagal pagrindinę tikslinę žemės naudojimo paskirtį, naudojimo būdą ir pobūdį praradimo. Vienkartinės ar periodinės kompensacijos, mokamos už naudojimąsi administraciniu aktu nustatytu servitutu, tarnaujančiojo daikto savininkui ar valstybinės žemės patikėtiniui apskaičiavimo metodiką tvirtina Vyriausybė. ^s-b6c6ba6aec4c081f2e623808
 
 
 9. Administraciniu aktu nustatytas servitutas Civilinio kodekso nustatytais pagrindais baigiasi apskrities viršininko sprendimu panaikinti nustatytą servitutą. ^s-0e5af6a70c19327d32407602
@@ -804,7 +804,7 @@ Bendroji dalinė savivaldybių ir valstybės arba fizinių ar juridinių asmenų
 5. Žemės sklypo pagrindinė tikslinė žemės naudojimo paskirtis, būdas ir pobūdis registruojami Nekilnojamojo turto registre, žemės sklypo kadastro duomenis įrašant į Nekilnojamojo turto kadastrą ir žemės sklypą registruojant Nekilnojamojo turto registre Nekilnojamojo turto kadastro ir Nekilnojamojo turto registro įstatymų nustatyta tvarka. ^s-fb2685981a536300ba02b42a
 
 
-6. Žemės sklypo naudojimo būdas ir pobūdis nustatomi ir keičiami pagal teritorijų planavimo dokumentus. Žemės sklypams nustatomi šio Įstatymo 25–[[#^s-e9f53cb0e4a0765fcdcb5d9e|29 straipsniuose]] nurodyti žemės naudojimo būdai. Žemės naudojimo būdų turinį nustato Vyriausybė arba jos įgaliotos institucijos. ^s-07a6b803b43829eb88172c48
+6. Žemės sklypo naudojimo būdas ir pobūdis nustatomi ir keičiami pagal teritorijų planavimo dokumentus. Žemės sklypams nustatomi šio Įstatymo [[#^s-46391c5964594e2b1886575c|25]]–[[#^s-e9f53cb0e4a0765fcdcb5d9e|29]] straipsniuose nurodyti žemės naudojimo būdai. Žemės naudojimo būdų turinį nustato Vyriausybė arba jos įgaliotos institucijos. ^s-07a6b803b43829eb88172c48
 
 
 7. Žemės sklypų naudojimo pobūdžių sąrašą ir jų turinį nustato Vyriausybės įgaliota institucija. ^s-5f3b55217ec46aa8df29d581
@@ -1591,7 +1591,7 @@ Bendroji dalinė savivaldybių ir valstybės arba fizinių ar juridinių asmenų
 ### 47 straipsnis. Atlyginimas už žemę, paimamą visuomenės poreikiams ^s-a12fe0d533c350bc22cabbb2
 
 
-1. Paimant privačios žemės sklypą visuomenės poreikiams, žemės savininkui turi būti teisingai atlyginama pinigais rinkos kaina arba šalių sutarimu suteikiamas lygiavertis žemės sklypas tos pačios apskrities teritorijoje, taip pat žemės savininkui ar kitam naudotojui atlyginama paimamoje visuomenės poreikiams žemėje esančių sodinių, miško medynų tūrio, negauto derliaus bei įdėtų lėšų žemės ūkio produkcijos ir miško auginimui vertė. Paimamo žemės sklypo rinkos vertė, šiame žemės sklype esančių sodinių, miško medynų tūrio, negauto derliaus bei įdėtų lėšų žemės ūkio produkcijos ir miško auginimui vertė ir suteikiamo lygiaverčio žemės sklypo vertė apskaičiuojama pagal Turto ir verslo vertinimo pagrindų įstatymo nustatytą lyginamosios vertės metodą, išskyrus paimamo ir vietoj jo suteikiamo lygiaverčio žemės ūkio paskirties žemės sklypo vertes, kurioms apskaičiuoti taikomas naudojimo pajamų vertės metodas. Paimamo žemės sklypo vertė apskaičiuojama pagal pagrindinę tikslinę žemės naudojimo paskirtį, nustatytą iki sprendimo paimti žemę visuomenės poreikiams. Jeigu visuomenės poreikiams paimamas statiniais užstatomas ar užstatytas žemės sklypas, tai už jau pastatytus ar statomus žemės sklype asmenims nuosavybės teise priklausančius statinius turi būti atlyginama pinigais rinkos kaina, kuri apskaičiuojama pagal Turto ir verslo vertinimo pagrindų įstatymo nustatytą lyginamosios vertės metodą. ^s-5d8ea5cd2bc373a5b72001d8
+1. Paimant privačios žemės sklypą visuomenės poreikiams, žemės savininkui turi būti teisingai atlyginama pinigais rinkos kaina arba šalių sutarimu suteikiamas lygiavertis žemės sklypas tos pačios apskrities teritorijoje, taip pat žemės savininkui ar kitam naudotojui atlyginama paimamoje visuomenės poreikiams žemėje esančių sodinių, miško medynų tūrio, negauto derliaus bei įdėtų lėšų žemės ūkio produkcijos ir miško auginimui vertė. Paimamo žemės sklypo rinkos vertė, šiame žemės sklype esančių sodinių, miško medynų tūrio, negauto derliaus bei įdėtų lėšų žemės ūkio produkcijos ir miško auginimui vertė ir suteikiamo lygiaverčio žemės sklypo vertė apskaičiuojama pagal [Turto ir verslo vertinimo pagrindų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nustatytą lyginamosios vertės metodą, išskyrus paimamo ir vietoj jo suteikiamo lygiaverčio žemės ūkio paskirties žemės sklypo vertes, kurioms apskaičiuoti taikomas naudojimo pajamų vertės metodas. Paimamo žemės sklypo vertė apskaičiuojama pagal pagrindinę tikslinę žemės naudojimo paskirtį, nustatytą iki sprendimo paimti žemę visuomenės poreikiams. Jeigu visuomenės poreikiams paimamas statiniais užstatomas ar užstatytas žemės sklypas, tai už jau pastatytus ar statomus žemės sklype asmenims nuosavybės teise priklausančius statinius turi būti atlyginama pinigais rinkos kaina, kuri apskaičiuojama pagal [Turto ir verslo vertinimo pagrindų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nustatytą lyginamosios vertės metodą. ^s-5d8ea5cd2bc373a5b72001d8
 
 
 2. Sprendimą suteikti lygiavertį žemės sklypą apskrities viršininkas priima kartu su sprendimu paimti žemę visuomenės poreikiams. ^s-11bf4be01926bafcd2c84187
@@ -1609,7 +1609,7 @@ Bendroji dalinė savivaldybių ir valstybės arba fizinių ar juridinių asmenų
 6. Prašymą paimti žemę visuomenės poreikiams pateikusiai institucijai atsiskaičius su paimamos žemės savininku ar kitu naudotoju pagal sutartį dėl atlyginimo būdo ir dydžio už žemę, apskrities viršininkas paimamą visuomenės poreikiams žemės sklypą įregistruoja Nekilnojamojo turto registre kaip valstybinę žemę. Jeigu ginčas dėl sprendimo paimti žemę visuomenės poreikiams teisėtumo ir atlyginimo dydžio nagrinėjamas teisme, apskrities viršininkas paimamą visuomenės poreikiams žemės sklypą Nekilnojamojo turto registre kaip valstybinę žemę gali įregistruoti tik po to, kai prašymą paimti žemę visuomenės poreikiams pateikusi institucija teismo sprendime nurodytomis sąlygomis atsiskaito su paimamo visuomenės poreikiams žemės sklypo savininku ar kitu naudotoju, išskyrus atvejus, kai teismas savo sprendimu leidžia paimtą visuomenės poreikiams žemės sklypą įregistruoti Nekilnojamojo turto registre kaip valstybinę žemę iki ginčo dėl atlyginimo dydžio už paimamą visuomenės poreikiams žemę išsprendimo. Nuosavybės teisė į visuomenės poreikiams paimamą žemę pereina valstybei nuo žemės sklypo įregistravimo Nekilnojamojo turto registre momento. ^s-75bb970cb74dbeff77f01ec0
 
 
-7. Visuomenės poreikiams paimtas žemės sklypas, Nekilnojamojo turto registre įregistruotas kaip valstybinė žemė, perduodamas neatlygintinai naudotis arba išnuomojamas šio Įstatymo 8 ar [[#^s-71fe0a1250f20346fa91de03|9 straipsnio]] nustatyta tvarka. ^s-6898445f42b2d7083ff42eb7
+7. Visuomenės poreikiams paimtas žemės sklypas, Nekilnojamojo turto registre įregistruotas kaip valstybinė žemė, perduodamas neatlygintinai naudotis arba išnuomojamas šio Įstatymo [[#^s-ac636d158e55755cf4c3d219|8]] ar [[#^s-71fe0a1250f20346fa91de03|9]] straipsnio nustatyta tvarka. ^s-6898445f42b2d7083ff42eb7
 
 
 8. Jeigu išnuomota arba perduota neatlygintinai naudotis valstybinė žemė numatoma naudoti visuomenės poreikiams, valstybinės žemės nuomos ar panaudos sutartis nutraukiama prieš terminą, žemės sklype esančių statinių bei sodinių vertė ir dėl žemės paėmimo visuomenės poreikiams patirti nuostoliai žemės nuomininkams ar kitiems naudotojams atlyginami pagal šį straipsnį. Valstybinės žemės nuomos ar panaudos sutartis nutraukiama tik šio straipsnio nustatyta tvarka atsiskaičius su žemės nuomininku ar kitu naudotoju. ^s-4d8335853d21a78d40513b92
@@ -1704,7 +1704,7 @@ Bendroji dalinė savivaldybių ir valstybės arba fizinių ar juridinių asmenų
 2. Vertinama žemė suskaidoma į atskirus vienodo naudojimo būdo ir vienodų savybių žemės plotus, kurie pažymimi žemės vertinimo plane. Žemės vertinimo plano pagrindu apskaičiuojama kiekvieno esamo ar suprojektuoto žemės sklypo vertė. Žemės vertinimo plano rengimo tvarką nustato Žemės konsolidacijos projektų rengimo ir įgyvendinimo taisyklės. ^s-041d51c63f1afcc74e4bd964
 
 
-3. Žemės vertė nustatoma vadovaujantis Turto ir verslo vertinimo pagrindų įstatymu. ^s-058eaa2f128387ab30052420
+3. Žemės vertė nustatoma vadovaujantis [Turto ir verslo vertinimo pagrindų įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838). ^s-058eaa2f128387ab30052420
 
 
 4. Žemės vertinimo planui turi pritarti visi vertinamoje teritorijoje esančių ir numatomų pertvarkyti žemės sklypų savininkai ir valstybinės žemės patikėtiniai. Ginčai dėl žemės vertinimo sprendžiami teismo tvarka. ^s-b075a7c727b164acac0a7142
@@ -1810,7 +1810,7 @@ Jeigu Lietuvos Respublikos tarptautinės sutartys numato kitokias nuostatas negu
 ### 2 straipsnis. Įstatymo įsigaliojimas ^s-27a2c0fe9edd3bfee0d02d6f
 
 
-1. Įsigaliojus šio Įstatymo 1 straipsniui, netenka galios Lietuvos Respublikos savivaldybių funkcijoms vykdyti reikalingų žemės sklypų įsigijimo ir perleidimo įstatymas (Žin., 1999, Nr. 109-3173). ^s-8d13cab161e34a801fd82dfc
+1. Įsigaliojus šio Įstatymo 1 straipsniui, netenka galios [Lietuvos Respublikos savivaldybių funkcijoms vykdyti reikalingų žemės sklypų įsigijimo ir perleidimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.2A6BB295A7A3) (Žin., 1999, Nr. 109-3173). ^s-8d13cab161e34a801fd82dfc
 
 
 2. Asmenys, kuriems iki šio Įstatymo 1 straipsnio įsigaliojimo suteikta valstybinės žemės valdymo teisė, įsigaliojus šio Įstatymo 1 straipsniui, laikomi šios žemės patikėtiniais. ^s-64f4f2bc566e16ad7c543209

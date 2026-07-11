@@ -58,7 +58,7 @@ Pakeisti 3 straipsnio 2 dalį, papildyti straipsnį [[#^s-5bf98ad19abc9078b213f9
 ### 2 straipsnis. 4 straipsnio pakeitimas ir papildymas ^s-bd29f8d3b2484010cdec974e
 
 
-Pakeisti [[#^s-12e29e5a78a96ffcb1fc1a74|4 straipsnio 2 dalį]], [[#^s-8232b867d052f07aba54ec7e|3 dalį]] pripažinti netekusia galios, buvusias 4, 5, 6, 7, 8, 9, [[#^s-e5317e294990bea07a10ba27|10 dalis]] laikyti atitinkamai 3, 4, 5, 6, 7, 8, [[#^s-04237ed582b8faecbc92f382|9 dalimis]], pakeisti 3, 5, 6, 7, 8 ir [[#^s-04237ed582b8faecbc92f382|9 dalis]], papildyti straipsnį [[#^s-e5317e294990bea07a10ba27|10 dalimi]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-12e29e5a78a96ffcb1fc1a74|4 straipsnio 2 dalį]], [[#^s-8232b867d052f07aba54ec7e|3 dalį]] pripažinti netekusia galios, buvusias [[#^s-c407b235a3a606cfef2b2198|4]], [[#^s-3de700d234b09531706c6d22|5]], [[#^s-ac34f8ca0cd9b93f35b8688d|6]], 7, 8, 9, 10 dalis laikyti atitinkamai [[#^s-f22dc37e768d48758e85a22e|3]], [[#^s-c407b235a3a606cfef2b2198|4]], [[#^s-3de700d234b09531706c6d22|5]], [[#^s-ac34f8ca0cd9b93f35b8688d|6]], 7, 8, 9 dalimis, pakeisti [[#^s-8232b867d052f07aba54ec7e|3]], [[#^s-5f57dc96bafaf66e50cf3068|5]], [[#^s-a22560f136c8dd9417b87ff9|6]], [[#^s-18c456ed806c26f04d9db68c|7]], [[#^s-51fac49ca3384cdcc64a3531|8]] ir [[#^s-04237ed582b8faecbc92f382|9]] dalis, papildyti straipsnį [[#^s-e5317e294990bea07a10ba27|10 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-80ddb4ea0a92ab035eece998|4 straipsnis]]. Pagrindinės šio įstatymo sąvokos
@@ -108,13 +108,13 @@ Pakeisti [[#^s-12e29e5a78a96ffcb1fc1a74|4 straipsnio 2 dalį]], [[#^s-8232b867d0
 ### 4 straipsnis. 6 straipsnio pakeitimas ^s-80ddb4ea0a92ab035eece998
 
 
-[[#^s-9f57c8bbc8e71f5d18052171|6 straipsnio 1 dalį]] pripažinti netekusia galios, papildyti straipsnį naujomis 2, 3 ir [[#^s-ac34f8ca0cd9b93f35b8688d|6 dalimis]], buvusias 2, 3 ir [[#^s-c407b235a3a606cfef2b2198|4 dalis]] laikyti atitinkamai 1, 4 ir [[#^s-3de700d234b09531706c6d22|5 dalimis]], šias dalis pakeisti ir visą straipsnį išdėstyti taip:
+[[#^s-9f57c8bbc8e71f5d18052171|6 straipsnio 1 dalį]] pripažinti netekusia galios, papildyti straipsnį naujomis [[#^s-736e1b852f127f86075fde3d|2]], [[#^s-804a06d43d139807a79dc2d6|3]] ir [[#^s-f1d83376c163bb4b749df453|6]] dalimis, buvusias [[#^s-736e1b852f127f86075fde3d|2]], [[#^s-804a06d43d139807a79dc2d6|3]] ir [[#^s-993ae113efcbed750baf8ea3|4]] dalis laikyti atitinkamai [[#^s-1694d3415d081712dd3ea5a3|1]], [[#^s-c407b235a3a606cfef2b2198|4]] ir [[#^s-3de700d234b09531706c6d22|5]] dalimis, šias dalis pakeisti ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-d574d6500922c98dedac7e5b|6 straipsnis]]. Šaukimo organizavimo tvarka
 
 
-1. Lietuvos Respublikos pilietis, kuriam sukanka 19 metų, privalo atvykti į vietinę teritorinę karinę įstaigą 45 dienų laikotarpiu, kuris prasideda prieš 30 dienų iki 19 metų sukakties dienos ir baigiasi praėjus 15 dienų po šios sukakties. Šauktiniai, kuriems privalomoji pradinė karo tarnyba yra atidėta šio įstatymo [[#^s-d6fc278b9de0b31fce044a36|9 straipsnyje]] numatytais atvejais, tačiau norintys šią tarnybą atlikti, nepaisydami tarnybos atidėjimo termino gali kreiptis į naujokų šaukimo komisiją, o naujokų šaukimo komisija privalo juos pašaukti į privalomąją pradinę karo tarnybą, jeigu nėra šio įstatymo [[#^s-91a50085ca6a531419b88bfb|8 straipsnio]] 1 ir [[#^s-12e29e5a78a96ffcb1fc1a74|2 dalyse]] nustatytų atleidimo nuo privalomosios tarnybos pagrindų. ^s-1694d3415d081712dd3ea5a3
+1. Lietuvos Respublikos pilietis, kuriam sukanka 19 metų, privalo atvykti į vietinę teritorinę karinę įstaigą 45 dienų laikotarpiu, kuris prasideda prieš 30 dienų iki 19 metų sukakties dienos ir baigiasi praėjus 15 dienų po šios sukakties. Šauktiniai, kuriems privalomoji pradinė karo tarnyba yra atidėta šio įstatymo [[#^s-d6fc278b9de0b31fce044a36|9 straipsnyje]] numatytais atvejais, tačiau norintys šią tarnybą atlikti, nepaisydami tarnybos atidėjimo termino gali kreiptis į naujokų šaukimo komisiją, o naujokų šaukimo komisija privalo juos pašaukti į privalomąją pradinę karo tarnybą, jeigu nėra šio įstatymo [[#^s-91a50085ca6a531419b88bfb|8 straipsnio]] 1 ir 2 dalyse nustatytų atleidimo nuo privalomosios tarnybos pagrindų. ^s-1694d3415d081712dd3ea5a3
 
 
 2. Šauktiniai taip pat privalo atvykti į vietines teritorines karines įstaigas, naujokų šaukimo komisijas ir šauktinių medicinos ekspertizės komisijas, kai jie į jas šaukiami, atvykimo dieną nurodant paštu išsiunčiamame šaukimo lapelyje ir paskelbus miesto (rajono) laikraštyje. ^s-12e29e5a78a96ffcb1fc1a74
@@ -146,7 +146,7 @@ Pakeisti [[#^s-12e29e5a78a96ffcb1fc1a74|4 straipsnio 2 dalį]], [[#^s-8232b867d0
 ### 6 straipsnis. 8 straipsnio pakeitimas ir papildymas ^s-d574d6500922c98dedac7e5b
 
 
-Pakeisti [[#^s-91a50085ca6a531419b88bfb|8 straipsnio]] pavadinimą, 1 ir [[#^s-736e1b852f127f86075fde3d|2 dalis]], papildyti straipsnį 3, 4, 5 ir [[#^s-f1d83376c163bb4b749df453|6 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-91a50085ca6a531419b88bfb|8 straipsnio]] pavadinimą, 1 ir 2 dalis, papildyti straipsnį 3, 4, 5 ir 6 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-91a50085ca6a531419b88bfb|8 straipsnis]].       Atleidimas nuo privalomosios pradinės karo tarnybos arba jos pakeitimas
@@ -204,7 +204,7 @@ Pakeisti [[#^s-91a50085ca6a531419b88bfb|8 straipsnio]] pavadinimą, 1 ir [[#^s-7
 ### 7 straipsnis. 9 straipsnio pakeitimas ir papildymas ^s-05bbdd7e7654a7d97d1999eb
 
 
-Pakeisti [[#^s-d6fc278b9de0b31fce044a36|9 straipsnio]] pavadinimą ir [[#^s-be86609a1a23b2ccdc978475|1 dalį]], papildyti straipsnį naujomis 2, 3 ir [[#^s-cbacca0cac30d0222bf84f2c|4 dalimis]], buvusias 2 ir [[#^s-9ac200527aa38cbcf19256c0|3 dalis]] pakeisti ir laikyti atitinkamai 5 ir [[#^s-c8aa8d920b14eebc38e542ce|6 dalimis]], buvusią [[#^s-cbacca0cac30d0222bf84f2c|4 dalį]] pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-d6fc278b9de0b31fce044a36|9 straipsnio]] pavadinimą ir [[#^s-be86609a1a23b2ccdc978475|1 dalį]], papildyti straipsnį naujomis 2, [[#^s-2cff59eed29268ade7aec4f8|3]] ir [[#^s-8e26f9ede259fc8659411043|4]] dalimis, buvusias 2 ir [[#^s-2cff59eed29268ade7aec4f8|3]] dalis pakeisti ir laikyti atitinkamai [[#^s-f5f549487e0852384f9b7b13|5]] ir [[#^s-c8aa8d920b14eebc38e542ce|6]] dalimis, buvusią [[#^s-cbacca0cac30d0222bf84f2c|4 dalį]] pripažinti netekusia galios ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-d6fc278b9de0b31fce044a36|9 straipsnis]].       Privalomosios pradinės karo ir alternatyviosios krašto apsaugos tarnybos atidėjimas
@@ -299,7 +299,7 @@ Išlaidos, susijusios su ikišauktinio amžiaus jaunuolių registracija, šaukti
 ### 9 straipsnis. 12 straipsnio 1, 2, 5, 6, 9 ir 10 dalių pakeitimas ir papildymas 11 dalimi ^s-d6fc278b9de0b31fce044a36
 
 
-1. Pakeisti [[#^s-b529c2cfa8bcf792130739d5|12 straipsnio]] 1 ir 2 dalis ir jas išdėstyti taip: ^s-cdf6a48a16b1ea7c5d0e3fe8
+1. Pakeisti [[#^s-b529c2cfa8bcf792130739d5|12 straipsnio]] [[#^s-db6e640fc64893d46d1a2dee|1]] ir [[#^s-27cb8b0324c2826caf39a145|2]] dalis ir jas išdėstyti taip: ^s-cdf6a48a16b1ea7c5d0e3fe8
 
 
 „1. Naujokų šaukimo ir šauktinių medicinos ekspertizės komisijas sudaro ir jas tvirtina savivaldybės meras. Naujokų šaukimo ir šauktinių medicinos ekspertizės komisijas, kurios sudaromos iš etatinių krašto apsaugos sistemos darbuotojų, tvirtina krašto apsaugos ministras.
@@ -308,7 +308,7 @@ Išlaidos, susijusios su ikišauktinio amžiaus jaunuolių registracija, šaukti
 2. Išlaidos, susijusios su savivaldybės mero sudaromų teritorinių šauktinių medicinos ekspertizės komisijų darbu, apmokamos iš šiems tikslams skirtų valstybės biudžeto asignavimų krašto apsaugos funkcijoms vykdyti. Savivaldybės mero tvirtinamos teritorinės šauktinių medicinos ekspertizės komisijos formuojamos sudarant terminuotas darbo sutartis su komisijų ir joms reikalingo pagalbinio medicinos personalo nariais.“ ^s-8ab611ec773b5b281713910d
 
 
-2. Pakeisti [[#^s-b529c2cfa8bcf792130739d5|12 straipsnio]] 5 ir [[#^s-e80c58d9eb0a0dae9c24f2a0|6 dalis]] ir jas išdėstyti taip: ^s-7c63450e8f5aff7348d024a3
+2. Pakeisti [[#^s-b529c2cfa8bcf792130739d5|12 straipsnio]] 5 ir 6 dalis ir jas išdėstyti taip: ^s-7c63450e8f5aff7348d024a3
 
 
 „5. Savivaldybės mero tvirtinama naujokų šaukimo komisija susideda iš:
@@ -470,7 +470,7 @@ Pakeisti [[#^s-dca2844c6314faff187dd846|17 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-dca2844c6314faff187dd846|17 straipsnis]]. Tarnybos trukmė
 
 
-1. Į privalomąją pradinę karo tarnybą gali būti pašaukti Lietuvos Respublikos piliečiai nuo 19 iki 26 metų. Piliečiai, parašę prašymą naujokų šaukimo komisijai, tarnybą gali pradėti ir būdami 18 metų, išskyrus šio įstatymo [[#^s-91a50085ca6a531419b88bfb|8 straipsnio]] 1 ir [[#^s-ee262df2ee85a07f73687021|2 dalyse]] numatytus atvejus. ^s-0f56138c5f40f9815bd895a9
+1. Į privalomąją pradinę karo tarnybą gali būti pašaukti Lietuvos Respublikos piliečiai nuo 19 iki 26 metų. Piliečiai, parašę prašymą naujokų šaukimo komisijai, tarnybą gali pradėti ir būdami 18 metų, išskyrus šio įstatymo [[#^s-91a50085ca6a531419b88bfb|8 straipsnio]] 1 ir 2 dalyse numatytus atvejus. ^s-0f56138c5f40f9815bd895a9
 
 
 2. Privalomoji pradinė karo tarnyba trunka 12 mėnesių. ^s-ee262df2ee85a07f73687021
@@ -495,7 +495,7 @@ Pakeisti [[#^s-dca2844c6314faff187dd846|17 straipsnį]] ir jį išdėstyti taip:
 ### 16 straipsnis. 18 straipsnio pakeitimas ir papildymas ^s-521b330803d732a9b6b523f2
 
 
-Pakeisti [[#^s-0921059e8fad72e0efa76887|18 straipsnį]], jį papildyti 2 ir [[#^s-5d566c453043a1479f1d07e8|3 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-0921059e8fad72e0efa76887|18 straipsnį]], jį papildyti [[#^s-183619656f5d60099d80e181|2]] ir [[#^s-d33706d4e0e2f61c3d02fdda|3]] dalimis ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-0921059e8fad72e0efa76887|18 straipsnis]]. Paleidimas iš tarnybos
@@ -532,7 +532,7 @@ Pakeisti [[#^s-0921059e8fad72e0efa76887|18 straipsnį]], jį papildyti 2 ir [[#^
 ### 17 straipsnis. 19 straipsnio pakeitimas ir papildymas ^s-dca2844c6314faff187dd846
 
 
-Pakeisti 19 straipsnio 1 dalį, papildyti straipsnį nauja [[#^s-7249bee70bb3b45108d17d50|2 dalimi]], buvusias 2, 3, 4, 5, [[#^s-2d3f219b15f280e3c979c795|6 dalis]] laikyti atitinkamai 3, 4, 5, 6, [[#^s-eb663c60472c8d7dcd132281|7 dalimis]], pakeisti 3 ir [[#^s-eb663c60472c8d7dcd132281|7 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 19 straipsnio 1 dalį, papildyti straipsnį nauja [[#^s-7249bee70bb3b45108d17d50|2 dalimi]], buvusias 2, 3, 4, 5, 6 dalis laikyti atitinkamai 3, 4, 5, 6, 7 dalimis, pakeisti 3 ir 7 dalis ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-2347a598f5b1dc02cc938bb6|19 straipsnis]]. Būtinieji kariniai mokymai
@@ -640,7 +640,7 @@ Asmenys, atliekantys alternatyviąją krašto apsaugos tarnybą Lietuvos Respubl
 ### 23 straipsnis. 25 straipsnio pakeitimas ir papildymas ^s-85292799e9fa08178a904463
 
 
-[[#^s-36eda2a3f9b2293093da2a5c|25 straipsnio]] 1 ir [[#^s-813e0701f81b26209efb2afe|2 dalyse]] vietoj žodžio „būtinajai“ įrašyti žodį „tikrajai“, iš [[#^s-f1d0b5be67118981aa830152|1 dalies]] išbraukti žodžius „ir priskiriami aktyviajam rezervui“, papildyti straipsnį [[#^s-e0b1e06f8a666f6191cdd646|4 dalimi]] ir visą straipsnį išdėstyti taip:
+[[#^s-36eda2a3f9b2293093da2a5c|25 straipsnio]] 1 ir 2 dalyse vietoj žodžio „būtinajai“ įrašyti žodį „tikrajai“, iš [[#^s-f1d0b5be67118981aa830152|1 dalies]] išbraukti žodžius „ir priskiriami aktyviajam rezervui“, papildyti straipsnį [[#^s-e0b1e06f8a666f6191cdd646|4 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-36eda2a3f9b2293093da2a5c|25 straipsnis]]. Atsargos karo prievolininkų parengtys
@@ -662,7 +662,7 @@ Asmenys, atliekantys alternatyviąją krašto apsaugos tarnybą Lietuvos Respubl
 ### 24 straipsnis. 26 straipsnio pakeitimas ^s-8dc918072151522b65b0da0c
 
 
-Pakeisti [[#^s-bdbd059b992cec761d2eeae7|26 straipsnio 1 dalį]], 2 ir 6 dalis pripažinti netekusiomis galios, buvusias 3, 4, 5 ir 7 dalis laikyti atitinkamai 2, 3, 4 ir [[#^s-1c0e3c4bc8e9f58e813c14cf|5 dalimis]], 2 ir [[#^s-1c0e3c4bc8e9f58e813c14cf|5 dalis]] pakeisti ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-bdbd059b992cec761d2eeae7|26 straipsnio 1 dalį]], [[#^s-4a5c86e24c01f3f0ac93a608|2]] ir 6 dalis pripažinti netekusiomis galios, buvusias 3, 4, 5 ir 7 dalis laikyti atitinkamai [[#^s-4a5c86e24c01f3f0ac93a608|2]], 3, 4 ir 5 dalimis, [[#^s-4a5c86e24c01f3f0ac93a608|2]] ir 5 dalis pakeisti ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-4f069a5696c31d8f46dd89c6|26 straipsnis]]. Atsargos karo prievolininkų rengimo tvarka

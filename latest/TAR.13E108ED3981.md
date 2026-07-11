@@ -407,7 +407,7 @@ Leidimas tirti žemės gelmes neišduodamas, jeigu:
 3) prašymą padavęs asmuo neatitinka nustatytos aukštojo mokslo kvalifikacijos ir (ar) darbo patirties reikalavimų arba neturi nustatytos aukštojo mokslo kvalifikacijos ir (ar) darbo patirties specialistų; ^s-ea801ee695ced5be417053b9
 
 
-4) prašymą pateikusiam asmeniui anksčiau išduoto leidimo galiojimas buvo panaikintas šio įstatymo [[#^s-f23bf30986ca289bae168b43|10 straipsnio 3 dalies]] 4 ar [[#^s-ae048393335ebda5980b9d11|5 punkte]] nustatytais pagrindais ir nuo leidimo galiojimo panaikinimo nepraėjo vieni metai; ^s-23f1a765e5fc99859292ee4f
+4) prašymą pateikusiam asmeniui anksčiau išduoto leidimo galiojimas buvo panaikintas šio įstatymo [[#^s-f23bf30986ca289bae168b43|10 straipsnio 3 dalies]] [[#^s-640cd807068b2ff957a50623|4]] ar [[#^s-d4142d25d53ec658df7610ad|5]] punkte nustatytais pagrindais ir nuo leidimo galiojimo panaikinimo nepraėjo vieni metai; ^s-23f1a765e5fc99859292ee4f
 
 
 5) už leidimo tirti žemės gelmes išdavimą nesumokėta valstybės rinkliava. ^s-ae048393335ebda5980b9d11
@@ -450,7 +450,7 @@ Leidimas tirti žemės gelmes neišduodamas, jeigu:
 4) leidimo turėtojas per leidimo galiojimo sustabdymo terminą nepašalina nustatytų pažeidimų, dėl kurių sustabdytas leidimo galiojimas; ^s-640cd807068b2ff957a50623
 
 
-5) per paskutiniuosius 3 kalendorinius metus leidimo galiojimas buvo sustabdytas 3 kartus [[#^s-65f5b4ea577dbbf477049d4c|šio straipsnio 1 dalies]] 1, 2 ir [[#^s-c56cb2da74b524d0a685ca50|3 punktuose]] nustatytais pagrindais; ^s-d4142d25d53ec658df7610ad
+5) per paskutiniuosius 3 kalendorinius metus leidimo galiojimas buvo sustabdytas 3 kartus [[#^s-65f5b4ea577dbbf477049d4c|šio straipsnio 1 dalies]] [[#^s-34862b362b4114b7019b8183|1]], [[#^s-e706d69cc13981fcf122d786|2]] ir [[#^s-c56cb2da74b524d0a685ca50|3]] punktuose nustatytais pagrindais; ^s-d4142d25d53ec658df7610ad
 
 
 6) leidimo turėtojas veikia kaip asmenų grupė ir pasibaigia sudaryta jungtinės veiklos sutartis; ^s-864d4381cdc804012085f72c
@@ -665,7 +665,7 @@ Lietuvos geologijos tarnyba pagal strateginio planavimo dokumentus valstybės l�
 2) fiziniam asmeniui arba šių asmenų grupės, veikiančios pagal jungtinės veiklos sutartį, dalyviams nėra vykdomas bankroto procesas; ^s-25c53e9ac437bb7e77cfc5ea
 
 
-3) fizinis asmuo turi būti išklausęs Kasybos darbų vadovo mokymo programą, kuri rengiama Lietuvos Respublikos profesinio mokymo įstatymo nustatyta tvarka, ir turėti tai patvirtinantį pažymėjimą arba atitikti šio įstatymo 8 straipsnio 1 dalies 1 punkte nustatytus kvalifikacinius reikalavimus, juridinis asmuo arba fizinių ir juridinių asmenų grupė, veikianti pagal jungtinės veiklos sutartį, turėti sutartį su specialistu, išklausiusiu Kasybos darbų vadovo mokymo programą, kuri rengiama [[latest/TAR.44FA08A7226F|Profesinio mokymo įstatymo]] nustatyta tvarka, ir turinčiu tai patvirtinantį pažymėjimą, arba yra sudarę sutartį su asmeniu, atitinkančiu šio įstatymo [[#^s-eff4d3314eee58e8836ed3eb|8 straipsnio 1 dalies 1 punkte]] nustatytus kvalifikacinius reikalavimus, kai naudingosios iškasenos išgaunamos atviru kasybos būdu. ^s-70161c8366ee91b2dce2d75a
+3) fizinis asmuo turi būti išklausęs Kasybos darbų vadovo mokymo programą, kuri rengiama [[latest/TAR.44FA08A7226F|Lietuvos Respublikos profesinio mokymo įstatymo nustatyta tvarka, ir turėti tai patvirtinantį pažymėjimą arba atitikti šio įstatymo 8 straipsnio 1 dalies 1 punkte]] nustatytus kvalifikacinius reikalavimus, juridinis asmuo arba fizinių ir juridinių asmenų grupė, veikianti pagal jungtinės veiklos sutartį, turėti sutartį su specialistu, išklausiusiu Kasybos darbų vadovo mokymo programą, kuri rengiama [[latest/TAR.44FA08A7226F|Profesinio mokymo įstatymo]] nustatyta tvarka, ir turinčiu tai patvirtinantį pažymėjimą, arba yra sudarę sutartį su asmeniu, atitinkančiu šio įstatymo [[#^s-eff4d3314eee58e8836ed3eb|8 straipsnio 1 dalies 1 punkte]] nustatytus kvalifikacinius reikalavimus, kai naudingosios iškasenos išgaunamos atviru kasybos būdu. ^s-70161c8366ee91b2dce2d75a
 
 
 11. Leidimas naudoti dirbtines žemės gelmių ertmes radioaktyviosioms medžiagoms laikyti be konkurso išduodamas asmeniui, [[latest/TAR.424F7C72601E|Branduolinės saugos įstatymo]] nustatyta tvarka gavusiam licenciją statyti arba licenciją statyti ir eksploatuoti radioaktyviųjų atliekų atliekyną. Leidimas naudoti žemės gelmių ertmes gamtinių dujų saugyklai įrengti išeksploatuotuose angliavandenilių telkiniuose išduodamas be konkurso leidimo naudoti angliavandenilių išteklius turėtojui, išeksploatavusiam angliavandenilių telkinius. ^s-cd929fe34e011a37f890a12c
@@ -747,7 +747,7 @@ X ir Y – svertinės reikšmės, kurių dydis negali skirtis daugiau kaip 3 kar
 4. Apie leidimo naudoti žemės gelmių išteklius ar žemės gelmių ertmes išdavimą, jo galiojimo sustabdymą, galiojimo sustabdymo panaikinimą arba leidimo galiojimo panaikinimą asmuo, pateikęs prašymą išduoti leidimą naudoti žemės gelmių išteklius ar žemės gelmių ertmes, arba leidimo naudoti žemės gelmių išteklius ar žemės gelmių ertmes turėtojas informuojamas per 3 darbo dienas nuo atitinkamo sprendimo priėmimo. Lietuvos geologijos tarnyba apie leidimo naudoti žemės gelmių išteklius ar žemės gelmių ertmes išdavimą ar patikslinimą, galiojimo sustabdymą, galiojimo sustabdymo panaikinimą ir leidimo galiojimo panaikinimą informuoja suinteresuotas institucijas ir visuomenę Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka. ^s-291bece28cdfc2f2053116f8
 
 
-5. Leidimas naudoti žemės gelmių išteklius ar žemės gelmių ertmes, nurodytas šio įstatymo [[#^s-e0e3cb51d143157376f68be6|16 straipsnio 8 dalyje]], neišduodamas, jeigu konkurso naudoti žemės gelmių išteklius ar žemės gelmių ertmes laimėtojas šio įstatymo [[#^s-b9fa03d6c471a588e84c8883|17 straipsnio]] 6 ir 7 dalyse nustatyta tvarka nepateikia finansų įstaigos garantijos (garantijų) ir (ar) nesumoka pasiūlyme nurodytos įmokos arba nesumoka valstybės rinkliavos už leidimo išdavimą. ^s-b9c05db0065d8ee44344d968
+5. Leidimas naudoti žemės gelmių išteklius ar žemės gelmių ertmes, nurodytas šio įstatymo [[#^s-e0e3cb51d143157376f68be6|16 straipsnio 8 dalyje]], neišduodamas, jeigu konkurso naudoti žemės gelmių išteklius ar žemės gelmių ertmes laimėtojas šio įstatymo [[#^s-b9fa03d6c471a588e84c8883|17 straipsnio]] [[#^s-4a8ca71381cb17813e57b90e|6]] ir [[#^s-b769cb31c1061176365c0787|7]] dalyse nustatyta tvarka nepateikia finansų įstaigos garantijos (garantijų) ir (ar) nesumoka pasiūlyme nurodytos įmokos arba nesumoka valstybės rinkliavos už leidimo išdavimą. ^s-b9c05db0065d8ee44344d968
 
 
 6. Leidimas naudoti žemės gelmių išteklius ar žemės gelmių ertmes, nurodytas šio įstatymo [[#^s-e231993a98e678cf376cacae|16 straipsnio 9 dalyje]], neišduodamas, jeigu: ^s-761ab2986fdb5d9ef78813a1
@@ -762,7 +762,7 @@ X ir Y – svertinės reikšmės, kurių dydis negali skirtis daugiau kaip 3 kar
 3) prašymas paduotas nesilaikant Vyriausybės ar jos įgaliotos institucijos nustatytos tvarkos ir per Lietuvos geologijos tarnybos nurodytą terminą, kuris gali būti ne trumpesnis kaip 14 kalendorinių dienų ir ne ilgesnis kaip 2 mėnesiai, prašymą padavęs asmuo neištaiso nurodytų trūkumų; ^s-8cc353e50c883ade4ee317f6
 
 
-4) prašymą pateikusiam asmeniui anksčiau išduoto leidimo galiojimas buvo panaikintas šio įstatymo [[#^s-87c85d56a2262b30c288da47|19 straipsnio 3 dalies]] 4 ar 9 punkte numatytais pagrindais ir jis nepašalino pažeidimų; ^s-68ba7f10636936a53d32ea45
+4) prašymą pateikusiam asmeniui anksčiau išduoto leidimo galiojimas buvo panaikintas šio įstatymo [[#^s-87c85d56a2262b30c288da47|19 straipsnio 3 dalies]] [[#^s-b341a8d47d354c7688cd0be6|4]] ar [[#^s-6076e246c77065ff69779a93|9]] punkte numatytais pagrindais ir jis nepašalino pažeidimų; ^s-68ba7f10636936a53d32ea45
 
 
 5) prašymą pateikusiam asmeniui anksčiau išduoto leidimo galiojimas buvo panaikintas šio įstatymo [[#^s-3a55684cdc138a2a21c531af|19 straipsnio 3 dalies 3 punkte]] numatytais pagrindais ir nuo leidimo galiojimo panaikinimo nepraėjo vieni metai; ^s-1499fbcf193689263665adcd
@@ -912,7 +912,7 @@ X ir Y – svertinės reikšmės, kurių dydis negali skirtis daugiau kaip 3 kar
 3. Leidimo naudoti žemės gelmių ertmes priede nurodoma: ertmę aprobavusi įstaiga, aprobuotos ertmės ribos, žemės gelmių ertmės paskirtis. Priedas tikslinamas, patvirtinus žemės gelmių naudojimo planą, nurodant įpareigojimą vykdyti veiklą vadovaujantis žemės gelmių naudojimo planu (nurodoma sprendimo, kuriuo jis patvirtintas, data, numeris). ^s-0905292f27038ae99f5e0acc
 
 
-4. Jeigu leidime naudoti naudingųjų iškasenų, išskyrus angliavandenilius, išteklius ar žemės gelmių ertmes numatytas naudingųjų iškasenų, išskyrus angliavandenilius, išteklių ar žemės gelmių ertmių tyrimas, priede nurodomas šių tyrimų plotas, terminas ir nustatomos šių tyrimų vykdymo sąlygos. Šiuo atveju atlikus naudingųjų iškasenų, išskyrus angliavandenilius, išteklių ar žemės gelmių ertmių tyrimą, turi būti keičiamas leidimo priedas pagal šio straipsnio 2 ir [[#^s-0905292f27038ae99f5e0acc|3 dalių]] nuostatas. ^s-94d2d81aede5cc69513d7dcf
+4. Jeigu leidime naudoti naudingųjų iškasenų, išskyrus angliavandenilius, išteklius ar žemės gelmių ertmes numatytas naudingųjų iškasenų, išskyrus angliavandenilius, išteklių ar žemės gelmių ertmių tyrimas, priede nurodomas šių tyrimų plotas, terminas ir nustatomos šių tyrimų vykdymo sąlygos. Šiuo atveju atlikus naudingųjų iškasenų, išskyrus angliavandenilius, išteklių ar žemės gelmių ertmių tyrimą, turi būti keičiamas leidimo priedas pagal šio straipsnio [[#^s-d86ee915e3dc36b39b49942d|2]] ir [[#^s-0905292f27038ae99f5e0acc|3]] dalių nuostatas. ^s-94d2d81aede5cc69513d7dcf
 
 
 5. Leidimo naudoti požeminio vandens išteklius priede nurodoma: išteklius aprobavusi įstaiga, eksploatacinis vandeningas horizontas, aprobuotų ir skiriamų naudoti išteklių kiekis, naudojimo paskirtis, naudojimo sąlygos, išgavimo kiekis ir apskaita, jeigu atliekamos poveikio aplinkai vertinimo arba atrankos dėl poveikio aplinkai vertinimo procedūros, jų metu priimti planuojamos ūkinės veiklos vykdymo sprendiniai. ^s-7e95ff7eee802024f621832b
@@ -1132,7 +1132,7 @@ Fiziniai ar juridiniai asmenys ir šių asmenų grupės, veikiančios pagal jung
 ### 31 straipsnis. Žemės gelmių duomenų naudojimas ^s-a9af6d5c032b2933a3119ec9
 
 
-1. Valstybinės geologinės informacijos sistemos žemės gelmių duomenys (toliau – duomenys) turi būti prieinami fiziniams ar juridiniams asmenims ir šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis, išskyrus ribojimus, nustatytus šio straipsnio 4 ir [[#^s-8452eae6fde637c50cc190df|5 dalyse]]. Valstybinės geologinės informacijos sistemos duomenų teikimo ir naudojimo tvarką nustato Lietuvos geologijos tarnyba. ^s-2f610a003bb4157bb0dffe30
+1. Valstybinės geologinės informacijos sistemos žemės gelmių duomenys (toliau – duomenys) turi būti prieinami fiziniams ar juridiniams asmenims ir šių asmenų grupėms, veikiančioms pagal jungtinės veiklos sutartis, išskyrus ribojimus, nustatytus šio straipsnio [[#^s-6ef042a6ddd94ef9e9897d29|4]] ir [[#^s-8452eae6fde637c50cc190df|5]] dalyse. Valstybinės geologinės informacijos sistemos duomenų teikimo ir naudojimo tvarką nustato Lietuvos geologijos tarnyba. ^s-2f610a003bb4157bb0dffe30
 
 
 2. Fiziniai ar juridiniai asmenys ir šių asmenų grupės, veikiančios pagal jungtinės veiklos sutartis, privalo naudoti gautus iš valstybinės geologinės informacijos sistemos duomenis, dokumentus ir (arba) jų kopijas tik teisėtiems ir apibrėžtiems tikslams. ^s-637fc9feab6bf534ca4c944c
@@ -1223,10 +1223,10 @@ Lietuvos Respublikos
 
 
 
-1. 1994 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva 94/22/EB dėl leidimų žvalgyti, tirti ir išgauti angliavandenilius išdavimo ir naudojimosi jais sąlygų (OL 1994 L 164, p. 3). ^s-6fde03522106d302dd6a7eeb
+1. 1994 m. gegužės 30 d. Europos Parlamento ir Tarybos direktyva 94/22/EB [dėl leidimų](https://e-tar.lt/portal/lt/legalAct/TAR.49F3BFF08717) žvalgyti, tirti ir išgauti angliavandenilius išdavimo ir naudojimosi jais sąlygų (OL 1994 L 164, p. 3). ^s-6fde03522106d302dd6a7eeb
 
 
-2. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva 2006/21/EB dėl kasybos pramonės atliekų tvarkymo ir iš dalies keičianti Direktyvą 2004/35/EB (OL 2006 L 102, p. 15). ^s-60f423bdac205634f2a1d009
+2. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva 2006/21/EB [dėl kasybos pramonės atliekų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.B479E03BAB4F) ir iš dalies keičianti Direktyvą 2004/35/EB (OL 2006 L 102, p. 15). ^s-60f423bdac205634f2a1d009
 
 
 3. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2012 L 26, p. 1) su paskutiniais pakeitimais, padarytais 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/52/ES, kuria iš dalies keičiama Direktyva 2011/92/ES dėl tam tikrų valstybės ir privačių projektų poveikio aplinkai vertinimo (OL 2014 L 124, p. 1). ^s-e9318178cd271fbc35c98b01
@@ -1266,21 +1266,21 @@ Nr. XI-972, 2010-06-30, Žin., 2010, Nr. 86-4526 (2010-07-20)
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-352, 2013-05-30, Žin., 2013, Nr. 64-3176 (2013-06-18)
-[[#^s-0e9259e461dd8e4bde114d4c|ŽEMĖS GELMIŲ ĮSTATYMO 1, 2, 3, 4, 5, 6, 8, 9, 11, 12, 13, 14, 15, 18, 19, 21, 22, 27 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 6(1) STRAIPSNIU ĮSTATYMAS
+ŽEMĖS GELMIŲ ĮSTATYMO [[#^s-9544ab8bc04d48cf8e2721da|1]], [[#^s-58ff2665592b10f7eb124177|2]], [[#^s-4de54fccc82a2a7f0b0b9a24|3]], [[#^s-f01b749a39bb79f72e6d81f0|4]], [[#^s-3e9016de5dd327efc327c55e|5]], [[#^s-1561fa787f43bf4b18c5ecd4|6]], [[#^s-47ce350a2ac9959d6646eb3c|8]], [[#^s-a8f6a83e1de252d257060458|9]], [[#^s-75ec76620573b09ef1191c0a|11]], [[#^s-c5f60dedbb79e6ab9f28d3bf|12]], [[#^s-c650bbb14bca07e7f94c8c6e|13]], [[#^s-c7a623ad57341d49e6ace112|14]], [[#^s-037ff6c15c61c3434a2400ce|15]], [[#^s-9931e8554ccbd09e2c951d32|18]], [[#^s-65873e31dce0ae149da8f2cd|19]], [[#^s-bb16a06a87e42bdaaac445be|21]], [[#^s-ab81598f383087e0cc4c43d9|22]], [[#^s-0e9259e461dd8e4bde114d4c|27]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 6(1) STRAIPSNIU ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2013 m. liepos 1 d.
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-410, 2013-06-27, Žin., 2013, Nr. 76-3827 (2013-07-16)
 [[latest/TAR.9D9E7CCB56BC|ŽEMĖS GELMIŲ ĮSTATYMO 3, 14, 16, 18 IR 20 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-045eb2a366dbb22f541862e9|šio straipsnio 4 dalį]], įsigalioja 2014 m. sausio 1 d.
+Šis įstatymas, išskyrus šio straipsnio 4 dalį, įsigalioja 2014 m. sausio 1 d.
 Iki šio įstatymo įsigaliojimo parengti ir patvirtinti žemės gelmių išteklių arba ertmių naudojimo projektai suteikia teisę naudoti žemės gelmių išteklius ir ertmes pagal žemės gelmių išteklių arba ertmių naudojimo projekte numatytus sprendinius.
 Iki šio įstatymo įsigaliojimo pradėti rengti detalieji planai naudingųjų iškasenų teritorijoms, dėl kurių rengimo kreiptasi planavimo sąlygoms išduoti, gali būti baigiami rengti, derinami, tikrinami ir tvirtinami pagal iki šio įstatymo įsigaliojimo galiojusį teritorijų planavimo teisinį reglamentavimą.
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-960, 2014-06-19, paskelbta TAR 2014-06-26, i. k. 2014-09150
-LIETUVOS RESPUBLIKOS ŽEMĖS GELMIŲ ĮSTATYMO NR. I-1034 12 IR [[#^s-c650bbb14bca07e7f94c8c6e|13 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ŽEMĖS GELMIŲ ĮSTATYMO NR. I-1034 [[#^s-c5f60dedbb79e6ab9f28d3bf|12]] IR [[#^s-c650bbb14bca07e7f94c8c6e|13]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-c8cfb06720b743356a1df728|1 straipsnio 2 dalį]] ir šio straipsnio 3 dalį, įsigalioja 2014 m. liepos 1 d.
 Šio įstatymo [[#^s-c8cfb06720b743356a1df728|1 straipsnio 2 dalis]] įsigalioja 2015 m. gegužės 1 d.
 
@@ -1297,7 +1297,7 @@ Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 [[#^s-c7a623ad57341d49
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1811, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10147
-Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 13, 15 ir [[#^s-bb16a06a87e42bdaaac445be|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 [[#^s-c650bbb14bca07e7f94c8c6e|13]], [[#^s-037ff6c15c61c3434a2400ce|15]] ir [[#^s-bb16a06a87e42bdaaac445be|21]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1307,7 +1307,7 @@ Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 [[#^s-ab81598f383087e0
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2308, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10418
-Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 14 ir [[#^s-a4685c0f27a1a2dbc1db200d|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 [[#^s-c7a623ad57341d49e6ace112|14]] ir [[#^s-a4685c0f27a1a2dbc1db200d|26]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1317,7 +1317,7 @@ Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1049, 2022-04-26, paskelbta TAR 2022-05-06, i. k. 2022-09662
-Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 2 ir [[#^s-75ec76620573b09ef1191c0a|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 [[#^s-58ff2665592b10f7eb124177|2]] ir [[#^s-75ec76620573b09ef1191c0a|11]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1327,7 +1327,7 @@ Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 [[#^s-8c2f12f1c42a9424
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2040, 2023-06-08, paskelbta TAR 2023-06-22, i. k. 2023-12402
-Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 5 ir [[#^s-75ec76620573b09ef1191c0a|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 [[#^s-3e9016de5dd327efc327c55e|5]] ir [[#^s-75ec76620573b09ef1191c0a|11]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas

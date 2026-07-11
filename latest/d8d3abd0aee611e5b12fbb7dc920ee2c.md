@@ -101,7 +101,7 @@ BENDROSIOS NUOSTATOS
 4) ūkio subjektai, kurie turi nagrinėjamo ūkio subjekto akcijų dalį, sudarančią 1/2 ar daugiau šio subjekto įstatinio kapitalo, arba turi teises į 1/2 ar daugiau visų balsų, arba su kuriais nagrinėjamas ūkio subjektas yra įsipareigojęs derinti savo ūkinės veiklos sprendimus, arba kurie yra įsipareigoję atsakyti už nagrinėjamo ūkio subjekto prievolių tretiesiems asmenims įvykdymą, arba kuriems nagrinėjamas ūkio subjektas yra įsipareigojęs perduoti visą pelną arba jo dalį ar suteikęs teisę naudoti 1/2 ar daugiau savo turto; ^s-a06e26d64f0dcb7a134e5f00
 
 
-5) ūkio subjektai, kurie tiesiogiai ar netiesiogiai, t. y. per kitus ūkio subjektus, yra susiję su šios dalies 1, 2, 3 ir [[#^s-a06e26d64f0dcb7a134e5f00|4 punktuose]] nurodytais ūkio subjektais bet kuriuo iš šios dalies 1, 2, 3 ir [[#^s-a06e26d64f0dcb7a134e5f00|4 punktuose]] nurodytų būdų. ^s-63141d418a9a1abfa7a5930b
+5) ūkio subjektai, kurie tiesiogiai ar netiesiogiai, t. y. per kitus ūkio subjektus, yra susiję su šios dalies [[#^s-18f5e7d82d9138bcdd662aaa|1]], [[#^s-41f09efbe2293988c8df0f51|2]], [[#^s-4aafa1cfb10be50c867bf155|3]] ir [[#^s-a06e26d64f0dcb7a134e5f00|4]] punktuose nurodytais ūkio subjektais bet kuriuo iš šios dalies [[#^s-18f5e7d82d9138bcdd662aaa|1]], [[#^s-41f09efbe2293988c8df0f51|2]], [[#^s-4aafa1cfb10be50c867bf155|3]] ir [[#^s-a06e26d64f0dcb7a134e5f00|4]] punktuose nurodytų būdų. ^s-63141d418a9a1abfa7a5930b
 
 
 
@@ -146,10 +146,10 @@ NESĄŽININGI VEIKSMAI IR JŲ PRIEŽIŪRA
 10) tiesiogiai ar netiesiogiai mokėti ar kitokiu būdu atlyginti už prekių išdėstymą, išskyrus atvejus, kai yra mažmeninės prekybos įmonės ir tiekėjo rašytinis susitarimas dėl mokėjimo už prekių išdėstymą. ^s-6264bbe662c52593bc4edce9
 
 
-2. Mažmeninės prekybos įmonėms draudžiama sutartyje nustačius tiekėjui fiksuota pinigų suma išreikštą komercinę nuolaidą, nesusietą su prekių pardavimu, kokybe, logistika (prekių paskirstymu ir pristatymu), prekių pardavimo skatinimu ir (ar) kitomis prekių pirkimo ir pardavimo sąlygomis, ir pareikalavus priimti neparduotas maisto prekes (kurių nedraudžiama grąžinti pagal šios dalies 7 punktą), už kurias buvo gauta fiksuota pinigų suma išreikšta komercinė nuolaida, atsisakyti grąžinti tiekėjui šioms grąžintoms maisto prekėms proporcingai tenkančios fiksuota pinigų suma išreikštos komercinės nuolaidos dalį. ^s-4179d2ef1cd43fbc8fa30bb9
+2. Mažmeninės prekybos įmonėms draudžiama sutartyje nustačius tiekėjui fiksuota pinigų suma išreikštą komercinę nuolaidą, nesusietą su prekių pardavimu, kokybe, logistika (prekių paskirstymu ir pristatymu), prekių pardavimo skatinimu ir (ar) kitomis prekių pirkimo ir pardavimo sąlygomis, ir pareikalavus priimti neparduotas maisto prekes (kurių nedraudžiama grąžinti pagal [[latest/TAR.2E0162CE3FB9|šios dalies 7 punktą]]), už kurias buvo gauta fiksuota pinigų suma išreikšta komercinė nuolaida, atsisakyti grąžinti tiekėjui šioms grąžintoms maisto prekėms proporcingai tenkančios fiksuota pinigų suma išreikštos komercinės nuolaidos dalį. ^s-4179d2ef1cd43fbc8fa30bb9
 
 
-3. Atliekant tyrimą dėl šio įstatymo pažeidimo (toliau – pažeidimo tyrimas), pareiga įrodyti, kad [[#^s-621ce84c37f5853921d235df|šio straipsnio 1 dalies]] 7, 8 ir 10 punktuose nurodytas susitarimas yra sudarytas ir atitinka nustatytus reikalavimus, tenka tokį susitarimą sudariusiai mažmeninės prekybos įmonei. ^s-fafba6b71fb8d91e6fa627b1
+3. Atliekant tyrimą dėl šio įstatymo pažeidimo (toliau – pažeidimo tyrimas), pareiga įrodyti, kad [[#^s-621ce84c37f5853921d235df|šio straipsnio 1 dalies]] [[latest/TAR.2E0162CE3FB9|7]], [[latest/TAR.2E0162CE3FB9|8]] ir [[latest/TAR.2E0162CE3FB9|10]] punktuose nurodytas susitarimas yra sudarytas ir atitinka nustatytus reikalavimus, tenka tokį susitarimą sudariusiai mažmeninės prekybos įmonei. ^s-fafba6b71fb8d91e6fa627b1
 
 
 
@@ -236,7 +236,7 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA
 5. Jeigu bylos nagrinėjimo metu pateikiama naujų įrodymų, mažmeninės prekybos įmonė, įtariama pažeidusi šį įstatymą, turi teisę su jais susipažinti ir ne mažiau kaip per 5 darbo dienas nuo naujų įrodymų gavimo dėl jų raštu pateikti savo paaiškinimus. ^s-64ad1f8308509d17ccae58a2
 
 
-6. Pažeidimo tyrimas, įskaitant papildomą pažeidimo tyrimą, turi būti baigtas ir Konkurencijos taryba šio įstatymo [[#^s-8bb3fe3dceb6dcfe9cfedf74|10 straipsnio 6 dalies]] 1 ar 2 punkte nurodytą nutarimą turi priimti ne vėliau kaip per tris mėnesius nuo šio įstatymo [[#^s-a9a63eefa79a30e753057878|8 straipsnio 3 dalyje]] nurodyto Konkurencijos tarybos nutarimo pradėti pažeidimo tyrimą priėmimo dienos. Motyvuotu Konkurencijos tarybos nutarimu šis terminas gali būti pratęstas du kartus ne ilgiau kaip po tris mėnesius. ^s-e7fccbca9c02d8ab8ebde978
+6. Pažeidimo tyrimas, įskaitant papildomą pažeidimo tyrimą, turi būti baigtas ir Konkurencijos taryba šio įstatymo [[#^s-8bb3fe3dceb6dcfe9cfedf74|10 straipsnio 6 dalies]] [[#^s-30d4572804a0bc195b6de759|1]] ar [[#^s-8280b7ae61d2c0f22983f436|2]] punkte nurodytą nutarimą turi priimti ne vėliau kaip per tris mėnesius nuo šio įstatymo [[#^s-a9a63eefa79a30e753057878|8 straipsnio 3 dalyje]] nurodyto Konkurencijos tarybos nutarimo pradėti pažeidimo tyrimą priėmimo dienos. Motyvuotu Konkurencijos tarybos nutarimu šis terminas gali būti pratęstas du kartus ne ilgiau kaip po tris mėnesius. ^s-e7fccbca9c02d8ab8ebde978
 
 
 
@@ -338,33 +338,33 @@ ATSAKOMYBĖS UŽ ŠIO ĮSTATYMO PAŽEIDIMUS TAIKYMO TVARKA
 2) nutraukti bylą, jeigu šio įstatymo pažeidimų nenustatyta; ^s-8280b7ae61d2c0f22983f436
 
 
-3) atidėti bylos nagrinėjimą ir atlikti papildomą pažeidimo tyrimą, jeigu paaiškėja arba atsiranda naujų aplinkybių, kurios yra reikšmingos šios dalies 1 ar [[#^s-8280b7ae61d2c0f22983f436|2 punkte]] nurodytam nutarimui priimti. ^s-228e8fce4ee6687b8b584fa5
+3) atidėti bylos nagrinėjimą ir atlikti papildomą pažeidimo tyrimą, jeigu paaiškėja arba atsiranda naujų aplinkybių, kurios yra reikšmingos šios dalies [[#^s-30d4572804a0bc195b6de759|1]] ar [[#^s-8280b7ae61d2c0f22983f436|2]] punkte nurodytam nutarimui priimti. ^s-228e8fce4ee6687b8b584fa5
 
 
 7. [[#^s-8bb3fe3dceb6dcfe9cfedf74|Šio straipsnio 6 dalyje]] nurodytame nutarime turi būti nurodyta: duomenys apie proceso dalyvius; bylos nagrinėjimo metu nustatytų aplinkybių išdėstymas ir motyvuotas jų įvertinimas; priimto nutarimo motyvai; jeigu priimamas [[#^s-30d4572804a0bc195b6de759|šio straipsnio 6 dalies 1 punkte]] nurodytas nutarimas, – šio įstatymo straipsnis, už kurio pažeidimą taikoma atsakomybė, straipsnis, kuriame nustatyta atsakomybė už pažeidimą, nutarimo apskundimo terminas ir tvarka; jeigu priimamas [[#^s-8280b7ae61d2c0f22983f436|šio straipsnio 6 dalies 2 punkte]] nurodytas nutarimas, – nutarimo apskundimo terminas ir tvarka; jeigu priimamas [[#^s-228e8fce4ee6687b8b584fa5|šio straipsnio 6 dalies 3 punkte]] nurodytas nutarimas, – kito Konkurencijos tarybos posėdžio data. ^s-4c3bf4ec968b2d420105819e
 
 
-8. Jeigu Konkurencijos taryba priima nutarimą atidėti bylos nagrinėjimą ir atlikti papildomą pažeidimo tyrimą, papildomas pažeidimo tyrimas ir bylos nagrinėjimas atliekami šio įstatymo 7, [[#^s-2f79cb10566d240410f853f8|9 straipsniuose]] ir šiame straipsnyje nustatyta tvarka ir terminais. ^s-cfcca2e341f65fcbb516ec7f
+8. Jeigu Konkurencijos taryba priima nutarimą atidėti bylos nagrinėjimą ir atlikti papildomą pažeidimo tyrimą, papildomas pažeidimo tyrimas ir bylos nagrinėjimas atliekami šio įstatymo [[#^s-c090147d7f3846bc5cd7973b|7]], [[#^s-2f79cb10566d240410f853f8|9]] straipsniuose ir šiame straipsnyje nustatyta tvarka ir terminais. ^s-cfcca2e341f65fcbb516ec7f
 
 
 9. [[#^s-8bb3fe3dceb6dcfe9cfedf74|Šio straipsnio 6 dalyje]] nurodytas nutarimas per 3 darbo dienas nuo jo priėmimo dienos Konkurencijos tarybos nustatyta tvarka paskelbiamas šios institucijos interneto svetainėje ir išsiunčiamas registruotu laišku proceso šalims. Kai Konkurencijos tarybos nutarime yra neskelbtinų duomenų (valstybės, tarnybos, profesinių, komercinių paslapčių ar asmens duomenų, kurie neskelbtini atsižvelgiant į asmens duomenų apsaugos teisės aktų reikalavimus), parengiama skelbtina nutarimo versija, iš kurios pašalinami visi neskelbtini duomenys. ^s-06f8d685ef756bdea5c1b40c
 
 
-10. [[#^s-8bb3fe3dceb6dcfe9cfedf74|Šio straipsnio 6 dalies]] 1 ir 2 punktuose nurodyti nutarimai turi būti priimti ne vėliau kaip per dvejus metus nuo pažeidimo padarymo dienos, o kai pažeidimas yra tęstinis ar trunkamasis, – nuo pažeidimo paaiškėjimo dienos. ^s-583277df0ad729d9a3c7a736
+10. [[#^s-8bb3fe3dceb6dcfe9cfedf74|Šio straipsnio 6 dalies]] [[latest/TAR.2E0162CE3FB9|1]] ir [[latest/TAR.2E0162CE3FB9|2]] punktuose nurodyti nutarimai turi būti priimti ne vėliau kaip per dvejus metus nuo pažeidimo padarymo dienos, o kai pažeidimas yra tęstinis ar trunkamasis, – nuo pažeidimo paaiškėjimo dienos. ^s-583277df0ad729d9a3c7a736
 
 
 
 ### 11 straipsnis. Konkurencijos tarybos nutarimų apskundimas ^s-6a7aac9063b7ddeca6631900
 
 
-Konkurencijos tarybos nutarimai, priimti pagal šio įstatymo [[#^s-aea6506b410b87617a282b40|8 straipsnio 2 dalį]], [[#^s-f52d5d37bed7f34516c678aa|9 straipsnio 2 dalį]] ir [[#^s-8bb3fe3dceb6dcfe9cfedf74|10 straipsnio 6 dalies]] 1 ir 2 punktus, per 30 dienų nuo jų priėmimo dienos gali būti skundžiami teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka.
+Konkurencijos tarybos nutarimai, priimti pagal šio įstatymo [[#^s-aea6506b410b87617a282b40|8 straipsnio 2 dalį]], [[#^s-f52d5d37bed7f34516c678aa|9 straipsnio 2 dalį]] ir [[#^s-8bb3fe3dceb6dcfe9cfedf74|10 straipsnio 6 dalies]] [[#^s-30d4572804a0bc195b6de759|1]] ir [[#^s-8280b7ae61d2c0f22983f436|2]] punktus, per 30 dienų nuo jų priėmimo dienos gali būti skundžiami teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka.
 
 
 
 ### 12 straipsnis. Sankcijos ^s-6559bb5e1b87e4a9860e5955
 
 
-1. Už šio įstatymo [[#^s-945c2e80ad72380c7d476c30|3 straipsnio]] 1 ir [[#^s-780b9cd39b0bce5e14beea76|2 dalyse]] nurodytus draudžiamus nesąžiningus veiksmus mažmeninės prekybos įmonėms skiriama bauda iki vieno šimto dvidešimties tūkstančių eurų. Kartu su bauda gali būti skiriamas įpareigojimas nutraukti šiame įstatyme nustatytus draudžiamus nesąžiningus veiksmus ar įpareigojimas atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, įskaitant sutarties pakeitimą. ^s-dbb7d15236960cbfc1d34001
+1. Už šio įstatymo [[#^s-945c2e80ad72380c7d476c30|3 straipsnio]] [[#^s-621ce84c37f5853921d235df|1]] ir [[#^s-4179d2ef1cd43fbc8fa30bb9|2]] dalyse nurodytus draudžiamus nesąžiningus veiksmus mažmeninės prekybos įmonėms skiriama bauda iki vieno šimto dvidešimties tūkstančių eurų. Kartu su bauda gali būti skiriamas įpareigojimas nutraukti šiame įstatyme nustatytus draudžiamus nesąžiningus veiksmus ar įpareigojimas atlikti veiksmus, atkuriančius ankstesnę padėtį ar pašalinančius pažeidimo pasekmes, įskaitant sutarties pakeitimą. ^s-dbb7d15236960cbfc1d34001
 
 
 2. Už informacijos, reikalingos pažeidimo tyrimui atlikti, nepateikimą, taip pat neteisingos ar ne visos informacijos pateikimą mažmeninės prekybos įmonėms, tiekėjams ar kitiems asmenims skiriama bauda iki dešimties tūkstančių eurų. ^s-780b9cd39b0bce5e14beea76
@@ -388,13 +388,13 @@ Konkurencijos tarybos nutarimai, priimti pagal šio įstatymo [[#^s-aea6506b410b
 8. Atsakomybę sunkinančiomis aplinkybėmis laikoma, kai mažmeninės prekybos įmonė, tiekėjas ar kitas asmuo kliudė atlikti pažeidimo tyrimą, tęsė pažeidimą, nepaisydami įpareigojimo jį nutraukti, jeigu buvo padaryta žala arba pažeidimas padarytas pakartotinai per metus nuo šiame įstatyme nustatytos baudos paskyrimo. ^s-7c778c7aa8adc730df787e80
 
 
-9. Konkurencijos tarybos paskirta bauda į valstybės biudžetą sumokama ne vėliau kaip per tris mėnesius nuo dienos, kurią šio įstatymo pažeidėjas gavo nutarimą dėl baudos skyrimo. Apskundus tokį nutarimą, bauda turi būti sumokėta ne vėliau kaip per vieną mėnesį nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. ^s-a05a8cd3c616f456fe800feb
+9. Konkurencijos tarybos paskirta bauda į valstybės biudžetą sumokama ne vėliau kaip per tris mėnesius nuo dienos, kurią šio įstatymo pažeidėjas gavo nutarimą [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo. Apskundus tokį nutarimą, bauda turi būti sumokėta ne vėliau kaip per vieną mėnesį nuo teismo sprendimo, kuriuo atmestas skundas, įsiteisėjimo dienos. ^s-a05a8cd3c616f456fe800feb
 
 
 10. Motyvuotu šio įstatymo pažeidėjo prašymu Konkurencijos taryba turi teisę baudos ar jos dalies sumokėjimą atidėti iki šešių mėnesių, jeigu šio įstatymo pažeidėjas sumokėti baudos laiku negali dėl objektyvių priežasčių. ^s-ec544a6c07d58836221c376b
 
 
-11. Konkurencijos tarybos nutarimas dėl baudos skyrimo yra vykdomasis dokumentas, vykdomas Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-467fb86d6b91a145ccda665e
+11. Konkurencijos tarybos nutarimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) skyrimo yra vykdomasis dokumentas, vykdomas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-467fb86d6b91a145ccda665e
 
 
 
@@ -430,7 +430,7 @@ Konkurencijos taryba kas dvejus metus teisės aktų nustatyta tvarka atlieka ši
 ### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-1204517f5de4871ec91bd746
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2016 m. gegužės 1 d. ^s-f26b6d0444b751748e444368
+1. Šis įstatymas, išskyrus [[latest/TAR.2E0162CE3FB9|šio straipsnio 2 dalį]], įsigalioja 2016 m. gegužės 1 d. ^s-f26b6d0444b751748e444368
 
 
 2. Lietuvos Respublikos konkurencijos taryba iki 2016 m. balandžio 30 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-3ee1c76c3483774a5c20c53e
@@ -439,7 +439,7 @@ Konkurencijos taryba kas dvejus metus teisės aktų nustatyta tvarka atlieka ši
 3. Iki šio įstatymo įsigaliojimo pradėta [[latest/TAR.2E0162CE3FB9|Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo]] pažeidimų nagrinėjimo procedūra (pažeidimų tyrimas ir bylų nagrinėjimas) atliekama pagal iki šio įstatymo įsigaliojimo galiojusį teisinį reguliavimą. ^s-deeb731376c49c5f1496eb70
 
 
-4. Lietuvos Respublikos konkurencijos taryba pirmą kartą pateikia Lietuvos Respublikos Vyriausybės paskirtai teisinio reguliavimo stebėseną koordinuojančiai institucijai šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.2E0162CE3FB9#^s-2c94eb2c4cf0701f0fdce1b1|Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo 15 straipsnyje]] nurodytą dvejų metų [[latest/TAR.2E0162CE3FB9|Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo]] įgyvendinimo stebėsenos pažymą iki 2018 m. birželio 1 d. ^s-c85f09b21d7499776b7279dc
+4. Lietuvos Respublikos konkurencijos taryba pirmą kartą pateikia Lietuvos Respublikos Vyriausybės paskirtai teisinio reguliavimo stebėseną koordinuojančiai institucijai šio įstatymo [[latest/TAR.2E0162CE3FB9#^s-6edd4ad98511ee21bfdaf803|1 straipsnyje]] išdėstyto [[latest/TAR.2E0162CE3FB9#^s-2c94eb2c4cf0701f0fdce1b1|Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo 15 straipsnyje]] nurodytą dvejų metų [[latest/TAR.2E0162CE3FB9|Lietuvos Respublikos mažmeninės prekybos įmonių nesąžiningų veiksmų draudimo įstatymo]] įgyvendinimo stebėsenos pažymą iki 2018 m. birželio 1 d. ^s-c85f09b21d7499776b7279dc
 
 
 

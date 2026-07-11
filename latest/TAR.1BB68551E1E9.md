@@ -49,7 +49,7 @@ Vilnius
 4. Rūmai yra ne pelno organizacija. ^s-3eb58bc06206efee2ce42250
 
 
-5. Rūmai vadovaujasi Lietuvos Respublikos Konstitucija, šiuo įstatymu ir kitais teisės aktais bei Rūmų statutu (toliau – statutas). ^s-3b55e3fee7593ff81f6a81c4
+5. Rūmai vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo įstatymu ir kitais teisės aktais bei Rūmų statutu (toliau – statutas). ^s-3b55e3fee7593ff81f6a81c4
 
 
 
@@ -250,7 +250,7 @@ Rūmų valdymo organai yra suvažiavimas, taryba, prezidiumas ir administracija.
 3. Eilinis suvažiavimas šaukiamas statuto nustatytu laiku. Neeilinis suvažiavimas turi būti sušauktas, jei reikalauja ne mažiau kaip 1/5 Rūmų narių, taryba arba revizijos komisija su prezidiumu. ^s-77f36a9a119d13945e2e1bfa
 
 
-4. Suvažiavimas yra teisėtas, kai jame dalyvauja ne mažiau kaip pusė deleguotų atstovų. Sprendimai priimami paprasta balsų dauguma. Nutarimams [[#^s-784d2cbca968ab7a3dc74935|šio straipsnio 2 dalies]] 2 ir 6 punktų klausimais priimti reikia ne mažiau kaip 3/[[#^s-907d4649baf9e420c2c0261b|4 dalyvaujančiųjų]] suvažiavime balsų. Kiekvienas suvažiavimo dalyvis turi vieną sprendžiamąjį balsą. ^s-907d4649baf9e420c2c0261b
+4. Suvažiavimas yra teisėtas, kai jame dalyvauja ne mažiau kaip pusė deleguotų atstovų. Sprendimai priimami paprasta balsų dauguma. Nutarimams [[#^s-784d2cbca968ab7a3dc74935|šio straipsnio 2 dalies]] 2 ir 6 punktų klausimais priimti reikia ne mažiau kaip 3/4 dalyvaujančiųjų suvažiavime balsų. Kiekvienas suvažiavimo dalyvis turi vieną sprendžiamąjį balsą. ^s-907d4649baf9e420c2c0261b
 
 
 5. Jeigu suvažiavime nėra kvorumo, statuto nustatyta tvarka, ne vėliau kaip po mėnesio turi būti sušauktas pakartotinis suvažiavimas, kuris turi teisę priimti nutarimus neįvykusio suvažiavimo darbotvarkės klausimais nepaisant dalyvaujančių narių skaičiaus. ^s-fe79bcdb097ce6b7167b1c27

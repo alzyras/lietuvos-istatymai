@@ -223,7 +223,7 @@ priedas
 9. 2002 m. lapkričio 28 d. Tarybos pagrindų sprendimas 2002/946/TVR dėl bausmių sistemos stiprinimo siekiant užkirsti kelią padėjimui neteisėtai atvykti, vykti tranzitu ir apsigyventi. ^s-92ed59b46db91549af3eff5f
 
 
-10. 2003 m. liepos 22 d. Tarybos pagrindų sprendimas 2003/568/TVR dėl kovos su korupcija privačiame sektoriuje. ^s-4bda3e4f616edc215d5f35a4
+10. 2003 m. liepos 22 d. Tarybos pagrindų sprendimas 2003/568/TVR [dėl kovos su korupcija](https://e-tar.lt/portal/lt/legalAct/TAR.3CB207106C6D) privačiame sektoriuje. ^s-4bda3e4f616edc215d5f35a4
 
 
 11. 2003 m. gruodžio 22 d. Tarybos pagrindų sprendimas 2004/68/TVR dėl kovos su seksualiniu vaikų išnaudojimu ir vaikų pornografija. ^s-8b60a698612c8916726b07e2

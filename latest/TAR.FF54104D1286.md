@@ -76,7 +76,7 @@ Vilnius
 Pakeisti 16 straipsnio 4 dalį ir ją išdėstyti taip:
 
 
-„4. Moteriai, atleistai iš darbo nėštumo metu arba nėštumo ir gimdymo atostogų metu dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir turinčiai šio straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą, motinystės pašalpa mokama šio įstatymo 17 straipsnyje nustatyta tvarka. Ši nuostata taip pat taikoma ir kitoms nėštumo ir gimdymo atostogoms, jeigu jos prasideda prieš tai gimusio vaiko priežiūros atostogų laikotarpiu.“
+„4. Moteriai, atleistai iš darbo nėštumo metu arba nėštumo ir gimdymo atostogų metu dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir turinčiai šio straipsnio 1 dalyje nurodytą ligos ir motinystės socialinio draudimo stažą, motinystės pašalpa mokama šio įstatymo 17 straipsnyje nustatyta tvarka. Ši nuostata taip pat taikoma ir kitoms nėštumo ir gimdymo atostogoms, jeigu jos prasideda prieš tai gimusio vaiko priežiūros atostogų laikotarpiu.“
 
 
 
@@ -102,13 +102,13 @@ Pakeisti 18 straipsnio 1 dalį ir ją išdėstyti taip:
 2. Pakeisti 19 straipsnio 6 dalį ir ją išdėstyti taip: ^s-d42d51baf5f2d70df0ade2b8
 
 
-„6. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka išleistam vaiko priežiūros atostogų ir gaunančiam motinystės (tėvystės) pašalpą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma motinystės (tėvystės) pašalpai, jeigu teisė ją gauti atsirado prieš tai gimusio vaiko priežiūros atostogų laikotarpiu.“
+„6. Vienam iš tėvų (įtėvių) ar globėjui, įstatymų nustatyta tvarka išleistam vaiko priežiūros atostogų ir gaunančiam motinystės (tėvystės) pašalpą, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, motinystės (tėvystės) pašalpa mokama šio įstatymo [20](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [21](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma motinystės (tėvystės) pašalpai, jeigu teisė ją gauti atsirado prieš tai gimusio vaiko priežiūros atostogų laikotarpiu.“
 
 
 3. Pakeisti 19 straipsnio 7 dalį ir ją išdėstyti taip: ^s-720999f4065794d2d065660c
 
 
-„7. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam [[#^s-ae80b69e8c7fa0a61a9e20a8|šio straipsnio 1 dalyje]] nurodytą ligos ir motinystės socialinio draudimo stažą arba atitinkančiam šio straipsnio 2 ar [[#^s-720999f4065794d2d065660c|3 dalies]] reikalavimus, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir dėl to negavusiam vaiko priežiūros atostogų, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma motinystės (tėvystės) pašalpai, jeigu teisė ją gauti atsirado prieš tai gimusio vaiko priežiūros atostogų laikotarpiu.“
+„7. Vienam iš tėvų (įtėvių) ar globėjui, turinčiam [[#^s-ae80b69e8c7fa0a61a9e20a8|šio straipsnio 1 dalyje]] nurodytą ligos ir motinystės socialinio draudimo stažą arba atitinkančiam šio straipsnio [[#^s-d42d51baf5f2d70df0ade2b8|2]] ar 3 dalies reikalavimus, atleistam iš darbo dėl įmonės, įstaigos, organizacijos likvidavimo ar bankroto, taip pat dėl to, kad pasibaigė darbo sutartis arba [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatyme]], Valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) ir [[latest/TAR.AB0DC76B69A0|Teisėjų atlyginimų įstatyme]] nurodytų asmenų paskyrimo į pareigas terminas ar įgaliojimų laikas, ir dėl to negavusiam vaiko priežiūros atostogų, motinystės (tėvystės) pašalpa mokama šio įstatymo 20 ir 21 straipsniuose nustatyta tvarka. Ši nuostata taip pat taikoma motinystės (tėvystės) pašalpai, jeigu teisė ją gauti atsirado prieš tai gimusio vaiko priežiūros atostogų laikotarpiu.“
 
 
 
@@ -134,7 +134,7 @@ Pakeisti 20 straipsnio 1 dalį ir ją išdėstyti taip:
 2. Pakeisti 21 straipsnio 3 dalį ir ją išdėstyti taip: ^s-1fdb10585e0d42899d5b25cb
 
 
-„3. Jeigu apdraustajam gimsta du ir daugiau vaikų ir jis yra šių vaikų priežiūros atostogose, motinystės (tėvystės) pašalpa (šio straipsnio 1 ir [[#^s-1fdb10585e0d42899d5b25cb|2 dalys]]) didinama atsižvelgiant į vienu metu gimusių vaikų skaičių, tačiau mokama bendra pašalpų suma negali būti didesnė kaip 100 procentų pašalpos gavėjo kompensuojamojo uždarbio dydžio.“
+„3. Jeigu apdraustajam gimsta du ir daugiau vaikų ir jis yra šių vaikų priežiūros atostogose, motinystės (tėvystės) pašalpa (šio straipsnio [[#^s-5fc5a56ff64cc66035fb3fb9|1]] ir 2 dalys) didinama atsižvelgiant į vienu metu gimusių vaikų skaičių, tačiau mokama bendra pašalpų suma negali būti didesnė kaip 100 procentų pašalpos gavėjo kompensuojamojo uždarbio dydžio.“
 
 
 3. Pakeisti 21 straipsnio 4 dalį ir ją išdėstyti taip: ^s-5cb6a9e24ca535fa189cde75

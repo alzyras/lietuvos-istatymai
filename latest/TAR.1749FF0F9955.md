@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 10 straipsnio 1 dalies pakeitimas ir papildymas ^s-eed65be5cba646c0c49a86ed
 
 
-Pakeisti ir papildyti 10 straipsnio 1 dalies 5 ir [[#^s-a009110de11fb867743f6924|6 punktus]], 7 ir [[#^s-a7bf6c2ad34a2b4e5b591bab|8 punktus]] sujungti, 9–11 punktus laikyti atitinkamai 8–[[#^s-9d704ed802f8cf4c3cb95ed9|10 punktais]] ir visą dalį išdėstyti taip:
+Pakeisti ir papildyti 10 straipsnio 1 dalies 5 ir 6 punktus, 7 ir 8 punktus sujungti, 9–11 punktus laikyti atitinkamai 8–10 punktais ir visą dalį išdėstyti taip:
 
 
 „1. Vykdant žemės reformą, žemės ūkio paskirties žemė įsigyjama pagal suprojektuotas žemėnaudas laikantis šios pretendentų įsigyti žemę eilės:
@@ -60,7 +60,7 @@ Pakeisti ir papildyti 10 straipsnio 1 dalies 5 ir [[#^s-a009110de11fb867743f6924
 5) vietos gyventojai, susigrąžinantys ekvivalentine natūra buvusios apylinkės teritorijoje turėtą žemę, taip pat asmenys, susigrąžinantys ekvivalentine natūra arba perkantys jų nuomojamą ar laisvą valstybinę žemę ūkininko ūkiui steigti, kai ši žemė pagal Žemės ūkio ministerijos patvirtintus normatyvus reikalinga įsigytų nuosavybėn buvusių žemės ūkio įmonių gamybiniams pastatams eksploatuoti; ^s-5cce6f468637d43a6437be36
 
 
-6) kaime gyvenantys politiniai kaliniai ir tremtiniai arba jų vaikai, susigrąžinantys buvusios apylinkės teritorijoje turėtą žemę ekvivalentine natūra. Kai šie asmenys gyvena mieste, jų prašymu jiems gali būti sugrąžinta apskrities, kurioje jie gyvena, kaimo vietovėje tik dalis (ne daugiau kaip 2 ha kiekvienam pretendentui) turėtos žemės, o už likusią dalį išmokama kompensacija, jeigu įstatyme „Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“ nenustatyta kitaip; ^s-a009110de11fb867743f6924
+6) kaime gyvenantys politiniai kaliniai ir tremtiniai arba jų vaikai, susigrąžinantys buvusios apylinkės teritorijoje turėtą žemę ekvivalentine natūra. Kai šie asmenys gyvena mieste, jų prašymu jiems gali būti sugrąžinta apskrities, kurioje jie gyvena, kaimo vietovėje tik dalis (ne daugiau kaip 2 ha kiekvienam pretendentui) turėtos žemės, o už likusią dalį išmokama kompensacija, jeigu įstatyme [„Dėl piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atstatymo tvarkos ir sąlygų“](https://e-tar.lt/portal/lt/legalAct/TAR.6A212126E9E4) nenustatyta kitaip; ^s-a009110de11fb867743f6924
 
 
 7) kiti vietos gyventojai, susigrąžinantys žemę ekvivalentine natūra; ^s-5e71edfa0bcdae1db6feab23

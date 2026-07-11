@@ -9,9 +9,12 @@ pavadinimas: "Lietuvos Respublikos mokslininkų valstybinių pensijų laikinojo 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 3 citatos - Lietuvos Respublikos socialinio draudimo pensijų įstatyme
-- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybinio socialinio draudimo įstatyme
+- [[latest/TAR.A14C258694ED|Lietuvos Respublikos mokslininkų valstybinių pensijų laikinasis įstatymas]] - 2 citatos - 6 straipsnio 3 dalyje
+- [[latest/TAR.A14C258694ED#^s-af310a101ce99ccbc4416098|Lietuvos Respublikos mokslininkų valstybinių pensijų laikinasis įstatymas]] - 1 straipsnyje
+- [[latest/TAR.A14C258694ED#^s-c2f1dc180e5dca78600bb63d|Lietuvos Respublikos mokslininkų valstybinių pensijų laikinasis įstatymas]] - 2 citatos - 6 straipsnis
+- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 2 citatos - Lietuvos Respublikos socialinio draudimo pensijų įstatyme
+- [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymas]] - Lietuvos Respublikos valstybinio socialinio draudimo įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A14C258694ED#^s-38f4d06e8c5c35b4c07ffe1d|Lietuvos Respublikos mokslininkų valstybinių pensijų laikinasis įstatymas]] - Įstatymas Nr. XIV-216
+_Nėra._

@@ -9,134 +9,88 @@ pavadinimas: "Lietuvos Respublikos žemės įstatymas"
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.7847E47234C5|Dėl Lietuvos Respublikos žemės įstatymo pakeitimo ir papildymo]] - 4 citatos - DĖL LIETUVOS RESPUBLIKOS ŽEMĖS ĮSTATYMO PAKEITIMO IR PAPILDYMO
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 15 citatos - Administracinių bylų teisenos įstatymo
-- [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos aplinkos apsaugos įstatymas
-- [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - 4 citatos - Asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje
-- [[latest/TAR.FC7AB69BE291|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 4 citatos - Atsinaujinančių išteklių energetikos įstatyme
-- [[latest/TAR.FC7AB69BE291#^s-a71cc4e8554d0b15a1469fb5|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 2 citatos - Atsinaujinančių išteklių energetikos įstatymo 202 straipsnio
-- [[latest/TAR.04F64676CE77|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - 4 citatos - Branduolinės (atominės) elektrinės įstatymas
-- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 4 citatos - Lietuvos Respublikos civilinis kodeksas
-- [[latest/TAR.F57794B7899F#^s-1856428808b3904060963af8|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - Lietuvos Respublikos elektros energetikos įstatymo 222 straipsnio
-- [[latest/TAR.44235B485568|Lietuvos Respublikos energetikos įstatymas]] - 2 citatos - Lietuvos Respublikos energetikos įstatyme
-- [[latest/TAR.EFE69222D6BC|Lietuvos Respublikos geodezijos ir kartografijos įstatymas]] - 2 citatos - Lietuvos Respublikos geodezijos ir kartografijos įstatyme
-- [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymas]] - 11 citatos - Investicijų įstatyme
-- [[latest/TAR.C7E57DF3CEC5#^s-234053616acdbeab39897430|Lietuvos Respublikos investicijų įstatymas]] - 2 citatos - Investicijų įstatymo 156 straipsnio 1 dalyje
-- [[latest/TAR.C7E57DF3CEC5#^s-32a6885b158696c4b9142dea|Lietuvos Respublikos investicijų įstatymas]] - 2 citatos - Investicijų įstatymo 156 straipsnio 3 dalies 4 punktą
-- [[latest/TAR.C7E57DF3CEC5#^s-8c06446af7ca6c4bcbbdb2b9|Lietuvos Respublikos investicijų įstatymas]] - 2 citatos - Investicijų įstatymo 2 straipsnio 25 dalyje
-- [[latest/TAR.56935A08DD06|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos jūros aplinkos apsaugos įstatymas
-- [[latest/TAR.C4931928A573|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo ir Žemės įstatymo pakeitimo įstatymas]] - 4 citatos - KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO IR ŽEMĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.6A449FCC534B|Lietuvos Respublikos koncesijų įstatymas]] - 2 citatos - Lietuvos Respublikos koncesijų įstatymo
-- [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - 2 citatos - Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme
-- [[latest/TAR.D0429A864011|Lietuvos Respublikos melioracijos įstatymas]] - 2 citatos - Lietuvos Respublikos melioracijos įstatyme
-- [[latest/TAR.5D6D055CC00C|Lietuvos Respublikos miškų įstatymas]] - 18 citatos - Miškų įstatyme
-- [[latest/TAR.3CD1008B88A9#^s-f6eeb560f7195bdfe7d03092|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - 6 citatos - Mobilizacijos ir priimančiosios šalies paramos įstatymo 6 straipsnio 10 punkte
-- [[latest/TAR.9BC8AEE9D9F8|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - 6 citatos - Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas
-- [[latest/TAR.72C31F8DD98E|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - 15 citatos - Nekilnojamojo turto kadastro įstatyme
-- [[latest/TAR.B4FAA1DD73CF|Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas]] - 2 citatos - Lietuvos Respublikos nekilnojamojo turto mokesčio įstatyme
-- [[latest/TAR.38E82AA2664C|Lietuvos Respublikos nekilnojamojo turto registro įstatymas]] - 8 citatos - Lietuvos Respublikos nekilnojamojo turto registro įstatyme
-- [[latest/TAR.4F95269B43A0|Lietuvos Respublikos pajūrio juostos įstatymas]] - 2 citatos - Lietuvos Respublikos pajūrio juostos įstatymo
-- [[latest/ed3eaf90087c11efbcbfb318996800a8|Lietuvos Respublikos privalomojo turto ir verslo vertinimo įstatymas]] - 18 citatos - Privalomojo turto ir verslo vertinimo įstatyme
-- [[latest/TAR.7E8386C5AA76|Lietuvos Respublikos regioninės plėtros įstatymas]] - 6 citatos - Regioninės plėtros įstatymu
-- [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 12 citatos - Saugomų teritorijų įstatymo
-- [[latest/TAR.FF1083B528B7#^s-dd4fe573bab4c20ddcb907f0|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 2 citatos - Saugomų teritorijų įstatymo 27 straipsnyje
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - 15 citatos - Specialiųjų žemės naudojimo sąlygų įstatymo
-- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 4 citatos - Statybos įstatymo
-- [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymas]] - 28 citatos - Teritorijų planavimo įstatyme
-- [[latest/TAR.26B563184529#^s-c801fa2a78ab80f33f60e622|Lietuvos Respublikos teritorijų planavimo įstatymas]] - 4 citatos - Teritorijų planavimo įstatymo 23 straipsnyje
-- [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas]] - 4 citatos - Valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje
-- [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 6 citatos - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme
-- [[latest/TAR.D5496D69DF98#^s-90aa1eec7993a3f595978152|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 4 citatos - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 14 straipsnyje
-- [[latest/TAR.B3CC2C0B9BD2|Lietuvos Respublikos vandens įstatymas]] - 2 citatos - Lietuvos Respublikos vandens įstatymas
-- [[latest/TAR.D0CD0966D67F#^s-05c8757706f8200f83f302bc|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - Lietuvos Respublikos vietos savivaldos įstatymo 27 straipsnio 2 dalies 29 punkte
-- [[latest/TAR.D0CD0966D67F#^s-2254812e6f376d1258f35bbc|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - Vietos savivaldos įstatymo 3 straipsnio 19 dalyje
-- [[latest/TAR.D0CD0966D67F#^s-6ef80039a80b9aef1dc49900|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - Lietuvos Respublikos vietos savivaldos įstatymo 6 straipsnio 38 punkto
-- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 8 citatos - Viešojo administravimo įstatyme
-- [[latest/TAR.0BDFFD850A66#^s-f6aa810ad6df24f4555ecc19|Lietuvos Respublikos viešojo administravimo įstatymas]] - 2 citatos - Viešojo administravimo įstatymo 11 straipsnio 2 dalyje
-- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 6 citatos - Lietuvos Respublikos viešųjų pirkimų įstatymo
-- [[latest/TAR.769B541DD7F7|Lietuvos Respublikos ūkininko ūkio įstatymas]] - 4 citatos - Ūkininko ūkio įstatymo
-- [[latest/TAR.13E108ED3981|Lietuvos Respublikos žemės gelmių įstatymas]] - 4 citatos - Lietuvos Respublikos žemės gelmių įstatymo
-- [[latest/TAR.D267FBDC094B|Lietuvos Respublikos žemės mokesčio įstatymas]] - 2 citatos - Lietuvos Respublikos žemės mokesčio įstatyme
-- [[latest/TAR.057DCC40ECC6|Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas]] - 12 citatos - Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme
-- [[latest/TAR.057DCC40ECC6#^s-81cecdd1f6dd419e863b2d8e|Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas]] - 2 citatos - Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 3 straipsnio 3 dalyje
-- [[latest/TAR.58505144F1F3|Lietuvos Respublikos žemės įstatymo 10 straipsnio pakeitimo įstatymas]] - 4 citatos - Įstatymas Nr. X-1797
-- [[latest/TAR.A87457478EAE|Lietuvos Respublikos žemės įstatymo 10 straipsnio papildymo įstatymas]] - 4 citatos - Įstatymas Nr. XI-2119
-- [[latest/TAR.F30FEF80C72C|Lietuvos Respublikos žemės įstatymo 14, 19 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - Įstatymas Nr. X-326
-- [[latest/TAR.BA4374A6AE55|Lietuvos Respublikos žemės įstatymo 18 straipsnio papildymo įstatymas]] - 4 citatos - Įstatymas Nr. IX-490
-- [[latest/TAR.A93352D8BA78|Lietuvos Respublikos žemės įstatymo 2, 14, 20, 30, 31, 49, 50, 51 straipsnių pakeitimo ir XII skyriaus pavadinimo pakeitimo įstatymas]] - 4 citatos - Įstatymas Nr. VIII-1766
-- [[latest/TAR.A64DB3EB7FC6|Lietuvos Respublikos žemės įstatymo 2, 3, 7, 8, 9, 10, 12, 13, 15, 16, 19, 20, 21, 22, 23, 24, 25, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - Įstatymas Nr. XI-912
-- [[latest/TAR.CB80663F7E52|Lietuvos Respublikos žemės įstatymo 2, 6, 11, 23, 24, 27, 30, 31, 32, 35, 37, 45, 47, 50, 55 straipsnių pakeitimo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS ŽEMĖS ĮSTATYMO 2, 6, 11, 23, 24, 27, 30, 31, 32, 35, 37, 45, 47, 50, 55 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.B74D21B60FF2|Lietuvos Respublikos žemės įstatymo 2, 8, 9, 32, 37 straipsnių pakeitimo ir 45 straipsnio papildymo įstatymas]] - 4 citatos - Įstatymas Nr. XI-1313
-- [[latest/TAR.3A243AC34B13|Lietuvos Respublikos žemės įstatymo 2, 9, 10, 12, 13, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 37, 38, 39, 40, 41, 45, 46, 47, 48, 49, 51, 52 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - Įstatymas Nr. XII-411
-- [[latest/TAR.02CFAE383A3E|Lietuvos Respublikos žemės įstatymo 22 straipsnio pakeitimo įstatymas]] - 4 citatos - Įstatymas Nr. IX-2517
-- [[latest/TAR.31191B49C6FD|Lietuvos Respublikos žemės įstatymo 29 straipsnio papildymo įstatymas]] - 4 citatos - Įstatymas Nr. X-1242
-- [[latest/TAR.AED9738851A9|Lietuvos Respublikos žemės įstatymo 3, 6, 9, 10, 12, 17, 18, 21, 22, 23, 24, 28, 30, 31, 35, 36, 37, 39, 40, 41, 44, 47, 49, 55 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - Įstatymas Nr. VIII-1664
-- [[latest/TAR.300D3FCAA39F|Lietuvos Respublikos žemės įstatymo 31 straipsnio papildymo ir pakeitimo įstatymas]] - 4 citatos - Įstatymas Nr. IX-1136
-- [[latest/TAR.01FE54C6278F|Lietuvos Respublikos žemės įstatymo 32 straipsnio papildymo ir pakeitimo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS ŽEMĖS ĮSTATYMO 32 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.78693AA60FE4|Lietuvos Respublikos žemės įstatymo 35 straipsnio papildymo įstatymas]] - 4 citatos - Įstatymas Nr. IX-1048
-- [[latest/TAR.65D269742121|Lietuvos Respublikos žemės įstatymo 41 straipsnio pakeitimo įstatymas]] - 4 citatos - Įstatymas Nr. X-541
-- [[latest/TAR.1ACB702C6227|Lietuvos Respublikos žemės įstatymo 45, 46, 47 ir 48 straipsnių pakeitimo įstatymas]] - 4 citatos - Įstatymas Nr. XI-1314
-- [[latest/TAR.52F4965DA815|Lietuvos Respublikos žemės įstatymo 5, 7, 10 ir 32 straipsnių pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas]] - 4 citatos - Įstatymas Nr. X-773
-- [[latest/TAR.2FEDA6D6A17E|Lietuvos Respublikos žemės įstatymo 5, 7, 9, 14, 19, 22, 23, 30, 34, 46, 49, 50, 51, 52 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - Įstatymas Nr. XI-660
-- [[latest/TAR.4111834C51E6|Lietuvos Respublikos žemės įstatymo 6, 29, 45, 46, 47 straipsnių pakeitimo ir papildymo įstatymas]] - 4 citatos - Įstatymas Nr. X-982
-- [[latest/TAR.3ECA677AC3CA|Lietuvos Respublikos žemės įstatymo 9 ir 21 straipsnių pakeitimo įstatymas]] - 4 citatos - Įstatymas Nr. IX-2325
-- [[latest/TAR.F48E17FE243D|Lietuvos Respublikos žemės įstatymo 9 straipsnio pakeitimo įstatymas]] - 4 citatos - Įstatymas Nr. XI-544
-- [[latest/TAR.327886FE1AFC|Lietuvos Respublikos žemės įstatymo 9 straipsnio papildymo įstatymas]] - 4 citatos - Įstatymas Nr. XI-301
-- [[latest/2b264720ae2511e5b12fbb7dc920ee2c|Lietuvos Respublikos žemės įstatymo Nr. I-446 1, 2 ir 41 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2173
-- [[latest/3e3fd270a55411eea5a28c81c82193a8|Lietuvos Respublikos žemės įstatymo Nr. I-446 10 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2424
-- [[latest/fb37e112dfea11f08918e1adc7c5b1ec|Lietuvos Respublikos žemės įstatymo Nr. I-446 11 ir 40 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-675
-- [[latest/769b6610021111efbcbfb318996800a8|Lietuvos Respublikos žemės įstatymo Nr. I-446 13 ir 32 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2556
-- [[latest/12cc27b0de7611ed9978886e85107ab2|Lietuvos Respublikos žemės įstatymo Nr. I-446 13, 22, 40 ir 42 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1877
-- [[latest/383ec140a62d11eea5a28c81c82193a8|Lietuvos Respublikos žemės įstatymo Nr. I-446 2 ir 3 straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2444
-- [[latest/367f36c0f64011ed9978886e85107ab2|Lietuvos Respublikos žemės įstatymo Nr. I-446 2 ir 45 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1929
-- [[latest/7c1c1810926c11e9ae2e9d61b1f977b3|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 13, 21, 34, 48 ir 51 straipsnių pakeitimo ir 22 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2193
-- [[latest/8269f2f06fc711edbc04912defe897d1|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 23, 24, 32, 37, 41 ir 42 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1536
-- [[latest/00518c5003ab11efbcbfb318996800a8|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 23, 32, 37, 41 ir 42 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2565
-- [[latest/fcebfb601fa611eeb233e8b04dc9bb3d|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymas]] - 3 citatos - Įstatymas Nr. XIV-2114
-- [[latest/4726ce20a15d11eea5a28c81c82193a8|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymo Nr. XIV-2114 5, 8, 10, 17, 18, 21, 22, 24, 27, 30 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2340
-- [[latest/ab66e212a73011ef90b5ee8931e5ce5e|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 32, 41, 45, 49, 50, 51 ir 52 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-3116
-- [[latest/19f3cc7255cd11f0b070ee7f1ceefc75|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 32, 41, 45, 49, 50, 51 ir 52 straipsnių pakeitimo įstatymo Nr. XIV-3116 3 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-357
-- [[latest/d8d5e3a055d011f0b070ee7f1ceefc75|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-381
-- [[latest/e563b270e56111f08918e1adc7c5b1ec|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - 2 citatos - Įstatymas Nr. XV-704
-- [[latest/964880b23bc711f0b070ee7f1ceefc75|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 15, 22, 23, 29, 32, 34, 35, 37, 40, 41, 43, 45, 47, 55, 56, 64, 66 straipsnių ir VI-1 skyriaus pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-211
-- [[latest/78aef0e2afce11f092fda1fd0c194cc5|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 9, 13-1, 23, 37, 42 ir 45 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-481
-- [[latest/6d4477d0757311e4805fa6cb12e2ef99|Lietuvos Respublikos žemės įstatymo Nr. I-446 21 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1347
-- [[latest/f3132e80a62711eea5a28c81c82193a8|Lietuvos Respublikos žemės įstatymo Nr. I-446 22 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2391
-- [[latest/97572d10a09811eea5a28c81c82193a8|Lietuvos Respublikos žemės įstatymo Nr. I-446 22, 23, 32 ir 40 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2333
-- [[latest/f4a48b30ccf911ec8d9390588bf2de65|Lietuvos Respublikos žemės įstatymo Nr. I-446 23 ir 47 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1048
-- [[latest/541d12a028b211e6acf89da936cb7409|Lietuvos Respublikos žemės įstatymo Nr. I-446 23 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2362
-- [[latest/5b4cc230a16511eea5a28c81c82193a8|Lietuvos Respublikos žemės įstatymo Nr. I-446 25 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2381
-- [[latest/14d86df08b7a11e9ae2e9d61b1f977b3|Lietuvos Respublikos žemės įstatymo Nr. I-446 32 ir 40 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2149
-- [[latest/f01ef91034fe11e99595d005d42b863e|Lietuvos Respublikos žemės įstatymo Nr. I-446 32 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1967
-- [[latest/96cc60e04f0811e9975f9c35aedfe438|Lietuvos Respublikos žemės įstatymo Nr. I-446 40 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1987
-- [[latest/ac44077049c111efbdaea558de59136c|Lietuvos Respublikos žemės įstatymo Nr. I-446 40 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2918
-- [[latest/d534e5a0757311e4805fa6cb12e2ef99|Lietuvos Respublikos žemės įstatymo Nr. I-446 42 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1348
-- [[latest/5062e040a9a411ebbcbbc2971cdac3cb|Lietuvos Respublikos žemės įstatymo Nr. I-446 45, 46, 47 ir 48 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-273
-- [[latest/a0d98120304f11eabe008ea93139d588|Lietuvos Respublikos žemės įstatymo Nr. I-446 52 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2738
-- [[latest/25337d90793111e8ae2bfd1913d66d57|Lietuvos Respublikos žemės įstatymo Nr. I-446 7 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1266
-- [[latest/ca135ae0510211e7846ef01bfffb9b64|Lietuvos Respublikos žemės įstatymo Nr. I-446 7 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-423
-- [[latest/ab156a60042211edb32c9f9d8ba206f8|Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 13, 32, 34, 35, 49, 50, 51 ir 52 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1309
-- [[latest/bd1704b0aea511e98451fa7b5933515d|Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9 ir 32 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2283
-- [[latest/df1f3370ec8c11e78a1adea6fe72f3c5|Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9 ir 32 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-971
-- [[latest/08e696f0bb3411e38766a859941f6073|Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9, 10, 19 ir 32 straipsnių pakeitimo]] - 2 citatos - Įstatymas Nr. XII-793
-- [[latest/c447b8c0ca0411f08918e1adc7c5b1ec|Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 9 ir 11 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XV-535
-- [[latest/e121ec10225611eabe008ea93139d588|Lietuvos Respublikos žemės įstatymo Nr. I-446 8 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2640
-- [[latest/f34d9e7286ce11efabdbb4a1fc8b0b63|Lietuvos Respublikos žemės įstatymo Nr. I-446 8, 9, 22, 29, 36-2, 48 ir 52 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2993
-- [[latest/b15f4260794311e8ae2bfd1913d66d57|Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 10 straipsnių pakeitimo ir Įstatymo papildymo 31-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1268
-- [[latest/7c0429f017b311e4afafe56485a7e49a|Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 10 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-1085
-- [[latest/85cdeaf0c26d11ea9815f635b9c0dcef|Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 23 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3165
-- [[latest/3f612960582111ec862fdcbc8b3e3e05|Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 24 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-717
-- [[latest/96e976f0800411ec993ff5ca6e8ba60c|Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 45 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-920
-- [[latest/96c4a5a09e6a11e58fd1fc0b9bba68a7|Lietuvos Respublikos žemės įstatymo Nr. I-446 9 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2132
-- [[latest/d3e1cbf0fbba11e99681cd81dcdca52c|Lietuvos Respublikos žemės įstatymo Nr. I-446 9 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2482
-- [[latest/33d53292042311edb32c9f9d8ba206f8|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-1311
-- [[latest/442d41001fa711eeb233e8b04dc9bb3d|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2115
-- [[latest/6ea60d20a0cd11eea5a28c81c82193a8|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2338
-- [[latest/6dbdd2c0a62d11eea5a28c81c82193a8|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2445
-- [[latest/TAR.32645AF4CDA5|Lietuvos Respublikos žemės įstatymo pakeitimo ir papildymo įstatymas]] - 4 citatos - LIETUVOS RESPUBLIKOS ŽEMĖS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.7ED447C0D254|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - 4 citatos - Įstatymas Nr. IX-1983
-- [[latest/TAR.7A932101FADA|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas]] - 11 citatos - Žemės ūkio paskirties žemės įsigijimo įstatyme
-- [[latest/TAR.80CA64E588A1|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas]] - 4 citatos - Žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme
+- [[latest/TAR.7847E47234C5|Dėl Lietuvos Respublikos žemės įstatymo pakeitimo ir papildymo]] - DĖL LIETUVOS RESPUBLIKOS ŽEMĖS ĮSTATYMO PAKEITIMO IR PAPILDYMO
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 8 citatos - Administracinių bylų teisenos įstatymo
+- [[latest/TAR.E2780B68DE62|Lietuvos Respublikos aplinkos apsaugos įstatymas]] - Lietuvos Respublikos aplinkos apsaugos įstatymas
+- [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje
+- [[latest/TAR.FC7AB69BE291|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 2 citatos - Atsinaujinančių išteklių energetikos įstatyme
+- [[latest/TAR.FC7AB69BE291#^s-a71cc4e8554d0b15a1469fb5|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - Atsinaujinančių išteklių energetikos įstatymo 202 straipsnio
+- [[latest/TAR.04F64676CE77|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - 2 citatos - Branduolinės (atominės) elektrinės įstatymas
+- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 2 citatos - Lietuvos Respublikos civilinis kodeksas
+- [[latest/TAR.F57794B7899F#^s-1856428808b3904060963af8|Lietuvos Respublikos elektros energetikos įstatymas]] - Lietuvos Respublikos elektros energetikos įstatymo 222 straipsnio
+- [[latest/TAR.44235B485568|Lietuvos Respublikos energetikos įstatymas]] - Lietuvos Respublikos energetikos įstatyme
+- [[latest/TAR.EFE69222D6BC|Lietuvos Respublikos geodezijos ir kartografijos įstatymas]] - Lietuvos Respublikos geodezijos ir kartografijos įstatyme
+- [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymas]] - 12 citatos - Investicijų įstatyme
+- [[latest/TAR.C7E57DF3CEC5#^s-234053616acdbeab39897430|Lietuvos Respublikos investicijų įstatymas]] - Investicijų įstatymo 156 straipsnio 1 dalyje
+- [[latest/TAR.C7E57DF3CEC5#^s-32a6885b158696c4b9142dea|Lietuvos Respublikos investicijų įstatymas]] - Investicijų įstatymo 156 straipsnio 3 dalies 4 punktą
+- [[latest/TAR.C7E57DF3CEC5#^s-8c06446af7ca6c4bcbbdb2b9|Lietuvos Respublikos investicijų įstatymas]] - Investicijų įstatymo 2 straipsnio 25 dalyje
+- [[latest/TAR.56935A08DD06|Lietuvos Respublikos jūros aplinkos apsaugos įstatymas]] - Lietuvos Respublikos jūros aplinkos apsaugos įstatymas
+- [[latest/TAR.C4931928A573|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo ir Žemės įstatymo pakeitimo įstatymas]] - KLAIPĖDOS VALSTYBINIO JŪRŲ UOSTO ĮSTATYMO IR ŽEMĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.6A449FCC534B|Lietuvos Respublikos koncesijų įstatymas]] - Lietuvos Respublikos koncesijų įstatymo
+- [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymas]] - Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme
+- [[latest/TAR.D0429A864011|Lietuvos Respublikos melioracijos įstatymas]] - Lietuvos Respublikos melioracijos įstatyme
+- [[latest/TAR.5D6D055CC00C|Lietuvos Respublikos miškų įstatymas]] - 9 citatos - Miškų įstatymo
+- [[latest/TAR.3CD1008B88A9#^s-f6eeb560f7195bdfe7d03092|Lietuvos Respublikos mobilizacijos ir priimančiosios šalies paramos įstatymas]] - 3 citatos - Mobilizacijos ir priimančiosios šalies paramos įstatymo 6 straipsnio 10 punkte
+- [[latest/TAR.9BC8AEE9D9F8|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - 3 citatos - Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas
+- [[latest/TAR.72C31F8DD98E|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - 8 citatos - Nekilnojamojo turto kadastro įstatyme
+- [[latest/TAR.B4FAA1DD73CF|Lietuvos Respublikos nekilnojamojo turto mokesčio įstatymas]] - Lietuvos Respublikos nekilnojamojo turto mokesčio įstatyme
+- [[latest/TAR.38E82AA2664C|Lietuvos Respublikos nekilnojamojo turto registro įstatymas]] - 4 citatos - Lietuvos Respublikos nekilnojamojo turto registro įstatyme
+- [[latest/TAR.4F95269B43A0|Lietuvos Respublikos pajūrio juostos įstatymas]] - Lietuvos Respublikos pajūrio juostos įstatymo
+- [[latest/TAR.8A16A03D98D4|Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymas]] - Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 12 straipsnio 1 dalies 8 punkte
+- [[latest/ed3eaf90087c11efbcbfb318996800a8|Lietuvos Respublikos privalomojo turto ir verslo vertinimo įstatymas]] - 15 citatos - Privalomojo turto ir verslo vertinimo įstatyme
+- [[latest/TAR.7E8386C5AA76|Lietuvos Respublikos regioninės plėtros įstatymas]] - 3 citatos - Regioninės plėtros įstatymu
+- [[latest/TAR.FF1083B528B7|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 6 citatos - Saugomų teritorijų įstatymas
+- [[latest/TAR.FF1083B528B7#^s-dd4fe573bab4c20ddcb907f0|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Saugomų teritorijų įstatymo 27 straipsnyje
+- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - 8 citatos - Specialiųjų žemės naudojimo sąlygų įstatyme
+- [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Lietuvos Respublikos statybos įstatyme
+- [[latest/TAR.26B563184529|Lietuvos Respublikos teritorijų planavimo įstatymas]] - 18 citatos - Teritorijų planavimo įstatymu
+- [[latest/TAR.26B563184529#^s-c801fa2a78ab80f33f60e622|Lietuvos Respublikos teritorijų planavimo įstatymas]] - 2 citatos - Teritorijų planavimo įstatymo 23 straipsnyje
+- [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje
+- [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 3 citatos - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme
+- [[latest/TAR.D5496D69DF98#^s-90aa1eec7993a3f595978152|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymas]] - 2 citatos - Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 14 straipsnyje
+- [[latest/TAR.B3CC2C0B9BD2|Lietuvos Respublikos vandens įstatymas]] - Lietuvos Respublikos vandens įstatymas
+- [[latest/TAR.D0CD0966D67F#^s-05c8757706f8200f83f302bc|Lietuvos Respublikos vietos savivaldos įstatymas]] - Lietuvos Respublikos vietos savivaldos įstatymo 27 straipsnio 2 dalies 29 punkte
+- [[latest/TAR.D0CD0966D67F#^s-2254812e6f376d1258f35bbc|Lietuvos Respublikos vietos savivaldos įstatymas]] - Vietos savivaldos įstatymo 3 straipsnio 19 dalyje
+- [[latest/TAR.D0CD0966D67F#^s-6ef80039a80b9aef1dc49900|Lietuvos Respublikos vietos savivaldos įstatymas]] - Lietuvos Respublikos vietos savivaldos įstatymo 6 straipsnio 38 punkto
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 10 citatos - Viešojo administravimo įstatyme
+- [[latest/TAR.0BDFFD850A66#^s-f6aa810ad6df24f4555ecc19|Lietuvos Respublikos viešojo administravimo įstatymas]] - Viešojo administravimo įstatymo 11 straipsnio 2 dalyje
+- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 4 citatos - Viešųjų pirkimų įstatymo
+- [[latest/TAR.769B541DD7F7|Lietuvos Respublikos ūkininko ūkio įstatymas]] - 2 citatos - Ūkininko ūkio įstatymo
+- [[latest/TAR.13E108ED3981|Lietuvos Respublikos žemės gelmių įstatymas]] - 2 citatos - Žemės gelmių įstatymo
+- [[latest/TAR.D267FBDC094B|Lietuvos Respublikos žemės mokesčio įstatymas]] - 2 citatos - Žemės mokesčio įstatymo 8 straipsnio 2 dalies 3 punkte
+- [[latest/TAR.057DCC40ECC6|Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas]] - 7 citatos - Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatyme
+- [[latest/TAR.057DCC40ECC6#^s-81cecdd1f6dd419e863b2d8e|Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas]] - Žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo 3 straipsnio 3 dalyje
+- [[latest/TAR.58505144F1F3|Lietuvos Respublikos žemės įstatymo 10 straipsnio pakeitimo įstatymas]] - ŽEMĖS ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.A87457478EAE|Lietuvos Respublikos žemės įstatymo 10 straipsnio papildymo įstatymas]] - ŽEMĖS ĮSTATYMO 10 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.F30FEF80C72C|Lietuvos Respublikos žemės įstatymo 14, 19 straipsnių pakeitimo ir papildymo įstatymas]] - ŽEMĖS ĮSTATYMO 14, 19 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.BA4374A6AE55|Lietuvos Respublikos žemės įstatymo 18 straipsnio papildymo įstatymas]] - ŽEMĖS ĮSTATYMO 18 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.A93352D8BA78|Lietuvos Respublikos žemės įstatymo 2, 14, 20, 30, 31, 49, 50, 51 straipsnių pakeitimo ir XII skyriaus pavadinimo pakeitimo įstatymas]] - ŽEMĖS ĮSTATYMO 2, 14, 20, 30, 31, 49, 50, 51 STRAIPSNIŲ PAKEITIMO IR XII SKYRIAUS PAVADINIMO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.A64DB3EB7FC6|Lietuvos Respublikos žemės įstatymo 2, 3, 7, 8, 9, 10, 12, 13, 15, 16, 19, 20, 21, 22, 23, 24, 25, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir papildymo įstatymas]] - ŽEMĖS ĮSTATYMO 2, 3, 7, 8, 9, 10, 12, 13, 15, 16, 19, 20, 21, 22, 23, 24, 25, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.CB80663F7E52|Lietuvos Respublikos žemės įstatymo 2, 6, 11, 23, 24, 27, 30, 31, 32, 35, 37, 45, 47, 50, 55 straipsnių pakeitimo įstatymas]] - LIETUVOS RESPUBLIKOS ŽEMĖS ĮSTATYMO 2, 6, 11, 23, 24, 27, 30, 31, 32, 35, 37, 45, 47, 50, 55 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.B74D21B60FF2|Lietuvos Respublikos žemės įstatymo 2, 8, 9, 32, 37 straipsnių pakeitimo ir 45 straipsnio papildymo įstatymas]] - ŽEMĖS ĮSTATYMO 2, 8, 9, 32, 37 STRAIPSNIŲ PAKEITIMO IR 45 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.3A243AC34B13|Lietuvos Respublikos žemės įstatymo 2, 9, 10, 12, 13, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 37, 38, 39, 40, 41, 45, 46, 47, 48, 49, 51, 52 straipsnių pakeitimo ir papildymo įstatymas]] - ŽEMĖS ĮSTATYMO 2, 9, 10, 12, 13, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 37, 38, 39, 40, 41, 45, 46, 47, 48, 49, 51, 52 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.02CFAE383A3E|Lietuvos Respublikos žemės įstatymo 22 straipsnio pakeitimo įstatymas]] - ŽEMĖS ĮSTATYMO 22 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.31191B49C6FD|Lietuvos Respublikos žemės įstatymo 29 straipsnio papildymo įstatymas]] - ŽEMĖS ĮSTATYMO 29 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.AED9738851A9|Lietuvos Respublikos žemės įstatymo 3, 6, 9, 10, 12, 17, 18, 21, 22, 23, 24, 28, 30, 31, 35, 36, 37, 39, 40, 41, 44, 47, 49, 55 straipsnių pakeitimo ir papildymo įstatymas]] - ŽEMĖS ĮSTATYMO 3, 6, 9, 10, 12, 17, 18, 21, 22, 23, 24, 28, 30, 31, 35, 36, 37, 39, 40, 41, 44, 47, 49, 55 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.300D3FCAA39F|Lietuvos Respublikos žemės įstatymo 31 straipsnio papildymo ir pakeitimo įstatymas]] - ŽEMĖS ĮSTATYMO 31 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.01FE54C6278F|Lietuvos Respublikos žemės įstatymo 32 straipsnio papildymo ir pakeitimo įstatymas]] - LIETUVOS RESPUBLIKOS ŽEMĖS ĮSTATYMO 32 STRAIPSNIO PAPILDYMO IR PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.78693AA60FE4|Lietuvos Respublikos žemės įstatymo 35 straipsnio papildymo įstatymas]] - ŽEMĖS ĮSTATYMO 35 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.65D269742121|Lietuvos Respublikos žemės įstatymo 41 straipsnio pakeitimo įstatymas]] - ŽEMĖS ĮSTATYMO 41 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.1ACB702C6227|Lietuvos Respublikos žemės įstatymo 45, 46, 47 ir 48 straipsnių pakeitimo įstatymas]] - ŽEMĖS ĮSTATYMO 45, 46, 47 IR 48 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.52F4965DA815|Lietuvos Respublikos žemės įstatymo 5, 7, 10 ir 32 straipsnių pakeitimo ir 11 straipsnio pripažinimo netekusiu galios įstatymas]] - ŽEMĖS ĮSTATYMO 5, 7, 10 IR 32 STRAIPSNIŲ PAKEITIMO IR 11 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+- [[latest/TAR.2FEDA6D6A17E|Lietuvos Respublikos žemės įstatymo 5, 7, 9, 14, 19, 22, 23, 30, 34, 46, 49, 50, 51, 52 straipsnių pakeitimo ir papildymo įstatymas]] - ŽEMĖS ĮSTATYMO 5, 7, 9, 14, 19, 22, 23, 30, 34, 46, 49, 50, 51, 52 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.4111834C51E6|Lietuvos Respublikos žemės įstatymo 6, 29, 45, 46, 47 straipsnių pakeitimo ir papildymo įstatymas]] - ŽEMĖS ĮSTATYMO 6, 29, 45, 46, 47 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.3ECA677AC3CA|Lietuvos Respublikos žemės įstatymo 9 ir 21 straipsnių pakeitimo įstatymas]] - ŽEMĖS ĮSTATYMO 9 IR 21 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.F48E17FE243D|Lietuvos Respublikos žemės įstatymo 9 straipsnio pakeitimo įstatymas]] - ŽEMĖS ĮSTATYMO 9 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.327886FE1AFC|Lietuvos Respublikos žemės įstatymo 9 straipsnio papildymo įstatymas]] - ŽEMĖS ĮSTATYMO 9 STRAIPSNIO PAPILDYMO ĮSTATYMAS
+- [[latest/fcebfb601fa611eeb233e8b04dc9bb3d|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 10, 11, 12, 13, 22, 27, 30, 34, 35, 37, 39, 40, 41, 43, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 35-1, 35-2 ir 66 straipsniais įstatymas]] - 2 citatos - įstatymo Nr. XIV-2114
+- [[latest/ab66e212a73011ef90b5ee8931e5ce5e|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 32, 41, 45, 49, 50, 51 ir 52 straipsnių pakeitimo įstatymas]] - įstatymo Nr. XIV-3116
+- [[latest/33d53292042311edb32c9f9d8ba206f8|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - 4 citatos - įstatymo Nr. XIV-1311
+- [[latest/442d41001fa711eeb233e8b04dc9bb3d|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - 2 citatos - įstatymo Nr. XIV-2115
+- [[latest/TAR.32645AF4CDA5|Lietuvos Respublikos žemės įstatymo pakeitimo ir papildymo įstatymas]] - LIETUVOS RESPUBLIKOS ŽEMĖS ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.7ED447C0D254|Lietuvos Respublikos žemės įstatymo pakeitimo įstatymas]] - ŽEMĖS ĮSTATYMO PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.7A932101FADA|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas]] - 6 citatos - Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo
+- [[latest/TAR.80CA64E588A1|Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymas]] - 2 citatos - Žemės ūkio, maisto ūkio ir kaimo plėtros įstatyme
 
 ## Šį įstatymą cituoja
 
@@ -144,500 +98,433 @@ pavadinimas: "Lietuvos Respublikos žemės įstatymas"
 - [[latest/TAR.D856EBD4D076|Dėl Lietuvos Respublikos žemės reformos įstatymo pakeitimo ir papildymo]] - Lietuvos Respublikos žemės įstatymas
 - [[latest/TAR.BDAFA66E36BF|Dėl Lietuvos Respublikos žemės reformos įstatymo papildymo ir pakeitimo]] - Žemės įstatymas
 - [[latest/TAR.E9DC13B87509#^s-77a78cf2f1d9696817818666|Lietuvos Respublikos Akmenės laisvosios ekonominės zonos įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/TAR.E9DC13B87509#^s-80fefc9db9c45095c2b8786b|Lietuvos Respublikos Akmenės laisvosios ekonominės zonos įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/749d9080ebe911e78a1adea6fe72f3c5#^s-c40dea20f73f51bfe696ec3c|Lietuvos Respublikos Akmenės laisvosios ekonominės zonos įstatymo Nr. XI-1906 2 ir 4 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/8369b610f77e11e39cfacd978b6fd9bb#^s-33ee8b66c7fec47189a98008|Lietuvos Respublikos Akmenės laisvosios ekonominės zonos įstatymo Nr. XI-1906 4 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/TAR.18C8D43EB9DC#^s-45eeb0b6a29f6ec6aa123d9a|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme nustatytais pagrindais ir netaikant Koncesijų įstatymo 3 straipsnio
-- [[latest/TAR.18C8D43EB9DC#^s-6967c16889e98d8db153ae45|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme nustatytais pagrindais ir netaikant Koncesijų įstatymo 3 straipsnio
-- [[latest/TAR.FC7AB69BE291#^s-4424963f51b3197502d3dd49|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - Lietuvos Respublikos žemės įstatyme
+- [[latest/TAR.18C8D43EB9DC#^s-45eeb0b6a29f6ec6aa123d9a|Lietuvos Respublikos atominės elektrinės įstatymo pakeitimo įstatymas]] - 4 citatos - 6
 - [[latest/TAR.FC7AB69BE291#^s-52e37a609ac0affcac4ddfbd|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/bd0c979255c611f0b070ee7f1ceefc75#^s-da20a54b38cd2bfcfa7457d0|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 5, 6, 7, 11, 12, 13-1, 14, 14-1, 15-1, 16, 19, 20, 20-1, 20-2, 22, 22-1, 23, 28, 29, 30, 31, 37, 38, 39-1, 39-3, 39-4, 39-5, 39-6, 45, 46, 48, 49, 51, 55, 57, 59, 60, 63, 64, 65 straipsnių, septintojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 1-1, 39-7, 48-1, 48-2, 58-1 straipsniais įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/bd0c979255c611f0b070ee7f1ceefc75#^s-f8ee715502875bc66680a68d|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 3, 5, 6, 7, 11, 12, 13-1, 14, 14-1, 15-1, 16, 19, 20, 20-1, 20-2, 22, 22-1, 23, 28, 29, 30, 31, 37, 38, 39-1, 39-3, 39-4, 39-5, 39-6, 45, 46, 48, 49, 51, 55, 57, 59, 60, 63, 64, 65 straipsnių, septintojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 1-1, 39-7, 48-1, 48-2, 58-1 straipsniais įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/6e8821c04d0511e7846ef01bfffb9b64#^s-15de7aeab113db7e8aa410c5|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 6, 38, 58 straipsnių ir priedo pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/6e8821c04d0511e7846ef01bfffb9b64#^s-94e027b358794eb2f6d33ad4|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 1, 2, 6, 38, 58 straipsnių ir priedo pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/225ed7e0c1af11ea9815f635b9c0dcef#^s-65a46ced77f317b2d243d574|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 2, 4, 5, 6, 13, 20, 20-1, 22, 50, 51 ir 52 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/f7ad7790986d11eb9fecb5ecd3bd711c#^s-070dd80130920dba67132f3c|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 2, 4, 5, 6, 7, 9, 11, 12, 32, 35, 37, 51 straipsnių pakeitimo ir 8, 36, 39 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/f7ad7790986d11eb9fecb5ecd3bd711c#^s-6031f8efb70e208eba255272|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 2, 4, 5, 6, 7, 9, 11, 12, 32, 35, 37, 51 straipsnių pakeitimo ir 8, 36, 39 straipsnių pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/c3a3cf306aef11e7827cd63159af616c#^s-bc58cbbfd47ee5dded9c6e98|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo Nr. XI-1375 2, 5, 13, 16 ir 22 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/96e680e0f6cd11ec8fa7d02a65c371ad#^s-3e4b040cbcc58a41a4003117|Lietuvos Respublikos augalų sėklininkystės įstatymo Nr. IX-602 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/96e680e0f6cd11ec8fa7d02a65c371ad#^s-e98c1f864fcd2d42c1501c6b|Lietuvos Respublikos augalų sėklininkystės įstatymo Nr. IX-602 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/TAR.9D2F66B96EBC#^s-1466d7646d5cb7bbd5862369|Lietuvos Respublikos aviacijos įstatymas]] - Lietuvos Respublikos žemės įstatymu
 - [[latest/TAR.9D2F66B96EBC#^s-8e7c4ea974e0fb7978de1cc9|Lietuvos Respublikos aviacijos įstatymas]] - Žemės įstatymo
-- [[latest/TAR.9D2F66B96EBC#^s-90577ee50e0b6707c531e623|Lietuvos Respublikos aviacijos įstatymas]] - 2 citatos - Lietuvos Respublikos žemės įstatymu
 - [[latest/TAR.EB815A4D347A#^s-75c6b1d1880ae24584ae1a2f|Lietuvos Respublikos aviacijos įstatymo 2, 6, 21, 33, 36, 44, 63, 66 straipsnių pakeitimo ir papildymo ir Įstatymo priedo pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/TAR.EB815A4D347A#^s-96ffa66d2873117b65f4ce1a|Lietuvos Respublikos aviacijos įstatymo 2, 6, 21, 33, 36, 44, 63, 66 straipsnių pakeitimo ir papildymo ir Įstatymo priedo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/5f5f03d017b311ec9f09e7df20500045#^s-9577aefb455f999ed206033e|Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 11 ir 33 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymu
-- [[latest/5f5f03d017b311ec9f09e7df20500045#^s-f83f108334a1b806b90553d9|Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 11 ir 33 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymu
 - [[latest/30f397c0d8db11eb9f09e7df20500045#^s-03d63ac0e327465357a2187b|Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 5, 6, 8, 12, 16, 24, 28, 33, 35, 41, 45, 46, 47, 49, 52 straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo 41-1 straipsniu ir III skyriaus dešimtuoju skirsniu įstatymas]] - Žemės įstatymo
-- [[latest/30f397c0d8db11eb9f09e7df20500045#^s-ce2660bb91e7d7f1aafd9a98|Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 5, 6, 8, 12, 16, 24, 28, 33, 35, 41, 45, 46, 47, 49, 52 straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo 41-1 straipsniu ir III skyriaus dešimtuoju skirsniu įstatymas]] - 2 citatos - Lietuvos Respublikos žemės įstatymu
 - [[latest/30f397c0d8db11eb9f09e7df20500045#^s-d6468211516bdfaed3d4036a|Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 2, 5, 6, 8, 12, 16, 24, 28, 33, 35, 41, 45, 46, 47, 49, 52 straipsnių ir 3 priedo pakeitimo ir Įstatymo papildymo 41-1 straipsniu ir III skyriaus dešimtuoju skirsniu įstatymas]] - Lietuvos Respublikos žemės įstatymu
 - [[latest/12cc8370b51e11e98451fa7b5933515d#^s-65f9f89f7bd36ff9cfd2c5ff|Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/12cc8370b51e11e98451fa7b5933515d#^s-801886386796a57dccacd3be|Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žemės įstatymu
 - [[latest/12cc8370b51e11e98451fa7b5933515d#^s-abf7c917465cfc07299681a2|Lietuvos Respublikos aviacijos įstatymo Nr. VIII-2066 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymu
-- [[latest/TAR.04F64676CE77#^s-810b26fb811b4377f18f193e|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Lietuvos Respublikos žemės įstatyme nustatytais pagrindais ir netaikant Koncesijų įstatymo 3 straipsnio
-- [[latest/TAR.04F64676CE77#^s-8fef7d741b3176f7b1b6e0a4|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - Lietuvos Respublikos žemės įstatyme nustatytais pagrindais ir netaikant Koncesijų įstatymo 3 straipsnio
-- [[latest/TAR.4E37A1598E0C#^s-5dc3926b34b35447e0726340|Lietuvos Respublikos elektroninių ryšių įstatymo 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 18, 21, 22, 23, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 39, 40, 41, 48, 49, 50, 51, 52, 54, 56, 57, 58, 59, 61, 62, 63, 64, 66, 68, 69, 71, 72, 73, 74, 75, 77 straipsnių, antrojo skirsnio pavadinimo ir 2 priedo pakeitimo ir papildymo, Įstatymo papildymo 23-1, 23-2, 42-1 straipsniais ir 35 straipsnio pripažinimo netekusiu galios įstatymas]] - Žemės įstatyme
+- [[latest/TAR.04F64676CE77#^s-810b26fb811b4377f18f193e|Lietuvos Respublikos branduolinės (atominės) elektrinės įstatymas]] - 4 citatos - 6
 - [[latest/TAR.4E37A1598E0C#^s-c2b00b5f23e067d68b4e0fb5|Lietuvos Respublikos elektroninių ryšių įstatymo 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 18, 21, 22, 23, 27, 28, 29, 30, 31, 32, 33, 34, 36, 37, 39, 40, 41, 48, 49, 50, 51, 52, 54, 56, 57, 58, 59, 61, 62, 63, 64, 66, 68, 69, 71, 72, 73, 74, 75, 77 straipsnių, antrojo skirsnio pavadinimo ir 2 priedo pakeitimo ir papildymo, Įstatymo papildymo 23-1, 23-2, 42-1 straipsniais ir 35 straipsnio pripažinimo netekusiu galios įstatymas]] - Žemės įstatyme
-- [[latest/cbc0f0c098b611e9ae2e9d61b1f977b3#^s-01b1ade540f73676cb7053e1|Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas įstatymo Nr. XI-2052 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/cbc0f0c098b611e9ae2e9d61b1f977b3#^s-46628270bdf600b744f6a95b|Lietuvos Respublikos elektros energetikos sistemos integracijos į Europos elektros energetikos sistemas įstatymo Nr. XI-2052 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/afe4d3e0faa111eb9f09e7df20500045#^s-12b738cad9a605ef06e70b32|Lietuvos Respublikos fizinio barjero Lietuvos Respublikos teritorijoje prie Europos Sąjungos išorės sienos su Baltarusijos Respublika įrengimo įstatymas]] - Žemės įstatyme
 - [[latest/afe4d3e0faa111eb9f09e7df20500045#^s-4a37a55a001a65899c789d9a|Lietuvos Respublikos fizinio barjero Lietuvos Respublikos teritorijoje prie Europos Sąjungos išorės sienos su Baltarusijos Respublika įrengimo įstatymas]] - Žemės įstatyme
-- [[latest/afe4d3e0faa111eb9f09e7df20500045#^s-576840ec7173926238c75df2|Lietuvos Respublikos fizinio barjero Lietuvos Respublikos teritorijoje prie Europos Sąjungos išorės sienos su Baltarusijos Respublika įrengimo įstatymas]] - Lietuvos Respublikos žemės įstatymas
 - [[latest/afe4d3e0faa111eb9f09e7df20500045#^s-820de3c983ed2b79e975df7e|Lietuvos Respublikos fizinio barjero Lietuvos Respublikos teritorijoje prie Europos Sąjungos išorės sienos su Baltarusijos Respublika įrengimo įstatymas]] - Lietuvos Respublikos žemės įstatymas
-- [[latest/c4c3061256ff11f0a3d380837a821750#^s-01e319b8604ea2c5ffc86e71|Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 7-1, 9, 10-1, 12, 15, 19, 22, 23, 23-1, 24, 24-1, 25, 25-2, 29-8, 30-1, 30-2, 30-3, 30-4, 33, 34 straipsnių, ketvirtojo skirsnio pavadinimo, priedo pakeitimo, Kodekso papildymo 25-4, 30-5 straipsniais, aštuntuoju skirsniu ir penktojo skirsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/c4c3061256ff11f0a3d380837a821750#^s-07a27f7ee113112ddeb5c3f7|Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 7-1, 9, 10-1, 12, 15, 19, 22, 23, 23-1, 24, 24-1, 25, 25-2, 29-8, 30-1, 30-2, 30-3, 30-4, 33, 34 straipsnių, ketvirtojo skirsnio pavadinimo, priedo pakeitimo, Kodekso papildymo 25-4, 30-5 straipsniais, aštuntuoju skirsniu ir penktojo skirsnio pripažinimo netekusiu galios įstatymas]] - Žemės įstatymo
 - [[latest/c4c3061256ff11f0a3d380837a821750#^s-1f6db9ea81f1133d8dc3c2c5|Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 7-1, 9, 10-1, 12, 15, 19, 22, 23, 23-1, 24, 24-1, 25, 25-2, 29-8, 30-1, 30-2, 30-3, 30-4, 33, 34 straipsnių, ketvirtojo skirsnio pavadinimo, priedo pakeitimo, Kodekso papildymo 25-4, 30-5 straipsniais, aštuntuoju skirsniu ir penktojo skirsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/c4c3061256ff11f0a3d380837a821750#^s-2e2f9e8bad45922d9868374f|Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 7-1, 9, 10-1, 12, 15, 19, 22, 23, 23-1, 24, 24-1, 25, 25-2, 29-8, 30-1, 30-2, 30-3, 30-4, 33, 34 straipsnių, ketvirtojo skirsnio pavadinimo, priedo pakeitimo, Kodekso papildymo 25-4, 30-5 straipsniais, aštuntuoju skirsniu ir penktojo skirsnio pripažinimo netekusiu galios įstatymas]] - Žemės įstatymo
 - [[latest/c4c3061256ff11f0a3d380837a821750#^s-687ec190e281f319a52f0b6b|Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 7-1, 9, 10-1, 12, 15, 19, 22, 23, 23-1, 24, 24-1, 25, 25-2, 29-8, 30-1, 30-2, 30-3, 30-4, 33, 34 straipsnių, ketvirtojo skirsnio pavadinimo, priedo pakeitimo, Kodekso papildymo 25-4, 30-5 straipsniais, aštuntuoju skirsniu ir penktojo skirsnio pripažinimo netekusiu galios įstatymas]] - Žemės įstatymo
 - [[latest/c4c3061256ff11f0a3d380837a821750#^s-8568db8ba7c9252e0fe94eff|Lietuvos Respublikos geležinkelių transporto kodekso 1, 3, 7-1, 9, 10-1, 12, 15, 19, 22, 23, 23-1, 24, 24-1, 25, 25-2, 29-8, 30-1, 30-2, 30-3, 30-4, 33, 34 straipsnių, ketvirtojo skirsnio pavadinimo, priedo pakeitimo, Kodekso papildymo 25-4, 30-5 straipsniais, aštuntuoju skirsniu ir penktojo skirsnio pripažinimo netekusiu galios įstatymas]] - Žemės įstatymo
 - [[latest/788fd090131611e9b2b6e7cdb14007b4#^s-1c6a1c314cf3e8b081499b11|Lietuvos Respublikos geležinkelių transporto kodekso 3, 4-1, 5, 6-1, 7, 7-1, 9, 10, 14, 23, 23-1, 24, 25, 26, 28, 29, 30-1, 30-2, 30-3, 30-4, 33 straipsnių ir priedo pakeitimo, Kodekso papildymo 24-1, 24-2, 24-3, 24-4, 25-1, 25-2, 29-1, 29-2, 29-3, 29-4, 29-5, 29-6, 29-7 ir 29-8 straipsniais įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/788fd090131611e9b2b6e7cdb14007b4#^s-28d06c23f6b54a2b3653481c|Lietuvos Respublikos geležinkelių transporto kodekso 3, 4-1, 5, 6-1, 7, 7-1, 9, 10, 14, 23, 23-1, 24, 25, 26, 28, 29, 30-1, 30-2, 30-3, 30-4, 33 straipsnių ir priedo pakeitimo, Kodekso papildymo 24-1, 24-2, 24-3, 24-4, 25-1, 25-2, 29-1, 29-2, 29-3, 29-4, 29-5, 29-6, 29-7 ir 29-8 straipsniais įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/1b6f8100ccfc11ec8d9390588bf2de65#^s-7b9cbe40c011b1e03e928a7c|Lietuvos Respublikos geležinkelių transporto kodekso 9 ir 23-1 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/1703bcf0042711edb32c9f9d8ba206f8#^s-7199ada015bfaa76b356a863|Lietuvos Respublikos geležinkelių transporto kodekso 9 ir 23-1 straipsnių pakeitimo įstatymo Nr. XIV-1050 1 ir 2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/1e3702801fb411eeb233e8b04dc9bb3d#^s-8c88ab5b99ae97afa6c539bb|Lietuvos Respublikos geležinkelių transporto kodekso 9, 23-1 ir 30-2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/TAR.6EA8AC8A483B#^s-8f8521d364e4d479bf826b00|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/TAR.6EA8AC8A483B#^s-980ae49d56517228c9f78e70|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - Žemės įstatymo
-- [[latest/TAR.6EA8AC8A483B#^s-9e8a84ea1db914d4c880500b|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - Žemės įstatymo
 - [[latest/TAR.6EA8AC8A483B#^s-a8010a5d7fdb181de4ecd357|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - Žemės įstatymo
 - [[latest/TAR.6EA8AC8A483B#^s-d05c713f0ddc37b1e5752f3a|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/TAR.6EA8AC8A483B#^s-d132abbfc0470b34f95fe79a|Lietuvos Respublikos geležinkelių transporto kodekso patvirtinimo, įsigaliojimo ir taikymo įstatymas. Geležinkelių transporto kodeksas]] - Žemės įstatymo
 - [[latest/TAR.0E8344AF484F#^s-d25920434c530364cbcf9bdf|Lietuvos Respublikos geodezijos ir kartografijos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/TAR.0E8344AF484F#^s-ea07d20af71b1644e375049b|Lietuvos Respublikos geodezijos ir kartografijos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.0E8344AF484F#^s-fd535b976743fabf1e36f320|Lietuvos Respublikos geodezijos ir kartografijos įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/abdb66e01e5911ef8b14c5bcce136045#^s-1f3c18a9fe19f047b5272c84|Lietuvos Respublikos gynybos ir saugumo pramonės įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/abdb66e01e5911ef8b14c5bcce136045#^s-822c1590e132686726b0a604|Lietuvos Respublikos gynybos ir saugumo pramonės įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/5d811d50afcb11f092fda1fd0c194cc5#^s-66488f0ec61783ae83160cbe|Lietuvos Respublikos gynybos ir saugumo pramonės įstatymo Nr. XIV-2647 1 ir 2 straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/5d811d50afcb11f092fda1fd0c194cc5#^s-e59eb6b921a8dd6ef9379f9c|Lietuvos Respublikos gynybos ir saugumo pramonės įstatymo Nr. XIV-2647 1 ir 2 straipsnių pakeitimo ir Įstatymo papildymo 13-1 straipsniu įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/TAR.C7E57DF3CEC5#^s-0c343b7a09f8872dbbfc1da4|Lietuvos Respublikos investicijų įstatymas]] - 2 citatos - Žemės įstatyme
 - [[latest/TAR.C7E57DF3CEC5#^s-16160b0e06d068c70a42bd94|Lietuvos Respublikos investicijų įstatymas]] - Žemės įstatymo
-- [[latest/TAR.C7E57DF3CEC5#^s-30d43c7230a21f6fade840a3|Lietuvos Respublikos investicijų įstatymas]] - Žemės įstatymo
-- [[latest/TAR.C7E57DF3CEC5#^s-34aeba11e2b7d8d079110340|Lietuvos Respublikos investicijų įstatymas]] - 2 citatos - Žemės įstatyme
 - [[latest/TAR.C7E57DF3CEC5#^s-4b85328329ce833c4394b8e8|Lietuvos Respublikos investicijų įstatymas]] - Žemės įstatymo
 - [[latest/TAR.C7E57DF3CEC5#^s-52060f5368ced8dc342ad8fe|Lietuvos Respublikos investicijų įstatymas]] - Žemės įstatymo
 - [[latest/TAR.C7E57DF3CEC5#^s-8951ccb460fb858204b18947|Lietuvos Respublikos investicijų įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.C7E57DF3CEC5#^s-b014f66e53a98954a9e76c95|Lietuvos Respublikos investicijų įstatymas]] - Žemės įstatyme
-- [[latest/TAR.C7E57DF3CEC5#^s-ba82b9b2bcc178830f16bf7a|Lietuvos Respublikos investicijų įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.C7E57DF3CEC5#^s-cc2ef9952459ec8ff6e67e58|Lietuvos Respublikos investicijų įstatymas]] - Žemės įstatymo
-- [[latest/TAR.C7E57DF3CEC5#^s-f0d32d3a7e36793e1e5e468f|Lietuvos Respublikos investicijų įstatymas]] - Žemės įstatymo
-- [[latest/TAR.C7E57DF3CEC5#^s-ffb0264f6473faefafca5b68|Lietuvos Respublikos investicijų įstatymas]] - Žemės įstatymo
-- [[latest/9fe4fd70697411eca9ac839120d251c4#^s-641cd4a0ffc19e2933c5ec75|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 3, 9-1, 12 ir 13 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
+- [[latest/TAR.C7E57DF3CEC5#^s-f0d32d3a7e36793e1e5e468f|Lietuvos Respublikos investicijų įstatymas]] - 2 citatos - Žemės įstatymo
 - [[latest/9fe4fd70697411eca9ac839120d251c4#^s-dc932efaaba1acc02f4fbfe9|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 3, 9-1, 12 ir 13 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/7f5dbbc0c26b11ea9815f635b9c0dcef#^s-27bf14f3f214a9f513086cdc|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 9-1, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo ketvirtuoju-2 skirsniu įstatymas]] - Žemės įstatymo
 - [[latest/7f5dbbc0c26b11ea9815f635b9c0dcef#^s-7ad57498aaa06785977f81ed|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 9-1, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo ketvirtuoju-2 skirsniu įstatymas]] - 2 citatos - Žemės įstatyme
-- [[latest/7f5dbbc0c26b11ea9815f635b9c0dcef#^s-9940c4a2c241f6090ee19d30|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 1, 2, 9-1, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo ketvirtuoju-2 skirsniu įstatymas]] - 2 citatos - Žemės įstatyme
 - [[latest/a28cf530a62d11eea5a28c81c82193a8#^s-ab7e2f1a142b3ba4a45ba4e7|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12, 13 ir 15-5 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/a28cf530a62d11eea5a28c81c82193a8#^s-c995d53c3b70d31281cbad8f|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12, 13 ir 15-5 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/a28cf530a62d11eea5a28c81c82193a8#^s-f1f81c6636afe3f38621e854|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 12, 13 ir 15-5 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/7e2eba9003aa11efbcbfb318996800a8#^s-be756a588e7423a785638528|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-5 straipsnio pakeitimo įstatymas]] - Žemės įstatyme
-- [[latest/7e2eba9003aa11efbcbfb318996800a8#^s-df20d300f123442f90ff20ae|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 15-5 straipsnio pakeitimo įstatymas]] - Žemės įstatyme
-- [[latest/c3f83c20afcc11f092fda1fd0c194cc5#^s-584c5da7c0d6f9529c2afad4|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2 ir 13 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/24431cb089ed11e4a98a9f2247652cf4#^s-0bc88159a49405fa2b0ed6b4|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas]] - Lietuvos Respublikos žemės įstatymo
+- [[latest/c3f83c20afcc11f092fda1fd0c194cc5#^s-584c5da7c0d6f9529c2afad4|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2 ir 13 straipsnių pakeitimo įstatymas]] - 2 citatos - Žemės įstatymo
 - [[latest/24431cb089ed11e4a98a9f2247652cf4#^s-e32e5f7081995f8c570fb107|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/aa0afa1355d011f0b070ee7f1ceefc75#^s-0cde66924899a52ab7f94e1b|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13, 13-1 straipsnių, ketvirtojo-2 skirsnio pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas]] - 2 citatos - Žemės įstatyme
-- [[latest/aa0afa1355d011f0b070ee7f1ceefc75#^s-20cb448802999fb9eb7148e5|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13, 13-1 straipsnių, ketvirtojo-2 skirsnio pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas]] - 2 citatos - Žemės įstatyme
 - [[latest/aa0afa1355d011f0b070ee7f1ceefc75#^s-96dff66c7f570861819da88d|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13, 13-1 straipsnių, ketvirtojo-2 skirsnio pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas]] - Žemės įstatymo
-- [[latest/aa0afa1355d011f0b070ee7f1ceefc75#^s-a966abe91ce4d3b696ff9e0c|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13, 13-1 straipsnių, ketvirtojo-2 skirsnio pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas]] - Žemės įstatymo
 - [[latest/aa0afa1355d011f0b070ee7f1ceefc75#^s-b57c8a3a4639776cbff710a7|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13, 13-1 straipsnių, ketvirtojo-2 skirsnio pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas]] - Žemės įstatyme
 - [[latest/aa0afa1355d011f0b070ee7f1ceefc75#^s-e03ed9b024f455c169fa8279|Lietuvos Respublikos investicijų įstatymo Nr. VIII-1312 2, 12, 13, 13-1 straipsnių, ketvirtojo-2 skirsnio pakeitimo ir Įstatymo papildymo 13-2 straipsniu įstatymas]] - Žemės įstatymo
-- [[latest/TAR.C6074E202D98#^s-7d62fc3c76476a01c076e1e4|Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas]] - Žemės įstatymo
 - [[latest/TAR.C6074E202D98#^s-ec338f46c00e263aa7bda8db|Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymas]] - Žemės įstatymo
-- [[latest/TAR.56A50B2F90DC#^s-6b2fb4c504dc03149d8bb6e2|Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 3, 4, 6, 7 straipsnių pakeitimo ir priedėlio pripažinimo netekusiu galios įstatymas]] - Žemės įstatymo
 - [[latest/TAR.56A50B2F90DC#^s-a8e407d8f47e0b7339caec52|Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo 3, 4, 6, 7 straipsnių pakeitimo ir priedėlio pripažinimo netekusiu galios įstatymas]] - Žemės įstatymo
 - [[latest/cebee0d0f77f11e39cfacd978b6fd9bb#^s-3ae24a6fb43c611b0fdeb5f4|Lietuvos Respublikos Kauno laisvosios ekonominės zonos įstatymo Nr. I-1591 3 straipsnio pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/TAR.BF41D2C35D24#^s-4ca5e7acd6e15b92d3d4f353|Lietuvos Respublikos kelių įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/TAR.BF41D2C35D24#^s-877c81ea14a58d924637015f|Lietuvos Respublikos kelių įstatymas]] - 2 citatos - Žemės įstatyme
 - [[latest/TAR.BF41D2C35D24#^s-d39ccfeaaf13df9577b5d7b5|Lietuvos Respublikos kelių įstatymas]] - Žemės įstatymo
-- [[latest/TAR.BF41D2C35D24#^s-e1b083de085761a25f101dce|Lietuvos Respublikos kelių įstatymas]] - Žemės įstatyme
+- [[latest/TAR.BF41D2C35D24#^s-e1b083de085761a25f101dce|Lietuvos Respublikos kelių įstatymas]] - 2 citatos - Žemės įstatyme
 - [[latest/TAR.BF41D2C35D24#^s-f0b26904f76d1380eb4d7cf4|Lietuvos Respublikos kelių įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/39dd5790e56d11e39ea8c7e1dfdc4b5c#^s-0a8d33825a548ca5b9187015|Lietuvos Respublikos kelių įstatymo Nr. I-891 1, 2, 3, 4, 5, 7, 10, 17, 18, 20, 21 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/39dd5790e56d11e39ea8c7e1dfdc4b5c#^s-682e82034042dfae9926dfe4|Lietuvos Respublikos kelių įstatymo Nr. I-891 1, 2, 3, 4, 5, 7, 10, 17, 18, 20, 21 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas]] - Žemės įstatymo
 - [[latest/39dd5790e56d11e39ea8c7e1dfdc4b5c#^s-a49e7c55bc736eb1891338fa|Lietuvos Respublikos kelių įstatymo Nr. I-891 1, 2, 3, 4, 5, 7, 10, 17, 18, 20, 21 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/39dd5790e56d11e39ea8c7e1dfdc4b5c#^s-f29d0055ba38b658eb732e91|Lietuvos Respublikos kelių įstatymo Nr. I-891 1, 2, 3, 4, 5, 7, 10, 17, 18, 20, 21 straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas]] - Žemės įstatymo
-- [[latest/59801c501faf11eeb233e8b04dc9bb3d#^s-a9d3af056bfa5c87527d7da7|Lietuvos Respublikos kelių įstatymo Nr. I-891 10 straipsnio pakeitimo įstatymas]] - Žemės įstatyme
+- [[latest/59801c501faf11eeb233e8b04dc9bb3d#^s-a9d3af056bfa5c87527d7da7|Lietuvos Respublikos kelių įstatymo Nr. I-891 10 straipsnio pakeitimo įstatymas]] - 2 citatos - Žemės įstatyme
 - [[latest/37ac6e40a73411ef90b5ee8931e5ce5e#^s-a57f142b37e0a43f552e892b|Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 13 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/ad906d407d6011eea5a28c81c82193a8#^s-323603f00fa31460ebe5aee0|Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 5 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/ad906d407d6011eea5a28c81c82193a8#^s-b38e5daec259f4fd1fb40e8d|Lietuvos Respublikos kelių įstatymo Nr. I-891 2 ir 5 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/ef135c2055cf11f0b070ee7f1ceefc75#^s-afc3a2ea762a4cdc51beff58|Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 4, 5, 7, 10, 13, 16, 18 ir 20 straipsnių, trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais įstatymas]] - Žemės įstatyme
-- [[latest/2af5a560537a11ec862fdcbc8b3e3e05#^s-c689f3d81789bc25c635c145|Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir 20 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/2c1a7dd0042811edb32c9f9d8ba206f8#^s-1a760bd19348cb2a5c7a2730|Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir 20 straipsnių pakeitimo įstatymo Nr. XIV-661 5 straipsnio pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/ef135c2055cf11f0b070ee7f1ceefc75#^s-afc3a2ea762a4cdc51beff58|Lietuvos Respublikos kelių įstatymo Nr. I-891 2, 4, 5, 7, 10, 13, 16, 18 ir 20 straipsnių, trečiojo skirsnio pavadinimo, priedo pakeitimo ir Įstatymo papildymo 17-1, 18-1, 20-1 straipsniais, 1, 2 ir 3 priedais įstatymas]] - 2 citatos - Žemės įstatyme
+- [[latest/2af5a560537a11ec862fdcbc8b3e3e05#^s-c689f3d81789bc25c635c145|Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir 20 straipsnių pakeitimo įstatymas]] - 2 citatos - Žemės įstatymo
+- [[latest/2c1a7dd0042811edb32c9f9d8ba206f8#^s-1a760bd19348cb2a5c7a2730|Lietuvos Respublikos kelių įstatymo Nr. I-891 4, 5, 7, 9, 10, 13, 18 ir 20 straipsnių pakeitimo įstatymo Nr. XIV-661 5 straipsnio pakeitimo įstatymas]] - 2 citatos - Žemės įstatymo
 - [[latest/TAR.37CA8EC066D3#^s-aae5c58ce6f311e27a74c30f|Lietuvos Respublikos kelių įstatymo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.CFCEE0DB5FF2#^s-94078ea72d61fd6ffb18167b|Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas]] - Žemės įstatymo
-- [[latest/TAR.CFCEE0DB5FF2#^s-ca200c55bc27855d73651b45|Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas]] - Žemės įstatymo
 - [[latest/TAR.3224ED100EB1#^s-2cd15fedd8c2d64cf724dee6|Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 3, 6 ir 7 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/TAR.3224ED100EB1#^s-c596e8df573c435bbcf27474|Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo 3, 6 ir 7 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/0bed1c10f78011e39cfacd978b6fd9bb#^s-e63cd6cf8caa5dc515cfa00a|Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymo Nr. I-1516 3 straipsnio pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/TAR.9D6BD92444EF#^s-41116ec35bd2a2c4f63e74b0|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 2, 4, 8, 9, 11, 12, 13, 14, 15, 17, 20, 21, 22, 23, 24, 25, 26, 27, 31, 33, 34, 36, 38 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.9D6BD92444EF#^s-47857711bb3e6cee8b7d4f58|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 2, 4, 8, 9, 11, 12, 13, 14, 15, 17, 20, 21, 22, 23, 24, 25, 26, 27, 31, 33, 34, 36, 38 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.54EE5D207D8A#^s-08d33c538269e974a96ca2d0|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo 3, 5, 10, 22, 23 ir 33 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/TAR.C4931928A573#^s-cb12098ca03a0ea5275b0ec0|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo ir Žemės įstatymo pakeitimo įstatymas]] - ŽEMĖS ĮSTATYMO 8, 32 STRAIPSNIŲ
+- [[latest/TAR.C4931928A573#^s-cb12098ca03a0ea5275b0ec0|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymo ir Žemės įstatymo pakeitimo įstatymas]] - 3 citatos - ŽEMĖS ĮSTATYMO
 - [[latest/TAR.161CE95D588B#^s-b665e3151e5351a01ba0fa48|Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/TAR.161CE95D588B#^s-eaf15ead8af4227c2e116a05|Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/c7c5b620ebe911e78a1adea6fe72f3c5#^s-47b5a769908bcbdf9a525222|Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymo Nr. XI-1923 2 ir 4 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/b9270910f77e11e39cfacd978b6fd9bb#^s-51a0ddd61b6645c274b98291|Lietuvos Respublikos Kėdainių laisvosios ekonominės zonos įstatymo Nr. XI-1923 4 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/TAR.E79004684F4D#^s-187115d0e174ca1a1a4a0cd6|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]] - Lietuvos Respublikos žemės įstatymas
 - [[latest/TAR.E79004684F4D#^s-5cdc53911912edb51129d8ff|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.E79004684F4D#^s-8558049e5060ece0ff59343a|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]] - Lietuvos Respublikos žemės įstatymas
-- [[latest/TAR.E79004684F4D#^s-a10b63766a01c56be126b7ed|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/521d71905d8e11e79198ffdb108a3753#^s-c9121a1f151302fa1e0bdb96|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 2, 7, 12, 15 straipsnių pakeitimo ir 16 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/521d71905d8e11e79198ffdb108a3753#^s-e0e1b6c797e0d8efb9ff0b96|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymo Nr. I-976 2, 7, 12, 15 straipsnių pakeitimo ir 16 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/9805e872448111f180c9c618618421ed#^s-35cfe02203134fdda4970317|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Žemės įstatyme
 - [[latest/9805e872448111f180c9c618618421ed#^s-367c9a2331a964be09201b5f|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Lietuvos Respublikos žemės įstatymas
-- [[latest/9805e872448111f180c9c618618421ed#^s-5b27534d189147e23736c6e9|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Žemės įstatymo
 - [[latest/9805e872448111f180c9c618618421ed#^s-5c10da0dc5e786856f7d40eb|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Žemės įstatyme
 - [[latest/9805e872448111f180c9c618618421ed#^s-777f412d49c4a42ccbd32546|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Žemės įstatyme
-- [[latest/9805e872448111f180c9c618618421ed#^s-829d0d6116d65d1cc2c20c02|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Žemės įstatymo
-- [[latest/9805e872448111f180c9c618618421ed#^s-c4ab4e9973568e5fcce02f88|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Lietuvos Respublikos žemės įstatymas
 - [[latest/9805e872448111f180c9c618618421ed#^s-d7b54d2885556011c85bf5d5|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Žemės įstatymo
 - [[latest/9805e872448111f180c9c618618421ed#^s-d899059503a65c4c48f43eeb|Lietuvos Respublikos Lietuvos kariuomenės Kapčiamiesčio karinio poligono ir Kapčiamiesčio karinio mokymo teritorijos įstatymas]] - Žemės įstatymo
 - [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-020196e369feb5c2adfde0d7|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Žemės įstatyme
 - [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-412d8a14978432f8fb7bc88c|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Žemės įstatymu
 - [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-66e961935e5630cb0d75854a|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Žemės įstatymo
 - [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-9058be569737aeab60770078|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Žemės įstatymo
-- [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-a30b0865218f569f3ea7e696|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Žemės įstatymo
 - [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-c3fa5a29ade3b5d2196c99ae|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Lietuvos Respublikos žemės įstatymas
-- [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-c59c6a2d1b5b9fb5fe9a1469|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - 2 citatos - Žemės įstatymo
-- [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-e560a742124aaf6b140a9249|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Lietuvos Respublikos žemės įstatymas
 - [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-f51a7f797f6ee28329ffe2bd|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Žemės įstatyme
-- [[latest/e7c46170c0a011ec8d9390588bf2de65#^s-f6d7cd1d147744db91f030bf|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymas]] - Žemės įstatyme
 - [[latest/bedbe0b255c311f0b070ee7f1ceefc75#^s-663deb54591a4dedc5ee803c|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymo Nr. XIV-1015 1, 3, 7, 10 straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas]] - Žemės įstatymo
-- [[latest/bedbe0b255c311f0b070ee7f1ceefc75#^s-71e895d840a762e7bb337d07|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymo Nr. XIV-1015 1, 3, 7, 10 straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas]] - Žemės įstatymo
 - [[latest/bedbe0b255c311f0b070ee7f1ceefc75#^s-b01287fc2d52a5783e6bd4f1|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymo Nr. XIV-1015 1, 3, 7, 10 straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas]] - Žemės įstatymu
-- [[latest/bedbe0b255c311f0b070ee7f1ceefc75#^s-cac430fa98889f6c0a4e519e|Lietuvos Respublikos Lietuvos kariuomenės Rūdninkų karinio poligono įstatymo Nr. XIV-1015 1, 3, 7, 10 straipsnių, trečiojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 8-1 straipsniu įstatymas]] - Žemės įstatymu
 - [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-0041950a94690d712f6b070b|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Žemės įstatyme
 - [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-06fb05796191226d7b83f535|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Lietuvos Respublikos žemės įstatymas
-- [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-3ceb8427fa1817e1bd389f39|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Žemės įstatyme
-- [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-74aaf4bd05b37452eac5bb6d|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Žemės įstatymo
 - [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-90bd4da153df7bb9105db7d4|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Žemės įstatymo
-- [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-de46cfbcdd95cfed26cdcd8c|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Lietuvos Respublikos žemės įstatymas
 - [[latest/8020cab2a58911ef90b5ee8931e5ce5e#^s-dfaea02d20e4a004f5ef9143|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymas]] - Žemės įstatyme
 - [[latest/310272b2448111f180c9c618618421ed#^s-d2a3f49ad21a8244beca41ba|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymo Nr. XIV-3051 1, 2, 3, 8 straipsnių ir 1, 2 ir 7 priedų pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymas
 - [[latest/310272b2448111f180c9c618618421ed#^s-f27537e427aa70f29ab4277b|Lietuvos Respublikos Lietuvos kariuomenės Tauragės karinio poligono ir Lietuvos kariuomenės Šilalės karinio poligono įstatymo Nr. XIV-3051 1, 2, 3, 8 straipsnių ir 1, 2 ir 7 priedų pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/TAR.B5ABB4E0C447#^s-6e09aef3a710112e2537190e|Lietuvos Respublikos Marijampolės laisvosios ekonominės zonos įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/TAR.B5ABB4E0C447#^s-8ca554656295cd0ac3933602|Lietuvos Respublikos Marijampolės laisvosios ekonominės zonos įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/152ec230ebea11e78a1adea6fe72f3c5#^s-b542b007c02dc2623b16882b|Lietuvos Respublikos Marijampolės laisvosios ekonominės zonos įstatymo Nr. XI-1907 2 ir 4 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/f8ecdf20f77e11e39cfacd978b6fd9bb#^s-16a9e6659ef530cd182faf26|Lietuvos Respublikos Marijampolės laisvosios ekonominės zonos įstatymo Nr. XI-1907 4 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/aabb2df04dd211f0b070ee7f1ceefc75#^s-607a1e930d66c49b7d34b56e|Lietuvos Respublikos melioracijos įstatymo Nr. I-323 1, 2, 7 ir 9 straipsnių pakeitimo ir Įstatymo papildymo VI skyriumi įstatymas]] - Žemės įstatymo 35 straipsnio 2 dalies 3 punkte
 - [[latest/TAR.5D6D055CC00C#^s-35ac4b3e0eddb00aa2e28cca|Lietuvos Respublikos miškų įstatymas]] - 2 citatos - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.5D6D055CC00C#^s-61ccf0edfbbf3d0781be98c7|Lietuvos Respublikos miškų įstatymas]] - Žemės įstatyme
-- [[latest/TAR.5D6D055CC00C#^s-87505683ebf3fae640ca6704|Lietuvos Respublikos miškų įstatymas]] - 3 citatos - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.5D6D055CC00C#^s-945d130cff5849ee2c2afb27|Lietuvos Respublikos miškų įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/TAR.5D6D055CC00C#^s-ba7d0eddc5338319e4de4a19|Lietuvos Respublikos miškų įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/TAR.5D6D055CC00C#^s-ee37c4884c313df7349461f8|Lietuvos Respublikos miškų įstatymas]] - 2 citatos - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.7501477AA243#^s-e18248d4057ad01283ece1d1|Lietuvos Respublikos miškų įstatymo 2, 4, 5 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/TAR.7501477AA243#^s-e6d012e3aa2bb8faeca45754|Lietuvos Respublikos miškų įstatymo 2, 4, 5 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/71baa7f0d1d611f08918e1adc7c5b1ec#^s-95cf1f95526aa262052ec865|Lietuvos Respublikos miškų įstatymo Nr. I-671 2 ir 11 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/8cb48cd0a15c11eea5a28c81c82193a8#^s-27ca3c1603413adeffcfdb22|Lietuvos Respublikos miškų įstatymo Nr. I-671 2 ir 4 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žemės įstatymo
 - [[latest/8cb48cd0a15c11eea5a28c81c82193a8#^s-5c26331e187892eca5cb8889|Lietuvos Respublikos miškų įstatymo Nr. I-671 2 ir 4 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žemės įstatymo
-- [[latest/8cb48cd0a15c11eea5a28c81c82193a8#^s-81306f029c32913cc4293fc6|Lietuvos Respublikos miškų įstatymo Nr. I-671 2 ir 4 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žemės įstatymo
-- [[latest/d72182901fd911e586708c6593c243ce#^s-715276e9f80b508abdb6cdac|Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 3, 4, 5, 6, 9, 13, 14, 15, 16, 18 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/d72182901fd911e586708c6593c243ce#^s-8100d071ae0da6abe4bca083|Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 3, 4, 5, 6, 9, 13, 14, 15, 16, 18 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/16f8d060eac411f09cfce49e7aeb76fe#^s-41a09978ef4b768a69f9dec2|Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4 ir 5 straipsnių pakeitimo įstatymas]] - Žemės įstatyme
-- [[latest/16f8d060eac411f09cfce49e7aeb76fe#^s-a96e255e2dba467d67c736dd|Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4 ir 5 straipsnių pakeitimo įstatymas]] - Žemės įstatyme
-- [[latest/aa8e2bb0225511eabe008ea93139d588#^s-335915d77b5b272b2e4eb08e|Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir 19 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/aa8e2bb0225511eabe008ea93139d588#^s-fa31dd673ae04201d80ffb84|Lietuvos Respublikos miškų įstatymo Nr. I-671 2, 4, 5, 6, 7, 8, 13, 18 ir 19 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/930970b0c59111e9840ec0427c781bac#^s-728cc795b26e085a27b74e53|Lietuvos Respublikos miškų įstatymo Nr. I-671 4 ir 4-1 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/930970b0c59111e9840ec0427c781bac#^s-a098e026972a4055771e037a|Lietuvos Respublikos miškų įstatymo Nr. I-671 4 ir 4-1 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/TAR.9BC8AEE9D9F8#^s-21d00b608158de903e8b1499|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - Žemės įstatymo
 - [[latest/TAR.9BC8AEE9D9F8#^s-25a48c57f79a54338dcf0892|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/TAR.9BC8AEE9D9F8#^s-33ed4c51c9bfc043db4c16d7|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - Žemės įstatymo
-- [[latest/TAR.9BC8AEE9D9F8#^s-5fa47d9fbe212247174771e8|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/TAR.9BC8AEE9D9F8#^s-8245a702e5fe58ee3e4863f4|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - Žemės įstatymo
 - [[latest/TAR.9BC8AEE9D9F8#^s-9d504b28f7d0ceaddb9925e7|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - Žemės įstatymo
 - [[latest/TAR.9BC8AEE9D9F8#^s-a13cabc26780078d80ec5fc7|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - Žemės įstatymo
-- [[latest/TAR.9BC8AEE9D9F8#^s-cefc9ea5db138884a263a354|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - Žemės įstatymo
 - [[latest/TAR.457EA12FC790#^s-76edb757088bb8d438392947|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo 10 ir 25 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/cb6e4f40935811e9ae2e9d61b1f977b3#^s-4c2e8db7415eb760e24c4994|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 2, 4, 17, 19 ir 20 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/cb6e4f40935811e9ae2e9d61b1f977b3#^s-7038ac9ff5a249c2586de234|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 2, 4, 17, 19 ir 20 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/018a2eb2043e11edb32c9f9d8ba206f8#^s-6b1c150e39eac8c448922f07|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 25, 30 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 30-2, 30-3, 30-4, 30-5 straipsniais įstatymas]] - Žemės įstatymo
 - [[latest/018a2eb2043e11edb32c9f9d8ba206f8#^s-873a11eea5f5a8ab56190b0f|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 25, 30 straipsnių pakeitimo ir Įstatymo papildymo 30-1, 30-2, 30-3, 30-4, 30-5 straipsniais įstatymas]] - Žemės įstatymo
-- [[latest/ef04a8102fc411efbdaea558de59136c#^s-02d964455dc223686349ed01|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/ef04a8102fc411efbdaea558de59136c#^s-29342751a65ebabcc136830d|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo Nr. I-733 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/TAR.72C31F8DD98E#^s-1ccb0e609965aba853450d5c|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - 2 citatos - Žemės įstatymo 32 straipsnio 3 dalies 11 punkte
+- [[latest/TAR.72C31F8DD98E#^s-1ccb0e609965aba853450d5c|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - 6 citatos - 1
 - [[latest/TAR.72C31F8DD98E#^s-2a857bb093d3736c18edb0f2|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Žemės įstatymo 45 straipsnio 1 dalyje
 - [[latest/TAR.72C31F8DD98E#^s-41b32532352d74a790ead14f|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/TAR.72C31F8DD98E#^s-6086660b0f5eb4da06b3719d|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Žemės įstatymo 45 straipsnio 1 dalyje
-- [[latest/TAR.72C31F8DD98E#^s-6d0c300e26875c3d35b7cf8e|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - 2 citatos - Žemės įstatymo 45 straipsnio 1 dalyje
 - [[latest/TAR.72C31F8DD98E#^s-6f0e65915bd925fd3ca2edb5|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Žemės įstatymo 45 straipsnio 1 dalyje
-- [[latest/TAR.72C31F8DD98E#^s-87e137839990cdcaa6fcd8a3|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/TAR.72C31F8DD98E#^s-8eb4c63872e45bb7633b9d5a|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Žemės įstatymo 32 straipsnio 3 dalies 11 punkte
-- [[latest/TAR.72C31F8DD98E#^s-9610f26da62b9b3fece877c8|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - 3 citatos - Žemės įstatymo 32 straipsnio 3 dalies 11 punkte
-- [[latest/TAR.72C31F8DD98E#^s-bad926ba5a95f6694e54e33a|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Žemės įstatymo 45 straipsnio 1 dalyje
+- [[latest/TAR.72C31F8DD98E#^s-8eb4c63872e45bb7633b9d5a|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - 3 citatos - 1
 - [[latest/TAR.72C31F8DD98E#^s-d46708bcb50b78ec7ed522ab|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Žemės įstatymo 45 straipsnio 1 dalyje
 - [[latest/TAR.72C31F8DD98E#^s-ea7999e66ce2677ef896e601|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Žemės įstatymo 45 straipsnio 1 dalyje
 - [[latest/TAR.72C31F8DD98E#^s-f324c02a9366c5ba4f1c4318|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Žemės įstatymo 45 straipsnio 1 dalyje
 - [[latest/TAR.72C31F8DD98E#^s-f5eed3780ad703409b83c1b8|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Žemės įstatymo 45 straipsnio 1 dalyje
-- [[latest/TAR.72C31F8DD98E#^s-f84dbba823ec19476d906312|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - 5 citatos - Žemės įstatymo 32 straipsnio 3 dalies 11 punkte
 - [[latest/TAR.72C31F8DD98E#^s-fc616d165f4ca5bebf1b38dc|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymas]] - Žemės įstatymo 45 straipsnio 1 dalyje
-- [[latest/TAR.B99E6F31D4F2#^s-2c4e33708f70cf4997b9baa5|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo 6, 7, 8, 11 ir 13 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/TAR.C0ACE31655C9#^s-27c2c890e39fb50aa346d19f|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo 3, 13, 14, 15, 20, 27, 41 straipsnių pakeitimo ir 17 straipsnio bei VIII skyriaus pripažinimo netekusiais galios įstatymas]] - Žemės įstatymo
 - [[latest/TAR.B99E6F31D4F2#^s-53c8d91a4c7825e43fac751e|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo 6, 7, 8, 11 ir 13 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 22 straipsnio 6 dalyje
 - [[latest/TAR.B99E6F31D4F2#^s-de502862fd3f5d3f63c48048|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo 6, 7, 8, 11 ir 13 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/826224d0a55411eea5a28c81c82193a8#^s-38e6e39c205c07f0cc39ce43|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 4, 7, 9, 10, 13, 15 ir 17 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 45 straipsnyje
 - [[latest/826224d0a55411eea5a28c81c82193a8#^s-a7d0ca0b735c93bd96bf2cce|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 4, 7, 9, 10, 13, 15 ir 17 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 45 straipsnyje
 - [[latest/137ad3e01fd511e586708c6593c243ce#^s-af830300ca6e75f1a380d5de|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 5, 9, 11 ir 13 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 22 straipsnio 6 dalyje
 - [[latest/0a1b2e2089ef11e4a98a9f2247652cf4#^s-193caadab0be706e494aa81f|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo Nr. VIII-1764 6, 10, 13 ir 17 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 22 straipsnio 6 dalyje
-- [[latest/TAR.DC19C1D16EDA#^s-13284ab44aaff2a7131db317|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.DC19C1D16EDA#^s-82d645a6b0f5ca026e437719|Lietuvos Respublikos nekilnojamojo turto kadastro įstatymo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.38E82AA2664C#^s-47e02ac359b8b65a39d3cb1d|Lietuvos Respublikos nekilnojamojo turto registro įstatymas]] - Lietuvos Respublikos žemės įstatymo 362 straipsnio 8 dalyje
-- [[latest/TAR.38E82AA2664C#^s-d0f968982ef1730f86a03b5f|Lietuvos Respublikos nekilnojamojo turto registro įstatymas]] - Lietuvos Respublikos žemės įstatymo 362 straipsnio 8 dalyje
 - [[latest/1edca6701fb611eeb233e8b04dc9bb3d#^s-d3ef27e77cc32718777c45a9|Lietuvos Respublikos nekilnojamojo turto registro įstatymo Nr. I-1539 42 straipsnio pakeitimo ir Nekilnojamojo turto registro įstatymo Nr. I-1539 pakeitimo įstatymo Nr. XIV-1770 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo 362 straipsnio 8 dalyje
-- [[latest/TAR.926B9B9755A3#^s-8bbbbc413b16ae3b912ea9ca|Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.926B9B9755A3#^s-a3d37515d5a54144d84aed48|Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.4F95269B43A0#^s-1f0c9597cacf3fd235c56dd6|Lietuvos Respublikos pajūrio juostos įstatymas]] - Žemės įstatymo
-- [[latest/TAR.4F95269B43A0#^s-238bc3e797af421c02027cf6|Lietuvos Respublikos pajūrio juostos įstatymas]] - Žemės įstatymo
 - [[latest/TAR.4F95269B43A0#^s-7b7a40acd461b21db8465d14|Lietuvos Respublikos pajūrio juostos įstatymas]] - Žemės įstatymo
-- [[latest/TAR.148C8F5F6004#^s-33a1cb5ee08c00c07d2a1a03|Lietuvos Respublikos pajūrio juostos įstatymo 4, 5, 6, 7, 8 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.148C8F5F6004#^s-5f563779a9368baaf194606b|Lietuvos Respublikos pajūrio juostos įstatymo 4, 5, 6, 7, 8 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.148C8F5F6004#^s-a0a8bcf63446c04673a54adb|Lietuvos Respublikos pajūrio juostos įstatymo 4, 5, 6, 7, 8 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
-- [[latest/TAR.1FC6DF4EFB25#^s-3cf52c4898a1ed4dc8971ec6|Lietuvos Respublikos Panevėžio laisvosios ekonominės zonos įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.1FC6DF4EFB25#^s-d63e56af1e4313947ce5f559|Lietuvos Respublikos Panevėžio laisvosios ekonominės zonos įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/5b1ecfb0ebea11e78a1adea6fe72f3c5#^s-71bff9b3ac297f6007dbc024|Lietuvos Respublikos Panevėžio laisvosios ekonominės zonos įstatymo Nr. XI-1924 2 ir 4 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/4c227240f77f11e39cfacd978b6fd9bb#^s-02f82caffe649ae23b3795e8|Lietuvos Respublikos Panevėžio laisvosios ekonominės zonos įstatymo Nr. XI-1924 4 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.A5ACBDA529A9#^s-438b326d1252c1109d359bd1|Lietuvos Respublikos pelno mokesčio įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/TAR.A5ACBDA529A9#^s-558eb0a5647e70a196f3253c|Lietuvos Respublikos pelno mokesčio įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/97d865505d8e11e79198ffdb108a3753#^s-3e8d0acd19253dbe0adbb9d2|Lietuvos Respublikos pelno mokesčio įstatymo Nr. IX-675 58 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/TAR.0539E2FEB29E#^s-03f3b61b9abd4f2c318f774a|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.0539E2FEB29E#^s-a06bba037faabdb86962f5d1|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/292d8ee06fc711edbc04912defe897d1#^s-4f33f2ee46afa821638eda7b|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 1 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/61773d4076c611edbc04912defe897d1#^s-15eb2bd469c49150e3ec7b9b|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/61773d4076c611edbc04912defe897d1#^s-6dc4d7b2201708f16f91f400|Lietuvos Respublikos planuojamos ūkinės veiklos poveikio aplinkai vertinimo įstatymo Nr. I-1495 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.FF1083B528B7#^s-021f413d0accf18d581d27b9|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Žemės įstatymo
 - [[latest/TAR.FF1083B528B7#^s-1465de38617e92b1e8bd999e|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Žemės įstatymo
-- [[latest/TAR.FF1083B528B7#^s-1933d8b4bea7876d4695f4b1|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Žemės įstatymas
 - [[latest/TAR.FF1083B528B7#^s-258885767d986e803649d705|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Žemės įstatymas
 - [[latest/TAR.FF1083B528B7#^s-2e8235188c7fac24ec39e1a9|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/TAR.FF1083B528B7#^s-4e224c571707586c7ba03cff|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Žemės įstatymo
-- [[latest/TAR.FF1083B528B7#^s-5685f85f4ed1efb5e5f5ef51|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Žemės įstatymo
-- [[latest/TAR.FF1083B528B7#^s-9acf754affaff246bafa60aa|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/TAR.FF1083B528B7#^s-b44d343e5335f5c8c93a2f4b|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Žemės įstatymo
-- [[latest/TAR.FF1083B528B7#^s-c031747e5b89bb47620296de|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Žemės įstatyme
 - [[latest/TAR.FF1083B528B7#^s-d818758689cc1a03db708ccc|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Žemės įstatymo
 - [[latest/TAR.FF1083B528B7#^s-e0b5df45c390bd9c4835fcf5|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Žemės įstatymo
-- [[latest/TAR.FF1083B528B7#^s-e436bbcf4c2dfb579308b2ca|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Žemės įstatymo
 - [[latest/TAR.FF1083B528B7#^s-f26954f32a376130ace5f1b3|Lietuvos Respublikos saugomų teritorijų įstatymas]] - Žemės įstatyme
-- [[latest/TAR.5A69AEA19E71#^s-065e08fe9dabfac4a0fa15fb|Lietuvos Respublikos saugomų teritorijų įstatymo 2, 9, 12, 13, 14, 18, 19, 20, 22, 23, 28, 31 straipsnių pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas]] - Žemės įstatyme
 - [[latest/TAR.5A69AEA19E71#^s-2c9e65f87c8ed74e4d3c2046|Lietuvos Respublikos saugomų teritorijų įstatymo 2, 9, 12, 13, 14, 18, 19, 20, 22, 23, 28, 31 straipsnių pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas]] - Žemės įstatymo
 - [[latest/TAR.5A69AEA19E71#^s-7499b8abbeeede795c14802d|Lietuvos Respublikos saugomų teritorijų įstatymo 2, 9, 12, 13, 14, 18, 19, 20, 22, 23, 28, 31 straipsnių pakeitimo ir Įstatymo papildymo 28-1 straipsniu įstatymas]] - Žemės įstatyme
 - [[latest/TAR.C5D797B00D23#^s-39e35bd0a24843982c4f7e64|Lietuvos Respublikos saugomų teritorijų įstatymo 31 straipsnio pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/787506209cf311e69ad4c8713b612d0f#^s-2fda1fe53d1bc62e33621532|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas]] - Žemės įstatymo
 - [[latest/787506209cf311e69ad4c8713b612d0f#^s-60c97ba70b15dcae32909adb|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/787506209cf311e69ad4c8713b612d0f#^s-6b91692488816c7ccbd109a6|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas]] - Žemės įstatymo
-- [[latest/787506209cf311e69ad4c8713b612d0f#^s-edb60c59539a9185b9f774b1|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/2634aca02a8611e78397ae072f58c508#^s-cdc3c941b1c81cf6b80088b6|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 1, 2, 5, 7, 9, 13, 16, 18, 20, 23, 24-1, 25, 27, 29, 30, 31, 32 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymo Nr. XII-2683 2 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/20973eb00a2611ebb74de75171d26d52#^s-9337a51da9c84b67af806002|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2 ir 5 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/80f0df80935a11e9ae2e9d61b1f977b3#^s-19e9671a2ccc9cd85b003d23|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 5, 7, 9, 11, 12, 13, 18, 19, 20, 20-1, 25, 27 ir 28 straipsnių pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/80f0df80935a11e9ae2e9d61b1f977b3#^s-2597567c6fe194c9cb7ef48d|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 5, 7, 9, 11, 12, 13, 18, 19, 20, 20-1, 25, 27 ir 28 straipsnių pakeitimo įstatymas]] - Žemės įstatyme
-- [[latest/80f0df80935a11e9ae2e9d61b1f977b3#^s-47e0f009ba980b93122de8a4|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 5, 7, 9, 11, 12, 13, 18, 19, 20, 20-1, 25, 27 ir 28 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/80f0df80935a11e9ae2e9d61b1f977b3#^s-56fefea004f20ef939f5f6c2|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 2, 5, 7, 9, 11, 12, 13, 18, 19, 20, 20-1, 25, 27 ir 28 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/6bdc77f030a411e78397ae072f58c508#^s-055b0e69f7c303b2aab66a63|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 28 straipsnio pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-0587ea6b1ae700e3af551bc6|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-0bb420ec2d1d4663c9d98b3a|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Žemės įstatymas
-- [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-0f9d7baf8ba98a9a304aef8d|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-22bacbb34b90a58fe19db842|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-2711d48e313f3bcc6d1ee98b|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-3b3f980970a67ce8e0092b9c|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Žemės įstatyme
-- [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-4169a280bd323715780a68ed|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Žemės įstatymas
-- [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-654d26bffb21e11811a1638a|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-6a395e86595f518f6072d854|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-743bd48f9490bf118e673e21|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-a241726337adfc21dddb6c61|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-baefbe603a5f709e88bef371|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-e13c8c115c884d8c054f010c|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/dc2b26b0a15d11eea5a28c81c82193a8#^s-f5efd06f2027e0bb6711adf3|Lietuvos Respublikos saugomų teritorijų įstatymo Nr. I-301 pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/TAR.BB29FCA04DF2#^s-32562f7762d673eeeb8e2250|Lietuvos Respublikos saugomų teritorijų įstatymo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.BB29FCA04DF2#^s-71156ef4e7cc1ee56ac3e43d|Lietuvos Respublikos saugomų teritorijų įstatymo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.BB29FCA04DF2#^s-7af1bf40621c42d45303e47b|Lietuvos Respublikos saugomų teritorijų įstatymo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.BB29FCA04DF2#^s-d1c562a5e01dc4aa8c9c5d2b|Lietuvos Respublikos saugomų teritorijų įstatymo pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/TAR.BB29FCA04DF2#^s-e7ab874d630ec8b0c6daec25|Lietuvos Respublikos saugomų teritorijų įstatymo pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/b1eee4909be911ea9515f752ff221ec9#^s-2adfad1c19681c888f087a7a|Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/b1eee4909be911ea9515f752ff221ec9#^s-79b05ed97d9778259dbcc07c|Lietuvos Respublikos savivaldybių infrastruktūros plėtros įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/TAR.FD474D5CE327#^s-1817b41b50bef6b037968c56|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - Žemės įstatymo
-- [[latest/TAR.FD474D5CE327#^s-3d553e510dafa343627eda34|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - Žemės įstatymo
 - [[latest/TAR.FD474D5CE327#^s-73a1a1b43b6ac455451b32b3|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - Žemės įstatymo
-- [[latest/TAR.FD474D5CE327#^s-f048278d17f19a682194c510|Lietuvos Respublikos sodininkų bendrijų įstatymas]] - Žemės įstatymo
 - [[latest/TAR.29A84C045528#^s-8d41d0a294d69b76dcdc711c|Lietuvos Respublikos sodininkų bendrijų įstatymo 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 15, 16, 21, 22, 25, 28 straipsnių, antrojo ir trečiojo skirsnių pavadinimų pakeitimo ir 9, 10, 32 straipsnių pripažinimo netekusiais galios įstatymas]] - Žemės įstatymo
-- [[latest/TAR.29A84C045528#^s-9a13a9b9b7455c3a258cfdb2|Lietuvos Respublikos sodininkų bendrijų įstatymo 1, 2, 3, 4, 5, 6, 7, 8, 11, 12, 13, 15, 16, 21, 22, 25, 28 straipsnių, antrojo ir trečiojo skirsnių pavadinimų pakeitimo ir 9, 10, 32 straipsnių pripažinimo netekusiais galios įstatymas]] - Žemės įstatymo
 - [[latest/TAR.647A5214E34A#^s-9fe3a511ad3f3667f698af22|Lietuvos Respublikos sodininkų bendrijų įstatymo 2, 6, 7, 8, 12, 14, 15, 16, 17, 18, 20, 21, 27, 28 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
-- [[latest/TAR.647A5214E34A#^s-e162b6a7f7efac283cf5c92c|Lietuvos Respublikos sodininkų bendrijų įstatymo 2, 6, 7, 8, 12, 14, 15, 16, 17, 18, 20, 21, 27, 28 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
 - [[latest/23612000d1f411e3a8ded1a0f5aff0a9#^s-e3b8bffe671a9853600acee8|Lietuvos Respublikos sodininkų bendrijų įstatymo Nr. IX-1934 2, 6 ir 8 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/bd268ec089ee11e4a98a9f2247652cf4#^s-6657db5d182bf776a670d627|Lietuvos Respublikos sodininkų bendrijų įstatymo Nr. IX-1934 2, 6, 11, 15, 16, 17, 18, 22, 24, 27 ir 28 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/bd268ec089ee11e4a98a9f2247652cf4#^s-c4d44264f9618e4d59cb6727|Lietuvos Respublikos sodininkų bendrijų įstatymo Nr. IX-1934 2, 6, 11, 15, 16, 17, 18, 22, 24, 27 ir 28 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/47bded5023df11eabe008ea93139d588#^s-3b051591102570128ea7b066|Lietuvos Respublikos sodininkų bendrijų įstatymo Nr. IX-1934 2, 6, 7, 8, 11, 12, 14, 15, 16, 17, 18, 19, 21, 22, 24, 27 straipsnių ir penktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas]] - Žemės įstatymo
-- [[latest/47bded5023df11eabe008ea93139d588#^s-4bee1f74262f71145a7756ef|Lietuvos Respublikos sodininkų bendrijų įstatymo Nr. IX-1934 2, 6, 7, 8, 11, 12, 14, 15, 16, 17, 18, 19, 21, 22, 24, 27 straipsnių ir penktojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 22-1 straipsniu įstatymas]] - Žemės įstatymo
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-0c3e9c66b14d636478a47230|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-1f93f11a883346c627dfcc08|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-1fae7b7218ff834bcd2c974a|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-28e00a1e4745ceef3bb7322a|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-3290bc11a393aa0fd24a4092|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-355d09f5445c091e52fcf9e2|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-490945cf3d77ffd100ad4c1c|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-4de94093b26783797b6951a5|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-58dab4bf33af2a0b77a4b4cd|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-5e3312708d7035474d0d29c1|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-6bbec3b7aa3f97d61519a3d1|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-7aa7285d373cc5c5c4759b87|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-7d12a7d9cabc4cfaa8e89822|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-7ec72f079079cab554ff961c|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-8f9be5bf398d1213c5078d57|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-91b2ef9c86c719bdab361fb9|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-94be12de492d57c1be84e389|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-95ee18d979768006face8959|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-9d75aa158a68ca2898a2c551|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-a210092b34e41bbcffe97be0|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-b1380ffb316b636a723eaadc|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-b4bd12ece19b0d165d8f2557|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-b7f7e760e55614bbc3e82666|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-cb9a9e839df8eea1e3948f0d|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-e31e6f1d0e53e1987e41bd6a|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-e8721d0c6691c490877bc72d|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-ebd71ddba25d771c2ace01ce|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-f36e8dab0d654ddeeab6cada|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
-- [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-f3cb655acfd601831e72840e|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/420f4dd0927c11e9ae2e9d61b1f977b3#^s-f95d86ac40a77efc80360cdc|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymas]] - Žemės įstatyme
 - [[latest/ba03da02a73311ef90b5ee8931e5ce5e#^s-8350ac9c8153adba94959ac4|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2 ir 19 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/af0add73325111f08fdabd4950271e2c#^s-0929d56b615a1096e6d8c100|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/af0add73325111f08fdabd4950271e2c#^s-5f281f74ce93843fcfaba09a|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/af0add73325111f08fdabd4950271e2c#^s-d673e51301e19189a76c8fa7|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/af0add73325111f08fdabd4950271e2c#^s-eaf0651c0b65fa0c9b68095d|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 6, 7, 8, 9, 11, 16, 20, 21, 22, 24, 25, 28, 31, 35, 36, 37, 40, 41, 42, 43, 46, 47, 48, 49, 53, 60, 65, 66, 67, 69, 73, 74, 75, 79, 80, 84, 86, 88, 98, 99, 100, 104, 106, 108, 110, 124, 134, 139, 141 straipsnių, III skyriaus aštuntojo skirsnio, V skyriaus šeštojo skirsnio pavadinimų ir Įstatymo 2 priedo pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/3a1d7d704dc511ec862fdcbc8b3e3e05#^s-047e33fc1919af02526fa16b|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 2, 98 ir 105 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/f45e81d2e56411f08918e1adc7c5b1ec#^s-886178ddb279cd02f84ab089|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 59, 60, 95 ir 99 straipsnių pakeitimo įstatymas]] - Žemės įstatyme
-- [[latest/f45e81d2e56411f08918e1adc7c5b1ec#^s-97bc82ed80e5dccec231921f|Lietuvos Respublikos specialiųjų žemės naudojimo sąlygų įstatymo Nr. XIII-2166 59, 60, 95 ir 99 straipsnių pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/TAR.F31E79DEC55D#^s-0e1047debd3f1c7a6cd0300d|Lietuvos Respublikos statybos įstatymas]] - Žemės įstatymo 10 straipsnyje
 - [[latest/TAR.F31E79DEC55D#^s-1b43a622d119055685fa5be7|Lietuvos Respublikos statybos įstatymas]] - Žemės įstatymo 34 straipsnio 1 dalyje
 - [[latest/TAR.F31E79DEC55D#^s-3b8e31c3cd862c59e150d32e|Lietuvos Respublikos statybos įstatymas]] - Žemės įstatymo 34 straipsnio 1 dalyje
-- [[latest/TAR.F31E79DEC55D#^s-550bc7f6d4f147b7a823f35d|Lietuvos Respublikos statybos įstatymas]] - Žemės įstatymo 34 straipsnio 1 dalyje
 - [[latest/TAR.F31E79DEC55D#^s-564076b3b2f10fbd5020db42|Lietuvos Respublikos statybos įstatymas]] - Žemės įstatymo 34 straipsnio 1 dalyje
 - [[latest/TAR.F31E79DEC55D#^s-a4cab2e2979fca967245bb4b|Lietuvos Respublikos statybos įstatymas]] - Žemės įstatymo 34 straipsnio 1 dalyje
-- [[latest/TAR.F31E79DEC55D#^s-b0578318268cd83aad173e5f|Lietuvos Respublikos statybos įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/TAR.F31E79DEC55D#^s-d813eb0f45d8832b0b4d4921|Lietuvos Respublikos statybos įstatymas]] - Žemės įstatymo 10 straipsnyje
-- [[latest/TAR.F31E79DEC55D#^s-ec0f351a5976c45f4b1d6702|Lietuvos Respublikos statybos įstatymas]] - 4 citatos - Žemės įstatymo 10 straipsnyje
-- [[latest/TAR.F31E79DEC55D#^s-ed557065dac766208f852655|Lietuvos Respublikos statybos įstatymas]] - 2 citatos - Žemės įstatymo 34 straipsnio 1 dalyje
 - [[latest/TAR.F31E79DEC55D#^s-f816f883b9e222a29e3526a7|Lietuvos Respublikos statybos įstatymas]] - Žemės įstatymo 34 straipsnio 1 dalyje
 - [[latest/TAR.F31E79DEC55D#^s-f81b7e73dacb044585e9e9a5|Lietuvos Respublikos statybos įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/a004a610a55011eea5a28c81c82193a8#^s-3a2fc982148da3afd5da3bcf|Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 3, 4, 5, 6, 11-1, 12, 14, 15, 17, 18, 22, 24, 26, 27, 27-1, 28, 34, 37, 39, 47, 49, 51, 52-1, 53, 55, 56, 57, 59 straipsnių, šeštojo skirsnio pavadinimo, 1 priedo pakeitimo ir Įstatymo papildymo 11-2, 27-2, 68 straipsniais įstatymas]] - Žemės įstatymo 10 straipsnyje
 - [[latest/a004a610a55011eea5a28c81c82193a8#^s-c0e57e9cca85bd5517eec6b0|Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 3, 4, 5, 6, 11-1, 12, 14, 15, 17, 18, 22, 24, 26, 27, 27-1, 28, 34, 37, 39, 47, 49, 51, 52-1, 53, 55, 56, 57, 59 straipsnių, šeštojo skirsnio pavadinimo, 1 priedo pakeitimo ir Įstatymo papildymo 11-2, 27-2, 68 straipsniais įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/a004a610a55011eea5a28c81c82193a8#^s-d06498572f353037d873309f|Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 3, 4, 5, 6, 11-1, 12, 14, 15, 17, 18, 22, 24, 26, 27, 27-1, 28, 34, 37, 39, 47, 49, 51, 52-1, 53, 55, 56, 57, 59 straipsnių, šeštojo skirsnio pavadinimo, 1 priedo pakeitimo ir Įstatymo papildymo 11-2, 27-2, 68 straipsniais įstatymas]] - Žemės įstatymo 34 straipsnio 1 dalyje
-- [[latest/a004a610a55011eea5a28c81c82193a8#^s-d4127fc98a8dd6788ae6e736|Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 3, 4, 5, 6, 11-1, 12, 14, 15, 17, 18, 22, 24, 26, 27, 27-1, 28, 34, 37, 39, 47, 49, 51, 52-1, 53, 55, 56, 57, 59 straipsnių, šeštojo skirsnio pavadinimo, 1 priedo pakeitimo ir Įstatymo papildymo 11-2, 27-2, 68 straipsniais įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/a004a610a55011eea5a28c81c82193a8#^s-e8418887fdc84603371ff3df|Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 3, 4, 5, 6, 11-1, 12, 14, 15, 17, 18, 22, 24, 26, 27, 27-1, 28, 34, 37, 39, 47, 49, 51, 52-1, 53, 55, 56, 57, 59 straipsnių, šeštojo skirsnio pavadinimo, 1 priedo pakeitimo ir Įstatymo papildymo 11-2, 27-2, 68 straipsniais įstatymas]] - Žemės įstatymo 10 straipsnyje
 - [[latest/a004a610a55011eea5a28c81c82193a8#^s-fe0cb1ad2b9cebf26e3b03dd|Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 3, 4, 5, 6, 11-1, 12, 14, 15, 17, 18, 22, 24, 26, 27, 27-1, 28, 34, 37, 39, 47, 49, 51, 52-1, 53, 55, 56, 57, 59 straipsnių, šeštojo skirsnio pavadinimo, 1 priedo pakeitimo ir Įstatymo papildymo 11-2, 27-2, 68 straipsniais įstatymas]] - Žemės įstatymo 34 straipsnio 1 dalyje
-- [[latest/c61b4eb0f1bf11ee9f5b8ffa077f9188#^s-a054dbbf33395b16a7f19a31|Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 3, 4, 5, 6, 11-1, 12, 14, 15, 17, 18, 22, 24, 26, 27, 27-1, 28, 34, 37, 39, 47, 49, 51, 52-1, 53, 55, 56, 57, 59 straipsnių, šeštojo skirsnio pavadinimo, 1 priedo pakeitimo ir Įstatymo papildymo 11-2, 27-2, 68 straipsniais įstatymo Nr. XIV-2413 3, 4, 9, 15, 18, 20, 21, 22, 27, 30, 34 ir 37 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 10 straipsnyje
 - [[latest/c61b4eb0f1bf11ee9f5b8ffa077f9188#^s-d6bd342422dbc6c7692d5cb2|Lietuvos Respublikos statybos įstatymo Nr. I-1240 1, 2, 3, 4, 5, 6, 11-1, 12, 14, 15, 17, 18, 22, 24, 26, 27, 27-1, 28, 34, 37, 39, 47, 49, 51, 52-1, 53, 55, 56, 57, 59 straipsnių, šeštojo skirsnio pavadinimo, 1 priedo pakeitimo ir Įstatymo papildymo 11-2, 27-2, 68 straipsniais įstatymo Nr. XIV-2413 3, 4, 9, 15, 18, 20, 21, 22, 27, 30, 34 ir 37 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 10 straipsnyje
 - [[latest/e1d1aed01fae11eeb233e8b04dc9bb3d#^s-01e4fcc4ef0cd3a7db0b974d|Lietuvos Respublikos statybos įstatymo Nr. I-1240 14, 27 ir 27-1 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 34 straipsnio 1 dalyje
-- [[latest/e1d1aed01fae11eeb233e8b04dc9bb3d#^s-04e0ac338264caf76bc03e06|Lietuvos Respublikos statybos įstatymo Nr. I-1240 14, 27 ir 27-1 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 10 straipsnio
+- [[latest/e1d1aed01fae11eeb233e8b04dc9bb3d#^s-04e0ac338264caf76bc03e06|Lietuvos Respublikos statybos įstatymo Nr. I-1240 14, 27 ir 27-1 straipsnių pakeitimo įstatymas]] - 4 citatos - 4
 - [[latest/e1d1aed01fae11eeb233e8b04dc9bb3d#^s-1073f92bbca4289bd8524bcd|Lietuvos Respublikos statybos įstatymo Nr. I-1240 14, 27 ir 27-1 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 34 straipsnio 1 dalyje
-- [[latest/e1d1aed01fae11eeb233e8b04dc9bb3d#^s-722b3128865d1dfdd1cc7d19|Lietuvos Respublikos statybos įstatymo Nr. I-1240 14, 27 ir 27-1 straipsnių pakeitimo įstatymas]] - 4 citatos - Žemės įstatymo 10 straipsnio
-- [[latest/e1d1aed01fae11eeb233e8b04dc9bb3d#^s-905aa8b78996be333603e527|Lietuvos Respublikos statybos įstatymo Nr. I-1240 14, 27 ir 27-1 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 10 straipsnio
-- [[latest/e1d1aed01fae11eeb233e8b04dc9bb3d#^s-a715dc09620b7cd8d7d3a9f5|Lietuvos Respublikos statybos įstatymo Nr. I-1240 14, 27 ir 27-1 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 10 straipsnio
+- [[latest/e1d1aed01fae11eeb233e8b04dc9bb3d#^s-905aa8b78996be333603e527|Lietuvos Respublikos statybos įstatymo Nr. I-1240 14, 27 ir 27-1 straipsnių pakeitimo įstatymas]] - 4 citatos - 4
+- [[latest/e1d1aed01fae11eeb233e8b04dc9bb3d#^s-a715dc09620b7cd8d7d3a9f5|Lietuvos Respublikos statybos įstatymo Nr. I-1240 14, 27 ir 27-1 straipsnių pakeitimo įstatymas]] - 4 citatos - 4
 - [[latest/e1d1aed01fae11eeb233e8b04dc9bb3d#^s-e3131abf2c448cd0cdae0da4|Lietuvos Respublikos statybos įstatymo Nr. I-1240 14, 27 ir 27-1 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 34 straipsnio 1 dalyje
-- [[latest/0afc41b2715c11f1b53dfa020e517810#^s-cad40b5cf45038c7166d8091|Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 11-1, 11-2, 27, 51, 53 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 51-1 straipsniu įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/0afc41b2715c11f1b53dfa020e517810#^s-ef35a7813194ee5f011c66b6|Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 11-1, 11-2, 27, 51, 53 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 51-1 straipsniu įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/8a4cdca286cf11efabdbb4a1fc8b0b63#^s-fbe8163952a61980af007f09|Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 12, 24, 27, 28, 47, 53 straipsnių ir 1 priedo pakeitimo įstatymas]] - Žemės įstatymo 34 straipsnio 1 dalyje
 - [[latest/6734dec0afcd11f092fda1fd0c194cc5#^s-5b79fb2e3159bdcaf56d4ef2|Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 27 ir 27-2 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 10 straipsnyje
-- [[latest/6734dec0afcd11f092fda1fd0c194cc5#^s-9165bb511aeca5d84450b21c|Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 27 ir 27-2 straipsnių pakeitimo įstatymas]] - 3 citatos - Žemės įstatymo 10 straipsnyje
 - [[latest/6734dec0afcd11f092fda1fd0c194cc5#^s-cf533b9444147d19eb2e2e23|Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 27 ir 27-2 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 34 straipsnio 1 dalyje
 - [[latest/6734dec0afcd11f092fda1fd0c194cc5#^s-d2e81fc9f8f3812c55b43b6e|Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 27 ir 27-2 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 34 straipsnio 1 dalyje
 - [[latest/6734dec0afcd11f092fda1fd0c194cc5#^s-f13a0f655c9ee4bb0b658f0f|Lietuvos Respublikos statybos įstatymo Nr. I-1240 2, 27 ir 27-2 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/026c195255d111f0b070ee7f1ceefc75#^s-0c36e0606822ee2cacd24743|Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 ir 27-2 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 10 straipsnyje
+- [[latest/9183ecf0582111ec862fdcbc8b3e3e05#^s-186f8308ae081352c668bd91|Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 ir 27-1 straipsnių pakeitimo įstatymas]] - 4 citatos - 3
+- [[latest/9183ecf0582111ec862fdcbc8b3e3e05#^s-45f034e793ca5aa8f3744f6a|Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 ir 27-1 straipsnių pakeitimo įstatymas]] - 4 citatos - 3
+- [[latest/9183ecf0582111ec862fdcbc8b3e3e05#^s-5fec60fa8dc9885e093dd158|Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 ir 27-1 straipsnių pakeitimo įstatymas]] - 4 citatos - 3
 - [[latest/026c195255d111f0b070ee7f1ceefc75#^s-2c09213b06848651c40ba938|Lietuvos Respublikos statybos įstatymo Nr. I-1240 27 ir 27-2 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 10 straipsnyje
-- [[latest/TAR.614F246BFEB3#^s-35e2857eaa54b3af75160b9d|Lietuvos Respublikos sveikatos draudimo įstatymo 5, 7, 8, 9, 10, 11, 13, 14, 16, 17, 18, 20, 25, 26, 27, 30 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.614F246BFEB3#^s-97fb3f8ecf1e6eb20fdfecc1|Lietuvos Respublikos sveikatos draudimo įstatymo 5, 7, 8, 9, 10, 11, 13, 14, 16, 17, 18, 20, 25, 26, 27, 30 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.2CD0E4DDB288#^s-d1b217b9064236be108f92d6|Lietuvos Respublikos sveikatos draudimo įstatymo 5, 7, 8, 9, 10, 16, 17, 18, 19, 24, 25, 26, 27, 30, 31, 33, 34, 40, 45 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/TAR.2CD0E4DDB288#^s-f8e2e1c91c0d498f874cdaf2|Lietuvos Respublikos sveikatos draudimo įstatymo 5, 7, 8, 9, 10, 16, 17, 18, 19, 24, 25, 26, 27, 30, 31, 33, 34, 40, 45 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.5756AB4F657E#^s-04056c0344c369c83f7113da|Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymas]] - Žemės įstatyme
-- [[latest/TAR.5756AB4F657E#^s-4562159c1c99bf5fc4654f8d|Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/TAR.5756AB4F657E#^s-e47ac4dc577adcd6c89c8a3a|Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/8c05bd901fa711eeb233e8b04dc9bb3d#^s-3b363bbb51b016101604999b|Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/8c05bd901fa711eeb233e8b04dc9bb3d#^s-55bc94e5cf72b5d5c7c14587|Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/8c05bd901fa711eeb233e8b04dc9bb3d#^s-7840e59ff8e9ec120e9a848c|Lietuvos Respublikos teritorijų planavimo ir statybos valstybinės priežiūros įstatymo Nr. XII-459 pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/TAR.26B563184529#^s-06f91fe3dae520d6b82bad33|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Žemės įstatymu
 - [[latest/TAR.26B563184529#^s-37b2918886f12b936cf0b2d8|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/TAR.26B563184529#^s-3c219bc83198ccb7a3608c90|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Žemės įstatyme
-- [[latest/TAR.26B563184529#^s-41dbf06f7e093678147525e1|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Žemės įstatymas
-- [[latest/TAR.26B563184529#^s-57f898f8b3e63570ec9ca34c|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.26B563184529#^s-8f9a6272f7f9285ee97f4944|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Žemės įstatymas
-- [[latest/TAR.26B563184529#^s-94e77371c17743ca17f822fc|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Žemės įstatymu
 - [[latest/TAR.26B563184529#^s-a032099995eb02e0be3f6491|Lietuvos Respublikos teritorijų planavimo įstatymas]] - Žemės įstatyme
 - [[latest/TAR.3C32BA5677B5#^s-712e76fc8088ebf66c6f10d1|Lietuvos Respublikos teritorijų planavimo įstatymo 1, 2, 7, 10, 12, 15, 17, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 34, 35, 36 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
-- [[latest/TAR.3C32BA5677B5#^s-a74575a011470821f6ed91e4|Lietuvos Respublikos teritorijų planavimo įstatymo 1, 2, 7, 10, 12, 15, 17, 18, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 31, 32, 34, 35, 36 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.B9BA9457080D#^s-5ef9bccbbe3548899174028e|Lietuvos Respublikos teritorijų planavimo įstatymo 2, 4, 15, 19, 20, 21, 22, 23, 24, 26, 31, 37 straipsnių pakeitimo ir papildymo įstatymas]] - 2 citatos - Žemės įstatymo ir šio Įstatymo 18 straipsnio 1 dalyje
 - [[latest/TAR.B9BA9457080D#^s-8090832fad1490325fea72d5|Lietuvos Respublikos teritorijų planavimo įstatymo 2, 4, 15, 19, 20, 21, 22, 23, 24, 26, 31, 37 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
-- [[latest/TAR.B9BA9457080D#^s-94750ede32b1935eee67018d|Lietuvos Respublikos teritorijų planavimo įstatymo 2, 4, 15, 19, 20, 21, 22, 23, 24, 26, 31, 37 straipsnių pakeitimo ir papildymo įstatymas]] - 2 citatos - Žemės įstatymo ir šio Įstatymo 18 straipsnio 1 dalyje
 - [[latest/TAR.04CE396ACA9E#^s-40a7b5c625f803d58bd488bf|Lietuvos Respublikos teritorijų planavimo įstatymo 22 straipsnio pakeitimo įstatymas]] - Žemės įstatymo ir šio Įstatymo 18 straipsnio 1 dalyje
-- [[latest/TAR.6CA9529EC2B6#^s-898c0b28d6a9e8586955cce8|Lietuvos Respublikos teritorijų planavimo įstatymo 22 straipsnio pakeitimo įstatymas]] - Žemės įstatymo ir šio Įstatymo 18 straipsnio 1 dalyje
 - [[latest/TAR.6CA9529EC2B6#^s-aa90be01ff6a22db9a4a93d4|Lietuvos Respublikos teritorijų planavimo įstatymo 22 straipsnio pakeitimo įstatymas]] - Žemės įstatymo ir šio Įstatymo 18 straipsnio 1 dalyje
 - [[latest/TAR.EDDA6DCECD60#^s-013eba10ec9d048e24c15ccc|Lietuvos Respublikos teritorijų planavimo įstatymo 22 straipsnio pakeitimo ir papildymo įstatymas]] - 2 citatos - Žemės įstatymo ir šio Įstatymo 18 straipsnio 1 dalyje
-- [[latest/TAR.EDDA6DCECD60#^s-a36724b5ffed33759ae09e76|Lietuvos Respublikos teritorijų planavimo įstatymo 22 straipsnio pakeitimo ir papildymo įstatymas]] - 2 citatos - Žemės įstatymo ir šio Įstatymo 18 straipsnio 1 dalyje
 - [[latest/6879bd6055d111f0b070ee7f1ceefc75#^s-30d9042e69797583a5ab3ab2|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2 ir 23 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/cf76a0e2afcd11f092fda1fd0c194cc5#^s-37877b0da5c7f7756cd8a1f6|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2 ir 4 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/c6fc1e7003aa11efbcbfb318996800a8#^s-a1fef24d2390563bf4dc24b1|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2 ir 4 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/c6fc1e7003aa11efbcbfb318996800a8#^s-f016cd6e62d60427ea8f8547|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2 ir 4 straipsnių pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/c6fc1e7003aa11efbcbfb318996800a8#^s-ffa658152ab042a456bc7367|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2 ir 4 straipsnių pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/087471106fc611edbc04912defe897d1#^s-1f348081e49344222b26903f|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2, 4 ir 16 straipsnių pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/087471106fc611edbc04912defe897d1#^s-909074e886a5ac83ecc3e9e2|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 1, 2, 4 ir 16 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/44beabf04f0811e9975f9c35aedfe438#^s-15b50b8d36ef44ed1d6992cd|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 16, 19 ir 20 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žemės įstatymas
 - [[latest/c69507708b7911e9ae2e9d61b1f977b3#^s-e714ec5b2849b80cc67dbe16|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 16, 19, 20 ir 28 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žemės įstatymas
-- [[latest/1e5309905cb011eb9dc7b575f08e8bea#^s-1c05c48dd4b757b6bbdff17a|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 3, 6, 7, 11, 13, 14, 15, 16, 17, 18, 20, 23, 25, 26, 27, 28, 30, 31, 33, 35, 37, 39, 47 ir 49 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymas
 - [[latest/1e5309905cb011eb9dc7b575f08e8bea#^s-769ad6a16e8479492f61fa42|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 3, 6, 7, 11, 13, 14, 15, 16, 17, 18, 20, 23, 25, 26, 27, 28, 30, 31, 33, 35, 37, 39, 47 ir 49 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymas
 - [[latest/14fdeea09bea11ea9515f752ff221ec9#^s-6846466044115199ebc8a0c0|Lietuvos Respublikos teritorijų planavimo įstatymo Nr. I-1120 2, 6, 15, 17, 18, 21, 26, 27 ir 39 straipsnių pakeitimo įstatymas]] - Žemės įstatymu
 - [[latest/TAR.91F3BE482534#^s-08647ea677141bea2eb913ce|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žemės įstatymas
-- [[latest/TAR.1C65A214E386#^s-0ce9a32761508e73043a2289|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Žemės įstatymas
-- [[latest/TAR.1C65A214E386#^s-52632bbc8dd3e42ffad533af|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.1C65A214E386#^s-6813b132bc6470a25448a2f9|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.1C65A214E386#^s-6a29f41bb6713b8279255e54|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.1C65A214E386#^s-725e8f0908aa4e17a88285fe|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/TAR.91F3BE482534#^s-7d85c9f7c401ee63f26714fd|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žemės įstatymas
 - [[latest/TAR.1C65A214E386#^s-8742d529db67fc5ea8729ba2|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Žemės įstatymo ir šio Įstatymo 18 straipsnio 1 dalies
 - [[latest/TAR.1C65A214E386#^s-acf5f74f04937e25a1832bf5|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Žemės įstatymas
-- [[latest/TAR.1C65A214E386#^s-b243f284850007b34dcaab48|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.91F3BE482534#^s-bae23e92bdb2fcee814f4ab4|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Žemės įstatymu
-- [[latest/TAR.1C65A214E386#^s-f38e2d30704e5945cc6a6ab7|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Žemės įstatymo ir šio Įstatymo 18 straipsnio 1 dalies
-- [[latest/TAR.91F3BE482534#^s-f723ddda59be13eefd9e10ab|Lietuvos Respublikos teritorijų planavimo įstatymo pakeitimo įstatymas]] - Žemės įstatymu
-- [[latest/TAR.AF4E384215F8#^s-0933035575d2b8ee74cc5e1a|Lietuvos Respublikos vadovybės apsaugos įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.AF4E384215F8#^s-16e230ca9533cb6616edc5b1|Lietuvos Respublikos vadovybės apsaugos įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/8f03c4c0ae2511e5b12fbb7dc920ee2c#^s-75194f6b90e57b21b6421a0c|Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 6 ir 9 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/8f03c4c0ae2511e5b12fbb7dc920ee2c#^s-d83f3d55c042a47ada25203a|Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 6 ir 9 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/091900109c0e11ea9515f752ff221ec9#^s-885be6ffbc9457ba7dfef4db|Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/091900109c0e11ea9515f752ff221ec9#^s-c6e8fbaffcf1b9c5609d5fd7|Lietuvos Respublikos vadovybės apsaugos įstatymo Nr. IX-1183 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/03411ac032d511e69cf5d89a5fdd27cc#^s-3b22531b9b2007a6ee74b977|Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/03411ac032d511e69cf5d89a5fdd27cc#^s-e66a002c19510eb27998553e|Lietuvos Respublikos valstybės įmonės Lietuvos oro uostų valdomų oro uostų koncesijos įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.B3CC2C0B9BD2#^s-97548815d8bf956290678d61|Lietuvos Respublikos vandens įstatymas]] - Žemės įstatymo
 - [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-98d78b7283ac1b90a4529392|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/f3b97790131511e9b2b6e7cdb14007b4#^s-e1659e135d30301a61ab7f82|Lietuvos Respublikos vandens įstatymo Nr. VIII-474 pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/TAR.23F8D92B723F#^s-57f9fdda32d473d00ee7c9c8|Lietuvos Respublikos vandens įstatymo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.23F8D92B723F#^s-6b359a0966bc4ebf7df191aa|Lietuvos Respublikos vandens įstatymo pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/TAR.D0CD0966D67F#^s-05c8757706f8200f83f302bc|Lietuvos Respublikos vietos savivaldos įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/TAR.D0CD0966D67F#^s-1c4420f61c372adbefaae430|Lietuvos Respublikos vietos savivaldos įstatymas]] - Žemės įstatyme
-- [[latest/TAR.D0CD0966D67F#^s-c0d684130744012b748fb510|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - Lietuvos Respublikos žemės įstatyme
 - [[latest/7a794912e56211f08918e1adc7c5b1ec#^s-4350103f22df52fd1f401da3|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 15 ir 27 straipsnių pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/7a794912e56211f08918e1adc7c5b1ec#^s-572a57ff37c1b240c9168234|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 15 ir 27 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/7a794912e56211f08918e1adc7c5b1ec#^s-5dc6c49899f9146ff755deb9|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 15 ir 27 straipsnių pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos žemės įstatyme
-- [[latest/7a794912e56211f08918e1adc7c5b1ec#^s-ad74c84a14dfbc2df47a4f27|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 15 ir 27 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo 362 straipsnio 8 dalyje
 - [[latest/7a794912e56211f08918e1adc7c5b1ec#^s-bee71d9681da6dd11f40031b|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 15 ir 27 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo 362 straipsnio 8 dalyje
 - [[latest/7a794912e56211f08918e1adc7c5b1ec#^s-cf6a66dc1df5c1b2faea711c|Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 15 ir 27 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/TAR.D0981EEA50A2#^s-4f8ce5413053fe7f8b4f2ae8|Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo 2, 15, 23, 24 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymu
-- [[latest/TAR.D0981EEA50A2#^s-cab158bfae68f8cf4b28b489|Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo 2, 15, 23, 24 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymu
 - [[latest/TAR.F61ABF8F5638#^s-760114b4695d5f04bcd56d01|Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymas]] - Lietuvos Respublikos žemės įstatymo
-- [[latest/TAR.F61ABF8F5638#^s-8b7a0fe851a738d625a7dceb|Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/a58a0510ebea11e78a1adea6fe72f3c5#^s-0a957f1e15c3c3074ba6b769|Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 2 ir 4 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/8bdcfdb0f77f11e39cfacd978b6fd9bb#^s-ae7d243626c78fd0698d7594|Lietuvos Respublikos Šiaulių laisvosios ekonominės zonos įstatymo Nr. XI-1909 4 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
 - [[latest/TAR.BA283DF0FB41#^s-bf323d6b3c1872b15e38c661|Lietuvos Respublikos želdynų įstatymas]] - Žemės įstatyme
-- [[latest/TAR.BA283DF0FB41#^s-e04106c4f1190af289043a4e|Lietuvos Respublikos želdynų įstatymas]] - Žemės įstatyme
 - [[latest/TAR.F06A852A0753#^s-1e4b55a3ccc98f927577e113|Lietuvos Respublikos želdynų įstatymo 4, 6, 10, 16, 19 ir 25 straipsnių pakeitimo įstatymas]] - Žemės įstatyme
-- [[latest/TAR.F06A852A0753#^s-bc2b2a326973e15f85f78803|Lietuvos Respublikos želdynų įstatymo 4, 6, 10, 16, 19 ir 25 straipsnių pakeitimo įstatymas]] - Žemės įstatyme
 - [[latest/2370827049bc11efbdaea558de59136c#^s-b2688f1dc3b720e5b0fcdb94|Lietuvos Respublikos želdynų įstatymo Nr. X-1241 2, 5, 7, 8, 12, 13, 14, 15, 16, 22 ir 24 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/9dde3570988511eb9fecb5ecd3bd711c#^s-83018559d5c8c202388829ae|Lietuvos Respublikos želdynų įstatymo Nr. X-1241 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/9dde3570988511eb9fecb5ecd3bd711c#^s-edf2c8061c158383278c366b|Lietuvos Respublikos želdynų įstatymo Nr. X-1241 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/TAR.13E108ED3981#^s-25ca3cc05d8086dd6ce6c05c|Lietuvos Respublikos žemės gelmių įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/TAR.13E108ED3981#^s-58ff2665592b10f7eb124177|Lietuvos Respublikos žemės gelmių įstatymas]] - Lietuvos Respublikos žemės įstatyme
-- [[latest/TAR.13E108ED3981#^s-75ec76620573b09ef1191c0a|Lietuvos Respublikos žemės gelmių įstatymas]] - Žemės įstatymo
 - [[latest/TAR.13E108ED3981#^s-79438f73e8cf6031f8689aa7|Lietuvos Respublikos žemės gelmių įstatymas]] - Žemės įstatymo
-- [[latest/TAR.13E108ED3981#^s-a4685c0f27a1a2dbc1db200d|Lietuvos Respublikos žemės gelmių įstatymas]] - Žemės įstatymo
 - [[latest/TAR.13E108ED3981#^s-e0f3047687329bf2fb0f9120|Lietuvos Respublikos žemės gelmių įstatymas]] - Žemės įstatymo
+- [[latest/TAR.9D9E7CCB56BC#^s-ff22b83e937182fff4540ea1|Lietuvos Respublikos žemės gelmių įstatymo 3, 14, 16, 18 ir 20 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/e25ff5c0ccfb11ec8d9390588bf2de65#^s-4a53db2e4f5c7072cd246b4a|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 2 ir 11 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/e25ff5c0ccfb11ec8d9390588bf2de65#^s-6dda81a23c6e6944e3b8705e|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 2 ir 11 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/9196d70010b911ee9f7ec2ffce8b47bc#^s-b761a19eddfd1de3f80d03fc|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 5 ir 11 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-238e7e561a3c70a7243dd837|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/81f64500fbba11e99681cd81dcdca52c#^s-2999ad1722937a46d877af91|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
 - [[latest/81f64500fbba11e99681cd81dcdca52c#^s-4147a737e1ff7a6b81660f7a|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Žemės įstatymo
 - [[latest/81f64500fbba11e99681cd81dcdca52c#^s-ea9707ea7a5441f1a0a49eed|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Žemės įstatymo
-- [[latest/81f64500fbba11e99681cd81dcdca52c#^s-ed68d58b8c499302bb97dac2|Lietuvos Respublikos žemės gelmių įstatymo Nr. I-1034 pakeitimo įstatymas]] - Žemės įstatymo
-- ... dar 186 ryšių grupių machine-readable indekse.
+- [[latest/TAR.FC99661E0C1C#^s-880833b0a34486567a825cee|Lietuvos Respublikos žemės gelmių įstatymo pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/74ecaca0d1f411e3a8ded1a0f5aff0a9#^s-9e05be0d65899e42ec1f76ce|Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 2, 6 ir 9 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
+- [[latest/ced87080087d11efbcbfb318996800a8#^s-e33edb03bd6fd67f5ba27415|Lietuvos Respublikos žemės mokesčio įstatymo Nr. I-2675 2, 6, 8, 9, 10, 11 ir 13 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
+- [[latest/TAR.59681865CD01#^s-4b51bc450793952f34843846|Lietuvos Respublikos žemės mokesčio įstatymo pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatyme
+- [[latest/TAR.057DCC40ECC6#^s-05b061989c4f615a357d4797|Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymas]] - Lietuvos Respublikos žemės įstatymo
+- [[latest/75971990f64011ed9978886e85107ab2#^s-8ec7956bf44a1b52c9de2532|Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo Nr. XI-1307 2, 3, 4, 5, 6, 7, 8 ir 16 straipsnių pakeitimo įstatymas]] - 4 citatos - 3
+- [[latest/75971990f64011ed9978886e85107ab2#^s-ecedf517cd84ee6179b77fd4|Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo Nr. XI-1307 2, 3, 4, 5, 6, 7, 8 ir 16 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 37 straipsnio 11 dalimi
+- [[latest/cff4fc901fa811eeb233e8b04dc9bb3d#^s-68d5683fdf2629bc7e5b08d8|Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo Nr. XI-1307 3, 4, 5, 7, 9, 12, 13, 15 ir 16 straipsnių pakeitimo įstatymas]] - Žemės įstatyme
+- [[latest/5080d17049c111efbdaea558de59136c#^s-5cfd09f75abdc0abd1c2a5d9|Lietuvos Respublikos žemės paėmimo visuomenės poreikiams įgyvendinant ypatingos valstybinės svarbos projektus įstatymo Nr. XI-1307 4 ir 7 straipsnių pakeitimo įstatymas]] - 2 citatos - Žemės įstatymo
+- [[latest/TAR.075D49C59279#^s-03e645434050be7f06477f8e|Lietuvos Respublikos žemės reformos įstatymas]] - Žemės įstatymo
+- [[latest/TAR.075D49C59279#^s-0952df0853598f220f4d892c|Lietuvos Respublikos žemės reformos įstatymas]] - Žemės įstatymo 131 straipsnyje
+- [[latest/TAR.075D49C59279#^s-0f2a6cc69aea98ea8fd813e7|Lietuvos Respublikos žemės reformos įstatymas]] - Žemės įstatymas
+- [[latest/TAR.075D49C59279#^s-2038ade61fc62eeb17dc4078|Lietuvos Respublikos žemės reformos įstatymas]] - Žemės įstatymo 22 straipsnio 2 dalies 8 punkte
+- [[latest/TAR.075D49C59279#^s-322be769e03fc8423ea1f47c|Lietuvos Respublikos žemės reformos įstatymas]] - Žemės įstatymo
+- [[latest/TAR.075D49C59279#^s-38110696039be7a80127747f|Lietuvos Respublikos žemės reformos įstatymas]] - Žemės įstatymo 22 straipsnio 2 dalies 8 punkte
+- [[latest/TAR.075D49C59279#^s-6d8e3a3bab831f67f0a99757|Lietuvos Respublikos žemės reformos įstatymas]] - Žemės įstatymo
+- [[latest/TAR.075D49C59279#^s-6fabb4c84d857e18cf1cbc79|Lietuvos Respublikos žemės reformos įstatymas]] - Žemės įstatymas
+- [[latest/TAR.075D49C59279#^s-8604af4cc4a6528336742388|Lietuvos Respublikos žemės reformos įstatymas]] - Žemės įstatymo
+- [[latest/TAR.075D49C59279#^s-9a53bb736111dea45886b3ab|Lietuvos Respublikos žemės reformos įstatymas]] - Žemės įstatymo
+- [[latest/TAR.075D49C59279#^s-cbdb7e89f4b24fb2d25f9c4d|Lietuvos Respublikos žemės reformos įstatymas]] - Žemės įstatymo 41 straipsnio 3 dalies 2 punkte
+- [[latest/TAR.0372FCB845EF#^s-10a189aadd77e722d2603cdc|Lietuvos Respublikos žemės reformos įstatymo 2, 5, 7, 8, 9, 10, 11, 15, 17, 18 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
+- [[latest/TAR.63FA09C265AB#^s-0670f7bd41eeff048f1f9514|Lietuvos Respublikos žemės reformos įstatymo 4, 6, 8, 9, 10, 15, 16, 17, 18, 19, 20 ir 21 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/TAR.63FA09C265AB#^s-21f778fddcb786da0763edd8|Lietuvos Respublikos žemės reformos įstatymo 4, 6, 8, 9, 10, 15, 16, 17, 18, 19, 20 ir 21 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/TAR.63FA09C265AB#^s-a857a687d5440ca737c6854e|Lietuvos Respublikos žemės reformos įstatymo 4, 6, 8, 9, 10, 15, 16, 17, 18, 19, 20 ir 21 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/TAR.1943C0B5C98B#^s-90b39bf69af6157d81eb2cd4|Lietuvos Respublikos žemės reformos įstatymo 7, 9, 10, 14, 15, 16, 18, 19 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
+- [[latest/TAR.7A3423ED809B#^s-5da609dd9c1d38c13c9cb948|Lietuvos Respublikos žemės reformos įstatymo 8, 9, 10, 13, 15, 16, 17, 18, 19, 21, 22 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
+- [[latest/TAR.7A3423ED809B#^s-72a0b4b1727bc6e5f8c28e08|Lietuvos Respublikos žemės reformos įstatymo 8, 9, 10, 13, 15, 16, 17, 18, 19, 21, 22 straipsnių pakeitimo ir papildymo įstatymas]] - Žemės įstatymo
+- [[latest/TAR.7A3423ED809B#^s-868701122793ba50c66c667e|Lietuvos Respublikos žemės reformos įstatymo 8, 9, 10, 13, 15, 16, 17, 18, 19, 21, 22 straipsnių pakeitimo ir papildymo įstatymas]] - „Žemės įstatymas“
+- [[latest/69443ba0de7611ed9978886e85107ab2#^s-cd618b64b09ec3259bb13b61|Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 19 straipsnio pakeitimo įstatymas]] - Žemės įstatymo 22 straipsnio 2 dalies 8 punkte
+- [[latest/10fd3db01fa911eeb233e8b04dc9bb3d#^s-3fef21768cb2907fb50664b2|Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8, 9, 15, 16, 17, 18, 19 ir 20 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 22 straipsnio 2 dalies 8 punkte
+- [[latest/10fd3db01fa911eeb233e8b04dc9bb3d#^s-aef23fc69381d5bcbad098b9|Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8, 9, 15, 16, 17, 18, 19 ir 20 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/10fd3db01fa911eeb233e8b04dc9bb3d#^s-eacb8e11975c62f978b75c28|Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8, 9, 15, 16, 17, 18, 19 ir 20 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/10fd3db01fa911eeb233e8b04dc9bb3d#^s-ec20eac901b656ef0ed5aeb1|Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8, 9, 15, 16, 17, 18, 19 ir 20 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 41 straipsnio 3 dalies 2 punkte
+- [[latest/f9355830a15c11eea5a28c81c82193a8#^s-6b3128fb0fe08e0985687bc1|Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8, 9, 15, 16, 17, 18, 19 ir 20 straipsnių pakeitimo įstatymo Nr. XIV-2125 2, 3, 4, 6, 7 ir 8 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 22 straipsnio 2 dalies 8 punkte
+- [[latest/f9355830a15c11eea5a28c81c82193a8#^s-b26fec63847add7d734d0d4b|Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 8, 9, 15, 16, 17, 18, 19 ir 20 straipsnių pakeitimo įstatymo Nr. XIV-2125 2, 3, 4, 6, 7 ir 8 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/96e8d080042311edb32c9f9d8ba206f8#^s-02bc2f338c66f215f5e0634f|Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 9, 10, 15, 16, 17, 18, 19 ir 20 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/96e8d080042311edb32c9f9d8ba206f8#^s-50dbf0609f9806e8732a6744|Lietuvos Respublikos žemės reformos įstatymo Nr. I-1607 9, 10, 15, 16, 17, 18, 19 ir 20 straipsnių pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/TAR.0EF9122D15BE#^s-1e388e3066146aa9bcd335e4|Lietuvos Respublikos žemės reformos įstatymo pakeitimo įstatymas]] - Žemės įstatymas
+- [[latest/TAR.0EF9122D15BE#^s-c7ea9d13e1937a8be9de7675|Lietuvos Respublikos žemės reformos įstatymo pakeitimo įstatymas]] - Žemės įstatymas
+- [[latest/TAR.A93352D8BA78#^s-86ec8915653258df94fb7893|Lietuvos Respublikos žemės įstatymo 2, 14, 20, 30, 31, 49, 50, 51 straipsnių pakeitimo ir XII skyriaus pavadinimo pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/TAR.A64DB3EB7FC6#^s-e3f2acd6e5ad2112852bb244|Lietuvos Respublikos žemės įstatymo 2, 3, 7, 8, 9, 10, 12, 13, 15, 16, 19, 20, 21, 22, 23, 24, 25, 30, 31, 32, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos žemės įstatyme
+- [[latest/TAR.3A243AC34B13#^s-7e348c87724d52dbd80f506d|Lietuvos Respublikos žemės įstatymo 2, 9, 10, 12, 13, 15, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 32, 33, 37, 38, 39, 40, 41, 45, 46, 47, 48, 49, 51, 52 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos žemės įstatymo
+- [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-319ed2dc2721904bb5b1920a|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - 4 citatos - 3
+- [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-41ac37bf1a65c68af323e126|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Lietuvos Respublikos žemės įstatymo 7 straipsnio 16 dalyje
+- [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-543f4df0bbc2f7d2dd68b988|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Žemės įstatymo 362 straipsnio 8 dalyje
+- [[latest/e563b270e56111f08918e1adc7c5b1ec#^s-6b8ba25ba52d3b7d83a17c00|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 13, 13-1, 15, 22, 23, 29, 30-1, 31, 32, 34, 35, 36-1, 36-2, 37, 39, 40, 45, 46, 47, 49, 50, 51, 52 straipsnių pakeitimo ir 55 straipsnio pripažinimo netekusiu galios įstatymas]] - Žemės įstatymo 10 straipsnį
+- [[latest/964880b23bc711f0b070ee7f1ceefc75#^s-06b0eef2b09a1079b900a632|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 15, 22, 23, 29, 32, 34, 35, 37, 40, 41, 43, 45, 47, 55, 56, 64, 66 straipsnių ir VI-1 skyriaus pakeitimo įstatymas]] - 24 citatos - 52
+- [[latest/964880b23bc711f0b070ee7f1ceefc75#^s-67d66db12e98722c397c5dd0|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 15, 22, 23, 29, 32, 34, 35, 37, 40, 41, 43, 45, 47, 55, 56, 64, 66 straipsnių ir VI-1 skyriaus pakeitimo įstatymas]] - 2 citatos - Žemės įstatyme
+- [[latest/964880b23bc711f0b070ee7f1ceefc75#^s-bd58c26ed2cb5fbfd3080a03|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 15, 22, 23, 29, 32, 34, 35, 37, 40, 41, 43, 45, 47, 55, 56, 64, 66 straipsnių ir VI-1 skyriaus pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo 8 straipsnio 10 dalis
+- [[latest/964880b23bc711f0b070ee7f1ceefc75#^s-c523205ec8b6e85c5f3725e9|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 15, 22, 23, 29, 32, 34, 35, 37, 40, 41, 43, 45, 47, 55, 56, 64, 66 straipsnių ir VI-1 skyriaus pakeitimo įstatymas]] - 2 citatos - Žemės įstatymo 9 straipsnio 171 dalies
+- [[latest/964880b23bc711f0b070ee7f1ceefc75#^s-c9f6d460edd3a1a84eb25ed6|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 15, 22, 23, 29, 32, 34, 35, 37, 40, 41, 43, 45, 47, 55, 56, 64, 66 straipsnių ir VI-1 skyriaus pakeitimo įstatymas]] - Žemės įstatymo 10 straipsnį
+- [[latest/964880b23bc711f0b070ee7f1ceefc75#^s-d589367b320d00d18ee76856|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 15, 22, 23, 29, 32, 34, 35, 37, 40, 41, 43, 45, 47, 55, 56, 64, 66 straipsnių ir VI-1 skyriaus pakeitimo įstatymas]] - 2 citatos - Žemės įstatymo 9 straipsnio 172 dalyje
+- [[latest/734cab9276c711f1b53dfa020e517810#^s-99f2ac3579960dcc9cb3f55d|Lietuvos Respublikos žemės įstatymo Nr. I-446 2, 7, 8, 9, 10, 11, 22, 23, 29, 30, 32, 36-1, 36-2, 37, 40, 41, 45, 46, 47, 48, 49, 51, 52, 60, 62 ir 64 straipsnių pakeitimo, Įstatymo papildymo 41-1, 41-2, 41-3, 41-4 straipsniais ir 56 straipsnio pripažinimo netekusiu galios įstatymas]] - Žemės įstatymo 10 straipsnį
+- [[latest/f4a48b30ccf911ec8d9390588bf2de65#^s-200f9fc86a5a82204e05da7d|Lietuvos Respublikos žemės įstatymo Nr. I-446 23 ir 47 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo 47 straipsnio 1 dalyje
+- [[latest/df1f3370ec8c11e78a1adea6fe72f3c5#^s-7e23c1ae43c828706b9b27f6|Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9 ir 32 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 7 straipsnio 2 dalyje
+- [[latest/bd1704b0aea511e98451fa7b5933515d#^s-caac7232a93fff6916fac881|Lietuvos Respublikos žemės įstatymo Nr. I-446 7, 8, 9 ir 32 straipsnių pakeitimo įstatymas]] - 4 citatos - Lietuvos Respublikos žemės įstatyme
+- [[latest/f34d9e7286ce11efabdbb4a1fc8b0b63#^s-1a55900efa5c7283b4fc4917|Lietuvos Respublikos žemės įstatymo Nr. I-446 8, 9, 22, 29, 36-2, 48 ir 52 straipsnių pakeitimo įstatymas]] - 3 citatos - Žemės įstatymo 52 straipsnio
+- [[latest/f34d9e7286ce11efabdbb4a1fc8b0b63#^s-703a78aeaa57e976f892be6a|Lietuvos Respublikos žemės įstatymo Nr. I-446 8, 9, 22, 29, 36-2, 48 ir 52 straipsnių pakeitimo įstatymas]] - 3 citatos - Žemės įstatymo 9 straipsnio
+- [[latest/f34d9e7286ce11efabdbb4a1fc8b0b63#^s-8f36f795e11bed85efab26f1|Lietuvos Respublikos žemės įstatymo Nr. I-446 8, 9, 22, 29, 36-2, 48 ir 52 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 22 straipsnio
+- [[latest/3f612960582111ec862fdcbc8b3e3e05#^s-f4a825ba2c1508ee8c438c6e|Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 24 straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas]] - Lietuvos Respublikos žemės įstatymo 9 straipsnio 14 dalyje
+- [[latest/96e976f0800411ec993ff5ca6e8ba60c#^s-796ac61d066677093fa55500|Lietuvos Respublikos žemės įstatymo Nr. I-446 9 ir 45 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-079db11851bb70aa7d62e4e4|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 23 straipsnio 2 dalies
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-21d14bab643e320b75938fa6|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 9 straipsnio 1 dalies 1 punkto
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-239b70117df3cc13e33151a7|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 2 straipsnio 16 dalies
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-2861ee11885183b1a97045ad|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 32 straipsnio
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-38bf601e536df0c47bce64a6|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - 3 citatos - Lietuvos Respublikos žemės įstatymo
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-3bb830200099c6b1b88d2245|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 64 straipsnio
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-50cbf46d1589087697f4a72b|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 16 straipsnio 2 dalies
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-59a0183dbacae09ce1ca8ffd|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 40 straipsnio 9 dalies
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-67df35e8847e457b5d2a84b9|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 8 straipsnio
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-6a961ed8bf855c524504b4f0|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 32 straipsnio 4 dalies
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-731f53027b532794d0cbd1aa|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 7 straipsnio
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-7be52396d9b88a72f9d0fd0f|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 36 straipsnio
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-95a25c1ebf4649018011a1c2|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 11 straipsnio 1 dalies 3 punkto
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-969c75a1a8db6524d1066823|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 9 straipsnio
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-a27c160c756487629aa57294|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-b9a1d3e0baddb3d2fa8d0c88|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 40 straipsnio 4 dalies
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-c4b52b4c9913476060d58ae6|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 8 straipsnio 3 dalies 1 punkto
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-ca4360fc664289cfc7fac061|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 40 straipsnio 7 dalies 4 punkto
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-d1895356994867ca11d157f0|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-d90e85526ed72b6b852f3b1f|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 23 straipsnio
+- [[latest/33d53292042311edb32c9f9d8ba206f8#^s-fd713e0eefa709ca143c8200|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymas]] - Žemės įstatymo 49 straipsnio 5 dalies
+- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-5f5f73836cf9eb0281481f55|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-6757e2df8a1bff1be0e6e898|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Žemės įstatymo 64 straipsnio
+- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-72c0a45d8a5d1025941cf1f6|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Žemės įstatymo 2 straipsnio 16 dalies
+- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-750d97e352424bda99fdf6fd|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Žemės įstatymo 32 straipsnio
+- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-791ab67a9388e51d3083e34d|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Žemės įstatymo 36 straipsnio
+- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-c76356145676646f18ba4061|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Žemės įstatymo 8 straipsnio
+- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-cb70e80ac58db827d2e956e4|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Žemės įstatymo 7 straipsnio
+- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-da5fd3ed34e6c3c5d617fe97|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Žemės įstatymo 11 straipsnio 1 dalies 3 punkto
+- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-e877ed71f9c502f557135f68|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Žemės įstatymo 7 straipsnio
+- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-e8e581dd708b4c7bbdd1ae3c|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Žemės įstatymo 9 straipsnio
+- [[latest/442d41001fa711eeb233e8b04dc9bb3d#^s-f805f479d03e0b4f4811788d|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymas]] - Žemės įstatymo 23 straipsnio
+- [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-1e53bbd1998ad2e1706815c8|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 7 straipsnio
+- [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-806f5d0e6825b30ce505d4a5|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 7 straipsnio
+- [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-956b834b28d5867d7887fce9|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 9 straipsnio
+- [[latest/6ea60d20a0cd11eea5a28c81c82193a8#^s-a4957a4a67abcf9a7ed7e6b4|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 ir 2 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 8 straipsnio
+- [[latest/6dbdd2c0a62d11eea5a28c81c82193a8#^s-697251582068374dee484300|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 straipsnio pakeitimo įstatymas]] - Žemės įstatymo 9 straipsnio
+- [[latest/6dbdd2c0a62d11eea5a28c81c82193a8#^s-82ab412218bda6c77c7ed250|Lietuvos Respublikos žemės įstatymo Nr. I-446 pakeitimo įstatymo Nr. XIV-1311 2 straipsnio pakeitimo įstatymo Nr. XIV-2115 1 straipsnio pakeitimo įstatymas]] - Žemės įstatymo 8 straipsnio
+- [[latest/c9a5e170cfa211e3a8ded1a0f5aff0a9#^s-49df544c6e9cd74036bfb23b|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo  Nr. IX-1314 pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/c9a5e170cfa211e3a8ded1a0f5aff0a9#^s-59c50e2b481d53cf21b9dacd|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo laikinojo įstatymo  Nr. IX-1314 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo (toliau – Žemės įstatymas) 21 straipsnyje
+- [[latest/TAR.7A932101FADA#^s-0e26726c5b8922473b6203ac|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas]] - Žemės įstatymu
+- [[latest/TAR.7A932101FADA#^s-203bae01a36fbe8e3c00933c|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas]] - Žemės įstatymo
+- [[latest/TAR.7A932101FADA#^s-be111fd41c492a685b07c0c1|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas]] - Žemės įstatymo 22 straipsnio 2 dalies 8 punkte
+- [[latest/TAR.7A932101FADA#^s-beaf7fe271fc59bef300918c|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
+- [[latest/b240dfb2dfeb11f08918e1adc7c5b1ec#^s-5fe998bacee3bd87afba5fdc|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 1, 3 ir 4 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 22 straipsnio 2 dalies 8 punkte
+- [[latest/34ab9ff0042411edb32c9f9d8ba206f8#^s-4523c92785c9ca45b28b7612|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 3, 4 ir 5 straipsnių pakeitimo įstatymas]] - Žemės įstatymu
+- [[latest/e1f9ad82a73011ef90b5ee8931e5ce5e#^s-1fda3bfbcdee46e8f8659172|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 4 ir 5 straipsnių pakeitimo įstatymas]] - Žemės įstatymu
+- [[latest/ef9f0a12042211edb32c9f9d8ba206f8#^s-454a6963b2dda8ceab2788c1|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 4 ir 5 straipsnių pakeitimo įstatymas]] - Žemės įstatymu
+- [[latest/e1f9ad82a73011ef90b5ee8931e5ce5e#^s-ad7580c32351035ee5e44b35|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 4 ir 5 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 22 straipsnio 2 dalies 8 punkte
+- [[latest/4d92853055cd11f0b070ee7f1ceefc75#^s-3b689c721bc8f115877247b1|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 4 ir 5 straipsnių pakeitimo įstatymo Nr. XIV-3117 1 ir 2 straipsnių pakeitimo įstatymas]] - Žemės įstatymo 22 straipsnio 2 dalies 8 punkte
+- [[latest/4d92853055cd11f0b070ee7f1ceefc75#^s-fa574e657ad96d79b621c229|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 4 ir 5 straipsnių pakeitimo įstatymo Nr. XIV-3117 1 ir 2 straipsnių pakeitimo įstatymas]] - Žemės įstatymu
+- [[latest/296907e01fa811eeb233e8b04dc9bb3d#^s-017dbeeb77551c103b22da57|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 pakeitimo įstatymas]] - Žemės įstatyme
+- [[latest/296907e01fa811eeb233e8b04dc9bb3d#^s-09e3a1e0131de3029d0fb3e5|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
+- [[latest/296907e01fa811eeb233e8b04dc9bb3d#^s-14e27b19aba6b070bedbcfa4|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 pakeitimo įstatymas]] - Žemės įstatymu
+- [[latest/84c852c0db3511e7910a89ac20768b0f#^s-3e4f639c101b1c158a181aed|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 pakeitimo įstatymas]] - Lietuvos Respublikos žemės įstatymo
+- [[latest/84c852c0db3511e7910a89ac20768b0f#^s-886e633ce8d740534567d3ad|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 pakeitimo įstatymas]] - Žemės įstatymu
+- [[latest/84c852c0db3511e7910a89ac20768b0f#^s-91e98484116ed4eb6312c334|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 pakeitimo įstatymas]] - Žemės įstatymo
+- [[latest/296907e01fa811eeb233e8b04dc9bb3d#^s-ce46eba16f8e64efa3508cca|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo Nr. IX-1314 pakeitimo įstatymas]] - Žemės įstatymo

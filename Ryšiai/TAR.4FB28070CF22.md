@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.FF1083B528B7#^s-6ac9fe30ead8b245d11df8b8|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 2 citatos - DĖL LIETUVOS RESPUBLIKOS SAUGOMŲ TERITORIJŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO
-- [[latest/TAR.FF1083B528B7#^s-f37a445d4c8bf2d27f9dbaf1|Lietuvos Respublikos saugomų teritorijų įstatymas]] - 2 citatos - DĖL LIETUVOS RESPUBLIKOS SAUGOMŲ TERITORIJŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO
+- [[latest/TAR.FF1083B528B7#^s-6ac9fe30ead8b245d11df8b8|Lietuvos Respublikos saugomų teritorijų įstatymas]] - DĖL LIETUVOS RESPUBLIKOS SAUGOMŲ TERITORIJŲ ĮSTATYMO PAKEITIMO IR PAPILDYMO

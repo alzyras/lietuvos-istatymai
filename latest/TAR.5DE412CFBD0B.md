@@ -69,7 +69,7 @@ Vilnius
 „13. Materialiniai ištekliai – nekilnojamasis turtas, technika, įrenginiai, statybinės medžiagos, kurie įstatymų ir kitų teisės aktų nustatyta tvarka panaudojami ekstremalių situacijų ir (ar) ekstremalių įvykių atvejais gelbėjimo ir padarinių šalinimo darbams atlikti.“
 
 
-6. Papildyti [[#^s-ac6bf84414b9721f2a1e6f15|2 straipsnį]] naujomis 14, 15, 16, 17 ir [[#^s-52053931f54fb64ceb0f8a25|18 dalimis]]: ^s-6cb7d11bdb811f2b26b004e6
+6. Papildyti [[#^s-ac6bf84414b9721f2a1e6f15|2 straipsnį]] naujomis 14, 15, 16, 17 ir 18 dalimis: ^s-6cb7d11bdb811f2b26b004e6
 
 
 „14. Įrenginys – pavojingo objekto techninis vienetas, kuriame gaminamos, naudojamos, perdirbamos, sandėliuojamos arba neutralizuojamos viena arba kelios pavojingos medžiagos. Įrenginio sąvoka apima visą įrangą, vamzdynus, mašinas, įrankius, geležinkelio atšakas, dokus, krovos krantinių ir prieplaukų įrenginius, sandėlius ir kitas sausumoje ar vandenyje esančias struktūras, būtinas įrenginio veiklai.
@@ -135,7 +135,7 @@ Vilnius
 „[[#^s-9076f83ed41fb904bb3806d6|7 straipsnis]]. Teisiniai civilinės saugos ir gelbėjimo sistemos pagrindai
 
 
-Civilinės saugos ir gelbėjimo sistemos institucijos savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, įstatymais ir kitais Seimo priimtais teisės aktais, Respublikos Prezidento dekretais, Vyriausybės nutarimais, Ministro Pirmininko potvarkiais, vidaus reikalų ministro įsakymais ir Lietuvos Respublikos tarptautinėmis sutartimis.“
+Civilinės saugos ir gelbėjimo sistemos institucijos savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymais ir kitais Seimo priimtais teisės aktais, Respublikos Prezidento dekretais, Vyriausybės nutarimais, Ministro Pirmininko potvarkiais, vidaus reikalų ministro įsakymais ir Lietuvos Respublikos tarptautinėmis sutartimis.“
 
 
 
@@ -188,7 +188,7 @@ Civilinės saugos ir gelbėjimo sistemos institucijos savo veikloje vadovaujasi 
 „6) organizuoja valstybės institucijų ir visuomenės pasirengimą praktiniams veiksmams ekstremalių situacijų atvejais;“.
 
 
-2. Papildyti 10 straipsnio 2 dalį 8 ir [[#^s-bf2226a1903b1dda30cf7227|9 punktais]]: ^s-97867bff960fbfdfa5b7ea9c
+2. Papildyti 10 straipsnio 2 dalį 8 ir 9 punktais: ^s-97867bff960fbfdfa5b7ea9c
 
 
 „8) koordinuoja apskričių ir savivaldybių civilinės saugos parengties ekstremalioms situacijoms planų rengimą;
@@ -612,7 +612,7 @@ Pakeisti [[#^s-65f4818b5bfbd487365aa13f|31 straipsnį]] ir jį išdėstyti taip:
 ### 22 straipsnis. 32 straipsnio 1, 2, 4 ir 5 dalių pakeitimas ^s-80dfb57b84aebcdc12fd370d
 
 
-Pakeisti 32 straipsnio 1, 2, 4 ir [[#^s-c328d4ebcd1119d06cd71abb|5 dalis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 32 straipsnio 1, 2, 4 ir 5 dalis ir visą straipsnį išdėstyti taip:
 
 
 „32 straipsnis. Gyventojų evakavimas
@@ -749,7 +749,7 @@ Pasiūlyti Vyriausybei iki 2004 m. spalio 1 d. parengti bendrai civilinės saugo
 ### 31 straipsnis. Įstatymo įsigaliojimas ^s-65f4818b5bfbd487365aa13f
 
 
-Šio Įstatymo [[#^s-292e98fde8ae021fd0b6df6d|2 straipsnio 1 dalis]], 4, 5, 11 ir [[#^s-70b1b6b41e4b5116a876e1d8|24 straipsniai]] įsigalioja nuo 2004 m. balandžio 1 d.
+Šio Įstatymo [[#^s-292e98fde8ae021fd0b6df6d|2 straipsnio 1 dalis]], [[#^s-fd09618611eca6739c28fa21|4]], [[#^s-572959d132e245ae16386031|5]], [[#^s-226fb233afb7c86b9693cdec|11]] ir [[#^s-70b1b6b41e4b5116a876e1d8|24]] straipsniai įsigalioja nuo 2004 m. balandžio 1 d.
 
 
 

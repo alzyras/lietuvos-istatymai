@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-5f79e51b99e63b34b8342258
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. kovo 19 d. dekretą Nr. 403, ratifikuoja 2003 m. spalio 24 d. Stokholme pasirašytą Lietuvos Respublikos Vyriausybės ir Švedijos Karalystės Vyriausybės bendradarbiavimo susitarimą ekstremalių situacijų prevencijos, parengties ir jų likvidavimo srityje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. kovo 19 d. dekretą Nr. 403](https://e-tar.lt/portal/lt/legalAct/TAR.87D4C6F5EC4C), ratifikuoja 2003 m. spalio 24 d. Stokholme pasirašytą Lietuvos Respublikos Vyriausybės ir Švedijos Karalystės Vyriausybės bendradarbiavimo susitarimą ekstremalių situacijų prevencijos, parengties ir jų likvidavimo srityje.
 
 
 

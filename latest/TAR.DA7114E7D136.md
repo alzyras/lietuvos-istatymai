@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-625356120c0b1033b00ea66c
-[[latest/TAR.522B3E415B52#^s-041f51bc21866ffd0a39364c|TEISMŲ ĮSTATYMO 22, 221, 28, 77 STRAIPSNIŲ]] PAKEITIMAS IR
+[[latest/TAR.522B3E415B52|TEISMŲ ĮSTATYMO]] [[latest/TAR.522B3E415B52#^s-50edb2ba5ed8d7d923f41867|22]], [[latest/TAR.522B3E415B52|221]], [[latest/TAR.522B3E415B52#^s-406cb995df9e309e85c03bc5|28]], [[latest/TAR.522B3E415B52#^s-041f51bc21866ffd0a39364c|77]] STRAIPSNIŲ PAKEITIMAS IR
 PAPILDYMAS
 
 
@@ -91,7 +91,7 @@ Papildyti 28 straipsnį 3 dalimi:
 77 straipsnio 1 dalyje vietoj žodžių „aukštąjį teisinį“ įrašyti žodžius „teisės magistro arba teisės bakalauro, arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą)“, išbraukti žodžius „ir jis neišlaikė egzaminų“ ir šią dalį išdėstyti taip:
 
 
-„Teismo antstolis yra pareigūnas. Juo gali būti ne jaunesnis kaip 21 metų Lietuvos Respublikos pilietis, turintis teisės magistro arba teisės bakalauro, arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą), arba aukštesnįjį teisinį išsilavinimą ir išlaikęs teismo antstolio egzaminus. Sudarant su teismo antstoliu darbo sutartį nustatomas 3 mėnesių išbandymo terminas. Jeigu per šį terminą paaiškėja, kad teismo antstolio darbo rezultatai nepatenkinami, teismo antstolis atleidžiamas iš darbo Lietuvos Respublikos darbo sutarties įstatymo nustatyta tvarka.“
+„Teismo antstolis yra pareigūnas. Juo gali būti ne jaunesnis kaip 21 metų Lietuvos Respublikos pilietis, turintis teisės magistro arba teisės bakalauro, arba teisininko profesinį kvalifikacinį laipsnį (vienpakopį teisinį universitetinį išsilavinimą), arba aukštesnįjį teisinį išsilavinimą ir išlaikęs teismo antstolio egzaminus. Sudarant su teismo antstoliu darbo sutartį nustatomas 3 mėnesių išbandymo terminas. Jeigu per šį terminą paaiškėja, kad teismo antstolio darbo rezultatai nepatenkinami, teismo antstolis atleidžiamas iš darbo [Lietuvos Respublikos darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) nustatyta tvarka.“
 
 
 

@@ -61,7 +61,7 @@ Finansinių nusikaltimų tyrimo tarnyba prie Lietuvos Respublikos vidaus reikal�
 1. Tarnyba yra viešasis juridinis asmuo ir turi antspaudą su Lietuvos valstybės herbu bei savo pavadinimu. ^s-19d339e70ce781b4b811342f
 
 
-2. Tarnyba savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, Lietuvos Respublikos vidaus tarnybos statutu (toliau – Vidaus tarnybos statutas), šiuo įstatymu ir kitais Lietuvos Respublikos teisės aktais. ^s-db4ce9ac44db9ca11ec70f13
+2. Tarnyba savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, Lietuvos Respublikos vidaus tarnybos statutu (toliau – Vidaus tarnybos statutas), šiuo įstatymu ir kitais Lietuvos Respublikos teisės aktais. ^s-db4ce9ac44db9ca11ec70f13
 
 
 3. Šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos Vidaus tarnybos statute, [[latest/TAR.CA89372D00AA|Lietuvos Respublikos policijos įstatyme]], [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme]] ir [[latest/TAR.389CB90C666D|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatyme]]. ^s-6b5551165596bd081735c2ed
@@ -398,7 +398,7 @@ Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
 2. Prievarta šiame Įstatyme suprantama kaip Tarnybos veiklos metodas, kuriuo siekiama įgyvendinti Tarnybos uždavinius ir kuris taikomas, kai nevykdomi Tarnybos pareigūno reikalavimai ar nurodymai arba siekiama išvengti pavojaus. ^s-d0e33d451a0b3f35ab1c2a18
 
 
-3. Psichinę prievartą Tarnybos pareigūnas turi teisę panaudoti šio straipsnio 4, [[#^s-e375dc4ce2de19a270eb81ed|5 dalyse]] arba šio Įstatymo [[#^s-af96fc378875ff10ce9478a3|17 straipsnio 2 dalyje]] nurodytais atvejais. ^s-7798a8a70e17674d2ae58f35
+3. Psichinę prievartą Tarnybos pareigūnas turi teisę panaudoti šio straipsnio [[#^s-f6503718ec0c2109895c862c|4]], [[#^s-e375dc4ce2de19a270eb81ed|5]] dalyse arba šio Įstatymo [[#^s-af96fc378875ff10ce9478a3|17 straipsnio 2 dalyje]] nurodytais atvejais. ^s-7798a8a70e17674d2ae58f35
 Straipsnio dalies pakeitimai:
 Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
 
@@ -546,7 +546,7 @@ Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
 6. Kai nėra neišvengiamo pavojaus Tarnybos pareigūno arba kitų asmenų gyvybei ar sveikatai, naudoti šaunamąjį ginklą draudžiama: ^s-b8e034ae3b3c4ae5fd67b454
 
 
-1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus [[#^s-af96fc378875ff10ce9478a3|šio straipsnio 2 dalies]] 1 ir [[#^s-e4897d864b6752a009a8d2d9|2 punktuose]] nurodytus atvejus; ^s-efaed339af52f70f0fc2d868
+1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus [[#^s-af96fc378875ff10ce9478a3|šio straipsnio 2 dalies]] 1 ir [[#^s-e4897d864b6752a009a8d2d9|2]] punktuose nurodytus atvejus; ^s-efaed339af52f70f0fc2d868
 
 
 2) patalpose, kuriose yra sprogstamųjų medžiagų, lengvai užsidegančių medžiagų, galinčių sukelti pavojų asmens gyvybei ir sveikatai ar visuomenės saugumui. ^s-e4897d864b6752a009a8d2d9
@@ -558,7 +558,7 @@ Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
 8. Tarnybos pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijomis, susijusiomis su šaunamojo ginklo naudojimu. Tarnybos pareigūnų parengimo ir tikrinimo tvarką nustato Vyriausybė. ^s-fd80a3eff571516b878519d6
 
 
-9. Šio straipsnio 1, 2, [[#^s-406e98aea73f56e7fb475567|3 dalies]] ir 6 dalies 1 punkto nuostatos netaikomos tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė. ^s-e3d9ce556e1856d0dd237f31
+9. Šio straipsnio [[#^s-8a836b80981a2660a328c939|1]], [[#^s-af96fc378875ff10ce9478a3|2]], [[#^s-406e98aea73f56e7fb475567|3]] dalies ir 6 dalies 1 punkto nuostatos netaikomos tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė. ^s-e3d9ce556e1856d0dd237f31
 
 
 Straipsnio pakeitimai:
@@ -704,7 +704,7 @@ Nr. XI-2245, 2012-10-02, Žin., 2012, Nr. 122-6104 (2012-10-20), i. k. [[latest/
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1156, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13597
-Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 16 ir [[#^s-20c8aba0adb35333dab0741e|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 [[#^s-a75b23a5dbed6eb26d70d974|16]] ir [[#^s-20c8aba0adb35333dab0741e|17]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -714,7 +714,7 @@ Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-8
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2367, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14169
-Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 3, 7, 15, [[#^s-20c8aba0adb35333dab0741e|17 straipsnių]], V skyriaus pavadinimo pakeitimo ir 16, [[#^s-423b6cd344e945bfcc077190|18 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 [[#^s-7d92278fe25bee78599ee16b|3]], [[#^s-32adfd6cd214292d8dd8d56f|7]], [[#^s-a37dac9d75bfaf13de37a9c0|15]], [[#^s-20c8aba0adb35333dab0741e|17]] straipsnių, V skyriaus pavadinimo pakeitimo ir [[#^s-a75b23a5dbed6eb26d70d974|16]], [[#^s-423b6cd344e945bfcc077190|18]] straipsnių pripažinimo netekusiais galios įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -734,4 +734,4 @@ Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-8
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3139, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20377
-Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 3, 15 ir [[#^s-20c8aba0adb35333dab0741e|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos finansinių nusikaltimų tyrimo tarnybos įstatymo Nr. IX-816 [[#^s-7d92278fe25bee78599ee16b|3]], [[#^s-a37dac9d75bfaf13de37a9c0|15]] ir [[#^s-20c8aba0adb35333dab0741e|17]] straipsnių pakeitimo įstatymas

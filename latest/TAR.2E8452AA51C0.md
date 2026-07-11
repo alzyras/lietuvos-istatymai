@@ -74,7 +74,7 @@ BENDROSIOS NUOSTATOS
 2. Tarnyba yra viešasis juridinis asmuo, turi antspaudą su Lietuvos valstybės herbu ir savo pavadinimu. ^s-e290a9c5f25f9f94b7d0cf85
 
 
-3. Tarnyba savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo įstatymu, Vidaus tarnybos statutu ir kitais Lietuvos Respublikos įstatymais, taip pat kitais teisės aktais. ^s-726e72a37cd4f8617e7a8780
+3. Tarnyba savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, šiuo įstatymu, Vidaus tarnybos statutu ir kitais Lietuvos Respublikos įstatymais, taip pat kitais teisės aktais. ^s-726e72a37cd4f8617e7a8780
 
 
 
@@ -300,7 +300,7 @@ IV SKYRIUS  TARNYBOS PAREIGŪNŲ TEISĖS IR PAREIGOS
 1. Tarnybos pareigūnas šio ir kitų įstatymų nustatytais atvejais ir tvarka gali panaudoti psichinę ar fizinę prievartą, specialiąsias priemones, šaunamąjį ginklą ir sprogstamąsias medžiagas. ^s-b2e9ccf9e42410a431e8d1b1
 
 
-2. Psichinę prievartą galima naudoti tik šio įstatymo [[#^s-43b79eb560d5846b08f7a9dc|13 straipsnio]] 1, [[#^s-7bc1c3f98748bddde7510971|4 dalyse]] ir [[#^s-6f67cba36688e2d7ffbed62a|14 straipsnio 2 dalyje]] nustatytais atvejais. ^s-92fa499b20f876fac996319a
+2. Psichinę prievartą galima naudoti tik šio įstatymo [[#^s-43b79eb560d5846b08f7a9dc|13 straipsnio]] [[#^s-09f79993e79db93682c1dfe4|1]], [[#^s-06efd2afb12b8239b2fd497f|4]] dalyse ir [[#^s-6f67cba36688e2d7ffbed62a|14 straipsnio 2 dalyje]] nustatytais atvejais. ^s-92fa499b20f876fac996319a
 
 
 3. Tarnybos pareigūnas turi teisę panaudoti prievartą tik tarnybinio būtinumo atvejais ir tik tiek, kiek to reikia tarnybinei pareigai atlikti, ir tik po to, kai įtikinimo priemonės buvo neveiksmingos arba negalimos. Prievartos rūšį ir jos panaudojimo ribas Tarnybos pareigūnas pasirenka atsižvelgdamas į konkrečią situaciją, teisės pažeidimo pobūdį ir individualias pažeidėjo savybes. Naudodamas prievartą, Tarnybos pareigūnas privalo stengtis išvengti sunkių padarinių žmonėms ir turtui. ^s-8fec86d9230289926c6e2b2e

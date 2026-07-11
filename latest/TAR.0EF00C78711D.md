@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-44b99d06bed54d999683314f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. spalio 5 d. dekretą Nr. 763, ratifikuoja 2006 m. gegužės 9 d. Vilniuje pasirašytą Lietuvos Respublikos ir Bulgarijos Respublikos sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. spalio 5 d. dekretą Nr. 763](https://e-tar.lt/portal/lt/legalAct/TAR.729299C4F74D), ratifikuoja 2006 m. gegužės 9 d. Vilniuje pasirašytą Lietuvos Respublikos ir Bulgarijos Respublikos sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
 
 
 

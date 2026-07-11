@@ -58,7 +58,7 @@ Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
 
 
 
-2. Šis Įstatymas netaikomas asmenims, kuriems, nors jie ir atitinka šio Įstatymo [[#^s-eb08185740a5009506696782|6 straipsnio 1 dalies]] 1–4 ir 6–8 punktų nuostatas, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, taikoma kitos Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos teisė. ^s-6232e5afab9a846b5bec1895
+2. Šis Įstatymas netaikomas asmenims, kuriems, nors jie ir atitinka šio Įstatymo [[#^s-eb08185740a5009506696782|6 straipsnio 1 dalies]] [[#^s-7aa34fca3f1c8514de16452c|1]]–[[#^s-170f12401f69489a105e4ab0|4]] ir [[#^s-d8f2f2f0f460bf2c4fdb70ff|6]]–[[#^s-e25ff96f750a099740ff580e|8]] punktų nuostatas, vadovaujantis Europos Sąjungos socialinės apsaugos sistemų koordinavimo reglamentais, taikoma kitos Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos teisė. ^s-6232e5afab9a846b5bec1895
 Straipsnio dalies pakeitimai:
 Nr. XIV-2335, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25089
 
@@ -297,7 +297,7 @@ Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 
 
 
-8) asmenų, nurodytų šios dalies 1 ir [[#^s-a611b7ed2927d963bad48902|2 punktuose]], sutuoktiniai arba asmenys, su kuriais yra sudaryta registruotos partnerystės sutartis, ir (arba) nepilnamečiai jų šeimos nariai, turintys leidimą laikinai gyventi Lietuvos Respublikoje arba Sąjungos piliečio šeimos nario leidimo gyventi šalyje kortelę, patvirtinančią jo teisę laikinai gyventi Lietuvos Respublikoje. ^s-e25ff96f750a099740ff580e
+8) asmenų, nurodytų šios dalies [[#^s-7aa34fca3f1c8514de16452c|1]] ir [[#^s-a611b7ed2927d963bad48902|2]] punktuose, sutuoktiniai arba asmenys, su kuriais yra sudaryta registruotos partnerystės sutartis, ir (arba) nepilnamečiai jų šeimos nariai, turintys leidimą laikinai gyventi Lietuvos Respublikoje arba Sąjungos piliečio šeimos nario leidimo gyventi šalyje kortelę, patvirtinančią jo teisę laikinai gyventi Lietuvos Respublikoje. ^s-e25ff96f750a099740ff580e
 Papildyta straipsnio punktu:
 Nr. XIV-2335, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25089
 
@@ -309,11 +309,11 @@ Nr. XIV-2335, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25089
 3. Apdraustaisiais privalomuoju sveikatos draudimu (toliau – apdraustieji) laikomi: ^s-04543b7ca2728e3df6601722
 
 
-1) šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 2–11 dalyse nurodyti asmenys (išskyrus draudėjus), kurių privalomasis sveikatos draudimas galioja šio Įstatymo [[#^s-26859784af87ce5e32723293|8 straipsnio]] 1, 2 ir 21 dalyse nustatyta tvarka; ^s-31178f5941c1d2787b738b87
+1) šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-78f8f8187d978e97ba3085e3|2]]–[[#^s-5244b1d287719aad4843dcee|11]] dalyse nurodyti asmenys (išskyrus draudėjus), kurių privalomasis sveikatos draudimas galioja šio Įstatymo [[#^s-26859784af87ce5e32723293|8 straipsnio]] [[#^s-e173aa902133e24b620f076a|1]], [[#^s-cc2ce38296f94b42e016772c|2]] ir [[#^s-93781de21a2132a82d09e2f7|21]] dalyse nustatyta tvarka; ^s-31178f5941c1d2787b738b87
 
 
 2) [[#^s-eb9c1eed51b6824e1ca0b949|šio straipsnio 4 dalyje]] nurodyti valstybės lėšomis draudžiami asmenys, kurių privalomasis sveikatos draudimas galioja šio Įstatymo [[#^s-fd1b700356f67d6cf7eb1472|8 straipsnio 3 dalyje]] nustatyta tvarka. ^s-f4f3637dde737e8fcd6d9f4a
-TAR pastaba. [[#^s-04543b7ca2728e3df6601722|3 dalies]] nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimo Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ įsigaliojimo dienos (2020-02-26).
+TAR pastaba. [[#^s-04543b7ca2728e3df6601722|3 dalies]] nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės [2020 m. vasario 26 d. nutarimo Nr. 152](https://e-tar.lt/portal/lt/legalAct/a10e9d9058a111ea931dbf3357b5b1c0) „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ įsigaliojimo dienos (2020-02-26).
 
 
 Straipsnio dalies pakeitimai:
@@ -322,7 +322,7 @@ Nr. XIII-2844, 2020-04-07, paskelbta TAR 2020-04-10, i. k. 2020-07702
 
 
 
-4. Apdraustaisiais, kurie draudžiami valstybės lėšomis (išskyrus asmenis, kurie privalo mokėti privalomojo sveikatos draudimo įmokas arba už kuriuos šios įmokos yra mokamos pagal šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 1–7 ir 9 dalis), laikomi: ^s-eb9c1eed51b6824e1ca0b949
+4. Apdraustaisiais, kurie draudžiami valstybės lėšomis (išskyrus asmenis, kurie privalo mokėti privalomojo sveikatos draudimo įmokas arba už kuriuos šios įmokos yra mokamos pagal šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-849f33a0537b593f068bbc14|1]]–[[#^s-95cfcf49ec396a9c9093a831|7]] ir [[#^s-f92a9a779e09b4d0fc2c1492|9]] dalis), laikomi: ^s-eb9c1eed51b6824e1ca0b949
 
 
 1) asmenys, gaunantys Lietuvos Respublikos įstatymų nustatytą bet kurios rūšies pensiją ar šalpos kompensaciją; ^s-3f282c7d537debd77b125649
@@ -462,13 +462,13 @@ Nr. XIV-1636, 2022-12-08, paskelbta TAR 2022-12-13, i. k. 2022-25403
 6) užsieniečių, gyvenančių užsienio šalyje, kurioje vyksta ginkluotas konfliktas, dėl kurio Lietuvos Respublikoje paskelbta nepaprastoji padėtis ar ekstremalioji situacija, ir pasitraukusių iš šios užsienio šalies į Lietuvos Respubliką, būtinoji medicinos pagalba ir būtinosios paslaugos; ^s-82ca752faab6e9015bba8863
 
 
-7) užsieniečių, kurie įgijo teisę likti Lietuvos Respublikos teritorijoje Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 221 straipsnio 1 dalies 3–[[#^s-dc48a738ee1397a47e87916e|5 punktuose]] nurodytais atvejais, būtinoji medicinos pagalba ir būtinosios paslaugos; ^s-e38ccc9b1987ce21aea88501
+7) užsieniečių, kurie įgijo teisę likti Lietuvos Respublikos teritorijoje Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ 221 straipsnio 1 dalies 3–5 punktuose nurodytais atvejais, būtinoji medicinos pagalba ir būtinosios paslaugos; ^s-e38ccc9b1987ce21aea88501
 Papildyta straipsnio punktu:
 Nr. XV-956, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08458
 
 
 
-8) šios dalies 3–[[#^s-e38ccc9b1987ce21aea88501|7 punktuose]] nurodytų užsieniečių vaikų iki 18 metų būtinoji medicinos pagalba, būtinosios paslaugos, skiepijimas pagal Nacionalinę imunoprofilaktikos programą ir profilaktiniai sveikatos tikrinimai. ^s-cfefcab57a48a326a9384132
+8) šios dalies [[#^s-70fa20cd7b300081d6080250|3]]–[[#^s-e38ccc9b1987ce21aea88501|7]] punktuose nurodytų užsieniečių vaikų iki 18 metų būtinoji medicinos pagalba, būtinosios paslaugos, skiepijimas pagal Nacionalinę imunoprofilaktikos programą ir profilaktiniai sveikatos tikrinimai. ^s-cfefcab57a48a326a9384132
 Straipsnio punkto pakeitimai:
 Nr. XV-956, 2026-05-14, paskelbta TAR 2026-05-20, i. k. 2026-08458
 Straipsnio punkto numeracijos pakeitimas:
@@ -517,10 +517,10 @@ Nr. XII-1001, 2014-07-10, paskelbta TAR 2014-07-22, i. k. 2014-10432
 1. Draudžiamųjų privalomuoju sveikatos draudimu registrą steigia ir jo nuostatus tvirtina Vyriausybė. ^s-d4d1aeb8d4a67637bad4e34d
 
 
-2. Draudžiamųjų privalomuoju sveikatos draudimu registro objektai yra privalomuoju sveikatos draudimu draudžiami asmenys, nurodyti šio Įstatymo [[#^s-1789842ff5914a7f30cbb217|6 straipsnio]] 1 ir [[#^s-84f83b94428d729b7ba80f4f|2 dalyse]], taip pat valstybės biudžeto lėšomis apmokamą būtinąją medicinos pagalbą, būtinąsias paslaugas ir kitą sveikatos priežiūrą gaunantys asmenys, nurodyti šio Įstatymo [[#^s-fc8e04158544d52c60173cc8|6 straipsnio 5 dalyje]]. ^s-84f83b94428d729b7ba80f4f
+2. Draudžiamųjų privalomuoju sveikatos draudimu registro objektai yra privalomuoju sveikatos draudimu draudžiami asmenys, nurodyti šio Įstatymo [[#^s-1789842ff5914a7f30cbb217|6 straipsnio]] [[#^s-eb08185740a5009506696782|1]] ir [[#^s-2a7f90bb5577af40b291de9c|2]] dalyse, taip pat valstybės biudžeto lėšomis apmokamą būtinąją medicinos pagalbą, būtinąsias paslaugas ir kitą sveikatos priežiūrą gaunantys asmenys, nurodyti šio Įstatymo [[#^s-fc8e04158544d52c60173cc8|6 straipsnio 5 dalyje]]. ^s-84f83b94428d729b7ba80f4f
 
 
-3. Draudžiamųjų privalomuoju sveikatos draudimu registras tvarkomas ir jo duomenys teikiami vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu), [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymu]], [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], [[latest/TAR.C6E4170DB704|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymu]], šio registro nuostatais ir kitais teisės aktais, reglamentuojančiais registrų tvarkymą ir duomenų teikimą. ^s-2373cec7ef92ccfc4f2925ab
+3. Draudžiamųjų privalomuoju sveikatos draudimu registras tvarkomas ir jo duomenys teikiami vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu), [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymu]], [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], [[latest/TAR.C6E4170DB704|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymu]], šio registro nuostatais ir kitais teisės aktais, reglamentuojančiais registrų tvarkymą ir duomenų teikimą. ^s-2373cec7ef92ccfc4f2925ab
 
 
 Straipsnio pakeitimai:
@@ -531,14 +531,14 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 ### 8 straipsnis. Privalomojo sveikatos draudimo galiojimas ^s-26859784af87ce5e32723293
 
 
-1. Asmenų, nurodytų šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 2, 3 ir 9 dalyse (išskyrus draudėjus), privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią atsirado pagrindas mokėti privalomojo sveikatos draudimo įmokas (nuo šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 2, 3 ir 9 dalyse nurodyto statuso įgijimo dienos), ir galioja iki šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 2, 3 ir 9 dalyse nurodyto statuso netekimo dienos. Asmenų, nurodytų šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 4, 5, 6, 8 ir 11 dalyse, privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią buvo pradėtos mokėti privalomojo sveikatos draudimo įmokos, ir galioja iki mėnesio, buvusio prieš tą mėnesį, kurį privalomojo sveikatos draudimo įmokos nebuvo sumokėtos, paskutinės dienos. Asmenų, nurodytų šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 7 ir 10 dalyse (išskyrus draudėjus), privalomasis sveikatos draudimas įsigalioja tą kalendorinį mėnesį, kurį sumokamos privalomojo sveikatos draudimo įmokos, o draudėjui neįvykdžius pareigos sumokėti už juos privalomojo sveikatos draudimo įmokų, šie asmenys laikomi apdraustaisiais tą mėnesį, kurį įmokos už juos privalėjo būti sumokėtos. ^s-e173aa902133e24b620f076a
+1. Asmenų, nurodytų šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-78f8f8187d978e97ba3085e3|2]], [[#^s-9a19918d68e6ef94a612bddd|3]] ir [[#^s-f92a9a779e09b4d0fc2c1492|9]] dalyse (išskyrus draudėjus), privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią atsirado pagrindas mokėti privalomojo sveikatos draudimo įmokas (nuo šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-78f8f8187d978e97ba3085e3|2]], [[#^s-9a19918d68e6ef94a612bddd|3]] ir [[#^s-f92a9a779e09b4d0fc2c1492|9]] dalyse nurodyto statuso įgijimo dienos), ir galioja iki šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-78f8f8187d978e97ba3085e3|2]], [[#^s-9a19918d68e6ef94a612bddd|3]] ir [[#^s-f92a9a779e09b4d0fc2c1492|9]] dalyse nurodyto statuso netekimo dienos. Asmenų, nurodytų šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-202990ff38fb7c26b161a484|4]], [[#^s-75d60e1abbd0e289770a0f2f|5]], [[#^s-306e679880a211f002474540|6]], [[#^s-603b1669e95f85036dbdbfbf|8]] ir [[#^s-5244b1d287719aad4843dcee|11]] dalyse, privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią buvo pradėtos mokėti privalomojo sveikatos draudimo įmokos, ir galioja iki mėnesio, buvusio prieš tą mėnesį, kurį privalomojo sveikatos draudimo įmokos nebuvo sumokėtos, paskutinės dienos. Asmenų, nurodytų šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-95cfcf49ec396a9c9093a831|7]] ir [[#^s-dd9fde3e9d0cfe08403ac3fc|10]] dalyse (išskyrus draudėjus), privalomasis sveikatos draudimas įsigalioja tą kalendorinį mėnesį, kurį sumokamos privalomojo sveikatos draudimo įmokos, o draudėjui neįvykdžius pareigos sumokėti už juos privalomojo sveikatos draudimo įmokų, šie asmenys laikomi apdraustaisiais tą mėnesį, kurį įmokos už juos privalėjo būti sumokėtos. ^s-e173aa902133e24b620f076a
 Straipsnio dalies pakeitimai:
 Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
 Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 
 
 
-2.  Kai už šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 4, 5, 6, 8 ir 11 dalyse nurodytus asmenis privalomojo sveikatos draudimo įmokos nesumokamos, jų privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią jie ar jų draudėjai sumoka visas nesumokėtas šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnyje]] nustatyto dydžio privalomojo sveikatos draudimo įmokas, bet ne daugiau kaip už 5 metus. Nuostata, kad šioje dalyje nurodytų asmenų privalomasis sveikatos draudimas įsigalioja tik sumokėjus visas nesumokėtas privalomojo sveikatos draudimo įmokas už atitinkamą laikotarpį, netaikoma asmenims, kurie: ^s-cc2ce38296f94b42e016772c
+2.  Kai už šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-202990ff38fb7c26b161a484|4]], [[#^s-75d60e1abbd0e289770a0f2f|5]], [[#^s-306e679880a211f002474540|6]], [[#^s-603b1669e95f85036dbdbfbf|8]] ir [[#^s-5244b1d287719aad4843dcee|11]] dalyse nurodytus asmenis privalomojo sveikatos draudimo įmokos nesumokamos, jų privalomasis sveikatos draudimas įsigalioja nuo tos dienos, kurią jie ar jų draudėjai sumoka visas nesumokėtas šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnyje]] nustatyto dydžio privalomojo sveikatos draudimo įmokas, bet ne daugiau kaip už 5 metus. Nuostata, kad šioje dalyje nurodytų asmenų privalomasis sveikatos draudimas įsigalioja tik sumokėjus visas nesumokėtas privalomojo sveikatos draudimo įmokas už atitinkamą laikotarpį, netaikoma asmenims, kurie: ^s-cc2ce38296f94b42e016772c
 
 
 1) tuo pačiu metu yra apdrausti privalomuoju sveikatos draudimu kaip kitos kategorijos asmenys ir jų privalomasis sveikatos draudimas galioja; ^s-6005b1179e857aff46e03efb
@@ -547,7 +547,7 @@ Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 2) buvo išvykę iš Lietuvos Respublikos ilgiau kaip 6 mėnesius ir nedeklaravo šio išvykimo [[latest/TAR.F74ECE427C23|Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo]] nustatyta tvarka, tačiau privalomojo sveikatos draudimo įmokas administruojančiai Valstybinio socialinio draudimo fondo administravimo įstaigai pateikia kompetentingų užsienio valstybių institucijų išduotus dokumentus ir (arba) duomenis, patvirtinančius, kad išvykimo laikotarpiu jie buvo apdrausti valstybiniu socialiniu draudimu kitoje šalyje arba buvo suimti ir (arba) nuteisti užsienyje, arba atliko arešto ar terminuoto laisvės atėmimo bausmę užsienyje, arba kompetentingų Ukrainos institucijų išduotus dokumentus ir (arba) duomenis, patvirtinančius, kad asmuo išvykimo laikotarpiu teikė savanorišką pagalbą Ukrainai kovojant su karine agresija, o Valstybinė ligonių kasa patvirtina, kad išvykimo laikotarpiu jie negavo asmens sveikatos priežiūros paslaugų, kompensuojamų Privalomojo sveikatos draudimo fondo biudžeto lėšomis. ^s-b519c1976b8a7d7431602b2f
 Straipsnio punkto pakeitimai:
 Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
-TAR pastaba. Nuostata, numatanti, kad [[#^s-b2aba1272cdaf55c3a9c747e|Sveikatos draudimo įstatymo 17 straipsnio]] 4, 5, 6, 8 ir 11 dalyse nurodytų asmenų privalomasis sveikatos draudimas įsigalioja tik sumokėjus visas nesumokėtas privalomojo sveikatos draudimo įmokas už atitinkamą laikotarpį, netaikoma asmenims, kurie buvo išvykę iš Lietuvos Respublikos ilgiau kaip 6 mėnesius ir nedeklaravo šio išvykimo [[latest/TAR.F74ECE427C23|Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo]] nustatyta tvarka, tačiau privalomojo sveikatos draudimo įmokas administruojančiai Valstybinio socialinio draudimo fondo administravimo įstaigai pateikia kompetentingų Ukrainos institucijų išduotus dokumentus ir (arba) duomenis, patvirtinančius, kad asmuo išvykimo laikotarpiu teikė savanorišką pagalbą Ukrainai kovojant su karine agresija, taikoma iki karo Ukrainoje pabaigos [[#^s-cc2ce38296f94b42e016772c|Sveikatos draudimo įstatymo 8 straipsnio 2 dalies]] pirmajame sakinyje nurodytiems asmenims, kurie į Ukrainą išvyko 2022 m. vasario 24 d. ar vėliau.
+TAR pastaba. Nuostata, numatanti, kad [[#^s-b2aba1272cdaf55c3a9c747e|Sveikatos draudimo įstatymo 17 straipsnio]] [[#^s-202990ff38fb7c26b161a484|4]], [[#^s-75d60e1abbd0e289770a0f2f|5]], [[#^s-306e679880a211f002474540|6]], [[#^s-603b1669e95f85036dbdbfbf|8]] ir [[#^s-5244b1d287719aad4843dcee|11]] dalyse nurodytų asmenų privalomasis sveikatos draudimas įsigalioja tik sumokėjus visas nesumokėtas privalomojo sveikatos draudimo įmokas už atitinkamą laikotarpį, netaikoma asmenims, kurie buvo išvykę iš Lietuvos Respublikos ilgiau kaip 6 mėnesius ir nedeklaravo šio išvykimo [[latest/TAR.F74ECE427C23|Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo]] nustatyta tvarka, tačiau privalomojo sveikatos draudimo įmokas administruojančiai Valstybinio socialinio draudimo fondo administravimo įstaigai pateikia kompetentingų Ukrainos institucijų išduotus dokumentus ir (arba) duomenis, patvirtinančius, kad asmuo išvykimo laikotarpiu teikė savanorišką pagalbą Ukrainai kovojant su karine agresija, taikoma iki karo Ukrainoje pabaigos [[#^s-cc2ce38296f94b42e016772c|Sveikatos draudimo įstatymo 8 straipsnio 2 dalies]] pirmajame sakinyje nurodytiems asmenims, kurie į Ukrainą išvyko 2022 m. vasario 24 d. ar vėliau.
 Nr. XV-824, 2026-04-16, paskelbta TAR 2026-04-21, i. k. 2026-06395
 
 
@@ -559,8 +559,8 @@ Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 
 
 
-21. Asmenys, nurodyti šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 4–8 ir 10 dalyse, Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino Lietuvos Respublikos teritorijoje metu turi teisę privalomojo sveikatos draudimo įmokų nemokėti. Šie asmenys Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpiu nesumokėtas privalomojo sveikatos draudimo įmokas sumoka šio Įstatymo [[#^s-01713b95f2a6111aa425d247|18 straipsnio 7 dalyje]] nustatyta tvarka. ^s-93781de21a2132a82d09e2f7
-TAR pastaba. [[#^s-93781de21a2132a82d09e2f7|21 dalies]] nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimo Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ įsigaliojimo dienos (2020-02-26).
+21. Asmenys, nurodyti šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-202990ff38fb7c26b161a484|4]]–[[#^s-603b1669e95f85036dbdbfbf|8]] ir [[#^s-dd9fde3e9d0cfe08403ac3fc|10]] dalyse, Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino Lietuvos Respublikos teritorijoje metu turi teisę privalomojo sveikatos draudimo įmokų nemokėti. Šie asmenys Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino laikotarpiu nesumokėtas privalomojo sveikatos draudimo įmokas sumoka šio Įstatymo [[#^s-01713b95f2a6111aa425d247|18 straipsnio 7 dalyje]] nustatyta tvarka. ^s-93781de21a2132a82d09e2f7
+TAR pastaba. 21 dalies nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės [2020 m. vasario 26 d. nutarimo Nr. 152](https://e-tar.lt/portal/lt/legalAct/a10e9d9058a111ea931dbf3357b5b1c0) „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ įsigaliojimo dienos (2020-02-26).
 Papildyta straipsnio dalimi:
 Nr. XIII-2844, 2020-04-07, paskelbta TAR 2020-04-10, i. k. 2020-07702
 
@@ -569,7 +569,7 @@ Nr. XIII-2844, 2020-04-07, paskelbta TAR 2020-04-10, i. k. 2020-07702
 3. Asmenys, nurodyti šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]], apdraustaisiais laikomi nuo šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]] nurodyto statuso įgijimo dienos iki jo netekimo dienos. ^s-fd1b700356f67d6cf7eb1472
 
 
-4. Asmenys, nurodyti šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]] ir [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 2–11 dalyse (išskyrus draudėjus), šio Įstatymo 9–[[#^s-bf26c8517ffd456fdd7a4039|12 straipsniuose]] nurodytas paslaugas, kompensuojamuosius vaistus ir medicinos pagalbos priemones, už kuriuos mokama iš Privalomojo sveikatos draudimo fondo biudžeto, gauna dar vieną mėnesį po to, kai nustoja galioti privalomasis sveikatos draudimas pagal šio Įstatymo [[#^s-26859784af87ce5e32723293|8 straipsnio]] 1 ir [[#^s-fd1b700356f67d6cf7eb1472|3 dalis]]. Ši garantija neatleidžia nuo prievolės mokėti šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnyje]] nustatyto dydžio įmokas. ^s-3cd778f3f48c1d3f381c2961
+4. Asmenys, nurodyti šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]] ir [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-78f8f8187d978e97ba3085e3|2]]–[[#^s-5244b1d287719aad4843dcee|11]] dalyse (išskyrus draudėjus), šio Įstatymo [[#^s-9ca53152c0abd65c27481071|9]]–[[#^s-bf26c8517ffd456fdd7a4039|12]] straipsniuose nurodytas paslaugas, kompensuojamuosius vaistus ir medicinos pagalbos priemones, už kuriuos mokama iš Privalomojo sveikatos draudimo fondo biudžeto, gauna dar vieną mėnesį po to, kai nustoja galioti privalomasis sveikatos draudimas pagal šio Įstatymo [[#^s-26859784af87ce5e32723293|8 straipsnio]] [[#^s-e173aa902133e24b620f076a|1]] ir [[#^s-fd1b700356f67d6cf7eb1472|3]] dalis. Ši garantija neatleidžia nuo prievolės mokėti šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnyje]] nustatyto dydžio įmokas. ^s-3cd778f3f48c1d3f381c2961
 Straipsnio dalies pakeitimai:
 Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
 Nr. XIV-1144, 2022-06-21, paskelbta TAR 2022-06-28, i. k. 2022-13883
@@ -668,7 +668,7 @@ Nr. XV-584, 2025-11-25, paskelbta TAR 2025-12-04, i. k. 2025-20655
 6. Privalomojo sveikatos draudimo fondo biudžeto lėšomis asmens sveikatos priežiūros įstaigoms apmokamos asmens sveikatos priežiūros paslaugos, atitinkančios Vyriausybės nustatytas Privalomojo sveikatos draudimo fondo biudžeto lėšomis apmokamų asmens sveikatos priežiūros paslaugų teikimo sąlygas. ^s-9189632a7128c597e98b5e31
 
 
-7. Šio straipsnio 2, 3, 4 ir [[#^s-87618763527b9916d2d0c023|41 dalyse]] nurodytos sveikatos priežiūros teikimo ir kompensavimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis tvarką nustato sveikatos apsaugos ministras. ^s-366d8f159bf5a17f4e9019e4
+7. Šio straipsnio [[#^s-55e141e4ef17bea21d9bc7fc|2]], [[#^s-a5c781379ef8f84be1778582|3]], [[#^s-e6ba7542955e3e8eec41b326|4]] ir [[#^s-87618763527b9916d2d0c023|41]] dalyse nurodytos sveikatos priežiūros teikimo ir kompensavimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis tvarką nustato sveikatos apsaugos ministras. ^s-366d8f159bf5a17f4e9019e4
 Straipsnio dalies pakeitimai:
 Nr. XV-584, 2025-11-25, paskelbta TAR 2025-12-04, i. k. 2025-20655
 
@@ -732,7 +732,7 @@ Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
 3) dėl įrašytų į Sąrašą asmens sveikatos priežiūros paslaugų išbraukimo iš Sąrašo; ^s-7c017bdc1fbb50dd2ac26e39
 
 
-4) asmens sveikatos priežiūros paslaugų, būtinų siekiant paskirti ir (ar) vartoti vaistą ir (ar) naudoti medicinos pagalbos priemonę, kuriuos Farmacijos įstatymo 58 straipsnio 4 dalyje nurodyta Vaistinių preparatų ir medicinos pagalbos priemonių kompensavimo komisija yra priėmusi sprendimą siūlyti įrašyti į Ligų ir kompensuojamųjų vaistinių preparatų joms gydyti sąrašą, Kompensuojamųjų vaistinių preparatų sąrašą ar Kompensuojamųjų medicinos pagalbos priemonių sąrašą. Atlikęs šiame punkte numatytų asmens sveikatos priežiūros paslaugų teikimo ir (ar) organizavimo reikalavimų bei paslaugos teikimo metinio poveikio Privalomojo sveikatos draudimo fondo biudžetui vertinimą, Komitetas priima sprendimą siūlyti jas įrašyti į Sąrašą. ^s-0dc36b0b140c285b9358b208
+4) asmens sveikatos priežiūros paslaugų, būtinų siekiant paskirti ir (ar) vartoti vaistą ir (ar) naudoti medicinos pagalbos priemonę, kuriuos [[latest/TAR.FF33B3BF23DD|Farmacijos įstatymo 58 straipsnio 4 dalyje]] nurodyta Vaistinių preparatų ir medicinos pagalbos priemonių kompensavimo komisija yra priėmusi sprendimą siūlyti įrašyti į Ligų ir kompensuojamųjų vaistinių preparatų joms gydyti sąrašą, Kompensuojamųjų vaistinių preparatų sąrašą ar Kompensuojamųjų medicinos pagalbos priemonių sąrašą. Atlikęs šiame punkte numatytų asmens sveikatos priežiūros paslaugų teikimo ir (ar) organizavimo reikalavimų bei paslaugos teikimo metinio poveikio Privalomojo sveikatos draudimo fondo biudžetui vertinimą, Komitetas priima sprendimą siūlyti jas įrašyti į Sąrašą. ^s-0dc36b0b140c285b9358b208
 
 
 3. Siūlymą dėl [[#^s-625bcb5c706f5b07cde4f53d|šio straipsnio 2 dalyje]] nurodytų paslaugų įrašymo į Sąrašą ar išbraukimo iš jo gali pateikti: ^s-4cc458fb4c0b804c2c99d20a
@@ -768,7 +768,7 @@ Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
 3) dėl sveikatos apsaugos ministro patvirtintų asmens sveikatos priežiūros paslaugos teikimo ir (ar) organizavimo reikalavimų pakeitimų nereikia daugiau Privalomojo sveikatos draudimo fondo biudžeto lėšų tokioms paslaugoms teikti; ^s-8e1677374cb1c8150efff4f1
 
 
-4) asmens sveikatos priežiūros paslauga kompensuotina Privalomojo sveikatos draudimo fondo biudžeto lėšomis, vadovaujantis Farmacijos įstatymo 592 straipsnyje nustatyta tvarka; ^s-7f81d4fb44054d70e39779ca
+4) asmens sveikatos priežiūros paslauga kompensuotina Privalomojo sveikatos draudimo fondo biudžeto lėšomis, vadovaujantis [[latest/TAR.FF33B3BF23DD|Farmacijos įstatymo 592 straipsnyje]] nustatyta tvarka; ^s-7f81d4fb44054d70e39779ca
 
 
 5) siūloma įdiegti naują, neįrašytą į Sąrašą asmens sveikatos priežiūros paslaugą arba atlikti įrašytos į Sąrašą asmens sveikatos priežiūros paslaugos teikimo arba organizavimo reikalavimų, kuriais tiesiogiai būtų įgyvendinama šalyje vykdoma sveikatos politika, pakeitimą ir ta konkreti paslauga yra tiesiogiai įvardyta Lietuvos Respublikos įstatyme arba Vyriausybės nutarime. ^s-13da396c20adccd488d4ca00
@@ -777,7 +777,7 @@ Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
 5. [[#^s-4cc458fb4c0b804c2c99d20a|Šio straipsnio 3 dalyje]] nurodyti subjektai Komitetui teikia paraiškas dėl [[#^s-625bcb5c706f5b07cde4f53d|šio straipsnio 2 dalyje]] nurodytų asmens sveikatos priežiūros paslaugų vertinimo. Paraiškos formą nustato sveikatos apsaugos ministras. ^s-cb6e888716f2222fd33eb953
 
 
-6. Komitetas vertina paraiškas, pateiktas iki praėjusių metų gruodžio 31 d. Vertinant [[#^s-0dc36b0b140c285b9358b208|šio straipsnio 2 dalies 4 punkte]] nurodytas asmens sveikatos priežiūros paslaugas, šioje dalyje nurodyti kriterijai netaikomi. Komitetas, atlikęs paraiškų vertinimą, ne vėliau kaip iki einamųjų metų birželio 1 d. priima sprendimą siūlyti sveikatos apsaugos ministrui asmens sveikatos priežiūros paslaugą (-as) įrašyti (arba jos (jų) neįrašyti) į Sąrašą, atsižvelgdamas į asmens sveikatos priežiūros paslaugos atitiktį šios dalies 1 ir [[#^s-c7eb11ec7f47d1b66056aacd|2 punktuose]] išvardytiems asmens sveikatos priežiūros paslaugų įrašymo į Sąrašą kriterijams (jei asmens sveikatos priežiūros paslauga neatitinka šios dalies 1 ir [[#^s-c7eb11ec7f47d1b66056aacd|2 punktuose]] įvardytų kriterijų, toliau pagal šios dalies 3–[[#^s-348e804838f23f97aa69ba92|8 punktuose]] įvardytus kriterijus nėra vertinama) ir pagal šios dalies 3–[[#^s-348e804838f23f97aa69ba92|8 punktuose]] išvardytus prioriteto vertinimo kriterijus sudarytą į Sąrašą siūlomų įrašyti asmens sveikatos priežiūros paslaugų prioriteto eilę. Asmens sveikatos priežiūros paslaugų įrašymo į Sąrašą ir prioriteto vertinimo kriterijai: ^s-d5f4f5c8d2265bc7bc7a60a8
+6. Komitetas vertina paraiškas, pateiktas iki praėjusių metų gruodžio 31 d. Vertinant [[#^s-0dc36b0b140c285b9358b208|šio straipsnio 2 dalies 4 punkte]] nurodytas asmens sveikatos priežiūros paslaugas, šioje dalyje nurodyti kriterijai netaikomi. Komitetas, atlikęs paraiškų vertinimą, ne vėliau kaip iki einamųjų metų birželio 1 d. priima sprendimą siūlyti sveikatos apsaugos ministrui asmens sveikatos priežiūros paslaugą (-as) įrašyti (arba jos (jų) neįrašyti) į Sąrašą, atsižvelgdamas į asmens sveikatos priežiūros paslaugos atitiktį šios dalies [[#^s-f9c78d34cdaaa75810e22934|1]] ir [[#^s-c7eb11ec7f47d1b66056aacd|2]] punktuose išvardytiems asmens sveikatos priežiūros paslaugų įrašymo į Sąrašą kriterijams (jei asmens sveikatos priežiūros paslauga neatitinka šios dalies [[#^s-f9c78d34cdaaa75810e22934|1]] ir [[#^s-c7eb11ec7f47d1b66056aacd|2]] punktuose įvardytų kriterijų, toliau pagal šios dalies [[#^s-975dd888660f6587129e72b6|3]]–[[#^s-348e804838f23f97aa69ba92|8]] punktuose įvardytus kriterijus nėra vertinama) ir pagal šios dalies [[#^s-975dd888660f6587129e72b6|3]]–[[#^s-348e804838f23f97aa69ba92|8]] punktuose išvardytus prioriteto vertinimo kriterijus sudarytą į Sąrašą siūlomų įrašyti asmens sveikatos priežiūros paslaugų prioriteto eilę. Asmens sveikatos priežiūros paslaugų įrašymo į Sąrašą ir prioriteto vertinimo kriterijai: ^s-d5f4f5c8d2265bc7bc7a60a8
 
 
 1) asmens sveikatos priežiūros paslaugos veiksmingumas yra pagrįstas medicinos mokslo įrodymais; ^s-f9c78d34cdaaa75810e22934
@@ -862,7 +862,7 @@ Nr. XIII-1764, 2018-12-13, paskelbta TAR 2018-12-21, i. k. 2018-21109
 3. 100, 90, 80 arba 50 procentų bazinės ambulatoriniam gydymui skirtų kompensuojamųjų vaistų, įrašytų į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą, ir medicinos pagalbos priemonių, įrašytų į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, kainos kompensuojama [[#^s-4ebe942d974ad93543ad352f|šio straipsnio 2 dalyje]] nenurodytiems apdraustiesiems, kuriems diagnozuotos ligos, sindromai ir būklės, įrašyti į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą arba Kompensuojamųjų medicinos pagalbos priemonių sąrašą pagal kompensavimo lygius. 100, 90, 80 arba 50 procentų bazinės ambulatoriniam gydymui skirtų specialiosios medicininės paskirties maisto produktų, įrašytų į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, kainos kompensuojama apdraustiesiems, kuriems diagnozuotos ligos, sindromai ir būklės, įrašyti į Kompensuojamųjų medicinos pagalbos priemonių sąrašą pagal kompensavimo lygius. ^s-f1dff565b5ab56ec3ce5c73a
 
 
-4. 50 procentų bazinės ambulatoriniam gydymui skirtų medicinos pagalbos priemonių, įrašytų į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, kainos kompensuojama šiems šio straipsnio 2 ir [[#^s-f1dff565b5ab56ec3ce5c73a|3 dalyse]] nenurodytiems apdraustiesiems: ^s-f2c81d4b0eb140854b549909
+4. 50 procentų bazinės ambulatoriniam gydymui skirtų medicinos pagalbos priemonių, įrašytų į Kompensuojamųjų medicinos pagalbos priemonių sąrašą, kainos kompensuojama šiems šio straipsnio [[#^s-4ebe942d974ad93543ad352f|2]] ir [[#^s-f1dff565b5ab56ec3ce5c73a|3]] dalyse nenurodytiems apdraustiesiems: ^s-f2c81d4b0eb140854b549909
 
 
 1) gaunantiems socialinio draudimo senatvės pensiją; ^s-f117b1e516013ecf31f78b14
@@ -886,7 +886,7 @@ Nr. XV-584, 2025-11-25, paskelbta TAR 2025-12-04, i. k. 2025-20655
 7. Paciento priemokos už kompensuojamuosius vaistus, įrašytus į Ligų ir kompensuojamųjų vaistų joms gydyti sąrašą, asmenims, išskyrus [[#^s-b05612f8c14a01c7930df873|šio straipsnio 6 dalyje]] nurodytus asmenis, padengiamos Vyriausybės nustatyta tvarka, jeigu per kalendorinius metus asmens sumokėtų paciento priemokų už vaistus suma yra didesnė negu trijų vidutinių metinių priemokų, apskaičiuotų pagal praėjusių kalendorinių metų duomenis, dydžių suma, tenkanti vienam asmeniui. Apskaičiuojant, ar asmens sumokėtų paciento priemokų už vaistus suma yra didesnė, negu nustatyta šioje dalyje, įtraukiamos ir dengiamos paciento priemokos tik už tuos vaistus, už kurių to paties bendrinio pavadinimo, stiprumo ir tos pačios farmacinės formos vaistinių preparatų dozuotę Kompensuojamųjų vaistinių preparatų kainyno grupėje bazinei kainai apskaičiuoti nustatyta paciento priemoka yra mažiausia. Vaistais, už kuriuos paciento priemoka yra mažiausia, taip pat laikomi Vyriausybės nustatytoje tvarkoje nurodyti vaistai. ^s-6fe122463a1093f86efb4a4c
 
 
-8. Į Kompensuojamųjų medicinos pagalbos priemonių sąrašą įrašomi tik Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka Lietuvos Respublikos rinkoje notifikuoti specialiosios medicininės paskirties maisto produktai. Specialiosios medicininės paskirties maisto produktai apdraustiesiems kompensuojami pagal šio straipsnio 1, 3 ir [[#^s-b05612f8c14a01c7930df873|6 dalių]] nuostatas, taikant mutatis mutandis [[latest/TAR.FF33B3BF23DD|Farmacijos įstatyme]] nustatytą medicinos pagalbos priemonių kompensavimo tvarką. ^s-02ba83af91c706b9ecf3f280
+8. Į Kompensuojamųjų medicinos pagalbos priemonių sąrašą įrašomi tik Valstybinės maisto ir veterinarijos tarnybos nustatyta tvarka Lietuvos Respublikos rinkoje notifikuoti specialiosios medicininės paskirties maisto produktai. Specialiosios medicininės paskirties maisto produktai apdraustiesiems kompensuojami pagal šio straipsnio [[#^s-34a561452d2984b736e9d2b1|1]], [[#^s-f1dff565b5ab56ec3ce5c73a|3]] ir [[#^s-b05612f8c14a01c7930df873|6]] dalių nuostatas, taikant mutatis mutandis [[latest/TAR.FF33B3BF23DD|Farmacijos įstatyme]] nustatytą medicinos pagalbos priemonių kompensavimo tvarką. ^s-02ba83af91c706b9ecf3f280
 
 
 Straipsnio pakeitimai:
@@ -1176,13 +1176,13 @@ Nr. XI-1961, 2012-04-12, Žin., 2012, Nr. 48-2330 (2012-04-24)
 1. Asmenų, nurodytų [[#^s-78f8f8187d978e97ba3085e3|šio straipsnio 2 dalyje]], privalomojo sveikatos draudimo įmokas apskaičiuoja ir sumoka draudėjai [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo]] nustatyta tvarka. ^s-849f33a0537b593f068bbc14
 
 
-2. Asmenys, nurodyti [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Valstybinio socialinio draudimo įstatymo 4 straipsnio]] 1–[[#^s-75d60e1abbd0e289770a0f2f|5 dalyse]], ir 4 straipsnio 6 dalyje nurodyti asmenys, atlygintinai einantys renkamąsias ar skiriamąsias pareigas, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo]] nustatyta tvarka asmeniui apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. ^s-78f8f8187d978e97ba3085e3
+2. Asmenys, nurodyti [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Valstybinio socialinio draudimo įstatymo 4 straipsnio]] [[latest/TAR.0F9036415DBD#^s-93a3ee30cc77f6b9a09f2c88|1]]–[[latest/TAR.0F9036415DBD#^s-ce9997d122a5061eec549d34|5]] dalyse, ir 4 straipsnio 6 dalyje nurodyti asmenys, atlygintinai einantys renkamąsias ar skiriamąsias pareigas, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo]] nustatyta tvarka asmeniui apskaičiuotų pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. ^s-78f8f8187d978e97ba3085e3
 Straipsnio dalies pakeitimai:
 Nr. XIV-751, 2021-12-14, paskelbta TAR 2021-12-22, i. k. 2021-26583
 
 
 
-3. Asmenys, gaunantys pajamas pagal autorinę sutartį, pajamas iš sporto ar atlikėjo veiklos, išskyrus asmenis, kurie verčiasi atitinkama individualia veikla, taip pat asmenys, gaunantys tantjemas arba atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. Už meno kūrėjo statusą turinčius asmenis, negaunančius pajamų pagal autorinę sutartį ir nepriklausančius asmenims, nurodytiems šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]], šio straipsnio 2 ir 4–[[#^s-dd9fde3e9d0cfe08403ac3fc|10 dalyse]], privalomojo sveikatos draudimo įmokas sumoka tam tikrų metų biudžeto patvirtinimo įstatyme nurodytas draudėjas (valstybės biudžeto asignavimų valdytojas) iš Meno kūrėjų socialinės apsaugos programos lėšų Vyriausybės nustatyta tvarka. Už sportininkus, pagal Lietuvos Respublikos sporto įstatymą gaunančius valstybės stipendiją, neturinčius draudžiamųjų pajamų ir nepriklausančius asmenims, nurodytiems šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]], šio straipsnio 2 ir 4–[[#^s-dd9fde3e9d0cfe08403ac3fc|10 dalyse]], privalomojo sveikatos draudimo įmokas sumoka valstybės sporto politiką įgyvendinanti institucija iš atitinkamai programai skiriamų lėšų šios programos finansavimą reglamentuojančių teisės aktų nustatyta tvarka. Šių įmokų dydis – 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną. ^s-9a19918d68e6ef94a612bddd
+3. Asmenys, gaunantys pajamas pagal autorinę sutartį, pajamas iš sporto ar atlikėjo veiklos, išskyrus asmenis, kurie verčiasi atitinkama individualia veikla, taip pat asmenys, gaunantys tantjemas arba atlygį už veiklą stebėtojų taryboje ar valdyboje, paskolų komitete, mokamą vietoj tantjemų arba kartu su tantjemomis, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. Už meno kūrėjo statusą turinčius asmenis, negaunančius pajamų pagal autorinę sutartį ir nepriklausančius asmenims, nurodytiems šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]], šio straipsnio [[#^s-2a7f90bb5577af40b291de9c|2]] ir [[#^s-eb9c1eed51b6824e1ca0b949|4]]–10 dalyse, privalomojo sveikatos draudimo įmokas sumoka tam tikrų metų biudžeto patvirtinimo įstatyme nurodytas draudėjas (valstybės biudžeto asignavimų valdytojas) iš Meno kūrėjų socialinės apsaugos programos lėšų Vyriausybės nustatyta tvarka. Už sportininkus, pagal Lietuvos Respublikos sporto įstatymą gaunančius valstybės stipendiją, neturinčius draudžiamųjų pajamų ir nepriklausančius asmenims, nurodytiems šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]], šio straipsnio [[#^s-2a7f90bb5577af40b291de9c|2]] ir [[#^s-eb9c1eed51b6824e1ca0b949|4]]–10 dalyse, privalomojo sveikatos draudimo įmokas sumoka valstybės sporto politiką įgyvendinanti institucija iš atitinkamai programai skiriamų lėšų šios programos finansavimą reglamentuojančių teisės aktų nustatyta tvarka. Šių įmokų dydis – 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną. ^s-9a19918d68e6ef94a612bddd
 Straipsnio dalies pakeitimai:
 Nr. XIV-1174, 2022-06-27, paskelbta TAR 2022-06-28, i. k. 2022-13890
 Nr. XIV-2327, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25314
@@ -1201,13 +1201,13 @@ Nr. XIV-2327, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25314
 5. Asmenys, kurie, vykdydami individualią veiklą, gyventojų pajamų mokestį nuo individualios veiklos pajamų sumoka įsigydami verslo liudijimus, kas mėnesį moka 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. Asmenų, nurodytų šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]], [[#^s-78f8f8187d978e97ba3085e3|šio straipsnio 2 dalyje]], įmokos apskaičiuojamos proporcingai išduoto verslo liudijimo galiojimo laikotarpiui. ^s-75d60e1abbd0e289770a0f2f
 
 
-6. Draudėjai (individualios įmonės, ūkinės bendrijos ir mažosios bendrijos) už individualių įmonių savininkus, ūkinių bendrijų tikruosius narius ir mažųjų bendrijų narius moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo sumos, nuo kurios skaičiuojamos jų socialinio draudimo įmokos. Tais atvejais, kai draudėjai laikinai nevykdo veiklos ir apie tai yra informavę Valstybinę mokesčių inspekciją prie Lietuvos Respublikos finansų ministerijos jos nustatyta tvarka arba turintys likviduojamos ar bankrutuojančios įmonės statusą, individualių įmonių savininkai, ūkinių bendrijų tikrieji nariai ir mažųjų bendrijų nariai, jeigu jie nepriskiriami asmenims, išvardytiems šio straipsnio 2–5 ir 7–[[#^s-dd9fde3e9d0cfe08403ac3fc|10 dalyse]] bei šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]], kas mėnesį moka už save 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^s-306e679880a211f002474540
+6. Draudėjai (individualios įmonės, ūkinės bendrijos ir mažosios bendrijos) už individualių įmonių savininkus, ūkinių bendrijų tikruosius narius ir mažųjų bendrijų narius moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo sumos, nuo kurios skaičiuojamos jų socialinio draudimo įmokos. Tais atvejais, kai draudėjai laikinai nevykdo veiklos ir apie tai yra informavę Valstybinę mokesčių inspekciją prie Lietuvos Respublikos finansų ministerijos jos nustatyta tvarka arba turintys likviduojamos ar bankrutuojančios įmonės statusą, individualių įmonių savininkai, ūkinių bendrijų tikrieji nariai ir mažųjų bendrijų nariai, jeigu jie nepriskiriami asmenims, išvardytiems šio straipsnio [[#^s-78f8f8187d978e97ba3085e3|2]]–[[#^s-75d60e1abbd0e289770a0f2f|5]] ir [[#^s-95cfcf49ec396a9c9093a831|7]]–[[#^s-dd9fde3e9d0cfe08403ac3fc|10]] dalyse bei šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]], kas mėnesį moka už save 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^s-306e679880a211f002474540
 
 
 7. Mažųjų bendrijų vadovai, kurie pagal Mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai, moka 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo pajamų, nuo kurių skaičiuojamos socialinio draudimo įmokos. ^s-95cfcf49ec396a9c9093a831
 
 
-8. Asmenys, kurie nepriskiriami šio straipsnio 2, [[#^s-9a19918d68e6ef94a612bddd|3 dalyse]], 4 dalies 1 punkte ir 5, 6, 7, 9 ir [[#^s-dd9fde3e9d0cfe08403ac3fc|10 dalyse]] bei šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]] išvardytiems asmenims ir kurių žemės ūkio valdos ar ūkio ekonominis dydis pagal žemės ūkio ministro nustatyta tvarka atliktus skaičiavimus už praėjusių metų laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra ne didesnis kaip 2 ekonominio dydžio vienetai, kas mėnesį moka už save 2,33 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^s-603b1669e95f85036dbdbfbf
+8. Asmenys, kurie nepriskiriami šio straipsnio [[#^s-78f8f8187d978e97ba3085e3|2]], [[#^s-9a19918d68e6ef94a612bddd|3]] dalyse, 4 dalies 1 punkte ir [[#^s-75d60e1abbd0e289770a0f2f|5]], [[#^s-306e679880a211f002474540|6]], [[#^s-95cfcf49ec396a9c9093a831|7]], [[#^s-f92a9a779e09b4d0fc2c1492|9]] ir [[#^s-dd9fde3e9d0cfe08403ac3fc|10]] dalyse bei šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]] išvardytiems asmenims ir kurių žemės ūkio valdos ar ūkio ekonominis dydis pagal žemės ūkio ministro nustatyta tvarka atliktus skaičiavimus už praėjusių metų laikotarpį nuo sausio 1 dienos iki gruodžio 31 dienos yra ne didesnis kaip 2 ekonominio dydžio vienetai, kas mėnesį moka už save 2,33 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^s-603b1669e95f85036dbdbfbf
 Straipsnio dalies pakeitimai:
 Nr. XIV-1303, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15630
 
@@ -1219,16 +1219,16 @@ Nr. XIV-1303, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15630
 10. Draudėjai (paslaugų gavėjai), gaunantys pagal paslaugų kvitą teikiamas žemės ūkio ir miškininkystės paslaugas, kurių teikimą nustato [[latest/TAR.8E6142CD3156|Žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas]], sumoka už paslaugų teikėjus 6,98 procento dydžio privalomojo sveikatos draudimo įmokas nuo atlygio sumos, priskaičiuotos paslaugų teikėjui už suteiktas paslaugas. ^s-dd9fde3e9d0cfe08403ac3fc
 
 
-11. Asmenys, nepriskiriami šio straipsnio 2–[[#^s-dd9fde3e9d0cfe08403ac3fc|10 dalyse]] ir šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]] išvardytiems asmenims, kas mėnesį moka už save 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^s-5244b1d287719aad4843dcee
+11. Asmenys, nepriskiriami šio straipsnio [[#^s-78f8f8187d978e97ba3085e3|2]]–[[#^s-dd9fde3e9d0cfe08403ac3fc|10]] dalyse ir šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]] išvardytiems asmenims, kas mėnesį moka už save 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^s-5244b1d287719aad4843dcee
 
 
-12. Asmenų, išskyrus asmenis, išvardytus šio straipsnio 2 ir [[#^s-603b1669e95f85036dbdbfbf|8 dalyse]] bei šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]], metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 6,98 procento 12 minimaliųjų mėnesinių algų, galiojančių tų metų kiekvieno atitinkamo mėnesio paskutinę dieną, dydžio. Asmenų, išvardytų [[#^s-603b1669e95f85036dbdbfbf|šio straipsnio 8 dalyje]], metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 2,33 procento 12 minimaliųjų mėnesinių algų, galiojančių tų metų kiekvieno atitinkamo mėnesio paskutinę dieną, dydžio. ^s-591bd240747c8f98e8bc95e6
+12. Asmenų, išskyrus asmenis, išvardytus šio straipsnio [[#^s-78f8f8187d978e97ba3085e3|2]] ir [[#^s-603b1669e95f85036dbdbfbf|8]] dalyse bei šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]], metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 6,98 procento 12 minimaliųjų mėnesinių algų, galiojančių tų metų kiekvieno atitinkamo mėnesio paskutinę dieną, dydžio. Asmenų, išvardytų [[#^s-603b1669e95f85036dbdbfbf|šio straipsnio 8 dalyje]], metinė privalomojo sveikatos draudimo įmoka negali būti mažesnė kaip 2,33 procento 12 minimaliųjų mėnesinių algų, galiojančių tų metų kiekvieno atitinkamo mėnesio paskutinę dieną, dydžio. ^s-591bd240747c8f98e8bc95e6
 
 
 13. Asmenų, nurodytų [[#^s-202990ff38fb7c26b161a484|šio straipsnio 4 dalyje]], metinė privalomojo sveikatos draudimo įmoka skaičiuojama nuo individualios veiklos pajamų sumos, ne didesnės negu numatyta [[latest/TAR.0F9036415DBD#^s-f1da2278eafe3e728d2afd8c|Valstybinio socialinio draudimo įstatymo 10 straipsnio 5 dalyje]]. ^s-45a4e1a9376dcba19687970f
 
 
-14. Jeigu [[#^s-78f8f8187d978e97ba3085e3|šio straipsnio 2 dalyje]] nurodytiems asmenims nėra apskaičiuota per kalendorinį mėnesį gautų pajamų, nuo kurių skaičiuojamos privalomojo sveikatos draudimo įmokos, ir šie asmenys nepriskiriami šio straipsnio 3–[[#^s-dd9fde3e9d0cfe08403ac3fc|10 dalyse]] ir šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]] išvardytiems asmenims, iki kitų metų gegužės 1 d. už tą kalendorinį mėnesį, kurį pajamų neturėjo, jie privalo sumokėti 6,98 procento Vyriausybės patvirtintos minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^s-bbaa08750b9df0f846d7bc21
+14. Jeigu [[#^s-78f8f8187d978e97ba3085e3|šio straipsnio 2 dalyje]] nurodytiems asmenims nėra apskaičiuota per kalendorinį mėnesį gautų pajamų, nuo kurių skaičiuojamos privalomojo sveikatos draudimo įmokos, ir šie asmenys nepriskiriami šio straipsnio [[#^s-9a19918d68e6ef94a612bddd|3]]–[[#^s-dd9fde3e9d0cfe08403ac3fc|10]] dalyse ir šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]] išvardytiems asmenims, iki kitų metų gegužės 1 d. už tą kalendorinį mėnesį, kurį pajamų neturėjo, jie privalo sumokėti 6,98 procento Vyriausybės patvirtintos minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. ^s-bbaa08750b9df0f846d7bc21
 Papildyta straipsnio dalimi:
 Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
 
@@ -1253,26 +1253,26 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 2. Šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnyje]] nurodytos įmokos mokamos [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo]] nustatyta tvarka tiek, kiek ši tvarka tiesiogiai nereglamentuota šiame Įstatyme. ^s-672a8ef2224428bcf738a535
 
 
-3. Asmenys, nurodyti šio Įstatymo [[#^s-202990ff38fb7c26b161a484|17 straipsnio 4 dalyje]], kas mėnesį moka 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. Įmoka už atitinkamą mėnesį sumokama iki to mėnesio paskutinės dienos. Asmenys, nurodyti šio Įstatymo [[#^s-202990ff38fb7c26b161a484|17 straipsnio 4 dalyje]], gali įmokų kas mėnesį nemokėti, jeigu jie moka ir (arba) už juos yra mokamos šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 2, 3, 5, 6, 7, 9 ir 10 dalyse nurodytos privalomojo sveikatos draudimo įmokos arba jeigu jie yra asmenys, išvardyti šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]], – tokie asmenys įmokas sumoka [[#^s-ce4c8a9b5f7e918c8f13bcdc|šio straipsnio 4 dalyje]] nustatyta tvarka. ^s-9797853763b0993dc9869a50
+3. Asmenys, nurodyti šio Įstatymo [[#^s-202990ff38fb7c26b161a484|17 straipsnio 4 dalyje]], kas mėnesį moka 6,98 procento minimaliosios mėnesinės algos, galiojančios mėnesio, už kurį mokama įmoka, paskutinę dieną, dydžio privalomojo sveikatos draudimo įmokas. Įmoka už atitinkamą mėnesį sumokama iki to mėnesio paskutinės dienos. Asmenys, nurodyti šio Įstatymo [[#^s-202990ff38fb7c26b161a484|17 straipsnio 4 dalyje]], gali įmokų kas mėnesį nemokėti, jeigu jie moka ir (arba) už juos yra mokamos šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-78f8f8187d978e97ba3085e3|2]], [[#^s-9a19918d68e6ef94a612bddd|3]], [[#^s-75d60e1abbd0e289770a0f2f|5]], [[#^s-306e679880a211f002474540|6]], [[#^s-95cfcf49ec396a9c9093a831|7]], [[#^s-f92a9a779e09b4d0fc2c1492|9]] ir [[#^s-dd9fde3e9d0cfe08403ac3fc|10]] dalyse nurodytos privalomojo sveikatos draudimo įmokos arba jeigu jie yra asmenys, išvardyti šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]], – tokie asmenys įmokas sumoka [[#^s-ce4c8a9b5f7e918c8f13bcdc|šio straipsnio 4 dalyje]] nustatyta tvarka. ^s-9797853763b0993dc9869a50
 Straipsnio dalies pakeitimai:
 Nr. XIII-1341, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10979
 
 
 
-4. Pasibaigus kalendoriniams metams, asmenys, nurodyti šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 3, 4 ir [[#^s-01713b95f2a6111aa425d247|7 dalyse]], taip pat paslaugų teikėjai, teikiantys žemės ūkio ar miškininkystės paslaugas pagal paslaugų kvitą, nurodyti šio Įstatymo [[#^s-dd9fde3e9d0cfe08403ac3fc|17 straipsnio 10 dalyje]], turi perskaičiuoti už praėjusius kalendorinius metus mokėtinas privalomojo sveikatos draudimo įmokas, atsižvelgdami į šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 3, 4, 7, 10, 11, 12 ir 13 dalių nuostatas, ir ne vėliau kaip iki gegužės 1 dienos sumokėti per praėjusius kalendorinius metus sumokėtos ir mokėtinos privalomojo sveikatos draudimo įmokų sumos skirtumą. Susidariusi privalomojo sveikatos draudimo įmokų permokos suma Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka pirmiausia įskaitoma privalomojo sveikatos draudimo įmokų mokestinei nepriemokai padengti, po to socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolai padengti, Valstybinio socialinio draudimo fondo administravimo įstaigų administruojamai žalai, atsiradusiai dėl šioje dalyje nurodyto asmens kaltės, atlyginti, likusi suma – Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka, suderinta su Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos, įskaitoma Valstybinės mokesčių inspekcijos administruojamų mokesčių mokestinei nepriemokai, nesumokėtoms už administracinius nusižengimus Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų sumoms padengti, o kai mokestinės nepriemokos ir nesumokėtų baudų sumų nėra, ši permokos suma Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka, gavus šioje dalyje nurodyto asmens prašymą, įskaitoma kaip privalomojo sveikatos draudimo įmoka ar jos dalis už būsimus laikotarpius arba grąžinama jos mokėtojui. ^s-ce4c8a9b5f7e918c8f13bcdc
+4. Pasibaigus kalendoriniams metams, asmenys, nurodyti šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-9a19918d68e6ef94a612bddd|3]], [[#^s-202990ff38fb7c26b161a484|4]] ir [[#^s-95cfcf49ec396a9c9093a831|7]] dalyse, taip pat paslaugų teikėjai, teikiantys žemės ūkio ar miškininkystės paslaugas pagal paslaugų kvitą, nurodyti šio Įstatymo [[#^s-dd9fde3e9d0cfe08403ac3fc|17 straipsnio 10 dalyje]], turi perskaičiuoti už praėjusius kalendorinius metus mokėtinas privalomojo sveikatos draudimo įmokas, atsižvelgdami į šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-9a19918d68e6ef94a612bddd|3]], [[#^s-202990ff38fb7c26b161a484|4]], [[#^s-95cfcf49ec396a9c9093a831|7]], [[#^s-dd9fde3e9d0cfe08403ac3fc|10]], [[#^s-5244b1d287719aad4843dcee|11]], [[#^s-591bd240747c8f98e8bc95e6|12]] ir [[#^s-45a4e1a9376dcba19687970f|13]] dalių nuostatas, ir ne vėliau kaip iki gegužės 1 dienos sumokėti per praėjusius kalendorinius metus sumokėtos ir mokėtinos privalomojo sveikatos draudimo įmokų sumos skirtumą. Susidariusi privalomojo sveikatos draudimo įmokų permokos suma Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka pirmiausia įskaitoma privalomojo sveikatos draudimo įmokų mokestinei nepriemokai padengti, po to socialinio draudimo įmokų, delspinigių, baudų ir palūkanų skolai padengti, Valstybinio socialinio draudimo fondo administravimo įstaigų administruojamai žalai, atsiradusiai dėl šioje dalyje nurodyto asmens kaltės, atlyginti, likusi suma – Valstybinės mokesčių inspekcijos prie Lietuvos Respublikos finansų ministerijos nustatyta tvarka, suderinta su Valstybinio socialinio draudimo fondo valdyba prie Socialinės apsaugos ir darbo ministerijos, įskaitoma Valstybinės mokesčių inspekcijos administruojamų mokesčių mokestinei nepriemokai, nesumokėtoms už administracinius nusižengimus Lietuvos Respublikos administracinių nusižengimų kodekso nustatyta tvarka paskirtų baudų sumoms padengti, o kai mokestinės nepriemokos ir nesumokėtų baudų sumų nėra, ši permokos suma Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka, gavus šioje dalyje nurodyto asmens prašymą, įskaitoma kaip privalomojo sveikatos draudimo įmoka ar jos dalis už būsimus laikotarpius arba grąžinama jos mokėtojui. ^s-ce4c8a9b5f7e918c8f13bcdc
 Straipsnio dalies pakeitimai:
 Nr. XIII-3012, 2020-06-04, paskelbta TAR 2020-06-15, i. k. 2020-13047
 
 
 
-5. Šio Įstatymo [[#^s-75d60e1abbd0e289770a0f2f|17 straipsnio 5 dalyje]] nurodyti asmenys, kurie moka šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 1, 2, 3, 6, 7, 9 ir 10 dalyse nurodytas privalomojo sveikatos draudimo įmokas ir (arba) už kuriuos šios įmokos yra mokamos arba kurie yra priskiriami šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]] išvardytiems asmenims, turi teisę sumokėti šio Įstatymo [[#^s-75d60e1abbd0e289770a0f2f|17 straipsnio 5 dalyje]] nurodytas privalomojo sveikatos draudimo įmokas kartą per metus, tačiau ne vėliau kaip iki kitų metų gegužės 1 dienos. ^s-682c25b9a5583e6706426c8c
+5. Šio Įstatymo [[#^s-75d60e1abbd0e289770a0f2f|17 straipsnio 5 dalyje]] nurodyti asmenys, kurie moka šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-849f33a0537b593f068bbc14|1]], [[#^s-78f8f8187d978e97ba3085e3|2]], [[#^s-9a19918d68e6ef94a612bddd|3]], [[#^s-306e679880a211f002474540|6]], [[#^s-95cfcf49ec396a9c9093a831|7]], [[#^s-f92a9a779e09b4d0fc2c1492|9]] ir [[#^s-dd9fde3e9d0cfe08403ac3fc|10]] dalyse nurodytas privalomojo sveikatos draudimo įmokas ir (arba) už kuriuos šios įmokos yra mokamos arba kurie yra priskiriami šio Įstatymo [[#^s-eb9c1eed51b6824e1ca0b949|6 straipsnio 4 dalyje]] išvardytiems asmenims, turi teisę sumokėti šio Įstatymo [[#^s-75d60e1abbd0e289770a0f2f|17 straipsnio 5 dalyje]] nurodytas privalomojo sveikatos draudimo įmokas kartą per metus, tačiau ne vėliau kaip iki kitų metų gegužės 1 dienos. ^s-682c25b9a5583e6706426c8c
 
 
 6. Draudėjai (paslaugų gavėjai), gaunantys pagal paslaugų kvitą teikiamas žemės ūkio ir miškininkystės paslaugas, kurių teikimą nustato [[latest/TAR.8E6142CD3156|Žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymas]], sumoka už paslaugų teikėjus atitinkamo mėnesio privalomojo sveikatos draudimo įmokas iki kito mėnesio 15 dienos. Tokia pačia tvarka šias įmokas moka draudėjai už mažųjų bendrijų vadovus, kurie pagal Mažųjų bendrijų įstatymą nėra tų mažųjų bendrijų nariai. ^s-a2736824f6090a76e31dc0e6
 
 
-7. Asmenys, nurodyti šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 4–8 ir 10 dalyse, Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu nemokėję privalomojo sveikatos draudimo įmokų, nesumokėtas privalomojo sveikatos draudimo įmokas už šį laikotarpį privalo sumokėti per 2 metus nuo tos dienos, kai Vyriausybės paskelbta ekstremalioji situacija ir karantinas atšaukiami arba kai sueina jų paskelbimo terminai. Jeigu privalomojo sveikatos draudimo įmokos nesumokamos per šioje dalyje nustatytą terminą, asmenys, nurodyti šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] 4–8 ir 10 dalyse, kuriems Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu Privalomojo sveikatos draudimo fondo biudžeto lėšomis buvo suteiktos asmens sveikatos priežiūros paslaugos, atlygina Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą. ^s-01713b95f2a6111aa425d247
-TAR pastaba. [[#^s-01713b95f2a6111aa425d247|7 dalies]] nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės 2020 m. vasario 26 d. nutarimo Nr. 152 „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ įsigaliojimo dienos (2020-02-26).
+7. Asmenys, nurodyti šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-202990ff38fb7c26b161a484|4]]–[[#^s-603b1669e95f85036dbdbfbf|8]] ir [[#^s-dd9fde3e9d0cfe08403ac3fc|10]] dalyse, Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu nemokėję privalomojo sveikatos draudimo įmokų, nesumokėtas privalomojo sveikatos draudimo įmokas už šį laikotarpį privalo sumokėti per 2 metus nuo tos dienos, kai Vyriausybės paskelbta ekstremalioji situacija ir karantinas atšaukiami arba kai sueina jų paskelbimo terminai. Jeigu privalomojo sveikatos draudimo įmokos nesumokamos per šioje dalyje nustatytą terminą, asmenys, nurodyti šio Įstatymo [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnio]] [[#^s-202990ff38fb7c26b161a484|4]]–[[#^s-603b1669e95f85036dbdbfbf|8]] ir [[#^s-dd9fde3e9d0cfe08403ac3fc|10]] dalyse, kuriems Vyriausybės paskelbtos ekstremaliosios situacijos ir karantino metu Privalomojo sveikatos draudimo fondo biudžeto lėšomis buvo suteiktos asmens sveikatos priežiūros paslaugos, atlygina Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą. ^s-01713b95f2a6111aa425d247
+TAR pastaba. 7 dalies nuostatos taikomos nuo Lietuvos Respublikos Vyriausybės [2020 m. vasario 26 d. nutarimo Nr. 152](https://e-tar.lt/portal/lt/legalAct/a10e9d9058a111ea931dbf3357b5b1c0) „Dėl valstybės lygio ekstremaliosios situacijos paskelbimo“ įsigaliojimo dienos (2020-02-26).
 Papildyta straipsnio dalimi:
 Nr. XIII-2844, 2020-04-07, paskelbta TAR 2020-04-10, i. k. 2020-07702
 
@@ -1476,13 +1476,13 @@ Nr. XIV-1554, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24641
 3. Vaistinės, pageidaujančios sudaryti [[#^s-084ce56541e59733c015d1ad|šio straipsnio 1 dalyje]] nurodytas sutartis, privalo turėti vaistinės veiklos licenciją. ^s-822b0c1a888b54c607db24a4
 
 
-4. Sutartys su asmens sveikatos priežiūros įstaigomis dėl šio Įstatymo [[#^s-9ca53152c0abd65c27481071|9 straipsnio]] nuostatas atitinkančių asmens sveikatos priežiūros paslaugų sudaromos pagal [[latest/TAR.C81BD50A27C6#^s-aff487429872aa80864dd13a|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 11 straipsnio 5 dalyje]] nurodytu pagrindu nustatytą asmens sveikatos priežiūros paslaugų poreikį ir, atsižvelgiant į šį poreikį, [[latest/TAR.E2B2957B9182#^s-dd8df26346024785d058add6|Sveikatos sistemos įstatymo 12 straipsnio]] 5 ir 9 dalyse nurodytu pagrindu nustatytą sveikatos priežiūros mastą. Asmens sveikatos priežiūros įstaigos, pageidaujančios sudaryti šias sutartis, privalo: ^s-7779da6da72e4048719ac907
+4. Sutartys su asmens sveikatos priežiūros įstaigomis dėl šio Įstatymo [[#^s-9ca53152c0abd65c27481071|9 straipsnio]] nuostatas atitinkančių asmens sveikatos priežiūros paslaugų sudaromos pagal [[latest/TAR.C81BD50A27C6#^s-aff487429872aa80864dd13a|Lietuvos Respublikos sveikatos priežiūros įstaigų įstatymo 11 straipsnio 5 dalyje]] nurodytu pagrindu nustatytą asmens sveikatos priežiūros paslaugų poreikį ir, atsižvelgiant į šį poreikį, [[latest/TAR.E2B2957B9182#^s-dd8df26346024785d058add6|Sveikatos sistemos įstatymo 12 straipsnio]] [[latest/TAR.E2B2957B9182#^s-640ad46b34f7c0ad6e8b0662|5]] ir [[latest/TAR.E2B2957B9182#^s-78dcfca8af5f0f3ec308402c|9]] dalyse nurodytu pagrindu nustatytą sveikatos priežiūros mastą. Asmens sveikatos priežiūros įstaigos, pageidaujančios sudaryti šias sutartis, privalo: ^s-7779da6da72e4048719ac907
 
 
 1) turėti galiojančią asmens sveikatos priežiūros veiklos licenciją; ^s-4ecb7bc1d4789272c6adbbd6
 
 
-2) atitikti [[latest/TAR.C81BD50A27C6#^s-2f4eadbf28b5f3db33a23702|Sveikatos priežiūros įstaigų įstatymo 11 straipsnio]] 1 ir [[#^s-7779da6da72e4048719ac907|4 dalyse]] nurodytu pagrindu nustatytus įstaigų išdėstymo reikalavimus (jeigu asmens sveikatos priežiūros įstaigoms tokie reikalavimai nustatyti), išskyrus [[#^s-03e2b3f67a28095812623712|šio straipsnio 5 dalyje]] nurodytą atvejį; ^s-a63479f1113799f568337b92
+2) atitikti [[latest/TAR.C81BD50A27C6#^s-2f4eadbf28b5f3db33a23702|Sveikatos priežiūros įstaigų įstatymo 11 straipsnio]] [[latest/TAR.C81BD50A27C6#^s-3718201518868c699000c1da|1]] ir [[latest/TAR.C81BD50A27C6#^s-ae60f43708da52df3f72cfb5|4]] dalyse nurodytu pagrindu nustatytus įstaigų išdėstymo reikalavimus (jeigu asmens sveikatos priežiūros įstaigoms tokie reikalavimai nustatyti), išskyrus [[#^s-03e2b3f67a28095812623712|šio straipsnio 5 dalyje]] nurodytą atvejį; ^s-a63479f1113799f568337b92
 
 
 3) teikti asmens sveikatos priežiūros paslaugas, dėl kurių pageidaujama sudaryti sutartis ir kurios atitinka šių paslaugų teikimo kokybės reikalavimus. Atitikties kokybės reikalavimams vertinimo metodiką nustato sveikatos apsaugos ministras; ^s-278a3b45b424e70a73ac6031
@@ -1494,7 +1494,7 @@ Nr. XV-584, 2025-11-25, paskelbta TAR 2025-12-04, i. k. 2025-20655
 
 
 
-5. Sutartys su asmens sveikatos priežiūros įstaigomis, su kuriomis Valstybinė ligonių kasa nėra sudariusi sutarčių dėl tam tikrų asmens sveikatos priežiūros paslaugų teikimo ir apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis, sudaromos tais atvejais, kai asmens sveikatos priežiūros įstaigos, su kuriomis Valstybinė ligonių kasa yra sudariusi sutartis dėl šių paslaugų, nepatenkina [[latest/TAR.C81BD50A27C6#^s-aff487429872aa80864dd13a|Sveikatos priežiūros įstaigų įstatymo 11 straipsnio 5 dalyje]] nurodytu pagrindu nustatyto šių paslaugų poreikio ir, atsižvelgiant į šį poreikį, neužtikrina [[latest/TAR.E2B2957B9182#^s-dd8df26346024785d058add6|Sveikatos sistemos įstatymo 12 straipsnio]] 5 ir 9 dalyse nurodytu pagrindu nustatyto sveikatos priežiūros masto. Sutartys sudaromos vadovaujantis šiais kriterijais: ^s-03e2b3f67a28095812623712
+5. Sutartys su asmens sveikatos priežiūros įstaigomis, su kuriomis Valstybinė ligonių kasa nėra sudariusi sutarčių dėl tam tikrų asmens sveikatos priežiūros paslaugų teikimo ir apmokėjimo Privalomojo sveikatos draudimo fondo biudžeto lėšomis, sudaromos tais atvejais, kai asmens sveikatos priežiūros įstaigos, su kuriomis Valstybinė ligonių kasa yra sudariusi sutartis dėl šių paslaugų, nepatenkina [[latest/TAR.C81BD50A27C6#^s-043af8795a0525b84e9e52fa|Sveikatos priežiūros įstaigų įstatymo 11 straipsnio 5 dalyje nurodytu pagrindu nustatyto šių paslaugų poreikio ir, atsižvelgiant į šį poreikį, neužtikrina Sveikatos sistemos įstatymo 12 straipsnio]] [[latest/TAR.C81BD50A27C6|5]] ir [[latest/TAR.C81BD50A27C6|9]] dalyse nurodytu pagrindu nustatyto sveikatos priežiūros masto. Sutartys sudaromos vadovaujantis šiais kriterijais: ^s-03e2b3f67a28095812623712
 
 
 1) asmens sveikatos priežiūros įstaigos teikiamų paslaugų kompleksiškumu; ^s-6380f9e6268d10915d27932b
@@ -1567,7 +1567,7 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 1. Valstybinė ligonių kasa sutartyse numatytomis sąlygomis, neviršydama skirtų Privalomojo sveikatos draudimo fondo biudžeto asignavimų, privalo apmokėti asmens sveikatos priežiūros įstaigų ir vaistinių, su kuriomis yra sudariusi sutartis, pateiktas sąskaitas. ^s-a53e2554bfb9ae0deec3e791
 
 
-2. Sąskaitas už suteiktas asmens sveikatos priežiūros paslaugas ir išduotus kompensuojamuosius vaistus bei medicinos pagalbos priemones kartą per mėnesį asmens sveikatos priežiūros įstaigos ir vaistinės pateikia Valstybinei ligonių kasai. Valstybinė ligonių kasa ne vėliau kaip per 30 dienų nuo sąskaitos gavimo dienos perveda pinigus sudariusioms su ja sutartis asmens sveikatos priežiūros įstaigoms ir vaistinėms, atsiskaitydama pagal pateiktas sąskaitas. Jeigu Valstybinė ligonių kasa laiku neatsiskaito, mokami sutartyse su asmens sveikatos priežiūros įstaigomis, vaistinėmis ir šio Įstatymo 261 ir [[#^s-02ff52801a71101b4a466826|262 straipsniuose]] nurodytais ūkio subjektais nustatyto dydžio delspinigiai. ^s-3016e352020b01dec56eb6ae
+2. Sąskaitas už suteiktas asmens sveikatos priežiūros paslaugas ir išduotus kompensuojamuosius vaistus bei medicinos pagalbos priemones kartą per mėnesį asmens sveikatos priežiūros įstaigos ir vaistinės pateikia Valstybinei ligonių kasai. Valstybinė ligonių kasa ne vėliau kaip per 30 dienų nuo sąskaitos gavimo dienos perveda pinigus sudariusioms su ja sutartis asmens sveikatos priežiūros įstaigoms ir vaistinėms, atsiskaitydama pagal pateiktas sąskaitas. Jeigu Valstybinė ligonių kasa laiku neatsiskaito, mokami sutartyse su asmens sveikatos priežiūros įstaigomis, vaistinėmis ir šio Įstatymo [[#^s-2ad692fddb0d9e8a7bfb8fa7|261]] ir [[#^s-02ff52801a71101b4a466826|262]] straipsniuose nurodytais ūkio subjektais nustatyto dydžio delspinigiai. ^s-3016e352020b01dec56eb6ae
 
 
 3. Jeigu faktinės Privalomojo sveikatos draudimo fondo biudžeto išlaidos yra didesnės, negu yra patvirtintos Privalomojo sveikatos draudimo fondo biudžeto išlaidų plane, sveikatos apsaugos ministras, įvertinęs Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones, šio Įstatymo ir kitų teisės aktų nustatyta tvarka priima sprendimus nustatyti tokį išmokų ir kompensacijų dydį, kuris atitinka patvirtintą išlaidų planą. ^s-2f9b159bb467b35d019f8406
@@ -1576,7 +1576,7 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 4. Jeigu faktinės Privalomojo sveikatos draudimo fondo biudžeto pajamos yra mažesnės negu patvirtintame Privalomojo sveikatos draudimo fondo biudžete, Sveikatos apsaugos ministerija, įvertinusi Valstybinės ligonių kasos ir Privalomojo sveikatos draudimo tarybos nuomones, teikia siūlymus Vyriausybei patikslinti Privalomojo sveikatos draudimo fondo biudžetą. Tikslinant Privalomojo sveikatos draudimo fondo biudžetą, numatomos reikalingos lėšos susidariusiems delspinigiams padengti teisės aktų nustatyta tvarka. ^s-f2274877ec25466b597c409b
 
 
-5. Šio straipsnio nuostatos mutatis mutandis taikomos Valstybinei ligonių kasai atsiskaitant su šio Įstatymo 261 ir [[#^s-02ff52801a71101b4a466826|262 straipsniuose]] nurodytais ūkio subjektais už medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomą ir už I klasės medicinos priemones bei in vitro diagnostikos priemones, skirtas savikontrolei. ^s-394eda4804f28d0452060795
+5. Šio straipsnio nuostatos mutatis mutandis taikomos Valstybinei ligonių kasai atsiskaitant su šio Įstatymo [[#^s-2ad692fddb0d9e8a7bfb8fa7|261]] ir [[#^s-02ff52801a71101b4a466826|262]] straipsniuose nurodytais ūkio subjektais už medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomą ir už I klasės medicinos priemones bei in vitro diagnostikos priemones, skirtas savikontrolei. ^s-394eda4804f28d0452060795
 
 
 Straipsnio pakeitimai:
@@ -1610,7 +1610,7 @@ INSTITUCIJOS, VYKDANČIOS PRIVALOMĄJĮ SVEIKATOS DRAUDIMĄ
 4) teikia siūlymus sveikatos apsaugos ministrui dėl privalomąjį sveikatos draudimą reglamentuojančių teisės aktų; ^s-490f2dae43f520da0ce9ebd5
 
 
-5) teikia siūlymus sveikatos apsaugos ministrui dėl Valstybinės ligonių kasos ir asmens sveikatos priežiūros įstaigų sutarčių, Valstybinės ligonių kasos ir vaistinių ar Valstybinės ligonių kasos ir šio Įstatymo 261 ir [[#^s-02ff52801a71101b4a466826|262 straipsniuose]] nurodytų ūkio subjektų sutarčių sudarymo tvarkos; ^s-d10ea48f9c95f08dab24fbe7
+5) teikia siūlymus sveikatos apsaugos ministrui dėl Valstybinės ligonių kasos ir asmens sveikatos priežiūros įstaigų sutarčių, Valstybinės ligonių kasos ir vaistinių ar Valstybinės ligonių kasos ir šio Įstatymo [[#^s-2ad692fddb0d9e8a7bfb8fa7|261]] ir [[#^s-02ff52801a71101b4a466826|262]] straipsniuose nurodytų ūkio subjektų sutarčių sudarymo tvarkos; ^s-d10ea48f9c95f08dab24fbe7
 
 
 6) nagrinėja Valstybinės ligonių kasos finansinę ir ekonominę veiklą; ^s-8725c0dd4f63c74184c122ca
@@ -1723,7 +1723,7 @@ e) vienas Lietuvos profesinių sąjungų konfederacijos deleguotas atstovas.
 5) teismas pripažįsta jį neveiksniu; ^s-6cb540ac9defa9a22473657c
 
 
-6) jis neatitinka šio straipsnio 7, 8 ir [[#^s-43771bafe6f0a1c3010cfa28|10 dalyse]] nustatytų reikalavimų ir sveikatos apsaugos ministras Tarybos nuostatuose nustatyta tvarka išbraukia jį iš Privalomojo sveikatos draudimo tarybos. ^s-702e5a830616a1ec90a32127
+6) jis neatitinka šio straipsnio [[#^s-a0f49c6085eb378ea8ff4678|7]], [[#^s-90705905a471d8bbc4f039cb|8]] ir [[#^s-43771bafe6f0a1c3010cfa28|10]] dalyse nustatytų reikalavimų ir sveikatos apsaugos ministras Tarybos nuostatuose nustatyta tvarka išbraukia jį iš Privalomojo sveikatos draudimo tarybos. ^s-702e5a830616a1ec90a32127
 
 
 13. Privalomojo sveikatos draudimo tarybos nario įgaliojimams nutrūkus [[#^s-62bd662e5f3f72b671745a86|šio straipsnio 12 dalies]] 2–6 punktuose nurodytais pagrindais, likusiam Privalomojo sveikatos draudimo tarybos kadencijos laikui į atsilaisvinusią vietą skiriamas naujas tarybos narys [[#^s-3bfad51ae6fd4bb30c07e691|šio straipsnio 4 dalyje]] nustatyta tvarka. ^s-43758bb454527053ce5cc10e
@@ -1777,7 +1777,7 @@ Valstybinė ligonių kasa atlieka šias funkcijas:
 4) šio Įstatymo nustatytais pagrindais ir sąlygomis kompensuoja apdraustųjų sveikatos priežiūros išlaidas; ^s-8cfe27cdd88af38405a90cda
 
 
-5) sudaro sutartis su asmens sveikatos priežiūros įstaigomis, vaistinėmis, šio Įstatymo 261 ir [[#^s-02ff52801a71101b4a466826|262 straipsniuose]] nurodytais ūkio subjektais, šiose sutartyse nustatyta tvarka apmoka apdraustiesiems suteiktas asmens sveikatos priežiūros paslaugas, išduotus vaistus, medicinos pagalbos priemones, I klasės medicinos priemones ir in vitro diagnostikos priemones, skirtas savikontrolei, ir medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidas; ^s-ec4ff292fa92060171c9a17d
+5) sudaro sutartis su asmens sveikatos priežiūros įstaigomis, vaistinėmis, šio Įstatymo [[#^s-2ad692fddb0d9e8a7bfb8fa7|261]] ir [[#^s-02ff52801a71101b4a466826|262]] straipsniuose nurodytais ūkio subjektais, šiose sutartyse nustatyta tvarka apmoka apdraustiesiems suteiktas asmens sveikatos priežiūros paslaugas, išduotus vaistus, medicinos pagalbos priemones, I klasės medicinos priemones ir in vitro diagnostikos priemones, skirtas savikontrolei, ir medicinos priemonių, būtinų apdraustųjų sveikatos priežiūrai namuose užtikrinti, nuomos išlaidas; ^s-ec4ff292fa92060171c9a17d
 
 
 6) registruoja privalomuoju sveikatos draudimu draudžiamus asmenis Draudžiamųjų privalomuoju sveikatos draudimu registro nuostatuose nustatyta tvarka; ^s-1c656b40131fd00fbbea9057
@@ -1830,7 +1830,7 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 2) įstatymų ir kitų teisės aktų, reglamentuojančių sutarčių sudarymą, nustatyta tvarka sudaryti sutartis; ^s-888d3abf459047a799cb121f
 
 
-3) tikrinti, ar teisingai išrašomos asmens sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 261 ir [[#^s-02ff52801a71101b4a466826|262 straipsniuose]] nurodytų ūkio subjektų sąskaitos, ir su tuo susijusius finansinės apskaitos bei kitus dokumentus; ^s-9d1de81fa3230444274a44d0
+3) tikrinti, ar teisingai išrašomos asmens sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo [[#^s-2ad692fddb0d9e8a7bfb8fa7|261]] ir [[#^s-02ff52801a71101b4a466826|262]] straipsniuose nurodytų ūkio subjektų sąskaitos, ir su tuo susijusius finansinės apskaitos bei kitus dokumentus; ^s-9d1de81fa3230444274a44d0
 
 
 4) reikalauti grąžinti neteisėtai gautas Privalomojo sveikatos draudimo fondo biudžeto lėšas ir (ar) išieškoti Privalomojo sveikatos draudimo fondo biudžetui padarytą žalą, inter alia, žalą, atsiradusią tais atvejais, kai už sveikatos priežiūros paslaugas, suteiktas apdraustajam dėl fizinių ar juridinių asmenų jo sveikatai padarytos žalos, sumokama iš Privalomojo sveikatos draudimo fondo biudžeto lėšų. Privalomojo sveikatos draudimo fondo biudžetui padaryta žala pripažįstama mažareikšme ir neišieškoma, jeigu jos išieškojimo išlaidos yra didesnės už išieškomą sumą. Žalos Privalomojo sveikatos draudimo fondo biudžetui pripažinimo mažareikšme žala tvarką ir mažareikšmės žalos dydį nustato sveikatos apsaugos ministras; ^s-af94ddd8f5fabaf7c00f0b93
@@ -1845,7 +1845,7 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 7) įstatymų ir kitų teisės aktų, reglamentuojančių informacijos teikimą, nustatyta tvarka nemokamai gauti iš ministerijų, Vyriausybės įstaigų, savivaldybių institucijų, Valstybinio socialinio draudimo fondo administravimo įstaigų, asmens sveikatos priežiūros įstaigų, kitų įmonių, įstaigų bei organizacijų informaciją, būtiną Valstybinės ligonių kasos funkcijoms atlikti. Tokios informacijos sąrašas nustatomas Valstybinės ligonių kasos nuostatuose; ^s-b14489e40d7296a5dcf60c71
 
 
-8) Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka teikti ieškinius; ^s-241b25c252274a1889e31373
+8) [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka teikti ieškinius; ^s-241b25c252274a1889e31373
 
 
 9) teikti siūlymus Sveikatos apsaugos ministerijai, Privalomojo sveikatos draudimo tarybai ir kitoms institucijoms dėl privalomojo sveikatos draudimo organizavimo, šį draudimą reglamentuojančių teisės aktų tobulinimo. ^s-98e54ef5a7442d980dad45d3
@@ -1862,7 +1862,7 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 ### 311 straipsnis. Valstybinės ligonių kasos direktoriaus sprendimai, priimami vykdant asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, sudariusių sutartis su Valstybine ligonių kasa, veiklos priežiūrą ^s-3dbf42b6abcafb4b40e01f8c
 
 
-1. Valstybinės ligonių kasos direktorius, vykdydamas asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, sudariusių šio Įstatymo 26, 261 ir [[#^s-02ff52801a71101b4a466826|262 straipsniuose]] nurodytas sutartis su Valstybine ligonių kasa, veiklos priežiūrą, priima šiuos sprendimus dėl poveikio priemonių taikymo: ^s-96f231c248ee4c21630eec0d
+1. Valstybinės ligonių kasos direktorius, vykdydamas asmens sveikatos priežiūros įstaigų, vaistinių ir kitų ūkio subjektų, sudariusių šio Įstatymo [[#^s-4422a531f0bd5e8041857912|26]], [[#^s-2ad692fddb0d9e8a7bfb8fa7|261]] ir [[#^s-02ff52801a71101b4a466826|262]] straipsniuose nurodytas sutartis su Valstybine ligonių kasa, veiklos priežiūrą, priima šiuos sprendimus dėl poveikio priemonių taikymo: ^s-96f231c248ee4c21630eec0d
 
 
 1) sustabdyti sutarties vykdymą arba nutraukti sutartį su asmens sveikatos priežiūros įstaiga dėl tų asmens sveikatos priežiūros paslaugų, dėl kurių sustabdytas ar panaikintas licencijos asmens sveikatos priežiūros veiklai galiojimas, sustabdyti sutarties vykdymą arba nutraukti sutartį su vaistine, jeigu sustabdomas ar panaikinamas vaistinės veiklos licencijos galiojimas (sutarties vykdymas stabdomas iki atitinkamos licencijos galiojimo sustabdymo panaikinimo dienos); ^s-8b6f6c8cb535d00310a4a6c9
@@ -1877,7 +1877,7 @@ Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
 4) pateikti rašytinį nurodymą asmens sveikatos priežiūros įstaigai, vaistinei ar kitam ūkio subjektui grąžinti apdraustajam neteisėtai paimtą iš jo mokestį už asmens sveikatos priežiūros paslaugas, vaistus, medicinos pagalbos priemones ir medicinos priemones, jeigu asmens sveikatos priežiūros paslaugas ir (arba) vaistus, medicinos pagalbos priemones ir (arba) medicinos priemones jis turėjo gauti nemokamai; ^s-6a402ec622280f2c43055549
 
 
-5) 30 kalendorinių dienų sustabdyti sutarties arba jos dalies vykdymą dėl tų asmens sveikatos priežiūros paslaugų, vaistų, medicinos pagalbos priemonių ar medicinos priemonių nuomos, dėl kurių priimtas šios dalies 2–[[#^s-6a402ec622280f2c43055549|4 punktuose]] nurodytas sprendimas nebuvo įvykdytas per 30 kalendorinių dienų nuo jo priėmimo dienos, o neįvykdžius šio sprendimo iki sutarties arba jos dalies galiojimo sustabdymo termino pabaigos, nutraukti sutartį arba jos dalį. ^s-5392c8d8e620c0f414320bbd
+5) 30 kalendorinių dienų sustabdyti sutarties arba jos dalies vykdymą dėl tų asmens sveikatos priežiūros paslaugų, vaistų, medicinos pagalbos priemonių ar medicinos priemonių nuomos, dėl kurių priimtas šios dalies [[#^s-056673266cc4795f0e959379|2]]–[[#^s-6a402ec622280f2c43055549|4]] punktuose nurodytas sprendimas nebuvo įvykdytas per 30 kalendorinių dienų nuo jo priėmimo dienos, o neįvykdžius šio sprendimo iki sutarties arba jos dalies galiojimo sustabdymo termino pabaigos, nutraukti sutartį arba jos dalį. ^s-5392c8d8e620c0f414320bbd
 
 
 2. Nustačius įstatymų ir (arba) kitų teisės aktų reikalavimų pažeidimo faktą, kuris vertintinas kaip mažareikšmis teisės aktų reikalavimų pažeidimas, Valstybinės ligonių kasos direktoriaus [[#^s-5392c8d8e620c0f414320bbd|šio straipsnio 1 dalies 5 punkte]] nurodytas sprendimas nutraukti sutartį arba jos dalį neįvykdžius šios dalies 2–4 punktuose nurodyto sprendimo iki sutarties arba jos dalies galiojimo sustabdymo termino pabaigos negali būti priimamas. Jei mažareikšmį teisės aktų reikalavimų pažeidimą galima ištaisyti nedelsiant, dalyvaujant asmens sveikatos priežiūros įstaigos, vaistinės ar kito ūkio subjekto veiklos priežiūrą atliekančiam Valstybinės ligonių kasos valstybės tarnautojui, tokio pažeidimo tyrimas nutraukiamas, įstatymų numatytos kitos poveikio priemonės neskiriamos, o ūkio subjektui pareiškiama žodinė pastaba. Tais atvejais, kai mažareikšmio teisės aktų reikalavimų pažeidimo nedelsiant, dalyvaujant ūkio subjektų veiklos priežiūrą atliekančiam Valstybinės ligonių kasos valstybės tarnautojui, ištaisyti negalima, ūkio subjektui pateikiamas rašytinis nurodymas pašalinti mažareikšmį teisės aktų reikalavimų pažeidimą ir nustatomas protingas pažeidimo pašalinimo terminas, kuris gali būti pratęstas vieną kartą. Įstatymų ir (arba) kitų teisės aktų reikalavimų pažeidimų, kurie laikomi mažareikšmiais, kriterijų aprašą, taip pat šių pažeidimų pašalinimo terminus tvirtina sveikatos apsaugos ministras ar jo įgaliota institucija. ^s-4371c520cfbbd8cc238fc68e
@@ -1940,7 +1940,7 @@ Nr. XIII-874, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20564
 
 
 ## V SKYRIUS ^s-ccc1a4b42a48836e92c39d51
-APDRAUSTŲJŲ TEISĖS IR ASMENS SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ, VAISTINIŲ IR ŠIO ĮSTATYMO 261 IR [[#^s-02ff52801a71101b4a466826|262 STRAIPSNIUOSE]] NURODYTŲ ŪKIO SUBJEKTŲ, SUDARIUSIŲ SUTARTIS SU VALSTYBINE LIGONIŲ KASA, PAREIGOS
+APDRAUSTŲJŲ TEISĖS IR ASMENS SVEIKATOS PRIEŽIŪROS ĮSTAIGŲ, VAISTINIŲ IR ŠIO ĮSTATYMO [[#^s-2ad692fddb0d9e8a7bfb8fa7|261]] IR [[#^s-02ff52801a71101b4a466826|262]] STRAIPSNIUOSE NURODYTŲ ŪKIO SUBJEKTŲ, SUDARIUSIŲ SUTARTIS SU VALSTYBINE LIGONIŲ KASA, PAREIGOS
 
 
 
@@ -1965,7 +1965,7 @@ Apdraustieji turi teisę:
 5) gauti iš asmens sveikatos priežiūros įstaigos, su kuria Valstybinė ligonių kasa yra sudariusi sutartį, informaciją apie teikiamų asmens sveikatos priežiūros paslaugų mastą, teikimo sąlygas ir vietą; ^s-428838f7d8d1167b2b11e311
 
 
-6) susipažinti su šio Įstatymo 26, 261 ir [[#^s-02ff52801a71101b4a466826|262 straipsniuose]] nurodytomis sutartimis; ^s-7687512a4dac17e43fb8ddc8
+6) susipažinti su šio Įstatymo [[#^s-4422a531f0bd5e8041857912|26]], [[#^s-2ad692fddb0d9e8a7bfb8fa7|261]] ir [[#^s-02ff52801a71101b4a466826|262]] straipsniuose nurodytomis sutartimis; ^s-7687512a4dac17e43fb8ddc8
 
 
 7) kreiptis į Valstybinę ligonių kasą, teismą dėl įstatymų ar kitų teisės aktų, reguliuojančių privalomąjį sveikatos draudimą, pažeidimų. ^s-022c38feff8b5c415e38e1df
@@ -2080,7 +2080,7 @@ Apdraustųjų skundai dėl asmens sveikatos priežiūros įstaigų teikiamų asm
 ### 411 straipsnis. Ginčų tarp asmens sveikatos priežiūros įstaigų, vaistinių, šio Įstatymo 261 ir 262 straipsniuose nurodytų ūkio subjektų bei Valstybinės ligonių kasos sprendimo tvarka ^s-07b85ed9147e69adceb81880
 
 
-Asmens sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo 261 ir [[#^s-02ff52801a71101b4a466826|262 straipsniuose]] nurodytų ūkio subjektų skundus dėl Valstybinės ligonių kasos sprendimų (neveikimo) dėl sutarčių, kurios sudaromos pagal šio Įstatymo 26, 261 ir [[#^s-02ff52801a71101b4a466826|262 straipsnius]], sudarymo, nesudarymo ir vykdymo sprendžia Lietuvos administracinių ginčų komisija [[latest/TAR.594F129CE9AD|Ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo]] nustatyta tvarka arba teismas [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka.
+Asmens sveikatos priežiūros įstaigų, vaistinių ir šio Įstatymo [[#^s-2ad692fddb0d9e8a7bfb8fa7|261]] ir [[#^s-02ff52801a71101b4a466826|262]] straipsniuose nurodytų ūkio subjektų skundus dėl Valstybinės ligonių kasos sprendimų (neveikimo) dėl sutarčių, kurios sudaromos pagal šio Įstatymo [[#^s-4422a531f0bd5e8041857912|26]], [[#^s-2ad692fddb0d9e8a7bfb8fa7|261]] ir [[#^s-02ff52801a71101b4a466826|262]] straipsnius, sudarymo, nesudarymo ir vykdymo sprendžia Lietuvos administracinių ginčų komisija [[latest/TAR.594F129CE9AD|Ikiteisminio administracinių ginčų nagrinėjimo tvarkos įstatymo]] nustatyta tvarka arba teismas [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka.
 
 
 Skyriaus pakeitimai:
@@ -2148,7 +2148,7 @@ priedas
 
 
 
-1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą (EEB) Nr. 1612/68 ir panaikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 5 skyrius, 5 tomas, p. 46). ^s-edc66d45e9249c367feecee3
+1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti [Reglamentą (EEB) Nr. 1612/68](https://eur-lex.europa.eu/eli/reg/1612/68/oj) ir panaikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 5 skyrius, 5 tomas, p. 46). ^s-edc66d45e9249c367feecee3
 
 
 2. 2011 m. kovo 9 d. Europos Parlamento ir Tarybos direktyva 2011/24/ES dėl pacientų teisių į tarpvalstybines sveikatos priežiūros paslaugas įgyvendinimo (OL 2011 L 88, p. 45). ^s-de06c4de99ee0d1e4fcfc409
@@ -2157,7 +2157,7 @@ priedas
 3. 2011 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva 2011/95/ES dėl trečiųjų šalių piliečių ar asmenų be pilietybės priskyrimo prie tarptautinės apsaugos gavėjų, vienodo statuso pabėgėliams arba papildomą apsaugą galintiems gauti asmenims ir suteikiamos apsaugos pobūdžio reikalavimų (OL 2011 L 337, p. 9). ^s-e3ee93d0580c20d63f569789
 
 
-4. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos direktyva (ES) 2024/1233 dėl vienos prašymų išduoti vieną leidimą trečiųjų valstybių piliečiams gyventi ir dirbti valstybės narės teritorijoje teikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų valstybių darbuotojų bendrų teisių. ^s-6f17ed6be01607df8adca338
+4. 2024 m. balandžio 24 d. Europos Parlamento ir Tarybos [direktyva (ES) 2024/1233](https://eur-lex.europa.eu/eli/dir/2024/1233/oj) dėl vienos prašymų išduoti vieną leidimą trečiųjų valstybių piliečiams gyventi ir dirbti valstybės narės teritorijoje teikimo procedūros ir dėl valstybėje narėje teisėtai gyvenančių trečiųjų valstybių darbuotojų bendrų teisių. ^s-6f17ed6be01607df8adca338
 Papildyta punktu:
 Nr. XII-1602, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05896
 Punkto pakeitimai:
@@ -2205,7 +2205,7 @@ SVEIKATOS DRAUDIMO ĮSTATYMO 21 STRAIPSNIO PAPILDYMO ĮSTATYMAS
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-872, 2002-05-07, Žin., 2002, Nr. 52-1985 (2002-05-24)
-[[#^s-931f5a1629c199165a4a6bcb|SVEIKATOS DRAUDIMO ĮSTATYMO 7, 17, 18 IR 19 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+[SVEIKATOS DRAUDIMO ĮSTATYMO 7, 17, 18 IR 19 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.AF29713ED2DD)
 Šis Įstatymas įsigalioja nuo 2003 m. liepos 1 d.
 Šis Įstatymas neteko galios nuo 2003 m. sausio 1 d.:
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2216,7 +2216,7 @@ Nr. IX-1233, 2002-12-10, Žin., 2002, Nr. 123-5525 (2002-12-24)
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1022, 2002-07-03, Žin., 2002, Nr. 72-3021 (2002-07-17)
-[[#^s-bb2eb241cb69425bf0334688|SVEIKATOS DRAUDIMO ĮSTATYMO 9, 15, 32 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[SVEIKATOS DRAUDIMO ĮSTATYMO 9, 15, 32 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.6915932BBCF1)
 Šio Įstatymo [[#^s-1e35ac9fca046b1452466475|2 straipsnis]] įsigalioja nuo 2003 m. sausio 1 d.
 Šis Įstatymas neteko galios nuo 2003 m. sausio 1 d.:
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2227,7 +2227,7 @@ Nr. IX-1233, 2002-12-10, Žin., 2002, Nr. 123-5525 (2002-12-24)
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1138, 2002-10-15, Žin., 2002, Nr. 105-4686 (2002-11-06)
-[[#^s-4fd8d1ebac8222954e44a284|SVEIKATOS DRAUDIMO ĮSTATYMO 5 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+[SVEIKATOS DRAUDIMO ĮSTATYMO 5 STRAIPSNIO PAKEITIMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.0EF25BF4A772)
 Šis Įstatymas, išskyrus [[#^s-1e35ac9fca046b1452466475|2 straipsnį]], įsigalioja nuo 2003 m. sausio 1 d.
 Šis Įstatymas neteko galios nuo 2003 m. sausio 1 d.:
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2240,7 +2240,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1219, 2002-12-03, Žin., 2002, Nr. 123-5512 (2002-12-24)
 [[latest/TAR.8AC83320B76A|SVEIKATOS DRAUDIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS]]
 Šis Įstatymas įsigalioja nuo 2003 m. sausio 1 d., išskyrus šiame straipsnyje numatytas išimtis.
-[[#^s-b2aba1272cdaf55c3a9c747e|Sveikatos draudimo įstatymo 17 straipsnio]] 1, 5 ir 6 dalyse numatytų privalomojo sveikatos draudimo įmokų administravimas pagal to paties įstatymo [[#^s-e173aa902133e24b620f076a|8 straipsnio 1 dalį]] ir [[#^s-9797853763b0993dc9869a50|18 straipsnio 3 dalį]] Valstybinei mokesčių inspekcijai perduodamas nuo 2004 m. sausio 1 d.
+[[#^s-b2aba1272cdaf55c3a9c747e|Sveikatos draudimo įstatymo 17 straipsnio]] [[#^s-849f33a0537b593f068bbc14|1]], [[#^s-75d60e1abbd0e289770a0f2f|5]] ir [[#^s-306e679880a211f002474540|6]] dalyse numatytų privalomojo sveikatos draudimo įmokų administravimas pagal to paties įstatymo [[#^s-e173aa902133e24b620f076a|8 straipsnio 1 dalį]] ir [[#^s-9797853763b0993dc9869a50|18 straipsnio 3 dalį]] Valstybinei mokesčių inspekcijai perduodamas nuo 2004 m. sausio 1 d.
 Iki [[#^s-de06c4de99ee0d1e4fcfc409|šio straipsnio 2 dalyje]] nurodytų įmokų administravimo perdavimo Valstybinei mokesčių inspekcijai:
 1) Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai tikrina, ar yra sumokėtos [[#^s-849f33a0537b593f068bbc14|Sveikatos draudimo įstatymo 17 straipsnio 1 dalyje]] numatytos privalomojo sveikatos draudimo įmokos, ir teikia Valstybinei ligonių kasai bei teritorinėms ligonių kasoms reikalingą informaciją apie atskirų įmonių, organizacijų ir fizinių asmenų sumokėtas ir nesumokėtas privalomojo sveikatos draudimo įmokas, taip pat, jeigu teritorinė ligonių kasa nustato, kad draudžiamajam per kalendorinį mėnesį suteiktų asmens sveikatos priežiūros paslaugų kaina viršija 100 MGL, tos teritorinės ligonių kasos teikimu tikrina, ar asmuo yra sumokėjęs visas privalomojo sveikatos draudimo įmokas; ^s-f5015c983dbdc08b730aa26d
 2) Valstybinio socialinio draudimo fondo valdyba, mokėdama [[#^s-849f33a0537b593f068bbc14|Sveikatos draudimo įstatymo 17 straipsnio 1 dalyje]] numatytas įmokas, centralizuotai kas 3 dienas perveda lėšas iš Valstybinio socialinio draudimo fondo biudžeto sąskaitos į Valstybinės ligonių kasos Privalomojo sveikatos draudimo fondo biudžeto sąskaitą; ^s-983113f95505d313b4a33ee1
@@ -2276,7 +2276,7 @@ Nr. IX-2163, 2004-04-22, Žin., 2004, Nr. 68-2370 (2004-04-29)
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2540, 2004-11-04, Žin., 2004, Nr. 171-6300 (2004-11-26)
-[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]], ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, SVEIKATOS DRAUDIMO ĮSTATYMO, [[latest/TAR.FDF42614DE52|NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO]], [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]], VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO, INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 33, 34, 36, 45 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, [[latest/TAR.A7F77DF94F5D#^s-737ad56397e2a7b754e12bc0|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 9, 16, 28, 35, 36, 40, 43, 45, 49, 50, 54 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO]], [[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]], ŽALOS ATLYGINIMO DĖL NELAIMINGŲ ATSITIKIMŲ DARBE AR SUSIRGIMŲ PROFESINE LIGA LAIKINOJO ĮSTATYMO, SVEIKATOS DRAUDIMO ĮSTATYMO, [[latest/TAR.FDF42614DE52|NEDARBO SOCIALINIO DRAUDIMO ĮSTATYMO]], [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]], [[latest/TAR.CA0F08EF687E|VALSTYBINIO SOCIALINIO DRAUDIMO FONDO BIUDŽETO SANDAROS ĮSTATYMO]], INVALIDŲ SOCIALINĖS INTEGRACIJOS ĮSTATYMO, VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO [[latest/TAR.A7F77DF94F5D#^s-f47bd8a85e88a1ed5fdb4426|33]], [[latest/TAR.A7F77DF94F5D#^s-5588e0dd4927669d9163f666|34]], [[latest/TAR.A7F77DF94F5D#^s-3c50246512d269ab920f3de0|36]], [[latest/TAR.A7F77DF94F5D#^s-f3e4bd0c130420115fe58c82|45]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO 45(1) STRAIPSNIU ĮSTATYMO, [[latest/TAR.A7F77DF94F5D|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO]] [[latest/TAR.9347C8C7E0A3|9]], [[latest/TAR.9347C8C7E0A3|16]], [[latest/TAR.9347C8C7E0A3|28]], [[latest/TAR.9347C8C7E0A3|35]], [[latest/TAR.9347C8C7E0A3|36]], [[latest/TAR.9347C8C7E0A3|40]], [[latest/TAR.9347C8C7E0A3|43]], [[latest/TAR.9347C8C7E0A3|45]], [[latest/TAR.9347C8C7E0A3|49]], [[latest/TAR.9347C8C7E0A3|50]], [[latest/TAR.9347C8C7E0A3|54]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(6) STRAIPSNIU IR VII SKYRIUMI ĮSTATYMO, [[latest/TAR.32FB2683DB9A|VALSTYBINIŲ SOCIALINIO DRAUDIMO PENSIJŲ ĮSTATYMO 2, 10, 28, 29, 34, 35, 38, 39, 40, 45, 49, 54, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 55(1), 55(2), 55(3), 55(4), 55(5) STRAIPSNIAIS ĮSTATYMO]], [[latest/TAR.068516AF734B|LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2005 m. sausio 1 d.
 
 16.
@@ -2332,7 +2332,7 @@ Nr. X-911, 2006-11-16, Žin., 2006, Nr. 132-4988 (2006-12-05)
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1220, 2007-06-26, Žin., 2007, Nr. 77-3052 (2007-07-12)
-[[#^s-fe50d40f20bbdcfaf765d402|SVEIKATOS DRAUDIMO ĮSTATYMO 14, 28, 30, 35 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 13(1) STRAIPSNIU ĮSTATYMAS
+SVEIKATOS DRAUDIMO ĮSTATYMO [[#^s-e86af72cdd8bf7ef8a8ceace|14]], [[#^s-d259a217b89d63c67029a8a3|28]], [[#^s-2daa59384e6c32cedc91b8eb|30]], [[#^s-fe50d40f20bbdcfaf765d402|35]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 13(1) STRAIPSNIU ĮSTATYMAS
 Šis įstatymas įsigalioja nuo 2009 m. sausio 1 d.
 
 26.
@@ -2349,7 +2349,7 @@ Nr. X-1803, 2008-11-11, Žin., 2008, Nr. 135-5239 (2008-11-25)
 27.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1828, 2008-11-14, Žin., 2008, Nr. 137-5377 (2008-11-29)
-[[#^s-fe50d40f20bbdcfaf765d402|SVEIKATOS DRAUDIMO ĮSTATYMO 14, 28, 30, 35 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 13(1) STRAIPSNIU ĮSTATYMO PAKEITIMO ĮSTATYMAS
+SVEIKATOS DRAUDIMO ĮSTATYMO [[#^s-e86af72cdd8bf7ef8a8ceace|14]], [[#^s-d259a217b89d63c67029a8a3|28]], [[#^s-2daa59384e6c32cedc91b8eb|30]], [[#^s-fe50d40f20bbdcfaf765d402|35]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 13(1) STRAIPSNIU ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2468,7 +2468,7 @@ Nr. XI-2413, 2012-11-13, Žin., 2012, Nr. 136-6967 (2012-11-24)
 48.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-526, 2013-10-01, Žin., 2013, Nr. 107-5274 (2013-10-12)
-[[#^s-d9dbf20b0e62e276150cf330|SVEIKATOS DRAUDIMO ĮSTATYMO 1, 2, 6, 21 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
+SVEIKATOS DRAUDIMO ĮSTATYMO [[#^s-c8feeba7ef7b1b6022e9ed09|1]], [[#^s-1e35ac9fca046b1452466475|2]], [[#^s-1789842ff5914a7f30cbb217|6]], [[#^s-d9dbf20b0e62e276150cf330|21]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 12(1) STRAIPSNIU IR PRIEDU ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-84f83b94428d729b7ba80f4f|7 straipsnio 2 dalį]], įsigalioja 2013 m. spalio 25 d.
 
 49.
@@ -2495,7 +2495,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2013-05-16, Žin., 2013, Nr. 52-2604 (2013-05-21)
-NUTARIMAS DĖL [[latest/TAR.0F9036415DBD|LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO]], LIETUVOS RESPUBLIKOS SVEIKATOS DRAUDIMO ĮSTATYMO, [[latest/TAR.068516AF734B|LIETUVOS RESPUBLIKOS LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO]] IR JO PAKEITIMO ĮSTATYMO KAI KURIŲ NUOSTATŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+NUTARIMAS [DĖL LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO, LIETUVOS RESPUBLIKOS SVEIKATOS DRAUDIMO ĮSTATYMO, LIETUVOS RESPUBLIKOS LIGOS IR MOTINYSTĖS SOCIALINIO DRAUDIMO ĮSTATYMO IR JO PAKEITIMO ĮSTATYMO KAI KURIŲ NUOSTATŲ ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.915401DB629C)
 
 
 
@@ -2509,7 +2509,7 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1e35ac9fca046
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1388, 2014-12-04, paskelbta TAR 2014-12-12, i. k. 2014-19561
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 8, 15, 21 ir [[#^s-2daa59384e6c32cedc91b8eb|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-26859784af87ce5e32723293|8]], [[#^s-fba30b46fc759ee654a2e670|15]], [[#^s-d9dbf20b0e62e276150cf330|21]] ir [[#^s-2daa59384e6c32cedc91b8eb|30]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2519,7 +2519,7 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1789842ff5914
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1602, 2015-04-09, paskelbta TAR 2015-04-17, i. k. 2015-05896
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, [[#^s-1789842ff5914a7f30cbb217|6 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1e35ac9fca046b1452466475|2]], [[#^s-1789842ff5914a7f30cbb217|6]] straipsnių ir priedo pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2529,12 +2529,12 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1789842ff5914
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1733, 2015-05-21, paskelbta TAR 2015-05-27, i. k. 2015-08128
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 8, 22 ir [[#^s-c6e2b4bcc7e2124c990f87a7|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-26859784af87ce5e32723293|8]], [[#^s-cadbbf879394a442afc338e4|22]] ir [[#^s-c6e2b4bcc7e2124c990f87a7|23]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1984, 2015-10-20, paskelbta TAR 2015-10-27, i. k. 2015-16906
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 8, 15, 18 ir [[#^s-931f5a1629c199165a4a6bcb|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-26859784af87ce5e32723293|8]], [[#^s-fba30b46fc759ee654a2e670|15]], [[#^s-07bb2dcb3acbdd0ecb8a0b99|18]] ir [[#^s-931f5a1629c199165a4a6bcb|19]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2554,17 +2554,17 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-d259a217b89d6
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-612, 2017-07-11, paskelbta TAR 2017-07-17, i. k. 2017-12334
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 6, 8, 17, 18 ir [[#^s-931f5a1629c199165a4a6bcb|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1e35ac9fca046b1452466475|2]], [[#^s-1789842ff5914a7f30cbb217|6]], [[#^s-26859784af87ce5e32723293|8]], [[#^s-b2aba1272cdaf55c3a9c747e|17]], [[#^s-07bb2dcb3acbdd0ecb8a0b99|18]] ir [[#^s-931f5a1629c199165a4a6bcb|19]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-736, 2017-11-16, paskelbta TAR 2017-11-23, i. k. 2017-18508
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 1, 2, 9, 12-1, 15, 21, 26, 27, [[#^s-2daa59384e6c32cedc91b8eb|30 straipsnių]] pakeitimo ir Įstatymo papildymo 12-2, 26-1 straipsniais įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-c8feeba7ef7b1b6022e9ed09|1]], [[#^s-1e35ac9fca046b1452466475|2]], [[#^s-9ca53152c0abd65c27481071|9]], 12-1, [[#^s-fba30b46fc759ee654a2e670|15]], [[#^s-d9dbf20b0e62e276150cf330|21]], [[#^s-4422a531f0bd5e8041857912|26]], [[#^s-16d19790493ec3ea563df4d3|27]], [[#^s-2daa59384e6c32cedc91b8eb|30]] straipsnių pakeitimo ir Įstatymo papildymo 12-2, 26-1 straipsniais įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-874, 2017-12-12, paskelbta TAR 2017-12-20, i. k. 2017-20564
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 14, 21, [[#^s-c6e2b4bcc7e2124c990f87a7|23 straipsnių]] pakeitimo ir [[#^s-61ac2807134094714d4b8364|37 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-e86af72cdd8bf7ef8a8ceace|14]], [[#^s-d9dbf20b0e62e276150cf330|21]], [[#^s-c6e2b4bcc7e2124c990f87a7|23]] straipsnių pakeitimo ir [[#^s-61ac2807134094714d4b8364|37 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2574,22 +2574,22 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1789842ff5914
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1222, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09737
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 9, 15, [[#^s-d9dbf20b0e62e276150cf330|21 straipsnių]] pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1e35ac9fca046b1452466475|2]], [[#^s-9ca53152c0abd65c27481071|9]], [[#^s-fba30b46fc759ee654a2e670|15]], [[#^s-d9dbf20b0e62e276150cf330|21]] straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1341, 2018-06-28, paskelbta TAR 2018-06-30, i. k. 2018-10979
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6, 16, 17 ir [[#^s-07bb2dcb3acbdd0ecb8a0b99|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1789842ff5914a7f30cbb217|6]], [[#^s-3c8b8a20b49bdc41ed0d5b50|16]], [[#^s-b2aba1272cdaf55c3a9c747e|17]] ir [[#^s-07bb2dcb3acbdd0ecb8a0b99|18]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1724, 2018-12-11, paskelbta TAR 2018-12-20, i. k. 2018-20978
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6, 16, 17 ir [[#^s-07bb2dcb3acbdd0ecb8a0b99|18 straipsnių]] pakeitimo [[latest/0dff20b07c4d11e8ae2bfd1913d66d57|įstatymo Nr. XIII-1341]] [[#^s-bb01d550cf8e2b0b19145984|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1789842ff5914a7f30cbb217|6]], [[#^s-3c8b8a20b49bdc41ed0d5b50|16]], [[#^s-b2aba1272cdaf55c3a9c747e|17]] ir [[#^s-07bb2dcb3acbdd0ecb8a0b99|18]] straipsnių pakeitimo [[latest/0dff20b07c4d11e8ae2bfd1913d66d57|įstatymo Nr. XIII-1341]] [[#^s-bb01d550cf8e2b0b19145984|3 straipsnio]] pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1950, 2019-01-12, paskelbta TAR 2019-01-21, i. k. 2019-00893
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6 ir [[#^s-d9dbf20b0e62e276150cf330|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1789842ff5914a7f30cbb217|6]] ir [[#^s-d9dbf20b0e62e276150cf330|21]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2599,12 +2599,12 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1789842ff5914
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2081, 2019-04-26, paskelbta TAR 2019-05-06, i. k. 2019-07320
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2 ir [[#^s-1789842ff5914a7f30cbb217|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1e35ac9fca046b1452466475|2]] ir [[#^s-1789842ff5914a7f30cbb217|6]] straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2152, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09404
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 10 ir [[#^s-d259a217b89d63c67029a8a3|28 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-8d7c286d6e8ccf15dbb274fc|10]] ir [[#^s-d259a217b89d63c67029a8a3|28]] straipsnių pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2624,12 +2624,12 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1789842ff5914
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2698, 2019-12-17, paskelbta TAR 2019-12-30, i. k. 2019-21416
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2 ir [[#^s-1789842ff5914a7f30cbb217|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1e35ac9fca046b1452466475|2]] ir [[#^s-1789842ff5914a7f30cbb217|6]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2844, 2020-04-07, paskelbta TAR 2020-04-10, i. k. 2020-07702
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6, 8 ir [[#^s-07bb2dcb3acbdd0ecb8a0b99|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1789842ff5914a7f30cbb217|6]], [[#^s-26859784af87ce5e32723293|8]] ir [[#^s-07bb2dcb3acbdd0ecb8a0b99|18]] straipsnių pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2639,12 +2639,12 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-9ca53152c0abd
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2492, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17224
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 10, 11 ir [[#^s-fba30b46fc759ee654a2e670|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1e35ac9fca046b1452466475|2]], [[#^s-8d7c286d6e8ccf15dbb274fc|10]], [[#^s-9b064630900309b0df07ee07|11]] ir [[#^s-fba30b46fc759ee654a2e670|15]] straipsnių pakeitimo įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2588, 2019-12-03, paskelbta TAR 2019-12-12, i. k. 2019-20021
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 15, 27, 28, 30, 31, 33, 35, 36, [[#^s-02c6a35a051d882ece64af8b|39 straipsnių]], V skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 26-2 straipsniu įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-fba30b46fc759ee654a2e670|15]], [[#^s-16d19790493ec3ea563df4d3|27]], [[#^s-d259a217b89d63c67029a8a3|28]], [[#^s-2daa59384e6c32cedc91b8eb|30]], 31, [[#^s-2b7538a9cb0d923e38a33261|33]], [[#^s-fe50d40f20bbdcfaf765d402|35]], [[#^s-506719b27f127d1489d9e21c|36]], [[#^s-02c6a35a051d882ece64af8b|39]] straipsnių, V skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 26-2 straipsniu įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2654,7 +2654,7 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-07bb2dcb3acbd
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-167, 2021-01-14, paskelbta TAR 2021-01-22, i. k. 2021-01180
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1789842ff5914a7f30cbb217|6 straipsnio]] pakeitimo [[latest/a70dda90668411e9917e8e4938a80ccb|įstatymo Nr. XIII-2051]] 1 ir [[#^s-1e35ac9fca046b1452466475|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1789842ff5914a7f30cbb217|6 straipsnio]] pakeitimo [[latest/a70dda90668411e9917e8e4938a80ccb|įstatymo Nr. XIII-2051]] [[#^s-c8feeba7ef7b1b6022e9ed09|1]] ir [[#^s-1e35ac9fca046b1452466475|2]] straipsnių pakeitimo įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2669,17 +2669,17 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-8d7c286d6e8cc
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2762, 2019-12-20, paskelbta TAR 2020-01-03, i. k. 2020-00047
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 1, 2, 9, 12-1, 12-2, 15, 21, 26-1, 27 ir [[#^s-2daa59384e6c32cedc91b8eb|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-c8feeba7ef7b1b6022e9ed09|1]], [[#^s-1e35ac9fca046b1452466475|2]], [[#^s-9ca53152c0abd65c27481071|9]], 12-1, 12-2, [[#^s-fba30b46fc759ee654a2e670|15]], [[#^s-d9dbf20b0e62e276150cf330|21]], 26-1, [[#^s-16d19790493ec3ea563df4d3|27]] ir [[#^s-2daa59384e6c32cedc91b8eb|30]] straipsnių pakeitimo įstatymas
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2949, 2020-05-21, paskelbta TAR 2020-05-25, i. k. 2020-11072
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 1, 2, 9, 12-1, 12-2, 15, 21, 26-1, 27 ir [[#^s-2daa59384e6c32cedc91b8eb|30 straipsnių]] pakeitimo [[latest/12763bb02df411eabe008ea93139d588|įstatymo Nr. XIII-2762]] 9, 10 ir [[#^s-9b064630900309b0df07ee07|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-c8feeba7ef7b1b6022e9ed09|1]], [[#^s-1e35ac9fca046b1452466475|2]], [[#^s-9ca53152c0abd65c27481071|9]], 12-1, 12-2, [[#^s-fba30b46fc759ee654a2e670|15]], [[#^s-d9dbf20b0e62e276150cf330|21]], 26-1, [[#^s-16d19790493ec3ea563df4d3|27]] ir [[#^s-2daa59384e6c32cedc91b8eb|30]] straipsnių pakeitimo [[latest/12763bb02df411eabe008ea93139d588|įstatymo Nr. XIII-2762]] [[#^s-9ca53152c0abd65c27481071|9]], [[#^s-8d7c286d6e8ccf15dbb274fc|10]] ir [[#^s-9b064630900309b0df07ee07|11]] straipsnių pakeitimo įstatymas
 
 36.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-285, 2021-04-29, paskelbta TAR 2021-05-04, i. k. 2021-09686
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 9 ir [[#^s-9b064630900309b0df07ee07|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-9ca53152c0abd65c27481071|9]] ir [[#^s-9b064630900309b0df07ee07|11]] straipsnių pakeitimo įstatymas
 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2689,12 +2689,12 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-8d7c286d6e8cc
 38.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-433, 2021-06-22, paskelbta TAR 2021-07-02, i. k. 2021-15169
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 15, 21, 22 ir [[#^s-c6e2b4bcc7e2124c990f87a7|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-fba30b46fc759ee654a2e670|15]], [[#^s-d9dbf20b0e62e276150cf330|21]], [[#^s-cadbbf879394a442afc338e4|22]] ir [[#^s-c6e2b4bcc7e2124c990f87a7|23]] straipsnių pakeitimo įstatymas
 
 39.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3315, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21253
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 13-1, 28, 30 ir [[#^s-fe50d40f20bbdcfaf765d402|35 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 13-1, [[#^s-d259a217b89d63c67029a8a3|28]], [[#^s-2daa59384e6c32cedc91b8eb|30]] ir [[#^s-fe50d40f20bbdcfaf765d402|35]] straipsnių pakeitimo įstatymas
 
 40.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2704,17 +2704,17 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-b2aba1272cdaf
 41.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1042, 2022-04-21, paskelbta TAR 2022-04-28, i. k. 2022-08797
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 6, 7 ir [[#^s-26859784af87ce5e32723293|8 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1789842ff5914a7f30cbb217|6]], [[#^s-b2ff3ccc6f80ae96468f765f|7]] ir [[#^s-26859784af87ce5e32723293|8]] straipsnių pakeitimo įstatymas
 
 42.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-657, 2021-11-18, paskelbta TAR 2021-11-25, i. k. 2021-24259
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 20, 23, 29 ir [[#^s-bb2eb241cb69425bf0334688|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-3d16d54f777bba9492e9bb13|20]], [[#^s-c6e2b4bcc7e2124c990f87a7|23]], [[#^s-ee413e3c94632b8cced7a917|29]] ir [[#^s-bb2eb241cb69425bf0334688|32]] straipsnių pakeitimo įstatymas
 
 43.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-849, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27749
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 13-1, 28, 30 ir [[#^s-fe50d40f20bbdcfaf765d402|35 straipsnių]] pakeitimo [[latest/163f6c700d4211ebb74de75171d26d52|įstatymo Nr. XIII-3315]] [[#^s-4fd8d1ebac8222954e44a284|5 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 13-1, [[#^s-d259a217b89d63c67029a8a3|28]], [[#^s-2daa59384e6c32cedc91b8eb|30]] ir [[#^s-fe50d40f20bbdcfaf765d402|35]] straipsnių pakeitimo [[latest/163f6c700d4211ebb74de75171d26d52|įstatymo Nr. XIII-3315]] [[#^s-4fd8d1ebac8222954e44a284|5 straipsnio]] pakeitimo įstatymas
 
 44.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2749,7 +2749,7 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1789842ff5914
 50.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1554, 2022-11-22, paskelbta TAR 2022-12-02, i. k. 2022-24641
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 11, 21, 25 ir [[#^s-d259a217b89d63c67029a8a3|28 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-9b064630900309b0df07ee07|11]], [[#^s-d9dbf20b0e62e276150cf330|21]], [[#^s-0c1b63262d4b94431b3db178|25]] ir [[#^s-d259a217b89d63c67029a8a3|28]] straipsnių pakeitimo įstatymas
 
 51.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2759,12 +2759,12 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-b2aba1272cdaf
 52.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1688, 2022-12-15, paskelbta TAR 2022-12-21, i. k. 2022-26108
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 10 ir [[#^s-fba30b46fc759ee654a2e670|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1e35ac9fca046b1452466475|2]], [[#^s-8d7c286d6e8ccf15dbb274fc|10]] ir [[#^s-fba30b46fc759ee654a2e670|15]] straipsnių pakeitimo įstatymas
 
 53.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1942, 2023-05-11, paskelbta TAR 2023-05-23, i. k. 2023-09693
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 5, 6, 8, 9, 9-1, 10, 12, 12-1, 15, 17, 21, 22, 23, 26, 30, [[#^s-39c5b0bfebf301b7f47b6878|43 straipsnių]] ir II skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1e35ac9fca046b1452466475|2]], [[#^s-4fd8d1ebac8222954e44a284|5]], [[#^s-1789842ff5914a7f30cbb217|6]], [[#^s-26859784af87ce5e32723293|8]], [[#^s-9ca53152c0abd65c27481071|9]], 9-1, [[#^s-8d7c286d6e8ccf15dbb274fc|10]], [[#^s-bf26c8517ffd456fdd7a4039|12]], 12-1, [[#^s-fba30b46fc759ee654a2e670|15]], [[#^s-b2aba1272cdaf55c3a9c747e|17]], [[#^s-d9dbf20b0e62e276150cf330|21]], [[#^s-cadbbf879394a442afc338e4|22]], [[#^s-c6e2b4bcc7e2124c990f87a7|23]], [[#^s-4422a531f0bd5e8041857912|26]], [[#^s-2daa59384e6c32cedc91b8eb|30]], [[#^s-39c5b0bfebf301b7f47b6878|43]] straipsnių ir II skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
 
 54.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2774,22 +2774,22 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-39c5b0bfebf30
 55.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2287, 2023-11-23, paskelbta TAR 2023-11-30, i. k. 2023-23066
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 2, 5, 6, 8, 9, 9-1, 10, 12, 12-1, 15, 17, 21, 22, 23, 26, 30, [[#^s-39c5b0bfebf301b7f47b6878|43 straipsnių]] ir II skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 3-1 straipsniu [[latest/8b50fd60f96411ed9978886e85107ab2|įstatymo Nr. XIV-1942]] 1, 13, 15, 16, 17 ir [[#^s-931f5a1629c199165a4a6bcb|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-1e35ac9fca046b1452466475|2]], [[#^s-4fd8d1ebac8222954e44a284|5]], [[#^s-1789842ff5914a7f30cbb217|6]], [[#^s-26859784af87ce5e32723293|8]], [[#^s-9ca53152c0abd65c27481071|9]], 9-1, [[#^s-8d7c286d6e8ccf15dbb274fc|10]], [[#^s-bf26c8517ffd456fdd7a4039|12]], 12-1, [[#^s-fba30b46fc759ee654a2e670|15]], [[#^s-b2aba1272cdaf55c3a9c747e|17]], [[#^s-d9dbf20b0e62e276150cf330|21]], [[#^s-cadbbf879394a442afc338e4|22]], [[#^s-c6e2b4bcc7e2124c990f87a7|23]], [[#^s-4422a531f0bd5e8041857912|26]], [[#^s-2daa59384e6c32cedc91b8eb|30]], [[#^s-39c5b0bfebf301b7f47b6878|43]] straipsnių ir II skyriaus pavadinimo pakeitimo ir Įstatymo papildymo 3-1 straipsniu [[latest/8b50fd60f96411ed9978886e85107ab2|įstatymo Nr. XIV-1942]] [[#^s-c8feeba7ef7b1b6022e9ed09|1]], [[#^s-58f6f92e57a8809b1ee8d257|13]], [[#^s-fba30b46fc759ee654a2e670|15]], [[#^s-3c8b8a20b49bdc41ed0d5b50|16]], [[#^s-b2aba1272cdaf55c3a9c747e|17]] ir [[#^s-931f5a1629c199165a4a6bcb|19]] straipsnių pakeitimo įstatymas
 
 56.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2327, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25314
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 14 ir [[#^s-b2aba1272cdaf55c3a9c747e|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-e86af72cdd8bf7ef8a8ceace|14]] ir [[#^s-b2aba1272cdaf55c3a9c747e|17]] straipsnių pakeitimo įstatymas
 
 57.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2335, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25089
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 1 ir [[#^s-1789842ff5914a7f30cbb217|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-c8feeba7ef7b1b6022e9ed09|1]] ir [[#^s-1789842ff5914a7f30cbb217|6]] straipsnių pakeitimo įstatymas
 
 58.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2789, 2024-06-25, paskelbta TAR 2024-07-08, i. k. 2024-12732
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 4, 6, 7, 8, 9, 9-1, 9-2, 11, 12-1, 14, 16, 18, 20, 23, 26, 26-1, 26-2, 27, 28, 30, 31 straipsnių, V ir VI skyrių pakeitimo, Įstatymo papildymo 31-1 straipsniu ir 32, 33, 34, 35, [[#^s-506719b27f127d1489d9e21c|36 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-59f42fd038eac4a94791461e|4]], [[#^s-1789842ff5914a7f30cbb217|6]], [[#^s-b2ff3ccc6f80ae96468f765f|7]], [[#^s-26859784af87ce5e32723293|8]], [[#^s-9ca53152c0abd65c27481071|9]], 9-1, 9-2, [[#^s-9b064630900309b0df07ee07|11]], 12-1, [[#^s-e86af72cdd8bf7ef8a8ceace|14]], [[#^s-3c8b8a20b49bdc41ed0d5b50|16]], [[#^s-07bb2dcb3acbdd0ecb8a0b99|18]], [[#^s-3d16d54f777bba9492e9bb13|20]], [[#^s-c6e2b4bcc7e2124c990f87a7|23]], [[#^s-4422a531f0bd5e8041857912|26]], 26-1, 26-2, [[#^s-16d19790493ec3ea563df4d3|27]], [[#^s-d259a217b89d63c67029a8a3|28]], [[#^s-2daa59384e6c32cedc91b8eb|30]], 31 straipsnių, V ir VI skyrių pakeitimo, Įstatymo papildymo 31-1 straipsniu ir [[#^s-bb2eb241cb69425bf0334688|32]], [[#^s-2b7538a9cb0d923e38a33261|33]], [[#^s-272f0feb11e5753995653a55|34]], [[#^s-fe50d40f20bbdcfaf765d402|35]], [[#^s-506719b27f127d1489d9e21c|36]] straipsnių pripažinimo netekusiais galios įstatymas
 
 59.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2804,7 +2804,7 @@ Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-3c8b8a20b49bd
 61.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-584, 2025-11-25, paskelbta TAR 2025-12-04, i. k. 2025-20655
-Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 9, 10 ir [[#^s-4422a531f0bd5e8041857912|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos sveikatos draudimo įstatymo Nr. I-1343 [[#^s-9ca53152c0abd65c27481071|9]], [[#^s-8d7c286d6e8ccf15dbb274fc|10]] ir [[#^s-4422a531f0bd5e8041857912|26]] straipsnių pakeitimo įstatymas
 
 62.
 Lietuvos Respublikos Seimas, Įstatymas

@@ -66,7 +66,7 @@ I. Padaryti šiuos Lietuvos Respublikos Aukščiausiosios Tarybos Reglamento (Ž
 5. 60 straipsnį papildyti 7, 8, 9 punktais:
 
 
-„7) Vyriausybės teikimu svarstyti pasiūlymus ir teikti Aukščiausiajai Tarybai išvadas dėl Lietuvos Respublikos ambasadų atidarymo užsienyje;
+„7) Vyriausybės teikimu svarstyti pasiūlymus ir teikti [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC) išvadas dėl Lietuvos Respublikos ambasadų atidarymo užsienyje;
 
 
 8) Užsienio reikalų ministerijos teikimu svarstyti pasiūlymus ir teikti Aukščiausiosios Tarybos Prezidiumui išvadas dėl Lietuvos Respublikos diplomatinių atstovybių vadovų (ambasadorių, pasiuntinių, reikalų patikėtinių) skyrimo ir Lietuvos Respublikos nepaprastojo ir įgaliotojo ambasadoriaus bei Lietuvos Respublikos nepaprastojo pasiuntinio ir įgaliotojo ministro diplomatinių rangų suteikimo;
@@ -234,7 +234,7 @@ Pirmojo ir antrojo svarstymų metu visi sprendimai priimami paprasta balsavusių
 „2121 straipsnis.
 
 
-Jeigu priimant įstatymą, nutarimą arba kitokį aktą buvo padaryta Reglamento pažeidimų, Aukščiausiosios Tarybos Prezidiumas, nuolatinė komisija, frakcija ar Vyriausybė ne vėliau kaip per 1 mėnesį nuo ginčijamo akto priėmimo gali motyvuotu raštu kreiptis į Aukščiausiąją Tarybą, siūlydami panaikinti priimtą sprendimą. Gavusi tokį teikimą, Aukščiausioji Taryba artimiausiame posėdyje turi sudaryti laikinąją komisiją nurodytiems faktams ištirti. Ši komisija ne vėliau kaip per 5 dienas turi pateikti Aukščiausiajai Tarybai išvadas ir pasiūlymus.
+Jeigu priimant įstatymą, nutarimą arba kitokį aktą buvo padaryta Reglamento pažeidimų, Aukščiausiosios Tarybos Prezidiumas, nuolatinė komisija, frakcija ar Vyriausybė ne vėliau kaip per 1 mėnesį nuo ginčijamo akto priėmimo gali motyvuotu raštu kreiptis į Aukščiausiąją Tarybą, siūlydami panaikinti priimtą sprendimą. Gavusi tokį teikimą, Aukščiausioji Taryba artimiausiame posėdyje turi sudaryti laikinąją komisiją nurodytiems faktams ištirti. Ši komisija ne vėliau kaip per 5 dienas turi pateikti [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC) išvadas ir pasiūlymus.
 
 
 Tais atvejais, kai komisijos išvadose konstatuojami šiurkštūs įstatymų leidybos procedūros pažeidimai, Reglamento 101 straipsnio reikalavimų ar kitų svarbių Reglamento nuostatų esminiai pažeidimai, lėmę Aukščiausiosios Tarybos sprendimą, Aukščiausioji Taryba balsavimu sprendžia, ar panaikinti, ar palikti galioti ginčytiną aktą. Toks balsavimas turi vykti pagal Reglamento 101 straipsnio reikalavimus.

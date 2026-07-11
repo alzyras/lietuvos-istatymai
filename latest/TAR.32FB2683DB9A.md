@@ -57,7 +57,7 @@ Vilnius
 „8) verslo liudijimus turintys asmenys;“.
 
 
-4. Pakeisti 2 straipsnio 1 dalies 11 ir [[#^s-a1df7a45cb042f5a33f39799|12 punktus]] ir juos išdėstyti taip: ^s-c0ebd8483a55f25393e8b46b
+4. Pakeisti 2 straipsnio 1 dalies 11 ir 12 punktus ir juos išdėstyti taip: ^s-c0ebd8483a55f25393e8b46b
 
 
 „11) motina (tėvas) – vaiko iki trejų metų priežiūros atostogų metu, jeigu tuo laikotarpiu motina (tėvas) neturi draudžiamųjų pajamų;
@@ -209,7 +209,7 @@ Papildyti 49 straipsnį 4 dalimi:
 Pakeisti ir papildyti 54 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„Nuo šio įstatymo įsigaliojimo asmens draudžiamųjų pajamų koeficientai apskaičiuojami atskirai pagal penkerius paeiliui einančius to asmens pasirinktus palankiausius kalendorinius jo valstybinio socialinio pensijų draudimo stažo, įgyto dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu (toliau šiame straipsnyje - stažas), metus iš laikotarpio nuo 1984 metų sausio 1 dienos iki 1994 metų sausio 1 dienos ir atskirai pagal visus metus, įskaitytus į stažą nuo 1994 metų sausio 1 dienos, bet ne daugiau kaip už 20 metų iš viso. Nuo 2009 metų sausio 1 dienos asmens stažo metai, buvę iki 1994 metų sausio 1 dienos, vidurkiui skaičiuoti neįskaitomi. Asmenims, iki 2009 metų sausio 1 dienos įgijusiems teisę gauti valstybinę socialinio draudimo senatvės pensiją, valstybinės socialinio draudimo senatvės pensijos papildomos dalies apskaičiavimo formulė (21 straipsnis) sudaroma iš dviejų atskirų dalių: 0,005 x s x k x D + 0,005 x S x K x D. Senatvės pensijos papildomos dalies pirmojoje dalyje įrašomas asmens stažas ir draudžiamųjų pajamų koeficientas iki 1994 metų sausio 1 dienos, antrojoje dalyje - asmens stažas ir draudžiamųjų pajamų koeficientas nuo 1994 metų sausio 1 dienos. Asmenims, įgijusiems teisę gauti valstybinę socialinio draudimo senatvės pensiją pradedant 2009 metų sausio 1 diena ir vėliau, valstybinės socialinio draudimo senatvės pensijos papildomos dalies apskaičiavimo formulė sudaroma iš vienos dalies, kurioje įrašomas visas asmens įgytas stažas ir draudžiamųjų pajamų koeficientas, apskaičiuotas pagal asmens draudžiamąsias pajamas, turėtas nuo 1994 metų sausio 1 dienos, bet ne daugiau kaip pagal 25 to asmens pasirinktus palankiausius kalendorinius jo stažo metus (16 ir 21 straipsniai).“
+„Nuo šio įstatymo įsigaliojimo asmens draudžiamųjų pajamų koeficientai apskaičiuojami atskirai pagal penkerius paeiliui einančius to asmens pasirinktus palankiausius kalendorinius jo valstybinio socialinio pensijų draudimo stažo, įgyto dirbant pagal darbo sutartį, narystės ar tarnybos pagrindu (toliau šiame straipsnyje - stažas), metus iš laikotarpio nuo 1984 metų sausio 1 dienos iki 1994 metų sausio 1 dienos ir atskirai pagal visus metus, įskaitytus į stažą nuo 1994 metų sausio 1 dienos, bet ne daugiau kaip už 20 metų iš viso. Nuo 2009 metų sausio 1 dienos asmens stažo metai, buvę iki 1994 metų sausio 1 dienos, vidurkiui skaičiuoti neįskaitomi. Asmenims, iki 2009 metų sausio 1 dienos įgijusiems teisę gauti valstybinę socialinio draudimo senatvės pensiją, valstybinės socialinio draudimo senatvės pensijos papildomos dalies apskaičiavimo formulė (21 straipsnis) sudaroma iš dviejų atskirų dalių: 0,005 x s x k x D + 0,005 x S x K x D. Senatvės pensijos papildomos dalies pirmojoje dalyje įrašomas asmens stažas ir draudžiamųjų pajamų koeficientas iki 1994 metų sausio 1 dienos, antrojoje dalyje - asmens stažas ir draudžiamųjų pajamų koeficientas nuo 1994 metų sausio 1 dienos. Asmenims, įgijusiems teisę gauti valstybinę socialinio draudimo senatvės pensiją pradedant 2009 metų sausio 1 diena ir vėliau, valstybinės socialinio draudimo senatvės pensijos papildomos dalies apskaičiavimo formulė sudaroma iš vienos dalies, kurioje įrašomas visas asmens įgytas stažas ir draudžiamųjų pajamų koeficientas, apskaičiuotas pagal asmens draudžiamąsias pajamas, turėtas nuo 1994 metų sausio 1 dienos, bet ne daugiau kaip pagal 25 to asmens pasirinktus palankiausius kalendorinius jo stažo metus ([[#^s-5632747644ff7c7b82268ab1|16]] ir 21 straipsniai).“
 
 
 
@@ -369,10 +369,10 @@ Pakeisti 56 straipsnio 8 dalį ir ją išdėstyti taip:
 ### 19 straipsnis. Įstatymo įsigaliojimas ^s-78bbeeb386819d6ce8a229e9
 
 
-1. Šis Įstatymas, išskyrus [[#^s-c0ebd8483a55f25393e8b46b|1 straipsnio 4 dalies]] nuostatas dėl Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 12 punkto pakeitimo, įsigalioja nuo 2003 m. sausio 1 d. ^s-56f9e08cdcdfc871fce95272
+1. Šis Įstatymas, išskyrus [[#^s-c0ebd8483a55f25393e8b46b|1 straipsnio 4 dalies]] nuostatas dėl [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 12 punkto]] pakeitimo, įsigalioja nuo 2003 m. sausio 1 d. ^s-56f9e08cdcdfc871fce95272
 
 
-2. Šio Įstatymo [[#^s-c0ebd8483a55f25393e8b46b|1 straipsnio 4 dalies]] nuostatos dėl Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 12 punkto pakeitimo įsigalioja nuo 2004 m. sausio 1 d. ^s-347634dbea1f299b0420ecfc
+2. Šio Įstatymo [[#^s-c0ebd8483a55f25393e8b46b|1 straipsnio 4 dalies]] nuostatos dėl [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatymo 2 straipsnio 1 dalies 12 punkto]] pakeitimo įsigalioja nuo 2004 m. sausio 1 d. ^s-347634dbea1f299b0420ecfc
 
 
 3. Valstybinio socialinio draudimo fondo valdybos teritoriniai skyriai privalo pradėti mokėti padidintas pensijas ne vėliau kaip praėjus 3 mėnesiams nuo šio Įstatymo įsigaliojimo. Paskirtų ir padidintų pensijų dydžių skirtumas pensininkui kompensuojamas nuo šio Įstatymo įsigaliojimo dienos. ^s-a1dff2db1947a160d49a88a9

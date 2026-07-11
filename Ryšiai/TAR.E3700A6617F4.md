@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos 2011 metų valstybės biudžeto ir savivaldyb
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.FE51590E2B56|Lietuvos Respublikos 2011 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 2010 m. gruodžio 9 d. įstatymo Nr. XI-1210
+- [[latest/TAR.FE51590E2B56|Lietuvos Respublikos 2011 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - įstatymo Nr. XI-1210
 
 ## Šį įstatymą cituoja
 

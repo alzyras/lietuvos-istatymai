@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-11e4a8bb52c837b25a06946d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2002 m. lapkričio 27 d. dekretą Nr. 1985, ratifikuoja 1996 m. kovo 5 d. priimtą Europos susitarimą dėl asmenų, dalyvaujančių Europos žmogaus teisių teismo procese.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2002 m. lapkričio 27 d. dekretą Nr. 1985](https://e-tar.lt/portal/lt/legalAct/TAR.2D060F7935D2), ratifikuoja 1996 m. kovo 5 d. priimtą Europos susitarimą dėl asmenų, dalyvaujančių Europos žmogaus teisių teismo procese.
 
 
 

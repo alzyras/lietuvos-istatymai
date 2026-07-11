@@ -42,10 +42,10 @@ Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 2. Nustatyti, kad Lietuvos radijui ir televizijai vadovauja Lietuvos Respublikos Aukščiausiosios Tarybos skiriama valdyba ir generalinis direktorius. Aukščiausioji Taryba tvirtina Lietuvos radijo ir televizijos statutą (įstatus).
 
 
-3. Įpareigoti Lietuvos Respublikos Aukščiausiosios Tarybos paskirtąją valdybą per mėnesį nuo jos sudarymo parengti Lietuvos radijo ir televizijos statuto projektą ir pateikti jį tvirtinti Aukščiausiajai Tarybai.
+3. Įpareigoti Lietuvos Respublikos Aukščiausiosios Tarybos paskirtąją valdybą per mėnesį nuo jos sudarymo parengti Lietuvos radijo ir televizijos statuto projektą ir pateikti jį tvirtinti [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC).
 
 
-4. Paleisti Lietuvos Respublikos Aukščiausiosios Tarybos laikinąją komisiją Lietuvos televizijos ir radijo komiteto statusui pakeisti. Įpareigoti Aukščiausiosios Tarybos Švietimo, mokslo ir kultūros nuolatinę komisiją per savaitę pateikti Aukščiausiajai Tarybai pasiūlymus dėl Lietuvos radijo ir televizijos valdybos sudėties.
+4. Paleisti Lietuvos Respublikos Aukščiausiosios Tarybos laikinąją komisiją Lietuvos televizijos ir radijo komiteto statusui pakeisti. Įpareigoti Aukščiausiosios Tarybos Švietimo, mokslo ir kultūros nuolatinę komisiją per savaitę pateikti [Aukščiausiajai Tarybai](https://e-tar.lt/portal/lt/legalAct/TAR.39A53C2350CC) pasiūlymus [dėl Lietuvos radijo ir televizijos valdybos sudėties](https://e-tar.lt/portal/lt/legalAct/TAR.A620A64E9679).
 
 
 

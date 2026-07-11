@@ -39,10 +39,10 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio 3 dalies pakeitimas ^s-2f828760aad752a206399651
 
 
-2 straipsnio 3 dalį papildyti nauju [[#^s-567efadec25160721badb4b2|9 punktu]], buvusius 9, [[#^s-2ed89af81a9f46c15cc44a73|10 punktus]] laikyti atitinkamai 10 ir [[#^s-8023c068fbe431107c53bc08|11 punktais]] ir šią dalį išdėstyti taip:
+2 straipsnio 3 dalį papildyti nauju [[#^s-567efadec25160721badb4b2|9 punktu]], buvusius 9, 10 punktus laikyti atitinkamai 10 ir 11 punktais ir šią dalį išdėstyti taip:
 
 
-„3. Šio įstatymo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taip pat taikomi tiems valstybės pareigūnams, kuriems netaikomas [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] (toliau – valstybės pareigūnai):
+„3. Šio įstatymo nustatyti darbo užmokesčio dydžiai ir apmokėjimo sąlygos taip pat taikomi tiems valstybės pareigūnams, kuriems netaikomas [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] (toliau – [[latest/TAR.D3ED3792F52B|valstybės pareigūnai]]):
 
 
 1) prokuratūros pareigūnams; ^s-0c89304bd53c0921d4b865df

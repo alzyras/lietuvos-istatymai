@@ -178,7 +178,7 @@ BENDROSIOS NUOSTATOS
 40. Žemėlapių ir planų nomenklatūra – tarptautinė ar (ir) nacionalinė žemėlapių ir planų skaidymo lapais ir indeksavimo sistema. ^s-f8ee2447f86a99138ecd6a98
 
 
-41. Sąvoka „asmens duomenys“ suprantama taip, kaip apibrėžiama 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamente (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente). ^s-c741e3c793cc4856d773232b
+41. Sąvoka „asmens duomenys“ suprantama taip, kaip apibrėžiama 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrajame duomenų apsaugos reglamente). ^s-c741e3c793cc4856d773232b
 
 
 42. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatyme]], [[latest/TAR.6EA8AC8A483B|Lietuvos Respublikos geležinkelių transporto kodekse]], [[latest/TAR.BF41D2C35D24|Lietuvos Respublikos kelių įstatyme]], [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatyme]], [[latest/TAR.CE3B174CA7E6|Lietuvos Respublikos neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi įstatyme]], [[latest/TAR.F31E79DEC55D|Lietuvos Respublikos statybos įstatyme]], [[latest/TAR.FA13E28615F6|Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatyme]], [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]], [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatyme]], [[latest/TAR.B3CC2C0B9BD2|Lietuvos Respublikos vandens įstatyme]] ir [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatyme]]. ^s-6990c27f642e65030d032f48
@@ -492,7 +492,7 @@ Lietuvos Respublikos Vyriausybė:
 2) patikėjimo teise valdo, naudoja valstybei nuosavybės teise priklausantį turtą, kurį sudaro valstybinių geodezijos darbų produkcija ir valstybiniai erdviniai duomenys, archyvinė geodezinė ir kartografinė medžiaga (1:5 000 ir smulkesnio mastelio žemėlapiai, su valstybiniais geodeziniais tinklais susijusi archyvinė medžiaga), ir juo disponuoja, aplinkos ministro tvirtinamame valstybinių erdvinių duomenų teikimo ir naudojimo tvarkos apraše nustatyta tvarka teikia valstybinius erdvinius duomenis naudotojams; ^s-629f903ebd0f0edee00d8080
 
 
-3) aplinkos ministro tvirtinamame geodezininko kvalifikacijos pažymėjimo išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarkos apraše nustatyta tvarka išduoda geodezininko kvalifikacijos pažymėjimus, šio įstatymo [[#^s-c2421bf35d22d6c0c73dacb6|15 straipsnio 6 dalies]] 3 ir [[#^s-d4c3ff403ac0d3ac298f01f3|4 punktuose]], 7 dalies 3 punkte ir 8 dalies 5-7 punktuose nustatytais atvejais sustabdo jų galiojimą, panaikina jų galiojimo sustabdymą ir galiojimą; ^s-de4a0ea28ae75d2dd47f4da0
+3) aplinkos ministro tvirtinamame geodezininko kvalifikacijos pažymėjimo išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarkos apraše nustatyta tvarka išduoda geodezininko kvalifikacijos pažymėjimus, šio įstatymo [[#^s-c2421bf35d22d6c0c73dacb6|15 straipsnio 6 dalies]] [[#^s-cda3f930c1711223d4dd81c6|3]] ir [[#^s-4f6803a9cd83499f65c2150f|4]] punktuose, 7 dalies 3 punkte ir 8 dalies 5-7 punktuose nustatytais atvejais sustabdo jų galiojimą, panaikina jų galiojimo sustabdymą ir galiojimą; ^s-de4a0ea28ae75d2dd47f4da0
 
 
 4) teikia geodezininkams šio įstatymo [[#^s-35c8b7dfc1a20aa09f8e0d4b|15 straipsnio 5 dalies 4 punkte]] numatytus rašytinius įspėjimus; ^s-d4c3ff403ac0d3ac298f01f3
@@ -531,13 +531,13 @@ Lietuvos Respublikos Vyriausybė:
 3) teikia geodezininkams šio įstatymo [[#^s-7445bd2ab6d005f116718d2d|15 straipsnio 4 dalyje]] ir 5 dalies 1-3 punktuose numatytus rašytinius nurodymus ir įspėjimus; ^s-8a8c8a19b684c62896037162
 
 
-4) aplinkos ministro tvirtinamame geodezininko kvalifikacijos pažymėjimo išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarkos apraše nustatyta tvarka šio įstatymo [[#^s-c2421bf35d22d6c0c73dacb6|15 straipsnio 6 dalies]] 1 ir [[#^s-e7c8f54da71fc8eec41d3f43|2 punktuose]], 7 dalies 1 ir [[#^s-e7c8f54da71fc8eec41d3f43|2 punktuose]] ir 8 dalies 1-4 punktuose nustatytais atvejais sustabdo geodezininko kvalifikacijos pažymėjimų galiojimą, panaikina jų galiojimo sustabdymą ir galiojimą. ^s-5adf4a53a74ea083a2b62b6d
+4) aplinkos ministro tvirtinamame geodezininko kvalifikacijos pažymėjimo išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarkos apraše nustatyta tvarka šio įstatymo [[#^s-c2421bf35d22d6c0c73dacb6|15 straipsnio 6 dalies]] [[#^s-535a40724043bfd85359b042|1]] ir [[#^s-7b99c21cd5f542d83631c754|2]] punktuose, 7 dalies [[#^s-535a40724043bfd85359b042|1]] ir [[#^s-7b99c21cd5f542d83631c754|2]] punktuose ir 8 dalies 1-4 punktuose nustatytais atvejais sustabdo geodezininko kvalifikacijos pažymėjimų galiojimą, panaikina jų galiojimo sustabdymą ir galiojimą. ^s-5adf4a53a74ea083a2b62b6d
 
 
 3. Geodezininko veiklos priežiūrą atliekančios institucijos vadovas, suderinęs su Aplinkos ministerija, tvirtina žalos, atsiradusios dėl geodezininko veiklos pažeidimų, dydžio nustatymo tvarkos aprašą. ^s-a77ee0f4c67bfe4c46218b99
 
 
-4. Vykdydamos šio straipsnio 1 ir [[#^s-68461db988a50d1ee3086e00|2 dalyse]] nurodytas funkcijas, įgaliota institucija ir geodezininko veiklos priežiūrą atliekanti institucija laikosi asmens duomenų tvarkymo reikalavimų, įgyvendina tinkamas technines ir organizacines asmens duomenų saugumo priemones ir kitas Reglamente (ES) 2016/679 duomenų valdytojui nustatytas prievoles. ^s-5c13f53736aea23eb25feb23
+4. Vykdydamos šio straipsnio [[#^s-c97f8700982b6208dd646b0c|1]] ir [[#^s-68461db988a50d1ee3086e00|2]] dalyse nurodytas funkcijas, įgaliota institucija ir geodezininko veiklos priežiūrą atliekanti institucija laikosi asmens duomenų tvarkymo reikalavimų, įgyvendina tinkamas technines ir organizacines asmens duomenų saugumo priemones ir kitas [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) duomenų valdytojui nustatytas prievoles. ^s-5c13f53736aea23eb25feb23
 
 
 5. Įgaliotos institucijos funkcijos, nurodytos [[#^s-c97f8700982b6208dd646b0c|šio straipsnio 1 dalyje]], finansuojamos iš Aplinkos ministerijai atitinkamais metais patvirtintų Lietuvos Respublikos valstybės biudžeto asignavimų ir (arba) kitų lėšų. ^s-6b0a5933013a49be134050d0
@@ -619,7 +619,7 @@ Lietuvos Respublikos Vyriausybė:
 4. [[#^s-cfc6112d633fa61a22203d11|Šio straipsnio 3 dalies 2 punkte]] nurodytai veiklai vykdyti teminių erdvinių duomenų ir savivaldybės erdvinių duomenų valdytojai valdomus duomenis teikia neatlygintinai. ^s-4e76d6ace1bf77b1c1bef919
 
 
-5. Jeigu inžinerinės infrastruktūros objektų erdvinių duomenų Topografijos ir inžinerinės infrastruktūros informacinėje sistemoje nėra, šio įstatymo [[#^s-aa4750cc78fc7d125424a723|5 straipsnio 2 dalies]] 7 ir 8 punktuose nurodytiems darbams vykdyti teminių ir savivaldybės erdvinių duomenų ir inžinerinės infrastruktūros objektų valdytojai savo valdomus duomenis neatlygintinai teikia per Topografijos ir inžinerinės infrastruktūros informacinę sistemą. ^s-e82f19d12c8e1a6bce0afee5
+5. Jeigu inžinerinės infrastruktūros objektų erdvinių duomenų Topografijos ir inžinerinės infrastruktūros informacinėje sistemoje nėra, šio įstatymo [[#^s-aa4750cc78fc7d125424a723|5 straipsnio 2 dalies]] [[#^s-933b219d8351ed56eea29624|7]] ir [[#^s-8cd74b1a48ff0958ce93a303|8]] punktuose nurodytiems darbams vykdyti teminių ir savivaldybės erdvinių duomenų ir inžinerinės infrastruktūros objektų valdytojai savo valdomus duomenis neatlygintinai teikia per Topografijos ir inžinerinės infrastruktūros informacinę sistemą. ^s-e82f19d12c8e1a6bce0afee5
 
 
 
@@ -695,7 +695,7 @@ GEODEZIJOS IR ERDVINIŲ DUOMENŲ TVARKYMO DARBŲ ATLIKIMO SĄLYGOS, GEODEZININKO
 ### 13 straipsnis. Geodezininko profesinės kvalifikacijos pripažinimas ir geodezininko teisės laikinai ir kartais atlikti geodezijos ir erdvinių duomenų tvarkymo darbus Lietuvos Respublikoje įgyvendinimas ^s-3164b4fd57ef6c13d064497c
 
 
-1. Fizinis asmuo, kurio geodezininko profesinę kvalifikaciją, įgytą Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje ar Šveicarijos Konfederacijoje (toliau – Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos geodezininkas) arba trečiojoje valstybėje, remdamasi aplinkos ministro tvirtinamu geodezininko profesinės kvalifikacijos pripažinimo norint dirbti ar laikinai ir kartais atlikti geodezijos ir erdvinių duomenų tvarkymo darbus Lietuvos Respublikoje tvarkos aprašu, priimtu vadovaujantis Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu, pripažino ir kuriam geodezininko kvalifikacijos pažymėjimą išdavė įgaliota institucija, gali atlikti šio įstatymo 12 straipsnio 6 dalyje nurodytus geodezijos ir erdvinių duomenų tvarkymo darbus Lietuvos Respublikoje. ^s-296d883447fc7e865caa4079
+1. Fizinis asmuo, kurio geodezininko profesinę kvalifikaciją, įgytą Europos Sąjungos valstybėje narėje, Europos ekonominės erdvės valstybėje ar Šveicarijos Konfederacijoje (toliau – Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos geodezininkas) arba trečiojoje valstybėje, remdamasi aplinkos ministro tvirtinamu geodezininko profesinės kvalifikacijos pripažinimo norint dirbti ar laikinai ir kartais atlikti geodezijos ir erdvinių duomenų tvarkymo darbus Lietuvos Respublikoje tvarkos aprašu, priimtu vadovaujantis [[latest/TAR.074B2F6259F9|Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu, pripažino ir kuriam geodezininko kvalifikacijos pažymėjimą išdavė įgaliota institucija, gali atlikti šio įstatymo 12 straipsnio 6 dalyje]] nurodytus geodezijos ir erdvinių duomenų tvarkymo darbus Lietuvos Respublikoje. ^s-296d883447fc7e865caa4079
 
 
 2. Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos geodezininkas, įgaliotai institucijai pateikęs išankstinę deklaraciją dėl laikinai ir kartais atliekamų šio įstatymo [[#^s-f73faa53a6c19f94f72d2eef|12 straipsnio 6 dalyje]] nurodytų geodezijos ir erdvinių duomenų tvarkymo darbų (toliau – išankstinė deklaracija), Lietuvos Respublikoje gali laikinai ir kartais atlikti šio įstatymo [[#^s-f73faa53a6c19f94f72d2eef|12 straipsnio 6 dalyje]] nurodytus geodezijos ir erdvinių duomenų tvarkymo darbus. Išankstinės deklaracijos forma ir pateikimo tvarka nustatoma aplinkos ministro tvirtinamame geodezininko profesinės kvalifikacijos pripažinimo norint dirbti ar laikinai ir kartais atlikti geodezijos ir erdvinių duomenų tvarkymo darbus Lietuvos Respublikoje tvarkos apraše, priimtame vadovaujantis [[latest/TAR.074B2F6259F9|Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymu]]. Europos Sąjungos valstybės narės, Europos ekonominės erdvės valstybės ar Šveicarijos Konfederacijos geodezininkui, norinčiam laikinai ir kartais atlikti šio įstatymo [[#^s-f73faa53a6c19f94f72d2eef|12 straipsnio 6 dalyje]] nurodytus geodezijos ir erdvinių duomenų tvarkymo darbus Lietuvos Respublikoje, netaikoma pareiga įgyti geodezininko kvalifikacijos pažymėjimą Lietuvos Respublikoje. ^s-7e3bd2938a2108f93ce867f0
@@ -753,7 +753,7 @@ GEODEZIJOS IR ERDVINIŲ DUOMENŲ TVARKYMO DARBŲ ATLIKIMO SĄLYGOS, GEODEZININKO
 6) ne rečiau kaip kas 3 metus tobulintis neformaliojo suaugusiųjų švietimo ir tęstinio mokymosi teikėjo organizuojamuose kvalifikacijos tobulinimo kursuose, išklausydamas ne mažiau kaip 20 valandų paskaitų pagal mokymus organizuojančių asmenų patvirtintas geodezininko kvalifikacijos tobulinimo programas, suderintas su įgaliota institucija. Geodezininko kvalifikacijos tobulinimą pagrindžiantys dokumentai įgaliotai institucijai teikiami aplinkos ministro tvirtinamame geodezininko kvalifikacijos tobulinimą pagrindžiančių dokumentų teikimo tvarkos apraše nustatyta tvarka; ^s-39e810fab0516f521a7da034
 
 
-7) laikytis asmens duomenų tvarkymo reikalavimų ir įgyvendinti tinkamas technines ir organizacines asmens duomenų saugumo priemones, kitas Reglamente (ES) 2016/679 duomenų valdytojui nustatytas prievoles (kai geodezininkas yra duomenų valdytojas, kaip jis suprantamas pagal Reglamentą (ES) 2016/679). ^s-4756ca15eeb2fea7af24446d
+7) laikytis asmens duomenų tvarkymo reikalavimų ir įgyvendinti tinkamas technines ir organizacines asmens duomenų saugumo priemones, kitas [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) duomenų valdytojui nustatytas prievoles (kai geodezininkas yra duomenų valdytojas, kaip jis suprantamas pagal [Reglamentą (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj)). ^s-4756ca15eeb2fea7af24446d
 
 
 3. Geodezininkas parengtą geodezijos darbų produkciją ir erdvinius duomenis privalo patvirtinti kvalifikuotu elektroniniu parašu. Geodezininkas atsako už atliktų geodezijos ir erdvinių duomenų tvarkymo darbų ir šiems darbams atlikti naudojamų prietaisų ir įrangos atitiktį šių darbų vykdymą ir prietaisų bei įrangos naudojimą reglamentuojančių teisės aktų reikalavimams ir patvirtintų geodezijos darbų produkcijos ir erdvinių duomenų teisingumą. ^s-08441109dc9c0687f85157bf
@@ -790,10 +790,10 @@ GEODEZIJOS IR ERDVINIŲ DUOMENŲ TVARKYMO DARBŲ ATLIKIMO SĄLYGOS, GEODEZININKO
 5. Geodezininkui pateikiamas rašytinis įspėjimas, jeigu: ^s-2da83363cf0f02d79a3b3c4a
 
 
-1) įsiteisėja nutarimas skirti administracinę nuobaudą pagal Administracinių nusižengimų kodekso 3341 straipsnio 1 ar [[#^s-777f3d83f3efb4cdeb6efd54|2 dalį]] ir geodezininkas nepašalina nešiurkštaus pažeidimo, ir geodezininko veiklos priežiūrą atliekančiai institucijai per [[#^s-7445bd2ab6d005f116718d2d|šio straipsnio 4 dalyje]] nustatytą terminą nepateikia šio pažeidimo pašalinimo įrodymo dokumentų. Šiuo atveju geodezininkas įspėjamas, kad, nepašalinus šio pažeidimo ir nepateikus jo pašalinimo įrodymo dokumentų per 10 darbo dienų nuo šio įspėjimo gavimo dienos, jo kvalifikacijos pažymėjimo galiojimas bus sustabdytas; ^s-3b5a0d9622cb2e5eb6436a4d
+1) įsiteisėja nutarimas skirti administracinę nuobaudą pagal Administracinių nusižengimų kodekso 3341 straipsnio 1 ar 2 dalį ir geodezininkas nepašalina nešiurkštaus pažeidimo, ir geodezininko veiklos priežiūrą atliekančiai institucijai per [[#^s-7445bd2ab6d005f116718d2d|šio straipsnio 4 dalyje]] nustatytą terminą nepateikia šio pažeidimo pašalinimo įrodymo dokumentų. Šiuo atveju geodezininkas įspėjamas, kad, nepašalinus šio pažeidimo ir nepateikus jo pašalinimo įrodymo dokumentų per 10 darbo dienų nuo šio įspėjimo gavimo dienos, jo kvalifikacijos pažymėjimo galiojimas bus sustabdytas; ^s-3b5a0d9622cb2e5eb6436a4d
 
 
-2) įsiteisėja nutarimas skirti administracinę nuobaudą pagal Administracinių nusižengimų kodekso 3341 straipsnio 3 ar [[#^s-7445bd2ab6d005f116718d2d|4 dalį]] ir geodezininkas nepašalina šiurkštaus pažeidimo, ir geodezininko veiklos priežiūrą atliekančiai institucijai per [[#^s-7445bd2ab6d005f116718d2d|šio straipsnio 4 dalyje]] nustatytą terminą nepateikia šio pažeidimo pašalinimo įrodymo dokumentų. Šiuo atveju geodezininkas įspėjamas, kad, nepašalinus šio pažeidimo ir nepateikus jo pašalinimo įrodymo dokumentų per 10 darbo dienų nuo šio įspėjimo gavimo dienos, jo kvalifikacijos pažymėjimo galiojimas bus panaikintas; ^s-f74084de3e72d7c6b1ad83b7
+2) įsiteisėja nutarimas skirti administracinę nuobaudą pagal Administracinių nusižengimų kodekso 3341 straipsnio 3 ar 4 dalį ir geodezininkas nepašalina šiurkštaus pažeidimo, ir geodezininko veiklos priežiūrą atliekančiai institucijai per [[#^s-7445bd2ab6d005f116718d2d|šio straipsnio 4 dalyje]] nustatytą terminą nepateikia šio pažeidimo pašalinimo įrodymo dokumentų. Šiuo atveju geodezininkas įspėjamas, kad, nepašalinus šio pažeidimo ir nepateikus jo pašalinimo įrodymo dokumentų per 10 darbo dienų nuo šio įspėjimo gavimo dienos, jo kvalifikacijos pažymėjimo galiojimas bus panaikintas; ^s-f74084de3e72d7c6b1ad83b7
 
 
 3) geodezininkas per geodezininko veiklos priežiūrą atliekančios institucijos nustatytą terminą nepateikia prašomų dokumentų ir duomenų, kurių reikia informacijai apie jo padarytus pažeidimus ištirti. Šiuo atveju geodezininkas įspėjamas, kad, geodezininko veiklos priežiūrą atliekančiai institucijai nepateikus prašomų dokumentų ir duomenų, kurių reikia informacijai apie geodezininko padarytus pažeidimus ištirti, per 10 darbo dienų nuo šio įspėjimo gavimo dienos, jo kvalifikacijos pažymėjimo galiojimas bus sustabdytas; ^s-0d6d1ba388f626a2e962c6b7
@@ -817,7 +817,7 @@ GEODEZIJOS IR ERDVINIŲ DUOMENŲ TVARKYMO DARBŲ ATLIKIMO SĄLYGOS, GEODEZININKO
 4) geodezininko prašyme nurodytam terminui, kai geodezininkas įgaliotai institucijai pateikia prašymą sustabdyti geodezininko kvalifikacijos pažymėjimo galiojimą. Šiuo atveju geodezininko kvalifikacijos pažymėjimo galiojimas sustabdomas ne vėliau kaip per 5 darbo dienas nuo geodezininko prašymo gavimo įgaliotoje institucijoje dienos. ^s-4f6803a9cd83499f65c2150f
 
 
-7. Nepasibaigus [[#^s-c2421bf35d22d6c0c73dacb6|šio straipsnio 6 dalies]] 1–[[#^s-51b65878a40dd7319bb3e0c7|3 punktuose]] nustatytam terminui, geodezininko kvalifikacijos pažymėjimo galiojimo sustabdymas panaikinimas ne vėliau kaip per 5 darbo dienas, kai geodezininkas: ^s-e495d2be7cdc0f0fc33db416
+7. Nepasibaigus [[#^s-c2421bf35d22d6c0c73dacb6|šio straipsnio 6 dalies]] [[#^s-7b598bdc5a6c5fa5d0eec597|1]]–[[#^s-51b65878a40dd7319bb3e0c7|3]] punktuose nustatytam terminui, geodezininko kvalifikacijos pažymėjimo galiojimo sustabdymas panaikinimas ne vėliau kaip per 5 darbo dienas, kai geodezininkas: ^s-e495d2be7cdc0f0fc33db416
 
 
 1) per [[#^s-535a40724043bfd85359b042|šio straipsnio 6 dalies 1 punkte]] nurodytą geodezininko kvalifikacijos pažymėjimo galiojimo sustabdymo terminą geodezininko veiklos priežiūrą atliekančiai institucijai pateikia nešiurkštaus pažeidimo pašalinimo įrodymo dokumentus; ^s-7b598bdc5a6c5fa5d0eec597
@@ -939,7 +939,7 @@ Lietuvos erdvinės informacijos infrastruktūra skirta:
 ### 19 straipsnis. Lietuvos erdvinės informacijos infrastruktūros erdvinių duomenų rinkiniai ^s-8a840c14f28c5857965ea237
 
 
-1. Lietuvos erdvinės informacijos infrastruktūros erdvinių duomenų rinkinius sudaro informacinėse sistemose tvarkomi erdvinių duomenų rinkiniai, valstybės ir savivaldybių institucijų ir įstaigų valdomi erdvinių duomenų rinkiniai, taip pat kitų asmenų valdomi erdvinių duomenų rinkiniai, kurie atitinka 2010 m. lapkričio 23 d. Komisijos reglamento (ES) Nr. 1089/2010, kuriuo įgyvendinamos Europos Parlamento ir Tarybos direktyvos 2007/2/EB nuostatos dėl erdvinių duomenų rinkinių ir paslaugų sąveikumo, reikalavimus, susijusius su įsipareigojimais dėl metaduomenų, tinklo paslaugų ir sąveikumo. ^s-c26741bf0120c4b0395572a4
+1. Lietuvos erdvinės informacijos infrastruktūros erdvinių duomenų rinkinius sudaro informacinėse sistemose tvarkomi erdvinių duomenų rinkiniai, valstybės ir savivaldybių institucijų ir įstaigų valdomi erdvinių duomenų rinkiniai, taip pat kitų asmenų valdomi erdvinių duomenų rinkiniai, kurie atitinka 2010 m. lapkričio 23 d. Komisijos [reglamento (ES) Nr. 1089/2010](https://eur-lex.europa.eu/eli/reg/1089/2010/oj), kuriuo įgyvendinamos Europos Parlamento ir Tarybos direktyvos 2007/2/EB nuostatos dėl erdvinių duomenų rinkinių ir paslaugų sąveikumo, reikalavimus, susijusius su įsipareigojimais dėl metaduomenų, tinklo paslaugų ir sąveikumo. ^s-c26741bf0120c4b0395572a4
 
 
 2. Informacinėse sistemose tvarkomų erdvinių duomenų rinkinių duomenų valdytojai, valstybės ir savivaldybių institucijos ir įstaigos, valdančios erdvinių duomenų rinkinius, privalo užtikrinti, kad erdvinių duomenų rinkiniai, atitinkantys Vyriausybės patvirtintas Lietuvos erdvinės informacijos infrastruktūros erdvinių duomenų temas, būtų pateikti skelbti Lietuvos erdvinės informacijos portale. ^s-1258bd7e06f6dd8bc84fed67
@@ -1025,10 +1025,10 @@ LIETUVOS ERDVINĖS INFORMACIJOS PORTALAS
 1. Prieiga prie erdvinių duomenų per Lietuvos erdvinės informacijos portalą yra vieša, išskyrus šio įstatymo [[#^s-f25563816b26cf230ac2396a|26 straipsnio 2 dalyje]] ir [[#^s-4b6a1a28e9a906b603029c65|27 straipsnio 2 dalyje]] nurodytus atvejus. ^s-280f22007b26bc87082851bc
 
 
-2. Erdvinių duomenų paslaugos, nurodytos šio įstatymo [[#^s-9adbf56141a334cb57ce765e|21 straipsnio 1 dalies]] 1 ir 2 punktuose, per Lietuvos erdvinės informacijos portalą teikiamos neatlygintinai; šio įstatymo [[#^s-9adbf56141a334cb57ce765e|21 straipsnio 1 dalies]] 3–5 punktuose nurodytos erdvinių duomenų paslaugos teikiamos neatlygintinai, jeigu kituose įstatymuose nenustatyta kitaip. Paslaugos, nurodytos šio įstatymo [[#^s-d6651bae5b65be229c9e5893|21 straipsnio 2 dalyje]], teikiamos [[latest/TAR.85C510BA700A#^s-93fcd285ce00c0e092717c9a|Valstybės informacinių išteklių valdymo įstatymo 32 straipsnyje]] nustatyta tvarka. ^s-d0ff2a37a39a34f63c32c2e7
+2. Erdvinių duomenų paslaugos, nurodytos šio įstatymo [[#^s-9adbf56141a334cb57ce765e|21 straipsnio 1 dalies]] [[#^s-648e80ee5179a4e141e82e79|1]] ir [[#^s-1822f5ff0e3cbe70002b62f0|2]] punktuose, per Lietuvos erdvinės informacijos portalą teikiamos neatlygintinai; šio įstatymo [[#^s-9adbf56141a334cb57ce765e|21 straipsnio 1 dalies]] [[#^s-0e0c720f849797339b523609|3]]–[[#^s-c2acd56785b2c911403d4e8c|5]] punktuose nurodytos erdvinių duomenų paslaugos teikiamos neatlygintinai, jeigu kituose įstatymuose nenustatyta kitaip. Paslaugos, nurodytos šio įstatymo [[#^s-d6651bae5b65be229c9e5893|21 straipsnio 2 dalyje]], teikiamos [[latest/TAR.85C510BA700A#^s-93fcd285ce00c0e092717c9a|Valstybės informacinių išteklių valdymo įstatymo 32 straipsnyje]] nustatyta tvarka. ^s-d0ff2a37a39a34f63c32c2e7
 
 
-3. Jeigu šio įstatymo [[#^s-9adbf56141a334cb57ce765e|21 straipsnio 1 dalies]] 3–5 punktuose ir [[#^s-d0ff2a37a39a34f63c32c2e7|2 dalyje]] nurodytos erdvinių duomenų paslaugos teikiamos atlygintinai: ^s-d78b82b8165e78021b97783d
+3. Jeigu šio įstatymo [[#^s-9adbf56141a334cb57ce765e|21 straipsnio 1 dalies]] [[#^s-0e0c720f849797339b523609|3]]–[[#^s-c2acd56785b2c911403d4e8c|5]] punktuose ir [[#^s-d0ff2a37a39a34f63c32c2e7|2 dalyje]] nurodytos erdvinių duomenų paslaugos teikiamos atlygintinai: ^s-d78b82b8165e78021b97783d
 
 
 1) atlygis už informacinėse sistemose tvarkomų erdvinių duomenų rinkinių teikimą ir kitus su erdvinių duomenų tvarkymu susijusius veiksmus nustatomas [[latest/TAR.85C510BA700A|Valstybės informacinių išteklių valdymo įstatyme]] nustatyta tvarka; ^s-02e4e15b763b49ecc33ab0ac
@@ -1040,16 +1040,16 @@ LIETUVOS ERDVINĖS INFORMACIJOS PORTALAS
 4. Erdvinių duomenų rinkiniai ir paslaugos, kurių reikia Europos Sąjungos institucijoms, valstybės ir savivaldybių institucijoms, įstaigoms teisės aktuose nustatytoms funkcijoms vykdyti arba ataskaitoms pagal Europos Sąjungos teisės aktus teikti, teikiamos neatlygintinai. ^s-71efffd957ceb0291a94ea0f
 
 
-5. Lietuvos erdvinės informacijos infrastruktūros erdvinių duomenų rinkiniai ir erdvinių duomenų paslaugos, išskyrus šio įstatymo [[#^s-9adbf56141a334cb57ce765e|21 straipsnio 1 dalies]] 1 ir 2 punktuose ir [[#^s-d0ff2a37a39a34f63c32c2e7|2 dalyje]] nurodytas paslaugas, per Lietuvos erdvinės informacijos portalą naudotojams teikiamos nesudarant naudojimosi erdvinių duomenų rinkiniais sutarties, išskyrus atvejus, kai tokią sutartį sudaryti reikalauja erdvinių duomenų rinkinių teikėjai. ^s-8419c068b0828df45f4d50ea
+5. Lietuvos erdvinės informacijos infrastruktūros erdvinių duomenų rinkiniai ir erdvinių duomenų paslaugos, išskyrus šio įstatymo [[#^s-9adbf56141a334cb57ce765e|21 straipsnio 1 dalies]] [[#^s-648e80ee5179a4e141e82e79|1]] ir [[#^s-1822f5ff0e3cbe70002b62f0|2]] punktuose ir [[#^s-d0ff2a37a39a34f63c32c2e7|2 dalyje]] nurodytas paslaugas, per Lietuvos erdvinės informacijos portalą naudotojams teikiamos nesudarant naudojimosi erdvinių duomenų rinkiniais sutarties, išskyrus atvejus, kai tokią sutartį sudaryti reikalauja erdvinių duomenų rinkinių teikėjai. ^s-8419c068b0828df45f4d50ea
 
 
-6. Erdvinių duomenų rinkinių teikėjai gali būti informacinių sistemų tvarkytojai, valstybės ir savivaldybių institucijos, įstaigos, valdančios erdvinių duomenų rinkinius ar šių valstybės ir savivaldybių institucijų, įstaigų įgalioti platintojai. Erdvinių duomenų rinkinių teikėjai gali būti ir kiti asmenys, kurių erdvinių duomenų rinkiniai ir paslaugos atitinka Reglamentą (ES) 1089/2010. Asmenys, pageidaujantys sukurti erdvinius duomenis naudojantis informacinėse sistemose tvarkomų erdvinių duomenų rinkinių duomenimis, valstybės ir savivaldybių institucijų, įstaigų valdomų erdvinių duomenų rinkinių duomenimis, privalo įgyti tam teisę informacinėse sistemose tvarkomų erdvinių duomenų rinkinių duomenų valdytojų ar institucijos, įstaigos ar asmens, atsakingų už erdvinių duomenų rinkinių valdymą, nustatyta tvarka. ^s-64b85f497eb8d908d02d2dbd
+6. Erdvinių duomenų rinkinių teikėjai gali būti informacinių sistemų tvarkytojai, valstybės ir savivaldybių institucijos, įstaigos, valdančios erdvinių duomenų rinkinius ar šių valstybės ir savivaldybių institucijų, įstaigų įgalioti platintojai. Erdvinių duomenų rinkinių teikėjai gali būti ir kiti asmenys, kurių erdvinių duomenų rinkiniai ir paslaugos atitinka [Reglamentą (ES) 1089/2010](https://eur-lex.europa.eu/eli/reg/1089/2010/oj). Asmenys, pageidaujantys sukurti erdvinius duomenis naudojantis informacinėse sistemose tvarkomų erdvinių duomenų rinkinių duomenimis, valstybės ir savivaldybių institucijų, įstaigų valdomų erdvinių duomenų rinkinių duomenimis, privalo įgyti tam teisę informacinėse sistemose tvarkomų erdvinių duomenų rinkinių duomenų valdytojų ar institucijos, įstaigos ar asmens, atsakingų už erdvinių duomenų rinkinių valdymą, nustatyta tvarka. ^s-64b85f497eb8d908d02d2dbd
 
 
 7. Šiame įstatyme ir aplinkos ministro tvirtinamuose Lietuvos erdvinės informacijos portalo nuostatuose nustatyta tvarka prieiga prie erdvinių duomenų rinkinių ir (ar) erdvinių duomenų paslaugų per Lietuvos erdvinės informacijos portalą teikiama valstybių narių valstybės ir savivaldybių institucijoms ir įstaigoms, viešojo administravimo subjektams. Prieiga prie valstybių narių valstybės ir savivaldybių institucijų ir įstaigų, viešojo administravimo subjektų erdvinių duomenų rinkinių ir erdvinių duomenų paslaugų Lietuvos Respublikos naudotojams taip pat teikiama per Lietuvos erdvinės informacijos portalą, jeigu kituose įstatymuose nenustatyta kitaip. ^s-99cda180bf361dc5ffb78127
 
 
-8. Jeigu šio įstatymo [[#^s-9adbf56141a334cb57ce765e|21 straipsnio 1 dalies]] 3–5 punktuose nurodytos erdvinių duomenų paslaugos ir [[#^s-d0ff2a37a39a34f63c32c2e7|2 dalyje]] nurodytos paslaugos teikiamos atlygintinai, šių paslaugų teikėjas turi užtikrinti Lietuvos Respublikos ir kitų valstybių narių naudotojams galimybes naudotis elektroninės prekybos paslaugomis. ^s-83e38cf89058d8e543117955
+8. Jeigu šio įstatymo [[#^s-9adbf56141a334cb57ce765e|21 straipsnio 1 dalies]] [[#^s-0e0c720f849797339b523609|3]]–[[#^s-c2acd56785b2c911403d4e8c|5]] punktuose nurodytos erdvinių duomenų paslaugos ir [[#^s-d0ff2a37a39a34f63c32c2e7|2 dalyje]] nurodytos paslaugos teikiamos atlygintinai, šių paslaugų teikėjas turi užtikrinti Lietuvos Respublikos ir kitų valstybių narių naudotojams galimybes naudotis elektroninės prekybos paslaugomis. ^s-83e38cf89058d8e543117955
 
 
 
@@ -1146,13 +1146,13 @@ PRIEIGA PRIE ERDVINIŲ DUOMENŲ, JŲ TEIKIMAS IR NAUDOJIMAS
 ### 25 straipsnis. Prieigos prie erdvinių duomenų ir jų teikimo ribojimas ^s-b28f1c45033ed257324a7b64
 
 
-1. Prieiga prie erdvinių duomenų ir jų teikimas gali būti apriboti tik šio straipsnio 2, 3 ir [[#^s-063acc4020babc8383ad4bb6|5 dalyse]] nustatytais atvejais. ^s-49fd0366b9ff1fd68510b1dd
+1. Prieiga prie erdvinių duomenų ir jų teikimas gali būti apriboti tik šio straipsnio [[#^s-e937cd0950d74e5d18ab8002|2]], [[#^s-b2747ea3efca852281787849|3]] ir [[#^s-063acc4020babc8383ad4bb6|5]] dalyse nustatytais atvejais. ^s-49fd0366b9ff1fd68510b1dd
 
 
 2. Prieiga prie erdvinių duomenų naudojant šio įstatymo [[#^s-648e80ee5179a4e141e82e79|21 straipsnio 1 dalies 1 punkte]] nurodytas erdvinių duomenų paslaugas šio įstatymo nustatytais atvejais gali būti apribota, jeigu tai kenkia arba gali pakenkti tarptautiniams santykiams, nacionaliniam ir visuomenės saugumui ar valstybės gynybai. ^s-e937cd0950d74e5d18ab8002
 
 
-3. Prieiga prie erdvinių duomenų, išskyrus nurodytus [[#^s-063acc4020babc8383ad4bb6|šio straipsnio 5 dalyje]], ir šių duomenų teikimas naudojant šio įstatymo [[#^s-9adbf56141a334cb57ce765e|21 straipsnio 1 dalies]] 2–[[#^s-0da8e7a25f20da168f6bb326|5 punktuose]] nurodytas erdvinių duomenų paslaugas šio įstatymo nustatytais atvejais gali būti apriboti, jeigu tai kenkia arba gali pakenkti: ^s-b2747ea3efca852281787849
+3. Prieiga prie erdvinių duomenų, išskyrus nurodytus [[#^s-063acc4020babc8383ad4bb6|šio straipsnio 5 dalyje]], ir šių duomenų teikimas naudojant šio įstatymo [[#^s-9adbf56141a334cb57ce765e|21 straipsnio 1 dalies]] [[#^s-1822f5ff0e3cbe70002b62f0|2]]–[[#^s-c2acd56785b2c911403d4e8c|5]] punktuose nurodytas erdvinių duomenų paslaugas šio įstatymo nustatytais atvejais gali būti apriboti, jeigu tai kenkia arba gali pakenkti: ^s-b2747ea3efca852281787849
 
 
 1) tarptautiniams santykiams, nacionaliniam ir visuomenės saugumui ar valstybės gynybai; ^s-e43017d1551164fa84cbfda9
@@ -1176,10 +1176,10 @@ PRIEIGA PRIE ERDVINIŲ DUOMENŲ, JŲ TEIKIMAS IR NAUDOJIMAS
 7) aplinkos, su kuria susijusi tokia informacija, apsaugai. ^s-70dd7a82c88e258735cc32bb
 
 
-4. Šio straipsnio 2 ir [[#^s-b2747ea3efca852281787849|3 dalyse]] nurodytais atvejais apribojant prieigą prie erdvinių duomenų ir jų teikimą turi būti tenkinami visuomenės interesai. Kiekvienu konkrečiu atveju reikia palyginti, kaip būtų tenkinami visuomenės interesai atskleidus informaciją ir kaip jie būtų tenkinami apribojant ją arba suteikiant teisę ja naudotis tam tikromis sąlygomis. [[#^s-0da8e7a25f20da168f6bb326|Šio straipsnio 3 dalies 5 punkte]] nurodytu atveju turi būti laikomasi Reglamente (ES) 2016/679 nustatytų asmens duomenų tvarkymo reikalavimų. ^s-4ea6bc0e8d307495d0af1eeb
+4. Šio straipsnio [[#^s-e937cd0950d74e5d18ab8002|2]] ir [[#^s-b2747ea3efca852281787849|3]] dalyse nurodytais atvejais apribojant prieigą prie erdvinių duomenų ir jų teikimą turi būti tenkinami visuomenės interesai. Kiekvienu konkrečiu atveju reikia palyginti, kaip būtų tenkinami visuomenės interesai atskleidus informaciją ir kaip jie būtų tenkinami apribojant ją arba suteikiant teisę ja naudotis tam tikromis sąlygomis. [[#^s-0da8e7a25f20da168f6bb326|Šio straipsnio 3 dalies 5 punkte]] nurodytu atveju turi būti laikomasi [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) nustatytų asmens duomenų tvarkymo reikalavimų. ^s-4ea6bc0e8d307495d0af1eeb
 
 
-5. Prieiga prie erdvinių duomenų apie į aplinką išmetamus teršalus ir šių duomenų teikimas naudojant šio įstatymo [[#^s-9adbf56141a334cb57ce765e|21 straipsnio 1 dalies]] 2–5 punktuose nurodytas erdvinių duomenų paslaugas šio ar kitų Lietuvos Respublikos įstatymų nustatytais atvejais gali būti apriboti, jeigu tai kenkia arba gali pakenkti: ^s-063acc4020babc8383ad4bb6
+5. Prieiga prie erdvinių duomenų apie į aplinką išmetamus teršalus ir šių duomenų teikimas naudojant šio įstatymo [[#^s-9adbf56141a334cb57ce765e|21 straipsnio 1 dalies]] [[#^s-1822f5ff0e3cbe70002b62f0|2]]–[[#^s-c2acd56785b2c911403d4e8c|5]] punktuose nurodytas erdvinių duomenų paslaugas šio ar kitų Lietuvos Respublikos įstatymų nustatytais atvejais gali būti apriboti, jeigu tai kenkia arba gali pakenkti: ^s-063acc4020babc8383ad4bb6
 
 
 1) tarptautiniams santykiams, nacionaliniam ir visuomenės saugumui ar valstybės gynybai; ^s-0ff7e9b4c64256405088bfcb
@@ -1244,7 +1244,7 @@ PRIEIGA PRIE ERDVINIŲ DUOMENŲ, JŲ TEIKIMAS IR NAUDOJIMAS
 4. Teminiai erdviniai duomenys, savivaldybės erdviniai duomenys teikiami šių duomenų valdytojų nustatyta tvarka. ^s-443cab8f11ceb9eac919f1f9
 
 
-5. [[#^s-825e7ed3cf53ac76ee997aff|Šio straipsnio 2 dalies 1 punkte]] nurodyti erdviniai duomenys teikiami tik Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ir (ar) Šiaurės Atlanto sutarties organizacijos (NATO) valstybių narių naudotojams šio įstatymo [[#^s-aa4750cc78fc7d125424a723|5 straipsnio 2 dalies]] 7 ir 8 punktuose nurodytiems geodezijos ir kartografijos darbams vykdyti nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto teritorijose. ^s-d9ff6791613ac5756f3ed8e9
+5. [[#^s-825e7ed3cf53ac76ee997aff|Šio straipsnio 2 dalies 1 punkte]] nurodyti erdviniai duomenys teikiami tik Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ir (ar) Šiaurės Atlanto sutarties organizacijos (NATO) valstybių narių naudotojams šio įstatymo [[#^s-aa4750cc78fc7d125424a723|5 straipsnio 2 dalies]] [[#^s-933b219d8351ed56eea29624|7]] ir [[#^s-8cd74b1a48ff0958ce93a303|8]] punktuose nurodytiems geodezijos ir kartografijos darbams vykdyti nacionaliniam saugumui užtikrinti svarbių įrenginių ir turto teritorijose. ^s-d9ff6791613ac5756f3ed8e9
 
 
 6. [[#^s-4b6a1a28e9a906b603029c65|Šio straipsnio 2 dalies]] 2 ir 3 punktuose nurodyti erdviniai duomenys teikiami tik Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių ir (ar) Šiaurės Atlanto sutarties organizacijos (NATO) valstybių narių naudotojams. ^s-6ae99b116d7b2b80db443879
@@ -1253,7 +1253,7 @@ PRIEIGA PRIE ERDVINIŲ DUOMENŲ, JŲ TEIKIMAS IR NAUDOJIMAS
 7. [[#^s-538b0d3c408205ce919d022c|Šio straipsnio 2 dalies 4 punkte]] nurodyti erdviniai duomenys teikiami tik valstybės institucijoms ir įstaigoms teisės aktuose nustatytoms funkcijoms vykdyti. ^s-6fb41904d20aaa9d9e966d39
 
 
-8. [[#^s-4b6a1a28e9a906b603029c65|Šio straipsnio 2 dalyje]] nurodyti erdviniai duomenys teikiami šio straipsnio 5–[[#^s-6fb41904d20aaa9d9e966d39|7 dalyse]] nurodytiems naudotojams pagal duomenų teikimo sutartį, kurioje turi būti nurodytas šių duomenų naudojimo tikslas ir įrašyta, kad gauti duomenys gali būti naudojami tik sutartyje nurodytu tikslu, be teisės juos viešai skelbti bet kokiu būdu, padaryti šiuos duomenis viešai prieinamus internete ar platinti ir kitaip perduoti tretiesiems asmenims. ^s-9d7b3c00c15e25cf7c5c05c7
+8. [[#^s-4b6a1a28e9a906b603029c65|Šio straipsnio 2 dalyje]] nurodyti erdviniai duomenys teikiami šio straipsnio [[#^s-d9ff6791613ac5756f3ed8e9|5]]–[[#^s-6fb41904d20aaa9d9e966d39|7]] dalyse nurodytiems naudotojams pagal duomenų teikimo sutartį, kurioje turi būti nurodytas šių duomenų naudojimo tikslas ir įrašyta, kad gauti duomenys gali būti naudojami tik sutartyje nurodytu tikslu, be teisės juos viešai skelbti bet kokiu būdu, padaryti šiuos duomenis viešai prieinamus internete ar platinti ir kitaip perduoti tretiesiems asmenims. ^s-9d7b3c00c15e25cf7c5c05c7
 
 
 9. [[#^s-4b6a1a28e9a906b603029c65|Šio straipsnio 2 dalyje]] nurodytų erdvinių duomenų teikimo sutarties formą, suderinę su Aplinkos ministerija, tvirtina šių duomenų valdytojai. ^s-e712c18dc0c3630f34808839
@@ -1325,7 +1325,7 @@ Fiziniai asmenys, juridinių asmenų vadovai ar kiti atsakingi asmenys, pažeid�
 1. Atsakomybė už šio įstatymo 29-32 straipsniuose nurodytus pažeidimus taikoma juridiniams asmenims, juridinių asmenų padaliniams, kitoms užsienio organizacijoms ir jų padaliniams; šie pažeidimai nagrinėjami, priimti spendimai skundžiami ir vykdomi tokia pačia tvarka kaip atitinkamuose Administracinių nusižengimų kodekso straipsniuose nurodyti administraciniai nusižengimai. ^s-375901928cc7b9ef5b12c46b
 
 
-2. Topografijos ir inžinerinės infrastruktūros informacinės sistemos tvarkytojo vadovo įgalioti darbuotojai pradeda šio įstatymo 29 ir [[#^s-59577ea634f9be409eb2a47e|30 straipsniuose]] nurodytų pažeidimų teiseną, atlieka tyrimą ir surašo protokolus, nutarimus ir kitus bylos dokumentus pagal Topografijos ir inžinerinės infrastruktūros informacinės sistemos tvarkytojo vadovo patvirtintą formą. ^s-31a1c68ef49e332c68a7828d
+2. Topografijos ir inžinerinės infrastruktūros informacinės sistemos tvarkytojo vadovo įgalioti darbuotojai pradeda šio įstatymo [[#^s-252291fe0dddf4f1072e3c6e|29]] ir [[#^s-59577ea634f9be409eb2a47e|30]] straipsniuose nurodytų pažeidimų teiseną, atlieka tyrimą ir surašo protokolus, nutarimus ir kitus bylos dokumentus pagal Topografijos ir inžinerinės infrastruktūros informacinės sistemos tvarkytojo vadovo patvirtintą formą. ^s-31a1c68ef49e332c68a7828d
 
 
 3. Nacionalinės žemės tarnybos prie Aplinkos ministerijos darbuotojai pradeda šio įstatymo [[#^s-64c85e3b5ba631873d6840eb|31 straipsnyje]] ir [[#^s-cea91c90f99cfd644b9e0b83|32 straipsnyje]], išskyrus [[#^s-3a97f7b2d2b0f165c4056ada|šio straipsnio 4 dalyje]] nustatytą atvejį, nurodytų pažeidimų teiseną, atlieka tyrimą ir surašo protokolus, nutarimus ir kitus bylos dokumentus pagal Nacionalinės žemės tarnybos prie Aplinkos ministerijos vadovo patvirtintą formą. ^s-be32b2f3d18db1bbaa460716
@@ -1389,7 +1389,7 @@ priedas
 
 
 
-2007 m. kovo 14 d. Europos Parlamento ir Tarybos direktyva 2007/2/EB, sukurianti Europos bendrijos erdvinės informacijos infrastruktūrą (INSPIRE), su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos sprendimu (ES) 2024/2829.
+2007 m. kovo 14 d. Europos Parlamento ir Tarybos direktyva 2007/2/EB, sukurianti Europos bendrijos erdvinės informacijos infrastruktūrą (INSPIRE), su paskutiniais pakeitimais, padarytais 2024 m. spalio 23 d. Europos Parlamento ir Tarybos [sprendimu (ES) 2024/2829](https://eur-lex.europa.eu/eli/dec/2024/2829/oj).
 
 
 ______________
@@ -1413,12 +1413,12 @@ Nr. XI-786, 2010-04-27, Žin., 2010, Nr. 54-2649 (2010-05-11), i. k. [[latest/TA
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2171, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20859
-Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 12, 13 ir [[#^s-627c87e32e6dd450d321f808|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 [[#^s-f8649fea6d4f5d1b60af58b6|12]], [[#^s-3164b4fd57ef6c13d064497c|13]] ir [[#^s-627c87e32e6dd450d321f808|14]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-601, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12174
-Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 4, 6, 7, 8, 9, 10, 11, 18, 19, 20, 21, 23, 25 ir [[#^s-262ea2096f2a6da75745ee26|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 [[#^s-1f34225a967f6b95e251366e|4]], [[#^s-ebf05f3f231d8f6279150a5b|6]], [[#^s-b94d1bdfb01f83a49592e31e|7]], [[#^s-8a6ecbe09b8817fae250ad13|8]], [[#^s-b0776f7897556b2dea107259|9]], [[#^s-0e3c923dd78b07da3d3ef768|10]], [[#^s-abfb5e91f40192f724b8538b|11]], [[#^s-f86d3280596b695da9d53e6f|18]], [[#^s-8a840c14f28c5857965ea237|19]], [[#^s-199210ef0d73fca8876ebd76|20]], [[#^s-3f9408007bc106159af4d274|21]], [[#^s-728e36df2d67b08228514633|23]], [[#^s-b28f1c45033ed257324a7b64|25]] ir [[#^s-262ea2096f2a6da75745ee26|27]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1438,12 +1438,12 @@ Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 [[#^s-0e3c
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1321, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15649
-Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 2, 7, 9, 10, 11, 12, 13, 14, 16, 17, 19, 20, 21, 24, 27 ir [[#^s-64c85e3b5ba631873d6840eb|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 [[#^s-812a9c3757c11f5a5404bd3b|2]], [[#^s-b94d1bdfb01f83a49592e31e|7]], [[#^s-b0776f7897556b2dea107259|9]], [[#^s-0e3c923dd78b07da3d3ef768|10]], [[#^s-abfb5e91f40192f724b8538b|11]], [[#^s-f8649fea6d4f5d1b60af58b6|12]], [[#^s-3164b4fd57ef6c13d064497c|13]], [[#^s-627c87e32e6dd450d321f808|14]], [[#^s-5b48331c3970a320a7e6966e|16]], [[#^s-778d922c24e2796277906d61|17]], [[#^s-8a840c14f28c5857965ea237|19]], [[#^s-199210ef0d73fca8876ebd76|20]], [[#^s-3f9408007bc106159af4d274|21]], [[#^s-b00078f9fa7fa892a01edeba|24]], [[#^s-262ea2096f2a6da75745ee26|27]] ir [[#^s-64c85e3b5ba631873d6840eb|31]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2127, 2023-06-29, paskelbta TAR 2023-07-11, i. k. 2023-14315
-Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 9, 10, 12, 13, 14, 15, 16, 24, 27 ir [[#^s-252291fe0dddf4f1072e3c6e|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos geodezijos ir kartografijos įstatymo Nr. IX-415 [[#^s-b0776f7897556b2dea107259|9]], [[#^s-0e3c923dd78b07da3d3ef768|10]], [[#^s-f8649fea6d4f5d1b60af58b6|12]], [[#^s-3164b4fd57ef6c13d064497c|13]], [[#^s-627c87e32e6dd450d321f808|14]], [[#^s-afd2ff3fae334636c2a01c6a|15]], [[#^s-5b48331c3970a320a7e6966e|16]], [[#^s-b00078f9fa7fa892a01edeba|24]], [[#^s-262ea2096f2a6da75745ee26|27]] ir [[#^s-252291fe0dddf4f1072e3c6e|29]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas

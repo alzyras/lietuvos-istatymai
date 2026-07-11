@@ -9,8 +9,13 @@ pavadinimas: "Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldyb
 
 ## Šis įstatymas cituoja
 
-- [[latest/9af9c40028ab11eabe008ea93139d588#^s-d9433456384417a3b5e20743|Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo pakeitimo įstatymas, prireikus viršyti šio įstatymo 1 ir 2 straipsniuose
+- [[latest/9af9c40028ab11eabe008ea93139d588|Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo
+- [[latest/9af9c40028ab11eabe008ea93139d588#^s-3c16b61783994b273b0e24ff|Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 9 straipsnio 1 punktą
+- [[latest/9af9c40028ab11eabe008ea93139d588#^s-6a4e046da82b82678fe32e50|Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 2 citatos - 10 straipsnis
+- [[latest/9af9c40028ab11eabe008ea93139d588#^s-7e4daa19b8fa0bb40006c2ad|Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 1
+- [[latest/9af9c40028ab11eabe008ea93139d588#^s-98c3db23bb2547cff464581e|Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 9 straipsnį 4 punktu
+- [[latest/9af9c40028ab11eabe008ea93139d588#^s-d9433456384417a3b5e20743|Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 2
 
 ## Šį įstatymą cituoja
 
-- [[latest/9af9c40028ab11eabe008ea93139d588#^s-6bac8cc34b63b77e5693322b|Lietuvos Respublikos 2020 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - Įstatymas Nr. XIII-2819
+_Nėra._

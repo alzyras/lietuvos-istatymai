@@ -9,7 +9,8 @@ pavadinimas: "Lietuvos Respublikos valstybės gynimo tarybos įstatymo Nr. VIII-
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.4C6BD6562C91|Lietuvos Respublikos valstybės gynimo tarybos įstatymas]] - 4 straipsnio 1 dalį 16 punktu
+- [[latest/TAR.4C6BD6562C91#^s-03294c2737fdc4e2ec63e434|Lietuvos Respublikos valstybės gynimo tarybos įstatymas]] - 5 straipsnio 4 dalies 2 punktą
 
 ## Šį įstatymą cituoja
 

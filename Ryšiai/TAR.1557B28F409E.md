@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D38B48DC3EF0#^s-4eafffeb07c371169a51e1da|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas]] - 3 citatos - 1061010ISTA000X-563
-- [[latest/TAR.D38B48DC3EF0#^s-db9e7cbf35cb9c27e719d17b|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas]] - 3 citatos - 1061010ISTA000X-563
+- [[latest/TAR.D38B48DC3EF0#^s-4eafffeb07c371169a51e1da|Lietuvos Respublikos atsiskaitymų baigtinumo mokėjimo ir vertybinių popierių atsiskaitymo sistemose įstatymas]] - 2 citatos - 1061010ISTA000X-563

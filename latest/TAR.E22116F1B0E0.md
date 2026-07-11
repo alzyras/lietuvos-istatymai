@@ -110,7 +110,7 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-4. Uždarosios akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip vienas tūkstantis eurų. Uždarosios akcinės bendrovės akcijos negali būti platinamos ir jomis prekiaujama viešai, jeigu įstatymai nenustato kitaip. Uždarosios akcinės bendrovės akcijos gali būti siūlomos, jeigu tenkinamos sąlygos, nustatytos [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir (arba) 2017 m. birželio 14 d. Europos Parlamento ir Tarybos reglamente (ES) 2017/1129 dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB, kai vertybinius popierius viešai siūlant nereikalaujama paskelbti prospekto, o akcijos siūlomos tos uždarosios akcinės bendrovės akcininkams, darbuotojams, kreditoriams, profesionaliesiems investuotojams, kurie atitinka [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatyme]] nustatytus kriterijus, ir informuotiesiems investuotojams, kurie atitinka [[latest/TAR.1EABAD7265D5|Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme]] nustatytus kriterijus. ^s-8b5994691b903eaeb2e565ad
+4. Uždarosios akcinės bendrovės įstatinis kapitalas turi būti ne mažesnis kaip vienas tūkstantis eurų. Uždarosios akcinės bendrovės akcijos negali būti platinamos ir jomis prekiaujama viešai, jeigu įstatymai nenustato kitaip. Uždarosios akcinės bendrovės akcijos gali būti siūlomos, jeigu tenkinamos sąlygos, nustatytos [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] ir (arba) 2017 m. birželio 14 d. Europos Parlamento ir Tarybos [reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) dėl prospekto, kuris turi būti skelbiamas, kai vertybiniai popieriai siūlomi viešai arba įtraukiami į prekybos reguliuojamoje rinkoje sąrašą, ir kuriuo panaikinama Direktyva 2003/71/EB, kai vertybinius popierius viešai siūlant nereikalaujama paskelbti prospekto, o akcijos siūlomos tos uždarosios akcinės bendrovės akcininkams, darbuotojams, kreditoriams, profesionaliesiems investuotojams, kurie atitinka [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatyme]] nustatytus kriterijus, ir informuotiesiems investuotojams, kurie atitinka [[latest/TAR.1EABAD7265D5|Informuotiesiems investuotojams skirtų kolektyvinio investavimo subjektų įstatyme]] nustatytus kriterijus. ^s-8b5994691b903eaeb2e565ad
 Straipsnio dalies pakeitimai:
 Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
@@ -370,7 +370,7 @@ Nr. XIV-2637, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09673
 3) jeigu steigėja yra valstybė ar savivaldybė, nurodomas valstybės ar savivaldybės pavadinimas, kodas ir valstybės ar savivaldybės, kaip steigėjos ir akcininkės, teises ir pareigas įgyvendinančios institucijos pavadinimas, teisinė forma, kodas, buveinė; ^s-e78c2b0482ddf10e8d8db264
 
 
-4) jeigu steigėjai yra juridinio asmens statuso neturinčio fondo dalyviai, nurodomas fondo pavadinimas, priežiūros institucijos suteiktas kodas, jeigu jis buvo suteiktas, ir šios dalies 1 ir [[#^s-77aa4d0962814c7b26ec9891|2 punktuose]] nurodyti duomenys apie fondo valdymo įmonę; ^s-b0459cd1c43b1e2d78633a73
+4) jeigu steigėjai yra juridinio asmens statuso neturinčio fondo dalyviai, nurodomas fondo pavadinimas, priežiūros institucijos suteiktas kodas, jeigu jis buvo suteiktas, ir šios dalies [[#^s-5e88b8aca0c0b84d002607a8|1]] ir [[#^s-77aa4d0962814c7b26ec9891|2]] punktuose nurodyti duomenys apie fondo valdymo įmonę; ^s-b0459cd1c43b1e2d78633a73
 
 
 5) jeigu steigėjai yra asmenys, įsigyjantys akcijų bendrosios nuosavybės teise, be šioje dalyje nurodytų duomenų apie kiekvieną asmenį, papildomai nurodoma, kuris iš jų yra šių steigėjų įgaliotas asmuo. ^s-f5e0ce9b4936fded61419872
@@ -399,7 +399,7 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
 
 
-7. Bendrovės steigimo akto turiniui taikomi bendrovės steigimo sutarčiai [[#^s-cd7fff7ab06d30c076fb415c|šio straipsnio 2 dalyje]], išskyrus 10 ir 11 punktus, nustatyti reikalavimai. Steigimo aktui taip pat taikomos šio straipsnio 3–[[#^s-891416d5d0cac897e773d17e|6 dalys]]. ^s-4ebdc5f1a938f883e71196de
+7. Bendrovės steigimo akto turiniui taikomi bendrovės steigimo sutarčiai [[#^s-cd7fff7ab06d30c076fb415c|šio straipsnio 2 dalyje]], išskyrus 10 ir 11 punktus, nustatyti reikalavimai. Steigimo aktui taip pat taikomos šio straipsnio [[#^s-98bb84cc40e4a9d732d67172|3]]–[[#^s-891416d5d0cac897e773d17e|6]] dalys. ^s-4ebdc5f1a938f883e71196de
 
 
 8. Uždarosios akcinės bendrovės pavyzdines steigimo akto ir steigimo sutarties formas tvirtina Vyriausybė ar jos įgaliota institucija. ^s-63f24115dc599edc19c9b5de
@@ -422,7 +422,7 @@ Nr. XI-611, 2009-12-22, Žin., 2010, Nr. 1-22 (2010-01-05)
 2. Steigiamos bendrovės akcijos turi būti visiškai apmokėtos per steigimo sutartyje ar steigimo akte nustatytą terminą, kuris negali būti ilgesnis kaip 12 mėnesių nuo jo sudarymo dienos. ^s-9cc311c00228fc7a80a759b4
 
 
-3. Steigiamos bendrovės akcijų apmokėjimui taikomos šio Įstatymo [[#^s-27fbb02d78dbab76aa4e00ff|45 straipsnio]] 1, 2, 3, 7, 10, 11 ir 12 dalys. ^s-3acad2ea9b9fdec0d932a9d1
+3. Steigiamos bendrovės akcijų apmokėjimui taikomos šio Įstatymo [[#^s-27fbb02d78dbab76aa4e00ff|45 straipsnio]] [[#^s-34643ab0fa35ed10f06f4340|1]], [[#^s-4c21ea34e3a152719954b3ed|2]], [[#^s-30d389d6fb22716bad9111da|3]], [[#^s-b0c0ef52bfd98eff92348184|7]], [[#^s-0053f3ace442006c9a53f040|10]], [[#^s-cc0aaac7e92dbf0b9c346dd6|11]] ir [[#^s-6d7720e387243278dbcddfc4|12]] dalys. ^s-3acad2ea9b9fdec0d932a9d1
 
 
 4. Pradiniai įnašai už pasirašytas akcijas per steigimo sutartyje ar steigimo akte nustatytą terminą mokami į steigiamos bendrovės kaupiamąją sąskaitą. Kaupiamojoje sąskaitoje esančios lėšos gali būti naudojamos tik po bendrovės įregistravimo. ^s-dfaaed09522c32dbdfb486ea
@@ -611,7 +611,7 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 1. Dvejus metus nuo akcinės bendrovės įsteigimo kiekvienas jos sandoris dėl turto įsigijimo iš šios akcinės bendrovės steigėjo, kai sandorio arba bendra tokių sandorių suma per finansinius metus yra ne mažesnė kaip 1/10 akcinės bendrovės įstatinio kapitalo dydžio, turi būti visuotinio akcininkų susirinkimo patvirtintas kvalifikuota balsų dauguma, kuri negali būti mažesnė kaip 2/3 susirinkime dalyvaujančių akcininkų akcijų suteikiamų balsų. ^s-a8d4ed8beeb9d8daf57c41e3
 
 
-2. [[#^s-a8d4ed8beeb9d8daf57c41e3|Šio straipsnio 1 dalyje]] nurodytas turtas iki visuotinio akcininkų susirinkimo turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Turto vertinimo ataskaitai taikomi reikalavimai, nustatyti šio Įstatymo [[#^s-fd9d85e6867110511e84fe96|8 straipsnio 8 dalies]] 1, 2 ir 3 punktuose. Turto vertinimo ataskaitoje, be kita ko, turi būti išvada, ar akcinės bendrovės įsigyjamo turto vertė atitinka mokamą už jį sumą. ^s-5843a2704b126a74c1cfc7e3
+2. [[#^s-a8d4ed8beeb9d8daf57c41e3|Šio straipsnio 1 dalyje]] nurodytas turtas iki visuotinio akcininkų susirinkimo turi būti įvertintas nepriklausomo turto vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka. Turto vertinimo ataskaitai taikomi reikalavimai, nustatyti šio Įstatymo [[#^s-fd9d85e6867110511e84fe96|8 straipsnio 8 dalies]] [[#^s-9d789e97d703170e08f1c0c4|1]], [[#^s-1cb7f5ffc3197e1a355b0d9a|2]] ir [[#^s-63d4d7ab23c995c5c62507af|3]] punktuose. Turto vertinimo ataskaitoje, be kita ko, turi būti išvada, ar akcinės bendrovės įsigyjamo turto vertė atitinka mokamą už jį sumą. ^s-5843a2704b126a74c1cfc7e3
 
 
 3. [[#^s-a8d4ed8beeb9d8daf57c41e3|Šio straipsnio 1 dalyje]] nurodyto turto vertė gali būti nustatoma nesilaikant [[#^s-5843a2704b126a74c1cfc7e3|šio straipsnio 2 dalyje]] nustatytų reikalavimų. Tokiu atveju mutatis mutandis taikomas šio Įstatymo [[#^s-f8b6c645a1049b2b5f8a3a10|451 straipsnis]]. ^s-d432406a14721a5efc92d228
@@ -861,7 +861,7 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-3. Jeigu bendrovėje nesudaroma stebėtojų taryba, šiame Įstatyme stebėtojų tarybai nustatytos funkcijos kitų bendrovės organų kompetencijai nepriskiriamos, išskyrus šio Įstatymo [[#^s-80be74bd52d4c003986ef44a|34 straipsnio]] 8, 11 dalyse ir [[#^s-b4f1ea9d16938ca2a357a49b|372 straipsnio 4 dalyje]] nustatytus atvejus. ^s-f97d2e3aba3a77eb2a9ecf43
+3. Jeigu bendrovėje nesudaroma stebėtojų taryba, šiame Įstatyme stebėtojų tarybai nustatytos funkcijos kitų bendrovės organų kompetencijai nepriskiriamos, išskyrus šio Įstatymo [[#^s-80be74bd52d4c003986ef44a|34 straipsnio]] [[#^s-d5b529b03932d64e74751836|8]], [[#^s-5ca89a946ceb2315bad23058|11]] dalyse ir [[#^s-b4f1ea9d16938ca2a357a49b|372 straipsnio 4 dalyje]] nustatytus atvejus. ^s-f97d2e3aba3a77eb2a9ecf43
 Straipsnio dalies pakeitimai:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
@@ -959,7 +959,7 @@ Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 
 
 
-11) tvirtinti metinių finansinių ataskaitų rinkinį, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir [[#^s-36684b1485a62f45e68df8b7|7 punktuose]] nustatytais atvejais bendrovė likviduojama; ^s-cb02c0c1f30d475c1044dccf
+11) tvirtinti metinių finansinių ataskaitų rinkinį, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais bendrovė likviduojama; ^s-cb02c0c1f30d475c1044dccf
 Straipsnio punkto pakeitimai:
 Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
 Straipsnio punkto numeracijos pakeitimas:
@@ -1140,7 +1140,7 @@ Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 3. Akcininkas gali balsuoti raštu užpildydamas bendrąjį balsavimo biuletenį. Užpildytas bendrasis balsavimo biuletenis bendrovei gali būti perduotas elektroninių ryšių priemonėmis, jeigu užtikrinamas perduodamos informacijos saugumas ir galima nustatyti akcininko tapatybę. ^s-2e82f255f3d6c51823144d7e
 
 
-31. Akcinė bendrovė gali sudaryti galimybę akcininkams visuotiniame akcininkų susirinkime balsavimo nurodymą pateikti elektroninių ryšių priemonėmis per sąskaitų tvarkytojus ir Centrinį vertybinių popierių depozitoriumą, vadovaujantis [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymu]] (toliau – balsavimo nurodymas). ^s-70adf7a483c5eee823be0828
+31. Akcinė bendrovė gali sudaryti galimybę akcininkams visuotiniame akcininkų susirinkime balsavimo nurodymą pateikti elektroninių ryšių priemonėmis per sąskaitų tvarkytojus ir Centrinį vertybinių popierių depozitoriumą, vadovaujantis [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymu]] (toliau – [[latest/TAR.AB7AFE2F35B2|balsavimo nurodymas]]). ^s-70adf7a483c5eee823be0828
 Papildyta straipsnio dalimi:
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
@@ -1153,7 +1153,7 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
 
 
-5. Akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, privalo užtikrinti, kad akcininkui ar jo įgaliotiniui, visuotiniame akcininkų susirinkime dalyvavusiam ir balsavusiam elektroninių ryšių priemonėmis, nedelsiant būtų išsiųstas balsavimo elektroninių ryšių priemonėmis rezultato gavimo patvirtinimas ir akcininko ar jo įgaliotinio prašymu, kuris gali būti pateikiamas ne vėliau kaip per 7 dienas nuo visuotinio akcininkų susirinkimo dienos, būtų pateiktas patvirtinimas, kad jo balsas užregistruotas ir įskaitytas tinkamai (nebent jis jau turi šią informaciją). Jeigu šioje dalyje nurodytą patvirtinimą gauna juridinis asmuo, kuris, vadovaudamasis [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymu]], yra atidaręs ir tvarko akcininko asmeninę vertybinių popierių sąskaitą, jis nedelsdamas bet kokiomis priemonėmis šį patvirtinimą perduoda akcininkui ar jo įgaliotiniui. Jeigu perduodant patvirtinimą yra daugiau negu vienas juridinis asmuo, kuris, vadovaujantis [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymu]], turi teisę atidaryti ir tvarkyti finansinių priemonių asmenines sąskaitas, taikomos [[latest/TAR.AB7AFE2F35B2#^s-b1a65d990298475872fa33a9|Finansinių priemonių rinkų įstatymo 89 straipsnio]] 9–11 dalys. ^s-3f7744161ccc79daeeb66032
+5. Akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, privalo užtikrinti, kad akcininkui ar jo įgaliotiniui, visuotiniame akcininkų susirinkime dalyvavusiam ir balsavusiam elektroninių ryšių priemonėmis, nedelsiant būtų išsiųstas balsavimo elektroninių ryšių priemonėmis rezultato gavimo patvirtinimas ir akcininko ar jo įgaliotinio prašymu, kuris gali būti pateikiamas ne vėliau kaip per 7 dienas nuo visuotinio akcininkų susirinkimo dienos, būtų pateiktas patvirtinimas, kad jo balsas užregistruotas ir įskaitytas tinkamai (nebent jis jau turi šią informaciją). Jeigu šioje dalyje nurodytą patvirtinimą gauna juridinis asmuo, kuris, vadovaudamasis [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymu]], yra atidaręs ir tvarko akcininko asmeninę vertybinių popierių sąskaitą, jis nedelsdamas bet kokiomis priemonėmis šį patvirtinimą perduoda akcininkui ar jo įgaliotiniui. Jeigu perduodant patvirtinimą yra daugiau negu vienas juridinis asmuo, kuris, vadovaujantis [[latest/TAR.AB7AFE2F35B2#^s-b1a65d990298475872fa33a9|Finansinių priemonių rinkų įstatymu, turi teisę atidaryti ir tvarkyti finansinių priemonių asmenines sąskaitas, taikomos Finansinių priemonių rinkų įstatymo 89 straipsnio]] [[latest/TAR.AB7AFE2F35B2#^s-a8cd931d710aca39feba06b9|9]]–[[latest/TAR.AB7AFE2F35B2#^s-33f9397e20d3dfe35f127980|11]] dalys. ^s-3f7744161ccc79daeeb66032
 Papildyta straipsnio dalimi:
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
@@ -1233,7 +1233,7 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 4. Jeigu nė vienas akcininkas visuotiniame akcininkų susirinkime iki balsavimo pradžios nereikalauja išsamios balsavimo ataskaitos, [[#^s-02e436855b5eef3c5ce67501|šio straipsnio 3 dalis]] netaikoma. ^s-2b331024b6760da89426ff71
 
 
-5. Jeigu inspektoriaus rinkimas bendrovės įstatuose nenumatytas arba išrinktas inspektorius negali vykdyti savo pareigų, visuotinis akcininkų susirinkimas išrenka asmenį, atsakingą už šio straipsnio 2 ir [[#^s-02e436855b5eef3c5ce67501|3 dalyse]] numatytus veiksmus. ^s-758aab58324f5d699999bd6e
+5. Jeigu inspektoriaus rinkimas bendrovės įstatuose nenumatytas arba išrinktas inspektorius negali vykdyti savo pareigų, visuotinis akcininkų susirinkimas išrenka asmenį, atsakingą už šio straipsnio [[#^s-23c2ca50b248336f97bc533c|2]] ir [[#^s-02e436855b5eef3c5ce67501|3]] dalyse numatytus veiksmus. ^s-758aab58324f5d699999bd6e
 
 
 Straipsnio pakeitimai:
@@ -1280,7 +1280,7 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 
 
 1. Eilinis visuotinis akcininkų susirinkimas turi įvykti kasmet ne vėliau kaip per 5 mėnesius nuo finansinių metų pabaigos. ^s-b4df6d97f6ece9fb3cac0715
-TAR pastaba. [[#^s-b4df6d97f6ece9fb3cac0715|24 straipsnio 1 dalies]] nuostatos dėl eilinio visuotinio akcininkų susirinkimo įvykimo termino taikomos bendrovėms, kurių finansiniai metai pasibaigė 2026 m. liepos 1 d. ar vėliau.
+TAR pastaba. 24 straipsnio 1 dalies nuostatos dėl eilinio visuotinio akcininkų susirinkimo įvykimo termino taikomos bendrovėms, kurių finansiniai metai pasibaigė 2026 m. liepos 1 d. ar vėliau.
 Straipsnio dalies pakeitimai:
 Nr. XV-386, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12139
 
@@ -1383,8 +1383,8 @@ Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 
 Straipsnio pakeitimai:
 Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
-Nr. XI-393, 2009-07-22, Žin., 2009, Nr. 93-3985 (2009-08-04)(įstatymo25 straipsnio 2 ir [[#^s-ab6e6950a1a0a7fd3b190417|5 dalių]] taikymas)
-Pastaba. Pranešimas apie banko visuotinį akcininkų susirinkimą, kurio darbotvarkėje numatyti su finansinio stabilumo stiprinimo priemonių taikymu susiję klausimai, viešai skelbiamas ne vėliau kaip prieš 10 dienų iki susirinkimo dienos, o paskelbtas susirinkimo darbotvarkės projektas netikslinamas. Šiuo atveju Akcinių bendrovių įstatymo 25 straipsnio 3 ir [[#^s-ab6e6950a1a0a7fd3b190417|5 dalių]], 26 straipsnio 3 dalies nuostatos netaikomos. Be to, banko visuotiniame akcininkų susirinkime, kurio darbotvarkėje numatytas klausimas dėl banko įstatinio kapitalo padidinimo papildomais valstybės įnašais ar kiti su finansinio stabilumo stiprinimo priemonių taikymu susiję klausimai, turi teisę dalyvauti ir kalbėti Vyriausybės ar jos įgaliotos institucijos atstovas. Šis atstovas taip pat turi Akcinių bendrovių įstatymo 25 straipsnio 4 dalyje nustatytas teises.
+Nr. XI-393, 2009-07-22, Žin., 2009, Nr. 93-3985 (2009-08-04)(įstatymo25 straipsnio [[#^s-af9a321877b0e95ae66aa55b|2]] ir [[#^s-ab6e6950a1a0a7fd3b190417|5]] dalių taikymas)
+Pastaba. Pranešimas apie banko visuotinį akcininkų susirinkimą, kurio darbotvarkėje numatyti su finansinio stabilumo stiprinimo priemonių taikymu susiję klausimai, viešai skelbiamas ne vėliau kaip prieš 10 dienų iki susirinkimo dienos, o paskelbtas susirinkimo darbotvarkės projektas netikslinamas. Šiuo atveju Akcinių bendrovių įstatymo 25 straipsnio 3 ir 5 dalių, 26 straipsnio 3 dalies nuostatos netaikomos. Be to, banko visuotiniame akcininkų susirinkime, kurio darbotvarkėje numatytas klausimas dėl banko įstatinio kapitalo padidinimo papildomais valstybės įnašais ar kiti su finansinio stabilumo stiprinimo priemonių taikymu susiję klausimai, turi teisę dalyvauti ir kalbėti Vyriausybės ar jos įgaliotos institucijos atstovas. Šis atstovas taip pat turi Akcinių bendrovių įstatymo 25 straipsnio 4 dalyje nustatytas teises.
 Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 
 
@@ -1410,7 +1410,7 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 3) susirinkimo apskaitos diena ir paaiškinta, kad dalyvauti ir balsuoti visuotiniame akcininkų susirinkime turi teisę tik tie asmenys, kurie yra akcininkai visuotinio akcininkų susirinkimo apskaitos dienos pabaigoje (akcinei bendrovei); ^s-58e0b8bd64d35b2de2cd6932
 
 
-4) teisių apskaitos diena, jeigu visuotiniame akcininkų susirinkime priimami spendimai yra susiję su akcininkų turtinėmis teisėmis, nurodytomis šio Įstatymo [[#^s-eca341462c824449a7ab4a3a|15 straipsnio 1 dalies]] 1, 2, 3 ir 4 punktuose, ir paaiškinta, kad šias teises turės asmenys, kurie dešimtos darbo dienos pabaigoje po atitinkamą sprendimą priėmusio visuotinio akcininkų susirinkimo bus akcinės bendrovės akcininkai (akcinei bendrovei); ^s-bbffbf83a9b407e124f1349e
+4) teisių apskaitos diena, jeigu visuotiniame akcininkų susirinkime priimami spendimai yra susiję su akcininkų turtinėmis teisėmis, nurodytomis šio Įstatymo [[#^s-eca341462c824449a7ab4a3a|15 straipsnio 1 dalies]] [[#^s-276e2f1a7798d23f333227e8|1]], [[#^s-969fda0cebcdf1d4b05b924a|2]], [[#^s-c34d00232d9134cb6687e452|3]] ir [[#^s-d4bf316b7f458131bf900c8b|4]] punktuose, ir paaiškinta, kad šias teises turės asmenys, kurie dešimtos darbo dienos pabaigoje po atitinkamą sprendimą priėmusio visuotinio akcininkų susirinkimo bus akcinės bendrovės akcininkai (akcinei bendrovei); ^s-bbffbf83a9b407e124f1349e
 
 
 5) susirinkimo darbotvarkė; ^s-742ca2cf2cb61c912f6460a1
@@ -1446,7 +1446,7 @@ Nr. XV-386, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12139
 6. Jeigu visuotinis akcininkų susirinkimas neįvyksta, pakartotinis visuotinis akcininkų susirinkimas šaukiamas ne anksčiau kaip praėjus 5 dienoms ir ne vėliau kaip praėjus 21 dienai nuo neįvykusio visuotinio akcininkų susirinkimo dienos. Apie pakartotinį visuotinį akcininkų susirinkimą akcininkams turi būti pranešta šio straipsnio 4 dalyje nustatytu būdu ne vėliau kaip likus 5 dienoms iki pakartotinio visuotinio akcininkų susirinkimo. ^s-f621e092fb23d83a65d458e4
 
 
-7. Visuotinis akcininkų susirinkimas gali būti šaukiamas nesilaikant šio straipsnio 4, 5 ir [[#^s-f621e092fb23d83a65d458e4|6 dalyse]] nustatytų terminų, jeigu visi akcininkai, kuriems priklausančios akcijos suteikia balsavimo teisę, su tuo pasirašytinai sutinka. ^s-dc1d2f7bb29d241b6ae6dadb
+7. Visuotinis akcininkų susirinkimas gali būti šaukiamas nesilaikant šio straipsnio 4, 5 ir [[#^s-f621e092fb23d83a65d458e4|6]] dalyse nustatytų terminų, jeigu visi akcininkai, kuriems priklausančios akcijos suteikia balsavimo teisę, su tuo pasirašytinai sutinka. ^s-dc1d2f7bb29d241b6ae6dadb
 
 
 8. Pranešimas apie visuotinio akcininkų susirinkimo sušaukimą bet kuriuo šiame Įstatyme nustatytu būdu akcininkams turi būti skelbiamas, įteikiamas ar siunčiamas neatlygintinai. ^s-c3f5bcc886e8103c4bfe038a
@@ -1458,7 +1458,7 @@ Nr. XV-386, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12139
 10. Ne vėliau kaip likus 10 dienų iki visuotinio akcininkų susirinkimo akcininkams turi būti sudaryta galimybė susipažinti su bendrovės turimais dokumentais, susijusiais su susirinkimo darbotvarke, įskaitant sprendimų projektus arba, kai sprendimų priimti nereikia, – stebėtojų tarybos, valdybos (jeigu valdyba nesudaroma, – bendrovės vadovo) ir akcininkų paaiškinimus dėl jų pasiūlyto visuotinio akcininkų susirinkimo darbotvarkės klausimo, taip pat visuotinio akcininkų susirinkimo sušaukimo iniciatorių pateiktą paraišką valdybai ar šio Įstatymo [[#^s-363deb701535c20b40d06211|23 straipsnio 3 dalyje]] nustatytais atvejais bendrovės vadovui. Jeigu akcininkas raštu pageidauja, bendrovės vadovas ne vėliau kaip per 3 dienas nuo rašytinio prašymo gavimo visus susirinkimo sprendimų projektus arba, kai sprendimų priimti nereikia, – stebėtojų tarybos, valdybos (jeigu valdyba nesudaroma, – bendrovės vadovo) ir akcininkų paaiškinimus dėl jų pasiūlyto visuotinio akcininkų susirinkimo darbotvarkės klausimo įteikia akcininkui pasirašytinai ar išsiunčia registruotu laišku. Sprendimų projektuose turi būti nurodyta, kieno iniciatyva jie yra pateikti. Jei sprendimo projekto iniciatorius pateikė sprendimo projekto pagrindimą, jis turi būti pridėtas prie sprendimo projekto. ^s-d6c588551a79c0ca1e5ff3d1
 
 
-11. Šio straipsnio 3, 4, 5, 6, 7 ir [[#^s-d6c588551a79c0ca1e5ff3d1|10 dalys]] netaikomos akcinėms bendrovėms, kurių akcijomis leista prekiauti reguliuojamoje rinkoje. ^s-83497c98023dd46ca70760d6
+11. Šio straipsnio 3, 4, 5, [[#^s-f621e092fb23d83a65d458e4|6]], [[#^s-dc1d2f7bb29d241b6ae6dadb|7]] ir [[#^s-d6c588551a79c0ca1e5ff3d1|10]] dalys netaikomos akcinėms bendrovėms, kurių akcijomis leista prekiauti reguliuojamoje rinkoje. ^s-83497c98023dd46ca70760d6
 
 
 Straipsnio pakeitimai:
@@ -1493,7 +1493,7 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 6) interneto svetainės, kurioje bus pateikta šio Įstatymo 262 straipsnyje nurodyta informacija, adresas. ^s-2497e0777eea7150a4fa4da0
 
 
-2. Akcininkų teisių, išvardytų šio straipsnio 1 dalies 1, 2 ir [[#^s-58e0b8bd64d35b2de2cd6932|3 punktuose]], įgyvendinimo procedūros, kurių privalo laikytis akcininkai, pranešime apie visuotinio akcininkų susirinkimo sušaukimą gali būti nenurodomos, jeigu šiame pranešime nurodyta, kad tos procedūros yra pateiktos akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje. ^s-2b4d0be627c42b2b9e25d826
+2. Akcininkų teisių, išvardytų šio straipsnio 1 dalies [[#^s-b9ce04b23cf4dac3c24162f6|1]], [[#^s-6f0247ef1bf23f960ff74f2e|2]] ir [[#^s-58e0b8bd64d35b2de2cd6932|3]] punktuose, įgyvendinimo procedūros, kurių privalo laikytis akcininkai, pranešime apie visuotinio akcininkų susirinkimo sušaukimą gali būti nenurodomos, jeigu šiame pranešime nurodyta, kad tos procedūros yra pateiktos akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje. ^s-2b4d0be627c42b2b9e25d826
 
 
 3. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, pranešimas apie šaukiamą visuotinį akcininkų susirinkimą ne vėliau kaip likus 21 dienai iki visuotinio akcininkų susirinkimo turi būti paskelbtas viešai Lietuvos Respublikoje ir visose kitose Europos Sąjungos valstybėse narėse, taip pat Europos ekonominei erdvei priklausančiose valstybėse [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]] nustatyta tvarka. Pranešimas apie visuotinio akcininkų susirinkimo sušaukimą papildomai gali būti skelbiamas akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, įstatuose nurodytame šaltinyje, jeigu toks papildomas skelbimo būdas nurodytas įstatuose. ^s-e40ff9e10d570b392f7a9bec
@@ -1545,7 +1545,7 @@ Nr. XV-386, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12139
 
 
 
-5. Ne vėliau kaip per 7 dienas po visuotinio akcininkų susirinkimo akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje pateikia akcininkams balsavimo rezultatus, nustatytus pagal šio Įstatymo [[#^s-ec16e88703a2b50a3d9ca644|22 straipsnio]] 2 ir 3 dalis. ^s-1e23ddc9914945526b470272
+5. Ne vėliau kaip per 7 dienas po visuotinio akcininkų susirinkimo akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, interneto svetainėje pateikia akcininkams balsavimo rezultatus, nustatytus pagal šio Įstatymo [[#^s-ec16e88703a2b50a3d9ca644|22 straipsnio]] [[#^s-23c2ca50b248336f97bc533c|2]] ir [[#^s-02e436855b5eef3c5ce67501|3]] dalis. ^s-1e23ddc9914945526b470272
 
 
 Įstatymas papildytas straipsniu:
@@ -1843,10 +1843,10 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
 
 
-5. Bendrasis balsavimo biuletenis laikomas galiojančiu ir negali būti atšauktas, jeigu jis atitinka šio straipsnio 3 ir [[#^s-84e83a3d090b576de7fc8b15|4 dalyse]] nustatytus reikalavimus ir bendrovė jį gavo iki visuotinio akcininkų susirinkimo. ^s-3824a01380b47378b3f4c008
+5. Bendrasis balsavimo biuletenis laikomas galiojančiu ir negali būti atšauktas, jeigu jis atitinka šio straipsnio [[#^s-b54403590491cc42e22391e8|3]] ir [[#^s-84e83a3d090b576de7fc8b15|4]] dalyse nustatytus reikalavimus ir bendrovė jį gavo iki visuotinio akcininkų susirinkimo. ^s-3824a01380b47378b3f4c008
 
 
-6. Jeigu bendrasis balsavimo biuletenis neatitinka šio straipsnio 3 ir [[#^s-84e83a3d090b576de7fc8b15|4 dalyse]] nustatytų reikalavimų, laikoma, kad akcininkas iš anksto nebalsavo. ^s-46b8725f6ce8f38ad4800ab7
+6. Jeigu bendrasis balsavimo biuletenis neatitinka šio straipsnio [[#^s-b54403590491cc42e22391e8|3]] ir [[#^s-84e83a3d090b576de7fc8b15|4]] dalyse nustatytų reikalavimų, laikoma, kad akcininkas iš anksto nebalsavo. ^s-46b8725f6ce8f38ad4800ab7
 
 
 7. Jeigu bendrasis balsavimo biuletenis užpildytas taip, kad atskiru klausimu neįmanoma nustatyti akcininko valios, laikoma, kad akcininkas šiuo klausimu iš anksto nebalsavo. ^s-e56936f9f836a4e08f11c478
@@ -1896,7 +1896,7 @@ Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 5. [[#^s-c552bc30950c7e3a7ea9966d|Šio straipsnio 1 dalyje]] nurodytam įgaliojimui, [[#^s-7c8a915c2459a448a8726434|šio straipsnio 2 dalyje]] nurodytam pranešimui apie duotą įgaliojimą ir balsavimo nurodymų pateikimui įgaliotiniui gali būti taikomi tik tokie reikalavimai, kurie yra būtini akcininko ir įgaliotinio tapatybei nustatyti ir balsavimo nurodymų turiniui patikrinti, ir tik tuo atveju, kai jie yra proporcingi šiems tikslams pasiekti. ^s-aeb57dc36491c860af384d1d
 
 
-6. Šio straipsnio 1–[[#^s-aeb57dc36491c860af384d1d|5 dalys]] mutatis mutandis taikomos ir įgaliojimo atšaukimui. ^s-b36d309a11885a6f2e92dd50
+6. Šio straipsnio [[#^s-c552bc30950c7e3a7ea9966d|1]]–[[#^s-aeb57dc36491c860af384d1d|5]] dalys mutatis mutandis taikomos ir įgaliojimo atšaukimui. ^s-b36d309a11885a6f2e92dd50
 
 
 7. Jeigu akcininko turimos akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, akcijos yra laikomos keliose vertybinių popierių sąskaitose, akcininkas gali įgalioti po atskirą įgaliotinį dalyvauti ir balsuoti visuotiniame akcininkų susirinkime pagal kiekvienoje vertybinių popierių sąskaitoje laikomų akcijų suteikiamas teises. Tokiu atveju akcininko duoti įgaliojimai galioja vienam visuotiniam akcininkų susirinkimui. ^s-0855bd200cc264d919a061b4
@@ -2213,7 +2213,7 @@ Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 
 
 
-7. Kai bendrovės, kurioje stebėtojų taryba nesudaroma, įstatuose nustatyta, kad valdyba atlieka šio Įstatymo [[#^s-5ca89a946ceb2315bad23058|34 straipsnio 11 dalyje]] nustatytas priežiūros funkcijas, daugiau kaip pusė valdybos narių turi būti nesusiję darbo santykiais su bendrove. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, ne mažiau kaip 1/3 valdybos, atliekančios šio Įstatymo [[#^s-5ca89a946ceb2315bad23058|34 straipsnio 11 dalyje]] nustatytas priežiūros funkcijas, nariai turi atitikti šio Įstatymo [[#^s-fc50b225e268a26d1c237f01|31 straipsnio 8 dalies]] 1, 3, 4, 5 ir 6 punktuose nurodytus reikalavimus ir ne mažiau kaip metus nebūti bendrovės, patronuojančios bendrovės ar dukterinės bendrovės vadovu ar stebėtojų tarybos nariu, ar akcininku, kuriam priklausančios akcijos suteikia ne mažiau kaip 1/5 balsų visuotiniame akcininkų susirinkime. Reikalavimas ne mažiau kaip metus nebūti bendrovės, patronuojančios bendrovės ar dukterinės bendrovės stebėtojų tarybos nariu netaikomas, kai bendrovės įstatai keičiami dėl valdybos, atliekančios šio Įstatymo [[#^s-5ca89a946ceb2315bad23058|34 straipsnio 11 dalyje]] nustatytas priežiūros funkcijas, sudarymo. ^s-6be63a1863abfbda41d2bb82
+7. Kai bendrovės, kurioje stebėtojų taryba nesudaroma, įstatuose nustatyta, kad valdyba atlieka šio Įstatymo [[#^s-5ca89a946ceb2315bad23058|34 straipsnio 11 dalyje]] nustatytas priežiūros funkcijas, daugiau kaip pusė valdybos narių turi būti nesusiję darbo santykiais su bendrove. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, ne mažiau kaip 1/3 valdybos, atliekančios šio Įstatymo [[#^s-5ca89a946ceb2315bad23058|34 straipsnio 11 dalyje]] nustatytas priežiūros funkcijas, nariai turi atitikti šio Įstatymo [[#^s-fc50b225e268a26d1c237f01|31 straipsnio 8 dalies]] 1, [[#^s-a621e8c112ac16d99dcaf286|3]], [[#^s-e927ac8a6f8983dd52d77b3a|4]], [[#^s-81578798d72eaa1c8c4d40af|5]] ir [[#^s-df58c601cc36d3d6aa4a36d2|6]] punktuose nurodytus reikalavimus ir ne mažiau kaip metus nebūti bendrovės, patronuojančios bendrovės ar dukterinės bendrovės vadovu ar stebėtojų tarybos nariu, ar akcininku, kuriam priklausančios akcijos suteikia ne mažiau kaip 1/5 balsų visuotiniame akcininkų susirinkime. Reikalavimas ne mažiau kaip metus nebūti bendrovės, patronuojančios bendrovės ar dukterinės bendrovės stebėtojų tarybos nariu netaikomas, kai bendrovės įstatai keičiami dėl valdybos, atliekančios šio Įstatymo [[#^s-5ca89a946ceb2315bad23058|34 straipsnio 11 dalyje]] nustatytas priežiūros funkcijas, sudarymo. ^s-6be63a1863abfbda41d2bb82
 Straipsnio dalies pakeitimai:
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
 Nr. XIII-3183, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15506
@@ -2567,7 +2567,7 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 9. Neteko galios nuo 2008 m. lapkričio 25 d. ^s-7ffe4d7397c132e01aaeb72b
 
 
-10. Bendrovės vadovas veikia bendrovės vardu ir turi teisę vienvaldiškai sudaryti sandorius, išskyrus atvejus, kai bendrovės įstatuose nustatytas kiekybinis atstovavimas bendrovei. Šio Įstatymo [[#^s-1bd57d79708e9842d2595857|34 straipsnio 4 dalies]] 3, 4, 5 ir 6 punktuose nurodytus sandorius bendrovės vadovas gali sudaryti, kai yra bendrovės valdybos (jeigu bendrovėje valdyba sudaroma) sprendimas šiuos sandorius sudaryti. Jeigu bendrovėje valdyba nesudaroma, bendrovės vadovas priima sprendimus ir atlieka veiksmus, nustatytus šio Įstatymo [[#^s-80be74bd52d4c003986ef44a|34 straipsnio]] 1, 3, 4, 5, 6, 9, 10, 13 ir [[#^s-6cf0488236f06d752b52b429|14 dalyse]]. Bendrovės, kurioje nesudaroma nei valdyba, nei stebėtojų taryba, vadovas priima sprendimus ir atlieka veiksmus, nustatytus šio Įstatymo [[#^s-08e4912a58a753751f42e23f|32 straipsnio 1 dalies 1 punkte]]. ^s-b4fe3fb1dadf554bfaa94a67
+10. Bendrovės vadovas veikia bendrovės vardu ir turi teisę vienvaldiškai sudaryti sandorius, išskyrus atvejus, kai bendrovės įstatuose nustatytas kiekybinis atstovavimas bendrovei. Šio Įstatymo [[#^s-1bd57d79708e9842d2595857|34 straipsnio 4 dalies]] [[#^s-f905c2efe0e4b3062cf3d5f9|3]], [[#^s-249947e4dfae7e1fd1f8dcce|4]], [[#^s-d1a88b1b17b0774c16060d25|5]] ir [[#^s-9fde75d6cc03155d7ff80c08|6]] punktuose nurodytus sandorius bendrovės vadovas gali sudaryti, kai yra bendrovės valdybos (jeigu bendrovėje valdyba sudaroma) sprendimas šiuos sandorius sudaryti. Jeigu bendrovėje valdyba nesudaroma, bendrovės vadovas priima sprendimus ir atlieka veiksmus, nustatytus šio Įstatymo [[#^s-80be74bd52d4c003986ef44a|34 straipsnio]] [[#^s-04d81f385210555c0729f392|1]], [[#^s-bc4be1391c8ba0facfde60ee|3]], [[#^s-1bd57d79708e9842d2595857|4]], [[#^s-44e9d59d35b010854bc5e96e|5]], [[#^s-4588be8fe40eda5f8a471259|6]], [[#^s-23fe946ccf7c2986c331b434|9]], [[#^s-8ed8386eb13284dc739e9c6f|10]], [[#^s-66270e28a2199ee03fc0aa03|13]] ir [[#^s-7235587512233ec83a973d25|14]] dalyse. Bendrovės, kurioje nesudaroma nei valdyba, nei stebėtojų taryba, vadovas priima sprendimus ir atlieka veiksmus, nustatytus šio Įstatymo [[#^s-08e4912a58a753751f42e23f|32 straipsnio 1 dalies 1 punkte]]. ^s-b4fe3fb1dadf554bfaa94a67
 Straipsnio dalies pakeitimai:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
@@ -2781,7 +2781,7 @@ Nr. XIII-356, 2017-05-11, paskelbta TAR 2017-05-22, i. k. 2017-08566
 ### 372 straipsnis. Akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, sandoriams su susijusia šalimi taikomi reikalavimai ^s-4f8a786bd65265371521402f
 
 
-1. Šio straipsnio nuostatos, išskyrus šio straipsnio 10, 11 ir [[#^s-f163b094f68ab044bf431e02|12 dalis]], taikomos akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, sandoriams dėl turto investavimo, įsigijimo, perleidimo, nuomos, įkeitimo ir hipotekos, prievolių įvykdymo laidavimo ar garantavimo, kai sandorio arba bendra tokių sandorių suma per finansinius metus viršija 1/10 akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vėliausiai sudarytame balanse nurodytos turto vertės, su susijusia šalimi, jeigu jie: ^s-1d79e3278423307cf545303d
+1. Šio straipsnio nuostatos, išskyrus šio straipsnio [[#^s-b6a312377cedc267371fe914|10]], [[#^s-dc936a58dee0d1958ca62071|11]] ir [[#^s-f163b094f68ab044bf431e02|12]] dalis, taikomos akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, sandoriams dėl turto investavimo, įsigijimo, perleidimo, nuomos, įkeitimo ir hipotekos, prievolių įvykdymo laidavimo ar garantavimo, kai sandorio arba bendra tokių sandorių suma per finansinius metus viršija 1/10 akcinės bendrovės, kurios akcijomis leista prekiauti reguliuojamoje rinkoje, vėliausiai sudarytame balanse nurodytos turto vertės, su susijusia šalimi, jeigu jie: ^s-1d79e3278423307cf545303d
 
 
 1) sudaromi neįprastinėmis rinkos sąlygomis ir (ar) ^s-dc9d6b2b6b26dcab1f51e3a5
@@ -3059,10 +3059,10 @@ Nr. XV-386, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12139
 4. Kiti rezervai sudaromi iš paskirstytinojo pelno ir naudojami konkretiems bendrovės tikslams įgyvendinti. Jie gali būti naudojami bendrovės nuostoliams padengti ir įstatiniam kapitalui didinti. ^s-5dd1024625ceec4229359dc3
 
 
-5. Šio straipsnio 3 ir [[#^s-5dd1024625ceec4229359dc3|4 dalyse]] nurodyti rezervai gali būti sudaromi tik po to, kai yra atliktas šio Įstatymo [[#^s-4fea26f5de25bc68e8140448|59 straipsnio 5 dalyje]] nustatyto dydžio atskaitymas į privalomąjį rezervą. ^s-c63b1e256d5aba616541ee63
+5. Šio straipsnio [[#^s-79aeeac1e152c63e40c6b4cb|3]] ir [[#^s-5dd1024625ceec4229359dc3|4]] dalyse nurodyti rezervai gali būti sudaromi tik po to, kai yra atliktas šio Įstatymo [[#^s-4fea26f5de25bc68e8140448|59 straipsnio 5 dalyje]] nustatyto dydžio atskaitymas į privalomąjį rezervą. ^s-c63b1e256d5aba616541ee63
 
 
-6. Jeigu šio straipsnio 3 ir [[#^s-5dd1024625ceec4229359dc3|4 dalyse]] nurodyti rezervai nepanaudoti ir nenumatoma jų panaudoti, skirstant kitų finansinių metų pelną jie gali būti perskirstyti. ^s-84b4c8250c626c5a8d321158
+6. Jeigu šio straipsnio [[#^s-79aeeac1e152c63e40c6b4cb|3]] ir [[#^s-5dd1024625ceec4229359dc3|4]] dalyse nurodyti rezervai nepanaudoti ir nenumatoma jų panaudoti, skirstant kitų finansinių metų pelną jie gali būti perskirstyti. ^s-84b4c8250c626c5a8d321158
 
 
 7. Perkainojimo rezervas – ilgalaikio materialiojo turto, nematerialiojo turto ir finansinio turto vertės padidėjimo (sumažėjimo) suma, gauta perkainojus turtą pagal taikomus finansinės atskaitomybės standartus. Perkainojimo rezervu arba jo dalimi gali būti didinamas įstatinis kapitalas. Perkainojimo rezervo nei tiesiogiai, nei netiesiogiai paskirstyti negalima. ^s-fa04d147996e99ea15b992d5
@@ -3524,7 +3524,7 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 9. Kai bendrovės akcijas pasirašo asmuo, veikiantis savo vardu, bet dėl šios bendrovės interesų, laikoma, kad akcijų pasirašymo sutartį sudaro pats asmuo. ^s-77a1b6478ef8d21b0dcb333e
 
 
-10. Už šio straipsnio 8 ir [[#^s-77a1b6478ef8d21b0dcb333e|9 dalyse]] nurodytų sąlygų laikymąsi yra atsakingas bendrovės vadovas. ^s-a3d39305b5f17361305823c3
+10. Už šio straipsnio [[#^s-fa8856d0d4b5143d79c268b8|8]] ir [[#^s-77a1b6478ef8d21b0dcb333e|9]] dalyse nurodytų sąlygų laikymąsi yra atsakingas bendrovės vadovas. ^s-a3d39305b5f17361305823c3
 
 
 Straipsnio pakeitimai:
@@ -3620,7 +3620,7 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 2) atsirado naujų svarbių aplinkybių, kurios iki akcijų apmokėjimo nepiniginiu įnašu dienos ir apmokėjimo nepiniginiu įnašu dieną labai pakeistų nepiniginio įnašo vertę, nustatytą [[#^s-4be1398d0d73acd3a209cd89|šio straipsnio 1 dalies 2 punkte]] nurodytu būdu. ^s-4f01f139e2112512ede7b62f
 
 
-4. Neatlikus nepiniginio įnašo vertinimo [[#^s-4f01f139e2112512ede7b62f|šio straipsnio 3 dalies 2 punkte]] nurodytu atveju, vienas ar daugiau akcininkų, kuriems visuotinio akcininkų susirinkimo sprendimo dėl įstatinio kapitalo didinimo priėmimo dieną (akcinėje bendrovėje – susirinkimo apskaitos dienos pabaigoje) ar, kai teisė priimti tokį sprendimą suteikta valdybai (jei valdyba nesudaroma – bendrovės vadovui), – valdybos (bendrovės vadovo) sprendimo priėmimo dieną (akcinėje bendrovėje – penktąją darbo dieną iki sprendimo priėmimo dienos) iš viso priklauso ne mažiau kaip 5 procentai bendrovės akcijų, gali reikalauti, kad nepiniginis įnašas būtų įvertintas nepriklausomo turto vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka ir pagal šio Įstatymo [[#^s-fd9d85e6867110511e84fe96|8 straipsnio 8 dalyje]] nustatytus reikalavimus būtų parengta turto vertinimo ataskaita. Toks akcininkas arba akcininkai gali pateikti reikalavimą iki apmokėjimo nepiniginiu įnašu dienos, jeigu reikalavimo pateikimo dieną tokiam akcininkui ar akcininkams vis dar priklauso ne mažiau kaip 5 procentai bendrovės akcijų. ^s-444a2850a37f51bd704ed5e5
+4. Neatlikus nepiniginio įnašo vertinimo [[#^s-4f01f139e2112512ede7b62f|šio straipsnio 3 dalies 2 punkte]] nurodytu atveju, vienas ar daugiau akcininkų, kuriems visuotinio akcininkų susirinkimo sprendimo [dėl įstatinio kapitalo didinimo](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) priėmimo dieną (akcinėje bendrovėje – susirinkimo apskaitos dienos pabaigoje) ar, kai teisė priimti tokį sprendimą suteikta valdybai (jei valdyba nesudaroma – bendrovės vadovui), – valdybos (bendrovės vadovo) sprendimo priėmimo dieną (akcinėje bendrovėje – penktąją darbo dieną iki sprendimo priėmimo dienos) iš viso priklauso ne mažiau kaip 5 procentai bendrovės akcijų, gali reikalauti, kad nepiniginis įnašas būtų įvertintas nepriklausomo turto vertintojo teisės aktų, reglamentuojančių turto vertinimą, nustatyta tvarka ir pagal šio Įstatymo [[#^s-fd9d85e6867110511e84fe96|8 straipsnio 8 dalyje]] nustatytus reikalavimus būtų parengta turto vertinimo ataskaita. Toks akcininkas arba akcininkai gali pateikti reikalavimą iki apmokėjimo nepiniginiu įnašu dienos, jeigu reikalavimo pateikimo dieną tokiam akcininkui ar akcininkams vis dar priklauso ne mažiau kaip 5 procentai bendrovės akcijų. ^s-444a2850a37f51bd704ed5e5
 Straipsnio dalies pakeitimai:
 Nr. XV-386, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12139
 
@@ -3647,7 +3647,7 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 6. [[#^s-3f42e5345aed76097a1007c8|Šio straipsnio 1 dalyje]] nustatytais atvejais nepiniginis įnašas turi būti perduotas bendrovei per pradinių įnašų mokėjimo terminą. ^s-357ba430ccee5ef04a294981
 
 
-7. [[#^s-4be1398d0d73acd3a209cd89|Šio straipsnio 1 dalies 2 punkte]], 3 ir [[#^s-444a2850a37f51bd704ed5e5|4 dalyse]] nurodyta turto vertinimo ataskaita kartu su kitais dėl įstatinio kapitalo padidinimo pakeistiems bendrovės įstatams įregistruoti įstatymų nustatytais dokumentais turi būti pateikta juridinių asmenų registro duomenų tvarkytojui. [[#^s-fd7232d04b0211037953588a|Šio straipsnio 5 dalyje]] nurodyta pažyma turi būti pateikta juridinių asmenų registro duomenų tvarkytojui ne vėliau kaip per vieną mėnesį nuo apmokėjimo nepiniginiu įnašu dienos. ^s-8bd4da05051f3282ae19f2e2
+7. [[#^s-4be1398d0d73acd3a209cd89|Šio straipsnio 1 dalies 2 punkte]], [[#^s-c639f3403a1f61a8f8a3e65d|3]] ir [[#^s-444a2850a37f51bd704ed5e5|4]] dalyse nurodyta turto vertinimo ataskaita kartu su kitais dėl įstatinio kapitalo padidinimo pakeistiems bendrovės įstatams įregistruoti įstatymų nustatytais dokumentais turi būti pateikta juridinių asmenų registro duomenų tvarkytojui. [[#^s-fd7232d04b0211037953588a|Šio straipsnio 5 dalyje]] nurodyta pažyma turi būti pateikta juridinių asmenų registro duomenų tvarkytojui ne vėliau kaip per vieną mėnesį nuo apmokėjimo nepiniginiu įnašu dienos. ^s-8bd4da05051f3282ae19f2e2
 Straipsnio dalies pakeitimai:
 Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
@@ -3709,7 +3709,7 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 7. Jeigu finansinės pagalbos sandorio šalis (šalys) yra tos bendrovės ar patronuojančios bendrovės valdymo organo nariai arba pati patronuojanti bendrovė, arba asmenys, veikiantys savo vardu, bet tos bendrovės valdymo organų narių, patronuojančios bendrovės arba jos valdymo organų narių naudai, visuotinio akcininkų susirinkimo sprendimas dėl finansinės pagalbos sandorio sudarymo gali būti priimamas tik esant rašytinei eksperto išvadai dėl sandorio atitikties rinkos sąlygoms ir bendrovės interesams. ^s-47a8948ba05ecb4886df5ea6
 
 
-8. Šio straipsnio 2–4 ir [[#^s-11d3541ed7ee0b45a3673bf3|6 dalyse]] nustatyta tvarka ir sąlygos netaikomos bendrovei, kuri tiesiogiai ar netiesiogiai iš anksto išmoka lėšų, suteikia paskolą ar užtikrina prievolių įvykdymą fiziniams ar juridiniams asmenims, jeigu šiais veiksmais siekiama sudaryti sąlygas šiems asmenims įsigyti tos bendrovės akcijų [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatyme]] nustatytais atvejais, taip pat jeigu bendrovė tiesiogiai ar netiesiogiai suteikia paskolą ar užtikrina prievolių įvykdymą savo darbuotojams, patronuojančios ar dukterinės bendrovės darbuotojams, taip pat fiziniams ir (ar) juridiniams asmenims, jeigu šiais veiksmais siekiama sudaryti sąlygas bendrovės akcijų įsigyti savo darbuotojams, patronuojančios ar dukterinės bendrovės darbuotojams, išskyrus atvejus, kai šie darbuotojai yra bendrovės ar patronuojančios bendrovės valdymo organo nariai. ^s-6ae8a670e706444571889b28
+8. Šio straipsnio [[#^s-06395f9ade68b0a9d9da6874|2]]–[[#^s-e5ec85cece4d35ab08407875|4]] ir [[#^s-11d3541ed7ee0b45a3673bf3|6]] dalyse nustatyta tvarka ir sąlygos netaikomos bendrovei, kuri tiesiogiai ar netiesiogiai iš anksto išmoka lėšų, suteikia paskolą ar užtikrina prievolių įvykdymą fiziniams ar juridiniams asmenims, jeigu šiais veiksmais siekiama sudaryti sąlygas šiems asmenims įsigyti tos bendrovės akcijų [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatyme]] nustatytais atvejais, taip pat jeigu bendrovė tiesiogiai ar netiesiogiai suteikia paskolą ar užtikrina prievolių įvykdymą savo darbuotojams, patronuojančios ar dukterinės bendrovės darbuotojams, taip pat fiziniams ir (ar) juridiniams asmenims, jeigu šiais veiksmais siekiama sudaryti sąlygas bendrovės akcijų įsigyti savo darbuotojams, patronuojančios ar dukterinės bendrovės darbuotojams, išskyrus atvejus, kai šie darbuotojai yra bendrovės ar patronuojančios bendrovės valdymo organo nariai. ^s-6ae8a670e706444571889b28
 
 
 Straipsnio pakeitimai:
@@ -3755,7 +3755,7 @@ Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
 
 
-5. Šio straipsnio 3 ir [[#^s-9abd30b550c88467b3d6a5bb|4 dalių]] reikalavimai netaikomi akcijų perleidimo sutartims, kurios sudaromos reguliuojamoje rinkoje. ^s-cb20c9736f26c01aa6c0dd36
+5. Šio straipsnio [[#^s-e09846d98e16b2a7310f8d4d|3]] ir [[#^s-9abd30b550c88467b3d6a5bb|4]] dalių reikalavimai netaikomi akcijų perleidimo sutartims, kurios sudaromos reguliuojamoje rinkoje. ^s-cb20c9736f26c01aa6c0dd36
 
 
 6. Iki bendrovės įsteigimo arba dėl įstatinio kapitalo padidinimo pakeistų įstatų įrašymo į juridinių asmenų registro informacinę sistemą akcijas pasirašęs asmuo neturi teisės perleisti akcijų kitiems asmenims. ^s-7d76e19e36aeca10bbb17411
@@ -3836,7 +3836,7 @@ Nr. XIV-2637, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09673
 11. Visiems bendrovės, dėl kurios akcijų teikiamas pranešimas apie išpirkimą, išleistų tos pačios klasės akcijų savininkams turi būti siūlomos vienodos akcijų išpirkimo sąlygos. ^s-a114d9aa4d533ea4e45d1ecd
 
 
-12. Bendrovės valdyba (jeigu valdyba nesudaroma – bendrovės vadovas) ne vėliau kaip per 10 darbo dienų nuo pranešimo apie akcijų išpirkimą gavimo dienos turi parengti ataskaitą. Šioje ataskaitoje pateikiama motyvuota bendrovės valdybos (jeigu valdyba nesudaroma – bendrovės vadovo) nuomonė dėl akcijų išpirkimo sąlygų ir galimo akcijų išpirkimo poveikio bendrovei. Ataskaita iki bendrovės akcijų išpirkimo dienos skelbiama bendrovės interneto svetainėje, o jeigu bendrovė jos neturi, suinteresuotiems asmenims turi būti sudaroma galimybė susipažinti su ataskaita bendrovės buveinėje. ^s-5b9f165fc2d97d742bfe8362
+12. Bendrovės valdyba (jeigu valdyba nesudaroma – bendrovės vadovas) ne vėliau kaip per 10 darbo dienų nuo pranešimo apie akcijų išpirkimą gavimo dienos turi parengti ataskaitą. Šioje ataskaitoje pateikiama motyvuota bendrovės valdybos (jeigu valdyba nesudaroma – bendrovės vadovo) nuomonė [dėl akcijų išpirkimo](https://e-tar.lt/portal/lt/legalAct/418741807ee211e5b7eba10a9b5a9c5f) sąlygų ir galimo akcijų išpirkimo poveikio bendrovei. Ataskaita iki bendrovės akcijų išpirkimo dienos skelbiama bendrovės interneto svetainėje, o jeigu bendrovė jos neturi, suinteresuotiems asmenims turi būti sudaroma galimybė susipažinti su ataskaita bendrovės buveinėje. ^s-5b9f165fc2d97d742bfe8362
 
 
 13. Bendrovės akcijų, dėl kurių teikiamas pranešimas apie išpirkimą, savininkai per pranešime nurodytą terminą turi parduoti sau nuosavybės teise priklausančias balsavimo teisę suteikiančias bendrovės akcijas pranešime nurodytomis sąlygomis arba kreiptis į teismą dėl akcijos išpirkimo kainos atitikties teisingumo reikalavimams, apie tai informavę akcijas išperkantį akcininką ir bendrovę. Kreipimosi į teismą atveju mutatis mutandis taikoma Civilinio kodekso 2.115 straipsnio 2 dalis ir 2.118, 2.119 ir 2.120 straipsniai. ^s-6f9a475dbba46a1d3c9e2920
@@ -3901,7 +3901,7 @@ Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 8. Uždarosios akcinės bendrovės akcininkas turi teisę parduoti akcijas nesilaikydamas šiame straipsnyje nustatytos akcijų pardavimo tvarkos, jeigu uždarojoje akcinėje bendrovėje yra du akcininkai ir vienas iš jų visas ar dalį akcijų parduoda kitam tos uždarosios akcinės bendrovės akcininkui. ^s-ac8874561e6cc364126505d6
 
 
-9. Uždarosios akcinės bendrovės įstatuose gali būti nustatyta, kad pirmumo teisė, numatyta [[#^s-ced4d232b6181f9080fc157c|šio straipsnio 2 dalyje]], netaikoma, taip pat gali būti nustatyta kitokia, nei šio straipsnio 1 ir 3–[[#^s-ac8874561e6cc364126505d6|8 dalyse]] nustatyta, akcijų pardavimo tvarka. ^s-a4dbcb0f6c93cd828ca099bc
+9. Uždarosios akcinės bendrovės įstatuose gali būti nustatyta, kad pirmumo teisė, numatyta [[#^s-ced4d232b6181f9080fc157c|šio straipsnio 2 dalyje]], netaikoma, taip pat gali būti nustatyta kitokia, nei šio straipsnio [[#^s-dca90e18799ac8aaa23af212|1]] ir [[#^s-cad9be3aa1875d237db5d9e7|3]]–[[#^s-ac8874561e6cc364126505d6|8]] dalyse nustatyta, akcijų pardavimo tvarka. ^s-a4dbcb0f6c93cd828ca099bc
 Straipsnio dalies pakeitimai:
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
@@ -3972,7 +3972,7 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 7) susipažinimo su šiomis taisyklėmis tvarka, jeigu šios taisyklės nėra skelbiamos bendrovės interneto svetainėje. ^s-3798009673fab1572ea372d0
 
 
-6. Akcijų suteikimo taisyklėse gali būti nustatyta maksimali įstatinio kapitalo dalis, kurią gali sudaryti suteikiamos akcijos, akcijų suteikimo šaltinis (nauja akcijų emisija ir (ar) savų akcijų perleidimas), taip pat šio Įstatymo [[#^s-eca341462c824449a7ab4a3a|15 straipsnio 1 dalies]] 2, 3 ir 6 punktuose nustatytų turtinių teisių apribojimai ir disponavimo suteiktomis akcijomis sąlygos (suvaržymai) bei šių apribojimų ir sąlygų (suvaržymų) taikymo terminai. ^s-ed980d3bd299422d3e15d4b8
+6. Akcijų suteikimo taisyklėse gali būti nustatyta maksimali įstatinio kapitalo dalis, kurią gali sudaryti suteikiamos akcijos, akcijų suteikimo šaltinis (nauja akcijų emisija ir (ar) savų akcijų perleidimas), taip pat šio Įstatymo [[#^s-eca341462c824449a7ab4a3a|15 straipsnio 1 dalies]] [[#^s-969fda0cebcdf1d4b05b924a|2]], [[#^s-c34d00232d9134cb6687e452|3]] ir [[#^s-f6acb0794553bb44d6269fe8|6]] punktuose nustatytų turtinių teisių apribojimai ir disponavimo suteiktomis akcijomis sąlygos (suvaržymai) bei šių apribojimų ir sąlygų (suvaržymų) taikymo terminai. ^s-ed980d3bd299422d3e15d4b8
 
 
 7. Akcijų suteikimo taisyklės gali būti nuolatinio pobūdžio arba jų taikymas gali būti apibrėžtas konkrečiu laikotarpiu ar įvykiu, kuris nurodomas Akcijų suteikimo taisyklėse. ^s-a189d6606d3dff607e2ddae7
@@ -4028,7 +4028,7 @@ Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
 4. Bendrovei įvykdžius savo įsipareigojimus dėl neatlygintinai arba iš dalies atlygintinai suteikiamų bendrovės akcijų apmokėjimo, atitinkama suma sumažinamas bendrovės rezervas akcijoms suteikti. ^s-5287534c3ad07b987b5aaee7
 
 
-5. Akcijas suteikiant neatlygintinai, šio Įstatymo [[#^s-9b4a4faa2ec34d3ba5b49b0b|14 straipsnio 2 dalis]], [[#^s-7c69e2feb9600dfd2ed1ec7e|43 straipsnio]] 4 ir [[#^s-21fb33cd31785a7235036b67|5 dalyse]] ir [[#^s-f73e80dc0837470aa027a038|44 straipsnio 1 dalyje]] nustatyti reikalavimai dėl pasirašytų akcijų apmokėjimo, taip pat šio Įstatymo [[#^s-27fbb02d78dbab76aa4e00ff|45 straipsnio]] 4, 8, 10, 11 ir 12 dalys netaikomos. ^s-21fb33cd31785a7235036b67
+5. Akcijas suteikiant neatlygintinai, šio Įstatymo [[#^s-9b4a4faa2ec34d3ba5b49b0b|14 straipsnio 2 dalis]], [[#^s-7c69e2feb9600dfd2ed1ec7e|43 straipsnio]] [[#^s-d7d02112a5118ac5176b837e|4]] ir [[#^s-0b86b2cd695d3efe7a8b431a|5]] dalyse ir [[#^s-f73e80dc0837470aa027a038|44 straipsnio 1 dalyje]] nustatyti reikalavimai dėl pasirašytų akcijų apmokėjimo, taip pat šio Įstatymo [[#^s-27fbb02d78dbab76aa4e00ff|45 straipsnio]] [[#^s-d01edb094898d4ccd64385d5|4]], [[#^s-bfe4d6cd01658e3131b71fa8|8]], [[#^s-0053f3ace442006c9a53f040|10]], [[#^s-cc0aaac7e92dbf0b9c346dd6|11]] ir [[#^s-6d7720e387243278dbcddfc4|12]] dalys netaikomos. ^s-21fb33cd31785a7235036b67
 
 
 6. Akcijas suteikiant iš dalies atlygintinai, šio Įstatymo [[#^s-9b4a4faa2ec34d3ba5b49b0b|14 straipsnio 2 dalyje]], [[#^s-f73e80dc0837470aa027a038|44 straipsnio 1 dalyje]] ir [[#^s-3afb9a96397f7b1a7b77cd6e|45 straipsnio 9 dalyje]] įtvirtinti įsipareigojimai bendrovei, susiję su apmokėjimu už pasirašytas akcijas, taikomi akcijų emisijos kainos daliai (sumai), kurią turi apmokėti akcijas įgyjantis asmuo. ^s-b78c77f0facf0d7ae38cdd06
@@ -4072,7 +4072,7 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 1. Bendrovės įstatinis kapitalas didinamas visuotinio akcininkų susirinkimo sprendimu. Bendrovėje, kuri yra išleidusi skirtingų klasių akcijas, sprendimas padidinti įstatinį kapitalą priimamas, jeigu jam balsuodami atskirai pritaria kiekvienos klasės akcijų savininkai, įskaitant nesuteikiančių balsavimo teisės privilegijuotųjų akcijų savininkus, kurių su akcijų klase susijusias teises paveikia įstatinio kapitalo padidinimas. ^s-86d5a12441925cf3ea1ca430
 
 
-2. Visuotinis akcininkų susirinkimas gali priimti sprendimą, kad ne ilgesnį kaip 5 metų laikotarpį nuo šio sprendimo priėmimo dienos bendrovės įstatinis kapitalas gali būti didinamas, taip pat dėl įstatinio kapitalo didinimo bendrovės įstatai keičiami bendrovės valdybos (jei valdyba nesudaroma – bendrovės vadovo) sprendimu. Šiame sprendime taip pat turi būti nurodyta suma, iki kurios suteikiama teisė didinti bendrovės įstatinį kapitalą, sprendimas dėl teisės šio Įstatymo nustatyta tvarka atšaukti pirmumo teisę įsigyti bendrovės išleidžiamų akcijų, taip pat dėl galimybės bendrovės įstatinį kapitalą didinti nepiniginiais įnašais. Pasibaigus šiame sprendime nustatytam laikotarpiui, visuotinis akcininkų susirinkimas gali šioje dalyje nustatyta tvarka pakartotinai priimti sprendimą suteikti teisę valdybai (jei valdyba nesudaroma – bendrovės vadovui) priimti sprendimą padidinti įstatinį kapitalą. Šios dalies nuostatos netaikomos, kai sprendimas didinti bendrovės įstatinį kapitalą priimamas kartu su sprendimu išleisti konvertuojamąsias obligacijas. ^s-b9f9c8a51b4f4c3da746da99
+2. Visuotinis akcininkų susirinkimas gali priimti sprendimą, kad ne ilgesnį kaip 5 metų laikotarpį nuo šio sprendimo priėmimo dienos bendrovės įstatinis kapitalas gali būti didinamas, taip pat [dėl įstatinio kapitalo didinimo](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) bendrovės įstatai keičiami bendrovės valdybos (jei valdyba nesudaroma – bendrovės vadovo) sprendimu. Šiame sprendime taip pat turi būti nurodyta suma, iki kurios suteikiama teisė didinti bendrovės įstatinį kapitalą, sprendimas dėl teisės šio Įstatymo nustatyta tvarka atšaukti pirmumo teisę įsigyti bendrovės išleidžiamų akcijų, taip pat dėl galimybės bendrovės įstatinį kapitalą didinti nepiniginiais įnašais. Pasibaigus šiame sprendime nustatytam laikotarpiui, visuotinis akcininkų susirinkimas gali šioje dalyje nustatyta tvarka pakartotinai priimti sprendimą suteikti teisę valdybai (jei valdyba nesudaroma – bendrovės vadovui) priimti sprendimą padidinti įstatinį kapitalą. Šios dalies nuostatos netaikomos, kai sprendimas didinti bendrovės įstatinį kapitalą priimamas kartu su sprendimu išleisti konvertuojamąsias obligacijas. ^s-b9f9c8a51b4f4c3da746da99
 
 
 3. Bendrovės įstatinis kapitalas didinamas išleidžiant naujas akcijas arba padidinant išleistų akcijų nominalią vertę. ^s-e7282c8438989d9a29ae1271
@@ -4284,7 +4284,7 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 5. Ginčus dėl prievolių įvykdymo papildomo užtikrinimo bendrovei mažinant įstatinį kapitalą sprendžia teismas. ^s-5f4b01a5c42fa7c48a2f3c28
 
 
-6. Dėl įstatinio kapitalo sumažinimo pakeisti bendrovės įstatai pateikiami juridinių asmenų registro duomenų tvarkytojui po to, kai buvo įvykdyti visi šio straipsnio 1 ir [[#^s-ba7a5646da68e0962a40b9f1|2 dalyse]] nustatyti veiksmai, bet ne anksčiau kaip praėjus 2 mėnesiams nuo juridinių asmenų registro duomenų tvarkytojo paskelbimo apie visuotinio akcininkų susirinkimo ar teismo sprendimą sumažinti bendrovės įstatinį kapitalą dienos ir ne vėliau kaip praėjus 6 mėnesiams nuo sprendimo sumažinti įstatinį kapitalą priėmimo dienos, išskyrus [[#^s-3f55a570086e85252a39c93d|šio straipsnio 7 dalyje]] nurodytą atvejį. Pakeisti dėl įstatinio kapitalo sumažinimo bendrovės įstatai gali būti pateikti juridinių asmenų registro duomenų tvarkytojui nesilaikant šioje dalyje nustatyto 2 mėnesių termino, jeigu tenkinama bent viena iš šių sąlygų: ^s-c0cc9f24ffe1679bf5b54ea3
+6. Dėl įstatinio kapitalo sumažinimo pakeisti bendrovės įstatai pateikiami juridinių asmenų registro duomenų tvarkytojui po to, kai buvo įvykdyti visi šio straipsnio [[#^s-5574beab5be792588fe18a8b|1]] ir [[#^s-ba7a5646da68e0962a40b9f1|2]] dalyse nustatyti veiksmai, bet ne anksčiau kaip praėjus 2 mėnesiams nuo juridinių asmenų registro duomenų tvarkytojo paskelbimo apie visuotinio akcininkų susirinkimo ar teismo sprendimą sumažinti bendrovės įstatinį kapitalą dienos ir ne vėliau kaip praėjus 6 mėnesiams nuo sprendimo sumažinti įstatinį kapitalą priėmimo dienos, išskyrus [[#^s-3f55a570086e85252a39c93d|šio straipsnio 7 dalyje]] nurodytą atvejį. Pakeisti dėl įstatinio kapitalo sumažinimo bendrovės įstatai gali būti pateikti juridinių asmenų registro duomenų tvarkytojui nesilaikant šioje dalyje nustatyto 2 mėnesių termino, jeigu tenkinama bent viena iš šių sąlygų: ^s-c0cc9f24ffe1679bf5b54ea3
 Straipsnio dalies pakeitimai:
 Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
@@ -4332,7 +4332,7 @@ Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 1) bendrovės išleistų tos pačios klasės akcijų skaičius ir akcijos nominali vertė; ^s-107abff2574fd57847a5faf2
 
 
-2) bendrovės išleistų tos pačios klasės akcijų skaičiaus ir akcijos nominalios vertės keitimo taisyklės, atitinkančios šio straipsnio 1 ir [[#^s-1ed0fcbb19a51b5a276dbfcf|3 dalyse]] nustatytus principus; ^s-9698081ad1d07cf390eb4491
+2) bendrovės išleistų tos pačios klasės akcijų skaičiaus ir akcijos nominalios vertės keitimo taisyklės, atitinkančios šio straipsnio [[#^s-d93e1cf05f2b7db6e860255a|1]] ir [[#^s-1ed0fcbb19a51b5a276dbfcf|3]] dalyse nustatytus principus; ^s-9698081ad1d07cf390eb4491
 
 
 3) naujai nustatomas bendrovės išleistų tos pačios klasės akcijų skaičius ir akcijos nominali vertė. ^s-8f63968f7091a141ad562b35
@@ -4344,7 +4344,7 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
 
 
-6. Bendrovės išleistų tos pačios klasės akcijų skaičiaus ir akcijos nominalios vertės keitimui, nekeičiant įstatinio kapitalo dydžio, mutatis mutandis taikomos šio Įstatymo [[#^s-feb7e2ccfd7ce748983bef39|49 straipsnio]] 1, 5 ir 10 dalys. ^s-5b398345491c7189941f2fb8
+6. Bendrovės išleistų tos pačios klasės akcijų skaičiaus ir akcijos nominalios vertės keitimui, nekeičiant įstatinio kapitalo dydžio, mutatis mutandis taikomos šio Įstatymo [[#^s-feb7e2ccfd7ce748983bef39|49 straipsnio]] [[#^s-86d5a12441925cf3ea1ca430|1]], [[#^s-264cfca76da261dd02b4049e|5]] ir [[#^s-7961a3b22f71cfdadf9ffd43|10]] dalys. ^s-5b398345491c7189941f2fb8
 Straipsnio dalies pakeitimai:
 Nr. XV-386, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12139
 
@@ -4420,7 +4420,7 @@ Nr. XV-386, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12139
 10. Kai bendrovės akcijas įgyja asmuo, veikiantis savo vardu, bet dėl šios bendrovės interesų, laikoma, kad akcijas įgyja pati bendrovė, kurios akcijos įgyjamos. ^s-b432aea25e525b4ba8a31f48
 
 
-11. Bendrovės akcijos, įgytos [[#^s-5994d5e4c6788cb316a05259|šio straipsnio 21 dalyje]] nurodyto bendrovės valdymo organo sprendimu, turi būti perleistos (suteiktos) bendrovės, patronuojančios ar dukterinės bendrovės darbuotojų nuosavybėn šio Įstatymo [[#^s-acd73f8fa266646de9b202fe|471 straipsnyje]] nustatyta tvarka ne vėliau kaip per 12 mėnesių nuo jų įgijimo. Bendrovės akcijos, įgytos pažeidžiant šio straipsnio 2, 3, 4 ir [[#^s-b0a48cf58446db1963dff1a3|6 dalyse]] nurodytas sąlygas, turi būti perleistos kitų asmenų nuosavybėn ne vėliau kaip per 12 mėnesių nuo jų įgijimo. Jeigu akcijos neperleidžiamos per šioje dalyje nustatytą laiką, atitinkamai turi būti sumažintas įstatinis kapitalas, akcijos anuliuojamos ir paskelbiamos negaliojančiomis. ^s-5fc10f317383671cf11b856b
+11. Bendrovės akcijos, įgytos [[#^s-5994d5e4c6788cb316a05259|šio straipsnio 21 dalyje]] nurodyto bendrovės valdymo organo sprendimu, turi būti perleistos (suteiktos) bendrovės, patronuojančios ar dukterinės bendrovės darbuotojų nuosavybėn šio Įstatymo [[#^s-acd73f8fa266646de9b202fe|471 straipsnyje]] nustatyta tvarka ne vėliau kaip per 12 mėnesių nuo jų įgijimo. Bendrovės akcijos, įgytos pažeidžiant šio straipsnio [[#^s-346f37e386c2f1dfa1ecd90c|2]], [[#^s-209357aee0415e6db270789a|3]], [[#^s-0444ef4515bf3905d69c1f03|4]] ir [[#^s-b0a48cf58446db1963dff1a3|6]] dalyse nurodytas sąlygas, turi būti perleistos kitų asmenų nuosavybėn ne vėliau kaip per 12 mėnesių nuo jų įgijimo. Jeigu akcijos neperleidžiamos per šioje dalyje nustatytą laiką, atitinkamai turi būti sumažintas įstatinis kapitalas, akcijos anuliuojamos ir paskelbiamos negaliojančiomis. ^s-5fc10f317383671cf11b856b
 Straipsnio dalies pakeitimai:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
@@ -4435,10 +4435,10 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
 
 
-14. Už šio straipsnio 3, 4, 5, 6, 7 ir [[#^s-5fc10f317383671cf11b856b|11 dalyse]] nurodytų sąlygų laikymąsi yra atsakingas bendrovės vadovas. ^s-7b14fa659d6ce6e453c86239
+14. Už šio straipsnio [[#^s-209357aee0415e6db270789a|3]], [[#^s-0444ef4515bf3905d69c1f03|4]], [[#^s-f2cb5fe25e362c71c04ff2b0|5]], [[#^s-b0a48cf58446db1963dff1a3|6]], [[#^s-4687b09de13fd3f1ac5a957d|7]] ir [[#^s-5fc10f317383671cf11b856b|11]] dalyse nurodytų sąlygų laikymąsi yra atsakingas bendrovės vadovas. ^s-7b14fa659d6ce6e453c86239
 
 
-15. Šiame straipsnyje nustatyti reikalavimai netaikomi, kai akcijos įsigyjamos siekiant įvykdyti visuotinio akcininkų susirinkimo sprendimą sumažinti bendrovės įstatinį kapitalą. Šiuo atveju šio Įstatymo [[#^s-a4cf0b94c9eafb1fcbd849ca|52 straipsnio]] 6 ir [[#^s-4687b09de13fd3f1ac5a957d|7 dalys]] taikomos mutatis mutandis. ^s-790a8bca5aa353923c8d20df
+15. Šiame straipsnyje nustatyti reikalavimai netaikomi, kai akcijos įsigyjamos siekiant įvykdyti visuotinio akcininkų susirinkimo sprendimą sumažinti bendrovės įstatinį kapitalą. Šiuo atveju šio Įstatymo [[#^s-a4cf0b94c9eafb1fcbd849ca|52 straipsnio]] [[#^s-a11f7a41283e6b736f98726e|6]] ir [[#^s-b725876f8b667e2fe71478fc|7]] dalys taikomos mutatis mutandis. ^s-790a8bca5aa353923c8d20df
 Papildyta straipsnio dalimi:
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
 
@@ -4497,7 +4497,7 @@ Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 1) sudarė sutartį su finansinių priemonių asmeninių sąskaitų tvarkytoju dėl viešai siūlomų vertybinių popierių (obligacijų) sąskaitų tvarkymo; ^s-32511653b1e98d368b42b8c0
 
 
-2) paskelbė vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka parengtą ir patvirtintą prospektą ar parengė šio Įstatymo [[#^s-4a7590c01e2af4341d1e7664|78 straipsnio 2 dalyje]] nurodytą informacinį dokumentą apie bendrovę ir jos siūlomą obligacijų emisiją arba 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamento (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, nustatyta tvarka parengė pagrindinės informacijos apie investiciją dokumentą tais atvejais, kai vieną iš šių dokumentų privalu rengti ar skelbti. ^s-ec7fec8b5cd46e41370e3710
+2) paskelbė vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka parengtą ir patvirtintą prospektą ar parengė šio Įstatymo [[#^s-4a7590c01e2af4341d1e7664|78 straipsnio 2 dalyje]] nurodytą informacinį dokumentą apie bendrovę ir jos siūlomą obligacijų emisiją arba 2020 m. spalio 7 d. Europos Parlamento ir Tarybos [reglamento (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj) dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas [Reglamentas (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) ir [Direktyva (ES) 2019/1937](https://eur-lex.europa.eu/eli/dir/2019/1937/oj), nustatyta tvarka parengė pagrindinės informacijos apie investiciją dokumentą tais atvejais, kai vieną iš šių dokumentų privalu rengti ar skelbti. ^s-ec7fec8b5cd46e41370e3710
 Straipsnio punkto pakeitimai:
 Nr. XIV-827, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27719
 
@@ -4512,7 +4512,7 @@ Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 14. Viešai siūlomų obligacijų sąskaitos tvarkomos vertybinių popierių rinką reglamentuojančių teisės aktų nustatyta tvarka. ^s-a8ca7a42a97ba36d51c8ea1e
 
 
-15. Vertybinių popierių viešosios apyvartos tarpininko sąvoka šiame Įstatyme yra suprantama taip, kaip ji apibrėžiama [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]]. Viešo vertybinių popierių siūlymo sąvoka šiame Įstatyme yra suprantama taip, kaip ji apibrėžiama Reglamente (ES) 2017/1129. Obligacijų savininkų patikėtinio sąvoka šiame Įstatyme yra suprantama taip, kaip ji apibrėžiama [[latest/25dc33103c5a11e6bcc5c96b48152012|Akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatyme]]. ^s-ded1ff2f2205da18d429582a
+15. Vertybinių popierių viešosios apyvartos tarpininko sąvoka šiame Įstatyme yra suprantama taip, kaip ji apibrėžiama [[latest/TAR.3DF892F52616|Vertybinių popierių įstatyme]]. Viešo vertybinių popierių siūlymo sąvoka šiame Įstatyme yra suprantama taip, kaip ji apibrėžiama [Reglamente (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj). Obligacijų savininkų patikėtinio sąvoka šiame Įstatyme yra suprantama taip, kaip ji apibrėžiama [[latest/25dc33103c5a11e6bcc5c96b48152012|Akcinių bendrovių ir uždarųjų akcinių bendrovių obligacijų savininkų interesų gynimo įstatyme]]. ^s-ded1ff2f2205da18d429582a
 Straipsnio dalies pakeitimai:
 Nr. XV-386, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12139
 
@@ -4610,7 +4610,7 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
 
 
-3. Visuotinio akcininkų susirinkimo arba, kai teisė spręsti dėl įstatinio kapitalo didinimo suteikta valdybai (jei valdyba nesudaroma – bendrovės vadovui), valdybos (jei valdyba nesudaroma – bendrovės vadovo) nustatytas terminas, per kurį akcininkas, pasinaudodamas pirmumo teise, gali įsigyti akcijų ar konvertuojamųjų obligacijų, negali būti trumpesnis kaip 14 dienų nuo juridinių asmenų registro duomenų tvarkytojo viešo paskelbimo dienos ar nuo pranešimo įteikimo ar registruoto laiško išsiuntimo uždarosios akcinės bendrovės akcininkui dienos. ^s-0340d6b2a65916ea43fe9dd9
+3. Visuotinio akcininkų susirinkimo arba, kai teisė spręsti [dėl įstatinio kapitalo didinimo](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) suteikta valdybai (jei valdyba nesudaroma – bendrovės vadovui), valdybos (jei valdyba nesudaroma – bendrovės vadovo) nustatytas terminas, per kurį akcininkas, pasinaudodamas pirmumo teise, gali įsigyti akcijų ar konvertuojamųjų obligacijų, negali būti trumpesnis kaip 14 dienų nuo juridinių asmenų registro duomenų tvarkytojo viešo paskelbimo dienos ar nuo pranešimo įteikimo ar registruoto laiško išsiuntimo uždarosios akcinės bendrovės akcininkui dienos. ^s-0340d6b2a65916ea43fe9dd9
 Straipsnio dalies pakeitimai:
 Nr. XV-386, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12139
 Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
@@ -4620,7 +4620,7 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 4. Akcinės bendrovės akcininkai turi teisę Lietuvos banko nustatyta tvarka perleisti kitiems asmenims pirmumo teisę įsigyti akcinės bendrovės išleidžiamų akcijų ar konvertuojamųjų obligacijų. ^s-913105605fc355b77b53cf74
 
 
-5. Akcininkų pirmumo teisė įsigyti bendrovės išleidžiamų akcijų ar konvertuojamųjų obligacijų gali būti atšaukta visuotinio akcininkų susirinkimo arba, kai teisė spręsti dėl įstatinio kapitalo didinimo suteikta valdybai (jei valdyba nesudaroma – bendrovės vadovui), valdybos (jei valdyba nesudaroma – bendrovės vadovo) sprendimu. Visuotinis akcininkų susirinkimas arba, kai tokia teisė suteikta, valdyba (jei valdyba nesudaroma – bendrovės vadovas) gali priimti tokį sprendimą tik tuo atveju, jeigu yra žinomas asmuo ar asmenys (tokie asmenys gali būti ir akcininkai), kuriems suteikiama teisė įsigyti bendrovės akcijų ar konvertuojamųjų obligacijų, išskyrus atvejus, kai atšaukiama pirmumo teisė įsigyti akcinės bendrovės akcijų ar konvertuojamųjų obligacijų dėl ketinimo viešai siūlyti akcijas ar konvertuojamąsias obligacijas Vertybinių popierių įstatymo nustatyta tvarka arba atšaukiama pirmumo teisė įsigyti bendrovės akcijų dėl ketinimo suteikti akcijas šio Įstatymo 471 straipsnyje nustatyta tvarka. Visuotinio akcininkų susirinkimo arba, kai tokia teisė suteikta, valdybos (jei valdyba nesudaroma – bendrovės vadovo) sprendime dėl pirmumo teisės atšaukimo, be kita ko, turi būti nurodyta: ^s-d0e5b8a4d8e9bf435ca9a692
+5. Akcininkų pirmumo teisė įsigyti bendrovės išleidžiamų akcijų ar konvertuojamųjų obligacijų gali būti atšaukta visuotinio akcininkų susirinkimo arba, kai teisė spręsti [dėl įstatinio kapitalo didinimo](https://e-tar.lt/portal/lt/legalAct/TAR.0BEC8261B8D8) suteikta valdybai (jei valdyba nesudaroma – bendrovės vadovui), valdybos (jei valdyba nesudaroma – bendrovės vadovo) sprendimu. Visuotinis akcininkų susirinkimas arba, kai tokia teisė suteikta, valdyba (jei valdyba nesudaroma – bendrovės vadovas) gali priimti tokį sprendimą tik tuo atveju, jeigu yra žinomas asmuo ar asmenys (tokie asmenys gali būti ir akcininkai), kuriems suteikiama teisė įsigyti bendrovės akcijų ar konvertuojamųjų obligacijų, išskyrus atvejus, kai atšaukiama pirmumo teisė įsigyti akcinės bendrovės akcijų ar konvertuojamųjų obligacijų dėl ketinimo viešai siūlyti akcijas ar konvertuojamąsias obligacijas [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo nustatyta tvarka arba atšaukiama pirmumo teisė įsigyti bendrovės akcijų dėl ketinimo suteikti akcijas šio Įstatymo 471 straipsnyje]] nustatyta tvarka. Visuotinio akcininkų susirinkimo arba, kai tokia teisė suteikta, valdybos (jei valdyba nesudaroma – bendrovės vadovo) sprendime dėl pirmumo teisės atšaukimo, be kita ko, turi būti nurodyta: ^s-d0e5b8a4d8e9bf435ca9a692
 Straipsnio dalies pakeitimai:
 Nr. XV-386, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12139
 
@@ -4977,7 +4977,7 @@ Nr. XI-1489, 2011-06-21, Žin., 2011, Nr. 81-3966 (2011-07-05)
 1. Sprendimą dėl reorganizavimo priima kiekvienos reorganizuojamos ir dalyvaujančios reorganizavime bendrovės visuotiniai akcininkų susirinkimai, išskyrus šiame Įstatyme nustatytas išimtis. Kai bendrovėje yra skirtingų klasių akcijų, sprendimas priimamas, jeigu jam balsuodami atskirai pritaria kiekvienos klasės akcijų savininkai (taip pat ir akcijų, nesuteikiančių balsavimo teisės, savininkai). ^s-5d1e91aea9d83612f5f5f611
 
 
-2. Sprendimas dėl reorganizavimo gali būti priimtas ne anksčiau kaip praėjus 30 dienų nuo dienos, kai juridinių asmenų registro duomenų tvarkytojas paskelbia apie gautas reorganizavimo sąlygas ar bendrovės interneto svetainės, kurioje skelbiamos reorganizavimo sąlygos, nuorodą, suteikiančią prieigą prie šių reorganizavimo sąlygų ir paskelbimo bendrovės interneto svetainėje datos, kaip nustatyta šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] 9 ar 10 dalyje. ^s-c949a2ca41dbbf8726e1157f
+2. Sprendimas dėl reorganizavimo gali būti priimtas ne anksčiau kaip praėjus 30 dienų nuo dienos, kai juridinių asmenų registro duomenų tvarkytojas paskelbia apie gautas reorganizavimo sąlygas ar bendrovės interneto svetainės, kurioje skelbiamos reorganizavimo sąlygos, nuorodą, suteikiančią prieigą prie šių reorganizavimo sąlygų ir paskelbimo bendrovės interneto svetainėje datos, kaip nustatyta šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] [[#^s-566519ba7c2485e62518c2d6|9]] ar [[#^s-085d32e47e8c7254408a3381|10]] dalyje. ^s-c949a2ca41dbbf8726e1157f
 Straipsnio dalies pakeitimai:
 Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
@@ -5137,7 +5137,7 @@ Nr. XI-1489, 2011-06-21, Žin., 2011, Nr. 81-3966 (2011-07-05)
 ### 65 straipsnis. Informavimas apie numatomą reorganizavimą ^s-e37e049009bbc84dc786120d
 
 
-1. Kiekviena reorganizuojama ir dalyvaujanti reorganizavime bendrovė apie parengtas reorganizavimo sąlygas turi viešai paskelbti bendrovės įstatuose nurodytame šaltinyje tris kartus ne mažesniais kaip 30 dienų intervalais arba ne vėliau kaip likus 30 dienų iki visuotinio akcininkų susirinkimo dėl bendrovės reorganizavimo viešai paskelbti įstatuose nurodytame šaltinyje vieną kartą ir pranešti visiems bendrovės kreditoriams raštu. Skelbime ar pranešime turi būti nurodyti [[#^s-1e66f049aefacde37f538a91|63 straipsnio 1 dalies]] 1, 2, 3, 8 ir 9 punktuose išvardyti duomenys ir nurodyta, kur ir kada galima susipažinti su [[#^s-a78cb2e112674c8e772ef0e7|šio straipsnio 2 dalyje]] išvardytais dokumentais. ^s-1447aeceb2bbc83897ce5db0
+1. Kiekviena reorganizuojama ir dalyvaujanti reorganizavime bendrovė apie parengtas reorganizavimo sąlygas turi viešai paskelbti bendrovės įstatuose nurodytame šaltinyje tris kartus ne mažesniais kaip 30 dienų intervalais arba ne vėliau kaip likus 30 dienų iki visuotinio akcininkų susirinkimo dėl bendrovės reorganizavimo viešai paskelbti įstatuose nurodytame šaltinyje vieną kartą ir pranešti visiems bendrovės kreditoriams raštu. Skelbime ar pranešime turi būti nurodyti [[#^s-1e66f049aefacde37f538a91|63 straipsnio 1 dalies]] [[#^s-94aedbd7d737be9877afed41|1]], [[#^s-910d4f012dd509ea2193b288|2]], [[#^s-324caab555283004a2f7bd5b|3]], [[#^s-d8d64c5a15cbdb7f69d36d12|8]] ir [[#^s-4656e39a22a4e8be92583b85|9]] punktuose išvardyti duomenys ir nurodyta, kur ir kada galima susipažinti su [[#^s-a78cb2e112674c8e772ef0e7|šio straipsnio 2 dalyje]] išvardytais dokumentais. ^s-1447aeceb2bbc83897ce5db0
 
 
 2. Visą laikotarpį, prasidedantį ne vėliau kaip likus 30 dienų iki visuotinio akcininkų susirinkimo, kurio darbotvarkėje numatyta priimti sprendimą dėl bendrovės reorganizavimo, ir pasibaigiantį ne anksčiau kaip reorganizavimo pabaigos dieną, kiekvienam bendrovės akcininkui ir kreditoriui turi būti sudaryta galimybė kiekvienos reorganizuojamos ir dalyvaujančios reorganizavime bendrovės buveinėje arba interneto svetainėje susipažinti su: ^s-a78cb2e112674c8e772ef0e7
@@ -5187,10 +5187,10 @@ Nr. XI-1489, 2011-06-21, Žin., 2011, Nr. 81-3966 (2011-07-05)
 1. Reorganizavimo išdalijimo būdu atveju nereikalaujama, kad skaidomos išdalijimo būdu bendrovės, kurios teisės ir pareigos išdalijamos kitoms po reorganizavimo tęsiančioms veiklą bendrovėms, visuotinis akcininkų susirinkimas priimtų sprendimą dėl reorganizavimo, jeigu visos po reorganizavimo išdalijimo būdu tęsiančios veiklą bendrovės kartu turi visas skaidomos išdalijimo būdu bendrovės akcijas ir yra tenkinamos šios sąlygos: ^s-d1e8a6cb282ed28b7be6f5e9
 
 
-1) apie reorganizavimą išdalijimo būdu paskelbiama taip, kaip nustatyta šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] 8, 9, 10, 11 ir 12 dalyse ir šio Įstatymo [[#^s-1447aeceb2bbc83897ce5db0|65 straipsnio 1 dalyje]] ne vėliau kaip likus 30 dienų iki po reorganizavimo tęsiančių veiklą bendrovių visuotinių akcininkų susirinkimų, kurių darbotvarkėse numatyta priimti sprendimus dėl bendrovės reorganizavimo išdalijimo būdu; ^s-2faf2d061cb86ac54720c21d
+1) apie reorganizavimą išdalijimo būdu paskelbiama taip, kaip nustatyta šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] [[#^s-84b49d90a89602976b2802f6|8]], [[#^s-566519ba7c2485e62518c2d6|9]], [[#^s-085d32e47e8c7254408a3381|10]], [[#^s-65a882947fb7676c1d7f5eb3|11]] ir [[#^s-e155db11bd20edc990160e3a|12]] dalyse ir šio Įstatymo [[#^s-1447aeceb2bbc83897ce5db0|65 straipsnio 1 dalyje]] ne vėliau kaip likus 30 dienų iki po reorganizavimo tęsiančių veiklą bendrovių visuotinių akcininkų susirinkimų, kurių darbotvarkėse numatyta priimti sprendimus dėl bendrovės reorganizavimo išdalijimo būdu; ^s-2faf2d061cb86ac54720c21d
 
 
-2) ne vėliau kaip likus 30 dienų iki po reorganizavimo tęsiančių veiklą bendrovių visuotinių akcininkų susirinkimų, kurių darbotvarkėse numatyta priimti sprendimus dėl bendrovės reorganizavimo išdalijimo būdu, kiekvienam skaidomos išdalijimo būdu ir dalyvaujančios skaidyme išdalijimo būdu bendrovės akcininkui bendrovės buveinėje sudaroma galimybė susipažinti su šio Įstatymo [[#^s-a78cb2e112674c8e772ef0e7|65 straipsnio 2 dalyje]] nurodytais dokumentais. Tokiu atveju taip pat taikomos šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] 2, 3, 4 ir 5 dalys, [[#^s-1aff1674344ee1fd75685b02|64 straipsnis]] ir [[#^s-e37e049009bbc84dc786120d|65 straipsnio]] 3, 4, 5 ir 6 dalys. ^s-25e3b9cacfecbe8f8027161a
+2) ne vėliau kaip likus 30 dienų iki po reorganizavimo tęsiančių veiklą bendrovių visuotinių akcininkų susirinkimų, kurių darbotvarkėse numatyta priimti sprendimus dėl bendrovės reorganizavimo išdalijimo būdu, kiekvienam skaidomos išdalijimo būdu ir dalyvaujančios skaidyme išdalijimo būdu bendrovės akcininkui bendrovės buveinėje sudaroma galimybė susipažinti su šio Įstatymo [[#^s-a78cb2e112674c8e772ef0e7|65 straipsnio 2 dalyje]] nurodytais dokumentais. Tokiu atveju taip pat taikomos šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] [[#^s-d74495552d0c6ee2b1a3e6e5|2]], [[#^s-a29ac4f11483cb53b2e32f37|3]], [[#^s-c8ae1cd74fadc0e2acf39fce|4]] ir [[#^s-cd0f1e97aec24bf98d0bb562|5]] dalys, [[#^s-1aff1674344ee1fd75685b02|64 straipsnis]] ir [[#^s-e37e049009bbc84dc786120d|65 straipsnio]] [[#^s-80c878c2b7a5123bccbfe3fe|3]], [[#^s-4ca7dcc795907d0f4df9a5bb|4]], [[#^s-468841aea3d8512412e8635d|5]] ir [[#^s-9b3a8532a85b1baf40d98e00|6]] dalys. ^s-25e3b9cacfecbe8f8027161a
 
 
 2. Kai yra [[#^s-d1e8a6cb282ed28b7be6f5e9|šio straipsnio 1 dalyje]] nurodytos sąlygos, sprendimą dėl reorganizavimo išdalijimo būdu priima po reorganizavimo tęsiančių veiklą bendrovių visuotiniai akcininkų susirinkimai. ^s-361a42336e841423976b3d02
@@ -5213,13 +5213,13 @@ Nr. XI-1489, 2011-06-21, Žin., 2011, Nr. 81-3966 (2011-07-05)
 3. Bendrovė gali neteikti prievolių įvykdymo papildomo užtikrinimo, jei jos įsipareigojimų kreditoriui įvykdymas yra pakankamai užtikrintas įkeitimu, hipoteka, laidavimu ar garantija. Ginčus dėl prievolių įvykdymo papildomo užtikrinimo sprendžia teismas. ^s-174c640e7706749cad433e8d
 
 
-4. Juridinių asmenų registro duomenų tvarkytojui negali būti teikiami dokumentai dėl bendrovių, kurios veiks po reorganizavimo, ar jų įstatų įregistravimo bei dokumentai dėl bendrovių, kurios po reorganizavimo pasibaigs, išregistravimo, jeigu nėra papildomai užtikrintas prievolių įvykdymas to reikalaujančiam kreditoriui, kaip nustatyta šio straipsnio 1 ir [[#^s-69608b2557993467a21d5ebe|2 dalyse]], taip pat iki teismo sprendimo įsiteisėjimo, jeigu teisme nagrinėjamas ginčas dėl prievolių įvykdymo papildomo užtikrinimo. ^s-b7187b8559b79fe2d72ed1f1
+4. Juridinių asmenų registro duomenų tvarkytojui negali būti teikiami dokumentai dėl bendrovių, kurios veiks po reorganizavimo, ar jų įstatų įregistravimo bei dokumentai dėl bendrovių, kurios po reorganizavimo pasibaigs, išregistravimo, jeigu nėra papildomai užtikrintas prievolių įvykdymas to reikalaujančiam kreditoriui, kaip nustatyta šio straipsnio [[#^s-7e33c7892e2b30b7ec008349|1]] ir [[#^s-69608b2557993467a21d5ebe|2]] dalyse, taip pat iki teismo sprendimo įsiteisėjimo, jeigu teisme nagrinėjamas ginčas dėl prievolių įvykdymo papildomo užtikrinimo. ^s-b7187b8559b79fe2d72ed1f1
 Straipsnio dalies pakeitimai:
 Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
 
 
-5. Reorganizuojamos ar dalyvaujančios reorganizavime bendrovės obligacijų savininkai turi šio straipsnio 1 ir [[#^s-69608b2557993467a21d5ebe|2 dalyse]] nurodytas kreditorių teises, o bendrovė obligacijų savininkų atžvilgiu turi šio straipsnio 1, 3 ir [[#^s-b7187b8559b79fe2d72ed1f1|4 dalyse]] nurodytas teises ir pareigas. ^s-df51499005b1b6e1df7810a7
+5. Reorganizuojamos ar dalyvaujančios reorganizavime bendrovės obligacijų savininkai turi šio straipsnio [[#^s-7e33c7892e2b30b7ec008349|1]] ir [[#^s-69608b2557993467a21d5ebe|2]] dalyse nurodytas kreditorių teises, o bendrovė obligacijų savininkų atžvilgiu turi šio straipsnio [[#^s-7e33c7892e2b30b7ec008349|1]], [[#^s-174c640e7706749cad433e8d|3]] ir [[#^s-b7187b8559b79fe2d72ed1f1|4]] dalyse nurodytas teises ir pareigas. ^s-df51499005b1b6e1df7810a7
 
 
 
@@ -5232,7 +5232,7 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 2. Po reorganizavimo veiksiančių bendrovių akcijos po reorganizavimo pasibaigiančių bendrovių akcininkams gali būti skirstomos proporcingai arba neproporcingai reorganizuojamų bendrovių įstatiniam kapitalui. ^s-d21fc3fac84c09bb1b22675a
 
 
-3. Kai skaidant bendrovę po reorganizavimo veiksiančių bendrovių akcijos skaidomos bendrovės akcininkams skirstomos proporcingai jų dalims skaidomos bendrovės įstatiniame kapitale, šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] 2, 3, 4 ir [[#^s-3c2c7c186c9d21c5cad7e6da|5 dalys]], [[#^s-1aff1674344ee1fd75685b02|64 straipsnis]], [[#^s-a78cb2e112674c8e772ef0e7|65 straipsnio 2 dalies]] 3, 4 ir 5 punktai ir [[#^s-3c2c7c186c9d21c5cad7e6da|5 dalis]] netaikomi. ^s-3528b679094bd8c122714d62
+3. Kai skaidant bendrovę po reorganizavimo veiksiančių bendrovių akcijos skaidomos bendrovės akcininkams skirstomos proporcingai jų dalims skaidomos bendrovės įstatiniame kapitale, šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] [[#^s-d74495552d0c6ee2b1a3e6e5|2]], [[#^s-a29ac4f11483cb53b2e32f37|3]], [[#^s-c8ae1cd74fadc0e2acf39fce|4]] ir [[#^s-cd0f1e97aec24bf98d0bb562|5]] dalys, [[#^s-1aff1674344ee1fd75685b02|64 straipsnis]], [[#^s-a78cb2e112674c8e772ef0e7|65 straipsnio 2 dalies]] [[#^s-557118d2ded078cb7266790f|3]], [[#^s-bc0a1f3ea025a229dd7db32b|4]] ir [[#^s-9c9c618c575411a6ef9dbd90|5]] punktai ir [[#^s-3c2c7c186c9d21c5cad7e6da|5 dalis]] netaikomi. ^s-3528b679094bd8c122714d62
 
 
 4. Kai skaidant bendrovę po reorganizavimo veiksiančių bendrovių akcijos skaidomos bendrovės akcininkams skirstomos neproporcingai jų dalims skaidomos bendrovės įstatiniame kapitale, akcininkai, kurių akcijų nominali vertė mažesnė kaip 1/10 skaidomos bendrovės įstatinio kapitalo, ne vėliau kaip per 45 dienas nuo visuotinio akcininkų susirinkimo sprendimo reorganizuoti bendrovę priėmimo turi teisę pareikalauti, kad jų akcijas iki reorganizavimo pabaigos išpirktų skaidoma bendrovė. Tokiam akcijų išpirkimui netaikomos šio Įstatymo [[#^s-0e5dd8db41e014e9b20396b0|54 straipsnio]] nuostatos. Išpirktoms akcijoms taikoma [[#^s-3c2c7c186c9d21c5cad7e6da|šio straipsnio 5 dalis]]. Išperkamų akcijų apmokėjimo kaina nustatoma atsižvelgiant į vidutinę paskutinių 6 mėnesių iki visuotinio akcininkų susirinkimo sprendimo reorganizuoti bendrovę priėmimo šių akcijų rinkos kainą. Ginčus dėl atlyginimo už akcijas dydžio sprendžia teismas. Jeigu reikalaujamų išpirkti akcijų nominali vertė viršija 1/10 skaidomos bendrovės įstatinio kapitalo, toliau pagal patvirtintas reorganizavimo sąlygas bendrovė negali būti reorganizuojama. ^s-3ff34474ddb22e805d05e162
@@ -5296,7 +5296,7 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
 
 
-4. Šio straipsnio 2 ir [[#^s-f35f7ae3b87bca2fbeed97a2|3 dalyse]] nurodyti visuotiniai akcininkų susirinkimai gali spręsti visus visuotinio akcininkų susirinkimo kompetencijai priskirtus klausimus. ^s-c1b2f16d599c9aa2773086ef
+4. Šio straipsnio [[#^s-51c77dcac7278d766a7848a0|2]] ir [[#^s-f35f7ae3b87bca2fbeed97a2|3]] dalyse nurodyti visuotiniai akcininkų susirinkimai gali spręsti visus visuotinio akcininkų susirinkimo kompetencijai priskirtus klausimus. ^s-c1b2f16d599c9aa2773086ef
 
 
 5. Reorganizuota bendrovė pasibaigia nuo jos išregistravimo iš juridinių asmenų registro informacinės sistemos. ^s-eaac5260c538d2b0e71ed0ae
@@ -5317,19 +5317,19 @@ Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
 ### 70 straipsnis. Prijungimas prie bendrovės, kuriai nuosavybės teise priklauso visos prijungiamos bendrovės akcijos ^s-532f8cbfb1662653940e5256
 
 
-1. Prijungimui, kai po reorganizavimo tęsianti veiklą bendrovė yra visų prijungiamos bendrovės akcijų savininkė, netaikomi šio Įstatymo [[#^s-1e66f049aefacde37f538a91|63 straipsnio 1 dalies]] 4, 5, 6 ir 7 punktai, 2, 3, 4 ir 5 dalys, [[#^s-1aff1674344ee1fd75685b02|64 straipsnis]], [[#^s-a78cb2e112674c8e772ef0e7|65 straipsnio 2 dalies]] 4 ir 5 punktai, 5 ir 6 dalys, [[#^s-42589402945d1f9a6b137b38|67 straipsnio]] 1 ir [[#^s-3336c6fe081a8d1a14ed8e67|2 dalys]] ir [[#^s-69a8ff51b94104d7ff6edba0|69 straipsnio 6 dalis]]. ^s-622bb56eb6b015e891c33e15
+1. Prijungimui, kai po reorganizavimo tęsianti veiklą bendrovė yra visų prijungiamos bendrovės akcijų savininkė, netaikomi šio Įstatymo [[#^s-1e66f049aefacde37f538a91|63 straipsnio 1 dalies]] [[#^s-079489f7b891f5d77cd1eb89|4]], [[#^s-f5540bb4c5d6254ab2a0d8a8|5]], [[#^s-75dceb582d89bc5e80b764a1|6]] ir [[#^s-fbaa303ee077c2edaf3918d4|7]] punktai, [[#^s-d74495552d0c6ee2b1a3e6e5|2]], [[#^s-a29ac4f11483cb53b2e32f37|3]], [[#^s-c8ae1cd74fadc0e2acf39fce|4]] ir [[#^s-cd0f1e97aec24bf98d0bb562|5]] dalys, [[#^s-1aff1674344ee1fd75685b02|64 straipsnis]], [[#^s-a78cb2e112674c8e772ef0e7|65 straipsnio 2 dalies]] [[#^s-bc0a1f3ea025a229dd7db32b|4]] ir [[#^s-9c9c618c575411a6ef9dbd90|5]] punktai, [[#^s-468841aea3d8512412e8635d|5]] ir [[#^s-9b3a8532a85b1baf40d98e00|6]] dalys, [[#^s-42589402945d1f9a6b137b38|67 straipsnio]] [[#^s-d50432d09d6149d4e9f768e2|1]] ir [[#^s-d21fc3fac84c09bb1b22675a|2]] dalys ir [[#^s-69a8ff51b94104d7ff6edba0|69 straipsnio 6 dalis]]. ^s-622bb56eb6b015e891c33e15
 
 
 2. Prijungimui, kai po reorganizavimo tęsianti veiklą bendrovė yra visų prijungiamos bendrovės akcijų savininkė, netaikomas šio Įstatymo [[#^s-58f13580fcc5d41792029ab9|62 straipsnis]], jeigu tenkinamos visos šios sąlygos: ^s-3336c6fe081a8d1a14ed8e67
 
 
-1) apie reorganizavimą prijungimo būdu paskelbiama taip, kaip nustatyta šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] 8, 9, 10, 11 ir 12 dalyse ir šio Įstatymo [[#^s-1447aeceb2bbc83897ce5db0|65 straipsnio 1 dalyje]]; ^s-3866870194fb0711f5bcae55
+1) apie reorganizavimą prijungimo būdu paskelbiama taip, kaip nustatyta šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] [[#^s-84b49d90a89602976b2802f6|8]], [[#^s-566519ba7c2485e62518c2d6|9]], [[#^s-085d32e47e8c7254408a3381|10]], [[#^s-65a882947fb7676c1d7f5eb3|11]] ir [[#^s-e155db11bd20edc990160e3a|12]] dalyse ir šio Įstatymo [[#^s-1447aeceb2bbc83897ce5db0|65 straipsnio 1 dalyje]]; ^s-3866870194fb0711f5bcae55
 
 
-2) kiekvienam po reorganizavimo tęsiančios veiklą bendrovės akcininkui šio Įstatymo [[#^s-a78cb2e112674c8e772ef0e7|65 straipsnio 2 dalyje]] nustatyta tvarka sudaroma galimybė susipažinti su šio Įstatymo [[#^s-a78cb2e112674c8e772ef0e7|65 straipsnio 2 dalies]] 1, 2 ir [[#^s-a5cad4253369c20b55e5172d|3 punktuose]] nurodytais dokumentais. Tokiu atveju taip pat taikomos šio Įstatymo [[#^s-e37e049009bbc84dc786120d|65 straipsnio]] 3 ir 4 dalys; ^s-5ef4a46c4f0a9cf645c03be7
+2) kiekvienam po reorganizavimo tęsiančios veiklą bendrovės akcininkui šio Įstatymo [[#^s-a78cb2e112674c8e772ef0e7|65 straipsnio 2 dalyje]] nustatyta tvarka sudaroma galimybė susipažinti su šio Įstatymo [[#^s-a78cb2e112674c8e772ef0e7|65 straipsnio 2 dalies]] [[#^s-75c62ad7846300887349387e|1]], [[#^s-b7591d896406259fa741e5e6|2]] ir [[#^s-557118d2ded078cb7266790f|3]] punktuose nurodytais dokumentais. Tokiu atveju taip pat taikomos šio Įstatymo [[#^s-e37e049009bbc84dc786120d|65 straipsnio]] [[#^s-80c878c2b7a5123bccbfe3fe|3]] ir [[#^s-4ca7dcc795907d0f4df9a5bb|4]] dalys; ^s-5ef4a46c4f0a9cf645c03be7
 
 
-3) vienas ar keli po reorganizavimo tęsiančios veiklą bendrovės akcininkai, kuriems priklausančios akcijos suteikia ne mažiau kaip 1/20 visų balsų, per 30 dienų nuo dienos, kai juridinių asmenų registro duomenų tvarkytojas paskelbia apie gautas reorganizavimo sąlygas ar bendrovės interneto svetainės, kurioje skelbiamos reorganizavimo sąlygos, nuorodą, suteikiančią prieigą prie šių reorganizavimo sąlygų ir jų paskelbimo bendrovės interneto svetainėje datos, kaip nustatyta šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] 9 ar 10 dalyje, turi teisę pareikalauti, kad būtų sušauktas po reorganizavimo tęsiančios veiklą bendrovės visuotinis akcininkų susirinkimas, tačiau akcininkai šia teise nepasinaudoja. ^s-a5cad4253369c20b55e5172d
+3) vienas ar keli po reorganizavimo tęsiančios veiklą bendrovės akcininkai, kuriems priklausančios akcijos suteikia ne mažiau kaip 1/20 visų balsų, per 30 dienų nuo dienos, kai juridinių asmenų registro duomenų tvarkytojas paskelbia apie gautas reorganizavimo sąlygas ar bendrovės interneto svetainės, kurioje skelbiamos reorganizavimo sąlygos, nuorodą, suteikiančią prieigą prie šių reorganizavimo sąlygų ir jų paskelbimo bendrovės interneto svetainėje datos, kaip nustatyta šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] [[#^s-566519ba7c2485e62518c2d6|9]] ar [[#^s-085d32e47e8c7254408a3381|10]] dalyje, turi teisę pareikalauti, kad būtų sušauktas po reorganizavimo tęsiančios veiklą bendrovės visuotinis akcininkų susirinkimas, tačiau akcininkai šia teise nepasinaudoja. ^s-a5cad4253369c20b55e5172d
 Straipsnio punkto pakeitimai:
 Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
@@ -5353,19 +5353,19 @@ Nr. XI-1489, 2011-06-21, Žin., 2011, Nr. 81-3966 (2011-07-05)
 1. Prijungimui, kai po reorganizavimo tęsianti veiklą bendrovė yra ne mažiau kaip 90 procentų prijungiamos bendrovės akcijų savininkė, nereikalaujama, kad po reorganizavimo tęsiančios veiklą bendrovės visuotinis akcininkų susirinkimas priimtų sprendimą dėl reorganizavimo prijungimo būdu, jeigu yra tenkinamos visos šios sąlygos: ^s-7490263fc48cc658e4af869e
 
 
-1) apie reorganizavimą prijungimo būdu paskelbiama taip, kaip nustatyta šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] 8, 9, 10, 11 ir 12 dalyse ir šio Įstatymo [[#^s-1447aeceb2bbc83897ce5db0|65 straipsnio 1 dalyje]]; ^s-14590b265afe220351d546bb
+1) apie reorganizavimą prijungimo būdu paskelbiama taip, kaip nustatyta šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] [[#^s-84b49d90a89602976b2802f6|8]], [[#^s-566519ba7c2485e62518c2d6|9]], [[#^s-085d32e47e8c7254408a3381|10]], [[#^s-65a882947fb7676c1d7f5eb3|11]] ir [[#^s-e155db11bd20edc990160e3a|12]] dalyse ir šio Įstatymo [[#^s-1447aeceb2bbc83897ce5db0|65 straipsnio 1 dalyje]]; ^s-14590b265afe220351d546bb
 
 
-2) kiekvienam po reorganizavimo tęsiančios veiklą bendrovės akcininkui šio Įstatymo [[#^s-a78cb2e112674c8e772ef0e7|65 straipsnio 2 dalyje]] nustatyta tvarka sudaroma galimybė susipažinti su joje nurodytais dokumentais. Tokiu atveju taip pat taikomos šio Įstatymo [[#^s-e37e049009bbc84dc786120d|65 straipsnio]] 3, 4, 5 ir 6 dalys; ^s-74c936298985c498da96695c
+2) kiekvienam po reorganizavimo tęsiančios veiklą bendrovės akcininkui šio Įstatymo [[#^s-a78cb2e112674c8e772ef0e7|65 straipsnio 2 dalyje]] nustatyta tvarka sudaroma galimybė susipažinti su joje nurodytais dokumentais. Tokiu atveju taip pat taikomos šio Įstatymo [[#^s-e37e049009bbc84dc786120d|65 straipsnio]] [[#^s-80c878c2b7a5123bccbfe3fe|3]], [[#^s-4ca7dcc795907d0f4df9a5bb|4]], [[#^s-468841aea3d8512412e8635d|5]] ir [[#^s-9b3a8532a85b1baf40d98e00|6]] dalys; ^s-74c936298985c498da96695c
 
 
-3) vienas ar keli po reorganizavimo tęsiančios veiklą bendrovės akcininkai, kuriems priklausančios akcijos suteikia ne mažiau kaip 1/20 visų balsų, per 30 dienų nuo dienos, kai juridinių asmenų registro duomenų tvarkytojas paskelbia apie gautas reorganizavimo sąlygas ar bendrovės interneto svetainės, kurioje skelbiamos reorganizavimo sąlygos, nuorodą, suteikiančią prieigą prie šių reorganizavimo sąlygų ir jų paskelbimo bendrovės interneto svetainėje datos, kaip nustatyta šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] 9 ar 10 dalyje, turi teisę pareikalauti, kad būtų sušauktas po reorganizavimo tęsiančios veiklą bendrovės visuotinis akcininkų susirinkimas, tačiau akcininkai šia teise nepasinaudoja. ^s-41489b6ac8b72bc56cd3c10d
+3) vienas ar keli po reorganizavimo tęsiančios veiklą bendrovės akcininkai, kuriems priklausančios akcijos suteikia ne mažiau kaip 1/20 visų balsų, per 30 dienų nuo dienos, kai juridinių asmenų registro duomenų tvarkytojas paskelbia apie gautas reorganizavimo sąlygas ar bendrovės interneto svetainės, kurioje skelbiamos reorganizavimo sąlygos, nuorodą, suteikiančią prieigą prie šių reorganizavimo sąlygų ir jų paskelbimo bendrovės interneto svetainėje datos, kaip nustatyta šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] [[#^s-566519ba7c2485e62518c2d6|9]] ar [[#^s-085d32e47e8c7254408a3381|10]] dalyje, turi teisę pareikalauti, kad būtų sušauktas po reorganizavimo tęsiančios veiklą bendrovės visuotinis akcininkų susirinkimas, tačiau akcininkai šia teise nepasinaudoja. ^s-41489b6ac8b72bc56cd3c10d
 Straipsnio punkto pakeitimai:
 Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
 
 
-2. Prijungimui, kai po reorganizavimo tęsianti veiklą bendrovė yra ne mažiau kaip 90 procentų prijungiamos bendrovės akcijų savininkė, netaikomos šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] 2, 3, 4 ir 5 dalys, [[#^s-1aff1674344ee1fd75685b02|64 straipsnis]] ir [[#^s-e37e049009bbc84dc786120d|65 straipsnio]] 2, 3, 4, 5 ir 6 dalys, jeigu kitų prijungiamos bendrovės akcininkų reikalavimu bendrovė iki reorganizavimo pabaigos išperka jų akcijas. Akcijų išpirkimui taikomos šio Įstatymo [[#^s-3ff34474ddb22e805d05e162|67 straipsnio 4 dalies]] nuostatos. ^s-d6aac14d83235b556f30a2dd
+2. Prijungimui, kai po reorganizavimo tęsianti veiklą bendrovė yra ne mažiau kaip 90 procentų prijungiamos bendrovės akcijų savininkė, netaikomos šio Įstatymo [[#^s-31dffc86769e7e91a9783a28|63 straipsnio]] [[#^s-d74495552d0c6ee2b1a3e6e5|2]], [[#^s-a29ac4f11483cb53b2e32f37|3]], [[#^s-c8ae1cd74fadc0e2acf39fce|4]] ir [[#^s-cd0f1e97aec24bf98d0bb562|5]] dalys, [[#^s-1aff1674344ee1fd75685b02|64 straipsnis]] ir [[#^s-e37e049009bbc84dc786120d|65 straipsnio]] [[#^s-a78cb2e112674c8e772ef0e7|2]], [[#^s-80c878c2b7a5123bccbfe3fe|3]], [[#^s-4ca7dcc795907d0f4df9a5bb|4]], [[#^s-468841aea3d8512412e8635d|5]] ir [[#^s-9b3a8532a85b1baf40d98e00|6]] dalys, jeigu kitų prijungiamos bendrovės akcininkų reikalavimu bendrovė iki reorganizavimo pabaigos išperka jų akcijas. Akcijų išpirkimui taikomos šio Įstatymo [[#^s-3ff34474ddb22e805d05e162|67 straipsnio 4 dalies]] nuostatos. ^s-d6aac14d83235b556f30a2dd
 
 
 3. Šis straipsnis netaikomas prijungimui, kai po reorganizavimo tęsianti veiklą bendrovė yra visų prijungiamos bendrovės akcijų savininkė. ^s-b279f5d89998ff55af462c11
@@ -5473,7 +5473,7 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 13. [[#^s-7119e5198d3483e04fcbee72|Šio straipsnio 12 dalyje]] nurodyto reikalavimo įvertinti tam tikrą turtą gali būti nesilaikoma, jeigu akcijos išduodamos: ^s-57c8cfdd96d39e8150c5f34e
 
 
-1) už šio Įstatymo 45¹ [[#^s-4a14cc7f3a6556dc2d266608|straipsnio 1 dalies]] 1 ir [[#^s-31431c1647b2819b1788441a|2 punktuose]] nurodytą turtą, kurio vertė nustatyta laikantis to straipsnio reikalavimų ir procedūrų; ^s-34f13d08c49cbe0db4b01688
+1) už šio Įstatymo 45¹ [[#^s-4a14cc7f3a6556dc2d266608|straipsnio 1 dalies]] 1 ir [[#^s-31431c1647b2819b1788441a|2]] punktuose nurodytą turtą, kurio vertė nustatyta laikantis to straipsnio reikalavimų ir procedūrų; ^s-34f13d08c49cbe0db4b01688
 
 
 2) už turtą, išskyrus perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones, kurio vertė nustatyta pagal atskirų turto vienetų vertes iš praėjusių finansinių metų audituotų metinių finansinių ataskaitų rinkinių, laikantis šio Įstatymo 45¹ straipsnio procedūrų, nustatytų to [[#^s-927c930fa2e845a60384961e|straipsnio 1 dalies 2 punkte]] nurodytam turtui. ^s-31431c1647b2819b1788441a
@@ -5691,7 +5691,7 @@ UŽSIENIO BENDROVIŲ FILIALAI
 2) Europos ekonominės erdvės susitarimo [[#^s-344d3f93005f42f97ba2d749|77 straipsnyje]] bei XXII priedo 8 punkte nurodytose valstybėse įsteigtų bendrovių filialai; ^s-725cceec6f3746a40ac0118c
 
 
-3) kitose šio straipsnio 1 ir [[#^s-725cceec6f3746a40ac0118c|2 punktuose]] nenurodytose valstybėse įsteigtų juridinių asmenų, kurių teisinės formos yra panašios į bendrovių teisines formas, filialai. ^s-7790616675028992571832ee
+3) kitose šio straipsnio [[#^s-06257df84753e23571b3954a|1]] ir [[#^s-725cceec6f3746a40ac0118c|2]] punktuose nenurodytose valstybėse įsteigtų juridinių asmenų, kurių teisinės formos yra panašios į bendrovių teisines formas, filialai. ^s-7790616675028992571832ee
 
 
 2. Užsienio bendrovės filialas laikomas įsteigtu nuo jo įregistravimo juridinių asmenų registro informacinėje sistemoje. ^s-ef72ebff06929107aef63454
@@ -5721,7 +5721,7 @@ UŽSIENIO BENDROVIŲ FILIALAI
 10. Veiklą nutraukusio užsienio bendrovės filialo dokumentai iki filialo išregistravimo perduodami saugoti įmonėms [[latest/TAR.1FEF229DA7C6|Dokumentų ir archyvų įstatymo]] nustatyta tvarka. ^s-fe2791dd7e716f1c048c357f
 
 
-11. Juridinių asmenų registro duomenų tvarkytojas, per Europos Sąjungos valstybių narių ir Europos ekonominei erdvei priklausančių valstybių centrinių, komercinių ir bendrovių registrų sąveikos sistemą gavęs informaciją apie likvidavimo procedūrų kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominei erdvei priklausančioje valstybėje įsteigtai ribotos atsakomybės bendrovei pradėjimą, pertvarkymo, reorganizavimo ar buveinės perkėlimo į kitą Europos Sąjungos valstybę narę ar Europos ekonominei erdvei priklausančią valstybę procedūrų kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominei erdvei priklausančioje valstybėje įsteigtai ribotos atsakomybės bendrovei pradėjimą ar jų pabaigą, nedelsdamas, bet ne vėliau kaip kitą darbo dieną nuo šios informacijos gavimo dienos apie tai informuoja tos bendrovės filialą. Nuo tos dienos, kai juridinių asmenų registro duomenų tvarkytojas gauna informaciją apie šioje dalyje nurodytų procedūrų pradžią, bendrovės filialas įgyja atitinkamai likviduojamos užsienio bendrovės filialo, pertvarkomos užsienio bendrovės filialo, reorganizuojamos užsienio bendrovės filialo, perkeliančios buveinę į kitą Europos Sąjungos valstybę narę ar Europos ekonominei erdvei priklausančią valstybę užsienio bendrovės filialo statusą ir jo netenka tą dieną, kai juridinių asmenų registro duomenų tvarkytojas gauna informaciją apie šių procedūrų pabaigą. Šiais atvejais mutatis mutandis taikomos šio straipsnio 7, 9, [[#^s-fe2791dd7e716f1c048c357f|10 dalys]]. ^s-cdbb8de70b3982e1617176a0
+11. Juridinių asmenų registro duomenų tvarkytojas, per Europos Sąjungos valstybių narių ir Europos ekonominei erdvei priklausančių valstybių centrinių, komercinių ir bendrovių registrų sąveikos sistemą gavęs informaciją apie likvidavimo procedūrų kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominei erdvei priklausančioje valstybėje įsteigtai ribotos atsakomybės bendrovei pradėjimą, pertvarkymo, reorganizavimo ar buveinės perkėlimo į kitą Europos Sąjungos valstybę narę ar Europos ekonominei erdvei priklausančią valstybę procedūrų kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominei erdvei priklausančioje valstybėje įsteigtai ribotos atsakomybės bendrovei pradėjimą ar jų pabaigą, nedelsdamas, bet ne vėliau kaip kitą darbo dieną nuo šios informacijos gavimo dienos apie tai informuoja tos bendrovės filialą. Nuo tos dienos, kai juridinių asmenų registro duomenų tvarkytojas gauna informaciją apie šioje dalyje nurodytų procedūrų pradžią, bendrovės filialas įgyja atitinkamai likviduojamos užsienio bendrovės filialo, pertvarkomos užsienio bendrovės filialo, reorganizuojamos užsienio bendrovės filialo, perkeliančios buveinę į kitą Europos Sąjungos valstybę narę ar Europos ekonominei erdvei priklausančią valstybę užsienio bendrovės filialo statusą ir jo netenka tą dieną, kai juridinių asmenų registro duomenų tvarkytojas gauna informaciją apie šių procedūrų pabaigą. Šiais atvejais mutatis mutandis taikomos šio straipsnio [[#^s-e8672a8d586bef003cb94ca9|7]], [[#^s-02d7c0eaa53db98d31842713|9]], [[#^s-fe2791dd7e716f1c048c357f|10]] dalys. ^s-cdbb8de70b3982e1617176a0
 
 
 12. Juridinių asmenų registro duomenų tvarkytojas, per Europos Sąjungos valstybių narių ir Europos ekonominei erdvei priklausančių valstybių centrinių, komercinių ir bendrovių registrų sąveikos sistemą gavęs informaciją apie nemokumo procedūrų (bankroto, restruktūrizavimo ar kitų analogiškų nemokiai bendrovei taikomų procedūrų) kitoje Europos Sąjungos valstybėje narėje ar Europos ekonominei erdvei priklausančioje valstybėje įsteigtai ribotos atsakomybės bendrovei pradėjimą ar jų pabaigą, nedelsdamas, bet ne vėliau kaip kitą darbo dieną nuo šios informacijos gavimo dienos apie tai informuoja tos bendrovės filialą. Nuo tos dienos, kai juridinių asmenų registro duomenų tvarkytojas gauna informaciją apie šioje dalyje nurodytų procedūrų pradžią, bendrovės filialas įgyja nemokios užsienio bendrovės filialo statusą ir jo netenka tą dieną, kai juridinių asmenų registro duomenų tvarkytojas gauna informaciją apie šių procedūrų pabaigą. Užsienio bendrovės filialo vadovas turi apie tai nedelsdamas viešai paskelbti Vyriausybės nustatyta tvarka juridinių asmenų registro duomenų tvarkytojo leidžiamame elektroniniame leidinyje viešiems pranešimams skelbti ir ne vėliau kaip pirmą viešo paskelbimo dieną pranešti visiems kreditoriams raštu. ^s-2bd2623570003f69f19add95
@@ -5800,7 +5800,7 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 9) filialo veiklos nutraukimo data. ^s-004c5305db0246b6d73d5698
 
 
-2. Apie šio Įstatymo [[#^s-97b57175ea85080d1c1c15c0|75 straipsnio 1 dalies]] 1 ir 2 punktuose nurodytų užsienio bendrovių filialus juridinių asmenų registro informacinėje sistemoje, be [[#^s-7030a0294ef3ac8f9699fa67|šio straipsnio 1 dalyje]] nustatytų duomenų, taip pat nurodomas registras, kuriame laikoma užsienio bendrovės byla, ir bendrovės numeris tame registre. ^s-81527866281902491697a5de
+2. Apie šio Įstatymo [[#^s-97b57175ea85080d1c1c15c0|75 straipsnio 1 dalies]] [[#^s-06257df84753e23571b3954a|1]] ir [[#^s-725cceec6f3746a40ac0118c|2]] punktuose nurodytų užsienio bendrovių filialus juridinių asmenų registro informacinėje sistemoje, be [[#^s-7030a0294ef3ac8f9699fa67|šio straipsnio 1 dalyje]] nustatytų duomenų, taip pat nurodomas registras, kuriame laikoma užsienio bendrovės byla, ir bendrovės numeris tame registre. ^s-81527866281902491697a5de
 
 
 3. Apie šio Įstatymo [[#^s-7790616675028992571832ee|75 straipsnio 1 dalies 3 punkte]] nurodytų užsienio bendrovių filialus juridinių asmenų registro informacinėje sistemoje, be [[#^s-7030a0294ef3ac8f9699fa67|šio straipsnio 1 dalyje]] nustatytų, taip pat nurodomi šie duomenys: ^s-4778fd6671df59809583df02
@@ -5831,7 +5831,7 @@ BAIGIAMOSIOS NUOSTATOS ir įstatymo įsigaliojimas
 ### 78 straipsnis. Baigiamosios nuostatos ^s-3508cdfe16bc4c789a2e16b1
 
 
-1. Šio Įstatymo [[#^s-8eec164b6483af616228647a|16 straipsnio 1 dalies 6 punkto]], [[#^s-77306eb7b3db7d600e8cad24|20 straipsnio 1 dalies 6 punkto]], [[#^s-ec16e88703a2b50a3d9ca644|22 straipsnio]] 3 ir [[#^s-b5f032dd0f5a6ac845f35447|4 dalių]], 261, 262 straipsnių, [[#^s-469f115c79b506dcd2a70a97|28 straipsnio 1 dalies 14 punkto]], 302, [[#^s-52aab708a438ed9a1b54f871|303 straipsnių]], [[#^s-4ad0348f5c2bcdc40489c2bb|32 straipsnio 1 dalies 10 punkto]], [[#^s-f9c4d367ce18c5978122630b|34 straipsnio 1 dalies 4 punkto]], 21, 31 ir 92 dalių, [[#^s-97602136c260c72979d35833|37 straipsnio 12 dalies]] 5, 6 ir 7 punktų, [[#^s-168055686554ed0920d1d958|373 straipsnio]] nuostatos netaikomos [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatyme]] nurodytiems kolektyvinio investavimo subjektams, išskyrus uždaro tipo kolektyvinio investavimo subjektus. Šio Įstatymo [[#^s-ec812fc1264bb93022daa11d|19 straipsnio 2 dalyje]] nustatytas reikalavimas sudaryti kolegialų organą, atliekantį priežiūros funkcijas, netaikomas [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatyme]] nurodytoms investicinėms bendrovėms, kurių teisinė forma yra akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje. ^s-1b1deaaf59584321b0fee402
+1. Šio Įstatymo [[#^s-8eec164b6483af616228647a|16 straipsnio 1 dalies 6 punkto]], [[#^s-77306eb7b3db7d600e8cad24|20 straipsnio 1 dalies 6 punkto]], [[#^s-ec16e88703a2b50a3d9ca644|22 straipsnio]] [[#^s-02e436855b5eef3c5ce67501|3]] ir [[#^s-2b331024b6760da89426ff71|4]] dalių, 261, 262 straipsnių, [[#^s-469f115c79b506dcd2a70a97|28 straipsnio 1 dalies 14 punkto]], [[#^s-918ab6310ad1b77a2edb21cb|302]], [[#^s-52aab708a438ed9a1b54f871|303]] straipsnių, [[#^s-4ad0348f5c2bcdc40489c2bb|32 straipsnio 1 dalies 10 punkto]], [[#^s-f9c4d367ce18c5978122630b|34 straipsnio 1 dalies 4 punkto]], [[#^s-cef82a8b4b74f4316ee93ba6|21]], [[#^s-fd8bb80d3141d1445ff16431|31]] ir [[#^s-52a04636f1870039813624a5|92]] dalių, [[#^s-97602136c260c72979d35833|37 straipsnio 12 dalies]] [[#^s-cf25e58de823b6ae12e64162|5]], [[#^s-667ea6f66fd8637b3a055841|6]] ir [[#^s-3f1c8fe36dea68d7d13367d8|7]] punktų, [[#^s-168055686554ed0920d1d958|373 straipsnio]] nuostatos netaikomos [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatyme]] nurodytiems kolektyvinio investavimo subjektams, išskyrus uždaro tipo kolektyvinio investavimo subjektus. Šio Įstatymo [[#^s-ec812fc1264bb93022daa11d|19 straipsnio 2 dalyje]] nustatytas reikalavimas sudaryti kolegialų organą, atliekantį priežiūros funkcijas, netaikomas [[latest/TAR.ED28779BEADF|Kolektyvinio investavimo subjektų įstatyme]] nurodytoms investicinėms bendrovėms, kurių teisinė forma yra akcinė bendrovė, kurios akcijomis leista prekiauti reguliuojamoje rinkoje. ^s-1b1deaaf59584321b0fee402
 Straipsnio dalies pakeitimai:
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
@@ -5839,7 +5839,7 @@ Nr. XV-386, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12139
 
 
 
-2. Jeigu akcinės bendrovės išleidžiamų perleidžiamųjų vertybinių popierių ar uždarosios akcinės bendrovės obligacijų bendra pardavimo vertė yra 1 milijonas eurų ir didesnė, bet mažesnė nei 12 milijonų eurų per 12 mėnesių laikotarpį, prieš viešą jų siūlymą Lietuvos Respublikoje turi būti parengtas ir paskelbtas informacinis dokumentas [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] nustatyta tvarka arba, kai akcijos ar obligacijos platinamos per sutelktinio finansavimo paslaugų teikėjo sutelktinio finansavimo platformą, turi būti parengtas pagrindinės informacijos apie investiciją dokumentas, kaip tai nustatyta Reglamente (ES) 2020/1503. ^s-4a7590c01e2af4341d1e7664
+2. Jeigu akcinės bendrovės išleidžiamų perleidžiamųjų vertybinių popierių ar uždarosios akcinės bendrovės obligacijų bendra pardavimo vertė yra 1 milijonas eurų ir didesnė, bet mažesnė nei 12 milijonų eurų per 12 mėnesių laikotarpį, prieš viešą jų siūlymą Lietuvos Respublikoje turi būti parengtas ir paskelbtas informacinis dokumentas [[latest/TAR.3DF892F52616|Vertybinių popierių įstatymo]] nustatyta tvarka arba, kai akcijos ar obligacijos platinamos per sutelktinio finansavimo paslaugų teikėjo sutelktinio finansavimo platformą, turi būti parengtas pagrindinės informacijos apie investiciją dokumentas, kaip tai nustatyta [Reglamente (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj). ^s-4a7590c01e2af4341d1e7664
 Straipsnio dalies pakeitimai:
 Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
 Nr. XII-2444, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17729
@@ -5881,7 +5881,7 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
 
 
-6. Finansų maklerio įmonės ir reguliuojamos rinkos operatoriai, valdantys daugiašales prekybos sistemas, privalo laikytis pagal Direktyvos (ES) 2024/2810 [[#^s-d633c09ef26acee59f81e5d9|5 straipsnio 5 dalį]] Europos Komisijos priimto teisės akto nustatytų techninių reguliavimo standartų (toliau šioje dalyje – techniniai reguliavimo standartai) ir aiškiai nurodyti, kad bendrovių, kurios yra išleidusios daugiabalses akcijas ir kurių akcijos įtrauktos į prekybą toje daugiašalėje sistemoje, akcijos yra daugiabalsės akcijos. Daugiabalses akcijas išleidusios bendrovės, ketinančios savo akcijas įtraukti į prekybą reguliuojamoje rinkoje, mažų ir vidutinių įmonių augimo rinkoje ar daugiašalėje prekybos sistemoje, laikydamosi techninių reguliavimo standartų, turi informuoti atitinkamas finansų maklerio įmones ir rinkos operatorius apie išleistas daugiabalses akcijas. ^s-5e2434cf2946803e92cb35f7
+6. Finansų maklerio įmonės ir reguliuojamos rinkos operatoriai, valdantys daugiašales prekybos sistemas, privalo laikytis pagal [Direktyvos (ES) 2024/2810 5 straipsnio 5 dalį](https://eur-lex.europa.eu/eli/dir/2024/2810/art_5/par_5/oj) Europos Komisijos priimto teisės akto nustatytų techninių reguliavimo standartų (toliau šioje dalyje – techniniai reguliavimo standartai) ir aiškiai nurodyti, kad bendrovių, kurios yra išleidusios daugiabalses akcijas ir kurių akcijos įtrauktos į prekybą toje daugiašalėje sistemoje, akcijos yra daugiabalsės akcijos. Daugiabalses akcijas išleidusios bendrovės, ketinančios savo akcijas įtraukti į prekybą reguliuojamoje rinkoje, mažų ir vidutinių įmonių augimo rinkoje ar daugiašalėje prekybos sistemoje, laikydamosi techninių reguliavimo standartų, turi informuoti atitinkamas finansų maklerio įmones ir rinkos operatorius apie išleistas daugiabalses akcijas. ^s-5e2434cf2946803e92cb35f7
 Papildyta straipsnio dalimi:
 Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
@@ -5918,7 +5918,7 @@ Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
 
 
-11. Bendrovių, įsteigtų iki 2014 m. gruodžio 31 d., įstatų keitimą, kai jie keičiami dėl įstatuose nurodyto įstatinio kapitalo dydžio ir akcijų nominalios vertės išraiškos litais keitimo į išraišką eurais, ir kitų dėl euro įvedimo atsirandančių pareigų vykdymą šis Įstatymas reglamentuoja tiek, kiek [[latest/59b54ac059ba11e487eff7b424bd0f08|Lietuvos Respublikos akcinių bendrovių ir uždarųjų akcinių bendrovių įstatinio kapitalo ir vertybinių popierių nominalios vertės išraiškos eurais ir šių bendrovių įstatų keitimo įstatymas]] nenustato kitaip. ^s-8ce3366f648e36024ae4454a
+11. Bendrovių, įsteigtų iki 2014 m. gruodžio 31 d., įstatų keitimą, kai jie keičiami dėl įstatuose nurodyto įstatinio kapitalo dydžio ir akcijų nominalios vertės išraiškos litais keitimo į išraišką eurais, ir kitų [dėl euro įvedimo](https://e-tar.lt/portal/lt/legalAct/TAR.BDF21F52468F) atsirandančių pareigų vykdymą šis Įstatymas reglamentuoja tiek, kiek [[latest/59b54ac059ba11e487eff7b424bd0f08|Lietuvos Respublikos akcinių bendrovių ir uždarųjų akcinių bendrovių įstatinio kapitalo ir vertybinių popierių nominalios vertės išraiškos eurais ir šių bendrovių įstatų keitimo įstatymas]] nenustato kitaip. ^s-8ce3366f648e36024ae4454a
 Papildyta straipsnio dalimi:
 Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
 Straipsnio dalies numeracijos pakeitimas:
@@ -6013,23 +6013,23 @@ priedas
 2. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/102/EB bendrovių teisės srityje dėl vienanarių privačių ribotos atsakomybės bendrovių. ^s-516b1c21b63947947501f131
 
 
-3. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB, su paskutiniais pakeitimais, padarytais 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2464. ^s-cbfe3bc2ebb0c7a4966aa451
+3. 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyva 2013/34/ES dėl tam tikrų rūšių įmonių metinių finansinių ataskaitų, konsoliduotųjų finansinių ataskaitų ir susijusių pranešimų, kuria iš dalies keičiama Europos Parlamento ir Tarybos direktyva 2006/43/EB ir panaikinamos Tarybos direktyvos 78/660/EEB ir 83/349/EEB, su paskutiniais pakeitimais, padarytais 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2022/2464](https://eur-lex.europa.eu/eli/dir/2022/2464/oj). ^s-cbfe3bc2ebb0c7a4966aa451
 Punkto pakeitimai:
 Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
 Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
 
 
-4. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/828, kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu. ^s-099594df24f576eafb2f9d85
+4. 2017 m. gegužės 17 d. Europos Parlamento ir Tarybos [direktyva (ES) 2017/828](https://eur-lex.europa.eu/eli/dir/2017/828/oj), kuria iš dalies keičiamos Direktyvos 2007/36/EB nuostatos, susijusios su akcininkų ilgalaikio dalyvavimo skatinimu. ^s-099594df24f576eafb2f9d85
 
 
-5. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1151. ^s-1bde671871efa538faff10aa
+5. 2017 m. birželio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2017/1132](https://eur-lex.europa.eu/eli/dir/2017/1132/oj) dėl tam tikrų bendrovių teisės aspektų su paskutiniais pakeitimais, padarytais 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/1151](https://eur-lex.europa.eu/eli/dir/2019/1151/oj). ^s-1bde671871efa538faff10aa
 Punkto pakeitimai:
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
 
 
 
-6. 2024 m. spalio 23 d. Europos Parlamento ir Tarybos Direktyva (ES) 2024/2810 dėl daugiabalses akcijas apimančių akcijų struktūrų bendrovėse, kurios siekia įtraukti savo akcijas į prekybą daugiašalėje prekybos sistemoje. ^s-11d889e607ac4912e95bff6a
+6. 2024 m. spalio 23 d. Europos Parlamento ir Tarybos [Direktyva (ES) 2024/2810](https://eur-lex.europa.eu/eli/dir/2024/2810/oj) dėl daugiabalses akcijas apimančių akcijų struktūrų bendrovėse, kurios siekia įtraukti savo akcijas į prekybą daugiašalėje prekybos sistemoje. ^s-11d889e607ac4912e95bff6a
 Papildyta punktu:
 Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
 
@@ -6079,7 +6079,7 @@ Nr. IX-1124, 2002-10-08, Žin., 2002, Nr. 101-4495 (2002-10-23)
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1275, 2002-12-10, Žin., 2002, Nr. 124-5628 (2002-12-27)
-AKCINIŲ BENDROVIŲ ĮSTATYMO 20, 24, 27, 32 IR 60 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+[AKCINIŲ BENDROVIŲ ĮSTATYMO 20, 24, 27, 32 IR 60 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.E4B5E74212CB)
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6103,7 +6103,7 @@ Nr. X-715, 2006-06-22, Žin., 2006, Nr. 77-2964 (2006-07-14)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-750, 2006-07-11, Žin., 2006, Nr. 82-3252 (2006-07-27)
 [[latest/TAR.348FD207192A|AKCINIŲ BENDROVIŲ ĮSTATYMO 2, 7, 8, 9, 12, 18, 20, 32, 34, 37, 45, 58 STRAIPSNIŲ, SEPTINTOJO SKIRSNIO PAVADINIMO, PRIEDO PAKEITIMO IR PAPILDYMO BEI 36 STRAIPSNIO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS]]
-Šio įstatymo 1 ir [[#^s-3a117926a75efac60c86256f|5 straipsniai]] įsigalioja nuo 2007 m. sausio 1 d.
+Šio įstatymo [[#^s-644fe2469c3d3c33d46499bf|1]] ir [[#^s-3a117926a75efac60c86256f|5]] straipsniai įsigalioja nuo 2007 m. sausio 1 d.
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6132,7 +6132,7 @@ Nr. X-1805, 2008-11-11, Žin., 2008, Nr. 135-5241 (2008-11-25)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-354, 2009-07-17, Žin., 2009, Nr. 91-3914 (2009-07-31)
 AKCINIŲ BENDROVIŲ ĮSTATYMO 1, 4, 7, 14, 16, 18, 20, 21, 22, 23, 24, 25, 26, 29, 30, 31, 32, 33, 34, 35, 37, 51, 52, 58, 59, 63, 64, 65, 74, 76, 78 STRAIPSNIŲ, SEPTINTOJO SKIRSNIO PAVADINIMO, PRIEDO PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 16(1), 26(1), 26(2), 30(1), 30(2), 30(3) STRAIPSNIAIS ĮSTATYMAS
-Šio įstatymo [[#^s-55700601697c41d2f9295668|5 straipsnio 1 dalis]], [[#^s-71939957d5b5fda80c155d44|6 straipsnis]], [[#^s-dd08253cca2efab3d196b1e9|10 straipsnio]] 1 ir 2 dalys, 15, 16, 17, 19, 20, 21 ir [[#^s-fc097461feb3bde38a8b1896|38 straipsniai]] įsigalioja 2009 m. rugpjūčio 1 d.
+Šio įstatymo [[#^s-55700601697c41d2f9295668|5 straipsnio 1 dalis]], [[#^s-71939957d5b5fda80c155d44|6 straipsnis]], [[#^s-dd08253cca2efab3d196b1e9|10 straipsnio]] [[#^s-32f7b065a6aae5ee124b8d51|1]] ir [[#^s-470aab66909b74464fabdcd4|2]] dalys, [[#^s-06642bc0d40baf281cb5f51c|15]], [[#^s-59f1852c769eb9b969238111|16]], [[#^s-bfe43c4e8b6b5a4fbede50ce|17]], [[#^s-06e47dfc60ed11fce1598dd1|19]], [[#^s-9514384e117af1de55c4cc1b|20]], [[#^s-5c5d4f32bacc83c0340057b1|21]] ir [[#^s-fc097461feb3bde38a8b1896|38]] straipsniai įsigalioja 2009 m. rugpjūčio 1 d.
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6146,8 +6146,8 @@ Kai valstybė įsigyja naujai išleistas banko akcijas, Akcinių bendrovių įst
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-564, 2009-12-15, Žin., 2009, Nr. 154-6945 (2009-12-28)
 AKCINIŲ BENDROVIŲ ĮSTATYMO 2, 4, 7, 10, 11, 12, 14, 17, 18, 26, 26(1), 32, 34, 35, 37, 41, 45, 47, 48, 53, 57, 62, 63, 65, 72, 73, 74, 75, 77, 78 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 41(1) STRAIPSNIU ĮSTATYMAS
-Šis įstatymas, išskyrus šio įstatymo [[#^s-cf9751640eb42aa63b33b56c|2 straipsnio]] 1 ir 2 dalis, [[#^s-dd08253cca2efab3d196b1e9|10 straipsnį]], [[#^s-8eef7186dc48fc60daf15c37|11 straipsnį]], 15 straipsnio 5 dalį, [[#^s-9514384e117af1de55c4cc1b|20 straipsnį]], [[#^s-180c1615f79d620a8b7d53aa|21 straipsnio 1 dalį]], [[#^s-ec16e88703a2b50a3d9ca644|22 straipsnį]], [[#^s-f84bf85f905313bb9c43d0e7|23 straipsnį]], [[#^s-8a63a5ab1a43a9fdaf7eef30|24 straipsnį]], [[#^s-0941c49bb3c6a3d82f42b20d|25 straipsnį]], 26 straipsnio 1 dalį, [[#^s-92142cd653e906bb58e3dc34|27 straipsnį]], [[#^s-168f7ac1609e3b7bbc72c7e5|29 straipsnį]] ir [[#^s-cf5ea92643516ebf1d3a899b|32 straipsnį]], įsigalioja 2010 m. kovo 1 d.
-Šio įstatymo [[#^s-cf9751640eb42aa63b33b56c|2 straipsnio]] 1 ir 2 dalys, [[#^s-dd08253cca2efab3d196b1e9|10 straipsnis]], [[#^s-8eef7186dc48fc60daf15c37|11 straipsnis]], 15 straipsnio 5 dalis, [[#^s-9514384e117af1de55c4cc1b|20 straipsnis]], [[#^s-180c1615f79d620a8b7d53aa|21 straipsnio 1 dalis]], [[#^s-ec16e88703a2b50a3d9ca644|22 straipsnis]], [[#^s-f84bf85f905313bb9c43d0e7|23 straipsnis]], [[#^s-8a63a5ab1a43a9fdaf7eef30|24 straipsnis]], [[#^s-0941c49bb3c6a3d82f42b20d|25 straipsnis]], 26 straipsnio 1 dalis, [[#^s-92142cd653e906bb58e3dc34|27 straipsnis]] ir [[#^s-168f7ac1609e3b7bbc72c7e5|29 straipsnis]] įsigalioja 2010 m. spalio 1 d.
+Šis įstatymas, išskyrus šio įstatymo [[#^s-cf9751640eb42aa63b33b56c|2 straipsnio]] [[#^s-74e2ba1154ac12bcf7a3c372|1]] ir [[#^s-1eb5eaac0c0dbef40ef05f01|2]] dalis, [[#^s-dd08253cca2efab3d196b1e9|10 straipsnį]], [[#^s-8eef7186dc48fc60daf15c37|11 straipsnį]], 15 straipsnio 5 dalį, [[#^s-9514384e117af1de55c4cc1b|20 straipsnį]], [[#^s-180c1615f79d620a8b7d53aa|21 straipsnio 1 dalį]], [[#^s-ec16e88703a2b50a3d9ca644|22 straipsnį]], [[#^s-f84bf85f905313bb9c43d0e7|23 straipsnį]], [[#^s-8a63a5ab1a43a9fdaf7eef30|24 straipsnį]], [[#^s-0941c49bb3c6a3d82f42b20d|25 straipsnį]], 26 straipsnio 1 dalį, [[#^s-92142cd653e906bb58e3dc34|27 straipsnį]], [[#^s-168f7ac1609e3b7bbc72c7e5|29 straipsnį]] ir [[#^s-cf5ea92643516ebf1d3a899b|32 straipsnį]], įsigalioja 2010 m. kovo 1 d.
+Šio įstatymo [[#^s-cf9751640eb42aa63b33b56c|2 straipsnio]] [[#^s-74e2ba1154ac12bcf7a3c372|1]] ir [[#^s-1eb5eaac0c0dbef40ef05f01|2]] dalys, [[#^s-dd08253cca2efab3d196b1e9|10 straipsnis]], [[#^s-8eef7186dc48fc60daf15c37|11 straipsnis]], 15 straipsnio 5 dalis, [[#^s-9514384e117af1de55c4cc1b|20 straipsnis]], [[#^s-180c1615f79d620a8b7d53aa|21 straipsnio 1 dalis]], [[#^s-ec16e88703a2b50a3d9ca644|22 straipsnis]], [[#^s-f84bf85f905313bb9c43d0e7|23 straipsnis]], [[#^s-8a63a5ab1a43a9fdaf7eef30|24 straipsnis]], [[#^s-0941c49bb3c6a3d82f42b20d|25 straipsnis]], 26 straipsnio 1 dalis, [[#^s-92142cd653e906bb58e3dc34|27 straipsnis]] ir [[#^s-168f7ac1609e3b7bbc72c7e5|29 straipsnis]] įsigalioja 2010 m. spalio 1 d.
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6196,15 +6196,15 @@ AKCINIŲ BENDROVIŲ ĮSTATYMO 11, 12, 41(1), 78 STRAIPSNIŲ PAKEITIMO IR PAPILDY
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-912, 2014-06-05, paskelbta TAR 2014-06-16, i. k. 2014-07641
-LIETUVOS RESPUBLIKOS AKCINIŲ BENDROVIŲ ĮSTATYMO NR. VIII-1835 19, 20, 24, 25, 30, 31, 33, 34, 35, 37, 44, 54, 59, 60-1, 63, 67, 69, [[#^s-aefe4e64e8b0a40a0d2398df|72 STRAIPSNIŲ]] IR PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO 45-2 STRAIPSNIU ĮSTATYMAS
+LIETUVOS RESPUBLIKOS AKCINIŲ BENDROVIŲ ĮSTATYMO NR. VIII-1835 [[#^s-06e47dfc60ed11fce1598dd1|19]], [[#^s-9514384e117af1de55c4cc1b|20]], [[#^s-8a63a5ab1a43a9fdaf7eef30|24]], [[#^s-0941c49bb3c6a3d82f42b20d|25]], [[#^s-68481c2d18d10edae3ebda16|30]], [[#^s-7950f88b7d38d1f2282e847a|31]], [[#^s-139e6973d71d3e3dfb0473a1|33]], [[#^s-80be74bd52d4c003986ef44a|34]], [[#^s-3a27992a0550cef054fd03ea|35]], [[#^s-4c44e812e02ee301390fa742|37]], [[#^s-57c0b68de87fb40d556a8206|44]], [[#^s-0e5dd8db41e014e9b20396b0|54]], [[#^s-493a8c0d3a8f5e2ff53516ab|59]], 60-1, [[#^s-31dffc86769e7e91a9783a28|63]], [[#^s-42589402945d1f9a6b137b38|67]], [[#^s-160c045f8a1ce965bd706ef1|69]], [[#^s-aefe4e64e8b0a40a0d2398df|72]] STRAIPSNIŲ IR PRIEDO PAKEITIMO IR ĮSTATYMO PAPILDYMO 45-2 STRAIPSNIU ĮSTATYMAS
 Šio įstatymo [[#^s-a0971bfe304631ea1c3c2991|1 straipsnio 1 dalis]] įsigalioja 2015 m. liepos 1 d.
 Pastaba: Šio įstatymo [[#^s-8ca171bb97ca9bbc5d95613e|6 straipsnio 1 dalyje]] išdėstytos Lietuvos Respublikos akcinių bendrovių įstatymo 31 straipsnio 7 dalies nuostatos ir šio įstatymo [[#^s-98bb84cc40e4a9d732d67172|7 straipsnio 3 dalyje]] išdėstytos Lietuvos Respublikos akcinių bendrovių įstatymo 33 straipsnio 7 dalies nuostatos taikomos bendrovėse renkant naują valdybą ir stebėtojų tarybą. Iki šio įstatymo įsigaliojimo išrinkta valdyba ar stebėtojų taryba savo funkcijas atlieka iki kadencijos, kuriai ji buvo išrinkta, pabaigos arba iki bus išrinkta nauja valdyba ar stebėtojų taryba.
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-985, 2014-06-26, paskelbta TAR 2014-07-07, i. k. 2014-09904
-LIETUVOS RESPUBLIKOS AKCINIŲ BENDROVIŲ ĮSTATYMO NR. VIII-1835 75, [[#^s-cbf72b1333941bb3803cf46d|76 STRAIPSNIŲ]] IR PRIEDO PAKEITIMO ĮSTATYMAS
-Šio įstatymo 1 ir [[#^s-9114af31de4e4ed1a4b592b4|3 straipsniai]] įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių centrinių, komercinių ir bendrovių registrų sąveikos sistema.
+LIETUVOS RESPUBLIKOS AKCINIŲ BENDROVIŲ ĮSTATYMO NR. VIII-1835 [[#^s-978f7f08633d027c71f7fd48|75]], [[#^s-cbf72b1333941bb3803cf46d|76]] STRAIPSNIŲ IR PRIEDO PAKEITIMO ĮSTATYMAS
+Šio įstatymo [[#^s-644fe2469c3d3c33d46499bf|1]] ir [[#^s-9114af31de4e4ed1a4b592b4|3]] straipsniai įsigalioja dieną, kurią pradeda veikti Europos Sąjungos valstybių narių centrinių, komercinių ir bendrovių registrų sąveikos sistema.
 Šio įstatymo [[#^s-cf9751640eb42aa63b33b56c|2 straipsnis]] įsigalioja 2014 m. spalio 1 d.
 
 28.
@@ -6221,12 +6221,12 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1092, 2014-09-18, paskelbta TAR 2014-09-23, i. k. 2014-12714
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 44 ir [[#^s-1bae83349b9d22ace19e966d|47 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-57c0b68de87fb40d556a8206|44]] ir [[#^s-1bae83349b9d22ace19e966d|47]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1224, 2014-10-14, paskelbta TAR 2014-10-22, i. k. 2014-14524
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 40 ir [[#^s-3508cdfe16bc4c789a2e16b1|78 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-cf9751640eb42aa63b33b56c|2]], [[#^s-c3fcda65423a9241c5b2c10d|40]] ir [[#^s-3508cdfe16bc4c789a2e16b1|78]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6236,22 +6236,22 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-644fe2469
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2444, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17729
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 55 ir [[#^s-3508cdfe16bc4c789a2e16b1|78 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-5246029eca1939c535483acb|55]] ir [[#^s-3508cdfe16bc4c789a2e16b1|78]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-465, 2017-06-20, paskelbta TAR 2017-06-27, i. k. 2017-10825
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 37, 46, 52, 72, 74 ir [[#^s-3508cdfe16bc4c789a2e16b1|78 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-4c44e812e02ee301390fa742|37]], [[#^s-05527a0cf348d59f2f901b02|46]], [[#^s-a4cf0b94c9eafb1fcbd849ca|52]], [[#^s-aefe4e64e8b0a40a0d2398df|72]], [[#^s-7d5f798457515ba46d7dd116|74]] ir [[#^s-3508cdfe16bc4c789a2e16b1|78]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-556, 2017-06-29, paskelbta TAR 2017-07-12, i. k. 2017-12059
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 7, 8, 12, 14, 15, 18, 20, 28, 32, 34, 37, 38, 39, 40, 41, 41-1, 43, 44, 45, 45-1, 46, 47, 51, 52, 54, 57, 59 ir [[#^s-42589402945d1f9a6b137b38|67 straipsnių]] pakeitimo ir Įstatymo papildymo 40-1, 47-1, 47-2 ir 53-1 straipsniais įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-cf9751640eb42aa63b33b56c|2]], [[#^s-47aa0f2486c77d0c2b918ab6|7]], [[#^s-4abecac4649c88bcbe60f435|8]], [[#^s-555906409194f01a1a05ec82|12]], [[#^s-7436a568a68ac527515ac4f9|14]], [[#^s-06642bc0d40baf281cb5f51c|15]], [[#^s-97b65fc797162ef8a3a0edfd|18]], [[#^s-9514384e117af1de55c4cc1b|20]], [[#^s-907f2ef83f926324656f3563|28]], [[#^s-cf5ea92643516ebf1d3a899b|32]], [[#^s-80be74bd52d4c003986ef44a|34]], [[#^s-4c44e812e02ee301390fa742|37]], [[#^s-fc097461feb3bde38a8b1896|38]], [[#^s-7707e1bf5c262d86698aefa4|39]], [[#^s-c3fcda65423a9241c5b2c10d|40]], [[#^s-80e5cbbd94346c0a7ea45a26|41]], 41-1, [[#^s-7c69e2feb9600dfd2ed1ec7e|43]], [[#^s-57c0b68de87fb40d556a8206|44]], [[#^s-27fbb02d78dbab76aa4e00ff|45]], 45-1, [[#^s-05527a0cf348d59f2f901b02|46]], [[#^s-1bae83349b9d22ace19e966d|47]], [[#^s-0cfd0c256e5f8ae80bf1ec92|51]], [[#^s-a4cf0b94c9eafb1fcbd849ca|52]], [[#^s-0e5dd8db41e014e9b20396b0|54]], [[#^s-58bb0cf0d60ab1a2739edc74|57]], [[#^s-493a8c0d3a8f5e2ff53516ab|59]] ir [[#^s-42589402945d1f9a6b137b38|67]] straipsnių pakeitimo ir Įstatymo papildymo 40-1, 47-1, 47-2 ir 53-1 straipsniais įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-784, 2017-11-21, paskelbta TAR 2017-11-28, i. k. 2017-18847
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 16-1, 18, 19, 20, 21, 25, 31, 32, 33, 34, [[#^s-4c44e812e02ee301390fa742|37 straipsnių]] pakeitimo ir Įstatymo papildymo 37-2 straipsniu įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 16-1, [[#^s-97b65fc797162ef8a3a0edfd|18]], [[#^s-06e47dfc60ed11fce1598dd1|19]], [[#^s-9514384e117af1de55c4cc1b|20]], [[#^s-5c5d4f32bacc83c0340057b1|21]], [[#^s-0941c49bb3c6a3d82f42b20d|25]], [[#^s-7950f88b7d38d1f2282e847a|31]], [[#^s-cf5ea92643516ebf1d3a899b|32]], [[#^s-139e6973d71d3e3dfb0473a1|33]], [[#^s-80be74bd52d4c003986ef44a|34]], [[#^s-4c44e812e02ee301390fa742|37]] straipsnių pakeitimo ir Įstatymo papildymo 37-2 straipsniu įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6271,27 +6271,27 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-644fe2469
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2249, 2019-06-27, paskelbta TAR 2019-07-05, i. k. 2019-11167
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 1, 16, 20, 21, 28, 32, 34, 37, 37-2, [[#^s-3508cdfe16bc4c789a2e16b1|78 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 37-3 straipsniu įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-644fe2469c3d3c33d46499bf|1]], [[#^s-59f1852c769eb9b969238111|16]], [[#^s-9514384e117af1de55c4cc1b|20]], [[#^s-5c5d4f32bacc83c0340057b1|21]], [[#^s-907f2ef83f926324656f3563|28]], [[#^s-cf5ea92643516ebf1d3a899b|32]], [[#^s-80be74bd52d4c003986ef44a|34]], [[#^s-4c44e812e02ee301390fa742|37]], 37-2, [[#^s-3508cdfe16bc4c789a2e16b1|78]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 37-3 straipsniu įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2357, 2019-07-16, paskelbta TAR 2019-07-19, i. k. 2019-11979
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 16, 27, 44 ir [[#^s-3508cdfe16bc4c789a2e16b1|78 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-cf9751640eb42aa63b33b56c|2]], [[#^s-59f1852c769eb9b969238111|16]], [[#^s-92142cd653e906bb58e3dc34|27]], [[#^s-57c0b68de87fb40d556a8206|44]] ir [[#^s-3508cdfe16bc4c789a2e16b1|78]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2231, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10348
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 20, 24, 34 ir [[#^s-09369586a340f7f58f271808|73 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-9514384e117af1de55c4cc1b|20]], [[#^s-8a63a5ab1a43a9fdaf7eef30|24]], [[#^s-80be74bd52d4c003986ef44a|34]] ir [[#^s-09369586a340f7f58f271808|73]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2524, 2019-11-14, paskelbta TAR 2019-11-21, i. k. 2019-18576
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 20, 24, 34 ir [[#^s-09369586a340f7f58f271808|73 straipsnių]] pakeitimo [[latest/2884e20098c411e9ae2e9d61b1f977b3|įstatymo Nr. XIII-2231]] [[#^s-644fe2469c3d3c33d46499bf|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-9514384e117af1de55c4cc1b|20]], [[#^s-8a63a5ab1a43a9fdaf7eef30|24]], [[#^s-80be74bd52d4c003986ef44a|34]] ir [[#^s-09369586a340f7f58f271808|73]] straipsnių pakeitimo [[latest/2884e20098c411e9ae2e9d61b1f977b3|įstatymo Nr. XIII-2231]] [[#^s-644fe2469c3d3c33d46499bf|1 straipsnio]] pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3183, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15506
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 31 ir [[#^s-139e6973d71d3e3dfb0473a1|33 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-7950f88b7d38d1f2282e847a|31]] ir [[#^s-139e6973d71d3e3dfb0473a1|33]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6306,12 +6306,12 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 41-1 straipsnio
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-827, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27719
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 55 ir [[#^s-3508cdfe16bc4c789a2e16b1|78 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-cf9751640eb42aa63b33b56c|2]], [[#^s-5246029eca1939c535483acb|55]] ir [[#^s-3508cdfe16bc4c789a2e16b1|78]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-688, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25115
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 20, 37-2, 39, 47-2, 58, 59, 63, 74, [[#^s-cbf72b1333941bb3803cf46d|76 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-9514384e117af1de55c4cc1b|20]], 37-2, [[#^s-7707e1bf5c262d86698aefa4|39]], 47-2, [[#^s-2cf709a8e0f1a6b88ad6c353|58]], [[#^s-493a8c0d3a8f5e2ff53516ab|59]], [[#^s-31dffc86769e7e91a9783a28|63]], [[#^s-7d5f798457515ba46d7dd116|74]], [[#^s-cbf72b1333941bb3803cf46d|76]] straipsnių ir priedo pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -6321,34 +6321,34 @@ Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-644fe2469
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1540, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24190
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 15, 17, 21, 26, 27, 28, 29, 30, 30-1, 32, 34, 37, 37-2, 40, 42, 45, 47, 47-1, 51, 56 ir [[#^s-3508cdfe16bc4c789a2e16b1|78 straipsnių]], priedo pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-cf9751640eb42aa63b33b56c|2]], [[#^s-06642bc0d40baf281cb5f51c|15]], [[#^s-bfe43c4e8b6b5a4fbede50ce|17]], [[#^s-5c5d4f32bacc83c0340057b1|21]], [[#^s-c5c1a804bae8cfaa986302b0|26]], [[#^s-92142cd653e906bb58e3dc34|27]], [[#^s-907f2ef83f926324656f3563|28]], [[#^s-168f7ac1609e3b7bbc72c7e5|29]], [[#^s-68481c2d18d10edae3ebda16|30]], 30-1, [[#^s-cf5ea92643516ebf1d3a899b|32]], [[#^s-80be74bd52d4c003986ef44a|34]], [[#^s-4c44e812e02ee301390fa742|37]], 37-2, [[#^s-c3fcda65423a9241c5b2c10d|40]], [[#^s-f802750523a3dc90bc4ed39a|42]], [[#^s-27fbb02d78dbab76aa4e00ff|45]], [[#^s-1bae83349b9d22ace19e966d|47]], 47-1, [[#^s-0cfd0c256e5f8ae80bf1ec92|51]], [[#^s-5aeaa2f9b202fef9eb2781bb|56]] ir [[#^s-3508cdfe16bc4c789a2e16b1|78]] straipsnių, priedo pakeitimo ir Įstatymo papildymo 46-1 straipsniu įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2637, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09673
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 7, 12, 37-2, 45, 46-1 ir [[#^s-58bb0cf0d60ab1a2739edc74|57 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-47aa0f2486c77d0c2b918ab6|7]], [[#^s-555906409194f01a1a05ec82|12]], 37-2, [[#^s-27fbb02d78dbab76aa4e00ff|45]], 46-1 ir [[#^s-58bb0cf0d60ab1a2739edc74|57]] straipsnių pakeitimo įstatymas
 
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2820, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12157
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 18, 20, 21, 24, 25, 30, 31, 32, 33, 34, 37, 37-2, 37-3, 55, 58, 60-1, 65, 74, [[#^s-cbf72b1333941bb3803cf46d|76 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-97b65fc797162ef8a3a0edfd|18]], [[#^s-9514384e117af1de55c4cc1b|20]], [[#^s-5c5d4f32bacc83c0340057b1|21]], [[#^s-8a63a5ab1a43a9fdaf7eef30|24]], [[#^s-0941c49bb3c6a3d82f42b20d|25]], [[#^s-68481c2d18d10edae3ebda16|30]], [[#^s-7950f88b7d38d1f2282e847a|31]], [[#^s-cf5ea92643516ebf1d3a899b|32]], [[#^s-139e6973d71d3e3dfb0473a1|33]], [[#^s-80be74bd52d4c003986ef44a|34]], [[#^s-4c44e812e02ee301390fa742|37]], 37-2, 37-3, [[#^s-5246029eca1939c535483acb|55]], [[#^s-2cf709a8e0f1a6b88ad6c353|58]], 60-1, [[#^s-e37e049009bbc84dc786120d|65]], [[#^s-7d5f798457515ba46d7dd116|74]], [[#^s-cbf72b1333941bb3803cf46d|76]] straipsnių ir priedo pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2913, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13548
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 7, 12, 37-2, 45, 46-1 ir [[#^s-58bb0cf0d60ab1a2739edc74|57 straipsnių]] pakeitimo [[latest/9c8223d01e5611ef8b14c5bcce136045|įstatymo Nr. XIV-2637]] [[#^s-9114af31de4e4ed1a4b592b4|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-47aa0f2486c77d0c2b918ab6|7]], [[#^s-555906409194f01a1a05ec82|12]], 37-2, [[#^s-27fbb02d78dbab76aa4e00ff|45]], 46-1 ir [[#^s-58bb0cf0d60ab1a2739edc74|57]] straipsnių pakeitimo [[latest/9c8223d01e5611ef8b14c5bcce136045|įstatymo Nr. XIV-2637]] [[#^s-9114af31de4e4ed1a4b592b4|3 straipsnio]] pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-386, 2025-06-30, paskelbta TAR 2025-07-02, i. k. 2025-12139
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 2, 15, 17, 19, 20, 24, 26, 26-1, 26-2, 28, 31, 32, 33, 34, 38, 39, 42, 45-1, 45-2, 46-1, 49, 51, 52, 53-1, 54, 55, 56, 57, 58, 59, 60, 60-1, 74, 76, 77 ir [[#^s-3508cdfe16bc4c789a2e16b1|78 straipsnių]] pakeitimo ir Įstatymo papildymo 42-1 straipsniu įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-cf9751640eb42aa63b33b56c|2]], [[#^s-06642bc0d40baf281cb5f51c|15]], [[#^s-bfe43c4e8b6b5a4fbede50ce|17]], [[#^s-06e47dfc60ed11fce1598dd1|19]], [[#^s-9514384e117af1de55c4cc1b|20]], [[#^s-8a63a5ab1a43a9fdaf7eef30|24]], [[#^s-c5c1a804bae8cfaa986302b0|26]], 26-1, 26-2, [[#^s-907f2ef83f926324656f3563|28]], [[#^s-7950f88b7d38d1f2282e847a|31]], [[#^s-cf5ea92643516ebf1d3a899b|32]], [[#^s-139e6973d71d3e3dfb0473a1|33]], [[#^s-80be74bd52d4c003986ef44a|34]], [[#^s-fc097461feb3bde38a8b1896|38]], [[#^s-7707e1bf5c262d86698aefa4|39]], [[#^s-f802750523a3dc90bc4ed39a|42]], 45-1, 45-2, 46-1, [[#^s-feb7e2ccfd7ce748983bef39|49]], [[#^s-0cfd0c256e5f8ae80bf1ec92|51]], [[#^s-a4cf0b94c9eafb1fcbd849ca|52]], 53-1, [[#^s-0e5dd8db41e014e9b20396b0|54]], [[#^s-5246029eca1939c535483acb|55]], [[#^s-5aeaa2f9b202fef9eb2781bb|56]], [[#^s-58bb0cf0d60ab1a2739edc74|57]], [[#^s-2cf709a8e0f1a6b88ad6c353|58]], [[#^s-493a8c0d3a8f5e2ff53516ab|59]], [[#^s-f98f46cfa35b33b3a1050b6a|60]], 60-1, [[#^s-7d5f798457515ba46d7dd116|74]], [[#^s-cbf72b1333941bb3803cf46d|76]], [[#^s-344d3f93005f42f97ba2d749|77]] ir [[#^s-3508cdfe16bc4c789a2e16b1|78]] straipsnių pakeitimo ir Įstatymo papildymo 42-1 straipsniu įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-849, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06958
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 26-2, [[#^s-3508cdfe16bc4c789a2e16b1|78 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 26-2, [[#^s-3508cdfe16bc4c789a2e16b1|78]] straipsnių ir priedo pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1045, 2026-06-18, paskelbta TAR 2026-06-26, i. k. 2026-11117
-Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 4, 7, 8, 9, 11, 12, 13, 17, 37, 38, 41-1, 42, 42-1, 43, 45, 45-1, 45-2, 46, 47-1, 49, 50, 51, 52, 53, 53-1, 54, 56, 57, 58, 62, 63, 64, 66, 68, 69, 70, 70-1, 72, 73, 74, 75, 76, 77, [[#^s-3508cdfe16bc4c789a2e16b1|78 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos akcinių bendrovių įstatymo Nr. VIII-1835 [[#^s-13495923e799b968fc66c2e4|4]], [[#^s-47aa0f2486c77d0c2b918ab6|7]], [[#^s-4abecac4649c88bcbe60f435|8]], [[#^s-f97ee57784a7487e30f3d878|9]], [[#^s-8eef7186dc48fc60daf15c37|11]], [[#^s-555906409194f01a1a05ec82|12]], [[#^s-5cd0c8ca4d9dece1cb35588d|13]], [[#^s-bfe43c4e8b6b5a4fbede50ce|17]], [[#^s-4c44e812e02ee301390fa742|37]], [[#^s-fc097461feb3bde38a8b1896|38]], 41-1, [[#^s-f802750523a3dc90bc4ed39a|42]], 42-1, [[#^s-7c69e2feb9600dfd2ed1ec7e|43]], [[#^s-27fbb02d78dbab76aa4e00ff|45]], 45-1, 45-2, [[#^s-05527a0cf348d59f2f901b02|46]], 47-1, [[#^s-feb7e2ccfd7ce748983bef39|49]], [[#^s-071d59e4e31d29007a458eff|50]], [[#^s-0cfd0c256e5f8ae80bf1ec92|51]], [[#^s-a4cf0b94c9eafb1fcbd849ca|52]], [[#^s-42c32055736b68d44d27e15e|53]], 53-1, [[#^s-0e5dd8db41e014e9b20396b0|54]], [[#^s-5aeaa2f9b202fef9eb2781bb|56]], [[#^s-58bb0cf0d60ab1a2739edc74|57]], [[#^s-2cf709a8e0f1a6b88ad6c353|58]], [[#^s-58f13580fcc5d41792029ab9|62]], [[#^s-31dffc86769e7e91a9783a28|63]], [[#^s-1aff1674344ee1fd75685b02|64]], [[#^s-a095abe002aae8813848e112|66]], [[#^s-3b6da5984ed90f7eda66eef8|68]], [[#^s-160c045f8a1ce965bd706ef1|69]], [[#^s-532f8cbfb1662653940e5256|70]], 70-1, [[#^s-aefe4e64e8b0a40a0d2398df|72]], [[#^s-09369586a340f7f58f271808|73]], [[#^s-7d5f798457515ba46d7dd116|74]], [[#^s-978f7f08633d027c71f7fd48|75]], [[#^s-cbf72b1333941bb3803cf46d|76]], [[#^s-344d3f93005f42f97ba2d749|77]], [[#^s-3508cdfe16bc4c789a2e16b1|78]] straipsnių ir priedo pakeitimo įstatymas

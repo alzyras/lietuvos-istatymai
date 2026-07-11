@@ -81,7 +81,7 @@ Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
 ### 4 straipsnis. 6 straipsnio pakeitimas ^s-d6438dfd3dded76e76b2069b
 
 
-[[#^s-a921531e8ba73d7abe44b8ac|6 straipsnio]] 1, 3 ir 4 dalis pripažinti netekusiomis galios, buvusias 2 ir 5 dalis laikyti atitinkamai 1 ir [[#^s-382c124d812d51c997fa686d|2 dalimis]], [[#^s-a3ec65cb4d332e0c5473954c|1 dalyje]] vietoj žodžių „Lietuvos Respublikos susisiekimo ministerijos“ įrašyti žodžius „susisiekimo ministro“, [[#^s-382c124d812d51c997fa686d|2 dalies]] antrajame sakinyje vietoj žodžių „Reikalavimai dėl šių laivų padarytų nuostolių“ įrašyti žodžius „Su šiais laivais susiję reikalavimai“ ir visą straipsnį išdėstyti taip:
+[[#^s-a921531e8ba73d7abe44b8ac|6 straipsnio]] [[#^s-1ae3678c072a9dc6527885dd|1]], [[#^s-073245c1c06c5d135e167a91|3]] ir 4 dalis pripažinti netekusiomis galios, buvusias [[#^s-988219cea4c8d9be38c83119|2]] ir 5 dalis laikyti atitinkamai [[#^s-1ae3678c072a9dc6527885dd|1]] ir [[#^s-988219cea4c8d9be38c83119|2]] dalimis, [[#^s-a3ec65cb4d332e0c5473954c|1 dalyje]] vietoj žodžių „Lietuvos Respublikos susisiekimo ministerijos“ įrašyti žodžius „susisiekimo ministro“, [[#^s-382c124d812d51c997fa686d|2 dalies]] antrajame sakinyje vietoj žodžių „Reikalavimai dėl šių laivų padarytų nuostolių“ įrašyti žodžius „Su šiais laivais susiję reikalavimai“ ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-a921531e8ba73d7abe44b8ac|6 straipsnis]]. Bendrieji reikalavimai
@@ -110,7 +110,7 @@ Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip:
 ### 6 straipsnis. 8 straipsnio pakeitimas ^s-a921531e8ba73d7abe44b8ac
 
 
-8 straipsnio 1 dalyje po žodžių „Lietuvos Respublikos“ įrašyti žodį „jūrų“, išbraukti žodžius „arba laivų knygą“, papildyti straipsnį nauja [[#^s-988219cea4c8d9be38c83119|2 dalimi]], buvusią [[#^s-988219cea4c8d9be38c83119|2 dalį]] laikyti [[#^s-073245c1c06c5d135e167a91|3 dalimi]] ir joje po žodžio „Vyriausybė“ įrašyti žodžius „ar jos įgaliota institucija“, buvusias 3, 4 ir 5 dalis pripažinti netekusiomis galios ir visą straipsnį išdėstyti taip:
+8 straipsnio 1 dalyje po žodžių „Lietuvos Respublikos“ įrašyti žodį „jūrų“, išbraukti žodžius „arba laivų knygą“, papildyti straipsnį nauja [[#^s-988219cea4c8d9be38c83119|2 dalimi]], buvusią [[#^s-988219cea4c8d9be38c83119|2 dalį]] laikyti [[#^s-073245c1c06c5d135e167a91|3 dalimi]] ir joje po žodžio „Vyriausybė“ įrašyti žodžius „ar jos įgaliota institucija“, buvusias [[#^s-073245c1c06c5d135e167a91|3]], 4 ir 5 dalis pripažinti netekusiomis galios ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-591364f002fbe59ddbfebf64|8 straipsnis]]. Laivo registravimas
@@ -158,7 +158,7 @@ Laivas, įregistruotas Lietuvos Respublikos jūrų laivų registre ir plaukiojan
 ### 9 straipsnis. 11 straipsnio 1, 3 ir 4 dalių pripažinimas netekusiomis galios ^s-ea1c021e6b8a45359b319673
 
 
-[[#^s-8653bd2771e85ec5f8b0421a|11 straipsnio]] 1, 3 ir 4 dalis pripažinti netekusiomis galios.
+[[#^s-8653bd2771e85ec5f8b0421a|11 straipsnio]] [[#^s-3f10aef9cb3f3bb3604e692b|1]], 3 ir 4 dalis pripažinti netekusiomis galios.
 
 
 

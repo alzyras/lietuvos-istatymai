@@ -180,7 +180,7 @@ Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 2) nepaprastosios padėties įvedimo teritorija ir trukmė, tiksliai nurodant jos įvedimo laiką (data ir valanda); ^s-427ed8643d8a69588f77d793
 
 
-3) šio Įstatymo nustatyti naudojimosi Konstitucijos 22, 24, 25, 32, 35, 36 straipsniuose nurodytomis teisėmis ir laisvėmis apribojimai; ^s-33b46c329dd55016cbcd8e05
+3) šio Įstatymo nustatyti naudojimosi Konstitucijos [[#^s-0465afeb08cb1c0b668dfba4|22]], [[#^s-749aa7666cf1ab6ff804bf68|24]], [[#^s-8e9949ab74d89bef89fdb19f|25]], [[#^s-2139c23cd6f47eb9cec6e46c|32]], 35, 36 straipsniuose nurodytomis teisėmis ir laisvėmis apribojimai; ^s-33b46c329dd55016cbcd8e05
 
 
 4) konkrečios taikomos nepaprastosios priemonės, nurodytos šio Įstatymo [[#^s-bed0ca88c1072b4ed7479560|28 straipsnyje]]; ^s-6fa12129c92766e8e165762d
@@ -407,13 +407,13 @@ NEPAPRASTOSIOS PADĖTIES METU
 ### 18 straipsnis. Naudojimosi konstitucinėmis teisėmis ir laisvėmis apribojimų bei nepaprastųjų priemonių panaudojimo nustatymas ^s-a9c2a4933b574f7d8f4ced43
 
 
-1. Naudojimosi Konstitucijos 22, 24, 25, 32, 35, 36 straipsniuose nustatytomis teisėmis ir laisvėmis apribojimą bei nepaprastųjų priemonių panaudojimą nustato Seimas arba Respublikos Prezidentas, vadovaudamiesi Konstitucija, šiuo ir kitais įstatymais, atsižvelgdami į grėsmės konstitucinei santvarkai, visuomenės rimčiai laipsnį ir pobūdį, kitų aplinkybių ir sąlygų visumą bei galimybes greičiausiu būdu pašalinti grėsmę, sumažinti ją bei jos sukeltus padarinius. ^s-360cf5817ef1767520bb06f0
+1. Naudojimosi Konstitucijos [[#^s-0465afeb08cb1c0b668dfba4|22]], [[#^s-749aa7666cf1ab6ff804bf68|24]], [[#^s-8e9949ab74d89bef89fdb19f|25]], [[#^s-2139c23cd6f47eb9cec6e46c|32]], 35, 36 straipsniuose nustatytomis teisėmis ir laisvėmis apribojimą bei nepaprastųjų priemonių panaudojimą nustato Seimas arba Respublikos Prezidentas, vadovaudamiesi Konstitucija, šiuo ir kitais įstatymais, atsižvelgdami į grėsmės konstitucinei santvarkai, visuomenės rimčiai laipsnį ir pobūdį, kitų aplinkybių ir sąlygų visumą bei galimybes greičiausiu būdu pašalinti grėsmę, sumažinti ją bei jos sukeltus padarinius. ^s-360cf5817ef1767520bb06f0
 
 
 2. Institucijos, atsakingos už nepaprastosios padėties valdymą, vadovas, pasikonsultavęs su Lietuvos Respublikos trišale taryba, gali nustatyti streiko ribojimus teritorijoje, kurioje įvesta nepaprastoji padėtis, siekdamas suvaldyti nepaprastąją padėtį, bet ne ilgiau kaip iki nepaprastosios padėties atšaukimo. Lietuvos Respublikos trišalė taryba nuomonę dėl numatomų streiko ribojimų turi pateikti ne vėliau kaip per 48 valandas nuo prašymo dėl nuomonės pateikimo gavimo momento. Sprendimas riboti streiką turi būti peržiūrimas kas 3 mėnesius. ^s-e9cba4f1ec18674d1b10c1cb
 
 
-3. Šio straipsnio 1 ir [[#^s-e9cba4f1ec18674d1b10c1cb|2 dalyse]] nurodytas naudojimosi teisėmis ir laisvėmis apribojimas ir šio Įstatymo [[#^s-bed0ca88c1072b4ed7479560|28 straipsnyje]] nustatytos nepaprastosios priemonės gali būti naudojamos tik tiek, kiek to reikalauja padėties kritiškumas. Naudojimąsi kitomis žmogaus teisėmis ir laisvėmis apriboti draudžiama. ^s-14483ca94c8b0682a72c9feb
+3. Šio straipsnio [[#^s-360cf5817ef1767520bb06f0|1]] ir [[#^s-e9cba4f1ec18674d1b10c1cb|2]] dalyse nurodytas naudojimosi teisėmis ir laisvėmis apribojimas ir šio Įstatymo [[#^s-bed0ca88c1072b4ed7479560|28 straipsnyje]] nustatytos nepaprastosios priemonės gali būti naudojamos tik tiek, kiek to reikalauja padėties kritiškumas. Naudojimąsi kitomis žmogaus teisėmis ir laisvėmis apriboti draudžiama. ^s-14483ca94c8b0682a72c9feb
 
 
 4. Įvesti naudojimosi teisėmis ir laisvėmis apribojimai negali prieštarauti Lietuvos Respublikos įsipareigojimams pagal tarptautinę teisę. ^s-ac9d966841fabd7ec5c5ca99
@@ -513,7 +513,7 @@ Nr. XI-755, 2010-04-13, Žin., 2010, Nr. 48-2304 (2010-04-27), i. k. [[latest/TA
 2. Nutarime dėl nepaprastosios padėties įvedimo ar atitinkamame Respublikos Prezidento dekrete gali būti numatyta, kad nepaprastosios padėties metu asmenims draudžiama vienytis į politines partijas ir politines organizacijas, visuomenines organizacijas ar asociacijas, jei dėl jų veiklos kyla grėsmė Lietuvos Respublikos konstitucinei santvarkai ar visuomenės rimčiai. ^s-4003d51583f40b8ad3747390
 
 
-3. Sprendimus dėl šio straipsnio 1 ir [[#^s-4003d51583f40b8ad3747390|2 dalyse]] nustatytų apribojimų visoje valstybės teritorijoje priima vyriausiasis komendantas, o valstybės teritorijos dalyje – atitinkamos teritorijos komendantūros komendantas. Jeigu komendantūros nesteigiamos, sprendimus dėl šio straipsnio 1 ir [[#^s-4003d51583f40b8ad3747390|2 dalyse]] nustatytų apribojimų priima institucijos, atsakingos už nepaprastosios padėties valdymą, vadovas. ^s-b320245ed1771f9eb85ed81a
+3. Sprendimus dėl šio straipsnio [[#^s-04479d56a838366322544db1|1]] ir [[#^s-4003d51583f40b8ad3747390|2]] dalyse nustatytų apribojimų visoje valstybės teritorijoje priima vyriausiasis komendantas, o valstybės teritorijos dalyje – atitinkamos teritorijos komendantūros komendantas. Jeigu komendantūros nesteigiamos, sprendimus dėl šio straipsnio [[#^s-04479d56a838366322544db1|1]] ir [[#^s-4003d51583f40b8ad3747390|2]] dalyse nustatytų apribojimų priima institucijos, atsakingos už nepaprastosios padėties valdymą, vadovas. ^s-b320245ed1771f9eb85ed81a
 Straipsnio dalies pakeitimai:
 Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
 Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
@@ -642,7 +642,7 @@ Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
 2. Nepaprastosios padėties metu negali būti keičiama Konstitucija. ^s-5f8149868a75a755f4754927
 
 
-3. Nepaprastosios padėties metu pagal galimybes turi būti mažinama jos trukmė, taip pat naudojimosi teisėmis ir laisvėmis apribojimai, nepaprastųjų priemonių kiekis bei intensyvumas. Šios nuostatos ir papildomi apribojimai ar nepaprastosios priemonės gali būti pradėti taikyti tik priėmus atitinkamą Seimo nutarimą ar Respublikos Prezidento dekretą atitinkamai šio Įstatymo 7 ir [[#^s-a9c2a4933b574f7d8f4ced43|18 straipsniuose]] nustatyta tvarka. ^s-bccf632df78a60636c03cbad
+3. Nepaprastosios padėties metu pagal galimybes turi būti mažinama jos trukmė, taip pat naudojimosi teisėmis ir laisvėmis apribojimai, nepaprastųjų priemonių kiekis bei intensyvumas. Šios nuostatos ir papildomi apribojimai ar nepaprastosios priemonės gali būti pradėti taikyti tik priėmus atitinkamą Seimo nutarimą ar Respublikos Prezidento dekretą atitinkamai šio Įstatymo [[#^s-c32ae89c1df32a29f1e9b956|7]] ir [[#^s-a9c2a4933b574f7d8f4ced43|18]] straipsniuose nustatyta tvarka. ^s-bccf632df78a60636c03cbad
 
 
 4. Teisės aktai, reglamentuojantys konkrečios nepaprastosios padėties nuostatas, jai pasibaigus netenka galios. ^s-dac5a7b3e3be00fa4a066ebf
@@ -767,7 +767,7 @@ Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 [[#^s-2a53820
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2442, 2016-06-16, paskelbta TAR 2016-06-23, i. k. 2016-17529
-Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2 ir [[#^s-bed0ca88c1072b4ed7479560|28 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 [[#^s-d84f8f100cf029e928b77571|2]] ir [[#^s-bed0ca88c1072b4ed7479560|28]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -777,7 +777,7 @@ Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 [[#^s-bed0ca8
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2257, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10927
-Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 3, 13, 14, 15, 16, 20, 21, 24 ir [[#^s-5a9ecd55a7a7bedae2ea498a|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 [[#^s-d84f8f100cf029e928b77571|2]], [[#^s-7a08a837e3c6ac680c214754|3]], [[#^s-449d459238288c7e9f70c6b5|13]], [[#^s-315df8f05bf3ed4d3fd8f106|14]], [[#^s-e99b009464aff52af9c0c0dc|15]], [[#^s-725f6959b9c6d834c0c6a200|16]], [[#^s-f76e2374675866491a9e5736|20]], [[#^s-dcb29fedf026925b7606565d|21]], [[#^s-749aa7666cf1ab6ff804bf68|24]] ir [[#^s-5a9ecd55a7a7bedae2ea498a|31]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -787,7 +787,7 @@ Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 [[#^s-bed0ca8
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2620, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20650
-Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 22 ir [[#^s-bed0ca88c1072b4ed7479560|28 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 [[#^s-d84f8f100cf029e928b77571|2]], [[#^s-0465afeb08cb1c0b668dfba4|22]] ir [[#^s-bed0ca88c1072b4ed7479560|28]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -797,27 +797,27 @@ Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 [[#^s-0465afe
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3240, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15877
-Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 9, 10 ir [[#^s-bed0ca88c1072b4ed7479560|28 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 [[#^s-d84f8f100cf029e928b77571|2]], [[#^s-4c7a497cf5133d32070901cc|9]], [[#^s-0b3e55a107c53a8612a94979|10]] ir [[#^s-bed0ca88c1072b4ed7479560|28]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-93, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28942
-Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 12, 15, 22 ir [[#^s-5a9ecd55a7a7bedae2ea498a|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 [[#^s-d84f8f100cf029e928b77571|2]], [[#^s-431b3c7431fecba8cfc693c3|12]], [[#^s-e99b009464aff52af9c0c0dc|15]], [[#^s-0465afeb08cb1c0b668dfba4|22]] ir [[#^s-5a9ecd55a7a7bedae2ea498a|31]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1650, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26607
-Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 3, 6, 7, 12, 13, 14, 15, 16, 20, 21, 22, 24, 27, 28, 29 ir [[#^s-5a9ecd55a7a7bedae2ea498a|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 [[#^s-d84f8f100cf029e928b77571|2]], [[#^s-7a08a837e3c6ac680c214754|3]], [[#^s-2a53820fad1b6bf72b143bf4|6]], [[#^s-c32ae89c1df32a29f1e9b956|7]], [[#^s-431b3c7431fecba8cfc693c3|12]], [[#^s-449d459238288c7e9f70c6b5|13]], [[#^s-315df8f05bf3ed4d3fd8f106|14]], [[#^s-e99b009464aff52af9c0c0dc|15]], [[#^s-725f6959b9c6d834c0c6a200|16]], [[#^s-f76e2374675866491a9e5736|20]], [[#^s-dcb29fedf026925b7606565d|21]], [[#^s-0465afeb08cb1c0b668dfba4|22]], [[#^s-749aa7666cf1ab6ff804bf68|24]], [[#^s-6c97e32857d0d263a543cb63|27]], [[#^s-bed0ca88c1072b4ed7479560|28]], [[#^s-50524a5508bf80b959eff4a5|29]] ir [[#^s-5a9ecd55a7a7bedae2ea498a|31]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1272, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15619
-Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 13, 15, 16, 21, 22, 27 ir [[#^s-bed0ca88c1072b4ed7479560|28 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 [[#^s-d84f8f100cf029e928b77571|2]], [[#^s-449d459238288c7e9f70c6b5|13]], [[#^s-e99b009464aff52af9c0c0dc|15]], [[#^s-725f6959b9c6d834c0c6a200|16]], [[#^s-dcb29fedf026925b7606565d|21]], [[#^s-0465afeb08cb1c0b668dfba4|22]], [[#^s-6c97e32857d0d263a543cb63|27]] ir [[#^s-bed0ca88c1072b4ed7479560|28]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1822, 2023-03-23, paskelbta TAR 2023-03-30, i. k. 2023-05724
-Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 2, 13, 15, 16, 21, 22, 27 ir [[#^s-bed0ca88c1072b4ed7479560|28 straipsnių]] pakeitimo [[latest/a19acc42041e11edb32c9f9d8ba206f8|įstatymo Nr. XIV-1272]] 4, [[#^s-2a53820fad1b6bf72b143bf4|6 straipsnių]] pakeitimo ir 1, 5, [[#^s-c32ae89c1df32a29f1e9b956|7 straipsnių]] pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos nepaprastosios padėties įstatymo Nr. IX-938 [[#^s-d84f8f100cf029e928b77571|2]], [[#^s-449d459238288c7e9f70c6b5|13]], [[#^s-e99b009464aff52af9c0c0dc|15]], [[#^s-725f6959b9c6d834c0c6a200|16]], [[#^s-dcb29fedf026925b7606565d|21]], [[#^s-0465afeb08cb1c0b668dfba4|22]], [[#^s-6c97e32857d0d263a543cb63|27]] ir [[#^s-bed0ca88c1072b4ed7479560|28]] straipsnių pakeitimo [[latest/a19acc42041e11edb32c9f9d8ba206f8|įstatymo Nr. XIV-1272]] [[#^s-c36eebd915b6b380932067d7|4]], [[#^s-2a53820fad1b6bf72b143bf4|6]] straipsnių pakeitimo ir [[#^s-fff903ca8f5a5080caa368bf|1]], [[#^s-bbea872a56a93688311dfed9|5]], [[#^s-c32ae89c1df32a29f1e9b956|7]] straipsnių pripažinimo netekusiais galios įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas

@@ -74,13 +74,13 @@ Nr. XV-980, 2026-06-02, paskelbta TAR 2026-06-02, i. k. 2026-09720
 3. Lietuvos Respublikos Prezidento kanceliarijos kancleriui ir Lietuvos Respublikos Vyriausybės kancleriui šis įstatymas taikomas be išlygų. Lietuvos Respublikos Seimo kancleriui šis įstatymas taikomas tiek, kiek jo statuso nereglamentuoja Lietuvos Respublikos Seimo statutas. ^s-746f2daf02597b27cc79c578
 
 
-4. Lietuvos Respublikos Seimo, Respublikos Prezidento ar Lietuvos Respublikos Vyriausybės paskirtiems valstybės institucijų ir įstaigų vadovams – valstybės pareigūnams, kitiems Seimo, Respublikos Prezidento, Vyriausybės ar Lietuvos Respublikos Ministro Pirmininko paskirtiems valstybės pareigūnams, valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams, taip pat pagal specialiuosius įstatymus įsteigtų komisijų, tarybų, fondų valdybų pirmininkams ir nariams mutatis mutandis taikomi šio įstatymo [[#^s-5bd5cf1079cf239acc3246b3|5 straipsnis]] (tiek, kiek jų nepriekaištingos reputacijos nereglamentuoja jų veiklą reglamentuojančių specialiųjų įstatymų nuostatos), 27, [[#^s-7b06c1ec3dd2291aaa7d4372|28 straipsniai]], [[#^s-db93124a7493ce578e4c28b2|34 straipsnio 2 dalis]] (tiek, kiek materialinių pašalpų skyrimo nereglamentuoja jų veiklą reglamentuojančių specialiųjų įstatymų nuostatos). ^s-a75188c49c6975668b3c6172
+4. Lietuvos Respublikos Seimo, Respublikos Prezidento ar Lietuvos Respublikos Vyriausybės paskirtiems valstybės institucijų ir įstaigų vadovams – valstybės pareigūnams, kitiems Seimo, Respublikos Prezidento, Vyriausybės ar Lietuvos Respublikos Ministro Pirmininko paskirtiems valstybės pareigūnams, valstybinių (nuolatinių) komisijų ir tarybų pirmininkams, jų pavaduotojams ir nariams, taip pat pagal specialiuosius įstatymus įsteigtų komisijų, tarybų, fondų valdybų pirmininkams ir nariams mutatis mutandis taikomi šio įstatymo [[#^s-5bd5cf1079cf239acc3246b3|5 straipsnis]] (tiek, kiek jų nepriekaištingos reputacijos nereglamentuoja jų veiklą reglamentuojančių specialiųjų įstatymų nuostatos), [[#^s-d011b20a42a35d15e9d4fcdf|27]], [[#^s-7b06c1ec3dd2291aaa7d4372|28]] straipsniai, [[#^s-db93124a7493ce578e4c28b2|34 straipsnio 2 dalis]] (tiek, kiek materialinių pašalpų skyrimo nereglamentuoja jų veiklą reglamentuojančių specialiųjų įstatymų nuostatos). ^s-a75188c49c6975668b3c6172
 
 
 5. Seimo, Respublikos Prezidento ar Vyriausybės paskirtiems valstybės institucijų ir įstaigų vadovams – valstybės pareigūnams taikomas šio įstatymo [[#^s-c07a07d33028de008902964b|37 straipsnis]]. ^s-514b1332b7f0c09d769470e6
 
 
-6. [[#^s-a75188c49c6975668b3c6172|Šio straipsnio 4 dalyje]] nurodytiems valstybės pareigūnams, išskyrus tuos, kurie tik periodiškai dalyvauja komisijų, tarybų, fondų valdybų posėdžiuose, ir tuos, kurių kasmetines atostogas reglamentuoja specialieji įstatymai, taikomos šio įstatymo [[#^s-5867b9bdac22edf9a02bb294|30 straipsnio]] 1, 2 ir [[#^s-746f2daf02597b27cc79c578|3 dalys]]. ^s-feb9654d2f733b5e46a2fc60
+6. [[#^s-a75188c49c6975668b3c6172|Šio straipsnio 4 dalyje]] nurodytiems valstybės pareigūnams, išskyrus tuos, kurie tik periodiškai dalyvauja komisijų, tarybų, fondų valdybų posėdžiuose, ir tuos, kurių kasmetines atostogas reglamentuoja specialieji įstatymai, taikomos šio įstatymo [[#^s-5867b9bdac22edf9a02bb294|30 straipsnio]] [[#^s-81d02713d2fa75f7a72479cb|1]], [[#^s-87acc34c0788456d443563cf|2]] ir [[#^s-df3281015d4e8216d2aef03b|3]] dalys. ^s-feb9654d2f733b5e46a2fc60
 
 
 7. Kai [[#^s-a75188c49c6975668b3c6172|šio straipsnio 4 dalyje]] nurodytiems valstybės pareigūnams sukanka 65 metai, jie gali savo noru atsistatydinti iš pareigų. Išeitinė išmoka jiems apskaičiuojama ir mokama kaip valstybės tarnautojams, atleidžiamiems iš pareigų šio įstatymo [[#^s-f54bb4b1920a9120ea474165|35 straipsnio 1 dalies 7 punkte]] nustatytu pagrindu, jeigu specialiuosiuose įstatymuose nenustatyta kitaip. ^s-93b2b367cf53acd1ea76ade1
@@ -139,7 +139,7 @@ Nr. XV-1016, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11097
 
 
 
-9. Valstybinės duomenų apsaugos inspekcijos vadovui netaikomi šio įstatymo [[#^s-cb1ceaa4c1320f62cc801e70|6 straipsnis]], [[#^s-958b87d50d5bb4b2b495a7cf|9 straipsnio]] 1 ir [[#^s-3ef6f5c2bc41a35f90d88099|2 dalys]], [[#^s-ca3b5e14a4585c8df7daa828|13 straipsnio 4 dalis]] ir [[#^s-514b1332b7f0c09d769470e6|5 dalis]] (tiek, kiek nustatyta galimybė būti paskirtam antrai kadencijai tik po pirmosios kadencijos veiklos tikslų ir pasiektų rezultatų įvertinimo), [[#^s-d33d8dbde27fbb4a7869b092|18 straipsnis]], [[#^s-3c7537b10353f157bdcaaf5e|19 straipsnio 1 dalies 2 punktas]], [[#^s-643f0b5f2f74200a6b512081|21 straipsnis]], [[#^s-6349f465daf918236fded6aa|22 straipsnio]] 1 ir [[#^s-3ef6f5c2bc41a35f90d88099|2 dalys]], [[#^s-e462be727b1ee0ea46e20ae0|35 straipsnis]], išskyrus [[#^s-514b1332b7f0c09d769470e6|5 dalį]]. Valstybinės duomenų apsaugos inspekcijos vadovui tarnybinę atsakomybę reglamentuojantys šio įstatymo straipsniai taikomi tik tais atvejais, kai jis įtariamas padaręs šiurkštų tarnybinį nusižengimą. Valstybinės duomenų apsaugos inspekcijos vadovas atleidžiamas iš pareigų specialiajame įstatyme arba tiesiogiai taikomame Europos Sąjungos teisės akte nustatytais pagrindais. ^s-8141e6d93db11a149fc90225
+9. Valstybinės duomenų apsaugos inspekcijos vadovui netaikomi šio įstatymo [[#^s-cb1ceaa4c1320f62cc801e70|6 straipsnis]], [[#^s-958b87d50d5bb4b2b495a7cf|9 straipsnio]] [[#^s-c24f7cf0678b5d1056c20178|1]] ir [[#^s-ea377558be8482960e66fcdb|2]] dalys, [[#^s-ca3b5e14a4585c8df7daa828|13 straipsnio 4 dalis]] ir [[#^s-514b1332b7f0c09d769470e6|5 dalis]] (tiek, kiek nustatyta galimybė būti paskirtam antrai kadencijai tik po pirmosios kadencijos veiklos tikslų ir pasiektų rezultatų įvertinimo), [[#^s-d33d8dbde27fbb4a7869b092|18 straipsnis]], [[#^s-3c7537b10353f157bdcaaf5e|19 straipsnio 1 dalies 2 punktas]], [[#^s-643f0b5f2f74200a6b512081|21 straipsnis]], [[#^s-6349f465daf918236fded6aa|22 straipsnio]] [[#^s-c9740c2948c9c5a396b2fa26|1]] ir [[#^s-feba0e5d8a13d98d0774f15e|2]] dalys, [[#^s-e462be727b1ee0ea46e20ae0|35 straipsnis]], išskyrus [[#^s-514b1332b7f0c09d769470e6|5 dalį]]. Valstybinės duomenų apsaugos inspekcijos vadovui tarnybinę atsakomybę reglamentuojantys šio įstatymo straipsniai taikomi tik tais atvejais, kai jis įtariamas padaręs šiurkštų tarnybinį nusižengimą. Valstybinės duomenų apsaugos inspekcijos vadovas atleidžiamas iš pareigų specialiajame įstatyme arba tiesiogiai taikomame Europos Sąjungos teisės akte nustatytais pagrindais. ^s-8141e6d93db11a149fc90225
 
 
 10. Savivaldybės kontrolieriui netaikomi šio įstatymo [[#^s-cb1ceaa4c1320f62cc801e70|6 straipsnis]], [[#^s-ca3b5e14a4585c8df7daa828|13 straipsnio 4 dalis]] ir [[#^s-514b1332b7f0c09d769470e6|5 dalis]] (tiek, kiek nustatyta galimybė būti paskirtam antrai kadencijai tik po pirmosios kadencijos veiklos tikslų ir pasiektų rezultatų įvertinimo) ir [[#^s-d33d8dbde27fbb4a7869b092|18 straipsnis]]. ^s-b6e547dc2bf24c827213773c
@@ -270,7 +270,7 @@ Nr. XIV-2450, 2023-12-21, paskelbta TAR 2023-12-29, i. k. 2023-25942
 3) įstatymų nustatyta tvarka atleistas nuo baudžiamosios atsakomybės už labai sunkaus nusikaltimo padarymą ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 4 metai arba atleistas nuo baudžiamosios atsakomybės už sunkaus nusikaltimo padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai asmuo ar nusikalstama veika prarado pavojingumą) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 3 metai, arba buvo atleistas nuo baudžiamosios atsakomybės už apysunkio nusikaltimo padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai asmuo ar nusikalstama veika prarado pavojingumą arba dėl nusikaltimo mažareikšmiškumo) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 2 metai ar nėra pasibaigęs laidavimo terminas, arba buvo atleistas nuo baudžiamosios atsakomybės už nesunkaus nusikaltimo ar baudžiamojo nusižengimo valstybės tarnybai ir viešiesiems interesams padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai asmuo ar nusikalstama veika prarado pavojingumą arba dėl nusikaltimo mažareikšmiškumo) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo vieni metai ar nėra pasibaigęs laidavimo terminas; ^s-1deb07ee31fec9f9d5efb193
 
 
-4) atleistas iš valstybės tarnautojo pareigų už šio įstatymo [[#^s-f2d3caa36d5a13805b5d355e|23 straipsnio 5 dalies]] 1, 2, 3, 4, 5, 7, 8, 9 punktuose nurodytus šiurkščius tarnybinius nusižengimus arba šio įstatymo [[#^s-a1ea77997e4792c3ba707676|25 straipsnio 2 dalyje]] numatytu atveju pripažintas padariusiu šiurkštų tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, ir nuo atleidimo iš pareigų dienos arba nuo pripažinimo padarius šiurkštų tarnybinį nusižengimą dienos nepraėjo 3 metai; ^s-f33dcdc108c38d9689e46655
+4) atleistas iš valstybės tarnautojo pareigų už šio įstatymo [[#^s-f2d3caa36d5a13805b5d355e|23 straipsnio 5 dalies]] [[#^s-61c420071c69c3ee3ef05f26|1]], [[#^s-744bf4348932d25161397c8c|2]], [[#^s-79bac0e07eca23759f279eb0|3]], [[#^s-367c493521204a0b56a64303|4]], [[#^s-19501d6dd10dfed5dc882f6c|5]], [[#^s-cc328ee7195659800ffdd0b4|7]], [[#^s-89de05302f9e5b39d4bafb6e|8]], [[#^s-15b9d55a6a0af9e57aac641d|9]] punktuose nurodytus šiurkščius tarnybinius nusižengimus arba šio įstatymo [[#^s-a1ea77997e4792c3ba707676|25 straipsnio 2 dalyje]] numatytu atveju pripažintas padariusiu šiurkštų tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, ir nuo atleidimo iš pareigų dienos arba nuo pripažinimo padarius šiurkštų tarnybinį nusižengimą dienos nepraėjo 3 metai; ^s-f33dcdc108c38d9689e46655
 
 
 5) atleistas iš darbo, pareigų ar yra praradęs teisę verstis tam tikra veikla už kituose įstatymuose keliamo nepriekaištingos reputacijos reikalavimo neatitiktį ar elgesio (etikos) normų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis tam tikra veikla praradimo dienos nepraėjo 3 metai; ^s-00511774b61748fe49be27b0
@@ -414,7 +414,7 @@ Nr. XV-1016, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11097
 4. Į valstybės tarnautojų pareigas priimami asmenys turi atitikti toms pareigoms nustatytus specialiuosius reikalavimus. Specialieji reikalavimai į valstybės tarnautojų pareigas priimamiems asmenims nustatomi konkrečių pareigybių aprašymuose. Tuo atveju, kai specialieji reikalavimai į valstybės tarnautojų pareigas priimamiems asmenims nustatomi įstatymuose ar jų pagrindu priimtuose kituose teisės aktuose, taikomi įstatymuose ar jų pagrindu priimtuose kituose teisės aktuose nustatyti specialieji reikalavimai. ^s-e4d59ef71572db97f88ee877
 
 
-5. Jeigu valstybės tarnautojo pareigybės aprašyme yra nustatytas specialusis reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, ar reikalavimus, būtinus suteikiant teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“, kandidatūra patikrinama iki asmens priėmimo į valstybės tarnautojo pareigas. Į valstybės tarnautojo pareigas asmuo yra priimamas, kai teisės aktų nustatyta tvarka priimamas sprendimas, kad šiam asmeniui gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija arba suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma „Riboto naudojimo“. Šios dalies nuostatos taikomos ir tais atvejais, kai šio įstatymo nustatytais atvejais asmuo yra perkeliamas į kitas pareigas. ^s-589aeb58c49702c69d2b9c6a
+5. Jeigu valstybės tarnautojo pareigybės aprašyme yra nustatytas specialusis reikalavimas atitikti reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija, ar reikalavimus, būtinus suteikiant teisę dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), kandidatūra patikrinama iki asmens priėmimo į valstybės tarnautojo pareigas. Į valstybės tarnautojo pareigas asmuo yra priimamas, kai teisės aktų nustatyta tvarka priimamas sprendimas, kad šiam asmeniui gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija arba suteikta teisė dirbti ar susipažinti su įslaptinta informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7). Šios dalies nuostatos taikomos ir tais atvejais, kai šio įstatymo nustatytais atvejais asmuo yra perkeliamas į kitas pareigas. ^s-589aeb58c49702c69d2b9c6a
 
 
 
@@ -525,7 +525,7 @@ Nr. XV-1016, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11097
 1. Į politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigas priimama be konkurso valstybės politiko ar kolegialios valstybės institucijos pasirinkimu, Seimo frakcijoje – Seimo frakcijos seniūno pasirinkimu. ^s-574c7000be845480ecf04b6e
 
 
-2. Asmenų, pasirinktų į politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigas, atitiktį šio įstatymo 5 ir [[#^s-958b87d50d5bb4b2b495a7cf|9 straipsniuose]] nustatytiems reikalavimams privalo užtikrinti valstybės politikas, kurio pasitikėjimo pagrindu priimamas valstybės tarnautojas, arba kolegialios valstybės institucijos, kurios pasitikėjimo pagrindu priimamas valstybės tarnautojas, vadovas, Seimo frakcijoje – Seimo frakcijos seniūnas. ^s-e94248ded71db4d6fe1867e4
+2. Asmenų, pasirinktų į politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigas, atitiktį šio įstatymo [[#^s-5bd5cf1079cf239acc3246b3|5]] ir [[#^s-958b87d50d5bb4b2b495a7cf|9]] straipsniuose nustatytiems reikalavimams privalo užtikrinti valstybės politikas, kurio pasitikėjimo pagrindu priimamas valstybės tarnautojas, arba kolegialios valstybės institucijos, kurios pasitikėjimo pagrindu priimamas valstybės tarnautojas, vadovas, Seimo frakcijoje – Seimo frakcijos seniūnas. ^s-e94248ded71db4d6fe1867e4
 
 
 
@@ -642,10 +642,10 @@ VALSTYBĖS TARNAUTOJŲ KARJERA
 2. Atsižvelgiant į delegavimą į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas reglamentuojančius teisės aktus, karjeros valstybės tarnautojas su jo rašytiniu sutikimu gali būti laikinai perkeltas į pareigas tarptautinėje ar Europos Sąjungos institucijoje ar užsienio valstybės institucijoje. Pretenduojantys būti laikinai perkelti į šias pareigas valstybės tarnautojai atrenkami [[latest/TAR.981F27E01089|Lietuvos Respublikos asmenų delegavimo į tarptautines ir Europos Sąjungos institucijas ar užsienio valstybių institucijas įstatymo]] ir Vyriausybės nustatyta tvarka. ^s-22681bb4529b35a4f00890f4
 
 
-3. Paprastai pagal šio straipsnio 1 ar [[#^s-22681bb4529b35a4f00890f4|2 dalį]] perkeltas valstybės tarnautojas pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose, tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose eina ne ilgiau kaip 3 metus, jeigu tarptautinėje sutartyje ar Europos Sąjungos teisės aktuose nenustatyta kitaip. Į pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose, tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose perkeltas kadencijai priimtas karjeros valstybės tarnautojas šias pareigas gali eiti ne ilgiau negu iki savo kadencijos pabaigos. ^s-1582b1478acfd774f134f1db
+3. Paprastai pagal šio straipsnio [[#^s-e3d82a4c613d3c0397e30219|1]] ar [[#^s-22681bb4529b35a4f00890f4|2]] dalį perkeltas valstybės tarnautojas pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose, tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose eina ne ilgiau kaip 3 metus, jeigu tarptautinėje sutartyje ar Europos Sąjungos teisės aktuose nenustatyta kitaip. Į pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose, tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose perkeltas kadencijai priimtas karjeros valstybės tarnautojas šias pareigas gali eiti ne ilgiau negu iki savo kadencijos pabaigos. ^s-1582b1478acfd774f134f1db
 
 
-4. Pagal šio straipsnio 1 ir [[#^s-22681bb4529b35a4f00890f4|2 dalis]] perkeltiems į pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose, tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose karjeros valstybės tarnautojams garantuojamos eitos arba kitos lygiavertės pareigos toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje. Pagal šio straipsnio 1 ir [[#^s-22681bb4529b35a4f00890f4|2 dalis]] perkeltiems kadencijai priimtiems karjeros valstybės tarnautojams ši garantija taikoma ne ilgiau negu iki jų kadencijos pabaigos. ^s-052b1c788e7f5cb3fcebba6e
+4. Pagal šio straipsnio [[#^s-e3d82a4c613d3c0397e30219|1]] ir [[#^s-22681bb4529b35a4f00890f4|2]] dalis perkeltiems į pareigas Lietuvos Respublikos diplomatinėse atstovybėse, konsulinėse įstaigose, tarptautinėse ir Europos Sąjungos institucijose ar užsienio valstybių institucijose karjeros valstybės tarnautojams garantuojamos eitos arba kitos lygiavertės pareigos toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje. Pagal šio straipsnio [[#^s-e3d82a4c613d3c0397e30219|1]] ir [[#^s-22681bb4529b35a4f00890f4|2]] dalis perkeltiems kadencijai priimtiems karjeros valstybės tarnautojams ši garantija taikoma ne ilgiau negu iki jų kadencijos pabaigos. ^s-052b1c788e7f5cb3fcebba6e
 
 
 
@@ -779,7 +779,7 @@ DARBO UŽMOKESTIS
 4) mokėjimas už darbą poilsio ir švenčių dienomis, nakties, viršvalandinį darbą ir budėjimą. ^s-e030746308ffc71965616ab4
 
 
-2. Už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą valstybės tarnautojams mokama [[latest/f6d686707e7011e6b969d7ae07280e89#^s-8977163a63e0aef3d8e97556|Darbo kodekso 144 straipsnio]] 1, 2, 3, 4 ir 5 dalyse nustatyta tvarka. ^s-682a713103cd440e0a8ddf02
+2. Už darbą poilsio ir švenčių dienomis, nakties ir viršvalandinį darbą, budėjimą valstybės tarnautojams mokama [[latest/f6d686707e7011e6b969d7ae07280e89#^s-8977163a63e0aef3d8e97556|Darbo kodekso 144 straipsnio]] [[latest/f6d686707e7011e6b969d7ae07280e89#^s-b4a1150ab83f744bd9b502d4|1]], [[latest/f6d686707e7011e6b969d7ae07280e89#^s-64ffb328280a78bc06f860e5|2]], [[latest/f6d686707e7011e6b969d7ae07280e89#^s-5211209318cfb747ae1040d7|3]], [[latest/f6d686707e7011e6b969d7ae07280e89#^s-c5f99c9d95e297576959bbdc|4]] ir [[latest/f6d686707e7011e6b969d7ae07280e89#^s-a58ad6d7b43c7c633dc5a140|5]] dalyse nustatyta tvarka. ^s-682a713103cd440e0a8ddf02
 
 
 3. Darbo apmokėjimo sistema nustatoma kolektyvinėje sutartyje ir taikoma visiems valstybės ar savivaldybės institucijos ar įstaigos valstybės tarnautojams. Jeigu nėra darbo apmokėjimo sistemą nustatančios kolektyvinės sutarties, darbo apmokėjimo sistemą nustato valstybės ar savivaldybės institucijos ar įstaigos vadovas. Prieš darbo apmokėjimo sistemos nustatymą ar keitimą valstybės ar savivaldybės institucijos ar įstaigos vadovas [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodekso]] nustatyta tvarka turi atlikti informavimo ir konsultavimo procedūras. Darbo apmokėjimo sistema viešai skelbiama valstybės ar savivaldybės institucijos ar įstaigos interneto svetainėje. Darbo apmokėjimo sistema nustatoma vadovaujantis Vyriausybės tvirtinamomis rekomendacijomis. Darbo apmokėjimo sistemoje, atsižvelgiant į šio įstatymo nuostatas, nustatomi valstybės ar savivaldybės institucijos ar įstaigos pareigybių sąraše esančių pareigybių pareiginės algos koeficientai ar jų intervalai, pareiginės algos koeficientų dydžio nustatymo kriterijai (įgūdžiai (įskaitant įgūdžius, susijusius su bendravimo, bendradarbiavimo įgūdžiais, konfliktų sprendimu, gebėjimu dirbti su kitais žmonėmis ir svarbius atliekant darbo funkciją), pastangos (fizinių, protinių ir emocinių resursų kiekis, reikalingas užduotims pagal valstybės tarnautojo pareigybės aprašymą atlikti), darbo patirtis, veiklos sudėtingumas, atsakomybės lygis, papildomų įgūdžių ar žinių, svarbių einant pareigas, turėjimas, darbo sąlygos (darbo aplinka, intensyvumas, rizika, fiziniai ir psichologiniai veiksniai)) ir, jeigu tikslinga, kiti objektyvūs, lyties požiūriu neutralūs kriterijai, priemokų dydžiai, jų skyrimo tvarka. Darbo apmokėjimo sistemoje gali būti numatomos papildomos skatinimo ir socialinės garantijos, nenustatytos šiame ar kituose įstatymuose. ^s-15bfd54ab75fc11cfcfb344c
@@ -825,10 +825,10 @@ Nr. XV-980, 2026-06-02, paskelbta TAR 2026-06-02, i. k. 2026-09720
 5) laikinai perkeliamam į žemesnes pareigas valstybės tarnautojui nustatoma iki perkėlimo buvusi jo pareiginė alga; ^s-f8ac186d0af1173ced9ba676
 
 
-6) pagal šio įstatymo [[#^s-11de77f5953acf8baebceeca|16 straipsnio]] 1 ir [[#^s-c8d43a0b29d213d392dfec72|2 dalis]] perkeltam ir grąžintam į eitas arba kitas lygiavertes pareigas toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje valstybės tarnautojui nustatoma ne mažesnė negu jam iki perkėlimo nustatyta pareiginė alga; ^s-c1b797ce540d8284766e9b2f
+6) pagal šio įstatymo [[#^s-11de77f5953acf8baebceeca|16 straipsnio]] [[#^s-e3d82a4c613d3c0397e30219|1]] ir [[#^s-22681bb4529b35a4f00890f4|2]] dalis perkeltam ir grąžintam į eitas arba kitas lygiavertes pareigas toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje valstybės tarnautojui nustatoma ne mažesnė negu jam iki perkėlimo nustatyta pareiginė alga; ^s-c1b797ce540d8284766e9b2f
 
 
-7) pagal šio įstatymo [[#^s-9dd87346a3e02da983623c75|14 straipsnio]] 14, 15 ir 16 dalis perkeltam valstybės tarnautojui nustatoma ne mažesnė negu jam iki perkėlimo nustatyta pareiginė alga; ^s-3473ebe88f03e04aae17f176
+7) pagal šio įstatymo [[#^s-9dd87346a3e02da983623c75|14 straipsnio]] [[#^s-ddf74a9a90e25087803676ac|14]], [[#^s-28a1b530115c162e22d66992|15]] ir [[#^s-731d7115b9fa1ac1045fc918|16]] dalis perkeltam valstybės tarnautojui nustatoma ne mažesnė negu jam iki perkėlimo nustatyta pareiginė alga; ^s-3473ebe88f03e04aae17f176
 
 
 8) karjeros valstybės tarnautojui, grąžintam iš politinio (asmeninio) pasitikėjimo valstybės tarnautojo ar įstaigos vadovo, priimamo į pareigas politinio (asmeninio) pasitikėjimo pagrindu, pareigų į eitas karjeros valstybės tarnautojo pareigas, kai pasibaigia karjeros valstybės tarnautojo perkėlimo į politinio (asmeninio) pasitikėjimo valstybės tarnautojo ar įstaigos vadovo, priimamo į pareigas politinio (asmeninio) pasitikėjimo pagrindu, pareigas laikotarpis, nustatoma ne mažesnė negu jam iki perkėlimo nustatyta pareiginė alga; ^s-3ff033c4fc547232044d55ce
@@ -1114,7 +1114,7 @@ Nr. XV-1016, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11097
 1. Žala, atsiradusi dėl valstybės ir savivaldybių institucijų ir įstaigų neteisėtų veiksmų, atlyginama Lietuvos Respublikos civilinio kodekso nustatyta tvarka. ^s-a08b99e31e4b9391432423af
 
 
-2. Valstybės tarnautojo padarytą žalą atlyginusi valstybės ar savivaldybės institucija ar įstaiga, o kai žala padaryta neteisėtais įstaigos vadovo veiksmais, – įstaigos vadovą į pareigas priimantis asmuo turi regreso tvarka reikalauti iš žalą padariusio valstybės tarnautojo tokio dydžio žalos atlyginimo, kiek sumokėta, bet ne daugiau kaip 9 vidutinių valstybės tarnautojo darbo užmokesčių. Jeigu valstybės tarnautojas žalą padarė tyčia, valstybės ar savivaldybės institucija ar įstaiga į padariusį žalą valstybės tarnautoją turi tokio dydžio regreso teisę, kiek ji sumokėjo žalos atlyginimo. Žala atlyginama šio įstatymo [[#^s-d011b20a42a35d15e9d4fcdf|27 straipsnio]] 3, 4, 5, 6 ir 7 dalyse nustatyta tvarka. ^s-60b27acc3835d92563a95cbb
+2. Valstybės tarnautojo padarytą žalą atlyginusi valstybės ar savivaldybės institucija ar įstaiga, o kai žala padaryta neteisėtais įstaigos vadovo veiksmais, – įstaigos vadovą į pareigas priimantis asmuo turi regreso tvarka reikalauti iš žalą padariusio valstybės tarnautojo tokio dydžio žalos atlyginimo, kiek sumokėta, bet ne daugiau kaip 9 vidutinių valstybės tarnautojo darbo užmokesčių. Jeigu valstybės tarnautojas žalą padarė tyčia, valstybės ar savivaldybės institucija ar įstaiga į padariusį žalą valstybės tarnautoją turi tokio dydžio regreso teisę, kiek ji sumokėjo žalos atlyginimo. Žala atlyginama šio įstatymo [[#^s-d011b20a42a35d15e9d4fcdf|27 straipsnio]] [[#^s-92d3d9e7c27f81f7e43ef2ee|3]], [[#^s-7336fd73310867665740ac97|4]], [[#^s-e0515641188c13c325d8dfb8|5]], [[#^s-0b92ece24dd58068829359bb|6]] ir [[#^s-8f969fe14686aa870b2ec2d8|7]] dalyse nustatyta tvarka. ^s-60b27acc3835d92563a95cbb
 
 
 3. Kolegialios valstybės ar savivaldybės institucijos vadovas ir nariai privalo solidariai atlyginti valstybės ir savivaldybės institucijai ir įstaigai žalą, padarytą dėl kolegialios institucijos sprendimų, priimtų pažeidžiant Lietuvos Respublikos įstatymus ir kitus teisės aktus. Nuo pareigos atlyginti žalą atleidžiami tie asmenys, kurie balsavo prieš tokį sprendimą arba nedalyvavo posėdyje jį priimant. Kolegialios valstybės ar savivaldybės institucijos vadovo ir nario atsistatydinimas ar atšaukimas iš pareigų neatleidžia jų nuo dėl jų kaltės padarytos žalos atlyginimo. ^s-9a071041e2e0916ee2638f23
@@ -1191,7 +1191,7 @@ VALSTYBĖS TARNAUTOJŲ ATOSTOGOS IR GARANTIJOS
 ### 31 straipsnis. Tarnybos Lietuvos valstybei stažas ^s-671618a8a051df204e18578f
 
 
-1. Pagal šį įstatymą tarnybos stažą sudaro Lietuvos valstybei ištarnautų nuo 1990 m. kovo 11 d. einant valstybės tarnautojo pareigas, įskaitant šio įstatymo [[#^s-0947501d9bfa7e49517437ae|2 straipsnio]] 3 ir 4 dalyse, 8 dalies 1, 2, 3, 4, 5, 9, 10, 11, 12, 13, 14 punktuose nurodytas pareigas (išskyrus savivaldybės tarybos narius, kurie nebuvo savivaldybės meru ir mero pavaduotoju), metų skaičius. Į tarnybos Lietuvos valstybei stažą taip pat įskaitomas laikotarpis einant [[#^s-9db0e08cae285703a37ef34f|Lietuvos Respublikos valstybės tarnybos įstatymo 33 straipsnio 3 dalyje]] ([[latest/TAR.59BB042C4761|2001 m. rugsėjo 27 d. įstatymo Nr. IX-525]] redakcija) nurodytas pareigas. Tarnybos stažas skaičiuojamas nuo valstybės tarnautojo tarnybos valstybės ir savivaldybių institucijose ir įstaigose pradžios arba nuo paskyrimo, priėmimo ar išrinkimo į pareigas valstybės tarnyboje šio ir kitų įstatymų nustatyta tvarka dienos. Tarnybos ne vienu laikotarpiu einant valstybės tarnautojo pareigas valstybės ir savivaldybių institucijose ir įstaigose stažas sudedamas. Į tarnybos stažą taip pat įskaitomi kasmetinių, nėštumo ir gimdymo atostogų, tėvystės atostogų, atostogų vaikui prižiūrėti, perkėlimo į pareigas tarptautinėje ar Europos Sąjungos institucijoje ar užsienio valstybės institucijoje pagal šio įstatymo [[#^s-22681bb4529b35a4f00890f4|16 straipsnio 2 dalį]], darbo tarptautinėje ar Europos Sąjungos institucijoje ar užsienio valstybės institucijoje laikotarpiai, dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje laikotarpiai, atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, mokymosi atostogų, pagal šio įstatymo [[#^s-f485e75fac79b8d5fd031eb4|30 straipsnio 4 dalį]] suteiktų atostogų laikas ir ligos išmokos gavimo laikotarpiai. ^s-23a99f700b9d723bd641c71f
+1. Pagal šį įstatymą tarnybos stažą sudaro Lietuvos valstybei ištarnautų nuo 1990 m. kovo 11 d. einant valstybės tarnautojo pareigas, įskaitant šio įstatymo [[#^s-0947501d9bfa7e49517437ae|2 straipsnio]] [[#^s-746f2daf02597b27cc79c578|3]] ir [[#^s-a75188c49c6975668b3c6172|4]] dalyse, 8 dalies 1, 2, 3, 4, 5, 9, 10, 11, 12, 13, 14 punktuose nurodytas pareigas (išskyrus savivaldybės tarybos narius, kurie nebuvo savivaldybės meru ir mero pavaduotoju), metų skaičius. Į tarnybos Lietuvos valstybei stažą taip pat įskaitomas laikotarpis einant [[#^s-9db0e08cae285703a37ef34f|Lietuvos Respublikos valstybės tarnybos įstatymo 33 straipsnio 3 dalyje]] ([[latest/TAR.59BB042C4761|2001 m. rugsėjo 27 d. įstatymo Nr. IX-525]] redakcija) nurodytas pareigas. Tarnybos stažas skaičiuojamas nuo valstybės tarnautojo tarnybos valstybės ir savivaldybių institucijose ir įstaigose pradžios arba nuo paskyrimo, priėmimo ar išrinkimo į pareigas valstybės tarnyboje šio ir kitų įstatymų nustatyta tvarka dienos. Tarnybos ne vienu laikotarpiu einant valstybės tarnautojo pareigas valstybės ir savivaldybių institucijose ir įstaigose stažas sudedamas. Į tarnybos stažą taip pat įskaitomi kasmetinių, nėštumo ir gimdymo atostogų, tėvystės atostogų, atostogų vaikui prižiūrėti, perkėlimo į pareigas tarptautinėje ar Europos Sąjungos institucijoje ar užsienio valstybės institucijoje pagal šio įstatymo [[#^s-22681bb4529b35a4f00890f4|16 straipsnio 2 dalį]], darbo tarptautinėje ar Europos Sąjungos institucijoje ar užsienio valstybės institucijoje laikotarpiai, dalyvavimo Europos Sąjungos, tarptautinės organizacijos finansuojamuose projektuose užsienio valstybės institucijoje laikotarpiai, atostogų dėl dalyvavimo Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių, Lietuvos arba bendrai finansuojamuose paramos teikimo ir (arba) Lietuvos vystomojo bendradarbiavimo projektuose, mokymosi atostogų, pagal šio įstatymo [[#^s-f485e75fac79b8d5fd031eb4|30 straipsnio 4 dalį]] suteiktų atostogų laikas ir ligos išmokos gavimo laikotarpiai. ^s-23a99f700b9d723bd641c71f
 
 
 2. Laikotarpis, kurį valstybės tarnautojas buvo nušalintas nuo pareigų, į tarnybos stažą neįskaitomas, išskyrus atvejus, kai pripažįstama, kad valstybės tarnautojas buvo nušalintas nuo pareigų nepagrįstai, arba kai nepasitvirtina aplinkybės, lėmusios valstybės tarnautojo nušalinimą nuo pareigų. ^s-7fb01d06b9dd485508d140df
@@ -1219,7 +1219,7 @@ VALSTYBĖS TARNAUTOJŲ ATOSTOGOS IR GARANTIJOS
 3. Šio įstatymo [[#^s-595b2e2e5d7b5950204f4399|35 straipsnio 1 dalies 6 punkte]] nurodytu pagrindu atleistam iš pareigų politinio (asmeninio) pasitikėjimo valstybės tarnautojui vieno mėnesio jo vidutinio darbo užmokesčio dydžio išeitinė išmoka mokama, jeigu jis ėjo pareigas ne mažiau kaip pusę jį į pareigas pasirinkusio valstybės politiko ar kolegialios valstybės institucijos teisės aktuose nustatytos kadencijos trukmės, Seimo frakcijoje – ne mažiau kaip pusę frakcijos veiklos laikotarpio. ^s-f987bed97cd7e9ecbd9abf63
 
 
-4. Pagal šio įstatymo [[#^s-74f86cac23f4e95e21aec693|35 straipsnio 1 dalies 10 punktą]] atleidžiamam iš pareigų valstybės tarnautojui išmokama iki pareigybės panaikinimo jo gauto vidutinio darbo užmokesčio dydžio išeitinė išmoka, apskaičiuojama atsižvelgiant į valstybės tarnautojo tarnybos valstybės ar savivaldybės institucijoje ar įstaigoje stažą (į tarnybos stažą valstybės ar savivaldybės institucijoje ar įstaigoje taip pat įskaitomas laikas, kurį valstybės tarnautojas šio įstatymo 14, 16 ir [[#^s-8e0c7738f358e3de5d08a961|17 straipsniuose]] nustatytais atvejais buvo perkeltas į kitas pareigas): ^s-0b4b29ff9b5f9349701cc7b8
+4. Pagal šio įstatymo [[#^s-74f86cac23f4e95e21aec693|35 straipsnio 1 dalies 10 punktą]] atleidžiamam iš pareigų valstybės tarnautojui išmokama iki pareigybės panaikinimo jo gauto vidutinio darbo užmokesčio dydžio išeitinė išmoka, apskaičiuojama atsižvelgiant į valstybės tarnautojo tarnybos valstybės ar savivaldybės institucijoje ar įstaigoje stažą (į tarnybos stažą valstybės ar savivaldybės institucijoje ar įstaigoje taip pat įskaitomas laikas, kurį valstybės tarnautojas šio įstatymo [[#^s-9dd87346a3e02da983623c75|14]], [[#^s-11de77f5953acf8baebceeca|16]] ir [[#^s-8e0c7738f358e3de5d08a961|17]] straipsniuose nustatytais atvejais buvo perkeltas į kitas pareigas): ^s-0b4b29ff9b5f9349701cc7b8
 
 
 1) iki vienų metų – vieno mėnesio; ^s-2a8d1fd1d1e80b047f17ec54
@@ -1240,7 +1240,7 @@ VALSTYBĖS TARNAUTOJŲ ATOSTOGOS IR GARANTIJOS
 5. [[#^s-0b4b29ff9b5f9349701cc7b8|Šio straipsnio 4 dalyje]] nustatytą išeitinę išmoką moka valstybės ar savivaldybės institucija ar įstaiga, kurios vadovas priėmė sprendimą dėl pareigybės panaikinimo. Jeigu pareigybė panaikinama Seimo ar Vyriausybės sprendimu, išeitines išmokas moka įstatymų ar Vyriausybės įgaliota institucija ar įstaiga. ^s-bdadc985a00d61b7f71b5772
 
 
-6. Šio straipsnio 3 ir [[#^s-0b4b29ff9b5f9349701cc7b8|4 dalyse]] nustatytos išeitinės išmokos pradedamos mokėti praėjus mėnesiui nuo valstybės tarnautojo atleidimo dienos ir mokamos kas mėnesį lygiomis dalimis. Išmokos nemokamos, jei atleidimo dieną valstybės tarnautojas eina kitas valstybės tarnautojo pareigas. Išmokos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ar priimamas į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke. Jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ne pirmą mėnesio dieną, išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos. Asmeniui mirus, išeitinės išmokos dalis, priklausanti asmeniui už tą mėnesį, kurį jis mirė, neišmokėta iki asmens mirties dienos, išmokama įpėdiniui, pateikusiam paveldėjimo dokumentus. ^s-abc5e2121bbe7e195afb1253
+6. Šio straipsnio [[#^s-f987bed97cd7e9ecbd9abf63|3]] ir [[#^s-0b4b29ff9b5f9349701cc7b8|4]] dalyse nustatytos išeitinės išmokos pradedamos mokėti praėjus mėnesiui nuo valstybės tarnautojo atleidimo dienos ir mokamos kas mėnesį lygiomis dalimis. Išmokos nemokamos, jei atleidimo dieną valstybės tarnautojas eina kitas valstybės tarnautojo pareigas. Išmokos mokėjimas nutraukiamas, jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ar priimamas į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke. Jeigu asmuo pradeda eiti valstybės tarnautojo pareigas ne pirmą mėnesio dieną, išeitinė išmoka mokama tik už to mėnesio dienas iki priėmimo į valstybės tarnautojo pareigas ar priėmimo į darbą valstybės ar savivaldybės įstaigoje, išlaikomoje iš valstybės ar savivaldybės biudžeto, Valstybinio socialinio draudimo fondo biudžeto ar iš kitų valstybės įsteigtų fondų lėšų, valstybės ar savivaldybės įmonėje, viešojoje įstaigoje, kurių savininkė yra valstybė arba savivaldybė, ar Lietuvos banke dienos. Asmeniui mirus, išeitinės išmokos dalis, priklausanti asmeniui už tą mėnesį, kurį jis mirė, neišmokėta iki asmens mirties dienos, išmokama įpėdiniui, pateikusiam paveldėjimo dokumentus. ^s-abc5e2121bbe7e195afb1253
 
 
 7. Šio įstatymo [[#^s-8d7515c248446f254923d39a|35 straipsnio 1 dalyje]] nurodytais pagrindais ar specialiajame įstatyme arba tiesiogiai taikomame Europos Sąjungos teisės akte nustatytais pagrindais atleidžiamam, pagal šį įstatymą nuolat į kitas valstybės tarnautojo pareigas į kitą valstybės ar savivaldybės instituciją ar įstaigą perkeliamam valstybės tarnautojui jo atleidimo iš pareigų (perkėlimo) dieną išmokamos visos jam priklausančios pinigų sumos, išskyrus [[#^s-f987bed97cd7e9ecbd9abf63|šio straipsnio 3 dalyje]] nurodytą išeitinę išmoką, mokamą politinio (asmeninio) pasitikėjimo valstybės tarnautojams, atleidžiamiems iš pareigų šio įstatymo [[#^s-595b2e2e5d7b5950204f4399|35 straipsnio 1 dalies 6 punkte]] nurodytu pagrindu, ir [[#^s-0b4b29ff9b5f9349701cc7b8|šio straipsnio 4 dalyje]] nurodytą išeitinę išmoką, nebent susitariama su valstybės tarnautoju, kad bus atsiskaityta ne vėliau kaip per 10 darbo dienų nuo valstybės tarnautojo atleidimo iš pareigų ar perkėlimo dienos. ^s-2d9984dc709b1f3903594d48
@@ -1274,16 +1274,16 @@ VALSTYBĖS TARNAUTOJŲ ATOSTOGOS IR GARANTIJOS
 1) diplomatų sutuoktiniai ar partneriai, kurie iš karjeros valstybės tarnautojo arba įstaigos vadovo pareigų atsistatydino savo noru dėl išvykimo kartu su sutuoktiniu ar partneriu, paskirtu dirbti užsienyje, – per 3 mėnesius pasibaigus sutuoktinio ar partnerio perkėlimo laikotarpiui arba per 3 mėnesius nuo prašymo atkurti karjeros valstybės tarnautojo statusą arba įstaigos vadovo statusą pateikimo dienos, jeigu toks prašymas pateikiamas nepasibaigus sutuoktinio ar partnerio perkėlimo laikotarpiui; ^s-eee063a12bba9f012513b4ef
 
 
-2) asmenys, kurie iš karjeros valstybės tarnautojo ar įstaigos vadovo pareigų atsistatydino savo noru dėl terminuotos diplomato tarnybos sutarties sudarymo pagal [[latest/TAR.46EF9E1D52E9#^s-edd7784ba2ca0df70b45577a|Diplomatinės tarnybos įstatymo 28 straipsnio]] 2 ir [[#^s-8595d7334cb9396027248dff|4 dalis]], – per 3 mėnesius nuo terminuotos diplomato tarnybos sutarties pasibaigimo dienos. Prašymas atkurti statusą pateikiamas likus ne daugiau negu 3 mėnesiams iki terminuotos diplomato tarnybos sutarties pabaigos pagal Diplomatinės tarnybos įstatymą dienos. ^s-a19314b64251b270d561c757
+2) asmenys, kurie iš karjeros valstybės tarnautojo ar įstaigos vadovo pareigų atsistatydino savo noru dėl terminuotos diplomato tarnybos sutarties sudarymo pagal [[latest/TAR.46EF9E1D52E9#^s-edd7784ba2ca0df70b45577a|Diplomatinės tarnybos įstatymo 28 straipsnio]] [[latest/TAR.46EF9E1D52E9#^s-8f5f84b600655718a97e2a6d|2]] ir [[latest/TAR.46EF9E1D52E9#^s-544a2b4b2cf52250c200d1a0|4]] dalis, – per 3 mėnesius nuo terminuotos diplomato tarnybos sutarties pasibaigimo dienos. Prašymas atkurti statusą pateikiamas likus ne daugiau negu 3 mėnesiams iki terminuotos diplomato tarnybos sutarties pabaigos pagal Diplomatinės tarnybos įstatymą dienos. ^s-a19314b64251b270d561c757
 
 
-3. Jeigu nėra galimybės atkurti įstaigos vadovo statusą šio straipsnio 1 ir [[#^s-6b77e5c1c45f28a2fdc28106|2 dalyse]] nurodytiems asmenims, turintiems teisę atkurti įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymuose nustatytai kadencijai) statusą, nuo [[#^s-faa800581512839acea37793|šio straipsnio 1 dalyje]] nurodytų aplinkybių atsiradimo dienos Vyriausybės nustatyta tvarka 3 mėnesius siūlomos lygiavertės ar žemesnės karjeros valstybės tarnautojo pareigos toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, o nuo [[#^s-6b77e5c1c45f28a2fdc28106|šio straipsnio 2 dalyje]] nurodytų aplinkybių atsiradimo dienos Vyriausybės nustatyta tvarka 3 mėnesius siūlomos lygiavertės karjeros valstybės tarnautojo pareigos toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje. ^s-9db0e08cae285703a37ef34f
+3. Jeigu nėra galimybės atkurti įstaigos vadovo statusą šio straipsnio [[#^s-faa800581512839acea37793|1]] ir [[#^s-6b77e5c1c45f28a2fdc28106|2]] dalyse nurodytiems asmenims, turintiems teisę atkurti įstaigos vadovo (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu ar įstatymuose nustatytai kadencijai) statusą, nuo [[#^s-faa800581512839acea37793|šio straipsnio 1 dalyje]] nurodytų aplinkybių atsiradimo dienos Vyriausybės nustatyta tvarka 3 mėnesius siūlomos lygiavertės ar žemesnės karjeros valstybės tarnautojo pareigos toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, o nuo [[#^s-6b77e5c1c45f28a2fdc28106|šio straipsnio 2 dalyje]] nurodytų aplinkybių atsiradimo dienos Vyriausybės nustatyta tvarka 3 mėnesius siūlomos lygiavertės karjeros valstybės tarnautojo pareigos toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje. ^s-9db0e08cae285703a37ef34f
 
 
 4. Įstatymuose nustatytai kadencijai į pareigas priimti įstaigų vadovai, išskyrus įstaigos vadovus, priimamus į pareigas politinio (asmeninio) pasitikėjimo pagrindu, ar kadencijai priimti karjeros valstybės tarnautojai Vyriausybės nustatyta tvarka per 6 mėnesius nuo atleidimo iš pareigų dienos (kai iš pareigų atleidžiama šio įstatymo [[#^s-37a5806582344ce44fd305b6|35 straipsnio 1 dalies 4 punkte]] nustatytu pagrindu) gali būti be konkurso priimti į lygiavertes ar žemesnes karjeros valstybės tarnautojo pareigas toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje. ^s-8595d7334cb9396027248dff
 
 
-5. Šiame straipsnyje nurodyti asmenys priimami į karjeros valstybės tarnautojo pareigas, jeigu atitinka šio įstatymo 5 ir [[#^s-958b87d50d5bb4b2b495a7cf|9 straipsniuose]] nustatytus reikalavimus. Šiame straipsnyje nurodyti asmenys gali būti priimti į karjeros valstybės tarnautojo pareigas Vyriausybės nustatyta tvarka valstybės ar savivaldybės institucijoje ar įstaigoje, kurioje jiems siūlomos karjeros valstybės tarnautojo pareigos, patikrinus jų gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas. Šio straipsnio 1, 2 ir [[#^s-9db0e08cae285703a37ef34f|3 dalyse]] nurodyti asmenys, kurie buvo priimti įstatymuose nustatytai kadencijai, pagal šią dalį į pareigas priimami ne ilgiau kaip likusiai kadencijos daliai. ^s-a015f79c3de2f09c1f0c7a5d
+5. Šiame straipsnyje nurodyti asmenys priimami į karjeros valstybės tarnautojo pareigas, jeigu atitinka šio įstatymo [[#^s-5bd5cf1079cf239acc3246b3|5]] ir [[#^s-958b87d50d5bb4b2b495a7cf|9]] straipsniuose nustatytus reikalavimus. Šiame straipsnyje nurodyti asmenys gali būti priimti į karjeros valstybės tarnautojo pareigas Vyriausybės nustatyta tvarka valstybės ar savivaldybės institucijoje ar įstaigoje, kurioje jiems siūlomos karjeros valstybės tarnautojo pareigos, patikrinus jų gebėjimus atlikti pareigybės aprašyme nustatytas funkcijas. Šio straipsnio [[#^s-faa800581512839acea37793|1]], [[#^s-6b77e5c1c45f28a2fdc28106|2]] ir [[#^s-9db0e08cae285703a37ef34f|3]] dalyse nurodyti asmenys, kurie buvo priimti įstatymuose nustatytai kadencijai, pagal šią dalį į pareigas priimami ne ilgiau kaip likusiai kadencijos daliai. ^s-a015f79c3de2f09c1f0c7a5d
 
 
 
@@ -1656,7 +1656,7 @@ valstybės tarnybos įstatymo
 
 
 
-2023 m. gegužės 10 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/970, kuria, nustatant darbo užmokesčio skaidrumo ir vykdymo užtikrinimo mechanizmus, griežčiau taikomas vienodo vyrų ir moterų darbo užmokesčio už vienodą arba vienodos vertės darbą principas.
+2023 m. gegužės 10 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/970](https://eur-lex.europa.eu/eli/dir/2023/970/oj), kuria, nustatant darbo užmokesčio skaidrumo ir vykdymo užtikrinimo mechanizmus, griežčiau taikomas vienodo vyrų ir moterų darbo užmokesčio už vienodą arba vienodos vertės darbą principas.
 
 
 _________________
@@ -1750,7 +1750,7 @@ Nr. IX-815, 2002-03-28, Žin., 2002, Nr. 38-1362 (2002-04-10)
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-856, 2002-04-23, Žin., 2002, Nr. 45-1709 (2002-05-04)
-[[latest/TAR.5603BD9D8D74|VALSTYBĖS TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMO]] ĮGYVENDINIMO ĮSTATYMAS
+[VALSTYBĖS TARNYBOS ĮSTATYMO PAKEITIMO ĮSTATYMO ĮGYVENDINIMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.8C46EE8DC023)
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1849,7 +1849,7 @@ Nr. IX-2536, 2004-11-04, Žin., 2004, Nr. 171-6296 (2004-11-26)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-464, 2005-12-22, Žin., 2006, Nr. 4-97 (2006-01-12)
 [[latest/TAR.FDA590A67D72|VALSTYBĖS TARNYBOS ĮSTATYMO 2, 4, 6, 9, 10, 11, 13, 14, 15, 16, 17, 18, 19, 21, 22, 24, 27, 30, 34, 35, 36, 39, 40, 41, 42, 43, 44, 45, 49, 50 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO 16(1) IR 31(1) STRAIPSNIAIS ĮSTATYMAS]]
-Šio įstatymo [[#^s-5bd5cf1079cf239acc3246b3|5 straipsnio]] 3, 4, 5 ir 6 dalys, [[#^s-958b87d50d5bb4b2b495a7cf|9 straipsnis]], [[#^s-8b5c6d48fc6c8fbf91648dff|10 straipsnio 1 dalis]], [[#^s-55897dfa73ab99892b5a418f|10 straipsnio]] 2 ir 3 dalys, kiek tai susiję su įstaigos vadovo statuso atkūrimu, [[#^s-46ad89686b7fc7c26c557992|10 straipsnio 4 dalis]], 11, 12, 14, 17, [[#^s-2165052f535deee0ecc1b8a1|20 straipsniai]] ir [[#^s-5867b9bdac22edf9a02bb294|30 straipsnio]] 2 ir 3 dalys įsigalioja nuo 2006 m. liepos 1 d.
+Šio įstatymo [[#^s-5bd5cf1079cf239acc3246b3|5 straipsnio]] [[#^s-2c2f439f1b37480a0fc9f445|3]], [[#^s-f82d193e40261958ce3a4537|4]], [[#^s-d3b08052b5926125bc0e68d1|5]] ir 6 dalys, [[#^s-958b87d50d5bb4b2b495a7cf|9 straipsnis]], [[#^s-8b5c6d48fc6c8fbf91648dff|10 straipsnio 1 dalis]], [[#^s-55897dfa73ab99892b5a418f|10 straipsnio]] [[#^s-a9042cc01b89b955ca23064c|2]] ir [[#^s-aaf6a943842d7a32312b0f35|3]] dalys, kiek tai susiję su įstaigos vadovo statuso atkūrimu, [[#^s-46ad89686b7fc7c26c557992|10 straipsnio 4 dalis]], [[#^s-c2d91ca38aaeb2e56e106a6f|11]], [[#^s-925db41f87363fc314485e93|12]], [[#^s-9dd87346a3e02da983623c75|14]], [[#^s-8e0c7738f358e3de5d08a961|17]], [[#^s-2165052f535deee0ecc1b8a1|20]] straipsniai ir [[#^s-5867b9bdac22edf9a02bb294|30 straipsnio]] [[#^s-87acc34c0788456d443563cf|2]] ir [[#^s-df3281015d4e8216d2aef03b|3]] dalys įsigalioja nuo 2006 m. liepos 1 d.
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1865,7 +1865,7 @@ Nr. X-789, 2006-07-19, Žin., 2006, Nr. 87-3400 (2006-08-08)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1175, 2007-06-07, Žin., 2007, Nr. 69-2723 (2007-06-23)
 [[latest/TAR.FB5F2FB6C07B|VALSTYBĖS TARNYBOS ĮSTATYMO 3, 4, 8, 9, 18, 19, 20, 21, 22, 23, 25, 38, 41, 43, 44, 49, 50 STRAIPSNIŲ IR PRIEDĖLIO PAKEITIMO BEI PAPILDYMO IR ĮSTATYMO PAPILDYMO 22(1), 48(1), 50(1) STRAIPSNIAIS ĮSTATYMAS]]
-Šio įstatymo 2, [[#^s-1b3fc60d66ac757df64527ed|4 straipsniai]], [[#^s-5bd5cf1079cf239acc3246b3|5 straipsnio]] 3 ir 4 dalys, 6, 7, 8, 9, 10, 11, 12, [[#^s-9308a70f918ef711f804e9d1|15 straipsniai]], [[#^s-11de77f5953acf8baebceeca|16 straipsnio]] 1, 3 ir 5 dalys, [[#^s-8e0c7738f358e3de5d08a961|17 straipsnis]] ir [[#^s-9b757a84167e060f9fd7493a|18 straipsnio 1 dalis]] įsigalioja nuo 2007 m. spalio 1 d.
+Šio įstatymo [[#^s-0947501d9bfa7e49517437ae|2]], [[#^s-1b3fc60d66ac757df64527ed|4]] straipsniai, [[#^s-5bd5cf1079cf239acc3246b3|5 straipsnio]] [[#^s-2c2f439f1b37480a0fc9f445|3]] ir [[#^s-f82d193e40261958ce3a4537|4]] dalys, [[#^s-cb1ceaa4c1320f62cc801e70|6]], [[#^s-fe290f6d9de6562b5c36eab6|7]], [[#^s-3c05bebc1f0a50fee8f53726|8]], [[#^s-958b87d50d5bb4b2b495a7cf|9]], [[#^s-55897dfa73ab99892b5a418f|10]], [[#^s-c2d91ca38aaeb2e56e106a6f|11]], [[#^s-925db41f87363fc314485e93|12]], [[#^s-9308a70f918ef711f804e9d1|15]] straipsniai, [[#^s-11de77f5953acf8baebceeca|16 straipsnio]] [[#^s-e3d82a4c613d3c0397e30219|1]], [[#^s-1582b1478acfd774f134f1db|3]] ir 5 dalys, [[#^s-8e0c7738f358e3de5d08a961|17 straipsnis]] ir [[#^s-9b757a84167e060f9fd7493a|18 straipsnio 1 dalis]] įsigalioja nuo 2007 m. spalio 1 d.
 Šio įstatymo [[#^s-643f0b5f2f74200a6b512081|21 straipsnis]] įsigalioja nuo 2008 m. sausio 1 d.
 Iki šio įstatymo įsigaliojimo pradėta valstybės tarnautojo vertinimo procedūra atliekama pagal vertinimo procedūros pradžios dieną galiojusius teisės aktus.
 Šio įstatymo [[#^s-9dd87346a3e02da983623c75|14 straipsnio]] nuostatos taikomos asmenims, paskirtiems į politinio (asmeninio) pasitikėjimo valstybės tarnautojų pareigas po šio įstatymo įsigaliojimo dienos.
@@ -1874,7 +1874,7 @@ Iki šio įstatymo įsigaliojimo pradėta valstybės tarnautojo vertinimo proced
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1349, 2007-12-04, Žin., 2007, Nr. 135-5453 (2007-12-21)
 [[latest/TAR.1FD4C316A480|VALSTYBĖS TARNYBOS ĮSTATYMO 7, 8, 24 STRAIPSNIŲ IR PRIEDĖLIO PAKEITIMO IR ĮSTATYMO PAPILDYMO 2, 3 PRIEDAIS ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-0947501d9bfa7e49517437ae|2 straipsnio]] 5 ir 10 dalis, [[#^s-fe290f6d9de6562b5c36eab6|7 straipsnį]], 2009 metų valstybės tarnautojų suvienodintų pareigybių sąrašą ir nuo 2010 metų valstybės tarnautojų suvienodintų pareigybių sąrašą, įsigalioja 2008 m. gegužės 1 d.
+Šis įstatymas, išskyrus [[#^s-0947501d9bfa7e49517437ae|2 straipsnio]] [[#^s-514b1332b7f0c09d769470e6|5]] ir [[#^s-b6e547dc2bf24c827213773c|10]] dalis, [[#^s-fe290f6d9de6562b5c36eab6|7 straipsnį]], 2009 metų valstybės tarnautojų suvienodintų pareigybių sąrašą ir nuo 2010 metų valstybės tarnautojų suvienodintų pareigybių sąrašą, įsigalioja 2008 m. gegužės 1 d.
 Šio įstatymo [[#^s-b6e547dc2bf24c827213773c|2 straipsnio 10 dalis]] įsigalioja 2008 m. balandžio 1 d.
 2009 metų valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2009 m. sausio 1 d., o nuo 2010 metų valstybės tarnautojų suvienodintų pareigybių sąrašas įsigalioja 2010 m. sausio 1 d.
 Šio įstatymo pakeitimas:
@@ -1894,8 +1894,8 @@ Nr. X-1535, 2008-05-13, Žin., 2008, Nr. 63-2376 (2008-06-03)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1689, 2008-07-03, Žin., 2008, Nr. 81-3189 (2008-07-17)
 [[latest/TAR.92ED4E44917E|VALSTYBĖS TARNYBOS ĮSTATYMO 8, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo [[#^s-866b8235809668de86113f29|1 straipsnis]] ir [[#^s-0947501d9bfa7e49517437ae|2 straipsnio]] 1 ir [[#^s-f8f6d23dbae0a0333a1202d3|2 dalys]] įsigalioja 2017 m. sausio 1 d.
-Šio įstatymo [[#^s-0947501d9bfa7e49517437ae|2 straipsnio]] 3 ir 4 dalys įsigalioja 2009 m. vasario 1 d.
+Šio įstatymo [[#^s-866b8235809668de86113f29|1 straipsnis]] ir [[#^s-0947501d9bfa7e49517437ae|2 straipsnio]] [[#^s-b8053dc3e0aad087ac620ae4|1]] ir [[#^s-3ef6f5c2bc41a35f90d88099|2]] dalys įsigalioja 2017 m. sausio 1 d.
+Šio įstatymo [[#^s-0947501d9bfa7e49517437ae|2 straipsnio]] [[#^s-746f2daf02597b27cc79c578|3]] ir [[#^s-a75188c49c6975668b3c6172|4]] dalys įsigalioja 2009 m. vasario 1 d.
 Šio įstatymo įsigaliojimas keistas:
 39.1.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1908,23 +1908,23 @@ VALSTYBĖS TARNYBOS ĮSTATYMO 8, 10 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO
 39.3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1496, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20797
-[[#^s-55897dfa73ab99892b5a418f|LIETUVOS RESPUBLIKOS VALSTYBĖS TARNYBOS ĮSTATYMO 8, [[#^s-55897dfa73ab99892b5a418f\|10 STRAIPSNIŲ]]]] PAKEITIMO IR PAPILDYMO [[latest/TAR.92ED4E44917E|ĮSTATYMO NR. X-1689]] [[#^s-bf8be1b7d65210c7b3ee46cd|3 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS VALSTYBĖS TARNYBOS ĮSTATYMO [[#^s-3c05bebc1f0a50fee8f53726|8]], [[#^s-55897dfa73ab99892b5a418f|10]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO [[latest/TAR.92ED4E44917E|ĮSTATYMO NR. X-1689]] [[#^s-bf8be1b7d65210c7b3ee46cd|3 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
 
 40.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1742, 2008-10-06, Žin., 2008, Nr. 120-4549 (2008-10-18)
-[[#^s-ad56a8a84b2a0b321ec4b95b|VALSTYBĖS TARNYBOS ĮSTATYMO 4, 19 STRAIPSNIŲ]] PAKEITIMO, ĮSTATYMO PAPILDYMO 18(1) STRAIPSNIU IR 3 PRIEDO PAKEITIMO ĮSTATYMAS
+VALSTYBĖS TARNYBOS ĮSTATYMO [[#^s-1b3fc60d66ac757df64527ed|4]], [[#^s-ad56a8a84b2a0b321ec4b95b|19]] STRAIPSNIŲ PAKEITIMO, ĮSTATYMO PAPILDYMO 18(1) STRAIPSNIU IR 3 PRIEDO PAKEITIMO ĮSTATYMAS
 
 41.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-53, 2008-12-09, Žin., 2008, Nr. 143-5688 (2008-12-13)
-VALSTYBĖS TARNYBOS ĮSTATYMO 4, 10, 16, 16(1), 17, 23, 26, 37, 41, 42 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 26(1), 43(1) STRAIPSNIAIS IR 3 PRIEDO II SKYRIAUS PAKEITIMO ĮSTATYMAS
-Šis įstatymas, išskyrus [[#^s-0947501d9bfa7e49517437ae|2 straipsnio]] 1 ir [[#^s-f8f6d23dbae0a0333a1202d3|2 dalis]], [[#^s-bf8be1b7d65210c7b3ee46cd|3 straipsnį]], [[#^s-8d64c9472ea17e611bfa13a4|5 straipsnio 1 dalį]], 11, 13 ir [[#^s-9dd87346a3e02da983623c75|14 straipsnius]], įsigalioja 2009 m. sausio 1 d.
+VALSTYBĖS TARNYBOS ĮSTATYMO 4, 10, 16, 16(1), [[#^s-8e0c7738f358e3de5d08a961|17]], [[#^s-3b244b29f3a780936ec172e4|23]], [[#^s-3e6c94e27aa1e3593c764d10|26]], [[#^s-c07a07d33028de008902964b|37]], [[#^s-04a592117515d4348b0b28ca|41]], [[latest/TAR.D3ED3792F52B|42]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 26(1), 43(1) STRAIPSNIAIS IR 3 PRIEDO II SKYRIAUS PAKEITIMO ĮSTATYMAS
+Šis įstatymas, išskyrus [[#^s-0947501d9bfa7e49517437ae|2 straipsnio]] [[#^s-b8053dc3e0aad087ac620ae4|1]] ir [[#^s-3ef6f5c2bc41a35f90d88099|2]] dalis, [[#^s-bf8be1b7d65210c7b3ee46cd|3 straipsnį]], [[#^s-8d64c9472ea17e611bfa13a4|5 straipsnio 1 dalį]], [[#^s-c2d91ca38aaeb2e56e106a6f|11]], [[#^s-4f89215b2214edb45a33bcab|13]] ir [[#^s-9dd87346a3e02da983623c75|14]] straipsnius, įsigalioja 2009 m. sausio 1 d.
 Šio įstatymo pakeitimas:
 41.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-121, 2008-12-23, Žin., 2008, Nr. 149-6041 (2008-12-30)
-VALSTYBĖS TARNYBOS ĮSTATYMO 4, 10, 16, 16(1), 17, 23, 26, 37, 41, 42 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 26(1), 43(1) STRAIPSNIAIS IR 3 PRIEDO II SKYRIAUS PAKEITIMO ĮSTATYMO [[#^s-4f89215b2214edb45a33bcab|13 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
+VALSTYBĖS TARNYBOS ĮSTATYMO 4, 10, 16, 16(1), [[#^s-8e0c7738f358e3de5d08a961|17]], [[#^s-3b244b29f3a780936ec172e4|23]], [[#^s-3e6c94e27aa1e3593c764d10|26]], [[#^s-c07a07d33028de008902964b|37]], [[#^s-04a592117515d4348b0b28ca|41]], [[latest/TAR.D3ED3792F52B|42]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO, ĮSTATYMO PAPILDYMO 26(1), 43(1) STRAIPSNIAIS IR 3 PRIEDO II SKYRIAUS PAKEITIMO ĮSTATYMO [[#^s-4f89215b2214edb45a33bcab|13 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
 Šis įstatymas įsigalioja 2009 m. sausio 1 d.
 
 42.
@@ -1955,10 +1955,10 @@ VALSTYBĖS TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMAS
                 44.1.
 Lietuvos Respublikos Seimas, Įstatymas
                 Nr. XI-321, 2009-07-07, Žin., 2009, Nr.85-3578 (2009-07-18)
-VALSTYBĖS TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+[VALSTYBĖS TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 2 IR 3 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.9B114099BB50)
 Šis įstatymas įsigalioja 2009 liepos 18 d.
 44.2.
-Įstatymas Nr. XI-186 neteko galios nuo 2010 m. sausio 1 d.:
+[Įstatymas Nr. XI-186](https://e-tar.lt/portal/lt/legalAct/TAR.2E6148E56F5E) neteko galios nuo 2010 m. sausio 1 d.:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-514, 2009-12-02, Žin., 2009, Nr. 147-6557 (2009-12-12)
 VALSTYBĖS TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO PRIPAŽINIMO NETEKUSIU GALIOS ĮSTATYMAS
@@ -1966,22 +1966,22 @@ VALSTYBĖS TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO PRIPAŽINIMO NETEKUSI
 45.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-227, 2009-04-23, Žin., 2009, Nr. 49-1937 (2009-04-30)
-VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO ĮSTATYMAS
+[VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.02DE112B276E)
 Šio įstatymo [[#^s-866b8235809668de86113f29|1 straipsnis]] įsigalioja 2009 m. gegužės 1 d.
 Šio įstatymo [[#^s-0947501d9bfa7e49517437ae|2 straipsnis]] įsigalioja 2014 m. sausio 1 d.
 Šio įstatymo įsigaliojimas keistas:
 45.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-943, 2010-06-30, Žin., 2010, Nr. 82-4297 (2010-07-13)
-[[#^s-bf8be1b7d65210c7b3ee46cd|VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 45.2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1723, 2011-11-22, Žin., 2011, Nr. 150-7038 (2011-12-08)
-[[#^s-bf8be1b7d65210c7b3ee46cd|VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 45.3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-115, 2012-12-20, Žin., 2012, Nr. 155-7993 (2012-12-31)
-[[#^s-bf8be1b7d65210c7b3ee46cd|VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+VALSTYBĖS TARNYBOS ĮSTATYMO 1 PRIEDO PAKEITIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Įstatymas (Nr. XI-227) ir jo pakeitimai neteko galios nuo 2013-10-01:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-517, 2013-09-19, Žin., 2013, Nr. 102-5026 (2013-09-28)
@@ -2002,7 +2002,7 @@ Nr. XI-320, 2009-07-07, Žin., 2009, Nr. 85-3577 (2009-07-18)
 48.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-363, 2009-07-17, Žin., 2009, Nr. 91-3918 (2009-07-31)
-[[#^s-a4146cc83d8a56e3211ddefa|VALSTYBĖS TARNYBOS ĮSTATYMO 25 STRAIPSNIO]] IR 1 PRIEDO PAKEITIMO ĮSTATYMAS
+[VALSTYBĖS TARNYBOS ĮSTATYMO 25 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMAS](https://e-tar.lt/portal/lt/legalAct/TAR.D2E5E3085605)
 Šio įstatymo [[#^s-866b8235809668de86113f29|1 straipsnis]] įsigalioja 2009 m. rugpjūčio 1 d.
 Šio įstatymo [[#^s-0947501d9bfa7e49517437ae|2 straipsnis]] įsigalioja 2014 m. sausio 1 d.
 Šio įstatymo [[#^s-bf8be1b7d65210c7b3ee46cd|3 straipsnis]] įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2013 m. gruodžio 31 d.
@@ -2010,15 +2010,15 @@ Nr. XI-363, 2009-07-17, Žin., 2009, Nr. 91-3918 (2009-07-31)
 48.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-944, 2010-06-30, Žin., 2010, Nr. 82-4298 (2010-07-13)
-[[#^s-a4146cc83d8a56e3211ddefa|VALSTYBĖS TARNYBOS ĮSTATYMO 25 STRAIPSNIO]] IR 1 PRIEDO PAKEITIMO ĮSTATYMO [[#^s-1b3fc60d66ac757df64527ed|4 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+VALSTYBĖS TARNYBOS ĮSTATYMO 25 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 48.2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1721, 2011-11-22, Žin., 2011, Nr. 150-7036 (2011-12-08)
-[[#^s-a4146cc83d8a56e3211ddefa|VALSTYBĖS TARNYBOS ĮSTATYMO 25 STRAIPSNIO]] IR 1 PRIEDO PAKEITIMO ĮSTATYMO [[#^s-1b3fc60d66ac757df64527ed|4 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+VALSTYBĖS TARNYBOS ĮSTATYMO 25 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 48.3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-114, 2012-12-20, Žin., 2012, Nr. 155-7992 (2012-12-31)
-[[#^s-a4146cc83d8a56e3211ddefa|VALSTYBĖS TARNYBOS ĮSTATYMO 25 STRAIPSNIO]] IR 1 PRIEDO PAKEITIMO ĮSTATYMO [[#^s-1b3fc60d66ac757df64527ed|4 STRAIPSNIO]] PAKEITIMO ĮSTATYMAS
+VALSTYBĖS TARNYBOS ĮSTATYMO 25 STRAIPSNIO IR 1 PRIEDO PAKEITIMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Įstatymas (Nr. XI-363) ir jo pakeitimai neteko galios nuo 2013-10-01:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-517, 2013-09-19, Žin., 2013, Nr. 102-5026 (2013-09-28)
@@ -2072,11 +2072,11 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-155, 2013-01-17, Žin., 2013, Nr. 11-499 (2013-01-30)
 VALSTYBĖS TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO ĮSTATYMO 1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Įstatymas neteko galios nuo 2014-01-01.
-Įstatymas Nr. XI-512 ir jo pakeitimai neteko galios nuo 2014-01-01:
+[Įstatymas Nr. XI-512](https://e-tar.lt/portal/lt/legalAct/TAR.03B246192C56) ir jo pakeitimai neteko galios nuo 2014-01-01:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-681, 2013-12-17, Žin., 2013, Nr. 140-7058 (2013-12-30)
 [[latest/fa05328089d911e397b5c02d3197f382|LIETUVOS RESPUBLIKOS VALSTYBĖS TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO IR KAI KURIŲ SU JUO SUSIJUSIŲ ĮSTATYMŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS]]
-Šio įstatymo 1 ir [[#^s-5bd5cf1079cf239acc3246b3|5 straipsniai]] įsigalioja 2014 m. sausio 1 d.
+Šio įstatymo [[#^s-866b8235809668de86113f29|1]] ir [[#^s-5bd5cf1079cf239acc3246b3|5]] straipsniai įsigalioja 2014 m. sausio 1 d.
 
 50.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2105,7 +2105,7 @@ Nr. XI-864, 2010-06-03, Žin., 2010, Nr. 71-3542 (2010-06-19)
 54.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1369, 2011-04-28, Žin., 2011, Nr. 57-2705 (2011-05-12)
-VALSTYBĖS TARNYBOS ĮSTATYMO 4, 9, 18, 29, 44 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 3(1), 30(1) STRAIPSNIAIS ĮSTATYMAS
+VALSTYBĖS TARNYBOS ĮSTATYMO [[#^s-1b3fc60d66ac757df64527ed|4]], [[#^s-958b87d50d5bb4b2b495a7cf|9]], [[#^s-d33d8dbde27fbb4a7869b092|18]], [[#^s-eba86682368647d368d84491|29]], [[latest/TAR.D3ED3792F52B|44]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 3(1), 30(1) STRAIPSNIAIS ĮSTATYMAS
 Šis įstatymas įsigalioja 2011 m. liepos 1 d.
 
 55.
@@ -2145,17 +2145,17 @@ Nr. XI-1946, 2012-03-29, Žin., 2012, Nr. 44-2140 (2012-04-14)
 61.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-2041, 2012-06-05, Žin., 2012, Nr. 69-3523 (2012-06-21)
-VALSTYBĖS TARNYBOS ĮSTATYMO 3(1), 4, 9, 11, 13, 14, 15, 16, 16(1), 17, 22, 29, 30, 31(1), 32, 34, 41, 43, 44, 46, 47, 48, 49, 50, 51 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-Šis įstatymas, išskyrus 21, 22, 23, [[#^s-3e6c94e27aa1e3593c764d10|26 straipsnius]], šio straipsnio 2, 3, 4 ir 5 dalis, įsigalioja 2013 m. birželio 1 d.
+VALSTYBĖS TARNYBOS ĮSTATYMO 3(1), 4, 9, 11, 13, 14, 15, 16, 16(1), 17, 22, 29, 30, 31(1), [[#^s-ed93a24fa84ec2289822e40b|32]], [[#^s-2cc0093318bc3209e150d541|34]], [[#^s-04a592117515d4348b0b28ca|41]], [[latest/TAR.D3ED3792F52B|43]], [[latest/TAR.D3ED3792F52B|44]], [[latest/TAR.D3ED3792F52B|46]], [[latest/TAR.D3ED3792F52B|47]], [[latest/TAR.D3ED3792F52B|48]], [[latest/TAR.D3ED3792F52B|49]], [[latest/TAR.D3ED3792F52B|50]], [[latest/TAR.D3ED3792F52B|51]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+Šis įstatymas, išskyrus [[#^s-643f0b5f2f74200a6b512081|21]], [[#^s-6349f465daf918236fded6aa|22]], [[#^s-3b244b29f3a780936ec172e4|23]], [[#^s-3e6c94e27aa1e3593c764d10|26]] straipsnius, šio straipsnio [[#^s-5a6b423516ba7f90949cd8b4|2]], [[#^s-c994b067b6436089e3ad4235|3]], [[#^s-cad7960add53b1998cf84173|4]] ir 5 dalis, įsigalioja 2013 m. birželio 1 d.
 Šio įstatymo [[#^s-0e9df0b0d53cd0af846127e5|4 straipsnio 1 dalis]], [[#^s-8d64c9472ea17e611bfa13a4|5 straipsnio 1 dalis]], [[#^s-925db41f87363fc314485e93|12 straipsnis]], [[#^s-11de77f5953acf8baebceeca|16 straipsnis]] įsigalioja 2012 m. rugpjūčio 1 d.
-Šio įstatymo [[#^s-47f531df41b8149077dd7a71|4 straipsnio 3 dalis]], [[#^s-2c2f439f1b37480a0fc9f445|5 straipsnio 3 dalis]], [[#^s-dd3857a98364bc81176c6c40|6 straipsnio 1 dalis]], [[#^s-fe290f6d9de6562b5c36eab6|7 straipsnis]], [[#^s-3c05bebc1f0a50fee8f53726|8 straipsnio]] 1, 2 ir 3 dalys, [[#^s-958b87d50d5bb4b2b495a7cf|9 straipsnis]], [[#^s-55897dfa73ab99892b5a418f|10 straipsnis]], [[#^s-c2d91ca38aaeb2e56e106a6f|11 straipsnis]], [[#^s-9dd87346a3e02da983623c75|14 straipsnis]], [[#^s-9308a70f918ef711f804e9d1|15 straipsnis]], [[#^s-8e0c7738f358e3de5d08a961|17 straipsnis]], [[#^s-d33d8dbde27fbb4a7869b092|18 straipsnio]] 1 ir 3 dalys, [[#^s-ad56a8a84b2a0b321ec4b95b|19 straipsnio]] 2, 3, 4, 5 ir 6 dalys, [[#^s-2165052f535deee0ecc1b8a1|20 straipsnis]], [[#^s-a1ea77997e4792c3ba707676|25 straipsnio 2 dalis]] įsigalioja 2012 m. rugsėjo 1 d.
-Šio įstatymo [[#^s-866b8235809668de86113f29|1 straipsnis]], [[#^s-0947501d9bfa7e49517437ae|2 straipsnis]], [[#^s-b80cbbbfedc3291eba5f4da4|3 straipsnio 3 dalis]], [[#^s-4f89215b2214edb45a33bcab|13 straipsnis]], [[#^s-e70b4f808a29d7284a3fbe9e|19 straipsnio 1 dalis]], [[#^s-a1864c659fc8c4a3612fd66d|24 straipsnio]] 1 ir [[#^s-f8f6d23dbae0a0333a1202d3|2 dalys]] įsigalioja 2012 m. lapkričio 1 d.
-Šio įstatymo 21, 22 ir [[#^s-3b244b29f3a780936ec172e4|23 straipsniai]] įsigalioja 2013 m. sausio 1 d.
+Šio įstatymo [[#^s-47f531df41b8149077dd7a71|4 straipsnio 3 dalis]], [[#^s-2c2f439f1b37480a0fc9f445|5 straipsnio 3 dalis]], [[#^s-dd3857a98364bc81176c6c40|6 straipsnio 1 dalis]], [[#^s-fe290f6d9de6562b5c36eab6|7 straipsnis]], [[#^s-3c05bebc1f0a50fee8f53726|8 straipsnio]] [[#^s-b445fe85e3a70b765b597587|1]], [[#^s-8dbea6f6ec57cdb6ef9010c3|2]] ir [[#^s-bd2ba32abf86bc46288a488b|3]] dalys, [[#^s-958b87d50d5bb4b2b495a7cf|9 straipsnis]], [[#^s-55897dfa73ab99892b5a418f|10 straipsnis]], [[#^s-c2d91ca38aaeb2e56e106a6f|11 straipsnis]], [[#^s-9dd87346a3e02da983623c75|14 straipsnis]], [[#^s-9308a70f918ef711f804e9d1|15 straipsnis]], [[#^s-8e0c7738f358e3de5d08a961|17 straipsnis]], [[#^s-d33d8dbde27fbb4a7869b092|18 straipsnio]] [[#^s-9b757a84167e060f9fd7493a|1]] ir [[#^s-affba8964ed5fcf2c3ed595f|3]] dalys, [[#^s-ad56a8a84b2a0b321ec4b95b|19 straipsnio]] [[#^s-682a713103cd440e0a8ddf02|2]], [[#^s-15bfd54ab75fc11cfcfb344c|3]], [[#^s-dc26becdcc028491366a85c4|4]], 5 ir 6 dalys, [[#^s-2165052f535deee0ecc1b8a1|20 straipsnis]], [[#^s-a1ea77997e4792c3ba707676|25 straipsnio 2 dalis]] įsigalioja 2012 m. rugsėjo 1 d.
+Šio įstatymo [[#^s-866b8235809668de86113f29|1 straipsnis]], [[#^s-0947501d9bfa7e49517437ae|2 straipsnis]], [[#^s-b80cbbbfedc3291eba5f4da4|3 straipsnio 3 dalis]], [[#^s-4f89215b2214edb45a33bcab|13 straipsnis]], [[#^s-e70b4f808a29d7284a3fbe9e|19 straipsnio 1 dalis]], [[#^s-a1864c659fc8c4a3612fd66d|24 straipsnio]] 1 ir 2 dalys įsigalioja 2012 m. lapkričio 1 d.
+Šio įstatymo [[#^s-643f0b5f2f74200a6b512081|21]], [[#^s-6349f465daf918236fded6aa|22]] ir [[#^s-3b244b29f3a780936ec172e4|23]] straipsniai įsigalioja 2013 m. sausio 1 d.
 Šis įstatymas ir jo įsigaliojimas keistas:
 61.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-27, 2012-12-04, Žin., 2012, Nr. 143-7378 (2012-12-11)
-VALSTYBĖS TARNYBOS ĮSTATYMO 3(1), 4, 9, 11, 13, 14, 15, 16, 16(1), 17, 22, 29, 30, 31(1), 32, 34, 41, 43, 44, 46, 47, 48, 49, 50, 51 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO 3, 23, [[#^s-d011b20a42a35d15e9d4fcdf|27 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+VALSTYBĖS TARNYBOS ĮSTATYMO 3(1), 4, 9, 11, 13, 14, 15, 16, 16(1), 17, 22, 29, 30, 31(1), [[#^s-ed93a24fa84ec2289822e40b|32]], [[#^s-2cc0093318bc3209e150d541|34]], [[#^s-04a592117515d4348b0b28ca|41]], [[latest/TAR.D3ED3792F52B|43]], [[latest/TAR.D3ED3792F52B|44]], [[latest/TAR.D3ED3792F52B|46]], [[latest/TAR.D3ED3792F52B|47]], [[latest/TAR.D3ED3792F52B|48]], [[latest/TAR.D3ED3792F52B|49]], [[latest/TAR.D3ED3792F52B|50]], [[latest/TAR.D3ED3792F52B|51]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMO [[#^s-bf8be1b7d65210c7b3ee46cd|3]], [[#^s-3b244b29f3a780936ec172e4|23]], [[#^s-d011b20a42a35d15e9d4fcdf|27]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 62.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2188,8 +2188,8 @@ Nr. XII-281, 2013-05-09, Žin., 2013, Nr. 54-2686 (2013-05-25)
 67.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-280, 2013-05-09, Žin., 2013, Nr. 54-2685 (2013-05-25)
-VALSTYBĖS TARNYBOS ĮSTATYMO 14, 20, 22, 42, 43, 44 STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 18(2) STRAIPSNIU ĮSTATYMAS
-Šis įstatymas, išskyrus [[#^s-e99f7481dade7e3fd98bd89e|1 straipsnio 2 dalį]], [[#^s-85b4949a5417b13fe8751b99|6 straipsnio 2 dalį]] ir šio straipsnio 2 ir 3 dalis, įsigalioja 2013 m. birželio 1 d.
+VALSTYBĖS TARNYBOS ĮSTATYMO [[#^s-9dd87346a3e02da983623c75|14]], [[#^s-2165052f535deee0ecc1b8a1|20]], [[#^s-6349f465daf918236fded6aa|22]], [[latest/TAR.D3ED3792F52B|42]], [[latest/TAR.D3ED3792F52B|43]], [[latest/TAR.D3ED3792F52B|44]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 18(2) STRAIPSNIU ĮSTATYMAS
+Šis įstatymas, išskyrus [[#^s-e99f7481dade7e3fd98bd89e|1 straipsnio 2 dalį]], [[#^s-85b4949a5417b13fe8751b99|6 straipsnio 2 dalį]] ir šio straipsnio [[#^s-85b4949a5417b13fe8751b99|2]] ir [[#^s-43cbae48275b828d55e25498|3]] dalis, įsigalioja 2013 m. birželio 1 d.
 Šio įstatymo [[#^s-e99f7481dade7e3fd98bd89e|1 straipsnio 2 dalis]] ir [[#^s-85b4949a5417b13fe8751b99|6 straipsnio 2 dalis]] įsigalioja 2013 m. birželio 2 d.
 
 68.
@@ -2201,7 +2201,7 @@ Nr. XII-435, 2013-06-27, Žin., 2013, Nr. 75-3762 (2013-07-13)
 69.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-451, 2013-07-02, Žin., 2013, Nr. 78-3930 (2013-07-20)
-VALSTYBĖS TARNYBOS ĮSTATYMO 4, 18, 34, 42 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 18(3), 34(1) STRAIPSNIAIS ĮSTATYMAS
+VALSTYBĖS TARNYBOS ĮSTATYMO [[#^s-1b3fc60d66ac757df64527ed|4]], [[#^s-d33d8dbde27fbb4a7869b092|18]], [[#^s-2cc0093318bc3209e150d541|34]], [[latest/TAR.D3ED3792F52B|42]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 18(3), 34(1) STRAIPSNIAIS ĮSTATYMAS
 
 70.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2218,10 +2218,10 @@ Nr. XII-692, 2013-12-17, Žin., 2013, Nr. 140-7069 (2013-12-30)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-681, 2013-12-17, Žin., 2013, Nr. 140-7058 (2013-12-30)
 [[latest/fa05328089d911e397b5c02d3197f382|LIETUVOS RESPUBLIKOS VALSTYBĖS TARNYBOS ĮSTATYMO 3 PRIEDO PAKEITIMO IR KAI KURIŲ SU JUO SUSIJUSIŲ ĮSTATYMŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS]]
-Šio įstatymo 1 ir [[#^s-5bd5cf1079cf239acc3246b3|5 straipsniai]] įsigalioja 2014 m. sausio 1 d.
+Šio įstatymo [[#^s-866b8235809668de86113f29|1]] ir [[#^s-5bd5cf1079cf239acc3246b3|5]] straipsniai įsigalioja 2014 m. sausio 1 d.
 Šio įstatymo [[#^s-0947501d9bfa7e49517437ae|2 straipsnis]] įsigalioja 2016 m. sausio 1 d.
 Šio įstatymo [[#^s-bf8be1b7d65210c7b3ee46cd|3 straipsnis]] įsigalioja 2017 m. sausio 1 d.
-Jeigu pagal šio įstatymo 1, 2 ar [[#^s-bf8be1b7d65210c7b3ee46cd|3 straipsnyje]] išdėstytą Valstybės tarnautojų suvienodintų pareigybių sąrašą turi būti nustatyta aukštesnė valstybės tarnautojo pareigybės kategorija, sprendimas dėl aukštesnės valstybės tarnautojo pareigybės kategorijos nustatymo turi įsigalioti kartu su atitinkamame šio įstatymo straipsnyje išdėstytu Valstybės tarnautojų suvienodintų pareigybių sąrašu.
+Jeigu pagal šio įstatymo [[#^s-866b8235809668de86113f29|1]], [[#^s-0947501d9bfa7e49517437ae|2]] ar [[#^s-bf8be1b7d65210c7b3ee46cd|3]] straipsnyje išdėstytą Valstybės tarnautojų suvienodintų pareigybių sąrašą turi būti nustatyta aukštesnė valstybės tarnautojo pareigybės kategorija, sprendimas dėl aukštesnės valstybės tarnautojo pareigybės kategorijos nustatymo turi įsigalioti kartu su atitinkamame šio įstatymo straipsnyje išdėstytu Valstybės tarnautojų suvienodintų pareigybių sąrašu.
 Įstatymas keistas:
 72.1.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2242,7 +2242,7 @@ Nr. XII-710, 2013-12-19, paskelbta TAR 2014-01-06, i. k. 2014-00039
 75.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-872, 2014-05-08, paskelbta TAR 2014-05-13, i. k. 2014-05356
-LIETUVOS RESPUBLIKOS VALSTYBĖS TARNYBOS ĮSTATYMO NR. VIII-1316 4 IR [[#^s-ed93a24fa84ec2289822e40b|32 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS VALSTYBĖS TARNYBOS ĮSTATYMO NR. VIII-1316 [[#^s-1b3fc60d66ac757df64527ed|4]] IR [[#^s-ed93a24fa84ec2289822e40b|32]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 
 
 *** Pabaiga ***
@@ -2253,7 +2253,7 @@ Konstitucinio Teismo nutarimai:
 
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2004-12-13, Žin., 2004, Nr. 181-6708 (2004-12-18)
-DĖL KAI KURIŲ TEISĖS AKTŲ, KURIAIS REGULIUOJAMI VALSTYBĖS TARNYBOS IR SU JA SUSIJĘ SANTYKIAI, ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR ĮSTATYMAMS
+[DĖL KAI KURIŲ TEISĖS AKTŲ, KURIAIS REGULIUOJAMI VALSTYBĖS TARNYBOS IR SU JA SUSIJĘ SANTYKIAI, ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI IR ĮSTATYMAMS](https://e-tar.lt/portal/lt/legalAct/TAR.A68FB5998148)
 Šio nutarimo atitaisymas skelbtas: Žin., 2011, Nr. 33 (2011-03-19)
 
 
@@ -2272,12 +2272,12 @@ Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kur
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1496, 2014-12-18, paskelbta TAR 2014-12-29, i. k. 2014-20797
-[[#^s-55897dfa73ab99892b5a418f|Lietuvos Respublikos valstybės tarnybos įstatymo 8, [[#^s-55897dfa73ab99892b5a418f\|10 straipsnių]]]] pakeitimo ir papildymo [[latest/TAR.92ED4E44917E|įstatymo Nr. X-1689]] [[#^s-bf8be1b7d65210c7b3ee46cd|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo [[#^s-3c05bebc1f0a50fee8f53726|8]], [[#^s-55897dfa73ab99892b5a418f|10]] straipsnių pakeitimo ir papildymo [[latest/TAR.92ED4E44917E|įstatymo Nr. X-1689]] [[#^s-bf8be1b7d65210c7b3ee46cd|3 straipsnio]] pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1863, 2015-06-25, paskelbta TAR 2015-07-03, i. k. 2015-10825
-Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kurių su juo susijusių įstatymų pripažinimo netekusiais galios [[latest/fa05328089d911e397b5c02d3197f382|įstatymo Nr. XII-681]] 2 ir [[#^s-bf8be1b7d65210c7b3ee46cd|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kurių su juo susijusių įstatymų pripažinimo netekusiais galios [[latest/fa05328089d911e397b5c02d3197f382|įstatymo Nr. XII-681]] [[#^s-0947501d9bfa7e49517437ae|2]] ir [[#^s-bf8be1b7d65210c7b3ee46cd|3]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2292,7 +2292,7 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-1b3fc60d6
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2009, 2015-11-12, paskelbta TAR 2015-11-20, i. k. 2015-18479
-Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 17 ir [[#^s-3e6c94e27aa1e3593c764d10|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-8e0c7738f358e3de5d08a961|17]] ir [[#^s-3e6c94e27aa1e3593c764d10|26]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2307,17 +2307,17 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-eba866823
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2497, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19351
-Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kurių su juo susijusių įstatymų pripažinimo netekusiais galios [[latest/fa05328089d911e397b5c02d3197f382|įstatymo Nr. XII-681]] 2 ir [[#^s-bf8be1b7d65210c7b3ee46cd|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kurių su juo susijusių įstatymų pripažinimo netekusiais galios [[latest/fa05328089d911e397b5c02d3197f382|įstatymo Nr. XII-681]] [[#^s-0947501d9bfa7e49517437ae|2]] ir [[#^s-bf8be1b7d65210c7b3ee46cd|3]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2380, 2016-05-19, paskelbta TAR 2016-06-02, i. k. 2016-14741
-Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 9, 18, 18-1, 18-3, 19 ir [[#^s-2165052f535deee0ecc1b8a1|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-958b87d50d5bb4b2b495a7cf|9]], [[#^s-d33d8dbde27fbb4a7869b092|18]], 18-1, 18-3, [[#^s-ad56a8a84b2a0b321ec4b95b|19]] ir [[#^s-2165052f535deee0ecc1b8a1|20]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2763, 2016-11-08, paskelbta TAR 2016-11-16, i. k. 2016-26900
-Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kurių su juo susijusių įstatymų pripažinimo netekusiais galios [[latest/fa05328089d911e397b5c02d3197f382|įstatymo Nr. XII-681]] 2 ir [[#^s-bf8be1b7d65210c7b3ee46cd|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo 3 priedo pakeitimo ir kai kurių su juo susijusių įstatymų pripažinimo netekusiais galios [[latest/fa05328089d911e397b5c02d3197f382|įstatymo Nr. XII-681]] [[#^s-0947501d9bfa7e49517437ae|2]] ir [[#^s-bf8be1b7d65210c7b3ee46cd|3]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2342,7 +2342,7 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 48-1 straipsnio
 17.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT13-N8/2018, 2018-06-06, paskelbta TAR 2018-06-06, i. k. 2018-09478
-Dėl Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio 1 dalies 3 punkto, [[#^s-1f3aefb86d7b4f6d9fc407c9|Lietuvos Respublikos valstybės tarnybos įstatymo 11 straipsnio 2 dalies]] ir [[#^s-4cffbc60b86853b215188b36|13 straipsnio 2 dalies]] nuostatų atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos karo prievolės įstatymo 41 straipsnio 1 dalies 3 punkto, Lietuvos Respublikos valstybės tarnybos įstatymo 11 straipsnio 2 dalies ir 13 straipsnio 2 dalies nuostatų atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/b997ec50697d11e8ac27abd8fa093003)
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2352,7 +2352,7 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo įsta
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1789, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21118
-Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo [[latest/9197387088f211e8af589337bf1eb893|įstatymo Nr. XIII-1370]] 1, 2 ir [[#^s-bf8be1b7d65210c7b3ee46cd|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo [[latest/9197387088f211e8af589337bf1eb893|įstatymo Nr. XIII-1370]] [[#^s-866b8235809668de86113f29|1]], [[#^s-0947501d9bfa7e49517437ae|2]] ir [[#^s-bf8be1b7d65210c7b3ee46cd|3]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2372,7 +2372,7 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo [[lat
 23.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2235, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10354
-Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 8, 10 ir 51 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-3c05bebc1f0a50fee8f53726|8]], [[#^s-55897dfa73ab99892b5a418f|10]] ir 51 straipsnių pakeitimo įstatymas
 
 24.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2407,7 +2407,7 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-5bd5cf107
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3136, 2020-06-25, paskelbta TAR 2020-07-07, i. k. 2020-15128
-Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 3, 9, 16, 18, 19, 32, 33, 34, 48, 53, 54 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 33-1 straipsniu įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-bf8be1b7d65210c7b3ee46cd|3]], [[#^s-958b87d50d5bb4b2b495a7cf|9]], [[#^s-11de77f5953acf8baebceeca|16]], [[#^s-d33d8dbde27fbb4a7869b092|18]], [[#^s-ad56a8a84b2a0b321ec4b95b|19]], [[#^s-ed93a24fa84ec2289822e40b|32]], [[#^s-184f5a4b0434c749c63b830c|33]], [[#^s-2cc0093318bc3209e150d541|34]], 48, 53, 54 straipsnių, 2 priedo pakeitimo ir Įstatymo papildymo 33-1 straipsniu įstatymas
 
 31.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2422,7 +2422,7 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 pakeitimo [[lat
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3399, 2020-11-10, paskelbta TAR 2020-11-20, i. k. 2020-24541
-Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5 ir 48 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-5bd5cf1079cf239acc3246b3|5]] ir 48 straipsnių pakeitimo įstatymas
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2432,27 +2432,27 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-5bd5cf107
 35.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-144, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00266
-Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5, [[#^s-184f5a4b0434c749c63b830c|33 straipsnių]] ir 1 priedo pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-5bd5cf1079cf239acc3246b3|5]], [[#^s-184f5a4b0434c749c63b830c|33]] straipsnių ir 1 priedo pakeitimo įstatymas
 
 36.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-481, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15860
-Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 10, 11, 17, 28 ir 51 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-55897dfa73ab99892b5a418f|10]], [[#^s-c2d91ca38aaeb2e56e106a6f|11]], [[#^s-8e0c7738f358e3de5d08a961|17]], [[#^s-7b06c1ec3dd2291aaa7d4372|28]] ir 51 straipsnių pakeitimo įstatymas
 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-556, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21224
-Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 2, 10, 49 straipsnių ir 1 priedo pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-0947501d9bfa7e49517437ae|2]], [[#^s-55897dfa73ab99892b5a418f|10]], 49 straipsnių ir 1 priedo pakeitimo įstatymas
 
 38.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-619, 2021-11-11, paskelbta TAR 2021-11-12, i. k. 2021-23537
-Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 5, 21, 49 straipsnių ir 1 priedo pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-5bd5cf1079cf239acc3246b3|5]], [[#^s-643f0b5f2f74200a6b512081|21]], 49 straipsnių ir 1 priedo pakeitimo įstatymas
 
 39.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT201-A-N15/2021, 2021-12-22, paskelbta TAR 2021-12-22, i. k. 2021-26640
-Dėl Lietuvos Respublikos valstybės tarnybos įstatymo (2018 m. birželio 29 d. redakcija) 40 straipsnio 1 dalies 3 punkto, [[#^s-f8f6d23dbae0a0333a1202d3|41 straipsnio 2 dalies]] atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos valstybės tarnybos įstatymo (2018 m. birželio 29 d. redakcija) 40 straipsnio 1 dalies 3 punkto, 41 straipsnio 2 dalies atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/987a5d70633711eca9ac839120d251c4)
 
 40.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2462,7 +2462,7 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1 priedo pakeit
 41.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-863, 2021-12-23, paskelbta TAR 2022-01-06, i. k. 2022-00166
-Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 8, 11, 14, 16, 17, 18, 19, 21, 27, 29, 30, 47, 49 ir 51 straipsnių pakeitimo ir [[#^s-c07a07d33028de008902964b|37 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-3c05bebc1f0a50fee8f53726|8]], [[#^s-c2d91ca38aaeb2e56e106a6f|11]], [[#^s-9dd87346a3e02da983623c75|14]], [[#^s-11de77f5953acf8baebceeca|16]], [[#^s-8e0c7738f358e3de5d08a961|17]], [[#^s-d33d8dbde27fbb4a7869b092|18]], [[#^s-ad56a8a84b2a0b321ec4b95b|19]], [[#^s-643f0b5f2f74200a6b512081|21]], [[#^s-d011b20a42a35d15e9d4fcdf|27]], [[#^s-eba86682368647d368d84491|29]], [[#^s-5867b9bdac22edf9a02bb294|30]], 47, 49 ir 51 straipsnių pakeitimo ir [[#^s-c07a07d33028de008902964b|37 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 42.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2482,7 +2482,7 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1 priedo pakeit
 45.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1270, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15616
-Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 2, 5, 8, [[#^s-55897dfa73ab99892b5a418f|10 straipsnių]] ir 1 priedo pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-0947501d9bfa7e49517437ae|2]], [[#^s-5bd5cf1079cf239acc3246b3|5]], [[#^s-3c05bebc1f0a50fee8f53726|8]], [[#^s-55897dfa73ab99892b5a418f|10]] straipsnių ir 1 priedo pakeitimo įstatymas
 
 46.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2517,9 +2517,9 @@ Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1 ir 2 priedų 
 52.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-980, 2026-06-02, paskelbta TAR 2026-06-02, i. k. 2026-09720
-Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 1, 19, [[#^s-2165052f535deee0ecc1b8a1|20 straipsnių]] pakeitimo ir Įstatymo papildymo 3 priedu įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-866b8235809668de86113f29|1]], [[#^s-ad56a8a84b2a0b321ec4b95b|19]], [[#^s-2165052f535deee0ecc1b8a1|20]] straipsnių pakeitimo ir Įstatymo papildymo 3 priedu įstatymas
 
 53.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1016, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11097
-Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 2, 9, 25, 35 ir [[#^s-04a592117515d4348b0b28ca|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės tarnybos įstatymo Nr. VIII-1316 [[#^s-0947501d9bfa7e49517437ae|2]], [[#^s-958b87d50d5bb4b2b495a7cf|9]], [[#^s-a4146cc83d8a56e3211ddefa|25]], [[#^s-e462be727b1ee0ea46e20ae0|35]] ir [[#^s-04a592117515d4348b0b28ca|41]] straipsnių pakeitimo įstatymas

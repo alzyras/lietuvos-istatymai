@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-066e7e751f79129e391b7103
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 2003 m. lapkričio 4 d. dekretą Nr. 276, ratifikuoja 1999 m. birželio 17 d. Londone priimtą 1992 metų Tarpvalstybinių vandentakių ir tarptautinių ežerų apsaugos ir naudojimo konvencijos Vandens ir sveikatos protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento [2003 m. lapkričio 4 d. dekretą Nr. 276](https://e-tar.lt/portal/lt/legalAct/TAR.922740CAA109), ratifikuoja 1999 m. birželio 17 d. Londone priimtą 1992 metų Tarpvalstybinių vandentakių ir tarptautinių ežerų apsaugos ir naudojimo konvencijos Vandens ir sveikatos protokolą.
 
 
 

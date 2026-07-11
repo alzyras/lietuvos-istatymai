@@ -168,13 +168,13 @@ Nr. XIII-708, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18143
 
 
 4. SGD terminalo veikla, išskyrus SGD terminalo veiklos nutraukimą vadovaujantis šio įstatymo [[#^s-87e56c7ffcdd6df0e5263e4e|9 straipsnio 7 dalimi]], vykdoma ne trumpiau kaip iki 2044 m. gruodžio 31 d. SGD terminalo operatorius, vadovaudamasis šio įstatymo [[#^s-0e5cab5982a5820cd74eb41d|9 straipsnio 6 dalies]] nuostatomis ir teikdamas duomenis Komisijai papildomai dedamajai nustatyti ir (ar) koreguoti, turi įvertinti susidarysiantį SGD terminalo pastoviųjų sanaudų sumažėjimą SGD terminalo veiklos laikotarpiu ir pateikti Komisijai pasiūlymus dėl papildomos dedamosios mažinimo priemonių, sudarančių sąlygas dar iki plaukiojančiosios suskystintų gamtinių dujų saugyklos įsigijimo sumažinti papildomą dedamąją, paskirstant SGD terminalo pastoviųjų sąnaudų dalį per SGD terminalo veiklos laikotarpį. ^s-13a0154dea22c0760a9bad67
-TAR pastaba. [[#^s-13a0154dea22c0760a9bad67|4 dalis]] įsigalioja 2019-03-01. [[#^s-13a0154dea22c0760a9bad67|4 dalies]] nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
-Gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, Valstybinės kainų ir energetikos kontrolės komisijos sprendimu pakartotinai pagal [[#^s-8ca6fd3d783447a777ee9d4a|Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo 5 straipsnio]] 4 ir [[#^s-d51adc0975f243554cb5a674|5 dalių]] nuostatas koreguojama ir pradedama taikyti 2019 metų gamtinių dujų tiekimo saugumo papildoma dedamoji prie gamtinių dujų perdavimo kainos.
+TAR pastaba. 4 dalis įsigalioja 2019-03-01. 4 dalies nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
+Gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, Valstybinės kainų ir energetikos kontrolės komisijos sprendimu pakartotinai pagal [[#^s-8ca6fd3d783447a777ee9d4a|Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo 5 straipsnio]] [[#^s-13a0154dea22c0760a9bad67|4]] ir [[#^s-d51adc0975f243554cb5a674|5]] dalių nuostatas koreguojama ir pradedama taikyti 2019 metų gamtinių dujų tiekimo saugumo papildoma dedamoji prie gamtinių dujų perdavimo kainos.
 
 
 5. Komisija įvertina [[#^s-13a0154dea22c0760a9bad67|šio straipsnio 4 dalyje]] numatytas SGD terminalo operatoriaus pateiktas papildomos dedamosios mažinimo priemones, taip pat, atsižvelgdama į plaukiojančiosios suskystintų gamtinių dujų saugyklos įsigijimo ir finansavimo sąnaudas, įtraukia tiesiogiai ir netiesiogiai su šiomis sąnaudomis ir papildomos dedamosios mažinimo priemonėmis susijusias pagrįstas SGD terminalo operatoriaus sąnaudas į papildomą dedamąją ir nustato SGD terminalo pastoviųjų sąnaudų kompensavimą per ne trumpesnį nei [[#^s-13a0154dea22c0760a9bad67|šio straipsnio 4 dalyje]] nurodytą SGD terminalo veiklos laikotarpį. ^s-d51adc0975f243554cb5a674
-TAR pastaba. [[#^s-d51adc0975f243554cb5a674|5 dalis]] įsigalioja 2019-03-01. [[#^s-d51adc0975f243554cb5a674|5 dalies]] nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
-Gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, Valstybinės kainų ir energetikos kontrolės komisijos sprendimu pakartotinai pagal [[#^s-8ca6fd3d783447a777ee9d4a|Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo 5 straipsnio]] 4 ir [[#^s-d51adc0975f243554cb5a674|5 dalių]] nuostatas koreguojama ir pradedama taikyti 2019 metų gamtinių dujų tiekimo saugumo papildoma dedamoji prie gamtinių dujų perdavimo kainos.
+TAR pastaba. 5 dalis įsigalioja 2019-03-01. 5 dalies nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
+Gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas, Valstybinės kainų ir energetikos kontrolės komisijos sprendimu pakartotinai pagal [[#^s-8ca6fd3d783447a777ee9d4a|Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo 5 straipsnio]] [[#^s-13a0154dea22c0760a9bad67|4]] ir [[#^s-d51adc0975f243554cb5a674|5]] dalių nuostatas koreguojama ir pradedama taikyti 2019 metų gamtinių dujų tiekimo saugumo papildoma dedamoji prie gamtinių dujų perdavimo kainos.
 
 
 Straipsnio pakeitimai:
@@ -241,15 +241,15 @@ SGD TERMINALO ĮRENGIMAS IR VEIKLA
 5. Gamtinių dujų sistemų operatoriai pagal kompetenciją užtikrina galimybę gamtines dujas iš SGD terminalo nepertraukiamai tiekti visoje Lietuvos Respublikos teritorijoje, tai yra galimybę nekliudomai persiųsti iš SGD terminalo į gamtinių dujų perdavimo sistemą patiektas gamtines dujas iki bet kurios jų galutinio vartojimo ar pardavimo vietos Lietuvos Respublikoje. ^s-95e14b5ae60c30951938f8f5
 
 
-6. Vyriausybė ir valstybės institucijos, priimdamos sprendimus ir sudarydamos susitarimus, valstybės valdomų akcinių bendrovių akcijų valdytojai, priimdami sprendimus, sudarydami susitarimus ir įgyvendindami valstybei nuosavybės teise priklausančių suskystintų gamtinių dujų terminalo operatoriaus akcijų suteikiamas neturtines teises, užtikrina, kad SGD terminalo operatorius, įgyvendindamas Nacionalinėje energetinės nepriklausomybės strategijos ir Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 5 straipsnio 1 dalies nuostatas, ne vėliau kaip iki 2024 m. gruodžio 31 d. nuosavybės teise įsigyja plaukiojančiąją suskystintų gamtinių dujų saugyklą ir tampa jos valdytoju, pasirinkdamas ekonomiškai naudingiausią pasiūlymą dėl plaukiojančiosios suskystintų gamtinių dujų saugyklos įsigijimo. ^s-0e5cab5982a5820cd74eb41d
-TAR pastaba. [[#^s-0e5cab5982a5820cd74eb41d|6 dalis]] įsigalioja 2019-03-01. [[#^s-0e5cab5982a5820cd74eb41d|6 dalies]] nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
+6. Vyriausybė ir valstybės institucijos, priimdamos sprendimus ir sudarydamos susitarimus, valstybės valdomų akcinių bendrovių akcijų valdytojai, priimdami sprendimus, sudarydami susitarimus ir įgyvendindami valstybei nuosavybės teise priklausančių suskystintų gamtinių dujų terminalo operatoriaus akcijų suteikiamas neturtines teises, užtikrina, kad SGD terminalo operatorius, įgyvendindamas Nacionalinėje energetinės nepriklausomybės strategijos ir [[latest/TAR.57E0E8B29108|Lietuvos Respublikos nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 5 straipsnio 1 dalies]] nuostatas, ne vėliau kaip iki 2024 m. gruodžio 31 d. nuosavybės teise įsigyja plaukiojančiąją suskystintų gamtinių dujų saugyklą ir tampa jos valdytoju, pasirinkdamas ekonomiškai naudingiausią pasiūlymą dėl plaukiojančiosios suskystintų gamtinių dujų saugyklos įsigijimo. ^s-0e5cab5982a5820cd74eb41d
+TAR pastaba. 6 dalis įsigalioja 2019-03-01. 6 dalies nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
 Papildyta straipsnio dalimi:
 Nr. XIII-1786, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21236
 
 
 
 7. Vyriausybė arba jos įgaliota institucija, atsižvelgdama į tai, kad šalyje ženkliai sumažėjo gamtinių dujų suvartojimas, ir į Lietuvos Respublikos gamtinių dujų rinkos išsivystymo ir integracijos lygmenį, taip pat Nacionalinėje energetinės nepriklausomybės strategijoje numatytus valstybės energetikos politikos tikslus ir uždavinius, atlieka SGD terminalo ekonominio naudingumo vertinimą ir pateikia Lietuvos Respublikos Seimui išvadą dėl SGD terminalo veiklos tęstinumo. Jeigu SGD terminalo ekonominė nauda neigiama, SGD terminalo veikla gali būti nutraukiama Lietuvos Respublikos Seimui priėmus įstatymą dėl SGD terminalo veiklos nutraukimo, kuriame taip pat numatomas pagrįstų SGD terminalo operatoriaus sąnaudų, patirtų įgyvendinant šio įstatymo [[#^s-d51adc0975f243554cb5a674|5 straipsnio 5 dalies]] ir [[#^s-0e5cab5982a5820cd74eb41d|9 straipsnio 6 dalies]] nuostatas, kompensavimas. ^s-87e56c7ffcdd6df0e5263e4e
-TAR pastaba. [[#^s-87e56c7ffcdd6df0e5263e4e|7 dalis]] įsigalioja 2019-03-01. [[#^s-87e56c7ffcdd6df0e5263e4e|7 dalies]] nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
+TAR pastaba. 7 dalis įsigalioja 2019-03-01. 7 dalies nuostatos taikomos gavus Europos Komisijos pritarimą pagal Sutarties dėl Europos Sąjungos veikimo 108 straipsnio 3 dalies nuostatas.
 Papildyta straipsnio dalimi:
 Nr. XIII-1786, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21236
 
@@ -261,7 +261,7 @@ Nr. XIII-1786, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21236
 1. Gamtinių dujų sistemos naudotojams nediskriminaciniais pagrindais užtikrinama teisė naudotis SGD terminalo infrastruktūra. Gamtinių dujų sistemos naudotojai šią teisę įgyvendina sutarčių su SGD terminalo operatoriumi pagrindu. SGD terminalo operatorius, laikydamasis Komisijos nustatytų reikalavimų, patvirtina naudojimosi SGD terminalu taisykles. ^s-f82d23688595a4ced1f14a38
 
 
-2. Teisė naudotis SGD terminalo infrastruktūra gali būti ribojama, kai teisės aktų nustatyta tvarka SGD terminalui nustatoma išimtis, taikytina naujai gamtinių dujų infrastruktūrai. Sprendimą dėl išimties taikymo priima Komisija, vadovaudamasi [[latest/TAR.0C5C33AA865C#^s-037a7f57aabb418d25a23e90|Gamtinių dujų įstatymo 53 straipsnio 1 dalyje]] nustatytomis sąlygomis ir laikydamasi [[latest/TAR.0C5C33AA865C#^s-8cd2722a86bf201b28282d59|Gamtinių dujų įstatymo 53 straipsnio]] 3, 4, 5 ir 6 dalyse nustatytų reikalavimų. Suteikiant išimtį SGD terminalui netaikomi [[latest/TAR.0C5C33AA865C#^s-8cd2722a86bf201b28282d59|Gamtinių dujų įstatymo 53 straipsnyje]] nustatyti išimties taikymo termino ir Komisijos kompetencijos priimti sprendimą dėl išimties taikymo ribojimai. ^s-c615f25ce03e528709316d4d
+2. Teisė naudotis SGD terminalo infrastruktūra gali būti ribojama, kai teisės aktų nustatyta tvarka SGD terminalui nustatoma išimtis, taikytina naujai gamtinių dujų infrastruktūrai. Sprendimą dėl išimties taikymo priima Komisija, vadovaudamasi [[latest/TAR.0C5C33AA865C#^s-8cd2722a86bf201b28282d59|Gamtinių dujų įstatymo 53 straipsnio 1 dalyje nustatytomis sąlygomis ir laikydamasi Gamtinių dujų įstatymo 53 straipsnio]] [[latest/TAR.0C5C33AA865C#^s-71d9831d733b094c87837758|3]], [[latest/TAR.0C5C33AA865C#^s-14cf30da1a3fdc5d99e0976a|4]], [[latest/TAR.0C5C33AA865C#^s-afba8294a091f8ae52f5ddef|5]] ir [[latest/TAR.0C5C33AA865C#^s-69ed1776849b32a0846693df|6]] dalyse nustatytų reikalavimų. Suteikiant išimtį SGD terminalui netaikomi [[latest/TAR.0C5C33AA865C#^s-8cd2722a86bf201b28282d59|Gamtinių dujų įstatymo 53 straipsnyje]] nustatyti išimties taikymo termino ir Komisijos kompetencijos priimti sprendimą dėl išimties taikymo ribojimai. ^s-c615f25ce03e528709316d4d
 
 
 3. Neteko galios nuo 2013-07-16 ^s-d8d510de8ad8113352e652f2
@@ -401,22 +401,22 @@ Nr. XII-426, 2013-06-27, Žin., 2013, Nr. 76-3842 (2013-07-16), i. k. [[latest/T
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2036, 2015-11-17, paskelbta TAR 2015-11-25, i. k. 2015-18708
-Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 2, 5 ir [[#^s-a5cf51b1de99a7c1ae141dad|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 [[#^s-54a4210cc9c377d40a517345|2]], [[#^s-8ca6fd3d783447a777ee9d4a|5]] ir [[#^s-a5cf51b1de99a7c1ae141dad|11]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-708, 2017-11-07, paskelbta TAR 2017-11-16, i. k. 2017-18143
-Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 2, 4 ir [[#^s-a5cf51b1de99a7c1ae141dad|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 [[#^s-54a4210cc9c377d40a517345|2]], [[#^s-2776ce43cd17210dff8c6259|4]] ir [[#^s-a5cf51b1de99a7c1ae141dad|11]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1009, 2018-01-12, paskelbta TAR 2018-01-23, i. k. 2018-01022
-Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 3 ir [[#^s-a5cf51b1de99a7c1ae141dad|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 [[#^s-e43cd877093d1ff0df57af45|3]] ir [[#^s-a5cf51b1de99a7c1ae141dad|11]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1786, 2018-12-18, paskelbta TAR 2018-12-21, i. k. 2018-21236
-Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 5 ir [[#^s-9e9aa0dc9393d937ed9a4e87|9 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos suskystintų gamtinių dujų terminalo įstatymo Nr. XI-2053 [[#^s-8ca6fd3d783447a777ee9d4a|5]] ir [[#^s-9e9aa0dc9393d937ed9a4e87|9]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas

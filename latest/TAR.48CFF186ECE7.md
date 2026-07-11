@@ -71,7 +71,7 @@ Vyriausybė iki 2013 m. sausio 1 d. parengia ir priima šio įstatymo 13 straips
 Pakeisti 15 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Šio įstatymo 10 straipsnyje išdėstyto [[latest/TAR.A7F77DF94F5D#^s-0fce87d1af83d5ba74c7873c|Valstybinių socialinio draudimo pensijų įstatymo 56 straipsnio]] 2, 4, 5, 6 ir 7 dalių nuostatos taikomos skiriant valstybines socialinio draudimo pensijas pirmą kartą arba iš naujo nuo 2013 m. sausio 1 d. ir vėlesnių datų.“
+„2. Šio įstatymo 10 straipsnyje išdėstyto [[latest/TAR.A7F77DF94F5D#^s-0fce87d1af83d5ba74c7873c|Valstybinių socialinio draudimo pensijų įstatymo 56 straipsnio]] [[latest/TAR.A7F77DF94F5D#^s-8e8f9faeba13306ebec63dd8|2]], [[latest/TAR.A7F77DF94F5D|4]], [[latest/TAR.A7F77DF94F5D|5]], [[latest/TAR.A7F77DF94F5D|6]] ir [[latest/TAR.A7F77DF94F5D|7]] dalių nuostatos taikomos skiriant valstybines socialinio draudimo pensijas pirmą kartą arba iš naujo nuo 2013 m. sausio 1 d. ir vėlesnių datų.“
 
 
 

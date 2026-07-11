@@ -9,11 +9,10 @@ pavadinimas: "Lietuvos Respublikos statybos įstatymo 1, 2, 4, 5, 6, 8, 10, 11, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.9BC8AEE9D9F8#^s-12b8b2c42247034e9c98ed47|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - 2 citatos - Nekilnojamojo kultūros paveldo apsaugos įstatymas, išskyrus Reglamente (ES) Nr. 305/2011 nustatytus esminius statinių reikalavimus ir šio Įstatymo 13 straipsnio 1 dalyje
+- [[latest/TAR.9BC8AEE9D9F8#^s-12b8b2c42247034e9c98ed47|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - Nekilnojamojo kultūros paveldo apsaugos įstatymas, išskyrus Reglamente (ES) Nr. 305/2011 nustatytus esminius statinių reikalavimus ir šio Įstatymo 13 straipsnio 1 dalyje
 - [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Viešųjų pirkimų įstatymo
-- [[latest/TAR.13E108ED3981|Lietuvos Respublikos žemės gelmių įstatymas]] - 2 citatos - Žemės gelmių įstatyme
+- [[latest/TAR.13E108ED3981|Lietuvos Respublikos žemės gelmių įstatymas]] - Žemės gelmių įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.F31E79DEC55D#^s-de3c166036f714f06b930d4d|Lietuvos Respublikos statybos įstatymas]] - Įstatymas Nr. XII-383
-- [[latest/TAR.F31E79DEC55D#^s-fc1e8595c1f7e7bb99d779cb|Lietuvos Respublikos statybos įstatymas]] - Įstatymas Nr. XII-383
+_Nėra._

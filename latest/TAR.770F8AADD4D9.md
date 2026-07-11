@@ -40,7 +40,7 @@ Vilnius
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos įstatymą „Dėl įmonių, perdirbančių žemės ūkio produkciją, bankroto laikinosios tvarkos“ (Žin., 1993, Nr. 32-724); ^s-c56a8798577075a285125061
+1) Lietuvos Respublikos įstatymą [„Dėl įmonių, perdirbančių žemės ūkio produkciją, bankroto laikinosios tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.0C17A3F40AA4) (Žin., 1993, Nr. 32-724); ^s-c56a8798577075a285125061
 
 
 2) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos įstatymo „Dėl įmonių, perdirbančių žemės ūkio produkciją, bankroto laikinosios tvarkos“ pakeitimo“ (Žin., 1994, Nr. 25-398); ^s-da50da3f9fd7f11fa483bb21
@@ -49,7 +49,7 @@ Pripažinti netekusiais galios:
 3) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos įstatymo „Dėl įmonių, perdirbančių žemės ūkio produkciją, bankroto laikinosios tvarkos“ papildymo“ (Žin., 1994, Nr. 50-934); ^s-35b0631e5686fece5a0b3514
 
 
-4) Lietuvos Respublikos įstatymo „Dėl įmonių, perdirbančių žemės ūkio produkciją, bankroto laikinosios tvarkos“ 2 ir 8 straipsnių pakeitimo įstatymą (Žin., 1997, Nr. 59-1366). ^s-41ef7ee30344d627c0795802
+4) Lietuvos Respublikos įstatymo [„Dėl įmonių, perdirbančių žemės ūkio produkciją, bankroto laikinosios tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.0C17A3F40AA4) [2](https://e-tar.lt/portal/lt/legalAct/TAR.0C17A3F40AA4) ir [8](https://e-tar.lt/portal/lt/legalAct/TAR.0C17A3F40AA4) straipsnių pakeitimo įstatymą (Žin., 1997, Nr. 59-1366). ^s-41ef7ee30344d627c0795802
 
 
 

@@ -89,7 +89,7 @@ Pakeisti 13 straipsnį ir jį išdėstyti taip:
 6. Daugiabučio namo butų ir kitų patalpų savininkai, įgyvendinantys atnaujinimo (modernizavimo) projektą, gali priimti sprendimą nekaupti [[#^s-0e346eb751b1f0e6c7cb5714|šio straipsnio 3 dalyje]] nurodytų lėšų, jeigu yra pasirašyta kreditavimo sutartis su bankais ar kitomis kredito įstaigomis arba iš nuosavų ar (ir) skolintų lėšų pradėtas įgyvendinti daugiabučio namo atnaujinimas (modernizavimas). Šioje dalyje nurodytos lėšos gali būti nekaupiamos nuo minėtos kreditavimo sutarties su banku ar kita kredito įstaiga pasirašymo iki šio kredito sugrąžinimo dienos arba nuo daugiabučio namo atnaujinimo (modernizavimo) iš nuosavų ar (ir) skolintų lėšų įgyvendinimo pradžios iki šio namo atnaujinimo (modernizavimo) pabaigos. ^s-cf46d119c803f4a4361e4aa3
 
 
-7. Šio straipsnio 1 ir [[#^s-b4450dfdcefd2845d69ee1e1|2 dalyse]] nurodytos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) teikimo taisykles tvirtina Vyriausybė. Valstybės paramos teikimą administruoja Vyriausybės įgaliota institucija.“ ^s-06fbebd7f0b17a01e780457c
+7. Šio straipsnio [[#^s-917c28a735b599d766ee4cee|1]] ir [[#^s-b4450dfdcefd2845d69ee1e1|2]] dalyse nurodytos valstybės paramos daugiabučiams namams atnaujinti (modernizuoti) teikimo taisykles tvirtina Vyriausybė. Valstybės paramos teikimą administruoja Vyriausybės įgaliota institucija.“ ^s-06fbebd7f0b17a01e780457c
 
 
 

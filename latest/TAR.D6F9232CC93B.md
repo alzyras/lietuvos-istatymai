@@ -51,13 +51,13 @@ Vilnius
 ### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-5f5bcd3acb4f795dc92499b4
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-a85ff7819a51c4d106419f6a|3 dalis]], įsigalioja 2011 m. vasario 1 d. ^s-582cde3d8ae58d063870fd6f
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-b7a95d864b97bf83cab987c7|2]] ir [[#^s-a85ff7819a51c4d106419f6a|3]] dalis, įsigalioja 2011 m. vasario 1 d. ^s-582cde3d8ae58d063870fd6f
 
 
 2. Valstybės saugumo departamentas iki šio įstatymo įsigaliojimo dienos perduoda visą atliekamų ikiteisminių tyrimų medžiagą ikiteisminį tyrimą kontroliuojančiam prokurorui, kuris, vadovaudamasis [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] nuostatomis, priima sprendimus dėl ikiteisminių tyrimų tolesnio atlikimo ar jų užbaigimo. ^s-b7a95d864b97bf83cab987c7
 
 
-3. Generalinis prokuroras iki šio įstatymo įsigaliojimo dienos pakeičia 2003 m. balandžio 11 d. įsakymu Nr. I-47 patvirtintas rekomendacijas dėl nusikalstamų veikų tyrimo paskirstymo ikiteisminio tyrimo įstaigoms. ^s-a85ff7819a51c4d106419f6a
+3. Generalinis prokuroras iki šio įstatymo įsigaliojimo dienos pakeičia [2003 m. balandžio 11 d. įsakymu Nr. I-47](https://e-tar.lt/portal/lt/legalAct/TAR.721FD5645D5F) patvirtintas rekomendacijas dėl nusikalstamų veikų tyrimo paskirstymo ikiteisminio tyrimo įstaigoms. ^s-a85ff7819a51c4d106419f6a
 
 
 

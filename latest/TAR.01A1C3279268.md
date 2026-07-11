@@ -118,7 +118,7 @@ Vyriausybė ir Finansų ministerija, atsižvelgdamos į šio įstatymo įsigalio
 ### 8 straipsnis. Įstatymo įsigaliojimas ^s-a838b5fd43d3052c0784da21
 
 
-Šis įstatymas, išskyrus [[#^s-701a3b5e10e22f5282dc701e|1 straipsnio 1 dalį]] ir 3, 5, 7, 8 straipsnius, įsigalioja 2011 m. liepos 1 d.
+Šis įstatymas, išskyrus [[#^s-701a3b5e10e22f5282dc701e|1 straipsnio 1 dalį]] ir [[#^s-87998c9662b3faff71f070ad|3]], [[#^s-d1546010e04d915351a3597c|5]], [[#^s-77032f7fbe6c133f43a5aeeb|7]], 8 straipsnius, įsigalioja 2011 m. liepos 1 d.
 
 
 

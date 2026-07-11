@@ -81,7 +81,7 @@ Vilnius
 ### 4 straipsnis. Šio įstatymo 1 ir 3 straipsnių galiojimo laikas ^s-e0e4d41845e54281dcdac869
 
 
-Šio įstatymo 1 ir [[#^s-f1f2d8b44a61c6e534556e6f|3 straipsniai]] galioja iki [[latest/TAR.F74ECE427C23|Gyvenamosios vietos deklaravimo įstatymo]] įsigaliojimo.
+Šio įstatymo [[#^s-bb3f31a0000c976aab33a757|1]] ir [[#^s-f1f2d8b44a61c6e534556e6f|3]] straipsniai galioja iki [[latest/TAR.F74ECE427C23|Gyvenamosios vietos deklaravimo įstatymo]] įsigaliojimo.
 
 
 

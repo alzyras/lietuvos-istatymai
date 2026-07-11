@@ -56,7 +56,7 @@ Vilnius
 3. Pakeisti 14 straipsnio 4 dalį ir ją išdėstyti taip: ^s-6ebcab66477129ea95ab480a
 
 
-„4. Į pakaitinių karjeros valstybės tarnautojų pareigas priimti asmenys, turintys teisę atkurti karjeros valstybės tarnautojo ar įstaigos vadovo statusą, buvę karjeros valstybės tarnautojai ar įstaigų vadovai, atleisti iš pareigų pagal šio Įstatymo 44 straipsnio 1 dalies 5 punktą, dėl pareigybės panaikinimo ar sudarius šalių susitarimą dėl atleidimo (kai mokama kompensacija šio Įstatymo 41 straipsnio 6 dalies 2 punkte nustatytu būdu), ir buvę pakaitiniai valstybės tarnautojai (išskyrus pakaitinius valstybės tarnautojus, kuriems suėjo 65 metai), pareigas nepertraukiamai ėję ne mažiau kaip dvejus metus ir atleisti iš pareigų dėl negalėjusio eiti pareigų karjeros valstybės tarnautojo sugrįžimo arba atleidimo, pasibaigus [[#^s-8b0756086fd920d5e9a0c441|šio straipsnio 2 dalyje]] nustatytiems terminams, nepraranda teisės šio Įstatymo 11 straipsnio 3 dalyje ir 13 straipsnio 3 dalyje nustatytais atvejais būti priimti į valstybės tarnautojo pareigas. Laikas, kai šie asmenys ėjo pakaitinių valstybės tarnautojų pareigas, neįskaičiuojamas į šio Įstatymo 16 straipsnio 2, 3 ir 5 dalyse bei 43 straipsnio 2 ir [[#^s-6ebcab66477129ea95ab480a|3 dalyse]] nustatytus terminus.“
+„4. Į pakaitinių karjeros valstybės tarnautojų pareigas priimti asmenys, turintys teisę atkurti karjeros valstybės tarnautojo ar įstaigos vadovo statusą, buvę karjeros valstybės tarnautojai ar įstaigų vadovai, atleisti iš pareigų pagal šio Įstatymo 44 straipsnio 1 dalies 5 punktą, dėl pareigybės panaikinimo ar sudarius šalių susitarimą dėl atleidimo (kai mokama kompensacija šio Įstatymo 41 straipsnio 6 dalies 2 punkte nustatytu būdu), ir buvę pakaitiniai valstybės tarnautojai (išskyrus pakaitinius valstybės tarnautojus, kuriems suėjo 65 metai), pareigas nepertraukiamai ėję ne mažiau kaip dvejus metus ir atleisti iš pareigų dėl negalėjusio eiti pareigų karjeros valstybės tarnautojo sugrįžimo arba atleidimo, pasibaigus [[#^s-8b0756086fd920d5e9a0c441|šio straipsnio 2 dalyje]] nustatytiems terminams, nepraranda teisės šio Įstatymo 11 straipsnio 3 dalyje ir 13 straipsnio 3 dalyje nustatytais atvejais būti priimti į valstybės tarnautojo pareigas. Laikas, kai šie asmenys ėjo pakaitinių valstybės tarnautojų pareigas, neįskaičiuojamas į šio Įstatymo 16 straipsnio 2, 3 ir 5 dalyse bei 43 straipsnio 2 ir 3 dalyse nustatytus terminus.“
 
 
 
@@ -90,13 +90,13 @@ Pakeisti 20 straipsnį ir jį išdėstyti taip:
 2. Pakaitinis karjeros valstybės tarnautojas, išskyrus pakaitinį karjeros valstybės tarnautoją, priimtą į pareigas, iki šio Įstatymo nustatyta tvarka į jas bus priimtas karjeros valstybės tarnautojas, bet ne ilgesniam negu 3 mėnesių laikotarpiui, jo prašymu gali būti perkeltas į kitas tos pačios ar žemesnės kategorijos laikinai negalinčio eiti karjeros valstybės tarnautojo pareigas toje pačioje valstybės ar savivaldybės institucijoje ar įstaigoje. ^s-e29e79023b8ed42c606c53b7
 
 
-3. Valstybės tarnautojas gali būti perkeltas į kitas pareigas šio straipsnio 1 ir [[#^s-e29e79023b8ed42c606c53b7|2 dalyse]] nurodytais atvejais, jeigu jis atitinka pareigybės aprašyme nustatytus specialiuosius reikalavimus. ^s-dfe7e40a49fbe34eaa9b1ef8
+3. Valstybės tarnautojas gali būti perkeltas į kitas pareigas šio straipsnio [[#^s-c649a75727b962e0cb097f7a|1]] ir [[#^s-e29e79023b8ed42c606c53b7|2]] dalyse nurodytais atvejais, jeigu jis atitinka pareigybės aprašyme nustatytus specialiuosius reikalavimus. ^s-dfe7e40a49fbe34eaa9b1ef8
 
 
 4. Įstaigos vadovas (išskyrus įstaigos vadovą, priimamą į pareigas politinio (asmeninio) pasitikėjimo pagrindu) jo prašymu gali būti perkeltas į kitas laisvas tos pačios ar žemesnės kategorijos karjeros valstybės tarnautojo pareigas toje pačioje ar kitoje valstybės ar savivaldybės institucijoje ar įstaigoje, jeigu jis atitinka pareigybės aprašyme nustatytus specialiuosius reikalavimus. ^s-cf059a8be4787a6ac1c640f2
 
 
-5. Valstybės tarnautojas ir įstaigos vadovas į šio straipsnio 1, 2 ir [[#^s-cf059a8be4787a6ac1c640f2|4 dalyse]] nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialusis reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija. ^s-833323d764f9d1bb11aa8edf
+5. Valstybės tarnautojas ir įstaigos vadovas į šio straipsnio [[#^s-c649a75727b962e0cb097f7a|1]], [[#^s-e29e79023b8ed42c606c53b7|2]] ir [[#^s-cf059a8be4787a6ac1c640f2|4]] dalyse nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialusis reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija. ^s-833323d764f9d1bb11aa8edf
 
 
 6. Valstybės tarnautojo perkėlimo tarnybinio kaitumo būdu į kitas valstybės tarnautojo pareigas tvarką nustato Vyriausybė.“ ^s-055ced2b11ba06b171cdbcb6
@@ -185,7 +185,7 @@ Pakeisti 44 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 8 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-00ebbf823a6765af0bd386d5
 
 
-1. Šis įstatymas, išskyrus [[#^s-8b0756086fd920d5e9a0c441|1 straipsnio 2 dalį]], [[#^s-374fc815cf050fd740428343|6 straipsnio 2 dalį]] ir šio straipsnio 2 ir [[#^s-f49488788725e350ef0abefa|3 dalis]], įsigalioja 2013 m. birželio 1 d. ^s-2391fa1784a677bd5a4a450e
+1. Šis įstatymas, išskyrus [[#^s-8b0756086fd920d5e9a0c441|1 straipsnio 2 dalį]], [[#^s-374fc815cf050fd740428343|6 straipsnio 2 dalį]] ir šio straipsnio [[#^s-374fc815cf050fd740428343|2]] ir [[#^s-1c4c050ea3def25d30a23869|3]] dalis, įsigalioja 2013 m. birželio 1 d. ^s-2391fa1784a677bd5a4a450e
 
 
 2. Šio įstatymo [[#^s-8b0756086fd920d5e9a0c441|1 straipsnio 2 dalis]] ir [[#^s-374fc815cf050fd740428343|6 straipsnio 2 dalis]] įsigalioja 2013 m. birželio 2 d. ^s-eb46003376899a43b2dc7a66

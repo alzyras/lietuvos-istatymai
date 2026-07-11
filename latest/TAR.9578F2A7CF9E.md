@@ -35,7 +35,7 @@ Vilnius
 ### 1 straipsnis. Pasaulinės pašto sąjungos 2004 m. Bukarešte priimtų ir pakeistų dokumentų ratifikavimas ^s-57d62a055a66ffb3c49001f4
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. sausio 3 d. dekretą Nr. 1K-1217, ratifikuoja Pasaulinės pašto sąjungos įstatų septintąjį papildomą protokolą, Susitarimą dėl finansinių pašto paslaugų, Pasaulinės pašto konvencijos, Pasaulinės pašto konvencijos baigiamojo protokolo ir Pasaulinės pašto sąjungos bendrojo reglamento pakeitimus, priimtus 2004 m. Bukarešte.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. sausio 3 d. dekretą Nr. 1K-1217](https://e-tar.lt/portal/lt/legalAct/TAR.8E9A2A31DA7A), ratifikuoja Pasaulinės pašto sąjungos įstatų septintąjį papildomą protokolą, Susitarimą dėl finansinių pašto paslaugų, Pasaulinės pašto konvencijos, Pasaulinės pašto konvencijos baigiamojo protokolo ir Pasaulinės pašto sąjungos bendrojo reglamento pakeitimus, priimtus 2004 m. Bukarešte.
 
 
 

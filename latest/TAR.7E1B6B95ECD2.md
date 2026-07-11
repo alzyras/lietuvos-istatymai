@@ -230,7 +230,7 @@ Pakeisti [[#^s-6fd7e5ce8e0a3e788fcd1e09|9 straipsnį]] ir jį išdėstyti taip:
 2. Asmuo, deklaravęs savo gyvenamąją vietą, gyvenamosios patalpos savininkas (bendraturčiai) ar jo įgaliotas asmuo turi teisę iš deklaravimo įstaigos gauti informaciją apie neteisingų deklaravimo duomenų ištaisymą, pakeitimą ar panaikinimą. ^s-628992c50564562ef0323815
 
 
-3. Atsisakymas suteikti šio straipsnio 1 ir [[#^s-628992c50564562ef0323815|2 dalyse]] nurodytą informaciją gali būti skundžiamas gyvenamosios vietos deklaravimo duomenų valdytojui arba teismui.“ ^s-4f5370ee89426d71ce50229a
+3. Atsisakymas suteikti šio straipsnio [[#^s-2d62171f6992ae21c0023e30|1]] ir [[#^s-628992c50564562ef0323815|2]] dalyse nurodytą informaciją gali būti skundžiamas gyvenamosios vietos deklaravimo duomenų valdytojui arba teismui.“ ^s-4f5370ee89426d71ce50229a
 
 
 

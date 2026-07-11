@@ -145,10 +145,10 @@ Pakeisti 9 straipsnį ir jį išdėstyti taip:
 „9 straipsnis. Lėšos pašalpoms mokėti
 
 
-Lėšos pašalpoms, nurodytoms šio įstatymo 2, 4, 41, 5, 6 ir [[#^s-6041a7daf9ae7f20e148eff0|8 straipsniuose]], skiriamos iš valstybės biudžeto ir pervedamos savivaldybėms kaip specialioji dotacija.
+Lėšos pašalpoms, nurodytoms šio įstatymo [[#^s-205319a83a014c6e6ffe2f18|2]], [[#^s-e6c25f0ca0fe88dad00efce5|4]], 41, [[#^s-23835b84fb293cc4a3176b0c|5]], [[#^s-ea444844363acc2d402a3ffb|6]] ir [[#^s-6041a7daf9ae7f20e148eff0|8]] straipsniuose, skiriamos iš valstybės biudžeto ir pervedamos savivaldybėms kaip specialioji dotacija.
 
 
-Lėšos pašalpoms, nurodytoms šio įstatymo 3 ir 7 straipsniuose, skiriamos iš valstybės biudžeto mokymo įstaigoms skirtų asignavimų.“
+Lėšos pašalpoms, nurodytoms šio įstatymo [[#^s-e53d0d230552e9ff62813771|3]] ir 7 straipsniuose, skiriamos iš valstybės biudžeto mokymo įstaigoms skirtų asignavimų.“
 
 
 

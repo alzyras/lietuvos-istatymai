@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-d05de8170160db8e5faca55a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. balandžio 21 d. dekretą Nr. 23, ratifikuoja 2003 m. lapkričio 18 d. Singapūre pasirašytą Lietuvos Respublikos Vyriausybės ir Singapūro Respublikos Vyriausybės sutartį dėl pajamų dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ir jos protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas [2004 m. balandžio 21 d. dekretą Nr. 23](https://e-tar.lt/portal/lt/legalAct/TAR.A3BD68BE052E), ratifikuoja 2003 m. lapkričio 18 d. Singapūre pasirašytą Lietuvos Respublikos Vyriausybės ir Singapūro Respublikos Vyriausybės sutartį dėl pajamų dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos ir jos protokolą.
 
 
 

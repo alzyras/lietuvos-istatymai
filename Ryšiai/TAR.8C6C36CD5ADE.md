@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos apskrities valdymo įstatymo pakeitimo ir aps
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A18B555DFA48|Lietuvos Respublikos apskrities valdymo įstatymo ir jį keitusių įstatymų pripažinimo netekusiais galios įstatymas]] - 12 citatos - 1091010ISTA00XI-318
+- [[latest/TAR.A18B555DFA48|Lietuvos Respublikos apskrities valdymo įstatymo ir jį keitusių įstatymų pripažinimo netekusiais galios įstatymas]] - 11 citatos - 1091010ISTA00XI-318
 
 ## Šį įstatymą cituoja
 
 - [[latest/TAR.A18B555DFA48#^s-e57805246ac81ad0f362981c|Lietuvos Respublikos apskrities valdymo įstatymo ir jį keitusių įstatymų pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos apskrities valdymo įstatymo pakeitimo ir Apskrities valdymo įstatymo įgyvendinimo įstatymo pripažinimo netekusiu galios įstatymo
-- [[latest/TAR.A18B555DFA48#^s-fc0f56c75aed8659bcd4cbee|Lietuvos Respublikos apskrities valdymo įstatymo ir jį keitusių įstatymų pripažinimo netekusiais galios įstatymas]] - Lietuvos Respublikos apskrities valdymo įstatymo pakeitimo ir Apskrities valdymo įstatymo įgyvendinimo įstatymo pripažinimo netekusiu galios įstatymo

@@ -52,14 +52,14 @@ Vilnius
 1. 4 straipsnio 2 dalį pripažinti netekusia galios. ^s-3e08e02a4a45cc05ceb53018
 
 
-2. [[#^s-e1a42041a8661304023c8df4|4 straipsnio]] buvusią 3 dalį laikyti [[#^s-c13239e920bfd88e929e8444|2 dalimi]]. ^s-c13239e920bfd88e929e8444
+2. [[#^s-e1a42041a8661304023c8df4|4 straipsnio]] buvusią 3 dalį laikyti 2 dalimi. ^s-c13239e920bfd88e929e8444
 
 
 
 ### 3 straipsnis. 21 straipsnio 1 dalies pakeitimas ^s-aaf05ae81282f62910843829
 
 
-21 straipsnio 1 dalies 1 punktą pakeisti, [[#^s-161e55978a2b328f2f893a01|6 punktą]] pripažinti netekusiu galios, buvusius 7, 8 , 9 punktus laikyti atitinkamai 6, 7, [[#^s-b4e44c976a3ac4b098959b31|8 punktais]] ir šią dalį išdėstyti taip:
+21 straipsnio 1 dalies 1 punktą pakeisti, [[#^s-161e55978a2b328f2f893a01|6 punktą]] pripažinti netekusiu galios, buvusius 7, 8 , 9 punktus laikyti atitinkamai 6, 7, 8 punktais ir šią dalį išdėstyti taip:
 
 
 „Lietuvos Respublikoje draudžiama prekiauti alkoholiniais gėrimais:

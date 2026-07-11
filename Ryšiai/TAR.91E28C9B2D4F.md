@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymo 11
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas]] - 2 citatos - 1999 m. gegužės 13 d. įstatymo Nr. VIII-1183
+- [[latest/TAR.FFF9AE9162EE|Lietuvos Respublikos mokesčio už aplinkos teršimą įstatymas]] - 2 citatos - įstatymo Nr. VIII-1183
 
 ## Šį įstatymą cituoja
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir jos Papildomo protokolo ratifikavimas ^s-0ef5343792985684d7a38b53
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. liepos 8 d. dekretą Nr. 1830, ratifikuoja Konvenciją dėl žmogaus teisių ir orumo apsaugos biologijos ir medicinos taikymo srityje (Žmogaus teisių ir biomedicinos konvenciją) ir jos Papildomą protokolą dėl žmonių klonavimo uždraudimo, pasirašytus atitinkamai 1997 m. balandžio 4 d. ir 1998 m. sausio 12 d.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. liepos 8 d. dekretą Nr. 1830](https://e-tar.lt/portal/lt/legalAct/TAR.A0C4DB841DB7), ratifikuoja Konvenciją dėl žmogaus teisių ir orumo apsaugos biologijos ir medicinos taikymo srityje (Žmogaus teisių ir biomedicinos konvenciją) ir jos Papildomą protokolą dėl žmonių klonavimo uždraudimo, pasirašytus atitinkamai 1997 m. balandžio 4 d. ir 1998 m. sausio 12 d.
 
 
 

@@ -40,7 +40,7 @@ Lietuvos Respublikos Aukščiausioji Taryba nutaria:
 1 straipsnis
 
 
-Gyvenamųjų namų statybos kooperatyvo narys, visiškai išmokėjęs pajų už (gyvenamąją patalpą), tampa buto (gyvenamosios patalpos) savininku ir nustoja būti kooperatyvo nariu. Atsižvelgiant į tai, Lietuvos Respublikos 1982 m. gruodžio 2 dienos įstatymu patvirtinto Lietuvos Respublikos butų kodekso (Žin., 1982, Nr. 34-377) 117 straipsnį papildyti tokia trečiąja dalimi:
+Gyvenamųjų namų statybos kooperatyvo narys, visiškai išmokėjęs pajų už (gyvenamąją patalpą), tampa buto (gyvenamosios patalpos) savininku ir nustoja būti kooperatyvo nariu. Atsižvelgiant į tai, Lietuvos Respublikos 1982 m. gruodžio 2 dienos įstatymu patvirtinto [Lietuvos Respublikos butų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.313250CE1780) (Žin., 1982, Nr. 34-377) 117 straipsnį papildyti tokia trečiąja dalimi:
 
 
 „Gyvenamųjų namų statybos kooperatyvo narys, visiškai išmokėjęs pajų už butą (gyvenamąją patalpą), tampa buto (gyvenamosios patalpos) savininku ir nustoja būti kooperatyvo nariu“.

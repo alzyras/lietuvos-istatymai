@@ -27,7 +27,7 @@ rysiai: "[[Ryšiai/TAR.C5EC798AF918]]"
 LIETUVOS RESPUBLIKOS
 Į S T A T Y M A S
 
-DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 71 STRAIPSNIO BEI LIETUVOS RESPUBLIKOS SPAUDOS IR KITŲ MASINĖS INFORMACIJOS PRIEMONIŲ ĮSTATYMO 33 STRAIPSNIO PAKEITIMO
+DĖL LIETUVOS RESPUBLIKOS CIVILINIO KODEKSO 71 STRAIPSNIO BEI LIETUVOS RESPUBLIKOS [SPAUDOS IR KITŲ MASINĖS INFORMACIJOS PRIEMONIŲ ĮSTATYMO 33 STRAIPSNIO](https://e-tar.lt/portal/lt/legalAct/TAR.0348DC7D3244) PAKEITIMO
 
 1992 m. spalio 29 d. Nr. I-3019
 Vilnius
@@ -43,7 +43,7 @@ Atsižvelgdama į pasikeitusią Lietuvos Respublikos ekonominę padėtį ir gyve
 „Žalos atlyginimo dydis kiekvienu atveju neturi viršyti 300 minimalių mėnesinių algų, kai žinios paskleistos masinės informacijos priemonių, ir 30 minimalių mėnesinių algų, kai jos paskleistos kitų organizacijų arba asmenų.“
 
 
-2. Lietuvos Respublikos spaudos ir kitų masinės informacijos priemonių įstatymo 33 straipsnio antrąją dalį išdėstyti taip:
+2. Lietuvos Respublikos [spaudos ir kitų masinės informacijos priemonių įstatymo 33 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.0348DC7D3244) antrąją dalį išdėstyti taip:
 
 
 „Moralinės (neturtinės) žalos atlyginimo dydį nustato teismas, tačiau kiekvienu atveju jis negali viršyti 300 minimalių mėnesinių algų.“

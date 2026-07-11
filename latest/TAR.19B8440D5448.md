@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Pelno mokesčio lengvatos ^s-0d9e9086d307368a2252c927
 
 
-Atleisti nuo pelno mokesčio žemės ūkio produkciją gaminančių ir paslaugas žemės ūkiui teikiančių juridinių asmenų 1996 metais gautą pelną, apmokestintiną pagal Juridinių asmenų [[latest/TAR.A5ACBDA529A9#^s-f30e14b5548a1ff78bb0785f|pelno mokesčio įstatymo 8 straipsnyje]] nustatytą lengvatinį 10 procentų pelno mokesčio tarifą.
+Atleisti nuo pelno mokesčio žemės ūkio produkciją gaminančių ir paslaugas žemės ūkiui teikiančių juridinių asmenų 1996 metais gautą pelną, apmokestintiną pagal [Juridinių asmenų pelno mokesčio įstatymo 8 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.84CB75BE0C44) nustatytą lengvatinį 10 procentų pelno mokesčio tarifą.
 
 
 

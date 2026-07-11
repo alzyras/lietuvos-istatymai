@@ -82,7 +82,7 @@ Papildyti 12 straipsnį 4 dalimi:
 ### 3 straipsnis. 13 straipsnio papildymas ir pakeitimas ^s-1211b1a17f02db8b0dc24faa
 
 
-Papildyti 13 straipsnį naujomis 2 ir [[#^s-8cdb0755e0410c3f17730f4f|3 dalimis]], buvusias 2 ir [[#^s-8cdb0755e0410c3f17730f4f|3 dalis]] laikyti atitinkamai 4 ir [[#^s-35a02a65f7e2d4c34fea2ccf|5 dalimis]] ir visą straipsnį išdėstyti taip:
+Papildyti 13 straipsnį naujomis 2 ir 3 dalimis, buvusias 2 ir 3 dalis laikyti atitinkamai 4 ir 5 dalimis ir visą straipsnį išdėstyti taip:
 
 
 

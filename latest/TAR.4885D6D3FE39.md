@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-9238309d60801a5a0bf965bf
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 ir 5 punktais bei atsižvelgdamas į Respublikos Prezidento 2004 m. kovo 3 d. dekretą Nr. 387, ratifikuoja Šiaurės Atlanto sutartį, pasirašytą 1949 m. balandžio 4 d. Vašingtone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 ir 5 punktais bei atsižvelgdamas į Respublikos Prezidento [2004 m. kovo 3 d. dekretą Nr. 387](https://e-tar.lt/portal/lt/legalAct/TAR.0B3AD35502D9), ratifikuoja Šiaurės Atlanto sutartį, pasirašytą 1949 m. balandžio 4 d. Vašingtone.
 
 
 

@@ -217,7 +217,7 @@ Pakeisti 26 straipsnį ir jį išdėstyti taip:
 1. 35 straipsnio 1 dalyje vietoj skaičiaus „20“ įrašyti skaičių „15“ ir šią dalį išdėstyti taip: ^s-306ee99aaf20b84e32f7fed9
 
 
-„1. Lietuvos vieneto už turimas ar nuolatinės buveinės už jai priskirtas užsienio vienetų akcijas, kapitalo dalį ar kitų teisių turėjimą gaunami dividendai apmokestinami taikant 15 procentų pelno mokesčio tarifą, išskyrus šio straipsnio 2 ir [[#^s-91d73b610ea6549b7c64fd98|3 dalyse]] nustatytus atvejus. Mokestį apskaičiuoja ir sumoka į biudžetą dividendus gaunantis Lietuvos vienetas ar nuolatinė buveinė ne vėliau kaip iki mėnesio, einančio po mėnesio, kurį dividendai buvo gauti, dešimtos dienos.“
+„1. Lietuvos vieneto už turimas ar nuolatinės buveinės už jai priskirtas užsienio vienetų akcijas, kapitalo dalį ar kitų teisių turėjimą gaunami dividendai apmokestinami taikant 15 procentų pelno mokesčio tarifą, išskyrus šio straipsnio [[#^s-920afc995b15eced8b0e1827|2]] ir [[#^s-91d73b610ea6549b7c64fd98|3]] dalyse nustatytus atvejus. Mokestį apskaičiuoja ir sumoka į biudžetą dividendus gaunantis Lietuvos vienetas ar nuolatinė buveinė ne vėliau kaip iki mėnesio, einančio po mėnesio, kurį dividendai buvo gauti, dešimtos dienos.“
 
 
 2. Pakeisti 35 straipsnio 2 dalį ir ją išdėstyti taip: ^s-920afc995b15eced8b0e1827
@@ -346,7 +346,7 @@ MOKESTINIŲ NUOSTOLIŲ PERDAVIMAS
 2. Šio įstatymo [[#^s-89ab5519361cd119a5f7efda|6 straipsnio]] nuostatos taikomos apskaičiuojant 2009 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-af3c55260f670007622a8821
 
 
-3. Šio įstatymo [[#^s-8e093d1cee6bbf605b7debdc|1 straipsnio]], [[#^s-04906f63f014848b7fa77443|2 straipsnio]] 1, 3, 4, [[#^s-2c4281d83f3877b7e157b64a|5 dalių]] ir 3, 4, 5, 7, 8, 12, 14, 15, [[#^s-baecf854fa3a6cf8df792fc1|16 straipsnių]] nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-728984e1314e35f9072d9b77
+3. Šio įstatymo [[#^s-8e093d1cee6bbf605b7debdc|1 straipsnio]], [[#^s-04906f63f014848b7fa77443|2 straipsnio]] [[#^s-ffa961b0b9605e3dd0a7328a|1]], [[#^s-2b9a28031b21ec0ff5404ce9|3]], [[#^s-89a06fe7e3862e8384102140|4]], [[#^s-50f6d11148458c1b01934867|5]] dalių ir [[#^s-8b6d6fc8b228ac42e481cbac|3]], [[#^s-6b848e497dd99e29f5eee8a2|4]], [[#^s-dc72b02152cda6c2c21cb4d0|5]], [[#^s-6bb07eb5eb0539c83bac1d35|7]], [[#^s-b15a864bd6eaa9c42b55853c|8]], [[#^s-2c8e78424584e830bd4e558e|12]], [[#^s-09b639be687c40ea6ff452d7|14]], [[#^s-1bd65088bfc955eafb4c3ba2|15]], [[#^s-baecf854fa3a6cf8df792fc1|16]] straipsnių nuostatos taikomos apskaičiuojant 2010 metų ir vėlesnių metų mokestinių laikotarpių pelno mokestį. ^s-728984e1314e35f9072d9b77
 
 
 4. Šio įstatymo [[#^s-baecf854fa3a6cf8df792fc1|16 straipsnyje]] nustatyta tvarka gali būti perduodami tik už 2010 metų mokestinį laikotarpį ir už vėlesnius mokestinius laikotarpius apskaičiuoti mokestiniai nuostoliai. ^s-66a729597f1d3df62b79989d

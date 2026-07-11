@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C7E57DF3CEC5#^s-33c7ab521bdbab120e4518a5|Lietuvos Respublikos investicijų įstatymas]] - 2 citatos - 1101010ISTA0XI-1116
+- [[latest/TAR.C7E57DF3CEC5#^s-33c7ab521bdbab120e4518a5|Lietuvos Respublikos investicijų įstatymas]] - 1101010ISTA0XI-1116

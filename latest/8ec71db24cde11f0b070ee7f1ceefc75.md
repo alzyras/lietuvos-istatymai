@@ -60,7 +60,7 @@ Pakeisti 6.2287 straipsnio 1 dalies 7 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. 6.22810 straipsnio pakeitimas ^s-2f87c8ea08824559c6daf481
 
 
-Papildyti 6.22810 straipsnį 11–[[#^s-15dc0178c7cc254daee9ec62|16 dalimis]]:
+Papildyti 6.22810 straipsnį 11–16 dalimis:
 
 
 „11. Kai nuotolinė sutartis sudaryta naudojantis elektronine sąsaja, vartotojas turi teisę atsisakyti šios sutarties, naudodamasis sutarties atsisakymo funkcija. Elektroninėje sąsajoje sutarties atsisakymo funkcija turi būti pažymėta žodžiais „atsisakyti sutarties čia“ arba pateikta kita panaši nedviprasmiška, lengvai įskaitoma formuluotė. Sutarties atsisakymo funkcija turi būti nuolat prieinama tol, kol vartotojas turi teisę atsisakyti sutarties. Ši funkcija turi būti aiškiai matoma elektroninėje sąsajoje ir lengvai prieinama vartotojui.
@@ -87,7 +87,7 @@ Papildyti 6.22810 straipsnį 11–[[#^s-15dc0178c7cc254daee9ec62|16 dalimis]]:
 15. Vartotojas turi teisę įgyvendinti savo teisę atsisakyti sutarties, pateikdamas [[#^s-48545c9eafb4f71aa6196df2|šio straipsnio 12 dalyje]] nurodytą naudojantis internetu parengtą pareiškimą iki sutarties atsisakymo termino pabaigos. ^s-8e913bb55e6ea77731b0d66f
 
 
-16. Jeigu Europos Sąjungos teisės aktuose ar kituose Europos Sąjungos teisės aktų įgyvendinamuosiuose įstatymuose nustatytos kitokios, negu nustatyta šio straipsnio 11–[[#^s-8e913bb55e6ea77731b0d66f|15 dalyse]], sutarties atsisakymo taisyklės, šis kodeksas taikomas tiek, kiek nurodyti kiti įstatymai ar Europos Sąjungos teisės aktai nenustato kitaip.“ ^s-15dc0178c7cc254daee9ec62
+16. Jeigu Europos Sąjungos teisės aktuose ar kituose Europos Sąjungos teisės aktų įgyvendinamuosiuose įstatymuose nustatytos kitokios, negu nustatyta šio straipsnio 11–[[#^s-8e913bb55e6ea77731b0d66f|15]] dalyse, sutarties atsisakymo taisyklės, šis kodeksas taikomas tiek, kiek nurodyti kiti įstatymai ar Europos Sąjungos teisės aktai nenustato kitaip.“ ^s-15dc0178c7cc254daee9ec62
 
 
 
@@ -97,7 +97,7 @@ Papildyti 6.22810 straipsnį 11–[[#^s-15dc0178c7cc254daee9ec62|16 dalimis]]:
 Pakeisti Kodekso priedo 4 punktą ir jį išdėstyti taip:
 
 
-„4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2673.“
+„4. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos direktyva 2011/83/ES dėl vartotojų teisių, kuria iš dalies keičiamos Tarybos direktyva 93/13/EEB ir Europos Parlamento ir Tarybos direktyva 1999/44/EB bei panaikinamos Tarybos direktyva 85/577/EEB ir Europos Parlamento ir Tarybos direktyva 97/7/EB, su paskutiniais pakeitimais, padarytais 2023 m. lapkričio 22 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/2673](https://eur-lex.europa.eu/eli/dir/2023/2673/oj).“
 
 
 

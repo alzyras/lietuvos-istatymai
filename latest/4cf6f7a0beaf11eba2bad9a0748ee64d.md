@@ -52,19 +52,19 @@ Vilnius
 „9. Elektroninių cigarečių pildyklė – indas, kuriame yra skysčio, naudojamo elektroninėms cigaretėms pripildyti.“
 
 
-3. Pakeisti 2 straipsnio 40 dalį ir ją išdėstyti taip: ^s-fc69319b09560d7ffb50f611
+3. Pakeisti [[latest/TAR.F8090E375DA0#^s-24357bfe7298cbd0df6c1f5d|2 straipsnio 40 dalį]] ir ją išdėstyti taip: ^s-fc69319b09560d7ffb50f611
 
 
 „40. Tabako gaminių ir (ar) susijusių gaminių importas – tabako gaminių ir (ar) susijusių gaminių įvežimas į Europos Sąjungos teritoriją, nebent gaminiams yra taikoma sąlyginio neapmokestinimo procedūra arba tvarka jų įvežimo į Europos Sąjungą metu, taip pat sąlyginio neapmokestinimo procedūros arba tvarkos taikymo nutraukimas.“
 
 
-4. Pakeisti 2 straipsnio 41 dalį ir ją išdėstyti taip: ^s-961609fdf5d8b8071435d254
+4. Pakeisti [[latest/TAR.F8090E375DA0#^s-f486f91dd3470efe7c95b6fa|2 straipsnio 41 dalį]] ir ją išdėstyti taip: ^s-961609fdf5d8b8071435d254
 
 
 „41. Tabako gaminių ir (ar) susijusių gaminių importuotojas – į Europos Sąjungos teritoriją įvežtų tabako ir (ar) susijusių gaminių savininkas arba asmuo, turintis teisę jais disponuoti.“
 
 
-5. Pakeisti 2 straipsnio 43 dalį ir ją išdėstyti taip: ^s-bb8f278f5257d7673ba77e93
+5. Pakeisti [[latest/TAR.F8090E375DA0#^s-076bf9f444e1c8bc42b56666|2 straipsnio 43 dalį]] ir ją išdėstyti taip: ^s-bb8f278f5257d7673ba77e93
 
 
 „43. Tabako gaminių ir (ar) susijusių gaminių įvežimas – tabako gaminių ir (ar) susijusių gaminių įvežimas iš Europos Sąjungos valstybių narių į Lietuvos Respubliką (išskyrus fizinių asmenų įvežamus tabako gaminius ir (ar) susijusius gaminius).“
@@ -82,7 +82,7 @@ Pakeisti [[#^s-d8bdcc724bce8f35d73e22b7|9 straipsnį]] ir jį išdėstyti taip:
 1. Tabako gaminių gamintojai ir importuotojai Narkotikų, tabako ir alkoholio kontrolės departamentui Lietuvos Respublikos Vyriausybės nustatyta tvarka pagal prekių ženklą ir rūšį privalo pateikti Europos Komisijos nustatytos formos pranešimą apie: ^s-53ba43124931792ba55549b5
 
 
-1) tabako gaminių gamybai naudotų visų tabako gaminių sudedamųjų dalių ir jų kiekių sudarytą sąrašą (toliau – sąrašas) kiekvienos tabako gaminių sudedamosios dalies mažėjimo tvarka pagal svorį. Sąraše turi būti nurodyta, ar šios tabako gaminių sudedamosios dalys buvo registruotos pagal Reglamentą (EB) Nr. 1907/2006 ir ar jos buvo klasifikuotos pagal 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos reglamentą (EB) Nr. 1272/2008 dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiantį ir panaikinantį direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiantį Reglamentą (EB) Nr. 190/2006. Prie sąrašo pridedamas paaiškinimas, kuriame nurodoma, kodėl tokių tabako gaminių sudedamųjų dalių buvo dėta į atitinkamus tabako gaminius, pridedami toksikologiniai duomenys, apibūdinantys atitinkamai sudegintas ar nesudegintas šias tabako gaminių sudedamąsias dalis, nurodant jų poveikį vartotojų sveikatai ir priklausomybę sukeliantį poveikį; ^s-8aae1fbe9b62093211f0e95c
+1) tabako gaminių gamybai naudotų visų tabako gaminių sudedamųjų dalių ir jų kiekių sudarytą sąrašą (toliau – sąrašas) kiekvienos tabako gaminių sudedamosios dalies mažėjimo tvarka pagal svorį. Sąraše turi būti nurodyta, ar šios tabako gaminių sudedamosios dalys buvo registruotos pagal [Reglamentą (EB) Nr. 1907/2006](https://eur-lex.europa.eu/eli/reg/1907/2006/oj) ir ar jos buvo klasifikuotos pagal 2008 m. gruodžio 16 d. Europos Parlamento ir Tarybos [reglamentą (EB) Nr. 1272/2008](https://eur-lex.europa.eu/eli/reg/1272/2008/oj) dėl cheminių medžiagų ir mišinių klasifikavimo, ženklinimo ir pakavimo, iš dalies keičiantį ir panaikinantį direktyvas 67/548/EEB bei 1999/45/EB ir iš dalies keičiantį Reglamentą (EB) Nr. 190/2006. Prie sąrašo pridedamas paaiškinimas, kuriame nurodoma, kodėl tokių tabako gaminių sudedamųjų dalių buvo dėta į atitinkamus tabako gaminius, pridedami toksikologiniai duomenys, apibūdinantys atitinkamai sudegintas ar nesudegintas šias tabako gaminių sudedamąsias dalis, nurodant jų poveikį vartotojų sveikatai ir priklausomybę sukeliantį poveikį; ^s-8aae1fbe9b62093211f0e95c
 
 
 2) iš cigarečių išsiskiriančių medžiagų, nurodytų šio Įstatymo [[#^s-249d281aca3cc75c09475a11|4 straipsnio 2 dalyje]], kiekius; ^s-28256b1586e78bea37f9a49f
@@ -106,16 +106,16 @@ Pakeisti [[#^s-d8bdcc724bce8f35d73e22b7|9 straipsnį]] ir jį išdėstyti taip:
 4. Cigarečių ir suktinių tabako gamintojai ar importuotojai prieš patiekdami šiuos gaminius rinkai privalo pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui techninį dokumentą, kuriame išdėstomas naudojamų priedų ir jų savybių aprašymas ir nurodomi gamintojų ir importuotojų taikyti kitų negu dervos, nikotinas, anglies monoksidas išsiskiriančių medžiagų kiekio nustatymo matavimo metodai. ^s-319c409c152c1b7c692ffd9d
 
 
-5. Pagal šio straipsnio 1, 2 ir [[#^s-319c409c152c1b7c692ffd9d|4 dalis]] gauta informacija yra viešai prieinama Narkotikų, tabako ir alkoholio kontrolės departamento interneto svetainėje. Narkotikų, tabako ir alkoholio kontrolės departamentas, skelbdamas šią informaciją, privalo apsaugoti komercinę paslaptį. ^s-69d3e7c3e1e595584c913861
+5. Pagal šio straipsnio [[#^s-53ba43124931792ba55549b5|1]], [[#^s-390cc5c018462b08763a0165|2]] ir [[#^s-319c409c152c1b7c692ffd9d|4]] dalis gauta informacija yra viešai prieinama Narkotikų, tabako ir alkoholio kontrolės departamento interneto svetainėje. Narkotikų, tabako ir alkoholio kontrolės departamentas, skelbdamas šią informaciją, privalo apsaugoti komercinę paslaptį. ^s-69d3e7c3e1e595584c913861
 
 
-6. Tabako gaminių gamintojai ir importuotojai, pateikdami informaciją pagal šio straipsnio 1, 2 ir [[#^s-319c409c152c1b7c692ffd9d|4 dalis]], privalo ne tik nurodyti, kurią informaciją jie laiko komercine paslaptimi, bet taip pat ir šią aplinkybę pagrįsti. ^s-62bfa2ef4a85b50b85c6435d
+6. Tabako gaminių gamintojai ir importuotojai, pateikdami informaciją pagal šio straipsnio [[#^s-53ba43124931792ba55549b5|1]], [[#^s-390cc5c018462b08763a0165|2]] ir [[#^s-319c409c152c1b7c692ffd9d|4]] dalis, privalo ne tik nurodyti, kurią informaciją jie laiko komercine paslaptimi, bet taip pat ir šią aplinkybę pagrįsti. ^s-62bfa2ef4a85b50b85c6435d
 
 
 7. Visa šiame straipsnyje nurodyta privaloma pateikti informacija yra pateikiama ir saugoma elektronine forma Narkotikų, tabako ir alkoholio kontrolės departamente, kuris privalo užtikrinti, kad tabako gaminių gamintojų ir importuotojų nurodyta konfidenciali informacija nebūtų atskleista, išskyrus atvejus, kai teisėtvarkos ar kitos institucijos teisės aktų nustatyta tvarka turi teisę gauti tokią informaciją, taip pat užtikrinti, kad saugoma informacija būtų prieinama Europos Komisijai ir kitoms Europos Sąjungos valstybėms narėms Europos Komisijos priimtuose sprendimuose nustatyta tvarka. ^s-221faf431d90e8674476f35c
 
 
-8. Cigarečių ir suktinių tabako, kurių sudėtyje yra priedo, įtraukto į Cigaretėse ir cigaretėms sukti skirtame tabake naudojamų priedų, kuriems taikomos griežtesnės pranešimų teikimo prievolės, prioritetinį sąrašą, sudarytą 2016 m. gegužės 18 d. Komisijos įgyvendinimo sprendimu (ES) 2016/787, gamintojai ar importuotojai privalo atlikti išsamius tyrimus, kurių metu nagrinėjama, ar kiekvienas gaminio sudėtyje esantis į šį sąrašą įtrauktas priedas: ^s-ec9661c56eb688c51300045c
+8. Cigarečių ir suktinių tabako, kurių sudėtyje yra priedo, įtraukto į Cigaretėse ir cigaretėms sukti skirtame tabake naudojamų priedų, kuriems taikomos griežtesnės pranešimų teikimo prievolės, prioritetinį sąrašą, sudarytą 2016 m. gegužės 18 d. Komisijos įgyvendinimo [sprendimu (ES) 2016/787](https://eur-lex.europa.eu/eli/dec/2016/787/oj), gamintojai ar importuotojai privalo atlikti išsamius tyrimus, kurių metu nagrinėjama, ar kiekvienas gaminio sudėtyje esantis į šį sąrašą įtrauktas priedas: ^s-ec9661c56eb688c51300045c
 
 
 1) prisideda prie atitinkamų tabako gaminių toksiškumo ar priklausomybės sukėlimo gebos ir dėl to žymiai ar išmatuojamai padidėja bet kurio iš atitinkamų tabako gaminių toksiškumas arba priklausomybės sukėlimo geba; ^s-7f5f2bb0b707b80f690173ea
@@ -151,10 +151,10 @@ Pakeisti [[#^s-d8bdcc724bce8f35d73e22b7|9 straipsnį]] ir jį išdėstyti taip:
 ### 3 straipsnis. 92 straipsnio pakeitimas ^s-d8812fcfb6bc05ab10151b2f
 
 
-Pakeisti 92 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.F8090E375DA0#^s-dc6b47f96e0a0cd3ec7bb7dc|92 straipsnį]] ir jį išdėstyti taip:
 
 
-„92 straipsnis. Elektroninių cigarečių ir elektroninių cigarečių pildyklių sudėties ir kokybės bendrieji reikalavimai
+„[[latest/TAR.F8090E375DA0#^s-dc6b47f96e0a0cd3ec7bb7dc|92 straipsnis]]. Elektroninių cigarečių ir elektroninių cigarečių pildyklių sudėties ir kokybės bendrieji reikalavimai
 
 
 1. Lietuvos Respublikoje pateikiamos rinkai elektroninės cigaretės ir elektroninių cigarečių pildyklės turi atitikti šiame Įstatyme ir kituose teisės aktuose nustatytus reikalavimus, išskyrus elektronines cigaretes ir elektroninių cigarečių pildykles, kurios nustatyta tvarka yra įrašytos į Lietuvos Respublikos vaistinių preparatų registrą. ^s-4cb8e9db0fd0b22dac964a16
@@ -175,7 +175,7 @@ Pakeisti 92 straipsnį ir jį išdėstyti taip:
 4) nikotino kiekis įprastomis vartojimo sąlygomis nuosekliai dozuojamas elektroninėmis cigaretėmis; ^s-7a8ea2f6380e0d6d7ee55032
 
 
-5) elektroninės cigaretės ir elektroninių cigarečių pildyklės turi sustiprintą apsaugą nuo vaikų (įskaitant įspėjimus apie elektroninių cigarečių keliamą grėsmę vaikams ar būtinybę jas saugoti nuo vaikų, sudėtingesnį įjungimo mechanizmą ar kitas priemones, ribojančias vaikų galimybes naudoti elektronines cigaretes ir kt.) ir yra apsaugotos nuo sugadinimo, įskilimo bei pralaidumo ir turi mechanizmą, kuris užtikrina, kad jas pildant neištekėtų skystis. Pildymo mechanizmas turi atitikti reikalavimus, nustatytus 2016 m. balandžio 14 d. Komisijos įgyvendinimo sprendime (ES) 2016/586 dėl elektroninių cigarečių pildymo mechanizmo techninių standartų. ^s-d2082e7b67b050935f6cacf2
+5) elektroninės cigaretės ir elektroninių cigarečių pildyklės turi sustiprintą apsaugą nuo vaikų (įskaitant įspėjimus apie elektroninių cigarečių keliamą grėsmę vaikams ar būtinybę jas saugoti nuo vaikų, sudėtingesnį įjungimo mechanizmą ar kitas priemones, ribojančias vaikų galimybes naudoti elektronines cigaretes ir kt.) ir yra apsaugotos nuo sugadinimo, įskilimo bei pralaidumo ir turi mechanizmą, kuris užtikrina, kad jas pildant neištekėtų skystis. Pildymo mechanizmas turi atitikti reikalavimus, nustatytus 2016 m. balandžio 14 d. Komisijos įgyvendinimo [sprendime (ES) 2016/586](https://eur-lex.europa.eu/eli/dec/2016/586/oj) dėl elektroninių cigarečių pildymo mechanizmo techninių standartų. ^s-d2082e7b67b050935f6cacf2
 
 
 3. Gaminant skystį naudojamos tik labai grynos sudedamosios dalys. Kitų medžiagų negu gaminio (pagal gaminio prekių ženklą ir rūšį) sudedamųjų dalių ir jį vartojant susidarančių išsiskiriančių medžiagų skystyje gali būti tik toks kiekis, kurio technologiškai negalima išvengti gamybos metu. ^s-2098b5b111167ab4f6620d94
@@ -199,13 +199,13 @@ Pakeisti 92 straipsnį ir jį išdėstyti taip:
 ### 4 straipsnis. 93 straipsnio pakeitimas ^s-8458143546499793322de420
 
 
-1. Pakeisti 93 straipsnio pavadinimą ir jį išdėstyti taip: ^s-db7e73bc5e2c9dbe4a2a8b3a
+1. Pakeisti [[latest/TAR.F8090E375DA0#^s-84b32842c570a263ef58e75e|93 straipsnio]] pavadinimą ir jį išdėstyti taip: ^s-db7e73bc5e2c9dbe4a2a8b3a
 
 
 „93 straipsnis. Pranešimas apie elektroninių cigarečių ir elektroninių cigarečių pildyklių pateikimą rinkai ir elektroninių cigarečių ir elektroninių cigarečių pildyklių tiekimo rinkai ribojimai“.
 
 
-2. Papildyti 93 straipsnį 5 dalimi: ^s-249d281aca3cc75c09475a11
+2. Papildyti [[latest/TAR.F8090E375DA0#^s-f3ba989c23c0b5a7bcb171a7|93 straipsnį 5 dalimi]]: ^s-249d281aca3cc75c09475a11
 
 
 „5. Draudžiama tiekti rinkai elektronines cigaretes ir elektroninių cigarečių pildykles, apie kurias Lietuvos Respublikos Vyriausybės nustatyta tvarka negautas [[#^s-db7e73bc5e2c9dbe4a2a8b3a|šio straipsnio 1 dalyje]] nurodytas pranešimas ar nuo šio pranešimo pateikimo nepraėjo šeši mėnesiai.“
@@ -215,10 +215,10 @@ Pakeisti 92 straipsnį ir jį išdėstyti taip:
 ### 5 straipsnis. 910 straipsnio pakeitimas ^s-b03716c28f55762f4e726dd6
 
 
-Pakeisti 910 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.F8090E375DA0#^s-f4670bf1defe6d320ca28664|910 straipsnį]] ir jį išdėstyti taip:
 
 
-„910 straipsnis. Informacijos apie rūkomųjų žolinių gaminių sudedamąsias dalis teikimas ir rūkomųjų žolinių gaminių tiekimo rinkai ribojimai
+„[[latest/TAR.F8090E375DA0#^s-f4670bf1defe6d320ca28664|910 straipsnis]]. Informacijos apie rūkomųjų žolinių gaminių sudedamąsias dalis teikimas ir rūkomųjų žolinių gaminių tiekimo rinkai ribojimai
 
 
 1. Rūkomųjų žolinių gaminių gamintojai ir importuotojai privalo pateikti Narkotikų, tabako ir alkoholio kontrolės departamentui jo nustatyta tvarka Lietuvos Respublikos rinkai tiekiamų rūkomųjų žolinių gaminių gamybai naudotų visų sudedamųjų dalių ir jų kiekių (pagal kiekvieną rūkomojo žolinio gaminio prekių ženklą ir rūšį) sąrašą, taip pat informuoti, jeigu gaminio sudėtis pakeičiama taip, kad tai turi įtakos pagal šį straipsnį pateiktai informacijai. ^s-e2f1b1dad04079f97e7186a3
@@ -227,7 +227,7 @@ Pakeisti 910 straipsnį ir jį išdėstyti taip:
 2. Kai Lietuvos Respublikos rinkai patiekiamas naujas ar pakeistas rūkomasis žolinis gaminys, [[#^s-e2f1b1dad04079f97e7186a3|šio straipsnio 1 dalyje]] nurodyta informacija turi būti pateikta prieš patiekiant šį gaminį rinkai. ^s-b4c5d72b2ecd2cfb2cff4363
 
 
-3. Pagal šį straipsnį gauta informacija (išskyrus gamintojų ir importuotojų nurodytą informaciją, kurią jie laiko komercine paslaptimi) yra viešai prieinama Narkotikų, tabako ir alkoholio kontrolės departamento interneto svetainėje. Rūkomųjų žolinių gaminių gamintojai ir importuotojai, pateikdami informaciją pagal šio straipsnio 1 ir [[#^s-b4c5d72b2ecd2cfb2cff4363|2 dalis]], privalo nurodyti, kokią informaciją jie laiko komercine paslaptimi, ir šią aplinkybę pagrįsti. ^s-98df8fb42db685f33bf6926c
+3. Pagal šį straipsnį gauta informacija (išskyrus gamintojų ir importuotojų nurodytą informaciją, kurią jie laiko komercine paslaptimi) yra viešai prieinama Narkotikų, tabako ir alkoholio kontrolės departamento interneto svetainėje. Rūkomųjų žolinių gaminių gamintojai ir importuotojai, pateikdami informaciją pagal šio straipsnio [[#^s-e2f1b1dad04079f97e7186a3|1]] ir [[#^s-b4c5d72b2ecd2cfb2cff4363|2]] dalis, privalo nurodyti, kokią informaciją jie laiko komercine paslaptimi, ir šią aplinkybę pagrįsti. ^s-98df8fb42db685f33bf6926c
 
 
 4. Draudžiama tiekti rinkai rūkomuosius žolinius gaminius, apie kuriuos Narkotikų, tabako ir alkoholio kontrolės departamento nustatyta tvarka negauta informacija (rūkomųjų žolinių gaminių gamybai naudotų visų sudedamųjų dalių ir jų kiekių sąrašas).“ ^s-2bfdb77966871ae214079e4e
@@ -236,19 +236,19 @@ Pakeisti 910 straipsnį ir jį išdėstyti taip:
 ### 6 straipsnis. 911 straipsnio pakeitimas ^s-199b643c87343ac1712c7827
 
 
-1. Pakeisti 911 straipsnio pavadinimą ir jį išdėstyti taip: ^s-7d08674d64f86c3283567f0d
+1. Pakeisti [[latest/TAR.F8090E375DA0#^s-e505617795616aa4917fd552|911 straipsnio]] pavadinimą ir jį išdėstyti taip: ^s-7d08674d64f86c3283567f0d
 
 
 „911 straipsnis. Pranešimas apie naujoviškus tabako gaminius ir naujoviškų tabako gaminių tiekimo rinkai ribojimai“.
 
 
-2. Papildyti 911 straipsnį 8 dalimi: ^s-b8d177977f3e50eb4f1677f4
+2. Papildyti [[latest/TAR.F8090E375DA0#^s-c851b43c6b60826815f154f8|911 straipsnį 8 dalimi]]: ^s-b8d177977f3e50eb4f1677f4
 
 
 „8. Draudžiama tiekti rinkai naujoviškus tabako gaminius, apie kuriuos Lietuvos Respublikos Vyriausybės nustatyta tvarka negautas šio straipsnio 1 dalyje nurodytas pranešimas ar nuo šio pranešimo pateikimo nepraėjo šeši mėnesiai.“
 
 
-3. Papildyti 911 straipsnį 9 dalimi: ^s-f3373619e211c6e03becaa26
+3. Papildyti [[latest/TAR.F8090E375DA0#^s-0ea956f9f626745eb6e6ceaf|911 straipsnį 9 dalimi]]: ^s-f3373619e211c6e03becaa26
 
 
 „9. Visa šiame straipsnyje nurodyta privaloma pateikti informacija yra viešai prieinama Narkotikų, tabako ir alkoholio kontrolės departamento interneto svetainėje, užtikrinant, kad naujoviškų tabako gaminių gamintojų ir importuotojų nurodyta konfidenciali informacija nebūtų atskleista, išskyrus atvejus, kai teisėtvarkos ar kitos institucijos teisės aktų nustatyta tvarka turi teisę gauti tokią informaciją, taip pat užtikrinant, kad saugoma informacija būtų prieinama Europos Komisijai ir kitoms Europos Sąjungos valstybėms narėms Europos Komisijos priimtuose sprendimuose nustatyta tvarka.“
@@ -257,7 +257,7 @@ Pakeisti 910 straipsnį ir jį išdėstyti taip:
 ### 7 straipsnis. 14 straipsnio pakeitimas ^s-e8aeadfb7d31863c83e52ac6
 
 
-Pakeisti 14 straipsnio 4 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.F8090E375DA0#^s-99d8bcc302265d0f5c334c80|14 straipsnio 4 dalį]] ir ją išdėstyti taip:
 
 
 „4. Fiziniams asmenims draudžiama Lietuvos Respublikoje įsigyti tabako gaminius, su tabako gaminiais susijusius gaminius, teisės aktų nustatyta tvarka nepaženklintus specialiais ženklais – banderolėmis. Tabako gaminių, su tabako gaminiais  susijusių gaminių laikymo ir gabenimo tvarką, taikomą fiziniams asmenims, nustato Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija.“
@@ -266,7 +266,7 @@ Pakeisti 14 straipsnio 4 dalį ir ją išdėstyti taip:
 ### 8 straipsnis. 141 straipsnio pakeitimas ^s-a4562f014a043c32e61b0816
 
 
-Pakeisti 141 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.F8090E375DA0#^s-4f8cdd33ce0f34f685b59bdd|141 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Tabako gaminių vienetiniai pakeliai turi būti paženklinti unikaliu identifikatoriumi, pagal kurį būtų galima nustatyti tabako gaminių gamybos datą ir vietą; gamybos įmonę; įrangą, naudotą tabako gaminiams pagaminti; gamybos pamainą ar pagaminimo laiką; gaminio aprašymą; numatomą mažmeninės prekybos rinką; numatomą gabenimo maršrutą; jeigu taikoma, importuotoją į Europos Sąjungą; faktinį gabenimo maršrutą nuo gamybos iki pirmos mažmeninės prekybos vietos, įskaitant visus naudojamus sandėlius, taip pat išsiuntimo datą, gabenimo paskirties vietą, išsiuntimo vietą ir gavėją; visų pirkėjų nuo gamintojų iki pirmos mažmeninės prekybos vietos tapatybę; visų pirkėjų nuo gamintojų iki pirmos mažmeninės prekybos vietos sąskaitas faktūras ar pridėtinės vertės mokesčio sąskaitas faktūras, užsakymo numerį ir mokėjimų įrašus.“
@@ -275,12 +275,12 @@ Pakeisti 141 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 9 straipsnis. 16 straipsnio pakeitimas ^s-d8bdcc724bce8f35d73e22b7
 
 
-Pakeisti 16 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.F8090E375DA0#^s-7707541fd36c052f1cc89baf|16 straipsnį]] ir jį išdėstyti taip:
 
 
 
 
-„16 straipsnis. Prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, įrenginių, skirtų tabako gaminiams ir susijusiems gaminiams vartoti, pardavimo ribojimas
+„[[latest/TAR.F8090E375DA0#^s-7707541fd36c052f1cc89baf|16 straipsnis]]. Prekių, skirtų tabako gaminiams rūkyti ar pasiruošti rūkyti, įrenginių, skirtų tabako gaminiams ir susijusiems gaminiams vartoti, pardavimo ribojimas
 
 
 Lietuvos Respublikoje parduoti prekes, skirtas tabako gaminiams rūkyti (ar pasiruošti rūkyti), tai yra pypkes, kandiklius, pypkių ir kandiklių valiklius (grandiklius), buitines cigarečių sukimo mašinas, bet kokį rūkomąjį (cigarečių) popierių (supjaustytą ar nepjaustytą, suklijuotą į tūteles, su pritvirtintais filtrais ar be jų), taip pat įrenginius, skirtus tabako gaminiams ir susijusiems gaminiams vartoti, asmenims iki 18 metų draudžiama.“
@@ -289,13 +289,13 @@ Lietuvos Respublikoje parduoti prekes, skirtas tabako gaminiams rūkyti (ar pasi
 ### 10 straipsnis. 18 straipsnio pakeitimas ^s-ad91a2301a635c84c2964a9c
 
 
-1. Pakeisti 18 straipsnio pavadinimą ir jį išdėstyti taip: ^s-2d196829f0e1ae8914d07b53
+1. Pakeisti [[latest/TAR.F8090E375DA0#^s-55de96862069d6e0bd01232e|18 straipsnio]] pavadinimą ir jį išdėstyti taip: ^s-2d196829f0e1ae8914d07b53
 
 
 „18 straipsnis. Kiti su tabako gaminiais ir susijusiais gaminiais bei įrenginiais, skirtais šiems gaminiams vartoti, susiję draudimai“.
 
 
-2. Pakeisti 18 straipsnio 1 dalį ir ją išdėstyti taip: ^s-d2a1f9db101e7434d9e0765c
+2. Pakeisti [[latest/TAR.F8090E375DA0#^s-4f8238115e02101bb220630a|18 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-d2a1f9db101e7434d9e0765c
 
 
 „1. Lietuvos Respublikoje draudžiama:
@@ -337,10 +337,10 @@ Lietuvos Respublikoje parduoti prekes, skirtas tabako gaminiams rūkyti (ar pasi
 ### 11 straipsnis. 25 straipsnio pakeitimas ^s-297075948ecec9c33c418095
 
 
-Pakeisti 25 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.F8090E375DA0#^s-0cb80def816d9386fc142a9b|25 straipsnį]] ir jį išdėstyti taip:
 
 
-„25 straipsnis. Veiklos, susijusios su tabako gaminiais, susijusiais gaminiais, priežiūra, atsakomybė už šio Įstatymo pažeidimus, tabako gaminių, susijusių gaminių konfiskavimas ir sunaikinimas
+„[[latest/TAR.F8090E375DA0#^s-0cb80def816d9386fc142a9b|25 straipsnis]]. Veiklos, susijusios su tabako gaminiais, susijusiais gaminiais, priežiūra, atsakomybė už šio Įstatymo pažeidimus, tabako gaminių, susijusių gaminių konfiskavimas ir sunaikinimas
 
 
 1. Veiklos, susijusios su tabako gaminiais, susijusiais gaminiais, priežiūrą, vadovaudamiesi [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymo]] nuostatomis, pagal kompetenciją vykdo Narkotikų, tabako ir alkoholio kontrolės departamentas, Valstybinė vartotojų teisių apsaugos tarnyba, savivaldybių vykdomosios institucijos, Valstybinė mokesčių inspekcija, muitinė, policija, kitos valstybinės priežiūros ir teisėsaugos institucijos. ^s-e3c252daf5a883362148f3d6
@@ -358,16 +358,16 @@ Pakeisti 25 straipsnį ir jį išdėstyti taip:
 ### 12 straipsnis. 26 straipsnio pakeitimas ^s-5312d28806f9f3df583d8a2d
 
 
-1. Papildyti 26 straipsnį 12 dalimi: ^s-f671aa41193c186d740c8de7
+1. Papildyti [[latest/TAR.F8090E375DA0|26 straipsnį 12 dalimi]]: ^s-f671aa41193c186d740c8de7
 
 
-„12. Už šio Įstatymo 9 straipsnio 14 dalyje numatyto draudimo tiekti rinkai tabako gaminius, apie kuriuos Lietuvos Respublikos Vyriausybės nustatyta tvarka negautas pranešimas, šio Įstatymo 93 straipsnio 5 dalyje numatyto draudimo tiekti rinkai elektronines cigaretes ir elektroninių cigarečių pildykles, apie kurias Lietuvos Respublikos Vyriausybės nustatyta tvarka negautas pranešimas, šio Įstatymo 910 straipsnio 4 dalyje numatyto draudimo tiekti rinkai rūkomuosius žolinius gaminius, apie kuriuos Narkotikų, tabako ir alkoholio kontrolės departamento nustatyta tvarka negauta informacija (rūkomųjų žolinių gaminių gamybai naudotų visų sudedamųjų dalių ir jų kiekių sąrašas), ir šio Įstatymo 911 straipsnio 8 dalyje numatyto draudimo tiekti rinkai naujoviškus tabako gaminius, apie kuriuos Lietuvos Respublikos Vyriausybės nustatyta tvarka negautas pranešimas, pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda.“
+„12. Už šio Įstatymo [[latest/TAR.F8090E375DA0#^s-6cd9a6383caaf82dd6782205|9 straipsnio 14 dalyje]] numatyto draudimo tiekti rinkai tabako gaminius, apie kuriuos Lietuvos Respublikos Vyriausybės nustatyta tvarka negautas pranešimas, šio Įstatymo [[latest/TAR.F8090E375DA0#^s-f3ba989c23c0b5a7bcb171a7|93 straipsnio 5 dalyje]] numatyto draudimo tiekti rinkai elektronines cigaretes ir elektroninių cigarečių pildykles, apie kurias Lietuvos Respublikos Vyriausybės nustatyta tvarka negautas pranešimas, šio Įstatymo [[latest/TAR.F8090E375DA0#^s-597c8e33805c01413dc87344|910 straipsnio 4 dalyje]] numatyto draudimo tiekti rinkai rūkomuosius žolinius gaminius, apie kuriuos Narkotikų, tabako ir alkoholio kontrolės departamento nustatyta tvarka negauta informacija (rūkomųjų žolinių gaminių gamybai naudotų visų sudedamųjų dalių ir jų kiekių sąrašas), ir šio Įstatymo [[latest/TAR.F8090E375DA0#^s-c851b43c6b60826815f154f8|911 straipsnio 8 dalyje]] numatyto draudimo tiekti rinkai naujoviškus tabako gaminius, apie kuriuos Lietuvos Respublikos Vyriausybės nustatyta tvarka negautas pranešimas, pažeidimą juridiniai asmenys ir užsienio juridinių asmenų filialai baudžiami nuo dviejų šimtų aštuoniasdešimt devynių eurų iki vieno tūkstančio keturių šimtų keturiasdešimt aštuonių eurų bauda.“
 
 
-2. Pakeisti 26 straipsnio 13 dalies 1 punktą ir jį išdėstyti taip: ^s-416cc8cbcead1c83376d81f2
+2. Pakeisti [[latest/TAR.F8090E375DA0#^s-5fee8e5b4c4593084d72af6f|26 straipsnio 13 dalies 1 punktą]] ir jį išdėstyti taip: ^s-416cc8cbcead1c83376d81f2
 
 
-„1) Narkotikų, tabako ir alkoholio kontrolės departamentas – už 41 straipsnio, 87 straipsnio, [[#^s-d8bdcc724bce8f35d73e22b7|9 straipsnio]] 1, 2, 4, 10 ir 14 dalių, 93 ir 96 straipsnių, 99, 910, 911 straipsnių, [[#^s-2d196829f0e1ae8914d07b53|10 straipsnio 1 dalies]], [[#^s-5312d28806f9f3df583d8a2d|12 straipsnio]] 1, 3, 4 ir 5 dalių, [[#^s-d3989e230debcda5dce309c1|13 straipsnio]], 14 straipsnio 1 dalies, 14 straipsnio 3 dalies 1, 2, 3, 4, 6 ir 8 punktų, 14 straipsnio 5 ir 8 dalių, 141 straipsnio 1, 2, 3, 4 dalių, 15 ir 16 straipsnių, 161 straipsnio 1 dalies, 162 straipsnio, 17 straipsnio 1, 4 ir 5 dalių, 171 ir 18 straipsnių, 19 straipsnio 1 dalies 5 punkto nuostatų pažeidimus;“.
+„1) Narkotikų, tabako ir alkoholio kontrolės departamentas – už [[latest/TAR.F8090E375DA0#^s-ff17d2df85773cb6bbedcc7f|41 straipsnio]], [[latest/TAR.F8090E375DA0#^s-9d56d0a9e06df47e6abb610d|87 straipsnio]], [[#^s-d8bdcc724bce8f35d73e22b7|9 straipsnio]] [[latest/TAR.F8090E375DA0#^s-4e102c34cbc773ac721bc403|1]], [[latest/TAR.F8090E375DA0#^s-4c2f64cbabc7cf87078b06d3|2]], [[latest/TAR.F8090E375DA0#^s-ed0fe7d44e5bf0e08bb13b27|4]], [[latest/TAR.F8090E375DA0#^s-002c5369469f0641158ef0c1|10]] ir [[latest/TAR.F8090E375DA0#^s-6cd9a6383caaf82dd6782205|14]] dalių, [[latest/TAR.F8090E375DA0#^s-84b32842c570a263ef58e75e|93]] ir [[latest/TAR.F8090E375DA0#^s-bd95f82391bcc47f1619ba31|96]] straipsnių, [[latest/TAR.F8090E375DA0#^s-2b5685d78c04302c17325153|99]], [[latest/TAR.F8090E375DA0#^s-f4670bf1defe6d320ca28664|910]], [[latest/TAR.F8090E375DA0#^s-e505617795616aa4917fd552|911]] straipsnių, [[#^s-2d196829f0e1ae8914d07b53|10 straipsnio 1 dalies]], [[#^s-5312d28806f9f3df583d8a2d|12 straipsnio]] [[#^s-f671aa41193c186d740c8de7|1]], [[latest/TAR.F8090E375DA0#^s-9fff144ef0966c3c2867d8ee|3]], [[latest/TAR.F8090E375DA0#^s-a6d0e1d59b6c46f4d956578f|4]] ir [[latest/TAR.F8090E375DA0#^s-642c90df5ab229546e3921d8|5]] dalių, [[#^s-d3989e230debcda5dce309c1|13 straipsnio]], [[latest/TAR.F8090E375DA0#^s-c6b32810d62767c6bef1b62c|14 straipsnio 1 dalies]], [[latest/TAR.F8090E375DA0#^s-d3a963d947a9d015a9233a7e|14 straipsnio 3 dalies]] [[latest/TAR.F8090E375DA0#^s-961ca305dc07f9ae37cf3ca4|1]], [[latest/TAR.F8090E375DA0#^s-94132e090af3299d2fb54cf5|2]], [[latest/TAR.F8090E375DA0#^s-739d83b238a7b33045748c77|3]], [[latest/TAR.F8090E375DA0#^s-dcea82a693c5c927d72b8f02|4]], [[latest/TAR.F8090E375DA0#^s-14fd29d73d1d2ddc1b1d653c|6]] ir [[latest/TAR.F8090E375DA0#^s-b589b033714c5bbb311d948b|8]] punktų, [[latest/TAR.F8090E375DA0#^s-48d82886d0f62cc8fbdc57a6|14 straipsnio]] [[latest/TAR.F8090E375DA0#^s-d109bcd366ca353f57362261|5]] ir [[latest/TAR.F8090E375DA0|8]] dalių, [[latest/TAR.F8090E375DA0#^s-e3b5b76699807d82a7494078|141 straipsnio]] [[latest/TAR.F8090E375DA0#^s-ad764a1ab713a581c46a93de|1]], [[latest/TAR.F8090E375DA0#^s-4f8cdd33ce0f34f685b59bdd|2]], [[latest/TAR.F8090E375DA0#^s-433a51729c852a13e013d4d6|3]], [[latest/TAR.F8090E375DA0#^s-06a669dd740fc0c143b3940d|4]] dalių, [[latest/TAR.F8090E375DA0#^s-9b4035644d474526c1b9603e|15]] ir [[latest/TAR.F8090E375DA0#^s-7707541fd36c052f1cc89baf|16]] straipsnių, [[latest/TAR.F8090E375DA0|161 straipsnio 1 dalies]], [[latest/TAR.F8090E375DA0#^s-4be30068b8dad69a869f7441|162 straipsnio]], [[latest/TAR.F8090E375DA0#^s-f1e12a584c3bcb4f1fc0ed16|17 straipsnio]] [[latest/TAR.F8090E375DA0#^s-59fab15f84da3f5766f57f68|1]], [[latest/TAR.F8090E375DA0#^s-2c07ed55ed20b260ae6935af|4]] ir [[latest/TAR.F8090E375DA0#^s-4e3a9cc6bfc070ca6857a08f|5]] dalių, [[latest/TAR.F8090E375DA0#^s-704ed496f68fc8459beceddc|171]] ir [[latest/TAR.F8090E375DA0#^s-55de96862069d6e0bd01232e|18]] straipsnių, [[latest/TAR.F8090E375DA0#^s-7a174bd22826a037e13d2a46|19 straipsnio 1 dalies 5 punkto]] nuostatų pažeidimus;“.
 
 
 ### 13 straipsnis. Įstatymo įsigaliojimas, taikymas ir įgyvendinimas ^s-d3989e230debcda5dce309c1

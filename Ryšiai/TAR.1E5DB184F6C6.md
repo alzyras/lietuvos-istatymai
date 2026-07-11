@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D66F6A760DE7#^s-13510d89e2085b03de2c0e56|Lietuvos Respublikos Klaipėdos valstybinio jūrų uosto įstatymas]] - Įstatymas Nr. VIII-424
+_Nėra._

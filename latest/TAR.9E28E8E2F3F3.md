@@ -171,16 +171,16 @@ Turto arešto aktas (jo pakeitimas) išregistruojamas iš Turto arešto aktų re
 1) remiantis turto arešto aktą priėmusios institucijos, teismo sprendimo (nutarties) arba kitos institucijos ar pareigūno, turinčių teisę panaikinti turto areštą, sprendimo duomenimis; ^s-f402857941a34a275af79d38
 
 
-2) remiantis turto pardavimo (perdavimo išieškotojui) akto duomenimis, kai turtas parduotas (perduotas išieškotojui) Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka; ^s-646a124099d241b2583359c1
+2) remiantis turto pardavimo (perdavimo išieškotojui) akto duomenimis, kai turtas parduotas (perduotas išieškotojui) [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka; ^s-646a124099d241b2583359c1
 
 
-3) remiantis Lietuvos Respublikos civilinio proceso kodekso 150 straipsnio 3 dalyje numatytu antstolio pranešimu apie laikinųjų apsaugos priemonių taikymo pabaigą; ^s-4624eed305aa1e2cb88ed852
+3) remiantis [Lietuvos Respublikos civilinio proceso kodekso 150 straipsnio 3 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) numatytu antstolio pranešimu apie laikinųjų apsaugos priemonių taikymo pabaigą; ^s-4624eed305aa1e2cb88ed852
 
 
 4) pasibaigus turto arešto terminui; ^s-44db2a55a0cd7fe185f1624c
 
 
-5) Lietuvos Respublikos civilinio proceso kodekso 147 straipsnio 6 dalyje nustatytais atvejais; ^s-2d06710bd276ee722b353d1b
+5) [Lietuvos Respublikos civilinio proceso kodekso 147 straipsnio 6 dalyje](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatytais atvejais; ^s-2d06710bd276ee722b353d1b
 
 
 6) Lietuvos Respublikos civilinio kodekso 6.927 straipsnio 3 dalyje nustatytu atveju; ^s-4a9cf80af221d8a9d65603f6
@@ -195,7 +195,7 @@ Nr. XII-1895, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11086
 
 
 
-8) kai Turto arešto aktų registre įregistruotame turto arešto akte nurodytas areštuotas turtas yra netinkamai identifikuotas, nepateikti (pateikti ne visi) Turto arešto aktų registro nuostatuose nurodyti turtą identifikuojantys duomenys, nepateiktas turto registro suteiktas identifikavimo kodas (jeigu turtas registruotas viešame registre), išskyrus Lietuvos Respublikos civilinio proceso kodekse ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekse]] numatytus atvejus, kuriais išsamūs turtą identifikuojantys duomenys gali būti nenurodyti. ^s-253c09e15f3ce0e7f44025a9
+8) kai Turto arešto aktų registre įregistruotame turto arešto akte nurodytas areštuotas turtas yra netinkamai identifikuotas, nepateikti (pateikti ne visi) Turto arešto aktų registro nuostatuose nurodyti turtą identifikuojantys duomenys, nepateiktas turto registro suteiktas identifikavimo kodas (jeigu turtas registruotas viešame registre), išskyrus [Lietuvos Respublikos civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir [[latest/TAR.EC588C321777|Lietuvos Respublikos baudžiamojo proceso kodekse]] numatytus atvejus, kuriais išsamūs turtą identifikuojantys duomenys gali būti nenurodyti. ^s-253c09e15f3ce0e7f44025a9
 Papildyta straipsnio punktu:
 Nr. XII-1895, 2015-06-25, paskelbta TAR 2015-07-07, i. k. 2015-11086
 
@@ -244,7 +244,7 @@ Pranešimas apie turto arešto akto įregistravimą, pakeitimą ir išregistravi
 1. Turto arešto aktų registro duomenų perdavimo tvarka nustatyta Turto arešto aktų registro nuostatuose. ^s-989a5ba02793ff3e600be9bf
 
 
-2. Turto arešto aktų registro duomenys teikiami už atlyginimą, kurio dydis nustatomas Lietuvos Respublikos Vyriausybės nustatyta tvarka. Neatlygintinai turto arešto aktų registro duomenys teikiami Lietuvos Respublikos valstybės registrų įstatyme ir Turto arešto aktų registro nuostatuose nustatytais atvejais, taip pat viešojo administravimo subjektams – jų tiesioginėms funkcijoms atlikti. ^s-a782474d3a842b034dd7496e
+2. Turto arešto aktų registro duomenys teikiami už atlyginimą, kurio dydis nustatomas Lietuvos Respublikos Vyriausybės nustatyta tvarka. Neatlygintinai turto arešto aktų registro duomenys teikiami [Lietuvos Respublikos valstybės registrų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296) ir Turto arešto aktų registro nuostatuose nustatytais atvejais, taip pat viešojo administravimo subjektams – jų tiesioginėms funkcijoms atlikti. ^s-a782474d3a842b034dd7496e
 
 
 
@@ -347,4 +347,4 @@ Lietuvos Respublikos turto arešto aktų registro įstatymo Nr. VIII-1375 [[#^s-
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2549, 2016-06-30, paskelbta TAR 2016-07-07, i. k. 2016-19355
-Lietuvos Respublikos turto arešto aktų registro įstatymo Nr. VIII-1375 2, 7, 8, 9, 11, 14, 15 ir [[#^s-80c22cdac7d69de42cc7c628|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos turto arešto aktų registro įstatymo Nr. VIII-1375 [[#^s-6c84e55ad0214f41629f2e52|2]], [[#^s-60282d06743c1ea5d14fbba4|7]], [[#^s-9d4d3ab89d2a62d05d80c666|8]], [[#^s-26e200c0780a9717639e754b|9]], [[#^s-ff02c4fc0ea74593589cfa7d|11]], [[#^s-61147829ae2857c7c76cd1d9|14]], [[#^s-50699f0c86c5783093205c01|15]] ir [[#^s-80c22cdac7d69de42cc7c628|16]] straipsnių pakeitimo įstatymas

@@ -48,7 +48,7 @@ priima šį įstatymą.
 ### 1 straipsnis. Konvencijų ir protokolų ratifikavimas ^s-745597ba82f1f6736a84f269
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. kovo 23 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1949 metų Ženevos konvencijas dėl karo aukų apsaugos ir jų 1977 metų papildomus protokolus“, ratifikuoja:
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. kovo 23 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1949 metų Ženevos konvencijas dėl karo aukų apsaugos ir jų 1977 metų papildomus protokolus“](https://e-tar.lt/portal/lt/legalAct/TAR.741E1FC42ED7), ratifikuoja:
 
 
 1) 1949 m. rugpjūčio 12 d. Ženevos konvenciją dėl sužeistųjų ir ligonių padėties veikiančiose armijose pagerinimo; ^s-677c46d2b6865e0f1301adfd

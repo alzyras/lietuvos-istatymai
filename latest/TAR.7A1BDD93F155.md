@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Įstatų ir Konvencijos pakeitimo aktų ratifikavimas ^s-fe0304ce181ccc3c3f40df0b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. rugpjūčio 28 d. dekretą Nr. 1K-1187, ratifikuoja 2010 m. spalio 22 d. Gvadalacharoje priimtus Tarptautinės telekomunikacijų sąjungos įstatų ir Tarptautinės telekomunikacijų sąjungos konvencijos pakeitimo aktus.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. rugpjūčio 28 d. dekretą Nr. 1K-1187](https://e-tar.lt/portal/lt/legalAct/TAR.15BA933997CC), ratifikuoja 2010 m. spalio 22 d. Gvadalacharoje priimtus Tarptautinės telekomunikacijų sąjungos įstatų ir Tarptautinės telekomunikacijų sąjungos konvencijos pakeitimo aktus.
 
 
 

@@ -76,7 +76,7 @@ Lietuvos Respublikos ūkinis teismas likviduojamas ir jo veikla nutraukiama 1998
 3) pradėtas nagrinėti bylas teisėjai nagrinėja iki 1998 m. liepos 1 d. Visos nebaigtos nagrinėti bylos po 1998 m. liepos 1 d. perduodamos teismams pagal teismingumą. ^s-f011d1ad007809092c8eacd3
 
 
-2. Skundai dėl Lietuvos Respublikos ūkinio teismo sprendimų ir nutarčių po 1998 m. rugsėjo 1 d. paduodami Civilinio proceso kodekso nustatyta tvarka. ^s-c0dcbf9e1dfd0a948bcc475c
+2. Skundai dėl Lietuvos Respublikos ūkinio teismo sprendimų ir nutarčių po 1998 m. rugsėjo 1 d. paduodami [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-c0dcbf9e1dfd0a948bcc475c
 
 
 
@@ -89,7 +89,7 @@ Pripažinti netekusiais galios nuo 1998 m. rugsėjo 1 d.:
 1) Lietuvos Respublikos ūkinio teismo laikinąjį įstatymą (Žin., 1994, Nr. 30-534); ^s-75b1c70b10fbf66a15399a07
 
 
-2) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos ūkinio teismo laikinojo įstatymo pakeitimo“ (Žin., 1995, Nr. 34-815); ^s-07f424297d2463149ea44a0c
+2) Lietuvos Respublikos įstatymą [„Dėl Lietuvos Respublikos ūkinio teismo laikinojo įstatymo pakeitimo“](https://e-tar.lt/portal/lt/legalAct/TAR.4370607713D1) (Žin., 1995, Nr. 34-815); ^s-07f424297d2463149ea44a0c
 
 
 3) Lietuvos Respublikos ūkinio teismo laikinojo įstatymo 7 straipsnio pakeitimo įstatymą (Žin., 1996, Nr. 68-1639). ^s-4c5f61897961c197c912cb78

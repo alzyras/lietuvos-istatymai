@@ -42,7 +42,7 @@ Vilnius
 1. [[#^s-c5a0e599f87e7f371044e9e6|2 straipsnio 1 dalį]] pripažinti netekusia galios. ^s-4b201ee95aa88a7e7bdc7ae0
 
 
-2. Buvusias [[#^s-77d3b41cca7822b104aa4206|2 straipsnio]] 2, 3, 4, 5, 6, 7 ir 8 dalis laikyti atitinkamai 1, 2, 3, 4, 5, 6 ir 7 dalimis. ^s-12c9ff4d14b51152542efab6
+2. Buvusias [[#^s-77d3b41cca7822b104aa4206|2 straipsnio]] [[#^s-73c810b3e2f26ef3ef740944|2]], 3, 4, 5, 6, 7 ir 8 dalis laikyti atitinkamai [[#^s-c5a0e599f87e7f371044e9e6|1]], [[#^s-73c810b3e2f26ef3ef740944|2]], 3, 4, 5, 6 ir 7 dalimis. ^s-12c9ff4d14b51152542efab6
 
 
 3. 2 straipsnio 7 dalyje vietoj žodžių „iniciatyvos (planas)“ įrašyti žodį „programa“ ir šią dalį išdėstyti taip: ^s-fe510e7f0a4140ed7c1a633c
@@ -163,7 +163,7 @@ Pakeisti [[#^s-8217c7c4b10560d6dd151701|9 straipsnį]] ir jį išdėstyti taip:
 ### 8 straipsnis. 10 straipsnio papildymas ir pakeitimas ^s-2f9f376e82406ad4088ff21a
 
 
-Papildyti [[#^s-ed853da9bd61e5a2ff325566|10 straipsnį]] nauju [[#^s-f98e3b9aaaaf21a10e96bf8b|4 punktu]], buvusius 4, 5, [[#^s-6b5b4164f855a7c35db39409|6 punktus]] laikyti atitinkamai 5, 6,[[#^s-7ba5c8272d871899ba4c1305|7 punktais]], 5 ir [[#^s-6b5b4164f855a7c35db39409|6 punktus]] pakeisti ir visą straipsnį išdėstyti taip:
+Papildyti [[#^s-ed853da9bd61e5a2ff325566|10 straipsnį]] nauju [[#^s-f98e3b9aaaaf21a10e96bf8b|4 punktu]], buvusius 4, 5, 6 punktus laikyti atitinkamai 5, 6,7 punktais, 5 ir 6 punktus pakeisti ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-ed853da9bd61e5a2ff325566|10 straipsnis]].     Vyriausybės įgaliojimai nustatant ir įgyvendinant nacionalinę regioninę politiką

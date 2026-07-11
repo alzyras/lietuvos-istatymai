@@ -184,7 +184,7 @@ BENDROsios nuostatos
 2. Savivaldybės įmonę sprendimu steigia savivaldybės taryba. ^s-33b31befa55bc371816eb8a7
 
 
-3. Šio straipsnio 1 ir [[#^s-33b31befa55bc371816eb8a7|2 dalyse]] nurodytuose teisės aktuose, kuriais steigiama įmonė, be kita ko, turi būti nurodyta: ^s-f44dccb0daace4b92f8631c2
+3. Šio straipsnio [[#^s-b171bb51e79335684ec3a234|1]] ir [[#^s-33b31befa55bc371816eb8a7|2]] dalyse nurodytuose teisės aktuose, kuriais steigiama įmonė, be kita ko, turi būti nurodyta: ^s-f44dccb0daace4b92f8631c2
 
 
 1) įmonės pavadinimas; ^s-2be2fab3cfd3dd758864175b

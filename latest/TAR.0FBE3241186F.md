@@ -140,7 +140,7 @@ Antrąją ir trečiąją dalis atitinkamai laikyti trečiąją ir ketvirtąja da
 ### 8 straipsnis.         Lietuvos Respublikos teismų įstatymo 22, 221, 33, 34, 35, 56, 59 straipsnių pakeitimo ir papildymo įstatymo 1 ir 2 straipsnių įsigaliojimo tvarka ^s-6175d2ede91ff990bb395c34
 
 
-Šio įstatymo 1 ir [[#^s-afaca0b0617a4a977a4489c6|2 straipsniai]] įsigalioja nuo 1996 m. rugsėjo 1 d.
+Šio įstatymo [[#^s-574adfdadf75b3681a0e01d1|1]] ir [[#^s-afaca0b0617a4a977a4489c6|2]] straipsniai įsigalioja nuo 1996 m. rugsėjo 1 d.
 
 
 Teisingumo ministerija iki 1996 m. rugsėjo 1 d. nustato kandidatų į apylinkės teismo teisėjus priėmimo bei praktikos atlikimo tvarką, taip pat jų įgaliojimus.

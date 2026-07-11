@@ -92,7 +92,7 @@ Pakeisti [[#^s-e7141697d8ae19785222da80|5 straipsnį]] ir jį išdėstyti taip:
 2. Savivaldybės visuomeninės administracinių ginčų komisijos nesprendžia: ^s-02dc44f7a7a4507daa51b116
 
 
-1) [[latest/TAR.67B5099C5848#^s-39c9f5005208c00cfce0baa0|Administracinių bylų teisenos įstatymo 16 straipsnyje]], 18 straipsnio 2 ir 3 dalyse, 19 straipsnyje ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų; ^s-79c30ecf787fc7414df2aaa2
+1) [[latest/TAR.67B5099C5848#^s-d7a61be4c157c40c46fcfbf2|Administracinių bylų teisenos įstatymo 16 straipsnyje, 18 straipsnio]] [[latest/TAR.67B5099C5848#^s-a19e53e531224f52e6265358|2]] ir [[latest/TAR.67B5099C5848|3]] dalyse, 19 straipsnyje ir 20 straipsnio 1 dalyje nurodytų ginčų (bylų), taip pat mokesčių bylų; ^s-79c30ecf787fc7414df2aaa2
 
 
 2) administracinių ginčų, kuriems nagrinėti įstatymuose numatyta kitokia tvarka.“ ^s-35e61b99fad15bbcd4c0d104

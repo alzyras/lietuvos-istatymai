@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-12fbb44ac7850dfe891aea8e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2008 m. gruodžio 2 d. dekretą Nr. 1K-1623, ratifikuoja 2008 m. gegužės 15 d. Biškeke sudarytą Lietuvos Respublikos Vyriausybės ir Kirgizijos Respublikos Vyriausybės susitarimą dėl investicijų skatinimo ir apsaugos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2008 m. gruodžio 2 d. dekretą Nr. 1K-1623](https://e-tar.lt/portal/lt/legalAct/TAR.0DD9D887821B), ratifikuoja 2008 m. gegužės 15 d. Biškeke sudarytą Lietuvos Respublikos Vyriausybės ir Kirgizijos Respublikos Vyriausybės susitarimą dėl investicijų skatinimo ir apsaugos.
 
 
 

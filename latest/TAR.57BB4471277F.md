@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ir jo Papildomo protokolo ratifikavimas ^s-1a7ebe84b664446d5c4b6e6e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. birželio 18 d. dekretą Nr. 1807, ratifikuoja Susitarimą dėl laikinojo, importo muitais neapmokestinamo, medicinos, chirurgijos ir laboratorinės įrangos, skirtos be atlygio skolintinai naudoti ligoninėse ir kitose medicinos įstaigose diagnostikai ar gydymui, įvežimo ir šio Susitarimo Papildomą protokolą, priimtus atitinkamai 1960 m. balandžio 28 d. ir 1982 m. rugsėjo 29 d.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. birželio 18 d. dekretą Nr. 1807](https://e-tar.lt/portal/lt/legalAct/TAR.592D00970B7C), ratifikuoja Susitarimą dėl laikinojo, importo muitais neapmokestinamo, medicinos, chirurgijos ir laboratorinės įrangos, skirtos be atlygio skolintinai naudoti ligoninėse ir kitose medicinos įstaigose diagnostikai ar gydymui, įvežimo ir šio Susitarimo Papildomą protokolą, priimtus atitinkamai 1960 m. balandžio 28 d. ir 1982 m. rugsėjo 29 d.
 
 
 

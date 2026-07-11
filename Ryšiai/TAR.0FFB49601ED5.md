@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.74D8B260CB90#^s-5f894ab5bd6b3883de2fadb6|Lietuvos Respublikos Šventosios jūrų uosto įstatymas]] - 3 citatos - 1101010ISTA0XI-1218
-- [[latest/TAR.74D8B260CB90#^s-80837144bf5d489a1e96c437|Lietuvos Respublikos Šventosios jūrų uosto įstatymas]] - 3 citatos - 1101010ISTA0XI-1218
+- [[latest/TAR.74D8B260CB90#^s-5f894ab5bd6b3883de2fadb6|Lietuvos Respublikos Šventosios jūrų uosto įstatymas]] - 2 citatos - 1101010ISTA0XI-1218

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-8f8f8c298fb29438e6ba13ae
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 4 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. sausio 13 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tolesnį papildomą protokolą prie NATO valstybių ir Partnerystės taikos labui programoje dalyvaujančių kitų valstybių susitarimo dėl jų karinių pajėgų statuso“, ratifikuoja Tolesnį papildomą protokolą prie NATO valstybių ir Partnerystės taikos labui programoje dalyvaujančių kitų valstybių susitarimo dėl jų karinių pajėgų statuso, pasirašytą 1997 m. gruodžio 19 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 4 punktu bei atsižvelgdamas į Respublikos Prezidento 2000 m. sausio 13 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tolesnį papildomą protokolą prie NATO valstybių ir Partnerystės taikos labui programoje dalyvaujančių kitų valstybių susitarimo dėl jų karinių pajėgų statuso“](https://e-tar.lt/portal/lt/legalAct/TAR.BF54FDBCD027), ratifikuoja Tolesnį papildomą protokolą prie NATO valstybių ir Partnerystės taikos labui programoje dalyvaujančių kitų valstybių susitarimo dėl jų karinių pajėgų statuso, pasirašytą 1997 m. gruodžio 19 d. Briuselyje.
 
 
 

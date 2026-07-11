@@ -13,4 +13,4 @@ pavadinimas: "Dėl Lietuvos Respublikos vietos savivaldos įstatymo papildymo"
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - 2 citatos - DĖL LIETUVOS RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO PAPILDYMO
+- [[latest/TAR.D0CD0966D67F#^s-d8f05fb142adef384849084c|Lietuvos Respublikos vietos savivaldos įstatymas]] - DĖL LIETUVOS RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO PAPILDYMO

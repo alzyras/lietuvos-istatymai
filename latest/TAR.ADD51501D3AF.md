@@ -101,7 +101,7 @@ MENO KŪRĖJO IR MENO KŪRĖJŲ ORGANIZACIJOS STATUSO SUTEIKIMO IR PANAIKINIMO P
 4) asmens meno kūrinių yra įsigiję Lietuvos arba užsienio valstybių nacionaliniai muziejai ar galerijos; ^s-5600d31841c921e0dc27d529
 
 
-5) asmeniui už meno kūrybą, atitinkančią šio straipsnio 1 dalies 1–[[#^s-5600d31841c921e0dc27d529|4 punktuose]] nustatytus pripažinimo pagrindus, ar už meno kūrybą vertinančius straipsnius, recenzijas, paskelbtus Lietuvos ar užsienio valstybių meno leidiniuose, ir už tiriamąją (mokslinę) veiklą atitinkamoje meno srityje suteiktas daktaro, habilituoto daktaro vardas; ^s-33095ab055496dcda73ef677
+5) asmeniui už meno kūrybą, atitinkančią šio straipsnio 1 dalies [[#^s-ebe2b08569f0cca3c4ad7294|1]]–[[#^s-5600d31841c921e0dc27d529|4]] punktuose nustatytus pripažinimo pagrindus, ar už meno kūrybą vertinančius straipsnius, recenzijas, paskelbtus Lietuvos ar užsienio valstybių meno leidiniuose, ir už tiriamąją (mokslinę) veiklą atitinkamoje meno srityje suteiktas daktaro, habilituoto daktaro vardas; ^s-33095ab055496dcda73ef677
 
 
 6) asmeniui, aukštųjų mokyklų meno studijų dėstytojui, už meno kūrybą ir pedagoginę veiklą suteiktas pedagoginis profesoriaus ir (ar) docento vardas. ^s-2a5ab9b44e4cdfb25344b997
@@ -329,7 +329,7 @@ MENO KŪRĖJŲ IR MENO KŪRĖJŲ ORGANIZACIJŲ KŪRYBINĖS VEIKLOS SKATINIMAS
 ### 4 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-bbe021d4f95871e315d066cb
 
 
-Įsigaliojus šiam įstatymui, netenka galios Lietuvos Respublikos meno kūrėjų ir jų organizacijų įstatymo įgyvendinimo įstatymas (Žin., 1996, Nr. 84-2004).
+Įsigaliojus šiam įstatymui, netenka galios [Lietuvos Respublikos meno kūrėjų ir jų organizacijų įstatymo įgyvendinimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.6EDF6085BE11) (Žin., 1996, Nr. 84-2004).
 
 
 

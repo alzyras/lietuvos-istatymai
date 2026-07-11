@@ -224,7 +224,7 @@ Jeigu aplinkai kenksmingą veiklą vykdo juridinis asmuo, kuriam yra išduotas t
 1. Papildyti Įstatymo priedą 4 punktu: ^s-bc2fd3cfc281da248fa580d0
 
 
-„4. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1221/2009 dėl organizacijų savanoriško Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) taikymo, panaikinantis Reglamentą (EB) Nr. 761/2001 ir Komisijos sprendimus 2001/681/EB bei 2006/193/EB (OL 2009 L 342, p. 1).“
+„4. 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1221/2009](https://eur-lex.europa.eu/eli/reg/1221/2009/oj) dėl organizacijų savanoriško Bendrijos aplinkosaugos vadybos ir audito sistemos (EMAS) taikymo, panaikinantis Reglamentą (EB) Nr. 761/2001 ir Komisijos sprendimus 2001/681/EB bei 2006/193/EB (OL 2009 L 342, p. 1).“
 
 
 2. Papildyti Įstatymo priedą 5 punktu: ^s-c6ed8f07ccb6329f34d2a536

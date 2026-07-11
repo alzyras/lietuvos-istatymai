@@ -15,4 +15,4 @@ _Nėra._
 
 - [[latest/TAR.0B0253BB424C#^s-4504bd983d216cbd9e1b1cf1|Lietuvos Respublikos valstybinės kalbos įstatymas]] - 1021010ISTA00IX-954
 - [[latest/TAR.0B0253BB424C#^s-651c7a4344019c479ebf682b|Lietuvos Respublikos valstybinės kalbos įstatymas]] - 1021010ISTA00IX-954
-- [[latest/TAR.0B0253BB424C#^s-8464dc452475a3d84dd4d533|Lietuvos Respublikos valstybinės kalbos įstatymas]] - 3 citatos - 1021010ISTA00IX-954
+- [[latest/TAR.0B0253BB424C#^s-8464dc452475a3d84dd4d533|Lietuvos Respublikos valstybinės kalbos įstatymas]] - 2 citatos - 1021010ISTA00IX-954

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-6a9af79e1bd97ac31403a721
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. birželio 23 d. dekretą Nr. 116, ratifikuoja 2004 m. balandžio 2 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Azerbaidžano Respublikos Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas [2004 m. birželio 23 d. dekretą Nr. 116](https://e-tar.lt/portal/lt/legalAct/TAR.5869C11EED51), ratifikuoja 2004 m. balandžio 2 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Azerbaidžano Respublikos Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
 
 
 

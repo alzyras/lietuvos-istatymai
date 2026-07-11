@@ -216,7 +216,7 @@ Nuosavybės teisių į žemę atkūrimo ją grąžinant, perduodant ar suteikian
 9) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai kitiems [[#^s-f6af94dd9bd0fa80e2c57567|šio straipsnio 1 dalies 8 punkte]] nenurodytiems piliečiams, kurių turėti žemė, miškas, vandens telkiniai pagal Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymą priskirti valstybės išperkamiems arba kurių turėtas miškas ar vandens telkiniai neišliko; suteikiami nuosavybėn neatlygintinai piliečiams, kurių šeimos po 1939 metų buvo įkeldintos į Lietuvos Respublikos teritoriją iš nuosavybės teise turėtų ūkių Lenkijos ir Vokietijos tuometinėse teritorijose, – tokio pat ploto žemės sklypai, kokius nuosavybės teise jie turėjo Lenkijos ir Vokietijos teritorijose, išskaičius tą žemės sklypo plotą, kurį jie gavo pagal [[#^s-ff9290af1697b4d6e2fc3354|šio straipsnio 1 dalies 2 punktą]]; ^s-4d1e13dc4fe42cd78a26fd2e
 
 
-10) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai kitiems [[#^s-b22edc89ab4b6eb4d0257636|šio straipsnio 1 dalies]] 8 ir [[#^s-4d1e13dc4fe42cd78a26fd2e|9 punktuose]] nenurodytiems piliečiams; ^s-36fa1b7d25adebe786edda4d
+10) perduodami nuosavybėn neatlygintinai lygiaverčiai turėtiesiems žemės sklypai, miškas ir vandens telkiniai kitiems [[#^s-b22edc89ab4b6eb4d0257636|šio straipsnio 1 dalies]] [[#^s-f6af94dd9bd0fa80e2c57567|8]] ir [[#^s-4d1e13dc4fe42cd78a26fd2e|9]] punktuose nenurodytiems piliečiams; ^s-36fa1b7d25adebe786edda4d
 
 
 11) parduodama žemės ūkio veiklai žemė piliečiams, kurie įsigijo nuosavybėn gamybinius pastatus iš buvusių žemės ūkio įmonių; ^s-9dc0eab3dbf1814644d1b697
@@ -389,7 +389,7 @@ Miškai ir vandens telkiniai neprivatizuojami, jeigu jie priskirti:
 1. Sprendimus dėl žemės įsigijimo piliečiai gali apskųsti teismui. ^s-0acba82f409f593d23c998fa
 
 
-2. Skundus dėl žemės reformos metu suformuotų žemėnaudų tinkamumo bei žemės privatizavimui ir nuomai parengtų dokumentų atitikimo įstatymų ir kitų teisės aktų reikalavimams nagrinėja apskričių viršininkai ir Žemės ir miškų ūkio ministerija. Žemės ir miškų ūkio ministerija nenagrinėja apskrities viršininko neapsvarstytų piliečių prašymų ir skundų. ^s-109016b02179d7698413563b
+2. Skundus [dėl žemės reformos](https://e-tar.lt/portal/lt/legalAct/TAR.62EE63EA96AB) metu suformuotų žemėnaudų tinkamumo bei žemės privatizavimui ir nuomai parengtų dokumentų atitikimo įstatymų ir kitų teisės aktų reikalavimams nagrinėja apskričių viršininkai ir Žemės ir miškų ūkio ministerija. Žemės ir miškų ūkio ministerija nenagrinėja apskrities viršininko neapsvarstytų piliečių prašymų ir skundų. ^s-109016b02179d7698413563b
 
 
 3. Jeigu institucijos, atliekančios žemės reformos kontrolę, nustato, kad sprendimai dėl nuosavybės teisių į žemę atkūrimo ar žemės įsigijimo priimti pažeidžiant įstatymų nustatytą tvarką, sprendimą priėmusios ar žemės reformą kontroliuojančios institucijos privalo inicijuoti priimto sprendimo panaikinimą teismine tvarka. ^s-ffce485090f1e142893dcd11
@@ -428,7 +428,7 @@ Miškai ir vandens telkiniai neprivatizuojami, jeigu jie priskirti:
 8. Pasiūlymus apskrities viršininkui dėl žemės servitutų miestų teritorijose nustatymo ir jų naudojimo sąlygų pagal teritorijų planavimo dokumentus teikia miestų (rajonų) merai. ^s-3f59c5f270b2c8825b0d6a62
 
 
-9. Apskrities viršininkas, priimdamas sprendimą dėl žemės grąžinimo, perdavimo arba suteikimo neatlygintinai, pardavimo ir nuomos, jame nurodo žemės servitutus ir jų naudojimo sąlygas. ^s-ee1feb00999160dd4a3ae2aa
+9. Apskrities viršininkas, priimdamas sprendimą [dėl žemės grąžinimo](https://e-tar.lt/portal/lt/legalAct/TAR.58B85D001B03), perdavimo arba suteikimo neatlygintinai, pardavimo ir nuomos, jame nurodo žemės servitutus ir jų naudojimo sąlygas. ^s-ee1feb00999160dd4a3ae2aa
 
 
 

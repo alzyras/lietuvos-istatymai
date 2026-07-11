@@ -373,7 +373,7 @@ Jeigu Lietuvos Respublikos tarptautinės sutartys dėl karinių pajėgų statuso
 ### 16 straipsnis. Įstatymo 5 straipsnio įsigaliojimas ^s-9a0a7fbbb2ff704f433fa606
 
 
-Šio Įstatymo [[#^s-8ccd56b371cdd60113009f02|5 straipsnis]] įsigalios tą pačią dieną, kai Lietuvos Respublikai įsigalios Šiaurės Atlanto sutartis.“
+Šio Įstatymo [[#^s-8ccd56b371cdd60113009f02|5 straipsnis]] įsigalios tą pačią dieną, kai Lietuvos Respublikai įsigalios [Šiaurės Atlanto sutartis](https://e-tar.lt/portal/lt/legalAct/TAR.7FCEE85BF1FD).“
 
 
 

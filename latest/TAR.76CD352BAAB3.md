@@ -55,7 +55,7 @@ Vilnius
 2. 11 straipsnio 2 dalį pripažinti netekusia galios. ^s-af1c2f821f7dd88a80ed7c47
 
 
-3. Buvusias 11 straipsnio 3, 4 dalis laikyti atitinkamai 2, [[#^s-ccbe45f2da2564d03458740c|3 dalimis]]. ^s-ccbe45f2da2564d03458740c
+3. Buvusias 11 straipsnio 3, 4 dalis laikyti atitinkamai 2, 3 dalimis. ^s-ccbe45f2da2564d03458740c
 
 
 

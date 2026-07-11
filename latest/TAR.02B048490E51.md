@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-7bf7962c21509d3742277160
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2002 m. vasario 28 d. dekretą Nr. 1684, ratifikuoja 1952 m. Tarptautinę konvenciją dėl kai kurių taisyklių, susijusių su jūrų laivų areštu, suvienodinimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2002 m. vasario 28 d. dekretą Nr. 1684](https://e-tar.lt/portal/lt/legalAct/TAR.8A2C29E1311D), ratifikuoja 1952 m. Tarptautinę konvenciją dėl kai kurių taisyklių, susijusių su jūrų laivų areštu, suvienodinimo.
 
 
 

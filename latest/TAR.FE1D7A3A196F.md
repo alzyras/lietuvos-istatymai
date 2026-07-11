@@ -43,7 +43,7 @@ Vartotojų kooperacijos kooperatinei bendrovei (kooperatyvui) išstojus iš sąj
 ### 2 straipsnis. ^s-1fa150be23d6fadd73240bc7
 
 
-Vartotojų kooperacijos kooperatinės bendrovės (kooperatyvai) ir jų sąjungos negali perduoti kaip turtinių įnašų į įmones, steigiamas su ne vartotojų kooperacijos subjektais, ilgalaikio nekilnojamojo turto, kurio vertė, indeksuota Lietuvos Respublikos Vyriausybės 1994 m. kovo 28 d. nutarime Nr. 206 nurodytais koeficientais, yra didesnė kaip 100 tūkst. litų, be Lietuvos vartotojų kooperatyvų sąjungos valdybos sutikimo.
+Vartotojų kooperacijos kooperatinės bendrovės (kooperatyvai) ir jų sąjungos negali perduoti kaip turtinių įnašų į įmones, steigiamas su ne vartotojų kooperacijos subjektais, ilgalaikio nekilnojamojo turto, kurio vertė, indeksuota Lietuvos Respublikos Vyriausybės [1994 m. kovo 28 d. nutarime Nr. 206](https://e-tar.lt/portal/lt/legalAct/TAR.42735CD71FAE) nurodytais koeficientais, yra didesnė kaip 100 tūkst. litų, be Lietuvos vartotojų kooperatyvų sąjungos valdybos sutikimo.
 
 
 

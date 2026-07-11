@@ -241,7 +241,7 @@ KREDITO UNIJŲ VEIKLA, KREDITO UNIJOS TEISĖS IR PAREIGOS
 ### 10 straipsnis. Indėlių draudimas ir kitos indėlių saugumo garantijos ^s-ee93d4d63813fa91a32eb9a9
 
 
-1. Gyventojų indėliai kredito unijose yra privalomai draudžiami Lietuvos Respublikos gyventojų indėlių [[latest/TAR.8447F63760E9|draudimo įstatymo]] nustatyta tvarka. ^s-828e27ce0bd64ca70bac8ef7
+1. Gyventojų indėliai kredito unijose yra privalomai draudžiami [Lietuvos Respublikos gyventojų indėlių draudimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.172F280D69BC) nustatyta tvarka. ^s-828e27ce0bd64ca70bac8ef7
 
 
 2. Indėlių saugumo garantija taip pat yra kredito unijų narystė Centrinėje kredito unijoje, kuri atlieka savo narių kredito unijų likvidumo palaikymo ir sutrikusio mokumo atkūrimo funkcijas. ^s-48be5ee9b905c53505ea6aa8
@@ -510,7 +510,7 @@ NARYSTĖ KREDITO UNIJOJE, NARIŲ TEISĖS IR PAREIGOS
 4. Asocijuotas narys privalo vykdyti visas kredito unijos nario pareigas bei prievoles ir gali naudotis visomis kredito unijos teikiamomis paslaugomis bei nario teisėmis, išskyrus teisę balsuoti, būti išrinktam į kredito unijos valdymo ir kontrolės organus. Kredito unijos įstatuose gali būti numatyta ir kitų asocijuoto nario teisių apribojimų: nustatytas maksimalus indėlis, kurį leidžiama priimti iš vieno asocijuoto nario, apribotas pajaus ir (ar) paskolos dydis, reglamentuota indėlio ir (ar) pajaus sugrąžinimo tvarka ir kita. ^s-905ba860e05a91160e0261ee
 
 
-5. Asocijuotų narių skaičius kredito unijoje negali viršyti narių, atitinkančių šio straipsnio 1 ir [[#^s-915ef355d633ba69dedfdf4e|2 dalyse]] nustatytus narystės kriterijus, skaičiaus. ^s-7d446be61428fec5c96b12b3
+5. Asocijuotų narių skaičius kredito unijoje negali viršyti narių, atitinkančių šio straipsnio [[#^s-61d601cd64f9414d4534aa6c|1]] ir [[#^s-915ef355d633ba69dedfdf4e|2]] dalyse nustatytus narystės kriterijus, skaičiaus. ^s-7d446be61428fec5c96b12b3
 
 
 6. Minimalus kredito unijos narių skaičius, neįskaitant asocijuotų narių, yra 50 narių, įskaitant steigėjus. Sumažėjus minimaliam kredito unijos narių skaičiui bent vienu, kredito unija tolesnei savo veiklai, kol vėl bus minimalus narių skaičius, turi gauti kredito unijos veiklos priežiūros institucijos leidimą. Priežiūros institucija, atsižvelgdama į tokios kredito unijos likvidumą, gali leisti jai veikti ne ilgiau kaip 3 mėnesius arba uždrausti tokios kredito unijos veiklą. ^s-66638ea9e940865030bd6e50
@@ -854,7 +854,7 @@ KREDITO UNIJOS VALDYMAS IR VEIKLOS KONTROLĖ
 3. Balsavimas visuotiniame narių susirinkime yra atviras. Slaptai balsuojama, jei to reikalauja ne mažiau kaip 1/[[#^s-944a3c3935dd73b23f6a820b|4 dalyvaujančių]] susirinkime kredito unijos narių. ^s-d686fa5c6b688aee27ea4acf
 
 
-4. Visuotinio narių susirinkimo nutarimai priimami paprasta balsų dauguma. Balsams pasiskirsčius po lygiai, lemiamą balsą turi susirinkimo pirmininkas. Šio įstatymo [[#^s-ad66dc174eee1949697fd5ac|27 straipsnio 2 dalies]] 1, 4, 6, 7, 14, 15 punktuose numatytais atvejais nutarimams priimti reikia 2/[[#^s-d686fa5c6b688aee27ea4acf|3 dalyvaujančiųjų]] visuotiniame narių susirinkime balsų. ^s-944a3c3935dd73b23f6a820b
+4. Visuotinio narių susirinkimo nutarimai priimami paprasta balsų dauguma. Balsams pasiskirsčius po lygiai, lemiamą balsą turi susirinkimo pirmininkas. Šio įstatymo [[#^s-ad66dc174eee1949697fd5ac|27 straipsnio 2 dalies]] [[#^s-3950e4300a52312be7075d9f|1]], [[#^s-78765e85713de802f0448996|4]], [[#^s-10c8a31be3541e68e2a82c55|6]], [[#^s-82ca1e45452a51358572e3f6|7]], [[#^s-c99bc488b3be1ef07a74bc09|14]], [[#^s-c1f35ec50bb92e1502cd8c43|15]] punktuose numatytais atvejais nutarimams priimti reikia 2/[[#^s-d686fa5c6b688aee27ea4acf|3 dalyvaujančiųjų]] visuotiniame narių susirinkime balsų. ^s-944a3c3935dd73b23f6a820b
 
 
 5. Visuotinio narių susirinkimo protokolą pasirašo susirinkimo pirmininkas, sekretorius ir nors vienas susirinkimo įgaliotas kredito unijos narys. Prie protokolo turi būti pridedamas susirinkimo dalyvių sąrašas ir, jeigu buvo balsuojama raštu, balsavimo biuleteniai, kurie turi būti saugomi iki kito visuotinio narių susirinkimo pabaigos. ^s-353bca9069ecdf11d2bb1bc1
@@ -1424,7 +1424,7 @@ KREDITO UNIJOS REORGANIZAVIMAS IR LIKVIDAVIMAS
 12. Apie kredito unijos reorganizavimą pranešama raštu kiekvienam jos nariui ir kredito unijos kreditoriui. ^s-d4ac31feb1cd501cc48b1b5c
 
 
-13. Po reorganizavimo veiksiančių kredito unijų įstatai registruojami po pirmo visuotinio narių susirinkimo. Reorganizuojamos kredito unijos įteisinamos, licencijuojamos ir registruojamos pagal šio įstatymo 14, 15 ir [[#^s-cfd9a386bc5b71eb6a626b54|16 straipsnius]]. ^s-deab77f15bcce068aa06fe0f
+13. Po reorganizavimo veiksiančių kredito unijų įstatai registruojami po pirmo visuotinio narių susirinkimo. Reorganizuojamos kredito unijos įteisinamos, licencijuojamos ir registruojamos pagal šio įstatymo [[#^s-fec6ee984febd195873217eb|14]], [[#^s-bb2aa3fc21192109871f9d81|15]] ir [[#^s-cfd9a386bc5b71eb6a626b54|16]] straipsnius. ^s-deab77f15bcce068aa06fe0f
 
 
 14. Reorganizavus kredito uniją, jos turtas pereina: ^s-1078742fe6725b70c528905e
@@ -1486,7 +1486,7 @@ KREDITO UNIJOS REORGANIZAVIMAS IR LIKVIDAVIMAS
 ### 50 straipsnis. Kredito unijos bankroto procedūra ^s-ccdca67b61b882d4a658fe74
 
 
-Kredito unijos bankroto bylos iškėlimo, teisminio nagrinėjimo ir likvidavimo dėl bankroto procedūra atliekama remiantis Lietuvos Respublikos komercinių [[latest/TAR.B6B636C7384A|bankų įstatymu]].
+Kredito unijos bankroto bylos iškėlimo, teisminio nagrinėjimo ir likvidavimo dėl bankroto procedūra atliekama remiantis [Lietuvos Respublikos komercinių bankų įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.A52415BA2085).
 
 
 

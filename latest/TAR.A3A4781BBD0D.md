@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 5 straipsnio pakeitimas ^s-04015c0e234462d178bf4084
 
 
-5 straipsnio 2 dalį pripažinti netekusia galios, buvusias 3, 4, 5, 6 dalis laikyti atitinkamai 2, 3, 4, [[#^s-b312fc820110d02be12bb5be|5 dalimis]] ir visą straipsnį išdėstyti taip:
+5 straipsnio 2 dalį pripažinti netekusia galios, buvusias 3, 4, 5, 6 dalis laikyti atitinkamai 2, 3, 4, 5 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „5 straipsnis. Šilumos ūkio politika

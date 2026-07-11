@@ -43,7 +43,7 @@ Vilnius
 4 straipsnio 4 dalyje vietoj žodžių „leidinyje „Valstybės žinios“ įrašyti žodžius „Teisės aktų registre“ ir šią dalį išdėstyti taip:
 
 
-„4. Sprendimai dėl prieštaravimo kitų tarptautinės teisės subjektų padarytoms išlygoms dėl Lietuvos Respublikos tarptautinių sutarčių priimami šio straipsnio 1, 2 ir 3 dalyse nustatyta tvarka, gavus Lietuvos Respublikos Seimo Užsienio reikalų komiteto išvadą, ir skelbiami Teisės aktų registre. Jeigu prieštaraujant išlygai dėl ratifikuotos Lietuvos Respublikos tarptautinės sutarties prieštaraujama ir šios sutarties įsigaliojimui tarp Lietuvos Respublikos ir išlygą padariusio tarptautinės teisės subjekto, sprendimą dėl prieštaravimo šio įstatymo 8 straipsnio 1 ir 2 dalyse nustatyta tvarka priima Lietuvos Respublikos Seimas.“
+„4. Sprendimai dėl prieštaravimo kitų tarptautinės teisės subjektų padarytoms išlygoms [dėl Lietuvos Respublikos tarptautinių sutarčių](https://e-tar.lt/portal/lt/legalAct/TAR.BC4A20CEA4A8) priimami šio straipsnio [1](https://e-tar.lt/portal/lt/legalAct/TAR.BC4A20CEA4A8), [2](https://e-tar.lt/portal/lt/legalAct/TAR.BC4A20CEA4A8) ir [3](https://e-tar.lt/portal/lt/legalAct/TAR.BC4A20CEA4A8) dalyse nustatyta tvarka, gavus Lietuvos Respublikos Seimo Užsienio reikalų komiteto išvadą, ir skelbiami Teisės aktų registre. Jeigu prieštaraujant išlygai dėl ratifikuotos Lietuvos Respublikos tarptautinės sutarties prieštaraujama ir šios sutarties įsigaliojimui tarp Lietuvos Respublikos ir išlygą padariusio tarptautinės teisės subjekto, sprendimą dėl prieštaravimo šio įstatymo 8 straipsnio 1 ir 2 dalyse nustatyta tvarka priima Lietuvos Respublikos Seimas.“
 
 
 

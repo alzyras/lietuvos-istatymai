@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-9419b7fcb1189526587b2a76
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. rugpjūčio 24 d. dekretą Nr. 722, ratifikuoja 2006 m. gegužės 17 d. Vilniuje ir 2006 m. gegužės 25 d. Redinge pasirašytą Lietuvos Respublikos ir Europos vidutinės trukmės orų prognozių centro bendradarbiavimo susitarimą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. rugpjūčio 24 d. dekretą Nr. 722](https://e-tar.lt/portal/lt/legalAct/TAR.5917328EA33F), ratifikuoja 2006 m. gegužės 17 d. Vilniuje ir 2006 m. gegužės 25 d. Redinge pasirašytą Lietuvos Respublikos ir Europos vidutinės trukmės orų prognozių centro bendradarbiavimo susitarimą.
 
 
 

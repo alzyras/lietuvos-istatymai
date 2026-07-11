@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-0b70ae3558576ea508320545
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 1 punktu ir atsižvelgdamas į Respublikos Prezidento 2010 m. vasario 12 d. dekretą Nr. 1K-299, ratifikuoja Lietuvos Respublikos Vyriausybės, Baltarusijos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimą dėl Lietuvos Respublikos, Baltarusijos Respublikos ir Lenkijos Respublikos valstybių sienų sankirtos, pasirašytą 2009 m. rugsėjo 16 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 1 punktu ir atsižvelgdamas į Respublikos Prezidento [2010 m. vasario 12 d. dekretą Nr. 1K-299](https://e-tar.lt/portal/lt/legalAct/TAR.014DF69EA220), ratifikuoja Lietuvos Respublikos Vyriausybės, Baltarusijos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės susitarimą dėl Lietuvos Respublikos, Baltarusijos Respublikos ir Lenkijos Respublikos valstybių sienų sankirtos, pasirašytą 2009 m. rugsėjo 16 d. Vilniuje.
 
 
 

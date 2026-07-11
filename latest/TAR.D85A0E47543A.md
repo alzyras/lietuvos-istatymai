@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-c553887e1053a673896fef0a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-4bc8872820546bc80e813288|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 2 dalimi]] bei atsižvelgdamas į Respublikos Prezidento 2000 m. lapkričio 14 d. dekretą Nr. 1081, ratifikuoja Lietuvos Respublikos Vyriausybės ir Kipro Respublikos Vyriausybės sutartį dėl prekybinės laivybos, pasirašytą 2000 m. vasario 15 d. Nikosijoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-4bc8872820546bc80e813288|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 2 dalimi]] bei atsižvelgdamas į Respublikos Prezidento [2000 m. lapkričio 14 d. dekretą Nr. 1081](https://e-tar.lt/portal/lt/legalAct/TAR.5B8BA2272CD4), ratifikuoja Lietuvos Respublikos Vyriausybės ir Kipro Respublikos Vyriausybės sutartį dėl prekybinės laivybos, pasirašytą 2000 m. vasario 15 d. Nikosijoje.
 
 
 

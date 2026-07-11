@@ -58,7 +58,7 @@ Valstybinį socialinį draudimą reglamentuoja šis, Valstybinio socialinio drau
 3 straipsnio 4 punkte vietoj žodžių „Gyventojų užimtumo“ įrašyti žodžius „Bedarbių rėmimo“, [[#^s-254e6ee9deccfe971b6025a2|5 punkte]] vietoj žodžio „gamyboje“ įrašyti žodį „darbe“ ir šiuos punktus išdėstyti taip:
 
 
-„4) draudimas nuo nedarbo, kai draudžiama bedarbio pašalpoms pagal Bedarbių rėmimo įstatymą. Iš šio draudimo lėšų taip pat kompensuojama už kitas nedarbo priemones, numatytas Bedarbių rėmimo įstatyme;
+„4) draudimas nuo nedarbo, kai draudžiama bedarbio pašalpoms pagal Bedarbių rėmimo įstatymą. Iš šio draudimo lėšų taip pat kompensuojama už kitas nedarbo priemones, numatytas [Bedarbių rėmimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.0B3E8942C5C4);
 
 
 5) draudimas nuo nelaimingų atsitikimų darbe, kai draudžiama pašalpoms suluošinimo darbe ir profesinių susirgimų atvejais ir kitoms išmokoms, numatytoms Draudimo nuo nelaimingų atsitikimų darbe įstatyme.“ ^s-254e6ee9deccfe971b6025a2
@@ -196,7 +196,7 @@ Drausdamas asmenis, išvardytus šio įstatymo 4 straipsnio 2 dalies 1 punkte, d
 Įmokos skaičiuojamos nuo kiekvienam apdraustajam apskaičiuoto atlyginimo už darbą. Atlyginimo suma, nuo kurios skaičiuojamos įmokos, negali būti mažesnė kaip kiekvieno kalendorinio mėnesio minimali mėnesinė alga. Nuo 1999 m. sausio 1 d. valstybinio socialinio draudimo įmokos mokamos skaičiuojant nuo apskaičiuoto atlyginimo sumos, neviršijančios trijų su puse Statistikos departamento skelbto užpraeito mėnesio Lietuvos Respublikos ūkio vidutinio mėnesinio darbo užmokesčio dydžio. Nuo 2000 m. sausio 1 d. valstybinio socialinio draudimo įmokos mokamos skaičiuojant nuo apskaičiuoto atlyginimo sumos, neviršijančios trijų Statistikos departamento skelbto užpraeito mėnesio Lietuvos Respublikos ūkio vidutinio mėnesinio darbo užmokesčio dydžių.
 
 
-Asmenys, išvardyti šio įstatymo 4 straipsnio 2 dalies 2 ir [[#^s-d5cfbda7884089f393a28a59|3 punktuose]], valstybinio socialinio draudimo įmokas moka patys:
+Asmenys, išvardyti šio įstatymo 4 straipsnio 2 dalies 2 ir 3 punktuose, valstybinio socialinio draudimo įmokas moka patys:
 
 
 1) individualių (personalinių) įmonių savininkai ir jiems Lietuvos Respublikos Vyriausybės nustatyta tvarka prilyginti savarankiškai dirbantys asmenys, išskyrus patentus įsigijusius asmenis, draudžiasi valstybinei socialinio draudimo pensijai. Šie asmenys moka įmokas, apskaičiuotas nuo jų deklaruojamų pajamų, bet ne mažesnių kaip kiekvieno kalendorinio mėnesio minimali mėnesinė alga; ^s-013d6a7cec80bd50b985059f
@@ -420,7 +420,7 @@ Valdybai vadovauja direktorius, kurį socialinės apsaugos ir darbo ministro tei
 3. Patentus įsigijusiems asmenims už laikotarpį iki šio įstatymo įsigaliojimo delspinigiai ir baudos už nesumokėtas privalomojo valstybinio socialinio draudimo įmokas neskaičiuojami. ^s-f160e973f1d2174e49dde225
 
 
-4. Valstybinio socialinio draudimo įstatymo 34 straipsnio 3 dalies nuostata dėl valstybinio socialinio draudimo įmokos dalies padengimo iš valstybės biudžeto įsigalioja nuo 2000 m. sausio 1 d. ^s-debfbc2e669e52ebc011ea3a
+4. [[latest/TAR.0F9036415DBD|Valstybinio socialinio draudimo įstatymo 34 straipsnio 3 dalies]] nuostata dėl valstybinio socialinio draudimo įmokos dalies padengimo iš valstybės biudžeto įsigalioja nuo 2000 m. sausio 1 d. ^s-debfbc2e669e52ebc011ea3a
 
 
 5. Ūkininkų bei jų šeimų narių socialinio draudimo už laikotarpį nuo 1995 m. sausio 1 d. iki 1999 m. gruodžio 31 d. stažas įskaitomas pagal faktiškai įmokėtas į Valstybinio socialinio draudimo fondo biudžetą sumas. ^s-574e65d2dc63a36906c060f7

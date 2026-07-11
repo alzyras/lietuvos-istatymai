@@ -125,16 +125,16 @@ Vilnius
 3) informacija, žymima slaptumo žyma „Konfidencialiai“, – 10 metų; ^s-9f9e7f8df6534e498ff3b824
 
 
-4) informacija, žymima slaptumo žyma „Riboto naudojimo“, – 5 metams.“ ^s-57cae64b78e7fd533b04323a
+4) informacija, žymima slaptumo žyma [„Riboto naudojimo“](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7), – 5 metams.“ ^s-57cae64b78e7fd533b04323a
 
 
-2. Papildyti [[#^s-57af65611fd5c8d41779dd62|8 straipsnį]] nauja [[#^s-6357062c7569aef794122cff|2 dalimi]]: ^s-6357062c7569aef794122cff
+2. Papildyti [[#^s-57af65611fd5c8d41779dd62|8 straipsnį]] nauja 2 dalimi: ^s-6357062c7569aef794122cff
 
 
 „2. Įslaptinta informacija, kurios atskleidimas gali sudaryti prielaidas kilti pavojui žmogaus gyvybei ar sveikatai, įslaptinama 75 metams.“
 
 
-3. Buvusią 8 straipsnio 2 dalį laikyti [[#^s-5bca26e14ce1e7c7d2bd7dcc|3 dalimi]], ją pakeisti ir išdėstyti taip: ^s-5bca26e14ce1e7c7d2bd7dcc
+3. Buvusią 8 straipsnio 2 dalį laikyti 3 dalimi, ją pakeisti ir išdėstyti taip: ^s-5bca26e14ce1e7c7d2bd7dcc
 
 
 „3. Informacijos įslaptinimo terminas skaičiuojamas nuo įslaptintos informacijos registravimo arba įtraukimo į apskaitą dienos.“
@@ -196,7 +196,7 @@ Pakeisti [[#^s-cec00beccdf55d23649f9161|11 straipsnį]] ir jį išdėstyti taip:
 10) paslapčių subjektams tarpininkaujant, sprendžia klausimus dėl galimybės išduoti asmens patikimumo pažymėjimus arba leidimus dirbti ar susipažinti su įslaptinta informacija asmenims, turintiems dvigubą pilietybę, arba asmenims, neturintiems šio Įstatymo 16 straipsnio 2 dalies 2 punkte nustatyto nuolatinio gyvenimo Lietuvos Respublikoje cenzo; ^s-ee9534a05819a7bda8bafad8
 
 
-11) pasibaigus šio Įstatymo 8 straipsnio 1 dalies 1 ir [[#^s-87f691be0a0c3e69451ca7ef|2 punktuose]] ar 8 straipsnio 2 dalyje nustatytam informacijos įslaptinimo terminui, paslapčių subjektų teikimu sprendžia klausimus dėl įslaptinimo termino pratęsimo tikslingumo; ^s-419e1f7c7c37168f9b5e7e30
+11) pasibaigus šio Įstatymo 8 straipsnio 1 dalies 1 ir 2 punktuose ar 8 straipsnio 2 dalyje nustatytam informacijos įslaptinimo terminui, paslapčių subjektų teikimu sprendžia klausimus dėl įslaptinimo termino pratęsimo tikslingumo; ^s-419e1f7c7c37168f9b5e7e30
 
 
 12) sprendžia ginčus tarp paslapčių subjektų, taip pat ginčus tarp paslapčių subjektų ir kitų asmenų, kylančius dėl informacijos įslaptinimo, įslaptintos informacijos saugojimo, naudojimo, išslaptinimo, apsaugos kontrolės; ^s-0e810fa1ba89075633855fa4
@@ -374,7 +374,7 @@ Pakeisti 40 straipsnį ir jį išdėstyti taip:
 „3. ADA sistemų ir tinklų saugumo reikalavimus nustato Saugumo priežiūros tarnybos funkcijas atliekanti institucija.“
 
 
-6. Buvusias 41 straipsnio 3 ir [[#^s-f12b937121da40130fc75ba3|4 dalis]] laikyti atitinkamai 4 ir [[#^s-a679ac7c249b8ecaeb50cca1|5 dalimis]]. ^s-1039a7bdbf19f5f08dba8b20
+6. Buvusias 41 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-1039a7bdbf19f5f08dba8b20
 
 
 7. Papildyti 41 straipsnį nauja [[#^s-1039a7bdbf19f5f08dba8b20|6 dalimi]]: ^s-f2a3ec7e9655ae316d00b7e2

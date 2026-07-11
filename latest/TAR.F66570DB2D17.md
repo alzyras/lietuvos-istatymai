@@ -166,7 +166,7 @@ Pakeisti [[#^s-17cacff9c48de92dba310342|4 straipsnio 1 dalį]] ir ją išdėstyt
 5) į prekybą reguliuojamoje rinkoje įtraukti vertybiniai popieriai, kuriuos emitentas arba emitento įmonių grupei priklausančios įmonės siūlo, skiria arba numato skirti esamiems ar buvusiems emitento vadovams ir darbuotojams, jeigu būsimiems tokių vertybinių popierių savininkams yra prieinamas dokumentas (emitento patvirtintas darbuotojų skatinimo planas ar pan.), kuriame pateikta informacija apie vertybinių popierių skaičių ir savybes bei siūlymo priežastis ir ypatumus.“ ^s-378b26b9f565a318fb0a8b25
 
 
-2. Buvusias [[#^s-51a104ec0a181693b7920e29|5 straipsnio]] 3 ir [[#^s-5ef941ff3e18996b7753f215|4 dalis]] laikyti atitinkamai 4 ir [[#^s-f320273ac33d1b23969c78ca|5 dalimis]]. ^s-afa995babf9ff8bb3ef9b9f4
+2. Buvusias [[#^s-51a104ec0a181693b7920e29|5 straipsnio]] [[#^s-99c66a2b95518dfb0eee0033|3]] ir [[#^s-5abae9b28cdc87fee59ed6de|4]] dalis laikyti atitinkamai [[#^s-5abae9b28cdc87fee59ed6de|4]] ir 5 dalimis. ^s-afa995babf9ff8bb3ef9b9f4
 
 
 3. Buvusią 5 straipsnio 5 dalį pripažinti netekusia galios. ^s-d827f259b262717fe1750a56
@@ -347,7 +347,7 @@ Pakeisti [[#^s-8bd5bfb70ea01120b2343444|22 straipsnį]] ir jį išdėstyti taip:
 1. Pakeisti 23 straipsnio 4 dalį ir ją išdėstyti taip: ^s-012c1f3a77cfdfcb89586a21
 
 
-„4. [[#^s-012c1f3a77cfdfcb89586a21|Šio straipsnio 1 dalyje]] nustatytos pareigos neturi įmonė, kuri priklauso įmonių grupei, privalančiai sudaryti metines konsoliduotąsias finansines ataskaitas, jeigu apie tai praneša įmonę patronuojanti įmonė ar pastarąją patronuojanti įmonė.“
+„4. Šio straipsnio 1 dalyje nustatytos pareigos neturi įmonė, kuri priklauso įmonių grupei, privalančiai sudaryti metines konsoliduotąsias finansines ataskaitas, jeigu apie tai praneša įmonę patronuojanti įmonė ar pastarąją patronuojanti įmonė.“
 
 
 2. Pakeisti 23 straipsnio 9 dalį ir ją išdėstyti taip: ^s-2c2eecf076a997cb0d522a9e
@@ -386,10 +386,10 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 3. Jeigu vertybiniai popieriai viešai siūlomi arba jais leidžiama prekiauti reguliuojamoje rinkoje vienoje ar keliose valstybėse narėse, išskyrus Lietuvos Respubliką, kuri yra emitento buveinės valstybė narė, reglamentuojama informacija emitento pasirinkimu turi būti viešai paskelbta priimančiųjų valstybių narių kompetentingoms institucijoms priimtina kalba arba anglų kalba. ^s-0bc1acee7262e01197542b16
 
 
-4. Jeigu vertybiniais popieriais reguliuojamoje rinkoje leidžiama prekiauti be emitento sutikimo, šio straipsnio 1–[[#^s-0bc1acee7262e01197542b16|3 dalyse]] nustatytų reikalavimų privalo laikytis asmuo, kuris kreipėsi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo ir tais vertybiniais popieriais buvo leista prekiauti. ^s-ff512abdd967fcc85f397fb0
+4. Jeigu vertybiniais popieriais reguliuojamoje rinkoje leidžiama prekiauti be emitento sutikimo, šio straipsnio [[#^s-23cf2b26a41afcbd2d748c88|1]]–[[#^s-0bc1acee7262e01197542b16|3]] dalyse nustatytų reikalavimų privalo laikytis asmuo, kuris kreipėsi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo ir tais vertybiniais popieriais buvo leista prekiauti. ^s-ff512abdd967fcc85f397fb0
 
 
-5. Emitento akcininkai ir šio įstatymo 23 ir [[#^s-b7a41dd82ef88a80239d9591|24 straipsniuose]] nurodyti asmenys reglamentuojamą informaciją turi teisę pateikti tik anglų kalba. ^s-962a350076c702f6035a35db
+5. Emitento akcininkai ir šio įstatymo [[#^s-71b4624b34345e83e3132d36|23]] ir [[#^s-b7a41dd82ef88a80239d9591|24]] straipsniuose nurodyti asmenys reglamentuojamą informaciją turi teisę pateikti tik anglų kalba. ^s-962a350076c702f6035a35db
 
 
 6. Jeigu vertybiniais popieriais, kurių vieno vieneto nominali vertė yra ne mažesnė kaip 50 tūkstančių eurų, leidžiama prekiauti reguliuojamoje rinkoje vienoje ar keliose valstybėse narėse, reglamentuojama informacija emitento arba asmens, kuris kreipėsi dėl vertybinių popierių įtraukimo į prekybą reguliuojamoje rinkoje be emitento sutikimo, pasirinkimu turi būti pateikta buveinės valstybės narės ir priimančiųjų valstybių narių kompetentingoms institucijoms priimtina kalba arba anglų kalba.“ ^s-4dc6a84b1b80bc1f34abb3f0
@@ -421,19 +421,19 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 2) teikti privalomą oficialų siūlymą supirkti likusias balsavimo teisę suteikiančias bendrovės, dėl kurios akcijų teiktinas oficialus siūlymas, akcijas ir vertybinius popierius, patvirtinančius teisę įsigyti balsavimo teisę suteikiančius vertybinius popierius.“ ^s-d9aebdecb3e7b69a129f7c32
 
 
-2. Papildyti 31 straipsnį nauja [[#^s-00820f8bc2c60581654c4196|2 dalimi]]: ^s-00820f8bc2c60581654c4196
+2. Papildyti 31 straipsnį nauja 2 dalimi: ^s-00820f8bc2c60581654c4196
 
 
 „2. [[#^s-c774e13be7fab6f7b3e9c88d|Šio straipsnio 1 dalyje]] nustatyta pareiga taip pat taikoma asmeniui, kuris įgijo kontrolę asmens, turinčio bendrovės, dėl kurios akcijų teiktinas oficialus siūlymas, akcijų, visuotiniame akcininkų susirinkime suteikiančių daugiau kaip 1/3 balsų.“
 
 
-3. Buvusią 31 straipsnio 2 dalį laikyti [[#^s-de54639189fb3f63a01acf2e|3 dalimi]], ją pakeisti ir išdėstyti taip: ^s-de54639189fb3f63a01acf2e
+3. Buvusią 31 straipsnio 2 dalį laikyti 3 dalimi, ją pakeisti ir išdėstyti taip: ^s-de54639189fb3f63a01acf2e
 
 
 „3. Asmuo, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, įgijęs akcijas, kurios kartu su jo turimu akcijų paketu arba kartu su kitų sutartinai veikiančių asmenų turimu akcijų paketu suteikia daugiau kaip 1/3 balsų bendrovės, dėl kurios akcijų teiktinas oficialus siūlymas, visuotiniame akcininkų susirinkime, privalo nedelsdamas, ne vėliau kaip per 4 prekybos dienas, paskelbti bendrovės, dėl kurios akcijų teikiamas oficialus siūlymas, įstatuose nurodytame Lietuvos Respublikos dienraštyje apie 1/3 balsų ribos peržengimą ir apie savo ketinimą teikti privalomą oficialų siūlymą ar ketinimą perleisti šią balsų ribą viršijančias akcijas, taip pat apie tai pranešti Vertybinių popierių komisijai, reguliuojamos rinkos operatoriui ir bendrovei, dėl kurios akcijų teiktinas oficialus siūlymas. Tokiu pat būdu turi būti skelbiama informacija apie nustatytą balsų ribą viršijančių akcijų perleidimo faktą, jeigu, vadovaujantis [[#^s-5f9118e92d45faeb86d75a43|šio straipsnio 1 dalies 1 punktu]], privalomas oficialus siūlymas neteikiamas.“
 
 
-4. Buvusias 31 straipsnio 3 ir [[#^s-938f52f2f464db9e3936bda0|4 dalis]] laikyti atitinkamai 4 ir [[#^s-cc86264977e791d590ed58da|5 dalimis]]. ^s-938f52f2f464db9e3936bda0
+4. Buvusias 31 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-938f52f2f464db9e3936bda0
 
 
 5. Buvusią 31 straipsnio 5 dalį laikyti [[#^s-1178e6b2b5f6783a44a5fe9e|6 dalimi]], ją pakeisti ir išdėstyti taip: ^s-cc86264977e791d590ed58da
@@ -567,7 +567,7 @@ Pakeisti 34 straipsnį ir jį išdėstyti taip:
 4. Pakeisti 37 straipsnio 6 dalį ir ją išdėstyti taip: ^s-154d20a7fca48ff1e9b6df1e
 
 
-„6. Nustatant kainą pagal [[#^s-154d20a7fca48ff1e9b6df1e|šio straipsnio 4 dalies]] 2 ir 3 punktus, kaina, už kurią siūloma supirkti akcijas, turi būti pagrįsta ir iš anksto suderinta su Vertybinių popierių komisija. Vertybinių popierių komisija turi teisę motyvuotai reikalauti pakeisti kainą. [[#^s-a42847b82497321a69a4ce9b|Šio straipsnio 7 dalyje]] nurodytas pranešimas emitentui turi būti pateiktas ne vėliau kaip per 30 dienų nuo galutinės kainos suderinimo dienos.“
+„6. Nustatant kainą pagal šio straipsnio 4 dalies 2 ir 3 punktus, kaina, už kurią siūloma supirkti akcijas, turi būti pagrįsta ir iš anksto suderinta su Vertybinių popierių komisija. Vertybinių popierių komisija turi teisę motyvuotai reikalauti pakeisti kainą. [[#^s-a42847b82497321a69a4ce9b|Šio straipsnio 7 dalyje]] nurodytas pranešimas emitentui turi būti pateiktas ne vėliau kaip per 30 dienų nuo galutinės kainos suderinimo dienos.“
 
 
 5. 37 straipsnio 7 dalies 5 punkte išbraukti žodžius „ir vieta“ ir šį punktą išdėstyti taip: ^s-9fbc71ba1eea772c636d2884
@@ -585,7 +585,7 @@ Pakeisti 34 straipsnį ir jį išdėstyti taip:
 7. Pakeisti 37 straipsnio 16 dalį ir ją išdėstyti taip: ^s-a42847b82497321a69a4ce9b
 
 
-„16. Tais atvejais, kai kuris nors akcininkas reikalauja, kad akcininkas, kuris, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, įsigijo akcijų, sudarančių ne mažiau kaip 95 procentus balsavimo teises suteikiančio kapitalo ir ne mažiau kaip 95 procentus visų balsų emitento visuotiniame akcininkų susirinkime, nupirktų jam priklausančias akcijas, mutatis mutandis taikomos šio straipsnio 2–11, 13, 14 dalių nuostatos.“
+„16. Tais atvejais, kai kuris nors akcininkas reikalauja, kad akcininkas, kuris, veikdamas savarankiškai ar kartu su kitais sutartinai veikiančiais asmenimis, įsigijo akcijų, sudarančių ne mažiau kaip 95 procentus balsavimo teises suteikiančio kapitalo ir ne mažiau kaip 95 procentus visų balsų emitento visuotiniame akcininkų susirinkime, nupirktų jam priklausančias akcijas, mutatis mutandis taikomos šio straipsnio [[#^s-4ba8ce6735e939f5d30fdb11|2]]–11, 13, 14 dalių nuostatos.“
 
 
 
@@ -675,7 +675,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 1. Vertybinių popierių komisija, siekdama nustatyti, kaip laikomasi šio įstatymo, jo pagrindu priimtų ir su juo susijusių teisės aktų, turi teisę organizuoti ir atlikti patikrinimus. ^s-91558b1a7f5d1c73e3beca31
 
 
-2. Atlikdami patikrinimą, Vertybinių popierių komisijos darbuotojai turi Lietuvos Respublikos finansinių priemonių rinkų įstatymo 85 straipsnio 2 dalyje nustatytas teises. Šioms teisėms įgyvendinti Vertybinių popierių komisija gali pasitelkti policijos pareigūnus.“ ^s-54bcd8fc3083c842317670e4
+2. Atlikdami patikrinimą, Vertybinių popierių komisijos darbuotojai turi [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatymo 85 straipsnio 2 dalyje]] nustatytas teises. Šioms teisėms įgyvendinti Vertybinių popierių komisija gali pasitelkti policijos pareigūnus.“ ^s-54bcd8fc3083c842317670e4
 
 
 
@@ -730,10 +730,10 @@ Vertybinių popierių komisija [[latest/TAR.AB7AFE2F35B2#^s-03cc58c7825d6bf7a8d1
 5) asmenims, šio įstatymo 37 straipsnio nustatyta tvarka pareikalavusiems, kad visi kiti emitento akcininkai parduotų jiems priklausančias akcijas, bet nustatytais terminais neatsiskaičiusiems su jais arba nevykdantiems prievolės kuriam nors akcininkui pareikalavus išpirkti jam priklausančias akcijas, – iki 100 tūkstančių litų; ^s-b17634b9425301b94b3b5fbf
 
 
-6) asmenims, nesilaikantiems šio įstatymo 11, 16, 20, 21, 22, 23, 28, 30, 33, 35, 36 straipsniuose nustatytų reikalavimų, – iki 100 tūkstančių litų; ^s-a0fea9de9e1768e0df3d9c3c
+6) asmenims, nesilaikantiems šio įstatymo [[#^s-59148138b8e5408bd94d6b2d|11]], [[#^s-680b1dd6c2f12dddc8e01e3f|16]], [[#^s-f54d3a184fd7493c7bdbffd1|20]], [[#^s-f398e199b12b4bbc89a150f6|21]], [[#^s-8bd5bfb70ea01120b2343444|22]], [[#^s-71b4624b34345e83e3132d36|23]], 28, 30, 33, 35, 36 straipsniuose nustatytų reikalavimų, – iki 100 tūkstančių litų; ^s-a0fea9de9e1768e0df3d9c3c
 
 
-7) asmenims, nesilaikantiems šio įstatymo 10, 15, 25, 26, 27 straipsniuose nustatytų reikalavimų, – iki 50 tūkstančių litų; ^s-9c0ddccae2ef700c7600b119
+7) asmenims, nesilaikantiems šio įstatymo [[#^s-7b0666e0b8abe41c805ce33b|10]], [[#^s-82b0ace8ee6d9b8258f17d7f|15]], [[#^s-12eba85a98caaf3d3a074f41|25]], 26, 27 straipsniuose nustatytų reikalavimų, – iki 50 tūkstančių litų; ^s-9c0ddccae2ef700c7600b119
 
 
 8) asmenims, nevykdantiems Vertybinių popierių komisijos nurodymų, neteikiantiems Vertybinių popierių komisijai šiame ir kituose įstatymuose nurodytos informacijos arba trukdantiems Vertybinių popierių komisijai ar jos įgaliotiems asmenims atlikti tyrimus ar patikrinimus, – iki 100 tūkstančių litų; ^s-dc82a5b020d07ca10cd0ddff

@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimas ^s-f4d762961b2a90813646abe4
 
 
-1 straipsnyje vietoj datos „2000 m. sausio 1 d.“ įrašyti datą „2001 m. sausio 1 d.“, 9 ir [[#^s-9755d85977a2e2969b8c3f93|10 punktus]] pripažinti netekusiais galios, 11 ir 12 punktus laikyti 9 ir [[#^s-9755d85977a2e2969b8c3f93|10 punktais]] ir šį straipsnį išdėstyti taip:
+1 straipsnyje vietoj datos „2000 m. sausio 1 d.“ įrašyti datą „2001 m. sausio 1 d.“, [[#^s-bbf8278f46903e1ae5df885c|9]] ir [[#^s-9755d85977a2e2969b8c3f93|10]] punktus pripažinti netekusiais galios, 11 ir 12 punktus laikyti [[#^s-bbf8278f46903e1ae5df885c|9]] ir [[#^s-9755d85977a2e2969b8c3f93|10]] punktais ir šį straipsnį išdėstyti taip:
 
 
 „1 straipsnis. Įstatymų, kurių galiojimas laikinai pratęsiamas, sąrašas

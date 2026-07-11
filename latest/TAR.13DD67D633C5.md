@@ -40,7 +40,7 @@ Nr. 57-1679; 2001, Nr. 43-1499)
 ### 1 straipsnis. 1 straipsnio papildymas ir pakeitimas ^s-b25cdd2ef8d4b9a70fc14098
 
 
-1 straipsnį papildyti nauju [[#^s-3799ff2e7aaf64ae14189b40|22 punktu]], buvusius 22, 23, 24, [[#^s-7a7331f40fcae29267f8c12d|25 punktus]] laikyti atitinkamai 23, 24, 25, [[#^s-0d8d033823425eed5ab559ee|26 punktais]] ir šį straipsnį išdėstyti taip:
+1 straipsnį papildyti nauju [[#^s-3799ff2e7aaf64ae14189b40|22 punktu]], buvusius [[#^s-3799ff2e7aaf64ae14189b40|22]], [[#^s-f0f7b2519bc76bdb026f1288|23]], [[#^s-770a864461830398f95eef2f|24]], [[#^s-7a7331f40fcae29267f8c12d|25]] punktus laikyti atitinkamai [[#^s-f0f7b2519bc76bdb026f1288|23]], [[#^s-770a864461830398f95eef2f|24]], [[#^s-7a7331f40fcae29267f8c12d|25]], [[#^s-0d8d033823425eed5ab559ee|26]] punktais ir šį straipsnį išdėstyti taip:
 
 
 „1 straipsnis. Atmintinos dienos

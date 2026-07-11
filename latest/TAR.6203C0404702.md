@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Taisyklių ratifikavimas ^s-55098028d6d2f85119136e0e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. liepos 5 d. dekretą Nr. 1K-1038, ratifikuoja Tarptautines sveikatos priežiūros taisykles (2005 m.), priimtas 58-ojoje Pasaulio sveikatos asamblėjoje 2005 m. gegužės 23 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. liepos 5 d. dekretą Nr. 1K-1038](https://e-tar.lt/portal/lt/legalAct/TAR.71397B754EFF), ratifikuoja Tarptautines sveikatos priežiūros taisykles (2005 m.), priimtas 58-ojoje Pasaulio sveikatos asamblėjoje 2005 m. gegužės 23 d. Ženevoje.
 
 
 

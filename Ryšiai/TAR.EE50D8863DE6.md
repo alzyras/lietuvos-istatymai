@@ -14,7 +14,5 @@ _Nėra._
 ## Šį įstatymą cituoja
 
 - [[latest/TAR.CFCEE0DB5FF2#^s-2a21a86833597a23d8531101|Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas]] - 1081010ISTA00X-1613
-- [[latest/TAR.CFCEE0DB5FF2#^s-58c73134e458d48856e11b93|Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas]] - 3 citatos - 1081010ISTA00X-1613
-- [[latest/TAR.CFCEE0DB5FF2#^s-8535509637a4048f758e64ae|Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas]] - 3 citatos - 1081010ISTA00X-1613
+- [[latest/TAR.CFCEE0DB5FF2#^s-8535509637a4048f758e64ae|Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas]] - 2 citatos - 1081010ISTA00X-1613
 - [[latest/TAR.CFCEE0DB5FF2#^s-9557326c3b909a72d48fa119|Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas]] - 1081010ISTA00X-1613
-- [[latest/TAR.CFCEE0DB5FF2#^s-ca200c55bc27855d73651b45|Lietuvos Respublikos Klaipėdos laisvosios ekonominės zonos įstatymas]] - 1081010ISTA00X-1613

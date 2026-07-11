@@ -1059,7 +1059,7 @@ TERITORIJŲ PLANAVIMO PROCESAS
 4. Savivaldybės arba jos dalių bendrieji planai pradedami rengti savivaldybės tarybai priėmus sprendimą dėl savivaldybės arba jos dalių bendrųjų planų rengimo pradžios ir planavimo tikslų. Šių planų rengimą organizuoja savivaldybės administracijos direktorius. ^s-bd792154781acef22f2c5d71
 
 
-5. Detalieji planai pradedami rengti savivaldybės administracijos direktoriui priėmus sprendimą dėl detaliojo plano rengimo pradžios ir planavimo tikslų. Detaliųjų planų rengimą organizuoja savivaldybės administracijos direktorius. ^s-97add48988bd2ad4e4eca37f
+5. Detalieji planai pradedami rengti savivaldybės administracijos direktoriui priėmus sprendimą [dėl detaliojo plano rengimo pradžios](https://e-tar.lt/portal/lt/legalAct/TAR.A7F9A335D705) ir planavimo tikslų. Detaliųjų planų rengimą organizuoja savivaldybės administracijos direktorius. ^s-97add48988bd2ad4e4eca37f
 
 
 
@@ -1242,7 +1242,7 @@ TERITORIJŲ PLANAVIMO PROCESAS
 6. Teisės aktas ir juo patvirtintas teritorijų planavimo dokumentas įsigalioja kitą dieną po jo įregistravimo ir paskelbimo Lietuvos Respublikos teritorijų planavimo dokumentų registre, jeigu sprendime dėl kompleksinio teritorijų planavimo dokumento patvirtinimo nenustatyta vėlesnė jo įsigaliojimo data. Oficialus informacinis pranešimas apie kompleksinio teritorijų planavimo dokumento patvirtinimą skelbiamas kompleksinio teritorijų planavimo dokumentą tvirtinančios institucijos svetainėje ir Lietuvos Respublikos teritorijų planavimo dokumentų rengimo ir teritorijų planavimo proceso valstybinės priežiūros informacinėje sistemoje. ^s-d95da98022723e9563930ffd
 
 
-7. Jeigu savivaldybės administracijos direktorius nepatvirtina detaliojo plano per šiame įstatyme nustatytus terminus arba atsisako patvirtinti detalųjį planą ir nepraneša atsisakymo derinti motyvų, planavimo iniciatorius turi teisę per 10 darbo dienų kreiptis į Valstybinę teritorijų planavimo ir statybos inspekciją prie Aplinkos ministerijos, kuri Lietuvos Respublikos administracinių teisės pažeidimų kodekso (toliau – Administracinių teisės pažeidimų kodeksas) nustatyta tvarka atsakingiems už teritorijų planavimo dokumento tvirtinimą asmenims surašo administracinių teisės pažeidimų protokolus, taip pat planavimo iniciatorius turi teisę kreiptis į teismą su prašymu įpareigoti savivaldybės administracijos direktorių per nustatytą terminą, ne ilgesnį kaip 7 darbo dienos, priimti sprendimą tvirtinti arba motyvuotai atsisakyti tvirtinti detalųjį planą. ^s-3a1c42530592b3af78a187d6
+7. Jeigu savivaldybės administracijos direktorius nepatvirtina detaliojo plano per šiame įstatyme nustatytus terminus arba atsisako patvirtinti detalųjį planą ir nepraneša atsisakymo derinti motyvų, planavimo iniciatorius turi teisę per 10 darbo dienų kreiptis į Valstybinę teritorijų planavimo ir statybos inspekciją prie Aplinkos ministerijos, kuri [Lietuvos Respublikos administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) (toliau – [Administracinių teisės pažeidimų kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492)) nustatyta tvarka atsakingiems už teritorijų planavimo dokumento tvirtinimą asmenims surašo administracinių teisės pažeidimų protokolus, taip pat planavimo iniciatorius turi teisę kreiptis į teismą su prašymu įpareigoti savivaldybės administracijos direktorių per nustatytą terminą, ne ilgesnį kaip 7 darbo dienos, priimti sprendimą tvirtinti arba motyvuotai atsisakyti tvirtinti detalųjį planą. ^s-3a1c42530592b3af78a187d6
 
 
 
@@ -1252,7 +1252,7 @@ TERITORIJŲ PLANAVIMO PROCESAS
 1. Kompleksinio teritorijų planavimo dokumentai keičiami sprendimą rengti atitinkamą dokumentą priėmusios valstybės ar savivaldybės institucijos sprendimu dėl dokumento keitimo, taikant šiame įstatyme numatytą teritorijų planavimo procesą ir tą pačią dokumento tvirtinimo procedūrą. ^s-84d251d03feffdf7069ea254
 
 
-2. Sprendimą dėl kompleksinio teritorijų planavimo dokumento koregavimo priima planavimo organizatorius. Fiziniai asmenys, juridiniai asmenys ar jų padaliniai, kitos organizacijos ar jų padaliniai turi iniciatyvos teisę siūlyti planavimo organizatoriui koreguoti vietovės lygmens teritorijų planavimo dokumentą šio įstatymo [[#^s-0d956451112541a46875ff03|6 straipsnio]] 3 ir [[#^s-d2faa302f623471a041339a4|4 dalyse]] nustatyta tvarka. ^s-b3c37e2229b590b77fbff735
+2. Sprendimą dėl kompleksinio teritorijų planavimo dokumento koregavimo priima planavimo organizatorius. Fiziniai asmenys, juridiniai asmenys ar jų padaliniai, kitos organizacijos ar jų padaliniai turi iniciatyvos teisę siūlyti planavimo organizatoriui koreguoti vietovės lygmens teritorijų planavimo dokumentą šio įstatymo [[#^s-0d956451112541a46875ff03|6 straipsnio]] [[#^s-61b31a17bc6bfcef2c68a4fd|3]] ir [[#^s-f989c691b04699a729f4d917|4]] dalyse nustatyta tvarka. ^s-b3c37e2229b590b77fbff735
 
 
 3. Kompleksinio teritorijų planavimo dokumentų korektūros rengimo, derinimo, tikrinimo, tvirtinimo ir įsigaliojimo tvarka ir atvejai nustatyti šiame įstatyme ir Kompleksinio teritorijų planavimo dokumentų rengimo taisyklėse. Kompleksinio teritorijų planavimo dokumento koregavimas tvirtinamas teritorijų planavimo dokumentą tvirtinančio subjekto sprendimu ir registruojamas šio įstatymo nustatyta tvarka. ^s-a79de81da4018a35b9359b31
@@ -1582,7 +1582,7 @@ TERITORIJŲ PLANAVIMO DOKUMENTŲ RENGĖJAI IR SAVIVALDYBIŲ VYRIAUSIEJI ARCHITEK
 3. Atestatų išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarką nustato Aplinkos ministerija. Atestavimo komisija sudaroma aplinkos ministro nustatyta tvarka. Atestatai išduodami ne vėliau kaip per vieną mėnesį nuo visų dokumentų atestatui gauti pateikimo dienos. ^s-264fcab1c54acab09a5a499a
 
 
-4. Atestatas pagal teritorijų planavimo dokumentų rūšis išduodamas neterminuotam laikui šio straipsnio 1 ir [[#^s-c3c4e06c28c2ec5a664a4004|2 dalyse]] nurodytiems asmenims, atitinkantiems šiuos kvalifikacinius reikalavimus: ^s-9f9116811da05b38d52da755
+4. Atestatas pagal teritorijų planavimo dokumentų rūšis išduodamas neterminuotam laikui šio straipsnio [[#^s-b014411e110d6a9e5c1867cd|1]] ir [[#^s-c3c4e06c28c2ec5a664a4004|2]] dalyse nurodytiems asmenims, atitinkantiems šiuos kvalifikacinius reikalavimus: ^s-9f9116811da05b38d52da755
 
 
 1) asmenys, vadovaujantys kompleksinio teritorijų planavimo dokumentų rengimui, privalo turėti [[#^s-bce64a46335f8bf819805caa|šio straipsnio 1 dalies 2 punkte]] nurodytą išsilavinimą, ne mažesnę kaip 3 metų darbo patirtį rengiant atitinkamo lygmens kompleksinio teritorijų planavimo dokumentus arba teritorijų planavimo vadovo patirtį rengiant žemesnio lygmens kompleksinio teritorijų planavimo dokumentus ir išlaikę teisinių žinių egzaminą pagal Aplinkos ministerijos patvirtintą programą; ^s-a71c1328f421162005c58aea
@@ -1594,7 +1594,7 @@ TERITORIJŲ PLANAVIMO DOKUMENTŲ RENGĖJAI IR SAVIVALDYBIŲ VYRIAUSIEJI ARCHITEK
 5. Asmenys, gavę atestatus, kas 5 metai privalo tobulinti savo kvalifikaciją kvalifikacijos tobulinimo kursuose, išklausydami ne mažiau kaip 20 val. teritorijų planavimo dokumentų rengimo, teisinių ir profesinių žinių srities paskaitų pagal Aplinkos ministerijos suderintą programą, taip pat išlaikyti teisinių žinių egzaminą pagal Aplinkos ministerijos patvirtintą programą. Jeigu atestavimo komisija nustato, kad atestato turėtojas nevykdė šio reikalavimo, atestavimo komisijos sprendimu atestato galiojimas gali būti sustabdomas 6 mėnesiams. ^s-ddc8b60226d0d33625a1ac15
 
 
-6. Kai teritorijų planavimo valstybinę priežiūrą atliekanti institucija nustato, kad šio straipsnio 1 ir [[#^s-c3c4e06c28c2ec5a664a4004|2 dalyse]] nurodyti asmenys, rengdami teritorijų planavimo dokumentus ar vadovaudami jų rengimui, pažeidė įstatymų, kitų teisės aktų, teritorijų planavimo dokumentų rengimo reikalavimus, atestatų galiojimas gali būti sustabdomas, iki bus pašalinti pažeidimai, dėl kurių buvo sustabdytas atestatų galiojimas, visais atvejais ne ilgiau kaip 6 mėnesiams. ^s-9b1024c2819163071985498d
+6. Kai teritorijų planavimo valstybinę priežiūrą atliekanti institucija nustato, kad šio straipsnio [[#^s-b014411e110d6a9e5c1867cd|1]] ir [[#^s-c3c4e06c28c2ec5a664a4004|2]] dalyse nurodyti asmenys, rengdami teritorijų planavimo dokumentus ar vadovaudami jų rengimui, pažeidė įstatymų, kitų teisės aktų, teritorijų planavimo dokumentų rengimo reikalavimus, atestatų galiojimas gali būti sustabdomas, iki bus pašalinti pažeidimai, dėl kurių buvo sustabdytas atestatų galiojimas, visais atvejais ne ilgiau kaip 6 mėnesiams. ^s-9b1024c2819163071985498d
 
 
 7. Atestato turėtojui pateikus dokumentus, įrodančius, kad pažeidimai, dėl kurių buvo sustabdytas atestato galiojimas, pašalinti, atestato galiojimo sustabdymas panaikinamas per 10 darbo dienų nuo šių dokumentų pateikimo dienos. ^s-8ecd04d7ac5c3db05cefaf25
@@ -1624,7 +1624,7 @@ TERITORIJŲ PLANAVIMO DOKUMENTŲ RENGĖJAI IR SAVIVALDYBIŲ VYRIAUSIEJI ARCHITEK
 9. Jeigu pažeidimai, nurodyti šiame straipsnyje, nepadarė esminės žalos konkrečia teisine norma saugomam visuomenės (viešajam) interesui ar žmonių sveikatai, gyvybei ir kitiems konkrečia teisės norma saugomiems interesams arba tokia žala yra labai nežymi, asmuo nutraukia teisę pažeidžiančius veiksmus ir pašalina veiksmų padarinius, atlygina žalą, atestavimo komisija, vadovaudamasi teisingumo ir protingumo kriterijais, gali priimti sprendimą atestato galiojimo nestabdyti ir (ar) atestato galiojimo nenaikinti. ^s-64f3c4870e61a63a467aefcc
 
 
-10. Panaikinus atestato galiojimą, šio straipsnio 1 ir [[#^s-c3c4e06c28c2ec5a664a4004|2 dalyse]] nurodyti asmenys dėl naujo atestato išdavimo gali kreiptis ne anksčiau kaip po 2 metų, išskyrus [[#^s-b7ce1e6fc45565cb95eacc0a|šio straipsnio 8 dalies 6 punkte]] nurodytą atvejį. ^s-b02314cef73ef7399aacf3b8
+10. Panaikinus atestato galiojimą, šio straipsnio [[#^s-b014411e110d6a9e5c1867cd|1]] ir [[#^s-c3c4e06c28c2ec5a664a4004|2]] dalyse nurodyti asmenys dėl naujo atestato išdavimo gali kreiptis ne anksčiau kaip po 2 metų, išskyrus [[#^s-b7ce1e6fc45565cb95eacc0a|šio straipsnio 8 dalies 6 punkte]] nurodytą atvejį. ^s-b02314cef73ef7399aacf3b8
 
 
 
@@ -1673,19 +1673,19 @@ JURIDINIŲ ASMENŲ IR KITŲ VIEŠOJO ADMINISTRAVIMO SUBJEKTŲ ATSAKOMYBĖ UŽ Š
 ### 45 straipsnis. Atsakomybė už šio įstatymo 42, 43 ir 44 straipsniuose nurodytus pažeidimus ir jų nagrinėjimo tvarka ^s-f8d9b64429f3177bfcca425a
 
 
-1. Už šio įstatymo 42, 43 ir [[#^s-44d166caf2c8103925443aee|44 straipsniuose]] nurodytus pažeidimus atsako ir juridinių asmenų padaliniai, taip pat kitos užsienio organizacijos ir jų padaliniai. Nurodyti pažeidimai tiriami, nagrinėjami, nutarimai priimami, skundžiami ir vykdomi taikant administracinių teisės pažeidimų bylų nagrinėjimo procedūrą pagal Administracinių teisės pažeidimų kodeksą, išskyrus šiame straipsnyje nurodytus atvejus. ^s-3c6a9172539fe8d22da19f8e
+1. Už šio įstatymo [[#^s-4788214ed3751867b4c188b2|42]], [[#^s-9f6767f979e1d05d8b16abaa|43]] ir [[#^s-44d166caf2c8103925443aee|44]] straipsniuose nurodytus pažeidimus atsako ir juridinių asmenų padaliniai, taip pat kitos užsienio organizacijos ir jų padaliniai. Nurodyti pažeidimai tiriami, nagrinėjami, nutarimai priimami, skundžiami ir vykdomi taikant administracinių teisės pažeidimų bylų nagrinėjimo procedūrą pagal Administracinių teisės pažeidimų kodeksą, išskyrus šiame straipsnyje nurodytus atvejus. ^s-3c6a9172539fe8d22da19f8e
 
 
-2. Dėl šio įstatymo 42, 43 ir [[#^s-44d166caf2c8103925443aee|44 straipsniuose]] nurodytų pažeidimų protokolus surašo [[#^s-5825b95d4e24bea469a86725|šio straipsnio 6 dalyje]] nurodyti pareigūnai. ^s-0526712f197361f46aa92bed
+2. Dėl šio įstatymo [[#^s-4788214ed3751867b4c188b2|42]], [[#^s-9f6767f979e1d05d8b16abaa|43]] ir [[#^s-44d166caf2c8103925443aee|44]] straipsniuose nurodytų pažeidimų protokolus surašo [[#^s-5825b95d4e24bea469a86725|šio straipsnio 6 dalyje]] nurodyti pareigūnai. ^s-0526712f197361f46aa92bed
 
 
-3. Šio įstatymo 42, 43 ir [[#^s-44d166caf2c8103925443aee|44 straipsniuose]] nurodytus pažeidimus, susijusius su miškų tvarkymo schemomis, nagrinėja Valstybinė miškų tarnyba. ^s-dd70ddc2793d727dc8fe8cdb
+3. Šio įstatymo [[#^s-4788214ed3751867b4c188b2|42]], [[#^s-9f6767f979e1d05d8b16abaa|43]] ir [[#^s-44d166caf2c8103925443aee|44]] straipsniuose nurodytus pažeidimus, susijusius su miškų tvarkymo schemomis, nagrinėja Valstybinė miškų tarnyba. ^s-dd70ddc2793d727dc8fe8cdb
 
 
-4. Šio įstatymo 42, 43 ir [[#^s-44d166caf2c8103925443aee|44 straipsniuose]] nurodytus pažeidimus, susijusius su specialiojo teritorijų planavimo žemėtvarkos dokumentais, nagrinėja Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos. ^s-ec3d2a764cfa903da4ded688
+4. Šio įstatymo [[#^s-4788214ed3751867b4c188b2|42]], [[#^s-9f6767f979e1d05d8b16abaa|43]] ir [[#^s-44d166caf2c8103925443aee|44]] straipsniuose nurodytus pažeidimus, susijusius su specialiojo teritorijų planavimo žemėtvarkos dokumentais, nagrinėja Nacionalinė žemės tarnyba prie Žemės ūkio ministerijos. ^s-ec3d2a764cfa903da4ded688
 
 
-5. Šio įstatymo 42, 43 ir [[#^s-44d166caf2c8103925443aee|44 straipsniuose]] nurodytus pažeidimus, išskyrus pažeidimus, kuriuos nagrinėja šio straipsnio 3 ir [[#^s-ec3d2a764cfa903da4ded688|4 dalyse]] nurodytos įstaigos, nagrinėja Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos. ^s-5075b40b9bbe2fbca2e63b19
+5. Šio įstatymo [[#^s-4788214ed3751867b4c188b2|42]], [[#^s-9f6767f979e1d05d8b16abaa|43]] ir [[#^s-44d166caf2c8103925443aee|44]] straipsniuose nurodytus pažeidimus, išskyrus pažeidimus, kuriuos nagrinėja šio straipsnio 3 ir 4 dalyse nurodytos įstaigos, nagrinėja Valstybinė teritorijų planavimo ir statybos inspekcija prie Aplinkos ministerijos. ^s-5075b40b9bbe2fbca2e63b19
 
 
 6. Valstybinės miškų tarnybos, Nacionalinės žemės tarnybos prie Žemės ūkio ministerijos ir Valstybinės teritorijų planavimo ir statybos inspekcijos prie Aplinkos ministerijos vardu nagrinėti šiame įstatyme nurodytus pažeidimus ir skirti nuobaudas turi teisę nurodytų įstaigų vadovai, vadovo pavaduotojas ar vadovo įgalioti kiti institucijos pareigūnai. ^s-5825b95d4e24bea469a86725

@@ -9,13 +9,11 @@ pavadinimas: "Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlygin
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.234B15954C2F|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - 4 citatos - Biomedicininių tyrimų etikos įstatymas
+- [[latest/TAR.234B15954C2F|Lietuvos Respublikos biomedicininių tyrimų etikos įstatymas]] - 2 citatos - Biomedicininių tyrimų etikos įstatymas
 - [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 2 citatos - Civilinis kodeksas
 - [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymas]] - Draudimo įstatymas
-- [[latest/TAR.C6E4170DB704|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas]] - Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymo
-- [[latest/TAR.4043B97881A2|Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas]] - 6 citatos - Psichikos sveikatos priežiūros įstatymas
+- [[latest/TAR.4043B97881A2|Lietuvos Respublikos psichikos sveikatos priežiūros įstatymas]] - 3 citatos - Psichikos sveikatos priežiūros įstatymas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C6E4170DB704#^s-376443593f8fc572972f8c1a|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas]] - 2 citatos - 1041010ISTA0IX-2361
-- [[latest/TAR.C6E4170DB704#^s-8dc4b71d2df081d9864f571e|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas]] - 2 citatos - 1041010ISTA0IX-2361
+- [[latest/TAR.C6E4170DB704#^s-376443593f8fc572972f8c1a|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatymas]] - 1041010ISTA0IX-2361

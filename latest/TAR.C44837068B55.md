@@ -97,7 +97,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-4. Europos priežiūros institucijos – Europos bankininkystės institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1093/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB, su visais pakeitimais, Europos draudimo ir profesinių pensijų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB, su visais pakeitimais, Europos vertybinių popierių ir rinkų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1095/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB, su visais pakeitimais, ir Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucija, įsteigta 2024 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentu (ES) 2024/1620, kuriuo įsteigiama Kovos su pinigų plovimu ir teroristų finansavimu institucija ir iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 1094/2010 ir (ES) Nr. 1095/2010. ^s-45a8b403a127be2d4152642e
+4. Europos priežiūros institucijos – Europos bankininkystės institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos bankininkystės institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/78/EB, su visais pakeitimais, Europos draudimo ir profesinių pensijų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB, su visais pakeitimais, Europos vertybinių popierių ir rinkų institucija, įsteigta 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1095/2010](https://eur-lex.europa.eu/eli/reg/1095/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos vertybinių popierių ir rinkų institucija) ir iš dalies keičiamas Sprendimas Nr. 716/2009/EB bei panaikinamas Komisijos sprendimas 2009/77/EB, su visais pakeitimais, ir Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucija, įsteigta 2024 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2024/1620](https://eur-lex.europa.eu/eli/reg/2024/1620/oj), kuriuo įsteigiama Kovos su pinigų plovimu ir teroristų finansavimu institucija ir iš dalies keičiami [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), (ES) Nr. 1094/2010 ir (ES) Nr. 1095/2010. ^s-45a8b403a127be2d4152642e
 Straipsnio dalies pakeitimai:
 Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
@@ -116,13 +116,13 @@ Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 
 
 
-62. Finansinės analizės informacija – Finansinių nusikaltimų tyrimo tarnybos pagal šio įstatymo [[#^s-4de21d19fe86d68af259b417|5 straipsnio 1 dalies]] 2 ir 3 punktus atliktos analizės rezultatai. ^s-7142ddaaa552b29371920d4b
+62. Finansinės analizės informacija – Finansinių nusikaltimų tyrimo tarnybos pagal šio įstatymo [[#^s-4de21d19fe86d68af259b417|5 straipsnio 1 dalies]] [[#^s-cbea69a2f3c5dfe56b1d8591|2]] ir [[#^s-51a27f4754f1ed11535d037f|3]] punktus atliktos analizės rezultatai. ^s-7142ddaaa552b29371920d4b
 Papildyta straipsnio dalimi:
 Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 
 
 
-7. Finansų įstaigos – [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatyme]] apibrėžtos kredito įstaigos ir finansų įmonės, [[latest/TAR.4A05AB3730DD|Lietuvos Respublikos mokėjimo įstaigų įstatyme]] apibrėžtos mokėjimo įstaigos, [[latest/TAR.40DFB5151B33|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme]] apibrėžtos elektroninių pinigų įstaigos, [[latest/40691e401b9711e4b542dec0b12e28b0|Lietuvos Respublikos valiutos keityklos operatorių įstatyme]] apibrėžti valiutos keityklos operatoriai, 2020 m. spalio 7 d. Europos Parlamento ir Tarybos reglamente (ES) 2020/1503 dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas Reglamentas (ES) 2017/1129 ir Direktyva (ES) 2019/1937, apibrėžti sutelktinio finansavimo paslaugų teikėjai, įsteigti Lietuvos Respublikoje, [[latest/TAR.3E5A0E0D14C8|Lietuvos Respublikos vartojimo kredito įstatyme]] ir [[latest/ea8fee50ac9311e6b844f0f29024f5ac|Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatyme]] apibrėžti tarpusavio skolinimo platformų operatoriai, [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatyme]] apibrėžtos draudimo įmonės, vykdančios gyvybės draudimo veiklą, ir draudimo brokerių įmonės, vykdančios su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, taip pat investicinės kintamojo kapitalo bendrovės ir informuotiesiems investuotojams skirti kolektyvinio investavimo subjektai ir tik šiuos subjektus valdančios valdymo įmonės; šių užsienio finansų įstaigų filialai, įsteigti Lietuvos Respublikoje, taip pat elektroninių pinigų įstaigos ir mokėjimo įstaigos, kurių buveinė yra kitoje Europos Sąjungos valstybėje narėje ir kurios teikia paslaugas Lietuvos Respublikoje per tarpininkus, fizinius ar juridinius asmenis, taip pat kriptoturto paslaugų teikėjai. ^s-0461d7128568e3d4ab90bac6
+7. Finansų įstaigos – [[latest/TAR.779892D853B4|Lietuvos Respublikos finansų įstaigų įstatyme]] apibrėžtos kredito įstaigos ir finansų įmonės, [[latest/TAR.4A05AB3730DD|Lietuvos Respublikos mokėjimo įstaigų įstatyme]] apibrėžtos mokėjimo įstaigos, [[latest/TAR.40DFB5151B33|Lietuvos Respublikos elektroninių pinigų ir elektroninių pinigų įstaigų įstatyme]] apibrėžtos elektroninių pinigų įstaigos, [[latest/40691e401b9711e4b542dec0b12e28b0|Lietuvos Respublikos valiutos keityklos operatorių įstatyme]] apibrėžti valiutos keityklos operatoriai, 2020 m. spalio 7 d. Europos Parlamento ir Tarybos [reglamente (ES) 2020/1503](https://eur-lex.europa.eu/eli/reg/2020/1503/oj) dėl Europos sutelktinio finansavimo paslaugų verslui teikėjų, kuriuo iš dalies keičiamas [Reglamentas (ES) 2017/1129](https://eur-lex.europa.eu/eli/reg/2017/1129/oj) ir [Direktyva (ES) 2019/1937](https://eur-lex.europa.eu/eli/dir/2019/1937/oj), apibrėžti sutelktinio finansavimo paslaugų teikėjai, įsteigti Lietuvos Respublikoje, [[latest/TAR.3E5A0E0D14C8|Lietuvos Respublikos vartojimo kredito įstatyme]] ir [[latest/ea8fee50ac9311e6b844f0f29024f5ac|Lietuvos Respublikos su nekilnojamuoju turtu susijusio kredito įstatyme]] apibrėžti tarpusavio skolinimo platformų operatoriai, [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatyme]] apibrėžtos draudimo įmonės, vykdančios gyvybės draudimo veiklą, ir draudimo brokerių įmonės, vykdančios su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, taip pat investicinės kintamojo kapitalo bendrovės ir informuotiesiems investuotojams skirti kolektyvinio investavimo subjektai ir tik šiuos subjektus valdančios valdymo įmonės; šių užsienio finansų įstaigų filialai, įsteigti Lietuvos Respublikoje, taip pat elektroninių pinigų įstaigos ir mokėjimo įstaigos, kurių buveinė yra kitoje Europos Sąjungos valstybėje narėje ir kurios teikia paslaugas Lietuvos Respublikoje per tarpininkus, fizinius ar juridinius asmenis, taip pat kriptoturto paslaugų teikėjai. ^s-0461d7128568e3d4ab90bac6
 Straipsnio dalies pakeitimai:
 Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
@@ -156,10 +156,10 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 4) notarai, notaro atstovai ir teisę atlikti notarinius veiksmus turintys asmenys, taip pat advokatai ir advokatų padėjėjai, tiek veikiantys kliento vardu ir jo naudai, tiek ir padedantys klientui planuoti ar atlikti nekilnojamojo turto ar įmonių pirkimo ar pardavimo, klientų pinigų, vertybinių popierių ar kito turto valdymo, banko ar vertybinių popierių sąskaitų atidarymo ar valdymo, įnašų, reikalingų juridiniams asmenims ir kitoms organizacijoms įsteigti, veikti ar valdyti, organizavimo, patikos ar bendrovių steigimo ir administravimo paslaugų teikėjų atsiradimo arba sukūrimo, veikimo ar valdymo sandorius ir (ar) su jais susijusius sandorius; ^s-e9c28926402a293d0415f435
 
 
-5) patikos ar bendrovių steigimo ar administravimo paslaugų teikėjai, nenurodyti šios dalies 1, 3 ir [[#^s-e9c28926402a293d0415f435|4 punktuose]]; ^s-aab40e9110d3aa52eab8069b
+5) patikos ar bendrovių steigimo ar administravimo paslaugų teikėjai, nenurodyti šios dalies [[#^s-db3d4d387746f7c6e7093d50|1]], [[#^s-24ff555e0037905baec3a54d|3]] ir [[#^s-e9c28926402a293d0415f435|4]] punktuose; ^s-aab40e9110d3aa52eab8069b
 
 
-6) asmenys, kurie verčiasi ūkine komercine veikla, apimančia prekybą brangakmeniais, tauriaisiais metalais, kilnojamosiomis kultūros vertybėmis, antikvariniais daiktais ar kitu turtu, kurio vertė lygi arba viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta, nesvarbu, ar sandoris atliekamas vienos, ar kelių susijusių operacijų metu, jeigu atsiskaitoma grynaisiais pinigais, išskyrus atvejus, nurodytus šios dalies 12 ir [[#^s-49f7f73ee043f33afe6a9cb0|13 punktuose]] (toliau – asmenys, kurie verčiasi ūkine komercine veikla, apimančia prekybą turtu, kurio vertė lygi arba viršija 10 000 eurų, jeigu atsiskaitoma grynaisiais pinigais); ^s-f536b8fe0e302a61c67b3f8b
+6) asmenys, kurie verčiasi ūkine komercine veikla, apimančia prekybą brangakmeniais, tauriaisiais metalais, kilnojamosiomis kultūros vertybėmis, antikvariniais daiktais ar kitu turtu, kurio vertė lygi arba viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta, nesvarbu, ar sandoris atliekamas vienos, ar kelių susijusių operacijų metu, jeigu atsiskaitoma grynaisiais pinigais, išskyrus atvejus, nurodytus šios dalies [[#^s-031c87503904169f48d32a76|12]] ir [[#^s-49f7f73ee043f33afe6a9cb0|13]] punktuose (toliau – asmenys, kurie verčiasi ūkine komercine veikla, apimančia prekybą turtu, kurio vertė lygi arba viršija 10 000 eurų, jeigu atsiskaitoma grynaisiais pinigais); ^s-f536b8fe0e302a61c67b3f8b
 
 
 7) azartinius lošimus ir loterijas organizuojančios bendrovės; ^s-81627926fe19e35b87c724bb
@@ -186,7 +186,7 @@ Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 12) asmenys, kurie verčiasi ūkine komercine veikla, apimančia prekybą meno kūriniais ir (ar) tarpininkavimo veiklą prekybos meno kūriniais srityje (įskaitant galerijas ir aukcionų namus), jeigu sandorio vertė lygi arba viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta, nesvarbu, ar sandoris atliekamas vienos ar kelių susijusių operacijų metu; ^s-031c87503904169f48d32a76
 
 
-13) laisvosios zonos, nustatytos atsižvelgiant į 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos muitinės kodeksas, su visais pakeitimais, ir besiverčiančios ūkine komercine veikla, apimančia saugojimo, prekybos arba tarpininkavimo veiklą prekybos meno kūriniais srityje, jeigu sandorio vertė lygi arba viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta, nesvarbu, ar sandoris atliekamas vienos ar kelių susijusių operacijų metu. ^s-49f7f73ee043f33afe6a9cb0
+13) laisvosios zonos, nustatytos atsižvelgiant į 2013 m. spalio 9 d. Europos Parlamento ir Tarybos reglamentą (ES) Nr. 952/2013, kuriuo nustatomas Sąjungos [muitinės kodeksas](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145), su visais pakeitimais, ir besiverčiančios ūkine komercine veikla, apimančia saugojimo, prekybos arba tarpininkavimo veiklą prekybos meno kūriniais srityje, jeigu sandorio vertė lygi arba viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta, nesvarbu, ar sandoris atliekamas vienos ar kelių susijusių operacijų metu. ^s-49f7f73ee043f33afe6a9cb0
 Straipsnio punkto pakeitimai:
 Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 
@@ -217,7 +217,7 @@ Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 
 
 
-121. Kriptoturtas – kaip apibrėžta 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamento (ES) 2023/1114 dėl kriptoturto rinkų, kuriuo iš dalies keičiami reglamentai (ES) Nr. 1093/2010 bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, 3 straipsnio 1 dalies 5 punkte, išskyrus kriptoturtą, priskiriamą prie Reglamento (ES) 2023/1114 [[#^s-c1a8f4c2a3d25cd1782d20e7|2 straipsnio]] 2–[[#^s-45a8b403a127be2d4152642e|4 dalyse]] nurodytų kategorijų arba pagal kitus kriterijus laikomą lėšomis. ^s-f263aaa40fe8f4c911a1080e
+121. Kriptoturtas – kaip apibrėžta 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamento (ES) 2023/1114](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) dėl kriptoturto rinkų, kuriuo iš dalies keičiami [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bei (ES) Nr. 1095/2010 ir direktyvos 2013/36/ES bei (ES) 2019/1937, [[#^s-73e763547ac6b3a01b2cfbc5|3]] straipsnio 1 dalies 5 punkte, išskyrus kriptoturtą, priskiriamą prie [Reglamento (ES) 2023/1114 2 straipsnio](https://eur-lex.europa.eu/eli/reg/2023/1114/art_2/oj) [[#^s-79f2142dccf73aa301048b4b|2]]–[[#^s-45a8b403a127be2d4152642e|4]] dalyse nurodytų kategorijų arba pagal kitus kriterijus laikomą lėšomis. ^s-f263aaa40fe8f4c911a1080e
 Papildyta straipsnio dalimi:
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 
@@ -229,7 +229,7 @@ Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 
 
 
-123. Kriptoturto paslaugų teikėjas – Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 15 punkte apibrėžtas subjektas, teikiantis vieną ar daugiau kriptoturto paslaugų, kaip jos apibrėžtos Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkte, išskyrus konsultacijų dėl kriptoturto teikimą, kaip nurodyta Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkto h papunktyje. ^s-7e50b93728a6c1fefd28b418
+123. Kriptoturto paslaugų teikėjas – [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) 15 punkte apibrėžtas subjektas, teikiantis vieną ar daugiau kriptoturto paslaugų, kaip jos apibrėžtos [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) 16 punkte, išskyrus konsultacijų dėl kriptoturto teikimą, kaip nurodyta [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) 16 punkto h papunktyje. ^s-7e50b93728a6c1fefd28b418
 Papildyta straipsnio dalimi:
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 
@@ -318,7 +318,7 @@ Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
 3) turto įgijimas, valdymas ar naudojimas, įgijimo (perdavimo) metu žinant, kad šis turtas gautas iš nusikalstamos veikos arba dalyvaujant tokioje veikoje; ^s-5c4c3c53026d4890c5980aa1
 
 
-4) rengimasis, pasikėsinimas padaryti, bendrininkavimas darant bet kurią iš šios dalies 1, 2 ir [[#^s-5c4c3c53026d4890c5980aa1|3 punktuose]] nurodytų veikų. ^s-6c81564a56c1d1afa9e7ac60
+4) rengimasis, pasikėsinimas padaryti, bendrininkavimas darant bet kurią iš šios dalies [[#^s-ab3632c18ebaaeb2e1ae8c31|1]], [[#^s-7e356179a0b3759d0bc744e2|2]] ir [[#^s-5c4c3c53026d4890c5980aa1|3]] punktuose nurodytų veikų. ^s-6c81564a56c1d1afa9e7ac60
 
 
 171. Neteko galios nuo 2024-07-25 ^s-d3ecf3f845e32da75cd4f8bd
@@ -335,7 +335,7 @@ Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
 
 
 
-181. Saviprieglobis adresas – kaip apibrėžta Reglamento (ES) 2023/1113 3 straipsnio 20 punkte. ^s-e94cef2abd2dbab482d8fc75
+181. Saviprieglobis adresas – kaip apibrėžta [Reglamento (ES) 2023/1113 3 straipsnio](https://eur-lex.europa.eu/eli/reg/2023/1113/art_3/oj) 20 punkte. ^s-e94cef2abd2dbab482d8fc75
 Papildyta straipsnio dalimi:
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 
@@ -453,7 +453,7 @@ Nr. XIV-334, 2021-05-20, paskelbta TAR 2021-06-03, i. k. 2021-12773
 ### 4 straipsnis. Už pinigų plovimo ir (ar) teroristų finansavimo prevenciją atsakingų institucijų pareigos ^s-9f55a5617f75567ce0cac570
 
 
-1. Lietuvos bankas nustato kredito įstaigoms, elektroninių pinigų įstaigoms, mokėjimo įstaigoms, valiutos keityklos operatoriams, sutelktinio finansavimo paslaugų teikėjams, tarpusavio skolinimo platformų operatoriams, draudimo įmonėms, vykdančioms gyvybės draudimo veiklą, draudimo brokerių įmonėms, vykdančioms su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, finansų maklerio įmonėms, valdymo įmonėms, investicinėms bendrovėms, depozitoriumui ir užsienio valstybių šioje dalyje nurodytų subjektų filialams, įsteigtiems Lietuvos Respublikoje, taip pat elektroninių pinigų įstaigoms ir mokėjimo įstaigoms, kurių buveinė yra kitoje valstybėje narėje ir kurios teikia paslaugas Lietuvos Respublikoje per tarpininkus, fizinius ar juridinius asmenis, kriptoturto paslaugų teikėjams skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri šių subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, išskyrus atvejus, kai pagal Reglamentą (ES) 2024/1620 priežiūrą atlieka Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucija (toliau – Kovos su pinigų plovimu ir teroristų finansavimu institucija), konsultuoja šiuos subjektus šioje dalyje nurodytų nurodymų įgyvendinimo klausimais. Kriptoturto paslaugų teikėjams skirti nurodymai nustatomi suderinus su Finansinių nusikaltimų tyrimo tarnyba. ^s-ad5ace02ceac63ed1322b5fd
+1. Lietuvos bankas nustato kredito įstaigoms, elektroninių pinigų įstaigoms, mokėjimo įstaigoms, valiutos keityklos operatoriams, sutelktinio finansavimo paslaugų teikėjams, tarpusavio skolinimo platformų operatoriams, draudimo įmonėms, vykdančioms gyvybės draudimo veiklą, draudimo brokerių įmonėms, vykdančioms su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, finansų maklerio įmonėms, valdymo įmonėms, investicinėms bendrovėms, depozitoriumui ir užsienio valstybių šioje dalyje nurodytų subjektų filialams, įsteigtiems Lietuvos Respublikoje, taip pat elektroninių pinigų įstaigoms ir mokėjimo įstaigoms, kurių buveinė yra kitoje valstybėje narėje ir kurios teikia paslaugas Lietuvos Respublikoje per tarpininkus, fizinius ar juridinius asmenis, kriptoturto paslaugų teikėjams skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri šių subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, išskyrus atvejus, kai pagal [Reglamentą (ES) 2024/1620](https://eur-lex.europa.eu/eli/reg/2024/1620/oj) priežiūrą atlieka Europos Sąjungos Kovos su pinigų plovimu ir teroristų finansavimu institucija (toliau – Kovos su pinigų plovimu ir teroristų finansavimu institucija), konsultuoja šiuos subjektus šioje dalyje nurodytų nurodymų įgyvendinimo klausimais. Kriptoturto paslaugų teikėjams skirti nurodymai nustatomi suderinus su Finansinių nusikaltimų tyrimo tarnyba. ^s-ad5ace02ceac63ed1322b5fd
 Straipsnio dalies pakeitimai:
 Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
@@ -500,14 +500,14 @@ Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 
 
 
-9. Finansinių nusikaltimų tyrimo tarnyba nustato kitiems subjektams, nenurodytiems šio straipsnio 1–[[#^s-091848f54c3e85baa0cf67e7|8 dalyse]], skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri finansų įstaigų ir kitų įpareigotųjų subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencija, teikia jiems metodinę pagalbą. ^s-32f1f1a05c27ef6dae78e4d1
+9. Finansinių nusikaltimų tyrimo tarnyba nustato kitiems subjektams, nenurodytiems šio straipsnio [[#^s-ad5ace02ceac63ed1322b5fd|1]]–[[#^s-091848f54c3e85baa0cf67e7|8]] dalyse, skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui, prižiūri finansų įstaigų ir kitų įpareigotųjų subjektų veiklą, susijusią su pinigų plovimo ir (ar) teroristų finansavimo prevencija, teikia jiems metodinę pagalbą. ^s-32f1f1a05c27ef6dae78e4d1
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 
 
 
-10. Šio straipsnio 1–[[#^s-091848f54c3e85baa0cf67e7|8 dalyse]] nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, privalo paskirti vadovaujančius darbuotojus, kurie organizuotų šiame įstatyme nustatytų pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimą ir palaikytų ryšius su Finansinių nusikaltimų tyrimo tarnyba. ^s-aa753f437cdb93168ee8b502
+10. Šio straipsnio [[#^s-ad5ace02ceac63ed1322b5fd|1]]–[[#^s-091848f54c3e85baa0cf67e7|8]] dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, privalo paskirti vadovaujančius darbuotojus, kurie organizuotų šiame įstatyme nustatytų pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimą ir palaikytų ryšius su Finansinių nusikaltimų tyrimo tarnyba. ^s-aa753f437cdb93168ee8b502
 Straipsnio dalies pakeitimai:
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 
@@ -519,7 +519,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-12. Šio straipsnio 1–[[#^s-091848f54c3e85baa0cf67e7|8 dalyse]] nurodytos institucijos ir Finansinių nusikaltimų tyrimo tarnyba tarpusavyje nustatyta tvarka bendradarbiauja ir keičiasi informacija apie atliktų subjektų veiklos, susijusios su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, patikrinimų rezultatus. ^s-a783b014cb71bd4f6be0859f
+12. Šio straipsnio [[#^s-ad5ace02ceac63ed1322b5fd|1]]–[[#^s-091848f54c3e85baa0cf67e7|8]] dalyse nurodytos institucijos ir Finansinių nusikaltimų tyrimo tarnyba tarpusavyje nustatyta tvarka bendradarbiauja ir keičiasi informacija apie atliktų subjektų veiklos, susijusios su pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemonių įgyvendinimu, patikrinimų rezultatus. ^s-a783b014cb71bd4f6be0859f
 
 
 13. Lietuvos advokatūra, Lietuvos notarų rūmai, Lietuvos auditorių rūmai, Lietuvos antstolių rūmai ir Lietuvos prabavimo rūmai kaupia ir savo metinėse veiklos ataskaitose savo interneto svetainėse viešai skelbia šią informaciją: ^s-ebae634968f26fc142090f66
@@ -536,7 +536,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-14. Lietuvos advokatūra kaupia ir savo metinėse veiklos ataskaitose savo interneto svetainėje viešai skelbia statistinę informaciją apie gautų šio įstatymo [[#^s-7e7393d94543b20dcfee1c23|16 straipsnio]] 2 ir [[#^s-cee4195b215237a3b8ca6770|3 dalyse]] nurodytų pranešimų skaičių per metus ir šių pranešimų, perduotų Finansinių nusikaltimų tyrimo tarnybai, skaičių per metus. ^s-84d39a363f264f8df545d785
+14. Lietuvos advokatūra kaupia ir savo metinėse veiklos ataskaitose savo interneto svetainėje viešai skelbia statistinę informaciją apie gautų šio įstatymo [[#^s-7e7393d94543b20dcfee1c23|16 straipsnio]] [[#^s-f449ab950c6bb219ff9218c3|2]] ir [[#^s-7f4153e16b37bdd311b9d1cb|3]] dalyse nurodytų pranešimų skaičių per metus ir šių pranešimų, perduotų Finansinių nusikaltimų tyrimo tarnybai, skaičių per metus. ^s-84d39a363f264f8df545d785
 Papildyta straipsnio dalimi:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
@@ -548,7 +548,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-16. Šio straipsnio 1–[[#^s-32f1f1a05c27ef6dae78e4d1|9 dalyse]] nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, privalo įdiegti informaciją teikiančio asmens konfidencialumą užtikrinančias priemones, kuriomis naudodamiesi asmenys saugiais kanalais praneštų nurodytoms institucijoms apie šio įstatymo pažeidimus. ^s-589285d05f5ad8e6854de8fe
+16. Šio straipsnio [[#^s-ad5ace02ceac63ed1322b5fd|1]]–[[#^s-32f1f1a05c27ef6dae78e4d1|9]] dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, privalo įdiegti informaciją teikiančio asmens konfidencialumą užtikrinančias priemones, kuriomis naudodamiesi asmenys saugiais kanalais praneštų nurodytoms institucijoms apie šio įstatymo pažeidimus. ^s-589285d05f5ad8e6854de8fe
 Papildyta straipsnio dalimi:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Straipsnio dalies pakeitimai:
@@ -595,13 +595,13 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 9) informuoja finansų įstaigas ir kitus įpareigotuosius subjektus, teisėsaugos ir kitas valstybės institucijas apie jų pranešimų apie įtartinas pinigines operacijas ar sandorius, apie pastebėtus galimo pinigų plovimo ir (ar) teroristų finansavimo požymius ar šio įstatymo pažeidimus, analizės ir tyrimų rezultatus; ^s-c60b81a2114ff470d9f523ef
 
 
-10) pagal Reglamentą (ES) Nr. 1093/2010 bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją; ^s-3c8c98bbd3cf1702b1095d18
+10) pagal [Reglamentą (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) bendradarbiauja su Europos bankininkystės institucija ir teikia jai visą jos užduotims atlikti būtiną informaciją; ^s-3c8c98bbd3cf1702b1095d18
 Straipsnio punkto pakeitimai:
 Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
 
 
 
-11) pagal Reglamentą (ES) 2024/1620 bendradarbiauja su Kovos su pinigų plovimu ir teroristų finansavimu institucija ir teikia jos užduotims atlikti būtiną informaciją. ^s-4ca6261cea1afa789fcdfdb8
+11) pagal [Reglamentą (ES) 2024/1620](https://eur-lex.europa.eu/eli/reg/2024/1620/oj) bendradarbiauja su Kovos su pinigų plovimu ir teroristų finansavimu institucija ir teikia jos užduotims atlikti būtiną informaciją. ^s-4ca6261cea1afa789fcdfdb8
 Papildyta straipsnio punktu:
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 
@@ -614,7 +614,7 @@ Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 ### 51 straipsnis. Finansinės informacijos ir finansinės analizės informacijos teikimas Lietuvos Respublikos kompetentingoms valstybės institucijoms ir Europos Sąjungos teisėsaugos bendradarbiavimo agentūrai (Europolui) ^s-9efd426656d8875d821139a4
 
 
-1. Finansinių nusikaltimų tyrimo tarnyba, gavusi motyvuotą Lietuvos Respublikos kompetentingos valstybės institucijos, teisės aktų įgaliotos vykdyti nusikalstamų veikų prevenciją, tyrimą, atskleidimą arba baudžiamąjį persekiojimą (toliau šiame straipsnyje – kompetentinga valstybės institucija), prašymą pateikti turimą finansinę informaciją ar finansinės analizės informaciją, kuri konkrečiu atveju būtina veikos, įvardytos 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/794 dėl Europos Sąjungos teisėsaugos bendradarbiavimo agentūros (Europolo), kuriuo pakeičiami ir panaikinami Tarybos sprendimai 2009/371/TVR, 2009/934/TVR, 2009/935/TVR, 2009/936/TVR ir 2009/968/TVR, I priede, prevencijai, tyrimui, atskleidimui arba baudžiamajam persekiojimui, pateikia ją nedelsdama, ne vėliau kaip per 10 darbo dienų. ^s-50d9a1e51137eafb85a46d01
+1. Finansinių nusikaltimų tyrimo tarnyba, gavusi motyvuotą Lietuvos Respublikos kompetentingos valstybės institucijos, teisės aktų įgaliotos vykdyti nusikalstamų veikų prevenciją, tyrimą, atskleidimą arba baudžiamąjį persekiojimą (toliau šiame straipsnyje – kompetentinga valstybės institucija), prašymą pateikti turimą finansinę informaciją ar finansinės analizės informaciją, kuri konkrečiu atveju būtina veikos, įvardytos 2016 m. gegužės 11 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/794](https://eur-lex.europa.eu/eli/reg/2016/794/oj) dėl Europos Sąjungos teisėsaugos bendradarbiavimo agentūros (Europolo), kuriuo pakeičiami ir panaikinami Tarybos sprendimai 2009/371/TVR, 2009/934/TVR, 2009/935/TVR, 2009/936/TVR ir 2009/968/TVR, I priede, prevencijai, tyrimui, atskleidimui arba baudžiamajam persekiojimui, pateikia ją nedelsdama, ne vėliau kaip per 10 darbo dienų. ^s-50d9a1e51137eafb85a46d01
 
 
 2. Finansinių nusikaltimų tyrimo tarnyba neprivalo pateikti turimos finansinės informacijos ar finansinės analizės informacijos kompetentingai valstybės institucijai, jeigu yra objektyvių priežasčių daryti prielaidą, kad suteikus tokią informaciją būtų padarytas neigiamas poveikis Finansinių nusikaltimų tyrimo tarnybos atliekamiems tyrimams ar analizėms, arba išskirtinėmis aplinkybėmis, kai informacijos atskleidimas būtų akivaizdžiai neproporcingas teisėtiems fizinio ar juridinio asmens interesams arba neatitiktų tikslų, kuriais jos prašoma. Tokiu atveju Finansinių nusikaltimų tyrimo tarnyba pateikia kompetentingai valstybės institucijai motyvuotą atsisakymą pateikti prašomą informaciją. ^s-6618c09e59b356a677ecb945
@@ -626,7 +626,7 @@ Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 4. Pagal šio straipsnio 1 dalį gauta finansinė informacija ar finansinės analizės informacija gali būti perduota trečiosioms šalims arba naudojama kitais tikslais, negu iš pradžių įvardytais, tik tuo atveju, jeigu yra gautas Finansinių nusikaltimų tyrimo tarnybos sutikimas, ir tik tam tikslui, dėl kurio gautas sutikimas. ^s-3fbf3bec5cb8c23e135c052f
 
 
-5. Kompetentingos valstybės institucijos tvarko pagal šio straipsnio 1 dalį gautą finansinę informaciją ir finansinės analizės informaciją nusikalstamos veikos, įvardytos Reglamento (ES) 2016/794 I priede, prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas tikslais, išskyrus [[latest/TAR.299D835159BE#^s-cc04707d51152c8bf4162558|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymo 3 straipsnio 2 dalyje]] nustatytus tikslus. ^s-a9aeb233a61cbabee03f760c
+5. Kompetentingos valstybės institucijos tvarko pagal šio straipsnio 1 dalį gautą finansinę informaciją ir finansinės analizės informaciją nusikalstamos veikos, įvardytos [Reglamento (ES) 2016/794](https://eur-lex.europa.eu/eli/reg/2016/794/oj) I priede, prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas tikslais, išskyrus [[latest/TAR.299D835159BE#^s-cc04707d51152c8bf4162558|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymo 3 straipsnio 2 dalyje]] nustatytus tikslus. ^s-a9aeb233a61cbabee03f760c
 
 
 6. Finansinių nusikaltimų tyrimo tarnyba, gavusi motyvuotą Europos Sąjungos teisėsaugos bendradarbiavimo agentūros (Europolo) prašymą pateikti turimą finansinę informaciją ar finansinės analizės informaciją, kuri konkrečiu atveju būtina Europolo funkcijoms ir uždaviniams vykdyti, pateikia ją nedelsdama, ne vėliau kaip per 10 darbo dienų. ^s-42dfa28a0af80dac0959b350
@@ -635,7 +635,7 @@ Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 7. Finansinių nusikaltimų tyrimo tarnyba neprivalo pateikti turimos finansinės informacijos ar finansinės analizės informacijos Europolui, jeigu yra objektyvių priežasčių daryti prielaidą, kad, suteikus tokią informaciją, būtų padarytas neigiamas poveikis Finansinių nusikaltimų tyrimo tarnybos atliekamiems tyrimams ar analizėms, arba išskirtinėmis aplinkybėmis tais atvejais, kai informacijos atskleidimas būtų aiškiai neproporcingas teisėtiems fizinio ar juridinio asmens interesams arba neatitiktų tikslų, kuriais jos prašoma. Tokiu atveju Finansinių nusikaltimų tyrimo tarnyba pateikia Europolui motyvuotą atsisakymą pateikti prašomą informaciją. ^s-c9e604c71ff113950cd8298a
 
 
-8. Keičiantis informacija su Europolu, laikomasi Reglamento (ES) 2016/794 [[#^s-14b9c27c868d4760b7c4deef|7 straipsnio]] 6 ir 7 dalyse įtvirtintų nuostatų. ^s-ff6c30061f8af43a2623924f
+8. Keičiantis informacija su Europolu, laikomasi [Reglamento (ES) 2016/794 7 straipsnio](https://eur-lex.europa.eu/eli/reg/2016/794/art_7/oj) 6 ir 7 dalyse įtvirtintų nuostatų. ^s-ff6c30061f8af43a2623924f
 
 
 9. Keičiantis informacija pagal šį straipsnį, susipažinti su specialių kategorijų asmens duomenimis ir juos tvarkyti, prižiūrint duomenų apsaugos pareigūnui, turi teisę tik tie darbuotojai, kurie yra specialiai apmokyti ir specialiai įgalioti duomenų valdytojo. ^s-7cc409ea54a2fc9fc6439f21
@@ -704,7 +704,7 @@ Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 Finansinių nusikaltimų tyrimo tarnyba turi teisę:
 
 
-1) gauti iš šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] 1–8 dalyse nurodytų institucijų, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, kitų valstybės institucijų (toliau šiame straipsnyje – institucijos), finansų įstaigų, kitų įpareigotųjų subjektų, išskyrus advokatus ar advokatų padėjėjus, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese ar dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo, reikalingus duomenis ir dokumentus apie pinigines operacijas ar sandorius arba kriptoturto operacijas ar sandorius arba operacijas virtualiąja valiuta ar sandorius, kitą informaciją, reikalingą šio įstatymo nustatytoms funkcijoms ir uždaviniams vykdyti; ^s-a7ecd609f9a700bab74235fe
+1) gauti iš šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] [[#^s-ad5ace02ceac63ed1322b5fd|1]]–[[#^s-091848f54c3e85baa0cf67e7|8]] dalyse nurodytų institucijų, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, kitų valstybės institucijų (toliau šiame straipsnyje – institucijos), finansų įstaigų, kitų įpareigotųjų subjektų, išskyrus advokatus ar advokatų padėjėjus, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese ar dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo, reikalingus duomenis ir dokumentus apie pinigines operacijas ar sandorius arba kriptoturto operacijas ar sandorius arba operacijas virtualiąja valiuta ar sandorius, kitą informaciją, reikalingą šio įstatymo nustatytoms funkcijoms ir uždaviniams vykdyti; ^s-a7ecd609f9a700bab74235fe
 Straipsnio punkto pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
@@ -742,10 +742,10 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 1. Valstybės institucijos iškilus naujoms aplinkybėms ar atsiradus naujai informacijai ne rečiau kaip kas 4 metus per 20 darbo dienų nuo Finansinių nusikaltimų tyrimo tarnybos rašytinio kreipimosi pagal kompetenciją teikia Finansinių nusikaltimų tyrimo tarnybai informaciją, reikalingą svarbių viešųjų pareigų Lietuvos Respublikoje sąrašui sudaryti ir atnaujinti: ^s-a0d9f021fe67a43bd3f9fe95
 
 
-1) Lietuvos Respublikos vidaus reikalų ministerija – informaciją, atsižvelgdama į šio įstatymo [[#^s-0d039bca6ffe4187360667ac|2 straipsnio 19 dalies]] 1 ir [[#^s-ccf45de4f4e502971f2e4803|4 punktus]]; ^s-d6699275120d4bdf1037486f
+1) Lietuvos Respublikos vidaus reikalų ministerija – informaciją, atsižvelgdama į šio įstatymo [[#^s-0d039bca6ffe4187360667ac|2 straipsnio 19 dalies]] [[#^s-68a76187077b325437f06115|1]] ir [[#^s-f18139ffa91f83df9945f20b|4]] punktus; ^s-d6699275120d4bdf1037486f
 
 
-2) Lietuvos Respublikos teisingumo ministerija – informaciją, atsižvelgdama į šio įstatymo [[#^s-0d039bca6ffe4187360667ac|2 straipsnio 19 dalies]] 2, 3 ir 10 punktus; ^s-cdcb33f7a80ea0b04e8995b3
+2) Lietuvos Respublikos teisingumo ministerija – informaciją, atsižvelgdama į šio įstatymo [[#^s-0d039bca6ffe4187360667ac|2 straipsnio 19 dalies]] [[#^s-900ab194a774e952b76b258c|2]], [[#^s-45f5d236a62880f8e856c4e2|3]] ir [[#^s-44796bd0ed6e1e140ed1a03d|10]] punktus; ^s-cdcb33f7a80ea0b04e8995b3
 
 
 3) Lietuvos Respublikos užsienio reikalų ministerija – informaciją, atsižvelgdama į šio įstatymo [[#^s-3ad8a7fd0d545aa32b7376fb|2 straipsnio 19 dalies 6 punktą]] (apie Lietuvos Respublikos ambasadorius ir Lietuvos Respublikos laikinuosius reikalų patikėtinius); ^s-51148679c9dd1e2f5f65559c
@@ -754,7 +754,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 4) Lietuvos Respublikos krašto apsaugos ministerija – informaciją, atsižvelgdama į šio įstatymo [[#^s-3ad8a7fd0d545aa32b7376fb|2 straipsnio 19 dalies 6 punktą]] (apie šiame punkte nurodytus Lietuvos kariuomenės karininkus); ^s-ccf45de4f4e502971f2e4803
 
 
-5) Lietuvos Respublikos ekonomikos ir inovacijų ministerija – informaciją, atsižvelgdama į šio įstatymo [[#^s-0d039bca6ffe4187360667ac|2 straipsnio 19 dalies]] 7 ir 8 punktus; ^s-962ee760bd0efac581a7eda8
+5) Lietuvos Respublikos ekonomikos ir inovacijų ministerija – informaciją, atsižvelgdama į šio įstatymo [[#^s-0d039bca6ffe4187360667ac|2 straipsnio 19 dalies]] [[#^s-7b1056c435cea2c0ca6d1e29|7]] ir [[#^s-bd789f47c58ee340d2a7b91b|8]] punktus; ^s-962ee760bd0efac581a7eda8
 
 
 6) Lietuvos Respublikos finansų ministerija – informaciją, atsižvelgdama į šio įstatymo [[#^s-7a623f9dac6a3d02bbc563fe|2 straipsnio 19 dalies 5 punktą]]. ^s-706b9e5d75a6d7e347d7cd25
@@ -766,7 +766,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 3. Lietuvos Respublikoje akredituotos tarptautinės organizacijos per 20 darbo dienų nuo Finansinių nusikaltimų tyrimo tarnybos rašytinio kreipimosi sudaro ir nuolat, ne rečiau kaip kas 4 metus, atnaujina tos tarptautinės organizacijos svarbių viešųjų pareigų sąrašą ir pateikia jį Finansinių nusikaltimų tyrimo tarnybai. ^s-9bf6ee2e71327bb44bda4189
 
 
-4. Šio straipsnio 2 ir [[#^s-9bf6ee2e71327bb44bda4189|3 dalyse]] nurodytus svarbių viešųjų pareigų sąrašus Finansinių nusikaltimų tyrimo tarnyba per 20 darbo dienų nuo informacijos gavimo pateikia Europos Komisijai ir skelbia viešai savo interneto svetainėje. ^s-13a40a229a2e63ba78cd02fa
+4. Šio straipsnio [[#^s-57c061d674e5a630b3b8780b|2]] ir [[#^s-9bf6ee2e71327bb44bda4189|3]] dalyse nurodytus svarbių viešųjų pareigų sąrašus Finansinių nusikaltimų tyrimo tarnyba per 20 darbo dienų nuo informacijos gavimo pateikia Europos Komisijai ir skelbia viešai savo interneto svetainėje. ^s-13a40a229a2e63ba78cd02fa
 
 
 Papildyta straipsniu:
@@ -783,7 +783,7 @@ Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 1. Valstybės institucijos, nevykdančios baudžiamojo persekiojimo, privalo pranešti Finansinių nusikaltimų tyrimo tarnybai, kai pastebi galimo pinigų plovimo ir (ar) teroristų finansavimo veikas, apie šio įstatymo pažeidimus ir priemones, kurių buvo imtasi prieš pažeidėjus. ^s-31bc8c21a4877616930471b1
 
 
-2. Šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] 1–8 dalyse nurodytos institucijos bendradarbiauja ir keičiasi informacija su užsienio valstybių ir Europos Sąjungos institucijomis, įgyvendinančiomis pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemones. ^s-fc939e47577e2c424db78d54
+2. Šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] [[#^s-ad5ace02ceac63ed1322b5fd|1]]–[[#^s-091848f54c3e85baa0cf67e7|8]] dalyse nurodytos institucijos bendradarbiauja ir keičiasi informacija su užsienio valstybių ir Europos Sąjungos institucijomis, įgyvendinančiomis pinigų plovimo ir (ar) teroristų finansavimo prevencijos priemones. ^s-fc939e47577e2c424db78d54
 Straipsnio dalies pakeitimai:
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 
@@ -826,7 +826,7 @@ PINIGŲ PLOVIMO IR (AR) TERORISTŲ FINANSAVIMO PREVENCIJOS PRIEMONĖS
 ### 9 straipsnis. Kliento ir naudos gavėjo tapatybės nustatymas ^s-781326fd10213b148a836324
 
 
-1. Finansų įstaigos ir kiti įpareigotieji subjektai, išskyrus asmenis, nurodytus šio straipsnio 3 ir [[#^s-02efd2e63e3a22ccdecfdd19|4 dalyse]], privalo imtis priemonių ir nustatyti bei patikrinti kliento ir naudos gavėjo tapatybę: ^s-af5224fd95afdfb4dc377e1e
+1. Finansų įstaigos ir kiti įpareigotieji subjektai, išskyrus asmenis, nurodytus šio straipsnio [[#^s-64710f4ee594b64de4110639|3]] ir [[#^s-02efd2e63e3a22ccdecfdd19|4]] dalyse, privalo imtis priemonių ir nustatyti bei patikrinti kliento ir naudos gavėjo tapatybę: ^s-af5224fd95afdfb4dc377e1e
 
 
 1) prieš pradėdami dalykinius santykius; ^s-a6e7562a9f0f312ced2aef77
@@ -841,7 +841,7 @@ PINIGŲ PLOVIMO IR (AR) TERORISTŲ FINANSAVIMO PREVENCIJOS PRIEMONĖS
 4) vykdydami pinigų perlaidų grynaisiais pinigais paslaugas, kai siunčiamų ar gaunamų pinigų suma viršija 600 eurų ar ją atitinkančią sumą užsienio valiuta; ^s-711e36512266f86e325c894d
 
 
-5) vykdydami ir priimdami pinigų pervedimus – vadovaudamiesi Reglamento (ES) 2023/1113 nuostatomis; ^s-558bd43429163ef0a6b14502
+5) vykdydami ir priimdami pinigų pervedimus – vadovaudamiesi [Reglamento (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj) nuostatomis; ^s-558bd43429163ef0a6b14502
 Straipsnio punkto pakeitimai:
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 
@@ -878,7 +878,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-4. Jeigu elektroniniams pinigams pagal kredito įstaigų ir elektroninių pinigų įstaigų nustatytas rizikos vertinimo ir valdymo procedūras nustatoma maža pinigų plovimo ir (ar) teroristų finansavimo rizika, kredito ir elektroninių pinigų įstaigos, nustatydamos kliento ir naudos gavėjo tapatybę, gali nukrypti nuo šio įstatymo 10, 11 ir [[#^s-b121a23fbf63b0e059ae66e6|12 straipsnių]] nuostatų ir taikyti tik [[#^s-62f2b6f886ca295100c794b1|šio straipsnio 16 dalyje]] ir šio įstatymo [[#^s-fb61f4a14fc5df6b09a0ffbd|17 straipsnyje]] nustatytas kliento ir naudos gavėjo tapatybės nustatymo priemones, jeigu laikomasi visų toliau išdėstytų rizikos mažinimo sąlygų: ^s-02efd2e63e3a22ccdecfdd19
+4. Jeigu elektroniniams pinigams pagal kredito įstaigų ir elektroninių pinigų įstaigų nustatytas rizikos vertinimo ir valdymo procedūras nustatoma maža pinigų plovimo ir (ar) teroristų finansavimo rizika, kredito ir elektroninių pinigų įstaigos, nustatydamos kliento ir naudos gavėjo tapatybę, gali nukrypti nuo šio įstatymo [[#^s-73fdde75724cad948ea6fb50|10]], [[#^s-8aafcc0470d211fc0caac360|11]] ir [[#^s-b121a23fbf63b0e059ae66e6|12]] straipsnių nuostatų ir taikyti tik [[#^s-62f2b6f886ca295100c794b1|šio straipsnio 16 dalyje]] ir šio įstatymo [[#^s-fb61f4a14fc5df6b09a0ffbd|17 straipsnyje]] nustatytas kliento ir naudos gavėjo tapatybės nustatymo priemones, jeigu laikomasi visų toliau išdėstytų rizikos mažinimo sąlygų: ^s-02efd2e63e3a22ccdecfdd19
 
 
 1) elektroninių pinigų mokėjimo priemonės negalima papildyti arba, jeigu papildyti galima, jai taikoma maksimali 150 eurų dydžio mokėjimo sandorių mėnesinė riba ir elektroninių pinigų mokėjimo priemonę galima naudoti tik Lietuvos Respublikoje; ^s-7c95dcf8fde73268352f2be7
@@ -909,7 +909,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-5. Jeigu pagal finansų įstaigos nustatytas rizikos vertinimo ir valdymo procedūras nustatoma maža pinigų plovimo ir (ar) teroristų finansavimo rizika, finansų įstaigos, atidarydamos sąskaitą, gali pradėti dalykinius santykius su klientu nepatikrinusios jo tapatybės, jeigu yra gavusios šio įstatymo [[#^s-8606b6d7a51a9883f708be78|10 straipsnio 1 dalies]] 1, 2, 3 ir 4 punktuose, [[#^s-4a44f3744dcbea5893d59439|10 straipsnio 2 dalyje]] ir [[#^s-d2eb4c33c300470a7917fc78|12 straipsnio 2 dalyje]] nustatytus duomenis ir jeigu užtikrina, kad tokioje sąskaitoje piniginės operacijos nebus vykdomos iki kliento ir naudos gavėjo tapatybės nustatymo proceso pabaigos ir kad kliento ir naudos gavėjo tapatybė galutinai bus nustatyta ne vėliau kaip per vieną mėnesį po sąskaitos atidarymo. Visais atvejais kliento ir naudos gavėjo tapatybė turi būti nustatoma prieš piniginės operacijos atlikimą. Finansų įstaigos taip pat privalo nustatyti vidaus politiką ir vidaus kontrolės procedūras, susijusias su rizikos, atsirandančios dėl sąskaitų atidarymo galutinai nenustačius kliento ir naudos gavėjo tapatybės, valdymu. ^s-54a526debe276fda9ac696bc
+5. Jeigu pagal finansų įstaigos nustatytas rizikos vertinimo ir valdymo procedūras nustatoma maža pinigų plovimo ir (ar) teroristų finansavimo rizika, finansų įstaigos, atidarydamos sąskaitą, gali pradėti dalykinius santykius su klientu nepatikrinusios jo tapatybės, jeigu yra gavusios šio įstatymo [[#^s-8606b6d7a51a9883f708be78|10 straipsnio 1 dalies]] [[#^s-3b926b413972883dbfaa4a9b|1]], [[#^s-70607779f8aba23e34c0ad5e|2]], [[#^s-edce1c371e536dbc5bec2584|3]] ir [[#^s-4c67eab9cee90b7e253278af|4]] punktuose, [[#^s-4a44f3744dcbea5893d59439|10 straipsnio 2 dalyje]] ir [[#^s-d2eb4c33c300470a7917fc78|12 straipsnio 2 dalyje]] nustatytus duomenis ir jeigu užtikrina, kad tokioje sąskaitoje piniginės operacijos nebus vykdomos iki kliento ir naudos gavėjo tapatybės nustatymo proceso pabaigos ir kad kliento ir naudos gavėjo tapatybė galutinai bus nustatyta ne vėliau kaip per vieną mėnesį po sąskaitos atidarymo. Visais atvejais kliento ir naudos gavėjo tapatybė turi būti nustatoma prieš piniginės operacijos atlikimą. Finansų įstaigos taip pat privalo nustatyti vidaus politiką ir vidaus kontrolės procedūras, susijusias su rizikos, atsirandančios dėl sąskaitų atidarymo galutinai nenustačius kliento ir naudos gavėjo tapatybės, valdymu. ^s-54a526debe276fda9ac696bc
 
 
 6. Draudimo įmonės, vykdančios gyvybės draudimo veiklą, ir draudimo brokerių įmonės, vykdančios su gyvybės draudimu susijusią draudimo tarpininkavimo veiklą, papildomai nustato ir patikrina draudimo sutartyje nurodyto asmens, turinčio teisę gauti draudimo išmoką, arba asmens, turinčio teisę gauti draudimo išmoką vadovaujantis teisės aktais (toliau – išmokos gavėjas), tapatybę: ^s-b5a470d48723ad220169197a
@@ -1034,7 +1034,7 @@ Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
 17. Siekiant užtikrinti, kad kliento ir naudos gavėjo tapatybės nustatymo metu pateikti dokumentai, duomenys ar informacija yra tinkami ir aktualūs, jie finansų įstaigų ir kitų įpareigotųjų subjektų privalo būti nuolat peržiūrimi ir atnaujinami. ^s-1149b60f35b56984295ae1eb
 
 
-18. Finansų įstaigoms ir kitiems įpareigotiesiems subjektams draudžiama vykdyti sandorius per banko sąskaitas, užmegzti ar tęsti dalykinius santykius, vykdyti sandorius, kai jie neturi galimybių įvykdyti šiame straipsnyje nustatytų reikalavimų: jeigu klientas šio įstatymo nustatytais atvejais nepateikia duomenų, patvirtinančių jo tapatybę, jeigu pateikia ne visus duomenis arba jie yra neteisingi, jeigu klientas ar jo atstovas vengia pateikti informaciją, reikalingą jo tapatybei nustatyti, slepia naudos gavėjo tapatybę ar vengia pateikti informaciją, reikalingą naudos gavėjo tapatybei nustatyti, arba pateiktų duomenų tam neužtenka; jeigu finansų įstaiga ar kitas įpareigotasis subjektas negali užtikrinti šio straipsnio 12–[[#^s-62f2b6f886ca295100c794b1|16 dalyse]] nurodytų reikalavimų vykdymo. Tokiais atvejais finansų įstaigos ir kiti įpareigotieji subjektai, įvertinę keliamą pinigų plovimo ir (ar) teroristų finansavimo grėsmę, sprendžia dėl pranešimo apie įtartiną piniginę operaciją ar sandorį perdavimo Finansinių nusikaltimų tyrimo tarnybai tikslingumo. ^s-8699fe3aef41029ad50ba8a1
+18. Finansų įstaigoms ir kitiems įpareigotiesiems subjektams draudžiama vykdyti sandorius per banko sąskaitas, užmegzti ar tęsti dalykinius santykius, vykdyti sandorius, kai jie neturi galimybių įvykdyti šiame straipsnyje nustatytų reikalavimų: jeigu klientas šio įstatymo nustatytais atvejais nepateikia duomenų, patvirtinančių jo tapatybę, jeigu pateikia ne visus duomenis arba jie yra neteisingi, jeigu klientas ar jo atstovas vengia pateikti informaciją, reikalingą jo tapatybei nustatyti, slepia naudos gavėjo tapatybę ar vengia pateikti informaciją, reikalingą naudos gavėjo tapatybei nustatyti, arba pateiktų duomenų tam neužtenka; jeigu finansų įstaiga ar kitas įpareigotasis subjektas negali užtikrinti šio straipsnio [[#^s-977170e893f7b0df622b174d|12]]–[[#^s-62f2b6f886ca295100c794b1|16]] dalyse nurodytų reikalavimų vykdymo. Tokiais atvejais finansų įstaigos ir kiti įpareigotieji subjektai, įvertinę keliamą pinigų plovimo ir (ar) teroristų finansavimo grėsmę, sprendžia dėl pranešimo apie įtartiną piniginę operaciją ar sandorį perdavimo Finansinių nusikaltimų tyrimo tarnybai tikslingumo. ^s-8699fe3aef41029ad50ba8a1
 
 
 19. [[#^s-8699fe3aef41029ad50ba8a1|Šio straipsnio 18 dalis]] netaikoma notarams, notaro atstovams ir teisę atlikti notarinius veiksmus turintiems asmenims, auditoriams, antstoliams ir antstolio atstovams, apskaitos ar mokesčių konsultavimo paslaugas teikiantiems subjektams tuo metu, kai jie vertina savo kliento teisinę padėtį, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo. [[#^s-8699fe3aef41029ad50ba8a1|Šio straipsnio 18 dalis]] netaikoma advokatams ir advokatų padėjėjams, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese arba dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo. ^s-b63d95a8a4f75adb08737bbc
@@ -1218,13 +1218,13 @@ Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
 
 
 
-2. Nustatant kliento ir naudos gavėjo tapatybę [[#^s-595138f6cf9e91ae6305348b|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytais atvejais, laikomasi šių sąlygų: ^s-594ce738004a469bbca065c9
+2. Nustatant kliento ir naudos gavėjo tapatybę [[#^s-595138f6cf9e91ae6305348b|šio straipsnio 1 dalies]] [[#^s-b85a489ad76c0beb2d400873|1]], [[#^s-f4003c0a2acec8d7d8f41330|2]] ir 3 punktuose nurodytais atvejais, laikomasi šių sąlygų: ^s-594ce738004a469bbca065c9
 
 
-1) prieš nustatant kliento ir naudos gavėjo tapatybę [[#^s-595138f6cf9e91ae6305348b|šio straipsnio 1 dalies]] 1 ir [[#^s-f4003c0a2acec8d7d8f41330|2 punktuose]] nurodytais atvejais kliento tapatybė trečiosios šalies buvo nustatyta jam fiziškai dalyvaujant arba naudojant elektronines priemones, leidžiančias tiesioginį vaizdo perdavimą vienu iš būdų, nurodytų [[#^s-5385e60622010c92f253a0be|šio straipsnio 1 dalies 4 punkte]], arba [[#^s-f1ce53e70dbb2f0f52cad867|šio straipsnio 1 dalies 5 punkte]] nurodytu būdu, taip pat kai kliento tapatybė buvo nustatyta jam fiziškai dalyvaujant išduodant elektroninės atpažinties priemonę, veikiančią pagal aukšto arba pakankamo saugumo užtikrinimo lygio elektroninės atpažinties schemą; ^s-b85a489ad76c0beb2d400873
+1) prieš nustatant kliento ir naudos gavėjo tapatybę [[#^s-595138f6cf9e91ae6305348b|šio straipsnio 1 dalies]] 1 ir [[#^s-f4003c0a2acec8d7d8f41330|2]] punktuose nurodytais atvejais kliento tapatybė trečiosios šalies buvo nustatyta jam fiziškai dalyvaujant arba naudojant elektronines priemones, leidžiančias tiesioginį vaizdo perdavimą vienu iš būdų, nurodytų [[#^s-5385e60622010c92f253a0be|šio straipsnio 1 dalies 4 punkte]], arba [[#^s-f1ce53e70dbb2f0f52cad867|šio straipsnio 1 dalies 5 punkte]] nurodytu būdu, taip pat kai kliento tapatybė buvo nustatyta jam fiziškai dalyvaujant išduodant elektroninės atpažinties priemonę, veikiančią pagal aukšto arba pakankamo saugumo užtikrinimo lygio elektroninės atpažinties schemą; ^s-b85a489ad76c0beb2d400873
 
 
-2) prieš nustatant kliento ir naudos gavėjo tapatybę [[#^s-595138f6cf9e91ae6305348b|šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodytais atvejais, kliento ir naudos gavėjo – fizinio asmens ir juridinio asmens atstovo tapatybė šio įstatymo [[#^s-781326fd10213b148a836324|9 straipsnyje]] nurodytais atvejais buvo nustatyta iš šio įstatymo [[#^s-73fdde75724cad948ea6fb50|10 straipsnyje]] nurodytų dokumentų. ^s-f4003c0a2acec8d7d8f41330
+2) prieš nustatant kliento ir naudos gavėjo tapatybę [[#^s-595138f6cf9e91ae6305348b|šio straipsnio 1 dalies]] [[#^s-b85a489ad76c0beb2d400873|1]], 2 ir 3 punktuose nurodytais atvejais, kliento ir naudos gavėjo – fizinio asmens ir juridinio asmens atstovo tapatybė šio įstatymo [[#^s-781326fd10213b148a836324|9 straipsnyje]] nurodytais atvejais buvo nustatyta iš šio įstatymo [[#^s-73fdde75724cad948ea6fb50|10 straipsnyje]] nurodytų dokumentų. ^s-f4003c0a2acec8d7d8f41330
 
 
 Straipsnio dalies pakeitimai:
@@ -1235,10 +1235,10 @@ Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 3. Nustatydami kliento ir naudos gavėjo tapatybę klientui fiziškai nedalyvaujant, finansų įstaigos ir kiti įpareigotieji subjektai privalo imtis šio įstatymo [[#^s-781326fd10213b148a836324|9 straipsnyje]] nustatytų priemonių ir nustatyti bei patikrinti ir kliento, ir naudos gavėjo tapatybę, kliento ir naudos gavėjo tapatybei nustatyti panaudoti papildomus duomenis, dokumentus ar papildomą informaciją, kuri leistų įsitikinti kliento tapatybės autentiškumu, patikrinti, ar yra aplinkybių taikyti sustiprintą kliento tapatybės nustatymą, ir: ^s-06212c8a74eb45d75abff112
 
 
-1) [[#^s-595138f6cf9e91ae6305348b|šio straipsnio 1 dalies]] 1, 4 ir 5 punktuose nurodytais atvejais gauti šio įstatymo 10 ir [[#^s-b121a23fbf63b0e059ae66e6|12 straipsniuose]] nurodytus duomenis; ^s-0ac7f23903705eaf612cc47a
+1) [[#^s-595138f6cf9e91ae6305348b|šio straipsnio 1 dalies]] 1, 4 ir 5 punktuose nurodytais atvejais gauti šio įstatymo [[#^s-73fdde75724cad948ea6fb50|10]] ir [[#^s-b121a23fbf63b0e059ae66e6|12]] straipsniuose nurodytus duomenis; ^s-0ac7f23903705eaf612cc47a
 
 
-2) [[#^s-595138f6cf9e91ae6305348b|šio straipsnio 1 dalies]] 2 ir 3 punktuose nurodytais atvejais gauti šio įstatymo [[#^s-8606b6d7a51a9883f708be78|10 straipsnio 1 dalies]] 1, 2, 3 ir 6 punktuose, [[#^s-926b19cb1f7d78c3f57e3312|10 straipsnio 11 dalyje]], [[#^s-4a44f3744dcbea5893d59439|10 straipsnio 2 dalies]] 1, 2, 3 punktuose ir [[#^s-d2eb4c33c300470a7917fc78|12 straipsnio 2 dalyje]] nurodytus duomenis. ^s-671753d84cdccfd709bfce07
+2) [[#^s-595138f6cf9e91ae6305348b|šio straipsnio 1 dalies]] 2 ir 3 punktuose nurodytais atvejais gauti šio įstatymo [[#^s-8606b6d7a51a9883f708be78|10 straipsnio 1 dalies]] [[#^s-3b926b413972883dbfaa4a9b|1]], [[#^s-70607779f8aba23e34c0ad5e|2]], [[#^s-edce1c371e536dbc5bec2584|3]] ir [[#^s-b1db0f6cfe35d02104becec3|6]] punktuose, [[#^s-926b19cb1f7d78c3f57e3312|10 straipsnio 11 dalyje]], [[#^s-4a44f3744dcbea5893d59439|10 straipsnio 2 dalies]] [[#^s-3f9dfa12535ce78e22e6aa66|1]], [[#^s-4f2d995546a0ff41f24884f5|2]], [[#^s-f13b8903b8ccde13ab8ff0fe|3]] punktuose ir [[#^s-d2eb4c33c300470a7917fc78|12 straipsnio 2 dalyje]] nurodytus duomenis. ^s-671753d84cdccfd709bfce07
 Straipsnio punkto pakeitimai:
 Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
 
@@ -1261,7 +1261,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 5. Kliento ir naudos gavėjo tapatybės nustatymo reikalavimus, kai tapatybė nustatoma klientui fiziškai nedalyvaujant, naudojantis elektroninėmis priemonėmis, leidžiančiomis tiesioginį vaizdo perdavimą, nustato Finansinių nusikaltimų tyrimo tarnyba. ^s-7c3425585a44986524a89bd5
 
 
-6. Finansų įstaigos, nustatydamos kliento ir naudos gavėjo tapatybę klientui fiziškai nedalyvaujant, vadovaujasi ir Europos bankininkystės institucijos gairėmis dėl nuotolinio kliento tapatybės nustatymo sprendimų pagal Direktyvos (ES) 2015/849 [[#^s-739bbbf5d345475a9d92a6ea|13 straipsnio 1 dalį]]. ^s-3ff8c3db75945f4021594311
+6. Finansų įstaigos, nustatydamos kliento ir naudos gavėjo tapatybę klientui fiziškai nedalyvaujant, vadovaujasi ir Europos bankininkystės institucijos gairėmis dėl nuotolinio kliento tapatybės nustatymo sprendimų pagal [Direktyvos (ES) 2015/849 13 straipsnio 1 dalį](https://eur-lex.europa.eu/eli/dir/2015/849/art_13/par_1/oj). ^s-3ff8c3db75945f4021594311
 Papildyta straipsnio dalimi:
 Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
@@ -1315,7 +1315,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-7. Naudos gavėjo tapatybė turi būti nustatyta iki kliento tapatybės nustatymo procedūros pabaigos, išskyrus šio įstatymo [[#^s-781326fd10213b148a836324|9 straipsnio]] 4, 5 ir [[#^s-382aef7e143485d943293ec1|6 dalyse]] nustatytus atvejus. ^s-72a723ca2dde0d8317eb601b
+7. Naudos gavėjo tapatybė turi būti nustatyta iki kliento tapatybės nustatymo procedūros pabaigos, išskyrus šio įstatymo [[#^s-781326fd10213b148a836324|9 straipsnio]] [[#^s-02efd2e63e3a22ccdecfdd19|4]], [[#^s-54a526debe276fda9ac696bc|5]] ir [[#^s-b5a470d48723ad220169197a|6]] dalyse nustatytus atvejus. ^s-72a723ca2dde0d8317eb601b
 
 
 8. Finansų įstaigos ir kiti įpareigotieji subjektai, nustatydami naudos gavėjo tapatybę, papildomai privalo naudotis Juridinių asmenų dalyvių informacine sistema (JADIS), iš kurios turi gauti duomenis apie to kliento naudos gavėjus, ir turi teisę naudotis kitomis valstybės informacinėmis sistemomis, registrais, kuriuose kaupiami duomenys apie juridinių asmenų dalyvius. ^s-642e38c64c30e46f0aed5e51
@@ -1407,7 +1407,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 5) jeigu pagal finansų įstaigų ar kitų įpareigotųjų subjektų nustatytas rizikos vertinimo ir valdymo procedūras nustatoma didesnė pinigų plovimo ir (ar) teroristų finansavimo rizika. Vertinant pinigų plovimo ir (ar) teroristų finansavimo rizikas, privalu vertinti [[#^s-52194a4ddc541c379b8d7652|šio straipsnio 10 dalyje]] nurodytus galimos didesnės pinigų plovimo ir (ar) teroristų finansavimo rizikos veiksnius; ^s-ef048d39e5ce8ab602e70344
 
 
-6) kai pradedami tarptautiniai korespondentiniai santykiai, apimantys kriptoturto paslaugas, kaip apibrėžta Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkte, išskyrus šio punkto h papunktyje nurodytą paslaugą, su Europos Sąjungoje neįsisteigusiu ir panašias paslaugas, įskaitant Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkto j papunktyje nurodytą paslaugą, teikiančiu subjektu respondentu. ^s-e11398995b1da9f457a5a812
+6) kai pradedami tarptautiniai korespondentiniai santykiai, apimantys kriptoturto paslaugas, kaip apibrėžta [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) 16 punkte, išskyrus šio punkto h papunktyje nurodytą paslaugą, su Europos Sąjungoje neįsisteigusiu ir panašias paslaugas, įskaitant [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) 16 punkto j papunktyje nurodytą paslaugą, teikiančiu subjektu respondentu. ^s-e11398995b1da9f457a5a812
 Papildyta straipsnio punktu:
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 
@@ -1441,7 +1441,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-21. Jeigu tarptautiniai korespondentiniai santykiai apima kriptoturto paslaugas, kaip apibrėžta Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkte, išskyrus šio punkto h papunktyje nurodytą paslaugą, su Europos Sąjungoje neįsisteigusiu ir panašias paslaugas, įskaitant Reglamento (ES) 2023/1114 3 straipsnio 1 dalies 16 punkto j papunktyje nurodytą paslaugą, teikiančiu subjektu respondentu, užmegzdami verslo santykius su tokiu subjektu, kriptoturto paslaugų teikėjai turi: ^s-779a568ae92cc905992810f3
+21. Jeigu tarptautiniai korespondentiniai santykiai apima kriptoturto paslaugas, kaip apibrėžta [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) 16 punkte, išskyrus šio punkto h papunktyje nurodytą paslaugą, su Europos Sąjungoje neįsisteigusiu ir panašias paslaugas, įskaitant [Reglamento (ES) 2023/1114 3 straipsnio 1 dalies](https://eur-lex.europa.eu/eli/reg/2023/1114/art_3/par_1/oj) 16 punkto j papunktyje nurodytą paslaugą, teikiančiu subjektu respondentu, užmegzdami verslo santykius su tokiu subjektu, kriptoturto paslaugų teikėjai turi: ^s-779a568ae92cc905992810f3
 
 
 1) nustatyti, ar subjektas respondentas yra licencijuotas ar registruotas; ^s-db5341bb9ecdd5326e5aee59
@@ -1732,7 +1732,7 @@ c) remiantis vyriausybinių ir visuotinai pripažintų nevyriausybinių organiza
 d) remiantis Finansinių veiksmų darbo grupės kovai su pinigų plovimu ir teroristų finansavimu arba panašaus pobūdžio regioninės organizacijos ataskaitų ar panašių dokumentų duomenimis, valstybėje taikomi kovos su pinigų plovimu ir teroristų finansavimu reikalavimai, atitinkantys Finansinių veiksmų darbo grupės kovai su pinigų plovimu ir teroristų finansavimu rekomendacijas, ir valstybė veiksmingai tuos reikalavimus įgyvendina.
 
 
-2. Finansų įstaigos, nustatydamos ir taikydamos supaprastinto kliento tapatybės nustatymo priemones, vadovaujasi Europos bankininkystės institucijos 2021 m. kovo 1 d. gairėmis EBA/GL/2021/02 pagal Direktyvos (ES) 2015/849 [[#^s-fb61f4a14fc5df6b09a0ffbd|17 straipsnį]] ir 18 straipsnio 4 dalį dėl deramo klientų tikrinimo ir veiksnių, į kuriuos kredito ir finansų įstaigos turėtų atsižvelgti vertindamos su atskirais dalykiniais santykiais ir vienkartiniais sandoriais ir (arba) operacijomis susijusią pinigų plovimo ir teroristų finansavimo riziką (PP / TF rizikos veiksnių gairėmis), su visais pakeitimais. ^s-bb7e402ffa09eb4a54846ee3
+2. Finansų įstaigos, nustatydamos ir taikydamos supaprastinto kliento tapatybės nustatymo priemones, vadovaujasi Europos bankininkystės institucijos 2021 m. kovo 1 d. gairėmis EBA/GL/2021/02 pagal [Direktyvos (ES) 2015/849 17 straipsnį](https://eur-lex.europa.eu/eli/dir/2015/849/art_17/oj) ir 18 straipsnio 4 dalį dėl deramo klientų tikrinimo ir veiksnių, į kuriuos kredito ir finansų įstaigos turėtų atsižvelgti vertindamos su atskirais dalykiniais santykiais ir vienkartiniais sandoriais ir (arba) operacijomis susijusią pinigų plovimo ir teroristų finansavimo riziką (PP / TF rizikos veiksnių gairėmis), su visais pakeitimais. ^s-bb7e402ffa09eb4a54846ee3
 
 
 3. Supaprastintas kliento tapatybės nustatymas gali būti atliekamas, jeigu pagal kitų įpareigotųjų subjektų nustatytas rizikos vertinimo ir valdymo procedūras nustatoma maža pinigų plovimo ir (ar) teroristų finansavimo rizika: ^s-a631bf09db286372ac75c3c1
@@ -1747,10 +1747,10 @@ d) remiantis Finansinių veiksmų darbo grupės kovai su pinigų plovimu ir tero
 3) loterijų atvejais, kai piniginė vertė, skirta loterijos bilietams pirkti bei neatsiimtų laimėjimų sumoms kaupti, laikoma elektroniniu būdu, o didžiausia saugoma piniginė vertė neviršija 1 000 eurų ir negali būti pildoma ar kitaip finansuojama anoniminėmis lėšomis bei negali būti naudojama kitiems negu loterijos bilietų pirkimo atsiskaitymams. ^s-b3109d96772fff4c336eed00
 
 
-4. Taikydami supaprastintą kliento tapatybės nustatymą, išskyrus [[#^s-10c43c2aaf53309337c023ce|šio straipsnio 5 dalyje]] nustatytą atvejį, kiti įpareigotieji subjektai, nustatydami kliento ir naudos gavėjo tapatybę, gali nukrypti nuo šio įstatymo [[#^s-781326fd10213b148a836324|9 straipsnio]] 12, 13, 14 dalyse, [[#^s-73fdde75724cad948ea6fb50|10 straipsnyje]], [[#^s-06212c8a74eb45d75abff112|11 straipsnio 3 dalyje]] ir [[#^s-b121a23fbf63b0e059ae66e6|12 straipsnyje]] nurodytų nuostatų ir privalo tik gauti šio įstatymo [[#^s-8606b6d7a51a9883f708be78|10 straipsnio 1 dalies]] 1, 2, 3 punktuose ir [[#^s-4a44f3744dcbea5893d59439|10 straipsnio 2 dalies]] 1, 2, 3 punktuose nurodytus duomenis. ^s-d10c7c34b4b6af63bea301f7
+4. Taikydami supaprastintą kliento tapatybės nustatymą, išskyrus [[#^s-10c43c2aaf53309337c023ce|šio straipsnio 5 dalyje]] nustatytą atvejį, kiti įpareigotieji subjektai, nustatydami kliento ir naudos gavėjo tapatybę, gali nukrypti nuo šio įstatymo [[#^s-781326fd10213b148a836324|9 straipsnio]] [[#^s-977170e893f7b0df622b174d|12]], [[#^s-5fc61ae4e2619327967fe813|13]], [[#^s-bf88cb56860a0ef54b23f7cc|14]] dalyse, [[#^s-73fdde75724cad948ea6fb50|10 straipsnyje]], [[#^s-06212c8a74eb45d75abff112|11 straipsnio 3 dalyje]] ir [[#^s-b121a23fbf63b0e059ae66e6|12 straipsnyje]] nurodytų nuostatų ir privalo tik gauti šio įstatymo [[#^s-8606b6d7a51a9883f708be78|10 straipsnio 1 dalies]] [[#^s-3b926b413972883dbfaa4a9b|1]], [[#^s-70607779f8aba23e34c0ad5e|2]], [[#^s-edce1c371e536dbc5bec2584|3]] punktuose ir [[#^s-4a44f3744dcbea5893d59439|10 straipsnio 2 dalies]] [[#^s-3f9dfa12535ce78e22e6aa66|1]], [[#^s-4f2d995546a0ff41f24884f5|2]], [[#^s-f13b8903b8ccde13ab8ff0fe|3]] punktuose nurodytus duomenis. ^s-d10c7c34b4b6af63bea301f7
 
 
-5. Taikydami supaprastintą kliento tapatybės nustatymą [[#^s-5136844e7078c06d6680ecc7|šio straipsnio 3 dalies 2 punkte]] nustatytais atvejais, kiti įpareigotieji subjektai, nustatydami kliento ir naudos gavėjo tapatybę, gali nukrypti nuo šio įstatymo 10 ir [[#^s-b121a23fbf63b0e059ae66e6|12 straipsnių]] nuostatų ir privalo gauti tik šio įstatymo [[#^s-8606b6d7a51a9883f708be78|10 straipsnio 1 dalies]] 1, 2, 3 punktuose ir [[#^s-4a44f3744dcbea5893d59439|10 straipsnio 2 dalies]] 1, 2, 3 punktuose nurodytus duomenis. ^s-10c43c2aaf53309337c023ce
+5. Taikydami supaprastintą kliento tapatybės nustatymą [[#^s-5136844e7078c06d6680ecc7|šio straipsnio 3 dalies 2 punkte]] nustatytais atvejais, kiti įpareigotieji subjektai, nustatydami kliento ir naudos gavėjo tapatybę, gali nukrypti nuo šio įstatymo [[#^s-73fdde75724cad948ea6fb50|10]] ir [[#^s-b121a23fbf63b0e059ae66e6|12]] straipsnių nuostatų ir privalo gauti tik šio įstatymo [[#^s-8606b6d7a51a9883f708be78|10 straipsnio 1 dalies]] [[#^s-3b926b413972883dbfaa4a9b|1]], [[#^s-70607779f8aba23e34c0ad5e|2]], [[#^s-edce1c371e536dbc5bec2584|3]] punktuose ir [[#^s-4a44f3744dcbea5893d59439|10 straipsnio 2 dalies]] [[#^s-3f9dfa12535ce78e22e6aa66|1]], [[#^s-4f2d995546a0ff41f24884f5|2]], [[#^s-f13b8903b8ccde13ab8ff0fe|3]] punktuose nurodytus duomenis. ^s-10c43c2aaf53309337c023ce
 
 
 6. Supaprastintas kliento tapatybės nustatymas gali būti atliekamas tik tada, kai atliekant arba atlikus supaprastintą kliento tapatybės nustatymą yra vykdoma kliento dalykinių santykių stebėsena ir yra galimybė nustatyti įtartinas pinigines operacijas ir sandorius. Ši nuostata netaikoma pensijų fondų, veikiančių pagal Lietuvos Respublikos pensijų kaupimo įstatymą, klientams. ^s-fd26ea983522d9972a9d9ee0
@@ -1773,7 +1773,7 @@ Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 1. Finansų įstaigos, siekdamos įgyvendinti šiame įstatyme joms nustatytas pinigų plovimo ir (ar) teroristų finansavimo, įskaitant ir tarptautinių finansinių sankcijų ir (ar) ribojamųjų priemonių netinkamo įgyvendinimo, prevencijos priemones, turi teisę keistis informacija apie klientą ir jo atstovą, kliento naudos gavėją, kliento, kuris yra juridinis asmuo, nuosavybės ir kontrolės struktūroje dalyvaujančius asmenis ir (ar) pinigines operacijas ar sandorius, kai joms kyla įtarimų dėl galimo pinigų plovimo ir (ar) teroristų finansavimo, įskaitant galimą tarptautinių finansinių sankcijų ir (ar) ribojamųjų priemonių netinkamą įgyvendinimą. Keitimosi informacija apie klientą ir jo atstovą, kliento naudos gavėją, kliento, kuris yra juridinis asmuo, nuosavybės ir kontrolės struktūroje dalyvaujančius asmenis ir (ar) pinigines operacijas ar sandorius tvarką nustato Finansinių nusikaltimų tyrimo tarnybos direktorius. ^s-cecfbdedf14ad7c260d46bc7
 
 
-2. Finansų įstaigos asmens duomenis tvarko vadovaudamosi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo, kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu), ir keičiasi tik ta informacija apie klientą ir jo atstovą, kliento naudos gavėją, kliento, kuris yra juridinis asmuo, nuosavybės ir kontrolės struktūroje dalyvaujančius asmenis ir (ar) pinigines operacijas ar sandorius, kuri yra būtina siekiant įgyvendinti [[#^s-cecfbdedf14ad7c260d46bc7|šio straipsnio 1 dalyje]] nurodytus tikslus. ^s-1312938f08c0974091528ca0
+2. Finansų įstaigos asmens duomenis tvarko vadovaudamosi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo, kuriuo panaikinama Direktyva 95/46/EB (Bendruoju duomenų apsaugos reglamentu), ir keičiasi tik ta informacija apie klientą ir jo atstovą, kliento naudos gavėją, kliento, kuris yra juridinis asmuo, nuosavybės ir kontrolės struktūroje dalyvaujančius asmenis ir (ar) pinigines operacijas ar sandorius, kuri yra būtina siekiant įgyvendinti [[#^s-cecfbdedf14ad7c260d46bc7|šio straipsnio 1 dalyje]] nurodytus tikslus. ^s-1312938f08c0974091528ca0
 
 
 Papildyta straipsniu:
@@ -1799,7 +1799,7 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 3) prieš perduodama veiklos funkcijas kitam asmeniui, finansų įstaiga ar kitas įpareigotasis subjektas įsitikino, kad kitas asmuo laikosi šiame įstatyme nurodytų kliento ar naudos gavėjo tapatybės nustatymo reikalavimų. Paaiškėjus naujoms aplinkybėms ar pasikeitus teisės normoms, finansų įstaiga ar kitas įpareigotasis subjektas privalo peržiūrėti ir atnaujinti informaciją, ar kitas asmuo laikosi šiame įstatyme nurodytų kliento ar naudos gavėjo tapatybės nustatymo reikalavimų, ir tęsti veiklos funkcijų perdavimą tik tuo atveju, jeigu įsitikino, kad kitas asmuo laikosi šiame įstatyme nurodytų kliento ar naudos gavėjo tapatybės nustatymo reikalavimų. Finansų įstaigos ir kiti įpareigotieji subjektai privalo šiame punkte numatytų patikrinimų rezultatus įforminti raštu; ^s-212233b8e882c96e4a341643
 
 
-4) kitam asmeniui negali būti perduodamas kliento įtartinų piniginių operacijų ar sandorių nustatymas ir pranešimų apie tai teikimas, taip pat šio įstatymo [[#^s-4358a1aeded7fdba3103dde1|19 straipsnio]] 1 ir [[#^s-e20b8644b61994e714e17ed2|2 dalyse]] nurodytos informacijos saugojimas. Šis ribojimas netaikomas, kai finansų įstaiga ir kitas asmuo, kuriam perduodamos veiklos funkcijos, priklauso vienai įmonių grupei; ^s-9edccdfe234e44294b6ca230
+4) kitam asmeniui negali būti perduodamas kliento įtartinų piniginių operacijų ar sandorių nustatymas ir pranešimų apie tai teikimas, taip pat šio įstatymo [[#^s-4358a1aeded7fdba3103dde1|19 straipsnio]] [[#^s-bcb96e9edfc8916019a31827|1]] ir [[#^s-f4549b5a4e27a1d5760db96b|2]] dalyse nurodytos informacijos saugojimas. Šis ribojimas netaikomas, kai finansų įstaiga ir kitas asmuo, kuriam perduodamos veiklos funkcijos, priklauso vienai įmonių grupei; ^s-9edccdfe234e44294b6ca230
 
 
 5) finansų įstaiga ar kitas įpareigotasis subjektas užtikrina, kad asmens duomenys tvarkomi laikantis šio įstatymo [[#^s-81b4117141f2b893db711867|24 straipsnyje]] nustatytų reikalavimų. ^s-5ed88a8652ff0e4c6b833d01
@@ -1828,7 +1828,7 @@ Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 3. Finansų įstaigos ir kiti įpareigotieji subjektai, gavę informacijos, kad klientas ketina ar bandys atlikti įtartiną piniginę operaciją ar sandorį, privalo nedelsdami informuoti Finansinių nusikaltimų tyrimo tarnybą, o advokatai ar advokatų padėjėjai – Lietuvos advokatūrą. ^s-7f4153e16b37bdd311b9d1cb
 
 
-4. Finansinių nusikaltimų tyrimo tarnyba per 10 darbo dienų nuo šio straipsnio 2, 3 ir [[#^s-efbef9e654e6e03ba0450944|9 dalyse]] nurodytos informacijos gavimo arba nuo [[#^s-24d712ee0b2a50820f8dd804|šio straipsnio 6 dalyje]] nurodyto nurodymo davimo nedelsdama atlieka veiksmus, būtinus abejonėms dėl tariamai kliento vykdomos ar vykdytos nusikalstamos veikos pagrįsti arba paneigti. ^s-77584c4e0e6ac6110bf92787
+4. Finansinių nusikaltimų tyrimo tarnyba per 10 darbo dienų nuo šio straipsnio [[#^s-f449ab950c6bb219ff9218c3|2]], [[#^s-7f4153e16b37bdd311b9d1cb|3]] ir [[#^s-efbef9e654e6e03ba0450944|9]] dalyse nurodytos informacijos gavimo arba nuo [[#^s-24d712ee0b2a50820f8dd804|šio straipsnio 6 dalyje]] nurodyto nurodymo davimo nedelsdama atlieka veiksmus, būtinus abejonėms dėl tariamai kliento vykdomos ar vykdytos nusikalstamos veikos pagrįsti arba paneigti. ^s-77584c4e0e6ac6110bf92787
 
 
 5. Finansinių nusikaltimų tyrimo tarnyba nuo to momento, kai yra pagrindžiamas lėšų ar turto teisėtumas ar paneigiamos abejonės dėl galimų sąsajų su teroristų finansavimu, privalo nedelsdama raštu pranešti finansų įstaigai ar kitam įpareigotajam subjektui, kad piniginės operacijos ar sandoriai gali būti atnaujinami. ^s-103872a9a533055e9d0f3738
@@ -1843,10 +1843,10 @@ Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 8. Jeigu piniginės operacijos ar sandorio sustabdymas gali trukdyti tyrimui dėl nusikalstamu būdu įgytų pinigų ar turto legalizavimo, teroristų finansavimo ir kitų nusikalstamų veikų, susijusių su pinigų plovimu ir (ar) teroristų finansavimu, Finansinių nusikaltimų tyrimo tarnyba privalo apie tai pranešti finansų įstaigai ir kitam įpareigotajam subjektui. ^s-b1027d79bef088e7d90c0863
 
 
-9. Lietuvos advokatūra nedelsdama, ne vėliau kaip per vieną darbo dieną nuo šio straipsnio 2 ir [[#^s-7f4153e16b37bdd311b9d1cb|3 dalyse]] nurodytos informacijos gavimo, privalo ją perduoti Finansinių nusikaltimų tyrimo tarnybai. ^s-efbef9e654e6e03ba0450944
+9. Lietuvos advokatūra nedelsdama, ne vėliau kaip per vieną darbo dieną nuo šio straipsnio [[#^s-f449ab950c6bb219ff9218c3|2]] ir [[#^s-7f4153e16b37bdd311b9d1cb|3]] dalyse nurodytos informacijos gavimo, privalo ją perduoti Finansinių nusikaltimų tyrimo tarnybai. ^s-efbef9e654e6e03ba0450944
 
 
-10. Šio straipsnio 1, 2 ir [[#^s-7f4153e16b37bdd311b9d1cb|3 dalys]] netaikomos notarams, notaro atstovams ir teisę atlikti notarinius veiksmus turintiems asmenims, auditoriams, antstoliams ir antstolio atstovams, apskaitos ar mokesčių konsultavimo paslaugas teikiantiems subjektams, kai jie informaciją gauna vertindami savo kliento teisinę padėtį arba atstovaudami jam baudžiamojo, administracinio ar civilinio proceso metu, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo. Šio straipsnio 1, 2 ir [[#^s-7f4153e16b37bdd311b9d1cb|3 dalys]] netaikomos advokatams ir advokatų padėjėjams, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese arba dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo, neatsižvelgiant į tai, ar tokia informacija yra gauta arba įgyta prieš tokį procesą, tokio proceso metu ar jam pasibaigus. ^s-8a77ae4dcc29a31d0afa5a34
+10. Šio straipsnio [[#^s-82b602617959b27ada742ff8|1]], [[#^s-f449ab950c6bb219ff9218c3|2]] ir [[#^s-7f4153e16b37bdd311b9d1cb|3]] dalys netaikomos notarams, notaro atstovams ir teisę atlikti notarinius veiksmus turintiems asmenims, auditoriams, antstoliams ir antstolio atstovams, apskaitos ar mokesčių konsultavimo paslaugas teikiantiems subjektams, kai jie informaciją gauna vertindami savo kliento teisinę padėtį arba atstovaudami jam baudžiamojo, administracinio ar civilinio proceso metu, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo. Šio straipsnio [[#^s-82b602617959b27ada742ff8|1]], [[#^s-f449ab950c6bb219ff9218c3|2]] ir [[#^s-7f4153e16b37bdd311b9d1cb|3]] dalys netaikomos advokatams ir advokatų padėjėjams, kai jie vertina savo kliento teisinę padėtį arba gina savo klientą, arba atstovauja jam teismo procese arba dėl jo, įskaitant teikiamas konsultacijas dėl teismo proceso pradėjimo arba jo vengimo, neatsižvelgiant į tai, ar tokia informacija yra gauta arba įgyta prieš tokį procesą, tokio proceso metu ar jam pasibaigus. ^s-8a77ae4dcc29a31d0afa5a34
 Straipsnio dalies pakeitimai:
 Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
@@ -1907,7 +1907,7 @@ Jeigu klientas vengia arba atsisako finansų įstaigai ar kitam įpareigotajam s
 1. Finansų įstaigos ir kiti įpareigotieji subjektai privalo pildyti šio įstatymo [[#^s-82b602617959b27ada742ff8|16 straipsnio 1 dalyje]] nurodytų pranešimų bei įtartinų piniginių operacijų ir sandorių registracijos žurnalą. ^s-bcb96e9edfc8916019a31827
 
 
-2. Finansų įstaigos privalo pildyti šio įstatymo [[#^s-af5224fd95afdfb4dc377e1e|9 straipsnio 1 dalies]] 2–5 punktuose nurodytų kliento atliktų piniginių operacijų žurnalą, išskyrus atvejus, kai finansų įstaigos klientas yra kita finansų įstaiga arba kitos Europos Sąjungos valstybės narės finansų įstaiga. ^s-f4549b5a4e27a1d5760db96b
+2. Finansų įstaigos privalo pildyti šio įstatymo [[#^s-af5224fd95afdfb4dc377e1e|9 straipsnio 1 dalies]] [[#^s-fe6fed871c75bb015012df71|2]]–[[#^s-558bd43429163ef0a6b14502|5]] punktuose nurodytų kliento atliktų piniginių operacijų žurnalą, išskyrus atvejus, kai finansų įstaigos klientas yra kita finansų įstaiga arba kitos Europos Sąjungos valstybės narės finansų įstaiga. ^s-f4549b5a4e27a1d5760db96b
 
 
 3. Asmenys, kurie verčiasi ūkine komercine veikla, apimančia prekybą brangakmeniais, tauriaisiais metalais, kilnojamosiomis kultūros vertybėmis, antikvariniais daiktais ar kitu turtu, kurio vertė lygi 10 000 eurų ar ją atitinkančiai sumai užsienio valiuta arba ją viršija, jeigu atsiskaitoma grynaisiais pinigais, privalo pildyti šio įstatymo [[#^s-64710f4ee594b64de4110639|9 straipsnio 3 dalyje]] nurodytų piniginių operacijų žurnalą. ^s-00c865def22f220c390854fb
@@ -1922,13 +1922,13 @@ Jeigu klientas vengia arba atsisako finansų įstaigai ar kitam įpareigotajam s
 6. Lietuvos advokatūra privalo pildyti advokatų ar advokatų padėjėjų praneštų jų klientų įtartinų sandorių registracijos žurnalą. ^s-fc65931153d801597a516083
 
 
-7. Kriptoturto paslaugų teikėjai privalo pildyti šio įstatymo [[#^s-af5224fd95afdfb4dc377e1e|9 straipsnio 1 dalies]] 2–6 punktuose nurodytų kliento atliktų piniginių operacijų registracijos žurnalą. ^s-fbe9fc6162e2a9dc40518bb0
+7. Kriptoturto paslaugų teikėjai privalo pildyti šio įstatymo [[#^s-af5224fd95afdfb4dc377e1e|9 straipsnio 1 dalies]] [[#^s-fe6fed871c75bb015012df71|2]]–[[#^s-99572921cedb30650ef54c6c|6]] punktuose nurodytų kliento atliktų piniginių operacijų registracijos žurnalą. ^s-fbe9fc6162e2a9dc40518bb0
 Straipsnio dalies pakeitimai:
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 
 
 
-8. Finansų įstaigos ir kiti įpareigotieji subjektai, išskyrus šio straipsnio 3, 4, 5 ir [[#^s-fc65931153d801597a516083|6 dalyse]] nurodytus subjektus, taip pat privalo pildyti šio įstatymo [[#^s-7df509bf8fa468ec4f9629c3|20 straipsnio]] 1, 2 ir [[#^s-00c865def22f220c390854fb|3 dalyse]] nurodytų piniginių ir kriptoturto operacijų registracijos žurnalą. ^s-62d1a165cee3e86f286ce80a
+8. Finansų įstaigos ir kiti įpareigotieji subjektai, išskyrus šio straipsnio [[#^s-00c865def22f220c390854fb|3]], [[#^s-360b2cf5ac004ff2a1491615|4]], [[#^s-458710c41a030b7d9ccd94c1|5]] ir [[#^s-fc65931153d801597a516083|6]] dalyse nurodytus subjektus, taip pat privalo pildyti šio įstatymo [[#^s-7df509bf8fa468ec4f9629c3|20 straipsnio]] [[#^s-87f6602f1e6086e39bd6b725|1]], [[#^s-59fd1a6a1386ad6e167e7a0c|2]] ir [[#^s-aef9f30507f9949357825779|3]] dalyse nurodytų piniginių ir kriptoturto operacijų registracijos žurnalą. ^s-62d1a165cee3e86f286ce80a
 
 
 9. Finansų įstaigos ir kiti įpareigotieji subjektai privalo pildyti klientų, su kuriais sandoriai ar dalykiniai santykiai buvo nutraukti šio įstatymo [[#^s-6f04b1f7b1f9dd4ff220cdee|18 straipsnyje]] nurodytomis aplinkybėmis ar kitomis su pinigų plovimo ir (ar) teroristų finansavimo prevencijos tvarkos pažeidimais susijusiomis aplinkybėmis, registracijos žurnalą. ^s-4c8c4d93b168c4acd37d16bb
@@ -1989,7 +1989,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 4. Finansinių nusikaltimų tyrimo tarnybai pateikiamoje informacijoje nurodomi kliento tapatybę patvirtinantys duomenys, o jeigu piniginė operacija atliekama per atstovą, – ir atstovo tapatybę patvirtinantys duomenys, piniginės operacijos suma, valiuta, kuria atlikta piniginė operacija, piniginės operacijos atlikimo data, piniginės operacijos atlikimo būdas, subjektas, kurio naudai atlikta piniginė operacija. ^s-4821546438ffe986c4fad725
 
 
-5. Šio straipsnio 1, 2 ir [[#^s-aef9f30507f9949357825779|3 dalyse]] nurodyta informacija Finansinių nusikaltimų tyrimo tarnybai pateikiama nedelsiant, ne vėliau kaip per 7 darbo dienas nuo piniginės operacijos atlikimo ar sandorio sudarymo dienos. Advokatai ir advokatų padėjėjai [[#^s-aef9f30507f9949357825779|šio straipsnio 3 dalyje]] nurodytą informaciją Lietuvos advokatūrai pateikia nedelsdami, ne vėliau kaip per 7 darbo dienas nuo piniginės operacijos atlikimo ar sandorio sudarymo dienos. Lietuvos advokatūra ne vėliau kaip per 2 darbo dienas nuo [[#^s-aef9f30507f9949357825779|šio straipsnio 3 dalyje]] nurodytos informacijos gavimo perduoda ją Finansinių nusikaltimų tyrimo tarnybai. ^s-303b05de8397045086ee2a8a
+5. Šio straipsnio [[#^s-87f6602f1e6086e39bd6b725|1]], [[#^s-59fd1a6a1386ad6e167e7a0c|2]] ir [[#^s-aef9f30507f9949357825779|3]] dalyse nurodyta informacija Finansinių nusikaltimų tyrimo tarnybai pateikiama nedelsiant, ne vėliau kaip per 7 darbo dienas nuo piniginės operacijos atlikimo ar sandorio sudarymo dienos. Advokatai ir advokatų padėjėjai [[#^s-aef9f30507f9949357825779|šio straipsnio 3 dalyje]] nurodytą informaciją Lietuvos advokatūrai pateikia nedelsdami, ne vėliau kaip per 7 darbo dienas nuo piniginės operacijos atlikimo ar sandorio sudarymo dienos. Lietuvos advokatūra ne vėliau kaip per 2 darbo dienas nuo [[#^s-aef9f30507f9949357825779|šio straipsnio 3 dalyje]] nurodytos informacijos gavimo perduoda ją Finansinių nusikaltimų tyrimo tarnybai. ^s-303b05de8397045086ee2a8a
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
@@ -2041,7 +2041,7 @@ Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 12) farmacine veikla. ^s-d9f50a4d906bd7fb9a4ac9ff
 
 
-9. Šio straipsnio 1, 2 ir [[#^s-aef9f30507f9949357825779|3 dalyse]] nurodytų duomenų ir informacijos pateikimo Finansinių nusikaltimų tyrimo tarnybai tvarką nustato vidaus reikalų ministras. ^s-57b85000370a0fa0a9689a96
+9. Šio straipsnio [[#^s-87f6602f1e6086e39bd6b725|1]], [[#^s-59fd1a6a1386ad6e167e7a0c|2]] ir [[#^s-aef9f30507f9949357825779|3]] dalyse nurodytų duomenų ir informacijos pateikimo Finansinių nusikaltimų tyrimo tarnybai tvarką nustato vidaus reikalų ministras. ^s-57b85000370a0fa0a9689a96
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
@@ -2054,7 +2054,7 @@ Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 1. Grynųjų pinigų sumos deklaruojamos šiais atvejais: ^s-870aac4ffe601ca6084188fc
 
 
-1) kai asmuo per Lietuvos Respubliką į Europos Sąjungą iš trečiųjų šalių įveža ar iš Europos Sąjungos per Lietuvos Respubliką išveža į trečiąsias šalis, kaip jos reglamentuotos [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatyme]] (toliau šiame straipsnyje – trečiosios šalys), grynųjų pinigų vienkartinę sumą, kurios vertė yra ne mažesnė kaip nurodytoji Reglamento (ES) 2018/1672 3 straipsnio 1 dalyje; ^s-ae75faf9de3169de41863e3c
+1) kai asmuo per Lietuvos Respubliką į Europos Sąjungą iš trečiųjų šalių įveža ar iš Europos Sąjungos per Lietuvos Respubliką išveža į trečiąsias šalis, kaip jos reglamentuotos [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatyme]] (toliau šiame straipsnyje – trečiosios šalys), grynųjų pinigų vienkartinę sumą, kurios vertė yra ne mažesnė kaip nurodytoji [Reglamento (ES) 2018/1672 3 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2018/1672/art_3/par_1/oj); ^s-ae75faf9de3169de41863e3c
 
 
 2) muitinės pareikalavimu, kai asmuo į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išveža ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įveža ar į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabena grynuosius pinigus ar nelydimus grynuosius pinigus, kurių vienkartinė suma lygi 10 000 eurų ar ją atitinkančiai sumai užsienio valiuta arba ją viršija; ^s-15ad16f44abef4f17bb10090
@@ -2063,13 +2063,13 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
 
 
-3) kai per Lietuvos Respubliką iš trečiųjų šalių arba į trečiąsias šalis gabenama nelydimų grynųjų pinigų vienkartinė suma, kurios vertė yra ne mažesnė negu vertė, nurodyta Reglamento (ES) 2018/1672 3 straipsnio 1 dalyje. Nelydimus grynuosius pinigus, atsižvelgdami į situaciją, deklaruoja siuntėjas, gavėjas arba jų atstovas. ^s-e7f143fce9baece54c2d2680
+3) kai per Lietuvos Respubliką iš trečiųjų šalių arba į trečiąsias šalis gabenama nelydimų grynųjų pinigų vienkartinė suma, kurios vertė yra ne mažesnė negu vertė, nurodyta [Reglamento (ES) 2018/1672 3 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2018/1672/art_3/par_1/oj). Nelydimus grynuosius pinigus, atsižvelgdami į situaciją, deklaruoja siuntėjas, gavėjas arba jų atstovas. ^s-e7f143fce9baece54c2d2680
 
 
 2. Muitinės įstaigos atlieka: ^s-6c3059e0495c6310d6638636
 
 
-1) į Europos Sąjungą per Lietuvos Respubliką iš trečiųjų šalių įvežamų ir iš Europos Sąjungos per Lietuvos Respubliką į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę, vadovaudamosi Reglamento (ES) 2018/1672 nuostatomis; ^s-a59bc5d968cfd9ec0127865d
+1) į Europos Sąjungą per Lietuvos Respubliką iš trečiųjų šalių įvežamų ir iš Europos Sąjungos per Lietuvos Respubliką į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę, vadovaudamosi [Reglamento (ES) 2018/1672](https://eur-lex.europa.eu/eli/reg/2018/1672/oj) nuostatomis; ^s-a59bc5d968cfd9ec0127865d
 
 
 2) į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išvežamų ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įvežamų ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabenamų grynųjų pinigų ar nelydimų grynųjų pinigų, kurių vienkartinė suma lygi 10 000 eurų ar ją atitinkančiai sumai užsienio valiuta arba ją viršija, kontrolę. ^s-7394afa26a9e7e543904d9d6
@@ -2078,7 +2078,7 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
 
 
-3. Reglamento (ES) 2018/1672 nustatytais atvejais, kai Europos Sąjungos valstybėms narėms suteikta sprendimo priėmimo teisė, sprendimus priima ir atitinkamų Reglamento (ES) 2018/1672 nuostatų taikymo Lietuvos Respublikoje tvarką nustato Muitinės departamento prie Lietuvos Respublikos finansų ministerijos generalinis direktorius, išskyrus atvejus, kai šiame arba kituose įstatymuose nustatyta kitaip. ^s-443b7d20877c23d2d50cc4bf
+3. [Reglamento (ES) 2018/1672](https://eur-lex.europa.eu/eli/reg/2018/1672/oj) nustatytais atvejais, kai Europos Sąjungos valstybėms narėms suteikta sprendimo priėmimo teisė, sprendimus priima ir atitinkamų [Reglamento (ES) 2018/1672](https://eur-lex.europa.eu/eli/reg/2018/1672/oj) nuostatų taikymo Lietuvos Respublikoje tvarką nustato Muitinės departamento prie Lietuvos Respublikos finansų ministerijos generalinis direktorius, išskyrus atvejus, kai šiame arba kituose įstatymuose nustatyta kitaip. ^s-443b7d20877c23d2d50cc4bf
 
 
 4. Į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išvežamų ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įvežamų ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabenamų grynųjų pinigų ar nelydimų grynųjų pinigų deklaravimo ir kilmės kontrolės tvarką nustato Muitinės departamento prie Lietuvos Respublikos finansų ministerijos generalinis direktorius. ^s-7a1c7a81494466c9a191ff12
@@ -2093,7 +2093,7 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
 
 
-6. Šiame straipsnyje vartojama sąvoka „grynieji pinigai“ atitinka sąvoką, vartojamą Reglamento (ES) 2018/1672 [[#^s-220fed3d0b1313943d55a542|2 straipsnio 1 dalies]] a punkte, o sąvoka „Europos Sąjungos valstybė narė“ neapima Europos ekonominės erdvės valstybių. ^s-28902cb1f83e977c93e35a2b
+6. Šiame straipsnyje vartojama sąvoka „grynieji pinigai“ atitinka sąvoką, vartojamą [Reglamento (ES) 2018/1672 2 straipsnio 1 dalies a punkte](https://eur-lex.europa.eu/eli/reg/2018/1672/art_2/par_1/lit_a/oj), o sąvoka „Europos Sąjungos valstybė narė“ neapima Europos ekonominės erdvės valstybių. ^s-28902cb1f83e977c93e35a2b
 
 
 Straipsnio pakeitimai:
@@ -2116,13 +2116,13 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 4. Kai skiriasi Lietuvos Respublikos ir užsienio valstybės pinigų plovimo ir (ar) teroristų finansavimo prevenciją reglamentuojančių teisės aktų nuostatos, finansų įstaigų ir kitų įpareigotųjų subjektų padaliniai arba patronuojamosios įmonės, kuriose finansų įstaigos ir kiti įpareigotieji subjektai turi daugumą akcijų, privalo taikyti griežtesnes teisės aktų nuostatas, kiek tai leidžia užsienio valstybės teisės aktai. Jeigu užsienio valstybės teisės aktai neleidžia taikyti lygiaverčių tarptautiniams reikalavimų, finansų įstaigos ir kiti įpareigotieji subjektai nedelsdami privalo pranešti apie tai Finansinių nusikaltimų tyrimo tarnybai ir suderinę su ja imtis papildomų priemonių, leidžiančių veiksmingai sumažinti pinigų plovimo ir (ar) teroristų finansavimo grėsmę. Jeigu šių papildomų priemonių neužtenka pinigų plovimo ir (ar) teroristų finansavimo grėsmei sumažinti, finansų įstaigos ir kiti įpareigotieji subjektai privalo atsisakyti pradėti arba nutraukti pinigines operacijas ar sandorį, dalykinius santykius su klientu, arba nutraukti veiklą trečiojoje valstybėje. ^s-9b27c6a609aaf884036de187
 
 
-5. Elektroninių pinigų įstaigos ir mokėjimo įstaigos, kurių buveinė yra kitoje valstybėje narėje, teikiančios paslaugas Lietuvos Respublikoje per tarpininkus, fizinius ar juridinius asmenis, privalo Lietuvos Respublikoje įsteigti arba paskirti pagrindinį kontaktinį asmenį, jeigu jos atitinka bet kurį Reglamento (ES) 2018/1108 3 straipsnio 1 dalyje nustatytą kriterijų. ^s-6cec0287063e4ae477b660a2
+5. Elektroninių pinigų įstaigos ir mokėjimo įstaigos, kurių buveinė yra kitoje valstybėje narėje, teikiančios paslaugas Lietuvos Respublikoje per tarpininkus, fizinius ar juridinius asmenis, privalo Lietuvos Respublikoje įsteigti arba paskirti pagrindinį kontaktinį asmenį, jeigu jos atitinka bet kurį [Reglamento (ES) 2018/1108 3 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/2018/1108/art_3/par_1/oj) nustatytą kriterijų. ^s-6cec0287063e4ae477b660a2
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-51. Elektroninių pinigų įstaigos ir mokėjimo įstaigos įsteigtas ar paskirtas pagrindinis kontaktinis asmuo atlieka Reglamento (ES) 2018/1108 4 ir [[#^s-f94cfce060e2cc0ca2d5ff2b|5 straipsniuose]] nustatytas funkcijas. ^s-31c2fafc35b8274f5287750e
+51. Elektroninių pinigų įstaigos ir mokėjimo įstaigos įsteigtas ar paskirtas pagrindinis kontaktinis asmuo atlieka [Reglamento (ES) 2018/1108](https://eur-lex.europa.eu/eli/reg/2018/1108/oj) [[#^s-9f55a5617f75567ce0cac570|4]] ir [[#^s-f94cfce060e2cc0ca2d5ff2b|5]] straipsniuose nustatytas funkcijas. ^s-31c2fafc35b8274f5287750e
 Papildyta straipsnio dalimi:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
@@ -2137,7 +2137,7 @@ Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 6. Finansų įstaigos ir kiti įpareigotieji subjektai privalo įdiegti vidines sistemas, leidžiančias saugiais kanalais ir užtikrinant visapusišką užklausų konfidencialumą skubiai reaguoti į Finansinių nusikaltimų tyrimo tarnybos paklausimus dėl šiame įstatyme nurodytos informacijos pateikimo, ir užtikrinti šios informacijos pateikimą per 14 darbo dienų nuo paklausimo gavimo (jeigu šiame įstatyme tam tikrais atvejais nustatyti trumpesni informacijos pateikimo Finansinių nusikaltimų tyrimo tarnybai terminai, tokia informacija turi būti pateikiama per trumpesnius terminus). ^s-34b0c1d6e8f144d661a4bfdf
 
 
-7. Finansų įstaigos ir kiti įpareigotieji subjektai, prieš pradėdami dalykinius santykius arba prieš vykdydami vienkartinę piniginę operaciją ar sandorį, kai privaloma imtis priemonių ir nustatyti bei patikrinti ir kliento bei naudos gavėjo tapatybę, vadovaudamiesi Reglamento (ES) 2016/679 13 ir [[#^s-dde70865b7ccf572d2169f76|14 straipsniais]], privalo naujiems klientams pateikti informaciją apie jų duomenų tvarkymą. ^s-e98eeccd575f84875a4b3353
+7. Finansų įstaigos ir kiti įpareigotieji subjektai, prieš pradėdami dalykinius santykius arba prieš vykdydami vienkartinę piniginę operaciją ar sandorį, kai privaloma imtis priemonių ir nustatyti bei patikrinti ir kliento bei naudos gavėjo tapatybę, vadovaudamiesi [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) [[#^s-d4e469f98770608212e2a3ca|13]] ir [[#^s-dde70865b7ccf572d2169f76|14]] straipsniais, privalo naujiems klientams pateikti informaciją apie jų duomenų tvarkymą. ^s-e98eeccd575f84875a4b3353
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
@@ -2145,7 +2145,7 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
 
 
-8. Finansų įstaigos, nurodytos Reglamento (ES) 2024/1620 77 straipsnyje, privalo mokėti metinį priežiūros mokestį Kovos su pinigų plovimu ir teroristų finansavimu institucijai. Už praleistą metinio priežiūros mokesčio sumokėjimo terminą finansų įstaigos privalo mokėti delspinigius – 0,05 procento nuo nesumokėtos sumos už kiekvieną dieną. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą uždelstą sumą. Nesumokėtas metinis priežiūros mokestis ir delspinigiai Kovos su pinigų plovimu ir teroristų finansavimu institucijos sprendimu gali būti išieškomi Lietuvos Respublikos civilinio proceso kodekso nustatyta tvarka. ^s-582c7e91de301de0e10dfa28
+8. Finansų įstaigos, nurodytos [Reglamento (ES) 2024/1620 77 straipsnyje](https://eur-lex.europa.eu/eli/reg/2024/1620/art_77/oj), privalo mokėti metinį priežiūros mokestį Kovos su pinigų plovimu ir teroristų finansavimu institucijai. Už praleistą metinio priežiūros mokesčio sumokėjimo terminą finansų įstaigos privalo mokėti delspinigius – 0,05 procento nuo nesumokėtos sumos už kiekvieną dieną. Delspinigių sumokėjimas neatleidžia nuo pareigos sumokėti visą uždelstą sumą. Nesumokėtas metinis priežiūros mokestis ir delspinigiai Kovos su pinigų plovimu ir teroristų finansavimu institucijos sprendimu gali būti išieškomi [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-582c7e91de301de0e10dfa28
 Papildyta straipsnio dalimi:
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 
@@ -2160,7 +2160,7 @@ Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 2. Asmenys, pažeidę šiame įstatyme nurodytos informacijos saugojimo ir naudojimo tvarką, atsako įstatymų nustatyta tvarka. ^s-1e92e452cf158edcc95d3340
 
 
-3. Šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] 1–[[#^s-83a2b4989f2e1b061d8ab57a|8 dalyse]] nurodytoms institucijoms, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, jų darbuotojams, finansų įstaigoms ir jų darbuotojams, kitiems įpareigotiesiems subjektams ir jų darbuotojams draudžiama pranešti klientui ar kitiems asmenims, kad informacija apie kliento atliekamas pinigines operacijas arba sudaromus sandorius ar bet kokia kita informacija pateikta Finansinių nusikaltimų tyrimo tarnybai arba kitai priežiūros institucijai. Šioje dalyje nustatytas draudimas netaikomas notarams, notaro atstovams ar asmenims, turintiems teisę atlikti notarinius veiksmus, advokatams ir advokatų padėjėjams ir antstoliams ar antstolio atstovams, kai jie siekia įtikinti klientą neužsiimti neteisėta veikla. ^s-0da734bcd2585c8e2fbc6bbc
+3. Šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] [[#^s-ad5ace02ceac63ed1322b5fd|1]]–[[#^s-091848f54c3e85baa0cf67e7|8]] dalyse nurodytoms institucijoms, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, jų darbuotojams, finansų įstaigoms ir jų darbuotojams, kitiems įpareigotiesiems subjektams ir jų darbuotojams draudžiama pranešti klientui ar kitiems asmenims, kad informacija apie kliento atliekamas pinigines operacijas arba sudaromus sandorius ar bet kokia kita informacija pateikta Finansinių nusikaltimų tyrimo tarnybai arba kitai priežiūros institucijai. Šioje dalyje nustatytas draudimas netaikomas notarams, notaro atstovams ar asmenims, turintiems teisę atlikti notarinius veiksmus, advokatams ir advokatų padėjėjams ir antstoliams ar antstolio atstovams, kai jie siekia įtikinti klientą neužsiimti neteisėta veikla. ^s-0da734bcd2585c8e2fbc6bbc
 Straipsnio dalies pakeitimai:
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 
@@ -2190,7 +2190,7 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 6. [[#^s-11d2bc15da07beccbc70b34e|Šio straipsnio 4 dalyje]] nustatytos išimtys dėl informacijos perdavimo negalioja, jeigu dėl to yra priimtas atskiras Europos Komisijos sprendimas. ^s-79d0c1d390793ed46a68ffc4
 
 
-7. [[#^s-11d2bc15da07beccbc70b34e|Šio straipsnio 4 dalyje]] nurodytais atvejais, kai keičiantis informacija su subjektais, registruotais trečiosiose valstybėse, šiems subjektams teikiami asmens duomenys, asmens duomenų teikimas turi atitikti Reglamento (ES) 2016/679 V skyriuje nustatytus reikalavimus. ^s-584719bc6bf8028a640daace
+7. [[#^s-11d2bc15da07beccbc70b34e|Šio straipsnio 4 dalyje]] nurodytais atvejais, kai keičiantis informacija su subjektais, registruotais trečiosiose valstybėse, šiems subjektams teikiami asmens duomenys, asmens duomenų teikimas turi atitikti [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) V skyriuje nustatytus reikalavimus. ^s-584719bc6bf8028a640daace
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
@@ -2218,7 +2218,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 4) finansų įstaigoms ir kitiems įpareigotiesiems subjektams tvarkant informaciją šio įstatymo [[#^s-4358a1aeded7fdba3103dde1|19 straipsnyje]] nustatytais atvejais. ^s-b65d0215ff457a7ddf1e125f
 
 
-2. Asmens duomenys tvarkomi vadovaujantis Reglamentu (ES) 2016/679, 2018 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentu (ES) 2018/1725 dėl fizinių asmenų apsaugos Sąjungos institucijoms, organams, tarnyboms ir agentūroms tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo, kuriuo panaikinamas Reglamentas (EB) Nr. 45/2001 ir Sprendimas Nr. 1247/2002/EB, [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu]]. ^s-ccfec72696aa46cb80dde617
+2. Asmens duomenys tvarkomi vadovaujantis [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), 2018 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2018/1725](https://eur-lex.europa.eu/eli/reg/2018/1725/oj) dėl fizinių asmenų apsaugos Sąjungos institucijoms, organams, tarnyboms ir agentūroms tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo, kuriuo panaikinamas Reglamentas (EB) Nr. 45/2001 ir Sprendimas Nr. 1247/2002/EB, [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]] ir [[latest/TAR.299D835159BE|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu]]. ^s-ccfec72696aa46cb80dde617
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
@@ -2258,7 +2258,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 2) pripažintas kaltu padaręs Baudžiamajame kodekse numatytą nesunkų arba apysunkį nusikaltimą nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, visuomenės saugumui ar bet kurį iš šių nusikaltimų atitinkančią nusikalstamą veiką pagal kitų valstybių baudžiamuosius įstatymus ir po asmens teistumo išnykimo arba panaikinimo nepraėjo 5 metai; ^s-67751760f78dcd9407def693
 
 
-3) pripažintas kaltu padaręs kitą, negu nurodyta šios dalies 1 ir [[#^s-67751760f78dcd9407def693|2 punktuose]], Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai. ^s-1199437de1122d623a5b270d
+3) pripažintas kaltu padaręs kitą, negu nurodyta šios dalies [[#^s-4d4446da996a365b95d465a5|1]] ir [[#^s-67751760f78dcd9407def693|2]] punktuose, Baudžiamajame kodekse arba kitų valstybių baudžiamuosiuose įstatymuose numatytą nusikalstamą veiką ir nuo bausmės atlikimo, bausmės vykdymo atidėjimo ar atleidimo nuo bausmės atlikimo dienos nepraėjo 3 metai. ^s-1199437de1122d623a5b270d
 
 
 Straipsnio pakeitimai:
@@ -2276,13 +2276,13 @@ Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 ### 252 straipsnis. Juridinių asmenų dalyvių informacinei sistemai (JADIS) keliami  reikalavimai ir duomenų teikimo tvarka ^s-b47710437aba18240a742405
 
 
-1. Juridinių asmenų dalyvių informacinė sistema (JADIS) jungiama prie Europos centrinės platformos, įsteigtos pagal 2017 m. birželio 14 d. Europos Parlamento ir Tarybos direktyvos (ES) 2017/1132 dėl tam tikrų bendrovių teisės aspektų su visais pakeitimais [[#^s-f84d7ec26b5a7e59f02689ba|22 straipsnio 1 dalį]]. ^s-067d8f19871067bd9fbd3cb6
+1. Juridinių asmenų dalyvių informacinė sistema (JADIS) jungiama prie Europos centrinės platformos, įsteigtos pagal 2017 m. birželio 14 d. Europos Parlamento ir Tarybos [direktyvos (ES) 2017/1132](https://eur-lex.europa.eu/eli/dir/2017/1132/oj) dėl tam tikrų bendrovių teisės aspektų su visais pakeitimais [[#^s-f84d7ec26b5a7e59f02689ba|22 straipsnio 1 dalį]]. ^s-067d8f19871067bd9fbd3cb6
 Straipsnio dalies pakeitimai:
 Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
 
 
 
-2. Šio įstatymo [[#^s-fc8429b59651cfb0a218944a|25 straipsnio 1 dalyje]] nurodyta informacija turi būti pasiekiama per Juridinių asmenų dalyvių informacinę sistemą (JADIS) ir Europos centrinę platformą, įsteigtą pagal Europos Parlamento ir Tarybos direktyvos (ES) 2017/1132 [[#^s-f84d7ec26b5a7e59f02689ba|22 straipsnio 1 dalį]], 8 metus nuo informacijos apie naudos gavėjus išbraukimo iš Juridinių asmenų dalyvių informacinės sistemos (JADIS) dienos. ^s-ae8481f6dcfd6db577e49d81
+2. Šio įstatymo [[#^s-fc8429b59651cfb0a218944a|25 straipsnio 1 dalyje]] nurodyta informacija turi būti pasiekiama per Juridinių asmenų dalyvių informacinę sistemą (JADIS) ir Europos centrinę platformą, įsteigtą pagal Europos Parlamento ir Tarybos [direktyvos (ES) 2017/1132 22 straipsnio 1 dalį](https://eur-lex.europa.eu/eli/dir/2017/1132/art_22/par_1/oj), 8 metus nuo informacijos apie naudos gavėjus išbraukimo iš Juridinių asmenų dalyvių informacinės sistemos (JADIS) dienos. ^s-ae8481f6dcfd6db577e49d81
 
 
 3. Juridinių asmenų dalyvių informacinėje sistemoje (JADIS) kaupiama informacija apie naudos gavėjus visiems teisės aktų nustatytomis sąlygomis turintiems teisę ją gauti fiziniams ir juridiniams asmenims teikiama už atlyginimą, išskyrus atvejus, kai ji: ^s-7a0fdccb2ec3aacb12e444ac
@@ -2351,7 +2351,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 
 
 
-3. Į Nacionalinio pinigų plovimo ir teroristų finansavimo rizikos vertinimo rezultatus privalo atsižvelgti šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] 1–9 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, rengdamos finansų įstaigoms ir kitiems įpareigotiesiems subjektams skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui. ^s-414216dabb5cbefcf436f179
+3. Į Nacionalinio pinigų plovimo ir teroristų finansavimo rizikos vertinimo rezultatus privalo atsižvelgti šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] [[#^s-ad5ace02ceac63ed1322b5fd|1]]–[[#^s-32f1f1a05c27ef6dae78e4d1|9]] dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, rengdamos finansų įstaigoms ir kitiems įpareigotiesiems subjektams skirtus nurodymus, kuriais siekiama užkirsti kelią pinigų plovimui ir (ar) teroristų finansavimui. ^s-414216dabb5cbefcf436f179
 Straipsnio dalies pakeitimai:
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 
@@ -2383,7 +2383,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 1. Atliekant Nacionalinį pinigų plovimo ir teroristų finansavimo rizikos vertinimą, Finansinių nusikaltimų tyrimo tarnyba yra koordinuojanti institucija. ^s-93c2acc5f42c527cab61a37f
 
 
-2. Nacionaliniame pinigų plovimo ir teroristų finansavimo rizikos vertinime dalyvauja visos šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] 1–8 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, ir pagal poreikį gali būti pasitelkiamos kitos valstybės ar užsienio valstybės institucijos, įstaigos, organizacijos, ekspertai, specialistai ir kiti asmenys. ^s-c75aefd69054cafb5673997f
+2. Nacionaliniame pinigų plovimo ir teroristų finansavimo rizikos vertinime dalyvauja visos šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] [[#^s-ad5ace02ceac63ed1322b5fd|1]]–[[#^s-091848f54c3e85baa0cf67e7|8]] dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, ir pagal poreikį gali būti pasitelkiamos kitos valstybės ar užsienio valstybės institucijos, įstaigos, organizacijos, ekspertai, specialistai ir kiti asmenys. ^s-c75aefd69054cafb5673997f
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
@@ -2399,19 +2399,19 @@ Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 2. Nacionalinio pinigų plovimo ir teroristų finansavimo rizikos vertinimo metodologiją parengia ir tvirtina Finansinių nusikaltimų tyrimo tarnyba. ^s-64988e99ed5ab193c074cec7
 
 
-3. Nacionalinis pinigų plovimo ir teroristų finansavimo rizikos vertinimas atliekamas prieš tai šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] 1–8 dalyse nurodytoms institucijoms, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, atlikus pinigų plovimo ir (ar) teroristų finansavimo rizikos atskiruose sektoriuose vertinimus. ^s-4c69d537d1c3167b7cf51855
+3. Nacionalinis pinigų plovimo ir teroristų finansavimo rizikos vertinimas atliekamas prieš tai šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] [[#^s-ad5ace02ceac63ed1322b5fd|1]]–[[#^s-091848f54c3e85baa0cf67e7|8]] dalyse nurodytoms institucijoms, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, atlikus pinigų plovimo ir (ar) teroristų finansavimo rizikos atskiruose sektoriuose vertinimus. ^s-4c69d537d1c3167b7cf51855
 Straipsnio dalies pakeitimai:
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 
 
 
-4. Šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] 1–8 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, sektoriaus pinigų plovimo ir (ar) teroristų finansavimo rizikos vertinimą atlieka per 8 mėnesius nuo Finansinių nusikaltimų tyrimo tarnybos pranešimo apie numatomą nacionalinį pinigų plovimo ir teroristų finansavimo rizikos vertinimą. ^s-dbe6f7641f4635692c1750e9
+4. Šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] [[#^s-ad5ace02ceac63ed1322b5fd|1]]–[[#^s-091848f54c3e85baa0cf67e7|8]] dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, sektoriaus pinigų plovimo ir (ar) teroristų finansavimo rizikos vertinimą atlieka per 8 mėnesius nuo Finansinių nusikaltimų tyrimo tarnybos pranešimo apie numatomą nacionalinį pinigų plovimo ir teroristų finansavimo rizikos vertinimą. ^s-dbe6f7641f4635692c1750e9
 Straipsnio dalies pakeitimai:
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 
 
 
-5. Šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] 1–8 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, [[#^s-4c69d537d1c3167b7cf51855|šio straipsnio 3 dalyje]] nurodytu tikslu kaupia išsamią statistinę informaciją, susijusią su sektoriaus dydžiu ir svarba, įskaitant kiekvieno sektoriaus subjektų ir asmenų skaičių bei reikšmę ekonomikai; patikrinimų (įskaitant patikrinimų, prižiūrimų finansų įstaigų ir kitų įpareigotųjų subjektų, patalpose skaičių ir patikrinimų ne patalpose skaičių) ir už šio įstatymo pažeidimus taikytų poveikio priemonių skaičių per metus; žmogiškuosius ir finansinius išteklius, skirtus pinigų plovimo ir (ar) teroristų finansavimo prevencijai. ^s-7f4744f1e2fa67f1dd0ae1bd
+5. Šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] [[#^s-ad5ace02ceac63ed1322b5fd|1]]–[[#^s-091848f54c3e85baa0cf67e7|8]] dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, [[#^s-4c69d537d1c3167b7cf51855|šio straipsnio 3 dalyje]] nurodytu tikslu kaupia išsamią statistinę informaciją, susijusią su sektoriaus dydžiu ir svarba, įskaitant kiekvieno sektoriaus subjektų ir asmenų skaičių bei reikšmę ekonomikai; patikrinimų (įskaitant patikrinimų, prižiūrimų finansų įstaigų ir kitų įpareigotųjų subjektų, patalpose skaičių ir patikrinimų ne patalpose skaičių) ir už šio įstatymo pažeidimus taikytų poveikio priemonių skaičių per metus; žmogiškuosius ir finansinius išteklius, skirtus pinigų plovimo ir (ar) teroristų finansavimo prevencijai. ^s-7f4744f1e2fa67f1dd0ae1bd
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
@@ -2502,7 +2502,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 1) Europos Komisijos ir nacionalinio pinigų plovimo ir teroristų finansavimo rizikos vertinimo rezultatus, nebent nacionalinio pinigų plovimo ir teroristų finansavimo rizikos vertinimo metu nusprendžiama nesilaikyti tam tikrų Europos Komisijos rekomendacijų; ^s-eb04b0b164396ef1908b9da7
 
 
-2) šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] 1–9 dalyse nurodytų institucijų, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, patvirtintus nurodymus; ^s-ffaae1cdb518a48747aeff5a
+2) šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] [[#^s-ad5ace02ceac63ed1322b5fd|1]]–[[#^s-32f1f1a05c27ef6dae78e4d1|9]] dalyse nurodytų institucijų, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, patvirtintus nurodymus; ^s-ffaae1cdb518a48747aeff5a
 Straipsnio punkto pakeitimai:
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 
@@ -2522,7 +2522,7 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 5. Finansų įstaigų ir kitų įpareigotųjų subjektų vidaus kontrolės procedūras tvirtina vyresnysis vadovas arba finansų įstaigos ir kitų įpareigotųjų subjektų valdymo organas, tvirtinantis panašaus pobūdžio vidaus kontrolės procedūras (valdyba, tarnybos vadovas ar pan.). ^s-3a4d536e023632c354cbc7c4
 
 
-6. Šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] 1–9 dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, bei finansų įstaigos ir kiti įpareigotieji subjektai periodiškai ar įvykus svarbiems finansų įstaigų ir kitų įpareigotųjų subjektų valdymo ir veiklos įvykiams ar pokyčiams vykdo vidaus kontrolės procedūrų įgyvendinimo bei pakankamumo stebėseną ir prireikus nurodo griežtinti, griežtina finansų įstaigų ir kitų įpareigotųjų subjektų taikomas vidaus kontrolės procedūras. ^s-d218ce9fbf67cdc57da234c7
+6. Šio įstatymo [[#^s-9f55a5617f75567ce0cac570|4 straipsnio]] [[#^s-ad5ace02ceac63ed1322b5fd|1]]–[[#^s-32f1f1a05c27ef6dae78e4d1|9]] dalyse nurodytos institucijos, išskyrus Kovos su pinigų plovimu ir teroristų finansavimu instituciją, bei finansų įstaigos ir kiti įpareigotieji subjektai periodiškai ar įvykus svarbiems finansų įstaigų ir kitų įpareigotųjų subjektų valdymo ir veiklos įvykiams ar pokyčiams vykdo vidaus kontrolės procedūrų įgyvendinimo bei pakankamumo stebėseną ir prireikus nurodo griežtinti, griežtina finansų įstaigų ir kitų įpareigotųjų subjektų taikomas vidaus kontrolės procedūras. ^s-d218ce9fbf67cdc57da234c7
 Straipsnio dalies pakeitimai:
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 
@@ -2574,7 +2574,7 @@ FINANSŲ ĮSTAIGŲ IR KITŲ ĮPAREIGOTŲJŲ SUBJEKTŲ PRIEŽIŪRA
 2. [[#^s-e70d0342f587ccf99f47d513|Šio straipsnio 1 dalies]] 1 ir 3 punktuose nurodytos institucijos priežiūrą atlieka vadovaudamosi šiuo įstatymu ir priežiūros institucijų priimtais šio įstatymo įgyvendinamaisiais teisės aktais. ^s-a52d336b4f9bdbecc98b5931
 
 
-3. Lietuvos bankas priežiūrą atlieka vadovaudamasis šiuo įstatymu, išskyrus 31, 32, 33, 35, 37, 38, 40–[[#^s-46869bd4f0038a844bb6d9d4|49 straipsnių]] nuostatas, ir Lietuvos banko veiklą reglamentuojančių teisės aktų, taip pat finansų rinką reglamentuojančių įstatymų ir kitų teisės aktų, kurių laikymosi priežiūra priskirta Lietuvos bankui, nustatytais reikalavimais. ^s-cab6549e759465142719a16c
+3. Lietuvos bankas priežiūrą atlieka vadovaudamasis šiuo įstatymu, išskyrus [[#^s-9d4d36d5f1c1ee5981811417|31]], [[#^s-ea1f6704aa48fbb70a0051d7|32]], [[#^s-1ea3de3ba22ca2b396c081c5|33]], [[#^s-08b13fc032fe4f53c753ec9e|35]], [[#^s-fb49995b03abac52ddd43302|37]], [[#^s-88f5166d6f96093ae5e4ea09|38]], [[#^s-ca6556922f23b6fb1eca2acf|40]]–[[#^s-46869bd4f0038a844bb6d9d4|49]] straipsnių nuostatas, ir Lietuvos banko veiklą reglamentuojančių teisės aktų, taip pat finansų rinką reglamentuojančių įstatymų ir kitų teisės aktų, kurių laikymosi priežiūra priskirta Lietuvos bankui, nustatytais reikalavimais. ^s-cab6549e759465142719a16c
 
 
 4. Lietuvos notarų rūmai prižiūri, ar notarai, notaro atstovai, o Lietuvos antstolių rūmai prižiūri, ar antstoliai, antstolio atstovai: ^s-3025f93b3b6f94c7ea4639a7
@@ -2661,7 +2661,7 @@ Nr. XIV-1603, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25182
 ### 321 straipsnis. Kovos su pinigų plovimu ir teroristų finansavimu institucijos rengiami patikrinimai ^s-39dd4ee0c977ab8535e29d23
 
 
-1. Kovos su pinigų plovimu ir teroristų finansavimu institucijai priėmus sprendimą dėl patikrinimo vietoje, Reglamento (ES) 2024/1620 [[#^s-4358a1aeded7fdba3103dde1|19 straipsnyje]] numatytais atvejais Kovos su pinigų plovimu ir teroristų finansavimu institucijos įgaliotas atstovas pateikia pirmosios instancijos administraciniam teismui prašymą dėl teismo leidimo atlikti patikrinimą vietoje išdavimo. Prašyme turi būti nurodytas tikrintino fizinio asmens (fizinių asmenų) vardas ir pavardė (vardai ir pavardės), statinio ir (ar) patalpų adresas, patikrinimo tikslai ir apimtis ir numatomi tyrimo veiksmai. ^s-1033ba08d3d0de8505e23478
+1. Kovos su pinigų plovimu ir teroristų finansavimu institucijai priėmus sprendimą dėl patikrinimo vietoje, [Reglamento (ES) 2024/1620 19 straipsnyje](https://eur-lex.europa.eu/eli/reg/2024/1620/art_19/oj) numatytais atvejais Kovos su pinigų plovimu ir teroristų finansavimu institucijos įgaliotas atstovas pateikia pirmosios instancijos administraciniam teismui prašymą dėl teismo leidimo atlikti patikrinimą vietoje išdavimo. Prašyme turi būti nurodytas tikrintino fizinio asmens (fizinių asmenų) vardas ir pavardė (vardai ir pavardės), statinio ir (ar) patalpų adresas, patikrinimo tikslai ir apimtis ir numatomi tyrimo veiksmai. ^s-1033ba08d3d0de8505e23478
 
 
 2. Prašymą dėl teismo leidimo atlikti patikrinimą vietoje išdavimo rašytinio proceso tvarka, išskyrus atvejus, kai teismas nusprendžia prašymą nagrinėti žodinio proceso tvarka, nagrinėja pirmosios instancijos administracinis teismas ir priima motyvuotą nutartį prašymą patenkinti arba atmesti. Prašymas dėl teismo leidimo atlikti patikrinimą vietoje turi būti išnagrinėtas ir priimta nutartis ne vėliau kaip per 72 valandas nuo prašymo pateikimo momento. Jeigu Kovos su pinigų plovimu ir teroristų finansavimu institucija nesutinka su pirmosios instancijos administracinio teismo nutartimi atmesti prašymą, ji turi teisę per 7 dienas nuo nutarties, kuria atmestas jos prašymas dėl teismo leidimo atlikti patikrinimą vietoje, priėmimo šią nutartį apskųsti Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl pirmosios instancijos administracinio teismo nutarties ne vėliau kaip per 7 dienas. Kovos su pinigų plovimu ir teroristų finansavimu institucijos atstovas turi teisę dalyvauti nagrinėjant skundą. Teismai, nagrinėdami prašymus ir skundus dėl teismo leidimo atlikti patikrinimą vietoje išdavimo, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. ^s-afb73e0b2238d93a1a279cb1
@@ -2715,7 +2715,7 @@ Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 1. Šiurkščiu šio įstatymo pažeidimu laikoma: ^s-ccbeed4191a2927ca9487157
 
 
-1) kliento ir naudos gavėjo tapatybės nustatymo reikalavimų, nurodytų šio įstatymo 9–[[#^s-f1f8884912e81742fae01f26|15 straipsniuose]], nesilaikymas; ^s-3ced2ec823614ee8efd64d06
+1) kliento ir naudos gavėjo tapatybės nustatymo reikalavimų, nurodytų šio įstatymo [[#^s-781326fd10213b148a836324|9]]–[[#^s-f1f8884912e81742fae01f26|15]] straipsniuose, nesilaikymas; ^s-3ced2ec823614ee8efd64d06
 
 
 2) pranešimo apie įtartinas pinigines operacijas ar sandorius reikalavimų, nurodytų šio įstatymo [[#^s-7e7393d94543b20dcfee1c23|16 straipsnyje]], nesilaikymas; ^s-39b28ab9316714a1e469f7bd
@@ -2736,7 +2736,7 @@ Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 2) kai tuo pačiu metu nustatomi pinigų plovimo ir (ar) teroristų finansavimo prevenciją reglamentuojančių nuostatų pažeidimai, apimantys kelias reikalavimų grupes: ^s-b032e0fa4bc859b48fa99205
 
 
-a) kliento ir naudos gavėjo tapatybės nustatymo reikalavimus, nurodytus šio įstatymo 9– [[#^s-f1f8884912e81742fae01f26|15 straipsniuose]];
+a) kliento ir naudos gavėjo tapatybės nustatymo reikalavimus, nurodytus šio įstatymo [[#^s-781326fd10213b148a836324|9]]– [[#^s-f1f8884912e81742fae01f26|15]] straipsniuose;
 
 
 b) pranešimo apie įtartinas pinigines operacijas ar sandorius reikalavimus, nurodytus šio įstatymo [[#^s-7e7393d94543b20dcfee1c23|16 straipsnyje]];
@@ -2879,7 +2879,7 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 ### 361 straipsnis. Poveikio priemonių taikymas asmenims, pažeidusiems Reglamento (ES) 2023/1113 nuostatas ^s-b51dfcf2bde615bbb7f3b1ac
 
 
-Mokėjimo paslaugų teikėjams ir kriptoturto paslaugų teikėjams, pažeidusiems Reglamento (ES) 2023/1113 nuostatas, mutatis mutandis taikomi šio įstatymo 36–[[#^s-55a3daff30652d7ebee8565f|42 straipsniai]].
+Mokėjimo paslaugų teikėjams ir kriptoturto paslaugų teikėjams, pažeidusiems [Reglamento (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj) nuostatas, mutatis mutandis taikomi šio įstatymo [[#^s-1d12b54a91a3e8052520f534|36]]–[[#^s-55a3daff30652d7ebee8565f|42]] straipsniai.
 
 
 Papildyta straipsniu:
@@ -3034,10 +3034,10 @@ Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 2. Jeigu sprendimas taikyti poveikio priemonę (priemones) yra apskundžiamas, priežiūros institucijos interneto svetainėje taip pat pateikiama informacija apie skundus, pateiktus dėl pritaikytų poveikio priemonių, ir jų nagrinėjimo rezultatus. ^s-c9731f845aec972d0d6d67a2
 
 
-3. Jeigu informacijos apie pritaikytas poveikio priemones paskelbimas galėtų padaryti neigiamą įtaką finansų rinkos stabilumui, atliekamam ikiteisminiam tyrimui arba neproporcingą žalą fiziniams ar juridiniams asmenims, šios informacijos skelbimas atidedamas tol, kol šios aplinkybės išnyksta, arba ji skelbiama neatskleidžiant informacijos apie pažeidimą padariusį asmenį. Priežiūros institucijos turi teisę nuspręsti šio straipsnio 1 ir [[#^s-c9731f845aec972d0d6d67a2|2 dalyse]] nurodytos informacijos neskelbti, jeigu informacijos skelbimo atidėjimas, skelbiamos informacijos nuasmeninimas neužtikrina finansų rinkų stabilumo arba poveikio priemonė taikyta už mažareikšmį pažeidimą. ^s-b37c64edc07af189ff1884c6
+3. Jeigu informacijos apie pritaikytas poveikio priemones paskelbimas galėtų padaryti neigiamą įtaką finansų rinkos stabilumui, atliekamam ikiteisminiam tyrimui arba neproporcingą žalą fiziniams ar juridiniams asmenims, šios informacijos skelbimas atidedamas tol, kol šios aplinkybės išnyksta, arba ji skelbiama neatskleidžiant informacijos apie pažeidimą padariusį asmenį. Priežiūros institucijos turi teisę nuspręsti šio straipsnio [[#^s-23816162772360be51bdf627|1]] ir [[#^s-c9731f845aec972d0d6d67a2|2]] dalyse nurodytos informacijos neskelbti, jeigu informacijos skelbimo atidėjimas, skelbiamos informacijos nuasmeninimas neužtikrina finansų rinkų stabilumo arba poveikio priemonė taikyta už mažareikšmį pažeidimą. ^s-b37c64edc07af189ff1884c6
 
 
-4. Priežiūros institucijų interneto svetainėse šio straipsnio 1 ir [[#^s-c9731f845aec972d0d6d67a2|2 dalyse]] nurodyta informacija skelbiama ne trumpiau kaip 5 metus nuo jos paskelbimo. Asmens duomenys iš paskelbtos informacijos vadovaujantis fizinio asmens prašymu gali būti pašalinti po 2 metų nuo informacijos paskelbimo. ^s-88c62a9b1d60744a7306126e
+4. Priežiūros institucijų interneto svetainėse šio straipsnio [[#^s-23816162772360be51bdf627|1]] ir [[#^s-c9731f845aec972d0d6d67a2|2]] dalyse nurodyta informacija skelbiama ne trumpiau kaip 5 metus nuo jos paskelbimo. Asmens duomenys iš paskelbtos informacijos vadovaujantis fizinio asmens prašymu gali būti pašalinti po 2 metų nuo informacijos paskelbimo. ^s-88c62a9b1d60744a7306126e
 
 
 
@@ -3050,7 +3050,7 @@ Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 2. Jeigu yra motyvuotas asmens prašymas, priežiūros institucija turi teisę baudos ar jos dalies mokėjimą atidėti iki šešių mėnesių, jeigu asmuo negali laiku sumokėti baudos dėl objektyvių priežasčių. ^s-ed55fa3917d5d669c516aee5
 
 
-3. Priežiūros institucijos sprendimas skirti baudą yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir Lietuvos Respublikos civilinio proceso kodekse nustatyta tvarka. ^s-bb0d30d16ac206b00f50d58c
+3. Priežiūros institucijos sprendimas skirti baudą yra vykdomasis dokumentas, vykdomas [[latest/TAR.3EB34933E485|Lietuvos Respublikos mokesčių administravimo įstatyme]] ir [Lietuvos Respublikos civilinio proceso kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-bb0d30d16ac206b00f50d58c
 Straipsnio dalies pakeitimai:
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 Nr. XV-914, 2026-05-12, paskelbta TAR 2026-05-15, i. k. 2026-08246
@@ -3196,7 +3196,7 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 4) Europos Komisijai, Europos priežiūros institucijoms, jeigu ši informacija reikalinga jų funkcijoms atlikti; ^s-1bf1dc5cdb4a2670d1a2fa62
 
 
-5) prižiūrimos finansų įstaigos ir kito įpareigotojo subjekto arba įmonių grupės, kuriai priklauso prižiūrimas subjektas, auditoriams, taip pat Lietuvos ir kitos Europos Sąjungos valstybės narės institucijoms, atsakingoms už šių subjektų priežiūrą, jeigu ji reikalinga jų funkcijoms atlikti, Europos Centriniam Bankui, kai pagal 2013 m. spalio 15 d. Tarybos reglamento (ES) Nr. 1024/2013, kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, nuostatas finansų rinkos priežiūros funkciją atlieka Europos Centrinis Bankas; ^s-616c774045cff3fc55895912
+5) prižiūrimos finansų įstaigos ir kito įpareigotojo subjekto arba įmonių grupės, kuriai priklauso prižiūrimas subjektas, auditoriams, taip pat Lietuvos ir kitos Europos Sąjungos valstybės narės institucijoms, atsakingoms už šių subjektų priežiūrą, jeigu ji reikalinga jų funkcijoms atlikti, Europos Centriniam Bankui, kai pagal 2013 m. spalio 15 d. Tarybos [reglamento (ES) Nr. 1024/2013](https://eur-lex.europa.eu/eli/reg/1024/2013/oj), kuriuo Europos Centriniam Bankui pavedami specialūs uždaviniai, susiję su rizikos ribojimu pagrįstos kredito įstaigų priežiūros politika, nuostatas finansų rinkos priežiūros funkciją atlieka Europos Centrinis Bankas; ^s-616c774045cff3fc55895912
 Straipsnio punkto pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
@@ -3221,7 +3221,7 @@ Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
 
 
 
-6. Priežiūros tikslais gauti asmens duomenys teikiami vadovaujantis Reglamentu (ES) 2016/679, [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymu]] ir [[latest/TAR.299D835159BE|Asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu]]. ^s-e009c13a52e9e842c75cf03d
+6. Priežiūros tikslais gauti asmens duomenys teikiami vadovaujantis [Reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymu]] ir [[latest/TAR.299D835159BE|Asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymu]]. ^s-e009c13a52e9e842c75cf03d
 Straipsnio dalies pakeitimai:
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
@@ -3237,7 +3237,7 @@ Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
 ### 49 straipsnis. Penktojo skirsnio nuostatų taikymas ^s-46869bd4f0038a844bb6d9d4
 
 
-Grynųjų pinigų deklaravimui, muitinės įstaigų veiklai ir šio įstatymo [[#^s-4ae8bb0ab27e25313271f7a5|25 straipsnio]] 1, 2 ir 3 dalyse, [[#^s-b47710437aba18240a742405|252 straipsnyje]] nustatytų reikalavimų priežiūrai šio įstatymo penktojo skirsnio nuostatos netaikomos.
+Grynųjų pinigų deklaravimui, muitinės įstaigų veiklai ir šio įstatymo [[#^s-4ae8bb0ab27e25313271f7a5|25 straipsnio]] [[#^s-fc8429b59651cfb0a218944a|1]], [[#^s-332a35d9978140811d0ddac3|2]] ir [[#^s-6175e6b84f8503480c99a3f2|3]] dalyse, [[#^s-b47710437aba18240a742405|252 straipsnyje]] nustatytų reikalavimų priežiūrai šio įstatymo penktojo skirsnio nuostatos netaikomos.
 
 
 Straipsnio pakeitimai:
@@ -3289,10 +3289,10 @@ Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 7) priežiūros institucijų pavadinimus, adresus, kontaktinius duomenis (telefonų numerius, elektroninio pašto adresus). ^s-dfd234b1cd30544103070533
 
 
-2. Vyriausybė ar jos įgaliota institucija, laikydamasi Reglamento (ES) Nr. 1093/2010 nuostatų, informuoja Europos bankininkystės instituciją apie finansų įstaigoms taikytas šiame įstatyme nustatytas poveikio priemones, įskaitant informaciją apie visus su jomis susijusius skundus ir jų tyrimo rezultatus. ^s-a35b4d329877f41bd3776d82
+2. Vyriausybė ar jos įgaliota institucija, laikydamasi [Reglamento (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) nuostatų, informuoja Europos bankininkystės instituciją apie finansų įstaigoms taikytas šiame įstatyme nustatytas poveikio priemones, įskaitant informaciją apie visus su jomis susijusius skundus ir jų tyrimo rezultatus. ^s-a35b4d329877f41bd3776d82
 
 
-3. Vyriausybė ar jos įgaliota institucija informuoja kitas Europos Sąjungos valstybes nares, Europos Komisiją ir, laikydamasi Reglamento (ES) Nr. 1093/2010 nuostatų, – Europos bankininkystės instituciją apie atvejus, kai: ^s-4ab18e701336b5f674002b61
+3. Vyriausybė ar jos įgaliota institucija informuoja kitas Europos Sąjungos valstybes nares, Europos Komisiją ir, laikydamasi [Reglamento (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj) nuostatų, – Europos bankininkystės instituciją apie atvejus, kai: ^s-4ab18e701336b5f674002b61
 
 
 1) trečiosios valstybės teisės aktai neleidžia taikyti šio įstatymo [[#^s-9b27c6a609aaf884036de187|22 straipsnio 4 dalyje]] nustatytų reikalavimų, atsižvelgus į visus teisinius apribojimus, kurie gali trukdyti tinkamai įgyvendinti pinigų plovimo ir (ar) teroristų finansavimo prevenciją reglamentuojančių teisės aktų nuostatas, įskaitant konfidencialumo, informacijos apsaugos ir kitus keitimosi informacija apribojimus; ^s-21aca240f66ff4bb9e977889
@@ -3301,7 +3301,7 @@ Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 2) pagal šio įstatymo [[#^s-246cb5998e0fd2527f1cd92a|27 straipsnį]] paskiriama nacionalinius veiksmus koordinuojanti institucija. ^s-8a3bc21f70dfe078de8e9c83
 
 
-4. Vyriausybės įgaliotos institucijos organizuoja statistinės informacijos apie pagal šio įstatymo 51 straipsnį pateiktus prašymus ir valstybės informacinėms sistemoms ar registrams, kuriuose kaupiami duomenys apie atidarytas ir uždarytas visų rūšių sąskaitas, pateiktus prašymus dėl nusikalstamų veikų, įvardytų Reglamento (ES) 2016/794 I priede, prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, rinkimą ir pateikimą Europos Komisijai. ^s-8061e4844fdd678597259da8
+4. Vyriausybės įgaliotos institucijos organizuoja statistinės informacijos apie pagal šio įstatymo 51 straipsnį pateiktus prašymus ir valstybės informacinėms sistemoms ar registrams, kuriuose kaupiami duomenys apie atidarytas ir uždarytas visų rūšių sąskaitas, pateiktus prašymus dėl nusikalstamų veikų, įvardytų [Reglamento (ES) 2016/794](https://eur-lex.europa.eu/eli/reg/2016/794/oj) I priede, prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, rinkimą ir pateikimą Europos Komisijai. ^s-8061e4844fdd678597259da8
 
 
 Straipsnio pakeitimai:
@@ -3331,7 +3331,7 @@ priedas
 
 
 
-1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2006/46/EB, su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/2366. ^s-0f722e740a98afd531cba279
+1. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos direktyva 2009/110/EB dėl elektroninių pinigų įstaigų steigimosi, veiklos ir riziką ribojančios priežiūros, iš dalies keičianti direktyvas 2005/60/EB ir 2006/48/EB ir panaikinanti Direktyvą 2006/46/EB, su paskutiniais pakeitimais, padarytais 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/2366](https://eur-lex.europa.eu/eli/dir/2015/2366/oj). ^s-0f722e740a98afd531cba279
 
 
 2. Neteko galios nuo 2024-12-30 ^s-f999f1676e7d6de4ed4a6cb4
@@ -3340,29 +3340,29 @@ Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 
 
 
-3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/849 dėl finansų sistemos naudojimo pinigų plovimui ir teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlameno ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB, su paskutiniais pakeitimais, padarytais 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentu (ES) 2023/1113. ^s-5d6a68c6fd1b8b8b44b47c77
+3. 2015 m. gegužės 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/849](https://eur-lex.europa.eu/eli/dir/2015/849/oj) dėl finansų sistemos naudojimo pinigų plovimui ir teroristų finansavimui prevencijos, kuria iš dalies keičiamas Europos Parlameno ir Tarybos reglamentas (ES) Nr. 648/2012 ir panaikinama Europos Parlamento ir Tarybos direktyva 2005/60/EB bei Komisijos direktyva 2006/70/EB, su paskutiniais pakeitimais, padarytais 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj). ^s-5d6a68c6fd1b8b8b44b47c77
 Punkto pakeitimai:
 Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 
 
 
-4. 2018 m. gegužės 7 d. Europos Komisijos deleguotasis reglamentas (ES) 2018/1108, kuriuo Europos Parlamento ir Tarybos direktyva (ES) 2015/849 papildoma elektroninių pinigų išleidėjų ir mokėjimo paslaugų teikėjų pagrindinių kontaktinių punktų skyrimo kriterijų techniniais reguliavimo standartais ir jų funkcijas reglamentuojančiomis taisyklėmis. ^s-f3c6ffcf3cefc92310246141
+4. 2018 m. gegužės 7 d. Europos Komisijos deleguotasis [reglamentas (ES) 2018/1108](https://eur-lex.europa.eu/eli/reg/2018/1108/oj), kuriuo Europos Parlamento ir Tarybos [direktyva (ES) 2015/849](https://eur-lex.europa.eu/eli/dir/2015/849/oj) papildoma elektroninių pinigų išleidėjų ir mokėjimo paslaugų teikėjų pagrindinių kontaktinių punktų skyrimo kriterijų techniniais reguliavimo standartais ir jų funkcijas reglamentuojančiomis taisyklėmis. ^s-f3c6ffcf3cefc92310246141
 
 
-5. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos reglamentas (ES) 2018/1672 dėl į Sąjungą įvežamų arba iš jos išvežamų grynųjų pinigų kontrolės, kuriuo panaikinamas Reglamentas (EB) Nr. 1889/2005. ^s-e9735787a868e010f2116e10
+5. 2018 m. spalio 23 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2018/1672](https://eur-lex.europa.eu/eli/reg/2018/1672/oj) dėl į Sąjungą įvežamų arba iš jos išvežamų grynųjų pinigų kontrolės, kuriuo panaikinamas [Reglamentas (EB) Nr. 1889/2005](https://eur-lex.europa.eu/eli/reg/1889/2005/oj). ^s-e9735787a868e010f2116e10
 
 
-6. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1153, kuria nustatomos taisyklės dėl paprastesnio finansinės ir kitos informacijos naudojimo tam tikrų nusikalstamų veikų prevencijos, nustatymo, tyrimo ir baudžiamojo persekiojimo už jas tikslais ir kuria panaikinamas Tarybos sprendimas 2000/642/TVR. ^s-307304f84daa4333943453ca
+6. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/1153](https://eur-lex.europa.eu/eli/dir/2019/1153/oj), kuria nustatomos taisyklės dėl paprastesnio finansinės ir kitos informacijos naudojimo tam tikrų nusikalstamų veikų prevencijos, nustatymo, tyrimo ir baudžiamojo persekiojimo už jas tikslais ir kuria panaikinamas Tarybos sprendimas 2000/642/TVR. ^s-307304f84daa4333943453ca
 
 
-7. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2023/1113 dėl informacijos, teikiamos pervedant lėšas ir tam tikrą kriptoturtą, kuriuo iš dalies keičiama Direktyva (ES) 2015/849. ^s-96bcdd69c8f2b5f41434e990
+7. 2023 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2023/1113](https://eur-lex.europa.eu/eli/reg/2023/1113/oj) dėl informacijos, teikiamos pervedant lėšas ir tam tikrą kriptoturtą, kuriuo iš dalies keičiama [Direktyva (ES) 2015/849](https://eur-lex.europa.eu/eli/dir/2015/849/oj). ^s-96bcdd69c8f2b5f41434e990
 Papildyta straipsnio dalimi:
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
 
 
 
-8. 2024 m. gegužės 31 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/1620, kuriuo įsteigiama Kovos su pinigų plovimu ir teroristų finansavimu institucija ir iš dalies keičiami reglamentai (ES) Nr. 1093/2010, (ES) Nr. 1094/2010 ir (ES) Nr. 1095/2010. ^s-5eff90ee0e5a3db5bc2e30ee
+8. 2024 m. gegužės 31 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2024/1620](https://eur-lex.europa.eu/eli/reg/2024/1620/oj), kuriuo įsteigiama Kovos su pinigų plovimu ir teroristų finansavimu institucija ir iš dalies keičiami [reglamentai (ES) Nr. 1093/2010](https://eur-lex.europa.eu/eli/reg/1093/2010/oj), (ES) Nr. 1094/2010 ir (ES) Nr. 1095/2010. ^s-5eff90ee0e5a3db5bc2e30ee
 Papildyta punktu:
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
 
@@ -3444,7 +3444,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1419, 2008-01-17, Žin., 2008, Nr. 10-335 (2008-01-24)
 PINIGŲ PLOVIMO PREVENCIJOS ĮSTATYMO PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija (keistas įstatymo pavadinimas)
-Šio įstatymo [[#^s-9b3bba9cd3571c078b955a22|1 straipsniu]] išdėstyto [[#^s-8aafcc0470d211fc0caac360|Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 9–11 straipsnių]] nuostatas finansų įstaigos ir kiti subjektai taiko ir šio įstatymo įsigaliojimo momentu esamiems klientams.
+Šio įstatymo [[#^s-9b3bba9cd3571c078b955a22|1 straipsniu]] išdėstyto Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo [[#^s-781326fd10213b148a836324|9]]–[[#^s-8aafcc0470d211fc0caac360|11]] straipsnių nuostatas finansų įstaigos ir kiti subjektai taiko ir šio įstatymo įsigaliojimo momentu esamiems klientams.
 Šio įstatymo [[#^s-9b3bba9cd3571c078b955a22|1 straipsnyje]] išdėstyto [[#^s-02efd2e63e3a22ccdecfdd19|Pinigų plovimo ir teroristų finansavimo prevencijos įstatymo 9 straipsnio 4 dalis]] ir [[#^s-103872a9a533055e9d0f3738|16 straipsnio 5 dalis]] įsigalioja 2008 m. birželio 1 d.
 
 12.
@@ -3490,13 +3490,13 @@ Nr. XI-1885, 2011-12-22, Žin., 2011, Nr. 163-7774 (2011-12-31)
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-894, 2014-05-15, paskelbta TAR 2014-06-02, i. k.2014-06007
-LIETUVOS RESPUBLIKOS PINIGŲ PLOVIMO IR TERORISTŲ FINANSAVIMO PREVENCIJOS ĮSTATYMO NR. VIII-275 2, 5, 7, 9, 10, 11, 14, 16, 17, 18, 19, [[#^s-7df509bf8fa468ec4f9629c3|20 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 14-1 STRAIPSNIU ĮSTATYMAS
+LIETUVOS RESPUBLIKOS PINIGŲ PLOVIMO IR TERORISTŲ FINANSAVIMO PREVENCIJOS ĮSTATYMO NR. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]], [[#^s-f94cfce060e2cc0ca2d5ff2b|5]], [[#^s-14b9c27c868d4760b7c4deef|7]], [[#^s-781326fd10213b148a836324|9]], [[#^s-73fdde75724cad948ea6fb50|10]], [[#^s-8aafcc0470d211fc0caac360|11]], [[#^s-dde70865b7ccf572d2169f76|14]], [[#^s-7e7393d94543b20dcfee1c23|16]], [[#^s-fb61f4a14fc5df6b09a0ffbd|17]], [[#^s-6f04b1f7b1f9dd4ff220cdee|18]], [[#^s-4358a1aeded7fdba3103dde1|19]], [[#^s-7df509bf8fa468ec4f9629c3|20]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 14-1 STRAIPSNIU ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 3 dalį, įsigalioja 2014 m. rugsėjo 1 d.
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1038, 2014-07-17, paskelbta TAR 2014-08-04, i. k. 2014-10865
-LIETUVOS RESPUBLIKOS PINIGŲ PLOVIMO IR TERORISTŲ FINANSAVIMO PREVENCIJOS ĮSTATYMO NR. VIII-275 2 IR [[#^s-9f55a5617f75567ce0cac570|4 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS PINIGŲ PLOVIMO IR TERORISTŲ FINANSAVIMO PREVENCIJOS ĮSTATYMO NR. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]] IR [[#^s-9f55a5617f75567ce0cac570|4]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis įstatymas įsigalioja 2014 m. lapkričio 1 d.
 
 
@@ -3511,7 +3511,7 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2693, 2016-11-03, paskelbta TAR 2016-11-15, i. k. 2016-26831
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2 ir [[#^s-9f55a5617f75567ce0cac570|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]] ir [[#^s-9f55a5617f75567ce0cac570|4]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3521,27 +3521,27 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1442, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11755
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2 ir [[#^s-dde70865b7ccf572d2169f76|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]] ir [[#^s-dde70865b7ccf572d2169f76|14]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1440, 2018-06-30, paskelbta TAR 2018-07-11, i. k. 2018-11752
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 15 ir [[#^s-4ae8bb0ab27e25313271f7a5|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]], [[#^s-f1f8884912e81742fae01f26|15]] ir [[#^s-4ae8bb0ab27e25313271f7a5|25]] straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2584, 2019-12-03, paskelbta TAR 2019-12-19, i. k. 2019-20552
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 48, 49, 51 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 7-1, 14-1, 25-1, 25-2 straipsniais įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]], [[#^s-9f55a5617f75567ce0cac570|4]], [[#^s-f94cfce060e2cc0ca2d5ff2b|5]], [[#^s-14b9c27c868d4760b7c4deef|7]], [[#^s-e9ab24e48b185c9f8dab5906|8]], [[#^s-781326fd10213b148a836324|9]], [[#^s-73fdde75724cad948ea6fb50|10]], [[#^s-8aafcc0470d211fc0caac360|11]], [[#^s-b121a23fbf63b0e059ae66e6|12]], [[#^s-d4e469f98770608212e2a3ca|13]], [[#^s-dde70865b7ccf572d2169f76|14]], [[#^s-f1f8884912e81742fae01f26|15]], [[#^s-fb61f4a14fc5df6b09a0ffbd|17]], [[#^s-4358a1aeded7fdba3103dde1|19]], [[#^s-7df509bf8fa468ec4f9629c3|20]], [[#^s-309c810a7448c71e62daec97|21]], [[#^s-95929223c5c3156595d63347|22]], [[#^s-bceaf33f2c2a3a31a477d45f|23]], [[#^s-81b4117141f2b893db711867|24]], [[#^s-4ae8bb0ab27e25313271f7a5|25]], [[#^s-b92c8a78f2c96db3b7e1f687|26]], [[#^s-246cb5998e0fd2527f1cd92a|27]], [[#^s-e215a6fdbaab61526f74bb65|28]], [[#^s-4ffa8eb5a56f5d0e18d7ce14|29]], [[#^s-7f63fa52b023f41657989e0e|48]], [[#^s-46869bd4f0038a844bb6d9d4|49]], 51 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 7-1, 14-1, 25-1, 25-2 straipsniais įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-63, 2020-12-10, paskelbta TAR 2020-12-17, i. k. 2020-27624
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 10 ir [[#^s-8aafcc0470d211fc0caac360|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-73fdde75724cad948ea6fb50|10]] ir [[#^s-8aafcc0470d211fc0caac360|11]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-291, 2021-05-13, paskelbta TAR 2021-05-27, i. k. 2021-11759
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 7, 11, 14, 15, 16, 22, 25-2, 51 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]], [[#^s-14b9c27c868d4760b7c4deef|7]], [[#^s-8aafcc0470d211fc0caac360|11]], [[#^s-dde70865b7ccf572d2169f76|14]], [[#^s-f1f8884912e81742fae01f26|15]], [[#^s-7e7393d94543b20dcfee1c23|16]], [[#^s-95929223c5c3156595d63347|22]], 25-2, 51 straipsnių ir priedo pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3556,27 +3556,27 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-555, 2021-09-30, paskelbta TAR 2021-10-08, i. k. 2021-21223
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 5, 24, 48, 51 straipsnių ir priedo pakeitimo įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-f94cfce060e2cc0ca2d5ff2b|5]], [[#^s-81b4117141f2b893db711867|24]], [[#^s-7f63fa52b023f41657989e0e|48]], 51 straipsnių ir priedo pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-831, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27723
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 11, 14, 15, [[#^s-1d12b54a91a3e8052520f534|36 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]], [[#^s-9f55a5617f75567ce0cac570|4]], [[#^s-8aafcc0470d211fc0caac360|11]], [[#^s-dde70865b7ccf572d2169f76|14]], [[#^s-f1f8884912e81742fae01f26|15]], [[#^s-1d12b54a91a3e8052520f534|36]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-915, 2022-01-20, paskelbta TAR 2022-01-27, i. k. 2022-01288
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 12 ir 25-2 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-b121a23fbf63b0e059ae66e6|12]] ir 25-2 straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1374, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15464
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 9, [[#^s-4ae8bb0ab27e25313271f7a5|25 straipsnių]] pakeitimo ir Įstatymo papildymo 25-3 straipsniu įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]], [[#^s-781326fd10213b148a836324|9]], [[#^s-4ae8bb0ab27e25313271f7a5|25]] straipsnių pakeitimo ir Įstatymo papildymo 25-3 straipsniu įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1497, 2022-11-08, paskelbta TAR 2022-11-09, i. k. 2022-22685
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 11, 14, 15, [[#^s-1d12b54a91a3e8052520f534|36 straipsnių]] pakeitimo [[latest/db522f20697111eca9ac839120d251c4|įstatymo Nr. XIV-831]] [[#^s-14b9c27c868d4760b7c4deef|7 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]], [[#^s-9f55a5617f75567ce0cac570|4]], [[#^s-8aafcc0470d211fc0caac360|11]], [[#^s-dde70865b7ccf572d2169f76|14]], [[#^s-f1f8884912e81742fae01f26|15]], [[#^s-1d12b54a91a3e8052520f534|36]] straipsnių pakeitimo [[latest/db522f20697111eca9ac839120d251c4|įstatymo Nr. XIV-831]] [[#^s-14b9c27c868d4760b7c4deef|7 straipsnio]] pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3586,27 +3586,27 @@ Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įsta
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2543, 2024-04-18, paskelbta TAR 2024-04-25, i. k. 2024-07537
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 9, 10, 11, 15, 16, 21, 22, 23, 25, 29, 36, 39, 40, 48, [[#^s-46869bd4f0038a844bb6d9d4|49 straipsnių]] pakeitimo ir Įstatymo papildymo 15-1, 15-2, 46-1 straipsniais įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]], [[#^s-781326fd10213b148a836324|9]], [[#^s-73fdde75724cad948ea6fb50|10]], [[#^s-8aafcc0470d211fc0caac360|11]], [[#^s-f1f8884912e81742fae01f26|15]], [[#^s-7e7393d94543b20dcfee1c23|16]], [[#^s-309c810a7448c71e62daec97|21]], [[#^s-95929223c5c3156595d63347|22]], [[#^s-bceaf33f2c2a3a31a477d45f|23]], [[#^s-4ae8bb0ab27e25313271f7a5|25]], [[#^s-4ffa8eb5a56f5d0e18d7ce14|29]], [[#^s-1d12b54a91a3e8052520f534|36]], [[#^s-04479378cfb2bffd5c439da2|39]], [[#^s-ca6556922f23b6fb1eca2acf|40]], [[#^s-7f63fa52b023f41657989e0e|48]], [[#^s-46869bd4f0038a844bb6d9d4|49]] straipsnių pakeitimo ir Įstatymo papildymo 15-1, 15-2, 46-1 straipsniais įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2884, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13493
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 9, [[#^s-4ae8bb0ab27e25313271f7a5|25 straipsnių]] pakeitimo ir įstatymo papildymo 25-3 straipsniu [[latest/40106ed0034c11edb32c9f9d8ba206f8|įstatymo Nr. XIV-1374]] 2 ir [[#^s-f94cfce060e2cc0ca2d5ff2b|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]], [[#^s-781326fd10213b148a836324|9]], [[#^s-4ae8bb0ab27e25313271f7a5|25]] straipsnių pakeitimo ir įstatymo papildymo 25-3 straipsniu [[latest/40106ed0034c11edb32c9f9d8ba206f8|įstatymo Nr. XIV-1374]] [[#^s-c1a8f4c2a3d25cd1782d20e7|2]] ir [[#^s-f94cfce060e2cc0ca2d5ff2b|5]] straipsnių pakeitimo įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2883, 2024-07-11, paskelbta TAR 2024-07-24, i. k. 2024-13492
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 7, 9, 14, 19, 20, 22, 25, 29, 36, 49, 51 straipsnių, priedo pakeitimo, Įstatymo papildymo 36-1 straipsniu ir 25-1, 25-3 straipsnių pripažinimo netekusiais galios įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]], [[#^s-9f55a5617f75567ce0cac570|4]], [[#^s-14b9c27c868d4760b7c4deef|7]], [[#^s-781326fd10213b148a836324|9]], [[#^s-dde70865b7ccf572d2169f76|14]], [[#^s-4358a1aeded7fdba3103dde1|19]], [[#^s-7df509bf8fa468ec4f9629c3|20]], [[#^s-95929223c5c3156595d63347|22]], [[#^s-4ae8bb0ab27e25313271f7a5|25]], [[#^s-4ffa8eb5a56f5d0e18d7ce14|29]], [[#^s-1d12b54a91a3e8052520f534|36]], [[#^s-46869bd4f0038a844bb6d9d4|49]], 51 straipsnių, priedo pakeitimo, Įstatymo papildymo 36-1 straipsniu ir 25-1, 25-3 straipsnių pripažinimo netekusiais galios įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-186, 2025-05-08, paskelbta TAR 2025-05-15, i. k. 2025-08682
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 7, 9, 14, 19, 20, 22, 25, 29, 36, 49, 51 straipsnių, priedo pakeitimo, Įstatymo papildymo 36-1 straipsniu ir 25-1, 25-3 straipsnių pripažinimo netekusiais galios [[latest/a3289160499e11efbdaea558de59136c|įstatymo Nr. XIV-2883]] [[#^s-6f04b1f7b1f9dd4ff220cdee|18 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]], [[#^s-9f55a5617f75567ce0cac570|4]], [[#^s-14b9c27c868d4760b7c4deef|7]], [[#^s-781326fd10213b148a836324|9]], [[#^s-dde70865b7ccf572d2169f76|14]], [[#^s-4358a1aeded7fdba3103dde1|19]], [[#^s-7df509bf8fa468ec4f9629c3|20]], [[#^s-95929223c5c3156595d63347|22]], [[#^s-4ae8bb0ab27e25313271f7a5|25]], [[#^s-4ffa8eb5a56f5d0e18d7ce14|29]], [[#^s-1d12b54a91a3e8052520f534|36]], [[#^s-46869bd4f0038a844bb6d9d4|49]], 51 straipsnių, priedo pakeitimo, Įstatymo papildymo 36-1 straipsniu ir 25-1, 25-3 straipsnių pripažinimo netekusiais galios [[latest/a3289160499e11efbdaea558de59136c|įstatymo Nr. XIV-2883]] [[#^s-6f04b1f7b1f9dd4ff220cdee|18 straipsnio]] pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-326, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12014
-Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 2, 4, 5, 6, 7, 8, 9, 10, 15, 22, 23, 26, 27, 28, 29, 39, 40, [[#^s-55a3daff30652d7ebee8565f|42 straipsnių]] ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas
+Lietuvos Respublikos pinigų plovimo ir teroristų finansavimo prevencijos įstatymo Nr. VIII-275 [[#^s-c1a8f4c2a3d25cd1782d20e7|2]], [[#^s-9f55a5617f75567ce0cac570|4]], [[#^s-f94cfce060e2cc0ca2d5ff2b|5]], [[#^s-6d9e74aebc5a05136ee6487d|6]], [[#^s-14b9c27c868d4760b7c4deef|7]], [[#^s-e9ab24e48b185c9f8dab5906|8]], [[#^s-781326fd10213b148a836324|9]], [[#^s-73fdde75724cad948ea6fb50|10]], [[#^s-f1f8884912e81742fae01f26|15]], [[#^s-95929223c5c3156595d63347|22]], [[#^s-bceaf33f2c2a3a31a477d45f|23]], [[#^s-b92c8a78f2c96db3b7e1f687|26]], [[#^s-246cb5998e0fd2527f1cd92a|27]], [[#^s-e215a6fdbaab61526f74bb65|28]], [[#^s-4ffa8eb5a56f5d0e18d7ce14|29]], [[#^s-04479378cfb2bffd5c439da2|39]], [[#^s-ca6556922f23b6fb1eca2acf|40]], [[#^s-55a3daff30652d7ebee8565f|42]] straipsnių ir priedo pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas

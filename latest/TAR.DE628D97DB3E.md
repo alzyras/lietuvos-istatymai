@@ -51,7 +51,7 @@ Pakeisti 31 straipsnį ir jį išdėstyti taip:
 1. Privačios nuosavybės nekilnojamieji daiktai, išskyrus žemę, esantys uosto teritorijoje, gali būti paimami visuomenės poreikiams Lietuvos Respublikos Vyriausybės nutarimu teisingai atlyginant už juos, jei tai būtina uosto infrastruktūros statybai ir plėtrai ar uosto funkcionavimui užtikrinti. ^s-6aab4ca91a82f306be21e38b
 
 
-2. Privačios nuosavybės nekilnojamųjų daiktų savininkams atlyginama Lietuvos Respublikos Vyriausybės nustatyta tvarka pagal rinkos kainą, nustatomą vadovaujantis Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymu. ^s-95a37ea46cd99e2f7aa013ce
+2. Privačios nuosavybės nekilnojamųjų daiktų savininkams atlyginama Lietuvos Respublikos Vyriausybės nustatyta tvarka pagal rinkos kainą, nustatomą vadovaujantis [Lietuvos Respublikos turto ir verslo vertinimo pagrindų įstatymu](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838). ^s-95a37ea46cd99e2f7aa013ce
 
 
 3. Už atsiradusius kitus nuostolius, susijusius su nekilnojamojo daikto paėmimu, kuriuos patiria nekilnojamojo daikto savininkas ir šio daikto naudotojas, atlyginama Lietuvos Respublikos Vyriausybės nustatyta tvarka. ^s-f07337a6cf60601d83160551

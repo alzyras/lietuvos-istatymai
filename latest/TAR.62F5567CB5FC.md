@@ -103,7 +103,7 @@ Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 5 straipsnis. Įstatymo įsigaliojimas ^s-26bb7fa45bfd8c748847c81a
 
 
-1. Šio įstatymo 1, 2, [[#^s-55dcdb124284f4d75c8233f2|4 straipsniai]] įsigalioja nuo 1999 m. sausio 1 d., o [[#^s-ad0e5c6e7c4f750cae408f92|3 straipsnis]] – nuo 2000 m. sausio 1 d. ^s-a782ba7712e9f7694b65909c
+1. Šio įstatymo [[#^s-2ad9effa7e38e42e629b82d9|1]], [[#^s-d97783bb5bca01eee28c7626|2]], [[#^s-55dcdb124284f4d75c8233f2|4]] straipsniai įsigalioja nuo 1999 m. sausio 1 d., o [[#^s-ad0e5c6e7c4f750cae408f92|3 straipsnis]] – nuo 2000 m. sausio 1 d. ^s-a782ba7712e9f7694b65909c
 
 
 2. Vyriausybė arba jos įgaliota institucija iki 1999 m. spalio 1 d. parengia vienkartinės pašalpos, skirtos našlaičiams ir likusiems be tėvų globos vaikams įsikurti, išmokėjimo tvarką. ^s-8026f77aaa18625a534cbf05

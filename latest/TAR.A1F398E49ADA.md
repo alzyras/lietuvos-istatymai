@@ -56,7 +56,7 @@ Vilnius
 3. Papildyti [[#^s-9981812218e73c11eaa11e5a|3 straipsnį]] nauja 20 dalimi: ^s-60ec010b90ae2b8448316d91
 
 
-„20. Kredito reitingų agentūra – kaip tai apibrėžta 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 1060/2009 (toliau – reglamentas (EB) Nr. 1060/2009).“
+„20. Kredito reitingų agentūra – kaip tai apibrėžta 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) (toliau – [reglamentas (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj)).“
 
 
 4. Buvusias [[#^s-9981812218e73c11eaa11e5a|3 straipsnio]] 19–43 dalis laikyti atitinkamai 21–45 dalimis. ^s-0e5cc0776de2eac0e78ccb00
@@ -75,7 +75,7 @@ Vilnius
 Pakeisti 4 straipsnio 9 dalį ir ją išdėstyti taip:
 
 
-„9. Finansų patarėjo įmonei netaikomi šio įstatymo 12 ir [[#^s-72b8bdf0778e089cc159380b|15 straipsnių]] reikalavimai, tačiau ji privalo apdrausti savo profesinę civilinę atsakomybę. Draudimo suma turi būti ne mažesnė kaip 100 tūkstančių litų vienam draudžiamajam įvykiui ir 500 tūkstančių litų visiems draudžiamiesiems įvykiams per metus. Finansų patarėjo įmonė privalo turėti draudimo apsaugą visą savo veiklos laiką.“
+„9. Finansų patarėjo įmonei netaikomi šio įstatymo [[#^s-0b0f6904352025984c471ecf|12]] ir [[#^s-72b8bdf0778e089cc159380b|15]] straipsnių reikalavimai, tačiau ji privalo apdrausti savo profesinę civilinę atsakomybę. Draudimo suma turi būti ne mažesnė kaip 100 tūkstančių litų vienam draudžiamajam įvykiui ir 500 tūkstančių litų visiems draudžiamiesiems įvykiams per metus. Finansų patarėjo įmonė privalo turėti draudimo apsaugą visą savo veiklos laiką.“
 
 
 
@@ -102,7 +102,7 @@ Pakeisti [[#^s-72b8bdf0778e089cc159380b|15 straipsnį]] ir jį išdėstyti taip:
 1. Finansų maklerio įmonė privalo tvarkyti apskaitą ir sudaryti finansines ataskaitas vadovaudamasi Lietuvos Respublikos įstatymais, kitais teisės aktais ir tarptautiniais apskaitos standartais. ^s-0ca3243f65245265b5952ada
 
 
-2. Finansų maklerio įmonių audito atlikimo tvarką, reikalavimus auditoriui ir audito įmonei, auditoriaus ir audito įmonės pareigas ir atsakomybę reglamentuoja Audito įstatymas, Finansų įstaigų įstatymas ir šio įstatymo 83 straipsnis. ^s-437b4e3b556cefb6a6f135c3
+2. Finansų maklerio įmonių audito atlikimo tvarką, reikalavimus auditoriui ir audito įmonei, auditoriaus ir audito įmonės pareigas ir atsakomybę reglamentuoja Audito įstatymas, [[latest/TAR.779892D853B4|Finansų įstaigų įstatymas ir šio įstatymo 83 straipsnis]]. ^s-437b4e3b556cefb6a6f135c3
 
 
 3. [[#^s-0ca3243f65245265b5952ada|Šio straipsnio 1 dalis]] mutatis mutandis taikoma rinkos operatoriui ir Centriniam depozitoriumui. ^s-093b44ce8fc6eec118a16043
@@ -391,13 +391,13 @@ Papildyti Įstatymą 931 straipsniu:
 „931 straipsnis. Kredito reitingų agentūrų veiklos priežiūra
 
 
-1. Vertybinių popierių komisija yra Lietuvos Respublikos kompetentinga institucija, įgyvendinanti kredito reitingų agentūrų veiklos priežiūros ir kitas jai priskirtas funkcijas, nustatytas reglamente (EB) Nr. 1060/2009. ^s-83cfda562262a79cd390bc33
+1. Vertybinių popierių komisija yra Lietuvos Respublikos kompetentinga institucija, įgyvendinanti kredito reitingų agentūrų veiklos priežiūros ir kitas jai priskirtas funkcijas, nustatytas [reglamente (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj). ^s-83cfda562262a79cd390bc33
 
 
-2. Vertybinių popierių komisija, atlikdama [[#^s-83cfda562262a79cd390bc33|šio straipsnio 1 dalyje]] nurodytas funkcijas, turi reglamente (EB) Nr. 1060/2009 nustatytas teises, pareigas ir įgaliojimus, taip pat mutatis mutandis naudojasi šiame įstatyme nustatytomis teisėmis ir pareigomis. ^s-a9733afcefe2bcca7dc07163
+2. Vertybinių popierių komisija, atlikdama [[#^s-83cfda562262a79cd390bc33|šio straipsnio 1 dalyje]] nurodytas funkcijas, turi [reglamente (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) nustatytas teises, pareigas ir įgaliojimus, taip pat mutatis mutandis naudojasi šiame įstatyme nustatytomis teisėmis ir pareigomis. ^s-a9733afcefe2bcca7dc07163
 
 
-3. Vertybinių popierių komisija asmenims, nesilaikantiems reglamente (EB) Nr. 1060/2009 nustatytų reikalavimų, turi teisę šio įstatymo nustatyta tvarka taikyti šiame reglamente nustatytas priežiūros priemones ir reglamente bei šio įstatymo 86 straipsnio  1 dalies 1 ir 2 punktuose nurodytas poveikio priemones.“ ^s-2b06230aaa53e417cd938e2e
+3. Vertybinių popierių komisija asmenims, nesilaikantiems [reglamente (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) nustatytų reikalavimų, turi teisę šio įstatymo nustatyta tvarka taikyti šiame reglamente nustatytas priežiūros priemones ir reglamente bei šio įstatymo 86 straipsnio  1 dalies 1 ir 2 punktuose nurodytas poveikio priemones.“ ^s-2b06230aaa53e417cd938e2e
 
 
 
@@ -407,7 +407,7 @@ Papildyti Įstatymą 931 straipsniu:
 Papildyti 95 straipsnio 1 dalį 11 punktu:
 
 
-„11) juridiniams asmenims, nesilaikantiems reglamente (EB) Nr. 1060/2009 nustatytų reikalavimų, – iki 200 tūkstančių litų.“
+„11) juridiniams asmenims, nesilaikantiems [reglamente (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) nustatytų reikalavimų, – iki 200 tūkstančių litų.“
 
 
 
@@ -432,7 +432,7 @@ Papildyti 95 straipsnio 1 dalį 11 punktu:
 4. Papildyti Įstatymo priedą 7 punktu: ^s-f4ee0f1137e5dcbf86931ee6
 
 
-„7. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1).“
+„7. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) dėl kredito reitingų agentūrų (OL 2009 L 302, p. 1).“
 
 
 

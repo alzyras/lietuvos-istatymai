@@ -94,7 +94,7 @@ Vilnius
 „5. Fiziniai ir juridiniai asmenys, kurie patys arba per trečiuosius asmenis išveža iš Lietuvos Respublikos teritorijos pagal šį Įstatymą apmokestinamus gaminius ir (ar) į apmokestinamąją pakuotę įpakuotus gaminius, yra atleidžiami nuo mokesčio už aplinkos teršimą gaminių ar pakuotės atliekomis už tokį apmokestinamųjų gaminių ar pakuotės kiekį, koks buvo  išvežtas iš Lietuvos Respublikos teritorijos per mokestinį laikotarpį, Vyriausybės ar jos įgaliotų institucijų nustatyta tvarka pateikus dokumentus, patvirtinančius išvežtą iš Lietuvos Respublikos teritorijos apmokestinamųjų gaminių ar pakuotės kiekį.“
 
 
-4. Buvusias [[#^s-086af42197c047962de4dac3|5 straipsnio]] 5 ir 6 dalis laikyti atitinkamai 6 ir 7 dalimis. ^s-72a1c2a227b06de20f518098
+4. Buvusias [[#^s-086af42197c047962de4dac3|5 straipsnio]] [[#^s-4e5a8d567de025c835d6e0d7|5]] ir [[#^s-ecdc8da0bf50150d7a02cdc2|6]] dalis laikyti atitinkamai [[#^s-ecdc8da0bf50150d7a02cdc2|6]] ir 7 dalimis. ^s-72a1c2a227b06de20f518098
 
 
 
@@ -239,7 +239,7 @@ APMOKESTINAMOSIOS PAKUOTĖS RŪŠYS IR MOKESČIO TARIFAI
 ### 6 straipsnis. Įstatymo įsigaliojimas ^s-06e4ce5df34492e6f2cd31dd
 
 
-Šio įstatymo [[#^s-580adf45178b8d94cbb1dced|1 straipsnio]] 1, 4 dalys, [[#^s-3b4e718f6eadccaac546fd92|2 straipsnio]] 1, 2 dalys ir [[#^s-086af42197c047962de4dac3|5 straipsnis]] įsigalioja nuo 2006 m. sausio 1 d.
+Šio įstatymo [[#^s-580adf45178b8d94cbb1dced|1 straipsnio]] [[#^s-850990110bf818602ce2f385|1]], [[#^s-748017b5cf7fb884d1c0b66e|4]] dalys, [[#^s-3b4e718f6eadccaac546fd92|2 straipsnio]] [[#^s-568ed411d180c5920c8816d5|1]], [[#^s-c013c68cb718964e1e0450e2|2]] dalys ir [[#^s-086af42197c047962de4dac3|5 straipsnis]] įsigalioja nuo 2006 m. sausio 1 d.
 
 
 
@@ -250,4 +250,4 @@ RESPUBLIKOS PREZIDENTAS                                                         
 ______________
 
 
-1 Prekių kodai pateikti pagal Europos Bendrijos kombinuotosios nomenklatūros versiją, patvirtintą 2003 m. rugsėjo 11 d. Komisijos reglamentu (EB) Nr. 1789/2003, iš dalies keičiančiu Tarybos reglamento (EEB) Nr. 2658/87 dėl tarifų ir statistinės prekių nomenklatūros bei dėl bendrojo muitų tarifo I priedą.“
+1 Prekių kodai pateikti pagal Europos Bendrijos kombinuotosios nomenklatūros versiją, patvirtintą 2003 m. rugsėjo 11 d. Komisijos [reglamentu (EB) Nr. 1789/2003](https://eur-lex.europa.eu/eli/reg/1789/2003/oj), iš dalies keičiančiu Tarybos [reglamento (EEB) Nr. 2658/87](https://eur-lex.europa.eu/eli/reg/2658/87/oj) [dėl tarifų](https://e-tar.lt/portal/lt/legalAct/SAV.511075) ir statistinės prekių nomenklatūros bei dėl bendrojo muitų tarifo I priedą.“

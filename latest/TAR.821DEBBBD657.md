@@ -122,7 +122,7 @@ Vilnius
 4) namų ūkių biudžetų tyrimo (toliau – NŪBT) duomenimis. NŪBT atlieka ir šio tyrimo duomenis skelbia Valstybės duomenų agentūra; ^s-d42cb537e99f7952db0ba777
 
 
-5) šio straipsnio 2 ir [[#^s-ef9dd47f78ce58457a0fbf3c|3 dalių]] nuostatomis. ^s-f0b41176ab9bc09a0674be5e
+5) šio straipsnio [[#^s-6659d17bd818c16847c174e7|2]] ir [[#^s-ef9dd47f78ce58457a0fbf3c|3]] dalių nuostatomis. ^s-f0b41176ab9bc09a0674be5e
 
 
 2. Minimalių maisto poreikių dydis (toliau – MVPDM) eurais 1 asmeniui per mėnesį apskaičiuojamas pagal formulę: ^s-6659d17bd818c16847c174e7

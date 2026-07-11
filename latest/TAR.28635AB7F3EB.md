@@ -79,7 +79,7 @@ BENDROSIOS NUOSTATOS
 ### 3 straipsnis. Centro veiklos teisiniai pagrindai ^s-bd991367aec8e2f15412b84e
 
 
-Centras veikia vadovaudamasis Lietuvos Respublikos Konstitucija, įstatymais, kitais Seimo priimtais teisės aktais, Respublikos Prezidento dekretais, Vyriausybės nutarimais bei Centro nuostatais, taip pat šiuo įstatymu.
+Centras veikia vadovaudamasis [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymais, kitais Seimo priimtais teisės aktais, Respublikos Prezidento dekretais, Vyriausybės nutarimais bei Centro nuostatais, taip pat šiuo įstatymu.
 
 
 
@@ -258,13 +258,13 @@ BAIGIAMOSIOS NUOSTATOS
 1) Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymas (Žin., 1993, Nr.32-735); ^s-3de2b6904221320a3ab925e7
 
 
-2) Seimo nutarimas „Dėl Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo įgyvendinimo tvarkos“ (Žin., 1993, Nr.32-736); ^s-55ab5216f63f5bfa15cfe5d9
+2) Seimo nutarimas [„Dėl Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo įgyvendinimo tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.3D85D3E2ABC8) (Žin., 1993, Nr.32-736); ^s-55ab5216f63f5bfa15cfe5d9
 
 
 3) Seimo nutarimas „Dėl Lietuvos Respublikos Seimo nutarimo „Dėl Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymo įgyvendinimo tvarkos“ pakeitimo“ (Žin., 1993, Nr.73-1372); ^s-8e1641d79c6e572e4e46b63f
 
 
-4) įstatymas „Dėl Lietuvos Respublikos gyventojų genocido ir rezistencijos tyrimo centro įstatymo papildymo“ (Žin., 1995, Nr.57-1420). ^s-f37f873049a368a254ad14c5
+4) įstatymas [„Dėl Lietuvos Respublikos gyventojų genocido ir rezistencijos tyrimo centro įstatymo papildymo“](https://e-tar.lt/portal/lt/legalAct/TAR.CD869CEDC0D7) (Žin., 1995, Nr.57-1420). ^s-f37f873049a368a254ad14c5
 
 
 

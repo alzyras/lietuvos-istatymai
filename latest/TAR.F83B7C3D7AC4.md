@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-6f3ff81203b00cfa64da3cfe
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. sausio 16 d. dekretą Nr. 2023, ratifikuoja Lietuvos Respublikos Vyriausybės ir Jordanijos Hašimitų Karalystės Vyriausybės susitarimą dėl investicijų skatinimo ir apsaugos, pasirašytą 2002 m. spalio 13 d. Amane.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. sausio 16 d. dekretą Nr. 2023](https://e-tar.lt/portal/lt/legalAct/TAR.C9DFD7A862A0), ratifikuoja Lietuvos Respublikos Vyriausybės ir Jordanijos Hašimitų Karalystės Vyriausybės susitarimą dėl investicijų skatinimo ir apsaugos, pasirašytą 2002 m. spalio 13 d. Amane.
 
 
 

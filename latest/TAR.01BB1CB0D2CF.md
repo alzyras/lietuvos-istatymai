@@ -238,7 +238,7 @@ Pakeisti [[#^s-e81c49a7021506ac5543cfc0|11 straipsnį]] ir jį išdėstyti taip:
 3) atliekų naudojimo ar šalinimo įrenginių priežiūros po uždarymo priemonės, trukmė ir išlaidos; ^s-4438bb4206108b9010c1a945
 
 
-4) šios dalies 1–[[#^s-4438bb4206108b9010c1a945|3 punktuose]] numatytoms priemonėms įgyvendinti būtinų lėšų kaupimo sistema. ^s-df41aa5811a727f7f8600dd4
+4) šios dalies [[#^s-bf0e42ca9a6b12e7a4587fa2|1]]–[[#^s-4438bb4206108b9010c1a945|3]] punktuose numatytoms priemonėms įgyvendinti būtinų lėšų kaupimo sistema. ^s-df41aa5811a727f7f8600dd4
 
 
 3. Pavojingas atliekas naudojanti ar šalinanti įmonė bei įmonė, naudojanti ar šalinanti nepavojingas atliekas, kurių sąrašą nustato Vyriausybė ar jos įgaliota institucija, turi būti sudariusi laidavimo draudimo sutartį ar turėti banko garantiją, užtikrinančią atliekų naudojimo ar šalinimo veiklos nutraukimo plane numatytų priemonių finansavimą įmonės bankroto ar kitu atveju, kai įmonė privalo nutraukti atliekų naudojimo ar šalinimo veiklą ir neturi sukaupusi tam reikalingų lėšų. Dokumentai, patvirtinantys laidavimo draudimo sutarties sudarymą ar banko garantijos suteikimą, pateikiami kartu su atliekų naudojimo ar šalinimo veiklos nutraukimo planu Aplinkos ministerijos nustatyta tvarka.“ ^s-491d048fb65c23230a770f23
@@ -295,7 +295,7 @@ GAMINTOJŲ IR IMPORTUOTOJŲ TEISĖS IR PAREIGOS
 3. Gamintojai ir importuotojai gali patys organizuoti alyvų, transporto priemonių, elektros ir elektroninės įrangos, apmokestinamųjų gaminių bei pakuočių atliekų tvarkymo sistemas arba pagal sutartis naudotis organizuojamomis atliekų tvarkymo sistemomis. ^s-96657790267b94a3aced1cbd
 
 
-4. Gamintojai ir importuotojai gali įsteigti organizacijas ir joms pavesti vykdyti šio straipsnio 1 ir [[#^s-5462509ea36011f79c34735b|2 dalyse]] nustatytas pareigas.“ ^s-e1198f8921879bde782d4337
+4. Gamintojai ir importuotojai gali įsteigti organizacijas ir joms pavesti vykdyti šio straipsnio [[#^s-c804e5bd8339be97d871dbce|1]] ir [[#^s-5462509ea36011f79c34735b|2]] dalyse nustatytas pareigas.“ ^s-e1198f8921879bde782d4337
 
 
 

@@ -9,15 +9,16 @@ pavadinimas: "Lietuvos Respublikos reklamos įstatymo 1, 2, 5, 6, 12, 17, 18, 22
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Lietuvos Respublikos administracinių bylų teisenos įstatymo
-- [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - 2 citatos - Konkurencijos įstatymas
-- [[latest/TAR.9BC8AEE9D9F8|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - 2 citatos - Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo
-- [[latest/TAR.55FFE350795A|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme
-- [[latest/TAR.55FFE350795A#^s-6ae6db52cad1136811e34a7c|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 6 straipsnio 3 dalyje
-- [[latest/TAR.55FFE350795A#^s-862fad541b2060d6505a3548|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - 2 citatos - Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 7 straipsnio
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Lietuvos Respublikos administracinių bylų teisenos įstatymo
+- [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - Konkurencijos įstatymas
+- [[latest/TAR.9BC8AEE9D9F8|Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymas]] - Lietuvos Respublikos nekilnojamojo kultūros paveldo apsaugos įstatymo
+- [[latest/TAR.55FFE350795A|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatyme
+- [[latest/TAR.55FFE350795A#^s-118272753837c058769812ca|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - 21
+- [[latest/TAR.55FFE350795A#^s-6ae6db52cad1136811e34a7c|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 6 straipsnio 3 dalyje
+- [[latest/TAR.55FFE350795A#^s-862fad541b2060d6505a3548|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymo 7 straipsnio
+- [[latest/TAR.55FFE350795A#^s-bcdbfe69810a17d05acc3466|Lietuvos Respublikos nesąžiningos komercinės veiklos vartotojams draudimo įstatymas]] - 1
 - [[latest/TAR.303FC0152D04|Lietuvos Respublikos reklamos įstatymas]] - Reklamos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.303FC0152D04#^s-1019d0176795cea3c0d0a038|Lietuvos Respublikos reklamos įstatymas]] - 3 citatos - 1081010ISTA00X-1414
-- [[latest/TAR.303FC0152D04#^s-e46c0c6a50d98e02949ffcb4|Lietuvos Respublikos reklamos įstatymas]] - 3 citatos - 1081010ISTA00X-1414
+- [[latest/TAR.303FC0152D04#^s-e46c0c6a50d98e02949ffcb4|Lietuvos Respublikos reklamos įstatymas]] - 2 citatos - 1081010ISTA00X-1414

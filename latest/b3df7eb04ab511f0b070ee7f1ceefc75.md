@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-b2b524ed716275344bbaecc2
 
 
-Pakeisti 2 straipsnio 17 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.640D50DB8877|2 straipsnio 17 dalį]] ir ją išdėstyti taip:
 
 
 „17. Startuolis – didelį ir inovacijomis grindžiamą verslo plėtros potencialą turinti labai maža ar maža įmonė, Juridinių asmenų registro informacinėje sistemoje registruota ne ilgiau kaip 5 metus arba, jeigu vykdo mokslinius tyrimus ir eksperimentinę plėtrą, – ne ilgiau kaip 10 metų.“
@@ -47,16 +47,16 @@ Pakeisti 2 straipsnio 17 dalį ir ją išdėstyti taip:
 ### 2 straipsnis. 3 straipsnio pakeitimas ^s-d4ed9cec7002c58837272196
 
 
-1. Pakeisti 3 straipsnio 6 dalį ir ją išdėstyti taip: ^s-08b36026ff542ed480278e84
+1. Pakeisti [[latest/TAR.640D50DB8877|3 straipsnio 6 dalį]] ir ją išdėstyti taip: ^s-08b36026ff542ed480278e84
 
 
 „6. Įmonės gali deklaruoti esančios vidutinės, mažos ar labai mažos įmonės nuo jų įregistravimo Juridinių asmenų registro informacinėje sistemoje.“
 
 
-2. Pakeisti 3 straipsnio 11 dalį ir ją išdėstyti taip: ^s-bdf9ce11bcc15bd1dcce22c7
+2. Pakeisti [[latest/TAR.640D50DB8877|3 straipsnio 11 dalį]] ir ją išdėstyti taip: ^s-bdf9ce11bcc15bd1dcce22c7
 
 
-„11. Įmonės, turinčios patvirtintas trumpesnio kaip 12 mėnesių laikotarpio finansines ataskaitas ar kitus finansinius dokumentus, ir naujos įsteigtos įmonės, kurios metinės finansinės ataskaitos, metinės konsoliduotosios finansinės ataskaitos ar kiti finansiniai dokumentai dar nėra patvirtinti, šio straipsnio 1, 2 ir 3 dalyse nustatytų sąlygų atitiktis nustatoma pagal vidutinį metinį darbuotojų skaičių, finansinius duomenis (pasirinktinai – balanse nurodyto turto vertę arba metines pajamas) nuo įmonės įregistravimo Juridinių asmenų registro informacinėje sistemoje ir planuojamus finansinių metų duomenis.“
+„11. Įmonės, turinčios patvirtintas trumpesnio kaip 12 mėnesių laikotarpio finansines ataskaitas ar kitus finansinius dokumentus, ir naujos įsteigtos įmonės, kurios metinės finansinės ataskaitos, metinės konsoliduotosios finansinės ataskaitos ar kiti finansiniai dokumentai dar nėra patvirtinti, šio straipsnio [[#^s-08b36026ff542ed480278e84|1]], [[latest/TAR.640D50DB8877|2]] ir [[latest/TAR.640D50DB8877|3]] dalyse nustatytų sąlygų atitiktis nustatoma pagal vidutinį metinį darbuotojų skaičių, finansinius duomenis (pasirinktinai – balanse nurodyto turto vertę arba metines pajamas) nuo įmonės įregistravimo Juridinių asmenų registro informacinėje sistemoje ir planuojamus finansinių metų duomenis.“
 
 
 

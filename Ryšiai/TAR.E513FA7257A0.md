@@ -13,5 +13,5 @@ pavadinimas: "Lietuvos Respublikos nepaprastosios padėties įstatymo 19 straips
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.845C6618A647#^s-51465b794935d805ec5c28a9|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - 2 citatos - 1031010ISTA0IX-1468
+- [[latest/TAR.845C6618A647#^s-51465b794935d805ec5c28a9|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - 1031010ISTA0IX-1468
 - [[latest/TAR.845C6618A647#^s-bc8896a6e25b761100ca7036|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - 1031010ISTA0IX-1468

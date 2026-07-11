@@ -51,10 +51,10 @@ Pakeisti 2 straipsnį ir jį išdėstyti taip:
 „2 straipsnis. Įstatymo įsigaliojimas
 
 
-1. Šis įstatymas įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2012 m. gruodžio 31 d., išskyrus [[#^s-1c25058a334fbe5dab27a036|1 straipsnyje]] išdėstytą Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio III skirsnį. ^s-42432877ff5016b97e626dca
+1. Šis įstatymas įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2012 m. gruodžio 31 d., išskyrus [[#^s-1c25058a334fbe5dab27a036|1 straipsnyje]] išdėstytą Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) priedėlio III skirsnį. ^s-42432877ff5016b97e626dca
 
 
-2. Šio įstatymo [[#^s-1c25058a334fbe5dab27a036|1 straipsnyje]] išdėstytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo priedėlio III skirsnis įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2012 m. balandžio 30 d.“ ^s-0c5922e5729221382fdcdb7c
+2. Šio įstatymo [[#^s-1c25058a334fbe5dab27a036|1 straipsnyje]] išdėstytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) priedėlio III skirsnis įsigalioja 2009 m. rugpjūčio 1 d. ir galioja iki 2012 m. balandžio 30 d.“ ^s-0c5922e5729221382fdcdb7c
 
 
 

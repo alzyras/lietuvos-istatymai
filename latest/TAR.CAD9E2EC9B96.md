@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Sutarties denonsavimas ^s-70c407ddf3935d537b18dce6
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. lapkričio 20 d. dekretą Nr. 1K-214, denonsuoja 1997 m. vasario 14 d. Alytuje pasirašytą Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl apsikeičiamos įslaptintosios karinės informacijos apsaugos, ratifikuotą Lietuvos Respublikos [[latest/TAR.922114B574E1|1997 m. birželio 19 d. įstatymu Nr. VIII-274]] (Žin., 1997, Nr. 77-1973).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. lapkričio 20 d. dekretą Nr. 1K-214](https://e-tar.lt/portal/lt/legalAct/TAR.B1BE8112357B), denonsuoja 1997 m. vasario 14 d. Alytuje pasirašytą Lietuvos Respublikos Vyriausybės ir Lenkijos Respublikos Vyriausybės sutartį dėl apsikeičiamos įslaptintosios karinės informacijos apsaugos, ratifikuotą Lietuvos Respublikos [[latest/TAR.922114B574E1|1997 m. birželio 19 d. įstatymu Nr. VIII-274]] (Žin., 1997, Nr. 77-1973).
 
 
 

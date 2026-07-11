@@ -134,7 +134,7 @@ Pakeisti 45 straipsnį ir jį išdėstyti taip:
 „2. Informacija, kurią Lietuvos bankas gauna kredito įstaigų priežiūros tikslui, negali būti skelbiama viešai, kam nors perduodama ar kitokiu būdu padaroma prieinama, išskyrus kredito įstaigų veiklą reglamentuojančių įstatymų numatytus atvejus.“
 
 
-4. 46 straipsnio 3 ir [[#^s-7b598d103c4e877356e421c0|4 dalis]] pripažinti netekusiomis galios. ^s-7b598d103c4e877356e421c0
+4. 46 straipsnio 3 ir 4 dalis pripažinti netekusiomis galios. ^s-7b598d103c4e877356e421c0
 
 
 

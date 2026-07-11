@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sprendimo ratifikavimas ^s-0a78e925691d79182fc37583
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. lapkričio 14 d. dekretą Nr. 1557, ratifikuoja Lietuvos Respublikos ir Čekijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimą Nr. 2/2000 „Dėl prekybos žemės ūkio prekėmis“, pasirašytą 2000 m. spalio 31 d. Prahoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. lapkričio 14 d. dekretą Nr. 1557](https://e-tar.lt/portal/lt/legalAct/TAR.F88944B0EF53), ratifikuoja Lietuvos Respublikos ir Čekijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimą Nr. 2/2000 „Dėl prekybos žemės ūkio prekėmis“, pasirašytą 2000 m. spalio 31 d. Prahoje.
 
 
 

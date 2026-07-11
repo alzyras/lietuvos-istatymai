@@ -45,7 +45,7 @@ Vilnius
 „16) ginklų registro duomenys, kai ginklo savininkas, valdytojas ar naudotojas yra krašto apsaugos sistemos institucija, vidaus reikalų sistemos institucija, Valstybės saugumo departamentas, Specialiųjų tyrimų tarnyba, prokuratūra, Ginklų fondas prie Lietuvos Respublikos Vyriausybės, Lietuvos muitinės įstaiga, vykdanti operatyvinę veiklą, taip pat detalizuoti duomenys apie operatyvinės veiklos subjektų turimus ginklus, šaudmenis, sprogmenis, kovinę techniką, specialiąsias priemones bei specialiąją techniką;“.
 
 
-2. 5 straipsnio 2 dalies 6 ir [[#^s-f36380355882fdc41dd2ff54|7 punktuose]] po žodžių „Specialiųjų tyrimų tarnybos“ įrašyti žodžius „Lietuvos muitinės įstaigos, vykdančios operatyvinę veiklą“ ir šiuos punktus išdėstyti taip: ^s-6694d0f9f0f11f9efa9d1361
+2. 5 straipsnio 2 dalies 6 ir 7 punktuose po žodžių „Specialiųjų tyrimų tarnybos“ įrašyti žodžius „Lietuvos muitinės įstaigos, vykdančios operatyvinę veiklą“ ir šiuos punktus išdėstyti taip: ^s-6694d0f9f0f11f9efa9d1361
 
 
 „6) detalizuoti duomenys apie Lietuvos kariuomenės, taip pat krašto apsaugos sistemos institucijų, vidaus reikalų sistemos institucijų, Valstybės saugumo departamento, Specialiųjų tyrimų tarnybos, Lietuvos muitinės įstaigos, vykdančios operatyvinę veiklą, kiekybinę ir personalinę sudėtį, materialinį techninį aprūpinimą;

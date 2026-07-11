@@ -765,7 +765,7 @@ BENDRIJOS PABAIGA IR PERTVARKYMAS
 4. Apie reorganizavimo sąlygų sudarymą turi būti paskelbta visų reorganizavime dalyvaujančių bendrijų įstatuose nurodytuose leidiniuose tris kartus ne mažesniais kaip 30 dienų intervalais arba paskelbta visų reorganizavime dalyvaujančių bendrijų įstatuose nurodytuose leidiniuose vieną kartą, ne vėliau kaip 30 dienų iki narių susirinkimo dėl reorganizavimo, ir pranešta raštu visiems bendrijos kreditoriams. Skelbimo būdas turi būti nurodytas bendrijos įstatuose. Skelbime arba pranešime turi būti nurodyta: ^s-7a7d4687b9c7a5a1a120426b
 
 
-1) [[#^s-af476eb4ea8c45986be55d03|šio straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodyta informacija; ^s-3ea565a885a7e7a345b09dcd
+1) [[#^s-af476eb4ea8c45986be55d03|šio straipsnio 2 dalies]] 1, [[#^s-05fc212d47546f58390f06b5|2]] ir 4 punktuose nurodyta informacija; ^s-3ea565a885a7e7a345b09dcd
 
 
 2) kur ir nuo kada galima susipažinti su reorganizavimo sąlygomis, po reorganizavimo veiksiančių bendrijų įstatais ir reorganizavime dalyvaujančių bendrijų praėjusių 3 finansinių metų metinėmis finansinėmis atskaitomybėmis. ^s-05fc212d47546f58390f06b5

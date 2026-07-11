@@ -14,5 +14,4 @@ _Nėra._
 ## Šį įstatymą cituoja
 
 - [[latest/TAR.B89A2566EFC9#^s-423adf45a9d28497dd662683|Dėl Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo įgyvendinimo]] - 0961010ISTA00I-1198
-- [[latest/TAR.B89A2566EFC9#^s-7968f857c22ba93f27ba31c6|Dėl Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo įgyvendinimo]] - 2 citatos - 0961010ISTA00I-1198
-- [[latest/TAR.B89A2566EFC9#^s-f11948a1c76cff1f1911a303|Dėl Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo įgyvendinimo]] - 2 citatos - 0961010ISTA00I-1198
+- [[latest/TAR.B89A2566EFC9#^s-7968f857c22ba93f27ba31c6|Dėl Lietuvos Respublikos nekilnojamųjų kultūros vertybių apsaugos įstatymo įgyvendinimo]] - 0961010ISTA00I-1198

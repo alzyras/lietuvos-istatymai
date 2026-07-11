@@ -141,7 +141,7 @@ PRIPAŽINIMAS NETEKUSIU GALIOS
 ### 14 straipsnis. Lietuvos Respublikos apskrities valdymo įstatymo įgyvendinimo įstatymo pripažinimas netekusiu galios ^s-2dcdd0384356a71db00e2f07
 
 
-Lietuvos Respublikos apskrities valdymo įstatymo įgyvendinimo įstatymą pripažinti netekusiu galios.
+[Lietuvos Respublikos apskrities valdymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.E17A6C7BB3AF) įgyvendinimo įstatymą pripažinti netekusiu galios.
 
 
 

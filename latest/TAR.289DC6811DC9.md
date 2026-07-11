@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-69350e71155505f8fb28ec6f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. birželio 18 d. dekretą Nr. 119, ratifikuoja su pareiškimais ir išlygomis 1996 m. spalio 19 d. Hagoje priimtą Konvenciją dėl jurisdikcijos, taikytinos teisės, pripažinimo, vykdymo ir bendradarbiavimo tėvų pareigų ir vaikų apsaugos priemonių srityje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. birželio 18 d. dekretą Nr. 119](https://e-tar.lt/portal/lt/legalAct/TAR.63A505DA122A), ratifikuoja su pareiškimais ir išlygomis 1996 m. spalio 19 d. Hagoje priimtą Konvenciją dėl jurisdikcijos, taikytinos teisės, pripažinimo, vykdymo ir bendradarbiavimo tėvų pareigų ir vaikų apsaugos priemonių srityje.
 
 
 

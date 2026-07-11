@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-09bc5df5e50bc91af6acbc9e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 24 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Visuotinio branduolinių bandymų uždraudimo sutartį“, ratifikuoja Visuotinio branduolinių bandymų uždraudimo sutartį, pasirašytą 1996 m. spalio 7 d. Niujorke.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 24 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Visuotinio branduolinių bandymų uždraudimo sutartį“](https://e-tar.lt/portal/lt/legalAct/TAR.936F23BB1E8A), ratifikuoja Visuotinio branduolinių bandymų uždraudimo sutartį, pasirašytą 1996 m. spalio 7 d. Niujorke.
 
 
 

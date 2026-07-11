@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-ae7d6ff7599085bd9bbc120c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. liepos 5 d. dekretą Nr. 1K-1039, ratifikuoja Europos susitarimą dėl svarbių tarptautinio kombinuoto transporto linijų ir susijusių įrenginių (AGTC), priimtą 1991 m. vasario 1 d. Ženevoje, su pakeitimais ir pataisymais, įsigaliojusiais 1998 m. birželio 25 d., 2001 m. vasario 1 d., 2001 m. gruodžio 18 d., 2004 m. balandžio 16 d., 2005 m. balandžio 7 d., 2006 m. gegužės 20 d.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. liepos 5 d. dekretą Nr. 1K-1039](https://e-tar.lt/portal/lt/legalAct/TAR.02097525AE61), ratifikuoja Europos susitarimą dėl svarbių tarptautinio kombinuoto transporto linijų ir susijusių įrenginių (AGTC), priimtą 1991 m. vasario 1 d. Ženevoje, su pakeitimais ir pataisymais, įsigaliojusiais 1998 m. birželio 25 d., 2001 m. vasario 1 d., 2001 m. gruodžio 18 d., 2004 m. balandžio 16 d., 2005 m. balandžio 7 d., 2006 m. gegužės 20 d.
 
 
 

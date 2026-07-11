@@ -339,7 +339,7 @@ baudžiamas bauda arba laisvės atėmimu iki septynerių metų.
 baudžiamas bauda arba laisvės apribojimu, arba areštu, arba laisvės atėmimu iki trejų metų.“
 
 
-2. Papildyti 270 straipsnį nauja [[#^s-d9e1570cfd09161073a916b2|2 dalimi]]: ^s-d9e1570cfd09161073a916b2
+2. Papildyti 270 straipsnį nauja 2 dalimi: ^s-d9e1570cfd09161073a916b2
 
 
 „2. Tas, kas padarė [[#^s-edc0038365b7c3a3d64a8cef|šio straipsnio 1 dalyje]] nurodytą veiką, jeigu dėl to buvo padaryta didelės žalos gyvūnijai, augmenijai ar atsirado kitų sunkių padarinių aplinkai,
@@ -395,7 +395,7 @@ baudžiamas bauda arba laisvės apribojimu, arba areštu.
 5. Už šiame straipsnyje numatytas veikas atsako ir juridinis asmuo. ^s-df21130992f5639ac79b27fb
 
 
-6. Šio straipsnio 1 ir [[#^s-8798b3862633eab537e25c0f|3 dalyse]] numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo.“ ^s-6afc1cd24045691a3c38884f
+6. Šio straipsnio [[#^s-f1ceed5a00a9beefb7ae2e45|1]] ir [[#^s-8798b3862633eab537e25c0f|3]] dalyse numatytos veikos yra nusikalstamos ir tais atvejais, kai jos padarytos dėl neatsargumo.“ ^s-6afc1cd24045691a3c38884f
 
 
 
@@ -494,14 +494,14 @@ priedas
 10. 2003 m. sausio 27 d. Tarybos pagrindų sprendimas 2003/80/TVR dėl aplinkos apsaugos pagal baudžiamąją teisę. ^s-d333688152a8f891e7f65dd3
 
 
-11. 2003 m. liepos 22 d. Tarybos pagrindų sprendimas 2003/568/TVR dėl kovos su korupcija privačiame sektoriuje.“ ^s-885700737e3cd20fa90615bc
+11. 2003 m. liepos 22 d. Tarybos pagrindų sprendimas 2003/568/TVR [dėl kovos su korupcija](https://e-tar.lt/portal/lt/legalAct/TAR.3CB207106C6D) privačiame sektoriuje.“ ^s-885700737e3cd20fa90615bc
 
 
 
 ### 27 straipsnis. Įstatymo įsigaliojimas ^s-a6912221d93de983e68e0c7c
 
 
-Šio įstatymo 1 ir [[#^s-0099871842fa401b96f1f7da|2 straipsniai]] įsigalioja nuo 2005 m. liepos 1 d.
+Šio įstatymo [[#^s-5a0b605d0dddd4a6a9252356|1]] ir [[#^s-0099871842fa401b96f1f7da|2]] straipsniai įsigalioja nuo 2005 m. liepos 1 d.
 
 
 

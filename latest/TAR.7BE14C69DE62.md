@@ -79,7 +79,7 @@ BĮ steigėjai (savivaldybės, kurios patikėjimo teise valdo sveikatos prieži�
 5) VĮ įregistruojama įstatymų nustatyta tvarka. ^s-7098a45883dc6f86eaf909ff
 
 
-2. BĮ pertvarkymo laikotarpiu BĮ vadovų ir darbuotojų darbo santykiai tęsiasi atitinkamoje VĮ pagal Darbo sutarties įstatymo 32 straipsnio reikalavimus, išskyrus jų darbo apmokėjimo sąlygas, kurios gali būti keičiamos Darbo sutarties įstatymo 22 straipsnio nustatyta tvarka. ^s-954f7c419cc5b795aba044e2
+2. BĮ pertvarkymo laikotarpiu BĮ vadovų ir darbuotojų darbo santykiai tęsiasi atitinkamoje VĮ pagal [Darbo sutarties įstatymo 32 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) reikalavimus, išskyrus jų darbo apmokėjimo sąlygas, kurios gali būti keičiamos [Darbo sutarties įstatymo 22 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) nustatyta tvarka. ^s-954f7c419cc5b795aba044e2
 
 
 

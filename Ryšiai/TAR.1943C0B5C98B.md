@@ -9,10 +9,10 @@ pavadinimas: "Lietuvos Respublikos žemės reformos įstatymo 7, 9, 10, 14, 15, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 2 citatos - Viešųjų pirkimų įstatymo
-- [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - 2 citatos - Žemės įstatymo
+- [[latest/TAR.8A16A03D98D4|Lietuvos Respublikos piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymas]] - Piliečių nuosavybės teisių į išlikusį nekilnojamąjį turtą atkūrimo įstatymo 4 straipsnio 13 dalyje
+- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Viešųjų pirkimų įstatymo
+- [[latest/TAR.CC10C5274343|Lietuvos Respublikos žemės įstatymas]] - Žemės įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.075D49C59279#^s-f3d9ec0b6214bdca8f9da877|Lietuvos Respublikos žemės reformos įstatymas]] - 2 citatos - Įstatymas Nr. IX-1171
-- [[latest/TAR.075D49C59279#^s-fd93d558e29561f60c2cba71|Lietuvos Respublikos žemės reformos įstatymas]] - 2 citatos - Įstatymas Nr. IX-1171
+- [[latest/TAR.075D49C59279#^s-f3d9ec0b6214bdca8f9da877|Lietuvos Respublikos žemės reformos įstatymas]] - ŽEMĖS REFORMOS ĮSTATYMO 7, 9, 10, 14, 15, 16, 18, 19 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

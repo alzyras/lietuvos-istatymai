@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos kontroliuojančiųjų investicinių bendrovi�
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatymas]] - 3 citatos - Finansinių priemonių rinkų įstatymo
+- [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatymas]] - 2 citatos - Finansinių priemonių rinkų įstatymo
 
 ## Šį įstatymą cituoja
 

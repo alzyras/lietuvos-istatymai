@@ -69,7 +69,7 @@ Pakeisti 56 straipsnį ir jį išdėstyti taip:
 Papildyti Kodekso priedą 6 punktu:
 
 
-„6. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 181/2011 dėl miesto ir tolimojo susisiekimo autobusų transporto keleivių teisių, kuriuo iš dalies keičiamas Reglamentas (EB) Nr. 2006/2004 (OL 2011 L 55, p. 1).“
+„6. 2011 m. vasario 16 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 181/2011 dėl miesto ir tolimojo susisiekimo autobusų transporto keleivių teisių, kuriuo iš dalies keičiamas [Reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) (OL 2011 L 55, p. 1).“
 
 
 ### 4 straipsnis. Įstatymo įsigaliojimas ^s-9738333396e1fa3ece7779a7

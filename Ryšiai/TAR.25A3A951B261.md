@@ -9,8 +9,9 @@ pavadinimas: "Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 ir 10 str
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatymas]] - LIETUVOS RESPUBLIKOS buhalterinės apskaitos įstatymo
-- [[latest/TAR.43178AA9832E#^s-ceb3fb3b4ae7049a8a678e68|Lietuvos Respublikos finansinės apskaitos įstatymas]] - 2 citatos - Buhalterinės apskaitos įstatymo 1 IR 10 STRAIPSNIŲ
+- [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatymas]] - 2 citatos - Lietuvos Respublikos buhalterinės apskaitos įstatymo
+- [[latest/TAR.43178AA9832E#^s-cd4e5d19cb1d490f356057b9|Lietuvos Respublikos finansinės apskaitos įstatymas]] - 1
+- [[latest/TAR.43178AA9832E#^s-ceb3fb3b4ae7049a8a678e68|Lietuvos Respublikos finansinės apskaitos įstatymas]] - 10
 
 ## Šį įstatymą cituoja
 

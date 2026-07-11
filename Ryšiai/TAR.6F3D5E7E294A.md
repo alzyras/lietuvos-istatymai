@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos prekių ženklų įstatymo 1, 18, 26, 32, 34,
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.B494EC0B78B0#^s-33a66a5e38750e70312032fd|Lietuvos Respublikos prekių ženklų įstatymas]] - 3 citatos - 1021010ISTA0IX-1150
-- [[latest/TAR.B494EC0B78B0#^s-aea1f9077e7d496c8766d205|Lietuvos Respublikos prekių ženklų įstatymas]] - 3 citatos - 1021010ISTA0IX-1150
+- [[latest/TAR.B494EC0B78B0#^s-33a66a5e38750e70312032fd|Lietuvos Respublikos prekių ženklų įstatymas]] - 2 citatos - 1021010ISTA0IX-1150

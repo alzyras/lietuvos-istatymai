@@ -15,7 +15,9 @@ pavadinimas: "Coverage"
 - Latest pointers: 12,274
 - Latest pointer file changes: 12,274
 - Linked sections: 538,421
-- Linking citations found: 737,665
-- Resolved links: 309,968
-- Unresolved links: 427,697
+- Linking citations found: 457,219
+- Resolved links: 294,283
+- Official external links: 20,917
+- Ignored non-citations: 2,056
+- Unresolved links: 160,880
 - AI chunks: 0

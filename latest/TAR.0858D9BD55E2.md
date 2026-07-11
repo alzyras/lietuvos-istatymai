@@ -37,17 +37,17 @@ Vilnius
 ### 1 straipsnis.         Baudžiamojo proceso kodekso 65, 94, 103, 109, 139, 151, 154, 158, 168, 181, 218, 220, 225, 232, 237, 239, 240, 306, 313, 346, 360, 364, 370, 377, 403, 409, 418, 421, 422, 425, 426, 429, 446, 456, 457, 458 straipsnių ir XXXV skyriaus pavadinimo pakeitimo ir papildymo įstatymo įsigaliojimas ^s-4bca09a618eadc6575f8c961
 
 
-1. [[latest/TAR.178605FBA01E|Baudžiamojo proceso kodekso 65, 94, 103, 109, 139, 151, 154, 158, 168, 181, 218, 220, 225, 232, 237, 239, 240, 306, 313, 346, 360, 364, 370, 377, 403, 409, 418, 421, 422, 425, 426, 429, 446, 456, 457, 458 straipsnių ir XXXV skyriaus pavadinimo pakeitimo ir papildymo įstatymas]] (toliau – [[latest/TAR.EC588C321777|Baudžiamojo proceso kodekso]] pakeitimo ir papildymo įstatymas) įsigalioja nuo paskelbimo dienos, išskyrus šiame įstatyme numatytas išimtis. ^s-503751fdf0cdf01f719516da
+1. [[latest/TAR.178605FBA01E|Baudžiamojo proceso kodekso 65, 94, 103, 109, 139, 151, 154, 158, 168, 181, 218, 220, 225, 232, 237, 239, 240, 306, 313, 346, 360, 364, 370, 377, 403, 409, 418, 421, 422, 425, 426, 429, 446, 456, 457, 458 straipsnių ir XXXV skyriaus pavadinimo pakeitimo ir papildymo įstatymas]] (toliau – Baudžiamojo proceso kodekso pakeitimo ir papildymo įstatymas) įsigalioja nuo paskelbimo dienos, išskyrus šiame įstatyme numatytas išimtis. ^s-503751fdf0cdf01f719516da
 
 
-2. [[latest/TAR.EC588C321777#^s-99b08e7f570c8f94c62424c9|Baudžiamojo proceso kodekso pakeitimo ir papildymo įstatymo 10, 11, 12, 14, 15, 16 ir 17 straipsniai]] įsigalioja nuo 2005 m. sausio 1 d. ^s-5cdbfafa1e960c0bb755e4f4
+2. Baudžiamojo proceso kodekso pakeitimo ir papildymo įstatymo 10, 11, 12, 14, 15, 16 ir 17 straipsniai įsigalioja nuo 2005 m. sausio 1 d. ^s-5cdbfafa1e960c0bb755e4f4
 
 
 
 ### 2 straipsnis. Teismingumo taisyklių taikymas ^s-9724519a197fd23abf529f5b
 
 
-Byloms, kurios su kaltinamuoju aktu gautos apygardų teismuose ir pradėtos nagrinėti iki [[latest/TAR.EC588C321777#^s-26bccc5181dd2354e88dc37a|Baudžiamojo proceso kodekso pakeitimo ir papildymo įstatymo įsigaliojimo, taikomos iki nurodyto įstatymo galiojusios Baudžiamojo proceso kodekso 225 straipsnyje]] nustatytos teismingumo taisyklės.
+Byloms, kurios su kaltinamuoju aktu gautos apygardų teismuose ir pradėtos nagrinėti iki Baudžiamojo proceso kodekso pakeitimo ir papildymo įstatymo įsigaliojimo, taikomos iki nurodyto įstatymo galiojusios Baudžiamojo proceso kodekso 225 straipsnyje nustatytos teismingumo taisyklės.
 
 
 

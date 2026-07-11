@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-bbfc5ed499008e4f0e160ae2
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2003 m. balandžio 25 d. dekretą Nr. 54, ratifikuoja Lietuvos Respublikos ir Nyderlandų Karalystės sutartį dėl socialinės apsaugos išmokų išmokėjimo užsienyje, pasirašytą 2002 m. gruodžio 12 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2003 m. balandžio 25 d. dekretą Nr. 54](https://e-tar.lt/portal/lt/legalAct/TAR.E28C287A77CB), ratifikuoja Lietuvos Respublikos ir Nyderlandų Karalystės sutartį dėl socialinės apsaugos išmokų išmokėjimo užsienyje, pasirašytą 2002 m. gruodžio 12 d. Vilniuje.
 
 
 

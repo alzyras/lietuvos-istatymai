@@ -717,7 +717,7 @@ Nr. XI-917, 2010-06-18, Žin., 2010, Nr. 79-4055 (2010-07-03), i. k. [[latest/TA
 
 
 3. Valstybės ir savivaldybių institucijos, įstaigos ir įmonės, valstybės įgalioti asmenys, nevalstybinės organizacijos, privatūs juridiniai asmenys popierinius veiklos dokumentus, išskyrus nuolat saugomus dokumentus, gali išsaugoti elektronine forma, nesaugodami popierinio dokumento, jeigu yra užtikrinamas popierinio dokumento skaitmeninio vaizdo tikrumas. Popierinių dokumentų atrankos ir jų išsaugojimo elektronine forma tvarką nustato Lietuvos vyriausiasis archyvaras. ^s-8a171177d5178140578eee11
-TAR pastaba. [[#^s-8a171177d5178140578eee11|12 straipsnio 3 dalies]] nuostatos dėl popierinių dokumentų galimo išsaugojimo elektronine forma taikomos ir iki [[latest/a21be8d0f0ac11e99681cd81dcdca52c|įstatymo Nr. XIII-2473]] įsigaliojimo (2020-01-01) sukurtiems popieriniams dokumentams.
+TAR pastaba. 12 straipsnio 3 dalies nuostatos dėl popierinių dokumentų galimo išsaugojimo elektronine forma taikomos ir iki [[latest/a21be8d0f0ac11e99681cd81dcdca52c|įstatymo Nr. XIII-2473]] įsigaliojimo (2020-01-01) sukurtiems popieriniams dokumentams.
 Papildyta straipsnio dalimi:
 Nr. XIII-2473, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16483
 
@@ -925,7 +925,7 @@ Likviduojamos nevalstybinės organizacijos ir privataus juridinio asmens veiklos
 3) licencijos turėtojas už licencijos įgijimą nesumoka valstybės rinkliavos. ^s-2c782fdc661780129a1ef659
 
 
-12. Sustabdžius licencijos galiojimą dėl [[#^s-b3adf553505365b8ba1bc6c3|šio straipsnio 11 dalies]] 1 ar 3 punkte nurodytų pažeidimų, licencijos turėtojas juos turi pašalinti ne vėliau kaip per 60 darbo dienų nuo licencijos galiojimo sustabdymo dienos ir tol, kol nebus pašalinti pažeidimai, licencijos turėtojas turi teisę vykdyti iki licencijos galiojimo sustabdymo sudarytas dokumentų saugojimo paslaugų sutartis, tačiau negali sudaryti naujų sutarčių dėl dokumentų saugojimo paslaugos teikimo. Pašalinęs nustatytus pažeidimus, licencijos turėtojas informuoja Lietuvos vyriausiąjį archyvarą, kuris ne vėliau kaip per 7 darbo dienas nuo informacijos gavimo dienos patikrina, ar pažeidimai pašalinti, panaikina licencijos galiojimo sustabdymą (jeigu pažeidimai pašalinti) arba atsisako panaikinti galiojimo sustabdymą (jeigu pažeidimai nepašalinti) ir apie tai praneša licencijos turėtojui. ^s-7d1b3ce95463e496f19b90fc
+12. Sustabdžius licencijos galiojimą dėl [[#^s-b3adf553505365b8ba1bc6c3|šio straipsnio 11 dalies]] 1 ar 3 punkte nurodytų pažeidimų, licencijos turėtojas juos turi pašalinti ne vėliau kaip per 60 darbo dienų nuo licencijos galiojimo sustabdymo dienos ir tol, kol nebus pašalinti pažeidimai, licencijos turėtojas turi teisę vykdyti iki licencijos galiojimo sustabdymo sudarytas dokumentų saugojimo paslaugų sutartis, tačiau negali sudaryti naujų sutarčių [dėl dokumentų saugojimo](https://e-tar.lt/portal/lt/legalAct/TAR.03E4E7E1703B) paslaugos teikimo. Pašalinęs nustatytus pažeidimus, licencijos turėtojas informuoja Lietuvos vyriausiąjį archyvarą, kuris ne vėliau kaip per 7 darbo dienas nuo informacijos gavimo dienos patikrina, ar pažeidimai pašalinti, panaikina licencijos galiojimo sustabdymą (jeigu pažeidimai pašalinti) arba atsisako panaikinti galiojimo sustabdymą (jeigu pažeidimai nepašalinti) ir apie tai praneša licencijos turėtojui. ^s-7d1b3ce95463e496f19b90fc
 
 
 13. Licencijos galiojimas panaikinamas, jeigu: ^s-6d06f1d34eb4b69d1c2b0196
@@ -940,13 +940,13 @@ Likviduojamos nevalstybinės organizacijos ir privataus juridinio asmens veiklos
 3) licencijos turėtojas per 60 darbo dienų nuo licencijos galiojimo sustabdymo nepašalina nustatyto (nustatytų) pažeidimo (pažeidimų); ^s-506ce6cd165e7ba9588d1fb1
 
 
-4) licencijos turėtojas, kurio licencijos galiojimas sustabdytas, sudaro naujas sutartis dėl dokumentų saugojimo paslaugos teikimo; ^s-233b57340ff73617537d3161
+4) licencijos turėtojas, kurio licencijos galiojimas sustabdytas, sudaro naujas sutartis [dėl dokumentų saugojimo](https://e-tar.lt/portal/lt/legalAct/TAR.03E4E7E1703B) paslaugos teikimo; ^s-233b57340ff73617537d3161
 
 
 5) paaiškėja, kad licencijos turėtojas – fizinis asmuo – neatitinka [[#^s-913ec907af4245b7b0647a84|šio straipsnio 5 dalies 1 punkte]] nustatytų reikalavimų. ^s-4e80d887c3d51dd6bea57775
 
 
-14. Lietuvos vyriausiasis archyvaras sustabdo ar panaikina licencijos galiojimą ir praneša licencijos turėtojui apie licencijos galiojimo sustabdymą ar panaikinimą ne vėliau kaip per 2 darbo dienas nuo aplinkybių, nurodytų šio straipsnio 11 ar [[#^s-6d06f1d34eb4b69d1c2b0196|13 dalyje]], paaiškėjimo dienos. ^s-16b0adf0f917a3666a40b386
+14. Lietuvos vyriausiasis archyvaras sustabdo ar panaikina licencijos galiojimą ir praneša licencijos turėtojui apie licencijos galiojimo sustabdymą ar panaikinimą ne vėliau kaip per 2 darbo dienas nuo aplinkybių, nurodytų šio straipsnio 11 ar 13 dalyje, paaiškėjimo dienos. ^s-16b0adf0f917a3666a40b386
 
 
 15. Dokumentų saugojimo veiklos sąlygų laikymosi priežiūrą atlieka Lietuvos vyriausiasis archyvaras arba jo pavedimu valstybės archyvai. ^s-fb9ba4d5b06ae2d37e68e9e9
@@ -1012,7 +1012,7 @@ Nr. XI-1956, 2012-03-29, Žin., 2012, Nr. 44-2147 (2012-04-14); Žin., 2012, Nr.
 2. Pasibaigus įstatymų nustatytiems priėjimo prie dokumentų ribojimo terminams, dokumentai turi būti vieši ir prieinami. ^s-6ec73467833b77d20025a254
 
 
-3. Priėjimas prie Nacionalinio dokumentų fondo ypatingosios dalies dokumentų, išvardytų šio Įstatymo [[#^s-108bdc10fb7662b3b4568075|3 straipsnio 3 dalyje]], yra neribojamas. Priėjimas prie Nacionalinio dokumentų fondo ypatingosios dalies dokumentų reglamentuojamas šio Įstatymo [[#^s-7e6be85382619ff52d1eff17|19 straipsnio]] 2 ir [[#^s-c3fae6e0e973d7f718f2319a|3 dalyse]] nustatyta tvarka. Priėjimas prie dokumentų, kuriuose yra informacijos, susijusios su asmenimis, prisipažinusiais slapta bendradarbiavus su SSRS specialiosiomis tarnybomis ir įrašytais į prisipažinusių asmenų įskaitą, taip pat atvejais, kai nuo SSRS specialiųjų tarnybų nukentėjęs asmuo pareiškia savo valią dėl informacijos apie jį naudojimo ribojimo iki jo mirties, yra ribojamas. Priėjimo prie ribojamų dokumentų ir jų naudojimo tvarką, taip pat tvarką, pagal kurią nuo SSRS specialiųjų tarnybų nukentėjęs asmuo pareiškia valią dėl informacijos apie jį naudojimo ribojimo, vadovaudamasi šiuo ir kitais įstatymais, nustato Lietuvos Respublikos Vyriausybė. ^s-c3fae6e0e973d7f718f2319a
+3. Priėjimas prie Nacionalinio dokumentų fondo ypatingosios dalies dokumentų, išvardytų šio Įstatymo [[#^s-108bdc10fb7662b3b4568075|3 straipsnio 3 dalyje]], yra neribojamas. Priėjimas prie Nacionalinio dokumentų fondo ypatingosios dalies dokumentų reglamentuojamas šio Įstatymo [[#^s-7e6be85382619ff52d1eff17|19 straipsnio]] [[#^s-e9699ea3aa737f1565799256|2]] ir [[#^s-2d1a2bdf1eb446f125a66f60|3]] dalyse nustatyta tvarka. Priėjimas prie dokumentų, kuriuose yra informacijos, susijusios su asmenimis, prisipažinusiais slapta bendradarbiavus su SSRS specialiosiomis tarnybomis ir įrašytais į prisipažinusių asmenų įskaitą, taip pat atvejais, kai nuo SSRS specialiųjų tarnybų nukentėjęs asmuo pareiškia savo valią dėl informacijos apie jį naudojimo ribojimo iki jo mirties, yra ribojamas. Priėjimo prie ribojamų dokumentų ir jų naudojimo tvarką, taip pat tvarką, pagal kurią nuo SSRS specialiųjų tarnybų nukentėjęs asmuo pareiškia valią dėl informacijos apie jį naudojimo ribojimo, vadovaudamasi šiuo ir kitais įstatymais, nustato Lietuvos Respublikos Vyriausybė. ^s-c3fae6e0e973d7f718f2319a
 Straipsnio dalies pakeitimai:
 Nr. X-992, 2006-12-19, Žin., 2007, Nr. 4-154 (2007-01-11), i. k. [[latest/TAR.C6B7D6192401|1061010ISTA000X-992]]
 
@@ -1186,17 +1186,17 @@ Nr. XI-2243, 2012-10-02, Žin., 2012, Nr. 122-6102 (2012-10-20), i. k. [[latest/
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2240, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00369
-Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 2, 5 ir [[#^s-f2ed8eaf4a9a00f55e8de959|18 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 [[#^s-7a86e0d40ccddbac7ba7d63e|2]], [[#^s-6a5fdccb74efcb59616e68d3|5]] ir [[#^s-f2ed8eaf4a9a00f55e8de959|18]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2241, 2015-12-23, paskelbta TAR 2016-01-06, i. k. 2016-00370
-Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 4 ir [[#^s-6641196a5ee42314572b3f25|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 [[#^s-fd3fccff1e59bf59b5174885|4]] ir [[#^s-6641196a5ee42314572b3f25|16]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1373, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12041
-Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 5 ir [[#^s-65a026717ec16c7dd8161e42|6 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 [[#^s-6a5fdccb74efcb59616e68d3|5]] ir [[#^s-65a026717ec16c7dd8161e42|6]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1206,7 +1206,7 @@ Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 [[#^s-6a5fdccb7
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2473, 2019-10-10, paskelbta TAR 2019-10-17, i. k. 2019-16483
-Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 10, 11, 12 ir [[#^s-619d33c99173feb3744c9ce8|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 [[#^s-d047a459a7b6de656d31c8ec|10]], [[#^s-70f17b6cb5c505f56ba83255|11]], [[#^s-8a171d9aa05ab3aec4876a1d|12]] ir [[#^s-619d33c99173feb3744c9ce8|14]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1216,17 +1216,17 @@ Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 [[#^s-6a5fdccb7
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-38, 2020-12-03, paskelbta TAR 2020-12-15, i. k. 2020-27346
-Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 2 ir [[#^s-d047a459a7b6de656d31c8ec|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 [[#^s-7a86e0d40ccddbac7ba7d63e|2]] ir [[#^s-d047a459a7b6de656d31c8ec|10]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1081, 2022-05-12, paskelbta TAR 2022-05-27, i. k. 2022-11318
-Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 2, 3, 5, 8, 10, 15, 16, [[#^s-e5c862918642a1542562526b|20 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 [[#^s-7a86e0d40ccddbac7ba7d63e|2]], [[#^s-0a87464e0ccba27b2ed5a874|3]], [[#^s-6a5fdccb74efcb59616e68d3|5]], [[#^s-b37bd15d3ba9b7816d461389|8]], [[#^s-d047a459a7b6de656d31c8ec|10]], [[#^s-395844668e56e98f2019fdcb|15]], [[#^s-6641196a5ee42314572b3f25|16]], [[#^s-e5c862918642a1542562526b|20]] straipsnių ir priedo pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1987, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11558
-Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 5 ir [[#^s-d48ae2aae46430a27c58a0ae|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos dokumentų ir archyvų įstatymo Nr. I-1115 [[#^s-6a5fdccb74efcb59616e68d3|5]] ir [[#^s-d48ae2aae46430a27c58a0ae|7]] straipsnių pakeitimo įstatymas
 
 
 part_be9342059c53487e802b1f249fddba31_end

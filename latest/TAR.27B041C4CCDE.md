@@ -87,7 +87,7 @@ Vilnius
 2. Taikinimo tarpininkų skaičius nustatomas ginčo šalių susitarimu. Kai šio ginčo šalių susitarimo nėra, skiriamas vienas taikinimo tarpininkas. ^s-c8209d416845e83130e58441
 
 
-3. Ginčo šalys gali susitarti, kad trečiasis asmuo arba taikinamojo tarpininkavimo paslaugų administratorius parinks taikinimo tarpininką arba rekomenduos jo kandidatūrą. Kai tai numatyta susitarime dėl taikinamojo tarpininkavimo arba kai ginčo šalys nesutaria dėl taikinimo tarpininko parinkimo, bendru ginčo šalių prašymu taikinimo tarpininką gali paskirti apylinkės teismas Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta supaprastinto proceso tvarka. Taikinimo tarpininku asmuo skiriamas tik tuo atveju, kai yra jo rašytinis sutikimas. ^s-4b15c2203606ca52198a0643
+3. Ginčo šalys gali susitarti, kad trečiasis asmuo arba taikinamojo tarpininkavimo paslaugų administratorius parinks taikinimo tarpininką arba rekomenduos jo kandidatūrą. Kai tai numatyta susitarime dėl taikinamojo tarpininkavimo arba kai ginčo šalys nesutaria dėl taikinimo tarpininko parinkimo, bendru ginčo šalių prašymu taikinimo tarpininką gali paskirti apylinkės teismas [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) XXXIX skyriuje nustatyta supaprastinto proceso tvarka. Taikinimo tarpininku asmuo skiriamas tik tuo atveju, kai yra jo rašytinis sutikimas. ^s-4b15c2203606ca52198a0643
 
 
 4. Taikinimo tarpininkas ginčo šalių atžvilgiu turi veikti nešališkai. Taikinimo tarpininkas gali priimti pasiūlymą pradėti taikinamąjį tarpininkavimą arba tęsti pradėtą taikinamąjį tarpininkavimą tik tuo atveju, jeigu jis informavo ginčo šalis apie jam žinomas aplinkybes, kurios gali kelti abejonių dėl jo nešališkumo, ir jeigu ginčo šalys sutiko, kad jis vykdytų taikinamąjį tarpininkavimą. ^s-61c2f2bc9004143ee8402fe5
@@ -134,7 +134,7 @@ Vilnius
 2. Taikinamojo tarpininkavimo metu ginčo šalių sudaryta taikos sutartis ginčo šalims turi įstatymo galią. ^s-974b336e2351999d6c0abb70
 
 
-3. Kai ginčas, kuris sprendžiamas taikinamojo tarpininkavimo būdu, nėra tuo pačiu metu nagrinėjamas teisme, ginčo šalių bendru prašymu taikos sutartis gali būti pateikta teismui tvirtinti Lietuvos Respublikos civilinio proceso kodekso XXXIX skyriuje nustatyta supaprastinto proceso tvarka. Prašymas dėl taikos sutarties patvirtinimo paduodamas ginčo šalių pasirinkimu vienos iš ginčo šalies gyvenamosios vietos arba buveinės apylinkės teismui. Įsiteisėjusia teismo nutartimi patvirtinta taikos sutartis ginčo šalims įgyja galutinio teismo sprendimo (res judicata) galią ir gali būti vykdoma priverstinai. ^s-283069021a04e70eb83c23f5
+3. Kai ginčas, kuris sprendžiamas taikinamojo tarpininkavimo būdu, nėra tuo pačiu metu nagrinėjamas teisme, ginčo šalių bendru prašymu taikos sutartis gali būti pateikta teismui tvirtinti [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) XXXIX skyriuje nustatyta supaprastinto proceso tvarka. Prašymas dėl taikos sutarties patvirtinimo paduodamas ginčo šalių pasirinkimu vienos iš ginčo šalies gyvenamosios vietos arba buveinės apylinkės teismui. Įsiteisėjusia teismo nutartimi patvirtinta taikos sutartis ginčo šalims įgyja galutinio teismo sprendimo (res judicata) galią ir gali būti vykdoma priverstinai. ^s-283069021a04e70eb83c23f5
 
 
 
@@ -147,7 +147,7 @@ Vilnius
 2. Taikinimo tarpininkas negali vienos ginčo šalies jam patikėtos konfidencialios informacijos atskleisti kitai ginčo šaliai, jeigu nėra informaciją patikėjusios ginčo šalies leidimo. ^s-275d3cba7dcc2cefb951ec8b
 
 
-3. Už šio straipsnio 1 ir [[#^s-275d3cba7dcc2cefb951ec8b|2 dalyse]] nustatytų pareigų neatlikimą ar netinkamą atlikimą taikinimo tarpininkai ir taikinamojo tarpininkavimo paslaugų administratoriai atsako įstatymų nustatyta tvarka. ^s-46e2672d2dc1e9f72d261f98
+3. Už šio straipsnio [[#^s-d3e0f57342f2ece390fb23b1|1]] ir [[#^s-275d3cba7dcc2cefb951ec8b|2]] dalyse nustatytų pareigų neatlikimą ar netinkamą atlikimą taikinimo tarpininkai ir taikinamojo tarpininkavimo paslaugų administratoriai atsako įstatymų nustatyta tvarka. ^s-46e2672d2dc1e9f72d261f98
 
 
 

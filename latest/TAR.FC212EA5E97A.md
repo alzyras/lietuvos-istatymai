@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. 117 straipsnio pakeitimas ^s-fbb44739607a0d0a5d3f792c
 
 
-Pakeisti 117 straipsnyje išdėstytą Lietuvos Respublikos civilinio proceso kodekso 1751 straipsnį ir jį išdėstyti taip:
+Pakeisti 117 straipsnyje išdėstytą [Lietuvos Respublikos civilinio proceso kodekso 1751 straipsnį](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir jį išdėstyti taip:
 
 
 
@@ -95,16 +95,16 @@ Pakeisti ir papildyti 387 straipsnį ir jį išdėstyti taip:
 „387 straipsnis. Įstatymo įsigaliojimas ir taikymas
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2, 3, 4 ir [[#^s-a43ca71d9d2007d491a14737|5 dalyse]] nurodytas išimtis ir 388 straipsnį, įsigalioja 2011 m. spalio 1 d. ^s-46ed77c54927f675699d4efc
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-a17d3a04f8bd572d67a9bebf|2]], [[#^s-4278b4b37b40397cb87135d9|3]], [[#^s-5ec4c8dac96a8ffdde55be25|4]] ir [[#^s-a43ca71d9d2007d491a14737|5]] dalyse nurodytas išimtis ir 388 straipsnį, įsigalioja 2011 m. spalio 1 d. ^s-46ed77c54927f675699d4efc
 
 
 2. Šio įstatymo 331 straipsnio 2 dalis, 334, 336, 337, 338, 339, 340, 342, 343, 344 ir 352 straipsniai įsigalioja 2013 m. sausio 1 d. ^s-a17d3a04f8bd572d67a9bebf
 
 
-3. Šio įstatymo 117 straipsnyje išdėstytas Lietuvos Respublikos civilinio proceso kodekso 1752 straipsnis įsigalioja 2013 m. kovo 1 d. ^s-4278b4b37b40397cb87135d9
+3. Šio įstatymo 117 straipsnyje išdėstytas [Lietuvos Respublikos civilinio proceso kodekso 1752 straipsnis](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigalioja 2013 m. kovo 1 d. ^s-4278b4b37b40397cb87135d9
 
 
-4. Šio įstatymo 117 straipsnyje išdėstyti Lietuvos Respublikos civilinio proceso kodekso XII skyriaus ketvirtojo skirsnio pavadinimas ir 1751 straipsnis, 234, 237, 297 ir 385 straipsniai įsigalioja 2013 m. liepos 1 d. ^s-5ec4c8dac96a8ffdde55be25
+4. Šio įstatymo 117 straipsnyje išdėstyti [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) XII skyriaus ketvirtojo skirsnio pavadinimas ir 1751 straipsnis, [234](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [237](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [297](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir [385](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) straipsniai įsigalioja 2013 m. liepos 1 d. ^s-5ec4c8dac96a8ffdde55be25
 
 
 5. Šio įstatymo 115 straipsnis įsigalioja 2014 m. sausio 1 d. ^s-a43ca71d9d2007d491a14737

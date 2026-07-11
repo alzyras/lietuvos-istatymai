@@ -92,7 +92,7 @@ BENDROSIOS NUOSTATOS
 ### 3 straipsnis. VTEK veiklos teisiniai pagrindai ir principai ^s-225eead23e52207882cee159
 
 
-1. VTEK savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Seimo ir Lietuvos Respublikos Vyriausybės nutarimais, VTEK patvirtintu Vyriausiosios tarnybinės etikos komisijos darbo reglamentu (toliau – Reglamentas) ir kitais teisės aktais. ^s-0aa38e1330a9fd99c2394edb
+1. VTEK savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Seimo ir Lietuvos Respublikos Vyriausybės nutarimais, VTEK patvirtintu Vyriausiosios tarnybinės etikos komisijos darbo reglamentu (toliau – Reglamentas) ir kitais teisės aktais. ^s-0aa38e1330a9fd99c2394edb
 
 
 2. VTEK savo veiklą grindžia pagarbos žmogui ir valstybei, teisėtumo, nešališkumo, politinio neutralumo, nepriklausomumo, kolegialumo, skaidrumo, viešumo ir atskaitomybės principais. ^s-1b45a6f571da76a096af66a3
@@ -165,7 +165,7 @@ Nr. XV-1074, 2026-06-25, paskelbta TAR 2026-07-03, i. k. 2026-11527
 1. VTEK sudaroma iš 5 narių. ^s-c46989b53caa6c840053e119
 
 
-2. Po vieną kandidatą į VTEK narius Seimui teikia Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas, Lietuvos teisininkų draugija ir Nevyriausybinių organizacijų taryba. VTEK nario kandidatūrą teikiantis subjektas privalo ne vėliau kaip prieš 3 mėnesius iki atitinkamo Komisijos nario kadencijos pabaigos pateikti Seimui VTEK nario kandidatūrą. Komisijos nario įgaliojimams nutrūkus šio įstatymo [[#^s-e9bb2e6894c86c77557acd61|14 straipsnio 1 dalies]] 2–9 punktuose nurodytais pagrindais, VTEK nario kandidatūrą teikiantis subjektas naują VTEK nario kandidatūrą privalo pateikti Seimui ne vėliau kaip per vieną mėnesį nuo to Komisijos nario įgaliojimų pabaigos dienos. Jeigu per šioje dalyje nurodytą laiką VTEK nario kandidatūra nepateikta, Seimo Pirmininkas kreipiasi į visus subjektus, turinčius teisę teikti VTEK narių kandidatūras, ir pasiūlo pateikti po kandidatą į VTEK narius. Seimas už pateiktus kandidatus į VTEK narius balsuoja alternatyviai, o nauju VTEK nariu skiriamas daugiausia balsų surinkęs kandidatas. ^s-ee4544886aabc2a992a875f4
+2. Po vieną kandidatą į VTEK narius Seimui teikia Respublikos Prezidentas, Seimo Pirmininkas, Ministras Pirmininkas, Lietuvos teisininkų draugija ir Nevyriausybinių organizacijų taryba. VTEK nario kandidatūrą teikiantis subjektas privalo ne vėliau kaip prieš 3 mėnesius iki atitinkamo Komisijos nario kadencijos pabaigos pateikti Seimui VTEK nario kandidatūrą. Komisijos nario įgaliojimams nutrūkus šio įstatymo [[#^s-e9bb2e6894c86c77557acd61|14 straipsnio 1 dalies]] [[#^s-3cbbcd493b12cf3c94ee8fc7|2]]–[[#^s-e0ca6c8f0d25ac754c2b7f9b|9]] punktuose nurodytais pagrindais, VTEK nario kandidatūrą teikiantis subjektas naują VTEK nario kandidatūrą privalo pateikti Seimui ne vėliau kaip per vieną mėnesį nuo to Komisijos nario įgaliojimų pabaigos dienos. Jeigu per šioje dalyje nurodytą laiką VTEK nario kandidatūra nepateikta, Seimo Pirmininkas kreipiasi į visus subjektus, turinčius teisę teikti VTEK narių kandidatūras, ir pasiūlo pateikti po kandidatą į VTEK narius. Seimas už pateiktus kandidatus į VTEK narius balsuoja alternatyviai, o nauju VTEK nariu skiriamas daugiausia balsų surinkęs kandidatas. ^s-ee4544886aabc2a992a875f4
 Straipsnio dalies pakeitimai:
 Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
 
@@ -377,7 +377,7 @@ Nr. XIV-2169, 2023-09-19, paskelbta TAR 2023-09-21, i. k. 2023-18496
 2. VTEK nariui, kurio kadencija pasibaigia (jeigu jis nepaskiriamas antrai kadencijai) arba įgaliojimai nutrūksta šio įstatymo [[#^s-a24552f76ee638a57876b7b1|14 straipsnio 1 dalies 3 punkte]] nustatytu pagrindu, išmokama trijų mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. VTEK nariui mirus jo šeimos nariams (sutuoktiniui, partneriui, sugyventiniui, jeigu jis nurodytas VTEK nario privačių interesų deklaracijoje, nepilnamečiams vaikams (įvaikiams), iki jiems sukaks 18 metų, taip pat vaikams (įvaikiams), jeigu jie mokosi pagal bendrojo ugdymo programą, pagal formaliojo profesinio mokymo programą pirmajai kvalifikacijai įgyti ar studijuoja aukštojoje mokykloje pagal nuolatinės studijų formos programą (įskaitant ir akademinių atostogų laikotarpį), iki jiems sukaks 24 metai, mirusiojo vaikams (įvaikiams), vyresniems kaip 18 metų, jeigu jie yra asmenys su negalia (iki 2023 m. gruodžio 31 d. pripažinti neįgaliaisiais ar iki 2005 m. liepos 1 d. – invalidais) iki 18 metų, mirusiojo vaikams, gimusiems po jo mirties, tėvui (įtėviui), motinai (įmotei)) išmokama lygiomis dalimis VTEK nario trijų mėnesių vidutinio darbo užmokesčio dydžio kompensacija. ^s-d03aa170e604439bc433d213
 
 
-3. VTEK narys turi teisę [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymo]] nustatyta tvarka atkurti valstybės tarnautojo statusą, išskyrus atvejus, kai VTEK nario įgaliojimai nutrūksta šio įstatymo [[#^s-e9bb2e6894c86c77557acd61|14 straipsnio 1 dalies]] 5–8 punktuose nustatytais pagrindais. ^s-d4de750b4e0dd33322ba5ae1
+3. VTEK narys turi teisę [[latest/TAR.D3ED3792F52B#^s-1e82f4c55eb0b556e23f3b6e|Lietuvos Respublikos valstybės tarnybos įstatymo nustatyta tvarka atkurti valstybės tarnautojo statusą, išskyrus atvejus, kai VTEK nario įgaliojimai nutrūksta šio įstatymo 14 straipsnio 1 dalies]] [[latest/TAR.D3ED3792F52B|5]]–[[latest/TAR.D3ED3792F52B|8]] punktuose nustatytais pagrindais. ^s-d4de750b4e0dd33322ba5ae1
 
 
 Straipsnio pakeitimai:
@@ -399,7 +399,7 @@ VTEK ĮGALIOJIMAI IR VTEK POSĖDŽIAI
 2. VTEK posėdžius šaukia, jiems pirmininkauja ir VTEK sprendimus pasirašo VTEK pirmininkas arba šias pareigas einantis VTEK narys. VTEK posėdis gali būti sušauktas ir ne mažiau kaip 3 VTEK narių iniciatyva. ^s-1248b7b4e75d0d6524ddc25a
 
 
-3. VTEK posėdžiai teisėti, kai juose dalyvauja ne mažiau kaip 3 VTEK nariai. Posėdyje prieš priimdami sprendimą VTEK nariai turi teisę pasitarti dėl sprendimo priėmimo ir (arba) dėl sprendimo priėmimo ir paskelbimo atidėjimo. Pasitarimo ir sprendimo priėmimo metu posėdžių salėje gali būti VTEK nariai ir sekretoriato darbuotojai. Komisija sprendimą priima VTEK narių balsų dauguma atviru vardiniu balsavimu. Balsuoti dėl sprendimo turi ne mažiau negu 3 VTEK nariai. Balsuojant susilaikyti negalima. Balsams pasidalijus po lygiai, lemia posėdžio pirmininko balsas. VTEK narys, turintis kitą nuomonę dėl VTEK priimto sprendimo, turi teisę ne vėliau kaip per 5 darbo dienas po VTEK sprendimo paskelbimo raštu išdėstyti motyvuotą atskirąją nuomonę. ^s-494450a5cb04578e2d082185
+3. VTEK posėdžiai teisėti, kai juose dalyvauja ne mažiau kaip 3 VTEK nariai. Posėdyje prieš priimdami sprendimą VTEK nariai turi teisę pasitarti [dėl sprendimo priėmimo](https://e-tar.lt/portal/lt/legalAct/8ed63190bdd311e688d0ed775a2e782a) ir (arba) [dėl sprendimo priėmimo](https://e-tar.lt/portal/lt/legalAct/8ed63190bdd311e688d0ed775a2e782a) ir paskelbimo atidėjimo. Pasitarimo ir sprendimo priėmimo metu posėdžių salėje gali būti VTEK nariai ir sekretoriato darbuotojai. Komisija sprendimą priima VTEK narių balsų dauguma atviru vardiniu balsavimu. Balsuoti dėl sprendimo turi ne mažiau negu 3 VTEK nariai. Balsuojant susilaikyti negalima. Balsams pasidalijus po lygiai, lemia posėdžio pirmininko balsas. VTEK narys, turintis kitą nuomonę dėl VTEK priimto sprendimo, turi teisę ne vėliau kaip per 5 darbo dienas po VTEK sprendimo paskelbimo raštu išdėstyti motyvuotą atskirąją nuomonę. ^s-494450a5cb04578e2d082185
 
 
 4. Motyvuotu VTEK sprendimu VTEK posėdis gali būti uždaras – žmogaus asmeninio ar šeiminio gyvenimo slaptumui apsaugoti, taip pat kai viešai nagrinėjant klausimą gali būti atskleista valstybės, tarnybos ar kita įstatymų saugoma paslaptis ar konfidenciali informacija. ^s-65a8b640890e981db4580d1d
@@ -530,7 +530,7 @@ Nr. XV-365, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12026
 7) perduoti turimą medžiagą ikiteisminio tyrimo įstaigai ar prokurorui, kai nustatoma nusikalstamos veikos požymių, arba siūlyti prokurorui įstatymų nustatyta tvarka kreiptis į teismą dėl viešojo intereso gynimo; ^s-63490205b0bba06bf826fd40
 
 
-8) pareikšti ieškinius (teikti prašymus) teismui dėl valstybės tarnybos santykių, darbo sutarčių ir sandorių nutraukimo ar pripažinimo negaliojančiais, kai šios dalies 5 ir [[#^s-ae8eab915d7f843ae6206c56|6 punktuose]] nurodytais atvejais VTEK siūlymai nevykdomi; ^s-c79c53e43f1aa688477da11d
+8) pareikšti ieškinius (teikti prašymus) teismui dėl valstybės tarnybos santykių, darbo sutarčių ir sandorių nutraukimo ar pripažinimo negaliojančiais, kai šios dalies [[#^s-ccd75e9930a795f781a2281d|5]] ir [[#^s-ae8eab915d7f843ae6206c56|6]] punktuose nurodytais atvejais VTEK siūlymai nevykdomi; ^s-c79c53e43f1aa688477da11d
 
 
 9) netirdama VTEK kompetencijai nepriskirto skundo iš esmės, teikti institucijoms ir įstaigoms bei asmenims siūlymus ar pastabas dėl tarnybinės etikos ar elgesio normų laikymosi; ^s-d2bdbc8120c1aeb830cdc96e
@@ -598,13 +598,13 @@ Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
 1. Pranešimai ir prašymai VTEK gali būti teikiami raštu arba elektroninių ryšių priemonėmis. Atsakymai į pranešimus ir prašymus bei su jų nagrinėjimu susijusi informacija laikantis šio įstatymo nustatytų terminų teikiama asmenims pranešime ar prašyme nurodytu elektroninio pašto adresu arba asmens pageidavimu siunčiami paštu jo nurodytu adresu. ^s-cef1b87ccd27880baea6108c
 
 
-2. Asmenų kreipimaisi, kuriais ne pranešama apie galimus pažeidimus, o prašoma priimti sprendimą dėl [[latest/TAR.C0E550D6ADF0#^s-88ad9cc0978bd7fae067430e|Viešųjų ir privačių interesų derinimo įstatymo 15–17 straipsniuose]] nustatytų apribojimų taikymo išimčių, pateikti VTEK nuomonę, rašytinę išankstinę rekomendaciją, suteikti konsultaciją, kitą informaciją ar pageidaujamus dokumentus, laikomi prašymais. ^s-ade33aa5901e774a0f2be9cb
+2. Asmenų kreipimaisi, kuriais ne pranešama apie galimus pažeidimus, o prašoma priimti sprendimą dėl [[latest/TAR.C0E550D6ADF0|Viešųjų ir privačių interesų derinimo įstatymo]] [[latest/TAR.C0E550D6ADF0#^s-592972d374d34cbcf79c1d98|15]]–[[latest/TAR.C0E550D6ADF0#^s-88ad9cc0978bd7fae067430e|17]] straipsniuose nustatytų apribojimų taikymo išimčių, pateikti VTEK nuomonę, rašytinę išankstinę rekomendaciją, suteikti konsultaciją, kitą informaciją ar pageidaujamus dokumentus, laikomi prašymais. ^s-ade33aa5901e774a0f2be9cb
 
 
 3. Prašymai pateikti VTEK nuomonę, suteikti konsultaciją, kitą informaciją ar pageidaujamus dokumentus turi būti išnagrinėti ir juos pateikusiems asmenims turi būti atsakyta ne vėliau kaip per 20 darbo dienų nuo tokio prašymo gavimo VTEK dienos. ^s-94bcddcfe45a8ac7a9b1226d
 
 
-4. Prašymai priimti sprendimą dėl [[latest/TAR.C0E550D6ADF0#^s-88ad9cc0978bd7fae067430e|Viešųjų ir privačių interesų derinimo įstatymo 15–17 straipsniuose]] nustatytų apribojimų taikymo išimčių, pateikti VTEK rašytinę išankstinę rekomendaciją turi būti išnagrinėti ir sprendimai dėl jų priimti per du mėnesius nuo tokio prašymo (arba patikslinto prašymo) gavimo Komisijoje dienos. ^s-bb25ecfee78065e93c0189ed
+4. Prašymai priimti sprendimą dėl [[latest/TAR.C0E550D6ADF0|Viešųjų ir privačių interesų derinimo įstatymo]] [[latest/TAR.C0E550D6ADF0#^s-592972d374d34cbcf79c1d98|15]]–[[latest/TAR.C0E550D6ADF0#^s-88ad9cc0978bd7fae067430e|17]] straipsniuose nustatytų apribojimų taikymo išimčių, pateikti VTEK rašytinę išankstinę rekomendaciją turi būti išnagrinėti ir sprendimai dėl jų priimti per du mėnesius nuo tokio prašymo (arba patikslinto prašymo) gavimo Komisijoje dienos. ^s-bb25ecfee78065e93c0189ed
 
 
 Straipsnio pakeitimai:
@@ -665,7 +665,7 @@ Pranešimams pateikti ar tyrimui savo iniciatyva pradėti nustatomas 3 metų ter
 3) pranešimas tuo pačiu klausimu VTEK buvo ištirtas; ^s-fd4fe0a59a1518b3cbe1db56
 
 
-4) pranešime nenurodyti šio įstatymo [[#^s-0124bfd51300d7a87b813b77|21 straipsnio 1 dalies]] 3 ir 4 punktuose numatyti ar kiti duomenys, be kurių neįmanoma pradėti tyrimo; ^s-8207ef9574e8b47aa5df2f51
+4) pranešime nenurodyti šio įstatymo [[#^s-0124bfd51300d7a87b813b77|21 straipsnio 1 dalies]] [[#^s-0a4d2516ddf55cf6cff61c99|3]] ir [[#^s-8e04c33f8eea4af1964975e0|4]] punktuose numatyti ar kiti duomenys, be kurių neįmanoma pradėti tyrimo; ^s-8207ef9574e8b47aa5df2f51
 
 
 5) pranešime nurodytas asmuo nėra VTEK priežiūros srities subjektas; ^s-58b9031d6f5b56f2273ff8a7
@@ -674,7 +674,7 @@ Pranešimams pateikti ar tyrimui savo iniciatyva pradėti nustatomas 3 metų ter
 6) pranešimo tekstas yra neįskaitomas; ^s-f62760d513e4f14831edc17d
 
 
-7) iki pranešimo VTEK gavimo dienos arba VTEK raginime nustatyto termino skundžiamas asmuo pateikė privačių interesų deklaraciją arba ją patikslino pranešime apie galimą pažeidimą nurodytais duomenimis ir iš pranešime pateiktos ar VTEK papildomai atlikus šio įstatymo [[#^s-498e241ef572220132328b5c|25 straipsnio 5 dalies]] 1 ir [[#^s-e0eb96a96175d06fba1c2a3c|2 punktuose]] nurodytus veiksmus surinktos informacijos VTEK nenustatė pagrindo pradėti tyrimą dėl galimo interesų konflikto; ^s-fa24353fd5dcf2bac3054fd9
+7) iki pranešimo VTEK gavimo dienos arba VTEK raginime nustatyto termino skundžiamas asmuo pateikė privačių interesų deklaraciją arba ją patikslino pranešime apie galimą pažeidimą nurodytais duomenimis ir iš pranešime pateiktos ar VTEK papildomai atlikus šio įstatymo [[#^s-498e241ef572220132328b5c|25 straipsnio 5 dalies]] [[#^s-6e2df083976004c7f973b386|1]] ir [[#^s-4bea3a88f213469dceb6e18c|2]] punktuose nurodytus veiksmus surinktos informacijos VTEK nenustatė pagrindo pradėti tyrimą dėl galimo interesų konflikto; ^s-fa24353fd5dcf2bac3054fd9
 
 
 8) VTEK nusprendžia perduoti gautą pranešimą ištirti ir sprendimą dėl jo priimti institucijos ar įstaigos, kurioje skundžiamas asmuo dirba, vadovui, o jei tai pranešimas dėl įstaigos vadovo, – šį vadovą į pareigas priimančiam ar skiriančiam subjektui arba kolegialiai valstybės ar savivaldybių institucijai; ^s-07a389c1bcfaf03b3eb42bf1
@@ -986,7 +986,7 @@ Nr. XV-365, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12026
 7) nutraukti tyrimą. ^s-9d987e241abb8aab9dd7a0cb
 
 
-2. VTEK, priėmusi vieną iš [[#^s-a5f2588fde7c4fa8b2bb1b50|šio straipsnio 1 dalyje]] nurodytų sprendimų, gali pateikti asmeniui rekomendaciją ar nurodymą. Priėmusi sprendimą, kad asmuo pažeidė teisės aktų nuostatas, VTEK institucijos ar įstaigos, kurioje šis asmuo dirba, vadovui, o kai pažeidusiu teisės aktų nuostatas pripažintas įstaigos vadovas, šį vadovą į pareigas priimančiam ar skiriančiam subjektui arba kolegialiai valstybės ar savivaldybių institucijai pateikia vieną iš šio įstatymo [[#^s-1227a25b510739355e9bf417|18 straipsnio 1 dalies]] 5 ir 6 punktuose numatytų siūlymų. ^s-cdd68673a8553e30c413073a
+2. VTEK, priėmusi vieną iš [[#^s-a5f2588fde7c4fa8b2bb1b50|šio straipsnio 1 dalyje]] nurodytų sprendimų, gali pateikti asmeniui rekomendaciją ar nurodymą. Priėmusi sprendimą, kad asmuo pažeidė teisės aktų nuostatas, VTEK institucijos ar įstaigos, kurioje šis asmuo dirba, vadovui, o kai pažeidusiu teisės aktų nuostatas pripažintas įstaigos vadovas, šį vadovą į pareigas priimančiam ar skiriančiam subjektui arba kolegialiai valstybės ar savivaldybių institucijai pateikia vieną iš šio įstatymo [[#^s-1227a25b510739355e9bf417|18 straipsnio 1 dalies]] [[#^s-ccd75e9930a795f781a2281d|5]] ir [[#^s-ae8eab915d7f843ae6206c56|6]] punktuose numatytų siūlymų. ^s-cdd68673a8553e30c413073a
 
 
 3. VTEK sprendime nurodomas tyrimo pagrindas ir dalykas, tyrimo metu nustatytos faktinės aplinkybės, asmens paaiškinimas ir asmens veikos teisinis įvertinimas. ^s-4947de219427bb79e8843667
@@ -1023,7 +1023,7 @@ Nr. XV-365, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12026
 1. Šio įstatymo [[#^s-a5f2588fde7c4fa8b2bb1b50|30 straipsnio 1 dalyje]] nurodyti VTEK sprendimai per 5 darbo dienas nuo priėmimo dienos išsiunčiami asmenims, dėl kurių veikos buvo atliktas tyrimas, ir institucijos ar įstaigos, kurioje asmuo dirba, vadovui, o kai sprendimas priimtas dėl įstaigos vadovo, – šį vadovą į pareigas priimančiam ar skiriančiam subjektui arba kolegialiai valstybės ar savivaldybių institucijai. ^s-d030b5fbf8acf3e01628a61d
 
 
-2. Šio įstatymo [[#^s-a5f2588fde7c4fa8b2bb1b50|30 straipsnio 1 dalies]] 1–5 ir 7 punktuose nurodyti VTEK sprendimai, VTEK narių vardinio balsavimo rezultatai ir atskirosios nuomonės pažeidimų prevencijos tikslais vienus metus, o šiurkštaus [[latest/TAR.C0E550D6ADF0|Viešųjų ir privačių interesų derinimo įstatymo]] nuostatų pažeidimo atveju – trejus metus po sprendimo priėmimo viešai skelbiami VTEK interneto svetainėje, nepateikiant šių duomenų: ^s-876479eec3986a45514daaa9
+2. Šio įstatymo [[#^s-a5f2588fde7c4fa8b2bb1b50|30 straipsnio 1 dalies]] [[#^s-8179dd3130a1291fe3e5ed81|1]]–[[#^s-afe5bb045c0f2b2a80f0e4fe|5]] ir [[#^s-9d987e241abb8aab9dd7a0cb|7]] punktuose nurodyti VTEK sprendimai, VTEK narių vardinio balsavimo rezultatai ir atskirosios nuomonės pažeidimų prevencijos tikslais vienus metus, o šiurkštaus [[latest/TAR.C0E550D6ADF0|Viešųjų ir privačių interesų derinimo įstatymo]] nuostatų pažeidimo atveju – trejus metus po sprendimo priėmimo viešai skelbiami VTEK interneto svetainėje, nepateikiant šių duomenų: ^s-876479eec3986a45514daaa9
 
 
 1) asmenų, dėl kurių priimtas sprendimas, ir kitų fizinių asmenų asmens kodų, gyvenamosios vietos adresų, gimimo, santuokos, ištuokos ir mirties datų bei vietos, duomenų apie asmens tapatybę patvirtinantį dokumentą, telefono numerių, elektroninio pašto adresų ir kitų kontaktinių duomenų, privačių transporto priemonių valstybinių numerių, banko ar kitų kredito įstaigų privačių sąskaitų numerių, unikalių nekilnojamojo ar kito registruotino turto numerių, tikslių šio turto buvimo vietos adresų. Be to, neskelbiami kitų fizinių asmenų vardai ir pavardės; ^s-ecf825eecf7cf6b5d52bc638
@@ -1093,7 +1093,7 @@ Nr. XI-2357, 2012-11-06, Žin., 2012, Nr. 132-6685 (2012-11-15), i. k. [[latest/
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-785, 2014-03-13, paskelbta TAR 2014-03-19, i. k. 2014-03216
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 2, 3, 5, 6, 9, 11, 13, 14, 15, 16, 17, 18, 23, 28 ir [[#^s-2af4d8407f6c6955655854e3|29 straipsnių]] pakeitimo
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 [[#^s-dffbc9b6e2e36624b8c97317|2]], [[#^s-225eead23e52207882cee159|3]], [[#^s-ffe2fce18f1ae69cf927074c|5]], [[#^s-b59a79ccedcb192c01a4d7c4|6]], [[#^s-de89ae676658619f0e866611|9]], [[#^s-c3442b172a9a162b31dfa118|11]], [[#^s-881709bd9747574e5942fc96|13]], [[#^s-90aac0c1cdf0b59b4818b521|14]], [[#^s-13c2f34124b33809b8a32800|15]], [[#^s-4216ae2d3d13be8782f3a8c0|16]], [[#^s-d34eb5b21c458d9613053e1f|17]], [[#^s-b94b7f105ddcb5eaeb239d83|18]], [[#^s-d2f9ec079c445b9328a874bd|23]], [[#^s-4b6d723cb2c028f505ab581c|28]] ir [[#^s-2af4d8407f6c6955655854e3|29]] straipsnių pakeitimo
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1108,7 +1108,7 @@ Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-385, 2017-05-25, paskelbta TAR 2017-05-31, i. k. 2017-09281
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 6 ir 16-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 [[#^s-b59a79ccedcb192c01a4d7c4|6]] ir 16-1 straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1133,7 +1133,7 @@ Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3188, 2020-06-26, paskelbta TAR 2020-07-10, i. k. 2020-15511
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 4, 7, 17, 24, [[#^s-57ef5464d785c34fac93959b|31 straipsnių]], ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 [[#^s-f3c27a46eee8a6e9e6c40c94|4]], [[#^s-88cb250d0e53a23c8641847b|7]], [[#^s-d34eb5b21c458d9613053e1f|17]], [[#^s-46a50a00fbf65be747f09437|24]], [[#^s-57ef5464d785c34fac93959b|31]] straipsnių, ketvirtojo skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 24-1 straipsniu įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1143,17 +1143,17 @@ Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2169, 2023-09-19, paskelbta TAR 2023-09-21, i. k. 2023-18496
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 5, 6, 12, 13, 15, 16, 18, 20, 23, 24-1 ir [[#^s-24e081f5b4553372b93a044d|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 [[#^s-ffe2fce18f1ae69cf927074c|5]], [[#^s-b59a79ccedcb192c01a4d7c4|6]], [[#^s-3f6278983d57af5b2d79060d|12]], [[#^s-881709bd9747574e5942fc96|13]], [[#^s-13c2f34124b33809b8a32800|15]], [[#^s-4216ae2d3d13be8782f3a8c0|16]], [[#^s-b94b7f105ddcb5eaeb239d83|18]], [[#^s-23a214c97c8bdb2a4e130f0d|20]], [[#^s-d2f9ec079c445b9328a874bd|23]], 24-1 ir [[#^s-24e081f5b4553372b93a044d|25]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1610, 2022-11-24, paskelbta TAR 2022-12-09, i. k. 2022-25190
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 27 ir [[#^s-d5c300b3bcfbe355a2e5b18e|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 [[#^s-722d476e4ab93a37d36ddaf3|27]] ir [[#^s-d5c300b3bcfbe355a2e5b18e|32]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-365, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12026
-Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 18 ir [[#^s-2af4d8407f6c6955655854e3|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymo Nr. X-1666 [[#^s-b94b7f105ddcb5eaeb239d83|18]] ir [[#^s-2af4d8407f6c6955655854e3|29]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas

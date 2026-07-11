@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-8ace889db97be166f9102996
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir 2 dalimi, atsižvelgdamas į Respublikos Prezidento 2010 m. sausio 19 d. dekretą Nr. 1K-269, ratifikuoja 2009 m. rugsėjo 16 d. Vilniuje pasirašytą Lietuvos Respublikos ir Baltarusijos Respublikos sutartį dėl Lietuvos ir Baltarusijos valstybės sienos teisinio režimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi, [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] ir 2 dalimi, atsižvelgdamas į Respublikos Prezidento [2010 m. sausio 19 d. dekretą Nr. 1K-269](https://e-tar.lt/portal/lt/legalAct/TAR.7325CDD4557D), ratifikuoja 2009 m. rugsėjo 16 d. Vilniuje pasirašytą Lietuvos Respublikos ir Baltarusijos Respublikos sutartį dėl Lietuvos ir Baltarusijos valstybės sienos teisinio režimo.
 
 
 

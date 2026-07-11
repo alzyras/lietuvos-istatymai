@@ -44,7 +44,7 @@ Vilnius
 ### 2 straipsnis. Bendrovių įstatų perregistravimas ^s-a42ae1273405ba2c025f6ac8
 
 
-Akcinės bendrovės ir uždarosios akcinės bendrovės privalo pataisyti savo įstatus pagal įstatymą [[latest/TAR.9DDDE14B8610|„Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo“]] ir iki 1997 m. balandžio 1 d. įregistruoti juos Įmonių rejestro įstatymo nustatyta tvarka.
+Akcinės bendrovės ir uždarosios akcinės bendrovės privalo pataisyti savo įstatus pagal įstatymą [[latest/TAR.9DDDE14B8610|„Dėl Lietuvos Respublikos akcinių bendrovių įstatymo pakeitimo ir papildymo“]] ir iki 1997 m. balandžio 1 d. įregistruoti juos [Įmonių rejestro įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.4DB025875E14) nustatyta tvarka.
 
 
 

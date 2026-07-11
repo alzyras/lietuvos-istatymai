@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos teatrų ir koncertinių įstaigų įstatymo 4
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 3 citatos - Lietuvos Respublikos administracinių bylų teisenos įstatymo
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Lietuvos Respublikos administracinių bylų teisenos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.3E147F656BC4#^s-12a76f3d2409f24e4a62c5c5|Lietuvos Respublikos profesionaliojo scenos meno įstatymas]] - 3 citatos - 1121010ISTA0XI-2388
-- [[latest/TAR.3E147F656BC4#^s-3274062952e2a70ccee7038b|Lietuvos Respublikos profesionaliojo scenos meno įstatymas]] - 3 citatos - 1121010ISTA0XI-2388
+- [[latest/TAR.3E147F656BC4#^s-3274062952e2a70ccee7038b|Lietuvos Respublikos profesionaliojo scenos meno įstatymas]] - 2 citatos - 1121010ISTA0XI-2388

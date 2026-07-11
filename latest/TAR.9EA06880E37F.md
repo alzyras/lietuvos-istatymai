@@ -116,7 +116,7 @@ Papildyti 41 straipsnį 2 dalimi ir visą straipsnį išdėstyti taip:
 1. Įstatymų nustatyta tvarka valstybės ir savivaldybių turtas gali būti perduodamas LŠS valdyti ir naudotis turto patikėjimo teise ar panaudos pagrindais. ^s-42a058535b1bf25533bc711d
 
 
-2. Šio įstatymo 13 straipsnio 1 dalies 6 punkte ir [[#^s-e744024d19765a564ba692b1|2 dalyje]] nustatytais atvejais sprendimą perduoti turtą LŠS valdyti ir naudoti patikėjimo teise pagal turto patikėjimo sutartį priima kariuomenės vadas, suderinęs su krašto apsaugos ministru.“ ^s-e744024d19765a564ba692b1
+2. Šio įstatymo 13 straipsnio 1 dalies 6 punkte ir 2 dalyje nustatytais atvejais sprendimą perduoti turtą LŠS valdyti ir naudoti patikėjimo teise pagal turto patikėjimo sutartį priima kariuomenės vadas, suderinęs su krašto apsaugos ministru.“ ^s-e744024d19765a564ba692b1
 
 
 

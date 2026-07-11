@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-41231ace3e1cd538a4464aed
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-cc673decff3daac098d5c652|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 2 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2001 m. sausio 24 d. dekretą Nr. 1195, ratifikuoja Lietuvos Respublikos Vyriausybės ir Čekijos Respublikos Vyriausybės sutartį dėl įslaptintos informacijos abipusės apsaugos, pasirašytą 2000 m. rugsėjo 19 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-cc673decff3daac098d5c652|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 2 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2001 m. sausio 24 d. dekretą Nr. 1195](https://e-tar.lt/portal/lt/legalAct/TAR.304663449A9C), ratifikuoja Lietuvos Respublikos Vyriausybės ir Čekijos Respublikos Vyriausybės sutartį dėl įslaptintos informacijos abipusės apsaugos, pasirašytą 2000 m. rugsėjo 19 d. Vilniuje.
 
 
 

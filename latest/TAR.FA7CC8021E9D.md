@@ -173,7 +173,7 @@ Nr. XII-1423, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20560
 4) asmenys, gimę kalėjimuose, koncentracijos stovyklose ar kitose įkalinimo vietose, jeigu bent vienas iš tėvų tuo metu buvo politinis kalinys ar jam prilygintas asmuo. ^s-1c602fefaec859ad73242af3
 
 
-3. Šio straipsnio 1 ir [[#^s-fb0ff8f1e59cbfc5f233875a|2 dalyse]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – politinio kalinio teisinis statusas. ^s-c3827b872bc252f803fc00b9
+3. Šio straipsnio [[#^s-c8967180379725d301129cf1|1]] ir [[#^s-fb0ff8f1e59cbfc5f233875a|2]] dalyse išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – politinio kalinio teisinis statusas. ^s-c3827b872bc252f803fc00b9
 
 
 
@@ -244,7 +244,7 @@ Nr. XIV-2032, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11849
 
 
 
-4. Šio straipsnio 1 ir [[#^s-1f78f44d97e3e9319cba674e|2 dalyse]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – tremtinio teisinis statusas. ^s-0b6a1892ac473346b27eaa67
+4. Šio straipsnio [[#^s-ef125d0618207a7df7bbd625|1]] ir [[#^s-1f78f44d97e3e9319cba674e|2]] dalyse išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – tremtinio teisinis statusas. ^s-0b6a1892ac473346b27eaa67
 
 
 
@@ -263,7 +263,7 @@ Nr. XIV-2032, 2023-06-01, paskelbta TAR 2023-06-14, i. k. 2023-11849
 2. Perkeltiesiems prilygintais asmenimis pripažįstami pagal Sovietų Sąjungos ir nacistinės Vokietijos 1941 m. sausio 10 d. susitarimą dėl gyventojų mainų atkeltiems į Lietuvą asmenims 1941 m. sausio 10 d. – 1945 m. gegužės 8 d. gimę vaikai. ^s-edd4a7a341af653ba0dbcaee
 
 
-3. Šio straipsnio 1 ir [[#^s-edd4a7a341af653ba0dbcaee|2 dalyse]] išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – perkeltojo teisinis statusas. ^s-6bb4a728d1d292da4ee7276e
+3. Šio straipsnio [[#^s-ed1cd356c4803deb33b6c968|1]] ir [[#^s-edd4a7a341af653ba0dbcaee|2]] dalyse išvardytiems asmenims pripažįstamas nuo okupacijų nukentėjusio asmens – perkeltojo teisinis statusas. ^s-6bb4a728d1d292da4ee7276e
 
 
 Straipsnio pakeitimai:
@@ -520,7 +520,7 @@ Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, t
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1423, 2014-12-11, paskelbta TAR 2014-12-23, i. k. 2014-20560
-Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 3, [[#^s-1ab1000d18b4bca507b1fb4d|7 straipsnių]] pakeitimo ir Įstatymo papildymo 7-2 straipsniu įstatymas
+Lietuvos Respublikos asmenų, nukentėjusių nuo 1939–1990 metų okupacijų, teisinio statuso įstatymo Nr. VIII-342 [[#^s-6642c3fd137390d8c8a189f7|3]], [[#^s-1ab1000d18b4bca507b1fb4d|7]] straipsnių pakeitimo ir Įstatymo papildymo 7-2 straipsniu įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas

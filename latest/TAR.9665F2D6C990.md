@@ -61,7 +61,7 @@ Vilnius
 4. Papildyti 6 straipsnį 8 dalimi: ^s-d8ab2844740fc1c66fcf0a65
 
 
-„8. Nuo 2009 m. kovo 1 d. iki 2010 m. gruodžio 31 d. šio straipsnio 3 ir [[#^s-d8ab2844740fc1c66fcf0a65|4 dalyse]] nurodyta išmoka vaikui skiriama, jei vidutinės pajamos, nustatytos Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo 15 straipsnyje, vienam šeimos nariui per mėnesį yra mažesnės kaip 3 valstybės remiamų pajamų dydžiai.“
+„8. Nuo 2009 m. kovo 1 d. iki 2010 m. gruodžio 31 d. šio straipsnio [[#^s-89b2c6d68a124e7562e2ee89|3]] ir 4 dalyse nurodyta išmoka vaikui skiriama, jei vidutinės pajamos, nustatytos Lietuvos Respublikos piniginės socialinės paramos nepasiturinčioms šeimoms ir vieniems gyvenantiems asmenims įstatymo 15 straipsnyje, vienam šeimos nariui per mėnesį yra mažesnės kaip 3 valstybės remiamų pajamų dydžiai.“
 
 
 
@@ -133,13 +133,13 @@ Pakeisti 20 straipsnio 3 dalį ir ją išdėstyti taip:
 ### 7 straipsnis. Baigiamosios nuostatos ^s-3fec706d5b01d9d54d5e6c81
 
 
-1. Šis įstatymas, išskyrus Įstatymo [[#^s-f1312f1c440acb432c24cbcf|1 straipsnio]] 1 ir [[#^s-2087218f2f314fdf49001d16|2 dalis]], [[#^s-7e1e178b5ecf5e08d2eee73c|3 straipsnio]] 3 ir 4 dalis, 4, 5 ir [[#^s-f123d221f29d8f1f5df82734|6 straipsnį]], įsigalioja 2009 m. sausio 1 d. ^s-07bfbd254d04a9552cb2fc7e
+1. Šis įstatymas, išskyrus Įstatymo [[#^s-f1312f1c440acb432c24cbcf|1 straipsnio]] [[#^s-960d7eff3d51c63c0f823889|1]] ir [[#^s-92ac24761f4ef0aabde6e45f|2]] dalis, [[#^s-7e1e178b5ecf5e08d2eee73c|3 straipsnio]] [[#^s-16cd37fd02075c964c300471|3]] ir [[#^s-6e020f4064566b395c16353a|4]] dalis, [[#^s-9aedf41eeb995a81cbe06d08|4]], [[#^s-9bea2df2b31e079aa2a131d1|5]] ir [[#^s-f123d221f29d8f1f5df82734|6]] straipsnį, įsigalioja 2009 m. sausio 1 d. ^s-07bfbd254d04a9552cb2fc7e
 
 
-2. Šio įstatymo [[#^s-f1312f1c440acb432c24cbcf|1 straipsnio]] 1 ir [[#^s-2087218f2f314fdf49001d16|2 dalys]], [[#^s-7e1e178b5ecf5e08d2eee73c|3 straipsnio]] 3 ir 4 dalys, 4, 5 ir [[#^s-f123d221f29d8f1f5df82734|6 straipsniai]] įsigalioja 2009 m. kovo 1 d. ^s-2087218f2f314fdf49001d16
+2. Šio įstatymo [[#^s-f1312f1c440acb432c24cbcf|1 straipsnio]] [[#^s-960d7eff3d51c63c0f823889|1]] ir [[#^s-92ac24761f4ef0aabde6e45f|2]] dalys, [[#^s-7e1e178b5ecf5e08d2eee73c|3 straipsnio]] [[#^s-16cd37fd02075c964c300471|3]] ir [[#^s-6e020f4064566b395c16353a|4]] dalys, [[#^s-9aedf41eeb995a81cbe06d08|4]], [[#^s-9bea2df2b31e079aa2a131d1|5]] ir [[#^s-f123d221f29d8f1f5df82734|6]] straipsniai įsigalioja 2009 m. kovo 1 d. ^s-2087218f2f314fdf49001d16
 
 
-3. Šio įstatymo [[#^s-7e1e178b5ecf5e08d2eee73c|3 straipsnio]] 3 ir 4 dalis pripažinti netekusiomis galios nuo 2010 m. gruodžio 31 d. ^s-65e07777ef0e84b107831859
+3. Šio įstatymo [[#^s-7e1e178b5ecf5e08d2eee73c|3 straipsnio]] [[#^s-16cd37fd02075c964c300471|3]] ir [[#^s-6e020f4064566b395c16353a|4]] dalis pripažinti netekusiomis galios nuo 2010 m. gruodžio 31 d. ^s-65e07777ef0e84b107831859
 
 
 

@@ -72,7 +72,7 @@ Pakeisti 51 straipsnį ir jį išdėstyti taip:
 2. Papildyti 24 straipsnį nauja [[#^s-5bd1b58107e775ea9a69d4dc|3 dalimi]]: ^s-02aaea10aeeb95557287fb80
 
 
-„3. Jei nacionalinė kolektyvinė sutartis nėra sudaryta arba pakeista iki einamųjų metų birželio 1 d., tai ateinančių finansinių metų bazinį dydį Vyriausybės teikimu, atsižvelgiant į [[#^s-02aaea10aeeb95557287fb80|šio straipsnio 2 dalyje]] numatytas aplinkybes, tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį.“
+„3. Jei nacionalinė kolektyvinė sutartis nėra sudaryta arba pakeista iki einamųjų metų birželio 1 d., tai ateinančių finansinių metų bazinį dydį Vyriausybės teikimu, atsižvelgiant į šio straipsnio 2 dalyje numatytas aplinkybes, tvirtina Seimas iki Seimo pavasario sesijos pabaigos. Tvirtinamas naujas bazinis dydis negali būti mažesnis už esamą bazinį dydį.“
 
 
 3. Buvusias 24 straipsnio 3 ir 4 dalis laikyti atitinkamai 4 ir 5 dalimis. ^s-5bd1b58107e775ea9a69d4dc

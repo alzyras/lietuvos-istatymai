@@ -9,12 +9,11 @@ pavadinimas: "Lietuvos Respublikos viešųjų pirkimų įstatymo 2, 4, 7, 8, 10,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - 2 citatos - Lietuvos Respublikos konkurencijos įstatyme
-- [[latest/TAR.B8B6AFC2BFF1#^s-4eb2cb549a516aa5fbb4d033|Lietuvos Respublikos konkurencijos įstatymas]] - 4 citatos - Lietuvos Respublikos konkurencijos įstatymo 5 straipsnyje
-- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - Lietuvos Respublikos valstybės tarnybos įstatymo
-- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 2 citatos - Lietuvos Respublikos viešųjų pirkimų įstatymo
+- [[latest/TAR.B8B6AFC2BFF1|Lietuvos Respublikos konkurencijos įstatymas]] - 2 citatos - Lietuvos Respublikos konkurencijos įstatymo 3 straipsnio 12 dalyje
+- [[latest/TAR.B8B6AFC2BFF1#^s-4eb2cb549a516aa5fbb4d033|Lietuvos Respublikos konkurencijos įstatymas]] - 2 citatos - Lietuvos Respublikos konkurencijos įstatymo 5 straipsnyje
+- [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymas]] - Lietuvos Respublikos valstybės tarnybos įstatymo
+- [[latest/TAR.C54AFFAA7622|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - 2 citatos - Viešųjų pirkimų įstatymo 4 straipsnio 1 dalies 4 punkte
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C54AFFAA7622#^s-71565f5ca82ac9fb9b0b1ff7|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Įstatymas Nr. XI-395
-- [[latest/TAR.C54AFFAA7622#^s-7d484803c9cc6716a4c73283|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Įstatymas Nr. XI-395
+_Nėra._

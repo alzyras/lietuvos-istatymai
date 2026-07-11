@@ -235,7 +235,7 @@ Lobistine veikla nelaikoma:
 5) mokslininkų (pedagogų) veikla, išskyrus atvejus, kai jie veikia lobistinės veiklos užsakovo interesais; ^s-7c688ca7eae7c154f4adc750
 
 
-6) fizinio asmens pareikšta nuomonė dėl teisės aktų pakeitimo, papildymo, pripažinimo netekusiais galios, naujų teisės aktų priėmimo ar nepriėmimo, išskyrus atvejus, kuriais tas fizinis asmuo veikia lobistinės veiklos užsakovo interesais. ^s-749eda62240f39cfe9aa39da
+6) fizinio asmens pareikšta nuomonė [dėl teisės aktų pakeitimo](https://e-tar.lt/portal/lt/legalAct/TAR.FC8F81C79171), papildymo, pripažinimo netekusiais galios, naujų teisės aktų priėmimo ar nepriėmimo, išskyrus atvejus, kuriais tas fizinis asmuo veikia lobistinės veiklos užsakovo interesais. ^s-749eda62240f39cfe9aa39da
 
 
 

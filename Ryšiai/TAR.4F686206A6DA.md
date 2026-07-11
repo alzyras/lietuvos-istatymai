@@ -9,10 +9,10 @@ pavadinimas: "Lietuvos Respublikos atsinaujinančių išteklių energetikos įst
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.FC7AB69BE291|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 4 citatos - Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme
-- [[latest/TAR.FC7AB69BE291#^s-a420359bff5208bd3b8d557d|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 6 citatos - Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 13 straipsnio 3 dalyje
-- [[latest/TAR.E1002166FF8C|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 2, 11, 13, 14, 16, 20, 21 straipsnių pakeitimo ir papildymo įstatymas]] - 6 citatos - Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 2, 11, 13, 14, 16, 20, 21 straipsnių pakeitimo ir papildymo įstatymo
-- [[latest/TAR.F57794B7899F|Lietuvos Respublikos elektros energetikos įstatymas]] - 2 citatos - Lietuvos Respublikos elektros energetikos įstatymo
+- [[latest/TAR.FC7AB69BE291|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 2 citatos - Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatyme
+- [[latest/TAR.FC7AB69BE291#^s-a420359bff5208bd3b8d557d|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymas]] - 3 citatos - Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 13 straipsnio 3 dalyje
+- [[latest/TAR.E1002166FF8C|Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 2, 11, 13, 14, 16, 20, 21 straipsnių pakeitimo ir papildymo įstatymas]] - 5 citatos - Lietuvos Respublikos atsinaujinančių išteklių energetikos įstatymo 2, 11, 13, 14, 16, 20, 21 straipsnių pakeitimo ir papildymo įstatymo
+- [[latest/TAR.F57794B7899F|Lietuvos Respublikos elektros energetikos įstatymas]] - Lietuvos Respublikos elektros energetikos įstatymo
 
 ## Šį įstatymą cituoja
 

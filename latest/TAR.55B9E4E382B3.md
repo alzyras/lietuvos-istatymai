@@ -447,7 +447,7 @@ LIETUVOS HERALDIKOS KOMISIJA
 1. Lietuvos heraldikos komisija (toliau – Komisija) yra Respublikos Prezidento sudaryta ir jam atskaitinga valstybės institucija. ^s-5f95caa4bd78bdd263014876
 
 
-2. Komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, įstatymais, kitais teisės aktais ir Respublikos Prezidento patvirtintais Komisijos nuostatais. ^s-f0f595bb89772782c5c16260
+2. Komisija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymais, kitais teisės aktais ir Respublikos Prezidento patvirtintais Komisijos nuostatais. ^s-f0f595bb89772782c5c16260
 
 
 3. Kalendoriniams metams pasibaigus, Komisija per du mėnesius parengia savo veiklos metų ataskaitą, ją pateikia Respublikos Prezidentui ir viešai paskelbia. ^s-e0e65324c4cafada96645146
@@ -686,12 +686,12 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1751, 91.09.04, Žin., 1991, Nr. 26-681
-DĖL LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS VALSTYBĖS HERBO" PAKEITIMO
+DĖL LIETUVOS RESPUBLIKOS ĮSTATYMO ["DĖL LIETUVOS VALSTYBĖS HERBO"](https://e-tar.lt/portal/lt/legalAct/TAR.10BB96A1E015) PAKEITIMO
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1228, 96.03.14, Žin., 1996, Nr. 33-805
-LIETUVOS RESPUBLIKOS ĮSTATYMO "DĖL LIETUVOS VALSTYBĖS HERBO" [[#^s-eb0ceeda6153c2fb6744e2f5|2 STRAIPSNIO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS ĮSTATYMO ["DĖL LIETUVOS VALSTYBĖS HERBO"](https://e-tar.lt/portal/lt/legalAct/TAR.10BB96A1E015) [[#^s-eb0ceeda6153c2fb6744e2f5|2 STRAIPSNIO]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -706,12 +706,12 @@ Nr. VIII-821, 98.06.30, Žin., 1998, Nr. 61-1735 (98.07.08)
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1566, 2003-05-20, Žin., 2003, Nr. 52-2314 (2003-05-30)
-ĮSTATYMO „DĖL LIETUVOS VALSTYBĖS HERBO“ 2, [[#^s-ae73a4d1d799308eda82d0fe|4 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+ĮSTATYMO [„DĖL LIETUVOS VALSTYBĖS HERBO“](https://e-tar.lt/portal/lt/legalAct/TAR.10BB96A1E015) [[#^s-eb0ceeda6153c2fb6744e2f5|2]], [[#^s-ae73a4d1d799308eda82d0fe|4]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1471, 2008-04-01, Žin., 2008, Nr. 45-1679 (2008-04-19)
-ĮSTATYMO „DĖL LIETUVOS VALSTYBĖS HERBO“ PAKEITIMO ĮSTATYMAS
+ĮSTATYMO [„DĖL LIETUVOS VALSTYBĖS HERBO“](https://e-tar.lt/portal/lt/legalAct/TAR.10BB96A1E015) PAKEITIMO ĮSTATYMAS
 Nauja įstatymo redakcija
 Keistas įstatymo pavadinimas
 
@@ -759,7 +759,7 @@ Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstat
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2139, 2019-05-30, paskelbta TAR 2019-06-10, i. k. 2019-09398
-Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo Nr. I-130 2, 8 ir [[#^s-729e6b191e3c2e82adfa2e27|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės herbo, kitų herbų ir herbinių ženklų įstatymo Nr. I-130 [[#^s-eb0ceeda6153c2fb6744e2f5|2]], [[#^s-382515d8e3238e3da8dbc7e2|8]] ir [[#^s-729e6b191e3c2e82adfa2e27|10]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas

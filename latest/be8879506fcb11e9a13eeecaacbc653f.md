@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-0cbe07bc5ff3c2bf8eddcd24
 
 
-Papildyti 2 straipsnį 14 dalimi:
+Papildyti [[latest/TAR.94F6B680E8B8#^s-0a906c3da54f006cb4d5d810|2 straipsnį 14 dalimi]]:
 
 
 „14. Perkeliamasis asmuo – kaip ši sąvoka apibrėžta Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme.“
@@ -49,13 +49,13 @@ Papildyti 2 straipsnį 14 dalimi:
 ### 2 straipsnis. 6 straipsnio pakeitimas ^s-280bb45fed5c6163a19eeb5f
 
 
-1. Papildyti 6 straipsnio 1 dalį 6 punktu: ^s-7e12f671f21e1d4896e05a89
+1. Papildyti [[latest/TAR.94F6B680E8B8#^s-d8f2f2f0f460bf2c4fdb70ff|6 straipsnio 1 dalį 6 punktu]]: ^s-7e12f671f21e1d4896e05a89
 
 
 „6) perkeliamieji asmenys.“
 
 
-2. Papildyti 6 straipsnio 4 dalį 20 punktu: ^s-f1ff2bd8eee05e658450ebd0
+2. Papildyti [[latest/TAR.94F6B680E8B8#^s-c991f327ec521aa7c4f6fde9|6 straipsnio 4 dalį 20 punktu]]: ^s-f1ff2bd8eee05e658450ebd0
 
 
 „20) perkeliamieji asmenys.“

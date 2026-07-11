@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-4ec046006b021eab9a63d352
-PENSIJŲ SISTEMOS REFORMOS ĮSTATYMO 2 IR 7 STRAIPSNIŲ PAKEITIMAS
+[PENSIJŲ SISTEMOS REFORMOS ĮSTATYMO](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8) [2](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8) IR [7](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8) STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 2002, Nr. 123-5511; 2003, Nr. 75-3474)
 
@@ -85,7 +85,7 @@ PENSIJŲ SISTEMOS REFORMOS ĮSTATYMO 2 IR 7 STRAIPSNIŲ PAKEITIMAS
 
 
 ### TREČIASIS SKIRSNIS ^s-49830fff5efb54e1167239d4
-[[latest/TAR.1F58348F79F7#^s-b3d270ebed2c52f30e9fa90e|pensijų kaupimo įstatymo 4 IR 25 straipsnių]] pakeitimas
+[[latest/TAR.1F58348F79F7|pensijų kaupimo įstatymo]] [[latest/TAR.1F58348F79F7#^s-f9f49e3fcd8e149a05ed8879|4]] IR [[latest/TAR.1F58348F79F7#^s-b3d270ebed2c52f30e9fa90e|25]] straipsnių pakeitimas
 
 (Žin., 2003, Nr. 75-3472; 2004, Nr. 96-3521)
 

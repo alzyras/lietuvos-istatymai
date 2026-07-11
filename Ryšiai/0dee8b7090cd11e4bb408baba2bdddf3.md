@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.28635AB7F3EB|Lietuvos Respublikos Lietuvos gyventojų genocido ir rezistencijos tyrimo centro įstatymas]] - 5 straipsnį 24 punktu
 
 ## Šį įstatymą cituoja
 

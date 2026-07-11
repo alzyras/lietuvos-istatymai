@@ -43,7 +43,7 @@ Vilnius
 ### 1 straipsnis. 3 straipsnio pakeitimas ^s-1b10dba5baadca5e34b556de
 
 
-Pakeisti 3 straipsnio 3 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/d3062ec0d8da11eb9f09e7df20500045#^s-d09dd00353056ec7cbefda2e|3 straipsnio 3 dalį]] ir ją išdėstyti taip:
 
 
 „3. Gydomojo masažo specialisto profesinę kvalifikaciją turintiems asmenims prilyginami asmenys, iki 2025 m. liepos 1 d. įgiję masažuotojo profesinę kvalifikaciją pagal masažuotojo formaliojo profesinio mokymo programas, įregistruotas Studijų, mokymo programų ir kvalifikacijų registre iki 2023 m. liepos 1 d., jeigu mokytis pagal šias programas jie pradėjo iki 2023 m. gruodžio 1 d.“

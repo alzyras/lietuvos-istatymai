@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos civilinio proceso kodekso papildymo 62-1 stra
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymas]] - 2 citatos - Teismų įstatymo
+- [[latest/TAR.522B3E415B52|Lietuvos Respublikos teismų įstatymas]] - Teismų įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.2E7C18F61454#^s-64fb28afb5e999f6a88ca230|Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas]] - 2 citatos - Lietuvos Respublikos civilinio proceso kodekso papildymo 62-1 straipsniu ir 154 straipsnio pakeitimo įstatymas
+- [[latest/TAR.2E7C18F61454#^s-64fb28afb5e999f6a88ca230|Lietuvos Respublikos civilinio proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinio proceso kodeksas]] - Lietuvos Respublikos civilinio proceso kodekso papildymo 62-1 straipsniu ir 154 straipsnio pakeitimo įstatymas

@@ -60,7 +60,7 @@ Fizinių asmenų pajamų mokestis ir juridinių asmenų pelno mokestis yra visų
 3. 5 straipsnyje vietoj žodžių „savivaldybių vykdomieji organai“ įrašyti žodžius „vietos savivaldos vykdomosios institucijos“. ^s-ec8e04c4f3c8bcbf570864bf
 
 
-4. 8 ir [[#^s-ba496ef05bbb2c098698dd18|9 straipsnius]] išdėstyti taip: ^s-9d01e0bf8853c1952c4fcc11
+4. 8 ir [[#^s-ba496ef05bbb2c098698dd18|9]] straipsnius išdėstyti taip: ^s-9d01e0bf8853c1952c4fcc11
 
 
 „8 straipsnis. Savivaldybių biudžetų, taip pat ministerijų, kitų Lietuvos Respublikos Vyriausybės įstaigų, savarankiškų departamentų, įmonių bei įstaigų ir apskričių finansinių planų sudarymo metodikos klausimus tvarko Lietuvos Respublikos finansų ministerija.
@@ -75,7 +75,7 @@ Fizinių asmenų pajamų mokestis ir juridinių asmenų pelno mokestis yra visų
 6. Iš 11 straipsnio antrosios dalies išbraukti žodį „vietos“. ^s-6dc6b5392e1087b6a846e8af
 
 
-7. 12 ir [[#^s-b03acd13b2147c3b002db82a|13 straipsnius]] išdėstyti taip: ^s-05c485ffbf3c7940fb5651e5
+7. 12 ir [[#^s-b03acd13b2147c3b002db82a|13]] straipsnius išdėstyti taip: ^s-05c485ffbf3c7940fb5651e5
 
 
 „12 straipsnis. Lietuvos Respublikos valstybės biudžeto pajamas sudaro Lietuvos Respublikos įstatymų nustatyti mokesčiai ir kitos įmokos į biudžetą.
@@ -111,13 +111,13 @@ Lietuvos Respublikos valstybės biudžetui priskiriama:
 9) kitos įmokos. ^s-2dd939af2bc8b9e6c1cdd8d6
 
 
-1 ir [[#^s-651de0cb17ec775d87a57844|3 punktuose]] nurodytų mokesčių į Lietuvos Respublikos valstybės biudžetą įskaitoma ta dalis, kuri lieka atmetus sumas, įskaitomas į savivaldybių biudžetus.
+[[#^s-4977bc3238e3b55451d111e9|1]] ir [[#^s-651de0cb17ec775d87a57844|3]] punktuose nurodytų mokesčių į Lietuvos Respublikos valstybės biudžetą įskaitoma ta dalis, kuri lieka atmetus sumas, įskaitomas į savivaldybių biudžetus.
 
 
-2, 4, 5 ir [[#^s-424bdc3fc162cf22f8b55625|7 punktuose]] nurodyti mokesčiai visi įskaitomi į Lietuvos Respublikos valstybės biudžetą.
+[[#^s-90a2267260f5b1b26e2f1fdd|2]], [[#^s-60375278a2f38b13aea1d9eb|4]], [[#^s-0fbcc041bc3a14f885719861|5]] ir [[#^s-424bdc3fc162cf22f8b55625|7]] punktuose nurodyti mokesčiai visi įskaitomi į Lietuvos Respublikos valstybės biudžetą.
 
 
-[[#^s-e457fa0c8b86d7360a97f8bd|6 punkte]] nurodytas mokestis į valstybės biudžetą įskaitomas Lietuvos Respublikos žyminio mokesčio įstatyme nustatyta tvarka.
+[[#^s-e457fa0c8b86d7360a97f8bd|6 punkte]] nurodytas mokestis į valstybės biudžetą įskaitomas Lietuvos Respublikos [žyminio mokesčio įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.6DF39F2BB769) nustatyta tvarka.
 
 
 [[#^s-9d8d8f1b715cedbea44a4f9f|8 punkte]] nurodytų pajamų į Lietuvos Respublikos valstybės biudžetą įskaitoma ta dalis, kuri gaunama už eksploatuojamą valstybės turtą.
@@ -168,7 +168,7 @@ Lietuvos Respublikos valstybės biudžetui priskiriama:
 13) kitoms priemonėms pagal Lietuvos Respublikos įstatymus įgyvendinti.“ ^s-f3bca914d2804285a7e5c756
 
 
-8. 17,18,19 ir [[#^s-0b3750973aefef7460a6baf2|20 straipsnius]] išdėstyti taip: ^s-b63cdb39a4fb47240d646163
+8. 17,[[#^s-9728805f0a6b7ba8f8200627|18]],[[#^s-40851f303935f794493a5130|19]] ir [[#^s-0b3750973aefef7460a6baf2|20]] straipsnius išdėstyti taip: ^s-b63cdb39a4fb47240d646163
 
 
 „17 straipsnis. Lietuvos Respublikos Vyriausybė svarsto Lietuvos Respublikos valstybės biudžeto projektą ir teikia jį Lietuvos Respublikos Seimui. Biudžeto projekte nurodoma:
@@ -219,7 +219,7 @@ asignavimų vyriausiųjų valdytojų finansuojamas įstaigas bei organizacijas i
 „26 straipsnis. Savivaldybių biudžetuose sukaupiamos lėšos socialinėms ir ekonominėms bei kitoms vietinės reikšmės programoms finansuoti ir savivaldybių įstaigoms išlaikyti.“
 
 
-13. 27, 28 ir [[#^s-8e62bf0fb557a852744b2abb|29 straipsnius]] išdėstyti taip: ^s-036ad5d87aec678c32772681
+13. 27, [[#^s-6fea3c2a0593c7c2477c4fbc|28]] ir [[#^s-8e62bf0fb557a852744b2abb|29]] straipsnius išdėstyti taip: ^s-036ad5d87aec678c32772681
 
 
 „27 straipsnis. Kiekviena savivaldybė turi savarankišką biudžetą. Savivaldybių biudžetai turi būti patvirtinti be deficito.
@@ -249,13 +249,13 @@ asignavimų vyriausiųjų valdytojų finansuojamas įstaigas bei organizacijas i
 7) dotacijos. ^s-3760d7d7961981c9c24ddd7e
 
 
-1 ir [[#^s-de548448e5f3f9bdb33cd7ac|2 punktuose]] nurodytų mokesčių į savivaldybių biudžetus įskaitoma ta procentinė dalis, kurią šio įstatymo [[#^s-881caa97655214a176e71d69|4 straipsnyje]] nustatyta tvarka nustato Lietuvos Respublikos Seimas.
+[[#^s-00ec9a3b4189193d93317bab|1]] ir [[#^s-de548448e5f3f9bdb33cd7ac|2]] punktuose nurodytų mokesčių į savivaldybių biudžetus įskaitoma ta procentinė dalis, kurią šio įstatymo [[#^s-881caa97655214a176e71d69|4 straipsnyje]] nustatyta tvarka nustato Lietuvos Respublikos Seimas.
 
 
-3, 4, 5 ir [[#^s-8cb68e8107cd3df38da13d43|6 punktuose]] nurodytos pajamos savivaldybių biudžetams priskiriamos vadovaujantis Lietuvos Respublikos mokesčių įstatymų nustatyta tvarka, o jos nesant – Lietuvos Respublikos Vyriausybės nutarimais.
+[[#^s-6d2ef33646b1586f2ed934cb|3]], [[#^s-0d4dcafc90c2519baf433541|4]], [[#^s-5305d4fce8accd1119a283f2|5]] ir [[#^s-8cb68e8107cd3df38da13d43|6]] punktuose nurodytos pajamos savivaldybių biudžetams priskiriamos vadovaujantis Lietuvos Respublikos mokesčių įstatymų nustatyta tvarka, o jos nesant – Lietuvos Respublikos Vyriausybės nutarimais.
 
 
-[[#^s-3760d7d7961981c9c24ddd7e|7 punkte]] numatytos dotacijos savivaldybių biudžetams skiriamos iš Lietuvos Respublikos valstybės biudžeto.
+7 punkte numatytos dotacijos savivaldybių biudžetams skiriamos iš Lietuvos Respublikos valstybės biudžeto.
 
 
 ### 29 straipsnis. Savivaldybių biudžetų asignavimai skiriami: ^s-8e62bf0fb557a852744b2abb
@@ -276,7 +276,7 @@ asignavimų vyriausiųjų valdytojų finansuojamas įstaigas bei organizacijas i
 5) kitoms priemonėms pagal Lietuvos Respublikos įstatymus ir savivaldybių tarybų sprendimus įgyvendinti.“ ^s-036080a1a23c42b19b69365c
 
 
-14. 31–[[#^s-8344c6c0f419c7cf0e116668|40 straipsnius]] išdėstyti taip: ^s-08e85d7eb0245bc9d9efa129
+14. 31–[[#^s-8344c6c0f419c7cf0e116668|40]] straipsnius išdėstyti taip: ^s-08e85d7eb0245bc9d9efa129
 
 
 „31 straipsnis. Vykdant savivaldybių biudžetus, papildomai gautos lėšos ir netekusieji paskirties asignavimai lieka savivaldybių tarybų žinioje ir jų arba jų įgaliotų institucijų sprendimais skiriami savivaldybių papildomoms reikmėms tenkinti.

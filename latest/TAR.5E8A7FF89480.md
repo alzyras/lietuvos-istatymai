@@ -85,7 +85,7 @@ Vilnius
 Pakeisti 4 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Nacionalinio dokumentų fondo dokumentai yra išimti iš civilinės apyvartos. Jeigu šio fondo dokumentais disponuoja privatūs juridiniai ar fiziniai asmenys, jie turi būti perduoti valstybės ar savivaldybės institucijai, įstaigai ar įmonei, kuriai pagal kompetenciją priklausytų, o jeigu tokia institucija, įstaiga ar įmonė jau neveikia, sprendimą dėl dokumentų saugojimo priima Lietuvos vyriausiasis archyvaras. Kai juridinis ar fizinis asmuo, disponuojantis Nacionalinio dokumentų fondo dokumentais, perduoti šiuos dokumentus atsisako, kompetentinga valstybės ar savivaldybės institucija, įstaiga ar įmonė, o jeigu tokios nėra, – Lietuvos vyriausiasis archyvaras turi imtis priemonių įstatymų nustatyta tvarka.“
+„2. Nacionalinio dokumentų fondo dokumentai yra išimti iš civilinės apyvartos. Jeigu šio fondo dokumentais disponuoja privatūs juridiniai ar fiziniai asmenys, jie turi būti perduoti valstybės ar savivaldybės institucijai, įstaigai ar įmonei, kuriai pagal kompetenciją priklausytų, o jeigu tokia institucija, įstaiga ar įmonė jau neveikia, sprendimą [dėl dokumentų saugojimo](https://e-tar.lt/portal/lt/legalAct/TAR.03E4E7E1703B) priima Lietuvos vyriausiasis archyvaras. Kai juridinis ar fizinis asmuo, disponuojantis Nacionalinio dokumentų fondo dokumentais, perduoti šiuos dokumentus atsisako, kompetentinga valstybės ar savivaldybės institucija, įstaiga ar įmonė, o jeigu tokios nėra, – Lietuvos vyriausiasis archyvaras turi imtis priemonių įstatymų nustatyta tvarka.“
 
 
 
@@ -424,7 +424,7 @@ Pakeisti ir papildyti [[#^s-dedae3af3f7922e506437976|18 straipsnį]] ir jį išd
 2. Europos Sąjungos valstybių narių ar Europos ekonominės erdvės valstybių piliečiai ir Europos Sąjungos valstybėse narėse ar Europos ekonominės erdvės valstybėse įsteigti juridiniai asmenys ar kitos organizacijos ir jų filialai Lietuvos Respublikoje gali teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas, pagal [[#^s-151d7ce407d21fea5a4dd9b5|šio straipsnio 1 dalies]] nuostatas gavę Lietuvos vyriausiojo archyvaro išduotą licenciją teikti tokią paslaugą arba Lietuvos vyriausiojo archyvaro tarnybai pateikę Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės kompetentingos institucijos išduotus dokumentus, įrodančius, kad jie turi teisę teikti dokumentų tvarkymo ir (ar) saugojimo paslaugas pagal tos Europos Sąjungos valstybės narės ar Europos ekonominės erdvės valstybės teisės aktus. ^s-f72f04784692f719b41c47ef
 
 
-3. Šio straipsnio 1 ir [[#^s-f72f04784692f719b41c47ef|2 dalyse]] nurodytiems asmenims išduodamos šios licencijos: ^s-244779fe2d581442855e5d04
+3. Šio straipsnio [[#^s-151d7ce407d21fea5a4dd9b5|1]] ir [[#^s-f72f04784692f719b41c47ef|2]] dalyse nurodytiems asmenims išduodamos šios licencijos: ^s-244779fe2d581442855e5d04
 
 
 1) licencija teikti dokumentų tvarkymo paslaugą; ^s-44e3c1b42bd848dffb479779
@@ -433,7 +433,7 @@ Pakeisti ir papildyti [[#^s-dedae3af3f7922e506437976|18 straipsnį]] ir jį išd
 2) licencija teikti dokumentų saugojimo paslaugą. ^s-562e07c0e586efcbeeee8f33
 
 
-4. Licencija teikti dokumentų tvarkymo paslaugą išduodama šio straipsnio 1 ir [[#^s-f72f04784692f719b41c47ef|2 dalyse]] nurodytiems asmenims, atitinkantiems šiuos reikalavimus: ^s-672032d601fe3f3a56cbbdb8
+4. Licencija teikti dokumentų tvarkymo paslaugą išduodama šio straipsnio [[#^s-151d7ce407d21fea5a4dd9b5|1]] ir [[#^s-f72f04784692f719b41c47ef|2]] dalyse nurodytiems asmenims, atitinkantiems šiuos reikalavimus: ^s-672032d601fe3f3a56cbbdb8
 
 
 1) fizinis asmuo arba juridinio asmens vadovas neturi neišnykusio arba nepanaikinto teistumo už sunkius ar labai sunkius tyčinius nusikaltimus ar nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai ar finansų sistemai; ^s-f40d4f81cd5c43d99163544c
@@ -442,7 +442,7 @@ Pakeisti ir papildyti [[#^s-dedae3af3f7922e506437976|18 straipsnį]] ir jį išd
 2) fizinis asmuo arba juridinio asmens darbuotojas, atsakingas už licencijuojamą dokumentų tvarkymo paslaugą, privalo turėti aukštąjį universitetinį ar jam prilygintą išsilavinimą ir ne trumpesnę kaip dvejų metų darbo patirtį licencijuojamos veiklos srityje, kiti juridinio asmens darbuotojai, kurių darbas tiesiogiai susijęs su licencijuojama dokumentų tvarkymo paslauga, privalo turėti ne trumpesnę kaip vienų metų darbo patirtį arba profesinę kvalifikaciją licencijuojamos paslaugos srityje. ^s-a86f230c77e428d592fd8127
 
 
-5. Licencija teikti dokumentų saugojimo paslaugą išduodama šio straipsnio 1 ir [[#^s-f72f04784692f719b41c47ef|2 dalyse]] nurodytiems asmenims, atitinkantiems šiuos reikalavimus: ^s-cfcf487938636a0c34f579a6
+5. Licencija teikti dokumentų saugojimo paslaugą išduodama šio straipsnio [[#^s-151d7ce407d21fea5a4dd9b5|1]] ir [[#^s-f72f04784692f719b41c47ef|2]] dalyse nurodytiems asmenims, atitinkantiems šiuos reikalavimus: ^s-cfcf487938636a0c34f579a6
 
 
 1) fizinis asmuo arba juridinio asmens vadovas neturi neišnykusio arba nepanaikinto teistumo už sunkius ar labai sunkius tyčinius nusikaltimus ar nusikaltimus nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai ar finansų sistemai; ^s-2d421de58544a3553802569f
@@ -457,7 +457,7 @@ Pakeisti ir papildyti [[#^s-dedae3af3f7922e506437976|18 straipsnį]] ir jį išd
 6. Lietuvos vyriausiasis archyvaras per 5 darbo dienas nuo visų licencijai išduoti reikiamų dokumentų gavimo dienos pareiškėjui išsiunčia patvirtinimą, kad dokumentai gauti, kuriame nurodomas terminas, per kurį bus išnagrinėtas pareiškėjo prašymas išduoti licenciją, galimos pareiškėjo teisių gynimo priemonės, kuriomis galima naudotis kilus ginčų tarp Lietuvos vyriausiojo archyvaro ir pareiškėjo, taip pat nurodoma, kad, pareiškėjui negavus atsakymo per nustatytą terminą, laikoma, kad licencija išduota. Jeigu pareiškėjas pateikia ne visus licencijai išduoti reikiamus dokumentus, Lietuvos vyriausiasis archyvaras per 5 darbo dienas nuo prašymo gavimo dienos informuoja pareiškėją apie būtinybę pateikti trūkstamus dokumentus arba papildyti ar patikslinti pateiktus duomenis. ^s-cd9131c65aa30ac955f5dada
 
 
-7. Lietuvos vyriausiasis archyvaras ne vėliau kaip per 30 kalendorinių dienų nuo visų licencijai išduoti reikiamų dokumentų gavimo dienos privalo išnagrinėti pateiktus dokumentus ir išduoti šio straipsnio 1 ir [[#^s-f72f04784692f719b41c47ef|2 dalyse]] nurodytiems asmenims licenciją arba pateikti rašytinį motyvuotą atsisakymą ją išduoti. Dėl svarbių priežasčių licencijos išdavimo terminas gali būti pratęstas iki 30 kalendorinių dienų. Tokiu atveju Lietuvos vyriausiasis archyvaras iki licencijos išdavimo termino pabaigos raštu informuoja pareiškėją apie termino pratęsimą ir nurodo priežastis, dėl kurių jis buvo pratęstas. ^s-4951be64bd3690447f33e8c3
+7. Lietuvos vyriausiasis archyvaras ne vėliau kaip per 30 kalendorinių dienų nuo visų licencijai išduoti reikiamų dokumentų gavimo dienos privalo išnagrinėti pateiktus dokumentus ir išduoti šio straipsnio [[#^s-151d7ce407d21fea5a4dd9b5|1]] ir [[#^s-f72f04784692f719b41c47ef|2]] dalyse nurodytiems asmenims licenciją arba pateikti rašytinį motyvuotą atsisakymą ją išduoti. Dėl svarbių priežasčių licencijos išdavimo terminas gali būti pratęstas iki 30 kalendorinių dienų. Tokiu atveju Lietuvos vyriausiasis archyvaras iki licencijos išdavimo termino pabaigos raštu informuoja pareiškėją apie termino pratęsimą ir nurodo priežastis, dėl kurių jis buvo pratęstas. ^s-4951be64bd3690447f33e8c3
 
 
 8. Licencija neišduodama, jeigu: ^s-e1021e6a4b0fd405f0521e3e
@@ -466,7 +466,7 @@ Pakeisti ir papildyti [[#^s-dedae3af3f7922e506437976|18 straipsnį]] ir jį išd
 1) pateikti ne visi nurodyti dokumentai arba pateikti klaidingi, netikslūs, neišsamūs duomenys ir pareiškėjas per nustatytą terminą jų neištaiso, nepatikslina ar nepapildo; ^s-1d8c9cc2ea25b6df1828d477
 
 
-2) fizinis arba juridinis asmuo neatitinka šio straipsnio 4 ir [[#^s-cfcf487938636a0c34f579a6|5 dalyse]] nustatytų sąlygų; ^s-9330e573e0b12a6235ec43e9
+2) fizinis arba juridinis asmuo neatitinka šio straipsnio [[#^s-672032d601fe3f3a56cbbdb8|4]] ir [[#^s-cfcf487938636a0c34f579a6|5]] dalyse nustatytų sąlygų; ^s-9330e573e0b12a6235ec43e9
 
 
 3) fizinis arba juridinis asmuo anksčiau turėjo šios rūšies licenciją, tačiau ji buvo panaikinta dėl licencijuojamos paslaugos teikimo pažeidimų ir nėra praėję treji metai nuo licencijos galiojimo panaikinimo. ^s-4a30af4976e6d04393f3615b
@@ -558,7 +558,7 @@ priedas
 ### 18 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-dedae3af3f7922e506437976
 
 
-1. Šis įstatymas, išskyrus [[#^s-05594d9c84a7f5c61053393c|15 straipsnį]] ir šio straipsnio 2 ir [[#^s-ae6c92170f265195a87e6a63|3 dalis]], įsigalioja 2011 m. sausio 1 d. ^s-5192712f4d4e11124b092a9d
+1. Šis įstatymas, išskyrus [[#^s-05594d9c84a7f5c61053393c|15 straipsnį]] ir šio straipsnio [[#^s-f3806aa56fa38860ecc43d0c|2]] ir 3 dalis, įsigalioja 2011 m. sausio 1 d. ^s-5192712f4d4e11124b092a9d
 
 
 2. Lietuvos Respublikos Vyriausybė iki 2010 m. gruodžio 31 d. parengia ir priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-44f5e563be0d5b466da3602a

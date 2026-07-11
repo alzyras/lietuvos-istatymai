@@ -311,7 +311,7 @@ Vyriausybė, su Lietuvos savivaldybių asociacija apsvarsčiusi, teikia Seimui t
 2. Patvirtintos dotacijų sumos, nurodytos [[#^s-8a65a855cee201c3eb7c3d1b|šio straipsnio 1 dalies]] 2, 3 ir 5 punkte, savivaldybėms pervedamos kas mėnesį lygiomis dalimis. ^s-7aa6d07d1130e5922f7fbdca
 
 
-3. Faktiškai gautos lėšos, nurodytos [[#^s-3fe66254f02d926f093b2f07|7 straipsnio 2 dalyje]], kas mėnesį skiriamos savivaldybėms ir apskaičiuojamos pagal 8 ir [[#^s-9b19db3da49b5bba68005084|9 straipsniuose]] pateiktas formules. ^s-180efcb128d64fd76bc039f2
+3. Faktiškai gautos lėšos, nurodytos [[#^s-3fe66254f02d926f093b2f07|7 straipsnio 2 dalyje]], kas mėnesį skiriamos savivaldybėms ir apskaičiuojamos pagal [[#^s-54325dbf7ea784296449abca|8]] ir [[#^s-9b19db3da49b5bba68005084|9]] straipsniuose pateiktas formules. ^s-180efcb128d64fd76bc039f2
 
 
 4. Dėl valstybės institucijų vykdomos politikos, turinčios įtakos savivaldybių išlaidoms bei mokestinėms pajamoms, taip pat ir valstybės biudžeto bendrosios dotacijos dydžiui, trejų metų laikotarpiu savivaldybių biudžetams turi būti skiriamos bendrosios dotacijos kompensacijų sumos arba iš savivaldybių biudžetų paimamos atitinkamos sumos. ^s-23358fcd290b9ff517815ee7

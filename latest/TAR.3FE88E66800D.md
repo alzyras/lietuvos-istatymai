@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio papildymas ir pakeitimas ^s-8b408e93dee3bafd43ea543a
 
 
-Iš 1 straipsnio išbraukti [[#^s-30fe765eee23471f7af523c7|15 punktą]], buvusius 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30 punktus laikyti atitinkamai 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, [[#^s-9d6833b8e853534cfefcb360|29 punktais]] ir visą straipsnį išdėstyti taip:
+Iš 1 straipsnio išbraukti [[#^s-30fe765eee23471f7af523c7|15 punktą]], buvusius [[#^s-5c070ec2fb2382260894fd2b|16]], [[#^s-0b9aaf6df7a530deebfe2b0f|17]], [[#^s-5611d87f93c81458f8e89c84|18]], [[#^s-4db613588bf360be14dea7ef|19]], [[#^s-29042f9f2c26d64761d8cfd5|20]], [[#^s-008e8d78e408cce2ee23ee3f|21]], [[#^s-d5bb7475f20157b19f1f57c4|22]], [[#^s-0737491323c9dce2ef5467f8|23]], [[#^s-f7444bd5a8ef25a96904981c|24]], [[#^s-107addfb3a53fb5c4b66638d|25]], [[#^s-aa1be0724c66741b155e637e|26]], [[#^s-4ac4d9f24bf3441342af4beb|27]], [[#^s-07c4ddde3cd546e6d6592079|28]], [[#^s-9d6833b8e853534cfefcb360|29]], 30 punktus laikyti atitinkamai [[#^s-30fe765eee23471f7af523c7|15]], [[#^s-5c070ec2fb2382260894fd2b|16]], [[#^s-0b9aaf6df7a530deebfe2b0f|17]], [[#^s-5611d87f93c81458f8e89c84|18]], [[#^s-4db613588bf360be14dea7ef|19]], [[#^s-29042f9f2c26d64761d8cfd5|20]], [[#^s-008e8d78e408cce2ee23ee3f|21]], [[#^s-d5bb7475f20157b19f1f57c4|22]], [[#^s-0737491323c9dce2ef5467f8|23]], [[#^s-f7444bd5a8ef25a96904981c|24]], [[#^s-107addfb3a53fb5c4b66638d|25]], [[#^s-aa1be0724c66741b155e637e|26]], [[#^s-4ac4d9f24bf3441342af4beb|27]], [[#^s-07c4ddde3cd546e6d6592079|28]], [[#^s-9d6833b8e853534cfefcb360|29]] punktais ir visą straipsnį išdėstyti taip:
 
 
 „1 straipsnis. Atmintinos dienos

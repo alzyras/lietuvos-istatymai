@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.AF4E384215F8#^s-8b5205e98752bbafd687d931|Lietuvos Respublikos vadovybės apsaugos įstatymas]] - 3 citatos - 1131010ISTA0XII-341
-- [[latest/TAR.AF4E384215F8#^s-e1a8fd054bea6f7636f71228|Lietuvos Respublikos vadovybės apsaugos įstatymas]] - 3 citatos - 1131010ISTA0XII-341
+- [[latest/TAR.AF4E384215F8#^s-8b5205e98752bbafd687d931|Lietuvos Respublikos vadovybės apsaugos įstatymas]] - 2 citatos - 1131010ISTA0XII-341

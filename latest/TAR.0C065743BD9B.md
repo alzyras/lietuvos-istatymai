@@ -211,7 +211,7 @@ Pakeisti 15 straipsnį ir jį išdėstyti taip:
 „2. Lietuvos Respublikos vidaus vandenų laivų registrą steigia ir jo nuostatus tvirtina Lietuvos Respublikos Vyriausybė.“
 
 
-3. 16 straipsnio 3 ir [[#^s-412c1b445a5f256b53d996a8|4 dalis]] pripažinti netekusiomis galios. ^s-a2aa78b0e072f56a848e655e
+3. 16 straipsnio 3 ir 4 dalis pripažinti netekusiomis galios. ^s-a2aa78b0e072f56a848e655e
 
 
 4. Pakeisti 16 straipsnio 5 dalį ir ją išdėstyti taip: ^s-412c1b445a5f256b53d996a8

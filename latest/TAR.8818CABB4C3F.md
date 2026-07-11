@@ -77,7 +77,7 @@ Vilnius
 „7. Elektroninis vokas – elektroninės siuntos dalis, kurią sudaro informacija apie siuntėją, gavėją, elektroninės siuntos išsiuntimo, pristatymo ir gavimo laiką ir (ar) kiti elektroninės siuntos metaduomenys.“
 
 
-7. Buvusias [[#^s-c5487df2cdc4326503bebaa6|2 straipsnio]] 2, 3 ir [[#^s-8ea3fb55edf2dfdfde9265af|4 dalis]] laikyti atitinkamai 8, 9 ir [[#^s-bbacb51fe98fe36a14ad72a4|10 dalimis]]. ^s-5c4a5eec6f1fc7ede4fbefd9
+7. Buvusias [[#^s-c5487df2cdc4326503bebaa6|2 straipsnio]] 2, 3 ir 4 dalis laikyti atitinkamai 8, 9 ir 10 dalimis. ^s-5c4a5eec6f1fc7ede4fbefd9
 
 
 8. Buvusią 2 straipsnio 5 dalį laikyti [[#^s-c24b8669dbab960cf9d4a618|11 dalimi]], ją pakeisti ir išdėstyti taip: ^s-e0fa21848aff36c9130a4b90
@@ -86,7 +86,7 @@ Vilnius
 „11. Informacinės visuomenės paslaugos gavėjas (toliau – paslaugos gavėjas) – fizinis ar juridinis asmuo ar kita organizacija, ar jų padalinys, kurie naudojasi informacinės visuomenės paslauga.“
 
 
-9. Buvusias [[#^s-c5487df2cdc4326503bebaa6|2 straipsnio]] 6, 7 ir [[#^s-e0fa21848aff36c9130a4b90|8 dalis]] laikyti atitinkamai 12, 13 ir 14 dalimis. ^s-b4b25d1c4971fd7c4228c135
+9. Buvusias [[#^s-c5487df2cdc4326503bebaa6|2 straipsnio]] 6, 7 ir 8 dalis laikyti atitinkamai 12, 13 ir 14 dalimis. ^s-b4b25d1c4971fd7c4228c135
 
 
 10. Buvusią 2 straipsnio 9 dalį laikyti 15 dalimi, ją pakeisti ir išdėstyti taip: ^s-bbacb51fe98fe36a14ad72a4
@@ -101,7 +101,7 @@ Vilnius
 12. Papildyti 2 straipsnį 22 dalimi: ^s-31eeef6747d63d0453d6f6b5
 
 
-„22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatyme]], [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatyme]], Lietuvos Respublikos elektroninio parašo įstatyme, [[latest/TAR.9CD153214DD1|Lietuvos Respublikos pašto įstatyme]] ir kituose teisės aktuose.“
+„22. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [[latest/TAR.1FEF229DA7C6|Lietuvos Respublikos dokumentų ir archyvų įstatyme]], [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatyme]], [Lietuvos Respublikos elektroninio parašo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.382345294FBF), [[latest/TAR.9CD153214DD1|Lietuvos Respublikos pašto įstatyme]] ir kituose teisės aktuose.“
 
 
 

@@ -13,9 +13,6 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.1D51B9AD8B03#^s-1dd4ed7ea1bf68df78d88df3|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas]] - 1011010ISTA00IX-560
-- [[latest/TAR.1D51B9AD8B03#^s-31b28b41d739a8140448797b|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas]] - 2 citatos - 1011010ISTA00IX-560
-- [[latest/TAR.1D51B9AD8B03#^s-7896a4a5a3f9f6442f3ac189|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas]] - 1011010ISTA00IX-560
-- [[latest/TAR.1D51B9AD8B03#^s-8c9db0d74e42dfdb88aca1a1|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas]] - 2 citatos - 1011010ISTA00IX-560
+- [[latest/TAR.1D51B9AD8B03#^s-8c9db0d74e42dfdb88aca1a1|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas]] - 1011010ISTA00IX-560
 - [[latest/TAR.1D51B9AD8B03#^s-e8f3e9d57cf3ddd618220378|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas]] - 1011010ISTA00IX-560
 - [[latest/TAR.1D51B9AD8B03#^s-f98f98caca38e31ea64ce3f2|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo 4, 14 straipsnių papildymo ir 5 straipsnio pakeitimo įstatymo įgyvendinimo įstatymas]] - 1011010ISTA00IX-560

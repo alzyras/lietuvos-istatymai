@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D3ED3792F52B#^s-04a592117515d4348b0b28ca|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - VALSTYBĖS TARNYBOS ĮSTATYMO 2, 4, 8, 10, 12 IR 44 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.D3ED3792F52B#^s-f8f6d23dbae0a0333a1202d3|Lietuvos Respublikos valstybės tarnybos įstatymas]] - 2 citatos - VALSTYBĖS TARNYBOS ĮSTATYMO 2, 4, 8, 10, 12 IR 44 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.D3ED3792F52B#^s-f8f6d23dbae0a0333a1202d3|Lietuvos Respublikos valstybės tarnybos įstatymas]] - VALSTYBĖS TARNYBOS ĮSTATYMO 2, 4, 8, 10, 12 IR 44 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

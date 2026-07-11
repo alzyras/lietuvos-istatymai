@@ -41,13 +41,13 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio papildymas ir pakeitimas ^s-844c86b26cbecca94373018a
 
 
-1. Papildyti [[#^s-b70c84bbdbe255ceeaceeb7b|2 straipsnį]] nauja [[#^s-af3809db57e915fa98c70826|1 dalimi]]: ^s-af3809db57e915fa98c70826
+1. Papildyti [[#^s-b70c84bbdbe255ceeaceeb7b|2 straipsnį]] nauja 1 dalimi: ^s-af3809db57e915fa98c70826
 
 
 „1. Įstatuose nurodytas šaltinis – kaip tai apibrėžta Lietuvos Respublikos akcinių bendrovių įstatyme.“
 
 
-2. Buvusias [[#^s-b70c84bbdbe255ceeaceeb7b|2 straipsnio]] 1, 2, 3 ir 4 dalis laikyti atitinkamai 2, 3, 4 ir 5 dalimis. ^s-2c6dd45a92b20032201fca46
+2. Buvusias [[#^s-b70c84bbdbe255ceeaceeb7b|2 straipsnio]] [[#^s-0377463dd23e6c946ec74a15|1]], [[#^s-2747a266688659a418cbe1e4|2]], [[#^s-761a229e108d3423c7e958ab|3]] ir 4 dalis laikyti atitinkamai [[#^s-2747a266688659a418cbe1e4|2]], [[#^s-761a229e108d3423c7e958ab|3]], 4 ir 5 dalimis. ^s-2c6dd45a92b20032201fca46
 
 
 

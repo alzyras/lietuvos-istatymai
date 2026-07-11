@@ -59,7 +59,7 @@ Konstitucinis Teismas yra savarankiškas ir nepriklausomas teismas, kuris teismi
 ### 2 straipsnis. Įstatymai dėl Konstitucinio Teismo ^s-381b9f7732a006e24accc8b5
 
 
-Konstitucinio Teismo uždavinius, įgaliojimus ir darbo tvarką nustato Lietuvos Respublikos Konstitucija ir šis įstatymas.
+Konstitucinio Teismo uždavinius, įgaliojimus ir darbo tvarką nustato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) ir šis įstatymas.
 
 
 
@@ -259,7 +259,7 @@ Konstitucinio Teismo teisėjo įgaliojimai gali būti sustabdyti Konstitucinio T
 3) įsiteisėjusiu teismo sprendimu teisėjas pripažįstamas nežinia kur esančiu. ^s-d26910e0453ef3354fa6d13a
 
 
-Sustabdžius teisėjo įgaliojimus, jis netenka teisių, nustatytų šio įstatymo 9 ir [[#^s-e3104c6c022a286cf7ee6f63|15 straipsniuose]].
+Sustabdžius teisėjo įgaliojimus, jis netenka teisių, nustatytų šio įstatymo [[#^s-2e63e2233ed85d0249760909|9]] ir [[#^s-e3104c6c022a286cf7ee6f63|15]] straipsniuose.
 
 
 Kai nebelieka pagrindo Konstitucinio Teismo teisėjo įgaliojimams sustabdyti, Konstitucinis Teismas ne vėliau kaip per 3 dienas priima sprendimą dėl teisėjo įgaliojimų atstatymo. Jeigu nurodytu laiku sprendimas nepriimamas, laikoma, kad Konstitucinio Teismo teisėjo įgaliojimai atstatyti nuo tos dienos, kai jis faktiškai pradeda eiti savo pareigas, pareiškimu pranešdamas apie tai Konstitucinio Teismo pirmininkui.
@@ -291,7 +291,7 @@ Konstitucinio Teismo teisėjo įgaliojimai nutrūksta, kai:
 5) Seimas jį pašalina iš pareigų apkaltos proceso tvarka. ^s-dd935b954c6bfac01129b8e6
 
 
-Šio straipsnio [[#^s-1e604e3fb6aeb77ed77dfbca|3 punkte]] nustatytu atveju sprendimą dėl Konstitucinio Teismo teisėjo įgaliojimų nutraukimo priima Seimas jo Pirmininko teikimu.
+Šio straipsnio [[#^s-1e604e3fb6aeb77ed77dfbca|3 punkte]] nustatytu atveju sprendimą [dėl Konstitucinio Teismo teisėjo](https://e-tar.lt/portal/lt/legalAct/TAR.B5CE7669A8F1) įgaliojimų nutraukimo priima Seimas jo Pirmininko teikimu.
 
 
 Šio straipsnio [[#^s-7b1479198272d897391b98cb|4 punkte]] nustatytu atveju klausimą dėl teisėjo įgaliojimų nutraukimo Seimas sprendžia tik tuomet, kai yra Konstitucinio Teismo sprendimas ir sveikatos apsaugos ministro sudarytos gydytojų komisijos išvada.
@@ -348,7 +348,7 @@ Nr. XIII-2328, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12391
 ### 14 straipsnis. Konstitucinio Teismo pirmininko pavadavimas ^s-351859da1eec95c78afef9aa
 
 
-Nutrūkus Konstitucinio Teismo teisėjo – šio teismo pirmininko įgaliojimams šio įstatymo [[#^s-cbec4ca6d75ff1d2d4e221f4|11 straipsnio]] pirmosios dalies 1, 3 ir 4 punktuose nurodytais pagrindais arba kai Konstitucinio Teismo pirmininkas laikinai negali eiti savo pareigų, Konstitucinio Teismo pirmininko pareigas laikinai eina Konstitucinio Teismo pirmininko paskirtas Konstitucinio Teismo teisėjas.
+Nutrūkus Konstitucinio Teismo teisėjo – šio teismo pirmininko įgaliojimams šio įstatymo [[#^s-cbec4ca6d75ff1d2d4e221f4|11 straipsnio]] pirmosios dalies [[#^s-d60f8cbb06bc70d9c1ab7cb7|1]], [[#^s-1e604e3fb6aeb77ed77dfbca|3]] ir [[#^s-7b1479198272d897391b98cb|4]] punktuose nurodytais pagrindais arba kai Konstitucinio Teismo pirmininkas laikinai negali eiti savo pareigų, Konstitucinio Teismo pirmininko pareigas laikinai eina Konstitucinio Teismo pirmininko paskirtas Konstitucinio Teismo teisėjas.
 
 
 Kai nėra Konstitucinio Teismo pirmininko ar jo paskirto eiti šias pareigas teisėjo, Konstitucinio Teismo pirmininko pareigas laikinai eina vyriausias pagal amžių Konstitucinio Teismo teisėjas.
@@ -428,7 +428,7 @@ KONSTITUCINIAME TEISME
 ### 17 straipsnis. Konstitucinio Teismo veiklos teisėtumas ir nepriklausomumas ^s-11e3b1cfcb1f7f265bab4c0c
 
 
-Konstitucinis Teismas, taip pat jo teisėjai, eidami savo pareigas, yra nepriklausomi nuo jokios valstybės institucijos, asmens ar organizacijos ir vadovaujasi tik Lietuvos Respublikos Konstitucija.
+Konstitucinis Teismas, taip pat jo teisėjai, eidami savo pareigas, yra nepriklausomi nuo jokios valstybės institucijos, asmens ar organizacijos ir vadovaujasi tik [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA).
 
 
 Konstitucinis Teismas klauso tik Lietuvos Respublikos Konstitucijos ir jai neprieštaraujančių įstatymų.
@@ -584,10 +584,10 @@ Konstitucinio Teismo pirmininkas parengiamuosius darbus tolygiai paskirsto teis�
 Teisėjas, pradėdamas tirti jam perduotą medžiagą:
 
 
-1) išsiaiškina, ar nėra šio įstatymo 69 ir [[#^s-25cb7ad0dccf5813bb40ed91|80 straipsniuose]] nustatytų pagrindų atsisakyti nagrinėti prašymą ar paklausimą; ^s-8da60b4d9248064971bcb912
+1) išsiaiškina, ar nėra šio įstatymo [[#^s-5000114afa5f8b4125f80d08|69]] ir [[#^s-25cb7ad0dccf5813bb40ed91|80]] straipsniuose nustatytų pagrindų atsisakyti nagrinėti prašymą ar paklausimą; ^s-8da60b4d9248064971bcb912
 
 
-2) išsiaiškina, ar nėra šio įstatymo 70 ir [[#^s-0ce3ca6e8201c3403a1a5c6b|81 straipsniuose]] nustatytų pagrindų sugrąžinti prašymą ar paklausimą pareiškėjui; ^s-a58c83d37d3f33ccbf0c9086
+2) išsiaiškina, ar nėra šio įstatymo [[#^s-7591bb54d235d52291ce524f|70]] ir [[#^s-0ce3ca6e8201c3403a1a5c6b|81]] straipsniuose nustatytų pagrindų sugrąžinti prašymą ar paklausimą pareiškėjui; ^s-a58c83d37d3f33ccbf0c9086
 
 
 3) nustato, kokius klausimus būtina išsiaiškinti iki bylos rengimo posėdžiui; ^s-c8829c065234ba89cf2e6d58
@@ -614,13 +614,13 @@ Atlikęs išankstinį tyrimą ir reikalingus parengiamuosius veiksmus, teisėjas
 1) Konstitucinio Teismo pirmininkui, siūlydamas priimti prašymą ar paklausimą ir pradėti rengti bylą Konstitucinio Teismo posėdžiui šio įstatymo [[#^s-5ddd66df1263018b45e867cb|27 straipsnio]] nustatyta tvarka, jeigu prašymas ar paklausimas yra žinybingas Konstituciniam Teismui ir atitinka kitus šio įstatymo reikalavimus; ^s-b265d9dfd793ddfe3cc58734
 
 
-2) Konstitucinio Teismo pirmininkui, siūlydamas sugrąžinti prašymą ar paklausimą pareiškėjui, jeigu medžiaga atitinka šio įstatymo 70 ir [[#^s-0ce3ca6e8201c3403a1a5c6b|81 straipsniuose]] nurodytas sąlygas; ^s-48d7787f864915dd9bf927be
+2) Konstitucinio Teismo pirmininkui, siūlydamas sugrąžinti prašymą ar paklausimą pareiškėjui, jeigu medžiaga atitinka šio įstatymo [[#^s-7591bb54d235d52291ce524f|70]] ir [[#^s-0ce3ca6e8201c3403a1a5c6b|81]] straipsniuose nurodytas sąlygas; ^s-48d7787f864915dd9bf927be
 
 
-3) Konstitucinio Teismo tvarkomajam posėdžiui, siūlydamas priimti sprendimą atsisakyti nagrinėti prašymą ar paklausimą, jeigu medžiaga atitinka šio įstatymo 69 ir [[#^s-25cb7ad0dccf5813bb40ed91|80 straipsniuose]] nurodytas sąlygas. ^s-acf1d81f9d09fa4d0bac52b0
+3) Konstitucinio Teismo tvarkomajam posėdžiui, siūlydamas priimti sprendimą atsisakyti nagrinėti prašymą ar paklausimą, jeigu medžiaga atitinka šio įstatymo [[#^s-5000114afa5f8b4125f80d08|69]] ir [[#^s-25cb7ad0dccf5813bb40ed91|80]] straipsniuose nurodytas sąlygas. ^s-acf1d81f9d09fa4d0bac52b0
 
 
-Spręsdamas šio straipsnio pirmosios dalies 1 ir [[#^s-48d7787f864915dd9bf927be|2 punktuose]] nurodytus klausimus, Konstitucinio Teismo pirmininkas priima potvarkius. Jei dėl minėtų klausimų tarp teisėjo ir Konstitucinio Teismo pirmininko kyla nesutarimų, tokie klausimai perduodami svarstyti ir spręsti Konstitucinio Teismo tvarkomajam posėdžiui.
+Spręsdamas šio straipsnio pirmosios dalies [[#^s-b265d9dfd793ddfe3cc58734|1]] ir [[#^s-48d7787f864915dd9bf927be|2]] punktuose nurodytus klausimus, Konstitucinio Teismo pirmininkas priima potvarkius. Jei dėl minėtų klausimų tarp teisėjo ir Konstitucinio Teismo pirmininko kyla nesutarimų, tokie klausimai perduodami svarstyti ir spręsti Konstitucinio Teismo tvarkomajam posėdžiui.
 
 
 
@@ -716,7 +716,7 @@ Nr. XIII-2328, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12391
 
 
 
-5) atsisakyti nagrinėti bylą šio įstatymo 69 ir [[#^s-25cb7ad0dccf5813bb40ed91|80 straipsniuose]] nustatyta tvarka. ^s-d117ce82c7e1e539089c4c75
+5) atsisakyti nagrinėti bylą šio įstatymo [[#^s-5000114afa5f8b4125f80d08|69]] ir [[#^s-25cb7ad0dccf5813bb40ed91|80]] straipsniuose nustatyta tvarka. ^s-d117ce82c7e1e539089c4c75
 Straipsnio punkto numeracijos pakeitimas:
 Nr. XII-1775, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09619
 Nr. XIII-2328, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12391
@@ -748,7 +748,7 @@ Bylų pagal Respublikos Prezidento dekretus, kuriuose prašoma ištirti, ar Vyri
 Bylos pagal Seimo paklausimus, ar Respublikos Prezidento sveikatos būklė leidžia jam eiti pareigas, ar Seimo narių ir valstybės pareigūnų, kuriems pradėta apkaltos byla, konkretūs veiksmai prieštarauja Konstitucijai, nagrinėjamos skubos tvarka.
 
 
-Bylos pagal paklausimus, ar nebuvo pažeistas Lietuvos Respublikos rinkimų kodeksas  rengiant ir vykdant rinkimus konkrečioje rinkimų apygardoje per Respublikos Prezidento ar Seimo narių rinkimus, išnagrinėjamos per šio įstatymo [[#^s-3eaad4e65d903d081ce5377f|77 straipsnio]] trečiojoje dalyje nustatytą laiką.
+Bylos pagal paklausimus, ar nebuvo pažeistas [Lietuvos Respublikos rinkimų kodeksas](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5)  rengiant ir vykdant rinkimus konkrečioje rinkimų apygardoje per Respublikos Prezidento ar Seimo narių rinkimus, išnagrinėjamos per šio įstatymo [[#^s-3eaad4e65d903d081ce5377f|77 straipsnio]] trečiojoje dalyje nustatytą laiką.
 Straipsnio dalies pakeitimai:
 Nr. XIV-1386, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15857
 
@@ -971,10 +971,10 @@ Nr. XIII-2328, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12391
 Konstitucinis Teismas turi teisę skirti baudą piliečiams ir dalyvaujančių byloje asmenų atstovams – iki vieno paskutinio paskelbto šalies ūkio vidutinio mėnesinio darbo užmokesčio (toliau – VMDU) dydžio, o pareigūnams – iki 4 VMDU dydžio už kiekvieną pažeidimo atvejį.
 
 
-Kai šio straipsnio pirmojoje dalyje nurodyti pažeidimai padaromi posėdžio metu, Konstitucinio Teismo sprendimas dėl baudos paskyrimo priimamas posėdžio metu nedelsiant. Kitais atvejais sprendimas dėl baudos paskyrimo priimamas po ištyrimo. Visais atvejais Konstitucinio Teismo sprendimas dėl baudos paskyrimo įrašomas į posėdžio protokolą, kur nurodoma pažeidėjo vardas, pavardė, darbovietė ir adresas.
+Kai šio straipsnio pirmojoje dalyje nurodyti pažeidimai padaromi posėdžio metu, Konstitucinio Teismo sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) paskyrimo priimamas posėdžio metu nedelsiant. Kitais atvejais sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) paskyrimo priimamas po ištyrimo. Visais atvejais Konstitucinio Teismo sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) paskyrimo įrašomas į posėdžio protokolą, kur nurodoma pažeidėjo vardas, pavardė, darbovietė ir adresas.
 
 
-Konstitucinio Teismo sprendimas dėl baudos paskyrimo (posėdžio protokolo išrašas) siunčiamas teismo anstoliui vykdyti.
+Konstitucinio Teismo sprendimas [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) paskyrimo (posėdžio protokolo išrašas) siunčiamas teismo anstoliui vykdyti.
 
 
 Straipsnio pakeitimai:
@@ -1212,7 +1212,7 @@ Konstitucinis Teismas, atidėdamas bylos nagrinėjimą, gali paskirti kito posė
 Atidėdamas pradėtos bylos nagrinėjimą, Teismas gali apklausti atvykusius liudytojus, kurie iš naujo paprastai nebešaukiami.
 
 
-Atidėjus bylos nagrinėjimą šio straipsnio pirmosios dalies 3 ir [[#^s-503a8188755cbb8977adc0b2|4 punktuose]] nustatytais pagrindais, atidėtas bylos nagrinėjimas atnaujinamas gavus atitinkamai iš Europos Žmogaus Teisių Teismo konsultacinę išvadą arba iš Europos Sąjungos Teisingumo Teismo prejudicinį sprendimą.
+Atidėjus bylos nagrinėjimą šio straipsnio pirmosios dalies [[#^s-79f32cc78ea7d8f70f4389eb|3]] ir [[#^s-503a8188755cbb8977adc0b2|4]] punktuose nustatytais pagrindais, atidėtas bylos nagrinėjimas atnaujinamas gavus atitinkamai iš Europos Žmogaus Teisių Teismo konsultacinę išvadą arba iš Europos Sąjungos Teisingumo Teismo prejudicinį sprendimą.
 Papildyta straipsnio dalimi:
 Nr. XII-1775, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09619
 Straipsnio dalies pakeitimai:
@@ -1966,7 +1966,7 @@ pareiškėjui
 Konstitucinio Teismo pirmininkas savo iniciatyva arba teisėjo siūlymu grąžina pareiškėjui prašymą, jeigu:
 
 
-1) prašymas arba jo priedai neatitinka šio įstatymo 66 ir [[#^s-9091d1f0f5f1899fbed134cf|67 straipsniuose]] nustatytų reikalavimų; ^s-4c26a581cec954c85bcd0ff7
+1) prašymas arba jo priedai neatitinka šio įstatymo [[#^s-8df9791044dcc82c2c92ad1f|66]] ir [[#^s-9091d1f0f5f1899fbed134cf|67]] straipsniuose nustatytų reikalavimų; ^s-4c26a581cec954c85bcd0ff7
 
 
 2) Konstitucijos 106 straipsnio ketvirtojoje dalyje nurodytas asmuo neišnaudojo visų įstatymuose nustatytų savo konstitucinių teisių ar laisvių gynybos priemonių, įskaitant teisę kreiptis į teismą; ^s-574ef92b38cfc9aa1f816a53
@@ -1997,7 +1997,7 @@ Konstitucinis Teismas, baigęs nagrinėti bylą dėl teisės akto atitikimo Kons
 2) pripažinti, kad teisės aktas prieštarauja Konstitucijai ar įstatymams. ^s-00c15d3c6cfa3169f85414a9
 
 
-Šio straipsnio pirmosios [[#^s-00c15d3c6cfa3169f85414a9|dalies 2 punkte]] numatytu atveju nurodoma, kuriems konkretiems Konstitucijos straipsniams ar jų nuostatoms arba kokiems konkretiems įstatymams teisės aktas prieštarauja.
+Šio straipsnio pirmosios dalies 2 punkte numatytu atveju nurodoma, kuriems konkretiems Konstitucijos straipsniams ar jų nuostatoms arba kokiems konkretiems įstatymams teisės aktas prieštarauja.
 
 
 Tais atvejais, kai teisės akto dalis buvo pripažinta atitinkanti Konstituciją ar įstatymus, o kita dalis pripažinta prieštaraujanti Konstitucijai ar įstatymams, apie tai tiksliai nurodoma Konstitucinio Teismo nutarime.
@@ -2036,7 +2036,7 @@ V SKYRIUS. PAKLAUSIMŲ DĖL IŠVADOS NAGRINĖJIMAS
 Konstitucinis Teismas teikia išvadas:
 
 
-1) ar nebuvo pažeistas Rinkimų kodeksas per Respublikos Prezidento ar Seimo narių rinkimus; ^s-bcaa9fe6bd0862adf42f9ba9
+1) ar nebuvo pažeistas [Rinkimų kodeksas](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) per Respublikos Prezidento ar Seimo narių rinkimus; ^s-bcaa9fe6bd0862adf42f9ba9
 Straipsnio punkto pakeitimai:
 Nr. XIV-1386, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15857
 
@@ -2127,10 +2127,10 @@ Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
 ### 77 straipsnis. Paklausimas dėl Rinkimų kodekso pažeidimo ^s-3eaad4e65d903d081ce5377f
 
 
-Su paklausimu, ar nebuvo pažeistas Rinkimų kodeksas rengiant ir vykdant rinkimus konkrečioje rinkimų apygardoje per Respublikos Prezidento ar Seimo narių rinkimus, šio įstatymo [[#^s-c1a976f1d691f2307ed29afd|74 straipsnyje]] nurodytos institucijos kreipiasi į Konstitucinį Teismą ne vėliau kaip per 3 dienas po to, kai oficialiai paskelbiamas Vyriausiosios rinkimų komisijos sprendimas dėl rinkimų galutinių rezultatų toje rinkimų apygardoje nustatymo arba dėl laisvos Seimo nario vietos atsiradimo ar užėmimo.
+Su paklausimu, ar nebuvo pažeistas [Rinkimų kodeksas](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) rengiant ir vykdant rinkimus konkrečioje rinkimų apygardoje per Respublikos Prezidento ar Seimo narių rinkimus, šio įstatymo [[#^s-c1a976f1d691f2307ed29afd|74 straipsnyje]] nurodytos institucijos kreipiasi į Konstitucinį Teismą ne vėliau kaip per 3 dienas po to, kai oficialiai paskelbiamas Vyriausiosios rinkimų komisijos sprendimas dėl rinkimų galutinių rezultatų toje rinkimų apygardoje nustatymo arba dėl laisvos Seimo nario vietos atsiradimo ar užėmimo.
 
 
-Konstitucinis Teismas tiria ir vertina tik Vyriausiosios rinkimų komisijos sprendimus arba jos atsisakymą nagrinėti skundus dėl Rinkimų kodekso pažeidimų tais atvejais, kai sprendimai buvo priimti ar kita šios komisijos veika buvo padaryta pasibaigus balsavimui renkant Seimo narius ar Respublikos Prezidentą.
+Konstitucinis Teismas tiria ir vertina tik Vyriausiosios rinkimų komisijos sprendimus arba jos atsisakymą nagrinėti skundus dėl [Rinkimų kodekso](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) pažeidimų tais atvejais, kai sprendimai buvo priimti ar kita šios komisijos veika buvo padaryta pasibaigus balsavimui renkant Seimo narius ar Respublikos Prezidentą.
 
 
 Paklausimas turi būti išnagrinėtas ne vėliau kaip per 120 valandų nuo jo įteikimo Konstituciniam Teismui. Į šiame straipsnyje nurodytus terminus įskaitomos ir ne darbo dienos.part_0be725b9a28b415790f62ad1341aaf9f Straipsnio pakeitimai:
@@ -2200,7 +2200,7 @@ Paklausimo grąžinimas neatima teisės kreiptis į Konstitucinį Teismą bendra
 ### 82 straipsnis. Paklausimų nagrinėjimo Konstituciniame Teisme tvarka ^s-315258da06b1ec0123ca0db0
 
 
-Paklausimai dėl Lietuvos Respublikos tarptautinių sutarčių atitikimo Konstitucijai nagrinėjami pagal teisės aktų atitikimo Konstitucijai tyrimo bendras taisykles.
+Paklausimai [dėl Lietuvos Respublikos tarptautinių sutarčių](https://e-tar.lt/portal/lt/legalAct/TAR.BC4A20CEA4A8) atitikimo Konstitucijai nagrinėjami pagal teisės aktų atitikimo Konstitucijai tyrimo bendras taisykles.
 
 
 Kiti paklausimai nagrinėjami Konstitucinio Teismo nuožiūra laikantis paprastesnės procedūros. Kilę nesutarimai sprendžiami pagal šiame įstatyme nustatytas taisykles.
@@ -2389,7 +2389,7 @@ Nr. X-1774, 2008-11-06, Žin., 2008, Nr. 131-5024 (2008-11-15)
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1806, 2008-11-11, Žin., 2008, Nr. 134-5179 (2008-11-22)
-[[#^s-71631b5bc6903a45d3cb5e46|KONSTITUCINIO TEISMO ĮSTATYMO 5, 8, 10, 15, 16, 53, 55 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 16(1) STRAIPSNIU ĮSTATYMAS
+KONSTITUCINIO TEISMO ĮSTATYMO [[#^s-122a971b538014e39352ba6d|5]], [[#^s-1c7589f41a6c3dc34487f82b|8]], [[#^s-67ebee5e5f98bd7103b4a548|10]], [[#^s-e3104c6c022a286cf7ee6f63|15]], [[#^s-411886b624e7f03b8d2afe53|16]], [[#^s-429ae71b3482c6b4c5566da8|53]], [[#^s-71631b5bc6903a45d3cb5e46|55]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 16(1) STRAIPSNIU ĮSTATYMAS
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2399,7 +2399,7 @@ Nr. XI-1311, 2011-04-12, Žin., 2011, Nr. 49-2366 (2011-04-28)
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1783, 2011-12-06, Žin., 2011, Nr. 154-7262 (2011-12-17)
-[[#^s-368e89d8d8e7e66c47d562ca|KONSTITUCINIO TEISMO ĮSTATYMO 27, 41, 44 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 53(1) STRAIPSNIU ĮSTATYMAS
+KONSTITUCINIO TEISMO ĮSTATYMO [[#^s-5ddd66df1263018b45e867cb|27]], [[#^s-6f426c0a11510b7e49ce6ff2|41]], [[#^s-368e89d8d8e7e66c47d562ca|44]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 53(1) STRAIPSNIU ĮSTATYMAS
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2418,7 +2418,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2006-03-28, Žin., 2006, Nr. 36-1292 (2006-03-31)
-DĖL LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO ĮSTATYMO 62 STRAIPSNIO 1 DALIES 2 PUNKTO, 69 STRAIPSNIO 4 DALIES (1996 M. LIEPOS 11 D. REDAKCIJA), [[latest/TAR.522B3E415B52#^s-b261ba0d5f45482edec4bca8|LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 11 STRAIPSNIO 3 DALIES]] (2002 M. SAUSIO 24 D. REDAKCIJA), 96 STRAIPSNIO 2 DALIES (2002 M. SAUSIO 24 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS KONSTITUCINIO TEISMO ĮSTATYMO 62 STRAIPSNIO 1 DALIES 2 PUNKTO, 69 STRAIPSNIO 4 DALIES (1996 M. LIEPOS 11 D. REDAKCIJA), LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO 11 STRAIPSNIO 3 DALIES (2002 M. SAUSIO 24 D. REDAKCIJA), 96 STRAIPSNIO 2 DALIES (2002 M. SAUSIO 24 D. REDAKCIJA) ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.A85826406B37)
 
 
 
@@ -2428,22 +2428,22 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1775, 2015-06-11, paskelbta TAR 2015-06-16, i. k. 2015-09619
-Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 28 ir [[#^s-8fe55b6decd8e097f1dd416a|49 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 [[#^s-ad1d2b2d3c91dc739b4ab0c1|28]] ir [[#^s-8fe55b6decd8e097f1dd416a|49]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1703, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08037
-Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 6, 9, 14, 19, 26, 29, 32, 40, 52, 53-1, 55, 58, 60, 61, 62, 66, 67, 72, 76, 77 ir [[#^s-0ae617dbcb487a4e0cb99adb|84 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 [[#^s-5bb9bc97592388a27a45746a|6]], [[#^s-2e63e2233ed85d0249760909|9]], [[#^s-351859da1eec95c78afef9aa|14]], [[#^s-e7457659877bfa53731d2839|19]], [[#^s-1852065a7487ea5a1f5513a7|26]], [[#^s-47a1de94b9321446f648d675|29]], [[#^s-adeb81ff3dc1be0c25268285|32]], [[#^s-36752b2e11f95273b9520044|40]], [[#^s-606c9464f806bcc3e2bf9d6c|52]], 53-1, [[#^s-71631b5bc6903a45d3cb5e46|55]], [[#^s-b6300f4474318de9b0a1aea2|58]], [[#^s-d7ba166fe6560adad3e7ba5c|60]], [[#^s-ea0b3bdcb986d4053410de4f|61]], [[#^s-c5bac54c123ecddf0ac2be97|62]], [[#^s-8df9791044dcc82c2c92ad1f|66]], [[#^s-9091d1f0f5f1899fbed134cf|67]], [[#^s-d2eb61de9a59fd276465e22e|72]], [[#^s-0d8ab89fe493370e254cb4f6|76]], [[#^s-3eaad4e65d903d081ce5377f|77]] ir [[#^s-0ae617dbcb487a4e0cb99adb|84]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2328, 2019-07-16, paskelbta TAR 2019-07-26, i. k. 2019-12391
-Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 3, 13, 24, 28, 31, 32, 39, 40, 46, 48, 49, 53-1, 61, 65, 66, 67, 68, 69, 70, 76, 84, 86, [[#^s-46e63f1fde7e11ab5f3dc3e0|88 straipsnių]] pakeitimo ir Įstatymo papildymo 67-1 ir 67-2 straipsniais įstatymas
+Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 [[#^s-a9b876cdcc5e73f2d8429fc3|3]], [[#^s-a81f216f0bbf8402d73248d2|13]], [[#^s-11a9ccb93d85bbe30b34dd06|24]], [[#^s-ad1d2b2d3c91dc739b4ab0c1|28]], [[#^s-759b229c89c5ee66a62f6c0b|31]], [[#^s-adeb81ff3dc1be0c25268285|32]], [[#^s-714963362e7e26980ac347bd|39]], [[#^s-36752b2e11f95273b9520044|40]], [[#^s-8249f9ed530c98a269935f55|46]], [[#^s-c2d2a18116d4c131e00b83ba|48]], [[#^s-8fe55b6decd8e097f1dd416a|49]], 53-1, [[#^s-ea0b3bdcb986d4053410de4f|61]], [[#^s-b7482b78b316f4350116a7c5|65]], [[#^s-8df9791044dcc82c2c92ad1f|66]], [[#^s-9091d1f0f5f1899fbed134cf|67]], [[#^s-8bb204371407fe188a0b7df5|68]], [[#^s-5000114afa5f8b4125f80d08|69]], [[#^s-7591bb54d235d52291ce524f|70]], [[#^s-0d8ab89fe493370e254cb4f6|76]], [[#^s-0ae617dbcb487a4e0cb99adb|84]], [[#^s-6e0e7c6bd9d4833db4d7ccef|86]], [[#^s-46e63f1fde7e11ab5f3dc3e0|88]] straipsnių pakeitimo ir Įstatymo papildymo 67-1 ir 67-2 straipsniais įstatymas
 
 4.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT41-N4/2020, 2020-03-09, paskelbta TAR 2020-03-09, i. k. 2020-05178
-Dėl [[latest/TAR.522B3E415B52#^s-32cfe4c990ea0f8ab5968d2f|Lietuvos Respublikos teismų įstatymo 47 straipsnio]] (2013 m. gruodžio 23 d. redakcija) [[#^s-f919fc14aa0eb7bec2de120a|2 dalies]], [[#^s-1c7589f41a6c3dc34487f82b|Lietuvos Respublikos Konstitucinio Teismo įstatymo 8 straipsnio]] (2008 m. lapkričio 11 d. redakcija) [[#^s-1a152487fada6a43fa770e84|4 dalies]] atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos teismų įstatymo 47 straipsnio (2013 m. gruodžio 23 d. redakcija) 2 dalies, Lietuvos Respublikos Konstitucinio Teismo įstatymo 8 straipsnio (2008 m. lapkričio 11 d. redakcija) 4 dalies atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/9b02781061fa11eabee4a336e7e6fdab)
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2453,9 +2453,9 @@ Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 [[#^s-1c7589f41a6c3
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-426, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14589
-Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 papildymo 41-1 straipsniu ir 42, 65, 66, 67, 67-1, [[#^s-0d8ab89fe493370e254cb4f6|76 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 papildymo 41-1 straipsniu ir [[#^s-04824a915927a45c6fb302a9|42]], [[#^s-b7482b78b316f4350116a7c5|65]], [[#^s-8df9791044dcc82c2c92ad1f|66]], [[#^s-9091d1f0f5f1899fbed134cf|67]], 67-1, [[#^s-0d8ab89fe493370e254cb4f6|76]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1386, 2022-07-19, paskelbta TAR 2022-07-20, i. k. 2022-15857
-Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 29, 73 ir [[#^s-3eaad4e65d903d081ce5377f|77 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos Konstitucinio Teismo įstatymo Nr. I-67 [[#^s-47a1de94b9321446f648d675|29]], [[#^s-8e1a152d740d2bd9b3b48522|73]] ir [[#^s-3eaad4e65d903d081ce5377f|77]] straipsnių pakeitimo įstatymas

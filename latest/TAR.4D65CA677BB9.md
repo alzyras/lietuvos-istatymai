@@ -101,7 +101,7 @@ Vilnius
 ### 6 straipsnis. 14 straipsnio 4 ir 5 dalių pakeitimas ^s-afd3fdb5550431e470ad68a1
 
 
-14 straipsnio 4 ir [[#^s-5ac5d44c46d695d4d232a509|5 dalyse]] vietoj žodžių „Valstybinės veterinarijos tarnybos“, „Valstybinė veterinarijos tarnyba“ įrašyti žodžius „Valstybinės maisto ir veterinarijos tarnybos“, „Valstybinė maisto ir veterinarijos tarnyba“ ir šias dalis išdėstyti taip:
+14 straipsnio 4 ir 5 dalyse vietoj žodžių „Valstybinės veterinarijos tarnybos“, „Valstybinė veterinarijos tarnyba“ įrašyti žodžius „Valstybinės maisto ir veterinarijos tarnybos“, „Valstybinė maisto ir veterinarijos tarnyba“ ir šias dalis išdėstyti taip:
 
 
 „4. Laboratorinių gyvūnų veisimą, auginimą, laikymą ir naudojimą bandymams reguliuoja Valstybinės maisto ir veterinarijos tarnybos patvirtintos taisyklės.

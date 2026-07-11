@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos konsulinio mokesčio įstatymo 3, 6 straipsni
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - 2 citatos - Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatyme
+- [[latest/TAR.A7F77DF94F5D|Lietuvos Respublikos socialinio draudimo pensijų įstatymas]] - Lietuvos Respublikos valstybinių socialinio draudimo pensijų įstatyme
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.B2F1F575D794#^s-aedc2931b7a7c34b79801aa7|Lietuvos Respublikos konsulinio mokesčio įstatymas]] - Įstatymas Nr. XI-468
-- [[latest/TAR.B2F1F575D794#^s-ba7d47857151f5a98753cc56|Lietuvos Respublikos konsulinio mokesčio įstatymas]] - Įstatymas Nr. XI-468
+_Nėra._

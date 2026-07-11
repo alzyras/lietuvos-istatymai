@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-2fb370516858488af4209e1c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. sausio 9 d. dekretą Nr. 1K-858, ratifikuoja 1991 m. lapkričio 18 d. Ženevoje priimtą 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos Protokolą dėl išmetamų lakiųjų organinių junginių kiekių ir jų tarpvalstybinių pernašų ribojimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. sausio 9 d. dekretą Nr. 1K-858](https://e-tar.lt/portal/lt/legalAct/TAR.8F8D7CA1715F), ratifikuoja 1991 m. lapkričio 18 d. Ženevoje priimtą 1979 metų Tolimų tarpvalstybinių oro teršalų pernašų konvencijos Protokolą dėl išmetamų lakiųjų organinių junginių kiekių ir jų tarpvalstybinių pernašų ribojimo.
 
 
 

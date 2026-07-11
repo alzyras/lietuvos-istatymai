@@ -56,7 +56,7 @@ Vilnius
 2. Pakeisti 4 straipsnio 1 dalies 1 punktą ir jį išdėstyti taip: ^s-7405de818a4b75a3b2759f41
 
 
-„1) asmenys, dirbantys pagal darbo sutartis, kandidatai į notarus (asesoriai), asmenys, atlygintinai einantys narystės pagrindu renkamąsias pareigas ar paskirti į savivaldybių, apylinkių rinkimų ir miestų, rajonų, apylinkių referendumo komisijas, asmenys, susiję su draudėju darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]], tuo pačiu metu iš šio draudėjo gaunantys pajamas iš sporto veiklos ar atlikėjo veiklos, taip pat šiame punkte ir šio straipsnio 1 dalies 2 punkte ar [[#^s-7405de818a4b75a3b2759f41|2 dalyje]] išvardyti asmenys – nuolatiniai Lietuvos gyventojai, kaip jie apibrėžti [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]], gaunantys pajamas pagal autorines sutartis iš draudėjo – Lietuvos vieneto, kaip ši sąvoka apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]];“.
+„1) asmenys, dirbantys pagal darbo sutartis, kandidatai į notarus (asesoriai), asmenys, atlygintinai einantys narystės pagrindu renkamąsias pareigas ar paskirti į savivaldybių, apylinkių rinkimų ir miestų, rajonų, apylinkių referendumo komisijas, asmenys, susiję su draudėju darbo santykiais arba jų esmę atitinkančiais santykiais taip, kaip šie santykiai apibrėžti [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]], tuo pačiu metu iš šio draudėjo gaunantys pajamas iš sporto veiklos ar atlikėjo veiklos, taip pat šiame punkte ir šio straipsnio 1 dalies 2 punkte ar 2 dalyje išvardyti asmenys – nuolatiniai Lietuvos gyventojai, kaip jie apibrėžti [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]], gaunantys pajamas pagal autorines sutartis iš draudėjo – Lietuvos vieneto, kaip ši sąvoka apibrėžta [[latest/TAR.C677663D2202|Gyventojų pajamų mokesčio įstatyme]];“.
 
 
 3. Pakeisti 4 straipsnio 3 dalį ir ją išdėstyti taip: ^s-f7d84ff88db3f739de38cfdc
@@ -192,4 +192,4 @@ Nr. XII-727, 2013-12-23, Žin., 2013, Nr. 140-7086 (2013-12-30); paskelbta TAR 2
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1409, 2014-12-11, paskelbta TAR 2014-12-22, i. k. 2014-20432
-Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 4, 7, 8, 16, 19 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-1792 [[#^s-797eef6ddcb4f79a664a306b|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos valstybinio socialinio draudimo įstatymo [[#^s-f433cfaa552a75dafbc8c8bc|4]], 7, 8, 16, 19 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-1792 [[#^s-797eef6ddcb4f79a664a306b|2 straipsnio]] pakeitimo įstatymas

@@ -104,7 +104,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 1. Grynųjų pinigų sumos deklaruojamos šiais atvejais: ^s-eb963829f8e4077169aaca28
 
 
-1) kai asmuo per Lietuvos Respubliką į Europos Sąjungą iš trečiųjų šalių įveža ar iš Europos Sąjungos per Lietuvos Respubliką išveža į trečiąsias šalis, kaip jos reglamentuotos [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatyme]] (toliau šiame straipsnyje – trečiosios šalys), grynųjų pinigų vienkartinę sumą, kurios vertė yra ne mažesnė kaip nurodytoji 2005 m. spalio 26 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1889/2005 dėl grynųjų pinigų, įvežamų į Bendriją ar išvežamų iš jos, kontrolės (toliau – Reglamentas (EB) Nr. 1889/2005) nuostatų [[#^s-eb963829f8e4077169aaca28|3 straipsnio 1 dalyje]]; ^s-3c178e5bcf096e3d3588ab20
+1) kai asmuo per Lietuvos Respubliką į Europos Sąjungą iš trečiųjų šalių įveža ar iš Europos Sąjungos per Lietuvos Respubliką išveža į trečiąsias šalis, kaip jos reglamentuotos [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatyme]] (toliau šiame straipsnyje – trečiosios šalys), grynųjų pinigų vienkartinę sumą, kurios vertė yra ne mažesnė kaip nurodytoji 2005 m. spalio 26 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1889/2005](https://eur-lex.europa.eu/eli/reg/1889/2005/oj) dėl grynųjų pinigų, įvežamų į Bendriją ar išvežamų iš jos, kontrolės (toliau – [Reglamentas (EB) Nr. 1889/2005](https://eur-lex.europa.eu/eli/reg/1889/2005/oj)) nuostatų [[#^s-eb963829f8e4077169aaca28|3 straipsnio 1 dalyje]]; ^s-3c178e5bcf096e3d3588ab20
 
 
 2) Muitinės pareikalavimu, kai asmuo į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išveža ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įveža ar į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabena grynuosius pinigus, kurių vienkartinė suma viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta. ^s-5beeee28f511a98a95d7e246
@@ -113,13 +113,13 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 2. Muitinės įstaigos atlieka: ^s-49b33ba09e242c104b80280a
 
 
-1) į Europos Sąjungą per Lietuvos Respubliką iš trečiųjų šalių įvežamų ir iš Europos Sąjungos per Lietuvos Respubliką į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę vadovaudamosi Reglamento (EB) Nr. 1889/2005 nuostatomis; ^s-75ad704b5041734734a16798
+1) į Europos Sąjungą per Lietuvos Respubliką iš trečiųjų šalių įvežamų ir iš Europos Sąjungos per Lietuvos Respubliką į trečiąsias šalis išvežamų grynųjų pinigų sumų kontrolę vadovaudamosi [Reglamento (EB) Nr. 1889/2005](https://eur-lex.europa.eu/eli/reg/1889/2005/oj) nuostatomis; ^s-75ad704b5041734734a16798
 
 
 2) į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išvežamų ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įvežamų ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabenamų grynųjų pinigų, kurių vienkartinė suma viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta, kontrolę. ^s-ecde83a856dfbc2e10d534d0
 
 
-3. Reglamento (EB) Nr. 1889/2005 nustatytais atvejais, kai Europos Sąjungos valstybėms narėms suteikta sprendimo priėmimo teisė, sprendimus priima ir atitinkamų Reglamento (EB) Nr. 1889/2005 nuostatų taikymo Lietuvos Respublikoje tvarką nustato Vyriausybė arba jos įgaliota institucija, išskyrus atvejus, kai šis arba kiti įstatymai nustato kitaip. ^s-3bf875ab58361edc0254ef4d
+3. [Reglamento (EB) Nr. 1889/2005](https://eur-lex.europa.eu/eli/reg/1889/2005/oj) nustatytais atvejais, kai Europos Sąjungos valstybėms narėms suteikta sprendimo priėmimo teisė, sprendimus priima ir atitinkamų [Reglamento (EB) Nr. 1889/2005](https://eur-lex.europa.eu/eli/reg/1889/2005/oj) nuostatų taikymo Lietuvos Respublikoje tvarką nustato Vyriausybė arba jos įgaliota institucija, išskyrus atvejus, kai šis arba kiti įstatymai nustato kitaip. ^s-3bf875ab58361edc0254ef4d
 
 
 4. Į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išvežamų ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įvežamų ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabenamų grynųjų pinigų deklaravimo ir kilmės kontrolės tvarką nustato Muitinės departamentas prie Lietuvos Respublikos finansų ministerijos. ^s-964252c7c8711c608627ea1f
@@ -128,7 +128,7 @@ Pakeisti 18 straipsnį ir jį išdėstyti taip:
 5. Muitinės įstaigos privalo nedelsdamos, bet ne vėliau kaip per 7 darbo dienas, pranešti Finansinių nusikaltimų tyrimo tarnybai: ^s-4d1bbc97b95638ed184eedd3
 
 
-1) jeigu asmuo įveža iš trečiųjų šalių į Europos Sąjungą per Lietuvos Respubliką ar išveža iš Europos Sąjungos per Lietuvos Respubliką į trečiąsias šalis grynųjų pinigų vienkartinę sumą, kurios vertė yra ne mažesnė kaip nurodytoji Reglamento (EB) Nr. 1889/2005 [[#^s-eb963829f8e4077169aaca28|3 straipsnio 1 dalyje]]; ^s-0bd7a7669651038d7cfccb8c
+1) jeigu asmuo įveža iš trečiųjų šalių į Europos Sąjungą per Lietuvos Respubliką ar išveža iš Europos Sąjungos per Lietuvos Respubliką į trečiąsias šalis grynųjų pinigų vienkartinę sumą, kurios vertė yra ne mažesnė kaip nurodytoji [Reglamento (EB) Nr. 1889/2005 3 straipsnio 1 dalyje](https://eur-lex.europa.eu/eli/reg/1889/2005/art_3/par_1/oj); ^s-0bd7a7669651038d7cfccb8c
 
 
 2) jeigu asmuo į kitas Europos Sąjungos valstybes nares iš Lietuvos Respublikos išveža ir iš kitų Europos Sąjungos valstybių narių į Lietuvos Respubliką įveža ar per Lietuvos Respubliką į kitas Europos Sąjungos valstybes nares ir iš kitų Europos Sąjungos valstybių narių gabena grynųjų pinigų, kurių vienkartinė suma viršija 10 000 eurų ar ją atitinkančią sumą užsienio valiuta.“ ^s-b05219836259ea6e9866f030

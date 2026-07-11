@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-5dd69ef411316f6c0411d50c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. vasario 22 d. dekretą Nr. 1K-970, ratifikuoja Lietuvos Respublikos Vyriausybės ir Norvegijos Karalystės Vyriausybės susitarimą dėl įslaptintos informacijos abipusės apsaugos, pasirašytą 2011 m. kovo 24 d. Vilniuje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. vasario 22 d. dekretą Nr. 1K-970](https://e-tar.lt/portal/lt/legalAct/TAR.47452DB12DB8), ratifikuoja Lietuvos Respublikos Vyriausybės ir Norvegijos Karalystės Vyriausybės susitarimą dėl įslaptintos informacijos abipusės apsaugos, pasirašytą 2011 m. kovo 24 d. Vilniuje.
 
 
 

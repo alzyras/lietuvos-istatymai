@@ -48,7 +48,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio 1 ir 4 dalių pakeitimas ^s-bbf2dd36800c9fe3e7cb9a0d
 
 
-1. Pakeisti [[#^s-587cb81cb505888714a52965|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-587cb81cb505888714a52965
+1. Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip: ^s-587cb81cb505888714a52965
 
 
 „1. Šis Kodeksas nustato civilinių, darbo, šeimos, intelektinės nuosavybės, konkurencijos, bankroto, restruktūrizavimo, viešųjų pirkimų bylų ir kitų bylų dėl privatinių teisinių santykių bei ypatingosios teisenos bylų nagrinėjimo ir sprendimų priėmimo bei vykdymo, prašymų dėl užsienio teismų sprendimų ir arbitražų sprendimų pripažinimo ir vykdymo Lietuvos Respublikoje tvarką, taip pat skundų dėl Lietuvos Respublikos teritorijoje veikiančio arbitražo sprendimų nagrinėjimo tvarką. Darbo, šeimos, intelektinės nuosavybės, konkurencijos, bankroto, restruktūrizavimo, viešųjų pirkimų bylos, bylos dėl turto paėmimo visuomenės poreikiams ir ypatingosios teisenos bylos nagrinėjamos pagal šio Kodekso taisykles, išskyrus išimtis, kurias nustato kiti Lietuvos Respublikos įstatymai.“
@@ -175,7 +175,7 @@ Pakeisti [[#^s-f5d1063b2f0ded400d21a322|22 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-4972a3acbc55890476e93a7a|26 straipsnis]]. Civilinių bylų rūšinis teismingumas
 
 
-Visas civilines bylas pirmąja instancija nagrinėja apylinkės teismai, išskyrus bylas, nurodytas šio Kodekso 27, [[#^s-05f293c21d8556856102d3e4|28 straipsniuose]].“
+Visas civilines bylas pirmąja instancija nagrinėja apylinkės teismai, išskyrus bylas, nurodytas šio Kodekso [[#^s-ea77c33acc300929d80f777f|27]], [[#^s-05f293c21d8556856102d3e4|28]] straipsniuose.“
 
 
 
@@ -488,7 +488,7 @@ Pakeisti [[#^s-f96cde82b2719a199ba1a1c6|49 straipsnį]] ir jį išdėstyti taip:
 ### 24 straipsnis. 55 straipsnio pakeitimas ^s-471b669e6926f643723940a2
 
 
-Pakeisti [[#^s-5e01de77eb7b4fc4f5eda6a9|55 straipsnio]] pavadinimą ir 1 dalį, 2 ir 3 dalis pripažinti netekusiomis galios ir šį straipsnį išdėstyti taip:
+Pakeisti [[#^s-5e01de77eb7b4fc4f5eda6a9|55 straipsnio]] pavadinimą ir 1 dalį, [[#^s-907a6a16ec4ee826342dde37|2]] ir [[#^s-c3ed19d341649805db345c87|3]] dalis pripažinti netekusiomis galios ir šį straipsnį išdėstyti taip:
 
 
 
@@ -663,7 +663,7 @@ Pakeisti ir papildyti [[#^s-0564a01e2924fc796a760d98|69 straipsnį]] ir jį išd
 4. Jeigu bylą nagrinėja teisėjų kolegija ir nušalinimas pareiškiamas ne visiems kolegijos nariams, nušalinimo klausimą išsprendžia teisėjai (teisėjas), kuriems nušalinimas nėra pareikštas. Jeigu balsų už ir prieš nušalinimą yra po lygiai, teisėjas laikomas nušalintu. ^s-2ce10e55d353f2fe8ad38ac0
 
 
-5. Jeigu dalyvaujantis byloje asmuo piktnaudžiauja nušalinimo teise, bylą nagrinėjantis teisėjas ar teisėjų kolegija išsprendžia nušalinimo klausimą ir pagal šio Kodekso [[#^s-bf3323c9fc69cbc570668ca9|95 straipsnio 2 dalį]] priima nutartį dėl baudos šiam asmeniui skyrimo. Teisę skirti baudą piktnaudžiaujančiam nušalinimo teise asmeniui turi ir [[#^s-40250dd1eaac705ad1925b5d|šio straipsnio 1 dalyje]] nurodyti asmenys, kurie sprendžia teisėjo (teisėjų) nušalinimo klausimą.“ ^s-5a7ac37d05819eef7abf3958
+5. Jeigu dalyvaujantis byloje asmuo piktnaudžiauja nušalinimo teise, bylą nagrinėjantis teisėjas ar teisėjų kolegija išsprendžia nušalinimo klausimą ir pagal šio Kodekso [[#^s-bf3323c9fc69cbc570668ca9|95 straipsnio 2 dalį]] priima nutartį [dėl baudos](https://e-tar.lt/portal/lt/legalAct/TAR.70AE77696C9E) šiam asmeniui skyrimo. Teisę skirti baudą piktnaudžiaujančiam nušalinimo teise asmeniui turi ir [[#^s-40250dd1eaac705ad1925b5d|šio straipsnio 1 dalyje]] nurodyti asmenys, kurie sprendžia teisėjo (teisėjų) nušalinimo klausimą.“ ^s-5a7ac37d05819eef7abf3958
 
 
 
@@ -1010,7 +1010,7 @@ Išlaidų, susijusių su procesinių dokumentų įteikimu, dydį bei apmokėjimo
 1. Papildyti [[#^s-5e4b30c5234a85476dca22e7|93 straipsnį]] nauja 4 dalimi: ^s-029b85207981ac3322fa6d0e
 
 
-„4. Teismas gali nukrypti nuo šio straipsnio 1, 2 ir [[#^s-2213f53a8d25af70344ff24c|3 dalyse]] nustatytų bylinėjimosi išlaidų paskirstymo taisyklių, atsižvelgdamas į tai, ar šalių procesinis elgesys buvo tinkamas, ir įvertindamas priežastis, dėl kurių susidarė bylinėjimosi išlaidos. Šalies procesinis elgesys laikomas tinkamu, jeigu ji sąžiningai naudojosi procesinėmis teisėmis ir sąžiningai atliko procesines pareigas.“
+„4. Teismas gali nukrypti nuo šio straipsnio 1, [[#^s-39a79728b3dd5bbca39b2063|2]] ir [[#^s-2213f53a8d25af70344ff24c|3]] dalyse nustatytų bylinėjimosi išlaidų paskirstymo taisyklių, atsižvelgdamas į tai, ar šalių procesinis elgesys buvo tinkamas, ir įvertindamas priežastis, dėl kurių susidarė bylinėjimosi išlaidos. Šalies procesinis elgesys laikomas tinkamu, jeigu ji sąžiningai naudojosi procesinėmis teisėmis ir sąžiningai atliko procesines pareigas.“
 
 
 2. Buvusią 93 straipsnio 4 dalį laikyti 5 dalimi. ^s-39a79728b3dd5bbca39b2063
@@ -1020,7 +1020,7 @@ Išlaidų, susijusių su procesinių dokumentų įteikimu, dydį bei apmokėjimo
 
 
 „6. Bylinėjimosi išlaidos, susidariusios dėl teismo kreipimosi į Konstitucinį Teismą ar kompetentingą Europos Sąjungos teisminę instituciją, taip pat dėl kreipimosi į administracinį teismą dėl norminio teisės akto teisėtumo, proceso dalyviams nepaskirstomos.“
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos civilinio proceso kodekso 93 straipsnio 6 dalis (2011 m. birželio 21 d. redakcija; Žin., 2011, Nr. 85-4126) prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-f95d0bdd57e0d5ddf8d486ff|30 straipsnio 1 daliai]], 109 straipsnio 1 daliai, konstituciniams teisinės valstybės, teisingumo principams.
+TAR pastaba. Pripažinti, kad [Lietuvos Respublikos civilinio proceso kodekso 93 straipsnio 6 dalis](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) (2011 m. birželio 21 d. redakcija; Žin., 2011, Nr. 85-4126) prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-f95d0bdd57e0d5ddf8d486ff|30 straipsnio 1 daliai]], 109 straipsnio 1 daliai, konstituciniams teisinės valstybės, teisingumo principams.
 Straipsnio dalies pakeitimai:
 Nr. KT22-N12/2018, 2018-12-14, paskelbta TAR 2018-12-14, i. k. 2018-20548
 
@@ -1066,7 +1066,7 @@ Pakeisti [[#^s-254325ee53ce353f9104657b|95 straipsnį]] ir jį išdėstyti taip:
 1. Papildyti [[#^s-87288a2202346409e586861f|96 straipsnį 5 dalimi]]: ^s-0da8c6154eddec8fd4f68bb0
 
 
-„5. Teismas gali nukrypti nuo šio straipsnio 1, 2 ir [[#^s-4b73c5d17f150d5117ede17d|3 dalyse]] nustatytų bylinėjimosi išlaidų atlyginimo valstybei taisyklių, atsižvelgdamas į tai, ar šalių procesinis elgesys buvo tinkamas, ir įvertindamas priežastis, dėl kurių susidarė bylinėjimosi išlaidos.“
+„5. Teismas gali nukrypti nuo šio straipsnio 1, [[#^s-de4732c174bff36b16c671c7|2]] ir [[#^s-4b73c5d17f150d5117ede17d|3]] dalyse nustatytų bylinėjimosi išlaidų atlyginimo valstybei taisyklių, atsižvelgdamas į tai, ar šalių procesinis elgesys buvo tinkamas, ir įvertindamas priežastis, dėl kurių susidarė bylinėjimosi išlaidos.“
 
 
 2. Papildyti [[#^s-e6f7b247d7a10cc5e8eb8511|96 straipsnį 6 dalimi]]: ^s-de4732c174bff36b16c671c7
@@ -1465,7 +1465,7 @@ Pakeisti [[#^s-4358b2adc97ee82177350fad|123 straipsnį]] ir jį išdėstyti taip
 4. Kai procesinį dokumentą pristatantis asmuo neranda adresato juridinio asmens buveinės vietoje ar kitoje juridinio asmens nurodytoje vietoje, procesinis dokumentas įteikiamas bet kuriam kitam įteikimo vietoje esančiam juridinio asmens darbuotojui. Kai šioje dalyje nustatyta tvarka procesinių dokumentų įteikti nepavyksta, procesinis dokumentas siunčiamas juridinio asmens buveinės adresu ir laikomas įteiktu praėjus dešimčiai dienų nuo išsiuntimo. ^s-2f3d9b86c5b2205ab24da56b
 
 
-5. Procesinio dokumento įteikimo diena laikoma jo įteikimo šio straipsnio 1–[[#^s-2f3d9b86c5b2205ab24da56b|4 dalyse]] numatytiems asmenims diena. Jeigu procesinis dokumentas įteikiamas ne pačiam adresatui, priėmęs dokumentą asmuo privalo esant pirmai galimybei perduoti jį adresatui. ^s-b72b8e583e4202ea0b5d7399
+5. Procesinio dokumento įteikimo diena laikoma jo įteikimo šio straipsnio [[#^s-72bc49bb57e472af7e5d2ee5|1]]–[[#^s-2f3d9b86c5b2205ab24da56b|4]] dalyse numatytiems asmenims diena. Jeigu procesinis dokumentas įteikiamas ne pačiam adresatui, priėmęs dokumentą asmuo privalo esant pirmai galimybei perduoti jį adresatui. ^s-b72b8e583e4202ea0b5d7399
 
 
 6. Dalyvaujantiems byloje asmenims yra įteikiamos procesinių dokumentų patvirtintos kopijos, išskyrus teismo šaukimus ir pranešimus.“ ^s-c4acd2ca2f98c9c5b6334cfa
@@ -1491,7 +1491,7 @@ Pakeisti [[#^s-329e0c9bb132c2e92d98e62b|124 straipsnį]] ir jį išdėstyti taip
 3. Teismo nustatytu terminu procesinius dokumentus įteikiantis asmuo pateikia teismui informaciją apie procesinio dokumento įteikimo datą, procesinį dokumentą priėmusį asmenį ir jo ryšį su adresatu arba einamas pareigas, kai įteikiama ne pačiam adresatui, apie atsisakymą priimti procesinį dokumentą arba pasirašyti ir atsisakymo priežastis, apie tai, kad procesinio dokumento įteikti nepavyko, ir neįvykusio įteikimo priežastis arba apie procesinio dokumento persiuntimą teismo nurodytu kitu įteikimo adresu. Įteikiant teismo šaukimus ir ieškinius (pareiškimus, skundus, atsiliepimus į ieškinį, dublikus), apeliacinius (atskiruosius) skundus, kasacinius skundus šio Kodekso 117 straipsnio 2 dalyje nustatyta tvarka, teismui taip pat turi būti pristatytas adresato pasirašytas patvirtinimas dėl procesinio dokumento gavimo. ^s-7797a56cd752dd3d814b47cd
 
 
-4. Kai nėra galimybės arba nepavyksta procesinius dokumentus dalyvaujančiam byloje asmeniui įteikti asmeniškai ir nėra galimybės arba nepavyksta procesinius dokumentus įteikti šio Kodekso [[#^s-4358b2adc97ee82177350fad|123 straipsnio]] 3 ir [[#^s-04c7802216fbb5aebd507140|4 dalyse]] nustatyta tvarka, procesiniai dokumentai įteikiami šio Kodekso 129, [[#^s-0ac153340da54b8705023f3f|130 straipsniuose]] nustatyta tvarka.“ ^s-04c7802216fbb5aebd507140
+4. Kai nėra galimybės arba nepavyksta procesinius dokumentus dalyvaujančiam byloje asmeniui įteikti asmeniškai ir nėra galimybės arba nepavyksta procesinius dokumentus įteikti šio Kodekso [[#^s-4358b2adc97ee82177350fad|123 straipsnio]] 3 ir 4 dalyse nustatyta tvarka, procesiniai dokumentai įteikiami šio Kodekso [[#^s-4a34785047c0f5c270ca93a2|129]], [[#^s-0ac153340da54b8705023f3f|130]] straipsniuose nustatyta tvarka.“ ^s-04c7802216fbb5aebd507140
 
 
 
@@ -2263,7 +2263,7 @@ Pakeisti [[#^s-ae8b2a12a5f0887b1d683318|162 straipsnį]] ir jį išdėstyti taip
 5. Įspėjimas ir pašalinimas iš teismo posėdžių salės įforminami vadovaujantis atitinkamai šio Kodekso [[#^s-4aee1a45987f1bb98fde9638|104 straipsnio 2 dalimi]] ir [[#^s-64fc8e22adcd3dcf235ac74d|105 straipsnio 2 dalimi]]. ^s-8906ec146f1fbebb19c55c0d
 
 
-6. Šio straipsnio 2, 3 ir [[#^s-27e5fe96fbd4412976403552|4 dalyse]] nurodytiems asmenims, piktybiškai nepaklususiems teismo posėdžio pirmininko patvarkymui arba pažeidusiems tvarką teismo posėdžio metu, teismo nutartimi skiriama iki vieno tūkstančio litų bauda arba areštas iki penkiolikos parų. ^s-8ac4d08dcd01824720909587
+6. Šio straipsnio [[#^s-039dc503e233738845684607|2]], [[#^s-e3718e629224db22ef7ae2c3|3]] ir [[#^s-27e5fe96fbd4412976403552|4]] dalyse nurodytiems asmenims, piktybiškai nepaklususiems teismo posėdžio pirmininko patvarkymui arba pažeidusiems tvarką teismo posėdžio metu, teismo nutartimi skiriama iki vieno tūkstančio litų bauda arba areštas iki penkiolikos parų. ^s-8ac4d08dcd01824720909587
 
 
 7. Jeigu tvarką teismo posėdyje pažeidžia ir teismo posėdžio pirmininko patvarkymų neklauso advokatas, teismas gali apie tai pranešti Advokatų tarybai.“ ^s-99b4de5c6747bf2c5b3ea6a5
@@ -2273,7 +2273,7 @@ Pakeisti [[#^s-ae8b2a12a5f0887b1d683318|162 straipsnį]] ir jį išdėstyti taip
 ### 109 straipsnis. XII skyriaus antrojo skirsnio pakeitimas ir papildymas ^s-97bb91037e4664f6743808ba
 
 
-Pakeisti XII skyriaus antrojo skirsnio pavadinimą, skirsnį papildyti 1621, 1622, [[#^s-c42d07f187d681c1d9f09625|1623 straipsniais]], pakeisti 163, 164, 165, 166 straipsnius ir 167 straipsnio pavadinimą ir visą skirsnį išdėstyti taip:
+Pakeisti XII skyriaus antrojo skirsnio pavadinimą, skirsnį papildyti [[#^s-77ab6ab48f5ccd34ee6f93e1|1621]], [[#^s-b2b9bb6e2cb302da0d173f74|1622]], [[#^s-c42d07f187d681c1d9f09625|1623]] straipsniais, pakeisti 163, 164, 165, 166 straipsnius ir 167 straipsnio pavadinimą ir visą skirsnį išdėstyti taip:
 
 
 
@@ -2388,25 +2388,25 @@ Dėl teismo nutarties sustabdyti bylą, išskyrus nutartį sustabdyti bylą dėl
 1. Byla sustabdoma: ^s-5f6c451d5958a1f4af2e48e3
 
 
-1) šio Kodekso 163 straipsnio 1 ir [[#^s-83598324290e37afdc2c168f|2 punktuose]] numatytais atvejais – iki paaiškės mirusio fizinio asmens ar pasibaigusio juridinio asmens teisių perėmėjas ar aplinkybės, dėl kurių teisių perėmimas neįvyko, arba iki bus paskirtas neveiksnaus fizinio asmens atstovas pagal įstatymą; ^s-66803db2722a3f8f3d46d6ee
+1) šio Kodekso 163 straipsnio [[#^s-3bd61e19b9520c2f278deafe|1]] ir [[#^s-548b48b7fa63c060187da22e|2]] punktuose numatytais atvejais – iki paaiškės mirusio fizinio asmens ar pasibaigusio juridinio asmens teisių perėmėjas ar aplinkybės, dėl kurių teisių perėmimas neįvyko, arba iki bus paskirtas neveiksnaus fizinio asmens atstovas pagal įstatymą; ^s-66803db2722a3f8f3d46d6ee
 
 
-2) šio Kodekso [[#^s-a31291cb31e17a42230c1f7e|163 straipsnio 3 punkte]] numatytais atvejais – iki įsiteisės teismo sprendimas, nuosprendis, nutartis ar nutarimas arba iki bus priimtas nutarimas byloje, nagrinėjamoje administracine tvarka; ^s-83598324290e37afdc2c168f
+2) šio Kodekso [[#^s-63fda788ee557a4307052a62|163 straipsnio 3 punkte]] numatytais atvejais – iki įsiteisės teismo sprendimas, nuosprendis, nutartis ar nutarimas arba iki bus priimtas nutarimas byloje, nagrinėjamoje administracine tvarka; ^s-83598324290e37afdc2c168f
 
 
-3) šio Kodekso [[#^s-561534db2bb74302241f44ae|163 straipsnio 4 punkte]] numatytais atvejais – iki bus išnagrinėta baudžiamoji byla arba bus panaikintas laikinasis nuosavybės teisių apribojimas; ^s-41d04d78bf9687ad3abb6272
+3) šio Kodekso [[#^s-f555d9a72e3e512bc85e1f93|163 straipsnio 4 punkte]] numatytais atvejais – iki bus išnagrinėta baudžiamoji byla arba bus panaikintas laikinasis nuosavybės teisių apribojimas; ^s-41d04d78bf9687ad3abb6272
 
 
-4) šio Kodekso [[#^s-53ee2263cd89b9207ac481f1|163 straipsnio 6 punkte]] numatytais atvejais – iki komercinio banko laikinojo administratoriaus įgaliojimų pabaigos; ^s-fd4935f9a09a9bb0beba7c4e
+4) šio Kodekso 163 straipsnio 6 punkte numatytais atvejais – iki komercinio banko laikinojo administratoriaus įgaliojimų pabaigos; ^s-fd4935f9a09a9bb0beba7c4e
 
 
-5) šio Kodekso [[#^s-ce461cf3577c9d2bb8f20ae1|164 straipsnio 3 punkte]] numatytais atvejais – iki šalis baigs tarnybą Lietuvos Respublikos krašto apsaugos dalinyje, kuriame paskelbta karinė padėtis; ^s-e69617294f50a3c5e9ffb9f5
+5) šio Kodekso 164 straipsnio 3 punkte numatytais atvejais – iki šalis baigs tarnybą Lietuvos Respublikos krašto apsaugos dalinyje, kuriame paskelbta karinė padėtis; ^s-e69617294f50a3c5e9ffb9f5
 
 
 6) kitais šio Kodekso 163 ir 164 straipsniuose numatytais atvejais – iki bus pašalintos aplinkybės, dėl kurių buvo sustabdyta byla. ^s-7c0ef8d428c6fda6671e4d82
 
 
-2. Šio Kodekso [[#^s-f9f1b0127366c77ee75a773b|163 straipsnio 5 punkte]] numatytais atvejais sustabdyta byla perduodama bankroto bylą iškėlusiam teismui, o šis ją atnaujina ir prideda prie bankroto bylos. ^s-5a26b6dfe86d9ba602f92262
+2. Šio Kodekso 163 straipsnio 5 punkte numatytais atvejais sustabdyta byla perduodama bankroto bylą iškėlusiam teismui, o šis ją atnaujina ir prideda prie bankroto bylos. ^s-5a26b6dfe86d9ba602f92262
 
 
 3. Sustabdžius bylos nagrinėjimą, jokie procesiniai veiksmai byloje neatliekami, išskyrus klausimų dėl laikinųjų apsaugos priemonių sprendimą. ^s-e5c2afdd2e55d1344099b3a2
@@ -2498,7 +2498,7 @@ Dalyvaujantys byloje asmenys turi teisę susipažinti su protokolu ir per tris d
 ### 115 straipsnis. XII skyriaus trečiojo skirsnio pakeitimas ^s-fbe6e2156e7983844240ce31
 
 
-Pakeisti 168 straipsnį, 169, 170, 171, [[#^s-ed65ea6f91430e5df3bbe8ff|172 straipsnius]] pripažinti netekusiais galios ir XII skyriaus trečiąjį skirsnį išdėstyti taip:
+Pakeisti 168 straipsnį, [[#^s-d69c5959ed11cfda6b89c674|169]], [[#^s-31b18d434c011bedc477960e|170]], [[#^s-816ff6d4c9082cff81fa9a0f|171]], [[#^s-ed65ea6f91430e5df3bbe8ff|172]] straipsnius pripažinti netekusiais galios ir XII skyriaus trečiąjį skirsnį išdėstyti taip:
 
 
 
@@ -2566,7 +2566,7 @@ INFORMACINIŲ IR ELEKTRONINIŲ RYŠIŲ TECHNOLOGIJŲ NAUDOJIMAS TEISMO PROCESE
 4. Dalyvaujantys byloje asmenys privalo nedelsdami pranešti teismui ir kitiems dalyvaujantiems byloje asmenims apie kiekvieną savo elektroninio pašto adreso, telefono ir fakso numerių, taip pat kitų elektroninių ryšių priemonių adresų pasikeitimą. ^s-97a8024fa9121941d390b57f
 
 
-5. Kai byla vedama per advokatą, be šio Kodekso 135 ir [[#^s-52d7ff5de03a17e14922aed5|142 straipsniuose]] nustatytų reikalavimų, atitinkamai ieškinyje arba atsiliepime į ieškinį taip pat nurodomas advokato elektroninio pašto adresas, telefono ir fakso numeriai, kitų turimų elektroninių ryšių priemonių adresai. ^s-06b90c11bea15b191e556811
+5. Kai byla vedama per advokatą, be šio Kodekso [[#^s-56951417922c59ca4635f59e|135]] ir [[#^s-52d7ff5de03a17e14922aed5|142]] straipsniuose nustatytų reikalavimų, atitinkamai ieškinyje arba atsiliepime į ieškinį taip pat nurodomas advokato elektroninio pašto adresas, telefono ir fakso numeriai, kitų turimų elektroninių ryšių priemonių adresai. ^s-06b90c11bea15b191e556811
 
 
 6. Elektroninės formos procesiniai dokumentai, pateikti teismui elektroninių ryšių priemonėmis asmens tapatybę patvirtinus [[latest/TAR.522B3E415B52#^s-0dc9a196f70a82a3f4abec65|Teismų įstatyme nustatytais būdais, atitinka šio Kodekso 111 straipsnyje]] nustatytą reikalavimą, kad procesinis dokumentas turi būti pasirašytas. ^s-22ba8bd573964314f8ddc591
@@ -3087,7 +3087,7 @@ Pakeisti ir papildyti [[#^s-eb7715d0a1f46de36bfef249|250 straipsnį]] ir jį iš
 1. Įrodymų tyrimas pradedamas dalyvaujančių byloje asmenų paaiškinimų tyrimu. Pirmas teismo posėdyje paaiškinimus duoda ieškovas ir jo pusėje dalyvaujantis trečiasis asmuo, po to – atsakovas ir jo pusėje dalyvaujantis trečiasis asmuo, taip pat kiti byloje dalyvaujantys asmenys. Dalyvaujantys byloje asmenys turi teisę užduoti vienas kitam klausimų. Kiekvienam dalyvaujančiam byloje asmeniui turi būti suteikiama galimybė pareikšti savo nuomonę dėl kiekvieno kito dalyvaujančio byloje asmens pareiškimo ir prašymo. Teismo posėdžio pirmininkas šio Kodekso numatytais atvejais balsu perskaito rašytinius dalyvaujančių byloje asmenų paaiškinimus, taip pat paaiškinimus, teismo gautus teismo pavedimo įvykdymo ir įrodymų užtikrinimo tvarka. ^s-9f6cd4e9ad482a5029ad1634
 
 
-2. Išklausęs dalyvaujančių byloje asmenų paaiškinimus, teismas šio Kodekso 186–[[#^s-1a74460cb4a27ed716817494|220 straipsniuose]] nustatyta tvarka ištiria visus kitus byloje esančius įrodymus. ^s-82979d54725bfe157b4ea312
+2. Išklausęs dalyvaujančių byloje asmenų paaiškinimus, teismas šio Kodekso [[#^s-b712bdd0c4481a93deb028c6|186]]–[[#^s-1a74460cb4a27ed716817494|220]] straipsniuose nustatyta tvarka ištiria visus kitus byloje esančius įrodymus. ^s-82979d54725bfe157b4ea312
 
 
 3. Byloje esantys procesiniai dokumentai, įteikti šio Kodekso nustatyta tvarka, teismo posėdžio metu neskaitomi, išskyrus atvejus, kai dalyvaujantys byloje asmenys nežino jų turinio arba kai reikia tiksliai cituoti procesinį dokumentą.“ ^s-27072c66ac24417742129088
@@ -3220,10 +3220,10 @@ Pakeisti [[#^s-a9bed4eaff41d87de937651b|269 straipsnį]] ir jį išdėstyti taip
 1. Teismas, išnagrinėjęs bylą, gali nutarti sprendimą priimti ir paskelbti ne vėliau kaip per dvidešimt dienų. Šiuo laikotarpiu teisėjas gali nagrinėti kitas bylas. Sprendimas priimamas per teismo nustatytą terminą, o sprendimo paskelbimo data laikoma priėmimo data. Sprendimui priimti ir paskelbti taikomi šio Kodekso [[#^s-5edf0640af7a033ca983d1c7|268 straipsnyje]] nustatyti reikalavimai. ^s-65711a54b9789377b609799d
 
 
-2. Nutartis dėl sprendimo priėmimo ir paskelbimo gali būti teismo priimta ir neišeinant į sprendimų priėmimo kambarį. ^s-3087f16f3940d9fd6ad13619
+2. Nutartis [dėl sprendimo priėmimo](https://e-tar.lt/portal/lt/legalAct/8ed63190bdd311e688d0ed775a2e782a) ir paskelbimo gali būti teismo priimta ir neišeinant į sprendimų priėmimo kambarį. ^s-3087f16f3940d9fd6ad13619
 
 
-3. Nutartyje dėl sprendimo priėmimo ir paskelbimo teismas nurodo sprendimo paskelbimo datą. ^s-90ec1d30441b111f8826b1db
+3. Nutartyje [dėl sprendimo priėmimo](https://e-tar.lt/portal/lt/legalAct/8ed63190bdd311e688d0ed775a2e782a) ir paskelbimo teismas nurodo sprendimo paskelbimo datą. ^s-90ec1d30441b111f8826b1db
 
 
 4. Kai suserga ar dėl kitų objektyvių priežasčių procese negali dalyvauti bylą nagrinėjantis teisėjas, kiti teisėjų kolegijos teisėjai, o kai bylą nagrinėja vienas teisėjas, – teismo pirmininkas ar Civilinių bylų skyriaus pirmininkas gali motyvuota nutartimi nustatyti kitą, negu buvo nurodyta [[#^s-90ec1d30441b111f8826b1db|šio straipsnio 3 dalyje]] numatytoje nutartyje, sprendimo priėmimo ir paskelbimo datą. Apie nustatytą naują datą pranešama dalyvaujantiems byloje asmenims. Jeigu šios priežastys neišnyksta per protingą laiką, teismo pirmininkas ar Civilinių bylų skyriaus pirmininkas paskiria naujos sudėties bylą nagrinėjantį teismą ir nustato bylos nagrinėjimo datą.“ ^s-990d770ea04173afb36e4413
@@ -4205,7 +4205,7 @@ Pakeisti [[#^s-179ee1e29ed9cb7f3af9580a|345 straipsnį]] ir jį išdėstyti taip
 2. 350 straipsnio 5 dalyje prieš skaičių „3“ išbraukti skaičių „2“ ir šią dalį išdėstyti taip: ^s-1376f93b71b770bd8fb81031
 
 
-„5. Jeigu kasacinį skundą atsisakoma priimti [[#^s-1376f93b71b770bd8fb81031|šio straipsnio 2 dalies]] 3, 4, 5, 7 punktuose nurodytais pagrindais, tai kasatorius, ištaisęs trūkumus, turi teisę iš naujo paduoti kasacinį skundą, nepažeisdamas šio Kodekso [[#^s-179ee1e29ed9cb7f3af9580a|345 straipsnyje]] nustatyto termino. Toks kasacinis skundas nelaikomas pakartotiniu.“
+„5. Jeigu kasacinį skundą atsisakoma priimti šio straipsnio 2 dalies 3, 4, 5, 7 punktuose nurodytais pagrindais, tai kasatorius, ištaisęs trūkumus, turi teisę iš naujo paduoti kasacinį skundą, nepažeisdamas šio Kodekso [[#^s-179ee1e29ed9cb7f3af9580a|345 straipsnyje]] nustatyto termino. Toks kasacinis skundas nelaikomas pakartotiniu.“
 
 
 3. Pakeisti 350 straipsnio 7 dalį ir ją išdėstyti taip: ^s-a7f58f4af975c534ded1c863
@@ -4832,7 +4832,7 @@ Be šio Kodekso 429 straipsnio 1 dalyje nustatytų būdų, atsakovui procesiniai
 1. Pakeisti 430 straipsnio 2 dalį ir ją išdėstyti taip: ^s-0809bbc1c289ccc6fafdbefe
 
 
-„2. Priėmęs atsakovo prieštaravimus, teismas ne vėliau kaip kitą darbo dieną ieškovui išsiunčia atsakovo prieštaravimų kopiją ir priedus, išskyrus atvejus, kai pagal šio Kodekso nuostatas pateiktas tik vienas priedų egzempliorius. Ieškovas turi teisę per keturiolika dienų nuo teismo pranešimo įteikimo dienos pateikti atsiliepimą į atsakovo prieštaravimus ir savo reikalavimams pagrįsti atsiliepime nurodyti papildomus motyvus, ir pateikti naujus įrodymus. Gautą ieškovo atsiliepimą į atsakovo prieštaravimus teismas ne vėliau kaip per tris darbo dienas išsiunčia atsakovui. Dokumentiniam procesui netaikomos šio Kodekso 225–[[#^s-bddddbb3b0ba8ed33e916cde|233 straipsniuose]] numatytos pasirengimo bylų nagrinėjimui taisyklės.“
+„2. Priėmęs atsakovo prieštaravimus, teismas ne vėliau kaip kitą darbo dieną ieškovui išsiunčia atsakovo prieštaravimų kopiją ir priedus, išskyrus atvejus, kai pagal šio Kodekso nuostatas pateiktas tik vienas priedų egzempliorius. Ieškovas turi teisę per keturiolika dienų nuo teismo pranešimo įteikimo dienos pateikti atsiliepimą į atsakovo prieštaravimus ir savo reikalavimams pagrįsti atsiliepime nurodyti papildomus motyvus, ir pateikti naujus įrodymus. Gautą ieškovo atsiliepimą į atsakovo prieštaravimus teismas ne vėliau kaip per tris darbo dienas išsiunčia atsakovui. Dokumentiniam procesui netaikomos šio Kodekso [[#^s-efa826598e1fe142aa8d8ea0|225]]–[[#^s-bddddbb3b0ba8ed33e916cde|233]] straipsniuose numatytos pasirengimo bylų nagrinėjimui taisyklės.“
 
 
 2. 430 straipsnio 4 dalyje išbraukti žodžius „bei pareikšti priešieškinį“ ir šią dalį išdėstyti taip: ^s-9d57be31198c6369511f4e8e
@@ -4963,7 +4963,7 @@ Pakeisti 435 straipsnį ir jį išdėstyti taip:
 1. Kreditoriaus pareiškimo priėmimo klausimas išsprendžiamas ne vėliau kaip kitą darbo dieną nuo jo padavimo teismui dienos. Jeigu kreditoriaus pareiškimas atitinka šiame skyriuje nustatytus reikalavimus, išduodamas teismo įsakymas ir nesurašoma teismo nutartis ar teisėjo rezoliucija dėl pareiškimo priėmimo. ^s-255aad094078b1c1031aa348
 
 
-2. Teismas nutartimi atsisako priimti pareiškimą dėl teismo įsakymo išdavimo, jeigu yra šio Kodekso 137 straipsnio 2 dalyje nurodytos aplinkybės, jeigu pareiškimas neatitinka šio Kodekso 431 straipsnio 1 ir [[#^s-67d20f1c951b4d59e70a059f|2 dalyse]] numatytų leistinumo reikalavimų arba jeigu pareiškimas yra aiškiai nepagrįstas. Nutartis atsisakyti priimti pareiškimą gali būti skundžiama atskiruoju skundu. ^s-67d20f1c951b4d59e70a059f
+2. Teismas nutartimi atsisako priimti pareiškimą dėl teismo įsakymo išdavimo, jeigu yra šio Kodekso 137 straipsnio 2 dalyje nurodytos aplinkybės, jeigu pareiškimas neatitinka šio Kodekso 431 straipsnio 1 ir 2 dalyse numatytų leistinumo reikalavimų arba jeigu pareiškimas yra aiškiai nepagrįstas. Nutartis atsisakyti priimti pareiškimą gali būti skundžiama atskiruoju skundu. ^s-67d20f1c951b4d59e70a059f
 
 
 3. Spręsdamas pareiškimo priėmimo ir teismo įsakymo išdavimo klausimus teismas netikrina kreditoriaus reikalavimo pagrįstumo. ^s-2b7f71e22e538c47da04a145
@@ -5256,7 +5256,7 @@ Pakeisti 488 straipsnio 7 dalį ir ją išdėstyti taip:
 ### 261 straipsnis. 519 straipsnio pakeitimas ^s-752f06f447a59c7e322b4e28
 
 
-519 straipsnio 1 dalyje vietoj žodžio „laikraštyje“ įrašyti žodžius „šio Kodekso 518 straipsnyje nurodytu būdu“, 2 ir [[#^s-4aa8e3c1d9ecd1e5f6cf7a38|3 dalyse]] vietoj žodžių „nuorašą“ įrašyti žodžius „kopiją“ ir šį straipsnį išdėstyti taip:
+519 straipsnio 1 dalyje vietoj žodžio „laikraštyje“ įrašyti žodžius „šio Kodekso 518 straipsnyje nurodytu būdu“, 2 ir 3 dalyse vietoj žodžių „nuorašą“ įrašyti žodžius „kopiją“ ir šį straipsnį išdėstyti taip:
 
 
 
@@ -6426,7 +6426,7 @@ Pakeisti 681 straipsnio 3 dalį ir ją išdėstyti taip:
 2. 682 straipsnio 2 dalyje išbraukti žodį „savo“, vietoj žodžio „neskundžiamas“ įrašyti žodžius „turi būti motyvuotas ir gali būti skundžiamas teismui“ ir šią dalį išdėstyti taip: ^s-952543ae914154779b8c9566
 
 
-„2. Jeigu išieškotojas ar skolininkas pareiškia motyvuotus prieštaravimus dėl ekspertizės išvados, jų prašymu antstolis patvarkymu gali skirti papildomą ar pakartotinę ekspertizę. Antstolio patvarkymas atsisakyti skirti papildomą ar pakartotinę ekspertizę turi būti motyvuotas ir gali būti skundžiamas teismui.“
+„2. Jeigu išieškotojas ar skolininkas pareiškia motyvuotus prieštaravimus [dėl ekspertizės](https://e-tar.lt/portal/lt/legalAct/TAR.CE0C6BC088F0) išvados, jų prašymu antstolis patvarkymu gali skirti papildomą ar pakartotinę ekspertizę. Antstolio patvarkymas atsisakyti skirti papildomą ar pakartotinę ekspertizę turi būti motyvuotas ir gali būti skundžiamas teismui.“
 
 
 3. Pakeisti 682 straipsnio 3 dalį ir ją išdėstyti taip: ^s-607289bb3aa7d0754e09e7d3
@@ -7512,22 +7512,22 @@ Prašymai dėl leidimo vykdyti užsienio teismų (arbitražų) sprendimus nagrin
 ### 387 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-8d8f4dd19ecafe9e8b9a6d06
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2, 3, 4 ir [[#^s-a2bd3c5b57a34ac0a0239345|5 dalyse]] nurodytas išimtis ir [[#^s-cb3012073497b340794ff45c|388 straipsnį]], įsigalioja 2011 m. spalio 1 d. ^s-b976f4348facd080429d6833
+1. Šis įstatymas, išskyrus šio straipsnio [[#^s-b56f35a3906c14a5a77abf3d|2]], [[#^s-40ccd86770b4fb9c266a96b0|3]], [[#^s-e65e686e8ec69456ec7b6fc9|4]] ir [[#^s-a2bd3c5b57a34ac0a0239345|5]] dalyse nurodytas išimtis ir [[#^s-cb3012073497b340794ff45c|388 straipsnį]], įsigalioja 2011 m. spalio 1 d. ^s-b976f4348facd080429d6833
 
 
-2. Šio įstatymo [[#^s-bd1414cc0ddadeaa982635b3|331 straipsnio 2 dalis]], 334, 336, 337, 338, 339, 340, 342, 343, 344 ir [[#^s-c51ac262ffb99303c1d13b7e|352 straipsniai]] įsigalioja 2013 m. sausio 1 d. ^s-b56f35a3906c14a5a77abf3d
+2. Šio įstatymo [[#^s-bd1414cc0ddadeaa982635b3|331 straipsnio 2 dalis]], [[#^s-a97a52f458242c20bbec3956|334]], [[#^s-ec1bc93c13193f89954e74f3|336]], [[#^s-6c1fb721def05c1416050b32|337]], [[#^s-2501ff27117a088af7780644|338]], [[#^s-04b26dc62a2a7b817d173116|339]], [[#^s-58a802749427a17fb83c0d62|340]], [[#^s-a74e0456c95160ad08562dd0|342]], [[#^s-16cde99063e2cc0bb8af0093|343]], [[#^s-f6cfb19f8e181ecbb3ec322b|344]] ir [[#^s-c51ac262ffb99303c1d13b7e|352]] straipsniai įsigalioja 2013 m. sausio 1 d. ^s-b56f35a3906c14a5a77abf3d
 
 
-3. Šio įstatymo [[#^s-617382b643d565ced97ab21e|117 straipsnyje]] išdėstytas Lietuvos Respublikos civilinio proceso kodekso [[#^s-5a3b8885ac5566b5ebd2e54e|1752 straipsnis]] įsigalioja 2013 m. kovo 1 d. ^s-40ccd86770b4fb9c266a96b0
+3. Šio įstatymo [[#^s-617382b643d565ced97ab21e|117 straipsnyje]] išdėstytas [Lietuvos Respublikos civilinio proceso kodekso 1752 straipsnis](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) įsigalioja 2013 m. kovo 1 d. ^s-40ccd86770b4fb9c266a96b0
 
 
-4. Šio įstatymo [[#^s-617382b643d565ced97ab21e|117 straipsnyje]] išdėstyti Lietuvos Respublikos civilinio proceso kodekso XII skyriaus ketvirtojo skirsnio pavadinimas ir [[#^s-2f645f8234b2a77cb5aaffbd|1751 straipsnis]], 234, 237, 297 ir [[#^s-91432b39a3dfb7689aac210c|385 straipsniai]] įsigalioja 2013 m. liepos 1 d. ^s-e65e686e8ec69456ec7b6fc9
+4. Šio įstatymo [[#^s-617382b643d565ced97ab21e|117 straipsnyje]] išdėstyti [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) XII skyriaus ketvirtojo skirsnio pavadinimas ir [[#^s-2f645f8234b2a77cb5aaffbd|1751 straipsnis]], [234](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [237](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F), [297](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) ir [385](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) straipsniai įsigalioja 2013 m. liepos 1 d. ^s-e65e686e8ec69456ec7b6fc9
 
 
 5. Šio įstatymo [[#^s-fbe6e2156e7983844240ce31|115 straipsnis]] įsigalioja 2014 m. sausio 1 d. ^s-a2bd3c5b57a34ac0a0239345
 
 
-6. Šio įstatymo 37, [[#^s-98d9a77617b096845aea6769|39 straipsniai]], [[#^s-de4732c174bff36b16c671c7|51 straipsnio 2 dalis]], [[#^s-16775e8efa91b04ea7fe778d|125 straipsnio 3 dalis]], 278, 279, [[#^s-5e8e067ddaf99706ee423a18|294 straipsniai]], [[#^s-1518f11eb91de1c20bc6dafc|303 straipsnio 1 dalis]], 320, 324, 368, 369 ir [[#^s-804ef539002dcc9ce1c3285f|370 straipsniai]] įsigalioja 2011 m. lapkričio 1 d. ^s-efabfaa6a26839ef8c1e2d61
+6. Šio įstatymo [[#^s-f36476fa9b37a59f97439bbe|37]], [[#^s-98d9a77617b096845aea6769|39]] straipsniai, [[#^s-de4732c174bff36b16c671c7|51 straipsnio 2 dalis]], [[#^s-16775e8efa91b04ea7fe778d|125 straipsnio 3 dalis]], [[#^s-44fde8446bc683fee41b4266|278]], [[#^s-14f273ee99c3bc4db7fed9a6|279]], [[#^s-5e8e067ddaf99706ee423a18|294]] straipsniai, [[#^s-1518f11eb91de1c20bc6dafc|303 straipsnio 1 dalis]], [[#^s-1bb624c8eaa31801440479dd|320]], [[#^s-6c4d7aee5a9e81fcc297b2e3|324]], [[#^s-e993fb1331c0d4c493cddb2d|368]], [[#^s-207cfcead4258fc8447d2f0b|369]] ir [[#^s-804ef539002dcc9ce1c3285f|370]] straipsniai įsigalioja 2011 m. lapkričio 1 d. ^s-efabfaa6a26839ef8c1e2d61
 
 
 7. Šio įstatymo [[#^s-05e9e76bad12479a19555fdc|330 straipsnis]] įsigalioja 2012 m. liepos 1 d. ^s-8e4a8ed3bc6829bb25410174
@@ -7566,4 +7566,4 @@ Nr. XII-72, 2012-12-20, Žin., 2012, Nr. 153-7824 (2012-12-29), i. k. [[latest/T
 2.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT22-N12/2018, 2018-12-14, paskelbta TAR 2018-12-14, i. k. 2018-20548
-Dėl Lietuvos Respublikos civilinio proceso kodekso 93 straipsnio 6 dalies atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos civilinio proceso kodekso 93 straipsnio 6 dalies atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/6126b940ffa311e8a969c20aa4d38bd4)

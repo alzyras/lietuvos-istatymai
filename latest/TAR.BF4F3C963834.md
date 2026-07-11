@@ -413,7 +413,7 @@ Akredituotų įstaigų registravimas
 2. Jeigu Lietuvoje nėra galiojančių įstaigos veiklai reikalingų teisės aktų ar norminių dokumentų, įstaiga parengia ir įstaigos vadovas įsakymu patvirtina įstaigos standartus, sveikatos priežiūros metodikas ir vidaus tvarkos taisykles. ^s-fea2a0a800a3def062f09413
 
 
-3. Įstaigų standartai, sveikatos priežiūros metodikos ir vidaus tvarkos taisyklės turi neprieštarauti Lietuvoje galiojantiems teisės aktams ir [[#^s-b33a8ae2153488ded839d1c3|šio straipsnio 1 dalies]] 2, 3 ir [[#^s-6ecb0291328efcb1df427d35|4 punktuose]] išvardytiems norminiams dokumentams. ^s-23ba2a72c0936bf63745078e
+3. Įstaigų standartai, sveikatos priežiūros metodikos ir vidaus tvarkos taisyklės turi neprieštarauti Lietuvoje galiojantiems teisės aktams ir [[#^s-b33a8ae2153488ded839d1c3|šio straipsnio 1 dalies]] [[#^s-f021289925195ed2a63261da|2]], [[#^s-124f19a00f21745204904c1b|3]] ir [[#^s-6ecb0291328efcb1df427d35|4]] punktuose išvardytiems norminiams dokumentams. ^s-23ba2a72c0936bf63745078e
 
 
 4. Įstaigų įstatus (nuostatus) tvirtina jų steigėjai įstatymų nustatyta tvarka. ^s-8c136bc01889c5cf948f5f03
@@ -557,7 +557,7 @@ Pelno siekiančios sveikatos priežiūros įstaigos
 ### 18 straipsnis. Lietuvos Respublikos teisės aktai, nustatantys pelno siekiančių įstaigų steigimą, reorganizavimą, likvidavimą ^s-4b71d1bc493db1d01c2caf88
 
 
-Pelno siekiančių sveikatos priežiūros įstaigų (toliau – pelno siekiančios įstaigos), akredituotų paslaugoms teikti, taip pat įmonių, kurios verčiasi kita (ne sveikatos priežiūros) veikla, paslaugoms teikti akredituotų filialų steigimo reorganizavimo, likvidavimo klausimus reguliuoja Įmonių įstatymas, Įmonių rejestrų įstatymas, atskirų įmonių rūšių įstatymai, kiti įstatymai bei teisės aktai.
+Pelno siekiančių sveikatos priežiūros įstaigų (toliau – pelno siekiančios įstaigos), akredituotų paslaugoms teikti, taip pat įmonių, kurios verčiasi kita (ne sveikatos priežiūros) veikla, paslaugoms teikti akredituotų filialų steigimo reorganizavimo, likvidavimo klausimus reguliuoja [Įmonių įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.4FB9F4D3ED6B), Įmonių rejestrų įstatymas, atskirų įmonių rūšių įstatymai, kiti įstatymai bei teisės aktai.
 
 
 
@@ -1060,7 +1060,7 @@ Viešą konkursą valstybės aukštųjų mokyklų, valstybinių mokslo įstaigų
 3. Likviduojamos viešosios įstaigos dokumentai saugomi [[latest/TAR.1FEF229DA7C6|Archyvų įstatymo]] nustatyta tvarka. ^s-db81b407f140d91ecd127896
 
 
-4. Likviduojant įstaigą, jos darbuotojai atleidžiami Darbo sutarties įstatymo nustatyta tvarka. ^s-c28a89abe88de051f273ad7e
+4. Likviduojant įstaigą, jos darbuotojai atleidžiami [Darbo sutarties įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA) nustatyta tvarka. ^s-c28a89abe88de051f273ad7e
 
 
 5. Sudarius viešosios įstaigos likvidavimo aktą, apie įstaigos likvidavimą viešai skelbiama du kartus ne mažesniu kaip vieno mėnesio intervalu. ^s-9cd3dbe5770afa6e06f37e48
@@ -1166,7 +1166,7 @@ LNSS viešųjų ir valstybės visuomenės sveikatos priežiūros viešųjų įst
 11) medicininės reabilitacijos, sanatorinio gydymo įstaigos, įrašytos į Sveikatos apsaugos ministerijos patvirtintą sąrašą. ^s-83620a99cc3ca8bc3e2206ab
 
 
-2. [[#^s-46e0e39fb992a1e61ad7f372|Šio straipsnio 1 dalies]] 2–9 punktuose nurodytas įstaigas savivaldybės taryba savo motyvuotu sprendimu turi teisę reorganizuoti į pirminės sveikatos priežiūros centro filialus arba į atskirus juridinius asmenis. ^s-ebd24de6aad10e9cfc1939ee
+2. [[#^s-46e0e39fb992a1e61ad7f372|Šio straipsnio 1 dalies]] [[#^s-f021289925195ed2a63261da|2]]–9 punktuose nurodytas įstaigas savivaldybės taryba savo motyvuotu sprendimu turi teisę reorganizuoti į pirminės sveikatos priežiūros centro filialus arba į atskirus juridinius asmenis. ^s-ebd24de6aad10e9cfc1939ee
 
 
 3. [[#^s-46e0e39fb992a1e61ad7f372|Šio straipsnio 1 dalyje]] nurodytos nomenklatūros įstaigas savivaldybės teritorijoje pagal Vyriausybės nustatytus įstaigų tinklo išdėstymo ir struktūros minimalius normatyvus organizuoja ir tvarko vietos savivaldos vykdomoji institucija. ^s-26da6a276a744612cd1ea292
@@ -1230,7 +1230,7 @@ LNSS įstaigų finansavimo  ir materialinio aprūpinimo ypatumai
 1) išlaikomos šio ir kitų įstatymų numatytos uždarosios biudžetinės įstaigos; ^s-19d67f5579ffd196eb37ac71
 
 
-2) išlaikomos šio įstatymo 24 straipsnio 1 dalies 1–8 punktuose ir [[#^s-083ad4d3d44661a3006f1697|25 straipsnio 2 dalies]] 1–[[#^s-6ecb0291328efcb1df427d35|4 punktuose]] numatytos valstybės biudžetinės įstaigos; ^s-0ea5a771579c1f17eb97b0c1
+2) išlaikomos šio įstatymo 24 straipsnio 1 dalies [[#^s-bd6eb01f7e964ccde26f5686|1]]–8 punktuose ir [[#^s-083ad4d3d44661a3006f1697|25 straipsnio 2 dalies]] [[#^s-45df2fad4f461a7829264c3a|1]]–[[#^s-ef41fd4d0e71f8d9d5b38afa|4]] punktuose numatytos valstybės biudžetinės įstaigos; ^s-0ea5a771579c1f17eb97b0c1
 
 
 3) finansuojama pabėgėlių, nelegalių imigrantų asmens ir visuomenės sveikatos priežiūra; ^s-54c46017d74f872cb6bf6422
@@ -1251,7 +1251,7 @@ LNSS įstaigų finansavimo  ir materialinio aprūpinimo ypatumai
 2. Iš savivaldybės biudžetų asignavimų, skirtų sveikatos priežiūrai: ^s-c5142affca95e413e1a0cee2
 
 
-1) išlaikomos šio įstatymo [[#^s-412d1d95b83c89350f27baba|24 straipsnio]] 1–[[#^s-f021289925195ed2a63261da|2 punktuose]] ir [[#^s-e13203acf8e8c4e8517af77c|25 straipsnio 1 dalyje]] numatytos savivaldybių biudžetinės įstaigos; ^s-ddbc2b1500286df6b792d668
+1) išlaikomos šio įstatymo [[#^s-412d1d95b83c89350f27baba|24 straipsnio]] [[#^s-bd6eb01f7e964ccde26f5686|1]]–[[#^s-f021289925195ed2a63261da|2]] punktuose ir [[#^s-e13203acf8e8c4e8517af77c|25 straipsnio 1 dalyje]] numatytos savivaldybių biudžetinės įstaigos; ^s-ddbc2b1500286df6b792d668
 
 
 2) teikiama papildoma parama savivaldybių tarybų nustatytų kategorijų socialiai remtinų asmenų sveikatos priežiūrai; ^s-df5dbac4eddfc0595d9b61b9
@@ -1783,7 +1783,7 @@ III dalis
 3) paciento teisė pasirinkti bet kurią LNSS pirminės sveikatos priežiūros įstaigą ir gydytoją, taip pat pagal šio straipsnio numatytas sąlygas antrinės ar tretinės sveikatos priežiūros įstaigą ir gydytoją dėl nemokamų paslaugų suteikimo Sveikatos apsaugos ministerijos ir Privalomojo sveikatos draudimo tarybos nustatyta tvarka. ^s-573f3b2aa5d4823611b077df
 
 
-4. Reikalavimai, išdėstyti [[#^s-f752c339430a9d0dfe568ed1|šio straipsnio 3 dalyje]], netaikomi pacientams, kurie kreipėsi dėl būtinosios medicinos pagalbos suteikimo. ^s-627ab83e2a9b1ea40912572a
+4. Reikalavimai, išdėstyti [[#^s-f752c339430a9d0dfe568ed1|šio straipsnio 3 dalyje]], netaikomi pacientams, kurie kreipėsi [dėl būtinosios medicinos pagalbos](https://e-tar.lt/portal/lt/legalAct/TAR.ECBA03DE99A4) suteikimo. ^s-627ab83e2a9b1ea40912572a
 
 
 5. Valstybės aukštųjų mokyklų ir Sveikatos apsaugos ministerijos tretinės sveikatos priežiūros įstaigos mokslo ir mokymo tikslais Sveikatos apsaugos ministerijos nustatyta tvarka ir mastu turi teisę teikti ir pirminės bei antrinės sveikatos priežiūros paslaugas. ^s-0c299d4e259f2849683f83c7

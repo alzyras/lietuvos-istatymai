@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-29220bd9b71b02c2833805c5
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. kovo 10 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės susitarimą dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės susitarimą dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1998 m. kovo 10 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės susitarimą dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais“](https://e-tar.lt/portal/lt/legalAct/TAR.5254E5B02B17), ratifikuoja Lietuvos Respublikos Vyriausybės ir Moldovos Respublikos Vyriausybės susitarimą dėl keleivių ir krovinių tarptautinių vežiojimų automobiliais.
 
 
 

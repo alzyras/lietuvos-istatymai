@@ -338,7 +338,7 @@ Papildyti Įstatymą 302 straipsniu:
 3. Nustatant rinkliavos ar kitos įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį, turi būti atsižvelgiama į Vyriausybės patvirtintą metodiką. ^s-f2937a76d43c1bd91f2b101e
 
 
-4. Komunalinių atliekų tvarkymo paslaugų kainą ir įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį nustato savivaldybė, vadovaudamasi šio straipsnio 1, 2 ir [[#^s-f2937a76d43c1bd91f2b101e|3 dalyse]] nurodytais principais.“ ^s-ef57bab8447af9d62db908ca
+4. Komunalinių atliekų tvarkymo paslaugų kainą ir įmokos už komunalinių atliekų surinkimą iš atliekų turėtojų ir atliekų tvarkymą dydį nustato savivaldybė, vadovaudamasi šio straipsnio [[#^s-21a4f2720c7df78478e3e6fe|1]], [[#^s-d4da5ae3e2cb2078950ff959|2]] ir [[#^s-f2937a76d43c1bd91f2b101e|3]] dalyse nurodytais principais.“ ^s-ef57bab8447af9d62db908ca
 
 
 
@@ -372,7 +372,7 @@ Pakeisti 35 straipsnį ir jį išdėstyti taip:
 ### 11 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-ccc131230663968d37e0f0a1
 
 
-1. Šio įstatymo [[#^s-6e4c651bbfce1c41c43b5bea|4 straipsnio 3 dalis]], [[#^s-406c49a12aaad9ea11d97980|5 straipsnio 3 dalis]], [[#^s-47485938429cf2403f1a5a95|6 straipsnyje]] išdėstyto [[latest/TAR.8D38517814F1#^s-17dd154ccf2f7b65c087b1ca|Atliekų tvarkymo įstatymo 30 straipsnio]] 8 ir 14 dalys įsigalioja 2012 m. spalio 1 d., o šio įstatymo [[#^s-47485938429cf2403f1a5a95|6 straipsnyje]] išdėstyto [[latest/TAR.8D38517814F1#^s-17dd154ccf2f7b65c087b1ca|Atliekų tvarkymo įstatymo 30 straipsnio]] 16 ir 18 dalys, šio įstatymo 7 ir [[#^s-5a73ffa7306b12f68cd10044|8 straipsniai]] įsigalioja 2013 m. sausio 1 d. ^s-79307ba25adab7edc18efd50
+1. Šio įstatymo [[#^s-6e4c651bbfce1c41c43b5bea|4 straipsnio 3 dalis]], [[#^s-406c49a12aaad9ea11d97980|5 straipsnio 3 dalis]], [[#^s-47485938429cf2403f1a5a95|6 straipsnyje]] išdėstyto [[latest/TAR.8D38517814F1#^s-17dd154ccf2f7b65c087b1ca|Atliekų tvarkymo įstatymo 30 straipsnio]] [[latest/TAR.8D38517814F1#^s-9df0de428f47c245cec2c6ec|8]] ir [[latest/TAR.8D38517814F1#^s-3a59628e69ae1e7cd2962b75|14]] dalys įsigalioja 2012 m. spalio 1 d., o šio įstatymo [[#^s-47485938429cf2403f1a5a95|6 straipsnyje]] išdėstyto [[latest/TAR.8D38517814F1#^s-17dd154ccf2f7b65c087b1ca|Atliekų tvarkymo įstatymo 30 straipsnio]] [[latest/TAR.8D38517814F1#^s-084c5ce39fbe93a36ab30455|16]] ir [[latest/TAR.8D38517814F1#^s-5c235684919fb08f42613d9b|18]] dalys, šio įstatymo [[#^s-617269d0f3038f79f14aab70|7]] ir [[#^s-5a73ffa7306b12f68cd10044|8]] straipsniai įsigalioja 2013 m. sausio 1 d. ^s-79307ba25adab7edc18efd50
 
 
 2. Vyriausybė ar kitos valstybės ar savivaldybių institucijos atitinkamai iki 2012 m. rugsėjo 30 d. arba 2012 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-34b5727f3fd60154f11b9c5a

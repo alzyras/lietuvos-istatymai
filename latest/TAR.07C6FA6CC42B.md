@@ -132,7 +132,7 @@ Mokesčio už aplinkos teršimą iš stacionarių ir mobilių taršos šaltinių
 ### 4 straipsnis. Įstatymo įsigaliojimas ^s-ccd8a092fdf5cfc200bc6820
 
 
-Šis Įstatymas, išskyrus 1 ir [[#^s-9fb73183dffd6f3cfa915f45|2 straipsnius]], įsigalioja nuo 2005 m. sausio 1 d.
+Šis Įstatymas, išskyrus [[#^s-14427b992c5b2f2615a8fd40|1]] ir [[#^s-9fb73183dffd6f3cfa915f45|2]] straipsnius, įsigalioja nuo 2005 m. sausio 1 d.
 
 
 

@@ -119,10 +119,10 @@ SAVIVALDYBIŲ BIUDŽETAMS SKIRIAMŲ VALSTYBĖS BIUDŽETO DOTACIJŲ IR LĖŠŲ NU
 1. Valstybės biudžeto bendroji dotacija (BD) savivaldybių biudžetams skiriama: ^s-e011027982ded6e5c318a532
 
 
-1) savivaldybių fizinių asmenų pajamų mokesčiui išlyginti (BD1), kai prognozuojama, kad Valstybės iždo sąskaitoje trūks šiam tikslui lėšų, apskaičiuotų pagal šio Įstatymo 6 ir [[#^s-10431e93c3b5449b11158656|7 straipsnius]] (kai åL1i > åPi , tai BD1 = åL1i – åPi ; kai åL1i <= åPi , tai BD1 = 0); ^s-8929811b130e0933ab4c27a9
+1) savivaldybių fizinių asmenų pajamų mokesčiui išlyginti (BD1), kai prognozuojama, kad Valstybės iždo sąskaitoje trūks šiam tikslui lėšų, apskaičiuotų pagal šio Įstatymo [[#^s-0129c371676b192877f179d7|6]] ir [[#^s-10431e93c3b5449b11158656|7]] straipsnius (kai åL1i > åPi , tai BD1 = åL1i – åPi ; kai åL1i <= åPi , tai BD1 = 0); ^s-8929811b130e0933ab4c27a9
 
 
-2) savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti (BD2), kai prognozuojama, kad Valstybės iždo sąskaitoje šiam tikslui trūks lėšų, apskaičiuotų pagal šio Įstatymo 6 ir [[#^s-cd0f76b0028dbe35e0e405e2|8 straipsnius]] (kai L2 = 0, tai BD2 = 0,1 BD1). ^s-7b4b5dc914434f08000da729
+2) savivaldybių išlaidų struktūrų skirtumams, kuriuos lemia nuo savivaldybių veiklos nepriklausantys objektyvūs veiksniai, išlyginti (BD2), kai prognozuojama, kad Valstybės iždo sąskaitoje šiam tikslui trūks lėšų, apskaičiuotų pagal šio Įstatymo [[#^s-0129c371676b192877f179d7|6]] ir [[#^s-cd0f76b0028dbe35e0e405e2|8]] straipsnius (kai L2 = 0, tai BD2 = 0,1 BD1). ^s-7b4b5dc914434f08000da729
 
 
 2. Valstybės biudžeto specialios tikslinės dotacijos savivaldybių biudžetams skiriamos: ^s-a3485abbd5e681d1e215c53b
@@ -297,7 +297,7 @@ RODIKLIŲ TVIRTINIMAS, DERINIMAS, DOTACIJŲ IR LĖŠŲ PERVEDIMAS
 2. Patvirtintas valstybės biudžeto dotacijų sumas, nurodytas [[#^s-5431629ef508bc252f1ca421|šio straipsnio 1 dalyje]], Finansų ministerija savivaldybėms perveda kas ketvirtį lygiomis dalimis. ^s-24b3d0a540f725ac9c408b6c
 
 
-3. Faktiškai gautas į Valstybės iždo sąskaitą lėšas, nurodytas [[#^s-0129c371676b192877f179d7|6 straipsnyje]], Finansų ministerija apskaičiuoja pagal 7 ir [[#^s-cd0f76b0028dbe35e0e405e2|8 straipsniuose]] pateiktas formules ir ne rečiau kaip keturis kartus per mėnesį skiria savivaldybėms. ^s-c3069d263e32692bdd4d1c92
+3. Faktiškai gautas į Valstybės iždo sąskaitą lėšas, nurodytas [[#^s-0129c371676b192877f179d7|6 straipsnyje]], Finansų ministerija apskaičiuoja pagal [[#^s-10431e93c3b5449b11158656|7]] ir [[#^s-cd0f76b0028dbe35e0e405e2|8]] straipsniuose pateiktas formules ir ne rečiau kaip keturis kartus per mėnesį skiria savivaldybėms. ^s-c3069d263e32692bdd4d1c92
 
 
 4. Jeigu Seimas ar Vyriausybė biudžetiniais metais priima ar ateinančiais biudžetiniais metais numato priimti sprendimus, dėl kurių keičiasi savivaldybių biudžetų pajamos ir išlaidos, pajamų ir išlaidų pokyčiai kompensuojami. Biudžetiniais metais turi būti skiriama reikiamo dydžio valstybės biudžeto bendrosios dotacijos kompensacija (BDK), susijusi su savivaldybių pajamų ir išlaidų pasikeitimu, arba iš savivaldybių biudžetų paimamos reikiamos sumos, o ateinančiais biudžetiniais metais koreguojama fizinių asmenų pajamų mokesčio dalis, tenkanti visų savivaldybių biudžetams. ^s-c06c50ea39a7d1988f506acf
@@ -339,7 +339,7 @@ Vyriausybė ir Lietuvos savivaldybių asociacija [[#^s-5431629ef508bc252f1ca421|
 ### 3 straipsnis.         Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimo 2001, 2002 ir 2003 metams įstatymo pripažinimas netekusiu galios ^s-0b93e715613b5f62779aee32
 
 
-Nuo 2002 m. sausio 1 d. netenka galios Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimo 2001, 2002 ir 2003 metams įstatymas (Žin., 2001, Nr. 4-86).
+Nuo 2002 m. sausio 1 d. netenka galios [Savivaldybių biudžetų pajamų dydį ir išlyginimą lemiančių rodiklių tvirtinimo 2001, 2002 ir 2003 metams įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.B642443A25DE) (Žin., 2001, Nr. 4-86).
 
 
 

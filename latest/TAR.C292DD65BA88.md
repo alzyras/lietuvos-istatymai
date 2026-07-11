@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Sutarties pakeitimo ratifikavimas ^s-34d167d0dd553f5566c67623
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. gegužės 25 d. dekretą Nr. 1K-1076, ratifikuoja Tarptautinio valiutos fondo steigimo sutarties pakeitimą dėl Vykdomosios valdybos reformos, kurį 2010 m. gruodžio 15 d. priėmė Tarptautinio valiutos fondo valdytojų valdyba.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. gegužės 25 d. dekretą Nr. 1K-1076](https://e-tar.lt/portal/lt/legalAct/TAR.FACE0B4BEAFC), ratifikuoja Tarptautinio valiutos fondo steigimo sutarties pakeitimą dėl Vykdomosios valdybos reformos, kurį 2010 m. gruodžio 15 d. priėmė Tarptautinio valiutos fondo valdytojų valdyba.
 
 
 

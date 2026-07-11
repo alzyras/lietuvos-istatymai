@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-9a7d90a75f2799616685cab7
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. rugsėjo 9 d. dekretą Nr. 62, ratifikuoja su pareiškimu 2002 m. rugsėjo 9 d. Niujorke priimtą Susitarimą dėl Tarptautinio baudžiamojo teismo privilegijų ir imunitetų.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. rugsėjo 9 d. dekretą Nr. 62](https://e-tar.lt/portal/lt/legalAct/TAR.37C0CFA25E35), ratifikuoja su pareiškimu 2002 m. rugsėjo 9 d. Niujorke priimtą Susitarimą dėl Tarptautinio baudžiamojo teismo privilegijų ir imunitetų.
 
 
 

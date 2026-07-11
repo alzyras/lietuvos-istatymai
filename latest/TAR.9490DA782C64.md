@@ -40,7 +40,7 @@ Nr. 110-3984; 2002, Nr. 43-1604, Nr. 68-2765, Nr. 96-4171, Nr. 103-4605, Nr. 112
 ### 1 straipsnis. 8 straipsnio papildymas ir pakeitimas ^s-89e03be57e930d0de173a3f9
 
 
-Papildyti [[#^s-e50b2cb966861cf68df48c77|8 straipsnį]] nauju [[#^s-b7823e69a9ede527b18cccc9|16 punktu]], buvusius 16–[[#^s-53c55e55d7a8595288b30093|20 punktus]] laikyti atitinkamai 17–[[#^s-f4e5b0f81a028feaedbc940e|21 punktais]] ir visą straipsnį išdėstyti taip:
+Papildyti [[#^s-e50b2cb966861cf68df48c77|8 straipsnį]] nauju [[#^s-b7823e69a9ede527b18cccc9|16 punktu]], buvusius 16–20 punktus laikyti atitinkamai 17–21 punktais ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-e50b2cb966861cf68df48c77|8 straipsnis]]. Valstybinės (perduotos savivaldybėms) funkcijos

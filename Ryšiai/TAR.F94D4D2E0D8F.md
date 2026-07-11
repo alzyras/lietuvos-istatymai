@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos įmonių rejestro įstatymo, jį keitusių, p
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.2CCC6F1CC7CE|Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo]] - 2 citatos - „Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo“
-- [[latest/TAR.2E6C3B043493|Dėl Lietuvos Respublikos įmonių įstatymo ir Lietuvos Respublikos įmonių rejestro įstatymo papildymo]] - 2 citatos - „Dėl Lietuvos Respublikos įmonių įstatymo ir Lietuvos Respublikos įmonių rejestro įstatymo papildymo“
+- [[latest/TAR.2CCC6F1CC7CE|Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo]] - „Dėl kai kurių Lietuvos Respublikos įstatymų, reglamentuojančių įmonių veiklą, pakeitimo ir papildymo“
+- [[latest/TAR.2E6C3B043493|Dėl Lietuvos Respublikos įmonių įstatymo ir Lietuvos Respublikos įmonių rejestro įstatymo papildymo]] - „Dėl Lietuvos Respublikos įmonių įstatymo ir Lietuvos Respublikos įmonių rejestro įstatymo papildymo“
 
 ## Šį įstatymą cituoja
 

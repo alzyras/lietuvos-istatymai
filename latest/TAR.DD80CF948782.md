@@ -482,7 +482,7 @@ aiškinimas ir konsultacijų teikimas
 1. Apibendrintus visuomenės sveikatos priežiūros veiklą reglamentuojančių teisės aktų taikymo visuomenės sveikatos priežiūros veiklos klausimais išaiškinimus teikia ir skelbia Sveikatos apsaugos ministerija jos nustatyta tvarka. ^s-2adddcddaa5559add4368ea7
 
 
-2. Konsultacijos visuomenės sveikatos priežiūros veiklos klausimais Viešojo administravimo įstatymo 363 straipsnio pagrindu teikiamos Sveikatos apsaugos ministerijos nustatyta tvarka. ^s-7b107bb0b4af53abee7c9b86
+2. Konsultacijos visuomenės sveikatos priežiūros veiklos klausimais [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatymo 363 straipsnio]] pagrindu teikiamos Sveikatos apsaugos ministerijos nustatyta tvarka. ^s-7b107bb0b4af53abee7c9b86
 
 
 Papildyta straipsniu:
@@ -1225,7 +1225,7 @@ Nr. XII-2662, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25261
 1) turėti sveikatos apsaugos ministro patvirtintame Priemonių ir įrangos licencijuojamai visuomenės sveikatos priežiūros veiklai vykdyti sąraše nurodytas atitinkamai licencijuojamai veiklos rūšiai privalomas priemones ir įrangą; ^s-5e108332b7188826e010abe9
 
 
-2) užtikrinti, kad darbuotojų, vykdančių funkcijas, tiesiogiai susijusias su [[#^s-d742ffb294efa93f60f1cd45|šio straipsnio 2 dalies]] 1–5 punktuose išvardyta licencijuojama veikla, išsilavinimas atitiktų [[#^s-dd63792ca3b2df651184c470|šio straipsnio 3 dalies]] 1–4 punktuose nustatytus reikalavimus fiziniams asmenims, siekiantiems verstis atitinkamos rūšies visuomenės sveikatos priežiūros veikla; ^s-fa856a426711459b6c4d6e59
+2) užtikrinti, kad darbuotojų, vykdančių funkcijas, tiesiogiai susijusias su [[#^s-d742ffb294efa93f60f1cd45|šio straipsnio 2 dalies]] [[#^s-5e108332b7188826e010abe9|1]]–5 punktuose išvardyta licencijuojama veikla, išsilavinimas atitiktų [[#^s-dd63792ca3b2df651184c470|šio straipsnio 3 dalies]] [[#^s-5e108332b7188826e010abe9|1]]–4 punktuose nustatytus reikalavimus fiziniams asmenims, siekiantiems verstis atitinkamos rūšies visuomenės sveikatos priežiūros veikla; ^s-fa856a426711459b6c4d6e59
 
 
 3) užtikrinti, kad darbuotojų, vykdančių funkcijas, tiesiogiai susijusias su [[#^s-689d9d74c0d119937e2715db|šio straipsnio 2 dalies 6 punkte]] nurodyta licencijuojama veikla, išsilavinimas atitiktų [[#^s-9928e3a381813f67d917ab56|šio straipsnio 3 dalies 5 punkte]] nustatytus reikalavimus fiziniams asmenims. ^s-24b3b71e0b1eb30dc5806b10
@@ -1237,7 +1237,7 @@ Nr. XII-2662, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25261
 6. Deklaracijoje pateiktos informacijos patikrinimas atliekamas per 30 dienų nuo deklaracijos gavimo licencijas išduodančioje institucijoje dienos Licencijavimo taisyklėse nustatyta tvarka. ^s-c3da545a1bb34d33e4070fd4
 
 
-7. Deklaraciją pateikęs licencijos turėtojas per 15 dienų nuo deklaracijos licencijai gauti pateikimo licencijas išduodančiai institucijai dienos turi pateikti licencijai gauti šio straipsnio 3 ar [[#^s-3928a3712e3ec6d3ddfa2c20|4 dalyje]] nurodytas aplinkybes ir valstybės rinkliavos sumokėjimą patvirtinančius dokumentus, jeigu jie nebuvo pateikti kartu su deklaracija. ^s-a7f7eb230eb0a141f306cea2
+7. Deklaraciją pateikęs licencijos turėtojas per 15 dienų nuo deklaracijos licencijai gauti pateikimo licencijas išduodančiai institucijai dienos turi pateikti licencijai gauti šio straipsnio [[#^s-dd63792ca3b2df651184c470|3]] ar [[#^s-3928a3712e3ec6d3ddfa2c20|4]] dalyje nurodytas aplinkybes ir valstybės rinkliavos sumokėjimą patvirtinančius dokumentus, jeigu jie nebuvo pateikti kartu su deklaracija. ^s-a7f7eb230eb0a141f306cea2
 
 
 8. Fiziniai, juridiniai asmenys ar filialai pateikti [[#^s-5180a8256b48bbf44957531a|šio straipsnio 5 dalyje]] nurodytas deklaracijas bei pateikti ir gauti kitus dokumentus ir (ar) informaciją, susijusius su teisės verstis licencijuojama visuomenės sveikatos priežiūros veikla įgijimu arba šios veiklos vykdymu, Licencijavimo taisyklėse nustatyta tvarka gali per atstumą, elektroninėmis priemonėmis per [[latest/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatyme]] nurodytą kontaktinį centrą arba tiesiogiai kreipdamiesi į licencijas išduodančią instituciją. ^s-9ced7b49e69b954891f47784
@@ -1252,7 +1252,7 @@ Nr. XII-2662, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25261
 11. Licencija patikslinama, jeigu pasikeičia licencijoje nurodyti fizinio, juridinio asmens ar filialo duomenys, nustatyti Licencijavimo taisyklėse, taip pat siekiant ištaisyti klaidas. Licencija patikslinama Licencijavimo taisyklėse nustatyta tvarka, remiantis pateiktais atitinkamais dokumentais. ^s-c20574d69cb8d29ce1f9cbb9
 
 
-12. Nustačiusi, kad deklaracijoje pateikta neteisinga informacija apie atitiktį šio straipsnio 3 ar [[#^s-3928a3712e3ec6d3ddfa2c20|4 dalyje]] nustatytiems reikalavimams, licencijos turėtojas nesilaiko [[#^s-3f6b83be3b952e694959e14e|šio straipsnio 18 dalyje]] nustatytų licencijuojamos veiklos sąlygų arba kai yra [[#^s-196c2b2e414065752b6fc5a2|šio straipsnio 13 dalies]] 2, 3 punktuose nustatyti pagrindai, licencijas išduodanti institucija Licencijavimo taisyklėse nustatyta tvarka įspėja licencijos turėtoją, kad per įspėjime nurodytą terminą – 30 dienų laikotarpį nuo įspėjimo gavimo dienos, nepašalinus nustatytų trūkumų ar pažeidimų bei nesumokėjus valstybės rinkliavos, licencijos galiojimas bus sustabdytas. Jeigu per įspėjime nurodytą terminą licencijos turėtojas jų nepašalina, licencijas išduodanti institucija Licencijavimo taisyklėse nustatyta tvarka priima sprendimą ir praneša licencijos turėtojui apie licencijos galiojimo sustabdymą, nurodo licencijos galiojimo sustabdymo terminą ir įspėja, kad nepašalinus pažeidimų, dėl kurių sustabdytas licencijos galiojimas, licencijos galiojimas bus panaikintas. Draudžiama vykdyti licencijuojamą veiklą po licencijos galiojimo sustabdymo. ^s-e3d0e75a36a194a1418a014b
+12. Nustačiusi, kad deklaracijoje pateikta neteisinga informacija apie atitiktį šio straipsnio [[#^s-dd63792ca3b2df651184c470|3]] ar [[#^s-3928a3712e3ec6d3ddfa2c20|4]] dalyje nustatytiems reikalavimams, licencijos turėtojas nesilaiko [[#^s-3f6b83be3b952e694959e14e|šio straipsnio 18 dalyje]] nustatytų licencijuojamos veiklos sąlygų arba kai yra [[#^s-196c2b2e414065752b6fc5a2|šio straipsnio 13 dalies]] 2, 3 punktuose nustatyti pagrindai, licencijas išduodanti institucija Licencijavimo taisyklėse nustatyta tvarka įspėja licencijos turėtoją, kad per įspėjime nurodytą terminą – 30 dienų laikotarpį nuo įspėjimo gavimo dienos, nepašalinus nustatytų trūkumų ar pažeidimų bei nesumokėjus valstybės rinkliavos, licencijos galiojimas bus sustabdytas. Jeigu per įspėjime nurodytą terminą licencijos turėtojas jų nepašalina, licencijas išduodanti institucija Licencijavimo taisyklėse nustatyta tvarka priima sprendimą ir praneša licencijos turėtojui apie licencijos galiojimo sustabdymą, nurodo licencijos galiojimo sustabdymo terminą ir įspėja, kad nepašalinus pažeidimų, dėl kurių sustabdytas licencijos galiojimas, licencijos galiojimas bus panaikintas. Draudžiama vykdyti licencijuojamą veiklą po licencijos galiojimo sustabdymo. ^s-e3d0e75a36a194a1418a014b
 
 
 13. Licencijos galiojimas sustabdomas, jeigu: ^s-196c2b2e414065752b6fc5a2
@@ -1261,7 +1261,7 @@ Nr. XII-2662, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25261
 1) deklaraciją pateikęs licencijos turėtojas per 15 dienų nuo deklaracijos gavimo licencijas išduodančioje institucijoje dienos licencijas išduodančiai institucijai nepateikė licencijai gauti reikalingų dokumentų, jeigu jie nebuvo pateikti kartu su deklaracija, – 30 dienų laikotarpiui; ^s-94f41c492c15a28080eddde6
 
 
-2) licencijos turėtojas deklaracijoje pateikė netikslią ar neišsamią informaciją, kurią reikia tikslinti, netinkamai įformintus dokumentus apie atitiktį šio straipsnio 3 ar [[#^s-3928a3712e3ec6d3ddfa2c20|4 dalyje]] nustatytiems reikalavimams, – 30 dienų laikotarpiui nuo licencijas išduodančios institucijos pranešimo gavimo dienos; ^s-05c658db539ddd4d2ca8e25f
+2) licencijos turėtojas deklaracijoje pateikė netikslią ar neišsamią informaciją, kurią reikia tikslinti, netinkamai įformintus dokumentus apie atitiktį šio straipsnio [[#^s-dd63792ca3b2df651184c470|3]] ar [[#^s-3928a3712e3ec6d3ddfa2c20|4]] dalyje nustatytiems reikalavimams, – 30 dienų laikotarpiui nuo licencijas išduodančios institucijos pranešimo gavimo dienos; ^s-05c658db539ddd4d2ca8e25f
 
 
 3) licencijos turėtojas nesilaiko [[#^s-3f6b83be3b952e694959e14e|šio straipsnio 18 dalyje]] nustatytų licencijuojamos veiklos sąlygų, – 90 dienų laikotarpiui nuo licencijas išduodančios institucijos pranešimo gavimo dienos; ^s-075da51f6c71b208fcee87b9
@@ -1294,7 +1294,7 @@ Nr. XII-2662, 2016-10-11, paskelbta TAR 2016-10-17, i. k. 2016-25261
 4) paaiškėja, kad licencijai gauti buvo pateikti suklastoti duomenys ir (ar) informacija; ^s-9b6a1b79663b6be0dd728c95
 
 
-5) licencijos turėtojas, kurio licencijos galiojimas buvo sustabdytas [[#^s-196c2b2e414065752b6fc5a2|šio straipsnio 13 dalies]] 1, 2, 3, 5 punktuose nurodytais pagrindais, per nustatytą terminą nepašalino pažeidimų, dėl kurių buvo sustabdytas licencijos galiojimas, ir (ar) nesikreipė dėl licencijos galiojimo sustabdymo panaikinimo; ^s-a9ea0cfa299407d592702ce4
+5) licencijos turėtojas, kurio licencijos galiojimas buvo sustabdytas [[#^s-196c2b2e414065752b6fc5a2|šio straipsnio 13 dalies]] [[#^s-4fc3a3f03540bc1215b108a4|1]], [[#^s-7e7f1058b513d54c28366227|2]], [[#^s-0224d99f8ef1a285c7240d31|3]], 5 punktuose nurodytais pagrindais, per nustatytą terminą nepašalino pažeidimų, dėl kurių buvo sustabdytas licencijos galiojimas, ir (ar) nesikreipė dėl licencijos galiojimo sustabdymo panaikinimo; ^s-a9ea0cfa299407d592702ce4
 
 
 6) licencijos turėtojas, kurio licencijos galiojimas sustabdytas, toliau vykdo licencijuojamą veiklą; ^s-bcd655b175d3ae5603853be0
@@ -1327,7 +1327,7 @@ Nr. XV-604, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20816
 2) juridiniai asmenys ar filialai: ^s-36f9126dab9ce7269ac9e143
 
 
-a) užtikrinti, kad funkcijas, tiesiogiai susijusias su licencijuojama veikla, vykdytų tik juridinio asmens ar filialo darbuotojai, atitinkantys [[#^s-906d9f6a8c0efd46e50ff606|šios dalies 1 punkto]] a ir b papunkčiuose bei [[#^s-3928a3712e3ec6d3ddfa2c20|šio straipsnio 4 dalies]] 2 ir [[#^s-8cb4468516340813d2b8e2b1|3 punktuose]] nustatytus reikalavimus fiziniams asmenims, siekiantiems verstis atitinkamos rūšies visuomenės sveikatos priežiūros veikla;
+a) užtikrinti, kad funkcijas, tiesiogiai susijusias su licencijuojama veikla, vykdytų tik juridinio asmens ar filialo darbuotojai, atitinkantys [[#^s-906d9f6a8c0efd46e50ff606|šios dalies 1 punkto]] a ir b papunkčiuose bei [[#^s-3928a3712e3ec6d3ddfa2c20|šio straipsnio 4 dalies]] 2 ir [[#^s-8cb4468516340813d2b8e2b1|3]] punktuose nustatytus reikalavimus fiziniams asmenims, siekiantiems verstis atitinkamos rūšies visuomenės sveikatos priežiūros veikla;
 
 
 b) Licencijavimo taisyklėse nustatyta tvarka ir ne rečiau kaip kas 5 metus per atstumą, elektroninėmis priemonėmis per [[latest/TAR.28F4561D519F|Lietuvos Respublikos paslaugų įstatyme]] nurodytą kontaktinį centrą arba tiesiogiai kreipdamiesi pranešti licencijas išduodančiai institucijai apie juridinio asmens darbuotojų, vykdančių funkcijas, tiesiogiai susijusias su licencijuojama veikla, kvalifikacijos tobulinimą, išskyrus Lietuvos nacionalinės sveikatos sistemos visuomenės sveikatos priežiūros įstaigas, kurios duomenis apie fizinių asmenų kvalifikacijos tobulinimą teikia Visuomenės sveikatos priežiūros specialistų registro informacinei sistemai;
@@ -1339,7 +1339,7 @@ Nr. XV-604, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20816
 3) fiziniai, juridiniai asmenys ar filialai: ^s-8cb4468516340813d2b8e2b1
 
 
-a) vykdyti licencijuojamą veiklą, užtikrinti vykdant licencijuojamą veiklą teikiamų paslaugų kokybę laikydamiesi šio įstatymo ir šio straipsnio 19–[[#^s-c045c9a8b0fa00c0a1eddb64|22 dalyse]] nurodytų teisės aktų reikalavimų;
+a) vykdyti licencijuojamą veiklą, užtikrinti vykdant licencijuojamą veiklą teikiamų paslaugų kokybę laikydamiesi šio įstatymo ir šio straipsnio [[#^s-feac998af37be994da5deef5|19]]–[[#^s-c045c9a8b0fa00c0a1eddb64|22]] dalyse nurodytų teisės aktų reikalavimų;
 
 
 b) verstis licencijoje nurodyta licencijuojama visuomenės sveikatos priežiūros veikla tik pagal joje nurodytą (nurodytas) veiklos rūšį (rūšis);
@@ -1430,10 +1430,10 @@ Nr. XI-792, 2010-04-29, Žin., 2010, Nr. 57-2809 (2010-05-18)
 3. Registro informacinės sistemos duomenys tvarkomi siekiant identifikuoti visuomenės sveikatos priežiūros specialistus, užtikrinti išsamios informacijos apie jų išsilavinimą, kvalifikaciją bei veiklos sritis teikimą duomenų gavėjams, taip pat atlikti kitus tvarkymo veiksmus, būtinus visuomenės sveikatos priežiūros sistemos administravimui ir planavimui. ^s-e5d1ad4ee7131b11ce22d382
 
 
-4. Registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. Registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus bei [[latest/TAR.C6E4170DB704|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme]] nustatytus sveikatos duomenų teikimo pacientams reikalavimus. ^s-a7b699d3389950012c168003
+4. Registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. Registro informacinės sistemos duomenys teikiami laikantis [[latest/TAR.85C510BA700A#^s-85d41ebad3bdbbe94c5b5746|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo 28 straipsnio 11 dalyje]] nurodytų apribojimų, 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų ir atsižvelgiant į [[latest/TAR.5368B592234C#^s-24278d6b40c9becc795d1cb3|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo 3 straipsnyje]] nustatytus asmens kodo tvarkymo ypatumus bei [[latest/TAR.C6E4170DB704|Lietuvos Respublikos pacientų teisių ir žalos sveikatai atlyginimo įstatyme]] nustatytus sveikatos duomenų teikimo pacientams reikalavimus. ^s-a7b699d3389950012c168003
 
 
-5. Registro informacinės sistemos duomenys gali būti teikiami pakartotinai naudoti vadovaujantis [[latest/0457ba8067e611eca9ac839120d251c4|Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatymo]] nuostatomis arba kitu teisėtu pagrindu, nustatytu Reglamente (ES) 2016/679 arba specialiuosiuose įstatymuose, reglamentuojančiuose asmens duomenų tvarkymą asmens sutikimu. Asmens duomenis teikti pakartotinai naudoti galima tik kai yra bent vienas teisėtas duomenų tvarkymo pagrindas pagal Reglamento (ES) 2016/679 [[#^s-8e20df3ea6672516f7544273|6 straipsnį]], o jeigu bus tvarkomi specialių kategorijų (sveikatos) duomenys, taikoma bent viena iš šio reglamento 9 straipsnio 2 dalyje nustatytų išimčių, leidžiančių tvarkyti specialių kategorijų (sveikatos) duomenis, ir toks tvarkymas atitinka Reglamento (ES) 2016/679 [[#^s-080320bd14de1dc30edb2e98|5 straipsnyje]] nustatytus duomenų tvarkymo principus. ^s-c696d1e172a3155cfc6f59f1
+5. Registro informacinės sistemos duomenys gali būti teikiami pakartotinai naudoti vadovaujantis [[latest/0457ba8067e611eca9ac839120d251c4|Lietuvos Respublikos pakartotinio sveikatos duomenų naudojimo įstatymo]] nuostatomis arba kitu teisėtu pagrindu, nustatytu [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) arba specialiuosiuose įstatymuose, reglamentuojančiuose asmens duomenų tvarkymą asmens sutikimu. Asmens duomenis teikti pakartotinai naudoti galima tik kai yra bent vienas teisėtas duomenų tvarkymo pagrindas pagal [Reglamento (ES) 2016/679 6 straipsnį](https://eur-lex.europa.eu/eli/reg/2016/679/art_6/oj), o jeigu bus tvarkomi specialių kategorijų (sveikatos) duomenys, taikoma bent viena iš šio reglamento 9 straipsnio 2 dalyje nustatytų išimčių, leidžiančių tvarkyti specialių kategorijų (sveikatos) duomenis, ir toks tvarkymas atitinka [Reglamento (ES) 2016/679 5 straipsnyje](https://eur-lex.europa.eu/eli/reg/2016/679/art_5/oj) nustatytus duomenų tvarkymo principus. ^s-c696d1e172a3155cfc6f59f1
 
 
 6. Registro informacinėje sistemoje tvarkomi duomenys, išskyrus asmens duomenis, yra atveriami pakartotinai naudoti. ^s-ad461493d4a8772c8adfb207
@@ -1498,7 +1498,7 @@ Pakeitimai:
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1150, 2007-05-24, Žin., 2007, Nr. 64-2455 (2007-06-09)
 [[latest/TAR.0BCCDA9AAF34|VISUOMENĖS SVEIKATOS PRIEŽIŪROS ĮSTATYMO 2, 5, 6, 7, 9, 15, 16, 19, 21, 22, 24, 27, 36, 38, 39, 41, 42, 43, 44 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI 8, 11, 14 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMAS]]
-Šis įstatymas įsigalioja nuo 2007 m. liepos 1 d., išskyrus Įstatymo 3, 4, 9, 14, 19, 20, 21 ir [[#^s-1f6b7bf158347a84aea87fd4|22 straipsnius]], kurie įsigalioja nuo 2008 m. sausio 1 d., ir Įstatymo [[#^s-5d576829dc5f6f9bad7fd6c3|23 straipsnio]] 1 ir 3 dalis.
+Šis įstatymas įsigalioja nuo 2007 m. liepos 1 d., išskyrus Įstatymo [[#^s-3eb83576ce89ad205fd70667|3]], [[#^s-e4af61f84368e1ad38170789|4]], [[#^s-bd5efbefbca9a0013797a981|9]], [[#^s-b92c2f57f168fcf5c9f06fcb|14]], [[#^s-f79449f528460e92393fb1bb|19]], [[#^s-b44eb724c29c4f7c819e269c|20]], [[#^s-948cb1e0d2a746841b99cda2|21]] ir [[#^s-1f6b7bf158347a84aea87fd4|22]] straipsnius, kurie įsigalioja nuo 2008 m. sausio 1 d., ir Įstatymo [[#^s-5d576829dc5f6f9bad7fd6c3|23 straipsnio]] 1 ir 3 dalis.
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1510,7 +1510,7 @@ Nr. XI-792, 2010-04-29, Žin., 2010, Nr. 57-2809 (2010-05-18)
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1757, 2011-12-01, Žin., 2011, Nr. 153-7194 (2011-12-15)
-[[#^s-fd3a38d0c13ab704044650fa|VISUOMENĖS SVEIKATOS PRIEŽIŪROS ĮSTATYMO 6, 12, 15, 41, 43 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 15(1) STRAIPSNIU ĮSTATYMAS
+VISUOMENĖS SVEIKATOS PRIEŽIŪROS ĮSTATYMO [[#^s-8e20df3ea6672516f7544273|6]], [[#^s-0c6c2d3ab55e9470f063d8d5|12]], [[#^s-4bab1b3d4c3a766b452b8acd|15]], [[#^s-a7c16b765dfd3f3a29881505|41]], [[#^s-fd3a38d0c13ab704044650fa|43]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 15(1) STRAIPSNIU ĮSTATYMAS
 Šis įstatymas, išskyrus [[#^s-3b81061186082cb9efdb616c|7 straipsnio 2 dalį]],  įsigalioja 2012-07-01.
 
 4.
@@ -1545,17 +1545,17 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1707, 2015-05-14, paskelbta TAR 2015-05-25, i. k. 2015-08039
-Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 1, 2, 12, 15, 41, [[#^s-fd3a38d0c13ab704044650fa|43 straipsnių]] pakeitimo ir Įstatymo papildymo priedu įstatymas
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 [[#^s-786c81cdce7d9ae19689f99f|1]], [[#^s-169dbe9412447e461ccc2e84|2]], [[#^s-0c6c2d3ab55e9470f063d8d5|12]], [[#^s-4bab1b3d4c3a766b452b8acd|15]], [[#^s-a7c16b765dfd3f3a29881505|41]], [[#^s-fd3a38d0c13ab704044650fa|43]] straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1958, 2015-10-15, paskelbta TAR 2015-10-27, i. k. 2015-16899
-Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 6, 10 ir [[#^s-89d5961e4713fc15bebcb84a|34 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 [[#^s-8e20df3ea6672516f7544273|6]], [[#^s-26be924a4b65285b7da4b29b|10]] ir [[#^s-89d5961e4713fc15bebcb84a|34]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1924, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11099
-Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 2, [[#^s-53a8b26fc23eadad4056ac92|26 straipsnių]] pakeitimo ir [[#^s-044c6f0858d272aee57223db|30 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 [[#^s-169dbe9412447e461ccc2e84|2]], [[#^s-53a8b26fc23eadad4056ac92|26]] straipsnių pakeitimo ir [[#^s-044c6f0858d272aee57223db|30 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1585,7 +1585,7 @@ Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 [[#
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2192, 2019-06-06, paskelbta TAR 2019-06-19, i. k. 2019-09848
-Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 2 ir [[#^s-fa165ce352ed66a3e369221c|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 [[#^s-169dbe9412447e461ccc2e84|2]] ir [[#^s-fa165ce352ed66a3e369221c|24]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1600,12 +1600,12 @@ Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 [[#
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2773, 2020-01-14, paskelbta TAR 2020-01-29, i. k. 2020-02008
-Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 ir [[#^s-948cb1e0d2a746841b99cda2|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 [[#^s-4bab1b3d4c3a766b452b8acd|15]] ir [[#^s-948cb1e0d2a746841b99cda2|21]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3104, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15310
-Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 10, 18, 20 ir [[#^s-199a7f8f94556041ff4d46e9|36 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 [[#^s-26be924a4b65285b7da4b29b|10]], [[#^s-ede5d286ad61081aa7ab9fee|18]], [[#^s-b44eb724c29c4f7c819e269c|20]] ir [[#^s-199a7f8f94556041ff4d46e9|36]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1615,7 +1615,7 @@ Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 [[#
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-406, 2021-06-17, paskelbta TAR 2021-06-29, i. k. 2021-14509
-Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 15 ir [[#^s-948cb1e0d2a746841b99cda2|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 [[#^s-4bab1b3d4c3a766b452b8acd|15]] ir [[#^s-948cb1e0d2a746841b99cda2|21]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1630,4 +1630,4 @@ Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 [[#
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-604, 2025-11-27, paskelbta TAR 2025-12-05, i. k. 2025-20816
-Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 21, 26 ir [[#^s-fd3a38d0c13ab704044650fa|43 straipsnių]] pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymas
+Lietuvos Respublikos visuomenės sveikatos priežiūros įstatymo Nr. IX-886 [[#^s-948cb1e0d2a746841b99cda2|21]], [[#^s-53a8b26fc23eadad4056ac92|26]] ir [[#^s-fd3a38d0c13ab704044650fa|43]] straipsnių pakeitimo ir Įstatymo papildymo 45-1 straipsniu įstatymas

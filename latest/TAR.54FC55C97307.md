@@ -42,7 +42,7 @@ Vilnius
 1. Papildyti [[#^s-66d4cd14fddb1384e166f204|1 straipsnį]] nauja 4 dalimi: ^s-96a0a072a52c91466a797185
 
 
-„4. Šio įstatymo nuostatos atitinkamai taikomos dėl Bendrijoje daromo pažeidimo, kaip jis apibrėžiamas 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo, kai pažeidžiamos šio įstatymo 5 ar 6 straipsnio nuostatos.“
+„4. Šio įstatymo nuostatos atitinkamai taikomos dėl Bendrijoje daromo pažeidimo, kaip jis apibrėžiamas 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamente (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo, kai pažeidžiamos šio įstatymo 5 ar 6 straipsnio nuostatos.“
 
 
 2. Buvusias [[#^s-66d4cd14fddb1384e166f204|1 straipsnio]] 4, 5 ir 6 dalis laikyti atitinkamai 5, 6 ir 7 dalimis. ^s-1e4df6a0c83a7a16f6d72e69
@@ -61,7 +61,7 @@ Vilnius
 1. Papildyti 17 straipsnį nauja 3 dalimi: ^s-ecf5b89995d6af5bafc1889b
 
 
-„3. Konkurencijos taryba yra atsakinga už 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo taikymą, kiek tai susiję su Konkurencijos tarybos funkcijomis kontroliuojant, ar reklama nėra klaidinanti, ir lyginamąją reklamą.“
+„3. Konkurencijos taryba yra atsakinga už 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo taikymą, kiek tai susiję su Konkurencijos tarybos funkcijomis kontroliuojant, ar reklama nėra klaidinanti, ir lyginamąją reklamą.“
 
 
 2. Buvusią 17 straipsnio 3 dalį laikyti 4 dalimi. ^s-fd09f159bbfb5691839a815e
@@ -74,7 +74,7 @@ Vilnius
 Papildyti 19 straipsnį 3 dalimi:
 
 
-„3. Konkurencijos taryba turi 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo kompetentingai institucijai numatytas teises, kiek tai susiję su Konkurencijos tarybos funkcijomis kontroliuojant, ar reklama nėra klaidinanti, ir lyginamąją reklamą.“
+„3. Konkurencijos taryba turi 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo kompetentingai institucijai numatytas teises, kiek tai susiję su Konkurencijos tarybos funkcijomis kontroliuojant, ar reklama nėra klaidinanti, ir lyginamąją reklamą.“
 
 
 
@@ -99,7 +99,7 @@ priedas
 2. 1997 m. spalio 6 d. Europos Parlamento ir Tarybos direktyva 97/55/EB, iš dalies pakeičianti Direktyvą 84/450 dėl klaidinančios reklamos taip, kad būtų įtraukta lyginamoji reklama (OL 2004 m. specialusis leidimas, 15 skyrius, 3 tomas, p. 365). ^s-a35f7a6318df4e6e3c417841
 
 
-3. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 m. L 364, p. 1).“ ^s-28c1b7678a7d9ce4af7eb046
+3. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OL 2004 m. L 364, p. 1).“ ^s-28c1b7678a7d9ce4af7eb046
 
 
 

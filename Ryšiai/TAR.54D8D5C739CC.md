@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos aplinkos monitoringo įstatymo pakeitimo įst
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.1A98CE535B1C|Lietuvos Respublikos aplinkos monitoringo įstatymas]] - 3 citatos - LIETUVOS RESPUBLIKOS APLINKOS MONITORINGO ĮSTATYMAS
+- [[latest/TAR.1A98CE535B1C|Lietuvos Respublikos aplinkos monitoringo įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS APLINKOS MONITORINGO ĮSTATYMAS
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.1A98CE535B1C#^s-437a4df9bc33639c872ef7c3|Lietuvos Respublikos aplinkos monitoringo įstatymas]] - 3 citatos - 1061010ISTA000X-595
+- [[latest/TAR.1A98CE535B1C#^s-437a4df9bc33639c872ef7c3|Lietuvos Respublikos aplinkos monitoringo įstatymas]] - 2 citatos - 1061010ISTA000X-595

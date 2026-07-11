@@ -67,7 +67,7 @@ Papildyti Įstatymą 371 straipsniu:
 3. Mokesčių administratorius, išnagrinėjęs prašymą, priima vieną iš šių sprendimų: ^s-71d303af5f95cf0ad46b0d71
 
 
-1) pritarti prašyme nurodytam mokesčių teisės aktų nuostatų taikymui būsimajam sandoriui. Priėmęs šį sprendimą, mokesčių administratorius įsipareigoja, kontroliuodamas, ar šis mokesčių mokėtojas teisingai apskaičiavo, deklaravo ir mokėjo mokesčius, taikyti mokesčių teisės aktų nuostatas būsimajam sandoriui taip, kaip nurodyta sprendime, išskyrus šio straipsnio 4, 5 ir [[#^s-3c7ce34ab61a6ba2162737c2|6 dalyse]] nustatytus atvejus; ^s-6186ebdc803c4d418d2e4e11
+1) pritarti prašyme nurodytam mokesčių teisės aktų nuostatų taikymui būsimajam sandoriui. Priėmęs šį sprendimą, mokesčių administratorius įsipareigoja, kontroliuodamas, ar šis mokesčių mokėtojas teisingai apskaičiavo, deklaravo ir mokėjo mokesčius, taikyti mokesčių teisės aktų nuostatas būsimajam sandoriui taip, kaip nurodyta sprendime, išskyrus šio straipsnio [[#^s-7709d3c3021e947198cd98a9|4]], [[#^s-47c8189bf1ed0810a3a05fea|5]] ir [[#^s-3c7ce34ab61a6ba2162737c2|6]] dalyse nustatytus atvejus; ^s-6186ebdc803c4d418d2e4e11
 
 
 2) nepritarti prašyme nurodytam mokesčių teisės aktų nuostatų taikymui būsimajam sandoriui. Šiame sprendime mokesčių administratorius turi nurodyti nepritarimo priežastis. ^s-91b9925ccf2ead0342eba51c
@@ -85,7 +85,7 @@ Papildyti Įstatymą 371 straipsniu:
 7. Mokesčių mokėtojas neprivalo vadovautis mokesčių administratoriaus sprendimu dėl prašymo ar sprendimu dėl ankstesnio sprendimo galiojimo laikotarpio pakeitimo. ^s-0dee080cf7884ea476247e1c
 
 
-8. Šiame straipsnyje nurodyto prašymo pateikimo ir nagrinėjimo tvarką, prašymo formą, mokesčių administratoriaus sprendimo dėl prašymo priėmimo ir sprendimo pakeitimo tvarką, atitinkamo sprendimo formą nustato centrinis mokesčių administratorius. Centrinis mokesčių administratorius turi teisę nustatyti prie prašymo pridėtinų dokumentų sąrašą.“ ^s-d06d045ad397f3f6e00ef616
+8. Šiame straipsnyje nurodyto prašymo pateikimo ir nagrinėjimo tvarką, prašymo formą, mokesčių administratoriaus sprendimo [dėl prašymo priėmimo](https://e-tar.lt/portal/lt/legalAct/TAR.37B130B7208F) ir sprendimo pakeitimo tvarką, atitinkamo sprendimo formą nustato centrinis mokesčių administratorius. Centrinis mokesčių administratorius turi teisę nustatyti prie prašymo pridėtinų dokumentų sąrašą.“ ^s-d06d045ad397f3f6e00ef616
 
 
 

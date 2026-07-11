@@ -123,10 +123,10 @@ Pakeisti 8 straipsnio 5 dalį ir ją išdėstyti taip:
 ### 7 straipsnis. Įstatymo įsigaliojimas ^s-6049e3f3a1516407dbc4ea75
 
 
-1. Šio įstatymo 1 ir [[#^s-4e52756d3d92639ffd1df8be|4 straipsniai]] įsigalioja nuo 2006 m. liepos 1 d. ^s-2645f86c062f622818b27e41
+1. Šio įstatymo [[#^s-f6eaaa9923b438264d78be6e|1]] ir [[#^s-4e52756d3d92639ffd1df8be|4]] straipsniai įsigalioja nuo 2006 m. liepos 1 d. ^s-2645f86c062f622818b27e41
 
 
-2. Šio įstatymo 2, 3, 5, [[#^s-66958c77c4bceb6d0a129baa|6 straipsniai]] įsigalioja nuo 2008 m. sausio 1 d. ^s-2535683d102cd84ba4100997
+2. Šio įstatymo [[#^s-12368386b9257f5ec7f7d1db|2]], [[#^s-f35869b816e5803a07417063|3]], [[#^s-16d17c7bf3bd05a06390ca2c|5]], [[#^s-66958c77c4bceb6d0a129baa|6]] straipsniai įsigalioja nuo 2008 m. sausio 1 d. ^s-2535683d102cd84ba4100997
 
 
 

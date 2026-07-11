@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos socialinės paramos mokiniams įstatymo 1, 5,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.915C6D6EB2A5#^s-0760de6791a545f4104f7b51|Lietuvos Respublikos socialinės paramos mokiniams įstatymas]] - 2 citatos - Socialinės paramos mokiniams įstatymo 11 straipsnio 2 dalies 2 punktą
+- [[latest/TAR.915C6D6EB2A5#^s-0760de6791a545f4104f7b51|Lietuvos Respublikos socialinės paramos mokiniams įstatymas]] - Socialinės paramos mokiniams įstatymo 11 straipsnio 2 dalies 2 punktą
 
 ## Šį įstatymą cituoja
 

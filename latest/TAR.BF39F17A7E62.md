@@ -88,7 +88,7 @@ BENDROSIOS NUOSTATOS
 4) yra endeminės ir joms reikalingas išskirtinis dėmesys dėl specifinio jų buveinės pobūdžio ir (arba) dėl jų naudojimo galimo poveikio jų buveinei ir (arba) jų apsaugos būklei; ^s-c97a2cb7bffa8ce25bf7ae38
 
 
-5) yra išvardytos šios dalies 1–[[#^s-c97a2cb7bffa8ce25bf7ae38|4 punktuose]] ir yra arba gali būti įtrauktos į šio įstatymo 2 priedo [[#^s-8a20d211ef6fea0c9e4ac2e0|2 punkte]] nurodyto Europos Sąjungos teisės akto II ir (arba) IV ar V priedus. ^s-6768ff00afd9be9d436516d0
+5) yra išvardytos šios dalies [[#^s-76fd3f711d6804ebb6483da3|1]]–[[#^s-c97a2cb7bffa8ce25bf7ae38|4]] punktuose ir yra arba gali būti įtrauktos į šio įstatymo 2 priedo [[#^s-8a20d211ef6fea0c9e4ac2e0|2 punkte]] nurodyto Europos Sąjungos teisės akto II ir (arba) IV ar V priedus. ^s-6768ff00afd9be9d436516d0
 
 
 4. Grybas – natūraliai augantis ar dirbtinai pasodintas laukinio grybo rūšies bet kurios jo biologinio vystymosi stadijos individas. Grybais pagal šį įstatymą taip pat laikomos grybų sporos, lengvai atpažįstamos ar identifikuojamos grybo dalys ar gaminiai iš jų, taip pat sunykę grybų egzemplioriai. ^s-2cc9880be436d37370b302c1
@@ -402,7 +402,7 @@ Saugomų rūšių apsauga užtikrinama:
 2. Draudžiama laikyti, transportuoti, parduoti ar mainyti, siūlyti parduoti ar mainyti gamtoje sugautus šių rūšių egzempliorius, išskyrus tuos, kurie buvo teisėtai pagauti iki 2004 m. gegužės 1 d. ^s-34a89bd77476e1ae2f944eb4
 
 
-3. Šio straipsnio 1 ir [[#^s-34a89bd77476e1ae2f944eb4|2 dalyse]] nurodyti draudimai galioja visais Europos bendrijos svarbos gyvūnų rūšių, kurioms reikalinga griežta apsauga, gyvenimo etapais. ^s-02b051dbac72d892e28b2ce2
+3. Šio straipsnio [[#^s-91bd441fad62627ea8d81ef1|1]] ir [[#^s-34a89bd77476e1ae2f944eb4|2]] dalyse nurodyti draudimai galioja visais Europos bendrijos svarbos gyvūnų rūšių, kurioms reikalinga griežta apsauga, gyvenimo etapais. ^s-02b051dbac72d892e28b2ce2
 
 
 4. Draudžiama su Europos bendrijos svarbos augalų rūšimis, kurioms reikalinga griežta apsauga, susijusi ši veikla: ^s-80e2b36953969996e02dae5a
@@ -446,7 +446,7 @@ Saugomų rūšių apsauga užtikrinama:
 ### 14 straipsnis. Išimčių, susijusių su šio įstatymo 12 ir 13 straipsniuose nustatytų reikalavimų nesilaikymu, taikymas ^s-8070a3f54d9fdf09ab4771a7
 
 
-1. Jeigu nėra galimybės priimti jokio kito priimtino alternatyvaus sprendimo ir išimties taikymas nesutrukdys palaikyti atitinkamos Europos bendrijos svarbos rūšies populiacijos palankią apsaugos būklę jos natūraliame areale, Aplinkos ministerija arba jos įgaliota institucija, išduodamos atitinkamus leidimus, gali taikyti išimtis, pagal kurias būtų leidžiama netaikyti šio įstatymo 12 ir [[#^s-8ad137e824ffd9e0474b4b26|13 straipsniuose]] nustatytų draudimų. Tokios išimtys gali būti taikomos ir leidimas išduodamas tik siekiant vieno iš šių tikslų: ^s-439169df148f611c23db1b73
+1. Jeigu nėra galimybės priimti jokio kito priimtino alternatyvaus sprendimo ir išimties taikymas nesutrukdys palaikyti atitinkamos Europos bendrijos svarbos rūšies populiacijos palankią apsaugos būklę jos natūraliame areale, Aplinkos ministerija arba jos įgaliota institucija, išduodamos atitinkamus leidimus, gali taikyti išimtis, pagal kurias būtų leidžiama netaikyti šio įstatymo [[#^s-bdc07b328bf5d634274542bf|12]] ir [[#^s-8ad137e824ffd9e0474b4b26|13]] straipsniuose nustatytų draudimų. Tokios išimtys gali būti taikomos ir leidimas išduodamas tik siekiant vieno iš šių tikslų: ^s-439169df148f611c23db1b73
 
 
 1) siekiama apsaugoti laukinę fauną ir florą ir išsaugoti natūralias jų buveines; ^s-1271e558546cf78b0a537687
@@ -554,7 +554,7 @@ Saugomų rūšių apsauga užtikrinama:
 ### 17 straipsnis. Negalimas poveikis Lietuvos Respublikos saugomoms rūšims ^s-d6146a7f2c6c37db89a5f398
 
 
-1. Draudžiama Lietuvos Respublikos teritorijoje laisvėje gyvenančius, augančius arba migracijos metu aptinkamus saugomų rūšių, kurių apsauga nereglamentuojama pagal šio įstatymo 12–[[#^s-9472f6a0b0f802e988473289|16 straipsnius]], individus bet kuriuo jų biologinio ciklo etapu tyčia, neturint Aplinkos ministerijos arba jos įgaliotos institucijos teisės aktų nustatyta tvarka išduoto leidimo: ^s-d89e101205d13203159e1550
+1. Draudžiama Lietuvos Respublikos teritorijoje laisvėje gyvenančius, augančius arba migracijos metu aptinkamus saugomų rūšių, kurių apsauga nereglamentuojama pagal šio įstatymo [[#^s-bdc07b328bf5d634274542bf|12]]–[[#^s-9472f6a0b0f802e988473289|16]] straipsnius, individus bet kuriuo jų biologinio ciklo etapu tyčia, neturint Aplinkos ministerijos arba jos įgaliotos institucijos teisės aktų nustatyta tvarka išduoto leidimo: ^s-d89e101205d13203159e1550
 
 
 1) bet kokiais būdais gaudyti, persekioti, baidyti, skinti, rauti, imti iš gamtinės aplinkos, varžyti jų judėjimą, juos sužeisti ar naikinti; ^s-4c5d356c94b8136ad4b7fb6e
@@ -699,7 +699,7 @@ SAUGOMŲ RŪŠIŲ TYRIMAI, STEBĖSENA IR ŠVIETIMAS
 1) planuodami veiklą tam tikroje teritorijoje, kreiptis į saugomų rūšių informacinės sistemos tvarkytoją, kad jam būtų suteikta informacija apie toje teritorijoje registruotas saugomų rūšių radavietes ir augavietes; ^s-90bd59c393f63d5a03b07171
 
 
-2) vykdyti saugomų rūšių informacinės sistemos tvarkytojo nurodymus dėl duomenų riboto naudojimo; ^s-fbd4f3990620f60316f7e64e
+2) vykdyti saugomų rūšių informacinės sistemos tvarkytojo nurodymus dėl duomenų [riboto naudojimo](https://e-tar.lt/portal/lt/legalAct/TAR.DDD331BF53F7); ^s-fbd4f3990620f60316f7e64e
 
 
 3) užtikrinti, kad gauti duomenys apie saugomų rūšių radavietes ir augavietes bus geriausiu būdu panaudoti planuojant ūkinę veiklą tam tikroje teritorijoje, kad būtų išvengta neigiamo poveikio saugomoms rūšims arba toks poveikis būtų sumažintas iki mažiausio; ^s-d1714002c26147683d2a05f6

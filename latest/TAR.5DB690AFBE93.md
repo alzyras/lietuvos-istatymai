@@ -54,7 +54,7 @@ Vilnius
 3) užsieniečiai, nurodyti šio įstatymo 6 straipsnio 4 dalies 17 ir 18 punktuose.“ ^s-0d29134ba98ea9cc45b48951
 
 
-2. Papildyti 6 straipsnio 4 dalį 17 ir [[#^s-6913a0cb1092b74ff57f96e8|18 punktais]]: ^s-a9ffd80b225d55a1b0413526
+2. Papildyti 6 straipsnio 4 dalį 17 ir 18 punktais: ^s-a9ffd80b225d55a1b0413526
 
 
 „17) nelydimi nepilnamečiai užsieniečiai;

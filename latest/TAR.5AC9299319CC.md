@@ -55,7 +55,7 @@ Pakeisti 5 straipsnį ir jį išdėstyti taip:
 „5 straipsnis. Kapitalo įvežimas ir išvežimas
 
 
-Užsienio kapitalo, investuojamo Lietuvos Respublikoje, įvežimą, taip pat šio kapitalo, gauto pelno ir dividendų išvežimą nustato Užsienio kapitalo investicijų Lietuvos Respublikoje įstatymas ir [[latest/TAR.E79004684F4D|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]].“
+Užsienio kapitalo, investuojamo Lietuvos Respublikoje, įvežimą, taip pat šio kapitalo, gauto pelno ir dividendų išvežimą nustato [Užsienio kapitalo investicijų Lietuvos Respublikoje įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.62AC77FBC51D) ir [[latest/TAR.E79004684F4D|Lietuvos Respublikos laisvųjų ekonominių zonų pagrindų įstatymas]].“
 
 
 

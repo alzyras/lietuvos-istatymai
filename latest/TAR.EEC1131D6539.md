@@ -126,16 +126,16 @@ BAIGIAMOSIOS NUOSTATOS
 2) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos įstatymo „Dėl brangų turtą įsigijusių arba įsigyjančių Lietuvos Respublikos gyventojų pajamų deklaravimo“ pakeitimo ir papildymo“ (Žin., 1995, Nr. 44-1075); ^s-bdc808478c6c2fdb74e4d6ec
 
 
-3) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“ 122 straipsnio pakeitimo ir papildymo įstatymas (Žin., 1996, Nr. 30-734); ^s-9b3736e7b10f4f8c132a9c92
+3) Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“](https://e-tar.lt/portal/lt/legalAct/TAR.1273CA6042BD) 122 straipsnio pakeitimo ir papildymo įstatymas (Žin., 1996, Nr. 30-734); ^s-9b3736e7b10f4f8c132a9c92
 
 
-4) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“ 3 ir 122 straipsnių pakeitimo įstatymas (Žin., 1997, Nr. 28-663); ^s-ac51fc7040f4478ac48bfb41
+4) Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“](https://e-tar.lt/portal/lt/legalAct/TAR.1273CA6042BD) [3](https://e-tar.lt/portal/lt/legalAct/TAR.1273CA6042BD) ir [122](https://e-tar.lt/portal/lt/legalAct/TAR.1273CA6042BD) straipsnių pakeitimo įstatymas (Žin., 1997, Nr. 28-663); ^s-ac51fc7040f4478ac48bfb41
 
 
-5) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“ 3, 8, 10 straipsnių pakeitimo ir papildymo įstatymas (Žin., 2000, Nr. 85-2582); ^s-5e37064bb1747fa25b2711e7
+5) Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“](https://e-tar.lt/portal/lt/legalAct/TAR.1273CA6042BD) [[#^s-b9d30b1b38c8fc173add0ab3|3]], 8, 10 straipsnių pakeitimo ir papildymo įstatymas (Žin., 2000, Nr. 85-2582); ^s-5e37064bb1747fa25b2711e7
 
 
-6) Lietuvos Respublikos azartinių lošimų įstatymo, Darbo sutarties įstatymo, Įstatymo „Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“, Gyventojų turto ir pajamų deklaravimo įstatymo pakeitimo įstatymo trečiasis skirsnis (Žin., 2002, Nr. 116-5191). ^s-6460591f4a85d6db73819886
+6) Lietuvos Respublikos azartinių lošimų įstatymo, Darbo sutarties įstatymo, Įstatymo [„Dėl Lietuvos Respublikos gyventojų pajamų brangiam turtui įsigyti arba kitų įsigytų bei perleidžiamų lėšų deklaravimo“](https://e-tar.lt/portal/lt/legalAct/TAR.1273CA6042BD), Gyventojų turto ir pajamų deklaravimo įstatymo pakeitimo įstatymo trečiasis skirsnis (Žin., 2002, Nr. 116-5191). ^s-6460591f4a85d6db73819886
 
 
 

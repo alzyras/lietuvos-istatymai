@@ -101,7 +101,7 @@ Vilnius
 3. 4 straipsnio 7 dalį pakeisti ir išdėstyti taip: ^s-d01458ba4023f7fc91992c54
 
 
-„7. Iki Valstybės politikų, teisėjų ir valstybės pareigūnų darbo apmokėjimo įstatymo įgyvendinimo pradžios paskirtiems į pareigas apygardos administracinio teismo pirmininkui, pirmininko pavaduotojui ir teisėjui mokama atitinkamai bendrosios kompetencijos apygardos teismo pirmininko, skyriaus pirmininko ir teisėjo pareiginė alga. Šiuo laikotarpiu į pareigas paskirtų Lietuvos vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo ir teisėjo pareiginė alga yra atitinkamai lygi Lietuvos Aukščiausiojo Teismo pirmininko, skyriaus pirmininko ir teisėjo bei Lietuvos apeliacinio teismo pirmininko, skyriaus pirmininko ir teisėjo pareiginių algų vidurkiui.“
+„7. Iki Valstybės politikų, teisėjų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) įgyvendinimo pradžios paskirtiems į pareigas apygardos administracinio teismo pirmininkui, pirmininko pavaduotojui ir teisėjui mokama atitinkamai bendrosios kompetencijos apygardos teismo pirmininko, skyriaus pirmininko ir teisėjo pareiginė alga. Šiuo laikotarpiu į pareigas paskirtų Lietuvos vyriausiojo administracinio teismo pirmininko, pirmininko pavaduotojo ir teisėjo pareiginė alga yra atitinkamai lygi Lietuvos Aukščiausiojo Teismo pirmininko, skyriaus pirmininko ir teisėjo bei Lietuvos apeliacinio teismo pirmininko, skyriaus pirmininko ir teisėjo pareiginių algų vidurkiui.“
 
 
 

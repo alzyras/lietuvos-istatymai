@@ -655,7 +655,7 @@ VIEŠOSIOS INFORMACIJOS RENGĖJŲ, SKLEIDĖJŲ, ŽURNALISTŲ STATUSO REGLAMENTAV
 4. Už [[#^s-5b12580aceae33d8b9756076|šio straipsnio 1 dalyje]] nurodytų duomenų nepateikimą ir [[#^s-6b9e8198c395ee3687b36693|šio straipsnio 2 dalyje]] nurodytos informacijos nepaskelbimą įstatymų nustatyta tvarka taikoma atsakomybė. ^s-0505129995c8a8479ae8c38e
 
 
-5. Šio straipsnio 1 ir [[#^s-6b9e8198c395ee3687b36693|2 dalyse]] numatytos pareigos taikomos tik toms informacinės visuomenės informavimo priemonėms, kurių valdytojas yra juridinis asmuo. ^s-83dcc506fb677a3627dc1a77
+5. Šio straipsnio [[#^s-5b12580aceae33d8b9756076|1]] ir [[#^s-6b9e8198c395ee3687b36693|2]] dalyse numatytos pareigos taikomos tik toms informacinės visuomenės informavimo priemonėms, kurių valdytojas yra juridinis asmuo. ^s-83dcc506fb677a3627dc1a77
 
 
 
@@ -695,7 +695,7 @@ VIEŠOSIOS INFORMACIJOS RENGĖJŲ, SKLEIDĖJŲ, ŽURNALISTŲ STATUSO REGLAMENTAV
 3) transliuotojas nesinaudoja nei Lietuvos valstybei priklausančiu kanalu (radijo dažniu), nei Lietuvos valstybės suteiktais ryšio palydovo ištekliais, bet naudojasi Lietuvoje įrengta antžemine stotimi, perduodančia signalą į ryšio palydovą. ^s-c55c89dd86631dd7fc72af67
 
 
-3. Lietuvos Respublikos jurisdikcija gali būti taikoma ir šio straipsnio 1 ir [[#^s-3b7614a35a57e296df2ffe24|2 dalyse]] nenurodytiems transliuotojams, jeigu jų veikla kelia grėsmę Lietuvos nacionalinio saugumo interesams, viešajai tvarkai, visuomenės sveikatos apsaugai, visuomenės saugumui, vartotojų apsaugai, kai valstybių, kurių jurisdikcijai tie transliuotojai priklauso, kompetentingos institucijos nesiėmė priemonių užkirsti kelią tokiai jų veiklai, kai atitinkamos Lietuvos institucijos į jas oficialiai kreipėsi. ^s-176587d5a9bc5d198950bb69
+3. Lietuvos Respublikos jurisdikcija gali būti taikoma ir šio straipsnio [[#^s-66ad6e87945609bf55d6eb70|1]] ir [[#^s-3b7614a35a57e296df2ffe24|2]] dalyse nenurodytiems transliuotojams, jeigu jų veikla kelia grėsmę Lietuvos nacionalinio saugumo interesams, viešajai tvarkai, visuomenės sveikatos apsaugai, visuomenės saugumui, vartotojų apsaugai, kai valstybių, kurių jurisdikcijai tie transliuotojai priklauso, kompetentingos institucijos nesiėmė priemonių užkirsti kelią tokiai jų veiklai, kai atitinkamos Lietuvos institucijos į jas oficialiai kreipėsi. ^s-176587d5a9bc5d198950bb69
 
 
 
@@ -711,7 +711,7 @@ VIEŠOSIOS INFORMACIJOS RENGĖJŲ, SKLEIDĖJŲ, ŽURNALISTŲ STATUSO REGLAMENTAV
 3. Užsienyje parengtų radijo ir (ar) televizijos programų laisvas retransliavimas Lietuvos Respublikoje gali būti sustabdytas, jeigu: ^s-c4ffeaf40249a6c7b10719ed
 
 
-1) užsienyje parengtoje programoje ar jos dalyje platinama šio įstatymo [[#^s-9ae0e2fd00f53f4dc1390f3b|19 straipsnio]] 1 ir [[#^s-731f8790f51d9bdfc00bcce1|2 dalyse]] nurodyta neskelbtina ir draudžiama informacija; ^s-8532ba90a367d51003abcb3c
+1) užsienyje parengtoje programoje ar jos dalyje platinama šio įstatymo [[#^s-9ae0e2fd00f53f4dc1390f3b|19 straipsnio]] [[#^s-6ec853dbb5dbffc12e14ffd9|1]] ir [[#^s-129422ae922c2c721c9d2bc9|2]] dalyse nurodyta neskelbtina ir draudžiama informacija; ^s-8532ba90a367d51003abcb3c
 
 
 2) platinama informacija pažeidžia šio įstatymo nuostatas ir Lietuvos Respublikos tarptautinių sutarčių reikalavimus dėl nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio jų fiziniam, protiniam ar doroviniam vystymuisi; ^s-97690c38c28d7f7bb43c153e
@@ -884,7 +884,7 @@ Lietuvos nacionalinis radijas ir televizija (toliau – LRT) – valstybei nuosa
 14. Komisija savo sprendimu ne ilgiau kaip trims mėnesiams gali sustabdyti licencijos galiojimą, jeigu Ryšių reguliavimo tarnyba panaikina teisę naudoti radijo dažnį (kanalą) ir kreipiasi į Komisiją dėl licencijos galiojimo sustabdymo arba licencijos turėtojas šiurkščiai pažeidžia šio įstatymo reikalavimus ar licencijos sąlygas: ^s-f982ae7adf101fefe0ad5c1e
 
 
-1) platina šio įstatymo [[#^s-9ae0e2fd00f53f4dc1390f3b|19 straipsnio]] 1 ir [[#^s-f61fe556d769a9f19df03a5c|2 dalyse]] nurodytą neskelbtiną ir draudžiamą informaciją; ^s-188c8a8d30a2c98261b27ddc
+1) platina šio įstatymo [[#^s-9ae0e2fd00f53f4dc1390f3b|19 straipsnio]] [[#^s-6ec853dbb5dbffc12e14ffd9|1]] ir [[#^s-129422ae922c2c721c9d2bc9|2]] dalyse nurodytą neskelbtiną ir draudžiamą informaciją; ^s-188c8a8d30a2c98261b27ddc
 
 
 2) pažeidžia pagrindines licencijos sąlygas ir (ar) įsipareigojimus dėl transliuojamos (retransliuojamos) programos ir jeigu jam per paskutinius 12 mėnesių už tokį pat pažeidimą buvo pakartotinai skirta administracinė nuobauda; ^s-4af86c10bfc6914a3b17f2cb
@@ -1045,7 +1045,7 @@ VIEŠOSIOS INFORMACIJOS RENGIMO IR PLATINIMO REIKALAVIMAI
 3. Kūriniai, kurie, remiantis [[#^s-1cee8bb76886c0ca3693b11a|šio straipsnio 1 dalies]] nuostatomis, neturėtų būti laikomi Europos kūriniais, bet yra sukurti remiantis dvišalėmis bendro kūrimo (gamybos) sutartimis tarp Europos Sąjungos valstybių narių arba Lietuvos Respublikos ir trečiųjų Europos valstybių, traktuojami kaip Europos kūriniai, jeigu Europos Sąjungos arba Lietuvos Respublikos kūrėjų įnašas sudaro didžiąją bendro kūrimo (gamybos) išlaidų dalį ir jeigu jų kūrimas (gamyba) nėra kontroliuojamas kūrėjų, įsisteigusių ne Europos Sąjungos valstybėje narėje. ^s-16d530b966cb3ca50f9e8dee
 
 
-4. Kūriniai, kurie, remiantis šio straipsnio 1 ir [[#^s-fd27e06b43f94ec5ab4cc0d4|2 dalių]] nuostatomis, neturėtų būti laikomi Europos kūriniais, bet iš esmės yra sukurti bendradarbiaujant su autoriais ir kūrėjais, gyvenančiais vienoje ar keliose Europos Sąjungos valstybėse narėse, traktuojami kaip Europos kūriniai tokiu mastu, kuris atitinka Europos Sąjungos valstybėse narėse įsisteigusių kūrėjų įnašą į šių kūrinių bendro kūrimo (gamybos) išlaidas. ^s-6f546b4fe341ae5e62880773
+4. Kūriniai, kurie, remiantis šio straipsnio [[#^s-1cee8bb76886c0ca3693b11a|1]] ir [[#^s-fd27e06b43f94ec5ab4cc0d4|2]] dalių nuostatomis, neturėtų būti laikomi Europos kūriniais, bet iš esmės yra sukurti bendradarbiaujant su autoriais ir kūrėjais, gyvenančiais vienoje ar keliose Europos Sąjungos valstybėse narėse, traktuojami kaip Europos kūriniai tokiu mastu, kuris atitinka Europos Sąjungos valstybėse narėse įsisteigusių kūrėjų įnašą į šių kūrinių bendro kūrimo (gamybos) išlaidas. ^s-6f546b4fe341ae5e62880773
 
 
 
@@ -1067,7 +1067,7 @@ VIEŠOSIOS INFORMACIJOS RENGIMO IR PLATINIMO REIKALAVIMAI
 3) Lietuvos Respublikoje visuomenei itin reikšmingais įvykiais laikoma: olimpinės vasaros ir žiemos žaidynės, pasaulio ir Europos krepšinio čempionatai, pasaulio futbolo taurės varžybos, Europos futbolo čempionatas, Lietuvos dainų šventės, iškilmingi Lietuvos valstybinių švenčių minėjimai. Vyriausybė gali šį sąrašą papildyti ir kitais visuomenei itin reikšmingais įvykiais. Vyriausybės įgaliota institucija nustato reikalavimus, kurių laikomasi transliuojant programas ar laidas apie Lietuvos Respublikos visuomenei itin reikšmingus įvykius; ^s-41180c5fb4def9b398edecdf
 
 
-4) šios dalies 1 ir [[#^s-a59f7828505a628f71567967|2 punktų]] nuostatoms įgyvendinti būtinus reikalavimus nustato Komisija. ^s-6fe562dcccd8ba61e3aeb115
+4) šios dalies [[#^s-ac7dd9190b86ea35d6c87cd3|1]] ir [[#^s-a59f7828505a628f71567967|2]] punktų nuostatoms įgyvendinti būtinus reikalavimus nustato Komisija. ^s-6fe562dcccd8ba61e3aeb115
 
 
 3. Televizijos transliuotojai daugiau kaip pusę programos laiko, kuris lieka atėmus laiką, skirtą žinių, sporto, žaidimų, reklamos laidoms, teleteksto paslaugoms ir teleparduotuvei, kai tai įmanoma, turi skirti Europos kūriniams. ^s-4465e7b0d638c849030428be
@@ -1082,7 +1082,7 @@ VIEŠOSIOS INFORMACIJOS RENGIMO IR PLATINIMO REIKALAVIMAI
 6. Radijo, televizijos programoje ne rečiau kaip kartą per valandą turi būti skelbiamas programą transliuojančios stoties arba retransliuojamos programos pavadinimas. Jeigu radijo, televizijos stoties programa yra trumpesnė nei valanda, programos pavadinimas skelbiamas programos pabaigoje. ^s-b032b35a6ed26359f4cd139b
 
 
-7. Šio straipsnio 3 ir [[#^s-4a69eb9455676beadcf2fda3|4 dalyse]] nurodyti reikalavimai netaikomi vietiniams televizijos transliuotojams. ^s-adf95598003f142057ae665c
+7. Šio straipsnio [[#^s-4465e7b0d638c849030428be|3]] ir [[#^s-4a69eb9455676beadcf2fda3|4]] dalyse nurodyti reikalavimai netaikomi vietiniams televizijos transliuotojams. ^s-adf95598003f142057ae665c
 
 
 
@@ -1176,7 +1176,7 @@ VIEŠOSIOS INFORMACIJOS RENGIMO IR PLATINIMO REIKALAVIMAI
 15. Šio straipsnio nuostatos taikomos bet kokia forma ir bet kokiomis priemonėmis transliuojamai reklamai. ^s-ea0a589f1b831a6b2acf69e1
 
 
-16. Reikalavimus, keliamus politinei reklamai, jos skelbimo ir žymėjimo tvarką visuomenės informavimo priemonėse nustato Politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymas ir kiti teisės aktai. ^s-540677327f71341384d9f518
+16. Reikalavimus, keliamus politinei reklamai, jos skelbimo ir žymėjimo tvarką visuomenės informavimo priemonėse nustato [Politinių partijų ir politinių kampanijų finansavimo bei finansavimo kontrolės įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.CF812DA6E814) ir kiti teisės aktai. ^s-540677327f71341384d9f518
 
 
 
@@ -1259,7 +1259,7 @@ VIEŠOSIOS INFORMACIJOS RENGIMO IR PLATINIMO REIKALAVIMAI
 3. Viešosios informacijos rengėjai ir skleidėjai turi teikti asmenims informaciją (įskaitant transliuotų laidų įrašus), kurios paskelbimas, tų asmenų nuomone, žemina jų garbę ir orumą arba pakenkė jų dalykinei reputacijai ar kitiems teisėtiems interesams. Prašymai teikti informaciją viešosios informacijos rengėjams ir (ar) skleidėjams pateikiami raštu. Už prašomos informacijos suteikimą viešosios informacijos rengėjai ir (ar) skleidėjai gali imti mokestį. Jo dydis negali viršyti prašomos informacijos kopijos pagaminimo išlaidų. ^s-14decc930263b1c6acffbe9f
 
 
-4. Viešosios informacijos rengėjams ir skleidėjams, pateikiantiems informaciją šio straipsnio 1 ir [[#^s-14decc930263b1c6acffbe9f|3 dalyse]] išvardytiems subjektams, taikomos šio įstatymo [[#^s-8865aa68dac48b0194b8f41d|6 straipsnio]] 4 ir 5 dalių nuostatos. ^s-b0801c02c86f8ac0540830d0
+4. Viešosios informacijos rengėjams ir skleidėjams, pateikiantiems informaciją šio straipsnio [[#^s-373d8d4b1b8ee0057213b602|1]] ir [[#^s-14decc930263b1c6acffbe9f|3]] dalyse išvardytiems subjektams, taikomos šio įstatymo [[#^s-8865aa68dac48b0194b8f41d|6 straipsnio]] [[#^s-85c396bb2e4d91ed03fb173c|4]] ir [[#^s-ba0fdf6b4faccfb8a1f95b20|5]] dalių nuostatos. ^s-b0801c02c86f8ac0540830d0
 
 
 
@@ -1364,7 +1364,7 @@ VIEŠOSIOS INFORMACIJOS RENGĖJŲ IR SKLEIDĖJŲ VEIKLOS REGLAMENTAVIMO IR SAVIT
 5. Į Komisiją gali kreiptis visi suinteresuoti asmenys. ^s-879c917b67c8266bdd62b15f
 
 
-6. Komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais teisės aktais, taip pat Lietuvos žurnalistų ir leidėjų etikos kodeksu, Europos Tarybos Parlamentinės Asamblėjos rezoliucija „Dėl žurnalistinės etikos“. ^s-9d4f916d00566c209855cd94
+6. Komisija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais teisės aktais, taip pat Lietuvos žurnalistų ir leidėjų etikos kodeksu, Europos Tarybos Parlamentinės Asamblėjos rezoliucija „Dėl žurnalistinės etikos“. ^s-9d4f916d00566c209855cd94
 
 
 7. Komisija dirba pagal pačios patvirtintą reglamentą. Komisijos sprendimai dėl profesinės etikos ar kitų pažeidimų turi būti skelbiami nedelsiant tose pačiose visuomenės informavimo priemonėse, kuriose Komisija nustatė šiuos pažeidimus, ir tokia pat kaip ir šio įstatymo [[#^s-8f18e3708b57a1eb1c75ebc4|44 straipsnyje]] nustatyta paneigimo paskelbimo tvarka. Jei visuomenės informavimo rengėjas ir (ar) skleidėjas per dvi savaites nepaskelbia Komisijos sprendimo dėl profesinės etikos ar kitų pažeidimų savo visuomenės informavimo priemonėje, Komisijos sprendimas skelbiamas per Lietuvos nacionalinio radijo pirmąją programą ir Komisijos tinklalapyje – informacinės visuomenės informavimo priemonėje, kurios valdytoja yra Komisija. ^s-dc53b7532222e46e592201b8
@@ -1383,7 +1383,7 @@ VIEŠOSIOS INFORMACIJOS RENGĖJŲ IR SKLEIDĖJŲ VEIKLOS REGLAMENTAVIMO IR SAVIT
 1. Komisija – nepriklausoma Seimui atskaitinga Lietuvos Respublikos jurisdikcijai priklausančių radijo ir televizijos transliuotojų ir retransliuotojų veiklą reguliuojanti ir kontroliuojanti institucija. Komisija dalyvauja formuojant valstybės audiovizualinę politiką. Ji yra Seimo ir Vyriausybės ekspertė radijo ir televizijos transliavimo ir retransliavimo klausimais. ^s-4446803cfd097302697cf399
 
 
-2. Komisija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais bei teisės aktais, taip pat pačios pasitvirtintais nuostatais. ^s-685fc9b623e6f6a7c0cce0d7
+2. Komisija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais bei teisės aktais, taip pat pačios pasitvirtintais nuostatais. ^s-685fc9b623e6f6a7c0cce0d7
 
 
 3. Komisija yra viešasis juridinis asmuo, turi savo antspaudą su valstybės herbu ir sąskaitų banke. Komisijos būstinė yra Vilniuje. ^s-3cdfac9ed6c89c9d00ce7ff3
@@ -1483,7 +1483,7 @@ VIEŠOSIOS INFORMACIJOS RENGĖJŲ IR SKLEIDĖJŲ VEIKLOS REGLAMENTAVIMO IR SAVIT
 7) nustatyti įstatymų ir Europos Sąjungos reikalavimų programų sandarai ir turiniui, reklamos transliavimui ir programų (laidų) rėmimui įgyvendinimo tvarką; ^s-4041352e90ec9c3f04992d81
 
 
-8) kontroliuoti, kaip transliuotojai laikosi šio įstatymo nuostatų dėl Europos kūrinių ir nepriklausomų kūrėjų sukurtų kūrinių masto transliuojamose programose, teisės rodyti laidas apie visuomenei itin reikšmingus įvykius, šio įstatymo [[#^s-ca86f6fe7ca91a9b264d5180|39 straipsnio]] 3, 5, 10, 11 ir 12 dalyse nustatytų reikalavimų reklamai, nuostatų dėl programų rėmimo; ^s-b7c023712f4998bfd0de5044
+8) kontroliuoti, kaip transliuotojai laikosi šio įstatymo nuostatų dėl Europos kūrinių ir nepriklausomų kūrėjų sukurtų kūrinių masto transliuojamose programose, teisės rodyti laidas apie visuomenei itin reikšmingus įvykius, šio įstatymo [[#^s-ca86f6fe7ca91a9b264d5180|39 straipsnio]] [[#^s-860cff3e5e7e99ba9eae1bb1|3]], [[#^s-855d1d5f74852268f25880ae|5]], [[#^s-f02f261da5f60b999ed076ae|10]], [[#^s-6efe510ecd62898596689a28|11]] ir [[#^s-47960148676d2184a1d43cc9|12]] dalyse nustatytų reikalavimų reklamai, nuostatų dėl programų rėmimo; ^s-b7c023712f4998bfd0de5044
 
 
 9) kontroliuoti, kaip retransliuotojai laikosi šio ir kitų įstatymų nuostatų dėl programų transliavimo, retransliavimo ir įstatymais nustatytų reikalavimų viešajai informacijai; ^s-ff0ce4a61a89e4c012c38fa7
@@ -1492,7 +1492,7 @@ VIEŠOSIOS INFORMACIJOS RENGĖJŲ IR SKLEIDĖJŲ VEIKLOS REGLAMENTAVIMO IR SAVIT
 10) kontroliuojant įstatymų, Komisijos sprendimų, reglamentuojančių transliuotojų bei retransliuotojų veiklą, ir licencijų sąlygų laikymąsi, vykdyti transliuotojų ir retransliuotojų programų stebėseną (monitoringą); ^s-f23d1203f711a5918cbd90f4
 
 
-11) transliuotojams ir retransliuotojams, taip pat kitiems asmenims, transliuojantiems, retransliuojantiems ar kitais būdais platinantiems programas ar jų dalis elektroninių ryšių tinklais, kurių pagrindinė paskirtis nėra programų transliavimas ir (ar) retransliavimas, taip pat duomenų perdavimo tinklais viešai platinamų programų rengėjams ir (ar) skleidėjams, pažeidusiems [[latest/TAR.817CC58C1A54|Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo]], šio įstatymo reikalavimus ar licencijų sąlygas, nevykdantiems Komisijos priimtų sprendimų ar įpareigojimų, įstatymų nustatyta tvarka taikyti šias nuobaudas: įspėjimus, Administracinių teisės pažeidimų kodekse numatytas pinigines baudas, ne ilgiau kaip trims mėnesiams sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą, kreiptis į teismą dėl informacinės visuomenės informavimo priemonių veiklos sustabdymo ar nutraukimo šio įstatymo nustatyta tvarka; ^s-0998a4b86b5b488073c18c9e
+11) transliuotojams ir retransliuotojams, taip pat kitiems asmenims, transliuojantiems, retransliuojantiems ar kitais būdais platinantiems programas ar jų dalis elektroninių ryšių tinklais, kurių pagrindinė paskirtis nėra programų transliavimas ir (ar) retransliavimas, taip pat duomenų perdavimo tinklais viešai platinamų programų rengėjams ir (ar) skleidėjams, pažeidusiems [[latest/TAR.817CC58C1A54|Nepilnamečių apsaugos nuo neigiamo viešosios informacijos poveikio įstatymo]], šio įstatymo reikalavimus ar licencijų sąlygas, nevykdantiems Komisijos priimtų sprendimų ar įpareigojimų, įstatymų nustatyta tvarka taikyti šias nuobaudas: įspėjimus, [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytas pinigines baudas, ne ilgiau kaip trims mėnesiams sustabdyti licencijos galiojimą, panaikinti licencijos galiojimą, kreiptis į teismą dėl informacinės visuomenės informavimo priemonių veiklos sustabdymo ar nutraukimo šio įstatymo nustatyta tvarka; ^s-0998a4b86b5b488073c18c9e
 
 
 12) teikti siūlymus dėl transliuotojų ir retransliuotojų veiklą reglamentuojančių įstatymų ir kitų su šia veikla susijusių teisės aktų rengimo; ^s-f0191bc8b2552051f2666554
@@ -1507,7 +1507,7 @@ VIEŠOSIOS INFORMACIJOS RENGĖJŲ IR SKLEIDĖJŲ VEIKLOS REGLAMENTAVIMO IR SAVIT
 15) kaupti informaciją apie transliuotojus, retransliuotojus ir bendruosius priėmimo tinklus, analizuoti jų veiklą ir skelbti informaciją apie jų dalyvius, rengti informacinę ir metodinę medžiagą šiais klausimais; ^s-a21520b16e9dd9d13ccde689
 
 
-16) kas dveji metai parengti ir pateikti Seimui analitinę apžvalgą apie Lietuvos audiovizualinės politikos įgyvendinimą, audiovizualinių paslaugų rinkos raidą, šalies audiovizualinio sektoriaus plėtros perspektyvas, pateikti joje statistinius duomenis apie visiems Lietuvos Respublikos jurisdikcijai priklausantiems transliuotojams privalomą pažangą įgyvendinant [[#^s-eaf27a40984bb33daae1027b|38 straipsnio]] 3 ir 4 dalių nuostatas, taip pat nurodyti priežastis, kurios trukdo šias nuostatas įgyvendinti, ir priemones, kurių imtasi ar numatoma imtis trūkumams pašalinti; ^s-526fc81930a99943206a4690
+16) kas dveji metai parengti ir pateikti Seimui analitinę apžvalgą apie Lietuvos audiovizualinės politikos įgyvendinimą, audiovizualinių paslaugų rinkos raidą, šalies audiovizualinio sektoriaus plėtros perspektyvas, pateikti joje statistinius duomenis apie visiems Lietuvos Respublikos jurisdikcijai priklausantiems transliuotojams privalomą pažangą įgyvendinant [[#^s-eaf27a40984bb33daae1027b|38 straipsnio]] [[#^s-4465e7b0d638c849030428be|3]] ir [[#^s-4a69eb9455676beadcf2fda3|4]] dalių nuostatas, taip pat nurodyti priežastis, kurios trukdo šias nuostatas įgyvendinti, ir priemones, kurių imtasi ar numatoma imtis trūkumams pašalinti; ^s-526fc81930a99943206a4690
 
 
 17) bendradarbiauti su Europos Sąjungos ir kitų užsienio šalių tokias pačias funkcijas atliekančiomis institucijomis, pagal savo kompetenciją atstovauti Lietuvos Respublikai tarptautinėse organizacijose; ^s-434a15f03d3860b26b59ba4a
@@ -1537,7 +1537,7 @@ VIEŠOSIOS INFORMACIJOS RENGĖJŲ IR SKLEIDĖJŲ VEIKLOS REGLAMENTAVIMO IR SAVIT
 4) sudaryti komisijas, darbo grupes teisės aktams rengti ar kitiems Komisijos kompetencijos klausimams spręsti, įtraukti į jas kitų institucijų (suderinus su jų vadovais) specialistus; ^s-efd8404e38be00d1e79806a4
 
 
-5) pagal savo kompetenciją kaip kompetentinga institucija, vadovaudamasi 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo, dalyvauti kuriant ir vykdant šiuo reglamentu nustatytą bendradarbiavimo sistemą; ^s-8188cb6832baeedffc248067
+5) pagal savo kompetenciją kaip kompetentinga institucija, vadovaudamasi 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo, dalyvauti kuriant ir vykdant šiuo reglamentu nustatytą bendradarbiavimo sistemą; ^s-8188cb6832baeedffc248067
 
 
 6) organizuoti pasitarimus, konferencijas ir kitus renginius; ^s-cc0068811ae75934b629ac3e
@@ -1546,7 +1546,7 @@ VIEŠOSIOS INFORMACIJOS RENGĖJŲ IR SKLEIDĖJŲ VEIKLOS REGLAMENTAVIMO IR SAVIT
 7) sudaryti sutartis, prisiimti įsipareigojimus, turėti kitokių civilinių teisių ir pareigų, jeigu tai neprieštarauja Lietuvos Respublikos įstatymams; ^s-c1618b6c486fe100562d6911
 
 
-8) turėti kitas šio įstatymo, tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių transliavimo ir retransliavimo veiklą, ir 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo ir kitų teisės aktų nustatytas teises. ^s-2cd6af3caf353486532e3098
+8) turėti kitas šio įstatymo, tiesiogiai taikomų Europos Sąjungos teisės aktų, reglamentuojančių transliavimo ir retransliavimo veiklą, ir 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo ir kitų teisės aktų nustatytas teises. ^s-2cd6af3caf353486532e3098
 
 
 
@@ -1565,7 +1565,7 @@ VIEŠOSIOS INFORMACIJOS RENGĖJŲ IR SKLEIDĖJŲ VEIKLOS REGLAMENTAVIMO IR SAVIT
 4. Žurnalistų etikos inspektoriumi negali būti Seimo, Vyriausybės nariai, politinio (asmeninio) pasitikėjimo valstybės tarnautojai. Žurnalistų etikos inspektorius ir jo šeimos nariai negali būti susiję darbo santykiais su viešosios informacijos rengėjais ir (ar) skleidėjais, negali turėti viešosios informacijos rengėjų ir (ar) skleidėjų akcijų. Savo kadencijos laikotarpiu žurnalistų etikos inspektorius negali dalyvauti politinėje veikloje. ^s-f656a5d6d6c52611748ff28f
 
 
-5. Žurnalistų etikos inspektorius vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais teisės aktais. ^s-3b1ab290d71f23920e1c643d
+5. Žurnalistų etikos inspektorius vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais teisės aktais. ^s-3b1ab290d71f23920e1c643d
 
 
 6. Žurnalistų etikos inspektoriaus veikla grindžiama teisėtumo, nešališkumo, teisingumo ir viešumo principais. ^s-e19e5aba3f668956c9de35f4
@@ -1659,10 +1659,10 @@ VIEŠOSIOS INFORMACIJOS RENGĖJŲ IR SKLEIDĖJŲ VEIKLOS REGLAMENTAVIMO IR SAVIT
 3) kreiptis į kompetentingas valstybės institucijas bei Žurnalistų ir leidėjų etikos komisiją dėl pastebėtų šio įstatymo ir kitų visuomenės informavimą reglamentuojančių teisės aktų pažeidimų; ^s-c5ef708285f4c65c786d0a99
 
 
-4) Administracinių teisės pažeidimų kodekso nustatytais atvejais surašyti administracinių teisės pažeidimų protokolus; ^s-f074721f428efd5aba07a52d
+4) [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatytais atvejais surašyti administracinių teisės pažeidimų protokolus; ^s-f074721f428efd5aba07a52d
 
 
-5) Administracinių teisės pažeidimų kodekso nustatytais atvejais nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas. ^s-dad896fedea5644ad639cae7
+5) [Administracinių teisės pažeidimų kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) nustatytais atvejais nagrinėti administracinių teisės pažeidimų bylas ir skirti administracines nuobaudas. ^s-dad896fedea5644ad639cae7
 
 
 3. Žurnalistų etikos inspektoriaus sprendimai skelbiami „Valstybės žinių“ priede „Informaciniai pranešimai“ ir Žurnalistų etikos inspektoriaus tarnybos interneto svetainėje. Rezoliucinė žurnalistų etikos inspektoriaus sprendimo dalis turi būti nedelsiant paskelbta toje visuomenės informavimo priemonėje, kurioje žurnalistų etikos inspektorius nustatė pažeidimą. ^s-ad597e34b011f7c13f9ca496
@@ -1701,7 +1701,7 @@ ATSAKOMYBĖ UŽ VISUOMENĖS INFORMAVIMĄ REGLAMENTUOJANČIŲ TEISĖS AKTŲ PAŽE
 ### 52 straipsnis.       Viešosios informacijos rengėjų ir (ar) skleidėjų veiklos sustabdymas arba nutraukimas ^s-be3a6b234eb3e99402855e36
 
 
-1. Viešosios informacijos rengėjo ir (ar) skleidėjo, išskyrus transliuotojus ir (ar) retransliuotojus, veiklą gali laikinai sustabdyti arba nutraukti teismas, jeigu viešosios informacijos rengėjas ir (ar) skleidėjas pažeidžia šio įstatymo [[#^s-9ae0e2fd00f53f4dc1390f3b|19 straipsnio]] 1 ir [[#^s-e8fb0b9c932198f64a46f6e8|2 dalių]] nuostatas. ^s-7e59834f19fe297ffd4cd95d
+1. Viešosios informacijos rengėjo ir (ar) skleidėjo, išskyrus transliuotojus ir (ar) retransliuotojus, veiklą gali laikinai sustabdyti arba nutraukti teismas, jeigu viešosios informacijos rengėjas ir (ar) skleidėjas pažeidžia šio įstatymo [[#^s-9ae0e2fd00f53f4dc1390f3b|19 straipsnio]] [[#^s-6ec853dbb5dbffc12e14ffd9|1]] ir [[#^s-129422ae922c2c721c9d2bc9|2]] dalių nuostatas. ^s-7e59834f19fe297ffd4cd95d
 
 
 2. Priimdamas sprendimą dėl laikino viešosios informacijos rengėjo ir (ar) skleidėjo veiklos sustabdymo, teismas gali nustatyti ne ilgesnį kaip vieno mėnesio veiklos sustabdymo terminą laikraščių redakcijoms ir ne ilgesnį kaip trijų mėnesių – žurnalų redakcijoms. ^s-e8fb0b9c932198f64a46f6e8
@@ -1766,7 +1766,7 @@ priedas
 3. 1998 m. liepos 20 d. Europos Parlamento ir Tarybos direktyva 98/48/EB, iš dalies keičianti Direktyvą 98/34/EB, nustatančią informacijos apie techninius standartus ir reglamentus teikimo tvarką (OL 2004 m. specialusis leidimas, 13 skyrius, 21 tomas, p. 8). ^s-fe0cf7907859e9ccd79c27a9
 
 
-4. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 2006/2004 dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OC 2004 m. L 364, p. 1).“ ^s-9bf0fb37b3de195ae96e46e0
+4. 2004 m. spalio 27 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 2006/2004](https://eur-lex.europa.eu/eli/reg/2006/2004/oj) dėl nacionalinių institucijų, atsakingų už vartotojų apsaugos teisės aktų vykdymą, bendradarbiavimo (OC 2004 m. L 364, p. 1).“ ^s-9bf0fb37b3de195ae96e46e0
 
 
 

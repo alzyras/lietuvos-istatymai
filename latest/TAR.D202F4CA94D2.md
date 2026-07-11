@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-4b876889015b9f9608cdb893
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. gegužės 16 d. dekretą Nr. 615, ratifikuoja su išlyga 1996 m. Protokolą, iš dalies keičiantį 1976 m. Konvenciją dėl atsakomybės pagal jūrinius reikalavimus ribojimo, priimtą 1996 m. gegužės 2 d. Londone.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. gegužės 16 d. dekretą Nr. 615](https://e-tar.lt/portal/lt/legalAct/TAR.FAEE87FCB5FC), ratifikuoja su išlyga 1996 m. Protokolą, iš dalies keičiantį 1976 m. Konvenciją dėl atsakomybės pagal jūrinius reikalavimus ribojimo, priimtą 1996 m. gegužės 2 d. Londone.
 
 
 

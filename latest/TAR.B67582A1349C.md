@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-0b5bed895fc15e0990d41b41
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. lapkričio 3 d. dekretą Nr. 1K-197, ratifikuoja su pareiškimu Konvenciją dėl kasetinių šaudmenų, priimtą 2008 m. gegužės 30 d. Dubline.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. lapkričio 3 d. dekretą Nr. 1K-197](https://e-tar.lt/portal/lt/legalAct/TAR.50368B96B6F3), ratifikuoja su pareiškimu Konvenciją dėl kasetinių šaudmenų, priimtą 2008 m. gegužės 30 d. Dubline.
 
 
 

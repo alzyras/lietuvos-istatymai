@@ -104,7 +104,7 @@ BENDROSIOS NUOSTATOS
 ### 3 straipsnis. Teisiniai žvalgybos institucijų veiklos pagrindai ^s-92eddc75785522e65e436ef0
 
 
-Žvalgybos institucijos, įgyvendindamos pavestus uždavinius, vadovaujasi Lietuvos Respublikos Konstitucija, [[latest/TAR.A0BAB27D768C|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymu]], šiuo įstatymu, kitais teisės aktais ir Lietuvos Respublikos tarptautinėmis sutartimis.
+Žvalgybos institucijos, įgyvendindamos pavestus uždavinius, vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), [[latest/TAR.A0BAB27D768C|Lietuvos Respublikos nacionalinio saugumo pagrindų įstatymu]], šiuo įstatymu, kitais teisės aktais ir Lietuvos Respublikos tarptautinėmis sutartimis.
 
 
 
@@ -779,7 +779,7 @@ Skundus dėl žvalgybos pareigūnų veiksmų, pažeidžiančių žmogaus teises 
 2. Žvalgybos institucijos darbuotojų darbo sąlygas nustato [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodeksas]] (toliau – [[latest/f6d686707e7011e6b969d7ae07280e89|Darbo kodeksas]]) ir kiti darbo santykius reglamentuojantys teisės aktai, jeigu šis įstatymas nenustato kitaip. ^s-06ddabd7ea2770b46adeac79
 
 
-3. Antrajame operatyvinių tarnybų departamente tarnaujantys kariai turi [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme]] (toliau – [[latest/TAR.15C705E93776|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]]) nustatytą kario statusą. Jiems be išlygų taikomos šio įstatymo 32 ir [[#^s-d012bc6f52e0e3f3ace0f707|33 straipsnių]], [[#^s-21b101315ba07bca007cafa6|34 straipsnio 4 dalies]], 39, 40, 41, 48 ir [[#^s-2361f657fa30ee2e31aa60b1|49 straipsnių]], [[#^s-13e0761587fb6bbc90dea771|51 straipsnio]] 1 ir [[#^s-06ddabd7ea2770b46adeac79|2 dalių]], [[#^s-bddef1480004b431a6ce19b9|54 straipsnio 2 dalies]] ir [[#^s-299021e01f9c048369526472|64 straipsnio]] nuostatos, o kitos šio įstatymo nuostatos profesinės karo tarnybos kariams (toliau – karys) taikomos tiek, kiek jų statuso nenustato profesinę karo tarnybą reglamentuojantys teisės aktai. ^s-5319ade6ba43bc5341abb164
+3. Antrajame operatyvinių tarnybų departamente tarnaujantys kariai turi [[latest/TAR.15C705E93776|Lietuvos Respublikos krašto apsaugos sistemos organizavimo ir karo tarnybos įstatyme]] (toliau – [[latest/TAR.15C705E93776|Krašto apsaugos sistemos organizavimo ir karo tarnybos įstatymas]]) nustatytą kario statusą. Jiems be išlygų taikomos šio įstatymo [[#^s-e6a2d87affccf7c991d50ed2|32]] ir [[#^s-d012bc6f52e0e3f3ace0f707|33]] straipsnių, [[#^s-21b101315ba07bca007cafa6|34 straipsnio 4 dalies]], [[#^s-b1c9878b9ffd05d93b9daa20|39]], [[#^s-736e4f31cc59dfd89f0bd2a9|40]], [[#^s-b32940225e7fec2b97e7ebc6|41]], [[#^s-8e96d678eef764eafd27b117|48]] ir [[#^s-2361f657fa30ee2e31aa60b1|49]] straipsnių, [[#^s-13e0761587fb6bbc90dea771|51 straipsnio]] [[#^s-216ee62aa2fbc35e449a41fe|1]] ir [[#^s-1d5a6f2f17f661d6eb745f34|2]] dalių, [[#^s-bddef1480004b431a6ce19b9|54 straipsnio 2 dalies]] ir [[#^s-299021e01f9c048369526472|64 straipsnio]] nuostatos, o kitos šio įstatymo nuostatos profesinės karo tarnybos kariams (toliau – karys) taikomos tiek, kiek jų statuso nenustato profesinę karo tarnybą reglamentuojantys teisės aktai. ^s-5319ade6ba43bc5341abb164
 
 
 
@@ -1483,10 +1483,10 @@ TARNYBINIŲ ŠAUNAMŲJŲ GINKLŲ NAUDOJIMAS
 2. Atleidžiamas iš tarnybos žvalgybos pareigūnas privalo ne vėliau kaip atleidimo dieną grąžinti tarnybinį ginklą, tarnybinį pažymėjimą, tarnybinį ženklą, dokumentus ir kitas darbo priemones, kurias jis gavo tarnaudamas žvalgybos institucijoje. ^s-bddef1480004b431a6ce19b9
 
 
-3. Žvalgybos pareigūnas šio įstatymo [[#^s-5914d2e9ec37fecdcfa59b7d|53 straipsnio 14 punkte]] nustatytu pagrindu iš tarnybos atleidžiamas ir tarnybos sutartis su juo nutraukiama, apie tai jį įspėjus ne vėliau kaip prieš 2 mėnesius. Nėščiai moteriai (kai žvalgybos institucija likviduojama), moteriai ar vyrui, vieniems auginantiems vaiką (vaikus) iki 14 metų, asmeniui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko ne daugiau kaip 5 metai, apie numatomą atleidimą iš tarnybos turi būti pranešama raštu prieš 4 mėnesius. ^s-26d90b6e2919be6607257f3b
+3. Žvalgybos pareigūnas šio įstatymo 53 straipsnio 14 punkte nustatytu pagrindu iš tarnybos atleidžiamas ir tarnybos sutartis su juo nutraukiama, apie tai jį įspėjus ne vėliau kaip prieš 2 mėnesius. Nėščiai moteriai (kai žvalgybos institucija likviduojama), moteriai ar vyrui, vieniems auginantiems vaiką (vaikus) iki 14 metų, asmeniui, kuriam iki teisės gauti pareigūnų ir karių valstybinę pensiją liko ne daugiau kaip 5 metai, apie numatomą atleidimą iš tarnybos turi būti pranešama raštu prieš 4 mėnesius. ^s-26d90b6e2919be6607257f3b
 
 
-4. Žvalgybos pareigūnas šio įstatymo [[#^s-5914d2e9ec37fecdcfa59b7d|53 straipsnio 14 punkte]] nustatytu pagrindu iš tarnybos negali būti atleidžiamas jo laikinojo nedarbingumo laikotarpiu, jeigu laikinojo nedarbingumo laikotarpis ne ilgesnis kaip 120 kalendorinių dienų iš eilės. ^s-754eca208ea733137a850733
+4. Žvalgybos pareigūnas šio įstatymo 53 straipsnio 14 punkte nustatytu pagrindu iš tarnybos negali būti atleidžiamas jo laikinojo nedarbingumo laikotarpiu, jeigu laikinojo nedarbingumo laikotarpis ne ilgesnis kaip 120 kalendorinių dienų iš eilės. ^s-754eca208ea733137a850733
 
 
 5. Negalima atleisti iš tarnybos žvalgybos institucijoje nėščios moters, taip pat motinos arba tėvo, auginančių vaiką iki 3 metų, jeigu nėra jų kaltės (išskyrus atvejus, kai žvalgybos institucija likviduojama). ^s-faa2009464cec9260e113ea2
@@ -1716,13 +1716,13 @@ Už tarnybinius nusižengimus žvalgybos pareigūnams skiriamos šios tarnybinė
 3. Tarnybinio patikrinimo metu turi būti visapusiškai, nuodugniai ir objektyviai ištirtas tarnybinis nusižengimas, nustatytos jo padarymo priežastys ir sąlygos, nustatyti kalti asmenys, juo turi būti užtikrinama, kad už tarnybinius nusižengimus atsakytų tik juos padarę asmenys. Esant galimybei, turi būti nustatytos drausmės stiprinimo ir tarnybinių nusižengimų prevencijos priemonės. ^s-d5463c73b9e36cf5abc672d7
 
 
-4. Tarnybinis patikrinimas negali būti vykdomas ilgiau kaip 3 mėnesius, neįskaitant laiko, kurį žvalgybos pareigūnas nebuvo tarnyboje dėl laikinojo nedarbingumo arba dėl atostogų. ^s-c049d5ae1bf8ad4f7dba2079
+4. Tarnybinis patikrinimas negali būti vykdomas ilgiau kaip 3 mėnesius, neįskaitant laiko, kurį žvalgybos pareigūnas nebuvo tarnyboje dėl laikinojo nedarbingumo arba [dėl atostogų](https://e-tar.lt/portal/lt/legalAct/213d0c608f4211e4a98a9f2247652cf4). ^s-c049d5ae1bf8ad4f7dba2079
 
 
 5. Kai paaiškėja, kad tarnybinis nusižengimas turi nusikalstamos veikos požymių, tarnybinis patikrinimas sustabdomas ir tarnybinio patikrinimo medžiaga perduodama institucijai, kompetentingai tirti atitinkamas nusikalstamas veikas. Jeigu atsisakoma pradėti baudžiamąjį procesą ar asmuo atleidžiamas nuo baudžiamosios atsakomybės, tarnybinis patikrinimas tęsiamas šiame straipsnyje nustatyta tvarka. ^s-12e1f03a6bab3f1cf08635bc
 
 
-6. Tarnybinė nuobauda turi būti paskiriama ne vėliau kaip per vieną mėnesį nuo tarnybinio nusižengimo paaiškėjimo dienos, neįskaitant laiko, kurį žvalgybos pareigūnas nebuvo tarnyboje dėl laikinojo nedarbingumo arba dėl atostogų. ^s-66681d6d0e58b71d831a0469
+6. Tarnybinė nuobauda turi būti paskiriama ne vėliau kaip per vieną mėnesį nuo tarnybinio nusižengimo paaiškėjimo dienos, neįskaitant laiko, kurį žvalgybos pareigūnas nebuvo tarnyboje dėl laikinojo nedarbingumo arba [dėl atostogų](https://e-tar.lt/portal/lt/legalAct/213d0c608f4211e4a98a9f2247652cf4). ^s-66681d6d0e58b71d831a0469
 
 
 7. Pradėjus tarnybinio nusižengimo tyrimą, reikalaujama, kad žvalgybos pareigūnas raštu pateiktų paaiškinimą. Tarnybinio nusižengimo tyrimo procedūra tęsiama ir pareigūnui atsisakius pateikti paaiškinimą. ^s-ed2a53604022584738c60549
@@ -1883,7 +1883,7 @@ TRYLIKTASIS SKIRSNIS
 1. Žvalgybos pareigūnų tarnybinis atlyginimas susideda iš pareiginės algos, priedų už tarnybinį rangą ar kario laipsnį ir tarnybos stažą. ^s-80ca4c2de35bc305853e7a33
 
 
-2. Žvalgybos pareigūnų pareiginės algos dydžius nustato Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymas. ^s-f25d079048824875a0158a46
+2. Žvalgybos pareigūnų pareiginės algos dydžius nustato Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3). ^s-f25d079048824875a0158a46
 
 
 3. Žvalgybos pareigūnų priedas už kario laipsnį skaičiuojamas nuo pareiginės algos bazinio dydžio: ^s-439563d8b501fdda812adc17
@@ -2311,7 +2311,7 @@ ___________________________________________________________________________
 2. Iki šio įstatymo įsigaliojimo Antrojo operatyvinių tarnybų departamento karių ir statutinių valstybės tarnautojų, Valstybės saugumo departamento statutinių valstybės tarnautojų įskaityti tarnybos stažo tarnybos laikotarpiai iš naujo nesvarstomi, netikslinami ir įskaitomi į žvalgybos pareigūnų tarnybos stažą. Šioje dalyje nustatytos stažo skaičiavimo nuostatos taikomos tarnavusiems nurodytose žvalgybos institucijose kariams ir statutiniams valstybės tarnautojams, kurie iki įstatymo įsigaliojimo buvo paskirti į pareigas kitose Lietuvos Respublikos ar užsienio institucijose, tarptautinėse organizacijose ir pasibaigus paskyrimo terminui grįžo tęsti tarnybą nurodytose žvalgybos institucijose įsigaliojus šiam įstatymui. ^s-03ea1dcf4e6c81e015e8c4b1
 
 
-3. Jeigu pagal šį įstatymą Antrojo operatyvinių tarnybų departamento kariams nustatomas tarnybinis atlyginimas mažesnis, negu buvo jų tarnybinis atlyginimas su mėnesinėmis išmokomis ir kompensacijomis iki šio įstatymo įsigaliojimo, iki šio įstatymo įsigaliojimo jiems apskaičiuoto tarnybinio atlyginimo su išmokomis ir kompensacijomis dydis nesikeičia tol, kol susilygina su Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka apskaičiuotu darbo užmokesčiu. ^s-93a96fc6519951ebd8cc0940
+3. Jeigu pagal šį įstatymą Antrojo operatyvinių tarnybų departamento kariams nustatomas tarnybinis atlyginimas mažesnis, negu buvo jų tarnybinis atlyginimas su mėnesinėmis išmokomis ir kompensacijomis iki šio įstatymo įsigaliojimo, iki šio įstatymo įsigaliojimo jiems apskaičiuoto tarnybinio atlyginimo su išmokomis ir kompensacijomis dydis nesikeičia tol, kol susilygina su Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka apskaičiuotu darbo užmokesčiu. ^s-93a96fc6519951ebd8cc0940
 
 
 4. Iki šio įstatymo įsigaliojimo sudarytos civilinės krašto apsaugos tarnybos sutartys su civilinę krašto apsaugos tarnybą Antrajame operatyvinių tarnybų departamente atliekančiais valstybės tarnautojais pakeičiamos žvalgybos pareigūnų tarnybos sutartimis. Įsipareigojimo 5 metus tarnauti žvalgybos institucijoje šio įstatymo ir kitų teisės aktų nustatytomis sąlygomis ir tvarka terminas skaičiuojamas nuo civilinės krašto apsaugos tarnybos Antrajame operatyvinių tarnybų departamente pradžios. ^s-3272586152038b111c11d714
@@ -2445,7 +2445,7 @@ Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2
 
 
 
-11. Dėl Vyriausybinių ryšių centro struktūrinių pertvarkymų atleidžiamiems statutiniams valstybės tarnautojams (toliau – tarnautojai), atliekantiems funkcijas, tiesiogiai užtikrinančias Vyriausybinių ryšių centrui nustatytų uždavinių įgyvendinimą, siūlomos civilių statutinių valstybės tarnautojų pareigos šio straipsnio 10 dalyje nurodytoje Krašto apsaugos ministerijai pavaldžioje institucijoje. Šie tarnautojai jų sutikimu teisės aktų nustatyta tvarka kitą dieną po tarnybos santykių su Vyriausybinių ryšių centru nutraukimo priimami į civilinę krašto apsaugos tarnybą. Į civilinę krašto apsaugos tarnybą priimami ir Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto (toliau – Statutas) 3 straipsnio 1 dalies 1 ir 4 punktuose nustatytų reikalavimų neatitinkantys tarnautojai, netaikant Lietuvos Respublikos valstybės tarnybos įstatymo 9 straipsnio 1 dalies 5 punkto reikalavimų. Tarnautojai, neatitinkantys Statuto 3 straipsnio 1 dalies 1 ir 4 punktuose nustatytų reikalavimų, privalo per vienus metus nuo priėmimo į civilinę krašto apsaugos tarnybą teisės aktų nustatyta tvarka įvykdyti Statuto 3 straipsnio 1 dalies 1 punkto reikalavimą ir pasitikrinti tinkamumą civilinei krašto apsaugos tarnybai pagal sveikatos būklę. Statuto 3 straipsnio 1 dalies 1 punkto reikalavimo neįvykdę arba pripažinti netinkamais civilinei krašto apsaugos tarnybai pagal sveikatos būklę tarnautojai pasibaigus vienų metų nuo priėmimo į civilinę krašto apsaugos tarnybą terminui atleidžiami iš civilinės krašto apsaugos tarnybos vadovaujantis Statuto [[#^s-fc640ef5245bad6a10c6d1df|10 straipsnio 1 dalies]] atitinkamai 11 arba 12 punkte nustatytais pagrindais. ^s-89ad32769c7e731ccb65cabe
+11. Dėl Vyriausybinių ryšių centro struktūrinių pertvarkymų atleidžiamiems statutiniams valstybės tarnautojams (toliau – tarnautojai), atliekantiems funkcijas, tiesiogiai užtikrinančias Vyriausybinių ryšių centrui nustatytų uždavinių įgyvendinimą, siūlomos civilių statutinių valstybės tarnautojų pareigos šio straipsnio 10 dalyje nurodytoje Krašto apsaugos ministerijai pavaldžioje institucijoje. Šie tarnautojai jų sutikimu teisės aktų nustatyta tvarka kitą dieną po tarnybos santykių su Vyriausybinių ryšių centru nutraukimo priimami į civilinę krašto apsaugos tarnybą. Į civilinę krašto apsaugos tarnybą priimami ir Lietuvos Respublikos civilinės krašto apsaugos tarnybos statuto (toliau – Statutas) 3 straipsnio 1 dalies 1 ir 4 punktuose nustatytų reikalavimų neatitinkantys tarnautojai, netaikant [[latest/TAR.D3ED3792F52B|Lietuvos Respublikos valstybės tarnybos įstatymo 9 straipsnio 1 dalies 5 punkto]] reikalavimų. Tarnautojai, neatitinkantys Statuto 3 straipsnio 1 dalies 1 ir 4 punktuose nustatytų reikalavimų, privalo per vienus metus nuo priėmimo į civilinę krašto apsaugos tarnybą teisės aktų nustatyta tvarka įvykdyti Statuto 3 straipsnio 1 dalies 1 punkto reikalavimą ir pasitikrinti tinkamumą civilinei krašto apsaugos tarnybai pagal sveikatos būklę. Statuto 3 straipsnio 1 dalies 1 punkto reikalavimo neįvykdę arba pripažinti netinkamais civilinei krašto apsaugos tarnybai pagal sveikatos būklę tarnautojai pasibaigus vienų metų nuo priėmimo į civilinę krašto apsaugos tarnybą terminui atleidžiami iš civilinės krašto apsaugos tarnybos vadovaujantis Statuto [[#^s-fc640ef5245bad6a10c6d1df|10 straipsnio 1 dalies]] atitinkamai 11 arba 12 punkte nustatytais pagrindais. ^s-89ad32769c7e731ccb65cabe
 Straipsnio dalies pakeitimai:
 Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
 
@@ -2457,7 +2457,7 @@ Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2
 
 
 
-13. Tarnautojai, nesutikę būti priimti į civilinę krašto apsaugos tarnybą arba pasiūlytas karjeros valstybės tarnautojų pareigas krašto apsaugos sistemos institucijose, netenka teisės pasinaudoti šio straipsnio 11 ir [[#^s-d31239e21d8b9a59034b35f5|12 dalyse]] nustatytomis priėmimo sąlygomis. ^s-0457017b095a0ab8a97f1d1c
+13. Tarnautojai, nesutikę būti priimti į civilinę krašto apsaugos tarnybą arba pasiūlytas karjeros valstybės tarnautojų pareigas krašto apsaugos sistemos institucijose, netenka teisės pasinaudoti šio straipsnio 11 ir [[#^s-d31239e21d8b9a59034b35f5|12]] dalyse nustatytomis priėmimo sąlygomis. ^s-0457017b095a0ab8a97f1d1c
 Papildyta straipsnio dalimi:
 Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2013-12-31, i. k. 2013-00015
 
@@ -2527,121 +2527,121 @@ Nr. XII-749, 2013-12-23, Žin., 2013, Nr. 140-7091 (2013-12-30); paskelbta TAR 2
 Įsigaliojus šiam įstatymui, netenka galios:
 
 
-1) Lietuvos Respublikos valstybės saugumo departamento įstatymas (Žin., 1994, Nr. 11-163); ^s-470e07c91f9397c743eedc44
+1) [Lietuvos Respublikos valstybės saugumo departamento įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.48CA7D6FA983) (Žin., 1994, Nr. 11-163); ^s-470e07c91f9397c743eedc44
 
 
-2) Lietuvos Respublikos valstybės saugumo departamento įstatymo [[#^s-5012dc4919f96448509bdef8|28 straipsnio]] pakeitimo įstatymas (Žin., 1994, Nr. 99-1959); ^s-4715a079dd03cf8da279950c
+2) [Lietuvos Respublikos valstybės saugumo departamento įstatymo 28 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.D972071A07A3) (Žin., 1994, Nr. 99-1959); ^s-4715a079dd03cf8da279950c
 
 
-3) Lietuvos Respublikos valstybės saugumo departamento įstatymo 7, 8 ir [[#^s-877d26e08858e5dcfec3c549|19 straipsnių]] pakeitimo įstatymas (Žin., 2000, Nr. 83-2514); ^s-6b3d1c1b271dc5696fcf5228
+3) [Lietuvos Respublikos valstybės saugumo departamento įstatymo 7, 8 ir 19 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.9060325876B1) (Žin., 2000, Nr. 83-2514); ^s-6b3d1c1b271dc5696fcf5228
 
 
-4) Lietuvos Respublikos valstybės saugumo departamento įstatymo [[#^s-63f555c540d35b17966b0d6a|27 straipsnio]] pakeitimo įstatymas (Žin., 2001, Nr. 39-1338); ^s-f83f0d6d2362b327bac7792c
+4) [Lietuvos Respublikos valstybės saugumo departamento įstatymo 27 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.4EEF2E1EF485) (Žin., 2001, Nr. 39-1338); ^s-f83f0d6d2362b327bac7792c
 
 
-5) Lietuvos Respublikos valstybės saugumo departamento įstatymo papildymo 61, 81 straipsniais, 3, 9, 12, 13, 17, 18, 19, 20, 21, 27, 31, [[#^s-13379de244c24a2418ef3b81|35 straipsnių]] pakeitimo bei 14, 15, 16 ir [[#^s-673c73e656af69382c28b2c5|25 straipsnių]] pripažinimo netekusiais galios įstatymas (Žin., 2002, Nr. 73-3102); ^s-84885fbb59813fc373007441
+5) [Lietuvos Respublikos valstybės saugumo departamento įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.48CA7D6FA983) papildymo [61](https://e-tar.lt/portal/lt/legalAct/TAR.48CA7D6FA983), [81](https://e-tar.lt/portal/lt/legalAct/TAR.48CA7D6FA983) straipsniais, 3, [[#^s-ce9c6d1f61d91ef8ad916f5f|9]], [[#^s-0f7f2a07c15d953f1e8b1891|12]], [[#^s-33fbdcf457bdbf7deb8054ce|13]], [[#^s-b1c86bacb0b1571301701962|17]], [[#^s-5ec8f38d1b1b5752eb5099dc|18]], [[#^s-877d26e08858e5dcfec3c549|19]], [[#^s-39aefd55af5f0c1bf299017b|20]], [[#^s-e34fa46969a24362a3ef8648|21]], [[#^s-63f555c540d35b17966b0d6a|27]], [[#^s-c9c0828c91192bbacb4e9241|31]], [[#^s-13379de244c24a2418ef3b81|35]] straipsnių pakeitimo bei [[#^s-f149493e7da849c0a52fbb58|14]], [[#^s-0a56d8869773e9209f3189ec|15]], [[#^s-c5ed4699ee8d9601e26f547a|16]] ir [[#^s-673c73e656af69382c28b2c5|25]] straipsnių pripažinimo netekusiais galios įstatymas (Žin., 2002, Nr. 73-3102); ^s-84885fbb59813fc373007441
 
 
-6) Lietuvos Respublikos valstybės saugumo departamento įstatymo [[#^s-877d26e08858e5dcfec3c549|19 straipsnio]] pakeitimo įstatymas (Žin., 2003, Nr. 38-1696); ^s-0d129ec96a41aa6990a986a1
+6) [Lietuvos Respublikos valstybės saugumo departamento įstatymo 19 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.2D7F983C29A2) (Žin., 2003, Nr. 38-1696); ^s-0d129ec96a41aa6990a986a1
 
 
-7) Lietuvos Respublikos valstybės saugumo departamento įstatymo [[#^s-0fb3e2a4f5cf852ab94e6082|8 straipsnio]] pakeitimo įstatymas (Žin., 2004, Nr. 73-2516); ^s-b86a0cddc800f8efc6d76117
+7) [Lietuvos Respublikos valstybės saugumo departamento įstatymo 8 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.7256AC71D51C) (Žin., 2004, Nr. 73-2516); ^s-b86a0cddc800f8efc6d76117
 
 
-8) Lietuvos Respublikos valstybės saugumo departamento įstatymo [[#^s-b1c86bacb0b1571301701962|17 straipsnio]] pakeitimo įstatymas (Žin., 2005, Nr. 143-5184); ^s-fda88293b3f2f8b3e7d805d0
+8) [Lietuvos Respublikos valstybės saugumo departamento įstatymo 17 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.AE09C3A3BD0B) (Žin., 2005, Nr. 143-5184); ^s-fda88293b3f2f8b3e7d805d0
 
 
-9) Lietuvos Respublikos valstybės saugumo departamento įstatymo 8 ir [[#^s-0f7f2a07c15d953f1e8b1891|12 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 2006, Nr. 61-2176); ^s-3ee06be6d32d253c3a2cd1f4
+9) [Lietuvos Respublikos valstybės saugumo departamento įstatymo 8 ir 12 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.79B97F2AC84B) (Žin., 2006, Nr. 61-2176); ^s-3ee06be6d32d253c3a2cd1f4
 
 
-10) Lietuvos Respublikos valstybės saugumo departamento įstatymo [[#^s-5012dc4919f96448509bdef8|28 straipsnio]] pakeitimo įstatymas (Žin., 2007, Nr. 8-317); ^s-469d655e918aaa63eee84eb6
+10) [Lietuvos Respublikos valstybės saugumo departamento įstatymo 28 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.D972071A07A3) (Žin., 2007, Nr. 8-317); ^s-469d655e918aaa63eee84eb6
 
 
-11) Lietuvos Respublikos valstybės saugumo departamento įstatymo [[#^s-845b2e425cda892933dfeeec|10 straipsnio]] pakeitimo ir papildymo įstatymas (Žin., 2007, Nr. 67-2601); ^s-f1a0ad183735013a8a99f7c4
+11) [Lietuvos Respublikos valstybės saugumo departamento įstatymo 10 straipsnio pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E207F32462F6) (Žin., 2007, Nr. 67-2601); ^s-f1a0ad183735013a8a99f7c4
 
 
-12) Lietuvos Respublikos valstybės saugumo departamento įstatymo 9, 13, 20 ir [[#^s-5012dc4919f96448509bdef8|28 straipsnių]] pakeitimo įstatymas (Žin., 2008, Nr. 120-4548); ^s-8b6ab97bf94fcc66695b405f
+12) [Lietuvos Respublikos valstybės saugumo departamento įstatymo 9, 13, 20 ir 28 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.9471F0D939BC) (Žin., 2008, Nr. 120-4548); ^s-8b6ab97bf94fcc66695b405f
 
 
-13) Lietuvos Respublikos valstybės saugumo departamento įstatymo 8 ir [[#^s-877d26e08858e5dcfec3c549|19 straipsnių]] pakeitimo įstatymas (Žin., 2011, Nr. 2-38); ^s-c6d05d5576825c6798db86a1
+13) [Lietuvos Respublikos valstybės saugumo departamento įstatymo 8 ir 19 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.6384650D7C74) (Žin., 2011, Nr. 2-38); ^s-c6d05d5576825c6798db86a1
 
 
-14) Lietuvos Respublikos valstybės saugumo departamento įstatymo [[#^s-845b2e425cda892933dfeeec|10 straipsnio]] pakeitimo įstatymas (Žin., 2011, Nr. 68-3219); ^s-c901c35a741f22638ea0d3aa
+14) [Lietuvos Respublikos valstybės saugumo departamento įstatymo 10 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.0C0EA6EDD349) (Žin., 2011, Nr. 68-3219); ^s-c901c35a741f22638ea0d3aa
 
 
-15) Lietuvos Respublikos valstybės saugumo departamento statuto patvirtinimo įstatymas (Žin., 2002, Nr. 73-3101); ^s-0ff87dba733548b42b0a17f6
+15) [Lietuvos Respublikos valstybės saugumo departamento statuto patvirtinimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.B101247E0E6C) (Žin., 2002, Nr. 73-3101); ^s-0ff87dba733548b42b0a17f6
 
 
-16) Lietuvos Respublikos valstybės saugumo departamento statuto [[#^s-e6a2d87affccf7c991d50ed2|32 straipsnio]] pakeitimo įstatymas (Žin., 2003, Nr. 101-4539); ^s-391253d6fe227c2c7d24b3d5
+16) [Lietuvos Respublikos valstybės saugumo departamento statuto 32 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.679EC7B2F0AA) (Žin., 2003, Nr. 101-4539); ^s-391253d6fe227c2c7d24b3d5
 
 
-17) Lietuvos Respublikos valstybės saugumo departamento statuto [[#^s-c36f629b877b652a1502572b|43 straipsnio]] pakeitimo įstatymas (Žin., 2005, Nr. 28-874); ^s-4229f410e7e732f1f00c9d6b
+17) Lietuvos Respublikos valstybės saugumo departamento statuto 43 straipsnio pakeitimo įstatymas (Žin., 2005, Nr. 28-874); ^s-4229f410e7e732f1f00c9d6b
 
 
-18) Lietuvos Respublikos valstybės saugumo departamento statuto 42 ir [[#^s-c36f629b877b652a1502572b|43 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 2006, Nr. 74-2817); ^s-545a78d880b84bc6d439e9c1
+18) [Lietuvos Respublikos valstybės saugumo departamento statuto 42 ir 43 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.CDAB8AC8DD41) (Žin., 2006, Nr. 74-2817); ^s-545a78d880b84bc6d439e9c1
 
 
-19) Lietuvos Respublikos valstybės saugumo departamento statuto [[#^s-c36f629b877b652a1502572b|43 straipsnio]] pakeitimo įstatymas (Žin., 2006, Nr. 87-3403); ^s-dd5d85e486caa3eb8924397a
+19) Lietuvos Respublikos valstybės saugumo departamento statuto 43 straipsnio pakeitimo įstatymas (Žin., 2006, Nr. 87-3403); ^s-dd5d85e486caa3eb8924397a
 
 
-20) Lietuvos Respublikos valstybės saugumo departamento statuto 22 ir [[#^s-5b27180ffbd966aee1840804|42 straipsnių]] pakeitimo įstatymas (Žin., 2007, Nr. 8-316); ^s-f735cf3697a589fc39361d6d
+20) [Lietuvos Respublikos valstybės saugumo departamento statuto 22 ir 42 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.ECC6A0067657) (Žin., 2007, Nr. 8-316); ^s-f735cf3697a589fc39361d6d
 
 
-21) Lietuvos Respublikos valstybės saugumo departamento statuto [[#^s-f3951ae2e192e8f20fe0088b|37 straipsnio]] pakeitimo įstatymas (Žin., 2007, Nr. 59-2284); ^s-d9746463ed507180dd0457fc
+21) [Lietuvos Respublikos valstybės saugumo departamento statuto 37 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A49BAFF5648C) (Žin., 2007, Nr. 59-2284); ^s-d9746463ed507180dd0457fc
 
 
-22) Lietuvos Respublikos valstybės saugumo departamento statuto 4 straipsnio papildymo įstatymas (Žin., 2007, Nr. 67-2602); ^s-bcbdcf9e3713312b5e941068
+22) [Lietuvos Respublikos valstybės saugumo departamento statuto 4 straipsnio papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.80038F166C00) (Žin., 2007, Nr. 67-2602); ^s-bcbdcf9e3713312b5e941068
 
 
-23) Lietuvos Respublikos valstybės saugumo departamento statuto [[#^s-c36f629b877b652a1502572b|43 straipsnio]] pakeitimo ir papildymo įstatymas (Žin., 2007, Nr. 132-5350); ^s-2baf6bee3cba73305f7bee5e
+23) [Lietuvos Respublikos valstybės saugumo departamento statuto 43 straipsnio pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.F930D971EEC6) (Žin., 2007, Nr. 132-5350); ^s-2baf6bee3cba73305f7bee5e
 
 
-24) Lietuvos Respublikos valstybės saugumo departamento statuto [[#^s-c36f629b877b652a1502572b|43 straipsnio]] pakeitimo įstatymas (Žin., 2008, Nr. 74-2865); ^s-ac3a5ad6f0780956499b28c8
+24) Lietuvos Respublikos valstybės saugumo departamento statuto 43 straipsnio pakeitimo įstatymas (Žin., 2008, Nr. 74-2865); ^s-ac3a5ad6f0780956499b28c8
 
 
-25) Lietuvos Respublikos valstybės saugumo departamento statuto 4, 6, 7, 9, 12, 13, 15, 16, 20, 21, 22, 23, 24, 27, 28, 29, 30, 31, 32, 33, 34, 41, 42, 43, 44, 45, 47, [[#^s-2361f657fa30ee2e31aa60b1|49 straipsnių]] pakeitimo ir papildymo, penktojo skirsnio pavadinimo pakeitimo įstatymas (Žin., 2008, Nr. 120-4547); ^s-4a807ec5e4691efb67338058
+25) [Lietuvos Respublikos valstybės saugumo departamento statuto 4, 6, 7, 9, 12, 13, 15, 16, 20, 21, 22, 23, 24, 27, 28, 29, 30, 31, 32, 33, 34, 41, 42, 43, 44, 45, 47, 49 straipsnių pakeitimo ir papildymo, penktojo skirsnio pavadinimo pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.81992AD787AB) (Žin., 2008, Nr. 120-4547); ^s-4a807ec5e4691efb67338058
 
 
-26) Lietuvos Respublikos valstybės saugumo departamento statuto [[#^s-c36f629b877b652a1502572b|43 straipsnio]] pakeitimo įstatymas (Žin., 2008, Nr. 138-5443); ^s-5cbc34ea70a7a1cd36ec3ab9
+26) Lietuvos Respublikos valstybės saugumo departamento statuto 43 straipsnio pakeitimo įstatymas (Žin., 2008, Nr. 138-5443); ^s-5cbc34ea70a7a1cd36ec3ab9
 
 
-27) Lietuvos Respublikos valstybės saugumo departamento statuto [[#^s-c36f629b877b652a1502572b|43 straipsnio]] pakeitimo įstatymas (Žin., 2009, Nr. 91-3920); ^s-53bca72ea85f5a2dbd60d37a
+27) Lietuvos Respublikos valstybės saugumo departamento statuto 43 straipsnio pakeitimo įstatymas (Žin., 2009, Nr. 91-3920); ^s-53bca72ea85f5a2dbd60d37a
 
 
-28) Lietuvos Respublikos valstybės saugumo departamento statuto [[#^s-c36f629b877b652a1502572b|43 straipsnio]] pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas (Žin., 2010, 82-4304); ^s-a6633b0d501b30b90267de93
+28) Lietuvos Respublikos valstybės saugumo departamento statuto 43 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas (Žin., 2010, 82-4304); ^s-a6633b0d501b30b90267de93
 
 
-29) Lietuvos Respublikos valstybės saugumo departamento statuto [[#^s-c36f629b877b652a1502572b|43 straipsnio]] pakeitimo įstatymas (Žin., 2010, Nr. 86-4535); ^s-5f4fa248ea516f2200a4c43a
+29) Lietuvos Respublikos valstybės saugumo departamento statuto 43 straipsnio pakeitimo įstatymas (Žin., 2010, Nr. 86-4535); ^s-5f4fa248ea516f2200a4c43a
 
 
-30) Lietuvos Respublikos valstybės saugumo departamento statuto 20, 22, 46, [[#^s-2361f657fa30ee2e31aa60b1|49 straipsnių]] pakeitimo ir papildymo įstatymas (Žin., 2011, Nr. 68-3220); ^s-f7d85887eaac4d58b74f52cb
+30) [Lietuvos Respublikos valstybės saugumo departamento statuto 20, 22, 46, 49 straipsnių pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.0CD9C105B867) (Žin., 2011, Nr. 68-3220); ^s-f7d85887eaac4d58b74f52cb
 
 
-31) Lietuvos Respublikos valstybės saugumo departamento statuto [[#^s-33fbdcf457bdbf7deb8054ce|13 straipsnio]] pakeitimo įstatymas (Žin., 2011, Nr. 86-4159); ^s-3216bf75b76e9e0fa1d13213
+31) [Lietuvos Respublikos valstybės saugumo departamento statuto 13 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.BB5131B30C64) (Žin., 2011, Nr. 86-4159); ^s-3216bf75b76e9e0fa1d13213
 
 
-32) Lietuvos Respublikos valstybės saugumo departamento statuto [[#^s-c36f629b877b652a1502572b|43 straipsnio]] pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas (Žin., 2011, Nr. 150-7035); ^s-c7f0b7752fc07fd5ceb647f3
+32) Lietuvos Respublikos valstybės saugumo departamento statuto 43 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas (Žin., 2011, Nr. 150-7035); ^s-c7f0b7752fc07fd5ceb647f3
 
 
-33) Lietuvos Respublikos valstybės saugumo departamento statuto [[#^s-c36f629b877b652a1502572b|43 straipsnio]] pakeitimo įstatymas (Žin., 2011, Nr. 163-7752); ^s-db5516ae475764a1ccae5a38
+33) Lietuvos Respublikos valstybės saugumo departamento statuto 43 straipsnio pakeitimo įstatymas (Žin., 2011, Nr. 163-7752); ^s-db5516ae475764a1ccae5a38
 
 
-34) Lietuvos Respublikos antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos statuto patvirtinimo ir įgyvendinimo įstatymas (Žin., 2003, Nr. 92-4140); ^s-f167b1bb00a0637ff690fd2a
+34) [Lietuvos Respublikos antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos statuto patvirtinimo ir įgyvendinimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.2E4319D8A0D2) (Žin., 2003, Nr. 92-4140); ^s-f167b1bb00a0637ff690fd2a
 
 
-35) Lietuvos Respublikos antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos statuto pakeitimo įstatymas (Žin., 2006, Nr. 17-600); ^s-6d953ac4b6436cb84b1262e9
+35) [Lietuvos Respublikos antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos statuto pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E587CD484376) (Žin., 2006, Nr. 17-600); ^s-6d953ac4b6436cb84b1262e9
 
 
-36) Lietuvos Respublikos antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos statuto [[#^s-e6a2d87affccf7c991d50ed2|32 straipsnio]] pakeitimo įstatymas (Žin., 2009, Nr. 91-3922); ^s-997ba8fb0a58850edbbb2b7e
+36) [Lietuvos Respublikos antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos statuto 32 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E6D052E0A6CE) (Žin., 2009, Nr. 91-3922); ^s-997ba8fb0a58850edbbb2b7e
 
 
-37) Lietuvos Respublikos antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos statuto [[#^s-e6a2d87affccf7c991d50ed2|32 straipsnio]] pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas (Žin., 2010, Nr. 82-4299); ^s-5e13541b7ff96ec4e13d0fc5
+37) Lietuvos Respublikos antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos statuto 32 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas (Žin., 2010, Nr. 82-4299); ^s-5e13541b7ff96ec4e13d0fc5
 
 
-38) Lietuvos Respublikos antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos statuto 18 ir [[#^s-25f2330a00e195a3dc5bf5fc|23 straipsnių]] pakeitimo įstatymas (Žin., 2010, Nr. 157-7980); ^s-f89ad64c5d423d1b2c2a74c2
+38) [Lietuvos Respublikos antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos statuto 18 ir 23 straipsnių pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.C01E532D928D) (Žin., 2010, Nr. 157-7980); ^s-f89ad64c5d423d1b2c2a74c2
 
 
-39) Lietuvos Respublikos antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos statuto [[#^s-e6a2d87affccf7c991d50ed2|32 straipsnio]] pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas (Žin., 2011, Nr. 150-7033). ^s-445dd439140b1b75fc7d86b3
+39) Lietuvos Respublikos antrojo operatyvinių tarnybų departamento prie Krašto apsaugos ministerijos statuto 32 straipsnio pakeitimo įstatymo 3 straipsnio pakeitimo įstatymas (Žin., 2011, Nr. 150-7033). ^s-445dd439140b1b75fc7d86b3
 
 
 

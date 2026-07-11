@@ -50,7 +50,7 @@ Pakeisti [[#^s-6f7d88fe1f4beeb54715bd22|3 straipsnį]] ir jį išdėstyti taip:
 „[[#^s-6f7d88fe1f4beeb54715bd22|3 straipsnis]]. Vyriausybės veiklos teisiniai pagrindai
 
 
-Vyriausybė savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos tarptautinėmis sutartimis, įstatymais, Vyriausybės programa, kitais teisės aktais ir savo veiklą derina su Valstybės pažangos strategija.“
+Vyriausybė savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos tarptautinėmis sutartimis, įstatymais, Vyriausybės programa, kitais teisės aktais ir savo veiklą derina su Valstybės pažangos strategija.“
 
 
 
@@ -189,7 +189,7 @@ Papildyti Įstatymą 281 straipsniu:
 ### 8 straipsnis. 29 straipsnio papildymas ir pakeitimas ^s-f6a43f82e3e261c0778fc148
 
 
-1. Papildyti 29 straipsnį nauja [[#^s-0dfe09d7366672a90681aade|1 dalimi]]: ^s-0dfe09d7366672a90681aade
+1. Papildyti 29 straipsnį nauja 1 dalimi: ^s-0dfe09d7366672a90681aade
 
 
 „1. Ministerija steigiama formuoti valstybės politiką, taip pat organizuoti, koordinuoti ir kontroliuoti jos įgyvendinimą ministrui pavestose valdymo srityse. Valstybės politikos įgyvendinimo funkcijos ministerijai gali būti pavestos tik įstatymų nustatytais atvejais ir nustatytam terminui.“
@@ -198,7 +198,7 @@ Papildyti Įstatymą 281 straipsniu:
 2. Pripažinti 29 straipsnio 3 dalį netekusia galios. ^s-0a0ce54add5c53a67c0c30b7
 
 
-3. Buvusias 29 straipsnio 1 ir [[#^s-0a0ce54add5c53a67c0c30b7|2 dalis]] laikyti atitinkamai 2 ir [[#^s-fce34c58c7fa24be335d9f47|3 dalimis]]. ^s-fce34c58c7fa24be335d9f47
+3. Buvusias 29 straipsnio 1 ir 2 dalis laikyti atitinkamai 2 ir 3 dalimis. ^s-fce34c58c7fa24be335d9f47
 
 
 4. Pakeisti 29 straipsnio 10 dalį ir ją išdėstyti taip: ^s-b02c22c76b90fefdc1954a64

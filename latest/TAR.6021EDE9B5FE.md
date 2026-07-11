@@ -95,7 +95,7 @@ BIBLIOTEKŲ VEIKLOS REGLAMENTAVIMAS, VALSTYBINIS VALDYMAS IR FINANSAVIMAS
 ### 3 straipsnis. Bibliotekų veiklos reglamentavimas ^s-96a64c5a4f06935eb8919c08
 
 
-1. Bibliotekos vadovaujasi Lietuvos Respublikos Konstitucija, Civiliniu kodeksu, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais įstatymais, steigimo dokumentais bei kitais teisės aktais. ^s-2720345d69f7929c1fb410e0
+1. Bibliotekos vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Civiliniu kodeksu, Lietuvos Respublikos tarptautinėmis sutartimis, šiuo ir kitais įstatymais, steigimo dokumentais bei kitais teisės aktais. ^s-2720345d69f7929c1fb410e0
 
 
 2. Kai biblioteka steigiama, pertvarkoma ar pabaigiama arba steigiamas ar uždaromas jos filialas, bibliotekos steigėjas ar jos valdymo organas informuoja Kultūros ministeriją. ^s-452fa951cee10fac75b7bc9f
@@ -400,7 +400,7 @@ BIBLIOTEKŲ SISTEMA
 ### 14 straipsnis. Kitos bibliotekos ^s-2bd5a169f23c78aad9e891d8
 
 
-Kitos bibliotekos – bibliotekų veikla užsiimantys viešieji ar privatūs juridiniai asmenys, nenurodyti šio įstatymo 8–[[#^s-c5401ca52360bd84f4f8d75e|13 straipsniuose]].
+Kitos bibliotekos – bibliotekų veikla užsiimantys viešieji ar privatūs juridiniai asmenys, nenurodyti šio įstatymo [[#^s-a7b0a99f9f9954d115e3e5f8|8]]–[[#^s-c5401ca52360bd84f4f8d75e|13]] straipsniuose.
 
 
 
@@ -492,7 +492,7 @@ Lietuvos bibliotekų fondas yra komplektuojamas iš Vyriausybės nustatyta tvark
 ### 2 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-cbf4c893d0316a40c0e2bbad
 
 
-Įsigaliojus šiam įstatymui, pripažįstamas netekusiu galios Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos bibliotekų įstatymo įgyvendinimo“ (Žin., 1995, Nr. 51-1246).
+Įsigaliojus šiam įstatymui, pripažįstamas netekusiu galios Lietuvos Respublikos įstatymas [„Dėl Lietuvos Respublikos bibliotekų įstatymo įgyvendinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.1722D0BE9370) (Žin., 1995, Nr. 51-1246).
 
 
 

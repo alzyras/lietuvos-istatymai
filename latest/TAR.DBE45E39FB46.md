@@ -277,7 +277,7 @@ Pakeisti Įstatymo 5 priedą ir jį išdėstyti taip:
 6. 2003 m. sausio 27 d. Europos Parlamento ir Tarybos direktyva 2002/96/EB dėl elektros ir elektroninės įrangos atliekų (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 359) su paskutiniais pakeitimais, padarytais 2003 m. gruodžio 8 d. Europos Parlamento ir Tarybos direktyva 2003/108/EB (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 692). ^s-8f417fec1f874a49876c3cf7
 
 
-7. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva 2006/21/EB dėl kasybos pramonės atliekų tvarkymo ir iš dalies keičianti Direktyvą 2004/35/EB (OL 2006 L 102, p. 15). ^s-4cd0127f207ec9b6cd54b13d
+7. 2006 m. kovo 15 d. Europos Parlamento ir Tarybos direktyva 2006/21/EB [dėl kasybos pramonės atliekų tvarkymo](https://e-tar.lt/portal/lt/legalAct/TAR.B479E03BAB4F) ir iš dalies keičianti Direktyvą 2004/35/EB (OL 2006 L 102, p. 15). ^s-4cd0127f207ec9b6cd54b13d
 
 
 8. 2006 m. balandžio 5 d. Europos Parlamento ir Tarybos direktyva 2006/12/EB dėl atliekų (OL 2006 L 114, p. 9). ^s-408d44a508ee1e91b5b4c973
@@ -290,7 +290,7 @@ Pakeisti Įstatymo 5 priedą ir jį išdėstyti taip:
 ### 9 straipsnis. Įstatymo įsigaliojimas ^s-7498ac11c72a45654a021065
 
 
-Šio įstatymo 4, 5, [[#^s-f33a961b1fdbb30f1131ecf7|6 straipsniai]] įsigalioja 2008 m. rugsėjo 26 d.
+Šio įstatymo [[#^s-0964385e601f68a3c9b8a43f|4]], [[#^s-b4b2bead3f6dcecae393605e|5]], [[#^s-f33a961b1fdbb30f1131ecf7|6]] straipsniai įsigalioja 2008 m. rugsėjo 26 d.
 
 
 

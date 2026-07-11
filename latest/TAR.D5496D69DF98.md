@@ -406,7 +406,7 @@ Valstybės ir savivaldybių turtas turi būti valdomas, naudojamas ir disponuoja
 3) įstatymų nustatyta tvarka gali būti perduotas savivaldybėms patikėjimo teise valdyti, naudoti ir disponuoti juo. ^s-81b43016e72a427b13f7fad3
 
 
-2. Jeigu [[#^s-69b10c52892c9c37e0d78ba8|šio straipsnio 1 dalies 1 punkte]] nurodytas turtas nenaudojamas savivaldybės funkcijoms įgyvendinti ir (arba) savivaldybė atsisako jį perimti savo nuosavybėn, Vyriausybės nustatyta tvarka šis turtas gali būti perduotas patikėjimo teise šio įstatymo [[#^s-89774096d752083c520c516b|10 straipsnio 2 dalies]] 1–3 punktuose nurodytiems valstybės turto patikėjimo teisės subjektams, o valstybės nekilnojamasis turtas – centralizuotai valdomo valstybės turto valdytojui, veikiančiam pagal Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymą, (toliau – centralizuotai valdomo valstybės turto valdytojas). ^s-dc39b2ae43d4e4ad4cbe9e63
+2. Jeigu [[#^s-69b10c52892c9c37e0d78ba8|šio straipsnio 1 dalies 1 punkte]] nurodytas turtas nenaudojamas savivaldybės funkcijoms įgyvendinti ir (arba) savivaldybė atsisako jį perimti savo nuosavybėn, Vyriausybės nustatyta tvarka šis turtas gali būti perduotas patikėjimo teise šio įstatymo [[#^s-89774096d752083c520c516b|10 straipsnio 2 dalies]] [[#^s-7b0bab9d4f37bd67b3af2de6|1]]–[[#^s-43874dd7c6af084518ed9ba4|3]] punktuose nurodytiems valstybės turto patikėjimo teisės subjektams, o valstybės nekilnojamasis turtas – centralizuotai valdomo valstybės turto valdytojui, veikiančiam pagal Lietuvos Respublikos centralizuotai valdomo valstybės turto valdytojo įstatymą, (toliau – centralizuotai valdomo valstybės turto valdytojas). ^s-dc39b2ae43d4e4ad4cbe9e63
 
 
 3. Jeigu pasikeičia savivaldybių valstybinės (valstybės perduotos savivaldybėms) funkcijos ar jas įgyvendinantys subjektai arba perduotas valstybės turtas tampa nereikalingas šioms funkcijoms įgyvendinti, Vyriausybės nutarimu šis turtas patikėjimo teise gali būti perduotas kitiems šio įstatymo [[#^s-89774096d752083c520c516b|10 straipsnio 2 dalyje]] nurodytiems valstybės turto patikėjimo teisės subjektams, o valstybės nekilnojamasis turtas turi būti perduotas patikėjimo teise valdyti centralizuotai valdomo valstybės turto valdytojui. ^s-266ead7e22891a7ec9eb07ec
@@ -434,7 +434,7 @@ Valstybės ir savivaldybių turtas turi būti valdomas, naudojamas ir disponuoja
 3. Savivaldybių turto valdytojai, išskyrus nurodytus [[#^s-5e73c66df00e929797bc7f9e|šio straipsnio 2 dalies 3 punkte]], turi teisę priimti sprendimus, susijusius su patikėjimo teise valdomo savivaldybių turto valdymu, naudojimu ir disponavimu juo, išskyrus sprendimus, susijusius su šio turto perleidimu kitų asmenų nuosavybėn ar su daiktinių teisių į jį suvaržymu, jeigu šiame ir kituose įstatymuose nenustatyta kitaip. Subjektas, turintis teisę priimti sprendimus dėl savivaldybės turto perdavimo patikėjimo teise, savo sprendime dėl savivaldybės turto perdavimo patikėjimo teise turi teisę nustatyti ir kitas patikėto savivaldybės turto valdymo, naudojimo ir disponavimo juo sąlygas bei apribojimus. ^s-83c9e80f14e3d2ed88a1121e
 
 
-4. [[#^s-5e73c66df00e929797bc7f9e|Šio straipsnio 2 dalies 3 punkte]] nurodytiems kitiems juridiniams asmenims savivaldybių turtas patikėjimo teise gali būti perduodamas pagal paprasta rašytine forma sudaromą savivaldybės turto patikėjimo sutartį tik tais atvejais, kai įstatymais jiems pavesta įgyvendinti savivaldybių funkcijas. Sprendimą dėl savivaldybės turto perdavimo patikėjimo teise kitiems juridiniams asmenims priima savivaldybės taryba. Tokiame sprendime turi būti nurodytas savivaldybės turto patikėjimo teisės subjektas, įgaliotas sudaryti savivaldybės turto patikėjimo sutartį, juridinis asmuo, kuriam įstatymais pavesta įgyvendinti savivaldybių funkcijas, sutarties galiojimo terminas, kuris negali būti ilgesnis kaip 20 metų, jeigu įstatymuose nenustatyta kitaip. Kiti juridiniai asmenys, kuriems savivaldybės turtas perduotas pagal savivaldybės turto patikėjimo sutartį, negali šio turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktinių teisių į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymo, jo išnuomoti, suteikti panaudos pagrindais ar perduoti jo kitiems asmenims naudotis juo kitu būdu, išskyrus įstatymuose nustatytus atvejus. Šis savivaldybės turtas gali būti naudojamas tik savivaldybės funkcijoms įgyvendinti. Savivaldybės turto patikėjimo sutartyje gali būti nustatyti ir kiti, šioje dalyje nenurodyti, savivaldybės tarybos sprendime nustatyti savivaldybės turto patikėjimo teisės subjekto teisių dėl turto valdymo, naudojimo ir disponavimo juo apribojimai. Savivaldybės turto patikėjimo teisės subjektas, įgaliotas sudaryti savivaldybės turto patikėjimo sutartį, privalo prižiūrėti, kad sutartis būtų tinkamai vykdoma. Savivaldybės turto patikėjimo sutartis pasibaigia suėjus joje nustatytam terminui arba prieš joje nustatytą terminą, jeigu pasikeitus teisiniam reguliavimui juridinis asmuo nebeįgyvendina savivaldybės funkcijų arba jeigu savivaldybės turtas nebėra reikalingas ar nebenaudojamas savivaldybės funkcijoms, kurioms įgyvendinti buvo perduotas, taip pat jeigu yra pradėta juridinio asmens bankroto, restruktūrizavimo ar likvidavimo procedūra. Pasibaigus savivaldybės turto patikėjimo sutarčiai, savivaldybės turtą patikėjimo teise valdo, naudoja ir disponuoja juo savivaldybės turto patikėjimo teisės subjektas, sudaręs savivaldybės turto patikėjimo sutartį, jeigu savivaldybės taryba nenustato kitaip. ^s-c20fed1c0a4d9cc1cc73a1af
+4. [[#^s-5e73c66df00e929797bc7f9e|Šio straipsnio 2 dalies 3 punkte]] nurodytiems kitiems juridiniams asmenims savivaldybių turtas patikėjimo teise gali būti perduodamas pagal paprasta rašytine forma sudaromą savivaldybės turto patikėjimo sutartį tik tais atvejais, kai įstatymais jiems pavesta įgyvendinti savivaldybių funkcijas. Sprendimą dėl savivaldybės turto perdavimo patikėjimo teise kitiems juridiniams asmenims priima savivaldybės taryba. Tokiame sprendime turi būti nurodytas savivaldybės turto patikėjimo teisės subjektas, įgaliotas sudaryti savivaldybės turto patikėjimo sutartį, juridinis asmuo, kuriam įstatymais pavesta įgyvendinti savivaldybių funkcijas, sutarties galiojimo terminas, kuris negali būti ilgesnis kaip 20 metų, jeigu įstatymuose nenustatyta kitaip. Kiti juridiniai asmenys, kuriems savivaldybės turtas perduotas pagal savivaldybės turto patikėjimo sutartį, negali šio turto perduoti nuosavybės teise kitiems asmenims, jo įkeisti ar kitaip suvaržyti daiktinių teisių į jį, juo garantuoti, laiduoti ar kitu būdu juo užtikrinti savo ir kitų asmenų prievolių įvykdymo, jo išnuomoti, suteikti panaudos pagrindais ar perduoti jo kitiems asmenims naudotis juo kitu būdu, išskyrus įstatymuose nustatytus atvejus. Šis savivaldybės turtas gali būti naudojamas tik savivaldybės funkcijoms įgyvendinti. Savivaldybės turto patikėjimo sutartyje gali būti nustatyti ir kiti, šioje dalyje nenurodyti, savivaldybės tarybos sprendime nustatyti savivaldybės turto patikėjimo teisės subjekto teisių [dėl turto valdymo, naudojimo ir disponavimo juo](https://e-tar.lt/portal/lt/legalAct/SAV.508680) apribojimai. Savivaldybės turto patikėjimo teisės subjektas, įgaliotas sudaryti savivaldybės turto patikėjimo sutartį, privalo prižiūrėti, kad sutartis būtų tinkamai vykdoma. Savivaldybės turto patikėjimo sutartis pasibaigia suėjus joje nustatytam terminui arba prieš joje nustatytą terminą, jeigu pasikeitus teisiniam reguliavimui juridinis asmuo nebeįgyvendina savivaldybės funkcijų arba jeigu savivaldybės turtas nebėra reikalingas ar nebenaudojamas savivaldybės funkcijoms, kurioms įgyvendinti buvo perduotas, taip pat jeigu yra pradėta juridinio asmens bankroto, restruktūrizavimo ar likvidavimo procedūra. Pasibaigus savivaldybės turto patikėjimo sutarčiai, savivaldybės turtą patikėjimo teise valdo, naudoja ir disponuoja juo savivaldybės turto patikėjimo teisės subjektas, sudaręs savivaldybės turto patikėjimo sutartį, jeigu savivaldybės taryba nenustato kitaip. ^s-c20fed1c0a4d9cc1cc73a1af
 
 
 5. Patikėjimo teisė į perduodamą savivaldybės turtą atsiranda nuo savivaldybės turto perdavimo–priėmimo akto pasirašymo dienos arba nuo savivaldybės turto patikėjimo sutarties sudarymo dienos, jeigu joje nustatyta, kad ši sutartis taip pat yra ir perdavimo–priėmimo aktas. Kai nėra asmens, valdančio savivaldybės turtą patikėjimo teise, patikėjimo teisė į perduotą savivaldybės turtą atsiranda nuo sprendimo dėl savivaldybės turto perdavimo patikėjimo teise įsigaliojimo dienos. ^s-244d8ea668e4545a5bd29c42
@@ -508,7 +508,7 @@ Teisė naudoti Lietuvos valstybės vardą ir Lietuvos Respublikos heraldikos obj
 9) tenkinti etninės kultūros, meno kūrėjų ir kultūros darbuotojų poreikius per kultūros ir meno plėtros, kultūrinės edukacijos ar kultūros paveldo apsaugos veiklą. ^s-5c6bcb30c06d45a620e2fe7d
 
 
-3. Valstybės ir savivaldybių turtas [[#^s-d33617786693147c0c0d583a|šio straipsnio 1 dalies]] 2–7 punktuose nurodytiems subjektams gali būti perduodamas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis juo, jeigu: ^s-5f69a951d25e2d91022ab606
+3. Valstybės ir savivaldybių turtas [[#^s-d33617786693147c0c0d583a|šio straipsnio 1 dalies]] [[#^s-450668a4c276d6036d2bb09f|2]]–7 punktuose nurodytiems subjektams gali būti perduodamas panaudos pagrindais laikinai neatlygintinai valdyti ir naudotis juo, jeigu: ^s-5f69a951d25e2d91022ab606
 
 
 1) panaudos subjektas pagrindžia, kad prašomas panaudos pagrindais suteikti turtas reikalingas jo vykdomai veiklai (jeigu subjektas yra asociacija ar labdaros ir paramos fondas, – [[#^s-d4fa33e0c5c4ba5246e1923a|šio straipsnio 2 dalyje]] nustatytiems veiklos tikslams), dėl kurios turtas galėtų būti perduotas, ir jo naudojimo paskirtis atitinka šio subjekto steigimo dokumentuose nustatytas veiklos sritis ir tikslus; ^s-62860b635c7d475e66133f48
@@ -593,10 +593,10 @@ Teisė naudoti Lietuvos valstybės vardą ir Lietuvos Respublikos heraldikos obj
 6. Vyriausybė ar jos įgaliota institucija, savivaldybės taryba nustato atitinkamai nuompinigių už valstybės ar savivaldybės ilgalaikio ir trumpalaikio materialiojo turto (išskyrus centralizuotai valdyti perduotą valstybės nekilnojamąjį turtą) nuomą skaičiavimo tvarką. ^s-6488a3314d18789f3ee3fee9
 
 
-7. Nuompinigiai už valstybės ilgalaikio ir trumpalaikio materialiojo turto, kurį patikėjimo teise valdo šio įstatymo [[#^s-7b0bab9d4f37bd67b3af2de6|10 straipsnio 2 dalies 1 punkte]] nurodyti valstybės turto patikėjimo teisės subjektai, nuomą pervedami į valstybės biudžetą. Nuompinigiai už valstybės turto, kurį patikėjimo teise valdo šio įstatymo [[#^s-89774096d752083c520c516b|10 straipsnio 2 dalies]] 2–5 punktuose nurodyti valstybės turto patikėjimo teisės subjektai, kurie įstatymų nustatyta tvarka turi teisę išnuomoti valstybės ilgalaikį ir trumpalaikį materialųjį turtą, nuomą pervedami į atitinkamų valstybės turto patikėjimo teisės subjektų sąskaitas. Nuompinigiai už valstybės ilgalaikio ir trumpalaikio materialiojo turto, įtraukto į Valstybinio socialinio draudimo fondo apskaitą, nuomą pervedami į Valstybinio socialinio draudimo fondo sąskaitą. ^s-a332b77a05dc8883c41cc3e3
+7. Nuompinigiai už valstybės ilgalaikio ir trumpalaikio materialiojo turto, kurį patikėjimo teise valdo šio įstatymo [[#^s-7b0bab9d4f37bd67b3af2de6|10 straipsnio 2 dalies 1 punkte]] nurodyti valstybės turto patikėjimo teisės subjektai, nuomą pervedami į valstybės biudžetą. Nuompinigiai už valstybės turto, kurį patikėjimo teise valdo šio įstatymo [[#^s-89774096d752083c520c516b|10 straipsnio 2 dalies]] [[#^s-5d765866f1eef8f2267aab16|2]]–[[#^s-fcd3fb2dd8fc37f443af30fd|5]] punktuose nurodyti valstybės turto patikėjimo teisės subjektai, kurie įstatymų nustatyta tvarka turi teisę išnuomoti valstybės ilgalaikį ir trumpalaikį materialųjį turtą, nuomą pervedami į atitinkamų valstybės turto patikėjimo teisės subjektų sąskaitas. Nuompinigiai už valstybės ilgalaikio ir trumpalaikio materialiojo turto, įtraukto į Valstybinio socialinio draudimo fondo apskaitą, nuomą pervedami į Valstybinio socialinio draudimo fondo sąskaitą. ^s-a332b77a05dc8883c41cc3e3
 
 
-8. Nuompinigiai už savivaldybės ilgalaikio ir trumpalaikio materialiojo turto, kurį patikėjimo teise valdo šio įstatymo [[#^s-c99fca8923c3eda177ee6405|12 straipsnio 2 dalies 1 punkte]] nurodyti savivaldybės turto patikėjimo teisės subjektai, nuomą pervedami į savivaldybės biudžetą, o už turto, kurį patikėjimo teise valdo šio įstatymo [[#^s-899a69621bdeb6d94c428ab4|12 straipsnio 2 dalies]] 2 ir 3 punktuose nurodyti savivaldybės turto patikėjimo teisės subjektai, nuomą – į šių savivaldybės turto patikėjimo teisės subjektų sąskaitas. ^s-e2cf470492bcbdd7fe9065fa
+8. Nuompinigiai už savivaldybės ilgalaikio ir trumpalaikio materialiojo turto, kurį patikėjimo teise valdo šio įstatymo [[#^s-c99fca8923c3eda177ee6405|12 straipsnio 2 dalies 1 punkte]] nurodyti savivaldybės turto patikėjimo teisės subjektai, nuomą pervedami į savivaldybės biudžetą, o už turto, kurį patikėjimo teise valdo šio įstatymo [[#^s-899a69621bdeb6d94c428ab4|12 straipsnio 2 dalies]] [[#^s-15f7c81049325c77fd8235dc|2]] ir [[#^s-5e73c66df00e929797bc7f9e|3]] punktuose nurodyti savivaldybės turto patikėjimo teisės subjektai, nuomą – į šių savivaldybės turto patikėjimo teisės subjektų sąskaitas. ^s-e2cf470492bcbdd7fe9065fa
 
 
 9. Nuomos sutartyje turi būti nustatyti Vyriausybės ar savivaldybės tarybos numatyto dydžio delspinigiai už nuomininko praleistą nuomos mokesčio mokėjimo terminą, jeigu kituose įstatymuose nenustatyta kitaip. Jeigu nuomos sutartyje delspinigiai nenustatyti, nuomininkas moka 0,05 procento dydžio delspinigius už kiekvieną pavėluotą dieną. Nuomininkui, pagerinusiam išsinuomotą turtą, už turto pagerinimą neatlyginama. ^s-325bc29279454f4667a1c398
@@ -659,7 +659,7 @@ Teisė naudoti Lietuvos valstybės vardą ir Lietuvos Respublikos heraldikos obj
 6) specialiosios paskirties turtas, naudojamas specialiems tikslams (karinės, valstybės saugumo ir gynybos paskirties, suėmimo vykdymo, uždaro ir pusiau atviro tipo bausmės atlikimo vietos, policijos, priešgaisrinės tarnybos, pasienio ir kitų specialiųjų tarnybų naudojamas nekilnojamasis turtas, užsienio reikalų, taip pat diplomatinių atstovybių, konsulinių įstaigų ir specialiųjų misijų, viešojo transporto paskirties, kitas specialiems tikslams naudojamas nekilnojamasis turtas, įskaitant administracinės paskirties nekilnojamąjį turtą, naudojamą šiame punkte numatytiems tikslams); ^s-408105eb460d68325d635906
 
 
-7) kitos paskirties turtas, kurio negalima priskirti prie šios dalies 1–[[#^s-408105eb460d68325d635906|6 punktuose]] nurodytų grupių nekilnojamojo turto. ^s-b5fa3ed49e4a10795d2c63b3
+7) kitos paskirties turtas, kurio negalima priskirti prie šios dalies [[#^s-f75501d02409bd2224035d2a|1]]–[[#^s-408105eb460d68325d635906|6]] punktuose nurodytų grupių nekilnojamojo turto. ^s-b5fa3ed49e4a10795d2c63b3
 
 
 2. Valstybės nekilnojamojo turto, išskyrus pastatų ar jų kompleksų, kuriuose veiklą vykdo Lietuvos Respublikos Prezidentas, Seimas, Lietuvos Respublikos Konstitucinis Teismas, laikantis šiame įstatyme nustatytų principų, valdymo, priežiūros ir atnaujinimo veiklos (toliau – valdymas ir priežiūra) gali būti vykdomos centralizuotai. ^s-489aafd66392ca98c3496ed6
@@ -674,7 +674,7 @@ Teisė naudoti Lietuvos valstybės vardą ir Lietuvos Respublikos heraldikos obj
 2) atskirose valstybės veiklos srityse centralizuotai gali būti įgyvendinamas arba valstybės nekilnojamojo turto valdymas ir priežiūra, neperduodant centralizuotą valdymą ir priežiūrą įgyvendinantiems subjektams centralizuotai valdyti valstybės nekilnojamojo turto, arba valstybės nekilnojamojo turto valdymas ir priežiūra, perduodant centralizuotą valdymą ir priežiūrą įgyvendinantiems subjektams centralizuotai valdyti [[#^s-14bc896a5d5b86f3b8bac247|šio straipsnio 1 dalies]] 2–7 punktuose nurodytą valstybės nekilnojamąjį turtą; ^s-88fefce0e24372a5323fdd4f
 
 
-3) atskirose valstybės veiklos srityse gali būti steigiami nauji centralizuotą valstybės nekilnojamojo turto valdymą ir priežiūrą įgyvendinantys subjektai, jeigu nėra galimybės pavesti valstybės nekilnojamojo turto centralizuoto valdymo ir priežiūros įgyvendinti atskirose valstybės veiklos srityse, kuriose yra naudojamas [[#^s-14bc896a5d5b86f3b8bac247|šio straipsnio 1 dalies]] 2–7 punktuose nurodytas valstybės nekilnojamasis turtas, jau veikiantiems subjektams; ^s-072f27559c0802d5031a828b
+3) atskirose valstybės veiklos srityse gali būti steigiami nauji centralizuotą valstybės nekilnojamojo turto valdymą ir priežiūrą įgyvendinantys subjektai, jeigu nėra galimybės pavesti valstybės nekilnojamojo turto centralizuoto valdymo ir priežiūros įgyvendinti atskirose valstybės veiklos srityse, kuriose yra naudojamas [[#^s-14bc896a5d5b86f3b8bac247|šio straipsnio 1 dalies]] [[#^s-88fefce0e24372a5323fdd4f|2]]–7 punktuose nurodytas valstybės nekilnojamasis turtas, jau veikiantiems subjektams; ^s-072f27559c0802d5031a828b
 
 
 4) valstybės nekilnojamojo turto valdymą ir priežiūrą sudarančios veiklos nustatomos atsižvelgus į valstybės nekilnojamojo turto paskirties ir šį turtą naudojančių valstybės turto valdytojų veiklą reglamentuojančių teisės aktų specifiką; ^s-e5d6f16164993aaf11ee0291
@@ -799,7 +799,7 @@ Teisė naudoti Lietuvos valstybės vardą ir Lietuvos Respublikos heraldikos obj
 2) Vyriausybė – dėl [[#^s-2621f58fc7832bc5df1d935a|šio straipsnio 4 dalies 1 punkte]] nurodyto valstybės nekilnojamojo turto ir kitų nekilnojamųjų daiktų; ^s-dbac53db048649be16391dd9
 
 
-3) centralizuotai valdomo valstybės turto valdytojas – dėl [[#^s-f436e379ed858842a2bd4f19|šio straipsnio 4 dalies]] 2 ir 3 punktuose nurodyto valstybės nekilnojamojo turto ir kitų nekilnojamųjų daiktų. ^s-f14453007ca6ec85bd4d6be5
+3) centralizuotai valdomo valstybės turto valdytojas – dėl [[#^s-f436e379ed858842a2bd4f19|šio straipsnio 4 dalies]] [[#^s-dbac53db048649be16391dd9|2]] ir 3 punktuose nurodyto valstybės nekilnojamojo turto ir kitų nekilnojamųjų daiktų. ^s-f14453007ca6ec85bd4d6be5
 
 
 6. Viešo aukciono dalyviu gali būti Lietuvos Respublikos ir užsienio valstybių piliečiai, taip pat Lietuvos Respublikos nuolatiniai gyventojai, neturintys Lietuvos Respublikos pilietybės, Lietuvos Respublikoje ir užsienio valstybėse įsteigti juridiniai asmenys, taip pat juridinio asmens statuso neturintys subjektai, jų filialai ar atstovybės ir asmenys, sudarę rašytinį susitarimą. Valstybės ar savivaldybės nekilnojamojo turto, parduodamo kartu su valstybinės žemės sklypu ar jo dalimi, taip pat kitų nekilnojamųjų daiktų viešame aukcione ketinantis dalyvauti užsienio subjektas turi atitikti žemės sandorių ar kitų nuosavybės teisių perleidimo sandorių sudarymą reglamentuojančių įstatymų reikalavimus. ^s-bb50d18c5e5a6c22d84eafc7
@@ -948,7 +948,7 @@ Teisė naudoti Lietuvos valstybės vardą ir Lietuvos Respublikos heraldikos obj
 1. Valstybės valdomų įmonių, viešųjų įstaigų ir kitos teisinės formos juridinių asmenų dalyvės turtines ir neturtines teises ir pareigas įgyvendina Vyriausybės įgaliotos institucijos Vyriausybės nustatyta tvarka. Savivaldybės valdomų įmonių, viešųjų įstaigų ir kitos teisinės formos juridinių asmenų dalyvės turtines ir neturtines teises ir pareigas Vyriausybės nustatyta tvarka įgyvendina savivaldybės vykdomoji institucija. ^s-7bac4485b07f4259b596ce20
 
 
-2. Vyriausybė nustato, kurios pagal šio straipsnio 1 ir [[#^s-bccd1ba55669dca5e58417d3|3 dalis]] Vyriausybės priimtų teisės aktų nuostatos valstybės valdomoms įmonėms ir savivaldybės valdomoms įmonėms taikomos be išimčių, pagal taisyklę „laikykis arba paaiškink“ arba netaikomos. Vyriausybė taip pat nustato, kurios pagal šio straipsnio 1 ir [[#^s-bccd1ba55669dca5e58417d3|3 dalis]] Vyriausybės priimtų teisės aktų nuostatos taikomos be išimčių, pagal taisyklę „laikykis arba paaiškink“ arba netaikomos valstybės ir (ar) savivaldybės valdomų bendrovių dukterinėms akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, taip pat visoms kitoms su valstybės ir (ar) savivaldybės valdomomis bendrovėmis per dukterines bendroves susijusioms paskesnių eilių dukterinėms bendrovėms, kaip jos suprantamos Akcinių bendrovių įstatymo 5 straipsnio 3 dalyje, (toliau kartu – dukterinė bendrovė). Taisyklė „laikykis arba paaiškink“ suprantama taip, kad nukrypimas nuo Vyriausybės nustatytos tvarkos nuostatų turi būti racionaliai pagrįstas ir paaiškintas. ^s-638c9d6881d8586d336150cb
+2. Vyriausybė nustato, kurios pagal šio straipsnio [[#^s-7bac4485b07f4259b596ce20|1]] ir [[#^s-bccd1ba55669dca5e58417d3|3]] dalis Vyriausybės priimtų teisės aktų nuostatos valstybės valdomoms įmonėms ir savivaldybės valdomoms įmonėms taikomos be išimčių, pagal taisyklę „laikykis arba paaiškink“ arba netaikomos. Vyriausybė taip pat nustato, kurios pagal šio straipsnio [[#^s-7bac4485b07f4259b596ce20|1]] ir [[#^s-bccd1ba55669dca5e58417d3|3]] dalis Vyriausybės priimtų teisės aktų nuostatos taikomos be išimčių, pagal taisyklę „laikykis arba paaiškink“ arba netaikomos valstybės ir (ar) savivaldybės valdomų bendrovių dukterinėms akcinėms bendrovėms ir uždarosioms akcinėms bendrovėms, taip pat visoms kitoms su valstybės ir (ar) savivaldybės valdomomis bendrovėmis per dukterines bendroves susijusioms paskesnių eilių dukterinėms bendrovėms, kaip jos suprantamos Akcinių bendrovių įstatymo 5 straipsnio 3 dalyje, (toliau kartu – dukterinė bendrovė). Taisyklė „laikykis arba paaiškink“ suprantama taip, kad nukrypimas nuo Vyriausybės nustatytos tvarkos nuostatų turi būti racionaliai pagrįstas ir paaiškintas. ^s-638c9d6881d8586d336150cb
 
 
 3. Turi būti užtikrinamas valstybės valdomų įmonių, savivaldybės valdomų įmonių ir jų dukterinių bendrovių veiklos skaidrumas, kuris suprantamas kaip šių įmonių viešai atskleidžiamų duomenų, informacijos ir dokumentų paskelbimas jų interneto svetainėse ir [[#^s-f7f0fcd066570c6c28d6736f|šio straipsnio 6 dalies 1 punkte]] nurodytose apibendrinamosiose ataskaitose. Valstybės valdomų įmonių, savivaldybės valdomų įmonių ir jų dukterinių bendrovių veiklos skaidrumo užtikrinimo gaires, kuriose, be kita ko, gali būti nustatomi ir papildomi, negu įstatymuose nustatyti, šių įmonių metinių ir tarpinių finansinių ataskaitų rinkinių, pranešimų ir veiklos ataskaitų rengimo ir turinio reikalavimai, nustato Vyriausybė. ^s-bccd1ba55669dca5e58417d3
@@ -1018,14 +1018,14 @@ Teisė naudoti Lietuvos valstybės vardą ir Lietuvos Respublikos heraldikos obj
 1. Valstybės ir (ar) savivaldybės valdomos bendrovės visuotinio akcininkų susirinkimo renkamame kolegialiame priežiūros ar valdymo organe turi būti: ^s-64cda7135676c1d6ff30961c
 
 
-1) bent vienas valstybės tarnautojas, atitinkantis šio straipsnio 5 ir [[#^s-e114771694e0e4323560fe31|6 dalyse]] nustatytus bendruosius ir specialiuosius reikalavimus; ^s-41a2b4094ee5ec35b34c53e4
+1) bent vienas valstybės tarnautojas, atitinkantis šio straipsnio [[#^s-4b8f6cd3ece24442d66a0636|5]] ir [[#^s-e114771694e0e4323560fe31|6]] dalyse nustatytus bendruosius ir specialiuosius reikalavimus; ^s-41a2b4094ee5ec35b34c53e4
 
 
-2) kolegialaus organo nepriklausomi nariai – fiziniai asmenys (ne mažiau kaip 1/2 valstybės ir (ar) savivaldybės valdomos bendrovės įstatuose nurodyto kolegialaus organo narių skaičiaus), atitinkantys šio straipsnio 5, 6 ir [[#^s-95b60e2461f4ee685f523558|7 dalyse]] nurodytus bendruosius, specialiuosius ir nepriklausomumo reikalavimus; ^s-ae2af626410c4ab944442ba0
+2) kolegialaus organo nepriklausomi nariai – fiziniai asmenys (ne mažiau kaip 1/2 valstybės ir (ar) savivaldybės valdomos bendrovės įstatuose nurodyto kolegialaus organo narių skaičiaus), atitinkantys šio straipsnio [[#^s-4b8f6cd3ece24442d66a0636|5]], [[#^s-e114771694e0e4323560fe31|6]] ir [[#^s-95b60e2461f4ee685f523558|7]] dalyse nurodytus bendruosius, specialiuosius ir nepriklausomumo reikalavimus; ^s-ae2af626410c4ab944442ba0
 
 
 3) darbuotojų atstovai kolegialiame valdymo organe (ne mažiau kaip 1/5 valstybės ir (ar) savivaldybės valdomos bendrovės įstatuose nurodyto valdybos narių skaičiaus, bet ne mažiau kaip vienas), atitinkantys [[#^s-4b8f6cd3ece24442d66a0636|šio straipsnio 5 dalyje]] nurodytus bendruosius reikalavimus, [[#^s-e114771694e0e4323560fe31|šio straipsnio 6 dalyje]] nurodytus atranką inicijuojančio subjekto nustatytus specialiuosius reikalavimus ir [[#^s-95b60e2461f4ee685f523558|šio straipsnio 7 dalies]] 3 ir 5 punktuose nurodytus nepriklausomumo reikalavimus. ^s-38aa52e568747312792dfca0
-TAR pastaba: Iki 2026-10-31 suformuotos sudėties valstybės ir (ar) savivaldybės valdomų bendrovių kolegialūs valdymo organai veiklą tęsia iki kadencijos pabaigos. [[#^s-38aa52e568747312792dfca0|23 straipsnio 1 dalies 3 punkte]] nustatytas darbuotojų atstovų dalyvavimo valstybės ir (ar) savivaldybės valdomos bendrovės visuotinio akcininkų susirinkimo renkamame kolegialiame valdymo organe reikalavimas taikomas tik nuo 2026-11-01 formuojamai valdymo organo sudėčiai.
+TAR pastaba: Iki 2026-10-31 suformuotos sudėties valstybės ir (ar) savivaldybės valdomų bendrovių kolegialūs valdymo organai veiklą tęsia iki kadencijos pabaigos. 23 straipsnio 1 dalies 3 punkte nustatytas darbuotojų atstovų dalyvavimo valstybės ir (ar) savivaldybės valdomos bendrovės visuotinio akcininkų susirinkimo renkamame kolegialiame valdymo organe reikalavimas taikomas tik nuo 2026-11-01 formuojamai valdymo organo sudėčiai.
 Papildyta straipsnio punktu:
 Nr. XV-1060, 2026-06-25, paskelbta TAR 2026-06-29, i. k. 2026-11234
 
@@ -1034,7 +1034,7 @@ Nr. XV-1060, 2026-06-25, paskelbta TAR 2026-06-29, i. k. 2026-11234
 2. Valstybės ir (ar) savivaldybės valdomos bendrovės dukterinės bendrovės visuotinio akcininkų susirinkimo renkamame kolegialiame priežiūros ar valdymo organe kolegialaus organo nepriklausomų narių skaičius turi būti ne mažesnis kaip 1/3 valstybės ir (ar) savivaldybės valdomos bendrovės dukterinės bendrovės įstatuose nurodyto kolegialaus organo narių skaičiaus. ^s-1ad774a86631a4d5e48191b9
 
 
-3. Valstybės ir (ar) savivaldybės valdomos bendrovės ar jos dukterinės bendrovės visuotinio akcininkų susirinkimo renkamame kolegialiame priežiūros ar valdymo organe gali būti ir kitų, negu šio straipsnio 1 ir [[#^s-18fcfb90339fc7ebf39b427d|4 dalyse]] nurodytų, atranką inicijuojančio subjekto pasirinktų asmenų, kurie yra šios valstybės ir (ar) savivaldybės valdomos bendrovės, jos dukterinės arba patronuojančiosios bendrovės darbuotojai ar vadovai, atitinkantys [[#^s-4b8f6cd3ece24442d66a0636|šio straipsnio 5 dalyje]] nurodytus bendruosius reikalavimus, [[#^s-e114771694e0e4323560fe31|šio straipsnio 6 dalyje]] nurodytus atranką inicijuojančio subjekto nustatytus specialiuosius reikalavimus ir [[#^s-95b60e2461f4ee685f523558|šio straipsnio 7 dalies]] 3 ir 5 punktuose nurodytus nepriklausomumo reikalavimus, arba juridinio asmens, kurio dalyvės yra šioje dalyje nurodytos bendrovės, darbuotojai ar vadovai, atitinkantys [[#^s-4b8f6cd3ece24442d66a0636|šio straipsnio 5 dalyje]] nurodytus bendruosius reikalavimus, [[#^s-e114771694e0e4323560fe31|šio straipsnio 6 dalyje]] nurodytus atranką inicijuojančio subjekto nustatytus specialiuosius reikalavimus ir [[#^s-95b60e2461f4ee685f523558|šio straipsnio 7 dalies]] 3 ir 5 punktuose nurodytus nepriklausomumo reikalavimus, taip pat tam tikros srities ekspertai, atitinkantys [[#^s-4b8f6cd3ece24442d66a0636|šio straipsnio 5 dalyje]] nurodytus bendruosius reikalavimus, [[#^s-e114771694e0e4323560fe31|šio straipsnio 6 dalyje]] nurodytus atranką inicijuojančio subjekto nustatytus specialiuosius reikalavimus ir [[#^s-95b60e2461f4ee685f523558|šio straipsnio 7 dalies]] 3–5 punktuose nurodytus nepriklausomumo reikalavimus. ^s-848ab17cb7e0e25aebc8b1fd
+3. Valstybės ir (ar) savivaldybės valdomos bendrovės ar jos dukterinės bendrovės visuotinio akcininkų susirinkimo renkamame kolegialiame priežiūros ar valdymo organe gali būti ir kitų, negu šio straipsnio [[#^s-64cda7135676c1d6ff30961c|1]] ir [[#^s-18fcfb90339fc7ebf39b427d|4]] dalyse nurodytų, atranką inicijuojančio subjekto pasirinktų asmenų, kurie yra šios valstybės ir (ar) savivaldybės valdomos bendrovės, jos dukterinės arba patronuojančiosios bendrovės darbuotojai ar vadovai, atitinkantys [[#^s-4b8f6cd3ece24442d66a0636|šio straipsnio 5 dalyje]] nurodytus bendruosius reikalavimus, [[#^s-e114771694e0e4323560fe31|šio straipsnio 6 dalyje]] nurodytus atranką inicijuojančio subjekto nustatytus specialiuosius reikalavimus ir [[#^s-95b60e2461f4ee685f523558|šio straipsnio 7 dalies]] 3 ir 5 punktuose nurodytus nepriklausomumo reikalavimus, arba juridinio asmens, kurio dalyvės yra šioje dalyje nurodytos bendrovės, darbuotojai ar vadovai, atitinkantys [[#^s-4b8f6cd3ece24442d66a0636|šio straipsnio 5 dalyje]] nurodytus bendruosius reikalavimus, [[#^s-e114771694e0e4323560fe31|šio straipsnio 6 dalyje]] nurodytus atranką inicijuojančio subjekto nustatytus specialiuosius reikalavimus ir [[#^s-95b60e2461f4ee685f523558|šio straipsnio 7 dalies]] 3 ir 5 punktuose nurodytus nepriklausomumo reikalavimus, taip pat tam tikros srities ekspertai, atitinkantys [[#^s-4b8f6cd3ece24442d66a0636|šio straipsnio 5 dalyje]] nurodytus bendruosius reikalavimus, [[#^s-e114771694e0e4323560fe31|šio straipsnio 6 dalyje]] nurodytus atranką inicijuojančio subjekto nustatytus specialiuosius reikalavimus ir [[#^s-95b60e2461f4ee685f523558|šio straipsnio 7 dalies]] 3–5 punktuose nurodytus nepriklausomumo reikalavimus. ^s-848ab17cb7e0e25aebc8b1fd
 
 
 4. Valstybės ir (ar) savivaldybės valdomos bendrovės ar jos dukterinės bendrovės valdybos nariu gali būti skiriamas valstybės ir (ar) savivaldybės valdomos bendrovės ar jos dukterinės bendrovės vadovas (išskyrus Akcinių bendrovių įstatymo 33 straipsnio 6 dalies 3 punkte nurodytą atvejį). ^s-18fcfb90339fc7ebf39b427d
@@ -1182,7 +1182,7 @@ NEREIKALINGO ARBA NETINKAMO (NEGALIMO) NAUDOTI VALSTYBĖS IR SAVIVALDYBIŲ TURTO
 1. Panaudoti pripažintą nereikalingu arba netinkamu (negalimu) naudoti valstybės ar savivaldybės nematerialųjį, ilgalaikį materialųjį ir trumpalaikį materialųjį turtą, išskyrus [[#^s-40b819c403d76b0e1b35c7cc|šio straipsnio 2 dalyje]] nurodytus atvejus, galima šiais būdais: ^s-b1e1ed60e8442079d6543596
 
 
-1) perduodant patikėjimo teise šio įstatymo 10–[[#^s-dca49dac30827913c62a747c|12 straipsniuose]] nustatytais atvejais ir tvarka; ^s-7443b7035dbe8524727182ba
+1) perduodant patikėjimo teise šio įstatymo [[#^s-c6f347415d13d761e8cdecbd|10]]–[[#^s-dca49dac30827913c62a747c|12]] straipsniuose nustatytais atvejais ir tvarka; ^s-7443b7035dbe8524727182ba
 
 
 2) perduodant panaudos pagrindais šio įstatymo [[#^s-90aa1eec7993a3f595978152|14 straipsnyje]] nustatytais atvejais ir tvarka; ^s-439dad9813538c24992434e6
@@ -1200,7 +1200,7 @@ NEREIKALINGO ARBA NETINKAMO (NEGALIMO) NAUDOTI VALSTYBĖS IR SAVIVALDYBIŲ TURTO
 6) parduodant Lietuvos Respublikos diplomatinių atstovybių, konsulinių įstaigų ir atstovybių prie tarptautinių organizacijų valdomą turtą (išskyrus nekilnojamąjį turtą ir kitus nekilnojamuosius daiktus) Vyriausybės nustatyta tvarka; ^s-b7182a3562ab98788fbb8aa0
 
 
-7) perduodant valstybės ar savivaldybių nuosavybėn šio įstatymo [[#^s-6f210a8777242a3dc33b5653|5 straipsnio 1 dalies 6 punkte]], [[#^s-429b8546ca9e529ec406c353|6 straipsnio 2 punkte]] ir [[#^s-5a33a5474acee926eb575ba9|19 straipsnio 1 dalyje]] nustatytais atvejais ir tvarka arba perduodant kitų šio įstatymo [[#^s-ab93ce79b1ea8cf33fa214c3|19 straipsnio]] 5 ir [[#^s-24014e4a57e522ed75a92648|6 dalyse]] nurodytų subjektų nuosavybėn; ^s-1f6a34ff3fa7584cf8058bec
+7) perduodant valstybės ar savivaldybių nuosavybėn šio įstatymo [[#^s-6f210a8777242a3dc33b5653|5 straipsnio 1 dalies 6 punkte]], 6 straipsnio 2 punkte ir [[#^s-5a33a5474acee926eb575ba9|19 straipsnio 1 dalyje]] nustatytais atvejais ir tvarka arba perduodant kitų šio įstatymo [[#^s-ab93ce79b1ea8cf33fa214c3|19 straipsnio]] [[#^s-aa512d964c76df1dda376803|5]] ir [[#^s-8557c5cad59b7ccf38b9d8db|6]] dalyse nurodytų subjektų nuosavybėn; ^s-1f6a34ff3fa7584cf8058bec
 
 
 8) gyvūnus perduodant šio įstatymo nustatytais būdais, įskaitant perdavimą kitų asmenų nuosavybėn, Vyriausybės ar jos įgaliotos institucijos arba savivaldybės tarybos nustatyta tvarka; ^s-3f02d48d962f9fe77c229d5c
@@ -1212,7 +1212,7 @@ NEREIKALINGO ARBA NETINKAMO (NEGALIMO) NAUDOTI VALSTYBĖS IR SAVIVALDYBIŲ TURTO
 2. Pripažintas nereikalingu arba netinkamu (negalimu) naudoti valstybės ar savivaldybės nematerialusis, ilgalaikis materialusis ir trumpalaikis materialusis turtas laikytinas nenaudotinu: ^s-40b819c403d76b0e1b35c7cc
 
 
-1) šio įstatymo [[#^s-cd71096654a9d3a84d220aab|26 straipsnio 1 dalies]] 3, 5, 6 ir 7 punktuose nustatytais atvejais; ^s-237a3476ce290a57aefd6f0b
+1) šio įstatymo [[#^s-cd71096654a9d3a84d220aab|26 straipsnio 1 dalies]] [[#^s-538f5c20f08f6cc00cd2cf5f|3]], [[#^s-18dbab4b565c4d6032a1d2cd|5]], [[#^s-6b56bf651cb55a0952be7ec4|6]] ir [[#^s-4d632d81124910965532481d|7]] punktuose nustatytais atvejais; ^s-237a3476ce290a57aefd6f0b
 
 
 2) jeigu jis visiškai fiziškai nusidėvėjo (prarado praktinę ir prekinę vertę) arba funkciškai (technologiškai) nusidėvėjo; ^s-a8e2344bf94b851b0bf514a1
@@ -1251,7 +1251,7 @@ NEREIKALINGO ARBA NETINKAMO (NEGALIMO) NAUDOTI VALSTYBĖS IR SAVIVALDYBIŲ TURTO
 1) atitinkamai į valstybės biudžetą arba Valstybinio socialinio draudimo fondo biudžetą, arba savivaldybės biudžetą, kai parduodamas turtas patikėjimo teise valdomas šio įstatymo [[#^s-7b0bab9d4f37bd67b3af2de6|10 straipsnio 2 dalies 1 punkte]] ir [[#^s-c99fca8923c3eda177ee6405|12 straipsnio 2 dalies 1 punkte]] nurodytų patikėjimo teisės subjektų; ^s-464ba25bf4978440456a8961
 
 
-2) į šio įstatymo [[#^s-89774096d752083c520c516b|10 straipsnio 2 dalies]] 2–5 punktuose arba [[#^s-899a69621bdeb6d94c428ab4|12 straipsnio 2 dalies]] 2 ir 3 punktuose nurodytų patikėjimo teisės subjektų sąskaitas, kai parduodamas turtas patikėjimo teise valdomas šių patikėjimo teisės subjektų. ^s-96b6c331d00aa138b840e3cc
+2) į šio įstatymo [[#^s-89774096d752083c520c516b|10 straipsnio 2 dalies]] [[#^s-5d765866f1eef8f2267aab16|2]]–[[#^s-fcd3fb2dd8fc37f443af30fd|5]] punktuose arba [[#^s-899a69621bdeb6d94c428ab4|12 straipsnio 2 dalies]] [[#^s-15f7c81049325c77fd8235dc|2]] ir [[#^s-5e73c66df00e929797bc7f9e|3]] punktuose nurodytų patikėjimo teisės subjektų sąskaitas, kai parduodamas turtas patikėjimo teise valdomas šių patikėjimo teisės subjektų. ^s-96b6c331d00aa138b840e3cc
 
 
 
@@ -1306,7 +1306,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-900, 2002-05-23, Žin., 2002, Nr. 60-2412 (2002-06-19)
 [[latest/TAR.89CCCC443F04|VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO PAKEITIMO ĮSTATYMAS]]
 Nauja įstatymo redakcija
-Šio Įstatymo [[#^s-9fe7f7888c0251ae5dec0af2|1 straipsnyje]] išdėstyto Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 13 straipsnio 3 dalies ir [[#^s-f4c01473037151eab39fa875|14 straipsnio 5 dalies]] nuostatos dėl neatlyginimo už perduoto turto pagerinimą netaikomos sutartims, kurios buvo sudarytos iki šio Įstatymo įsigaliojimo.
+Šio Įstatymo [[#^s-9fe7f7888c0251ae5dec0af2|1 straipsnyje]] išdėstyto [[latest/TAR.D5496D69DF98|Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 13 straipsnio 3 dalies]] ir [[#^s-f4c01473037151eab39fa875|14 straipsnio 5 dalies]] nuostatos dėl neatlyginimo už perduoto turto pagerinimą netaikomos sutartims, kurios buvo sudarytos iki šio Įstatymo įsigaliojimo.
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1342,7 +1342,7 @@ Nr. IX-2543, 2004-11-04, Žin., 2004, Nr. 168-6175 (2004-11-20)
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-771, 2006-07-18, Žin., 2006, Nr. 87-3397 (2006-08-08)
-[[#^s-e7629de96adcb7b19c713b64|VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO 3, 4, 6, 7, 8, 9, 10, 11, 13, 14, 15, 16, 17, 19, 20, 21, 22, 23 STRAIPSNIŲ]] PAKEITIMO, [[#^s-067e501e7a1582bae687822c|18 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS IR ĮSTATYMO PAPILDYMO 81, 161, 191 STRAIPSNIAIS ĮSTATYMAS
+VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO [[#^s-dc09687b67b1ee9ffcede77b|3]], [[#^s-cabe8f69924807bad8621354|4]], [[#^s-26ad6ae8605b1e4bc1f28824|6]], [[#^s-0f45976d763600f7ceb08694|7]], [[#^s-ebb626b2801c1aab87467a2d|8]], [[#^s-9914fc071dec5b58ae6a91c0|9]], [[#^s-c6f347415d13d761e8cdecbd|10]], [[#^s-23185da9ad0472ba5833f990|11]], [[#^s-8348de8178ecd2faa1292445|13]], [[#^s-90aa1eec7993a3f595978152|14]], [[#^s-afb1bac7efe126b13524b235|15]], [[#^s-c1bcdb86eca481e5c8e43265|16]], [[#^s-e34e5ff889e4854ace8c5807|17]], [[#^s-ab93ce79b1ea8cf33fa214c3|19]], [[#^s-acf6d8c8ed4cba9aa9f251b2|20]], [[#^s-c8c087c2316c598ed2b3d8d6|21]], [[#^s-f12ce266d57472ec4e539848|22]], [[#^s-e7629de96adcb7b19c713b64|23]] STRAIPSNIŲ PAKEITIMO, [[#^s-067e501e7a1582bae687822c|18 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS IR ĮSTATYMO PAPILDYMO 81, 161, 191 STRAIPSNIAIS ĮSTATYMAS
 [[#^s-45c3ad45c3177d258236c9d3|Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 15 straipsnio 5 dalies]] pakeitimas įsigalioja nuo 2008 m. sausio 1 d.; įstatymo papildymas 161 straipsniu įsigalioja nuo 2007 m. sausio 1 d.
 
 15.
@@ -1406,7 +1406,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-802, 2014-03-25, paskelbta TAR 2014-04-03, i. k. 2014-04025
 LIETUVOS RESPUBLIKOS VALSTYBĖS IR SAVIVALDYBIŲ TURTO VALDYMO, NAUDOJIMO IR DISPONAVIMO JUO ĮSTATYMO NR. VIII-729 PAKEITIMO
 Nauja įstatymo redakcija
-Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-e402f9e363ca55c1f749db32|3 dalis]], įsigalioja 2014 m. spalio 1 d.
+Šis įstatymas, išskyrus šio straipsnio [[#^s-40b819c403d76b0e1b35c7cc|2]] ir [[#^s-e402f9e363ca55c1f749db32|3]] dalis, įsigalioja 2014 m. spalio 1 d.
 Šio įstatymo [[#^s-9fe7f7888c0251ae5dec0af2|1 straipsnyje]] išdėstyto [[#^s-067e501e7a1582bae687822c|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 18 straipsnio]] nuostatos taikomos atnaujinant valstybės nekilnojamąjį turtą, kuris iki šio įstatymo įsigaliojimo dienos buvo įtrauktas į Vyriausybės patvirtintą Atnaujinamo valstybės nekilnojamojo turto sąrašą kaip atnaujinamas valstybės nekilnojamasis turtas ir dėl kurio atnaujinimo iki šio įstatymo įsigaliojimo dienos buvo sudaryti susitarimai dėl jo atnaujinimo. Nuo šio įstatymo įsigaliojimo dienos nauji atnaujinamo valstybės nekilnojamojo turto objektai į Vyriausybės tvirtinamą Atnaujinamo valstybės nekilnojamojo turto sąrašą neįtraukiami.
 
 
@@ -1414,7 +1414,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2009-03-02, Žin., 2009, Nr. 25-988 (2009-03-05)
-DĖL [[latest/TAR.04F64676CE77#^s-8f88500143a90c92099ffb81|LIETUVOS RESPUBLIKOS ATOMINĖS ELEKTRINĖS ĮSTATYMO 10 STRAIPSNIO 1 DALIES]] (2008 M. VASARIO 1 D. REDAKCIJA) NUOSTATŲ IR [[#^s-23185da9ad0472ba5833f990|11 STRAIPSNIO]] (2008 M. VASARIO 1 D. REDAKCIJA) 1 [[#^s-464ba25bf4978440456a8961|DALIES 1 PUNKTO]] ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS ATOMINĖS ELEKTRINĖS ĮSTATYMO 10 STRAIPSNIO 1 DALIES (2008 M. VASARIO 1 D. REDAKCIJA) NUOSTATŲ IR 11 STRAIPSNIO (2008 M. VASARIO 1 D. REDAKCIJA) 1 DALIES 1 PUNKTO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.6C63281E8267)
 
 
 Pakeitimai:
@@ -1422,7 +1422,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1199, 2014-10-07, paskelbta TAR 2014-10-17, i. k. 2014-14278
-Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 20 ir [[#^s-c8c087c2316c598ed2b3d8d6|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 [[#^s-acf6d8c8ed4cba9aa9f251b2|20]] ir [[#^s-c8c087c2316c598ed2b3d8d6|21]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1477,17 +1477,17 @@ Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir dis
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1663, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19160
-Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 2, 20 ir [[#^s-e7629de96adcb7b19c713b64|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 [[#^s-082895c4ab6382c9c8ce8065|2]], [[#^s-acf6d8c8ed4cba9aa9f251b2|20]] ir [[#^s-e7629de96adcb7b19c713b64|23]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2398, 2019-07-25, paskelbta TAR 2019-07-26, i. k. 2019-12398
-Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 5, 6, 10, 12, 14, 15, 16, 19, 20, 21, [[#^s-21bfd52f7882fe545ddea33b|24 straipsnių]] pakeitimo ir [[#^s-067e501e7a1582bae687822c|18 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 [[#^s-23cc6a12da50aaa5f7fddaad|5]], [[#^s-26ad6ae8605b1e4bc1f28824|6]], [[#^s-c6f347415d13d761e8cdecbd|10]], [[#^s-dca49dac30827913c62a747c|12]], [[#^s-90aa1eec7993a3f595978152|14]], [[#^s-afb1bac7efe126b13524b235|15]], [[#^s-c1bcdb86eca481e5c8e43265|16]], [[#^s-ab93ce79b1ea8cf33fa214c3|19]], [[#^s-acf6d8c8ed4cba9aa9f251b2|20]], [[#^s-c8c087c2316c598ed2b3d8d6|21]], [[#^s-21bfd52f7882fe545ddea33b|24]] straipsnių pakeitimo ir [[#^s-067e501e7a1582bae687822c|18 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3047, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13963
-Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 14 ir [[#^s-afb1bac7efe126b13524b235|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 [[#^s-90aa1eec7993a3f595978152|14]] ir [[#^s-afb1bac7efe126b13524b235|15]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1512,12 +1512,12 @@ Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir dis
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1355, 2022-06-30, paskelbta TAR 2022-07-14, i. k. 2022-15451
-Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 10 ir [[#^s-dca49dac30827913c62a747c|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 [[#^s-c6f347415d13d761e8cdecbd|10]] ir [[#^s-dca49dac30827913c62a747c|12]] straipsnių pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1631, 2022-12-08, paskelbta TAR 2022-12-21, i. k. 2022-26095
-Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 15, 23 ir 23-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 [[#^s-afb1bac7efe126b13524b235|15]], [[#^s-e7629de96adcb7b19c713b64|23]] ir 23-1 straipsnių pakeitimo įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1542,12 +1542,12 @@ Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir dis
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3044, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18469
-Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 2, 14, 20 ir [[#^s-f12ce266d57472ec4e539848|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 [[#^s-082895c4ab6382c9c8ce8065|2]], [[#^s-90aa1eec7993a3f595978152|14]], [[#^s-acf6d8c8ed4cba9aa9f251b2|20]] ir [[#^s-f12ce266d57472ec4e539848|22]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-528, 2025-11-13, paskelbta TAR 2025-11-25, i. k. 2025-19760
-Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 5, 6, 10, 12, 14, 15, 16, 19, 20, 21, [[#^s-21bfd52f7882fe545ddea33b|24 straipsnių]] pakeitimo ir [[#^s-067e501e7a1582bae687822c|18 straipsnio]] pripažinimo netekusiu galios [[latest/3c3cf3d0af9b11e98451fa7b5933515d|įstatymo Nr. XIII-2398]] [[#^s-8348de8178ecd2faa1292445|13 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo Nr. VIII-729 [[#^s-23cc6a12da50aaa5f7fddaad|5]], [[#^s-26ad6ae8605b1e4bc1f28824|6]], [[#^s-c6f347415d13d761e8cdecbd|10]], [[#^s-dca49dac30827913c62a747c|12]], [[#^s-90aa1eec7993a3f595978152|14]], [[#^s-afb1bac7efe126b13524b235|15]], [[#^s-c1bcdb86eca481e5c8e43265|16]], [[#^s-ab93ce79b1ea8cf33fa214c3|19]], [[#^s-acf6d8c8ed4cba9aa9f251b2|20]], [[#^s-c8c087c2316c598ed2b3d8d6|21]], [[#^s-21bfd52f7882fe545ddea33b|24]] straipsnių pakeitimo ir [[#^s-067e501e7a1582bae687822c|18 straipsnio]] pripažinimo netekusiu galios [[latest/3c3cf3d0af9b11e98451fa7b5933515d|įstatymo Nr. XIII-2398]] [[#^s-8348de8178ecd2faa1292445|13 straipsnio]] pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas

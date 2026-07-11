@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimas ir straipsnio papildymas 3 dalimi ^s-e4afa6ed146b51f0a4e2a0ca
 
 
-1. pakeisti [[#^s-9b21f76bfb3fbbd9cc35ea6c|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-9b21f76bfb3fbbd9cc35ea6c
+1. pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip: ^s-9b21f76bfb3fbbd9cc35ea6c
 
 
 „1. Šis įstatymas nustato žemės ūkio produkcijos pirkimo–pardavimo sutarties tipines sąlygas, atsiskaitymo už šią produkciją sąlygas ir tvarką, taip pat lėšų už patiektą žemės ūkio produkciją, nurodytą šiame įstatyme, nurašymo eiliškumą, kai žemės ūkio produkcijos pirkėjas visiems pareikštiems reikalavimams patenkinti vienu metu neturi pakankamai lėšų sąskaitoje.“

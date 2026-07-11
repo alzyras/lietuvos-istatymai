@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-390735933e51e2710b9c9664
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2004 m. kovo 12 d. dekretą Nr. 398, ratifikuoja Tarptautinės muitinės procedūrų supaprastinimo ir suderinimo konvencijos pakeitimo protokolą, priimtą 1999 m. birželio 26 d. Briuselyje, ir jo I bei II priedėlius.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2004 m. kovo 12 d. dekretą Nr. 398](https://e-tar.lt/portal/lt/legalAct/TAR.27BB6A6170BF), ratifikuoja Tarptautinės muitinės procedūrų supaprastinimo ir suderinimo konvencijos pakeitimo protokolą, priimtą 1999 m. birželio 26 d. Briuselyje, ir jo I bei II priedėlius.
 
 
 

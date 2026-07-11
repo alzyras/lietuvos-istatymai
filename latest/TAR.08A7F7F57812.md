@@ -48,7 +48,7 @@ Vilnius
 2. 2 straipsnio 3 dalyje vietoj žodžių „viešosios apyvartos“ įrašyti žodį „rinkos“, vietoj žodžių „oficialus privalomas“ įrašyti žodžius „privalomas oficialus“ ir šią dalį išdėstyti taip: ^s-c002a0356a8dcd5fb90c6ec1
 
 
-„3. Valstybei ar savivaldybei nuosavybės teise priklausančius akcijų paketus, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, privatizavimo institucijos gali parduoti Lietuvos Respublikos vertybinių popierių rinkos įstatymo nustatyta tvarka, kai yra pateiktas privalomas oficialus pasiūlymas.“
+„3. Valstybei ar savivaldybei nuosavybės teise priklausančius akcijų paketus, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, privatizavimo institucijos gali parduoti [Lietuvos Respublikos vertybinių popierių rinkos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nustatyta tvarka, kai yra pateiktas privalomas oficialus pasiūlymas.“
 
 
 ### 2 straipsnis. 4 straipsnio 2 dalies 10 punkto pakeitimas ^s-be83440808abb37eed6456b3
@@ -66,7 +66,7 @@ Vilnius
 5 straipsnio 4 dalies 5 punkte vietoj žodžių „viešosios apyvartos“ įrašyti žodį „rinkos“ ir šį punktą išdėstyti taip:
 
 
-„5) pritarti ar nepritarti valstybei, taip pat savivaldybei nuosavybės teise priklausančių akcijų paketų, pagal sutartį perduotų privatizuoti valstybės įmonei Valstybės turto fondas, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, pardavimui, kai Lietuvos Respublikos vertybinių popierių rinkos įstatymo nustatyta tvarka yra pateiktas privalomas oficialus pasiūlymas pirkti šį akcijų paketą.“
+„5) pritarti ar nepritarti valstybei, taip pat savivaldybei nuosavybės teise priklausančių akcijų paketų, pagal sutartį perduotų privatizuoti valstybės įmonei Valstybės turto fondas, kurie visuotiniame akcininkų susirinkime suteikia mažiau kaip 1/4 balsų, pardavimui, kai [Lietuvos Respublikos vertybinių popierių rinkos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nustatyta tvarka yra pateiktas privalomas oficialus pasiūlymas pirkti šį akcijų paketą.“
 
 
 ### 4 straipsnis. 7 straipsnio 1 dalies 1 punkto pakeitimas ^s-d07f04c48baae3561960a4db
@@ -84,7 +84,7 @@ Vilnius
 16 straipsnio 4 dalies antrajame sakinyje  vietoj žodžių „viešosios apyvartos“ įrašyti žodį „rinkos“ ir šią dalį išdėstyti taip:
 
 
-„4. Informaciniai leidiniai apie viešame konkurse parduodamus akcinių ir uždarųjų akcinių bendrovių akcijų paketus yra rengiami Turto fondo nustatyta tvarka. Šiems informaciniams leidiniams Vertybinių popierių rinkos įstatymo reikalavimai netaikomi.“
+„4. Informaciniai leidiniai apie viešame konkurse parduodamus akcinių ir uždarųjų akcinių bendrovių akcijų paketus yra rengiami Turto fondo nustatyta tvarka. Šiems informaciniams leidiniams [Vertybinių popierių rinkos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) reikalavimai netaikomi.“
 
 
 ### 6 straipsnis. 17 straipsnio 4 dalies pakeitimas ^s-1de29b915a0be29b684cfc00
@@ -93,7 +93,7 @@ Vilnius
 17 straipsnio 4 dalies antrajame sakinyje vietoj žodžių „viešosios apyvartos“ įrašyti žodį „rinkos“ ir šią dalį išdėstyti taip:
 
 
-„4. Informaciniai leidiniai apie tiesioginių derybų būdu parduodamus akcinių ir uždarųjų akcinių bendrovių akcijų paketus yra rengiami Turto fondo nustatyta tvarka. Šiems informaciniams leidiniams Vertybinių popierių rinkos įstatymo reikalavimai netaikomi.“
+„4. Informaciniai leidiniai apie tiesioginių derybų būdu parduodamus akcinių ir uždarųjų akcinių bendrovių akcijų paketus yra rengiami Turto fondo nustatyta tvarka. Šiems informaciniams leidiniams [Vertybinių popierių rinkos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) reikalavimai netaikomi.“
 
 
 ### 7 straipsnis. Įstatymo įsigaliojimas ^s-b70eb3d40f8204c16e07c06b

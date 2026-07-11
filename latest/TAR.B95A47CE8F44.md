@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-0ec03fe101f9346b006e2a0b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. gruodžio 17 d. dekretą Nr. 1K-1313, ratifikuoja su pareiškimais 2007 m. vasario 6 d. Paryžiuje pasirašytą Tarptautinę konvenciją dėl asmenų apsaugos nuo priverstinio dingimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. gruodžio 17 d. dekretą Nr. 1K-1313](https://e-tar.lt/portal/lt/legalAct/TAR.98E3B9BC1662), ratifikuoja su pareiškimais 2007 m. vasario 6 d. Paryžiuje pasirašytą Tarptautinę konvenciją dėl asmenų apsaugos nuo priverstinio dingimo.
 
 
 

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-5892bf7d42770fdaca0efb28
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas j Respublikos Prezidento 2006 m. balandžio 14 d. dekretą Nr. 576, ratifikuoja 2005 m. spalio 27 d. Gardine pasirašytą Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl valstybės sienos įgaliotinių veiklos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas j Respublikos Prezidento [2006 m. balandžio 14 d. dekretą Nr. 576](https://e-tar.lt/portal/lt/legalAct/TAR.867FCF126F4D), ratifikuoja 2005 m. spalio 27 d. Gardine pasirašytą Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės susitarimą dėl valstybės sienos įgaliotinių veiklos.
 
 
 

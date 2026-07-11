@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-9fb58a3fb5f674d4df1c50ee
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. lapkričio 4 d. dekretą Nr. 275, ratifikuoja su pareiškimu Tarptautinę konvenciją dėl kovos su teroristų vykdomais sprogdinimais, priimtą 1997 m. gruodžio 15 d. Niujorke.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. lapkričio 4 d. dekretą Nr. 275](https://e-tar.lt/portal/lt/legalAct/TAR.C6389EE7F452), ratifikuoja su pareiškimu Tarptautinę konvenciją dėl kovos su teroristų vykdomais sprogdinimais, priimtą 1997 m. gruodžio 15 d. Niujorke.
 
 
 

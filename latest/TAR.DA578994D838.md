@@ -41,7 +41,7 @@ Vilnius
 ### 1 straipsnis. Statuto priedo ratifikavimas ^s-9f221d9cf2a318632acdba0a
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento 2010 m. spalio 19 d. dekretą Nr. 1K-514, ratifikuoja 2009 m. sausio 26 d. Bonoje priimtą Tarptautinės atsinaujinančios energijos agentūros (IRENA) statuto priedą – Tarptautinės atsinaujinančios energijos agentūros Steigiamosios konferencijos deklaraciją dėl autentiškų statuto versijų.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 5 punktu ir atsižvelgdamas į Respublikos Prezidento [2010 m. spalio 19 d. dekretą Nr. 1K-514](https://e-tar.lt/portal/lt/legalAct/TAR.8EFCA7A1663F), ratifikuoja 2009 m. sausio 26 d. Bonoje priimtą Tarptautinės atsinaujinančios energijos agentūros (IRENA) statuto priedą – Tarptautinės atsinaujinančios energijos agentūros Steigiamosios konferencijos deklaraciją dėl autentiškų statuto versijų.
 
 
 

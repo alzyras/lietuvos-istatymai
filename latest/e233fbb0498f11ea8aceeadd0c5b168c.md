@@ -74,7 +74,7 @@ Pakeisti [[#^s-a7a95761eded058e78a369f7|2 straipsnį]] ir jį išdėstyti taip:
 ### 2 straipsnis. 8 straipsnio pakeitimas ^s-a7a95761eded058e78a369f7
 
 
-Pakeisti 8 straipsnio 4 dalies 3 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.1A98CE535B1C#^s-824dc9e7fb0ceef3642e476d|8 straipsnio 4 dalies 3 punktą]] ir jį išdėstyti taip:
 
 
 „3) vertinti ir prognozuoti gamtinės aplinkos pokyčius ir galimas pasekmes, vertinti aplinkos būklės blogėjimo priežastis ir siūlyti valstybės institucijoms pagal  kompetenciją priemones joms pašalinti Bendruosiuose savivaldybių aplinkos monitoringo nuostatuose nustatyta tvarka;“.
@@ -84,7 +84,7 @@ Pakeisti 8 straipsnio 4 dalies 3 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. 9 straipsnio pakeitimas ^s-94d77299e36b19d2c486662f
 
 
-Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.1A98CE535B1C#^s-3ed98f14fef5b867406c60f6|9 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Ūkio subjektų aplinkos monitoringas vykdomas siekiant nustatyti ūkio subjektų taršos šaltinių išmetamų ir (arba) išleidžiamų teršalų kiekį ir ūkinės veiklos poveikį gamtinei aplinkai ir užtikrinti jų sukeliamos taršos ar kito neigiamo poveikio mažinimą. Ūkio subjektų aplinkos monitoringo duomenys yra vieši. Aplinkos ministras, atsižvelgdamas į ūkinės veiklos rūšių ir (ar) atskirų technologinių procesų galimą neigiamą poveikį aplinkai arba grėsmę, kad bus padaryta žala aplinkai, nustato kriterijus, kuriuos atitinkantys ūkio subjektai privalo vykdyti ūkio subjektų aplinkos monitoringą.“
@@ -94,7 +94,7 @@ Pakeisti 9 straipsnio 1 dalį ir ją išdėstyti taip:
 ### 4 straipsnis. 11 straipsnio pakeitimas ^s-38eb7c5e91ba14ae99ecbfbb
 
 
-Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.1A98CE535B1C#^s-eac33bf1d4db10705880ddde|11 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Laboratorijos, atliekančios taršos šaltinių išmetamų į aplinką teršalų ir teršalų aplinkos elementuose (ore, vandenyje, dirvožemyje) matavimus ir tyrimus ir (ar) imančios ėminius laboratoriniams tyrimams atlikti, turi turėti leidimus vykdyti šią veiklą arba būti akredituotos kaip atitinkančios standartą LST EN ISO/IEC 17025 konkretiems teršalams tirti, matuoti, imti ėminius laboratoriniams tyrimams atlikti.“
@@ -104,10 +104,10 @@ Pakeisti 11 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 5 straipsnis. Įstatymo papildymas 111 straipsniu ^s-00ff04fcb6733d46fe982567
 
 
-Papildyti Įstatymą 111 straipsniu:
+Papildyti Įstatymą [[latest/TAR.1A98CE535B1C#^s-263801df53f922f0374e3786|111 straipsniu]]:
 
 
-„111 straipsnis. Leidimai atlikti taršos šaltinių išmetamų ir (arba) išleidžiamų į aplinką teršalų ir teršalų aplinkos elementuose (ore, vandenyje, dirvožemyje) laboratorinius tyrimus ir (ar) matavimus ir (ar) imti ėminius laboratoriniams tyrimams atlikti
+„[[latest/TAR.1A98CE535B1C#^s-263801df53f922f0374e3786|111 straipsnis]]. Leidimai atlikti taršos šaltinių išmetamų ir (arba) išleidžiamų į aplinką teršalų ir teršalų aplinkos elementuose (ore, vandenyje, dirvožemyje) laboratorinius tyrimus ir (ar) matavimus ir (ar) imti ėminius laboratoriniams tyrimams atlikti
 
 
 1. Leidimų atlikti taršos šaltinių išmetamų ir (arba) išleidžiamų į aplinką teršalų ir teršalų aplinkos elementuose (ore, vandenyje, dirvožemyje) laboratorinius tyrimus ir (ar) matavimus ir (ar) imti ėminius laboratoriniams tyrimams atlikti (toliau – Leidimas) išdavimo, Leidimų galiojimo sustabdymo, galiojimo sustabdymo panaikinimo, Leidimų galiojimo panaikinimo taisykles (toliau – Leidimų išdavimo taisyklės) tvirtina aplinkos ministras. Leidimus laboratorijoms išduoda, Leidimus atnaujina, įspėjimus apie numatomą Leidimų galiojimo sustabdymą teikia, Leidimų ir (ar) jų dalies galiojimą sustabdo, galiojimo sustabdymą panaikina, Leidimų ir (ar) jų dalies galiojimą panaikina, Leidimus turinčias laboratorijas kontroliuoja aplinkos ministro įgaliota institucija (toliau – Leidimus išduodanti institucija). ^s-aab7412b76d1bf9e5602614f

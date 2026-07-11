@@ -197,7 +197,7 @@ ASOCIACIJOS VALDYMAS
 3. Asociacijos organui (konferencijai, suvažiavimui, kongresui, asamblėjai ar kt.), turinčiam visas visuotinio narių susirinkimo teises, taikomos šio Įstatymo nuostatos, taikytinos visuotiniam narių susirinkimui. ^s-563fc043fb70ad3051e7e172
 
 
-4. Jeigu sudaromas kitas asociacijos organas (konferencija, suvažiavimas, kongresas, asamblėja ar kt.), kuris turi tik dalį visuotinio narių susirinkimo teisių, tuomet visuotinis narių susirinkimas yra privalomas. Asociacijos organui, turinčiam dalį visuotinio narių susirinkimo teisių, taikomos šio Įstatymo nuostatos, taikytinos visuotiniam narių susirinkimui, išskyrus šio Įstatymo [[#^s-a0f97acda7d508e478271894|8 straipsnio 1 dalies]] 1 ir 6 punktus, kuriuose numatytus sprendimus gali priimti tik visuotinis narių susirinkimas. ^s-1a689b396080fa3ccb77a7f6
+4. Jeigu sudaromas kitas asociacijos organas (konferencija, suvažiavimas, kongresas, asamblėja ar kt.), kuris turi tik dalį visuotinio narių susirinkimo teisių, tuomet visuotinis narių susirinkimas yra privalomas. Asociacijos organui, turinčiam dalį visuotinio narių susirinkimo teisių, taikomos šio Įstatymo nuostatos, taikytinos visuotiniam narių susirinkimui, išskyrus šio Įstatymo [[#^s-a0f97acda7d508e478271894|8 straipsnio 1 dalies]] [[#^s-5be4566defaa890c62c86da9|1]] ir [[#^s-2c33b778d00e7f24b163ab2e|6]] punktus, kuriuose numatytus sprendimus gali priimti tik visuotinis narių susirinkimas. ^s-1a689b396080fa3ccb77a7f6
 
 
 5. Asociacijoje turi būti valdymo organas (vienasmenis ar (ir) kolegialus). ^s-8c68f7e08d6de3d8ee13513e
@@ -237,7 +237,7 @@ Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 
 
-5) per 4 mėnesius nuo finansinių metų pabaigos tvirtina asociacijos metinių finansinių ataskaitų rinkinį arba metinę ataskaitą, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir [[#^s-60d5c33e05cccb1106363f49|7 punktuose]] nustatytais atvejais asociacija likviduojama. Jeigu asociacijos metinių finansinių ataskaitų auditas privalomas pagal Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, tvirtinamas tik audituotas metinių finansinių ataskaitų rinkinys; ^s-e2c4f8162d4fd313d14ac0d6
+5) per 4 mėnesius nuo finansinių metų pabaigos tvirtina asociacijos metinių finansinių ataskaitų rinkinį arba metinę ataskaitą, išskyrus atvejus, kai Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais asociacija likviduojama. Jeigu asociacijos metinių finansinių ataskaitų auditas privalomas pagal Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatymą, tvirtinamas tik audituotas metinių finansinių ataskaitų rinkinys; ^s-e2c4f8162d4fd313d14ac0d6
 Straipsnio punkto pakeitimai:
 Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
 Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
@@ -296,7 +296,7 @@ Nr. XIII-1595, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18209
 
 
 2. Valdymo organas, be Civilinio kodekso 2.82 straipsnyje numatytų funkcijų, priima į darbą ir iš jo atleidžia darbuotojus, sudaro su jais darbo sutartis. Valdymo organas taip pat priima sprendimus dėl filialų ir atstovybių steigimo bei jų veiklos nutraukimo ir tvirtina jų nuostatus, jeigu asociacijos įstatai nenustato kitaip. ^s-b558bcf8084ac18b07d12ddc
-TAR pastaba. [[#^s-b558bcf8084ac18b07d12ddc|9 straipsnio 2 dalies]] nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+TAR pastaba. 9 straipsnio 2 dalies nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
 Straipsnio dalies pakeitimai:
 Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
 Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
@@ -307,21 +307,21 @@ Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
 
 1) finansinės apskaitos organizavimą pagal Lietuvos Respublikos finansinės apskaitos įstatymą; ^s-92a3fb8f4918c455ba99b826
-TAR pastaba. [[#^s-92a3fb8f4918c455ba99b826|9 straipsnio 3 dalies 1 punkto]] nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+TAR pastaba. 9 straipsnio 3 dalies 1 punkto nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
 Straipsnio punkto pakeitimai:
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
 
 
 2) finansines ataskaitas ar metinę ataskaitą rengiančio asmens parinkimą ir (arba) paskyrimą; ^s-3025bc58dd379aace77bf925
-TAR pastaba. [[#^s-3025bc58dd379aace77bf925|9 straipsnio 3 dalies 2 punkto]] nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+TAR pastaba. 9 straipsnio 3 dalies 2 punkto nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
 Papildyta straipsnio punktu:
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
 
 
 3) teisingos, tikslios, išsamios informacijos apie ūkines operacijas ir kitos informacijos, reikalingos finansinėms ataskaitoms ar metinei ataskaitai parengti, teikimą laiku finansines ataskaitas ar metinę ataskaitą rengiančiam asmeniui; ^s-2b60e9d960945c85ce670574
-TAR pastaba. [[#^s-2b60e9d960945c85ce670574|9 straipsnio 3 dalies 3 punkto]] nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+TAR pastaba. 9 straipsnio 3 dalies 3 punkto nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
 Papildyta straipsnio punktu:
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
@@ -429,7 +429,7 @@ Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
 
 3) finansinių ataskaitų aiškinamasis raštas, kuriame detalizuojamos ir paaiškinamos asociacijos finansinės būklės ataskaitoje ir veiklos rezultatų ataskaitoje nurodytos sumos, nurodomas finansines ataskaitas parengęs asmuo ir laikotarpis, už kurį jis parengė finansines ataskaitas, taip pat pateikiama papildoma reikšminga informacija ir kita šiame Įstatyme nurodyta informacija. ^s-cb455371436e8bdb87b5db75
-TAR pastaba. [[#^s-cb455371436e8bdb87b5db75|10 straipsnio 2 dalies 3 punkto]] nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+TAR pastaba. 10 straipsnio 2 dalies 3 punkto nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
 Straipsnio punkto pakeitimai:
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
@@ -456,8 +456,8 @@ Nr. XIII-2627, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20655
 5. Veiklos ataskaitoje gali būti nurodyta ir kita informacija, kurią nusprendžia pateikti asociacijos valdymo organas ar visuotinis narių susirinkimas. ^s-ed657d01b465250d021c65f9
 
 
-6. Asociacijos, kuri, vadovaudamasi [[latest/TAR.43178AA9832E|Finansinės apskaitos įstatymu]], yra pasirinkusi supaprastintą finansinę apskaitą, įstatuose nurodytas valdymo organas vietoj [[#^s-629e016ed2b9272e0b6a559f|šio straipsnio 1 dalyje]] nurodytų ataskaitų gali rengti ir visuotiniam narių susirinkimui pateikti metinę ataskaitą, kurioje turi būti pateikta informacija, nurodyta [[#^s-65c5d6003a4503621ce2f012|šio straipsnio 2 dalies]] 1 ir 2 punktuose ir 3, 4 ir [[#^s-ed657d01b465250d021c65f9|5 dalyse]]. ^s-9d47617e6178935cd34cd3b1
-TAR pastaba. [[#^s-9d47617e6178935cd34cd3b1|10 straipsnio 6 dalies]] nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+6. Asociacijos, kuri, vadovaudamasi [[latest/TAR.43178AA9832E|Finansinės apskaitos įstatymu]], yra pasirinkusi supaprastintą finansinę apskaitą, įstatuose nurodytas valdymo organas vietoj [[#^s-629e016ed2b9272e0b6a559f|šio straipsnio 1 dalyje]] nurodytų ataskaitų gali rengti ir visuotiniam narių susirinkimui pateikti metinę ataskaitą, kurioje turi būti pateikta informacija, nurodyta [[#^s-65c5d6003a4503621ce2f012|šio straipsnio 2 dalies]] 1 ir 2 punktuose ir [[#^s-b0c4626f9d0f2b1f5df798df|3]], [[#^s-2701fcae0eab3dfe24fa2e48|4]] ir [[#^s-ed657d01b465250d021c65f9|5]] dalyse. ^s-9d47617e6178935cd34cd3b1
+TAR pastaba. 10 straipsnio 6 dalies nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
 Straipsnio dalies pakeitimai:
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
@@ -622,7 +622,7 @@ Nr. XIV-2631, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09666
 7. Įstatus pasirašiusių fizinių asmenų parašų tikrumas notaro netvirtinamas. ^s-f74601ca09617febe3e4b4eb
 
 
-8. Jeigu asociacijos steigėjos yra tik valstybė ir savivaldybės ar tik savivaldybės, šio straipsnio 4, 5 ir [[#^s-f74601ca09617febe3e4b4eb|7 dalys]] netaikomos. ^s-3a27472204cfb898c3844eec
+8. Jeigu asociacijos steigėjos yra tik valstybė ir savivaldybės ar tik savivaldybės, šio straipsnio [[#^s-ac4264aca0921331a39f6217|4]], [[#^s-858defad6c5ec1528550675b|5]] ir [[#^s-f74601ca09617febe3e4b4eb|7]] dalys netaikomos. ^s-3a27472204cfb898c3844eec
 Papildyta straipsnio dalimi:
 Nr. XIV-2631, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09666
 
@@ -708,14 +708,14 @@ Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 
 
 2) mokėti asociacijos steigėjui ar nariui išmokas iš perviršio (pelno) dalies ar perduoti likviduojamos asociacijos turto dalį, viršijančią stojamąjį nario įnašą ar mokestį; ^s-c808069ca4f661137bbe3aca
-TAR pastaba. [[#^s-c808069ca4f661137bbe3aca|16 straipsnio 2 dalies 2 punkto]] nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+TAR pastaba. 16 straipsnio 2 dalies 2 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
 Straipsnio punkto pakeitimai:
 Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
 
 
 3) asociacijos turtą ir lėšas, įskaitant perviršį (pelną), jokia forma, išskyrus labdarą ir paramą pagal Labdaros ir paramos įstatymą, skirstyti tos asociacijos ir (ar) jos valdymo organų nariams, asociacijoje darbo sutarties pagrindu dirbantiems asmenims, išskyrus atvejus, kai yra mokamas darbo užmokestis, kitos su darbo teisiniais santykiais susijusios išmokos ir kai autorinės sutarties pagrindu mokamas autorinis atlyginimas, atlyginama už suteiktas paslaugas ar parduotas prekes; ^s-ecd73190d9c978e72ef66eba
-TAR pastaba. [[#^s-ecd73190d9c978e72ef66eba|16 straipsnio 2 dalies 3 punkto]] nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+TAR pastaba. 16 straipsnio 2 dalies 3 punkto nuostatos taikomos rengiant 2019-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
 Straipsnio punkto pakeitimai:
 Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
 
@@ -776,7 +776,7 @@ Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
 2) juridinis asmuo, kuris turi daugiau kaip pusę balsų asociacijos nario – juridinio asmens organe; ^s-96238ac5ddc0e90f60e87a63
 
 
-3) juridinis asmuo, kurio organe daugiau kaip pusę balsų turi asociacijos narys, šios dalies 1 ir [[#^s-96238ac5ddc0e90f60e87a63|2 punktuose]] nurodytas asmuo ar šie asmenys kartu. ^s-9e90d00f99ba43f707d0f46a
+3) juridinis asmuo, kurio organe daugiau kaip pusę balsų turi asociacijos narys, šios dalies [[#^s-7a524ebb43d9f83773feccbf|1]] ir [[#^s-96238ac5ddc0e90f60e87a63|2]] punktuose nurodytas asmuo ar šie asmenys kartu. ^s-9e90d00f99ba43f707d0f46a
 
 
 4. Asociacija pinigus, gautus kaip paramą, taip pat kitus negrąžintinai gautus pinigus ir kitą turtą naudoja juos davusio asmens nurodytiems tikslams, jeigu asmuo tokius tikslus nurodė. Asociacija negali priimti pinigų ar kito turto, jeigu duodantis asmuo nurodo juos naudoti kitiems, negu asociacijos įstatuose yra nustatyta, tikslams. ^s-a4fec37f46d5be31750de2a8
@@ -848,7 +848,7 @@ Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
 
 
 6. Likviduojama asociacija nerengia veiklos ataskaitos. Civilinio kodekso 2.106 straipsnio 2, 3, 4 ir 7 punktuose nustatytais atvejais likviduojamų asociacijų nepatvirtinti finansinių ataskaitų rinkiniai arba metinės ataskaitos Juridinių asmenų registro tvarkytojui pateikiami per 5 mėnesius nuo finansinių metų pabaigos. ^s-f27885a909099b6b43a661b8
-TAR pastaba. [[#^s-f27885a909099b6b43a661b8|17 straipsnio 6 dalies]] nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
+TAR pastaba. 17 straipsnio 6 dalies nuostatos taikomas rengiant 2022-01-01 ir vėliau prasidedančių ataskaitinių laikotarpių metinių finansinių ataskaitų rinkinius, veiklos ataskaitas ir metines ataskaitas.
 Papildyta straipsnio dalimi:
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
 
@@ -874,7 +874,7 @@ BAIGIAMOSIOS NUOSTATOS
 4. Šio Įstatymo [[#^s-254b2b718d73a4c592962b69|16 straipsnio 2 dalies 9 punktas]] netaikomas asociacijoms ar visuomeninėms organizacijoms, įsteigusioms juridinį asmenį, kurio civilinė atsakomybė už juridinio asmens prievoles yra neribota, arba tapusioms jo dalyviu iki šio Įstatymo įsigaliojimo. ^s-07b43e8cd304169d231bbf54
 
 
-5. Asociacijas ir visuomenines organizacijas, taip pat jų duomenų ir dokumentų pakeitimus, dėl kurių registravimo pareiškimai registro tvarkytojui buvo pateikti atitinkamai Asociacijų įstatymo (Žin., 1996, Nr. 32-786) ar Visuomeninių organizacijų įstatymo (Žin., 1995, Nr. 18-400) nustatyta tvarka iki šio Įstatymo įsigaliojimo ir kurių registravimo procedūra nebaigta, registruoja valstybės įmonė Registrų centras pagal iki šio Įstatymo įsigaliojimo galiojusią tvarką. ^s-bc76aedae81deb100c99512a
+5. Asociacijas ir visuomenines organizacijas, taip pat jų duomenų ir dokumentų pakeitimus, dėl kurių registravimo pareiškimai registro tvarkytojui buvo pateikti atitinkamai Asociacijų įstatymo (Žin., 1996, Nr. 32-786) ar [Visuomeninių organizacijų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.D65FBAE9B378) (Žin., 1995, Nr. 18-400) nustatyta tvarka iki šio Įstatymo įsigaliojimo ir kurių registravimo procedūra nebaigta, registruoja valstybės įmonė Registrų centras pagal iki šio Įstatymo įsigaliojimo galiojusią tvarką. ^s-bc76aedae81deb100c99512a
 
 
 
@@ -884,25 +884,25 @@ BAIGIAMOSIOS NUOSTATOS
 Įsigaliojus šiam Įstatymui, netenka galios:
 
 
-1) Lietuvos Respublikos visuomeninių organizacijų įstatymas (Žin., 1995, Nr. 18-400); ^s-274cea4894c5e228584f2d55
+1) [Lietuvos Respublikos visuomeninių organizacijų įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.D65FBAE9B378) (Žin., 1995, Nr. 18-400); ^s-274cea4894c5e228584f2d55
 
 
-2) Lietuvos Respublikos įstatymas „Dėl Lietuvos Respublikos visuomeninių organizacijų įstatymo įgyvendinimo“ (Žin., 1995, Nr. 18-401); ^s-611d8d728e7c599122a726ea
+2) Lietuvos Respublikos įstatymas [„Dėl Lietuvos Respublikos visuomeninių organizacijų įstatymo įgyvendinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.1E440F30A78C) (Žin., 1995, Nr. 18-401); ^s-611d8d728e7c599122a726ea
 
 
 3) Lietuvos Respublikos asociacijų įstatymas (Žin., 1996, Nr. 32-786); ^s-9eec28a543423b36caf47e5b
 
 
-4) Lietuvos Respublikos įstatymo „Dėl Lietuvos Respublikos visuomeninių organizacijų įstatymo įgyvendinimo“ 1 ir [[#^s-3628962bd925996a9f37aaac|3 straipsnių]] pakeitimo įstatymas (Žin., 1996, Nr. 53-1251); ^s-26b021f6bcba53f33ce43313
+4) Lietuvos Respublikos įstatymo [„Dėl Lietuvos Respublikos visuomeninių organizacijų įstatymo įgyvendinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.1E440F30A78C) [[#^s-11829b149bbd37d49bba619e|1]] ir [[#^s-3628962bd925996a9f37aaac|3]] straipsnių pakeitimo įstatymas (Žin., 1996, Nr. 53-1251); ^s-26b021f6bcba53f33ce43313
 
 
-5) Lietuvos Respublikos visuomeninių organizacijų įstatymo [[#^s-b0572bf033374c484e28b28e|17 straipsnio]] pakeitimo įstatymas (Žin., 1997, Nr. 65-1545); ^s-d1942192463c7b1742768a29
+5) [Lietuvos Respublikos visuomeninių organizacijų įstatymo 17 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.116D106F3670) (Žin., 1997, Nr. 65-1545); ^s-d1942192463c7b1742768a29
 
 
-6) Lietuvos Respublikos visuomeninių organizacijų įstatymo pakeitimo įstatymas (Žin., 1998, Nr. 59-1653); ^s-14881571cdd765a51c3dd9dd
+6) [Lietuvos Respublikos visuomeninių organizacijų įstatymo pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.63C4CD3B4766) (Žin., 1998, Nr. 59-1653); ^s-14881571cdd765a51c3dd9dd
 
 
-7) [[#^s-5fb66832fb55783b82967676|Lietuvos Respublikos asociacijų įstatymo 15 straipsnio]] pakeitimo ir papildymo įstatymas (Žin., 2001, Nr. 52-1815). ^s-4f9dc3deda1019b96abdecc6
+7) [Lietuvos Respublikos asociacijų įstatymo 15 straipsnio pakeitimo ir papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.F9264112E169) (Žin., 2001, Nr. 52-1815). ^s-4f9dc3deda1019b96abdecc6
 
 
 
@@ -931,7 +931,7 @@ Nr. XI-1222, 2010-12-14, Žin., 2010, Nr. 153-7790 (2010-12-28), i. k. [[latest/
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1653, 2015-04-23, paskelbta TAR 2015-04-30, i. k. 2015-06557
-Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 8, 9 ir [[#^s-1d3c0db6c0149ee2416d29fa|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 [[#^s-c184d6ac01095dfc3fffe502|8]], [[#^s-730c6c469a292da469f37b77|9]] ir [[#^s-1d3c0db6c0149ee2416d29fa|10]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -941,7 +941,7 @@ Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 [[#^s-1d3c0db6c0149ee2416
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1179, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09070
-Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 8, 9, 10, 16 ir [[#^s-b0572bf033374c484e28b28e|17 straipsnių]] pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
+Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 [[#^s-c184d6ac01095dfc3fffe502|8]], [[#^s-730c6c469a292da469f37b77|9]], [[#^s-1d3c0db6c0149ee2416d29fa|10]], [[#^s-c5556bc154f3e710bbd5b0bb|16]] ir [[#^s-b0572bf033374c484e28b28e|17]] straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -956,22 +956,22 @@ Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 [[#^s-1d3c0db6c0149ee2416
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-684, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25110
-Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 1, 8, 9, 10, 10-1 ir [[#^s-b0572bf033374c484e28b28e|17 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 [[#^s-11829b149bbd37d49bba619e|1]], [[#^s-c184d6ac01095dfc3fffe502|8]], [[#^s-730c6c469a292da469f37b77|9]], [[#^s-1d3c0db6c0149ee2416d29fa|10]], 10-1 ir [[#^s-b0572bf033374c484e28b28e|17]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2102, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-13996
-Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 2, 8, 9, 10, 12, 13, 15 ir [[#^s-c5556bc154f3e710bbd5b0bb|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 [[#^s-f4b379a63223a2425912e72e|2]], [[#^s-c184d6ac01095dfc3fffe502|8]], [[#^s-730c6c469a292da469f37b77|9]], [[#^s-1d3c0db6c0149ee2416d29fa|10]], [[#^s-64dd22dcbbd2c818f55ebc98|12]], [[#^s-c99488c4dad4478aefb4b83f|13]], [[#^s-5fb66832fb55783b82967676|15]] ir [[#^s-c5556bc154f3e710bbd5b0bb|16]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2631, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09666
-Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 6 ir [[#^s-64dd22dcbbd2c818f55ebc98|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 [[#^s-60ad7ff1dbd7d206ade6b7ff|6]] ir [[#^s-64dd22dcbbd2c818f55ebc98|12]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2818, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12141
-Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 1, 8, 9, 10, 10-1 ir [[#^s-b0572bf033374c484e28b28e|17 straipsnių]] pakeitimo ir Įstatymo papildymo 10-2 straipsniu įstatymas
+Lietuvos Respublikos asociacijų įstatymo Nr. IX-1969 [[#^s-11829b149bbd37d49bba619e|1]], [[#^s-c184d6ac01095dfc3fffe502|8]], [[#^s-730c6c469a292da469f37b77|9]], [[#^s-1d3c0db6c0149ee2416d29fa|10]], 10-1 ir [[#^s-b0572bf033374c484e28b28e|17]] straipsnių pakeitimo ir Įstatymo papildymo 10-2 straipsniu įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas

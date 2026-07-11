@@ -9,7 +9,7 @@ pavadinimas: "Dėl Lietuvos Respublikos religinių bendruomenių ir bendrijų į
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.B4DBBD7C388A|Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymas]] - 2 citatos - Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo
+- [[latest/TAR.B4DBBD7C388A|Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymas]] - 6 citatos - Lietuvos Respublikos religinių bendruomenių ir bendrijų įstatymo
 
 ## Šį įstatymą cituoja
 

@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-1c39c56c702af6d8d04adca3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2013 m. balandžio 11 d. dekretą Nr. 1K-1425, ratifikuoja 2002 m. gruodžio 18 d. Jungtinių Tautų Generalinėje Asamblėjoje priimtą Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ar baudimą fakultatyvų protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2013 m. balandžio 11 d. dekretą Nr. 1K-1425](https://e-tar.lt/portal/lt/legalAct/TAR.D7E8FD06ED09), ratifikuoja 2002 m. gruodžio 18 d. Jungtinių Tautų Generalinėje Asamblėjoje priimtą Konvencijos prieš kankinimą ir kitokį žiaurų, nežmonišką ar žeminantį elgesį ar baudimą fakultatyvų protokolą.
 
 
 

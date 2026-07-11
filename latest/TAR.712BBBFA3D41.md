@@ -116,7 +116,7 @@ Nr. XV-757, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23072
 15. Vidutinės trukmės konsoliduotojo biudžeto asignavimai – vidutinės trukmės konsoliduotojo biudžeto lėšų suma, kurią sudaro valstybės biudžeto ir savivaldybių biudžetų asignavimai ir valstybės socialinių fondų biudžetų ir Privalomojo sveikatos draudimo fondo biudžeto išlaidos. ^s-13d51f748f6ca8c9155f9785
 
 
-16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos arba vartojamos 2024 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamente (ES) 2024/1263 dėl veiksmingo ekonominės politikos koordinavimo ir daugiašalės biudžeto priežiūros, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 1466/97, [[latest/cf5b87f06fca11e9a13eeecaacbc653f|Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme]], [[latest/TAR.3A756D83A99B|Lietuvos Respublikos biudžetinių įstaigų įstatyme]], Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, [[latest/TAR.2DD07D41B8F1|Lietuvos Respublikos fiskalinės valdysenos įstatyme]], [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme]], [[latest/TAR.845C6618A647|Lietuvos Respublikos nepaprastosios padėties įstatyme]], [[latest/13ecbb50c1be11ea9815f635b9c0dcef|Lietuvos Respublikos strateginio valdymo įstatyme]], [[latest/TAR.94F6B680E8B8|Lietuvos Respublikos sveikatos draudimo įstatyme]], [[latest/TAR.A9C13A86ED0A|Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatyme]], [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme]], [[latest/TAR.55627FB64864|Lietuvos Respublikos valstybės iždo įstatyme]], [[latest/TAR.5C23DECF6210|Lietuvos Respublikos valstybės skolos įstatyme]], [[latest/TAR.CA0F08EF687E|Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatyme]], [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme]]. ^s-f0b5d29a3274af8c368db4ab
+16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos arba vartojamos 2024 m. balandžio 29 d. Europos Parlamento ir Tarybos [reglamente (ES) 2024/1263](https://eur-lex.europa.eu/eli/reg/2024/1263/oj) dėl veiksmingo ekonominės politikos koordinavimo ir daugiašalės biudžeto priežiūros, kuriuo panaikinamas Tarybos [reglamentas (EB) Nr. 1466/97](https://eur-lex.europa.eu/eli/reg/1466/97/oj), [[latest/cf5b87f06fca11e9a13eeecaacbc653f|Lietuvos Respublikos asmenų perkėlimo į Lietuvos Respubliką įstatyme]], [[latest/TAR.3A756D83A99B|Lietuvos Respublikos biudžetinių įstaigų įstatyme]], Lietuvos Respublikos Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme, [[latest/TAR.2DD07D41B8F1|Lietuvos Respublikos fiskalinės valdysenos įstatyme]], [[latest/TAR.C15592B096FA|Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatyme]], [[latest/TAR.845C6618A647|Lietuvos Respublikos nepaprastosios padėties įstatyme]], [[latest/13ecbb50c1be11ea9815f635b9c0dcef|Lietuvos Respublikos strateginio valdymo įstatyme]], [[latest/TAR.94F6B680E8B8|Lietuvos Respublikos sveikatos draudimo įstatyme]], [[latest/TAR.A9C13A86ED0A|Lietuvos Respublikos tarptautinių operacijų, pratybų ir kitų karinio bendradarbiavimo renginių įstatyme]], [[latest/TAR.D5496D69DF98|Lietuvos Respublikos valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatyme]], [[latest/TAR.55627FB64864|Lietuvos Respublikos valstybės iždo įstatyme]], [[latest/TAR.5C23DECF6210|Lietuvos Respublikos valstybės skolos įstatyme]], [[latest/TAR.CA0F08EF687E|Lietuvos Respublikos valstybės socialinių fondų biudžetų sandaros įstatyme]], [[latest/TAR.E2CE2C82DA9E|Lietuvos Respublikos viešojo sektoriaus atskaitomybės įstatyme]]. ^s-f0b5d29a3274af8c368db4ab
 Straipsnio dalies pakeitimai:
 Nr. XV-757, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23072
 
@@ -265,7 +265,7 @@ Nr. XV-29, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22080
 ### 6 straipsnis. Biudžeto sudarymo ir vykdymo bendrosios nuostatos ^s-bd1bea2096177ea810aed7a1
 
 
-1. Biudžeto sudarymo ir vykdymo teisinis pagrindas yra Lietuvos Respublikos Konstitucija, Fiskalinės sutarties įgyvendinimo konstitucinis įstatymas, šis įstatymas, [[latest/TAR.2DD07D41B8F1|Fiskalinės valdysenos įstatymas]], Lietuvos Respublikos Seimo statutas, [[latest/TAR.F960F4CF3005|Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas]], [[latest/13ecbb50c1be11ea9815f635b9c0dcef|Strateginio valdymo įstatymas]], tam tikrų metų biudžeto patvirtinimo įstatymas, savivaldybių tarybų priimti sprendimai dėl tam tikrų biudžetinių metų savivaldybių biudžetų patvirtinimo, Vyriausybės tvirtinamos biudžetų sudarymo ir vykdymo taisyklės, ekonominė ir funkcinė klasifikacijos ir kiti biudžeto pajamų gavimą ir programų finansavimą reglamentuojantys teisės aktai. ^s-3fb57b9b4c3d388b5d9f05e9
+1. Biudžeto sudarymo ir vykdymo teisinis pagrindas yra [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), [Fiskalinės sutarties įgyvendinimo konstitucinis įstatymas](https://e-tar.lt/portal/lt/legalAct/34cc90406ef211e484b9c12b550436a3), šis įstatymas, [[latest/TAR.2DD07D41B8F1|Fiskalinės valdysenos įstatymas]], Lietuvos Respublikos Seimo statutas, [[latest/TAR.F960F4CF3005|Lietuvos Respublikos savivaldybių biudžetų pajamų nustatymo metodikos įstatymas]], [[latest/13ecbb50c1be11ea9815f635b9c0dcef|Strateginio valdymo įstatymas]], tam tikrų metų biudžeto patvirtinimo įstatymas, savivaldybių tarybų priimti sprendimai dėl tam tikrų biudžetinių metų savivaldybių biudžetų patvirtinimo, Vyriausybės tvirtinamos biudžetų sudarymo ir vykdymo taisyklės, ekonominė ir funkcinė klasifikacijos ir kiti biudžeto pajamų gavimą ir programų finansavimą reglamentuojantys teisės aktai. ^s-3fb57b9b4c3d388b5d9f05e9
 Straipsnio dalies pakeitimai:
 Nr. XV-757, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23072
 
@@ -519,7 +519,7 @@ Nr. XV-757, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23072
 
 
 4. Nepaskirstyta agreguoto asignavimų limito dalis pirmaisiais biudžetiniais metais sudaro ne mažiau kaip 0,5 procento ir ne daugiau kaip 1 procentą tais metais nustatyto agreguoto asignavimų limito ir naudojama šio įstatymo [[#^s-9204b7df67db23448e665a99|28 straipsnio 1 dalyje]] nustatytų atvejų poveikiui amortizuoti, antraisiais biudžetiniais metais sudaro ne mažiau kaip 2 procentus, o trečiaisiais biudžetiniais metais – ne mažiau kaip 3 procentus tais metais nustatytų agreguotų asignavimų limitų. Rengiant tam tikrų metų biudžeto patvirtinimo įstatymo projektą ir peržiūrint ankstesnių metų biudžeto patvirtinimo įstatymu nustatytų antrųjų ir trečiųjų biudžetinių metų konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytas agreguotų asignavimų limitų dalis, nepaskirstyta agreguoto asignavimų limito dalis gali būti paskirstoma konsoliduotąjį biudžetą sudarantiems biudžetams [[#^s-c3f705fe3a51c24014e7a66e|šio straipsnio 6 dalyje]] nustatytais atvejais. Kai tam tikrais metais kyla rizika dėl fiskalinės drausmės taisyklių nesilaikymo, tais metais nepaskirstyta agreguoto asignavimų limito dalis gali būti nenaudojama. ^s-432478c11764a37e3d044d07
-TAR pastaba. [[#^s-432478c11764a37e3d044d07|18 straipsnio 4 dalies]] redakcija taikoma rengiant Lietuvos Respublikos 2026–2028 ir vėlesnių metų biudžeto patvirtinimo įstatymų projektus.
+TAR pastaba. 18 straipsnio 4 dalies redakcija taikoma rengiant Lietuvos Respublikos 2026–2028 ir vėlesnių metų biudžeto patvirtinimo įstatymų projektus.
 
 
 5. Rengiant tam tikrų metų biudžeto patvirtinimo įstatymo projektą, ankstesnių metų biudžeto patvirtinimo įstatyme nustatyti antrųjų ir trečiųjų metų agreguoti asignavimų limitai ir konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguotų asignavimų limitų dalys gali būti tikslinami, jeigu neviršijamos grynųjų išlaidų augimo ribos, šiais atvejais: ^s-47536c1c077f8342f59907c1
@@ -662,7 +662,7 @@ b) antrųjų ir trečiųjų biudžetinių metų valstybės biudžeto pajamas;
 c) pajamų ir išlaidų diskrecines priemones, nurodydama šių priemonių poveikio biudžeto pajamoms ir išlaidoms kiekybinį įvertinimą;
 
 
-d) vidutiniu laikotarpiu planuojamą metinį grynųjų išlaidų pokytį ir jo palyginimą su metinėje pažangos ataskaitoje, rengiamoje pagal Reglamentą (ES) 2024/1263, (toliau – metinė pažangos ataskaita) pateiktomis atitinkamų metų grynųjų išlaidų augimo ribomis;
+d) vidutiniu laikotarpiu planuojamą metinį grynųjų išlaidų pokytį ir jo palyginimą su metinėje pažangos ataskaitoje, rengiamoje pagal [Reglamentą (ES) 2024/1263](https://eur-lex.europa.eu/eli/reg/2024/1263/oj), (toliau – metinė pažangos ataskaita) pateiktomis atitinkamų metų grynųjų išlaidų augimo ribomis;
 
 
 e) bet kokio nuokrypio nuo grynųjų išlaidų augimo ribų priežastis, jeigu iš Seimo tvirtinamų biudžetų projektų visumos matyti, kad planuojamas grynųjų išlaidų augimas bus didesnis negu metinėje pažangos ataskaitoje pateiktos grynųjų išlaidų augimo ribos;
@@ -710,7 +710,7 @@ p) tai, kaip atsižvelgiama į ilgalaikio viešųjų finansų tvarumo vertinimo 
 4) informaciją apie planuojamą Vyriausybės skolinimosi valstybės vardu vidaus ir užsienio rinkose poreikį, valdžios sektoriaus skolos projekciją, išskirdama subjektų, kurie priskiriami valdžios sektoriui, tačiau kurių biudžetai nėra vidutinės trukmės konsoliduotojo biudžeto dalis, skolinimosi įsipareigojimų poveikį valdžios sektoriaus skolos dydžiui; ^s-b03a04b9942f86a2581cbf5b
 
 
-5) išaiškinimą (apimtis ir priežastis) apie ankstesniais biudžetiniais metais nustatyto agreguoto asignavimų limito ir konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguoto asignavimų limito dalies pokyčius bei nepaskirstytos agreguoto asignavimų limito dalies paskirstymą konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguoto asignavimų limito dalies pokyčiams finansuoti šio įstatymo [[#^s-4b53fbf95f25fe352bbabb4d|18 straipsnio]] 4, 5 ir 6 dalyse nustatytais atvejais; ^s-c928290a42783d191a592c79
+5) išaiškinimą (apimtis ir priežastis) apie ankstesniais biudžetiniais metais nustatyto agreguoto asignavimų limito ir konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguoto asignavimų limito dalies pokyčius bei nepaskirstytos agreguoto asignavimų limito dalies paskirstymą konsoliduotąjį biudžetą sudarantiems biudžetams paskirstytos agreguoto asignavimų limito dalies pokyčiams finansuoti šio įstatymo [[#^s-4b53fbf95f25fe352bbabb4d|18 straipsnio]] [[#^s-432478c11764a37e3d044d07|4]], [[#^s-47536c1c077f8342f59907c1|5]] ir [[#^s-c3f705fe3a51c24014e7a66e|6]] dalyse nustatytais atvejais; ^s-c928290a42783d191a592c79
 
 
 6) informaciją, parengtą pagal 2013 m. gegužės 21 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 473/2013 dėl euro zonos valstybių narių biudžeto planų projektų stebėsenos bei vertinimo ir perviršinio deficito padėties ištaisymo užtikrinimo bendrųjų nuostatų nurodytus ir Europos Komisijos viešai paskelbtus dokumentus, kuriuose aiškinamas šio reglamento taikymas. ^s-ac240f89660eb4e84163a53b
@@ -835,7 +835,7 @@ Nr. XV-757, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23072
 2) savivaldybės biudžeto lėšas pervesdami į savivaldybės iždo sąskaitą. ^s-21f6b0f61f6e2055e9572043
 
 
-5. [[#^s-b0f3533a960e2f82a2d35ae0|Šio straipsnio 4 dalis]] netaikoma šio įstatymo [[#^s-9204b7df67db23448e665a99|28 straipsnio 1 dalyje]] nurodytiems nepanaudotiems valstybės biudžeto asignavimams, skirtiems programoms finansuoti, politinėms partijoms paskirstytiems valstybės biudžeto asignavimams, Lietuvos Respublikos nacionalinių plėtros įstaigų įstatyme apibrėžtoms skatinamosioms finansinėms priemonėms, kai fondų fondas nesteigiamas, įgyvendinti ir (arba) fondų fondams valdyti pagal finansavimo sutartis, kurių šalys yra asignavimų valdytojai, skatinamųjų finansinių priemonių ir (arba) fondų fondų valdytojai ir (arba) Finansų ministerija. ^s-17fd94529fd88ca994aaafc6
+5. [[#^s-b0f3533a960e2f82a2d35ae0|Šio straipsnio 4 dalis]] netaikoma šio įstatymo [[#^s-9204b7df67db23448e665a99|28 straipsnio 1 dalyje]] nurodytiems nepanaudotiems valstybės biudžeto asignavimams, skirtiems programoms finansuoti, politinėms partijoms paskirstytiems valstybės biudžeto asignavimams, [Lietuvos Respublikos nacionalinių plėtros įstaigų įstatyme](https://e-tar.lt/portal/lt/legalAct/63fc0b406f9611e8ae2bfd1913d66d57) apibrėžtoms skatinamosioms finansinėms priemonėms, kai fondų fondas nesteigiamas, įgyvendinti ir (arba) fondų fondams valdyti pagal finansavimo sutartis, kurių šalys yra asignavimų valdytojai, skatinamųjų finansinių priemonių ir (arba) fondų fondų valdytojai ir (arba) Finansų ministerija. ^s-17fd94529fd88ca994aaafc6
 
 
 6. Metų pabaigoje likusios nepanaudotos valstybės biudžeto dotacijos, nustatytos savivaldybių biudžetams tam tikrų metų biudžeto patvirtinimo įstatyme, išskyrus nepanaudotą Europos Sąjungos ir kitos tarptautinės finansinės paramos ir bendrojo finansavimo lėšų dalį, lėšos, kurios per metus buvo paskirtos savivaldybių biudžetams pagal atskirus įstatymus ar Vyriausybės nutarimus arba panaudotos ne pagal savo paskirtį, iki sausio 10 dienos grąžinamos į valstybės biudžetą – pervedamos iš savivaldybių biudžetų sąskaitų į valstybės iždo pagrindinę sąskaitą, jeigu tam tikrų metų biudžeto patvirtinimo įstatyme nenustatyta kitaip. ^s-b1b62acc9923cdaff6d27012
@@ -888,7 +888,7 @@ Nr. XV-757, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23072
 3) grąžintinai naudoti laisvus valstybės pinigų fondų ir kitus piniginius išteklius valstybės biudžete numatytoms programoms finansuoti, valstybės skolai valdyti, investuoti į valstybės vertybinius popierius, paskoloms savivaldybių laikinam pajamų trūkumui padengti; ^s-77404ea8e7465eaf9107327f
 
 
-4) prireikus nustatyti palūkanų normą už trumpalaikes ir ilgalaikes paskolas, numatytas šio įstatymo [[#^s-53c3a6f5f1ce3649c3bdf0a9|17 straipsnio]] 2 ir 3 dalyse, teikiamas savivaldybėms iš valstybės biudžeto. ^s-2ec69151018a430b16775398
+4) prireikus nustatyti palūkanų normą už trumpalaikes ir ilgalaikes paskolas, numatytas šio įstatymo [[#^s-53c3a6f5f1ce3649c3bdf0a9|17 straipsnio]] [[#^s-3d29d2ef6c6fdfd004222358|2]] ir [[#^s-b48dee4985f7b1aaf4bdf134|3]] dalyse, teikiamas savivaldybėms iš valstybės biudžeto. ^s-2ec69151018a430b16775398
 
 
 2. Vyriausybei arba jos įgaliotai institucijai tam tikrų metų biudžeto patvirtinimo įstatymu gali būti suteikiamos papildomos teisės. ^s-3b6c597f2b303fac24cc31fe
@@ -963,7 +963,7 @@ priedas
 
 
 
-2011 m. lapkričio 8 d. Tarybos direktyva 2011/85/ES dėl reikalavimų valstybių narių biudžeto sistemoms su pakeitimais, padarytais 2024 m. balandžio 29 d. Tarybos direktyva (ES) 2024/1265.
+2011 m. lapkričio 8 d. Tarybos direktyva 2011/85/ES dėl reikalavimų valstybių narių biudžeto sistemoms su pakeitimais, padarytais 2024 m. balandžio 29 d. Tarybos [direktyva (ES) 2024/1265](https://eur-lex.europa.eu/eli/dir/2024/1265/oj).
 
 
 __________________
@@ -1006,12 +1006,12 @@ DĖL LIETUVOS RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO PAKEITIMO IR PAPILDYM
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1080, 1995.10.31, Žin., 1995, Nr. 92-2056 (1995.11.10)
-DĖL KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ, SUSIJUSIŲ SU LIETUVOS RESPUBLIKOS ĮSTATYMU "DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS", PAKEITIMO IR PAPILDYMO
+DĖL KAI KURIŲ LIETUVOS RESPUBLIKOS ĮSTATYMŲ IR KITŲ TEISĖS AKTŲ, SUSIJUSIŲ SU LIETUVOS RESPUBLIKOS ĮSTATYMU ["DĖL VAŽIAVIMO KELEIVINIU TRANSPORTU LENGVATŲ IR KAI KURIŲ KATEGORIJŲ PAREIGŪNŲ, TARNAUTOJŲ BEI KITŲ ASMENŲ VAŽIAVIMO KELEIVINIU TRANSPORTU IŠLAIDŲ KOMPENSAVIMO TVARKOS"](https://e-tar.lt/portal/lt/legalAct/TAR.C640C19DFD44), PAKEITIMO IR PAPILDYMO
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. I-1333, 1996.05.14, Žin., 1996, Nr. 48-1141 (1996.05.22)
-[[#^s-80ae3cfe0899eacfa9a321e8|LIETUVOS RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO 1 IR 2 STRAIPSNIŲ]] PAPILDYMO IR 21-1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
+LIETUVOS RESPUBLIKOS BIUDŽETINĖS SANDAROS ĮSTATYMO [[#^s-90aba5a6f746ad6db5e8b7b6|1]] IR [[#^s-80ae3cfe0899eacfa9a321e8|2]] STRAIPSNIŲ PAPILDYMO IR 21-1 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1142,9 +1142,9 @@ Nr. XI-446, 2009-10-22, Žin., 2009, Nr. 134-5831 (2009-11-10)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-1209, 2010-12-09, Žin., 2010, Nr. 153-7781 (2010-12-28)
 [[latest/TAR.770B55F0D900|BIUDŽETO SANDAROS ĮSTATYMO 2, 3, 4, 5, 6, 7, 8, 10, 14, 15, 16, 17, 18, 21, 24, 28, 30, 31, 32, 33, 35, 36, 37 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-a81b1bbd2a3b59baffbedee7|3 straipsnio]] 1, 3 ir 4 dalis ir [[#^s-ea513d09ebe64ab280bf5863|16 straipsnį]], įsigalioja 2011 m. sausio 1 d.
-Šio įstatymo [[#^s-a81b1bbd2a3b59baffbedee7|3 straipsnio]] 1, 3 ir 4 dalys ir [[#^s-ea513d09ebe64ab280bf5863|16 straipsnis]] įsigalioja 2012 m. sausio 1 d.
-Rengiant [[latest/TAR.B75745DE003E#^s-ad9b8169d25e78ca833bb3eb|2012 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą, atsižvelgiama į šio įstatymo 3 straipsnio]] 1, 3 ir 4 dalių nuostatas.
+Šis įstatymas, išskyrus [[#^s-a81b1bbd2a3b59baffbedee7|3 straipsnio]] [[#^s-b4b6776e7f7b4583e16a738e|1]], 3 ir 4 dalis ir [[#^s-ea513d09ebe64ab280bf5863|16 straipsnį]], įsigalioja 2011 m. sausio 1 d.
+Šio įstatymo [[#^s-a81b1bbd2a3b59baffbedee7|3 straipsnio]] [[#^s-b4b6776e7f7b4583e16a738e|1]], 3 ir 4 dalys ir [[#^s-ea513d09ebe64ab280bf5863|16 straipsnis]] įsigalioja 2012 m. sausio 1 d.
+Rengiant [[latest/TAR.B75745DE003E#^s-ad9b8169d25e78ca833bb3eb|2012 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymo projektą, atsižvelgiama į šio įstatymo 3 straipsnio]] [[latest/TAR.B75745DE003E#^s-81e17b8ad88b12f8dfab601c|1]], [[latest/TAR.B75745DE003E#^s-2155e3921bd3b71b4b629e32|3]] ir [[latest/TAR.B75745DE003E#^s-4fee31183e9f375a281c3d08|4]] dalių nuostatas.
 Pakeitimas:
 29.1.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1192,12 +1192,12 @@ Nr. XII-477, 2013-07-02, Žin., 2013, Nr. 79-3998 (2013-07-23)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-604, 2013-11-19, Žin., 2013, Nr. 124-6283 (2013-12-05)
 [[latest/TAR.3CEA88BE9AFE|BIUDŽETO SANDAROS ĮSTATYMO 28 STRAIPSNIO PAKEITIMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-01e0389549414ba0e1d70457|šio straipsnio 2 dalį]], įsigalioja 2015 m. liepos 1 d.
+Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 m. liepos 1 d.
 Įstatymo įsigaliojimas keistas:
 36.1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1513, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21279
-[[#^s-5c1ac968b84d2803e2f39830|Lietuvos Respublikos biudžeto sandaros įstatymo [[#^s-5c1ac968b84d2803e2f39830\|28 straipsnio]]]] pakeitimo [[latest/TAR.3CEA88BE9AFE|įstatymo Nr. XII-604]] [[#^s-80ae3cfe0899eacfa9a321e8|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo [[#^s-5c1ac968b84d2803e2f39830|28 straipsnio]] pakeitimo [[latest/TAR.3CEA88BE9AFE|įstatymo Nr. XII-604]] [[#^s-80ae3cfe0899eacfa9a321e8|2 straipsnio]] pakeitimo įstatymas
 
 37.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1209,13 +1209,13 @@ BIUDŽETO SANDAROS ĮSTATYMO 4 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-616, 2013-11-26, Žin., 2013, Nr. 128-6515 (2013-12-14)
 BIUDŽETO SANDAROS ĮSTATYMO 32 STRAIPSNIO PAKEITIMO ĮSTATYMAS
-Šis įstatymas, išskyrus [[#^s-01e0389549414ba0e1d70457|šio straipsnio 2 dalį]], įsigalioja 2014 m. sausio 1 d.
+Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2014 m. sausio 1 d.
 Per 2013 m. politinėms partijoms paskirstyti ir nepanaudoti valstybės biudžeto asignavimai lieka politinės partijos valstybės biudžeto asignavimų sąskaitoje.
 
 39.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-796, 2014-03-20, paskelbta TAR, 2014-04-03, i. k. 2014-04028
-LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO NR. I-430 13, 15 IR [[#^s-11d9b2c3b35f3958c8d50286|22 STRAIPSNIŲ]] PAKEITIMO
+LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO NR. I-430 [[#^s-351fb95f9e6584b23486a2b6|13]], [[#^s-bac08161786a6791695156b3|15]] IR [[#^s-11d9b2c3b35f3958c8d50286|22]] STRAIPSNIŲ PAKEITIMO
 Šis įstatymas, išskyrus [[#^s-80ae3cfe0899eacfa9a321e8|2 straipsnį]], įsigalioja 2014 m. liepos 1 d.
 
 
@@ -1224,7 +1224,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2002-07-11, Žin., 2002, Nr. 72-3080 (2002-07-17)
-DĖL [[latest/TAR.E2B2957B9182#^s-cb108fe533fd54770e42387f|LIETUVOS RESPUBLIKOS SVEIKATOS SISTEMOS ĮSTATYMO 39 STRAIPSNIO]], LIETUVOS RESPUBLIKOS MOKSLO IR ŠVIETIMO ILGALAIKIO FINANSAVIMO ĮSTATYMO 1, 2 IR [[#^s-a81b1bbd2a3b59baffbedee7|3 STRAIPSNIŲ]], [[#^s-908f573a54a8a631595597bd|LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO 18 STRAIPSNIO 2 DALIES]] IR LIETUVOS RESPUBLIKOS SEIMO STATUTO 172 STRAIPSNIO 1 DALIES ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS SVEIKATOS SISTEMOS ĮSTATYMO 39 STRAIPSNIO, LIETUVOS RESPUBLIKOS MOKSLO IR ŠVIETIMO ILGALAIKIO FINANSAVIMO ĮSTATYMO 1, 2 IR 3 STRAIPSNIŲ, LIETUVOS RESPUBLIKOS BIUDŽETO SANDAROS ĮSTATYMO 18 STRAIPSNIO 2 DALIES IR LIETUVOS RESPUBLIKOS SEIMO STATUTO 172 STRAIPSNIO 1 DALIES ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.DCDB0A306DC1)
 
 
 
@@ -1239,12 +1239,12 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-673373647a7f57
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1379, 2014-12-04, paskelbta TAR 2014-12-15, i. k. 2014-19663
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3 ir [[#^s-27a82d37cbd68e9997631827|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-a81b1bbd2a3b59baffbedee7|3]] ir [[#^s-27a82d37cbd68e9997631827|14]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1513, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21279
-[[#^s-5c1ac968b84d2803e2f39830|Lietuvos Respublikos biudžeto sandaros įstatymo [[#^s-5c1ac968b84d2803e2f39830\|28 straipsnio]]]] pakeitimo [[latest/TAR.3CEA88BE9AFE|įstatymo Nr. XII-604]] [[#^s-80ae3cfe0899eacfa9a321e8|2 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo [[#^s-5c1ac968b84d2803e2f39830|28 straipsnio]] pakeitimo [[latest/TAR.3CEA88BE9AFE|įstatymo Nr. XII-604]] [[#^s-80ae3cfe0899eacfa9a321e8|2 straipsnio]] pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1254,7 +1254,7 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-bb01695eaf6c67
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2143, 2015-12-08, paskelbta TAR 2015-12-10, i. k. 2015-19627
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 14, 18, 19, 21, 28, 32, 35, 38 ir 39 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-27a82d37cbd68e9997631827|14]], [[#^s-4b53fbf95f25fe352bbabb4d|18]], [[#^s-badaf0e7f65d6ca505c7ac2d|19]], [[#^s-349e9f0944060a343c876eb6|21]], [[#^s-5c1ac968b84d2803e2f39830|28]], [[#^s-673373647a7f57dbf0f2f530|32]], 35, 38 ir 39 straipsnių pakeitimo įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1264,42 +1264,42 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-918c74ea01a76e
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2024, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18615
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3, 13, 22 ir [[#^s-47efa35b5f023ff49ef38170|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-a81b1bbd2a3b59baffbedee7|3]], [[#^s-351fb95f9e6584b23486a2b6|13]], [[#^s-11d9b2c3b35f3958c8d50286|22]] ir [[#^s-47efa35b5f023ff49ef38170|26]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2284, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06436
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 14, 18, 19, 21, 28, 32, 35, 38 ir 39 straipsnių pakeitimo [[latest/0a8ebbe09f4e11e58fd1fc0b9bba68a7|įstatymo Nr. XII-2143]] [[#^s-aae3dc6aa8e54664da8bdd5a|10 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-27a82d37cbd68e9997631827|14]], [[#^s-4b53fbf95f25fe352bbabb4d|18]], [[#^s-badaf0e7f65d6ca505c7ac2d|19]], [[#^s-349e9f0944060a343c876eb6|21]], [[#^s-5c1ac968b84d2803e2f39830|28]], [[#^s-673373647a7f57dbf0f2f530|32]], 35, 38 ir 39 straipsnių pakeitimo [[latest/0a8ebbe09f4e11e58fd1fc0b9bba68a7|įstatymo Nr. XII-2143]] [[#^s-aae3dc6aa8e54664da8bdd5a|10 straipsnio]] pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2313, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10424
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 17, 19, 21 ir 37 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-53c3a6f5f1ce3649c3bdf0a9|17]], [[#^s-badaf0e7f65d6ca505c7ac2d|19]], [[#^s-349e9f0944060a343c876eb6|21]] ir 37 straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2314, 2016-04-14, paskelbta TAR 2016-04-26, i. k. 2016-10425
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 14, 18, 19, 21, 28, 32, 35, 38 ir 39 straipsnių pakeitimo [[latest/0a8ebbe09f4e11e58fd1fc0b9bba68a7|įstatymo Nr. XII-2143]] [[#^s-b8b2a8c9c2355b322885d7d5|4 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-27a82d37cbd68e9997631827|14]], [[#^s-4b53fbf95f25fe352bbabb4d|18]], [[#^s-badaf0e7f65d6ca505c7ac2d|19]], [[#^s-349e9f0944060a343c876eb6|21]], [[#^s-5c1ac968b84d2803e2f39830|28]], [[#^s-673373647a7f57dbf0f2f530|32]], 35, 38 ir 39 straipsnių pakeitimo [[latest/0a8ebbe09f4e11e58fd1fc0b9bba68a7|įstatymo Nr. XII-2143]] [[#^s-b8b2a8c9c2355b322885d7d5|4 straipsnio]] pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-85, 2016-12-13, paskelbta TAR 2016-12-23, i. k. 2016-29273
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2 ir [[#^s-a81b1bbd2a3b59baffbedee7|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-80ae3cfe0899eacfa9a321e8|2]] ir [[#^s-a81b1bbd2a3b59baffbedee7|3]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-809, 2017-12-05, paskelbta TAR 2017-12-13, i. k. 2017-20003
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 4, 6, 10, 14, 15, 18, 32, 33 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-b8b2a8c9c2355b322885d7d5|4]], [[#^s-bd1bea2096177ea810aed7a1|6]], [[#^s-aae3dc6aa8e54664da8bdd5a|10]], [[#^s-27a82d37cbd68e9997631827|14]], [[#^s-bac08161786a6791695156b3|15]], [[#^s-4b53fbf95f25fe352bbabb4d|18]], [[#^s-673373647a7f57dbf0f2f530|32]], 33 straipsnių pakeitimo ir Įstatymo papildymo 10-1 straipsniu įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1328, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11182
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 5, 17, 19, 37, 38 ir 39 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-ba8c11da7a813082562ac44f|5]], [[#^s-53c3a6f5f1ce3649c3bdf0a9|17]], [[#^s-badaf0e7f65d6ca505c7ac2d|19]], 37, 38 ir 39 straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1182, 2018-05-24, paskelbta TAR 2018-06-01, i. k. 2018-09073
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 5 ir [[#^s-14067964cfe08ca90ac4dc86|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-ba8c11da7a813082562ac44f|5]] ir [[#^s-14067964cfe08ca90ac4dc86|7]] straipsnių pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1314,7 +1314,7 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-bac08161786a67
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2259, 2019-06-27, paskelbta TAR 2019-07-03, i. k. 2019-10929
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2 ir [[#^s-bac08161786a6791695156b3|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-80ae3cfe0899eacfa9a321e8|2]] ir [[#^s-bac08161786a6791695156b3|15]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1324,7 +1324,7 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-b8b2a8c9c2355b
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3109, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15319
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 5, 8, 17, 18, [[#^s-673373647a7f57dbf0f2f530|32 straipsnių]] pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-80ae3cfe0899eacfa9a321e8|2]], [[#^s-ba8c11da7a813082562ac44f|5]], [[#^s-9a69373e015ba29374828338|8]], [[#^s-53c3a6f5f1ce3649c3bdf0a9|17]], [[#^s-4b53fbf95f25fe352bbabb4d|18]], [[#^s-673373647a7f57dbf0f2f530|32]] straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1349,42 +1349,42 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 37 straipsnio pakeit
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-600, 2021-11-04, paskelbta TAR 2021-11-12, i. k. 2021-23521
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 5, 6, 10, 14, 18, 19, 20, 26, 27, 30, 31, 32, 33, 34 straipsnių pakeitimo ir [[#^s-14067964cfe08ca90ac4dc86|7 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-80ae3cfe0899eacfa9a321e8|2]], [[#^s-ba8c11da7a813082562ac44f|5]], [[#^s-bd1bea2096177ea810aed7a1|6]], [[#^s-aae3dc6aa8e54664da8bdd5a|10]], [[#^s-27a82d37cbd68e9997631827|14]], [[#^s-4b53fbf95f25fe352bbabb4d|18]], [[#^s-badaf0e7f65d6ca505c7ac2d|19]], [[#^s-bb01695eaf6c6763b232925a|20]], [[#^s-47efa35b5f023ff49ef38170|26]], [[#^s-3584423590e4acd54c361ab0|27]], [[#^s-c08d52a30c9a1e6555d8e792|30]], [[#^s-f10dca007616549674a01d71|31]], [[#^s-673373647a7f57dbf0f2f530|32]], 33, 34 straipsnių pakeitimo ir [[#^s-14067964cfe08ca90ac4dc86|7 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3309, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21246
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3, 35 ir 38 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-a81b1bbd2a3b59baffbedee7|3]], 35 ir 38 straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1099, 2022-05-17, paskelbta TAR 2022-05-23, i. k. 2022-10749
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 15 ir [[#^s-918c74ea01a76e458df0bd59|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-bac08161786a6791695156b3|15]] ir [[#^s-918c74ea01a76e458df0bd59|25]] straipsnių pakeitimo įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-842, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27740
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 3, 35 ir 38 straipsnių pakeitimo [[latest/103e79d00d4011ebb74de75171d26d52|įstatymo Nr. XIII-3309]] [[#^s-b8b2a8c9c2355b322885d7d5|4 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-a81b1bbd2a3b59baffbedee7|3]], 35 ir 38 straipsnių pakeitimo [[latest/103e79d00d4011ebb74de75171d26d52|įstatymo Nr. XIII-3309]] [[#^s-b8b2a8c9c2355b322885d7d5|4 straipsnio]] pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1761, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27576
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 10, 17, 18, 21 ir [[#^s-47efa35b5f023ff49ef38170|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-aae3dc6aa8e54664da8bdd5a|10]], [[#^s-53c3a6f5f1ce3649c3bdf0a9|17]], [[#^s-4b53fbf95f25fe352bbabb4d|18]], [[#^s-349e9f0944060a343c876eb6|21]] ir [[#^s-47efa35b5f023ff49ef38170|26]] straipsnių pakeitimo įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1271, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15618
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 11, 25, 26, 27, 31 ir 34 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-e6c56c59d9cdaa8bce55f829|11]], [[#^s-918c74ea01a76e458df0bd59|25]], [[#^s-47efa35b5f023ff49ef38170|26]], [[#^s-3584423590e4acd54c361ab0|27]], [[#^s-f10dca007616549674a01d71|31]] ir 34 straipsnių pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1764, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27579
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 11, 25, 26, 27, 31 ir 34 straipsnių pakeitimo [[latest/60773af0041e11edb32c9f9d8ba206f8|įstatymo Nr. XIV-1271]] [[#^s-a81b1bbd2a3b59baffbedee7|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-e6c56c59d9cdaa8bce55f829|11]], [[#^s-918c74ea01a76e458df0bd59|25]], [[#^s-47efa35b5f023ff49ef38170|26]], [[#^s-3584423590e4acd54c361ab0|27]], [[#^s-f10dca007616549674a01d71|31]] ir 34 straipsnių pakeitimo [[latest/60773af0041e11edb32c9f9d8ba206f8|įstatymo Nr. XIV-1271]] [[#^s-a81b1bbd2a3b59baffbedee7|3 straipsnio]] pakeitimo įstatymas
 
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2245, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22975
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 4, 5, 6, 18, 19, 21, 26, 39 straipsnių pakeitimo ir 10-1 straipsnio pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-b8b2a8c9c2355b322885d7d5|4]], [[#^s-ba8c11da7a813082562ac44f|5]], [[#^s-bd1bea2096177ea810aed7a1|6]], [[#^s-4b53fbf95f25fe352bbabb4d|18]], [[#^s-badaf0e7f65d6ca505c7ac2d|19]], [[#^s-349e9f0944060a343c876eb6|21]], [[#^s-47efa35b5f023ff49ef38170|26]], 39 straipsnių pakeitimo ir 10-1 straipsnio pripažinimo netekusiu galios įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1399,9 +1399,9 @@ Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-e6c56c59d9cdaa
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-29, 2024-12-05, paskelbta TAR 2024-12-12, i. k. 2024-22080
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 1, 4, 5 ir [[#^s-e6c56c59d9cdaa8bce55f829|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-90aba5a6f746ad6db5e8b7b6|1]], [[#^s-b8b2a8c9c2355b322885d7d5|4]], [[#^s-ba8c11da7a813082562ac44f|5]] ir [[#^s-e6c56c59d9cdaa8bce55f829|11]] straipsnių pakeitimo įstatymas
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-757, 2025-12-23, paskelbta TAR 2025-12-30, i. k. 2025-23072
-Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 2, 6, 15, 18, 19, 20, 21, [[#^s-3584423590e4acd54c361ab0|27 straipsnių]], VII skyriaus, priedo pakeitimo ir VIII skyriaus pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos biudžeto sandaros įstatymo Nr. I-430 [[#^s-80ae3cfe0899eacfa9a321e8|2]], [[#^s-bd1bea2096177ea810aed7a1|6]], [[#^s-bac08161786a6791695156b3|15]], [[#^s-4b53fbf95f25fe352bbabb4d|18]], [[#^s-badaf0e7f65d6ca505c7ac2d|19]], [[#^s-bb01695eaf6c6763b232925a|20]], [[#^s-349e9f0944060a343c876eb6|21]], [[#^s-3584423590e4acd54c361ab0|27]] straipsnių, VII skyriaus, priedo pakeitimo ir VIII skyriaus pripažinimo netekusiu galios įstatymas

@@ -1166,7 +1166,7 @@ VALSTYBĖS TARNAUTOJŲ SUVIENODINTŲ PAREIGYBIŲ SĄRAŠAS
 ### 8 straipsnis. Įstatymo įsigaliojimas ^s-4c604d50f5ef2cf1397ebfec
 
 
-1. Šis įstatymas, išskyrus [[#^s-fe068e655247a78056fe59f0|2 straipsnio]] 5 ir 10 dalis, [[#^s-87b93b21a6f6b1061d86223b|7 straipsnį]], 2009 metų valstybės tarnautojų suvienodintų pareigybių sąrašą ir nuo 2010 metų valstybės tarnautojų suvienodintų pareigybių sąrašą, įsigalioja 2008 m. gegužės 1 d. ^s-896d5826d4493fe40bd39532
+1. Šis įstatymas, išskyrus [[#^s-fe068e655247a78056fe59f0|2 straipsnio]] [[#^s-83694fe81abf5110e1de4ca0|5]] ir [[#^s-ec5ad0634aad28a1d72b0975|10]] dalis, [[#^s-87b93b21a6f6b1061d86223b|7 straipsnį]], 2009 metų valstybės tarnautojų suvienodintų pareigybių sąrašą ir nuo 2010 metų valstybės tarnautojų suvienodintų pareigybių sąrašą, įsigalioja 2008 m. gegužės 1 d. ^s-896d5826d4493fe40bd39532
 
 
 2. Šio įstatymo [[#^s-ec5ad0634aad28a1d72b0975|2 straipsnio 10 dalis]] įsigalioja 2008 m. balandžio 1 d. ^s-6829bd6e1f539294b74f5bc1

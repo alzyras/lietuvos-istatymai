@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.708F524D8B62#^s-10ec4f1cf895d19ebbc314ee|Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymas]] - 3 citatos - 0981010ISTAVIII-710
+- [[latest/TAR.708F524D8B62#^s-10ec4f1cf895d19ebbc314ee|Lietuvos Respublikos tauriųjų metalų ir brangakmenių valstybinės priežiūros įstatymas]] - 2 citatos - 0981010ISTAVIII-710

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-26f9991c6f1c4ecb7710c18e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. gegužės 7 d. dekretą Nr. 49, ratifikuoja 2000 m. gegužės 25 d. Niujorke priimtą Jungtinių Tautų vaiko teisių konvencijos fakultatyvinį protokolą dėl vaikų pardavimo, vaikų prostitucijos ir vaikų pornografijos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas [2004 m. gegužės 7 d. dekretą Nr. 49](https://e-tar.lt/portal/lt/legalAct/TAR.BDF4494A6E71), ratifikuoja 2000 m. gegužės 25 d. Niujorke priimtą Jungtinių Tautų vaiko teisių konvencijos fakultatyvinį protokolą dėl vaikų pardavimo, vaikų prostitucijos ir vaikų pornografijos.
 
 
 

@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos karo padėties įstatymo 2, 21, 32, 33 ir 37 
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C70309CDEB7B#^s-40496bada33596b542927a2f|Lietuvos Respublikos karo padėties įstatymas]] - 3 citatos - 1111010ISTA0XI-1414
-- [[latest/TAR.C70309CDEB7B#^s-93505aeeb2edeb9e1b24417e|Lietuvos Respublikos karo padėties įstatymas]] - 3 citatos - 1111010ISTA0XI-1414
+- [[latest/TAR.C70309CDEB7B#^s-40496bada33596b542927a2f|Lietuvos Respublikos karo padėties įstatymas]] - 2 citatos - 1111010ISTA0XI-1414

@@ -66,14 +66,14 @@ Lietuvos Respublikos Vyriausybę (toliau – Vyriausybė) sudaro Ministras Pirmi
 1. Vyriausybė įgyvendina vykdomąją valdžią Lietuvoje. ^s-8e2a82f30570f6047ec752f6
 
 
-2. Vyriausybės galias apibrėžia Lietuvos Respublikos Konstitucija ir įstatymai. ^s-dd931581c8e4af23fc1ab6a1
+2. Vyriausybės galias apibrėžia [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) ir įstatymai. ^s-dd931581c8e4af23fc1ab6a1
 
 
 
 ### 3 straipsnis. Vyriausybės veiklos teisiniai pagrindai ^s-a337d816d0376439babdbab1
 
 
-Vyriausybė savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais Seimo priimtais teisės aktais, Vyriausybės programa, Respublikos Prezidento dekretais ir šiuo įstatymu.
+Vyriausybė savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, kitais Seimo priimtais teisės aktais, Vyriausybės programa, Respublikos Prezidento dekretais ir šiuo įstatymu.
 
 
 
@@ -419,7 +419,7 @@ Vyriausybė:
 15) sudaro komisijas bei komitetus; ^s-cf22dfe21f4c3ce17b3fdf6c
 
 
-16) vykdo kitas pareigas, kurias Vyriausybei numato Lietuvos Respublikos Konstitucija, šis ir kiti įstatymai. ^s-380609a5f46185d5014a30a4
+16) vykdo kitas pareigas, kurias Vyriausybei numato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis ir kiti įstatymai. ^s-380609a5f46185d5014a30a4
 
 
 
@@ -462,7 +462,7 @@ MINISTRO PIRMININKO IR MINISTRŲ KOMPETENCIJA
 4) skiria ir atleidžia iš pareigų Vyriausybės sekretorių; ^s-aea55520aa3df026a8f2f83c
 
 
-5) skiria ir atleidžia iš pareigų Vyriausybės įstaigų – departamentų prie Vyriausybės vadovus (Vyriausybės kanclerio teikimu), teisės aktų numatytais atvejais – departamentų prie ministerijos vadovus (ministro teikimu) bei jų pavaduotojus (departamentų vadovų teikimu), ministrų teikimu skiria ir atleidžia iš pareigų viceministrus, nustato jų skaičių; savo iniciatyva atleidžia iš pareigų Ministro Pirmininko politinio ar asmeninio pasitikėjimo pagrindu skiriamus valstybės tarnautojus bei kitus Ministro Pirmininko skiriamus pareigūnus, pareiškęs nepasitikėjimą jais. Jiems tuo atveju netaikomas Darbo sutarties įstatymas, išmokama dviejų vidutinių mėnesinių darbo užmokesčių dydžio išeitinė kompensacija, išskyrus politinius pareigūnus, kuriems taikomos šio įstatymo [[#^s-6603807050e66284f0edda3a|13 straipsnyje]] numatytos socialinės garantijos; ^s-3e3de151f964560150a48294
+5) skiria ir atleidžia iš pareigų Vyriausybės įstaigų – departamentų prie Vyriausybės vadovus (Vyriausybės kanclerio teikimu), teisės aktų numatytais atvejais – departamentų prie ministerijos vadovus (ministro teikimu) bei jų pavaduotojus (departamentų vadovų teikimu), ministrų teikimu skiria ir atleidžia iš pareigų viceministrus, nustato jų skaičių; savo iniciatyva atleidžia iš pareigų Ministro Pirmininko politinio ar asmeninio pasitikėjimo pagrindu skiriamus valstybės tarnautojus bei kitus Ministro Pirmininko skiriamus pareigūnus, pareiškęs nepasitikėjimą jais. Jiems tuo atveju netaikomas [Darbo sutarties įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), išmokama dviejų vidutinių mėnesinių darbo užmokesčių dydžio išeitinė kompensacija, išskyrus politinius pareigūnus, kuriems taikomos šio įstatymo [[#^s-6603807050e66284f0edda3a|13 straipsnyje]] numatytos socialinės garantijos; ^s-3e3de151f964560150a48294
 
 
 6) Vyriausybės sekretoriaus teikimu skiria ir atleidžia iš pareigų Vyriausybės įstaigų – inspekcijų, tarnybų ir kitų įstaigų vadovus; ^s-352ae82d00a8a949d9f1be60
@@ -504,7 +504,7 @@ MINISTRO PIRMININKO IR MINISTRŲ KOMPETENCIJA
 18) sprendžia Vyriausybės veiklos organizavimo klausimus; ^s-4f0581c21f4fa1aa30d18d52
 
 
-19) vykdo kitas pareigas, kurias Ministrui Pirmininkui paveda Lietuvos Respublikos Konstitucija, šis ir kiti įstatymai. ^s-b4b9f52dca0bce1cfc5c15d9
+19) vykdo kitas pareigas, kurias Ministrui Pirmininkui paveda [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šis ir kiti įstatymai. ^s-b4b9f52dca0bce1cfc5c15d9
 
 
 3. Jeigu Ministras Pirmininkas nepritaria ministro veiklos Vyriausybėje nuostatoms, jis turi teisę pateikti Respublikos Prezidentui siūlymą šį ministrą atleisti. ^s-763071fb2315f5bd5c12c492
@@ -517,7 +517,7 @@ MINISTRO PIRMININKO IR MINISTRŲ KOMPETENCIJA
 1. Ministras, einantis Ministro Pirmininko pareigas, turi tuos pačius įgaliojimus kaip ir Ministras Pirmininkas. ^s-796b08a123d51b644c7efe42
 
 
-2. Ministras, pavaduojantis Ministrą Pirmininką, turi tuos pačius įgaliojimus kaip ir Ministras Pirmininkas, išskyrus šio įstatymo [[#^s-ae4ea67f6cb914e4343ce050|9 straipsnyje]] ir [[#^s-eeca9b275e33a0084e1cf5e0|24 straipsnio 2 dalies]] 1–5 bei 10 punktuose numatytus įgaliojimus. ^s-d96618123106501662c15e51
+2. Ministras, pavaduojantis Ministrą Pirmininką, turi tuos pačius įgaliojimus kaip ir Ministras Pirmininkas, išskyrus šio įstatymo [[#^s-ae4ea67f6cb914e4343ce050|9 straipsnyje]] ir [[#^s-eeca9b275e33a0084e1cf5e0|24 straipsnio 2 dalies]] [[#^s-940a6bfbe1f182a4c3f48e07|1]]–[[#^s-3e3de151f964560150a48294|5]] bei [[#^s-1bd7bcbec21b6c1a32f80a21|10]] punktuose numatytus įgaliojimus. ^s-d96618123106501662c15e51
 
 
 3. Ministras, einantis Ministro Pirmininko pareigas ar pavaduojantis Ministrą Pirmininką, dokumentuose nurodo savo pareigas ir daro įrašą „einantis Ministro Pirmininko pareigas“ ar „pavaduojantis Ministrą Pirmininką“. ^s-d369539a4aa5511be25e1602
@@ -566,7 +566,7 @@ MINISTRO PIRMININKO IR MINISTRŲ KOMPETENCIJA
 10) tvirtina ministerijos administracijos padalinių, taip pat departamentų, tarnybų ir inspekcijų prie ministerijos, kitų jos įsteigtų ar jai priskirtų įstaigų, valstybės įmonių nuostatus (įstatus); ^s-83bac73ef199b374b0ed2287
 
 
-11) skiria ir atleidžia iš pareigų ministro politinio ar asmeninio pasitikėjimo pagrindu skiriamus valstybės tarnautojus (išskyrus viceministrus), ministerijos sekretorių, įstaigų prie ministerijos, taip pat ministerijos įsteigtų ar jai priskirtų įstaigų, valstybės įmonių vadovus (ministerijos sekretoriaus teikimu); savo iniciatyva atleidžia iš pareigų ministro politinio ar asmeninio pasitikėjimo pagrindu skiriamus valstybės tarnautojus bei kitus ministro skiriamus pareigūnus, pareiškęs nepasitikėjimą jais. Jiems tuo atveju netaikomas Darbo sutarties įstatymas, išmokama dviejų vidutinių mėnesinių darbo užmokesčių dydžio išeitinė kompensacija, išskyrus politinius pareigūnus, kuriems taikomos šio įstatymo [[#^s-6603807050e66284f0edda3a|13 straipsnyje]] numatytos socialinės garantijos; ^s-6e27e09b2750641b97619ea5
+11) skiria ir atleidžia iš pareigų ministro politinio ar asmeninio pasitikėjimo pagrindu skiriamus valstybės tarnautojus (išskyrus viceministrus), ministerijos sekretorių, įstaigų prie ministerijos, taip pat ministerijos įsteigtų ar jai priskirtų įstaigų, valstybės įmonių vadovus (ministerijos sekretoriaus teikimu); savo iniciatyva atleidžia iš pareigų ministro politinio ar asmeninio pasitikėjimo pagrindu skiriamus valstybės tarnautojus bei kitus ministro skiriamus pareigūnus, pareiškęs nepasitikėjimą jais. Jiems tuo atveju netaikomas [Darbo sutarties įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.2CE9084B15DA), išmokama dviejų vidutinių mėnesinių darbo užmokesčių dydžio išeitinė kompensacija, išskyrus politinius pareigūnus, kuriems taikomos šio įstatymo [[#^s-6603807050e66284f0edda3a|13 straipsnyje]] numatytos socialinės garantijos; ^s-6e27e09b2750641b97619ea5
 
 
 12) tvirtina periodiškai atnaujinamus ilgalaikius (iki 10 metų) ministerijos strateginius veiklos planus; ^s-cf803d437e1211f0444a38fd
@@ -677,7 +677,7 @@ VIRŠININKŲ ADMINISTRACIJOS
 5. Ministerija yra juridinis asmuo, turintis sąskaitą banke ir antspaudą su valstybės herbu bei savo pavadinimu. ^s-a7801fa07ca5c2175ce99204
 
 
-6. Ministerija savo veiklą grindžia Lietuvos Respublikos Konstitucija, įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Vyriausybės nutarimais, kitais teisės aktais. ^s-a5a368e2f0aa411f7845bff4
+6. Ministerija savo veiklą grindžia [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis, Vyriausybės nutarimais, kitais teisės aktais. ^s-a5a368e2f0aa411f7845bff4
 
 
 7. Ministerija yra biudžetinė įstaiga, finansuojama iš valstybės biudžeto. ^s-2e74f75a586deaf814063012
@@ -825,7 +825,7 @@ Vyriausybės darbo tvarką nustato Vyriausybės patvirtintas darbo reglamentas.
 1. Vyriausybė valstybės valdymo reikalus sprendžia posėdžiuose visų Vyriausybės narių balsų dauguma priimdama nutarimus. ^s-e0fadf5f8d82170ef84c8119
 
 
-2. Vyriausybės posėdžiuose gali dalyvauti pareigūnai, kuriems tokią teisę numato Lietuvos Respublikos Konstitucija ir kiti įstatymai. ^s-721c46a9c94ced056d9b3ee3
+2. Vyriausybės posėdžiuose gali dalyvauti pareigūnai, kuriems tokią teisę numato [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) ir kiti įstatymai. ^s-721c46a9c94ced056d9b3ee3
 
 
 3. Į Vyriausybės posėdžius gali būti kviečiami ir kiti asmenys. ^s-7fc76fe682e2610896dead52

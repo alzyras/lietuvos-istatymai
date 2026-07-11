@@ -45,7 +45,7 @@ Vilnius
 2. 3 straipsnio 6 dalyje išbraukti žodžius „išskyrus šio straipsnio 1 dalies 7 punkte nurodytą įmonę“ ir šią dalį išdėstyti taip: ^s-9082fc0f9909075bd47b32a6
 
 
-„6. Likviduojant (taip pat dėl bankroto) [[#^s-26b9d78095aa1d27e6236689|šio straipsnio 1 dalyje]] nurodytas įmones, joms priklausantis nekilnojamasis ir įkeistas turtas, taip pat [[#^s-9082fc0f9909075bd47b32a6|šio straipsnio 2 dalyje]] nurodytas turtas gali būti parduodamas ar kitaip perleidžiamas tik Lietuvos Respublikos valstybės institucijoms, valstybės įmonėms arba įmonėms, kurių kapitalo dalį sudaro privatus nacionalinis bei europinės ir transatlantinės integracijos kriterijus atitinkantis kapitalas, tačiau valstybei ar savivaldybei priklauso daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų.“
+„6. Likviduojant (taip pat dėl bankroto) [[#^s-26b9d78095aa1d27e6236689|šio straipsnio 1 dalyje]] nurodytas įmones, joms priklausantis nekilnojamasis ir įkeistas turtas, taip pat šio straipsnio 2 dalyje nurodytas turtas gali būti parduodamas ar kitaip perleidžiamas tik Lietuvos Respublikos valstybės institucijoms, valstybės įmonėms arba įmonėms, kurių kapitalo dalį sudaro privatus nacionalinis bei europinės ir transatlantinės integracijos kriterijus atitinkantis kapitalas, tačiau valstybei ar savivaldybei priklauso daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų.“
 
 
 3. 3 straipsnio 7 dalį pripažinti netekusia galios. ^s-52ceab13d85239f176f39231

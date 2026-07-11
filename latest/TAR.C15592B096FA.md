@@ -55,7 +55,7 @@ Bendrosios nuostatos
 2. Šis įstatymas netaikomas organizuojant, koordinuojant ir vykdant gyventojų paieškos ir gelbėjimo darbus, atliekamus vadovaujantis [[latest/TAR.8FBB384266D1|Lietuvos Respublikos saugios laivybos įstatymu]], ir jūros teršimo incidentų likvidavimo darbus, atliekamus vadovaujantis [[latest/TAR.56935A08DD06|Lietuvos Respublikos jūros aplinkos apsaugos įstatymu]]. ^s-fbdd034c3c4ca91c02c63cbb
 
 
-3. Šio įstatymo [[#^s-3040840ebb2ca7d725bd7cc8|12 straipsnio 3 dalies]], [[#^s-093559be4080e4044b834b59|13 straipsnio 2 dalies]] ir [[#^s-260ef884c8353d42d4e90792|22 straipsnio 4 dalies]], kiek tai susiję su ypatingos svarbos subjektų atsparumo užtikrinimu, ir 492, 493, [[#^s-3f61cb29b6eee94bc64b07f1|494 straipsnių]] nuostatos netaikomos ypatingos svarbos subjektams, priskirtiems šio įstatymo 1 priede nurodytiems bankininkystės, finansų rinkų infrastruktūros ir skaitmeninės infrastruktūros sektoriams. ^s-847349db134235dc5acf48cd
+3. Šio įstatymo [[#^s-3040840ebb2ca7d725bd7cc8|12 straipsnio 3 dalies]], [[#^s-093559be4080e4044b834b59|13 straipsnio 2 dalies]] ir [[#^s-260ef884c8353d42d4e90792|22 straipsnio 4 dalies]], kiek tai susiję su ypatingos svarbos subjektų atsparumo užtikrinimu, ir [[#^s-b59576a337473d5e60f61dd5|492]], [[#^s-2829bc5f3798adc320a389c2|493]], [[#^s-3f61cb29b6eee94bc64b07f1|494]] straipsnių nuostatos netaikomos ypatingos svarbos subjektams, priskirtiems šio įstatymo 1 priede nurodytiems bankininkystės, finansų rinkų infrastruktūros ir skaitmeninės infrastruktūros sektoriams. ^s-847349db134235dc5acf48cd
 
 
 4. Su ypatingos svarbos subjektų atsparumo užtikrinimu susijusiai įslaptintai informacijai taikomi [[latest/TAR.F4CA26A706AF|Lietuvos Respublikos valstybės ir tarnybos paslapčių įstatyme]] nustatyti įslaptintos informacijos reikalavimai, o su ypatingos svarbos subjektų atsparumo užtikrinimu susijusiai neįslaptintai informacijai – ypatingos svarbos subjekte nustatyti konfidencialios informacijos apsaugos reikalavimai. ^s-e7b24ce30c79873da529aa25
@@ -1503,7 +1503,7 @@ Nr. XV-1002, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11088
 2. Su krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susiję duomenys (įskaitant asmens duomenis ir specialių kategorijų asmens duomenis) naudojant informacines sistemas, informacinių technologijų platformas ir kitas informacinių technologijų priemones yra valdomi ir (ar) tvarkomi šia tvarka: ^s-add31b66ea42dbc372cb0b77
 
 
-1) su šio įstatymo [[#^s-b816d1dbed30ab23d1f4f1d4|3 straipsnio 1 punkte]] nurodytų krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susiję duomenys yra Vyriausybės nustatyta tvarka tvarkomi Lietuvos Respublikos nacionalinio saugumo tikslais naudojant Vyriausybės nustatytą informacinių technologijų platformą ir kitas informacinių technologijų priemones; ^s-8b34212c1526ba826db80698
+1) su šio įstatymo 3 straipsnio 1 punkte nurodytų krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susiję duomenys yra Vyriausybės nustatyta tvarka tvarkomi Lietuvos Respublikos nacionalinio saugumo tikslais naudojant Vyriausybės nustatytą informacinių technologijų platformą ir kitas informacinių technologijų priemones; ^s-8b34212c1526ba826db80698
 
 
 2) su šio įstatymo [[#^s-025921a14e09725a4518bce0|3 straipsnio]] 2–5 punktuose nurodytų krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susiję duomenys yra valdomi ir tvarkomi Valstybės duomenų valdysenos informacinėje sistemoje vadovaujantis šiuo įstatymu ir [[latest/TAR.026F44E06A27|Lietuvos Respublikos oficialiosios statistikos ir valstybės duomenų valdysenos įstatymu]]. ^s-0efb39ae80605b5a0ea938e2
@@ -1514,10 +1514,10 @@ Nr. XV-1002, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11088
 
 
 
-3. Tvarkant su šio įstatymo [[#^s-b816d1dbed30ab23d1f4f1d4|3 straipsnio 1 punkte]] nurodytų krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusius asmens duomenis, [[latest/TAR.299D835159BE#^s-c6ea9201c375bbd7fc77da79|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymo (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) 11 straipsnio 2 dalyje]], [[#^s-b40b8ca13b501c102c54a5c6|14 straipsnio 5 dalyje]] ir [[#^s-70d768bbea0caa0179029186|30 straipsnio 1 dalyje]] nurodytos informacijos teikimas duomenų subjektams gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, taip pat Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-243f795a8b4338a3cd0aa969|12 straipsnyje]] nustatyta duomenų subjektų teisė susipažinti su asmens duomenimis bei [[#^s-f1c4f5e915a2c10ddefdc8f1|14 straipsnio]] 1, 2 ir [[#^s-8cb1976fb19fc0f399460622|3 dalyse]] nustatytos duomenų subjektų teisės reikalauti ištaisyti, ištrinti asmens duomenis arba apriboti jų tvarkymą gali būti apribotos visiškai ar iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ar įgyvendinus šioje dalyje nurodytas jo teises gali būti atskleisti su šio įstatymo [[#^s-b816d1dbed30ab23d1f4f1d4|3 straipsnio 1 punkte]] nurodytų krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusių institucijų veiklos metodai, priemonės, taktika ir (ar) padaryta žala šių institucijų veiklai. Kiekvienu konkrečiu atveju vertinama, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai ar iš dalies apribotos, fiksuojant raštu (įskaitant elektroninę formą) faktines ar teisines priežastis, kuriomis grindžiamas sprendimas šias teises apriboti. Šioje dalyje nurodyta informacija duomenų subjektams neteikiama ir šioje dalyje nurodytos duomenų subjektų teisės visiškai ribojamos karo, nepaprastosios padėties, mobilizacijos ir valstybės lygio ekstremaliosios situacijos, kai kyla grėsmė Lietuvos Respublikos nacionalinio saugumo interesams ar gyvybiškai svarbių valstybės funkcijų atlikimui, metu. ^s-8cb1976fb19fc0f399460622
+3. Tvarkant su šio įstatymo 3 straipsnio 1 punkte nurodytų krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusius asmens duomenis, [[latest/TAR.299D835159BE#^s-c6ea9201c375bbd7fc77da79|Lietuvos Respublikos asmens duomenų, tvarkomų nusikalstamų veikų prevencijos, tyrimo, atskleidimo ar baudžiamojo persekiojimo už jas, bausmių vykdymo arba nacionalinio saugumo ar gynybos tikslais, teisinės apsaugos įstatymo (toliau – Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymas) 11 straipsnio 2 dalyje]], [[#^s-b40b8ca13b501c102c54a5c6|14 straipsnio 5 dalyje]] ir [[#^s-70d768bbea0caa0179029186|30 straipsnio 1 dalyje]] nurodytos informacijos teikimas duomenų subjektams gali būti atidėtas, apribotas arba ši informacija gali būti neteikiama, taip pat Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatymo [[#^s-243f795a8b4338a3cd0aa969|12 straipsnyje]] nustatyta duomenų subjektų teisė susipažinti su asmens duomenimis bei [[#^s-f1c4f5e915a2c10ddefdc8f1|14 straipsnio]] [[#^s-9dd274a78c8ada405ca54560|1]], [[#^s-71fba32603eebfe0186bd312|2]] ir [[#^s-8d64997011ddcf2e54fb0618|3]] dalyse nustatytos duomenų subjektų teisės reikalauti ištaisyti, ištrinti asmens duomenis arba apriboti jų tvarkymą gali būti apribotos visiškai ar iš dalies, atsižvelgiant į tai, kiek ir kol tai būtina ir proporcinga, tais atvejais, kai duomenų subjektui pateikus informaciją ar įgyvendinus šioje dalyje nurodytas jo teises gali būti atskleisti su šio įstatymo 3 straipsnio 1 punkte nurodytų krizių valdymo ir civilinės saugos sistemos uždavinių įgyvendinimu susijusių institucijų veiklos metodai, priemonės, taktika ir (ar) padaryta žala šių institucijų veiklai. Kiekvienu konkrečiu atveju vertinama, ar šioje dalyje nurodytos duomenų subjektų teisės turi būti visiškai ar iš dalies apribotos, fiksuojant raštu (įskaitant elektroninę formą) faktines ar teisines priežastis, kuriomis grindžiamas sprendimas šias teises apriboti. Šioje dalyje nurodyta informacija duomenų subjektams neteikiama ir šioje dalyje nurodytos duomenų subjektų teisės visiškai ribojamos karo, nepaprastosios padėties, mobilizacijos ir valstybės lygio ekstremaliosios situacijos, kai kyla grėsmė Lietuvos Respublikos nacionalinio saugumo interesams ar gyvybiškai svarbių valstybės funkcijų atlikimui, metu. ^s-8cb1976fb19fc0f399460622
 
 
-4. Informacinių sistemų valdytojai ir (ar) tvarkytojai užtikrina savo valdomų ir (ar) tvarkomų informacinių sistemų duomenų, reikalingų [[#^s-8b34212c1526ba826db80698|šio straipsnio 2 dalies 1 punkte]] nurodytai informacinių technologijų platformai, kad būtų įgyvendinti šio įstatymo [[#^s-b816d1dbed30ab23d1f4f1d4|3 straipsnio 1 punkte]] nustatyti uždaviniai, ir duomenų, reikalingų [[#^s-0efb39ae80605b5a0ea938e2|šio straipsnio 2 dalies 2 punkte]] nurodytai valstybės informacinei sistemai, kad būtų įgyvendinti šio įstatymo [[#^s-025921a14e09725a4518bce0|3 straipsnio]] 2–5 punktuose nustatyti uždaviniai, teikimą. ^s-4c2aafad114472d2679ebee0
+4. Informacinių sistemų valdytojai ir (ar) tvarkytojai užtikrina savo valdomų ir (ar) tvarkomų informacinių sistemų duomenų, reikalingų [[#^s-8b34212c1526ba826db80698|šio straipsnio 2 dalies 1 punkte]] nurodytai informacinių technologijų platformai, kad būtų įgyvendinti šio įstatymo 3 straipsnio 1 punkte nustatyti uždaviniai, ir duomenų, reikalingų [[#^s-0efb39ae80605b5a0ea938e2|šio straipsnio 2 dalies 2 punkte]] nurodytai valstybės informacinei sistemai, kad būtų įgyvendinti šio įstatymo [[#^s-025921a14e09725a4518bce0|3 straipsnio]] 2–5 punktuose nustatyti uždaviniai, teikimą. ^s-4c2aafad114472d2679ebee0
 
 
 Straipsnio pakeitimai:
@@ -1916,7 +1916,7 @@ Nr. XV-1002, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11088
 6. Meras Vyriausybės nustatyta tvarka nustato civilinės saugos pagalbos punktų, kolektyvinės apsaugos statinių ir priedangų poreikį, organizuoja jų parinkimą, pažymėjimą, parengimą, paruošimą naudoti ir naudojimą. ^s-cfd3a011b6b3b6ff0f9c6fe6
 
 
-7. Kolektyvinės apsaugos statiniai, priedangos ir civilinės saugos pagalbos punktai parenkami valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų, veiklos vykdytojų ir daugiabučių gyvenamųjų namų bendrojo naudojimo objektų valdytojų teisėtais pagrindais valdomuose ar naudojamuose statiniuose, patalpose ir teritorijose pagal jų pateiktus duomenis ir (ar) pagal šio įstatymo [[#^s-0efb39ae80605b5a0ea938e2|18 straipsnio 2 dalies 2 punkte]] nurodytoje informacinėje sistemoje tvarkomus duomenis, atsižvelgiant į [[#^s-d0581246a8f4a0e422d1c72e|šio straipsnio 5 dalies]] 2 ir 3 punktuose nurodytos apžiūros rezultatus. ^s-ca0b35d1759959c11c5112c2
+7. Kolektyvinės apsaugos statiniai, priedangos ir civilinės saugos pagalbos punktai parenkami valstybės ir savivaldybių institucijų ir įstaigų, kitų įstaigų, ūkio subjektų, veiklos vykdytojų ir daugiabučių gyvenamųjų namų bendrojo naudojimo objektų valdytojų teisėtais pagrindais valdomuose ar naudojamuose statiniuose, patalpose ir teritorijose pagal jų pateiktus duomenis ir (ar) pagal šio įstatymo [[#^s-0efb39ae80605b5a0ea938e2|18 straipsnio 2 dalies 2 punkte]] nurodytoje informacinėje sistemoje tvarkomus duomenis, atsižvelgiant į [[#^s-d0581246a8f4a0e422d1c72e|šio straipsnio 5 dalies]] [[#^s-0efb39ae80605b5a0ea938e2|2]] ir 3 punktuose nurodytos apžiūros rezultatus. ^s-ca0b35d1759959c11c5112c2
 
 
 8. Parinkti kolektyvinės apsaugos statiniai ir priedangos priskiriami vienam iš 3 lygių vadovaujantis šio įstatymo [[#^s-96903cd1a6395543af6e88b3|12 straipsnio 2 dalies 4 punkte]] nurodyta priedangų ir kolektyvinės apsaugos statinių skirstymo į 3 lygius pagal jų suteikiamą apsaugą gyventojams tvarka: ^s-8fcb5f76734bc585f14dd7bc
@@ -1961,7 +1961,7 @@ ii) gresiant ar įvykus įvykiui, ekstremaliajam įvykiui, ypatingam įvykiui, g
 c) trečiojo lygio kolektyvinės apsaugos statiniams – gyventojų apsaugai nuo jų gyvybei ar sveikatai pavojingų veiksnių gresiant ar įvykus įvykiui, ekstremaliajam įvykiui, ypatingam įvykiui, gresiant ar susidarius ekstremaliajai situacijai, išskyrus apsaugą nuo radioaktyviojo, cheminio ir biologinio užterštumo.
 
 
-9. Statiniai ir patalpos, kuriuose įrengti kolektyvinės apsaugos statiniai ir priedangos, naudojami pagal šių statinių ir patalpų paskirtį, o šio įstatymo [[#^s-02b46441a770c7373adbd0ae|2 straipsnio]] 24 ir 32 dalyse nustatytais atvejais ir metu šių statinių ir patalpų valdytojai Vyriausybės nustatyta tvarka juos paruošia naudoti kaip kolektyvinės apsaugos statinius ir priedangas ir sudaro sąlygas gyventojams į juos patekti. Statiniai, patalpos ir teritorijos, kuriuose parinkti civilinės saugos pagalbos punktai, naudojami pagal šių statinių, patalpų ir teritorijų paskirtį, o šio įstatymo [[#^s-31a56e4f7daf299d4126469b|2 straipsnio 41 dalyje]] nustatytu metu šių statinių, patalpų ir teritorijų valdytojai Vyriausybės nustatyta tvarka juos paruošia naudoti kaip civilinės saugos pagalbos punktus ir sudaro sąlygas gyventojams į juos patekti. ^s-31c418afd2f38b2fca2764af
+9. Statiniai ir patalpos, kuriuose įrengti kolektyvinės apsaugos statiniai ir priedangos, naudojami pagal šių statinių ir patalpų paskirtį, o šio įstatymo [[#^s-02b46441a770c7373adbd0ae|2 straipsnio]] [[#^s-0d5ae70c8707d3cfc01ef550|24]] ir [[#^s-450c4c9a0898ff11f86731c5|32]] dalyse nustatytais atvejais ir metu šių statinių ir patalpų valdytojai Vyriausybės nustatyta tvarka juos paruošia naudoti kaip kolektyvinės apsaugos statinius ir priedangas ir sudaro sąlygas gyventojams į juos patekti. Statiniai, patalpos ir teritorijos, kuriuose parinkti civilinės saugos pagalbos punktai, naudojami pagal šių statinių, patalpų ir teritorijų paskirtį, o šio įstatymo [[#^s-31a56e4f7daf299d4126469b|2 straipsnio 41 dalyje]] nustatytu metu šių statinių, patalpų ir teritorijų valdytojai Vyriausybės nustatyta tvarka juos paruošia naudoti kaip civilinės saugos pagalbos punktus ir sudaro sąlygas gyventojams į juos patekti. ^s-31c418afd2f38b2fca2764af
 
 
 10. Vyriausybė tvirtina civilinės saugos pagalbos punktų, slėptuvių, kolektyvinės apsaugos statinių ir priedangų poreikio nustatymo, parinkimo, žymėjimo, jų parengties organizavimo, paruošimo naudoti ir naudojimo tvarkos aprašą. ^s-c19645fef8767eaf6ca062b0
@@ -2001,7 +2001,7 @@ Nr. XV-1002, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11088
 3. Kita įstaiga ir ūkio subjektas sudaro sąlygas savivaldybės administracijos direktoriaus, su kuriuo buvo sudaryta materialinių išteklių teikimo  sutartis, įgaliotiems asmenims patikrinti, ar jie yra tinkamai pasirengę vykdyti jiems šioje sutartyje nustatytus sutartinius įsipareigojimus. ^s-ad19c379799062e6372ef1f5
 
 
-4. Materialinių išteklių teikimo sutartį sudariusios kitos įstaigos ir ūkio subjekto darbuotojai pagal kompetenciją (veiklos sritį) dalyvauja šio įstatymo [[#^s-9cd16d5d47420efc514646b3|25 straipsnio]] 1 ir [[#^s-70ca9ad31fc4d9ae67772129|2 dalyse]] nurodytuose krizių valdymo ir civilinės saugos mokymuose. ^s-e3506d251f5aec18d1ad7162
+4. Materialinių išteklių teikimo sutartį sudariusios kitos įstaigos ir ūkio subjekto darbuotojai pagal kompetenciją (veiklos sritį) dalyvauja šio įstatymo [[#^s-9cd16d5d47420efc514646b3|25 straipsnio]] [[#^s-f0a60a01af7328190c7f1161|1]] ir [[#^s-01872e51ff0a1c81179fbf56|2]] dalyse nurodytuose krizių valdymo ir civilinės saugos mokymuose. ^s-e3506d251f5aec18d1ad7162
 Straipsnio dalies pakeitimai:
 Nr. XV-1002, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11088
 
@@ -2242,13 +2242,13 @@ Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 1) savivaldybės operacijų vadovas tampa atsakingas už paieškos, gelbėjimo ir neatidėliotinus darbus, įvykių, ekstremaliųjų įvykių ir savivaldybės lygio ekstremaliosios situacijos valdymo ir jos padarinių šalinimo darbų organizavimą ir atlikimą; ^s-fa8a30e4a8add7924c20ae2b
 
 
-2) meras atlieka [[#^s-b797ed5fe76ddc65afd08cab|šio straipsnio 1 dalies]] 3–6 punktuose nustatytas funkcijas ir vykdo kitas savivaldybės ekstremaliųjų situacijų valdymo plane numatytas priemones; ^s-f1d4d2e648374210bfe11cc8
+2) meras atlieka [[#^s-b797ed5fe76ddc65afd08cab|šio straipsnio 1 dalies]] [[#^s-9b1e2929ccd4ad23ed5529ce|3]]–6 punktuose nustatytas funkcijas ir vykdo kitas savivaldybės ekstremaliųjų situacijų valdymo plane numatytas priemones; ^s-f1d4d2e648374210bfe11cc8
 Straipsnio punkto pakeitimai:
 Nr. XIV-1640, 2022-12-08, paskelbta TAR 2022-12-23, i. k. 2022-26579
 
 
 
-3) savivaldybės operacijų centras atlieka [[#^s-b5b52818eee497f27d9d7a34|šio straipsnio 2 dalies]] 2–[[#^s-132dd176f3b5df2f2c1ee3d7|4 punktuose]] nustatytas funkcijas ir vykdo kitas savivaldybės ekstremaliųjų situacijų valdymo plane numatytas priemones, taip pat koordinuoja jų vykdymą; ^s-9b1e2929ccd4ad23ed5529ce
+3) savivaldybės operacijų centras atlieka [[#^s-b5b52818eee497f27d9d7a34|šio straipsnio 2 dalies]] [[#^s-f1d4d2e648374210bfe11cc8|2]]–[[#^s-132dd176f3b5df2f2c1ee3d7|4]] punktuose nustatytas funkcijas ir vykdo kitas savivaldybės ekstremaliųjų situacijų valdymo plane numatytas priemones, taip pat koordinuoja jų vykdymą; ^s-9b1e2929ccd4ad23ed5529ce
 
 
 4) ministerijos, atsižvelgdamos į ministrams pavestą valdymo sritį, taip pat ministrui pavestos valdymo srities valstybės institucijos ar įstaigos kompetenciją, teikia konsultacijas, ekspertinę ir pagal galimybes kitą pagalbą savivaldybei likviduojant savivaldybės lygio ekstremaliąją situaciją ir šalinant jos padarinius. ^s-132dd176f3b5df2f2c1ee3d7
@@ -2320,7 +2320,7 @@ Nr. XV-1002, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11088
 1) Nacionalinis krizių valdymo centras: ^s-ffdf910dc048e0542cbb2946
 
 
-a) vykdo [[#^s-2f723dba12b3d3c80883e6b8|šio straipsnio 1 dalies]] 2–[[#^s-c9048dd158c5c1e96fe1ddb7|5 punktuose]] nustatytas funkcijas;
+a) vykdo [[#^s-2f723dba12b3d3c80883e6b8|šio straipsnio 1 dalies]] [[#^s-940ed0a5fef74084064dfdf0|2]]–[[#^s-c9048dd158c5c1e96fe1ddb7|5]] punktuose nustatytas funkcijas;
 
 
 b) padeda valstybės operacijų vadovui priimti sprendimus dėl valstybės lygio ekstremaliosios situacijos valdymo ir jos padarinių šalinimo organizavimo, teikia valstybės operacijų vadovui informaciją ir pasiūlymus dėl paieškos, gelbėjimo ir neatidėliotinų darbų, įvykių, ekstremaliųjų įvykių ir valstybės lygio ekstremaliosios situacijos valdymo ir jos padarinių šalinimo organizavimo darbų;
@@ -2520,7 +2520,7 @@ Nr. XV-1002, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11088
 ### 38 straipsnis. Materialinių išteklių teikimas ^s-ce61a8c23a223baf7cdfcdb9
 
 
-1. Kitos įstaigos ir ūkio subjektai Vyriausybės nustatyta tvarka privalo teikti turimus materialinius išteklius su krizių valdymo ir civilinės saugos sistemos uždavinio, nurodyto šio įstatymo [[#^s-fa02ef02c7ad3d37858e0151|3 straipsnio 5 punkte]], įgyvendinimu susijusioms funkcijoms ir užduotims atlikti. ^s-e48e7fa0ba735d53cf45ec8d
+1. Kitos įstaigos ir ūkio subjektai Vyriausybės nustatyta tvarka privalo teikti turimus materialinius išteklius su krizių valdymo ir civilinės saugos sistemos uždavinio, nurodyto šio įstatymo 3 straipsnio 5 punkte, įgyvendinimu susijusioms funkcijoms ir užduotims atlikti. ^s-e48e7fa0ba735d53cf45ec8d
 Straipsnio dalies pakeitimai:
 Nr. XV-1002, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11088
 
@@ -2716,7 +2716,7 @@ KRIZĖS VALDYMAS
 2) svarsto Nacionalinio krizių valdymo centro pasiūlymus dėl krizės valdymo prioritetų; ^s-b79e9207c8b52e7e506a6b98
 
 
-3) teikia Vyriausybei pasiūlymus dėl poreikio skirti valstybės ir savivaldybių institucijoms ir įstaigoms valstybines reagavimo į krizes ir jų padarinių šalinimo užduotis, taikyti [[#^s-649742122eaddc6e803f6e6e|šio straipsnio 6 dalies]] 1 ir [[#^s-b79e9207c8b52e7e506a6b98|2 punktuose]] nurodytas priemones. ^s-3fc0c4def82d434b54e7b801
+3) teikia Vyriausybei pasiūlymus dėl poreikio skirti valstybės ir savivaldybių institucijoms ir įstaigoms valstybines reagavimo į krizes ir jų padarinių šalinimo užduotis, taikyti [[#^s-649742122eaddc6e803f6e6e|šio straipsnio 6 dalies]] [[#^s-2f463de7e9dfb7dff6b45431|1]] ir [[#^s-b79e9207c8b52e7e506a6b98|2]] punktuose nurodytas priemones. ^s-3fc0c4def82d434b54e7b801
 
 
 8. Krizės metu Nacionalinis krizių valdymo centras: ^s-5d9bdb24540325379d2b6fb6
@@ -2880,7 +2880,7 @@ b) ypatingos svarbos subjektą apie jam taikomus (išbraukimo iš ypatingos svar
 2) nedelsdamas, bet ne vėliau kaip per 5 darbo dienas nuo juridinio asmens, kitos organizacijos ar jų padalinio įtraukimo į ypatingos svarbos subjektų sąrašą dienos, Europos Komisijai pateikia šią informaciją: ^s-53fe639a87ecf938deb8a1bc
 
 
-a) papildomų būtinųjų paslaugų, negu nurodytos 2023 m. liepos 25 d. Komisijos reglamente (ES) 2023/2450, kuriuo papildoma Europos Parlamento ir Tarybos direktyva (ES) 2022/2557, nustatant esminių paslaugų sąrašą, Lietuvos Respublikoje sąrašą;
+a) papildomų būtinųjų paslaugų, negu nurodytos 2023 m. liepos 25 d. Komisijos [reglamente (ES) 2023/2450](https://eur-lex.europa.eu/eli/reg/2023/2450/oj), kuriuo papildoma Europos Parlamento ir Tarybos [direktyva (ES) 2022/2557](https://eur-lex.europa.eu/eli/dir/2022/2557/oj), nustatant esminių paslaugų sąrašą, Lietuvos Respublikoje sąrašą;
 
 
 b) ypatingos svarbos subjektų, teikiančių būtinąsias paslaugas ir atitinkančių šio įstatymo 1 priede nurodytą tam tikrą sektorių ir subsektorių, skaičių.
@@ -2939,7 +2939,7 @@ Ypatingos svarbos subjektas privalo:
 2. Į pareigų sąraše nurodytas pareigas skiriamas arba paskirtas asmuo negali eiti pareigų sąraše nurodytų pareigų, jeigu jis įsiteisėjusiu teismo nuosprendžiu yra pripažintas kaltu dėl sunkaus ar labai sunkaus nusikaltimo nuosavybei, turtinėms teisėms ir turtiniams interesams, ekonomikai ir verslo tvarkai, finansų sistemai, valstybės tarnybai ir viešiesiems interesams, visuomenės saugumui ar dėl bet kurio iš šių nusikaltimų atitinkančios nusikalstamos veikos pagal kitų valstybių baudžiamuosius įstatymus ir turi neišnykusį ar nepanaikintą teistumą. ^s-f813e3a18ac59136a420832d
 
 
-3. [[#^s-a5e7aa5cbf72d80697b6b2e5|Šio straipsnio 1 dalyje]] nurodytų asmenų patikrai mutatis mutandis taikoma [[latest/TAR.57E0E8B29108#^s-5c45a2513bfa47ff79299ee1|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 17 straipsnio]] 3–7 dalyse nustatyta tvarka. ^s-3c2a75f57492b388df9c9b3d
+3. [[#^s-a5e7aa5cbf72d80697b6b2e5|Šio straipsnio 1 dalyje]] nurodytų asmenų patikrai mutatis mutandis taikoma [[latest/TAR.57E0E8B29108#^s-5c45a2513bfa47ff79299ee1|Nacionaliniam saugumui užtikrinti svarbių objektų apsaugos įstatymo 17 straipsnio]] [[latest/TAR.57E0E8B29108#^s-81ba30beb20d8758546d10f5|3]]–[[latest/TAR.57E0E8B29108#^s-2a6064517975f7aaff8f1cb0|7]] dalyse nustatyta tvarka. ^s-3c2a75f57492b388df9c9b3d
 
 
 4. Valstybės institucijos, vykdydamos asmenų, pretenduojančių eiti pareigas ypatingos svarbos subjektuose, tikrinimą, renkamus asmens duomenis tvarko nacionalinio saugumo ar gynybos tikslais Asmens duomenų, tvarkomų teisėsaugos ar nacionalinio saugumo tikslais, įstatyme ir šiame įstatyme nustatyta tvarka. ^s-43503197f2e4db40e63e3c7a
@@ -3081,10 +3081,10 @@ SEKTORIAI, SUBSEKTORIAI IR SUBJEKTŲ KATEGORIJOS
  1.1.4. Elektros energijos gamintojas ^s-1f4a310f9fe8cc2a5748d3bb
 
 
- 1.1.5. Paskirtieji elektros energijos rinkos operatoriai, kaip apibrėžiama 2019 m. birželio 5 d. Europos Parlamento ir Tarybos reglamento (ES) 2019/943 dėl elektros energijos vidaus rinkos 2 straipsnio 8 punkte ^s-3f392e5a4b78cb42d8b6a0f3
+ 1.1.5. Paskirtieji elektros energijos rinkos operatoriai, kaip apibrėžiama 2019 m. birželio 5 d. Europos Parlamento ir Tarybos [reglamento (ES) 2019/943](https://eur-lex.europa.eu/eli/reg/2019/943/oj) dėl elektros energijos vidaus rinkos 2 straipsnio 8 punkte ^s-3f392e5a4b78cb42d8b6a0f3
 
 
- 1.1.6. Elektros energijos rinkos dalyviai, kaip apibrėžiama Reglamento (ES) 2019/943 2 straipsnio 25 punkte, teikiantys elektros energijos paklausos telkimo, energijos kaupimo paslaugas ir elektros energijos reguliavimo apkrovos paslaugas ^s-96fd12e8bc88fa51c3c706ab
+ 1.1.6. Elektros energijos rinkos dalyviai, kaip apibrėžiama [Reglamento (ES) 2019/943 2 straipsnio](https://eur-lex.europa.eu/eli/reg/2019/943/art_2/oj) 25 punkte, teikiantys elektros energijos paklausos telkimo, energijos kaupimo paslaugas ir elektros energijos reguliavimo apkrovos paslaugas ^s-96fd12e8bc88fa51c3c706ab
 
 
  1.2. Centralizuotas šilumos ir vėsumos tiekimas ^s-1cd07819ce0c7c7723f135f1
@@ -3129,10 +3129,10 @@ SEKTORIAI, SUBSEKTORIAI IR SUBJEKTŲ KATEGORIJOS
 
  2. Transportas ^s-6c4488cd0d78eeeb026588c2
  2.1. Oro transportas ^s-7cd41caff4e2dfb5ba0e6923
- 2.1.1. Oro vežėjai, kaip apibrėžiama 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 300/2008 dėl civilinės aviacijos saugumo bendrųjų taisyklių ir panaikinančio Reglamentą (EB) Nr. 2320/2002 [[#^s-83b4fae16f24790bbd89cde8|3 straipsnio 4 punkte]], naudojami komerciniais tikslais ^s-d206e5abd991989acf53488a
+ 2.1.1. Oro vežėjai, kaip apibrėžiama 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 300/2008 dėl civilinės aviacijos saugumo bendrųjų taisyklių ir panaikinančio [Reglamentą (EB) Nr. 2320/2002 3 straipsnio](https://eur-lex.europa.eu/eli/reg/2320/2002/art_3/oj) 4 punkte, naudojami komerciniais tikslais ^s-d206e5abd991989acf53488a
 
 
- 2.1.2. Oro uostas, įskaitant 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 1315/2013 dėl Sąjungos transeuropinio transporto tinklo plėtros gairių, kuriuo panaikinamas Sprendimas Nr. 661/2010/ES, II priedo 2 skirsnyje išvardytus pagrindinius oro uostus, ir oro uostą valdančios įmonės vadovas Subjektai, eksploatuojantys oro uostuose esančius pagalbinius įrenginius ^s-29321bbbe86ebb0a372c3ba5
+ 2.1.2. Oro uostas, įskaitant 2013 m. gruodžio 11 d. Europos Parlamento ir Tarybos [reglamento (ES) Nr. 1315/2013](https://eur-lex.europa.eu/eli/reg/1315/2013/oj) dėl Sąjungos transeuropinio transporto tinklo plėtros gairių, kuriuo panaikinamas Sprendimas Nr. 661/2010/ES, II priedo 2 skirsnyje išvardytus pagrindinius oro uostus, ir oro uostą valdančios įmonės vadovas Subjektai, eksploatuojantys oro uostuose esančius pagalbinius įrenginius ^s-29321bbbe86ebb0a372c3ba5
 
 
  2.1.3. Skrydžių valdymo operatoriai, teikiantys skrydžių valdymo paslaugas, kaip apibrėžiama 2004 m. kovo 10 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 549/2004, nustatančio bendro Europos dangaus sukūrimo pagrindą, 2 straipsnio 1 punkte ^s-e9f9db7cca08e449a91e4150
@@ -3159,7 +3159,7 @@ SEKTORIAI, SUBSEKTORIAI IR SUBJEKTŲ KATEGORIJOS
 
 
  2.4. Kelių transportas ^s-1f62e6f81b167d020aff0abd
- 2.4.1. Kelių direkcijos, kaip apibrėžiama 2014 m. gruodžio 18 d. Komisijos deleguotojo reglamento (ES) Nr. 2015/962, kuriuo papildomos Europos Parlamento ir Tarybos direktyvos 2010/40/ES nuostatos, susijusios su visoje Europos Sąjungoje teikiamomis tikralaikės eismo informacijos paslaugomis, 2 straipsnio 12 punkte, atsakingos už eismo valdymo kontrolę, išskyrus viešuosius subjektus, kuriems eismo valdymo arba intelektinių transporto sistemų operatoriaus veikla yra tik neesminė jų bendrosios veiklos dalis ^s-d79b1157153aa1b5deaba605
+ 2.4.1. Kelių direkcijos, kaip apibrėžiama 2014 m. gruodžio 18 d. Komisijos deleguotojo [reglamento (ES) Nr. 2015/962](https://eur-lex.europa.eu/eli/reg/2015/962/oj), kuriuo papildomos Europos Parlamento ir Tarybos direktyvos 2010/40/ES nuostatos, susijusios su visoje Europos Sąjungoje teikiamomis tikralaikės eismo informacijos paslaugomis, 2 straipsnio 12 punkte, atsakingos už eismo valdymo kontrolę, išskyrus viešuosius subjektus, kuriems eismo valdymo arba intelektinių transporto sistemų operatoriaus veikla yra tik neesminė jų bendrosios veiklos dalis ^s-d79b1157153aa1b5deaba605
 
 
  2.4.2. Intelektinių transporto sistemų operatoriai ^s-6ae017323290106b7ae6987d
@@ -3167,12 +3167,12 @@ SEKTORIAI, SUBSEKTORIAI IR SUBJEKTŲ KATEGORIJOS
 
 
  2.5. Viešasis transportas ^s-a2a974a7000c79e11682cc92
- 2.5.1. Viešųjų paslaugų operatoriai, kaip apibrėžiama Europos Parlamento ir Tarybos reglamento (EB) Nr. 1370/2007 dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančio Tarybos reglamentus (EEB) Nr. 1191/69 ir Nr. 1107/70 [[#^s-02b46441a770c7373adbd0ae|2 straipsnio]] d punkte ^s-38ad39f174785001de4d811e
+ 2.5.1. Viešųjų paslaugų operatoriai, kaip apibrėžiama Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1370/2007](https://eur-lex.europa.eu/eli/reg/1370/2007/oj) dėl keleivinio geležinkelių ir kelių transporto viešųjų paslaugų ir panaikinančio Tarybos [reglamentus (EEB) Nr. 1191/69](https://eur-lex.europa.eu/eli/reg/1191/69/oj) ir Nr. 1107/70 [[#^s-02b46441a770c7373adbd0ae|2 straipsnio]] d punkte ^s-38ad39f174785001de4d811e
 
 
  3. Bankininkystė ^s-795dccffe1556704222da052
 
- 3.1.1. Kredito įstaigos, kaip apibrėžiama 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012, [[#^s-0f9424a87442e6fec1c80e89|4 straipsnio 1 punkte]] ^s-41bdad85bd91e22dc64348ca
+ 3.1.1. Kredito įstaigos, kaip apibrėžiama 2013 m. birželio 26 d. Europos Parlamento ir Tarybos reglamento (ES) Nr. 575/2013 dėl prudencinių reikalavimų kredito įstaigoms ir investicinėms įmonėms ir kuriuo iš dalies keičiamas Reglamentas (ES) Nr. 648/2012, [[#^s-ae62cf0be7dbc93602bc73b2|4]] straipsnio 1 punkte ^s-41bdad85bd91e22dc64348ca
 
 
  4. Finansų rinkų infrastruktūros ^s-1a33b99c3f089baedbe8d5d5
@@ -3188,7 +3188,7 @@ SEKTORIAI, SUBSEKTORIAI IR SUBJEKTŲ KATEGORIJOS
  5.1.1. Asmens sveikatos priežiūros įstaigos ^s-a6d24c0041a16f6c2e6640e6
 
 
- 5.1.2. Europos Sąjungos etaloninės laboratorijos, nurodytos 2022 m. lapkričio 23 d. Europos Parlamento ir Tarybos reglamento (ES) 2022/2371 dėl didelių tarpvalstybinio pobūdžio grėsmių sveikatai, kuriuo panaikinamas Sprendimas Nr. 1082/2013/ES, [[#^s-132b36f230c4425742f7f6ac|15 straipsnyje]] ^s-49a4c8443e2bcd162f13e49e
+ 5.1.2. Europos Sąjungos etaloninės laboratorijos, nurodytos 2022 m. lapkričio 23 d. Europos Parlamento ir Tarybos [reglamento (ES) 2022/2371](https://eur-lex.europa.eu/eli/reg/2022/2371/oj) dėl didelių tarpvalstybinio pobūdžio grėsmių sveikatai, kuriuo panaikinamas Sprendimas Nr. 1082/2013/ES, [[#^s-132b36f230c4425742f7f6ac|15 straipsnyje]] ^s-49a4c8443e2bcd162f13e49e
 
 
  5.1.3. Subjektai, vykdantys vaistų (vaistinių preparatų) mokslinius tyrimus ir eksperimentinę plėtrą ^s-604f3240b5579072cadb0946
@@ -3197,7 +3197,7 @@ SEKTORIAI, SUBSEKTORIAI IR SUBJEKTŲ KATEGORIJOS
  5.1.4. Subjektai, gaminantys pagrindinius farmacijos produktus ir farmacijos preparatus, nurodytus Ekonominės veiklos rūšių klasifikatoriaus (2 redakcija) C skirsnio 21 skyriuje ^s-825100c8662b0c8f071a654e
 
 
- 5.1.5. Subjektai, gaminantys medicinos priemones, kurios laikomos ypatingos svarbos ekstremaliosios visuomenės sveikatos situacijos atveju (ypatingos svarbos medicinos priemonių ekstremaliosios visuomenės sveikatos situacijos atveju sąrašas), kaip tai suprantama pagal 2022 m. sausio 25 d. Europos Parlamento ir Tarybos reglamento (ES) 2022/123 dėl didesnio Europos vaistų agentūros vaidmens pasirengimo vaistų ir medicinos priemonių krizei ir jos valdymo srityje [[#^s-1de5d1f0a601b4686cdc085e|22 straipsnį]] ^s-5ee2d36b16ae57554f062075
+ 5.1.5. Subjektai, gaminantys medicinos priemones, kurios laikomos ypatingos svarbos ekstremaliosios visuomenės sveikatos situacijos atveju (ypatingos svarbos medicinos priemonių ekstremaliosios visuomenės sveikatos situacijos atveju sąrašas), kaip tai suprantama pagal 2022 m. sausio 25 d. Europos Parlamento ir Tarybos [reglamento (ES) 2022/123](https://eur-lex.europa.eu/eli/reg/2022/123/oj) dėl didesnio Europos vaistų agentūros vaidmens pasirengimo vaistų ir medicinos priemonių krizei ir jos valdymo srityje [[#^s-1de5d1f0a601b4686cdc085e|22 straipsnį]] ^s-5ee2d36b16ae57554f062075
 
 
  5.1.6. Subjektai, turintys didmeninio platinimo licenciją ^s-169e44d34e9cd9bd355dd4db
@@ -3254,7 +3254,7 @@ SEKTORIAI, SUBSEKTORIAI IR SUBJEKTŲ KATEGORIJOS
 
  11. Maisto produktų gamyba, maisto perdirbimas ir platinimas ^s-ab3e3f45fbb42173bd65cd8c
 
- 11.1.1. Maisto verslo įmonės, kaip apibrėžiama 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002, nustatančio maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiančio Europos maisto saugos tarnybą ir nustatančio su maisto saugos klausimais susijusias procedūras, [[#^s-4099c53b3ba18c7bb2678f80|3 straipsnio 2 punkte]], užsiimančios tik logistika ir didmeniniu platinimu, didelio masto pramonine gamyba bei perdirbimu ^s-5e7bad5641d798e5125cb6bb
+ 11.1.1. Maisto verslo įmonės, kaip apibrėžiama 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002, nustatančio maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiančio Europos maisto saugos tarnybą ir nustatančio su maisto saugos klausimais susijusias procedūras, 3 straipsnio 2 punkte, užsiimančios tik logistika ir didmeniniu platinimu, didelio masto pramonine gamyba bei perdirbimu ^s-5e7bad5641d798e5125cb6bb
 
 
 _______________
@@ -3280,7 +3280,7 @@ civilinės saugos įstatymo
 2. 2012 m. liepos 4 d. Europos Parlamento ir Tarybos direktyva 2012/18/ES dėl didelių, su pavojingomis cheminėmis medžiagomis susijusių avarijų pavojaus kontrolės, iš dalies keičianti ir vėliau panaikinanti Tarybos direktyvą 96/82/EB. ^s-af2da0549d614f7082c33679
 
 
-3. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2557 dėl ypatingos svarbos subjektų atsparumo, kuria panaikinama Tarybos direktyva 2008/114/EB. ^s-8e47b2fe2a2615bae1089f59
+3. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2022/2557](https://eur-lex.europa.eu/eli/dir/2022/2557/oj) dėl ypatingos svarbos subjektų atsparumo, kuria panaikinama Tarybos direktyva 2008/114/EB. ^s-8e47b2fe2a2615bae1089f59
 _______________“.
 
 
@@ -3305,8 +3305,8 @@ Nr. IX-1674, 2003-07-01, Žin., 2003, Nr. 73-3351 (2003-07-23)
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-2001, 2004-02-05, Žin., 2004, Nr. 28-872 (2004-02-21)
-[[#^s-a4b26ed5b45079cf26f221c0|CIVILINĖS SAUGOS ĮSTATYMO 2, 3, 6, 7, 9, 10, 12, 13, 14, 15, 19, 20, 21, 22, 25, 28, 29, 30, 31, 32, 33, 34, 35, 38, 39 IR 42 STRAIPSNIŲ]], AŠTUNTOJO SKIRSNIO PAVADINIMO PAKEITIMO, [[#^s-67bd48ab8bbef076e4a931c2|27 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS IR ĮSTATYMO PAPILDYMO 30(1) STRAIPSNIU ĮSTATYMAS
-Šio Įstatymo [[#^s-c158fc579c8f89287aa69090|2 straipsnio 1 dalis]], 4, 5, 11 ir [[#^s-8c82bd9e8971d007b87805f5|24 straipsniai]] įsigalioja nuo 2004 m. balandžio 1 d.
+CIVILINĖS SAUGOS ĮSTATYMO [[#^s-02b46441a770c7373adbd0ae|2]], [[#^s-025921a14e09725a4518bce0|3]], [[#^s-76a272ffda8af4db488e5a0b|6]], [[#^s-ab2831fc4961bf151e6cf5c9|7]], [[#^s-1c055a78e9a1498fbcf6e25b|9]], [[#^s-85b96bb0e5754021dbd6bf7c|10]], [[#^s-243f795a8b4338a3cd0aa969|12]], [[#^s-4e5c8a48821e5daaf280403b|13]], [[#^s-f1c4f5e915a2c10ddefdc8f1|14]], [[#^s-132b36f230c4425742f7f6ac|15]], [[#^s-dcd47e09656ca43efc4a4555|19]], [[#^s-8161b87235b3d1ca15389d25|20]], [[#^s-6b3ede49a910dcf1ea0bea24|21]], [[#^s-1de5d1f0a601b4686cdc085e|22]], [[#^s-9cd16d5d47420efc514646b3|25]], [[#^s-6d274b7e9d327496437cadc9|28]], [[#^s-6aa6c237cec1049384bf2352|29]], [[#^s-a1b7d2fd426d9176f6fb3908|30]], [[#^s-9f1ca2bf4ca3078b0ad43d06|31]], [[#^s-69148d50cc0eccb405f1338c|32]], [[#^s-7fcdf4c2f457297124471f81|33]], [[#^s-b2efc7e1866107a3d6e109e5|34]], [[#^s-4bb33ad5ed377fdbb5c5c2d3|35]], [[#^s-ce61a8c23a223baf7cdfcdb9|38]], [[#^s-fb5ad9088973890b0eb608e0|39]] IR [[#^s-a4b26ed5b45079cf26f221c0|42]] STRAIPSNIŲ, AŠTUNTOJO SKIRSNIO PAVADINIMO PAKEITIMO, [[#^s-67bd48ab8bbef076e4a931c2|27 STRAIPSNIO]] PRIPAŽINIMO NETEKUSIU GALIOS IR ĮSTATYMO PAPILDYMO 30(1) STRAIPSNIU ĮSTATYMAS
+Šio Įstatymo [[#^s-c158fc579c8f89287aa69090|2 straipsnio 1 dalis]], [[#^s-ae62cf0be7dbc93602bc73b2|4]], [[#^s-4c5fa653da03f857532b1f5e|5]], [[#^s-ac3441ed4f7028ff59f825eb|11]] ir [[#^s-8c82bd9e8971d007b87805f5|24]] straipsniai įsigalioja nuo 2004 m. balandžio 1 d.
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3340,22 +3340,22 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1803, 2015-06-18, paskelbta TAR 2015-06-25, i. k. 2015-10143
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 2, 5, 6, 12, 14, 15, [[#^s-1de5d1f0a601b4686cdc085e|22 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 [[#^s-02b46441a770c7373adbd0ae|2]], [[#^s-4c5fa653da03f857532b1f5e|5]], [[#^s-76a272ffda8af4db488e5a0b|6]], [[#^s-243f795a8b4338a3cd0aa969|12]], [[#^s-f1c4f5e915a2c10ddefdc8f1|14]], [[#^s-132b36f230c4425742f7f6ac|15]], [[#^s-1de5d1f0a601b4686cdc085e|22]] straipsnių ir priedo pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-657, 2017-09-28, paskelbta TAR 2017-10-09, i. k. 2017-16015
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 9 ir [[#^s-a1b7d2fd426d9176f6fb3908|30 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 [[#^s-1c055a78e9a1498fbcf6e25b|9]] ir [[#^s-a1b7d2fd426d9176f6fb3908|30]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1768, 2018-12-13, paskelbta TAR 2018-12-19, i. k. 2018-20879
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 12 ir [[#^s-f1c4f5e915a2c10ddefdc8f1|14 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 [[#^s-243f795a8b4338a3cd0aa969|12]] ir [[#^s-f1c4f5e915a2c10ddefdc8f1|14]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2864, 2020-04-28, paskelbta TAR 2020-04-30, i. k. 2020-09205
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 2, 8, 9, 11, 12, 14, 22, 27, [[#^s-6d274b7e9d327496437cadc9|28 straipsnių]] pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas
+Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 [[#^s-02b46441a770c7373adbd0ae|2]], [[#^s-f424ddc082af2f7b24dba6ba|8]], [[#^s-1c055a78e9a1498fbcf6e25b|9]], [[#^s-ac3441ed4f7028ff59f825eb|11]], [[#^s-243f795a8b4338a3cd0aa969|12]], [[#^s-f1c4f5e915a2c10ddefdc8f1|14]], [[#^s-1de5d1f0a601b4686cdc085e|22]], [[#^s-67bd48ab8bbef076e4a931c2|27]], [[#^s-6d274b7e9d327496437cadc9|28]] straipsnių pakeitimo ir Įstatymo papildymo 30-1 straipsniu įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3370,12 +3370,12 @@ Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 [[#^s-1c055a78e9a1
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3340, 2020-11-05, paskelbta TAR 2020-11-18, i. k. 2020-24229
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 13, 14, [[#^s-132b36f230c4425742f7f6ac|15 straipsnių]] pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
+Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 [[#^s-4e5c8a48821e5daaf280403b|13]], [[#^s-f1c4f5e915a2c10ddefdc8f1|14]], [[#^s-132b36f230c4425742f7f6ac|15]] straipsnių pakeitimo ir Įstatymo papildymo 14-1 straipsniu įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-514, 2021-08-10, paskelbta TAR 2021-08-11, i. k. 2021-17358
-Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 2, 9, 13, 15, 17, 18, 24, 28, 31 ir [[#^s-69148d50cc0eccb405f1338c|32 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos civilinės saugos įstatymo Nr. VIII-971 [[#^s-02b46441a770c7373adbd0ae|2]], [[#^s-1c055a78e9a1498fbcf6e25b|9]], [[#^s-4e5c8a48821e5daaf280403b|13]], [[#^s-132b36f230c4425742f7f6ac|15]], [[#^s-3cd14976dc863c20f3eed88a|17]], [[#^s-7a5ff302334d10dabc2ced42|18]], [[#^s-8c82bd9e8971d007b87805f5|24]], [[#^s-6d274b7e9d327496437cadc9|28]], [[#^s-9f1ca2bf4ca3078b0ad43d06|31]] ir [[#^s-69148d50cc0eccb405f1338c|32]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3390,14 +3390,14 @@ Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2377, 2023-12-14, paskelbta TAR 2023-12-28, i. k. 2023-25629
-Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 5, 7, 34 ir [[#^s-5d52b9521808bbb23195324e|40 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 [[#^s-4c5fa653da03f857532b1f5e|5]], [[#^s-ab2831fc4961bf151e6cf5c9|7]], [[#^s-b2efc7e1866107a3d6e109e5|34]] ir [[#^s-5d52b9521808bbb23195324e|40]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3048, 2024-11-07, paskelbta TAR 2024-11-14, i. k. 2024-19817
-Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 1, 2, 7, 9, 11, 12, 13, 18, 21, 22, 23, 28, 36, [[#^s-a37895b0c2f422f2643f248c|52 straipsnių]], priedo pakeitimo ir Įstatymo papildymo VI-1 skyriumi ir nauju 1 priedu įstatymas
+Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 [[#^s-2cdc91dcc978bee1adcb1aeb|1]], [[#^s-02b46441a770c7373adbd0ae|2]], [[#^s-ab2831fc4961bf151e6cf5c9|7]], [[#^s-1c055a78e9a1498fbcf6e25b|9]], [[#^s-ac3441ed4f7028ff59f825eb|11]], [[#^s-243f795a8b4338a3cd0aa969|12]], [[#^s-4e5c8a48821e5daaf280403b|13]], [[#^s-7a5ff302334d10dabc2ced42|18]], [[#^s-6b3ede49a910dcf1ea0bea24|21]], [[#^s-1de5d1f0a601b4686cdc085e|22]], [[#^s-bbb9402105062e9bb3c7ce47|23]], [[#^s-6d274b7e9d327496437cadc9|28]], [[#^s-b262ab512f2ba410e173e67c|36]], [[#^s-a37895b0c2f422f2643f248c|52]] straipsnių, priedo pakeitimo ir Įstatymo papildymo VI-1 skyriumi ir nauju 1 priedu įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1002, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11088
-Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 2, 3, 4, 7, 9, 11, 12, 13, 14, 16, 17, 18, 19, 21, 22, 23, 24, 25, 28, 29, 32, 33, 34, 37, 38 ir [[#^s-1e033c7afcb29ebe86801b2d|47 straipsnių]] pakeitimo ir Įstatymo papildymo 16-1 ir 31-1 straipsniais įstatymas
+Lietuvos Respublikos krizių valdymo ir civilinės saugos įstatymo Nr. VIII-971 [[#^s-02b46441a770c7373adbd0ae|2]], [[#^s-025921a14e09725a4518bce0|3]], [[#^s-ae62cf0be7dbc93602bc73b2|4]], [[#^s-ab2831fc4961bf151e6cf5c9|7]], [[#^s-1c055a78e9a1498fbcf6e25b|9]], [[#^s-ac3441ed4f7028ff59f825eb|11]], [[#^s-243f795a8b4338a3cd0aa969|12]], [[#^s-4e5c8a48821e5daaf280403b|13]], [[#^s-f1c4f5e915a2c10ddefdc8f1|14]], [[#^s-727d1eec460ac6c4fd096ea7|16]], [[#^s-3cd14976dc863c20f3eed88a|17]], [[#^s-7a5ff302334d10dabc2ced42|18]], [[#^s-dcd47e09656ca43efc4a4555|19]], [[#^s-6b3ede49a910dcf1ea0bea24|21]], [[#^s-1de5d1f0a601b4686cdc085e|22]], [[#^s-bbb9402105062e9bb3c7ce47|23]], [[#^s-8c82bd9e8971d007b87805f5|24]], [[#^s-9cd16d5d47420efc514646b3|25]], [[#^s-6d274b7e9d327496437cadc9|28]], [[#^s-6aa6c237cec1049384bf2352|29]], [[#^s-69148d50cc0eccb405f1338c|32]], [[#^s-7fcdf4c2f457297124471f81|33]], [[#^s-b2efc7e1866107a3d6e109e5|34]], [[#^s-869a6702b6d035b3b870e82e|37]], [[#^s-ce61a8c23a223baf7cdfcdb9|38]] ir [[#^s-1e033c7afcb29ebe86801b2d|47]] straipsnių pakeitimo ir Įstatymo papildymo 16-1 ir 31-1 straipsniais įstatymas

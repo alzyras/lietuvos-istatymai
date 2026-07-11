@@ -108,7 +108,7 @@ Vilnius
 91 straipsnio 3 dalyje vietoj skaičių „1–4“ įrašyti skaičius „1–5“, dalį papildyti [[#^s-1e8b329dbb845b12d02f648d|5 punktu]] ir ją išdėstyti taip:
 
 
-„3. Šio straipsnio 2 dalyje nurodytam PVM mokėtojui grąžinamo PVM skirtumo likučio dalis negali būti didesnė už šios dalies 1–[[#^s-1e8b329dbb845b12d02f648d|5 punktuose]] nurodytą sumą:
+„3. Šio straipsnio 2 dalyje nurodytam PVM mokėtojui grąžinamo PVM skirtumo likučio dalis negali būti didesnė už šios dalies [[#^s-fa3cc6eac9c1bec73884b402|1]]–[[#^s-1e8b329dbb845b12d02f648d|5]] punktuose nurodytą sumą:
 
 
 1) sąlyginę 18 procentų PVM sumą, apskaičiuotą nuo to mokestinio laikotarpio PVM deklaracijoje deklaruotos apmokestinamosios vertės prekių ir paslaugų, kurioms pritaikytas 0 procentų PVM tarifas, ir ^s-fa3cc6eac9c1bec73884b402

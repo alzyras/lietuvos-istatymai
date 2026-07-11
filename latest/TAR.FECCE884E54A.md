@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 55 straipsnio 1 ir 2 dalių pakeitimas ^s-9521cd0828bf5f305424caea
 
 
-Pakeisti 55 straipsnio 1 ir [[#^s-6c4345a44a84e7d5561b6378|2 dalis]] ir jas išdėstyti taip:
+Pakeisti 55 straipsnio 1 ir 2 dalis ir jas išdėstyti taip:
 
 
 „1. Iš valstybės biudžeto finansuojamų biomedicininių ir visuomenės sveikatos tyrimų prioritetus nustato, tyrimus užsako, finansuoja ir jų kontrolę vykdo Sveikatos apsaugos ministerija. Biomedicininių ir visuomenės sveikatos tyrimų užsakovais gali būti ir kiti šiuos tyrimus inicijuojantys, finansuojantys, kontroliuojantys ir atsakingi už biomedicininio tyrimo vykdymą, jo pasekmes bei duomenų paskelbimą juridiniai, fiziniai asmenys ir įmonės, neturinčios juridinio asmens teisių.

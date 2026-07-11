@@ -49,13 +49,13 @@ Vilnius
 ### 2 straipsnis. 2 straipsnio 1 ir 2 dalių pakeitimas ^s-0e2cb942d0fdf084f391ff22
 
 
-1. [[#^s-8ae6e6413ed02a42155d7873|2 straipsnio 1 dalyje]] vietoj žodžių „savivaldybių tarnautojų“ įrašyti žodžius „valstybės tarnautojų“ ir šią dalį išdėstyti taip: ^s-8ae6e6413ed02a42155d7873
+1. 2 straipsnio 1 dalyje vietoj žodžių „savivaldybių tarnautojų“ įrašyti žodžius „valstybės tarnautojų“ ir šią dalį išdėstyti taip: ^s-8ae6e6413ed02a42155d7873
 
 
 „1. Savivaldybių tarybos gali sudaryti savivaldybių visuomenines administracinių ginčų komisijas su sprendžiamojo balso teise. Išskyrus išimtis, kurias nustato [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] arba kiti įstatymai, savivaldybių visuomeninės administracinių ginčų komisijos ikiteismine tvarka nagrinėja asmenų skundus dėl savivaldybių viešojo administravimo subjektų priimtų individualių administracinių aktų arba valstybės tarnautojų veiksmų (neveikimo).“
 
 
-2. [[#^s-040ba95b9f0c6a25f757c30c|2 straipsnio 2 dalyje]] išbraukti žodžius „arba savivaldybės“ ir šią dalį išdėstyti taip: ^s-040ba95b9f0c6a25f757c30c
+2. 2 straipsnio 2 dalyje išbraukti žodžius „arba savivaldybės“ ir šią dalį išdėstyti taip: ^s-040ba95b9f0c6a25f757c30c
 
 
 „2. Skundams (prašymams) dėl priimtų individualių administracinių aktų ar valstybės tarnautojų veiksmų (neveikimo) viešojo administravimo srityje ikiteismine tvarka nagrinėti steigiamos apskričių administracinių ginčų komisijos ir Vyriausioji administracinių ginčų komisija.“

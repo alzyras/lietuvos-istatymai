@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo pakeitimų ratifikavimas ^s-d45643c2489c975f70928be0
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. gruodžio 17 d. dekretą Nr. 323, ratifikuoja Monrealio protokolo pakeitimą, priimtą devintajame šalių susitikime, įvykusiame Monrealyje 1997 m. rugsėjo 15–17 d., ir Monrealio protokolo pakeitimą, priimtą vienuoliktajame šalių susitikime, įvykusiame Pekine 1999 m. lapkričio 29–gruodžio 3 dienomis.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. gruodžio 17 d. dekretą Nr. 323](https://e-tar.lt/portal/lt/legalAct/TAR.2A196AEB43A9), ratifikuoja Monrealio protokolo pakeitimą, priimtą devintajame šalių susitikime, įvykusiame Monrealyje 1997 m. rugsėjo 15–17 d., ir Monrealio protokolo pakeitimą, priimtą vienuoliktajame šalių susitikime, įvykusiame Pekine 1999 m. lapkričio 29–gruodžio 3 dienomis.
 
 
 

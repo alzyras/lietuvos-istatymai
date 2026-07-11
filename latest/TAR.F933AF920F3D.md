@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis.         Ekonominių sankcijų už visuomenės sveikatos priežiūros teisės aktų pažeidimus įstatymo įgyvendinimo įstatymo pripažinimas netekusiu galios ^s-63bd725e4bc0185d22446b22
 
 
-Pripažinti netekusiu galios Lietuvos Respublikos ekonominių sankcijų už visuomenės sveikatos priežiūros teisės aktų pažeidimus įstatymo įgyvendinimo įstatymą.
+Pripažinti netekusiu galios [Lietuvos Respublikos ekonominių sankcijų už visuomenės sveikatos priežiūros teisės aktų pažeidimus įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.F0FB811ECC00) įgyvendinimo įstatymą.
 
 
 

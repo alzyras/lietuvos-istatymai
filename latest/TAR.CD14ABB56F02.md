@@ -50,7 +50,7 @@ Pakeisti 3 straipsnio 4 dalį ir ją išdėstyti taip:
 ### 2 straipsnis. 4 straipsnio pakeitimas ir papildymas ^s-9757b9eb39a0faf848d03b95
 
 
-Pakeisti [[#^s-f20a3fffef016f84be62e792|4 straipsnio 1 dalį]], papildyti straipsnį naujomis 2 ir [[#^s-0cc46326eed55b0890a0135b|3 dalimis]], buvusią [[#^s-0aac43e12a7acf43403b1115|2 dalį]] laikyti [[#^s-3d50ee7b7b9f30e33656a221|4 dalimi]] ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-f20a3fffef016f84be62e792|4 straipsnio 1 dalį]], papildyti straipsnį naujomis [[#^s-b1429c506ded7bbd5fccf766|2]] ir 3 dalimis, buvusią [[#^s-0aac43e12a7acf43403b1115|2 dalį]] laikyti [[#^s-3d50ee7b7b9f30e33656a221|4 dalimi]] ir visą straipsnį išdėstyti taip:
 
 
 
@@ -60,7 +60,7 @@ Pakeisti [[#^s-f20a3fffef016f84be62e792|4 straipsnio 1 dalį]], papildyti straip
 1. Ligos ir motinystės socialiniu draudimu, kai draudžiama ligos, profesinės reabilitacijos, motinystės, tėvystės ir motinystės (tėvystės) socialinio draudimo pašalpoms, privalomai draudžiami [[latest/TAR.0F9036415DBD#^s-93a3ee30cc77f6b9a09f2c88|Valstybinio socialinio draudimo įstatymo 4 straipsnio 1 dalyje]] nurodyti asmenys. ^s-a63461dda60c65a82a73da38
 
 
-2. Ligos ir motinystės socialiniu draudimu, kai draudžiama motinystės, tėvystės ir motinystės (tėvystės) socialinio draudimo pašalpoms, privalomai draudžiami [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Valstybinio socialinio draudimo įstatymo 4 straipsnio]] 3 ir 5 dalyse nurodyti asmenys, išskyrus asmenis, kurie gauna pajamas pagal autorines sutartis. ^s-0aac43e12a7acf43403b1115
+2. Ligos ir motinystės socialiniu draudimu, kai draudžiama motinystės, tėvystės ir motinystės (tėvystės) socialinio draudimo pašalpoms, privalomai draudžiami [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Valstybinio socialinio draudimo įstatymo 4 straipsnio]] [[latest/TAR.0F9036415DBD#^s-dcd65a1da4844dfdb1550380|3]] ir [[latest/TAR.0F9036415DBD#^s-ce9997d122a5061eec549d34|5]] dalyse nurodyti asmenys, išskyrus asmenis, kurie gauna pajamas pagal autorines sutartis. ^s-0aac43e12a7acf43403b1115
 
 
 3. Asmenys, gaunantys pajamas pagal autorines sutartis, ligos ir motinystės socialiniu draudimu draudžiami ligos, profesinės reabilitacijos, motinytės, tėvystės ir motinytės (tėvystės) socialinio draudimo pašalpoms. ^s-0cc46326eed55b0890a0135b
@@ -106,7 +106,7 @@ Pakeisti [[#^s-f20a3fffef016f84be62e792|4 straipsnio 1 dalį]], papildyti straip
 3. Papildyti 5 straipsnį 6 dalimi: ^s-95e1cb0982453d69467b9175
 
 
-„6. Asmenys, nurodyti [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Valstybinio socialinio draudimo įstatymo 4 straipsnio]] 3 ir 5 dalyse, pateikę nėštumo ir gimdymo atostogų pažymėjimą (šio straipsnio 5 dalies 1 punktas), prilyginami asmenims, kuriems suteiktos nėštumo ir gimdymo atostogos, o pateikę vaiko gimimo liudijimą (šio straipsnio 5 dalies 2 ir 3 punktai), – asmenims, kuriems suteiktos tėvystės ar vaiko priežiūros atostogos. Šioje dalyje nurodytiems asmenims tėvystės atostogų pradžia laikoma vaiko gimimo diena, o vaiko priežiūros atostogų diena – kita diena po tėvystės atostogų ar nėštumo ir gimdymo atostogų.“
+„6. Asmenys, nurodyti [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|Valstybinio socialinio draudimo įstatymo 4 straipsnio]] [[latest/TAR.0F9036415DBD#^s-dcd65a1da4844dfdb1550380|3]] ir [[latest/TAR.0F9036415DBD#^s-ce9997d122a5061eec549d34|5]] dalyse, pateikę nėštumo ir gimdymo atostogų pažymėjimą (šio straipsnio 5 dalies 1 punktas), prilyginami asmenims, kuriems suteiktos nėštumo ir gimdymo atostogos, o pateikę vaiko gimimo liudijimą (šio straipsnio 5 dalies 2 ir 3 punktai), – asmenims, kuriems suteiktos tėvystės ar vaiko priežiūros atostogos. Šioje dalyje nurodytiems asmenims tėvystės atostogų pradžia laikoma vaiko gimimo diena, o vaiko priežiūros atostogų diena – kita diena po tėvystės atostogų ar nėštumo ir gimdymo atostogų.“
 
 
 
@@ -167,7 +167,7 @@ Pakeisti [[#^s-f20a3fffef016f84be62e792|4 straipsnio 1 dalį]], papildyti straip
 Pakeisti 16 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Teisę gauti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu turi pagal šio įstatymo [[#^s-518bcad7c74a828be6359eec|4 straipsnio]] 1–3 dalis apdrausti asmenys, kuriems suteiktos nėštumo ir gimdymo atostogos, jeigu jie iki pirmosios nėštumo ir gimdymo atostogų dienos turi ne trumpesnį kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį kaip 6 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo stažą, išskyrus šio straipsnio 2 ir 3 dalyse numatytus atvejus. Nuo 2009 m. liepos 1 d. – ne trumpesnį kaip 9 mėnesių per paskutinius 24 mėnesius, nuo 2009 m. spalio 1 d. – ne trumpesnį kaip 12 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo stažą, išskyrus šio straipsnio 2 ir 3 dalyse numatytus atvejus.“
+„1. Teisę gauti motinystės pašalpą nėštumo ir gimdymo atostogų laikotarpiu turi pagal šio įstatymo [[#^s-518bcad7c74a828be6359eec|4 straipsnio]] [[#^s-f20a3fffef016f84be62e792|1]]–3 dalis apdrausti asmenys, kuriems suteiktos nėštumo ir gimdymo atostogos, jeigu jie iki pirmosios nėštumo ir gimdymo atostogų dienos turi ne trumpesnį kaip 3 mėnesių per paskutinius 12 mėnesių arba ne trumpesnį kaip 6 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo stažą, išskyrus šio straipsnio 2 ir 3 dalyse numatytus atvejus. Nuo 2009 m. liepos 1 d. – ne trumpesnį kaip 9 mėnesių per paskutinius 24 mėnesius, nuo 2009 m. spalio 1 d. – ne trumpesnį kaip 12 mėnesių per paskutinius 24 mėnesius ligos ir motinystės socialinio draudimo stažą, išskyrus šio straipsnio 2 ir 3 dalyse numatytus atvejus.“
 
 
 
@@ -180,7 +180,7 @@ Pakeisti 181 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Teisę gauti tėvystės pašalpą turi tėvas, kuris:
 
 
-1) apdraustas pagal šio įstatymo [[#^s-518bcad7c74a828be6359eec|4 straipsnio]] 1–3 dalis; ^s-3ff192badf225b479431525a
+1) apdraustas pagal šio įstatymo [[#^s-518bcad7c74a828be6359eec|4 straipsnio]] [[#^s-f20a3fffef016f84be62e792|1]]–3 dalis; ^s-3ff192badf225b479431525a
 
 
 2) įstatymų nustatyta tvarka išleistas tėvystės atostogų, kol vaikui sueis vienas mėnuo; ^s-05055ce30e307c21d83e0a98
@@ -199,7 +199,7 @@ Pakeisti 19 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Teisę gauti motinystės (tėvystės) pašalpą turi vienas iš tėvų (įtėvių) ar globėjas, kuris:
 
 
-1) apdraustas pagal šio įstatymo [[#^s-518bcad7c74a828be6359eec|4 straipsnio]] 1–3 dalis, išskyrus atvejus, numatytus šio straipsnio 6 ir 7 dalyse; ^s-218aefd589f29ec2fa19894f
+1) apdraustas pagal šio įstatymo [[#^s-518bcad7c74a828be6359eec|4 straipsnio]] [[#^s-f20a3fffef016f84be62e792|1]]–3 dalis, išskyrus atvejus, numatytus šio straipsnio 6 ir 7 dalyse; ^s-218aefd589f29ec2fa19894f
 
 
 2) įstatymų nustatyta tvarka išleistas vaiko priežiūros atostogų, išskyrus šio įstatymo 21 straipsnio 4 dalyje numatytą atvejį; ^s-5ee6a5f8dc7d6c20bd549f0c

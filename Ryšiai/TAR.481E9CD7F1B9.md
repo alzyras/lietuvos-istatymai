@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos prekybinės laivybos įstatymo 2, 3, 4, 6, 7,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.38B0127A21E8#^s-8e633526bc909e3e1f89a64e|Lietuvos Respublikos prekybinės laivybos įstatymas]] - 2 citatos - Lietuvos Respublikos prekybinės laivybos įstatymo 3 straipsnio 2 dalies
+- [[latest/TAR.38B0127A21E8#^s-8e633526bc909e3e1f89a64e|Lietuvos Respublikos prekybinės laivybos įstatymas]] - Lietuvos Respublikos prekybinės laivybos įstatymo 3 straipsnio 2 dalis
 
 ## Šį įstatymą cituoja
 

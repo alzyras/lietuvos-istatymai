@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-c5e259ed91e21e542b335baa
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. spalio 2 d. dekretą Nr. 1K-1220, ratifikuoja Europos Sąjungos bei jos valstybių narių ir Irako Respublikos partnerystės ir bendradarbiavimo susitarimą, priimtą 2012 m. gegužės 11 d. Briuselyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. spalio 2 d. dekretą Nr. 1K-1220](https://e-tar.lt/portal/lt/legalAct/TAR.E7FBCEEB625C), ratifikuoja Europos Sąjungos bei jos valstybių narių ir Irako Respublikos partnerystės ir bendradarbiavimo susitarimą, priimtą 2012 m. gegužės 11 d. Briuselyje.
 
 
 

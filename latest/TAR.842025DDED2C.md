@@ -57,7 +57,7 @@ Vilnius
 Papildyti 5 straipsnio 4 dalį 6 punktu:
 
 
-„6) pritarti ar nepritarti reikalavimui, kad būtų nupirkti valstybei, taip pat savivaldybei nuosavybės teise priklausantys akcijų paketai, pagal sutartį perduoti privatizuoti valstybės įmonei Valstybės turto fondas, kurie suteikia mažiau kaip 1/20 visų balsų, kai Lietuvos Respublikos vertybinių popierių rinkos įstatymo nustatytais atvejais ir tvarka privalomai perkamos akcijos.“
+„6) pritarti ar nepritarti reikalavimui, kad būtų nupirkti valstybei, taip pat savivaldybei nuosavybės teise priklausantys akcijų paketai, pagal sutartį perduoti privatizuoti valstybės įmonei Valstybės turto fondas, kurie suteikia mažiau kaip 1/20 visų balsų, kai [Lietuvos Respublikos vertybinių popierių rinkos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nustatytais atvejais ir tvarka privalomai perkamos akcijos.“
 
 
 ### 3 straipsnis. 7 straipsnio 1 dalies 1 punkto pakeitimas ^s-189100932b5c40d48eac03a7

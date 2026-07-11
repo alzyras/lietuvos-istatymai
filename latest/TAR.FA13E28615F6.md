@@ -146,7 +146,7 @@ Nr. XIV-2253, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22984
 3. Jeigu duomenų tvarkymą, teikimą ir skelbimą reglamentuoja kiti įstatymai ar tarptautiniai susitarimai, reglamentuojantys intelektinės nuosavybės teisių apsaugą, šis įstatymas taikomas tiek, kiek kiti įstatymai ar tarptautiniai susitarimai nenustato kitaip. Jeigu kituose įstatymuose, reglamentuojančiuose duomenų bazių gamintojų teises, būtų nustatytas leidimas drausti pakartotinai naudoti duomenis arba duomenų pakartotinis naudojimas būtų ribojamas labiau, negu tai nustatyta šiame įstatyme, kitų įstatymų nuostatos taikomos tiek, kiek jos neprieštarauja šiam įstatymui. ^s-5d1fda5dc62d53bee819781a
 
 
-4. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamentu (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymu]] ir kitais Lietuvos Respublikos įstatymais, reglamentuojančiais asmens duomenų tvarkymą. ^s-b6d896f3ca3700bfe3d938de
+4. Asmens duomenys tvarkomi vadovaujantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymu]], [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymu]] ir kitais Lietuvos Respublikos įstatymais, reglamentuojančiais asmens duomenų tvarkymą. ^s-b6d896f3ca3700bfe3d938de
 
 
 
@@ -198,7 +198,7 @@ Nr. XIV-2253, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22984
 15. Pareiškėjas – Lietuvos Respublikos, kitų Europos Sąjungos valstybių narių, Europos ekonominės erdvės valstybių fizinis arba juridinis asmuo, juridinio asmens statuso neturintis subjektas ir (arba) jo filialas ir atstovybė. ^s-38ec15cf33cbd20d65b0e56c
 
 
-16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos Reglamente (ES) 2016/679, [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]], [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatyme]]. ^s-73e9dfefa7535bccc05c33c7
+16. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip jos apibrėžtos [Reglamente (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj), [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatyme]], [[latest/TAR.0BDFFD850A66|Viešojo administravimo įstatyme]]. ^s-73e9dfefa7535bccc05c33c7
 
 
 
@@ -385,10 +385,10 @@ DUOMENŲ PAKARTOTINIO NAUDOJIMO SĄLYGOS
 3. Pareiškėjas, pakartotinai naudodamas iš institucijos ar valstybės valdomo subjekto gautus duomenis, privalo nurodyti gautų duomenų šaltinį ir datą, kada jie buvo gauti, taip pat užtikrinti, kad nebus pažeistos kitų asmenų teisės ir teisėti interesai. Už adaptuotų, apdorotų ar kitaip perdirbtų duomenų teisingumą atsako pareiškėjas. Atsakomybė už tokių duomenų sukeltas teisines pasekmes tenka pareiškėjui. ^s-c739c5632ad3d5eba8fc37ea
 
 
-4. Kitos duomenų pakartotinio naudojimo sąlygos, negu nurodytos šio straipsnio 1, 2 ir [[#^s-c739c5632ad3d5eba8fc37ea|3 dalyse]], gali būti nustatytos tik Lietuvos Respublikos įstatymuose arba Europos Sąjungos teisės aktuose. ^s-15dba61a97caea4c965faae0
+4. Kitos duomenų pakartotinio naudojimo sąlygos, negu nurodytos šio straipsnio [[#^s-df8b7f0de45ad99a0033dcd7|1]], [[#^s-c11f883bdfbca799353e1d25|2]] ir [[#^s-c739c5632ad3d5eba8fc37ea|3]] dalyse, gali būti nustatytos tik Lietuvos Respublikos įstatymuose arba Europos Sąjungos teisės aktuose. ^s-15dba61a97caea4c965faae0
 
 
-5. Jeigu, vadovaujantis Lietuvos Respublikos įstatymais arba Europos Sąjungos teisės aktais, institucijai ar valstybės valdomam subjektui pavesta nustatyti kitas duomenų pakartotinio naudojimo sąlygas, negu nurodytos šio straipsnio 1, 2 ir [[#^s-c739c5632ad3d5eba8fc37ea|3 dalyse]], šios sąlygos negali nepagrįstai riboti duomenų pakartotinio naudojimo galimybių ir konkurencijos, taip pat neturi diskriminuoti pareiškėjų, naudojančių duomenis tam pačiam tikslui. ^s-dbde27c944347f4a75aa3768
+5. Jeigu, vadovaujantis Lietuvos Respublikos įstatymais arba Europos Sąjungos teisės aktais, institucijai ar valstybės valdomam subjektui pavesta nustatyti kitas duomenų pakartotinio naudojimo sąlygas, negu nurodytos šio straipsnio [[#^s-df8b7f0de45ad99a0033dcd7|1]], [[#^s-c11f883bdfbca799353e1d25|2]] ir [[#^s-c739c5632ad3d5eba8fc37ea|3]] dalyse, šios sąlygos negali nepagrįstai riboti duomenų pakartotinio naudojimo galimybių ir konkurencijos, taip pat neturi diskriminuoti pareiškėjų, naudojančių duomenis tam pačiam tikslui. ^s-dbde27c944347f4a75aa3768
 
 
 6. [[#^s-dbde27c944347f4a75aa3768|Šio straipsnio 5 dalyje]] nurodytu atveju institucija ar valstybės valdomas subjektas parengia specialiąsias duomenų pakartotinio naudojimo sąlygas ir jas įtraukia į sutartį, kurią duomenis teikianti institucija ar valstybės valdomas subjektas privalo sudaryti su bet kuriuo pareiškėju, kai šis kreipiasi, išskyrus įstatymų ar jais vadovaujantis priimtų kitų norminių teisės aktų nustatytas išimtis. Sudarydama šią sutartį, institucija ar valstybės valdomas subjektas neturi teisės suteikti pareiškėjui privilegijų dėl jo rasės, tautybės, lyties, socialinio statuso ir kitų ypatybių, išskyrus šio įstatymo nustatytus atvejus. Sutartimi pareiškėjui suteikiamas specialusis leidimas pakartotinai naudoti duomenis. Specialiosios duomenų pakartotinio naudojimo sąlygos skelbiamos institucijos ar valstybės valdomo subjekto interneto svetainėje. ^s-3b094dbaf9e93bf0ce7dea71
@@ -413,7 +413,7 @@ DUOMENŲ PAKARTOTINIO NAUDOJIMO SĄLYGOS
 4. Jeigu išimtinės teisės pakartotinai naudoti duomenis yra būtinos duomenims apie Lietuvos kultūros paveldą skaitmeninti, susitarimas dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo sudaromas ne ilgiau kaip 10 metų. ^s-4ff894537e9efaa92f5f8423
 
 
-5. Šio straipsnio 3 ir [[#^s-4ff894537e9efaa92f5f8423|4 dalyse]] nurodytų susitarimų dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo ir susitarimų, kuriais nesuteikiamos išimtinės teisės, tačiau kuriais apribojama pareiškėjų galimybė pakartotinai naudoti duomenis, esminės nuostatos turi būti skelbiamos viešai institucijų ir valstybės valdomų subjektų interneto svetainėse likus ne mažiau kaip 2 mėnesiams iki jų įsigaliojimo. ^s-22366a68421750c8cd26d298
+5. Šio straipsnio [[#^s-48f32644e7ed39aa583e3275|3]] ir [[#^s-4ff894537e9efaa92f5f8423|4]] dalyse nurodytų susitarimų dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo ir susitarimų, kuriais nesuteikiamos išimtinės teisės, tačiau kuriais apribojama pareiškėjų galimybė pakartotinai naudoti duomenis, esminės nuostatos turi būti skelbiamos viešai institucijų ir valstybės valdomų subjektų interneto svetainėse likus ne mažiau kaip 2 mėnesiams iki jų įsigaliojimo. ^s-22366a68421750c8cd26d298
 
 
 6. Pagal [[#^s-4ff894537e9efaa92f5f8423|šio straipsnio 4 dalies]] nuostatas sudarius susitarimą dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo, pareiškėjas privalo pateikti institucijai vieną nemokamą suskaitmenintų duomenų apie Lietuvos kultūros paveldą kopiją. Pasibaigus šio susitarimo terminui, institucija sudaro galimybę kitiems pareiškėjams šią kopiją pakartotinai naudoti. ^s-0eeaa974d2b1f5966a089938
@@ -452,7 +452,7 @@ DUOMENŲ TEIKIMAS
 5. [[#^s-da5931c3f7c91b6de6e1cb67|Šio straipsnio 3 dalies 3 punkte]] nurodytų subjektų bendros pajamos, gautos iš duomenų teikimo pakartotinai naudoti, neturi viršyti dokumentų rinkimo, rengimo, atgaminimo, platinimo, saugojimo, atsiskaitymo už intelektinės nuosavybės teises, taip pat, kai taikytina, nuasmeninimo ir konfidencialios verslo informacijos apsaugojimo sąnaudų kartu su pagrįstąja investicijų grąža. ^s-65e2de320ea07a2f10093d8b
 
 
-6. Šio straipsnio 2 ir [[#^s-69b14a57e0ac28c0f4a0e4a5|3 dalyse]] nurodytais atvejais atlyginimo už duomenų teikimą pakartotinai naudoti dydis apskaičiuojamas vadovaujantis Vyriausybės nustatyta tvarka, pagal kurią taip pat nustatomos išlaidų kategorijos, priskiriamos sąnaudoms, kurias galima įtraukti apskaičiuojant atlyginimo dydį (registro, informacinės sistemos amortizacijos, priežiūros, administravimo, darbo užmokesčio ir kitos Vyriausybės nustatytos išlaidos). ^s-a16a70d29e3a36c3cbfa95a9
+6. Šio straipsnio [[#^s-4411810a5605b070afa6bc3f|2]] ir [[#^s-69b14a57e0ac28c0f4a0e4a5|3]] dalyse nurodytais atvejais atlyginimo už duomenų teikimą pakartotinai naudoti dydis apskaičiuojamas vadovaujantis Vyriausybės nustatyta tvarka, pagal kurią taip pat nustatomos išlaidų kategorijos, priskiriamos sąnaudoms, kurias galima įtraukti apskaičiuojant atlyginimo dydį (registro, informacinės sistemos amortizacijos, priežiūros, administravimo, darbo užmokesčio ir kitos Vyriausybės nustatytos išlaidos). ^s-a16a70d29e3a36c3cbfa95a9
 
 
 7. Atlyginimo už duomenų, parengtų pagal individualius pareiškėjo poreikius pakartotinai naudoti, teikimą dydis neturi viršyti sąnaudų, patiriamų juos sisteminant, adaptuojant, apdorojant ar kitaip perdirbant, perduodant ir teikiant pareiškėjui. ^s-f7cd95237e7a1f539f846b18
@@ -571,7 +571,7 @@ DUOMENŲ RINKINIAI IR JŲ TVARKYMAS
 ### 16 straipsnis. Didelės vertės duomenų rinkiniai ^s-9c90a032b21d40bb87a12bb0
 
 
-1. Didelės vertės duomenų rinkiniais laikomi tik tie duomenų rinkiniai, kurie yra nurodyti 2022 m. gruodžio 21 d. Komisijos įgyvendinimo reglamente (ES) 2023/138, kuriuo sudaromas konkrečių didelės vertės duomenų rinkinių sąrašas ir nustatoma jų skelbimo bei pakartotinio naudojimo tvarka (toliau – Reglamentas (ES) 2023/138). Didelės vertės duomenų rinkiniai skelbiami ir pakartotinai naudojami vadovaujantis Reglamentu (ES) 2023/138. ^s-be959a395a777b6145bd3f26
+1. Didelės vertės duomenų rinkiniais laikomi tik tie duomenų rinkiniai, kurie yra nurodyti 2022 m. gruodžio 21 d. Komisijos įgyvendinimo [reglamente (ES) 2023/138](https://eur-lex.europa.eu/eli/reg/2023/138/oj), kuriuo sudaromas konkrečių didelės vertės duomenų rinkinių sąrašas ir nustatoma jų skelbimo bei pakartotinio naudojimo tvarka (toliau – [Reglamentas (ES) 2023/138](https://eur-lex.europa.eu/eli/reg/2023/138/oj)). Didelės vertės duomenų rinkiniai skelbiami ir pakartotinai naudojami vadovaujantis [Reglamentu (ES) 2023/138](https://eur-lex.europa.eu/eli/reg/2023/138/oj). ^s-be959a395a777b6145bd3f26
 Straipsnio dalies pakeitimai:
 Nr. XIV-2568, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07721
 
@@ -627,10 +627,10 @@ Pareiškėjo teisės gali būti ginamos šiais būdais:
 ### 19 straipsnis. Susitarimų dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo galiojimas ^s-cc1c7298acc530ee38aa15ea
 
 
-1. Susitarimai dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo, kurie galiojo 2013 m. liepos 17 d. ir kuriems nėra taikomos šio įstatymo [[#^s-50dd09ca31d779c3af3a9dc2|9 straipsnio]] 3 ir 4 dalyse nurodytos išimtys, galioja iki susitarimo termino pabaigos, bet ne ilgiau kaip iki 2043 m. liepos 18 d. ^s-463723a7f1e3627d21fb66f0
+1. Susitarimai dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo, kurie galiojo 2013 m. liepos 17 d. ir kuriems nėra taikomos šio įstatymo [[#^s-50dd09ca31d779c3af3a9dc2|9 straipsnio]] [[#^s-48f32644e7ed39aa583e3275|3]] ir [[#^s-4ff894537e9efaa92f5f8423|4]] dalyse nurodytos išimtys, galioja iki susitarimo termino pabaigos, bet ne ilgiau kaip iki 2043 m. liepos 18 d. ^s-463723a7f1e3627d21fb66f0
 
 
-2. Susitarimai dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo, kurie galiojo 2019 m. liepos 16 d. ir kuriems nėra taikomos šio įstatymo [[#^s-50dd09ca31d779c3af3a9dc2|9 straipsnio]] 3 ir 4 dalyse nurodytos išimtys, galioja iki susitarimo termino pabaigos, bet ne ilgiau kaip iki 2049 m. liepos 17 d. ^s-a88258d2f92cb757b57598e0
+2. Susitarimai dėl išimtinių teisių pakartotinai naudoti duomenis suteikimo, kurie galiojo 2019 m. liepos 16 d. ir kuriems nėra taikomos šio įstatymo [[#^s-50dd09ca31d779c3af3a9dc2|9 straipsnio]] [[#^s-48f32644e7ed39aa583e3275|3]] ir [[#^s-4ff894537e9efaa92f5f8423|4]] dalyse nurodytos išimtys, galioja iki susitarimo termino pabaigos, bet ne ilgiau kaip iki 2049 m. liepos 17 d. ^s-a88258d2f92cb757b57598e0
 
 
 
@@ -657,10 +657,10 @@ priedas
 
 
 
-1. 2016 m. spalio 26 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2102 dėl viešojo sektoriaus institucijų interneto svetainių ir mobiliųjų programų prieinamumo. ^s-d31ff6f75856d70261554f99
+1. 2016 m. spalio 26 d. Europos Parlamento ir Tarybos [direktyva (ES) 2016/2102](https://eur-lex.europa.eu/eli/dir/2016/2102/oj) dėl viešojo sektoriaus institucijų interneto svetainių ir mobiliųjų programų prieinamumo. ^s-d31ff6f75856d70261554f99
 
 
-2. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos direktyva (ES) 2019/1024 dėl atvirųjų duomenų ir viešojo sektoriaus informacijos pakartotinio naudojimo. ^s-a5c72dd4d359780f8397b203
+2. 2019 m. birželio 20 d. Europos Parlamento ir Tarybos [direktyva (ES) 2019/1024](https://eur-lex.europa.eu/eli/dir/2019/1024/oj) dėl atvirųjų duomenų ir viešojo sektoriaus informacijos pakartotinio naudojimo. ^s-a5c72dd4d359780f8397b203
 
 
 
@@ -715,22 +715,22 @@ Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1365, 2018-06-28, paskelbta TAR 2018-07-03, i. k. 2018-11185
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 7, 18 ir 20 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 [[#^s-f95282ce3910aa55e6e68a07|7]], [[#^s-5f2eb2da7af78b52f9ff3792|18]] ir 20 straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1590, 2018-10-25, paskelbta TAR 2018-11-12, i. k. 2018-18204
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, 2, 3, 5, 6, 7, 12, 22 straipsnių ir priedo pakeitimo įstatymas
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 [[#^s-99ae106c3f9931ba3aff2141|1]], [[#^s-0e50504b30fbe034e20fa592|2]], [[#^s-516d1a5bf0be9bebb1046375|3]], [[#^s-016732ce0818f7b8c30f0419|5]], [[#^s-7a1d374a77bf10a4698dcbb6|6]], [[#^s-f95282ce3910aa55e6e68a07|7]], [[#^s-be4917eaf507dd9059ffb4cc|12]], 22 straipsnių ir priedo pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3044, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13957
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, 2 ir [[#^s-f95282ce3910aa55e6e68a07|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 [[#^s-99ae106c3f9931ba3aff2141|1]], [[#^s-0e50504b30fbe034e20fa592|2]] ir [[#^s-f95282ce3910aa55e6e68a07|7]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2988, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12820
-Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 1, [[#^s-5f2eb2da7af78b52f9ff3792|18 straipsnių]] pakeitimo ir III skyriaus pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos teisės gauti informaciją iš valstybės ir savivaldybių institucijų ir įstaigų įstatymo Nr. VIII-1524 [[#^s-99ae106c3f9931ba3aff2141|1]], [[#^s-5f2eb2da7af78b52f9ff3792|18]] straipsnių pakeitimo ir III skyriaus pripažinimo netekusiu galios įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -750,9 +750,9 @@ Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudoji
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2253, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22984
-Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo Nr. VIII-1524 1, 2 ir [[#^s-016732ce0818f7b8c30f0419|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo Nr. VIII-1524 [[#^s-99ae106c3f9931ba3aff2141|1]], [[#^s-0e50504b30fbe034e20fa592|2]] ir [[#^s-016732ce0818f7b8c30f0419|5]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2568, 2024-04-23, paskelbta TAR 2024-04-26, i. k. 2024-07721
-Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo Nr. VIII-1524 2 ir [[#^s-9c90a032b21d40bb87a12bb0|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo Nr. VIII-1524 [[#^s-0e50504b30fbe034e20fa592|2]] ir [[#^s-9c90a032b21d40bb87a12bb0|16]] straipsnių pakeitimo įstatymas

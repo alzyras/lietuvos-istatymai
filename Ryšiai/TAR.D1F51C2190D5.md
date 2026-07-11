@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos terminų banko įstatymas"
 
 ## Šį įstatymą cituoja
 
-_Nėra._
+- [[latest/b634141067b411e7827cd63159af616c#^s-dbfea8aa05a3206a9d25a8ee|Lietuvos Respublikos terminų banko įstatymo Nr. IX-1950 4 straipsnio pakeitimo įstatymas]] - 2 citatos - 4 straipsnis

@@ -142,7 +142,7 @@ Pakeisti [[#^s-95862cba85ec21697b281c90|18 straipsnį]] ir jį išdėstyti taip:
 10. [[#^s-eac4d9fc40ff0ddb180daa61|Šio straipsnio 1 dalies 9 punkte]] nurodytu atveju gali būti naudojamos kariuomenei priskirtos stebėjimo ir kontrolės techninės priemonės bei karo laivai ir orlaiviai. Tokia kariuomenės pagalba teikiama Vyriausybės ar jos įgaliotos institucijos nustatyta tvarka kariuomenės vado įgalioto operacinio vadovavimo grandinėje esančio vado įsakymu, gavus institucijos, atsakingos už žmonių paieškos ir gelbėjimo bei teršalų jūroje likvidavimo darbų koordinavimą, vadovo ar jo įgalioto pareigūno raštišką prašymą. ^s-028d112e73aa765e0fde356b
 
 
-11. Apie šio straipsnio 2, 4, 7 ir [[#^s-2da8544bd84392fdc8246f78|8 dalyse]] nurodytą įsakymą krašto apsaugos ministras privalo nedelsdamas pranešti Respublikos Prezidentui, Vyriausybei, Seimo Pirmininkui ir Seimo Nacionalinio saugumo ir gynybos komitetui. ^s-09283c52e59a3e020c22e673
+11. Apie šio straipsnio [[#^s-d8e9470e197fb23df88b972b|2]], [[#^s-811539b5682529a8f2e0352b|4]], [[#^s-eb003b8a4715d1a5b3f85fe8|7]] ir [[#^s-2da8544bd84392fdc8246f78|8]] dalyse nurodytą įsakymą krašto apsaugos ministras privalo nedelsdamas pranešti Respublikos Prezidentui, Vyriausybei, Seimo Pirmininkui ir Seimo Nacionalinio saugumo ir gynybos komitetui. ^s-09283c52e59a3e020c22e673
 
 
 12. Šio straipsnio nurodytais atvejais teikdama pagalbą kitoms valstybės ar savivaldybių institucijoms specialiąsias priemones ir ginklus kariuomenė gali naudoti tik tiek, kiek yra būtina pagalbos tikslams pasiekti. Specialiosios priemonės ir ginklai naudojami įstatymų nustatyta tvarka.“ ^s-bb6984343aed2b3e6c0403bb
@@ -386,7 +386,7 @@ Pakeisti 59 straipsnį ir jį išdėstyti taip:
 2. Pakeisti 65 straipsnio 3 dalį ir ją išdėstyti taip: ^s-07a6499a310b8e35b6cd69d6
 
 
-„3. Krašto apsaugos ministerija organizuoja šio straipsnio 1 ir [[#^s-07a6499a310b8e35b6cd69d6|2 dalyse]] nurodytų karių sveikatinimo veiklą ir atlieka jų asmens sveikatos priežiūrą per krašto apsaugos sistemos sveikatos priežiūros institucijas ir naudodamasi kitų nacionalinės sveikatos sistemos asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis bei patarnavimais. Už juos atsiskaitoma Vyriausybės nustatyta tvarka.“
+„3. Krašto apsaugos ministerija organizuoja šio straipsnio [[#^s-13cf4c6ba504e0e857948c6d|1]] ir 2 dalyse nurodytų karių sveikatinimo veiklą ir atlieka jų asmens sveikatos priežiūrą per krašto apsaugos sistemos sveikatos priežiūros institucijas ir naudodamasi kitų nacionalinės sveikatos sistemos asmens ar visuomenės sveikatos priežiūros įstaigų teikiamomis paslaugomis bei patarnavimais. Už juos atsiskaitoma Vyriausybės nustatyta tvarka.“
 
 
 3. Pakeisti 65 straipsnio 5 dalį ir ją išdėstyti taip: ^s-674b621670bf3b37c046888e

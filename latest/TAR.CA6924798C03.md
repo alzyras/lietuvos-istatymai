@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-6ec0fba01e7340a8cb8a6c9a
-[[latest/TAR.D5496D69DF98#^s-ab93ce79b1ea8cf33fa214c3|Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo 2, 3, 6, 7, 9, 10, 11, 13, 15, 19 straipsnių]] pakeitimas ir papildymas, 18 straipsnio pripažinimas netekusiu galios bei Įstatymo papildymas nauju ketvirtuoju skirsniu
+[[latest/TAR.D5496D69DF98|Valstybės ir savivaldybių turto valdymo, naudojimo ir disponavimo juo įstatymo]] [[latest/TAR.D5496D69DF98#^s-082895c4ab6382c9c8ce8065|2]], [[latest/TAR.D5496D69DF98#^s-dc09687b67b1ee9ffcede77b|3]], [[latest/TAR.D5496D69DF98#^s-26ad6ae8605b1e4bc1f28824|6]], [[latest/TAR.D5496D69DF98#^s-0f45976d763600f7ceb08694|7]], [[latest/TAR.D5496D69DF98#^s-9914fc071dec5b58ae6a91c0|9]], [[latest/TAR.D5496D69DF98#^s-c6f347415d13d761e8cdecbd|10]], [[latest/TAR.D5496D69DF98#^s-23185da9ad0472ba5833f990|11]], [[latest/TAR.D5496D69DF98#^s-8348de8178ecd2faa1292445|13]], [[latest/TAR.D5496D69DF98#^s-afb1bac7efe126b13524b235|15]], [[latest/TAR.D5496D69DF98#^s-ab93ce79b1ea8cf33fa214c3|19]] straipsnių pakeitimas ir papildymas, 18 straipsnio pripažinimas netekusiu galios bei Įstatymo papildymas nauju ketvirtuoju skirsniu
 
 (Žin., 1998, Nr. 54-1492; 1999, Nr. 55-1772)
 
@@ -56,7 +56,7 @@ Vilnius
 „11. Turto valdytojas – valstybės valdžios ar valdymo institucija, Lietuvos bankas, valstybės įmonė, įstaiga ar organizacija arba savivaldybės taryba, patikėjimo ar nuosavybės teise valdanti, naudojanti valstybės ar savivaldybės turtą ir disponuojanti juo.“
 
 
-3. Papildyti [[#^s-95b00b411bc8148698d430f5|2 straipsnį]] 12, 13 ir [[#^s-647b97afe090c732decb3014|14 dalimis]]: ^s-776ba45beaf3d0c8d314a8e4
+3. Papildyti [[#^s-95b00b411bc8148698d430f5|2 straipsnį]] 12, 13 ir 14 dalimis: ^s-776ba45beaf3d0c8d314a8e4
 
 
 „12. Liekamosios medžiagos – tinkamos naudoti detalės, mazgai, taurieji metalai, brangakmeniai, antrinės žaliavos, statybinės ir kitos medžiagos, liekančios po numatyto likviduoti turto išardymo.
@@ -88,7 +88,7 @@ Vilnius
 ### 3 straipsnis. 6 straipsnio papildymas ir pakeitimas ^s-1bd5e74825d468c4a33b9351
 
 
-[[#^s-12e464aeb625673da94c6a27|6 straipsnį]] papildyti nauju [[#^s-f5e1d444ad7d78b9c8badced|2 punktu]], buvusius 2, 3, 4, 5 ir [[#^s-c760cd589b40f23c023056a1|6 punktus]] laikyti atitinkamai 3, 4, 5, 6 ir [[#^s-acea83f7f4412c521a1a3401|7 punktais]] ir šį straipsnį išdėstyti taip:
+[[#^s-12e464aeb625673da94c6a27|6 straipsnį]] papildyti nauju [[#^s-f5e1d444ad7d78b9c8badced|2 punktu]], buvusius 2, 3, 4, 5 ir 6 punktus laikyti atitinkamai 3, 4, 5, 6 ir 7 punktais ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-12e464aeb625673da94c6a27|6 straipsnis]]. Savivaldybių turto įgijimo būdai
@@ -196,7 +196,7 @@ Patikėjimo teise savivaldybės valdo, naudoja ir disponuoja:
 ### 9 straipsnis. 15 straipsnio papildymas 4 ir 5 dalimis ^s-1cc729e277618f3d31ff8984
 
 
-15 straipsnį papildyti 4 ir [[#^s-9573b32ba81ed5844dedad3a|5 dalimis]]:
+15 straipsnį papildyti 4 ir 5 dalimis:
 
 
 „4. Viso valstybei nuosavybės teise priklausančio turto apskaitą tvarko Vyriausybės paskirta institucija Vyriausybės nustatyta tvarka. Vyriausybė kiekvienais metais iki rugsėjo 1 d., vadovaudamasi šio įstatymo nuostatomis, privalo pateikti Seimui ataskaitą apie valstybės turtą.
@@ -231,7 +231,7 @@ Patikėjimo teise savivaldybės valdo, naudoja ir disponuoja:
 2) savivaldybių tarybos – jei abi mainų šalys yra vietos savivaldos institucijos, savivaldybės įmonės, įstaigos ar organizacijos, patikėjimo teise valdančios savivaldybių turtą. ^s-55c9b9a379037ff7432a3085
 
 
-2. Mainomas ilgalaikis ir trumpalaikis materialusis turtas įvertinamas taikant bet kokį Turto ir verslo vertinimo pagrindų įstatyme nustatytą turto vertinimo metodą. Mainomo ilgalaikio ir trumpalaikio materialiojo turto vertės skirtumas gali būti atlyginamas kitu turtu ar pinigais.“ ^s-bed20e7b913c23b46ba9b0ee
+2. Mainomas ilgalaikis ir trumpalaikis materialusis turtas įvertinamas taikant bet kokį [Turto ir verslo vertinimo pagrindų įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.278D4FD8E838) nustatytą turto vertinimo metodą. Mainomo ilgalaikio ir trumpalaikio materialiojo turto vertės skirtumas gali būti atlyginamas kitu turtu ar pinigais.“ ^s-bed20e7b913c23b46ba9b0ee
 
 
 ### 12 straipsnis. Įstatymo papildymas nauju ketvirtuoju skirsniu ^s-71810c510c294b05d141e4d3
@@ -381,7 +381,7 @@ Buvusį ketvirtąjį skirsnį „Bendrosios nuostatos“ laikyti penktuoju skirs
 
 
 ### ANTRASIS SKIRSNIS ^s-94643130dcdb8f3218206c55
-Įstatymo „Dėl valstybės valdžios bei valdymo institucijų, savivaldos institucijų, valstybės ir savivaldybių įmonių, įstaigų ir organizacijų nenaudojamo ilgalaikio materialiojo turto nurašymo“ pripažinimas netekusiu galios
+Įstatymo [„Dėl valstybės valdžios bei valdymo institucijų, savivaldos institucijų, valstybės ir savivaldybių įmonių, įstaigų ir organizacijų nenaudojamo ilgalaikio materialiojo turto nurašymo“](https://e-tar.lt/portal/lt/legalAct/TAR.03C1BFC03B69) pripažinimas netekusiu galios
 
 (Žin., 1995, Nr. 103-2296; 1997, Nr. 104-2617)
 
@@ -390,7 +390,7 @@ Buvusį ketvirtąjį skirsnį „Bendrosios nuostatos“ laikyti penktuoju skirs
 ### 1 straipsnis. Įstatymo pripažinimas netekusiais galios ^s-2cf82a228201c2e3af519053
 
 
-Nuo 2000 m. liepos 1 d. netenka galios Lietuvos Respublikos įstatymas „Dėl valstybės valdžios bei valdymo institucijų, savivaldos institucijų, valstybės ir savivaldybių įmonių, įstaigų ir organizacijų nenaudojamo ilgalaikio materialiojo turto nurašymo.“
+Nuo 2000 m. liepos 1 d. netenka galios Lietuvos Respublikos įstatymas [„Dėl valstybės valdžios bei valdymo institucijų, savivaldos institucijų, valstybės ir savivaldybių įmonių, įstaigų ir organizacijų nenaudojamo ilgalaikio materialiojo turto nurašymo.“](https://e-tar.lt/portal/lt/legalAct/TAR.03C1BFC03B69)
 
 
 

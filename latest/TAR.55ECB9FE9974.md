@@ -45,7 +45,7 @@ Vilnius
 „2. Akcinių bendrovių, kurios pagal Vertybinių popierių rinkos įstatymą laikomos atskaitingais emitentais, reglamentavimo ypatumus nustato Vertybinių popierių rinkos įstatymas.“
 
 
-2. Buvusią [[#^s-34fa5d9388a9e80a36074c08|1 straipsnio 2 dalį]] laikyti 3 dalimi. ^s-34fa5d9388a9e80a36074c08
+2. Buvusią 1 straipsnio 2 dalį laikyti 3 dalimi. ^s-34fa5d9388a9e80a36074c08
 
 
 
@@ -72,7 +72,7 @@ Vilnius
 1. Pakeisti 57 straipsnio 5 dalį ir ją išdėstyti taip: ^s-56fbbcbb2daec147eb850953
 
 
-„5. Akcininkų pirmumo teisė įsigyti bendrovės išleidžiamų akcijų ar konvertuojamųjų obligacijų gali būti atšaukta visuotinio akcininkų susirinkimo sprendimu. Visuotinis akcininkų susirinkimas gali priimti tokį sprendimą tik jeigu yra žinomas asmuo ar asmenys (tokie asmenys gali būti ir akcininkai), kuriems suteikiama teisė įsigyti bendrovės akcijų ar konvertuojamųjų obligacijų, išskyrus atvejus, kai atšaukiama pirmumo teisė įsigyti akcinės bendrovės akcijų ar konvertuojamųjų obligacijų dėl ketinimo viešai siūlyti akcijas ar konvertuojamąsias obligacijas Vertybinių popierių rinkos įstatymo nustatyta tvarka. Visuotinio akcininkų susirinkimo sprendime dėl pirmumo teisės atšaukimo, be kita ko, turi būti nurodyta:
+„5. Akcininkų pirmumo teisė įsigyti bendrovės išleidžiamų akcijų ar konvertuojamųjų obligacijų gali būti atšaukta visuotinio akcininkų susirinkimo sprendimu. Visuotinis akcininkų susirinkimas gali priimti tokį sprendimą tik jeigu yra žinomas asmuo ar asmenys (tokie asmenys gali būti ir akcininkai), kuriems suteikiama teisė įsigyti bendrovės akcijų ar konvertuojamųjų obligacijų, išskyrus atvejus, kai atšaukiama pirmumo teisė įsigyti akcinės bendrovės akcijų ar konvertuojamųjų obligacijų dėl ketinimo viešai siūlyti akcijas ar konvertuojamąsias obligacijas [Vertybinių popierių rinkos įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nustatyta tvarka. Visuotinio akcininkų susirinkimo sprendime dėl pirmumo teisės atšaukimo, be kita ko, turi būti nurodyta:
 
 
 1) pirmumo teisės atšaukimo priežastys; ^s-bb5e9abf01645bcef571f565

@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-228b0ae2b97b311eb39946e3
-[[latest/TAR.0F9036415DBD#^s-4eaeafb1cbfe6cb893f39d79|VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 3 STRAIPSNIO]] PAKEITIMO IR 20, 21 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMO PANAIKINIMAS
+[VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 3 STRAIPSNIO PAKEITIMO IR 20, 21 STRAIPSNIŲ PRIPAŽINIMO NETEKUSIAIS GALIOS ĮSTATYMO](https://e-tar.lt/portal/lt/legalAct/TAR.25194D3CC370) PANAIKINIMAS
 
 (Žin., 2000, Nr. 45-1299)
 
@@ -44,12 +44,12 @@ Vilnius
 ### 1 straipsnis.         Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 3 straipsnio pakeitimo ir 20, 21 straipsnių pripažinimo netekusiais galios įstatymo panaikinimas ^s-e4f0e24dc701e2cf9f435877
 
 
-Panaikinti [[latest/TAR.0F9036415DBD#^s-4eaeafb1cbfe6cb893f39d79|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo 3 straipsnio]] pakeitimo ir 20, 21 straipsnių pripažinimo netekusiais galios įstatymą.
+Panaikinti [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatymo]] [[#^s-1eb3a5bc46d9c5d77a2f4b6e|3 straipsnio]] pakeitimo ir [[latest/TAR.0F9036415DBD#^s-c3f2c3ddba880fbfc5a2cb3f|20]], [[latest/TAR.0F9036415DBD#^s-fa5f4e8400dcf92ed448bf58|21]] straipsnių pripažinimo netekusiais galios įstatymą.
 
 
 
 ### ANTRASIS SKIRSNIS ^s-5fb66bf2f440a383577f1364
-[[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4 STRAIPSNIŲ]] PAKEITIMO IR 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 20, 21,  22 STRAIPSNIŲ PRIPAŽINIMAS NETEKUSIAIS GALIOS
+[[latest/TAR.0F9036415DBD|LIETUVOS RESPUBLIKOS VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO]] [[latest/TAR.0F9036415DBD#^s-a83a96f2c222ff3ddd13c44a|2]], [[latest/TAR.0F9036415DBD#^s-4eaeafb1cbfe6cb893f39d79|3]], [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|4]] STRAIPSNIŲ PAKEITIMO IR 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 20, 21,  22 STRAIPSNIŲ PRIPAŽINIMAS NETEKUSIAIS GALIOS
 
 (Žin., 1991, Nr. 17-447; 1994, Nr. 88-1666, Nr. 96-1874; 1995, Nr. 59-1481,
 Nr. 89-1987; 1996, Nr. 57-1341; 1999, Nr. 32-900, Nr. 50-1599; 2000, Nr. 28-763)
@@ -79,10 +79,10 @@ Pakeisti [[#^s-ab660ac482d5c05dbac847f3|3 straipsnio 1 dalies 2 punktą]] ir jį
 ### 3 straipsnis. 4 straipsnio 1 dalies 1, 2 ir 3 punktų, 2 ir 3 dalių pakeitimas ^s-1eb3a5bc46d9c5d77a2f4b6e
 
 
-1. Pakeisti 4 straipsnio 1 dalies 1, 2 ir [[#^s-b2f703692a31daf9cafbb036|3 punktus]] ir juos išdėstyti taip: ^s-5a9d831b3c3f11ab60a816bc
+1. Pakeisti 4 straipsnio 1 dalies 1, 2 ir 3 punktus ir juos išdėstyti taip: ^s-5a9d831b3c3f11ab60a816bc
 
 
-„1) gaunantys atlyginimą už darbą asmenys: dirbantys pagal darbo sutartis, einantys narystės pagrindu renkamąsias pareigas renkamose organizacijose, dirbantys narystės pagrindu ūkinėse bendrijose, žemės ūkio bendrovėse arba kooperatinėse organizacijose, kandidatai į notarus (asesoriai), viešojo administravimo valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šios [[#^s-5a9d831b3c3f11ab60a816bc|straipsnio 1 dalies]] 3–5 punktuose);
+„1) gaunantys atlyginimą už darbą asmenys: dirbantys pagal darbo sutartis, einantys narystės pagrindu renkamąsias pareigas renkamose organizacijose, dirbantys narystės pagrindu ūkinėse bendrijose, žemės ūkio bendrovėse arba kooperatinėse organizacijose, kandidatai į notarus (asesoriai), viešojo administravimo valstybės tarnautojai (išskyrus valstybės tarnautojus, nurodytus šios straipsnio 1 dalies [[#^s-b2f703692a31daf9cafbb036|3]]–5 punktuose);
 
 
 2) valstybės politikai, Konstitucinio Teismo teisėjai, Lietuvos Aukščiausiojo Teismo teisėjai, kitų teismų teisėjai, kandidatai į teisėjus, prokuratūros pareigūnai, Lietuvos banko valdybos pirmininkas, jo pavaduotojai, valdybos nariai, Seimo ar Respublikos Prezidento paskirti valstybės institucijų ar įstaigų vadovai, kiti Seimo ar Respublikos Prezidento paskirti valstybės institucijų ar įstaigų pareigūnai, Seimo ar Respublikos Prezidento paskirti valstybinių (nuolatinių) komisijų ir tarybų, kitų valstybinių (nuolatinių) komisijų ir tarybų  pirmininkai, jų pavaduotojai ir nariai, taip pat pagal specialius įstatymus įsteigtų komisijų ar tarybų pareigūnai.  Asmenys, išvardyti šiame punkte, valstybiniu socialiniu draudimu draudžiami tuo atveju, jei jie gauna atlyginimą už darbą; ^s-ab660ac482d5c05dbac847f3

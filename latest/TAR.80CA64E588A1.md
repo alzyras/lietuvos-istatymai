@@ -328,19 +328,19 @@ Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
 
 
 
-2) administruoja 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1308/2013, kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007, su paskutiniais pakeitimais, padarytais 2017 m. balandžio 20 d. Komisijos deleguotuoju reglamentu (ES) 2017/1183, (toliau – Reglamentas (ES) Nr. 1308/2013) nustatytą žemės ūkio produktų eksporto ir importo licencijų sistemą ir žemės ūkio produktų importo tarifines kvotas, skirstomas pagal licencijas; ^s-36e7487adddb5f73ecaabbe1
+2) administruoja 2013 m. gruodžio 17 d. Europos Parlamento ir Tarybos [reglamente (ES) Nr. 1308/2013](https://eur-lex.europa.eu/eli/reg/1308/2013/oj), kuriuo nustatomas bendras žemės ūkio produktų rinkų organizavimas ir panaikinami Tarybos reglamentai (EEB) Nr. 922/72, (EEB) Nr. 234/79, (EB) Nr. 1037/2001 ir (EB) Nr. 1234/2007, su paskutiniais pakeitimais, padarytais 2017 m. balandžio 20 d. Komisijos deleguotuoju [reglamentu (ES) 2017/1183](https://eur-lex.europa.eu/eli/reg/2017/1183/oj), (toliau – [Reglamentas (ES) Nr. 1308/2013](https://eur-lex.europa.eu/eli/reg/1308/2013/oj)) nustatytą žemės ūkio produktų eksporto ir importo licencijų sistemą ir žemės ūkio produktų importo tarifines kvotas, skirstomas pagal licencijas; ^s-36e7487adddb5f73ecaabbe1
 Straipsnio punkto pakeitimai:
 Nr. XIII-3330, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22472
 
 
 
-3) administruoja pagalbos programas, kurios nustatytos Reglamente (ES) Nr. 1308/2013 ir kuriomis siekiama skatinti žemės ūkio produktų ir maisto produktų vartojimą, ir kitas Reglamente (ES) Nr. 1308/2013 nustatytais atvejais priimtas programas ar priemones, kurios apima žemės ūkio produktų pašalinimą iš rinkos arba nemokamą paskirstymą ir kuriomis siekiama stabilizuoti reikiamą žemės ūkio ir maisto sektorių; ^s-0a11c32fbbd6743d0cb0d8c9
+3) administruoja pagalbos programas, kurios nustatytos [Reglamente (ES) Nr. 1308/2013](https://eur-lex.europa.eu/eli/reg/1308/2013/oj) ir kuriomis siekiama skatinti žemės ūkio produktų ir maisto produktų vartojimą, ir kitas [Reglamente (ES) Nr. 1308/2013](https://eur-lex.europa.eu/eli/reg/1308/2013/oj) nustatytais atvejais priimtas programas ar priemones, kurios apima žemės ūkio produktų pašalinimą iš rinkos arba nemokamą paskirstymą ir kuriomis siekiama stabilizuoti reikiamą žemės ūkio ir maisto sektorių; ^s-0a11c32fbbd6743d0cb0d8c9
 Straipsnio punkto pakeitimai:
 Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
 
 
 
-4) administruoja informavimo apie žemės ūkio ir maisto produktus ir jų pardavimo skatinimo priemones, nustatytas 2014 m. spalio 22 d. Europos Parlamento ir Tarybos reglamente (ES) Nr. 1144/2014 dėl informacijos apie žemės ūkio produktus teikimo ir jų pardavimo skatinimo priemonių, įgyvendinamų vidaus rinkoje ir trečiosiose šalyse, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 3/2008; ^s-e55496a81cd6fa5a55e5ce92
+4) administruoja informavimo apie žemės ūkio ir maisto produktus ir jų pardavimo skatinimo priemones, nustatytas 2014 m. spalio 22 d. Europos Parlamento ir Tarybos [reglamente (ES) Nr. 1144/2014](https://eur-lex.europa.eu/eli/reg/1144/2014/oj) dėl informacijos apie žemės ūkio produktus teikimo ir jų pardavimo skatinimo priemonių, įgyvendinamų vidaus rinkoje ir trečiosiose šalyse, kuriuo panaikinamas Tarybos reglamentas (EB) Nr. 3/2008; ^s-e55496a81cd6fa5a55e5ce92
 Straipsnio punkto pakeitimai:
 Nr. XIII-3330, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22472
 
@@ -367,7 +367,7 @@ Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
 1) organizuoja ir administruoja žemės ūkio ir maisto produktų eksporto skatinimo priemones ir programas; ^s-8fece958ee81dfb8e3ae62e9
 
 
-2) administruoja Reglamento (ES) Nr. 1308/2013 8–21 straipsniuose nustatytas valstybės intervencijos ir paramos privačiajam sandėliavimui priemones. ^s-594fc6dee5919d8a21bb7942
+2) administruoja [Reglamento (ES) Nr. 1308/2013](https://eur-lex.europa.eu/eli/reg/1308/2013/oj) [[#^s-527a8909bbe556838bcdf036|8]]–21 straipsniuose nustatytas valstybės intervencijos ir paramos privačiajam sandėliavimui priemones. ^s-594fc6dee5919d8a21bb7942
 
 
 Papildyta straipsnio dalimi:
@@ -381,7 +381,7 @@ Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
 
 
 
-5. Įstatymų ar Vyriausybės įgaliotų įstaigų veikla atliekant šio straipsnio 32 ir [[#^s-3deb7ddedf10927c314aa1d2|41 dalyse]], šio įstatymo [[#^s-e59e2411b6d5f694428e5ab7|13 straipsnio 2 dalyje]], [[latest/TAR.AD44354DA25E#^s-0f96d37766d2793ac15c3745|Lietuvos Respublikos augalų apsaugos įstatyme nurodytas funkcijas ir valstybės įmonės Žemės ūkio duomenų centro veikla atliekant šio įstatymo 8 straipsnio 1 dalyje]], [[#^s-4ccf788da2437c22ea52063e|10 straipsnyje]] ir [[#^s-e59e2411b6d5f694428e5ab7|13 straipsnio 2 dalyje]], [[latest/TAR.8E6142CD3156#^s-45142136ee73f649eab848ca|Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo 2 straipsnio 1 dalyje]] nurodytas funkcijas finansuojama iš Žemės ūkio ministerijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų ir (arba) kitų lėšų. ^s-21698ff6126d2a2d0b7fbf98
+5. Įstatymų ar Vyriausybės įgaliotų įstaigų veikla atliekant šio straipsnio [[#^s-b65e1135822149c3893fe376|32]] ir [[#^s-3deb7ddedf10927c314aa1d2|41]] dalyse, šio įstatymo [[#^s-e59e2411b6d5f694428e5ab7|13 straipsnio 2 dalyje]], [[latest/TAR.AD44354DA25E#^s-0f96d37766d2793ac15c3745|Lietuvos Respublikos augalų apsaugos įstatyme nurodytas funkcijas ir valstybės įmonės Žemės ūkio duomenų centro veikla atliekant šio įstatymo 8 straipsnio 1 dalyje]], [[#^s-4ccf788da2437c22ea52063e|10 straipsnyje]] ir [[#^s-e59e2411b6d5f694428e5ab7|13 straipsnio 2 dalyje]], [[latest/TAR.8E6142CD3156#^s-45142136ee73f649eab848ca|Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo 2 straipsnio 1 dalyje]] nurodytas funkcijas finansuojama iš Žemės ūkio ministerijai skirtų Lietuvos Respublikos valstybės biudžeto asignavimų ir (arba) kitų lėšų. ^s-21698ff6126d2a2d0b7fbf98
 Straipsnio dalies pakeitimai:
 Nr. XIV-1296, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15625
 Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
@@ -496,7 +496,7 @@ Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
 
 
 
-8) žemės ūkio rizikos valdymo priemonės, nustatytos Reglamento (ES) 2021/2115 76 straipsnio 3 dalyje; ^s-a8906fa9b32fe04e7e42ac7d
+8) žemės ūkio rizikos valdymo priemonės, nustatytos [Reglamento (ES) 2021/2115 76 straipsnio 3 dalyje](https://eur-lex.europa.eu/eli/reg/2021/2115/art_76/par_3/oj); ^s-a8906fa9b32fe04e7e42ac7d
 Papildyta straipsnio punktu:
 Nr. XIII-3330, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22472
 Straipsnio punkto pakeitimai:
@@ -595,7 +595,7 @@ Nr. XIV-1541, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24191
 4. Institucija, atsakinga už Europos žemės ūkio fondo kaimo plėtrai išlaidų valdymą ir kontrolę, paramą iš Lietuvos Respublikos valstybės biudžeto lėšų, Europos Sąjungos fondų lėšų teikia žemės ūkio rizikos valdymo fondui. Paramą iš Lietuvos Respublikos valstybės biudžeto lėšų, Europos Sąjungos fondų lėšų žemės ūkio rizikos valdymo fondo nariui, žemės ūkio veiklos subjektui skiria žemės ūkio rizikos valdymo fondas. ^s-29f67bf4c0dc7ff4d75b99e5
 
 
-5. Parama žemės ūkio rizikos valdymo fondo nariui, žemės ūkio veiklos subjektui iš Lietuvos Respublikos valstybės biudžeto lėšų, Europos Sąjungos fondų lėšų skiriama tik tuo atveju, kai pajamų sumažėjimas viršija Reglamento (ES) 2021/2115 76 straipsnio 5 dalyje nustatytą atskiro žemės ūkio veiklos subjekto vidutinių metinių praėjusių trejų metų laikotarpio pajamų arba praėjusių penkerių metų laikotarpio vidutinių trejų metų pajamų, neįskaitant per tuos penkerius metus gautų didžiausių ir mažiausių pajamų sumų, ribą. Pajamos yra įplaukų, kurias žemės ūkio veiklos subjektas gauna iš rinkos, įskaitant bet kokios formos viešąją paramą, suma atskaičius sąnaudas. Iš žemės ūkio rizikos valdymo fondo žemės ūkio veiklos subjektui mokamomis prarastų pajamų kompensacijomis kompensuojama ne daugiau kaip 70 procentų pajamų, prarastų tais metais, kuriais žemės ūkio veiklos subjektas įgyja teisę gauti šią paramą. ^s-da7832a38b12b19ead8a249a
+5. Parama žemės ūkio rizikos valdymo fondo nariui, žemės ūkio veiklos subjektui iš Lietuvos Respublikos valstybės biudžeto lėšų, Europos Sąjungos fondų lėšų skiriama tik tuo atveju, kai pajamų sumažėjimas viršija [Reglamento (ES) 2021/2115 76 straipsnio 5 dalyje](https://eur-lex.europa.eu/eli/reg/2021/2115/art_76/par_5/oj) nustatytą atskiro žemės ūkio veiklos subjekto vidutinių metinių praėjusių trejų metų laikotarpio pajamų arba praėjusių penkerių metų laikotarpio vidutinių trejų metų pajamų, neįskaitant per tuos penkerius metus gautų didžiausių ir mažiausių pajamų sumų, ribą. Pajamos yra įplaukų, kurias žemės ūkio veiklos subjektas gauna iš rinkos, įskaitant bet kokios formos viešąją paramą, suma atskaičius sąnaudas. Iš žemės ūkio rizikos valdymo fondo žemės ūkio veiklos subjektui mokamomis prarastų pajamų kompensacijomis kompensuojama ne daugiau kaip 70 procentų pajamų, prarastų tais metais, kuriais žemės ūkio veiklos subjektas įgyja teisę gauti šią paramą. ^s-da7832a38b12b19ead8a249a
 Straipsnio dalies pakeitimai:
 Nr. XIV-1541, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24191
 
@@ -644,7 +644,7 @@ Nr. XV-356, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12017
 3. Fizinis asmuo, įregistravęs žemės ūkio valdą Žemės ūkio ir kaimo verslo registro informacinėje sistemoje, gali užsiimti žemės ūkio veikla nesteigdamas įmonės. ^s-1e855ef2722ecda424d74e54
 
 
-4. Žemės ūkio ir kaimo verslo registro informacinės sistemos duomenys tvarkomi siekiant užtikrinti teisingos ir išsamios informacijos apie žemės ūkio valdas kaupimą ir išsamių duomenų apie žemės ūkio valdas teikimą duomenų gavėjams. Asmens duomenys Žemės ūkio ir kaimo verslo registro informacinėje sistemoje tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų. ^s-16c4ade5717e56312fd4d5c8
+4. Žemės ūkio ir kaimo verslo registro informacinės sistemos duomenys tvarkomi siekiant užtikrinti teisingos ir išsamios informacijos apie žemės ūkio valdas kaupimą ir išsamių duomenų apie žemės ūkio valdas teikimą duomenų gavėjams. Asmens duomenys Žemės ūkio ir kaimo verslo registro informacinėje sistemoje tvarkomi laikantis 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrojo duomenų apsaugos reglamento) reikalavimų. ^s-16c4ade5717e56312fd4d5c8
 
 
 5. Žemės ūkio ir kaimo verslo registro informacinės sistemos duomenys, išskyrus asmens duomenis, yra vieši. ^s-1729f6da0f8b7c133d2f3f68
@@ -725,13 +725,13 @@ priedas
 
 
 
-1. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/128/EB, nustatanti Bendrijos veiksmų pagrindus siekiant tausiojo pesticidų naudojimo, su paskutiniais pakeitimais, padarytais 2019 m. liepos 20 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/1243. ^s-473a93740407446347fc9a2e
+1. 2009 m. spalio 21 d. Europos Parlamento ir Tarybos direktyva 2009/128/EB, nustatanti Bendrijos veiksmų pagrindus siekiant tausiojo pesticidų naudojimo, su paskutiniais pakeitimais, padarytais 2019 m. liepos 20 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/1243](https://eur-lex.europa.eu/eli/reg/2019/1243/oj). ^s-473a93740407446347fc9a2e
 
 
-2. 2013 m. vasario 5 d. Europos Tarybos ir Parlamento reglamentas (ES) Nr. 167/2013 dėl žemės ir miškų ūkio transporto priemonių patvirtinimo ir rinkos priežiūros su paskutiniais pakeitimais, padarytais 2019 m. kovo 19 d. Europos Parlamento ir Tarybos reglamentu (ES) 2019/519. ^s-ddafc8c5a8e640758df9adaf
+2. 2013 m. vasario 5 d. Europos Tarybos ir Parlamento reglamentas (ES) Nr. 167/2013 [dėl žemės ir miškų ūkio transporto priemonių patvirtinimo ir rinkos priežiūros](https://e-tar.lt/portal/lt/legalAct/5ec93300723711e5906bc3a96c765ff4) su paskutiniais pakeitimais, padarytais 2019 m. kovo 19 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2019/519](https://eur-lex.europa.eu/eli/reg/2019/519/oj). ^s-ddafc8c5a8e640758df9adaf
 
 
-3. 2021 m. gruodžio 2 d. Europos Parlamento ir Tarybos reglamentas (ES) 2021/2115, kuriuo nustatomos valstybių narių pagal bendrą žemės ūkio politiką rengtinų strateginių planų (BŽŪP strateginių planų), finansuotinų iš Europos žemės ūkio garantijų fondo (EŽŪGF) ir iš Europos žemės ūkio fondo kaimo plėtrai (EŽŪFKP), rėmimo taisyklės ir panaikinami reglamentai (ES) Nr. 1305/2013 ir (ES) Nr. 1307/2013. ^s-6053278d77bd3a419412fc59
+3. 2021 m. gruodžio 2 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2021/2115](https://eur-lex.europa.eu/eli/reg/2021/2115/oj), kuriuo nustatomos valstybių narių pagal bendrą žemės ūkio politiką rengtinų strateginių planų (BŽŪP strateginių planų), finansuotinų iš Europos žemės ūkio garantijų fondo (EŽŪGF) ir iš Europos žemės ūkio fondo kaimo plėtrai (EŽŪFKP), rėmimo taisyklės ir panaikinami [reglamentai (ES) Nr. 1305/2013](https://eur-lex.europa.eu/eli/reg/1305/2013/oj) ir (ES) Nr. 1307/2013. ^s-6053278d77bd3a419412fc59
 
 
 –––––––––––––––––––
@@ -768,7 +768,7 @@ Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr.
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1922, 2015-06-30, paskelbta TAR 2015-07-07, i. k. 2015-11097
-Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 1, 2, 3, [[#^s-6bcc4df756182a86c4165390|4 straipsnių]] pakeitimo ir Įstatymo papildymo priedu įstatymas
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 [[#^s-dc70559342c8ef094909cab3|1]], [[#^s-3f1bdee0eaf1435b60f50ac8|2]], [[#^s-17fd5568b0e6aaeba00e7060|3]], [[#^s-6bcc4df756182a86c4165390|4]] straipsnių pakeitimo ir Įstatymo papildymo priedu įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -783,42 +783,42 @@ Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr.
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1213, 2018-05-31, paskelbta TAR 2018-06-11, i. k. 2018-09726
-Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 4, 8, 11, 12, [[#^s-460969ccca5b3c4d6622b40e|13 straipsnių]] ir ketvirtojo skirsnio pavadinimo pakeitimo įstatymas
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 [[#^s-6bcc4df756182a86c4165390|4]], [[#^s-527a8909bbe556838bcdf036|8]], [[#^s-9236d55b935edb3d38f9ef5c|11]], [[#^s-095d3437cb25809dbc815570|12]], [[#^s-460969ccca5b3c4d6622b40e|13]] straipsnių ir ketvirtojo skirsnio pavadinimo pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-461, 2021-06-29, paskelbta TAR 2021-07-07, i. k. 2021-15458
-Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2 ir [[#^s-460969ccca5b3c4d6622b40e|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 [[#^s-3f1bdee0eaf1435b60f50ac8|2]] ir [[#^s-460969ccca5b3c4d6622b40e|13]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3330, 2020-10-15, paskelbta TAR 2020-10-29, i. k. 2020-22472
-Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2, 4, 7, [[#^s-cbe6f831bf2844e6faa878fe|9 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 [[#^s-3f1bdee0eaf1435b60f50ac8|2]], [[#^s-6bcc4df756182a86c4165390|4]], [[#^s-60888411f2779050dc8caf47|7]], [[#^s-cbe6f831bf2844e6faa878fe|9]] straipsnių ir priedo pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1296, 2022-06-30, paskelbta TAR 2022-07-15, i. k. 2022-15625
-Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 4, 8, 10 ir [[#^s-460969ccca5b3c4d6622b40e|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 [[#^s-6bcc4df756182a86c4165390|4]], [[#^s-527a8909bbe556838bcdf036|8]], [[#^s-4ccf788da2437c22ea52063e|10]] ir [[#^s-460969ccca5b3c4d6622b40e|13]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1541, 2022-11-17, paskelbta TAR 2022-11-29, i. k. 2022-24191
-Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 7, [[#^s-cbe6f831bf2844e6faa878fe|9 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 [[#^s-60888411f2779050dc8caf47|7]], [[#^s-cbe6f831bf2844e6faa878fe|9]] straipsnių ir priedo pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2061, 2023-06-15, paskelbta TAR 2023-06-26, i. k. 2023-12741
-Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2, 4, 7, 8 ir [[#^s-460969ccca5b3c4d6622b40e|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 [[#^s-3f1bdee0eaf1435b60f50ac8|2]], [[#^s-6bcc4df756182a86c4165390|4]], [[#^s-60888411f2779050dc8caf47|7]], [[#^s-527a8909bbe556838bcdf036|8]] ir [[#^s-460969ccca5b3c4d6622b40e|13]] straipsnių pakeitimo įstatymas
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2222, 2023-11-09, paskelbta TAR 2023-11-21, i. k. 2023-22368
-Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2, [[#^s-6bcc4df756182a86c4165390|4 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 [[#^s-3f1bdee0eaf1435b60f50ac8|2]], [[#^s-6bcc4df756182a86c4165390|4]] straipsnių ir priedo pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3115, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20197
-Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2, 3, 4, 8, 10 ir [[#^s-460969ccca5b3c4d6622b40e|13 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 [[#^s-3f1bdee0eaf1435b60f50ac8|2]], [[#^s-17fd5568b0e6aaeba00e7060|3]], [[#^s-6bcc4df756182a86c4165390|4]], [[#^s-527a8909bbe556838bcdf036|8]], [[#^s-4ccf788da2437c22ea52063e|10]] ir [[#^s-460969ccca5b3c4d6622b40e|13]] straipsnių pakeitimo įstatymas
 
 16.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -828,9 +828,9 @@ Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr.
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-356, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12017
-Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 2, 3, 4, 8, 10 ir [[#^s-460969ccca5b3c4d6622b40e|13 straipsnių]] pakeitimo [[latest/679a5830a72d11ef90b5ee8931e5ce5e|įstatymo Nr. XIV-3115]] 3, 4, 5, 6 ir [[#^s-60888411f2779050dc8caf47|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 [[#^s-3f1bdee0eaf1435b60f50ac8|2]], [[#^s-17fd5568b0e6aaeba00e7060|3]], [[#^s-6bcc4df756182a86c4165390|4]], [[#^s-527a8909bbe556838bcdf036|8]], [[#^s-4ccf788da2437c22ea52063e|10]] ir [[#^s-460969ccca5b3c4d6622b40e|13]] straipsnių pakeitimo [[latest/679a5830a72d11ef90b5ee8931e5ce5e|įstatymo Nr. XIV-3115]] [[#^s-17fd5568b0e6aaeba00e7060|3]], [[#^s-6bcc4df756182a86c4165390|4]], [[#^s-99bc90e4eb858175a3792b9a|5]], [[#^s-ce6ca7a6d8178e6697fe3b08|6]] ir [[#^s-60888411f2779050dc8caf47|7]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-423, 2025-09-18, paskelbta TAR 2025-10-01, i. k. 2025-16531
-Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 1, 2 ir [[#^s-9236d55b935edb3d38f9ef5c|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės ūkio, maisto ūkio ir kaimo plėtros įstatymo Nr. IX-987 [[#^s-dc70559342c8ef094909cab3|1]], [[#^s-3f1bdee0eaf1435b60f50ac8|2]] ir [[#^s-9236d55b935edb3d38f9ef5c|11]] straipsnių pakeitimo įstatymas

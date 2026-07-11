@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.789C6EE505FD#^s-b0f0d473d4e4f80e23395987|Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymas]] - 3 citatos - 1081010ISTA00X-1777
-- [[latest/TAR.789C6EE505FD#^s-d5c300b3bcfbe355a2e5b18e|Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymas]] - 3 citatos - 1081010ISTA00X-1777
+- [[latest/TAR.789C6EE505FD#^s-b0f0d473d4e4f80e23395987|Lietuvos Respublikos Vyriausiosios tarnybinės etikos komisijos įstatymas]] - 2 citatos - 1081010ISTA00X-1777

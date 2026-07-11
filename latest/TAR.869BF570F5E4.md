@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-50b1525ca913827138a9d6ed
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. gruodžio 8 d. dekretą Nr. 308, ratifikuoja 2003 m. birželio 5 d. Kijeve pasirašytą Lietuvos Respublikos Vyriausybės ir Ukrainos Ministrų Kabineto sutartį dėl bendradarbiavimo bei abipusės pagalbos ekstremalių situacijų prevencijos srityje ir likviduojant jų padarinius.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. gruodžio 8 d. dekretą Nr. 308](https://e-tar.lt/portal/lt/legalAct/TAR.B5909CEAD9A8), ratifikuoja 2003 m. birželio 5 d. Kijeve pasirašytą Lietuvos Respublikos Vyriausybės ir Ukrainos Ministrų Kabineto sutartį dėl bendradarbiavimo bei abipusės pagalbos ekstremalių situacijų prevencijos srityje ir likviduojant jų padarinius.
 
 
 

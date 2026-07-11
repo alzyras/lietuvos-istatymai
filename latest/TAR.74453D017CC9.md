@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-3b15463e5d9a9e11e1c0cc98
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. spalio 25 d. dekretą Nr. 106, ratifikuoja 2004 m. vasario 7 d. Miunchene pasirašytą Lietuvos Respublikos Vyriausybės ir Turkijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos pramonės srityje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. spalio 25 d. dekretą Nr. 106](https://e-tar.lt/portal/lt/legalAct/TAR.A77DA963023D), ratifikuoja 2004 m. vasario 7 d. Miunchene pasirašytą Lietuvos Respublikos Vyriausybės ir Turkijos Respublikos Vyriausybės susitarimą dėl bendradarbiavimo gynybos pramonės srityje.
 
 
 

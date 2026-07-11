@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Memorandumo ratifikavimas ^s-3be8cbe477cf558d7fa7dddb
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2001 m. balandžio 25 d. dekretą Nr. 1293, ratifikuoja Lietuvos Respublikos Vyriausybės ir Europos Tarybos savitarpio supratimo memorandumą dėl Europos Tarybos informacijos biuro Vilniuje statuso, pasirašytą 2001 m. vasario 9 d. Strasbūre.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 2 dalimi ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2001 m. balandžio 25 d. dekretą Nr. 1293](https://e-tar.lt/portal/lt/legalAct/TAR.920F2CDDCA57), ratifikuoja Lietuvos Respublikos Vyriausybės ir Europos Tarybos savitarpio supratimo memorandumą dėl Europos Tarybos informacijos biuro Vilniuje statuso, pasirašytą 2001 m. vasario 9 d. Strasbūre.
 
 
 

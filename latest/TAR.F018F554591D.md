@@ -100,7 +100,7 @@ Papildyti Įstatymą 271 straipsniu:
 ### 4 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-32277c8f23a4690b7cefbd7e
 
 
-1. Šio įstatymo 1 ir [[#^s-7c41d602cffbf56ae3dbfb4d|2 straipsniai]] įsigalioja 2009 m. sausio 1 d. ^s-09ff9aaa6231380efe5ed6fd
+1. Šio įstatymo [[#^s-391806b36ea96c47a099f10d|1]] ir [[#^s-7c41d602cffbf56ae3dbfb4d|2]] straipsniai įsigalioja 2009 m. sausio 1 d. ^s-09ff9aaa6231380efe5ed6fd
 
 
 2. Vyriausybė ar jos įgaliota institucija iki 2009 m. sausio 1 d. pakeičia Komisijos veiklą reglamentuojančius teisės aktus ir parengia naujus, šiam įstatymui įgyvendinti reikalingus teisės aktus. ^s-437ab35b098cdb9674becc24

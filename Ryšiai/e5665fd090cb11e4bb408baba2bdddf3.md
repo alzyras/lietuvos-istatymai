@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos turto arešto aktų registro įstatymo Nr. VI
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.9E28E8E2F3F3#^s-4a9cf80af221d8a9d65603f6|Lietuvos Respublikos turto arešto aktų registro įstatymas]] - 10 straipsnį 6 punktu
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9E28E8E2F3F3#^s-49bd5e60840daf8169a148c5|Lietuvos Respublikos turto arešto aktų registro įstatymas]] - Įstatymas Nr. XII-1458
-- [[latest/TAR.9E28E8E2F3F3#^s-80c22cdac7d69de42cc7c628|Lietuvos Respublikos turto arešto aktų registro įstatymas]] - Įstatymas Nr. XII-1458
+_Nėra._

@@ -14,4 +14,4 @@ pavadinimas: "Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos �
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.1559303036A8#^s-a26cbd7ba9902e0a22458ffe|Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymas]] - Įstatymas Nr. XI-1574
+- [[latest/d5acb130126c11e4adf3c8c5d7681e73#^s-65d2ca3f02bdf1745976f969|Lietuvos Respublikos Lietuvos nacionalinio radijo ir televizijos įstatymo 5 straipsnio pakeitimo įstatymo Nr. XI-1574 2 straipsnio pakeitimo įstatymas]] - 2 citatos - 2 straipsnis

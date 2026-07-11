@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos baudžiamojo proceso kodekso 77-2, 170 ir 181
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.3B8E4F16C815|Lietuvos Respublikos kriminalinės žvalgybos įstatymas]] - 6 citatos - 154
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EC588C321777#^s-3ca58ebb2d1fd08e5acc7f6c|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Įstatymas Nr. XI-2240
-- [[latest/TAR.EC588C321777#^s-6bc5ebff3ca1c5733093ca76|Lietuvos Respublikos baudžiamojo proceso kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Baudžiamojo proceso kodeksas]] - Įstatymas Nr. XI-2240
+_Nėra._

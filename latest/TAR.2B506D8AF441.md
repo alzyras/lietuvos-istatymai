@@ -75,7 +75,7 @@ Lietuvos Respublikos Vyriausybė, teikdama Lietuvos Respublikos Seimui dokumentu
 ### 2 straipsnis. 13 straipsnio papildymas ir pakeitimas ^s-4cf7c0b3e5affcfb937ed86c
 
 
-1. Papildyti 13 straipsnį nauja [[#^s-1d909a21a4faabc508e78402|1 dalimi]]: ^s-1d909a21a4faabc508e78402
+1. Papildyti 13 straipsnį nauja 1 dalimi: ^s-1d909a21a4faabc508e78402
 
 
 „Pasiūlymus steigti naujas savivaldybes, panaikinti esamas savivaldybes, nustatyti ir keisti jų teritorijų ribas ir centrus Lietuvos Respublikos Vyriausybei turi teisę teikti bendruomenės iniciatyvinė grupė ir savivaldybės taryba. Bendruomenės iniciatyvinės grupės sudarymo ir pasiūlymų teikimo tvarką nustato Lietuvos Respublikos Vyriausybė.“

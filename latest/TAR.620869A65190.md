@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-a66e15d0a04edf5ce6c497c9
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2001 m. kovo 16 d. dekretą Nr. 1245, ratifikuoja Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl bendradarbiavimo vykdant liudytojų ir nukentėjusiųjų apsaugą, pasirašytą 2000 m. kovo 17 d. Taline.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2001 m. kovo 16 d. dekretą Nr. 1245](https://e-tar.lt/portal/lt/legalAct/TAR.BB44F1CCB112), ratifikuoja Lietuvos Respublikos Vyriausybės, Estijos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės sutartį dėl bendradarbiavimo vykdant liudytojų ir nukentėjusiųjų apsaugą, pasirašytą 2000 m. kovo 17 d. Taline.
 
 
 

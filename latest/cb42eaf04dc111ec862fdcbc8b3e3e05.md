@@ -40,10 +40,10 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio pakeitimas ^s-370f9151b817cea3b4fd2121
 
 
-Pakeisti 1 straipsnio 4 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/4e4d1f00bab711eab9d9cd0c85e0b745#^s-e16a5a0c1885596424871f2e|1 straipsnio 4 dalį]] ir ją išdėstyti taip:
 
 
-„4. Pakeisti 2 straipsnio 13 dalį ir ją išdėstyti taip:
+„4. Pakeisti [[latest/4e4d1f00bab711eab9d9cd0c85e0b745|2 straipsnio 13 dalį]] ir ją išdėstyti taip:
 
 
 „13. Energetikos veikla – ekonominė veikla, apimanti energijos išteklių ar energijos žvalgymą, gavybą, perdirbimą, gamybą, laikymą, kaupimą, transportavimą, perdavimą, skirstymą, tiekimą, prekybą, rinkodarą, energetikos darbuotojų atestavimą, energetikos objektų ir įrenginių įrengimą ir (ar) eksploatavimą.“.“

@@ -37,7 +37,7 @@ Vilnius
 
 
 ### 1 straipsnis. 5 straipsnio 2 ir 3 dalių pakeitimas ^s-bf844449c0a191e8bccbe1f2
-Pakeisti [[#^s-41015c70ee072e7dc9a78d29|5 straipsnio]] 2 ir [[#^s-0f4f7e4d680fd093b88af46b|3 dalis]] ir jas išdėstyti taip:
+Pakeisti [[#^s-41015c70ee072e7dc9a78d29|5 straipsnio]] 2 ir 3 dalis ir jas išdėstyti taip:
 
 
 „2. Administracinių teismų kompetencijai nepriskiriama tirti Respublikos Prezidento, Seimo, Seimo narių, Ministro Pirmininko, Vyriausybės (kaip kolegialios institucijos), Seimo kontrolierių veiklos, Konstitucinio Teismo, Lietuvos Aukščiausiojo Teismo ir Lietuvos apeliacinio teismo teisėjų veiklos, kitų teismų teisėjų, taip pat prokurorų, tardytojų, kvotėjų ir teismo antstolių procesinių veiksmų, susijusių su teisingumo vykdymu ar bylos tyrimu.
@@ -100,7 +100,7 @@ Bendrosios kompetencijos ar specializuotas teismas turi teisę sustabdyti bylos 
 Papildyti 40 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
-„3. Įgaliotais atstovais (pagal pavedimą) teisme paprastai būna advokatai. Advokato įgaliojimai patvirtinami advokato orderiu. Kitų atstovų įgalinimai turi būti nurodyti įgaliojime, išduotame ir įformintame Civilinio kodekso ir Civilinio proceso kodekso nustatyta tvarka.“
+„3. Įgaliotais atstovais (pagal pavedimą) teisme paprastai būna advokatai. Advokato įgaliojimai patvirtinami advokato orderiu. Kitų atstovų įgalinimai turi būti nurodyti įgaliojime, išduotame ir įformintame Civilinio kodekso ir [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.“
 
 
 

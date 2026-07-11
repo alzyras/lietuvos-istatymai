@@ -43,7 +43,7 @@ Vilnius
 182 straipsnio 5 dalyje išbraukti žodį „teisėjų“ ir šią dalį išdėstyti taip:
 
 
-„5. Priežiūros komisijos nariai skatinami, jiems nustatoma atsakomybė, teikiamos socialinės ir kitos garantijos įstatymų ir kitų teisės aktų nustatyta tvarka. Priežiūros komisijos nariams už darbą mokama Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatymo nustatyta tvarka.“
+„5. Priežiūros komisijos nariai skatinami, jiems nustatoma atsakomybė, teikiamos socialinės ir kitos garantijos įstatymų ir kitų teisės aktų nustatyta tvarka. Priežiūros komisijos nariams už darbą mokama Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3) nustatyta tvarka.“
 
 
 

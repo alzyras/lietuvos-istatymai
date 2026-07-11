@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos Europos sutarties dėl teisinės pagalbos pra
 
 ## Šis įstatymas cituoja
 
-- [[latest/cfe4f4c184d111e8ae2bfd1913d66d57|Lietuvos Respublikos Europos sutarties dėl teisinės pagalbos prašymų perdavimo ratifikavimo įstatymo Nr. I-1201 2 straipsnio pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1439
+_Nėra._
 
 ## Šį įstatymą cituoja
 

@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 3 straipsnio 2 dalies pakeitimas ^s-75d25b278e9fabf4c86a0b3f
 
 
-3 straipsnio 2 dalies 3 punktą pripažinti netekusiu galios, buvusius 2 dalies 4–7 punktus laikyti atitinkamai 3–[[#^s-94fe7b0842f8efe08b40ce76|6 punktais]] ir šią dalį išdėstyti taip:
+3 straipsnio 2 dalies 3 punktą pripažinti netekusiu galios, buvusius 2 dalies 4–7 punktus laikyti atitinkamai 3–6 punktais ir šią dalį išdėstyti taip:
 
 
 „2. Šio Įstatymo nustatyta tvarka pelno mokesčio nemoka:

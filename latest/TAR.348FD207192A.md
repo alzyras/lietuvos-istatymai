@@ -42,7 +42,7 @@ Vilnius
 Pakeisti 2 straipsnio 6 dalį ir ją išdėstyti taip:
 
 
-„6. Santykiuose su kitais asmenimis naudojamuose bendrovės rašytiniuose dokumentuose, taip pat dokumentuose, pasirašytuose Elektroninio parašo įstatymo nustatyta tvarka ir perduodamuose elektroninių ryšių priemonėmis, ir bendrovės interneto svetainėje, jeigu bendrovė ją turi, turi būti Civilinio kodekso 2.44 straipsnyje nurodyta informacija.“
+„6. Santykiuose su kitais asmenimis naudojamuose bendrovės rašytiniuose dokumentuose, taip pat dokumentuose, pasirašytuose [Elektroninio parašo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.382345294FBF) nustatyta tvarka ir perduodamuose elektroninių ryšių priemonėmis, ir bendrovės interneto svetainėje, jeigu bendrovė ją turi, turi būti Civilinio kodekso 2.44 straipsnyje nurodyta informacija.“
 
 
 
@@ -289,7 +289,7 @@ Pakeisti Įstatymo priedą ir jį išdėstyti taip:
 ### 16 straipsnis. Įstatymo įsigaliojimas ^s-52bf4c42c1c9f0e1d1fbd8ea
 
 
-Šio įstatymo 1 ir [[#^s-5f4dc83c59c42d86ef12856a|5 straipsniai]] įsigalioja nuo 2007 m. sausio 1 d.
+Šio įstatymo [[#^s-ac53b94f01c6f965bbd9d322|1]] ir [[#^s-5f4dc83c59c42d86ef12856a|5]] straipsniai įsigalioja nuo 2007 m. sausio 1 d.
 
 
 

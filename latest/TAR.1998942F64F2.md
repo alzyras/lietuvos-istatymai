@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-44a27e273fc1aef936b3ed07
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1996 m. spalio 18 d. dekretą Nr.1075, ratifikuoja Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės oro susisiekimo sutartį, pasirašytą 1996 m. rugsėjo 9 d. Rygoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento [1996 m. spalio 18 d. dekretą Nr.1075](https://e-tar.lt/portal/lt/legalAct/TAR.7B3D7A47C539), ratifikuoja Lietuvos Respublikos Vyriausybės ir Latvijos Respublikos Vyriausybės oro susisiekimo sutartį, pasirašytą 1996 m. rugsėjo 9 d. Rygoje.
 
 
 

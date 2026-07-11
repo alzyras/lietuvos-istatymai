@@ -46,20 +46,20 @@ Vilnius
 3. [[latest/TAR.9F4371AB03A3#^s-da9a9a3c7cc1ba71f7835f8e|Advokatūros įstatymo 20 straipsnis]] įsigalioja nuo 2005 m. sausio 1 d. Iki [[latest/TAR.9F4371AB03A3#^s-da9a9a3c7cc1ba71f7835f8e|Advokatūros įstatymo 20 straipsnio]] įsigaliojimo verstis advokato praktika turi teisę advokatai, apsidraudę profesinę civilinę atsakomybę ne mažiau kaip penkiasdešimt tūkstančių litų. ^s-461a537387728c3903fb8455
 
 
-4. Advokatūros įstatymo 25 straipsnio 5 dalis įsigalioja nuo 2004 m. liepos 1 d. ^s-484b5ac9d15711aaff9676b4
+4. [[latest/TAR.9F4371AB03A3|Advokatūros įstatymo 25 straipsnio 5 dalis]] įsigalioja nuo 2004 m. liepos 1 d. ^s-484b5ac9d15711aaff9676b4
 
 
 
 ### 2 straipsnis.         Advokatūros įstatyme nustatytų reikalavimų, kurie nebuvo numatyti Lietuvos Respublikos advokatūros įstatyme Nr. VIII-811 advokatams bei advokatų padėjėjams, taikymas ^s-cdf1db17eb048604532103ce
 
 
-1. [[latest/TAR.9F4371AB03A3|Advokatūros įstatyme]] advokatų padėjėjams nustatyti reikalavimai, kurie nebuvo numatyti 1998 m. birželio 25 d. priimtame Lietuvos Respublikos advokatūros įstatyme Nr. VIII-811 (toliau – Įstatymas Nr. VIII-811), netaikomi asmenims, kurie įrašyti į advokatų padėjėjų sąrašą iki [[latest/TAR.9F4371AB03A3|Advokatūros įstatymo]] įsigaliojimo dienos. ^s-f6d17fcbcf35e44560e7c18e
+1. [[latest/TAR.9F4371AB03A3|Advokatūros įstatyme]] advokatų padėjėjams nustatyti reikalavimai, kurie nebuvo numatyti 1998 m. birželio 25 d. priimtame Lietuvos Respublikos advokatūros [įstatyme Nr. VIII-811](https://e-tar.lt/portal/lt/legalAct/TAR.61CD00F11D24) (toliau – [Įstatymas Nr. VIII-811](https://e-tar.lt/portal/lt/legalAct/TAR.61CD00F11D24)), netaikomi asmenims, kurie įrašyti į advokatų padėjėjų sąrašą iki [[latest/TAR.9F4371AB03A3|Advokatūros įstatymo]] įsigaliojimo dienos. ^s-f6d17fcbcf35e44560e7c18e
 
 
-2. Pagal Įstatymą Nr. VIII-811 teisėjams ir asmenims, apgynusiems socialinių mokslų teisės krypties daktaro ar habilituoto daktaro disertaciją, nustatytos lengvatinio pripažinimo advokatu sąlygos taikomos asmenims, kurie prašymus pripažinti juos advokatais yra pateikę iki [[latest/TAR.9F4371AB03A3|Advokatūros įstatymo]] įsigaliojimo dienos. ^s-25ecf3cc53c6614b76ccb2ea
+2. Pagal [Įstatymą Nr. VIII-811](https://e-tar.lt/portal/lt/legalAct/TAR.61CD00F11D24) teisėjams ir asmenims, apgynusiems socialinių mokslų teisės krypties daktaro ar habilituoto daktaro disertaciją, nustatytos lengvatinio pripažinimo advokatu sąlygos taikomos asmenims, kurie prašymus pripažinti juos advokatais yra pateikę iki [[latest/TAR.9F4371AB03A3|Advokatūros įstatymo]] įsigaliojimo dienos. ^s-25ecf3cc53c6614b76ccb2ea
 
 
-3. Buvę advokatais asmenys, išbraukti iš Praktikuojančių advokatų sąrašo Įstatymo Nr. VIII-811 24 straipsnio 1, 5 ar 6 punktuose nurodytais pagrindais, jeigu nuo išbraukimo praėjo ne daugiau kaip penkeri metai, pripažįstami advokatais netaikant [[latest/TAR.9F4371AB03A3#^s-53e4d9c7a2725ead838e1471|Advokatūros įstatymo 7 straipsnio 3 punkte]] nustatytų reikalavimų. ^s-2aaac0c375d0a48896f9aac8
+3. Buvę advokatais asmenys, išbraukti iš Praktikuojančių advokatų sąrašo [Įstatymo Nr. VIII-811](https://e-tar.lt/portal/lt/legalAct/TAR.61CD00F11D24) 24 straipsnio 1, 5 ar 6 punktuose nurodytais pagrindais, jeigu nuo išbraukimo praėjo ne daugiau kaip penkeri metai, pripažįstami advokatais netaikant [[latest/TAR.9F4371AB03A3#^s-53e4d9c7a2725ead838e1471|Advokatūros įstatymo 7 straipsnio 3 punkte]] nustatytų reikalavimų. ^s-2aaac0c375d0a48896f9aac8
 
 
 
@@ -127,28 +127,28 @@ Iki Lietuvos advokatūra priims teisės aktus, reikalingus Advokatūros įstatym
 1) [[latest/TAR.9F4371AB03A3|Lietuvos Respublikos advokatūros įstatymas]] (Žin., 1998, Nr. 64-1840); ^s-a3c23584080b83b380e7bd49
 
 
-2) [[latest/TAR.9F4371AB03A3|Lietuvos Respublikos advokatūros įstatymo]] įgyvendinimo įstatymas (Žin., 1998, Nr. 64-1841); ^s-726f966b5c68911a08fc0f14
+2) [Lietuvos Respublikos advokatūros įstatymo įgyvendinimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.0427526E68A6) (Žin., 1998, Nr. 64-1841); ^s-726f966b5c68911a08fc0f14
 
 
-3) [[latest/TAR.9F4371AB03A3#^s-c5414fc994fbef6e73a215cb|Lietuvos Respublikos advokatūros įstatymo 7, 15 straipsnių]] pakeitimo ir papildymo ir [[latest/TAR.9F4371AB03A3#^s-2e0bf3a7043bdb39fed44c4f|Advokatūros įstatymo įgyvendinimo įstatymo 5 straipsnio]] pripažinimo netekusiu galios įstatymas (Žin., 1999, Nr. 19-508); ^s-880c2db6f321d4a3d716b1fe
+3) [Lietuvos Respublikos advokatūros įstatymo 7, 15 straipsnių pakeitimo ir papildymo ir Advokatūros įstatymo įgyvendinimo įstatymo 5 straipsnio pripažinimo netekusiu galios įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.FBD4419BB1FF) (Žin., 1999, Nr. 19-508); ^s-880c2db6f321d4a3d716b1fe
 
 
-4) [[latest/TAR.9F4371AB03A3#^s-d4f58507b4764ba59c4ae570|Lietuvos Respublikos advokatūros įstatymo 7 ir 24 straipsnių]] papildymo įstatymas (Žin., 1999, Nr. 57-1830); ^s-ba4a672414d275dd4350e567
+4) [Lietuvos Respublikos advokatūros įstatymo 7 ir 24 straipsnių papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.0A287FBC8E1E) (Žin., 1999, Nr. 57-1830); ^s-ba4a672414d275dd4350e567
 
 
-5) [[latest/TAR.9F4371AB03A3#^s-ee8773d603cad1d5885fdacf|Lietuvos Respublikos advokatūros įstatymo 35 straipsnio]] pakeitimo įstatymas (Žin., 1999, Nr. 102-2923); ^s-2f71eae8d5e31893fcbc7683
+5) [Lietuvos Respublikos advokatūros įstatymo 35 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.0F7ABE2A3326) (Žin., 1999, Nr. 102-2923); ^s-2f71eae8d5e31893fcbc7683
 
 
-6) [[latest/TAR.9F4371AB03A3#^s-fef6b16c5e6e6483c8b48257|Lietuvos Respublikos advokatūros įstatymo 44 straipsnio]] papildymo įstatymas (Žin., 1999, Nr. 104-2975) ^s-d2e4e77b568e9c0ec25c4935
+6) [Lietuvos Respublikos advokatūros įstatymo 44 straipsnio papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.A494BBB16DC4) (Žin., 1999, Nr. 104-2975) ^s-d2e4e77b568e9c0ec25c4935
 
 
-7) [[latest/TAR.9F4371AB03A3#^s-9b3e43b245509ff8d782f255|Lietuvos Respublikos advokatūros įstatymo įgyvendinimo įstatymo 6 straipsnio]] pakeitimo įstatymas (Žin., 2000, Nr. 64-1925); ^s-b12a7337c00a25330ac9396f
+7) [Lietuvos Respublikos advokatūros įstatymo įgyvendinimo įstatymo 6 straipsnio pakeitimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.D1731909B054) (Žin., 2000, Nr. 64-1925); ^s-b12a7337c00a25330ac9396f
 
 
-8) [[latest/TAR.9F4371AB03A3#^s-4ccbfdec4c3df0af6d781ced|Lietuvos Respublikos advokatūros įstatymo 9 straipsnio]] papildymo įstatymas (Žin., 2000, Nr. 64-1926); ^s-47510c11cb1cbb5e8dce5196
+8) [Lietuvos Respublikos advokatūros įstatymo 9 straipsnio papildymo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.791087320B07) (Žin., 2000, Nr. 64-1926); ^s-47510c11cb1cbb5e8dce5196
 
 
-9) [[latest/TAR.9F4371AB03A3#^s-11f814bd1c453c924cc7b373|Lietuvos Respublikos advokatūros įstatymo 7 ir 18 straipsnių]] papildymo ir Įstatymo papildymo nauju dešimtuoju skirsniu įstatymas (Žin., 2001, Nr. 108-3903). ^s-57ea7904b1181ede276f628a
+9) [Lietuvos Respublikos advokatūros įstatymo 7 ir 18 straipsnių papildymo ir Įstatymo papildymo nauju dešimtuoju skirsniu įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.24B2BE7EF33B) (Žin., 2001, Nr. 108-3903). ^s-57ea7904b1181ede276f628a
 
 
 

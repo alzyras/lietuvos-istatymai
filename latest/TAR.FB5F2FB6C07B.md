@@ -112,7 +112,7 @@ Pakeisti [[#^s-0344e8a2de07349e7b17d652|4 straipsnio 3 dalį]] ir ją išdėstyt
 4. Papildyti [[#^s-f4657c537d395438e8f1d622|18 straipsnį]] nauja 9 dalimi: ^s-68631548f3a20a357477c35b
 
 
-„9. Karjeros valstybės tarnautojas šio straipsnio 1–8 dalyse nurodytais atvejais ir sąlygomis į pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.“
+„9. Karjeros valstybės tarnautojas šio straipsnio [[#^s-b17bf6e8b5ed4ddd5846a920|1]]–8 dalyse nurodytais atvejais ir sąlygomis į pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.“
 
 
 5. Buvusią 18 straipsnio 9 dalį laikyti 10 dalimi, ją pakeisti ir išdėstyti taip: ^s-5360fb1958d13e2ea7021555
@@ -131,7 +131,7 @@ Pakeisti [[#^s-0344e8a2de07349e7b17d652|4 straipsnio 3 dalį]] ir ją išdėstyt
 1. Papildyti [[#^s-e4fa27ef443da8040851282a|19 straipsnį]] nauja [[#^s-bf37766f85202b5cde0872c1|2 dalimi]]: ^s-6f2b690fddfc3ee75697e8f8
 
 
-„2. Karjeros valstybės tarnautojas į [[#^s-6f2b690fddfc3ee75697e8f8|šio straipsnio 1 dalyje]] nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.“
+„2. Karjeros valstybės tarnautojas į šio straipsnio 1 dalyje nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.“
 
 
 2. Buvusias [[#^s-e4fa27ef443da8040851282a|19 straipsnio]] 2, 3, 4, 5 dalis laikyti atitinkamai 3, 4, 5, 6 dalimis. ^s-bf37766f85202b5cde0872c1
@@ -150,7 +150,7 @@ Pakeisti [[#^s-0344e8a2de07349e7b17d652|4 straipsnio 3 dalį]] ir ją išdėstyt
 1. Papildyti 20 straipsnį 5 dalimi: ^s-8729be9ae1c090095b41dc31
 
 
-„5. Karjeros valstybės tarnautojas ir įstaigos vadovas į šio straipsnio 1, 2 ir 4 dalyse nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.“
+„5. Karjeros valstybės tarnautojas ir įstaigos vadovas į šio straipsnio 1, [[#^s-234f1c5de37296e98a534292|2]] ir 4 dalyse nurodytas pareigas, kurių pareigybės aprašyme yra nustatytas specialus reikalavimas atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant asmens patikimumo pažymėjimą arba leidimą dirbti ar susipažinti su įslaptinta informacija, perkeliamas tik tada, kai yra kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas asmens patikimumo pažymėjimas arba leidimas dirbti ar susipažinti su įslaptinta informacija.“
 
 
 2. Papildyti 20 straipsnį 6 dalimi: ^s-234f1c5de37296e98a534292
@@ -405,7 +405,7 @@ Papildyti 25 straipsnio 1 dalį 5 punktu:
 ### 13 straipsnis. 38 straipsnio pakeitimas ^s-b17c8b130473822314a8fe02
 
 
-38 straipsnio 1 ir [[#^s-f2801745e67c945ce6d2b480|2 dalyse]] išbraukti žodžius „karjeros“ ir šį straipsnį išdėstyti taip:
+38 straipsnio 1 ir 2 dalyse išbraukti žodžius „karjeros“ ir šį straipsnį išdėstyti taip:
 
 
 „38 straipsnis. Atostogos kvalifikacijai tobulinti
@@ -430,7 +430,7 @@ Papildyti 25 straipsnio 1 dalį 5 punktu:
 2. 41 straipsnio 5 dalyje po žodžio „sumos“ įrašyti žodžius „išskyrus šio straipsnio 1 dalyje nurodytą išeitinę išmoką, mokamą politinio (asmeninio) pasitikėjimo valstybės tarnautojams, ir šio straipsnio 2 dalyje nurodytą išeitinę išmoką“ ir šią dalį išdėstyti taip: ^s-50c8ae48ec25980efcbb724b
 
 
-„5. Šio Įstatymo 44 straipsnio 1, [[#^s-50c8ae48ec25980efcbb724b|2 dalyse]] nurodytais pagrindais atleidžiamam, pagal [[#^s-366ac29ed4f992010c9d1e2a|18 straipsnio 2 dalį]] ar [[#^s-e892af9054976c9049b0f3e8|20 straipsnį]] perkeliamam į kitą valstybės ar savivaldybės instituciją ar įstaigą valstybės tarnautojui jo atleidimo (perkėlimo) iš pareigų dieną išmokamos visos jam priklausančios pinigų sumos, išskyrus [[#^s-ed8859b89aced589ddbe4963|šio straipsnio 1 dalyje]] nurodytą išeitinę išmoką, mokamą politinio (asmeninio) pasitikėjimo valstybės tarnautojams, ir [[#^s-50c8ae48ec25980efcbb724b|šio straipsnio 2 dalyje]] nurodytą išeitinę išmoką.“
+„5. Šio Įstatymo 44 straipsnio 1, 2 dalyse nurodytais pagrindais atleidžiamam, pagal [[#^s-366ac29ed4f992010c9d1e2a|18 straipsnio 2 dalį]] ar [[#^s-e892af9054976c9049b0f3e8|20 straipsnį]] perkeliamam į kitą valstybės ar savivaldybės instituciją ar įstaigą valstybės tarnautojui jo atleidimo (perkėlimo) iš pareigų dieną išmokamos visos jam priklausančios pinigų sumos, išskyrus [[#^s-ed8859b89aced589ddbe4963|šio straipsnio 1 dalyje]] nurodytą išeitinę išmoką, mokamą politinio (asmeninio) pasitikėjimo valstybės tarnautojams, ir šio straipsnio 2 dalyje nurodytą išeitinę išmoką.“
 
 
 
@@ -664,7 +664,7 @@ Baziniais dydžiais
 ### 22 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-45f02edf75cf29aa0114e379
 
 
-1. Šio įstatymo 2, [[#^s-eda3141ed8879096968680f7|4 straipsniai]], [[#^s-5cce001ff3f89600715e380e|5 straipsnio]] 3 ir [[#^s-b11f7af120b0684509b55366|4 dalys]], 6, 7, 8, 9, 10, 11, 12, [[#^s-b8c85263e15a2c4d26fea83b|15 straipsniai]], [[#^s-f4fcdf143b387761db269e2f|16 straipsnio]] 1, 3 ir 5 dalys, [[#^s-401a5feee694664108bc1c04|17 straipsnis]] ir [[#^s-809c984e72055c466ba4ffb1|18 straipsnio 1 dalis]] įsigalioja nuo 2007 m. spalio 1 d. ^s-d2759d610dc3a3ccdd305090
+1. Šio įstatymo [[#^s-5f4165efad240db4d422381f|2]], [[#^s-eda3141ed8879096968680f7|4]] straipsniai, [[#^s-5cce001ff3f89600715e380e|5 straipsnio]] [[#^s-6fa54559207a994e19ba9560|3]] ir [[#^s-68631548f3a20a357477c35b|4]] dalys, [[#^s-7211d75053c7acb59da819a5|6]], [[#^s-0339f51103ae6c0144c09a55|7]], [[#^s-baa2443e716538dab6ccb763|8]], [[#^s-0a6b4d1b586ad7a7769e1748|9]], [[#^s-9c5e97864c5282b3cc94da98|10]], [[#^s-abd36c5be6324febea6163b1|11]], [[#^s-b6247c11ae648de545fb5505|12]], [[#^s-b8c85263e15a2c4d26fea83b|15]] straipsniai, [[#^s-f4fcdf143b387761db269e2f|16 straipsnio]] [[#^s-66eb2c216233e948b60ca7a5|1]], [[#^s-d26ded11af8c7aeac2f95f3f|3]] ir [[#^s-1a1301e273ba57d1300422ad|5]] dalys, [[#^s-401a5feee694664108bc1c04|17 straipsnis]] ir [[#^s-809c984e72055c466ba4ffb1|18 straipsnio 1 dalis]] įsigalioja nuo 2007 m. spalio 1 d. ^s-d2759d610dc3a3ccdd305090
 
 
 2. Šio įstatymo [[#^s-0eabe600791bf6aafe74a8d6|21 straipsnis]] įsigalioja nuo 2008 m. sausio 1 d. ^s-188b893f93cd1499dd9f9f51

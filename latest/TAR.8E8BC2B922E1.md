@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-f966b653575ca5890a02662f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. vasario 25 d. dekretą Nr. 2074, ratifikuoja su išlyga Protokolą dėl neteisėto migrantų įvežimo sausuma, jūra ir oru, papildantį Jungtinių Tautų Organizacijos Konvenciją prieš tarptautinį organizuotą nusikalstamumą, priimtą 2000 m. lapkričio 15 d. Palerme.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. vasario 25 d. dekretą Nr. 2074](https://e-tar.lt/portal/lt/legalAct/TAR.370153307B83), ratifikuoja su išlyga Protokolą dėl neteisėto migrantų įvežimo sausuma, jūra ir oru, papildantį Jungtinių Tautų Organizacijos Konvenciją prieš tarptautinį organizuotą nusikalstamumą, priimtą 2000 m. lapkričio 15 d. Palerme.
 
 
 

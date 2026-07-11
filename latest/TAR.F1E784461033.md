@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-bf25c221abaf689808ea20c3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. rugpjūčio 21 d. dekretą Nr. 185, ratifikuoja 1984 m. rugsėjo 28 d. Ženevoje priimtą 1979 m. Tolimų tarpvalstybinių oro teršalų pernašų konvencijos protokolą dėl bendradarbiavimo programos tolimų oro teršalų pernašų Europoje monitoringo ir vertinimo srityje (EMEP) ilgalaikio finansavimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. rugpjūčio 21 d. dekretą Nr. 185](https://e-tar.lt/portal/lt/legalAct/TAR.2DB4A8004BE3), ratifikuoja 1984 m. rugsėjo 28 d. Ženevoje priimtą 1979 m. Tolimų tarpvalstybinių oro teršalų pernašų konvencijos protokolą dėl bendradarbiavimo programos tolimų oro teršalų pernašų Europoje monitoringo ir vertinimo srityje (EMEP) ilgalaikio finansavimo.
 
 
 

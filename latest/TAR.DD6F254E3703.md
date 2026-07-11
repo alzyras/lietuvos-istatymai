@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-8cfe3a2eccac167672885648
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2005 m. vasario 9 d. dekretą Nr. 202, ratifikuoja 2004 m. liepos 13 d. Briuselyje pasirašytą Europos Bendrijos bei jos valstybių narių ir Izraelio Valstybės bendradarbiavimo susitarimą dėl civilinės pasaulinės palydovinės navigacijos sistemos (GNSS).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2005 m. vasario 9 d. dekretą Nr. 202](https://e-tar.lt/portal/lt/legalAct/TAR.CDB9ABAE1DFF), ratifikuoja 2004 m. liepos 13 d. Briuselyje pasirašytą Europos Bendrijos bei jos valstybių narių ir Izraelio Valstybės bendradarbiavimo susitarimą dėl civilinės pasaulinės palydovinės navigacijos sistemos (GNSS).
 
 
 

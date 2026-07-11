@@ -93,7 +93,7 @@ Pakeisti 6.366 straipsnį ir jį išdėstyti taip:
 5) dėl nekilnojamojo daikto statybos, pirkimo–pardavimo arba daiktinių teisių į nekilnojamąjį daiktą. ^s-7eaf1c5ce6cd460613a2a269
 
 
-4. Šio straipsnio 5, 6, 8, 9 ir [[#^s-428e41a7e1f4b7a154493e95|10 dalys]] ir šio kodekso 6.367 straipsnis netaikomi sutartims, kurios sudaromos: ^s-a008f11f4e6fc4cf599a8ace
+4. Šio straipsnio [[#^s-9150d01ae04e7e91d96a9e1c|5]], [[#^s-1dcea5196e49f537e6fd516a|6]], [[#^s-d49a8c107d1fdd73daabea54|8]], [[#^s-849a3adc8ac9f66ef2253b42|9]] ir [[#^s-428e41a7e1f4b7a154493e95|10]] dalys ir šio kodekso 6.367 straipsnis netaikomi sutartims, kurios sudaromos: ^s-a008f11f4e6fc4cf599a8ace
 
 
 1) dėl maisto produktų ar kitų kasdieniam vartojimui skirtų daiktų nuolatinio tiekimo į pirkėjo namus, jo gyvenamąją ar darbo vietą; ^s-8678f9877ba3b0700908433a
@@ -190,7 +190,7 @@ Pakeisti 6.366 straipsnį ir jį išdėstyti taip:
 3. Pakeisti 6.367 straipsnio 4 dalį ir ją išdėstyti taip: ^s-94c6cef7181eef5a82ab5e18
 
 
-„4. Jeigu sutarties šalys nėra susitarusios kitaip, pirkėjas neturi teisės pasinaudoti šio straipsnio 1 ir [[#^s-d32b8d93e4f0b91ab64daccc|2 dalyse]] nurodyta teise atsisakyti sutarties, jeigu sutartis buvo sudaryta dėl:
+„4. Jeigu sutarties šalys nėra susitarusios kitaip, pirkėjas neturi teisės pasinaudoti šio straipsnio [[#^s-cc2da91995b908919ee219c0|1]] ir [[#^s-d32b8d93e4f0b91ab64daccc|2]] dalyse nurodyta teise atsisakyti sutarties, jeigu sutartis buvo sudaryta dėl:
 
 
 1) garso ir (ar) vaizdo įrašų (fonogramų, audiovizualinių įrašų) bet kokiose vaizdo ar garso laikmenose, kompiuterių programų tiekimo ir pirkėjas pažeidė pakuotės apsaugas; ^s-e3244423fa106b1372660ceb
@@ -246,7 +246,7 @@ Pakeisti 6.369 straipsnį ir jį išdėstyti taip:
 9. Pirkėjui pateikiama [[#^s-87bdfaf5f56d71c20e133361|šio straipsnio 8 dalyje]] nurodyta informacija yra sudedamoji sutarties dalis ir negali būti keičiama, nebent šalys aiškiai susitartų kitaip. Pardavėjas vienašališkai pakeisti [[#^s-87bdfaf5f56d71c20e133361|šio straipsnio 8 dalyje]] nurodytą informaciją turi teisę tik tuo atveju, kai pakeitimai daromi dėl nuo pardavėjo valios nepriklausančių aplinkybių, kurių pardavėjas negalėjo numatyti ir kurių pasekmių nebuvo galima išvengti net ir imantis visų rūpestingumo priemonių. Be [[#^s-87bdfaf5f56d71c20e133361|šio straipsnio 8 dalyje]] nurodytos informacijos, sutartyje taip pat nurodoma kiekvienos šalies tapatybė, gyvenamoji vieta (buveinė), sutarties sudarymo data ir vieta ir sutartis šalių turi būti pasirašyta. Visais atvejais iki sutarties sudarymo sutarties sąlygos ir šioje dalyje nurodyti galimi jų pakeitimai pirkėjui turi būti pateikiami jam prieinamoje patvariojoje laikmenoje ir apie sutarties pakeitimus aiškiai nurodoma sutartyje. Pardavėjas privalo sutarties sudarymo metu perduoti pirkėjui vieną sutarties egzempliorių. ^s-ee0092fa2861cee619065bf3
 
 
-10. Iki sutarties sudarymo pardavėjas privalo aiškiai informuoti pirkėją apie teisę atsisakyti sutarties, šio kodekso 6.370 straipsnio 1, 2 ir [[#^s-f57b7a7ee99c6107b1684672|3 dalyse]] nustatytus atsisakymo terminus ir šio kodekso 6.370 straipsnio 8 dalyje nustatytą draudimą atlikti išankstinius mokėjimus. Dėl šių sutarties sąlygų pirkėjas [[#^s-87bdfaf5f56d71c20e133361|šio straipsnio 8 dalyje]] nurodytoje formoje pasirašo atskirai. ^s-332c48410f3d73022d8fe48e
+10. Iki sutarties sudarymo pardavėjas privalo aiškiai informuoti pirkėją apie teisę atsisakyti sutarties, šio kodekso 6.370 straipsnio 1, 2 ir 3 dalyse nustatytus atsisakymo terminus ir šio kodekso 6.370 straipsnio 8 dalyje nustatytą draudimą atlikti išankstinius mokėjimus. Dėl šių sutarties sąlygų pirkėjas [[#^s-87bdfaf5f56d71c20e133361|šio straipsnio 8 dalyje]] nurodytoje formoje pasirašo atskirai. ^s-332c48410f3d73022d8fe48e
 
 
 11. Kartu su sutartimi pirkėjui turi būti pateikiama teisės aktų nustatyta sutarties atsisakymo forma, kurią tvirtina Vyriausybė ar jos įgaliota institucija. ^s-b27110eef81c7797c30ab3cf

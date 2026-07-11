@@ -127,10 +127,10 @@ Tarpiniams produktams taikomi tokie akcizų tarifai:
 ### 7 straipsnis. Įstatymo įsigaliojimas ^s-a0530656d93dad2659d88c46
 
 
-1. Šio įstatymo 1, 2, 3 ir [[#^s-dc548fea4ddf9f01d5a7c2f6|4 straipsniai]] įsigalioja 2014 m. balandžio 1 d. ^s-c3f2d8ce867572a8962a8d37
+1. Šio įstatymo [[#^s-b00aec893c106e2f4a2af7b2|1]], [[#^s-e9c3b01bc5aa7d15a1ba342d|2]], [[#^s-da4ec3895ed4f490425c54dd|3]] ir [[#^s-dc548fea4ddf9f01d5a7c2f6|4]] straipsniai įsigalioja 2014 m. balandžio 1 d. ^s-c3f2d8ce867572a8962a8d37
 
 
-2. Šio įstatymo 5 ir [[#^s-25468021c625dd1c1fabb1b7|6 straipsniai]] įsigalioja 2014 m. kovo 1 d. ^s-a5bceb3835fa220753d0ceb2
+2. Šio įstatymo [[#^s-e896c77d738b47e870e5b07a|5]] ir [[#^s-25468021c625dd1c1fabb1b7|6]] straipsniai įsigalioja 2014 m. kovo 1 d. ^s-a5bceb3835fa220753d0ceb2
 
 
 

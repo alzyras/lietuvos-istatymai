@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-c81d73950f7527126730e224
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2009 m. kovo 18 d. dekretą Nr. 1K-1743, ratifikuoja 2006 m. sausio 27 d. Ženevoje priimtą 2006 m. Tarptautinį susitarimą dėl atogrąžų medienos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2009 m. kovo 18 d. dekretą Nr. 1K-1743](https://e-tar.lt/portal/lt/legalAct/TAR.0D11B80D64B9), ratifikuoja 2006 m. sausio 27 d. Ženevoje priimtą 2006 m. Tarptautinį susitarimą dėl atogrąžų medienos.
 
 
 

@@ -89,7 +89,7 @@ Apskrities gydytojas savo funkcijoms įgyvendinti turi specialistus ir pagalbin�
 ### 3 straipsnis. 119 straipsnio 2 dalies pakeitimas ^s-659e03a35baf44162bb0e34b
 
 
-Išbraukti 119 straipsnio 2 dalies 2 punktą, o 3, 4, 5, 6, 7 punktus laikyti atitinkamai 2, 3, 4, 5, [[#^s-321a6a9e9783a7dc74cf4908|6 punktais]] ir visą straipsnį išdėstyti taip:
+Išbraukti 119 straipsnio 2 dalies 2 punktą, o 3, 4, 5, 6, 7 punktus laikyti atitinkamai 2, 3, 4, 5, 6 punktais ir visą straipsnį išdėstyti taip:
 
 
 „119 straipsnis.   Valstybinė vaistų kontrolės tarnyba prie Sveikatos apsaugos ministerijos

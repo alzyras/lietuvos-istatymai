@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 252 straipsnio pakeitimas ^s-809be44e7d42aa8b79e3eb7c
 
 
-Papildyti 252 straipsnio 3 dalį 4 punktu:
+Papildyti [[latest/TAR.C44837068B55#^s-97f88b14eeea1aaa2d0ca89d|252 straipsnio 3 dalį 4 punktu]]:
 
 
 „4) teikiama žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.“

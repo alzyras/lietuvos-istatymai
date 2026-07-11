@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos kooperatinių bendrovių (kooperatyvų) įsta
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.065AB8483E1E|Lietuvos Respublikos visuomenės informavimo įstatymas]] - 2 citatos - Lietuvos Respublikos visuomenės informavimo įstatymo
+- [[latest/TAR.065AB8483E1E|Lietuvos Respublikos visuomenės informavimo įstatymas]] - Lietuvos Respublikos visuomenės informavimo įstatymo
 
 ## Šį įstatymą cituoja
 

@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos Lietuvos Raudonojo Kryžiaus draugijos, Raudo
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.272A69E6B69F|Lietuvos Respublikos Lietuvos Raudonojo Kryžiaus draugijos, Raudonojo Kryžiaus, Raudonojo Pusmėnulio ir Raudonojo Kristalo emblemos ir pavadinimo įstatymas]] - „LIETUVOS RESPUBLIKOS LIETUVOS RAUDONOJO KRYŽIAUS DRAUGIJOS, RAUDONOJO KRYŽIAUS, RAUDONOJO PUSMĖNULIO IR RAUDONOJO KRISTALO EMBLEMOS IR PAVADINIMO ĮSTATYMAS“
+- [[latest/TAR.272A69E6B69F|Lietuvos Respublikos Lietuvos Raudonojo Kryžiaus draugijos, Raudonojo Kryžiaus, Raudonojo Pusmėnulio ir Raudonojo Kristalo emblemos ir pavadinimo įstatymas]] - LIETUVOS RAUDONOJO KRYŽIAUS DRAUGIJOS, RAUDONOJO KRYŽIAUS, RAUDONOJO PUSMĖNULIO IR RAUDONOJO KRISTALO EMBLEMOS IR PAVADINIMO ĮSTATYMAS
 
 ## Šį įstatymą cituoja
 

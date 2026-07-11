@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 39 straipsnio pakeitimas ^s-ceea22610d493c86c7b4c7e7
 
 
-Papildyti 39 straipsnį 12 punktu:
+Papildyti [[latest/TAR.FF33B3BF23DD|39 straipsnį 12 punktu]]:
 
 
 „12) teikti į valstybės informacinę sistemą, skirtą sveikatos priežiūros, kitos sveikatinimo veiklos bei farmacijos specialistų profesinės kompetencijos įgijimo ir tobulinimo bei profesinės veiklos duomenims kaupti, šios sistemos veiklą reguliuojančiuose teisės aktuose nustatytus duomenis, susijusius su vaistinėje dirbančių vaistininkų ir vaistininko padėjėjų (farmakotechnikų) profesine kvalifikacija ir darbo santykiais, šiuose teisės aktuose nustatyta tvarka.“

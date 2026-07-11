@@ -10,7 +10,7 @@ pavadinimas: "Lietuvos Respublikos akcizų įstatymo 6 straipsnio papildymo įst
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.B9E1D301256F#^s-377ca35f2a9e27d3ee9e5fcd|Lietuvos Respublikos akcizų įstatymas]] - AKCIZŲ ĮSTATYMO PAPILDYMAS 61 STRAIPSNIU
-- [[latest/TAR.B9E1D301256F#^s-95b81287ee1c2f4ad3a7161c|Lietuvos Respublikos akcizų įstatymas]] - 3 citatos - AKCIZŲ ĮSTATYMO 6 STRAIPSNIO
+- [[latest/TAR.B9E1D301256F#^s-95b81287ee1c2f4ad3a7161c|Lietuvos Respublikos akcizų įstatymas]] - 2 citatos - AKCIZŲ ĮSTATYMO 6 STRAIPSNIO
 
 ## Šį įstatymą cituoja
 

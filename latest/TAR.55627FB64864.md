@@ -337,7 +337,7 @@ Nr. XI-1715, 2011-11-22, Žin., 2011, Nr. 150-7031 (2011-12-08), i. k. [[latest/
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2019, 2015-11-17, paskelbta TAR 2015-11-24, i. k. 2015-18610
-Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 1, 9, [[#^s-fe62e5c883d97953106dc682|11 straipsnių]] pakeitimo ir Įstatymo papildymo ketvirtuoju-1 skirsniu įstatymas
+Lietuvos Respublikos valstybės iždo įstatymo Nr. I-712 [[#^s-bed0f936f29b73d3a420d42a|1]], [[#^s-4018590848290b46b0e458f3|9]], [[#^s-fe62e5c883d97953106dc682|11]] straipsnių pakeitimo ir Įstatymo papildymo ketvirtuoju-1 skirsniu įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas

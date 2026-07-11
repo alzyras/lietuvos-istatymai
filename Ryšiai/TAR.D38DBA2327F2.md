@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.B6B636C7384A#^s-20337d5effe09b1e9c15c6bf|Lietuvos Respublikos bankų įstatymas]] - Įstatymas Nr. XI-1337
-- [[latest/TAR.B6B636C7384A#^s-650d132f7e9b8280c076cfdb|Lietuvos Respublikos bankų įstatymas]] - Įstatymas Nr. XI-1337
+_Nėra._

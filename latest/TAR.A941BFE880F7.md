@@ -274,7 +274,7 @@ Registre tvarkomi šių asmenų duomenys:
 4. Registro duomenys kaupiami ir apdorojami registro duomenų centrinėje bazėje. ^s-7484fafb07e758e3139c5259
 
 
-5. Registro duomenys saugomi [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]], Valstybės registrų įstatymo, šio įstatymo bei registro nuostatuose nustatyta tvarka. ^s-f1a7a8703f1993753a346d9a
+5. Registro duomenys saugomi [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]], [Valstybės registrų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296), šio įstatymo bei registro nuostatuose nustatyta tvarka. ^s-f1a7a8703f1993753a346d9a
 
 
 

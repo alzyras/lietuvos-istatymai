@@ -130,7 +130,7 @@ Leidimai importuoti alkoholinius gėrimus (išskyrus alų) išduodami tik toms �
 „13) kontrabandinius alkoholio produktus;“.
 
 
-3. Pakeisti 20 straipsnio 1 dalies 15 ir [[#^s-9b1a743dddbf6827d4b589a0|16 punktus]] ir juos išdėstyti taip: ^s-2f33a52d58435f3d7da85fd4
+3. Pakeisti 20 straipsnio 1 dalies 15 ir 16 punktus ir juos išdėstyti taip: ^s-2f33a52d58435f3d7da85fd4
 
 
 „15) pilstomus alkoholinius gėrimus, išskyrus prekybą jais stacionarinėse viešojo maitinimo įmonėse ir stacionariniuose pastatuose vykstančiose parodose bei mugėse, prekybą alkoholiniais gėrimais (kurių tūrinė etilo alkoholio koncentracija neviršija 22 procentų) nestacionarinėse viešojo maitinimo įmonėse savivaldybių nustatyto kurortinio, poilsio bei turizmo sezono laikotarpiu, taip pat išskyrus pilstomą alų, parduodamą firminėse alaus daryklų parduotuvėse, masiniuose renginiuose, parodose bei mugėse;
@@ -145,7 +145,7 @@ Leidimai importuoti alkoholinius gėrimus (išskyrus alų) išduodami tik toms �
 „Įmonėms draudžiama laikyti ir gabenti denatūruotą ir techninį etilo alkoholį, išskyrus įmones, turinčias leidimus juos gaminti, importuoti, bei įmones, įstaigas ir organizacijas, naudojančias denatūruotą ir techninį etilo alkoholį gamybos, techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo darbuose. Įmonėms draudžiama laikyti ir gabenti nedenatūruotą etilo alkoholį, išskyrus įmones, turinčias leidimus jį gaminti, importuoti, verstis didmenine prekyba juo (aprūpinančias ūkio subjektus, naudojančius jį medicinos bei veterinarijos reikmėms), bei įmones, įstaigas ir organizacijas, naudojančias nedenatūruotą etilo alkoholį gamybos, techninėms, medicinos, veterinarijos reikmėms arba mokslo ir tyrimo darbuose.“
 
 
-5. Pakeisti 20 straipsnio 5 ir [[#^s-dac34b726628ba766e76dfe3|6 dalis]] ir jas išdėstyti taip: ^s-be2ce500936f6a790ff6919c
+5. Pakeisti 20 straipsnio 5 ir 6 dalis ir jas išdėstyti taip: ^s-be2ce500936f6a790ff6919c
 
 
 „Didmeninės prekybos įmonėms, turinčioms teisę parduoti alkoholinius gėrimus, leidžiama juos įsigyti tik iš įmonių, turinčių leidimus juos gaminti, o realizuoti – tik įmonėms, kurios turi leidimus verstis mažmenine prekyba jais.
@@ -170,7 +170,7 @@ Leidimai importuoti alkoholinius gėrimus (išskyrus alų) išduodami tik toms �
 „3) masiniuose renginiuose, parodose ir mugėse (išskyrus alkoholinius gėrimus, kurių tūrinė etilo alkoholio koncentracija neviršija 13 procentų, ir alkoholinius gėrimus, parduodamus parodose ir mugėse, vykstančiose stacionariniuose pastatuose);“.
 
 
-2. Pakeisti 21 straipsnio 1 dalies 5 ir [[#^s-8ceb5ce7b3595f7d76fe0d23|6 punktus]] ir juos išdėstyti taip: ^s-7b3682fc8c2a990eb7a2e8de
+2. Pakeisti 21 straipsnio 1 dalies 5 ir 6 punktus ir juos išdėstyti taip: ^s-7b3682fc8c2a990eb7a2e8de
 
 
 „5) magistralinių ir krašto kelių pakelėse, išskyrus stacionarinėse viešojo maitinimo įmonėse;
@@ -218,7 +218,7 @@ Pakeisti 36 straipsnio 1, 2 ir 3 dalis, iš 4 dalies išbraukti žodį „saviva
 „36 straipsnis. Narkologinės priežiūros organizavimas
 
 
-Narkologinė priežiūra Lietuvos Respublikoje atliekama Lietuvos Respublikos narkologinės priežiūros įstatymo, kitų įstatymų ir poįstatyminių aktų nustatyta tvarka.
+Narkologinė priežiūra Lietuvos Respublikoje atliekama [Lietuvos Respublikos narkologinės priežiūros įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.39D96F1C8B69), kitų įstatymų ir poįstatyminių aktų nustatyta tvarka.
 
 
 Narkologinę sveikatos priežiūrą Lietuvos Respublikoje koordinuoja Sveikatos apsaugos ministerija arba jos įgaliota institucija.
@@ -259,7 +259,7 @@ Pakeisti 43 straipsnio 4 dalį ir ją išdėstyti taip:
 2. Papildyti 44 straipsnį nauja 12 dalimi: ^s-5c7659e9b9b3bfebe1b980a7
 
 
-„Įmonėms, kurioms panaikinamas leidimų galiojimas pagal šio straipsnio vienuoliktosios dalies reikalavimus, taip pat draudžiama verstis bet kokia prekybine veikla. Šis draudimas įgyvendinamas, vadovaujantis Prekybos įstatymo 71 straipsnio nustatyta tvarka.“
+„Įmonėms, kurioms panaikinamas leidimų galiojimas pagal šio straipsnio vienuoliktosios dalies reikalavimus, taip pat draudžiama verstis bet kokia prekybine veikla. Šis draudimas įgyvendinamas, vadovaujantis [Prekybos įstatymo 71 straipsnio](https://e-tar.lt/portal/lt/legalAct/TAR.90F753E076E0) nustatyta tvarka.“
 
 
 3. 44 straipsnio buvusią 12 dalį laikyti 13 dalimi. ^s-b9f1583c139c9d046f49495f

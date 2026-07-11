@@ -189,10 +189,10 @@ FONDO BIUDŽETO PAJAMOS, IŠLAIDOS, PINIGŲ SRAUTAI, JŲ PLANAVIMAS IR FONDO SUK
 1. Fondo biudžeto išlaidų pagrindą sudaro Fondo išlaidos atskiroms socialinio draudimo rūšims, tai yra: ^s-94c6ad18b96dcba56983fe21
 
 
-1) pensijų socialiniam draudimui – Fondo išlaidos valstybinėms socialinio draudimo pensijoms ir kompensacijoms už ypatingas darbo sąlygas, numatytoms [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatyme]], išankstinėms valstybinėms socialinio draudimo senatvės pensijoms, numatytoms Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatyme, taip pat šių išmokų gavėjus laidojusiems asmenims nurodytų įstatymų nustatyta tvarka išmokėtos sumos; ^s-b6e297c2de9c2349e075b9a9
+1) pensijų socialiniam draudimui – Fondo išlaidos valstybinėms socialinio draudimo pensijoms ir kompensacijoms už ypatingas darbo sąlygas, numatytoms [[latest/TAR.A7F77DF94F5D|Valstybinių socialinio draudimo pensijų įstatyme]], išankstinėms valstybinėms socialinio draudimo senatvės pensijoms, numatytoms [Valstybinių socialinio draudimo senatvės pensijų išankstinio mokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.E68316F1B900), taip pat šių išmokų gavėjus laidojusiems asmenims nurodytų įstatymų nustatyta tvarka išmokėtos sumos; ^s-b6e297c2de9c2349e075b9a9
 
 
-2) lėšos, pervedamos į pensijų fondus, – pensijų kaupimo bendrovėms pervedamos pensijų socialinio draudimo įmokų dalies, numatytos Pensijų sistemos reformos įstatyme, sumos; ^s-8d8aac46cb16a3e57e5638cd
+2) lėšos, pervedamos į pensijų fondus, – pensijų kaupimo bendrovėms pervedamos pensijų socialinio draudimo įmokų dalies, numatytos [Pensijų sistemos reformos įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.2D0A7B26E6A8), sumos; ^s-8d8aac46cb16a3e57e5638cd
 
 
 3) ligos ir motinystės socialiniam draudimui – Fondo biudžeto išlaidos socialinio draudimo pašalpoms, numatytoms [[latest/TAR.068516AF734B|Ligos ir motinystės socialinio draudimo įstatyme]], ir savanoriškojo socialinio draudimo ligos ir motinystės pašalpoms; ^s-c4c1d00bb3b9dff93117bde2

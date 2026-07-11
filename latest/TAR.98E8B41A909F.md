@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-a967239d8dac37d6e28ea4d8
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 27 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Kroatijos Respublikos Vyriausybės susitarimą dėl neteisėtai atvykusių ar esančių asmenų grąžinimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Kroatijos Respublikos Vyriausybės susitarimą dėl neteisėtai atvykusių ar esančių asmenų grąžinimo, pasirašytą 1998 m. gegužės 28 d. Stokholme.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 27 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Kroatijos Respublikos Vyriausybės susitarimą dėl neteisėtai atvykusių ar esančių asmenų grąžinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.75472E7E4737), ratifikuoja Lietuvos Respublikos Vyriausybės ir Kroatijos Respublikos Vyriausybės susitarimą dėl neteisėtai atvykusių ar esančių asmenų grąžinimo, pasirašytą 1998 m. gegužės 28 d. Stokholme.
 
 
 

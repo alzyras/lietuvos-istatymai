@@ -9,8 +9,9 @@ pavadinimas: "Lietuvos Respublikos žmonių palaikų laidojimo įstatymo Nr. X-1
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.C51D9C259EFE#^s-4ade779f07a9f9ac25b2824c|Lietuvos Respublikos žmonių palaikų laidojimo įstatymas]] - 25 straipsnį 7 dalimi
+- [[latest/TAR.C51D9C259EFE#^s-4affaf2cd1e4f1602cb9a387|Lietuvos Respublikos žmonių palaikų laidojimo įstatymas]] - 25 straipsnio
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C51D9C259EFE#^s-39756cc4fb9ef153fc48535e|Lietuvos Respublikos žmonių palaikų laidojimo įstatymas]] - Įstatymas Nr. XII-834
+_Nėra._

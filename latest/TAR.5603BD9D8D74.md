@@ -595,7 +595,7 @@ VALSTYBĖS TARNAUTOJŲ KARJERA
 2. Gali būti sukeistos dviejų tos pačios kategorijos karjeros valstybės tarnautojų pareigos, jeigu jie to prašo. ^s-eafa9d53216b3b5d023249c8
 
 
-3. Karjeros valstybės tarnautojas gali būti perkeltas į kitas pareigas šio straipsnio 1 ir [[#^s-eafa9d53216b3b5d023249c8|2 dalyse]] nurodytais atvejais, jei jis atitinka pareigybės aprašyme nustatytus specialius reikalavimus. ^s-aa18f8bb5231e372c761edc6
+3. Karjeros valstybės tarnautojas gali būti perkeltas į kitas pareigas šio straipsnio [[#^s-d8e742f102cd444b679d788c|1]] ir [[#^s-eafa9d53216b3b5d023249c8|2]] dalyse nurodytais atvejais, jei jis atitinka pareigybės aprašyme nustatytus specialius reikalavimus. ^s-aa18f8bb5231e372c761edc6
 
 
 
@@ -1025,10 +1025,10 @@ Valstybės tarnautojų atostogų rūšis, minimalią trukmę, suteikimo ir mokė
 ### 41 straipsnis. Išeitinės išmokos ir kompensacijos ^s-693327fee2d820832776b4ca
 
 
-1. Šio Įstatymo [[#^s-ce98a08de036ae8ba11b2114|44 straipsnio 1 dalies]] 12 ir 13 punktuose nurodytais pagrindais atleidžiamam iš pareigų valstybės tarnautojui jo atleidimo iš pareigų dieną išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Šio Įstatymo [[#^s-2291b7cd65297fcebd63f933|44 straipsnio 1 dalies 6 punkte]] nurodytu pagrindu atleidžiamam iš pareigų politinio (asmeninio) pasitikėjimo valstybės tarnautojui jo atleidimo iš pareigų dieną išmokama vieno mėnesio vidutinio darbo užmokesčio dydžio išeitinė išmoka. ^s-59fad515ec9a81c70bfcee54
+1. Šio Įstatymo [[#^s-ce98a08de036ae8ba11b2114|44 straipsnio 1 dalies]] [[#^s-e4f7617b57678727a9eb4c8a|12]] ir [[#^s-4c47623b8459159c584da99c|13]] punktuose nurodytais pagrindais atleidžiamam iš pareigų valstybės tarnautojui jo atleidimo iš pareigų dieną išmokama 2 mėnesių jo vidutinio darbo užmokesčio dydžio išeitinė išmoka. Šio Įstatymo [[#^s-2291b7cd65297fcebd63f933|44 straipsnio 1 dalies 6 punkte]] nurodytu pagrindu atleidžiamam iš pareigų politinio (asmeninio) pasitikėjimo valstybės tarnautojui jo atleidimo iš pareigų dieną išmokama vieno mėnesio vidutinio darbo užmokesčio dydžio išeitinė išmoka. ^s-59fad515ec9a81c70bfcee54
 
 
-2. Pagal šio Įstatymo [[#^s-2376c0015c66bfa72c6668b3|44 straipsnio 1 dalies 9 punktą]] atleidžiamam iš pareigų valstybės tarnautojui išmokama iki pareigybės panaikinimo jo gauto vidutinio darbo užmokesčio dydžio išeitinė išmoka, atsižvelgiant į valstybės tarnautojo tarnybos valstybės ar savivaldybės institucijoje ar įstaigoje stažą (į tarnybos stažą valstybės ar savivaldybės institucijoje ar įstaigoje taip pat įskaitomas laikas, kurį valstybės tarnautojas šio Įstatymo 18, 19 ir [[#^s-33d2362aebaa22c1fa991c11|20 straipsniuose]] nustatytais atvejais buvo perkeltas į kitas pareigas, taip pat [[#^s-5614b09e0cd587ec08198f30|43 straipsnio 1 dalyje]] nustatytais atvejais, kai valstybės tarnautojas iki pareigybės panaikinimo buvo perkeltas į kitas pareigas): ^s-8614765f29110343195daac4
+2. Pagal šio Įstatymo [[#^s-2376c0015c66bfa72c6668b3|44 straipsnio 1 dalies 9 punktą]] atleidžiamam iš pareigų valstybės tarnautojui išmokama iki pareigybės panaikinimo jo gauto vidutinio darbo užmokesčio dydžio išeitinė išmoka, atsižvelgiant į valstybės tarnautojo tarnybos valstybės ar savivaldybės institucijoje ar įstaigoje stažą (į tarnybos stažą valstybės ar savivaldybės institucijoje ar įstaigoje taip pat įskaitomas laikas, kurį valstybės tarnautojas šio Įstatymo [[#^s-952812e66555d684b69cf69b|18]], [[#^s-787576c8080a19e1c0034076|19]] ir [[#^s-33d2362aebaa22c1fa991c11|20]] straipsniuose nustatytais atvejais buvo perkeltas į kitas pareigas, taip pat [[#^s-5614b09e0cd587ec08198f30|43 straipsnio 1 dalyje]] nustatytais atvejais, kai valstybės tarnautojas iki pareigybės panaikinimo buvo perkeltas į kitas pareigas): ^s-8614765f29110343195daac4
 
 
 1) iki penkerių metų – 2 mėnesių; ^s-0c53b2132bf972e66bc5c33f
@@ -1056,7 +1056,7 @@ Valstybės tarnautojų atostogų rūšis, minimalią trukmę, suteikimo ir mokė
 ### 42 straipsnis. Tarnybos stažas ^s-6d543089c873fc1710e78630
 
 
-1. Pagal šį Įstatymą tarnybos stažą sudaro Lietuvos valstybei ištarnautų nuo 1990 m. kovo 11 d. einant valstybės tarnautojo pareigas, įskaitant šio Įstatymo [[#^s-4f5f32b28ab31d98413d610a|4 straipsnio 3 dalies]] 1–6 punktuose nurodytas pareigas (išskyrus savivaldybės tarybos narius, kurie nebuvo meru ir mero pavaduotoju), metų skaičius. Tarnybos stažas skaičiuojamas nuo valstybės tarnautojo tarnybos (darbo) valstybės ir savivaldybių institucijose ir įstaigose pradžios arba nuo paskyrimo (išrinkimo) į pareigas valstybės tarnyboje šio ir kitų įstatymų nustatyta tvarka dienos. Tarnybos (darbo) ne vienu laikotarpiu einant valstybės tarnautojo pareigas valstybės ir savivaldybių institucijose ir įstaigose stažas sudedamas. Į tarnybos stažą taip pat įskaitomas kasmetinių, nėštumo ir gimdymo, vaiko priežiūros atostogų ir pagal šio Įstatymo 37 ir [[#^s-3d7b7d5bd861fa4ac646636f|38 straipsnius]] suteiktų atostogų laikas bei pašalpų dėl ligos ar traumos gavimo laikotarpis. Atsižvelgiant į tarnybos stažą, nustatomas šio Įstatymo [[#^s-427438141cce04bac0aab515|25 straipsnio 1 dalies 1 punkte]] nurodyto priedo dydis ir šio Įstatymo [[#^s-a9e7841e4b809afc0423798f|36 straipsnyje]] nurodytų kasmetinių atostogų trukmė. ^s-d44ef8323290c22ae2319f41
+1. Pagal šį Įstatymą tarnybos stažą sudaro Lietuvos valstybei ištarnautų nuo 1990 m. kovo 11 d. einant valstybės tarnautojo pareigas, įskaitant šio Įstatymo [[#^s-4f5f32b28ab31d98413d610a|4 straipsnio 3 dalies]] [[#^s-5c438e6d32157ca71e18b775|1]]–[[#^s-05311c70a528f7f9615c4f65|6]] punktuose nurodytas pareigas (išskyrus savivaldybės tarybos narius, kurie nebuvo meru ir mero pavaduotoju), metų skaičius. Tarnybos stažas skaičiuojamas nuo valstybės tarnautojo tarnybos (darbo) valstybės ir savivaldybių institucijose ir įstaigose pradžios arba nuo paskyrimo (išrinkimo) į pareigas valstybės tarnyboje šio ir kitų įstatymų nustatyta tvarka dienos. Tarnybos (darbo) ne vienu laikotarpiu einant valstybės tarnautojo pareigas valstybės ir savivaldybių institucijose ir įstaigose stažas sudedamas. Į tarnybos stažą taip pat įskaitomas kasmetinių, nėštumo ir gimdymo, vaiko priežiūros atostogų ir pagal šio Įstatymo [[#^s-08d700f60b673161efb75286|37]] ir [[#^s-3d7b7d5bd861fa4ac646636f|38]] straipsnius suteiktų atostogų laikas bei pašalpų dėl ligos ar traumos gavimo laikotarpis. Atsižvelgiant į tarnybos stažą, nustatomas šio Įstatymo [[#^s-427438141cce04bac0aab515|25 straipsnio 1 dalies 1 punkte]] nurodyto priedo dydis ir šio Įstatymo [[#^s-a9e7841e4b809afc0423798f|36 straipsnyje]] nurodytų kasmetinių atostogų trukmė. ^s-d44ef8323290c22ae2319f41
 
 
 2. Tarnybos stažo skaičiavimo tvarką nustato Vyriausybė. ^s-4f538cefd43df82b402f7500
@@ -1141,7 +1141,7 @@ VALSTYBĖS TARNAUTOJŲ ATLEIDIMAS IŠ PAREIGŲ
 3) praranda Lietuvos Respublikos pilietybę; ^s-1d3609e174bad5bbf18e52eb
 
 
-4) per Valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatyme nustatytą terminą neįgyja einamoms pareigoms būtino išsilavinimo; ^s-06b8866e385fa4b47731eb54
+4) per [Valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.8C46EE8DC023) nustatytą terminą neįgyja einamoms pareigoms būtino išsilavinimo; ^s-06b8866e385fa4b47731eb54
 
 
 5) pasibaigia įstaigos vadovo, priimto į pareigas iki šio Įstatymo įsigaliojimo, kadencija; ^s-2b82b7f23fe25757c0d5cfce
@@ -1337,7 +1337,7 @@ VALSTYBĖS TARNYBOS VALDYMAS
 ### 50 straipsnis. Valstybės tarnautojų registras ^s-cc6f63218b5644425c079592
 
 
-1. Valstybės tarnautojų registras yra valstybės registras. Jis steigiamas ir tvarkomas Valstybės registrų įstatymo, [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymo]] ir kitų teisės aktų nustatyta tvarka. ^s-59de45682e1012f2eb214388
+1. Valstybės tarnautojų registras yra valstybės registras. Jis steigiamas ir tvarkomas [Valstybės registrų įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.65532A74E296), [[latest/TAR.5368B592234C|Asmens duomenų teisinės apsaugos įstatymo]] ir kitų teisės aktų nustatyta tvarka. ^s-59de45682e1012f2eb214388
 
 
 2. Valstybės tarnautojų registre kaupiami duomenys apie: ^s-51aa6af11cbac179c4c89bb8
@@ -1474,7 +1474,7 @@ Minimalios mėnesinės algos dydžiais
 ### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-e3c98a722f77c39e49bd1441
 
 
-Šio Įstatymo įsigaliojimo ir įgyvendinimo tvarką nustato Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymas.
+Šio Įstatymo įsigaliojimo ir įgyvendinimo tvarką nustato [Lietuvos Respublikos valstybės tarnybos įstatymo pakeitimo įstatymo įgyvendinimo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.8C46EE8DC023).
 
 
 

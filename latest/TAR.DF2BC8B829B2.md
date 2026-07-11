@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-52df889702c6a67ee9d6402c
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. kovo 6 d. dekretą Nr. 540, ratifikuoja 2004 m. gruodžio 8 d. Briuselyje pasirašytą Konvenciją dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos prisijungimo prie Konvencijos dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. kovo 6 d. dekretą Nr. 540](https://e-tar.lt/portal/lt/legalAct/TAR.E95EDDC56F37), ratifikuoja 2004 m. gruodžio 8 d. Briuselyje pasirašytą Konvenciją dėl Čekijos Respublikos, Estijos Respublikos, Kipro Respublikos, Latvijos Respublikos, Lietuvos Respublikos, Vengrijos Respublikos, Maltos Respublikos, Lenkijos Respublikos, Slovėnijos Respublikos ir Slovakijos Respublikos prisijungimo prie Konvencijos dėl dvigubo apmokestinimo išvengimo koreguojant asocijuotų įmonių pelną.
 
 
 

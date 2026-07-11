@@ -133,7 +133,7 @@ II DALIS
 ### 4 straipsnis. Vekselio, kuriame nurodyti ne visi rekvizitai, galiojimas ^s-9646e4ea0d70e83a655c90fd
 
 
-1. Dokumentas, kuriame nėra nors vieno iš [[#^s-9413ec5621b43b5cf1298787|3 straipsnyje]] išvardytų rekvizitų, nėra įsakomasis vekselis, išskyrus šio straipsnio 2, 3, [[#^s-49f5bbb34f309185f12cda44|4 dalyse]] nurodytais atvejais. ^s-c85ef464e91d9a17947ecd6e
+1. Dokumentas, kuriame nėra nors vieno iš [[#^s-9413ec5621b43b5cf1298787|3 straipsnyje]] išvardytų rekvizitų, nėra įsakomasis vekselis, išskyrus šio straipsnio 2, 3, 4 dalyse nurodytais atvejais. ^s-c85ef464e91d9a17947ecd6e
 
 
 2. Vekselis, kuriame mokėjimo terminas nenurodytas, laikomas mokėtinu jį pateikus. ^s-15d465825c5a600afb0bd570
@@ -377,7 +377,7 @@ Vekselį, iki sueis mokėjimo terminas, jo turėtojas gali pateikti mokėtojui �
 2. Vekselio davėjas gali šį terminą sutrumpinti arba pratęsti. ^s-dabc5fd778f9de13128cf690
 
 
-3. Indosantai šio straipsnio 1 ir [[#^s-dabc5fd778f9de13128cf690|2 dalyse]] nurodytus terminus gali sutrumpinti. ^s-af185d6b23109fe147c57022
+3. Indosantai šio straipsnio [[#^s-de8cbe7a48d7eb22a45300aa|1]] ir [[#^s-dabc5fd778f9de13128cf690|2]] dalyse nurodytus terminus gali sutrumpinti. ^s-af185d6b23109fe147c57022
 
 
 
@@ -427,7 +427,7 @@ Vekselį, iki sueis mokėjimo terminas, jo turėtojas gali pateikti mokėtojui �
 1. Akceptavęs vekselį mokėtojas įsipareigoja apmokėti vekselį pasibaigus jo mokėjimo terminui. ^s-1a49a01c6e1e44bde733744e
 
 
-2. Jeigu vekselis neapmokėtas, vekselio turėtojas, net ir būdamas šio vekselio davėjas, gali tiesiai pareikšti akceptantui reikalavimus pagal vekselį sumokėti visas sumas, kurios numatytos šio įstatymo 50 ir [[#^s-6fcde48f03010e8641414a25|51 straipsniuose]]. ^s-474e5e04773f0b80ffd92ca7
+2. Jeigu vekselis neapmokėtas, vekselio turėtojas, net ir būdamas šio vekselio davėjas, gali tiesiai pareikšti akceptantui reikalavimus pagal vekselį sumokėti visas sumas, kurios numatytos šio įstatymo [[#^s-92ab56bf4eb1962a958fdb25|50]] ir [[#^s-6fcde48f03010e8641414a25|51]] straipsniuose. ^s-474e5e04773f0b80ffd92ca7
 
 
 
@@ -617,7 +617,7 @@ VEKSELIO APMOKĖJIMAS
 2. Nustatant užsienio valiutos kursą, laikomasi mokėjimo vietos valstybėje nustatyto oficialaus valiutos kurso. Tačiau vekselio davėjas gali nurodyti sąlygą, kad mokėtina vekselio suma būtų apskaičiuota pagal vekselyje nurodytą kursą. ^s-7586d39a1857b8801eb76805
 
 
-3. Šio straipsnio 1 ir [[#^s-7586d39a1857b8801eb76805|2 dalių]] nuostatos netaikomos, kai vekselio davėjas yra nurodęs sąlygą, kad turi būti sumokėta vekselyje nurodyta valiuta. ^s-c3033c6a5498bc694866e36f
+3. Šio straipsnio [[#^s-f13dd0cea0e2e3787cd85cf4|1]] ir [[#^s-7586d39a1857b8801eb76805|2]] dalių nuostatos netaikomos, kai vekselio davėjas yra nurodęs sąlygą, kad turi būti sumokėta vekselyje nurodyta valiuta. ^s-c3033c6a5498bc694866e36f
 
 
 4. Jeigu vekselio suma nurodyta valiuta, kurios vieneto pavadinimas davėjo ir mokėtojo valstybėje yra vienodas, tačiau skiriasi jų vertė, laikoma, kad nurodyta mokėjimo vietos valstybės valiuta. ^s-754086a959b131ebb2e9e49e
@@ -790,7 +790,7 @@ Jeigu buvo akceptuota ne visa vekselio suma, asmuo, kuriam buvo pareikšti reika
 1. Kiekvienas turintis reikalavimo teisę pagal vekselį, jeigu nėra susitarta kitaip, gali išrašyti naują įsakomąjį vekselį (atgręžtinį vekselį) vienam iš jam įsipareigojusių asmenų. Šiame vekselyje nurodoma apmokėti jį pateikus ir kad vekselis mokėtinas šio asmens gyvenamojoje vietoje (buveinėje). ^s-6d89458542470dd4d9ca3919
 
 
-2. Į atgręžtinio vekselio sumą įskaičiuojamos sumos, nurodytos šio įstatymo 50 ir [[#^s-6fcde48f03010e8641414a25|51 straipsniuose]]. ^s-6e9a708e01e0bb72cb42c33b
+2. Į atgręžtinio vekselio sumą įskaičiuojamos sumos, nurodytos šio įstatymo [[#^s-92ab56bf4eb1962a958fdb25|50]] ir [[#^s-6fcde48f03010e8641414a25|51]] straipsniuose. ^s-6e9a708e01e0bb72cb42c33b
 
 
 
@@ -1112,7 +1112,7 @@ Paprastajame vekselyje turi būti:
 ### 78 straipsnis. Paprastojo vekselio, kuriame įrašyti ne visi rekvizitai, galiojimas ^s-950f0920cbda3eae35ec31b3
 
 
-1. Dokumentas, kuriame nėra nors vieno iš šio įstatymo [[#^s-283db387f91624b4df7e0347|77 straipsnyje]] išvardytų rekvizitų, neturi paprastojo vekselio galios, išskyrus šio straipsnio 2, 3 ir [[#^s-f4ff2fc715cf6290392f98bd|4 dalyse]] nurodytais atvejais. ^s-ecd62fac6ee7f28195575375
+1. Dokumentas, kuriame nėra nors vieno iš šio įstatymo [[#^s-283db387f91624b4df7e0347|77 straipsnyje]] išvardytų rekvizitų, neturi paprastojo vekselio galios, išskyrus šio straipsnio 2, 3 ir 4 dalyse nurodytais atvejais. ^s-ecd62fac6ee7f28195575375
 
 
 2. Paprastasis vekselis, kuriame mokėjimo terminas nenurodytas, laikomas mokėtinu jį pateikus. ^s-d43fd7880c56b82ab494ace5
@@ -1131,37 +1131,37 @@ Paprastajame vekselyje turi būti:
 1. Paprastajam vekseliui taikomos įsakomųjų vekselių nuostatos dėl: ^s-f70859b2e0dd6b81a5da4ab8
 
 
-1) indosavimo (13–[[#^s-69ea991ddfdb380536d512c0|22 straipsniai]]); ^s-33e2159a57d02afe10afa264
+1) indosavimo ([[#^s-2dacbda8b5916c32b177e9ce|13]]–[[#^s-69ea991ddfdb380536d512c0|22]] straipsniai); ^s-33e2159a57d02afe10afa264
 
 
-2) mokėjimo termino (35–[[#^s-6e8d4fcd21e915c4da79a1ae|39 straipsniai]]); ^s-c2eca6ef1c5c42c5dc035f03
+2) mokėjimo termino ([[#^s-ebdfb47163352ff77283c232|35]]–[[#^s-6e8d4fcd21e915c4da79a1ae|39]] straipsniai); ^s-c2eca6ef1c5c42c5dc035f03
 
 
-3) apmokėjimo (40–[[#^s-34340f80464237d9e14864ff|44 straipsniai]]); ^s-a09596f66e0dcadd2e4ab163
+3) apmokėjimo ([[#^s-a679a833e450a99d42e03f88|40]]–[[#^s-34340f80464237d9e14864ff|44]] straipsniai); ^s-a09596f66e0dcadd2e4ab163
 
 
-4) reikalavimų neapmokėjus vekselio (45–52, 54–[[#^s-cdc4b101190d185bd70baf6d|56 straipsniai]]); ^s-e4b13f0a664f2a7cd204ba35
+4) reikalavimų neapmokėjus vekselio ([[#^s-7813fa331f8e9a69387dba94|45]]–[[#^s-43c8056d47058b778f2b88a8|52]], [[#^s-e874962e55ff81eb2887a470|54]]–[[#^s-cdc4b101190d185bd70baf6d|56]] straipsniai); ^s-e4b13f0a664f2a7cd204ba35
 
 
-5) apmokėjimo tarpininkavimo tvarka (57, 61–[[#^s-61c7ff55ef47cae0d92b8652|65 straipsniai]]); ^s-8d25d498c772156849919e59
+5) apmokėjimo tarpininkavimo tvarka ([[#^s-8267fced7429dfa346199059|57]], [[#^s-448f2945808c7d1e8b830072|61]]–[[#^s-61c7ff55ef47cae0d92b8652|65]] straipsniai); ^s-8d25d498c772156849919e59
 
 
-6) nuorašų (69 ir [[#^s-332a98d863373d6204332c89|70 straipsniai]]); ^s-5ec617e5d882c643a920571f
+6) nuorašų ([[#^s-b4fcf2f0cde1322dee74313f|69]] ir [[#^s-332a98d863373d6204332c89|70]] straipsniai); ^s-5ec617e5d882c643a920571f
 
 
 7) teksto pakeitimų ([[#^s-18da93378c358d8e6e45f9ca|71 straipsnis]]); ^s-ddc16f29c74404171c00dbb2
 
 
-8) reikalavimų pateikimo senaties terminų (72 ir [[#^s-68dea3af7b3a51e19047f5b0|73 straipsniai]]); ^s-2ec9ccd9ace96a719641cc2b
+8) reikalavimų pateikimo senaties terminų ([[#^s-a658553519528f924229ffdf|72]] ir [[#^s-68dea3af7b3a51e19047f5b0|73]] straipsniai); ^s-2ec9ccd9ace96a719641cc2b
 
 
-9) terminų skaičiavimo (74, 75 ir [[#^s-c615f71953cd699137a7f15d|76 straipsniai]]). ^s-36195559523a6b4399411956
+9) terminų skaičiavimo ([[#^s-588a62b4f2a70ea143f3cdaf|74]], [[#^s-723fe875a93e59514830fd83|75]] ir [[#^s-c615f71953cd699137a7f15d|76]] straipsniai). ^s-36195559523a6b4399411956
 
 
-2. Paprastajam vekseliui taip pat taikomos nuostatos, numatytos įsakomajam vekseliui dėl jo mokėjimo trečiojo asmens adresu arba vietovėje, kuri yra kita nei mokėtojo gyvenamoji vieta (buveinė) (6 ir [[#^s-e18e1a0369f74df6836666b1|29 straipsniai]]); palūkanų nustatymo ([[#^s-ce2cbc05bc5f5bafadea4061|7 straipsnis]]); vekselyje įrašytų sumų galiojimo ([[#^s-f35e0ddabe9fac242d97190a|8 straipsnis]]); parašų galiojimo ([[#^s-854a9683dd21f01e2399fc67|9 straipsnis]]); pasekmių asmenims, pasirašiusiems be įgalinimų arba juos viršijus ([[#^s-b37021bb1123528db7c83338|10 straipsnis]]) ir prieštaravimų papildžius vekselį ([[#^s-d3e985c32cff1dd0189da1a4|12 straipsnis]]). ^s-467dfc62d729db745a31f118
+2. Paprastajam vekseliui taip pat taikomos nuostatos, numatytos įsakomajam vekseliui dėl jo mokėjimo trečiojo asmens adresu arba vietovėje, kuri yra kita nei mokėtojo gyvenamoji vieta (buveinė) ([[#^s-44217b6d25ace29d6a30592d|6]] ir [[#^s-e18e1a0369f74df6836666b1|29]] straipsniai); palūkanų nustatymo ([[#^s-ce2cbc05bc5f5bafadea4061|7 straipsnis]]); vekselyje įrašytų sumų galiojimo ([[#^s-f35e0ddabe9fac242d97190a|8 straipsnis]]); parašų galiojimo ([[#^s-854a9683dd21f01e2399fc67|9 straipsnis]]); pasekmių asmenims, pasirašiusiems be įgalinimų arba juos viršijus ([[#^s-b37021bb1123528db7c83338|10 straipsnis]]) ir prieštaravimų papildžius vekselį ([[#^s-d3e985c32cff1dd0189da1a4|12 straipsnis]]). ^s-467dfc62d729db745a31f118
 
 
-3. Paprastajam vekseliui taip pat taikomos laidavimo nuostatos (32–[[#^s-cbdabe8057ca0d830f224b81|34 straipsniai]]). Šio įstatymo [[#^s-b74c4dee8d928e3407638b33|33 straipsnio 4 dalyje]] nustatytu atveju, kai laidavime nenurodyta, už ką laiduota, laikoma, kad laiduota už paprastojo vekselio davėją. ^s-a3218dc35ef0f30edafaf04b
+3. Paprastajam vekseliui taip pat taikomos laidavimo nuostatos ([[#^s-b4e274933da59326981e2519|32]]–[[#^s-cbdabe8057ca0d830f224b81|34]] straipsniai). Šio įstatymo [[#^s-b74c4dee8d928e3407638b33|33 straipsnio 4 dalyje]] nustatytu atveju, kai laidavime nenurodyta, už ką laiduota, laikoma, kad laiduota už paprastojo vekselio davėją. ^s-a3218dc35ef0f30edafaf04b
 
 
 
@@ -1207,7 +1207,7 @@ Notarai tvarko užprotestuotų dėl neapmokėjimo ar neakceptavimo vekselių vie
 ### 84 straipsnis. Teisių pagal prarastus vekselius atkūrimas ^s-08a0f5532ccd02b5e47d7f40
 
 
-Jeigu vekselis sunaikintas, pavogtas ar dėl kitos priežasties prarastas, teisės pagal prarastą vekselį atkuriamos Lietuvos Respublikos civilinio proceso kodekso šaukiamosios teisenos tvarka.
+Jeigu vekselis sunaikintas, pavogtas ar dėl kitos priežasties prarastas, teisės pagal prarastą vekselį atkuriamos [Lietuvos Respublikos civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) šaukiamosios teisenos tvarka.
 
 
 

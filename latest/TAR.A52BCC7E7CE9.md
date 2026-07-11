@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-809a5a845c57395b5d390ba1
 
 
-[[#^s-25a5b33b724a3201ee768946|2 straipsnio]] 1 ir [[#^s-3a4372fa63d8044068a10abb|2 punktuose]] vietoj žodžių „Krašto apsaugos ministerijos“ įrašyti žodžius „Vidaus reikalų ministerijos“ ir šį straipsnį išdėstyti taip:
+[[#^s-25a5b33b724a3201ee768946|2 straipsnio]] 1 ir 2 punktuose vietoj žodžių „Krašto apsaugos ministerijos“ įrašyti žodžius „Vidaus reikalų ministerijos“ ir šį straipsnį išdėstyti taip:
 
 
 „[[#^s-25a5b33b724a3201ee768946|2 straipsnis]]. Lietuvos Respublikos pareiškimas

@@ -55,7 +55,7 @@ Vilnius
 ### 2 straipsnis. 4 straipsnio pakeitimas ir papildymas ^s-f3a760267f19ef094853226c
 
 
-4 straipsnio 1, 2, [[#^s-23bdbdaf9ec1d26cc2f7dc20|3 dalis]] pakeisti, straipsnį papildyti [[#^s-082fc837d52b03ce44167343|4 dalimi]] ir išdėstyti taip:
+4 straipsnio 1, 2, 3 dalis pakeisti, straipsnį papildyti [[#^s-082fc837d52b03ce44167343|4 dalimi]] ir išdėstyti taip:
 
 
 „4 straipsnis. Apskrities administracinių ginčų komisijų statusas

@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Dokumento ratifikavimas ^s-7ff78e13dbdce673a953fb0d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. lapkričio 4 d. dekretą Nr. 273, ratifikuoja Dokumentą dėl Tarptautinės darbo organizacijos konstitucijos pakeitimo, priimtą 1997 m. birželio 19 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. lapkričio 4 d. dekretą Nr. 273](https://e-tar.lt/portal/lt/legalAct/TAR.C576A07671DD), ratifikuoja Dokumentą dėl Tarptautinės darbo organizacijos konstitucijos pakeitimo, priimtą 1997 m. birželio 19 d. Ženevoje.
 
 
 

@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos į
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.C5DA698A4015|Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymas]] - Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymo
+_Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C5DA698A4015#^s-3163f9a713ae9ea2440e04cb|Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymas]] - 2 citatos - KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 2, 3, 13, 14, 24 STRAIPSNIŲ, ĮSTATYMO PRIEDO PAKEITIMO BEI PAPILDYMO IR 14 STRAIPSNIO 9 DALIES PRIPAŽINIMO NETEKUSIA GALIOS ĮSTATYMAS
-- [[latest/TAR.C5DA698A4015#^s-50f21264f70dd16d7cd8bafc|Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymas]] - 2 citatos - KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 2, 3, 13, 14, 24 STRAIPSNIŲ, ĮSTATYMO PRIEDO PAKEITIMO BEI PAPILDYMO IR 14 STRAIPSNIO 9 DALIES PRIPAŽINIMO NETEKUSIA GALIOS ĮSTATYMAS
+- [[latest/TAR.C5DA698A4015#^s-50f21264f70dd16d7cd8bafc|Lietuvos Respublikos kilnojamųjų kultūros vertybių apsaugos įstatymas]] - KILNOJAMŲJŲ KULTŪROS VERTYBIŲ APSAUGOS ĮSTATYMO 2, 3, 13, 14, 24 STRAIPSNIŲ, ĮSTATYMO PRIEDO PAKEITIMO BEI PAPILDYMO IR 14 STRAIPSNIO 9 DALIES PRIPAŽINIMO NETEKUSIA GALIOS ĮSTATYMAS

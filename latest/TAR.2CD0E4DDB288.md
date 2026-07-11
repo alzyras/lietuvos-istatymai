@@ -93,7 +93,7 @@ Pakeisti [[#^s-d553670d6ae74faa5395a326|7 straipsnio 1 dalį]], [[#^s-0581c9baf1
 ### 4 straipsnis. 9 straipsnio pakeitimas ir papildymas ^s-6e439e1be8d23c0bbf3b9c28
 
 
-1. Iš 9 straipsnio 2 dalies 3 punkto išbraukti žodžius „bei Socialinės apsaugos ir darbo ministerijos“, papildyti dalį 4–[[#^s-1280d9057cf27db8675a9bb5|10 punktais]] ir 3–[[#^s-1280d9057cf27db8675a9bb5|10 punktus]] išdėstyti taip: ^s-2b9b914c15593c61e1c2bc45
+1. Iš 9 straipsnio 2 dalies 3 punkto išbraukti žodžius „bei Socialinės apsaugos ir darbo ministerijos“, papildyti dalį 4–10 punktais ir 3–10 punktus išdėstyti taip: ^s-2b9b914c15593c61e1c2bc45
 
 
 „3) draudžiamiesiems, susirgusiems ligomis, įrašytomis į Sveikatos apsaugos ministerijos patvirtintą sąrašą;
@@ -130,7 +130,7 @@ Pakeisti [[#^s-d553670d6ae74faa5395a326|7 straipsnio 1 dalį]], [[#^s-0581c9baf1
 ### 5 straipsnis. 10 straipsnio 1, 5 ir 6 dalių pakeitimas ^s-17572ceaec94736df27c27dd
 
 
-Pakeisti [[#^s-e25dda113e2b60346d044db1|10 straipsnio]] 1, 5 ir [[#^s-4227121a68c1fb5154a1a079|6 dalis]] ir jas išdėstyti taip:
+Pakeisti [[#^s-e25dda113e2b60346d044db1|10 straipsnio]] [[#^s-25de186de02aa233f2042a25|1]], 5 ir 6 dalis ir jas išdėstyti taip:
 
 
 „1. Visa bazinė sanatorinio-kurortinio gydymo kaina kompensuojama vaikams iki 16 metų, jei vaikai vyksta gydytis pagal atskirą kelialapį, taip pat I grupės invalidams, asmenims, siunčiamiems baigti gydymą po sunkios ligos, kuri įrašyta į Sveikatos apsaugos bei Socialinės apsaugos ir darbo ministerijų patvirtintą sąrašą.“
@@ -146,7 +146,7 @@ Pakeisti [[#^s-e25dda113e2b60346d044db1|10 straipsnio]] 1, 5 ir [[#^s-4227121a68
 ### 6 straipsnis. 16 straipsnio pakeitimas ir papildymas ^s-f8e2e1c91c0d498f874cdaf2
 
 
-Pakeisti [[#^s-9b20939610e833a9359bc6b3|16 straipsnio]] 2, 3, 4, 5, [[#^s-9268100da550058322b8e2b0|6 dalis]], papildyti [[#^s-9c262e0797b353ea477cd5e7|7 dalimi]] ir šias dalis išdėstyti taip:
+Pakeisti [[#^s-9b20939610e833a9359bc6b3|16 straipsnio]] 2, 3, 4, 5, 6 dalis, papildyti [[#^s-9c262e0797b353ea477cd5e7|7 dalimi]] ir šias dalis išdėstyti taip:
 
 
 „2. Įmonės, įstaigos ir organizacijos iš asmenų, gaunančių pajamų, susijusių su darbo santykiais, apskaičiuotos fizinių asmenų pajamų mokesčio sumos moka ne mažesnes kaip 30 procentų privalomojo sveikatos draudimo įmokas.
@@ -167,7 +167,7 @@ Pakeisti [[#^s-9b20939610e833a9359bc6b3|16 straipsnio]] 2, 3, 4, 5, [[#^s-926810
 2) asmeninio ūkio naudotojai (iki 3 ha žemės naudmenų) už save ir už pilnamečius šeimos narius, dirbančius ūkyje, moka 1,5 procento minimalios mėnesinės algos dydžio privalomojo sveikatos draudimo įmokas. ^s-a53cede7b9b62d3a4b82ab0d
 
 
-6. Asmenys, nepriklausantys išvardytiems šio straipsnio 1, 2, 3, 4 ir [[#^s-9310b5006312c35c763d5f33|5 dalyse]] bei šio įstatymo 5 straipsnio 4 dalyje, moka už save 10 procentų Statistikos departamento skelbiamo praėjusio mėnesio vidutinio darbo užmokesčio dydžio privalomojo sveikatos draudimo įmokas. ^s-9268100da550058322b8e2b0
+6. Asmenys, nepriklausantys išvardytiems šio straipsnio 1, 2, [[#^s-15c55f810f56b661f4837ac6|3]], [[#^s-d3ee20fa0b026d52b6a70582|4]] ir [[#^s-9310b5006312c35c763d5f33|5]] dalyse bei šio įstatymo 5 straipsnio 4 dalyje, moka už save 10 procentų Statistikos departamento skelbiamo praėjusio mėnesio vidutinio darbo užmokesčio dydžio privalomojo sveikatos draudimo įmokas. ^s-9268100da550058322b8e2b0
 
 
 7. Pilnamečiai darbingi gyventojai, gyvenantys kaimo vietovėje ir neturintys savo žemės ar pajamų iš kito verslo, gali būti draudžiami privalomuoju sveikatos draudimu iš specialių fondų ar kitų žemės ūkio programų finansavimo lėšų, Žemės ir miškų ūkio ministerijos ir Privalomojo sveikatos draudimo tarybos nustatyta tvarka.“ ^s-9c262e0797b353ea477cd5e7
@@ -177,13 +177,13 @@ Pakeisti [[#^s-9b20939610e833a9359bc6b3|16 straipsnio]] 2, 3, 4, 5, [[#^s-926810
 ### 7 straipsnis. 17 straipsnio pakeitimas ir papildymas ^s-49381bfe4f1b99aada796908
 
 
-1. Pakeisti 17 straipsnio 1 dalį, papildyti 3 ir [[#^s-ab234e50efc6468c4af65c78|4 dalimis]] ir šias dalis išdėstyti taip: ^s-d553670d6ae74faa5395a326
+1. Pakeisti 17 straipsnio 1 dalį, papildyti 3 ir 4 dalimis ir šias dalis išdėstyti taip: ^s-d553670d6ae74faa5395a326
 
 
 „1. Asmenys, išvardyti šio įstatymo 16 straipsnio 5 ir 6 dalyse, privalomojo sveikatos draudimo įmokų dydį apskaičiuoja patys ir perveda į VLK privalomojo sveikatos draudimo fondo biudžeto sąskaitą.“
 
 
-„3. Valstybinės mokesčių inspekcijos, administruodamos šio įstatymo [[#^s-9b20939610e833a9359bc6b3|16 straipsnio]] 2, 3 ir [[#^s-ab234e50efc6468c4af65c78|4 dalyse]] numatytas įmokas, 30 procentų surinkto fizinių asmenų pajamų mokesčio sumos (patento mokesčio tam tikrai veiklos rūšiai sumos) per tris dienas perveda į VLK privalomojo sveikatos draudimo fondo biudžeto sąskaitą.
+„3. Valstybinės mokesčių inspekcijos, administruodamos šio įstatymo [[#^s-9b20939610e833a9359bc6b3|16 straipsnio]] 2, 3 ir 4 dalyse numatytas įmokas, 30 procentų surinkto fizinių asmenų pajamų mokesčio sumos (patento mokesčio tam tikrai veiklos rūšiai sumos) per tris dienas perveda į VLK privalomojo sveikatos draudimo fondo biudžeto sąskaitą.
 
 
 4. Valstybinio socialinio draudimo fondo valdyba, mokėdama šio įstatymo 16 straipsnio 1 dalyje numatytas įmokas, į VLK privalomojo sveikatos draudimo fondo biudžeto sąskaitą centralizuotai kas 3 dienas perveda lėšas iš Valstybinio socialinio draudimo fondo biudžeto sąskaitos.“ ^s-ab234e50efc6468c4af65c78
@@ -193,7 +193,7 @@ Pakeisti [[#^s-9b20939610e833a9359bc6b3|16 straipsnio]] 2, 3, 4, 5, [[#^s-926810
 ### 8 straipsnis. 18 straipsnio pakeitimas ^s-9cb00c3a6cbe41a571c75ccf
 
 
-Pakeisti [[#^s-543271b0f5933047df83f70a|18 straipsnio]] 1, 2 ir [[#^s-f5f5e5f3b451c5b04ee319d2|3 dalis]], 4 ir 5 dalis pripažinti netekusiomis galios ir visą straipsnį išdėstyti taip:
+Pakeisti [[#^s-543271b0f5933047df83f70a|18 straipsnio]] 1, 2 ir 3 dalis, 4 ir 5 dalis pripažinti netekusiomis galios ir visą straipsnį išdėstyti taip:
 
 
 „[[#^s-543271b0f5933047df83f70a|18 straipsnis]]. Atsakomybė už privalomojo sveikatos draudimo įmokų mokėjimą

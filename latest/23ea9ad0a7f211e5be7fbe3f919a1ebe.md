@@ -40,13 +40,13 @@ Vilnius
 ### 1 straipsnis. 6 straipsnio pakeitimas ^s-5e482af5297647676546cdf3
 
 
-1. Pakeisti 6 straipsnio 2 dalį ir ją išdėstyti taip: ^s-f4f6e63c663e2fc3c25eac0e
+1. Pakeisti [[latest/fa05328089d911e397b5c02d3197f382#^s-58e8f9ff46049589116fbbb6|6 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-f4f6e63c663e2fc3c25eac0e
 
 
 „2. Šio įstatymo 2 straipsnis įsigalioja 2017 m. sausio 1 d.“
 
 
-2. Pakeisti 6 straipsnio 3 dalį ir ją išdėstyti taip: ^s-a43d5571a3707f68e9577f70
+2. Pakeisti [[latest/fa05328089d911e397b5c02d3197f382#^s-323b862b3f453b67d68d6f37|6 straipsnio 3 dalį]] ir ją išdėstyti taip: ^s-a43d5571a3707f68e9577f70
 
 
 „3. Šio įstatymo 3 straipsnis įsigalioja 2018 m. sausio 1 d.“

@@ -123,7 +123,7 @@ VALSTYBĖS KONTROLĖS STATUSAS
 ### 4 straipsnis. Institucijos veiklos teisiniai pagrindai ir principai ^s-6b4fe2284b084e41c0bf2379
 
 
-1. Valstybės kontrolė savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-f23b4ab29c103f4b52dd423b
+1. Valstybės kontrolė savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), šiuo ir kitais įstatymais, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-f23b4ab29c103f4b52dd423b
 
 
 2. Valstybės kontrolės veikla grindžiama nepriklausomumo, skaidrumo, teisėtumo ir profesionalumo principais. ^s-568014fedac512db3d5911eb
@@ -239,7 +239,7 @@ Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
 3) per 7 darbo dienas nuo Vyriausybės ar jos įgaliotos institucijos ekonominės raidos scenarijaus viešo paskelbimo išvadą dėl ekonominės raidos scenarijaus tvirtinimo; ^s-c6709c70fb0d2e09804a66b6
 
 
-4) per 7 darbo dienas nuo Vyriausybės ar jos įgaliotos institucijos ekonominės raidos scenarijaus viešo paskelbimo išvadą dėl susidariusios arba numatomos padėties atitikties išskirtinių aplinkybių sąvokai pagal 1997 m. liepos 7 d. Tarybos reglamento (EB) Nr. 1466/97 dėl biudžeto būklės priežiūros stiprinimo ir ekonominės politikos priežiūros bei koordinavimo su paskutiniais pakeitimais, padarytais 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1175/2011, nuostatas; ^s-71a248c5a4f348fa79ce1ecc
+4) per 7 darbo dienas nuo Vyriausybės ar jos įgaliotos institucijos ekonominės raidos scenarijaus viešo paskelbimo išvadą dėl susidariusios arba numatomos padėties atitikties išskirtinių aplinkybių sąvokai pagal 1997 m. liepos 7 d. Tarybos [reglamento (EB) Nr. 1466/97](https://eur-lex.europa.eu/eli/reg/1466/97/oj) [dėl biudžeto](https://e-tar.lt/portal/lt/legalAct/SAV.494628) būklės priežiūros stiprinimo ir ekonominės politikos priežiūros bei koordinavimo su paskutiniais pakeitimais, padarytais 2011 m. lapkričio 16 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1175/2011](https://eur-lex.europa.eu/eli/reg/1175/2011/oj), nuostatas; ^s-71a248c5a4f348fa79ce1ecc
 
 
 5) per 15 darbo dienų po to, kai Vyriausybė pateikia Seimui struktūrinio postūmio užduočių ir priemonių šioms užduotims įvykdyti gairių pasiūlymą, išvadą dėl Vyriausybės pasiūlytų tvirtinti Seimui struktūrinio postūmio užduočių ir priemonių šioms užduotims įvykdyti gairių atitikties Fiskalinės sutarties įgyvendinimo konstituciniame įstatyme nustatytiems reikalavimams dėl vidutinio laikotarpio tikslo pasiekimo laiko; ^s-cacef5b5f8cd360f701b825c
@@ -248,7 +248,7 @@ Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
 6) per 7 darbo dienas nuo Lietuvos stabilumo tam tikrų metų programos viešo paskelbimo Lietuvos stabilumo programos vertinimo ataskaitą; ^s-ef3f9481d64294ebb14c5a33
 
 
-7) iki kiekvienų metų birželio 30 dienos savivaldybių biudžetų atitikties Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo [[#^s-6b4fe2284b084e41c0bf2379|4 straipsnio]] 2, 4–[[#^s-6426efe9adbd3605372d1e3b|7 dalyse]] nustatytoms taisyklėms ir neatitikties šioms taisyklėms ištaisymo vertinimo ataskaitą. ^s-7175438eb262b99eee308af4
+7) iki kiekvienų metų birželio 30 dienos savivaldybių biudžetų atitikties Fiskalinės sutarties įgyvendinimo konstitucinio įstatymo [[#^s-6b4fe2284b084e41c0bf2379|4 straipsnio]] [[#^s-568014fedac512db3d5911eb|2]], [[#^s-a0e2af33e5bd0af0e10b12ff|4]]–7 dalyse nustatytoms taisyklėms ir neatitikties šioms taisyklėms ištaisymo vertinimo ataskaitą. ^s-7175438eb262b99eee308af4
 Papildyta straipsnio punktu:
 Nr. XIV-1765, 2022-12-23, paskelbta TAR 2022-12-30, i. k. 2022-27580
 
@@ -310,7 +310,7 @@ Nr. XIV-841, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27737
 14) turi teisę spręsti su juo pačiu susijusius einamuosius vidaus administravimo klausimus. ^s-23be15f628de4520c6a5f81b
 
 
-2. Kai valstybės kontrolieriaus nėra, įskaitant šio įstatymo [[#^s-51b005a45019c4a7608991ab|20 straipsnio]] 5 ir 6 dalyse nustatytus atvejus, valstybės kontrolieriaus pavedimu jį pavaduoja vienas iš valstybės kontrolieriaus pavaduotojų, tačiau jis neturi [[#^s-5434c8f7258bf066713e3dba|šio straipsnio 1 dalies 6 punkte]] nustatytų įgaliojimų. Kai nėra valstybės kontrolieriaus pavedimo, jį pavaduoja vyriausias pagal amžių valstybės kontrolieriaus pavaduotojas. ^s-db4a8de65bd3209266b739a8
+2. Kai valstybės kontrolieriaus nėra, įskaitant šio įstatymo [[#^s-51b005a45019c4a7608991ab|20 straipsnio]] [[#^s-57516a66a81cf77de0259168|5]] ir [[#^s-a58267e6739830e04b12bbd4|6]] dalyse nustatytus atvejus, valstybės kontrolieriaus pavedimu jį pavaduoja vienas iš valstybės kontrolieriaus pavaduotojų, tačiau jis neturi [[#^s-5434c8f7258bf066713e3dba|šio straipsnio 1 dalies 6 punkte]] nustatytų įgaliojimų. Kai nėra valstybės kontrolieriaus pavedimo, jį pavaduoja vyriausias pagal amžių valstybės kontrolieriaus pavaduotojas. ^s-db4a8de65bd3209266b739a8
 
 
 
@@ -664,7 +664,7 @@ VALSTYBĖS KONTROLĖS DARBUOTOJAI, JŲ SKYRIMAS (PRIĖMIMAS) Į PAREIGAS IR ATLE
 3) įstatymų nustatyta tvarka atleistas nuo baudžiamosios atsakomybės už labai sunkaus nusikaltimo padarymą ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 4 metai arba atleistas nuo baudžiamosios atsakomybės už sunkaus nusikaltimo padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai asmuo ar nusikalstama veika prarado pavojingumą) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 3 metai, arba atleistas nuo baudžiamosios atsakomybės už apysunkio nusikaltimo padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai asmuo ar nusikalstama veika prarado pavojingumą arba dėl nusikaltimo mažareikšmiškumo) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 2 metai ar nėra pasibaigęs laidavimo terminas, arba atleistas nuo baudžiamosios atsakomybės už nesunkaus nusikaltimo ar baudžiamojo nusižengimo finansų sistemai ar valstybės tarnybai ir viešiesiems interesams padarymą (išskyrus atleidimą nuo baudžiamosios atsakomybės, kai asmuo ar nusikalstama veika prarado pavojingumą arba dėl nusikaltimo mažareikšmiškumo) ir nuo atleidimo nuo baudžiamosios atsakomybės dienos nepraėjo 1 metai ar nėra pasibaigęs laidavimo terminas; ^s-af467551d471e3b3a8b87125
 
 
-4) atleistas iš valstybės tarnautojo pareigų už [[latest/TAR.D3ED3792F52B#^s-f2d3caa36d5a13805b5d355e|Lietuvos Respublikos valstybės tarnybos įstatymo 23 straipsnio 5 dalies]] 1, 2, 3, 4, 5, 7, 8, 9 punktuose nurodytus šiurkščius tarnybinius nusižengimus arba [[latest/TAR.D3ED3792F52B#^s-a1ea77997e4792c3ba707676|Valstybės tarnybos įstatymo 25 straipsnio 2 dalyje]] numatytu atveju pripažintas padaręs šiurkštų tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, atleistas iš darbo už [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekse]] nurodytus šiurkščius darbo pareigų pažeidimus, ir nuo atleidimo iš pareigų ar darbo dienos arba nuo pripažinimo padarius šiurkštų tarnybinį nusižengimą dienos nepraėjo 3 metai; ^s-44ceb7a90d912c889abad253
+4) atleistas iš valstybės tarnautojo pareigų už [[latest/TAR.D3ED3792F52B#^s-f2d3caa36d5a13805b5d355e|Lietuvos Respublikos valstybės tarnybos įstatymo 23 straipsnio 5 dalies]] [[latest/TAR.D3ED3792F52B#^s-61c420071c69c3ee3ef05f26|1]], [[latest/TAR.D3ED3792F52B#^s-744bf4348932d25161397c8c|2]], [[latest/TAR.D3ED3792F52B#^s-79bac0e07eca23759f279eb0|3]], [[latest/TAR.D3ED3792F52B#^s-367c493521204a0b56a64303|4]], [[latest/TAR.D3ED3792F52B#^s-19501d6dd10dfed5dc882f6c|5]], [[latest/TAR.D3ED3792F52B#^s-cc328ee7195659800ffdd0b4|7]], [[latest/TAR.D3ED3792F52B#^s-89de05302f9e5b39d4bafb6e|8]], [[latest/TAR.D3ED3792F52B#^s-15b9d55a6a0af9e57aac641d|9]] punktuose nurodytus šiurkščius tarnybinius nusižengimus arba [[latest/TAR.D3ED3792F52B#^s-a1ea77997e4792c3ba707676|Valstybės tarnybos įstatymo 25 straipsnio 2 dalyje]] numatytu atveju pripažintas padaręs šiurkštų tarnybinį nusižengimą, už kurį turėtų būti skirta tarnybinė nuobauda – atleidimas iš pareigų, atleistas iš darbo už [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodekse]] nurodytus šiurkščius darbo pareigų pažeidimus, ir nuo atleidimo iš pareigų ar darbo dienos arba nuo pripažinimo padarius šiurkštų tarnybinį nusižengimą dienos nepraėjo 3 metai; ^s-44ceb7a90d912c889abad253
 
 
 5) atleistas iš darbo, pareigų ar praradęs teisę verstis tam tikra veikla už kituose įstatymuose keliamo nepriekaištingos reputacijos reikalavimo neatitiktį ar elgesio (etikos) normų pažeidimą ir nuo atleidimo iš darbo, pareigų ar teisės verstis atitinkama veikla praradimo dienos nepraėjo 3 metai, ir jo elgesys neatitinka Valstybės kontrolės darbuotojų etikos kodekso nuostatų; ^s-c041618086ffae3289cf92f7
@@ -684,7 +684,7 @@ Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 4. Jeigu Valstybės kontrolės darbuotojui yra nustatytas specialusis reikalavimas turėti įstatymų nustatytas specialiąsias teises arba atitikti teisės aktuose nustatytus reikalavimus, būtinus išduodant leidimą dirbti ar susipažinti su įslaptinta informacija arba suteikiant kitas specialiąsias teises, asmens, siekiančio Valstybės kontrolės darbuotojo statuso, kandidatūra teisės aktų nustatyta tvarka turi būti patikrinta arba specialioji teisė turi būti suteikta iki asmens priėmimo (arba perkėlimo) į Valstybės kontrolės darbuotojo pareigas. Į Valstybės kontrolės darbuotojo pareigas asmuo priimamas (arba perkeliamas), kai jam suteikiama specialioji teisė arba kai gaunama kompetentingos valstybės institucijos išvada, kad šiam asmeniui gali būti išduotas leidimas dirbti ar susipažinti su įslaptinta informacija arba kad jam gali būti suteikiama kita įstatymų nustatyta specialioji teisė. Valstybės kontrolė turi teisę gauti duomenis apie asmenį, siekiantį Valstybės kontrolės darbuotojo statuso, iš kompetentingų valstybės institucijų. ^s-9609d92bf0f81d32b182a0e6
 
 
-5. Į šio straipsnio 1 ir [[#^s-23ce70bbf1a3222be026555e|2 dalyse]] nurodytas Valstybės kontrolės darbuotojo pareigas priimama viešo konkurso arba vidaus atrankos būdu. Konkurso ir atrankos organizavimo ir vykdymo tvarką nustato valstybės kontrolierius. Konkurse ir atrankoje gali dalyvauti asmenys, atitinkantys valstybės kontrolieriaus nustatytus bendruosius reikalavimus, išskyrus [[#^s-cd6e63388aacfb25761ee28c|šio straipsnio 1 dalyje]] numatytą atvejį, ir specialiuosius reikalavimus. Konkurso ir (ar) atrankos metu tikrinamas asmens tinkamumas eiti šio straipsnio 1 ir [[#^s-23ce70bbf1a3222be026555e|2 dalyse]] nurodytas Valstybės kontrolės darbuotojo pareigas. ^s-828f9dfc2929507775e4ccff
+5. Į šio straipsnio [[#^s-cd6e63388aacfb25761ee28c|1]] ir [[#^s-23ce70bbf1a3222be026555e|2]] dalyse nurodytas Valstybės kontrolės darbuotojo pareigas priimama viešo konkurso arba vidaus atrankos būdu. Konkurso ir atrankos organizavimo ir vykdymo tvarką nustato valstybės kontrolierius. Konkurse ir atrankoje gali dalyvauti asmenys, atitinkantys valstybės kontrolieriaus nustatytus bendruosius reikalavimus, išskyrus [[#^s-cd6e63388aacfb25761ee28c|šio straipsnio 1 dalyje]] numatytą atvejį, ir specialiuosius reikalavimus. Konkurso ir (ar) atrankos metu tikrinamas asmens tinkamumas eiti šio straipsnio [[#^s-cd6e63388aacfb25761ee28c|1]] ir [[#^s-23ce70bbf1a3222be026555e|2]] dalyse nurodytas Valstybės kontrolės darbuotojo pareigas. ^s-828f9dfc2929507775e4ccff
 
 
 6. Valstybiniai auditoriai, prieš pradėdami eiti pareigas, prisiekia Lietuvos Respublikai. Valstybinio auditoriaus priesaiką priima valstybės kontrolierius ar jį pavaduojantis valstybės kontrolieriaus pavaduotojas. ^s-868607a02fe29dc5918ff73e
@@ -699,7 +699,7 @@ Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 9. Administracijos vadovas į darbą priimamas 7 metų kadencijai. Tas pats asmuo negali eiti administracijos vadovo pareigų daugiau kaip dvi kadencijas iš eilės. ^s-122e4786a46869eae2fe6e5c
 
 
-10. Šio straipsnio 1 ir [[#^s-23ce70bbf1a3222be026555e|2 dalyse]] nurodyti Valstybės kontrolės darbuotojai, išskyrus atliekančius ūkinio ir (ar) techninio pobūdžio funkcijas, taip pat atleidžiami iš pareigų, jeigu: ^s-623247838c58c78243eb793c
+10. Šio straipsnio [[#^s-cd6e63388aacfb25761ee28c|1]] ir [[#^s-23ce70bbf1a3222be026555e|2]] dalyse nurodyti Valstybės kontrolės darbuotojai, išskyrus atliekančius ūkinio ir (ar) techninio pobūdžio funkcijas, taip pat atleidžiami iš pareigų, jeigu: ^s-623247838c58c78243eb793c
 
 
 1) savo poelgiu darbo metu arba ne darbo metu diskredituoja Valstybės kontrolės darbuotojo vardą; ^s-999ae888dec3947f0f6996e4
@@ -732,7 +732,7 @@ Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 ### 23 straipsnis. Priėmimo į Valstybės kontrolę apribojimai ^s-d2e9c76f215b890b215ef7e7
 
 
-Į šio įstatymo [[#^s-30529810adaa18ba49f381fd|22 straipsnio]] 1 ir 2 dalyse nurodytas Valstybės kontrolės darbuotojo, išskyrus atliekantį ūkinio ir (ar) techninio pobūdžio funkcijas, pareigas negali būti priimamas asmuo, jeigu:
+Į šio įstatymo [[#^s-30529810adaa18ba49f381fd|22 straipsnio]] [[#^s-cd6e63388aacfb25761ee28c|1]] ir [[#^s-23ce70bbf1a3222be026555e|2]] dalyse nurodytas Valstybės kontrolės darbuotojo, išskyrus atliekantį ūkinio ir (ar) techninio pobūdžio funkcijas, pareigas negali būti priimamas asmuo, jeigu:
 
 
 1) paaiškėja, kad jis prarado nepriekaištingą reputaciją; ^s-9670222ebbd67161a56c372c
@@ -914,7 +914,7 @@ Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 10. Valstybės kontrolės darbuotojams, išskyrus valstybės kontrolierių, už didelio masto sudėtingus ir reikšmingus valstybei ir visuomenei valstybinius auditus ar už kitus Valstybės kontrolės veiklai reikšmingus rezultatus gali būti skiriama vienkartinė piniginė išmoka. Vienkartinė piniginė išmoka negali viršyti Valstybės kontrolės darbuotojo pareiginės algos, o [[#^s-16e8684c8eade0044055b4cf|šio straipsnio 7 dalyje]] nurodytas pareigas einančių darbuotojų – jiems nustatytos pareiginės algos pastoviosios dalies, ir mokama neviršijant darbo užmokesčiui skirtų lėšų valstybės kontrolieriaus nustatyta tvarka. ^s-9bcc9e54e2e8171b834f48eb
 
 
-11. Valstybės kontrolės darbuotojams už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su Valstybės kontrolės uždaviniais susijusi veikla, iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų pagal paramos teikimo projektų sutartyse nustatytas sąlygas ir įkainius gali būti mokamos vienkartinės ar periodinės išmokos, neįskaičiuojamos į šio straipsnio 3, 6, 7 ir [[#^s-a70a0edd82522386ec809e36|8 dalyse]] nustatytą Valstybės kontrolės darbuotojų darbo užmokestį. Už laiką, kurį Valstybės kontrolės darbuotojas dalyvauja šioje dalyje nurodytuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose ir už kurį gauna išmokas iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų, skirtų paramos teikimo projektams įgyvendinti, darbo užmokestis iš Valstybės kontrolei skirtų valstybės biudžeto asignavimų Valstybės kontrolės darbuotojui nemokamas. ^s-17d7308637c3bb69e274d0a2
+11. Valstybės kontrolės darbuotojams už dalyvavimą Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių finansuojamuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose, kuriuose vykdoma su Valstybės kontrolės uždaviniais susijusi veikla, iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų pagal paramos teikimo projektų sutartyse nustatytas sąlygas ir įkainius gali būti mokamos vienkartinės ar periodinės išmokos, neįskaičiuojamos į šio straipsnio [[#^s-6388a54e09a6e346d931a0fb|3]], [[#^s-17178b40a42db43b8197c292|6]], [[#^s-16e8684c8eade0044055b4cf|7]] ir [[#^s-a70a0edd82522386ec809e36|8]] dalyse nustatytą Valstybės kontrolės darbuotojų darbo užmokestį. Už laiką, kurį Valstybės kontrolės darbuotojas dalyvauja šioje dalyje nurodytuose paramos teikimo arba Lietuvos vystomojo bendradarbiavimo ir paramos demokratijai projektuose ir už kurį gauna išmokas iš Europos Sąjungos, tarptautinių organizacijų, užsienio valstybių lėšų, skirtų paramos teikimo projektams įgyvendinti, darbo užmokestis iš Valstybės kontrolei skirtų valstybės biudžeto asignavimų Valstybės kontrolės darbuotojui nemokamas. ^s-17d7308637c3bb69e274d0a2
 
 
 12. Duomenys apie Valstybės kontrolės darbuotojų darbo užmokestį yra vieši. Šie duomenys teikiami [[latest/TAR.FA13E28615F6|Lietuvos Respublikos teisės gauti informaciją ir duomenų pakartotinio naudojimo įstatymo]] nustatyta tvarka. ^s-fc8d35ac90a7a6ace82a9308
@@ -926,7 +926,7 @@ Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
 ### 29 straipsnis. Papildomos kasmetinės atostogos ^s-2d71806ed68da3108e4ca32f
 
 
-Valstybės kontrolės darbuotojui suteikiant papildomas kasmetines atostogas pagal [[latest/f6d686707e7011e6b969d7ae07280e89#^s-65822c992454159edc1e15c4|Darbo kodekso 138 straipsnio 2 dalį]], į ilgalaikio nepertraukiamojo darbo toje pačioje darbovietėje laiką įskaitomi tarnybos Lietuvos valstybei metai, nurodyti [[latest/TAR.D3ED3792F52B#^s-671618a8a051df204e18578f|Valstybės tarnybos įstatymo 31 straipsnio]] 1 ir 2 dalyse.
+Valstybės kontrolės darbuotojui suteikiant papildomas kasmetines atostogas pagal [[latest/f6d686707e7011e6b969d7ae07280e89#^s-65822c992454159edc1e15c4|Darbo kodekso 138 straipsnio 2 dalį]], į ilgalaikio nepertraukiamojo darbo toje pačioje darbovietėje laiką įskaitomi tarnybos Lietuvos valstybei metai, nurodyti [[latest/TAR.D3ED3792F52B#^s-671618a8a051df204e18578f|Valstybės tarnybos įstatymo 31 straipsnio]] [[latest/TAR.D3ED3792F52B#^s-23a99f700b9d723bd641c71f|1]] ir [[latest/TAR.D3ED3792F52B#^s-7fb01d06b9dd485508d140df|2]] dalyse.
 
 
 Straipsnio pakeitimai:
@@ -977,7 +977,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. VIII-467, 97.10.21, Žin., 1997, Nr.99-2504 (97.10.31)
-LIETUVOS RESPUBLIKOS VALSTYBĖS KONTROLĖS ĮSTATYMO 35 STRAIPSNIO PAPILDYMO
+[[latest/TAR.61BB05227699|LIETUVOS RESPUBLIKOS VALSTYBĖS KONTROLĖS ĮSTATYMO 35 STRAIPSNIO]] PAPILDYMO
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1108,7 +1108,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1291, 2014-11-06, paskelbta TAR 2014-11-13, i. k. 2014-16779
-Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 2, 4, 6, 9 ir [[#^s-d2e9c76f215b890b215ef7e7|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 [[#^s-dcd0e1c7a41bf2931bf3efaa|2]], [[#^s-6b4fe2284b084e41c0bf2379|4]], [[#^s-0d4525c61b2f2ac5425133ba|6]], [[#^s-44b2c1a4fca48fa297da951b|9]] ir [[#^s-d2e9c76f215b890b215ef7e7|23]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1138,4 +1138,4 @@ Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 [[#^s-26d10554945
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2001, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11575
-Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 22, 23, 26, 28 ir [[#^s-2d71806ed68da3108e4ca32f|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos valstybės kontrolės įstatymo Nr. I-907 [[#^s-30529810adaa18ba49f381fd|22]], [[#^s-d2e9c76f215b890b215ef7e7|23]], [[#^s-b62c17e52cb96c1cd3cebcef|26]], [[#^s-cd6798897df3080f74a0f3de|28]] ir [[#^s-2d71806ed68da3108e4ca32f|29]] straipsnių pakeitimo įstatymas

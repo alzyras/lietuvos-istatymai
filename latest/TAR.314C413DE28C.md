@@ -260,7 +260,7 @@ Priimančiosios organizacijos gali būti:
 4) paskirti savanoriui priimančiosios organizacijos atstovą, kuris organizuoja savanorišką veiklą; ^s-9f7b39e35e4abf437d8993bd
 
 
-5) sudaryti su savanoriu savanoriškos veiklos sutartį šio įstatymo [[#^s-8e67792a500c37d1cf909f4c|11 straipsnio]] 2 ir 3 dalyse nurodytais atvejais; ^s-06ac9af7128b2c6978ba4a97
+5) sudaryti su savanoriu savanoriškos veiklos sutartį šio įstatymo [[#^s-8e67792a500c37d1cf909f4c|11 straipsnio]] [[#^s-dc4b3b6d9fcdfbffd1128328|2]] ir [[#^s-eff758878644686e9c8789e1|3]] dalyse nurodytais atvejais; ^s-06ac9af7128b2c6978ba4a97
 
 
 6) savanorio prašymu išduoti dokumentą, patvirtinantį savanorio vykdytą savanorišką veiklą, įgytas kompetencijas; ^s-b17bea3f66b199dbb7dadf36
@@ -395,7 +395,7 @@ SAVANORIŠKOS VEIKLOS ORGANIZAVIMAS, SAVANORIO DRAUDIMAS, SAVANORIŠKOS VEIKLOS 
 9) kitas tiesiogiai su savanoriškos veiklos vykdymu susijusias ir su priimančiąja organizacija ir (ar) koordinuojančiąja organizacija suderintas išlaidas. ^s-eea5a1a9a3f1182812904ecf
 
 
-2. Ilgalaikę savanorišką veiklą vykdančiam savanoriui gali būti kompensuojamos [[#^s-b506fff70244de9f9fe1e8b1|šio straipsnio 1 dalies]] 1, 2, 4–9 punktuose nurodytos išlaidos ir skiriami dienpinigiai, jeigu yra tenkinamos visos šioje dalyje išvardytos sąlygos: ^s-7f674ca4c258e5003c36fe6c
+2. Ilgalaikę savanorišką veiklą vykdančiam savanoriui gali būti kompensuojamos [[#^s-b506fff70244de9f9fe1e8b1|šio straipsnio 1 dalies]] [[#^s-24148012595f96f6896a0a03|1]], [[#^s-44f504043828e2a0f2d093bf|2]], 4–9 punktuose nurodytos išlaidos ir skiriami dienpinigiai, jeigu yra tenkinamos visos šioje dalyje išvardytos sąlygos: ^s-7f674ca4c258e5003c36fe6c
 
 
 1) savanoriui nėra kompensuojamos išlaidos pagal [[#^s-a5eef2c1ce1d6b3d58759444|šio straipsnio 1 dalies 3 punktą]]; ^s-24148012595f96f6896a0a03
@@ -453,7 +453,7 @@ priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
 
-2016 m. gegužės 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/801 dėl trečiųjų šalių piliečių atvykimo ir gyvenimo mokslinių tyrimų, studijų, stažavimosi, savanoriškos tarnybos, mokinių mainų programų arba edukacinių projektų ir dalyvavimo Au pair programoje tikslais sąlygų.
+2016 m. gegužės 11 d. Europos Parlamento ir Tarybos [direktyva (ES) 2016/801](https://eur-lex.europa.eu/eli/dir/2016/801/oj) dėl trečiųjų šalių piliečių atvykimo ir gyvenimo mokslinių tyrimų, studijų, stažavimosi, savanoriškos tarnybos, mokinių mainų programų arba edukacinių projektų ir dalyvavimo Au pair programoje tikslais sąlygų.
 ____________________
 
 

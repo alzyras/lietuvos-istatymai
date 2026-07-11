@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 81 straipsnio pakeitimas ^s-979f750633736d07ae511764
 
 
-Papildyti 81 straipsnio 7 dalį 4 punktu:
+Papildyti [[latest/TAR.1E52802BE548|81 straipsnio 7 dalį 4 punktu]]:
 
 
 „4) teikiama žurnalistams Lietuvos Respublikos visuomenės informavimo įstatymo nustatytomis sąlygomis.“

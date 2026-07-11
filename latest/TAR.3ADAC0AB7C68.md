@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-dc16bb2b31e4ed935ceaee5f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 30 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl prekybinės laivybos“, ratifikuoja 1999 m. balandžio 15 d. Klaipėdoje pasirašytą Lietuvos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl prekybinės laivybos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. rugsėjo 30 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl prekybinės laivybos“](https://e-tar.lt/portal/lt/legalAct/TAR.77C2A77FD923), ratifikuoja 1999 m. balandžio 15 d. Klaipėdoje pasirašytą Lietuvos Respublikos Vyriausybės, Latvijos Respublikos Vyriausybės ir Estijos Respublikos Vyriausybės sutartį dėl prekybinės laivybos.
 
 
 

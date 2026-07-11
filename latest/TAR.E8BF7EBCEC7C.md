@@ -190,7 +190,7 @@ Pakeisti 36 straipsnio 2 dalį ir ją išdėstyti ją taip:
 ### 14 straipsnis. 42 straipsnio 1 dalies papildymas 4 ir 5 punktais ^s-4bf926dd600002b58c794f5c
 
 
-Papildyti 42 straipsnio 1 dalį 4 ir [[#^s-55e8394fd83ddc9b3f1c979e|5 punktais]]:
+Papildyti 42 straipsnio 1 dalį 4 ir 5 punktais:
 
 
 „4) užtikrinti, kad lėšų konvertavimas į apskaitos vienetus ir apskaitos vienetų konvertavimas į lėšas vyktų pagal teisės aktų ir pensijų fondo taisyklių reikalavimus;
@@ -269,7 +269,7 @@ Papildyti 46 straipsnį 5 dalimi:
 „3. Bendra investicijų į kolektyvinio investavimo subjektus, kurie veikia ne pagal 1985 m. gruodžio 20 d. Tarybos direktyvos 85/611/EEB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIAVPS), derinimo (su paskutiniais pakeitimais, nustatytais 2002 m. sausio 21 d. Europos Parlamento ir Tarybos direktyvomis 2001/107/EB ir 2001/108/EB) nustatytas taisykles, gali būti ne didesnė kaip 30 procentų pensijų fondo grynųjų aktyvų.“
 
 
-3. Buvusią [[#^s-5527d70b4f90102a9dac436d|3 dalį]] laikyti 4 dalimi, pakeisti ir išdėstyti taip: ^s-5527d70b4f90102a9dac436d
+3. Buvusią 3 dalį laikyti 4 dalimi, pakeisti ir išdėstyti taip: ^s-5527d70b4f90102a9dac436d
 
 
 „4. Tokie kolektyvinio investavimo subjektai, kuriuos valdo ta pati valdymo įmonė ar tokios valdymo įmonės, kurių daugiau nei pusė valdymo organų narių yra tie patys asmenys ar kurias kontroliuoja tas pats asmuo arba kurių viena turi daugiau kaip 10 procentų balsų kitos valdymo įmonės visuotiniame akcininkų susirinkime, laikomi susijusiais. Jei bent vienas iš išvardytų subjektų yra pensijų fondo valdymo įmonė, tai to pensijų fondo turtas į susijusių kolektyvinio investavimo subjektų investicinius vienetus ar akcijas gali būti investuojamas tik grynųjų aktyvų verte.“
@@ -318,7 +318,7 @@ Pakeisti ir papildyti 59 straipsnį ir jį išdėstyti taip:
 „59 straipsnis. Piniginės baudos už Įstatymo pažeidimą
 
 
-Vertybinių popierių komisija, vadovaudamasi Vertybinių popierių rinkos įstatymo 62 straipsnyje nustatyta tvarka, turi teisę skirti baudas:
+Vertybinių popierių komisija, vadovaudamasi [Vertybinių popierių rinkos įstatymo 62 straipsnyje](https://e-tar.lt/portal/lt/legalAct/TAR.CF4B2155619D) nustatyta tvarka, turi teisę skirti baudas:
 
 
 1) juridiniams asmenims, veikiantiems kaip valdymo įmonės, bet neturintiems šio Įstatymo nustatytos licencijos – iki 200 tūkstančių litų; ^s-5629eab011f1bebceccefe30

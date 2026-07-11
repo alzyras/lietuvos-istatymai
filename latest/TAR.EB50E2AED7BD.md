@@ -36,7 +36,7 @@ Vilnius
 ### 1 straipsnis. ^s-131fe084ca221f92ca954646
 
 
-Lietuvos Respublikos Aukščiausiosios Tarybos Reglamentas, kiek jis neprieštarauja Lietuvos Respublikos Konstitucijai, ir šis įstatymas laikomi Laikinuoju Seimo statutu.
+[Lietuvos Respublikos Aukščiausiosios Tarybos Reglamentas](https://e-tar.lt/portal/lt/legalAct/TAR.A4A3D46F7D30), kiek jis neprieštarauja Lietuvos Respublikos Konstitucijai, ir šis įstatymas laikomi Laikinuoju Seimo statutu.
 
 
 

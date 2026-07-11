@@ -172,7 +172,7 @@ Nustatyti šią savivaldybių biudžetų ir valstybės biudžeto mokestinių paj
 3) iš nepanaudotų pagal šio straipsnio [[#^s-4254d51edc6dce1cf01e3c4d|2 punktą]] rezervo lėšų padengiamos valstybės biudžeto 1998 metais negautos planuotos mokestinės pajamos (pagal mokestinių pajamų plano įvykdymo duomenis); ^s-e1efe60e737ac60e7e09f992
 
 
-4) nepanaudotas pagal šio straipsnio 2 ir [[#^s-e1efe60e737ac60e7e09f992|3 punktus]] mokestinių pajamų išlyginimo rezervo likutis paskirstomas taip: ^s-31b90bbb137cb31f394fde1b
+4) nepanaudotas pagal šio straipsnio [[#^s-4254d51edc6dce1cf01e3c4d|2]] ir [[#^s-e1efe60e737ac60e7e09f992|3]] punktus mokestinių pajamų išlyginimo rezervo likutis paskirstomas taip: ^s-31b90bbb137cb31f394fde1b
 
 
 a) savivaldybių butų fondui kaupti – ne daugiau kaip 10 mln. litų;

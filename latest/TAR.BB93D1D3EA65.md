@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-24e6dfddb55666ac7f6a135e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. balandžio 16 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Švedijos Karalystės Vyriausybės sutartį dėl asmenų grąžinimo“, ratifikuoja Lietuvos Respublikos Vyriausybės ir Švedijos Karalystės Vyriausybės sutartį dėl asmenų grąžinimo, pasirašytą 1997 m. vasario 10 d. Stokholme.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. balandžio 16 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos Vyriausybės ir Švedijos Karalystės Vyriausybės sutartį dėl asmenų grąžinimo“](https://e-tar.lt/portal/lt/legalAct/TAR.222475280368), ratifikuoja Lietuvos Respublikos Vyriausybės ir Švedijos Karalystės Vyriausybės sutartį dėl asmenų grąžinimo, pasirašytą 1997 m. vasario 10 d. Stokholme.
 
 
 

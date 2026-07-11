@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.FBE404535C5B#^s-1aaede8fe7a4f678f7df2588|Lietuvos Respublikos transporto veiklos pagrindų įstatymas]] - Įstatymas Nr. VIII-425
-- [[latest/TAR.FBE404535C5B#^s-8c654f962a77a7776a4161a6|Lietuvos Respublikos transporto veiklos pagrindų įstatymas]] - Įstatymas Nr. VIII-425
+_Nėra._

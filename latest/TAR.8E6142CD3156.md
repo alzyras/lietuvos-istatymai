@@ -193,9 +193,9 @@ Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal p
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3123, 2024-11-12, paskelbta TAR 2024-11-20, i. k. 2024-20205
-Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo Nr. XI-2411 2 ir [[#^s-3a8b7798fdc0998213d1ac72|4 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo Nr. XI-2411 [[#^s-a8b42312e512ac075fe25fef|2]] ir [[#^s-3a8b7798fdc0998213d1ac72|4]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-360, 2025-06-26, paskelbta TAR 2025-06-30, i. k. 2025-12021
-Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo Nr. XI-2411 2 ir [[#^s-3a8b7798fdc0998213d1ac72|4 straipsnių]] pakeitimo [[latest/00ebc6f2a73211ef90b5ee8931e5ce5e|įstatymo Nr. XIV-3123]] [[#^s-0b4ecaa959a0056ddba94dfb|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos žemės ūkio ir miškininkystės paslaugų teikimo pagal paslaugų kvitą įstatymo Nr. XI-2411 [[#^s-a8b42312e512ac075fe25fef|2]] ir [[#^s-3a8b7798fdc0998213d1ac72|4]] straipsnių pakeitimo [[latest/00ebc6f2a73211ef90b5ee8931e5ce5e|įstatymo Nr. XIV-3123]] [[#^s-0b4ecaa959a0056ddba94dfb|1 straipsnio]] pakeitimo įstatymas

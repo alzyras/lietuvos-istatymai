@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-51bd030882be732689f5f340
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-2274b0500e739ef612d11a31|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 6 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2000 m. liepos 19 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1992 metų konvenciją dėl tarpvalstybinio pramoninių avarijų poveikio“, ratifikuoja 1992 metų konvenciją dėl tarpvalstybinio pramoninių avarijų poveikio, pasirašytą 1992 m. kovo 18 d. Helsinkyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, [[latest/TAR.5BCEC9B41811#^s-2274b0500e739ef612d11a31|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 6 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2000 m. liepos 19 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti 1992 metų konvenciją dėl tarpvalstybinio pramoninių avarijų poveikio“](https://e-tar.lt/portal/lt/legalAct/TAR.EF57F7EFAB28), ratifikuoja 1992 metų konvenciją dėl tarpvalstybinio pramoninių avarijų poveikio, pasirašytą 1992 m. kovo 18 d. Helsinkyje.
 
 
 

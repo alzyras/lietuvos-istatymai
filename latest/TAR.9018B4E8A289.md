@@ -61,7 +61,7 @@ Vilnius
 ### 2 straipsnis. 2 straipsnio 1 dalies ir 2 dalies 2 ir 3 punktų pakeitimas ^s-6e34650e9434760acf338b4d
 
 
-1. [[#^s-405f94f9a706a9d90f1014aa|2 straipsnio 1 dalyje]] išbraukti žodžius „vidaus reikalų sistemos ar kitoms“ ir šią dalį išdėstyti taip: ^s-405f94f9a706a9d90f1014aa
+1. 2 straipsnio 1 dalyje išbraukti žodžius „vidaus reikalų sistemos ar kitoms“ ir šią dalį išdėstyti taip: ^s-405f94f9a706a9d90f1014aa
 
 
 „1. Kariai, kurie neteisėta kalta veika (tyčia ar dėl neatsargumo) padarė tiesioginę tikrąją žalą krašto apsaugos sistemos institucijoms, kuriose kariai tarnauja, privalo šią žalą atlyginti šio įstatymo nustatytomis sąlygomis ir tvarka.“
@@ -280,7 +280,7 @@ Pakeisti 27 straipsnį ir jį išdėstyti taip:
 „27 straipsnis. Išieškojimas iš kario turto
 
 
-Visiškos materialinės atsakomybės atveju, jei žalos atlyginimo klausimas neišspręstas šio įstatymo 20 straipsnio nustatyta tvarka ir žala išieškoma įstatymų nustatyta tvarka, išieškojimas gali būti nukreipiamas į žalą padariusio profesinės karo tarnybos kario ar privalomosios karo tarnybos kario turtą Civilinio proceso kodekso nustatyta tvarka.“
+Visiškos materialinės atsakomybės atveju, jei žalos atlyginimo klausimas neišspręstas šio įstatymo 20 straipsnio nustatyta tvarka ir žala išieškoma įstatymų nustatyta tvarka, išieškojimas gali būti nukreipiamas į žalą padariusio profesinės karo tarnybos kario ar privalomosios karo tarnybos kario turtą [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka.“
 
 
 

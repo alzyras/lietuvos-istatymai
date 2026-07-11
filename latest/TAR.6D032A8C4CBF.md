@@ -39,7 +39,7 @@ Vilnius
 ### 1 straipsnis. 3 straipsnio papildymas 6 ir 7 dalimis ^s-5ad5647148a1f9c202130344
 
 
-3 straipsnį papildyti 6 ir [[#^s-980c9a1398dc8b15666551e9|7 dalimis]]:
+3 straipsnį papildyti 6 ir 7 dalimis:
 
 
 „6. Likviduojant (taip pat dėl bankroto) šio straipsnio 1 dalyje nurodytas įmones, išskyrus šio straipsnio 1 dalies 7 punkte nurodytą įmonę, joms priklausantis nekilnojamasis ir įkeistas turtas, taip pat šio straipsnio 2 dalyje nurodytas turtas gali būti parduodamas ar kitaip perleidžiamas tik Lietuvos Respublikos valstybės institucijoms, valstybės įmonėms arba įmonėms, kurių kapitalo dalį sudaro privatus nacionalinis bei europinės ir transatlantinės integracijos kriterijus atitinkantis kapitalas, tačiau valstybei ar savivaldybei priklauso daugiau kaip 1/2 balsų suteikiančių šių įmonių akcijų.

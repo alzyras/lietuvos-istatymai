@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.389CB90C666D#^s-2d1f543c487eec7f86dcbfc5|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - 2 citatos - GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 2, 7, 13, 23, 24, 36, 37 IR 43 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.389CB90C666D#^s-4269d48995ca5276b982d81d|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - 2 citatos - GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 2, 7, 13, 23, 24, 36, 37 IR 43 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.389CB90C666D#^s-2d1f543c487eec7f86dcbfc5|Lietuvos Respublikos ginklų ir šaudmenų kontrolės įstatymas]] - GINKLŲ IR ŠAUDMENŲ KONTROLĖS ĮSTATYMO 2, 7, 13, 23, 24, 36, 37 IR 43 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

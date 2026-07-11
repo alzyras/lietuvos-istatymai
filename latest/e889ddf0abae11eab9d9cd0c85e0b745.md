@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 15 straipsnio pakeitimas ^s-8c0315c0e76d0912ce3a8c79
 
 
-Pakeisti 15 straipsnio 2 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.B4FA4C56B8D5#^s-218259e4b8ac202703570de4|15 straipsnio 2 dalį]] ir ją išdėstyti taip:
 
 
 „2. Atliekant numatomo teisinio reguliavimo poveikio vertinimą, nustatomas galimas teigiamas ir neigiamas poveikis to teisinio reguliavimo sričiai, asmenims ar jų grupėms, kuriems bus taikomas numatomas teisinis reguliavimas. Atsižvelgiant į teisės akte numatomo naujo teisinio reguliavimo pobūdį, mastą, turi būti įvertinamas poveikis ekonomikai, konkurencijai, valstybės finansams, socialinei aplinkai, viešajam administravimui, teisinei sistemai, kriminogeninei situacijai, korupcijos mastui, aplinkai, administracinei naštai, regionų plėtrai, reglamentuojamoms profesijoms ir kitoms sritims.“
@@ -49,10 +49,10 @@ Pakeisti 15 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 2 straipsnis. 16 straipsnio pakeitimas ^s-91de50c57e7901aa058c5f0b
 
 
-Pakeisti 16 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.B4FA4C56B8D5#^s-7856597d4a9898abbc8eff47|16 straipsnį]] ir jį išdėstyti taip:
 
 
-„16 straipsnis. Numatomo teisinio reguliavimo poveikio korupcijos mastui, konkurencijai ir reglamentuojamoms profesijoms vertinimas
+„[[latest/TAR.B4FA4C56B8D5#^s-7856597d4a9898abbc8eff47|16 straipsnis]]. Numatomo teisinio reguliavimo poveikio korupcijos mastui, konkurencijai ir reglamentuojamoms profesijoms vertinimas
 
 
 1. Numatomo teisinio reguliavimo poveikio korupcijos mastui vertinimas (teisės aktų ar jų projektų antikorupcinis vertinimas) atliekamas [[latest/TAR.4DBDE27621A2|Lietuvos Respublikos korupcijos prevencijos įstatymo]] nustatytais atvejais. Šio vertinimo tvarką nustato Vyriausybė. ^s-c8157214e1b063949cf38c14
@@ -67,7 +67,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 ### 3 straipsnis. 161 straipsnio pripažinimas netekusiu galios ^s-4d97ece376a031e5df830aa1
 
 
-Pripažinti netekusiu galios 161 straipsnį.
+Pripažinti netekusiu galios [[latest/TAR.B4FA4C56B8D5#^s-9e36886cdbdee299233f04d2|161 straipsnį]].
 
 
 

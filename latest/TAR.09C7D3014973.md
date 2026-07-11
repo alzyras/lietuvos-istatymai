@@ -99,7 +99,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 8) panaikinti licencijos teikti vieną, kelias ar visas paslaugas galiojimą. ^s-4e822c4f7125f973e3236830
 
 
-2. Vertybinių popierių komisija turi teisę skirti Administracinių teisės pažeidimų kodekse numatytas nuobaudas valdymo įmonės vadovams ar darbuotojams. ^s-ea92a4289179d74ec74cd032
+2. Vertybinių popierių komisija turi teisę skirti [Administracinių teisės pažeidimų kodekse](https://e-tar.lt/portal/lt/legalAct/TAR.FC2B71C84492) numatytas nuobaudas valdymo įmonės vadovams ar darbuotojams. ^s-ea92a4289179d74ec74cd032
 
 
 3. Vertybinių popierių komisija turi teisę taikyti depozitoriumui [[#^s-b5afbc722fb15b6012221372|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytas poveikio priemones.“ ^s-1ae8e5ba2d4ba51cbe27be12
@@ -152,7 +152,7 @@ Pakeisti 58 straipsnį ir jį išdėstyti taip:
 1. Vertybinių popierių komisija, siekdama nustatyti, kaip laikomasi šio Įstatymo ir jo pagrindu priimtų teisės aktų, turi teisę organizuoti ir atlikti patikrinimus. ^s-e2b66a722ef688aa76916447
 
 
-2. Atlikdami patikrinimą, Vertybinių popierių komisijos darbuotojai turi Finansinių priemonių rinkų įstatymo 85 straipsnio 2 dalyje nustatytas teises. Šioms teisėms įgyvendinti Vertybinių popierių komisija gali pasitelkti policijos pareigūnus. ^s-403fd9a634a46fd7ac613258
+2. Atlikdami patikrinimą, Vertybinių popierių komisijos darbuotojai turi [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatymo 85 straipsnio 2 dalyje]] nustatytas teises. Šioms teisėms įgyvendinti Vertybinių popierių komisija gali pasitelkti policijos pareigūnus. ^s-403fd9a634a46fd7ac613258
 
 
 3. Vertybinių popierių komisija, turėdama pagrindą įtarti, kad valdymo įmonės, depozitoriumo ar kitų asmenų atliekami veiksmai pažeidžia šio Įstatymo ar jo pagrindu priimtų Vertybinių popierių komisijos nutarimų nuostatas, ir siekdama išvengti esminės žalos ar nepataisomų pasekmių pensijų kaupimo dalyviams, turi teisę įpareigoti nutraukti tokią veiklą, kol bus atliktas tyrimas ir priimtas Vertybinių popierių komisijos sprendimas dėl įtariamo pažeidimo. Vertybinių popierių komisijos sprendimas įpareigoti nutraukti veiklą gali būti priimtas tik gavus Vilniaus apygardos administracinio teismo leidimą. ^s-976227670ec86e317e3a080b

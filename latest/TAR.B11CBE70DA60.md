@@ -52,7 +52,7 @@ Vilnius
 ### 2 straipsnis. 2 straipsnio pakeitimas ir papildymas ^s-80a7412abbf48bc08c5d9cdd
 
 
-[[#^s-e0acfd6210261b3e9d777d61|2 straipsnio 1 dalyje]] vietoj skaičiaus ir žodžio „11 straipsnyje“ įrašyti skaičius ir žodžius „11 straipsnio 1–5 punktuose“, [[#^s-d4d8cc1121076b8dc0dfe731|3 dalyje]] po žodžio „Deklaruojamos“ įrašyti skaičius ir žodžius „šio įstatymo 11 straipsnio 1–5 punktuose nurodytų asmenų“, [[#^s-92c9dd18e7b4ebc9cc26385a|4 dalyje]] po žodžių „Nustačius, kad“ įrašyti skaičius ir žodžius „šio įstatymo 11 straipsnio 1–5 punktuose nurodytų asmenų“, papildyti straipsnį 5 ir [[#^s-e1e1f4295bb2dc6a9872286a|6 dalimis]] ir visą straipsnį išdėstyti taip:
+[[#^s-e0acfd6210261b3e9d777d61|2 straipsnio 1 dalyje]] vietoj skaičiaus ir žodžio „11 straipsnyje“ įrašyti skaičius ir žodžius „11 straipsnio 1–5 punktuose“, [[#^s-d4d8cc1121076b8dc0dfe731|3 dalyje]] po žodžio „Deklaruojamos“ įrašyti skaičius ir žodžius „šio įstatymo 11 straipsnio 1–5 punktuose nurodytų asmenų“, [[#^s-92c9dd18e7b4ebc9cc26385a|4 dalyje]] po žodžių „Nustačius, kad“ įrašyti skaičius ir žodžius „šio įstatymo 11 straipsnio 1–5 punktuose nurodytų asmenų“, papildyti straipsnį 5 ir 6 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „2 straipsnis. Deklaravimo objektas
@@ -122,16 +122,16 @@ d) pinigines lėšas, indėlius, paskolintas ir negrąžintas pinigines lėšas;
 ### 3 straipsnis. 3 straipsnio 1, 2 dalių pakeitimas ^s-a289f013d30096d3cb4b91db
 
 
-1. Pakeisti [[#^s-5910a8d0d950c04757c0100b|3 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-5910a8d0d950c04757c0100b
+1. Pakeisti 3 straipsnio 1 dalį ir ją išdėstyti taip: ^s-5910a8d0d950c04757c0100b
 
 
 „1. Šio įstatymo 11 straipsnio 1–5 punktuose nurodyti Lietuvos Respublikos gyventojai fiziniai asmenys, kurių pagrindinė gyvenamoji vieta yra Lietuvos Respublika, bei fiziniai asmenys, gyvenę Lietuvos Respublikoje ataskaitiniais metais su pertraukomis arba ištisai 183 dienas ir ilgiau, išskyrus užsienio valstybių diplomatus, diplomatinių atstovybių ir konsulinių įstaigų darbuotojus užsienio valstybių piliečius, deklaruoja turtą ir pajamas pateikdami gyvenamosios vietos valstybinei mokesčių inspekcijai du Vyriausybės ar jos įgaliotos institucijos nustatytos formos turto ir pajamų deklaracijos egzempliorius. Pagrindine gyvenamąja vieta laikoma vieta, kurią gyventojas deklaruoja Lietuvos Respublikoje, o jei gyventojas nedeklaruoja gyvenamosios vietos, pagrindine gyvenamąja vieta laikoma vieta, kurioje jis nuolat arba daugiausiai gyvena, arba vieta, kuri yra jo asmeninių, socialinių arba ekonominių interesų buvimo vieta. Šio įstatymo 11 straipsnio 6 punkte nurodyti asmenys deklaruoja turtą ir pajamas pateikdami gyvenamosios vietos valstybinei mokesčių inspekcijai tris Vyriausybės ar jos įgaliotos institucijos nustatytos formos turto ir pajamų deklaracijos egzempliorius. Nepilnamečių asmenų ir pilnamečių asmenų invalidų bei pensininkų, reikalaujančių globos, gyvenančių kartu su šeima, turtą ir pajamas deklaruoja vienas iš tėvų, įtėvių, globėjų ar rūpintojų. Šeima laikomi sutuoktiniai ir kartu gyvenantys vaikai (įvaikiai) iki 18 metų. Jeigu asmuo šeimos nariu tampa arba nustoja juo būti tais kalendoriniais metais, už kuriuos deklaruojamas turtas ir pajamos, jis privalo deklaruoti turtą ir pajamas už visus kalendorinius metus. Jeigu vaikams (įvaikiams) tais kalendoriniais metais, už kuriuos deklaruojamas turtas ir pajamos, sukanka 18 metų, jų turtą ir pajamas vienas iš tėvų (įtėvių) deklaruoja už laikotarpį nuo kalendorinių metų pradžios, iki jiems sukaks 18 metų. Už nepilnamečio asmens turto ir pajamų nedeklaravimą atsakomybėn traukiamas asmuo, dėl kurio atsiranda prievolė deklaruoti turtą ir pajamas pagal šį įstatymą.“
 
 
-2. Pakeisti [[#^s-956719922924e97c320663a2|3 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-956719922924e97c320663a2
+2. Pakeisti 3 straipsnio 2 dalį ir ją išdėstyti taip: ^s-956719922924e97c320663a2
 
 
-„2. Deklaracija pateikiama kasmet iki gegužės 1 dienos už praėjusius kalendorinius metus, išskyrus šio įstatymo 5 ir 51 straipsniuose nustatytus atvejus. Už turto ir pajamų deklaracijose nurodytų duomenų teisingumą atsako pats deklaruojantysis.“
+„2. Deklaracija pateikiama kasmet iki gegužės 1 dienos už praėjusius kalendorinius metus, išskyrus šio įstatymo [[#^s-89e8ccbc74c6a284da354e44|5]] ir 51 straipsniuose nustatytus atvejus. Už turto ir pajamų deklaracijose nurodytų duomenų teisingumą atsako pats deklaruojantysis.“
 
 
 

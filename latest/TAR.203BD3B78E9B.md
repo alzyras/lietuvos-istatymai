@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-04280110529316ce876e1444
-GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO ĮSTATYMO 4 STRAIPSNIO PAKEITIMAS IR PAPILDYMAS
+[[latest/TAR.6EA8AC8A483B|GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO ĮSTATYMO 4 STRAIPSNIO]] PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 2004, Nr. 72-2489)
 
@@ -56,7 +56,7 @@ GELEŽINKELIŲ TRANSPORTO KODEKSO PATVIRTINIMO, ĮSIGALIOJIMO IR TAIKYMO ĮSTATY
 
 
 ### ANTRASIS SKIRSNIS ^s-1870c2e675d3789bdbf04bea
-[[latest/TAR.6EA8AC8A483B#^s-ace3b00d27e73d4e6f9e64ea|GELEŽINKELIŲ TRANSPORTO KODEKSO 3, 4, 6, 7, 10, 11, 12, 13, 16, 19, 28, 30, 48 STRAIPSNIŲ]] IR PRIEDO PAKEITIMAS IR PAPILDYMAS BEI KODEKSO PAPILDYMAS 301 STRAIPSNIU
+[[latest/TAR.6EA8AC8A483B|GELEŽINKELIŲ TRANSPORTO KODEKSO]] [[latest/TAR.6EA8AC8A483B|3]], [[latest/TAR.6EA8AC8A483B|4]], [[latest/TAR.6EA8AC8A483B|6]], [[latest/TAR.6EA8AC8A483B#^s-f1ae106bdff0fb4694bfbcaf|7]], [[latest/TAR.6EA8AC8A483B#^s-ca3170ed75cac66a4c95751c|10]], [[latest/TAR.6EA8AC8A483B#^s-ec8fab4c6ffa8cec00f70ba6|11]], [[latest/TAR.6EA8AC8A483B#^s-afce5d72b1eec8c419b8cc06|12]], [[latest/TAR.6EA8AC8A483B#^s-9bb5f71df5a4e2aa8db3e1b8|13]], [[latest/TAR.6EA8AC8A483B#^s-f767f9c4ef9ef7c953983f56|16]], [[latest/TAR.6EA8AC8A483B#^s-3d93511b3bdfa94d77c8da06|19]], [[latest/TAR.6EA8AC8A483B#^s-cf26eef4c7ef041012bfaeca|28]], [[latest/TAR.6EA8AC8A483B#^s-97de165d695f91ae18cef9e8|30]], [[latest/TAR.6EA8AC8A483B#^s-ace3b00d27e73d4e6f9e64ea|48]] STRAIPSNIŲ IR PRIEDO PAKEITIMAS IR PAPILDYMAS BEI KODEKSO PAPILDYMAS 301 STRAIPSNIU
 
 (Žin., 2004, Nr. 72-2489)
 
@@ -413,7 +413,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 2. Papildyti 19 straipsnį nauja [[#^s-1d41819d553a416dd90f1e32|4 dalimi]]: ^s-26253cb968da09123bdb608b
 
 
-„4. Kirsti medžius miško paskirties žemėje leidžiama tik suderinus su miško valdytoju ar savininku ir nustatyta tvarka įforminus medžių kirtimo dokumentus. Geležinkelio želdinių apsaugos zonose, ne miško paskirties žemėje augantys medžiai, jų grupės, krūmai kertami, genimi ar pertvarkomi Aplinkos ministerijos nustatyta tvarka, išskyrus [[#^s-26253cb968da09123bdb608b|šio straipsnio 2 dalyje]] nurodytus atvejus.“
+„4. Kirsti medžius miško paskirties žemėje leidžiama tik suderinus su miško valdytoju ar savininku ir nustatyta tvarka įforminus medžių kirtimo dokumentus. Geležinkelio želdinių apsaugos zonose, ne miško paskirties žemėje augantys medžiai, jų grupės, krūmai kertami, genimi ar pertvarkomi Aplinkos ministerijos nustatyta tvarka, išskyrus šio straipsnio 2 dalyje nurodytus atvejus.“
 
 
 3. Buvusias 19 straipsnio 3, 4 ir 5 dalis laikyti atitinkamai 5, 6 ir 7 dalimis. ^s-6fc550bb3aabdfdbcf2e7716

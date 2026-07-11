@@ -305,7 +305,7 @@ KELIONIŲ ORGANIZAVIMO PASLAUGOS
 12. Valstybinis turizmo departamentas, nustatęs, kad nevykdoma bent viena iš šio straipsnio 5 arba [[#^s-817427a240e3b52a9543b6d6|6 dalyse]] nurodytų sąlygų, privalo sustabdyti kelionių organizatoriaus, kelionių agentūros ar kelionių agento pažymėjimo galiojimą ir leisti paslaugų teikėjui per 10 darbo dienų nurodytus pažeidimus pašalinti. Pašalinus pažeidimus, dėl kurių pažymėjimo galiojimas buvo sustabdytas, pažymėjimo galiojimo sustabdymas panaikinamas. ^s-aaf043ef310bae6a6595a3d2
 
 
-13. Lietuvos Respublikos turizmo paslaugų teikėjai privalo pateikti Valstybiniam turizmo departamentui informaciją apie įsteigtus filialus ar biurus, per kuriuos jie ketina vykdyti ar nustojo vykdyti pažymėjime nurodytą veiklą, taip pat informaciją apie veiklos formos, teisinės formos, teisinio statuso, buveinės ar kitų veiklos vietų adreso ar kitus pakeitimus, dėl kurių nebevykdomi šio straipsnio 5 ar [[#^s-817427a240e3b52a9543b6d6|6 dalies]], šio įstatymo [[#^s-77e43ded3d517330b7fed0ad|8 straipsnio]] 3, 4 ir [[#^s-648d55c3bf46d5dbb027b330|11 dalių]] reikalavimai, per 10 darbo dienų nuo to momento, kai atitinkamą informaciją turizmo paslaugų teikėjas sužinojo ar turėjo sužinoti. ^s-1d35f0864a8ecbeaea6e0b49
+13. Lietuvos Respublikos turizmo paslaugų teikėjai privalo pateikti Valstybiniam turizmo departamentui informaciją apie įsteigtus filialus ar biurus, per kuriuos jie ketina vykdyti ar nustojo vykdyti pažymėjime nurodytą veiklą, taip pat informaciją apie veiklos formos, teisinės formos, teisinio statuso, buveinės ar kitų veiklos vietų adreso ar kitus pakeitimus, dėl kurių nebevykdomi šio straipsnio [[#^s-ffeb39aba773ce41bb11a4f8|5]] ar [[#^s-817427a240e3b52a9543b6d6|6]] dalies, šio įstatymo [[#^s-77e43ded3d517330b7fed0ad|8 straipsnio]] [[#^s-bf7873e5f22a626c26b9cd1f|3]], [[#^s-68368d14ab9714eb049bb349|4]] ir [[#^s-ad5cbb33c619ab250e53b5db|11]] dalių reikalavimai, per 10 darbo dienų nuo to momento, kai atitinkamą informaciją turizmo paslaugų teikėjas sužinojo ar turėjo sužinoti. ^s-1d35f0864a8ecbeaea6e0b49
 
 
 14. Kelionių organizatoriaus, kelionių agentūros, kelionių agento pažymėjimų, suteikiančių teisę vykdyti atitinkamai kelionių organizatoriaus, kelionių agentūros ar kelionių agento veiklą, išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarka nustatyta Pažymėjimų Lietuvos Respublikos turizmo paslaugų teikėjams išdavimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo ir galiojimo panaikinimo tvarkos apraše. Šį aprašą tvirtina Valstybinis turizmo departamentas. Už šioje dalyje nurodytų pažymėjimų išdavimą mokama nustatyto dydžio valstybės rinkliava. ^s-9bb516603b1e1639b91e0148
@@ -428,7 +428,7 @@ KELIONIŲ ORGANIZAVIMO PASLAUGOS
 8. Kelionių agentūra, kelionių agentas, atstovaudami kelionių organizatoriui, privalo: ^s-c34848a34d769a1e10990437
 
 
-1) šio straipsnio 2, 4 ir [[#^s-585d65497ec2867564614fa1|5 dalyse]] nustatyta tvarka tinkamai suteikti šio straipsnio 2 ir [[#^s-585d65497ec2867564614fa1|5 dalyse]] nurodytą informaciją turizmo paslaugų vartotojams. Pareiga įrodyti, kad privaloma informacija buvo pateikta, tenka kelionių agentūrai ar kelionių agentui; ^s-6d19da1364ecc4d73d537991
+1) šio straipsnio [[#^s-71973254b678388abce15578|2]], [[#^s-13afd5aaa2f8396572d2825d|4]] ir [[#^s-585d65497ec2867564614fa1|5]] dalyse nustatyta tvarka tinkamai suteikti šio straipsnio [[#^s-71973254b678388abce15578|2]] ir [[#^s-585d65497ec2867564614fa1|5]] dalyse nurodytą informaciją turizmo paslaugų vartotojams. Pareiga įrodyti, kad privaloma informacija buvo pateikta, tenka kelionių agentūrai ar kelionių agentui; ^s-6d19da1364ecc4d73d537991
 
 
 2) tinkamai sudaryti turizmo paslaugų teikimo sutartis su šių paslaugų vartotojais ir jose nurodyti visą pagal įstatymus privalomą informaciją. ^s-ef168b5986df319827f9f221
@@ -471,7 +471,7 @@ KELIONIŲ ORGANIZAVIMO PASLAUGOS
 5. Kelionių organizatoriaus, kuris pirmą kartą arba po vienų metų ar ilgesnio laikotarpio pertraukos vėl pradeda teikti kelionių organizavimo paslaugas, prievolių, atsirandančių [[#^s-0e25652225392ac20a33a0b4|šio straipsnio 1 dalyje]] numatytais atvejais, įvykdymo užtikrinimo suma negali būti mažesnė kaip 150 tūkstančių litų. ^s-bee79c3e2d795ad06ce51785
 
 
-6. Kai turizmo paslaugų teikėjas vykdo kelionių organizatoriaus ir kelionių agentūros ar kelionių agento veiklą, prievolių įvykdymo užtikrinimo suma skaičiuojama pagal kelionių organizatoriaus veiklos praėjusių kalendorinių metų metines įplaukas vadovaujantis šio straipsnio 4 ar [[#^s-bee79c3e2d795ad06ce51785|5 dalimi]]. ^s-0ab83dee45fcce0e245f48e5
+6. Kai turizmo paslaugų teikėjas vykdo kelionių organizatoriaus ir kelionių agentūros ar kelionių agento veiklą, prievolių įvykdymo užtikrinimo suma skaičiuojama pagal kelionių organizatoriaus veiklos praėjusių kalendorinių metų metines įplaukas vadovaujantis šio straipsnio [[#^s-68368d14ab9714eb049bb349|4]] ar [[#^s-bee79c3e2d795ad06ce51785|5]] dalimi. ^s-0ab83dee45fcce0e245f48e5
 
 
 7. Kelionių agentūrų ir kelionių agentų prievolių, atsirandančių [[#^s-526cda5f8afc439f5a8ec243|šio straipsnio 2 dalyje]] numatytais atvejais, įvykdymo užtikrinimo suma yra ne mažesnė kaip 5 procentai kelionių agentūros ar kelionių agento praėjusių kalendorinių metų metinių įplaukų. Kai pasirašomų draudimo įmonės prievolių įvykdymo laidavimo draudimo sutarties arba finansų įstaigos laidavimo ar garantijos sutarties galiojimo laikotarpis yra nuo trijų mėnesių iki vienų metų, prievolių įvykdymo užtikrinimo suma apskaičiuojama pagal kelionių agentūros ar kelionių agento praėjusių kalendorinių metų atitinkamo laikotarpio įplaukas. ^s-9c983cb5ac8de7464d6d52f5
@@ -962,7 +962,7 @@ priedas
 ### 2 straipsnis. Įstatymo įsigaliojimas ir taikymas ^s-14ff8d85d7b76a5c94f0e1f6
 
 
-1. Šis įstatymas, išskyrus 3 straipsnį ir 1 straipsnyje išdėstyto [[latest/TAR.F0E2E67B1F2F#^s-d9450dca95c2d6b8b0891bc7|Lietuvos Respublikos turizmo įstatymo 8 straipsnio]] nuostatas dėl galiojančių prievolių įvykdymo užtikrinimo dokumentų ir 11, [[#^s-9db10da6f69e9785df1c12ae|12 straipsnius]], įsigalioja 2011 m. rugsėjo 1 d. ^s-d0362092dbecf2744d8a10a1
+1. Šis įstatymas, išskyrus 3 straipsnį ir 1 straipsnyje išdėstyto [[latest/TAR.F0E2E67B1F2F|Lietuvos Respublikos turizmo įstatymo]] [[#^s-77e43ded3d517330b7fed0ad|8 straipsnio]] nuostatas dėl galiojančių prievolių įvykdymo užtikrinimo dokumentų ir [[latest/TAR.F0E2E67B1F2F#^s-8fca5d85a820e8af6537a092|11]], [[latest/TAR.F0E2E67B1F2F#^s-d7ff2940a9915b3ee84cc677|12]] straipsnius, įsigalioja 2011 m. rugsėjo 1 d. ^s-d0362092dbecf2744d8a10a1
 
 
 2. Kelionių organizatoriai, kelionių agentūros ir kelionių agentai prievolių įvykdymo užtikrinimo dokumentą privalo įsigyti iki 2011 m. rugpjūčio 1 d. ^s-fbae7102e9c140fec456ae5f
@@ -971,7 +971,7 @@ priedas
 3. Kelionių organizatoriai, kelionių agentūros ir kelionių agentai šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.F0E2E67B1F2F#^s-893737ac4d51ac543ec108fd|Lietuvos Respublikos turizmo įstatymo 4 straipsnyje]] nustatytus prašymus privalo pateikti iki 2011 m. rugpjūčio 1 d. arba pasibaigus Valstybinio turizmo departamento išduotų pažymėjimų, patvirtinančių, kad kelionių organizatorius, kelionių agentūra ar kelionių agentas atitinka nustatytus reikalavimus, ir suteikiančių teisę teikti atitinkamas turizmo paslaugas, galiojimui, jeigu jų galiojimo terminas baigiasi iki 2011 m. rugpjūčio 1 d. ^s-e66c841ee02ed07bc948ab72
 
 
-4. Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.F0E2E67B1F2F#^s-d7ff2940a9915b3ee84cc677|Lietuvos Respublikos turizmo įstatymo 11 ir 12 straipsniai]] įsigalioja 2011 m. rugpjūčio 1 d. ^s-35ea6b7aee4229ce7867284d
+4. Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.F0E2E67B1F2F|Lietuvos Respublikos turizmo įstatymo]] [[latest/TAR.F0E2E67B1F2F#^s-8fca5d85a820e8af6537a092|11]] ir [[latest/TAR.F0E2E67B1F2F#^s-d7ff2940a9915b3ee84cc677|12]] straipsniai įsigalioja 2011 m. rugpjūčio 1 d. ^s-35ea6b7aee4229ce7867284d
 
 
 

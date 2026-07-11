@@ -40,19 +40,19 @@ Vilnius
 ### 1 straipsnis. 2 straipsnio pakeitimas ^s-c973b75db26a0e5f9ca30b53
 
 
-1. Pakeisti 2 straipsnio 1 dalį ir ją išdėstyti taip: ^s-2b2a87335eb6b8cbaf3a2d4d
+1. Pakeisti [[latest/TAR.5C23DECF6210#^s-deffa55105933d624550cdef|2 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-2b2a87335eb6b8cbaf3a2d4d
 
 
 „1. Draudimo įmonė – [[latest/TAR.8447F63760E9|Lietuvos Respublikos draudimo įstatymo]] (toliau – [[latest/TAR.8447F63760E9|Draudimo įstatymas]]) nustatyta tvarka draudimo veiklos licenciją gavusi Lietuvos Respublikos įstatymų nustatyta tvarka įsteigta draudimo įmonė, steigimosi teisę ir (arba) teisę teikti paslaugas įgyvendinanti kitos Europos ekonominės erdvės valstybės narės draudimo įmonė arba [[latest/TAR.8447F63760E9|Draudimo įstatymo]] nustatyta tvarka draudimo veiklos leidimą gavęs Lietuvos Respublikoje įsteigtas užsienio valstybės draudimo įmonės filialas.“
 
 
-2. Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip: ^s-8c79416f798c83bcb22f2bcd
+2. Pakeisti [[latest/TAR.5C23DECF6210#^s-3616b4acab89d9c601af95db|2 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-8c79416f798c83bcb22f2bcd
 
 
 „2. Eksporto kredito draudėjas – kredituojantis eksportuotojas, su draudimo įmone sudaręs draudimo sutartį dėl nuostolių, patirtų negavus komerciniu kreditu atidėtų mokėjimų už eksportuotas prekes, turinčias Lietuvos prekybos, pramonės ir amatų rūmų išduotą prekių kilmės sertifikatą, liudijantį, kad prekės pagamintos Lietuvos Respublikoje, ar suteiktas paslaugas, padengimo.“
 
 
-3. Pakeisti 2 straipsnio 8 dalį ir ją išdėstyti taip: ^s-34f20ec22f9b10e5fd51e6a7
+3. Pakeisti [[latest/TAR.5C23DECF6210#^s-b4d2773e020c72134744e49d|2 straipsnio 8 dalį]] ir ją išdėstyti taip: ^s-34f20ec22f9b10e5fd51e6a7
 
 
 „8. Kredituojantis eksportuotojas – Lietuvos Respublikoje veikiantis, ūkinę komercinę veiklą vykdantis juridinis asmuo arba juridinio asmens statuso neturintis Europos ekonominės erdvės valstybės narės įmonės filialas, kuris eksportuoja į kitas šalis prekes, turinčias Lietuvos prekybos, pramonės ir amatų rūmų išduotą prekių kilmės sertifikatą, liudijantį, kad prekės pagamintos Lietuvos Respublikoje, arba kuris eksportuoja paslaugas ir taiko šių prekių ar paslaugų pirkėjui apmokėjimo už parduotas prekes ar suteiktas paslaugas atidėjimą (tai yra suteikia pirkėjui komercinį kreditą).“
@@ -61,7 +61,7 @@ Vilnius
 ### 2 straipsnis. 4 straipsnio pakeitimas ^s-4a2b4a1e30c83cbb173e6e7c
 
 
-Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.5C23DECF6210#^s-e7f369060eec3c4cdc4f7b7e|4 straipsnio 4 dalį]] ir ją išdėstyti taip:
 
 
 „4. Garantijų institucija gali teikti garantijas dėl:
@@ -88,10 +88,10 @@ Pakeisti 4 straipsnio 4 dalį ir ją išdėstyti taip:
 ### 3 straipsnis. 8 straipsnio pakeitimas ^s-2b7eb45002333273e8135f72
 
 
-Pakeisti 8 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.5C23DECF6210#^s-c66dafd0bba06eb8f9beb9ed|8 straipsnį]] ir jį išdėstyti taip:
 
 
-„8 straipsnis. Garantijų institucijų steigimas ir valstybės garantija už garantijų instituciją
+„[[latest/TAR.5C23DECF6210#^s-c66dafd0bba06eb8f9beb9ed|8 straipsnis]]. Garantijų institucijų steigimas ir valstybės garantija už garantijų instituciją
 
 
 1. Vyriausybė turi teisę steigti garantijų institucijas, kurios užtikrintų finansų įstaigoms, kurių paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, finansinės nuomos (lizingo) bendrovėms, draudimo įmonėms, finansuotojams, kurių paskutinių finansinių metų metinių finansinių ataskaitų rinkinys buvo audituotas, pagal faktoringo ar obligacijų įsigijimo sutartis, kredituojantiems eksportuotojams pagal garantijas Lietuvos Respublikos juridiniams asmenims, Lietuvos Respublikoje įsteigtiems Europos ekonominės erdvės valstybių narių įmonių filialams ar Lietuvos Respublikos piliečiams arba kitiems asmenims, kuriems, vadovaujantis Europos Sąjungos teise, yra suteiktos analogiškos teisės kaip ir Lietuvos Respublikos piliečiams, teikiamų paskolų grąžinimą, gamybinės įrangos ir (arba) įrenginių finansinės nuomos (lizingo) sutartyse nustatytos kainos ar jos dalies sumokėjimą, piniginio reikalavimo dalinį apmokėjimą pagal faktoringo ar obligacijų įsigijimo sutartis, dalies atidėto mokėjimo pagal kredituojančio eksportuotojo sudarytą pirkimo–pardavimo ar paslaugų teikimo sutartį sumokėjimą ar draudimo įmonės eksporto kredito draudėjui sumokėtos draudimo išmokos dalies padengimą, jeigu tam tikroms programoms įgyvendinti yra numatyta lėšų tų metų valstybės biudžete ar valstybės fonduose. ^s-fa560298cdb07ec2e20cc69c

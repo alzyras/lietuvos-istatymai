@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-959f52d1b8cf052c7e2e5796
 
 
-Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento 1996 m. liepos 1 d. dekretą Nr.981, ratifikuoja Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos sutartį dėl laisvosios prekybos žemės ūkio prekėmis, pasirašytą 1996 m. birželio 16 d. Vilniuje.
+Lietuvos Respublikos Seimas, remdamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsniu bei atsižvelgdamas į Respublikos Prezidento [1996 m. liepos 1 d. dekretą Nr.981](https://e-tar.lt/portal/lt/legalAct/TAR.12043A3BD13E), ratifikuoja Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos sutartį dėl laisvosios prekybos žemės ūkio prekėmis, pasirašytą 1996 m. birželio 16 d. Vilniuje.
 
 
 

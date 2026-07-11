@@ -46,7 +46,7 @@ ______________
 
 
 
-VAIKO TEISIŲ KONVENCIJA
+[VAIKO TEISIŲ KONVENCIJA](https://e-tar.lt/portal/lt/legalAct/TAR.48A4910C899F)
 
 (Priimta Generalinės Asamblėjos 44/25 rezoliucija
 pagal Trečiojo komiteto pranešimą (A/44/736 ir Corr. 1)
@@ -64,7 +64,7 @@ Generalinė Asamblėja,
 (3) ragina visas valstybes dalyves tuoj pat apsvarstyti Konvencijos pasirašymą, ratifikavimą ar prisijungimą prie jos ir išreiškia viltį, kad ji artimiausiu metu įsigalios;
 (4) prašo Generalinį sekretorių parūpinti reikalingų priemonių ir padėti skleisti informaciją apie Konvenciją;
 (5) siūlo Jungtinių Tautų Organizacijos įstaigoms ir organizacijoms, taip pat tarpvyriausybinėms ir nevyriausybinėms organizacijoms sutelkti visas pastangas skleidžiant informaciją apie Konvenciją ir prisidėti prie gilesnio jos supratimo;
-(6) prašo Generalinį sekretorių informuoti Generalinę Asamblėją jos keturiasdešimt penktojoje sesijoje, kaip įgyvendinama Vaiko teisių konvencija;
+(6) prašo Generalinį sekretorių informuoti Generalinę Asamblėją jos keturiasdešimt penktojoje sesijoje, kaip įgyvendinama [Vaiko teisių konvencija](https://e-tar.lt/portal/lt/legalAct/TAR.48A4910C899F);
 (7) nutaria apsvarstyti Generalinio sekretoriaus pranešimą savo keturiasdešimt penktosios sesijos darbotvarkės punkte „Vaiko teisių konvencijos įgyvendinimas“.
 
 
@@ -79,7 +79,7 @@ ______________
 
 PRIEDAS
 
-VAIKO TEISIŲ KONVENCIJA
+[VAIKO TEISIŲ KONVENCIJA](https://e-tar.lt/portal/lt/legalAct/TAR.48A4910C899F)
 
 
 

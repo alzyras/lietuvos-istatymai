@@ -54,7 +54,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 1) socialinę pašalpą savivaldybės teikia vykdydamos savarankiškąją savivaldybių funkciją, kuri yra finansuojama iš savivaldybių biudžetų lėšų; ^s-c27a4bae21cba5d74dda89b7
 
 
-2) savivaldybės taryba tvirtina socialinės pašalpos teikimo tvarkos aprašą; jame nustato: socialinės pašalpos skyrimo ir mokėjimo tvarką (dėl prašymų-paraiškų priėmimo; trūkstamų dokumentų pateikimo; duomenų apie turtą pateikimo; socialinės pašalpos skyrimo ir mokėjimo; prašymus-paraiškas pateikusių asmenų informavimo dėl socialinės pašalpos skyrimo ar neskyrimo; neteisėtai gautos ar išmokėtos socialinės pašalpos išskaičiavimo; paskirtos, bet laiku neatsiimtos socialinės pašalpos, taip pat mirus asmeniui, kurio vardu bendrai gyvenantiems asmenims mokama socialinė pašalpa, arba mirus vienam gyvenančiam asmeniui, paskirtos ir iki kito mėnesio po jo mirties neišmokėtos socialinės pašalpos išmokėjimo procedūros); pagrindus, kuriems esant socialinė pašalpa didinama, mažinama, sustabdomas, nutraukiamas ar atnaujinamas jos mokėjimas, socialinė pašalpa skiriama ne visiems bendrai gyvenantiems asmenims arba ji skiriama kitais atvejais; socialinės pašalpos teikimo nepinigine forma būdus; nepasiturinčių gyventojų grupes (patyrusių socialinę riziką, nevykdančių savivaldybės tarybos nustatytų pareigų ir pan.), kurioms socialinė pašalpa teikiama šio įstatymo 22 straipsnio 1 dalies 2 ar [[#^s-cf55bfb14b4cc91b8616eb60|3 punkte]] nustatytais būdais; minimalų neišmokamos socialinės pašalpos dydį; socialinę pašalpą gaunančių asmenų teises ir pareigas; savivaldybės administracijos ir bendruomeninių organizacijų ir (ar) religinių bendruomenių, ir (ar) religinių bendrijų, ir (ar) kitų nevyriausybinių organizacijų atstovų ir (ar) gyvenamosios vietovės bendruomenės narių, ir (ar) seniūnaičių, ir (ar) kitų suinteresuotų asmenų teises ir pareigas teikiant socialinę pašalpą; ^s-d2d25ba7de8ff3429ab54954
+2) savivaldybės taryba tvirtina socialinės pašalpos teikimo tvarkos aprašą; jame nustato: socialinės pašalpos skyrimo ir mokėjimo tvarką (dėl prašymų-paraiškų priėmimo; trūkstamų dokumentų pateikimo; duomenų apie turtą pateikimo; socialinės pašalpos skyrimo ir mokėjimo; prašymus-paraiškas pateikusių asmenų informavimo dėl socialinės pašalpos skyrimo ar neskyrimo; neteisėtai gautos ar išmokėtos socialinės pašalpos išskaičiavimo; paskirtos, bet laiku neatsiimtos socialinės pašalpos, taip pat mirus asmeniui, kurio vardu bendrai gyvenantiems asmenims mokama socialinė pašalpa, arba mirus vienam gyvenančiam asmeniui, paskirtos ir iki kito mėnesio po jo mirties neišmokėtos socialinės pašalpos išmokėjimo procedūros); pagrindus, kuriems esant socialinė pašalpa didinama, mažinama, sustabdomas, nutraukiamas ar atnaujinamas jos mokėjimas, socialinė pašalpa skiriama ne visiems bendrai gyvenantiems asmenims arba ji skiriama kitais atvejais; socialinės pašalpos teikimo nepinigine forma būdus; nepasiturinčių gyventojų grupes (patyrusių socialinę riziką, nevykdančių savivaldybės tarybos nustatytų pareigų ir pan.), kurioms socialinė pašalpa teikiama šio įstatymo 22 straipsnio 1 dalies 2 ar 3 punkte nustatytais būdais; minimalų neišmokamos socialinės pašalpos dydį; socialinę pašalpą gaunančių asmenų teises ir pareigas; savivaldybės administracijos ir bendruomeninių organizacijų ir (ar) religinių bendruomenių, ir (ar) religinių bendrijų, ir (ar) kitų nevyriausybinių organizacijų atstovų ir (ar) gyvenamosios vietovės bendruomenės narių, ir (ar) seniūnaičių, ir (ar) kitų suinteresuotų asmenų teises ir pareigas teikiant socialinę pašalpą; ^s-d2d25ba7de8ff3429ab54954
 
 
 3) savivaldybėms, išskyrus šio įstatymo 28 straipsnio 1 dalyje nurodytas savivaldybes, 2014 metams socialinei pašalpai finansuoti skiriama 2012 metais socialinei pašalpai skaičiuoti ir mokėti faktiškai panaudotų valstybės biudžeto lėšų dydžio lėšų suma. ^s-cf55bfb14b4cc91b8616eb60
@@ -97,7 +97,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 3. Pakeisti 23 straipsnio 2 dalies 14 punktą ir jį išdėstyti taip: ^s-2286437a32d78ca498c3e301
 
 
-„14) pasitelkti bendruomeninių organizacijų ir (ar) religinių bendruomenių, ir (ar) religinių bendrijų, ir (ar) kitų nevyriausybinių organizacijų atstovus ir (ar) gyvenamosios vietovės bendruomenės narius, ir (ar) seniūnaičius, ir (ar) kitus suinteresuotus asmenis dalyvauti svarstant klausimus dėl piniginės socialinės paramos skyrimo ir teikti socialines paslaugas šio straipsnio 1 dalies 1 punkte, [[#^s-15b4225cb06057beb0d6e3e9|2 dalies]] 2, 3, 4, 5 punktuose ir [[#^s-2286437a32d78ca498c3e301|3 dalyje]] numatytais atvejais;“.
+„14) pasitelkti bendruomeninių organizacijų ir (ar) religinių bendruomenių, ir (ar) religinių bendrijų, ir (ar) kitų nevyriausybinių organizacijų atstovus ir (ar) gyvenamosios vietovės bendruomenės narius, ir (ar) seniūnaičius, ir (ar) kitus suinteresuotus asmenis dalyvauti svarstant klausimus dėl piniginės socialinės paramos skyrimo ir teikti socialines paslaugas šio straipsnio 1 dalies 1 punkte, [[#^s-15b4225cb06057beb0d6e3e9|2 dalies]] 2, 3, 4, 5 punktuose ir 3 dalyje numatytais atvejais;“.
 
 
 4. 23 straipsnio 3 dalies pirmojoje pastraipoje išbraukti žodžius ir skaičius „iš šio įstatymo 4 straipsnio 2 dalyje numatytų lėšų“ ir šią dalį išdėstyti taip: ^s-3091939252417d2996473aad
@@ -106,7 +106,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 „3. Patikrinus bendrai gyvenančių asmenų arba vieno gyvenančio asmens gyvenimo sąlygas ir surašius buities ir gyvenimo sąlygų patikrinimo aktą, savivaldybės administracijai suteikiama teisė savivaldybės tarybos nustatyta tvarka:
 
 
-1) skirti socialinę pašalpą, jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamos yra mažesnės už valstybės remiamas pajamas bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 6 straipsnio 1 ar [[#^s-cab753becdf65fee549f13b4|3 punkte]] nustatytų reikalavimų; ^s-a06126b2b3f42bdce1e2c710
+1) skirti socialinę pašalpą, jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens pajamos yra mažesnės už valstybės remiamas pajamas bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 6 straipsnio 1 ar 3 punkte nustatytų reikalavimų; ^s-a06126b2b3f42bdce1e2c710
 
 
 2) skirti kompensacijas, jeigu išlaidos už būsto šildymą, už faktinį geriamojo vandens ir (ar) karšto vandens kiekį atitinka šio įstatymo 11 straipsnio nustatytus kompensuojamus dydžius, tačiau bendrai gyvenantys asmenys arba vienas gyvenantis asmuo neatitinka šio įstatymo 7 straipsnio 1 dalies 1 ar 2 punkte nustatytų reikalavimų; ^s-aa95e81c2ce84d55c75ed7d3
@@ -121,7 +121,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 5) skirti socialinę pašalpą bendrai gyvenantiems asmenims, santuokos nutraukimo bylos nagrinėjimo metu esant ginčui, atskirai; ^s-dd83f7523e31c1fd5d1e1978
 
 
-6) skirti socialinę pašalpą, jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį ne daugiau kaip 20 procentų viršija valstybės remiamų pajamų dydį ir bendrai gyvenantys asmenys arba vienas gyvenantis asmuo atitinka šio įstatymo 6 straipsnio 1 ir [[#^s-cab753becdf65fee549f13b4|3 punktuose]] nustatytus reikalavimus: vienam gyvenančiam asmeniui ir dviem bendrai gyvenantiems asmenims – 25 procentų valstybės remiamų pajamų dydžio; trims ir keturiems bendrai gyvenantiems asmenims – 50 procentų valstybės remiamų pajamų dydžio; penkiems ir daugiau – 70 procentų valstybės remiamų pajamų dydžio; ^s-079ab685819b45fc39724a8b
+6) skirti socialinę pašalpą, jeigu bendrai gyvenančių asmenų arba vieno gyvenančio asmens vidutinės pajamos per mėnesį ne daugiau kaip 20 procentų viršija valstybės remiamų pajamų dydį ir bendrai gyvenantys asmenys arba vienas gyvenantis asmuo atitinka šio įstatymo 6 straipsnio 1 ir 3 punktuose nustatytus reikalavimus: vienam gyvenančiam asmeniui ir dviem bendrai gyvenantiems asmenims – 25 procentų valstybės remiamų pajamų dydžio; trims ir keturiems bendrai gyvenantiems asmenims – 50 procentų valstybės remiamų pajamų dydžio; penkiems ir daugiau – 70 procentų valstybės remiamų pajamų dydžio; ^s-079ab685819b45fc39724a8b
 
 
 7) skirti būsto šildymo išlaidų kompensaciją vienam gyvenančiam asmeniui arba bendrai gyvenantiems asmenims, jeigu jie deklaruoja gyvenamąją vietą jų nuosavybės teise turimame būste arba nuomojasi būstą, kuris Nekilnojamojo turto registre nėra įregistruotas kaip gyvenamosios patalpos arba atskira gyvenamoji patalpa, kai bendraturčių nuosavybės teisės dalys nėra nustatytos; ^s-d30959c58abf67627f24a680
@@ -133,7 +133,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 9) skirti socialinę pašalpą ir kompensacijas bendrai gyvenantiems asmenims arba vienam gyvenančiam asmeniui, kai jiems piniginė socialinė parama neskiriama šio įstatymo 21 straipsnio 11 dalyje nustatytu atveju; ^s-b542c2b17047d03cdb74eb51
 
 
-10) nemažinti socialinės pašalpos dydžio, kaip nustatyta šio įstatymo 10 straipsnio 2 dalies 1–[[#^s-dd83f7523e31c1fd5d1e1978|5 punktuose]], jeigu Lietuvos teritorinė darbo birža ar kitos valstybės valstybinė įdarbinimo tarnyba socialinės pašalpos teikimo laikotarpiu nepasiūlė darbo arba nepasiūlė dalyvauti aktyvios darbo rinkos politikos priemonėse.“ ^s-12c337a584f39bf0694f35b2
+10) nemažinti socialinės pašalpos dydžio, kaip nustatyta šio įstatymo 10 straipsnio 2 dalies 1–5 punktuose, jeigu Lietuvos teritorinė darbo birža ar kitos valstybės valstybinė įdarbinimo tarnyba socialinės pašalpos teikimo laikotarpiu nepasiūlė darbo arba nepasiūlė dalyvauti aktyvios darbo rinkos politikos priemonėse.“ ^s-12c337a584f39bf0694f35b2
 
 
 5. Papildyti 23 straipsnį nauja [[#^s-3091939252417d2996473aad|4 dalimi]]: ^s-d6e3822bf7932cb9bb0a2e3f
@@ -164,7 +164,7 @@ Pakeisti 4 straipsnį ir jį išdėstyti taip:
 3. Socialinės apsaugos ir darbo ministras iki 2013 m. gruodžio 31 d. priima ar pakeičia šio įstatymo įgyvendinamuosius teisės aktus. ^s-ed4cff66596b256c529ddfaa
 
 
-4. Šis įstatymas, išskyrus šio straipsnio 2 ir [[#^s-ed4cff66596b256c529ddfaa|3 dalis]], įsigalioja 2014 m. sausio 1 d. ^s-d6d0bf04e66df51349c7a0ff
+4. Šis įstatymas, išskyrus šio straipsnio [[#^s-3607c3f0663e1ce38f2bbb82|2]] ir [[#^s-ed4cff66596b256c529ddfaa|3]] dalis, įsigalioja 2014 m. sausio 1 d. ^s-d6d0bf04e66df51349c7a0ff
 
 
 

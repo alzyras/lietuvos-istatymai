@@ -88,7 +88,7 @@ BENDROSIOS NUOSTATOS
 6. Naftos produktus ir (ar) naftą įvežanti įmonė – Lietuvos Respublikoje registruota įmonė ar užsienio įmonės filialas, kurie įveža iš kitos valstybės narės naftos produktus ir (ar) naftą, skirtus vartoti šalies viduje. ^s-49901261aa4f1df947ec8d6e
 
 
-7. Naftos produktų ir naftos atsargos (toliau – atsargos) – energetikos produktų, nurodytų 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1099/2008 dėl energetikos statistikos (OL 2008 L 304, p. 1) (toliau – Reglamentas (EB) Nr. 1099/2008) C priedo 3.1 skirsnio pirmoje pastraipoje, atsargos, įskaitant specialiąsias naftos produktų atsargas. ^s-897b2005355c39b4d64e3932
+7. Naftos produktų ir naftos atsargos (toliau – atsargos) – energetikos produktų, nurodytų 2008 m. spalio 22 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1099/2008](https://eur-lex.europa.eu/eli/reg/1099/2008/oj) dėl energetikos statistikos (OL 2008 L 304, p. 1) (toliau – [Reglamentas (EB) Nr. 1099/2008](https://eur-lex.europa.eu/eli/reg/1099/2008/oj)) C priedo 3.1 skirsnio pirmoje pastraipoje, atsargos, įskaitant specialiąsias naftos produktų atsargas. ^s-897b2005355c39b4d64e3932
 
 
 8. Naftos produktų ir naftos atsargų kaupimas (toliau – atsargų kaupimas) – naftos produktų ir naftos atsargų ir (ar) reikalavimo teisių į naftos produktus ir naftos atsargas įgijimas, vykdant šiame įstatyme nustatytus įpareigojimus. ^s-7669ce63b6d30775fc8f5aa7
@@ -291,7 +291,7 @@ Kiekvienais metais iki kovo 31 dienos Energetikos ministerija, vadovaudamasi Tai
 5. Apie [[#^s-789d91318a4377c035cc0440|šio straipsnio 4 dalies 2 punkte]] nurodytus susitarimus, taip pat apie bet kokius tokių susitarimų pakeitimus ar jų pratęsimus reikia iš anksto informuoti Energetikos ministeriją Taisyklėse nustatyta tvarka. [[#^s-18d120058d0755787d2b7e1f|Šio straipsnio 4 dalies]] 3 ir 4 punktuose nurodytiems susitarimams sudaryti, taip pat bet kokiems tokių susitarimų pakeitimams ar jų pratęsimams reikia gauti išankstinį Energetikos ministerijos sutikimą ir visų valstybių narių, kurių teritorijoje bus laikomos šios atsargos, kompetentingų institucijų išankstinius sutikimus. Energetikos ministerijos sutikimų išdavimo tvarka nustatoma Taisyklėse. ^s-2ccb647b390af4e32d280608
 
 
-6. Prieš išduodama [[#^s-2ccb647b390af4e32d280608|šio straipsnio 5 dalyje]] nurodytus sutikimus, Energetikos ministerija, vadovaudamasi Taisyklėmis, įvertina planuojamų sudaryti susitarimų dėl atsargų kaupimo ir tvarkymo paslaugų teikimo kitų valstybių narių teritorijoje sąlygas, nustato, ar tenkinami šio straipsnio 3 ir [[#^s-18d120058d0755787d2b7e1f|4 dalių]] reikalavimai dėl tokių subjektų turimų atsargų, jų laikymo pajėgumų, šio įstatymo [[#^s-2a739cb54cade057931b06c0|10 straipsnio]] reikalavimai dėl atsargų laikymo, taip pat ar yra gauti visi reikalingi kitų valstybių narių kompetentingų institucijų sutikimai. Įpareigotosios įmonės negali sudaryti atsargų kaupimo ir tvarkymo susitarimų su tais subjektais, dėl kurių Energetikos ministerija nedavė išankstinio sutikimo. ^s-2abec2996e6903c136f97b08
+6. Prieš išduodama [[#^s-2ccb647b390af4e32d280608|šio straipsnio 5 dalyje]] nurodytus sutikimus, Energetikos ministerija, vadovaudamasi Taisyklėmis, įvertina planuojamų sudaryti susitarimų dėl atsargų kaupimo ir tvarkymo paslaugų teikimo kitų valstybių narių teritorijoje sąlygas, nustato, ar tenkinami šio straipsnio [[#^s-caf12e35365ea9794ca20315|3]] ir [[#^s-18d120058d0755787d2b7e1f|4]] dalių reikalavimai dėl tokių subjektų turimų atsargų, jų laikymo pajėgumų, šio įstatymo [[#^s-2a739cb54cade057931b06c0|10 straipsnio]] reikalavimai dėl atsargų laikymo, taip pat ar yra gauti visi reikalingi kitų valstybių narių kompetentingų institucijų sutikimai. Įpareigotosios įmonės negali sudaryti atsargų kaupimo ir tvarkymo susitarimų su tais subjektais, dėl kurių Energetikos ministerija nedavė išankstinio sutikimo. ^s-2abec2996e6903c136f97b08
 
 
 7. Atsargų kaupimo ir tvarkymo paslaugų teikimo sutartyse turi būti nurodyta: atsargų kiekis, atsargų laikymo vieta, atsargų kokybė, atsargų kaina, šalių teisės, pareigos ir atsakomybė, sutarties galiojimo terminas ir sutarties nutraukimo sąlygos, ginčų nagrinėjimo tvarka, atsargų laikymo ir apskaitos tvarka. ^s-ade3c031e5d6eba87367db42
@@ -395,7 +395,7 @@ ATSARGŲ ĮSIGIJIMAS, PANAUDOJIMAS, KEITIMAS IR PERLEIDIMAS
 1. Atsargos, kurias privaloma kaupti pagal šį įstatymą, gali būti naudojamos ekstremaliosios energetikos padėties laikotarpiu arba [[latest/TAR.3ED3D65F5638|Lietuvos Respublikos valstybės rezervo įstatyme]] nustatytais atvejais ir tvarka. Panaudojus atsargas šioje dalyje nustatytais atvejais, reikiamas atsargų kiekis atkuriamas per Europos Komisijos nustatytą laikotarpį. ^s-886a0d751b5e3fd707162334
 
 
-2. Ekstremaliosios energetikos padėties atveju atsargos naudojamos pagal šio įstatymo 17 ir [[#^s-dafd208242ab756ae374eb85|18 straipsnius]] ir Vyriausybės patvirtintą Vartotojų aprūpinimo energija ir (ar) energijos ištekliais esant ekstremaliai energetikos padėčiai tvarką. ^s-704e137d167d3972c4f1c9cf
+2. Ekstremaliosios energetikos padėties atveju atsargos naudojamos pagal šio įstatymo [[#^s-4de29ea0fe721ccff4a99bcb|17]] ir [[#^s-dafd208242ab756ae374eb85|18]] straipsnius ir Vyriausybės patvirtintą Vartotojų aprūpinimo energija ir (ar) energijos ištekliais esant ekstremaliai energetikos padėčiai tvarką. ^s-704e137d167d3972c4f1c9cf
 
 
 3. Jeigu Agentūra atsargų sukaupė daugiau negu privaloma pagal šį įstatymą, Energetikos ministerija Taisyklėse nustatyta tvarka gali leisti parduoti Agentūros kaupiamų atsargų perteklių arba susitarimų pagrindu suteikti reikalavimo teises į Agentūros kaupiamų atsargų perteklių kitiems ūkio subjektams ar kitaip panaudoti šį atsargų perteklių. Lėšos, gautos realizavus Agentūros kaupiamų atsargų perteklių šioje dalyje nustatyta tvarka, gali būti naudojamos tik šio įstatymo Agentūrai nustatytoms funkcijoms įgyvendinti. ^s-962ae10de1fbd2665d12179f
@@ -520,7 +520,7 @@ Panaudojus atsargas šio įstatymo [[#^s-886a0d751b5e3fd707162334|15 straipsnio 
 ### 21 straipsnis. Atsargų informacinė sistema ir ataskaitos ^s-7fafe7ed491322ae47c9d3e2
 
 
-1. Agentūra valdo ir tvarko nuolat atnaujinamą ir išsamią atsargų informacinę sistemą, kurioje nurodomi tikslūs konkrečių atsargų kiekiai, pobūdis, savininkai ir sandėliai, perdirbimo įmonės ir saugyklos, kuriuose šios atsargos yra laikomos pagal Reglamento (EB) Nr. 1099/2008 C priedo 3.1 skirsnio pirmoje pastraipoje nustatytas kategorijas, informacija apie atsargų kaupimo ir tvarkymo sąnaudas ir Lietuvos Respublikoje laikomas komercines atsargas, taip pat kiti Taisyklėse nurodyti duomenys ir informacija. ^s-ce73cb46493cdd5b0bbdf487
+1. Agentūra valdo ir tvarko nuolat atnaujinamą ir išsamią atsargų informacinę sistemą, kurioje nurodomi tikslūs konkrečių atsargų kiekiai, pobūdis, savininkai ir sandėliai, perdirbimo įmonės ir saugyklos, kuriuose šios atsargos yra laikomos pagal [Reglamento (EB) Nr. 1099/2008](https://eur-lex.europa.eu/eli/reg/1099/2008/oj) C priedo 3.1 skirsnio pirmoje pastraipoje nustatytas kategorijas, informacija apie atsargų kaupimo ir tvarkymo sąnaudas ir Lietuvos Respublikoje laikomas komercines atsargas, taip pat kiti Taisyklėse nurodyti duomenys ir informacija. ^s-ce73cb46493cdd5b0bbdf487
 
 
 2. Už atsargų ataskaitų rengimą ir teikimą Europos Sąjungos institucijoms atsakingi Lietuvos statistikos departamentas ir Agentūra. Atsargų ataskaitų rengimo ir teikimo tvarka ir terminai nustatomi Taisyklėse. ^s-13f83c750a0f830710b099cd
@@ -619,14 +619,14 @@ Lietuvos Respublikos Vyriausybė ar jos įgalioja institucija priima šio įstat
 1. Šis įstatymas, išskyrus 2 straipsnį ir šio straipsnio 2 dalį, įsigalioja 2012 m. liepos 1 d. ^s-e11d57a4c48035945b232333
 
 
-2. Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.74602705CADB#^s-b519965f306ea895b4e06884|Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 6, 7 straipsniai]] ir [[#^s-5c5ad003553b9a949613e3f0|23 straipsnio 3 dalis]] įsigalioja 2012 m. gruodžio 31 d. ^s-bfc40681cf569c8e0a9e202d
+2. Šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.74602705CADB|Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo]] [[latest/TAR.74602705CADB#^s-333cfc55179924222695a4c4|6]], [[latest/TAR.74602705CADB#^s-b519965f306ea895b4e06884|7]] straipsniai ir [[#^s-5c5ad003553b9a949613e3f0|23 straipsnio 3 dalis]] įsigalioja 2012 m. gruodžio 31 d. ^s-bfc40681cf569c8e0a9e202d
 
 
 
 ### 4 straipsnis. Iki 2012 m. gruodžio 31 d. privalomų kaupti atsargų kiekis ir kategorijos ^s-b0abc97178ea7156653dffad
 
 
-1. Šio straipsnio nustatyti reikalavimai dėl privalomų kaupti atsargų kiekio ir kategorijų bei kaupimo užduočių nustatymo tvarkos taikomi iki šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.74602705CADB#^s-b519965f306ea895b4e06884|Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo 6 ir 7 straipsnių]] įsigaliojimo dienos. ^s-0391a9b5f3361ad8b4ea7810
+1. Šio straipsnio nustatyti reikalavimai dėl privalomų kaupti atsargų kiekio ir kategorijų bei kaupimo užduočių nustatymo tvarkos taikomi iki šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.74602705CADB|Lietuvos Respublikos naftos produktų ir naftos valstybės atsargų įstatymo]] [[latest/TAR.74602705CADB#^s-333cfc55179924222695a4c4|6]] ir [[latest/TAR.74602705CADB#^s-b519965f306ea895b4e06884|7]] straipsnių įsigaliojimo dienos. ^s-0391a9b5f3361ad8b4ea7810
 
 
 2. Turi būti kaupiamos pirmos kategorijos (variklių benzino, aviacinio benzino ir benzino tipo reaktyvinio kuro), antros kategorijos (dyzelino, gazolio kurui, žibalo, žibalo tipo reaktyvinio kuro) ir trečios kategorijos (skystojo kuro (mazuto) naftos produktų atsargos. Šios atsargos taip pat gali būti kaupiamos žalios naftos, tarpinių naftos produktų ar mišinių komponentų pavidalu. Žalia nafta ar tarpiniai naftos produktai turi būti perskaičiuojami į naftos produktus pagal praėjusių kalendorinių metų naftos perdirbimo įmonių naftos perdirbimo faktinės išeigos rodiklius. Šis pakeitimas gali būti taikomas ne daugiau kaip 40 procentų pirmos ir antros kategorijų naftos produktų ir ne daugiau kaip 50 procentų trečios kategorijos naftos produktų. Mišinių komponentai, jeigu jie skirti perdirbti į nurodytus pirmos, antros ar trečios kategorijos galutinius naftos produktus, gali pakeisti naftos produktus, kuriems jie yra skirti. ^s-b302ab771796ff4e330c5743

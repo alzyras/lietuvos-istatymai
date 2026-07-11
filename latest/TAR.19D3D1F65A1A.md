@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-82027ba389fd29cd2db5b39e
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. vasario 7 d. dekretą Nr. 1K-953, ratifikuoja Vienos konvencijos dėl konsulinių santykių fakultatyvinį protokolą dėl privalomo ginčų sprendimo, priimtą 1963 m. balandžio 24 d. Vienoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. vasario 7 d. dekretą Nr. 1K-953](https://e-tar.lt/portal/lt/legalAct/TAR.CAD948BD0806), ratifikuoja Vienos konvencijos dėl konsulinių santykių fakultatyvinį protokolą dėl privalomo ginčų sprendimo, priimtą 1963 m. balandžio 24 d. Vienoje.
 
 
 

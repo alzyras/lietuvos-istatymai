@@ -140,13 +140,13 @@ Asmenų, išvardytų 2 straipsnio 1 dalies 1–5 punktuose, draudžiamosiomis pa
 „2) minimalų valstybinio socialinio pensijų draudimo ar jam prilyginamą stažą atitinkamos rūšies pensijai mirusysis įgijo dirbdamas Lietuvos, Europos Sąjungos ar Europos ekonominės erdvės susitarimą pasirašiusių valstybių narių įmonėse, įstaigose ar organizacijose (išskyrus asmenis, iki mirties dienos gavusius netekto darbingumo (invalidumo) ar senatvės pensiją, paskirtą ir (ar) mokėtą pagal šį įstatymą ar pagal pensijų įstatymus, galiojusius Lietuvos Respublikoje iki 1995 m. sausio 1 d., bei Lietuvos Respublikos įstatymų nustatyta tvarka reabilituotus politinius kalinius ir tremtinius, dalį stažo įgijusius neteisėto kalinimo metu ar tremtyje, kuriems sąlyga įgyti minimalų stažą dirbant Lietuvos, Europos Sąjungos ar Europos ekonominės erdvės susitarimą pasirašiusių valstybių narių įmonėse, įstaigose ar organizacijose netaikoma).“
 
 
-2. Papildyti 34 straipsnį nauja [[#^s-93612407a4cbc3ce85b3f062|2 dalimi]]: ^s-93612407a4cbc3ce85b3f062
+2. Papildyti 34 straipsnį nauja 2 dalimi: ^s-93612407a4cbc3ce85b3f062
 
 
 „2. Šio straipsnio 1 dalyje nustatytos sąlygos, skiriant našlių pensiją šio įstatymo 35 straipsnyje nurodytam mirusio asmens sutuoktiniui, netaikomos, jeigu asmuo mirė iki 1991 m. birželio 1 d.“
 
 
-3. Buvusias 34 straipsnio 2 ir [[#^s-c0273e93472293bfe8d37df3|3 dalis]] laikyti atitinkamai 3 ir 4 dalimis. ^s-c0273e93472293bfe8d37df3
+3. Buvusias 34 straipsnio 2 ir 3 dalis laikyti atitinkamai 3 ir 4 dalimis. ^s-c0273e93472293bfe8d37df3
 
 
 

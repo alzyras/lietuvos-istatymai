@@ -327,7 +327,7 @@ Pakeisti Kodekso priedą ir jį išdėstyti taip:
 
 
 „Lietuvos Respublikos
-vidaus vandenų transporto kodekso
+[vidaus vandenų transporto kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.DEBA0718FB0F)
 priedas
 
 ĮGYVENDINAMI EUROPOS SĄJUNGOS TEISĖS AKTAI
@@ -337,7 +337,7 @@ priedas
 1. 1987 m. lapkričio 9 d. Tarybos direktyva 87/540/EEB dėl leidimo verstis krovinių vežėjo vandens keliais vidaus ir tarptautiniais maršrutais veikla bei abipusio diplomų, pažymėjimų ir kitų oficialią kvalifikaciją verstis šia veikla patvirtinančių dokumentų pripažinimo (OL 2004 m. specialusis leidimas, 6 skyrius, 1 tomas, p. 191). ^s-f2758e2e633f448edbe5a48c
 
 
-2. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyvos 2006/87/EB, nustatančios techninius reikalavimus vidaus vandenų laivams ir panaikinančios Tarybos direktyvą 82/714/EEB (OL 2006 L 389, p. 1), 3, 4, 9 ir [[#^s-8bf683155b59b80471716747|10 straipsnių]] nuostatos.“ ^s-9805d4bd80d806e94a9d8ac0
+2. 2006 m. gruodžio 12 d. Europos Parlamento ir Tarybos direktyvos 2006/87/EB, nustatančios techninius reikalavimus vidaus vandenų laivams ir panaikinančios Tarybos direktyvą 82/714/EEB (OL 2006 L 389, p. 1), [[#^s-354b6fda4b9b5a5008be9895|3]], [[#^s-2af34b8b4bb8184f1547e0b6|4]], [[#^s-7ae79d384cc957a4391a2c5a|9]] ir [[#^s-8bf683155b59b80471716747|10]] straipsnių nuostatos.“ ^s-9805d4bd80d806e94a9d8ac0
 
 
 

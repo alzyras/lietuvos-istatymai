@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Protokolo ratifikavimas ^s-32609f867ecdfa0cc0c7150d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2004 m. vasario 27 d. dekretą Nr. 386, ratifikuoja 2003 m. lapkričio 28 d. Vilniuje pasirašytą Protokolą, iš dalies pakeičiantį Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos susitarimą dėl Baltijos šalių tarpparlamentinio ir tarpvyriausybinio bendradarbiavimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2004 m. vasario 27 d. dekretą Nr. 386](https://e-tar.lt/portal/lt/legalAct/TAR.04693136A31A), ratifikuoja 2003 m. lapkričio 28 d. Vilniuje pasirašytą Protokolą, iš dalies pakeičiantį Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos susitarimą dėl Baltijos šalių tarpparlamentinio ir tarpvyriausybinio bendradarbiavimo.
 
 
 

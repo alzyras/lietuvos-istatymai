@@ -44,20 +44,20 @@ Vilnius
 „3. Asmeninė pagalba – asmeninio asistento individualiai teikiama pagalba neįgaliajam atlikti darbus ir vykdyti veiklas, kurių dėl negalios jis negali atlikti savarankiškai ir kurie būtini siekiant gyventi savarankiškai ir veikti visose gyvenimo srityse.“
 
 
-2. Papildyti [[#^s-12b500475eab06bab169e180|2 straipsnį]] nauja 4 dalimi: ^s-c7b627fdc54fb31d2bdd5803
+2. Papildyti [[#^s-12b500475eab06bab169e180|2 straipsnį]] nauja [[latest/TAR.199156E4E004|4 dalimi]]: ^s-c7b627fdc54fb31d2bdd5803
 
 
 „4. Asmeninis asistentas – fizinis asmuo, teikiantis asmeninę pagalbą neįgaliajam, su kuriuo jis nėra susijęs artimais giminystės ryšiais.“
 
 
-3. Buvusias [[#^s-12b500475eab06bab169e180|2 straipsnio]] 3–16 dalis laikyti atitinkamai 5–18 dalimis. ^s-6f5c90cc00196796d2c49246
+3. Buvusias [[#^s-12b500475eab06bab169e180|2 straipsnio]] [[latest/TAR.199156E4E004#^s-4490366af05886727b674f5f|3]]–[[latest/TAR.199156E4E004#^s-c4a36dfb82923ad8051c654f|16]] dalis laikyti atitinkamai [[latest/TAR.199156E4E004#^s-e2cb04e9a39636bd7b97c3b7|5]]–[[latest/TAR.199156E4E004#^s-142c02ec9bb3294ee75f20a1|18]] dalimis. ^s-6f5c90cc00196796d2c49246
 
 
 
 ### 2 straipsnis. 16 straipsnio pakeitimas ^s-12b500475eab06bab169e180
 
 
-Pakeisti 16 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.199156E4E004|16 straipsnio 2 dalies 6 punktą]] ir jį išdėstyti taip:
 
 
 „6) savivaldybės vykdo neįgaliųjų socialinės integracijos, neįgaliųjų specialiųjų poreikių tenkinimo vertinant asmens savarankiškumą kasdienėje veikloje ir teikiant asmeninę pagalbą, bendrąsias ir specialiąsias socialines paslaugas, sąlygų neįgaliesiems integruotis į bendruomenę sudarymo ir bendradarbiavimo su neįgaliųjų asociacijomis priemones ir projektus ir planuoja juos savivaldybės planavimo dokumentuose;“.
@@ -66,7 +66,7 @@ Pakeisti 16 straipsnio 2 dalies 6 punktą ir jį išdėstyti taip:
 ### 3 straipsnis. 18 straipsnio pakeitimas ^s-8fd8ed69fab760a9661d979f
 
 
-Papildyti 18 straipsnio 2 dalį 8 punktu:
+Papildyti [[latest/TAR.199156E4E004|18 straipsnio 2 dalį 8 punktu]]:
 
 
 „8) neįgaliesiems rekomenduojamų specialiosios pagalbos priemonių.“
@@ -76,13 +76,13 @@ Papildyti 18 straipsnio 2 dalį 8 punktu:
 ### 4 straipsnis. 201 straipsnio pakeitimas ^s-24a6a815455bad216093ad25
 
 
-1. Papildyti 201 straipsnio 1 dalį 7 punktu: ^s-db456b797584a02cd3e5d547
+1. Papildyti [[latest/TAR.199156E4E004|201 straipsnio 1 dalį 7 punktu]]: ^s-db456b797584a02cd3e5d547
 
 
 „7) asmeninės pagalbos.“
 
 
-2. Pakeisti 201 straipsnio 10 dalį ir ją išdėstyti taip: ^s-ee2e37e452792c8c710f674d
+2. Pakeisti [[latest/TAR.199156E4E004|201 straipsnio 10 dalį]] ir ją išdėstyti taip: ^s-ee2e37e452792c8c710f674d
 
 
 „10. Gali būti nustatomi du specialiųjų poreikių lygiai:
@@ -97,10 +97,10 @@ Papildyti 18 straipsnio 2 dalį 8 punktu:
 ### 5 straipsnis. Įstatymo papildymas 251 straipsniu ^s-b2edcdfed8702c5805e1430e
 
 
-Papildyti Įstatymą 251 straipsniu:
+Papildyti Įstatymą [[latest/TAR.199156E4E004|251 straipsniu]]:
 
 
-„251 straipsnis. Asmeninės pagalbos teikimas, apmokėjimas ir finansavimas
+„[[latest/TAR.199156E4E004|251 straipsnis]]. Asmeninės pagalbos teikimas, apmokėjimas ir finansavimas
 
 
 1. Asmeninės pagalbos poreikis nustatomas individualiai kiekvienam neįgaliajam, vertinant kompleksiškai sveikatos būklę ar organizmo funkcinius sutrikimus, galimybes atlikti darbus ir vykdyti veiklas, kurie yra būtini siekiant gyventi savarankiškai ir veikti visose gyvenimo srityse. ^s-d2ee8f8b809f057e17e4691a

@@ -36,7 +36,7 @@ Vilnius
 ### 1 straipsnis. Protokolo pakeitimo ratifikavimas ^s-761284fdde5caf9d86e22179
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1997 m. kovo 26 d. dekretą Nr. 1249, ratifikuoja Europos Bendrijos, Europos atominės energijos bendrijos, Europos anglies ir plieno bendrijos, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, sutarties dėl laisvos prekybos ir su prekyba susijusių dalykų 3 protokolo pakeitimą, priimtą 1997 m. vasario 25 d. Lietuvos Respublikos, iš vienos pusės, ir Europos bendrijų, iš kitos pusės, Jungtinio komiteto sprendimu.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento [1997 m. kovo 26 d. dekretą Nr. 1249](https://e-tar.lt/portal/lt/legalAct/TAR.DA2F387FB308), ratifikuoja Europos Bendrijos, Europos atominės energijos bendrijos, Europos anglies ir plieno bendrijos, iš vienos pusės, ir Lietuvos Respublikos, iš kitos pusės, sutarties dėl laisvos prekybos ir su prekyba susijusių dalykų 3 protokolo pakeitimą, priimtą 1997 m. vasario 25 d. Lietuvos Respublikos, iš vienos pusės, ir Europos bendrijų, iš kitos pusės, Jungtinio komiteto sprendimu.
 
 
 

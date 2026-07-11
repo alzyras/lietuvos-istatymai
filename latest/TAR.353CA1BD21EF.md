@@ -114,7 +114,7 @@ BENDROSIOS NUOSTATOS
 13. Pašaro papildas – pašaro mišinys, turintis daug tam tikrų medžiagų, naudojamas gyvūnų paros daviniui papildyti derinant jį su kitais pašarais. ^s-0e0755852d58c8eb5ca08df3
 
 
-14. Pašaro priedas – medžiaga, mikroorganizmas arba preparatas, išskyrus pašarines žaliavas ir premiksus, dedami į pašarus ar vandenį tam, kad atliktų bent vieną iš 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1831/2003 dėl priedų, skirtų naudoti gyvūnų mityboje, 5 straipsnio 3 dalyje nurodytų funkcijų. ^s-9486d75509c26ad9ed6da648
+14. Pašaro priedas – medžiaga, mikroorganizmas arba preparatas, išskyrus pašarines žaliavas ir premiksus, dedami į pašarus ar vandenį tam, kad atliktų bent vieną iš 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1831/2003](https://eur-lex.europa.eu/eli/reg/1831/2003/oj) dėl priedų, skirtų naudoti gyvūnų mityboje, 5 straipsnio 3 dalyje nurodytų funkcijų. ^s-9486d75509c26ad9ed6da648
 
 
 15. Pašarų tiekimas rinkai – kaip apibrėžta 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 178/2002, nustatančio maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiančio Europos maisto saugos tarnybą ir nustatančio su maisto saugos klausimais susijusias procedūras, [[#^s-e4f2c669004899328c3178d7|3 straipsnio 8 dalyje]]. ^s-b192467328707ad94ed68f46
@@ -180,7 +180,7 @@ PAŠARŲ GAMYBA, LAIKYMAS, FASAVIMAS, PAKAVIMAS, TRANSPORTAVIMAS, NAUDOJIMAS IR 
 ### 4 straipsnis. Pašarų gamybos sąlygos ^s-b8944765b41748db63f4f4cd
 
 
-1. Tik patvirtinti ir (arba) įregistruoti ūkio subjektai gali gaminti, laikyti, pakuoti, fasuoti, transportuoti, tiekti rinkai arba gaminti savo reikmėms, taip pat importuoti, eksportuoti pašarus, vadovaudamiesi 2005 m. sausio 12 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 183/2005, nustatančio pašarų higienos reikalavimus, 2005 m. kovo 7 d. Komisijos reglamento (EB) Nr. 382/2005, nustatančio Tarybos reglamento (EB) Nr. 1786/2003 dėl bendro sausųjų pašarų rinkos organizavimo taikymo išsamias taisykles, ir 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1831/2003 dėl priedų, skirtų naudoti gyvūnų mityboje, reikalavimais. ^s-9f1a0f715ec78ea971a0a355
+1. Tik patvirtinti ir (arba) įregistruoti ūkio subjektai gali gaminti, laikyti, pakuoti, fasuoti, transportuoti, tiekti rinkai arba gaminti savo reikmėms, taip pat importuoti, eksportuoti pašarus, vadovaudamiesi 2005 m. sausio 12 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 183/2005, nustatančio pašarų higienos reikalavimus, 2005 m. kovo 7 d. Komisijos reglamento (EB) Nr. 382/2005, nustatančio Tarybos [reglamento (EB) Nr. 1786/2003](https://eur-lex.europa.eu/eli/reg/1786/2003/oj) dėl bendro sausųjų pašarų rinkos organizavimo taikymo išsamias taisykles, ir 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1831/2003](https://eur-lex.europa.eu/eli/reg/1831/2003/oj) dėl priedų, skirtų naudoti gyvūnų mityboje, reikalavimais. ^s-9f1a0f715ec78ea971a0a355
 
 
 2. Pašarų gamybos, transportavimo, laikymo ir naudojimo įrangai, talpykloms, naudojimo priemonėms, vamzdynams ir paviršiams dezinfekuoti galima naudoti tik Lietuvos Respublikos sveikatos apsaugos ministerijos nustatyta tvarka autorizuotus biocidus. ^s-36bb765a911f09838e9b34c6
@@ -245,7 +245,7 @@ PAŠARŲ EKSPORTO, IMPORTO IR TRANZITO REIKALAVIMAI
 ### 7 straipsnis. Pašarų eksportas, importas ir tranzitas ^s-38ad393c943dc9156fb653e0
 
 
-1. Pašarai eksportuojami ir importuojami vadovaujantis šio įstatymo, 2008 m. balandžio 23 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 450/2008, nustatančio Bendrijos muitinės kodeksą (OL 2008 L 145, p. 1), 1993 m. liepos 2 d. Komisijos reglamento (EEB) Nr. 2454/1993, išdėstančio Tarybos reglamentą (EEB) Nr. 2913/1992, nustatantį Bendrijos muitinės kodekso įgyvendinimo nuostatas, ir 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 882/2004 dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių, [[latest/TAR.97BDCD719E57|Lietuvos Respublikos veterinarijos įstatymo]], kitų įstatymų ir teisės aktų nuostatomis, taip pat tarptautinėmis sutartimis. Importuojami ir eksportuojami pašarai privalo turėti atitikties deklaraciją, o eksportuojami pašarai, kai to reikalauja šalis gavėja, – fitosanitarinį sertifikatą. ^s-202f1f7cb8762f147e341de3
+1. Pašarai eksportuojami ir importuojami vadovaujantis šio įstatymo, 2008 m. balandžio 23 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 450/2008, nustatančio Bendrijos muitinės kodeksą (OL 2008 L 145, p. 1), 1993 m. liepos 2 d. Komisijos [reglamento (EEB) Nr. 2454/1993](https://eur-lex.europa.eu/eli/reg/2454/1993/oj), išdėstančio Tarybos [reglamentą (EEB) Nr. 2913/1992](https://eur-lex.europa.eu/eli/reg/2913/1992/oj), nustatantį Bendrijos [muitinės kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.446480A0D145) įgyvendinimo nuostatas, ir 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 882/2004 dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių, [[latest/TAR.97BDCD719E57|Lietuvos Respublikos veterinarijos įstatymo]], kitų įstatymų ir teisės aktų nuostatomis, taip pat tarptautinėmis sutartimis. Importuojami ir eksportuojami pašarai privalo turėti atitikties deklaraciją, o eksportuojami pašarai, kai to reikalauja šalis gavėja, – fitosanitarinį sertifikatą. ^s-202f1f7cb8762f147e341de3
 
 
 2. Valstybinė maisto ir veterinarijos tarnyba turi teisę uždrausti įvežti ir importuoti į Lietuvos Respubliką pašarus ir juos naudoti arba vežti per Lietuvos Respublikos teritoriją tranzitu, jeigu jie: ^s-d8e0b74ef81dc422089ecd71
@@ -257,7 +257,7 @@ PAŠARŲ EKSPORTO, IMPORTO IR TRANZITO REIKALAVIMAI
 2) įvežami iš valstybės ar jos regiono, kuriame nustatyta pavojinga gyvūnų užkrečiamoji liga ar yra kitų veiksnių, kenkiančių pašarų saugai. ^s-e19457f104eca69886e07cbc
 
 
-3. Genetiškai modifikuoti pašarai importuojami ir eksportuojami vadovaujantis 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų ir 2003 m. liepos 15 d. Europos Parlamento ir Tarybos reglamento (EB) Nr. 1946/2003 dėl genetiškai modifikuotų organizmų tarpvalstybinio judėjimo ir kitų teisės aktų nustatytais reikalavimais. ^s-37941cabcc8a5b91d1d38e70
+3. Genetiškai modifikuoti pašarai importuojami ir eksportuojami vadovaujantis 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1829/2003](https://eur-lex.europa.eu/eli/reg/1829/2003/oj) dėl genetiškai modifikuoto maisto ir pašarų ir 2003 m. liepos 15 d. Europos Parlamento ir Tarybos [reglamento (EB) Nr. 1946/2003](https://eur-lex.europa.eu/eli/reg/1946/2003/oj) dėl genetiškai modifikuotų organizmų tarpvalstybinio judėjimo ir kitų teisės aktų nustatytais reikalavimais. ^s-37941cabcc8a5b91d1d38e70
 
 
 
@@ -416,34 +416,34 @@ priedas
 7. 2002 m. sausio 28 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 178/2002, nustatantis maistui skirtų teisės aktų bendruosius principus ir reikalavimus, įsteigiantis Europos maisto saugos tarnybą ir nustatantis su maisto saugos klausimais susijusias procedūras (OL 2004 m. specialusis leidimas, 15 skyrius, 6 tomas, p. 463), su paskutiniais pakeitimais, padarytais 2008 m. kovo 7 d. Komisijos reglamentu (EB) Nr. 208/2008 (OL 2008 L 60, p. 17). ^s-ccd703c7838b55bc4a864a6c
 
 
-8. 2002 m. spalio 3 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1774/2002, nustatantis sveikatos taisykles gyvūninės kilmės šalutiniams produktams, neskirtiems vartoti žmonėms (OL 2004 m. specialusis leidimas, 3 skyrius, 37 tomas, p. 92), su paskutiniais pakeitimais, padarytais 2008 m. rugpjūčio 4 d. Komisijos reglamentu (EB) Nr. 717/2008 (OL 2008, L 207, p. 9). ^s-6b7f7374d9faf2613bea4ea8
+8. 2002 m. spalio 3 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1774/2002](https://eur-lex.europa.eu/eli/reg/1774/2002/oj), nustatantis sveikatos taisykles gyvūninės kilmės šalutiniams produktams, neskirtiems vartoti žmonėms (OL 2004 m. specialusis leidimas, 3 skyrius, 37 tomas, p. 92), su paskutiniais pakeitimais, padarytais 2008 m. rugpjūčio 4 d. Komisijos reglamentu (EB) Nr. 717/2008 (OL 2008, L 207, p. 9). ^s-6b7f7374d9faf2613bea4ea8
 
 
-9. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1946/2003 dėl genetiškai modifikuotų organizmų tarpvalstybinio judėjimo (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 650). ^s-233f46ca5480198db20f4807
+9. 2003 m. liepos 15 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1946/2003](https://eur-lex.europa.eu/eli/reg/1946/2003/oj) dėl genetiškai modifikuotų organizmų tarpvalstybinio judėjimo (OL 2004 m. specialusis leidimas, 15 skyrius, 7 tomas, p. 650). ^s-233f46ca5480198db20f4807
 
 
-10. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1829/2003 dėl genetiškai modifikuoto maisto ir pašarų (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 432) su paskutiniais pakeitimais, padarytais 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 298/2008 (OL 2008 L 97, p. 64). ^s-9d549fffad5ac9e5189c8959
+10. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1829/2003](https://eur-lex.europa.eu/eli/reg/1829/2003/oj) dėl genetiškai modifikuoto maisto ir pašarų (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 432) su paskutiniais pakeitimais, padarytais 2008 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 298/2008 (OL 2008 L 97, p. 64). ^s-9d549fffad5ac9e5189c8959
 
 
-11. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1830/2003 dėl genetiškai modifikuotų organizmų ir iš jų pagamintų maisto produktų ir pašarų susekamumo ir ženklinimo ir iš dalies pakeičiantis Direktyvą 2001/18/EB (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 455) su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1137/2008 (OL 2008 L 311, p. 1). ^s-2a8da0fc1d63aa386e3d3f7e
+11. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1830/2003](https://eur-lex.europa.eu/eli/reg/1830/2003/oj) dėl genetiškai modifikuotų organizmų ir iš jų pagamintų maisto produktų ir pašarų susekamumo ir ženklinimo ir iš dalies pakeičiantis Direktyvą 2001/18/EB (OL 2004 m. specialusis leidimas, 13 skyrius, 32 tomas, p. 455) su paskutiniais pakeitimais, padarytais 2008 m. spalio 22 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1137/2008](https://eur-lex.europa.eu/eli/reg/1137/2008/oj) (OL 2008 L 311, p. 1). ^s-2a8da0fc1d63aa386e3d3f7e
 
 
-12. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1831/2003 dėl priedų, skirtų naudoti gyvūnų mityboje (OL 2004 m. specialusis leidimas, 3 skyrius, 40 tomas, p. 238), su paskutiniais pakeitimais, padarytais 2005 m. kovo 4 d. Komisijos reglamentu (EB) Nr. 378/2005 (OL 2005 L 59, p. 8). ^s-a257a792763625d322fa4e32
+12. 2003 m. rugsėjo 22 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1831/2003](https://eur-lex.europa.eu/eli/reg/1831/2003/oj) dėl priedų, skirtų naudoti gyvūnų mityboje (OL 2004 m. specialusis leidimas, 3 skyrius, 40 tomas, p. 238), su paskutiniais pakeitimais, padarytais 2005 m. kovo 4 d. Komisijos reglamentu (EB) Nr. 378/2005 (OL 2005 L 59, p. 8). ^s-a257a792763625d322fa4e32
 
 
 13. 2004 m. sausio 14 d. Komisijos reglamentas (EB) Nr. 65/2004, nustatantis genetiškai modifikuotų organizmų unikalių identifikatorių sudarymo ir priskyrimo sistemą (OL 2004 m. specialusis leidimas, 13 skyrius, 33 tomas, p. 11). ^s-3a1ddaab647d8f8a9266f40c
 
 
-14. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 882/2004 dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių (OL 2004 m. specialusis leidimas, 3 skyrius, 45 tomas, p. 200), su paskutiniais pakeitimais, padarytais 2008 m. spalio 20 d. Komisijos reglamentu (EB) Nr. 1029/2008 (OL 2008 L 278, p. 6). ^s-2eccfe378c11be25c0bb7f10
+14. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 882/2004 dėl oficialios kontrolės, kuri atliekama siekiant užtikrinti, kad būtų įvertinama, ar laikomasi pašarus ir maistą reglamentuojančių teisės aktų, gyvūnų sveikatos ir gerovės taisyklių (OL 2004 m. specialusis leidimas, 3 skyrius, 45 tomas, p. 200), su paskutiniais pakeitimais, padarytais 2008 m. spalio 20 d. Komisijos [reglamentu (EB) Nr. 1029/2008](https://eur-lex.europa.eu/eli/reg/1029/2008/oj) (OL 2008 L 278, p. 6). ^s-2eccfe378c11be25c0bb7f10
 
 
 15. 2005 m. sausio 12 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 183/2005, nustatantis pašarų higienos reikalavimus (OL 2005 L 35, p. 1), su paskutiniais pakeitimais, padarytais 2009 m. kovo 11 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 219/2009 (OL 2009 L 87, p. 109). ^s-2fb2e968e5b2a12d24aff13f
 
 
-16. 2005 m. kovo 7 d. Komisijos reglamentas (EB) Nr. 382/2005, nustatantis Tarybos reglamento (EB) Nr. 1786/2003 dėl bendro sausųjų pašarų rinkos organizavimo taikymo išsamias taisykles (OL 2005 L 61, p. 4), su paskutiniais pakeitimais, padarytais 2009 m. kovo 19 d. Komisijos reglamentu (EB) Nr. 230/2009 (OL 2009 L 74, p. 12). ^s-f59b801d40427e352de70d21
+16. 2005 m. kovo 7 d. Komisijos reglamentas (EB) Nr. 382/2005, nustatantis Tarybos [reglamento (EB) Nr. 1786/2003](https://eur-lex.europa.eu/eli/reg/1786/2003/oj) dėl bendro sausųjų pašarų rinkos organizavimo taikymo išsamias taisykles (OL 2005 L 61, p. 4), su paskutiniais pakeitimais, padarytais 2009 m. kovo 19 d. Komisijos reglamentu (EB) Nr. 230/2009 (OL 2009 L 74, p. 12). ^s-f59b801d40427e352de70d21
 
 
-17. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 767/2009 dėl pašarų tiekimo rinkai ir naudojimo, iš dalies keičiantis Reglamentą (EB) Nr. 1831/2003 ir panaikinantis Direktyvas 79/373/EEB, 80/511/EEB, 82/471/EEB, 83/228/EB, 93/74/EEB, 93/113/EB, 96/25/EB bei Sprendimą 2004/217/EB (OL 2009 L 229, p. 1).“ ^s-4fb50bef5411942c797d8013
+17. 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 767/2009 dėl pašarų tiekimo rinkai ir naudojimo, iš dalies keičiantis [Reglamentą (EB) Nr. 1831/2003](https://eur-lex.europa.eu/eli/reg/1831/2003/oj) ir panaikinantis Direktyvas 79/373/EEB, 80/511/EEB, 82/471/EEB, 83/228/EB, 93/74/EEB, 93/113/EB, 96/25/EB bei Sprendimą 2004/217/EB (OL 2009 L 229, p. 1).“ ^s-4fb50bef5411942c797d8013
 
 
 

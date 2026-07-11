@@ -42,7 +42,7 @@ Vilnius
 Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 
 
-„2. Zonoje, suderinus su Muitinės departamentu prie Finansų ministerijos, gali būti įrengiamos zonos teritorijos dalys (toliau – laisvosios teritorijos), atitinkančios laisvosioms zonoms taikomus reikalavimus, nustatytus 1992 m. spalio 12 d. Tarybos reglamente (EEB) Nr. 2913/92, nustatančiame Bendrijos muitinės kodeksą, 1993 m. liepos 2 d. Komisijos reglamente (EEB) Nr. 2454/93, išdėstančiame Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas, [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatyme]] ir kituose teisės aktuose.“
+„2. Zonoje, suderinus su Muitinės departamentu prie Finansų ministerijos, gali būti įrengiamos zonos teritorijos dalys (toliau – laisvosios teritorijos), atitinkančios laisvosioms zonoms taikomus reikalavimus, nustatytus 1992 m. spalio 12 d. Tarybos [reglamente (EEB) Nr. 2913/92](https://eur-lex.europa.eu/eli/reg/2913/92/oj), nustatančiame Bendrijos muitinės kodeksą, 1993 m. liepos 2 d. Komisijos [reglamente (EEB) Nr. 2454/93](https://eur-lex.europa.eu/eli/reg/2454/93/oj), išdėstančiame Tarybos [reglamento (EEB) Nr. 2913/92](https://eur-lex.europa.eu/eli/reg/2913/92/oj), nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas, [[latest/TAR.2294490FE9DD|Lietuvos Respublikos muitinės įstatyme]] ir kituose teisės aktuose.“
 
 
 
@@ -52,7 +52,7 @@ Pakeisti 2 straipsnio 2 dalį ir ją išdėstyti taip:
 Pakeisti 15 straipsnio 1 dalį ir ją išdėstyti taip:
 
 
-„1. Zonoje įregistruotos įmonės ir jų darbuotojai Europos Sąjungos teisės aktų ir jų taikymo Lietuvos Respublikoje tvarką reglamentuojančių teisės aktų nustatyta tvarka moka importo muitus, apibrėžtus 1992 m. spalio 12 d. Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, 4 straipsnio 10 punkte. Zonoje įregistruotos įmonės ir jų darbuotojai Lietuvos Respublikos įstatymų nustatyta tvarka taip pat moka valstybės rinkliavą ir tik šiuos mokesčius bei įmokas:
+„1. Zonoje įregistruotos įmonės ir jų darbuotojai Europos Sąjungos teisės aktų ir jų taikymo Lietuvos Respublikoje tvarką reglamentuojančių teisės aktų nustatyta tvarka moka importo muitus, apibrėžtus 1992 m. spalio 12 d. Tarybos [reglamento (EEB) Nr. 2913/92](https://eur-lex.europa.eu/eli/reg/2913/92/oj), nustatančio Bendrijos muitinės kodeksą, 4 straipsnio 10 punkte. Zonoje įregistruotos įmonės ir jų darbuotojai Lietuvos Respublikos įstatymų nustatyta tvarka taip pat moka valstybės rinkliavą ir tik šiuos mokesčius bei įmokas:
 
 
 1) pelno mokestį; ^s-e880c97c56d0a7a5901cc408
@@ -83,7 +83,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 „16 straipsnis. Muitinės priežiūros ypatumai laisvosiose teritorijose
 
 
-Laisvųjų ekonominių zonų laisvosios teritorijos 1992 m. spalio 12 d. Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, 1993 m. liepos 2 d. Komisijos reglamento (EEB) Nr. 2454/93, išdėstančio Tarybos reglamento (EEB) Nr. 2913/92, nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas, ir [[latest/TAR.2294490FE9DD|Muitinės įstatymo]] požiūriu laikomos laisvosiomis zonomis.“
+Laisvųjų ekonominių zonų laisvosios teritorijos 1992 m. spalio 12 d. Tarybos [reglamento (EEB) Nr. 2913/92](https://eur-lex.europa.eu/eli/reg/2913/92/oj), nustatančio Bendrijos muitinės kodeksą, 1993 m. liepos 2 d. Komisijos [reglamento (EEB) Nr. 2454/93](https://eur-lex.europa.eu/eli/reg/2454/93/oj), išdėstančio Tarybos [reglamento (EEB) Nr. 2913/92](https://eur-lex.europa.eu/eli/reg/2913/92/oj), nustatančio Bendrijos muitinės kodeksą, įgyvendinimo nuostatas, ir [[latest/TAR.2294490FE9DD|Muitinės įstatymo]] požiūriu laikomos laisvosiomis zonomis.“
 
 
 

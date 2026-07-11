@@ -47,7 +47,7 @@ Papildyti Įstatymą 851 straipsniu:
 „851 straipsnis. Teismo sprendimo įvykdymo atidėjimas ar išdėstymas
 
 
-Teismo sprendimo įvykdymo atidėjimo ar išdėstymo klausimas sprendžiamas vadovaujantis Civilinio proceso kodekso normomis.“
+Teismo sprendimo įvykdymo atidėjimo ar išdėstymo klausimas sprendžiamas vadovaujantis [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) normomis.“
 
 
 

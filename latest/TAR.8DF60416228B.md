@@ -77,10 +77,10 @@ Kraujo donorystė remiasi donorystės savanoriškumo, donoro anonimiškumo, neat
 ### 3 straipsnis. Įstatymo įsigaliojimas ^s-b91f7dc50fd19b0df514c657
 
 
-1. Šis įstatymas, išskyrus [[#^s-907252da239b77b93a3df42a|1 straipsnio]] 2 ir 3 dalis ir [[#^s-4209017d85654aef4d458304|4 straipsnį]], įsigalioja 2013 m. sausio 1 d. ^s-115b361159d1485d6200a06f
+1. Šis įstatymas, išskyrus [[#^s-907252da239b77b93a3df42a|1 straipsnio]] [[#^s-1663f16d7157c909dc6fe876|2]] ir [[#^s-83d842389e675c61739d8adb|3]] dalis ir [[#^s-4209017d85654aef4d458304|4 straipsnį]], įsigalioja 2013 m. sausio 1 d. ^s-115b361159d1485d6200a06f
 
 
-2. Šio įstatymo [[#^s-907252da239b77b93a3df42a|1 straipsnio]] 2 ir 3 dalys įsigalioja 2011 m. sausio 1 d. ^s-5114f06d766fb90f10611e16
+2. Šio įstatymo [[#^s-907252da239b77b93a3df42a|1 straipsnio]] [[#^s-1663f16d7157c909dc6fe876|2]] ir [[#^s-83d842389e675c61739d8adb|3]] dalys įsigalioja 2011 m. sausio 1 d. ^s-5114f06d766fb90f10611e16
 
 
 

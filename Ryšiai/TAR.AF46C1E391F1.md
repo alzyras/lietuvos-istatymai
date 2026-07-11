@@ -13,4 +13,4 @@ pavadinimas: "Lietuvos Respublikos 20 mln. eurų Šiaurės investicijų banko pa
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.BF810C72DC9D#^s-b297f5e36cf81689af5b4847|Lietuvos Respublikos 20 mln. ekiu Šiaurės investicijų banko paskolos gamtosaugos programai finansuoti įstatymo pakeitimo įstatymas]] - LIETUVOS RESPUBLIKOS 20 MLN. EURŲ ŠIAURĖS INVESTICIJŲ BANKO PASKOLOS GAMTOSAUGOS INVESTICINIAMS PROJEKTAMS IR KITIEMS SAVIVALDYBIŲ INVESTICINIAMS PROJEKTAMS FINANSUOTI ĮSTATYMAS
+_Nėra._

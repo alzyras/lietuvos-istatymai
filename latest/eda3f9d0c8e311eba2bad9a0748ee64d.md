@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. 13 straipsnio pakeitimas ^s-7a04ad966e62892cc9b09cd9
 
 
-Pakeisti 13 straipsnio 1 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.FDF42614DE52#^s-617193349528d3a0cd2808e3|13 straipsnio 1 dalį]] ir ją išdėstyti taip:
 
 
 „1. Asmenims, gaunantiems valstybines pensijas, rentas buvusiems sportininkams, kompensacines išmokas profesionaliojo scenos meno įstaigų kūrybiniams darbuotojams, taip pat ligos išmokas dėl nelaimingų atsitikimų darbe ir profesinių ligų, ligos, motinystės, tėvystės ar vaiko priežiūros socialinio draudimo išmokas, profesinės reabilitacijos išmokas, iš nedarbo draudimo lėšų mokama tik nedarbo draudimo išmokos dalis, viršijanti gaunamą pensijų, kompensacijų, rentų ar išmokų sumą.“

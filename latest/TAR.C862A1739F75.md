@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sprendimo ratifikavimas ^s-3fbbf72c8026bae4ddefc889
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2001 m. lapkričio 14 d. dekretą Nr. 1556, ratifikuoja Lietuvos Respublikos ir Čekijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimą Nr.1/2000, pasirašytą 2000 m. gruodžio 27 d. Prahoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2001 m. lapkričio 14 d. dekretą Nr. 1556](https://e-tar.lt/portal/lt/legalAct/TAR.4DEADABF676B), ratifikuoja Lietuvos Respublikos ir Čekijos Respublikos laisvosios prekybos sutarties jungtinio komiteto sprendimą Nr.1/2000, pasirašytą 2000 m. gruodžio 27 d. Prahoje.
 
 
 

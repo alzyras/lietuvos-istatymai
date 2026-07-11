@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-3e04cd910df3268be881cf07
-[[latest/TAR.43178AA9832E#^s-ceb3fb3b4ae7049a8a678e68|Buhalterinės apskaitos įstatymo 1 IR 10 STRAIPSNIŲ]] PAPILDYMO ĮSTATYMO PRIPAŽINIMas NETEKUSIU GALIOS
+[Buhalterinės apskaitos įstatymo 1 IR 10 STRAIPSNIŲ PAPILDYMO ĮSTATYMO](https://e-tar.lt/portal/lt/legalAct/TAR.07FBF94E10F8) PRIPAŽINIMas NETEKUSIU GALIOS
 
 (Žin., 2002, Nr. 112-4967)
 
@@ -44,7 +44,7 @@ Vilnius
 ### 1 straipsnis. Įstatymo pripažinimas netekusiu galios ^s-ac12ade02a91a20577780a24
 
 
-Pripažinti netekusiu galios [[latest/TAR.43178AA9832E#^s-ceb3fb3b4ae7049a8a678e68|Lietuvos Respublikos buhalterinės apskaitos įstatymo 1 ir 10 straipsnių]] papildymo įstatymą.
+Pripažinti netekusiu galios [[latest/TAR.43178AA9832E|Lietuvos Respublikos buhalterinės apskaitos įstatymo]] [[latest/TAR.43178AA9832E#^s-cd4e5d19cb1d490f356057b9|1]] ir [[latest/TAR.43178AA9832E#^s-ceb3fb3b4ae7049a8a678e68|10]] straipsnių papildymo įstatymą.
 
 
 
@@ -59,13 +59,13 @@ Pripažinti netekusiu galios [[latest/TAR.43178AA9832E#^s-ceb3fb3b4ae7049a8a678e
 ### 1 straipsnis. 1 straipsnio 1 ir 2 dalių pakeitimas ^s-b33ca178361af4fe381bb889
 
 
-1. Pakeisti [[#^s-ebce4e9815a7669b02fabf31|1 straipsnio 1 dalį]] ir ją išdėstyti taip: ^s-ebce4e9815a7669b02fabf31
+1. Pakeisti 1 straipsnio 1 dalį ir ją išdėstyti taip: ^s-ebce4e9815a7669b02fabf31
 
 
 „1. Šis Įstatymas nustato ribotos ir neribotos civilinės atsakomybės juridinių asmenų, ūkininkų ūkių turto, nuosavo kapitalo, įsipareigojimų, ūkinių operacijų ir ūkinių įvykių, gyventojų, kurie verčiasi individualia veikla (nuolatinių Lietuvos gyventojų, kurie verčiasi individualia veikla, ir nenuolatinių Lietuvos gyventojų, veikiančių per nuolatinę bazę Lietuvos Respublikoje), užsienio ūkio subjektų, veikiančių per nuolatinę buveinę Lietuvos Respublikoje, užsienio ūkio subjektų, kurių atstovybės yra Lietuvos Respublikoje, atitinkamai veiklai, nuolatinei buveinei ar atstovybei priskirtino turto, nuosavo kapitalo, įsipareigojimų, ūkinių operacijų ir ūkinių įvykių buhalterinę apskaitą, jos organizavimą ir tvarkymą. Ribotos ir neribotos civilinės atsakomybės juridiniai asmenys, ūkininkų ūkiai, gyventojai, kurie verčiasi individualia veikla, užsienio ūkio subjektai, veikiantys per nuolatinę buveinę Lietuvos Respublikoje, užsienio ūkio subjektai, kurių atstovybės yra Lietuvos Respublikoje, toliau šiame Įstatyme vadinami ūkio subjektais.“
 
 
-2. Pakeisti [[#^s-66dd9e5515ccb5fa6a9a64a5|1 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-66dd9e5515ccb5fa6a9a64a5
+2. Pakeisti 1 straipsnio 2 dalį ir ją išdėstyti taip: ^s-66dd9e5515ccb5fa6a9a64a5
 
 
 „2. Ūkininkų ūkių, gyventojų, kurie verčiasi individualia veikla, užsienio ūkio subjektų, veikiančių per nuolatinę buveinę Lietuvos Respublikoje, užsienio ūkio subjektų, kurių atstovybės yra Lietuvos Respublikoje, pelno nesiekiančių ribotos civilinės atsakomybės juridinių asmenų buhalterinės apskaitos tvarką nustato Vyriausybė arba jos įgaliota institucija tiek, kiek šis Įstatymas nenustato kitaip.“

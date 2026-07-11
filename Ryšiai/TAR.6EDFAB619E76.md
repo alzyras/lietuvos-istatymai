@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos alkoholio kontrolės įstatymo 2, 7, 11, 12, 
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - 2 citatos - Civilinis kodeksas
+- [[latest/TAR.8A39C83848CB|Lietuvos Respublikos civilinio kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymas. Civilinis kodeksas]] - Civilinis kodeksas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.9E5C5C16B6E6#^s-0ccbd22213fc90c7177d284d|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - Įstatymas Nr. X-1198
-- [[latest/TAR.9E5C5C16B6E6#^s-13f371e051ff8112a2b3c8e0|Lietuvos Respublikos alkoholio kontrolės įstatymas]] - Įstatymas Nr. X-1198
+_Nėra._

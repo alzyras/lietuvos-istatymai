@@ -9,103 +9,130 @@ pavadinimas: "Lietuvos Respublikos medžioklės įstatymas"
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - 2 citatos - Administracinių bylų teisenos įstatymo
-- [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - 6 citatos - Aplinkos apsaugos rėmimo programos įstatymo
-- [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatymas]] - 2 citatos - Lietuvos Respublikos asociacijų įstatymo
-- [[latest/TAR.08F2F39FF20B|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - 2 citatos - Laukinės gyvūnijos įstatyme
-- [[latest/TAR.EB98A2883BE4|Lietuvos Respublikos medžioklės įstatymo 4 straipsnio pakeitimo įstatymas]] - 8 citatos - 1091010ISTA00XI-327
-- [[latest/TAR.8A5D98700730|Lietuvos Respublikos medžioklės įstatymo 5, 8, 14, 15, 16 straipsnių pakeitimo ir papildymo įstatymas]] - 18 citatos - 1101010ISTA00XI-824
-- [[latest/TAR.56CCE3515DDB|Lietuvos Respublikos medžioklės įstatymo 6, 12 ir 18 straipsnių pakeitimo įstatymas]] - 12 citatos - 1031010ISTA0IX-1612
-- [[latest/TAR.9EE1390AD99F|Lietuvos Respublikos medžioklės įstatymo 7, 8, 9, 11, 12, 13, 14, 18, 22 straipsnių pakeitimo ir papildymo įstatymas]] - 30 citatos - 1131010ISTA0XII-372
-- [[latest/66addde2a26211efa605b9842742bf37|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 10 ir 11 straipsnių pakeitimo įstatymas]] - 4 citatos - įstatymo Nr. XIV-3053
-- [[latest/8f61a4f01d4911e9875cdc20105dd260|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14 ir 16 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1915
-- [[latest/230947d08b8911e6b969d7ae07280e89|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14, 16 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XII-2640
-- [[latest/23c38750225611eabe008ea93139d588|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 10 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-2637
-- [[latest/763a1ab0c1cc11ea9815f635b9c0dcef|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 16 straipsnių pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3200
-- [[latest/49f8a680bc0911e88f64a5ecc703f89b|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-1471
-- [[latest/ca2608900a2511ebb74de75171d26d52|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4 ir 5 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-3299
-- [[latest/e01ab2d0d41411e7910a89ac20768b0f|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIII-779
-- [[latest/c46137b0e2ce11eead77e967e3995264|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 5 straipsnio pakeitimo ir Įstatymo papildymo 15-1, 15-2 straipsniais ir priedu įstatymas]] - 2 citatos - Įstatymas Nr. XIV-2483
-- [[latest/cf345270a58911ef90b5ee8931e5ce5e|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 8 ir 10 straipsnių pakeitimo įstatymas]] - 2 citatos - Įstatymas Nr. XIV-3052
-- [[latest/TAR.793560F67ADF|Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas]] - 4 citatos - Mokesčių už valstybinius gamtos išteklius įstatymo
-- [[latest/TAR.9F274C93E483|Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas]] - 6 citatos - Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Administracinių bylų teisenos įstatymo
+- [[latest/TAR.0F470A65DFCA|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - 3 citatos - Aplinkos apsaugos rėmimo programos įstatymo
+- [[latest/TAR.FF00B0EA2F0E|Lietuvos Respublikos asociacijų įstatymas]] - Lietuvos Respublikos asociacijų įstatymo
+- [[latest/TAR.08F2F39FF20B|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Laukinės gyvūnijos įstatyme
+- [[latest/TAR.EB98A2883BE4|Lietuvos Respublikos medžioklės įstatymo 4 straipsnio pakeitimo įstatymas]] - 3 citatos - 1091010ISTA00XI-327
+- [[latest/TAR.8A5D98700730|Lietuvos Respublikos medžioklės įstatymo 5, 8, 14, 15, 16 straipsnių pakeitimo ir papildymo įstatymas]] - 11 citatos - 1101010ISTA00XI-824
+- [[latest/TAR.56CCE3515DDB|Lietuvos Respublikos medžioklės įstatymo 6, 12 ir 18 straipsnių pakeitimo įstatymas]] - 5 citatos - 1031010ISTA0IX-1612
+- [[latest/TAR.9EE1390AD99F|Lietuvos Respublikos medžioklės įstatymo 7, 8, 9, 11, 12, 13, 14, 18, 22 straipsnių pakeitimo ir papildymo įstatymas]] - 17 citatos - 1131010ISTA0XII-372
+- [[latest/66addde2a26211efa605b9842742bf37|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 10 ir 11 straipsnių pakeitimo įstatymas]] - 2 citatos - įstatymo Nr. XIV-3053
+- [[latest/TAR.793560F67ADF|Lietuvos Respublikos mokesčio už valstybinius gamtos išteklius įstatymas]] - 2 citatos - Mokesčių už valstybinius gamtos išteklius įstatymo
+- [[latest/TAR.9F274C93E483|Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas]] - 4 citatos - Savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo
 
 ## Šį įstatymą cituoja
 
 - [[latest/43963850e2cf11eead77e967e3995264#^s-fbd340d0ec723fdfd13674cb|Lietuvos Respublikos administracinių nusižengimų kodekso 290 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatyme
 - [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-4424eed66e0ffc265cb0250a|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos medžioklės įstatyme
-- [[latest/4ebe66c0262311e5bf92d6af3f6a2e8b#^s-a50a0450d6ae93d572729ce9|Lietuvos Respublikos administracinių nusižengimų kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo tvarkos įstatymas. Lietuvos Respublikos administracinių nusižengimų kodeksas]] - Lietuvos Respublikos medžioklės įstatyme
-- [[latest/TAR.0F470A65DFCA#^s-11b7fd7f86b62e01a9e8f9d0|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 22 straipsnyje
 - [[latest/TAR.0F470A65DFCA#^s-24e3dd1dea5d725eb929f798|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 22 straipsnyje
 - [[latest/TAR.F86440E3BEFB#^s-b11fa27e905e1da1433d6a7f|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo 4 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 22 straipsnyje
 - [[latest/0897c8a0bc0a11e88f64a5ecc703f89b#^s-539355f05ed8d483b86c696d|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 3 ir 4 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 22 straipsnyje
 - [[latest/cc3ac760fcf811e39cfacd978b6fd9bb#^s-0c933ea708413fbee9d140d6|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 4 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 22 straipsnyje
-- [[latest/cc3ac760fcf811e39cfacd978b6fd9bb#^s-f61575f9df11abc3a833e794|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 4 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 22 straipsnyje
 - [[latest/585a89400f6611e9a5eaf2cd290f1944#^s-efb7a995e2c623fb5759da87|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 4 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 22 straipsnyje
 - [[latest/11ec8080881b11ed8df094f359a60216#^s-6d4217632689f9f49aa2b805|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 22 straipsnyje
-- [[latest/11ec8080881b11ed8df094f359a60216#^s-9a47fe3336e1cc3b1f1b7217|Lietuvos Respublikos aplinkos apsaugos rėmimo programos įstatymo Nr. VIII-2025 pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 22 straipsnyje
-- [[latest/20eaebd0c1cb11ea9815f635b9c0dcef#^s-6dda7499da26d7d4f6be9154|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 1, 2, 3, 4, 6, 8, 9, 11, 12, 14, 39-8, 46, 48, 49, 50, 53 ir 54 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatyme
 - [[latest/20eaebd0c1cb11ea9815f635b9c0dcef#^s-dcff484fd8139b0c3cfa3f6f|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 1, 2, 3, 4, 6, 8, 9, 11, 12, 14, 39-8, 46, 48, 49, 50, 53 ir 54 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatyme
 - [[latest/a1d20510a8b411ef90b5ee8931e5ce5e#^s-e2083ce7194447a5a9507a8a|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 2, 41 ir 43 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatyme
-- [[latest/04d01952b3fd11f092fda1fd0c194cc5#^s-0ae7ee423939ee9f023da4f1|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatyme
 - [[latest/04d01952b3fd11f092fda1fd0c194cc5#^s-ac915c159f5fcb95560c6f5d|Lietuvos Respublikos aplinkos apsaugos valstybinės kontrolės įstatymo Nr. IX-1005 pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatyme
 - [[latest/TAR.08F2F39FF20B#^s-023b5359bfaac9de5db78e76|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Medžioklės įstatymu
 - [[latest/TAR.08F2F39FF20B#^s-1a2c96b1a26e00142d81afa3|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Medžioklės įstatyme
-- [[latest/TAR.08F2F39FF20B#^s-2c286d333c16298164f3e4d1|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Medžioklės įstatymu
-- [[latest/TAR.08F2F39FF20B#^s-3dc8ff0a87ee80ee5c1e1b06|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Medžioklės įstatyme
+- [[latest/TAR.08F2F39FF20B#^s-3dc8ff0a87ee80ee5c1e1b06|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - 2 citatos - Medžioklės įstatyme
 - [[latest/TAR.08F2F39FF20B#^s-4227761d0de19d077dc2c236|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Medžioklės įstatyme
 - [[latest/TAR.08F2F39FF20B#^s-51e2be440f06e3d84ae6dcf2|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Medžioklės įstatyme
-- [[latest/TAR.08F2F39FF20B#^s-531b3f4d58c5c8489be2160a|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Lietuvos Respublikos medžioklės įstatymas
-- [[latest/TAR.08F2F39FF20B#^s-6085751d78cc5d5a19203994|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - 2 citatos - Medžioklės įstatyme
 - [[latest/TAR.08F2F39FF20B#^s-6d5a2e9972b5e865de33f6e2|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Medžioklės įstatymo
 - [[latest/TAR.08F2F39FF20B#^s-6f8f84429686309bb7b20506|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Medžioklės įstatymo
 - [[latest/TAR.08F2F39FF20B#^s-955c072aa72eed42527b4374|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Medžioklės įstatyme
 - [[latest/TAR.08F2F39FF20B#^s-ae147a53b9b09e998387e590|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Lietuvos Respublikos medžioklės įstatymas
 - [[latest/TAR.08F2F39FF20B#^s-af8442fa157c3d3d43e215ab|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Medžioklės įstatymas
-- [[latest/TAR.08F2F39FF20B#^s-bc0523c24c88df5e917d7361|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Medžioklės įstatyme
-- [[latest/TAR.08F2F39FF20B#^s-e05694d5e81dcab31dd1f74c|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Medžioklės įstatymas
-- [[latest/TAR.08F2F39FF20B#^s-ef21bb12e406aed37c344fcc|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Medžioklės įstatyme
-- [[latest/TAR.08F2F39FF20B#^s-f0b2711fa5c7215b81d5af36|Lietuvos Respublikos laukinės gyvūnijos įstatymas]] - Medžioklės įstatymo
 - [[latest/TAR.3BAA3000A177#^s-2061de50e34345392a48c939|Lietuvos Respublikos laukinės gyvūnijos įstatymo 2, 9, 10, 11, 14 ir 20 straipsnių pakeitimo ir papildymo įstatymas]] - Medžioklės įstatymo
 - [[latest/TAR.69BBEC7498C4#^s-08dfc4eb310926ec4f4e32cd|Lietuvos Respublikos laukinės gyvūnijos įstatymo 4, 10 ir 13 straipsnių pakeitimo įstatymas]] - Medžioklės įstatyme
 - [[latest/TAR.69BBEC7498C4#^s-46a47bdb4e2a6380b23b3683|Lietuvos Respublikos laukinės gyvūnijos įstatymo 4, 10 ir 13 straipsnių pakeitimo įstatymas]] - „Medžioklės įstatymas“
-- [[latest/TAR.69BBEC7498C4#^s-751d1694c525054e558427c7|Lietuvos Respublikos laukinės gyvūnijos įstatymo 4, 10 ir 13 straipsnių pakeitimo įstatymas]] - 2 citatos - Medžioklės įstatyme
-- [[latest/47bc6c40570111f0a3d380837a821750#^s-7b4b6483b615b02b351af633|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 35 straipsnio pakeitimo įstatymas]] - Medžioklės įstatymo
 - [[latest/47bc6c40570111f0a3d380837a821750#^s-de94e2e35d3d32a1e45bbc15|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 35 straipsnio pakeitimo įstatymas]] - Medžioklės įstatymo
-- [[latest/a2fa6d30e78d11ee9f5b8ffa077f9188#^s-3eda77b42a2fc14c62f840ba|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 9 ir 14 straipsnių pakeitimo įstatymas]] - Medžioklės įstatyme
+- [[latest/a2fa6d30e78d11ee9f5b8ffa077f9188#^s-3eda77b42a2fc14c62f840ba|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 9 ir 14 straipsnių pakeitimo įstatymas]] - 2 citatos - Medžioklės įstatyme
 - [[latest/a2fa6d30e78d11ee9f5b8ffa077f9188#^s-41701a5430a751de3a4ab6b2|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 9 ir 14 straipsnių pakeitimo įstatymas]] - Medžioklės įstatyme
-- [[latest/a2fa6d30e78d11ee9f5b8ffa077f9188#^s-77842b3dbd802e504d0c16b6|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 9 ir 14 straipsnių pakeitimo įstatymas]] - Medžioklės įstatyme
 - [[latest/a2fa6d30e78d11ee9f5b8ffa077f9188#^s-c49875530694a3b120ccf6da|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 9 ir 14 straipsnių pakeitimo įstatymas]] - Medžioklės įstatyme
 - [[latest/b49583d00a2411ebb74de75171d26d52#^s-0de96dfddd1994d721f328aa|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Medžioklės įstatymo
-- [[latest/b49583d00a2411ebb74de75171d26d52#^s-2afa658567df29317d40f9fa|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Medžioklės įstatymo
-- [[latest/b49583d00a2411ebb74de75171d26d52#^s-3304707427306cd2f70bdfb4|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Medžioklės įstatymo
 - [[latest/b49583d00a2411ebb74de75171d26d52#^s-444e9ada7aacee3e890f9621|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Medžioklės įstatymas
-- [[latest/b49583d00a2411ebb74de75171d26d52#^s-5d0476e3e7babe7041f916c4|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Medžioklės įstatymas
 - [[latest/b49583d00a2411ebb74de75171d26d52#^s-6cb3c472e739a75d71dc581d|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Medžioklės įstatyme
 - [[latest/b49583d00a2411ebb74de75171d26d52#^s-8421891d2fea1dba69065e69|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Medžioklės įstatymu
-- [[latest/b49583d00a2411ebb74de75171d26d52#^s-910da700bc4d573dda35039a|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Medžioklės įstatymu
-- [[latest/b49583d00a2411ebb74de75171d26d52#^s-9e9bc52c20b7ec83affbe571|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Medžioklės įstatyme
 - [[latest/b49583d00a2411ebb74de75171d26d52#^s-cb1b6aa632ccaf46e1e4d0d7|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatymas
-- [[latest/b49583d00a2411ebb74de75171d26d52#^s-da1f5f4f7c4b52368359c0cd|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatymas
 - [[latest/b49583d00a2411ebb74de75171d26d52#^s-e43ae72455a5a075ae7fe86a|Lietuvos Respublikos laukinės gyvūnijos įstatymo Nr. VIII-498 pakeitimo įstatymas]] - Medžioklės įstatymo
-- [[latest/TAR.6F08892C89ED#^s-0490b60f3322b57b0b0a2918|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Medžioklės įstatymas
-- [[latest/TAR.6F08892C89ED#^s-59d4f14e423dab71012df7fe|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Medžioklės įstatymo
 - [[latest/TAR.6F08892C89ED#^s-7d7e0e784501e05484dc1583|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Medžioklės įstatymo
 - [[latest/TAR.6F08892C89ED#^s-82d8360e9c3e48f1b118822e|Lietuvos Respublikos laukinės gyvūnijos įstatymo pakeitimo įstatymas]] - Medžioklės įstatymas
-- [[latest/TAR.9EE1390AD99F#^s-3baf9ce4933000df13a550f1|Lietuvos Respublikos medžioklės įstatymo 7, 8, 9, 11, 12, 13, 14, 18, 22 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 13 straipsnio
-- [[latest/TAR.9EE1390AD99F#^s-64e603867aef72f35f6cd60a|Lietuvos Respublikos medžioklės įstatymo 7, 8, 9, 11, 12, 13, 14, 18, 22 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 13 straipsnio
 - [[latest/TAR.9EE1390AD99F#^s-9fc4ec35b4d31f3cd9c64f49|Lietuvos Respublikos medžioklės įstatymo 7, 8, 9, 11, 12, 13, 14, 18, 22 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 13 straipsnio
-- [[latest/TAR.9EE1390AD99F#^s-e9e4e71caddc3f1aa7fdd463|Lietuvos Respublikos medžioklės įstatymo 7, 8, 9, 11, 12, 13, 14, 18, 22 straipsnių pakeitimo ir papildymo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 13 straipsnio
+- [[latest/66addde2a26211efa605b9842742bf37#^s-9d3015a8a3cd792d511b403d|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 10 ir 11 straipsnių pakeitimo įstatymas]] - 10 straipsnį 6 dalimi
+- [[latest/66addde2a26211efa605b9842742bf37#^s-ca06e979c337b1cef6f404bc|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 10 ir 11 straipsnių pakeitimo įstatymas]] - 11 straipsnio 1 dalies 2 punktą
+- [[latest/66addde2a26211efa605b9842742bf37#^s-fd998773a7d7721eb78112c9|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 10 ir 11 straipsnių pakeitimo įstatymas]] - 10 straipsnio 2 dalį 6 punktu
+- [[latest/8f61a4f01d4911e9875cdc20105dd260#^s-01037e06f60781cb0eac98e5|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14 ir 16 straipsnių pakeitimo įstatymas]] - 16 straipsnio 1 dalies 1 punktą
+- [[latest/8f61a4f01d4911e9875cdc20105dd260#^s-bee2c4300f54c0ee48882a45|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14 ir 16 straipsnių pakeitimo įstatymas]] - 14 straipsnio 2 dalies 1 punktą
+- [[latest/230947d08b8911e6b969d7ae07280e89#^s-1347831be13ce0e0e82c4b70|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14, 16 straipsnių pakeitimo įstatymas]] - 16 straipsnio 3 dalį
 - [[latest/230947d08b8911e6b969d7ae07280e89#^s-663d565ecac0f34eefad90aa|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14, 16 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 14 straipsnio 2 dalies 4 punkto
-- [[latest/230947d08b8911e6b969d7ae07280e89#^s-c8f59aa3e2c3939090f45db1|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14, 16 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo 14 straipsnio 2 dalies 4 punkto
+- [[latest/230947d08b8911e6b969d7ae07280e89#^s-c37e098d832123b6623f16bb|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14, 16 straipsnių pakeitimo įstatymas]] - 14 straipsnio 2 dalies 4 punktą
+- [[latest/230947d08b8911e6b969d7ae07280e89#^s-ff2f6f55196eed6536b05b19|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 14, 16 straipsnių pakeitimo įstatymas]] - 14 straipsnio 2 dalies 3 punktą
+- [[latest/23c38750225611eabe008ea93139d588#^s-a4ef42e12bb209229b202cab|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 10 straipsnių pakeitimo įstatymas]] - 2 straipsnio 22 dalį
+- [[latest/23c38750225611eabe008ea93139d588#^s-d8af1880daeeedbc73690ea1|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 10 straipsnių pakeitimo įstatymas]] - 10 straipsnio 2 dalies 1 punktą
+- [[latest/e2e0df90570011f0a3d380837a821750#^s-029f4a43aaa9c1e304580b2c|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 18 straipsnių pakeitimo įstatymas]] - 13 straipsnio 2 dalyje
 - [[latest/e2e0df90570011f0a3d380837a821750#^s-3009dbec278eb4f1f2ecf462|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 18 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo
-- [[latest/e2e0df90570011f0a3d380837a821750#^s-38195278a64bf605c51c9b2c|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 18 straipsnių pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatymo
-- [[latest/c46137b0e2ce11eead77e967e3995264#^s-1d97b96bbc985f32e33aac29|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 5 straipsnio pakeitimo ir Įstatymo papildymo 15-1, 15-2 straipsniais ir priedu įstatymas]] - Lietuvos Respublikos medžioklės įstatymo
-- [[latest/TAR.7B715225C9AC#^s-a808b77781caabc688b648dc|Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo pakeitimo įstatymas]] - Medžioklės įstatymo
+- [[latest/e2e0df90570011f0a3d380837a821750#^s-4b9eb860bdb85b711c241ea5|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 18 straipsnių pakeitimo įstatymas]] - 2 straipsnio 23 dalį
+- [[latest/e2e0df90570011f0a3d380837a821750#^s-79457b35adba652de61fda5f|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 18 straipsnių pakeitimo įstatymas]] - 2 straipsnį 26 dalimi
+- [[latest/e2e0df90570011f0a3d380837a821750#^s-8a842a2734ee99ba794d4072|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 18 straipsnių pakeitimo įstatymas]] - 2 straipsnį 24 dalimi
+- [[latest/e2e0df90570011f0a3d380837a821750#^s-8ea275a14b5cf9f98737dd29|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 18 straipsnių pakeitimo įstatymas]] - 2 straipsnį 25 dalimi
+- [[latest/e2e0df90570011f0a3d380837a821750#^s-931e660ea8e788b78a37c671|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 18 straipsnių pakeitimo įstatymas]] - 253 straipsnyje
+- [[latest/e2e0df90570011f0a3d380837a821750#^s-b23fd58441b7289e91ae2e40|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2 ir 18 straipsnių pakeitimo įstatymas]] - 2 citatos - 18 straipsnis
+- [[latest/763a1ab0c1cc11ea9815f635b9c0dcef#^s-4493b83f25006e372d19471e|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 16 straipsnių pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas]] - 2 straipsnį 201 dalimi
+- [[latest/763a1ab0c1cc11ea9815f635b9c0dcef#^s-cb4f340ea35f1e196ac174f3|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 16 straipsnių pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas]] - 2 citatos - 41 straipsnis
+- [[latest/763a1ab0c1cc11ea9815f635b9c0dcef#^s-cfdd6e9bad36367ee693217f|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 16 straipsnių pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas]] - 16 straipsnio 3 dalį
+- [[latest/763a1ab0c1cc11ea9815f635b9c0dcef#^s-e996f47f3ebf8bfa58328d74|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 16 straipsnių pakeitimo ir Įstatymo papildymo 4-1 straipsniu įstatymas]] - 2 straipsnį 171 dalimi
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-0228a9eae698fd2ed004340e|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 16 straipsnio 4 dalį
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-2b4331106bfe7c964ace4cfe|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 11 straipsnio 2 dalį 5 punktu
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-327e38bea182de7a880f7b06|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 14 straipsnio 3 dalį
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-39eccbc1ac2e83ea2dafa40a|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 2 citatos - 15 straipsnis
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-3aba7e172d4086191fd6b7fd|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 5 straipsnio 6 dalį
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-62a757266b07d773a1f06e7e|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 14 straipsnio 4 dalį
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-694e9285768a56c4cd299571|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 2 citatos - 10 straipsnio 2 dalį 4 punktu
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-7904c7e52dee02bdd529ef29|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 8 straipsnio 3 dalį
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-7facd1b8702a2e4aedf43836|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 14 straipsnio 6 dalies 2 punktą
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-80ac48f5946b9a256a910828|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 2 citatos - šio straipsnio 1 dalyje
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-8cb4494c92e5bbb6e91105e7|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 2 straipsnio 19 dalį
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-8d00c0fab267a9d9fdb564b9|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 2 citatos - šio straipsnio 3 dalyje
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-ad69d2f137147fbd5d10641f|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 8 straipsnio 2 dalį 5 punktu
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-b0b7f874844694aedca6daa4|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 6 straipsnio 3 dalį
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-b7875ce574566a5b501b3ea1|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 16 straipsnyje
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-bedbc55012058bb060c1a420|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 5 straipsnio 2 dalies 11 punktą
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-c1df8125158b3aba2a386e75|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 13 straipsnio 3 dalį
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-ef6b8d7e00ad5285ea314266|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 14 straipsnio 7 dalį
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-fbc67ee04eaf9ee93f0fc710|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 5 straipsnio 2 dalies 8 punktą
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-fc013b9e91be299e5951316f|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 3 citatos - 13 straipsnio 3 dalyje
+- [[latest/49f8a680bc0911e88f64a5ecc703f89b#^s-ff2949f92ba9cbdf38d59407|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 2, 5, 6, 8, 9, 10, 11, 13, 14, 15 ir 16 straipsnių pakeitimo įstatymas]] - 13 straipsnio 1 dalį
+- [[latest/ca2608900a2511ebb74de75171d26d52#^s-4cd535a084311b758ec8d8bb|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4 ir 5 straipsnių pakeitimo įstatymas]] - 4 straipsnio 2 dalį
+- [[latest/ca2608900a2511ebb74de75171d26d52#^s-f8a292e33838c65a55bde377|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4 ir 5 straipsnių pakeitimo įstatymas]] - 5 straipsnio 2 dalies 4 punktą
+- [[latest/e01ab2d0d41411e7910a89ac20768b0f#^s-0a0d843634ccf51d09a487c2|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 22 straipsnyje
+- [[latest/e01ab2d0d41411e7910a89ac20768b0f#^s-39ddc0779fa87cf4b558ac90|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 3 citatos - 18 straipsnio 6 dalyje
+- [[latest/e01ab2d0d41411e7910a89ac20768b0f#^s-59bfc7b3d38495950456caad|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 14 straipsnio 4 dalį
+- [[latest/e01ab2d0d41411e7910a89ac20768b0f#^s-71f9e55be6439cbcf90ba638|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 6 citatos - šio straipsnio 2 dalyje
+- [[latest/e01ab2d0d41411e7910a89ac20768b0f#^s-75f423d4ae2b1ffb712887ed|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 15 straipsnio 3 dalį
+- [[latest/e01ab2d0d41411e7910a89ac20768b0f#^s-7ed4efc803678c6587d54e32|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 2 citatos - 13 straipsnio 2 dalį
+- [[latest/e01ab2d0d41411e7910a89ac20768b0f#^s-8790a581c07b3800db11e3c1|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 14 straipsnio 3 dalį
+- [[latest/e01ab2d0d41411e7910a89ac20768b0f#^s-8c8c9143025432e7dc53a5c1|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 12 straipsnio 2 dalies 8 punktą
+- [[latest/e01ab2d0d41411e7910a89ac20768b0f#^s-abe40ff7d8857a64b181ea26|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 2 citatos - 16 straipsnis
+- [[latest/e01ab2d0d41411e7910a89ac20768b0f#^s-d029d3426802bb2ad6d7a6c4|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 3 citatos - 8 straipsnio 12 dalį
+- [[latest/e01ab2d0d41411e7910a89ac20768b0f#^s-e4a506094c16787a354295aa|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 4 straipsnio 1 dalį
+- [[latest/e01ab2d0d41411e7910a89ac20768b0f#^s-f58eb62d5c3bd0024c048e81|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 5 straipsnio 2 dalies 11 punktą
+- [[latest/e01ab2d0d41411e7910a89ac20768b0f#^s-f97ad151b90593a185eba91f|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 5 straipsnio 6 dalies 8 punktą
+- [[latest/e01ab2d0d41411e7910a89ac20768b0f#^s-ff41825b5e95b56311fabcb7|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 4, 5, 7, 8, 10, 12, 13, 14, 15, 16 ir 19 straipsnių pakeitimo įstatymas]] - 16 straipsnyje
+- [[latest/c46137b0e2ce11eead77e967e3995264#^s-00462af2f55f026b875f56e0|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 5 straipsnio pakeitimo ir Įstatymo papildymo 15-1, 15-2 straipsniais ir priedu įstatymas]] - 2 citatos - 152 straipsnis
+- [[latest/c46137b0e2ce11eead77e967e3995264#^s-027ef63cad9bd913943ef1e8|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 5 straipsnio pakeitimo ir Įstatymo papildymo 15-1, 15-2 straipsniais ir priedu įstatymas]] - 2 citatos - 151 straipsnis
+- [[latest/c46137b0e2ce11eead77e967e3995264#^s-153e80b1c375bdeae12e0131|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 5 straipsnio pakeitimo ir Įstatymo papildymo 15-1, 15-2 straipsniais ir priedu įstatymas]] - 152 straipsnio 12 punkte
+- [[latest/c46137b0e2ce11eead77e967e3995264#^s-1d97b96bbc985f32e33aac29|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 5 straipsnio pakeitimo ir Įstatymo papildymo 15-1, 15-2 straipsniais ir priedu įstatymas]] - medžioklės įstatymo
+- [[latest/c46137b0e2ce11eead77e967e3995264#^s-213b8f893f1f67f3233bce0a|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 5 straipsnio pakeitimo ir Įstatymo papildymo 15-1, 15-2 straipsniais ir priedu įstatymas]] - 5 straipsnio 2 dalies 1 punktą
+- [[latest/c46137b0e2ce11eead77e967e3995264#^s-d5e6c63103ddf918c9129063|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 5 straipsnio pakeitimo ir Įstatymo papildymo 15-1, 15-2 straipsniais ir priedu įstatymas]] - 151 straipsnio 9 punkte
+- [[latest/cf345270a58911ef90b5ee8931e5ce5e#^s-9ddef5cf68f4c5158e4adaf8|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 8 ir 10 straipsnių pakeitimo įstatymas]] - 8 straipsnio 2 dalį 6 punktu
+- [[latest/cf345270a58911ef90b5ee8931e5ce5e#^s-e394be92e93db4fd967b9d6e|Lietuvos Respublikos medžioklės įstatymo Nr. IX-966 8 ir 10 straipsnių pakeitimo įstatymas]] - 10 straipsnio 2 dalį 5 punktu
 - [[latest/TAR.7B715225C9AC#^s-aa4c7449cfb87feb91d17039|Lietuvos Respublikos mokesčių už valstybinius gamtos išteklius įstatymo pakeitimo įstatymas]] - Medžioklės įstatymo
-- [[latest/TAR.1746D2A4EFB9#^s-075c6a0df212e54cf1931d13|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - 2 citatos - Lietuvos Respublikos medžioklės įstatyme
-- [[latest/TAR.1746D2A4EFB9#^s-1ef2b0d45d33a62b8d1b6ff7|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Medžioklės įstatyme
+- [[latest/TAR.1746D2A4EFB9#^s-1ef2b0d45d33a62b8d1b6ff7|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - 2 citatos - Medžioklės įstatyme
 - [[latest/TAR.1746D2A4EFB9#^s-3c8abb8597abb0748bcc10ad|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymas]] - Lietuvos Respublikos medžioklės įstatyme
-- [[latest/fce512a0e78d11ee9f5b8ffa077f9188#^s-067d0220bd154175c96af93c|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 15 straipsnio pakeitimo įstatymas]] - 2 citatos - Lietuvos Respublikos medžioklės įstatyme
-- [[latest/fce512a0e78d11ee9f5b8ffa077f9188#^s-dbec6de3b45ed138f4022a37|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 15 straipsnio pakeitimo įstatymas]] - Medžioklės įstatyme
+- [[latest/fce512a0e78d11ee9f5b8ffa077f9188#^s-dbec6de3b45ed138f4022a37|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 15 straipsnio pakeitimo įstatymas]] - 2 citatos - Medžioklės įstatyme
 - [[latest/fce512a0e78d11ee9f5b8ffa077f9188#^s-ed559e370a152985b63dbb92|Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių įstatymo Nr. VIII-499 15 straipsnio pakeitimo įstatymas]] - Lietuvos Respublikos medžioklės įstatyme
+- [[latest/TAR.9F274C93E483#^s-81409ff4bcf475ddc9d09fde|Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymas]] - Medžioklės įstatymo reikalavimus rengiamiems medžioklės plotų vienetų sudarymo ar jų ribų pakeitimo projektams parengti – įplaukos pagal 3 straipsnio 2 punktą
+- [[latest/TAR.9DD89A9E9389#^s-4e53e6158aea25d563896e4a|Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo 4 straipsnio pakeitimo įstatymas]] - Medžioklės įstatymo reikalavimus rengiamiems medžioklės plotų vienetų sudarymo ar jų ribų pakeitimo projektams parengti – įplaukos pagal 3 straipsnio 2 punktą
+- [[latest/ac449f500f6611e9a5eaf2cd290f1944#^s-0af3b85a9a985b169867eca3|Lietuvos Respublikos savivaldybių aplinkos apsaugos rėmimo specialiosios programos įstatymo Nr. IX-1607 4 straipsnio pakeitimo įstatymas]] - Medžioklės įstatymo reikalavimus rengiamiems medžioklės plotų vienetų sudarymo ar jų ribų pakeitimo projektams parengti, – įplaukos pagal 3 straipsnio 2 punktą

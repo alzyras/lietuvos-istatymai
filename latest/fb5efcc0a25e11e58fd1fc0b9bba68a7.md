@@ -38,10 +38,10 @@ Vilnius
 ### 1 straipsnis. 10 straipsnio pakeitimas ^s-3b42770cfa78ca924b18fd11
 
 
-Pakeisti 10 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.9C9FA25983BC#^s-e1b961f992fe5b609398454e|10 straipsnį]] ir jį išdėstyti taip:
 
 
-„10 straipsnis. Specialiųjų tyrimų tarnybos personalas
+„[[latest/TAR.9C9FA25983BC#^s-e1b961f992fe5b609398454e|10 straipsnis]]. Specialiųjų tyrimų tarnybos personalas
 
 
 1. Tarnybos personalą sudaro pareigūnai ir darbuotojai. ^s-fcb473d4d084a2898b90f9e5
@@ -59,10 +59,10 @@ Pakeisti 10 straipsnį ir jį išdėstyti taip:
 ### 2 straipsnis. 111 straipsnio pakeitimas ^s-6ca861a42bf1f9ae4c902606
 
 
-Pakeisti 111 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.9C9FA25983BC|111 straipsnį]] ir jį išdėstyti taip:
 
 
-„111 straipsnis. Specialiųjų tyrimų tarnybos struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovų ir pavaduotojų priėmimas ir jų tarnybinis kaitumas
+„[[latest/TAR.9C9FA25983BC|111 straipsnis]]. Specialiųjų tyrimų tarnybos struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovų ir pavaduotojų priėmimas ir jų tarnybinis kaitumas
 
 
 Į Specialiųjų tyrimų tarnybos struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovų ir pavaduotojų pareigas asmenys Specialiųjų tyrimų tarnybos direktoriaus nustatyta tvarka skiriami penkerių metų laikotarpiui. Jeigu šio asmens veikla įvertinama labai gerai, jis gali būti pakartotinai skiriamas į tas pačias pareigas penkerių metų laikotarpiui. Struktūrinių padalinių, nesančių kitame struktūriniame padalinyje, vadovai ir pavaduotojai tų pačių pareigų negali eiti ilgiau kaip dešimt metų iš eilės.“
@@ -71,10 +71,10 @@ Pakeisti 111 straipsnį ir jį išdėstyti taip:
 ### 3 straipsnis. 12 straipsnio pakeitimas ^s-2b4b7e4b5b2e83740b9002e4
 
 
-1. Pripažinti netekusiu galios 12 straipsnio 1 dalies 8 punktą. ^s-1b5c2c4844bf22ddddb975a3
+1. Pripažinti netekusiu galios [[latest/TAR.9C9FA25983BC|12 straipsnio 1 dalies 8 punktą]]. ^s-1b5c2c4844bf22ddddb975a3
 
 
-2. Pakeisti 12 straipsnio 2 dalį ir ją išdėstyti taip: ^s-c48fe669dbfbc2565c19b910
+2. Pakeisti [[latest/TAR.9C9FA25983BC#^s-551564d34dde26d33b5ed246|12 straipsnio 2 dalį]] ir ją išdėstyti taip: ^s-c48fe669dbfbc2565c19b910
 
 
 „2. Specialiųjų tyrimų tarnybos direktorius ir jo pavaduotojai, ištarnavę įstatymų nustatytą laikotarpį valstybinei pareigūnų ir karių pensijai gauti, taip pat gali būti atleidžiami iš tarnybos jų pačių prašymu dėl išėjimo į pensiją.“
@@ -83,10 +83,10 @@ Pakeisti 111 straipsnį ir jį išdėstyti taip:
 ### 4 straipsnis. 14 straipsnio pakeitimas ^s-017be4abb073e0e3cc7260f4
 
 
-Pakeisti 14 straipsnį ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.9C9FA25983BC#^s-ac5745cb033508572aecf45f|14 straipsnį]] ir jį išdėstyti taip:
 
 
-„14 straipsnis. Specialiųjų tyrimų tarnybos pareigūnų pareigos
+„[[latest/TAR.9C9FA25983BC#^s-ac5745cb033508572aecf45f|14 straipsnis]]. Specialiųjų tyrimų tarnybos pareigūnų pareigos
 
 
 Specialiųjų tyrimų tarnybos pareigūnas privalo:
@@ -125,7 +125,7 @@ Specialiųjų tyrimų tarnybos pareigūnas privalo:
 ### 5 straipsnis. 15 straipsnio pakeitimas ^s-ed56d717105a9ca1e1cdca50
 
 
-Pakeisti 15 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
+Pakeisti [[latest/TAR.9C9FA25983BC|15 straipsnio 1 dalies 5 punktą]] ir jį išdėstyti taip:
 
 
 „5) dirbti samdomais darbuotojais, patarėjais, ekspertais ar konsultantais įmonėse, įstaigose, organizacijose bei kitose institucijose, taip pat gauti kitą, nei nustatyta šiame įstatyme, atlyginimą, išskyrus atvejus, kai tai būtina Tarnybos vykdomai žvalgybinei veiklai ir ne ilgiau, negu tai yra būtina nustatytam užduoties tikslui pasiekti, taip pat išskyrus atlyginimą už pedagoginę bei kūrybinę veiklą ir savanorių karo tarnybos atlikimą;“.
@@ -134,7 +134,7 @@ Pakeisti 15 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 ### 6 straipsnis. 17 straipsnio pakeitimas ^s-9a80c64b40d2c0ce16a7abd1
 
 
-Pripažinti netekusia galios 17 straipsnio 5 dalį.
+Pripažinti netekusia galios [[latest/TAR.9C9FA25983BC|17 straipsnio 5 dalį]].
 
 
 

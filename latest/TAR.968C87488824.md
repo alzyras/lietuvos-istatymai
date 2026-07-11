@@ -191,7 +191,7 @@ Konsulinis mokestis neimamas už:
 12) prašymų išduoti vizas asmenims, išsaugojusiems teisę į Lietuvos Respublikos pilietybę, pateikusiems tai patvirtinančius dokumentus, nagrinėjimą; ^s-57e8b74698cc40ce1f0f71c7
 
 
-13) prašymų išduoti vizas nagrinėjimą konsulinės įstaigos vadovo, kai jis veikia kaip konsulinis pareigūnas, sprendimu išimtiniais, kitais, negu numatyta šio straipsnio 8–[[#^s-57e8b74698cc40ce1f0f71c7|12 punktuose]], atvejais, kai užsieniečiai atvyksta į Lietuvos Respubliką kultūros, užsienio politikos, vystomojo bendradarbiavimo skatinimo ar kitais visuomenei svarbiais tikslais arba dėl humanitarinių priežasčių; ^s-44c5d5494f4ea3f2eae8ec3c
+13) prašymų išduoti vizas nagrinėjimą konsulinės įstaigos vadovo, kai jis veikia kaip konsulinis pareigūnas, sprendimu išimtiniais, kitais, negu numatyta šio straipsnio [[#^s-f4abaa41db37198ffee101ff|8]]–[[#^s-57e8b74698cc40ce1f0f71c7|12]] punktuose, atvejais, kai užsieniečiai atvyksta į Lietuvos Respubliką kultūros, užsienio politikos, vystomojo bendradarbiavimo skatinimo ar kitais visuomenei svarbiais tikslais arba dėl humanitarinių priežasčių; ^s-44c5d5494f4ea3f2eae8ec3c
 
 
 14) prašymų išduoti (D) vizas užsieniečiams, dėl kurių priimtas sprendimas išduoti leidimą gyventi Lietuvos Respublikoje, nagrinėjimą konsulinėse įstaigose; ^s-c749339fcbdd1f2233e7837b

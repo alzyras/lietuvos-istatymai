@@ -227,7 +227,7 @@ Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
 35) Lietuvos Respublikos Vyriausybės siūlymu į pareigas priimti Europos Komisijos nariai, Audito Rūmų nariai, Europos Sąjungos Teisingumo Teismo ir Bendrojo Teismo nariai, Regionų komiteto nariai, Europos ekonomikos ir socialinių reikalų komiteto nariai, teisminių ir kitokių tarptautinių institucijų pareigūnai ir jų šeimos nariai; ^s-bfe73ab7f9e472d3b51e43e1
 
 
-36) kandidatai į pareigas, nurodytas [[#^s-a4f0fc57fc88f487c5260b10|šio straipsnio 1 dalies 5 punkte]] (išskyrus kandidatus į valstybės tarnautojo pareigas ir jų šeimos narius), 6–23, 29–35 ir [[#^s-9b40e382797b9d3e2b5e0728|38 punktuose]]; ^s-e480363ecec3a46f5a883c43
+36) kandidatai į pareigas, nurodytas [[#^s-a4f0fc57fc88f487c5260b10|šio straipsnio 1 dalies 5 punkte]] (išskyrus kandidatus į valstybės tarnautojo pareigas ir jų šeimos narius), [[#^s-196e5f716359fbcc2eba9cd3|6]]–[[#^s-e2043fda044282e918e9146d|23]], [[#^s-77fc51e83c2e0935755ae1f5|29]]–[[#^s-bfe73ab7f9e472d3b51e43e1|35]] ir [[#^s-9b40e382797b9d3e2b5e0728|38]] punktuose; ^s-e480363ecec3a46f5a883c43
 Straipsnio punkto pakeitimai:
 Nr. XIV-1991, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11561
 
@@ -296,7 +296,7 @@ Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
 
 
 
-9. Paskutinių praėjusių kalendorinių metų šio straipsnio 4–[[#^s-c12367bbf08a0ff4b564d823|8 dalyse]] nurodytų gyventojų vardiniai sąrašai pateikiami iki einamųjų kalendorinių metų vasario 1 dienos. Vardinių sąrašų pateikimo formą ir tvarką nustato centrinis mokesčių administratorius. ^s-e2462f0376deab7af08158b7
+9. Paskutinių praėjusių kalendorinių metų šio straipsnio [[#^s-6181bad46c5077d2df94035b|4]]–[[#^s-c12367bbf08a0ff4b564d823|8]] dalyse nurodytų gyventojų vardiniai sąrašai pateikiami iki einamųjų kalendorinių metų vasario 1 dienos. Vardinių sąrašų pateikimo formą ir tvarką nustato centrinis mokesčių administratorius. ^s-e2462f0376deab7af08158b7
 Papildyta straipsnio dalimi:
 Nr. XII-2041, 2015-11-19, paskelbta TAR 2015-11-27, i. k. 2015-18855
 
@@ -323,7 +323,7 @@ Nr. XII-624, 2013-11-26, Žin., 2013, Nr. 128-6517 (2013-12-14)
 ### 3 straipsnis. Deklaruojamas turtas ^s-5642baf3f2e2779fec09a223
 
 
-1. Šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] 1–24, 28–38 punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą: ^s-fbdb4a41d20b5f965a78ecdb
+1. Šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] [[#^s-15e931fe9e47962919712703|1]]–[[#^s-9ffc753d7ef4adc3ecf6a51b|24]], [[#^s-8632f88f136afe2ce239bd6d|28]]–[[#^s-9b40e382797b9d3e2b5e0728|38]] punktuose nurodyti gyventojai privalo deklaruoti šį savo turimą turtą: ^s-fbdb4a41d20b5f965a78ecdb
 Straipsnio dalies pakeitimai:
 Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
 Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
@@ -385,7 +385,7 @@ Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
 
 
 
-3. Deklaruojamas Lietuvos Respublikoje ir užsienio valstybėse esantis šio straipsnio 1, 11 ir [[#^s-a5b21032bb9faa3a9ec2d595|2 dalyse]] nurodytas turtas. ^s-61fd707416433fdec87615b5
+3. Deklaruojamas Lietuvos Respublikoje ir užsienio valstybėse esantis šio straipsnio [[#^s-fbdb4a41d20b5f965a78ecdb|1]], [[#^s-c36a544160fb43f2ba5d5eb8|11]] ir [[#^s-a5b21032bb9faa3a9ec2d595|2]] dalyse nurodytas turtas. ^s-61fd707416433fdec87615b5
 Straipsnio dalies pakeitimai:
 Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
 
@@ -394,7 +394,7 @@ Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
 4. Turtas, gautas už suteiktą pagalbą slaptai bendradarbiaujant su kriminalinės žvalgybos subjektais, žvalgybos institucijomis ir kitais įstatymų nustatytais atvejais, nedeklaruojamas. ^s-89d493c6eee6bcee4a2b4998
 
 
-5. Šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] 24, 28 ir 37 punktuose nurodyti gyventojai deklaruoja ir gautas pajamas. ^s-a9229d56ab42da64426a780c
+5. Šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] [[#^s-9ffc753d7ef4adc3ecf6a51b|24]], [[#^s-8632f88f136afe2ce239bd6d|28]] ir [[#^s-6c5b12587d6d3e834a8504b3|37]] punktuose nurodyti gyventojai deklaruoja ir gautas pajamas. ^s-a9229d56ab42da64426a780c
 Straipsnio dalies pakeitimai:
 Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
 
@@ -429,13 +429,13 @@ Nr. XII-624, 2013-11-26, Žin., 2013, Nr. 128-6517 (2013-12-14)
 ### 5 straipsnis. Turto deklaravimo tvarka ^s-11a9a76d3233940d1eea581e
 
 
-1. Šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] 1–23, 29–38 punktuose nurodyti gyventojai deklaruoja kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija (toliau – deklaracija), gruodžio 31 dieną turimą turtą, pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui. ^s-9e5e5953c139ca929acf556e
+1. Šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] [[#^s-15e931fe9e47962919712703|1]]–[[#^s-e2043fda044282e918e9146d|23]], [[#^s-77fc51e83c2e0935755ae1f5|29]]–[[#^s-9b40e382797b9d3e2b5e0728|38]] punktuose nurodyti gyventojai deklaruoja kalendorinių metų, už kuriuos teikiama gyventojo turto deklaracija (toliau – deklaracija), gruodžio 31 dieną turimą turtą, pateikdami mokesčio administratoriui vieną deklaracijos egzempliorių. Šių gyventojų pageidavimu gali būti pateikiami du deklaracijos egzemplioriai. Vienas iš jų su žyma, kad deklaracija yra pateikta, grąžinamas deklaraciją pateikusiam gyventojui. ^s-9e5e5953c139ca929acf556e
 Straipsnio dalies pakeitimai:
 Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
 
 
 
-2. Deklaracija pateikiama kasmet iki kalendorinių metų, einančių po tų kalendorinių metų, už kuriuos deklaruojamas turimas turtas, gegužės 1 dienos, išskyrus šio Įstatymo 6, 7, 71 ir [[#^s-b465da61277c4e6a58a3caab|72 straipsniuose]] nustatytus atvejus. ^s-279857be4ce946abee770f19
+2. Deklaracija pateikiama kasmet iki kalendorinių metų, einančių po tų kalendorinių metų, už kuriuos deklaruojamas turimas turtas, gegužės 1 dienos, išskyrus šio Įstatymo [[#^s-f6b86770d4a81f2a78179abb|6]], [[#^s-693450750b05d4900b182bb5|7]], [[#^s-0d058d1941ca3e444b94cec1|71]] ir [[#^s-b465da61277c4e6a58a3caab|72]] straipsniuose nustatytus atvejus. ^s-279857be4ce946abee770f19
 
 
 3. Gali būti tikslinami penkerių praėjusių kalendorinių metų deklaracijų duomenys, pradedant skaičiuoti nuo kalendorinių metų, buvusių prieš tuos kalendorinius metus, kuriais tikslinama. ^s-c4e17eb1a44e4a91d4628d94
@@ -470,13 +470,13 @@ Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
 
 
 
-2. Kandidatai į pareigas, nurodytas šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] 5–23, 29–35 punktuose, išskyrus tuos, kurie yra deklaravę kalendorinių metų, einančių prieš kalendorinius metus, kuriais yra kandidatuojama į minėtas pareigas, gruodžio 31 dieną turimą turtą, privalo deklaruoti kalendorinių metų, einančių prieš kalendorinius metus, kuriais kandidatuojama, gruodžio 31 dieną turimą turtą. Šie gyventojai turto deklaracijas vietos mokesčio administratoriui pateikia per 7 kalendorines dienas nuo prašymo kandidatuoti į minėtas pareigas pateikimo dienos. ^s-5cf40745f67357731f7a93cd
+2. Kandidatai į pareigas, nurodytas šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] [[#^s-a4f0fc57fc88f487c5260b10|5]]–[[#^s-e2043fda044282e918e9146d|23]], [[#^s-77fc51e83c2e0935755ae1f5|29]]–[[#^s-bfe73ab7f9e472d3b51e43e1|35]] punktuose, išskyrus tuos, kurie yra deklaravę kalendorinių metų, einančių prieš kalendorinius metus, kuriais yra kandidatuojama į minėtas pareigas, gruodžio 31 dieną turimą turtą, privalo deklaruoti kalendorinių metų, einančių prieš kalendorinius metus, kuriais kandidatuojama, gruodžio 31 dieną turimą turtą. Šie gyventojai turto deklaracijas vietos mokesčio administratoriui pateikia per 7 kalendorines dienas nuo prašymo kandidatuoti į minėtas pareigas pateikimo dienos. ^s-5cf40745f67357731f7a93cd
 
 
-3. Išrinkti arba paskirti į pareigas valstybės politikai bei Europos Parlamento nariai ir jų šeimos nariai, priimti arba paskirti į pareigas valstybės tarnautojai ir jų šeimos nariai, taip pat asmenys, priimti arba paskirti į pareigas, nurodytas šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] 5–23, 29–35 punktuose, ir jų šeimos nariai, išskyrus tuos, kurie yra deklaravę kalendorinių metų, einančių prieš kalendorinius metus, kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti arba paskirti į pareigas, valstybės tarnautojai ar asmenys, einantys pareigas, nurodytas šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] 5–23, 29–35 punktuose, buvo priimti arba paskirti į pareigas, gruodžio 31 dieną turimą turtą, privalo deklaruoti kalendorinių metų, einančių prieš kalendorinius metus, kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti arba paskirti į pareigas, valstybės tarnautojai ar asmenys, einantys pareigas, nurodytas šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] 5–23, 29–35 punktuose, buvo priimti arba paskirti į pareigas, gruodžio 31 dieną turimą turtą. Deklaracijos pateikiamos per 30 dienų nuo išrinkimo, paskyrimo arba priėmimo į pareigas pradžios. Išrinktiems arba paskirtiems į pareigas valstybės politikams bei Europos Parlamento nariams ir jų šeimos nariams, priimtiems arba paskirtiems į pareigas valstybės tarnautojams ir jų šeimos nariams, taip pat asmenims, priimtiems arba paskirtiems į pareigas, nurodytas šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] 5–23, 29–35 punktuose, ir jų šeimos nariams, deklaravusiems turtą, vietos mokesčio administratorius per 15 darbo dienų nuo deklaracijos pateikimo dienos išduoda pažymas apie deklaracijų pateikimą, išskyrus tuos, kurie yra deklaravę kalendorinių metų, einančių prieš kalendorinius metus, kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti arba paskirti į pareigas, valstybės tarnautojai, asmenys, einantys pareigas, nurodytas šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] 5–23, 29–35 punktuose, buvo priimti arba paskirti į pareigas, gruodžio 31 dieną turimą turtą ir kuriems vietos mokesčio administratorius per 5 darbo dienas išduoda pažymas apie deklaracijų pateikimą. ^s-c0c883eba1e9fc072dab512f
+3. Išrinkti arba paskirti į pareigas valstybės politikai bei Europos Parlamento nariai ir jų šeimos nariai, priimti arba paskirti į pareigas valstybės tarnautojai ir jų šeimos nariai, taip pat asmenys, priimti arba paskirti į pareigas, nurodytas šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] [[#^s-a4f0fc57fc88f487c5260b10|5]]–[[#^s-e2043fda044282e918e9146d|23]], [[#^s-77fc51e83c2e0935755ae1f5|29]]–[[#^s-bfe73ab7f9e472d3b51e43e1|35]] punktuose, ir jų šeimos nariai, išskyrus tuos, kurie yra deklaravę kalendorinių metų, einančių prieš kalendorinius metus, kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti arba paskirti į pareigas, valstybės tarnautojai ar asmenys, einantys pareigas, nurodytas šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] [[#^s-a4f0fc57fc88f487c5260b10|5]]–[[#^s-e2043fda044282e918e9146d|23]], [[#^s-77fc51e83c2e0935755ae1f5|29]]–[[#^s-bfe73ab7f9e472d3b51e43e1|35]] punktuose, buvo priimti arba paskirti į pareigas, gruodžio 31 dieną turimą turtą, privalo deklaruoti kalendorinių metų, einančių prieš kalendorinius metus, kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti arba paskirti į pareigas, valstybės tarnautojai ar asmenys, einantys pareigas, nurodytas šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] [[#^s-a4f0fc57fc88f487c5260b10|5]]–[[#^s-e2043fda044282e918e9146d|23]], [[#^s-77fc51e83c2e0935755ae1f5|29]]–[[#^s-bfe73ab7f9e472d3b51e43e1|35]] punktuose, buvo priimti arba paskirti į pareigas, gruodžio 31 dieną turimą turtą. Deklaracijos pateikiamos per 30 dienų nuo išrinkimo, paskyrimo arba priėmimo į pareigas pradžios. Išrinktiems arba paskirtiems į pareigas valstybės politikams bei Europos Parlamento nariams ir jų šeimos nariams, priimtiems arba paskirtiems į pareigas valstybės tarnautojams ir jų šeimos nariams, taip pat asmenims, priimtiems arba paskirtiems į pareigas, nurodytas šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] [[#^s-a4f0fc57fc88f487c5260b10|5]]–[[#^s-e2043fda044282e918e9146d|23]], [[#^s-77fc51e83c2e0935755ae1f5|29]]–[[#^s-bfe73ab7f9e472d3b51e43e1|35]] punktuose, ir jų šeimos nariams, deklaravusiems turtą, vietos mokesčio administratorius per 15 darbo dienų nuo deklaracijos pateikimo dienos išduoda pažymas apie deklaracijų pateikimą, išskyrus tuos, kurie yra deklaravę kalendorinių metų, einančių prieš kalendorinius metus, kuriais valstybės politikai ar Europos Parlamento nariai buvo išrinkti arba paskirti į pareigas, valstybės tarnautojai, asmenys, einantys pareigas, nurodytas šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] [[#^s-a4f0fc57fc88f487c5260b10|5]]–[[#^s-e2043fda044282e918e9146d|23]], [[#^s-77fc51e83c2e0935755ae1f5|29]]–[[#^s-bfe73ab7f9e472d3b51e43e1|35]] punktuose, buvo priimti arba paskirti į pareigas, gruodžio 31 dieną turimą turtą ir kuriems vietos mokesčio administratorius per 5 darbo dienas išduoda pažymas apie deklaracijų pateikimą. ^s-c0c883eba1e9fc072dab512f
 
 
-4. Nustoję eiti pareigas valstybės politikai bei Europos Parlamento nariai ir jų šeimos nariai, taip pat iš pareigų atleisti asmenys, ėję pareigas, nurodytas šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] 5–23, 29–35 punktuose, ir jų šeimos nariai šio Įstatymo [[#^s-f6b86770d4a81f2a78179abb|6 straipsnyje]] nustatyta tvarka privalo deklaruoti kalendorinių metų, kuriais nustojo eiti pareigas arba buvo atleisti iš pareigų, gruodžio 31 dieną turimą turtą. ^s-7d4a77409c8cd39e160e12ae
+4. Nustoję eiti pareigas valstybės politikai bei Europos Parlamento nariai ir jų šeimos nariai, taip pat iš pareigų atleisti asmenys, ėję pareigas, nurodytas šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] [[#^s-a4f0fc57fc88f487c5260b10|5]]–[[#^s-e2043fda044282e918e9146d|23]], [[#^s-77fc51e83c2e0935755ae1f5|29]]–[[#^s-bfe73ab7f9e472d3b51e43e1|35]] punktuose, ir jų šeimos nariai šio Įstatymo [[#^s-f6b86770d4a81f2a78179abb|6 straipsnyje]] nustatyta tvarka privalo deklaruoti kalendorinių metų, kuriais nustojo eiti pareigas arba buvo atleisti iš pareigų, gruodžio 31 dieną turimą turtą. ^s-7d4a77409c8cd39e160e12ae
 
 
 Straipsnio pakeitimai:
@@ -539,7 +539,7 @@ Nr. XII-271, 2013-05-09, Žin., 2013, Nr. 54-2676 (2013-05-25)
 2. Jeigu [[#^s-313c847913cc4db457234fe0|šio straipsnio 1 dalyje]] nurodyti asmenys neturi šio Įstatymo [[#^s-a5b21032bb9faa3a9ec2d595|3 straipsnio 2 dalyje]] nurodyto turto, atskaitinę deklaraciją pateikti neprivaloma ir laikoma, kad šie asmenys nustatyta tvarka deklaravo, kad neturi šio Įstatymo [[#^s-a5b21032bb9faa3a9ec2d595|3 straipsnio 2 dalyje]] nurodyto turto. ^s-9bdd22e49de4a17639bf7581
 
 
-3. Atskaitinė deklaracija neteikiama, jeigu asmuo turtą deklaruoti privalo remdamasis šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] 1–23 punktais. ^s-781fa68969cf3246a56af42e
+3. Atskaitinė deklaracija neteikiama, jeigu asmuo turtą deklaruoti privalo remdamasis šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] [[#^s-15e931fe9e47962919712703|1]]–[[#^s-e2043fda044282e918e9146d|23]] punktais. ^s-781fa68969cf3246a56af42e
 
 
 Įstatymas papildytas straipsniu:
@@ -581,7 +581,7 @@ Mokesčio administratorius tikrina, ar deklaracijose nurodyti duomenys yra teisi
 ### 9 straipsnis. Atsakomybė už šio Įstatymo pažeidimą ^s-a0a2d7bf5eee86479f947264
 
 
-1. Šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] 1–23, 26, 29–38 punktuose nurodyti turtą deklaruoti privalantys gyventojai, vengiantys pateikti deklaracijas laiku arba iš viso jų nepateikę, taip pat šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] 24 ir 28 punktuose nurodyti turtą deklaruoti privalantys gyventojai, neteisingai nurodę duomenis, atsako administracine ar baudžiamąja tvarka. ^s-96d054e9905f077147ca425b
+1. Šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] [[#^s-15e931fe9e47962919712703|1]]–[[#^s-e2043fda044282e918e9146d|23]], [[#^s-5a1391267311420d81d8650b|26]], [[#^s-77fc51e83c2e0935755ae1f5|29]]–[[#^s-9b40e382797b9d3e2b5e0728|38]] punktuose nurodyti turtą deklaruoti privalantys gyventojai, vengiantys pateikti deklaracijas laiku arba iš viso jų nepateikę, taip pat šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalies]] [[#^s-9ffc753d7ef4adc3ecf6a51b|24]] ir [[#^s-8632f88f136afe2ce239bd6d|28]] punktuose nurodyti turtą deklaruoti privalantys gyventojai, neteisingai nurodę duomenis, atsako administracine ar baudžiamąja tvarka. ^s-96d054e9905f077147ca425b
 Straipsnio dalies pakeitimai:
 Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
 
@@ -638,7 +638,7 @@ Nr. XII-156, 2013-01-17, Žin., 2013, Nr. 11-500 (2013-01-30)
 ### 11 straipsnis. Deklaracijai užpildyti reikalingų pažymų parengimas ^s-82006bf67248d5bf62fcf88d
 
 
-Bankai, kitos kredito įstaigos ir kiti Lietuvos Respublikos juridiniai asmenys šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalyje]] nurodytų gyventojų prašymu išduoda pažymas apie gyventojo turimą šio Įstatymo [[#^s-fbdb4a41d20b5f965a78ecdb|3 straipsnio 1 dalies]] 3–5 punktuose ir 11 dalyje nurodytą turtą. Pažymos parengiamos ir išduodamos nemokamai per 10 darbo dienų nuo prašymo gavimo dienos.
+Bankai, kitos kredito įstaigos ir kiti Lietuvos Respublikos juridiniai asmenys šio Įstatymo [[#^s-3f21175c6a25058ac9f16e5e|2 straipsnio 1 dalyje]] nurodytų gyventojų prašymu išduoda pažymas apie gyventojo turimą šio Įstatymo [[#^s-fbdb4a41d20b5f965a78ecdb|3 straipsnio 1 dalies]] [[#^s-327f8bcb5744eb19005ec770|3]]–[[#^s-456b3d724de0325d6144e6df|5]] punktuose ir 11 dalyje nurodytą turtą. Pažymos parengiamos ir išduodamos nemokamai per 10 darbo dienų nuo prašymo gavimo dienos.
 
 
 Straipsnio pakeitimai:
@@ -713,7 +713,7 @@ Nr. IX-944, 2002-06-11, Žin., 2002, Nr. 64-2577 (2002-06-26)
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1193, 2002-11-12, Žin., 2002, Nr. 116-5191 (2002-12-06)
-AZARTINIŲ LOŠIMŲ ĮSTATYMO, DARBO SUTARTIES ĮSTATYMO, ĮSTATYMO „DĖL LIETUVOS RESPUBLIKOS GYVENTOJŲ PAJAMŲ BRANGIAM TURTUI ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI PERLEIDŽIAMŲ LĖŠŲ DEKLARAVIMO“, GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
+AZARTINIŲ LOŠIMŲ ĮSTATYMO, DARBO SUTARTIES ĮSTATYMO, ĮSTATYMO [„DĖL LIETUVOS RESPUBLIKOS GYVENTOJŲ PAJAMŲ BRANGIAM TURTUI ĮSIGYTI ARBA KITŲ ĮSIGYTŲ BEI PERLEIDŽIAMŲ LĖŠŲ DEKLARAVIMO“](https://e-tar.lt/portal/lt/legalAct/TAR.1273CA6042BD), GYVENTOJŲ TURTO IR PAJAMŲ DEKLARAVIMO ĮSTATYMO PAKEITIMO ĮSTATYMAS
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -757,7 +757,7 @@ GYVENTOJŲ TURTO DEKLARAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-684, 2010-02-11, Žin., 2010, Nr. 25-1178 (2010-03-02)
-[[#^s-a0a2d7bf5eee86479f947264|GYVENTOJŲ TURTO DEKLARAVIMO ĮSTATYMO 2, 3, 5, 9 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 7(1) STRAIPSNIU ĮSTATYMAS
+GYVENTOJŲ TURTO DEKLARAVIMO ĮSTATYMO [[#^s-b0f97bf4680efb9e90a4601a|2]], [[#^s-5642baf3f2e2779fec09a223|3]], [[#^s-11a9a76d3233940d1eea581e|5]], [[#^s-a0a2d7bf5eee86479f947264|9]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO IR ĮSTATYMO PAPILDYMO 7(1) STRAIPSNIU ĮSTATYMAS
 Šio įstatymo nuostatos taip pat taikomos:
 1) nuolatiniams Lietuvos gyventojams, kurie 18 metų sulaukė 2004 ir vėlesniais metais iki šio įstatymo įsigaliojimo dienos ir nėra deklaravę turimo turto pagal Gyventojų turto deklaravimo įstatymą arba pagal Vienkartinio gyventojų turto deklaravimo įstatymą; ^s-0bb0b08ed72cb2232aeb0813
 2) 18 metų sulaukusiems Lietuvos Respublikos įstatymo „Dėl užsieniečių teisinės padėties“ nustatyta tvarka įgijusiems teisę nuolat gyventi Lietuvoje asmenims, kurie šią teisę įgijo 2004 ir vėlesniais metais iki šio įstatymo įsigaliojimo dienos ir nėra deklaravę turimo turto pagal Gyventojų turto deklaravimo įstatymą arba pagal Vienkartinio gyventojų turto deklaravimo įstatymą. ^s-8a54e4d204bbb6894e068997
@@ -772,7 +772,7 @@ GYVENTOJŲ TURTO DEKLARAVIMO ĮSTATYMO 10 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-819, 2010-05-18, Žin., 2010, Nr. 63-3097 (2010-05-31)
-[[#^s-a0a2d7bf5eee86479f947264|GYVENTOJŲ TURTO DEKLARAVIMO ĮSTATYMO 1, 2, 3, 9 STRAIPSNIŲ]] PAPILDYMO IR PAKEITIMO IR ĮSTATYMO PAPILDYMO 7(2) STRAIPSNIU ĮSTATYMAS
+GYVENTOJŲ TURTO DEKLARAVIMO ĮSTATYMO [[#^s-5d00d279b2033b044a1212d0|1]], [[#^s-b0f97bf4680efb9e90a4601a|2]], [[#^s-5642baf3f2e2779fec09a223|3]], [[#^s-a0a2d7bf5eee86479f947264|9]] STRAIPSNIŲ PAPILDYMO IR PAKEITIMO IR ĮSTATYMO PAPILDYMO 7(2) STRAIPSNIU ĮSTATYMAS
 Šis įstatymas įsigalioja 2010 m. rugsėjo 15 d.
 
 22.
@@ -859,12 +859,12 @@ Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 7-2 strai
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1136, 2014-09-23, paskelbta TAR 2014-10-02, i. k. 2014-13465
-Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2 ir [[#^s-5642baf3f2e2779fec09a223|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 [[#^s-b0f97bf4680efb9e90a4601a|2]] ir [[#^s-5642baf3f2e2779fec09a223|3]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1216, 2014-10-09, paskelbta TAR 2014-10-30, i. k. 2014-15179
-Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 1, 2, 3 ir [[#^s-693450750b05d4900b182bb5|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 [[#^s-5d00d279b2033b044a1212d0|1]], [[#^s-b0f97bf4680efb9e90a4601a|2]], [[#^s-5642baf3f2e2779fec09a223|3]] ir [[#^s-693450750b05d4900b182bb5|7]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -879,7 +879,7 @@ Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 [[#^s-b0f
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-854, 2017-12-07, paskelbta TAR 2017-12-19, i. k. 2017-20427
-Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2, 5 ir [[#^s-2b03c55666aeb6eb972ecb1f|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 [[#^s-b0f97bf4680efb9e90a4601a|2]], [[#^s-11a9a76d3233940d1eea581e|5]] ir [[#^s-2b03c55666aeb6eb972ecb1f|10]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -889,17 +889,17 @@ Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 [[#^s-b0f
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1282, 2018-06-21, paskelbta TAR 2018-06-27, i. k. 2018-10534
-Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 1, 2 ir [[#^s-693450750b05d4900b182bb5|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 [[#^s-5d00d279b2033b044a1212d0|1]], [[#^s-b0f97bf4680efb9e90a4601a|2]] ir [[#^s-693450750b05d4900b182bb5|7]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-139, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00261
-Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2 ir [[#^s-2b03c55666aeb6eb972ecb1f|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 [[#^s-b0f97bf4680efb9e90a4601a|2]] ir [[#^s-2b03c55666aeb6eb972ecb1f|10]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-874, 2021-12-23, paskelbta TAR 2021-12-25, i. k. 2021-26911
-Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2, 3, 5, 9 ir [[#^s-2b03c55666aeb6eb972ecb1f|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 [[#^s-b0f97bf4680efb9e90a4601a|2]], [[#^s-5642baf3f2e2779fec09a223|3]], [[#^s-11a9a76d3233940d1eea581e|5]], [[#^s-a0a2d7bf5eee86479f947264|9]] ir [[#^s-2b03c55666aeb6eb972ecb1f|10]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -909,9 +909,9 @@ Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 [[#^s-b0f
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2664, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09705
-Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 1, 2, 3, 6, 7-2 ir [[#^s-82006bf67248d5bf62fcf88d|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 [[#^s-5d00d279b2033b044a1212d0|1]], [[#^s-b0f97bf4680efb9e90a4601a|2]], [[#^s-5642baf3f2e2779fec09a223|3]], [[#^s-f6b86770d4a81f2a78179abb|6]], 7-2 ir [[#^s-82006bf67248d5bf62fcf88d|11]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-1021, 2026-06-11, paskelbta TAR 2026-06-26, i. k. 2026-11102
-Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 2 ir [[#^s-5642baf3f2e2779fec09a223|3 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos gyventojų turto deklaravimo įstatymo Nr. I-1338 [[#^s-b0f97bf4680efb9e90a4601a|2]] ir [[#^s-5642baf3f2e2779fec09a223|3]] straipsnių pakeitimo įstatymas

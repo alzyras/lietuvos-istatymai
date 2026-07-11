@@ -58,7 +58,7 @@ priima šį įstatymą.“
 ### 2 straipsnis. 5 straipsnio pakeitimas ^s-de86a2987848d791d0f6ce8c
 
 
-Papildyti 5 straipsnį 24 punktu:
+Papildyti [[latest/TAR.28635AB7F3EB|5 straipsnį 24 punktu]]:
 
 
 „24) dalyvauja įgyvendinant valstybės politiką tremties ir rezistencijos muziejų srityje: pagal poreikius steigia struktūrinius padalinius muziejinei veiklai vykdyti ir istorinės atminties vietoms įamžinti; konsultuoja ir teikia metodinę pagalbą dėl muziejų ir kitų įstaigų rengiamų tremties ir rezistencijos tematikos ekspozicijų, parodų įrengimo, edukacinių programų organizavimo ir plėtojimo.“

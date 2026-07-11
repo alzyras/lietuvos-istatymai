@@ -145,7 +145,7 @@ Papildyti Įstatymą 101 straipsniu:
 ### 4 straipsnis. Įstatymo įsigaliojimas ^s-440bb07fe8683690f97874d2
 
 
-Šio įstatymo 2 ir [[#^s-6915690e6ff7f28496010a9d|3 straipsniai]] įsigalioja nuo 2008 m. liepos 1 d.
+Šio įstatymo [[#^s-b1bafc120009b20171b855c9|2]] ir [[#^s-6915690e6ff7f28496010a9d|3]] straipsniai įsigalioja nuo 2008 m. liepos 1 d.
 
 
 

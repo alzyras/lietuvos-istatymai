@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-e4ea63cb4958c7ffb2712565
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento 2001 m. kovo 16 d. dekretą Nr. 1247, ratifikuoja Lietuvos Respublikos ir Suomijos Respublikos sutartį dėl socialinės apsaugos, pasirašytą 2000 m. rugsėjo 12 d. Helsinkyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir [[latest/TAR.5BCEC9B41811#^s-e4c75c8f1521b23b1f46a425|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 8 punktu]] bei atsižvelgdamas į Respublikos Prezidento [2001 m. kovo 16 d. dekretą Nr. 1247](https://e-tar.lt/portal/lt/legalAct/TAR.1D73F0849F86), ratifikuoja Lietuvos Respublikos ir Suomijos Respublikos sutartį dėl socialinės apsaugos, pasirašytą 2000 m. rugsėjo 12 d. Helsinkyje.
 
 
 

@@ -13,5 +13,5 @@ pavadinimas: "Dėl Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A216CB73876A#^s-388b99156d02bf64e80f6cba|Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymas]] - 3 citatos - 0901010ISTA000I-716
+- [[latest/TAR.A216CB73876A#^s-388b99156d02bf64e80f6cba|Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymas]] - 2 citatos - 0901010ISTA000I-716
 - [[latest/TAR.A216CB73876A#^s-48a89eb8b9c8284c4afc0ebf|Lietuvos Respublikos gyventojų pensinio aprūpinimo gerinimo įstatymas]] - 0901010ISTA000I-716

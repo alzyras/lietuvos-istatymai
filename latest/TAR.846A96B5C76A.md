@@ -678,7 +678,7 @@ Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
 6. Rūmai kiekvienais kalendoriniais metais iki balandžio 1 dienos Aplinkos ministerijai teikia ataskaitą apie išduotų kvalifikacijos atestatų ir teisės pripažinimo dokumentų, jų galiojimo sustabdymo ir galiojimo panaikinimo skaičių, profesinę kvalifikaciją kėlusių architektų skaičių, architektų skundų dėl sprendimų apie kvalifikacijos atestato ir teisės pripažinimo dokumento išdavimą, jų galiojimo sustabdymą ir galiojimo panaikinimą skaičių. Ataskaita apie sprendimus dėl architektų profesinės kvalifikacijos pripažinimo teikiama vadovaujantis [[latest/TAR.074B2F6259F9#^s-7b8995520456a2f7d111a039|Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 59 straipsnio 3 dalimi]]. ^s-6af9e93fa441d3428e95349c
 
 
-7. Rūmų sprendimai dėl architektų kvalifikacijos atestatų ir teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo arba galiojimo panaikinimo gali būti skundžiami Rūmų tarybai ar administraciniam teismui per 30 dienų nuo sprendimo įteikimo architektui dienos. Rūmų taryba gali skundą atmesti kaip nepagrįstą arba jį priimti ir įpareigoti Rūmus nagrinėti iš naujo. Rūmų sprendimai dėl architekto profesinės kvalifikacijos pripažinimo skundžiami vadovaujantis Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 6 straipsnio 27 dalyje nustatyta tvarka. ^s-5de791c6eba373f845bcc0b7
+7. Rūmų sprendimai dėl architektų kvalifikacijos atestatų ir teisės pripažinimo dokumentų išdavimo, keitimo, galiojimo sustabdymo, galiojimo sustabdymo panaikinimo arba galiojimo panaikinimo gali būti skundžiami Rūmų tarybai ar administraciniam teismui per 30 dienų nuo sprendimo įteikimo architektui dienos. Rūmų taryba gali skundą atmesti kaip nepagrįstą arba jį priimti ir įpareigoti Rūmus nagrinėti iš naujo. Rūmų sprendimai dėl architekto profesinės kvalifikacijos pripažinimo skundžiami vadovaujantis [[latest/TAR.074B2F6259F9|Reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo 6 straipsnio 27 dalyje]] nustatyta tvarka. ^s-5de791c6eba373f845bcc0b7
 
 
 8. Atestuoto architekto ar teisės pripažinimo dokumento turėtojo kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimo sustabdymas, panaikinimas, įspėjimo skyrimas kituose įstatymuose numatytais atvejais pagal suinteresuotų asmenų skundus, pareiškimus, prašymus nenagrinėjami, jeigu kreipimosi dėl veiklos svarstymo (kvalifikacijos atestato ar teisės pripažinimo dokumento galiojimo sustabdymo, panaikinimo, įspėjimo skyrimo) į Rūmus dieną nuo pažeidimo padarymo yra praėję 5 metai. ^s-758fcb7880046720ac27b32f
@@ -850,24 +850,24 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2575, 2016-06-30, paskelbta TAR 2016-07-13, i. k. 2016-20324
-Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 3, 6, 8, 9 ir [[#^s-58b859f28545804c25339ed2|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 [[#^s-59aec51a6583374166a2ebb6|3]], [[#^s-ff8e0d09206ec0d06892dbc7|6]], [[#^s-3c68d6409baf575b191a70ae|8]], [[#^s-90d79405d64660447d76ef22|9]] ir [[#^s-58b859f28545804c25339ed2|11]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2725, 2016-11-03, paskelbta TAR 2016-11-09, i. k. 2016-26508
-Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 1, 2, 3, 4, [[#^s-58b859f28545804c25339ed2|11 straipsnių]] pakeitimo ir [[#^s-a62cdb4b7b4bfd975b3612b8|18 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 [[#^s-1fba22c0af37eee4584bb28d|1]], [[#^s-8648847d22489e572807beb1|2]], [[#^s-59aec51a6583374166a2ebb6|3]], [[#^s-c153916d1ce5f70fe2f1a9bd|4]], [[#^s-58b859f28545804c25339ed2|11]] straipsnių pakeitimo ir [[#^s-a62cdb4b7b4bfd975b3612b8|18 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 3.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT166-A-N14/2020, 2020-09-11, paskelbta TAR 2020-09-11, i. k. 2020-19129
-Dėl [[#^s-c153916d1ce5f70fe2f1a9bd|Lietuvos Respublikos architektų rūmų įstatymo 4 straipsnio]] 1, 4 dalių atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos architektų rūmų įstatymo 4 straipsnio 1, 4 dalių atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/7a0e4cb0f42b11eaa12ad7c04a383ca0)
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-499, 2021-06-30, paskelbta TAR 2021-07-14, i. k. 2021-15874
-Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 antrojo skirsnio pavadinimo, 4, 6, 8, 10, [[#^s-58b859f28545804c25339ed2|11 straipsnių]] pakeitimo, Įstatymo papildymo 4-1 straipsniu ir priedo pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 antrojo skirsnio pavadinimo, [[#^s-c153916d1ce5f70fe2f1a9bd|4]], [[#^s-ff8e0d09206ec0d06892dbc7|6]], [[#^s-3c68d6409baf575b191a70ae|8]], [[#^s-e604155454bbfb2200ba9ef9|10]], [[#^s-58b859f28545804c25339ed2|11]] straipsnių pakeitimo, Įstatymo papildymo 4-1 straipsniu ir priedo pripažinimo netekusiu galios įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2417, 2023-12-19, paskelbta TAR 2023-12-28, i. k. 2023-25638
-Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 3, 6, 7, 8, 10 ir [[#^s-58b859f28545804c25339ed2|11 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos architektų rūmų įstatymo Nr. X-914 [[#^s-59aec51a6583374166a2ebb6|3]], [[#^s-ff8e0d09206ec0d06892dbc7|6]], [[#^s-7a75ce8669d10a2d12c65563|7]], [[#^s-3c68d6409baf575b191a70ae|8]], [[#^s-e604155454bbfb2200ba9ef9|10]] ir [[#^s-58b859f28545804c25339ed2|11]] straipsnių pakeitimo įstatymas

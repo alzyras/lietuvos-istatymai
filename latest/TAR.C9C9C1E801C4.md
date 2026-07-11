@@ -178,14 +178,14 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1906, 2015-06-25, paskelbta TAR 2015-07-02, i. k. 2015-10696
-Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 [[#^s-7621bd2e01e60199e8ddec2f|8 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos farmacijos įstatymo [[#^s-f434394ec182e29bc139299d|2]], [[#^s-64067bf0b9c91d76faa677bb|4]], [[#^s-09166bd9571e1800b7e7562b|5]], [[#^s-27b996953f464cb219058bd8|7]], 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 [[#^s-7621bd2e01e60199e8ddec2f|8 straipsnio]] pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-106, 2020-12-22, paskelbta TAR 2020-12-30, i. k. 2020-29165
-Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 [[#^s-7621bd2e01e60199e8ddec2f|8 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos farmacijos įstatymo [[#^s-f434394ec182e29bc139299d|2]], [[#^s-64067bf0b9c91d76faa677bb|4]], [[#^s-09166bd9571e1800b7e7562b|5]], [[#^s-27b996953f464cb219058bd8|7]], 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 [[#^s-7621bd2e01e60199e8ddec2f|8 straipsnio]] pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1959, 2023-05-16, paskelbta TAR 2023-06-01, i. k. 2023-10825
-Lietuvos Respublikos farmacijos įstatymo 2, 4, 5, 7, 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 [[#^s-09166bd9571e1800b7e7562b|5 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos farmacijos įstatymo [[#^s-f434394ec182e29bc139299d|2]], [[#^s-64067bf0b9c91d76faa677bb|4]], [[#^s-09166bd9571e1800b7e7562b|5]], [[#^s-27b996953f464cb219058bd8|7]], 35, 39, 76 straipsnių pakeitimo ir papildymo įstatymo Nr. XI-2017 [[#^s-09166bd9571e1800b7e7562b|5 straipsnio]] pakeitimo įstatymas

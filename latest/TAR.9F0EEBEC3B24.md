@@ -68,7 +68,7 @@ Universitetas naudojasi Lietuvos Respublikos Konstitucijos ir šiuo įstatymu pa
 2. Įsigaliojus šiam įstatymui, pirmą kartą sudarant Universiteto senatą netaikomos Statuto [[#^s-c62f34418531c1753aa2fa72|33 straipsnio 6 dalies]] nuostatos ir Statuto [[#^s-9beef2bfe2df44ca6ac921f1|34 straipsnio 7 dalyje]] nustatytas 4 mėnesių terminas. ^s-5b54b5b8fdb3cfe0a676d237
 
 
-3. Įsigaliojus šiam įstatymui, pirmą kartą sudarant Universiteto tarybą netaikomos Statuto [[#^s-677e67ba42781fcb3348110d|39 straipsnio 12 dalies]] nuostatos ir Statuto [[#^s-df8e5569ca38a4c74c76dbe2|39 straipsnio]] 8, 9 ir 11 dalyse nustatyti terminai; šiuos terminus nustato Universiteto senatas, tačiau jie negali būti trumpesni negu vienas mėnuo. ^s-2e2cfc2310ed5d1dab778318
+3. Įsigaliojus šiam įstatymui, pirmą kartą sudarant Universiteto tarybą netaikomos Statuto [[#^s-677e67ba42781fcb3348110d|39 straipsnio 12 dalies]] nuostatos ir Statuto [[#^s-df8e5569ca38a4c74c76dbe2|39 straipsnio]] [[#^s-dd92d7a7ae35dd3b07bd44aa|8]], [[#^s-821f05009217ccb3cd3b8c1c|9]] ir [[#^s-60d05407c8ab71f0ebdb853a|11]] dalyse nustatyti terminai; šiuos terminus nustato Universiteto senatas, tačiau jie negali būti trumpesni negu vienas mėnuo. ^s-2e2cfc2310ed5d1dab778318
 
 
 4. Įsigaliojus šiam įstatymui, pirmą kartą renkant Universiteto rektorių netaikomas Statuto [[#^s-ab65ff0cdbd50ae7e16fff8f|44 straipsnio 4 dalyje]] nustatytas 4 mėnesių terminas. ^s-2e79d76e9c8704c0d1dddd59
@@ -115,7 +115,7 @@ suprasdama ypatingą Universiteto vaidmenį visose klasikinio universiteto prigi
 pasitikdama dabarties iššūkius, kuriuos globaliame pasaulyje mokslui ir studijoms meta vis intensyvėjantys žmonių, bendruomenių, tautų ir valstybių ryšiai;
 atsižvelgdama į vykstančią Lietuvos mokslo ir studijų institucijų sistemos pertvarką ir būdama įsitikinusi, kad bet kokia šios srities pertvarka turi būti tokia, kad skatintų Lietuvos visuomenės pažangą ir Tautos gerovę, gausintų šalies materialinius ir dvasinius išteklius, pažintines ir kūrybines galias;
 suvokdama savo atsakomybę Tautai ir Lietuvos valstybei, atvirumo ir atskaitomybės visuomenei būtinumą;
-vadovaudamasi Lietuvos Respublikos Konstitucija ir įstatymais, laiduojančiais Universiteto misijos ir veiklos tęstinumą, aukštųjų mokyklų autonomiją, kultūros, mokslo, tyrinėjimų ir dėstymo laisvę,
+vadovaudamasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA) ir įstatymais, laiduojančiais Universiteto misijos ir veiklos tęstinumą, aukštųjų mokyklų autonomiją, kultūros, mokslo, tyrinėjimų ir dėstymo laisvę,
 Universiteto misiją, struktūrą, veiklą ir valdymą grindžia šiuo Vilniaus universiteto statutu (toliau – Statutas).
 
 
@@ -283,7 +283,7 @@ UNIVERSITETO MISIJA, VEIKLOS TIKSLAI, SRITYS, RŪŠYS IR PRINCIPAI
 3. Universiteto veikla gali apimti ir kitų sričių bei rūšių veiklą, jeigu tai neprieštarauja Universiteto misijai, veiklos tikslams, uždaviniams ir principams. ^s-51a2561c169a12ca8173c8a5
 
 
-4. Statute vartojama sąvoka „akademinė veikla“ apima visas šio straipsnio 1 ir [[#^s-0cba0cf9f709e009eb00749e|2 dalyse]] nurodytas veiklos sritis ir rūšis. ^s-fd8391ad3c3247dc68e1ced2
+4. Statute vartojama sąvoka „akademinė veikla“ apima visas šio straipsnio [[#^s-90cd280b9f867228c0c4545e|1]] ir [[#^s-0cba0cf9f709e009eb00749e|2]] dalyse nurodytas veiklos sritis ir rūšis. ^s-fd8391ad3c3247dc68e1ced2
 
 
 5. Kilus abejonių, ar Universiteto arba jo vidinių organizacinių darinių veikla, Universiteto akademinės bendruomenės nario veikla atitinka Universiteto misiją, veiklos tikslus, principus ar uždavinius, šiuos klausimus akademinės etikos aspektu nagrinėja ir atitinkamus sprendimus Senatui, Tarybai, rektoriui, Universiteto vidinių organizacinių darinių valdymo (savivaldos) organams (vadovams) ar Universiteto studentų atstovybei (toliau – Studentų atstovybė) arba Universiteto ar jo kamieninių akademinių padalinių studentų organizacijoms pagal kompetenciją priimti siūlo Vilniaus universiteto centrinė akademinės etikos komisija (toliau – Centrinė akademinės etikos komisija) ir kamieninių akademinių padalinių akademinės etikos komisijos. ^s-0732e71210cfdd7b703a0863
@@ -378,7 +378,7 @@ MOKSLO, MENO VEIKLA IR STUDIJOS
 4. Doktorantūros arba meno aspirantūros studijas baigusiems ir (arba) disertaciją apgynusiems asmenims suteikiamas mokslo daktaro arba meno daktaro laipsnis ir išduodamas diplomas, liudijantis įgytą mokslo (meno) laipsnį. ^s-b50f5b00ebd94501de0727d4
 
 
-5. Universitetas greta šio straipsnio 1 ir [[#^s-b50f5b00ebd94501de0727d4|4 dalyse]] išvardytų laipsnių Senato nustatyta tvarka gali teikti ir kitus tarptautinės akademinės bendruomenės pripažįstamus laipsnius. ^s-e8895630d7ec020dd95863d8
+5. Universitetas greta šio straipsnio [[#^s-819ea9ade8a0cf78e728e7b1|1]] ir [[#^s-b50f5b00ebd94501de0727d4|4]] dalyse išvardytų laipsnių Senato nustatyta tvarka gali teikti ir kitus tarptautinės akademinės bendruomenės pripažįstamus laipsnius. ^s-e8895630d7ec020dd95863d8
 
 
 6. Rektorius Senato pritarimu panaikina asmeniui suteiktą kvalifikacinį, mokslo daktaro arba meno daktaro laipsnį (kartu ir atitinkamą diplomą) ar laipsnio nesuteikiančių studijų baigimo ir (arba) įgytos kvalifikacijos patvirtinimą (kartu ir atitinkamą pažymėjimą), jeigu tas laipsnis buvo įgytas ar studijos buvo baigtos (kvalifikacija buvo įgyta) asmeniui šiurkščiai pažeidus Lietuvos Respublikos ar Universiteto teisės aktus, tarp jų ir Akademinės etikos kodeksą. ^s-5be6da9c175807c17d0ad2ed
@@ -482,10 +482,10 @@ Universiteto bendruomenę sudaro:
 3) Universiteto alumnai; ^s-e6103b89e9d968d6b8df59cb
 
 
-4) nė vienai iš šio straipsnio 1, 2 ir [[#^s-e6103b89e9d968d6b8df59cb|3 punktuose]] nurodytų asmenų grupių nepriklausantys asmenys, kuriems suteiktas Universitetui nusipelniusio asmens garbės vardas (statusas) – Universiteto garbės daktarai, Universiteto garbės profesoriai, Universiteto mecenatai, Universiteto bendruomenės garbės nariai ir kt.; ^s-2ea4034e34076bbd26e5674c
+4) nė vienai iš šio straipsnio [[#^s-a6b47cb67c605886787caa88|1]], [[#^s-9200db944bb4f40b8e81c540|2]] ir [[#^s-e6103b89e9d968d6b8df59cb|3]] punktuose nurodytų asmenų grupių nepriklausantys asmenys, kuriems suteiktas Universitetui nusipelniusio asmens garbės vardas (statusas) – Universiteto garbės daktarai, Universiteto garbės profesoriai, Universiteto mecenatai, Universiteto bendruomenės garbės nariai ir kt.; ^s-2ea4034e34076bbd26e5674c
 
 
-5) Statuto [[#^s-e21057b9dd8de55705d20f69|39 straipsnio 2 dalies]] 3 ir [[#^s-2ea4034e34076bbd26e5674c|4 punktuose]] nurodyti Tarybos nariai. ^s-24a5fa10439e876d45325038
+5) Statuto [[#^s-e21057b9dd8de55705d20f69|39 straipsnio 2 dalies]] [[#^s-3563d97ae8a9d21106b8230d|3]] ir [[#^s-2e46d6773513f986f95207db|4]] punktuose nurodyti Tarybos nariai. ^s-24a5fa10439e876d45325038
 
 
 
@@ -544,7 +544,7 @@ UNIVERSITETO AKADEMINĖ BENDRUOMENĖ
 
 
 9. Dėstytojai ir mokslo (meno) darbuotojai, su kuriais yra sudaryta neterminuota darbo sutartis, yra atestuojami kas 5 metai. Pirmoji tokia atestacija rengiama likus ne daugiau kaip 3 mėnesiams iki 5 metų po neterminuotos darbo sutarties sudarymo pabaigos. Jeigu dėstytojas ar mokslo (meno) darbuotojas nėra atestuojamas, darbo sutartis su juo nutraukiama. Atsižvelgiant į neatestuoto asmens profesinę kvalifikaciją, dalykines savybes ir kitas svarbias aplinkybes, jam gali būti pasiūlytos kitos dėstytojo ar mokslo (meno) darbuotojo pareigos, bet ne ilgiau kaip 2 metams. Vyresni kaip 65 metų dėstytojai ir mokslo (meno) darbuotojai gali dirbti Universitete, jeigu Senatas pritaria, kad su jais būtų sudaryta terminuota darbo sutartis ne ilgesniam kaip 3 metų laikotarpiui. Tokia sutartis Senato sprendimu vieną kartą gali būti sudaroma pakartotinai. ^s-4e760a0a6872fde40ba7af63
-TAR pastaba. Pripažinti, kad Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymu (2014 m. gegužės 6 d. redakcija, TAR, 2014-05-20, Nr. 5522) patvirtinto Vilniaus universiteto statuto [[#^s-4e760a0a6872fde40ba7af63|15 straipsnio 9 dalies]] nuostata „Vyresni kaip 65 metų dėstytojai ir mokslo (meno) darbuotojai gali dirbti Universitete, jeigu Senatas pritaria, kad su jais būtų sudaryta terminuota darbo sutartis ne ilgesniam kaip 3 metų laikotarpiui. Tokia sutartis Senato sprendimu vieną kartą gali būti sudaroma pakartotinai“ tiek, kiek šia nuostata sudarytos prielaidos Senatui savo nuožiūra, nesant iš anksto žinomų kriterijų, pritarti terminuotų darbo sutarčių su vyresniais kaip 65 metų amžiaus dėstytojais ir mokslo (meno) darbuotojais sudarymui, prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-49970a2d893ff7aae0604647|29 straipsniui]], [[#^s-cb30b9513052ffd23e9ec1f8|48 straipsnio 1 dalies]] nuostatai „Kiekvienas žmogus gali laisvai pasirinkti darbą bei verslą“, konstituciniam teisinės valstybės principui.
+TAR pastaba. Pripažinti, kad Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymu (2014 m. gegužės 6 d. redakcija, TAR, 2014-05-20, Nr. 5522) patvirtinto Vilniaus universiteto statuto 15 straipsnio 9 dalies nuostata „Vyresni kaip 65 metų dėstytojai ir mokslo (meno) darbuotojai gali dirbti Universitete, jeigu Senatas pritaria, kad su jais būtų sudaryta terminuota darbo sutartis ne ilgesniam kaip 3 metų laikotarpiui. Tokia sutartis Senato sprendimu vieną kartą gali būti sudaroma pakartotinai“ tiek, kiek šia nuostata sudarytos prielaidos Senatui savo nuožiūra, nesant iš anksto žinomų kriterijų, pritarti terminuotų darbo sutarčių su vyresniais kaip 65 metų amžiaus dėstytojais ir mokslo (meno) darbuotojais sudarymui, prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-49970a2d893ff7aae0604647|29 straipsniui]], [[#^s-cb30b9513052ffd23e9ec1f8|48 straipsnio 1 dalies]] nuostatai „Kiekvienas žmogus gali laisvai pasirinkti darbą bei verslą“, konstituciniam teisinės valstybės principui.
 Straipsnio dalies pakeitimai:
 Nr. KT29-N1/2021, 2021-02-12, paskelbta TAR 2021-02-12, i. k. 2021-02775
 
@@ -714,13 +714,13 @@ GINČŲ TARP UNIVERSITETO BENDRUOMENĖS NARIŲ NAGRINĖJIMAS
 3. Centrinę ginčų nagrinėjimo komisiją sudaro ir jos pirmininką skiria Senatas, kamieninių akademinių padalinių ginčų nagrinėjimo komisijas sudaro ir jų pirmininkus skiria to padalinio taryba. Į atitinkamą komisiją skiriama po lygiai Universiteto ir Studentų atstovybės įgaliotų asmenų. Komisiją gali sudaryti ne mažiau kaip 4 ir ne daugiau kaip 8 nariai. ^s-2a015397a87ee0b07ec28fa8
 
 
-4. Jeigu šalys nesusitaria kitaip, ginčai nagrinėjami uždaruose šio straipsnio 1 ir [[#^s-4b4ffaa01e36204728f14e41|2 dalyse]] nurodytų komisijų posėdžiuose. Komisijų posėdžiai yra teisėti, jeigu juose dalyvauja ne mažiau kaip du trečdaliai komisijos narių, o sprendimai priimami daugiau kaip pusės posėdyje dalyvaujančių narių balsų dauguma. Balsams pasiskirsčius po lygiai, balsavimo rezultatą lemia posėdžio pirmininko balsas. ^s-dbdbc04b062393ebff8fe873
+4. Jeigu šalys nesusitaria kitaip, ginčai nagrinėjami uždaruose šio straipsnio [[#^s-1d763e763cf921d9f8dd31b1|1]] ir [[#^s-4b4ffaa01e36204728f14e41|2]] dalyse nurodytų komisijų posėdžiuose. Komisijų posėdžiai yra teisėti, jeigu juose dalyvauja ne mažiau kaip du trečdaliai komisijos narių, o sprendimai priimami daugiau kaip pusės posėdyje dalyvaujančių narių balsų dauguma. Balsams pasiskirsčius po lygiai, balsavimo rezultatą lemia posėdžio pirmininko balsas. ^s-dbdbc04b062393ebff8fe873
 
 
-5. Šio straipsnio 1 ir [[#^s-4b4ffaa01e36204728f14e41|2 dalyse]] nurodytos komisijos ginčus sprendžia vadovaudamosi šalių autonomijos, procesinio lygiateisiškumo, rungimosi, dispozityvumo, konfidencialumo, ekonomiškumo, kooperacijos ir operatyvumo principais. ^s-3de16e94d8f5a9070db4a8a4
+5. Šio straipsnio [[#^s-1d763e763cf921d9f8dd31b1|1]] ir [[#^s-4b4ffaa01e36204728f14e41|2]] dalyse nurodytos komisijos ginčus sprendžia vadovaudamosi šalių autonomijos, procesinio lygiateisiškumo, rungimosi, dispozityvumo, konfidencialumo, ekonomiškumo, kooperacijos ir operatyvumo principais. ^s-3de16e94d8f5a9070db4a8a4
 
 
-6. Šio straipsnio 1 ir [[#^s-4b4ffaa01e36204728f14e41|2 dalyse]] nurodytos komisijos veikia vadovaudamosi Senato patvirtintais šių komisijų nuostatais. ^s-20527cb64fd438be6d76eb93
+6. Šio straipsnio [[#^s-1d763e763cf921d9f8dd31b1|1]] ir [[#^s-4b4ffaa01e36204728f14e41|2]] dalyse nurodytos komisijos veikia vadovaudamosi Senato patvirtintais šių komisijų nuostatais. ^s-20527cb64fd438be6d76eb93
 
 
 7. Kamieninių akademinių padalinių ginčų nagrinėjimo komisijų sprendimai gali būti skundžiami Centrinei ginčų nagrinėjimo komisijai, o Centrinės ginčų nagrinėjimo komisijos sprendimas Universitete yra galutinis. ^s-e4512b455c4457fbfb77a928
@@ -854,7 +854,7 @@ SENATAS
 2) Senato pirmininko teikimu, laikydamasis Statuto [[#^s-23de688c282dadfbef6dad7c|34 straipsnio 6 dalyje]] nustatytos tvarkos, nustato naujos kadencijos Senato narių skaičių, kuris negali būti didesnis kaip 51, ir Senato narių rinkimų tvarką; ^s-77d4a408180b7ed743588c54
 
 
-3) nustato Statuto [[#^s-e21057b9dd8de55705d20f69|39 straipsnio 2 dalies]] 1 ir 3 punktuose nurodytų Tarybos narių rinkimų ir jų įgaliojimų nutraukimo vienu iš Statuto [[#^s-ae7e79cad76cf02cbc4a4134|39 straipsnio 19 dalyje]] nustatytų pagrindų tvarką; ^s-3ad9b9b5f91420efc2aaf5c2
+3) nustato Statuto [[#^s-e21057b9dd8de55705d20f69|39 straipsnio 2 dalies]] [[#^s-e8115e764a2ad0f8cba35d52|1]] ir [[#^s-3563d97ae8a9d21106b8230d|3]] punktuose nurodytų Tarybos narių rinkimų ir jų įgaliojimų nutraukimo vienu iš Statuto [[#^s-ae7e79cad76cf02cbc4a4134|39 straipsnio 19 dalyje]] nustatytų pagrindų tvarką; ^s-3ad9b9b5f91420efc2aaf5c2
 
 
 4) svarsto asmenų, iškėlusių savo kandidatūras į rektoriaus pareigas, kandidatūras ir teikia Tarybai išvadas dėl jų atitikties šioms pareigoms nustatytiems reikalavimams; ^s-94a925ff7d97d3c902c22427
@@ -1158,7 +1158,7 @@ TARYBA
 5) rektoriaus teikimu vieną iš prorektorių skiria eiti vicerektoriaus pareigas, nustato jo kompetenciją, funkcijas, įgaliojimus, reglamentuoja vicerektoriaus pavadavimą ir atleidimą iš pareigų; ^s-6f4d69f6687c18d4c47f2eee
 
 
-6) Statuto [[#^s-a787e333fa7b256ce3e78dc4|44 straipsnio]] 8, 10, 11, 12 ir 23 dalyse nustatytais pagrindais Tarybos pirmininko teikimu skiria vicerektorių arba vieną iš prorektorių laikinai eiti rektoriaus pareigas iki tol, kol įgaliojimus gaus naujas rektorius, laikinai pratęsia kadenciją baigusio rektoriaus paskirtų prorektorių ir kanclerio įgaliojimus iki tol, kol naujasis rektorius paskirs naujus prorektorius ir kanclerį; ^s-ce9c6d67418ee97a3b10f891
+6) Statuto [[#^s-a787e333fa7b256ce3e78dc4|44 straipsnio]] [[#^s-ba9a0144f0698ee31f10db5d|8]], [[#^s-61256732c15daec48c5f7ced|10]], [[#^s-169490b89eeae90688f59436|11]], [[#^s-39bec28292690f9404aa03ca|12]] ir 23 dalyse nustatytais pagrindais Tarybos pirmininko teikimu skiria vicerektorių arba vieną iš prorektorių laikinai eiti rektoriaus pareigas iki tol, kol įgaliojimus gaus naujas rektorius, laikinai pratęsia kadenciją baigusio rektoriaus paskirtų prorektorių ir kanclerio įgaliojimus iki tol, kol naujasis rektorius paskirs naujus prorektorius ir kanclerį; ^s-ce9c6d67418ee97a3b10f891
 
 
 7) konstatuoja, kad Tarybos nario įgaliojimai pasibaigė vienu iš Statuto 39 straipsnio 18 dalies 2-8 punktuose nustatytų pagrindų; ^s-d9064844f1f4ee540e706ab7
@@ -1230,7 +1230,7 @@ TARYBA
 29) vykdo kitus, Statute ir kituose teisės aktuose tiesiogiai nenurodytus įgaliojimus, susijusius su Statuto [[#^s-c9741d015ffdedfa121a8c4c|37 straipsnio 1 dalyje]] apibrėžta Tarybos paskirtimi. ^s-c733ef39d2a09a1edf77a086
 
 
-2. Kartu su [[#^s-dfdfe641d131548fcc9ca457|šio straipsnio 1 dalies]] 8, 9 ir 10 punktuose nurodytais Tarybos priimtais nutarimais Seimui arba Vyriausybei teikiamas ir Senato nutarimas, priimtas vykdant Statuto [[#^s-a9f2b054355a9a1c1e724aab|33 straipsnio 1 dalies]] 6 ir 7 punktuose numatytus įgaliojimus. ^s-9312f99977dec1c423189dd9
+2. Kartu su [[#^s-dfdfe641d131548fcc9ca457|šio straipsnio 1 dalies]] 8, 9 ir 10 punktuose nurodytais Tarybos priimtais nutarimais Seimui arba Vyriausybei teikiamas ir Senato nutarimas, priimtas vykdant Statuto [[#^s-a9f2b054355a9a1c1e724aab|33 straipsnio 1 dalies]] [[#^s-64ac5a068ad96357f077ffa4|6]] ir [[#^s-5952fa5493068cd5f9aad069|7]] punktuose numatytus įgaliojimus. ^s-9312f99977dec1c423189dd9
 
 
 
@@ -1364,7 +1364,7 @@ TARYBA
 3. Pirmojo naujos kadencijos Tarybos posėdžio datą nustato Senato pirmininkas likus ne mažiau kaip 2 savaitėms iki kadenciją baigiančios Tarybos kadencijos pabaigos ir apie jį iš anksto paskelbia viešai. Jeigu pirmasis naujos kadencijos Tarybos posėdis nebuvo sušauktas per Statuto [[#^s-392682976c85e434e09d4437|39 straipsnio 14 dalyje]] nurodytą laiką, kitą darbo dieną naujos kadencijos Tarybos nariai į posėdį renkasi patys, apie tai pranešę rektoriui. ^s-97d61d32e5a5393e27a9ae5d
 
 
-4. Pirmajam naujos kadencijos Tarybos posėdžiui pirmininkauja Centrinės rinkimų komisijos pirmininko pristatytas vyriausias posėdyje dalyvaujantis Tarybos narys. Pirmajame Tarybos posėdyje pirmiausia slaptu balsavimu iš Statuto [[#^s-e21057b9dd8de55705d20f69|39 straipsnio 2 dalies]] 3 ir 4 punktuose nurodytų Tarybos narių visų Tarybos narių balsų dauguma išrenkamas Tarybos pirmininkas, kuris toliau pirmininkauja posėdžiui. Tarybos pirmininko teikimu Taryba slaptu balsavimu paprasta posėdyje dalyvaujančių Tarybos narių balsų dauguma išrenka Tarybos pirmininko pavaduotoją. Tarybos pirmininko pavaduotoju negali būti Statuto [[#^s-8c72712568b3e87b871ea989|39 straipsnio 2 dalies 2 punkte]] nurodytas Tarybos narys. ^s-72829a1bfbc01af6d59ec676
+4. Pirmajam naujos kadencijos Tarybos posėdžiui pirmininkauja Centrinės rinkimų komisijos pirmininko pristatytas vyriausias posėdyje dalyvaujantis Tarybos narys. Pirmajame Tarybos posėdyje pirmiausia slaptu balsavimu iš Statuto [[#^s-e21057b9dd8de55705d20f69|39 straipsnio 2 dalies]] [[#^s-3563d97ae8a9d21106b8230d|3]] ir [[#^s-2e46d6773513f986f95207db|4]] punktuose nurodytų Tarybos narių visų Tarybos narių balsų dauguma išrenkamas Tarybos pirmininkas, kuris toliau pirmininkauja posėdžiui. Tarybos pirmininko teikimu Taryba slaptu balsavimu paprasta posėdyje dalyvaujančių Tarybos narių balsų dauguma išrenka Tarybos pirmininko pavaduotoją. Tarybos pirmininko pavaduotoju negali būti Statuto [[#^s-8c72712568b3e87b871ea989|39 straipsnio 2 dalies 2 punkte]] nurodytas Tarybos narys. ^s-72829a1bfbc01af6d59ec676
 
 
 5. Tarybos posėdis yra teisėtas, jeigu jame dalyvauja ne mažiau kaip aštuoni Tarybos nariai. ^s-199f3b099d93dad7424b4e5d
@@ -1607,10 +1607,10 @@ REKTORIUS
 7. Pasibaigus Rektoriaus rinkimų tvarkos apraše nustatytam laikui, per kurį galima kelti kandidatūras į rektoriaus pareigas, Centrinės rinkimų komisijos pirmininkas pristato Senatui svarstyti visų asmenų, registruotų kandidatais į rektoriaus pareigas, pareiškinius dokumentus. Senatas svarsto šias kandidatūras ir teikia Tarybai išvadas dėl jų tinkamumo eiti rektoriaus pareigas. Senatui pateikus išvadą, kad asmuo, iškėlęs savo kandidatūrą, netinka eiti rektoriaus pareigas, Taryba privalo ją įvertinti. ^s-b6f45049f1c09add3ffca305
 
 
-8. Taryba renka rektorių slaptu balsavimu, išskyrus šio straipsnio 10, 11 ir [[#^s-39bec28292690f9404aa03ca|12 dalyse]] numatytus atvejus. Jeigu iki tol, kol baigiasi kadenciją baigiančio rektoriaus įgaliojimai, naujas rektorius neišrenkamas, taip pat ir kai Tarybos nariai negali susirinkti į teisėtą posėdį dėl ligos ar force majeure aplinkybių, taikomos šio straipsnio 23 dalies nuostatos. ^s-ba9a0144f0698ee31f10db5d
+8. Taryba renka rektorių slaptu balsavimu, išskyrus šio straipsnio [[#^s-61256732c15daec48c5f7ced|10]], [[#^s-169490b89eeae90688f59436|11]] ir [[#^s-39bec28292690f9404aa03ca|12]] dalyse numatytus atvejus. Jeigu iki tol, kol baigiasi kadenciją baigiančio rektoriaus įgaliojimai, naujas rektorius neišrenkamas, taip pat ir kai Tarybos nariai negali susirinkti į teisėtą posėdį dėl ligos ar force majeure aplinkybių, taikomos šio straipsnio 23 dalies nuostatos. ^s-ba9a0144f0698ee31f10db5d
 
 
-9. Rektorius laikomas išrinktu, jeigu už jį balsavo ne mažiau kaip septyni Tarybos nariai, išskyrus šio straipsnio 10, 11 ir [[#^s-39bec28292690f9404aa03ca|12 dalyse]] numatytus atvejus. ^s-01b8f5f6c0eb5139d1799d81
+9. Rektorius laikomas išrinktu, jeigu už jį balsavo ne mažiau kaip septyni Tarybos nariai, išskyrus šio straipsnio [[#^s-61256732c15daec48c5f7ced|10]], [[#^s-169490b89eeae90688f59436|11]] ir [[#^s-39bec28292690f9404aa03ca|12]] dalyse numatytus atvejus. ^s-01b8f5f6c0eb5139d1799d81
 
 
 10. Jeigu rektoriaus rinkimuose dalyvauja ne daugiau kaip du kandidatai ir nė vienas iš jų Tarybos narių slaptu balsavimu nesurenka [[#^s-01b8f5f6c0eb5139d1799d81|šio straipsnio 9 dalyje]] nustatytos balsų daugumos, šis balsavimas laikomas pirmuoju balsavimo ratu ir rengiamas antrasis balsavimo ratas – pakartotinis balsavimas, kuriame rektorius išrenkamas paprasta balsų dauguma, kiekvienam posėdyje dalyvaujančiam Tarybos nariui balsuojant atvirai už arba prieš pirmajame balsavimo rate dalyvavusius kandidatus. Balsams pasiskirsčius po lygiai, balsavimo rezultatą lemia posėdžiui pirmininkaujančio Tarybos nario balsas. ^s-61256732c15daec48c5f7ced
@@ -1884,8 +1884,8 @@ Pakeitimai:
 
 1.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. VIII-1586, 2000-03-21, Žin., 2000, Nr. 27-715 (2000-03-31), i. k. 1001010ISTAIII-1586
-Lietuvos Respublikos aukštojo mokslo įstatymas
+Nr. VIII-1586, 2000-03-21, Žin., 2000, Nr. 27-715 (2000-03-31), i. k. [1001010ISTAIII-1586](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F)
+[Lietuvos Respublikos aukštojo mokslo įstatymas](https://e-tar.lt/portal/lt/legalAct/TAR.E064628D5A4F)
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1905,4 +1905,4 @@ Lietuvos Respublikos Vilniaus universiteto statuto patvirtinimo įstatymo Nr. I-
 5.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT29-N1/2021, 2021-02-12, paskelbta TAR 2021-02-12, i. k. 2021-02775
-Dėl Lietuvos Respublikos Vilniaus universiteto statuto [[#^s-4e760a0a6872fde40ba7af63|15 straipsnio 9 dalies]] nuostatos atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos Vilniaus universiteto statuto 15 straipsnio 9 dalies nuostatos atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/a53122406d3f11eb9601893677bfd7d8)

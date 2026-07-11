@@ -88,7 +88,7 @@ Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 5. Paprastoji savivaldybės tarybos kompetencija – įstatymų nustatyta kompetencija, kurią savivaldybės taryba įgyvendina pati arba gali perduoti savivaldybės merui savo nustatyta tvarka. ^s-993a0d43d979ca67cc996ec2
 
 
-6. Savivaldybė – [[latest/TAR.0120FD7BCFFC|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo]] nustatytas valstybės teritorijos administracinis vienetas, kurio bendruomenė turi Lietuvos Respublikos Konstitucijos laiduotą savivaldos teisę, įgyvendinamą per to valstybės teritorijos administracinio vieneto nuolatinių gyventojų Lietuvos Respublikos rinkimų kodekso nustatyta tvarka išrinktus savivaldybės tarybą ir savivaldybės merą. Savivaldybė yra viešasis juridinis asmuo. ^s-474b05cd64e076eee61e0c6a
+6. Savivaldybė – [[latest/TAR.0120FD7BCFFC|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymo]] nustatytas valstybės teritorijos administracinis vienetas, kurio bendruomenė turi Lietuvos Respublikos Konstitucijos laiduotą savivaldos teisę, įgyvendinamą per to valstybės teritorijos administracinio vieneto nuolatinių gyventojų [Lietuvos Respublikos rinkimų kodekso](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) nustatyta tvarka išrinktus savivaldybės tarybą ir savivaldybės merą. Savivaldybė yra viešasis juridinis asmuo. ^s-474b05cd64e076eee61e0c6a
 
 
 7. Savivaldybės administravimo subjektai – savivaldybės institucijos ir įstaigos, kiti subjektai, turintys teisės aktų suteiktus įgaliojimus, atliekantys jiems pavestas viešojo administravimo funkcijas ir atsakingi už šių funkcijų įgyvendinimą. ^s-38154444958f732cfd99bcd4
@@ -581,7 +581,7 @@ Nr. XIV-2460, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25954
 1) šio įstatymo nustatyta tvarka rinkti ir būti išrinktas į pareigas savivaldybės tarybos struktūriniuose padaliniuose; ^s-ede09c92ba0112dc8d3956c3
 
 
-2) savivaldybės tarybos reglamento (toliau – reglamentas) nustatyta tvarka siūlyti savivaldybės tarybai svarstyti klausimus, rengti savivaldybės tarybos sprendimų projektus, dalyvauti diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas dėl savivaldybės tarybos sprendimų projektų, dėl savivaldybės tarybos darbo tvarkos ir kitais klausimais, savivaldybės tarybos posėdžio metu užduoti klausimų pranešėjams, kalbėti dėl posėdžio vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės teritorijoje, vadovus ir valstybės tarnautojus; ^s-ad7adc30fe3096f5211bc7b8
+2) savivaldybės tarybos reglamento (toliau – reglamentas) nustatyta tvarka siūlyti savivaldybės tarybai svarstyti klausimus, rengti savivaldybės tarybos sprendimų projektus, dalyvauti diskusijose svarstomais klausimais, raštu ir žodžiu pateikti pastabas [dėl savivaldybės tarybos sprendimų](https://e-tar.lt/portal/lt/legalAct/355fa5c08a0111e6b969d7ae07280e89) projektų, dėl savivaldybės tarybos darbo tvarkos ir kitais klausimais, savivaldybės tarybos posėdžio metu užduoti klausimų pranešėjams, kalbėti dėl posėdžio vedimo tvarkos, kreiptis su paklausimais į savivaldybės institucijų, savivaldybės administracijos, kitų savivaldybės įstaigų, įmonių ir organizacijų, taip pat valstybės institucijų, kurios veikia savivaldybės teritorijoje, vadovus ir valstybės tarnautojus; ^s-ad7adc30fe3096f5211bc7b8
 Straipsnio punkto pakeitimai:
 Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 
@@ -596,7 +596,7 @@ Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 5) gauti iš savivaldybės administracijos darbo vietą posėdžiui ir pagalbą savivaldybės tarybos nario įgaliojimams vykdyti; ^s-25e6c947e0fc025e4dcfb22f
 
 
-6) gauti iš mero, vicemero, savivaldybės administracijos direktoriaus, savivaldybės administracijos ar kitų savivaldybės įstaigų, savivaldybės valdomų įmonių informaciją, įskaitant dokumentus ir kitą medžiagą, kuri būtina tarybos nario funkcijoms atlikti. Ši informacija pateikiama susipažinti tarybos nariui laikantis įstatymų nustatytos tvarkos, taikomos susipažinimui su valstybės, tarnybos, komercinę paslaptį sudarančia, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusia informacija. Ši informacija tarybos nariui gali būti suteikiama duodant prieigą prie savivaldybės elektroninės dokumentų valdymo sistemos; ^s-6767763475f547534968f4da
+6) gauti iš mero, vicemero, savivaldybės administracijos direktoriaus, savivaldybės administracijos ar kitų savivaldybės įstaigų, savivaldybės valdomų įmonių informaciją, įskaitant dokumentus ir kitą medžiagą, kuri būtina tarybos nario funkcijoms atlikti. Ši informacija pateikiama susipažinti tarybos nariui laikantis įstatymų nustatytos tvarkos, taikomos susipažinimui su valstybės, tarnybos, komercinę paslaptį sudarančia, su asmens duomenimis, kurių viešinimas neatitiktų [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) reikalavimų, susijusia informacija. Ši informacija tarybos nariui gali būti suteikiama duodant prieigą prie savivaldybės elektroninės dokumentų valdymo sistemos; ^s-6767763475f547534968f4da
 Papildyta straipsnio punktu:
 Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 
@@ -852,7 +852,7 @@ Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 
 
 
-20) sprendimų dėl savivaldybei patikėjimo teise perduotos valstybinės žemės valdymo, naudojimo ir disponavimo ja, išskyrus sprendimus ir sutikimus, nurodytus šio įstatymo [[#^s-d30f978fb3cace5c40e768d0|27 straipsnio 2 dalies]] 29 ir 291 punktuose, ir sprendimų dėl sutikimo perimti kitą valstybės turtą savivaldybės nuosavybėn priėmimas; ^s-11da2c8069897d875a378e1d
+20) sprendimų dėl savivaldybei patikėjimo teise perduotos valstybinės žemės valdymo, naudojimo ir disponavimo ja, išskyrus sprendimus ir sutikimus, nurodytus šio įstatymo [[#^s-d30f978fb3cace5c40e768d0|27 straipsnio 2 dalies]] [[#^s-05c8757706f8200f83f302bc|29]] ir [[#^s-1c4420f61c372adbefaae430|291]] punktuose, ir sprendimų dėl sutikimo perimti kitą valstybės turtą savivaldybės nuosavybėn priėmimas; ^s-11da2c8069897d875a378e1d
 Straipsnio punkto pakeitimai:
 Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 Nr. XV-706, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23006
@@ -866,7 +866,7 @@ Nr. XIV-2328, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25315
 
 
 
-22) įstatymų nustatyta tvarka gavus savivaldybės kontrolės ir audito tarnybos išvadą, sprendimų dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo priėmimas; gavus savivaldybės kontrolės ir audito tarnybos išvadą, pritarimas galutinėms viešojo ir privataus sektorių partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų; ^s-e5970a5d4d970500146abd60
+22) įstatymų nustatyta tvarka gavus savivaldybės kontrolės ir audito tarnybos išvadą, sprendimų [dėl viešojo ir privataus sektorių partnerystės](https://e-tar.lt/portal/lt/legalAct/TAR.EECA40CA2BED) projektų įgyvendinimo tikslingumo priėmimas; gavus savivaldybės kontrolės ir audito tarnybos išvadą, pritarimas galutinėms viešojo ir privataus sektorių partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime [dėl viešojo ir privataus sektorių partnerystės](https://e-tar.lt/portal/lt/legalAct/TAR.EECA40CA2BED) projektų įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų; ^s-e5970a5d4d970500146abd60
 
 
 23) sprendimų dėl savivaldybės būsto ir socialinio būsto fondo sudarymo (statybos, pirkimo ir kitų) tvarkos, būsto suteikimo tvarkos ir nuomos mokesčio dydžio priėmimas, kitų sprendimų, numatytų [[latest/e944ee00600111e4bad5c03f56793630|Paramos būstui įsigyti ar išsinuomoti įstatyme]], priėmimas; ^s-de43518a668a83f85b7909d1
@@ -893,7 +893,7 @@ Nr. XIV-1828, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05501
 
 
 
-30) sprendimų dėl kompensacijų tam tikroms vartotojų grupėms mokėjimo priėmimas, papildomos socialinės paramos, socialinių pašalpų ir kompensacijų skyrimo iš savivaldybės biudžeto tvarkos nustatymas, priedo fiziniam asmeniui (globėjui (rūpintojui) už vaiko globą (rūpybą) dydžio ir mokėjimo iš savivaldybės biudžeto tvarkos nustatymas; ^s-bed2b41fd8d3dc448dcf81dc
+30) sprendimų [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) tam tikroms vartotojų grupėms mokėjimo priėmimas, papildomos socialinės paramos, socialinių pašalpų ir kompensacijų skyrimo iš savivaldybės biudžeto tvarkos nustatymas, priedo fiziniam asmeniui (globėjui (rūpintojui) už vaiko globą (rūpybą) dydžio ir mokėjimo iš savivaldybės biudžeto tvarkos nustatymas; ^s-bed2b41fd8d3dc448dcf81dc
 
 
 31) biudžetinės įstaigos vardu gautos paramos skirstymo taisyklių nustatymas; ^s-4f68adbd6b175bdfb227557c
@@ -988,13 +988,13 @@ Nr. XIV-1828, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05501
 1. Savivaldybės tarybos posėdis yra teisėtas, jeigu jame dalyvauja daugiau kaip pusė išrinktų savivaldybės tarybos narių. ^s-50749b5a75231f77d26c4bb5
 
 
-2. Pirmąjį išrinktos naujos savivaldybės tarybos posėdį šaukia savivaldybės rinkimų komisijos pirmininkas ne anksčiau kaip ankstesnės kadencijos savivaldybės tarybos įgaliojimų paskutinę dieną ir ne vėliau kaip praėjus 7 kalendorinėms dienoms nuo ankstesnės kadencijos savivaldybės tarybos įgaliojimų paskutinės dienos, kuri nustatoma vadovaujantis Konstitucijos 119 straipsniu, o jeigu savivaldybės tarybos rinkimai vyko įsteigtoje naujoje savivaldybėje arba savivaldybėje, kurios teritorijoje buvo įvestas tiesioginis valdymas ar buvo surengti pakartotiniai rinkimai Lietuvos Respublikos rinkimų kodekso [[#^s-b3a1f6c83e7fbd61c0715a63|14 straipsnyje]] numatytu atveju, – ne vėliau kaip per 2 savaites po galutinių rinkimų rezultatų paskelbimo dienos. Šiam posėdžiui pirmininkauja savivaldybės rinkimų komisijos pirmininkas arba jo įgaliotas savivaldybės rinkimų komisijos narys. Apie pirmojo posėdžio sušaukimo laiką ir vietą savivaldybės rinkimų komisijos pirmininkas ne vėliau kaip prieš 14 kalendorinių dienų paskelbia savivaldybės interneto svetainėje. ^s-eb4fad03be6d20d3ea125212
+2. Pirmąjį išrinktos naujos savivaldybės tarybos posėdį šaukia savivaldybės rinkimų komisijos pirmininkas ne anksčiau kaip ankstesnės kadencijos savivaldybės tarybos įgaliojimų paskutinę dieną ir ne vėliau kaip praėjus 7 kalendorinėms dienoms nuo ankstesnės kadencijos savivaldybės tarybos įgaliojimų paskutinės dienos, kuri nustatoma vadovaujantis Konstitucijos 119 straipsniu, o jeigu savivaldybės tarybos rinkimai vyko įsteigtoje naujoje savivaldybėje arba savivaldybėje, kurios teritorijoje buvo įvestas tiesioginis valdymas ar buvo surengti pakartotiniai rinkimai [Lietuvos Respublikos rinkimų kodekso 14 straipsnyje](https://e-tar.lt/portal/lt/legalAct/418f26f0082b11edb4cae1b158f98ea5) numatytu atveju, – ne vėliau kaip per 2 savaites po galutinių rinkimų rezultatų paskelbimo dienos. Šiam posėdžiui pirmininkauja savivaldybės rinkimų komisijos pirmininkas arba jo įgaliotas savivaldybės rinkimų komisijos narys. Apie pirmojo posėdžio sušaukimo laiką ir vietą savivaldybės rinkimų komisijos pirmininkas ne vėliau kaip prieš 14 kalendorinių dienų paskelbia savivaldybės interneto svetainėje. ^s-eb4fad03be6d20d3ea125212
 
 
 3. Jeigu savivaldybės rinkimų komisijos pirmininkas išrinktos naujos savivaldybės tarybos pirmojo posėdžio nesušaukia iki [[#^s-eb4fad03be6d20d3ea125212|šio straipsnio 2 dalyje]] nustatyto termino pabaigos, suėjus nustatytam terminui, savivaldybės tarybos posėdį ne vėliau kaip per 5 kalendorines dienas šaukia Vyriausioji rinkimų komisija. Šiuo atveju posėdžiui pirmininkauja Vyriausiosios rinkimų komisijos paskirtas Vyriausiosios rinkimų komisijos narys. ^s-2a42de19fea5a9b19c68505d
 
 
-4. Pirmajam ir kitiems išrinktos naujos savivaldybės tarybos posėdžiams, iki prisiekia išrinkti tarybos nariai ir meras, pirmininkauja šio straipsnio 2 ir [[#^s-2a42de19fea5a9b19c68505d|3 dalyse]] nustatyti asmenys. Prisiekus tarybos nariams ir merui, toliau posėdžiui pirmininkauja meras. ^s-85e1e5087b1d0fea193da048
+4. Pirmajam ir kitiems išrinktos naujos savivaldybės tarybos posėdžiams, iki prisiekia išrinkti tarybos nariai ir meras, pirmininkauja šio straipsnio [[#^s-eb4fad03be6d20d3ea125212|2]] ir [[#^s-2a42de19fea5a9b19c68505d|3]] dalyse nustatyti asmenys. Prisiekus tarybos nariams ir merui, toliau posėdžiui pirmininkauja meras. ^s-85e1e5087b1d0fea193da048
 
 
 5. Pirmajame išrinktos naujos savivaldybės tarybos posėdyje: ^s-bc81af41189446e9ccfb799b
@@ -1183,7 +1183,7 @@ Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
 5) svarsto savivaldybės kontrolės ir audito tarnybos atliktų auditų ataskaitas ir jų išvadų pagrindu rengia ir teikia savivaldybės tarybai išvadas dėl savivaldybės turto ir lėšų naudojimo teisėtumo, tikslingumo ir efektyvumo; ^s-33995a207f28bdee64356884
 
 
-6) siūlo savivaldybės tarybai atlikti nepriklausomą savivaldybės turto ir lėšų naudojimo bei savivaldybės veiklos auditą, teikia savo išvadas dėl audito rezultatų; ^s-c67e91dbb4ab6979f64e4adc
+6) siūlo savivaldybės tarybai atlikti nepriklausomą savivaldybės turto ir lėšų naudojimo bei savivaldybės veiklos auditą, teikia savo išvadas [dėl audito](https://e-tar.lt/portal/lt/legalAct/TAR.434ABCB25145) rezultatų; ^s-c67e91dbb4ab6979f64e4adc
 
 
 7) periodiškai (kartą per ketvirtį) svarsto, kaip vykdomas savivaldybės kontrolės ir audito tarnybos veiklos planas, savivaldybės kontrolės ir audito tarnybos ar savo iniciatyva išklauso institucijų, įstaigų ir įmonių vadovus dėl savivaldybės kontrolės ir audito tarnybos atlikto atitikties, finansinio ir veiklos audito metu nustatytų trūkumų ar teisės aktų pažeidimų pašalinimo, prireikus kreipiasi pagal kompetenciją į merą ir (ar) į savivaldybės tarybą dėl savivaldybės kontrolės ir audito tarnybos reikalavimų įvykdymo; ^s-2cd8c155932d355e1ae520ca
@@ -1212,7 +1212,7 @@ Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 3. Savivaldybės tarybos komitetų posėdžių darbotvarkės ne vėliau kaip likus 2 darbo dienoms iki komiteto posėdžio pradžios skelbiamos savivaldybės interneto svetainėje. Apie komiteto posėdžio laiką ir svarstyti parengtus klausimus ne vėliau kaip likus 2 darbo dienoms iki komiteto posėdžio pradžios reglamento nustatyta tvarka pranešama visiems komiteto nariams ir suinteresuotiems asmenims. ^s-d67994f29543a2f89574d692
 
 
-4. Savivaldybės tarybos komitetų posėdžių metu daromas garso ir vaizdo įrašas. Komitetų posėdžiai, siekiant veiklos viešumo ir skaidrumo, išskyrus uždarus posėdžius, transliuojami tiesiogiai ir komitetų posėdžių garso ir vaizdo įrašai [[latest/TAR.1FEF229DA7C6|Dokumentų ir archyvų įstatymo]] nustatyta tvarka saugomi informacinėse laikmenose ir skelbiami viešai reglamento nustatyta tvarka savivaldybės interneto svetainėje. Svarstant valstybės, tarnybos, komercinę paslaptį sudarančią, su asmens duomenimis, kurių viešinimas neatitiktų 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (toliau – Reglamentas (ES) 2016/679) reikalavimų, susijusią informaciją ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusios informacijos, projektus, posėdžių garso ir vaizdo įrašai neviešinami. ^s-736dace6f77418fa72fa26aa
+4. Savivaldybės tarybos komitetų posėdžių metu daromas garso ir vaizdo įrašas. Komitetų posėdžiai, siekiant veiklos viešumo ir skaidrumo, išskyrus uždarus posėdžius, transliuojami tiesiogiai ir komitetų posėdžių garso ir vaizdo įrašai [[latest/TAR.1FEF229DA7C6|Dokumentų ir archyvų įstatymo]] nustatyta tvarka saugomi informacinėse laikmenose ir skelbiami viešai reglamento nustatyta tvarka savivaldybės interneto svetainėje. Svarstant valstybės, tarnybos, komercinę paslaptį sudarančią, su asmens duomenimis, kurių viešinimas neatitiktų 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (toliau – [Reglamentas (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj)) reikalavimų, susijusią informaciją ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) reikalavimų, susijusios informacijos, projektus, posėdžių garso ir vaizdo įrašai neviešinami. ^s-736dace6f77418fa72fa26aa
 
 
 5. Savivaldybės tarybos komiteto pirmininkas turi teisę gauti komiteto įgaliojimams vykdyti reikalingą informaciją iš valstybės ar savivaldybės institucijų, įstaigų ir valstybės ar savivaldybės valdomų įmonių. ^s-bca76f4ddf40bdddd207be20
@@ -1264,7 +1264,7 @@ Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 6. Savivaldybės tarybos komisijų darbe patariamojo balso teise reglamento nustatyta tvarka gali dalyvauti joms nepriklausantys tarybos nariai, suinteresuoti asmenys. ^s-957bf940d8f72bef015185ef
 
 
-7. Savivaldybės tarybos komisijų posėdžių metu daromas garso ir vaizdo įrašas. Komisijų posėdžiai, išskyrus komisijų uždarus posėdžius, transliuojami tiesiogiai ir komisijų posėdžių garso ir vaizdo įrašai [[latest/TAR.1FEF229DA7C6|Dokumentų ir archyvų įstatymo]] nustatyta tvarka saugomi informacinėse laikmenose ir skelbiami viešai reglamento nustatyta tvarka savivaldybės interneto svetainėje. Svarstant valstybės, tarnybos, komercinę paslaptį sudarančią, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusią informaciją ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusios informacijos, projektus, posėdžių garso ir vaizdo įrašai neviešinami. ^s-37eb3ef1f5b6377aa61234eb
+7. Savivaldybės tarybos komisijų posėdžių metu daromas garso ir vaizdo įrašas. Komisijų posėdžiai, išskyrus komisijų uždarus posėdžius, transliuojami tiesiogiai ir komisijų posėdžių garso ir vaizdo įrašai [[latest/TAR.1FEF229DA7C6|Dokumentų ir archyvų įstatymo]] nustatyta tvarka saugomi informacinėse laikmenose ir skelbiami viešai reglamento nustatyta tvarka savivaldybės interneto svetainėje. Svarstant valstybės, tarnybos, komercinę paslaptį sudarančią, su asmens duomenimis, kurių viešinimas neatitiktų [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) reikalavimų, susijusią informaciją ir (ar) teisės aktų, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios, su asmens duomenimis, kurių viešinimas neatitiktų [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) reikalavimų, susijusios informacijos, projektus, posėdžių garso ir vaizdo įrašai neviešinami. ^s-37eb3ef1f5b6377aa61234eb
 Straipsnio dalies pakeitimai:
 Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 Nr. XV-342, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12012
@@ -1357,7 +1357,7 @@ Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 2) dalyvauja rengiant savivaldybės korupcijos prevencijos veiksmų planą ir teikia išvadas merui ir savivaldybės tarybai dėl šio veiksmų plano ir jo įgyvendinimo; ^s-b70aa96885fb395bd9cbc99b
 
 
-3) nagrinėja savivaldybės bendruomenės narių, valstybės institucijų, gyvenamųjų vietovių bendruomenių ar bendruomeninių organizacijų atstovų siūlymus ir pastabas dėl kovos su korupcija priemonių vykdymo; ^s-213ff1ad64083a569a5ee96a
+3) nagrinėja savivaldybės bendruomenės narių, valstybės institucijų, gyvenamųjų vietovių bendruomenių ar bendruomeninių organizacijų atstovų siūlymus ir pastabas [dėl kovos su korupcija](https://e-tar.lt/portal/lt/legalAct/TAR.3CB207106C6D) priemonių vykdymo; ^s-213ff1ad64083a569a5ee96a
 
 
 4) informuoja visuomenę apie savo veiklą, vykdomas korupcijos prevencijos priemones savivaldybėje, taip pat apie kovos su korupcija rezultatus; ^s-408bbf7a741975ca51a86149
@@ -1405,7 +1405,7 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 4) būtų deramai atstovaujama savivaldybės interesams bendradarbiaujant ir sprendžiant klausimus su valstybės valdžios ir valstybinio administravimo subjektais, teisėsaugos institucijomis, nevyriausybinėmis organizacijomis, užsienio valstybių savivaldybėmis. ^s-4b88a4c8d94e9f80e27ac0df
 
 
-5. Mero sprendimai įforminami potvarkiais. Mero potvarkiai skelbiami savivaldybės interneto svetainėje teisės aktų nustatyta tvarka, išskyrus potvarkius, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios arba su asmens duomenimis, kurių skelbimas neatitiktų Reglamento (ES) 2016/679 reikalavimų, susijusios informacijos. ^s-5590df04ff3b08cda4a95aee
+5. Mero sprendimai įforminami potvarkiais. Mero potvarkiai skelbiami savivaldybės interneto svetainėje teisės aktų nustatyta tvarka, išskyrus potvarkius, kuriuose yra valstybės, tarnybos, komercinę paslaptį sudarančios arba su asmens duomenimis, kurių skelbimas neatitiktų [Reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) reikalavimų, susijusios informacijos. ^s-5590df04ff3b08cda4a95aee
 Straipsnio dalies pakeitimai:
 Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 Nr. XV-145, 2025-04-08, paskelbta TAR 2025-04-14, i. k. 2025-06513
@@ -1666,7 +1666,7 @@ Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 1. Merą pavaduoja mero paskirtas vicemeras, kai: ^s-b6fb6fd1dc0ad7887a246b2b
 
 
-1) meras dėl atostogų, laikinojo nedarbingumo, nusišalinimo ar kitų pateisinamų priežasčių laikinai neina savo pareigų; ^s-c88014731b415a2ad7778402
+1) meras [dėl atostogų](https://e-tar.lt/portal/lt/legalAct/213d0c608f4211e4a98a9f2247652cf4), laikinojo nedarbingumo, nusišalinimo ar kitų pateisinamų priežasčių laikinai neina savo pareigų; ^s-c88014731b415a2ad7778402
 Straipsnio punkto pakeitimai:
 Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 
@@ -1675,7 +1675,7 @@ Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 2) mero įgaliojimai sustabdyti teismo nutartimi. ^s-390d0d7fab0bb2b9e247ac91
 
 
-2. Merą pavaduojantis vicemeras vykdo visus šiame ir kituose įstatymuose nustatytus mero įgaliojimus, išskyrus nustatytuosius šio įstatymo [[#^s-d30f978fb3cace5c40e768d0|27 straipsnio 2 dalies]] 4, 5, 7, 15, 19, 20 ir 21 punktuose. Vicemerui pavaduojant merą, šio įstatymo [[#^s-84ea70f496ec64ee1642d52e|27 straipsnio 2 dalies 15 punkte]] nustatytus mero įgaliojimus vykdo savivaldybės taryba, o šio įstatymo [[#^s-d30f978fb3cace5c40e768d0|27 straipsnio 2 dalies]] 4, 5 ir 7 punktuose nustatytus mero įgaliojimus – laikinai savivaldybės tarybos paskirtas tarybos narys. ^s-44618a463868c8049524544f
+2. Merą pavaduojantis vicemeras vykdo visus šiame ir kituose įstatymuose nustatytus mero įgaliojimus, išskyrus nustatytuosius šio įstatymo [[#^s-d30f978fb3cace5c40e768d0|27 straipsnio 2 dalies]] [[#^s-a25389554dd0892b58ce45e7|4]], [[#^s-78b46fb4f624df36fb7b8393|5]], [[#^s-a39820b0f524c1324e1863c0|7]], [[#^s-84ea70f496ec64ee1642d52e|15]], [[#^s-3196162c7abbee574c5f479a|19]], [[#^s-04d320b11ebd960596cb928c|20]] ir [[#^s-a7d4ff2661e2f55deb46ef54|21]] punktuose. Vicemerui pavaduojant merą, šio įstatymo [[#^s-84ea70f496ec64ee1642d52e|27 straipsnio 2 dalies 15 punkte]] nustatytus mero įgaliojimus vykdo savivaldybės taryba, o šio įstatymo [[#^s-d30f978fb3cace5c40e768d0|27 straipsnio 2 dalies]] [[#^s-a25389554dd0892b58ce45e7|4]], [[#^s-78b46fb4f624df36fb7b8393|5]] ir [[#^s-a39820b0f524c1324e1863c0|7]] punktuose nustatytus mero įgaliojimus – laikinai savivaldybės tarybos paskirtas tarybos narys. ^s-44618a463868c8049524544f
 Straipsnio dalies pakeitimai:
 Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
@@ -1691,7 +1691,7 @@ Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 2) išrinktas neprisiekęs meras netenka mandato ar mero rinkimų rezultatai pripažįstami negaliojančiais. ^s-c62975859e22d58e5b8a5e9f
 
 
-4. Mero pareigas laikinai einantis savivaldybės tarybos paskirtas tarybos narys vykdo visus mero įgaliojimus, išskyrus nustatytuosius šio įstatymo [[#^s-d30f978fb3cace5c40e768d0|27 straipsnio 2 dalies]] 15, 20 ir 21 punktuose. Šiuo atveju mero įgaliojimus, nustatytus šio įstatymo [[#^s-84ea70f496ec64ee1642d52e|27 straipsnio 2 dalies 15 punkte]], vykdo savivaldybės taryba. ^s-353655f2eb2acab703a50980
+4. Mero pareigas laikinai einantis savivaldybės tarybos paskirtas tarybos narys vykdo visus mero įgaliojimus, išskyrus nustatytuosius šio įstatymo [[#^s-d30f978fb3cace5c40e768d0|27 straipsnio 2 dalies]] [[#^s-84ea70f496ec64ee1642d52e|15]], [[#^s-04d320b11ebd960596cb928c|20]] ir [[#^s-a7d4ff2661e2f55deb46ef54|21]] punktuose. Šiuo atveju mero įgaliojimus, nustatytus šio įstatymo [[#^s-84ea70f496ec64ee1642d52e|27 straipsnio 2 dalies 15 punkte]], vykdo savivaldybės taryba. ^s-353655f2eb2acab703a50980
 Straipsnio dalies pakeitimai:
 Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
 
@@ -1771,7 +1771,7 @@ Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 5) rengia savivaldybės administracijos direktoriaus įsakymų projektus, savivaldybės institucijų sprendimų ir potvarkių projektus; ^s-4e5d79c2e8fdad2be83fcfd4
 
 
-6) reglamento nustatyta tvarka ne vėliau kaip per 10 darbo dienų nuo savivaldybės tarybos sprendimo projekto registravimo dienos pateikia išvadas dėl savivaldybės tarybos sprendimo projekto, išskyrus [[#^s-4e5d79c2e8fdad2be83fcfd4|šios dalies 5 punkte]] ir šio įstatymo [[#^s-e3100613296ec798e1b9e076|17 straipsnio 12 dalyje]] nurodytus sprendimų projektus. Jeigu savivaldybės tarybos sprendimo projektas didelės apimties, savivaldybės administracijos direktoriaus įsakymu išvadų pateikimo terminas vieną kartą gali būti pratęstas iki 10 darbo dienų. Šio įstatymo [[#^s-e3100613296ec798e1b9e076|17 straipsnio 12 dalyje]] nustatytu atveju išvada pateikiama reglamento nustatyta tvarka iki savivaldybės tarybos posėdžio; ^s-2d9353e66d8369cc66832e67
+6) reglamento nustatyta tvarka ne vėliau kaip per 10 darbo dienų nuo savivaldybės tarybos sprendimo projekto registravimo dienos pateikia išvadas dėl savivaldybės tarybos sprendimo projekto, išskyrus šios dalies 5 punkte ir šio įstatymo 17 straipsnio 12 dalyje nurodytus sprendimų projektus. Jeigu savivaldybės tarybos sprendimo projektas didelės apimties, savivaldybės administracijos direktoriaus įsakymu išvadų pateikimo terminas vieną kartą gali būti pratęstas iki 10 darbo dienų. Šio įstatymo [[#^s-e3100613296ec798e1b9e076|17 straipsnio 12 dalyje]] nustatytu atveju išvada pateikiama reglamento nustatyta tvarka iki savivaldybės tarybos posėdžio; ^s-2d9353e66d8369cc66832e67
 Straipsnio punkto pakeitimai:
 Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 
@@ -1910,7 +1910,7 @@ Nr. XIV-2328, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25315
 
 
 
-9. Seniūną ir seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymu]]. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant [[latest/TAR.D3ED3792F52B#^s-184f5a4b0434c749c63b830c|Valstybės tarnybos įstatymo 33 straipsnio]] 1 ir [[#^s-2f8921f5c38b62616cf7ff85|2 dalyse]] numatytas garantijas, kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, nustatytus [[#^s-b2e05a40c5949e6214d9708a|šio straipsnio 10 dalyje]]. Priimant į seniūno pareigas taip pat netaikomos [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių: ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos išplėstinės seniūnaičių sueigos deleguoti asmenys. ^s-b1a442b8aa552bd7b2c53e14
+9. Seniūną ir seniūną – ir savivaldybės administracijos filialo, ir biudžetinės įstaigos vadovą – į pareigas priima ir iš jų atleidžia savivaldybės administracijos direktorius, vadovaudamasis šiuo įstatymu ir [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymu]]. Į seniūno pareigas priimama tik konkurso būdu, išskyrus atvejus, kai asmeniui, savo noru atsistatydinusiam iš seniūno pareigų, atkuriamas valstybės tarnautojo statusas taikant [[latest/TAR.D3ED3792F52B#^s-184f5a4b0434c749c63b830c|Valstybės tarnybos įstatymo 33 straipsnio]] [[latest/TAR.D3ED3792F52B#^s-faa800581512839acea37793|1]] ir [[latest/TAR.D3ED3792F52B#^s-6b77e5c1c45f28a2fdc28106|2]] dalyse numatytas garantijas, kai keičiama seniūnijos forma, o seniūno pareigas einantis asmuo atitinka reikalavimus, nustatytus [[#^s-b2e05a40c5949e6214d9708a|šio straipsnio 10 dalyje]]. Priimant į seniūno pareigas taip pat netaikomos [[latest/TAR.D3ED3792F52B|Valstybės tarnybos įstatymo]] nuostatos dėl perkėlimo į seniūno pareigas po karjeros valstybės tarnautojų vertinimo ir tarnybinio kaitumo. Pretendentų į seniūno pareigas konkurso komisija sudaroma iš 7 narių: ne mažiau kaip 3 ir ne daugiau kaip 4 šios komisijos nariai turi būti tos seniūnijos aptarnaujamos teritorijos išplėstinės seniūnaičių sueigos deleguoti asmenys. ^s-b1a442b8aa552bd7b2c53e14
 Straipsnio dalies pakeitimai:
 Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
 
@@ -1953,7 +1953,7 @@ Seniūnas:
 4) šaukia seniūnaičių ar seniūnijos aptarnaujamos teritorijos gyventojų sueigas, rengia šių sueigų darbotvarkes, apibendrina šiose sueigose priimtus sprendimus ir perduoda juos vertinti atsakingoms institucijoms, informuoja šias sueigas apie atsakingų institucijų priimtus sprendimus, susijusius su šiose sueigose priimtais sprendimais, prireikus organizuoja gyventojų susitikimus su savivaldybės ar valstybės institucijų ir įstaigų atstovais, apibendrina pateiktas pastabas, pasiūlymus ir teikia juos merui ir savivaldybės administracijos direktoriui; ^s-6ea53754a8831677b552f935
 
 
-5) informuoja seniūnijos aptarnaujamos teritorijos gyventojus apie savivaldybės veiklą ir organizuoja konsultavimąsi su jais, laikydamasis šio įstatymo 43 ir [[#^s-5e82147c040e460f4a2b681e|44 straipsniuose]] nustatytų reikalavimų; ^s-344ecfafbf6580611cac8ceb
+5) informuoja seniūnijos aptarnaujamos teritorijos gyventojus apie savivaldybės veiklą ir organizuoja konsultavimąsi su jais, laikydamasis šio įstatymo [[#^s-51433a43beba5812c4887c25|43]] ir [[#^s-5e82147c040e460f4a2b681e|44]] straipsniuose nustatytų reikalavimų; ^s-344ecfafbf6580611cac8ceb
 
 
 6) ne rečiau kaip kartą per metus, laikydamasis šio įstatymo [[#^s-51433a43beba5812c4887c25|43 straipsnyje]] nustatytų reikalavimų, paskelbia seniūnijos aptarnaujamos teritorijos gyventojams seniūnijos metinio veiklos plano įgyvendinimo ataskaitos projektą, teikia jį svarstyti išplėstinei seniūnaičių sueigai; seniūnaičių sueigos sprendimą ir seniūnijos metinio veiklos plano įgyvendinimo ataskaitą teikia merui, o seniūnas – biudžetinės įstaigos vadovas – ir savivaldybės tarybai; ^s-78ac2a6c38609764d07514dd
@@ -1984,7 +1984,7 @@ Seniūnas:
 2. Seniūnija seniūnijos nuostatuose nustatyta tvarka ir mastu: ^s-8549152e4129e0837e03d0e3
 
 
-1) dalyvauja organizuojant viešųjų paslaugų teikimą ir (ar) prižiūrint, kaip teikiamos viešosios paslaugos, teikia pasiūlymus savivaldybės administracijai dėl viešųjų paslaugų teikimo gerinimo, o šio įstatymo [[#^s-55000908f87f40d3e0e42454|54 straipsnio 2 dalyje]] numatytais atvejais pati teikia šias paslaugas; ^s-153813a6a140c103881bcb13
+1) dalyvauja organizuojant viešųjų paslaugų teikimą ir (ar) prižiūrint, kaip teikiamos viešosios paslaugos, teikia pasiūlymus savivaldybės administracijai [dėl viešųjų paslaugų teikimo gerinimo, o šio įstatymo 54 straipsnio 2 dalyje](https://e-tar.lt/portal/lt/legalAct/2de2a1503d1a11e6bcc5c96b48152012) numatytais atvejais pati teikia šias paslaugas; ^s-153813a6a140c103881bcb13
 
 
 2) dalyvauja rengiant ir įgyvendinant gyventojų užimtumo programas; ^s-0d7fd784963ea0f8c244edce
@@ -2483,7 +2483,7 @@ Nr. XIV-2109, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14000
 
 
 3. Kai viešosios paslaugos teikimas yra ūkinė veikla, kaip ji apibrėžiama [[latest/TAR.B8B6AFC2BFF1#^s-e88ca34f9825814186ffd9e1|Lietuvos Respublikos konkurencijos įstatyme, turi būti įgyvendinti šio įstatymo 56 straipsnyje]] nustatyti reikalavimai. [[#^s-59d7cc2537e3d2a3ac096ed9|Šio straipsnio 2 dalies]] 1, 2 ir 4 punktuose nurodytais atvejais šio įstatymo [[#^s-0115da9bd90960d13665c6fd|56 straipsnyje]] nustatyti reikalavimai ir [[latest/TAR.B8B6AFC2BFF1#^s-2c021cd4b1f024ea8866db2d|Konkurencijos įstatymo 4 straipsnyje]] nustatyti reikalavimai ir draudimai nėra taikomi. ^s-5d57c51ab0bf4b369cd895a5
-TAR pastaba. Pripažinti, kad [[#^s-5d57c51ab0bf4b369cd895a5|Lietuvos Respublikos vietos savivaldos įstatymo 55 straipsnio 3 dalies]] (2023 m. birželio 29 d. redakcija, TAR, 2023-07-05, Nr. 14000) nuostata „[Š]io straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytais atvejais šio įstatymo 56 straipsnyje nustatyti reikalavimai ir Konkurencijos įstatymo 4 straipsnyje nustatyti reikalavimai ir draudimai nėra taikomi“ prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-f5e98f4bd4a38333409169a0|46 straipsnio]] 1, 3, [[#^s-b13cee99926bcdb8ea67873e|4 dalims]], 120 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
+TAR pastaba. Pripažinti, kad [[#^s-5d57c51ab0bf4b369cd895a5|Lietuvos Respublikos vietos savivaldos įstatymo 55 straipsnio 3 dalies]] (2023 m. birželio 29 d. redakcija, TAR, 2023-07-05, Nr. 14000) nuostata „[Š]io straipsnio 2 dalies 1, 2 ir 4 punktuose nurodytais atvejais šio įstatymo 56 straipsnyje nustatyti reikalavimai ir Konkurencijos įstatymo 4 straipsnyje nustatyti reikalavimai ir draudimai nėra taikomi“ prieštarauja Lietuvos Respublikos Konstitucijos [[#^s-f5e98f4bd4a38333409169a0|46 straipsnio]] [[latest/TAR.B8B6AFC2BFF1#^s-01435dc4e130ae8b3750e43c|1]], [[latest/TAR.B8B6AFC2BFF1#^s-7f013f453334493a0221dc96|3]], [[latest/TAR.B8B6AFC2BFF1#^s-78fa4fb738b83f22d593cb69|4]] dalims, 120 straipsnio 2 daliai, konstituciniam teisinės valstybės principui.
 Straipsnio dalies pakeitimai:
 Nr. XIV-2109, 2023-06-29, paskelbta TAR 2023-07-05, i. k. 2023-14000
 Nr. KT80-N11/2024, 2024-10-10, paskelbta TAR 2024-10-10, i. k. 2024-17806
@@ -2535,7 +2535,7 @@ Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
 9. Konkurencijos taryba nustato [[#^s-f264604e40be823620ceb304|šio straipsnio 4 dalyje]] nurodytų prašymų dėl savivaldybių vykdomos ūkinės veiklos įvertinimo teikimo ir nagrinėjimo tvarką ir tokių prašymų tipinę formą. ^s-8e237de2d3007a9f17ea5736
 
 
-10. Konkurencijos tarybos sprendimai, nurodyti šio straipsnio 6 ir [[#^s-7c1a038c25792081b567b524|7 dalyse]], gali būti skundžiami teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-6b6511f40c0eac1d6b12dafd
+10. Konkurencijos tarybos sprendimai, nurodyti šio straipsnio [[#^s-91ebdde5986ba1741e9fe9bc|6]] ir [[#^s-7c1a038c25792081b567b524|7]] dalyse, gali būti skundžiami teismui [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-6b6511f40c0eac1d6b12dafd
 
 
 
@@ -2748,7 +2748,7 @@ Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
 3) rengia ir savivaldybės tarybai teikia sprendimams priimti reikalingas išvadas dėl savivaldybės prisiimamų įsipareigojimų pagal paskolų, finansinės nuomos (lizingo) ir kitų įsipareigojamųjų skolos dokumentų sutartis, garantijų suteikimo kreditoriams už savivaldybės valdomų įmonių prisiimamus įsipareigojimus pagal paskolų, finansinės nuomos (lizingo) ir kitų įsipareigojamųjų skolos dokumentų sutartis; ^s-435eaacb9ae1087d421b60c2
 
 
-4) rengia ir savivaldybės tarybai teikia išvadą dėl vadovaujantis [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymu]] ir (ar) [[latest/TAR.6A449FCC534B|Koncesijų įstatymu]] parengto viešojo ir privataus sektorių partnerystės projekto įgyvendinimo tikslingumo, šioje išvadoje įvertina savivaldybės galimybes prisiimti ilgalaikius finansinius įsipareigojimus pagal viešojo ir privataus sektorių partnerystės projektą, teisines galimybes privačiam subjektui perduoti viešojo subjekto funkcijoms priskirtos veiklos ir (ar) ekonominės veiklos vykdymą ir šioms veikloms vykdyti reikalingą savivaldybės ir (arba) savivaldybės kontroliuojamų juridinių asmenų turtą, viešojo ir privataus sektorių partnerystės projektų konsolidavimo (jeigu toks konsolidavimas numatomas) sąlygas, taip pat teikia išvadą dėl pritarimo galutinėms viešojo ir privataus sektorių partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime dėl viešojo ir privataus sektorių partnerystės projekto įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų; ^s-8588a00e87844ceec14a0aa2
+4) rengia ir savivaldybės tarybai teikia išvadą dėl vadovaujantis [[latest/TAR.C7E57DF3CEC5|Lietuvos Respublikos investicijų įstatymu]] ir (ar) [[latest/TAR.6A449FCC534B|Koncesijų įstatymu]] parengto viešojo ir privataus sektorių partnerystės projekto įgyvendinimo tikslingumo, šioje išvadoje įvertina savivaldybės galimybes prisiimti ilgalaikius finansinius įsipareigojimus pagal viešojo ir privataus sektorių partnerystės projektą, teisines galimybes privačiam subjektui perduoti viešojo subjekto funkcijoms priskirtos veiklos ir (ar) ekonominės veiklos vykdymą ir šioms veikloms vykdyti reikalingą savivaldybės ir (arba) savivaldybės kontroliuojamų juridinių asmenų turtą, viešojo ir privataus sektorių partnerystės projektų konsolidavimo (jeigu toks konsolidavimas numatomas) sąlygas, taip pat teikia išvadą dėl pritarimo galutinėms viešojo ir privataus sektorių partnerystės sutarties sąlygoms, jeigu jos skiriasi nuo sprendime [dėl viešojo ir privataus sektorių partnerystės](https://e-tar.lt/portal/lt/legalAct/TAR.EECA40CA2BED) projekto įgyvendinimo tikslingumo nurodytų partnerystės projekto sąlygų; ^s-8588a00e87844ceec14a0aa2
 Straipsnio punkto pakeitimai:
 Nr. XIV-3043, 2024-10-17, paskelbta TAR 2024-10-24, i. k. 2024-18467
 
@@ -3174,7 +3174,7 @@ Nauja įstatymo redakcija
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-426, 2001-07-05, Žin., 2001, Nr. 64-2323 (2001-07-25)
 [[latest/TAR.03EBC0E3CBDD|VIETOS SAVIVALDOS ĮSTATYMO 8, 20 IR 31 STRAIPSNIŲ PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo 1 ir [[#^s-1151cc163cf18de69a198bf5|3 straipsniai]] galioja iki [[latest/TAR.F74ECE427C23|Gyvenamosios vietos deklaravimo įstatymo]] įsigaliojimo, t. y. iki 2003 m. sausio 1 d.
+Šio įstatymo [[#^s-77d6a21c80a3b756c881f65c|1]] ir [[#^s-1151cc163cf18de69a198bf5|3]] straipsniai galioja iki [[latest/TAR.F74ECE427C23|Gyvenamosios vietos deklaravimo įstatymo]] įsigaliojimo, t. y. iki 2003 m. sausio 1 d.
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3272,13 +3272,13 @@ Nr. IX-1568, 2003-05-20, Žin., 2003, Nr. 54-2371 (2003-06-04)
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1693, 2003-07-04, Žin., 2003, Nr. 73-3357 (2003-07-23)
-[[#^s-81c21bf71df5f39c3070718c|VIETOS SAVIVALDOS ĮSTATYMO 3, 4, 14, 15, 16, 17, 20, 24, 25, 27, 28, 29, 31, 36, 38, 41 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 29(1) STRAIPSNIU ĮSTATYMAS
+VIETOS SAVIVALDOS ĮSTATYMO [[#^s-1151cc163cf18de69a198bf5|3]], [[#^s-e720a3dd065a1e66523feee3|4]], [[#^s-b3a1f6c83e7fbd61c0715a63|14]], [[#^s-5c3802c4f5bd55e46b000199|15]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-75475d02a20cbdaeea31d994|17]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-76cb9b2e99d35d9314c09358|24]], [[#^s-b5ca23418192cef30e2d7fc2|25]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-f1d898d6666f2abe5aac9b74|28]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-abf4b93075623c5138db8454|31]], [[#^s-0f443af6f36cc5071989d26d|36]], [[#^s-afc9a202f53c6121ecdf77e0|38]], [[#^s-81c21bf71df5f39c3070718c|41]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 29(1) STRAIPSNIU ĮSTATYMAS
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1764, 2003-10-14, Žin., 2003, Nr. 104-4636 (2003-11-05)
 [[latest/TAR.78C3401CE39C|VIETOS SAVIVALDOS ĮSTATYMO 3, 4, 15, 17, 20, 21, 29, 31, 37, 38 STRAIPSNIŲ IR ŠEŠTOJO SKIRSNIO PAKEITIMO ĮSTATYMAS]]
-Šio Įstatymo 1, 3, 4, 6, 7 ir [[#^s-3dae0fca055a72266c5e4d4a|10 straipsniai]] įsigalioja nuo 2004 m. sausio 1 d.
+Šio Įstatymo [[#^s-77d6a21c80a3b756c881f65c|1]], [[#^s-1151cc163cf18de69a198bf5|3]], [[#^s-e720a3dd065a1e66523feee3|4]], [[#^s-a3972cf6ed1c9d160f4ea487|6]], [[#^s-f2ff2f9e4891b8b76f0e8273|7]] ir [[#^s-3dae0fca055a72266c5e4d4a|10]] straipsniai įsigalioja nuo 2004 m. sausio 1 d.
 Iki šio Įstatymo įsigaliojimo paskirtų savivaldybių kontrolierių jiems nustatyta kadencijos trukmė įsigaliojus šiam Įstatymui iš naujo nenustatoma.
 
 35.
@@ -3431,7 +3431,7 @@ Nr. XI-997, 2010-07-02, Žin., 2010, Nr. 84-4406 (2010-07-15)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-971, 2010-06-30, Žin., 2010, Nr. 86-4525 (2010-07-20)
 [[latest/TAR.C6D81071DC40|VIETOS SAVIVALDOS ĮSTATYMO 6, 7, 13, 16, 19, 20, 26, 30, 31, 32, 34, 56 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
-Šio įstatymo 4 straipsnio 2 dalis ir 5, 6, [[#^s-f2ff2f9e4891b8b76f0e8273|7 straipsniai]] įsigalioja 2010 m. spalio 1 d.
+Šio įstatymo 4 straipsnio 2 dalis ir [[#^s-9313880242c39a30a1c3df4d|5]], [[#^s-a3972cf6ed1c9d160f4ea487|6]], [[#^s-f2ff2f9e4891b8b76f0e8273|7]] straipsniai įsigalioja 2010 m. spalio 1 d.
 
 61.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3505,7 +3505,7 @@ Nr. XII-409, 2013-06-27, Žin., 2013, Nr. 76-3826 (2013-07-16)
 72.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-460, 2013-07-02, Žin., 2013, Nr. 79-3981 (2013-07-23)
-[[#^s-7f7fa79a1b5496dc640723e5|VIETOS SAVIVALDOS ĮSTATYMO 4, 6, 16, 17, 20, 29, 32, 35, 50, 51 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO TREČIUOJU(1) SKIRSNIU ĮSTATYMAS
+VIETOS SAVIVALDOS ĮSTATYMO [[#^s-e720a3dd065a1e66523feee3|4]], [[#^s-a3972cf6ed1c9d160f4ea487|6]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-75475d02a20cbdaeea31d994|17]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-988f990374c51c1b850967b2|32]], [[#^s-68102232ebd5ea98534721c0|35]], [[#^s-3f9b090d1880c2492653c9da|50]], [[#^s-7f7fa79a1b5496dc640723e5|51]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO TREČIUOJU(1) SKIRSNIU ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2 ir 3 dalis, įsigalioja 2014 m. spalio 1 d.
 
 73.
@@ -3519,7 +3519,7 @@ Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-611, 2013-11-21, Žin., 2013, Nr. 124-6287 (2013-12-05)
 [[latest/TAR.F31F2EE6D090|VIETOS SAVIVALDOS ĮSTATYMO 33 STRAIPSNIO PAKEITIMO IR PAPILDYMO ĮSTATYMAS]]
 Šis įstatymas įsigalioja 2014 m. sausio 1 d.
-Šio įstatymo 1 straipsnio 2 dalyje išdėstyta Vietos savivaldos įstatymo 33 straipsnio 5 dalies nuostata, nustatanti seniūnaičio kadenciją, taikoma po šio įstatymo įsigaliojimo renkamiems seniūnaičiams.
+Šio įstatymo 1 straipsnio 2 dalyje išdėstyta [[latest/TAR.D0CD0966D67F|Vietos savivaldos įstatymo 33 straipsnio 5 dalies]] nuostata, nustatanti seniūnaičio kadenciją, taikoma po šio įstatymo įsigaliojimo renkamiems seniūnaičiams.
 
 75.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3531,7 +3531,7 @@ VIETOS SAVIVALDOS ĮSTATYMO 26 STRAIPSNIO PAKEITIMO ĮSTATYMAS
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-620, 2013-11-26, Žin., 2013, Nr. 126-6413 (2013-12-10)
 [[latest/TAR.854970D804C5|VIETOS SAVIVALDOS ĮSTATYMO 6 IR 7 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-Šio įstatymo 1 ir [[#^s-3a85ff01b21c360ec9515715|2 straipsniai]] įsigalioja 2014 m. sausio 1 d. ir galioja iki 2014 m. gruodžio 31 d.
+Šio įstatymo [[#^s-77d6a21c80a3b756c881f65c|1]] ir [[#^s-3a85ff01b21c360ec9515715|2]] straipsniai įsigalioja 2014 m. sausio 1 d. ir galioja iki 2014 m. gruodžio 31 d.
 
 77.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3559,7 +3559,7 @@ LIETUVOS RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO NR. I-533 [[#^s-b056bd6219ead28
 81.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-967, 2014-06-26, paskelbta TAR 2014-07-11, i. k. 2014-10138
-LIETUVOS RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO NR. I-533 3, 5, 10, 11, 13, 14, 16, 17, 19, 20, 22, 25, 27, 29, 40, 42, 45, [[#^s-f5e98f4bd4a38333409169a0|46 STRAIPSNIŲ]] PAKEITIMO IR ĮSTATYMO PAPILDYMO 25-1 STRAIPSNIU ĮSTATYMAS
+LIETUVOS RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO NR. I-533 [[#^s-1151cc163cf18de69a198bf5|3]], [[#^s-9313880242c39a30a1c3df4d|5]], [[#^s-3dae0fca055a72266c5e4d4a|10]], [[#^s-e8c7968947f9045136cf46be|11]], [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-b3a1f6c83e7fbd61c0715a63|14]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-75475d02a20cbdaeea31d994|17]], [[#^s-21c014b32103448694c761c1|19]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-4df2b9fd50c29e6472333324|22]], [[#^s-b5ca23418192cef30e2d7fc2|25]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-a297a5bf2e1f01d0646e9c6f|40]], [[#^s-94be10a55d8e9ea86b468f06|42]], [[#^s-578fe022501feda1b37a69bb|45]], [[#^s-f5e98f4bd4a38333409169a0|46]] STRAIPSNIŲ PAKEITIMO IR ĮSTATYMO PAPILDYMO 25-1 STRAIPSNIU ĮSTATYMAS
 Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2015 metais naujai išrinktoms savivaldybių taryboms susirinkus į pirmąjį posėdį.
 
 
@@ -3569,7 +3569,7 @@ Konstitucinio Teismo nutarimai:
 1.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 2002-12-24, Žin., 2003, Nr. 19-828 (2003-02-25)
-DĖL [[#^s-963f448ac9a60e3c32c02ab5|LIETUVOS RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 3 STRAIPSNIO 3 DALIES]] (2000 M. SPALIO 12 D. REDAKCIJA), [[#^s-2c978e7269580ef009a21bed|3 STRAIPSNIO 4 DALIES]] (2000 M. SPALIO 12 D. REDAKCIJA), [[#^s-1ae2244decdb72c50745655b|5 STRAIPSNIO 1 DALIES 2 PUNKTO]] (2000 M. SPALIO 12 D. REDAKCIJA), [[#^s-3621bf124ecf06795071fc9e|18 STRAIPSNIO 1 DALIES]] (2000 M. SPALIO 12 D. REDAKCIJA), [[#^s-81189690e7129b3ced7416c8|19 STRAIPSNIO 1 DALIES]] 2, 3, 4, 8, 15 PUNKTŲ (2000 M. SPALIO 12 D. REDAKCIJA), [[#^s-031822a995892736b06d595d|21 STRAIPSNIO 1 DALIES]] 1, 5, 7, 9, 12, 15, 16, 17, 18 PUNKTŲ (2000 M. SPALIO 12 D. REDAKCIJA), ŠIOS DALIES 6 PUNKTO (2000 M. SPALIO 12 D. IR 2001 M. RUGSĖJO 25 D. REDAKCIJOS) IR ŠIOS DALIES 14 PUNKTO (2000 M. SPALIO 12 D. IR 2001 M. LAPKRIČIO 8 D. REDAKCIJOS), TAIP PAT DĖL LIETUVOS RESPUBLIKOS KONSTITUCIJOS 119 STRAIPSNIO PAKEITIMO ĮSTATYMO TAIKYMO TVARKOS KONSTITUCINIO ĮSTATYMO, LIETUVOS RESPUBLIKOS KONSTITUCIJOS 119 STRAIPSNIO PAKEITIMO ĮSTATYMO TAIKYMO TVARKOS KONSTITUCINIO ĮSTATYMO ĮRAŠYMO Į KONSTITUCINIŲ ĮSTATYMŲ SĄRAŠĄ ĮSTATYMO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI
+[DĖL LIETUVOS RESPUBLIKOS VIETOS SAVIVALDOS ĮSTATYMO 3 STRAIPSNIO 3 DALIES (2000 M. SPALIO 12 D. REDAKCIJA), 3 STRAIPSNIO 4 DALIES (2000 M. SPALIO 12 D. REDAKCIJA), 5 STRAIPSNIO 1 DALIES 2 PUNKTO (2000 M. SPALIO 12 D. REDAKCIJA), 18 STRAIPSNIO 1 DALIES (2000 M. SPALIO 12 D. REDAKCIJA), 19 STRAIPSNIO 1 DALIES 2, 3, 4, 8, 15 PUNKTŲ (2000 M. SPALIO 12 D. REDAKCIJA), 21 STRAIPSNIO 1 DALIES 1, 5, 7, 9, 12, 15, 16, 17, 18 PUNKTŲ (2000 M. SPALIO 12 D. REDAKCIJA), ŠIOS DALIES 6 PUNKTO (2000 M. SPALIO 12 D. IR 2001 M. RUGSĖJO 25 D. REDAKCIJOS) IR ŠIOS DALIES 14 PUNKTO (2000 M. SPALIO 12 D. IR 2001 M. LAPKRIČIO 8 D. REDAKCIJOS), TAIP PAT DĖL LIETUVOS RESPUBLIKOS KONSTITUCIJOS 119 STRAIPSNIO PAKEITIMO ĮSTATYMO TAIKYMO TVARKOS KONSTITUCINIO ĮSTATYMO, LIETUVOS RESPUBLIKOS KONSTITUCIJOS 119 STRAIPSNIO PAKEITIMO ĮSTATYMO TAIKYMO TVARKOS KONSTITUCINIO ĮSTATYMO ĮRAŠYMO Į KONSTITUCINIŲ ĮSTATYMŲ SĄRAŠĄ ĮSTATYMO ATITIKTIES LIETUVOS RESPUBLIKOS KONSTITUCIJAI](https://e-tar.lt/portal/lt/legalAct/TAR.2612D3F6EA7C)
 
 
 Pakeitimai:
@@ -3582,17 +3582,17 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-f2ff2f9e4891b8b
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1367, 2014-12-02, paskelbta TAR 2014-12-12, i. k. 2014-19553
-Lietuvos Respublikos vietos savivaldos įstatymo 6, 7, [[#^s-988f990374c51c1b850967b2|32 straipsnių]] pakeitimo ir papildymo [[latest/TAR.F601633B07B4|įstatymo Nr. XI-1773]] 1 ir [[#^s-3a85ff01b21c360ec9515715|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo [[#^s-a3972cf6ed1c9d160f4ea487|6]], [[#^s-f2ff2f9e4891b8b76f0e8273|7]], [[#^s-988f990374c51c1b850967b2|32]] straipsnių pakeitimo ir papildymo [[latest/TAR.F601633B07B4|įstatymo Nr. XI-1773]] [[#^s-77d6a21c80a3b756c881f65c|1]] ir [[#^s-3a85ff01b21c360ec9515715|2]] straipsnių pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1508, 2014-12-18, paskelbta TAR 2014-12-31, i. k. 2014-21274
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14, 16, 17, 19, 20, 22, 25, 27, 29, 40, 42, 45, [[#^s-f5e98f4bd4a38333409169a0|46 straipsnių]] pakeitimo ir Įstatymo papildymo 25-1 straipsniu [[latest/b3b1225008e911e4adf3c8c5d7681e73|įstatymo Nr. XII-967]] [[#^s-275506f23b904e7bb8d1f342|13 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-1151cc163cf18de69a198bf5|3]], [[#^s-9313880242c39a30a1c3df4d|5]], [[#^s-3dae0fca055a72266c5e4d4a|10]], [[#^s-e8c7968947f9045136cf46be|11]], [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-b3a1f6c83e7fbd61c0715a63|14]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-75475d02a20cbdaeea31d994|17]], [[#^s-21c014b32103448694c761c1|19]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-4df2b9fd50c29e6472333324|22]], [[#^s-b5ca23418192cef30e2d7fc2|25]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-a297a5bf2e1f01d0646e9c6f|40]], [[#^s-94be10a55d8e9ea86b468f06|42]], [[#^s-578fe022501feda1b37a69bb|45]], [[#^s-f5e98f4bd4a38333409169a0|46]] straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu [[latest/b3b1225008e911e4adf3c8c5d7681e73|įstatymo Nr. XII-967]] [[#^s-275506f23b904e7bb8d1f342|13 straipsnio]] pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1595, 2015-03-26, paskelbta TAR 2015-03-31, i. k. 2015-04843
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14, 16, 17, 19, 20, 22, 25, 27, 29, 40, 42, 45, [[#^s-f5e98f4bd4a38333409169a0|46 straipsnių]] pakeitimo ir Įstatymo papildymo 25-1 straipsniu [[latest/b3b1225008e911e4adf3c8c5d7681e73|įstatymo Nr. XII-967]] [[#^s-9313880242c39a30a1c3df4d|5 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-1151cc163cf18de69a198bf5|3]], [[#^s-9313880242c39a30a1c3df4d|5]], [[#^s-3dae0fca055a72266c5e4d4a|10]], [[#^s-e8c7968947f9045136cf46be|11]], [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-b3a1f6c83e7fbd61c0715a63|14]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-75475d02a20cbdaeea31d994|17]], [[#^s-21c014b32103448694c761c1|19]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-4df2b9fd50c29e6472333324|22]], [[#^s-b5ca23418192cef30e2d7fc2|25]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-a297a5bf2e1f01d0646e9c6f|40]], [[#^s-94be10a55d8e9ea86b468f06|42]], [[#^s-578fe022501feda1b37a69bb|45]], [[#^s-f5e98f4bd4a38333409169a0|46]] straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu [[latest/b3b1225008e911e4adf3c8c5d7681e73|įstatymo Nr. XII-967]] [[#^s-9313880242c39a30a1c3df4d|5 straipsnio]] pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3602,17 +3602,17 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-a3972cf6ed1c9d1
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1770, 2015-06-09, paskelbta TAR 2015-06-17, i. k. 2015-09674
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 5, 10, 11, 13, 14, 16, 17, 19, 20, 22, 25, 27, 29, 40, 42, 45, [[#^s-f5e98f4bd4a38333409169a0|46 straipsnių]] pakeitimo ir Įstatymo papildymo 25-1 straipsniu [[latest/b3b1225008e911e4adf3c8c5d7681e73|įstatymo Nr. XII-967]] 4 ir [[#^s-3dae0fca055a72266c5e4d4a|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-1151cc163cf18de69a198bf5|3]], [[#^s-9313880242c39a30a1c3df4d|5]], [[#^s-3dae0fca055a72266c5e4d4a|10]], [[#^s-e8c7968947f9045136cf46be|11]], [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-b3a1f6c83e7fbd61c0715a63|14]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-75475d02a20cbdaeea31d994|17]], [[#^s-21c014b32103448694c761c1|19]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-4df2b9fd50c29e6472333324|22]], [[#^s-b5ca23418192cef30e2d7fc2|25]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-a297a5bf2e1f01d0646e9c6f|40]], [[#^s-94be10a55d8e9ea86b468f06|42]], [[#^s-578fe022501feda1b37a69bb|45]], [[#^s-f5e98f4bd4a38333409169a0|46]] straipsnių pakeitimo ir Įstatymo papildymo 25-1 straipsniu [[latest/b3b1225008e911e4adf3c8c5d7681e73|įstatymo Nr. XII-967]] [[#^s-e720a3dd065a1e66523feee3|4]] ir [[#^s-3dae0fca055a72266c5e4d4a|10]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1621, 2015-04-16, paskelbta TAR 2015-04-30, i. k. 2015-06522
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13 ir [[#^s-5c3802c4f5bd55e46b000199|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-275506f23b904e7bb8d1f342|13]] ir [[#^s-5c3802c4f5bd55e46b000199|15]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1932, 2015-06-30, paskelbta TAR 2015-07-09, i. k. 2015-11214
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir [[#^s-3f9b090d1880c2492653c9da|50 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-aaf72a56703a345db8acf9bb|16]] ir [[#^s-3f9b090d1880c2492653c9da|50]] straipsnių pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3627,12 +3627,12 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-988f990374c51c1
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2182, 2015-12-15, paskelbta TAR 2015-12-29, i. k. 2015-20884
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 15 ir [[#^s-87fdee95fbfdc69f3912049a|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-5c3802c4f5bd55e46b000199|15]] ir [[#^s-87fdee95fbfdc69f3912049a|23]] straipsnių pakeitimo įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1887, 2015-06-25, paskelbta TAR 2015-07-09, i. k. 2015-11178
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 15 ir [[#^s-c0d684130744012b748fb510|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-5c3802c4f5bd55e46b000199|15]] ir [[#^s-c0d684130744012b748fb510|27]] straipsnių pakeitimo įstatymas
 
 13.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3642,7 +3642,7 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-988f990374c51c1
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2278, 2016-03-25, paskelbta TAR 2016-03-29, i. k. 2016-06429
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 15 ir [[#^s-c0d684130744012b748fb510|27 straipsnių]] pakeitimo [[latest/fb9cd930261411e5bf92d6af3f6a2e8b|įstatymo Nr. XII-1887]] [[#^s-e720a3dd065a1e66523feee3|4 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-5c3802c4f5bd55e46b000199|15]] ir [[#^s-c0d684130744012b748fb510|27]] straipsnių pakeitimo [[latest/fb9cd930261411e5bf92d6af3f6a2e8b|įstatymo Nr. XII-1887]] [[#^s-e720a3dd065a1e66523feee3|4 straipsnio]] pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3652,32 +3652,32 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-aaf72a56703a345
 16.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2459, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17723
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 19 ir [[#^s-76cb9b2e99d35d9314c09358|24 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-21c014b32103448694c761c1|19]] ir [[#^s-76cb9b2e99d35d9314c09358|24]] straipsnių pakeitimo įstatymas
 
 17.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2636, 2016-09-27, paskelbta TAR 2016-10-05, i. k. 2016-24611
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 11, 13, 20 ir [[#^s-b056bd6219ead28392c04d4b|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-e8c7968947f9045136cf46be|11]], [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]] ir [[#^s-b056bd6219ead28392c04d4b|29]] straipsnių pakeitimo įstatymas
 
 18.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2494, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19345
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 4, 6, 9, 10-3, 13, 14, 15, 16, 20, 29, 31, 32, 33, 34, 35, [[#^s-3f9b090d1880c2492653c9da|50 straipsnių]] pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-1151cc163cf18de69a198bf5|3]], [[#^s-e720a3dd065a1e66523feee3|4]], [[#^s-a3972cf6ed1c9d160f4ea487|6]], [[#^s-8e9d621e4ce00947997052a6|9]], 10-3, [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-b3a1f6c83e7fbd61c0715a63|14]], [[#^s-5c3802c4f5bd55e46b000199|15]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-abf4b93075623c5138db8454|31]], [[#^s-988f990374c51c1b850967b2|32]], [[#^s-18cf86a4de32ae85f5c2ce2c|33]], [[#^s-8d1cc1fc0cee3fc787c5c548|34]], [[#^s-68102232ebd5ea98534721c0|35]], [[#^s-3f9b090d1880c2492653c9da|50]] straipsnių pakeitimo ir Įstatymo papildymo 32-1 straipsniu įstatymas
 
 19.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2495, 2016-06-28, paskelbta TAR 2016-07-07, i. k. 2016-19348
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 15 ir [[#^s-c0d684130744012b748fb510|27 straipsnių]] pakeitimo [[latest/fb9cd930261411e5bf92d6af3f6a2e8b|įstatymo Nr. XII-1887]] [[#^s-77d6a21c80a3b756c881f65c|1 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-5c3802c4f5bd55e46b000199|15]] ir [[#^s-c0d684130744012b748fb510|27]] straipsnių pakeitimo [[latest/fb9cd930261411e5bf92d6af3f6a2e8b|įstatymo Nr. XII-1887]] [[#^s-77d6a21c80a3b756c881f65c|1 straipsnio]] pakeitimo įstatymas
 
 20.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2741, 2016-11-08, paskelbta TAR 2016-11-15, i. k. 2016-26839
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, [[#^s-8e9d621e4ce00947997052a6|9 straipsnių]] pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-e720a3dd065a1e66523feee3|4]], [[#^s-8e9d621e4ce00947997052a6|9]] straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu įstatymas
 
 21.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-185, 2016-12-22, paskelbta TAR 2016-12-29, i. k. 2016-29871
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, [[#^s-8e9d621e4ce00947997052a6|9 straipsnių]] pakeitimo ir Įstatymo papildymo 9-1 straipsniu [[latest/e92d7010ab3e11e6a6f98c1425a5ffa8|įstatymo Nr. XII-2741]] [[#^s-e720a3dd065a1e66523feee3|4 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-e720a3dd065a1e66523feee3|4]], [[#^s-8e9d621e4ce00947997052a6|9]] straipsnių pakeitimo ir Įstatymo papildymo 9-1 straipsniu [[latest/e92d7010ab3e11e6a6f98c1425a5ffa8|įstatymo Nr. XII-2741]] [[#^s-e720a3dd065a1e66523feee3|4 straipsnio]] pakeitimo įstatymas
 
 22.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3692,62 +3692,62 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-4323f2995861fb5
 24.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-443, 2017-06-15, paskelbta TAR 2017-06-27, i. k. 2017-10804
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir [[#^s-c0d684130744012b748fb510|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-aaf72a56703a345db8acf9bb|16]] ir [[#^s-c0d684130744012b748fb510|27]] straipsnių pakeitimo įstatymas
 
 25.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-602, 2017-07-04, paskelbta TAR 2017-07-13, i. k. 2017-12175
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 ir [[#^s-f2ff2f9e4891b8b76f0e8273|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-a3972cf6ed1c9d160f4ea487|6]] ir [[#^s-f2ff2f9e4891b8b76f0e8273|7]] straipsnių pakeitimo įstatymas
 
 26.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-677, 2017-10-12, paskelbta TAR 2017-10-23, i. k. 2017-16708
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 14, 15, 16, 31, 34, [[#^s-68102232ebd5ea98534721c0|35 straipsnių]] pakeitimo ir Įstatymo papildymo 35-1 straipsniu įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-1151cc163cf18de69a198bf5|3]], [[#^s-b3a1f6c83e7fbd61c0715a63|14]], [[#^s-5c3802c4f5bd55e46b000199|15]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-abf4b93075623c5138db8454|31]], [[#^s-8d1cc1fc0cee3fc787c5c548|34]], [[#^s-68102232ebd5ea98534721c0|35]] straipsnių pakeitimo ir Įstatymo papildymo 35-1 straipsniu įstatymas
 
 27.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-649, 2017-09-28, paskelbta TAR 2017-10-10, i. k. 2017-16086
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6, 7, 32-1 ir [[#^s-8d1cc1fc0cee3fc787c5c548|34 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-a3972cf6ed1c9d160f4ea487|6]], [[#^s-f2ff2f9e4891b8b76f0e8273|7]], 32-1 ir [[#^s-8d1cc1fc0cee3fc787c5c548|34]] straipsnių pakeitimo įstatymas
 
 28.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1064, 2018-03-29, paskelbta TAR 2018-04-11, i. k. 2018-05882
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir [[#^s-abf4b93075623c5138db8454|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-aaf72a56703a345db8acf9bb|16]] ir [[#^s-abf4b93075623c5138db8454|31]] straipsnių pakeitimo įstatymas
 
 29.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1275, 2018-06-14, paskelbta TAR 2018-06-26, i. k. 2018-10517
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 9 ir 9-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-8e9d621e4ce00947997052a6|9]] ir 9-1 straipsnių pakeitimo įstatymas
 
 30.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1445, 2018-06-30, paskelbta TAR 2018-07-16, i. k. 2018-12067
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16, 19 ir [[#^s-aa7ffbad73e86b3a8ffb20a0|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-21c014b32103448694c761c1|19]] ir [[#^s-aa7ffbad73e86b3a8ffb20a0|20]] straipsnių pakeitimo įstatymas
 
 31.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1639, 2018-11-15, paskelbta TAR 2018-11-20, i. k. 2018-18680
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 ir [[#^s-aaf72a56703a345db8acf9bb|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-a3972cf6ed1c9d160f4ea487|6]] ir [[#^s-aaf72a56703a345db8acf9bb|16]] straipsnių pakeitimo įstatymas
 
 32.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1655, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19165
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 11 ir [[#^s-b056bd6219ead28392c04d4b|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-e8c7968947f9045136cf46be|11]] ir [[#^s-b056bd6219ead28392c04d4b|29]] straipsnių pakeitimo įstatymas
 
 33.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1163, 2018-05-17, paskelbta TAR 2018-05-29, i. k. 2018-08637
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 4, 6, 7, 14, 16, 19, 20, 24, 27, 28, 29, 30 ir [[#^s-7f7fa79a1b5496dc640723e5|51 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-1151cc163cf18de69a198bf5|3]], [[#^s-e720a3dd065a1e66523feee3|4]], [[#^s-a3972cf6ed1c9d160f4ea487|6]], [[#^s-f2ff2f9e4891b8b76f0e8273|7]], [[#^s-b3a1f6c83e7fbd61c0715a63|14]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-21c014b32103448694c761c1|19]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-76cb9b2e99d35d9314c09358|24]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-f1d898d6666f2abe5aac9b74|28]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-534b3a60e3934f22e43b2ca7|30]] ir [[#^s-7f7fa79a1b5496dc640723e5|51]] straipsnių pakeitimo įstatymas
 
 34.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1377, 2018-06-29, paskelbta TAR 2018-07-16, i. k. 2018-12045
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16, 19, 27, 29 ir [[#^s-abf4b93075623c5138db8454|31 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-21c014b32103448694c761c1|19]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-b056bd6219ead28392c04d4b|29]] ir [[#^s-abf4b93075623c5138db8454|31]] straipsnių pakeitimo įstatymas
 
 35.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1664, 2018-11-20, paskelbta TAR 2018-11-28, i. k. 2018-19164
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir [[#^s-b056bd6219ead28392c04d4b|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-aaf72a56703a345db8acf9bb|16]] ir [[#^s-b056bd6219ead28392c04d4b|29]] straipsnių pakeitimo įstatymas
 
 36.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3757,12 +3757,12 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-aaf72a56703a345
 37.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1631, 2018-11-15, paskelbta TAR 2018-11-23, i. k. 2018-18921
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 12, 14, 16, 20, 27, 28 ir [[#^s-b056bd6219ead28392c04d4b|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-1151cc163cf18de69a198bf5|3]], [[#^s-5147c8dc568c53b4c0a0bfd7|12]], [[#^s-b3a1f6c83e7fbd61c0715a63|14]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-f1d898d6666f2abe5aac9b74|28]] ir [[#^s-b056bd6219ead28392c04d4b|29]] straipsnių pakeitimo įstatymas
 
 38.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1965, 2019-02-14, paskelbta TAR 2019-02-20, i. k. 2019-02745
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 9, 13, 14, 15, 16 ir [[#^s-21c014b32103448694c761c1|19 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-1151cc163cf18de69a198bf5|3]], [[#^s-8e9d621e4ce00947997052a6|9]], [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-b3a1f6c83e7fbd61c0715a63|14]], [[#^s-5c3802c4f5bd55e46b000199|15]], [[#^s-aaf72a56703a345db8acf9bb|16]] ir [[#^s-21c014b32103448694c761c1|19]] straipsnių pakeitimo įstatymas
 
 39.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3777,12 +3777,12 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-abf4b93075623c5
 41.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2767, 2019-12-20, paskelbta TAR 2019-12-30, i. k. 2019-21573
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 9 ir 9-1 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-8e9d621e4ce00947997052a6|9]] ir 9-1 straipsnių pakeitimo įstatymas
 
 42.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2496, 2019-10-17, paskelbta TAR 2019-10-29, i. k. 2019-17226
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 39, 40 ir [[#^s-81c21bf71df5f39c3070718c|41 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-d4afa1d2a5df364e10617caa|39]], [[#^s-a297a5bf2e1f01d0646e9c6f|40]] ir [[#^s-81c21bf71df5f39c3070718c|41]] straipsnių pakeitimo įstatymas
 
 43.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3792,12 +3792,12 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-abf4b93075623c5
 44.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2818, 2020-03-17, paskelbta TAR 2020-03-18, i. k. 2020-05699
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 14 ir [[#^s-5c3802c4f5bd55e46b000199|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-b3a1f6c83e7fbd61c0715a63|14]] ir [[#^s-5c3802c4f5bd55e46b000199|15]] straipsnių pakeitimo įstatymas
 
 45.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2829, 2020-03-31, paskelbta TAR 2020-04-02, i. k. 2020-06898
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 13, 14 ir [[#^s-5c3802c4f5bd55e46b000199|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-b3a1f6c83e7fbd61c0715a63|14]] ir [[#^s-5c3802c4f5bd55e46b000199|15]] straipsnių pakeitimo įstatymas
 
 46.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3807,27 +3807,27 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-a3972cf6ed1c9d1
 47.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3267, 2020-06-30, paskelbta TAR 2020-07-10, i. k. 2020-15541
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir [[#^s-aa7ffbad73e86b3a8ffb20a0|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-aaf72a56703a345db8acf9bb|16]] ir [[#^s-aa7ffbad73e86b3a8ffb20a0|20]] straipsnių pakeitimo įstatymas
 
 48.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3043, 2020-06-11, paskelbta TAR 2020-06-25, i. k. 2020-13956
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 5, 6, 16 ir [[#^s-aa7ffbad73e86b3a8ffb20a0|20 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-9313880242c39a30a1c3df4d|5]], [[#^s-a3972cf6ed1c9d160f4ea487|6]], [[#^s-aaf72a56703a345db8acf9bb|16]] ir [[#^s-aa7ffbad73e86b3a8ffb20a0|20]] straipsnių pakeitimo įstatymas
 
 49.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2898, 2020-05-07, paskelbta TAR 2020-05-22, i. k. 2020-10872
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 16 ir [[#^s-c0d684130744012b748fb510|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-aaf72a56703a345db8acf9bb|16]] ir [[#^s-c0d684130744012b748fb510|27]] straipsnių pakeitimo įstatymas
 
 50.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3127, 2020-06-25, paskelbta TAR 2020-07-09, i. k. 2020-15372
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 ir 10-3 straipsnių pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-a3972cf6ed1c9d160f4ea487|6]] ir 10-3 straipsnių pakeitimo įstatymas
 
 51.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3244, 2020-06-30, paskelbta TAR 2020-07-16, i. k. 2020-15881
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 11, 19, 25 ir [[#^s-b056bd6219ead28392c04d4b|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-e8c7968947f9045136cf46be|11]], [[#^s-21c014b32103448694c761c1|19]], [[#^s-b5ca23418192cef30e2d7fc2|25]] ir [[#^s-b056bd6219ead28392c04d4b|29]] straipsnių pakeitimo įstatymas
 
 52.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3837,17 +3837,17 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-f2ff2f9e4891b8b
 53.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3380, 2020-11-10, paskelbta TAR 2020-11-16, i. k. 2020-24013
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, 7, 12, 13, 14, 15, 16, 19, 20, 24, 26, 27, 29, 32, 32-1, 33, 35-1, [[#^s-8868308b6ef7e1916b953d77|53 straipsnių]], devintojo skirsnio pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-e720a3dd065a1e66523feee3|4]], [[#^s-f2ff2f9e4891b8b76f0e8273|7]], [[#^s-5147c8dc568c53b4c0a0bfd7|12]], [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-b3a1f6c83e7fbd61c0715a63|14]], [[#^s-5c3802c4f5bd55e46b000199|15]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-21c014b32103448694c761c1|19]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-76cb9b2e99d35d9314c09358|24]], [[#^s-4323f2995861fb5cf621604d|26]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-988f990374c51c1b850967b2|32]], 32-1, [[#^s-18cf86a4de32ae85f5c2ce2c|33]], 35-1, [[#^s-8868308b6ef7e1916b953d77|53]] straipsnių, devintojo skirsnio pakeitimo ir Įstatymo papildymo 15-1 straipsniu įstatymas
 
 54.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-94, 2020-12-17, paskelbta TAR 2020-12-29, i. k. 2020-28943
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 11, 19, 25 ir [[#^s-b056bd6219ead28392c04d4b|29 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-e8c7968947f9045136cf46be|11]], [[#^s-21c014b32103448694c761c1|19]], [[#^s-b5ca23418192cef30e2d7fc2|25]] ir [[#^s-b056bd6219ead28392c04d4b|29]] straipsnių pakeitimo įstatymas
 
 55.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-143, 2020-12-23, paskelbta TAR 2021-01-07, i. k. 2021-00265
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 19, 27 ir [[#^s-7f7fa79a1b5496dc640723e5|51 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-21c014b32103448694c761c1|19]], [[#^s-c0d684130744012b748fb510|27]] ir [[#^s-7f7fa79a1b5496dc640723e5|51]] straipsnių pakeitimo įstatymas
 
 56.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3867,12 +3867,12 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-a3972cf6ed1c9d1
 59.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-997, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07246
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 14 ir [[#^s-5c3802c4f5bd55e46b000199|15 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-b3a1f6c83e7fbd61c0715a63|14]] ir [[#^s-5c3802c4f5bd55e46b000199|15]] straipsnių pakeitimo įstatymas
 
 60.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-998, 2022-03-31, paskelbta TAR 2022-04-07, i. k. 2022-07249
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, 7, 12, 13, 14, 15, 16, 19, 20, 24, 26, 27, 29, 32, 32-1, 33, 35-1, [[#^s-8868308b6ef7e1916b953d77|53 straipsnių]], devintojo skirsnio pakeitimo ir Įstatymo papildymo 15-1 straipsniu [[latest/997f6bd0280e11eb932eb1ed7f923910|įstatymo Nr. XIII-3380]] [[#^s-d6ffd9731f5d4c7d57505e01|21 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-e720a3dd065a1e66523feee3|4]], [[#^s-f2ff2f9e4891b8b76f0e8273|7]], [[#^s-5147c8dc568c53b4c0a0bfd7|12]], [[#^s-275506f23b904e7bb8d1f342|13]], [[#^s-b3a1f6c83e7fbd61c0715a63|14]], [[#^s-5c3802c4f5bd55e46b000199|15]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-21c014b32103448694c761c1|19]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-76cb9b2e99d35d9314c09358|24]], [[#^s-4323f2995861fb5cf621604d|26]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-988f990374c51c1b850967b2|32]], 32-1, [[#^s-18cf86a4de32ae85f5c2ce2c|33]], 35-1, [[#^s-8868308b6ef7e1916b953d77|53]] straipsnių, devintojo skirsnio pakeitimo ir Įstatymo papildymo 15-1 straipsniu [[latest/997f6bd0280e11eb932eb1ed7f923910|įstatymo Nr. XIII-3380]] [[#^s-d6ffd9731f5d4c7d57505e01|21 straipsnio]] pakeitimo įstatymas
 
 61.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3882,17 +3882,17 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-f2ff2f9e4891b8b
 62.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-3312, 2020-10-01, paskelbta TAR 2020-10-13, i. k. 2020-21250
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, 12, 16, 20, 27, 29, [[#^s-d846ae844f2e2269a6b83189|57 straipsnių]] ir trečiojo-1 skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 10-5 straipsniu įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-e720a3dd065a1e66523feee3|4]], [[#^s-5147c8dc568c53b4c0a0bfd7|12]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-d846ae844f2e2269a6b83189|57]] straipsnių ir trečiojo-1 skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 10-5 straipsniu įstatymas
 
 63.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-239, 2021-04-15, paskelbta TAR 2021-04-28, i. k. 2021-08840
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, 12, 16, 20, 27, 29, [[#^s-d846ae844f2e2269a6b83189|57 straipsnių]] ir trečiojo-1 skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 10-5 straipsniu [[latest/d95709400d4011ebb74de75171d26d52|įstatymo Nr. XIII-3312]] [[#^s-f2ff2f9e4891b8b76f0e8273|7 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-e720a3dd065a1e66523feee3|4]], [[#^s-5147c8dc568c53b4c0a0bfd7|12]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-d846ae844f2e2269a6b83189|57]] straipsnių ir trečiojo-1 skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 10-5 straipsniu [[latest/d95709400d4011ebb74de75171d26d52|įstatymo Nr. XIII-3312]] [[#^s-f2ff2f9e4891b8b76f0e8273|7 straipsnio]] pakeitimo įstatymas
 
 64.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-846, 2021-12-23, paskelbta TAR 2021-12-30, i. k. 2021-27746
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 4, 12, 16, 20, 27, 29, [[#^s-d846ae844f2e2269a6b83189|57 straipsnių]] ir trečiojo-1 skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 10-5 straipsniu [[latest/d95709400d4011ebb74de75171d26d52|įstatymo Nr. XIII-3312]] 5, 7 ir [[#^s-3dae0fca055a72266c5e4d4a|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-e720a3dd065a1e66523feee3|4]], [[#^s-5147c8dc568c53b4c0a0bfd7|12]], [[#^s-aaf72a56703a345db8acf9bb|16]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-d846ae844f2e2269a6b83189|57]] straipsnių ir trečiojo-1 skirsnio pavadinimo pakeitimo ir Įstatymo papildymo 10-5 straipsniu [[latest/d95709400d4011ebb74de75171d26d52|įstatymo Nr. XIII-3312]] [[#^s-9313880242c39a30a1c3df4d|5]], [[#^s-f2ff2f9e4891b8b76f0e8273|7]] ir [[#^s-3dae0fca055a72266c5e4d4a|10]] straipsnių pakeitimo įstatymas
 
 65.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3922,17 +3922,17 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo [[latest/b8
 70.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1828, 2023-03-23, paskelbta TAR 2023-03-29, i. k. 2023-05501
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo [[latest/b8814b70041c11edb32c9f9d8ba206f8|įstatymo Nr. XIV-1268]] 1 ir [[#^s-3a85ff01b21c360ec9515715|2 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 pakeitimo [[latest/b8814b70041c11edb32c9f9d8ba206f8|įstatymo Nr. XIV-1268]] [[#^s-77d6a21c80a3b756c881f65c|1]] ir [[#^s-3a85ff01b21c360ec9515715|2]] straipsnių pakeitimo įstatymas
 
 71.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2053, 2023-06-13, paskelbta TAR 2023-06-22, i. k. 2023-12415
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 9, 12 ir [[#^s-b5ca23418192cef30e2d7fc2|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-8e9d621e4ce00947997052a6|9]], [[#^s-5147c8dc568c53b4c0a0bfd7|12]] ir [[#^s-b5ca23418192cef30e2d7fc2|25]] straipsnių pakeitimo įstatymas
 
 72.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2108, 2023-06-29, paskelbta TAR 2023-06-30, i. k. 2023-13408
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 ir [[#^s-f2ff2f9e4891b8b76f0e8273|7 straipsnių]] pakeitimo [[latest/02ba38308c0f11ed8df094f359a60216|įstatymo Nr. XIV-1730]] [[#^s-1151cc163cf18de69a198bf5|3 straipsnio]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-a3972cf6ed1c9d160f4ea487|6]] ir [[#^s-f2ff2f9e4891b8b76f0e8273|7]] straipsnių pakeitimo [[latest/02ba38308c0f11ed8df094f359a60216|įstatymo Nr. XIV-1730]] [[#^s-1151cc163cf18de69a198bf5|3 straipsnio]] pakeitimo įstatymas
 
 73.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3942,32 +3942,32 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-b0f23087774c3be
 74.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1730, 2022-12-22, paskelbta TAR 2023-01-04, i. k. 2023-00145
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6 ir [[#^s-f2ff2f9e4891b8b76f0e8273|7 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-a3972cf6ed1c9d160f4ea487|6]] ir [[#^s-f2ff2f9e4891b8b76f0e8273|7]] straipsnių pakeitimo įstatymas
 
 75.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2006, 2023-05-25, paskelbta TAR 2023-06-09, i. k. 2023-11584
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 20, 35, 67 ir [[#^s-503ab75193725923546dd52a|68 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-68102232ebd5ea98534721c0|35]], [[#^s-dba2c088f7d2b49f1ec49018|67]] ir [[#^s-503ab75193725923546dd52a|68]] straipsnių pakeitimo įstatymas
 
 76.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2246, 2023-11-16, paskelbta TAR 2023-11-29, i. k. 2023-22976
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 6, 15, 18, 21, 25, 27, 29, 33, 34, 38, 39, 43, 55, 60 ir [[#^s-503ab75193725923546dd52a|68 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-a3972cf6ed1c9d160f4ea487|6]], [[#^s-5c3802c4f5bd55e46b000199|15]], [[#^s-76ffe079d9142b9f0ff52ea2|18]], [[#^s-d6ffd9731f5d4c7d57505e01|21]], [[#^s-b5ca23418192cef30e2d7fc2|25]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-18cf86a4de32ae85f5c2ce2c|33]], [[#^s-8d1cc1fc0cee3fc787c5c548|34]], [[#^s-afc9a202f53c6121ecdf77e0|38]], [[#^s-d4afa1d2a5df364e10617caa|39]], [[#^s-51433a43beba5812c4887c25|43]], [[#^s-b0f23087774c3bedcf3b4b6e|55]], [[#^s-5b55c7a4da1631296ba3ac9c|60]] ir [[#^s-503ab75193725923546dd52a|68]] straipsnių pakeitimo įstatymas
 
 77.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2332, 2023-12-14, paskelbta TAR 2023-12-22, i. k. 2023-25086
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 15, 27, 30 ir [[#^s-8d1cc1fc0cee3fc787c5c548|34 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-5c3802c4f5bd55e46b000199|15]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-534b3a60e3934f22e43b2ca7|30]] ir [[#^s-8d1cc1fc0cee3fc787c5c548|34]] straipsnių pakeitimo įstatymas
 
 78.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2328, 2023-12-14, paskelbta TAR 2023-12-23, i. k. 2023-25315
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 15, 35 ir [[#^s-7c14e0eb76fe67b0e01ac88b|66 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-5c3802c4f5bd55e46b000199|15]], [[#^s-68102232ebd5ea98534721c0|35]] ir [[#^s-7c14e0eb76fe67b0e01ac88b|66]] straipsnių pakeitimo įstatymas
 
 79.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2460, 2023-12-23, paskelbta TAR 2023-12-29, i. k. 2023-25954
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 8 ir [[#^s-4323f2995861fb5cf621604d|26 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-15fb4213dd03970ceda76daa|8]] ir [[#^s-4323f2995861fb5cf621604d|26]] straipsnių pakeitimo įstatymas
 
 80.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -3982,12 +3982,12 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-c0d684130744012
 82.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2688, 2024-06-06, paskelbta TAR 2024-06-19, i. k. 2024-11166
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3, 9, 12, 15, 17, 18, 20, 21, 22, 23, 24, 25, 27, 29, 30, 32, 33, 34, 35, 38, 63, 67 ir [[#^s-503ab75193725923546dd52a|68 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-1151cc163cf18de69a198bf5|3]], [[#^s-8e9d621e4ce00947997052a6|9]], [[#^s-5147c8dc568c53b4c0a0bfd7|12]], [[#^s-5c3802c4f5bd55e46b000199|15]], [[#^s-75475d02a20cbdaeea31d994|17]], [[#^s-76ffe079d9142b9f0ff52ea2|18]], [[#^s-aa7ffbad73e86b3a8ffb20a0|20]], [[#^s-d6ffd9731f5d4c7d57505e01|21]], [[#^s-4df2b9fd50c29e6472333324|22]], [[#^s-87fdee95fbfdc69f3912049a|23]], [[#^s-76cb9b2e99d35d9314c09358|24]], [[#^s-b5ca23418192cef30e2d7fc2|25]], [[#^s-c0d684130744012b748fb510|27]], [[#^s-b056bd6219ead28392c04d4b|29]], [[#^s-534b3a60e3934f22e43b2ca7|30]], [[#^s-988f990374c51c1b850967b2|32]], [[#^s-18cf86a4de32ae85f5c2ce2c|33]], [[#^s-8d1cc1fc0cee3fc787c5c548|34]], [[#^s-68102232ebd5ea98534721c0|35]], [[#^s-afc9a202f53c6121ecdf77e0|38]], [[#^s-47b25dfc915d63b9ba6f599a|63]], [[#^s-dba2c088f7d2b49f1ec49018|67]] ir [[#^s-503ab75193725923546dd52a|68]] straipsnių pakeitimo įstatymas
 
 83.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT80-N11/2024, 2024-10-10, paskelbta TAR 2024-10-10, i. k. 2024-17806
-Dėl [[#^s-5d57c51ab0bf4b369cd895a5|Lietuvos Respublikos vietos savivaldos įstatymo 55 straipsnio 3 dalies]] (2023 m. birželio 29 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos vietos savivaldos įstatymo 55 straipsnio 3 dalies (2023 m. birželio 29 d. redakcija) atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/4f212a82870311efabdbb4a1fc8b0b63)
 
 84.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -4007,12 +4007,12 @@ Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-b5ca23418192cef
 87.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-342, 2025-06-25, paskelbta TAR 2025-06-30, i. k. 2025-12012
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 3 ir [[#^s-4df2b9fd50c29e6472333324|22 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-1151cc163cf18de69a198bf5|3]] ir [[#^s-4df2b9fd50c29e6472333324|22]] straipsnių pakeitimo įstatymas
 
 88.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-706, 2025-12-18, paskelbta TAR 2025-12-30, i. k. 2025-23006
-Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 15 ir [[#^s-c0d684130744012b748fb510|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos vietos savivaldos įstatymo Nr. I-533 [[#^s-5c3802c4f5bd55e46b000199|15]] ir [[#^s-c0d684130744012b748fb510|27]] straipsnių pakeitimo įstatymas
 
 89.
 Lietuvos Respublikos Seimas, Įstatymas

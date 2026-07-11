@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ir jos Protokolo ratifikavimas ^s-3efe25484defd8c0a3fbd6dc
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. kovo 24 d. dekretą Nr. 559, ratifikuoja 1976 m. spalio 29 d. Ženevoje priimtą Konvenciją dėl minimalių standartų prekybos laivuose ir jos Protokolą, priimtą 1996 m. spalio 22 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. kovo 24 d. dekretą Nr. 559](https://e-tar.lt/portal/lt/legalAct/TAR.C2F2285E1BC2), ratifikuoja 1976 m. spalio 29 d. Ženevoje priimtą Konvenciją dėl minimalių standartų prekybos laivuose ir jos Protokolą, priimtą 1996 m. spalio 22 d. Ženevoje.
 
 
 

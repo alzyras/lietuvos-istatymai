@@ -160,7 +160,7 @@ Juridiniai asmenys, Lošimų įstatyme nustatyta tvarka siekiantys įgyti licenc
 6) už licencijos organizuoti nuotolinius lošimus išdavimą – 500 000 eurų; ^s-be2f1bd0e48e531fef83e75d
 
 
-7) už visų šios dalies 1–[[#^s-be2f1bd0e48e531fef83e75d|6 punktuose]] nurodytų licencijų išdavimą – 1 000 000 eurų. ^s-7fa304f0c2637640d41b1d79
+7) už visų šios dalies [[#^s-e024e29b0cfe97aaca18129b|1]]–[[#^s-be2f1bd0e48e531fef83e75d|6]] punktuose nurodytų licencijų išdavimą – 1 000 000 eurų. ^s-7fa304f0c2637640d41b1d79
 
 
 Papildyta straipsniu:
@@ -267,7 +267,7 @@ Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 [[#^s-
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1735, 2015-05-21, paskelbta TAR 2015-06-08, i. k. 2015-08981
-Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 4 ir [[#^s-79e163a43c7f8d66b0342db1|5 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 [[#^s-112bebc00c7065465347f31c|4]] ir [[#^s-79e163a43c7f8d66b0342db1|5]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -287,7 +287,7 @@ Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 [[#^s-
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-581, 2021-10-14, paskelbta TAR 2021-10-20, i. k. 2021-21920
-Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 1, 6, [[#^s-6eb8f919637fd59d5ce18879|8 straipsnių]] pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas
+Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 [[#^s-ebe1257ccc7245ff5116e10e|1]], [[#^s-cee82890356e169a501b8040|6]], [[#^s-6eb8f919637fd59d5ce18879|8]] straipsnių pakeitimo ir Įstatymo papildymo 5-1 straipsniu įstatymas
 
 12.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -297,12 +297,12 @@ Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 [[#^s-
 13.
 Lietuvos Respublikos Konstitucinis Teismas, Nutarimas
 Nr. KT67-N6/2021, 2021-05-13, paskelbta TAR 2022-07-01, i. k. 2022-14281
-Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai
+[Dėl Lietuvos Respublikos įstatymų nuostatų, susijusių su mokesčių teisinio reguliavimo pakeitimais, atitikties Lietuvos Respublikos Konstitucijai](https://e-tar.lt/portal/lt/legalAct/1ce2a330b3f011eb8371ea260d59d64b)
 
 14.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-799, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27377
-Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 4, 5, [[#^s-cee82890356e169a501b8040|6 straipsnių]] ir trečiojo skirsnio pavadinimo pakeitimo įstatymas
+Lietuvos Respublikos loterijų ir lošimų mokesčio įstatymo Nr. IX-326 [[#^s-112bebc00c7065465347f31c|4]], [[#^s-79e163a43c7f8d66b0342db1|5]], [[#^s-cee82890356e169a501b8040|6]] straipsnių ir trečiojo skirsnio pavadinimo pakeitimo įstatymas
 
 15.
 Lietuvos Respublikos Seimas, Įstatymas

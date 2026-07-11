@@ -13,6 +13,5 @@ pavadinimas: "Lietuvos Respublikos nepaprastosios padėties įstatymo 28 straips
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.845C6618A647#^s-51465b794935d805ec5c28a9|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - 2 citatos - 1111010ISTA0XI-1418
+- [[latest/TAR.845C6618A647#^s-51465b794935d805ec5c28a9|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - 1111010ISTA0XI-1418
 - [[latest/TAR.845C6618A647#^s-93a7dc56f8e4b6f0002b3c91|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - 1111010ISTA0XI-1418
-- [[latest/TAR.845C6618A647#^s-bed0ca88c1072b4ed7479560|Lietuvos Respublikos nepaprastosios padėties įstatymas]] - 1111010ISTA0XI-1418

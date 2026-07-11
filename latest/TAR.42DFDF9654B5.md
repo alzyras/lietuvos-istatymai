@@ -42,7 +42,7 @@ Vilnius
 Pakeisti 56 straipsnio 3 dalį ir ją išdėstyti taip:
 
 
-„3. Šio straipsnio 1 dalyje numatyta licencija vežėjui išduodama pagal Tarybos Reglamento (EEB) Nr. 2407/92 dėl oro vežėjų licencijavimo nuostatas.“
+„3. Šio straipsnio 1 dalyje numatyta licencija vežėjui išduodama pagal Tarybos [Reglamento (EEB) Nr. 2407/92](https://eur-lex.europa.eu/eli/reg/2407/92/oj) dėl oro vežėjų licencijavimo nuostatas.“
 
 
 

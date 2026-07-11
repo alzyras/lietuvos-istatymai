@@ -42,7 +42,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-4c261aa45e1acc482e876aca
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2006 m. gruodžio 28 d. dekretą Nr. 1K-844, ratifikuoja 2006 m. liepos 17 d. Briuselyje priimtą Taryboje posėdžiavusių valstybių narių vyriausybių atstovų vidaus susitarimą dėl Bendrijos pagalbos finansavimo pagal 2008–2013 m. daugiametę finansavimo programą vadovaujantis AKR ir EB partnerystės susitarimu ir dėl finansinės pagalbos skyrimo užjūrio šalims ir teritorijoms, kurioms taikoma EB sutarties ketvirta dalis.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2006 m. gruodžio 28 d. dekretą Nr. 1K-844](https://e-tar.lt/portal/lt/legalAct/TAR.19D4EA0C1049), ratifikuoja 2006 m. liepos 17 d. Briuselyje priimtą Taryboje posėdžiavusių valstybių narių vyriausybių atstovų vidaus susitarimą dėl Bendrijos pagalbos finansavimo pagal 2008–2013 m. daugiametę finansavimo programą vadovaujantis AKR ir EB partnerystės susitarimu ir dėl finansinės pagalbos skyrimo užjūrio šalims ir teritorijoms, kurioms taikoma EB sutarties ketvirta dalis.
 
 
 

@@ -38,7 +38,7 @@ Vilnius
 ### 1 straipsnis. Tarptautinės migracijos organizacijos konstitucijos pataisų ratifikavimas ^s-10bf4d9a5bb268539a58f1c4
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 22 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinės migracijos organizacijos konstitucijos pataisas“, ratifikuoja Tarptautinės migracijos organizacijos konstitucijos pataisas, priimtas Tarptautinės migracijos organizacijos tarybos 76-ojoje sesijoje, įvykusioje 1998 m. lapkričio 23-25 dienomis Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 2 dalimi bei atsižvelgdamas į Respublikos Prezidento 1999 m. gruodžio 22 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Tarptautinės migracijos organizacijos konstitucijos pataisas“](https://e-tar.lt/portal/lt/legalAct/TAR.E44ED549455F), ratifikuoja Tarptautinės migracijos organizacijos konstitucijos pataisas, priimtas Tarptautinės migracijos organizacijos tarybos 76-ojoje sesijoje, įvykusioje 1998 m. lapkričio 23-25 dienomis Ženevoje.
 
 
 

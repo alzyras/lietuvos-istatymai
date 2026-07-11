@@ -74,7 +74,7 @@ Papildyti Kodeksą [[#^s-45d31dec91bdf8c263022c21|32 straipsniu]]:
 „2. Ikiteisminio tyrimo metu teismo posėdžiai, kuriuose nagrinėjami kardomųjų ir kitų procesinių prievartos priemonių skyrimo klausimai arba proceso dalyvių skundai, yra nevieši, išskyrus atvejus, kai teismas nusprendžia kitaip.“
 
 
-2. Buvusias [[#^s-5c5d1ca30d223258cadc2e87|9 straipsnio]] 2, 3, 4, 5 dalis laikyti atitinkamai 3, 4, 5, 6 dalimis. ^s-2ac6287def88597132b14776
+2. Buvusias [[#^s-5c5d1ca30d223258cadc2e87|9 straipsnio]] [[#^s-e8408364c72304e520afbbe2|2]], 3, 4, 5 dalis laikyti atitinkamai 3, 4, 5, 6 dalimis. ^s-2ac6287def88597132b14776
 
 
 
@@ -150,7 +150,7 @@ Pakeisti 147 straipsnio 1 dalį ir ją išdėstyti taip:
 „1. Kai pagal prokuroro prašymą yra priimta ikiteisminio tyrimo teisėjo nutartis, ikiteisminio tyrimo pareigūnas gali klausytis asmenų pokalbių, perduodamų elektroninių ryšių tinklais, daryti jų įrašus, kontroliuoti kitą elektroninių ryšių tinklais perduodamą informaciją ir ją fiksuoti bei kaupti, jeigu yra pagrindas manyti, kad tokiu būdu galima gauti duomenų apie rengiamą, daromą ar padarytą labai sunkų, sunkų ar apysunkį nusikaltimą arba apie nesunkius nusikaltimus, numatytus Lietuvos Respublikos baudžiamojo kodekso 170 straipsnyje, 1982 straipsnio 1 dalyje, arba jeigu yra pavojus, kad nukentėjusiajam, liudytojui ar kitiems proceso dalyviams arba jų artimiesiems bus panaudotas smurtas, prievartavimas ar kitokios neteisėtos veikos.“
 
 
-2. Papildyti 154 straipsnį nauja [[#^s-4950ac5f26890f5a299e119c|2 dalimi]]: ^s-4950ac5f26890f5a299e119c
+2. Papildyti 154 straipsnį nauja 2 dalimi: ^s-4950ac5f26890f5a299e119c
 
 
 „2. Ikiteisminio tyrimo teisėjo nutartyje ar prokuroro nutarime klausytis asmenų pokalbių, perduodamų elektroninių ryšių tinklais, daryti jų įrašus, kontroliuoti kitą elektroninių ryšių tinklais perduodamą informaciją ir ją fiksuoti bei kaupti turi būti nurodyta:
@@ -359,7 +359,7 @@ Pakeisti ir papildyti 181 straipsnį ir jį išdėstyti taip:
 1. Įtariamasis ir jo gynėjas, nukentėjusysis ir jo atstovas ikiteisminio tyrimo metu bet kuriuo momentu turi teisę susipažinti su ikiteisminio tyrimo duomenimis, išskyrus proceso dalyvių asmens duomenis, saugomus atskirai nuo kitos ikiteisminio tyrimo medžiagos, taip pat susipažinimo metu daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus. Rašytinis prašymas susipažinti su ikiteisminio tyrimo medžiaga ar susipažinimo metu daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus pateikiamas prokurorui. Prokuroras privalo išnagrinėti prašymą ne vėliau kaip per septynias dienas nuo jo gavimo dienos, o kai prašymui išnagrinėti reikalinga ikiteisminio tyrimo medžiaga, – per septynias dienas nuo šios medžiagos gavimo. Prokuroras turi teisę neleisti susipažinti su visais ikiteisminio tyrimo duomenimis ar jų dalimi, taip pat neleisti daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus, jei toks susipažinimas, prokuroro manymu, galėtų pakenkti ikiteisminio tyrimo sėkmei. Atsisakydamas leisti susipažinti su visais ikiteisminio tyrimo duomenimis ar jų dalimi, taip pat atsisakydamas leisti daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus, prokuroras privalo surašyti motyvuotą nutarimą. Šis nutarimas per septynias dienas nuo jo nuorašo gavimo dienos gali būti apskųstas ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjas privalo tokį skundą išnagrinėti per septynias dienas nuo jo gavimo ir priimti nutartį. Ikiteisminio tyrimo teisėjo priimta nutartis neskundžiama. ^s-bced4ae838f79687c1dcbcb2
 
 
-2. Prokuroras neturi teisės neleisti susipažinti su visais ikiteisminio tyrimo duomenimis, jei ikiteisminis tyrimas baigtas ir yra rašomas kaltinamasis aktas. Susipažinimo su ikiteisminio tyrimo medžiaga metu proceso dalyviai turi teisę šio straipsnio 1 ir [[#^s-b5d04250820f60ca79ea18dd|6 dalyse]] nustatyta tvarka daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus. ^s-e50af4486d20b5bf983d3a05
+2. Prokuroras neturi teisės neleisti susipažinti su visais ikiteisminio tyrimo duomenimis, jei ikiteisminis tyrimas baigtas ir yra rašomas kaltinamasis aktas. Susipažinimo su ikiteisminio tyrimo medžiaga metu proceso dalyviai turi teisę šio straipsnio [[#^s-bced4ae838f79687c1dcbcb2|1]] ir [[#^s-b5d04250820f60ca79ea18dd|6]] dalyse nustatyta tvarka daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus. ^s-e50af4486d20b5bf983d3a05
 
 
 3. Jeigu įtariamasis yra suimtas, teisę susipažinti su ikiteisminio tyrimo duomenimis ir teisę daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus turi jo gynėjas, o atsisakius gynėjo – įtariamasis. ^s-0485c77dd5c9218e5908146d
@@ -368,7 +368,7 @@ Pakeisti ir papildyti 181 straipsnį ir jį išdėstyti taip:
 4. Jeigu įtariamasis – užsienio valstybės pilietis yra ne Lietuvos Respublikos teritorijoje, teisę susipažinti su ikiteisminio tyrimo dėl nusikaltimo, už kurį numatyta atsakomybė Lietuvos Respublikos tarptautinių sutarčių ir Baudžiamojo kodekso [[#^s-558981d6838c2060f46fee85|7 straipsnio]] pagrindais, duomenimis ir teisę daryti ikiteisminio tyrimo medžiagos kopijas ar išrašus turi jo gynėjas. ^s-f31ed7c869bc35a5dff4174d
 
 
-5. Turintys teisę paduoti skundą dėl sprendimo nutraukti ikiteisminį tyrimą asmenys, nurodyti šio Kodekso 214 straipsnio 3 dalyje, turi teisę šio straipsnio 1 ir [[#^s-b5d04250820f60ca79ea18dd|6 dalyse]] nustatyta tvarka susipažinti su visa nutraukto ikiteisminio tyrimo medžiaga ar jos dalimi. ^s-08e1942709976822150fee4e
+5. Turintys teisę paduoti skundą dėl sprendimo nutraukti ikiteisminį tyrimą asmenys, nurodyti šio Kodekso 214 straipsnio 3 dalyje, turi teisę šio straipsnio 1 ir 6 dalyse nustatyta tvarka susipažinti su visa nutraukto ikiteisminio tyrimo medžiaga ar jos dalimi. ^s-08e1942709976822150fee4e
 
 
 6. Susipažinimo su ikiteisminio tyrimo medžiaga metu draudžiama daryti ikiteisminio tyrimo medžiagos kopijas, kai duomenys yra: ^s-b5d04250820f60ca79ea18dd
@@ -423,7 +423,7 @@ Pakeisti 183 straipsnio 3 dalį ir ją išdėstyti taip:
 2. Pakeisti 214 straipsnio 4 dalį ir ją išdėstyti taip: ^s-dd52043cc658d3431664eaf3
 
 
-„4. [[#^s-c02423d64c6945cb18323c17|Šio straipsnio 1 dalyje]] numatytas nutarimas gali būti skundžiamas aukštesniajam prokurorui, kuris privalo išnagrinėti skundą ne vėliau kaip per dvidešimt dienų nuo jo gavimo. Jei aukštesnysis prokuroras atsisako patenkinti skundą, šis jo nutarimas gali būti skundžiamas ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjo sprendimas dėl skundo, taip pat [[#^s-dd52043cc658d3431664eaf3|šio straipsnio  2 dalyje]] numatytas ikiteisminio tyrimo teisėjo sprendimas gali būti skundžiami šio Kodekso X dalyje nustatyta tvarka.“
+„4. [[#^s-c02423d64c6945cb18323c17|Šio straipsnio 1 dalyje]] numatytas nutarimas gali būti skundžiamas aukštesniajam prokurorui, kuris privalo išnagrinėti skundą ne vėliau kaip per dvidešimt dienų nuo jo gavimo. Jei aukštesnysis prokuroras atsisako patenkinti skundą, šis jo nutarimas gali būti skundžiamas ikiteisminio tyrimo teisėjui. Ikiteisminio tyrimo teisėjo sprendimas dėl skundo, taip pat šio straipsnio  2 dalyje numatytas ikiteisminio tyrimo teisėjo sprendimas gali būti skundžiami šio Kodekso X dalyje nustatyta tvarka.“
 
 
 3. Pakeisti 214 straipsnio 5 dalį ir ją išdėstyti taip: ^s-312f6c6af098ff233da3954e
@@ -457,10 +457,10 @@ Pakeisti ir papildyti 217 straipsnį ir jį išdėstyti taip:
 3. Ikiteisminis tyrimas, kuris buvo nutrauktas šio Kodekso 212 straipsnio 3–9 punktuose numatytais atvejais, atnaujinamas, kai ikiteisminio tyrimo teisėjas patvirtina prokuroro nutarimą atnaujinti nutrauktą ikiteisminį tyrimą. Ikiteisminio tyrimo teisėjo nutartis atsisakyti patvirtinti prokuroro nutarimą atnaujinti nutrauktą ikiteisminį tyrimą gali būti skundžiama šio Kodekso X dalyje nustatyta tvarka. ^s-add8b5469a56a3dcf4ae4518
 
 
-4. Jeigu įtariamasis, dėl kurio padarytos veikos ikiteisminis tyrimas buvo nutrauktas šio Kodekso 212 straipsnio 5 punkte numatytu atveju, per vienerius metus nuo ikiteisminio tyrimo nutraukimo padaro naują nusikalstamą veiką, prokuroras Lietuvos Respublikos baudžiamojo kodekso 38 straipsnio 3 dalyje nurodytomis sąlygomis gali, o to paties [[#^s-cd8a9927b06f98c256c5f005|straipsnio 4 dalyje]] nurodytomis sąlygomis privalo priimti nutarimą atnaujinti nutrauktą ikiteisminį tyrimą. ^s-cd8a9927b06f98c256c5f005
+4. Jeigu įtariamasis, dėl kurio padarytos veikos ikiteisminis tyrimas buvo nutrauktas šio Kodekso 212 straipsnio 5 punkte numatytu atveju, per vienerius metus nuo ikiteisminio tyrimo nutraukimo padaro naują nusikalstamą veiką, prokuroras Lietuvos Respublikos baudžiamojo kodekso 38 straipsnio 3 dalyje nurodytomis sąlygomis gali, o to paties straipsnio 4 dalyje nurodytomis sąlygomis privalo priimti nutarimą atnaujinti nutrauktą ikiteisminį tyrimą. ^s-cd8a9927b06f98c256c5f005
 
 
-5. Jeigu įtariamasis, dėl kurio padarytos veikos ikiteisminis tyrimas buvo nutrauktas šio Kodekso 212 straipsnio 6 punkte numatytu atveju, kol nesibaigė laidavimo terminas, padaro naują nusikalstamą veiką arba jeigu laiduotojas atsisako laidavimo, prokuroras Lietuvos Respublikos baudžiamojo kodekso [[#^s-79790f269b8c5b6045e1f137|40 straipsnio]] 6 ir [[#^s-627fe9ca9cb308a942871d43|7 dalyse]] nurodytomis sąlygomis gali, o to paties straipsnio 8 dalyje nurodytomis sąlygomis privalo priimti nutarimą atnaujinti nutrauktą ikiteisminį tyrimą. ^s-9433cb21b978afda1ddcef00
+5. Jeigu įtariamasis, dėl kurio padarytos veikos ikiteisminis tyrimas buvo nutrauktas šio Kodekso 212 straipsnio 6 punkte numatytu atveju, kol nesibaigė laidavimo terminas, padaro naują nusikalstamą veiką arba jeigu laiduotojas atsisako laidavimo, prokuroras Lietuvos Respublikos baudžiamojo kodekso [[#^s-79790f269b8c5b6045e1f137|40 straipsnio]] 6 ir 7 dalyse nurodytomis sąlygomis gali, o to paties straipsnio 8 dalyje nurodytomis sąlygomis privalo priimti nutarimą atnaujinti nutrauktą ikiteisminį tyrimą. ^s-9433cb21b978afda1ddcef00
 
 
 6. Jeigu įtariamasis, dėl kurio padarytos veikos ikiteisminis tyrimas buvo nutrauktas šio Kodekso 212 straipsnio 7 punkte numatytu atveju, tolesnio proceso metu vengia duoti parodymus, prokuroras gali priimti nutarimą atnaujinti nutrauktą ikiteisminį tyrimą. ^s-71fa1b9c947860bbe0709a4c
@@ -476,7 +476,7 @@ Pakeisti ir papildyti 217 straipsnį ir jį išdėstyti taip:
 1. Pakeisti 218 straipsnio 2 dalį ir ją išdėstyti taip: ^s-8fc2f1716e6836ef14adb0ac
 
 
-„2. [[#^s-8fc2f1716e6836ef14adb0ac|Šio straipsnio 1 dalyje]] numatyti proceso dalyviai turi teisę per prokuroro nustatytą terminą pateikti prašymą susipažinti su ikiteisminio tyrimo medžiaga. Jeigu yra toks jų prašymas, jie supažindinami su ikiteisminio tyrimo medžiaga, išskyrus asmens duomenis, saugomus atskirai nuo kitos ikiteisminio tyrimo medžiagos. Gali būti supažindinama įteikiant ikiteisminio tyrimo medžiagos kopiją. Proceso dalyvio sutikimu ikiteisminio tyrimo medžiagos kopija gali būti įteikiama perkelta į elektroninę laikmeną. Tais atvejais, kai kopija neįteikiama, prokuroras nustato terminą, per kurį proceso dalyviai turi teisę susipažinti su ikiteisminio tyrimo medžiaga ir pateikti prašymus dėl ikiteisminio tyrimo papildymo.“
+„2. Šio straipsnio 1 dalyje numatyti proceso dalyviai turi teisę per prokuroro nustatytą terminą pateikti prašymą susipažinti su ikiteisminio tyrimo medžiaga. Jeigu yra toks jų prašymas, jie supažindinami su ikiteisminio tyrimo medžiaga, išskyrus asmens duomenis, saugomus atskirai nuo kitos ikiteisminio tyrimo medžiagos. Gali būti supažindinama įteikiant ikiteisminio tyrimo medžiagos kopiją. Proceso dalyvio sutikimu ikiteisminio tyrimo medžiagos kopija gali būti įteikiama perkelta į elektroninę laikmeną. Tais atvejais, kai kopija neįteikiama, prokuroras nustato terminą, per kurį proceso dalyviai turi teisę susipažinti su ikiteisminio tyrimo medžiaga ir pateikti prašymus dėl ikiteisminio tyrimo papildymo.“
 
 
 2. Pakeisti 218 straipsnio 4 dalį ir ją išdėstyti taip: ^s-fd69e58b514405131086b321
@@ -583,7 +583,7 @@ Pakeisti ir papildyti 3742 straipsnį ir jį išdėstyti taip:
 3) bylą pirmosios instancijos tvarka nagrinėjo apygardos teismo Baudžiamųjų bylų skyriaus trijų teisėjų kolegija, arba ^s-e6766a0e4ce0ea738fc0f531
 
 
-4) apeliacinės instancijos teismas šio Kodekso 329 straipsnio 1–[[#^s-e6766a0e4ce0ea738fc0f531|3 punktuose]] numatytais atvejais yra panaikinęs pirmosios instancijos teismo nuosprendį ir priėmęs naują nuosprendį, arba ^s-b9d9009110cd57110be69005
+4) apeliacinės instancijos teismas šio Kodekso 329 straipsnio 1–3 punktuose numatytais atvejais yra panaikinęs pirmosios instancijos teismo nuosprendį ir priėmęs naują nuosprendį, arba ^s-b9d9009110cd57110be69005
 
 
 5) atrankos kolegija ar bylai nagrinėti sudaryta teisėjų kolegija nusprendžia, kad būtina išklausyti proceso dalyvių žodinius paaiškinimus. ^s-bff6530c4f86bdbae881e5f0
@@ -671,7 +671,7 @@ Pakeisti ir papildyti 429 straipsnį ir jį išdėstyti taip:
 ### 41 straipsnis. Įstatymo įsigaliojimas ^s-a3d80f159609461716fcbe4e
 
 
-Šis įstatymas, išskyrus 4, 31, 32, 33, 34 ir 41 straipsnius, įsigalioja 2011 m. rugsėjo 1 d.
+Šis įstatymas, išskyrus [[#^s-e5457de07a780c2dfadb8b0d|4]], [[#^s-b1f0a60b9abb9e81daf8b62a|31]], [[#^s-45d31dec91bdf8c263022c21|32]], [[#^s-2f661941ada8b343f408c218|33]], [[#^s-a4cb51ab9bd5181a413e77e9|34]] ir 41 straipsnius, įsigalioja 2011 m. rugsėjo 1 d.
 
 
 

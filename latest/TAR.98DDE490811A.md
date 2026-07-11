@@ -56,7 +56,7 @@ Pakeisti 4 straipsnio 1 dalį ir ją išdėstyti taip:
 3) [[#^s-5e565d1c3431de7002c3e438|šios dalies 1 punkte]] nurodytų institucijų ir (ar) [[#^s-3bdb9ccef3941e58c69dbeb4|2 punkte]] nurodytų viešųjų ar privačiųjų juridinių asmenų asociacija; ^s-c2fa0351d6d1598722bc2117
 
 
-4) šio įstatymo 70 straipsnio 1 dalies 2, 3 ir [[#^s-e3a91b458e97112461fd445a|4 punktuose]] nurodytos perkančiosios įmonės, veikiančios vandentvarkos, energetikos, transporto ar pašto paslaugų srityje.“ ^s-e3a91b458e97112461fd445a
+4) šio įstatymo 70 straipsnio 1 dalies 2, 3 ir 4 punktuose nurodytos perkančiosios įmonės, veikiančios vandentvarkos, energetikos, transporto ar pašto paslaugų srityje.“ ^s-e3a91b458e97112461fd445a
 
 
 

@@ -97,7 +97,7 @@ Pakeisti ir papildyti 6 straipsnį ir jį išdėstyti taip:
 12) prašymų išduoti vizas asmenims, išsaugojusiems teisę į Lietuvos Respublikos pilietybę, pateikusiems tai patvirtinančius dokumentus, nagrinėjimą; ^s-5caba8c777989389d4399a79
 
 
-13) prašymų išduoti vizas nagrinėjimą konsulinės įstaigos vadovo, kai jis veikia kaip konsulinis pareigūnas, sprendimu išimtiniais, kitais, negu numatyta šio straipsnio 8–[[#^s-5caba8c777989389d4399a79|12 punktuose]], atvejais, kai užsieniečiai atvyksta į Lietuvos Respubliką kultūros, užsienio politikos, vystomojo bendradarbiavimo skatinimo ar kitais visuomenei svarbiais tikslais arba dėl humanitarinių priežasčių; ^s-2d4d748bbcba0c62d885026c
+13) prašymų išduoti vizas nagrinėjimą konsulinės įstaigos vadovo, kai jis veikia kaip konsulinis pareigūnas, sprendimu išimtiniais, kitais, negu numatyta šio straipsnio [[#^s-683ee79573798538afa5ddfc|8]]–[[#^s-5caba8c777989389d4399a79|12]] punktuose, atvejais, kai užsieniečiai atvyksta į Lietuvos Respubliką kultūros, užsienio politikos, vystomojo bendradarbiavimo skatinimo ar kitais visuomenei svarbiais tikslais arba dėl humanitarinių priežasčių; ^s-2d4d748bbcba0c62d885026c
 
 
 14) prašymų išduoti (D) vizas užsieniečiams, dėl kurių priimtas sprendimas išduoti leidimą gyventi Lietuvos Respublikoje, nagrinėjimą konsulinėse įstaigose; ^s-436d42b5971091b62c8920ed

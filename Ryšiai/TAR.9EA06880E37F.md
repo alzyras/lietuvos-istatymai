@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.E0EA485657C8#^s-89bdd44f97d58058702df322|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas]] - 3 citatos - 1121010ISTA0XI-1974
+- [[latest/TAR.E0EA485657C8#^s-89bdd44f97d58058702df322|Lietuvos Respublikos Lietuvos šaulių sąjungos įstatymas]] - 2 citatos - 1121010ISTA0XI-1974

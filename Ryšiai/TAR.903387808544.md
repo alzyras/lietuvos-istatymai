@@ -9,8 +9,8 @@ pavadinimas: "Lietuvos Respublikos teismų įstatymo papildymo 18(1) straipsniu 
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.67B5099C5848|Lietuvos Respublikos administracinių bylų teisenos įstatymas]] - Administracinių bylų teisenos įstatymas
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.522B3E415B52#^s-16e97f1ad515a000b7f6b4e9|Lietuvos Respublikos teismų įstatymas]] - 2 citatos - LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO PAPILDYMO 18(1) STRAIPSNIU IR 9, 14, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.522B3E415B52#^s-16e97f1ad515a000b7f6b4e9|Lietuvos Respublikos teismų įstatymas]] - LIETUVOS RESPUBLIKOS TEISMŲ ĮSTATYMO PAPILDYMO 18(1) STRAIPSNIU IR 9, 14, 15 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

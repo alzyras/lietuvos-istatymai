@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.C54AFFAA7622#^s-71565f5ca82ac9fb9b0b1ff7|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Įstatymas Nr. XIII-2814
-- [[latest/TAR.C54AFFAA7622#^s-7d484803c9cc6716a4c73283|Lietuvos Respublikos viešųjų pirkimų įstatymas]] - Įstatymas Nr. XIII-2814
+_Nėra._

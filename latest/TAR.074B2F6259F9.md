@@ -372,7 +372,7 @@ Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 
 
 2) įgyta profesinė patirtis trečiojoje valstybėje, jeigu ji būtina atitinkamai profesinei kvalifikacijai Lietuvos Respublikoje įgyti. ^s-828b6c2ed43931186b03ad42
-TAR pastaba. [[#^s-828b6c2ed43931186b03ad42|61 straipsnio 4 dalies 2 punkte]], 5 dalies 3 punkte ir 12 dalies 3 punkte nustatytas reikalavimas turėti atitinkamą profesinę patirtį, jeigu ji būtina atitinkamai profesinei kvalifikacijai Lietuvos Respublikoje įgyti, netaikomas asmenims, kurie iki šio įstatymo įsigaliojimo yra pateikę prašymus dėl jų profesinės kvalifikacijos, įgytos trečiojoje valstybėje, pripažinimo.
+TAR pastaba. 61 straipsnio 4 dalies 2 punkte, 5 dalies 3 punkte ir 12 dalies 3 punkte nustatytas reikalavimas turėti atitinkamą profesinę patirtį, jeigu ji būtina atitinkamai profesinei kvalifikacijai Lietuvos Respublikoje įgyti, netaikomas asmenims, kurie iki šio įstatymo įsigaliojimo yra pateikę prašymus dėl jų profesinės kvalifikacijos, įgytos trečiojoje valstybėje, pripažinimo.
 
 
 5. [[#^s-932c865b84f46ed8a67c9114|Šio straipsnio 3 dalies 2 punkte]] nurodytas sprendimas priimamas, jeigu yra tenkinama bent viena iš šių sąlygų: ^s-80a7adfa88eb11d91190c60e
@@ -504,7 +504,7 @@ KVALIFIKACIJOS PRIPAŽINIMAS, KAI SIEKIAMA TEIKTI PASLAUGAS LAIKINAI IR KARTAIS
 ### 7 straipsnis. Laisvo paslaugų teikimo principas ^s-7e242fc8df383fbacc43806a
 
 
-1. Nepažeidžiant šio įstatymo 8 ir [[#^s-0a54b43c1f948fde3529be6c|9 straipsnių]], paslaugos teikėjui neribojama laisvė dirbti pagal tą pačią profesiją Lietuvos Respublikoje, jeigu paslaugos teikėjas yra teisėtai įsisteigęs valstybėje narėje (toliau – įsisteigimo valstybė narė). ^s-310f526710d1ad35b02e3dbe
+1. Nepažeidžiant šio įstatymo [[#^s-2fb7ffec7a5eac6a7b77d2dd|8]] ir [[#^s-0a54b43c1f948fde3529be6c|9]] straipsnių, paslaugos teikėjui neribojama laisvė dirbti pagal tą pačią profesiją Lietuvos Respublikoje, jeigu paslaugos teikėjas yra teisėtai įsisteigęs valstybėje narėje (toliau – įsisteigimo valstybė narė). ^s-310f526710d1ad35b02e3dbe
 
 
 2. Šio įstatymo II dalies nuostatos taikomos tik tada, kai paslaugos teikėjas atvyksta į Lietuvos Respublikos teritoriją laikinai ir kartais dirbti pagal tam tikrą profesiją. ^s-951da0cc63f333a739e8a5d8
@@ -612,7 +612,7 @@ Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
 
 
 
-13. Jeigu Lietuvos Respublikos kompetentinga institucija nepriima sprendimo arba nepraneša apie kliūtis, dėl kurių šio sprendimo priėmimas atidedamas šio straipsnio 9 ir [[#^s-83b4e28f607ff60c4ee5be21|10 dalyse]] nustatytais terminais, paslaugą galima pradėti teikti. ^s-855d6ef9a65f64680a2e3719
+13. Jeigu Lietuvos Respublikos kompetentinga institucija nepriima sprendimo arba nepraneša apie kliūtis, dėl kurių šio sprendimo priėmimas atidedamas šio straipsnio [[#^s-51c11bbe5f40c7645fc0d034|9]] ir [[#^s-83b4e28f607ff60c4ee5be21|10]] dalyse nustatytais terminais, paslaugą galima pradėti teikti. ^s-855d6ef9a65f64680a2e3719
 
 
 14. [[#^s-298268b009aa4f83b59f6625|Šio straipsnio 9 dalies 2 punkte]] nurodyti sprendimai gali būti skundžiami Apeliacinei komisijai arba administraciniam teismui [[latest/TAR.67B5099C5848|Administracinių bylų teisenos įstatymo]] nustatyta tvarka. ^s-7ba560e46a812047fcbe5638
@@ -621,7 +621,7 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 
 
 
-15. Kai kvalifikacija patikrinama pagal šio straipsnio 8–[[#^s-82f4d76ead16f99f991f6fcc|11 dalių]] nuostatas, paslauga teikiama naudojant Lietuvos Respublikos suteiktą profesinį vardą. ^s-2ee5e4e95793f277f8176b2f
+15. Kai kvalifikacija patikrinama pagal šio straipsnio [[#^s-4977cd6b6a210994fa5d9b54|8]]–[[#^s-82f4d76ead16f99f991f6fcc|11]] dalių nuostatas, paslauga teikiama naudojant Lietuvos Respublikos suteiktą profesinį vardą. ^s-2ee5e4e95793f277f8176b2f
 
 
 
@@ -634,10 +634,10 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 2. Lietuvos Respublikos kompetentinga institucija, nusprendusi patikrinti paslaugų teikėjo profesinę kvalifikaciją, gali prašyti įsisteigimo valstybės narės kompetentingų institucijų pateikti informaciją apie paslaugos teikėjo baigtus rengimo kursus tiek, kiek tai reikalinga siekiant įvertinti esminius skirtumus, galinčius padaryti žalos visuomenės sveikatai ar saugai. ^s-0675b97345085e61e1146e03
 
 
-3. Valstybės narės kompetentingos institucijos prašymu Lietuvos Respublikos kompetentingos institucijos šio straipsnio 1 ir [[#^s-0675b97345085e61e1146e03|2 dalyse]] nurodytą informaciją teikia pagal šio įstatymo [[#^s-e002587aecaa787a59e223b1|58 straipsnio]] nuostatas. ^s-67f37de8005d202d51b80e81
+3. Valstybės narės kompetentingos institucijos prašymu Lietuvos Respublikos kompetentingos institucijos šio straipsnio [[#^s-5d18b1a438162a2395f4735b|1]] ir [[#^s-0675b97345085e61e1146e03|2]] dalyse nurodytą informaciją teikia pagal šio įstatymo [[#^s-e002587aecaa787a59e223b1|58 straipsnio]] nuostatas. ^s-67f37de8005d202d51b80e81
 
 
-4. Tuo atveju, kai profesija nėra reglamentuojama Lietuvos Respublikoje, informaciją, nurodytą šio straipsnio 1 ir [[#^s-0675b97345085e61e1146e03|2 dalyse]], teikia šio įstatymo [[#^s-a7b2111c133bb31a5d36adac|62 straipsnyje]] nurodytas Lietuvos Respublikos pagalbos centras. ^s-9f21099f6e859d0321a3b6eb
+4. Tuo atveju, kai profesija nėra reglamentuojama Lietuvos Respublikoje, informaciją, nurodytą šio straipsnio [[#^s-5d18b1a438162a2395f4735b|1]] ir [[#^s-0675b97345085e61e1146e03|2]] dalyse, teikia šio įstatymo [[#^s-a7b2111c133bb31a5d36adac|62 straipsnyje]] nurodytas Lietuvos Respublikos pagalbos centras. ^s-9f21099f6e859d0321a3b6eb
 
 
 5. Lietuvos Respublikos kompetentingos institucijos turi užtikrinti, kad kitų valstybių narių kompetentingoms institucijoms būtų pateikta visa informacija, būtina paslaugos gavėjo skundams apie paslaugos teikėją tinkamai išnagrinėti. Paslaugos gavėjams turi būti pranešama apie skundo nagrinėjimo baigtį. ^s-db51016541ecd2bc585ab7d6
@@ -691,13 +691,13 @@ BENDROJI FORMALIOS KVALIFIKACIJOS ĮRODYMŲ PRIPAŽINIMO SISTEMA
 1) šio įstatymo 2 priede nurodytai veiklai, kai atvykęs asmuo neatitinka šio įstatymo [[#^s-026983485f51232fa0e3544e|17 straipsnyje]] nustatytų reikalavimų; ^s-655eba4b9f6e402b369b3bf9
 
 
-2) kai atvykę pagrindinį rengimą baigę medicinos gydytojai, bendrosios praktikos slaugytojai, gydytojai odontologai, veterinarijos gydytojai, akušeriai, vaistininkai ir architektai neatitinka šio įstatymo 21, 25, 31, 35, 37, 41 ir [[#^s-6a1dd5550e472d280137f858|47 straipsniuose]] nurodytos faktiškos ir teisėtos profesinės praktikos reikalavimų; ^s-282fe9ef25c18010a9fd8b26
+2) kai atvykę pagrindinį rengimą baigę medicinos gydytojai, bendrosios praktikos slaugytojai, gydytojai odontologai, veterinarijos gydytojai, akušeriai, vaistininkai ir architektai neatitinka šio įstatymo [[#^s-7af6ce1940aa9fc4ba86abac|21]], [[#^s-708d834c6380c8e3b40162e1|25]], 31, [[#^s-90eea0bfa67833289e7d7f5c|35]], [[#^s-62bf4a041b325fc65e7768b6|37]], [[#^s-06f615f431fc53d6f98e0f2b|41]] ir [[#^s-6a1dd5550e472d280137f858|47]] straipsniuose nurodytos faktiškos ir teisėtos profesinės praktikos reikalavimų; ^s-282fe9ef25c18010a9fd8b26
 
 
 3) kai atvykę architektai turi formalios kvalifikacijos įrodymą, nenurodytą šio įstatymo 3 priedo 3.7 papunktyje; ^s-837aab4f4d373a25a15984f8
 
 
-4) nepažeidžiant šio įstatymo [[#^s-ff8ec941ed75edc032818b1c|18 straipsnio]] 1, 2 ir 3 dalių, 21 ir [[#^s-708d834c6380c8e3b40162e1|25 straipsnių]], kai atvykę medicinos gydytojai, bendrosios praktikos slaugytojai, gydytojai odontologai, veterinarijos gydytojai, akušeriai, vaistininkai ir architektai, turintys formalios kvalifikacijos įrodymą, turi būti baigę rengimą, leidžiantį įgyti šio įstatymo 3 priedo 3.1.1, 3.2.2, 3.3.2, 3.4.2, 3.5.2, 3.6.2 ir 3.7.1 papunkčiuose nurodytą profesinį vardą, ir tik atitinkamai profesinei kvalifikacijai pripažinti; ^s-aba6a17b48f7ba95d42c3bb2
+4) nepažeidžiant šio įstatymo [[#^s-ff8ec941ed75edc032818b1c|18 straipsnio]] [[#^s-bb2d036119b209070fd847c0|1]], [[#^s-e84217f763a29f33c0a19fc9|2]] ir [[#^s-d4ad65157a42baf1510f3bbb|3]] dalių, [[#^s-7af6ce1940aa9fc4ba86abac|21]] ir [[#^s-708d834c6380c8e3b40162e1|25]] straipsnių, kai atvykę medicinos gydytojai, bendrosios praktikos slaugytojai, gydytojai odontologai, veterinarijos gydytojai, akušeriai, vaistininkai ir architektai, turintys formalios kvalifikacijos įrodymą, turi būti baigę rengimą, leidžiantį įgyti šio įstatymo 3 priedo 3.1.1, 3.2.2, 3.3.2, 3.4.2, 3.5.2, 3.6.2 ir 3.7.1 papunkčiuose nurodytą profesinį vardą, ir tik atitinkamai profesinei kvalifikacijai pripažinti; ^s-aba6a17b48f7ba95d42c3bb2
 
 
 5) kai atvykę bendrosios praktikos slaugytojai ir slaugytojai specialistai, kurie turi specialisto formalios kvalifikacijos įrodymą ir yra baigę rengimą, leidžiantį įgyti šio įstatymo 3 priedo 3.2.2 papunktyje nurodytą profesinį vardą, siekia pripažinimo Lietuvos Respublikoje, jeigu atitinkama profesine veikla turi teisę užsiimti slaugytojai specialistai, nebaigę bendrosios praktikos slaugytojo rengimo; ^s-5cd81c63803eeb4a71848e48
@@ -724,7 +724,7 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 2. Pirmojo lygio kvalifikaciją įrodo kompetenciją patvirtinantis dokumentas, išduotas kilmės valstybės narės kompetentingos institucijos, paskirtos vadovaujantis tos valstybės narės teisės aktų nuostatomis, atsižvelgiant: ^s-89396f4721aef7f4d542ef8f
 
 
-1) į rengimo kursą, kuris nėra pažymėjimui ar diplomui, nurodytiems šio straipsnio 3, 4, 5, [[#^s-918dfedcf37eb1049b5aa0fe|6 dalyse]], gauti reikalingos programos dalis, į specialų egzaminą be išankstinio pasirengimo arba darbą pagal atitinkamą profesiją valstybėje narėje trejus metus iš eilės visą darbo laiką ar jam prilygstantį ne visą darbo laiką per pastaruosius dešimt metų, arba ^s-807ec6448fb64ca0e2856015
+1) į rengimo kursą, kuris nėra pažymėjimui ar diplomui, nurodytiems šio straipsnio [[#^s-c5e18c396192e2b81301a3ef|3]], [[#^s-e027c551c408abe6e09e9893|4]], [[#^s-138f8d337747ee91a0d1bcb9|5]], [[#^s-918dfedcf37eb1049b5aa0fe|6]] dalyse, gauti reikalingos programos dalis, į specialų egzaminą be išankstinio pasirengimo arba darbą pagal atitinkamą profesiją valstybėje narėje trejus metus iš eilės visą darbo laiką ar jam prilygstantį ne visą darbo laiką per pastaruosius dešimt metų, arba ^s-807ec6448fb64ca0e2856015
 
 
 2) į pradinį, pagrindinį arba vidurinį išsilavinimą, patvirtinantį, kad jo turėtojas įgijo bendrųjų žinių. ^s-5afcb3d81a77efd91bd4d8fc
@@ -742,7 +742,7 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 4. Trečiojo lygio kvalifikaciją įrodo diplomas, patvirtinantis, kad sėkmingai baigtas: ^s-e027c551c408abe6e09e9893
 
 
-1) kursas (išskyrus nurodytą šio straipsnio 5 ir [[#^s-918dfedcf37eb1049b5aa0fe|6 dalyse]]), kuris trunka ne trumpiau kaip vienus metus arba yra lygiavertės trukmės ne nuolatinės studijų formos ir kuriam paprastai numatyti stojimo reikalavimai, sėkmingai baigtas vidurinio ugdymo kursas, būtinas stojant į universitetą ar aukštojo mokslo instituciją, arba baigtas lygiavertis antrosios pakopos vidurinis mokslas, taip pat profesinio rengimo kursas, kuris gali būti privalomas papildomai, arba ^s-1d099e5ffe6f11673d86e0f9
+1) kursas (išskyrus nurodytą šio straipsnio [[#^s-138f8d337747ee91a0d1bcb9|5]] ir [[#^s-918dfedcf37eb1049b5aa0fe|6]] dalyse), kuris trunka ne trumpiau kaip vienus metus arba yra lygiavertės trukmės ne nuolatinės studijų formos ir kuriam paprastai numatyti stojimo reikalavimai, sėkmingai baigtas vidurinio ugdymo kursas, būtinas stojant į universitetą ar aukštojo mokslo instituciją, arba baigtas lygiavertis antrosios pakopos vidurinis mokslas, taip pat profesinio rengimo kursas, kuris gali būti privalomas papildomai, arba ^s-1d099e5ffe6f11673d86e0f9
 
 
 2) reglamentuojamas rengimas arba reglamentuojamų profesijų atveju – specialios struktūros rengimas, kai įgyjama aukštesnio lygio, negu [[#^s-c5e18c396192e2b81301a3ef|šio straipsnio 3 dalyje]] nurodyta, kvalifikacija, prilygstanti pagal [[#^s-1d099e5ffe6f11673d86e0f9|šio straipsnio 4 dalies 1 punktą]] užbaigtam rengimo lygiui, jeigu toks rengimas suteikia panašų profesinį lygį ir įgūdžius palyginamo lygio pareigoms ir funkcijoms, su sąlyga, kad su diplomu pateikiamas kilmės valstybės narės išduotas sertifikatas. ^s-573fb24de8768b058d5cf933
@@ -807,7 +807,7 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 
 
 
-8. Nukrypdama nuo šio straipsnio 1–[[#^s-0580c3deeeeb7d30911ace56|5 dalių]] ir šio įstatymo [[#^s-d9c6893e546c9754a14b7b02|16 straipsnio]], Lietuvos Respublikos kompetentinga institucija gali nesuteikti teisės dirbti pagal konkrečią profesiją ar neleisti vykdyti profesinės veiklos asmenims, turintiems kompetencijos pažymėjimą, priskirtą šio įstatymo [[#^s-89396f4721aef7f4d542ef8f|13 straipsnio 2 daliai]], kai profesinė kvalifikacija, reikalaujama siekiant dirbti pagal tą profesiją Lietuvos Respublikoje, yra nurodyta šio įstatymo [[#^s-918dfedcf37eb1049b5aa0fe|13 straipsnio 6 dalyje]]. ^s-389bf1d10994c6791ca1511c
+8. Nukrypdama nuo šio straipsnio [[#^s-9ca3eb6e8ed95bc7190ebade|1]]–[[#^s-0580c3deeeeb7d30911ace56|5]] dalių ir šio įstatymo [[#^s-d9c6893e546c9754a14b7b02|16 straipsnio]], Lietuvos Respublikos kompetentinga institucija gali nesuteikti teisės dirbti pagal konkrečią profesiją ar neleisti vykdyti profesinės veiklos asmenims, turintiems kompetencijos pažymėjimą, priskirtą šio įstatymo [[#^s-89396f4721aef7f4d542ef8f|13 straipsnio 2 daliai]], kai profesinė kvalifikacija, reikalaujama siekiant dirbti pagal tą profesiją Lietuvos Respublikoje, yra nurodyta šio įstatymo [[#^s-918dfedcf37eb1049b5aa0fe|13 straipsnio 6 dalyje]]. ^s-389bf1d10994c6791ca1511c
 Straipsnio dalies numeracijos pakeitimas:
 Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 
@@ -825,7 +825,7 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 2) reglamentuojama profesija Lietuvos Respublikoje apima vieną ar daugiau reglamentuojamos profesinės veiklos rūšių, kurių neturi atitinkama profesija asmens kilmės valstybėje narėje, ir dėl to reikalaujama baigti rengimą, kuris apima iš esmės skirtingus dalykus negu tie, kurie nurodyti asmens kompetenciją patvirtinančiame dokumente ar formalios kvalifikacijos įrodyme. ^s-5f243b2de927a58d4e6bdb98
 
 
-2. Taikant šio straipsnio 1 ir [[#^s-31a15a78ab696a909f004942|11 dalis]], iš esmės kitokie skirtingi dalykai – tai dalykai, kurių įgytos žinios, įgūdžiai ir kompetencijos yra būtini siekiant dirbti pagal reglamentuojamą profesiją Lietuvos Respublikoje ir kuriais atvykusio asmens rengimas iš esmės skiriasi savo turiniu nuo reikalaujamo rengimo Lietuvos Respublikoje. ^s-22760835a41586581d1c225f
+2. Taikant šio straipsnio [[#^s-a8537b42c2dc57d2d4c4cfa0|1]] ir [[#^s-31a15a78ab696a909f004942|11]] dalis, iš esmės kitokie skirtingi dalykai – tai dalykai, kurių įgytos žinios, įgūdžiai ir kompetencijos yra būtini siekiant dirbti pagal reglamentuojamą profesiją Lietuvos Respublikoje ir kuriais atvykusio asmens rengimas iš esmės skiriasi savo turiniu nuo reikalaujamo rengimo Lietuvos Respublikoje. ^s-22760835a41586581d1c225f
 
 
 3. Jeigu kompetentinga institucija pasinaudoja [[#^s-a8537b42c2dc57d2d4c4cfa0|šio straipsnio 1 dalyje]] numatyta galimybe, ji turi pasiūlyti asmeniui pasirinkti arba profesinės adaptacijos laikotarpį, arba profesinio tinkamumo testą. ^s-85f3f1edb89d67734b4da55b
@@ -840,10 +840,10 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 6. Jeigu dirbant pagal reglamentuojamą profesiją reikia gerai išmanyti Lietuvos Respublikos teisę, o konsultavimas ir (arba) pagalba Lietuvos Respublikos teisės klausimais yra esminis ir pastovus tos profesinės veiklos ypatumas, Lietuvos Respublikos kompetentinga institucija, nukrypdama nuo [[#^s-85f3f1edb89d67734b4da55b|šio straipsnio 3 dalyje]] numatyto principo, gali numatyti arba profesinės adaptacijos laikotarpį, arba profesinio tinkamumo testą. ^s-35fdf6b80e6f05f51963ada7
 
 
-7. Lietuvos Respublikos kompetentinga institucija gali numatyti arba profesinės adaptacijos laikotarpį, arba profesinio tinkamumo testą šio įstatymo [[#^s-d073d9cf3b7db81bbd6e9378|12 straipsnio]] 2 ir 3 punktuose nurodytais atvejais, [[#^s-aba6a17b48f7ba95d42c3bb2|12 straipsnio 4 punkte]] nurodytu atveju – medicinos gydytojams ir gydytojams odontologams, [[#^s-d9d362a489d64bcd3e3fe7d8|12 straipsnio 6 punkte]] nurodytu atveju – kai atvykęs asmuo siekia pripažinimo Lietuvos Respublikoje, kurioje atitinkama profesine veikla užsiima bendrosios praktikos slaugytojai arba slaugytojai specialistai, turintys specialisto, baigusio rengimą, po kurio suteikiami šio įstatymo 3 priedo 3.2.2 papunktyje išvardyti profesiniai vardai, formalios kvalifikacijos įrodymą. Šios dalies nuostatos taikomos ir šio įstatymo [[#^s-4bafcc98a3d97e49ddfaeca7|12 straipsnio 7 punkte]] nurodytiems asmenims. ^s-a30e4459bc3337ab693b3933
+7. Lietuvos Respublikos kompetentinga institucija gali numatyti arba profesinės adaptacijos laikotarpį, arba profesinio tinkamumo testą šio įstatymo [[#^s-d073d9cf3b7db81bbd6e9378|12 straipsnio]] 2 ir 3 punktuose nurodytais atvejais, 12 straipsnio 4 punkte nurodytu atveju – medicinos gydytojams ir gydytojams odontologams, 12 straipsnio 6 punkte nurodytu atveju – kai atvykęs asmuo siekia pripažinimo Lietuvos Respublikoje, kurioje atitinkama profesine veikla užsiima bendrosios praktikos slaugytojai arba slaugytojai specialistai, turintys specialisto, baigusio rengimą, po kurio suteikiami šio įstatymo 3 priedo 3.2.2 papunktyje išvardyti profesiniai vardai, formalios kvalifikacijos įrodymą. Šios dalies nuostatos taikomos ir šio įstatymo 12 straipsnio 7 punkte nurodytiems asmenims. ^s-a30e4459bc3337ab693b3933
 
 
-8. Šio įstatymo [[#^s-655eba4b9f6e402b369b3bf9|12 straipsnio 1 punkte]] nurodytais atvejais Lietuvos Respublikos kompetentingos institucijos gali reikalauti arba profesinės adaptacijos laikotarpio, arba atlikti profesinio tinkamumo testą, jeigu atvykęs asmuo užsiima profesine veikla savarankiškai arba kaip juridinio asmens vadovas ir todėl reikia išmanyti ir taikyti atitinkamos srities nacionalinės teisės aktus, jeigu tai privaloma Lietuvos Respublikos piliečiams, siekiantiems užsiimti tokia veikla. ^s-e08f37003364ecd9f671683e
+8. Šio įstatymo 12 straipsnio 1 punkte nurodytais atvejais Lietuvos Respublikos kompetentingos institucijos gali reikalauti arba profesinės adaptacijos laikotarpio, arba atlikti profesinio tinkamumo testą, jeigu atvykęs asmuo užsiima profesine veikla savarankiškai arba kaip juridinio asmens vadovas ir todėl reikia išmanyti ir taikyti atitinkamos srities nacionalinės teisės aktus, jeigu tai privaloma Lietuvos Respublikos piliečiams, siekiantiems užsiimti tokia veikla. ^s-e08f37003364ecd9f671683e
 
 
 9. Nukrypdama nuo [[#^s-85f3f1edb89d67734b4da55b|šio straipsnio 3 dalyje]] įtvirtintos asmens teisės pasirinkti kompensacinę priemonę, Lietuvos Respublikos kompetentinga institucija gali reikalauti užbaigti profesinės adaptacijos laikotarpį arba atlikti profesinio tinkamumo testą šiais atvejais: ^s-30c545f24c2f8f78f9e312a4
@@ -906,7 +906,7 @@ PROFESINĖS PATIRTIES PRIPAŽINIMAS
 1. Jeigu Lietuvos Respublikoje leidžiama užsiimti viena iš šio įstatymo 2 priede išvardytų veiklos rūšių turint bendrųjų, komercinių ar profesinių žinių ir gebėjimų, tai Lietuvos Respublikoje pripažįstamas ankstesnis užsiėmimas ta veikla kitoje valstybėje narėje kaip pakankamas tokių žinių ir gebėjimų įrodymas. Veikla turėjo būti užsiimama pagal šio straipsnio reikalavimus. ^s-eb151c8aab8f35f6705ed226
 
 
-2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija išduoda reikiamus dokumentus apie profesinę patirtį ir jos trukmę asmenims, išvykstantiems užsiimti reglamentuojama profesine veikla, nustatyta šio straipsnio 3, 6 ir [[#^s-b78d236c136b765c29f243b5|8 dalyse]], valstybėse narėse. ^s-770ebac4a9bb7782b46fa076
+2. Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija išduoda reikiamus dokumentus apie profesinę patirtį ir jos trukmę asmenims, išvykstantiems užsiimti reglamentuojama profesine veikla, nustatyta šio straipsnio [[#^s-a2d82a2708ff8d5cb207a7b3|3]], [[#^s-4481fad5b524439b064fa6c9|6]] ir [[#^s-b78d236c136b765c29f243b5|8]] dalyse, valstybėse narėse. ^s-770ebac4a9bb7782b46fa076
 
 
 3. Šio įstatymo 2 priedo I sąraše išvardytomis veiklos rūšimis anksčiau turėjo būti užsiimama: ^s-a2d82a2708ff8d5cb207a7b3
@@ -990,29 +990,29 @@ BENDROSIOS NUOSTATOS
 ### 18 straipsnis. Automatinio profesinės kvalifikacijos pripažinimo principas ^s-ff8ec941ed75edc032818b1c
 
 
-1. Kompetentingos institucijos (jų nustatyta tvarka) pripažįsta tokius formalios kvalifikacijos įrodymus, išvardytus atitinkamai šio įstatymo 3 priedo 3.1.1, 3.1.2, 3.2.2, 3.3.2, 3.3.3, 3.4.2, 3.6.2 ir 3.7.1 papunkčiuose ir suteikiančius galimybę užsiimti pagrindinio rengimo medicinos gydytojo ir gydytojo specialisto, bendrosios praktikos slaugytojo, gydytojo odontologo, gydytojo odontologo specialisto, veterinarijos gydytojo, vaistininko ir architekto profesine veikla. Formalios kvalifikacijos įrodymai turi atitikti būtiniausius rengimo reikalavimus, nurodytus atitinkamai šio įstatymo 22, 23, 29, 32, 33, 36, 42 ir [[#^s-7f649137ef58c479a8041f22|44 straipsniuose]]. Toks įrodymas Lietuvos Respublikoje laikomas tokiu pačiu kaip ir Lietuvos Respublikoje išduodamas formalios kvalifikacijos įrodymas. ^s-bb2d036119b209070fd847c0
+1. Kompetentingos institucijos (jų nustatyta tvarka) pripažįsta tokius formalios kvalifikacijos įrodymus, išvardytus atitinkamai šio įstatymo 3 priedo 3.1.1, 3.1.2, 3.2.2, 3.3.2, 3.3.3, 3.4.2, 3.6.2 ir 3.7.1 papunkčiuose ir suteikiančius galimybę užsiimti pagrindinio rengimo medicinos gydytojo ir gydytojo specialisto, bendrosios praktikos slaugytojo, gydytojo odontologo, gydytojo odontologo specialisto, veterinarijos gydytojo, vaistininko ir architekto profesine veikla. Formalios kvalifikacijos įrodymai turi atitikti būtiniausius rengimo reikalavimus, nurodytus atitinkamai šio įstatymo [[#^s-1e37e6a25aa14c4f8d2127cd|22]], [[#^s-aeeb4a4e1b23f3a8e42ea139|23]], [[#^s-4e90726e772fd465c5d3bc1c|29]], [[#^s-ebbfe1721b54b587f2da9fac|32]], [[#^s-46715b4cf5ceeb504eb60d71|33]], [[#^s-81af06a45b65ba6e88736537|36]], [[#^s-f61881fefce2e41fa5f89de6|42]] ir [[#^s-7f649137ef58c479a8041f22|44]] straipsniuose. Toks įrodymas Lietuvos Respublikoje laikomas tokiu pačiu kaip ir Lietuvos Respublikoje išduodamas formalios kvalifikacijos įrodymas. ^s-bb2d036119b209070fd847c0
 
 
 2. [[#^s-bb2d036119b209070fd847c0|Šio straipsnio 1 dalyje]] nurodytus formalios kvalifikacijos įrodymus išduoda valstybių narių kompetentingos institucijos, o prireikus kartu išduodami ir atitinkami šio įstatymo 3 priedo 3.1.1, 3.1.2, 3.2.2, 3.3.2, 3.3.3, 3.4.2, 3.6.2 ir 3.7.1 papunkčiuose išvardyti pažymėjimai. ^s-e84217f763a29f33c0a19fc9
 
 
-3. Šio straipsnio 1 ir [[#^s-e84217f763a29f33c0a19fc9|2 dalių]] nuostatos neturi įtakos įgytoms teisėms, nurodytoms šio įstatymo 21, 25, 31, 35, 37 ir [[#^s-6a1dd5550e472d280137f858|47 straipsniuose]]. ^s-d4ad65157a42baf1510f3bbb
+3. Šio straipsnio [[#^s-bb2d036119b209070fd847c0|1]] ir [[#^s-e84217f763a29f33c0a19fc9|2]] dalių nuostatos neturi įtakos įgytoms teisėms, nurodytoms šio įstatymo [[#^s-7af6ce1940aa9fc4ba86abac|21]], [[#^s-708d834c6380c8e3b40162e1|25]], 31, [[#^s-90eea0bfa67833289e7d7f5c|35]], [[#^s-62bf4a041b325fc65e7768b6|37]] ir [[#^s-6a1dd5550e472d280137f858|47]] straipsniuose. ^s-d4ad65157a42baf1510f3bbb
 
 
 4. Kompetentinga institucija pripažįsta formalios kvalifikacijos įrodymą, nurodytą šio įstatymo 3 priedo 3.1.4 papunktyje, reikalingą siekiant užsiimti šeimos medicinos praktika, valstybių narių piliečiams išduotą kitos valstybės narės, taikydama šio įstatymo [[#^s-a33fbcbca07ecfdd161bb02f|26 straipsnyje]] nustatytus būtiniausius rengimo reikalavimus. Šios dalies nuostatos neturi įtakos įgytoms teisėms, nurodytoms šio įstatymo [[#^s-132fd238eb878b8919a57799|28 straipsnyje]]. ^s-f5ae24b3db50f65a8219c578
 
 
-5. Kompetentinga institucija pripažįsta akušerio formalios kvalifikacijos įrodymą, kurį valstybių narių piliečiams išduoda kitos valstybės narės, išvardytos šio įstatymo 3 priedo 3.5.2 papunktyje, ir kuris atitinka šio įstatymo [[#^s-35d97021900c3d666397f9e4|38 straipsnyje]] nurodytus būtiniausius rengimo reikalavimus ir šio įstatymo [[#^s-2a44f0631c25e85434216594|39 straipsnyje]] nustatytus kriterijus, ir, vertindama galimybę užsiimti profesine veikla, tokį įrodymą Lietuvos Respublikos teritorijoje laiko tokiu pačiu kaip ir Lietuvos Respublikoje išduodamas formalios kvalifikacijos įrodymas. Šios dalies nuostata neturi įtakos įgytoms teisėms, nurodytoms šio įstatymo 21 ir [[#^s-06f615f431fc53d6f98e0f2b|41 straipsniuose]]. ^s-39daa557ceb34b1de26b429d
+5. Kompetentinga institucija pripažįsta akušerio formalios kvalifikacijos įrodymą, kurį valstybių narių piliečiams išduoda kitos valstybės narės, išvardytos šio įstatymo 3 priedo 3.5.2 papunktyje, ir kuris atitinka šio įstatymo [[#^s-35d97021900c3d666397f9e4|38 straipsnyje]] nurodytus būtiniausius rengimo reikalavimus ir šio įstatymo [[#^s-2a44f0631c25e85434216594|39 straipsnyje]] nustatytus kriterijus, ir, vertindama galimybę užsiimti profesine veikla, tokį įrodymą Lietuvos Respublikos teritorijoje laiko tokiu pačiu kaip ir Lietuvos Respublikoje išduodamas formalios kvalifikacijos įrodymas. Šios dalies nuostata neturi įtakos įgytoms teisėms, nurodytoms šio įstatymo [[#^s-7af6ce1940aa9fc4ba86abac|21]] ir [[#^s-06f615f431fc53d6f98e0f2b|41]] straipsniuose. ^s-39daa557ceb34b1de26b429d
 
 
-6. Architekto formalios kvalifikacijos įrodymas, nurodytas šio įstatymo 3 priedo 3.7.1 papunktyje, automatiškai pripažįstamas pagal šio straipsnio 1, 2 ir [[#^s-d4ad65157a42baf1510f3bbb|3 dalis]], įrodo, kad baigtas rengimas, kuris prasidėjo ne anksčiau kaip šio įstatymo 3 priedo 3.7.1 papunktyje nurodytais atskaitos akademiniais metais. ^s-c35f0a8bb9e2da49bdd547a4
+6. Architekto formalios kvalifikacijos įrodymas, nurodytas šio įstatymo 3 priedo 3.7.1 papunktyje, automatiškai pripažįstamas pagal šio straipsnio [[#^s-bb2d036119b209070fd847c0|1]], [[#^s-e84217f763a29f33c0a19fc9|2]] ir [[#^s-d4ad65157a42baf1510f3bbb|3]] dalis, įrodo, kad baigtas rengimas, kuris prasidėjo ne anksčiau kaip šio įstatymo 3 priedo 3.7.1 papunktyje nurodytais atskaitos akademiniais metais. ^s-c35f0a8bb9e2da49bdd547a4
 
 
-7. Kompetentingos institucijos leidžia užsiimti medicinos gydytojų, bendrosios praktikos slaugytojų, gydytojų odontologų, veterinarijos gydytojų, akušerių ir vaistininkų profesine veikla ir ją vykdyti su sąlyga, jeigu asmuo turi šio įstatymo 3 priedo 3.1.1, 3.1.2, 3.1.4, 3.2.2, 3.3.2, 3.3.3, 3.4.2, 3.5.2, 3.6.2 papunkčiuose nurodytą formalios kvalifikacijos įrodymą, patvirtinantį, kad atitinkamas asmuo rengimo metu įgijo žinių, įgūdžių ir kompetencijų, nurodytų šio įstatymo [[#^s-cdb877e7ec93cfc4e7b7a3ee|22 straipsnio 3 dalyje]], [[#^s-4e90726e772fd465c5d3bc1c|29 straipsnio]] 6 ir [[#^s-4504840c2b53bbe03dd36464|7 dalyse]], [[#^s-36971aacd7256b4af8717b6d|32 straipsnio 3 dalyje]], [[#^s-7635c2a621ac1cc4212da0dc|36 straipsnio 3 dalyje]], [[#^s-82fbf25a5e5b83e2fc94c2a8|38 straipsnio 4 dalyje]], [[#^s-bd66309944fb9890342c571e|42 straipsnio 4 dalyje]], kuriose reglamentuojamas šių specialistų rengimas. ^s-4504840c2b53bbe03dd36464
+7. Kompetentingos institucijos leidžia užsiimti medicinos gydytojų, bendrosios praktikos slaugytojų, gydytojų odontologų, veterinarijos gydytojų, akušerių ir vaistininkų profesine veikla ir ją vykdyti su sąlyga, jeigu asmuo turi šio įstatymo 3 priedo 3.1.1, 3.1.2, 3.1.4, 3.2.2, 3.3.2, 3.3.3, 3.4.2, 3.5.2, 3.6.2 papunkčiuose nurodytą formalios kvalifikacijos įrodymą, patvirtinantį, kad atitinkamas asmuo rengimo metu įgijo žinių, įgūdžių ir kompetencijų, nurodytų šio įstatymo [[#^s-cdb877e7ec93cfc4e7b7a3ee|22 straipsnio 3 dalyje]], [[#^s-4e90726e772fd465c5d3bc1c|29 straipsnio]] [[#^s-65486f66b084f7fcd0cdf17a|6]] ir [[#^s-8940f99b218e8fd8d2c2b2c6|7]] dalyse, [[#^s-36971aacd7256b4af8717b6d|32 straipsnio 3 dalyje]], [[#^s-7635c2a621ac1cc4212da0dc|36 straipsnio 3 dalyje]], [[#^s-82fbf25a5e5b83e2fc94c2a8|38 straipsnio 4 dalyje]], [[#^s-bd66309944fb9890342c571e|42 straipsnio 4 dalyje]], kuriose reglamentuojamas šių specialistų rengimas. ^s-4504840c2b53bbe03dd36464
 
 
-8. Lietuvos Respublikos kompetentingos institucijos savo nustatyta tvarka, vadovaudamosi šio straipsnio 1–[[#^s-4504840c2b53bbe03dd36464|7 dalyse]] nustatytais reikalavimais, pripažįsta [[#^s-bb2d036119b209070fd847c0|šio straipsnio 1 dalyje]] nurodytus formalios kvalifikacijos įrodymus, kurie valstybių narių, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (toliau – Jungtinė Karalystė) piliečiams Jungtinėje Karalystėje išduoti ne vėliau kaip per vienus metus nuo Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos. ^s-efb63e3f3b66f6c65a7c5610
-TAR pastaba. Papildymas [[#^s-efb63e3f3b66f6c65a7c5610|8 dalimi]] įsigaliioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
+8. Lietuvos Respublikos kompetentingos institucijos savo nustatyta tvarka, vadovaudamosi šio straipsnio [[#^s-bb2d036119b209070fd847c0|1]]–[[#^s-4504840c2b53bbe03dd36464|7]] dalyse nustatytais reikalavimais, pripažįsta [[#^s-bb2d036119b209070fd847c0|šio straipsnio 1 dalyje]] nurodytus formalios kvalifikacijos įrodymus, kurie valstybių narių, Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės (toliau – Jungtinė Karalystė) piliečiams Jungtinėje Karalystėje išduoti ne vėliau kaip per vienus metus nuo Jungtinės Karalystės išstojimo iš Europos Sąjungos dienos. ^s-efb63e3f3b66f6c65a7c5610
+TAR pastaba. Papildymas 8 dalimi įsigaliioja Jungtinės Didžiosios Britanijos ir Šiaurės Airijos Karalystės išstojimo iš Europos Sąjungos dieną.
 Papildyta straipsnio dalimi:
 Nr. XIII-2049, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06685
 
@@ -1027,7 +1027,7 @@ Nr. XIII-2049, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06685
 2. Lietuvos Respublika taip pat praneša (notifikuoja) kitoms valstybėms narėms dėl šio skyriaus 8 skirsnyje nurodytų formalios kvalifikacijos įrodymų. ^s-317e99aadd0542ffcf57a31c
 
 
-3. Lietuvos Respublikos Vyriausybė paskiria institucijas šio straipsnio 1 ir [[#^s-317e99aadd0542ffcf57a31c|2 dalyse]] numatytoms funkcijoms atlikti. ^s-1357df0e4684b688542e6c66
+3. Lietuvos Respublikos Vyriausybė paskiria institucijas šio straipsnio [[#^s-218c701592dadeed116e4c5d|1]] ir [[#^s-317e99aadd0542ffcf57a31c|2]] dalyse numatytoms funkcijoms atlikti. ^s-1357df0e4684b688542e6c66
 
 
 4. Į [[#^s-218c701592dadeed116e4c5d|šio straipsnio 1 dalyje]] nurodytą pranešimą įtraukiama informacija apie studijų programų trukmę ir turinį. ^s-ca2d6c9d359efe752d33d193
@@ -1040,7 +1040,7 @@ Nr. XIII-2049, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06685
 ### 20 straipsnis. Bendrosios rengimo nuostatos ^s-c5f7529e276df1dac1915a4f
 
 
-1. Atsižvelgdama į šio įstatymo 22, 23, 26, 29, 32, 33, 36, 38, 42 ir [[#^s-7f649137ef58c479a8041f22|44 straipsniuose]] nurodytą rengimą, Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija gali teisės aktuose numatyti nenuoseklųjį rengimą pagal nustatytus reikalavimus. Lietuvos Respublikos kompetentingos institucijos užtikrina, kad bendra tokio rengimo trukmė, lygis ir kokybė būtų ne prastesni už rengimo pagal nuolatinę studijų formą. ^s-1ca937bbcb79f0669fb69932
+1. Atsižvelgdama į šio įstatymo [[#^s-1e37e6a25aa14c4f8d2127cd|22]], [[#^s-aeeb4a4e1b23f3a8e42ea139|23]], [[#^s-a33fbcbca07ecfdd161bb02f|26]], [[#^s-4e90726e772fd465c5d3bc1c|29]], [[#^s-ebbfe1721b54b587f2da9fac|32]], [[#^s-46715b4cf5ceeb504eb60d71|33]], [[#^s-81af06a45b65ba6e88736537|36]], [[#^s-35d97021900c3d666397f9e4|38]], [[#^s-f61881fefce2e41fa5f89de6|42]] ir [[#^s-7f649137ef58c479a8041f22|44]] straipsniuose nurodytą rengimą, Lietuvos Respublikos Vyriausybė ar jos įgaliota institucija gali teisės aktuose numatyti nenuoseklųjį rengimą pagal nustatytus reikalavimus. Lietuvos Respublikos kompetentingos institucijos užtikrina, kad bendra tokio rengimo trukmė, lygis ir kokybė būtų ne prastesni už rengimo pagal nuolatinę studijų formą. ^s-1ca937bbcb79f0669fb69932
 
 
 2. Lietuvos Respublikos kompetentingos institucijos, skatindamos tęstinį profesinį tobulinimąsi ir vadovaudamosi Lietuvos Respublikos teisės aktais, užtikrina, kad asmenys, kurių profesinėms kvalifikacijoms taikomas šio įstatymo III dalies III skyrius, galėtų atnaujinti savo žinias, įgūdžius ir kompetencijas, siekdami užsitikrinti savo praktikos saugumą ir efektyvumą ir neatsilikti nuo profesijos raidos. ^s-b4a8c4a8088334fd8d06983b
@@ -1050,13 +1050,13 @@ Nr. XIII-2049, 2019-04-11, paskelbta TAR 2019-04-24, i. k. 2019-06685
 ### 21 straipsnis. Įgytos teisės ^s-7af6ce1940aa9fc4ba86abac
 
 
-1. Lietuvos Respublikos kompetentingos institucijos, nepažeisdamos specifinių atitinkamų profesijų įgytų teisių, kai valstybių narių formalios kvalifikacijos įrodymai, suteikiantys galimybę užsiimti profesine veikla, neatitinka visų šio įstatymo 22, 23, 29, 32, 33, 36, 38 ir [[#^s-f61881fefce2e41fa5f89de6|42 straipsniuose]] nurodytų rengimo reikalavimų, pripažįsta kaip pakankamą formalios kvalifikacijos įrodymą, jeigu jis patvirtina, kad sėkmingai baigtas rengimas, prasidėjęs iki šio įstatymo 3 priedo 3.1.1, 3.1.2, 3.2.2, 3.3.2, 3.3.3, 3.4.2, 3.5.2 ir 3.6.2 papunkčiuose nurodytų atskaitos datų. ^s-5ea7317f6349bbf4fd4fc9da
+1. Lietuvos Respublikos kompetentingos institucijos, nepažeisdamos specifinių atitinkamų profesijų įgytų teisių, kai valstybių narių formalios kvalifikacijos įrodymai, suteikiantys galimybę užsiimti profesine veikla, neatitinka visų šio įstatymo [[#^s-1e37e6a25aa14c4f8d2127cd|22]], [[#^s-aeeb4a4e1b23f3a8e42ea139|23]], [[#^s-4e90726e772fd465c5d3bc1c|29]], [[#^s-ebbfe1721b54b587f2da9fac|32]], [[#^s-46715b4cf5ceeb504eb60d71|33]], [[#^s-81af06a45b65ba6e88736537|36]], [[#^s-35d97021900c3d666397f9e4|38]] ir [[#^s-f61881fefce2e41fa5f89de6|42]] straipsniuose nurodytų rengimo reikalavimų, pripažįsta kaip pakankamą formalios kvalifikacijos įrodymą, jeigu jis patvirtina, kad sėkmingai baigtas rengimas, prasidėjęs iki šio įstatymo 3 priedo 3.1.1, 3.1.2, 3.2.2, 3.3.2, 3.3.3, 3.4.2, 3.5.2 ir 3.6.2 papunkčiuose nurodytų atskaitos datų. ^s-5ea7317f6349bbf4fd4fc9da
 
 
 2. [[#^s-5ea7317f6349bbf4fd4fc9da|Šio straipsnio 1 dalyje]] nurodytais atvejais privaloma kartu su formalios kvalifikacijos įrodymu pateikti pažymėjimą apie profesinę patirtį, patvirtinantį, kad jo turėtojas faktiškai ir teisėtai užsiėmė atitinkama veikla ne trumpiau kaip trejus metus iš eilės per penkerius metus iki pažymėjimo išdavimo. ^s-367f5a99cfe1508015c6e0c8
 
 
-3. Šio straipsnio 1 ir [[#^s-367f5a99cfe1508015c6e0c8|2 dalių]] nuostatos taikomos formalios kvalifikacijos įrodymui, suteikiančiam galimybę užsiimti pagrindinio rengimo medicinos gydytojo ir gydytojo specialisto, bendrosios praktikos slaugytojo, gydytojo odontologo, gydytojo odontologo specialisto, veterinarijos gydytojo, akušerio ir vaistininko profesine veikla, gautam buvusios Vokietijos Demokratinės Respublikos teritorijoje, neatitinkančiam visų būtiniausių šio įstatymo 22, 23, 29, 32, 33, 36, 38 ir [[#^s-f61881fefce2e41fa5f89de6|42 straipsniuose]] nurodytų rengimo reikalavimų, jeigu toks įrodymas patvirtina, kad sėkmingai baigtas: ^s-9730f4aa0783761682a6c9e1
+3. Šio straipsnio [[#^s-5ea7317f6349bbf4fd4fc9da|1]] ir [[#^s-367f5a99cfe1508015c6e0c8|2]] dalių nuostatos taikomos formalios kvalifikacijos įrodymui, suteikiančiam galimybę užsiimti pagrindinio rengimo medicinos gydytojo ir gydytojo specialisto, bendrosios praktikos slaugytojo, gydytojo odontologo, gydytojo odontologo specialisto, veterinarijos gydytojo, akušerio ir vaistininko profesine veikla, gautam buvusios Vokietijos Demokratinės Respublikos teritorijoje, neatitinkančiam visų būtiniausių šio įstatymo [[#^s-1e37e6a25aa14c4f8d2127cd|22]], [[#^s-aeeb4a4e1b23f3a8e42ea139|23]], [[#^s-4e90726e772fd465c5d3bc1c|29]], [[#^s-ebbfe1721b54b587f2da9fac|32]], [[#^s-46715b4cf5ceeb504eb60d71|33]], [[#^s-81af06a45b65ba6e88736537|36]], [[#^s-35d97021900c3d666397f9e4|38]] ir [[#^s-f61881fefce2e41fa5f89de6|42]] straipsniuose nurodytų rengimo reikalavimų, jeigu toks įrodymas patvirtina, kad sėkmingai baigtas: ^s-9730f4aa0783761682a6c9e1
 
 
 1) pagrindinio rengimo medicinos gydytojo, bendrosios praktikos slaugytojo, pagrindinio rengimo gydytojo odontologo, gydytojo odontologo specialisto, veterinarijos gydytojo, akušerio ir vaistininko rengimas, prasidėjęs iki 1990 m. spalio 3 d.; ^s-d1e5c2e74a3b2896fec0aeca
@@ -1095,19 +1095,19 @@ Nr. XIII-2240, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10363
 
 
 
-10. Šio straipsnio 5, 7, [[#^s-709a7624b0d7e1439151a539|9 dalyse]] nurodytas formalios kvalifikacijos įrodymas turi būti pateikiamas kartu su tų pačių kompetentingų institucijų išduotu pažymėjimu, nurodančiu, kad tokie asmenys faktiškai ir teisėtai užsiėmė atitinkama veikla jų teritorijoje ne trumpiau kaip trejus metus iš eilės per penkerius metus iki pažymėjimo išdavimo. ^s-236b54155267ce79f07f6b7c
+10. Šio straipsnio [[#^s-309245d80fb2649d8bdf561a|5]], [[#^s-b7cc8a92d993bb593e436e00|7]], [[#^s-709a7624b0d7e1439151a539|9]] dalyse nurodytas formalios kvalifikacijos įrodymas turi būti pateikiamas kartu su tų pačių kompetentingų institucijų išduotu pažymėjimu, nurodančiu, kad tokie asmenys faktiškai ir teisėtai užsiėmė atitinkama veikla jų teritorijoje ne trumpiau kaip trejus metus iš eilės per penkerius metus iki pažymėjimo išdavimo. ^s-236b54155267ce79f07f6b7c
 
 
 11. Lietuvos Respublikos kompetentinga institucija valstybės narės piliečiams, kurių medicinos gydytojo, bendrosios praktikos slaugytojo, gydytojo odontologo, veterinarijos gydytojo, akušerio ir vaistininko formalios kvalifikacijos įrodymas neatitinka tai valstybei narei šio įstatymo 3 priedo 3.1.1, 3.1.2, 3.1.3, 3.1.4, 3.2.2, 3.3.2, 3.3.3, 3.4.2, 3.5.2 ir 3.6.2 papunkčiuose nurodytų pavadinimų, kaip pakankamą pripažįsta tų valstybių narių išduotą formalios kvalifikacijos įrodymą, su kuriuo pateikiamas kompetentingų institucijų išduotas pažymėjimas. ^s-ba9704421d7d9a04f76a9230
 
 
-12. [[#^s-ba9704421d7d9a04f76a9230|Šio straipsnio 11 dalyje]] minimas pažymėjimas turi nurodyti, kad formalios kvalifikacijos įrodymas patvirtina sėkmingai baigtą rengimą, atitinkamai pagal šio įstatymo 22, 23, 26, 29, 32, 33, 36, 38 ir [[#^s-f61881fefce2e41fa5f89de6|42 straipsniuose]] nustatytus reikalavimus, ir jį išdavusi valstybė narė traktuoja jį taip pat kaip kvalifikaciją, kurios pavadinimai nurodyti šio įstatymo 3 priedo 3.1.1, 3.1.2, 3.1.3, 3.1.4, 3.2.2, 3.3.2, 3.3.3, 3.4.2, 3.5.2 ir 3.6.2 papunkčiuose. ^s-762bb5a49aaf7b42170d4f72
+12. [[#^s-ba9704421d7d9a04f76a9230|Šio straipsnio 11 dalyje]] minimas pažymėjimas turi nurodyti, kad formalios kvalifikacijos įrodymas patvirtina sėkmingai baigtą rengimą, atitinkamai pagal šio įstatymo [[#^s-1e37e6a25aa14c4f8d2127cd|22]], [[#^s-aeeb4a4e1b23f3a8e42ea139|23]], [[#^s-a33fbcbca07ecfdd161bb02f|26]], [[#^s-4e90726e772fd465c5d3bc1c|29]], [[#^s-ebbfe1721b54b587f2da9fac|32]], [[#^s-46715b4cf5ceeb504eb60d71|33]], [[#^s-81af06a45b65ba6e88736537|36]], [[#^s-35d97021900c3d666397f9e4|38]] ir [[#^s-f61881fefce2e41fa5f89de6|42]] straipsniuose nustatytus reikalavimus, ir jį išdavusi valstybė narė traktuoja jį taip pat kaip kvalifikaciją, kurios pavadinimai nurodyti šio įstatymo 3 priedo 3.1.1, 3.1.2, 3.1.3, 3.1.4, 3.2.2, 3.3.2, 3.3.3, 3.4.2, 3.5.2 ir 3.6.2 papunkčiuose. ^s-762bb5a49aaf7b42170d4f72
 
 
 13. Lietuvos Respublikos kompetentinga institucija nepripažįsta Bulgarijos felčerių (фелдшер) profesinės kvalifikacijos, įgytos iki 1999 m. gruodžio 31 d. Bulgarijoje, ir dirbusiųjų 2000 m. sausio 1 d. pagal šią profesiją pagal Bulgarijos socialinės apsaugos sistemą kaip medicinos gydytojų ar bendrosios praktikos slaugytojų profesinės kvalifikacijos pagal šio įstatymo nuostatas. ^s-09af2091fd6e64e2445c217d
 
 
-14. Asmenims, vykstantiems į kitas valstybes nares ir siekiantiems dirbti pagal reglamentuojamą profesiją, pripažįstamą remiantis būtiniausių rengimo reikalavimų derinimu vadovaujantis šio įstatymo III dalies III skyriaus nuostatomis, Lietuvos Respublikos kompetentingos institucijos išduoda pažymėjimą ar patvirtinimą, nurodytus šio straipsnio 2, 7 ar [[#^s-ba9704421d7d9a04f76a9230|11 dalyse]]. ^s-a68ea247e565f8223aa2f00c
+14. Asmenims, vykstantiems į kitas valstybes nares ir siekiantiems dirbti pagal reglamentuojamą profesiją, pripažįstamą remiantis būtiniausių rengimo reikalavimų derinimu vadovaujantis šio įstatymo III dalies III skyriaus nuostatomis, Lietuvos Respublikos kompetentingos institucijos išduoda pažymėjimą ar patvirtinimą, nurodytus šio straipsnio [[#^s-367f5a99cfe1508015c6e0c8|2]], [[#^s-b7cc8a92d993bb593e436e00|7]] ar [[#^s-ba9704421d7d9a04f76a9230|11]] dalyse. ^s-a68ea247e565f8223aa2f00c
 Papildyta straipsnio dalimi:
 Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 
@@ -1206,7 +1206,7 @@ MEDICINOS GYDYTOJAI
 3. Kai į šio įstatymo [[#^s-1e37e6a25aa14c4f8d2127cd|22 straipsnyje]] nurodytą rengimą įeina praktinis rengimas, kuris vykdomas kompetentingos institucijos patvirtintoje ligoninėje, turinčioje atitinkamą medicinos įrangą ir teikiančioje šeimos medicinos paslaugas arba kurioje vykdoma nustatyta šeimos medicinos praktikos dalis, arba centre, kuriame medicinos gydytojai teikia pirminės sveikatos priežiūros paslaugas, tokio praktinio rengimo trukmė, ne ilgesnė kaip vieni metai, gali būti įtraukta į [[#^s-6386171299da19d0d738d453|šio straipsnio 2 dalyje]] nurodytą studijų trukmę, kai to rengimo pažymėjimai išduodami ne anksčiau kaip nuo 2006 m. sausio 1 d. ^s-cacdfb482738b81138a5223a
 
 
-4. Šio straipsnio 2 ir [[#^s-cacdfb482738b81138a5223a|3 dalyse]] numatyta galimybė turi būti suteikiama tik valstybių narių, kuriose šeimos gydytojų rengimas truko dvejus metus nuo 2001 m. sausio 1 d., piliečiams. ^s-1f3f63f28712651530a59206
+4. Šio straipsnio [[#^s-6386171299da19d0d738d453|2]] ir [[#^s-cacdfb482738b81138a5223a|3]] dalyse numatyta galimybė turi būti suteikiama tik valstybių narių, kuriose šeimos gydytojų rengimas truko dvejus metus nuo 2001 m. sausio 1 d., piliečiams. ^s-1f3f63f28712651530a59206
 
 
 5. Šeimos gydytojai rengiami pagal nuolatinę studijų formą, prižiūrint kompetentingoms institucijoms. Daugiau rengimo laiko turi būti skiriama praktikai, o mažiau – teorijai. ^s-cc37ce42d5ff5eeda12442ae
@@ -1230,7 +1230,7 @@ MEDICINOS GYDYTOJAI
 11. Lietuvos Respublikos kompetentinga institucija nustato, ar asmens papildomas rengimas ir jau įgyta profesinė patirtis gali pakeisti šiame straipsnyje numatytą šeimos gydytojų rengimą. ^s-48b3ab1a489990a7d9aa08f7
 
 
-12. Kompetentinga institucija gali išduoti šio įstatymo 3 priedo 3.1.4 papunktyje nurodytą formalios kvalifikacijos įrodymą tik tuo atveju, jeigu asmuo turi bent šešių mėnesių šeimos medicinos praktikos arba patirties įstaigoje, kurioje medicinos gydytojai teikia šio straipsnio 5–[[#^s-9a86d9d4433556bc52c43f87|7 dalyse]] nurodytas pirminės sveikatos priežiūros paslaugas. ^s-d3f680840893306b7c04be37
+12. Kompetentinga institucija gali išduoti šio įstatymo 3 priedo 3.1.4 papunktyje nurodytą formalios kvalifikacijos įrodymą tik tuo atveju, jeigu asmuo turi bent šešių mėnesių šeimos medicinos praktikos arba patirties įstaigoje, kurioje medicinos gydytojai teikia šio straipsnio [[#^s-cc37ce42d5ff5eeda12442ae|5]]–[[#^s-9a86d9d4433556bc52c43f87|7]] dalyse nurodytas pirminės sveikatos priežiūros paslaugas. ^s-d3f680840893306b7c04be37
 
 
 
@@ -1283,7 +1283,7 @@ Nr. XIV-3013, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17778
 
 
 
-4. Teorinio rengimo metu rengiami slaugytojai įgyja profesinių žinių, įgūdžių ir kompetencijų, kurių reikalaujama pagal šio straipsnio 6 ir [[#^s-8940f99b218e8fd8d2c2b2c6|7 dalis]]. Rengimą vykdo slaugos dėstytojai ir kiti kompetentingi asmenys universitetuose, aukštojo mokslo institucijose, pripažintose lygiavertėmis universitetams, arba profesinėse mokyklose, rengiančiose slaugytojus, ar pagal slaugos profesinio rengimo programas. ^s-3dbe3e5ce20a8bce0202a23f
+4. Teorinio rengimo metu rengiami slaugytojai įgyja profesinių žinių, įgūdžių ir kompetencijų, kurių reikalaujama pagal šio straipsnio [[#^s-65486f66b084f7fcd0cdf17a|6]] ir [[#^s-8940f99b218e8fd8d2c2b2c6|7]] dalis. Rengimą vykdo slaugos dėstytojai ir kiti kompetentingi asmenys universitetuose, aukštojo mokslo institucijose, pripažintose lygiavertėmis universitetams, arba profesinėse mokyklose, rengiančiose slaugytojus, ar pagal slaugos profesinio rengimo programas. ^s-3dbe3e5ce20a8bce0202a23f
 
 
 5. Klinikinio rengimo metu rengiami slaugytojai kaip komandos nariai, turintys tiesioginių kontaktų su sveikais arba sergančiais asmenimis ir (arba) bendruomene, kurie, remdamiesi įgytomis žiniomis, įgūdžiais ir kompetencijomis, mokosi organizuoti, atlikti ir vertinti reikiamą visavertį slaugymą. Rengiami slaugytojai išmoksta ne tik dirbti komandoje, bet ir vadovauti jai, organizuoti visą slaugos procesą, įskaitant sveikatos priežiūros mokymą asmenims ir mažoms grupėms sveikatos priežiūros institucijoje arba bendruomenėje. Šis rengimas vyksta ligoninėse ir kitose sveikatos priežiūros institucijose bei bendruomenėje, bendradarbiaujant su kitais kvalifikuotais slaugytojais ir jiems padedant, o atsakingi už jį yra slaugos dėstytojai. Prie rengimo gali prisidėti ir kitas kvalifikuotas personalas. Rengiami slaugytojai dalyvauja atitinkamo padalinio jų rengimo kryptį atitinkančioje veikloje ir taip išmoksta prisiimti atsakomybę, susijusią su slaugos praktika. ^s-ebe08f8da2d52fa6ac6892d9
@@ -1331,13 +1331,13 @@ Nr. XV-496, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17650
 7. Pateikiamas bendrosios praktikos slaugytojo formalios kvalifikacijos įrodymas patvirtina, kad specialistas, nesvarbu, ar jo rengimas vyko universitetuose, ar aukštojo mokslo institucijose, pripažintose lygiavertėse universitetams, ar profesinėse mokyklose, rengiančiose slaugytojus, arba pagal slaugos profesinio rengimo programas, turi turėti bent šias kompetencijas: ^s-8940f99b218e8fd8d2c2b2c6
 
 
-1) naudodamasis turimomis teorinėmis ir klinikinėmis žiniomis, savarankiškai nustatyti reikiamą slaugą ir planuoti, organizuoti ir vykdyti pacientų slaugą bei, remdamasis žiniomis ir įgūdžiais, įgytais pagal [[#^s-65486f66b084f7fcd0cdf17a|šio straipsnio 6 dalies]] 1, 2 ir [[#^s-66e5e9f4de3637131baf37c1|3 punktus]], gerinti savo profesinę praktiką; ^s-83a469edc08f85bc8e4113a6
+1) naudodamasis turimomis teorinėmis ir klinikinėmis žiniomis, savarankiškai nustatyti reikiamą slaugą ir planuoti, organizuoti ir vykdyti pacientų slaugą bei, remdamasis žiniomis ir įgūdžiais, įgytais pagal [[#^s-65486f66b084f7fcd0cdf17a|šio straipsnio 6 dalies]] 1, [[#^s-e2f82c14198ca337e5d1a54d|2]] ir [[#^s-66e5e9f4de3637131baf37c1|3]] punktus, gerinti savo profesinę praktiką; ^s-83a469edc08f85bc8e4113a6
 
 
-2) naudodamasis žiniomis ir įgūdžiais, įgytais pagal [[#^s-65486f66b084f7fcd0cdf17a|šio straipsnio 6 dalies]] 4 ir [[#^s-1aebb33a189b2985df9bf9a7|5 punktus]], efektyviai dirbti kartu su sveikatos priežiūros ir kitais specialistais, įskaitant dalyvavimą praktiniame sveikatos priežiūros specialistų rengime; ^s-e2f82c14198ca337e5d1a54d
+2) naudodamasis žiniomis ir įgūdžiais, įgytais pagal [[#^s-65486f66b084f7fcd0cdf17a|šio straipsnio 6 dalies]] [[#^s-cf068a92a5eb3de093ec0a68|4]] ir [[#^s-1aebb33a189b2985df9bf9a7|5]] punktus, efektyviai dirbti kartu su sveikatos priežiūros ir kitais specialistais, įskaitant dalyvavimą praktiniame sveikatos priežiūros specialistų rengime; ^s-e2f82c14198ca337e5d1a54d
 
 
-3) naudodamasis žiniomis ir įgūdžiais, įgytais pagal [[#^s-65486f66b084f7fcd0cdf17a|šio straipsnio 6 dalies]] 1 ir [[#^s-e2f82c14198ca337e5d1a54d|2 punktus]], skatinti asmenų, šeimų ir asmenų grupių sveiką gyvenseną ir rūpinimąsi savo sveikata; ^s-66e5e9f4de3637131baf37c1
+3) naudodamasis žiniomis ir įgūdžiais, įgytais pagal [[#^s-65486f66b084f7fcd0cdf17a|šio straipsnio 6 dalies]] [[#^s-83a469edc08f85bc8e4113a6|1]] ir [[#^s-e2f82c14198ca337e5d1a54d|2]] punktus, skatinti asmenų, šeimų ir asmenų grupių sveiką gyvenseną ir rūpinimąsi savo sveikata; ^s-66e5e9f4de3637131baf37c1
 
 
 4) mokėti savarankiškai gaivinti žmogų ir teikti pirmąją medicinos pagalbą gyvybei pavojingų būklių atvejais; ^s-cf068a92a5eb3de093ec0a68
@@ -1458,7 +1458,7 @@ Nr. XV-496, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17650
 ### 33 straipsnis. Gydytojų odontologų specialistų rengimas ^s-46715b4cf5ceeb504eb60d71
 
 
-1. Į gydytojų odontologų specialistų studijas priimami asmenys, baigę šio įstatymo [[#^s-5e9d940cbd8ba911d46050b0|32 straipsnio 2 dalyje]] nurodytą pagrindinį gydytojų odontologų rengimą arba turintys šio įstatymo 21 ir [[#^s-90eea0bfa67833289e7d7f5c|35 straipsniuose]] nurodytus dokumentus. ^s-38d392bc7315c0dda1bfbe07
+1. Į gydytojų odontologų specialistų studijas priimami asmenys, baigę šio įstatymo [[#^s-5e9d940cbd8ba911d46050b0|32 straipsnio 2 dalyje]] nurodytą pagrindinį gydytojų odontologų rengimą arba turintys šio įstatymo [[#^s-7af6ce1940aa9fc4ba86abac|21]] ir [[#^s-90eea0bfa67833289e7d7f5c|35]] straipsniuose nurodytus dokumentus. ^s-38d392bc7315c0dda1bfbe07
 
 
 2. Gydytojų odontologų specialistų rengimą sudaro teorinis ir praktinis rengimas universiteto centre, gydymo mokymo ir tyrimų centre arba kompetentingos institucijos patvirtintoje sveikatos priežiūros įstaigoje. ^s-aaa9640b06dcc1a15f970f2f
@@ -1477,7 +1477,7 @@ Nr. XV-496, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17650
 1. Asmenys, turintys šio įstatymo 3 priedo 3.3.2 papunktyje nurodytą formalios kvalifikacijos įrodymą, gali užsiimti gydytojų odontologų profesine veikla, apibrėžta [[#^s-411bfb80c63208bbef2d4970|šio straipsnio 3 dalyje]]. ^s-3d171518163ffb25a3f0cf3c
 
 
-2. Gydytojo odontologo profesija turi būti grindžiama šio įstatymo [[#^s-ebbfe1721b54b587f2da9fac|32 straipsnyje]] nurodytu gydytojų odontologų rengimu ir tai yra savita profesija, kuri skiriasi nuo kitų bendrojo pobūdžio ar specializuotų medicinos profesijų. Siekiant užsiimti gydytojo odontologo profesine veikla, būtina turėti šio įstatymo 3 priedo 3.3.2 papunktyje nurodytą formalios kvalifikacijos įrodymą. Tokio formalios kvalifikacijos įrodymo turėtojai prilyginami tiems, kuriems taikomas šio įstatymo 21 ar [[#^s-90eea0bfa67833289e7d7f5c|35 straipsnis]]. ^s-57fae15c73620ce9fc050f64
+2. Gydytojo odontologo profesija turi būti grindžiama šio įstatymo [[#^s-ebbfe1721b54b587f2da9fac|32 straipsnyje]] nurodytu gydytojų odontologų rengimu ir tai yra savita profesija, kuri skiriasi nuo kitų bendrojo pobūdžio ar specializuotų medicinos profesijų. Siekiant užsiimti gydytojo odontologo profesine veikla, būtina turėti šio įstatymo 3 priedo 3.3.2 papunktyje nurodytą formalios kvalifikacijos įrodymą. Tokio formalios kvalifikacijos įrodymo turėtojai prilyginami tiems, kuriems taikomas šio įstatymo [[#^s-7af6ce1940aa9fc4ba86abac|21]] ar [[#^s-90eea0bfa67833289e7d7f5c|35]] straipsnis. ^s-57fae15c73620ce9fc050f64
 
 
 3. Lietuvos Respublikos kompetentinga institucija, atsižvelgdama į normines profesinės etikos nuostatas ir taisykles, šio įstatymo 3 priedo 3.3.2 papunktyje nurodytas atskaitos datas, užtikrina, kad gydytojai odontologai paprastai galėtų užsiimti dantų, burnos, žandikaulių ir gretimų audinių anomalijų ir ligų profilaktika, diagnozavimu ir gydymu. ^s-411bfb80c63208bbef2d4970
@@ -1502,7 +1502,7 @@ Nr. XV-496, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17650
 3. Iš asmenų, nurodytų [[#^s-b4f7fa5800accefe96000bfd|šio straipsnio 1 dalyje]], sėkmingai baigusių bent trejų metų studijas, kurios atitinkamos valstybės narės kompetentingų institucijų patvirtintos kaip lygiavertės šio įstatymo [[#^s-ebbfe1721b54b587f2da9fac|32 straipsnyje]] nurodytam rengimui, nereikalaujama [[#^s-e8671cb3a8cb2a45c074e17e|šio straipsnio 2 dalies 1 punkte]] minimos trejų metų praktinio darbo patirties. ^s-f667ebf2f881bd23b323548b
 
 
-4. Buvusioje Čekoslovakijoje įgytos formalios kvalifikacijos įrodymas pripažįstamas taip pat kaip ir Čekijos ir Slovakijos formalios kvalifikacijos įrodymas ir tokiomis pačiomis sąlygomis, kurios nustatytos šio straipsnio 1, 2 ir [[#^s-f667ebf2f881bd23b323548b|3 dalyse]]. ^s-2a7f509402ee910f2f4103ff
+4. Buvusioje Čekoslovakijoje įgytos formalios kvalifikacijos įrodymas pripažįstamas taip pat kaip ir Čekijos ir Slovakijos formalios kvalifikacijos įrodymas ir tokiomis pačiomis sąlygomis, kurios nustatytos šio straipsnio [[#^s-b4f7fa5800accefe96000bfd|1]], [[#^s-4a0d686db38417c3ef2e2f3d|2]] ir [[#^s-f667ebf2f881bd23b323548b|3]] dalyse. ^s-2a7f509402ee910f2f4103ff
 
 
 5. Lietuvos Respublikos kompetentinga institucija pripažįsta gydytojo formalios kvalifikacijos įrodymą, išduotą Italijoje asmenims, kurie pradėjo universitetines medicinos studijas po 1980 m. sausio 28 d. ir ne vėliau kaip 1984 m. gruodžio 31 d., jeigu kartu pateikiamas Italijos kompetentingų institucijų išduotas pažymėjimas. ^s-a6fc5b00267976365c7bb969
@@ -1523,7 +1523,7 @@ Nr. XV-496, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17650
 7. Iš asmenų, nurodytų [[#^s-a6fc5b00267976365c7bb969|šio straipsnio 5 dalyje]], sėkmingai baigusių bent trejų metų studijas, kurios atitinkamos valstybės narės kompetentingų institucijų patvirtintos kaip lygiavertės šio įstatymo [[#^s-ebbfe1721b54b587f2da9fac|32 straipsnyje]] nurodytam rengimui, nereikalaujama [[#^s-e8671cb3a8cb2a45c074e17e|šio straipsnio 2 dalies 1 punkte]] minimos trejų metų praktinio darbo patirties. ^s-10d717eea817eeac255a298b
 
 
-8. Asmenys, kurie pradėjo universitetines medicinos studijas po 1984 m. gruodžio 31 d., traktuojami taip pat kaip šio straipsnio 5, 6 ir [[#^s-10d717eea817eeac255a298b|7 dalyse]] nurodyti asmenys, jeigu [[#^s-10d717eea817eeac255a298b|šio straipsnio 7 dalyje]] minimos trejų metų studijos prasidėjo iki 1994 m. gruodžio 31 d. ^s-43ff855d55c99b8a292c3e43
+8. Asmenys, kurie pradėjo universitetines medicinos studijas po 1984 m. gruodžio 31 d., traktuojami taip pat kaip šio straipsnio [[#^s-a6fc5b00267976365c7bb969|5]], [[#^s-5f36b5508b4824bd8831ef36|6]] ir [[#^s-10d717eea817eeac255a298b|7]] dalyse nurodyti asmenys, jeigu [[#^s-10d717eea817eeac255a298b|šio straipsnio 7 dalyje]] minimos trejų metų studijos prasidėjo iki 1994 m. gruodžio 31 d. ^s-43ff855d55c99b8a292c3e43
 
 
 9. Lietuvos Respublikos kompetentinga institucija pripažįsta gydytojų odontologų formalios kvalifikacijos įrodymus pagal šio įstatymo [[#^s-ff8ec941ed75edc032818b1c|18 straipsnį]], jeigu asmuo studijas pradėjo iki 2016 m. sausio 18 d. ^s-0335f775430f3d82cfc54f7c
@@ -1584,7 +1584,7 @@ VETERINARIJOS GYDYTOJAI
 ### 37 straipsnis. Veterinarijos gydytojų įgytos teisės ^s-62bf4a041b325fc65e7768b6
 
 
-Lietuvos Respublikos kompetentinga institucija, nepažeisdama šio įstatymo [[#^s-7af6ce1940aa9fc4ba86abac|21 straipsnio]] 6, 7 ir 8 dalių, vertindama valstybių narių piliečius, kurių veterinarijos gydytojo formalios kvalifikacijos įrodymas buvo išduotas arba kurių rengimas prasidėjo Estijoje iki 2004 m. gegužės 1 d., pripažįsta tokį veterinarijos gydytojo formalios kvalifikacijos įrodymą, jeigu kartu su juo pateikiamas pažymėjimas, patvirtinantis, kad tokie asmenys veiksmingai ir teisėtai užsiėmė atitinkama veikla Estijoje ne trumpiau kaip penkerius metus iš eilės per septynerius metus iki pažymėjimo išdavimo.
+Lietuvos Respublikos kompetentinga institucija, nepažeisdama šio įstatymo [[#^s-7af6ce1940aa9fc4ba86abac|21 straipsnio]] [[#^s-b7f218af2c254a42ef631aa9|6]], [[#^s-b7cc8a92d993bb593e436e00|7]] ir [[#^s-a6b368933a19de03754d391a|8]] dalių, vertindama valstybių narių piliečius, kurių veterinarijos gydytojo formalios kvalifikacijos įrodymas buvo išduotas arba kurių rengimas prasidėjo Estijoje iki 2004 m. gegužės 1 d., pripažįsta tokį veterinarijos gydytojo formalios kvalifikacijos įrodymą, jeigu kartu su juo pateikiamas pažymėjimas, patvirtinantis, kad tokie asmenys veiksmingai ir teisėtai užsiėmė atitinkama veikla Estijoje ne trumpiau kaip penkerius metus iš eilės per septynerius metus iki pažymėjimo išdavimo.
 
 
 
@@ -1928,7 +1928,7 @@ Nukrypstant nuo šio įstatymo [[#^s-7f649137ef58c479a8041f22|44 straipsnio]], [
 3. [[#^s-350aba4d98c771593b077934|Šio straipsnio 1 dalis]] taip pat taikoma į šio įstatymo 3 priedo 3.7.1 papunktyje nurodytą sąrašą įtraukto architekto formalios kvalifikacijos įrodymui, kai rengimas prasidėjo iki 2016 m. sausio 18 d. ^s-023bbbd1c12d08525476245f
 
 
-4. Kad asmuo galėtų užsiimti architekto profesine veikla, Lietuvos Respublikos kompetentinga institucija, atsižvelgdama į šio straipsnio 1 ir [[#^s-cb39a42606e07406587d2e64|2 dalių]] nuostatas, pripažįsta toliau nurodytus formalios kvalifikacijos įrodymus ir pažymėjimus, išduotus valstybių narių piliečiams valstybių narių, kurios pradėjo taikyti architektų veiklą reglamentuojančias taisykles nuo tokių datų: ^s-d6842d7dc9be54d8b9061a0a
+4. Kad asmuo galėtų užsiimti architekto profesine veikla, Lietuvos Respublikos kompetentinga institucija, atsižvelgdama į šio straipsnio [[#^s-350aba4d98c771593b077934|1]] ir [[#^s-cb39a42606e07406587d2e64|2]] dalių nuostatas, pripažįsta toliau nurodytus formalios kvalifikacijos įrodymus ir pažymėjimus, išduotus valstybių narių piliečiams valstybių narių, kurios pradėjo taikyti architektų veiklą reglamentuojančias taisykles nuo tokių datų: ^s-d6842d7dc9be54d8b9061a0a
 
 
 1) Austrija, Suomija ir Švedija nuo 1995 m. sausio 1 d.; ^s-b1f382bb16c23616821bf657
@@ -1946,7 +1946,7 @@ Nukrypstant nuo šio įstatymo [[#^s-7f649137ef58c479a8041f22|44 straipsnio]], [
 5) kitos valstybės narės nuo 1987 m. rugpjūčio 5 d. ^s-1133a6592a683cf6abd7b501
 
 
-5. Šio straipsnio 1–[[#^s-023bbbd1c12d08525476245f|3 dalyse]] minimi pažymėjimai turi patvirtinti, kad jų turėtojui ne ilgiau negu nurodytą terminą leista naudotis architekto profesiniu vardu ir kad jis pagal tas taisykles teisėtai užsiėmė atitinkama veikla ne trumpiau kaip trejus metus iš eilės per penkerius metus iki pažymėjimo išdavimo. ^s-02d81c3de891b5c7253131cb
+5. Šio straipsnio [[#^s-350aba4d98c771593b077934|1]]–[[#^s-023bbbd1c12d08525476245f|3]] dalyse minimi pažymėjimai turi patvirtinti, kad jų turėtojui ne ilgiau negu nurodytą terminą leista naudotis architekto profesiniu vardu ir kad jis pagal tas taisykles teisėtai užsiėmė atitinkama veikla ne trumpiau kaip trejus metus iš eilės per penkerius metus iki pažymėjimo išdavimo. ^s-02d81c3de891b5c7253131cb
 
 
 6. Lietuvos Respublikos kompetentinga institucija šioje dalyje nurodytus formalios kvalifikacijos įrodymus Lietuvos teritorijoje pripažįsta kaip savo pačios išduodamus formalios kvalifikacijos įrodymus, suteikiančius teisę pradėti ir vykdyti architekto profesinę veiklą: įrodymus, kad baigtas nuo 1985 m. rugpjūčio 5 d. buvęs rengimas, pradėtas iki 2014 m. sausio 17 d., suteiktas Vokietijos Federacinės Respublikos profesinio rengimo mokyklose („Fachhochschulen“) per trejų metų laikotarpį, atitinkantis šio įstatymo [[#^s-065163a6bcf01774fd1027f8|44 straipsnio 2 dalyje]] nustatytus reikalavimus ir suteikiantis teisę užsiimti šio įstatymo [[#^s-11d2718a849c3021bfe6ee99|46 straipsnyje]] nurodyta veikla toje valstybėje narėje pagal „architekto“ profesiją, jeigu po rengimo buvo ketverių metų profesinės patirties Vokietijos Federacinėje Respublikoje laikotarpis, patvirtintas pažymėjimu, kurį išdavė profesinė asociacija, į kurios sąrašą įrašytas architektas, pageidaujantis pasinaudoti šio įstatymo nuostatomis. ^s-0493c44a1604ebc0125d7ac5
@@ -2079,7 +2079,7 @@ BENDROSIOS NUOSTATOS DĖL ĮSISTEIGIMO
 3. Lietuvos Respublikos kompetentingos institucijos užtikrina jų gaunamos informacijos, susijusios su reglamentuojamų profesinių kvalifikacijų pripažinimu, konfidencialumą. ^s-79ed2296664584eb016dbe54
 
 
-4. Lietuvos Respublikos kompetentinga institucija, turinti pagrįstų abejonių, gali reikalauti iš valstybės narės kompetentingų institucijų patvirtinti toje valstybėje narėje išduotų pažymėjimų ir formalios kvalifikacijos įrodymų autentiškumą, o kai taikytina, – ir patvirtinti, ar asmuo, siejant su šio įstatymo III dalies III skyriuje nurodytomis profesijomis, atitinka būtiniausius rengimo reikalavimus, nustatytus atitinkamai šio įstatymo 22, 23, 26, 29, 32, 33, 36, 38, 42 ir [[#^s-7f649137ef58c479a8041f22|44 straipsniuose]]. ^s-b877b4be4005beba9fe29c03
+4. Lietuvos Respublikos kompetentinga institucija, turinti pagrįstų abejonių, gali reikalauti iš valstybės narės kompetentingų institucijų patvirtinti toje valstybėje narėje išduotų pažymėjimų ir formalios kvalifikacijos įrodymų autentiškumą, o kai taikytina, – ir patvirtinti, ar asmuo, siejant su šio įstatymo III dalies III skyriuje nurodytomis profesijomis, atitinka būtiniausius rengimo reikalavimus, nustatytus atitinkamai šio įstatymo [[#^s-1e37e6a25aa14c4f8d2127cd|22]], [[#^s-aeeb4a4e1b23f3a8e42ea139|23]], [[#^s-a33fbcbca07ecfdd161bb02f|26]], [[#^s-4e90726e772fd465c5d3bc1c|29]], [[#^s-ebbfe1721b54b587f2da9fac|32]], [[#^s-46715b4cf5ceeb504eb60d71|33]], [[#^s-81af06a45b65ba6e88736537|36]], [[#^s-35d97021900c3d666397f9e4|38]], [[#^s-f61881fefce2e41fa5f89de6|42]] ir [[#^s-7f649137ef58c479a8041f22|44]] straipsniuose. ^s-b877b4be4005beba9fe29c03
 
 
 5. Lietuvos Respublikos kompetentinga institucija, turinti pagrįstų abejonių, turi teisę pasiteirauti kvalifikacijos suteikimo kilmės valstybės narės kompetentingos institucijos, ar šio įstatymo [[#^s-b0a95f7c3d2bab878fbd5f07|3 straipsnio 6 dalyje]] apibrėžtas formalios kvalifikacijos įrodymas buvo išduotas valstybės narės kompetentingos institucijos ir susijęs su rengimu, visiškai ar iš dalies įgytu kitos valstybės narės teritorijoje teisėtai įsteigtoje institucijoje: ^s-e4204d4b68cda71f8218ade8
@@ -2186,7 +2186,7 @@ TAISYKLĖS SIEKIANT DIRBTI PAGAL REGLAMENTUOJAMĄ PROFESIJĄ IR UŽSIIMTI PROFES
 ### 55 straipsnis. Mokslo vardų naudojimas ^s-27dec878eb10f3ffee4f0d72
 
 
-1. Lietuvos Respublikos institucijos, nepažeisdamos šio įstatymo 9 ir [[#^s-062443a8522b644fd9cb236f|52 straipsnių]], užtikrina suinteresuotų asmenų teisę naudoti mokslo vardus, suteiktus kilmės valstybėje narėje. Mokslo vardai gali būti nurodomi sutrumpinta forma kilmės valstybės narės kalba. ^s-e2c1e2bd5f1469de51728604
+1. Lietuvos Respublikos institucijos, nepažeisdamos šio įstatymo [[#^s-0a54b43c1f948fde3529be6c|9]] ir [[#^s-062443a8522b644fd9cb236f|52]] straipsnių, užtikrina suinteresuotų asmenų teisę naudoti mokslo vardus, suteiktus kilmės valstybėje narėje. Mokslo vardai gali būti nurodomi sutrumpinta forma kilmės valstybės narės kalba. ^s-e2c1e2bd5f1469de51728604
 
 
 2. Jeigu kilmės valstybės narės mokslo vardas Lietuvos Respublikoje gali būti painiojamas su vardu, kuriam reikia papildomo rengimo, kurio asmuo neturi, turi būti naudojamas kilmės valstybės narės mokslo vardas Lietuvos Respublikos Vyriausybės arba jos įgaliotos institucijos nustatyta tvarka. ^s-dc66f6ce4da77a056e813b15
@@ -2196,7 +2196,7 @@ TAISYKLĖS SIEKIANT DIRBTI PAGAL REGLAMENTUOJAMĄ PROFESIJĄ IR UŽSIIMTI PROFES
 ### 56 straipsnis. Sveikatos draudimo fondų suteikiamas patvirtinimas ^s-177bb6d096db262b164387fd
 
 
-Nepažeisdama šio įstatymo [[#^s-7e242fc8df383fbacc43806a|7 straipsnio]] 1 ir 4 dalių, [[#^s-032957e67017323535c84e15|8 straipsnio 2 punkto]], Lietuvos Respublikos kompetentinga institucija nereikalauja iš asmenų, įgijusių profesinę kvalifikaciją Lietuvos Respublikoje, sveikatos draudimo fondų patvirtinimo. Šiame straipsnyje nustatytas reikalavimas taikomas ir asmenims, turintiems kitose valstybėse narėse įgytą gydytojo ir gydytojo odontologo formalios kvalifikacijos įrodymą.
+Nepažeisdama šio įstatymo [[#^s-7e242fc8df383fbacc43806a|7 straipsnio]] [[#^s-310f526710d1ad35b02e3dbe|1]] ir [[#^s-4b337108f3b93efa017ca070|4]] dalių, [[#^s-032957e67017323535c84e15|8 straipsnio 2 punkto]], Lietuvos Respublikos kompetentinga institucija nereikalauja iš asmenų, įgijusių profesinę kvalifikaciją Lietuvos Respublikoje, sveikatos draudimo fondų patvirtinimo. Šiame straipsnyje nustatytas reikalavimas taikomas ir asmenims, turintiems kitose valstybėse narėse įgytą gydytojo ir gydytojo odontologo formalios kvalifikacijos įrodymą.
 
 
 
@@ -2227,7 +2227,7 @@ ADMINISTRACINIS BENDRADARBIAVIMAS
 2. Lietuvos Respublikos ir kilmės valstybės narės kompetentingos institucijos keičiasi informacija apie drausmines nuobaudas, baudžiamąsias sankcijas arba kitas aplinkybes, kurios gali turėti pasekmių šio įstatymo nustatytai veiklai. ^s-eba5494c79674931d9533d5c
 
 
-3. Lietuvos Respublikos kompetentingos institucijos, bendradarbiaudamos ir keisdamosi informacija su kilmės valstybių narių kompetentingomis institucijomis, vadovaujasi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos reglamento (ES) 2016/679 dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]], [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymo]] ir [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo]] nuostatomis. ^s-2dc765b667e0d17b6de7b7ab
+3. Lietuvos Respublikos kompetentingos institucijos, bendradarbiaudamos ir keisdamosi informacija su kilmės valstybių narių kompetentingomis institucijomis, vadovaujasi 2016 m. balandžio 27 d. Europos Parlamento ir Tarybos [reglamento (ES) 2016/679](https://eur-lex.europa.eu/eli/reg/2016/679/oj) dėl fizinių asmenų apsaugos tvarkant asmens duomenis ir dėl laisvo tokių duomenų judėjimo ir kuriuo panaikinama Direktyva 95/46/EB (Bendrasis duomenų apsaugos reglamentas) (OL 2016 L 119, p. 1), [[latest/TAR.5368B592234C|Lietuvos Respublikos asmens duomenų teisinės apsaugos įstatymo]], [[latest/TAR.82D8168D3049|Lietuvos Respublikos elektroninių ryšių įstatymo]] ir [[latest/TAR.85C510BA700A|Lietuvos Respublikos valstybės informacinių išteklių valdymo įstatymo]] nuostatomis. ^s-2dc765b667e0d17b6de7b7ab
 Straipsnio dalies pakeitimai:
 Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 
@@ -2242,7 +2242,7 @@ Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
 
 
 
-5. Lietuvos Respublikos kompetentingos institucijos, vadovaudamosi šio straipsnio 1–[[#^s-3c0a539665158ca1ac288364|41 dalių]] nuostatomis, keisdamosi informacija naudojasi IMI. ^s-6019319e57e26085def0a9a4
+5. Lietuvos Respublikos kompetentingos institucijos, vadovaudamosi šio straipsnio [[#^s-b461736be4b7c9f7a91f00b6|1]]–[[#^s-3c0a539665158ca1ac288364|41]] dalių nuostatomis, keisdamosi informacija naudojasi IMI. ^s-6019319e57e26085def0a9a4
 Straipsnio dalies pakeitimai:
 Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
 
@@ -2293,7 +2293,7 @@ Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 4) dalyvauja Europos Komisijos Profesinių kvalifikacijų pripažinimo komiteto veikloje; ^s-e8e233327713172f4eafc878
 
 
-5) nagrinėja pasiūlymus dėl bendrųjų profesinio pasirengimo pagrindų ir bendrųjų profesinio pasirengimo testų, kurie numatyti šio įstatymo 48 ir [[#^s-7114369ab5b3b7632c97ea18|49 straipsniuose]]; ^s-eb91cb1a53b58e7dea08c170
+5) nagrinėja pasiūlymus dėl bendrųjų profesinio pasirengimo pagrindų ir bendrųjų profesinio pasirengimo testų, kurie numatyti šio įstatymo [[#^s-2bb322658dcec125dcf9b6cd|48]] ir [[#^s-7114369ab5b3b7632c97ea18|49]] straipsniuose; ^s-eb91cb1a53b58e7dea08c170
 
 
 6) keičiasi informacija ir geriausia praktika, siekdamas Lietuvos Respublikoje optimizuoti tęstinį kvalifikacijos tobulinimą asmenims, kurių turimoms profesinėms kvalifikacijoms taikomas šio įstatymo III dalies III skyrius; ^s-e6df04e00ec7e43148876ee2
@@ -2424,10 +2424,10 @@ Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 8) vaistininko, turinčio šio įstatymo 3 priedo 3.6.2 papunktyje nurodytą formalios kvalifikacijos įrodymą; ^s-380dabb6ef79af8fdd46f8b2
 
 
-9) asmens, turinčio šio įstatymo 5 priedo [[#^s-56d011589a74b96273da3fd1|2 punkte]] nurodytą pažymėjimą, įrodantį, kad jis užbaigė rengimą, kuris atitinka šio įstatymo 22, 23, 29, 32, 33, 36, 38 ar [[#^s-f61881fefce2e41fa5f89de6|42 straipsniuose]] nurodytus būtiniausius reikalavimus, tačiau kuris prasidėjo anksčiau nei šio įstatymo 3 priedo 3.1.3, 3.1.4, 3.2.2, 3.3.2, 3.3.3, 3.4.2, 3.5.2, 3.6.2 papunkčiuose nurodytų kvalifikacijų įgijimo atskaitos datos; ^s-05c54b10c26adffce591cf0e
+9) asmens, turinčio šio įstatymo 5 priedo [[#^s-56d011589a74b96273da3fd1|2 punkte]] nurodytą pažymėjimą, įrodantį, kad jis užbaigė rengimą, kuris atitinka šio įstatymo [[#^s-1e37e6a25aa14c4f8d2127cd|22]], [[#^s-aeeb4a4e1b23f3a8e42ea139|23]], [[#^s-4e90726e772fd465c5d3bc1c|29]], [[#^s-ebbfe1721b54b587f2da9fac|32]], [[#^s-46715b4cf5ceeb504eb60d71|33]], [[#^s-81af06a45b65ba6e88736537|36]], [[#^s-35d97021900c3d666397f9e4|38]] ar [[#^s-f61881fefce2e41fa5f89de6|42]] straipsniuose nurodytus būtiniausius reikalavimus, tačiau kuris prasidėjo anksčiau nei šio įstatymo 3 priedo 3.1.3, 3.1.4, 3.2.2, 3.3.2, 3.3.3, 3.4.2, 3.5.2, 3.6.2 papunkčiuose nurodytų kvalifikacijų įgijimo atskaitos datos; ^s-05c54b10c26adffce591cf0e
 
 
-10) asmens, turinčio pažymėjimą apie įgytas teises, kaip nurodyta šio įstatymo 21, 25, 27, 31, 35, [[#^s-06f615f431fc53d6f98e0f2b|41 straipsniuose]]; ^s-5399eb65fd7b7519304c5c7f
+10) asmens, turinčio pažymėjimą apie įgytas teises, kaip nurodyta šio įstatymo [[#^s-7af6ce1940aa9fc4ba86abac|21]], [[#^s-708d834c6380c8e3b40162e1|25]], [[#^s-96d7d5e15f2fbe43a59ee1d1|27]], 31, [[#^s-90eea0bfa67833289e7d7f5c|35]], [[#^s-06f615f431fc53d6f98e0f2b|41]] straipsniuose; ^s-5399eb65fd7b7519304c5c7f
 
 
 11) kitų asmenų, užsiimančių veikla, darančia poveikį pacientų saugumui, kai jie dirba Lietuvos Respublikoje pagal reglamentuojamą profesiją; ^s-7be445d57a7496982222321b
@@ -2533,7 +2533,7 @@ Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 4) Lietuvos Respublikoje reglamentuojamo rengimo ir šio įstatymo [[#^s-573fb24de8768b058d5cf933|13 straipsnio 4 dalies 2 punkte]] nurodyto specialios struktūros rengimo sąrašas; ^s-30668357d297ab1ccd6e8d96
 
 
-5) Lietuvos Respublikos reglamentuojamoms profesijoms taikomi šio įstatymo 9, 50, 51 ir [[#^s-2228a6888b6d0cfb94f35098|54 straipsniuose]] nurodyti reikalavimai ir procedūros, įskaitant visus susijusius Lietuvos Respublikos piliečių mokėtinus mokesčius ir Lietuvos Respublikos kompetentingoms institucijoms pateiktinus dokumentus; ^s-c8be06bb9604590c24c56aa0
+5) Lietuvos Respublikos reglamentuojamoms profesijoms taikomi šio įstatymo [[#^s-0a54b43c1f948fde3529be6c|9]], [[#^s-a0b9788697651556c8d41070|50]], [[#^s-c354f3d3d83f51f5ccd5e3e0|51]] ir [[#^s-2228a6888b6d0cfb94f35098|54]] straipsniuose nurodyti reikalavimai ir procedūros, įskaitant visus susijusius Lietuvos Respublikos piliečių mokėtinus mokesčius ir Lietuvos Respublikos kompetentingoms institucijoms pateiktinus dokumentus; ^s-c8be06bb9604590c24c56aa0
 
 
 6) informacija, kaip, vadovaujantis Lietuvos Respublikos įstatymais ir kitais teisės aktais, apskųsti pagal šį įstatymą priimtus Lietuvos Respublikos kompetentingų institucijų sprendimus. ^s-19bea5dde84baca0eb75c854
@@ -2545,7 +2545,7 @@ Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
 3. Kontaktinis centras užtikrina, kad į kiekvieną kontaktiniam centrui adresuotą prašymą pateikti informaciją būtų atsakyta ne vėliau kaip per penkias darbo dienas. ^s-a7386d658a90a99897262966
 
 
-4. Kontaktinis centras bendradarbiauja su kitų valstybių narių kontaktiniais centrais ir su Europos Komisija šio straipsnio 1, 2 ir [[#^s-2f3cfe2242d2d097044ae489|4 dalių]] įgyvendinimo tikslais. ^s-2f3cfe2242d2d097044ae489
+4. Kontaktinis centras bendradarbiauja su kitų valstybių narių kontaktiniais centrais ir su Europos Komisija šio straipsnio [[#^s-0c6661443f585ce68c55add7|1]], [[#^s-ff65123c026322287c44a88f|2]] ir 4 dalių įgyvendinimo tikslais. ^s-2f3cfe2242d2d097044ae489
 
 
 5. Kontaktinio centro veikla [[#^s-0c6661443f585ce68c55add7|šio straipsnio 1 dalyje]] nurodytoms funkcijoms atlikti yra finansuojama iš Lietuvos Respublikos ekonomikos ir inovacijų ministerijai skirtų valstybės biudžeto asignavimų ir (ar) kitų lėšų. ^s-a9e89bc9f101f02a927d9594
@@ -2578,7 +2578,7 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 5. Asmuo, nesutinkantis su šio įstatymo [[#^s-298268b009aa4f83b59f6625|9 straipsnio 9 dalies 2 punkte]] nurodytu Lietuvos Respublikos kompetentingos institucijos sprendimu, priimtu išnagrinėjus deklaraciją dėl leidimo laikinai ir kartais teikti paslaugas Lietuvos Respublikoje, gali jį skųsti Apeliacinei komisijai. ^s-71b150e53f5fe7ed37c22d4b
 
 
-6. Šio straipsnio 4 ir [[#^s-71b150e53f5fe7ed37c22d4b|5 dalyse]] nurodyti skundai paduodami per 14 darbo dienų nuo skundžiamo sprendimo priėmimo arba termino išnagrinėti asmens prašymą pripažinti jo kitoje valstybėje narėje ar trečiojoje valstybėje įgytą profesinę kvalifikaciją pabaigos dienos. ^s-fa87bbe5d9dea22d819f48e0
+6. Šio straipsnio [[#^s-1c0110f3f0382c0bc3d5b140|4]] ir [[#^s-71b150e53f5fe7ed37c22d4b|5]] dalyse nurodyti skundai paduodami per 14 darbo dienų nuo skundžiamo sprendimo priėmimo arba termino išnagrinėti asmens prašymą pripažinti jo kitoje valstybėje narėje ar trečiojoje valstybėje įgytą profesinę kvalifikaciją pabaigos dienos. ^s-fa87bbe5d9dea22d819f48e0
 
 
 7. Apeliacinei komisijai pateiktas skundas turi būti išnagrinėtas ir sprendimas dėl jo priimtas per vieną mėnesį nuo skundo gavimo dienos. ^s-2b67e5c4459482d698e78328
@@ -2625,7 +2625,7 @@ Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
 3. Šio straipsnio 1 ir 2 dalys netaikomos profesinės adaptacijos laikotarpio įvykdymui ar profesinio tinkamumo testo atlikimui. ^s-53e11ba69ff63ac496f213e1
 
 
-4. Atliekant šio straipsnio 1 dalyje numatytas procedūras Lietuvos Respublikoje gali būti priimamas saugus elektroninis parašas, atitinkantis Lietuvos Respublikos elektroninio parašo įstatymo [[#^s-f7c957c74fea451a00b05842|2 straipsnio 5 dalį]] ir sukurtas saugia parašo formavimo įranga bei patvirtintas galiojančiu kvalifikuotu sertifikatu. ^s-c02d2c5b3cda4772a44b1291
+4. Atliekant šio straipsnio 1 dalyje numatytas procedūras Lietuvos Respublikoje gali būti priimamas saugus elektroninis parašas, atitinkantis [Lietuvos Respublikos elektroninio parašo įstatymo 2 straipsnio 5 dalį](https://e-tar.lt/portal/lt/legalAct/TAR.382345294FBF) ir sukurtas saugia parašo formavimo įranga bei patvirtintas galiojančiu kvalifikuotu sertifikatu. ^s-c02d2c5b3cda4772a44b1291
 
 
 5. Šio įstatymo [[#^s-4977cd6b6a210994fa5d9b54|9 straipsnio 8 dalyje]] ir [[#^s-c354f3d3d83f51f5ccd5e3e0|51 straipsnyje]] nustatytų procedūrinių laikotarpių pradžia yra asmens paraiškos arba bet kokio trūkstamo dokumento pateikimo Kontaktiniam centrui arba tiesiogiai atitinkamai Lietuvos Respublikos kompetentingai institucijai data. ^s-a2caa9936d5b93846d2c9b28
@@ -2925,7 +2925,7 @@ a) prekių pirkimas ir pardavimas:
 b) veiklos rūšys, kurioms taikomos jau patvirtintos nacionalinės priemonės, aiškiai atmetančios vertimąsi tokių rūšių kilnojamąja veikla ar nemininčios jo.
 
 3
-Direktyva 82/470/EEB ([[#^s-90bb99c048c1ad76944929e5|6 straipsnio]] 1 ir 3 dalys)
+Direktyva 82/470/EEB ([[#^s-90bb99c048c1ad76944929e5|6 straipsnio]] [[#^s-d9fe2316dc29672d289f9e1b|1]] ir [[#^s-8b4d636f0d199dbfb9607b20|3]] dalys)
 ISIC nomenklatūros 718 ir 720 grupės
 
 Veiklos rūšys, kurias konkrečiai sudaro:
@@ -11576,7 +11576,7 @@ kvalifikacijų pripažinimo
 
 ĮGYTOS TEISĖS, TAIKOMOS PROFESIJOMS, PRIPAŽĮSTAMOMS PAGAL BŪTINIAUSIŲ RENGIMO REIKALAVIMŲ DERINIMĄ
 
-4. Architektų, kurie naudojasi pagal šio įstatymo [[#^s-6a1dd5550e472d280137f858|47 straipsnio]] 1 ir 2 dalis įgytomis teisėmis, formalios kvalifikacijos įrodymai ^s-7408619643d5e7ae36c0a895
+4. Architektų, kurie naudojasi pagal šio įstatymo [[#^s-6a1dd5550e472d280137f858|47 straipsnio]] [[#^s-350aba4d98c771593b077934|1]] ir [[#^s-cb39a42606e07406587d2e64|2]] dalis įgytomis teisėmis, formalios kvalifikacijos įrodymai ^s-7408619643d5e7ae36c0a895
 
 Lentelė. Architektų formalios kvalifikacijos įrodymų pavadinimai
 
@@ -11764,7 +11764,7 @@ kvalifikacijų pripažinimo
 įstatymo
 5 priedas
 
-DOKUMENTAI IR PAŽYMĖJIMAI, KURIE GALI BŪTI REIKALINGI LAIKANTIS [[#^s-a0b9788697651556c8d41070|LIETUVOS RESPUBLIKOS REGLAMENTUOJAMŲ PROFESINIŲ KVALIFIKACIJŲ PRIPAŽINIMO ĮSTATYMO 50 STRAIPSNIO]] 1, 2 IR 3 DALIŲ
+DOKUMENTAI IR PAŽYMĖJIMAI, KURIE GALI BŪTI REIKALINGI LAIKANTIS [[#^s-a0b9788697651556c8d41070|LIETUVOS RESPUBLIKOS REGLAMENTUOJAMŲ PROFESINIŲ KVALIFIKACIJŲ PRIPAŽINIMO ĮSTATYMO 50 STRAIPSNIO]] [[#^s-0918b580b82610cb35b06b77|1]], [[#^s-492e0471e52fc3ece15267d6|2]] IR [[#^s-79ed2296664584eb016dbe54|3]] DALIŲ
 
 
 
@@ -11810,14 +11810,14 @@ kvalifikacijų pripažinimo įstatymo
 
 
 
-1. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/36/EB dėl profesinių kvalifikacijų pripažinimo su paskutiniais pakeitimais, padarytais 2024 m. kovo 5 d. Komisijos deleguotuoju sprendimu (ES) 2024/1395. ^s-e677122b03e2cd45086f5720
+1. 2005 m. rugsėjo 7 d. Europos Parlamento ir Tarybos direktyva 2005/36/EB dėl profesinių kvalifikacijų pripažinimo su paskutiniais pakeitimais, padarytais 2024 m. kovo 5 d. Komisijos deleguotuoju [sprendimu (ES) 2024/1395](https://eur-lex.europa.eu/eli/dec/2024/1395/oj). ^s-e677122b03e2cd45086f5720
 Punkto pakeitimai:
 Nr. XIV-3013, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17778
 Nr. XV-496, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17650
 
 
 
-2. 2018 m. birželio 28 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/958 dėl proporcingumo patikros prieš priimant naujas profesijų reglamentavimo nuostatas. ^s-9d541a4216b7f2068f65bd8b
+2. 2018 m. birželio 28 d. Europos Parlamento ir Tarybos [direktyva (ES) 2018/958](https://eur-lex.europa.eu/eli/dir/2018/958/oj) dėl proporcingumo patikros prieš priimant naujas profesijų reglamentavimo nuostatas. ^s-9d541a4216b7f2068f65bd8b
 
 
 ______________________
@@ -11850,29 +11850,29 @@ Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo į
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2240, 2019-06-13, paskelbta TAR 2019-06-27, i. k. 2019-10363
-Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 9 ir [[#^s-7af6ce1940aa9fc4ba86abac|21 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 [[#^s-0a54b43c1f948fde3529be6c|9]] ir [[#^s-7af6ce1940aa9fc4ba86abac|21]] straipsnių pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2616, 2019-12-05, paskelbta TAR 2019-12-19, i. k. 2019-20646
-Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 1, 2, 3, 5, 9, 12, 15, 21, 50, 51, 58, 59, 63, [[#^s-be9c708b00a2e6ac2edad16e|64 straipsnių]], 6 priedo pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
+Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 [[#^s-386a31f153c0b7d770d5c5bc|1]], [[#^s-b06e5e238c1e746dd479cab4|2]], [[#^s-fd159c2ea5963eea69e8f282|3]], [[#^s-80cc936e2640b1a022bebee0|5]], [[#^s-0a54b43c1f948fde3529be6c|9]], [[#^s-d073d9cf3b7db81bbd6e9378|12]], [[#^s-3bc38e32fdf767b51d3f35e0|15]], [[#^s-7af6ce1940aa9fc4ba86abac|21]], [[#^s-a0b9788697651556c8d41070|50]], [[#^s-c354f3d3d83f51f5ccd5e3e0|51]], [[#^s-e002587aecaa787a59e223b1|58]], [[#^s-7ad2667f4d038d2fd773b10a|59]], [[#^s-f334cbfa047d01465088141d|63]], [[#^s-be9c708b00a2e6ac2edad16e|64]] straipsnių, 6 priedo pakeitimo ir Įstatymo papildymo 6-1 straipsniu įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-2985, 2020-05-28, paskelbta TAR 2020-06-11, i. k. 2020-12789
-Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 9, 58, [[#^s-7ad2667f4d038d2fd773b10a|59 straipsnių]], 6 priedo pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
+Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 [[#^s-0a54b43c1f948fde3529be6c|9]], [[#^s-e002587aecaa787a59e223b1|58]], [[#^s-7ad2667f4d038d2fd773b10a|59]] straipsnių, 6 priedo pakeitimo ir Įstatymo papildymo 3-1 straipsniu įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1896, 2023-04-25, paskelbta TAR 2023-04-26, i. k. 2023-08046
-Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 1, 2, 5, 58, 59, [[#^s-f334cbfa047d01465088141d|63 straipsnių]] ir 6 priedo pakeitimo ir Įstatymo papildymo 59-1 straipsniu įstatymas
+Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 [[#^s-386a31f153c0b7d770d5c5bc|1]], [[#^s-b06e5e238c1e746dd479cab4|2]], [[#^s-80cc936e2640b1a022bebee0|5]], [[#^s-e002587aecaa787a59e223b1|58]], [[#^s-7ad2667f4d038d2fd773b10a|59]], [[#^s-f334cbfa047d01465088141d|63]] straipsnių ir 6 priedo pakeitimo ir Įstatymo papildymo 59-1 straipsniu įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3013, 2024-10-03, paskelbta TAR 2024-10-10, i. k. 2024-17778
-Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 29, 31 straipsnių ir 6 priedo pakeitimo įstatymas
+Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 [[#^s-4e90726e772fd465c5d3bc1c|29]], 31 straipsnių ir 6 priedo pakeitimo įstatymas
 
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-496, 2025-10-16, paskelbta TAR 2025-10-23, i. k. 2025-17650
-Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 11, 29, 32, 42, 61 straipsnių, 3 ir 6 priedų pakeitimo įstatymas
+Lietuvos Respublikos reglamentuojamų profesinių kvalifikacijų pripažinimo įstatymo Nr. X-1478 [[#^s-946bfc90866fc63238396301|11]], [[#^s-4e90726e772fd465c5d3bc1c|29]], [[#^s-ebbfe1721b54b587f2da9fac|32]], [[#^s-f61881fefce2e41fa5f89de6|42]], 61 straipsnių, 3 ir 6 priedų pakeitimo įstatymas

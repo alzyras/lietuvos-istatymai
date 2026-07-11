@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos kredito unijų įstatymo 56 ir 61 straipsnių
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.B6B636C7384A#^s-f8b4491577818839d66a9c2d|Lietuvos Respublikos bankų įstatymas]] - Lietuvos Respublikos bankų įstatymo 65 straipsnis
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.DE0B1FF26D01#^s-0f2ad661fd6c4657f734df45|Lietuvos Respublikos kredito unijų įstatymas]] - 2 citatos - KREDITO UNIJŲ ĮSTATYMO 56 IR 61 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
-- [[latest/TAR.DE0B1FF26D01#^s-a09eaa597280bf735b93aed5|Lietuvos Respublikos kredito unijų įstatymas]] - 2 citatos - KREDITO UNIJŲ ĮSTATYMO 56 IR 61 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
+- [[latest/TAR.DE0B1FF26D01#^s-a09eaa597280bf735b93aed5|Lietuvos Respublikos kredito unijų įstatymas]] - KREDITO UNIJŲ ĮSTATYMO 56 IR 61 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS

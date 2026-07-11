@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos III priedo pakeitimų ratifikavimas ^s-52c0113828def2a1c702193f
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2006 m. gruodžio 8 d. dekretą Nr. 1K-822, ratifikuoja 1992 m. Helsinkio konvencijos dėl Baltijos jūros baseino jūrinės aplinkos apsaugos III priedo „Taršos iš sausumos taršos šaltinių prevencijai taikomi kriterijai ir priemonės“ pakeitimus, priimtus rekomendacija 21/12000 m. kovo 20 d. Helsinkyje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2006 m. gruodžio 8 d. dekretą Nr. 1K-822](https://e-tar.lt/portal/lt/legalAct/TAR.1A9045BF79C1), ratifikuoja 1992 m. Helsinkio konvencijos dėl Baltijos jūros baseino jūrinės aplinkos apsaugos III priedo „Taršos iš sausumos taršos šaltinių prevencijai taikomi kriterijai ir priemonės“ pakeitimus, priimtus rekomendacija 21/12000 m. kovo 20 d. Helsinkyje.
 
 
 

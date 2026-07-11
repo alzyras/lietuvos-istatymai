@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-259ba9607621c891bf585e76
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2007 m. gruodžio 4 d. dekretą Nr. 1K-1182, ratifikuoja 2007 m. rugpjūčio 29 d. Skopjėje sudarytą Lietuvos Respublikos Vyriausybės ir Makedonijos Respublikos Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2007 m. gruodžio 4 d. dekretą Nr. 1K-1182](https://e-tar.lt/portal/lt/legalAct/TAR.6C601EF5DBC4), ratifikuoja 2007 m. rugpjūčio 29 d. Skopjėje sudarytą Lietuvos Respublikos Vyriausybės ir Makedonijos Respublikos Vyriausybės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos.
 
 
 

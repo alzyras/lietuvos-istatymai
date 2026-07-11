@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.1A98CE535B1C#^s-437a4df9bc33639c872ef7c3|Lietuvos Respublikos aplinkos monitoringo įstatymas]] - 3 citatos - 1031010ISTA0IX-1613
+- [[latest/TAR.1A98CE535B1C#^s-437a4df9bc33639c872ef7c3|Lietuvos Respublikos aplinkos monitoringo įstatymas]] - 2 citatos - 1031010ISTA0IX-1613

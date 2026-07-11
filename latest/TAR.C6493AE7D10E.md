@@ -44,10 +44,10 @@ Vilnius
 1. Papildyti [[#^s-3273dcdbde4ce7963ee0d1c4|2 straipsnį]] nauja 4 dalimi: ^s-8f01e2051c27d0d18370b461
 
 
-„4. Didmeninės energijos rinkos dalyvis – kaip apibrėžta Reglamente (ES) Nr. 1227/2011.“
+„4. Didmeninės energijos rinkos dalyvis – kaip apibrėžta [Reglamente (ES) Nr. 1227/2011](https://eur-lex.europa.eu/eli/reg/1227/2011/oj).“
 
 
-2. Buvusias [[#^s-3273dcdbde4ce7963ee0d1c4|2 straipsnio]] 4–35 dalis laikyti atitinkamai 5–36 dalimis. ^s-46da523234ac1a302238a7c7
+2. Buvusias [[#^s-3273dcdbde4ce7963ee0d1c4|2 straipsnio]] [[#^s-c4711d1286eb47c4984fed03|4]]–35 dalis laikyti atitinkamai [[#^s-f5d15a1b72845d7279e9e43c|5]]–36 dalimis. ^s-46da523234ac1a302238a7c7
 
 
 
@@ -63,7 +63,7 @@ Vilnius
 2. Pakeisti 8 straipsnio 7 dalį ir ją išdėstyti taip: ^s-b8303a44e106b632b79525e9
 
 
-„7. Komisijos pirmininko ir jos narių darbo apmokėjimas nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų darbo apmokėjimo įstatyme. Komisijos pirmininkui ir jos nariams [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodeksas]] taikomas tiek, kiek jų statuso nereglamentuoja šis ir kiti įstatymai. Komisijos pirmininkas ir jos nariai gali būti skatinami vienkartinėmis piniginėmis išmokomis, neviršijant darbo užmokesčiui skirtų lėšų. Komisijos pirmininkas ir jos nariai gali būti skatinami šiais atvejais:
+„7. Komisijos pirmininko ir jos narių darbo apmokėjimas nustatytas Lietuvos Respublikos valstybės politikų ir valstybės pareigūnų [darbo apmokėjimo įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.A6429E5114B3). Komisijos pirmininkui ir jos nariams [[latest/f6d686707e7011e6b969d7ae07280e89|Lietuvos Respublikos darbo kodeksas]] taikomas tiek, kiek jų statuso nereglamentuoja šis ir kiti įstatymai. Komisijos pirmininkas ir jos nariai gali būti skatinami vienkartinėmis piniginėmis išmokomis, neviršijant darbo užmokesčiui skirtų lėšų. Komisijos pirmininkas ir jos nariai gali būti skatinami šiais atvejais:
 
 
 1) už nepriekaištingą tarnybinių pareigų atlikimą kalendoriniais metais; ^s-db74916b01698a505a315400
@@ -87,7 +87,7 @@ Vilnius
 5. Papildyti 8 straipsnį nauja 10 dalimi: ^s-f5d15a1b72845d7279e9e43c
 
 
-„10. Komisija, siekdama atlikti Reglamento (ES) Nr. 1227/2011 13 straipsnio 2 dalies d, f ir g punktuose nurodytus veiksmus, turi teisę pateikti prašymą išduoti leidimą atlikti veiksmus Vilniaus apygardos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Vilniaus apygardos administracinis teismas prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus patenkinti arba atmesti. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Komisija nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, ji turi teisę per 7 dienas nuo Vilniaus apygardos administracinio teismo nutarties priėmimo apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7 dienas nuo Komisijos skundo priėmimo dienos. Komisijos atstovas turi teisę dalyvauti, kai nagrinėjamas skundas. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo išdavimo atlikti veiksmus, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. Šio įstatymo 36 straipsnyje nustatytais atvejais Komisijai kreipiantis į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje, mutatis mutandis taikomos šios dalies nuostatos.“
+„10. Komisija, siekdama atlikti [Reglamento (ES) Nr. 1227/2011 13 straipsnio 2 dalies](https://eur-lex.europa.eu/eli/reg/1227/2011/art_13/par_2/oj) d, f ir g punktuose nurodytus veiksmus, turi teisę pateikti prašymą išduoti leidimą atlikti veiksmus Vilniaus apygardos administraciniam teismui. Prašyme išduoti leidimą atlikti veiksmus turi būti nurodytas įtariamą pažeidimą padariusio asmens vardas ir pavardė arba pavadinimas, įtariamų pažeidimų pobūdis ir numatomi veiksmai. Vilniaus apygardos administracinis teismas prašymą išduoti leidimą atlikti veiksmus išnagrinėja ir priima motyvuotą nutartį prašymą išduoti leidimą atlikti veiksmus patenkinti arba atmesti. Prašymas išduoti leidimą atlikti veiksmus turi būti išnagrinėtas ir nutartis priimta ne vėliau kaip per 72 valandas nuo prašymo išduoti leidimą atlikti veiksmus pateikimo momento. Jeigu Komisija nesutinka su Vilniaus apygardos administracinio teismo nutartimi atmesti prašymą išduoti leidimą atlikti veiksmus, ji turi teisę per 7 dienas nuo Vilniaus apygardos administracinio teismo nutarties priėmimo apskųsti teismo nutartį Lietuvos vyriausiajam administraciniam teismui. Lietuvos vyriausiasis administracinis teismas turi išnagrinėti skundą dėl Vilniaus apygardos administracinio teismo nutarties ne vėliau kaip per 7 dienas nuo Komisijos skundo priėmimo dienos. Komisijos atstovas turi teisę dalyvauti, kai nagrinėjamas skundas. Lietuvos vyriausiojo administracinio teismo priimta nutartis yra galutinė ir neskundžiama. Teismai, nagrinėdami prašymus ir skundus dėl leidimo išdavimo atlikti veiksmus, privalo užtikrinti pateiktos informacijos ir planuojamų veiksmų slaptumą. Šio įstatymo 36 straipsnyje nustatytais atvejais Komisijai kreipiantis į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje, mutatis mutandis taikomos šios dalies nuostatos.“
 
 
 6. Buvusias 8 straipsnio 10–13 dalis laikyti atitinkamai 11–14 dalimis. ^s-01802bcfefdf2fdc93e9ec65
@@ -115,7 +115,7 @@ Vilnius
 1. Papildyti 26 straipsnį 5 dalimi: ^s-9333799e83479c73f157dcb3
 
 
-„5. Komisija turi teisę pranešti Europos Komisijai apie kitos valstybės narės reguliavimo institucijos priimtą sprendimą, reikšmingą tarpvalstybiniams elektros energijos mainams, kuris, Komisijos vertinimu, neatitinka 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančiame Reglamentą (EB) Nr. 1228/2003, ar 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvoje 2009/72/EB dėl elektros energijos vidaus rinkos bendrųjų taisyklių, panaikinančioje Direktyvą 2003/54/EB, nurodytų gairių. Toks pranešimas turi būti pateiktas Europos Komisijai per du mėnesius nuo atitinkamo reguliavimo institucijos sprendimo priėmimo.“
+„5. Komisija turi teisę pranešti Europos Komisijai apie kitos valstybės narės reguliavimo institucijos priimtą sprendimą, reikšmingą tarpvalstybiniams elektros energijos mainams, kuris, Komisijos vertinimu, neatitinka 2009 m. liepos 13 d. Europos Parlamento ir Tarybos reglamente (EB) Nr. 714/2009 dėl prieigos prie tarpvalstybinių elektros energijos mainų tinklo sąlygų, panaikinančiame [Reglamentą (EB) Nr. 1228/2003](https://eur-lex.europa.eu/eli/reg/1228/2003/oj), ar 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvoje 2009/72/EB dėl elektros energijos vidaus rinkos bendrųjų taisyklių, panaikinančioje Direktyvą 2003/54/EB, nurodytų gairių. Toks pranešimas turi būti pateiktas Europos Komisijai per du mėnesius nuo atitinkamo reguliavimo institucijos sprendimo priėmimo.“
 
 
 2. Papildyti 26 straipsnį 6 dalimi: ^s-e14b6380e4f6151c6a94b1b3
@@ -166,10 +166,10 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 4) už energijos perdavimo ar skirstymo veiklos nepriklausomumo ir veiklos atskyrimo reikalavimų nevykdymą ar jų netinkamą vykdymą, jeigu per Komisijos nustatytą protingą terminą, bet ne ilgesnį kaip du mėnesiai, šie pažeidimai nebuvo ištaisyti, vertikalios integracijos įmonei ir (ar) tinklų operatoriui – iki dešimt procentų šios energetikos įmonės metinių pajamų, gautų praėjusiais finansiniais metais iš konkrečios reguliuojamosios veiklos, kurią vykdant padarytas pažeidimas. ^s-e5398e4796cfb83f79d9d4a5
 
 
-2. Didmeninės energijos rinkos dalyviams už Reglamento (ES) Nr. 1227/2011 nuostatų pažeidimus Komisija skiria sankcijas: ^s-88b2a7fdaf6c0bd534629106
+2. Didmeninės energijos rinkos dalyviams už [Reglamento (ES) Nr. 1227/2011](https://eur-lex.europa.eu/eli/reg/1227/2011/oj) nuostatų pažeidimus Komisija skiria sankcijas: ^s-88b2a7fdaf6c0bd534629106
 
 
-1) už didmeninės energijos rinkos sandorių, įskaitant prekybos nurodymus, duomenų nepateikimą, prekybos vykdymą didmeninėje rinkoje neužsiregistravus Komisijoje ar kitos valstybės narės nacionalinėje reguliavimo institucijoje, laiku nepranešus Komisijai, kad sandoris gali pažeisti Reglamento (ES) Nr. 1227/2011 3 ar [[#^s-49803c34e9129fc7a0972202|5 straipsnį]], taip pat už didmeninės energijos rinkos skaidrumo ir vientisumo sąlygų, išskyrus [[#^s-6132f5d98d42c21de95fc494|šio straipsnio 2 dalies 2 punkte]] nurodytas sąlygas, pažeidimą skiria piniginę baudą nuo vieno tūkstančio litų iki dviejų procentų asmens metinių pajamų praėjusiais finansiniais metais iš veiklos, kurią vykdant padarytas pažeidimas, o jeigu asmenys neturėjo pajamų praėjusiais finansiniais metais iš veiklos, kurią vykdant padarytas pažeidimas, – iki penkiasdešimt tūkstančių litų, arba kreipiasi į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje; ^s-50fe18804b7323371ece0ace
+1) už didmeninės energijos rinkos sandorių, įskaitant prekybos nurodymus, duomenų nepateikimą, prekybos vykdymą didmeninėje rinkoje neužsiregistravus Komisijoje ar kitos valstybės narės nacionalinėje reguliavimo institucijoje, laiku nepranešus Komisijai, kad sandoris gali pažeisti [Reglamento (ES) Nr. 1227/2011](https://eur-lex.europa.eu/eli/reg/1227/2011/oj) [[#^s-e5d76910d86c0e721524dbfb|3]] ar [[#^s-49803c34e9129fc7a0972202|5]] straipsnį, taip pat už didmeninės energijos rinkos skaidrumo ir vientisumo sąlygų, išskyrus [[#^s-6132f5d98d42c21de95fc494|šio straipsnio 2 dalies 2 punkte]] nurodytas sąlygas, pažeidimą skiria piniginę baudą nuo vieno tūkstančio litų iki dviejų procentų asmens metinių pajamų praėjusiais finansiniais metais iš veiklos, kurią vykdant padarytas pažeidimas, o jeigu asmenys neturėjo pajamų praėjusiais finansiniais metais iš veiklos, kurią vykdant padarytas pažeidimas, – iki penkiasdešimt tūkstančių litų, arba kreipiasi į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje; ^s-50fe18804b7323371ece0ace
 
 
 2) už prekybą naudojantis viešai neatskleista informacija, tokios informacijos tinkamą neatskleidimą ir (ar) manipuliavimą (piktnaudžiavimą) didmeninėje energijos rinkoje skiria piniginę baudą nuo dviejų tūkstančių litų iki dešimt procentų asmens metinių pajamų praėjusiais finansiniais metais iš veiklos, kurią vykdant padarytas pažeidimas, o jeigu asmenys neturėjo pajamų praėjusiais finansiniais metais iš veiklos, kurią vykdant padarytas pažeidimas, – iki vieno milijono litų, arba kreipiasi į teismą skirti laikiną apribojimą vykdyti veiklą didmeninėje energijos rinkoje. ^s-6132f5d98d42c21de95fc494
@@ -232,7 +232,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 17. Komisijos sprendimas dėl sankcijos skyrimo įsigalioja po 30 dienų nuo jo priėmimo dienos, jeigu per šį laiką įstatymų nustatyta tvarka nebuvo apskųstas teismui. ^s-affd1857a98118afd5eee0da
 
 
-18. Komisijos sprendimas dėl sankcijos skyrimo yra vykdytinas ir vykdomasis dokumentas. Komisijos sprendimas vykdomas Civilinio proceso kodekso nustatyta tvarka. ^s-2dfa97b9bd174f4afe1a1fde
+18. Komisijos sprendimas dėl sankcijos skyrimo yra vykdytinas ir vykdomasis dokumentas. Komisijos sprendimas vykdomas [Civilinio proceso kodekso](https://e-tar.lt/portal/lt/legalAct/TAR.586EE249190F) nustatyta tvarka. ^s-2dfa97b9bd174f4afe1a1fde
 
 
 19. Komisija, vadovaudamasi šio straipsnio nuostatomis, patvirtina sankcijų skyrimo taisykles.“ ^s-eb9b6bb3dd3b7903e04639d8
@@ -245,7 +245,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 Papildyti Įstatymo priedą 16 punktu:
 
 
-„16. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) Nr. 1227/2011 dėl didmeninės energijos rinkos vientisumo ir skaidrumo (OL 2011 L 326, p. 1).“
+„16. 2011 m. spalio 25 d. Europos Parlamento ir Tarybos [reglamentas (ES) Nr. 1227/2011](https://eur-lex.europa.eu/eli/reg/1227/2011/oj) dėl didmeninės energijos rinkos vientisumo ir skaidrumo (OL 2011 L 326, p. 1).“
 
 
 

@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-16f8412e66f0b68c22a31c03
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento 2012 m. spalio 2 d. dekretą Nr. 1K-1221, ratifikuoja 2012 m. liepos 17 d. Vilniuje pasirašytą Lietuvos Respublikos ir Lenkijos Respublikos sutartį dėl Baltijos funkcinio oro erdvės bloko sukūrimo.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2 punktu ir atsižvelgdamas į Respublikos Prezidento [2012 m. spalio 2 d. dekretą Nr. 1K-1221](https://e-tar.lt/portal/lt/legalAct/TAR.EC7B25E6A2E7), ratifikuoja 2012 m. liepos 17 d. Vilniuje pasirašytą Lietuvos Respublikos ir Lenkijos Respublikos sutartį dėl Baltijos funkcinio oro erdvės bloko sukūrimo.
 
 
 

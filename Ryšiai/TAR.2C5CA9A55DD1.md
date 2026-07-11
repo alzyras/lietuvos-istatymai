@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos 2004 metų valstybės biudžeto ir savivaldyb
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.538D8DA9A346|Lietuvos Respublikos 2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 7 citatos - 2003 m. gruodžio 11 d. įstatymo Nr. IX-1884
+- [[latest/TAR.538D8DA9A346|Lietuvos Respublikos 2004 metų valstybės biudžeto ir savivaldybių biudžetų finansinių rodiklių patvirtinimo įstatymas]] - 6 citatos - įstatymo Nr. IX-1884
 
 ## Šį įstatymą cituoja
 

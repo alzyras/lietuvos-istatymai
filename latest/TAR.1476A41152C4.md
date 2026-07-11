@@ -108,14 +108,14 @@ Vilnius
 ### 2 straipsnis. 61 straipsnio pakeitimas ir papildymas ^s-fff88ca26b940b8a9c89b451
 
 
-Pakeisti 61 straipsnio 1 dalį, straipsnį papildyti 2 ir [[#^s-9d02edbb308394b35d642aa6|3 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 61 straipsnio 1 dalį, straipsnį papildyti 2 ir 3 dalimis ir visą straipsnį išdėstyti taip:
 
 
 
 „61 straipsnis. Atleidimas nuo valstybės rinkliavos, kai yra sumokėtas konsulinis mokestis
 
 
-1. Nuo valstybės rinkliavos už paso išdavimą ar keitimą ir dokumento dėl teisės į Lietuvos Respublikos pilietybę išsaugojimo išdavimą ar keitimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų [[latest/TAR.B2F1F575D794#^s-189d776edecdacea990c8bf3|Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio]] 4 ir 5 punktuose, atlikimą. ^s-860d7e16b4ff721ab8dd0da1
+1. Nuo valstybės rinkliavos už paso išdavimą ar keitimą ir dokumento dėl teisės į Lietuvos Respublikos pilietybę išsaugojimo išdavimą ar keitimą yra atleidžiami asmenys, kurie dėl šių paslaugų kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų [[latest/TAR.B2F1F575D794#^s-189d776edecdacea990c8bf3|Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio]] [[latest/TAR.B2F1F575D794#^s-4a0abfeb470d20716cc816e5|4]] ir [[latest/TAR.B2F1F575D794#^s-cc969d6915ea9696beaa5514|5]] punktuose, atlikimą. ^s-860d7e16b4ff721ab8dd0da1
 
 
 2. Nuo valstybės rinkliavos už dokumentų išduoti, pakeisti leidimą gyventi Lietuvos Respublikoje tvarkymą yra atleidžiami asmenys, kurie dėl dokumentų dėl leidimo gyventi Lietuvos Respublikoje išdavimo priėmimo ir perdavimo kreipiasi per Lietuvos Respublikos diplomatines atstovybes ar konsulines įstaigas užsienyje ir yra sumokėję konsulinį mokestį už konsulinių veiksmų, numatytų [[latest/TAR.B2F1F575D794#^s-ec2baf751cefd52d60d2c1d1|Lietuvos Respublikos konsulinio mokesčio įstatymo 3 straipsnio 6 punkte]], atlikimą. ^s-e2686aa44c81bef59e0647ed

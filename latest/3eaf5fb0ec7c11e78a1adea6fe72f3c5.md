@@ -126,10 +126,10 @@ GYVENAMOSIOS VIETOS DEKLARAVIMAS
 4. Užsieniečiai, keičiantys gyvenamąją vietą Lietuvos Respublikoje, gyvenamosios vietos deklaraciją pateikia deklaravimo įstaigai tiesiogiai. ^s-15de8d7369aea418d9559b79
 
 
-5. [[#^s-fd08d17c5d6beea1f86500c6|Šio straipsnio 1 dalies]] 1, 2 ir 3 punktuose nurodyti asmenys, išvykstantys iš Lietuvos Respublikos ilgiau kaip 6 mėnesiams, privalo deklaruoti išvykimą iš Lietuvos Respublikos. ^s-08fbf222af51f3584041bcd2
+5. [[#^s-fd08d17c5d6beea1f86500c6|Šio straipsnio 1 dalies]] [[latest/TAR.F74ECE427C23|1]], [[latest/TAR.F74ECE427C23|2]] ir [[latest/TAR.F74ECE427C23|3]] punktuose nurodyti asmenys, išvykstantys iš Lietuvos Respublikos ilgiau kaip 6 mėnesiams, privalo deklaruoti išvykimą iš Lietuvos Respublikos. ^s-08fbf222af51f3584041bcd2
 
 
-6. Nepilnamečių gyvenamąją vietą deklaruoja jų tėvai (įtėviai), globėjai (rūpintojai) arba kiti teisėti atstovai, išskyrus šio straipsnio 7 ir [[#^s-c905dddad4ee4b6b406f0207|8 dalyse]] nurodytus atvejus. ^s-0bb9ac3665d4ac9abe37762c
+6. Nepilnamečių gyvenamąją vietą deklaruoja jų tėvai (įtėviai), globėjai (rūpintojai) arba kiti teisėti atstovai, išskyrus šio straipsnio [[#^s-9ac76b476af413f00f0272bb|7]] ir [[#^s-c905dddad4ee4b6b406f0207|8]] dalyse nurodytus atvejus. ^s-0bb9ac3665d4ac9abe37762c
 
 
 7. Nepilnamečiai, įgiję visišką civilinį veiksnumą, gyvenamąją vietą deklaruoja patys. ^s-9ac76b476af413f00f0272bb
@@ -144,7 +144,7 @@ GYVENAMOSIOS VIETOS DEKLARAVIMAS
 10. Pakeitusiais gyvenamąją vietą nelaikomi: ^s-b149d86d36dc76205991e348
 
 
-1) [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatyme]] nurodyti diplomatai ir kiti Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose, atstovybėse prie tarptautinių organizacijų ir tarptautinėse organizacijose dirbantys asmenys, nurodyti [[#^s-fd08d17c5d6beea1f86500c6|šio straipsnio 1 dalies]] 1, 2 ir [[#^s-bfa066f3dfaee39735baca15|3 punktuose]], ir kartu su jais išvykę šeimos nariai visą jų darbo šiose įstaigose ar organizacijose laiką; ^s-911dd0d39e587e2274ed9892
+1) [[latest/TAR.46EF9E1D52E9|Lietuvos Respublikos diplomatinės tarnybos įstatyme]] nurodyti diplomatai ir kiti Lietuvos Respublikos diplomatinėse atstovybėse ir konsulinėse įstaigose, atstovybėse prie tarptautinių organizacijų ir tarptautinėse organizacijose dirbantys asmenys, nurodyti [[#^s-fd08d17c5d6beea1f86500c6|šio straipsnio 1 dalies]] [[latest/TAR.F74ECE427C23|1]], [[#^s-a3764fcc30f74851503c3ee4|2]] ir [[#^s-bfa066f3dfaee39735baca15|3]] punktuose, ir kartu su jais išvykę šeimos nariai visą jų darbo šiose įstaigose ar organizacijose laiką; ^s-911dd0d39e587e2274ed9892
 
 
 2) asmenys, atliekantys tikrąją karo tarnybą; ^s-a3764fcc30f74851503c3ee4
@@ -288,10 +288,10 @@ Gyvenamosios vietos nedeklaruoja:
 5) data, iki kurios galioja įtraukimo į gyvenamosios vietos nedeklaravusių asmenų apskaitą duomenys; ^s-3233aed805440403419129df
 
 
-6) kontaktiniai duomenys (telefono numeris ir (ar) elektroninio pašto adresas, taip pat įstaigos ar organizacijos, teikiančios benamiui socialines paslaugas, adresas ar vietos, kurioje faktiškai dažniausiai gyvena asmuo, dėl ne nuo jo priklausančių priežasčių negalintis deklaruoti gyvenamosios vietos, adresas) – kai prašymą įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą pateikia šio įstatymo [[#^s-3a4d532b15d192bf56f54568|6 straipsnio 1 dalies]] 1, 2, 5 ir 6 punktuose nurodyti asmenys; ^s-2ebd6c6028acf799c8de6ddc
+6) kontaktiniai duomenys (telefono numeris ir (ar) elektroninio pašto adresas, taip pat įstaigos ar organizacijos, teikiančios benamiui socialines paslaugas, adresas ar vietos, kurioje faktiškai dažniausiai gyvena asmuo, dėl ne nuo jo priklausančių priežasčių negalintis deklaruoti gyvenamosios vietos, adresas) – kai prašymą įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą pateikia šio įstatymo [[#^s-3a4d532b15d192bf56f54568|6 straipsnio 1 dalies]] [[#^s-d0445b4564ddbf79e0db382d|1]], [[#^s-147ddec9a43d96ac77c57551|2]], [[#^s-9bb1e341e27f847937231983|5]] ir [[#^s-db9c941d14f0534f9a9e40b4|6]] punktuose nurodyti asmenys; ^s-2ebd6c6028acf799c8de6ddc
 
 
-7) sutartis dėl Lietuvos valstybės paramos integracijai teikimo gyvenamojoje vietoje savivaldybės teritorijoje – kai prašymą įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą pateikia šio įstatymo [[#^s-9bb1e341e27f847937231983|6 straipsnio 1 dalies 5 punkte]] nurodyti asmenys; ^s-8777e023e06698a0ea1e8f6f
+7) sutartis [dėl Lietuvos valstybės](https://e-tar.lt/portal/lt/legalAct/TAR.59F99B2B61F2) paramos integracijai teikimo gyvenamojoje vietoje savivaldybės teritorijoje – kai prašymą įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą pateikia šio įstatymo [[#^s-9bb1e341e27f847937231983|6 straipsnio 1 dalies 5 punkte]] nurodyti asmenys; ^s-8777e023e06698a0ea1e8f6f
 
 
 8) informacija arba duomenys, pagrindžiantys asmens ekonominius, socialinius ar asmeninius interesus toje savivaldybėje, – kai prašymą įtraukti į gyvenamosios vietos nedeklaravusių asmenų apskaitą pateikia šio įstatymo [[#^s-db9c941d14f0534f9a9e40b4|6 straipsnio 1 dalies 6 punkte]] nurodyti asmenys. ^s-9bfa08cb4da88b17fe23ba21
@@ -430,14 +430,14 @@ priedas
 
 
 
-1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti Reglamentą (EEB) Nr. 1612/68 ir panaikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, 5 skyrius, 5 tomas, p. 46).“ ^s-756810743a281056a18fbb4d
+1. 2004 m. balandžio 29 d. Europos Parlamento ir Tarybos direktyva 2004/38/EB dėl Sąjungos piliečių ir jų šeimos narių teisės laisvai judėti ir gyventi valstybių narių teritorijoje, iš dalies keičianti [Reglamentą (EEB) Nr. 1612/68](https://eur-lex.europa.eu/eli/reg/1612/68/oj) ir panaikinanti Direktyvas 64/221/EEB, 68/360/EEB, 72/194/EEB, 73/148/EEB, 75/34/EEB, 75/35/EEB, 90/364/EEB, 90/365/EEB ir 93/96/EEB (OL 2004 m. specialusis leidimas, [[latest/TAR.F74ECE427C23|5 skyrius]], 5 tomas, p. 46).“ ^s-756810743a281056a18fbb4d
 
 
 
 ### 2 straipsnis. Įstatymo įsigaliojimas ir įgyvendinimas ^s-d32880e76e2d37f997e04f75
 
 
-1. Šis įstatymas, išskyrus šio straipsnio 2 dalį, įsigalioja 2018 m. sausio 1 d. ^s-54a212d8ced45f03fff0f460
+1. Šis įstatymas, išskyrus [[latest/TAR.F74ECE427C23|šio straipsnio 2 dalį]], įsigalioja 2018 m. sausio 1 d. ^s-54a212d8ced45f03fff0f460
 
 
 2. Lietuvos Respublikos Vyriausybė ir jos įgaliotos institucijos iki 2017 m. gruodžio 31 d. priima šio įstatymo įgyvendinamuosius teisės aktus. ^s-4847bb78e06c0d2dc05c4efa
@@ -446,7 +446,7 @@ priedas
 3. Kituose įstatymuose ir teisės aktuose vartojama sąvoka „gyvenamosios vietos neturintys asmenys“ yra tolygi šiame įstatyme vartojamai sąvokai „gyvenamosios vietos nedeklaravę asmenys“. ^s-914c0f12a3683adbd6e78d2c
 
 
-4. Įsigaliojus šiam įstatymui, asmenys (išskyrus šio įstatymo 1 straipsnyje išdėstyto [[latest/TAR.F74ECE427C23#^s-5869c9e12b66670d1c9ba03c|Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 6 straipsnio 1 dalies]] 3, 4, 5 punktuose nurodytus asmenis), kurie iki šio įstatymo įsigaliojimo buvo įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą, per 3 mėnesius privalo deklaruoti savo gyvenamąją vietą arba deklaravimo įstaigai pateikti prašymą įtraukti juos į gyvenamosios vietos nedeklaravusių asmenų apskaitą. ^s-c06546c2a6eb9d5caaaee983
+4. Įsigaliojus šiam įstatymui, asmenys (išskyrus šio įstatymo [[latest/TAR.F74ECE427C23#^s-26b55a6559f44544133b8a56|1 straipsnyje]] išdėstyto [[latest/TAR.F74ECE427C23#^s-5869c9e12b66670d1c9ba03c|Lietuvos Respublikos gyvenamosios vietos deklaravimo įstatymo 6 straipsnio 1 dalies]] [[latest/TAR.F74ECE427C23|3]], [[latest/TAR.F74ECE427C23|4]], [[latest/TAR.F74ECE427C23|5]] punktuose nurodytus asmenis), kurie iki šio įstatymo įsigaliojimo buvo įtraukti į gyvenamosios vietos neturinčių asmenų apskaitą, per 3 mėnesius privalo deklaruoti savo gyvenamąją vietą arba deklaravimo įstaigai pateikti prašymą įtraukti juos į gyvenamosios vietos nedeklaravusių asmenų apskaitą. ^s-c06546c2a6eb9d5caaaee983
 
 
 

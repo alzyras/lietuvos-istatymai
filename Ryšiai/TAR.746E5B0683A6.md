@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos žemės gelmių įstatymo 1, 2, 6, 8, 12, 13,
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.13E108ED3981|Lietuvos Respublikos žemės gelmių įstatymas]] - Lietuvos Respublikos Žemės gelmių įstatymo
+- [[latest/TAR.13E108ED3981|Lietuvos Respublikos žemės gelmių įstatymas]] - 2 citatos - Žemės gelmių įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.13E108ED3981#^s-045eb2a366dbb22f541862e9|Lietuvos Respublikos žemės gelmių įstatymas]] - 2 citatos - Įstatymas Nr. IX-2516
-- [[latest/TAR.13E108ED3981#^s-15aed9397c847a6660a0ca6a|Lietuvos Respublikos žemės gelmių įstatymas]] - 2 citatos - Įstatymas Nr. IX-2516
+- [[latest/TAR.13E108ED3981#^s-045eb2a366dbb22f541862e9|Lietuvos Respublikos žemės gelmių įstatymas]] - ŽEMĖS GELMIŲ ĮSTATYMO 1, 2, 6, 8, 12, 13, 14, 15, 18, 23, 25, 26 IR 27 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO BEI ĮSTATYMO PAPILDYMO PRIEDU ĮSTATYMAS

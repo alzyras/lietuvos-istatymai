@@ -274,7 +274,7 @@ Pakeisti 22 straipsnio 2 dalį ir ją išdėstyti taip:
 ### 14 straipsnis. 31 straipsnio 2, 4, 5 ir 6 dalių pakeitimas ^s-acd8901b692c8a7ff48e8639
 
 
-31 straipsnio 2, 4 ir [[#^s-c4abafb2a37d3725af8822e1|5 dalyse]] vietoj žodžių „Civilinės saugos departamentas“ įrašyti žodžius „Priešgaisrinės apsaugos ir gelbėjimo departamentas“, [[#^s-044ba5ca8cf4606519194a21|6 dalyje]] vietoj žodžių „Civilinės saugos departamento“ įrašyti žodžius „Priešgaisrinės apsaugos ir gelbėjimo departamento“ ir visą straipsnį išdėstyti taip:
+31 straipsnio 2, 4 ir 5 dalyse vietoj žodžių „Civilinės saugos departamentas“ įrašyti žodžius „Priešgaisrinės apsaugos ir gelbėjimo departamentas“, [[#^s-044ba5ca8cf4606519194a21|6 dalyje]] vietoj žodžių „Civilinės saugos departamento“ įrašyti žodžius „Priešgaisrinės apsaugos ir gelbėjimo departamento“ ir visą straipsnį išdėstyti taip:
 
 
 „31 straipsnis. Radiacinių ir pramoninių avarijų prevencija, avarijų padarinių likvidavimas

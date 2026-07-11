@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo denonsavimas ^s-9beea9210b11c6c8e335da47
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 4 punktu, [[latest/TAR.5BCEC9B41811#^s-2a3445d10e28acf45915286f|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 7 punktu]] ir atsižvelgdamas į Respublikos Prezidento 2009 m. lapkričio 12 d. dekretą Nr. 1K-204, denonsuoja 2003 m. spalio 29 d. Kopenhagoje pasirašytą Valstybių, dalyvaujančių Daugianacionalinėje nuolatinės parengties greitojo reagavimo brigadoje Jungtinių Tautų operacijoms, susitarimą dėl jų pajėgų statuso, ratifikuotą Lietuvos Respublikos [[latest/TAR.80744357C858|2004 m. kovo 8 d. įstatymu Nr. IX-2050]] (Žin., 2004, Nr. 53-1788).
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 4 punktu, [[latest/TAR.5BCEC9B41811#^s-2a3445d10e28acf45915286f|Lietuvos Respublikos tarptautinių sutarčių įstatymo 7 straipsnio 1 dalies 7 punktu]] ir atsižvelgdamas į Respublikos Prezidento [2009 m. lapkričio 12 d. dekretą Nr. 1K-204](https://e-tar.lt/portal/lt/legalAct/TAR.8ECEB6920551), denonsuoja 2003 m. spalio 29 d. Kopenhagoje pasirašytą Valstybių, dalyvaujančių Daugianacionalinėje nuolatinės parengties greitojo reagavimo brigadoje Jungtinių Tautų operacijoms, susitarimą dėl jų pajėgų statuso, ratifikuotą Lietuvos Respublikos [[latest/TAR.80744357C858|2004 m. kovo 8 d. įstatymu Nr. IX-2050]] (Žin., 2004, Nr. 53-1788).
 
 
 

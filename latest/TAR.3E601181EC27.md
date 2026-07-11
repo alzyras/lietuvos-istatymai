@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Konvencijos ratifikavimas ^s-2d3d87eacfe01d013ce1585d
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento 2003 m. gruodžio 17 d. dekretą Nr. 322, ratifikuoja Tarptautinę konvenciją dėl kovos su pinigų padirbinėjimu ir jos protokolus, pasirašytus 1929 m. balandžio 20 d. Ženevoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 6 punktu ir atsižvelgdamas į Respublikos Prezidento [2003 m. gruodžio 17 d. dekretą Nr. 322](https://e-tar.lt/portal/lt/legalAct/TAR.9163832E38C9), ratifikuoja Tarptautinę konvenciją dėl kovos su pinigų padirbinėjimu ir jos protokolus, pasirašytus 1929 m. balandžio 20 d. Ženevoje.
 
 
 

@@ -40,7 +40,7 @@ Vilnius
 ### 1 straipsnis. Susitarimo ratifikavimas ^s-c27c4b0f2a53aab89a703be4
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2, 6 punktais ir atsižvelgdamas į Respublikos Prezidento 2012 m. kovo 7 d. dekretą Nr. 1K-976, ratifikuoja Europos Bendrijų bei jų valstybių narių ir Serbijos Respublikos stabilizacijos ir asociacijos susitarimą, priimtą 2008 m. balandžio 29 d. Liuksemburge.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu, 138 straipsnio 1 dalies 2, 6 punktais ir atsižvelgdamas į Respublikos Prezidento [2012 m. kovo 7 d. dekretą Nr. 1K-976](https://e-tar.lt/portal/lt/legalAct/TAR.3C1DFA9345DD), ratifikuoja Europos Bendrijų bei jų valstybių narių ir Serbijos Respublikos stabilizacijos ir asociacijos susitarimą, priimtą 2008 m. balandžio 29 d. Liuksemburge.
 
 
 

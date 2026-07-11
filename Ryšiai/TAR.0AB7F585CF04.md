@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos metrologijos įstatymo pakeitimo įstatymas"
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.A3C0EA6B2203|Lietuvos Respublikos metrologijos įstatymas]] - 3 citatos - Lietuvos Respublikos metrologijos įstatymo
+- [[latest/TAR.A3C0EA6B2203|Lietuvos Respublikos metrologijos įstatymas]] - 2 citatos - Lietuvos Respublikos metrologijos įstatymo
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.A3C0EA6B2203#^s-3affc8d3fcf9ec22c3fe1213|Lietuvos Respublikos metrologijos įstatymas]] - 3 citatos - 1061010ISTA000X-717
-- [[latest/TAR.A3C0EA6B2203#^s-cea984b149fe4ad6d2635216|Lietuvos Respublikos metrologijos įstatymas]] - 3 citatos - 1061010ISTA000X-717
+- [[latest/TAR.A3C0EA6B2203#^s-3affc8d3fcf9ec22c3fe1213|Lietuvos Respublikos metrologijos įstatymas]] - 2 citatos - 1061010ISTA000X-717

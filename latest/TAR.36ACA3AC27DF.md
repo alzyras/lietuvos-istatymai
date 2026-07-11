@@ -99,7 +99,7 @@ Pakeisti [[#^s-dd0c50b4a03ad499053b0045|4 straipsnį]] ir jį išdėstyti taip:
 ### 4 straipsnis. 6 straipsnio 6, 11 punktų pakeitimas ir papildymas 13, 14 punktais ^s-dd0c50b4a03ad499053b0045
 
 
-Pakeisti [[#^s-844a4249624b9f0e799a9f29|6 straipsnio]] 6, 11 punktus, papildyti straipsnį 13, [[#^s-8e9c02d5519ad3c94deb8d91|14 punktais]] ir šiuos punktus išdėstyti taip:
+Pakeisti [[#^s-844a4249624b9f0e799a9f29|6 straipsnio]] 6, 11 punktus, papildyti straipsnį 13, 14 punktais ir šiuos punktus išdėstyti taip:
 
 
 „6) prižiūri gyvulinių maisto produktų gamybą, perdirbimą, sandėliavimą, transportavimą ir prekybą; organoleptiniais, bakteriologiniais, biocheminiais ir radiologiniais tyrimais įvertina gyvulinių produktų tinkamumą žmonių maistui; sprendžia, ar žmonių maistui netinkami produktai tinka gyvuliams šerti;“
@@ -223,7 +223,7 @@ Pakeisti 16 straipsnį ir jį išdėstyti taip:
 3) stebėjimo zonos, esančios 10 km spinduliu nuo apsaugos zonos, ribas; ^s-e1efbb067ca2af7f5265841f
 
 
-4) veterinarijos priemones, kurias reikia taikyti šios dalies 1, 2 ir [[#^s-e1efbb067ca2af7f5265841f|3 punktuose]] nurodytose teritorijose. ^s-f5e9a3f262f2a1adb6dfbf65
+4) veterinarijos priemones, kurias reikia taikyti šios dalies [[#^s-133834e6290af378d91d5491|1]], [[#^s-50d4ab849f9e85562155b4a9|2]] ir [[#^s-e1efbb067ca2af7f5265841f|3]] punktuose nurodytose teritorijose. ^s-f5e9a3f262f2a1adb6dfbf65
 
 
 4. Valstybinis veterinarijos departamentas tvirtina gyvulių ir kitų gyvūnų užkrečiamųjų ligų, kuriomis susirgus nustatomos apsaugos ir stebėjimo zonos, sąrašą. ^s-7d62ffe24c01422b7c7b94b0

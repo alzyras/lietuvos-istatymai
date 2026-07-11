@@ -9,9 +9,8 @@ pavadinimas: "Lietuvos Respublikos pavojingų krovinių vežimo automobilių, ge
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.309A34330EAD|Lietuvos Respublikos pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu įstatymas]] - Lietuvos Respublikos pavojingų krovinių vežimo automobilių, geležinkelių ir vidaus vandenų transportu įstatymo
 - [[latest/TAR.C40F7F89A7C3|Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatymas]] - Lietuvos Respublikos potencialiai pavojingų įrenginių priežiūros įstatyme
-- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 5 citatos - Lietuvos Respublikos viešojo administravimo įstatymo
+- [[latest/TAR.0BDFFD850A66|Lietuvos Respublikos viešojo administravimo įstatymas]] - 3 citatos - Lietuvos Respublikos viešojo administravimo įstatymo
 
 ## Šį įstatymą cituoja
 

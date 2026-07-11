@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos religinių bendruomenių ir bendrijų nuosavy
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.579F0B8C810D|Lietuvos Respublikos religinių bendrijų teisės į išlikusį nekilnojamąjį turtą atkūrimo tvarkos įstatymas]] - 2 citatos - Lietuvos Respublikos religinių bendrijų teisės į išlikusį nekilnojamąjį turtą atkūrimo tvarkos įstatymu
+- [[latest/TAR.579F0B8C810D|Lietuvos Respublikos religinių bendrijų teisės į išlikusį nekilnojamąjį turtą atkūrimo tvarkos įstatymas]] - Lietuvos Respublikos religinių bendrijų teisės į išlikusį nekilnojamąjį turtą atkūrimo tvarkos įstatymu
 
 ## Šį įstatymą cituoja
 

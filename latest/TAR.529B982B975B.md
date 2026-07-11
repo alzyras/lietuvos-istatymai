@@ -36,7 +36,7 @@ Vilnius
 
 ### PIRMASIS SKIRSNIS ^s-808558ca61f0cb9df54fd365
 LIETUVOS RESPUBLIKOS
-[[latest/TAR.A5ACBDA529A9#^s-558eb0a5647e70a196f3253c|PELNO MOKESČIO ĮSTATYMO 2, 58 STRAIPSNIŲ]] PAKEITIMAS IR PAPILDYMAS
+[[latest/TAR.A5ACBDA529A9|PELNO MOKESČIO ĮSTATYMO]] [[latest/TAR.A5ACBDA529A9#^s-339f3b87460f8b8ca5d31a77|2]], [[latest/TAR.A5ACBDA529A9#^s-558eb0a5647e70a196f3253c|58]] STRAIPSNIŲ PAKEITIMAS IR PAPILDYMAS
 
 (Žin., 2001, Nr. 110-3992; 2002, Nr. 73-3086; 2003, Nr. 73-3343, Nr. 74-3417)
 
@@ -82,7 +82,7 @@ LIETUVOS RESPUBLIKOS
 5. Papildyti 58 straipsnio 16 dalį 6 punktu: ^s-e0d04d6b6934c1135d10e07f
 
 
-„6) jeigu kooperatinės bendrovės (kooperatyvai) neatitinka šios dalies 1 punkte nustatytų kriterijų, tačiau jų pajamų iš šios dalies 1 punkte nustatytos veiklos ir (arba) pajamų už parduotus įsigytus iš savo narių (vienetų, kuriems gali būti taikomos šios dalies 1 punkto nuostatos, ar gyventojų, kuriems gali būti taikomos [[latest/TAR.C677663D2202#^s-4f091280d8337f7714e1954e|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio 1 dalies]] 24 ir 25 punktų nuostatos dėl pajamų iš žemės ūkio produktų pardavimo) šių narių pagamintus žemės ūkio produktus ir (arba) savo nariams (vienetams, kuriems gali būti taikomos šios dalies 1 punkto nuostatos, ar gyventojams, kuriems gali būti taikomos [[latest/TAR.C677663D2202#^s-4f091280d8337f7714e1954e|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio 1 dalies]] 24 ir 25 punktų nuostatos dėl pajamų iš žemės ūkio produktų pardavimo) parduotus degalus, trąšas, sėklas, pašarus, priemones nuo kenkėjų ir piktžolių bei materialųjį turtą, skirtą naudoti tik savo narių žemės ūkio veikloje, dalis sudaro 85 ir daugiau procentų pajamų, šių kooperatinių bendrovių (kooperatyvų) apmokestinamasis pelnas apmokestinamas taikant 0 procentų pelno mokesčio tarifą.“
+„6) jeigu kooperatinės bendrovės (kooperatyvai) neatitinka šios dalies 1 punkte nustatytų kriterijų, tačiau jų pajamų iš šios dalies 1 punkte nustatytos veiklos ir (arba) pajamų už parduotus įsigytus iš savo narių (vienetų, kuriems gali būti taikomos šios dalies 1 punkto nuostatos, ar gyventojų, kuriems gali būti taikomos [[latest/TAR.C677663D2202#^s-4f091280d8337f7714e1954e|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio 1 dalies]] [[latest/TAR.C677663D2202#^s-400cb26eb4b8d734c9698cfa|24]] ir [[latest/TAR.C677663D2202#^s-1b8cbd51b714803482acce6b|25]] punktų nuostatos dėl pajamų iš žemės ūkio produktų pardavimo) šių narių pagamintus žemės ūkio produktus ir (arba) savo nariams (vienetams, kuriems gali būti taikomos šios dalies 1 punkto nuostatos, ar gyventojams, kuriems gali būti taikomos [[latest/TAR.C677663D2202#^s-4f091280d8337f7714e1954e|Lietuvos Respublikos gyventojų pajamų mokesčio įstatymo 17 straipsnio 1 dalies]] [[latest/TAR.C677663D2202#^s-400cb26eb4b8d734c9698cfa|24]] ir [[latest/TAR.C677663D2202#^s-1b8cbd51b714803482acce6b|25]] punktų nuostatos dėl pajamų iš žemės ūkio produktų pardavimo) parduotus degalus, trąšas, sėklas, pašarus, priemones nuo kenkėjų ir piktžolių bei materialųjį turtą, skirtą naudoti tik savo narių žemės ūkio veikloje, dalis sudaro 85 ir daugiau procentų pajamų, šių kooperatinių bendrovių (kooperatyvų) apmokestinamasis pelnas apmokestinamas taikant 0 procentų pelno mokesčio tarifą.“
 
 
 

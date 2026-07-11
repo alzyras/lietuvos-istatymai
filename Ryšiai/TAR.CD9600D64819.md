@@ -14,7 +14,6 @@ _Nėra._
 ## Šį įstatymą cituoja
 
 - [[latest/TAR.0120FD7BCFFC#^s-7c048a7c9c6b3ac6cfeb2b86|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 3 citatos - 0991010ISTAIII-1163
-- [[latest/TAR.0120FD7BCFFC#^s-8a68748eeb42cd77dbe17018|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 0991010ISTAIII-1163
 - [[latest/TAR.0120FD7BCFFC#^s-8b3102702bf28805c1ae4f86|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 0991010ISTAIII-1163
 - [[latest/TAR.0120FD7BCFFC#^s-972f0558516cbda23d1853d5|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 0991010ISTAIII-1163
 - [[latest/TAR.0120FD7BCFFC#^s-b016ebb5777c1f2a7095c3e3|Lietuvos Respublikos teritorijos administracinių vienetų ir jų ribų įstatymas]] - 0991010ISTAIII-1163

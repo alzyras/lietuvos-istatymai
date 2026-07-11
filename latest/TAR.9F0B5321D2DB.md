@@ -43,7 +43,7 @@ Nr. XI-1197, 2010-12-02, Žin., 2010, Nr. 148-7565 (2010-12-18), i. k. 1101010IS
 ### 1 straipsnis. Įstatymo paskirtis ^s-43fb71e70770814d68f4c62a
 
 
-Šis Įstatymas nustato Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatų 1990 metų kovo 11 dienos Akto „Dėl Lietuvos nepriklausomos valstybės atstatymo“ signatarų (toliau – Lietuvos Nepriklausomybės Akto signatarai) ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos, vienintelės teisėtos valdžios okupuotoje Lietuvoje, 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statusą ir socialines garantijas.
+Šis Įstatymas nustato Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatų 1990 metų kovo 11 dienos Akto [„Dėl Lietuvos nepriklausomos valstybės atstatymo“](https://e-tar.lt/portal/lt/legalAct/TAR.12C754906DE4) signatarų (toliau – Lietuvos Nepriklausomybės Akto signatarai) ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos, vienintelės teisėtos valdžios okupuotoje Lietuvoje, 1949 m. vasario 16 d. deklaraciją pasirašiusių asmenų statusą ir socialines garantijas.
 
 
 Straipsnio pakeitimai:
@@ -54,7 +54,7 @@ Nr. XI-1197, 2010-12-02, Žin., 2010, Nr. 148-7565 (2010-12-18), i. k. [[latest/
 ### 2 straipsnis. Lietuvos Nepriklausomybės Akto signataras ^s-dd1524a60fad6c7118755237
 
 
-1. Lietuvos Nepriklausomybės Akto signataras (toliau – signataras) – tautos išrinktas Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatas, kuris nustatyta tvarka 1990 m. kovo 11 d. užpildė vardinio balsavimo kortelę, joje pasirašė, balsavo už Aktą „Dėl Lietuvos Nepriklausomos valstybės atstatymo“ ir po juo pasirašė. ^s-a62c03adb7e23850516aeb9b
+1. Lietuvos Nepriklausomybės Akto signataras (toliau – signataras) – tautos išrinktas Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatas, kuris nustatyta tvarka 1990 m. kovo 11 d. užpildė vardinio balsavimo kortelę, joje pasirašė, balsavo už Aktą [„Dėl Lietuvos Nepriklausomos valstybės atstatymo“](https://e-tar.lt/portal/lt/legalAct/TAR.12C754906DE4) ir po juo pasirašė. ^s-a62c03adb7e23850516aeb9b
 
 
 2. Lietuvos Respublikos Aukščiausiosios Tarybos – Atkuriamojo Seimo deputatus ir Lietuvos Laisvės Kovos Sąjūdžio Tarybos 1949 m. vasario 16 d. deklaraciją pasirašiusius asmenis, kuriems suteikiamas signataro statusas, nustato šis Įstatymas (Įstatymo priedėlis). ^s-cf487615d5259f0e6a6a1de7

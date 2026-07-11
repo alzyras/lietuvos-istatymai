@@ -38,10 +38,10 @@ Vilnius
 ### 1 straipsnis. 4 straipsnio pakeitimas ^s-b905765a864c0a12295766aa
 
 
-Pakeisti 4 straipsnio 13 dalį ir ją išdėstyti taip:
+Pakeisti [[latest/TAR.8A16A03D98D4|4 straipsnio 13 dalį]] ir ją išdėstyti taip:
 
 
-„13. Laisvos žemės fondo žemė, kurią nuo 2004 m. rugpjūčio 7 d. naudoja žemės ūkio veiklos subjektai, atitinkantys Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo 2 straipsnio 1 dalies 1 punkte nurodytas sąlygas, gali būti perduodama nuosavybėn neatlygintinai lygiaverčio ploto turėtam žemės plotui tik šiems piliečiams.“
+„13. Laisvos žemės fondo žemė, kurią nuo 2004 m. rugpjūčio 7 d. naudoja žemės ūkio veiklos subjektai, atitinkantys [[latest/TAR.7A932101FADA|Lietuvos Respublikos žemės ūkio paskirties žemės įsigijimo įstatymo 2 straipsnio 1 dalies 1 punkte]] nurodytas sąlygas, gali būti perduodama nuosavybėn neatlygintinai lygiaverčio ploto turėtam žemės plotui tik šiems piliečiams.“
 
 
 

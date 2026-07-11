@@ -13,5 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.2294490FE9DD#^s-381eee49f226b384d59e0c72|Lietuvos Respublikos muitinės įstatymas]] - 3 citatos - 1051010ISTA000X-408
-- [[latest/TAR.2294490FE9DD#^s-cd7fc763732d4814abce6548|Lietuvos Respublikos muitinės įstatymas]] - 3 citatos - 1051010ISTA000X-408
+- [[latest/TAR.2294490FE9DD#^s-381eee49f226b384d59e0c72|Lietuvos Respublikos muitinės įstatymas]] - 2 citatos - 1051010ISTA000X-408

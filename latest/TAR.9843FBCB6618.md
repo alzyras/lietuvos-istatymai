@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-7dd2e547e1e7065e55584f92
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. liepos 25 d. dekretą „Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Bulgarijos Respublikos draugiškų santykių ir bendradarbiavimo pagrindų sutartį“, ratifikuoja Lietuvos Respublikos ir Bulgarijos Respublikos draugiškų santykių ir bendradarbiavimo pagrindų sutartį, pasirašytą 1996 m. balandžio 10 d. Sofijoje.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir atsižvelgdamas į Respublikos Prezidento 1997 m. liepos 25 d. dekretą [„Dėl teikimo Lietuvos Respublikos Seimui ratifikuoti Lietuvos Respublikos ir Bulgarijos Respublikos draugiškų santykių ir bendradarbiavimo pagrindų sutartį“](https://e-tar.lt/portal/lt/legalAct/TAR.60D59E0D20E9), ratifikuoja Lietuvos Respublikos ir Bulgarijos Respublikos draugiškų santykių ir bendradarbiavimo pagrindų sutartį, pasirašytą 1996 m. balandžio 10 d. Sofijoje.
 
 
 

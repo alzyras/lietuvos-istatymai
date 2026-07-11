@@ -256,7 +256,7 @@ Pakeisti 29 straipsnį ir jį išdėstyti taip:
 „29 straipsnis. [[latest/TAR.F8090E375DA0|Lietuvos Respublikos tabako kontrolės įstatymo]] įsigaliojimas
 
 
-[[latest/TAR.F8090E375DA0#^s-2ae7d5eac9ed29aa0599dfb9|Lietuvos Respublikos tabako kontrolės įstatymo 4 straipsnis]], [[#^s-b5df48d5904ba2432ae487dc|6 straipsnio]] antroji dalis, [[#^s-59703679fdf61fbc48a3bbda|7 straipsnio]] pirmoji, antroji, ketvirtoji, penktoji ir šeštoji dalys, [[#^s-64393deb1dda87be6b3c1906|8 straipsnio]] trečioji, šeštoji ir septintoji dalys, 9 straipsnio trečioji dalis, 10 straipsnio ketvirtoji ir šeštoji dalys, 11 straipsnio penktoji dalis, 12 straipsnis, 14 straipsnio antroji dalis, 16 straipsnio pirmoji ir ketvirtoji dalys, 17 straipsnis, 24 straipsnio antroji dalis, 27 straipsnis įsigalioja [[latest/TAR.F8090E375DA0|Lietuvos Respublikos tabako kontrolės įstatymo]] įgyvendinimo įstatymo nustatyta tvarka.“
+[[latest/TAR.F8090E375DA0#^s-2ae7d5eac9ed29aa0599dfb9|Lietuvos Respublikos tabako kontrolės įstatymo 4 straipsnis]], [[#^s-b5df48d5904ba2432ae487dc|6 straipsnio]] antroji dalis, [[#^s-59703679fdf61fbc48a3bbda|7 straipsnio]] pirmoji, antroji, ketvirtoji, penktoji ir šeštoji dalys, [[#^s-64393deb1dda87be6b3c1906|8 straipsnio]] trečioji, šeštoji ir septintoji dalys, 9 straipsnio trečioji dalis, 10 straipsnio ketvirtoji ir šeštoji dalys, 11 straipsnio penktoji dalis, 12 straipsnis, 14 straipsnio antroji dalis, 16 straipsnio pirmoji ir ketvirtoji dalys, 17 straipsnis, 24 straipsnio antroji dalis, 27 straipsnis įsigalioja [Lietuvos Respublikos tabako kontrolės įstatymo įgyvendinimo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.778E2B56764F) nustatyta tvarka.“
 
 
 

@@ -91,7 +91,7 @@ Nr. XIII-1885, 2018-12-20, paskelbta TAR 2019-01-08, i. k. 2019-00244
 1. Bendrijos steigėjai yra bendrijos veiklos sutartį sudarę asmenys. Bendrijoje turi būti ne mažiau kaip du steigėjai. ^s-9d0c9ffb71a77936f7c3a8e7
 
 
-2. Bendrijos steigėjais gali būti ir fiziniai, ir juridiniai asmenys, išskyrus šio įstatymo [[#^s-1ad905b571117f27096784cf|6 straipsnio]] 3 ir [[#^s-63effb7d8004dd28562d5c35|4 dalyse]] nustatytas išimtis. ^s-228c3bd6c4082fd39b2acba3
+2. Bendrijos steigėjais gali būti ir fiziniai, ir juridiniai asmenys, išskyrus šio įstatymo [[#^s-1ad905b571117f27096784cf|6 straipsnio]] [[#^s-d29f36eea94f05cb1c49daed|3]] ir [[#^s-d13c08bbbbb1b5f305cadd90|4]] dalyse nustatytas išimtis. ^s-228c3bd6c4082fd39b2acba3
 
 
 3. Bendrija steigiama pagal bendrijos veiklos sutartį. Bendrijos veiklos sutartis turi būti sudaroma notarine forma. ^s-e86b6a31cd28348f0ea9aa94
@@ -229,7 +229,7 @@ Nr. XIV-79, 2020-12-15, paskelbta TAR 2020-12-22, i. k. 2020-28126
 
 
 1) šio įstatymo [[#^s-7e67c738f4536d582e883be2|4 straipsnio 3 dalies 4 punkte]] nurodyti duomenys apie bendrijos tikruosius narius, nurodant, kurie iš jų yra paskirti vykdyti valdymo organų pareigas, kaip nustatyta šio įstatymo [[#^s-d2e93844a63687e8781e8947|10 straipsnio 6 dalyje]], ir jų paskyrimo datą; ^s-156dd8e741106c2e7462b3c8
-TAR pastaba. Tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, įsteigtos iki 2018 m. gruodžio 31 d., [[#^s-156dd8e741106c2e7462b3c8|5 straipsnio 1 dalies 1 punkte]] nurodytus duomenis apie tai, kurie tikrieji nariai yra paskirti vykdyti valdymo organų pareigas, ir jų paskyrimo datą Juridinių asmenų registro tvarkytojui turi pateikti iki 2019 m. sausio 5 d.
+TAR pastaba. Tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, įsteigtos iki 2018 m. gruodžio 31 d., 5 straipsnio 1 dalies 1 punkte nurodytus duomenis apie tai, kurie tikrieji nariai yra paskirti vykdyti valdymo organų pareigas, ir jų paskyrimo datą Juridinių asmenų registro tvarkytojui turi pateikti iki 2019 m. sausio 5 d.
 
 
 2) likvidatorius (vardas, pavardė, asmens kodas, gyvenamoji vieta), jo paskyrimo ir įgaliojimų pabaigos datos, likvidatoriaus įgaliojimai, išskyrus įstatymuose nustatytus įgaliojimus; ^s-4cc97b2fc505d38ca6fa996e
@@ -242,7 +242,7 @@ TAR pastaba. Tikrosios ūkinės bendrijos ir komanditinės ūkinės bendrijos, �
 2. Šio įstatymo [[#^s-7e67c738f4536d582e883be2|4 straipsnio 3 dalies 4 punkte]] nurodyti duomenys apie bendrijos tikruosius narius, kurie paskirti vykdyti valdymo organų pareigas, kaip nustatyta šio įstatymo [[#^s-d2e93844a63687e8781e8947|10 straipsnio 6 dalyje]], pateikiami tiesiogiai Juridinių asmenų registro tvarkytojui kartu su kitais Civiliniame kodekse ir šiame įstatyme nustatytais bendrijai įregistruoti Juridinių asmenų registre reikalingais duomenimis ir dokumentais. Juridinių asmenų registro tvarkytojui taip pat tiesiogiai pateikiami duomenų apie tai, kurie Juridinių asmenų registre įregistruoti tikrieji nariai yra paskirti vykdyti valdymo organų pareigas, pasikeitimai. ^s-df1d33af0cef7cfa1f359400
 
 
-3. Šio įstatymo [[#^s-7e67c738f4536d582e883be2|4 straipsnio 3 dalies 4 punkte]] ir [[#^s-393b46407a5406640e5547ab|4 dalies]] 1, 2 ir 3 punktuose nurodyti duomenys apie bendrijos dalyvius, jų įnašų dydžius (kai įnašas piniginis) ir (ar) vertes (kai įnašas nepiniginis), taip pat asmens tapimo bendrijos dalyviu ir narystės pabaigos datos pateikiami Juridinių asmenų dalyvių informacinės sistemos tvarkytojui šios informacinės sistemos nuostatuose nustatyta tvarka ne vėliau kaip per 5 dienas nuo bendrijos įregistravimo Juridinių asmenų registre dienos, o pasikeitus bendrijos dalyviams, šio įstatymo [[#^s-7e67c738f4536d582e883be2|4 straipsnio 3 dalies 4 punkte]] ir [[#^s-393b46407a5406640e5547ab|4 dalies]] 1, 2 ir 3 punktuose nurodytiems duomenims – ne vėliau kaip per 5 dienas nuo šių pasikeitimų dienos. Teikiant duomenis apie bendrijos dalyvį – užsienio valstybės fizinį asmenį, papildomai nurodoma to asmens gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir valstybės, kuri išdavė asmens dokumentus, pavadinimas, o teikiant duomenis apie bendrijos dalyvį – užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje tas juridinis asmuo įregistruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data. ^s-ac1ad531167000c9f055a1df
+3. Šio įstatymo [[#^s-7e67c738f4536d582e883be2|4 straipsnio 3 dalies 4 punkte]] ir [[#^s-393b46407a5406640e5547ab|4 dalies]] [[#^s-4184f60d33b19ecffcd33249|1]], [[#^s-d5d946f85c1f8ec735f9f824|2]] ir [[#^s-8005e578724b8fbf6a22106d|3]] punktuose nurodyti duomenys apie bendrijos dalyvius, jų įnašų dydžius (kai įnašas piniginis) ir (ar) vertes (kai įnašas nepiniginis), taip pat asmens tapimo bendrijos dalyviu ir narystės pabaigos datos pateikiami Juridinių asmenų dalyvių informacinės sistemos tvarkytojui šios informacinės sistemos nuostatuose nustatyta tvarka ne vėliau kaip per 5 dienas nuo bendrijos įregistravimo Juridinių asmenų registre dienos, o pasikeitus bendrijos dalyviams, šio įstatymo [[#^s-7e67c738f4536d582e883be2|4 straipsnio 3 dalies 4 punkte]] ir [[#^s-393b46407a5406640e5547ab|4 dalies]] [[#^s-4184f60d33b19ecffcd33249|1]], [[#^s-d5d946f85c1f8ec735f9f824|2]] ir [[#^s-8005e578724b8fbf6a22106d|3]] punktuose nurodytiems duomenims – ne vėliau kaip per 5 dienas nuo šių pasikeitimų dienos. Teikiant duomenis apie bendrijos dalyvį – užsienio valstybės fizinį asmenį, papildomai nurodoma to asmens gimimo data (jeigu pagal užsienio valstybės teisės aktus asmens kodas nesuteikiamas, nurodoma tik gimimo data) ir valstybės, kuri išdavė asmens dokumentus, pavadinimas, o teikiant duomenis apie bendrijos dalyvį – užsienio valstybės juridinį asmenį, papildomai nurodoma valstybė, kurioje tas juridinis asmuo įregistruotas, registras, kuriame juridinis asmuo įregistruotas, ir jo įregistravimo tame registre data. ^s-ac1ad531167000c9f055a1df
 
 
 4. Teikiant Juridinių asmenų dalyvių informacinės sistemos tvarkytojui šio įstatymo [[#^s-7e67c738f4536d582e883be2|4 straipsnio 3 dalies 4 punkte]] nurodytus duomenis apie bendrijos tikruosius narius ir šių duomenų pasikeitimus, kartu Juridinių asmenų dalyvių informacinės sistemos nuostatuose nustatyta tvarka pateikiamas prašymas šiuos duomenis įregistruoti Juridinių asmenų registre, išskyrus atvejį, kai tikrųjų narių duomenys jau yra įregistruoti Juridinių asmenų registre, kaip nustatyta [[#^s-df1d33af0cef7cfa1f359400|šio straipsnio 2 dalyje]]. Juridinių asmenų dalyvių informacinės sistemos tvarkytojas šiuos duomenis perduoda Juridinių asmenų registro tvarkytojui per vieną darbo dieną nuo duomenų ir dokumentų pateikimo Juridinių asmenų dalyvių informacinės sistemos tvarkytojui dienos. ^s-393b46407a5406640e5547ab
@@ -493,7 +493,7 @@ Nr. XIV-2824, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12146
 3) lygus nuliui, perduodama komanditinės ūkinės bendrijos turto dalis mažinama šio asmens gautų lėšų kaip avansu išmokėto pelno suma. ^s-68e715755ca85f4caffa8006
 
 
-7. Bendrijos veiklos sutartyje ar bendrijos dalyvių sutartyje, jeigu ji yra sudaryta, gali būti nustatyta kitokia, negu šio straipsnio 3–[[#^s-a9391a45d842c6194b2b2cda|6 dalyse]] nurodyta, atsiskaitymo su asmenimis, kurie pasitraukė ar buvo pašalinti iš bendrijos ir yra neįvykdę ar netinkamai įvykdę sutartyje nustatytus įsipareigojimus, tvarka. ^s-045cbe4c02c6709c428b58e7
+7. Bendrijos veiklos sutartyje ar bendrijos dalyvių sutartyje, jeigu ji yra sudaryta, gali būti nustatyta kitokia, negu šio straipsnio [[#^s-8849b7215a17527bfad0c298|3]]–[[#^s-a9391a45d842c6194b2b2cda|6]] dalyse nurodyta, atsiskaitymo su asmenimis, kurie pasitraukė ar buvo pašalinti iš bendrijos ir yra neįvykdę ar netinkamai įvykdę sutartyje nustatytus įsipareigojimus, tvarka. ^s-045cbe4c02c6709c428b58e7
 
 
 
@@ -552,7 +552,7 @@ Nr. XIV-2824, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12146
 2. Komanditinė ūkinė bendrija gali būti pertvarkoma į tikrąją ūkinę bendriją ar į kitos šio straipsnio 1 dalies 2-8 punktuose nurodytos teisinės formos juridinį asmenį. ^s-ae2409b6d435ee98971b727a
 
 
-3. Sprendimą dėl pertvarkymo priima visi dalyviai vienbalsiai. Bendrijos veiklos sutartyje gali būti nustatyta, kad sprendimas dėl pertvarkymo gali būti priimtas bendrijos dalyvių balsų dauguma, kuri negali būti mažesnė kaip 2/[[#^s-f7bd467cc64b2bda2b6a4854|3 dalyvių]] balsų. Kai dalyviai priima sprendimą pertvarkyti bendriją, kartu turi būti priimami naujos teisinės formos juridinio asmens steigimo dokumentai. Šie dokumentai turi atitikti to juridinio asmens teisinę formą reglamentuojančių įstatymų reikalavimus. ^s-f7bd467cc64b2bda2b6a4854
+3. Sprendimą dėl pertvarkymo priima visi dalyviai vienbalsiai. Bendrijos veiklos sutartyje gali būti nustatyta, kad sprendimas dėl pertvarkymo gali būti priimtas bendrijos dalyvių balsų dauguma, kuri negali būti mažesnė kaip 2/3 dalyvių balsų. Kai dalyviai priima sprendimą pertvarkyti bendriją, kartu turi būti priimami naujos teisinės formos juridinio asmens steigimo dokumentai. Šie dokumentai turi atitikti to juridinio asmens teisinę formą reglamentuojančių įstatymų reikalavimus. ^s-f7bd467cc64b2bda2b6a4854
 
 
 4. Nuo sprendimo pertvarkyti bendriją priėmimo dienos bendrija įgyja pertvarkomos bendrijos statusą. Sprendimą pertvarkyti bendriją patvirtinantis dokumentas turi būti pateiktas Juridinių asmenų registro tvarkytojui ne vėliau kaip pirmą viešo paskelbimo apie bendrijos pertvarkymą dieną. ^s-c8b2886508fb3db23db58d9b
@@ -592,7 +592,7 @@ Nr. XIV-2824, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12146
 2. Bendrijos likvidavimo tvarką nustato [[latest/TAR.8A39C83848CB|Civilinis kodeksas]] ir šis įstatymas. Kai sprendimą likviduoti bendriją priima Juridinių asmenų registro tvarkytojas, bendrija likviduojama taikant Civilinio kodekso nuostatas, reglamentuojančias juridinio asmens likvidavimą Juridinių asmenų registro tvarkytojo iniciatyva. ^s-efcea9891505939271ac4e1d
 
 
-3. Sprendimas likviduoti bendriją priimamas bendrijos veiklos sutartyje nustatyta bendrijos dalyvių balsų dauguma, kuri negali būti mažesnė kaip 2/[[#^s-8b4b14732ecdb1e665530585|3 dalyvių]] balsų. ^s-8b4b14732ecdb1e665530585
+3. Sprendimas likviduoti bendriją priimamas bendrijos veiklos sutartyje nustatyta bendrijos dalyvių balsų dauguma, kuri negali būti mažesnė kaip 2/3 dalyvių balsų. ^s-8b4b14732ecdb1e665530585
 
 
 4. Bendrija, kurioje liko tik vienas dalyvis, turi būti likviduojama, jeigu likęs bendrijos dalyvis per šešis mėnesius po tokio dalyvių skaičiaus sumažėjimo nenusprendžia bendrijos reorganizuoti ar pertvarkyti, išskyrus atvejus, kai per šį laikotarpį į bendriją priimamas naujas dalyvis. ^s-aade6373664ea4f2e67727b5
@@ -709,14 +709,14 @@ Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 [[#^s-9821d69806ef
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-690, 2021-11-23, paskelbta TAR 2021-12-03, i. k. 2021-25117
-Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 11 ir [[#^s-a43ff941bacda63852e4c79d|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 [[#^s-e378d3d9c5fa371617029d30|11]] ir [[#^s-a43ff941bacda63852e4c79d|16]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2640, 2024-05-16, paskelbta TAR 2024-05-30, i. k. 2024-09676
-Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 4, 5, 7 ir [[#^s-a43ff941bacda63852e4c79d|16 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 [[#^s-520b4c2a110f076ae8af5666|4]], [[#^s-9821d69806efcab067b78d5c|5]], [[#^s-2ffe7e48b54d253fc48c0f21|7]] ir [[#^s-a43ff941bacda63852e4c79d|16]] straipsnių pakeitimo įstatymas
 
 11.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-2824, 2024-06-25, paskelbta TAR 2024-06-30, i. k. 2024-12146
-Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 11 ir [[#^s-3f7febe11d1d59537bea33c0|12 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos ūkinių bendrijų įstatymo Nr. IX-1804 [[#^s-e378d3d9c5fa371617029d30|11]] ir [[#^s-3f7febe11d1d59537bea33c0|12]] straipsnių pakeitimo įstatymas

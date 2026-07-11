@@ -70,7 +70,7 @@ Taryba:
 7) tvirtina mero (valdybos, jeigu ji sudaroma) bei kontrolieriaus veiklos nuostatus; ^s-c35b7062fa917ca1ead0893f
 
 
-8) nutraukia tarybos narių įgaliojimus prieš terminą Vietos savivaldybės tarybos nario statuso įstatymo nustatytais atvejais ir tvarka; ^s-fb0c7d162a99643de00f0cf1
+8) nutraukia tarybos narių įgaliojimus prieš terminą Vietos [savivaldybės tarybos nario statuso įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.08F18F6833C8) nustatytais atvejais ir tvarka; ^s-fb0c7d162a99643de00f0cf1
 
 
 9) tvirtina savivaldybės biudžetą ir jo įvykdymo apyskaitą; ^s-6548b8541d83776a91e1f1c2
@@ -140,7 +140,7 @@ Taryba:
 ### 2 straipsnis. 18 straipsnio pirmosios dalies pakeitimas ^s-24ad1fefd4b217e8dfd55432
 
 
-18 straipsnio pirmosios dalies 9 ir [[#^s-bf69c4c1886310af3884a9ba|10 punktus]] pripažinti netekusiais galios ir visą pirmąją dalį išdėstyti taip:
+18 straipsnio pirmosios dalies 9 ir 10 punktus pripažinti netekusiais galios ir visą pirmąją dalį išdėstyti taip:
 
 
 „18 straipsnis. Valdybos kompetencija

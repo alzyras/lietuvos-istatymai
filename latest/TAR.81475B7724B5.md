@@ -84,10 +84,10 @@ Pakeisti [[#^s-45385181e332928098df1b2c|5 straipsnį]] ir jį išdėstyti taip:
 1. Mokiniai turi teisę į nemokamą maitinimą ir į paramą mokinio reikmenims įsigyti, jeigu vidutinės pajamos vienam iš bendrai gyvenančių asmenų ar vienam gyvenančiam asmeniui (toliau – vidutinės pajamos vienam asmeniui) per mėnesį yra mažesnės kaip 1,5 valstybės remiamų pajamų (toliau – VRP) dydžio. ^s-99a23d3e657483655981caf1
 
 
-2. Kitais savivaldybės, kurioje priimamas sprendimas dėl socialinės paramos mokiniams skyrimo, tarybos nustatytais atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, kai bendrai gyvenantys asmenys augina tris ir daugiau vaikų ar vaikus augina neįgalūs bendrai gyvenantys asmenys ir kt.), atsižvelgiant į bendrai gyvenančių asmenų arba vieno gyvenančio asmens gyvenimo sąlygas, mokiniai turi teisę į nemokamą maitinimą, jeigu vidutinės pajamos vienam asmeniui per mėnesį yra mažesnės kaip 2 VRP dydžiai. ^s-e1b482383bbb140e59670dd4
+2. Kitais savivaldybės, kurioje priimamas sprendimas [dėl socialinės paramos mokiniams skyrimo](https://e-tar.lt/portal/lt/legalAct/a623ebf02f6211e4a83cb4f588d2ac1a), tarybos nustatytais atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, kai bendrai gyvenantys asmenys augina tris ir daugiau vaikų ar vaikus augina neįgalūs bendrai gyvenantys asmenys ir kt.), atsižvelgiant į bendrai gyvenančių asmenų arba vieno gyvenančio asmens gyvenimo sąlygas, mokiniai turi teisę į nemokamą maitinimą, jeigu vidutinės pajamos vienam asmeniui per mėnesį yra mažesnės kaip 2 VRP dydžiai. ^s-e1b482383bbb140e59670dd4
 
 
-3. Šio straipsnio 1 ir [[#^s-e1b482383bbb140e59670dd4|2 dalyse]] nurodytiems mokiniams skiriamas nemokamas maitinimas vasaros atostogų metu mokyklose organizuojamose dieninėse vasaros poilsio stovyklose.“ ^s-e0cbd4e765abc14e4a1393c1
+3. Šio straipsnio [[#^s-99a23d3e657483655981caf1|1]] ir [[#^s-e1b482383bbb140e59670dd4|2]] dalyse nurodytiems mokiniams skiriamas nemokamas maitinimas vasaros atostogų metu mokyklose organizuojamose dieninėse vasaros poilsio stovyklose.“ ^s-e0cbd4e765abc14e4a1393c1
 
 
 ### 3 straipsnis. 6 straipsnio pakeitimas ^s-376cefc95a63a2c4d32dde63
@@ -181,7 +181,7 @@ Pakeisti 14 straipsnio 4 dalį ir ją išdėstyti taip:
 3) sudaro mokinio reikmenų rinkinius vadovaudamosi šio įstatymo [[#^s-2c9850019dc2d7fd9d385068|8 straipsniu]]; ^s-db827602d674dd5ea88cdb80
 
 
-4) savivaldybės, kurioje priimamas sprendimas dėl socialinės paramos mokiniams skyrimo, tarybos nustatytais atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, kai bendrai gyvenantys asmenys augina tris ir daugiau vaikų ar vaikus augina neįgalūs bendrai gyvenantys asmenys ir kt.), patikrinus bendrai gyvenančių asmenų ar vieno gyvenančio asmens gyvenimo sąlygas ir surašius buities ir gyvenimo sąlygų patikrinimo aktą, turi teisę skirti nemokamą maitinimą savivaldybės nustatyta tvarka. Tam tikslui gali būti panaudojama iki 2 procentų šio įstatymo 4 straipsnio 2 dalies 1, 2 ir [[#^s-aedc17400599861c2996e9a4|4 punktuose]] numatytoms išlaidoms finansuoti skirtų valstybės biudžeto lėšų.“ ^s-aedc17400599861c2996e9a4
+4) savivaldybės, kurioje priimamas sprendimas [dėl socialinės paramos mokiniams skyrimo](https://e-tar.lt/portal/lt/legalAct/a623ebf02f6211e4a83cb4f588d2ac1a), tarybos nustatytais atvejais (ligos, nelaimingo atsitikimo, netekus maitintojo, kai bendrai gyvenantys asmenys augina tris ir daugiau vaikų ar vaikus augina neįgalūs bendrai gyvenantys asmenys ir kt.), patikrinus bendrai gyvenančių asmenų ar vieno gyvenančio asmens gyvenimo sąlygas ir surašius buities ir gyvenimo sąlygų patikrinimo aktą, turi teisę skirti nemokamą maitinimą savivaldybės nustatyta tvarka. Tam tikslui gali būti panaudojama iki 2 procentų šio įstatymo 4 straipsnio 2 dalies 1, 2 ir 4 punktuose numatytoms išlaidoms finansuoti skirtų valstybės biudžeto lėšų.“ ^s-aedc17400599861c2996e9a4
 
 
 ### 9 straipsnis. 16 straipsnio 3 punkto pakeitimas ^s-a6c26606a6b265c4a066ea52

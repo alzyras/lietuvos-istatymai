@@ -40,7 +40,7 @@ Vilnius
 Pripažinti netekusiais galios:
 
 
-1) Lietuvos Respublikos įstatymą „Dėl kultūros įstaigų reorganizavimo ir likvidavimo tvarkos“ (Žin., 1993, Nr. 59-1143); ^s-fc0a445d0dc1fb199cdf64d1
+1) Lietuvos Respublikos įstatymą [„Dėl kultūros įstaigų reorganizavimo ir likvidavimo tvarkos“](https://e-tar.lt/portal/lt/legalAct/TAR.9B0D24896D81) (Žin., 1993, Nr. 59-1143); ^s-fc0a445d0dc1fb199cdf64d1
 
 
 2) Lietuvos Respublikos įstatymą „Dėl Lietuvos Respublikos įstatymo „Dėl kultūros įstaigų reorganizavimo ir likvidavimo tvarkos“ pakeitimo“ (Žin., 1995, Nr. 53-1302). ^s-21c6553a358b249312165b84

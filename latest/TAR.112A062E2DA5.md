@@ -112,7 +112,7 @@ TIPK leidimas neišduodamas, jeigu:
 1) po to, kai buvo priimtas sprendimas priimti TIPK paraišką, nustatoma, kad TIPK paraiškoje ir (ar) kituose dokumentuose, kuriuos pateikti reikalaujama pagal šio straipsnio 1 dalyje nurodytas taisykles, buvo pateikta informacija, žinant, kad ji klaidinga ar suklastota; ^s-d1cf338d6b8f2848b38fcf91
 
 
-2) anksčiau išduoto TIPK leidimo galiojimas buvo panaikintas šio straipsnio 12 dalies 1, 2, 3 ar [[#^s-8d1ebc00f4dc04041fc64f1d|6 punktuose]] nustatytais atvejais ir nuo TIPK leidimo galiojimo panaikinimo dienos nepraėjo 6 mėnesiai. ^s-56ae99499de5c5a7124b12cc
+2) anksčiau išduoto TIPK leidimo galiojimas buvo panaikintas šio straipsnio 12 dalies 1, 2, 3 ar [[#^s-8d1ebc00f4dc04041fc64f1d|6]] punktuose nustatytais atvejais ir nuo TIPK leidimo galiojimo panaikinimo dienos nepraėjo 6 mėnesiai. ^s-56ae99499de5c5a7124b12cc
 
 
 TIPK leidimas pakeičiamas šio straipsnio 1 dalyje nurodytose taisyklėse nustatyta tvarka ir terminais. TIPK leidimas keičiamas, kai yra viena iš šių sąlygų:
@@ -192,7 +192,7 @@ Taršos leidimas neišduodamas, jeigu:
 1) nustatoma, kad dokumentuose, kuriuos reikalaujama pateikti pagal šio straipsnio 1 dalyje nurodytas taisykles, norint gauti taršos leidimą, buvo pateikta informacija, žinant, kad ji klaidinga ar suklastota; ^s-fe539aecb24ca86fa4575d2d
 
 
-2) anksčiau išduoto taršos leidimo galiojimas buvo panaikintas šio straipsnio 9 dalies 1, 2, 3 ar [[#^s-01dfb3a27fd7f95d718551bd|6 punktuose]] nustatytais atvejais ir nuo taršos leidimo galiojimo panaikinimo dienos nepraėjo 6 mėnesiai. ^s-e6986b800417862c331eb07c
+2) anksčiau išduoto taršos leidimo galiojimas buvo panaikintas šio straipsnio 9 dalies 1, 2, 3 ar [[#^s-01dfb3a27fd7f95d718551bd|6]] punktuose nustatytais atvejais ir nuo taršos leidimo galiojimo panaikinimo dienos nepraėjo 6 mėnesiai. ^s-e6986b800417862c331eb07c
 
 
 Taršos leidimas pakeičiamas, kai yra bent viena iš šių sąlygų:

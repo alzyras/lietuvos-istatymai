@@ -13,5 +13,4 @@ pavadinimas: "Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų �
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.EDDCB615126E#^s-56e51fa1ccd5494964ba67f6|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - 2 citatos - PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 1, 6, 16 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
-- [[latest/TAR.EDDCB615126E#^s-ebca7f488c83e6092064f614|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - 2 citatos - PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 1, 6, 16 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+- [[latest/TAR.EDDCB615126E#^s-56e51fa1ccd5494964ba67f6|Lietuvos Respublikos pareigūnų ir karių valstybinių pensijų įstatymas]] - PAREIGŪNŲ IR KARIŲ VALSTYBINIŲ PENSIJŲ ĮSTATYMO 1, 6, 16 STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS

@@ -15,4 +15,4 @@ pavadinimas: "Dėl Lietuvos Respublikos įstatymo \"Dėl socialinės paramos asm
 
 - [[latest/TAR.3C56DC9F15F3#^s-986387bb15facf0397114509|Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)]] - 0941010ISTA000I-731
 - [[latest/TAR.3C56DC9F15F3#^s-bc50d34aa36e4a040381a86e|Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)]] - 0941010ISTA000I-731
-- [[latest/TAR.3C56DC9F15F3#^s-d5da6e5317fd2cffff8a4d1f|Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)]] - 2 citatos - 0941010ISTA000I-731
+- [[latest/TAR.3C56DC9F15F3#^s-d5da6e5317fd2cffff8a4d1f|Dėl socialinės paramos asmenims, sužalotiems atliekant būtinąją karinę tarnybą sovietinėje armijoje, ir šioje armijoje žuvusiųjų šeimoms (1945 07 22 - 1991 12 31)]] - 0941010ISTA000I-731

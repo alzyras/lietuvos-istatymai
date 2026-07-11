@@ -63,7 +63,7 @@ Nr. IX-642, 2001-12-11, Žin. 2001, Nr. 110-3989 (2001-12-29), i. k. [[latest/TA
 
 4) Neteko galios nuo 2001-07-01 ^s-1ff7399ee366a7ef451427c7
 Straipsnio punkto naikinimas:
-Nr. IX-390, 2001-06-21, Žin. 2001, Nr. 55-1947 (2001-06-27), i. k. 1011010ISTA00IX-390
+Nr. IX-390, 2001-06-21, Žin. 2001, Nr. 55-1947 (2001-06-27), i. k. [1011010ISTA00IX-390](https://e-tar.lt/portal/lt/legalAct/TAR.2285B3260A8F)
 
 
 
@@ -155,7 +155,7 @@ Lietuvos Respublikos teritorijoje galiojančių įstatymų, priimtų iki 1990 m.
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
-Nr. IX-390, 2001-06-21, Žin., 2001, Nr. 55-1947 (2001-06-27), i. k. 1011010ISTA00IX-390
+Nr. IX-390, 2001-06-21, Žin., 2001, Nr. 55-1947 (2001-06-27), i. k. [1011010ISTA00IX-390](https://e-tar.lt/portal/lt/legalAct/TAR.2285B3260A8F)
 [[latest/TAR.10D407E502F2|Lietuvos Respublikos civilinio proceso kodekso pakeitimo ir papildymo įstatymas]]
 
 7.

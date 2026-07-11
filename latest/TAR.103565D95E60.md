@@ -107,7 +107,7 @@ Nr. XV-853, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06962
 
 
 
-6. Europos draudimo ir profesinių pensijų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos reglamentu (ES) Nr. 1094/2010, kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48), įsteigta institucija. ^s-4146c4bd40f395a67ee4a7ae
+6. Europos draudimo ir profesinių pensijų institucija – 2010 m. lapkričio 24 d. Europos Parlamento ir Tarybos [reglamentu (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj), kuriuo įsteigiama Europos priežiūros institucija (Europos draudimo ir profesinių pensijų institucija), iš dalies keičiamas Sprendimas Nr. 716/2009/EB ir panaikinamas Komisijos sprendimas 2009/79/EB (OL 2010 L 331, p. 48), įsteigta institucija. ^s-4146c4bd40f395a67ee4a7ae
 
 
 7. Finansuojantis subjektas – įmonė, įstaiga ar organizacija arba kaip darbdavys veikiantis ar savarankiškai dirbantis fizinis asmuo, mokantys profesinių pensijų įmokas į profesinių pensijų asociacijos profesinių pensijų fondą (fondus) arba sudarę gyvybės draudimo sutartį, pagal kurią kaupiamos profesinės pensijos. ^s-ff047f3a70871e04c915fe37
@@ -134,7 +134,7 @@ Nr. XV-304, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11973
 12. Kita valstybė narė – valstybė narė, išskyrus Lietuvos Respubliką. ^s-e616725cce499b84f9e0cca3
 
 
-13. Komandiruotas darbuotojas – asmuo, kuris išsiųstas laikinai dirbti į kitą valstybę narę ir kuriam pagal 1971 m. birželio 14 d. Tarybos reglamento (EEB) Nr. 1408/71 dėl socialinės apsaugos sistemų taikymo pagal darbo sutartį dirbantiems asmenims ir jų šeimos nariams, judantiems Bendrijoje (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 35), II dalies sąlygas toliau taikomi kilmės valstybės narės teisės aktai. ^s-28b20b81afd3bdf8bfd83c45
+13. Komandiruotas darbuotojas – asmuo, kuris išsiųstas laikinai dirbti į kitą valstybę narę ir kuriam pagal 1971 m. birželio 14 d. Tarybos [reglamento (EEB) Nr. 1408/71](https://eur-lex.europa.eu/eli/reg/1408/71/oj) dėl socialinės apsaugos sistemų taikymo pagal darbo sutartį dirbantiems asmenims ir jų šeimos nariams, judantiems Bendrijoje (OL 2004 m. specialusis leidimas, 5 skyrius, 1 tomas, p. 35), II dalies sąlygas toliau taikomi kilmės valstybės narės teisės aktai. ^s-28b20b81afd3bdf8bfd83c45
 
 
 14. Minimalus dalyvavimo profesinių pensijų fonde laikotarpis (toliau – minimalus dalyvavimo laikotarpis) – profesinių pensijų asociacijos įstatuose ar profesinių pensijų fondo (fondų) taisyklėse nustatytas ne ilgesnis kaip 2 metų dalyvavimo profesinių pensijų fonde (fonduose) laikotarpis, kurio neišbuvus, išskyrus šio įstatymo [[#^s-4e628261339611b9cd9f99df|29 straipsnio 7 dalyje]], [[#^s-b9f16f79b17747e05e0d0ddc|32 straipsnio 2 dalyje]] ir [[#^s-314bf4126b2f71f36625ff79|35 straipsnio 6 dalyje]] numatytas išimtis, laikoma, kad profesinių pensijų fondo dalyvis neįgijo nuosavybės teisių į jo vardu profesinių pensijų fonde sukauptą profesinės pensijos turto dalį. Sudarius gyvybės draudimo sutartį, pagal kurią kaupiamos profesinės pensijos, minimaliu dalyvavimo laikotarpiu laikomas ne ilgesnis kaip 2 metų draudimo taisyklėse nustatytas nuo profesinių pensijų fondo dalyvio apdraudimo dienos skaičiuojamas laikotarpis, kuriam pasibaigus finansuojantis subjektas praranda teisę būti naudos gavėju to dalyvio atžvilgiu ar atgauti išperkamąją sumą, sukauptą iš dalyvio vardu mokėtų profesinės pensijos įmokų. ^s-eee9cb97680b07e728959eee
@@ -233,7 +233,7 @@ Nr. XV-304, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11973
 3) rinkodara, informacijos teikimas pensijų fondo valdymo sutartyse nustatyta tvarka; ^s-9a2ec1932c5a6a9a31379a82
 
 
-4) kita veikla, susijusi su šios dalies 1, 2, [[#^s-9a2ec1932c5a6a9a31379a82|3 punktuose]] nurodyta veikla. ^s-63c1cb5f410ce25e44ea064b
+4) kita veikla, susijusi su šios dalies [[#^s-069ebceb2506ddc0e7d5ce56|1]], [[#^s-925a7695042cee0f5eaf28ee|2]], [[#^s-9a2ec1932c5a6a9a31379a82|3]] punktuose nurodyta veikla. ^s-63c1cb5f410ce25e44ea064b
 
 
 36. Profesinių pensijų turtas – už profesinių pensijų įmokas įsigyto turto (įskaitant laikinai neinvestuotą šių lėšų dalį) ir investicijų pajamų (sąnaudų), gautų iš šio turto (lėšų), suma. ^s-627bf2e04b68738bd5709ceb
@@ -260,7 +260,7 @@ Nr. XV-304, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11973
 41. Valstybė narė – Europos Sąjungos valstybė narė arba Europos ekonominės erdvės valstybė. ^s-60cfd21a8ff06a04471bed2d
 
 
-42. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatyme]], [[latest/TAR.ED28779BEADF|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme]], [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatyme]], [[latest/TAR.9845F775C518|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme]], [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatyme]], [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatyme]], [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatyme]] ir Reglamente (ES) 2022/2554. ^s-285730fac31f465fe377eda6
+42. Kitos šiame įstatyme vartojamos sąvokos suprantamos taip, kaip apibrėžiamos [[latest/TAR.DDA1BD559D9B|Papildomo savanoriško pensijų kaupimo įstatyme]], [[latest/TAR.ED28779BEADF|Lietuvos Respublikos kolektyvinio investavimo subjektų įstatyme]], [[latest/TAR.1F58348F79F7|Pensijų kaupimo įstatyme]], [[latest/TAR.9845F775C518|Lietuvos Respublikos finansinių ataskaitų audito ir kitų užtikrinimo paslaugų įstatyme]], [[latest/TAR.43178AA9832E|Lietuvos Respublikos finansinės apskaitos įstatyme]], [[latest/TAR.AB7AFE2F35B2|Lietuvos Respublikos finansinių priemonių rinkų įstatyme]], [[latest/TAR.0F9036415DBD|Lietuvos Respublikos valstybinio socialinio draudimo įstatyme]] ir [Reglamente (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj). ^s-285730fac31f465fe377eda6
 Straipsnio dalies pakeitimai:
 Nr. XV-304, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11973
 
@@ -622,7 +622,7 @@ PENSIJŲ ASOCIACIJOS VALDYMO SISTEMA
 5. Visuotiniai pensijų asociacijos narių susirinkimai ir valdybos posėdžiai turi būti protokoluojami. ^s-6e7dd98f3e18bd245474d025
 
 
-6. Pensijų asociacijos vadovui mutatis mutandis taikomi šio įstatymo [[#^s-064b5e386f4ff1d456f5b604|13 straipsnio]] 3, 4, 6, 8 dalyse ir [[#^s-c04ceb492545078691ebf8b5|14 straipsnio]] 1, 2, 3, [[#^s-c80e4e19b85d0178e7eb12c6|6 dalyse]] nustatyti reikalavimai. ^s-c80e4e19b85d0178e7eb12c6
+6. Pensijų asociacijos vadovui mutatis mutandis taikomi šio įstatymo [[#^s-064b5e386f4ff1d456f5b604|13 straipsnio]] [[#^s-31c212716fa87e36ca089706|3]], [[#^s-793874c1024a5b6bf17c943c|4]], [[#^s-c2de18109285f37547008a7e|6]], [[#^s-2ff260feb1e6333bf1a0eab6|8]] dalyse ir [[#^s-c04ceb492545078691ebf8b5|14 straipsnio]] [[#^s-ed7c0ef65d5736ddfd1a9027|1]], [[#^s-89ea242c22417d9e531817d5|2]], [[#^s-953c1003e13968ff1c7b9264|3]], [[#^s-7e908f365b16e52ca2831896|6]] dalyse nustatyti reikalavimai. ^s-c80e4e19b85d0178e7eb12c6
 
 
 
@@ -764,7 +764,7 @@ PENSIJŲ ASOCIACIJOS VALDYMO SISTEMA
 4. Pensijų asociacija turi taikyti veiksmingą vidaus kontrolės sistemą, kurią sudaro administracinės ir apskaitos procedūros, vidaus kontrolės tvarka ir tinkama ataskaitų teikimo tvarka, taikoma visais pensijų asociacijos lygmenimis. ^s-acc0ce4e428a71d9662a937f
 
 
-5. Pensijų asociacija, naudodama tinkamas ir proporcingas sistemas, išteklius ir taikydama procedūras, privalo užtikrinti nepertraukiamą veiklą, tam tikslui ji turi būti parengusi ir patvirtinusi veiklos tęstinumo planą bei užtikrinusi jo įgyvendinimą, taip pat įdiegti bei valdyti tinklų ir informacines sistemas pagal Reglamentą (ES) 2022/2554. ^s-b07d723c78471c1d56497bd9
+5. Pensijų asociacija, naudodama tinkamas ir proporcingas sistemas, išteklius ir taikydama procedūras, privalo užtikrinti nepertraukiamą veiklą, tam tikslui ji turi būti parengusi ir patvirtinusi veiklos tęstinumo planą bei užtikrinusi jo įgyvendinimą, taip pat įdiegti bei valdyti tinklų ir informacines sistemas pagal [Reglamentą (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj). ^s-b07d723c78471c1d56497bd9
 Straipsnio dalies pakeitimai:
 Nr. XV-304, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11973
 
@@ -1234,7 +1234,7 @@ NARYSTĖ PENSIJŲ ASOCIACIJOJE IR DALYVAVIMAS PENSIJŲ FONDE
 3) nustatomos skirtingos taisyklės dėl amžiaus, nuo kurio leidžiama tapti pensijų fondo dalyviu, ar dėl minimalaus dalyvavimo laikotarpio; ^s-3b8d51672c5c0ab12a0f6bde
 
 
-4) nustatomos skirtingos taisyklės dėl profesinių pensijų turto grąžinimo ar teisių į išmoką išlaikymo, kai darbuotojas nutraukia dalyvavimą pensijų fonde, išskyrus šios dalies 8 ir [[#^s-22c642094d907a2931382346|10 punktuose]] nurodytus atvejus; ^s-d69f724a99e4a512fb05fcbb
+4) nustatomos skirtingos taisyklės dėl profesinių pensijų turto grąžinimo ar teisių į išmoką išlaikymo, kai darbuotojas nutraukia dalyvavimą pensijų fonde, išskyrus šios dalies [[#^s-37dfd316a007019fc1e90891|8]] ir [[#^s-22c642094d907a2931382346|10]] punktuose nurodytus atvejus; ^s-d69f724a99e4a512fb05fcbb
 
 
 5) nustatomos skirtingos pensijų išmokų skyrimo, jų gavimo apribojimo sąlygos; ^s-9c55a4e368782f51a6bf06e4
@@ -1264,10 +1264,10 @@ NARYSTĖ PENSIJŲ ASOCIACIJOJE IR DALYVAVIMAS PENSIJŲ FONDE
 4. pensijų asociacijos įstatuose ir pensijų fondo taisyklėse draudžiama įtvirtinti nuostatas, pagal kurias finansuojantį subjektą pakeitęs ir kitoje valstybėje narėje pradėjęs dirbti darbuotojas, kuris (ar jo buvęs darbdavys) dėl to nustojo mokėti įmokas į pensijų fondą, prarastų tame pensijų fonde jam priklausančio profesinių pensijų turto dalį. pensijų asociacijos įstatuose ir pensijų fondo taisyklėse negali būti numatyta apribojimų iš pensijų fondo pasitraukiančiam pensijų fondo dalyviui perkelti jam priklausančio profesinių pensijų turto dalį į kitą kitos valstybės narės teritorijoje įregistruoto analogiško subjekto valdomą pensijų fondą. ^s-146e493d2a8dd184535f2c02
 
 
-5. Už pensijų fondo dalyvį, finansuojančio asmens komandiruotą dirbti į kitą valstybę narę, per laikotarpį, neviršijantį Reglamento (EEB) Nr. 1408/71 nustatyto maksimalaus komandiravimo termino, turi būti tęsiamas profesinės pensijos įmokų mokėjimas ir pensijų fondo dalyviui turi būti suteikta teisė mokėti įmokas į pensijų fondą, jeigu jis jas mokėjo iki komandiruotės. ^s-ed47590966d791a0fb08f926
+5. Už pensijų fondo dalyvį, finansuojančio asmens komandiruotą dirbti į kitą valstybę narę, per laikotarpį, neviršijantį [Reglamento (EEB) Nr. 1408/71](https://eur-lex.europa.eu/eli/reg/1408/71/oj) nustatyto maksimalaus komandiravimo termino, turi būti tęsiamas profesinės pensijos įmokų mokėjimas ir pensijų fondo dalyviui turi būti suteikta teisė mokėti įmokas į pensijų fondą, jeigu jis jas mokėjo iki komandiruotės. ^s-ed47590966d791a0fb08f926
 
 
-6. Draudžiama Lietuvos Respublikoje valdomo pensijų fondo taisyklėse numatyti nuostatas, reikalaujančias, kad kitos valstybės narės į Lietuvą dirbti komandiruotas darbuotojas dalyvautų Lietuvos Respublikoje įregistruotos pensijų asociacijos pensijų fonde, jeigu komandiravimo Lietuvos Respublikoje trukmė neviršija Reglamento (EEB) Nr. 1408/71 nustatyto maksimalaus komandiravimo termino. ^s-51c5e6f43f4264e35fb672b6
+6. Draudžiama Lietuvos Respublikoje valdomo pensijų fondo taisyklėse numatyti nuostatas, reikalaujančias, kad kitos valstybės narės į Lietuvą dirbti komandiruotas darbuotojas dalyvautų Lietuvos Respublikoje įregistruotos pensijų asociacijos pensijų fonde, jeigu komandiravimo Lietuvos Respublikoje trukmė neviršija [Reglamento (EEB) Nr. 1408/71](https://eur-lex.europa.eu/eli/reg/1408/71/oj) nustatyto maksimalaus komandiravimo termino. ^s-51c5e6f43f4264e35fb672b6
 
 
 7. Finansuojančiam subjektui tapus nemokiam arba jam iškėlus bankroto bylą, pensijų fondo dalyviai įgyja teises į jų vardu sukaupto profesinių pensijų turto dalį, net jeigu minimalus dalyvavimo laikotarpis nėra pasibaigęs. ^s-4e628261339611b9cd9f99df
@@ -1408,7 +1408,7 @@ PENSIJŲ FONDO VALDYMAS IR PROFESINIŲ PENSIJŲ TURTO SAUGOJIMAS
 ### 36 straipsnis. Pensijų fondo valdymas ir pensijų fondo valdymo sutartis ^s-af986437a0e9b30e4e02192a
 
 
-1. Pensijų fondo valdymas turi būti perduotas vienam pensijų fondo valdytojui pagal pensijų fondo valdymo sutartį, suderintą su priežiūros institucija. Tokiu pensijų asociacijos pensijų fondų valdytoju gali būti investicijų valdytojai, įsteigti ir veikiantys bet kurioje valstybėje narėje ir tinkamai įgalioti veikti, kaip tai numatyta 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvoje 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo su paskutiniais pakeitimais, padarytais 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyva 2014/91/ES (OL 2009 L 302, p. 32), 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyvoje 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2009 L 335, p. 1), 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyvoje 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kuria iš dalies keičiami direktyvos 2003/41/EB ir 2009/65/EB bei reglamentai (EB) Nr. 1060/2009 ir (ES) Nr. 1095/2010 (OL 2011 L 174, p. 1), 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyvoje 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338), 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyvoje 2014/65/ES dėl finansinių priemonių rinkų, kuria iš dalies keičiamos Direktyva 2002/92/EB ir Direktyva 2011/61/ES (OL 2014 L 173, p. 349), ir analogiški subjektai. ^s-2cce08d84009c30664e5f931
+1. Pensijų fondo valdymas turi būti perduotas vienam pensijų fondo valdytojui pagal pensijų fondo valdymo sutartį, suderintą su priežiūros institucija. Tokiu pensijų asociacijos pensijų fondų valdytoju gali būti investicijų valdytojai, įsteigti ir veikiantys bet kurioje valstybėje narėje ir tinkamai įgalioti veikti, kaip tai numatyta 2009 m. liepos 13 d. Europos Parlamento ir Tarybos direktyvoje 2009/65/EB dėl įstatymų ir kitų teisės aktų, susijusių su kolektyvinio investavimo į perleidžiamus vertybinius popierius subjektais (KIPVPS), derinimo su paskutiniais pakeitimais, padarytais 2014 m. liepos 23 d. Europos Parlamento ir Tarybos direktyva 2014/91/ES (OL 2009 L 302, p. 32), 2009 m. lapkričio 25 d. Europos Parlamento ir Tarybos direktyvoje 2009/138/EB dėl draudimo ir perdraudimo veiklos pradėjimo ir jos vykdymo (Mokumas II) (OL 2009 L 335, p. 1), 2011 m. birželio 8 d. Europos Parlamento ir Tarybos direktyvoje 2011/61/ES dėl alternatyvaus investavimo fondų valdytojų, kuria iš dalies keičiami direktyvos 2003/41/EB ir 2009/65/EB bei [reglamentai (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) ir (ES) Nr. 1095/2010 (OL 2011 L 174, p. 1), 2013 m. birželio 26 d. Europos Parlamento ir Tarybos direktyvoje 2013/36/ES dėl galimybės verstis kredito įstaigų veikla ir dėl riziką ribojančios kredito įstaigų ir investicinių įmonių priežiūros, kuria iš dalies keičiama Direktyva 2002/87/EB ir panaikinamos direktyvos 2006/48/EB bei 2006/49/EB (OL 2013 L 176, p. 338), 2014 m. gegužės 15 d. Europos Parlamento ir Tarybos direktyvoje 2014/65/ES dėl finansinių priemonių rinkų, kuria iš dalies keičiamos Direktyva 2002/92/EB ir Direktyva 2011/61/ES (OL 2014 L 173, p. 349), ir analogiški subjektai. ^s-2cce08d84009c30664e5f931
 
 
 2. Pensijų fondo valdytoju negali būti profesinių pensijų turto saugotojas, išskyrus šio įstatymo [[#^s-ed1daecbb53cac8e1afb8242|39 straipsnyje]] numatytą atvejį. ^s-8d7649b49f06cdaa5454da37
@@ -1545,7 +1545,7 @@ GYVYBĖS DRAUDIMO ĮMONIŲ PROFESINIŲ PENSIJŲ KAUPIMO VEIKLOS YPATUMAI
 3. Gyvybės draudimo įmonės, vykdančios profesinių pensijų kaupimo veiklą, turtas ir įsipareigojimai, susiję su šia veikla, turi būti atskirti ir administruojami atskirai nuo kitos gyvybės draudimo įmonės veiklos. Turto ir įsipareigojimų, susijusių su profesinių pensijų kaupimo veikla, atskiro administravimo taisykles nustato priežiūros institucija. ^s-a04731b53f7f76c1ef4f48b5
 
 
-4. Profesinių pensijų kaupimo veiklą vykdančioms gyvybės draudimo įmonėms ir jų priežiūrai mutatis mutandis taikomi šio įstatymo [[#^s-538ef69ee5f82d7434669d91|7 straipsnio 3 dalis]], 15–[[#^s-095be77e6aea998297c0ada3|20 straipsniai]], [[#^s-2cafae2a0ea514b8b63a1a2c|21 straipsnio]] 4–8 dalys, išskyrus reikalavimą pateikti įstatus, 22, 23, 29–[[#^s-104a6246411d44bc12f25e97|34 straipsniai]], 36, 37 ir [[#^s-65cc26917fc2ff92cd10bf67|38 straipsniai]], [[#^s-916143316d4749b66d4162ba|46 straipsnio 3 dalis]], 47–[[#^s-4b96444d1b25f4db0bfd8024|50 straipsniai]], dešimtasis, vienuoliktasis, dvyliktasis ir tryliktasis skirsniai. ^s-7c25f8abd3ab7186dda3fdc3
+4. Profesinių pensijų kaupimo veiklą vykdančioms gyvybės draudimo įmonėms ir jų priežiūrai mutatis mutandis taikomi šio įstatymo [[#^s-538ef69ee5f82d7434669d91|7 straipsnio 3 dalis]], [[#^s-3b654edae89bf1c99e2c356b|15]]–[[#^s-095be77e6aea998297c0ada3|20]] straipsniai, [[#^s-2cafae2a0ea514b8b63a1a2c|21 straipsnio]] [[#^s-d0ef0f88acd428728895ecde|4]]–[[#^s-358a7e04f4770ff882dcbd10|8]] dalys, išskyrus reikalavimą pateikti įstatus, [[#^s-5af8cc512605ec46d1233db2|22]], [[#^s-c2aa1c164b8bc7facb26988f|23]], [[#^s-990e36ce8f98fe74c2dd21c7|29]]–[[#^s-104a6246411d44bc12f25e97|34]] straipsniai, [[#^s-af986437a0e9b30e4e02192a|36]], [[#^s-5162c289d0be6bd8087fdb4b|37]] ir [[#^s-65cc26917fc2ff92cd10bf67|38]] straipsniai, [[#^s-916143316d4749b66d4162ba|46 straipsnio 3 dalis]], [[#^s-d4d829bbd04d39630e585e2f|47]]–[[#^s-4b96444d1b25f4db0bfd8024|50]] straipsniai, dešimtasis, vienuoliktasis, dvyliktasis ir tryliktasis skirsniai. ^s-7c25f8abd3ab7186dda3fdc3
 
 
 
@@ -1581,7 +1581,7 @@ GYVYBĖS DRAUDIMO ĮMONIŲ PROFESINIŲ PENSIJŲ KAUPIMO VEIKLOS YPATUMAI
 ### 43 straipsnis. Draudimo išmokos ^s-0c158a94502d25ba2dbd1ab6
 
 
-Gyvybės draudimo sutartyse, pagal kurias kaupiamos profesinės pensijos, gali būti numatytas kitų, negu šio įstatymo 33 ir [[#^s-104a6246411d44bc12f25e97|34 straipsniuose]] nurodytų išmokų, draudimo išmokų mokėjimas. Tokioms draudimo išmokoms taikomos [[latest/TAR.8447F63760E9|Draudimo įstatymo]] penktojo skyriaus nuostatos.
+Gyvybės draudimo sutartyse, pagal kurias kaupiamos profesinės pensijos, gali būti numatytas kitų, negu šio įstatymo [[#^s-5df6575bed468dbc84f11e77|33]] ir [[#^s-104a6246411d44bc12f25e97|34]] straipsniuose nurodytų išmokų, draudimo išmokų mokėjimas. Tokioms draudimo išmokoms taikomos [[latest/TAR.8447F63760E9|Draudimo įstatymo]] penktojo skyriaus nuostatos.
 
 
 
@@ -1779,7 +1779,7 @@ Nr. XV-853, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06962
 4. [[#^s-e05a4de39244f6d62f2cba0f|Šio straipsnio 1 dalies]] 5 ir 6 punktuose nustatyti reikalavimai netaikomi investicijoms į perleidžiamuosius Vyriausybės vertybinius popierius. ^s-aabf1e6ecdd4cc0391be0ac6
 
 
-5. Priežiūros institucija, atsižvelgdama į pensijų asociacijos veiklos pobūdį, mastą ir sudėtingumą, stebi kredito rizikos vertinimo procesų tinkamumą, įskaitant nuorodų į kredito reitingus, kuriuos suteikė kredito reitingų agentūros, kaip jos apibrėžtos Reglamente (EB) Nr. 1060/2009, investavimo politikoje naudojimo vertinimą. Prireikus priežiūros institucija skatina mažinti tokių nuorodų daromą poveikį, siekdama, kad būtų mažiau automatiškai pasikliaunama tokiais kredito reitingais. ^s-2ca4285f1e6e4290bfedcbb2
+5. Priežiūros institucija, atsižvelgdama į pensijų asociacijos veiklos pobūdį, mastą ir sudėtingumą, stebi kredito rizikos vertinimo procesų tinkamumą, įskaitant nuorodų į kredito reitingus, kuriuos suteikė kredito reitingų agentūros, kaip jos apibrėžtos [Reglamente (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj), investavimo politikoje naudojimo vertinimą. Prireikus priežiūros institucija skatina mažinti tokių nuorodų daromą poveikį, siekdama, kad būtų mažiau automatiškai pasikliaunama tokiais kredito reitingais. ^s-2ca4285f1e6e4290bfedcbb2
 
 
 6. Pensijų asociacijos vardu draudžiama skolintis, išskyrus paskolas iki 10 procentų pensijų fondo grynųjų aktyvų vertės iki 3 mėnesių terminui, kurios būtinos likvidumui palaikyti. Tai nereiškia draudimo skolintis užsienio valiutą, už kurią perkami perleidžiamieji vertybiniai popieriai ar pinigų rinkos priemonės, jeigu paskolai užtikrinti paskolos davėjui duodama ne mažesnė suma kita valiuta. ^s-5ca639dda9378b06c71b6da1
@@ -1895,7 +1895,7 @@ Nr. XV-853, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06962
 3. Pensijų fondo dalyviai ir išmokų gavėjai arba jų atstovai turi gauti visą reikalingą informaciją apie pensijų fondo taisyklių pakeitimus ne vėliau kaip per vieną mėnesį nuo jų pakeitimo dienos. Be to, pensijų asociacija užtikrina, kad jiems būtų prieinama informacija apie tai, kokį poveikį reikšmingas techninių atidėjinių pakeitimas padarys pensijų fondo dalyviams ir išmokų gavėjams. ^s-fa463133d993a4cc4cfaa8f7
 
 
-4. Pensijų asociacija užtikrina, kad pensijų fondo dalyviams ir išmokų gavėjams būtų prieinama šio straipsnio 1, 2 ir [[#^s-fa463133d993a4cc4cfaa8f7|3 dalyse]] nurodyta bendroji informacija apie pensijų fondą. ^s-7317fd4dcae1bf81f3dbea20
+4. Pensijų asociacija užtikrina, kad pensijų fondo dalyviams ir išmokų gavėjams būtų prieinama šio straipsnio [[#^s-e1498107bc31689b373b358c|1]], [[#^s-759687d0920eef0c1cad92d6|2]] ir [[#^s-fa463133d993a4cc4cfaa8f7|3]] dalyse nurodyta bendroji informacija apie pensijų fondą. ^s-7317fd4dcae1bf81f3dbea20
 
 
 5. Pensijų asociacija turi parengti pensijos išmokų ataskaitą. Ataskaitos pavadinime turi būti žodžiai „pensijos išmokų ataskaita“. ^s-12f2da9c4c5fd11ecbb74aad
@@ -1998,7 +1998,7 @@ Nr. XV-853, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06962
 2) aktualias pensijų fondo ypatybes, įskaitant išmokų rūšį; ^s-8e03b3918c5bb330a5931c83
 
 
-3) tai, ar taikant investavimo metodą atsižvelgiama į aplinkos, klimato kaitos, socialinius ir organizacijos valdymo veiksnius ir kaip tai daroma, bei tai, kaip įgyvendinamas Reglamentas (ES) 2019/2088 ir Reglamento (ES) 2020/852 5, 6 ir [[#^s-44c4d067887c2ce36eaa0426|7 straipsniai]], ir ^s-0cec730bfb5f15187676abb0
+3) tai, ar taikant investavimo metodą atsižvelgiama į aplinkos, klimato kaitos, socialinius ir organizacijos valdymo veiksnius ir kaip tai daroma, bei tai, kaip įgyvendinamas [Reglamentas (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) ir [Reglamento (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) [[#^s-19bd2a68558d14715131f240|5]], [[#^s-96009d9fb6c156925715e398|6]] ir [[#^s-44c4d067887c2ce36eaa0426|7]] straipsniai, ir ^s-0cec730bfb5f15187676abb0
 Straipsnio punkto pakeitimai:
 Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
 
@@ -2014,7 +2014,7 @@ Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
 ### 57 straipsnis. Informacijos teikimo sąlygos ^s-a6aaa03d76b39fc4443aef2f
 
 
-Šio įstatymo 55 ir [[#^s-6d4c879eb230222014849083|56 straipsniuose]] nurodyta informacija turi būti:
+Šio įstatymo [[#^s-e839d3eccc4332828e9b3cf5|55]] ir [[#^s-6d4c879eb230222014849083|56]] straipsniuose nurodyta informacija turi būti:
 
 
 1) reguliariai atnaujinama; ^s-cf5351a5e9b34cbf83b7f227
@@ -2105,7 +2105,7 @@ PENSIJŲ ASOCIACIJŲ VEIKLOS PRIEŽIŪRA
 3) stebi, analizuoja, tikrina ir kitaip prižiūri pensijų asociacijų veiklą, taip pat kaip laikomasi reikalavimų, taikomų techniniams atidėjiniams ir jų finansavimui, reguliuojamoms nuosavoms lėšoms, turimai mokumo atsargai, būtinajai mokumo atsargai, investavimui, investicijų valdymui, valdymo sistemai ir pensijų fondo dalyviams bei išmokų gavėjams teiktinai informacijai; ^s-6386b1b1a5cde9d0129e78f3
 
 
-4) atlieka Reglamente (ES) 2019/2088 ir Reglamente (ES) 2020/852 kompetentingai institucijai nustatytas funkcijas; ^s-1cc382482fc9a560a8936557
+4) atlieka [Reglamente (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) ir [Reglamente (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) kompetentingai institucijai nustatytas funkcijas; ^s-1cc382482fc9a560a8936557
 Papildyta straipsnio punktu:
 Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
 Straipsnio punkto pakeitimai:
@@ -2143,10 +2143,10 @@ Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
 11. Priežiūros institucija turi užtikrinti, kad jos interneto svetainėje būtų viešai prieinama ir periodiškai atnaujinama ši informacija: ^s-8dd3a88178ade1ec19bdd8f4
 
 
-1) profesinių pensijų kaupimo veiklą reglamentuojantys teisės aktai, jų projektai, rekomendacijos ir informacija, kaip Lietuvos Respublikoje įgyvendintos Direktyvos (ES) 2016/2341 4 ir [[#^s-19bd2a68558d14715131f240|5 straipsnių]] nuostatos; ^s-6b2f9b505e23ee65419fbcf7
+1) profesinių pensijų kaupimo veiklą reglamentuojantys teisės aktai, jų projektai, rekomendacijos ir informacija, kaip Lietuvos Respublikoje įgyvendintos [Direktyvos (ES) 2016/2341](https://eur-lex.europa.eu/eli/dir/2016/2341/oj) [[#^s-52dd0ac2c22e4daf634ff98c|4]] ir [[#^s-19bd2a68558d14715131f240|5]] straipsnių nuostatos; ^s-6b2f9b505e23ee65419fbcf7
 
 
-2) informacija apie šio straipsnio 7, 8 ir [[#^s-b6df755b170da26db00bc377|9 dalyse]] nustatytą tikrinimo ir vertinimo procesą; ^s-aa77c1de2c370a81dc799b1c
+2) informacija apie šio straipsnio [[#^s-dc52ac7d5ad6e647023f7478|7]], [[#^s-ec7abdabb7f18b83066d1d33|8]] ir [[#^s-b6df755b170da26db00bc377|9]] dalyse nustatytą tikrinimo ir vertinimo procesą; ^s-aa77c1de2c370a81dc799b1c
 
 
 3) apibendrinta statistinė informacija apie pagrindinius riziką ribojančios sistemos taikymo aspektus; ^s-98fb41503dda9cea96667925
@@ -2161,13 +2161,13 @@ Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
 12. Priežiūros institucija, atlikdama šio įstatymo [[#^s-ff7fde0c53ed5584fcaae9a0|65 straipsnyje]] nustatytas funkcijas ir teikdama informaciją apie Lietuvos Respublikoje galiojančius socialinės apsaugos ir darbo teisės aktus, taikomus profesinių pensijų srityje, bendradarbiauja su Lietuvos Respublikos socialinės apsaugos ir darbo ministerija. Socialinės apsaugos ir darbo ministerija teikia informaciją apie socialinės apsaugos ir darbo teisės reikalavimus, kurių laikymasis yra privalomas kitose valstybėse narėse veikiantiems analogiškiems subjektams, priimantiems įmokas iš Lietuvos Respublikoje esančių finansuojančių subjektų, ir apie tai praneša priežiūros institucijai. Socialinės apsaugos ir darbo ministerija taip pat turi informuoti priežiūros instituciją apie visus reikšmingus socialinės apsaugos ir darbo teisės nuostatų pasikeitimus profesinių pensijų srityje. ^s-8a004a4abf10689a011aac09
 
 
-13. Priežiūros institucija, vykdydama šiame įstatyme nustatytas funkcijas, pagal Reglamentą (ES) Nr. 1094/2010 bendradarbiauja su Europos draudimo ir profesinių pensijų institucija ir teikia jai visą jos užduotims vykdyti būtiną informaciją. ^s-7110b105b966f9766f4b2c17
+13. Priežiūros institucija, vykdydama šiame įstatyme nustatytas funkcijas, pagal [Reglamentą (ES) Nr. 1094/2010](https://eur-lex.europa.eu/eli/reg/1094/2010/oj) bendradarbiauja su Europos draudimo ir profesinių pensijų institucija ir teikia jai visą jos užduotims vykdyti būtiną informaciją. ^s-7110b105b966f9766f4b2c17
 
 
 14. Priežiūros institucija glaudžiai bendradarbiauja su Europos Komisija ir kitų Europos ekonominės erdvės valstybių priežiūros institucijomis pensijų asociacijų priežiūros klausimais, reguliariai keičiasi informacija ir patirtimi, siekdama užtikrinti vienodą profesinių pensijų srities teisės aktų taikymą ir plėtoti geriausią šios srities praktiką. ^s-ecd3e8258ee58f3f8db61413
 
 
-15. Priežiūros institucija privalo informuoti Europos Komisiją ir Europos draudimo ir profesinių pensijų instituciją apie esminius sunkumus, kurie kyla taikant Direktyvos (ES) 2016/2341 pagrindu priimtų Lietuvos Respublikos teisės aktų nuostatas, ir kartu su Europos Komisija, Europos draudimo ir profesinių pensijų institucija ir kitomis Europos ekonominės erdvės valstybių priežiūros institucijomis analizuoti susidariusias problemas, kad būtų rastas tinkamas šių problemų sprendimo būdas. ^s-c6be699d655665a03e4ee85f
+15. Priežiūros institucija privalo informuoti Europos Komisiją ir Europos draudimo ir profesinių pensijų instituciją apie esminius sunkumus, kurie kyla taikant [Direktyvos (ES) 2016/2341](https://eur-lex.europa.eu/eli/dir/2016/2341/oj) pagrindu priimtų Lietuvos Respublikos teisės aktų nuostatas, ir kartu su Europos Komisija, Europos draudimo ir profesinių pensijų institucija ir kitomis Europos ekonominės erdvės valstybių priežiūros institucijomis analizuoti susidariusias problemas, kad būtų rastas tinkamas šių problemų sprendimo būdas. ^s-c6be699d655665a03e4ee85f
 
 
 
@@ -2285,14 +2285,14 @@ Priežiūros institucija taiko šias poveikio priemones:
 10) nustatyta tvarka nevykdomi arba netinkamai vykdomi priežiūros institucijos pagal šio įstatymo [[#^s-96eee06b25db7cb7211b375d|61 straipsnį]] duoti privalomi nurodymai; ^s-b94bf19e239316dc444d4db7
 
 
-11) pažeisti Reglamente (EB) Nr. 1060/2009, Reglamente (ES) 2019/2088, Reglamento (ES) 2020/852 5, 6 ir [[#^s-44c4d067887c2ce36eaa0426|7 straipsniuose]] ar Reglamente (ES) 2022/2554 nustatyti reikalavimai; ^s-d91bd0c393ab116b1d7c2e4d
+11) pažeisti [Reglamente (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj), [Reglamente (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj), [Reglamento (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) [[#^s-19bd2a68558d14715131f240|5]], [[#^s-96009d9fb6c156925715e398|6]] ir [[#^s-44c4d067887c2ce36eaa0426|7]] straipsniuose ar [Reglamente (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) nustatyti reikalavimai; ^s-d91bd0c393ab116b1d7c2e4d
 Straipsnio punkto pakeitimai:
 Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
 Nr. XV-304, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11973
 
 
 
-111) pažeisti Reglamento (ES) 2024/3005 [[#^s-1a070169f378c9be9c8f48a3|2 straipsnio 2 dalies]] c punkto antroje pastraipoje nustatyti reikalavimai; ^s-da5f4f609878af35089fb76f
+111) pažeisti [Reglamento (ES) 2024/3005 2 straipsnio 2 dalies c punkto](https://eur-lex.europa.eu/eli/reg/2024/3005/art_2/par_2/lit_c/oj) antroje pastraipoje nustatyti reikalavimai; ^s-da5f4f609878af35089fb76f
 Papildyta straipsnio punktu:
 Nr. XV-853, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06962
 
@@ -2489,10 +2489,10 @@ TARPVALSTYBINĖ VEIKLA IR BENDRADARBIAVIMAS
 12. Perimančioji pensijų asociacija gali pradėti valdyti pensijų fondą gavusi [[#^s-08fdb5e5911f798aa2284c48|šio straipsnio 9 dalyje]] nurodytą sprendimą išduoti leidimą arba, jeigu negauna iš priežiūros institucijos informacijos apie sprendimą, pasibaigus [[#^s-43c00a7797dc8e5ba86db939|šio straipsnio 11 dalyje]] nustatytam terminui. ^s-aa956dc6a0c4b849d953c77a
 
 
-13. Priežiūros institucija, jeigu yra nesutarimų su perleidžiančiosios ar perimančiosios pensijų asociacijos buveinės valstybės narės kompetentinga priežiūros institucija dėl veiksmų tvarkos, informacijos turinio, veikimo ar neveikimo, įskaitant leidimo perleisti teises ir pareigas suteikimą ar nesuteikimą, gali kreiptis į Europos draudimo ir profesinių pensijų instituciją dėl tarpininkavimo pagal Reglamento (ES) Nr. 1094/2010 [[#^s-ba5604df0c4fb6e2892167da|31 straipsnio]] antrosios pastraipos c punktą. ^s-990e829376c4a9b8f8e773d3
+13. Priežiūros institucija, jeigu yra nesutarimų su perleidžiančiosios ar perimančiosios pensijų asociacijos buveinės valstybės narės kompetentinga priežiūros institucija dėl veiksmų tvarkos, informacijos turinio, veikimo ar neveikimo, įskaitant leidimo perleisti teises ir pareigas suteikimą ar nesuteikimą, gali kreiptis į Europos draudimo ir profesinių pensijų instituciją dėl tarpininkavimo pagal [Reglamento (ES) Nr. 1094/2010 31 straipsnio](https://eur-lex.europa.eu/eli/reg/1094/2010/art_31/oj) antrosios pastraipos c punktą. ^s-990e829376c4a9b8f8e773d3
 
 
-14. Jeigu kitos valstybės narės perimančioji pensijų asociacija vykdo tarpvalstybinę veiklą Lietuvos Respublikoje, taikomos šio įstatymo [[#^s-ff7fde0c53ed5584fcaae9a0|65 straipsnio]] 11–15 dalių nuostatos. ^s-894dc329d7dc9813f9a47175
+14. Jeigu kitos valstybės narės perimančioji pensijų asociacija vykdo tarpvalstybinę veiklą Lietuvos Respublikoje, taikomos šio įstatymo [[#^s-ff7fde0c53ed5584fcaae9a0|65 straipsnio]] [[#^s-cf421b6e465f25780499907a|11]]–[[#^s-9a5be55af9ca7c7728da2e73|15]] dalių nuostatos. ^s-894dc329d7dc9813f9a47175
 
 
 
@@ -2529,43 +2529,43 @@ priedas
 2. 2006 m. liepos 5 d. Europos Parlamento ir Tarybos direktyva 2006/54/EB dėl moterų ir vyrų lygių galimybių ir vienodo požiūrio į moteris ir vyrus užimtumo bei profesinės veiklos srityje principo įgyvendinimo. ^s-ab9065e0078f4900a2791a4c
 
 
-3. 2008 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2008/94/EB dėl darbuotojų apsaugos jų darbdaviui tapus nemokiam su paskutiniais pakeitimais, padarytais 2015 m. spalio 6 d. Europos Parlamento ir Tarybos direktyva (ES) 2015/1794. ^s-a8334372fb2f59d25712005c
+3. 2008 m. spalio 22 d. Europos Parlamento ir Tarybos direktyva 2008/94/EB dėl darbuotojų apsaugos jų darbdaviui tapus nemokiam su paskutiniais pakeitimais, padarytais 2015 m. spalio 6 d. Europos Parlamento ir Tarybos [direktyva (ES) 2015/1794](https://eur-lex.europa.eu/eli/dir/2015/1794/oj). ^s-a8334372fb2f59d25712005c
 
 
-4. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1060/2009 dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos reglamentu (ES) 2017/2402. ^s-630a4bb5cae9edc9a36695a2
+4. 2009 m. rugsėjo 16 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj) dėl kredito reitingų agentūrų su paskutiniais pakeitimais, padarytais 2017 m. gruodžio 12 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2017/2402](https://eur-lex.europa.eu/eli/reg/2017/2402/oj). ^s-630a4bb5cae9edc9a36695a2
 
 
 5. 2014 m. balandžio 16 d. Europos Parlamento ir Tarybos direktyva 2014/50/ES dėl būtiniausių reikalavimų darbuotojų judumui tarp valstybių narių didinti gerinant teisių į papildomą pensiją įgijimą ir išsaugojimą. ^s-6136f931b13f49332ba5d988
 
 
-6. 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2016/2341 dėl profesinių pensijų įstaigų (PPĮ) veiklos ir priežiūros su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos direktyva (ES) 2023/2864. ^s-8e898ff6847aa2ff5cde11d2
+6. 2016 m. gruodžio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2016/2341](https://eur-lex.europa.eu/eli/dir/2016/2341/oj) dėl profesinių pensijų įstaigų (PPĮ) veiklos ir priežiūros su paskutiniais pakeitimais, padarytais 2023 m. gruodžio 13 d. Europos Parlamento ir Tarybos [direktyva (ES) 2023/2864](https://eur-lex.europa.eu/eli/dir/2023/2864/oj). ^s-8e898ff6847aa2ff5cde11d2
 Punkto pakeitimai:
 Nr. XV-853, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06962
 
 
 
-7. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2019/2088 dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentu (ES) 2020/852. ^s-9d1f5e4b3292de0d594a6554
+7. 2019 m. lapkričio 27 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) dėl su tvarumu susijusios informacijos atskleidimo finansinių paslaugų sektoriuje su paskutiniais pakeitimais, padarytais 2020 m. birželio 18 d. Europos Parlamento ir Tarybos [reglamentu (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj). ^s-9d1f5e4b3292de0d594a6554
 
 
-8. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos reglamentas (ES) 2020/852 dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas Reglamentas (ES) 2019/2088. ^s-ac5d7ee88f885f6d6e5a32a7
+8. 2020 m. birželio 18 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2020/852](https://eur-lex.europa.eu/eli/reg/2020/852/oj) dėl sistemos tvariam investavimui palengvinti sukūrimo, kuriuo iš dalies keičiamas [Reglamentas (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj). ^s-ac5d7ee88f885f6d6e5a32a7
 Papildyta punktu:
 Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
 
 
 
-9. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos direktyva (ES) 2022/2556, kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo. ^s-21041944d9d184462b7e8663
+9. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [direktyva (ES) 2022/2556](https://eur-lex.europa.eu/eli/dir/2022/2556/oj), kuria iš dalies keičiamos direktyvos 2009/65/EB, 2009/138/EB, 2011/61/ES, 2013/36/ES, 2014/59/ES, 2014/65/ES, (ES) 2015/2366 ir (ES) 2016/2341 dėl finansų sektoriaus skaitmeninės veiklos atsparumo. ^s-21041944d9d184462b7e8663
 Papildyta straipsnio dalimi:
 Nr. XV-304, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11973
 
 
 
-10. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos reglamentas (ES) 2022/2554 dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami reglamentai (EB) Nr. 1060/2009, (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011. ^s-56b284169a1a65fa5baebd33
+10. 2022 m. gruodžio 14 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2022/2554](https://eur-lex.europa.eu/eli/reg/2022/2554/oj) dėl skaitmeninės veiklos atsparumo finansų sektoriuje, kuriuo iš dalies keičiami [reglamentai (EB) Nr. 1060/2009](https://eur-lex.europa.eu/eli/reg/1060/2009/oj), (ES) Nr. 648/2012, (ES) Nr. 600/2014, (ES) Nr. 909/2014 ir (ES) 2016/1011. ^s-56b284169a1a65fa5baebd33
 Papildyta punktu:
 Nr. XV-304, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11973
 
 
 
-11. 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos reglamentas (ES) 2024/3005 dėl reitingavimo pagal aplinkos, socialinius ir valdymo (ASV) kriterijus veiklos skaidrumo ir sąžiningumo, kuriuo iš dalies keičiami reglamentai (ES) 2019/2088 ir (ES) 2023/2859. ^s-d3ff53e5de2ea4163d0e6908
+11. 2024 m. lapkričio 27 d. Europos Parlamento ir Tarybos [reglamentas (ES) 2024/3005](https://eur-lex.europa.eu/eli/reg/2024/3005/oj) dėl reitingavimo pagal aplinkos, socialinius ir valdymo (ASV) kriterijus veiklos skaidrumo ir sąžiningumo, kuriuo iš dalies keičiami [reglamentai (ES) 2019/2088](https://eur-lex.europa.eu/eli/reg/2019/2088/oj) ir (ES) 2023/2859. ^s-d3ff53e5de2ea4163d0e6908
 Papildyta punktu:
 Nr. XV-853, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06962
 
@@ -2626,27 +2626,27 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1206, 2014-10-07, paskelbta TAR 2014-10-15, i. k. 2014-14118
-Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 17 ir [[#^s-6d4c879eb230222014849083|56 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 [[#^s-b57d47b567626bdab0907104|17]] ir [[#^s-6d4c879eb230222014849083|56]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1469, 2014-12-18, paskelbta TAR 2014-12-30, i. k. 2014-21096
-Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 31, 32, 47, 55, [[#^s-6d4c879eb230222014849083|56 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 [[#^s-ba5604df0c4fb6e2892167da|31]], [[#^s-4a82a15eb42ec5cb3dedc154|32]], [[#^s-d4d829bbd04d39630e585e2f|47]], [[#^s-e839d3eccc4332828e9b3cf5|55]], [[#^s-6d4c879eb230222014849083|56]] straipsnių ir priedo pakeitimo įstatymas
 
 3.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2448, 2016-06-16, paskelbta TAR 2016-06-27, i. k. 2016-17716
-Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 52 ir [[#^s-df0b344433bbc87a9865a1d9|54 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 [[#^s-1151f33d42df47c9720c7b0e|52]] ir [[#^s-df0b344433bbc87a9865a1d9|54]] straipsnių pakeitimo įstatymas
 
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-985, 2018-01-12, paskelbta TAR 2018-01-22, i. k. 2018-00960
-Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 2, 18, [[#^s-80aeceeb1c96ab90a7ce9a9d|30 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 [[#^s-12ab3c882764bf1f50d487da|2]], [[#^s-5b971fafe7ed3fc09e03c64d|18]], [[#^s-80aeceeb1c96ab90a7ce9a9d|30]] straipsnių ir priedo pakeitimo įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1240, 2018-06-05, paskelbta TAR 2018-06-14, i. k. 2018-09851
-Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 2, 5, 7, 52, 53, 54, 55, [[#^s-6d4c879eb230222014849083|56 straipsnių]] pakeitimo ir Įstatymo papildymo 52-1 straipsniu įstatymas
+Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 [[#^s-12ab3c882764bf1f50d487da|2]], [[#^s-19bd2a68558d14715131f240|5]], [[#^s-44c4d067887c2ce36eaa0426|7]], [[#^s-1151f33d42df47c9720c7b0e|52]], [[#^s-738d49ec7b547f5151a85148|53]], [[#^s-df0b344433bbc87a9865a1d9|54]], [[#^s-e839d3eccc4332828e9b3cf5|55]], [[#^s-6d4c879eb230222014849083|56]] straipsnių pakeitimo ir Įstatymo papildymo 52-1 straipsniu įstatymas
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2656,7 +2656,7 @@ Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 pakeitimo 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-805, 2021-12-21, paskelbta TAR 2021-12-28, i. k. 2021-27383
-Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 56, 59, [[#^s-448c378cfc5beb0020435806|63 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 [[#^s-6d4c879eb230222014849083|56]], [[#^s-eb431e6c9f934e5029382e0b|59]], [[#^s-448c378cfc5beb0020435806|63]] straipsnių ir priedo pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -2666,9 +2666,9 @@ Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 [[#^s-96ee
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-304, 2025-06-19, paskelbta TAR 2025-06-30, i. k. 2025-11973
-Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 2, 7, 15, [[#^s-448c378cfc5beb0020435806|63 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 [[#^s-12ab3c882764bf1f50d487da|2]], [[#^s-44c4d067887c2ce36eaa0426|7]], [[#^s-3b654edae89bf1c99e2c356b|15]], [[#^s-448c378cfc5beb0020435806|63]] straipsnių ir priedo pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XV-853, 2026-04-23, paskelbta TAR 2026-04-28, i. k. 2026-06962
-Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 2, 3, 4, 10, 19, 51, 54, [[#^s-448c378cfc5beb0020435806|63 straipsnių]] ir priedo pakeitimo įstatymas
+Lietuvos Respublikos profesinių pensijų kaupimo įstatymo Nr. X-745 [[#^s-12ab3c882764bf1f50d487da|2]], [[#^s-42aaf64af9d2802374a7e74c|3]], [[#^s-52dd0ac2c22e4daf634ff98c|4]], [[#^s-191f53fa5965c0e848c08ccc|10]], [[#^s-7a74b3afe619ba770fb18270|19]], [[#^s-82d00f36c0a083c0561c0e97|51]], [[#^s-df0b344433bbc87a9865a1d9|54]], [[#^s-448c378cfc5beb0020435806|63]] straipsnių ir priedo pakeitimo įstatymas

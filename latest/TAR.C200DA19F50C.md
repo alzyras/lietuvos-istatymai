@@ -62,7 +62,7 @@ priedas
 
 
 
-1. 2009 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 2009/14/EB, iš dalies keičianti Direktyvos 94/19/EB dėl indėlių garantijų sistemų nuostatas dėl kompensacijų lygio ir išmokėjimo termino (OL 2009 L 68, p. 3).“ ^s-b82d9890cf0bf63951110dfd
+1. 2009 m. kovo 11 d. Europos Parlamento ir Tarybos direktyva 2009/14/EB, iš dalies keičianti Direktyvos 94/19/EB dėl indėlių garantijų sistemų nuostatas [dėl kompensacijų](https://e-tar.lt/portal/lt/legalAct/TAR.5A72D4601629) lygio ir išmokėjimo termino (OL 2009 L 68, p. 3).“ ^s-b82d9890cf0bf63951110dfd
 
 
 

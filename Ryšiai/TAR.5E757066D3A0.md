@@ -10,7 +10,7 @@ pavadinimas: "Lietuvos Respublikos notariato įstatymo 3 straipsnio pakeitimo ir
 ## Šis įstatymas cituoja
 
 - [[latest/TAR.BE3136A78E80#^s-c74f97303999e8a8b20c08e5|Lietuvos Respublikos notariato įstatymas]] - NOTARIATO ĮSTATYMO 3 STRAIPSNIO
-- [[latest/TAR.F33D0DB15086#^s-7d4b717754e0d82e190e48fb|Lietuvos Respublikos notariato įstatymo pakeitimo ir papildymo įstatymo įsigaliojimo įstatymas]] - NOTARIATO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMO ĮSIGALIOJIMO ĮSTATYMO 2 STRAIPSNIO
+- [[latest/TAR.D19DD3E4FAA6|Lietuvos Respublikos notariato įstatymo pakeitimo ir papildymo įstatymas]] - NOTARIATO ĮSTATYMO PAKEITIMO IR PAPILDYMO ĮSTATYMO
 
 ## Šį įstatymą cituoja
 

@@ -9,7 +9,7 @@ pavadinimas: "Lietuvos Respublikos vidaus vandenų transporto kodekso 1 straipsn
 
 ## Šis įstatymas cituoja
 
-- [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - 2 citatos - Vartotojų teisių apsaugos įstatymo
+- [[latest/TAR.D790096B17EE|Lietuvos Respublikos vartotojų teisių apsaugos  įstatymas]] - Vartotojų teisių apsaugos įstatymo
 
 ## Šį įstatymą cituoja
 

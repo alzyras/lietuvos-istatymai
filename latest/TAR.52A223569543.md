@@ -161,7 +161,7 @@ Pakeisti [[#^s-b8f7dac64a00b2ed5bab3d65|5 straipsnį]] ir jį išdėstyti taip:
 2) kai gautas pranešimas apie įstaigos likvidavimą arba reorganizavimą (kai įstaiga, kaip savarankiškas ūkio subjektas, nutraukia veiklą); ^s-c9303675236066c0e3d367d0
 
 
-3) jeigu, sustabdžius licencijos galiojimą, įstaiga per nustatytą terminą nepašalino pažeidimų ar nesikreipė dėl licencijos galiojimo atnaujinimo; ^s-ada3e75be5e3e3f8469c3801
+3) jeigu, sustabdžius licencijos galiojimą, įstaiga per nustatytą terminą nepašalino pažeidimų ar nesikreipė [dėl licencijos galiojimo](https://e-tar.lt/portal/lt/legalAct/TAR.FADCAE4257CE) atnaujinimo; ^s-ada3e75be5e3e3f8469c3801
 
 
 4) sveikatos priežiūros veiklą kontroliuojančių valstybės institucijų teikimu, jeigu, joms sustabdžius dalies ar visų paslaugų teikimą, įstaiga per nustatytą terminą nepašalina pažeidimų; ^s-a897dff39911cd8029de5279

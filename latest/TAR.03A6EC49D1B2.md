@@ -74,7 +74,7 @@ BENDROSIOS NUOSTATOS
 2. Pagal savo prievoles biudžetinė įstaiga atsako tik savo lėšomis. Jeigu biudžetinės įstaigos prievolėms padengti lėšų nepakanka, prievolės padengiamos biudžetinės įstaigos savininko lėšomis neviršijant biudžetinės įstaigos teisės aktų nustatyta tvarka naudojamo, valdomo ir disponuojamo turto vertės. ^s-8ea3d3cdb76a5633723b3211
 
 
-3. Biudžetinė įstaiga savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Lietuvos Respublikos civiliniu kodeksu (toliau – [[latest/TAR.8A39C83848CB|Civilinis kodeksas]]), šiuo ir kitais įstatymais, kitais teisės aktais ir savo nuostatais. ^s-ca634c5101790b506845eed0
+3. Biudžetinė įstaiga savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Lietuvos Respublikos civiliniu kodeksu (toliau – [[latest/TAR.8A39C83848CB|Civilinis kodeksas]]), šiuo ir kitais įstatymais, kitais teisės aktais ir savo nuostatais. ^s-ca634c5101790b506845eed0
 
 
 4. Biudžetinės įstaigos interneto svetainėje turi būti Civilinio kodekso 2.44 straipsnyje nurodyta informacija. ^s-9b56e50306fb4fd913f290b3
@@ -175,7 +175,7 @@ BIUDŽETINĖS ĮSTAIGOS STEIGIMAS, ĮREGISTRAVIMAS IR VALDYMAS
 3. Iš savivaldybės biudžeto išlaikomą biudžetinę įstaigą sprendimu steigia savivaldybės taryba. ^s-03e17e6fe1420545b680b88e
 
 
-4. Šio straipsnio 2 ir [[#^s-03e17e6fe1420545b680b88e|3 dalyse]] nurodytuose teisės aktuose, kuriais steigiama biudžetinė įstaiga, be kita ko, turi būti nurodyta: ^s-43bf9b523b38ef7356fe1421
+4. Šio straipsnio [[#^s-81a966df939172b4693c8a12|2]] ir [[#^s-03e17e6fe1420545b680b88e|3]] dalyse nurodytuose teisės aktuose, kuriais steigiama biudžetinė įstaiga, be kita ko, turi būti nurodyta: ^s-43bf9b523b38ef7356fe1421
 
 
 1) biudžetinės įstaigos pavadinimas ir buveinė; ^s-ab1b75c7464172beed4dbeb0
@@ -398,7 +398,7 @@ Biudžetinė įstaiga negali būti pertvarkyta į kitos teisinės formos juridin
 7. Apie biudžetinės įstaigos reorganizavimo sąlygų aprašo parengimą turi būti viešai paskelbta visų reorganizavime dalyvaujančių biudžetinių įstaigų nuostatuose nurodytame šaltinyje tris kartus ne mažesniais kaip 30 dienų intervalais arba paskelbta vieną kartą ir pranešta raštu visiems biudžetinės įstaigos kreditoriams. Pranešime turi būti nurodyta: ^s-618fb02b32c663ae61a9c642
 
 
-1) [[#^s-4e831f1f63a89c36089af015|šio straipsnio 6 dalies]] 1, 2 ir 3 punktuose nurodyta informacija; ^s-13ab472fed40b87d76bab26e
+1) [[#^s-4e831f1f63a89c36089af015|šio straipsnio 6 dalies]] 1, [[#^s-f68116906ccb9c12a89d881b|2]] ir 3 punktuose nurodyta informacija; ^s-13ab472fed40b87d76bab26e
 
 
 2) kur ir nuo kada galima susipažinti su biudžetinės įstaigos reorganizavimo sąlygomis, po reorganizavimo veiksiančių biudžetinių įstaigų nuostatų projektais ir reorganizavime dalyvaujančių biudžetinių įstaigų praėjusių trejų finansinių metų finansinių ir biudžeto vykdymo ataskaitų rinkiniais, finansinės būklės ataskaitomis ir žemesniojo lygio biudžeto išlaidų sąmatos vykdymo ataskaitomis. ^s-f68116906ccb9c12a89d881b
@@ -525,7 +525,7 @@ Biudžetinė įstaiga negali būti pertvarkyta į kitos teisinės formos juridin
 ### 3 straipsnis. Įstatymo įsigaliojimas ^s-199000dd31e8574df10285d0
 
 
-1. Šis įstatymas, išskyrus šio įstatymo 1 straipsnyje nauja redakcija išdėstyto [[latest/TAR.3A756D83A99B#^s-2fa18fcb0271f5794fe18af4|Lietuvos Respublikos biudžetinių įstaigų įstatymo 4 straipsnio]] 5 ir 6 dalis, įsigalioja  2010 m. balandžio 1 d. ^s-62d86b7d45378472eea6f14d
+1. Šis įstatymas, išskyrus šio įstatymo 1 straipsnyje nauja redakcija išdėstyto [[latest/TAR.3A756D83A99B#^s-2fa18fcb0271f5794fe18af4|Lietuvos Respublikos biudžetinių įstaigų įstatymo 4 straipsnio]] [[latest/TAR.3A756D83A99B#^s-1e8e660a763d54789d6e32c8|5]] ir [[latest/TAR.3A756D83A99B#^s-6dfef0f329bb0d417480d9ca|6]] dalis, įsigalioja  2010 m. balandžio 1 d. ^s-62d86b7d45378472eea6f14d
 
 
 2. Šio įstatymo 1 straipsnyje nauja redakcija išdėstyto [[latest/TAR.3A756D83A99B#^s-4e2635ce23802a70d6db9b83|Lietuvos Respublikos biudžetinių įstaigų įstatymo 13 straipsnis]] iki 2011 m. gruodžio 31 d. netaikomas valstybinėms aukštosioms mokykloms. ^s-22ad4fcb3abc0ded9171bf8c

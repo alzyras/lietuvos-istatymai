@@ -146,7 +146,7 @@ Nr. XIV-3136, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20374
 ### 3 straipsnis. Policijos veiklos teisiniai pagrindai ^s-9d05dfe8de6cba566b741828
 
 
-1. Policija savo veikloje vadovaujasi Lietuvos Respublikos Konstitucija, Statutu, šiuo ir kitais Lietuvos Respublikos įstatymais, Europos Sąjungos teisės aktais, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-9712ee50fe156e91769fd534
+1. Policija savo veikloje vadovaujasi [Lietuvos Respublikos Konstitucija](https://e-tar.lt/portal/lt/legalAct/TAR.47BB952431DA), Statutu, šiuo ir kitais Lietuvos Respublikos įstatymais, Europos Sąjungos teisės aktais, Lietuvos Respublikos tarptautinėmis sutartimis ir kitais teisės aktais. ^s-9712ee50fe156e91769fd534
 
 
 2. Kiti Lietuvos Respublikos teisės aktai policijai taikomi tiek, kiek santykių nereglamentuoja šis įstatymas. ^s-c0841468327a55b07c3e7cfc
@@ -387,7 +387,7 @@ Nr. XIV-1208, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15572
 3. Europos Sąjungos teisės aktų ir Lietuvos Respublikos tarptautinių sutarčių nustatytais atvejais į Lietuvos Respublikos teritoriją gali būti atsiųsti kitų valstybių pareigūnai. Šių pareigūnų teisės, pareigos, atsakomybė ir socialinės garantijos nustatomos Europos Sąjungos teisės aktuose, Lietuvos Respublikos tarptautinėse sutartyse, kituose tarptautiniuose ir nacionaliniuose teisės aktuose. ^s-21ec8bc493aa13c0b2c5cf2b
 
 
-4. Europos Sąjungos valstybių narių ir asocijuotų Šengeno valstybių teisėsaugos pareigūnai, paskirti dalyvauti bendrosiose operacijose Lietuvos Respublikos teritorijoje, įgyja šio įstatymo 21, 22, 23, 24 ir [[#^s-f65e594603797b17493e126b|25 straipsniuose]] nustatytas pareigūnų teises ir pareigas. Šias teises ir pareigas jie gali įgyvendinti tik Lietuvos Respublikos pareigūnams vadovaujant ir paprastai šiems dalyvaujant. ^s-b39b31b4faa17ad91575aaef
+4. Europos Sąjungos valstybių narių ir asocijuotų Šengeno valstybių teisėsaugos pareigūnai, paskirti dalyvauti bendrosiose operacijose Lietuvos Respublikos teritorijoje, įgyja šio įstatymo [[#^s-0e32a6ac2e03061d9321e573|21]], [[#^s-21324cd393d16c5b5f0276af|22]], [[#^s-8418a9e2c425a3c8cbdbd88f|23]], [[#^s-d480ecaf6aed404532dd14f9|24]] ir [[#^s-f65e594603797b17493e126b|25]] straipsniuose nustatytas pareigūnų teises ir pareigas. Šias teises ir pareigas jie gali įgyvendinti tik Lietuvos Respublikos pareigūnams vadovaujant ir paprastai šiems dalyvaujant. ^s-b39b31b4faa17ad91575aaef
 
 
 
@@ -402,7 +402,7 @@ Profesinė Lietuvos policijos pareigūnų šventė – Policijos diena yra spali
 
 
 1. Steigiami juridiniai asmenys (išskyrus policijos įstaigas) savo ar savo atstovybės (ar filialo) pavadinime vartoti žodį „policija“ gali tik turėdami policijos generalinio komisaro sutikimą. ^s-ee10d6f01b0396a8b9afcd77
-TAR pastaba. [[#^s-ee10d6f01b0396a8b9afcd77|14 straipsnio 1 dalies]] nuostatos netaikomos juridinių asmenų, jų atstovybių (filialų), kurie buvo įsteigti ar kurių įsteigimo procedūros buvo pradėtos iki [[latest/28d39920217e11e5b336e9064144f02a|įstatymo Nr. XII-1856]] įsigaliojimo(2016-01-01), pavadinimams.
+TAR pastaba. 14 straipsnio 1 dalies nuostatos netaikomos juridinių asmenų, jų atstovybių (filialų), kurie buvo įsteigti ar kurių įsteigimo procedūros buvo pradėtos iki [[latest/28d39920217e11e5b336e9064144f02a|įstatymo Nr. XII-1856]] įsigaliojimo(2016-01-01), pavadinimams.
 
 
 2. Policija turi štandartą ir ženklą. Policijos štandartą ir ženklą tvirtina policijos generalinis komisaras. ^s-8edd6020948ffe0e51eb6774
@@ -825,7 +825,7 @@ Nr. XIV-3136, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20374
 
 
 
-2. Psichinę prievartą pareigūnas turi teisę panaudoti šio straipsnio 3, [[#^s-4d87e4ed46f8900f7066f54a|4 dalyse]] arba šio įstatymo [[#^s-95e698174d469245bfca1b5e|28 straipsnio 2 dalyje]] nurodytais atvejais. ^s-05a256891538787e976d6d63
+2. Psichinę prievartą pareigūnas turi teisę panaudoti šio straipsnio [[#^s-e3fc069fdd4e2ec2adb0b779|3]], [[#^s-4d87e4ed46f8900f7066f54a|4]] dalyse arba šio įstatymo [[#^s-95e698174d469245bfca1b5e|28 straipsnio 2 dalyje]] nurodytais atvejais. ^s-05a256891538787e976d6d63
 
 
 3. Fizinę prievartą pareigūnas turi teisę panaudoti šiais atvejais: ^s-e3fc069fdd4e2ec2adb0b779
@@ -973,7 +973,7 @@ Nr. XIV-3136, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20374
 7. Kai nėra neišvengiamo pavojaus pareigūno arba kitų asmenų gyvybei ar sveikatai, naudoti šaunamąjį ginklą ar sprogmenis draudžiama: ^s-addbbb35a8949372c7c1ffca
 
 
-1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus [[#^s-95e698174d469245bfca1b5e|šio straipsnio 2 dalies]] 1 ir [[#^s-a8478e87ef4337c9fa9faf14|2 punktuose]] nurodytus atvejus; ^s-fd09550c9081cba1123d2280
+1) žmonių susibūrimo vietose, jeigu dėl to gali nukentėti pašaliniai asmenys, išskyrus [[#^s-95e698174d469245bfca1b5e|šio straipsnio 2 dalies]] 1 ir [[#^s-a8478e87ef4337c9fa9faf14|2]] punktuose nurodytus atvejus; ^s-fd09550c9081cba1123d2280
 
 
 2) patalpose, kuriose yra sprogstamųjų medžiagų, lengvai užsidegančių medžiagų, galinčių sukelti pavojų asmens gyvybei ir sveikatai ar visuomenės saugumui. ^s-a8478e87ef4337c9fa9faf14
@@ -985,7 +985,7 @@ Nr. XIV-3136, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20374
 9. Pareigūnai turi būti specialiai parengti ir reguliariai tikrinami, ar jie sugeba veikti situacijomis, susijusiomis su šaunamojo ginklo ar sprogmenų naudojimu. Pareigūnų parengimo ir tikrinimo tvarką nustato Vyriausybė. ^s-27489a33cba420aec1bd3013
 
 
-10. Šio straipsnio 1, 2, [[#^s-775ae575fcad7b37cacf67c5|3 dalys]] ir 7 dalies 1 punktas netaikomi tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė. ^s-7c04bfbaf61ccf35f2e33486
+10. Šio straipsnio [[#^s-25d404ed037ae60982435258|1]], [[#^s-95e698174d469245bfca1b5e|2]], [[#^s-775ae575fcad7b37cacf67c5|3]] dalys ir 7 dalies 1 punktas netaikomi tais atvejais, kai šaunamasis ginklas naudojamas kaip specialioji priemonė. ^s-7c04bfbaf61ccf35f2e33486
 
 
 Straipsnio pakeitimai:
@@ -1061,7 +1061,7 @@ Nr. IX-887, 2002-05-16, Žin., 2002, Nr. 54-2116 (2002-05-31)
 2.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. IX-1504, 2003-04-17, Žin., 2003, Nr. 42-1910 (2003-05-01)
-[[#^s-67db332f9f82a1b6212e463d|POLICIJOS VEIKLOS ĮSTATYMO 12 IR 17 STRAIPSNIŲ]] PAKEITIMO ĮSTATYMAS
+POLICIJOS VEIKLOS ĮSTATYMO [[#^s-977c4b2e7b0ab5e5b24d8294|12]] IR [[#^s-67db332f9f82a1b6212e463d|17]] STRAIPSNIŲ PAKEITIMO ĮSTATYMAS
 Šis Įstatymas įsigalioja 2003 m. gegužės 1 d.
 
 3.
@@ -1078,12 +1078,12 @@ Nr. X-603, 2006-05-11, Žin., 2006, Nr. 60-2118 (2006-05-27)
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. X-1704, 2008-07-15, Žin., 2008, Nr. 87-3464 (2008-07-31)
 [[latest/TAR.20E97F7D46DA|POLICIJOS VEIKLOS ĮSTATYMO ANTROJO SKIRSNIO PAVADINIMO IR 11, 12, 14 STRAIPSNIŲ PAKEITIMO ĮSTATYMAS]]
-Šis įstatymas, išskyrus [[#^s-0773dfd8a25cd1ec49707cf9|5 straipsnio]] 1 ir 2 dalis, įsigalioja 2008 m. spalio 1 d.
+Šis įstatymas, išskyrus [[#^s-0773dfd8a25cd1ec49707cf9|5 straipsnio]] [[#^s-7da70866a9b372c7e2103a45|1]] ir [[#^s-6d63ad140a895ce5e76e5390|2]] dalis, įsigalioja 2008 m. spalio 1 d.
 
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XI-444, 2009-10-22, Žin., 2009, Nr. 130-5637 (2009-10-31)
-[[#^s-d545e72e1d68aad309f11a59|POLICIJOS VEIKLOS ĮSTATYMO 1, 2, 3, 6(2), 7, 11, 12, 15, 16, 18, 19 STRAIPSNIŲ]] PAKEITIMO IR PAPILDYMO ĮSTATYMAS
+POLICIJOS VEIKLOS ĮSTATYMO 1, 2, 3, 6(2), [[#^s-7eb42cd353d99bce9d05c57e|7]], [[#^s-1d4ec27350196fc23e5ac2c5|11]], [[#^s-977c4b2e7b0ab5e5b24d8294|12]], [[#^s-72a0f73193767cd7749e1d79|15]], [[#^s-6d323404835199013a411b93|16]], [[#^s-19767f69b7690cc2945b992c|18]], [[#^s-d545e72e1d68aad309f11a59|19]] STRAIPSNIŲ PAKEITIMO IR PAPILDYMO ĮSTATYMAS
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1108,7 +1108,7 @@ Pakeitimai:
 1.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-1162, 2014-09-25, paskelbta TAR 2014-10-03, i. k. 2014-13591
-Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 24 ir [[#^s-f65e594603797b17493e126b|25 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 [[#^s-d480ecaf6aed404532dd14f9|24]] ir [[#^s-f65e594603797b17493e126b|25]] straipsnių pakeitimo įstatymas
 
 2.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1123,7 +1123,7 @@ Lietuvos Respublikos policijos veiklos įstatymo Nr. VIII-2048 pakeitimo įstaty
 4.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XII-2366, 2016-05-19, paskelbta TAR 2016-05-27, i. k. 2016-14168
-Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 2, 6, 27 ir [[#^s-3e20a6b34e909ba2b94485ba|28 straipsnių]] pakeitimo ir [[#^s-2e169dfe960738f3d25714b8|26 straipsnio]] pripažinimo netekusiu galios įstatymas
+Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 [[#^s-95c38826bce2d2b399313deb|2]], [[#^s-73931e8afbe96fb709596da6|6]], [[#^s-427a2b35bfdf4bfccfce19c5|27]] ir [[#^s-3e20a6b34e909ba2b94485ba|28]] straipsnių pakeitimo ir [[#^s-2e169dfe960738f3d25714b8|26 straipsnio]] pripažinimo netekusiu galios įstatymas
 
 5.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1133,12 +1133,12 @@ Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 [[#^s-3e20a6b34e909ba2b94
 6.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1866, 2018-12-20, paskelbta TAR 2018-12-28, i. k. 2018-21877
-Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 6, 23 ir [[#^s-427a2b35bfdf4bfccfce19c5|27 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 [[#^s-73931e8afbe96fb709596da6|6]], [[#^s-8418a9e2c425a3c8cbdbd88f|23]] ir [[#^s-427a2b35bfdf4bfccfce19c5|27]] straipsnių pakeitimo įstatymas
 
 7.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIII-1917, 2019-01-11, paskelbta TAR 2019-01-21, i. k. 2019-00850
-Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 2 ir [[#^s-8418a9e2c425a3c8cbdbd88f|23 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 [[#^s-95c38826bce2d2b399313deb|2]] ir [[#^s-8418a9e2c425a3c8cbdbd88f|23]] straipsnių pakeitimo įstatymas
 
 8.
 Lietuvos Respublikos Seimas, Įstatymas
@@ -1148,9 +1148,9 @@ Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 [[#^s-73931e8afbe96fb7095
 9.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-1208, 2022-06-28, paskelbta TAR 2022-07-15, i. k. 2022-15572
-Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 6 ir [[#^s-dfe8ff69a970fc1a6e890d11|10 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 [[#^s-73931e8afbe96fb709596da6|6]] ir [[#^s-dfe8ff69a970fc1a6e890d11|10]] straipsnių pakeitimo įstatymas
 
 10.
 Lietuvos Respublikos Seimas, Įstatymas
 Nr. XIV-3136, 2024-11-12, paskelbta TAR 2024-11-22, i. k. 2024-20374
-Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 2, 27 ir [[#^s-3e20a6b34e909ba2b94485ba|28 straipsnių]] pakeitimo įstatymas
+Lietuvos Respublikos policijos įstatymo Nr. VIII-2048 [[#^s-95c38826bce2d2b399313deb|2]], [[#^s-427a2b35bfdf4bfccfce19c5|27]] ir [[#^s-3e20a6b34e909ba2b94485ba|28]] straipsnių pakeitimo įstatymas

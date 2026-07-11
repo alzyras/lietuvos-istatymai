@@ -42,7 +42,7 @@ Vilnius
 4 straipsnio 2 dalyje vietoj žodžių ir skaičiaus „(išskyrus 4 dalį)“ įrašyti žodžius ir skaičių „(išskyrus 3 dalį)“ ir šią dalį išdėstyti taip:
 
 
-„2. Statutiniams valstybės tarnautojams be išlygų taikomi šio įstatymo 2 ir [[#^s-ea5e7d84056f7f08c8d7796f|3 straipsniai]], 4 straipsnio 2 dalis, [[#^s-b1588b923d84725f724e55c1|5 straipsnis]], [[#^s-0246a68afc9057b7b038d1e1|6 straipsnio]] 1 ir 2 dalys (išskyrus 2 dalies 2 punktą), 7 ir 8 straipsniai, 9 straipsnio 1 ir 6 dalys, 22 straipsnis, 24 straipsnio 1 dalis, 25 straipsnio 1 dalis, 28, 31, 32, 33 (išskyrus 3 dalį), 34, 35, 37, 45, 48, 55, 56, 62, 63, 64, 68, 69 ir 70 straipsniai. Kiti šio įstatymo straipsniai taikomi tiek, kiek jų statuso nereglamentuoja atskiri įstatymai ar statutai. Statutinių valstybės tarnautojų statusą reglamentuojantys įstatymai (statutai) gali nustatyti griežtesnius reikalavimus, negu nustatyta šio įstatymo 9 straipsnio 1 ir 6 dalyse, 22, 28, 56, 68 ir 70 straipsniuose.“
+„2. Statutiniams valstybės tarnautojams be išlygų taikomi šio įstatymo [[#^s-40097f07ee144598e0676188|2]] ir [[#^s-ea5e7d84056f7f08c8d7796f|3]] straipsniai, 4 straipsnio 2 dalis, [[#^s-b1588b923d84725f724e55c1|5 straipsnis]], [[#^s-0246a68afc9057b7b038d1e1|6 straipsnio]] [[#^s-23f3c9a74dd1cd63248950a2|1]] ir [[#^s-fc912e7b3a7d4b46cd532e86|2]] dalys (išskyrus 2 dalies 2 punktą), 7 ir 8 straipsniai, 9 straipsnio 1 ir 6 dalys, 22 straipsnis, 24 straipsnio 1 dalis, 25 straipsnio 1 dalis, 28, 31, 32, 33 (išskyrus 3 dalį), 34, 35, 37, 45, 48, 55, 56, 62, 63, 64, 68, 69 ir 70 straipsniai. Kiti šio įstatymo straipsniai taikomi tiek, kiek jų statuso nereglamentuoja atskiri įstatymai ar statutai. Statutinių valstybės tarnautojų statusą reglamentuojantys įstatymai (statutai) gali nustatyti griežtesnius reikalavimus, negu nustatyta šio įstatymo 9 straipsnio 1 ir 6 dalyse, 22, 28, 56, 68 ir 70 straipsniuose.“
 
 
 
@@ -85,7 +85,7 @@ Pakeisti 62 straipsnio 10 dalį ir ją išdėstyti taip:
 1. Papildyti 69 straipsnio 1 dalį žodžiais ir skaičiais „išskyrus paslaugų valstybės tarnautojus, kuriems ši darbo apmokėjimo sistema taikoma nuo 2002 m. sausio 1 d.“ ir šią dalį išdėstyti taip: ^s-c6416e417bbb0f17364161bb
 
 
-„1. Šio įstatymo šeštajame skirsnyje nustatyta darbo apmokėjimo sistema pradedama įgyvendinti pagal šio straipsnio 2, 3 ir 4 dalių nuostatas nuo 2001 m. spalio 1 d., išskyrus paslaugų valstybės tarnautojus, kuriems ši darbo apmokėjimo sistema taikoma nuo 2002 m. sausio 1 d.“
+„1. Šio įstatymo šeštajame skirsnyje nustatyta darbo apmokėjimo sistema pradedama įgyvendinti pagal šio straipsnio [[#^s-d607b1bb108ef8a9ebfc8fd5|2]], 3 ir 4 dalių nuostatas nuo 2001 m. spalio 1 d., išskyrus paslaugų valstybės tarnautojus, kuriems ši darbo apmokėjimo sistema taikoma nuo 2002 m. sausio 1 d.“
 
 
 2. Papildyti 69 straipsnio 2 dalies 2 punktą ir jį išdėstyti taip: ^s-d607b1bb108ef8a9ebfc8fd5

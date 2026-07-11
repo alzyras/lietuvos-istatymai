@@ -98,7 +98,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 „36 straipsnis. Civilinių orlaivių, jų įrangos (komponentų) gamyba ir techninė priežiūra
 
 
-1. CAA nustato civilinių orlaivių ir jų įrangos (komponentų) gamybos ir techninės priežiūros reikalavimus. Lietuvos Respublikoje įmonės gali gaminti civilinius orlaivius ar jų įrangą (komponentus), taip pat atlikti civilinių orlaivių techninės priežiūros darbus tik turėdamos atitinkamą CAA išduotą pažymėjimą bei laikydamosi šiame pažymėjime nurodytų reikalavimų. Vadovaujantis 2002 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1592/2002 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančiu Europos aviacijos saugos agentūrą, Lietuvos Respublikoje gaminami orlaiviai sertifikuojami Europos aviacijos saugos agentūros (EASA) nustatyta tvarka ir sąlygomis. ^s-090f4df96f36cffc3a1a1acf
+1. CAA nustato civilinių orlaivių ir jų įrangos (komponentų) gamybos ir techninės priežiūros reikalavimus. Lietuvos Respublikoje įmonės gali gaminti civilinius orlaivius ar jų įrangą (komponentus), taip pat atlikti civilinių orlaivių techninės priežiūros darbus tik turėdamos atitinkamą CAA išduotą pažymėjimą bei laikydamosi šiame pažymėjime nurodytų reikalavimų. Vadovaujantis 2002 m. liepos 15 d. Europos Parlamento ir Tarybos [reglamentu (EB) Nr. 1592/2002](https://eur-lex.europa.eu/eli/reg/1592/2002/oj) dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiančiu Europos aviacijos saugos agentūrą, Lietuvos Respublikoje gaminami orlaiviai sertifikuojami Europos aviacijos saugos agentūros (EASA) nustatyta tvarka ir sąlygomis. ^s-090f4df96f36cffc3a1a1acf
 
 
 2. Pažymėjimų, suteikiančių civilinių orlaivių, jų įrangos (komponentų) gamybos ir techninės priežiūros darbų atlikimo teisę, išdavimo sąlygas ir tvarką nustato CAA. CAA prižiūri, kaip pažymėjimus turinčios įmonės laikosi nustatytų reikalavimų. CAA atstovai turi teisę nekliudomi apžiūrėti pažymėjimus turinčių įmonių gamybines patalpas ir įrangą, taip pat gauti visą informaciją ir dokumentus, susijusius su pažymėjime nurodytos veiklos vykdymu. ^s-2e00d06927e402fb050f4603
@@ -110,7 +110,7 @@ Pakeisti 36 straipsnį ir jį išdėstyti taip:
 ### 6 straipsnis. 44 straipsnio 2 ir 3 dalių pakeitimas ir straipsnio papildymas 4 ir 5 dalimis ^s-96ffa66d2873117b65f4ce1a
 
 
-Pakeisti 44 straipsnio 2 ir [[#^s-8303dc578921e31b343a9da5|3 dalis]], papildyti straipsnį 4 ir [[#^s-75c6b1d1880ae24584ae1a2f|5 dalimis]] ir visą straipsnį išdėstyti taip:
+Pakeisti 44 straipsnio 2 ir 3 dalis, papildyti straipsnį 4 ir 5 dalimis ir visą straipsnį išdėstyti taip:
 
 
 „44 straipsnis. Tarptautinių oro uostų žemė
@@ -179,7 +179,7 @@ CAA turi teisę uždrausti orlaiviui išskristi, jei kyla abejonių dėl orlaivi
 5) per paskutinius vienus metus buvo skirtos administracinės nuobaudos už aviacijos saugumo reikalavimų pažeidimus; ^s-c917a06a8d2b8a5e6bd775ec
 
 
-6) jam Organizuoto nusikalstamumo užkardymo įstatymo nustatyta tvarka taikomi teismo įpareigojimai. ^s-42fd145577507874a285b5be
+6) jam [Organizuoto nusikalstamumo užkardymo įstatymo](https://e-tar.lt/portal/lt/legalAct/TAR.67E8ECAA4910) nustatyta tvarka taikomi teismo įpareigojimai. ^s-42fd145577507874a285b5be
 
 
 4. Papildyti 66 straipsnį 6 dalimi: ^s-93e06b4ebeaad8093dedb502
@@ -194,13 +194,13 @@ CAA turi teisę uždrausti orlaiviui išskristi, jei kyla abejonių dėl orlaivi
 1. Papildyti Įstatymo priedą naujais 5–7 punktais: ^s-1942cbd3a25c5b9a51a6c3c2
 
 
-„5. 2002 m. liepos 15 d. Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1592/2002 dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiantis Europos aviacijos saugos agentūrą.
+„5. 2002 m. liepos 15 d. Europos Parlamento ir Tarybos [reglamentas (EB) Nr. 1592/2002](https://eur-lex.europa.eu/eli/reg/1592/2002/oj) dėl bendrųjų taisyklių civilinės aviacijos srityje ir įsteigiantis Europos aviacijos saugos agentūrą.
 
 
-6. 2003 m. rugsėjo 24 d. Komisijos reglamentas (EB) Nr. 1702/2003, nustatantis orlaivio tinkamumo skraidyti ir orlaivio bei susijusių jo gaminių, dalių ir prietaisų tinkamumo naudoti aplinkos atžvilgiu pažymėjimų išdavimą bei projektavimo ir gamybinių organizacijų sertifikavimą įgyvendinančias taisykles. ^s-ec4b6d1ade00569a258b2e1f
+6. 2003 m. rugsėjo 24 d. Komisijos [reglamentas (EB) Nr. 1702/2003](https://eur-lex.europa.eu/eli/reg/1702/2003/oj), nustatantis orlaivio tinkamumo skraidyti ir orlaivio bei susijusių jo gaminių, dalių ir prietaisų tinkamumo naudoti aplinkos atžvilgiu pažymėjimų išdavimą bei projektavimo ir gamybinių organizacijų sertifikavimą įgyvendinančias taisykles. ^s-ec4b6d1ade00569a258b2e1f
 
 
-7. 2003 m. lapkričio 20 d. Komisijos Reglamentas (EB) Nr. 2042/2003 dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo.“ ^s-bfa734a98512a1694f2f72c9
+7. 2003 m. lapkričio 20 d. Komisijos [Reglamentas (EB) Nr. 2042/2003](https://eur-lex.europa.eu/eli/reg/2042/2003/oj) dėl orlaivių nepertraukiamojo tinkamumo skraidyti ir aviacijos produktų, dalių bei prietaisų tinkamumo naudoti ir šias užduotis atliekančių organizacijų bei darbuotojų patvirtinimo.“ ^s-bfa734a98512a1694f2f72c9
 
 
 2. Buvusį Priedo 5 punktą laikyti 8 punktu. ^s-be09d2838e2da5bb33e99d95

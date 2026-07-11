@@ -36,7 +36,7 @@ Vilnius
 ### 1 straipsnis. Rezoliucijos ratifikavimas ^s-ad9740afa9b402f0581ee17b
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento 1997 m. kovo 26 d. dekretą Nr. 1250, ratifikuoja 1997 m. vasario 6 d. Taline pasirašytą laisvosios prekybos sutarties tarp Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos Jungtinio komiteto rezoliuciją Nr.1/97 „Dėl Laisvosios prekybos sutarties tarp Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos, pasirašytos 1993 m. rugsėjo 13 d., A protokolo pataisų“.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu bei atsižvelgdamas į Respublikos Prezidento [1997 m. kovo 26 d. dekretą Nr. 1250](https://e-tar.lt/portal/lt/legalAct/TAR.CE904C3F8494), ratifikuoja 1997 m. vasario 6 d. Taline pasirašytą laisvosios prekybos sutarties tarp Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos Jungtinio komiteto rezoliuciją Nr.1/97 „Dėl Laisvosios prekybos sutarties tarp Estijos Respublikos, Latvijos Respublikos ir Lietuvos Respublikos, pasirašytos 1993 m. rugsėjo 13 d., A protokolo pataisų“.
 
 
 

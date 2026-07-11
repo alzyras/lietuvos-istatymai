@@ -35,7 +35,7 @@ Vilnius
 
 
 ### PIRMASIS SKIRSNIS ^s-5c0f2156d6d49575036569d6
-[[latest/TAR.0F9036415DBD#^s-d73413a7e0961809b00c271d|VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO 2, 3, 4, 5, 8 IR 9 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.0F9036415DBD|VALSTYBINIO SOCIALINIO DRAUDIMO ĮSTATYMO]] [[latest/TAR.0F9036415DBD#^s-a83a96f2c222ff3ddd13c44a|2]], [[latest/TAR.0F9036415DBD#^s-4eaeafb1cbfe6cb893f39d79|3]], [[latest/TAR.0F9036415DBD#^s-917f4a7c9c293acaf75e8aaf|4]], [[latest/TAR.0F9036415DBD#^s-8ee2840c34c94160c2f6d690|5]], [[latest/TAR.0F9036415DBD#^s-41445d56099cbf4732c50d87|8]] IR [[latest/TAR.0F9036415DBD#^s-d73413a7e0961809b00c271d|9]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1991, Nr. 17-447; 2004, Nr. 171-6295; 2005, Nr. 71-2557, Nr. 144-5235)
 
@@ -111,7 +111,7 @@ Pakeisti 9 straipsnio 7 dalį ir ją išdėstyti taip:
 
 
 ### ANTRASIS SKIRSNIS ^s-de468aab3b38f9ad90a7cb75
-[[latest/TAR.4325B0C38B2F#^s-4784c833a44530ea1e8c9ac5|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO 3, 4, 5, 6, 8, 28 IR 30 STRAIPSNIŲ]] PAKEITIMAS
+[[latest/TAR.4325B0C38B2F|NELAIMINGŲ ATSITIKIMŲ DARBE IR PROFESINIŲ LIGŲ SOCIALINIO DRAUDIMO ĮSTATYMO]] [[latest/TAR.4325B0C38B2F#^s-8370cb83f05bea06e1bc463b|3]], [[latest/TAR.4325B0C38B2F#^s-737e8edd028db0830bb7bcb8|4]], [[latest/TAR.4325B0C38B2F#^s-cdcc31efdf4238c4f9c94d25|5]], [[latest/TAR.4325B0C38B2F#^s-9f40cdf85da0dd4aa0149728|6]], [[latest/TAR.4325B0C38B2F#^s-19ed40f2d057a82287194084|8]], [[latest/TAR.4325B0C38B2F#^s-42591506a9a4ccedb5ed3ffc|28]] IR [[latest/TAR.4325B0C38B2F#^s-4784c833a44530ea1e8c9ac5|30]] STRAIPSNIŲ PAKEITIMAS
 
 (Žin., 1999, Nr. 110-3207; 2003, Nr. 114-5114; 2005, Nr. 71-2557)
 
@@ -173,7 +173,7 @@ Pakeisti 8 straipsnio 1 dalies 5 punktą ir jį išdėstyti taip:
 
 
 
-[[#^s-8864f3e71262c023f2c23926|6 straipsnis]] 28 straipsnio 1 ir [[#^s-ab0efa8229da4e75d7fc72f4|2 dalių]] pakeitimas
+[[#^s-8864f3e71262c023f2c23926|6 straipsnis]] 28 straipsnio 1 ir 2 dalių pakeitimas
 
 
 1. 28 straipsnio 1 dalyje vietoj žodžio „nustatytą“ įrašyti žodį „nustatytus“, vietoj žodžio „tarifą“ įrašyti žodį „tarifus“ ir šią dalį išdėstyti taip: ^s-e382ed8738f4569a4b0e3958

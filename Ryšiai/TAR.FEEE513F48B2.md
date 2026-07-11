@@ -13,7 +13,5 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.10E8E285740C#^s-621d55ca38c4b295d6d84aec|Lietuvos Respublikos medicinos praktikos įstatymas]] - 3 citatos - 1121010ISTA0XI-2371
-- [[latest/TAR.10E8E285740C#^s-6461dc8db4295cfe3a7e442e|Lietuvos Respublikos medicinos praktikos įstatymas]] - 1121010ISTA0XI-2371
 - [[latest/TAR.10E8E285740C#^s-7404649beb1d91e4d43de748|Lietuvos Respublikos medicinos praktikos įstatymas]] - 1121010ISTA0XI-2371
-- [[latest/TAR.10E8E285740C#^s-e0e7faab82ccc470fec6cbbb|Lietuvos Respublikos medicinos praktikos įstatymas]] - 3 citatos - 1121010ISTA0XI-2371
+- [[latest/TAR.10E8E285740C#^s-e0e7faab82ccc470fec6cbbb|Lietuvos Respublikos medicinos praktikos įstatymas]] - 2 citatos - 1121010ISTA0XI-2371

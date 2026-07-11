@@ -41,10 +41,10 @@ Vilnius
 ### 1 straipsnis. 1 straipsnio 1 ir 7 dalių pakeitimas ^s-a2dae4c05813b6319036a1c8
 
 
-1. [[#^s-cc8e2481f166436ededed584|1 straipsnio 1 dalyje]] išbraukti žodžius „(toliau – Universitetas)“, po žodžio „fakultetuose“ įrašyti žodžius ir skaičius „nuo 2004 m. lapkričio 10 d. – Mykolo Romerio universiteto policijos fakultetuose, nuo 2007 m. spalio 18 d. – Mykolo Romerio universiteto Viešojo saugumo fakultete“ ir šią dalį išdėstyti taip: ^s-cc8e2481f166436ededed584
+1. 1 straipsnio 1 dalyje išbraukti žodžius „(toliau – Universitetas)“, po žodžio „fakultetuose“ įrašyti žodžius ir skaičius „nuo 2004 m. lapkričio 10 d. – Mykolo Romerio universiteto policijos fakultetuose, nuo 2007 m. spalio 18 d. – Mykolo Romerio universiteto Viešojo saugumo fakultete“ ir šią dalį išdėstyti taip: ^s-cc8e2481f166436ededed584
 
 
-„1. Pareigūnai, iki [[latest/TAR.4FC026AC03AE|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo]] (toliau – Statuto patvirtinimo įstatymas) įsigaliojimo tarnavę vidaus reikalų sistemoje arba Lietuvos teisės universiteto policijos fakultetuose (nuo 2004 m. lapkričio 10 d. – Mykolo Romerio universiteto policijos fakultetuose, nuo 2007 m. spalio 18 d. – Mykolo Romerio universiteto Viešojo saugumo fakultete), Tarnybos vidaus reikalų sistemoje statuto (Žin., 1991, Nr. 25-679; 1992, Nr. 7-205, Nr. 25-738; 1993, Nr. 56-1102; 1998, Nr. 44-1207; 1999, Nr. 21-592; 2000, Nr. 14-363) nustatyta tvarka laikomi vidaus tarnybos sistemos pareigūnais, tarnaujančiais Statuto patvirtinimo įstatymo nustatyta tvarka.“
+„1. Pareigūnai, iki [[latest/TAR.4FC026AC03AE|Lietuvos Respublikos vidaus tarnybos statuto patvirtinimo įstatymo]] (toliau – [[latest/TAR.4FC026AC03AE|Statuto patvirtinimo įstatymas]]) įsigaliojimo tarnavę vidaus reikalų sistemoje arba Lietuvos teisės universiteto policijos fakultetuose (nuo 2004 m. lapkričio 10 d. – Mykolo Romerio universiteto policijos fakultetuose, nuo 2007 m. spalio 18 d. – Mykolo Romerio universiteto Viešojo saugumo fakultete), Tarnybos vidaus reikalų sistemoje statuto (Žin., 1991, Nr. 25-679; 1992, Nr. 7-205, Nr. 25-738; 1993, Nr. 56-1102; 1998, Nr. 44-1207; 1999, Nr. 21-592; 2000, Nr. 14-363) nustatyta tvarka laikomi vidaus tarnybos sistemos pareigūnais, tarnaujančiais Statuto patvirtinimo įstatymo nustatyta tvarka.“
 
 
 2. Pakeisti 1 straipsnio 7 dalį ir ją išdėstyti taip: ^s-a688b6d4c321b7f59a665d79

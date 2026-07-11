@@ -46,13 +46,13 @@ Vilnius
 „1) valstybės bei savivaldybių institucijų, įmonių (įskaitant nurodytas šios dalies 3 punkte), įstaigų, organizacijų, Lietuvos Respublikos diplomatinių atstovybių ir konsulinių įstaigų užsienyje, Lietuvos atstovybių prie tarptautinių organizacijų, taip pat Vyriausybės patvirtintame sąraše išvardytų krašto apsaugos sistemos karinių vienetų ir tarnybų atliekamus prekių ar paslaugų viešuosius pirkimus, kurių vertė per finansinius metus yra ne mažesnė kaip 75 tūkst. litų, ar darbų viešuosius pirkimus, kurių vertė yra ne mažesnė kaip 300 tūkst. litų, už valstybės biudžeto, savivaldybių biudžetų, Valstybinio socialinio draudimo fondo biudžeto, Privalomojo sveikatos draudimo fondo biudžeto ir kitų valstybės pinigų fondų lėšas, taip pat už valstybės vardu gautą labdarą ar kitą piniginę paramą, kurią suteikęs subjektas nenurodo, kaip ją panaudoti, už valstybės vardu gaunamas paskolas arba už paskolas su valstybės garantija, jei sutartyse dėl šių paskolų naudojimo nėra numatyta kitokių sąlygų;“.
 
 
-2. [[#^s-e7a1fe99cff29c5a9a898ae8|1 straipsnio 2 dalyje]] po žodžio „atliekami“ įrašyti žodžius „ir tiekėjų (rangovų) skundai, susiję su šiais pirkimais, nagrinėjami“ ir šią dalį išdėstyti taip: ^s-e7a1fe99cff29c5a9a898ae8
+2. 1 straipsnio 2 dalyje po žodžio „atliekami“ įrašyti žodžius „ir tiekėjų (rangovų) skundai, susiję su šiais pirkimais, nagrinėjami“ ir šią dalį išdėstyti taip: ^s-e7a1fe99cff29c5a9a898ae8
 
 
 „2. Prekių, paslaugų ar darbų pirkimai, kurių vertė yra mažesnė už nurodytą [[#^s-743505c4a699b4f380709990|šio straipsnio 1 dalyje]], atliekami ir tiekėjų (rangovų) skundai, susiję su šiais pirkimais, nagrinėjami Lietuvos Respublikos Vyriausybės nustatyta tvarka. Vyriausybė gali patvirtinti sąrašą prekių, darbų, paslaugų, kuriems visais atvejais, neatsižvelgiant į vertę, taikomas viešasis pirkimas.“
 
 
-3. Pakeisti 1 straipsnio 5 dalies 1 punktą, [[#^s-6c992b892988c4471faaa86a|2 punkte]] po žodžio „procedūras“ įrašyti žodžius „bei tarptautinių finansinių institucijų teikiamų finansinių paslaugų pirkimams“, pakeisti 3 ir [[#^s-3aab535ce2f68bf5b140f0e5|4 punktus]], papildyti dalį 8, 9 ir [[#^s-b32ce7979cd592325f0e09cf|10 punktais]] ir visą šią dalį išdėstyti taip: ^s-a271b41646e578f35124eb19
+3. Pakeisti 1 straipsnio 5 dalies 1 punktą, [[#^s-6c992b892988c4471faaa86a|2 punkte]] po žodžio „procedūras“ įrašyti žodžius „bei tarptautinių finansinių institucijų teikiamų finansinių paslaugų pirkimams“, pakeisti [[#^s-648e68db1bbe725af6d5c9cb|3]] ir [[#^s-3aab535ce2f68bf5b140f0e5|4]] punktus, papildyti dalį [[#^s-35e62bf11dce7358ebaf1088|8]], [[#^s-cc54c526349a6c6c177a20ac|9]] ir [[#^s-b32ce7979cd592325f0e09cf|10]] punktais ir visą šią dalį išdėstyti taip: ^s-a271b41646e578f35124eb19
 
 
 „5. Šio įstatymo reikalavimai netaikomi:

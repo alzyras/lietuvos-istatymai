@@ -57,7 +57,7 @@ Pakeisti [[#^s-1504df3be2e2d64a0d7efccb|2 straipsnį]] ir jį išdėstyti taip:
 3. Depozitoriumas – bankas, turintis teisę Lietuvos Respublikoje ar kitoje Europos ekonominės erdvės valstybėje teikti investicines paslaugas ir turintis buveinę arba padalinį Lietuvos Respublikoje. ^s-21a2dd4f2cf157af30ebd841
 
 
-4. Dukterinė įmonė – kaip ši sąvoka apibrėžta Įmonių konsoliduotos finansinės atskaitomybės įstatyme. ^s-bc87499aa7466654ec862986
+4. Dukterinė įmonė – kaip ši sąvoka apibrėžta [Įmonių konsoliduotos finansinės atskaitomybės įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.AB44F084071E). ^s-bc87499aa7466654ec862986
 
 
 5. Finansinių priemonių portfelis – kaip ši sąvoka apibrėžta [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]]. ^s-c734a5117a59be170505dede
@@ -69,13 +69,13 @@ Pakeisti [[#^s-1504df3be2e2d64a0d7efccb|2 straipsnį]] ir jį išdėstyti taip:
 7. Grynieji aktyvai – atitinkamo pensijų fondo pensijų turto vertės ir ilgalaikių bei trumpalaikių finansinių įsipareigojimų (išskyrus įsipareigojimus pensijų fondo dalyviams) skirtumas. ^s-5b7b2737e8c3f632008f021a
 
 
-8. Investicinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] 1–4 punktuose numatytos finansinės priemonės, taip pat indėliai. ^s-9ce1e29eaba4e80dc4ae3f14
+8. Investicinės priemonės – [[latest/TAR.AB7AFE2F35B2#^s-5095fb84385c9c2d19659e68|Finansinių priemonių rinkų įstatymo 3 straipsnio 4 dalies]] [[latest/TAR.AB7AFE2F35B2#^s-058ef0e4834e6f1ad4368f73|1]]–[[latest/TAR.AB7AFE2F35B2#^s-71078f5c7f1fdabf0a7adbe6|4]] punktuose numatytos finansinės priemonės, taip pat indėliai. ^s-9ce1e29eaba4e80dc4ae3f14
 
 
 9. Išvestinės finansinės priemonės – finansinės priemonės, kurių vertė priklauso nuo vienos ar kelių finansinių priemonių vertės. ^s-7ba4660afe27448a06325a1c
 
 
-10. Kontrolė – kaip ši sąvoka apibrėžta Įmonių konsoliduotos finansinės atskaitomybės įstatyme. ^s-ea13360a11741ccbccc8374a
+10. Kontrolė – kaip ši sąvoka apibrėžta [Įmonių konsoliduotos finansinės atskaitomybės įstatyme](https://e-tar.lt/portal/lt/legalAct/TAR.AB44F084071E). ^s-ea13360a11741ccbccc8374a
 
 
 11. Nepriekaištingos reputacijos asmenys – kaip ši sąvoka apibrėžta [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]]. ^s-c00d2c45a978b3706eace78f
@@ -120,7 +120,7 @@ Pakeisti [[#^s-1504df3be2e2d64a0d7efccb|2 straipsnį]] ir jį išdėstyti taip:
 2) obligacijos ir kitų formų ne nuosavybės vertybiniai popieriai; ^s-474771934cc81cccfcc72885
 
 
-3) kiti perleidžiamieji vertybiniai popieriai, suteikiantys teisę pasirašymo ar keitimo būdu įsigyti šios dalies 1 ir [[#^s-474771934cc81cccfcc72885|2 punktuose]] nurodytų perleidžiamųjų vertybinių popierių. ^s-685d176a5b5fdfc253ec33e2
+3) kiti perleidžiamieji vertybiniai popieriai, suteikiantys teisę pasirašymo ar keitimo būdu įsigyti šios dalies [[#^s-030beffa62944e972f311700|1]] ir [[#^s-474771934cc81cccfcc72885|2]] punktuose nurodytų perleidžiamųjų vertybinių popierių. ^s-685d176a5b5fdfc253ec33e2
 
 
 23. Pinigų rinkos priemonės – [[latest/TAR.AB7AFE2F35B2|Finansinių priemonių rinkų įstatyme]] apibrėžtos pinigų rinkos priemonės, kurių vertę visada galima tiksliai nustatyti. ^s-f4a6632ffca99ff641346fa4
@@ -316,13 +316,13 @@ Pakeisti 46 straipsnį ir jį išdėstyti taip:
 1) išleistos arba garantuotos valstybės narės vyriausybės, regioninės valdžios, savivaldybės ar centrinio banko, Europos centrinio banko, Europos Sąjungos ar Europos investicijų banko, ne valstybės narės ar vieno iš federacinę valstybę sudarančių subjektų ar tarptautinės organizacijos, kuriai priklauso bent viena valstybė narė, arba ^s-28ffae5f93b020ad5964311e
 
 
-2) išleistos subjekto, kurio vertybiniai popieriai įtraukti į prekybą [[#^s-01860352683db37aacb478ff|šio straipsnio 1 dalies]] 1 ir 2 punktuose nurodytose reguliuojamose rinkose, arba ^s-96031dd2695451f1522f43ba
+2) išleistos subjekto, kurio vertybiniai popieriai įtraukti į prekybą [[#^s-01860352683db37aacb478ff|šio straipsnio 1 dalies]] [[#^s-28ffae5f93b020ad5964311e|1]] ir 2 punktuose nurodytose reguliuojamose rinkose, arba ^s-96031dd2695451f1522f43ba
 
 
 3) išleistos ar garantuotos subjekto, kurio veiklos rizika yra prižiūrima pagal Europos Sąjungos teisės reikalavimus ar tokius reikalavimus, kurie yra ne mažiau griežti už nustatytus Europos Sąjungoje, arba ^s-e7f0ec37fc3461b2e775da84
 
 
-4) išleistos Vertybinių popierių komisijos patvirtintus kriterijus atitinkančios įmonės, kurios kapitalas ir rezervai sudaro mažiausiai 10 000 000 eurų, kuri rengia konsoliduotas finansines ataskaitas ir atlieka įmonių grupės finansavimo funkciją, kai bent vienos iš jos grupei priklausančių įmonių perleidžiamieji vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje, ar kuri naudojama banko paskolomis finansuojamiems vertybiniams popieriams išleisti, o investicijos į tokias pinigų rinkos priemones apsaugotos ne mažiau, kaip nurodyta šios dalies 1–[[#^s-e7f0ec37fc3461b2e775da84|3 punktuose]]. ^s-55ad94938ef834e42c11f0c0
+4) išleistos Vertybinių popierių komisijos patvirtintus kriterijus atitinkančios įmonės, kurios kapitalas ir rezervai sudaro mažiausiai 10 000 000 eurų, kuri rengia konsoliduotas finansines ataskaitas ir atlieka įmonių grupės finansavimo funkciją, kai bent vienos iš jos grupei priklausančių įmonių perleidžiamieji vertybiniai popieriai yra įtraukti į prekybą reguliuojamoje rinkoje, ar kuri naudojama banko paskolomis finansuojamiems vertybiniams popieriams išleisti, o investicijos į tokias pinigų rinkos priemones apsaugotos ne mažiau, kaip nurodyta šios dalies [[#^s-28ffae5f93b020ad5964311e|1]]–[[#^s-e7f0ec37fc3461b2e775da84|3]] punktuose. ^s-55ad94938ef834e42c11f0c0
 
 
 3. Pensijų turtas negali būti investuotas į nekilnojamąjį turtą, tauriuosius metalus arba į suteikiančius į juos teises perleidžiamuosius vertybinius popierius. ^s-2e3117ad6e0f1c545a1d0c65
@@ -344,7 +344,7 @@ Pakeisti 47 straipsnį ir jį išdėstyti taip:
 „47 straipsnis. Finansinių priemonių portfelio diversifikavimas
 
 
-1. Į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota ne daugiau kaip 5 procentai pensijų turtą sudarančių grynųjų aktyvų, išskyrus šio straipsnio 2, 5 ir [[#^s-90398355e953b075fe78882b|6 dalyse]] numatytus atvejus. ^s-1bbd37c0568b61572016c396
+1. Į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota ne daugiau kaip 5 procentai pensijų turtą sudarančių grynųjų aktyvų, išskyrus šio straipsnio [[#^s-8926ded03e05fc455a1c5656|2]], [[#^s-c6f087f1f44e04a3d6f5cbb9|5]] ir [[#^s-90398355e953b075fe78882b|6]] dalyse numatytus atvejus. ^s-1bbd37c0568b61572016c396
 
 
 2. Į vieno emitento perleidžiamuosius vertybinius popierius ar pinigų rinkos priemones gali būti investuota daugiau kaip 5 procentai, bet ne daugiau kaip 10 procentų grynųjų aktyvų, su sąlyga, kad tokių investicijų bendra suma nebus didesnė kaip 40 procentų grynųjų aktyvų (šis apribojimas netaikomas indėliams). ^s-8926ded03e05fc455a1c5656
@@ -362,7 +362,7 @@ Pakeisti 47 straipsnį ir jį išdėstyti taip:
 6. Investicijos į obligacijas, išleistas tokios valstybėje narėje registruotą buveinę turinčios kredito įstaigos, kuri, siekiant apsaugoti obligacijų savininkų interesus, yra tos valstybės specialiai prižiūrima pagal teisės aktus, o iš obligacijų leidimo gauta suma visam obligacijų galiojimo laikui investuojama į tokį turtą, kurio pakaktų patenkinti obligacijų savininkų reikalavimus ir iš kurio – emitento nemokumo atveju – obligacijų savininkų reikalavimai išmokėti pagrindinę sumą ir palūkanas būtų patenkinti pirmumo teise, negali būti didesnės kaip 25 procentai grynųjų aktyvų. Kai į tokias vieno emitento obligacijas investuojama daugiau kaip 5 procentai, bet ne daugiau kaip 25 procentai grynųjų aktyvų, bendra tokių investicijų suma negali būti didesnė kaip 80 procentų grynųjų aktyvų. ^s-90398355e953b075fe78882b
 
 
-7. Šio straipsnio 5 ir [[#^s-90398355e953b075fe78882b|6 dalyse]] numatyti perleidžiamieji vertybiniai popieriai ir pinigų rinkos priemonės nėra įskaitomi skaičiuojant investicijas, kurioms pagal [[#^s-8926ded03e05fc455a1c5656|šio straipsnio 2 dalį]] taikoma maksimali leistina 40 procentų riba. Šio straipsnio 1–[[#^s-90398355e953b075fe78882b|6 dalyse]] numatytos ribos negali būti sudedamos, todėl investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius, pinigų rinkos priemones, indėlius suma negali būti didesnė kaip 35 procentai pensijų turtą sudarančių grynųjų aktyvų. ^s-c7a5204933c7fd6d304269ef
+7. Šio straipsnio [[#^s-c6f087f1f44e04a3d6f5cbb9|5]] ir [[#^s-90398355e953b075fe78882b|6]] dalyse numatyti perleidžiamieji vertybiniai popieriai ir pinigų rinkos priemonės nėra įskaitomi skaičiuojant investicijas, kurioms pagal [[#^s-8926ded03e05fc455a1c5656|šio straipsnio 2 dalį]] taikoma maksimali leistina 40 procentų riba. Šio straipsnio [[#^s-1bbd37c0568b61572016c396|1]]–[[#^s-90398355e953b075fe78882b|6]] dalyse numatytos ribos negali būti sudedamos, todėl investicijų į vieno asmens išleistus perleidžiamuosius vertybinius popierius, pinigų rinkos priemones, indėlius suma negali būti didesnė kaip 35 procentai pensijų turtą sudarančių grynųjų aktyvų. ^s-c7a5204933c7fd6d304269ef
 
 
 8. Į įmonių, priklausančių grupei, kuri turi sudaryti konsoliduotas finansines ataskaitas, išleistus perleidžiamuosius vertybinius popierius ir pinigų rinkos priemones gali būti investuota ne daugiau kaip 20 procentų grynųjų aktyvų.“ ^s-03c7e843541482918f486c45

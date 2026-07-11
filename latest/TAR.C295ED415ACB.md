@@ -86,7 +86,7 @@ BENDROSIOS NUOSTATOS
 6. Mėgėjų žvejybos leidimas – įmokos, skirtos žuvų ištekliams atkurti ir išsaugoti, sumokėjimo Aplinkos ministerijos nustatyta tvarka patvirtinimas, suteikiantis teisę mėgėjų žvejybai. ^s-ca9ef1dae5366c0a9b166cfd
 
 
-7. Ne mėgėjų žvejybos įrankiai – tinkliniai žvejybos įrankiai, išvardyti 2006 m. gruodžio 6 d. Komisijos reglamento (EB) Nr. 1799/2006, iš dalies keičiančio Reglamentą (EB) Nr. 26/2004 dėl Bendrijos žvejybos laivyno registro (OL 2006 L 341, p. 26), I priedo 3 lentelėje, ir elektros žūklės įrankiai. ^s-62f51d6406d9b0dccce01ffd
+7. Ne mėgėjų žvejybos įrankiai – tinkliniai žvejybos įrankiai, išvardyti 2006 m. gruodžio 6 d. Komisijos [reglamento (EB) Nr. 1799/2006](https://eur-lex.europa.eu/eli/reg/1799/2006/oj), iš dalies keičiančio Reglamentą (EB) Nr. 26/2004 dėl Bendrijos žvejybos laivyno registro (OL 2006 L 341, p. 26), I priedo 3 lentelėje, ir elektros žūklės įrankiai. ^s-62f51d6406d9b0dccce01ffd
 
 
 8. Saugomos ir globojamos žuvų rūšys – žuvų rūšys, įrašytos į Lietuvos Respublikos saugomų gyvūnų, augalų ir grybų rūšių sąrašą, Globojamų žuvų ir vėžių rūšių sąrašą ir (arba) Europos Bendrijos svarbos gyvūnų ir augalų rūšių sąrašus arba saugomos pagal tarptautinius susitarimus. ^s-83b76380e5e7f509df0a8998
@@ -410,7 +410,7 @@ TEISĖS Į MĖGĖJŲ ŽVEJYBĄ SUTEIKIMAS. ŽUVŲ IŠTEKLIŲ APSAUGA. ASMENŲ, U
 ### 11 straipsnis. Teisės į mėgėjų žvejybą suteikimas ^s-6dc61fac79f9a9f8b52452e3
 
 
-1. Teisę į mėgėjų žvejybą suteikia mėgėjų žvejybos leidimas, išskyrus šio straipsnio 8 ir [[#^s-ac7a46efc5bb3533f89f7330|9 dalyse]] numatytus atvejus. ^s-4d9ca82c4539b7a99057c2e2
+1. Teisę į mėgėjų žvejybą suteikia mėgėjų žvejybos leidimas, išskyrus šio straipsnio [[#^s-84a3f40182f72f1a8dcbf3b4|8]] ir [[#^s-ac7a46efc5bb3533f89f7330|9]] dalyse numatytus atvejus. ^s-4d9ca82c4539b7a99057c2e2
 
 
 2. Už mėgėjų žvejybos leidimą žvejoti valstybiniuose žuvininkystės vandens telkiniuose, į kuriuos neišduoti leidimai naudoti žvejybos plotą, mokama: ^s-1c3ccb39397bd2c0c2d13f76

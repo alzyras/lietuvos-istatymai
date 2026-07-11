@@ -36,7 +36,7 @@ Vilnius
 1 straipsnis
 
 
-Visi okupacijos ir aneksijos laikotarpiu Lietuvai primesti SSRS, Lietuvos TSR, vietinių LTSR valstybinės valdžios ir valdymo organų nutarimai, sprendimai, potvarkiai, taip pat sandoriai dėl Lietuvos valstybės, juridinių ir fizinių asmenų nuosavybės teise Lietuvoje turėto turto – žemės, miškų, vandens telkinių, pastatų, statinių ir įrenginių kartu su priklausiniais, įrengimais ir inventoriumi perdavimo ar skyrimo SSRS kariniams daliniams, karinėms įmonėms bei su jų buvimu susijusioms SSRS organizacijoms ir kitoms struktūroms yra niekiniai, negaliojantys nuo jų priėmimo. Jie neuždeda Lietuvos Respublikai, jos valstybinės valdžios ir valdymo institucijoms, kitiems juridiniams ir fiziniams asmenims jokių pareigų.
+Visi okupacijos ir aneksijos laikotarpiu Lietuvai primesti SSRS, Lietuvos TSR, vietinių LTSR valstybinės valdžios ir valdymo organų nutarimai, sprendimai, potvarkiai, taip pat sandoriai [dėl Lietuvos valstybės](https://e-tar.lt/portal/lt/legalAct/TAR.59F99B2B61F2), juridinių ir fizinių asmenų nuosavybės teise Lietuvoje turėto turto – žemės, miškų, vandens telkinių, pastatų, statinių ir įrenginių kartu su priklausiniais, įrengimais ir inventoriumi perdavimo ar skyrimo SSRS kariniams daliniams, karinėms įmonėms bei su jų buvimu susijusioms SSRS organizacijoms ir kitoms struktūroms yra niekiniai, negaliojantys nuo jų priėmimo. Jie neuždeda Lietuvos Respublikai, jos valstybinės valdžios ir valdymo institucijoms, kitiems juridiniams ir fiziniams asmenims jokių pareigų.
 
 
 

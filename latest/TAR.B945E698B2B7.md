@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-47542b9be45ceda69d067e17
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento 2003 m. lapkričio 4 d. dekretą Nr. 278, ratifikuoja 2003 m. liepos 22 d. Madride pasirašytą Lietuvos Respublikos ir Ispanijos Karalystės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos bei jos protokolą.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 6 punktu bei atsižvelgdamas į Respublikos Prezidento [2003 m. lapkričio 4 d. dekretą Nr. 278](https://e-tar.lt/portal/lt/legalAct/TAR.FC9255EE9FD3), ratifikuoja 2003 m. liepos 22 d. Madride pasirašytą Lietuvos Respublikos ir Ispanijos Karalystės sutartį dėl pajamų bei kapitalo dvigubo apmokestinimo išvengimo ir mokesčių slėpimo prevencijos bei jos protokolą.
 
 
 

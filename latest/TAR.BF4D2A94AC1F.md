@@ -37,7 +37,7 @@ Vilnius
 ### 1 straipsnis. Sutarties ratifikavimas ^s-f711524fb81e2cde983340b3
 
 
-Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas 2004 m. balandžio 21 d. dekretą Nr. 24, ratifikuoja 2003 m. gruodžio 16 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės sutartį dėl bendradarbiavimo katastrofų, stichinių nelaimių bei didelių avarijų prevencijos srityje ir likviduojant jų padarinius.
+Lietuvos Respublikos Seimas, vadovaudamasis Lietuvos Respublikos Konstitucijos 67 straipsnio 16 punktu ir 138 straipsnio 1 dalies 2 punktu bei atsižvelgdamas į laikinai einančio Respublikos Prezidento pareigas [2004 m. balandžio 21 d. dekretą Nr. 24](https://e-tar.lt/portal/lt/legalAct/TAR.C35581BA00D6), ratifikuoja 2003 m. gruodžio 16 d. Vilniuje pasirašytą Lietuvos Respublikos Vyriausybės ir Baltarusijos Respublikos Vyriausybės sutartį dėl bendradarbiavimo katastrofų, stichinių nelaimių bei didelių avarijų prevencijos srityje ir likviduojant jų padarinius.
 
 
 

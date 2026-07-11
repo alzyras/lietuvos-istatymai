@@ -105,7 +105,7 @@ p r i i m a šį įstatymą.
 ### 4 straipsnis. Prašymų ir dokumentų pateikimo terminas ^s-47de98805dc765d17bcc5392
 
 
-Religinės bendruomenės ir bendrijos prašymus ir šio įstatymo 2 ir [[#^s-2a6f1cf64943c9ad97748733|3 straipsniuose]] nustatytus dokumentus turi pateikti per trejus metus nuo šio įstatymo įsigaliojimo.
+Religinės bendruomenės ir bendrijos prašymus ir šio įstatymo [[#^s-b4751c967a6ece630ab656a4|2]] ir [[#^s-2a6f1cf64943c9ad97748733|3]] straipsniuose nustatytus dokumentus turi pateikti per trejus metus nuo šio įstatymo įsigaliojimo.
 
 
 

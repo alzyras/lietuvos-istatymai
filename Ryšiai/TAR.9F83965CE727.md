@@ -13,4 +13,4 @@ _Nėra._
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.11BAD851321B#^s-ae614a3824e61502854df65c|Lietuvos Respublikos mėgėjų žvejybos įstatymas]] - 3 citatos - 1101010ISTA00XI-896
+- [[latest/TAR.11BAD851321B#^s-ae614a3824e61502854df65c|Lietuvos Respublikos mėgėjų žvejybos įstatymas]] - 2 citatos - 1101010ISTA00XI-896

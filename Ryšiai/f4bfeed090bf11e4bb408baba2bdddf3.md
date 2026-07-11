@@ -9,9 +9,9 @@ pavadinimas: "Lietuvos Respublikos žuvininkystės įstatymo Nr. VIII-1756 papil
 
 ## Šis įstatymas cituoja
 
-_Nėra._
+- [[latest/TAR.D22016A0EC70|Lietuvos Respublikos žuvininkystės įstatymas]] - 14 citatos - 6 punktu
+- [[latest/TAR.D22016A0EC70#^s-8444d3ab79338a983e9cb4f8|Lietuvos Respublikos žuvininkystės įstatymas]] - 31 straipsnio 4 dalį
 
 ## Šį įstatymą cituoja
 
-- [[latest/TAR.D22016A0EC70#^s-bfe92e4d0faac5d635e2ff48|Lietuvos Respublikos žuvininkystės įstatymas]] - Įstatymas Nr. XII-1523
-- [[latest/TAR.D22016A0EC70#^s-e23cc5321568cc9587fdd33d|Lietuvos Respublikos žuvininkystės įstatymas]] - Įstatymas Nr. XII-1523
+_Nėra._
